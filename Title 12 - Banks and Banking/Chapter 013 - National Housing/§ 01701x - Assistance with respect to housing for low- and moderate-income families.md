@@ -14,11 +14,11 @@
 
 (2) The Secretary (A) shall provide the services described in clause (iii) of paragraph (1) for homeowners assisted under section 235 of the National Housing Act \[12 U.S.C. 1715z\]; (B) shall, in consultation with the Secretary of Agriculture, provide such services for borrowers who are first-time homebuyers with guaranteed loans under section 502(h) of the Housing Act of 1949 \[42 U.S.C. 1472(h)\]; and (C) may provide such services for other owners of single family dwelling units insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or guaranteed or insured under chapter 37 of title 38. For purposes of this paragraph and clause (iii) of paragraph (1), the Secretary may provide the services described in such clause directly or may enter into contracts with, make grants to, and provide other types of assistance to private or public organizations with special competence and knowledge in counseling low- and moderate-income families to provide such services.
 
-(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program undersection 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
+(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
-(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of thereasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
 
 (2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
 
@@ -74,11 +74,23 @@
 
 &emsp;&emsp;(C) the homeowner is, or is expected to be, unable to make payments, correct a home loan delinquency within a reasonable time, or resume full home loan payments due to a reduction in the income of the homeowner because of—
 
-&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner; or
+&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
 
-&emsp;&emsp;&emsp;(ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner.
+&emsp;&emsp;&emsp;(ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner;
 
-> &emsp;An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 12852(b)(1) of title 42 and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\].
+&emsp;&emsp;&emsp;(iii) a significant reduction in the income of the household due to divorce or death; or
+
+&emsp;&emsp;&emsp;(iv) a significant increase in basic expenses of the homeowner or an immediate family member of the homeowner (including the spouse, child, or parent for whom the homeowner provides substantial care or financial assistance) due to—
+
+&emsp;&emsp;&emsp;&emsp;(I) an unexpected or significant increase in medical expenses;
+
+&emsp;&emsp;&emsp;&emsp;(II) a divorce;
+
+&emsp;&emsp;&emsp;&emsp;(III) unexpected and significant damage to the property, the repair of which will not be covered by private or public insurance; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) a large property-tax increase; or
+
+&emsp;&emsp;(D) the Secretary of Housing and Urban Development determines that the annual income of the homeowner is no greater than the annual income established by the Secretary as being of low- or moderate-income.
 
 #### (5) Notification of availability of homeownership counseling
 
@@ -150,7 +162,7 @@
 
 #### (8) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
 
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
@@ -232,7 +244,7 @@
 
 #### (A) Designation of counseling target areas
 
-&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph (B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
+&emsp;&emsp;The Secretary shall designate 3 counseling target areas (as provided in subparagraph\(B)), which shall be located in not less than 2 separate metropolitan areas. The Secretary shall provide for counseling under the demonstration program under this subsection with respect to only such counseling target areas.
 
 #### (B) Counseling target areas
 
@@ -380,7 +392,7 @@
 
 #### (5) Fees
 
-&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certificationunder subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
+&emsp;Subject to the approval of the Secretary, the entity selected under paragraph (2)(B) may establish and impose reasonable fees for participation in the training provided under the program and for examination and certification under subsection (e)(2) of this section, in an amount sufficient to cover any costs of such activities not covered with amounts provided under paragraph (7).
 
 #### (6) Timing
 
@@ -390,7 +402,7 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 110–289, div. B, title I, §2127, July 30, 2008, 122 Stat. 2841.)
 
 #### References in Text
 
@@ -409,6 +421,12 @@ The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), i
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (c)(4). Pub. L. 110–289, §2127(2), struck out concluding provisions which read as follows: “An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 12852(b)(1) of title 42 and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act.”
+
+Subsec. (c)(4)(C)(iii), (iv). Pub. L. 110–289, §2127(1), added cls. (iii) and (iv).
+
+Subsec. (c)(4)(D). Pub. L. 110–289, §2127(3), added subpar. (D).
 
 2006—Subsec. (c)(5)(A)(ii)(IV). Pub. L. 109–163 added subcl. (IV).
 
@@ -448,7 +466,7 @@ Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally
 
 Subsec. (c)(9). Pub. L. 102–550, §162(b)(2), substituted “1994” for “1992”.
 
-Subsec. (d)(12). Pub. L. 102–550, §162(c), amended par. (12) generally. Prior to amendment, par. (12) read asfollows: “There are authorized to be appropriated to carry out this subsection $350,000 for fiscal year 1991 and $365,000 for fiscal year 1992.”
+Subsec. (d)(12). Pub. L. 102–550, §162(c), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “There are authorized to be appropriated to carry out this subsection $350,000 for fiscal year 1991 and $365,000 for fiscal year 1992.”
 
 Subsecs. (e), (f). Pub. L. 102–550, §162(d), added subsecs. (e) and (f).
 
@@ -517,6 +535,146 @@ Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing a
 #### Construction of Amendments by Pub. L. 109–163
 
 Pub. L. 109–163, div. A, title VI, §688(b), Jan. 6, 2006, 119 Stat. 3337, provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] shall relieve any person of any obligation imposed by any other Federal, State, or local law.”
+
+#### Financial Education and Counseling
+
+Pub. L. 110–289, div. A, title I, §1132, July 30, 2008, 122 Stat. 2727, provided that:
+
+“(a)
+
+Goals.—Financial education and counseling under this section shall have the goal of—
+
+&emsp;“(1) increasing the financial knowledge and decision making capabilities of prospective homebuyers;
+
+&emsp;“(2) assisting prospective homebuyers to develop monthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
+
+&emsp;“(3) helping prospective homebuyers to improve their credit scores by understanding the relationship between their credit histories and their credit scores; and
+
+&emsp;“(4) educating prospective homebuyers about the options available to build savings for short- and long-term goals.
+
+“(b)
+
+Grants.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Treasury (in this section referred to as the ‘Secretary’) shall make grants to eligible organizations to enable such organizations to provide a range of financial education and counseling services to prospective homebuyers.
+
+&emsp;“(2)
+
+Selection.—The Secretary shall select eligible organizations to receive assistance under this section based on their experience and ability to provide financial education and counseling services that result in documented positive behavioral changes.
+
+“(c)
+
+Eligible Organizations.—
+
+&emsp;“(1)
+
+In general.—For purposes of this section, the term ‘eligible organization’ means an organization that is—
+
+&emsp;&emsp;“(A) certified in accordance with section 106(e)(1) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)\[1\]); or
+
+&emsp;&emsp;“(B) certified by the Office of Financial Education of the Department of the Treasury for purposes of this section, in accordance with paragraph (2).
+
+&emsp;“(2) OFE
+
+certification.—To be certified by the Office of Financial Education for purposes of this section, an eligible organization shall be—
+
+&emsp;&emsp;“(A) a housing counseling agency certified by the Secretary of Housing and Urban Development under section 106(e) of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x(e)\];
+
+&emsp;&emsp;“(B) a State, local, or tribal government agency;
+
+&emsp;&emsp;“(C) a community development financial institution (as defined in section 103(5) of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702(5)) or a credit union; or
+
+&emsp;&emsp;“(D) any collaborative effort of entities described in any of subparagraphs (A) through (C).
+
+“(d)
+
+Authority for Pilot Projects.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Treasury shall authorize not more than 5 pilot project grants to eligible organizations under subsection (c) in order to—
+
+&emsp;&emsp;“(A) carry out the services under this section; and
+
+&emsp;&emsp;“(B) provide such other services that will improve the financial stability and economic condition of low- and moderate-income and low-wealth individuals.
+
+&emsp;“(2)
+
+Goal.—The goal of the pilot project grants under this subsection is to—
+
+&emsp;&emsp;“(A) identify successful methods resulting in positive behavioral change for financial empowerment; and
+
+&emsp;&emsp;“(B) establish program models for organizations to carry out effective counseling services.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section and for the provision of additional financial educational services.
+
+“(f)
+
+Study and Report on Effectiveness and Impact.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General of the United States shall conduct a study on the effectiveness and impact of the grant program established under this section. Not later than 3 years after the date of enactment of this Act \[July 30, 2008\], the Comptroller General shall submit a report on the results of such study to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+&emsp;“(2)
+
+Content of study.—The study required under paragraph (1) shall include an evaluation of the following:
+
+&emsp;&emsp;“(A) The effectiveness of the grant program established under this section in improving the financial situation of homeowners and prospective homebuyers served by the grant program.
+
+&emsp;&emsp;“(B) The extent to which financial education and counseling services have resulted in positive behavioral changes.
+
+&emsp;&emsp;“(C) The effectiveness and quality of the eligible organizations providing financial education and counseling services under the grant program.
+
+“(g)
+
+Regulations.—The Secretary is authorized to promulgate such regulations as may be necessary to implement and administer the grant program authorized by this section.”
+
+#### Pre-Purchase Homeownership Counseling Demonstration
+
+Pub. L. 110–289, div. B, title I, §2128, July 30, 2008, 122 Stat. 2841, provided that:
+
+“(a)
+
+Establishment of Program.—For the period beginning on the date of enactment of this title \[July 30, 2008\] and ending on the date that is 3 years after such date of enactment, the Secretary of Housing and Urban Development shall establish and conduct a demonstration program to test the effectiveness of alternative forms of pre-purchase homeownership counseling for eligible homebuyers.
+
+“(b)
+
+Forms of Counseling.—The Secretary of Housing and Urban Development shall provide to eligible homebuyers pre-purchase homeownership counseling under this section in the form of—
+
+&emsp;“(1) telephone counseling;
+
+&emsp;“(2) individualized in-person counseling;
+
+&emsp;“(3) web-based counseling;
+
+&emsp;“(4) counseling classes; or
+
+&emsp;“(5) any other form or type of counseling that the Secretary may, in his discretion, determine appropriate.
+
+“(c)
+
+Size of Program.—The Secretary shall make available the pre-purchase homeownership counseling described in subsection (b) to not more than 3,000 eligible homebuyers in any given year.
+
+“(d)
+
+Incentive To Participate.—The Secretary of Housing and Urban Development may provide incentives to eligible homebuyers to participate in the demonstration program established under subsection (a). Such incentives may include the reduction of any insurance premium charges owed by the eligible homebuyer to the Secretary.
+
+“(e)
+
+Eligible Homebuyer Defined.—For purposes of this section an ‘eligible homebuyer’ means a first-time homebuyer who has been approved for a home loan with a loan-to-value ratio between 97 percent and 98.5 percent.
+
+“(f)
+
+Report to Congress.—The Secretary of Housing and Urban Development shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative—\[sic\]
+
+&emsp;“(1) on an annual basis, on the progress and results of the demonstration program established under subsection (a); and
+
+&emsp;“(2) for the period beginning on the date of enactment of this title \[July 30, 2008\] and ending on the date that is 5 years after such date of enactment, on the payment history and delinquency rates of eligible homebuyers who participated in the demonstration program.”
 
 #### Disclosure Form
 

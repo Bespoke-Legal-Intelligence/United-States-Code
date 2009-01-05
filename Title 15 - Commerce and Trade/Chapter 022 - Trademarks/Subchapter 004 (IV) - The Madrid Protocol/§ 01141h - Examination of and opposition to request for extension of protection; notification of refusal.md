@@ -24,7 +24,7 @@ If,<sup>1</sup> a request for extension of protection is refused under subsectio
 
 &emsp;(C) A notification of the possibility that an opposition to the request may be filed after the end of that 18-month period.
 
-(2) If the Director has sent a notification of the possibility of opposition under paragraph\(1)(C), the Director shall, if applicable, transmit to the International Bureau a notification of refusal on the basis of the opposition, together with a statement of all the grounds for the opposition, within 7 months after the beginning of the opposition period or within 1 month after the end of the opposition period, whichever is earlier.
+(2) If the Director has sent a notification of the possibility of opposition under paragraph (1)(C), the Director shall, if applicable, transmit to the International Bureau a notification of refusal on the basis of the opposition, together with a statement of all the grounds for the opposition, within 7 months after the beginning of the opposition period or within 1 month after the end of the opposition period, whichever is earlier.
 
 (3) If a notification of refusal of a request for extension of protection is transmitted under paragraph (1) or (2), no grounds for refusal of such request other than those set forth in such notification may be transmitted to the International Bureau by the Director after the expiration of the time periods set forth in paragraph (1) or (2), as the case may be.
 

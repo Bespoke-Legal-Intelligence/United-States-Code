@@ -26,6 +26,10 @@
 
 &emsp;The Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with the requirements of this subsection would create an unreasonable administrative burden on the recipient.
 
+#### (4) Exclusion from program income of regular developer's fees for low-income housing tax credit projects
+
+&emsp;Notwithstanding any other provision of this chapter, any income derived from a regular and customary developer's fee for any project that receives a low-income housing tax credit under section 42 of title 26, and that is initially funded using a grant provided under this chapter, shall not be considered to be program income if the developer's fee is approved by the State housing credit agency.
+
 #### (b) Labor standards
 
 #### (1) In general
@@ -40,13 +44,19 @@
 
 &emsp;Paragraph (1) shall not apply to any contract or agreement for assistance, sale, or lease pursuant to this chapter, if such contract or agreement is otherwise covered by one or more laws or regulations adopted by an Indian tribe that requires the payment of not less than prevailing wages, as determined by the Indian tribe.
 
-(Pub. L. 104–330, title I, §104, Oct. 26, 1996, 110 Stat. 4027; Pub. L. 106–568, title X, §1003(j), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, §503(i), Dec. 27, 2000, 114 Stat. 2965; Pub. L. 107–292, §5, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 109–136, §3, Dec. 22, 2005, 119 Stat. 2644.)
+(Pub. L. 104–330, title I, §104, Oct. 26, 1996, 110 Stat. 4027; Pub. L. 106–568, title X, §1003(j), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, §503(i), Dec. 27, 2000, 114 Stat. 2965; Pub. L. 107–292, §5, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 109–136, §3, Dec. 22, 2005, 119 Stat. 2644; Pub. L. 110–411, title I, §104, Oct. 14, 2008, 122 Stat. 4323.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Codification
 
 “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–411 added par. (4).
 
 2005—Subsec. (a)(2). Pub. L. 109–136 inserted “restrict access to or” after “not” in introductory provisions.
 

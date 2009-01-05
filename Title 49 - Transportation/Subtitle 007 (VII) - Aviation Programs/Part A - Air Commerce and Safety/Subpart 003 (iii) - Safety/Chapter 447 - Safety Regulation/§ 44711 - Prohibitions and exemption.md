@@ -10,7 +10,7 @@ Prohibitions.—A person may not—
 
 &emsp;&emsp;(A) without an airman certificate authorizing the airman to serve in the capacity for which the certificate was issued; or
 
-&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
+&emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issuedunder section 44701(a) or (b) or any of sections 44702–44716 of this title;
 
 &emsp;(3) employ for service related to civil aircraft used in air commerce an airman who does not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
 

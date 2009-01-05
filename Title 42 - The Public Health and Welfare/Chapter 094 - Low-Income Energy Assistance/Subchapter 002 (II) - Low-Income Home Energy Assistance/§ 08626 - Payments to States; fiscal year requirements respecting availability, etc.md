@@ -28,7 +28,7 @@
 
 (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
-(Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706,Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §307, Oct. 27, 1998, 112 Stat. 2758.)
+(Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706, Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §307, Oct. 27, 1998, 112 Stat. 2758.)
 
 #### Codification
 

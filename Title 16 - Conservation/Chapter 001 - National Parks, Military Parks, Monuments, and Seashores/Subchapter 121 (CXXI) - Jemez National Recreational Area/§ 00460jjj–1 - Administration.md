@@ -16,7 +16,7 @@ In administering the recreation area, the Secretary shall give particular emphas
 
 (1) In recognition of the historic use of portions of the recreation area by Indian peoples for traditional cultural and customary uses, the Secretary shall, subject to the provisions of subsection (n) of this section in consultation with local tribal leaders, ensure the protection of religious and cultural sites and provide access from time to time to those sites by Indian peoples for traditional cultural and customary uses. Such access shall be consistent with the purpose and intent of the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the “American Indian Religious Freedom Act”). The Secretary, in accordance with such Act, upon request of an Indian tribe or pueblo, may from time to time temporarily close to general public use one or more specific portions of the recreational area in order to protect traditional and customary uses in such portions by Indian peoples.
 
-(2) In preparing and implementing management plans for the recreation area, the Secretary shall request that the Governor of the Pueblo of Jemez and the chief executive officers of other appropriate Indian tribes and pueblos make recommendations on methods of—
+(2) In preparing and implementing management plans for the recreation area, the Secretary shall request that the Governor of the Pueblo of Jemez and the chief executive officersof other appropriate Indian tribes and pueblos make recommendations on methods of—
 
 &emsp;(A) assuring access to religious and cultural sites;
 
@@ -84,5 +84,5 @@ The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 8
 
 The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

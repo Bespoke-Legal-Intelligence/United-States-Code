@@ -40,7 +40,7 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 Transition to the new council composition.—
 
-&emsp;(A) Notwithstanding subsection (b)(1)(B) of this section, members first appointed pursuantto such subsection shall be appointed not later than December 31, 1997. Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998.
+&emsp;(A) Notwithstanding subsection (b)(1)(B) of this section, members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997. Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998.
 
 &emsp;(B) Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) of this section until the number of Presidentially appointed members is less than 14.
 
@@ -86,7 +86,7 @@ The effective date of this subsection, referred to in subsec. (b)(2)(B), probabl
 
 1998—Subsec. (b)(1)(B)(iii). Pub. L. 105–277 substituted “Two” for “One”.
 
-1997—Subsec. (b). Pub. L. 105–83, §346(e), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The Councilshall be composed of the Chairperson of the National Endowment for the Arts, who shall be Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
+1997—Subsec. (b). Pub. L. 105–83, §346(e), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The Council shall be composed of the Chairperson of the National Endowment for the Arts, who shall be Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
 
 &emsp;“(1) from among private citizens of the United States who (A) are widely recognized for their broad knowledge of, or expertise in, or for their profound interest in, the arts and (B) have established records of distinguished service, or achieved eminence, in the arts;
 
@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 105–119, which directed the substitution of “eight�
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §106(b)\], designated existing text as par. (1), inserted at end “All policy meetings of the Council shall be open to the public.”, and added par. (2).
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively, struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council fails to make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §106(c)\], struck out “(1)” and “(2)” before “advise the Chairperson” and “review applications for”, respectively,struck out “thereon” before “to the Chairperson”, inserted before period at end of first sentence “with respect to the approval of each application and the amount of financial assistance (if any) to provide to each applicant”, struck out “, unless the Council fails to make a recommendation thereon within a reasonable time” after “on such application”, substituted “an expressed and direct delegation” for “a delegation” and “, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that” for “; <i>Provided</i>, That”, inserted “The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation.”, and inserted “The Council shall make recommendations to the Chairperson concerning—” and added pars. (1) and (2) immediately thereafter.
 
 1985—Subsec. (b). Pub. L. 99–194, §106(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding par. (1), in par. (1) designated existing provisions following “who” as cl. (A) and added cl. (B), and in provisions following par. (3) substituted “the President” for “him” and inserted “In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts.”
 
@@ -144,7 +144,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Council as Established Under the National Arts and Cultural Development Act of 1964
 
-Section 5(d)(1) of Pub. L. 91–346 provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment forthe Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88–579 \[former section 781 et seq. of this title\], without interruption.”
+Section 5(d)(1) of Pub. L. 91–346 provided that: “The National Council on the Arts established under section 6 of the National Foundation on the Arts and the Humanities Act of 1965 \[this section\], as amended by subsection (b), shall, for any purpose determined to be necessary by the Chairman of the National Endowment for the Arts, be deemed to be a continuation of the National Council on the Arts established under the National Arts and Cultural Development Act of 1964, Public Law 88–579 \[former section 781 et seq. of this title\], without interruption.”
 
 #### Appointees to Council Under National Arts and Cultural Development Act of 1964
 

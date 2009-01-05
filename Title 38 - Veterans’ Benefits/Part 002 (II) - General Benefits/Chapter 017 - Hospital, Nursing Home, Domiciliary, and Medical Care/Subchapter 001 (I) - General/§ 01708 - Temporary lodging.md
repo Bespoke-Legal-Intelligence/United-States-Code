@@ -16,7 +16,7 @@
 
 &emsp;(3) is constructed by, and donated to the Secretary by, the Zachary and Elizabeth M. Fisher Armed Services Foundation.
 
-(d) The Secretary may establish charges for providing lodging under this section. The proceeds from such charges shall be credited to the medical care account and shall be available until expended for the purposes of providing such lodging.
+(d) The Secretary may establish charges for providing lodging under this section. The proceeds from such charges shall be credited to the medical services account and shall be available until expended for the purposes of providing such lodging.
 
 (e) The Secretary shall prescribe regulations to carry out this section. Such regulations shall include provisions—
 
@@ -30,5 +30,9 @@
 
 &emsp;(5) establishing any other limitations, conditions, and priorities that the Secretary considers appropriate with respect to lodging under this section.
 
-(Added Pub. L. 106–419, title II, §221(a), Nov. 1, 2000, 114 Stat. 1844.)
+(Added Pub. L. 106–419, title II, §221(a), Nov. 1, 2000, 114 Stat. 1844; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 

@@ -112,13 +112,13 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Revisions
 
-&emsp;The Administrator may establish a threshold amount for a toxic chemical different from the amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+&emsp;The Administrator may establish a threshold amount for a toxic chemical different fromthe amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
 #### (g) Form
 
 #### (1) Information required
 
-&emsp;Not later than June 1, 1987, the Administrator shall publish a uniform toxic chemicalrelease form for facilities covered by this section. If the Administrator does not publish such a form, owners and operators of facilities subject to the requirements of this section shall provide the information required under this subsection by letter postmarked on or before the date on which the form is due. Such form shall—
+&emsp;Not later than June 1, 1987, the Administrator shall publish a uniform toxic chemical release form for facilities covered by this section. If the Administrator does not publish such a form, owners and operators of facilities subject to the requirements of this section shall provide the information required under this subsection by letter postmarked on or before the date on which the form is due. Such form shall—
 
 &emsp;&emsp;(A) provide for the name and location of, and principal business activities at, the facility;
 
@@ -188,7 +188,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (6) Judicial review
 
-&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and setaside agency action, findings, and conclusions found to be unsupported by substantial evidence.
+&emsp;In any judicial review of a rulemaking which establishes a modification under this subsection, a court may hold unlawful and set aside agency action, findings, and conclusions found to be unsupported by substantial evidence.
 
 #### (7) Applicability
 
@@ -242,7 +242,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (4) Mass balance definition
 
-&emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+&emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed ata facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 (Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
 

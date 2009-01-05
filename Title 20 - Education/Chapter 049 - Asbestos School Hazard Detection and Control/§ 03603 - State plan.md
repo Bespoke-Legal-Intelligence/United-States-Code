@@ -26,7 +26,7 @@ Not later than six months after June 14, 1980, the State educational agency of a
 
 #### (b) Reporting requirements respecting plan implementation
 
-Not later than six months after the submission of the plan described in subsection (a) of this section, and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) of this section shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
+Not later than six months after the submission of the plan described in subsection (a) ofthis section, and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) of this section shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
 
 (Pub. L. 96–270, §4, June 14, 1980, 94 Stat. 490.)
 

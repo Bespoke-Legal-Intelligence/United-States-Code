@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(3) To identify, in consultation with the Agency for Health Care Policy and Research, issues related to the quality of life for men after prostrate <sup>1</sup> cancer screening and followup.
 
-&emsp;(4) To develop and disseminate public information and education programs for prostate cancer, including appropriate messages about the risks and benefits of prostate cancerscreening for the general public, health care providers, policy makers and other appropriate individuals.
+&emsp;(4) To develop and disseminate public information and education programs for prostate cancer, including appropriate messages about the risks and benefits of prostate cancer screening for the general public, health care providers, policy makers and other appropriate individuals.
 
 &emsp;(5) To improve surveillance for prostate cancer.
 

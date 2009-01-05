@@ -70,7 +70,7 @@ Members of the Commission shall serve without compensation. Members shall be ent
 
 #### (h) Administrative support
 
-The Secretary shall provide the Commission with assistance in obtaining such personnel, equipment, and facilities as may be needed by the Commission to carry out its duties.
+The Secretary shall provide the Commission with assistance in obtaining such personnel,equipment, and facilities as may be needed by the Commission to carry out its duties.
 
 #### (i) Annual report
 

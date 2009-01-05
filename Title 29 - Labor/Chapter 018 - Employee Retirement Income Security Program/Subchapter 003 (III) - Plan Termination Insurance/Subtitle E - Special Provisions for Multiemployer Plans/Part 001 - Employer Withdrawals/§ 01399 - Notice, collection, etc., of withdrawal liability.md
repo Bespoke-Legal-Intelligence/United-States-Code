@@ -44,7 +44,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 &emsp;(I) the average annual number of contribution base units for the period of 3 consecutive plan years, during the period of 10 consecutive plan years ending before the plan year in which the withdrawal occurs, in which the number of contribution base units for which the employer had an obligation to contribute under the plan is the highest, and
 
-&emsp;(II) the highest contribution rate at which the employer had an obligation to contribute under the plan during the 10 plan years ending with the plan year in which the withdrawal occurs.
+&emsp;(II) the highest contribution rate at which the employer had an obligation to contributeunder the plan during the 10 plan years ending with the plan year in which the withdrawal occurs.
 
 > For purposes of the preceding sentence, a partial withdrawal described in section 1385(a)(1) of this title shall be deemed to occur on the last day of the first year of the 3-year testing period described in section 1385(b)(1)(B)(i) of this title.
 

@@ -1,6 +1,6 @@
 ### §1151. Indian country defined
 
-Except as otherwise provided in sections 1154 and 1156 of this title, the term “Indian country”, as used in this chapter, means (a) all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation, (b) all dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a state, and (c) all Indian allotments, the Indian titles to which have notbeen extinguished, including rights-of-way running through the same.
+Except as otherwise provided in sections 1154 and 1156 of this title, the term “Indian country”, as used in this chapter, means (a) all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation, (b) all dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a state, and (c) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through the same.
 
 (June 25, 1948, ch. 645, 62 Stat. 757; May 24, 1949, ch. 139, §25, 63 Stat. 94.)
 
@@ -16,7 +16,7 @@ R.S. §§2145, 2146 (U.S.C., title 25, §§217, 218) extended to the Indian coun
 
 The confusion was not lessened by the cases of <i>U.S. v. McBratney</i>, 104 U.S. 622 and <i>Draper v. U.S</i>., 17 S.Ct. 107, holding that crimes in Indian country by persons not Indians are not cognizable by Federal courts in absence of reservation or cession of exclusive jurisdiction applicable to places within the exclusive jurisdiction of the United States. Because of numerous statutes applicable only to Indians and prescribing punishment for crimes committed by Indians against Indians, “Indian country” was defined but once. (See act June 30, 1834, ch. 161, §1, 4, Stat. 729, which was later repealed.)
 
-Definition is based on latest construction of the term by the United States Supreme Court in <i>U.S. v. McGowan</i>, 58 S.Ct. 286, 302 U.S. 535, following <i>U.S. v. Sandoval</i>, 34 S.Ct. 1, 5, 231 U.S. 28, 46. (See also <i>Donnelly v. U.S</i>., 33 S.Ct. 449, 228 U.S. 243; and <i>Kills Plenty v. U.S</i>., 133 F.2d 292, certiorari denied, 1943, 63 S.Ct. 1172). (See reviser's note under section 1153 of this title.)
+Definition is based on latest construction of the term by the United States Supreme Court in <i>U.S. v.</i><i>McGowan</i>, 58 S.Ct. 286, 302 U.S. 535, following <i>U.S. v. Sandoval</i>, 34 S.Ct. 1, 5, 231 U.S. 28, 46. (See also <i>Donnelly v. U.S</i>., 33 S.Ct. 449, 228 U.S. 243; and <i>Kills Plenty v. U.S</i>., 133 F.2d 292, certiorari denied, 1943, 63 S.Ct. 1172). (See reviser's note under section 1153 of this title.)
 
 Indian allotments were included in the definition on authority of the case of <i>U.S. v. Pelican</i>, 1913, 34 S.Ct. 396, 232 U.S. 442, 58 L.Ed. 676.
 

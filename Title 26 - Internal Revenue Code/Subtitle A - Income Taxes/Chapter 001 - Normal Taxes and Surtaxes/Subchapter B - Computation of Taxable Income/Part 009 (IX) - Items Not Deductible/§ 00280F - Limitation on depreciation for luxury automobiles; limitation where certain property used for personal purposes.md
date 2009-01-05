@@ -248,13 +248,17 @@ For purposes of this section—
 
 #### (10) Special rule for property acquired in nonrecognition transactions
 
-&emsp;For purposes of subsection (a)(2) any property acquired in a nonrecognition transaction shall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
+&emsp;For purposes of subsection (a)(2) any property acquired in a nonrecognition transactionshall be treated as a single property originally placed in service in the taxable year in which it was placed in service after being so acquired.
 
 #### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
 (Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59.)
+
+#### Inflation Adjusted Items for Certain Calendar Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.</i>
 
 #### Amendments
 
@@ -268,7 +272,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 1990—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1)“Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
@@ -426,9 +430,39 @@ Compliance provisions.—The amendments made by subsection (b) \[amending sectio
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Inflation Adjusted Items for Certain Calendar Years
+
+Provisions relating to inflation adjustment of items in this section for certain calendar years were contained in the following:
+
+2008—Revenue Procedure 2008–22.
+
+2007—Revenue Procedure 2007–30.
+
+2006—Revenue Procedure 2006–18.
+
+2005—Revenue Procedure 2005–13.
+
+2004—Revenue Procedure 2004–20.
+
+2003—Revenue Procedure 2003–75.
+
+2002—Revenue Procedure 2002–14.
+
+2001—Revenue Procedure 2001–19.
+
+2000—Revenue Procedure 2000–18.
+
+1999—Revenue Procedure 99–14.
+
+1998—Revenue Procedures 98–24 and 98–30.
+
+1997—Revenue Procedure 97–20.
+
+1996—Revenue Procedure 96–25.
 

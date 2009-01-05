@@ -142,7 +142,7 @@ Subsec. (b)(5). Pub. L. 108–176, §149(d), added par. (5).
 
 1994—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
 
-Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows:“to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
+Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
 
 Subsec. (b)(3). Pub. L. 103–429, §6(69)(B), added par. (3). Former par. (3) redesignated (4).
 

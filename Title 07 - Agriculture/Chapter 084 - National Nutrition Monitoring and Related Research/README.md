@@ -12,6 +12,7 @@
 |  |  |
 | :--- | ---: |
 | [5311\.](Subchapter%20001%20%28I%29%20-%20Nutrition%20Monitoring%20and%20Related%20Research/%C2%A7%2005311%20-%20Establishment%20of%20coordinated%20program.md) | Establishment of coordinated program. |
+| [5311a.](Subchapter%20001%20%28I%29%20-%20Nutrition%20Monitoring%20and%20Related%20Research/%C2%A7%2005311a%20-%20Joint%20nutrition%20monitoring%20and%20related%20research%20activities.md) | Joint nutrition monitoring and related research activities. |
 | [5312\.](Subchapter%20001%20%28I%29%20-%20Nutrition%20Monitoring%20and%20Related%20Research/%C2%A7%2005312%20-%20Functions%20of%20Secretaries.md) | Functions of Secretaries. |
 | [5313\.](Subchapter%20001%20%28I%29%20-%20Nutrition%20Monitoring%20and%20Related%20Research/%C2%A7%2005313%20-%20Development%20of%20comprehensive%20plan%20for%20National%20Nutrition%20Monitoring%20and%20Related%20Research%20Program.md) | Development of comprehensive plan for National Nutrition Monitoring and Related Research Program. |
 | [5314\.](Subchapter%20001%20%28I%29%20-%20Nutrition%20Monitoring%20and%20Related%20Research/%C2%A7%2005314%20-%20Implementation%20of%20comprehensive%20plan.md) | Implementation of comprehensive plan. |

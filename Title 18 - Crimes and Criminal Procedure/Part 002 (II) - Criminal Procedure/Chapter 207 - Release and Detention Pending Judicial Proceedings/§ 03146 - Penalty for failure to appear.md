@@ -40,9 +40,9 @@ Declaration of Forfeiture.—If a person fails to appear before a court as requi
 
 #### Prior Provisions
 
-A prior section 3146, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, §8, Oct. 12,1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3146, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, §8, Oct. 12, 1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-Another prior section 3146, act Aug. 20, 1954, ch. 772, §1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
+Another prior section 3146, act Aug. 20, 1954, ch. 772, §1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, §3(a), June 22, 1966,80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
 
 #### Amendments
 

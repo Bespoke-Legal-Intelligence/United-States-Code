@@ -6,7 +6,7 @@
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
-(d) At any time, an authority designated by the Secretary concerned may order a member ofa reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
+(d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
 (e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
@@ -96,7 +96,7 @@ Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
 
 The word “hereafter” is omitted as surplusage. The words “there are not enough . . . who are” are substituted for the words “adequate numbers of . . . are not”. The words “without the consent of the persons affected” and “under the jurisdiction of that Secretary” are inserted for clarity.
 
-The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)),which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term “active duty” to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
 #### Codification
 
@@ -149,4 +149,16 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
 For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
+
+#### Advance Notice to Members of Reserve Components of Deployment in Support of Contingency Operations
+
+Pub. L. 110–181, div. A, title V, §515, Jan. 28, 2008, 122 Stat. 99, provided that:
+
+“(a)
+
+Advance Notice Required.—The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
+
+“(b)
+
+Reduction or Waiver of Notice Requirement.—The Secretary of Defense may waive the requirement of subsection (a), or authorize shorter notice than the minimum specified in such subsection, during a war or national emergency declared by the President or Congress or to meet mission requirements. If the waiver or reduction is made on account of mission requirements, the Secretary shall submit to Congress a report detailing the reasons for the waiver or reduction and the mission requirements at issue.”
 

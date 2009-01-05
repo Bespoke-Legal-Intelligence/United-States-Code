@@ -148,7 +148,7 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
-Hereafter, referred to in subsec. (h)(3), probably means on and after the date of enactment of Pub. L.109–347 which enacted subsec. (h) and was approved Oct. 13, 2006.
+Hereafter, referred to in subsec. (h)(3), probably means on and after the date of enactment of Pub. L. 109–347 which enacted subsec. (h) and was approved Oct. 13, 2006.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 &emsp;“(B) $53,500,000 is for the operation and maintenance of the air interdiction program of the Service; and
 
-&emsp;“(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor export controls under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
+&emsp;“(C) not to exceed $14,000,000 is for the implementation of the ‘Operation EXODUS’ program and any related program designed to enforce or monitor exportcontrols under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 
 “(2) No part of any sum that is appropriated under the authority of paragraph (1) may be used to close any port of entry at which, during fiscal year 1985—
 

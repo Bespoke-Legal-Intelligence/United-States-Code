@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–222 effective as if included in the provisions of the 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 
 #### Effective Date of 1969 Amendment
 

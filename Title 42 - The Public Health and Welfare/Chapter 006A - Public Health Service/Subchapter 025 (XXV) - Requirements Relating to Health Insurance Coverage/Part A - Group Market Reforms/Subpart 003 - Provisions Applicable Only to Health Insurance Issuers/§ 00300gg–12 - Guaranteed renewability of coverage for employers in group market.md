@@ -10,7 +10,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (1) Nonpayment of premiums
 
-&emsp;The plan sponsor has failed to pay premiums or contributions in accordance with the terms of the health insurance coverage or the issuer has not received timely premium payments.
+&emsp;The plan sponsor has failed to pay premiums or contributions in accordance with the termsof the health insurance coverage or the issuer has not received timely premium payments.
 
 #### (2) Fraud
 

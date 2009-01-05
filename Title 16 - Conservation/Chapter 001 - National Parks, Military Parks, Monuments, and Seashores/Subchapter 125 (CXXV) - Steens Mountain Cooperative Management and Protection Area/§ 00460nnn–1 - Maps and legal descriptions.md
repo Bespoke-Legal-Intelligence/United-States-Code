@@ -22,7 +22,7 @@ The maps and legal descriptions referred to in subsection (a) of this section sh
 
 #### (c) Public availability
 
-Copies of the maps and legal descriptions referred to in subsection (a) of this section shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management and in the appropriate office of the Bureau of Land Management in the State of Oregon.
+Copies of the maps and legal descriptions referred to in subsection (a) of this section shallbe on file and available for public inspection in the Office of the Director of the Bureau of Land Management and in the appropriate office of the Bureau of Land Management in the State of Oregon.
 
 (Pub. L. 106–399, §3, Oct. 30, 2000, 114 Stat. 1657.)
 

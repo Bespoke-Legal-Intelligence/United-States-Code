@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, andwith respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
+The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
 
 #### (b) Administration of sanctuary system
 
@@ -20,7 +20,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (2) Chimpanzees accepted into system
 
-&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standards under paragraph (1) shall include the following:
+&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standardsunder paragraph (1) shall include the following:
 
 &emsp;&emsp;(A) A prohibition that the chimpanzees may not be used for research, except as authorized under paragraph (3).
 
@@ -128,7 +128,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;&emsp;(i) The term of the chair of the board is 3 years.
 
-&emsp;&emsp;&emsp;(ii) The initial members of the board select, by a random method, one memberfrom each of the six fields specified in subparagraph (A) to serve a term of 2 years and (in addition to the chair) one member from each of such fields to serve a term of 3 years.
+&emsp;&emsp;&emsp;(ii) The initial members of the board select, by a random method, one member from each of the six fields specified in subparagraph (A) to serve a term of 2 years and (in addition to the chair) one member from each of such fields to serve a term of 3 years.
 
 &emsp;&emsp;&emsp;(iii) After the initial terms under clause (ii) expire, each member of the board (other than the chair) is appointed to serve a term of 2 years.
 
@@ -148,7 +148,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (5) Establishment of contract entity
 
-&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2) does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
+&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2)does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
 
 #### (f) Definitions
 

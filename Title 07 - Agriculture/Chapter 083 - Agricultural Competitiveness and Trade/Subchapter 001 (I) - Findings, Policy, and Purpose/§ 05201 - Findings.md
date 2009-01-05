@@ -28,9 +28,9 @@ Congress finds that—
 
 &emsp;(7) increasing the volume and value of exports is important to the financial well-being of the farm sector in the United States and to increasing farm income in the United States;
 
-&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers in the United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), the Commodity CreditCorporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
+&emsp;(8) in order to increase agricultural exports and improve prices for farmers and ranchers in the United States, it is necessary that all agricultural export programs of the United States be used in an expeditious manner, including programs established under the Food for Peace Act (7 U.S.C. 1691 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), and section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
 
-&emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for Peace Act of 1966 (7 U.S.C. 1707a), the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
+&emsp;(9) greater use should be made by the Secretary of Agriculture of the authorities established under section 4 <sup>1</sup> of the Food for Peace Act of 1966 (7 U.S.C. 1707a), the Food for Peace Act (7 U.S.C. 1691 et seq.), section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431), and the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.) to provide intermediate credit financing and other assistance for the establishment of facilities in importing countries to—
 
 &emsp;&emsp;(A) improve the handling, marketing, processing, storage, and distribution of imported agricultural commodities and products; and
 
@@ -46,15 +46,23 @@ Congress finds that—
 
 &emsp;&emsp;(B) establishes the infrastructure that is essential to the expansion of markets for United States agricultural commodities and products.
 
-(Pub. L. 100–418, title IV, §4101, Aug. 23, 1988, 102 Stat. 1388.)
+(Pub. L. 100–418, title IV, §4101, Aug. 23, 1988, 102 Stat. 1388; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(J), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in pars. (8) and (9), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in pars. (8) and (9), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in pars. (8) and (9), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 Section 4 of the Food for Peace Act of 1966 (7 U.S.C. 1707a), referred to in par. (9), was repealed by Pub. L. 101–624, title XV, §1574, Nov. 28, 1990, 104 Stat. 3702. See subchapter II (§5621 et seq.) of chapter 87 of this title.
+
+#### Amendments
+
+2008—Pars. (8), (9). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to intervene and participate
 
-In order to initiate and participate in the consideration of one or more of the standards established by subchapter II of this chapter or otherconcepts which contribute to the achievement of the purposes of this chapter, the Secretary, any affected electric utility, or any electric consumer of an affected electric utility may intervene and participate as a matter of right in any ratemaking proceeding or other appropriate regulatory proceeding relating to rates or rate design which is conducted by a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or by a nonregulated electric utility.
+In order to initiate and participate in the consideration of one or more of the standards established by subchapter II or other concepts which contribute to the achievement of the purposes of this chapter, the Secretary, any affected electric utility, or any electric consumer of an affected electric utility may intervene and participate as a matter of right in any ratemaking proceeding or other appropriate regulatory proceeding relating to rates or rate design which is conducted by a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or by a nonregulated electric utility.
 
 #### (b) Access to information
 
@@ -16,5 +16,5 @@ Any intervention or participation under this section, in any proceeding commence
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted this chapter and amended sections 6801 to 6808 of Title 42, The Public Health and Welfare. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 

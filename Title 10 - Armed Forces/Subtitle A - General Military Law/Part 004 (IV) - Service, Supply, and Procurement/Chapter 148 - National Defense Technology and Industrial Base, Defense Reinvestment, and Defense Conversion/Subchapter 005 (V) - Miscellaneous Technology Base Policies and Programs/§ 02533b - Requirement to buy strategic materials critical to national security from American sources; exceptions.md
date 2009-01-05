@@ -2,11 +2,11 @@
 
 (a)
 
-Requirement.—Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—
+Requirement.—Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:
 
-&emsp;(1) the following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition; or
+&emsp;(1) The following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
 
-&emsp;(2) a specialty metal that is not melted or produced in the United States and that is to be purchased directly by the Department of Defense or a prime contractor of the Department.
+&emsp;(2) A specialty metal that is not melted or produced in the United States and that is to bepurchased directly by the Department of Defense or a prime contractor of the Department.
 
 (b)
 
@@ -16,17 +16,17 @@ Availability Exception.—(1) Subsection (a) does not apply to the extent that t
 
 (c)
 
-Exception for Certain Procurements.—Subsection (a) does not apply to the following:
+Exception for Certain Acquisitions.—Subsection (a) does not apply to the following:
 
-&emsp;(1) Procurements outside the United States in support of combat operations or in support of contingency operations.
+&emsp;(1) Acquisitions outside the United States in support of combat operations or in support of contingency operations.
 
-&emsp;(2) Procurements for which the use of procedures other than competitive procedures has been approved on the basis of section 2304(c)(2) of this title, relating to unusual and compelling urgency of need.
+&emsp;(2) Acquisitions for which the use of procedures other than competitive procedures has been approved on the basis of section 2304(c)(2) of this title, relating to unusual and compelling urgency of need.
 
 (d)
 
-Exception Relating to Agreements With Foreign Governments.—Subsection (a)(1) does not preclude the procurement of a specialty metal if—
+Exception Relating to Agreements With Foreign Governments.—Subsection (a)(1) does not preclude the acquisition of a specialty metal if—
 
-&emsp;(1) the procurement is necessary—
+&emsp;(1) the acquisition is necessary—
 
 &emsp;&emsp;(A) to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements; or
 
@@ -40,17 +40,75 @@ Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrument
 
 (f)
 
-Exception for Small Purchases.—Subsection (a) does not apply to procurements in amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
+Exception for Small Purchases.—Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
 
 (g)
 
-Exception for Purchases of Electronic Components.—Subsection (a) does not apply to procurements of commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal.
+Exception for Purchases of Electronic Components.—Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security.
 
 (h)
 
-Applicability to Procurements of Commercial Items.—This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430).
+Applicability to Acquisitions of Commercial Items.—(1) Except as provided in paragraphs (2) and (3), this section applies to acquisitions of commercial items, notwithstanding sections 34 and 35 of the Office of Federal Procurement Policy Act (41 U.S.C. 430 and 431).
+
+(2) This section does not apply to contracts or subcontracts for the acquisition of commercially available off-the-shelf items, as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)), other than—
+
+&emsp;(A) contracts or subcontracts for the acquisition of specialty metals, including mill products, such as bar, billet, slab, wire, plate and sheet, that have not been incorporated into end items, subsystems, assemblies, or components;
+
+&emsp;(B) contracts or subcontracts for the acquisition of forgings or castings of specialty metals, unless such forgings or castings are incorporated into commercially available off-the-shelf end items, subsystems, or assemblies;
+
+&emsp;(C) contracts or subcontracts for commercially available high performance magnets unless such high performance magnets are incorporated into commercially available off-the-shelf-end items or subsystems; and
+
+&emsp;(D) contracts or subcontracts for commercially available off-the-shelf fasteners, unless such fasteners are—
+
+&emsp;&emsp;(i) incorporated into commercially available off-the-shelf end items, subsystems, assemblies, or components; or
+
+&emsp;&emsp;(ii) purchased as provided in paragraph (3).
+
+(3) This section does not apply to fasteners that are commercial items that are purchased under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted specialty metal, in the required form, for use in the production of such fasteners for sale to the Department of Defense and other customers, that is not less than 50 percent of the total amount of the specialty metal that it will purchase to carry out the production of such fasteners.
 
 (i)
+
+Exceptions for Purchases of Specialty Metals Below Minimum Threshold.—(1) Notwithstanding subsection (a), the Secretary of Defense or the Secretary of a military department may accept delivery of an item containing specialty metals that were not melted in the United States if the total amount of noncompliant specialty metals in the item does not exceed 2 percent of the total weight of specialty metals in the item.
+
+(2) This subsection does not apply to high performance magnets.
+
+(j)
+
+Streamlined Compliance for Commercial Derivative Military Articles.—(1) Subsection (a) shall not apply to an item acquired under a prime contract if the Secretary of Defense or the Secretary of a military department determines that—
+
+&emsp;(A) the item is a commercial derivative military article; and
+
+&emsp;(B) the contractor certifies that the contractor and its subcontractors have entered into a contractual agreement, or agreements, to purchase an amount of domestically melted specialty metal in the required form, for use during the period of contract performance in the production of the commercial derivative military article and the related commercial article, that is not less than the greater of—
+
+&emsp;&emsp;(i) an amount equivalent to 120 percent of the amount of specialty metal that is required to carry out the production of the commercial derivative military article (including the work performed under each subcontract); or
+
+&emsp;&emsp;(ii) an amount equivalent to 50 percent of the amount of specialty metal that is purchased by the contractor and its subcontractors for use during such period in the production of the commercial derivative military article and the related commercial article.
+
+(2) For the purposes of this subsection, the amount of specialty metal that is required to carry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military article.
+
+(k)
+
+National Security Waiver.—(1) Notwithstanding subsection (a), the Secretary of Defense may accept the delivery of an end item containing noncompliant materials if the Secretary determines in writing that acceptance of such end item is necessary to the national security interests of the United States.
+
+(2) A written determination under paragraph (1)—
+
+&emsp;(A) may not be delegated below the level of the Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics;
+
+&emsp;(B) shall specify the quantity of end items to which the waiver applies and the time period over which the waiver applies; and
+
+&emsp;(C) shall be provided to the congressional defense committees prior to making such a determination (except that in the case of an urgent national security requirement, such certification may be provided to the defense committees up to 7 days after it is made).
+
+(3)(A) In any case in which the Secretary makes a determination under paragraph (1), the Secretary shall determine whether or not the noncompliance was knowing and willful.
+
+(B) If the Secretary determines that the noncompliance was not knowing or willful, the Secretary shall ensure that the contractor or subcontractor responsible for the noncompliance develops and implements an effective plan to ensure future compliance.
+
+(C) If the Secretary determines that the noncompliance was knowing or willful, the Secretary shall—
+
+&emsp;(i) require the development and implementation of a plan to ensure future compliance; and
+
+&emsp;(ii) consider suspending or debarring the contractor or subcontractor until such time as the contractor or subcontractor has effectively addressed the issues that lead to such noncompliance.
+
+(<i>l</i>)
 
 Specialty Metal Defined.—In this section, the term “specialty metal” means any of the following:
 
@@ -66,7 +124,7 @@ Specialty Metal Defined.—In this section, the term “specialty metal” means
 
 &emsp;(4) Zirconium and zirconium base alloys.
 
-(j)
+(m)
 
 Additional Definitions.—In this section:
 
@@ -74,11 +132,83 @@ Additional Definitions.—In this section:
 
 &emsp;(2) The term “component” has the meaning provided in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335.)
+&emsp;(3) The term “acquisition” has the meaning provided in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+
+&emsp;(4) The term “required form” shall not apply to end items or to their components at any tier. The term “required form” means in the form of mill product, such as bar, billet, wire, slab, plate or sheet, and in the grade appropriate for the production of—
+
+&emsp;&emsp;(A) a finished end item delivered to the Department of Defense; or
+
+&emsp;&emsp;(B) a finished component assembled into an end item delivered to the Department of Defense.
+
+&emsp;(5) The term “commercially available off-the-shelf”, has the meaning provided in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)).
+
+&emsp;(6) The term “assemblies” means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
+
+&emsp;(7) The term “commercial derivative military article” means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
+
+&emsp;(8) The term “subsystem” means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
+
+&emsp;(9) The term “end item” means the final production product when assembled or completed, and ready for issue, delivery, or deployment.
+
+&emsp;(10) The term “subcontract” includes a subcontract at any tier.
+
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335; Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted “Except as provided in subsections (b) through\(m), the acquisition by the Department of Defense of the following items is prohibited:” for “Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–181, §804(a)(2), substituted “The following” for “the following” and substituted period for “; or” at end.
+
+Subsec. (a)(2). Pub. L. 110–181, §804(a)(3), which directed substitution of “A specialty” for “a speciality”, was executed by making the substitution for “a specialty” to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 110–181, §804(f)(1), substituted “Acquisitions” for “Procurements” in heading and pars. (1) and (2).
+
+Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted “acquisition” for “procurement” in introductory provisions and par. (1).
+
+Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted “acquisitions” for “procurements”.
+
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted “acquisitions” for “procurements” and “electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security.” for “commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal.”
+
+Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: “This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430).”
+
+Subsecs. (i) to (m). Pub. L. 110–181, §804(d), added subsecs. (i) to (k) and redesignated formers subsecs. (i) and (j) as (<i>l</i>) and (m), respectively.
+
+Subsec. (m)(3) to (10). Pub. L. 110–181, §804(e), added pars. (3) to (10).
 
 #### Effective Date
 
 Pub. L. 109–364, div. A, title VIII, §842(a)(4)(A), Oct. 17, 2006, 120 Stat. 2337, provided that: “Section 2533b of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into after the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+
+#### Regulations
+
+Pub. L. 110–181, div. A, title VIII, §804(g), Jan. 28, 2008, 122 Stat. 211, provided that: “Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations on the implementation of this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section, including specific guidance on how thresholds established in subsections (h)(3), (i) and (j) of section 2533b of title 10, United States Code, as amended by this section, should be implemented.”
+
+#### Revision of Domestic Nonavailability Determinations and Rules
+
+Pub. L. 110–181, div. A, title VIII, §804(h), Jan. 28, 2008, 122 Stat. 211, provided that: “No later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], any domestic nonavailability determination under section 2533b of title 10, United States Code, including a class deviation, or rules made by the Department of Defense between December 6, 2006, and the date of the enactment of this Act, shall be reviewed and amended, as necessary, to comply with the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\]. This requirement shall not apply to a domestic nonavailability determination that applies to—
+
+&emsp;“(1) an individual contract that was entered into before the date of the enactment of this Act; or
+
+&emsp;“(2) an individual Department of Defense program, except to the extent that such domestic nonavailability determination applies to contracts entered into after the date of the enactment of this Act.”
+
+#### Requirements Relating to Waivers of Certain Domestic Source Limitations Relating to Specialty Metals
+
+Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, provided that:
+
+“(a)
+
+Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
+
+&emsp;“(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
+
+&emsp;“(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
+
+“(b)
+
+Determination.—(1) The Secretary shall take into consideration all information submitted pursuant to subsection (a) in making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, and may also consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information.
+
+“(2) The Secretary shall ensure that any such determination and the rationale for such determination is made publicly available to the maximum extent consistent with the protection of national security information and confidential business information.”
 
 #### One-Time Waiver of Specialty Metals Domestic Source Requirement
 

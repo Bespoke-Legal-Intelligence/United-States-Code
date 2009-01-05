@@ -24,11 +24,11 @@ The Secretary may develop the multimedia campaign in languages other than Englis
 
 #### (d) Performance measures
 
-The Secretary shall develop measures to evaluate the effectiveness of the pilot national public service multimedia campaign, as measured by improved financial decision making among individuals.
+The Secretary shall develop measures to evaluate the effectiveness of the pilot nationalpublic service multimedia campaign, as measured by improved financial decision making among individuals.
 
 #### (e) Report
 
-For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a reportto the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
+For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),<sup>1</sup> the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
 
 #### (f) Authorization of appropriations
 

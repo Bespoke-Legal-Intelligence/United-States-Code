@@ -16,7 +16,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Proof of training
 
-&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agents have completed the training program established in subsection (a) of this section.
+&emsp;Beginning three years after November 28, 1990, the Secretary shall ensure that all new Cooperative Extension Service agents employed by such Service are able to demonstrate, not later than 18 months after the employment of such agents, that such agentshave completed the training program established in subsection (a) of this section.
 
 #### (d) Regional training centers
 
@@ -26,7 +26,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Training program
 
-&emsp;Such centers shall offer intensive instructional programs involving classroom and fieldtraining work for extension specialists and other individuals who are required to transmit technical information.
+&emsp;Such centers shall offer intensive instructional programs involving classroom and field training work for extension specialists and other individuals who are required to transmit technical information.
 
 #### (3) Prohibition on construction
 
@@ -88,11 +88,19 @@ For purposes of this section, the term “appropriate field office personnel” 
 
 There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
 
-(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604.)
+(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604; Pub. L. 110–234, title VII, §7511(c)(17), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(17), June 18, 2008, 122 Stat. 1664, 2030.)
+
+#### Amendment of Subsections (b) and (h)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Extension Service” and subsection (h) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
 
 #### References in Text
 
 Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -101,4 +109,10 @@ Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the origin
 1996—Subsecs. (f), (g)(11). Pub. L. 104–127 struck out “section 5881 of this title,” before “and other appropriate”.
 
 1991—Subsec. (c)(1). Pub. L. 102–237 substituted “ensure” for “insure”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(17) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

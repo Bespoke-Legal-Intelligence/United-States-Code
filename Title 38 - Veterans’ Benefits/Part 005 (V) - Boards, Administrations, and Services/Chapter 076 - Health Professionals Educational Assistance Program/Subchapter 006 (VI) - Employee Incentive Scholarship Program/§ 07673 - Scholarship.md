@@ -14,7 +14,7 @@ Amounts.—The total amount of the scholarship payable under subsection (a)—
 
 (c)
 
-Limitations on Period of Payment.—(1) The maximum number of school years for which a scholarship may be paid under subsection (a) to a participant in the Program shall be six school years.
+Limitations on Period of Payment.—(1) The maximum number of school years for which a scholarship may be paid under subsection (a)to a participant in the Program shall be six school years.
 
 (2) A participant in the Program may not receive a scholarship under subsection (a) for more than the equivalent of three years of full-time coursework.
 

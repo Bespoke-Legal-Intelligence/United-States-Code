@@ -16,7 +16,7 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (c) Record
 
-When any lands sold are redeemed as provided in this section, the Secretary shall cause entry of the fact to be made upon the record mentioned in section 6340, and such entry shall be evidence of such redemption.
+When any lands sold are redeemed as provided in this section, the Secretary shall cause entryof the fact to be made upon the record mentioned in section 6340, and such entry shall be evidence of such redemption.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 787; Pub. L. 89–719, title I, §104(e), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §349A(a), Sept. 3, 1982, 96 Stat. 639.)
 

@@ -72,13 +72,13 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(B) staff positions with the Service; and
 
-&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes, including positions established in contracts entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
+&emsp;(C) staff positions similar to those identified in subparagraphs (A) and (B) established and maintained by Indian tribes, including positions established in contracts entered intounder the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
 (3)(A) The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraph (2)(A) and ensure that appropriate training has been, or will be, provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to an Indian tribe for the training of, such individual. In the case of positions funded under a contract entered into under the Indian Self-Determination Act, the appropriate Secretary shall ensure that such training costs are included in the contract, if necessary.
 
 (B) Funds authorized to be appropriated pursuant to this section may be used to provide training authorized by this paragraph for community education programs described in paragraph (5) if a plan adopted pursuant to subsection (d) of this section identifies individuals or employment categories, other than those identified pursuant to paragraph (1), for which such training or community education is deemed necessary or desirable.
 
-(4) Position-specific training criteria described in paragraph (3) shall be culturally relevant toIndians and Indian tribes and shall ensure that appropriate information regarding traditional Indian healing and treatment practices is provided.
+(4) Position-specific training criteria described in paragraph (3) shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional Indian healing and treatment practices is provided.
 
 (5) The Service shall develop and implement or, upon the request of an Indian tribe, assist such tribe to develop and implement, a program of community education on mental illness and dysfunctional and self-destructive behavior for individuals, as determined in a plan adopted pursuant to subsection (d) of this section. In carrying out this paragraph, the Service shall provide, upon the request of an Indian tribe, technical assistance to the Indian tribe to obtain or develop community education and training materials on the identification, prevention, referral, and treatment of mental illness and dysfunctional and self-destructive behavior.
 
@@ -194,7 +194,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (3) Funds provided under this subsection may not be used for the purposes described in section 1621<i>o</i>(b)(1) of this title.
 
-(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
+(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health,alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
 
 (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 

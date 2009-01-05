@@ -50,7 +50,7 @@ For the purpose of carrying out activities under this section to evaluate and ad
 
 &emsp;&emsp;(D) For eliminating racial and ethnic disparities in the delivery of comprehensive, culturally and linguistically appropriate care services for HIV/AIDS for women, infants, children, and youth, the Secretary shall, of the amount appropriated under subsection (a), reserve $18,500,000 for each of the fiscal years 2007 through 2009.
 
-&emsp;&emsp;(E) For increasing the training capacity of centers to expand the number of health care professionals with treatment expertise and knowledge about the most appropriate standards of HIV/AIDS-related treatments and medical care for racial and ethnic minority adults, adolescents, and children with HIV/AIDS, the Secretary shall, of the amount appropriated under subsection (a), reserve $8,500,000 for each of the fiscal years 2007 through 2009.
+&emsp;&emsp;(E) For increasing the training capacity of centers to expand the number of health careprofessionals with treatment expertise and knowledge about the most appropriate standards of HIV/AIDS-related treatments and medical care for racial and ethnic minority adults, adolescents, and children with HIV/AIDS, the Secretary shall, of the amount appropriated under subsection (a), reserve $8,500,000 for each of the fiscal years 2007 through 2009.
 
 #### (c) Consistency with prior program
 

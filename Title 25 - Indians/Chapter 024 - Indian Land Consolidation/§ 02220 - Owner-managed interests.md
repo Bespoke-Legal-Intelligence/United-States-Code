@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide a means for the co-owners of trust or restricted interests in a parcel of land to enter into surface leases of such parcel for certain purposes without approval of the Secretary.
+The purpose of this section is to provide a means for the owner or co-owners of trust or restricted interests in a parcel of land to enter into surface leases of such parcel for certain purposes without approval of the Secretary.
 
 #### (b) Mineral interests
 
@@ -30,7 +30,7 @@ Nothing in this section shall be construed to limit or otherwise affect the appl
 
 #### (e) Validity of leases
 
-No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
+No lease of trust or restricted interests in a parcel of land that is owner-managed under thissection shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
 
 &emsp;(1) is consistent with, and entered into in accordance with, the requirements of this section; or
 
@@ -88,13 +88,17 @@ Except with respect to the specific lease transaction described in paragraph (1)
 
 Subject to subsections (c), (f), and (h) of this section, nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
-(Pub. L. 97–459, title II, §221, as added Pub. L. 108–374, §5, Oct. 27, 2004, 118 Stat. 1795.)
+(Pub. L. 97–459, title II, §221, as added Pub. L. 108–374, §5, Oct. 27, 2004, 118 Stat. 1795; amended Pub. L. 110–453, title II, §207(e), Dec. 2, 2008, 122 Stat. 5033.)
 
 #### References in Text
 
 Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (d)(1), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
 Subsection (<i>l</i>), referred to in subsec. (h)(2), probably should be a reference to section 10 of Pub. L. 108–374, which is set out as a note under section 2201 of this title and relates to the adoption of regulations. This section does not contain a subsec. (<i>l</i>).
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–453 inserted “owner or” before “co-owners”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

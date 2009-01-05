@@ -1,6 +1,6 @@
 ### §44708. Inspecting and rating air navigation facilities
 
-The Administrator of the Federal Aviation Administration may inspect, classify, and rate an air navigation facility available for the use of civil aircraft on the suitability of the facility for that use.
+The Administrator of the Federal Aviation Administration may inspect, classify, and ratean air navigation facility available for the use of civil aircraft on the suitability of the facility for that use.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190.)
 

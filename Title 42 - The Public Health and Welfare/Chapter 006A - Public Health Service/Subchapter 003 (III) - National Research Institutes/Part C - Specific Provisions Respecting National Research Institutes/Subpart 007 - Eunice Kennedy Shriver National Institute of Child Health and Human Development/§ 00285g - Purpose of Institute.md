@@ -34,7 +34,7 @@ Pub. L. 110–154, §1(a), Dec. 21, 2007, 121 Stat. 1826, provided that: “Cong
 
 &emsp;“(3) The vision, drive, and tenacity of one woman, Eunice Kennedy Shriver, was instrumental in proposing, passing, and enacting legislation to establish the National Institute of Child Health and Human Development (Public Law 87–838) \[see Tables for classification\] on October 17, 1962.
 
-&emsp;“(4) It is befitting and appropriate to recognize the substantial achievements of Eunice Kennedy Shriver, a tireless advocate for children with special needs, whose foresight in creating the National Institute of Child Health and Human Development gave life to the words of President Kennedy, who wished to ‘encourage imaginative research into the complex processes of human development from conception to old age.’ ”
+&emsp;“(4) It is befitting and appropriate to recognize the substantial achievements of Eunice Kennedy Shriver, a tireless advocate for children with special needs,whose foresight in creating the National Institute of Child Health and Human Development gave life to the words of President Kennedy, who wished to ‘encourage imaginative research into the complex processes of human development from conception to old age.’ ”
 
 #### Long-Term Child Development Study
 

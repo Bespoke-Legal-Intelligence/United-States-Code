@@ -36,11 +36,11 @@
 
 &emsp;(A) shall be stated as a single percentage, which shall be uniformly applicable to General Schedule positions within the locality; and
 
-&emsp;(B) shall, for any employee entitled to receive a comparability payment, be computed by applying that percentage to such employee's scheduled rate of basic pay (or, if lower due to a limitation on the rate payable, the rate actually payable), subject to subsection (g).
+&emsp;(B) shall, for any employee entitled to receive a comparability payment, be computedby applying that percentage to such employee's scheduled rate of basic pay (or, if lower due to a limitation on the rate payable, the rate actually payable), subject to subsection (g).
 
 (2) A comparability payment—
 
-&emsp;(A) shall be considered to be part of basic pay for purposes of retirement under chapter 83 or 84, as applicable, life insurance underchapter 87, and premium pay under subchapter V of chapter 55, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe; and
+&emsp;(A) shall be considered to be part of basic pay for purposes of retirement under chapter 83 or 84, as applicable, life insurance under chapter 87, and premium pay under subchapter V of chapter 55, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe; and
 
 &emsp;(B) shall be paid in the same manner and at the same time as the basic pay payable to such employee pursuant to any provision of law outside of this section.
 
@@ -110,19 +110,17 @@
 
 (2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
-&emsp;(A) positions under subparagraphs (A)–(C) of subsection (h)(1); and
+&emsp;(A) positions under subparagraphs (A) and (B) of subsection (h)(1); and
 
-&emsp;(B) any positions under subsection (h)(1)(D) which the President may determine.
+&emsp;(B) any positions under subsection (h)(1)(C) as the President may determine.
 
 (h)(1) For the purpose of this subsection, the term “position” means—
 
-&emsp;(A) a position to which section 5376 applies (relating to certain senior-level positions);
+&emsp;(A) a position to which section 5372 applies (relating to administrative law judges appointed under section 3105);
 
-&emsp;(B) a position to which section 5372 applies (relating to administrative law judges appointed under section 3105);
+&emsp;(B) a position to which section 5372a applies (relating to contract appeals board members); and
 
-&emsp;(C) a position to which section 5372a applies (relating to contract appeals board members); and
-
-&emsp;(D) a position within an Executive agency not covered under the General Schedule or any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
+&emsp;(C) a position within an Executive agency not covered under the General Schedule or any of the preceding subparagraphs, the rate of basic pay for which is (or, but for this section, would be) no more than the rate payable for level IV of the Executive Schedule;
 
 > but does not include—
 
@@ -134,17 +132,19 @@
 
 &emsp;(iv) a Senior Executive Service position under section 3132;
 
-&emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151; or
+&emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151;
 
-&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by the President's Pay Agent designated under subsection (d).
+&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by the President's Pay Agent designated under subsection (d); or
+
+&emsp;(vii) a position to which section 5376 applies (relating to certain senior-level and scientific and professional positions).
 
 (2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, the President may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), or (vi) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) and (B) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
-&emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), or (vi) of paragraph (1)).
+&emsp;(ii) with respect to positions under paragraph (1)(C), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
 (C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide that each employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
 
@@ -160,7 +160,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043.)
 
 Historical and Revision Notes
 
@@ -186,9 +186,25 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 
 Section 5302(8)(C), referred to in subsec. (d)(1)(A), was redesignated 5302(8)(B) of this title by Pub. L. 103–89, §3(b)(1)(E)(i)(II), Sept. 30, 1993, 107 Stat. 981.
 
-Levels III and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(D), are set out in sections 5314 and 5315, respectively, of this title.
+Levels III and IV of the Executive Schedule, referred to in subsecs. (g) and (h)(1)(C), are set out in sections 5314 and 5315, respectively, of this title.
 
 #### Amendments
+
+2008—Subsec. (g)(2). Pub. L. 110–372, §2(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
+
+&emsp;“(A) positions under subparagraphs (A)–(C) of subsection (h)(1); and
+
+&emsp;“(B) any positions under subsection (h)(1)(D) which the President may determine.”
+
+Subsec. (h)(1). Pub. L. 110–372, §2(a)(2)(A)(ii), which directed amendment of subsec. (h)(1)(D) by striking “or” at end of cl. (v), substituting “; or” for period at end of cl. (vi), and adding at end a new cl. (vii), was executed by making the strike out and substitution in the cls. (v) and (vi) which follow subpar. (D) and by adding cl. (vii) after cl. (vi), to reflect the probable intent of Congress.
+
+Subsec. (h)(1)(A) to (D). Pub. L. 110–372, §2(a)(2)(A)(i), (iii), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a position to which section 5376 applies (relating to certain senior-level positions);”.
+
+Subsec. (h)(2)(B)(i). Pub. L. 110–372, §2(a)(2)(B)(i), substituted “subparagraphs (A) and (B)” for “subparagraphs (A) through (C)” and “(vi), or (vii)” for “or (vi)”.
+
+Subsec. (h)(2)(B)(ii). Pub. L. 110–372, §2(a)(2)(B)(ii), substituted “paragraph (1)(C)” for “paragraph (1)(D)” and “(vi), or (vii)” for “or (vi)”.
 
 2004—Subsec. (g)(2)(A). Pub. L. 108–411, §302(a)(1)(A), substituted “(A)–(C)” for “(A)–(D)”.
 
@@ -239,6 +255,10 @@ Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) gener
 1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -316,7 +336,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(D) Each of the five areas under subparagraph (A) that so warrants, as determined by the President's pay agent, shall be designated as a discrete pay locality under section 5304 of title 5, United States Code, in time for it to be treated as such for purposes of comparability payments becoming payable in 2002.
 
-“(2) The President's pay agent may, at any time after the 180th day following the submission of the report under subsection (f), make any initial or further determinations or recommendations under this section, based on any pay comparisons under subsection (b), with respect to any area described in paragraph (3).
+“(2) The President's pay agent may, at any time after the 180th day following the submission of the reportunder subsection (f), make any initial or further determinations or recommendations under this section, based on any pay comparisons under subsection (b), with respect to any area described in paragraph (3).
 
 “(3) An area described in this paragraph is any metropolitan statistical area within the continental United States that (as determined based on data made available by the Bureau of Labor Statistics and the Office of Personnel Management, respectively) has a high level of nonfarm employment and at least 2,500 General Schedule employees whose post of duty is within such area.
 
@@ -326,7 +346,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(f)(1) No later than March 1, 2001, the President's pay agent shall submit to the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, a report on the use of pay comparison data, as described in subsection (b)(2) or (3) (as appropriate), for purposes of comparability payments.
 
-“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specificrecommendations regarding the continued use of such data.
+“(2) The report shall include the cost of obtaining such data, the rationale underlying the decisions reached based on such data, and the relative advantages and disadvantages of using such data (including whether the effort involved in analyzing and integrating such data is commensurate with the benefits derived from their use). The report may include specific recommendations regarding the continued use of such data.
 
 “(g)(1) No later than May 1, 2001, the President's pay agent shall prepare and submit to the committees specified in subsection (f)(1) a report relating to the ongoing efforts of the Office of Personnel Management, the Office of Management and Budget, and the Bureau of Labor Statistics to revise the methodology currently being used by the Bureau of Labor Statistics in performing its surveys under section 5304 of title 5, United States Code.
 
@@ -410,7 +430,7 @@ Effective Date.—This section shall take effect on the date of enactment of thi
 
 \[Amendment by Pub. L. 103–89 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.\]
 
-\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov.5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+\[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
 
 Interim geographic adjustments pursuant to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
 

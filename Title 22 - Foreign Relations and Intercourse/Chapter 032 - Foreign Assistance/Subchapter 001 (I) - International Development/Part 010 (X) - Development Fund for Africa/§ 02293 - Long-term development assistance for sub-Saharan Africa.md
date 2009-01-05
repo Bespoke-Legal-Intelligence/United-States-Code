@@ -12,7 +12,7 @@ The Congress finds that—
 
 #### (b) Authority to furnish assistance
 
-The President is authorized to furnish project and program assistance, on such terms and conditions as he may determine in accordance with the policies contained in this section, for long-term development in sub-Saharan Africa.
+The President is authorized to furnish project and program assistance, on such terms and conditions as he may determine in accordance withthe policies contained in this section, for long-term development in sub-Saharan Africa.
 
 #### (c) Purpose of assistance
 
@@ -86,7 +86,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (A) Agricultural production
 
-&emsp;&emsp;Increasing agricultural production in ways which protect and restore the natural resource base, especially food production, through agricultural policy changes, agricultural research (including participatory research directly involving small farmers) and extension, development and promotion of agriculture marketing activities, credit facilities, and appropriate production packages, and the construction and improvement of needed production-related infrastructure such as farm-to-market roads, small-scale irrigation, and rural electrification. Within this process, emphasis shall be given to promoting increased equity in rural income distribution, recognizing the role of small farmers.
+&emsp;&emsp;Increasing agricultural production in ways which protect and restore the natural resource base, especially food production,through agricultural policy changes, agricultural research (including participatory research directly involving small farmers) and extension, development and promotion of agriculture marketing activities, credit facilities, and appropriate production packages, and the construction and improvement of needed production-related infrastructure such as farm-to-market roads, small-scale irrigation, and rural electrification. Within this process, emphasis shall be given to promoting increased equity in rural income distribution, recognizing the role of small farmers.
 
 #### (B) Natural resource base
 
@@ -234,7 +234,7 @@ Findings.—Congress finds the following:
 
 Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
-Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
+Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, as amended by Pub. L. 110–234, title VII, §7511(c)(39), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(39), June 18, 2008, 122 Stat. 1664, 2032, provided that:
 
 #### “SEC. 101. AFRICA FOOD SECURITY INITIATIVE.
 
@@ -318,7 +318,7 @@ Other activities.—In addition to carrying out paragraph (1), the Administrator
 
 “(a)
 
-Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
+Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa,particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
 
 “(b)
 
@@ -349,6 +349,8 @@ Additional Requirements.—Such plan shall seek to ensure that—
 &emsp;“(2) sustainable agricultural methods of farming will be considered together with new technologies in increasing agricultural productivity in sub-Saharan Africa; and
 
 &emsp;“(3) research and extension efforts will focus on sustainable agricultural practices and will be adapted to widely varying climates within sub-Saharan Africa.”
+
+\[Pub. L. 110–234, title VII, §7511(c), May 22, 2008, 122 Stat. 1271, and Pub. L. 110–246, §4(a), title VII, §7511(c), June 18, 2008, 122 Stat. 1664, 2028, 2032, provided that, effective Oct. 1, 2009, section 105(a) of Pub. L. 105–385, set out above, is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State, Research, Education and Extension Service (CSREES)”.\]
 
 #### Reports to Congress
 

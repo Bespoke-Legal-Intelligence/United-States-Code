@@ -32,6 +32,10 @@
 
 &emsp;&emsp;(C) issue requirements and procedures for the disposal of any container of a pesticide the registration of which has been canceled, any rinsate containing the pesticide, or any other material used to contain or collect excess or spilled quantities of the pesticide.
 
+#### (4) Container recycling
+
+&emsp;The Secretary may promulgate a regulation for the return and recycling of disposable pesticide containers used for the distribution or sale of registered pesticide products in interstate commerce. Any such regulation requiring recycling of disposable pesticide containers shall not apply to antimicrobial pesticides (as defined in section 136 of this title) or other pesticide products intended for non-agricultural uses.
+
 #### (b) Recalls
 
 #### (1) In general
@@ -186,7 +190,7 @@
 
 &emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
-(June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507.)
+(June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, §14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
 
 #### References in Text
 
@@ -194,7 +198,13 @@ The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (
 
 The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–246, §14209(b), added par. (4).
 
 1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -209,6 +219,10 @@ Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted “136i” for �
 Subsecs. (g), (h). Pub. L. 100–532, §403, added subsecs. (g) and (h).
 
 1978—Subsec. (c). Pub. L. 95–396 added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1988 Amendment
 

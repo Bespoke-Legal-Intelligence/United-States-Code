@@ -20,7 +20,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title VIII, §842(a)(2), Oct. 17, 2006, 120 Stat. 2337, which directed the amendment ofthe analysis for this subchapter by adding item 2533b at the end, was executed by inserting item 2533b after item 2533a.
+2008—Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, §842(a)(2). See 2006 Amendment note below.
+
+2006—Pub. L. 109–364, div. A, title VIII, §842(a)(2), Oct. 17, 2006, 120 Stat. 2337, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, added item 2533b.
 
 2001—Pub. L. 107–107, div. A, title VIII, §832(a)(2), Dec. 28, 2001, 115 Stat. 1190, added item 2533a.
 

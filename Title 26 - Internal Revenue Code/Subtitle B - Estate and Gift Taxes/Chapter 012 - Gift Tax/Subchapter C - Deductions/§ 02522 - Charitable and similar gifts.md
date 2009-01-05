@@ -10,7 +10,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 &emsp;(3) a fraternal society, order, or association, operating under the lodge system, but only if such gifts are to be used exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals;
 
-&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no part of their net earnings insures to the benefit of any private shareholder or individual.
+&emsp;(4) posts or organizations of war veterans, or auxiliary units or societies of any such posts or organizations, if such posts, organizations, units, or societies are organized in the United States or any of its possessions, and if no partof their net earnings insures to the benefit of any private shareholder or individual.
 
 > Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 

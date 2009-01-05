@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall establish the Kirk Bloodsworth Post-Conviction DNA TestingGrant Program to award grants to States to help defray the costs of post-conviction DNA testing.
+The Attorney General shall establish the Kirk Bloodsworth Post-Conviction DNA Testing Grant Program to award grants to States to help defray the costs of post-conviction DNA testing.
 
 #### (b) Authorization of appropriations
 

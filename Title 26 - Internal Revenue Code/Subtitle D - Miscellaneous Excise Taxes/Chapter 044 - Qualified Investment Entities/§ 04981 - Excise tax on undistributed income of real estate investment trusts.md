@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section1222(9) (determined by treating the calendar year as the trust's taxable year).
+&emsp;&emsp;The term “capital gain net income” has the meaning given such term by section 1222(9) (determined by treating the calendar year as the trust's taxable year).
 
 #### (B) Reduction for net ordinary loss
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 669(b) of Pub. L. 99–514, set out as a note under section 856 of this title.
+Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 669(b) ofPub. L. 99–514, set out as a note under section 856 of this title.
 

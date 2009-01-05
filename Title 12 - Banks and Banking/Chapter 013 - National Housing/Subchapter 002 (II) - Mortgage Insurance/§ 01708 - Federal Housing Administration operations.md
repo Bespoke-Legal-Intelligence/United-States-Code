@@ -2,7 +2,49 @@
 
 #### (a) Mutual Mortgage Insurance Fund
 
-There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the “Fund”), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
+#### (1) Establishment
+
+&emsp;Subject to the provisions of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], there is hereby created a Mutual Mortgage Insurance Fund (in this subchapter referred to as the “Fund”), which shall be used by the Secretary to carry out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title. The Secretary may enter into commitments to guarantee, and may guarantee, such insured mortgages.
+
+#### (2) Limit on loan guarantees
+
+&emsp;The authority of the Secretary to enter into commitments to guarantee such insured mortgages shall be effective for any fiscal year only to the extent that the aggregate original principal loan amount under such mortgages, any part of which is guaranteed, does not exceed the amount specified in appropriations Acts for such fiscal year.
+
+#### (3) Fiduciary responsibility
+
+&emsp;The Secretary has a responsibility to ensure that the Mutual Mortgage Insurance Fund remains financially sound.
+
+#### (4) Annual independent actuarial study
+
+&emsp;The Secretary shall provide for an independent actuarial study of the Fund to be conducted annually, which shall analyze the financial position of the Fund. The Secretary shall submit a report annually to the Congress describing the results of such study and assessing the financial status of the Fund. The report shall recommend adjustments to underwriting standards, program participation, or premiums, if necessary, to ensure that the Fund remains financially sound. The report shall also include an evaluation of the quality control procedures and accuracy of information utilized in the process of underwriting loans guaranteed by the Fund. Such evaluation shall include a review of the risk characteristics of loans based not only on borrower information and performance, but on risks associated with loans originated or funded by various entities or financial institutions.
+
+#### (5) Quarterly reports
+
+&emsp;During each fiscal year, the Secretary shall submit a report to the Congress for each calendar quarter, which shall specify for mortgages that are obligations of the Fund—
+
+&emsp;&emsp;(A) the cumulative volume of loan guarantee commitments that have been made during such fiscal year through the end of the quarter for which the report is submitted;
+
+&emsp;&emsp;(B) the types of loans insured, categorized by risk;
+
+&emsp;&emsp;(C) any significant changes between actual and projected claim and prepayment activity;
+
+&emsp;&emsp;(D) projected versus actual loss rates; and
+
+&emsp;&emsp;(E) updated projections of the annual subsidy rates to ensure that increases in risk to the Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
+
+> &emsp;The first quarterly report under this paragraph shall be submitted on the last day of the first quarter of fiscal year 2008, or on the last day of the first full calendar quarter following July 30, 2008, whichever is later.
+
+#### (6) Adjustment of premiums
+
+&emsp;If, pursuant to the independent actuarial study of the Fund required under paragraph (4), the Secretary determines that the Fund is not meeting the operational goals established under paragraph (7) or there is a substantial probability that the Fund will not maintain its established target subsidy rate, the Secretary may either make programmatic adjustments under this subchapter as necessary to reduce the risk to the Fund, or make appropriate premium adjustments.
+
+#### (7) Operational goals
+
+&emsp;The operational goals for the Fund are—
+
+&emsp;&emsp;(A) to minimize the default risk to the Fund and to homeowners by among other actions instituting fraud prevention quality control screening not later than 18 months after July 30, 2008; and
+
+&emsp;&emsp;(B) to meet the housing needs of the borrowers that the single family mortgage insurance program under this subchapter is designed to serve.
 
 #### (b) Advisory Board
 
@@ -38,7 +80,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(7) The Advisory Board is empowered to confer with, request information of, and make recommendations to the Federal Housing Commissioner. The Commissioner shall promptly provide the Advisory Board with such information as the Board determines to be necessary to carry out its review of the activities and policies of the Federal Housing Administration.
 
-&emsp;(8) The Board shall, not later than December 31 of each year, submit to the Secretary and the Congress a report of its assessment of the activities of the Federal Housing Administration, including the soundness of underwriting procedures, the adequacy of information systems, the appropriateness of staffing patterns, the effectiveness of the Mortgagee Review Board, and other matters related to the Federal Housing Administration's ability to serve the nation's homebuyers and renters. Such report shall contain the Board's recommendations for improvement and include any minority views.
+&emsp;(8) The Board shall, not later than December 31 of each year, submit to the Secretary andthe Congress a report of its assessment of the activities of the Federal Housing Administration, including the soundness of underwriting procedures, the adequacy of information systems, the appropriateness of staffing patterns, the effectiveness of the Mortgagee Review Board, and other matters related to the Federal Housing Administration's ability to serve the nation's homebuyers and renters. Such report shall contain the Board's recommendations for improvement and include any minority views.
 
 &emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
@@ -88,7 +130,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (D) Withdrawal
 
-&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeatedviolations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
+&emsp;&emsp;The Board may issue an order withdrawing a mortgagee if the Board has made a determination of a serious violation or repeated violations by the mortgagee. The Board shall determine the terms of such withdrawal, but the term shall be not less than 1 year. Where the Board has determined that the violation is egregious or willful, the withdrawal shall be permanent.
 
 #### (E) Settlements
 
@@ -164,7 +206,27 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(C) if a mortgagee is withdrawn, publish its decision in the Federal Register.
 
-#### (e) Appraisal standards
+#### (e) Suspension or revocation of approval of mortgagee; notice and statement of reasons
+
+Whenever the Secretary has taken any discretionary action to suspend or revoke the approval of any mortgagee to participate in any mortgage insurance program under this subchapter, the Secretary shall provide prompt notice of the action and a statement of the reasons for the action to—
+
+&emsp;(1) the Secretary of Veterans Affairs;
+
+&emsp;(2) the chief executive officer of the Federal National Mortgage Association;
+
+&emsp;(3) the chief executive officer of the Federal Home Loan Mortgage Corporation;
+
+&emsp;(4) the Secretary of Agriculture;
+
+&emsp;(5) if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;
+
+&emsp;(6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System;
+
+&emsp;(7) if the mortgagee is a State bank that is not a member of the Federal Reserve System or is a subsidiary or affiliate of such a bank, the Board of Directors of the Federal Deposit Insurance Corporation; and
+
+&emsp;(8) if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.
+
+#### (f) Appraisal standards
 
 (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum—
 
@@ -192,9 +254,23 @@ Fee Panel Appraisers.—
 
 &emsp;(B) With respect to any employee of an appraisal company described in subparagraph (A) who is offered an appraisal assignment in connection with a mortgage under this subchapter, the person utilizing the appraiser may contract directly with the appraisal company employing the appraiser for the furnishing of the appraisal services.
 
-(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412; Pub. L. 106–377, §1(a)(1) \[title II, §209(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25.)
+(5)
+
+Additional appraiser standards.—Beginning on July 30, 2008, any appraiser chosen or approved to conduct appraisals for mortgages under this subchapter shall—
+
+&emsp;(A) be certified—
+
+&emsp;&emsp;(i) by the State in which the property to be appraised is located; or
+
+&emsp;&emsp;(ii) by a nationally recognized professional appraisal organization; and
+
+&emsp;(B) have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection.
+
+(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412; Pub. L. 106–377, §1(a)(1) \[title II, §209(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25; Pub. L. 110–289, div. A, title IV, §1404, div. B, title I, §§2116(1), (3), 2118(a), July 30, 2008, 122 Stat. 2810, 2832, 2833.)
 
 #### References in Text
+
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -206,7 +282,21 @@ The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pu
 
 Executive Order 11063, referred to in subsec. (c)(1), (3)(B), is set out as a note under section 1982 of Title 42.
 
+#### Codification
+
+Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–289, §2118(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the ‘Fund’), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.”
+
+Subsec. (e). Pub. L. 110–289, §2116(3), transferred subsec. (s) of section 1709 of this title and redesignated it as subsec. (e) of this section. See Codification note above. Former subsec. (e) redesignated (f).
+
+Subsec. (e)(3)(B). Pub. L. 110–289, §2116(1)(A), made technical amendment to reference in original act which appears in text as reference to “this subsection”.
+
+Subsec. (e)(5). Pub. L. 110–289, §1404, added par. (5).
+
+Subsec. (f). Pub. L. 110–289, §2116(1)(B), redesignated subsec. (e) as (f).
 
 2000—Subsec. (c)(2)(E). Pub. L. 106–377, §1(a)(1) \[title II, §209(c)(1)\], struck out “and” at end.
 
@@ -238,7 +328,7 @@ Subsec. (c)(7), (8). Pub. L. 102–550, §519(2), added par. (7) and redesignate
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating tosecurities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

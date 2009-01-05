@@ -68,15 +68,21 @@
 
 There are authorized to be appropriated—
 
-&emsp;(1) $2,500,000 for each of the fiscal years 2006 and 2007 to carry out the activities described in subsection (a)(1)(B)(i) of this section and $2,500,000 for each of the fiscal years 2006 and 2007 to carry out the activities described in subsection (a)(1)(B)(ii) of this section; and
+&emsp;(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) of this section and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii) of this section; and
 
-&emsp;(2) $1,000,000 for each of the fiscal years 2006 through 2007 to carry out the activities described in subsection (a)(2) of this section.
+&emsp;(2) $1,000,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(2) of this section.
 
-(Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567.)
+(Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, §302(2), Dec. 23, 2008, 122 Stat. 5087.)
 
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 109–164. Subsec. (b) of section 201 of Pub. L. 109–164 amended section 7104 of Title 22, Foreign Relations and Intercourse.
 
 Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–457, §302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
+
+Subsec. (c)(2). Pub. L. 110–457, §302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
 

@@ -12,7 +12,7 @@ Nonapplication.—This chapter does not apply to—
 
 &emsp;(2) any matter that is subject to the postal laws and regulations of the United States under this chapter or title 18 or 39.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §7124, Aug. 10, 2005, 119 Stat. 1908.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §7124, Aug. 10, 2005, 119 Stat. 1908; Pub. L. 110–244, title III, §302(d), June 6, 2008, 122 Stat. 1618.)
 
 Historical and Revision Notes
 
@@ -40,7 +40,17 @@ In subsection (a), the word “manufactures” is substituted for “manufacture
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59 substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,”, “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”, “shall comply with this chapter” for “must comply with this chapter”, and “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
+2008—Subsec. (a). Pub. L. 110–244 amended Pub. L. 109–59. See 2005 Amendment note below.
+
+2005—Subsec. (a). Pub. L. 109–59, §7124(4), substituted “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
+
+Pub. L. 109–59, §7124(3), as amended by Pub. L. 110–244, substituted “shall comply with this chapter” for “must comply with this chapter”.
+
+Pub. L. 109–59, §7124(1), (2), substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,” and “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”.
 
 1994—Subsec. (a). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 

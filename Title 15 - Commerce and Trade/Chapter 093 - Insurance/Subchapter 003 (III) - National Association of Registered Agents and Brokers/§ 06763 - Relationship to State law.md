@@ -18,7 +18,7 @@ No State shall—
 
 #### (c) Savings provision
 
-Except as provided in subsections (a) and (b) of this section, no provision of this section shall be construed as altering or affecting the continuing effectiveness of any law, regulation, provision, or other action of any State which purports toregulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws.
+Except as provided in subsections (a) and (b) of this section, no provision of this section shall be construed as altering or affecting the continuing effectiveness of any law, regulation, provision, or other action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws.
 
 (Pub. L. 106–102, title III, §333, Nov. 12, 1999, 113 Stat. 1432.)
 

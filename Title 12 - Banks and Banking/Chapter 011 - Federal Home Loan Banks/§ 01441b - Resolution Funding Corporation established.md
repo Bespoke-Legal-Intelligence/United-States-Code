@@ -46,7 +46,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 #### (B) Powers
 
-&emsp;&emsp;The Directorate may, with the approval of the Federal Housing Finance Board authorize the officers, employees, or agents of the Federal Home Loan Banks to act for and on behalf of the Funding Corporation in such manner as may be necessary to carry out the functions of the Funding Corporation.
+&emsp;&emsp;The Directorate may, with the approval of the Director authorize the officers, employees, or agents of the Federal Home Loan Banks to act for and on behalf of the Funding Corporation in such manner as may be necessary to carry out the functions of the Funding Corporation.
 
 #### (7) Administrative expenses
 
@@ -124,7 +124,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Purchases of stock by Federal Home Loan Banks
 
-&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation at times and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
+&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation attimes and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
 
 #### (2) Par value; transferability
 
@@ -168,7 +168,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (4) Pro rata distribution of first $1,000,000,000 invested in Funding Corporation by Federal Home Loan Banks
 
-&emsp;Of the first $1,000,000,000 of the aggregate that the Federal Housing Finance Board (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to the Bank) shall invest shall be determined by the Federal Housing Finance Board or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
+&emsp;Of the first $1,000,000,000 of the aggregate that the Director (pursuant to section 1441 of this title) or the Thrift Depositor Protection Oversight Board (under this section) may require the Federal Home Loan Banks collectively to invest in the capital stock of the Financing Corporation or invest in the capital stock of the Funding Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to the Bank) shall invest shall be determined by the Director or the Thrift Depositor Protection Oversight Board (as the case may be) by multiplying the aggregate amount of such investment by all Banks by the percentage appearing in the following table for each such Bank:
 
 <b>   Bank</b>
 
@@ -292,7 +292,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Proceeds from Resolution Trust Corporation
 
-&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient to cover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
+&emsp;&emsp;To the extent the amounts available pursuant to subparagraph (A) are insufficient tocover the amount of interest payments, the Resolution Trust Corporation shall pay to the Funding Corporation—
 
 &emsp;&emsp;&emsp;(i) the liquidating dividends and payments made on claims received by the Resolution Trust Corporation from receiverships to the extent such proceeds are determined by the Thrift Depositor Protection Oversight Board to be in excess of funds presently necessary for resolution costs; and
 
@@ -306,15 +306,19 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Annual determination
 
-&emsp;&emsp;&emsp;The Board annually shall determine the extent to which the value of the aggregate amounts paid by the Federal home loan banks exceeds or falls short of the value of an annuity of $300,000,000 per year that commences on the issuance date and ends on the final scheduled maturity date of the obligations, and shall select appropriate present value factors for making such determinations, in consultation with the Secretary of the Treasury.
+&emsp;&emsp;&emsp;The Director annually shall determine the extent to which the value of the aggregate amounts paid by the Federal home loan banks exceeds or falls short of the value of an annuity of $300,000,000 per year that commences on the issuance date and ends on the final scheduled maturity date of the obligations, and shall select appropriate present value factors for making such determinations, in consultation with the Secretary of the Treasury.
 
 #### (iii) Payment term alterations
 
-&emsp;&emsp;&emsp;The Board shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
+&emsp;&emsp;&emsp;The Director shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
 
 #### (iv) Term beyond maturity
 
-&emsp;&emsp;&emsp;If the Board extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 1430(j) of this title and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred toin clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Finance Board shall reduce the percentage pro rata to a level sufficient to pay the remaining obligation.
+&emsp;&emsp;&emsp;If the Director extends the term of payment obligations beyond the final scheduled maturity date for the obligations, each Federal home loan bank shall continue to pay 20.0 percent of its net earnings (after deducting expenses relating to section 1430(j) of this title and operating expenses) to the Treasury of the United States until the value of all such payments by the Federal home loan banks is equivalent to the value of an annuity referred to in clause (ii). In the final year in which the Federal home loan banks are required to make any payment to the Treasury under this subparagraph, if the dollar amount represented by 20.0 percent of the net earnings of the Federal home loan banks exceeds the remaining obligation of the Banks to the Treasury, the Director shall reduce the percentage pro rata to a level sufficient to pay the remaining obligation.
+
+#### (v) Semiannual reports
+
+&emsp;&emsp;&emsp;The Director shall report semiannually to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the projected date for the completion of contributions required by this section.
 
 #### (D) Proceeds from sale of assets
 
@@ -348,7 +352,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (5) Investment of United States funds in obligations
 
-&emsp;Obligations issued under this section by the Funding Corporation, at the direction of the Thrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+&emsp;Obligations issued under this section by the Funding Corporation, at the direction of theThrift Depositor Protection Oversight Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
 
 #### (6) Market for obligations
 
@@ -380,7 +384,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (9) Minority participation in public or negotiated offerings
 
-&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout theUnited States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
+&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
 
 #### (10) No full faith and credit of the United States
 
@@ -418,7 +422,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) Federal court jurisdiction
 
-&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
+&emsp;&emsp;Notwithstanding any other provision of law, any civil action, suit, or proceeding towhich the Funding Corporation is a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction over such action, suit, or proceeding.
 
 #### (B) Removal
 
@@ -504,7 +508,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) the Secretary of the Treasury;
 
-&emsp;&emsp;&emsp;(ii) the Chairman of the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;&emsp;(ii) the Chairman of the Board <sup>2</sup> of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;&emsp;(iii) the Secretary of Housing and Urban Development.
 
@@ -524,7 +528,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 #### References in Text
 
@@ -533,6 +537,14 @@ The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 193
 Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 #### Amendments
+
+2008—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
+
+Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, §1204(8)–(10), substituted, in cls. (ii) and (iii), “The Director” for “The Board” and, in cl. (iv), “the Director” for “the Board” before “extends” and “the Director” for “the Finance Board” before “shall reduce”.
+
+Subsec. (f)(2)(C)(v). Pub. L. 110–289, §1213, added cl. (v).
+
+Subsec. (k)(7)(B)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
 
 2006—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(E). See 1996 Amendment note below.
 
@@ -589,4 +601,6 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See 2008 Amendment note below.</i>
 

@@ -16,7 +16,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 &emsp;&emsp;Until the Secretary removes a lien from an interest in land under paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interest shall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
+&emsp;&emsp;&emsp;(i) any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interestshall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) any revenue derived from any interest acquired by the Secretary in accordance with section 2212 of this title shall be deposited in the fund created under section 2215 of this title.
 
@@ -32,7 +32,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 &emsp;&emsp;(B) in the discretion of the Secretary, it will take an unreasonable period of time for the parcel of land to generate revenue that equals the purchase price paid for the interest; or
 
-&emsp;&emsp;(C) a subsequent decrease in the value of land or commodities associated with theparcel of land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time.
+&emsp;&emsp;(C) a subsequent decrease in the value of land or commodities associated with the parcel of land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time.
 
 #### (4) Removal of liens upon payment into the acquisition fund
 

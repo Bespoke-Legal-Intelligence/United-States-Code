@@ -30,7 +30,7 @@
 
 &emsp;(C) any other vessel if the Secretary determines, after an investigation, that qualified seamen who are citizens of the United States are not available.
 
-(c) On each departure of a vessel (except a passenger vessel) for which a construction or operating differential subsidy has been granted, allof the seamen of the vessel must be citizens of the United States.
+(c) On each departure of a vessel (except a passenger vessel) for which a construction or operating differential subsidy has been granted, all of the seamen of the vessel must be citizens of the United States.
 
 (d)(1) On each departure of a passenger vessel for which a construction or operating differential subsidy has been granted, at least 90 percent of the entire complement (including licensed individuals) must be citizens of the United States.
 
@@ -138,7 +138,7 @@ Status, documentation, and employment.—An unlicensed seaman described in subpa
 
 &emsp;&emsp;&emsp;(iii) shall, if eligible, be issued a merchant mariners document with an appropriate annotation reflecting the restrictions of subparagraph (B) of this paragraph; and
 
-&emsp;&emsp;&emsp;(iv) may be employed for a period of service on board not to exceed 36 months in the aggregate as a nonimmigrant crewman described in section 101(a)(15)(D)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(D)(i)) on vessels engaged in domestic voyages notwithstanding the departure requirements and time limitations of such section and the regulations and rules promulgated thereunder.
+&emsp;&emsp;&emsp;(iv) may be employed for a period of service on board not to exceed 36 months in the aggregate as a nonimmigrant crewman described in section 101(a)(15)(D)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(D)(i)) on vessels engaged in domestic voyages notwithstanding the departure requirements and time limitations of such section and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282) and the regulations and rules promulgated thereunder.
 
 &emsp;(4)
 
@@ -156,7 +156,7 @@ Steward's department.—The term “steward's department” means the department
 
 Large passenger vessel.—The term “large passenger vessel” means a vessel of more than 70,000 gross tons, as measured under section 14302 of this title, with capacity for at least 2,000 passengers and documented with a coastwise endorsement under chapter 121 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006, 120 Stat. 2518.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 548; Pub. L. 100–239, §§5(a)(1), (2), (b)–(d)(1), Jan. 11, 1988, 101 Stat. 1780; Pub. L. 100–255, Mar. 4, 1988, 102 Stat. 23; Pub. L. 101–595, title VI, §603(6), title VII, §711, Nov. 16, 1990, 104 Stat. 2993, 2997; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title VII, §727, title XI, §1123, Oct. 19, 1996, 110 Stat. 3939, 3980; Pub. L. 108–293, title IV, §412, Aug. 9, 2004, 118 Stat. 1046; Pub. L. 109–163, div. A, title V, §515(f)(3)(A), (B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–241, title III, §312(c)(1), July 11, 2006, 120 Stat. 533; Pub. L. 109–304, §15(22), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 109–364, div. C, title XXXV, §3509, Oct. 17, 2006,120 Stat. 2518; Pub. L. 110–181, div. C, title XXXV, §3529(d), Jan. 28, 2008, 122 Stat. 604.)
 
 Historical and Revision Notes
 
@@ -184,7 +184,7 @@ Subsection (a) requires that the master, chief engineer, or officer in charge of
 
 Subsection (b) requires that 75 percent of the seamen, excluding licensed individuals, on a United States documented vessel be United States citizens, except for a fishing or whaling vessel or yacht. The Secretary may reduce the percentage if the Secretary decides on investigation that United States seamen are not available. This investigation and percentage reduction authority is the sole responsibility of the Secretary of Transportation and accordingly the Secretary is to make these decisions expeditiously, promptly, and independently so as not to be dependent on any other agency to make this reduction. The Committee believes the Secretary is capable of this decision and need not delay or fail to make the decision because some other agency does not have the information or would require an extended period to acquire that information. The phrase “for any reason” is used merely to emphasize the complete discretion of the Secretary in making this decision. In addition, because this decision is based on an investigation, formal procedures of the Administrative Procedure Act do not apply.
 
-Subsections (c) and (d) provide that a vessel, except a passenger vessel, on departure from the United States that has been granted a construction or operating differential subsidy have a higher percentage citizenship requirement. Subsection (c) requires all of the crew and employees of a cargo vessel be United States citizens.Subsection (d) requires at least 90 percent of the entire complement of a passenger vessel be United States citizens. The phrase “including all licensed individuals” emphasizes that all licensed individuals are required to be United States citizens as required by subsection (a) and that they compose part of the 90 percent requirement under this subsection. Further, under subsection (d), the balance of the complement must be individuals who have a declaration of intention to become a United States citizen or evidence of admission to the United States as a permanent resident and may only be employed in the steward's department of the passenger vessel.
+Subsections (c) and (d) provide that a vessel, except a passenger vessel, on departure from the United States that has been granted a construction or operating differential subsidy have a higher percentage citizenship requirement. Subsection (c) requires all of the crew and employees of a cargo vessel be United States citizens. Subsection (d) requires at least 90 percent of the entire complement of a passenger vessel be United States citizens. The phrase “including all licensed individuals” emphasizes that all licensed individuals are required to be United States citizens as required by subsection (a) and that they compose part of the 90 percent requirement under this subsection. Further, under subsection (d), the balance of the complement must be individuals who have a declaration of intention to become a United States citizen or evidence of admission to the United States as a permanent resident and may only be employed in the steward's department of the passenger vessel.
 
 Except for the master, subsection (e) permits a non-United States citizen to fill a vacancy that occurs for any reason on a United States documented vessel during a foreign voyage until the vessel returns to a United States port where a United States citizen replacement can be obtained. The phrase “for any reason” is used merely for emphasis.
 
@@ -199,6 +199,8 @@ Subsection (h) permits the President to suspend the requirements of this section
 The Immigration and Nationality Act, referred to in subsecs. (i)(1)(C) and (k)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+2008—Subsec. (k)(3)(C)(iv). Pub. L. 110–181 inserted “and section 252 of the Immigration and Nationality Act (8 U.S.C. 1282)” after “limitations of such section”.
 
 2006—Pub. L. 109–163, §515(f)(3)(B), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
@@ -246,7 +248,7 @@ Pub. L. 100–239, 5(d)(2), Jan. 11, 1988, 101 Stat. 1781, provided that: “Thi
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Application of Section to Fishing Vessels in California
 

@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the term “qualified small business stock”means any stock in a C corporation which is originally issued after the date of the enactment of the Revenue Reconciliation Act of 1993, if—
+&emsp;Except as otherwise provided in this section, the term “qualified small business stock” means any stock in a C corporation which is originally issued after the date of the enactment of the Revenue Reconciliation Act of 1993, if—
 
 &emsp;&emsp;(A) as of the date of issuance, such corporation is a qualified small business, and
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (i) Waiver of active business requirement
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
+&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any periodduring which such corporation qualifies as a specialized small business investment company.
 
 #### (ii) Specialized small business investment company
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (c)(2), the requirements of this subsection are met by acorporation for any period if during such period—
+&emsp;For purposes of subsection (c)(2), the requirements of this subsection are met by a corporation for any period if during such period—
 
 &emsp;&emsp;(A) at least 80 percent (by value) of the assets of such corporation are used by such corporation in the active conduct of 1 or more qualified trades or businesses, and
 
@@ -242,7 +242,7 @@ If any stock in a corporation is acquired solely through the conversion of other
 
 &emsp;&emsp;(A) such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for more than 5 years, and
 
-&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity which was held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
+&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity whichwas held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
 
 #### (3) Limitation based on interest originally held by taxpayer
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 #### (2) Offsetting short position
 
-&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting short position with respect to any qualified small business stock if—
+&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting shortposition with respect to any qualified small business stock if—
 
 &emsp;&emsp;(A) the taxpayer has made a short sale of substantially identical property,
 

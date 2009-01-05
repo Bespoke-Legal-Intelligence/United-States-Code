@@ -6,7 +6,7 @@ The President by and with the consent of the Senate shall designate from time to
 
 #### References in Text
 
-Article V of the constitution of the Organization, referred to in text, is article V of the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
+Article V of the constitution of the Organization, referred to in text, is article V of the Constitution of theUnited Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
 
 #### Amendments
 

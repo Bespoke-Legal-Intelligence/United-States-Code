@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—TRAINING AND DEVELOPING STATE AND LOCAL EMPLOYEES
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

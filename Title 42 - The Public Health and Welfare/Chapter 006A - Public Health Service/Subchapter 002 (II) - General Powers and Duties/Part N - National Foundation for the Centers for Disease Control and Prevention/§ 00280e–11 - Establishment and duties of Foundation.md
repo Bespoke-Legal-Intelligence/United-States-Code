@@ -142,7 +142,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
-&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 oftitle 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
+&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
 #### (5) Financial conflicts of interest
 
@@ -300,7 +300,7 @@ Section was formerly classified to section 280d–11 of this title prior to renu
 
 #### Prior Provisions
 
-A prior section 399G of act July 1, 1944, was renumbered section 399H and is classified to section 280f of this title.
+A prior section 399G of act July 1, 1944, was renumbered section 399H and was classified to section 280f of this title, prior to being omitted from the Code.
 
 #### Amendments
 

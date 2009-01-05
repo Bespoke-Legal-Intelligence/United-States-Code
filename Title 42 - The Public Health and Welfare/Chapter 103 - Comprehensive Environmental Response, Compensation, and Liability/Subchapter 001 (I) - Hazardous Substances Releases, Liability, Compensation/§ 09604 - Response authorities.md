@@ -26,7 +26,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 #### (1) Information; studies and investigations
 
-&emsp;Whenever the President is authorized to act pursuant to subsection (a) of this section, or whenever the President has reason to believethat a release has occurred or is about to occur, or that illness, disease, or complaints thereof may be attributable to exposure to a hazardous substance, pollutant, or contaminant and that a release may have occurred or be occurring, he may undertake such investigations, monitoring, surveys, testing, and other information gathering as he may deem necessary or appropriate to identify the existence and extent of the release or threat thereof, the source and nature of the hazardous substances, pollutants or contaminants involved, and the extent of danger to the public health or welfare or to the environment. In addition, the President may undertake such planning, legal, fiscal, economic, engineering, architectural, and other studies or investigations as he may deem necessary or appropriate to plan and direct response actions, to recover the costs thereof, and to enforce the provisions of this chapter.
+&emsp;Whenever the President is authorized to act pursuant to subsection (a) of this section, or whenever the President has reason to believe that a release has occurred or is about to occur, or that illness, disease, or complaints thereof may be attributable to exposure to a hazardous substance, pollutant, or contaminant and that a release may have occurred or be occurring, he may undertake such investigations, monitoring, surveys, testing, and other information gathering as he may deem necessary or appropriate to identify the existence and extent of the release or threat thereof, the source and nature of the hazardous substances, pollutants or contaminants involved, and the extent of danger to the public health or welfare or to the environment. In addition, the President may undertake such planning, legal, fiscal, economic, engineering, architectural, and other studies or investigations as he may deem necessary or appropriate to plan and direct response actions, to recover the costs thereof, and to enforce the provisions of this chapter.
 
 #### (2) Coordination of investigations
 
@@ -74,7 +74,7 @@ Item-by-item approval.—In the case of expenditures made after October 17, 1986
 
 &emsp;(F)
 
-Use of credits.—Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costs at other facilities in that State. A credit shall not entitle the State to any direct payment.
+Use of credits.—Credits granted under this paragraph for funds expended with respect to a facility may be used by the State to reduce all or part of the share of costs otherwise required to be paid by the State under paragraph (3) in connection with remedial actions at such facility. If the amount of funds for which credit is allowed under this paragraph exceeds such share of costs for such facility, the State may use the amount of such excess to reduce all or part of the share of such costsat other facilities in that State. A credit shall not entitle the State to any direct payment.
 
 (6)
 
@@ -162,7 +162,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (B) Samples
 
-&emsp;&emsp;If the officer, employee, or representative obtains any samples, before leaving thepremises he shall give to the owner, operator, tenant, or other person in charge of the place from which the samples were obtained a receipt describing the sample obtained and, if requested, a portion of each such sample. A copy of the results of any analysis made of such samples shall be furnished promptly to the owner, operator, tenant, or other person in charge, if such person can be located.
+&emsp;&emsp;If the officer, employee, or representative obtains any samples, before leaving the premises he shall give to the owner, operator, tenant, or other person in charge of the place from which the samples were obtained a receipt describing the sample obtained and, if requested, a portion of each such sample. A copy of the results of any analysis made of such samples shall be furnished promptly to the owner, operator, tenant, or other person in charge, if such person can be located.
 
 #### (5) Compliance orders
 
@@ -176,7 +176,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;&emsp;&emsp;(i) In the case of interference with entry or inspection, the court shall enjoin such interference or direct compliance with orders to prohibit interference with entry or inspection unless under the circumstances of the case the demand for entry or inspection is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-&emsp;&emsp;&emsp;(ii) In the case of information or document requests or orders, the court shall enjoin interference with such information or document requests or orders or direct compliance with the requests or orders to provide such information or documents unless under the circumstances of the case the demand for information or documents is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;&emsp;&emsp;(ii) In the case of information or document requests or orders, the court shall enjoin interference with such information or document requests or orders or direct compliance with the requests or orders to provide such information or documents unless under the circumstances of the case the demand for information or documents is arbitrary and capricious, an abuse ofdiscretion, or otherwise not in accordance with law.
 
 > &emsp;&emsp;The court may assess a civil penalty not to exceed $25,000 for each day of noncompliance against any person who unreasonably fails to comply with the provisions of paragraph (2), (3), or (4) or an order issued pursuant to subparagraph (A) of this paragraph.
 
@@ -228,7 +228,7 @@ In awarding contracts to any person engaged in response actions, the President o
 
 #### (g) Rates for wages and labor standards applicable to covered work
 
-(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
+(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall notapprove any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
 
 (2) The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
@@ -252,7 +252,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency (“EPA”) shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
 
-(B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list preparedunder subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
+(B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list prepared under subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
 
 (3) Based on all available information, including information maintained under paragraph (1)(B) and data developed and collected on the health effects of hazardous substances under this paragraph, the Administrator of ATSDR shall prepare toxicological profiles of each of the substances listed pursuant to paragraph (2). The toxicological profiles shall be prepared in accordance with guidelines developed by the Administrator of ATSDR and the Administrator of EPA. Such profiles shall include, but not be limited to each of the following:
 
@@ -262,7 +262,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(C) Where appropriate, an identification of toxicological testing needed to identify the types or levels of exposure that may present significant risk of adverse health effects in humans.
 
-> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testing which has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often than once every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
+> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testingwhich has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often than once every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
 
 (4) The Administrator of the ATSDR shall provide consultations upon request on health issues relating to exposure to hazardous or toxic substances, on the basis of available information, to the Administrator of EPA, State officials, and local officials. Such consultations to individuals may be provided by States under cooperative agreements established under this chapter.
 
@@ -310,7 +310,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (8) In any case in which the results of a health assessment indicate a potential significant risk to human health, the Administrator of ATSDR shall consider whether the establishment of a registry of exposed persons would contribute to accomplishing the purposes of this subsection, taking into account circumstances bearing on the usefulness of such a registry, including the seriousness or unique character of identified diseases or the likelihood of population migration from the affected area.
 
-(9) Where the Administrator of ATSDR has determined that there is a significant increased risk of adverse health effects in humans from exposure to hazardous substances based on the results of a health assessment conducted under paragraph (6), an epidemiologic study conducted under paragraph (7), or an exposure registry that has been established under paragraph (8), and the Administrator of ATSDR has determined that such exposure is the result of a release from a facility, the Administrator of ATSDR shall initiate a health surveillance program for such population. This program shall include but not be limited to—
+(9) Where the Administrator of ATSDR has determined that there is a significant increased risk of adverse health effects in humans from exposure to hazardous substances based on theresults of a health assessment conducted under paragraph (6), an epidemiologic study conducted under paragraph (7), or an exposure registry that has been established under paragraph (8), and the Administrator of ATSDR has determined that such exposure is the result of a release from a facility, the Administrator of ATSDR shall initiate a health surveillance program for such population. This program shall include but not be limited to—
 
 &emsp;(A) periodic medical testing where appropriate of population subgroups to screen for diseases for which the population or subgroup is at significant increased risk; and
 
@@ -404,7 +404,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (ii) Site characterization and assessment
 
-&emsp;&emsp;&emsp;A site characterization and assessment carried out with the use of a grant underclause (i) shall be performed in accordance with section 9601(35)(B) of this title.
+&emsp;&emsp;&emsp;A site characterization and assessment carried out with the use of a grant under clause (i) shall be performed in accordance with section 9601(35)(B) of this title.
 
 #### (3) Grants and loans for brownfield remediation
 
@@ -430,7 +430,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;(i) the extent to which a grant will facilitate the creation of, preservation of, or addition to a park, a greenway, undeveloped property, recreational property, or other property used for nonprofit purposes;
 
-&emsp;&emsp;&emsp;(ii) the extent to which a grant will meet the needs of a community that has an inability to draw on other sources of funding for environmental remediation and subsequent redevelopment of the area in which a brownfield site is located because of the small population or low income of the community;
+&emsp;&emsp;&emsp;(ii) the extent to which a grant will meet the needs of a community that has an inability to draw on other sources of fundingfor environmental remediation and subsequent redevelopment of the area in which a brownfield site is located because of the small population or low income of the community;
 
 &emsp;&emsp;&emsp;(iii) the extent to which a grant will facilitate the use or reuse of existing infrastructure;
 
@@ -496,7 +496,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (iii) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent ofthe funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in section 9601(40) of this title to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002.
+&emsp;&emsp;&emsp;Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent of the funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in section 9601(40) of this title to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002.
 
 #### (C) Assistance for development of local government site remediation programs
 
@@ -568,7 +568,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (A) Establishment of program
 
-&emsp;&emsp;The Administrator may provide, or fund eligible entities or nonprofit organizations to provide, training, research, and technicalassistance to individuals and organizations, as appropriate, to facilitate the inventory of brownfield sites, site assessments, remediation of brownfield sites, community involvement, or site preparation.
+&emsp;&emsp;The Administrator may provide, or fund eligible entities or nonprofit organizations to provide, training, research, and technical assistance to individuals and organizations, as appropriate, to facilitate the inventory of brownfield sites, site assessments, remediation of brownfield sites, community involvement, or site preparation.
 
 #### (B) Funding restrictions
 
@@ -600,7 +600,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (8) Leveraging
 
-&emsp;An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
+&emsp;An eligible entity that receives a grant under this subsection may use the grant fundsfor a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
 
 #### (9) Agreements
 
@@ -672,7 +672,7 @@ The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of 
 
 #### Codification
 
-In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “section 3145 of title 40” substituted for “section 276c of title 40 of the United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “section 3145 of title 40” substituted for “section 276c of title 40 of the United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -730,7 +730,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(10) of thi
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

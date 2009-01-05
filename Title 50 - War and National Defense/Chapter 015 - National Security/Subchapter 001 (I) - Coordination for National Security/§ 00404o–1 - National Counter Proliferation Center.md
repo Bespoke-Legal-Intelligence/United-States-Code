@@ -40,7 +40,7 @@ It is the sense of Congress that a central feature of counter proliferation acti
 
 #### References in Text
 
-This Act, referred to in subsec. (d)(1), probably means Pub. L. 108–458, known as the Intelligence Reform and Terrorism Prevention Act of 2004, which enacted this section. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 401 of this title and Tables.
+This Act, referred to in subsec. (d)(1), probably means Pub. L. 108–458, known as the Intelligence Reform and Terrorism Prevention Act of 2004, which enacted this section. For complete classification of this Act to theCode, see Short Title of 2004 Amendment note set out under section 401 of this title and Tables.
 
 The Executive Order in February 2004 establishing the President's Commission on Weapons of Mass Destruction, referred to in subsec. (d)(1), is Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, and was formerly set out as a note under section 2301 of this title.
 

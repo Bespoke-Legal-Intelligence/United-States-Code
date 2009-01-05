@@ -110,3 +110,9 @@ In subsection (c)(5), the word “tested” is substituted for “assayed” for
 
 1995—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
 
+#### Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees
+
+Pub. L. 110–432, div. A, title IV, §412, Oct. 16, 2008, 122 Stat. 4889, provided that: “Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall complete a rulemaking proceeding to revise the regulations prescribed under section 20140 of title 49, United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities.”
+
+\[For definition of “railroad carrier”, as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+

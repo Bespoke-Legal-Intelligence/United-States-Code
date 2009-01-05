@@ -24,7 +24,7 @@ Extraterritorial Jurisdiction.—There is extraterritorial Federal jurisdiction 
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroyor damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) <sup>2</sup>);
+&emsp;(1) the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) <sup>2</sup>);
 
 &emsp;(2) the term “serious bodily injury” has the meaning given that term in section 1365(h)(3);
 

@@ -1,12 +1,12 @@
 ### §333. Judicial conferences of circuits
 
-The chief judge of each circuit may summon biennially, and may summon annually, the circuit, district, and bankruptcy judges of the circuit, in active service, to a conference at a time and place that he designates, for the purpose of considering the business of the courts and advising means of improving the administration of justice within such circuit. He may preside at such conference, which shall be known as the Judicial Conference of the circuit. The judges of the District Court of Guam, the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands may also be summoned biennially, and may be summoned annually, to the conferences of their respective circuits.
+The chief judge of each circuit may summon biennially, and may summon annually, the circuit, district, magistrate, and bankruptcy judges of the circuit, in active service, to a conference at a time and place that he designates, for the purpose of considering the business of the courts and advising means of improving the administration of justice within such circuit. He may preside at such conference, which shall be known as the Judicial Conference of the circuit. The judges of the District Court of Guam, the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands may also be summoned biennially, and may be summoned annually, to the conferences of their respective circuits.
 
 Every judge summoned may attend.
 
 The court of appeals for each circuit shall provide by its rules for representation and active participation at such conference by members of the bar of such circuit.
 
-(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, §38, 65 Stat. 723; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, §320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(June 25, 1948, ch. 646, 62 Stat. 903; Dec. 29, 1950, ch. 1185, 64 Stat. 1128; Oct. 31, 1951, ch. 655, §38, 65 Stat. 723; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §210, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 101–650, title III, §320, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title III, §305\], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–406, §9, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ The revised section omits, as surplusage, the definition of “continental Unite
 The provision as to travel and subsistence which was contained in said section 449 of title 28, U.S.C., 1940 ed., is incorporated in section 456 of this title.
 
 #### Amendments
+
+2008—Pub. L. 110–406 inserted “magistrate,” after “district,” in first par.
 
 1996—Pub. L. 104–134, §101\[(a)\] \[title III, §305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
 

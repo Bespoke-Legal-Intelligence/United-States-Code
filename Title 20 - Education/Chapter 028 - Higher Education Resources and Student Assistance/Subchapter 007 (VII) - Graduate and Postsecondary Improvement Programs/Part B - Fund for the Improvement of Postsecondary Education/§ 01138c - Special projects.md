@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-The Director is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Director deems necessary for innovative projects concerning one or more areas of particular national need identified by the Director.
+The Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
 
 #### (b) Application
 
@@ -10,17 +10,33 @@ No grant shall be made under this part unless an application is made at such tim
 
 #### (c) Areas of national need
 
-Areas of national need shall initially include, but shall not be limited to, the following:
+Areas of national need shall include, at a minimum, the following:
 
-&emsp;(1) Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost and price control.
+&emsp;(1) Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost reduction.
 
-&emsp;(2) Articulation between 2- and 4-year institutions of higher education, including developing innovative methods for ensuring the successful transfer of students from 2- to 4-year institutions of higher education.
+&emsp;(2) Improvements in academic instruction and student learning, including efforts designed to assess the learning gains made by postsecondary students.
 
-&emsp;(3) Evaluation and dissemination of model programs.
+&emsp;(3) Articulation between two- and four-year institutions of higher education, including developing innovative methods for ensuring the successful transfer of students from two- to four-year institutions of higher education.
 
-&emsp;(4) International cooperation and student exchange among postsecondary educational institutions.
+&emsp;(4) Development, evaluation, and dissemination of model courses, including model courses that—
 
-(Pub. L. 89–329, title VII, §744, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798.)
+&emsp;&emsp;(A) provide students with a broad and integrated knowledge base;
+
+&emsp;&emsp;(B) include, at a minimum, broad survey courses in English literature, American and world history, American political institutions, economics, philosophy, college-level mathematics, and the natural sciences; and
+
+&emsp;&emsp;(C) include study of a foreign language that leads to reading and writing competency in the foreign language.
+
+&emsp;(5) International cooperation and student exchanges among postsecondary educational institutions.
+
+&emsp;(6) Support of centers to incorporate education in quality and safety into the preparation of medical and nursing students, through grants to medical schools, nursing schools, and osteopathic schools. Such grants shall be used to assist in providing courses of instruction that specifically equip students to—
+
+&emsp;&emsp;(A) understand the causes of, and remedies for, medical error, medically induced patient injuries and complications, and other defects in medical care;
+
+&emsp;&emsp;(B) engage effectively in personal and systemic efforts to continually reduce medical harm; and
+
+&emsp;&emsp;(C) improve patient care and outcomes, as recommended by the Institute of Medicine.
+
+(Pub. L. 89–329, title VII, §744, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798; amended Pub. L. 110–315, title VII, §707(f), (h)(3), Aug. 14, 2008, 122 Stat. 3359, 3361.)
 
 #### Prior Provisions
 
@@ -29,4 +45,18 @@ Provisions similar to this section were contained in section 1135a–11 of this 
 A prior section 1138c, Pub. L. 89–329, title XI, §1144, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 789; amended Pub. L. 103–382, title III, §391(e)(10), Oct. 20, 1994, 108 Stat. 4023, related to applications for grants, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 A prior section 744 of Pub. L. 89–329 was classified to section 1132c–3 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §707(h)(3), substituted “Secretary” for “Director” wherever appearing.
+
+Subsec. (c). Pub. L. 110–315, §707(f), amended subsec. (c) generally. Prior to amendment, text read as follows: “Areas of national need shall initially include, but shall not be limited to, the following:
+
+&emsp;“(1) Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost and price control.
+
+&emsp;“(2) Articulation between 2- and 4-year institutions of higher education, including developing innovative methods for ensuring the successful transfer of students from 2- to 4-year institutions of higher education.
+
+&emsp;“(3) Evaluation and dissemination of model programs.
+
+&emsp;“(4) International cooperation and student exchange among postsecondary educational institutions.”
 

@@ -60,7 +60,7 @@ Financial statements contained in annual reports required pursuant to subsection
 
 #### (h) Duties and liabilities of affiliated persons
 
-Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of outstanding securities (other than short-term paper) of which a registered closed-end company is the issuer or who is an officer, director, member of an advisory board, investment adviser, or affiliated person of an investment adviser of such a company shall in respect of his transactions in any securities of such company (other than short-term paper) be subject to the same duties and liabilities as those imposed by section 16 of the Securities Exchange Act of 1934 \[15 U.S.C. 78p\] upon certain beneficial owners, directors, and officers in respect of their transactions in certain equity securities.
+Every person who is directly or indirectly the beneficial owner of more than 10 per centum ofany class of outstanding securities (other than short-term paper) of which a registered closed-end company is the issuer or who is an officer, director, member of an advisory board, investment adviser, or affiliated person of an investment adviser of such a company shall in respect of his transactions in any securities of such company (other than short-term paper) be subject to the same duties and liabilities as those imposed by section 16 of the Securities Exchange Act of 1934 \[15 U.S.C. 78p\] upon certain beneficial owners, directors, and officers in respect of their transactions in certain equity securities.
 
 #### (i) Disclosure to church plan participants
 
@@ -88,7 +88,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 
 
 Subsec. (e). Pub. L. 105–353, §301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
-Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure tochurch plan participants and notice to Commission, respectively, as (i) and (j), respectively.
+Subsecs. (g) to (j). Pub. L. 105–353, §301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
 1996—Subsec. (b)(1). Pub. L. 104–290, §206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 

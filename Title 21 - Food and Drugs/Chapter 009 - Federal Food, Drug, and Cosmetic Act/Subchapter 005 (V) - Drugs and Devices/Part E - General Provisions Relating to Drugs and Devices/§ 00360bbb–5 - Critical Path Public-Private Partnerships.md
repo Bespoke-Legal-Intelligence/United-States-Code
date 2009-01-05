@@ -30,7 +30,7 @@ In this section, the term “eligible entity” means an entity that meets each 
 
 #### (c) Funding
 
-The Secretary may not enter into a collaborative agreement under subsection (a) unless the eligible entity involved provides an assurance that the entity will not accept funding for a Critical Path Public-Private Partnership project from any organization that manufactures or distributes products regulated by the Food and Drug Administration unless the entity provides assurances in its agreement with the Food and Drug Administration that the results of the Critical Path Public-Private Partnership project will not be influenced by any source of funding.
+The Secretary may not enter into a collaborative agreement under subsection (a) unless the eligible entity involved provides an assurance that the entity will not accept funding for a Critical Path Public-Private Partnership project from any organization that manufactures or distributes products regulated by the Food andDrug Administration unless the entity provides assurances in its agreement with the Food and Drug Administration that the results of the Critical Path Public-Private Partnership project will not be influenced by any source of funding.
 
 #### (d) Annual report
 

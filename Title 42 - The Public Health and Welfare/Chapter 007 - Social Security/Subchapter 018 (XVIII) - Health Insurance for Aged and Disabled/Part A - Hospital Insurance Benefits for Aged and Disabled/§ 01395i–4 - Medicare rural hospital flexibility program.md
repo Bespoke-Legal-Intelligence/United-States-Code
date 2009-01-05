@@ -92,7 +92,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(II) a rehabilitation unit of the hospital that is a distinct part of the hospital,
 
-&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation) that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
+&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation)that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
 
 #### (ii) Limitation on number of beds
 
@@ -138,7 +138,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (C) Credentialing and quality assurance
 
-&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall havean agreement with respect to credentialing and quality assurance with at least—
+&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall have an agreement with respect to credentialing and quality assurance with at least—
 
 &emsp;&emsp;&emsp;(i) 1 hospital that is a member of the network;
 
@@ -168,9 +168,11 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;&emsp;(A) engaging in activities relating to planning and implementing a rural health care plan;
 
-&emsp;&emsp;(B) engaging in activities relating to planning and implementing rural health networks; and
+&emsp;&emsp;(B) engaging in activities relating to planning and implementing rural health networks;
 
-&emsp;&emsp;(C) designating facilities as critical access hospitals.
+&emsp;&emsp;(C) designating facilities as critical access hospitals; and
+
+&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, quality reporting, performance improvements, and benchmarking.
 
 #### (2) Rural emergency medical services
 
@@ -180,7 +182,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (B) Application
 
-&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) of this section and paragraph (3) of that subsection.
+&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to theSecretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii), (A)(iii), and (B) of subsection (b)(1) of this section and paragraph (3) of that subsection.
 
 #### (3) Upgrading data systems
 
@@ -242,7 +244,77 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (5) Use of funds for Federal administrative expenses
 
-&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (beginning with fiscal year 2005), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+
+#### (6) Providing mental health services and other health services to veterans and other residents of rural areas
+
+#### (A) Grants to States
+
+&emsp;&emsp;The Secretary may award grants to States that have submitted applications in accordance with subparagraph (B) for increasing the delivery of mental health services or other health care services deemed necessary to meet the needs of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in rural areas (as defined for purposes of section 1395ww(d) of this title and including areas that are rural census tracks, as defined by the Administrator of the Health Resources and Services Administration), including for the provision of crisis intervention services and the detection of post-traumatic stress disorder, traumatic brain injury, and other signature injuries of veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and for referral of such veterans to medical facilities operated by the Department of Veterans Affairs, and for the delivery of such services to other residents of such rural areas.
+
+#### (B) Application
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An application is in accordance with this subparagraph if the State submits to theSecretary at such time and in such form as the Secretary may require an application containing the assurances described in subparagraphs (A)(ii) and (A)(iii) of subsection (b)(1).
+
+#### (ii) Consideration of regional approaches, networks, or technology
+
+&emsp;&emsp;&emsp;The Secretary may, as appropriate in awarding grants to States under subparagraph (A), consider whether the application submitted by a State under this subparagraph includes 1 or more proposals that utilize regional approaches, networks, health information technology, telehealth, or telemedicine to deliver services described in subparagraph (A) to individuals described in that subparagraph. For purposes of this clause, a network may, as the Secretary determines appropriate, include Federally qualified health centers (as defined in section 1395x(aa)(4) of this title), rural health clinics (as defined in section 1395x(aa)(2) of this title), home health agencies (as defined in section 1395x(<i>o</i>) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title) and other providers of mental health services, pharmacists, local government, and other providers deemed necessary to meet the needs of veterans.
+
+#### (iii) Coordination at local level
+
+&emsp;&emsp;&emsp;The Secretary shall require, as appropriate, a State to demonstrate consultation with the hospital association of such State, rural hospitals located in such State, providers of mental health services, or other appropriate stakeholders for the provision of services under a grant awarded under this paragraph.
+
+#### (iv) Special consideration of certain applications
+
+&emsp;&emsp;&emsp;In awarding grants to States under subparagraph (A), the Secretary shall give special consideration to applications submitted by States in which veterans make up a high percentage (as determined by the Secretary) of the total population of the State. Such consideration shall be given without regard to the number of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in the areas in which mental health services and other health care services would be delivered under the application.
+
+#### (C) Coordination with VA
+
+&emsp;&emsp;The Secretary shall, as appropriate, consult with the Director of the Office of Rural Health of the Department of Veterans Affairs in awarding and administering grants to States under subparagraph (A).
+
+#### (D) Use of funds
+
+&emsp;&emsp;A State awarded a grant under this paragraph may, as appropriate, use the funds to reimburse providers of services described in subparagraph (A) to individuals described in that subparagraph.
+
+#### (E) Limitation on use of grant funds for administrative expenses
+
+&emsp;&emsp;A State awarded a grant under this paragraph may not expend more than 15 percent of the amount of the grant for administrative expenses.
+
+#### (F) Independent evaluation and final report
+
+&emsp;&emsp;The Secretary shall provide for an independent evaluation of the grants awarded under subparagraph (A). Not later than 1 year after the date on which the last grant is awarded to a State under such subparagraph, the Secretary shall submit a report to Congress on such evaluation. Such report shall include an assessment of the impact of such grants on increasing the delivery of mental health services and other health services to veterans of the United States Armed Forces living in rural areas (as so defined and including such areas that are rural census tracks), with particular emphasis on the impact of such grants on the delivery of such services to veterans of Operation Enduring Freedom and Operation Iraqi Freedom, and to other individuals living in such rural areas.
+
+#### (7) Critical access hospitals transitioning to skilled nursing facilities and assisted living facilities
+
+#### (A) Grants
+
+&emsp;&emsp;The Secretary may award grants to eligible critical access hospitals that have submitted applications in accordance with subparagraph (B) for assisting such hospitals in the transition to skilled nursing facilities and assisted living facilities.
+
+#### (B) Application
+
+&emsp;&emsp;An applicable critical access hospital seeking a grant under this paragraph shall submit an application to the Secretary on or before such date and in such form and manner as the Secretary specifies.
+
+#### (C) Additional requirements
+
+&emsp;&emsp;The Secretary may not award a grant under this paragraph to an eligible critical access hospital unless—
+
+&emsp;&emsp;&emsp;(i) local organizations or the State in which the hospital is located provides matching funds; and
+
+&emsp;&emsp;&emsp;(ii) the hospital provides assurances that it will surrender critical access hospital status under this subchapter within 180 days of receiving the grant.
+
+#### (D) Amount of grant
+
+&emsp;&emsp;A grant to an eligible critical access hospital under this paragraph may not exceed $1,000,000.
+
+#### (E) Funding
+
+&emsp;&emsp;There are appropriated from the Federal Hospital Insurance Trust Fund under section 1395i of this title for making grants under this paragraph, $5,000,000 for fiscal year 2008.
+
+#### (F) Eligible critical access hospital defined
+
+&emsp;&emsp;For purposes of this paragraph, the term “eligible critical access hospital” means a critical access hospital that has an averagedaily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
 
 #### (h) Grandfathering provisions
 
@@ -264,9 +336,9 @@ The Secretary is authorized to waive such provisions of this part and part E of 
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511.)
 
 #### References in Text
 
@@ -277,6 +349,18 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 Part E of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
 
 #### Amendments
+
+2008—Subsec. (g)(1)(D). Pub. L. 110–275, §121(d), added subpar. (D).
+
+Subsec. (g)(5). Pub. L. 110–275, §121(b)(2), which directed insertion of “and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009)” after “2005)”, was executed by making the insertion after “2008)” to reflect the probable intent of Congress and the amendment by section 121(b)(1) of Pub. L. 110–275. See note below.
+
+Pub. L. 110–275, §121(b)(1), substituted “for each of fiscal years 2005 through 2008” for “beginning with fiscal year 2005”.
+
+Subsec. (g)(6). Pub. L. 110–275, §121(a), added par. (6).
+
+Subsec. (g)(7). Pub. L. 110–275, §121(e), added par. (7).
+
+Subsec. (j). Pub. L. 110–275, §121(c), substituted “2002, for” for “2002, and for” and inserted “, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended” before period at end.
 
 2003—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted “before January 1, 2006,” after “is certified”.
 
@@ -376,6 +460,218 @@ Amendment by section 4201(a) of Pub. L. 105–33 applicable to services furnishe
 
 Section 4008(d)(4) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
+#### Demonstration Project on Community Health Integration Models in Certain Rural Counties
+
+Pub. L. 110–275, title I, §123, July 15, 2008, 122 Stat. 2514, provided that:
+
+“(a)
+
+In General.—The Secretary shall establish a demonstration project to allow eligible entities to develop and test new models for the delivery of health care services in eligible counties for the purpose of improving access to, and better integrating the delivery of, acute care, extended care, and other essential health care services to Medicare beneficiaries.
+
+“(b)
+
+Purpose.—The purpose of the demonstration project under this section is to—
+
+&emsp;“(1) explore ways to increase access to, and improve the adequacy of, payments for acute care, extended care, and other essential health care services provided under the Medicare and Medicaid programs in eligible counties; and
+
+&emsp;“(2) evaluate regulatory challenges facing such providers and the communities they serve.
+
+“(c)
+
+Requirements.—The following requirements shall apply under the demonstration project:
+
+&emsp;“(1) Health care providers in eligible counties selected to participate in the demonstration project under subsection (d)(3) shall (when determined appropriate by the Secretary), instead of the payment rates otherwise applicable under the Medicare program, be reimbursed at a rate that covers at least the reasonable costs of the provider in furnishing acute care, extended care, and other essential health care services to Medicare beneficiaries.
+
+&emsp;“(2) Methods to coordinate the survey and certification process under the Medicare program and the Medicaid program across all health service categories included in the demonstration project shall be tested with the goal of assuring quality and safety while reducing administrative burdens, as appropriate, related to completing such survey and certification process.
+
+&emsp;“(3) Health care providers in eligible counties selected to participate in the demonstration project under subsection (d)(3) and the Secretary shall work with the State to explore ways to revise reimbursement policies under the Medicaid program to improve access to the range of health care services available in such eligible counties.
+
+&emsp;“(4) The Secretary shall identify regulatory requirements that may be revised appropriately to improve access to care in eligible counties.
+
+&emsp;“(5) Other essential health care services necessary to ensure access to the range of health care services in eligible counties selected to participate in the demonstration project under subsection (d)(3) shall be identified. Ways to ensure adequate funding for such services shall also be explored.
+
+“(d)
+
+Application Process.—
+
+&emsp;“(1)
+
+Eligibility.—
+
+&emsp;&emsp;“(A)
+
+In general.—Eligibility to participate in the demonstration project under this section shall be limited to eligible entities.
+
+&emsp;&emsp;“(B)
+
+Eligible entity defined.—In this section, the term ‘eligible entity’ means an entity that—
+
+&emsp;&emsp;&emsp;“(i) is a Rural Hospital Flexibility Program grantee under section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)); and
+
+&emsp;&emsp;&emsp;“(ii) is located in a State in which at least 65 percent of the counties in the State are counties that have 6 or less residents per square mile.
+
+&emsp;“(2)
+
+Application.—
+
+&emsp;&emsp;“(A)
+
+In general.—An eligible entity seeking to participate in the demonstration project under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;&emsp;“(B)
+
+Limitation.—The Secretary shall select eligible entities located in not more than 4 States to participate in the demonstration project under this section.
+
+&emsp;“(3)
+
+Selection of eligible counties.—An eligible entity selected by the Secretary to participate in the demonstration project under this section shall select not more than 6 eligible counties in the State in which the entity is located in which to conduct the demonstration project.
+
+&emsp;“(4)
+
+Eligible county defined.—In this section, the term ‘eligible county’ means a county that meets the following requirements:
+
+&emsp;&emsp;“(A) The county has 6 or less residents per square mile.
+
+&emsp;&emsp;“(B) As of the date of the enactment of this Act \[July 15, 2008\], a facility designated as a critical access hospital which meets the following requirements was located in the county:
+
+&emsp;&emsp;&emsp;“(i) As of the date of the enactment of this Act, the critical access hospital furnished 1 or more of the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) Home health services.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) Hospice care.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) Rural health clinic services.
+
+&emsp;&emsp;&emsp;“(ii) As of the date of the enactment of this Act, the critical access hospital has an average daily inpatient census of 5 or less.
+
+&emsp;&emsp;“(C) As of the date of the enactment of this Act, skilled nursing facility services were available in the county in—
+
+&emsp;&emsp;&emsp;“(i) a critical access hospital using swing beds; or
+
+&emsp;&emsp;&emsp;“(ii) a local nursing home.
+
+“(e)
+
+Administration.—
+
+&emsp;“(1)
+
+In general.—The demonstration project under this section shall be administered jointly by the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration and the Administrator of the Centers for Medicare \& Medicaid Services, in accordance with paragraphs (2) and (3).
+
+&emsp;“(2) HRSA
+
+duties.—In administering the demonstration project under this section, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration shall—
+
+&emsp;&emsp;“(A) award grants to the eligible entities selected to participate in the demonstration project; and
+
+&emsp;&emsp;“(B) work with such entities to provide technical assistance related to the requirements under the project.
+
+&emsp;“(3) CMS
+
+duties.—In administering the demonstration project under this section, the Administrator of the Centers for Medicare \& Medicaid Services shall determine which provisions of titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq.; 1396 et seq.) the Secretary should waive under the waiver authority under subsection (i) that are relevant to the development of alternative reimbursement methodologies, which may include, as appropriate, covering at least the reasonable costs of the provider in furnishing acute care, extended care, and other essential health care services to Medicare beneficiaries and coordinating the survey and certification process under the Medicare and Medicaid programs, as appropriate, across all service categories included in the demonstration project.
+
+“(f)
+
+Duration.—
+
+&emsp;“(1)
+
+In general.—The demonstration project under this section shall be conducted for a 3-year period beginning on October 1, 2009.
+
+&emsp;“(2)
+
+Beginning date of demonstration project.—The demonstration project under this section shall be considered to have begun in a State on the date on which the eligible counties selected to participate in the demonstration project under subsection (d)(3) begin operations in accordance with the requirements under the demonstration project.
+
+“(g)
+
+Funding.—
+
+&emsp;“(1) CMS.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary shall provide for the transfer, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), of such sums as are necessary for the costs to the Centers for Medicare \& Medicaid Services of carrying out its duties under the demonstration project under this section.
+
+&emsp;&emsp;“(B)
+
+Budget neutrality.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration project under this section was not implemented.
+
+&emsp;“(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 for the purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
+
+“(h)
+
+Report.—
+
+&emsp;“(1)
+
+Interim report.—Not later than the date that is 2 years after the date on which the demonstration project under this section is implemented, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration, in coordination with the Administrator of the Centers for Medicare \& Medicaid Services, shall submit a report to Congress on the status of the demonstration project that includes initial recommendations on ways to improve access to, and the availability of, health care services in eligible counties based on the findings of the demonstration project.
+
+&emsp;“(2)
+
+Final report.—Not later than 1 year after the completion of the demonstration project, the Administrator of the Office of Rural Health Policy of the Health Resources and Services Administration, in coordination with the Administrator of the Centers for Medicare \& Medicaid Services, shall submit a report to Congress on such project, together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+
+“(i)
+
+Waiver Authority.—The Secretary may waive such requirements of titles XVIII and XIX of the Social Security Act (42 U.S.C. 1395 et seq.; 1396 et seq.) as may be necessary and appropriate for the purpose of carrying out the demonstration project under this section.
+
+“(j)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Extended care services.—The term ‘extended care services’ means the following:
+
+&emsp;&emsp;“(A) Home health services.
+
+&emsp;&emsp;“(B) Covered skilled nursing facility services.
+
+&emsp;&emsp;“(C) Hospice care.
+
+&emsp;“(2)
+
+Covered skilled nursing facility services.—The term ‘covered skilled nursing facility services’ has the meaning given such term in section 1888(e)(2)(A) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)).
+
+&emsp;“(3)
+
+Critical access hospital.—The term ‘critical access hospital’ means a facility designated as a critical access hospital under section 1820(c) of such Act (42 U.S.C. 1395i–4(c)).
+
+&emsp;“(4)
+
+Home health services.—The term ‘home health services’ has the meaning given such term in section 1861(m) of such Act (42 U.S.C. 1395x(m)).
+
+&emsp;“(5)
+
+Hospice care.—The term ‘hospice care’ has the meaning given such term in section 1861(dd) of such Act (42 U.S.C. 1395x(dd)).
+
+&emsp;“(6)
+
+Medicaid program.—The term ‘Medicaid program’ means the program under title XIX of such Act (42 U.S.C. 1396 et seq.).
+
+&emsp;“(7)
+
+Medicare program.—The term ‘Medicare program’ means the program under title XVIII of such Act (42 U.S.C. 1395 et seq.).
+
+&emsp;“(8)
+
+Other essential health care services.—The term ‘other essential health care services’ means the following:
+
+&emsp;&emsp;“(A) Ambulance services (as described in section 1861(s)(7) of the Social Security Act (42 U.S.C. 1395x(s)(7))).
+
+&emsp;&emsp;“(B) Rural health clinic services.
+
+&emsp;&emsp;“(C) Public health services (as defined by the Secretary).
+
+&emsp;&emsp;“(D) Other health care services determined appropriate by the Secretary.
+
+&emsp;“(9)
+
+Rural health clinic services.—The term ‘rural health clinic services’ has the meaning given such term in section 1861(aa)(1) of such Act (42 U.S.C. 1395x(aa)(1)).
+
+&emsp;“(10)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.”
+
 #### GAO Study on Certain Eligibility Requirements for Critical Access Hospitals
 
 Pub. L. 106–554, §1(a)(6) \[title II, §206\], Dec. 21, 2000, 114 Stat. 2763, 2763A–483, provided that:
@@ -406,7 +702,7 @@ Section 4201(c)(6) of Pub. L. 105–33 provided that:
 
 “(A)
 
-In general.—The Secretary of Health and Human Services shall provide for an appropriate transition for a facility that, as of the date of the enactment of this Act \[Aug. 5, 1997\], operated as a limited service rural hospital under a demonstration described in section 4008(i)(1) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note) from such demonstration to the program established under subsection (a) \[amending this section\]. At the conclusion of the transition period described in subparagraph (B), the Secretary shall end such demonstration.
+In general.—The Secretary of Health and Human Services shall provide for an appropriate transition for a facility that, as of the date of the enactment of this Act \[Aug. 5, 1997\], operated as a limited service rural hospital under a demonstration described in section 4008(i)(1) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note) fromsuch demonstration to the program established under subsection (a) \[amending this section\]. At the conclusion of the transition period described in subparagraph (B), the Secretary shall end such demonstration.
 
 “(B)
 

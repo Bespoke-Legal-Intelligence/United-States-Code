@@ -40,7 +40,7 @@
 
 #### (c) Civil actions for response costs and damages
 
-(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to theAttorney General whenever a person may be liable for such costs or damages.
 
 (2) An action under this subsection may be brought in the United States district court for any district in which—
 
@@ -80,7 +80,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
-(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L.106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
+(Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, i
 
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out “and civil penalties under section 1437 of this title” after “Secretary under this section”.
 
-Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
+Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted “the court decree or settlement agreement and” after “in accordance with”, and struck out former par. (3) which read as follows: “Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by theSecretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection.”
 
 #### Effective Date
 

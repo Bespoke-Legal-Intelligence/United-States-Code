@@ -118,13 +118,13 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;(4)
 
-Coordination with deduction for net operating losses.—A nonqualified withdrawalexcluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
+Coordination with deduction for net operating losses.—A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (26 U.S.C. 172(b)(2)).
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1597.)
 
 #### Amendment of Subsection (f)(2)
 
-<i>Subsection (f)(2) of this section was derived from the last paragraph of section 1177(h)(6)(A) of the former Appendix to this title, which was amended by section 301(a)(2)(E) of Pub. L. 108–27 by substituting “15 percent” for “20 percent”. Section 303 of Pub. L. 108–27, as amended by section 102 of Pub. L. 109–222, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of Title 26, Internal Revenue Code, provided that such amendment shall not apply to taxable years beginning after December 31, 2010, and that the Internal Revenue Code of 1986 shall be applied and administered to such years as if the amendment had never been enacted. For applicability of section 303 of Pub. L. 108–27 to subsection (f)(2) of this section, see section 18(c), (d) of Pub. L. 109–304, set out as a note preceding section 101 of this title.</i>
+<i>Subsection (f)(2) of this section was derived from the last paragraph of section 1177(h)(6)(A) of the former Appendix to this title, which was amended by section 301(a)(2)(E) of Pub. L. 108–27 by substituting “15 percent” for “20 percent”. Section 303 of Pub. L. 108–27, as amended by section 102 of Pub. L. 109–222, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of Title 26, Internal Revenue Code, provided that such amendment shall not apply to taxable years beginning after December 31, 2010, and that the Internal Revenue Code of 1986 shall be applied and administered to such years as if the amendment had never been enacted. For applicability of section 303 of Pub. L. 108–27 to subsection (f)(2) of this section, see section 3528 of Pub. L. 110–181, set out as an Application of Sunset Provision to Subsection (f)(2) note below and section 18(c), (d) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
 
 Historical and Revision Notes
 
@@ -145,4 +145,8 @@ June 29, 1936, ch. 858, title VI, §607(h) (less (2) (last sentence)), 49 Stat. 
 In subsection (c)(3)(C), the words “or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 1176(5) of this Appendix as in effect on December 31, 1969” are omitted as obsolete.
 
 In subsection (d), the words “made in a taxable year beginning in 1970 or 1971 is 8 percent” are omitted as obsolete.
+
+#### Application of Sunset Provision to Subsection (f)(2)
+
+Pub. L. 110–181, div. C, title XXXV, §3528, Jan. 28, 2008, 122 Stat. 603, provided that: “For purposes of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Public Law 108–27, 26 U.S.C. 1 note), the amendment made by section 301(a)(2)(E) of that Act \[which amended section 1177(h)(6)(A) of the former Appendix to this title from which subsec. (f)(2) of this section was derived by substituting “15 percent” for “20 percent”\] shall be deemed to have been made to section 53511(f)(2) of title 46, United States Code.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
+After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be consideredfor selection for any position within public lands without regard to—
 
 &emsp;(1) any provision of the civil service laws or regulations thereunder which require minimum periods of formal training or experience,
 

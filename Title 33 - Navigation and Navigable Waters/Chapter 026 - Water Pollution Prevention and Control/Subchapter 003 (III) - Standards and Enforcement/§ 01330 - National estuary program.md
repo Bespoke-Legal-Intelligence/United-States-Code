@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
+&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities,in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
 #### (B) Priority consideration
 
@@ -42,7 +42,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 #### (c) Members of conference
 
-The members of a management conference convened under this section shall include, at aminimum, the Administrator and representatives of—
+The members of a management conference convened under this section shall include, at a minimum, the Administrator and representatives of—
 
 &emsp;(1) each State and foreign nation located in whole or in part in the estuarine zone of the estuary for which the conference is convened;
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(A) a long-term program of trend assessment monitoring measuring variations in pollutant concentrations, marine ecology, and other physical or biological environmental parameters which may affect estuarine zones, to provide the Administrator the capacity to determine the potential and actual effects of alternative management strategies and measures;
 
-&emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baselinestudies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
+&emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 
 &emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate, or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
 
@@ -138,7 +138,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 #### (k) Definitions
 
-For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystemsand those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
 (June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253.)
 

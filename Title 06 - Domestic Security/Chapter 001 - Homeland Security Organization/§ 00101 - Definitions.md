@@ -86,6 +86,10 @@ Pub. L. 109–295 inserted “fire,” after “safety,”.
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: “This Act \[amending section 609 of this title\] may be cited as the ‘Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008’ or the ‘PRICE of Homeland Security Act’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–53, §1(a), Aug. 3, 2007, 121 Stat. 266, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Implementing Recommendations of the 9/11 Commission Act of 2007’.”
@@ -100,11 +104,11 @@ Pub. L. 108–458, title VII, §7001, Dec. 17, 2004, 118 Stat. 3775, provided th
 
 Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
 
-Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31, Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
+Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31,Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: “This division \[enacting sections 103and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: “This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
 
 #### Short Title
 

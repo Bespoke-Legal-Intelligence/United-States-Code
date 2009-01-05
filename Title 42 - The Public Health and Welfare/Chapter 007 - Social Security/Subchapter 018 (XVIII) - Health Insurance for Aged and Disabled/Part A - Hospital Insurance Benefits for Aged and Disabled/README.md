@@ -1,7 +1,5 @@
 Part A—Hospital Insurance Benefits for Aged and Disabled
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
-
 
 ---
 

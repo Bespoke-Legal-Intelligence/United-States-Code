@@ -24,7 +24,7 @@
 
 #### (5) Commencement of proceedings
 
-&emsp;The Attorney General shall place an alien detained under paragraph (1) in removal proceedings, or shall charge the alien with a criminal offense, not later than 7 days after the commencement of such detention. If the requirement of the preceding sentence is notsatisfied, the Attorney General shall release the alien.
+&emsp;The Attorney General shall place an alien detained under paragraph (1) in removal proceedings, or shall charge the alien with a criminal offense, not later than 7 days after the commencement of such detention. If the requirement of the preceding sentence is not satisfied, the Attorney General shall release the alien.
 
 #### (6) Limitation on indefinite detention
 
@@ -60,7 +60,7 @@
 
 #### (3) Appeals
 
-&emsp;Notwithstanding any other provision of law, including section 2253 of title 28, in habeas corpus proceedings described in paragraph (1) before a circuit or district judge, the final order shall be subject to review, on appeal, by the United States Court of Appeals for the District of Columbia Circuit. There shall be no right of appeal in such proceedings to any other circuit court of appeals.
+&emsp;Notwithstanding any other provision of law, including section 2253 of title 28, in habeas corpus proceedings described in paragraph (1) before a circuit or district judge, the final order shall be subject to review, on appeal, by the United States Court of Appeals for the Districtof Columbia Circuit. There shall be no right of appeal in such proceedings to any other circuit court of appeals.
 
 #### (4) Rule of decision
 

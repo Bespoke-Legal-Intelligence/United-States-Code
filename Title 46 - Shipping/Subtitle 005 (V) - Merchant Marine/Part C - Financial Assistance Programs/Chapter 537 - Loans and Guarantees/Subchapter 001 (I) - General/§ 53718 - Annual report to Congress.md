@@ -1,6 +1,6 @@
 ### §53718. Annual report to Congress
 
-The Secretary of Transportation shall report to Congress annually on the loan guarantee program under this chapter. Each report shall include—
+The Administrator shall report to Congress annually on the loan guarantee program under this chapter. Each report shall include—
 
 &emsp;(1) the size, in dollars, of the portfolio of loans guaranteed;
 
@@ -16,11 +16,7 @@ The Secretary of Transportation shall report to Congress annually on the loan gu
 
 &emsp;(7) a profile of any defaults since the last report.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1617; Pub. L. 109–163, div. C, title XXXV, §3507(c)(3), Jan. 6, 2006, 119 Stat. 3556.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived from section 1280b of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(c)(3), Jan. 6, 2006, 119 Stat. 3556. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1280b of the former Appendix to this title was amended by striking “Secretary of Transportation” and inserting “Administrator of the Maritime Administration”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1617; Pub. L. 109–163, div. C, title XXXV, §3507(c)(3), Jan. 6, 2006, 119 Stat. 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(9)(C), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -37,4 +33,12 @@ Historical and Revision Notes
 46 App.:1280b.
 
 Pub. L. 108–136, title XXXV, §3527, Nov. 24, 2003, 117 Stat. 1802.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(c)(3). See 2006 Amendment note below.
+
+Pub. L. 110–181, §3522(a)(9)(C), incorporated the substance of the amendment by Pub. L. 109–163, §3507(c)(3), into this section by substituting “Administrator” for “Secretary of Transportation” in introductory provisions. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(c)(3), which directed the amendment of section 1280b of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

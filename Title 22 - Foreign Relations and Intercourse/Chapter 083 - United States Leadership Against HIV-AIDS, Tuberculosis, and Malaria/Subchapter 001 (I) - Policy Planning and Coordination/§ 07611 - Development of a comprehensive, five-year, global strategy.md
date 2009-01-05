@@ -2,99 +2,457 @@
 
 #### (a) Strategy
 
-The President shall establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthens the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS. Such strategy shall maintain sufficient flexibility and remain responsive to the ever-changing nature of the HIV/AIDS pandemic and shall—
+The President shall establish a comprehensive, integrated, 5-year strategy to expand and improve efforts to combat global HIV/AIDS. This strategy shall—
 
-&emsp;(1) include specific objectives, multisectoral approaches, and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further spread of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, and children (such as unaccompanied minor children and orphans);
+&emsp;(1) further strengthen the capability of the United States to be an effective leader of the international campaign against this disease and strengthen the capacities of nations experiencing HIV/AIDS epidemics to combat this disease;
 
-&emsp;(2) as part of the strategy, implement a tiered approach to direct delivery of care and treatment through a system based on central facilities augmented by expanding circles of local delivery of care and treatment through local systems and capacity;
+&emsp;(2) maintain sufficient flexibility and remain responsive to—
 
-&emsp;(3) assign priorities for relevant executive branch agencies;
+&emsp;&emsp;(A) changes in the epidemic;
 
-&emsp;(4) provide that the reduction of HIV/AIDS behavioral risks shall be a priority of all prevention efforts in terms of funding, educational messages, and activities by promoting abstinence from sexual activity and substance abuse, encouraging monogamy and faithfulness, promoting the effective use of condoms, and eradicating prostitution, the sex trade, rape, sexual assault and sexual exploitation of women and children;
+&emsp;&emsp;(B) challenges facing partner countries in developing and implementing an effective national response; and
 
-&emsp;(5) improve coordination and reduce duplication among relevant executive branch agencies, foreign governments, and international organizations;
+&emsp;&emsp;(C) evidence-based improvements and innovations in the prevention, care, and treatment of HIV/AIDS;
 
-&emsp;(6) project general levels of resources needed to achieve the stated objectives;
+&emsp;(3) situate United States efforts to combat HIV/AIDS, tuberculosis, and malaria within the broader United States global health and development agenda, establishing a roadmap to link investments in specific disease programs to the broader goals of strengthening health systems and infrastructure and to integrate and coordinate HIV/AIDS, tuberculosis, or malaria programs with other health or development programs, as appropriate;
 
-&emsp;(7) expand public-private partnerships and the leveraging of resources;
+&emsp;(4) provide a plan to—
 
-&emsp;(8) maximize United States capabilities in the areas of technical assistance and training and research, including vaccine research;
+&emsp;&emsp;(A) prevent 12,000,000 new HIV infections worldwide;
 
-&emsp;(9) establish priorities for the distribution of resources based on factors such as the size and demographics of the population with HIV/AIDS, tuberculosis, and malaria and the needs of that population and the existing infrastructure or funding levels that may exist to cure, treat, and prevent HIV/AIDS, tuberculosis, and malaria; and
+&emsp;&emsp;(B) support—
 
-&emsp;(10) include initiatives describing how the President will maximize the leverage of private sector dollars in reduction and treatment of HIV/AIDS, tuberculosis, and malaria.
+&emsp;&emsp;&emsp;(i) the increase in the number of individuals with HIV/AIDS receiving antiretroviral treatment above the goal established under section 7672(a)(3) of this title and increased pursuant to paragraphs (1) through (3) of section 7673(d) of this title; and
+
+&emsp;&emsp;&emsp;(ii) additional treatment through coordinated multilateral efforts;
+
+&emsp;&emsp;(C) support care for 12,000,000 individuals infected with or affected by HIV/AIDS, including 5,000,000 orphans and vulnerable children affected by HIV/AIDS, with an emphasis on promoting a comprehensive, coordinated system of services to be integrated throughout the continuum of care;
+
+&emsp;&emsp;(D) help partner countries in the effort to achieve goals of 80 percent access to counseling, testing, and treatment to prevent the transmission of HIV from mother to child, emphasizing a continuum of care model;
+
+&emsp;&emsp;(E) help partner countries to provide care and treatment services to children with HIV in proportion to their percentage within the HIV-infected population in each country;
+
+&emsp;&emsp;(F) promote preservice training for health professionals designed to strengthen the capacity of institutions to develop and implement policies for training health workers to combat HIV/AIDS, tuberculosis, and malaria;
+
+&emsp;&emsp;(G) equip teachers with skills needed for HIV/AIDS prevention and support for persons with, or affected by, HIV/AIDS;
+
+&emsp;&emsp;(H) provide and share best practices for combating HIV/AIDS with health professionals;
+
+&emsp;&emsp;(I) promote pediatric HIV/AIDS training for physicians, nurses, and other health care workers, through public-private partnerships if possible, including through the designation, if appropriate, of centers of excellence for training in pediatric HIV/AIDS prevention, care, and treatment in partner countries; and
+
+&emsp;&emsp;(J) help partner countries to train and support retention of health care professionals and paraprofessionals, with the target of training and retaining at least 140,000 new health care professionals and paraprofessionals with an emphasis on training and in country deployment of critically needed doctors and nurses and to strengthen capacities in developing countries, especially in sub-Saharan Africa, to deliver primary health care with the objective of helping countries achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization;
+
+&emsp;(5) include multisectoral approaches and specific strategies to treat individuals infectedwith HIV/AIDS and to prevent the further transmission of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, orphans, and vulnerable children;
+
+&emsp;(6) establish a timetable with annual global treatment targets with country-level benchmarks for antiretroviral treatment;
+
+&emsp;(7) expand the integration of timely and relevant research within the prevention, care, and treatment of HIV/AIDS;
+
+&emsp;(8) include a plan for program monitoring, operations research, and impact evaluation and for the dissemination of a best practices report to highlight findings;
+
+&emsp;(9) support the in-country or intra-regional training, preferably through public-private partnerships, of scientific investigators, managers, and other staff who are capable of promoting the systematic uptake of clinical research findings and other evidence-based interventions into routine practice, with the goal of improving the quality, effectiveness, and local leadership of HIV/AIDS health care;
+
+&emsp;(10) expand and accelerate research on and development of HIV/AIDS prevention methods for women, including enhancing inter-agency collaboration, staffing, and organizational infrastructure dedicated to microbicide research;
+
+&emsp;(11) provide for consultation with local leaders and officials to develop prevention strategies and programs that are tailored to the unique needs of each country and community and targeted particularly toward those most at risk of acquiring HIV infection;
+
+&emsp;(12) make the reduction of HIV/AIDS behavioral risks a priority of all prevention efforts by—
+
+&emsp;&emsp;(A) promoting abstinence from sexual activity and encouraging monogamy and faithfulness;
+
+&emsp;&emsp;(B) encouraging the correct and consistent use of male and female condoms and increasing the availability of, and access to, these commodities;
+
+&emsp;&emsp;(C) promoting the delay of sexual debut and the reduction of multiple concurrent sexual partners;
+
+&emsp;&emsp;(D) promoting education for discordant couples (where an individual is infected with HIV and the other individual is uninfected or whose status is unknown) about safer sex practices;
+
+&emsp;&emsp;(E) promoting voluntary counseling and testing, addiction therapy, and other prevention and treatment tools for illicit injection drug users and other substance abusers;
+
+&emsp;&emsp;(F) educating men and boys about the risks of procuring sex commercially and about the need to end violent behavior toward women and girls;
+
+&emsp;&emsp;(G) supporting partner country and community efforts to identify and address social, economic, or cultural factors, such as migration, urbanization, conflict, gender-based violence, lack of empowerment for women, and transportation patterns, which directly contribute to the transmission of HIV;
+
+&emsp;&emsp;(H) supporting comprehensive programs to promote alternative livelihoods, safety, and social reintegration strategies for commercial sex workers and their families;
+
+&emsp;&emsp;(I) promoting cooperation with law enforcement to prosecute offenders of trafficking, rape, and sexual assault crimes with the goal of eliminating such crimes; and
+
+&emsp;&emsp;(J) working to eliminate rape, gender-based violence, sexual assault, and the sexual exploitation of women and children;
+
+&emsp;(13) include programs to reduce the transmission of HIV, particularly addressing the heightened vulnerabilities of women and girls to HIV in many countries; and
+
+&emsp;(14) support other important means of preventing or reducing the transmission of HIV, including—
+
+&emsp;&emsp;(A) medical male circumcision;
+
+&emsp;&emsp;(B) the maintenance of a safe blood supply;
+
+&emsp;&emsp;(C) promoting universal precautions in formal and informal health care settings;
+
+&emsp;&emsp;(D) educating the public to recognize and to avoid risks to contract HIV through blood exposures during formal and informal health care and cosmetic services;
+
+&emsp;&emsp;(E) investigating suspected nosocomial infections to identify and stop further nosocomial transmission; and
+
+&emsp;&emsp;(F) other mechanisms to reduce the transmission of HIV;
+
+&emsp;(15) increase support for prevention of mother-to-child transmission;
+
+&emsp;(16) build capacity within the public health sector of developing countries by improving health systems and public health infrastructure and developing indicators to measure changes in broader public health sector capabilities;
+
+&emsp;(17) increase the coordination of HIV/AIDS programs with development programs;
+
+&emsp;(18) provide a framework for expanding or developing existing or new country or regional programs, including—
+
+&emsp;&emsp;(A) drafting compacts or other agreements, as appropriate;
+
+&emsp;&emsp;(B) establishing criteria and objectives for such compacts and agreements; and
+
+&emsp;&emsp;(C) promoting sustainability;
+
+&emsp;(19) provide a plan for national and regional priorities for resource distribution and a global investment plan by region;
+
+&emsp;(20) provide a plan to address the immediate and ongoing needs of women and girls, which—
+
+&emsp;&emsp;(A) addresses the vulnerabilities that contribute to their elevated risk of infection;
+
+&emsp;&emsp;(B) includes specific goals and targets to address these factors;
+
+&emsp;&emsp;(C) provides clear guidance to field missions to integrate gender across prevention, care, and treatment programs;
+
+&emsp;&emsp;(D) sets forth gender-specific indicators to monitor progress on outcomes and impacts of gender programs;
+
+&emsp;&emsp;(E) supports efforts in countries in which women or orphans lack inheritance rights and other fundamental protections to promote the passage, implementation, and enforcement of such laws;
+
+&emsp;&emsp;(F) supports life skills training, especially among women and girls, with the goal of reducing vulnerabilities to HIV/AIDS;
+
+&emsp;&emsp;(G) addresses and prevents gender-based violence; and
+
+&emsp;&emsp;(H) addresses the posttraumatic and psychosocial consequences and provides postexposure prophylaxis protecting against HIV infection to victims of gender-based violence and rape;
+
+&emsp;(21) provide a plan to—
+
+&emsp;&emsp;(A) determine the local factors that may put men and boys at elevated risk of contracting or transmitting HIV;
+
+&emsp;&emsp;(B) address male norms and behaviors to reduce these risks, including by reducing alcohol abuse;
+
+&emsp;&emsp;(C) promote responsible male behavior; and
+
+&emsp;&emsp;(D) promote male participation and leadership at the community level in efforts to promote HIV prevention, reduce stigma, promote participation in voluntary counseling and testing, and provide care, treatment, and support for persons with HIV/AIDS;
+
+&emsp;(22) provide a plan to address the vulnerabilities and needs of orphans and children who are vulnerable to, or affected by, HIV/AIDS;
+
+&emsp;(23) encourage partner countries to develop health care curricula and promote access to training tailored to individuals receiving services through, or exiting from, existing programs geared to orphans and vulnerable children;
+
+&emsp;(24) provide a framework to work with international actors and partner countries toward universal access to HIV/AIDS prevention, treatment, and care programs, recognizing that prevention is of particular importance;
+
+&emsp;(25) enhance the coordination of United States bilateral efforts to combat global HIV/AIDS with other major public and private entities;
+
+&emsp;(26) enhance the attention given to the national strategic HIV/AIDS plans of countries receiving United States assistance by—
+
+&emsp;&emsp;(A) reviewing the planning and programmatic decisions associated with that assistance; and
+
+&emsp;&emsp;(B) helping to strengthen such national strategies, if necessary;
+
+&emsp;(27) support activities described in the Global Plan to Stop TB, including—
+
+&emsp;&emsp;(A) expanding and enhancing the coverage of the Directly Observed Treatment Short-course (DOTS) in order to treat individuals infected with tuberculosis and HIV, including multi-drug resistant or extensively drug resistant tuberculosis; and
+
+&emsp;&emsp;(B) improving coordination and integration of HIV/AIDS and tuberculosis programming;
+
+&emsp;(28) ensure coordination between the Global AIDS Coordinator and the Malaria Coordinator and address issues of comorbidity between HIV/AIDS and malaria; and
+
+&emsp;(29) include a longer term estimate of the projected resource needs, progress toward greater sustainability and country ownership of HIV/AIDS programs, and the anticipated role of the United States in the global effort to combat HIV/AIDS during the 10-year period beginning on October 1, 2013.
 
 #### (b) Report
 
 #### (1) In general
 
-&emsp;Not later than 270 days after May 27, 2003, the President shall submit to the appropriate congressional committees a report setting forth the strategy described in subsection (a).
+&emsp;Not later than October 1, 2009, the President shall submit a report to the appropriate congressional committees that sets forth the strategy described in subsection (a).
 
-#### (2) Report contents
+#### (2) Contents
 
-&emsp;The report required by paragraph (1) shall include a discussion of the elements described in paragraph (3) and may include a discussion of additional elements relevant to the strategy described in subsection (a). Such discussion may include an explanation as to why a particular element described in paragraph (3) is not relevant to such strategy.
+&emsp;The report required under paragraph (1) shall include a discussion of the following elements:
 
-#### (3) Report elements
+&emsp;&emsp;(A) The purpose, scope, methodology, and general and specific objectives of the strategy.
 
-&emsp;The elements referred to in paragraph (2) are the following:
+&emsp;&emsp;(B) The problems, risks, and threats to the successful pursuit of the strategy.
 
-&emsp;&emsp;(A) The objectives, general and specific, of the strategy.
+&emsp;&emsp;(C) The desired goals, objectives, activities, and outcome-related performance measures of the strategy.
 
-&emsp;&emsp;(B) A description of the criteria for determining success of the strategy.
+&emsp;&emsp;(D) A description of future costs and resources needed to carry out the strategy.
 
-&emsp;&emsp;(C) A description of the manner in which the strategy will address the fundamental elements of prevention and education, care, and treatment (including increasing access to pharmaceuticals and to vaccines), the promotion of abstinence, monogamy, avoidance of substance abuse, and use of condoms, research (including incentives for vaccine development and new protocols), training of health care workers, the development of health care infrastructure and delivery systems, and avoidance of substance abuse.
+&emsp;&emsp;(E) A delineation of United States Government roles, responsibility, and coordination mechanisms of the strategy.
 
-&emsp;&emsp;(D) A description of the manner in which the strategy will promote the development and implementation of national and community-based multisectoral strategies and programs, including those designed to enhance leadership capacity particularly at the community level.
+&emsp;&emsp;(F) A description of the strategy—
 
-&emsp;&emsp;(E) A description of the specific strategies developed to meet the unique needs of women, including the empowerment of women in interpersonal situations, young people and children, including those orphaned by HIV/AIDS and those who are victims of the sex trade, rape, sexual abuse, assault, and exploitation.
+&emsp;&emsp;&emsp;(i) to promote harmonization of United States assistance with that of other international, national, and private actors as elucidated in the “Three Ones”; and
 
-&emsp;&emsp;(F) A description of the specific strategies developed to encourage men to be responsible in their sexual behavior, child rearing and to respect women including the reduction of sexual violence and coercion.
+&emsp;&emsp;&emsp;(ii) to address existing challenges in harmonization and alignment.
 
-&emsp;&emsp;(G) A description of the specific strategies developed to increase women's access to employment opportunities, income, productive resources, and microfinance programs.
+&emsp;&emsp;(G) A description of the manner in which the strategy will—
 
-&emsp;&emsp;(H) A description of the programs to be undertaken to maximize United States contributions in the areas of technical assistance, training (particularly of health care workers and community-based leaders in affected sectors), and research, including the promotion of research on vaccines and microbicides.
+&emsp;&emsp;&emsp;(i) further the development and implementation of the national multisectoral strategic HIV/AIDS frameworks of partner governments; and
 
-&emsp;&emsp;(I) An identification of the relevant executive branch agencies that will be involved and the assignment of priorities to those agencies.
+&emsp;&emsp;&emsp;(ii) enhance the centrality, effectiveness, and sustainability of those national plans.
 
-&emsp;&emsp;(J) A description of the role of each relevant executive branch agency and the types of programs that the agency will be undertaking.
+&emsp;&emsp;(H) A description of how the strategy will seek to achieve the specific targets described in subsection (a) and other targets, as appropriate.
 
-&emsp;&emsp;(K) A description of the mechanisms that will be utilized to coordinate the efforts of the relevant executive branch agencies, to avoid duplication of efforts, to enhance on-site coordination efforts, and to ensure that each agency undertakes programs primarily in those areas where the agency has the greatest expertise, technical capabilities, and potential for success.
+&emsp;&emsp;(I) A description of, and rationale for, the timetable for annual global treatment targets with country-level estimates of numbers of persons in need of antiretroviral treatment, country-level benchmarks for United States support for assistance for antiretroviral treatment, and numbers of persons enrolled in antiretroviral treatment programs receiving United States support. If global benchmarks are not achieved within the reporting period, the report shall include a description of steps being taken to ensure that global benchmarks will be achieved and a detailed breakdown and justification of spending priorities in countries in which benchmarks are not being met, including a description of other donor or national support for antiretroviral treatment in the country, if appropriate.
 
-&emsp;&emsp;(L) A description of the mechanisms that will be utilized to ensure greater coordination between the United States and foreign governments and international organizations including the Global Fund, UNAIDS, international financial institutions, and private sector organizations.
+&emsp;&emsp;(J) A description of how operations research is addressed in the strategy and how such research can most effectively be integrated into care, treatment, and prevention activities in order to—
 
-&emsp;&emsp;(M) The level of resources that will be needed on an annual basis and the manner in which those resources would generally be allocated among the relevant executive branch agencies.
+&emsp;&emsp;&emsp;(i) improve program quality and efficiency;
 
-&emsp;&emsp;(N) A description of the mechanisms to be established for monitoring and evaluating programs, promoting successful models, and for terminating unsuccessful programs.
+&emsp;&emsp;&emsp;(ii) ascertain cost effectiveness;
 
-&emsp;&emsp;(O) A description of the manner in which private, nongovernmental entities will factor into the United States Government-led effort and a description of the type of partnerships that will be created to maximize the capabilities of these private sector entities and to leverage resources.
+&emsp;&emsp;&emsp;(iii) ensure transparency and accountability;
 
-&emsp;&emsp;(P) A description of the ways in which United States leadership will be used to enhance the overall international response to the HIV/AIDS pandemic and particularly to heighten the engagement of the member states of the G–8 and to strengthen key financial and coordination mechanisms such as the Global Fund and UNAIDS.
+&emsp;&emsp;&emsp;(iv) assess population-based impact;
 
-&emsp;&emsp;(Q) A description of the manner in which the United States strategy for combating HIV/AIDS relates to and supports other United States assistance strategies in developing countries.
+&emsp;&emsp;&emsp;(v) disseminate findings and best practices; and
 
-&emsp;&emsp;(R) A description of the programs to be carried out under the strategy that are specifically targeted at women and girls to educate them about the spread of HIV/AIDS.
+&emsp;&emsp;&emsp;(vi) optimize delivery of services.
 
-&emsp;&emsp;(S) A description of efforts being made to address the unique needs of families with children with respect to HIV/AIDS, including efforts to preserve the family unit.
+&emsp;&emsp;(K) An analysis of United States-assisted strategies to prevent the transmission of HIV/AIDS, including methodologies to promote abstinence, monogamy, faithfulness, the correct and consistent use of male and female condoms, reductions in concurrent sexual partners, and delay of sexual debut, and of intended monitoring and evaluation approaches to measure the effectiveness of prevention programs and ensure that they are targeted to appropriate audiences.
 
-&emsp;&emsp;(T) An analysis of the emigration of critically important medical and public health personnel, including physicians, nurses, and supervisors from sub-Saharan African countries that are acutely impacted by HIV/AIDS, including a description of the causes, effects, and the impact on the stability of health infrastructures, as well as a summary of incentives and programs that the United States could provide, in concert with other private and public sector partners and international organizations, to stabilize health institutions by encouraging critical personnel to remain in their home countries.
+&emsp;&emsp;(L) Within the analysis required under subparagraph (K), an examination of additional planned means of preventing the transmission of HIV including medical male circumcision, maintenance of a safe blood supply, public education about risks to acquire HIV infection from blood exposures, promotion of universal precautions, investigation of suspected nosocomial infections and other tools.
 
-&emsp;&emsp;(U) A description of the specific strategies developed to promote sustainability of HIV/AIDS pharmaceuticals (including antiretrovirals) and the effects of drug resistance on HIV/AIDS patients.
+&emsp;&emsp;(M) A description of efforts to assist partner country and community to identify and address social, economic, or cultural factors, such as migration, urbanization, conflict, gender-based violence, lack of empowerment for women, and transportation patterns, which directly contribute to the transmission of HIV.
 
-&emsp;&emsp;(V) A description of the specific strategies to ensure that the extraordinary benefit of HIV/AIDS pharmaceuticals (especially antiretrovirals) are not diminished through the illegal counterfeiting of pharmaceuticals and black market sales of such pharmaceuticals.
+&emsp;&emsp;(N) A description of the specific targets, goals, and strategies developed to address the needs and vulnerabilities of women and girls to HIV/AIDS, including—
 
-&emsp;&emsp;(W) An analysis of the prevalence of Human Papilloma Virus (HPV) in sub-Saharan Africa and the impact that condom usage has upon the spread of HPV in sub-Saharan Africa.
+&emsp;&emsp;&emsp;(i) activities directed toward men and boys;
 
-#### (c) Study; distribution of resources
+&emsp;&emsp;&emsp;(ii) activities to enhance educational, microfinance, and livelihood opportunities for women and girls;
 
-#### (1) Study
+&emsp;&emsp;&emsp;(iii) activities to promote and protect the legal empowerment of women, girls, and orphans and vulnerable children;
 
-&emsp;Not later than 3 years after May 27, 2003, the Institute of Medicine shall publish findings comparing the success rates of the various programs and methods used under the strategy described in subsection (a) to reduce, prevent, and treat HIV/AIDS, tuberculosis, and malaria.
+&emsp;&emsp;&emsp;(iv) programs targeted toward gender-based violence and sexual coercion;
 
-#### (2) Distribution of resources
+&emsp;&emsp;&emsp;(v) strategies to meet the particular needs of adolescents;
 
-&emsp;In prioritizing the distribution of resources under the strategy described in subsection (a), the President shall consider the findings published by the Institute of Medicine under this subsection.
+&emsp;&emsp;&emsp;(vi) assistance for victims of rape, sexual abuse, assault, exploitation, and trafficking; and
 
-(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718.)
+&emsp;&emsp;&emsp;(vii) programs to prevent alcohol abuse.
+
+&emsp;&emsp;(O) A description of strategies to address male norms and behaviors that contribute to the transmission of HIV, to promote responsible male behavior, and to promote male participation and leadership in HIV/AIDS prevention, care, treatment, and voluntary counseling and testing.
+
+&emsp;&emsp;(P) A description of strategies—
+
+&emsp;&emsp;&emsp;(i) to address the needs of orphans and vulnerable children, including an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) factors contributing to children's vulnerability to HIV/AIDS; and
+
+&emsp;&emsp;&emsp;&emsp;(II) vulnerabilities caused by the impact of HIV/AIDS on children and their families; and
+
+&emsp;&emsp;&emsp;(ii) in areas of higher HIV/AIDS prevalence, to promote a community-based approach to vulnerability, maximizing community input into determining which children participate.
+
+&emsp;&emsp;(Q) A description of capacity-building efforts undertaken by countries themselves, including adherents of the Abuja Declaration and an assessment of the impact of International Monetary Fund macroeconomic and fiscal policies on national and donor investments in health.
+
+&emsp;&emsp;(R) A description of the strategy to—
+
+&emsp;&emsp;&emsp;(i) strengthen capacity building within the public health sector;
+
+&emsp;&emsp;&emsp;(ii) improve health care in those countries;
+
+&emsp;&emsp;&emsp;(iii) help countries to develop and implement national health workforce strategies;
+
+&emsp;&emsp;&emsp;(iv) strive to achieve goals in training, retaining, and effectively deploying health staff;
+
+&emsp;&emsp;&emsp;(v) promote the use of codes of conduct for ethical recruiting practices for health care workers; and
+
+&emsp;&emsp;&emsp;(vi) increase the sustainability of health programs.
+
+&emsp;&emsp;(S) A description of the criteria for selection, objectives, methodology, and structure of compacts or other framework agreements with countries or regional organizations, including—
+
+&emsp;&emsp;&emsp;(i) the role of civil society;
+
+&emsp;&emsp;&emsp;(ii) the degree of transparency;
+
+&emsp;&emsp;&emsp;(iii) benchmarks for success of such compacts or agreements; and
+
+&emsp;&emsp;&emsp;(iv) the relationship between such compacts or agreements and the national HIV/AIDS and public health strategies and commitments of partner countries.
+
+&emsp;&emsp;(T) A strategy to better coordinate HIV/AIDS assistance with nutrition and food assistance programs.
+
+&emsp;&emsp;(U) A description of transnational or regional initiatives to combat regionalized epidemics in highly affected areas such as the Caribbean.
+
+&emsp;&emsp;(V) A description of planned resource distribution and global investment by region.
+
+&emsp;&emsp;(W) A description of coordination efforts in order to better implement the Stop TB Strategy and to address the problem of coinfection of HIV/AIDS and tuberculosis and of projected challenges or barriers to successful implementation.
+
+&emsp;&emsp;(X) A description of coordination efforts to address malaria and comorbidity with malaria and HIV/AIDS.
+
+#### (c) Study of progress toward achievement of policy objectives
+
+#### (1) Design and budget plan for data evaluation
+
+&emsp;The Global AIDS Coordinator shall enter into a contract with the Institute of Medicine of the National Academies that provides that not later than 18 months after July 30, 2008,the Institute, in consultation with the Global AIDS Coordinator and other relevant parties representing the public and private sector, shall provide the Global AIDS Coordinator with a design plan and budget for the evaluation and collection of baseline and subsequent data to address the elements set forth in paragraph (2)(B). The Global AIDS Coordinator shall submit the budget and design plan to the appropriate congressional committees.
+
+#### (2) Study
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 4 years after July 30, 2008, the Institute of Medicine of the National Academies shall publish a study that includes—
+
+&emsp;&emsp;&emsp;(i) an assessment of the performance of United States-assisted global HIV/AIDS programs; and
+
+&emsp;&emsp;&emsp;(ii) an evaluation of the impact on health of prevention, treatment, and care efforts that are supported by United States funding, including multilateral and bilateral programs involving joint operations.
+
+#### (B) Content
+
+&emsp;&emsp;The study conducted under this paragraph shall include—
+
+&emsp;&emsp;&emsp;(i) an assessment of progress toward prevention, treatment, and care targets;
+
+&emsp;&emsp;&emsp;(ii) an assessment of the effects on health systems, including on the financing and management of health systems and the quality of service delivery and staffing;
+
+&emsp;&emsp;&emsp;(iii) an assessment of efforts to address gender-specific aspects of HIV/AIDS, including gender related constraints to accessing services and addressing underlying social and economic vulnerabilities of women and men;
+
+&emsp;&emsp;&emsp;(iv) an evaluation of the impact of treatment and care programs on 5-year survival rates, drug adherence, and the emergence of drug resistance;
+
+&emsp;&emsp;&emsp;(v) an evaluation of the impact of prevention programs on HIV incidence in relevant population groups;
+
+&emsp;&emsp;&emsp;(vi) an evaluation of the impact on child health and welfare of interventions authorized under this chapter on behalf of orphans and vulnerable children;
+
+&emsp;&emsp;&emsp;(vii) an evaluation of the impact of programs and activities authorized in this chapter on child mortality; and
+
+&emsp;&emsp;&emsp;(viii) recommendations for improving the programs referred to in subparagraph (A)(i).
+
+#### (C) Methodologies
+
+&emsp;&emsp;Assessments and impact evaluations conducted under the study shall utilize sound statistical methods and techniques for the behavioral sciences, including random assignment methodologies as feasible. Qualitative data on process variables should be used for assessments and impact evaluations, wherever possible.
+
+#### (3) Contract authority
+
+&emsp;The Institute of Medicine may enter into contracts or cooperative agreements or award grants to conduct the study under paragraph (2).
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the study under this subsection.
+
+#### (d) Comptroller General report
+
+#### (1) Report required
+
+&emsp;Not later than 3 years after July 30, 2008, the Comptroller General of the United States shall submit a report on the global HIV/AIDS programs of the United States to the appropriate congressional committees.
+
+#### (2) Contents
+
+&emsp;The report required under paragraph (1) shall include—
+
+&emsp;&emsp;(A) a description and assessment of the monitoring and evaluation practices and policies in place for these programs;
+
+&emsp;&emsp;(B) an assessment of coordination within Federal agencies involved in these programs, examining both internal coordination within these programs and integration with the larger global health and development agenda of the United States;
+
+&emsp;&emsp;(C) an assessment of procurement policies and practices within these programs;
+
+&emsp;&emsp;(D) an assessment of harmonization with national government HIV/AIDS and public health strategies as well as other international efforts;
+
+&emsp;&emsp;(E) an assessment of the impact of global HIV/AIDS funding and programs on other United States global health programming; and
+
+&emsp;&emsp;(F) recommendations for improving the global HIV/AIDS programs of the United States.
+
+#### (e) Best practices report
+
+#### (1) In general
+
+&emsp;Not later than 1 year after July 30, 2008, and annually thereafter, the Global AIDS Coordinator shall publish a best practices report that highlights the programs receiving financial assistance from the United States that have the potential for replication or adaption, particularly at a low cost, across global AIDS programs, including those that focus on both generalized and localized epidemics.
+
+#### (2) Dissemination of findings
+
+#### (A) Publication on Internet website
+
+&emsp;&emsp;The Global AIDS Coordinator shall disseminate the full findings of the annual best practices report on the Internet website of the Office of the Global AIDS Coordinator.
+
+#### (B) Dissemination guidance
+
+&emsp;&emsp;The Global AIDS Coordinator shall develop guidance to ensure timely submission and dissemination of significant information regarding best practices with respect to global AIDS programs.
+
+#### (f) Inspectors General
+
+#### (1) Oversight plan
+
+#### (A) Development
+
+&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop 5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+
+#### (B) Contents
+
+&emsp;&emsp;The plans developed under subparagraph (A) shall include a schedule for financial audits, inspections, and performance reviews, as appropriate.
+
+#### (C) Deadline
+
+#### (i) Initial plan
+
+&emsp;&emsp;&emsp;The first plan developed under subparagraph (A) shall be completed not later than the later of—
+
+&emsp;&emsp;&emsp;&emsp;(I) September 1, 2008; or
+
+&emsp;&emsp;&emsp;&emsp;(II) 60 days after July 30, 2008.
+
+#### (ii) Subsequent plans
+
+&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2010 through 2013, respectively.
+
+#### (2) Coordination
+
+&emsp;In order to avoid duplication and maximize efficiency, the Inspectors General described in paragraph (1) shall coordinate their activities with—
+
+&emsp;&emsp;(A) the Government Accountability Office; and
+
+&emsp;&emsp;(B) the Inspectors General of the Department of Commerce, the Department of Defense, the Department of Labor, and the Peace Corps, as appropriate, pursuant to the 2004 Memorandum of Agreement Coordinating Audit Coverage of Programs and Activities Implementing the President's Emergency Plan for AIDS Relief, or any successor agreement.
+
+#### (3) Funding
+
+&emsp;The Global AIDS Coordinator and the Coordinator of the United States Government Activities to Combat Malaria Globally shall make available necessary funds not exceeding $15,000,000 during the 5-year period beginning on October 1, 2008 to the Inspectors General described in paragraph (1) for the audits, inspections, and reviews described in that paragraph.
+
+#### (g) Annual study
+
+#### (1) In general
+
+&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2013, the Global AIDS Coordinator shall complete a study of treatment providers that—
+
+&emsp;&emsp;(A) represents a range of countries and service environments;
+
+&emsp;&emsp;(B) estimates the per-patient cost of antiretroviral HIV/AIDS treatment and the care of people with HIV/AIDS not receiving antiretroviral treatment, including a comparison of the costs for equivalent services provided by programs not receiving assistance under this chapter;
+
+&emsp;&emsp;(C) estimates per-patient costs across the program and in specific categories of service providers, including—
+
+&emsp;&emsp;&emsp;(i) urban and rural providers;
+
+&emsp;&emsp;&emsp;(ii) country-specific providers; and
+
+&emsp;&emsp;&emsp;(iii) other subcategories, as appropriate.
+
+#### (2) Publication
+
+&emsp;Not later than 90 days after the completion of each study under paragraph (1), the Global AIDS Coordinator shall make the results of such study available on a publicly accessible Web site.
+
+#### (h) Message
+
+The Global AIDS Coordinator shall develop a message, to be prominently displayed by each program receiving funds under this chapter, that—
+
+&emsp;(1) demonstrates that the program is a commitment by citizens of the United States to the global fight against HIV/AIDS, tuberculosis, and malaria; and
+
+&emsp;(2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
+
+(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–293, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
+
+Subsec. (b). Pub. L. 110–293, §101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
+
+Subsec. (c). Pub. L. 110–293, §101(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the study of success rates and distribution of resources under the strategy described in subsec. (a).
+
+Subsecs. (d) to (f). Pub. L. 110–293, §101(d), added subsecs. (d) to (f).
+
+Subsecs. (g), (h). Pub. L. 110–293, §101(e), added subsecs. (g) and (h).
 
 #### Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003
 
@@ -104,7 +462,7 @@ Memorandum of President of the United States, Feb. 23, 2004, 69 F.R. 9509, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by sections 202(c), 305, and 313 of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) \[22 U.S.C. 7622(c), 7635, and 7653\], to provide the specified reports to the Congress. In addition, I delegate to you the authority vested in the President by section 101 of Public Law 108–25 \[22 U.S.C. 7611\] to establish a comprehensive, integrated, 5-year strategy to combat global HIV/AIDS and to submit to the appropriate congressional committees a report setting forth the strategy.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by sections 202(c), 305, and 313 of theUnited States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) \[22 U.S.C. 7622(c), 7635, and 7653\], to provide the specified reports to the Congress. In addition, I delegate to you the authority vested in the President by section 101 of Public Law 108–25 \[22 U.S.C. 7611\] to establish a comprehensive, integrated, 5-year strategy to combat global HIV/AIDS and to submit to the appropriate congressional committees a report setting forth the strategy.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

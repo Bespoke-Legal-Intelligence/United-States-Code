@@ -70,5 +70,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Executive Order No. 13147
 
-Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, as amended by Ex. Ord. No. 13167, Sept. 15, 2000, 65 F.R. 54079 \[57079\], 65 F.R. 57436, which established White House Commission on Complementary and AlternativeMedicine Policy, was revoked by Ex. Ord. No. 13316, §3(i), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
+Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, as amended by Ex. Ord. No. 13167, Sept. 15, 2000, 65 F.R. 54079 \[57079\], 65 F.R. 57436, which established White House Commission on Complementary and Alternative Medicine Policy, was revoked by Ex. Ord. No. 13316, §3(i), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 

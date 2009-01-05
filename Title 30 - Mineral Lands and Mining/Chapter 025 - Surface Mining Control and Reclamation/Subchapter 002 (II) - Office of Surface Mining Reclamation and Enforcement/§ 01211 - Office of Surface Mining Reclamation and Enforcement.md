@@ -50,7 +50,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 #### (g) Petition for issuance, amendment, or repeal of rule; filing; hearing or investigation; notice of denial
 
-(1) After the Secretary has adopted the regulations required by section 1251 of this title, any person may petition the Director to initiate aproceeding for the issuance, amendment, or repeal of a rule under this chapter.
+(1) After the Secretary has adopted the regulations required by section 1251 of this title, any person may petition the Director to initiate a proceeding for the issuance, amendment, or repeal of a rule under this chapter.
 
 (2) Such petitions shall be filed in the principal office of the Director and shall set forth the facts which it is claimed established that it is necessary to issue, amend, or repeal a rule under this chapter.
 

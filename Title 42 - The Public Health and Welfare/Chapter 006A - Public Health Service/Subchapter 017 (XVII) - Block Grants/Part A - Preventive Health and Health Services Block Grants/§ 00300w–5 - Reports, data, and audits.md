@@ -6,7 +6,7 @@
 
 &emsp;(A) describes the purposes for which the State expended payments made to the State under section 300w–2 of this title;
 
-&emsp;(B) pursuant to section 300w–4(c)(5)(A) of this title, describes the extent of progress made by the State for purposes of such section;
+&emsp;(B) pursuant to section 300w–4(c)(5)(A) of this title, describes the extent of progressmade by the State for purposes of such section;
 
 &emsp;(C) meets the conditions described in the subsequent paragraphs of this subsection; and
 

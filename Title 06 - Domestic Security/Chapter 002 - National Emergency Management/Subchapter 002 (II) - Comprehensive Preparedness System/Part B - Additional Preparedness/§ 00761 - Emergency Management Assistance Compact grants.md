@@ -24,7 +24,7 @@ The Administrator shall consult with the Administrator of the Emergency Manageme
 
 #### (d) Authorization
 
-There is authorized to be appropriated to carry out this section $4,000,000 for fiscal year2008. Such sums shall remain available until expended.
+There is authorized to be appropriated to carry out this section $4,000,000 for fiscal year 2008. Such sums shall remain available until expended.
 
 (Pub. L. 109–295, title VI, §661, Oct. 4, 2006, 120 Stat. 1432.)
 

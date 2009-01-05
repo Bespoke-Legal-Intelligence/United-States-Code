@@ -38,11 +38,11 @@ As used in this section—
 
 #### (d) Lawful banking services connected with operation of lotteries
 
-Nothing contained in this section prohibits a national bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
+Nothing contained in this section prohibits a national bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery,or for an officer or employee of that State who is charged with the administration of the lottery.
 
 #### (e) Regulations; enforcement
 
-The Comptroller of the Currency shall issue such regulations as may be necessary to thestrict enforcement of this section and the prevention of evasions thereof.
+The Comptroller of the Currency shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
 (R.S. §5136B, formerly §5136A, as added Pub. L. 90–203, §1(a), Dec. 15, 1967, 81 Stat. 608; renumbered R.S. §5136B, Pub. L. 106–102, title I, §121(a)(1), Nov. 12, 1999, 113 Stat. 1373.)
 

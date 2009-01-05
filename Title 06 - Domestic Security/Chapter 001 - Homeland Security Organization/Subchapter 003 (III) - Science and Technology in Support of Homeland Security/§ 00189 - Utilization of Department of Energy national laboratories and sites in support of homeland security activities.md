@@ -66,7 +66,7 @@ There is established within the Directorate of Science and Technology an Office 
 
 #### (h) Department of Energy coordination on homeland security related research
 
-The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effortand maximize the effective application of Federal budget resources.
+The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
 
 (Pub. L. 107–296, title III, §309, Nov. 25, 2002, 116 Stat. 2172.)
 

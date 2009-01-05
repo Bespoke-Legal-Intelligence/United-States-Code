@@ -2,7 +2,7 @@
 
 (a)
 
-Members Traveling In Connection With Medical Evacuation.—The Secretary of the military department concerned may furnish civilian clothing to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing in an amount not to exceed $250, in the case of a member who—
+Members Traveling In Connection With Medical Evacuation.—The Secretary of the military department concerned may furnish civilian clothing and luggage to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing and luggage in an amount not to exceed $250, in the case of a member who—
 
 &emsp;(1) is medically evacuated for treatment in a medical facility by reason of an illness or injury incurred or aggravated while on active duty; or
 
@@ -20,7 +20,7 @@ Certain Enlisted Members.—The Secretary of the military department concerned m
 
 &emsp;(4) discharged before completion of recruit training under honorable conditions for dependency, hardship, minority, or disability or for the convenience of the Government.
 
-(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929.)
+(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, §634, Jan. 28, 2008, 122 Stat. 155.)
 
 #### Prior Provisions
 
@@ -145,6 +145,8 @@ Feb. 23, 1927, ch. 167, title I, 44 Stat. 1113.
 Apr. 15, 1926, ch. 146, title I, 44 Stat. 262.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 inserted “and luggage” after “civilian clothing” in two places in introductory provisions.
 
 2004—Pub. L. 108–375 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
 

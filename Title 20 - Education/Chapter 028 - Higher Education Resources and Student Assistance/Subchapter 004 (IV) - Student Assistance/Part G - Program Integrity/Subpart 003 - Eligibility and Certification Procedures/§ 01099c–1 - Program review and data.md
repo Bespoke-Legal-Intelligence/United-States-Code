@@ -42,9 +42,21 @@ In carrying out paragraphs (1) and (2) of subsection (a) of this section and any
 
 &emsp;(3) permit the institution to correct or cure an administrative, accounting, or recordkeeping error if the error is not part of a pattern of error and there is no evidence of fraud or misconduct related to the error;
 
-&emsp;(4) base any civil penalty assessed against an institution of higher education resulting from a program review or audit on the gravity of the violation, failure, or misrepresentation; and
+&emsp;(4) base any civil penalty assessed against an institution of higher education resulting from a program review or audit on the gravity of the violation, failure, or misrepresentation;
 
-&emsp;(5) inform the appropriate State and accrediting agency or association whenever the Secretary takes action against an institution of higher education under this section, section 1099c of this title, or section 1082 of this title.
+&emsp;(5) inform the appropriate State and accrediting agency or association whenever the Secretary takes action against an institution of higher education under this section, section 1099c of this title, or section 1082 of this title;
+
+&emsp;(6) provide to an institution of higher education an adequate opportunity to review and respond to any program review report and relevant materials related to the report before any final program review report is issued;
+
+&emsp;(7) review and take into consideration an institution of higher education's response in any final program review report or audit determination, and include in the report or determination—
+
+&emsp;&emsp;(A) a written statement addressing the institution of higher education's response;
+
+&emsp;&emsp;(B) a written statement of the basis for such report or determination; and
+
+&emsp;&emsp;(C) a copy of the institution's response; and
+
+&emsp;(8) maintain and preserve at all times the confidentiality of any program review report until the requirements of paragraphs (6) and (7) are met, and until a final program review is issued, other than to the extent required to comply with paragraph (5), except that the Secretary shall promptly disclose any and all program review reports to the institution of higher education under review.
 
 #### (c) Data collection rules
 
@@ -58,9 +70,11 @@ The Secretary shall provide training to personnel of the Department, including c
 
 The provisions of section 3403(b) of this title shall not apply to Secretarial determinations made regarding the appropriate length of instruction for programs measured in clock hours.
 
-(Pub. L. 89–329, title IV, §498A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 652; amended Pub. L. 103–208, §2(i)(15), Dec. 20, 1993, 107 Stat. 2480; Pub. L. 105–244, title IV, §494, Oct. 7, 1998, 112 Stat. 1763.)
+(Pub. L. 89–329, title IV, §498A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 652; amended Pub. L. 103–208, §2(i)(15), Dec. 20, 1993, 107 Stat. 2480; Pub. L. 105–244, title IV, §494, Oct. 7, 1998, 112 Stat. 1763; Pub. L. 110–315, title IV, §497, Aug. 14, 2008, 122 Stat. 3328.)
 
 #### Amendments
+
+2008—Subsec. (b)(6) to (8). Pub. L. 110–315 added pars. (6) to (8).
 
 1998—Subsec. (a)(2). Pub. L. 105–244, §494(1)(A)(i), substituted “shall” for “may” in introductory provisions.
 

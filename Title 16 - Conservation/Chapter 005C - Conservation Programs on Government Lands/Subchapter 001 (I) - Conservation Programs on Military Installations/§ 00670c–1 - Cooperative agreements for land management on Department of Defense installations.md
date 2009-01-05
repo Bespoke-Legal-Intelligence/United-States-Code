@@ -2,7 +2,11 @@
 
 #### (a) Authority of Secretary of a military department
 
-The Secretary of a military department may enter into cooperative agreements with States, local governments, nongovernmental organizations, and individuals to provide for the maintenance and improvement of natural resources on, or to benefit natural and historic research on, Department of Defense installations.
+The Secretary of a military department may enter into cooperative agreements with States, local governments, nongovernmental organizations, and individuals to provide for the following:
+
+&emsp;(1) The maintenance and improvement of natural resources on, or to benefit natural and historic research on, Department of Defense installations.
+
+&emsp;(2) The maintenance and improvement of natural resources located off of a Department of Defense installation if the purpose of the cooperative agreement is to relieve or eliminate current or anticipated challenges that could restrict, impede, or otherwise interfere with, whether directly or indirectly, current or anticipated military activities.
 
 #### (b) Multiyear agreements
 
@@ -12,9 +16,15 @@ Funds appropriated to the Department of Defense for a fiscal year may be obligat
 
 Cooperative agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021.)
+(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, \[div. A\], title III, §313, Oct. 14, 2008, 122 Stat. 4409.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–417 substituted “to provide for the following:
+
+&emsp;“(1) The”
+
+> for “to provide for the” and added par. (2).
 
 1997—Subsec. (a). Pub. L. 105–85, §2908(1), substituted “Secretary of a military department” for “Secretary of Defense”.
 

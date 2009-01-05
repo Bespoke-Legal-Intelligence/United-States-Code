@@ -66,7 +66,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 &emsp;Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter shall not prohibit the use of polygraph tests on prospective employees by any private employer whose primary business purpose consists of providing armored car personnel, personnel engaged in the design, installation, and maintenance of security alarm systems, or other uniformed or plainclothes security personnel and whose function includes protection of—
 
-&emsp;&emsp;(A) facilities, materials, or operations having a significant impact on the health or safety of any State or political subdivision thereof, or the national security of the United States, as determined under rules and regulations issued by the Secretary within 90 days after June 27, 1988, including—
+&emsp;&emsp;(A) facilities, materials, or operations having a significant impact on the health or safety of any State or political subdivisionthereof, or the national security of the United States, as determined under rules and regulations issued by the Secretary within 90 days after June 27, 1988, including—
 
 &emsp;&emsp;&emsp;(i) facilities engaged in the production, transmission, or distribution of electric or nuclear power,
 
@@ -100,7 +100,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 &emsp;&emsp;&emsp;(ii) the employee had access to the person or property that is the subject of the investigation.
 
-(Pub. L. 100–347, §7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, §501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Pub. L. 100–347, §7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, §501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 110–417, \[div. A\], title IX, §931(b)(3), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356,
 
 #### Amendments
 
-2003—Subsec. (b)(2)(A)(i). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2008—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 

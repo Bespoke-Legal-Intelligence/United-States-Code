@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture, acting through the Extension Service, shall establish appropriate extension education programs on Indian reservations and tribal jurisdictions. In establishing these extension programs, the Secretary shall consult with the Bureau of Indian Affairs, the Intertribal Agriculture Council, and the Southwest Indian Agriculture Association, and shall make such interagency cooperative agreements or memoranda of understanding as may be necessary. The programs to be developed and delivered on reservations and within tribal jurisdictions shall be determined with the advice and counsel of reservation or tribal program advisory committees.
+The Secretary of Agriculture, acting through the Extension Service, shall establish appropriate extension education programs on Indian reservations and tribal jurisdictions. In establishing these extension programs, the Secretary shall consult with the Bureau of Indian Affairs, the Intertribal Agriculture Council, and the Southwest Indian Agriculture Association, and shall make such interagency cooperative agreements or memoranda of understanding as maybe necessary. The programs to be developed and delivered on reservations and within tribal jurisdictions shall be determined with the advice and counsel of reservation or tribal program advisory committees.
 
 #### (b) Administration and management
 
@@ -28,7 +28,15 @@ On a determination by the Secretary of Agriculture that a program carried out un
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XVI, §1677, Nov. 28, 1990, 104 Stat. 3779; Pub. L. 102–237, title IV, §407(15), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §840, Apr. 4, 1996, 110 Stat. 1170.)
+(Pub. L. 101–624, title XVI, §1677, Nov. 28, 1990, 104 Stat. 3779; Pub. L. 102–237, title IV, §407(15), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §840, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 110–234, title VII, §7511(c)(23), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(23), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -45,4 +53,10 @@ Subsec. (e). Pub. L. 102–237, §407(15)(A), substituted “reservation” for 
 #### Indian Subsistence Farming Demonstration Grant Program
 
 Pub. L. 102–237, title IX, subtitle C, §§931–939, Dec. 13, 1991, 105 Stat. 1889, established Indian subsistence farming demonstration grant program to provide grants to any Indian tribe, or intertribal consortium, for establishment on Indian reservations of subsistence farming operations that grow fresh produce for distribution to eligible recipients, and provided for definitions, applications for assistance, training and technical assistance by Extension Service, tribal consultation, use, amount, and terms of grants, additional requirements, and authorization of appropriations through fiscal year 1995, prior to repeal by Pub. L. 104–127, title VIII, §874, Apr. 4, 1996, 110 Stat. 1175.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(23) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

@@ -16,7 +16,7 @@ Definition.—For purposes of this section, the term “for use as a weapon” i
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for“protective bona fide research, or other peaceful purposes”.
+2002—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for “protective bona fide research, or other peaceful purposes”.
 
 2001—Subsec. (b). Pub. L. 107–56, §817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
 

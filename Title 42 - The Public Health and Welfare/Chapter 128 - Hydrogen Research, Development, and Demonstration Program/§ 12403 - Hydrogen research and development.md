@@ -10,7 +10,7 @@ In conducting the program authorized by this section, the Secretary shall—
 
 &emsp;(1) give particular attention to developing an understanding and resolution of critical technical issues preventing the introduction of hydrogen into the marketplace;
 
-&emsp;(2) initiate or accelerate existing research in critical technical issues that will contribute to the development of more economic hydrogen production and use, including, but not limited to, critical technical issues with respect to production (giving priority to those production techniques that use renewable energy resources as their primary source of energy for hydrogen production), liquefaction, transmission, distribution, storage, and use (including use of hydrogen in surface transportation); and
+&emsp;(2) initiate or accelerate existing research in critical technical issues that will contribute to the development of more economic hydrogen production and use, including, but not limited to, critical technical issues with respect to production (giving priority to those production techniques that use renewable energy resources as their primary source of energy for hydrogen production), liquefaction, transmission, distribution, storage, and use\(including use of hydrogen in surface transportation); and
 
 &emsp;(3) survey private sector hydrogen activities and take steps to ensure that research and development activities under this section do not displace or compete with the privately funded hydrogen research and development activities of United States industry.
 
@@ -20,7 +20,7 @@ The Secretary is authorized to evaluate any reasonable new or improved technolog
 
 #### (d) Renewable energy systems; hybrid systems
 
-The Secretary is authorized to evaluate any reasonable new or improved technology that could lead or contribute to, or demonstrate the use of, advanced renewable energy systems orhybrid systems for use in isolated communities that currently import diesel fuel as the primary fuel for electric power production.
+The Secretary is authorized to evaluate any reasonable new or improved technology that could lead or contribute to, or demonstrate the use of, advanced renewable energy systems or hybrid systems for use in isolated communities that currently import diesel fuel as the primary fuel for electric power production.
 
 #### (e) Information
 

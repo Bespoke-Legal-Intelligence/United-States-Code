@@ -14,5 +14,5 @@ Historical and Revision Notes
 
 46:1460
 
-Section 4304 requires the regulation and control of the importation of nonconforming recreational vessels and associated equipment. This is to assure United States manufacturers that foreign imports comply with those regulations and standards in effect for United States products so that all manufacturers will be on this same competitive footing. This is being done in lieu of providing a specific prohibition against the importation of these vessels and equipment that might be considered an imposition of a non-tariff barrier to trade.
+Section 4304 requires the regulation and control of the importation of nonconforming recreational vesselsand associated equipment. This is to assure United States manufacturers that foreign imports comply with those regulations and standards in effect for United States products so that all manufacturers will be on this same competitive footing. This is being done in lieu of providing a specific prohibition against the importation of these vessels and equipment that might be considered an imposition of a non-tariff barrier to trade.
 

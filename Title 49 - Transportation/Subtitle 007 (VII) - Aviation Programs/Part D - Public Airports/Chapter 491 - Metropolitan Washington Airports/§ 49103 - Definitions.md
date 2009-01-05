@@ -56,7 +56,7 @@ A prior section 49103 was renumbered section 50103 of this title.
 
 #### Change of Name
 
-Pub. L. 105–154, §1, Feb. 6, 1998, 112 Stat. 3, provided that: “The airport described in the Act entitled ‘An Act to provide for the administration of the Washington National Airport, and for other purposes’, approved June 29, 1940 (54 Stat. 686) \[section 2401 et seq. of former Title 49, Transportation, see References in Text note above\], and known as the Washington National Airport, shall be known and designated as the ‘Ronald Reagan Washington National Airport’.”
+Pub. L. 105–154, §1, Feb. 6, 1998, 112 Stat. 3, provided that: “The airport described in the Act entitled ‘An Act to provide for the administration of the Washington National Airport, and for other purposes’, approvedJune 29, 1940 (54 Stat. 686) \[section 2401 et seq. of former Title 49, Transportation, see References in Text note above\], and known as the Washington National Airport, shall be known and designated as the ‘Ronald Reagan Washington National Airport’.”
 
 Pub. L. 105–154, §2(b), Feb. 6, 1998, 112 Stat. 4, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Washington National Airport shall be deemed to be a reference to the ‘Ronald Reagan Washington National Airport’.”
 

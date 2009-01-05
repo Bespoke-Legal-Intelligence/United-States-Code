@@ -8,7 +8,7 @@ The provisions of the Act entitled “An Act appropriating the receipts from the
 
 #### References in Text
 
-This Act, referred to in first par., and the Act entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” approved June seventeenth, nineteen hundred and two, referred to in second par., are act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this Title and Tables.
+This Act, referred to in first par., and the Act entitled “An Act appropriating the receipts from the saleand disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” approved June seventeenth, nineteen hundred and two, referred to in second par., are act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this Title and Tables.
 
 #### Codification
 
@@ -20,7 +20,7 @@ The first paragraph of this section is comprised of act June 17, 1902, and the s
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 Words “officers designated by the Secretary of the Interior” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 

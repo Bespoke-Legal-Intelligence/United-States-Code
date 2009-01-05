@@ -18,7 +18,7 @@ For purposes of subsection (a) of this section, discrimination includes—
 
 &emsp;&emsp;(C) remove barriers consistent with the requirements of section 12182(b)(2)(A) of this title and with the requirements of section 12183(a)(2) of this title;
 
-&emsp;(3) the purchase or lease by such entity of a new vehicle (other than an automobile, a van with a seating capacity of less than 8 passengers, including the driver, or an over-the-road bus) which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of this section, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; except that the new vehicle need not be readily accessible to and usable by such individuals if the new vehicle is to be used solely in a demand responsive system and if the entity can demonstrate that such system, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;
+&emsp;(3) the purchase or lease by such entity of a new vehicle (other than an automobile, a van with a seating capacity of less than 8 passengers, including the driver, or an over-the-road bus) which is to be used to provide specified public transportation and for which a solicitation is made after the 30th day following the effective date of this section, that is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; except that the new vehicleneed not be readily accessible to and usable by such individuals if the new vehicle is to be used solely in a demand responsive system and if the entity can demonstrate that such system, when viewed in its entirety, provides a level of service to such individuals equivalent to the level of service provided to the general public;
 
 &emsp;(4)(A) the purchase or lease by such entity of an over-the-road bus which does not comply with the regulations issued under section 12186(a)(2) of this title; and
 
@@ -54,7 +54,7 @@ For purposes of subsection (a) of this section, discrimination includes—
 
 #### References in Text
 
-For the effective date of this section, referred to in subsec. (b)(3), (5), see section 310 of Pub. L. 101–336, setout as an Effective Date note under section 12181 of this title.
+For the effective date of this section, referred to in subsec. (b)(3), (5), see section 310 of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
 
 The effective date of this paragraph, referred to in subsec. (b)(6), is 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
 

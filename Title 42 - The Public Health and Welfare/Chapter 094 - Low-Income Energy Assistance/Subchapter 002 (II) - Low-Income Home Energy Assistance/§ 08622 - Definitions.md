@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) a significant increase in home energy disconnections reported by a utility, a State regulatory agency, or another agency with necessary data;
 
-&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the food stamp program carried out under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
+&emsp;&emsp;(E) a significant increase in participation in a public benefit program such as the supplemental nutrition assistance program carried out under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the national program to provide supplemental security income carried out under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), or the State temporary assistance for needy families program carried out under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), as determined by the head of the appropriate Federal agency;
 
 &emsp;&emsp;(F) a significant increase in unemployment, layoffs, or the number of households with an individual applying for unemployment benefits, as determined by the Secretary of Labor; or
 
@@ -38,11 +38,11 @@ As used in this subchapter:
 
 &emsp;(11) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
-(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756.)
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
-The Food Stamp Act of 1977, referred to in par. (1)(E), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in par. (1)(E), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Social Security Act, referred to in par. (1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -50,7 +50,11 @@ The Social Security Act, referred to in par. (1)(E), is act Aug. 14, 1935, ch. 5
 
 In par. (11), “August 12, 1981” substituted for “the day before the date of the enactment of this Act”, which date of enactment is Aug. 13, 1981.
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Par. (1)(E). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(EE), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1998—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
@@ -79,6 +83,12 @@ Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) 
 Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
 
 1981—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (B), (2)(EE) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1994 Amendment
 

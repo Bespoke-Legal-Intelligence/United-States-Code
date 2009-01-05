@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers and ranchers for down payments on farm ownership loans.
+&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
 
 #### (2) Administration
 
@@ -14,15 +14,29 @@
 
 #### (1) Principal
 
-&emsp;Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.
+&emsp;Each loan made under this section shall be in an amount that does not exceed 45 percent of the least of—
 
-#### (2) Interest rate
+&emsp;&emsp;(A) the purchase price of the farm or ranch to be acquired;
+
+&emsp;&emsp;(B) the appraised value of the farm or ranch to be acquired; or
+
+&emsp;&emsp;(C) $500,000.
+
+#### (2) <sup>1</sup> Interest rate
+
+&emsp;The interest rate on any loan made by the Secretary under this section shall be a rate equal to the greater of—
+
+&emsp;&emsp;(A) the difference obtained by subtracting 4 percent from the interest rate for farm ownership loans under this subchapter; or
+
+&emsp;&emsp;(B) 1.5 percent.
+
+#### (2) <sup>1</sup> Interest rate
 
 &emsp;The interest rate on any loan made by the Secretary under this section shall be 4 percent.
 
 #### (3) Duration
 
-&emsp;Each loan under this section shall be made for a period of 15 years or less, at the option of the borrower.
+&emsp;Each loan under this section shall be made for a period of 20 years or less, at the option of the borrower.
 
 #### (4) Repayment
 
@@ -42,19 +56,15 @@
 
 #### (1) Borrowers required to make minimum down payment
 
-&emsp;The Secretary shall not make a loan under this section to any borrower with respect to a farm or ranch if the contribution of the borrower to the down payment on the farm or ranch will be less than 10 percent of the purchase price of the farm or ranch.
+&emsp;The Secretary shall not make a loan under this section to any borrower with respect to a farm or ranch if the contribution of the borrower to the down payment on the farm or ranch will be less than 5 percent of the purchase price of the farm or ranch.
 
-#### (2) Maximum price of property to be acquired
+#### (2) Prohibited types of financing
 
-&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.
-
-#### (3) Prohibited types of financing
-
-&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch if the farm or ranch is to be acquired with other financing that contains any of the following conditions:
+&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch ifthe farm or ranch is to be acquired with other financing that contains any of the following conditions:
 
 &emsp;&emsp;(A) The financing is to be amortized over a period of less than 30 years.
 
-&emsp;&emsp;(B) A balloon payment will be due on the financing during the 15-year period beginning on the date the loan is to be made by the Secretary.
+&emsp;&emsp;(B) A balloon payment will be due on the financing during the 20-year period beginning on the date the loan is to be made by the Secretary.
 
 #### (d) Administration
 
@@ -70,17 +80,53 @@ In carrying out this section, the Secretary shall, to the maximum extent practic
 
 &emsp;&emsp;(C) applicants for farm ownership loans under this subchapter;
 
-&emsp;(3) encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers by providing seller financing; and
+&emsp;(3) encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;
 
-&emsp;(4) coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for beginning farmers and ranchers.
+&emsp;(4) coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for beginning farmers or ranchers or socially disadvantaged farmers or ranchers; and
 
-(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342.)
+&emsp;(5) establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher.
+
+#### (e) Socially disadvantaged farmer or rancher defined
+
+In this section, the term “socially disadvantaged farmer or rancher” has the meaning given that term in section 2003(e)(2) of this title.
+
+(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, §5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5004, June 18, 2008, 122 Stat. 1664, 1905.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
+
+Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
+
+Subsec. (b)(3). Pub. L. 110–246, §5004(2)(B), substituted “20” for “15”.
+
+Subsec. (c)(1). Pub. L. 110–246, §5004(3)(A), substituted “5” for “10”.
+
+Subsec. (c)(2), (3). Pub. L. 110–246, §5004(3)(B), (C), redesignated par. (3) as (2), in subpar. (B), substituted “20-year” for “15-year”, and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.”
+
+Subsec. (d)(3). Pub. L. 110–246, §5004(4)(A)(ii), struck out “and” at end.
+
+Pub. L. 110–246, §5004(4)(A)(i), which directed the insertion of “and socially disadvantaged farmers or ranchers” after “ranchers”, was executed by making the insertion after “ranchers” the second place it appeared to reflect the probable intent of Congress.
+
+Subsec. (d)(4). Pub. L. 110–246, §5004(4)(B), substituted “or ranchers or socially disadvantaged farmers or ranchers; and” for “and ranchers.”
+
+Subsec. (d)(5). Pub. L. 110–246, §5004(4)(C), added par. (5).
+
+Subsec. (e). Pub. L. 110–246, §5004(5), added subsec. (e).
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §5005(1)(A), substituted “40 percent” for “30 percent”.
 
 Subsec. (b)(3). Pub. L. 107–171, §5005(1)(B), substituted “15 years” for “10 years”.
 
 Subsec. (c)(3)(B). Pub. L. 107–171, §5005(2), substituted “15-year” for “10-year”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

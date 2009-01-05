@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For each fiscal year, not more than $250,000 of the funds made availableto carry out this <sup>1</sup> subtitle C of title V of the SAFETEA–LU shall be used for intelligent transportation system outreach, public relations, displays, tours, and brochures.
+In General.—For each fiscal year, not more than $250,000 of the funds made available to carry out this <sup>1</sup> subtitle C of title V of the SAFETEA–LU shall be used for intelligent transportation system outreach, public relations, displays, tours, and brochures.
 
 (b)
 

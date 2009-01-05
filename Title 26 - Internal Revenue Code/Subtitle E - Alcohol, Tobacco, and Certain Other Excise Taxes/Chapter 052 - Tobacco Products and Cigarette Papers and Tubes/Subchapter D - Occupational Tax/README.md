@@ -3,18 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [5731\.](%C2%A7%2005731%20-%20Imposition%20and%20rate%20of%20tax.md) | Imposition and rate of tax. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 109–59, title XI, §11125(b)(20)(D), (c), Aug. 10, 2005, 119 Stat. 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, the table of sections is amended by adding at the end the following:</i>
-
-|  |  |
-| :--- | ---: |
-| <i>5732.</i> | <i>Payment of tax.</i> |
-| <i>5733.</i> | <i>Provisions relating to liability for occupational taxes.</i> |
-| <i>5734.</i> | <i>Application of State laws.</i> |
+| [5732\.](%C2%A7%2005732%20-%20Payment%20of%20tax.md) | Payment of tax. |
+| [5733\.](%C2%A7%2005733%20-%20Provisions%20relating%20to%20liability%20for%20occupational%20taxes.md) | Provisions relating to liability for occupational taxes. |
+| [5734\.](%C2%A7%2005734%20-%20Application%20of%20State%20laws.md) | Application of State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,9 +15,9 @@ A prior subchapter D, relating to records of manufacturers and importers of toba
 
 Another prior subchapter D, which consisted of sections 5731 and 5732 of this title, was repealed by Pub. L. 89–44, title V, §502(b)(7), June 21, 1965, 79 Stat. 151, applicable on and after Jan. 1, 1966.
 
-Section 5731, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1423, restricted the shipment and delivery of tobacco materials to shipment and delivery pursuant to the regulations prescribed by the Secretary or his delegate.
+#### Amendments
 
-Section 5732, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958, Pub. L. 85–859, title II, §202, 72 Stat. 1423, required that a dealer in tobacco materials make statement of shipments and delivers or give an inventory upon demand of any internal revenue officer.
+2005—Pub. L. 109–59, title XI, §11125(b)(20)(D), Aug. 10, 2005, 119 Stat. 1957, added items 5732 to 5734.
 
 
 ---
@@ -34,3 +25,6 @@ Section 5732, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958, Pub. L.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 05731 - Imposition and rate of tax](%C2%A7%2005731%20-%20Imposition%20and%20rate%20of%20tax.md)
+- [&sect; 05732 - Payment of tax](%C2%A7%2005732%20-%20Payment%20of%20tax.md)
+- [&sect; 05733 - Provisions relating to liability for occupational taxes](%C2%A7%2005733%20-%20Provisions%20relating%20to%20liability%20for%20occupational%20taxes.md)
+- [&sect; 05734 - Application of State laws](%C2%A7%2005734%20-%20Application%20of%20State%20laws.md)

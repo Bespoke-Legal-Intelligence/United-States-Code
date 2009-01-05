@@ -1,8 +1,8 @@
 ### §14044d. Senior Policy Operating Group
 
-Each Federal department or agency involved in grant activities related to combatting trafficking or providing services to persons subjected to trafficking inside the United States shall, as the department or agency determines appropriate, apprise the Senior Policy Operating Group established by section 105(f) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(f)), under the procedures established by the Senior Policy Operating Group, of such activities of the department or agency to ensure that the activities are consistent with the purposes of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.).
+Each Federal department or agency involved in grant activities related to combatting trafficking or providing services to persons subjected to trafficking inside the United States shall apprise the Senior Policy Operating Group established by section 105(f) of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(f)), under the procedures established by the Senior Policy Operating Group, of such activities of the department or agency to ensure that the activities are consistent with the purposes of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.).
 
-(Pub. L. 109–164, title II, §206, Jan. 10, 2006, 119 Stat. 3571.)
+(Pub. L. 109–164, title II, §206, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title II, §233, Dec. 23, 2008, 122 Stat. 5074.)
 
 #### References in Text
 
@@ -11,4 +11,8 @@ The Trafficking Victims Protection Act of 2000, referred to in text, is div. A o
 #### Codification
 
 Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2008—Pub. L. 110–457 struck out “, as the department or agency determines appropriate,” before “apprise the Senior Policy Operating Group”.
 

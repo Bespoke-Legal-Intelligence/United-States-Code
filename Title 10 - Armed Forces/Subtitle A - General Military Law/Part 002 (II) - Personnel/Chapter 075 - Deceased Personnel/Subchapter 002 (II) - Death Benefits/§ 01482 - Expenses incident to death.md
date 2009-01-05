@@ -16,13 +16,9 @@
 
 &emsp;(7) Funeral director's services.
 
-&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
+&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
 
 &emsp;(9) Interment of the remains.
-
-&emsp;(10) Presentation of a flag of the United States to the person designated to direct disposition of the remains, except in the case of a military prisoner who dies while in the custody of the Secretary and while under a sentence that includes a discharge.
-
-&emsp;(11) Presentation of a flag of equal size to the flag presented under paragraph (10) to the parents or parent, if the person to be presented a flag under paragraph (10) is other than the parent of the decedent. For the purpose of this paragraph, the term “parent” includes a natural parent, a stepparent, a parent by adoption or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to him, and preference under this paragraph shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.
 
 (b) If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
@@ -44,15 +40,37 @@
 
 > However, the amount of the reimbursement shall be determined in the manner prescribed in subsection (b) for an interment, but may not be larger than that authorized when the United States provides the grave site. A claim for reimbursement under this subsection may be allowed only if it is presented within two years after the date of death or the date the person who would have been designated under subsection (c) to direct disposition of the remains, if they had been recovered, receives notification that the member has been reported or determined to be dead under authority of chapter 10 of title 37, whichever is later.
 
-(e) The Secretary concerned may pay the necessary expenses for the presentation of a flag to the person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who dies under honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
+(e)
 
-&emsp;(1) was a member of the Ready Reserve; or
+Presentation of Flag of the United States.—(1) In the case of a decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses for the presentation of a flag of the United States to the following persons:
 
-&emsp;(2) had performed at least twenty years of service as computed under section 12732 of this title and was not entitled to retired pay under section 12731 of this title.
+&emsp;(A) The person designated under subsection (c) to direct disposition of the remains of the decedent.
+
+&emsp;(B) The parents or parent of the decedent, if the person to be presented a flag under subparagraph (A) is other than a parent of the decedent.
+
+&emsp;(C) The surviving spouse of the decedent (including a surviving spouse who remarries afterthe decedent's death), if the person to be presented a flag under subparagraph (A) is other than the surviving spouse.
+
+&emsp;(D) Each child of the decedent, regardless of whether the person to be presented a flag under subparagraph (A) is a child of the decedent.
+
+(2) The Secretary concerned may pay the necessary expenses for the presentation of a flag to the person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who dies under honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
+
+&emsp;(A) was a member of the Ready Reserve; or
+
+&emsp;(B) had performed at least twenty years of service as computed under section 12732 of this title and was not entitled to retired pay under section 12731 of this title.
+
+(3) A flag to be presented to a person under subparagraph (B), (C), or (D) of paragraph (1) shall be of equal size to the flag presented under subparagraph (A) of such paragraph to the person designated to direct disposition of the remains of the decedent.
+
+(4) This subsection does not apply to a military prisoner who dies while in the custody of the Secretary concerned and while under a sentence that includes a discharge.
+
+(5) In this subsection:
+
+&emsp;(A) The term “parent” includes a natural parent, a stepparent, a parent by adoption, or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to the decedent. Preference under paragraph (1)(B) shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.
+
+&emsp;(B) The term “child” has the meaning prescribed by section 1477(d) of this title.
 
 (f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472.)
 
 Historical and Revision Notes
 
@@ -104,7 +122,17 @@ In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inhe
 
 #### Amendments
 
-2001—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
+2008—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
+
+Subsec. (a)(10), (11). Pub. L. 110–417, §581(b), struck out pars. (10) and (11) which read as follows:
+
+“(10) Presentation of a flag of the United States to the person designated to direct disposition of the remains, except in the case of a military prisoner who dies while in the custody of the Secretary and while under a sentence that includes a discharge.
+
+“(11) Presentation of a flag of equal size to the flag presented under paragraph (10) to the parents or parent, if the person to be presented a flag under paragraph (10) is other than the parent of the decedent. For the purpose of this paragraph, the term ‘parent’ includes a natural parent, a stepparent, a parent by adoption or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to him, and preference under this paragraph shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.”
+
+Subsec. (e). Pub. L. 110–417, §581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
+
+2001—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struckout former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
 
 1996—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
 
@@ -202,11 +230,11 @@ Duties.—Except to the extent that the person designated to direct disposition 
 
 &emsp;&emsp;&emsp;“(i) travel with the remains during transportation; or
 
-&emsp;&emsp;&emsp;“(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle,if applicable) is made for the transfer of the remains;
+&emsp;&emsp;&emsp;“(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle, if applicable) is made for the transfer of the remains;
 
 &emsp;&emsp;“(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
 
-&emsp;&emsp;“(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
+&emsp;&emsp;“(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designatedby the person designated to direct disposition of such remains.
 
 “(f)
 

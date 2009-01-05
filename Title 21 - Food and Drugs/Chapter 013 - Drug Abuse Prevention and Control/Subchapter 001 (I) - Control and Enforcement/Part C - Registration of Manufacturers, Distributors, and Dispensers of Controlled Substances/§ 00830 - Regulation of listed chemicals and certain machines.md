@@ -110,23 +110,33 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;(iii) The seller maintains, in accordance with criteria issued by the Attorney General, a written or electronic list of such sales that identifies the products by name, the quantity sold, the names and addresses of purchasers, and the dates and times of the sales (which list is referred to in this subsection as the “logbook”), except that such requirement does not apply to any purchase by an individual of a single sales package if that package contains not more than 60 milligrams of pseudoephedrine.
 
-&emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless—
+&emsp;&emsp;&emsp;(iv) In the case of a sale to which the requirement of clause (iii) applies, the seller does not sell such a product unless the sale is made in accordance with the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) the prospective purchaser—
+&emsp;&emsp;&emsp;&emsp;(I) The prospective purchaser—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) presents an identification card that provides a photograph and is issued by a State or the Federal Government, or a document that, with respect to identification, is considered acceptable for purposes of sections 274a.2(b)(1)(v)(A) and 274a.2(b)(1)(v)(B) of title 8, Code of Federal Regulations (as in effect on or after March 9, 2006); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) signs the logbook and enters in the logbook his or her name, address, and the date and time of the sale; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) signs the written logbook and enters in the logbook his or her name, address, and the date and time of the sale, or for transactions involving an electronic logbook, the purchaser provides a signature using one of the following means:
 
-&emsp;&emsp;&emsp;&emsp;(II) the seller—
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) determines that the name entered in the logbook corresponds to thename provided on such identification and that the date and time entered are correct; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) enters in the logbook the name of the product and the quantity sold.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) Signing a printed document that includes, for such purchaser, the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale. Such document shall be printed by the seller at the time of the sale. Such document shall contain a clearly identified signature line for a purchaser to sign. Such printed document shall display the notice described in clause (v). Each signed document shall be inserted into a binder or other secure means of document storage immediately after the purchaser signs the document.
 
-&emsp;&emsp;&emsp;(v) The logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies the maximum fine and term of imprisonment under such section.
+&emsp;&emsp;&emsp;&emsp;(II) The seller enters in the logbook the name of the product and the quantity sold. Such information may be captured through electronic means, including through electronic data capture through bar code reader or similar technology.
 
-&emsp;&emsp;&emsp;(vi) The seller maintains each entry in the logbook for not fewer than two years after the date on which the entry is made.
+&emsp;&emsp;&emsp;&emsp;(III) The logbook maintained by the seller includes the prospective purchaser's name, address, and the date and time of the sale, as follows:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) If the purchaser enters the information, the seller must determine that the name entered in the logbook corresponds to the name provided on such identification and that the date and time entered are correct.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) If the seller enters the information, the prospective purchaser must verify that the information is correct.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Such information may be captured through electronic means, including through electronic data capture through bar code reader or similar technology.
+
+&emsp;&emsp;&emsp;(v) The written or electronic logbook includes, in accordance with criteria of the Attorney General, a notice to purchasers that entering false statements or misrepresentations in the logbook, or supplying false information or identification that results in the entry of false statements or misrepresentations, may subject the purchasers to criminal penalties under section 1001 of title 18, which notice specifies the maximum fine and term of imprisonment under such section.
+
+&emsp;&emsp;&emsp;(vi) Regardless of whether the logbook entry is written or electronic, the seller maintains each entry in the logbook for not fewer than 2 years after the date on which the entry is made.
 
 &emsp;&emsp;&emsp;(vii) In the case of individuals who are responsible for delivering such products into the custody of purchasers or who deal directly with purchasers by obtaining payments for the products, the seller has submitted to the Attorney General a self-certification that all such individuals have, in accordance with criteria under subparagraph (B)(ii), undergone training provided by the seller to ensure that the individuals understand the requirements that apply under this subsection and subsection (d).
 
@@ -186,7 +196,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 #### (E) Good faith protection
 
-&emsp;&emsp;A regulated seller who in good faith releases information in a logbook under subparagraph (A)(iii) to Federal, State, or local law enforcement authorities is immune fromcivil liability for such release unless the release constitutes gross negligence or intentional, wanton, or willful misconduct.
+&emsp;&emsp;A regulated seller who in good faith releases information in a logbook under subparagraph (A)(iii) to Federal, State, or local law enforcement authorities is immune from civil liability for such release unless the release constitutes gross negligence or intentional, wanton, or willful misconduct.
 
 #### (F) Inapplicability of requirements to certain sales
 
@@ -208,7 +218,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267.)
+(Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349.)
 
 #### References in Text
 
@@ -219,6 +229,8 @@ This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), w
 Subchapter II of this chapter, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
+
+2008—Subsec. (e)(1)(A)(iv) to (vi). Pub. L. 110–415 added cls. (iv) to (vi) and struck out former cls. (iv) to (vi) which related to procedures for sales subject to the logbook requirement.
 
 2006—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, §711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
 
@@ -250,7 +262,7 @@ Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1)
 
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
-1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
+1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relatingto reporting by any person who distributes, sells, or imports any piperidine.
 
 #### Effective Date of 2006 Amendment
 
@@ -260,7 +272,7 @@ Pub. L. 109–177, title VII, §711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided
 
 &emsp;“(B) Such subsection (e)(1) applies on and after September 30, 2006.”
 
-Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply onand after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
+Pub. L. 109–177, title VII, §711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act \[Mar. 9, 2006\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -295,4 +307,6 @@ Section 203(b) of Pub. L. 95–633 required the Attorney General to publish prop
 #### Report to President and Congress on Effectiveness of Title II of Pub. L. 95–633
 
 Section 203(c) of Pub. L. 95–633 required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

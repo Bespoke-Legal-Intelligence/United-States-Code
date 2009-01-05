@@ -16,7 +16,7 @@ There are authorized to be appropriated to carry out subpart IV of this part, su
 
 #### Prior Provisions
 
-A prior section 3058a, Pub. L. 89–73, title VII, §703, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1789, related to statement of purposes, prior to repeal by Pub. L. 100–175, title I, §181, title VIII, §701(a), (b),Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058a, Pub. L. 89–73, title VII, §703, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1789, related to statement of purposes, prior to repeal by Pub. L. 100–175, title I, §181, title VIII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 702 of Pub. L. 89–73 was classified to section 3045a of this title prior to repeal by Pub. L. 95–478.
 

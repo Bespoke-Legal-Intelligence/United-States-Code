@@ -40,7 +40,7 @@
 
 (4) A veteran who is furnished care by the Secretary in a hospital or domiciliary facility in Alaska or Hawaii may be furnished nursing home care at the expense of the United States under this subsection even if such hospital or domiciliary facility is not under the direct jurisdiction of the Secretary.
 
-(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to allFederal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 (c)(1)(A) In furnishing nursing home care, adult day health care, or other extended care services under this section, the Secretary may enter into agreements for furnishing such care or services with—
 
@@ -52,7 +52,7 @@
 
 (2) In applying the provisions of section 2(b)(1) of the Service Contract Act of 1965 (41 U.S.C. 351(b)(1)) with respect to any contract entered into under this section to provide nursing home care of veterans, the payment of wages not less than those specified in section 6(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(b)) shall be deemed to constitute compliance with such provisions.
 
-(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such careat the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
+(d)(1) Subject to subsection (b) of this section, the Secretary may authorize for any veteran requiring nursing home care for a service-connected disability direct admission for such care at the expense of the United States to any non-Department nursing home. The Secretary may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Secretary and who is currently receiving medical services as part of home health services from the Department.
 
 (2) Direct admission authorized by paragraph (1) of this subsection may be authorized upon determination of need therefor—
 

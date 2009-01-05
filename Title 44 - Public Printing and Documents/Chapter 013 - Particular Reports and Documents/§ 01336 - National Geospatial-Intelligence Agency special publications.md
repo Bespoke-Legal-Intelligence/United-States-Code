@@ -2,7 +2,7 @@
 
 The Director of the National Geospatial-Intelligence Agency may authorize the printing of notices to mariners, light lists, sailing directions, bulletins, and other special publications of the National Geospatial-Intelligence Agency in editions the interests of the Government and of the public may require.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271; Pub. L. 104–201, div. A, title XI, §§1112(e)(2), 1123(b)(1), Sept. 23, 1996, 110 Stat. 2684, 2688; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271; Pub. L. 104–201, div. A, title XI, §§1112(e)(2), 1123(b)(1), Sept. 23, 1996, 110 Stat. 2684, 2688; Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ This section incorporates only part of the third sentence, second paragraph of f
 
 #### Amendments
 
-2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in section catchline and two places in text.
+2008—Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in section catchline and two places in text.
 
 1996—Pub. L. 104–201, §1123(b)(1), substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in section catchline.
 

@@ -22,7 +22,7 @@ The Commission shall, to the maximum extent practicable, utilize the resources a
 
 #### (e) Copies of accident or investigation reports to other agencies; conditions
 
-The Commission may provide to another Federal agency or a State or local agency or authority engaged in activities relating to health, safety, or consumer protection, copies of any accident or investigation report made under this chapter by any officer, employee, or agent of the Commission only if (1) information which under section 2055(a)(2) of this title is to be considered confidential is not included in any copy of such report which is provided under this subsection; and (2) each Federal agency and State and local agency and authority which is to receive under this subsection a copy of such report provides assurances satisfactory to the Commission that the identity of any injured person and any person who treated an injured person will not, without the consent of the person identified, be included in—
+Notwithstanding section 2055(a)(3) of this title, the Commission may provide to another Federal agency or a State or local agency or authority engaged in activities relating to health, safety, or consumer protection, copies of any accident or investigation report made under this chapter by any officer, employee, or agent of the Commission only if (1) information which under section 2055(a)(2) of this title is to be considered confidential is not included in any copy of such report which is provided under this subsection; and (2) each Federal agency and State and local agency and authority which is to receive under this subsection a copy of such report provides assurances satisfactory to the Commission that the identity of any injured person and any person who treated an injured person will not, without the consent of the person identified, be included in—
 
 &emsp;(A) any copy of any such report, or
 
@@ -30,9 +30,61 @@ The Commission may provide to another Federal agency or a State or local agency 
 
 > which the agency or authority makes available to any member of the public. No Federal agency or State or local agency or authority may disclose to the public any information contained in a report received by the agency or authority under this subsection unless with respect to such information the Commission has complied with the applicable requirements of section 2055(b) of this title.
 
-(Pub. L. 92–573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+#### (f) Sharing of information with Federal, State, local, and foreign government agencies
+
+#### (1) Agreements and conditions
+
+&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make information obtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material willbe maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
+
+&emsp;&emsp;(A) the agency has set forth a bona fide legal basis for its authority to maintain the material in confidence;
+
+&emsp;&emsp;(B) the materials are to be used for purposes of investigating, or engaging in enforcement proceedings related to, possible violations of—
+
+&emsp;&emsp;&emsp;(i) laws regulating the manufacture, importation, distribution, or sale of defective or unsafe consumer products, or other practices substantially similar to practices prohibited by any law administered by the Commission;
+
+&emsp;&emsp;&emsp;(ii) a law administered by the Commission, if disclosure of the material would further a Commission investigation or enforcement proceeding; or
+
+&emsp;&emsp;&emsp;(iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency's government; and
+
+&emsp;&emsp;(C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+
+#### (2) Abrogation of agreements
+
+&emsp;The Commission may abrogate any agreement or memorandum of understanding with another agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
+
+#### (3) Additional rules against disclosure
+
+&emsp;Except as provided in paragraph (4), the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
+
+&emsp;&emsp;(A) any material obtained from a foreign government agency, if the foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
+
+&emsp;&emsp;(B) any material reflecting a consumer complaint obtained from any other foreign source, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
+
+&emsp;&emsp;(C) any material reflecting a consumer complaint submitted to a Commission reporting mechanism sponsored in part by foreign government agencies.
+
+#### (4) Limitation
+
+&emsp;Nothing in this subsection authorizes the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+
+#### (5) Definition
+
+&emsp;In this subsection, the term “foreign government agency” means—
+
+&emsp;&emsp;(A) any agency or judicial authority of a foreign government, including a foreign state, a political subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
+
+&emsp;&emsp;(B) any multinational organization, to the extent that it is acting on behalf of an entity described in subparagraph (A).
+
+#### (g) Notification to State health departments
+
+Whenever the Commission is notified of any voluntary corrective action taken by a manufacturer (or a retailer in the case of a retailer selling a product under its own label) in consultation with the Commission, or issues an order under section 2064(c) or (d) of this title with respect to any product, the Commission shall notify each State's health department (or other agency designated by the State) of such voluntary corrective action or order.
+
+(Pub. L. 92–573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §§207, 235(c)(7), Aug. 14, 2008, 122 Stat. 3044, 3075.)
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted “Notwithstanding section 2055(a)(3) of this title, the Commission” for “The Commission” in introductory provisions.
+
+Subsecs. (f), (g). Pub. L. 110–314, §207, added subsecs. (f) and (g).
 
 1988—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 

@@ -16,5 +16,5 @@ The Federal Airport Act, referred to in text, is act May 13, 1946, ch. 251, 60 S
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726 provided that the amendment made by Pub. L. 85–726 is effective on 60thday following date on which the Administrator of the Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office. The Administrator was appointed, qualified and took office on Oct. 31, 1958.
+Section 1505(2) of Pub. L. 85–726 provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which the Administrator of the Federal Aviation Agency first appointed under Pub. L. 85–726 qualifies and takes office. The Administrator was appointed, qualified and took office on Oct. 31, 1958.
 

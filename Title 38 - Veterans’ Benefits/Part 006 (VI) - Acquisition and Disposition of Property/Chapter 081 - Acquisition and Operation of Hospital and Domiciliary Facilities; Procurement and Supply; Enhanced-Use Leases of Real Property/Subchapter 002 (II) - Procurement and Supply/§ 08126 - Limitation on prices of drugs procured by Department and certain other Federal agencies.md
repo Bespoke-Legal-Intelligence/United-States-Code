@@ -4,7 +4,7 @@
 
 &emsp;(1) beginning January 1, 1993, the manufacturer shall make available for procurement on the Federal Supply Schedule of the General Services Administration each covered drug of the manufacturer;
 
-&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement)under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
+&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
 &emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) the non-Federal average manufacturer price of the drug during the 3-month period that ends with the month preceding the month during which a contract goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); minus
 
-&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
+&emsp;&emsp;(B) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the end of the period described in subparagraph (A) (or, in the case of a covered drug for which sufficientdata for determining the non-Federal average manufacturer price during such period is not available, during such period preceding the period described in subparagraph (A) as the Secretary considers appropriate).
 
 &emsp;(2) The term “covered drug” means—
 
@@ -114,7 +114,7 @@
 
 (2) In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII,§737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
+(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@ There is established in the Treasury of the United States the Foreign Fishing Ob
 
 &emsp;(C) to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to board the vessel for purposes of carrying out observer functions.
 
-(2) Section 308 of the Act of 1976 \[16 U.S.C. 1858\] (relating to civil penalties) applies to any act that is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 \[16 U.S.C. 1857\].
+(2) Section 308 of the Act of 1976 \[16 U.S.C. 1858\] (relating to civil penalties) applies to any actthat is unlawful under paragraph (1), and for purposes of such application the commission of any such act shall be treated as an act the commission of which is unlawful under section 307 of the Act of 1976 \[16 U.S.C. 1857\].
 
 #### (g) Regulations
 

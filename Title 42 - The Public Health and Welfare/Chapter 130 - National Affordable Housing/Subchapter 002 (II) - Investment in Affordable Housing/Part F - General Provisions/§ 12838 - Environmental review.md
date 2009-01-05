@@ -26,7 +26,7 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(3) specify that the recipient of assistance under this subchapter has fully carried out its responsibilities as described under subsection (a) of this section, and
 
-&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a) of thissection, and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
+&emsp;(4) specify that the certifying officer (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to subsection (a) of this section, and (B) is authorized and consents on behalf of the jurisdiction or insular area and himself to accept the jurisdiction of the Federal courts for the purpose of enforcement of his responsibilities as such an official.
 
 #### (d) Assistance to units of general local government from a State
 

@@ -8,7 +8,7 @@ Each annuity is stated as an annual amount, 1/12 of which, rounded to the next l
 
 #### (1) Commencement of annuity for participants generally
 
-&emsp;Except as otherwise provided in paragraph (2), the annuity of a participant who has metthe eligibility requirements for an annuity shall commence on the first day of the month after separation from the Agency or after pay ceases and the service and age requirements for title to an annuity are met.
+&emsp;Except as otherwise provided in paragraph (2), the annuity of a participant who has met the eligibility requirements for an annuity shall commence on the first day of the month after separation from the Agency or after pay ceases and the service and age requirements for title to an annuity are met.
 
 #### (2) Exceptions
 

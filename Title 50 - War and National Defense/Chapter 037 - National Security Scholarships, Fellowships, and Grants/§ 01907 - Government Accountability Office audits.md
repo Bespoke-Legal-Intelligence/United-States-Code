@@ -6,5 +6,5 @@ The conduct of the program required by this chapter may be audited by the Govern
 
 #### Amendments
 
-2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and in two places in text.
+<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and in two places in text.
 

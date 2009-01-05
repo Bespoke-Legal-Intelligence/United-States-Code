@@ -138,7 +138,7 @@ The Secretary shall enter into a contract to establish a technical assistance ce
 
 #### (1) In general
 
-&emsp;The Secretary may reserve not more than 5 percent of the total amount appropriated for this subchapter for any fiscal year to annually evaluate the programs under this subchapter.
+&emsp;The Secretary may reserve not more than 5 percent of the total amount appropriated forthis subchapter for any fiscal year to annually evaluate the programs under this subchapter.
 
 #### (2) Report
 

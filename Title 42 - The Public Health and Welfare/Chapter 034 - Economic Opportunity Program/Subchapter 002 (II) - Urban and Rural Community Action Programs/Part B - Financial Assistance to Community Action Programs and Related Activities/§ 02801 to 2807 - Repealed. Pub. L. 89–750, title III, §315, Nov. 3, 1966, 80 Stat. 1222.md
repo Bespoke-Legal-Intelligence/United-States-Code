@@ -10,7 +10,7 @@ Section 2804, Pub. L. 88–452, title II, §215, Aug. 20, 1964, 78 Stat. 521, se
 
 Section 2805, Pub. L. 88–452, title II, §216, Aug. 20, 1964, 78 Stat. 522; Pub. L. 89–253, §18, Oct. 9, 1965, 79 Stat. 976, provided for the methods of payment of the Federal share of expenditures.
 
-Section 2806, Pub. L. 88–452, title II, §217, Aug. 20, 1964, 78 Stat. 522, provided for termination of paymentsfor noncompliance with the State plan and for hearings and judicial review.
+Section 2806, Pub. L. 88–452, title II, §217, Aug. 20, 1964, 78 Stat. 522, provided for termination of payments for noncompliance with the State plan and for hearings and judicial review.
 
 Section 2806a, Pub. L. 88–452, title II, §218, as added Pub. L. 89–253, §19(2), Oct. 9, 1965, 79 Stat. 976, made provision for teacher training projects.
 

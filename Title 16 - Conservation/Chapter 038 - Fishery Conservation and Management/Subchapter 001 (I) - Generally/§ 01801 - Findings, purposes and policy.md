@@ -152,7 +152,7 @@ Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: �
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relationsand Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
+Pub. L. 102–582, §1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act \[enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46\] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
 
 #### Short Title of 1990 Amendment
 
@@ -180,27 +180,29 @@ Section 1 of Pub. L. 94–265, as amended by Pub. L. 96–561, title II, §238(a
 
 #### Ex. Ord. No. 12962. Recreational Fisheries
 
-Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, provided:
+Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish  and  Wildlife  Act  of  1956  (16  U.S.C.  742a-d, and e-j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), and the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1801–1882), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (16 U.S.C. 1 <i>et seq</i>.), the National Historic Preservation Act (16 U.S.C. 470 <i>et seq</i>.), \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
-(b) identifying recreational fishing opportunities that are limited by water quality and habitat degradation and promoting restoration to support viable, healthy, and, where feasible, self-sustaining recreational fisheries;
+(b) identifying recreational fishing opportunities that are limited by water quality and habitat degradationand promoting restoration to support viable, healthy, and, where feasible, self-sustaining recreational fisheries;
 
 (c) fostering sound aquatic conservation and restoration endeavors to benefit recreational fisheries;
 
-(d) providing access to and promoting awareness of opportunities for public participation and enjoyment of U.S. recreational fishery resources;
+(d) ensuring that recreational fishing shall be managed as a sustainable activity in national wildlife refuges, national parks, national monuments, national marine sanctuaries, marine protected areas, or any other relevant conservation or management areas or activities under any Federal authority, consistent with applicable law;
 
-(e) supporting outreach programs designed to stimulate angler participation in the conservation and restoration of aquatic systems;
+(e) providing access to and promoting awareness of opportunities for public participation and enjoyment of U.S. recreational fishery resources;
 
-(f) implementing laws under their purview in a manner that will conserve, restore, and enhance aquatic systems that support recreational fisheries;
+(f) supporting outreach programs designed to stimulate angler participation in the conservation and restoration of aquatic systems;
 
-(g) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
+(g) implementing laws under their purview in a manner that will conserve, restore, and enhance aquatic systems that support recreational fisheries;
 
-(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
+(h) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
 
-(i) assisting private landowners to conserve and enhance aquatic resources on their lands.
+(i) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
+
+(j) assisting private landowners to conserve and enhance aquatic resources on their lands.
 
 Sec. 2. <i>National Recreational Fisheries Coordination Council</i>. A National Recreational Fisheries Coordination Council (“Coordination Council”) is hereby established. The Coordination Council shall consist of seven members, one member designated by each of the following Secretaries—Interior, Commerce, Agriculture, Energy, Transportation, and Defense—and one by the Administrator of the Environmental Protection Agency. The Coordination Council shall: (a) ensure that the social and economic values of healthy aquatic systems that support recreational fisheries are considered by Federal agencies in the course of their actions;
 
@@ -227,6 +229,4 @@ Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the i
 (c) prepare an annual report of its activities, findings, and recommendations for submission to the Coordination Council.
 
 Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

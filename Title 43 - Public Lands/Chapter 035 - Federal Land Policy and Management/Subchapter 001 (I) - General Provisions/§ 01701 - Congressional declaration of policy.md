@@ -20,7 +20,7 @@
 
 &emsp;(9) the United States receive fair market value of the use of the public lands and their resources unless otherwise provided for by statute;
 
-&emsp;(10) uniform procedures for any disposal of public land, acquisition of non-Federal landfor public purposes, and the exchange of such lands be established by statute, requiring each disposal, acquisition, and exchange to be consistent with the prescribed mission of the department or agency involved, and reserving to the Congress review of disposals in excess of a specified acreage;
+&emsp;(10) uniform procedures for any disposal of public land, acquisition of non-Federal land for public purposes, and the exchange of such lands be established by statute, requiring each disposal, acquisition, and exchange to be consistent with the prescribed mission of the department or agency involved, and reserving to the Congress review of disposals in excess of a specified acreage;
 
 &emsp;(11) regulations and plans for the protection of public land areas of critical environmental concern be promptly developed;
 
@@ -48,11 +48,11 @@ Section 101 of Pub. L. 94–579 provided that: “This Act \[enacting this chapt
 
 #### Savings Provision
 
-Section 701 of Pub. L. 94–579 provided that:
+Pub. L. 94–579, title VII, §701, Oct. 21, 1976, 90 Stat. 2786, provided that:
 
 “(a) Nothing in this Act, or in any amendment made by this Act \[see Short Title note above\], shall be construed as terminating any valid lease, permit, patent, right-of-way, or other land use right or authorization existing on the date of approval of this Act \[Oct. 21, 1976\].
 
-“(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between this Act and the Acts of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j) and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail.
+“(b) Notwithstanding any provision of this Act, in the event of conflict with or inconsistency between this Act and the Acts of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j \[1181a et seq., see Tables for classification\]) and May 24, 1939 (53 Stat. 753), insofar as they relate to management of timber resources, and disposition of revenues from lands and resources, the latter Acts shall prevail.
 
 “(c) All withdrawals, reservations, classifications, and designations in effect as of the date of approval of this Act shall remain in full force and effect until modified under the provisions of this Act or other applicable law.
 
@@ -88,7 +88,7 @@ Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \
 
 #### Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
 
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555, provided that: “In fiscal years 2001 through 2008, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects,planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
+Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555, provided that: “In fiscal years 2001 through 2008, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
 
 #### Existing Rights-of-Way
 

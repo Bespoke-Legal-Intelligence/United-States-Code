@@ -4,27 +4,145 @@
 
 The Secretary is authorized to make grants to, or enter into contracts with, institutions of higher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
 
-&emsp;(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
+&emsp;(1) the encouragement of reform and improvement of, and innovation in, postsecondary education and the provision of educational opportunity for all students, including nontraditional students;
 
-&emsp;(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, and combinations of academic and experiential learning;
+&emsp;(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, including—
 
-&emsp;(3) the establishment of institutions and programs based on the technology of communications;
+&emsp;&emsp;(A) efforts that provide academic credit for programs; and
+
+&emsp;&emsp;(B) combinations of academic and experiential learning;
+
+&emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those efforts that utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
 
 &emsp;(4) the carrying out, in postsecondary educational institutions, of changes in internal structure and operations designed to clarify institutional priorities and purposes;
 
 &emsp;(5) the design and introduction of cost-effective methods of instruction and operation;
 
-&emsp;(6) the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;
+&emsp;(6) the introduction of institutional reforms designed to expand individual opportunities for entering and reentering postsecondary institutions and pursuing programs of postsecondary study tailored to individual needs;
 
-&emsp;(7) the introduction of reforms in graduate education, in the structure of academic professions, and in the recruitment and retention of faculties; and
+&emsp;(7) the introduction of reforms in graduate education, in the structure of academic professions, and in the recruitment and retention of faculties;
 
-&emsp;(8) the creation of new institutions and programs for examining and awarding credentials to individuals, and the introduction of reforms in current institutional practices related thereto.
+&emsp;(8) the creation of new institutions and programs for examining and awarding credentials to individuals, and the introduction of reforms in current institutional practices related thereto;
+
+&emsp;(9) the introduction of reforms in remedial education, including English language instruction, to customize remedial courses to student goals and help students progress rapidly from remedial courses into core courses and through postsecondary program completion;
+
+&emsp;(10) the provision of support and assistance to partnerships between institutions of higher education and secondary schools with a significant population of students identified as late-entering limited English proficient students, to establish programs that—
+
+&emsp;&emsp;(A) result in increased secondary school graduation rates of limited English proficient students; and
+
+&emsp;&emsp;(B) increase the number of participating late-entering limited English proficient students who pursue postsecondary education;
+
+&emsp;(11) the creation of consortia that join diverse institutions of higher education to design and offer curricular and cocurricular interdisciplinary programs at the undergraduate and graduate levels, sustained for not less than a 5 year period, that—
+
+&emsp;&emsp;(A) focus on poverty and human capability; and
+
+&emsp;&emsp;(B) include—
+
+&emsp;&emsp;&emsp;(i) a service-learning component; and
+
+&emsp;&emsp;&emsp;(ii) the delivery of educational services through informational resource centers, summer institutes, midyear seminars, and other educational activities that stress the effects of poverty and how poverty can be alleviated through different career paths;
+
+&emsp;(12) the provision of support and assistance for demonstration projects to provide comprehensive support services to ensure that homeless students, or students who were in foster care or were a ward of the court at any time before the age of 13, enroll and succeed in postsecondary education, including providing housing to such students during periods when housing at the institution of higher education is closed or generally unavailable to other students; and
+
+&emsp;(13) the support of efforts to work with institutions of higher education, and nonprofit organizations, that seek to promote cultural diversity in the entertainment media industry, including through the training of students in production, marketing, and distribution of culturally relevant content.
 
 #### (b) Planning grants
 
 The Secretary is authorized to make planning grants to institutions of higher education for the development and testing of innovative techniques in postsecondary education. Such grants shall not exceed $20,000.
 
-(Pub. L. 89–329, title VII, §741, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1796.)
+#### (c) Center for best practices to support single parent students
+
+#### (1) Program authorized
+
+&emsp;The Secretary is authorized to award one grant or contract to an institution of higher education to enable such institution to establish and maintain a center to study and develop best practices for institutions of higher education to support single parents who are also students attending such institutions.
+
+#### (2) Institution requirements
+
+&emsp;The Secretary shall award the grant or contract under this subsection to a four-year institution of higher education that has demonstrated expertise in the development of programs to assist single parents who are students at institutions of higher education, as shown by the institution's development of a variety of targeted services to such students, including on-campus housing, child care, counseling, advising, internship opportunities, financial aid, and financial aid counseling and assistance.
+
+#### (3) Center activities
+
+&emsp;The center funded under this section shall—
+
+&emsp;&emsp;(A) assist institutions implementing innovative programs that support single parents pursuing higher education;
+
+&emsp;&emsp;(B) study and develop an evaluation protocol for such programs that includes quantitative and qualitative methodologies;
+
+&emsp;&emsp;(C) provide appropriate technical assistance regarding the replication, evaluation, and continuous improvement of such programs; and
+
+&emsp;&emsp;(D) develop and disseminate best practices for such programs.
+
+#### (d) Prohibition
+
+#### (1) In general
+
+&emsp;No funds made available under this part shall be used to provide direct financial assistance in the form of grants or scholarships to students who do not meet the requirements of section 1091(a) of this title.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to prevent a student who does not meet the requirements of section 1091(a) of this title from participating in programs funded under this part.
+
+#### (e) Priority
+
+In making grants under this part to any institution of higher education after August 14, 2008, the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
+
+#### (f) Scholarship program for family members of veterans or members of the military
+
+#### (1) Authorization
+
+&emsp;The Secretary shall enter into a contract with a nonprofit organization with demonstrated success in carrying out the activities described in this subsection to carry out a program to provide postsecondary education scholarships for eligible students.
+
+#### (2) Definition of eligible student
+
+&emsp;In this subsection, the term “eligible student” means an individual who is enrolled as a full-time or part-time student at an institution of higher education (as defined in section 1002 of this title) and is—
+
+&emsp;&emsp;(A) a dependent student who is a child of—
+
+&emsp;&emsp;&emsp;(i) an individual who is—
+
+&emsp;&emsp;&emsp;&emsp;(I) serving on active duty during a war or other military operation or national emergency (as defined in section 1088 of this title); or
+
+&emsp;&emsp;&emsp;&emsp;(II) performing qualifying National Guard duty during a war or other military operation or national emergency (as defined in section 1088 of this title); or
+
+&emsp;&emsp;&emsp;(ii) a veteran who—
+
+&emsp;&emsp;&emsp;&emsp;(I) served or performed, as described in clause (i), since September 11, 2001; and
+
+&emsp;&emsp;&emsp;&emsp;(II) died, or has been disabled, as a result of such service or performance; or
+
+&emsp;&emsp;(B) an independent student who—
+
+&emsp;&emsp;&emsp;(i) is a spouse of an individual who is—
+
+&emsp;&emsp;&emsp;&emsp;(I) serving on active duty during a war or other military operation or national emergency (as defined in section 1088 of this title); or
+
+&emsp;&emsp;&emsp;&emsp;(II) performing qualifying National Guard duty during a war or other military operation or national emergency (as defined in section 1088 of this title);
+
+&emsp;&emsp;&emsp;(ii) was (at the time of death of the veteran) a spouse of a veteran who—
+
+&emsp;&emsp;&emsp;&emsp;(I) served or performed, as described in clause (i), since September 11, 2001; and
+
+&emsp;&emsp;&emsp;&emsp;(II) died as a result of such service or performance; or
+
+&emsp;&emsp;&emsp;(iii) is a spouse of a veteran who—
+
+&emsp;&emsp;&emsp;&emsp;(I) served or performed, as described in clause (i), since September 11, 2001; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has been disabled as a result of such service or performance.
+
+#### (3) Awarding of scholarships
+
+&emsp;Scholarships awarded under this subsection shall be awarded based on need with priority given to eligible students who are eligible to receive Federal Pell Grants under subpart 1 of part A of subchapter IV.
+
+#### (4) Maximum scholarship amount
+
+&emsp;The maximum scholarship amount awarded to an eligible student under this subsection for an award year shall be the lesser of $5,000, or the student's cost of attendance (as defined in section 1087<i>ll</i> of this title).
+
+#### (5) Amounts for scholarships
+
+&emsp;All of the amounts appropriated to carry out this subsection for a fiscal year shall be used for scholarships awarded under this subsection, except that the nonprofit organization receiving a contract under this subsection may use not more than one percent of such amounts for the administrative costs of the contract.
+
+(Pub. L. 89–329, title VII, §741, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1796; amended Pub. L. 110–315, title VII, §707(a)–(e), Aug. 14, 2008, 122 Stat. 3356–3358.)
 
 #### Prior Provisions
 
@@ -39,4 +157,26 @@ A prior section 741 of Pub. L. 89–329 was classified to section 1132e of this 
 Another prior section 741 of Pub. L. 89–329 was classified to section 1132e of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 741 of Pub. L. 89–329 was classified to section 1132c of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (a)(1) to (3). Pub. L. 110–315, §707(a)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
+
+“(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, and combinations of academic and experiential learning;
+
+“(3) the establishment of institutions and programs based on the technology of communications;”
+
+Subsec. (a)(6). Pub. L. 110–315, §707(a)(2), added par. (6) and struck out former par. (6) which read as follows: “the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;”.
+
+Subsec. (a)(9) to (13). Pub. L. 110–315, §707(a)(3)–(5), added pars. (9) to (13).
+
+Subsec. (c). Pub. L. 110–315, §707(b), added subsec. (c).
+
+Subsec. (d). Pub. L. 110–315, §707(c), added subsec. (d).
+
+Subsec. (e). Pub. L. 110–315, §707(d), added subsec. (e).
+
+Subsec. (f). Pub. L. 110–315, §707(e), added subsec. (f).
 

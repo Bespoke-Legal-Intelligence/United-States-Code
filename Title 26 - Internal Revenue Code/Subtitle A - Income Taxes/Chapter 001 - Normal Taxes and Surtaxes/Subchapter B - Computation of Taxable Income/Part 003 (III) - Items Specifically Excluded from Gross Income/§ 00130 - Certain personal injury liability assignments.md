@@ -56,7 +56,7 @@ Subsec. (c)(1). Pub. L. 105–34, §962(a)(2), inserted “or the workmen's comp
 
 Subsec. (c)(2)(D). Pub. L. 105–34, §962(a)(3), substituted “paragraph (1) or (2) of section 104(a)” for “section 104(a)(2)”.
 
-1988—Subsec. (c). Pub. L. 100–647, in par. (2), redesignated subpars. (D) and (E) as (C) and (D), respectively, struck out former subpar. (C) which provided that the assignee does not provide to the recipient of such payments rights against the assignee which are greater than those of a general creditor, and as concluding provisions, inserted at end “The determination for purposes of this chapter of when the recipient is treated as having received any payment with respect to which there has been a qualified assignment shall be made without regard to any provision of such assignment which grants the recipient rights as a creditor greater than those of a general creditor.”
+1988—Subsec. (c). Pub. L. 100–647, in par. (2), redesignated subpars. (D) and (E) as (C) and (D), respectively, struck out former subpar. (C) which provided that the assignee does not provide to the recipient of such payments rights against the assignee which are greater than those of a general creditor, and as concluding provisions, inserted at end “The determination for purposes of this chapter of when the recipient is treated as having received any payment with respect to whichthere has been a qualified assignment shall be made without regard to any provision of such assignment which grants the recipient rights as a creditor greater than those of a general creditor.”
 
 1986—Subsec. (c). Pub. L. 99–514 inserted “(in a case involving physical injury or physical sickness)”.
 

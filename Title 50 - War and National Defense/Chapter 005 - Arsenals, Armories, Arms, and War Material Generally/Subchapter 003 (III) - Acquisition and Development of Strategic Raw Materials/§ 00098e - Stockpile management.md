@@ -26,7 +26,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials
 
-(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, thestockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
+(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
 
 (2) Materials in the stockpile (the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law) shall be available for transfer at fair market value as payment for expenses (including transportation and other incidental expenses) of acquisition of materials, or of upgrading, refining, processing, or rotating materials, under this subchapter.
 
@@ -54,11 +54,11 @@ Provisions similar to those in this section were contained in former section 98b
 
 #### Amendments
 
-1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1997—Subsec. (b). Pub. L. 105–85, in first sentence, substituted “strategic and critical materials from the stockpile shall be made in accordance with the next sentence” for “materials from the stockpile shall be made by formal advertising or competitive negotiation procedures”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85, in first sentence, substituted “strategic and critical materials from the stockpile shall be made in accordance with the next sentence” for “materials from the stockpile shall be made by formal advertising or competitive negotiation procedures”.
 
-1996—Subsec. (d)(1). Pub. L. 104–201, §3312(b), substituted “45 days” for “thirty days”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §3312(b), substituted “45 days” for “thirty days”.
 
 Pub. L. 104–106, §1502(e)(1)(A), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
@@ -66,11 +66,11 @@ Subsec. (d)(2). Pub. L. 104–201, §3312(c), substituted “45 days” for “t
 
 Pub. L. 104–106, §1502(e)(1)(B), substituted “such congressional committees” for “the Committees on Armed Services of the Senate and House of Representatives”.
 
-1994—Subsec. (a)(4). Pub. L. 103–337 inserted “or technological obsolescence” after “deterioration”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–337 inserted “or technological obsolescence” after “deterioration”.
 
-1991—Subsec. (a)(4). Pub. L. 102–190 inserted before semicolon “or better material”.
+<b>1991</b>—Subsec. (a)(4). Pub. L. 102–190 inserted before semicolon “or better material”.
 
-1990—Subsec. (a)(3). Pub. L. 101–510, §3301(b)(1), substituted “upgrading, refining,” for “refining”, inserted “(notwithstanding any intermediate stockpile quantity established for such material)” after “stockpile”, and substituted “storage, subsequent disposition, and immediate use in a national emergency” for “storage and subsequent disposition”.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–510, §3301(b)(1), substituted “upgrading, refining,” for “refining”, inserted “(notwithstanding any intermediate stockpile quantity established for such material)” after “stockpile”, and substituted “storage, subsequent disposition, and immediate use in a national emergency” for “storage and subsequent disposition”.
 
 Subsec. (c)(1). Pub. L. 101–510, §3301(b)(2), inserted “under subsection (a)(1) of this section” after “the acquisition” and “under subsection (a)(5) or (a)(6) of this section” after “the disposal”.
 
@@ -78,13 +78,13 @@ Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted “(the disposition
 
 Subsec. (c)(3), (4). Pub. L. 101–510, §3301(a), added par. (3) and redesignated former par. (3) as (4).
 
-1989—Subsec. (b). Pub. L. 101–189, §3314(1), inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “disposal of such materials shall be made for domestic consumption.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–189, §3314(1), inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “disposal of such materials shall be made for domestic consumption.”
 
 Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”.
 
-1986—Subsec. (a)(3). Pub. L. 99–661 substituted “a form more” for “the form most”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–661 substituted “a form more” for “the form most”.
 
-1981—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
+<b>1981</b>—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
 
 #### Delegation of Functions
 

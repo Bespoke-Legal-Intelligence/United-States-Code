@@ -56,7 +56,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The PublicHealth and Welfare. Section 204 of the Act is classified to section 404 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to section 404 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 102–589, which was approved Nov. 10, 1992.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refun
 
 #### Effective Date
 
-Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code, after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
+Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code,after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
 
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 

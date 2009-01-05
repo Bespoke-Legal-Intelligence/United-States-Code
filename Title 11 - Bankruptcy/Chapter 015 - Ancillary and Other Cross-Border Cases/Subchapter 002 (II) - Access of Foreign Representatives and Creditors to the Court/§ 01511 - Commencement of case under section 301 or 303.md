@@ -6,7 +6,7 @@
 
 &emsp;(2) a voluntary case under section 301 or 302, if the foreign proceeding is a foreign main proceeding.
 
-(b) The petition commencing a case under subsection (a) must be accompanied by a certifiedcopy of an order granting recognition. The court where the petition for recognition has been filed must be advised of the foreign representative's intent to commence a case under subsection (a) prior to such commencement.
+(b) The petition commencing a case under subsection (a) must be accompanied by a certified copy of an order granting recognition. The court where the petition for recognition has been filed must be advised of the foreign representative's intent to commence a case under subsection (a) prior to such commencement.
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 138.)
 

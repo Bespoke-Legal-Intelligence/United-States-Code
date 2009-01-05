@@ -58,7 +58,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 &emsp;&emsp;&emsp;&emsp;(I) emergency supplies of breathable air for individuals trapped underground sufficient to maintain such individuals for a sustained period of time;
 
-&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by law under the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
+&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by lawunder the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
 
 &emsp;&emsp;&emsp;&emsp;(III) a maintenance schedule for checking the reliability of self rescuers, retiring older self-rescuers first, and introducing new self-rescuer technology, such as units with interchangeable air or oxygen cylinders not requiring doffing to replenish airflow and units with supplies of greater than 60 minutes, as they are approved by the Administration and become available on the market; and
 
@@ -105,6 +105,10 @@ Telephone service or equivalent two-way communication facilities, approved by th
 &emsp;&emsp;Notwithstanding any other provision of this chapter, nothing in this section, and no response and preparedness plan developed under this section, shall be approved if it reduces the protection afforded miners by an existing mandatory health or safety standard.
 
 (Pub. L. 91–173, title III, §316, Dec. 30, 1969, 83 Stat. 787; Pub. L. 109–236, §2, June 15, 2006, 120 Stat. 493.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

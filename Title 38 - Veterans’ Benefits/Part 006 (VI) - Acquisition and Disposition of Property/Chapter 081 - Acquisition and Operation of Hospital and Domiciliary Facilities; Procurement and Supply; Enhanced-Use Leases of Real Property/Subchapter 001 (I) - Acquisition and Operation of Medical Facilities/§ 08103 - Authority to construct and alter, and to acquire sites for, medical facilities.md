@@ -10,7 +10,7 @@
 
 (b) Whenever the Secretary considers it to be in the interest of the United States to construct a new medical facility to replace an existing medical facility, the Secretary (1) may demolish the existing facility and use the site on which it is located for the site of the new medical facility, or (2) if in the judgment of the Secretary it is more advantageous to construct such medical facility on a different site in the same locality, may exchange such existing facility and the site of such existing facility for the different site.
 
-(c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for anothersite to be used for that purpose or may sell such site.
+(c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for another site to be used for that purpose or may sell such site.
 
 (d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursing home care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
 

@@ -10,7 +10,7 @@ Act June 8, 1906, ch. 3060, 34 Stat. 225, which is classified generally to secti
 
 #### National Monument Commission
 
-Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a useful monument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
+Act Aug. 31, 1954, ch. 1160, 68 Stat. 1029, provided for a Commission to obtain plans and designs for a usefulmonument to the nation symbolizing to the United States and the world the ideals of a democracy as embodied in the five freedoms (speech, religion, press, assembly, and petition) and to submit such plans to Congress for legislative authorization after approval by the Secretary of the Interior, the National Capital Planning Commission, and the Commission of Fine Arts, The Commission terminated 30 days after submission of required report which was submitted in 1957 but audit of business was not completed until September 1964.
 
 National Monuments Established Under Presidential Proclamation
 
@@ -128,7 +128,7 @@ El Morro National Monument, New Mexico.—Proc. No. 695, Dec. 8, 1906, 34 Stat. 
 
 Fort Jefferson National Monument, Florida \[Monument abolished and incorporated in Dry Tortugas National Park, see section 410xx of this title\].—Proc. No. 2112, Jan. 4, 1935, 49 Stat. 3430; Pub. L. 96–287, title II, June 28, 1980, 94 Stat. 600; Pub. L. 102–525, title II, §201(c), Oct. 26, 1992, 106 Stat. 3440.
 
-Fort Laramie National Monument, Wyoming \[Monument redesignated Fort Laramie Historic Site by Pub. L. 86–444, §3, Apr. 29, 1960, 74 Stat. 84\].—Proc. No. 2292, July 16, 1938, 53 Stat. 2461.
+Fort Laramie National Monument, Wyoming \[Monument redesignated Fort Laramie National Historic Site by Pub. L. 86–444, §3, Apr. 29, 1960, 74 Stat. 84\].—Proc. No. 2292, July 16, 1938, 53 Stat. 2461.
 
 Fort Marion National Monument, Florida \[Monument redesignated Castillo de San Marcos National Monument by act June 5, 1942, ch. 337, 56 Stat. 312\].—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
@@ -136,7 +136,7 @@ Fort Matanzas National Monument, Florida.—Proc. No. 1713, Oct. 15, 1924, 43 St
 
 Fort Niagara National Monument, New York.—Proc. No. 1745, Sept. 5, 1925, 44 Stat. 2582.
 
-Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Nov. 12, 1996, Pub. L. 104–333, div. I, title VIII, §807, 110 Stat. 4188.
+Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Pub. L. 104–333, div. I, title VIII, §807, Nov. 12, 1996, 110 Stat. 4188.
 
 Fort Wood National Monument, New York.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968.
 
@@ -182,7 +182,7 @@ Ironwood Forest National Monument, Arizona.—Proc. No. 7320, June 9, 2000, 65 F
 
 Jackson Hole National Monument, Wyoming \[Monument abolished and incorporated in Grand Teton National Park, see section 406d–1 of this title\].—Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731.
 
-Jewel Cave National Monument, South Dakota.—Proc. No. 799, Feb. 7, 1908, 35 Stat. 2180.
+Jewel Cave National Monument, South Dakota.—Proc. No. 799, Feb. 7, 1908, 35 Stat. 2180; Pub. L. 89–250, Oct. 9, 1965, 79 Stat. 971.
 
 Joshua Tree National Monument, California \[see section 450ii of this title\] \[Monument abolished and incorporated in Joshua Tree National Park, see section 410aaa–22 of this title\].—Proc. No. 2193, Aug. 10, 1936, 50 Stat. 1760; Pub. L. 103–433, title IV, §402, Oct. 31, 1994, 108 Stat. 4488.
 
@@ -210,7 +210,7 @@ Marble Canyon National Monument, Arizona.—Proc. No. 3889, Jan. 20, 1969, 83 St
 
 Meriwether Lewis National Monument, Tennessee \[Monument included in Natchez Trace Parkway, see section 460–1 of this title\].—Proc. No. 1730, Feb. 6, 1925, 43 Stat. 1986; Proc. No. 1825, Dec. 6, 1927, 45 Stat. 2935.
 
-Minidoka Internment National Monument, Idaho.—Proc. No. 7395, Jan. 17, 2001, 66 F.R. 7347.
+Minidoka Internment National Monument, Idaho \[Monument abolished and lands incorporated in Minidoka Historic Site by Pub. L. 110–229, title III, §313, May 8, 2008, 122 Stat. 770\].—Proc. No. 7395, Jan. 17, 2001, 66 F.R. 7347.
 
 Misty Fjords National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4623, Dec. 1, 1978, 93 Stat. 1466.
 
@@ -312,6 +312,8 @@ White Sands National Monument, New Mexico.—Proc. No. 2025, Jan. 18, 1933, 47 S
 
 c53; Pub. L. 104–201, div. B, title XXVIII, §2854, Sept. 23, 1996, 110 Stat. 2803.
 
+World War II Valor In the Pacific National Monument, Alaska, California, and Hawaii.—Proc. No. 8327, Dec. 5, 2008, 73 F.R. 75293.
+
 Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93 Stat. 1470.
 
 Wupatki National Monument, Arizona.—Proc. No. 1721, Dec. 9, 1924, 43 Stat. 1977; Proc. No. 2243, July 9, 1937, 52 Stat. 1841; Proc. No. 2454, Jan. 20, 1941, 55 Stat. 1608; Pub. L. 104–333, div. I, title II, §207, Nov. 12, 1996, 110 Stat. 4107.
@@ -351,6 +353,8 @@ Kill Devil National Monument, North Carolina.—Act Mar. 2, 1927, ch. 251, 44 St
 Little Bighorn Battlefield National Monument, Montana.—Pub. L. 102–201, titles I, II, Dec. 10, 1991, 105 Stat. 1631.
 
 Mount St. Helens National Volcanic Monument, Washington.—Pub. L. 97–243, Aug. 26, 1982, 96 Stat. 301; Pub. L. 105–279, Oct. 23, 1998, 112 Stat. 2690.
+
+National Military Working Dog Teams Monument, Virginia—Pub. L. 110–181, div. B, title XXVIII, §2877, Jan. 28, 2008, 122 Stat. 563.
 
 Newberry National Volcanic Monument, Oregon.—Pub. L. 101–522, Nov. 5, 1990, 104 Stat. 2288.
 
@@ -464,5 +468,5 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and makerecommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 

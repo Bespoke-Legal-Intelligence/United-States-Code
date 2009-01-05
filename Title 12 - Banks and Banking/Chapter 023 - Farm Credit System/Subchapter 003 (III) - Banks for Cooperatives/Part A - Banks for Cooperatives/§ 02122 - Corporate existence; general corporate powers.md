@@ -16,7 +16,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (7) Operate under the direction of its board of directors.
 
-(8) Elect by its board of directors a president, any vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, including joint employees as provided in this chapter, define their duties and require surety bonds or make other provisions against losses occasioned by employees.
+(8) Elect by its board of directors a president, any vice presidents, a secretary, a treasurer, and provide for such other officers, employees, andagents as may be necessary, including joint employees as provided in this chapter, define their duties and require surety bonds or make other provisions against losses occasioned by employees.
 
 (9) Prescribe by its board of directors its bylaws not inconsistent with law providing for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; its officers, employees, or agents elected or provided for; its property acquired, held, and transferred; its loans made; its general business conducted; and the privileges granted it by law exercised and enjoyed.
 
@@ -24,7 +24,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (11)(A) Participate in loans under this subchapter with one or more other banks for cooperatives and with commercial banks and other financial institutions upon such terms as may be agreed among them, and participate with one or more other Farm Credit System institutions in loans made under this subchapter or other subchapters of this chapter on the basis prescribed in section 2206 of this title.
 
-(B)(i) Participate in any loan of a type otherwise authorized under this subchapter that is made to a similar entity by any institution in the business of extending credit, including purchases of participations in loans to financeinternational trade transactions involving the sale of agricultural commodities or the products thereof, except that—
+(B)(i) Participate in any loan of a type otherwise authorized under this subchapter that is made to a similar entity by any institution in the business of extending credit, including purchases of participations in loans to finance international trade transactions involving the sale of agricultural commodities or the products thereof, except that—
 
 &emsp;(I) a bank for cooperatives may not participate in a loan—
 
@@ -54,7 +54,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (16) Exercise by its board of directors or authorized officers, employees, or agents all such incidental powers as may be necessary or expedient to carry on the business of the bank.
 
-(17) As may be authorized by the board of directors, maintain credit balances and pay or receive fees or interest thereon, for the purpose of assisting in the transfer of funds to or from parties to transactions that may be financed under section 2128(b) of this title: <i>Provided, however</i>, That nothing herein shall authorize the banks for cooperatives to engage in the business of accepting domestic deposits.
+(17) As may be authorized by the board of directors, maintain credit balances and pay or receive fees or interest thereon, for the purpose of assisting in the transfer of funds to or from parties to transactions that may be financed under section 2128(b) of this title: <i>Provided, however</i>, That nothing herein shall authorize the banksfor cooperatives to engage in the business of accepting domestic deposits.
 
 (18) As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
 
@@ -64,7 +64,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 2002—Par. (11)(B)(iii), (iv). Pub. L. 107–171 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “With respect to similar entities that are eligible to borrow from a Farm Credit Bank or association under subchapter I or II of this chapter, the authority of a bank for cooperatives to participate in loans to the entities under this subparagraph shall be subject to the prior approval of the Farm Credit Bank or Banks in whose chartered territory the entity is eligible to borrow. The approval may be granted on an annual basis and under such terms and conditions as may be agreed on between the bank for cooperatives and the Farm Credit Bank or Banks that serve the territory.”
 
-1994—Par. (11)(B)(i)(I)(bb). Pub. L. 103–376, §6, substituted “other Farm Credit System institutions” for“the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
+1994—Par. (11)(B)(i)(I)(bb). Pub. L. 103–376, §6, substituted “other Farm Credit System institutions” for “the other banks for cooperatives under this subparagraph” and “all Farm Credit System institutions” for “all banks for cooperatives”.
 
 Par. (11)(B)(iv). Pub. L. 103–376, §2, added cl. (iv).
 

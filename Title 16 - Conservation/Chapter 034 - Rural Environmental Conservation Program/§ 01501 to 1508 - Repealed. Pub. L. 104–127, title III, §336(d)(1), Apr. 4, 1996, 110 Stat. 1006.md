@@ -8,7 +8,7 @@ Section 1503, Pub. L. 91–524, title X, §1003, as added Pub. L. 93–86, §1(2
 
 Section 1504, Pub. L. 91–524, title X, §1004, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 243, authorized furnishing of conservation materials to eligible owners and operators.
 
-Section 1505, Pub. L. 91–524, title X, §1005, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 243; amendedPub. L. 95–113, title XV, §1509, Sept. 29, 1977, 91 Stat. 1022, authorized establishment of multiyear set-aside contracts.
+Section 1505, Pub. L. 91–524, title X, §1005, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 243; amended Pub. L. 95–113, title XV, §1509, Sept. 29, 1977, 91 Stat. 1022, authorized establishment of multiyear set-aside contracts.
 
 Section 1506, Pub. L. 91–524, title X, §1006, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 244, authorized issuance of rules and regulations as well as limitations on total retired acreage.
 

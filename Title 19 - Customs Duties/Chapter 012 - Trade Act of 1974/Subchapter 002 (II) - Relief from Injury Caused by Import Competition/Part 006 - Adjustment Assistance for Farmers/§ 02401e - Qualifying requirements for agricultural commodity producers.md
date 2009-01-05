@@ -24,7 +24,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistance under this part in any year in which the average adjusted gross income of the producer exceeds the level set forth in section 1308–3a of title 7.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this part, an agricultural commodity producer shall not be eligible for assistanceunder this part in any year in which the average adjusted gross income of the producer exceeds the level set forth in section 1308–3a of title 7.
 
 #### (ii) Certification
 
@@ -36,7 +36,7 @@
 
 #### (B) Counter-cyclical payments
 
-&emsp;&emsp;The total amount of payments made to an agricultural producer under this part during any crop year may not exceed the limitation on counter-cyclical payments set forth in section 1308(c) of title 7.
+&emsp;&emsp;The total amount of payments made to an agricultural producer under this part during any crop year may not exceed the limitation on counter-cyclical payments set forth in section 1308(c) <sup>3</sup> of title 7.
 
 #### (C) Definitions
 
@@ -92,6 +92,10 @@ An agricultural commodity producer entitled to receive a cash benefit under this
 
 (Pub. L. 93–618, title II, §296, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949; amended Pub. L. 108–429, title II, §2004(a)(9), Dec. 3, 2004, 118 Stat. 2590.)
 
+#### References in Text
+
+Section 1308 of title 7, referred to in subsec. (a)(2)(B), was subsequently amended, and provisions relating to counter-cyclical payments are now contained in subsecs. (b) and (c) of that section.
+
 #### Amendments
 
 2004—Subsec. (a)(1). Pub. L. 108–429, §2004(a)(9)(A)(i), substituted “adjustment assistance under this part” for “trade adjustment allowance” and “such assistance” for “such allowance” in introductory provisions.
@@ -107,4 +111,6 @@ No adjustment assistance, vouchers, allowances, or other payments or benefits ma
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be a reference to clause (i).</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

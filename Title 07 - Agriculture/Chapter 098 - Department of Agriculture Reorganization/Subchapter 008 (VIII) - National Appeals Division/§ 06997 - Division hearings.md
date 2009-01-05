@@ -22,7 +22,7 @@ Upon a timely request for a hearing under section 6996(b) of this title, an appe
 
 #### (1) Location
 
-&emsp;A hearing on an adverse decision shall be held in the State of residence of the appellant or at a location that is otherwise convenient to the appellant and the Division.
+&emsp;A hearing on an adverse decision shall be held in the State of residence of the appellantor at a location that is otherwise convenient to the appellant and the Division.
 
 #### (2) Evidentiary hearing
 

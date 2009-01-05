@@ -172,7 +172,7 @@ Form for discontinuation.—A request under subparagraph (B) to discontinue part
 
 &emsp;&emsp;(D)
 
-Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person who submits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
+Withdrawal of request for discontinuation.—The Secretary concerned shall furnish promptly to each person whosubmits a request under subparagraph (B) to discontinue participation in the Plan a written statement of the advantages and disadvantages of participating in the Plan and the possible disadvantages of discontinuing participation. A person may withdraw the request to discontinue participation if withdrawn within 30 days after having been submitted to the Secretary concerned.
 
 &emsp;&emsp;(E)
 
@@ -424,7 +424,7 @@ Manner of making election.—An election under paragraph (1) shall be made in su
 
 Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152; Pub. L. 108–136, div. A, title VI, §§644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, 117 Stat. 1517–1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–364, div. A, title VI, §§643(a), 644(a), title X, §1071(a)(8), Oct. 17, 2006, 120 Stat. 2260, 2261, 2398.)
 
 #### Amendments
 
@@ -512,7 +512,7 @@ Subsec. (b)(5). Pub. L. 99–661, §641(b)(1), inserted “(A) whether the elect
 
 Subsec. (d)(2). Pub. L. 99–661, §642(a)(1), substituted “if there is no surviving spouse or if the member's surviving spouse subsequently dies” for “if the member and the member's spouse die as a result of a common accident”.
 
-Subsec. (f)(2). Pub. L. 99–661, §642(a)(2), substituted “if there is no surviving spouse or if the person's survivingspouse subsequently dies” for “if the person and the person's spouse die as a result of a common accident”.
+Subsec. (f)(2). Pub. L. 99–661, §642(a)(2), substituted “if there is no surviving spouse or if the person's surviving spouse subsequently dies” for “if the person and the person's spouse die as a result of a common accident”.
 
 1985—Subsec. (a)(1)(A). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
@@ -522,7 +522,7 @@ Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or r
 
 Subsec. (a)(3). Pub. L. 99–145, §721(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
+“(A) If a person who is eligible under paragraph (1)(A) to participate in the Plan and who is married elects not to participate in the Plan at the maximum level, orelects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that election.
 
 “(B) If a person who is eligible under paragraph (1)(B) to participate in the Plan and who is married does not elect to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that action.”
 
@@ -678,7 +678,7 @@ Reserve-component annuity.—A person making an election under paragraph (1) by 
 
 “(b)
 
-Election To Increase Coverage Under SBP.—A person who on the day before the first day of the openenrollment period is a participant in the Survivor Benefit Plan but is not participating at the maximum base amount or is providing coverage under the Plan for a dependent child and not for the person's spouse or former spouse may, during the open enrollment period, elect to—
+Election To Increase Coverage Under SBP.—A person who on the day before the first day of the open enrollment period is a participant in the Survivor Benefit Plan but is not participating at the maximum base amount or is providing coverage under the Plan for a dependent child and not for the person's spouse or former spouse may, during the open enrollment period, elect to—
 
 &emsp;“(1) participate in the Plan at a higher base amount (not in excess of the participant's retired pay); or
 
@@ -922,7 +922,7 @@ Section 723(d) of Pub. L. 99–145 provided that person who before effective dat
 
 #### Open Enrollment Period for Survivor Benefit Plan
 
-Pub. L. 97–35, title II, §212, Aug. 13, 1981, 95 Stat. 383, as amended by Pub. L. 97–252, title XI, §1119, Sept. 8, 1982, 96 Stat. 753, provided that certain members or former members of the uniformed services who, on Aug. 13, 1981, were not participants in the Survivor Benefit Plan established under this subchapter or were not participants in the Plan at the maximum level, could elect to participate in the Plan or to participate in the Plan at a higher level, during an open enrollment period beginning Oct. 1, 1981, and ending Sept. 30, 1982, for members and former members entitled to retired or retainer pay on Aug. 13, 1981, or beginning on Oct. 1, 1982, and ending on Sept. 30, 1983, for members or former members who on Aug. 13, 1981, would have been entitled toretired pay, but for the fact they were under 60 years of age on that date.
+Pub. L. 97–35, title II, §212, Aug. 13, 1981, 95 Stat. 383, as amended by Pub. L. 97–252, title XI, §1119, Sept. 8, 1982, 96 Stat. 753, provided that certain members or former members of the uniformed services who, on Aug. 13, 1981, were not participants in the Survivor Benefit Plan established under this subchapter or were not participants in the Plan at the maximum level, could elect to participate in the Plan or to participate in the Plan at a higher level, during an open enrollment period beginning Oct. 1, 1981, and ending Sept. 30, 1982, for members and former members entitled to retired or retainer pay on Aug. 13, 1981, or beginning on Oct. 1, 1982, and ending on Sept. 30, 1983, for members or former members who on Aug. 13, 1981, would have been entitled to retired pay, but for the fact they were under 60 years of age on that date.
 
 #### Surviving Spouse; Annuity Payment and Reduction Provisions; Election of Annuity; Definitions; Effective Date
 
@@ -988,7 +988,7 @@ Section 3 of Pub. L. 92–425, as amended by Pub. L. 93–155, title VIII, §804
 
 “(e) An election made under subsection (a) or (b) of this section is effective on the date it is received by the Secretary concerned, as defined in section 101(5) of title 37, United States Code.
 
-“(f) Sections 1449, 1453, and 1454 of title 10, United States Code, as added by clause (3) of the first sectionof this Act \[as part of this subchapter\], are applicable to persons covered by this section.”
+“(f) Sections 1449, 1453, and 1454 of title 10, United States Code, as added by clause (3) of the first section of this Act \[as part of this subchapter\], are applicable to persons covered by this section.”
 
 #### Income Supplement for Certain Widows of Retired Members of the Uniformed Forces; Special Annuity for Widows of Commissioned Personnel of the Public Health Service and National Oceanic and Atmospheric Administration in Lieu of VA Pension
 

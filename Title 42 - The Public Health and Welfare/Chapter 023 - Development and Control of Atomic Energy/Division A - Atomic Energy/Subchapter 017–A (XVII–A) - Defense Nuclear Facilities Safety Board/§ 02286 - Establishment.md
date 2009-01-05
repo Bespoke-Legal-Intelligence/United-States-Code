@@ -12,7 +12,7 @@ There is hereby established an independent establishment in the executive branch
 
 (3) No member of the Board may be an employee of, or have any significant financial relationship with, the Department of Energy or any contractor of the Department of Energy.
 
-(4) Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of theSenate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.
+(4) Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.
 
 #### (c) Chairman and Vice Chairman
 
@@ -100,7 +100,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;“(15) An assessment of the comparative advantages and disadvantages to the Department of Energy in the event some or all Department of Energy defense nuclear facilities were no longer included in the functions of the Board and were regulated by the Nuclear Regulatory Commission.
 
-&emsp;“(16) A comparison of the cost, as identified by the Nuclear Regulatory Commission, that would be incurred at a gaseous diffusion plant to comply with regulations issued by the Nuclear Regulatory Commission, with the cost that would be incurred by a gaseous diffusion plant if such a plant was consideredto be a Department of Energy defense nuclear facility as defined by chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 et seq.).
+&emsp;“(16) A comparison of the cost, as identified by the Nuclear Regulatory Commission, that would be incurred at a gaseous diffusion plant to comply with regulations issued by the Nuclear Regulatory Commission, with the cost that would be incurred by a gaseous diffusion plant if such a plant was considered to be a Department of Energy defense nuclear facility as defined by chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 et seq.).
 
 “(b)
 

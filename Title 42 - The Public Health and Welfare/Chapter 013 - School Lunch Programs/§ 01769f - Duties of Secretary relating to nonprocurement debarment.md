@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (3) Exception
 
-&emsp;If the Secretary determines that a decision on initiating nonprocurement debarment proceedings cannot be made within 180 days after notification of the occurrence of a cause for debarment described in paragraph (2) becauseof the need to further investigate matters relating to the possible debarment, the Secretary may have such additional time as the Secretary considers necessary to make a decision, but not to exceed an additional 180 days.
+&emsp;If the Secretary determines that a decision on initiating nonprocurement debarment proceedings cannot be made within 180 days after notification of the occurrence of a cause for debarment described in paragraph (2) because of the need to further investigate matters relating to the possible debarment, the Secretary may have such additional time as the Secretary considers necessary to make a decision, but not to exceed an additional 180 days.
 
 #### (4) Mandatory child nutrition program debarment periods
 

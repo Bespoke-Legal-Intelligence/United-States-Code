@@ -30,7 +30,7 @@
 | [5125\.](%C2%A7%2005125%20-%20Preemption.md) | Preemption. |
 | [5126\.](%C2%A7%2005126%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [5127\.](%C2%A7%2005127%20-%20Judicial%20review.md) | Judicial review. |
-| [5128\.](%C2%A7%2005128%20-%20Authorizations%20of%20appropriations.md) | Authorization of appropriations.<sup>1</sup> |
+| [5128\.](%C2%A7%2005128%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,8 +39,6 @@
 2005—Pub. L. 109–59, title VII, §§7111, 7115(a)(2), (h), 7123(c), Aug. 10, 2005, 119 Stat. 1899, 1901, 1908, struck out item 5111 “Rail tank cars”, substituted “Special permits and exclusions” for “Exemptions and exclusions” in item 5117, struck out item 5118 “Inspectors”, added items 5127 and 5128, and struck out former item 5127 “Authorization of appropriations”.
 
 2001—Pub. L. 107–56, title X, §1012(a)(2), Oct. 26, 2001, 115 Stat. 397, added item 5103a.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -75,4 +73,4 @@
 - [&sect; 05125 - Preemption](%C2%A7%2005125%20-%20Preemption.md)
 - [&sect; 05126 - Relationship to other laws](%C2%A7%2005126%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 05127 - Judicial review](%C2%A7%2005127%20-%20Judicial%20review.md)
-- [&sect; 05128 - Authorizations of appropriations](%C2%A7%2005128%20-%20Authorizations%20of%20appropriations.md)
+- [&sect; 05128 - Authorization of appropriations](%C2%A7%2005128%20-%20Authorization%20of%20appropriations.md)

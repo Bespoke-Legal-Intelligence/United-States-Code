@@ -8,7 +8,7 @@
 
 &emsp;(3) deny, revise, or ratify any request for regular, supplemental, or deficiency appropriations prior to any submission of such request to the Office of Management and Budget by the Chair;
 
-&emsp;(4) procure for the Commission temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, United States Code;
+&emsp;(4) procure for the Commission temporary and intermittent services to the same extentas is authorized by section 3109(b) of title 5, United States Code;
 
 &emsp;(5) utilize, with their consent, the services, equipment, personnel, information, and facilities of other Federal, State, local, and private agencies and instrumentalities with or without reimbursement therefor;
 
@@ -64,7 +64,7 @@
 
 (f) The Commission may—
 
-&emsp;(1) use available funds to enter into contracts for the acquisition of severable services for a period that begins in 1 fiscal year andends in the next fiscal year, to the same extent as executive agencies may enter into such contracts under the authority of section 303L of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253<i>l</i>);
+&emsp;(1) use available funds to enter into contracts for the acquisition of severable services for a period that begins in 1 fiscal year and ends in the next fiscal year, to the same extent as executive agencies may enter into such contracts under the authority of section 303L of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253<i>l</i>);
 
 &emsp;(2) enter into multi-year contracts for the acquisition of property or services to the same extent as executive agencies may enter into such contracts under the authority of section 304B of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254c); and
 

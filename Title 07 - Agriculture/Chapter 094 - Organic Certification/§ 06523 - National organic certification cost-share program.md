@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $5,000,000 for fiscal year 2002, to remain available until expended, to establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
 
 #### (b) Federal share
 
@@ -12,9 +12,13 @@ Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acti
 
 #### (2) Maximum amount
 
-&emsp;The maximum amount of a payment made to a producer or handler under this section shall be $500.
+&emsp;The maximum amount of a payment made to a producer or handler under this section shall be $750.
 
-(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514.)
+#### (c) Reporting
+
+Not later than March 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the requests by, disbursements to, and expenditures for each State under the program during the current and previous fiscal year, including the number of producers and handlers served by the program in the previous fiscal year.
+
+(Pub. L. 107–171, title X, §10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, §10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10301, June 18, 2008, 122 Stat. 1664, 2108.)
 
 #### References in Text
 
@@ -22,5 +26,19 @@ The Organic Foods Production Act of 1990, referred to in subsec. (a), is title X
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Organic Foods Production Act of 1990 which comprises this chapter.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
+
+Subsec. (b)(2). Pub. L. 110–246, §10301(2), substituted “$750” for “$500”.
+
+Subsec. (c). Pub. L. 110–246, §10301(3), added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

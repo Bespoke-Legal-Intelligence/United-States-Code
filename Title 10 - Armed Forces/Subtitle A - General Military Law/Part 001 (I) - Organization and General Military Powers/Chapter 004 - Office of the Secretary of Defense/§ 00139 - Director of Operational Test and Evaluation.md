@@ -18,31 +18,13 @@
 
 &emsp;(2) provide guidance to and consult with the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
 
-&emsp;(3) provide guidance to and consult with the officials described in paragraph (2) with respect to operational test and evaluation or survivability testing (or both) within the Department of Defense of force protection equipment (including non-lethal weapons), which, in such a case—
+&emsp;(3) monitor and review all operational test and evaluation in the Department of Defense;
 
-&emsp;&emsp;(A) shall be guidance and consultation for the purposes of—
+&emsp;(4) coordinate operational testing conducted jointly by more than one military department or defense agency;
 
-&emsp;&emsp;&emsp;(i) expediting suitable operational test and evaluation;
+&emsp;(5) review and make recommendations to the Secretary of Defense on all budgetary and financial matters relating to operational test and evaluation, including operational test facilities and equipment, in the Department of Defense; and
 
-&emsp;&emsp;&emsp;(ii) providing objective subject-matter expertise;
-
-&emsp;&emsp;&emsp;(iii) encouraging data sharing between Department of Defense components; and
-
-&emsp;&emsp;&emsp;(iv) where appropriate, facilitating the use of common test standards; and
-
-&emsp;&emsp;(B) does not authorize the Director—
-
-&emsp;&emsp;&emsp;(i) to approve test and evaluation plans for such equipment; or
-
-&emsp;&emsp;&emsp;(ii) to in any manner delay deployment of such equipment;
-
-&emsp;(4) monitor and review all operational test and evaluation in the Department of Defense;
-
-&emsp;(5) coordinate operational testing conducted jointly by more than one military department or defense agency;
-
-&emsp;(6) review and make recommendations to the Secretary of Defense on all budgetary and financial matters relating to operational test and evaluation, including operational test facilities and equipment, in the Department of Defense; and
-
-&emsp;(7) monitor and review the live fire testing activities of the Department of Defense provided for under section 2366 of this title.
+&emsp;(6) monitor and review the live fire testing activities of the Department of Defense provided for under section 2366 of this title.
 
 (c) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Director shall consult closely with, but the Director and the Director's staff are independent of, the Under Secretary of Defense for Acquisition, Technology, and Logistics and all other officers and entities of the Department of Defense responsible for acquisition.
 
@@ -54,9 +36,15 @@
 
 (3) The Director shall have access to all records and data in the Department of Defense (including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
 
-(f) The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager for that program for consideration in the acquisition decisionmaking process.
+(f)(1) The Director of the Missile Defense Agency shall make available to the Director of Operational Test and Evaluation the results of all tests and evaluations conducted by the Missile Defense Agency and of all studies conducted by the Missile Defense Agency in connection with tests and evaluations in the Missile Defense Agency.
 
-(g)(1) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
+(2) The Director of Operational Test and Evaluation may require that such observers as the Director designates be present during the preparation for and the conducting of any test and evaluation conducted by the Missile Defense Agency.
+
+(3) The Director of Operational Test and Evaluation shall have access to all records and data in the Department of Defense (including the records and data of the Missile Defense Agency) that the Director considers necessary to review in order to carry out his duties under this subsection.
+
+(g) The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager for that program for consideration in the acquisition decisionmaking process.
+
+(h)(1) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
 
 (2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Congress not later than 10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31.
 
@@ -66,13 +54,13 @@
 
 (5) The Secretary may comment on any report of the Director to Congress under this subsection.
 
-(h) The Director shall comply with requests from Congress (or any committee of either House of Congress) for information relating to operational test and evaluation in the Department of Defense.
+(i) The Director shall comply with requests from Congress (or any committee of either House of Congress) for information relating to operational test and evaluation in the Department of Defense.
 
-(i) The President shall include in the Budget transmitted to Congress pursuant to section 1105 of title 31 for each fiscal year a separate statement of estimated expenditures and proposed appropriations for that fiscal year for the activities of the Director of Operational Test and Evaluation in carrying out the duties and responsibilities of the Director under this section.
+(j) The President shall include in the Budget transmitted to Congress pursuant to section 1105 of title 31 for each fiscal year a separate statement of estimated expenditures and proposed appropriations for that fiscal year for the activities of the Director of Operational Test and Evaluation in carrying out the duties and responsibilities of the Director under this section.
 
-(j) The Director shall have sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director prescribed by law.
+(k) The Director shall have sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director prescribed by law.
 
-(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, §235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, §231(f), Oct. 17, 2006, 120 Stat. 2133.)
+(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, §235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, §231(f),Oct. 17, 2006, 120 Stat. 2133; Pub. L. 110–181, div. A, title II, §221, Jan. 28, 2008, 122 Stat. 37; Pub. L. 110–417, \[div. A\], title II, §251(c), Oct. 14, 2008, 122 Stat. 4400.)
 
 #### Codification
 
@@ -85,6 +73,10 @@ A prior section 139 was renumbered section 140 of this title.
 Another prior section 139 was renumbered section 2431 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(3) to (7). Pub. L. 110–417 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which required the Director to provide guidance to and consult with the officials described in par. (2) of subsec. (b) with respect to operational test and evaluation or survivability testing (or both) within the Department of Defense of force protection equipment.
+
+Subsecs. (f) to (k). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) to (j) as (g) to (k), respectively.
 
 2006—Subsec. (b)(3) to (7). Pub. L. 109–364 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 

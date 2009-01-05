@@ -48,13 +48,13 @@ There is established in the executive branch a corporation to be known as the �
 
 #### (2) Duties
 
-&emsp;The Board shall perform the functions specified to be carried out by the Board in this chapter and may prescribe, amend, and repealbylaws, rules, regulations, and procedures governing the manner in which the business of the Corporation may be conducted and in which the powers granted to it by law may be exercised.
+&emsp;The Board shall perform the functions specified to be carried out by the Board in this chapter and may prescribe, amend, and repeal bylaws, rules, regulations, and procedures governing the manner in which the business of the Corporation may be conducted and in which the powers granted to it by law may be exercised.
 
 #### (3) Membership
 
 &emsp;The Board shall consist of—
 
-&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of the United States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
+&emsp;&emsp;(A) the Secretary of State, the Secretary of the Treasury, the Administrator of theUnited States Agency for International Development, the Chief Executive Officer of the Corporation, and the United States Trade Representative; and
 
 &emsp;&emsp;(B) four other individuals with relevant international experience who shall be appointed by the President, by and with the advice and consent of the Senate, of which—
 

@@ -52,7 +52,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(i) a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and
 
-&emsp;&emsp;&emsp;(ii) a tax determined at the rate provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+&emsp;&emsp;&emsp;(ii) a tax determined at the rates provided in section 1201(a) on the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
 
 #### (B) Treatment of capital gain dividends by shareholders
 
@@ -102,7 +102,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;For purposes of this part, the term “net income from foreclosure property” means the excess of—
 
-&emsp;&emsp;&emsp;(i) gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over
+&emsp;&emsp;&emsp;(i) gain (including any foreign currency gain, as defined in section 988(b)(1)) from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in (or, in the case of foreign currency gain, not attributable to gross income described in) section 856(c)(3) other than subparagraph (F) thereof, over
 
 &emsp;&emsp;&emsp;(ii) the deductions allowed by this chapter which are directly connected with the production of the income referred to in clause (i).
 
@@ -122,7 +122,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(ii) the amount of such gross income which is derived from sources referred to in section 856(c)(3),
 
-> &emsp;&emsp;multiplied by a fraction the numerator of which is the real estate investment trust taxable income for the taxable year (determined without regard to the deductions provided in paragraphs (2)(B) and (2)(E), without regard to any net operating loss deduction, and by excluding any net capital gain) and the denominator of which is the gross income for the taxable year (excluding gross income from prohibited transactions; gross income and gain from foreclosure property (as defined in section 856(e), but only to the extent such gross income and gain is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3)); long-term capital gain; and short-term capital gain to the extent of any short-term capital loss).
+> &emsp;&emsp;multiplied by a fraction the numerator of which is the real estate investment trusttaxable income for the taxable year (determined without regard to the deductions provided in paragraphs (2)(B) and (2)(E), without regard to any net operating loss deduction, and by excluding any net capital gain) and the denominator of which is the gross income for the taxable year (excluding gross income from prohibited transactions; gross income and gain from foreclosure property (as defined in section 856(e), but only to the extent such gross income and gain is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3)); long-term capital gain; and short-term capital gain to the extent of any short-term capital loss).
 
 #### (6) Income from prohibited transactions
 
@@ -134,7 +134,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;For purposes of this part—
 
-&emsp;&emsp;&emsp;(i) the term “net income derived from prohibited transactions” means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;
+&emsp;&emsp;&emsp;(i) the term “net income derived from prohibited transactions” means the excess of the gain (including any foreign currency gain, as defined in section 988(b)(1)) from prohibited transactions over the deductions (including any foreign currency loss, as defined in section 988(b)(2)) allowed by this chapter which are directly connected with prohibited transactions;
 
 &emsp;&emsp;&emsp;(ii) in determining the amount of the net income derived from prohibited transactions, there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss; and
 
@@ -142,25 +142,25 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Certain sales not to constitute prohibited transactions
 
-&emsp;&emsp;For purposes of this part, the term “prohibited transaction” does not include a sale of property which is a real estate asset as defined in section 856(c)(5)(B) if—
+&emsp;&emsp;For purposes of this part, the term “prohibited transaction” does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if—
 
-&emsp;&emsp;&emsp;(i) the trust has held the property for not less than 4 years;
+&emsp;&emsp;&emsp;(i) the trust has held the property for not less than 2 years;
 
-&emsp;&emsp;&emsp;(ii) aggregate expenditures made by the trust, or any partner of the trust, during the 4-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
+&emsp;&emsp;&emsp;(ii) aggregate expenditures made by the trust, or any partner of the trust, during the 2-year period preceding the date of sale which are includible in the basis of the property do not exceed 30 percent of the net selling price of the property;
 
-&emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year;
+&emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or (III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year;
 
-&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
+&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 2 years for production of rental income; and
 
 &emsp;&emsp;&emsp;(v) if the requirement of clause (iii)(I) is not satisfied, substantially all of the marketing and development expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income.
 
 #### (D) Certain sales not to constitute prohibited transactions
 
-&emsp;&emsp;For purposes of this part, the term “prohibited transaction” does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) if—
+&emsp;&emsp;For purposes of this part, the term “prohibited transaction” does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if—
 
-&emsp;&emsp;&emsp;(i) the trust held the property for not less than 4 years in connection with the trade or business of producing timber,
+&emsp;&emsp;&emsp;(i) the trust held the property for not less than 2 years in connection with the trade or business of producing timber,
 
-&emsp;&emsp;&emsp;(ii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which—
+&emsp;&emsp;&emsp;(ii) the aggregate expenditures made by the trust, or a partner of the trust, during the 2-year period preceding the date of sale which—
 
 &emsp;&emsp;&emsp;&emsp;(I) are includible in the basis of the property (other than timberland acquisition expenditures), and
 
@@ -168,7 +168,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&nbsp;do not exceed 30 percent of the net selling price of the property,
 
-&emsp;&emsp;&emsp;(iii) the aggregate expenditures made by the trust, or a partner of the trust, during the 4-year period preceding the date of sale which—
+&emsp;&emsp;&emsp;(iii) the aggregate expenditures made by the trust, or a partner of the trust, during the 2-year period preceding the date of sale which—
 
 &emsp;&emsp;&emsp;&emsp;(I) are includible in the basis of the property (other than timberland acquisition expenditures), and
 
@@ -178,9 +178,11 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(iv)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or
 
-&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year,
+&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent ofthe aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or
 
-&emsp;&emsp;&emsp;(v) in the case that the requirement of clause (iv)(I) is not satisfied, substantially all of the marketing expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income, and
+&emsp;&emsp;&emsp;(III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year,
+
+&emsp;&emsp;&emsp;(v) in the case that the requirement of clause (iv)(I) is not satisfied, substantially all of the marketing expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income, or, in the case of a sale on or before the termination date, a taxable REIT subsidiary, and
 
 &emsp;&emsp;&emsp;(vi) the sales price of the property sold by the trust is not based in whole or in part on income or profits, including income or profits derived from the sale or operation of such property.
 
@@ -206,6 +208,14 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;In determining whether or not any sale constitutes a “prohibited transaction” for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted.
 
+#### (G) Sales of property that are not a prohibited transaction
+
+&emsp;&emsp;In the case of a sale on or before the termination date, the sale of property which is not a prohibited transaction through the application of subparagraph (D) shall be considered property held for investment or for use in a trade or business and not property described in section 1221(a)(1) for all purposes of this subtitle. For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.
+
+#### (H) Termination date
+
+&emsp;&emsp;For purposes of this paragraph, the term “termination date” has the meaning given such term by section 856(c)(8).
+
 #### (7) Income from redetermined rents, redetermined deductions, and excess interest
 
 #### (A) Imposition of tax
@@ -228,7 +238,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;&emsp;(I) such subsidiary renders a significant amount of similar services to persons other than such trust and tenants of such trust who are unrelated (within the meaning of section 856(d)(8)(F)) to such subsidiary, trust, and tenants, but
 
-&emsp;&emsp;&emsp;&emsp;(II) only to the extent the charge for such service so rendered is substantially comparable to the charge for the similar services rendered to persons referred to in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) only to the extent the charge for such service so rendered is substantiallycomparable to the charge for the similar services rendered to persons referred to in subclause (I).
 
 #### (iv) Exception for certain separately charged services
 
@@ -416,13 +426,67 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+#### References in Text
+
+The date of enactment of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(6)(G), is the date of enactment of div. C of Pub. L. 110–289, which was approved July 30, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–246, §15311(c), substituted “rates” for “rate”.
+
+Subsec. (b)(4)(B)(i). Pub. L. 110–289, §3033(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over”.
+
+Subsec. (b)(6)(B)(i). Pub. L. 110–289, §3033(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the term ‘net income derived from prohibited transactions’ means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;”.
+
+Subsec. (b)(6)(C). Pub. L. 110–289, §3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset as defined in section 856(c)(5)(B) if” in introductory provisions.
+
+Subsec. (b)(6)(C)(i). Pub. L. 110–289, §3051(a)(1), substituted “2 years” for “4 years”.
+
+Subsec. (b)(6)(C)(ii). Pub. L. 110–289, §3051(a)(2), substituted “2-year period” for “4-year period”.
+
+Subsec. (b)(6)(C)(iii)(III). Pub. L. 110–289, §3052(1), added subcl. (III).
+
+Subsec. (b)(6)(C)(iv). Pub. L. 110–289, §3051(a)(1), substituted “2 years” for “4 years”.
+
+Subsec. (b)(6)(D). Pub. L. 110–289, §3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1)if” for “real estate asset (as defined in section 856(c)(5)(B)) if” in introductory provisions.
+
+Subsec. (b)(6)(D)(i). Pub. L. 110–289, §3051(a)(1), substituted “2 years” for “4 years”.
+
+Subsec. (b)(6)(D)(ii), (iii). Pub. L. 110–289, §3051(a)(2), substituted “2-year period” for “4-year period” in introductory provisions.
+
+Subsec. (b)(6)(D)(iv)(III). Pub. L. 110–289, §3052(2), added subcl. (III).
+
+Subsec. (b)(6)(D)(v). Pub. L. 110–246, §15315(b), inserted “, or, in the case of a sale on or before the termination date, a taxable REIT subsidiary” after “any income”.
+
+Subsec. (b)(6)(G). Pub. L. 110–289, §3051(b), redesignated subpar. (H) as (G), inserted at end “For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.”, and struck out former subpar. (G). Prior to amendment, text of subpar. (G) read as follows:
+
+“(i)
+
+In general.—In the case of the sale of a real estate asset (as defined in section 856(c)(5)(B)) to a qualified organization (as defined in section 170(h)(3)) exclusively for conservation purposes (within the meaning of section 170(h)(1)(C)), subparagraph (D) shall be applied—
+
+&emsp;“(I) by substituting ‘2 years’ for ‘4 years’ in clause (i), and
+
+&emsp;“(II) by substituting ‘2-year period’ for ‘4-year period’ in clauses (ii) and (iii).
+
+“(ii)
+
+Termination.—This subparagraph shall not apply to sales after the termination date.”
+
+Pub. L. 110–246, §15315(a), added subpar. (G).
+
+Subsec. (b)(6)(H), (I). Pub. L. 110–289, §3051(b)(1), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+
+Pub. L. 110–246, §15315(c), (d), added subpars. (H) and (I).
 
 2007—Subsec. (b)(8)(B). Pub. L. 110–172 amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that ‘6 months’ shall be substituted for the number of days specified in subparagraph (B) of section 246(c)(3).”
 
@@ -486,7 +550,7 @@ Subsec. (b)(7)(A)(i). Pub. L. 105–34, §1254(b)(1), substituted “subparagrap
 
 Subsec. (d)(3). Pub. L. 105–34, §1256, added par. (3).
 
-Subsec. (e)(2)(B) to (D). Pub. L. 105–34, §1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struck out former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
+Subsec. (e)(2)(B) to (D). Pub. L. 105–34, §1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struckout former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
 
 &emsp;“(i) the amounts includible in gross income with respect to instruments to which section 1274 (relating to certain debt instruments issued for property) applies, exceed
 
@@ -552,7 +616,7 @@ Subsec. (c). Pub. L. 98–369, §16(a), repealed amendments made by Pub. L. 97�
 
 Subsec. (c). Pub. L. 96–223 temporarily substituted “Limitations applicable to dividends received from real estate investment trusts” for “Restrictions applicable to dividends received from real estate investment trusts” in heading, designated existing provisions as par. (1), substituted “(1)
 
-Capital gain dividend.—For purposes of section 116 (relating to exclusion for dividends and interest received by individuals), a capital gain dividend (as defined in subsection (b)(3)(C)) received from a real estate investment trust shall not be considered a dividend” for “For purposes of section 116 (relating to an exclusion for dividends received by individuals) and section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend” in par. (1) as so designated, and added pars. (2) to (6).
+Capital gain dividend.—For purposes of section 116 (relating to exclusion for dividends and interest received by individuals), a capitalgain dividend (as defined in subsection (b)(3)(C)) received from a real estate investment trust shall not be considered a dividend” for “For purposes of section 116 (relating to an exclusion for dividends received by individuals) and section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend” in par. (1) as so designated, and added pars. (2) to (6).
 
 1978—Subsec. (b)(1). Pub. L. 95–600, §301(b)(12), substituted “a tax” for “a normal tax and surtax”.
 
@@ -604,6 +668,20 @@ Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(3)(B), inserted provision requirin
 
 1964—Subsec. (c). Pub. L. 88–272 struck out “section 34(a) (relating to credit for dividends received by individuals),” before “section 116” and the comma before “and”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 3033(a) of Pub. L. 110–289 applicable to gains recognized after July 30, 2008, and amendment by section 3033(b) of Pub. L. 110–289 applicable to gains and deductions recognized after July 30, 2008, see section 3071(c) of Pub. L. 110–289, set out as a note under section 856 of this title.
+
+Amendment by sections 3051 and 3052 of Pub. L. 110–289 applicable to sales made after July 30, 2008, see section 3071(d) of Pub. L. 110–289, set out as a note under section 856 of this title.
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15311(c) of Pub. L. 110–246 applicable to taxable years ending after June 18, 2008, see section 15311(d) of Pub. L. 110–246, set out as a note under section 55 of this title.
+
+Pub. L. 110–234, title XV, §15315(e), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15315(e), June 18, 2008, 122 Stat. 1664, 2267, provided that: “The amendments made by this section \[amending this section\] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
 #### Effective Date of 2005 Amendment
 
 Amendment by section 403(d)(3) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -648,7 +726,7 @@ Amendment by section 566(a)(2), (b) of Pub. L. 106–170 applicable to distribut
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -724,7 +802,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years beginning
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxableyears ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
+Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
 
 #### Effective Date
 

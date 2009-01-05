@@ -54,7 +54,7 @@ Subsection (f) reinforces section 109 by prohibiting conversion to a chapter und
 
 #### References in Text
 
-Subsection (e) of this section, referred to in subsec. (c), was redesignated as subsec. (d) of this section, and a new subsec. (e) was added, by Pub. L. 109–8, title VII, §716(c), Apr. 20, 2005, 119 Stat. 130.
+Subsection (e) of this section, referred to in subsec. (c), was redesignated as subsec. (f) of this section, and a new subsec. (e) was added, by Pub. L. 109–8, title VII, §716(c), Apr. 20, 2005, 119 Stat. 130.
 
 #### Amendments
 

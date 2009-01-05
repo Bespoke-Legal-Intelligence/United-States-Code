@@ -6,7 +6,7 @@ Within the recreation area the Secretary is authorized to acquire lands, waters,
 
 #### (b) Manner of acquisition of lands partly within and partly without area; disposal of unutilized lands
 
-When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for suchexchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
 
@@ -24,7 +24,7 @@ As used in this section, the term “improved property” means a detached, year
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

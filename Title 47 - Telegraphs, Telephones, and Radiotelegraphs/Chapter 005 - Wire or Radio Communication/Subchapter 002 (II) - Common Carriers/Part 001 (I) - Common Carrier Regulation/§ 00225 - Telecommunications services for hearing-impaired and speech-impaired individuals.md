@@ -14,7 +14,7 @@ As used in this section—
 
 #### (3) Telecommunications relay services
 
-&emsp;The term “telecommunications relay services” means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services by wire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.
+&emsp;The term “telecommunications relay services” means telephone transmission services that provide the ability for an individual who has a hearing impairment or speech impairment to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing impairment or speech impairment to communicate using voice communication services bywire or radio. Such term includes services that enable two-way communication between an individual who uses a TDD or other nonvoice terminal device and an individual who does not use such a device.
 
 #### (b) Availability of telecommunications relay services
 

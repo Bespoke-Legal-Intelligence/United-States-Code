@@ -24,7 +24,7 @@ The Secretaries, with the advice of the Board, shall—
 
 &emsp;(9)(A) foster cost recovery management techniques in the coordinated program; and
 
-&emsp;(B) impose appropriate charges and fees for publications of the coordinated program, including print and electronic forms of data and analysis, and use the proceeds of such charges and fees for purposes of the coordinated program (except that no such charge or fee imposed on an educational or other nonprofit organization shall exceed the actual costs incurred by the coordinated program in providing the publications involved).
+&emsp;(B) impose appropriate charges and fees for publications of the coordinated program, including print and electronic forms of data andanalysis, and use the proceeds of such charges and fees for purposes of the coordinated program (except that no such charge or fee imposed on an educational or other nonprofit organization shall exceed the actual costs incurred by the coordinated program in providing the publications involved).
 
 #### (b) Biennial report
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) to ensure prompt and equitable compensation in the event of a nuclear incident;
 
-&emsp;&emsp;(D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that, in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
+&emsp;&emsp;(D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that,in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
 
 &emsp;&emsp;(E) the Convention also benefits United States nuclear facility operators that may be publicly liable for a Price-Anderson incident by providing an additional early source of funds to compensate damage arising out of the Price-Anderson incident;
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (iv) Report
 
-&emsp;&emsp;&emsp;Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
+&emsp;&emsp;&emsp;Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy andCommerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
 
 #### (f) Reporting
 
@@ -246,7 +246,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) Notification
 
-&emsp;&emsp;In the case of a request for funds under Article VII of the Convention resulting from acovered incident that is not a Price-Anderson incident, the Secretary shall notify each nuclear supplier of the amount of the deferred payment required to be made by the nuclear supplier.
+&emsp;&emsp;In the case of a request for funds under Article VII of the Convention resulting from a covered incident that is not a Price-Anderson incident, the Secretary shall notify each nuclear supplier of the amount of the deferred payment required to be made by the nuclear supplier.
 
 #### (B) Payments
 

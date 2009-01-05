@@ -18,7 +18,7 @@
 
 &emsp;(8) rent office space;
 
-&emsp;(9) conduct programs in addition to or in conjunction with the Fellowship program which shall further the Foundation's purpose of encouraging new discoveries in all fields of endeavor for the benefit of mankind; and
+&emsp;(9) conduct programs in addition to or in conjunction with the Fellowship program which shall further the Foundation's purposeof encouraging new discoveries in all fields of endeavor for the benefit of mankind; and
 
 &emsp;(10) to make other necessary expenditures.
 

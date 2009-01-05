@@ -88,7 +88,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Certain offices
 
-&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the coveredemployees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
 
 (Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19.)
 

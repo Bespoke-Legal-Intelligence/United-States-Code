@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(B) the period or periods during which, including as modified by paragraph (3), subsection (a) of this section is in effect, which period or periods may be designated by dates, or by milestones or other description of events, including factors specified in paragraph (6);
 
-&emsp;&emsp;(C) the population or populations of individuals for which subsection (a) of this section is in effect with respect to the administration or use of the countermeasure (which may be a specification that such subsection applies without geographic limitation to all individuals);
+&emsp;&emsp;(C) the population or populations of individuals for which subsection (a) of this section is in effect with respect to the administration or use of the countermeasure (which may be a specification that such subsectionapplies without geographic limitation to all individuals);
 
 &emsp;&emsp;(D) the geographic area or areas for which subsection (a) of this section is in effect with respect to the administration or use of the countermeasure (which may be a specification that such subsection applies without geographic limitation), including, with respect to individuals in the populations identified under subparagraph (C), a specification, as determined appropriate by the Secretary, of whether the declaration applies only to individuals physically present in such areas or whether in addition the declaration applies to individuals who have a connection to such areas, which connection is described in the declaration; and
 
@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking aninjunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term “enforcement action” means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -384,7 +384,7 @@ In this section:
 
 #### (5) Person
 
-&emsp;The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, including aFederal, State, or local government agency or department.
+&emsp;The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, including a Federal, State, or local government agency or department.
 
 #### (6) Program planner
 

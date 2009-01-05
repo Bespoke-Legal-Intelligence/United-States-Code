@@ -1,8 +1,12 @@
 ### §2327. Tribally controlled postsecondary career and technical institutions
 
-#### (a) Grants authorized
+#### (a) Grant program
 
-The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.
+Subject to the availability of appropriations, the Secretary shall make grants under this section, to provide basic support for the education and training of Indian students, to tribally controlled postsecondary career and technical institutions that are not receiving Federal assistance as of the date on which the grant is provided under—
+
+&emsp;(1) title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1802 et seq.); or
+
+&emsp;(2) the Navajo Community College Act (25 U.S.C. 640a et seq.).
 
 #### (b) Uses of grants
 
@@ -16,7 +20,7 @@ Amounts made available under this section shall be used for career and technical
 
 #### (2) Per capita determination
 
-&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available forgrants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
+&emsp;For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
 
 #### (3) Indirect costs
 
@@ -24,7 +28,7 @@ Amounts made available under this section shall be used for career and technical
 
 #### (d) Applications
 
-Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.
+To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1802 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Expenses
 
@@ -68,7 +72,7 @@ In this section:
 
 #### (1) Indian; Indian tribe
 
-&emsp;The terms “Indian” and “Indian tribe” have the meanings given the terms in section 2 of the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801).
+&emsp;The terms “Indian” and “Indian tribe” have the meanings given the terms in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801).
 
 #### (2) Indian student count
 
@@ -120,13 +124,13 @@ In this section:
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-(Pub. L. 88–210, title I, §117, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 710.)
+(Pub. L. 88–210, title I, §117, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 710; amended Pub. L. 110–315, title IX, §941(j)(2), (k)(2)(D)(ii), Aug. 14, 2008, 122 Stat. 3465, 3466.)
 
 #### References in Text
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsecs. (a) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Navajo Community College Act, referred to in subsecs. (a) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -137,4 +141,12 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.”
+
+Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
+
+Subsec. (h)(1). Pub. L. 110–315, §941(k)(2)(D)(ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

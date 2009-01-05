@@ -92,7 +92,7 @@ Deferred payments.—
 
 &emsp;&emsp;(A)
 
-Authorization.—If, at any time after the date of substantial completion of theproject, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
+Authorization.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
 
 &emsp;&emsp;(B)
 
@@ -132,7 +132,7 @@ Sale of Secured Loans.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a secured loan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
+In general.—Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a securedloan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.
 
 &emsp;(2)
 

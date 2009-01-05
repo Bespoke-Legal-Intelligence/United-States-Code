@@ -110,7 +110,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated for carrying out this section, such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
+There are authorized to be appropriated for carrying out this section, such sums as may benecessary for fiscal years 1993 through 1998, to remain available until expended.
 
 (Pub. L. 102–486, title III, §303, Oct. 24, 1992, 106 Stat. 2871; Pub. L. 109–58, title VII, §702, Aug. 8, 2005, 119 Stat. 815; Pub. L. 110–140, title I, §141, Dec. 19, 2007, 121 Stat. 1517.)
 

@@ -34,7 +34,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used toprovide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)(i)) to individuals described in section 402(h)(2)(C) of such Act (30 U.S.C. 1232(h)(2)(C)).
+&emsp;&emsp;Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)(i)) to individuals described in section 402(h)(2)(C) of such Act (30 U.S.C. 1232(h)(2)(C)).
 
 #### (b) Coverage requirement
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;<i>“(B) The provision of a security (in the form of a bond, letter of credit, or cash escrow) in an amount equal to a portion of the projected future cost to the 1992 UMWA Benefit Plan of providing health benefits for eligible and potentially eligible beneficiaries attributable to the 1988 last signatory operator.</i>
 
-&emsp;&emsp;<i>“(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.”;</i>
+&emsp;&emsp;<i>“(C) If the amounts transferred under subsection (a)(3) are less than the amounts required to be transferred to the 1992 UMWA Benefit Plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), the payment of an</i><i>additional backstop premium by each 1988 last signatory operator which is equal to such operator's share of the amounts required to be so transferred but which were not so transferred, determined on the basis of the number of eligible and potentially eligible beneficiaries attributable to the operator.”;</i>
 
 <i>(2) in paragraph (2)(B), by substituting “backstop” for “prefunding”; and</i>
 

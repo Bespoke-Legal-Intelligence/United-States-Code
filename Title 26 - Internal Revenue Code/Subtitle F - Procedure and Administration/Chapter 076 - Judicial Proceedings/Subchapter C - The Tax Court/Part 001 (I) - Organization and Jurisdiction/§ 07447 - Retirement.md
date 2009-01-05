@@ -6,7 +6,7 @@ For purposes of this section—
 
 &emsp;(1) The term “Tax Court” means the United States Tax Court.
 
-&emsp;(2) The term “judge” means the chief judge or a judge of the Tax Court; but such termdoes not include any individual performing judicial duties pursuant to subsection (c).
+&emsp;(2) The term “judge” means the chief judge or a judge of the Tax Court; but such term does not include any individual performing judicial duties pursuant to subsection (c).
 
 &emsp;(3) In any determination of length of service as judge there shall be included all periods (whether or not consecutive) during which an individual served as judge, as judge of the Tax Court of the United States, or as a member of the Board of Tax Appeals.
 
@@ -108,7 +108,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) 1-year forfeiture for failure to perform judicial duties
 
-&emsp;If such individual during any calendar year fails to perform judicial duties required of himby subsection (c), such individual shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the 1st day on which he so fails to perform such duties.
+&emsp;If such individual during any calendar year fails to perform judicial duties required of him by subsection (c), such individual shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the 1st day on which he so fails to perform such duties.
 
 #### (2) Permanent forfeiture of retired pay where certain non-Government services performed
 
@@ -174,7 +174,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Manner of revoking
 
-&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The CivilService Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
+&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
 
 #### (3) Effect of revocation
 
@@ -238,7 +238,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge's nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b),\(d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016.)
 
 #### Amendments
 
@@ -312,7 +312,7 @@ Forfeiture of retired pay.—The amendments made by this section shall not apply
 
 #### Effective Date of 1978 Amendment
 
-Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
+Section 2(a) of Pub. L. 95–472 provided that: “The amendment made by the first section of this Act\[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
 
 #### Effective Date of 1971 Amendment
 
@@ -322,7 +322,7 @@ Section 4(c)(1) of Pub. L. 92–41, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Amendment by sections 954(c), (e) and 960(c), (d) of Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
 
-Section 962(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
+Section 962(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
 
 &emsp;“(1) all judges of the Tax Court retiring on or after the date of enactment of this Act \[Dec. 30, 1969\], and
 

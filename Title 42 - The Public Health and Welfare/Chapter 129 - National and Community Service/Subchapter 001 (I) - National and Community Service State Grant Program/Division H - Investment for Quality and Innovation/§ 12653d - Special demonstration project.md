@@ -32,7 +32,7 @@ Prior sections 12653d to 12653<i>o</i> relating to Civilian Community Corps were
 
 Section 12653d, Pub. L. 101–610, title I, §195D, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2524, which related to organization and membership of the Corps, was renumbered section 155 of Pub. L. 101–610 and transferred to section 12615 of this title.
 
-Section 12653e, Pub. L. 101–610, title I, §195E, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2525, which provided for training of Corpsmembers, was renumbered section 156 of Pub. L. 101–610 and transferred to section 12616 of this title.
+Section 12653e, Pub. L. 101–610, title I, §195E, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2525, which provided for training of Corps members, was renumbered section 156 of Pub. L. 101–610 and transferred to section 12616 of this title.
 
 Section 12653f, Pub. L. 101–610, title I, §195F, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526, which related to service projects carried out by the Corps, was renumbered section 157 of Pub. L. 101–610 and transferred to section 12617 of this title.
 

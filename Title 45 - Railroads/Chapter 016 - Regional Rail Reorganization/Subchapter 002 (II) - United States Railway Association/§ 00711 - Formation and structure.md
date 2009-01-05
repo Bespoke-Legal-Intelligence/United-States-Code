@@ -58,7 +58,7 @@ The members of the Board of Directors may send representatives to meetings of su
 
 No person, except the Association, shall hereafter use the words “United States Railway Association” as a name for any business purpose. Violations of this provision may be enjoined by any court of general jurisdiction in an action commenced by the Association. In any such action, the Association may recover any actual damages flowing from such violation, and, in addition, shall be entitled to punitive damages (regardless of the existence or nonexistence of actual damage) in an amount not to exceed $100 for each day during which such violation was committed. The district courts of the United States shall have jurisdiction over actions brought under this subsection, without regard to the amount in controversy or the citizenship of the parties.
 
-(Pub. L. 93–236, title II, §201, Jan. 2, 1974, 87 Stat. 988; Pub. L. 94–210, title VI, §§603(a), (b), 607(a), 612(j)(2), Feb. 5, 1976, 90 Stat. 88, 96, 109; Pub. L. 94–555, title II, §211(b)–(e), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 95–611, §2, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–448, title V, §508(c), Oct. 14, 1980, 94 Stat. 1957; Pub. L. 97–35, title XI, §1147, Aug. 13, 1981, 95 Stat. 673; Pub. L. 98–181, title II, §2003(c)(1), Nov. 30, 1983, 97 Stat. 1297; Pub. L.99–190, §101(e) \[title III, §332\], Dec. 19, 1985, 99 Stat. 1267, 1290.)
+(Pub. L. 93–236, title II, §201, Jan. 2, 1974, 87 Stat. 988; Pub. L. 94–210, title VI, §§603(a), (b), 607(a), 612(j)(2), Feb. 5, 1976, 90 Stat. 88, 96, 109; Pub. L. 94–555, title II, §211(b)–(e), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 95–611, §2, Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–448, title V, §508(c), Oct. 14, 1980, 94 Stat. 1957; Pub. L. 97–35, title XI, §1147, Aug. 13, 1981, 95 Stat. 673; Pub. L. 98–181, title II, §2003(c)(1), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 99–190, §101(e) \[title III, §332\], Dec. 19, 1985, 99 Stat. 1267, 1290.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Subsecs. (j), (k). Pub. L. 97–35 redesignated former subsecs. (j) relating to 
 
 Subsec. (i). Pub. L. 96–448, §508(c)(2), substituted “in the case of the Secretary, through the Deputy Secretary of Transportation, the General Counsel of the Department of Transportation, the Federal Railroad Administrator, or the Deputy Administrator of the Federal Railroad Administration, and, in the case of the Secretary of the Treasury, through an officer of the Department of the Treasury who has been appointed with the advice and consent of the Senate” for “through their respective Deputy Secretaries”.
 
-Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any reference in this chapter to Secretary of the Treasury is to Secretary of the Treasury or person who is at time performing duties of the Office of Secretary of the Treasury or, in his absence, Deputy Secretary of the Treasury.
+Subsec. (j)(4). Pub. L. 96–448, §508(c)(3), struck out provision that any reference in this chapter to Secretary of the Treasury is to Secretary of the Treasuryor person who is at time performing duties of the Office of Secretary of the Treasury or, in his absence, Deputy Secretary of the Treasury.
 
 1978—Subsec. (e). Pub. L. 95–611 inserted provision that members of Board shall continue to serve until their successors have been appointed and qualified.
 
@@ -138,7 +138,7 @@ See section 1341 of this title.
 
 #### Applicability of National Environmental Policy Act
 
-Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub.L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

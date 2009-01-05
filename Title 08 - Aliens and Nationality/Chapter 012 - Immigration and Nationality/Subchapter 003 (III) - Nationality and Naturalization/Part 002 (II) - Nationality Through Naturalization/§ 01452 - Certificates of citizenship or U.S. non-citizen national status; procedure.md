@@ -12,7 +12,7 @@ A person who claims to be a national, but not a citizen, of the United States ma
 
 &emsp;(2) in the case of such a person born outside of the United States or its outlying possessions, taking and subscribing, before an immigration officer within the United States or its outlying possessions, to the oath of allegiance required by this chapter of a petitioner for naturalization,
 
-> the individual shall be furnished by the Secretary of State with a certificate of non-citizen national status, but only if the individual is at the time within the United States or its outlying possessions.
+> the individual shall be furnished by the Secretary of State with a certificate of non-citizennational status, but only if the individual is at the time within the United States or its outlying possessions.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §341, 66 Stat. 263; Pub. L. 97–116, §18(p), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 99–396, §16(a), Aug. 27, 1986, 100 Stat. 843; Pub. L. 99–653, §22, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(q), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 102–232, title III, §305(m)(8), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(b), Oct. 25, 1994, 108 Stat. 4307.)
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Certificates of Non-Citizen National Status; $35 Limit on Fees for Processing Applications Filed Before End of Fiscal Year 1987
 

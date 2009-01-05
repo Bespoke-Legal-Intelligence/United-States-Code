@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of theCommittee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 &emsp;(1) a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -102,7 +102,7 @@ Pub. L. 105–261, div. A, title XV, §1502, Oct. 17, 1998, 112 Stat. 2171, as a
 
 “(a)
 
-Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basisreports containing classified summaries of arms control developments.
+Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
 
 “(b)
 

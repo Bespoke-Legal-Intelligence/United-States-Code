@@ -4,9 +4,15 @@
 
 It shall be unlawful for any person to—
 
-&emsp;(1) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which is not in conformity with an applicable consumer product safety standard under this chapter;
+&emsp;(1) sell, offer for sale, manufacture for sale, distribute in commerce, or import into the United States any consumer product, or other product or substance that is regulated under this chapter or any other Act enforced by the Commission, that is not in conformity with an applicable consumer product safety rule under this chapter, or any similar rule, regulation, standard, or ban under any other Act enforced by the Commission;
 
-&emsp;(2) manufacture for sale, offer for sale, distribute in commerce, or import into theUnited States any consumer product which has been declared a banned hazardous product by a rule under this chapter;
+&emsp;(2) sell, offer for sale, manufacture for sale, distribute in commerce, or import into the United States any consumer product, or other product or substance that is—
+
+&emsp;&emsp;(B) <sup>1</sup> subject to voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public or if the seller, distributor, or manufacturer knew or should have known of such voluntary corrective action;
+
+&emsp;&emsp;(C) subject to an order issued under section 2061 or 2064 of this title; or
+
+&emsp;&emsp;(D) a banned hazardous substance within the meaning of section 1261(q)(1) of this title;
 
 &emsp;(3) fail or refuse to permit access to or copying of records, or fail or refuse to establish or maintain records, or fail or refuse to make reports or provide information, or fail or refuse to permit entry or inspection, as required under this chapter or rule thereunder;
 
@@ -14,25 +20,51 @@ It shall be unlawful for any person to—
 
 &emsp;(5) fail to comply with an order issued under section 2064(c) or (d) of this title (relating to notification, to repair, replacement, and refund, and to prohibited acts);
 
-&emsp;(6) fail to furnish a certificate required by section 2063 of this title or issue a false certificate if such person in the exercise of due care has reason to know that such certificate is false or misleading in any material respect; or to fail to comply with any rule under section 2063(c) of this title (relating to labeling);
+&emsp;(6) fail to furnish a certificate required by this chapter or any other Act enforced by the Commission, or to issue a false certificate if such person in the exercise of due care has reason to know that the certificate is false or misleading in any material respect; or to fail to comply with any requirement of section 2063 of this title (including the requirement for tracking labels) or any rule or regulation under such section;
 
-&emsp;(7) fail to comply with any rule under section 2058(g)(2) of this title (relating to stockpiling); or <sup>1</sup>
+&emsp;(7) fail to comply with any rule under section 2058(g)(2) of this title (relating to stockpiling);
 
-&emsp;(8) fail to comply with any rule under section 2076(e) of this title (relating to provision of performance and technical data); and <sup>1</sup>
+&emsp;(8) fail to comply with any rule under section 2076(e) of this title (relating to provision of performance and technical data);
 
-&emsp;(9) fail to comply with any rule or requirement under section 2082 of this title (relating to labeling and testing of cellulose insulation).<sup>1</sup>
+&emsp;(9) fail to comply with any rule or requirement under section 2082 of this title (relating to labeling and testing of cellulose insulation);
 
-&emsp;(10) fail to file a statement with the Commission pursuant to section 2067(b) of this title.<sup>1</sup>
+&emsp;(10) fail to file a statement with the Commission pursuant to section 2067(b) of this title;
 
-&emsp;(11) fail to furnish information required by section 2084 of this title.
+&emsp;(11) fail to furnish information required by section 2084 of this title.<sup>2</sup>
+
+&emsp;(12) sell, offer for sale, distribute in commerce, or import into the United States any consumer product bearing a registered safety certification mark owned by an accredited conformity assessment body, which mark is known, or should have been known, by such person to be used in a manner unauthorized by the owner of that certification mark;
+
+&emsp;(13) misrepresent to any officer or employee of the Commission the scope of consumer products subject to an action required under section 2061 or 2064 of this title, or to make a material misrepresentation to such an officer or employee in the course of an investigation under this chapter or any other Act enforced by the Commission; or <sup>3</sup>
+
+&emsp;(14) exercise, or attempt to exercise, undue influence on a third party conformity assessment body (as defined in section 2063(f)(2) of this title) with respect to the testing, or reporting of the results of testing, of any product for compliance under this chapter or any other Act enforced by the Commission.<sup>2</sup>
+
+&emsp;(15) export from the United States for purpose of sale any consumer product, or other product or substance regulated by the Commission (other than a consumer product or substance, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title) that—
+
+&emsp;&emsp;(A) is subject to an order issued under section 2061 or 2064 of this title or is a banned hazardous substance within the meaning of section 1261(q)(1) of this title; or
+
+&emsp;&emsp;(B) is subject to a voluntary corrective action taken by the manufacturer, in consultation with the Commission, of which action the Commission has notified the public; or
+
+&emsp;(16) violate an order of the Commission issued under section 2067(c) of this title.
 
 #### (b) Exception
 
 Paragraphs (1) and (2) of subsection (a) of this section shall not apply to any person (1) who holds a certificate issued in accordance with section 2063(a) of this title to the effect that such consumer product conforms to all applicable consumer product safety rules, unless such person knows that such consumer product does not conform, or (2) who relies in good faith on the representation of the manufacturer or a distributor of such product that the product is not subject to an applicable product safety rule.
 
-(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117.)
+(Pub. L. 92–573, §19, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 94–284, §§12(b), 13(a), May 11, 1976, 90 Stat. 508, 509; Pub. L. 95–319, §3(b), July 11, 1978, 92 Stat. 390; Pub. L. 95–631, §6(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–414, §9(j)(4), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §112(d), Nov. 16, 1990, 104 Stat. 3117; Pub. L. 110–314, title II, §216(a), Aug. 14, 2008, 122 Stat. 3056.)
 
 #### Amendments
+
+2008—Subsec. (a)(1), (2). Pub. L. 110–314, §216(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which is not in conformity with an applicable consumer product safety standard under this chapter;
+
+“(2) manufacture for sale, offer for sale, distribute in commerce, or import into the United States any consumer product which has been declared a banned hazardous product by a rule under this chapter;”.
+
+Subsec. (a)(6). Pub. L. 110–314, §216(a)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “fail to furnish a certificate required by section 2063 of this title or issue a false certificate if such person in the exercise of due care has reason to know that such certificate is false or misleading in any material respect; or to fail to comply with any rule under section 2063(c) of this title (relating to labeling);”.
+
+Subsec. (a)(7) to (10). Pub. L. 110–314, §216(a)(3)–(6), struck out “or” at end of par. (7) and “and” at end of par. (8) and substituted semicolon for period at end of pars. (9) and (10).
+
+Subsec. (a)(12) to (16). Pub. L. 110–314, §216(a)(7), added pars. (12) to (16).
 
 1990—Subsec. (a)(11). Pub. L. 101–608 added par. (11).
 
@@ -48,9 +80,17 @@ Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to compl
 
 1976—Subsec. (a). Pub. L. 94–284 substituted “to” for “and to” and inserted “, and to prohibited acts” after “refund” in par. (5), inserted “or fail or refuse to establish or maintain records,” after “copying of records,” in par. (3), and added pars. (8) and (9).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–314 effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+
 #### Duty To Report Choking Incidents Caused by Children's Toys or Games
 
 For purposes of subsec. (a)(3) of this section, requirement to report information relating to choking incidents caused by children's toys or games to Consumer Product Safety Commission deemed a requirement under this chapter, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 
-<i><sup>1</sup></i><i> So in original. Words “or” and “and” probably should not appear at the end of pars. (7) and (8). The period at the end of par. (9) probably should be a semicolon, and the period at the end of par. (10) probably should be a semicolon followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. No subpar. (A) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

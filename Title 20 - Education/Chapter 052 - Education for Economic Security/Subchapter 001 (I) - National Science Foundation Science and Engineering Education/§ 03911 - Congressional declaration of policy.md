@@ -8,7 +8,7 @@
 
 &emsp;(3) to improve the quality and availability of instrumentation for mathematics, science, and engineering instruction;
 
-&emsp;(4) to encourage partnerships in education between local and State education agencies, business and industry, colleges and universities, and cultural and professional institutions and societies; and
+&emsp;(4) to encourage partnerships in education between local and State education agencies,business and industry, colleges and universities, and cultural and professional institutions and societies; and
 
 &emsp;(5) to improve the quality of education at all levels in the fields of mathematics, science, and engineering.
 

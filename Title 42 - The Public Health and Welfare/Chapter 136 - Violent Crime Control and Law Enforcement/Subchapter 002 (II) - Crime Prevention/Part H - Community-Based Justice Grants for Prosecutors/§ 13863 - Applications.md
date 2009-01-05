@@ -10,7 +10,7 @@ Each applicant shall include—
 
 &emsp;(1) a request for funds for the purposes described in section 13862 of this title;
 
-&emsp;(2) a description of the communities to be served by the grant, including the nature of the youth crime, youth violence, and child abuse problems within such communities;
+&emsp;(2) a description of the communities to be served by the grant, including the nature ofthe youth crime, youth violence, and child abuse problems within such communities;
 
 &emsp;(3) assurances that Federal funds received under this part <sup>1</sup> shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this section; and
 

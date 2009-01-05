@@ -28,7 +28,7 @@ Subject to the availability of appropriations, the Secretary may make available 
 
 #### (c) Prepayment and refinancing
 
-Any prepayment or refinancing terms on a loan guarantee shall be negotiated between thenon-Federal borrower and the lender with the consent of the Secretary.
+Any prepayment or refinancing terms on a loan guarantee shall be negotiated between the non-Federal borrower and the lender with the consent of the Secretary.
 
 (Pub. L. 109–451, title II, §204, Dec. 22, 2006, 120 Stat. 3358.)
 

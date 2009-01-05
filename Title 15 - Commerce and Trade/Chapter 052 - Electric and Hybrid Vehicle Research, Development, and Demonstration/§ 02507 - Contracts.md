@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization,public or private agency, institution, organization, corporation, partnership, or individual.
+The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization, public or private agency, institution, organization, corporation, partnership, or individual.
 
 #### (b) Consultation
 
@@ -28,7 +28,7 @@ The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subs
 
 The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), referred to in subsec. (e), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), referred to in subsec. (e), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, PublicContracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Codification
 

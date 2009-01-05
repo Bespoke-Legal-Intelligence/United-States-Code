@@ -14,7 +14,7 @@ A prior subchapter IV, Indochina Postwar Reconstruction, consisted of sections 2
 - [&sect; 02431b - Establishment of Facility](%C2%A7%2002431b%20-%20Establishment%20of%20Facility.md)
 - [&sect; 02431c - Eligibility for benefits](%C2%A7%2002431c%20-%20Eligibility%20for%20benefits.md)
 - [&sect; 02431d - Reduction of debt owed to United States as result of concessional loans under this chapter](%C2%A7%2002431d%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20concessional%20loans%20under%20this%20chapter.md)
-- [&sect; 02431e - Reduction of debt owed to United States as result of credits extended under title I of Agricultural Trade Development and Assistance Act&#8230;](%C2%A7%2002431e%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20credits%20extended%20under%20title%20I%20of%20Agricultural%20Trade%20Development%20and%20Assistance%20Act%E2%80%A6.md)
+- [&sect; 02431e - Reduction of debt owed to United States as result of credits extended under title I of Food for Peace Act](%C2%A7%2002431e%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20credits%20extended%20under%20title%20I%20of%20Food%20for%20Peace%20Act.md)
 - [&sect; 02431f - Authority to engage in debt-for-nature swaps and debt buybacks](%C2%A7%2002431f%20-%20Authority%20to%20engage%20in%20debt-for-nature%20swaps%20and%20debt%20buybacks.md)
 - [&sect; 02431g - Tropical Forest Agreement](%C2%A7%2002431g%20-%20Tropical%20Forest%20Agreement.md)
 - [&sect; 02431h - Tropical Forest Fund](%C2%A7%2002431h%20-%20Tropical%20Forest%20Fund.md)

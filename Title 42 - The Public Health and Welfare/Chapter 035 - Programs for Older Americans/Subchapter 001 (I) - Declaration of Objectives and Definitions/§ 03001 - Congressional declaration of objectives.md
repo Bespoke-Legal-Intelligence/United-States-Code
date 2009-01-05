@@ -176,7 +176,7 @@ Section 1(a) of Pub. L. 95–478 provided that: “This Act \[enacting sections 
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the ‘Older Americans Amendments of 1975’.”
+Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: “That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the ‘Older Americans Amendments of 1975’.”
 
 #### Short Title of 1973 Amendment
 
@@ -536,7 +536,7 @@ Purpose.—The purpose of the Conference described in subsection (a) shall be to
 
 &emsp;“(1) evaluate the manner in which the objectives of this Act \[probably means the Older Americans Act of 1965, Pub. L. 89–73, which enacted this chapter\] can be met by using the resources and talents of older individuals, of families and communities of such individuals, and of individuals from the public and private sectors;
 
-&emsp;“(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX ofthe Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
+&emsp;“(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
 
 &emsp;“(3) develop not more than 50 recommendations to guide the President, Congress, and Federal agencies in serving older individuals.
 
@@ -646,7 +646,7 @@ Voting; chairperson.—
 
 &emsp;&emsp;“(A)
 
-Voting.—The Policy Committee shall act by the vote of a majority of the members present. Aquorum of Committee members shall not be required to conduct Committee business.
+Voting.—The Policy Committee shall act by the vote of a majority of the members present. A quorum of Committee members shall not be required to conduct Committee business.
 
 &emsp;&emsp;“(B)
 
@@ -706,7 +706,7 @@ Authorization.—
 
 In general.—There are authorized to be appropriated to carry out this section \[title\]—
 
-&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plans the Conference and for the following fiscal year; and
+&emsp;&emsp;“(A) such sums as may be necessary for the first fiscal year in which the Policy Committee plansthe Conference and for the following fiscal year; and
 
 &emsp;&emsp;“(B) such sums as may be necessary for the fiscal year in which the Conference is held.
 
@@ -729,6 +729,8 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 &emsp;“(3)
 
 Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
+
+\[Except as otherwise provided, reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

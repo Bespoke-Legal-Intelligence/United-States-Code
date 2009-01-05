@@ -46,7 +46,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
-(2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) ofsuch subsection. The full review and evaluation shall also include—
+(2) The full review and evaluation shall, independent of the determination of a Panel under subsection (c)(5), determine each of the matters specified in subparagraphs (A), (B), and (C) of such subsection. The full review and evaluation shall also include—
 
 &emsp;(A) an assessment of the cost of adopting the challenge proposal and implementing it in the acquisition program; and
 
@@ -84,15 +84,29 @@ Limitation on Use of Funds.—Funds made available for the Challenge Program may
 
 (j)
 
-Annual Report.—The Under Secretary shall submit an annual report on the Challenge Program to Congress. The report shall be submitted at the same time as the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, and shall cover the conduct of the Challenge Program for the preceding fiscal year. The report shall include the number and scope of challenge proposals submitted, preliminarily evaluated, subjected to full review and evaluation, and adopted. The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied.
+Annual Report.—The Under Secretary shall submit an annual report on the Challenge Program to Congress. The report shall be submitted at the same time as the President submits the budget for a fiscal year to Congress under section 1105(a) of title 31, and shall cover the conduct of the Challenge Program for the preceding fiscal year. The report shall include the number and scope of challenge proposals submitted, preliminarily evaluated, subjected to full review and evaluation, and adopted. The report shall also include a list of each challengeproposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied.
 
 (k)
 
 Termination of Authority.—The Secretary may not carry out the Challenge Program under this section after September 30, 2012.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123.)
+(<i>l</i>)
+
+System Defined.—In this section, the term “system”—
+
+&emsp;(1) means—
+
+&emsp;&emsp;(A) the organization of hardware, software, material, facilities, personnel, data, and services needed to perform a designated function with specified results (such as the gathering of specified data, its processing, and its delivery to users); or
+
+&emsp;&emsp;(B) a combination of two or more interrelated pieces (or sets) of equipment arranged in a functional package to perform an operational function or to satisfy a requirement; and
+
+&emsp;(2) includes a major system (as defined in section 2302(5) of this title).
+
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531.)
 
 #### Amendments
+
+2008—Subsec. (<i>l</i>). Pub. L. 110–417 added subsec. (<i>l</i>).
 
 2006—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 

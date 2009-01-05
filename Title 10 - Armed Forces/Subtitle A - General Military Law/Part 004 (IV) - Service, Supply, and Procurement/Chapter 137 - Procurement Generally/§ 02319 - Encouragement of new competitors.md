@@ -18,7 +18,7 @@
 
 (c)(1) Subsection (b) of this section does not apply with respect to a qualification requirement established by statute or administrative action before October 19, 1984, unless such requirement is a qualified products list.
 
-(2)(A) Except as provided in subparagraph (B), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the purchasing office may waive the requirements of clauses (2) through (6) of subsection (b) for up to two years with respect to the item subject to the qualification requirement.
+(2)(A) Except as provided in subparagraph (B), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering anycomments of the advocate for competition reviewing such determination, the head of the purchasing office may waive the requirements of clauses (2) through (6) of subsection (b) for up to two years with respect to the item subject to the qualification requirement.
 
 (B) The waiver authority provided in this paragraph does not apply with respect to a qualified products list.
 

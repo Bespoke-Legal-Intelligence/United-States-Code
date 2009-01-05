@@ -6,7 +6,7 @@ Unless subject to section 580d of this title, use fees collected by the Secretar
 
 #### (b) Transfer
 
-Upon request of the Secretary, the Secretary of the Treasury shall transfer to the Secretary from the special account such amounts as the Secretary may request. The Secretary shall accept and use such amounts in accordance with subsection (c).
+Upon request of the Secretary, the Secretary of the Treasury shall transfer to the Secretary from the special account such amounts as theSecretary may request. The Secretary shall accept and use such amounts in accordance with subsection (c).
 
 #### (c) Use
 

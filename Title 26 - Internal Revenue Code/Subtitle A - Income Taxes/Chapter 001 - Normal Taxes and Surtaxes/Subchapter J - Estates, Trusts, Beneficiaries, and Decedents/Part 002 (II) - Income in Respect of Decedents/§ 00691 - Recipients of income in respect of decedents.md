@@ -34,7 +34,7 @@
 
 &emsp;&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, for purposes of paragraph (2)—
 
-&emsp;&emsp;&emsp;(i) the second sentence of paragraph (2) shall be applied by inserting “(other than the obligor)” after “or a transfer to a person”,
+&emsp;&emsp;&emsp;(i) the second sentence of paragraph (2) shall be applied by inserting “(other thanthe obligor)” after “or a transfer to a person”,
 
 &emsp;&emsp;&emsp;(ii) any cancellation of such an obligation shall be treated as a transfer, and
 
@@ -50,7 +50,7 @@
 
 #### (b) Allowance of deductions and credit
 
-The amount of any deduction specified in section 162, 163, 164, 212, or 611 (relating to deductions for expenses, interest, taxes, and depletion) or credit specified in section 27 (relating to foreign tax credit), in respect of a decedentwhich is not properly allowable to the decedent in respect of the taxable period in which falls the date of his death, or a prior period, shall be allowed:
+The amount of any deduction specified in section 162, 163, 164, 212, or 611 (relating to deductions for expenses, interest, taxes, and depletion) or credit specified in section 27 (relating to foreign tax credit), in respect of a decedent which is not properly allowable to the decedent in respect of the taxable period in which falls the date of his death, or a prior period, shall be allowed:
 
 #### (1) Expenses, interest, and taxes
 
@@ -100,7 +100,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
 
-&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
+&emsp;&emsp;(A) as an annuity under a joint and survivor annuity contract where the decedentannuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
 
 &emsp;&emsp;(B) during the surviving annuitant's life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
 
@@ -116,7 +116,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) The term “life expectancy period” means the period beginning with the first day of the first period for which an amountis received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
+&emsp;&emsp;(A) The term “life expectancy period” means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
 &emsp;&emsp;(B) The surviving annuitant's expected return under the contract shall be computed, as of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
@@ -254,7 +254,7 @@ Section 702(b)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(b)(10)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
@@ -272,7 +272,7 @@ Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amend
 
 #### Savings Provision
 
-Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed undersection 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
+Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 

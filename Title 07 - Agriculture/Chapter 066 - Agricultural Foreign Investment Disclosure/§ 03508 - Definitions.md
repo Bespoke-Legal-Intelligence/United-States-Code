@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “agricultural land” means any land located in one or more States and usedfor agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
+&emsp;(1) the term “agricultural land” means any land located in one or more States and used for agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
 
 &emsp;(2) the term “foreign government” means any government other than the Federal Government or any government of a State or a political subdivision of a State;
 

@@ -8,7 +8,7 @@ The purpose of this section is to confer upon the Secretary general authority to
 
 (1) Notwithstanding chapter 63 of title 31, the Secretary may use a cooperative agreement as the legal instrument reflecting a relationship between the Secretary and a State cooperative institution, State department of agriculture, college, university, other research or educational institution or organization, Federal or private agency or organization, individual, or any other party, if the Secretary determines that—
 
-&emsp;(A) the objectives of the agreement will serve a mutual interest of the parties to the agreement in agricultural research, extension, and teaching activities, including statistical reporting; and
+&emsp;(A) the objectives of the agreement will serve a mutual interest of the parties to the agreement in agricultural research, extension,and teaching activities, including statistical reporting; and
 
 &emsp;(B) all parties will contribute resources to the accomplishment of those objectives.
 

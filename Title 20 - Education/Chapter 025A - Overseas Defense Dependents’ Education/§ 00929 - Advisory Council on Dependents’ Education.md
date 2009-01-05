@@ -46,7 +46,7 @@ Members of the Council who are not in the regular full-time employ of the United
 
 The Council shall continue in existence until terminated by law.
 
-(Pub. L. 95–561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, §508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, §1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, §354(4), Oct. 5, 1999, 113 Stat. 573.)
+(Pub. L. 95–561, title XIV, §1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, §508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, titleXII, §1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, §354(4), Oct. 5, 1999, 113 Stat. 573.)
 
 #### Amendments
 

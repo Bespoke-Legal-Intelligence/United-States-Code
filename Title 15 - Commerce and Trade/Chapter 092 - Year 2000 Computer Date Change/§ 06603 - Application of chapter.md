@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-This chapter applies to any Y2K action brought after January 1, 1999, for a Y2K failureoccurring before January 1, 2003, or for a potential Y2K failure that could occur or has allegedly caused harm or injury before January 1, 2003, including any appeal, remand, stay, or other judicial, administrative, or alternative dispute resolution proceeding in such an action.
+This chapter applies to any Y2K action brought after January 1, 1999, for a Y2K failure occurring before January 1, 2003, or for a potential Y2K failure that could occur or has allegedly caused harm or injury before January 1, 2003, including any appeal, remand, stay, or other judicial, administrative, or alternative dispute resolution proceeding in such an action.
 
 #### (b) No new cause of action created
 
@@ -52,7 +52,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (ii) State
 
-&emsp;&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (iii) Local government
 

@@ -16,7 +16,9 @@
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
-(b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+(b)(1) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+
+(2) Paragraph (1) does not apply to a member or former member entitled to retired pay for non-regular service under chapter 1223 of this title who is under 60 years of age.
 
 (c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
@@ -44,6 +46,14 @@
 
 &emsp;(iv) Any other permanent duty designated by the Secretary concerned for purposes of this paragraph.
 
+(4)(A) Subject to such terms and conditions as the Secretary of Defense considers appropriate, coverage comparable to that provided by the Secretary under subsections (d) and (e) of section 1079 of this title shall be provided under this subsection to members of the uniformed services who incur a serious injury or illness on active duty as defined by regulations prescribed by the Secretary.
+
+(B) The Secretary of Defense shall prescribe in regulations—
+
+&emsp;(i) the individuals who shall be treated as the primary caregivers of a member of the uniformed services for purposes of this paragraph; and
+
+&emsp;(ii) the definition of serious injury or illness for the purposes of this paragraph.
+
 (d)(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
 
 &emsp;(A) the date of the issuance of such order; or
@@ -52,7 +62,7 @@
 
 (2) In this subsection, the term “delayed-effective-date active-duty order” means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept.30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459.)
 
 Historical and Revision Notes
 
@@ -86,6 +96,10 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
+2008—Subsec. (b). Pub. L. 110–181, §647(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (c)(4). Pub. L. 110–181, §1633(a), added par. (4).
+
 2006—Subsec. (a)(2)(B)(iii). Pub. L. 109–163 inserted “or the orders have been issued but the member has not entered active duty” before semicolon at end.
 
 2004—Subsec. (d)(3). Pub. L. 108–375 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
@@ -110,7 +124,7 @@ Pub. L. 108–106 added subsec. (d).
 
 2000—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
 
-Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
+Subsec. (c)(1). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(B)\], inserted “, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Departmentof Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service)” after “military department”.
 
 Subsec. (c)(2)(C). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(C)\], added subpar. (C).
 
@@ -148,6 +162,10 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title XVI, §1633(b), Jan. 28, 2008, 122 Stat. 459, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title VII, §743(b), Jan. 6, 2006, 119 Stat. 3360, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of November 24, 2003, and as if included in the enactment of paragraph (2) of section 1074(a) of title 10, United States Code, by section 708 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1530).”
@@ -183,6 +201,86 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Smoking Cessation Program Under TRICARE
+
+Pub. L. 110–417, \[div. A\], title VII, §713, Oct. 14, 2008, 122 Stat. 4503, provided that:
+
+“(a) TRICARE
+
+Smoking Cessation Program.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall establish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
+
+“(b)
+
+Exclusion for Medicare-Eligible Beneficiaries.—The smoking cessation program shall not be made available to medicare-eligible beneficiaries.
+
+“(c)
+
+Elements.—The program shall include, at a minimum, the following elements:
+
+&emsp;“(1) The availability, at no cost to the beneficiary, of pharmaceuticals used for smoking cessation, witha limitation on the availability of such pharmaceuticals to the national mail-order pharmacy program under the TRICARE program if appropriate.
+
+&emsp;“(2) Counseling.
+
+&emsp;“(3) Access to a toll-free quit line that is available 24 hours a day, 7 days a week.
+
+&emsp;“(4) Access to printed and Internet web-based tobacco cessation material.
+
+“(d)
+
+Chain of Command Involvement.—In establishing the program, the Secretary of Defense shall provide for involvement by officers in the chain of command of participants in the program who are on active duty.
+
+“(e)
+
+Plan.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
+
+“(f)
+
+Refund of Copayments.—
+
+&emsp;“(1)
+
+Authority.—Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary otherwise excluded by this section, subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
+
+&emsp;&emsp;“(A) the amount the beneficiary pays for copayments for smoking cessation services described in subsection (c) during fiscal year 2009; and
+
+&emsp;&emsp;“(B) the amount the beneficiary would have paid during such fiscal year if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
+
+&emsp;“(2)
+
+Copayments covered.—The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
+
+“(g)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report covering the following:
+
+&emsp;“(1) The status of the program.
+
+&emsp;“(2) The number of participants in the program.
+
+&emsp;“(3) The cost of the program.
+
+&emsp;“(4) The costs avoided that are attributed to the program.
+
+&emsp;“(5) The success rates of the program compared to other nationally recognized smoking cessation programs.
+
+&emsp;“(6) Findings regarding the success rate of participants in the program.
+
+&emsp;“(7) Recommendations to modify the policies and procedures of the program.
+
+&emsp;“(8) Recommendations concerning the future utility of the program.
+
+“(h)
+
+Definitions.—In this section:
+
+&emsp;“(1) TRICARE
+
+program.—The term ‘TRICARE program’ has the meaning provided by section 1072(7) of title 10, United States Code.
+
+&emsp;“(2)
+
+Medicare-eligible.—The term ‘medicare-eligible’ has the meaning provided by section 1111(b) of title 10, United States Code.”
 
 #### Longitudinal Study on Traumatic Brain Injury Incurred by Members of the Armed Forces in Operation Iraqi Freedom and Operation Enduring Freedom
 
@@ -242,11 +340,11 @@ Matters Covered.—The report required by subsection (a) shall describe in detai
 
 “(c)
 
-Referral to Providers Outside Military Health Care System.—The Secretary shall requirethat health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
+Referral to Providers Outside Military Health Care System.—The Secretary shall require that health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
 
 “(d)
 
-Uniform System for Tracking of Performance.—The Secretary shall establish a uniform system for tracking the performance of the military health care system in meeting the requirements for access of wounded, injured, or ill members of the Armed Forces to health care services described in subsection (a).
+Uniform System for Tracking of Performance.—The Secretary shall establish a uniform system for tracking the performance of the military health care system in meeting the requirements for access ofwounded, injured, or ill members of the Armed Forces to health care services described in subsection (a).
 
 “(e)
 
@@ -344,7 +442,7 @@ Members.—The Traumatic Brain Injury Family Caregiver Panel shall consist of 15
 
 &emsp;&emsp;“(B) Representatives of family caregivers or family caregiver associations.
 
-&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury andpersonnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
+&emsp;&emsp;“(C) Health and medical personnel of the Department of Defense and the Department of Veterans Affairs with expertise in traumatic brain injury and personnel and readiness representatives of the Department of Defense with expertise in traumatic brain injury.
 
 &emsp;&emsp;“(D) Psychologists or other individuals with expertise in the mental health treatment and care of individuals with traumatic brain injury.
 
@@ -588,7 +686,7 @@ Pub. L. 108–375, div. A, title VII, §732(b), Oct. 28, 2004, 118 Stat. 1997, p
 
 “(1)
 
-Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve componentunits fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
+Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
 
 &emsp;“(A) requiring more frequent health assessments of members than is required by section 1074f(b) of title 10, United States Code, with an objective of having every member of the Selected Reserve receive a health assessment as specified in section 1074f of such title not less frequently than once every two years; and
 
@@ -596,7 +694,7 @@ Policy.—The Secretary of Defense shall take measures, in addition to those req
 
 “(2)
 
-Review and followup care.—The measures under this subsection shall provide for review of the health assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
+Review and followup care.—The measures under this subsection shall provide for review of thehealth assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
 
 “(3)
 
@@ -700,7 +798,7 @@ Health Care at Mobilization Installations.—The Secretary of Defense shall take
 
 “(b)
 
-Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ meansa military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
 &emsp;“(1) are mobilized;
 
@@ -718,7 +816,7 @@ Policy on implementation.—The Secretary of Defense shall by regulation establi
 
 &emsp;“(2)
 
-Identification and analysis of needs.—As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilization installation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
+Identification and analysis of needs.—As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilizationinstallation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
 
 &emsp;“(3)
 
@@ -782,11 +880,11 @@ Pub. L. 108–375, div. A, title VII, §740, as added by Pub. L. 109–163, div.
 
 #### Limitation on Fiscal Year 2004 Outlays for Temporary Reserve Health Care Programs
 
-Pub. L. 108–136, div. A, title VII, §706, Nov. 24, 2003, 117 Stat. 1529, provided that:
+Pub. L. 108–136, div. A, title VII, §706, Nov. 24, 2003, 117 Stat. 1529, as amended by Pub. L. 110–181, div. A, title X, §1063(g)(1), Jan. 28, 2008, 122 Stat. 323, provided that:
 
 “(a)
 
-Outlay Limitation.—In the administration of the temporary Reserve health care programs, the Secretary of Defense shall carry out those program \[sic\] so as to limit the total Department of Defense expenditures under those programs during fiscal year 2004 to an amount not in excess $400,000,000.
+Outlay Limitation.—In the administration of the temporary Reserve health care programs, the Secretary of Defense shall carry out those programs so as to limit the total Department of Defense expenditures under those programs during fiscal year 2004 to an amount not in excess $400,000,000.
 
 “(b)
 
@@ -812,7 +910,7 @@ Plan for Disclosure of Information.—Not later than 90 days after the date of t
 
 “(b)
 
-Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shallbe the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
+Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
 
 “(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
@@ -822,7 +920,7 @@ Identification of Other Projects or Tests.—The Secretary of Defense also shall
 
 “(d) GAO
 
-Reports on Plan and Implementation.—(1) Not later than 30 days after submission of the plan under subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
+Reports on Plan and Implementation.—(1) Not later than 30 days after submission of the planunder subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
 
 “(2) Not later than six months after implementation of the plan begins, the Comptroller General shall submit to Congress a report evaluating the progress in the implementation of the plan.
 
@@ -1174,7 +1272,7 @@ Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall sub
 
 Definition.—In this section, the term ‘Persian Gulf War’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a studyby the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
+\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, seetitle VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
@@ -1252,9 +1350,9 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 “(2) For purposes of paragraph (1):
 
-&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of theArmed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
+&emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of the Armed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
 
-&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forces who has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
+&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forceswho has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
 
 &emsp;“(C) The term ‘adverse personnel action’ includes—
 

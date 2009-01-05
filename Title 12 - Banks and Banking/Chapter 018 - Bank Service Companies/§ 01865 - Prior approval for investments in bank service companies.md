@@ -24,7 +24,7 @@ In the event the Board or the appropriate Federal banking agency, as the case ma
 
 Subsec. (b). Pub. L. 109–351, §602(b)(4)(B), substituted “insured depository institution” for “insured bank” and inserted “authorized only” after “performs any service” and “perform any activity”.
 
-Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank or banks” and “capability of the insured depository institution” for “capability of the bank”.
+Subsec. (c). Pub. L. 109–351, §602(b)(4)(C), substituted “any insured depository institution” for “the bank orbanks” and “capability of the insured depository institution” for “capability of the bank”.
 
 1996—Pub. L. 104–208 substituted “companies” for “corporations” in section catchline and “company” for “corporation” wherever appearing in text.
 

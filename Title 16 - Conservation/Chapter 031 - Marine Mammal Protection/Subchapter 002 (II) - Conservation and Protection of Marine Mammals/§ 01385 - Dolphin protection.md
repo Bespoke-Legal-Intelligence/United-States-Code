@@ -106,7 +106,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 #### (g) Secretarial findings
 
-(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. Theinitial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 (2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
@@ -132,7 +132,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 1997—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
+“(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of thatproduct the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
 
 &emsp;“(A) tuna harvested on the high seas by a vessel engaged in driftnet fishing; or
 

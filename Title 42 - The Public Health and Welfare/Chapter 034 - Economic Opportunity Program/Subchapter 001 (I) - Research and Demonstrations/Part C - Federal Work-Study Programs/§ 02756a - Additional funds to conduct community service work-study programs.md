@@ -1,5 +1,7 @@
 ### §2756a. Additional funds to conduct community service work-study programs
 
+#### (a) Community service-learning
+
 Each institution participating under this part may use up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part to conduct that institution's program of community service-learning, including—
 
 &emsp;(1) development of mechanisms to assure the academic quality of the student experience,
@@ -8,11 +10,29 @@ Each institution participating under this part may use up to 10 percent of the f
 
 &emsp;(3) collaboration with public and private nonprofit agencies, and programs assisted under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\] in the planning, development, and administration of such programs.
 
-(Pub. L. 89–329, title IV, §447, as added Pub. L. 92–318, title I, §135F, June 23, 1972, 86 Stat. 271; amended Pub. L. 94–482, title I, §128(d), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §436, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567.)
+#### (b) Off-campus community service
+
+#### (1) Grants authorized
+
+&emsp;In addition to funds made available under section 2753(b)(2)(A) of this title, the Secretary is authorized to award grants to institutions participating under this part to supplement off-campus community service employment.
+
+#### (2) Use of funds
+
+&emsp;An institution shall ensure that funds granted to such institution under this subsection are used in accordance with section 2753(b)(2)(A) of this title to recruit and compensate students (including compensation for time spent in training and for travel directly related to such community service).
+
+#### (3) Priority
+
+&emsp;In awarding grants under this subsection, the Secretary shall give priority to applications that support postsecondary students assisting with early childhood education activities and activities in preparation for emergencies and natural disasters.
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+(Pub. L. 89–329, title IV, §447, as added Pub. L. 92–318, title I, §135F, June 23, 1972, 86 Stat. 271; amended Pub. L. 94–482, title I, §128(d), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §436, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567; Pub. L. 110–315, title IV, §446, Aug. 14, 2008, 122 Stat. 3260.)
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in par. (3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Prior Provisions
 
@@ -20,7 +40,9 @@ Provisions similar to this section were contained in section 2756b of this title
 
 #### Amendments
 
-1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
+2008—Pub. L. 110–315 redesignated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent ofthe funds made available under section 1096(a) of title 20 and attributable to the amount of the institution's expenditures under this part” for “funds made available under the last sentence of section 1096(a) of title 20”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See section 2756 of this title.
 

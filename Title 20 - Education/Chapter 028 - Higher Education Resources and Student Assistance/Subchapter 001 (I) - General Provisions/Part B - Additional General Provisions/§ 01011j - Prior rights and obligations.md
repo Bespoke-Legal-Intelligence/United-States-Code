@@ -4,11 +4,11 @@
 
 #### (1) Pre-1987 parts C and D of subchapter VII
 
-&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each of the 4 succeeding fiscal years to pay obligations incurred prior to 1987 under parts C and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992.
+&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to 1987 under parts C and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992.
 
 #### (2) Post-1992 and pre-1998 part C of subchapter VII
 
-&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each of the 4 succeeding fiscal years to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
+&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
 
 &emsp;&emsp;(A) after the effective date of the Higher Education Amendments of 1992; and
 
@@ -30,7 +30,7 @@
 
 > &emsp;shall be subject to the requirements of such part as such part was in effect during such period.
 
-(Pub. L. 89–329, title I, §121, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1601.)
+(Pub. L. 89–329, title I, §121, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1601; amended Pub. L. 110–315, title I, §108, Aug. 14, 2008, 122 Stat. 3094.)
 
 #### References in Text
 
@@ -43,4 +43,8 @@ Part C of subchapter VII of this chapter, as such part was in effect during the 
 Provisions similar to this section were contained in section 1132a–1 of this title prior to the general amendment of subchapter VII of this chapter by Pub. L. 105–244.
 
 A prior section 121 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to adult learning research and was classified to section 1016 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315 substituted “2009 and for each succeeding fiscal year” for “1999 and for each of the 4 succeeding fiscal years” in pars. (1) and (2).
 

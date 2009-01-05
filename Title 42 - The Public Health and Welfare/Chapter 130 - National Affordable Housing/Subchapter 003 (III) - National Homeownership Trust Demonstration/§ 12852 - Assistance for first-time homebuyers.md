@@ -22,7 +22,7 @@ The Trust shall provide assistance payments for first-time homebuyers (including
 
 #### (5) Capitalization of revolving loan funds
 
-&emsp;Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall bematched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
+&emsp;Grants to public organizations or agencies to establish revolving loan funds to provide homeownership assistance to eligible first-time homebuyers consistent with the requirements of this subchapter. Such grants shall be matched by an equal amount of local investment in such revolving loan funds. Any proceeds or repayments from loans made under this paragraph shall be returned to the revolving loan fund established under this paragraph to be used for purposes related to this section.
 
 #### (b) Eligibility requirements
 
@@ -68,7 +68,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (6) Maximum interest rate
 
-&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceed a maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
+&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceeda maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
 
 #### (7) Responsible mortgagee
 

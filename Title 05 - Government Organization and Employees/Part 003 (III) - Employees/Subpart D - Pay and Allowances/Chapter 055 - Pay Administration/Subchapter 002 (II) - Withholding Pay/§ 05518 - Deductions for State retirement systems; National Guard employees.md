@@ -52,7 +52,7 @@ Sec. 2. Each agreement between the Secretary of Defense and the Governor or othe
 
 Sec. 3. Each such agreement shall:
 
-(a) Provide that the Secretary of the Army with respect to civilian employees of the Army National Guard, and the Secretary of the Air Force with respect to civilian employees of the Air National Guard, shall comply with the requirements of such State law in the case of employee subject to the said act of June 15, 1956, as amended, who are eligible for membership in such retirement, disability, or death benefits system for State employees;
+(a) Provide that the Secretary of the Army with respect to civilian employees of the Army National Guard, and the Secretary of the Air Force with respect to civilian employees of the Air National Guard, shall comply with the requirements of such State law in the case of employee subject to the said act of June 15, 1956, as amended, who are eligible for membership in suchretirement, disability, or death benefits system for State employees;
 
 (b) Specify when the withholding of sums from the compensation of such State employees shall commence; and
 

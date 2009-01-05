@@ -2,17 +2,13 @@
 
 (a)
 
-Content.—Not later than February 28 of each year, the Secretary shall submit a report to Congress on the threat from acts of terrorism to United States ports and vessels operating from those ports. The Secretary shall include a description of activities undertaken under title I of the Maritime Transportation Security Act of 2002 (Public Law 107–295, 116 Stat. 2066) and an analysis of the effect of those activities on port security against acts of terrorism.
+Content.—The Secretary shall submit an annual report to Congress on the threat from acts of terrorism to United States ports and vessels operating from those ports. The Secretary shall include a description of activities undertaken under title I of the Maritime Transportation Security Act of 2002 (Public Law 107–295, 116 Stat. 2066) and an analysis of the effect of those activities on port security against acts of terrorism.
 
 (b)
 
 Submission.—The report shall be submitted to the Committee on International Relations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate. Any classified information in the report shall be submitted separately as an addendum.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title IX, §901(q), July 11, 2006, 120 Stat. 566.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsection (a) of this section was derived from section 1802 of the former Appendix to this title, which was amended by Pub. L. 109–241, title IX, §901(q), July 11, 2006, 120 Stat. 566. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1802 of the former Appendix to this title was amended by striking “Not later than February 28, 1987, and annually thereafter, the Secretary of Transportation shall report” and inserting “The Secretary of the department in which the Coast Guard is operating shall report annually”.</i>
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title IX, §901(q), July 11, 2006, 120 Stat. 566; Pub. L. 110–181, div. C, title XXXV, §3525(a)(5), (b), Jan. 28, 2008, 122 Stat. 601.)
 
 Historical and Revision Notes
 
@@ -41,4 +37,12 @@ In subsection (b), the words “To the extent practicable, the reports required 
 #### References in Text
 
 The Maritime Transportation Security Act of 2002, referred to in subsec. (a), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. Title I of the Act enacted subtitle VI (now subtitle VII) of this title, amended section 1802 of the former Appendix to this title, sections 661 and 724 of Title 14, Coast Guard, section 1431a of Title 19, Customs Duties, sections 1226, 1501 to 1504, 1507, and 1520 of Title 33, Navigation and Navigable Waters, and sections 192 and 195 of Title 50, War and National Defense, enacted provisions set out as notes under sections 70101, 70103, 70104, 70111, 70114, and 70116 of this title and sections 1226 and 1504 of Title 33, amended provisions set out as a note under section 2071 of Title 19, and repealed provisions set out as a note under section 2071 of Title 19. For complete classification of title I to the Code, see Tables.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §901(q). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3525(a)(5), incorporated the substance of the amendment by Pub. L. 109–241, §901(q), into this section by substituting “The Secretary shall submit an annual report” for “Not later than February 28 of each year, the Secretary shall submit a report”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–241, §901(q), which directed the amendment of section 1802 of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

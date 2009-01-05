@@ -174,7 +174,7 @@
 
 &emsp;(ii) deemed a tort action brought against the United States under the provisions of title 28 and all references thereto.
 
-(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
+(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made fromagency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
 
 (E) For the purposes of paragraph (3)(C)(ii) the provisions of sections 2680(h) of title 28 shall not apply to any claim based upon an alleged violation of subsection (b) or (c).
 
@@ -248,7 +248,7 @@ Subsec. (e)(2), (3). Pub. L. 100–238, §133(a)(5), added pars. (2) and (3) and
 
 “(3) An action may not be commenced under paragraph (2) with respect to a fiduciary's breach of any responsibility, duty, or obligation under subsection (b) or a violation of subsection (c) after the earlier of—
 
-&emsp;“(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date on which the fiduciary could have cured the breach or violation; or
+&emsp;“(A) 6 years after (i) the date of the last action which constituted a part of the breach or violation, or (ii) in the case of an omission, the latest date onwhich the fiduciary could have cured the breach or violation; or
 
 &emsp;“(B) 3 years after the earliest date on which the plaintiff had actual knowledge of the breach or violation, except that, in the case of fraud or concealment, such action may be commenced not later than 6 years after the date of discovery of such breach or violation.”
 

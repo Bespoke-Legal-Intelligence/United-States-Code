@@ -4,7 +4,7 @@ Whoever, being an officer, director, agent or employee of, or connected in any c
 
 As used in this section, the term “national bank” is synonymous with “national banking association”; “member bank” means and includes any national bank, state bank, or bank and trust company which has become a member of one of the Federal Reserve banks; “insured bank” includes any bank, banking association, trust company, savings bank, or other banking institution, the deposits of which are insured by the Federal Deposit Insurance Corporation; and the term “branch or agency of a foreign bank” means a branch or agency described in section 20(9) of this title. For purposes of this section, the term “depository institution holding company” has the meaning given such term in section 3 of the Federal Deposit Insurance Act.
 
-(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 729; Pub. L. 101–73, title IX, §961(b), Aug. 9, 1989, 103 Stat. 499; Pub. L. 101–647, title XXV, §§2504(b), 2595(a)(1), 2597(f), Nov. 29, 1990, 104 Stat. 4861, 4906, 4909; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–294, title VI, §§601(f)(1), 606(a), Oct. 11, 1996, 110 Stat. 3499, 3511.)
 
 #### Historical and Revision Notes
 

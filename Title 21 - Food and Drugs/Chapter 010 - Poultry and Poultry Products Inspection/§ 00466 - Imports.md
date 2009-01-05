@@ -20,7 +20,7 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 &emsp;(B) have been processed in facilities and under conditions that achieve a level of sanitary protection equivalent to that achieved under United States standards.
 
-(2)(A) The Secretary may treat as equivalent to a United States standard a standard of an exporting country described in paragraph (1) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologiesdetermined appropriate by the Secretary, to demonstrate that the standard of the exporting country achieves the level of sanitary protection achieved under the United States standard. For the purposes of this subsection, the term “sanitary protection” means protection to safeguard public health.
+(2)(A) The Secretary may treat as equivalent to a United States standard a standard of an exporting country described in paragraph (1) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies determined appropriate by the Secretary, to demonstrate that the standard of the exporting country achieves the level of sanitary protection achieved under the United States standard. For the purposes of this subsection, the term “sanitary protection” means protection to safeguard public health.
 
 (B) The Secretary may—
 

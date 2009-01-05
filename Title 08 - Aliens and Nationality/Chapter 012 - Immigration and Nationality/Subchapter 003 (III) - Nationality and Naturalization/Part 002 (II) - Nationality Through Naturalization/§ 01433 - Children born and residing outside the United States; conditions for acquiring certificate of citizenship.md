@@ -10,7 +10,7 @@ A parent who is a citizen of the United States (or, if the citizen parent has di
 
 &emsp;&emsp;(A) has (or, at the time of his or her death, had) been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years; or
 
-&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
+&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or itsoutlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
 
 &emsp;(3) The child is under the age of eighteen years.
 
@@ -26,9 +26,21 @@ Upon approval of the application (which may be filed from abroad) and, except as
 
 Subsections (a) and (b) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697; Pub. L. 106–395, title I, §102(a), Oct. 30, 2000, 114 Stat. 1632; Pub. L. 107–273, div. C, title I, §11030B, Nov. 2, 2002, 116 Stat. 1837.)
+#### (d) Children of Armed Forces members
+
+In the case of a child of a member of the Armed Forces of the United States who is authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member—
+
+&emsp;(1) any period of time during which the member of the Armed Forces is residing abroad pursuant to official orders shall be treated, for purposes of subsection (a)(2)(A), as physical presence in the United States;
+
+&emsp;(2) subsection (a)(5) shall not apply; and
+
+&emsp;(3) the oath of allegiance described in subsection (b) may be subscribed to abroad pursuant to section 1443a of this title.
+
+(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697; Pub. L. 106–395, title I, §102(a), Oct. 30, 2000, 114 Stat. 1632; Pub. L. 107–273, div. C, title I, §11030B, Nov. 2, 2002, 116 Stat. 1837; Pub. L. 110–181, div. A, title VI, §674(b), Jan. 28, 2008, 122 Stat. 186.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
 2002—Subsec. (a). Pub. L. 107–273, §11030B(1), in introductory provisions, inserted “(or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian)” after “citizen of the United States” and substituted “such applicant” for “such parent”.
 
@@ -68,9 +80,13 @@ Subsec. (c). Pub. L. 97–116, §18(n), added subsec. (c).
 
 1978—Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a) of this section applicable to adopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–181 effective Jan. 28, 2008, and applicable to any application for naturalization or issuance of a certificate of citizenship pending on or after such date, see section 674(d) of Pub. L. 110–181, set out as a note under section 1430 of this title.
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–395 effective 120 days after Oct. 30, 2000, and applicable to individuals who satisfy the requirements of this section or section 1431 of this title as in effect on such effective date, see section 104of Pub. L. 106–395, set out as a note under section 1431 of this title.
+Amendment by Pub. L. 106–395 effective 120 days after Oct. 30, 2000, and applicable to individuals who satisfy the requirements of this section or section 1431 of this title as in effect on such effective date, see section 104 of Pub. L. 106–395, set out as a note under section 1431 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Identification and monitoring of tanks
 
-Not later than February 3, 1991, the Secretary of Energy shall identify which single-shelled or double-shelled high-level nuclear waste tanks at the Hanford Nuclear Reservation, Richland, Washington, may have a serious potential for release of high-level waste due to uncontrolled increases in temperature or pressure. After completing such identification, the Secretary shalldetermine whether continuous monitoring is being carried out to detect a release or excessive temperature or pressure at each tank so identified. If such monitoring is not being carried out, as soon as practicable the Secretary shall install such monitoring, but only if a type of monitoring that does not itself increase the danger of a release can be installed.
+Not later than February 3, 1991, the Secretary of Energy shall identify which single-shelled or double-shelled high-level nuclear waste tanks at the Hanford Nuclear Reservation, Richland, Washington, may have a serious potential for release of high-level waste due to uncontrolled increases in temperature or pressure. After completing such identification, the Secretary shall determine whether continuous monitoring is being carried out to detect a release or excessive temperature or pressure at each tank so identified. If such monitoring is not being carried out, as soon as practicable the Secretary shall install such monitoring, but only if a type of monitoring that does not itself increase the danger of a release can be installed.
 
 #### (b) Action plans
 
@@ -20,7 +20,7 @@ Not later than May 5, 1991, the Secretary shall submit to Congress a report on a
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(g)(16)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(g)(16)(D)(i), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 108–136, §3141(g)(16)(D)(ii), substituted “Not later than February 3, 1991,” for “Within 90 days after the date of the enactment of this Act,”.
 

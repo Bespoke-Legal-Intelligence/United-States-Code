@@ -56,7 +56,7 @@ Subsec. (c)(1). Pub. L. 106–65, §354(2)(C), inserted “(20 U.S.C. 901 et seq
 
 Subsec. (c)(2). Pub. L. 106–65, §354(2)(D), substituted a comma for the period at end.
 
-Subsec. (c)(6). Pub. L. 106–65, §354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a) of this section” for “Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics”.
+Subsec. (c)(6). Pub. L. 106–65, §354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a) of this section” for “Assistant Secretaryof Defense for Manpower, Reserve Affairs, and Logistics”.
 
 Subsec. (d)(1). Pub. L. 106–65, §354(2)(F), struck out “for the Office of Dependents’ Education” after “area offices”.
 

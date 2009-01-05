@@ -5,7 +5,8 @@
 | [971\.](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md) | Service credit: officers may not count service performed while serving as cadet or midshipman. |
 | [972\.](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md) | Members: effect of time lost. |
 | [973\.](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md) | Duties: officers on active duty; performance of civil functions restricted. |
-| \[974, 975. | Repealed or Renumbered.\] |
+| [974\.](%C2%A7%2000974%20-%20Uniform%20performance%20policies%20for%20military%20bands%20and%20other%20musical%20units.md) | Uniform performance policies for military bands and other musical units. |
+| \[975. | Renumbered.\] |
 | [976\.](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md) | Membership in military unions, organizing of military unions, and recognition of military unions prohibited. |
 | \[977. | Repealed.\] |
 | [978\.](%C2%A7%2000978%20-%20Drug%20and%20alcohol%20abuse%20and%20dependency%20testing%20of%20new%20entrants.md) | Drug and alcohol abuse and dependency: testing of new entrants. |
@@ -15,14 +16,18 @@
 | [982\.](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md) | Members: service on State and local juries. |
 | [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md) | Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies. |
 | [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md) | Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits. |
-| [986\.](%C2%A7%2000986%20-%20Security%20clearances%20limitations.md) | Security clearances: limitations. |
+| \[986. | Repealed.\] |
 | [987\.](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md) | Terms of consumer credit extended to members and dependents: limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2006—Pub. L. 109–364, div. A, title VI, §670(b), Oct. 17, 2006, 120 Stat. 2269, which directed amendment of the table of sections for this title by adding item 987, was executed to the table of sections for this chapter to reflect the probable intent of Congress.
+2008—Pub. L. 110–181, div. A, title V, §590(a)(2), title X, §1072(b)(2), Jan. 28, 2008, 122 Stat. 138, 330, added item 974 and struck out item 986 “Security clearances: limitations”.
+
+Pub. L. 110–181, div. A, title X, §1063(c)(6), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, §670(b). See 2006 Amendment note below.
+
+2006—Pub. L. 109–364, div. A, title VI, §670(b), Oct. 17, 2006, 120 Stat. 2269, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(6), Jan. 28, 2008, 122 Stat. 323, added item 987.
 
 Pub. L. 109–163, div. A, title VI, §662(c)(2), Jan. 6, 2006, 119 Stat. 3315, substituted “Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits” for “Persons convicted of capital crimes: denial of certain burial-related benefits” in item 985.
 
@@ -80,7 +85,7 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00971 - Service credit officers may not count service performed while serving as cadet or midshipman](%C2%A7%2000971%20-%20Service%20credit%20officers%20may%20not%20count%20service%20performed%20while%20serving%20as%20cadet%20or%20midshipman.md)
 - [&sect; 00972 - Members effect of time lost](%C2%A7%2000972%20-%20Members%20effect%20of%20time%20lost.md)
 - [&sect; 00973 - Duties officers on active duty; performance of civil functions restricted](%C2%A7%2000973%20-%20Duties%20officers%20on%20active%20duty%3B%20performance%20of%20civil%20functions%20restricted.md)
-- [&sect; 00974 - Repealed. Pub. L. 105&#8211;261, div. A, title V, &sect;569(a), Oct. 17, 1998, 112 Stat. 2032](%C2%A7%2000974%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7569%28a%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202032.md)
+- [&sect; 00974 - Uniform performance policies for military bands and other musical units](%C2%A7%2000974%20-%20Uniform%20performance%20policies%20for%20military%20bands%20and%20other%20musical%20units.md)
 - [&sect; 00975 - Renumbered &sect;2390](%C2%A7%2000975%20-%20Renumbered%20%C2%A72390.md)
 - [&sect; 00976 - Membership in military unions, organizing of military unions, and recognition of military unions prohibited](%C2%A7%2000976%20-%20Membership%20in%20military%20unions%2C%20organizing%20of%20military%20unions%2C%20and%20recognition%20of%20military%20unions%20prohibited.md)
 - [&sect; 00977 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;651(e)(1), Oct. 28, 2004, 118 Stat. 1972](%C2%A7%2000977%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7651%28e%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201972.md)
@@ -91,5 +96,5 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00982 - Members service on State and local juries](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md)
 - [&sect; 00983 - Institutions of higher education that prevent ROTC access or military recruiting on campus denial of grants and contracts from Department&#8230;](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prevent%20ROTC%20access%20or%20military%20recruiting%20on%20campus%20denial%20of%20grants%20and%20contracts%20from%20Department%E2%80%A6.md)
 - [&sect; 00985 - Persons convicted of capital crimes; certain other persons denial of specified burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%3B%20certain%20other%20persons%20denial%20of%20specified%20burial-related%20benefits.md)
-- [&sect; 00986 - Security clearances limitations](%C2%A7%2000986%20-%20Security%20clearances%20limitations.md)
+- [&sect; 00986 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1072(b)(1), Jan. 28, 2008, 122 Stat. 329](%C2%A7%2000986%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20329.md)
 - [&sect; 00987 - Terms of consumer credit extended to members and dependents limitations](%C2%A7%2000987%20-%20Terms%20of%20consumer%20credit%20extended%20to%20members%20and%20dependents%20limitations.md)

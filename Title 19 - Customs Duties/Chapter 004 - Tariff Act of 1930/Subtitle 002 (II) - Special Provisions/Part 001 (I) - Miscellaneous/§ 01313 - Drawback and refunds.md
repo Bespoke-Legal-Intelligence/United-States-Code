@@ -2,7 +2,7 @@
 
 #### (a) Articles made from imported merchandise
 
-Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, thedrawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
 #### (b) Substitution for drawback purposes
 
@@ -30,7 +30,7 @@ If imported duty-paid merchandise and any other merchandise (whether imported or
 
 #### (2) Designation of import entries
 
-&emsp;For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entry of merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of the Customs Service. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
+&emsp;For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entryof merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of the Customs Service. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
 
 #### (3) When drawback certificates not required
 
@@ -56,7 +56,7 @@ The provisions of this section shall apply to materials imported and used in the
 
 #### (h) Jet aircraft engines
 
-Upon the exportation of jet aircraft engines manufactured or produced abroad that havebeen overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
+Upon the exportation of jet aircraft engines manufactured or produced abroad that have been overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
 
 #### (i) Time limitation on exportation
 
@@ -92,7 +92,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 &emsp;&emsp;&emsp;(II) received from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the party the imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
 
-> then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback under this subsection, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law or any combination thereof, exceed 99 percent of that duty, tax, or fee.
+> then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback under this subsection, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law or any combination thereof, exceed 99 percent of that duty, tax, or fee. For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.
 
 (3) The performing of any operation or combination of operations (including, but not limited to, testing, cleaning, repacking, inspecting, sorting, refurbishing, freezing, blending, repairing, reworking, cutting, slitting, adjusting, replacing components, relabeling, disassembling, and unpacking), not amounting to manufacture or production for drawback purposes under the preceding provisions of this section on—
 
@@ -110,7 +110,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 (1) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for imported merchandise of the same kind and quality shall be treated as the use of such imported merchandise if no certificate of delivery is issued with respect to such imported merchandise.
 
-(2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product's manufacture and delivery. As used in this paragraph, the term “drawback product”means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
+(2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product's manufacture and delivery. As used in this paragraph, the term “drawback product” means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
 
 #### (<i>l</i>) Regulations
 
@@ -138,7 +138,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreementthereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 (4)(A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q) of this section, if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
 
@@ -246,7 +246,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
-&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claimunder this subparagraph may designate another person to file such claim.
+&emsp;&emsp;(C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
 #### (4) Limitation on drawback
 
@@ -255,6 +255,10 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 &emsp;&emsp;(A) manufactured or produced under subsection (a) or (b) of this section by the manufacturer or producer described in clause (i) or (ii) of paragraph (2)(A), or
 
 &emsp;&emsp;(B) imported under clause (iii) or (iv) of paragraph (2)(A) had the claim qualified for drawback under subsection (j) of this section.
+
+#### (5) Special rules for ethyl alcohol
+
+&emsp;For purposes of this subsection, any duty paid under subheading 9901.00.50 of the Harmonized Tariff Schedule of the United States on imports of ethyl alcohol or a mixture of ethyl alcohol may not be refunded if the exported article upon which a drawback claim is based does not contain ethyl alcohol or a mixture of ethyl alcohol.
 
 #### (q) Packaging material
 
@@ -272,7 +276,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (4) Employing packaging material for its intended purpose prior to exportation
 
-&emsp;The use of any packaging material for its intended purpose prior to exportation shall not be treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c) of this section, or paragraph (1)(B) or (2)(C)(i) of subsection (j) of this section.
+&emsp;The use of any packaging material for its intended purpose prior to exportation shall notbe treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c) of this section, or paragraph (1)(B) or (2)(C)(i) of subsection (j) of this section.
 
 #### (r) Filing drawback claims
 
@@ -312,7 +316,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(A) all or substantially all of the rights, privileges, immunities, powers, duties, and liabilities of the predecessor; or
 
-&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of alltransferred drawback rights, inchoate or otherwise.
+&emsp;(B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
 
 (4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor's records) certifies that—
 
@@ -350,7 +354,7 @@ For purposes of subsections (a), (b), and (c) of this section, the term “destr
 
 Articles described in subsection (j)(1) of this section shall be eligible for drawback under this section if duty was paid on the merchandise upon importation into the United States and the person claiming the drawback demonstrates that the merchandise has entered the customs territory of the United States Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Guam, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.
 
-(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592.)
+(June 17, 1930, ch. 497, title III, §313, 46 Stat. 693; May 17, 1932, ch. 190, 47 Stat. 158; June 26, 1936, ch. 830, title IV, §§402, 403, 49 Stat. 1960; Aug. 8, 1951, ch. 297, 65 Stat. 175; Aug. 8, 1953, ch. 397, §12, 67 Stat. 515; Aug. 6, 1956, ch. 1021, §2, 70 Stat. 1076; Pub. L. 85–673, §1, Aug. 18, 1958, 72 Stat. 624; Pub. L. 90–630, §2(b), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–692, §3(a), Jan. 12, 1971, 84 Stat. 2076; Pub. L. 96–609, title II, §201(a), Dec. 28, 1980, 94 Stat. 3560; Pub. L. 98–573, title II, §202, Oct. 30, 1984, 98 Stat. 2973; Pub. L. 99–514, title XVIII, §1888(2), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title II, §204(c)(3), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 101–382, title I, §134(a)(1), (2), title III, §484A(a), Aug. 20, 1990, 104 Stat. 649, 707; Pub. L. 103–182, title II, §203(b)(3), (c), title VI, §632(a), Dec. 8, 1993, 107 Stat. 2089, 2092, 2192; Pub. L. 103–465, title IV, §§404(e)(5)(A), 422(d), Dec. 8, 1994, 108 Stat. 4961, 4965; Pub. L. 104–295, §§7, 10, 21(e)(4), Oct. 11, 1996, 110 Stat. 3518, 3519, 3530; Pub. L. 106–36, title II, §§2404(a), 2419(a), 2420(a)–(d), June 25, 1999, 113 Stat. 169, 178, 179; Pub. L. 106–476, title I, §§1422(a)(1), (b), 1462(a), Nov. 9, 2000, 114 Stat. 2156, 2172; Pub. L. 108–77, title II, §203(b)(3), Sept. 3, 2003, 117 Stat. 927; Pub. L. 108–429, title I, §§1556, 1557(a), 1563(a)–(d), title II, §2004(d)(6), Dec. 3, 2004, 118 Stat. 2579, 2583–2585, 2592; Pub. L. 110–234, title XV, §§15334(a), 15421(a), May 22, 2008, 122 Stat. 1517, 1547; Pub. L. 110–246, §4(a), title XV, §§15334(a), 15421(a), June 18, 2008, 122 Stat. 1664, 2279, 2309.)
 
 #### Amendment of Section
 
@@ -364,13 +368,17 @@ The North American Free Trade Agreement Implementation Act, referred to in subse
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (<i>o</i>)(2), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(3)(A)(i), (B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(3)(A)(i), (B), (5), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, O, 38 Stat. 200, which was superseded by act Sept. 21, 1922, ch. 356, title III, §313, 42 Stat. 940, and repealed by section 321 thereof. Section 313 of the 1922 act was superseded by section 313 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36 Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 The provisions of section IV, O, of the act of 1913, similar to subdivision (g) of this section concerning materials used in the construction and equipment of vessels built for foreign account, superseded a similar provision of act June 26, 1884, ch. 121, §17, 23 Stat. 57.
 
@@ -383,6 +391,10 @@ R.S. §3048, which was not repealed, read as follows: “So much money as may be
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. §3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§1, 2, 48 Stat. 1225.
 
 #### Amendments
+
+2008—Subsec. (j)(2). Pub. L. 110–246, §15421(a), inserted at end of concluding provisions “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.”
+
+Subsec. (p)(5). Pub. L. 110–246, §15334(a), added par. (5).
 
 2004—Subsec. (c). Pub. L. 108–429, §1563(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Upon the exportation, or destruction under the supervision of the Customs Service, of merchandise—
 
@@ -466,7 +478,7 @@ Pub. L. 103–465, §404(e)(5)(A), added subsec. (w).
 
 Subsec. (b). Pub. L. 103–182, §632(a)(2), substituted “any other merchandise (whether imported or domestic)” for “duty-free or domestic merchandise”, inserted “, or destruction under customs supervision,” after “there shall be allowed upon the exportation”, substituted “production of the exported or destroyed articles” for “production of the exported articles”, inserted “, but only if those articles have not been used prior to such exportation or destruction” after “merchandise used therein been imported” and “or destruction under customs supervision” after “but the total amount of drawback allowed upon the exportation”.
 
-Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days after release from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the duties paid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties.”
+Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days afterrelease from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the duties paid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties.”
 
 Subsec. (j). Pub. L. 103–182, §203(c)(1), (2), substituted “Subject to paragraph (4), if” for “If” in par. (2) and added par. (4). See Construction of 1993 Amendment note below.
 
@@ -521,6 +533,22 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 #### Change of Name
 
 “Puerto Rico” substituted in subsec. (j) for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of Title 48, Territories and Insular Possessions.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XV, §15334(b), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15334(b), June 18, 2008, 122 Stat. 1664, 2279, provided that: “The amendment made by this section \[amending this section\] applies with respect to—
+
+&emsp;“(1) imports of ethyl alcohol or a mixture of ethyl alcohol entered for consumption, or withdrawn from warehouse for consumption, on or after October 1, 2008; and
+
+&emsp;“(2) imports of ethyl alcohol or a mixture of ethyl alcohol entered for consumption, or withdrawn from warehouse for consumption, before October 1, 2008, if a duty drawback claim is filed with respect to such imports on or after October 1, 2010.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
+Pub. L. 110–234, title XV, §15421(b), May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, §4(a), title XV, §15421(b), June 18, 2008, 122 Stat. 1664, 2309, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims filed for drawback under section 313(j)(2) of the Tariff Act of 1930 \[19 U.S.C. 1313(j)(2)\] on or after the date of the enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2004 Amendment
 

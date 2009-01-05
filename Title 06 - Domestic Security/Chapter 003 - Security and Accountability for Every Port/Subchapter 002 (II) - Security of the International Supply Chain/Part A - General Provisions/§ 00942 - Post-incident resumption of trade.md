@@ -14,7 +14,7 @@ The Secretary shall develop and update, as necessary, protocols for the resumpti
 
 #### (b) Vessels
 
-In determining the prioritization of vessels accessing facilities (as defined under section 70101 of title 46), the Commandant of the Coast Guard may, to the extent practicable and consistent with the protocols and plans required under this section to ensure the safe and secure transit of vessels to ports in the United States after a transportation security incident, give priority to a vessel—
+In determining the prioritization of vessels accessing facilities (as defined under section 70101 of title 46), the Commandant of the Coast Guard may, to the extent practicable and consistent with the protocols and plans requiredunder this section to ensure the safe and secure transit of vessels to ports in the United States after a transportation security incident, give priority to a vessel—
 
 &emsp;(1) that has an approved security plan under section 70103(c) of title 46 or a valid international ship security certificate, as provided under part 104 of title 33, Code of Federal Regulations;
 

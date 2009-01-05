@@ -50,7 +50,7 @@ For purposes of this section, the term “graduate” means, unless otherwise sp
 
 #### Prior Provisions
 
-A prior section 295j, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §637(a), 102 Stat. 3149; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g)\[(i)\], 102 Stat. 4240; Aug. 16, 1989,Pub. L. 101–93, §5(n), 103 Stat. 613, related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by Pub. L. 102–408.
+A prior section 295j, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §637(a), 102 Stat. 3149; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g)\[(i)\], 102 Stat. 4240; Aug. 16, 1989, Pub. L. 101–93, §5(n), 103 Stat. 613, related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by Pub. L. 102–408.
 
 Another prior section 295j, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 23, 1988, Pub. L. 100–713, title VII, §714, 102 Stat. 4834, relating to grants and contracts to provide health care in rural areas, prior to repeal by Pub. L. 100–607, title VI, §637(b), Nov. 4, 1988, 102 Stat. 3151. Subsequently, section 637(b) of Pub. L. 100–607 was repealed by Pub. L. 101–93, §5(n)(1), Aug. 16, 1989, 103 Stat. 613, and section 5(n)(2) of Pub. L. 101–93 amended this subchapter to read as if the amendment made by section 714 of Pub. L. 100–713 had not been enacted.
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 
 
 #### Required Assurances Regarding Bloodborne Diseases
 
-Section 308 of Pub. L. 102–408 provided that: “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
+Section 308 of Pub. L. 102–408 provided that: “With respect to awards of grants or contracts under title VIIor VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
 

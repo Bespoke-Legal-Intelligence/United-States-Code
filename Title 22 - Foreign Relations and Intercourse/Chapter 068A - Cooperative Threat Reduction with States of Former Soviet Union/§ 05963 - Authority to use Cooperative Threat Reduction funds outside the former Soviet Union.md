@@ -18,23 +18,17 @@ Subject to the provisions of this section, the Secretary of Defense may obligate
 
 The authority in subsection (a) of this section to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
 
-#### (c) Limitation on total amount of obligation
-
-The amount that may be obligated in a fiscal year under the authority in subsection (a) of this section may not exceed $50,000,000.
-
-#### (d) Limitation on availability of funds
+#### (c) Limitation on availability of funds
 
 (1) The Secretary of Defense may not obligate funds for a project or activity under the authority in subsection (a) of this section until the Secretary of Defense, with the concurrence of the Secretary of State, makes each determination specified in that subsection with respect to such project or activity.
 
-(2) Not later than 15 days prior to obligating funds under the authority in subsection (a) ofthis section for a project or activity, the Secretary of Defense shall notify the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
+(2) Not later than 10 days after obligating funds under the authority in subsection (a) of this section for a project or activity, the Secretary of Defense and the Secretary of State shall notify Congress in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
 
 &emsp;(A) a justification for such determinations; and
 
 &emsp;(B) a description of the scope and duration of such project or activity.
 
-(3) In the case of a situation that threatens human life or safety or where a delay would severely undermine the national security of the United States, notification under paragraph (2) shall be made not later than 10 days after obligating funds under the authority in subsection (a) for a project or activity.
-
-#### (e) Additional limitations and requirements
+#### (d) Additional limitations and requirements
 
 Except as otherwise provided in subsections (a) and (b) of this section, the exercise of the authority in subsection (a) of this section shall be subject to any requirement or limitation under another provision of law as follows:
 
@@ -44,13 +38,21 @@ Except as otherwise provided in subsections (a) and (b) of this section, the exe
 
 &emsp;(3) Any limitation on Cooperative Threat Reduction projects or activities.
 
-(Pub. L. 108–136, div. A, title XIII, §1308, Nov. 24, 2003, 117 Stat. 1662; Pub. L. 110–53, title XVIII, §1811(4), Aug. 3, 2007, 121 Stat. 493.)
+(Pub. L. 108–136, div. A, title XIII, §1308, Nov. 24, 2003, 117 Stat. 1662; Pub. L. 110–53, title XVIII, §1811(4), Aug. 3, 2007, 121 Stat. 493; Pub. L. 110–181, div. A, title XIII, §1305, Jan. 28, 2008, 122 Stat. 413.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §1305(1), substituted “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:” for “Subject to the provisions of this section, the Secretary of Defense may obligate and expend Cooperative Threat Reduction funds for a fiscal year, and any Cooperative Threat Reduction funds for a fiscal year before such fiscal year that remain available for obligation, for a proliferation threat reduction project or activity outside the states of the former Soviet Union if the Secretary of Defense, with the concurrence of the Secretary of State, determines each of the following:”.
+
+Subsec. (c). Pub. L. 110–181, §1305(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) required the Secretary of Defense, with the concurrence of the Secretary of State, to make certain determinations before obligating funds under subsec. (a).
+
+Pub. L. 110–181, §1305(2), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) of this section may not exceed $50,000,000.”
+
+Subsecs. (d), (e). Pub. L. 110–181, §1305(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 2007—Subsec. (a). Pub. L. 110–53, §1811(4)(A), in introductory provisions, substituted “the Secretary of Defense may” for “the President may” and “if the Secretary of Defense, with the concurrence of the Secretary of State,” for “if the President”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the “Program”), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise,assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the “Program”), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
 
 &emsp;(1) Each member of the Advisory Council shall serve for a term of 2 years, and each such member may serve as many as 3 consecutive 2-year terms, except that—
 
@@ -80,7 +80,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(A) operate a system for identifying, matching, and facilitating the distribution of donated cord blood units that are suitably matched to candidate patients and meet all applicable Federal and State regulations (including informed consent and Food and Drug Administration regulations) from a qualified cord blood bank;
 
-&emsp;&emsp;(B) consistent with paragraph (3), allow transplant physicians, other appropriate health care professionals, and patients to search by means of electronic access all available cord blood units made available through the Program;
+&emsp;&emsp;(B) consistent with paragraph (3), allow transplant physicians, other appropriate health care professionals, and patients tosearch by means of electronic access all available cord blood units made available through the Program;
 
 &emsp;&emsp;(C) allow transplant physicians and other appropriate health care professionals to reserve, as defined by the Secretary, a cord blood unit for transplantation;
 
@@ -124,7 +124,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (1) Recruitment; priorities
 
-&emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. Inthe case of populations that are identified under the preceding sentence:
+&emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. In the case of populations that are identified under the preceding sentence:
 
 &emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelated donor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
@@ -144,7 +144,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (B) Priorities
 
-&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A), the Program shall give priority to recruiting individuals to serve as donors of bone marrow for populations that are identified under paragraph (1).
+&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A),the Program shall give priority to recruiting individuals to serve as donors of bone marrow for populations that are identified under paragraph (1).
 
 #### (3) Transplantation as treatment option
 
@@ -188,7 +188,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the recruitment program under paragraph (1), the Program shall support informational and educational activities in coordination with qualified cord blood banks and organ donation publicawareness campaigns operated through the Department of Health and Human Services, for purposes of recruiting pregnant women to serve as donors of cord blood. Such information and educational activities shall include the following:
+&emsp;&emsp;In carrying out the recruitment program under paragraph (1), the Program shall support informational and educational activities in coordination with qualified cord blood banks and organ donation public awareness campaigns operated through the Department of Health and Human Services, for purposes of recruiting pregnant women to serve as donors of cord blood. Such information and educational activities shall include the following:
 
 &emsp;&emsp;&emsp;(i) Making information available to the general public, including information describing the needs of patients with respect to cord blood units.
 
@@ -212,7 +212,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and maintain, through a contract or other means determined appropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the “Office”).
+&emsp;The Secretary shall establish and maintain, through a contract or other means determinedappropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the “Office”).
 
 #### (2) General functions
 
@@ -264,7 +264,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (i) Comment procedures
 
-The Secretary shall establish and provide information to the public on procedures underwhich the Secretary shall receive and consider comments from interested persons relating to the manner in which the Program is carrying out the duties of the Program. The Secretary may promulgate regulations under this section.
+The Secretary shall establish and provide information to the public on procedures under which the Secretary shall receive and consider comments from interested persons relating to the manner in which the Program is carrying out the duties of the Program. The Secretary may promulgate regulations under this section.
 
 #### (j) Consultation
 
@@ -484,7 +484,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct astudy of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

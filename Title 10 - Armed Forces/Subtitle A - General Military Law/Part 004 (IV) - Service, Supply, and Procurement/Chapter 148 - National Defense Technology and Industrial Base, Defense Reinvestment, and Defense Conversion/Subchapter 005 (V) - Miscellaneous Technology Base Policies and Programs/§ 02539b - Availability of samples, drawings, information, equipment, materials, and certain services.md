@@ -10,9 +10,11 @@ Authority.—The Secretary of Defense and the Secretaries of the military depart
 
 &emsp;&emsp;(A) for use in independent research and development programs, subject to the condition that the equipment or material be used exclusively for such research and development; or
 
-&emsp;&emsp;(B) for use in demonstrations to a friendly foreign government; and
+&emsp;&emsp;(B) for use in demonstrations to a friendly foreign government;
 
-&emsp;(3) make available to any person or entity, at an appropriate fee, the services of any government laboratory, center, range, or other testing facility for the testing of materials, equipment, models, computer software, and other items.
+&emsp;(3) make available to any person or entity, at an appropriate fee, the services of any government laboratory, center, range, or other testing facility for the testing of materials, equipment, models, computer software, and other items; and
+
+&emsp;(4) make available to any person or entity, through leases, contracts, or other appropriate arrangements, facilities, services, and equipment of any government laboratory, research center, or range, if the facilities, services, and equipment provided will not be in direct competition with the domestic private sector.
 
 (b)
 
@@ -20,15 +22,21 @@ Confidentiality of Test Results.—The results of tests performed with services 
 
 (c)
 
-Fees.—Fees for services made available under subsection (a)(3) shall be established in the regulations prescribed pursuant to subsection (a). Such fees may not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
+Fees.—Fees made available under subsections (a)(3) and (a)(4) shall be established in the regulations prescribed pursuant to subsection (a). Such fees may not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
 
 (d)
 
-Use of Fees.—Fees received for services made available under subsection (a)(3) may be credited to the appropriations or other funds of the activity making such services available.
+Use of Fees.—Fees received under subsections (a)(3) and (a)(4) may be credited to the appropriations or other funds of the activity making such services available.
 
-(Added Pub. L. 103–160, div. A, title VIII, §822(b)(1), Nov. 30, 1993, 107 Stat. 1705, §2541; renumbered §2539b, Pub. L. 103–337, div. A, title X, §1070(a)(13)(A), Oct. 5, 1994, 108 Stat. 2856; amended Pub. L. 103–355, title III, §3022, Oct. 13, 1994, 108 Stat. 3333; Pub. L. 104–106, div. A, title VIII, §804, div. D, title XLIII, §4321(a)(8), Feb. 10, 1996, 110 Stat. 390, 671; Pub. L. 106–65, div. A, title X, §1066(a)(23), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 103–160, div. A, title VIII, §822(b)(1), Nov. 30, 1993, 107 Stat. 1705, §2541; renumbered §2539b, Pub. L. 103–337, div. A, title X, §1070(a)(13)(A), Oct. 5, 1994, 108 Stat. 2856; amended Pub. L. 103–355, title III, §3022, Oct. 13, 1994, 108 Stat. 3333; Pub. L. 104–106, div. A, title VIII, §804, div. D, title XLIII, §4321(a)(8), Feb. 10, 1996, 110 Stat. 390, 671; Pub. L. 106–65, div. A, title X, §1066(a)(23), Oct. 5, 1999, 113 Stat. 771; Pub. L. 110–181, div. A, title II, §232, Jan. 28, 2008, 122 Stat. 46.)
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–181, §232(1), added par. (4).
+
+Subsec. (c). Pub. L. 110–181, §232(2), struck out “for services” before “made available” and substituted “subsections (a)(3) and (a)(4)” for “subsection (a)(3)”.
+
+Subsec. (d). Pub. L. 110–181, §232(3), struck out “for services made available” after “Fees received” and substituted “subsections (a)(3) and (a)(4)” for “subsection (a)(3)”.
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “Secretaries of the military departments” for “secretaries of the military departments”.
 

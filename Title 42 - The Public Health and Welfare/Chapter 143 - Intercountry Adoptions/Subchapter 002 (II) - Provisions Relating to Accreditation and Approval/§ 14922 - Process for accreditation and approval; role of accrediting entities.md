@@ -30,7 +30,7 @@ The duties described in this subsection are the following:
 
 #### (2) Oversight
 
-&emsp;Ongoing monitoring of the compliance of accredited agencies and approved persons with applicable requirements, including review ofcomplaints against such agencies and persons in accordance with procedures established by the accrediting entity and approved by the Secretary.
+&emsp;Ongoing monitoring of the compliance of accredited agencies and approved persons with applicable requirements, including review of complaints against such agencies and persons in accordance with procedures established by the accrediting entity and approved by the Secretary.
 
 #### (3) Enforcement
 

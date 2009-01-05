@@ -24,7 +24,7 @@
 
 &emsp;(B) an article not previously subject to the restriction being included within the restriction;
 
-> the President may proclaim changes in subchapter IV of chapter 99 of the Harmonized Tariff Schedule to conform that subchapter to the fullest extent possible to part 3 of the Appendix to the old Schedules.
+> the President may proclaim changes in subchapter IV of chapter 99 of the Harmonized Tariff Schedule to conform that subchapter to thefullest extent possible to part 3 of the Appendix to the old Schedules.
 
 (2) Whenever the President determines that the conversion from headnote 2 of subpart A of part 10 of schedule 1 of the old Schedules to Additional U.S. Note 2, chapter 17, of the Harmonized Tariff Schedule results in—
 

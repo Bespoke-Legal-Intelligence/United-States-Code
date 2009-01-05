@@ -9,6 +9,7 @@
 
 - [&sect; 08101 - Definitions](%C2%A7%2008101%20-%20Definitions.md)
 - [&sect; 08102 - Compensation for disability or death of employee](%C2%A7%2008102%20-%20Compensation%20for%20disability%20or%20death%20of%20employee.md)
+- [&sect; 08102a - Death gratuity for injuries incurred in connection with employee's service with an Armed Force](%C2%A7%2008102a%20-%20Death%20gratuity%20for%20injuries%20incurred%20in%20connection%20with%20employee%27s%20service%20with%20an%20Armed%20Force.md)
 - [&sect; 08103 - Medical services and initial medical and other benefits](%C2%A7%2008103%20-%20Medical%20services%20and%20initial%20medical%20and%20other%20benefits.md)
 - [&sect; 08104 - Vocational rehabilitation](%C2%A7%2008104%20-%20Vocational%20rehabilitation.md)
 - [&sect; 08105 - Total disability](%C2%A7%2008105%20-%20Total%20disability.md)

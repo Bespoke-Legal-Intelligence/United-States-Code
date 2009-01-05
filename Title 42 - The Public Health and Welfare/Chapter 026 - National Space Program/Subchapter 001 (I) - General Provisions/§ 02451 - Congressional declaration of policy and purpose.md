@@ -50,7 +50,7 @@ The Congress declares that the general welfare and security of the United States
 
 It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), (f), and (g) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L.109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Duties.—(1) The Commission shall—
 
 &emsp;&emsp;“(i) the extent to which the current system for controlling the export of aerospace goods, services, and technologies reflects an adequate balance between the need to protect national security and the need to ensure unhindered access to the global marketplace; and
 
-&emsp;&emsp;“(ii) the adequacy of United States and multilateral trade laws and policies for maintaining theinternational competitiveness of the United States aerospace industry.
+&emsp;&emsp;“(ii) the adequacy of United States and multilateral trade laws and policies for maintaining the international competitiveness of the United States aerospace industry.
 
 &emsp;“(E) Policies governing taxation, particularly with a view to assessing the impact of current tax laws and practices on the international competitiveness of the aerospace industry.
 
@@ -220,7 +220,7 @@ Bimonthly Reporting on Russian Status.—Not later than the first day of the fir
 
 “(b)
 
-Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
+Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision toproceed with the permanent replacement and the costs associated with the decision.
 
 “(c)
 
@@ -302,7 +302,7 @@ Establishment of Program.—In order to promote a ‘faster, cheaper, better’ 
 
 “(b)
 
-Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
+Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space AdministrationCenters, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
 
 “(c)
 
@@ -690,7 +690,7 @@ Sec. 301. The Administrator should develop an aggressive and balanced plan of sc
 
 &emsp;“(1) the robotic exploration of other solar system bodies;
 
-&emsp;“(2) the study and observation of other celestial bodies and phenomena at spectral wave lengths andresolutions that will enhance our understanding of the universe;
+&emsp;“(2) the study and observation of other celestial bodies and phenomena at spectral wave lengths and resolutions that will enhance our understanding of the universe;
 
 &emsp;“(3) the enhanced study and monitoring of Earth as an interacting system;
 
@@ -780,7 +780,7 @@ Sec. 108. In order to ensure that the development of the space station is part o
 
 “
 
-Sec. 109. (a) It is the sense of the Congress that the launching and servicing of the space station should be accomplished by the most cost-effective use of space transportation systems, including the space shuttle and expendable launch vehicles.
+Sec. 109. (a) It is the sense of the Congress that the launching and servicing of the space station should be accomplished by the most cost-effective use of spacetransportation systems, including the space shuttle and expendable launch vehicles.
 
 “(b) Not later than January 15, 1988, the Administrator shall submit a preliminary report on the cost-effective use of space transportation systems for the launch of space station elements during the development and operation of the space station. The Administrator shall consider—
 
@@ -804,7 +804,7 @@ Sec. 110. (a) The Administrator shall set and collect reasonable user fees for t
 
 &emsp;“(3) conserve and efficiently allocate the resources of the space station.
 
-“(c) The Administrator may, on a case-by-case basis, waive or modify such user fees when in the Administrator's judgment such waiver or modification will furtherthe goals and purposes of the National Aeronautics and Space Act of 1958 \[42 U.S.C. 2451 et seq.\], including—
+“(c) The Administrator may, on a case-by-case basis, waive or modify such user fees when in the Administrator's judgment such waiver or modification will further the goals and purposes of the National Aeronautics and Space Act of 1958 \[42 U.S.C. 2451 et seq.\], including—
 
 &emsp;“(1) the advancement of scientific or engineering knowledge;
 

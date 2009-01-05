@@ -2,7 +2,7 @@
 
 #### (a) Common stock; issuance
 
-The common stock of the Corporation shall consist of voting common stock, which shall be issued to such holders in the manner and amount, and subject to any limitations on concentration of ownership, as may be established by the Corporation.
+The common stock of the Corporation shall consist of voting common stock, which shall be issued to such holders in the manner andamount, and subject to any limitations on concentration of ownership, as may be established by the Corporation.
 
 #### (b) Par value
 
@@ -14,7 +14,7 @@ The voting common stock shall have such par value and other characteristics as t
 
 1992—Subsec. (a). Pub. L. 102–550, §1382(i)(2), (3)(C), redesignated par. (1) as subsec. (a), struck out provisions of par. (1)(A) which related to common stock of Corporation consisting in part of nonvoting common stock issued only to Federal home loan banks, restate provisions of par. (1)(B) as text of subsec. (a), and redesignated par. (2) as subsec. (b).
 
-Subsec. (b). Pub. L. 102–550, §1382(i)(1), (3), redesignated subsec. (a)(2) as (b), struck out “nonvoting common stock and the” before “voting common stock shall have such”, struck out at end “Nonvoting common stock of the Corporation shall be evidenced in the manner and shall be transferable only to the extent, to the transferees, and in the manner, provided by the Corporation.”, and struck out former subsec. (b) which read as follows: “The Federal home loan banks shall from time to time subscribe, at such price not less than par as the Corporation shall from time to time fix, forsuch amounts of nonvoting common stock as the Corporation prescribes, and such banks shall pay therefor at such time or times and in such amount or amounts as may from time to time be fixed by call of the Corporation. The amount of the payments for which such banks may be obligated under such subscriptions shall not exceed a cumulative total of $100,000,000.”
+Subsec. (b). Pub. L. 102–550, §1382(i)(1), (3), redesignated subsec. (a)(2) as (b), struck out “nonvoting common stock and the” before “voting common stock shall have such”, struck out at end “Nonvoting common stock of the Corporation shall be evidenced in the manner and shall be transferable only to the extent, to the transferees, and in the manner, provided by the Corporation.”, and struck out former subsec. (b) which read as follows: “The Federal home loan banks shall from time to time subscribe, at such price not less than par as the Corporation shall from time to time fix, for such amounts of nonvoting common stock as the Corporation prescribes, and such banks shall pay therefor at such time or times and in such amount or amounts as may from time to time be fixed by call of the Corporation. The amount of the payments for which such banks may be obligated under such subscriptions shall not exceed a cumulative total of $100,000,000.”
 
 Subsec. (c). Pub. L. 102–550, §1382(i)(1), struck out subsec. (c) which read as follows: “Subscriptions of the respective Federal home loan banks to nonvoting common stock shall be allocated by the Corporation.”
 

@@ -4,9 +4,9 @@
 
 Except as provided in subsection (c) of this section—
 
-&emsp;(1) every registrant under this subchapter shall, on May 1, 1971, or as soon thereafter as such registrant first engages in the manufacture, distribution, or dispensing of controlled substances, and every second year thereafter,make a complete and accurate record of all stocks thereof on hand, except that the regulations prescribed under this section shall permit each such biennial inventory (following the initial inventory required by this paragraph) to be prepared on such registrant's regular general physical inventory date (if any) which is nearest to and does not vary by more than six months from the biennial date that would otherwise apply;
+&emsp;(1) every registrant under this subchapter shall, on May 1, 1971, or as soon thereafter as such registrant first engages in the manufacture, distribution, or dispensing of controlled substances, and every second year thereafter, make a complete and accurate record of all stocks thereof on hand, except that the regulations prescribed under this section shall permit each such biennial inventory (following the initial inventory required by this paragraph) to be prepared on such registrant's regular general physical inventory date (if any) which is nearest to and does not vary by more than six months from the biennial date that would otherwise apply;
 
-&emsp;(2) on the effective date of each regulation of the Attorney General controlling a substance that immediately prior to such date was not a controlled substance, each registrant under this subchapter manufacturing, distributing, or dispensing such substance shall make a complete and accurate record of all stocks thereof on hand; and
+&emsp;(2) on the effective date of each regulation of the Attorney General controlling a substancethat immediately prior to such date was not a controlled substance, each registrant under this subchapter manufacturing, distributing, or dispensing such substance shall make a complete and accurate record of all stocks thereof on hand; and
 
 &emsp;(3) on and after May 1, 1971, every registrant under this subchapter manufacturing, distributing, or dispensing a controlled substance or substances shall maintain, on a current basis, a complete and accurate record of each such substance manufactured, received, sold, delivered, or otherwise disposed of by him, except that this paragraph shall not require the maintenance of a perpetual inventory.
 
@@ -32,7 +32,13 @@ The foregoing provisions of this section shall not apply—
 
 #### (d) Periodic reports to Attorney General
 
-Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
+(1) Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
+
+(2) Each pharmacy with a modified registration under section 823(f) of this title that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this paragraph, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
+
+&emsp;(A) 100 or more prescriptions dispensed.
+
+&emsp;(B) 5,000 or more dosage units of all controlled substances combined.
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 
@@ -48,7 +54,7 @@ Every registrant under this subchapter shall be required to report any change of
 
 #### (h) Reporting requirements for GHB
 
-In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under section 355 of this title, the Attorney General may, in addition to any other requirements that apply under thissection with respect to such a drug product, establish any of the following as reporting requirements:
+In the case of a drug product containing gamma hydroxybutyric acid for which an application has been approved under section 355 of this title, the Attorney General may, in addition to any other requirements that apply under this section with respect to such a drug product, establish any of the following as reporting requirements:
 
 &emsp;(1) That every person who is registered as a manufacturer of bulk or dosage form, as a packager, repackager, labeler, relabeler, or distributor shall report acquisition and distribution transactions quarterly, not later than the 15th day of the month succeeding the quarter for which the report is submitted, and annually report end-of-year inventories.
 
@@ -62,13 +68,15 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 &emsp;(6) That section 830(b)(3) of this title (relating to mail order reporting) applies with respect to gamma hydroxybutyric acid to the same extent and in the same manner as such section applies with respect to the chemicals and drug products specified in subparagraph (A)(i) of such section.
 
-(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9.)
+(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824.)
 
 #### References in Text
 
 Schedules II, III, IV, and V, referred to in subsec. (c), are set out in section 812(c) of this title.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
 2000—Subsec. (h). Pub. L. 106–172 added subsec. (h).
 
@@ -83,6 +91,10 @@ Subsec. (g). Pub. L. 98–473, §515, added subsec. (g).
 Subsecs. (e), (f). Pub. L. 95–633 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1974—Subsec. (c)(1)(A). Pub. L. 93–281 substituted “any narcotic controlled substance” for “narcotic controlled substances” and made section applicable to any narcotic controlled substance prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 #### Effective Date of 1978 Amendment
 

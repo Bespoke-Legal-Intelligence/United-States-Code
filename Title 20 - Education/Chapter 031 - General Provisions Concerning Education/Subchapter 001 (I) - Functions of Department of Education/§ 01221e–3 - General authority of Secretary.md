@@ -18,7 +18,7 @@ Section 1530 of Pub. L. 95–561, as amended by Pub. L. 96–46, §2(a)(10), Aug
 
 “(a) Except as otherwise specifically provided in this Act, the provisions of this Act and the amendments and repeals made by this Act \[see Tables for classification\] shall take effect October 1, 1978.
 
-“(b) The provisions of section 412(b)(2) \[now 421(b)(2)\] of the General Education Provisions Act \[section1225(b)(2) of this title\], as added by section 1245 of this Act, shall not take effect with respect to the use of funds under section 421 of the Elementary and Secondary Education Act of 1965 \[former section 3101 of this title\] until October 1, 1980, except at the option of local educational agencies.”
+“(b) The provisions of section 412(b)(2) \[now 421(b)(2)\] of the General Education Provisions Act \[section 1225(b)(2) of this title\], as added by section 1245 of this Act, shall not take effect with respect to the use of funds under section 421 of the Elementary and Secondary Education Act of 1965 \[former section 3101 of this title\] until October 1, 1980, except at the option of local educational agencies.”
 
 #### Effective Date
 

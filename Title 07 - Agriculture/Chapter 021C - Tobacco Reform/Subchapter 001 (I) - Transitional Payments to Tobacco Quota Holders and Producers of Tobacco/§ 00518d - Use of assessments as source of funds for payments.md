@@ -62,7 +62,7 @@ In this section:
 
 #### (3) Effect of insufficient amounts
 
-&emsp;If the Secretary determines that the assessment imposed under subsection (b) will resultin insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
+&emsp;If the Secretary determines that the assessment imposed under subsection (b) will result in insufficient amounts to carry out this subchapter during a fiscal year, the Secretary shall assess such additional amounts as the Secretary determines to be necessary to carry out this subchapter during that fiscal year. The additional amount shall be allocated to manufacturers and importers of each class of tobacco product specified in paragraph (1) in the same manner and based on the same percentages applicable under paragraph (1) or (2) for that fiscal year.
 
 #### (d) Notification and timing of assessments
 
@@ -156,7 +156,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) Appeal to Secretary
 
-&emsp;A manufacturer or importer subject to this section may contest an assessment imposed on the manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
+&emsp;A manufacturer or importer subject to this section may contest an assessment imposed onthe manufacturer or importer under this section by notifying the Secretary, not later than 30 business days after receiving the assessment notification required by subsection (d), that the manufacturer or importer intends to contest the assessment.
 
 #### (2) Information
 

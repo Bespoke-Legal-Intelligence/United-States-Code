@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 &emsp;(6) Electronic equipment is essential to protect the national security of the United States, as is evidenced by the allocation of approximately 35 percent of the total research, development, and procurement budgets of the Department of Defense to electronics research.
 
-&emsp;(7) The Armed Forces of the United States will eventually depend extensively on foreignsemiconductor technology unless significant steps are taken, and taken at an early date, to retain United States leadership in semiconductor technology research.
+&emsp;(7) The Armed Forces of the United States will eventually depend extensively on foreign semiconductor technology unless significant steps are taken, and taken at an early date, to retain United States leadership in semiconductor technology research.
 
 &emsp;(8) It is in the interests of the national security and national economy of the United States for the United States to regain its traditional world leadership in the field of semiconductors.
 

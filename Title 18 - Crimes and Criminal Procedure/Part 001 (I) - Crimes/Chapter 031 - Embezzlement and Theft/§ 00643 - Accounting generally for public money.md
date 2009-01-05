@@ -20,7 +20,7 @@ The smaller punishment for an offense involving $100 or less was added. (See rev
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(2)(G), substituted “and shall be fined under this title or in a sum equal to the amount of the money embezzled, whichever is greater, or imprisoned” for “and shall be fined in a sum equal to the amount of the money embezzled or imprisoned”.
+1994—Pub. L. 103–322, §330016(2)(G), substituted “and shall be fined under this title or in a sum equal to theamount of the money embezzled, whichever is greater, or imprisoned” for “and shall be fined in a sum equal to the amount of the money embezzled or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 

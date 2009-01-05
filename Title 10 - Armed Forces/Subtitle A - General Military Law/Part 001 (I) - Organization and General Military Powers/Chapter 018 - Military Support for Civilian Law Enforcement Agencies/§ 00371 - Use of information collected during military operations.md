@@ -18,7 +18,7 @@ Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provide
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586, provided that:
 
 “(a)
 
@@ -26,7 +26,7 @@ Authority.—A joint task force of the Department of Defense that provides suppo
 
 “(b)
 
-Availability of Funds.—During fiscal years 2006 and 2007, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+Availability of Funds.—During fiscal years 2006 through 2009, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
 “(c)
 

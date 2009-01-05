@@ -10,7 +10,7 @@ An order under section 824j of this title shall require the transmitting utility
 
 (1) Before issuing an order under section 824i of this title or subsection (a) or (b) of section 824j of this title, the Commission shall issue a proposed order and set a reasonable time for parties to the proposed interconnection or transmission order to agree to terms and conditions under which such order is to be carried out, including the apportionment of costs between them and the compensation or reimbursement reasonably due to any of them. Such proposed order shall not be reviewable or enforceable in any court. The time set for such parties to agree to such terms and conditions may be shortened if the Commission determines that delay would jeopardize the attainment of the purposes of any proposed order. Any terms and conditions agreed to by the parties shall be subject to the approval of the Commission.
 
-(2)(A) If the parties agree as provided in paragraph (1) within the time set by the Commission and the Commission approves such agreement, the terms and conditions shall be included in the final order. In the case of an order under section 824i of this title, if the parties fail to agreewithin the time set by the Commission or if the Commission does not approve any such agreement, the Commission shall prescribe such terms and conditions and include such terms and conditions in the final order.
+(2)(A) If the parties agree as provided in paragraph (1) within the time set by the Commission and the Commission approves such agreement, the terms and conditions shall be included in the final order. In the case of an order under section 824i of this title, if the parties fail to agree within the time set by the Commission or if the Commission does not approve any such agreement, the Commission shall prescribe such terms and conditions and include such terms and conditions in the final order.
 
 (B) In the case of any order applied for under section 824j of this title, if the parties fail to agree within the time set by the Commission, the Commission shall prescribe such terms and conditions in the final order.
 
@@ -116,7 +116,7 @@ The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is
 
 1992—Subsec. (a). Pub. L. 102–486, §722(1), added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission.
 
-Subsec. (b). Pub. L. 102–486, §722(1), struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders.
+Subsec. (b). Pub. L. 102–486, §722(1), struck out subsec. (b) which required applicants for orders to be ready,willing, and able to reimburse parties subject to such orders.
 
 Subsec. (e). Pub. L. 102–486, §722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
 

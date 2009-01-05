@@ -126,7 +126,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;(B) any advance made to a State from the Federal unemployment account (established by section 904(g) of such Act \[42 U.S.C. 1104(g)\]) under title XII of such Act \[42 U.S.C. 1321 et seq.\] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act \[42 U.S.C. 1323\], and
 
-&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 oftitle 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+&emsp;(C) any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act \[42 U.S.C. 1109\]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
 
 > shall not be subject to reduction.
 
@@ -230,7 +230,7 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out “other than a trus
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
 
-1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k)which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
+1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 1990—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 

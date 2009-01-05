@@ -40,7 +40,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
 
-&emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
+&emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the waysdomestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
 
 &emsp;(21) the issues raised by child sexual assault in determining custody and visitation, including how to protect the safety of the child, the legitimate reasons parents may report child sexual assault, and evaluating expert testimony in custody and visitation determinations involving child sexual assault, including the current scientifically-accepted and empirically valid research on child sexual assault; <sup>2</sup>
 

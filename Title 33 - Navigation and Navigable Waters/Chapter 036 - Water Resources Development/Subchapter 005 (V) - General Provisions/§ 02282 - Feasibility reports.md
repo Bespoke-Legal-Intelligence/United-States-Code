@@ -142,7 +142,7 @@ In general.—Not later than 90 days after the date of enactment of this Act \[D
 
 &emsp;&emsp;“(C) a review of a sample of instances in which the Secretary has applied the methods identified under subparagraph (B) in the analysis of each type of water resources project; and
 
-&emsp;&emsp;“(D) a comparative evaluation of the basis and validity of state-of-the-art methods identifiedunder subparagraph (A) and the methods identified under subparagraphs (B) and (C).
+&emsp;&emsp;“(D) a comparative evaluation of the basis and validity of state-of-the-art methods identified under subparagraph (A) and the methods identified under subparagraphs (B) and (C).
 
 &emsp;“(2)
 

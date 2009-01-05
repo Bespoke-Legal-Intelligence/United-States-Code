@@ -36,3 +36,67 @@ Pub. L. 106–224, title IV, §451, as added by Pub. L. 108–412, §1, Oct. 30,
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Regulations To Improve Management and Oversight of Certain Regulated Articles
+
+Pub. L. 110–234, title X, §10204, May 22, 2008, 122 Stat. 1343, and Pub. L. 110–246, §4(a), title X, §10204, June 18, 2008, 122 Stat. 1664, 2105, provided that:
+
+“(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[June 18, 2008\], the Secretary \[of Agriculture\] shall—
+
+&emsp;“(1) take action on each issue identified in the document entitled ‘Lessons Learned and Revisions under Consideration for APHIS’ Biotechnology Framework’, dated October 4, 2007; and
+
+&emsp;“(2) as the Secretary considers appropriate, promulgate regulations to improve the management and oversight of articles regulated under the Plant Protection Act (7 U.S.C. 7701 et seq.).
+
+“(b)
+
+Inclusions.—In carrying out subsection (a), the Secretary shall take actions that are designed to enhance—
+
+&emsp;“(1) the quality and completeness of records;
+
+&emsp;“(2) the availability of representative samples;
+
+&emsp;“(3) the maintenance of identity and control in the event of an unauthorized release;
+
+&emsp;“(4) corrective actions in the event of an unauthorized release;
+
+&emsp;“(5) protocols for conducting molecular forensics;
+
+&emsp;“(6) clarity in contractual agreements;
+
+&emsp;“(7) the use of the latest scientific techniques for isolation and confinement distances;
+
+&emsp;“(8) standards for quality management systems and effective research; and
+
+&emsp;“(9) the design of electronic permits to store documents and other information relating to the permit and notification processes.
+
+“(c)
+
+Consideration.—In carrying out subsection (a), the Secretary shall consider—
+
+&emsp;“(1) establishing—
+
+&emsp;&emsp;“(A) a system of risk-based categories to classify each regulated article;
+
+&emsp;&emsp;“(B) a means to identify regulated articles (including the retention of seed samples); and
+
+&emsp;&emsp;“(C) standards for isolation and containment distances; and
+
+&emsp;“(2) requiring permit holders—
+
+&emsp;&emsp;“(A) to maintain a positive chain of custody;
+
+&emsp;&emsp;“(B) to provide for the maintenance of records;
+
+&emsp;&emsp;“(C) to provide for the accounting of material;
+
+&emsp;&emsp;“(D) to conduct periodic audits;
+
+&emsp;&emsp;“(E) to establish an appropriate training program;
+
+&emsp;&emsp;“(F) to provide contingency and corrective action plans; and
+
+&emsp;&emsp;“(G) to submit reports as the Secretary considers to be appropriate.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+

@@ -56,7 +56,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 &emsp;&emsp;(A) to have a level of annual heating and cooling energy consumption which is at least 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
 
-&emsp;&emsp;&emsp;(i) which is constructed in accordance with the standards of chapter 4 of the 2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section, and
+&emsp;&emsp;&emsp;(i) which is constructed in accordance with the standards of chapter 4 of the 2003 International Energy Conservation Code, as such Code (including supplements) is ineffect on the date of the enactment of this section, and
 
 &emsp;&emsp;&emsp;(ii) for which the heating and cooling equipment efficiencies correspond to the minimum allowed under the regulations established by the Department of Energy pursuant to the National Appliance Energy Conservation Act of 1987 and in effect at the time of completion of construction, and
 
@@ -90,9 +90,9 @@ For purposes of this section, expenditures taken into account under section 47 o
 
 #### (g) Termination
 
-This section shall not apply to any qualified new energy efficient home acquired after December 31, 2008.
+This section shall not apply to any qualified new energy efficient home acquired after December 31, 2009.
 
-(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485.)
+(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845.)
 
 #### References in Text
 
@@ -101,6 +101,8 @@ The date of the enactment of this section, referred to in subsecs. (b)(2)(B) and
 The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
+
+2008—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
 
 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
 

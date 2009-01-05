@@ -1,6 +1,6 @@
 ### §218. Relation to other laws
 
-(a) No provision of this chapter or of any order thereunder shall excuse noncompliance with any Federal or State law or municipal ordinance establishing a minimum wage higher than the minimum wage established under this chapter or a maximum work week lower than the maximum workweek established under this chapter,and no provision of this chapter relating to the employment of child labor shall justify noncompliance with any Federal or State law or municipal ordinance establishing a higher standard than the standard established under this chapter. No provision of this chapter shall justify any employer in reducing a wage paid by him which is in excess of the applicable minimum wage under this chapter, or justify any employer in increasing hours of employment maintained by him which are shorter than the maximum hours applicable under this chapter.
+(a) No provision of this chapter or of any order thereunder shall excuse noncompliance with any Federal or State law or municipal ordinance establishing a minimum wage higher than the minimum wage established under this chapter or a maximum work week lower than the maximum workweek established under this chapter, and no provision of this chapter relating to the employment of child labor shall justify noncompliance with any Federal or State law or municipal ordinance establishing a higher standard than the standard established under this chapter. No provision of this chapter shall justify any employer in reducing a wage paid by him which is in excess of the applicable minimum wage under this chapter, or justify any employer in increasing hours of employment maintained by him which are shorter than the maximum hours applicable under this chapter.
 
 (b) Notwithstanding any other provision of this chapter (other than section 213(f) of this title) or any other law—
 
@@ -18,7 +18,7 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 #### Amendments
 
-1967—Subsec. (b). Pub. L. 90–83 substituted reference to section 5102(c)(7) of title 5 for reference to par. (7) of section 202 of the Classification Act of 1949 to reflect the amendment of section 5341(a) of title 5 by section 1(97) of Pub. L. 90–83 and struck out provision covering employees described in section 7474 of title 10 in view of the repeal of section 7474 of title 10 by Pub. L. 89–554.
+1967—Subsec. (b). Pub. L. 90–83 substituted reference to section 5102(c)(7) of title 5 for reference to par. (7) ofsection 202 of the Classification Act of 1949 to reflect the amendment of section 5341(a) of title 5 by section 1(97) of Pub. L. 90–83 and struck out provision covering employees described in section 7474 of title 10 in view of the repeal of section 7474 of title 10 by Pub. L. 89–554.
 
 1966—Pub. L. 89–601 designated existing provisions as subsec. (a) and added subsec. (b).
 

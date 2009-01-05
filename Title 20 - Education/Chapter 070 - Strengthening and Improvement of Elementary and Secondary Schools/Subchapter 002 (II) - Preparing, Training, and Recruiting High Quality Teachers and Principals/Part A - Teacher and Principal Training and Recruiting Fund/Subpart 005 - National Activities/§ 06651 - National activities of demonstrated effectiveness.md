@@ -104,7 +104,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(ii) information on the quality of the early childhood educator professional development program currently conducted (as of the date of the submission of the application) by the institution of higher education or another provider in the partnership;
 
-&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership have undertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
+&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership haveundertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
 
 &emsp;&emsp;&emsp;(iv) a description of how the proposed project will be carried out, including a description of—
 
@@ -174,7 +174,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Achievement indicators
 
-&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications for grants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
+&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications forgrants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the quality and accessibility of the professional development provided;
 
@@ -248,7 +248,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (2) Membership
 
-&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretaryshall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
+&emsp;The panel shall be composed of 12 members appointed by the Secretary. The Secretary shall appoint the members from among practitioners and experts with experience relating to teacher mobility, such as teachers, members of teacher certification or licensing bodies, faculty of institutions of higher education that prepare teachers, and State policymakers with such experience.
 
 #### (3) Period of appointment; vacancies
 

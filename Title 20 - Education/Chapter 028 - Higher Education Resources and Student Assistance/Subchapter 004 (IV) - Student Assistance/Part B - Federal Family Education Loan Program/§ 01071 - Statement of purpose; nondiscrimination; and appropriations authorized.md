@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to encourage States and nonprofit private institutions and organizations to establish adequate loan insurance programs for students in eligible institutions (as defined in section 1085 of this title),
 
-&emsp;&emsp;(B) to provide a Federal program of student loan insurance for students or lenders who do not have reasonable access to a State or private nonprofit program of student loan insurance covered by an agreement under section 1078(b) of this title,
+&emsp;&emsp;(B) to provide a Federal program of student loan insurance for students or lenders who do not have reasonable access to a State or private nonprofit program of student loaninsurance covered by an agreement under section 1078(b) of this title,
 
 &emsp;&emsp;(C) to pay a portion of the interest on loans to qualified students which are insured under this part, and
 
@@ -28,9 +28,11 @@ For the purpose of carrying out this part—
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
-&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs, and
+&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
 
-&emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying a loan processing and issuance fee in accordance with section 1078(f) of this title to guaranty agencies.
+&emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying a loan processing and issuance fee in accordance with section 1078(f) of this title to guaranty agencies, and
+
+&emsp;(6) there is authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the purpose of carrying out section 1072(c)(7) of this title.
 
 > Sums appropriated under paragraphs (1), (2), (4), and (5) of this subsection shall remain available until expended. No additional sums are authorized to be appropriated under paragraph (3) or (4) of this subsection by reason of the reenactment of such paragraphs by the Higher Education Amendments of 1986.
 
@@ -38,7 +40,7 @@ For the purpose of carrying out this part—
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158; Pub. L. 110–227, §6(a), May 7, 2008, 122 Stat. 746.)
 
 #### References in Text
 
@@ -54,6 +56,8 @@ A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 
 
 #### Amendments
 
+2008—Subsec. (b)(6). Pub. L. 110–227 added par. (6).
+
 2006—Subsec. (b)(5). Pub. L. 109–171 substituted “a loan processing and issuance fee” for “an administrative cost allowance”.
 
 1998—Subsec. (d). Pub. L. 105–244 struck out heading and text of subsec. (d). Text read as follows: “Notwithstanding any other provision of this part, no new loan guarantees shall be issued after June 30, 1994, if the Secretary does not issue final regulations implementing the changes made to this part under the Higher Education Amendments of 1992 prior to that date. The authority to issue new loan guarantees shall resume upon the Secretary's issuance of such regulations. This subsection shall not provide the basis for avoiding any requirements for notice and public hearing on such regulations.”
@@ -66,9 +70,13 @@ Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
 Pub. L. 100–297 added subsec. (c).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–227, §6(b), May 7, 2008, 122 Stat. 746, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[May 7, 2008\].”
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1992 Amendment
 

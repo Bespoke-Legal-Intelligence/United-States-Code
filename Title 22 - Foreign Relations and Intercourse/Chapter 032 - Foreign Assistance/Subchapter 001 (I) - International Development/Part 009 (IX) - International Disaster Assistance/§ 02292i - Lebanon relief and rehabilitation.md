@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Congress, recognizing that prompt United States assistance is necessary to alleviate thehuman suffering arising from civil strife in Lebanon and to restore the confidence of the people of Lebanon, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other needy people in Lebanon.
+The Congress, recognizing that prompt United States assistance is necessary to alleviate the human suffering arising from civil strife in Lebanon and to restore the confidence of the people of Lebanon, authorizes the President to furnish assistance, on such terms and conditions as he may determine, for the relief and rehabilitation of refugees and other needy people in Lebanon.
 
 #### (b) Authorization of appropriations
 

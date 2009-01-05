@@ -4,7 +4,7 @@
 
 (b) The Secretary of Veterans Affairs shall provide to appropriate employment service offices and Department of Labor offices, as designated by the Secretary, on a monthly or more frequent basis, the name and address of each employer located in the areas served by such offices that offer a program of job training which has been approved by the Secretary of Veterans Affairs under section 7 of the Veterans’ Job Training Act (29 U.S.C. 1721 note).
 
-(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1097, §2008; amended Pub. L. 94–502,title VI, §606(4), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§6(b)(1), (2)(A), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4108, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1097, §2008; amended Pub. L. 94–502, title VI, §606(4), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §§6(b)(1), (2)(A), 15(a)(2), May 20, 1988, 102 Stat. 564, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4108, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### References in Text
 

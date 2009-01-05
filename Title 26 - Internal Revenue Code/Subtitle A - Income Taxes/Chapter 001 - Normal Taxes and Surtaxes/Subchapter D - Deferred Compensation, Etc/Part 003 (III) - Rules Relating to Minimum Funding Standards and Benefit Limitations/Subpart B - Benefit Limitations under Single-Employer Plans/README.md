@@ -6,13 +6,11 @@ Subpart B—Benefit Limitations Under Single-Employer Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section 101(b)(1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section 431(d)).”</i>
+<i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “section 411(d)(6),”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
 
-> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of asingle sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
+> &emsp;The corporation shall make payments under subparagraph (B) available in the same forms and at the same times as a guaranteed benefit under section 1322 of this title would be available to be paid, except that the corporation may make a benefit available in the form of a single sum if the plan provided a single sum benefit (other than a single sum described in subsection (b)(2)(A) of this section).
 
 #### (b) Definitions
 
@@ -74,9 +74,11 @@ The corporation shall prescribe rules similar to the rules in subsection (a) for
 
 &emsp;&emsp;(A) the plan is a pension plan (within the meaning of section 1002(2) of this title)—
 
-&emsp;&emsp;&emsp;(i) to which the provisions of this section do not apply (without regard to this subsection), and
+&emsp;&emsp;&emsp;(i) to which the provisions of this section do not apply (without regard to this subsection),
 
-&emsp;&emsp;&emsp;(ii) which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and
+&emsp;&emsp;&emsp;(ii) which is not a plan described in paragraph (2), (3), (4), (6), (7), (8), (9), (10), or (11) of section 1321(b) of this title, and
+
+&emsp;&emsp;&emsp;(iii) which,<sup>1</sup> was a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of such title, and
 
 &emsp;&emsp;(B) at the time the assets are to be distributed upon termination, the plan—
 
@@ -92,11 +94,17 @@ The corporation shall prescribe rules similar to the rules in subsection (a) for
 
 The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
 
-(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934.)
+(Pub. L. 93–406, title IV, §4050, as added Pub. L. 103–465, title VII, §776(a), Dec. 8, 1994, 108 Stat. 5047; amended Pub. L. 109–280, title IV, §410(a), Aug. 17, 2006, 120 Stat. 934; Pub. L. 110–458, title I, §104(e), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### Amendments
 
+2008—Subsec. (d)(4)(A)(ii), (iii). Pub. L. 110–458 added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and”.
+
 2006—Subsecs. (c) to (e). Pub. L. 109–280 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

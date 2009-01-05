@@ -1,6 +1,6 @@
 ### §8116. Limitations on right to receive compensation
 
-(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installment payments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
+(a) While an employee is receiving compensation under this subchapter, or if he has been paid a lump sum in commutation of installmentpayments until the expiration of the period during which the installment payments would have continued, he may not receive salary, pay, or remuneration of any type from the United States, except—
 
 &emsp;(1) in return for service actually performed;
 

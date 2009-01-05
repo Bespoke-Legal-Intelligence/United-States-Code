@@ -16,19 +16,19 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 303) <sup>1</sup> equal to—
+&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
 
 &emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the occurrence referred to in paragraph (1), and
 
-&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in a funding target attainment percentage of 60 percent.
+&emsp;&emsp;(B) in the case of paragraph (1)(B), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
-#### (3) Unpredictable contingent event
+#### (3) Unpredictable contingent event benefit
 
 &emsp;For purposes of this subsection, the term “unpredictable contingent event benefit” means any benefit payable solely by reason of—
 
 &emsp;&emsp;(A) a plant shutdown (or similar event, as determined by the Secretary), or
 
-&emsp;&emsp;(B) any event other than the attainment of any age, performance of any service, receipt or derivation of any compensation, or occurrence of death or disability.
+&emsp;&emsp;(B) an event other than the attainment of any age, performance of any service, receipt or derivation of any compensation, or occurrence of death or disability.
 
 #### (c) Limitations on plan amendments increasing liability for benefits
 
@@ -96,6 +96,8 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 &emsp;&emsp;(C) any other payment specified by the Secretary by regulations.
 
+> &emsp;Such term shall not include the payment of a benefit which under section 411(a)(11) may be immediately distributed without the consent of the participant.
+
 #### (e) Limitation on benefit accruals for plans with severe funding shortfalls
 
 #### (1) In general
@@ -136,11 +138,11 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (D) Release of security
 
-&emsp;&emsp;The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the funding target attainment percentage.
+&emsp;&emsp;The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the adjusted funding target attainment percentage.
 
 #### (2) Prefunding balance or funding standard carryover balance may not be used
 
-&emsp;No prefunding balance under section 430(f) or funding standard carryover balance may be used under subsection (b), (c), or (e) to satisfy any payment an employer may make under any such subsection to avoid or terminate the application of any limitation under such subsection.
+&emsp;No prefunding balance or funding standard carryover balance under section 430(f) may be used under subsection (b), (c), or (e) to satisfy any payment an employer may make under any such subsection to avoid or terminate the application of any limitation under such subsection.
 
 #### (3) Deemed reduction of funding balances
 
@@ -208,7 +210,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to this paragraph and without regard to the reduction in the value of assets under section 430(f)(4)(A)), the funding target attainment percentage for purposes of paragraph (1) shall be determined without regard to such reduction.
+&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 430(f)(4)), the funding target attainment percentage for purposes of paragraphs (1) and (2) shall be determined without regard to such reduction.
 
 #### (B) Transition rule
 
@@ -238,13 +240,21 @@ For purposes of this section—
 
 #### (C) Limitation
 
-&emsp;&emsp;Subparagraph (B) shall not apply with respect to any plan year after 2008 unless the funding target attainment percentage (determined without regard to this paragraph) of the plan for each preceding plan year after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under subparagraph (B).
+&emsp;&emsp;Subparagraph (B) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 430(f)(4)) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under subparagraph (B).
 
-#### (k) Special rule for 2008
+#### (k) Secretarial authority for plans with alternate valuation date
+
+In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
+
+#### (<i>l</i>) Single-employer plan
+
+For purposes of this section, the term “single-employer plan” means a plan which is not a multiemployer plan.
+
+#### (m) Special rule for 2008
 
 For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
 
-(Added Pub. L. 109–280, title I, §113(a)(1)(B), Aug. 17, 2006, 120 Stat. 847.)
+(Added Pub. L. 109–280, title I, §113(a)(1)(B), Aug. 17, 2006, 120 Stat. 847; amended Pub. L. 110–458, title I, §101(c)(2), Dec. 23, 2008, 122 Stat. 5097.)
 
 #### References in Text
 
@@ -252,9 +262,31 @@ Section 4022 of the Employee Retirement Income Security Act of 1974, referred to
 
 Section 412 of the Employee Retirement Income Security Act of 1974, referred to in subsec (f)(1)(B)(i), is classified to section 1112 of Title 29, Labor.
 
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–458, §101(c)(2)(A), substituted “section 430” for “section 303” in introductory provisions and “an adjusted funding” for “a funding” in subpar. (B).
+
+Subsec. (b)(3). Pub. L. 110–458, §101(c)(2)(B), inserted “benefit” after “event” in heading and substituted “an event” for “any event” in subpar. (B).
+
+Subsec. (d)(5). Pub. L. 110–458, §101(c)(2)(C), inserted concluding provisions.
+
+Subsec. (f)(1)(D). Pub. L. 110–458, §101(c)(2)(D)(i), inserted “adjusted” before “funding”.
+
+Subsec. (f)(2). Pub. L. 110–458, §101(c)(2)(D)(ii), substituted “prefunding balance or funding standard carryover balance under section 430(f)” for “prefunding balance under section 430(f) or funding standard carryover balance”.
+
+Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out “without regard to this paragraph and” before “without regard to the reduction” and substituted “section 430(f)(4)” for “section 430(f)(4)(A)” and “paragraphs (1) and (2)” for “paragraph (1)”.
+
+Subsec. (j)(3)(C). Pub. L. 110–458, §101(c)(2)(E)(ii), substituted “without regard to the reduction in the value of assets under section 430(f)(4)” for “without regard to this paragraph” and inserted “beginning” before “after” in two places.
+
+Subsecs. (k) to (m). Pub. L. 110–458, §101(c)(2)(F), added subsecs. (k) and (<i>l</i>) and redesignated former subsec. (k) as (m).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
 #### Effective Date
 
-Pub. L. 109–280, title I, §113(b), Aug. 17, 2006, 120 Stat. 852, provided that:
+Pub. L. 109–280, title I, §113(b), Aug. 17, 2006, 120 Stat. 852, as amended by Pub. L. 110–458, title I, §101(c)(3), Dec. 23, 2008, 122 Stat. 5098, provided that:
 
 “(1)
 
@@ -262,17 +294,21 @@ In general.—The amendments made by this section \[enacting this subpart\] shal
 
 “(2)
 
-Collective bargaining exception.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before January1, 2008, the amendments made by this section shall not apply to plan years beginning before the earlier of—
+Collective bargaining exception.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before January 1, 2008, the amendments made by this section shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(A) the later of—
 
 &emsp;&emsp;“(i) the date on which the last collective bargaining agreement relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Aug. 17, 2006\]), or
 
-&emsp;&emsp;“(ii) the first day of the first plan year to which the amendments made by this subsection \[probably should be “this section”, enacting this subpart\] would (but for this subparagraph \[probably should be “this paragraph”\]) apply, or
+&emsp;&emsp;“(ii) the first day of the first plan year to which the amendments made by this section \[enacting this subpart\] would (but for this paragraph) apply, or
 
 &emsp;“(B) January 1, 2010.
 
 > For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
+
+#### Temporary Modification of Application of Limitation on Benefit Accruals
+
+Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that: “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections 206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1056(g)(4)(A)) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan's adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

@@ -2,7 +2,7 @@
 
 #### (a) Exercise of President's authority pursuant to executive order respecting use
 
-The President shall, by executive order, require that motor vehicles which are owned or leased by Federal agencies and are capable of operating on gasohol shall use gasohol where available at reasonable prices and in reasonable quantities.
+The President shall, by executive order, require that motor vehicles which are owned orleased by Federal agencies and are capable of operating on gasohol shall use gasohol where available at reasonable prices and in reasonable quantities.
 
 #### (b) Exceptions
 

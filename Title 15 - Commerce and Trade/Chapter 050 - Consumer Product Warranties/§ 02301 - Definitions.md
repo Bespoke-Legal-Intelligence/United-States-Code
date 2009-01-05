@@ -10,7 +10,7 @@ For the purposes of this chapter:
 
 &emsp;(4) The term “supplier” means any person engaged in the business of making a consumer product directly or indirectly available to consumers.
 
-&emsp;(5) The term “warrantor” means any supplier or other person who gives or offers togive a written warranty or who is or may be obligated under an implied warranty.
+&emsp;(5) The term “warrantor” means any supplier or other person who gives or offers to give a written warranty or who is or may be obligated under an implied warranty.
 
 &emsp;(6) The term “written warranty” means—
 

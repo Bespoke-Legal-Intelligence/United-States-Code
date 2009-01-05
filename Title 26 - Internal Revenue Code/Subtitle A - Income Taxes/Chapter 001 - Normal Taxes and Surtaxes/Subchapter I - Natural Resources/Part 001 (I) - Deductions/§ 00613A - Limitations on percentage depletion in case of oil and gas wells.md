@@ -76,7 +76,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (4) Daily depletable natural gas quantity
 
-&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for any taxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
+&emsp;For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for anytaxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer's depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer's depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
 #### \[(5) Repealed. Pub. L. 101–508, title XI, §11815(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–557\]
 
@@ -138,13 +138,17 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (H) Temporary suspension of taxable income limit with respect to marginal production
 
-&emsp;&emsp;The second sentence of subsection (a) of section 613 shall not apply to so much of the allowance for depletion as is determined under subparagraph (A) for any taxable year beginning after December 31, 1997, and before January 1, 2008.
+&emsp;&emsp;The second sentence of subsection (a) of section 613 shall not apply to so much of the allowance for depletion as is determined under subparagraph (A) for any taxable year—
+
+&emsp;&emsp;&emsp;(i) beginning after December 31, 1997, and before January 1, 2008, or
+
+&emsp;&emsp;&emsp;(ii) beginning after December 31, 2008, and before January 1, 2010.
 
 #### (7) Special rules
 
 #### (A) Production of crude oil in excess of depletable oil quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oilproduced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
@@ -274,15 +278,17 @@ For purposes of this section—
 
 &emsp;The term “barrel” means 42 United States gallons.
 
-(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, §504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, §403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, §118(a), Dec. 20, 2006, 120 Stat. 2942.)
+(Added Pub. L. 94–12, title V, §501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§1901(a)(86), 1906(b)(13)(A), title XXI, §2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, §102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, §403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, §3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, §3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, §202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, §104(b)(9), title IV, §412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, §1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, §972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, §504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, §403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, §118(a), Dec. 20, 2006, 120 Stat. 2942; Pub. L. 110–343, div. B, title II, §210, Oct. 3, 2008, 122 Stat. 3840.)
 
 #### References in Text
 
 Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to section 3413 of Title 15, Commerce and Trade, was repealed by Pub. L. 101–60, §3(b)(5), July 26, 1989, 103 Stat. 159, effective Jan. 1, 1993.
 
-The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat.1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
+The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(6)(H). Pub. L. 110–343 substituted “for any taxable year—” for “for any taxable year beginning after December 31, 1997, and before January 1, 2008.” and added cls. (i) and (ii).
 
 2006—Subsec. (c)(6)(H). Pub. L. 109–432 substituted “2008” for “2006”.
 

@@ -4,7 +4,7 @@
 
 After notice and opportunity for a public hearing—
 
-&emsp;(1) the Governor of any State in which a major fuel burning stationary source referred to in this subsection (or class or category thereof) is located,
+&emsp;(1) the Governor of any State in which a major fuel burning stationary source referredto in this subsection (or class or category thereof) is located,
 
 &emsp;(2) the Administrator, or
 

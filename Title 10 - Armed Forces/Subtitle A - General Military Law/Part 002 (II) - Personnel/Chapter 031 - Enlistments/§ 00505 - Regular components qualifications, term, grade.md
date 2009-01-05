@@ -8,19 +8,21 @@
 
 (d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
-(2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than six years.
+(2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than eight years.
 
 (3) In the case of a member who has at least 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the Secretary concerned may accept a reenlistment for either—
 
-&emsp;(A) a specified period of at least two years but not more than six years; or
+&emsp;(A) a specified period of at least two years but not more than eight years; or
 
 &emsp;(B) an unspecified period.
 
 (4) No enlisted member is entitled to be reenlisted for a period that would expire before the end of the member's current enlistment.
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, §820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, §1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, §511, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 109–163, div. A, title V, §§543, 544, Jan. 6, 2006, 119 Stat. 3253.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, §820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, §1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, §511, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 109–163, div. A, title V, §§543, 544, Jan. 6, 2006, 119 Stat. 3253; Pub. L. 110–417, \[div. A\], title V, §531(a), Oct. 14, 2008, 122 Stat. 4449.)
 
 #### Amendments
+
+2008—Subsec. (d)(2), (3)(A). Pub. L. 110–417 substituted “eight years” for “six years”.
 
 2006—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
 

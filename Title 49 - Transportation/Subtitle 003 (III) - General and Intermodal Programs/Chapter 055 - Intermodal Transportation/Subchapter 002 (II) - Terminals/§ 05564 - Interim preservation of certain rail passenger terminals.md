@@ -14,7 +14,7 @@ Grant Requirements.—The Secretary of Transportation may make a grant of financ
 
 (c)
 
-Maximizing Preservation of Terminals.—(1) Amounts appropriated to carry out this section and section 5562(a)(2) of this title shall be expended in the way most likely to maximize the preservation of rail passenger terminals that are—
+Maximizing Preservation of Terminals.—(1) Amounts appropriated to carry out this section and section 5562(a)(2) of this title shall beexpended in the way most likely to maximize the preservation of rail passenger terminals that are—
 
 &emsp;(A) reasonably capable of conversion to intermodal transportation terminals;
 

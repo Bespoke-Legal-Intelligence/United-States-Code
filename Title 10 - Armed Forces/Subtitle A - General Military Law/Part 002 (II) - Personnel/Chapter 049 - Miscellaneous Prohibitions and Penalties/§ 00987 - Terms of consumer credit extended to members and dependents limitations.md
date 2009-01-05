@@ -84,7 +84,7 @@ Contract void.—Any credit agreement, promissory note, or other contract prohib
 
 &emsp;(4)
 
-Arbitration.—Notwithstanding section 2 of title 9, or any other Federal or State law,rule, or regulation, no agreement to arbitrate any dispute involving the extension of consumer credit shall be enforceable against any covered member or dependent of such a member, or any person who was a covered member or dependent of that member when the agreement was made.
+Arbitration.—Notwithstanding section 2 of title 9, or any other Federal or State law, rule, or regulation, no agreement to arbitrate any dispute involving the extension of consumer credit shall be enforceable against any covered member or dependent of such a member, or any person who was a covered member or dependent of that member when the agreement was made.
 
 (g)
 

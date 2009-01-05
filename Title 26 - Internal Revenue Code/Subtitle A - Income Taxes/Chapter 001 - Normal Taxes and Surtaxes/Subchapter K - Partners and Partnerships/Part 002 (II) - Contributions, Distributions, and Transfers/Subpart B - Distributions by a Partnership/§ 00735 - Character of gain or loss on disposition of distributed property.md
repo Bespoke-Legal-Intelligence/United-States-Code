@@ -18,7 +18,7 @@ In determining the period for which a partner has held property received in a di
 
 #### (1) Waiver of holding periods contained in section 1231
 
-&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be appliedwithout regard to any holding period in section 1231(b).
+&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be applied without regard to any holding period in section 1231(b).
 
 #### (2) Substituted basis property
 

@@ -12,7 +12,7 @@
 
 (b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
-&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of VeteransAffairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
+&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -68,7 +68,7 @@ Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted “subsection” 
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted “that Secretary” for second and third references to“the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
+Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted “that Secretary” for second and third references to “the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in introductory and concluding provisions and in par. (2).
 

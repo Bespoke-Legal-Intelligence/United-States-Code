@@ -18,7 +18,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(5) $600,000 shall be available for grants to applicants in each State; and
 
-&emsp;(6) the remaining funds shall be available for grants to applicants in each State in anamount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
+&emsp;(6) the remaining funds shall be available for grants to applicants in each State in an amount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
 
 #### (c) Qualification
 
@@ -56,7 +56,7 @@ The application requirements provided in section 3763 <sup>2</sup> of this titl
 
 &emsp;(3) proof of compliance with the requirements for paying filing and service fees for domestic violence cases provided in section 3796gg–5 of this title; and
 
-&emsp;(4) documentation showing that tribal, territorial, State or local prosecution, law enforcement, and courts have consulted with tribal, territorial, State, or local victim service programs during the course of developing their grant applications in order to ensure that proposed services, activities and equipment acquisitions are designed to promote the safety, confidentiality, and economic independence of victims of domestic violence, sexual assault, stalking, and dating violence.
+&emsp;(4) documentation showing that tribal, territorial, State or local prosecution, law enforcement, and courts have consulted with tribal,territorial, State, or local victim service programs during the course of developing their grant applications in order to ensure that proposed services, activities and equipment acquisitions are designed to promote the safety, confidentiality, and economic independence of victims of domestic violence, sexual assault, stalking, and dating violence.
 
 #### (e) Disbursement
 

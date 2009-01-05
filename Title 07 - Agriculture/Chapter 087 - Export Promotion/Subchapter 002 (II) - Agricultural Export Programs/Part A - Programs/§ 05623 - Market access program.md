@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Commodity Credit Corporation shall establish and carry out a program to encourage the development, maintenance, and expansion of commercial export markets for agricultural commodities through cost-share assistance to eligible trade organizations that implement a foreign market development program.
+The Commodity Credit Corporation shall establish and carry out a program to encourage the development, maintenance, and expansion of commercial export markets for agricultural commodities (including commodities that are organically produced (as defined in section 6502 of this title)) through cost-share assistance to eligible trade organizations that implement a foreign market development program.
 
 #### (b) Type of assistance
 
@@ -56,7 +56,7 @@ An eligible trade organization shall be—
 
 #### (1) Multi-year basis
 
-&emsp;The Secretary may provide assistance under this section on a multi-year basis, subject to annual review by the Secretary for compliance with the approved marketing plan.
+&emsp;The Secretary may provide assistance under this section on a multi-year basis, subject toannual review by the Secretary for compliance with the approved marketing plan.
 
 #### (2) Termination of assistance
 
@@ -112,7 +112,7 @@ An eligible trade organization shall be—
 
 &emsp;In the case of participants that received assistance under section 1736s of this title prior to November 28, 1990, and with respect to which assistance under this section would be limited under paragraph (2), any such reduction in assistance shall be phased down in equal increments over a 5-year period.
 
-(Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968.)
+(Pub. L. 95–501, title II, §203, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, §309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, §1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, §411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, §244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 110–246, title III, §3102(a), June 18, 2008, 122 Stat. 1832.)
 
 #### References in Text
 
@@ -123,6 +123,8 @@ Section 1736s of this title, referred to in subsec. (g)(3), was repealed by Pub.
 A prior section 203 of Pub. L. 95–501 enacted section 1707d of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246 inserted “(including commodities that are organically produced (as defined in section 6502 of this title))” after “agricultural commodities”.
 
 1996—Pub. L. 104–127, §244(a)(1)(A), substituted “access” for “promotion” in section catchline.
 
@@ -137,6 +139,10 @@ Subsec. (f)(2)(C) to (E). Pub. L. 103–465, §411(d)(2), inserted “or” at e
 1993—Subsec. (c)(2). Pub. L. 103–66 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide export assistance under this section on a priority basis in the case of an unfair trade practice.”
 
 1991—Subsec. (g)(3). Pub. L. 102–237 substituted “November 28, 1990,” for “the date of enactment of this Act”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -176,7 +182,7 @@ Contribution level.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—The Secretary should require a minimum contribution level of 10 percent froman eligible trade organization that receives assistance for nonbranded promotion.
+In general.—The Secretary should require a minimum contribution level of 10 percent from an eligible trade organization that receives assistance for nonbranded promotion.
 
 &emsp;&emsp;&emsp;“(ii)
 

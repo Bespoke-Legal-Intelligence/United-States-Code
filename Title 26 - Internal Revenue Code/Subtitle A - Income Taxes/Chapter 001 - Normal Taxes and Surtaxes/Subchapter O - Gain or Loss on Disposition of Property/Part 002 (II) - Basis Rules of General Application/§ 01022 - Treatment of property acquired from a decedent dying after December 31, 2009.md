@@ -82,7 +82,7 @@ Except as otherwise provided in this section—
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply where, on the lapse of time, on the occurrence of anevent or contingency, or on the failure of an event or contingency to occur, an interest passing to the surviving spouse will terminate or fail—
+&emsp;&emsp;Subparagraph (A) shall not apply where, on the lapse of time, on the occurrence of an event or contingency, or on the failure of an event or contingency to occur, an interest passing to the surviving spouse will terminate or fail—
 
 &emsp;&emsp;&emsp;(i)(I) if an interest in such property passes or has passed (for less than an adequate and full consideration in money or money's worth) from the decedent to any person other than such surviving spouse (or the estate of such spouse), and
 
@@ -148,7 +148,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case (to which subclause (I) does not apply) in which the decedent furnished consideration for the acquisition of the property, the decedent shall be treated as the owner to the extent of the portion of the property which is proportionate to such consideration, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in any case (to which subclause (I) does not apply) in which the property has been acquired by gift, bequest, devise, or inheritance by the decedent and any other person as joint tenants with right of survivorship and their interests are not otherwise specified or fixed by law, the decedent shall be treated as the owner to the extent of the value of a fractional part to be determined by dividing the value of the property by the number of joint tenants with right of survivorship.
+&emsp;&emsp;&emsp;&emsp;(III) in any case (to which subclause (I) does not apply) in which the property has been acquired by gift, bequest, devise, or inheritance by the decedent and any other person as joint tenants with right of survivorship and their interests are not otherwise specified or fixed by law, the decedent shall be treated as theowner to the extent of the value of a fractional part to be determined by dividing the value of the property by the number of joint tenants with right of survivorship.
 
 #### (ii) Revocable trusts
 

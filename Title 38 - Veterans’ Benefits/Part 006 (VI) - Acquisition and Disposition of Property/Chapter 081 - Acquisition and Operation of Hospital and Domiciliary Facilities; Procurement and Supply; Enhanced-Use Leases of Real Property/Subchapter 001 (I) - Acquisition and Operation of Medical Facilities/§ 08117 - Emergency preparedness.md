@@ -2,7 +2,7 @@
 
 (a)
 
-Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such such <sup>1</sup> an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
+Readiness of Department Medical Centers.—(1) The Secretary shall take appropriate actions to provide for the readiness of Department medical centers to protect the patients and staff of such centers from a public health emergency (as defined in section 2801 of the Public Health Service Act) or otherwise to respond to such an emergency so as to enable such centers to fulfill their obligations as part of the Federal response to such emergencies.
 
 (2) Actions under paragraph (1) shall include—
 
@@ -10,7 +10,7 @@ Readiness of Department Medical Centers.—(1) The Secretary shall take appropri
 
 &emsp;(B) the provision of training in the use of such equipment to staff of such centers;
 
-&emsp;(C) organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) <sup>2</sup> of the Homeland Security Act of 2002, or any successor plan; and
+&emsp;(C) organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) <sup>1</sup> of the Homeland Security Act of 2002, or any successor plan; and
 
 &emsp;(D) providing medical logistical support to the National Disaster Medical System and the Secretary of Health and Human Services as necessary, on a reimbursable basis, and in coordination with other designated Federal agencies.
 
@@ -36,9 +36,9 @@ Training.—The Secretary shall ensure that the Department medical centers, in c
 
 (e)
 
-Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11(b)).<sup>3</sup>
+Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11(b)).<sup>2</sup>
 
-(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to public health emergencies established under section 319F of the Public Health Service Act (42 U.S.C. 247d–6(a)).<sup>4</sup>
+(2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to public health emergencies established under section 319F of the Public Health Service Act (42 U.S.C. 247d–6(a)).<sup>3</sup>
 
 (3) The Secretary shall establish and maintain the training program under paragraph (1) in consultation with the following:
 
@@ -72,7 +72,7 @@ Mental Health Counseling.—(1) With respect to activities conducted by personne
 
 Authorization of Appropriations.—There are authorized to be appropriated, such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
 
-(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863.)
+(Added Pub. L. 107–287, §6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, §306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, §901(a)(7), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–387 substituted “respond to such” for “respond to such such”.
 
 2006—Subsec. (a)(1). Pub. L. 109–417, §306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
 
@@ -146,11 +148,9 @@ Authorization of Appropriations.—There is hereby authorized to be appropriated
 
 &emsp;&emsp;“(B) such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “(42 U.S.C. 300hh–11).”</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “(42 U.S.C. 300hh–11).”</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “(42 U.S.C. 247d–6).”</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “(42 U.S.C. 247d–6).”</i>
 

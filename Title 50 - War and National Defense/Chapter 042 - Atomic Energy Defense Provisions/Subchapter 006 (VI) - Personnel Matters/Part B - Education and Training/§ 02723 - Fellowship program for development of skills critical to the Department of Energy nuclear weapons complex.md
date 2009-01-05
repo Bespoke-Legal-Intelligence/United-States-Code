@@ -52,7 +52,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65, §3162(a), substituted “Secretary shall” for “Secretary shall—”, struck out par. (1) designation before “provide educational assistance”, and struck out pars. (2) and (3) which read as follows:
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §3162(a), substituted “Secretary shall” for “Secretary shall—”, struck out par. (1) designation before “provide educational assistance”, and struck out pars. (2) and (3) which read as follows:
 
 “(2) employ eligible individuals at the facilities described in subsection (c) in order to facilitate the development of such skills by these individuals; or
 

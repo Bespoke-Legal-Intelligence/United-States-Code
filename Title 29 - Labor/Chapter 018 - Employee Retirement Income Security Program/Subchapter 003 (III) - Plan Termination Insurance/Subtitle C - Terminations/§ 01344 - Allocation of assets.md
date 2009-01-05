@@ -10,7 +10,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;(3) Third, in the case of benefits payable as an annuity—
 
-&emsp;&emsp;(A) in the case of the benefit of a participant or beneficiary which was in pay status as of the beginning of the 3-year period ending on the termination date of the plan, toeach such benefit, based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least,
+&emsp;&emsp;(A) in the case of the benefit of a participant or beneficiary which was in pay status as of the beginning of the 3-year period ending on the termination date of the plan, to each such benefit, based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least,
 
 &emsp;&emsp;(B) in the case of a participant's or beneficiary's benefit (other than a benefit described in subparagraph (A)) which would have been in pay status as of the beginning of such 3-year period if the participant had retired prior to the beginning of the 3-year period and if his benefits had commenced (in the normal form of annuity under the plan) as of the beginning of such period, to each such benefit based on the provisions of the plan (as in effect during the 5-year period ending on such date) under which such benefit would be the least.
 
@@ -48,11 +48,11 @@ For purposes of subsection (a) of this section—
 
 &emsp;(6) The term “mandatory contributions” means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
 
-&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of this section in accordance with regulations prescribed by the corporation.
+&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of thissection in accordance with regulations prescribed by the corporation.
 
 #### (c) Increase or decrease in value of assets
 
-Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the planand the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
+Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
 
 #### (d) Distribution of residual assets; restrictions on reversions pursuant to recently amended plans; assets attributable to employee contributions; calculation of remaining assets
 
@@ -94,11 +94,11 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (4) Nothing in this subsection shall be construed to limit the requirements of section 4980(d) of title 26 (as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990) or section 1104(d) of this title with respect to any distribution of residual assets of a single-employer plan to the employer.
 
-#### (e) <sup>1</sup> Bankruptcy filing substituted for termination date
+#### (e) Bankruptcy filing substituted for termination date
 
 If a contributing sponsor of a plan has filed or has had filed against such person a petition seeking liquidation or reorganization in a case under title 11 or under any similar Federal law or law of a State or political subdivision, and the case has not been dismissed as of the termination date of the plan, then subsection (a)(3) shall be applied by treating the date such petition was filed as the termination date of the plan.
 
-#### (e) <sup>1</sup> Valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries
+#### (f) Valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries
 
 #### (1) In general
 
@@ -148,13 +148,15 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 &emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(4), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2008—Subsecs. (e), (f). Pub. L. 110–458 redesignated subsec. (e) relating to valuation of section 1362(c) liability for determining amounts payable by corporation to participants and beneficiaries as (f).
 
 2006—Subsec. (a)(4)(B). Pub. L. 109–280, §407(b)(1), substituted “1322(b)(5)(B)” for “1322(b)(5)”.
 
@@ -195,6 +197,10 @@ Subsec. (a)(4)(B). Pub. L. 99–272, §11016(c)(13)(B), substituted “section 1
 Subsec. (c). Pub. L. 96–364, §402(a)(7)(B), inserted “single-employer” before “plan occurring” wherever appearing.
 
 Subsec. (d)(1). Pub. L. 96–364, §402(a)(7)(C), inserted “single-employer” after “assets of a”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 
@@ -241,6 +247,4 @@ Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
 For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

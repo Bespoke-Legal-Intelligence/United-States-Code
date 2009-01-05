@@ -11,7 +11,7 @@
 | [607\.](%C2%A7%2000607%20-%20Regulations.md) | Regulations. |
 | [608\.](%C2%A7%2000608%20-%20Funding.md) | Funding. |
 | [609\.](%C2%A7%2000609%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| [610\.](%C2%A7%2000610%20-%201%20State%20infrastructure%20bank%20program.md) | State infrastructure bank program. |
+| [610\.](%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md) | State infrastructure bank program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,4 +35,4 @@ This chapter, consisting of sections 601 to 610 of this title, was previously se
 - [&sect; 00607 - Regulations](%C2%A7%2000607%20-%20Regulations.md)
 - [&sect; 00608 - Funding](%C2%A7%2000608%20-%20Funding.md)
 - [&sect; 00609 - Reports to Congress](%C2%A7%2000609%20-%20Reports%20to%20Congress.md)
-- [&sect; 00610 - 1 State infrastructure bank program](%C2%A7%2000610%20-%201%20State%20infrastructure%20bank%20program.md)
+- [&sect; 00610 - State infrastructure bank program](%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md)

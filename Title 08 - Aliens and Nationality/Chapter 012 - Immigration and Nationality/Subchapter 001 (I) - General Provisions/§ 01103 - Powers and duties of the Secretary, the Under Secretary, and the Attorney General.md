@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -46,7 +46,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 (1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
-(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
+(2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the numberof applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
 (3) Such system shall provide for the collection and dissemination of such information not less often than annually.
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
 1996—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted “(1)” before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
+Pub. L. 104–208, §125, inserted at end “After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and relatedlaws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.”
 
 Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
@@ -190,7 +190,7 @@ Reinforced fencing.—In carrying out subsection (a), the Secretary of Homeland 
 
 Priority areas.—In carrying out this section \[amending this section\], the Secretary of Homeland Security shall—
 
-&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective in deterring smugglers and aliens attempting to gain illegal entry into the United States; and
+&emsp;&emsp;&emsp;“(i) identify the 370 miles, or other mileage determined by the Secretary, whose authority to determine other mileage shall expire on December 31, 2008, along the southwest border where fencing would be most practical and effective indeterring smugglers and aliens attempting to gain illegal entry into the United States; and
 
 &emsp;&emsp;&emsp;“(ii) not later than December 31, 2008, complete construction of reinforced fencing along the miles identified under clause (i).
 
@@ -240,7 +240,7 @@ Federal court review.—
 
 &emsp;&emsp;“(A)
 
-In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any actionundertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
+In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
 
 &emsp;&emsp;“(B)
 

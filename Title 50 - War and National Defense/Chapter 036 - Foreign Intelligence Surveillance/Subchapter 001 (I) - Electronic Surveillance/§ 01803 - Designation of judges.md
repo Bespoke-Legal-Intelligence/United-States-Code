@@ -2,7 +2,17 @@
 
 #### (a) Court to hear applications and grant orders; record of denial; transmittal to court of review
 
-The Chief Justice of the United States shall publicly designate 11 district court judges from seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
+(1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previouslyby another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
+
+(2)(A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under section 1861(f) of this title or paragraph (4) or (5) of section 1881a(h) of this title, hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
+
+&emsp;(i) en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or
+
+&emsp;(ii) the proceeding involves a question of exceptional importance.
+
+(B) Any authority granted by this chapter to a judge of the court established under this subsection may be exercised by the court en banc. When exercising such authority, the court en banc shall comply with any requirements of this chapter on the exercise of such authority.
+
+(C) For purposes of this paragraph, the court en banc shall consist of all judges who constitute the court established under this subsection.
 
 #### (b) Court of review; record, transmittal to Supreme Court
 
@@ -18,11 +28,17 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 #### (e) Jurisdiction and procedures for review of petitions
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1805b(h) or 1861(f)(1) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title.
 
-(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1805b(h) or 1861(f)(1) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
+(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(h)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
-#### (f) Establishment and transmittal of rules and procedures
+#### (f) Stay of order
+
+(1) A judge of the court established under subsection (a), the court established under subsection (b) or a judge of that court, or the Supreme Court of the United States or a justice of that court, may, in accordance with the rules of their respective courts, enter a stay of an order or an order modifying an order of the court established under subsection (a) or the court established under subsection (b) entered under any subchapter of this chapter, while the court established under subsection (a) conducts a rehearing, while an appeal is pending to the court established under subsection (b), or while a petition of certiorari is pending in the Supreme Court of the United States, or during the pendency of any review by that court.
+
+(2) The authority described in paragraph (1) shall apply to an order entered under any provision of this chapter.
+
+#### (g) Establishment and transmittal of rules and procedures
 
 (1) The courts established pursuant to subsections (a) and (b) may establish such rules and procedures, and take such actions, as are reasonably necessary to administer their responsibilities under this chapter.
 
@@ -44,49 +60,63 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 (3) The transmissions required by paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556.)
+#### (i) <sup>1</sup> Compliance with orders, rules, and procedures
 
-#### Amendment of Section
+Nothing in this chapter shall be construed to reduce or contravene the inherent authority of the court established under subsection (a) to determine or enforce compliance with an order or a rule of such court or with a procedure approved by such court.
 
-<i>For termination of amendment by section 6(c) of Pub. L. 110–55, see Effective and Termination Dates of 2007 Amendment note below.</i>
+(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), (c), and (f)(1), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), and (i), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
-2007—Subsec. (e). Pub. L. 110–55, §§5(a), 6(c), temporarily substituted “1805b(h) or 1861(f)(1)” for “1861(f)(1)” in pars. (1) and (2). See Effective and Termination Dates of 2007 Amendment note below.
+<b>2008</b>—Subsec. (a). Pub. L. 110–261, §109(a)–(b)(2)(A), designated existing provisions as par. (1), inserted “at least” before “seven of the United States judicial circuits” and “(except when sitting en banc under paragraph (2))” before “shall hear”, and added par. (2).
 
-2006—Subsecs. (e), (f). Pub. L. 109–177 added subsecs. (e) and (f).
+Subsec. (e)(1), (2). Pub. L. 110–261, §403(a)(1)(B)(ii), which directed substitution of “1861(f)(1) or 1881a(h)(4)” for “1805b(h) or 1861(f)(1)”, was executed by making the substitution for “1861(f)(1)” to reflect the probable intent of Congress and termination of the temporary amendment by Pub. L. 110–55, §5(a). See 2007 Amendment note and Effective and Termination Dates of 2007 Amendment note below.
 
-2004—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsecs. (f), (g). Pub. L. 110–261, §109(c), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-2001—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
+Subsec. (i). Pub. L. 110–261, §109(d), added subsec. (i).
+
+<b>2007</b>—Subsec. (e). Pub. L. 110–55, §§5(a), 6(c), temporarily substituted “1805b(h) or 1861(f)(1)” for “1861(f)(1)” in pars. (1) and (2). See Effective and Termination Dates of 2007 Amendment note below.
+
+<b>2006</b>—Subsecs. (e), (f). Pub. L. 109–177 added subsecs. (e) and (f).
+
+<b>2004</b>—Subsec. (c). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted “11 district court judges” for “seven district court judges” and inserted “of whom no fewer than 3 shall reside within 20 miles of the District of Columbia” after “judicial circuits”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Pub. L. 110–55, §6, Aug. 5, 2007, 121 Stat. 556, provided that:
+Pub. L. 110–55, §6, Aug. 5, 2007, 121 Stat. 556, as amended by Pub. L. 110–182, §1, Jan. 31, 2008, 122 Stat. 605; Pub. L. 110–261, title IV, §403(a)(3), July 10, 2008, 122 Stat. 2474, provided that:
 
 “(a)
 
 Effective Date.—Except as otherwise provided, the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\] shall take effect immediately after the date of the enactment of this Act \[Aug. 5, 2007\].
 
-“(b)
-
-Transition Procedures.—Notwithstanding any other provision of this Act \[see Short Title of 2007 Amendment note set out under section 1801 of this title\], any order in effect on the date of enactment of this Act issued pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) shall remain in effect until the date of expiration of such order, and, at the request of the applicant, the court established under section 103(a) of such Act (50 U.S.C. 1803(a)) shall reauthorize such order as long as the facts and circumstances continue to justify issuance of such order under the provisions of the Foreign Intelligence Surveillance Act of 1978, as in effect on the day before the applicable effective date of this Act. The Government also may file new applications, and the court established under section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)) shall enter orders granting such applications pursuant to such Act, as long as the application meets the requirements set forth under the provisions of such Act as in effect on the day before the effective date of this Act. At the request of the applicant, the court established under section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)), shall extinguish any extant authorization to conduct electronic surveillance or physical search entered pursuant to such Act. Any surveillance conducted pursuant to an order entered under this subsection shall be subject to the provisions of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as in effect on the day before the effective date of this Act.
+“\[(b) Repealed. Pub. L. 110–261, title IV, §403(a)(3), July 10, 2008, 122 Stat. 2474.\]
 
 “(c)
 
-Sunset.—Except as provided in subsection (d), sections 2, 3, 4, and 5 of this Act \[enacting sections 1805a to 1805c of this title and amending this section\], and the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\], shall cease to have effect 180 days after the date of the enactment of this Act.
+Sunset.—Except as provided in subsection (d), sections 2, 3, 4, and 5 of this Act \[enacting sections 1805a to 1805c of this title and amending this section\], and the amendments made by this Act \[enacting sections 1805a to 1805c of this title and amending this section\], shall cease to have effect 195 days after the date of the enactment of this Act.
 
 “(d)
 
 Authorizations in Effect.—Authorizations for the acquisition of foreign intelligence information pursuant to the amendments made by this Act, and directives issued pursuant to such authorizations, shall remain in effect until their expiration. Such acquisitions shall be governed by the applicable provisions of such amendments and shall not be deemed to constitute electronic surveillance as that term is defined in section 101(f) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(f)).”
+
+\[Repeal by Pub. L. 110–261 of section 6(b) of Pub. L. 110–55, set out above, effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.\]
 
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (h) has been enacted.</i>
 

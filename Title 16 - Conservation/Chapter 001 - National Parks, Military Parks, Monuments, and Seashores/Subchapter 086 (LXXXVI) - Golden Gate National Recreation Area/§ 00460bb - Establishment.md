@@ -6,7 +6,7 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: “This title \[amending section 460bb–1 of this title\] may be cited as the ‘Rancho Corralde Tierra Golden Gate National Recreation Area Boundary Adjustment Act’.”
+Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: “This title \[amending section 460bb–1 of this title\] may be cited as the ‘Rancho Corral de Tierra Golden Gate National Recreation Area Boundary Adjustment Act’.”
 
 #### Short Title of 2000 Amendment
 
@@ -106,7 +106,7 @@ In general.—The powers and management of the Trust shall be vested in a Board 
 
 &emsp;“(2)
 
-Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed.
+Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed.
 
 &emsp;“(3)
 
@@ -226,7 +226,7 @@ Leasing.—In managing and leasing the properties transferred to it, the Trust s
 
 “(<i>o</i>)
 
-Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
+Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 ofTitle 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 
 “(p)
 

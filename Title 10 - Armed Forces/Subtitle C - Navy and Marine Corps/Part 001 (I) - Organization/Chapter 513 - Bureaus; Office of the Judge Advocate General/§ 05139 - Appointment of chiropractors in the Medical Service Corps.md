@@ -10,5 +10,5 @@ A prior section 5139, acts Aug. 10, 1956, ch. 1041, 70A Stat. 287; Sept. 7, 1962
 
 #### Regulations
 
-Regulations required to be prescribed by amendment made by section 505 of Pub. L. 102–484 to be prescribednot later than 180 days after Oct. 23, 1992, see section 505(d) of Pub. L. 102–484, set out as a note under section 3070 of this title.
+Regulations required to be prescribed by amendment made by section 505 of Pub. L. 102–484 to be prescribed not later than 180 days after Oct. 23, 1992, see section 505(d) of Pub. L. 102–484, set out as a note under section 3070 of this title.
 

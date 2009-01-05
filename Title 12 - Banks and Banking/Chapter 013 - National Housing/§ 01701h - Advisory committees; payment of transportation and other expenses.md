@@ -38,7 +38,7 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 4\. To work directly with the Housing and Home Finance Administrator in the task of directing specific studies and surveys and developing concrete recommendations, there shall be in the Committee an Executive Committee, consisting of members of the Committee designated for such purpose, and the Housing and Home Finance Administrator shall serve as the Chairman of such Executive Committee.
 
-5\. Administrative expenses in connection with the work of the Committee, including expenses of advisers and consultants appointed by the Chairman in connection therewith, shall, upon authorization therefor by the Chairman or his delegate, be paid pursuant to the authority therefor under the heading, “Housing and Home Finance Agency, Office of the Administrator” in the Supplemental Appropriation Act, 1954 (Public Law 207, Eighty-third Congress, approved August 7, 1953).
+5\. Administrative expenses in connection with the work of the Committee, including expenses of advisers and consultants appointed by the Chairman in connection therewith, shall, upon authorization therefor bythe Chairman or his delegate, be paid pursuant to the authority therefor under the heading, “Housing and Home Finance Agency, Office of the Administrator” in the Supplemental Appropriation Act, 1954 (Public Law 207, Eighty-third Congress, approved August 7, 1953).
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

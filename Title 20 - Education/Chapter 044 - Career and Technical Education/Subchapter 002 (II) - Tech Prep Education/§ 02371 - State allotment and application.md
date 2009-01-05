@@ -12,7 +12,7 @@ The Secretary shall make a payment in the amount of a State's allotment under su
 
 Each eligible agency desiring an allotment under this subchapter shall submit, as part of its State plan under section 2342 of this title, an application that—
 
-&emsp;(1) describes how activities under this title will be coordinated, to the extent practicable, with activities described in the State plan submitted under section 2342 of this title; and
+&emsp;(1) describes how activities under this subchapter will be coordinated, to the extent practicable, with activities described in the State plan submitted under section 2342 of this title; and
 
 &emsp;(2) contains such information as the Secretary may require.
 

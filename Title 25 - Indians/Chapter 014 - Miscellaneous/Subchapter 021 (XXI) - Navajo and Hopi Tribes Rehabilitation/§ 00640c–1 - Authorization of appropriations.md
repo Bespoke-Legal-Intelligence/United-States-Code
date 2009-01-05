@@ -2,41 +2,71 @@
 
 #### (a) Construction grants
 
-(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated such sums as are necessary for fiscal years 2009 through 2014.
 
 (2) Sums appropriated pursuant to this subsection for construction shall, unless otherwise provided in appropriations Acts, remain available until expended.
 
-#### (b) Navajo Community College grants
+(3) Sums described in paragraph (2) shall be used to provide grants for construction activities, including the construction of buildings, water and sewer facilities, roads, information technology and telecommunications infrastructure, classrooms, and external structures (such as walkways).
 
-(1) There are authorized to be appropriated for grants to the Navajo Community College, for each fiscal year, an amount necessary to pay expenses incurred for—
+#### (b) Dine�AE1 College grants
 
-&emsp;(A) the maintenance and operation of the college, including—
+(1) There are authorized to be appropriated for grants to Dine�AE1 College such sums as are necessary for fiscal years 2009 through 2014 to pay the cost of—
 
-&emsp;&emsp;(i) basic, special, developmental, vocational, technical, and special handicapped education costs,
+&emsp;(A) the maintenance and operation of the College, including—
 
-&emsp;&emsp;(ii) annual capital expenditures, including equipment needs, minor capital improvements and remodeling projects, physical plant maintenance and operation costs, and exceptions and supplemental need account, and
+&emsp;&emsp;(i) basic, special, developmental, vocational, technical, and special handicapped education costs;
 
-&emsp;&emsp;(iii) summer and special interest programs,
+&emsp;&emsp;(ii) annual capital expenditures, including equipment needs, minor capital improvements and remodeling projects, physical plant maintenance and operation costs, and exceptions and supplemental need account; and
 
-&emsp;(B) major capital improvements, including internal capital outlay funds and capital improvement projects,
+&emsp;&emsp;(iii) summer and special interest programs;
 
-&emsp;(C) mandatory payments, including payments due on bonds, loans, notes, or lease purchases, and
+&emsp;(B) major capital improvements, including internal capital outlay funds and capital improvement projects;
 
-&emsp;(D) supplemental student services, including student housing, food service, and the provision of access to books and services.
+&emsp;(C) mandatory payments, including payments due on bonds, loans, notes, or lease purchases;
+
+&emsp;(D) supplemental student services, including student housing, food service, and the provision of access to books and services; and
+
+&emsp;(E) improving and expanding the College, including by providing, for the Navajo people and others in the community of the College—
+
+&emsp;&emsp;(i) higher education programs;
+
+&emsp;&emsp;(ii) career and technical education;
+
+&emsp;&emsp;(iii) activities relating to the preservation and protection of the Navajo language, philosophy, and culture;
+
+&emsp;&emsp;(iv) employment and training opportunities;
+
+&emsp;&emsp;(v) economic development and community outreach; and
+
+&emsp;&emsp;(vi) a safe learning, working, and living environment.
 
 (2) The Secretary shall make payments, pursuant to grants under this subsection, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.
 
 #### (c) Funding requirements
 
-The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to the Navajo Community College and that such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
+The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to Dine�AE1 College and that such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
 
-(Pub. L. 92–189, §5, as added Pub. L. 95–471, title II, §203(a), Oct. 17, 1978, 92 Stat. 1330; amended Pub. L. 96–374, title XIII, §1351(a), (b), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 98–192, §14, Dec. 1, 1983, 97 Stat. 1343; Pub. L. 99–428, §7, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5401, Apr. 28, 1988, 102 Stat. 414; Pub. L. 101–477, §2(a), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(d), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §902, Oct. 7, 1998, 112 Stat. 1829.)
+(Pub. L. 92–189, §5, as added Pub. L. 95–471, title II, §203(a), Oct. 17, 1978, 92 Stat. 1330; amended Pub. L. 96–374, title XIII, §1351(a), (b), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 98–192, §14, Dec. 1, 1983, 97 Stat. 1343; Pub. L. 99–428, §7, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5401, Apr. 28, 1988, 102 Stat. 414; Pub. L. 101–477, §2(a), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(d), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §902, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 110–315, title IX, §946(d), Aug. 14, 2008, 122 Stat. 3468.)
 
 #### Codification
 
 Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which comprises this subchapter.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315, §946(d)(1)(A), substituted “such sums as are necessary for fiscal years 2009 through 2014” for “$2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
+Subsec. (a)(3). Pub. L. 110–315, §946(d)(1)(B), added par. (3).
+
+Subsec. (b)(1). Pub. L. 110–315, §946(d)(2)(A), in introductory provisions, substituted “Dine�AE1 College” for “the Navajo Community College” and “such sums as are necessary for fiscal years 2009 through 2014 to pay the cost of—” for “, for each fiscal year, an amount necessary to pay expenses incurred for—”.
+
+Subsec. (b)(1)(A). Pub. L. 110–315, §946(d)(2)(B), substituted “College” for “college” in introductory provisions, semicolons for commas at end of cls. (i) and (iii), and “; and” for “, and” at end of cl. (ii).
+
+Subsec. (b)(1)(B). Pub. L. 110–315, §946(d)(2)(C), substituted semicolon for comma at end.
+
+Subsec. (b)(1)(E). Pub. L. 110–315, §946(d)(2)(D)–(F), added subpar. (E).
+
+Subsec. (c). Pub. L. 110–315, §946(d)(3), substituted “Dine�AE1 College” for “the Navajo Community College”.
 
 1998—Subsec. (a)(1). Pub. L. 105–244 substituted “1999” for “1993”.
 

@@ -12,7 +12,7 @@ The Corporation shall apply the criteria described in subsections (c) and (d) of
 
 #### (1) In general
 
-&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of theassistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
+&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
 
 #### (2) Contents
 

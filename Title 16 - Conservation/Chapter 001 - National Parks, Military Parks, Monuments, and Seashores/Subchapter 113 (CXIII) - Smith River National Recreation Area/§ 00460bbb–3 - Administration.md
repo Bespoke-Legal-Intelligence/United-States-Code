@@ -14,7 +14,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 &emsp;(5) Provide for public health and safety and for the protection of the recreation area in the event of fire or infestation of insects or disease.
 
-&emsp;(6) Permit programmed timber harvest only in those management areas where timber harvest is specifically authorized by subsection (b) of this section. Timber management in these areas shall incorporate the use of strategies to reduce habitat fragmentation and employ silvicultural prescriptions designed to maintain or enhance biological diversity and wildlife habitats (such as retention of standing green trees, snags, and other coarse woody debris) by providing for a high level of structuraland compositional diversity in managed stands.
+&emsp;(6) Permit programmed timber harvest only in those management areas where timber harvest is specifically authorized by subsection (b) of this section. Timber management in these areas shall incorporate the use of strategies to reduce habitat fragmentation and employ silvicultural prescriptions designed to maintain or enhance biological diversity and wildlife habitats (such as retention of standing green trees, snags, and other coarse woody debris) by providing for a high level of structural and compositional diversity in managed stands.
 
 &emsp;(7) Permit removal of trees within streamside protection zones along those rivers and river segments specified in section 460bbb–8 of this title only when necessary for human health and safety, to maintain trails or existing roads, for the development of recreation or other facilities, for the protection of the recreation area in the event of fire, or to improve fish and wildlife habitat.
 

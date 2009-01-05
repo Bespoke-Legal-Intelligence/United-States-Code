@@ -50,7 +50,7 @@ Depository Institutions Notification.—
 
 &emsp;(1)
 
-Federal and other depository institutions.—In any case in which the defendant is a Federal depository institution, a depository institution holding company, a foreign bank, or a non-depository institution subsidiary of the foregoing, the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the person who has the primary Federal regulatory or supervisory responsibility with respect to thedefendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
+Federal and other depository institutions.—In any case in which the defendant is a Federal depository institution, a depository institution holding company, a foreign bank, or a non-depository institution subsidiary of the foregoing, the notice requirements of this section are satisfied by serving the notice required under subsection (b) upon the person who has the primary Federal regulatory or supervisory responsibility with respect to the defendant, if some or all of the matters alleged in the class action are subject to regulation or supervision by that person.
 
 &emsp;(2)
 

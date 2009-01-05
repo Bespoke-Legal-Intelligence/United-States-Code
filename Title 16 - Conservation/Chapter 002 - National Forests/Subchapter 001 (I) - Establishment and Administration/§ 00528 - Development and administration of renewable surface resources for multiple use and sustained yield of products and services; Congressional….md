@@ -62,7 +62,7 @@ Funds available.—Funds deposited into the special account in accordance with p
 
 &emsp;“(3)
 
-Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
+Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest,monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
 
 &emsp;“(4)
 
@@ -92,7 +92,7 @@ Treatment of fees.—Funds collected under subsection (c) shall not be taken int
 
 “(g)
 
-Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the fundsgenerated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year.
+Reporting Requirements.—As soon as practicable after the end of each fiscal year in which the Secretary of Agriculture collects fees under subsection (c) or expends funds from the special account under subsection (f), the Secretary shall submit to the Congress a report summarizing the activities of the Secretary under the pilot program, including the funds generated under subsection (c), the expenses incurred to carry out the pilot program, and the expenditures made from the special account during that fiscal year.
 
 “(h)
 

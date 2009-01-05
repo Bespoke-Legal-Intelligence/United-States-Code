@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Product
 
-&emsp;The term “product” does not include any energy consuming product or system designed or procured for combat or combat-related missions.
+&emsp;The term “product” does not include any energy consuming product or system designed orprocured for combat or combat-related missions.
 
 #### (b) Procurement of energy efficient products
 
@@ -38,7 +38,7 @@ In this section:
 
 &emsp;The head of an agency is not required to procure an Energy Star product or FEMP designated product under paragraph (1) if the head of the agency finds in writing that—
 
-&emsp;&emsp;(A) an Energy Star product or FEMP designated product is not cost-effective over thelife of the product taking energy cost savings into account; or
+&emsp;&emsp;(A) an Energy Star product or FEMP designated product is not cost-effective over the life of the product taking energy cost savings into account; or
 
 &emsp;&emsp;(B) no Energy Star product or FEMP designated product is reasonably available that meets the functional requirements of the agency.
 
@@ -98,7 +98,7 @@ Energy Star products and FEMP designated products shall be clearly identified an
 
 #### (4) Eligible products
 
-&emsp;The Secretary, in consultation with the Secretary of Defense, the Administrator of the Environmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
+&emsp;The Secretary, in consultation with the Secretary of Defense, the Administrator of theEnvironmental Protection Agency, and the Administrator of General Services, shall compile a publicly accessible list of cost-effective eligible products that shall be subject to the purchasing requirements of paragraph (2).
 
 #### (f) Regulations
 

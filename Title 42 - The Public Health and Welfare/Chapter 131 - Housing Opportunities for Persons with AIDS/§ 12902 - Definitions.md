@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) has among its purposes significant activities related to providing services or housing to persons with acquired immunodeficiency syndrome or related diseases.
 
-&emsp;(14) The term “project sponsor” means a nonprofit organization or a housing agency ofa State or unit of general local government that contracts with a grantee to receive assistance under this chapter.
+&emsp;(14) The term “project sponsor” means a nonprofit organization or a housing agency of a State or unit of general local government that contracts with a grantee to receive assistance under this chapter.
 
 (Pub. L. 101–625, title VIII, §853, Nov. 28, 1990, 104 Stat. 4375; Pub. L. 102–550, title VI, §606(c), Oct. 28, 1992, 106 Stat. 3807.)
 

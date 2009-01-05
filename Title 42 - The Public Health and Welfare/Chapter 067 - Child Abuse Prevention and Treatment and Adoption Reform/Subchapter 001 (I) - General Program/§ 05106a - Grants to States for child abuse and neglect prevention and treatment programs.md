@@ -138,7 +138,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;&emsp;(xvii) an assurance that, upon the implementation by the State of the provisions, procedures, and mechanisms under clause (xvi), conviction of any one of the felonies listed in clause (xvi) constitute grounds under State law for the termination of parental rights of the convicted parent as to the surviving children (although case-by-case determinations of whether or not to seek termination of parental rights shall be within the sole discretion of the State);
 
-&emsp;&emsp;&emsp;(xviii) provisions and procedures to require that a representative of the child protective services agency shall, at theinitial time of contact with the individual subject to a child abuse and neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
+&emsp;&emsp;&emsp;(xviii) provisions and procedures to require that a representative of the child protective services agency shall, at the initial time of contact with the individual subject to a child abuse and neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
 
 &emsp;&emsp;&emsp;(xix) provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
 
@@ -196,7 +196,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (ii) Designation of existing entities
 
-&emsp;&emsp;&emsp;A State may designate as panels for purposes of this subsection one or more existing entities established under State or Federal law, such as child fatality panelsor foster care review panels, if such entities have the capacity to satisfy the requirements of paragraph (4) and the State ensures that such entities will satisfy such requirements.
+&emsp;&emsp;&emsp;A State may designate as panels for purposes of this subsection one or more existing entities established under State or Federal law, such as child fatality panels or foster care review panels, if such entities have the capacity to satisfy the requirements of paragraph (4) and the State ensures that such entities will satisfy such requirements.
 
 #### (2) Membership
 
@@ -250,7 +250,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the Stateand local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -324,7 +324,7 @@ Subsec. (a)(6). Pub. L. 108–36, §114(a)(6), substituted “including—” an
 
 Pub. L. 108–36, §114(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (8).
 
-Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows: “developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
+Subsec. (a)(7). Pub. L. 108–36, §114(a)(3), (7), added par. (7) and struck out former par. (7) which read as follows:“developing, strengthening, and supporting child abuse and neglect prevention, treatment, and research programs in the public and private sectors;”.
 
 Subsec. (a)(8). Pub. L. 108–36, §114(a)(4), redesignated par. (6) as (8). Former par. (8) redesignated (9).
 
@@ -366,7 +366,7 @@ Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (ix) as (xiii). Former cl.
 
 Subsec. (b)(2)(A)(xiv). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (x) as (xiv).
 
-Subsec. (b)(2)(A)(xv). Pub. L. 108–36, §114(b)(1)(B)(viii), struck out “to be effective not later than 2 years afterOctober 3, 1996” before dash at end of introductory provisions.
+Subsec. (b)(2)(A)(xv). Pub. L. 108–36, §114(b)(1)(B)(viii), struck out “to be effective not later than 2 years after October 3, 1996” before dash at end of introductory provisions.
 
 Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (xi) as (xv).
 
@@ -410,7 +410,7 @@ Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 1992 Amendment
 
-Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
+Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention andTreatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 \[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993.”\]
 

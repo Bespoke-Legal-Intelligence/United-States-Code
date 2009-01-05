@@ -62,7 +62,19 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 (B) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title.
 
-(C) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
+(C)(i) The staff of the commander shall include a command acquisition executive, who shall be responsible for the overall supervision of acquisition matters for the special operations command. The command acquisition executive shall have the authority to—
+
+&emsp;(I) negotiate memoranda of agreement with the military departments to carry out the acquisition of equipment, material, supplies, and services described in subparagraph (A) on behalf of the command;
+
+&emsp;(II) supervise the acquisition of equipment, material, supplies, and services described in subparagraph (A), regardless of whether such acquisition is carried out by the command, or by a military department pursuant to a delegation of authority by the command;
+
+&emsp;(III) represent the command in discussions with the military departments regarding acquisition programs for which the command is a customer; and
+
+&emsp;(IV) work with the military departments to ensure that the command is appropriately represented in any joint working group or integrated product team regarding acquisition programs for which the command is a customer.
+
+(ii) The command acquisition executive of the special operations command shall be included on the distribution list for acquisition directives and instructions of the Department of Defense.
+
+(D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
 (f)
 
@@ -122,7 +134,7 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L.102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217.)
 
 #### References in Text
 
@@ -135,6 +147,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Amendments
+
+2008—Subsec. (e)(4)(C), (D). Pub. L. 110–181 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 1994—Subsec. (k). Pub. L. 103–337 added subsec. (k).
 
@@ -208,7 +222,7 @@ Program and Budget Execution.—To the extent that there is authority to revise 
 
 Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 
-\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, whichwas repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
+\[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 

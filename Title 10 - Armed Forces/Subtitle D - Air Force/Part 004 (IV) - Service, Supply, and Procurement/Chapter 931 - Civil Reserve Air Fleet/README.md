@@ -6,6 +6,7 @@
 | [9512\.](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
 | [9513\.](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md) | Use of military installations by Civil Reserve Air Fleet contractors. |
 | [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
+| [9515\.](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md) | Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +30,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
+2008—Pub. L. 110–417, \[div. A\], title X, §1033(b), Oct. 14, 2008, 122 Stat. 4593, which directed amendment of the analysis for chapter 941 of this title by adding item 9515 at end, was executed by adding item 9515 at end of this analysis to reflect the probable intent of Congress.
+
 1996—Pub. L. 104–201, div. A, title X, §1079(a)(2), Sept. 23, 1996, 110 Stat. 2669, added item 9514.
 
 1994—Pub. L. 103–355, title III, §3033(b), Oct. 13, 1994, 108 Stat. 3336, substituted “Use of military installations by Civil Reserve Air Fleet contractors” for “Commitment of aircraft to the Civil Reserve Air Fleet” in item 9513.
@@ -48,3 +51,4 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 - [&sect; 09512 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
 - [&sect; 09513 - Use of military installations by Civil Reserve Air Fleet contractors](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md)
 - [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)
+- [&sect; 09515 - Charter air transportation services minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md)

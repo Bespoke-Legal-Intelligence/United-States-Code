@@ -70,7 +70,7 @@ Section 511(b) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differ
 
 #### Appropriations
 
-Section 501(a) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differentials and Allowances Act, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by this Act \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\].”
+Section 501(a) of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 800, Overseas Differentials and Allowances Act, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by thisAct \[enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code\].”
 
 #### References to Provisions Affected by the Overseas Differentials and Allowances Act
 
@@ -186,7 +186,7 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 
 (b) Shall not apply to employees who are stationed in either the Canal Zone or in any “foreign area” as defined in 5 U.S.C. 5921(6).
 
-(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paidby the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
+(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
 
 (d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended, for other employees of the United States in the same locality.
 

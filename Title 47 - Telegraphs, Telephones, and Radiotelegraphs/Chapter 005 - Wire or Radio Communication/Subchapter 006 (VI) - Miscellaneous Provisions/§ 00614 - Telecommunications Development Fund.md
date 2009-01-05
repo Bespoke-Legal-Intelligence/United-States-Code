@@ -132,7 +132,7 @@ As used in this section:
 
 #### Amendments
 
-2004—Subsec. (f). Pub. L. 108–494 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
+2004—Subsec. (f). Pub. L. 108–494 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and any other applicable law to an eligible small business on the basis of—
 
 &emsp;“(1) the analysis of the business plan of the eligible small business;
 

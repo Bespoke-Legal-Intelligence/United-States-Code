@@ -44,5 +44,5 @@ Monies deposited in the Settlement Fund shall be subject to the following condit
 
 Act of June 24, 1938, referred to in subsec (b)(1), is act June 24, 1938, ch. 648, 52 Stat. 1037, which enacted section 162a of this title, repealed section 162 of this title, and enacted provisions set out as a note under section 162a of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of October 19, 1973, referred to in subsec. (b)(6), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
+Act of October 19, 1973, referred to in subsec. (b)(6), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, known as the Indian Tribal Judgment Funds Use or Distribution Act,which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
 

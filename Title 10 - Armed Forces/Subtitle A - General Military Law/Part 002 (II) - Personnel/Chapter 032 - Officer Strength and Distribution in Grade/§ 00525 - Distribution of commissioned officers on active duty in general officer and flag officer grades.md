@@ -1,12 +1,14 @@
 ### §525. Distribution of commissioned officers on active duty in general officer and flag officer grades
 
-(a) No appointment may be made in a grade above brigadier general in the Army, Air Force, or Marine Corps if that appointment would result in more than 50 percent of the general officers of that armed force on active duty being in grades above brigadier general. No appointment may be made in a grade above rear admiral (lower half) in the Navy if that appointment would result in more than 50 percent of the flag officers of the Navy on active duty being in grades above rear admiral (lower half).
+(a)(1) No appointment may be made in a grade above brigadier general in the Army, Air Force, or Marine Corps if that appointment would result in more than 50 percent of the general officers of the Army or Air Force, or more than 51 percent of the general officers of the Marine Corps, on active duty being in grades above brigadier general. No appointment may be made in a grade above rear admiral (lower half) in the Navy if that appointment would result in more than 50 percent of the flag officers of the Navy on active duty being in grades above rear admiral (lower half).
 
-(b)(1) No appointment may be made in a grade above major general in the Army or Air Force if that appointment would result in more than 15.7 percent of the general officers of that armed force on active duty being in grades above major general. Of the 15.7 percent of general officers of the Army or Air Force on active duty who may be serving in grades above major general, not more than 25 percent may be serving in the grade of general.
+(2) An officer while serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps under section 5046 of this title is in addition to the number that would otherwise be permitted for the Marine Corps for officers in grades above brigadier general under the first sentence of paragraph (1).
 
-(2)(A) No appointment may be made in a grade above rear admiral in the Navy if that appointment would result in more than 15.7 percent of the flag officers of the Navy on active duty being in grades above rear admiral. Of the 15.7 percent of flag officers on active duty who may be serving in grades above rear admiral, not more than 25 percent may be serving in the grade of admiral.
+(b)(1) No appointment may be made in a grade above major general in the Army or Air Force if that appointment would result in more than 16.4 percent of the general officers of that armed force on active duty being in grades above major general. Of the 16.4 percent of general officers of the Army or Air Force on active duty who may be serving in grades above major general, not more than 25 percent may be serving in the grade of general.
 
-(B) No appointment may be made in a grade above major general in the Marine Corps if that appointment would result in more than 17.5 percent of the general officers of the Marine Corps on active duty being in grades above major general.
+(2)(A) No appointment may be made in a grade above rear admiral in the Navy if that appointment would result in more than 16.4 percent of the flag officers of the Navy on active duty being in grades above rear admiral. Of the 16.4 percent of flag officers on active duty who may be serving in grades above rear admiral, not more than 25 percent may be serving in the grade of admiral.
+
+(B) No appointment may be made in a grade above major general in the Marine Corps if that appointment would result in more than 19 percent of the general officers of the Marine Corps on active duty being in grades above major general.
 
 (3) An officer while serving as Chairman or Vice Chairman of the Joint Chiefs of Staff or as Chief of Staff to the President, if serving in the grade of general or admiral, is in addition to the number that would otherwise be permitted for his armed force for that grade under paragraph (1) or (2).
 
@@ -14,13 +16,13 @@
 
 (B) The President, with the advice and assistance of the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, may designate not more than seven positions within the Joint Staff (provided for under section 155 of this title) as positions referred to in subparagraph (A). The authority of the President under the preceding sentence may not be delegated.
 
-(5)(A) An officer while serving in a position specified in section 604(b) of this title, if serving in the grade of general or admiral, is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general or rear admiral, as the case may be, under the first sentence of paragraph (1) or (2), as applicable. Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing anincrease in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.
+(5)(A) An officer while serving in a position specified in section 604(b) of this title, if serving in the grade of general or admiral, is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general or rear admiral, as the case may be, under the first sentence of paragraph (1) or (2), as applicable. Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.
 
 (B) Subparagraph (A) does not apply in the case of an officer serving in such a position if the Secretary of Defense, when considering officers for recommendation to the President for appointment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that appointment from each Secretary of a military department who (pursuant to section 604(a) of this title) was required to make such a recommendation.
 
 (6) An officer while serving as Chief of the National Guard Bureau is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general under paragraph (1).
 
-(7) An officer of the Army while serving as Superintendent of the United States Military Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Army for officers serving on active duty in grades above major general under paragraph (1). An officer of the Navy or Marine Corps while serving as Superintendent of the United States Naval Academy, if serving in the grade of vice admiral or lieutenant general, is in addition to the number that would otherwise be permitted for the Navy or Marine Corps, respectively, for officers serving on active duty in grades above major general or rear admiral under paragraph (1) or (2). An officer while serving as Superintendent of the United States Air Force Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Air Force for officers serving on active duty in grades above major general under paragraph (1).
+(7) An officer of the Army while serving as Superintendent of the United States Military Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Army for officers serving on active duty in grades above major general under paragraph (1). An officer of the Navy or Marine Corps while serving as Superintendent of the United States Naval Academy,if serving in the grade of vice admiral or lieutenant general, is in addition to the number that would otherwise be permitted for the Navy or Marine Corps, respectively, for officers serving on active duty in grades above major general or rear admiral under paragraph (1) or (2). An officer while serving as Superintendent of the United States Air Force Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Air Force for officers serving on active duty in grades above major general under paragraph (1).
 
 (8) An officer while serving in a position designated by the Secretary of Defense as Senior Military Assistant to the Secretary of Defense, if serving in the grade of lieutenant general or vice admiral, is in addition to the number that otherwise would be permitted for that officer's armed force for that grade under paragraph (1) or (2). Only one officer may be designated as Senior Military Assistant to the Secretary of Defense for purposes of this paragraph.
 
@@ -38,19 +40,35 @@
 
 (4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
-(d) An officer continuing to hold the grade of general or admiral under section 601(b)(4) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
+(d) An officer continuing to hold the grade of general or admiral under section 601(b)(4) <sup>1</sup> of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
 (e) In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:
 
 &emsp;(1) An officer of that armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
 
-&emsp;(2) An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.
+&emsp;(2) At the discretion of the Secretary of Defense, an officer of that armed force who has been relieved from a position designated under section 601(a) of this title or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
 
 (f) An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (a).
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, §507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V,§§501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, \[div. A\], title V, §§503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434.)
+
+#### References in Text
+
+Section 601(b)(4) of this title, referred to in subsec. (d), was redesignated section 601(b)(5) of this title by Pub. L. 110–181, div. A, title V, §501(a)(2), Jan. 28, 2008, 122 Stat. 94.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–417, §504(b), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 110–417, §503(d)(1), substituted “the Army or Air Force, or more than 51 percent of the general officers of the Marine Corps,” for “that armed force”.
+
+Subsec. (b)(1), (2)(A). Pub. L. 110–417, §503(d)(2)(A), substituted “16.4 percent” for “16.3 percent” wherever appearing.
+
+Pub. L. 110–181, §543(d), substituted “16.3 percent” for “15.7 percent” wherever appearing.
+
+Subsec. (b)(2)(B). Pub. L. 110–417, §503(d)(2)(B), substituted “19 percent” for “17.5 percent”.
+
+Subsec. (e)(2). Pub. L. 110–181, §501(b), added par. (2) and struck out former par. (2) which read as follows: “An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.”
 
 2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -124,7 +142,189 @@ Section 511(b) of Pub. L. 100–180 provided that: “An officer of the Armed Fo
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Delayed Authority To Alter Distribution Requirements for Commissioned Officers on Active Duty in General Officer and Flag Officer Grades and Limitations on Authorized Strengths of General and Flag Officers on Active Duty
+
+Pub. L. 110–417, \[div. A\], title V, §506, Oct. 14, 2008, 122 Stat. 4434, provided that:
+
+“(a)
+
+Implementation of Special General Officer and Flag Officer Authority.—
+
+&emsp;“(1)
+
+Report on proposed implementation.—The Secretary of Defense shall submit to the Committees on Armed Forces of the Senate and House of Representatives a report, reflecting input from the Armed Forces, containing the following:
+
+&emsp;&emsp;“(A) A statement of the total number of validated and required joint duty assignments for general officers and flag officers and the total number of validated assignments for general officers and flag officers required by the Army, Navy, Air Force, and Marine Corps to meet internal (non-joint) requirements.
+
+&emsp;&emsp;“(B) A description of the process used by the Secretary of Defense and the Secretary of the military department concerned to validate joint general officer and flag officer requirements and authorizations under the authority provided by this section and how that process will function to make adjustments (increases and reductions) in the numbers of general officers and flag officers required for joint duty assignments and internal requirements of the Armed Force concerned.
+
+&emsp;&emsp;“(C) A description of how the Secretary of Defense intends to minimize the incremental approaches to increases in the number of general officers and flag officers and the use of exemptions to effect such increases.
+
+&emsp;&emsp;“(D) A description of how the Secretaries of the military departments intend to manage the increase and development of general officer and flag officer positions under the authority provided by this section.
+
+&emsp;&emsp;“(E) An explanation of and rationale for the grade distribution of the general and flag officers in the joint pool authorized by subsection (f)(1).
+
+&emsp;&emsp;“(F) A proposal specifying such legislative changes, including technical and conforming changes, as may be necessary to conform sections 525, 526, and 721 of title 10, United States Code, and such other provisions of such title relating to the management of general officers and flag officers to the authorities provided by this section.
+
+&emsp;“(2)
+
+Time for implementation.—After the end of the one-year period beginning on the date on which the Secretary of Defense submits the report required by paragraph (1), the Secretary of Defense may implement the authorities provided by this section regarding the distribution of commissioned officers on active duty in general officer and flag officer grades and altering the limitations on authorized strengths of general and flag officers on active duty.
+
+&emsp;“(3)
+
+Effect of implementation.—After the implementation date specified in paragraph (2), the authorities provided by this section supersede any requirement of section 525, 526, or 721 of title 10, United States Code, to the contrary.
+
+“(b)
+
+Distribution of General and Flag Officers.—After the implementation date specified in subsection (a)(2), no appointment of an officer on the active duty list officer may be made—
+
+&emsp;“(1) in the Army, if that appointment would result in more than—
+
+&emsp;&emsp;“(A) 225 officers serving on active duty above the grade of colonel;
+
+&emsp;&emsp;“(B) 7 officers in the grade of general;
+
+&emsp;&emsp;“(C) 45 officers in a grade above the grade of major general; or
+
+&emsp;&emsp;“(D) 90 officers in the grade of major general;
+
+&emsp;“(2) in the Air Force, if that appointment would result in more than—
+
+&emsp;&emsp;“(A) 208 officers serving on active duty in a grade above the grade of colonel;
+
+&emsp;&emsp;“(B) 9 officers in the grade of general;
+
+&emsp;&emsp;“(C) 43 officers in a grade above the grade of major general; or
+
+&emsp;&emsp;“(D) 73 officers in the grade of major general;
+
+&emsp;“(3) in the Navy, if that appointment would result in more than—
+
+&emsp;&emsp;“(A) 160 officers serving on active duty in a grade above the grade of captain;
+
+&emsp;&emsp;“(B) 6 officers in the grade of admiral;
+
+&emsp;&emsp;“(C) 32 officers in a grade above the grade of rear admiral; or
+
+&emsp;&emsp;“(D) 50 officers in the grade of rear admiral; or
+
+&emsp;“(4) in the Marine Corps, if that appointment would result in more than—
+
+&emsp;&emsp;“(A) 60 officers serving on active duty in a grade above the grade of colonel;
+
+&emsp;&emsp;“(B) 2 officers in the grade of general;
+
+&emsp;&emsp;“(C) 15 officers in a grade above the grade of major general; or
+
+&emsp;&emsp;“(D) 22 officers in the grade of major general.
+
+“(c)
+
+Exclusion of Certain Officers From Distribution Limits.—
+
+&emsp;“(1)
+
+Joint assignments.—The limitations contained in subsection (b) do not apply to officers serving in joint duty assignments, as designated by the Secretary of Defense under section 526(b) of title 10, United States Code, or this section or for officers released from joint duty assignments, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. Of the officers serving in such joint duty assignments—
+
+&emsp;&emsp;“(A) the number of officers in the grade of general or admiral may not exceed 20;
+
+&emsp;&emsp;“(B) the number of officers in a grade above the grade of major general or rear admiral may not exceed 68; and
+
+&emsp;&emsp;“(C) the number of officers in the grade of major general or rear admiral may not exceed 144.
+
+&emsp;“(2)
+
+Officers after relief from certain positions.—An officer continuing to hold the grade of general or admiral under section 601(b)(4) of title 10 United States Code, after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of subsection (b).
+
+&emsp;“(3)
+
+Attending physician.—An officer while serving as Attending Physician to the Congress is in addition to the number that would otherwise be permitted for that officer's Armed Force for officers serving on active duty in grades above brigadier general or rear admiral (lower half) under subsection (b).
+
+&emsp;“(4)
+
+Officers pending retirement or after relief and related circumstances.—The following officers shall not be counted for purposes of subsection (b):
+
+&emsp;&emsp;“(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
+
+&emsp;&emsp;“(B) An officer of an Armed Force who has been relieved from a position designated under section 601(a) of title 10, United States Code, and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.
+
+“(d)
+
+Appointments in Excess of Distribution Limits.—
+
+&emsp;“(1)
+
+Appointment authority.—Subject to paragraph (3), the President—
+
+&emsp;&emsp;“(A) may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army, Air Force, and Marine Corps in the grade of general in excess of the applicable numbers determined under subsection (b) if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and
+
+&emsp;&emsp;“(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under subsection (b) if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
+
+&emsp;“(2)
+
+Offsetting reductions.—For each appointment made under the authority of paragraph (1) in the Army, Air Force, or Marine Corps in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other Armed Forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the Armed Force in which the reduction required by this paragraph is to be made.
+
+&emsp;“(3)
+
+Maximum.—The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15. The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed 5.
+
+&emsp;“(4)
+
+Duration of reduction.—Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that Armed Force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another Armed Force by reason of that increase shall no longer be in effect.
+
+“(e)
+
+Authorized Strength Limits for General and Flag Officers on Active Duty.—After the implementation date specified in subsection (a)(2), the number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the Armed Force concerned as follows:
+
+&emsp;“(1) For the Army, 225.
+
+&emsp;“(2) For the Navy, 160.
+
+&emsp;“(3) For the Air Force, 208.
+
+&emsp;“(4) For the Marine Corps, 60.
+
+“(f)
+
+Limited Exclusion for Joint Duty Requirements.—
+
+&emsp;“(1)
+
+Designation of positions.—The Secretary of Defense may designate up to 324 general officer and flag officer positions that are joint duty assignments for the purposes of chapter 38 of title 10, United States Code, for exclusion from the limitations in subsection (e). The Secretary of Defense will allocate these exclusions to the Armed Forces based on the number of general or flag officers required from each Armed Force for assignment to these designated positions.
+
+&emsp;“(2)
+
+Minimum number of positions.—Unless the Secretary of Defense determines that a lower number is in the best interests of the United States, the minimum number of officers serving in positions designated under paragraph (1) for each Armed Force shall be as follows:
+
+&emsp;&emsp;“(A) For the Army, 85.
+
+&emsp;&emsp;“(B) For the Navy, 61.
+
+&emsp;&emsp;“(C) For the Air Force, 76.
+
+&emsp;&emsp;“(D) For the Marine Corps, 21.
+
+“(g)
+
+Temporary Exclusion for Assignment to Certain Temporary Billets.—The limitations in subsection (e) do not apply to a general or flag officer assigned to a temporary joint duty assignment billet designated by the Secretary of Defense for purposes of this section. A general or flag officer assigned to a temporary joint duty assignment as described in this subsection may not be excluded under this subsection from the limitations in subsection (e) for a period longer than one year.
+
+“(h)
+
+Exclusion of Certain Reserve Officers.—
+
+&emsp;“(1)
+
+Distribution limits.—The limitations of subsection (b) do not apply to a reserve component general or flag officer who is on active duty and serving in billets other than joint duty assignments under a call or order specifying a period of not longer than two years.
+
+&emsp;“(2)
+
+Authorized strength limits.—The limitations in subsection (e) do not apply to a reserve component general or flag officer who is on active duty and serving in a position that is a joint duty assignment for the purposes of chapter 38 of title 10, United States Code, for a period not to exceed three years.
+
+“(i)
+
+Pending or After Joint Duty Assignments.—Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may allow the Secretary of a military department to exceed the distribution of general and flag officers established under subsection (b) and the limitation in subsection (e) for up to one year for officers pending assignment to or return from joint duty assignments designated under section 526(b) of title 10, United States Code, or this section.”
 
 #### Review of Active Duty and Reserve General and Flag Officer Authorizations
 
@@ -161,4 +361,6 @@ Pub. L. 98–525, title V, §511, Oct. 19, 1984, 98 Stat. 2521.
 Pub. L. 98–94, title X, §1001, Sept. 24, 1983, 97 Stat. 654.
 
 Pub. L. 97–252, title XI, §1116, Sept. 8, 1982, 96 Stat. 750.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

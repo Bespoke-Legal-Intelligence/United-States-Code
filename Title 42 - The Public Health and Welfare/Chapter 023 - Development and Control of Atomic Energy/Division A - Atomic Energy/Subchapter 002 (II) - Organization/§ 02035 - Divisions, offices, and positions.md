@@ -18,7 +18,7 @@ There is established within the Commission—
 
 &emsp;such other executive management positions (not to exceed six in number) as the Commission may determine to be necessary to the discharge of its responsibilities. Such positions shall be established by the General Manager with the approval of the Commission. They shall be appointed by the General Manager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
 
-(Aug. 1, 1946, ch. 724, title I, §25, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Pub. L. 85–287, §3, Sept. 4, 1957, 71 Stat. 612; Pub. L. 88–426, title III, §306(f)(4)–(7), Aug. 14, 1964, 78 Stat. 429, 430; Pub. L. 90–190, §5, Dec. 14, 1967, 81 Stat. 577; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §25, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Pub. L. 85–287, §3, Sept. 4, 1957, 71 Stat. 612; Pub. L. 88–426, title III, §306(f)(4)–(7), Aug. 14, 1964, 78Stat. 429, 430; Pub. L. 90–190, §5, Dec. 14, 1967, 81 Stat. 577; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -26,7 +26,7 @@ Provisions similar to this section were contained in section 1802(a)(4)(B) of th
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, whowould be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
+1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
 
 1964—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 

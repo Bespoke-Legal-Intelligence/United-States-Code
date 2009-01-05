@@ -18,7 +18,7 @@ A person who believes that the person has been subjected to a reprisal prohibite
 
 &emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
-(2) Whenever a person fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of such order in the United States districtcourt for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
+(2) Whenever a person fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
 (3) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5.
 

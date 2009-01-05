@@ -56,7 +56,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 &emsp;(C) indicate whether the United States has voted in favor of a loan, financial assistance, or technical assistance to a country with respect to which the United States had, in the preceding 2 years, opposed a loan, financial assistance, or technical assistance on human rights grounds; and
 
-&emsp;(D) in cases where the United States changed its voting position from opposition to supportor from support to opposition, on human rights grounds—
+&emsp;(D) in cases where the United States changed its voting position from opposition to support or from support to opposition, on human rights grounds—
 
 &emsp;&emsp;(i) indicate the policy considerations that were taken into account in the development of the United States voting position;
 
@@ -146,7 +146,7 @@ Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance
 
-Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
+Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, theUnited States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 

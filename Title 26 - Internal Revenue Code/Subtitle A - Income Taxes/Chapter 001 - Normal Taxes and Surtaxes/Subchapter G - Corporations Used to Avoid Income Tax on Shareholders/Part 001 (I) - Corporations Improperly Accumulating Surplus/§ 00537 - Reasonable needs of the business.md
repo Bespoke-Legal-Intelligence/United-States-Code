@@ -28,7 +28,7 @@ For purposes of subsection (a)—
 
 #### (3) Obligations incurred to make redemptions
 
-&emsp;In applying paragraphs (1) and (2), the discharge of any obligation incurred to make a redemption described in such paragraphs shall be treated as the making of such redemption.
+&emsp;In applying paragraphs (1) and (2), the discharge of any obligation incurred to make aredemption described in such paragraphs shall be treated as the making of such redemption.
 
 #### (4) Product liability loss reserves
 

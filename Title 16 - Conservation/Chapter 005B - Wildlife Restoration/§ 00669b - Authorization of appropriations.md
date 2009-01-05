@@ -18,7 +18,7 @@
 
 &emsp;(A) shall be credited to the fund;
 
-&emsp;(B) constitute the sums available for allocation by the Secretary under section 4407 of this title;
+&emsp;(B) constitute the sums available for allocation by the Secretary under section 4407 of this title; and
 
 &emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2016.
 

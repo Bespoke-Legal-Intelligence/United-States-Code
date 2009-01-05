@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of a member or former member of the uniformed services of the United States, gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
+In the case of a member or former member of the uniformed services of the United States, gross income does not include the amount ofany reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
 
 #### (b) Special rule
 

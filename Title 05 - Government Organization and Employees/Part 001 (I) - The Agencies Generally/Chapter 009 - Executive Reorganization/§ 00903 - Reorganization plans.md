@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 98–614, §3(b)(1), (2), substituted “60 calendar days�
 
 1977—Subsec. (a)(2). Pub. L. 95–17 inserted provision that no enforcement function or statutory program shall be abolished by the plan.
 
-Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number of plans that may be pendingbefore Congress at any one time for provisions limiting to one the number of plans that may be transmitted to Congress within any period of thirty consecutive days and provisions requiring that the President estimate any increase in expenditures and describe any improvements in management, delivery of Federal services, execution of laws, and increases in efficiency of Government operations expected as a result of the reorganizations included in the plan.
+Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number of plans that may be pending before Congress at any one time for provisions limiting to one the number of plans that may be transmitted to Congress within any period of thirty consecutive days and provisions requiring that the President estimate any increase in expenditures and describe any improvements in management, delivery of Federal services, execution of laws, and increases in efficiency of Government operations expected as a result of the reorganizations included in the plan.
 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 

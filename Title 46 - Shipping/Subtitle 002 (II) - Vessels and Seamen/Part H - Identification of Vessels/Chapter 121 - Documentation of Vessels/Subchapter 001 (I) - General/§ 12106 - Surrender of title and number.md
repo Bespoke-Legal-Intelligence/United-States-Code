@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A documented vessel may not be titled by a State or required to display numbers under chapter 123 of this title, and anycertificate of title issued by a State for a documented vessel shall be surrendered as provided by regulations prescribed by the Secretary.
+In General.—A documented vessel may not be titled by a State or required to display numbers under chapter 123 of this title, and any certificate of title issued by a State for a documented vessel shall be surrendered as provided by regulations prescribed by the Secretary.
 
 (b)
 

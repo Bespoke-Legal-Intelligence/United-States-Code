@@ -6,7 +6,7 @@ Except as otherwise provided in this chapter, nothing in this chapter shall be c
 
 #### (b) Relationship to other laws
 
-Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I of this chapter, in transportation covered by subchapter II or III of this chapter, or in places of public accommodation covered by subchapter III of this chapter.
+Nothing in this chapter shall be construed to invalidate or limit the remedies, rights, and procedures of any Federal law or law of any State or political subdivision of any State or jurisdiction that provides greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter. Nothing in this chapter shall be construed to preclude the prohibition of, or the imposition of restrictions on, smoking in places of employment covered by subchapter I, in transportation covered by subchapter II or III, or in places of public accommodation covered by subchapter III.
 
 #### (c) Insurance
 
@@ -18,13 +18,29 @@ Subchapters I through III of this chapter and title IV of this Act shall not be 
 
 &emsp;(3) a person or organization covered by this chapter from establishing, sponsoring, observing or administering the terms of a bona fide benefit plan that is not subject to State laws that regulate insurance.
 
-> Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purposes of subchapter <sup>1</sup> I and III of this chapter.
+> Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purposes of subchapter <sup>1</sup> I and III.
 
 #### (d) Accommodations and services
 
 Nothing in this chapter shall be construed to require an individual with a disability to accept an accommodation, aid, service, opportunity, or benefit which such individual chooses not to accept.
 
-(Pub. L. 101–336, title V, §501, July 26, 1990, 104 Stat. 369.)
+#### (e) Benefits under State worker's compensation laws
+
+Nothing in this chapter alters the standards for determining eligibility for benefits under State worker's compensation laws or under State and Federal disability benefit programs.
+
+#### (f) Fundamental alteration
+
+Nothing in this chapter alters the provision of section 12182(b)(2)(A)(ii) of this title, specifying that reasonable modifications in policies, practices, or procedures shall be required, unless an entity can demonstrate that making such modifications in policies, practices, or procedures, including academic requirements in postsecondary education, would fundamentally alter the nature of the goods, services, facilities, privileges, advantages, or accommodations involved.
+
+#### (g) Claims of no disability
+
+Nothing in this chapter shall provide the basis for a claim by an individual without a disability that the individual was subject to discrimination because of the individual's lack of disability.
+
+#### (h) Reasonable accommodations and modifications
+
+A covered entity under subchapter I, a public entity under subchapter II, and any person who owns, leases (or leases to), or operates a place of public accommodation under subchapter III, need not provide a reasonable accommodation or a reasonable modification to policies, practices, or procedures to an individual who meets the definition of disability in section 12102(1) of this title solely under subparagraph (C) of such section.
+
+(Pub. L. 101–336, title V, §501, July 26, 1990, 104 Stat. 369; Pub. L. 110–325, §6(a)(1), Sept. 25, 2008, 122 Stat. 3557.)
 
 #### References in Text
 
@@ -33,6 +49,14 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Title IV of this Act, referred to in subsec. (c), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and amended sections 152, 221, and 611 of Title 47.
+
+#### Amendments
+
+2008—Subsecs. (e) to (h). Pub. L. 110–325 added subsecs. (e) to (h).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapters”.</i>
 

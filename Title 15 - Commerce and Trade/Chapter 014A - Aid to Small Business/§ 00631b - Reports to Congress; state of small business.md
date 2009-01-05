@@ -16,11 +16,11 @@ The President shall transmit to the Congress not later than January 20 of each y
 
 #### (b) Appendix to report
 
-The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding$10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
+The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 
 #### (c) Supplementary reports
 
-The President may transmit from time to time to the Congress reports supplementary to the Report on Small Business and Competition, each of which shall include such supplementary or revised recommendations as he may deem necessary or desirable to achieve the policy declared in section 631a of this title.
+The President may transmit from time to time to the Congress reports supplementary to the Report on Small Business and Competition, each of which shall include such supplementary or revised recommendations as he may deemnecessary or desirable to achieve the policy declared in section 631a of this title.
 
 #### (d) Referral to Congressional committees
 

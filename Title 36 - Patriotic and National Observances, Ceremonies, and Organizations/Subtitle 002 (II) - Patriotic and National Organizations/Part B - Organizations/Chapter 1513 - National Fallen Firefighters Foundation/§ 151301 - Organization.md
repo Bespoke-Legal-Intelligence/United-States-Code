@@ -6,7 +6,7 @@ Federal Charter.—National Fallen Firefighters Foundation (in this chapter, the
 
 (b)
 
-Nature of Corporation and Place of Incorporation.—The corporation is a charitable and nonprofit corporation incorporated under the laws of Maryland and is not an agency or establishment of the United States Government.
+Nature of Corporation and Place of Incorporation.—The corporation is a charitable and nonprofit corporation incorporated underthe laws of Maryland and is not an agency or establishment of the United States Government.
 
 (c)
 

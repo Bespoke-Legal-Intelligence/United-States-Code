@@ -4,23 +4,27 @@
 
 #### (1) In general
 
-&emsp;Any tax return preparer who prepares any return or claim for refund with respect to which any part of an understatement of liability is due to a position described in paragraph (2) shall pay a penalty with respect to each such return or claim in an amount equal to the greater of—
+&emsp;If a tax return preparer—
 
-&emsp;&emsp;(A) $1,000, or
+&emsp;&emsp;(A) prepares any return or claim of refund with respect to which any part of an understatement of liability is due to a position described in paragraph (2), and
 
-&emsp;&emsp;(B) 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+&emsp;&emsp;(B) knew (or reasonably should have known) of the position,
+
+> &emsp;such tax return preparer shall pay a penalty with respect to each such return or claim in an amount equal to the greater of $1,000 or 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
 
 #### (2) Unreasonable position
 
-&emsp;A position is described in this paragraph if—
+#### (A) In general
 
-&emsp;&emsp;(A) the tax return preparer knew (or reasonably should have known) of the position,
+&emsp;&emsp;Except as otherwise provided in this paragraph, a position is described in this paragraph unless there is or was substantial authority for the position.
 
-&emsp;&emsp;(B) there was not a reasonable belief that the position would more likely than not be sustained on its merits, and
+#### (B) Disclosed positions
 
-&emsp;&emsp;(C)(i) the position was not disclosed as provided in section 6662(d)(2)(B)(ii), or
+&emsp;&emsp;If the position was disclosed as provided in section 6662(d)(2)(B)(ii)(I) and is not a position to which subparagraph (C) applies, the position is described in this paragraph unless there is a reasonable basis for the position.
 
-&emsp;&emsp;(ii) there was no reasonable basis for the position.
+#### (C) Tax shelters and reportable transactions
+
+&emsp;&emsp;If the position is with respect to a tax shelter (as defined in section 6662(d)(2)(C)(ii)) or a reportable transaction to which section 6662A applies, the position is described in this paragraph unless it is reasonable to believe that the position would more likely than not be sustained on its merits.
 
 #### (3) Reasonable cause exception
 
@@ -74,13 +78,15 @@ For purposes of this section, the term “understatement of liability” means a
 
 &emsp;&emsp;<b>For definition of tax return preparer, see section 7701(a)(36).</b>
 
-(Added Pub. L. 94–455, title XII, §1203(b)(1), Oct. 4, 1976, 90 Stat. 1689; amended Pub. L. 101–239, title VII, §§7732(a), 7737(a), Dec. 19, 1989, 103 Stat. 2402, 2404; Pub. L. 110–28, title VIII, §8246(a)(2)(F)(i), (b), May 25, 2007, 121 Stat. 201, 203.)
+(Added Pub. L. 94–455, title XII, §1203(b)(1), Oct. 4, 1976, 90 Stat. 1689; amended Pub. L. 101–239, title VII, §§7732(a), 7737(a), Dec. 19, 1989, 103 Stat. 2402, 2404; Pub. L. 110–28, title VIII, §8246(a)(2)(F)(i), (b), May 25, 2007, 121 Stat. 201, 203; Pub. L. 110–343, div. C, title V, §506(a), Oct. 3, 2008, 122 Stat. 3880.)
 
 #### Codification
 
 Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–343 amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
 
 2007—Pub. L. 110–28, §8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
 
@@ -115,6 +121,14 @@ Subsec. (f). Pub. L. 110–28, §8246(a)(2)(F)(i)(V), substituted “tax return 
 Subsec. (b). Pub. L. 101–239, §7732(a), substituted “Willful or reckless conduct” for “Willful understatement of liability” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
 
 Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title V, §506(b), Oct. 3, 2008, 122 Stat. 3880, provided that: “The amendment made by this section \[amending this section\] shall apply—
+
+&emsp;“(1) in the case of a position other than a position described in subparagraph (C) of section 6694(a)(2) of the Internal Revenue Code of 1986 (as amended by this section), to returns prepared after May 25, 2007, and
+
+&emsp;“(2) in the case of a position described in such subparagraph (C), to returns prepared for taxable years ending after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 2007 Amendment
 

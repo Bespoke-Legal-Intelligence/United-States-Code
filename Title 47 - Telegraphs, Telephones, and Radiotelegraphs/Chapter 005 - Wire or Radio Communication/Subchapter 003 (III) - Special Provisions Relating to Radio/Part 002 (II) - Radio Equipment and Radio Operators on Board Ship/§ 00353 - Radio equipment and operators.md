@@ -14,7 +14,7 @@ Each ship of the United States which in accordance with this part is equipped wi
 
 #### (d) Hours of watch
 
-The Commission shall, when it finds it necessary for safety purposes, have authority to prescribe the particular hours of watch on a ship of the United States which in accordance with this part is equipped with a radiotelegraph station.
+The Commission shall, when it finds it necessary for safety purposes, have authority toprescribe the particular hours of watch on a ship of the United States which in accordance with this part is equipped with a radiotelegraph station.
 
 #### (e) Operational status of auto alarms in open sea
 

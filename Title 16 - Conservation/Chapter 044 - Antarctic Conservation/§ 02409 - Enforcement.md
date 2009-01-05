@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, theSecretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
+The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -40,7 +40,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 #### (f) Regulations
 
-The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
+The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate toenforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
 
 (Pub. L. 95–541, §10, Oct. 28, 1978, 92 Stat. 2055.)
 

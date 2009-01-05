@@ -16,7 +16,7 @@ The Executive Director is authorized to—
 
 &emsp;(7) utilize, on a reimbursable or nonreimbursable basis the services, equipment, personnel, and facilities of any other department or agency of the United States;
 
-&emsp;(8) establish one or more task forces to assist and advise the Center, composed of individuals who, by reason of experience, are qualified for such service. Each member of any such task force who is not an officer or employee of the Federal Government may receive an amount not to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for each day such individual is engagedin the actual performance of duties (including traveltime) as a member of such a task force. Members may be reimbursed for travel, subsistence, and necessary expenses incurred in the performance of their duties; and
+&emsp;(8) establish one or more task forces to assist and advise the Center, composed of individuals who, by reason of experience, are qualified for such service. Each member of any such task force who is not an officer or employee of the Federal Government may receive an amount not to exceed the maximum daily rate prescribed for GS–18 under section 5332 of title 5 for each day such individual is engaged in the actual performance of duties (including traveltime) as a member of such a task force. Members may be reimbursed for travel, subsistence, and necessary expenses incurred in the performance of their duties; and
 
 &emsp;(9) make advances, progress, and other payments deemed necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31.
 

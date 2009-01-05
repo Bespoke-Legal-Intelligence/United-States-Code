@@ -18,7 +18,7 @@
 
 #### Effective Date
 
-Section 208(b) of Pub. L. 105–114 provided that: “The Secretary of Veterans Affairs shall develop the national policy on mammography screening required bysection 7322 of title 38, United States Code, as added by subsection (a), and shall furnish such policy in a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 60 days after the date of the enactment of this Act \[Nov. 21, 1997\]. Such policy shall not take effect before the expiration of 30 days after the date of its submission to those committees.”
+Section 208(b) of Pub. L. 105–114 provided that: “The Secretary of Veterans Affairs shall develop the national policy on mammography screening required by section 7322 of title 38, United States Code, as added by subsection (a), and shall furnish such policy in a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 60 days after the date of the enactment of this Act \[Nov. 21, 1997\]. Such policy shall not take effect before the expiration of 30 days after the date of its submission to those committees.”
 
 #### Sense of Congress
 

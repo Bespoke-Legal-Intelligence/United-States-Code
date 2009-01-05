@@ -20,5 +20,19 @@ The Secretary, acting through the Extension Service and the State cooperative ex
 
 &emsp;&emsp;(C) educational programs and materials that will improve the capacity of schools, local governments and resource agencies to deliver forestry and natural resources information to young people, environmentally concerned citizens, and action groups.
 
-(Pub. L. 95–306, §5A, as added Pub. L. 101–624, title XII, §1251(a), Nov. 28, 1990, 104 Stat. 3552.)
+(Pub. L. 95–306, §5A, as added Pub. L. 101–624, title XII, §1251(a), Nov. 28, 1990, 104 Stat. 3552; Pub. L. 110–234, title VII, §7511(c)(34), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(34), June 18, 2008, 122 Stat. 1664, 2032.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, section 5(a) of the Renewable Resources Extension Act of 1978 (16 U.S.C. 1674a(a)) is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 7511(c)(34) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
 

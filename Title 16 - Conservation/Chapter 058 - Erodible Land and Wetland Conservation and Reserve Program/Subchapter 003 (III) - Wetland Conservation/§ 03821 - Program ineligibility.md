@@ -12,7 +12,7 @@ Except as provided in this subchapter and notwithstanding any other provision of
 
 If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
 
-&emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\],the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
+&emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
 
 &emsp;(2) A loan made or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of the loan will be used for a purpose that will contribute to conversion of a wetland (other than as provided in this subchapter) to produce an agricultural commodity.
 
@@ -28,7 +28,7 @@ If a person is determined to have committed a violation under subsection (a) of 
 
 #### (c) Wetland conversion
 
-Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+Except as provided in section 3822 of this title and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shallbe ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
 
 #### (d) Prior loans
 

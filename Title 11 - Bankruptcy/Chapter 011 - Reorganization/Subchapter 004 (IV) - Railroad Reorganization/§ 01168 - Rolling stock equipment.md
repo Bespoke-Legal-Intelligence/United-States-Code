@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period;
 
-&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of the case and before the expiration of such 60-day period is cured before the later of—
+&emsp;&emsp;(ii) that occurs or becomes an event of default after the date of commencement of thecase and before the expiration of such 60-day period is cured before the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 30 days after the date of the default or event of the default; or
 

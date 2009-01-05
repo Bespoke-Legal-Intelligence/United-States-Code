@@ -6,7 +6,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 #### (b) Notification by employer of plan sponsor of old plan; notification by plan sponsor of old plan of employer and plan sponsor of new plan; appeal by new plan to prevent transfer; further proceedings
 
-(1) The employer shall notify the plan sponsor of the old plan of a change in multiemployer plan participation described in subsection (a) of this section no later than 30 days after the employer determines that the change will occur.
+(1) The employer shall notify the plan sponsor of the old plan of a change in multiemployerplan participation described in subsection (a) of this section no later than 30 days after the employer determines that the change will occur.
 
 (2) The plan sponsor of the old plan shall—
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended,which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 

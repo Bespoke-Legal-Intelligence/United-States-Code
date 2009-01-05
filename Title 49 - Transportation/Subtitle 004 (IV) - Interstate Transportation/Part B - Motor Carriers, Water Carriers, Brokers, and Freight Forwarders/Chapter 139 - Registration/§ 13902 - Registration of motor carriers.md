@@ -14,9 +14,11 @@ In general.—Except as provided in this section, the Secretary shall register a
 
 &emsp;&emsp;(ii) the duties of employers and employees established by the Secretary under section 31135; and
 
-&emsp;&emsp;(iii) the safety fitness requirements established by the Secretary under section 31144; and
+&emsp;&emsp;(iii) the safety fitness requirements established by the Secretary under section 31144;
 
-&emsp;&emsp;(C) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.
+&emsp;&emsp;(C) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus; and
+
+&emsp;&emsp;(D) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.
 
 &emsp;(2)
 
@@ -36,11 +38,11 @@ Consideration of evidence; findings.—The Secretary shall consider, and to the 
 
 &emsp;(4)
 
-Withholding.—If the Secretary determines that a registrant under this section doesnot meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
+Withholding.—If the Secretary determines that a registrant under this section does not meet, or is not able to meet, any requirement of paragraph (1) or, in the case of a registrant to which paragraph (2) applies, paragraph (1) or (2), the Secretary shall withhold registration.
 
 &emsp;(5)
 
-Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board, the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
+Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
 
 (b)
 
@@ -222,7 +224,7 @@ Transition termination date defined.—In this section, the term “transition t
 
 Motor Carrier Defined.—In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915.)
 
 #### Historical and Revision Notes
 
@@ -254,6 +256,10 @@ Provisions similar to those in this section were contained in section 10922 of t
 
 #### Amendments
 
+2008—Subsec. (a)(1)(C), (D). Pub. L. 110–291, §2(a), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (a)(5). Pub. L. 110–291, §2(b), inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
+
 2005—Subsec. (a)(1)(B). Pub. L. 109–59, §4113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and”.
 
 Subsec. (a)(2), (3). Pub. L. 109–59, §4204(1), (3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
@@ -284,7 +290,15 @@ Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted �
 
 #### Regulations
 
-Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary \[of Transportation\] may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle.”
+Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary \[of Transportation\]may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle.”
+
+#### Deadline for Implementation of Registration Requirements
+
+Pub. L. 110–291, §4, July 30, 2008, 122 Stat. 2915, provided that: “Not later than 30 days after the date of enactment of this Act \[July 30, 2008\], the Secretary shall take necessary actions to implement the changes required by the amendment made by section 2(a) \[amending this section\] relating to registration of motor carriers providing transportation by an over-the-road bus.”
+
+#### Coordination With Department of Justice
+
+Pub. L. 110–291, §5, July 30, 2008, 122 Stat. 2916, provided that: “Not later than 6 months after the date of enactment of this Act \[July 30, 2008\], the Secretary of Transportation and the Attorney General shall enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing the compliance of motor carriers of passengers providing transportation by an over-the-road bus (as defined in section 13102 of title 49, United States Code) with the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue. Such memorandum shall recognize the Department of Transportation's statutory responsibilities as clarified by this Act \[see Short Title of 2008 Amendment note set out under section 10101 of this title\] (including the amendments made by this Act).”
 
 #### Authority of Mexican Motor Carriers To Operate Beyond United States Municipalities and Commercial Zones on United States-Mexico Border
 
@@ -336,7 +350,7 @@ Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that
 
 Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
-“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones onthe United States-Mexico border until the Federal Motor Carrier Safety Administration—
+“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
 
 &emsp;“(1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
@@ -398,13 +412,13 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;“(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that no Mexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
 
-&emsp;“(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on duty and where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
+&emsp;“(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on dutyand where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
 
 &emsp;“(10) publishes—
 
 &emsp;&emsp;“(A) interim final regulations under section 210(b) of the Motor Carrier Safety Improvement Act of 1999 \[Pub. L. 106–159\] (49 U.S.C. 31144 note) that establish minimum requirements for motor carriers, including foreign motor carriers, to ensure they are knowledgeable about Federal safety standards, that may include the administration of a proficiency examination;
 
-&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implementmeasures to improve training and provide for the certification of motor carrier safety auditors;
+&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implement measures to improve training and provide for the certification of motor carrier safety auditors;
 
 &emsp;&emsp;“(C) a policy under sections 218(a) and (b) of that Act (49 U.S.C. 31133 note) establishing standards for the determination of the appropriate number of Federal and State motor carrier inspectors for the United States-Mexico border;
 
@@ -450,7 +464,7 @@ Memorandum for the Secretary of Transportation
 
 Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a contiguous foreign country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
-I am pleased that an agreement between the United States and Mexico has been concluded to ensure fair and reciprocal treatment for charter and tour bus interests on both sides of the border. The agreement reached, however, does not allow for full access to cross-border and domestic markets. Therefore, the moratorium must reflect the conditions under which operating authority may be issued to Mexican charter and tour companies under the agreement.
+I am pleased that an agreement between the United States and Mexico has been concluded to ensure fair and reciprocal treatment for charter and tour bus interests on both sides of the border. The agreement reached, however, does not allow for full access to cross-border and domestic markets. Therefore, the moratorium must reflect the conditions under whichoperating authority may be issued to Mexican charter and tour companies under the agreement.
 
 Pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], I hereby make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country.
 

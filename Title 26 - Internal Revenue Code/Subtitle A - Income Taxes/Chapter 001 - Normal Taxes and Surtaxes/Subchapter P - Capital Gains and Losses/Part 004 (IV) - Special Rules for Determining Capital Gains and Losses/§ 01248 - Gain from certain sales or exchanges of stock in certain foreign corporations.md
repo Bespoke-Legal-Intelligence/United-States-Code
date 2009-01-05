@@ -118,7 +118,7 @@ Except as provided in regulations prescribed by the Secretary—
 
 #### (3) Application to cases described in subsection (e)
 
-&emsp;To the extent that earnings and profits are taken into account under this subsection, theyshall be excluded and not taken into account for purposes of subsection (e).
+&emsp;To the extent that earnings and profits are taken into account under this subsection, they shall be excluded and not taken into account for purposes of subsection (e).
 
 #### (g) Exceptions
 

@@ -4,7 +4,7 @@ Section, act July 14, 1955, ch. 360, title III, §323, as added Aug. 7, 1977, Pu
 
 #### Effective Date of Repeal
 
-Section 1(c) of Pub. L. 96–300 provided that this section is repealed on date on which National Commission on Air Quality ceases to exist pursuant to provisions of former subsec. (g) of this section, which provided that not later than Mar. 1, 1981, a report be submitted containing results of all Commission studies and investigations and that Commission cease to exist on Mar. 1,1981, if report is not submitted on Mar. 1, 1981, or Commission would cease to exist on such date, but not later than May 1, 1981, as determined and ordered by Commission if report is submitted on Mar. 1, 1981.
+Section 1(c) of Pub. L. 96–300 provided that this section is repealed on date on which National Commission on Air Quality ceases to exist pursuant to provisions of former subsec. (g) of this section, which provided that not later than Mar. 1, 1981, a report be submitted containing results of all Commission studies and investigations and that Commission cease to exist on Mar. 1, 1981, if report is not submitted on Mar. 1, 1981, or Commission would cease to exist on such date, but not later than May 1, 1981, as determined and ordered by Commission if report is submitted on Mar. 1, 1981.
 
 #### National Commission on Air Quality; Extension Prohibition
 

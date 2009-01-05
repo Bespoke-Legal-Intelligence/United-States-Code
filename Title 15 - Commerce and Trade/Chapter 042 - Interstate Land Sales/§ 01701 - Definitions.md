@@ -14,7 +14,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(6) “agent” means any person who represents, or acts for or on behalf of, a developer in selling or leasing, or offering to sell or lease, any lot or lots in a subdivision; but shall not include an attorney at law whose representation of another person consists solely of rendering legal services;
 
-&emsp;(7) “blanket encumbrance” means a trust deed, mortgage, judgment, or any other lien or encumbrance, including an option or contract to sell or a trust agreement, affecting a subdivision or affecting more than one lot offered within a subdivision except that such term shall not include any lien or other encumbrance arising as the result of the imposition of any tax assessment by any public authority;
+&emsp;(7) “blanket encumbrance” means a trust deed, mortgage, judgment, or any other lien orencumbrance, including an option or contract to sell or a trust agreement, affecting a subdivision or affecting more than one lot offered within a subdivision except that such term shall not include any lien or other encumbrance arising as the result of the imposition of any tax assessment by any public authority;
 
 &emsp;(8) “interstate commerce” means trade or commerce among the several States or between any foreign country and any State;
 
@@ -40,7 +40,7 @@ Par. (7). Pub. L. 93–383, §812(a)(2), inserted “or between any foreign coun
 
 #### Effective Date of 1979 Amendment
 
-Section 410 of title IV of Pub. L. 96–153 provided that: “The amendments made by this title \[enacting section 1719a of this title and amending this section and sections 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of this title\] shall become effective on the effective date ofregulations implementing such amendments, but in no case later than six months following the date of enactment of this Act \[Dec. 21, 1979\], except that section 1403(b)(7) of the Interstate Land Sales Full Disclosure Act \[section 1702(b)(7) of this title\], contained in the amendment made by section 402, shall become effective on the date of enactment.”
+Section 410 of title IV of Pub. L. 96–153 provided that: “The amendments made by this title \[enacting section 1719a of this title and amending this section and sections 1702, 1703, 1708, 1709, 1711, 1715, and 1717 of this title\] shall become effective on the effective date of regulations implementing such amendments, but in no case later than six months following the date of enactment of this Act \[Dec. 21, 1979\], except that section 1403(b)(7) of the Interstate Land Sales Full Disclosure Act \[section 1702(b)(7) of this title\], contained in the amendment made by section 402, shall become effective on the date of enactment.”
 
 #### Effective Date
 

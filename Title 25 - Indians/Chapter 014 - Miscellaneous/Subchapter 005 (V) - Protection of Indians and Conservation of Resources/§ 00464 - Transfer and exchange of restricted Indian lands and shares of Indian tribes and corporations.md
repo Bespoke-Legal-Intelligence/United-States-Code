@@ -26,7 +26,7 @@ Pub. L. 108–374, §6(d)(3), which directed insertion of “in accordance with 
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–221 effective as if included in the enactment of Pub. L. 108–374, see section 501(c) of Pub. L. 109–221, set out as a note under section 348 of this title.
+Amendment by Pub. L. 109–221 effective as if included in the enactment of Pub. L. 108–374, see section 501(c) ofPub. L. 109–221, set out as a note under section 348 of this title.
 
 #### Effective Date of 2005 Amendment
 

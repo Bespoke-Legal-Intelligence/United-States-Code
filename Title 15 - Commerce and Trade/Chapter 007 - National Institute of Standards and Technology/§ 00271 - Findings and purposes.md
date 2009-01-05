@@ -10,7 +10,7 @@
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative workamong private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 
@@ -48,7 +48,7 @@ Pub. L. 105–309, §1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title \[amending sections 272and 278n of this title and enacting provisions set out as notes under section 278n of this title\] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
+Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title \[amending sections 272 and 278n of this title and enacting provisions set out as notes under section 278n of this title\] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
 
 #### Short Title of 1988 Amendment
 

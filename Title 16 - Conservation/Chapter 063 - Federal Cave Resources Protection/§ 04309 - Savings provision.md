@@ -4,7 +4,7 @@
 
 Nothing in this chapter shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this chapter—
 
-&emsp;(1) affect the rights or jurisdiction of the United States, the States, Indian tribes, orother entities over waters of any river or stream or over any ground water resource;
+&emsp;(1) affect the rights or jurisdiction of the United States, the States, Indian tribes, or other entities over waters of any river or stream or over any ground water resource;
 
 &emsp;(2) alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States; or
 

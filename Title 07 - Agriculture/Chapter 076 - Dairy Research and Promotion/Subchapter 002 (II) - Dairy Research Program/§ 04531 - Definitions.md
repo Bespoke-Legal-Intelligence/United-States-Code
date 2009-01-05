@@ -24,7 +24,19 @@ For purposes of this subchapter—
 
 &emsp;(11) the term “Secretary” means the Secretary of Agriculture unless the context specifies otherwise; and
 
-&emsp;(12) the term “United States” means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.
+&emsp;(12) the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 98–180, title I, §130, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1367.)
+(Pub. L. 98–180, title I, §130, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1367; amended Pub. L. 110–234, title I, §1507(c), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(c), June 18, 2008, 122 Stat. 1664, 1725.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Par. (12). Pub. L. 110–246, §1507(c), added par. (12) and struck out former par. (12) which read as follows: “the term ‘United States’ means the several States and the territories and possessions of the United States, except that for purposes of sections 4532, 4534(a), and 4537 of this title, and paragraph (7) of this section, such term means the forty-eight contiguous States in the continental United States.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -16,7 +16,7 @@ If the Secretary is required, in the terminal fiscal year of an applicable progr
 
 This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
-(Pub. L. 90–247, title IV, §422, formerly §414, as added Pub. L. 93–380, title V, §506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374,title XIII, §1301, Oct. 3, 1980, 94 Stat. 1496; renumbered §422 and amended Pub. L. 103–382, title II, §§212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
+(Pub. L. 90–247, title IV, §422, formerly §414, as added Pub. L. 93–380, title V, §506(a)(2)(B), Aug. 21, 1974, 88 Stat. 563; amended Pub. L. 96–374, title XIII, §1301, Oct. 3, 1980, 94 Stat. 1496; renumbered §422 and amended Pub. L. 103–382, title II, §§212(b)(1), 233, Oct. 20, 1994, 108 Stat. 3913, 3915.)
 
 #### Prior Provisions
 

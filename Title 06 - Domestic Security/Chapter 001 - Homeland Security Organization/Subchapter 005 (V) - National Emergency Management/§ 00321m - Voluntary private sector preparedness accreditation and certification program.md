@@ -98,7 +98,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 210 days after August 3, 2007, the designated officer shall enter into one or more agreements with a highly qualified nongovernmental entity with experience or expertise in coordinating and facilitating the development and use of voluntary consensus standards and in managing or implementing accreditation and certification programs for voluntary consensus standards, or a similarly qualified private sector entity, to carry out accreditations and oversee the certification process under this subsection. An entity entering into an agreement with the designated officer under this clause (hereinafter referred to in this section as a “selected entity”) shall not perform certifications under this subsection.
+&emsp;&emsp;&emsp;Not later than 210 days after August 3, 2007, the designated officer shall enter into one or more agreements with a highly qualified nongovernmental entity with experience or expertise in coordinating and facilitating the development and use of voluntary consensus standards and in managing or implementing accreditation and certification programs for voluntary consensus standards, or a similarly qualified private sector entity, to carry out accreditations and oversee the certification process under this subsection. An entityentering into an agreement with the designated officer under this clause (hereinafter referred to in this section as a “selected entity”) shall not perform certifications under this subsection.
 
 #### (ii) Contents
 

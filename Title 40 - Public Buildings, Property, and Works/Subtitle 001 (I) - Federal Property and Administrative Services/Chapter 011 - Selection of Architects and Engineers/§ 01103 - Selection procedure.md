@@ -14,7 +14,7 @@ Evaluation.—For each proposed project, the agency head shall evaluate current 
 
 (d)
 
-Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
+Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required.Selection shall be based on criteria established and published by the agency head.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1130.)
 

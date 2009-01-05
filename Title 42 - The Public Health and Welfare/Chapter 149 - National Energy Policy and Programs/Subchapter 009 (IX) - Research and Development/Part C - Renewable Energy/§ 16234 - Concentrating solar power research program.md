@@ -30,7 +30,7 @@ In carrying out the program under this section, the Secretary shall—
 
 #### (d) Report
 
-Not later than 5 years after August 8, 2005, the Secretary shall provide to Congress a report on the economic and technical potential for electricity or hydrogen production, with or without cogeneration, with concentrating solar power,including the economic and technical feasibility of potential construction of a pilot demonstration facility suitable for commercial production of electricity or hydrogen from concentrating solar power.
+Not later than 5 years after August 8, 2005, the Secretary shall provide to Congress a report on the economic and technical potential for electricity or hydrogen production, with or without cogeneration, with concentrating solar power, including the economic and technical feasibility of potential construction of a pilot demonstration facility suitable for commercial production of electricity or hydrogen from concentrating solar power.
 
 (Pub. L. 109–58, title IX, §934, Aug. 8, 2005, 119 Stat. 872.)
 

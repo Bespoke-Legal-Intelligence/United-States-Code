@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other publichealth emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
+&emsp;The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.
 
 #### (2) Procedures
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) deploy the stockpile as required by the Secretary of Homeland Security to respond to an actual or potential emergency;
 
-&emsp;&emsp;(G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety; and
+&emsp;&emsp;(G) deploy the stockpile at the discretion of the Secretary to respond to an actual orpotential public health emergency or other situation in which deployment is necessary to protect the public health or safety; and
 
 &emsp;&emsp;(H) ensure the adequate physical security of the stockpile.
 
@@ -78,7 +78,7 @@
 
 #### (C) Notice to Congress
 
-&emsp;&emsp;The Secretary and the Homeland Security Secretary shall promptly notify the designated congressional committees (as defined in paragraph (10)) that a determinationhas been made pursuant to subparagraph (A) or (B).
+&emsp;&emsp;The Secretary and the Homeland Security Secretary shall promptly notify the designated congressional committees (as defined in paragraph (10)) that a determination has been made pursuant to subparagraph (A) or (B).
 
 #### (D) Assuring access to threat information
 
@@ -162,7 +162,7 @@
 
 #### (D) Subsequent specific countermeasures
 
-&emsp;&emsp;Procurement under this subsection of a security countermeasure for a particular purpose does not preclude the subsequent procurement under this subsection of any other security countermeasure for such purpose if the Secretary has determined under paragraph (5)(A) that such countermeasure is appropriate for inclusion in the stockpile and if, as determined by the Secretary, such countermeasure provides improved safety or effectiveness, or for other reasons enhances preparedness to respond to threats of use of a biological, chemical, radiological, or nuclear agent. Such a determination by the Secretary is committed to agency discretion.
+&emsp;&emsp;Procurement under this subsection of a security countermeasure for a particular purpose does not preclude the subsequent procurement under this subsection of any other security countermeasure for such purpose if the Secretary has determined under paragraph (5)(A) that such countermeasure is appropriate for inclusion in the stockpile andif, as determined by the Secretary, such countermeasure provides improved safety or effectiveness, or for other reasons enhances preparedness to respond to threats of use of a biological, chemical, radiological, or nuclear agent. Such a determination by the Secretary is committed to agency discretion.
 
 #### (E) Rule of construction
 
@@ -392,7 +392,7 @@ Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted “to meet the
 
 Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted “cost” for “costs” in subpar. heading, struck out cl. (i) designation and heading before “The Homeland”, and struck out heading and text of cl. (ii). Text read as follows: “The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section.”
 
-Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law,the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
+Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
@@ -508,7 +508,7 @@ Applicability.—Subsections (a) and (d) cease to apply as requirements if the P
 
 \[Memorandum for the Secretary of Health and Human Services\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Chairman of the Nuclear Regulatory Commission\[, and\] the Director of the Office of Science and Technology Policy
 
-\[By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 204(b) of the National Science and Technology Policy, Organization, and Priorities Act of 1976, as amended (42 U.S.C. 6613(b)), the functions of the President under section 127 of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (Public Law 107–188) (42 U.S.C. 247d–6b note) are assigned as follows:
+\[By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and section 204(b) of the National Science and Technology Policy, Organization, and Priorities Act of 1976, as amended (42 U.S.C. 6613(b)), the functions of the President under section 127 of the Public Health Security andBioterrorism Preparedness and Response Act of 2002 (Public Law 107–188) (42 U.S.C. 247d–6b note) are assigned as follows:
 
 \[(1) the function of making a determination under subsection 127(f) of Public Law 107–188 is assigned to the Director of the Office of Science and Technology Policy; and
 

@@ -28,7 +28,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(F) A project for constructing gates and related areas at which passengers board or exit aircraft. In the case of a project required to enable additional air service by an air carrier with less than 50 percent of the annual passenger boardings at an airport, the project for constructing gates and related areas may include structural foundations and floor systems, exterior building walls and load-bearing interior columns or walls, windows, door and roof systems, building utilities (including heating, air conditioning, ventilation, plumbing, and electrical service), and aircraft fueling facilities adjacent to the gate.
 
-&emsp;&emsp;(G) A project for converting vehicles and ground support equipment used at a commercial service airport to low-emission technology (as defined in section 47102) or to use cleaner burning conventional fuels, retrofitting of any such vehicles or equipment that are powered by a diesel or gasoline engine with emission control technologies certified or verified by the Environmental Protection Agency to reduce emissions, or acquiring for use at a commercial service airport vehicles and ground support equipment that include low-emission technology or use cleaner burning fuels if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act (42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a) and if such project will resultin an airport receiving appropriate emission credits as described in section 47139.
+&emsp;&emsp;(G) A project for converting vehicles and ground support equipment used at a commercial service airport to low-emission technology (as defined in section 47102) or to use cleaner burning conventional fuels, retrofitting of any such vehicles or equipment that are powered by a diesel or gasoline engine with emission control technologies certified or verified by the Environmental Protection Agency to reduce emissions, or acquiring for use at a commercial service airport vehicles and ground support equipment that include low-emission technology or use cleaner burning fuels if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act (42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
 &emsp;(4)
 
@@ -62,7 +62,29 @@ Maximum cost for certain low-emission technology projects.—The maximum cost th
 
 (6)
 
-Debt service for certain projects.—In addition to the uses specified in paragraphs (1) and (4), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) to be used for making payments for debt service on indebtedness incurred to carry out at the airport a project that is not an eligible airport-related project if the Secretary determines that such use is necessary due to the financial need of the airport.
+Debt service for certain projects.—In addition to the uses specified in paragraphs (1)and (4), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) to be used for making payments for debt service on indebtedness incurred to carry out at the airport a project that is not an eligible airport-related project if the Secretary determines that such use is necessary due to the financial need of the airport.
+
+(7)
+
+Noise mitigation for certain schools.—
+
+&emsp;(A)
+
+In general.—In addition to the uses specified in paragraphs (1), (4), and (6), the Secretary may authorize a passenger facility fee imposed under paragraph (1) or (4) at a large hub airport that is the subject of an amended judgment and final order in condemnation filed on January 7, 1980, by the Superior Court of the State of California for the county of Los Angeles, to be used for a project to carry out noise mitigation for a building, or for the replacement of a relocatable building with a permanent building, in the noise impacted area surrounding the airport at which such building is used primarily for educational purposes, notwithstanding the air easement granted or any terms to the contrary in such judgment and final order, if—
+
+&emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
+
+&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order;
+
+&emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effective February 16, 2005, between the airport and each of the school districts;
+
+&emsp;&emsp;(iv) in the case of a project to replace a relocatable building with a permanent building, the eligible project costs are limited to the actual structural construction costs necessary to mitigate aircraft noise in instructional classrooms to an interior noise level meeting current standards of the Federal Aviation Administration; and
+
+&emsp;&emsp;(v) the project otherwise meets the requirements of this section for authorization of a passenger facility fee.
+
+&emsp;(B)
+
+Eligible project costs.—In subparagraph (A)(iv), the term “eligible project costs” means the difference between the cost of standard school construction and the cost of construction necessary to mitigate classroom noise to the standards of the Federal Aviation Administration.
 
 (c)
 
@@ -80,7 +102,7 @@ Applications.—(1) An eligible agency must submit to the Secretary an applicati
 
 &emsp;(E) The agency must include in its application or notice submitted under subparagraph (A) copies of all certifications of agreement or disagreement received under subparagraph (D).
 
-&emsp;(F) For the purpose of this section, an eligible agency providing notice and an opportunity for consultation to an air carrier or foreign air carrier is deemed to have satisfied the requirements of this paragraph if the eligible agency limits such notices and consultations to air carriers and foreign air carriers that have a significant business interest at the airport. In the subparagraph, the term “significant business interest” means an air carrier or foreign air carrier that had no less than 1.0 percent of passenger boardings at the airport in the prior calendar year, had at least 25,000 passenger boardings at the airport in the priorcalendar year, or provides scheduled service at the airport.
+&emsp;(F) For the purpose of this section, an eligible agency providing notice and an opportunity for consultation to an air carrier or foreign air carrier is deemed to have satisfied the requirements of this paragraph if the eligible agency limits such notices and consultations to air carriers and foreign air carriers that have a significant business interest at the airport. In the subparagraph, the term “significant business interest” means an air carrier or foreign air carrier that had no less than 1.0 percent of passenger boardings at the airport in the prior calendar year, had at least 25,000 passenger boardings at the airport in the prior calendar year, or provides scheduled service at the airport.
 
 (3) Before submitting an application, the eligible agency must provide reasonable notice and an opportunity for public comment. The Secretary shall prescribe regulations that define reasonable notice and provide for at least the following under this paragraph:
 
@@ -154,7 +176,7 @@ Treatment of Revenue.—(1) Passenger facility revenue is not airport revenue fo
 
 (3) For a project for terminal development, gates and related areas, or a facility occupied or used by at least one air carrier or foreign air carrier on an exclusive or preferential basis, a price payable by an air carrier or foreign air carrier using the facilities must at least equal the price paid by an air carrier or foreign air carrier using a similar facility at the airport that was not financed with passenger facility revenue.
 
-(4) Passenger facility revenues that are held by an air carrier or an agent of the carrier after collection of a passenger facility fee constitute a trust fund that is held by the air carrier or agent for the beneficial interest of the eligible agency imposing the fee. Such carrier or agent holds neither legal nor equitable interest in thepassenger facility revenues except for any handling fee or retention of interest collected on unremitted proceeds as may be allowed by the Secretary.
+(4) Passenger facility revenues that are held by an air carrier or an agent of the carrier after collection of a passenger facility fee constitute a trust fund that is held by the air carrier or agent for the beneficial interest of the eligible agency imposing the fee. Such carrier or agent holds neither legal nor equitable interest in the passenger facility revenues except for any handling fee or retention of interest collected on unremitted proceeds as may be allowed by the Secretary.
 
 (h)
 
@@ -162,7 +184,7 @@ Compliance.—(1) As necessary to ensure compliance with this section, the Secre
 
 (2) The Secretary periodically shall audit and review the use by an eligible agency of passenger facility revenue. After review and a public hearing, the Secretary may end any part of the authority of the agency to impose a passenger facility fee to the extent the Secretary decides that the revenue is not being used as provided in this section.
 
-(3) The Secretary may set off amounts necessary to ensure compliance with this section against amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
+(3) The Secretary may set off amounts necessary to ensure compliance with this sectionagainst amounts otherwise payable to an eligible agency under subchapter I of chapter 471 of this title if the Secretary decides a passenger facility fee is excessive or that passenger facility revenue is not being used as provided in this section.
 
 (i)
 
@@ -242,7 +264,7 @@ Regulations.—Not later than 180 days after the date of enactment of this subse
 
 &emsp;(7)
 
-Sunset.—This subsection shall cease to be effective beginning on the date that is 3 years after the date of issuance of regulations to carry out this subsection.
+Sunset.—This subsection shall cease to be effective beginning on April 1, 2009.
 
 &emsp;(8)
 
@@ -254,7 +276,7 @@ Financial Management of Fees.—
 
 &emsp;(1)
 
-Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for fees collected under this section by such carrier or any of its agents for the benefit of the eligible agencies entitled to such revenue.
+Handling of fees.—A covered air carrier shall segregate in a separate account passenger facility revenue equal to the average monthly liability for fees collected under this section by such carrier or any of its agents forthe benefit of the eligible agencies entitled to such revenue.
 
 &emsp;(2)
 
@@ -280,7 +302,7 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 Covered air carrier defined.—In this section, the term “covered air carrier” means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729.)
 
 Historical and Revision Notes
 
@@ -412,9 +434,13 @@ The date of the enactment of this subsection, referred to in subsec. (k)(1), is 
 
 The date of enactment of this subsection, referred to in subsecs. (<i>l</i>)(6) and (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
-Regulations to carry out this subsection, referred to in subsec. (<i>l</i>)(7), were issued effective May 9, 2005, see 70 F.R. 14928.
-
 #### Amendments
+
+2008—Subsec. (b)(7). Pub. L. 110–337 added par. (7).
+
+Subsec. (<i>l</i>)(7). Pub. L. 110–330 substituted “April 1, 2009” for “September 30, 2008”.
+
+Pub. L. 110–253 substituted “September 30, 2008” for “the date that is 3 years after the date of issuance of regulations to carry out this subsection”.
 
 2003—Subsec. (a)(3)(C). Pub. L. 108–176, §123(d), substituted “A project for costs” for “for costs” and a period for the semicolon at end.
 
@@ -490,6 +516,12 @@ Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–330, §5(<i>l</i>), Sept. 30, 2008, 122 Stat. 3719, provided that: “The amendments made by this section \[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2008.”
+
+Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -508,7 +540,7 @@ Pub. L. 108–176, title I, §121(d), Dec. 12, 2003, 117 Stat. 2500, provided th
 
 #### Eligibility of Airport Ground Access Transportation Projects
 
-Pub. L. 108–176, title I, §123(e), Dec. 12, 2003, 117 Stat. 2502, provided that: “Not later than 60 days after theenactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall publish in the Federal Register the current policy of the Administration, consistent with current law, with respect to the eligibility of airport ground access transportation projects for the use of passenger facility fees under section 40117 of title 49, United States Code.”
+Pub. L. 108–176, title I, §123(e), Dec. 12, 2003, 117 Stat. 2502, provided that: “Not later than 60 days after the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall publish in the Federal Register the current policy of the Administration, consistent with current law, with respect to the eligibility of airport ground access transportation projects for the use of passenger facility fees under section 40117 of title 49, United States Code.”
 
 #### Competition Plans
 

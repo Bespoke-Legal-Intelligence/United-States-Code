@@ -28,7 +28,7 @@
 
 #### (d) Liability for determination of validity of claims; liability for delivery, sale, etc., of property
 
-The United States, the Comptroller, or any officer, employee, or agent thereof shall not be subject to personal or legal liability for any determination as to the validity of any claim or claims filed under this subchapter or for any delivery, sale, destruction, or other disposition of unclaimed property.
+The United States, the Comptroller, or any officer, employee, or agent thereof shall not besubject to personal or legal liability for any determination as to the validity of any claim or claims filed under this subchapter or for any delivery, sale, destruction, or other disposition of unclaimed property.
 
 #### (e) Court action for determination of ownership, etc., in State or Federal court of competent jurisdiction; de novo nature of action; parties
 

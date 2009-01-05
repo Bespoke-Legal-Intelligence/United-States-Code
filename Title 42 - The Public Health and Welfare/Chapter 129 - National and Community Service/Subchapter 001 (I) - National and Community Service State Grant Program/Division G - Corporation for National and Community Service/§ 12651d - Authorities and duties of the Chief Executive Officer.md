@@ -102,7 +102,7 @@ In addition to the authority conferred on the Chief Executive Officer under any 
 
 &emsp;(9) consolidate the reports to Congress required under the national service laws, and the report required under section 9106 of title 31, into a single report, and submit the report to Congress on an annual basis; and
 
-&emsp;(10) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, asthe Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
+&emsp;(10) generally perform such functions and take such steps consistent with the objectives and provisions of the national service laws, as the Chief Executive Officer determines to be necessary or appropriate to carry out such provisions.
 
 #### (d) Delegation
 
@@ -148,7 +148,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (C) Income levels of participants
 
-&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves, during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
+&emsp;&emsp;The evaluating entity shall determine the total income of each participant who serves,during the period covered by the evaluation, in a national service program carried out or supported using assistance provided under section 12571 of this title or in an approved national service position. The total income of the participant shall be determined as of the date the participant was first selected to participate in such a program and shall include family total income unless the evaluating entity determines that the participant was independent at the time of selection.
 
 #### (D) Assistance for distressed areas
 

@@ -29,5 +29,6 @@ Section 7727, added Pub. L. 107–14, §6(b)(1), June 5, 2001, 115 Stat. 31, rel
 
 - [&sect; 07731 - Establishment](%C2%A7%2007731%20-%20Establishment.md)
 - [&sect; 07732 - Functions](%C2%A7%2007732%20-%20Functions.md)
+- [&sect; 07732A - Employee certification](%C2%A7%2007732A%20-%20Employee%20certification.md)
 - [&sect; 07733 - Personnel](%C2%A7%2007733%20-%20Personnel.md)
 - [&sect; 07734 - Annual report to Congress](%C2%A7%2007734%20-%20Annual%20report%20to%20Congress.md)

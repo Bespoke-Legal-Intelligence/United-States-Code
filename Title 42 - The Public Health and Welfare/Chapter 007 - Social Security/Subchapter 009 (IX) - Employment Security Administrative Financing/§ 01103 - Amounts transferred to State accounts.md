@@ -6,7 +6,7 @@
 
 (2) Each State's share of the funds to be transferred under this subsection as of any October 1—
 
-&emsp;(A) shall be determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury before such date, and
+&emsp;(A) shall be determined by the Secretary of Labor and certified by such Secretary to theSecretary of the Treasury before such date, and
 
 &emsp;(B) shall bear the same ratio to the total amount to be so transferred as—
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
 
-&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount whichdoes not exceed, at any such time, the amount by which—
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
 
 &emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b) of this section, exceeds
 
@@ -72,7 +72,7 @@
 
 #### (d) Special transfer in fiscal year 2002
 
-(1) The Secretary of the Treasury shall transfer (as of the date determined under paragraph (5)) from the Federal unemployment account to the account of each State in the Unemployment Trust Fund the amount determined with respect to such State under paragraph (2).
+(1) The Secretary of the Treasury shall transfer (as of the date determined under paragraph (5)) from the Federal unemployment account to the account of each State in the UnemploymentTrust Fund the amount determined with respect to such State under paragraph (2).
 
 (2)(A) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to—
 
@@ -140,7 +140,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(i), is class
 
 The Temporary Extended Unemployment Compensation Act of 2002, referred to in subsec. (d)(2)(A)(i)(I), (3)(B)(i)(II), is title II of Pub. L. 107–147, Mar. 9, 2002, 116 Stat. 26, which is set out as a note under section 3304 of Title 26, Internal Revenue Code. Section 209(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Tables.
 
-Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
+Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, titleV, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
 
 #### Prior Provisions
 

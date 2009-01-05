@@ -20,6 +20,7 @@
 | [1276\.](%C2%A7%2001276%20-%20Congressional%20veto%20of%20hazardous%20substances%20regulations.md) | Congressional veto of hazardous substances regulations. |
 | [1277\.](%C2%A7%2001277%20-%20Labeling%20of%20art%20materials.md) | Labeling of art materials. |
 | [1278\.](%C2%A7%2001278%20-%20Requirements%20for%20labeling%20certain%20toys%20and%20games.md) | Requirements for labeling certain toys and games. |
+| [1278a.](%C2%A7%2001278a%20-%20Children%27s%20products%20containing%20lead%3B%20lead%20paint%20rule.md) | Children's products containing lead; lead paint rule. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,3 +47,4 @@
 - [&sect; 01276 - Congressional veto of hazardous substances regulations](%C2%A7%2001276%20-%20Congressional%20veto%20of%20hazardous%20substances%20regulations.md)
 - [&sect; 01277 - Labeling of art materials](%C2%A7%2001277%20-%20Labeling%20of%20art%20materials.md)
 - [&sect; 01278 - Requirements for labeling certain toys and games](%C2%A7%2001278%20-%20Requirements%20for%20labeling%20certain%20toys%20and%20games.md)
+- [&sect; 01278a - Children's products containing lead; lead paint rule](%C2%A7%2001278a%20-%20Children%27s%20products%20containing%20lead%3B%20lead%20paint%20rule.md)

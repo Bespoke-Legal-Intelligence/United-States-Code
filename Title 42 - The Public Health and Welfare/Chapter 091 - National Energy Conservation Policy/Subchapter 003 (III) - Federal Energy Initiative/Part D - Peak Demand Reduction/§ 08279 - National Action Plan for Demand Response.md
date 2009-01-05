@@ -20,7 +20,7 @@ The Commission shall further develop a National Action Plan on Demand Response, 
 
 &emsp;(2) Design and identification of requirements for implementation of a national communications program that includes broad-based customer education and support.
 
-&emsp;(3) Development or identification of analytical tools, information, model regulatory provisions, model contracts, and other support materials for use by customers, States, utilities and demand response providers.
+&emsp;(3) Development or identification of analytical tools, information, model regulatory provisions, model contracts, and other supportmaterials for use by customers, States, utilities and demand response providers.
 
 #### (c) Implementation of Plan
 

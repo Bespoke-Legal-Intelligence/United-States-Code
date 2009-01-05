@@ -4,7 +4,7 @@
 
 (b)(1) A member who is required to take leave under section 876a or 1182(c)(2) of this title and who has accrued leave to his credit on the day before the day such leave begins may elect to be paid for such accrued leave. Any such payment shall be based on the rate of basic pay to which the member was entitled on the day before the day such leave began. If the member does not elect to be paid for such accrued leave, the member is entitled to pay and allowances during the period of accrued leave required to be taken.
 
-(2) Except as provided in paragraph (1) and in sections 707 and 707a of this title, a member may not accrue or receive pay or allowances during a period of leave required to be taken under section 876a or 1182(c)(2) of this title.
+(2) Except as provided in paragraph (1) and in sections 707 and 707a of this title, a member maynot accrue or receive pay or allowances during a period of leave required to be taken under section 876a or 1182(c)(2) of this title.
 
 (c) A member required to take leave under section 876a or 1182(c)(2) of this title is not entitled to any right or benefit under chapter 43 of title 38 solely because of employment during the period of such leave.
 
@@ -42,7 +42,7 @@ Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1
 
 “(b)(1) The amendments made by section 2 \[enacting this section and sections 707 and 876a of this title and amending section 701 of this title\] shall apply to each member whose sentence by court-martial is approved on or after January 20, 1982—
 
-&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercisinggeneral court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
+&emsp;“(A) under section 864 or 865 (article 64 or 65) of title 10, United States Code, by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 \[see Effective Date of 1983 Amendment note set out under section 801 of this title\]; or
 
 &emsp;“(B) under section 860 (article 60) of title 10, United States Code, by the officer empowered to act on the sentence on or after the effective date of the Military Justice Act of 1983.
 

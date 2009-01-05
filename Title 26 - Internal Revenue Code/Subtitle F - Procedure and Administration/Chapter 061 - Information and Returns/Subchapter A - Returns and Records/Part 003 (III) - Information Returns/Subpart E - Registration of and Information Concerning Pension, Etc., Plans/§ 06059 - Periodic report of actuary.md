@@ -28,7 +28,7 @@ The actuarial report and statement required by this section shall be filed at th
 
 #### (d) Cross reference
 
-&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect</b><b>to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the report required to be filed under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–280, title I, §114(f), Aug. 17, 2006, 120 Stat. 855.)
 
@@ -44,9 +44,13 @@ Subsec. (b)(3)(B). Pub. L. 109–280, §114(f)(2), added subpar. (B) and struck 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 114(g)(1) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
+
 #### Effective Date
 
-Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II of Pub. L. 93–406 applies, see section 1034(1) of Pub. L. 93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Requirements of section applicable only with respect to plan years to which part I of subtitle A of title II of Pub. L. 93–406 applies, see section 1034(1) of Pub. L.93–406, set out as an note under section 6057 of this title. For a description of the plan years to which part 1 applies, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

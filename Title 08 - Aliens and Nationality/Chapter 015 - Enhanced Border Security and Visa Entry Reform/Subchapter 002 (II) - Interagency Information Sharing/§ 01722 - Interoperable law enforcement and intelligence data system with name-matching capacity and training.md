@@ -34,7 +34,7 @@
 
 #### (6) Limitation on access
 
-&emsp;The President shall, in accordance with applicable Federal laws, establish procedures to restrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
+&emsp;The President shall, in accordance with applicable Federal laws, establish procedures torestrict access to intelligence information in the data system under this subsection, and the databases referred to in paragraph (2), under circumstances in which such information is not to be disclosed directly to Government officials under paragraph (5).
 
 #### (b) Name-search capacity and support
 

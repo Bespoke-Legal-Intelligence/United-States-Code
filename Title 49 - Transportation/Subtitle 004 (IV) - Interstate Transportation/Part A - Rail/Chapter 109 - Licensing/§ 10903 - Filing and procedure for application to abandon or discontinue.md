@@ -26,7 +26,7 @@
 
 &emsp;(D) mail a copy of the notice, to the extent practicable, to all shippers that have made significant use (as designated by the Board) of the railroad line during the 12 months preceding the filing of the application; and
 
-&emsp;(E) attach to the application filed with the Board an affidavit certifying the manner in which subparagraphs (A) through (D) of this paragraph have been satisfied, and certifyingthat subparagraphs (A) through (D) have been satisfied within the most recent 30 days prior to the date the application is filed.
+&emsp;(E) attach to the application filed with the Board an affidavit certifying the manner in which subparagraphs (A) through (D) of this paragraph have been satisfied, and certifying that subparagraphs (A) through (D) have been satisfied within the most recent 30 days prior to the date the application is filed.
 
 (b)(1) Except as provided in subsection (d), abandonment and discontinuance may occur as provided in section 10904.
 

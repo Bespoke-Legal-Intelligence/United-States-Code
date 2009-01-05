@@ -30,7 +30,7 @@ The purposes of the corporation are—
 
 &emsp;(12) to encourage and provide assistance to amateur athletic activities for women;
 
-&emsp;(13) to encourage and provide assistance to amateur athletic programs and competitionfor amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes; and
+&emsp;(13) to encourage and provide assistance to amateur athletic programs and competition for amateur athletes with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by such amateur athletes in programs of athletic competition for able-bodied amateur athletes; and
 
 &emsp;(14) to encourage and provide assistance to amateur athletes of racial and ethnic minorities for the purpose of eliciting the participation of those minorities in amateur athletic activities in which they are underrepresented.
 

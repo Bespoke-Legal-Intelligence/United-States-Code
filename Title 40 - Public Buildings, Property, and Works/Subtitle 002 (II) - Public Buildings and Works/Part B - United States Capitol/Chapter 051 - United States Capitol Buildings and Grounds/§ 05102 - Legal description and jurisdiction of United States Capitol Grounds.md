@@ -128,13 +128,13 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;“(D) Unimproved streets and alleys at Fort Circle Park located within the boundaries of U.S. Reservation 497 (National Park Service property).
 
-&emsp;&emsp;“(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;“(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;“(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;“(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
-&emsp;&emsp;“(H) Subject to paragraph (2), lands over I–395 bounded by Washington Avenue Southwest, 2nd Street Southwest, and the C Street Southwest ramps to I–295.
+&emsp;&emsp;“(H) Subject to paragraph (2), lands over I–395 bounded by Washington Avenue Southwest, 2ndStreet Southwest, and the C Street Southwest ramps to I–295.
 
 &emsp;&emsp;“(I) A portion of U.S. Reservation 357 at Whitehaven Parkway Northwest, previously transferred to the District of Columbia in conjunction with the former proposal for a residence for the Mayor of the District of Columbia.
 
@@ -238,13 +238,13 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 #### “SEC. 404. NO EFFECT ON COMPLIANCE WITH ENVIRONMENTAL LAWS.
 
-“Nothing in this Act or any amendment made by this Act may be construed to affect or limit the applicationof or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+“Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
 
 #### “SEC. 405. CONGRESSIONAL REPORTS.
 
 “(a)
 
-District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
+District of Columbia.—Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, andthe Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
 
 “(b)
 
@@ -452,7 +452,7 @@ Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1
 
 “(17) that portion of D Street Southwest from the west curb of Third Street Southwest to the east curb of Second Street Southwest;
 
-“(18) that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curb of Independence Avenue Southwest to the west curb of South Capitol Street; and
+“(18) that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curbof Independence Avenue Southwest to the west curb of South Capitol Street; and
 
 “(19) all that area contiguous to, and surrounding, square numbered 724 from the property line thereof to the contiguous curb;
 
@@ -494,7 +494,7 @@ Pub. L. 96–432, §§7–10, Oct. 10, 1980, 94 Stat. 1853, 1854, provided that:
 
 “
 
-Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amendment made by this Act shall be effective only to such extent and in such amounts as may be provided in advance in an appropriation Act.”
+Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amendment made by this Actshall be effective only to such extent and in such amounts as may be provided in advance in an appropriation Act.”
 
 #### Acquisition of Property for Additions to United States Capitol Grounds
 

@@ -12,9 +12,9 @@ Except for disposals made under the authority of paragraph (3), (4), or (5) of s
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
+There is authorized to be appropriated such sums as may be necessary to provide for thetransportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
-(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat.381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
+(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
 
 #### Prior Provisions
 
@@ -24,19 +24,19 @@ Provisions similar to those in this section were contained in former sections 98
 
 #### Amendments
 
-1993—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.”
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–160 substituted “and a period of 45 days has passed from the date of the receipt of such statement by such committees.” for “and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.”
 
-1992—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 struck out “(1)” after “the stockpile” and “, or (2) if the disposal would result in there being an unobligated balance in the National Defense Stockpile Transaction Fund in excess of $100,000,000” after “authorized by law”.
 
-1987—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 struck out “or until each such committee, before the expiration of such period, notifies the President that it has no objection to the proposed transaction” before period at end of first sentence.
 
-1986—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 substituted “paragraph (3), (4), or (5)” for “paragraph (4) or (5)”.
 
-1984—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted “$100,000,000” for “$250,000,000”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525, §903(b), substituted “$100,000,000” for “$250,000,000”.
 
 Pub. L. 98–525, §903(a), substituted “an unobligated balance” for “a balance” where first appearing and “$250,000,000” for “$1,000,000,000 or, in the case of a disposal to be made after September 30, 1983, if the disposal would result in there being a balance in the fund in excess of $500,000,000”.
 
-1981—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §203(a), designated existing provisions as par. (1), inserted applicability to other incidental expenses, substituted “until expended, unless otherwise” for “for a period of five fiscal years, if so”, and added par. (2).
 
 Subsec. (b). Pub. L. 97–35, §203(b), inserted designation for cl. (1) and added cl. (2).
 
@@ -60,6 +60,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 110–181, div. A, title XIV, §§1413, 1414, Jan. 28, 2008, 122 Stat. 418, 419.
+
 Pub. L. 109–163, div. C, title XXXIII, §§3303, 3304, Jan. 6, 2006, 119 Stat. 3546.
 
 Pub. L. 108–375, div. C, title XXXIII, §3303, Oct. 28, 2004, 118 Stat. 2193.
@@ -68,15 +70,15 @@ Pub. L. 107–107, div. C, title XXXIII, §§3301, 3303, 3306(a), Dec. 28, 2001,
 
 Pub. L. 106–398, §1 \[div. C, title XXXIII, §3303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
 
-Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788; Pub. L. 109–163, div. C, title XXXIII, §3302(b), Jan. 6, 2006, 119 Stat. 3546.
+Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788; Pub. L. 109–163, div. C, title XXXIII, §3302(b), Jan. 6, 2006, 119 Stat. 3546; Pub. L. 110–181, div. A, title XIV, §1412(a), Jan. 28, 2008, 122 Stat. 418.
 
 Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 
 Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322.
 
-Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193; Pub. L. 109–163, div. C, title XXXIII, §3302(a), Jan. 6, 2006, 119 Stat. 3545; Pub. L. 109–364, div. C, title XXXIII, §3302(a), Oct. 17, 2006, 120 Stat. 2513.
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193; Pub. L. 109–163, div. C, title XXXIII, §3302(a), Jan. 6, 2006, 119 Stat. 3545; Pub. L. 109–364, div. C, title XXXIII, §3302(a), Oct. 17, 2006, 120 Stat. 2513; Pub. L. 110–181, div. A, title XIV, §1412(b), Jan. 28, 2008, 122 Stat. 418; Pub. L. 110–417, \[div. A\], title XIV, §1412(a), Oct. 14, 2008, 122 Stat. 4648.
 
-Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390; Pub. L. 109–364, div. C, title XXXIII, §3302(b), Oct. 17, 2006, 120 Stat. 2513.
+Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390; Pub. L. 109–364, div. C, title XXXIII, §3302(b), Oct. 17, 2006, 120 Stat. 2513; Pub. L. 110–417, \[div. A\], title XIV, §1412(b), Oct. 14, 2008, 122 Stat. 4648.
 
 Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Stat. 2854, 2855; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(1), 3403(c), Oct. 5, 1999, 113 Stat. 973, 974; Pub. L. 107–107, div. C, title XXXIII, §3304(c), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 109–364, div. C, title XXXIII, §3302(c), Oct. 17, 2006, 120 Stat. 2513.
 

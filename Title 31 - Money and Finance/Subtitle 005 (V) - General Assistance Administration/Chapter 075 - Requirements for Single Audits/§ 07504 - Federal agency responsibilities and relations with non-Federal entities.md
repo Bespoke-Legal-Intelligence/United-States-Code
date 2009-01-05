@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–156 substituted “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” in sectioncatchline and amended text generally. Prior to amendment, text read as follows:
+1996—Pub. L. 104–156 substituted “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Director shall designate cognizant agencies for audits conducted pursuant to this chapter.
 

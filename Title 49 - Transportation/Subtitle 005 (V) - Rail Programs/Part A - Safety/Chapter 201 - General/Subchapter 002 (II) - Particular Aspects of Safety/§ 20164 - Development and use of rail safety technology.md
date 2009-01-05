@@ -1,0 +1,34 @@
+### §20164. Development and use of rail safety technology
+
+(a)
+
+In General.—Not later than 1 year after enactment of the Railroad Safety Enhancement Act of 2008,<sup>1</sup> the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+
+&emsp;(1) switch position monitoring devices or indicators;
+
+&emsp;(2) radio, remote control, or other power-assisted switches;
+
+&emsp;(3) hot box, high water, or earthquake detectors;
+
+&emsp;(4) remote control locomotive zone limiting devices;
+
+&emsp;(5) slide fences;
+
+&emsp;(6) grade crossing video monitors;
+
+&emsp;(7) track integrity warning systems; or
+
+&emsp;(8) other similar rail safety technologies, as determined by the Secretary.
+
+(b)
+
+Dark Territory Defined.—In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
+
+(Added Pub. L. 110–432, div. A, title IV, §406(a), Oct. 16, 2008, 122 Stat. 4886.)
+
+#### References in Text
+
+The Railroad Safety Enhancement Act of 2008, referred to in subsec. (a), probably means the Rail Safety Improvement Act of 2008, div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

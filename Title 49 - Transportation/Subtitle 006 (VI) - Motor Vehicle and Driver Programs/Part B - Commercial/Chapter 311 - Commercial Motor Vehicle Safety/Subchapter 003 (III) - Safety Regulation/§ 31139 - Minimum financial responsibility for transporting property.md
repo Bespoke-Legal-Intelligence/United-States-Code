@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by commercial motor vehicle in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by motor carrier or motor private carrier (as such terms are defined in section 13102 of this title) in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -30,7 +30,7 @@ General Requirement and Minimum Amount.—(1) The Secretary of Transportation sh
 
 (c)
 
-Filing of Evidence of Financial Responsibility.—The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the commercial motor vehicle, or for loss or damage to property, or both.
+Filing of Evidence of Financial Responsibility.—The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -80,7 +80,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 &emsp;(D) qualification as a self-insurer.
 
-(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibilityis not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
+(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
 (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
@@ -112,7 +112,7 @@ Nonapplication.—This section does not apply to a motor vehicle having a gross 
 
 &emsp;(3) a large quantity of radioactive material.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006; Pub. L. 104–88, title I, §104(e), Dec. 29, 1995, 109 Stat. 919; Pub. L. 109–59, title IV, §§4120(b), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006; Pub. L. 104–88, title I, §104(e), Dec. 29, 1995, 109 Stat. 919; Pub. L. 109–59, title IV, §§4120(b), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734; Pub. L. 110–244, title III, §§301(f), 305(b), June 6, 2008, 122 Stat. 1616, 1620.)
 
 Historical and Revision Notes
 
@@ -190,17 +190,27 @@ In subsection (g)(1) and (2), the words “any quantity of” are omitted as sur
 
 #### Amendments
 
+2008—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted “motor carrier or motor private carrier (as such terms are defined in section 13102 of this title)” for “commercial motor vehicle”.
+
+Subsec. (c). Pub. L. 110–244, §305(b)(2), struck out “commercial” before “motor vehicle”.
+
+Subsec. (g)(5). Pub. L. 110–244, §301(f), amended Pub. L. 109–59, §4121. See 2005 Amendment note below.
+
 2005—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
 
 Subsecs. (c) to (f). Pub. L. 109–59, §4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(5). Pub. L. 109–59, §4121, which directed amendment of subsec. (f)(5) by substituting “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”, was executed to subsec. (g)(5) to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 109–59, §4120(b)(2). See above.
+Subsec. (g)(5). Pub. L. 109–59, §4121, as amended by Pub. L. 110–244, §301(f), substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
 
 Subsec. (h). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (g) as (h).
 
 1995—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 301(f) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

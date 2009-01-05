@@ -10,7 +10,7 @@ In any Territory of the United States or in the District of Columbia a person ho
 
 #### (c) Transfers to other districts; temporary details
 
-Deputy commissioners (except deputy commissioners appointed under subsection (a) ofthis section) may be transferred from one compensation district to another and may be temporarily detailed from one compensation district for service in another in the discretion of the Secretary.
+Deputy commissioners (except deputy commissioners appointed under subsection (a) of this section) may be transferred from one compensation district to another and may be temporarily detailed from one compensation district for service in another in the discretion of the Secretary.
 
 #### (d) Maintaining offices
 

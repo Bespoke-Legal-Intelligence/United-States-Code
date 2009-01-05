@@ -8,7 +8,7 @@ Notwithstanding the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719
 
 #### (1) In general
 
-&emsp;The Commission shall issue a certificate of public convenience and necessity authorizingthe construction and operation of an Alaska natural gas transportation project under this section if the applicant has satisfied the requirements of section 7(e) of the Natural Gas Act (15 U.S.C. 717f(e)).
+&emsp;The Commission shall issue a certificate of public convenience and necessity authorizing the construction and operation of an Alaska natural gas transportation project under this section if the applicant has satisfied the requirements of section 7(e) of the Natural Gas Act (15 U.S.C. 717f(e)).
 
 #### (2) Considerations
 

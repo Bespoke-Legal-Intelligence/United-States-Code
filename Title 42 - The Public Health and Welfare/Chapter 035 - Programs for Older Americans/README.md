@@ -220,7 +220,7 @@ I74subpart i—caregiver support program
 | [3056d.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056d%20-%20Distribution%20of%20assistance.md) | Distribution of assistance. |
 | [3056e.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056e%20-%20Equitable%20distribution.md) | Equitable distribution. |
 | [3056f.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056f%20-%20Report.md) | Report. |
-| [3056g.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20food%20stamp%20programs.md) | Employment assistance and Federal housing and food stamp programs. |
+| [3056g.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20supplemental%20nutrition%20assistance%20programs.md) | Employment assistance and Federal housing and supplemental nutrition assistance programs. |
 | [3056h.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md) | Eligibility for workforce investment activities. |
 | [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Investment%20Act%20of%201998.md) | Coordination with the Workforce Investment Act of 1998. |
 | [3056j.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056j%20-%20Treatment%20of%20assistance.md) | Treatment of assistance. |

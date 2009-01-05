@@ -58,7 +58,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769;Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -118,7 +118,7 @@ Incidental Provisions
 
 1–401. Persons appointed, employed, or assigned under Section 7(a) of the Act (22 U.S.C. 2506(a)) shall not, unless otherwise agreed by the agency in which such benefits may be exercised, be entitled to the benefits provided by Section 310 of the Foreign Service Act of 1980 (22 U.S.C. 3950) in cases in which their service under the appointment, employment, or assignment exceeds thirty months.
 
-1–402. Pursuant to Section 10(d) of the Act (22 U.S.C. 2509(d)), it is hereby determined to be in furtherance of the purposes of the Act \[this chapter\] that functions authorized thereby may be performed without regard to the applicable laws specified in Section 1 and 2 of Executive Order No. 11223 of May 12, 1965 \[22 U.S.C. 2393 note\], and with or without consideration as specified inSection 3 of that Order, but subject to the limitations set forth in that Order.
+1–402. Pursuant to Section 10(d) of the Act (22 U.S.C. 2509(d)), it is hereby determined to be in furtherance of the purposes of the Act \[this chapter\] that functions authorized thereby may be performed without regard to the applicable laws specified in Section 1 and 2 of Executive Order No. 11223 of May 12, 1965 \[22 U.S.C. 2393 note\], and with or without consideration as specified in Section 3 of that Order, but subject to the limitations set forth in that Order.
 
 1–403. As used in this Order, the words “Volunteers,” “functions,” “United States,” and “United States Government agency” shall have the same meanings, respectively, as they have under the Act \[this chapter\].
 
@@ -132,7 +132,7 @@ National Voluntary Action Program
 
 Director of ACTION
 
-1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Act of 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
+1–601. In addition to the functions vested in the Director of ACTION by the Domestic Volunteer Service Actof 1973 (42 U.S.C., Section 4951 et seq.), Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\], and Section 1–401 of this Order, the Director of ACTION shall:
 
 (a) Encourage local, national and international voluntary activities directed toward the solution or mitigation of community problems.
 

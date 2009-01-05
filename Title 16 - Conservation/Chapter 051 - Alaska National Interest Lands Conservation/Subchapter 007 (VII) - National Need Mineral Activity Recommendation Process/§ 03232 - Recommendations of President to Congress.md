@@ -6,7 +6,7 @@ At any time after December 2, 1980, the President may transmit a recommendation 
 
 #### (b) Findings
 
-A recommendation may be transmitted to the Congress under subsection (a) of this section ifthe President finds that, based on the information available to him—
+A recommendation may be transmitted to the Congress under subsection (a) of this section if the President finds that, based on the information available to him—
 
 &emsp;(1) there is an urgent national need for the mineral activity; and
 

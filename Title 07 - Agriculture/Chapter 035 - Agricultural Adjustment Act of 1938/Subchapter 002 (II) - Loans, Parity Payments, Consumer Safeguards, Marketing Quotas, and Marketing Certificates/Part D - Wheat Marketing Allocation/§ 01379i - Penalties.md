@@ -2,7 +2,7 @@
 
 #### (a) Forfeitures; amount; civil action
 
-Any person who knowingly violates or attempts to violate or who knowingly participates or aids in the violation of any of the provisions of subsection (b) of section 1379d of this titleshall forfeit to the United States a sum equal to two times the face value of the marketing certificates involved in such violation. Such forfeiture shall be recoverable in a civil action brought in the name of the United States.
+Any person who knowingly violates or attempts to violate or who knowingly participates or aids in the violation of any of the provisions of subsection (b) of section 1379d of this title shall forfeit to the United States a sum equal to two times the face value of the marketing certificates involved in such violation. Such forfeiture shall be recoverable in a civil action brought in the name of the United States.
 
 #### (b) Misdemeanors; punishment
 
@@ -32,7 +32,7 @@ Section 510(b) of Pub. L. 89–321 provided that the amendments made by that sec
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 

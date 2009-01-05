@@ -30,7 +30,7 @@ Proper Classification of Advisory and Assistance Services.—Before the submissi
 
 (d)
 
-Report to Congress.—The Secretary shall submit to Congress each year, not later than 30 days after the date on which the budget for the next fiscal year is submitted pursuant to section 1105 of title 31, a report containing the information derived from the review under subsection (c).
+Report to Congress.—The Secretary shall submit to Congress each year, not later than 30days after the date on which the budget for the next fiscal year is submitted pursuant to section 1105 of title 31, a report containing the information derived from the review under subsection (c).
 
 (e)
 

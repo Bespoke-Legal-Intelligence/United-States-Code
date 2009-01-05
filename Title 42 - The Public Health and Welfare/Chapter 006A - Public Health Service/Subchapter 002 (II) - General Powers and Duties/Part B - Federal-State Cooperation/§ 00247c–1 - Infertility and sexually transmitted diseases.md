@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States, political subdivisions of States, and other public or nonprofit private entities for the purpose of carrying out the activities described in subsection (c) of this section regarding any treatable sexually transmitted disease that can cause infertility in women if treatment is not received for the disease.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may make grants to States, political subdivisions of States, and other public or nonprofit private entities for the purpose of carrying out the activities described in subsection (c) of this section regarding any treatable sexually transmitted disease that can cause infertility in women if treatment is not received for the disease.
 
 #### (b) Authority regarding individual diseases
 
@@ -40,7 +40,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (f) Quality assurance regarding screening for diseases
 
-For purposes of this section, the Secretary shall establish criteria for ensuring the qualityof screening procedures for diseases described in subsection (a) of this section.
+For purposes of this section, the Secretary shall establish criteria for ensuring the quality of screening procedures for diseases described in subsection (a) of this section.
 
 #### (g) Confidentiality
 

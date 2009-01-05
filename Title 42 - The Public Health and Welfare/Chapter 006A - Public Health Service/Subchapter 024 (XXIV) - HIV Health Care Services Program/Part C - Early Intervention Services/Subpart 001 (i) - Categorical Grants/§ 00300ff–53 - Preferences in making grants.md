@@ -30,7 +30,7 @@ In making grants under section 300ff–51 of this title, the Secretary shall giv
 
 #### (c) Equitable allocations
 
-In providing preferences for purposes of subsection (b) of this section, the Secretary shall equitably allocate the preferences among urban and rural areas.
+In providing preferences for purposes of subsection (b) of this section, the Secretary shallequitably allocate the preferences among urban and rural areas.
 
 #### (d) Certain areas
 

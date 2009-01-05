@@ -40,7 +40,11 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 &emsp;&emsp;(A) the Hazardous Substance Superfund financing rate is 9.7 cents a barrel, and
 
-&emsp;&emsp;(B) the Oil Spill Liability Trust Fund financing rate is 5 cents a barrel.
+&emsp;&emsp;(B) the Oil Spill Liability Trust Fund financing rate is—
+
+&emsp;&emsp;&emsp;(i) in the case of crude oil received or petroleum products entered before January 1, 2017, 8 cents a barrel, and
+
+&emsp;&emsp;&emsp;(ii) in the case of crude oil received or petroleum products entered after December 31, 2016, 9 cents a barrel.
 
 #### (d) Persons liable for tax
 
@@ -76,7 +80,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (A) Estimates by Secretary
 
-&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times asthe Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
+&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
 
 #### (B) Termination if $11,970,000,000 credited before January 1, 1996
 
@@ -86,23 +90,25 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006, or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
+&emsp;Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006, or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
 
-#### (2) Fund balance
+#### (2) Termination
 
-&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply during a calendar quarter if the Secretary estimates that, as of the close of the preceding calendar quarter, the unobligated balance in the Oil Spill Liability Trust Fund exceeds $2,700,000,000.
+&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017.
 
-#### (3) Termination
-
-&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2014.
-
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub.L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861.)
 
 #### Codification
 
 Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+
+2008—Subsec. (c)(2)(B). Pub. L. 110–343, §405(a)(1), substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
+
+Subsec. (f)(1). Pub. L. 110–343, §405(b)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+
+Subsec. (f)(2), (3). Pub. L. 110–343, §405(b)(1), added par. (2) and struck out former pars. (2) and (3), which provided that the Oil Spill Liability Trust Fund financing rate would not apply if the unobligated balance in the Fund exceeded $2,700,000,000 and that the Fund financing rate would not apply after Dec. 31, 2014.
 
 2005—Subsec. (f). Pub. L. 109–58 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -158,11 +164,17 @@ Pub. L. 99–499, §§511(a), 512(b), amended subsec. (d) generally and redesign
 
 &emsp;“(1) the unobligated balance in the Hazardous Substance Response Trust Fund as of such date exceeds $900,000,000, and
 
-&emsp;“(2) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that such unobligated balance will exceed $500,000,000 on September 30 of the following year ifno tax is imposed under section 4611 or 4661 during the calendar year following the date referred to above,
+&emsp;“(2) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that such unobligated balance will exceed $500,000,000 on September 30 of the following year if no tax is imposed under section 4611 or 4661 during the calendar year following the date referred to above,
 
 > then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
 Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title IV, §405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendment made by this subsection \[amending this section\] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
+Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -170,11 +182,11 @@ Section 8(b) of Pub. L. 101–221 provided that: “The amendment made by subsec
 
 #### Effective Date of 1986 Amendments
 
-Section 8032(d) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title VIII, §8032(d), Oct. 21, 1986, 100 Stat. 1959, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in \[former\] section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
 
 “(2)
 

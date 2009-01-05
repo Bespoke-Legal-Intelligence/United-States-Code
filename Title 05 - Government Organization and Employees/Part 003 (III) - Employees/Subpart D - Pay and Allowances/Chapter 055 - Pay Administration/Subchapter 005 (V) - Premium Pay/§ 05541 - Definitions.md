@@ -52,7 +52,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(x) an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
 
-&emsp;&emsp;(xi) an employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under subchapter IV of chapter 53 of this title, or by a wage board or similar administrative authority serving the same purpose, except as provided by section 5544 of this title;
+&emsp;&emsp;(xi) an employee whose pay is fixed and adjusted from time to time in accordance with prevailing rates under subchapter IV of chapter 53 of this title, or by a wage board or similar administrative authority serving the same purpose, except as provided by section 5544 or 5550b of this title;
 
 &emsp;&emsp;(xii) an employee of the Transportation Corps of the Army on a vessel operated by the United States, a vessel employee of the Environmental Science Services Administration, or a vessel employee of the Department of the Interior;
 
@@ -80,7 +80,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) is a special agent in the Diplomatic Security Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(16), Aug. 12, 1970, 84 Stat. 776; Pub. L. 92–392, §4, Aug. 14, 1972, 86 Stat. 573; Pub. L. 94–183, §2(22), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–105, title IV, §412(a)(1), Aug. 17, 1977, 91 Stat. 855; Pub. L. 95–426, title II, §204(b)(5)(B), Oct. 7, 1978, 92 Stat. 974; Pub. L. 95–454, title IV, §408(a)(2), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–465, title II, §2304, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(1), May 30, 1988, 102 Stat. 582; Pub. L. 101–509, title V, §529 \[title IV, §411(a)\], Nov. 5, 1990, 104 Stat. 1427, 1469; Pub. L. 102–378, §2(40)(A)–(C), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 104–201, div. C, title XXXV, §3548(a)(6), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 110–181, div. A, title XI, §1111(b), Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes
 
@@ -128,7 +128,7 @@ In paragraph (2)(iv), the provisions of former section 902(a)(5) and (b)(6) are 
 
 In paragraph (2)(v), the words “student-employee as defined by section 5351 of this title” are coextensive with and substituted for the enumeration of the employees in former section 902(a)(6).
 
-In paragraph (2)(iv), (vi), (vii), (viii), (ix), (xi), and (xii), the reference to former section 947 is omitted as that section was repealed by the Act of Sept. 12, 1950, ch. 946, §301(85), 64 Stat. 843.
+In paragraph (2)(iv), (vi), (vii), (viii), (ix), (xi), and (xii), the reference to former section 947 is omitted asthat section was repealed by the Act of Sept. 12, 1950, ch. 946, §301(85), 64 Stat. 843.
 
 In paragraph (2)(xii), the reference to former section 946 is omitted as unnecessary since that section is not carried into this subchapter. The words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 2, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -139,6 +139,8 @@ The exception for officers and employees of the Inland Waterways Corporation in 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2008—Par. (2)(xi). Pub. L. 110–181 substituted “section 5544 or 5550b” for “section 5544”.
 
 1996—Par. (2)(xii). Pub. L. 104–201 inserted “or” after “Services Administration,” and struck out “, or a vessel employee of the Panama Canal Commission” after “Interior”.
 
@@ -167,6 +169,14 @@ Par. (2)(xv). Pub. L. 95–426 substituted “International Communication Agency
 1970—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of “employee”.
 
 1967—Par. (2)(xii). Pub. L. 90–83 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”. See Historical and Revision Notes under section 2101 of this title.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title XI, §1111(c), Jan. 28, 2008, 122 Stat. 360, provided that: “The amendments made by this section \[amending this section and section 5550b of this title\] shall take effect on the earlier of—
+
+&emsp;“(1) the effective date of any regulations prescribed to carry out such amendments; or
+
+&emsp;“(2) the 90th day after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -200,7 +210,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service andpublished by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Short Title of 1994 Amendment
 
@@ -210,7 +220,7 @@ Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided 
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpendedbalances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 #### Availability of Premium Pay for Attorneys Employed in Department of Justice
 

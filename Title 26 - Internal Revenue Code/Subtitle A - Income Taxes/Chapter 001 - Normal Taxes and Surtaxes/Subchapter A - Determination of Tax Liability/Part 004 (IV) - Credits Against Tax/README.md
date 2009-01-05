@@ -14,11 +14,14 @@
 
 |  |  |
 | :--- | ---: |
-| H. | Nonrefundable credit to holders of certain bonds. |
+| H. | Nonrefundable credit to holders of clean renewable energy bonds. |
+| I. | Qualified tax credit bonds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–234, title XV, §15316(c)(5), May 22, 2008, 122 Stat. 1511, and Pub. L. 110–246, title XV, §15316(c)(5), June 18, 2008, 122 Stat. 2273, made identical amendments, adding items for subparts H and I and striking out item for former subpart H “Nonrefundable credit to holders of certain bonds”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 2005—Pub. L. 109–58, title XIII, §1303(c)(1), Aug. 8, 2005, 119 Stat. 996, added item for subpart H.
 
@@ -44,4 +47,5 @@
 - [Subpart E - Rules for Computing Investment Credit](Subpart%20E%20-%20Rules%20for%20Computing%20Investment%20Credit/README.md)
 - [Subpart F - Rules for Computing Work Opportunity Credit](Subpart%20F%20-%20Rules%20for%20Computing%20Work%20Opportunity%20Credit/README.md)
 - [Subpart G - Credit Against Regular Tax for Prior Year Minimum Tax Liability](Subpart%20G%20-%20Credit%20Against%20Regular%20Tax%20for%20Prior%20Year%20Minimum%20Tax%20Liability/README.md)
-- [Subpart H - Nonrefundable Credit to Holders of Certain Bonds](Subpart%20H%20-%20Nonrefundable%20Credit%20to%20Holders%20of%20Certain%20Bonds/README.md)
+- [Subpart H - Nonrefundable Credit to Holders of Clean Renewable Energy Bonds](Subpart%20H%20-%20Nonrefundable%20Credit%20to%20Holders%20of%20Clean%20Renewable%20Energy%20Bonds/README.md)
+- [Subpart I - Qualified Tax Credit Bonds](Subpart%20I%20-%20Qualified%20Tax%20Credit%20Bonds/README.md)

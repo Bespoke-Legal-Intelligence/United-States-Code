@@ -88,13 +88,97 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Mechanisms To Provide Funds for Defense Laboratories for Research and Development of Technologies for Military Missions
+
+Pub. L. 110–417, \[div. A\], title II, §219, Oct. 14, 2008, 122 Stat. 4389, provided that:
+
+“(a)
+
+Mechanisms to Provide Funds.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not more than three percent of all funds available to the defense laboratory for the following purposes:
+
+&emsp;&emsp;“(A) To fund innovative basic and applied research that is conducted at the defense laboratory and supports military missions.
+
+&emsp;&emsp;“(B) To fund development programs that support the transition of technologies developed by the defense laboratory into operational use.
+
+&emsp;&emsp;“(C) To fund workforce development activities that improve the capacity of the defense laboratory to recruit and retain personnel with needed scientific and engineering expertise.
+
+&emsp;“(2)
+
+Consultation required.—The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
+
+“(b)
+
+Annual Report on Use of Authority.—
+
+&emsp;“(1)
+
+In general.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under subsection (a) during the preceding year.
+
+&emsp;“(2)
+
+Elements.—Each report under paragraph (1) shall include, with respect to the year covered by such report, the following:
+
+&emsp;&emsp;“(A) A description of the mechanisms used to provide funding under subsection (a)(1).
+
+&emsp;&emsp;“(B) A statement of the amount of funding made available to each defense laboratory for research described under such subsection.
+
+&emsp;&emsp;“(C) A description of the investments made by each defense laboratory using funds under such subsection.
+
+&emsp;&emsp;“(D) A description and assessment of any improvements in the performance of the defense laboratories as a result of investments under such subsection.
+
+&emsp;&emsp;“(E) A description and assessment of the contributions to the development of needed military capabilities provided by research using funds under such subsection.
+
+&emsp;&emsp;“(F) A description of any modification to the mechanisms under subsection (a) that would improve the efficacy of the authority under such subsection to support military missions.
+
+“(c)
+
+Sunset.—The authority under subsection (a) shall expire on October 1, 2013.”
+
+#### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices
+
+Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, provided that:
+
+“(a)
+
+Strategy Required.—The Director of the Joint Improvised Explosive Device Defeat Organization (JIEDDO), jointly with the Director of Defense Research and Engineering, shall develop a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices (IEDs).
+
+“(b)
+
+Elements.—The strategy developed under subsection (a) shall include the following:
+
+&emsp;“(1) Identification of counter-IED capability gaps.
+
+&emsp;“(2) A taxonomy describing the major technical areas for the Department of Defense to address the counter-IED capability gaps and in which science and technology funding investments should be made.
+
+&emsp;“(3) Identification of funded programs to develop or mature technologies from or to the level of system or subsystem model or prototype demonstration in a relevant environment, and investment levels for those initiatives.
+
+&emsp;“(4) Identification of JIEDDO's mechanisms for coordinating Department of Defense and Federal Government science and technology activities in areas covered by the strategy.
+
+&emsp;“(5) Identification of technology transition mechanisms developed or utilized to efficiently transition technologies to acquisition programs of the Department of Defense or into operational use, including a summary of counter-IED technologies transitioned from JIEDDO, the military departments, and other Defense Agencies to the acquisition programs or into operational use.
+
+&emsp;“(6) Identification of high priority basic research efforts that should be addressed through JIEDDO or other Department of Defense activities to support development of next generation IED defeat capabilities.
+
+&emsp;“(7) Identification of barriers or issues, such as industrial base, workforce, or statutory or regulatory barriers, that could hinder the efficient and effective development and operational use of advanced IED defeat capabilities, and discussion of activities undertaken to address them.
+
+&emsp;“(8) Identification of the measures of effectiveness for the overall Department of Defense science and technology counter-IED effort.
+
+&emsp;“(9) Such other matters as the Director of the JIEDDO and the Director of Defense Research and Engineering consider appropriate.
+
+“(c)
+
+Report.—Not later than March 1, 2009, and each March 1 thereafter through March 1, 2013, the Director of the JIEDDO and the Director of Defense Research and Engineering shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the implementation of the strategy developed under subsection (a). The report may be in unclassified and classified format, as necessary.”
+
 #### Hypersonics Development
 
 Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, provided that:
 
 “(a)
 
-Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carryout the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
+Establishment of Joint Technology Office on Hypersonics.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carry out the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
 
 “(b)
 
@@ -210,7 +294,7 @@ Report.—Not later than January 31, 2005, the Director of Defense Research and 
 
 &emsp;“(5) A list of program capability goals and objectives.
 
-&emsp;“(6) An outline of the role of basic and applied research in support of the development and maturationof advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+&emsp;“(6) An outline of the role of basic and applied research in support of the development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
 
 &emsp;“(7) Assessment of global capabilities in vacuum electronics technologies and the effect of those capabilities on the national security and economic competitiveness of the United States.”
 
@@ -350,7 +434,7 @@ Authority for Personal Services Contracts.—(1) Subject to paragraph (2), the a
 
 Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
 
-“(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
+“(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretarythat use of such authority is necessary to accelerate the research and development under the program.
 
 “(3) The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1).”
 
@@ -402,7 +486,7 @@ Cooperation With Industry.—(1) The Secretary shall carry out the program in co
 
 “(2) The Secretary may enter into a cooperative agreement with one or more companies selected under paragraph (1) to establish an entity for carrying out activities required by subsection (c).
 
-“(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, incash or in kind, not less than one-half of the total cost of carrying out the program under this section.
+“(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, in cash or in kind, not less than one-half of the total cost of carrying out the program under this section.
 
 “(e)
 
@@ -414,7 +498,7 @@ Intial \[sic\] Funding.—Of the funds authorized to be appropriated by section 
 
 #### Defense Nanotechnology Research and Development Program
 
-Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, provided that:
+Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, as amended by Pub. L. 110–181, div. A, title II, §240, Jan. 28, 2008, 122 Stat. 48, provided that:
 
 “(a)
 
@@ -426,9 +510,9 @@ Purposes.—The purposes of the program are as follows:
 
 &emsp;“(1) To ensure United States global superiority in nanotechnology necessary for meeting national security requirements.
 
-&emsp;“(2) To coordinate all nanoscale research and development within the Department of Defense, and to provide for interagency cooperation and collaboration on nanoscale research and development between the Department of Defense and other departments and agencies of the United States that are involved in nanoscale research and development.
+&emsp;“(2) To coordinate all nanoscale research and development within the Department of Defense, and to provide for interagency cooperation and collaboration on nanoscale research and development between the Department of Defense and other departments and agencies of the United States that are involved in the National Nanotechnology Initiative and with the National Nanotechnology Coordination Office under section 3 of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7502).
 
-&emsp;“(3) To develop and manage a portfolio of fundamental and applied nanoscience and engineering research initiatives that is stable, consistent, and balanced across scientific disciplines.
+&emsp;“(3) To develop and manage a portfolio of nanotechnology research and development initiatives that is stable, consistent, and balanced across scientific disciplines.
 
 &emsp;“(4) To accelerate the transition and deployment of technologies and concepts derived from nanoscale research and development into the Armed Forces, and to establish policies, procedures, and standards for measuring the success of such efforts.
 
@@ -436,47 +520,75 @@ Purposes.—The purposes of the program are as follows:
 
 “(c)
 
-Administration.—In carrying out the program, the Secretary shall act through the Director of Defense Research and Engineering, who shall supervise the planning, management, and coordination of the program. The Director, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
+Administration.—In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
 
 &emsp;“(1) prescribe a set of long-term challenges and a set of specific technical goals for the program;
 
-&emsp;“(2) develop a coordinated and integrated research and investment plan for meeting the long-term challenges and achieving the specific technical goals that builds upon the Department's increased investment in nanotechnology research and development and the National Nanotechnology Initiative; and
+&emsp;“(2) develop a coordinated and integrated research and investment plan for meeting the long-term challenges and achieving the specific technical goals that builds upon investments by the Department and other departments and agencies participating in the National Nanotechnology Initiative in nanotechnology research and development;
 
-&emsp;“(3) develop memoranda of agreement, joint funding agreements, and other cooperative arrangements necessary for meeting the long-term challenges and achieving the specific technical goals.
+&emsp;“(3) develop memoranda of agreement, joint funding agreements, and other cooperative arrangements necessary for meeting the long-term challenges and achieving the specific technical goals; and
+
+&emsp;“(4) oversee Department of Defense participation in interagency coordination of the program with other departments and agencies participating in the National Nanotechnology Initiative.
 
 “(d)
 
-Annual Report.—Not later than March 1 of each of 2004, 2005, 2006, and 2007, the Director of Defense Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall contain the following matters:
+Strategic Plan.—The Under Secretary shall develop and maintain a strategic plan for defense nanotechnology research and development that—
 
-&emsp;“(1) A review of—
+&emsp;“(1) is integrated with the strategic plan for the National Nanotechnology Initiative and the strategic plans of the Director of Defense Research and Engineering, the military departments, and the Defense Agencies; and
 
-&emsp;&emsp;“(A) the long-term challenges and specific technical goals of the program; and
+&emsp;“(2) includes a clear strategy for transitioning the research into products needed by the Department.
 
-&emsp;&emsp;“(B) the progress made toward meeting those challenges and achieving those goals.
+“(e)
 
-&emsp;“(2) An assessment of current and proposed funding levels, including the adequacy of such funding levels to support program activities.
+Reports.—
 
-&emsp;“(3) A review of the coordination of activities within the Department of Defense, with other departments and agencies, and with the National Nanotechnology Initiative.
+&emsp;“(1)
 
-&emsp;“(4) An assessment of the extent to which effective technology transition paths have been established as a result of activities under the program.
+In general.—Not later than March 1 of each of 2009, 2011, and 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
 
-&emsp;“(5) Recommendations for additional program activities to meet emerging national security requirements.”
+&emsp;“(2)
 
-#### Annual Report on Weapons To Defeat Hardened and Deeply Buried Targets
+Matters included.—Each report under paragraph (1) shall include the following:
 
-Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as amended by Pub. L. 108–136, div. C, title XXXI, §3135, Nov. 24, 2003, 117 Stat. 1752, provided that:
+&emsp;&emsp;“(A) A review of—
+
+&emsp;&emsp;&emsp;“(i) the long-term challenges and specific technical goals of the program; and
+
+&emsp;&emsp;&emsp;“(ii) the progress made toward meeting such challenges and achieving such goals.
+
+&emsp;&emsp;“(B) An assessment of current and proposed funding levels for the program, including an assessment of the adequacy of such funding levels to support program activities.
+
+&emsp;&emsp;“(C) A review of the coordination of activities under the program within the Department of Defense, with other departments and agencies of the United States, and with the National Nanotechnology Initiative.
+
+&emsp;&emsp;“(D) A review and analysis of the findings and recommendations relating to the Department of Defense of the most recent triennial external review of the National Nanotechnology Program under section 5 of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 1704), and a description of initiatives of the Department to implement such recommendations.
+
+&emsp;&emsp;“(E) An assessment of technology transition from nanotechnology research and development to enhanced warfighting capabilities, including contributions from the Department of Defense Small Business Innovative Research and Small Business Technology Transfer Research programs, and the Department of Defense Manufacturing Technology program, and an identification of acquisition programs and deployed defense systems that are incorporating nanotechnologies.
+
+&emsp;&emsp;“(F) An assessment of global nanotechnology research and development in areas of interest to the Department, including an identification of the use of nanotechnologies in any foreign defense systems.
+
+&emsp;&emsp;“(G) An assessment of the defense nanotechnology manufacturing and industrial base and its capability to meet the near and far term requirements of the Department.
+
+&emsp;&emsp;“(H) Such recommendations for additional activities under the program to meet emerging national security requirements as the Under Secretary considers appropriate.
+
+&emsp;“(3)
+
+Classification.—Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
+
+#### Report on Weapons and Capabilities To Defeat Hardened and Deeply Buried Targets
+
+Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as amended by Pub. L. 108–136, div. C, title XXXI, §3135, Nov. 24, 2003, 117 Stat. 1752, as amended by Pub. L. 110–181, div. A, title X, §1041, Jan. 28, 2008, 122 Stat. 310, provided that:
 
 “(a)
 
-Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
+Report.—Not later than March 1, 2009, and every two years thereafter,,\[sic\] the Secretary of Defense, the Secretary of Energy, and the Director of National Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding two fiscal years and planned for the current fiscal year and the next fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons and capabilities to defeat hardened and deeply buried targets.
 
 “(b)
 
-Report Elements.—The report for a fiscal year under subsection (a) shall—
+Report Elements.—A report submitted under subsection (a) shall—
 
-&emsp;“(1) include a discussion of the integration and interoperability of the activities referred to in that subsection that were undertaken during that fiscal year, including a discussion of the relevance of such activities to applicable recommendations by the Chairman of the Joint Chiefs of Staff, assisted under section 181(b) of title 10, United States Code, by the Joint Requirements Oversight Council; and
+&emsp;“(1) include a discussion of the integration and interoperability of the activities referred to in that subsection that were or will be undertaken during the four-fiscal-year period covered by the report, including a discussion of the relevance of such activities to applicable recommendations by the Chairman of the Joint Chiefs of Staff, assisted under section 181(b) of title 10, United States Code, by the Joint Requirements Oversight Council; and
 
-&emsp;“(2) set forth separately a description of the activities referred to in that subsection, if any, that were undertaken during such fiscal year by each element of—
+&emsp;“(2) set forth separately a description of the activities referred to in that subsection, if any, that were or will be undertaken during the four-fiscal-year period covered by the report by each element of—
 
 &emsp;&emsp;“(A) the Department of Defense;
 
@@ -490,15 +602,13 @@ Definition.—In this section, the term ‘intelligence community’ has the mea
 
 “(d)
 
-Termination.—No report is required under this section after the submission of the report that is due on April 1, 2007.
+Termination.—No report is required under this section after the submission of the report that is due on March 1, 2013.
 
 “(e)
 
 Integration Activities in Fiscal Year 2003
 
 With Respect to RNEP.—The report under subsection (a) that is due on April 1, 2004, shall include, in addition to the elements specified in subsection (b), a description of the integration and interoperability of the research and development, procurement, and other activities undertaken during fiscal year 2003 by the Department of Defense and the Department of Energy with respect to the Robust Nuclear Earth Penetrator.”
-
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
 
@@ -596,7 +706,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, titleII, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48, provided that:
 
 “(a)
 
@@ -634,7 +744,7 @@ Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technolog
 
 Coordination With Similar Federal Programs.—(1) The Secretary shall consult with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy in the planning, development, and execution of the program and shall coordinate the program with the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation and with similar programs sponsored by other departments and agencies of the Federal Government.
 
-“(2) All solicitations under the Defense Experimental Program to Stimulate Competitive Research shall be made to, and all awards shall be made through, the State committees established for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
+“(2) All solicitations under the Defense Experimental Program to Stimulate Competitive Research may be made to, and all awards may be made through, the State committees established for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
 
 “(3) A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.
 
@@ -643,6 +753,52 @@ Coordination With Similar Federal Programs.—(1) The Secretary shall consult wi
 State Defined.—In this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.”
 
 #### Defense Laboratories Personnel Demonstration Projects
+
+Pub. L. 110–181, div. A, title XI, §1107, Jan. 28, 2008, 122 Stat. 357, as amended by Pub. L. 110–417, \[div. A\], title XI, §1109, Oct. 14, 2008, 122 Stat. 4618, provided that:
+
+“(a)
+
+Requirement.—The Secretary of Defense shall take all necessary actions to fully implement and use the authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–315), to carry out personnel management demonstration projects at Department of Defense laboratories that are exempted by section 9902(c) of title 5, United States Code, from inclusion in the Department of Defense National Security Personnel System.
+
+“(b)
+
+Process for Full Implementation.—The Secretary of Defense shall also implement a process and implementation plan to fully utilize the authorities described in subsection (a) to enhance the performance of the missions of the laboratories.
+
+“(c)
+
+Other Laboratories.—Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory as enumerated in section 9902(c)(2) of title 5, United States Code.
+
+“(d)
+
+Submission of List and Description.—Not later than March 1 of each year, beginning with March 1, 2008, the Secretary of Defense shall submit to Congress a list and description of the demonstration project notices, amendments, and changes requested by the laboratories during the preceding calendar year. The list shall include all approved and disapproved notices, amendments, and changes, and the reasons for disapproval or delay in approval.
+
+“(e)
+
+Status Reports.—
+
+&emsp;“(1)
+
+In general.—Not later than 45 days after the date of the enactment of this Act \[probably means the date of enactment of Pub. L. 110–417, which was approved Oct. 14, 2008\] and not later than March 1 of each year beginning after the date on which the first report under this subsection is submitted, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report providing, with respect to the year before the year in which such report is submitted, the information described in paragraph (2).
+
+&emsp;“(2)
+
+Information required.—Each report under this subsection shall describe the following:
+
+&emsp;&emsp;“(A) The actions taken by the Secretary of Defense under subsection (a) during the year covered by the report.
+
+&emsp;&emsp;“(B) The progress made by the Secretary of Defense during such year in developing and implementing the plan required by subsection (b), including the anticipated date for completion of such plan and a list and description of any issues relating to the development or implementation of such plan.
+
+&emsp;&emsp;“(C) With respect to any applications by any Department of Defense laboratories seeking to be designated as a demonstration laboratory or to otherwise obtain any of the personnel flexibilities available to a demonstration laboratory—
+
+&emsp;&emsp;&emsp;“(i) the number of applications that were received, pending, or acted on during such year;
+
+&emsp;&emsp;&emsp;“(ii) the status or disposition of any applications under clause (i), including, in the case of any application on which a final decision was rendered, the laboratory involved, what the laboratory had requested, the decision reached, and the reasons for the decision; and
+
+&emsp;&emsp;&emsp;“(iii) in the case of any applications under clause (i) on which a final decision was not rendered, the date by which a final decision is anticipated.
+
+&emsp;“(3)
+
+Definition.—For purposes of this subsection, the term ‘demonstration laboratory’ means a laboratory designated by the Secretary of Defense under the provisions of section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, set out below\] (as cited in subsection (a)).”
 
 Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654, 1654A–315, provided that:
 
@@ -660,7 +816,7 @@ Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as
 
 &emsp;“(C) the Secretary shall exercise the authorities granted to the Office of Personnel Management under such section 4703.
 
-“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraint or limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+“(4) The employees of a laboratory covered by a personnel demonstration project carried out under this section \[enacting this note\] shall be exempt from, and may not be counted for the purposes of, any constraintor limitation in a statute or regulation in terms of supervisory ratios or maximum number of employees in any specific category or categories of employment that may otherwise be applicable to the employees. The employees shall be managed by the director of the laboratory subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 “(5) The limitations in section 5373 of title 5, United States Code, do not apply to the authority of the Secretary under this section to prescribe salary schedules and other related benefits.”
 
@@ -678,7 +834,7 @@ General Rule.—In conducting or supporting clinical research, the Secretary of 
 
 “(b)
 
-Waiver Authority.—The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determinesthat the inclusion, as subjects in the project, of women and members of minority groups, respectively—
+Waiver Authority.—The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determines that the inclusion, as subjects in the project, of women and members of minority groups, respectively—
 
 &emsp;“(1) is inappropriate with respect to the health of the subjects;
 

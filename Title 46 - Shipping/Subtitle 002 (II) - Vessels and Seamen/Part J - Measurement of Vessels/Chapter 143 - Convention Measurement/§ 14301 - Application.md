@@ -80,7 +80,7 @@ Pub. L. 99–509, title V, §5103(g), Oct. 21, 1986, 100 Stat. 1927, provided th
 
 &emsp;&emsp;“(A) a study of—
 
-&emsp;&emsp;&emsp;“(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enacted by section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
+&emsp;&emsp;&emsp;“(i) the impact of applying vessel tonnage determined under chapter 143 of title 46 (as enactedby section 5101 of this subtitle), United States Code, in laws of the United States that contain provisions based on tonnage, including an analysis of the number and types of vessels that would become subject to additional laws or more stringent requirements because of that application; and
 
 &emsp;&emsp;&emsp;“(ii) the extent to which the tonnage thresholds in laws of the United States whose application is based on tonnage would have to be raised so that additional vessels would not become subject to those laws if their application is based on tonnage determined under chapter 143; and
 

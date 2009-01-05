@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph doesnot apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -66,7 +66,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to thelatest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -82,7 +82,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
-&emsp;(16) any employee engaged (A) in the transportation and preparation for transportation of fruits or vegetables, whether or not performed by the farmer, from the farm to a place of first processing or first marketing within the same State, or (B) in transportation, whether or not performed by the farmer, between the farm and any point within the same State of persons employed or to be employed in the harvesting of fruits or vegetables; or
+&emsp;(16) any employee engaged (A) in the transportation and preparation for transportation of fruits or vegetables, whether or not performed by the farmer, from the farm to a place of first processing or first marketing within the same State, or (B) in transportation,whether or not performed by the farmer, between the farm and any point within the same State of persons employed or to be employed in the harvesting of fruits or vegetables; or
 
 &emsp;(17) any driver employed by an employer engaged in the business of operating taxicabs; or
 
@@ -116,7 +116,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (c) Child labor requirements
 
-(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relatingto child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
+(1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
 &emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
@@ -138,7 +138,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(iv) individuals age twelve and above are not available for such employment; and
 
-&emsp;(v) the industry of such employer or group of employers has traditionally and substantially employed individuals under twelve years of age without displacing substantial job opportunities for individuals over sixteen years of age.
+&emsp;(v) the industry of such employer or group of employers has traditionally and substantially employed individuals under twelve years ofage without displacing substantial job opportunities for individuals over sixteen years of age.
 
 (B) Any waiver granted by the Secretary under subparagraph (A) shall require that—
 
@@ -336,7 +336,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7
 
 In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
+In subsec. (b)(1), “section 31502 of title 49” substituted for “section 3102 of title 49” on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, “section 3102 of title 49” substituted for “section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]”, on authority of Pub. L. 97–449, §6(b),Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
 
@@ -404,7 +404,7 @@ Subsec. (b)(4). Pub. L. 93–259, §11(a), effective May 1, 1974, inserted “wh
 
 Subsec. (b)(7). Pub. L. 93–259, §21(b)(1), substituted “(regardless of whether or not such railway or carrier is public or private or operated for profit or not for profit), if such employee receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed” for “, if the rates and services of such railway or carrier are subject to regulation by a State or local agency” effective May 1, 1974. Pub. L. 93–259, §21(b)(2), substituted “forty-four hours” for “forty-eight hours” effective one year after May 1, 1974. Pub. L. 93–259, §21(b)(3) repealed subsec. (b)(7) effective two years after May 1, 1974.
 
-Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
+Subsec. (b)(8). Pub. L. 93–259, §§12(a), 13(a), effective May 1, 1974, insofar as relating to nursing home employees, struck out exemption provision respecting any employee who is employed by an establishment which is an institution (other than a hospital) primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises, and receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed, and insofar as relating to a hotel, motel, and restaurant employees, substituted “(A) any employee (other than an employee of a hotel or motel who performs maid or custodial services) who is” for “any employee”, inserted before the semicolon “and who receives compensation for employment in excess of forty-eight hours in any workweek at a rate not less than one and one-half times the regular rate at which he isemployed”, and added subpar. (B). Pub. L. 93–259, §13(b), effective one year after May 1, 1974, substituted “forty-six hours” for “forty-eight hours” in subparas. (A) and (B). Pub. L. 93–259, §13(c), effective two years after May 1, 1974, substituted “forty-four hours” for “forty-six hours” in subpar. (B). Pub. L. 93–259, §13(d), repealed subsec. (b)(8)(B) and eliminated the designation (A), effective three years after May 1, 1974.
 
 Subsec. (b)(10). Pub. L. 93–259, §14, incorporated existing paragraph in provisions designated as subpar. (A), struck out from the list references to trailers and aircraft, inserted reference to implements, and added subpar. (B) incorporating references to trailers and aircraft.
 

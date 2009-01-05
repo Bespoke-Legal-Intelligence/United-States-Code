@@ -14,7 +14,7 @@ An application under subsection (a) of this section shall describe—
 
 #### (c) Priority
 
-In awarding scholarships and providing student employment under this part, each Stateshall give priority to applications from persons who are—
+In awarding scholarships and providing student employment under this part, each State shall give priority to applications from persons who are—
 
 &emsp;(1) members of racial, ethnic, or gender groups whose representation in the law enforcement agencies within the State is substantially less than in the population eligible for employment in law enforcement in the State;
 

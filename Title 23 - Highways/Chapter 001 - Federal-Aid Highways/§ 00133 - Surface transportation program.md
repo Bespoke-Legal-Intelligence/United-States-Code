@@ -314,11 +314,11 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 
 #### Division of STP Funds for Areas of Less Than 5,000 Population
 
-Pub. L. 105–178, title I, §1108(f), June 9, 1998, 112 Stat. 141, provided that:
+Pub. L. 105–178, title I, §1108(f), June 9, 1998, 112 Stat. 141, as amended by Pub. L. 110–244, title I, §113(a), June 6, 2008, 122 Stat. 1606, provided that:
 
 “(1)
 
-Special rule.—Notwithstanding section 133(c) of title 23, United States Code, and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated under section 133(d)(3)(B) of such title for each of fiscal years 1998 through 2003 may be obligated on roads functionally classified as minor collectors.
+Special rule.—Notwithstanding section 133(c) of title 23, United States Code, and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated under section 133(d)(3)(B) of such title for each of fiscal years 1998 through 2009 may be obligated on roads functionally classified as minor collectors.
 
 “(2)
 

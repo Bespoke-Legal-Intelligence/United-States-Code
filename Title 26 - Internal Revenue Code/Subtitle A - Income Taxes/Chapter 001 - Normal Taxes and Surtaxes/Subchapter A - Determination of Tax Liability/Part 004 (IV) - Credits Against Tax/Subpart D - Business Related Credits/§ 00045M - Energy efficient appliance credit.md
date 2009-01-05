@@ -16,117 +16,67 @@
 
 #### (b) Applicable amount
 
-#### (1) In general
+For purposes of subsection (a)—
 
-&emsp;For purposes of subsection (a)—
+#### (1) Dishwashers
 
-#### (A) Dishwashers
+&emsp;The applicable amount is—
 
-&emsp;&emsp;The applicable amount is the energy savings amount in the case of a dishwasher which—
+&emsp;&emsp;(A) $45 in the case of a dishwasher which is manufactured in calendar year 2008 or 2009 and which uses no more than 324 kilowatt hours per year and 5.8 gallons per cycle, and
 
-&emsp;&emsp;&emsp;(i) is manufactured in calendar year 2006 or 2007, and
+&emsp;&emsp;(B) $75 in the case of a dishwasher which is manufactured in calendar year 2008, 2009, or 2010 and which uses no more than 307 kilowatt hours per year and 5.0 gallons per cycle (5.5 gallons per cycle for dishwashers designed for greater than 12 place settings).
 
-&emsp;&emsp;&emsp;(ii) meets the requirements of the Energy Star program which are in effect for dishwashers in 2007.
+#### (2) Clothes washers
 
-#### (B) Clothes washers
+&emsp;The applicable amount is—
 
-&emsp;&emsp;The applicable amount is $100 in the case of a clothes washer which—
+&emsp;&emsp;(A) $75 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 which meets or exceeds a 1.72 modified energy factor and does not exceed a 8.0 water consumption factor,
 
-&emsp;&emsp;&emsp;(i) is manufactured in calendar year 2006 or 2007, and
+&emsp;&emsp;(B) $125 in the case of a residential top-loading clothes washer manufactured in calendar year 2008 or 2009 which meets or exceeds a 1.8 modified energy factor and does not exceed a 7.5 water consumption factor,
 
-&emsp;&emsp;&emsp;(ii) meets the requirements of the Energy Star program which are in effect for clothes washers in 2007.
+&emsp;&emsp;(C) $150 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds <sup>1</sup> 2.0 modified energy factor and does not exceed a 6.0 water consumption factor, and
 
-#### (C) Refrigerators
+&emsp;&emsp;(D) $250 in the case of a residential or commercial clothes washer manufactured in calendar year 2008, 2009, or 2010 which meets or exceeds <sup>1</sup> 2.2 modified energy factor and does not exceed a 4.5 water consumption factor.
 
-#### (i) 15 percent savings
+#### (3) Refrigerators
 
-&emsp;&emsp;&emsp;The applicable amount is $75 in the case of a refrigerator which—
+&emsp;The applicable amount is—
 
-&emsp;&emsp;&emsp;&emsp;(I) is manufactured in calendar year 2006, and
+&emsp;&emsp;(A) $50 in the case of a refrigerator which is manufactured in calendar year 2008, and consumes at least 20 percent but not more than 22.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
 
-&emsp;&emsp;&emsp;&emsp;(II) consumes at least 15 percent but not more than 20 percent less kilowatt hours per year than the 2001 energy conservation standards.
+&emsp;&emsp;(B) $75 in the case of a refrigerator which is manufactured in calendar year 2008 or 2009, and consumes at least 23 percent but no more than 24.9 percent less kilowatt hours per year than the 2001 energy conservation standards,
 
-#### (ii) 20 percent savings
+&emsp;&emsp;(C) $100 in the case of a refrigerator which is manufactured in calendar year 2008, 2009, or 2010, and consumes at least 25 percent but not more than 29.9 percent less kilowatt hours per year than the 2001 energy conservation standards, and
 
-&emsp;&emsp;&emsp;The applicable amount is $125 in the case of a refrigerator which—
-
-&emsp;&emsp;&emsp;&emsp;(I) is manufactured in calendar year 2006 or 2007, and
-
-&emsp;&emsp;&emsp;&emsp;(II) consumes at least 20 percent but not more than 25 percent less kilowatt hours per year than the 2001 energy conservation standards.
-
-#### (iii) 25 percent savings
-
-&emsp;&emsp;&emsp;The applicable amount is $175 in the case of a refrigerator which—
-
-&emsp;&emsp;&emsp;&emsp;(I) is manufactured in calendar year 2006 or 2007, and
-
-&emsp;&emsp;&emsp;&emsp;(II) consumes at least 25 percent less kilowatt hours per year than the 2001 energy conservation standards.
-
-#### (2) Energy savings amount
-
-&emsp;For purposes of paragraph (1)(A)—
-
-#### (A) In general
-
-&emsp;&emsp;The energy savings amount is the lesser of—
-
-&emsp;&emsp;&emsp;(i) the product of—
-
-&emsp;&emsp;&emsp;&emsp;(I) $3, and
-
-&emsp;&emsp;&emsp;&emsp;(II) 100 multiplied by the energy savings percentage, or
-
-&emsp;&emsp;&emsp;(ii) $100.
-
-#### (B) Energy savings percentage
-
-&emsp;&emsp;For purposes of subparagraph (A), the energy savings percentage is the ratio of—
-
-&emsp;&emsp;&emsp;(i) the EF required by the Energy Star program for dishwashers in 2007 minus the EF required by the Energy Star program for dishwashers in 2005, to
-
-&emsp;&emsp;&emsp;(ii) the EF required by the Energy Star program for dishwashers in 2007.
+&emsp;&emsp;(D) $200 in the case of a refrigerator manufactured in calendar year 2008, 2009, or 2010 and which consumes at least 30 percent less energy than the 2001 energy conservation standards.
 
 #### (c) Eligible production
 
-#### (1) In general
+The eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of—
 
-&emsp;Except as provided in paragraphs <sup>1</sup> (2), the eligible production in a calendar year with respect to each type of energy efficient appliance is the excess of—
+&emsp;(1) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
 
-&emsp;&emsp;(A) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
-
-&emsp;&emsp;(B) the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 3-calendar year period.
-
-#### (2) Special rule for refrigerators
-
-&emsp;The eligible production in a calendar year with respect to each type of refrigerator described in subsection (b)(1)(C) is the excess of—
-
-&emsp;&emsp;(A) the number of appliances of such type which are produced by the taxpayer in the United States during such calendar year, over
-
-&emsp;&emsp;(B) 110 percent of the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 3-calendar year period.
+&emsp;(2) the average number of appliances of such type which were produced by the taxpayer (or any predecessor) in the United States during the preceding 2-calendar year period.
 
 #### (d) Types of energy efficient appliance
 
 For purposes of this section, the types of energy efficient appliances are—
 
-&emsp;(1) dishwashers described in subsection (b)(1)(A),
+&emsp;(1) dishwashers described in subsection (b)(1),
 
-&emsp;(2) clothes washers described in subsection (b)(1)(B),
+&emsp;(2) clothes washers described in subsection (b)(2), and
 
-&emsp;(3) refrigerators described in subsection (b)(1)(C)(i),
-
-&emsp;(4) refrigerators described in subsection (b)(1)(C)(ii), and
-
-&emsp;(5) refrigerators described in subsection (b)(1)(C)(iii).
+&emsp;(3) refrigerators described in subsection (b)(3).
 
 #### (e) Limitations
 
 #### (1) Aggregate credit amount allowed
 
-&emsp;The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years.
+&emsp;The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2007.
 
-#### (2) Amount allowed for 15 percent savings refrigerators
+#### (2) Amount allowed for certain refrigerators and clothes washers
 
-&emsp;In the case of refrigerators described in subsection (b)(1)(C)(i), the aggregate amount of the credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $20,000,000.
+&emsp;Refrigerators described in subsection (b)(3)(D) and clothes washers described in subsection (b)(2)(D) shall not be taken into account under paragraph (1).
 
 #### (3) Limitation based on gross receipts
 
@@ -144,11 +94,11 @@ For purposes of this section—
 
 &emsp;The term “qualified energy efficient appliance” means—
 
-&emsp;&emsp;(A) any dishwasher described in subsection (b)(1)(A),
+&emsp;&emsp;(A) any dishwasher described in subsection (b)(1),
 
-&emsp;&emsp;(B) any clothes washer described in subsection (b)(1)(B), and
+&emsp;&emsp;(B) any clothes washer described in subsection (b)(2), and
 
-&emsp;&emsp;(C) any refrigerator described in subsection (b)(1)(C).
+&emsp;&emsp;(C) any refrigerator described in subsection (b)(3).
 
 #### (2) Dishwasher
 
@@ -156,23 +106,35 @@ For purposes of this section—
 
 #### (3) Clothes washer
 
-&emsp;The term “clothes washer” means a residential model clothes washer, including a residential style coin operated washer.
+&emsp;The term “clothes washer” means a residential model clothes washer, including a commercial residential style coin operated washer.
 
-#### (4) Refrigerator
+#### (4) Top-loading clothes washer
+
+&emsp;The term “top-loading clothes washer” means a clothes washer which has the clothes container compartment access located on the top of the machine and which operates on a vertical axis.
+
+#### (5) Refrigerator
 
 &emsp;The term “refrigerator” means a residential model automatic defrost refrigerator-freezer which has an internal volume of at least 16.5 cubic feet.
 
-#### (5) EF
+#### (6) Modified energy factor
 
-&emsp;The term “EF” means the energy factor established by the Department of Energy for compliance with the Federal energy conservation standards.
+&emsp;The term “modified energy factor” means the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard.
 
-#### (6) Produced
+#### (7) Produced
 
 &emsp;The term “produced” includes manufactured.
 
-#### (7) 2001 energy conservation standard
+#### (8) 2001 energy conservation standard
 
-&emsp;The term “2001 energy conservation standard” means the energy conservation standards promulgated by the Department of Energy and effective July 1, 2001.
+&emsp;The term “2001 energy conservation standard” means the energy conservation standardspromulgated by the Department of Energy and effective July 1, 2001.
+
+#### (9) Gallons per cycle
+
+&emsp;The term “gallons per cycle” means, with respect to a dishwasher, the amount of water, expressed in gallons, required to complete a normal cycle of a dishwasher.
+
+#### (10) Water consumption factor
+
+&emsp;The term “water consumption factor” means, with respect to a clothes washer, the quotient of the total weighted per-cycle water consumption divided by the cubic foot (or liter) capacity of the clothes washer.
 
 #### (g) Special rules
 
@@ -196,11 +158,59 @@ For purposes of this section—
 
 &emsp;No amount shall be allowed as a credit under subsection (a) with respect to which the taxpayer has not submitted such information or certification as the Secretary, in consultation with the Secretary of Energy, determines necessary.
 
-(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030.)
+(Added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 1030; amended Pub. L. 110–343, div. B, title III, §305(a)–(e), Oct. 3, 2008, 122 Stat. 3845–3847.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–343, §305(a), reenacted heading without change and amended text generally. Prior to amendment, subsec. (b) provided applicable credit amounts and energy savings amounts for dishwashers, clothes washers, and refrigerators.
+
+Subsec. (c). Pub. L. 110–343, §305(b)(1), struck out par. (1) designation and heading, substituted “The eligible” for “Except as provided in paragraphs (2), the eligible”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2) which provided a special rule for eligible production of refrigerators.
+
+Subsec. (c)(2). Pub. L. 110–343, §305(b)(2), substituted “2-calendar year” for “3-calendar year”.
+
+Subsec. (d). Pub. L. 110–343, §305(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the types of energy efficient appliances are—
+
+&emsp;“(1) dishwashers described in subsection (b)(1)(A),
+
+&emsp;“(2) clothes washers described in subsection (b)(1)(B),
+
+&emsp;“(3) refrigerators described in subsection (b)(1)(C)(i),
+
+&emsp;“(4) refrigerators described in subsection (b)(1)(C)(ii), and
+
+&emsp;“(5) refrigerators described in subsection (b)(1)(C)(iii).”
+
+Subsec. (e)(1). Pub. L. 110–343, §305(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years.”
+
+Subsec. (e)(2). Pub. L. 110–343, §305(d)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of refrigerators described in subsection (b)(1)(C)(i), the aggregate amount of the credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $20,000,000.”
+
+Subsec. (f)(1). Pub. L. 110–343, §305(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified energy efficient appliance’ means—
+
+&emsp;“(A) any dishwasher described in subsection (b)(1)(A),
+
+&emsp;“(B) any clothes washer described in subsection (b)(1)(B), and
+
+&emsp;“(C) any refrigerator described in subsection (b)(1)(C).”
+
+Subsec. (f)(3). Pub. L. 110–343, §305(e)(2), inserted “commercial” after “including a”.
+
+Subsec. (f)(4), (5). Pub. L. 110–343, §305(e)(3), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (f)(6). Pub. L. 110–343, §305(e)(4), amended heading and text of par. (6) generally. Prior to amendment, text read as follows: “The term ‘EF’ means the energy factor established by the Department of Energy for compliance with the Federal energy conservation standards.”
+
+Pub. L. 110–343, §305(e)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (f)(7), (8). Pub. L. 110–343, §305(e)(3), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (f)(9), (10). Pub. L. 110–343, §305(e)(5), added pars. (9) and (10).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title III, §305(f), Oct. 3, 2008, 122 Stat. 3848, provided that: “The amendments made by this section \[amending this section\] shall apply to appliances produced after December 31, 2007.”
 
 #### Effective Date
 
 Section applicable to appliances produced after Dec. 31, 2005, see section 1334(d) of Pub. L. 109–58, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

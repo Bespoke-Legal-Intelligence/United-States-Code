@@ -46,7 +46,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, seeEx. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 #### Ex. Ord. No. 13321. Appointments During National Emergency
 

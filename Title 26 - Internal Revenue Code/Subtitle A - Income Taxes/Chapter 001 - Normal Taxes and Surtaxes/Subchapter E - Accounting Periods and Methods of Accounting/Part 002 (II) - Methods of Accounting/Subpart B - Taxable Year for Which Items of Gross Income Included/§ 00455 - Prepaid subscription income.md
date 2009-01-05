@@ -30,7 +30,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 #### (B) Without consent
 
-&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which hereceives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
+&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which he receives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
 
 #### (4) Period to which election applies
 
@@ -70,5 +70,5 @@ Amendment by section 1901(a)(67) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section 28(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
+Section 28(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[enactingthis section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 

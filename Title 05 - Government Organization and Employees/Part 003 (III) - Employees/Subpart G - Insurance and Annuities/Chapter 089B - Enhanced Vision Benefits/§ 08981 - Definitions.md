@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “employee” means an employee defined under section 8901(1) and an employee of the District of Columbia courts.
 
-&emsp;(2) The terms “annuitant”, “member of family”, and “dependent” have the meanings as such terms are defined under paragraphs (3), (5), and (9), respectively, of section 8901.
+&emsp;(2) The terms “annuitant”, “member of family”, and “dependent” have the meanings assuch terms are defined under paragraphs (3), (5), and (9), respectively, of section 8901.
 
 &emsp;(3) The term “eligible individual” refers to an individual described in paragraph (1) or (2), without regard to whether the individual is enrolled in a health benefits plan under chapter 89.
 

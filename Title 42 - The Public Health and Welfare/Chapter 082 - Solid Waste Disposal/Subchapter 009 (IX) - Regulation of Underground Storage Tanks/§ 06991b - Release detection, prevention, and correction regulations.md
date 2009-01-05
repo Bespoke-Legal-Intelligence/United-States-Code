@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The Administrator, after notice and opportunity for public comment, and at least three months before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
+The Administrator, after notice and opportunity for public comment, and at least threemonths before the effective dates specified in subsection (f) of this section, shall promulgate release detection, prevention, and correction regulations applicable to all owners and operators of underground storage tanks, as may be necessary to protect human health and the environment.
 
 #### (b) Distinctions in regulations
 
@@ -64,7 +64,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (f) Effective dates
 
-(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issuedpursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
+(1) Regulations issued pursuant to subsections (c) and (d) of this section, and standards issued pursuant to subsection (e) of this section, for underground storage tanks containing regulated substances defined in section 6991(7)(B) of this title (petroleum, including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure) shall be effective not later than thirty months after November 8, 1984.
 
 (2) Standards issued pursuant to subsection (e) of this section (entitled “New Tank Performance Standards”) for underground storage tanks containing regulated substances defined in section 6991(7)(A) of this title shall be effective not later than thirty-six months after November 8, 1984.
 
@@ -168,7 +168,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (v) Misrepresentation
 
-&emsp;&emsp;&emsp;If an owner or operator provides false information or otherwise misrepresentstheir financial situation under clause (ii), the Administrator (or the State pursuant to paragraph (7)) shall seek full recovery of the costs of all such actions pursuant to the provisions of subparagraph (A) without consideration of the factors in subparagraph (B).
+&emsp;&emsp;&emsp;If an owner or operator provides false information or otherwise misrepresents their financial situation under clause (ii), the Administrator (or the State pursuant to paragraph (7)) shall seek full recovery of the costs of all such actions pursuant to the provisions of subparagraph (A) without consideration of the factors in subparagraph (B).
 
 #### (7) State authorities
 
@@ -206,11 +206,11 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (10) Definition of exposure assessment
 
-&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extent of contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
+&emsp;As used in this subsection, the term “exposure assessment” means an assessment to determine the extent of exposure of, or potential for exposure of, individuals to petroleum from a release from an underground storage tank based on such factors as the nature and extentof contamination and the existence of or potential for pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size of the community within the likely pathways of exposure, and the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified contaminants and any available recommended exposure or tolerance limits for such contaminants. Such assessment shall not delay corrective action to abate immediate hazards or reduce exposure.
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph\(6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 
@@ -350,7 +350,7 @@ Pub. L. 109–58, title XV, §1530(b), Aug. 8, 2005, 119 Stat. 1104, provided th
 
 #### Effective Date of 1996 Amendment
 
-Section 2505 of div. A of Pub. L. 104–208 provided that: “The amendments made by this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim thathas not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\].”
+Section 2505 of div. A of Pub. L. 104–208 provided that: “The amendments made by this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\].”
 
 #### Regulations
 

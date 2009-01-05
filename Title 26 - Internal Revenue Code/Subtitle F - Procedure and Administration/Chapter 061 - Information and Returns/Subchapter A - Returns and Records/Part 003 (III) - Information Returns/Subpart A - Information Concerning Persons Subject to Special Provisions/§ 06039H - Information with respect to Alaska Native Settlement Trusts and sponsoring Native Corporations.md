@@ -16,7 +16,7 @@ The information required under this subsection shall include—
 
 &emsp;(2) the treatment of such distribution under the applicable provision of section 646, including the amount that is excludable from the recipient beneficiary's gross income under section 646, and
 
-&emsp;(3) the amount (if any) of any distribution during such year that is deemed to have been made by the sponsoring Native Corporation (as defined in section 646(h)(5)).
+&emsp;(3) the amount (if any) of any distribution during such year that is deemed to have beenmade by the sponsoring Native Corporation (as defined in section 646(h)(5)).
 
 #### (d) Sponsoring Native Corporation
 

@@ -137,7 +137,7 @@ If—
 
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 107–16, §§511(c), 901, temporarily added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -211,7 +211,7 @@ Section 506(e)(1) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI
 
 #### Effective Date of 1993 Amendment
 
-Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in thecase of decedents dying and gifts made after December 31, 1992.”
+Section 13208(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and section 2101 of this title\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
 
 #### Effective Date of 1987 Amendment
 
@@ -255,7 +255,7 @@ In general.—The provisions of subsection (a) shall apply to the estates of dec
 
 &emsp;“(2)
 
-Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
+Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall alsoapply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
 
 &emsp;“(3)
 

@@ -84,7 +84,7 @@ If a defendant determines that a plaintiff has filed a Y2K action without provid
 
 #### (g) Effect of contractual or statutory waiting periods
 
-In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach or repudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d) of this section.
+In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach orrepudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d) of this section.
 
 #### (h) State law controls alternative methods
 

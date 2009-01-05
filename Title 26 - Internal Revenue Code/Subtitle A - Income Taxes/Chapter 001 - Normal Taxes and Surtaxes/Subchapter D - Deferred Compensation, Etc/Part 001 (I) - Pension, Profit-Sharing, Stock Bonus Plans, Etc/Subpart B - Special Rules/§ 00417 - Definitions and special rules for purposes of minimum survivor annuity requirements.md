@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) A reasonable period ending after section 401(a)(11) applies to the participant.
 
-&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, theapplicable period shall be a reasonable period after separation.
+&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, the applicable period shall be a reasonable period after separation.
 
 #### (4) Requirement of spousal consent for using plan assets as security for loans
 
@@ -76,7 +76,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
+&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit ifunder the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
 
 #### (6) Applicable election period defined
 
@@ -148,7 +148,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (3) Security interests taken into account
 
-&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
+&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason ofa loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
 #### (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
 
@@ -204,9 +204,9 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if—
 
-&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
+&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
 
-&emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
+&emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
 
 &emsp;&emsp;&emsp;(iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:
 
@@ -240,7 +240,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (B) Special rule for disability benefits
 
-&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit isto be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 #### (3) Earliest retirement age
 
@@ -288,9 +288,11 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103.)
 
 #### Amendments
+
+2008—Subsec. (e)(3)(D)(i). Pub. L. 110–458 substituted “subparagraph (C)” for “clause (ii)”.
 
 2006—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 109–280, §1004(a)(1), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -298,7 +300,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 109–280, §1004(a)(3), inserted “and of the qu
 
 Subsec. (a)(6)(A). Pub. L. 109–280, §1102(a)(1)(A), substituted “180-day” for “90-day”.
 
-Subsec. (e)(3). Pub. L. 109–280, §302(b), reenacted heading without change and amended text of par. (3) generally, substituting provisions relating to determination of present value by using the applicable mortality table and the applicable interest rate, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions relating to determination of the adjusted first, second, and third segment rates, for provisions relating to determination of present value, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions stating exception for a distribution from a plan that was adoptedand in effect before the date of the enactment of the Retirement Protection Act of 1994.
+Subsec. (e)(3). Pub. L. 109–280, §302(b), reenacted heading without change and amended text of par. (3) generally, substituting provisions relating to determination of present value by using the applicable mortality table and the applicable interest rate, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions relating to determination of the adjusted first, second, and third segment rates, for provisions relating to determination of present value, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions stating exception for a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994.
 
 Subsec. (g). Pub. L. 109–280, §1004(a)(2), added subsec. (g).
 
@@ -348,6 +350,10 @@ Subsec. (f)(6), (7). Pub. L. 99–514, §1898(b)(10)(A), added par. (6) and rede
 
 Pub. L. 99–514, §1898(b)(4)(A)(iii), redesignated former par. (5) as (6).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title III, §302(c), Aug. 17, 2006, 120 Stat. 921, provided that: “The amendments made by this section \[amending this section and section 1055 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2007.”
@@ -386,7 +392,7 @@ Section 1451(c) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -398,7 +404,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
+Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement EquityAct of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
 
 Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
 

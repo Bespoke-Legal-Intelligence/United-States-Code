@@ -12,7 +12,53 @@ General.—To carry out this part, the Secretary of Transportation may take acti
 
 Entry and Inspection.—In carrying out this part, an officer, employee, or agent of the Secretary, at reasonable times and in a reasonable way, may enter and inspect railroad equipment, facilities, rolling stock, operations, and relevant records. When requested, the officer, employee, or agent shall display proper credentials. During an inspection, the officer, employee, or agent is an employee of the United States Government under chapter 171 of title 28.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 866.)
+(c)
+
+Railroad Radio Communications.—
+
+&emsp;(1)
+
+In general.—To carry out the Secretary's responsibilities under this part and under chapter 51, the Secretary may authorize officers, employees, or agents of the Secretary to conduct, with or without making their presence known, the following activities in circumstances the Secretary finds to be reasonable:
+
+&emsp;&emsp;(A) Intercepting a radio communication, with or without the consent of the sender or other receivers of the communication, but only where such communication is broadcast or transmitted over a radio frequency which is—
+
+&emsp;&emsp;&emsp;(i) authorized for use by one or more railroad carriers by the Federal Communications Commission; and
+
+&emsp;&emsp;&emsp;(ii) primarily used by such railroad carriers for communications in connection with railroad operations.
+
+&emsp;&emsp;(B) Communicating the existence, contents, substance, purport, effect, or meaning of the communication, subject to the restrictions in paragraph (3).
+
+&emsp;&emsp;(C) Receiving or assisting in receiving the communication (or any information therein contained).
+
+&emsp;&emsp;(D) Disclosing the contents, substance, purport, effect, or meaning of the communication (or any part thereof of such communication) or using the communication (or any information contained therein), subject to the restrictions in paragraph (3), after having received the communication or acquired knowledge of the contents, substance, purport, effect, or meaning of the communication (or any part thereof).
+
+&emsp;&emsp;(E) Recording the communication by any means, including writing and tape recording.
+
+&emsp;(2)
+
+Accident and incident prevention and investigation.—The Secretary, and officers, employees, and agents of the Department of Transportation authorized by the Secretary, may engage in the activities authorized by paragraph (1) for the purpose of accident and incident prevention and investigation.
+
+&emsp;(3)
+
+Use of information.—(A) Information obtained through activities authorized by paragraphs (1) and (2) shall not be admitted into evidence in any administrative or judicial proceeding except—
+
+&emsp;&emsp;(i) in a prosecution of a felony under Federal or State criminal law; or
+
+&emsp;&emsp;(ii) to impeach evidence offered by a party other than the Federal Government regarding the existence, electronic characteristics, content, substance, purport, effect, meaning, or timing of, or identity of parties to, a communication intercepted pursuant to paragraphs (1) and (2) in proceedings pursuant to section 5122, 5123, 20702(b), 20111, 20112, 20113, or 20114 of this title.
+
+&emsp;(B) If information obtained through activities set forth in paragraphs (1) and (2) is admitted into evidence for impeachment purposes in accordance with subparagraph (A), the court, administrative law judge, or other officer before whom the proceeding is conducted may make such protective orders regarding the confidentiality or use of the information as may be appropriate in the circumstances to protect privacy and administer justice.
+
+&emsp;(C) No evidence shall be excluded in an administrative or judicial proceeding solely because the government would not have learned of the existence of or obtained such evidence but for the interception of information that is not admissible in such proceeding under subparagraph (A).
+
+&emsp;(D) Information obtained through activities set forth in paragraphs (1) and (2) shall not be subject to publication or disclosure, or search or review in connection therewith, under section 552 of title 5.
+
+&emsp;(E) Nothing in this subsection shall be construed to impair or otherwise affect the authority of the United States to intercept a communication, and collect, retain, analyze, use, and disseminate the information obtained thereby, under a provision of law other than this subsection.
+
+&emsp;(4)
+
+Application with other law.—Section 705 of the Communications Act of 1934 (47 U.S.C. 605) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 866; Pub. L. 110–432, div. A, title III, §306, Oct. 16, 2008, 122 Stat. 4880.)
 
 Historical and Revision Notes
 
@@ -45,4 +91,22 @@ Oct. 16, 1970, Pub. L. 91–458, §208(b), 84 Stat. 975; restated Nov. 2, 1978, 
 In subsection (a), before clause (1), the words “To carry out this part, the Secretary of Transportation may” are substituted for “In carrying out his functions under this subchapter, the Secretary is authorized to perform . . . to carry out the provisions of this subchapter” and “In carrying out the functions formerly vested in the Interstate Commerce Commission and transferred to the Secretary by section 1655(e)(1), (e)(2), and (e)(6)(A) of title 49, Appendix, the Secretary is authorized to perform any act authorized in subsection (a) of this section . . . to carry out such transferred functions” to eliminate unnecessary words. In clause (2), the word “entity” is substituted for “bodies” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), the words “In carrying out this part” are substituted for “To carry out the Secretary's responsibilities under this subchapter and under the functions transferred by section 1655(e)(1), (e)(2), and (e)(6)(A) of title 49, Appendix” to eliminate unnecessary words. The word “way” is substituted for “manner” for consistency in the revised title and with other titles of the Code. The word “examine” is omitted as being included in “inspect”. The word “considered” is omitted as surplus.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
+
+#### Safety Inspections in Mexico
+
+Pub. L. 110–432, div. A, title IV, §416, Oct. 16, 2008, 122 Stat. 4890, provided that: “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary of Transportation certifies that—
+
+&emsp;“(1) such inspections are being performed under regulations and standards equivalent to those applicable in the United States;
+
+&emsp;“(2) the inspections are being performed by employees that have received training similar to the training received by similar railroad employees in the United States;
+
+&emsp;“(3) inspection records that are required to be available to the crewmembers on board the train, including air slips and blue cards, are maintained in both English and Spanish, and such records are available to the Federal Railroad Administration for review; and
+
+&emsp;“(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this subsection \[sic\].”
+
+\[For definition of “railroad”, as used in section 416 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

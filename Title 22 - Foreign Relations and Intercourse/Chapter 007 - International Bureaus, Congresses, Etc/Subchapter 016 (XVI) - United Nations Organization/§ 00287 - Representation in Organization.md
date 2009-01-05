@@ -2,7 +2,7 @@
 
 #### (a) Appointment of representative; rank, status, and tenure; duties
 
-The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the United Nations who shall have the rank and status of Ambassador Extraordinary and Plenipotentiary and shall hold office at the pleasure of the President. Such representative shall represent the United States in the Security Council of the United Nations and may serve ex officio as representative of the United States in any organ, commission, or other body of the United Nations other than specialized agencies of the United Nations, andshall perform such other functions in connection with the participation of the United States in the United Nations as the President may, from time to time, direct.
+The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the United Nations who shall have the rank and status of Ambassador Extraordinary and Plenipotentiary and shall hold office at the pleasure of the President. Such representative shall represent the United States in the Security Council of the United Nations and may serve ex officio as representative of the United States in any organ, commission, or other body of the United Nations other than specialized agencies of the United Nations, and shall perform such other functions in connection with the participation of the United States in the United Nations as the President may, from time to time, direct.
 
 #### (b) Appointment of additional representatives; rank, status, and tenure; duties; reappointment unnecessary
 
@@ -98,7 +98,7 @@ Congressional Statement.—It shall be the policy of the United States to promot
 
 “(b)
 
-Policy on Abolition of Certain United Nations Groups.—It shall be the policy of the United States to seek the abolition of certain United Nations groups theexistence of which is inimical to the ongoing Middle East peace process, those groups being the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and other Arabs of the Occupied Territories; the Committee on the Exercise of the Inalienable Rights of the Palestinian People; the Division for the Palestinian Rights; and the Division on Public Information on the Question of Palestine.
+Policy on Abolition of Certain United Nations Groups.—It shall be the policy of the United States to seek the abolition of certain United Nations groups the existence of which is inimical to the ongoing Middle East peace process, those groups being the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and other Arabs of the Occupied Territories; the Committee on the Exercise of the Inalienable Rights of the Palestinian People; the Division for the Palestinian Rights; and the Division on Public Information on the Question of Palestine.
 
 “(c)
 
@@ -132,7 +132,7 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 &emsp;“(2) the United Nations Charter stipulates that members may be suspended by the General Assembly only ‘upon the recommendation of the Security Council’; and
 
-&emsp;“(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assembly would be a direct violation of these provisions of the Charter.
+&emsp;“(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assemblywould be a direct violation of these provisions of the Charter.
 
 “(b) If Israel is illegally expelled, suspended, denied its credentials, or in any other manner denied its right to participate in any principal or subsidiary organ or in any specialized, technical, or other agency of the United Nations, the United States shall suspend its participation in any such organ or agency until the illegal action is reversed. The United States shall reduce its annual assessed contribution to the United Nations or such specialized agency by 8.34 percent for each month in which United States participation is suspended pursuant to this section. Nothing in this section may be construed to diminish or to affect United States participation in the United Nations Security Council or the Safeguards Program of the International Atomic Energy Agency.”
 
@@ -192,7 +192,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 “Whereas the General Assembly on December 14, 1946, resolved ‘that the permanent headquarters of the United Nations shall be established in New York City in the area bounded by First Avenue, East Forty-eighth Street, the East River, and East Forty-second Street’; and
 
-“Whereas the General Assembly resolved on December 14, 1946, ‘That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York’ and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by the Secretary-General and the Secretary of State of the United States; and
+“Whereas the General Assembly resolved on December 14, 1946, ‘That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York’ and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by theSecretary-General and the Secretary of State of the United States; and
 
 “Whereas the General Assembly resolved on December 14, 1946, that pending the coming into force of the agreement referred to above ‘the Secretary-General be authorized to negotiate and conclude arrangements with the appropriate authorities of the United States of America to determine on a provisional basis the privileges, immunities, and facilities needed in connection with the temporary headquarters of the United Nations.’; and
 
@@ -270,7 +270,7 @@ The appropriate American authorities shall take whatever action may be necessary
 
 #### section 5
 
-In the event that the United Nations should find it necessary and desirable to establish and operate an aerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
+In the event that the United Nations should find it necessary and desirable to establish and operate anaerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
 
 #### section 6
 
@@ -320,7 +320,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (1) No proceedings shall be instituted under such laws or regulations to require any such person to leave the United States except with the prior approval of the Secretary of State of the United States. Such approval shall be given only after consultation with the appropriate Member in the case of a representative of a Member (or a member of his family) or with the Secretary-General or the principal executive officer of the appropriate specialized agency in the case of any other person referred to in Section 11;
 
-(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be, shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
+(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be,shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
 
 (3) Persons who are entitled to diplomatic privileges and immunities under Section 15 or under the General Convention shall not be required to leave the United States otherwise than in accordance with the customary procedure applicable to diplomatic envoys accredited to the United States.
 
@@ -410,7 +410,7 @@ Wherever this agreement imposes obligations on the appropriate American authorit
 
 #### section 26
 
-The provisions of this agreement shall be complementary to the provisions of the General Convention. In sofar as any provision of this agreement and any provisions of the General Convention relate to the same subject matter, the two provisions shall, wherever possible, be treated as complementary, so that both provisions shall be applicable and neither shall narrow the effect of the other; but in any case of absolute conflict, the provisions of this agreement shall prevail.
+The provisions of this agreement shall be complementary to the provisions of the General Convention. In so far as any provision of this agreement and any provisions of the General Convention relate to the same subject matter, the two provisions shall, wherever possible, be treated as complementary, so that both provisions shall be applicable and neither shall narrow the effect of the other; but in any case of absolute conflict, the provisions of this agreement shall prevail.
 
 #### section 27
 
@@ -470,7 +470,7 @@ Sec. 4. Any States, or, to the extent not inconsistent with State law any politi
 
 Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
-Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to bedefined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
+Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
 
 #### UN Membership for Communist China
 

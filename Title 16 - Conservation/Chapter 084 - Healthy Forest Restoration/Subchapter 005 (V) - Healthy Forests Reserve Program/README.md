@@ -12,4 +12,4 @@
 - [&sect; 06575 - Technical assistance](%C2%A7%2006575%20-%20Technical%20assistance.md)
 - [&sect; 06576 - Protections and measures](%C2%A7%2006576%20-%20Protections%20and%20measures.md)
 - [&sect; 06577 - Involvement by other agencies and organizations](%C2%A7%2006577%20-%20Involvement%20by%20other%20agencies%20and%20organizations.md)
-- [&sect; 06578 - Authorization of appropriations](%C2%A7%2006578%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 06578 - Funding](%C2%A7%2006578%20-%20Funding.md)

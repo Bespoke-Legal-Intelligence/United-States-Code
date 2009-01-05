@@ -2,7 +2,7 @@
 
 This subchapter applies with respect to all forms and manifestations of spina bifida except spina bifida occulta.
 
-(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2923; amended Pub. L. 106–419,title IV, §401(e)(1), Nov. 1, 2000, 114 Stat. 1860; Pub. L. 107–14, §8(b)(3), June 5, 2001, 115 Stat. 36.)
+(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2923; amended Pub. L. 106–419, title IV, §401(e)(1), Nov. 1, 2000, 114 Stat. 1860; Pub. L. 107–14, §8(b)(3), June 5, 2001, 115 Stat. 36.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subpart and section 512, the term “qualified asset account” means anyaccount consisting of assets set aside to provide for the payment of—
+For purposes of this subpart and section 512, the term “qualified asset account” means any account consisting of assets set aside to provide for the payment of—
 
 &emsp;(1) disability benefits,
 
@@ -306,7 +306,7 @@ Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substitu
 
 Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
-&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+&emsp;“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the firsttaxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
 &emsp;“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 

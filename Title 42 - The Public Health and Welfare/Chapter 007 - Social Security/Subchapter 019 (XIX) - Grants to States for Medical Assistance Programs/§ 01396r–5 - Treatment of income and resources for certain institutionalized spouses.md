@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), income shall be attributed in accordance with the provisions of this subchapter (including sections 1396a(a)(17) and 1396p(d) of this title), and
 
-&emsp;&emsp;&emsp;(ii) income shall be considered available to each spouse as provided in the trust, or, in the absence of a specific provision in the trust—
+&emsp;&emsp;&emsp;(ii) income shall be considered available to each spouse as provided in the trust, or,in the absence of a specific provision in the trust—
 
 &emsp;&emsp;&emsp;&emsp;(I) if payment of income is made solely to the institutionalized spouse or the community spouse, the income shall be considered available only to that respective spouse;
 
@@ -124,7 +124,7 @@
 
 #### (1) Allowances to be offset from income of institutionalized spouse
 
-&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
+&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted fromthe spouse's monthly income the following amounts in the following order:
 
 &emsp;&emsp;(A) A personal needs allowance (described in section 1396a(q)(1) of this title), in an amount not less than the amount specified in section 1396a(q)(2) of this title.
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(B) a request by either the institutionalized spouse, or the community spouse, or a representative acting on behalf of either spouse,
 
-> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B) of this section), of the amount of any family allowances (described in subsection (d)(1)(C) of this section), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f) of this section, and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
+> &emsp;each State shall notify both spouses (in the case described in subparagraph (A)) or the spouse making the request (in the case described in subparagraph (B)) of the amount of the community spouse monthly income allowance (described in subsection (d)(1)(B) of thissection), of the amount of any family allowances (described in subsection (d)(1)(C) of this section), of the method for computing the amount of the community spouse resources allowance permitted under subsection (f) of this section, and of the spouse's right to a fair hearing under this subsection respecting ownership or availability of income or resources, and the determination of the community spouse monthly income or resource allowance.
 
 #### (2) Fair hearing
 
@@ -272,13 +272,19 @@ In this section:
 
 &emsp;(2) The term “community spouse” means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat.627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 1924 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(4)(B). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to section 2014(e) of title 7.
 
 2006—Subsec. (d)(6). Pub. L. 109–171 added par. (6).
 
@@ -314,6 +320,12 @@ Subsec. (f)(1). Pub. L. 100–485, §608(d)(16)(A)(vi), substituted “transfer 
 
 Subsec. (f)(3). Pub. L. 100–485, §608(d)(16)(A)(vii), substituted “spouse or a family member” for “spouse of a family member”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VI, §6013(b), Feb. 8, 2006, 120 Stat. 64, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers and allocations made on or after the date of the enactment of this Act \[Feb. 8, 2006\] by individuals who become institutionalized spouses on or after such date.”
@@ -346,7 +358,7 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 “(B) Section 1924 of the Social Security Act \[this section\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-“(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[section 1396a(a)(51)(B) of this title\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment ofthis Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[section 1396a(a)(51)(B) of this title\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(B) Section 1917(c) of the Social Security Act \[section 1396p(c) of this title\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 

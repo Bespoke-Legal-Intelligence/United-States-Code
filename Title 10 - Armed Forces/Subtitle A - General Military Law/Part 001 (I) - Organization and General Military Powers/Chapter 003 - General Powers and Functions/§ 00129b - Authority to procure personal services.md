@@ -6,7 +6,7 @@ Authority.—Subject to subsection (b), the Secretary of Defense and the Secreta
 
 &emsp;(1) procure the services of experts or consultants (or of organizations of experts or consultants) in accordance with section 3109 of title 5; and
 
-&emsp;(2) pay in connection with such services travel expenses of individuals, including transportation and per diem in lieu of subsistence while such individuals are traveling from their homes or places of business to official duty stations and return as may be authorized by law.
+&emsp;(2) pay in connection with such services travel expenses of individuals, including transportation and per diem in lieu of subsistencewhile such individuals are traveling from their homes or places of business to official duty stations and return as may be authorized by law.
 
 (b)
 
@@ -42,7 +42,7 @@ Additional Authority for Personal Services Contracts.—(1) In addition to the a
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9002, Nov. 21, 1989,103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(b)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9002, Nov. 21, 1989, 103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(b)(3).
 
 #### Amendments
 

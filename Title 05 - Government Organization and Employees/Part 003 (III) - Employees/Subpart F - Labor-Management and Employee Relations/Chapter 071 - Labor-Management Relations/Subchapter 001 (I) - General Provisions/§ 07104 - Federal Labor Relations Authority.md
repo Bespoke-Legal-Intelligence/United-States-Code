@@ -4,7 +4,7 @@
 
 (b) Members of the Authority shall be appointed by the President by and with the advice and consent of the Senate, and may be removed by the President only upon notice and hearing and only for inefficiency, neglect of duty, or malfeasance in office. The President shall designate one member to serve as Chairman of the Authority. The Chairman is the chief executive and administrative officer of the Authority.
 
-(c) A member of the Authority shall be appointed for a term of 5 years. An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. Theterm of any member shall not expire before the earlier of—
+(c) A member of the Authority shall be appointed for a term of 5 years. An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. The term of any member shall not expire before the earlier of—
 
 &emsp;(1) the date on which the member's successor takes office, or
 
@@ -14,7 +14,7 @@
 
 (e) The Authority shall make an annual report to the President for transmittal to the Congress which shall include information as to the cases it has heard and the decisions it has rendered.
 
-(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a term of 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
+(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a termof 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
 
 (2) The General Counsel may—
 

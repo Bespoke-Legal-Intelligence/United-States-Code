@@ -28,7 +28,7 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (A) Requirement
 
-&emsp;&emsp;If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
+&emsp;&emsp;If any Department or agency of the United States Government proposes pursuant toparagraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a) of this section, the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—
 
 &emsp;&emsp;&emsp;(i) to the person that submitted such information; and
 

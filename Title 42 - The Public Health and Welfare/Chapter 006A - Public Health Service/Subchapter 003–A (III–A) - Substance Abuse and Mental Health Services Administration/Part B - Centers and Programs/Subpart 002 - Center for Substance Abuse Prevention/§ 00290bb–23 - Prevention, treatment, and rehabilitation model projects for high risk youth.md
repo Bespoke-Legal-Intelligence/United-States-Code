@@ -10,7 +10,7 @@ The Secretary, through the Director of the Prevention Center, shall make grants 
 
 (2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationship between drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
 
-(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
+(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention orfor the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 
 (4) In making grants under this section, the Secretary shall give priority to applications for projects to demonstrate effective models with multiple, coordinated services which may be replicated and which are for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “high risk youth” means an individual
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2003.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.
 
 (July 1, 1944, ch. 373, title V, §517, formerly §509A, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–113; amended Pub. L. 100–690, title II, §2051(d), Nov. 18, 1988, 102 Stat. 4206; renumbered §517 and amended Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346; Pub. L. 106–310, div. B, title XXXI, §3103, Oct. 17, 2000, 114 Stat. 1171.)
 

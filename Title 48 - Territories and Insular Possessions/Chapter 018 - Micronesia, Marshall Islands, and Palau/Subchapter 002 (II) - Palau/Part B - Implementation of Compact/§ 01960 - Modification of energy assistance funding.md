@@ -40,3 +40,13 @@ Public Law 101–121, referred to in subsec. (c), is Pub. L. 101–121, Oct. 23,
 
 Section was formerly set out as a note under section 1681 of this title.
 
+#### Palau Road Maintenance
+
+Pub. L. 110–229, title VIII, §808, May 8, 2008, 122 Stat. 874, provided that:
+
+“The Government of the Republic of Palau may deposit the payment otherwise payable to the Government of the United States under section 111 of Public Law 101–219 (48 U.S.C. 1960) into a trust fund if—
+
+&emsp;“(1) the earnings of the trust fund are expended solely for maintenance of the road system constructed pursuant to section 212 of the Compact of Free Association between the Government of the United States of America and the Government of Palau (48 U.S.C. 1931 note); and
+
+&emsp;“(2) the trust fund is established and operated pursuant to an agreement entered into between the Government of the United States and the Government of the Republic of Palau.”
+

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) demonstrate skills in applying surveillance techniques, undercover work, and advising and assisting the United States Attorney in and out of court;
 
-&emsp;&emsp;(D) demonstrate the ability to apply the full range of knowledge, skills, and abilities necessary for cases which are complex and unfold over a long period of time (as distinguished from certain other occupations thatrequire the use of some investigative techniques in short-term situations that may end in arrest or detention);
+&emsp;&emsp;(D) demonstrate the ability to apply the full range of knowledge, skills, and abilities necessary for cases which are complex and unfold over a long period of time (as distinguished from certain other occupations that require the use of some investigative techniques in short-term situations that may end in arrest or detention);
 
 &emsp;&emsp;(E) possess knowledge of criminal laws and Federal rules of procedure which apply to cases involving crimes against the United States, including—
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(v) availability of detection devices; and
 
-&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
+&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed ratherthan initiate an investigation after a crime is committed;
 
 &emsp;(3) the term “unscheduled duty” means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
 
@@ -86,7 +86,7 @@
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
-(k)(1) For purposes of this section, the term “criminal investigator” includes a special agentoccupying a position under title II of Public Law 99–399 if such special agent—
+(k)(1) For purposes of this section, the term “criminal investigator” includes a special agent occupying a position under title II of Public Law 99–399 if such special agent—
 
 &emsp;(A) meets the definition of such term under paragraph (2) of subsection (a) (applied disregarding the parenthetical matter before subparagraph (A) thereof); and
 
@@ -150,7 +150,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Certification of Criminal Investigators
 

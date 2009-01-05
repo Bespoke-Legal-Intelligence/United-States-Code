@@ -6,7 +6,7 @@
 
 (b)(1) No individual shall be recognized under this section—
 
-&emsp;(A) unless the individual has certified to the Secretary that no fee or compensation of anynature will be charged any individual for services rendered in connection with any claim; and
+&emsp;(A) unless the individual has certified to the Secretary that no fee or compensation of any nature will be charged any individual for services rendered in connection with any claim; and
 
 &emsp;(B) unless, with respect to each claim, such individual has filed with the Secretary a power of attorney, executed in such manner and form as the Secretary may prescribe.
 
@@ -18,7 +18,7 @@
 
 (d) Service rendered in connection with any such claim, while not on active duty, by any retired officer, warrant officer, or enlisted member of the Armed Forces recognized under this section shall not be a violation of sections 203, 205, 206, or 207 of title 18.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3402; Pub. L. 91–24, §12(b), June 11, 1969, 83 Stat. 34; Pub. L. 98–160, title VII, §703(5), Nov. 21, 1983, 97 Stat. 1010; renumbered §5902, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, §508(a), Oct. 9, 1996, 110 Stat. 3343; Pub. L. 109–461, title I, §101(a)(2), Dec. 22, 2006, 120 Stat. 3406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3402; Pub. L. 91–24, §12(b), June 11, 1969, 83 Stat. 34;Pub. L. 98–160, title VII, §703(5), Nov. 21, 1983, 97 Stat. 1010; renumbered §5902, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, §508(a), Oct. 9, 1996, 110 Stat. 3343; Pub. L. 109–461, title I, §101(a)(2), Dec. 22, 2006, 120 Stat. 3406.)
 
 #### Amendments
 

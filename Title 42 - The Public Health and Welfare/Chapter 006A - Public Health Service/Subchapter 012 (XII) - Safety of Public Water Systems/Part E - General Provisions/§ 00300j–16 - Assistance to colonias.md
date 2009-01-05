@@ -28,7 +28,7 @@ Each grant awarded pursuant to subsection (b) of this section shall be used to p
 
 #### (d) Cost sharing
 
-The amount of a grant awarded pursuant to this section shall not exceed 50 percent of the costs of carrying out the project that is the subject of the grant.
+The amount of a grant awarded pursuant to this section shall not exceed 50 percent of thecosts of carrying out the project that is the subject of the grant.
 
 #### (e) Authorization of appropriations
 

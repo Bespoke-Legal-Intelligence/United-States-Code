@@ -14,4 +14,4 @@
 - [Part F&#8211;1 - Higher Education Relief Opportunities for Students](Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/README.md)
 - [Part G - Program Integrity](Part%20G%20-%20Program%20Integrity/README.md)
 - [Part H - Competitive Loan Auction Pilot Program](Part%20H%20-%20Competitive%20Loan%20Auction%20Pilot%20Program/README.md)
-- [Part I - Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions](Part%20I%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities%20and%20Other%20Minority-Serving%20Institutions/README.md)
+- [Part I - Transferred](Part%20I%20-%20Transferred/README.md)

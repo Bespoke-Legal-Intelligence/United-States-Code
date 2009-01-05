@@ -32,7 +32,7 @@ Right of action.—
 
 &emsp;&emsp;(A)
 
-In general.—Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
+In general.—Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action forthe relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
 
 &emsp;&emsp;(B)
 
@@ -70,7 +70,7 @@ Relief.—In any action under subparagraph (A), the court may award appropriate 
 
 Rules of Construction.—Nothing in this section shall be construed—
 
-&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peacefuldemonstration) protected from legal prohibition by the First Amendment to the Constitution;
+&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
 
 &emsp;(2) to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, occurring outside a facility, regardless of the point of view expressed, or to limit any existing legal remedies for such interference;
 

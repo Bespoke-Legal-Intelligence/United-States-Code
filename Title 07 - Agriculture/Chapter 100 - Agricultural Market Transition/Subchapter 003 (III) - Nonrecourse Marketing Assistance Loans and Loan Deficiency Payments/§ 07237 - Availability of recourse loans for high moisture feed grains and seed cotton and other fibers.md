@@ -52,7 +52,7 @@
 
 #### (3) Term of loan
 
-&emsp;A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the first month after the month in which the loan is made.
+&emsp;A loan under paragraph (1) shall have a term of 1 year beginning on the first day of the firstmonth after the month in which the loan is made.
 
 #### (4) Waiver of interest
 

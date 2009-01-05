@@ -36,7 +36,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (17) The term “schedule of compliance” means a schedule of remedial measures including an enforceable sequence of actions or operations leading to compliance with an effluent limitation, other limitation, prohibition, or standard.
 
-(18) The term “industrial user” means those industries identified in the Standard Industrial Classification Manual, Bureau of the Budget,1967, as amended and supplemented, under the category of “Division D—Manufacturing” and such other classes of significant waste producers as, by regulation, the Administrator deems appropriate.
+(18) The term “industrial user” means those industries identified in the Standard Industrial Classification Manual, Bureau of the Budget, 1967, as amended and supplemented, under the category of “Division D—Manufacturing” and such other classes of significant waste producers as, by regulation, the Administrator deems appropriate.
 
 (19) The term “pollution” means the man-made or man-induced alteration of the chemical, physical, biological, and radiological integrity of water.
 
@@ -92,9 +92,31 @@ Pathogen indicator.—The term “pathogen indicator” means a substance that i
 
 Oil and gas exploration and production.—The term “oil and gas exploration, production, processing, or treatment operations or transmission facilities” means all field activities or operations associated with exploration, production, processing, or treatment operations, or transmission facilities, including activities necessary to prepare a site for drilling and for the movement and placement of drilling equipment, whether or not such field activities or operations may be considered to be construction activities.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694.)
+(25)
+
+Recreational vessel.—
+
+&emsp;(A)
+
+In general.—The term “recreational vessel” means any vessel that is—
+
+&emsp;&emsp;(i) manufactured or used primarily for pleasure; or
+
+&emsp;&emsp;(ii) leased, rented, or chartered to a person for the pleasure of that person.
+
+&emsp;(B)
+
+Exclusion.—The term “recreational vessel” does not include a vessel that is subject to Coast Guard inspection and that—
+
+&emsp;&emsp;(i) is engaged in commercial use; or
+
+&emsp;&emsp;(ii) carries paying passengers.
+
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694; Pub. L. 110–288, §3, July 29, 2008, 122 Stat. 2650.)
 
 #### Amendments
+
+2008—Par. (25). Pub. L. 110–288 added par. (25).
 
 2005—Par. (24). Pub. L. 109–58 added par. (24).
 

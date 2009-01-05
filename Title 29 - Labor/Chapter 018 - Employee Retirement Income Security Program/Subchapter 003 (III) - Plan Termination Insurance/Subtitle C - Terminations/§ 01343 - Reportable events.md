@@ -54,7 +54,7 @@ For purposes of this section a reportable event occurs—
 
 &emsp;(10) when a contributing sponsor or a member of a contributing sponsor's controlled group liquidates in a case under title 11, or under any similar Federal law or law of a State or political subdivision of a State;
 
-&emsp;(11) when a contributing sponsor or a member of a contributing sponsor's controlled group declares an extraordinary dividend (asdefined in section 1059(c) of title 26) or redeems, in any 12-month period, an aggregate of 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or an aggregate of 10 percent or more of the total value of shares of all classes of stock, of a contributing sponsor and all members of its controlled group;
+&emsp;(11) when a contributing sponsor or a member of a contributing sponsor's controlled group declares an extraordinary dividend (as defined in section 1059(c) of title 26) or redeems, in any 12-month period, an aggregate of 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or an aggregate of 10 percent or more of the total value of shares of all classes of stock, of a contributing sponsor and all members of its controlled group;
 
 &emsp;(12) when, in any 12-month period, an aggregate of 3 percent or more of the benefit liabilities of a plan covered by this subchapter and maintained by a contributing sponsor or a member of its controlled group are transferred to a person that is not a member of the controlled group or to a plan or plans maintained by a person or persons that are not such a contributing sponsor or a member of its controlled group; or
 

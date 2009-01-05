@@ -16,5 +16,5 @@ For definition of Canal Zone, referred to in subsec. (c), see section 3602(b) of
 
 #### Codification
 
-The phrase “(including the Philippine Islands)” omitted from the definition of the term “United States” in subsection (b), pursuant to 1946 Proc. No. 2695, which granted independence to the Philippine Islands under the authority of section 1394 of this title, under which section Proc. No. 2695 is set out as a note.
+The phrase “(including the Philippine Islands)” omitted from the definition of the term “United States” insubsection (b), pursuant to 1946 Proc. No. 2695, which granted independence to the Philippine Islands under the authority of section 1394 of this title, under which section Proc. No. 2695 is set out as a note.
 

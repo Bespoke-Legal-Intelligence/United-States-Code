@@ -1,12 +1,16 @@
 ### §912. Extension of time for repayment of loans
 
-(a) The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
+#### (a) In general
 
-(b)(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
+The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
+
+#### (b) Terms of deferment
+
+(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
 
 (2)(A) In the case of deferments made to enable the borrower to provide financing to local businesses, the deferment shall be repaid in equal installments, without the accrual of interest, over the 60-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
 
-(B) In the case of deferments made to enable the borrower to provide community development assistance, technical assistance to businesses, and for other community, business, or economic development projects not includedunder subparagraph (A), the deferment shall be repaid in equal installments, without the accrual of interest, over the 120-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
+(B) In the case of deferments made to enable the borrower to provide community development assistance, technical assistance to businesses, and for other community, business, or economic development projects not included under subparagraph (A), the deferment shall be repaid in equal installments, without the accrual of interest, over the 120-month period beginning on the date of the deferment, and the total amount of such payments shall be equal to the amount of the payment deferred.
 
 (3)(A) A borrower may defer its debt service payments only in an amount equal to an investment made by such borrower as described in paragraph (2).
 
@@ -18,9 +22,33 @@
 
 (4) The Secretary shall undertake all reasonable efforts to permit the full amount of deferments authorized by this subsection during each fiscal year.
 
-(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Pub. L. 101–624, title XXIII, §2344, Nov. 28, 1990, 104 Stat. 4028; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §774(b), Apr. 4, 1996, 110 Stat. 1150.)
+#### (c) Deferment of payments on loans
+
+#### (1) In general
+
+&emsp;The Secretary shall allow borrowers to defer payment of principal and interest on any direct loan made under this chapter to enable the borrower to make loans to residential, commercial, and industrial consumers—
+
+&emsp;&emsp;(A) to conduct energy efficiency and use audits; and
+
+&emsp;&emsp;(B) to install energy efficient measures or devices that reduce the demand on electric systems.
+
+#### (2) Amount
+
+&emsp;The total amount of a deferment under this subsection shall not exceed the sum of the principal and interest on the loans made to a customer of the borrower, as determined by the Secretary.
+
+#### (3) Term
+
+&emsp;The term of a deferment under this subsection shall not exceed 60 months.
+
+(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Pub. L. 101–624, title XXIII, §2344, Nov. 28, 1990, 104 Stat. 4028; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §774(b), Apr. 4, 1996, 110 Stat. 1150; Pub. L. 110–234, title VI, §6103, May 22, 2008, 122 Stat. 1195; Pub. L. 110–246, §4(a), title VI, §6103, June 18, 2008, 122 Stat. 1664, 1956.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246, §6103, added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “, except that, with respect to any loan” for “: <i>Provided, however</i>, That with respect to any loan” and struck out “, and with respect to any loan made under section 905 of this title, the payment of principal or interest shall not be extended more than two years after such payment shall have become due: <i>And provided further</i>, That the provisions of this section shall not apply to any obligations or the security therefor which may be held by the Reconstruction Finance Corporation under the provisions of section 903 of this title” after “such payment shall have become due”.
 
@@ -30,7 +58,7 @@
 
 1949—Act Oct. 28, 1949, inserted “or section 922” after “904” in first proviso, and inserted “title I,” in credit of act May 20, 1936.
 
-#### Abolition of Reconstruction Finance Corporation
+#### Effective Date of 2008 Amendment
 
-Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

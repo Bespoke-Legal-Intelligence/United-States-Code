@@ -38,7 +38,7 @@
 
 2005—Pub. L. 109–59, title I, §§1901(b), 1903(b), title VI, §§6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, 119 Stat. 1464, 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
 
-1998—Pub. L. 105–178, title I, §§1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, §5119(c), June 9, 1998, 112 Stat. 193, 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302, struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
+1998—Pub. L. 105–178, title I, §§1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, §5119(c), June 9, 1998, 112 Stat. 193, 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302,struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
 
 1991—Pub. L. 102–240, title I, §1034(b), title VI, §§6003(b), 6004(b), Dec. 18, 1991, 105 Stat. 1978, 2168, 2169, added items 303, 325, and 326.
 

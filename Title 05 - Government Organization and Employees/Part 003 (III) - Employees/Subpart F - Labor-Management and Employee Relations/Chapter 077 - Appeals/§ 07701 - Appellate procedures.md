@@ -8,9 +8,9 @@
 
 > Appeals shall be processed in accordance with regulations prescribed by the Board.
 
-(b)(1) The Board may hear any case appealed to it or may refer the case to an administrativelaw judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
+(b)(1) The Board may hear any case appealed to it or may refer the case to an administrative law judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
 
-(2)(A) If an employee or applicant for employment is the prevailing party in an appeal under this subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
+(2)(A) If an employee or applicant for employment is the prevailing party in an appeal underthis subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
 
 &emsp;(i) the deciding official determines that the granting of such relief is not appropriate; or
 
@@ -66,7 +66,7 @@
 
 > if the deciding official or officials hearing the cases are of the opinion that the action could result in the appeals’ being processed more expeditiously and would not adversely affect any party.
 
-(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment bythe agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
+(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment by the agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
 (2) If an employee or applicant for employment is the prevailing party and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
@@ -138,7 +138,7 @@ Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted “(as the case may 
 
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
-1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in sectioncatchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
 #### Effective Date of 2002 Amendment
 

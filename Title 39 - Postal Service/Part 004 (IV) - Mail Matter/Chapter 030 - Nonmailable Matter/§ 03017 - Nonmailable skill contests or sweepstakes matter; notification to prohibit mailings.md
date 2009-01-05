@@ -64,7 +64,7 @@ Election To Be Excluded From Lists.—
 
 &emsp;(1)
 
-In general.—An individual (or other duly authorized person) may elect to exclude the name and address of that individual from all lists of names and addresses used by a promoter of skill contests or sweepstakes by submitting a removal request to the notification system established under subsection (c).
+In general.—An individual (or other duly authorized person) may elect to exclude thename and address of that individual from all lists of names and addresses used by a promoter of skill contests or sweepstakes by submitting a removal request to the notification system established under subsection (c).
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Response after submitting removal request to the notification system.—Not late
 
 &emsp;(3)
 
-Effectiveness of election.—An election under paragraph (1) shall remain in effect, unless an individual (or other duly authorizedperson) notifies the promoter in writing that such individual—
+Effectiveness of election.—An election under paragraph (1) shall remain in effect, unless an individual (or other duly authorized person) notifies the promoter in writing that such individual—
 
 &emsp;&emsp;(A) has changed the election; and
 

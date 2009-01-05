@@ -20,7 +20,7 @@ For purposes of this subchapter—
 
 &emsp;(7) the term “participating State” means any State that has been approved for participation in the Program in accordance with section 4743 of this title;
 
-&emsp;(8) the term “passive real estate ownership” means ownership of real estate for the purpose of deriving income from speculation, trade, or rental, except that such term shall not include—
+&emsp;(8) the term “passive real estate ownership” means ownership of real estate for the purposeof deriving income from speculation, trade, or rental, except that such term shall not include—
 
 &emsp;&emsp;(A) the ownership of that portion of real estate being used or intended to be used for the operation of the business of the owner of the real estate (other than the business of passive ownership of real estate); or
 

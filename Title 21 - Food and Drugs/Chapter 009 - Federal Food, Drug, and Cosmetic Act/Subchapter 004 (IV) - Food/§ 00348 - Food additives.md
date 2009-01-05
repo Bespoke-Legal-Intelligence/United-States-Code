@@ -46,7 +46,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;(B) by order deny the petition, and shall notify the petitioner of such order and of the reasons for such action.
 
-(2) The order required by paragraph (1)(A) or (B) of this subsection shall be issued within ninety days after the date of filing of the petition, except that the Secretary may (prior to such ninetieth day), by written notice to the petitioner, extend such ninety-day period to such time (not more than one hundred and eighty days after the date of filing of the petition) asthe Secretary deems necessary to enable him to study and investigate the petition.
+(2) The order required by paragraph (1)(A) or (B) of this subsection shall be issued within ninety days after the date of filing of the petition, except that the Secretary may (prior to such ninetieth day), by written notice to the petitioner, extend such ninety-day period to such time (not more than one hundred and eighty days after the date of filing of the petition) as the Secretary deems necessary to enable him to study and investigate the petition.
 
 (3) No such regulation shall issue if a fair evaluation of the data before the Secretary—
 
@@ -70,7 +70,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 #### (d) Regulation issued on Secretary's initiative
 
-The Secretary may at any time, upon his own initiative, propose the issuance of a regulation prescribing, with respect to any particular use of a food additive, the conditions under which such additive may be safely used, and the reasons therefor. After the thirtieth day following publication of such a proposal, the Secretary may by order establish a regulation based upon the proposal.
+The Secretary may at any time, upon his own initiative, propose the issuance of a regulation prescribing, with respect to any particular useof a food additive, the conditions under which such additive may be safely used, and the reasons therefor. After the thirtieth day following publication of such a proposal, the Secretary may by order establish a regulation based upon the proposal.
 
 #### (e) Publication and effective date of orders
 
@@ -104,7 +104,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
-(C) In this paragraph, the term “food contact substance” means the substance that is the subject of a notification submitted under paragraph (1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
+(C) In this paragraph, the term “food contact substance” means the substance that is the subject of a notification submitted under paragraph\(1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
 
 (3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) of this section is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b) of this section.
 
@@ -146,7 +146,7 @@ Without regard to subsections (b) to (i), inclusive, of this section, the Secret
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title.” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title.”
+1997—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated undersection 342(a)(1) of this title.” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title.”
 
 Subsec. (a)(1). Pub. L. 105–115, §309(a)(1), substituted “subsection (j)” for “subsection (i)”.
 
@@ -185,10 +185,6 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L
 #### Effective Date
 
 Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out as an Effective Date of 1958 Amendment note under section 342 of this title.
-
-#### Transfer of Functions
-
-Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Glass and Ceramic Ware
 

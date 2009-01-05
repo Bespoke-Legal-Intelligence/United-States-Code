@@ -10,10 +10,6 @@ The Librarian may, in carrying out sections 179<i>l</i> to 179w of this title, p
 
 (Pub. L. 104–285, title I, §110, Oct. 11, 1996, 110 Stat. 3381.)
 
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
-
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.

@@ -16,7 +16,7 @@ Title V of the Older Americans Act of 1965, comprising this subchapter, was orig
 - [&sect; 03056d - Distribution of assistance](%C2%A7%2003056d%20-%20Distribution%20of%20assistance.md)
 - [&sect; 03056e - Equitable distribution](%C2%A7%2003056e%20-%20Equitable%20distribution.md)
 - [&sect; 03056f - Report](%C2%A7%2003056f%20-%20Report.md)
-- [&sect; 03056g - Employment assistance and Federal housing and food stamp programs](%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20food%20stamp%20programs.md)
+- [&sect; 03056g - Employment assistance and Federal housing and supplemental nutrition assistance programs](%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20supplemental%20nutrition%20assistance%20programs.md)
 - [&sect; 03056h - Eligibility for workforce investment activities](%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md)
 - [&sect; 03056i - Coordination with the Workforce Investment Act of 1998](%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Investment%20Act%20of%201998.md)
 - [&sect; 03056j - Treatment of assistance](%C2%A7%2003056j%20-%20Treatment%20of%20assistance.md)

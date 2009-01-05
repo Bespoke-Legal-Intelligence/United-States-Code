@@ -92,7 +92,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (9) National Special Security Event
 
-&emsp;The term “National Special Security Event” means a designated event that, by virtue of its political, economic, social, or religious significance, may be the target of terrorism or other criminal activity.
+&emsp;The term “National Special Security Event” means a designated event that, by virtue of itspolitical, economic, social, or religious significance, may be the target of terrorism or other criminal activity.
 
 #### (10) Population
 

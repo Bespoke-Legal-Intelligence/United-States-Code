@@ -10,9 +10,13 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;Each person that submits, on or after September 1, 2003, an animal drug application or a supplemental animal drug application shall be subject to a fee as follows:
 
-&emsp;&emsp;&emsp;(i) A fee established in subsection (b) of this section for an animal drug application; and
+&emsp;&emsp;&emsp;(i) A fee established in subsection (b) of this section for an animal drug application, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title; and
 
-&emsp;&emsp;&emsp;(ii) A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).
+&emsp;&emsp;&emsp;(ii) A fee established in subsection (b), in an amount that is equal to 50 percent of the amount of the fee under clause (i), for—
+
+&emsp;&emsp;&emsp;&emsp;(I) a supplemental animal drug application for which safety or effectiveness data are required; and
+
+&emsp;&emsp;&emsp;&emsp;(II) an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title.
 
 #### (B) Payment
 
@@ -68,49 +72,39 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (1) Total fee revenues for application and supplement fees
 
-&emsp;The total fee revenues to be collected in animal drug application fees under subsection (a)(1)(A)(i) of this section and supplemental animal drug application fees under subsection\(a)(1)(A)(ii) of this section shall be $1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.
+&emsp;The total fee revenues to be collected in animal drug application fees under subsection (a)(1)(A)(i) of this section and supplemental and other animal drug application fees under subsection (a)(1)(A)(ii) of this section shall be $3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.
 
 #### (2) Total fee revenues for product fees
 
-&emsp;The total fee revenues to be collected in product fees under subsection (a)(2) of this section shall be $1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.
+&emsp;The total fee revenues to be collected in product fees under subsection (a)(2) of this section shall be $3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.
 
 #### (3) Total fee revenues for establishment fees
 
-&emsp;The total fee revenues to be collected in establishment fees under subsection (a)(3) of this section shall be $1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.
+&emsp;The total fee revenues to be collected in establishment fees under subsection (a)(3) of this section shall be $3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.
 
 #### (4) Total fee revenues for sponsor fees
 
-&emsp;The total fee revenues to be collected in sponsor fees under subsection (a)(4) of this section shall be $1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.
+&emsp;The total fee revenues to be collected in sponsor fees under subsection (a)(4) of this section shall be $3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.
 
 #### (c) Adjustments
 
-#### (1) Inflation adjustment
+#### (1) Workload adjustment
 
-&emsp;The revenues established in subsection (b) of this section shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
-
-&emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year for which fees are being established; or
-
-&emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia.
-
-> &emsp;The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2004 under this subsection.
-
-#### (2) Workload adjustment
-
-&emsp;After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004 to reflect changes in review workload. With respect to such adjustment:
+&emsp;The fee revenues shall be adjusted each fiscal year after fiscal year 2009 to reflect changes in review workload. With respect to such adjustment:
 
 &emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of animal drug applications, supplemental animal drug applications for which data with respect to safety or effectiveness are required, manufacturing supplemental animal drug applications, investigational animal drug study submissions, and investigational animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
-&emsp;&emsp;(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b) of this section, as adjusted for inflation under paragraph (1).
+&emsp;&emsp;(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b) of this section.
 
-#### (3) Final year adjustment
+#### (2) Final year adjustment
 
-&emsp;For fiscal year 2008, the Secretary may further increase the fees to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2009. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2008.
+&emsp;For fiscal year 2013, the Secretary may further increase the fees to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2014. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2013.
 
-#### (4) Annual fee setting
+#### (3) Annual fee setting
 
 &emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2003, for that fiscal year, animal drug application fees, supplemental animal drug application fees, animal drug sponsor fees, animal drug establishment fees, and animal drug product fees based on the revenue amounts established under subsection (b) of this section and the adjustments provided under this subsection.
 
-#### (5) Limit
+#### (4) Limit
 
 &emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of animal drug applications.
 
@@ -154,7 +148,7 @@ Except as provided in subsection (a)(1) of this section and subsections (c), (d)
 
 #### (e) Effect of failure to pay fees
 
-An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An animal drug application or supplemental animal drug application submitted by a personsubject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
@@ -196,25 +190,25 @@ An animal drug application or supplemental animal drug application submitted by 
 
 &emsp;There are authorized to be appropriated for fees under this section—
 
-&emsp;&emsp;(A) $5,000,000 for fiscal year 2004;
+&emsp;&emsp;(A) $15,260,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $8,000,000 for fiscal year 2005;
+&emsp;&emsp;(B) $17,280,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $10,000,000 for fiscal year 2006;
+&emsp;&emsp;(C) $19,448,000 for fiscal year 2011;
 
-&emsp;&emsp;(D) $10,000,000 for fiscal year 2007; and
+&emsp;&emsp;(D) $21,768,000 for fiscal year 2012; and
 
-&emsp;&emsp;(E) $10,000,000 for fiscal year 2008;
+&emsp;&emsp;(E) $24,244,000 for fiscal year 2013;
 
 > &emsp;as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by animal drug application fees, supplemental animal drug application fees, animal drug sponsor fees, animal drug establishment fees, and animal drug product fees.
 
 #### (4) Offset
 
-&emsp;Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.
+&emsp;If the sum of the cumulative amount of fees collected under this section for fiscal years 2009 through 2011 and the amount of fees estimated to be collected under this section for fiscal year 2012 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2009 through 2012, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2013.
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the UnitedStates Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 
@@ -232,11 +226,57 @@ The Secretary shall—
 
 &emsp;(2) adopt other administrative procedures to ensure that review times of abbreviated new animal drug applications do not increase from their current level due to activities under the user fee program.
 
-(June 25, 1938, ch. 675, §740, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1363.)
+(June 25, 1938, ch. 675, §740, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1363; amended Pub. L. 110–316, title I, §103, Aug. 14, 2008, 122 Stat. 3510.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 108(a) of Pub. L. 110–316, see Effective and Termination Dates of 2008 Amendment note below.</i>
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 108–130, see Termination Date note below.</i>
+
+<i>For savings provisions, see section 106 of Pub. L. 110–316, set out as a note under section 379j–11 of this title.</i>
+
+#### Amendments
+
+2008—Subsec. (a)(1)(A)(i). Pub. L. 110–316, §§103(a)(1), 108(a), temporarily inserted “, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title” after “for an animal drug application”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 110–316, §§103(a)(2), 108(a), temporarily amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A fee established in subsection (b) of this section for a supplemental animal drug application for which safety or effectiveness data are required, in an amount that is equal to 50 percent of the amount of the fee under clause (i).” See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 110–316, §§103(b)(1), 108(a), temporarily substituted “and supplemental and other animal drug application fees” for “and supplemental animal drug application fees” and “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 110–316, §§103(b)(2), 108(a), temporarily substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (b)(3). Pub. L. 110–316, §§103(b)(3), 108(a), temporarily substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 110–316, §§103(b)(4), 108(a), temporarily substituted “$3,815,000 for fiscal year 2009, $4,320,000 for fiscal year 2010, $4,862,000 for fiscal year 2011, $5,442,000 for fiscal year 2012, and $6,061,000 for fiscal year 2013.” for “$1,250,000 in fiscal year 2004, $2,000,000 in fiscal year 2005, and $2,500,000 in fiscal years 2006, 2007, and 2008.” See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 110–316, §§103(c)(1)–(3), 108(a), temporarily redesignated par. (2) as (1), substituted “The fee revenues shall be adjusted each fiscal year after fiscal year 2009” for “After the fee revenues are adjusted for inflation in accordance with paragraph (1), the fee revenues shall be further adjusted each fiscal year after fiscal year 2004” in introductory provisions, struck out “, as adjusted for inflation under paragraph (1)” before period in subpar. (B), and struck out former par. (1) relating to inflation adjustment. See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (c)(2). Pub. L. 110–316, §§103(c)(2), (4), 108(a), temporarily redesignated par. (3) as (2) and substituted “2013” for “2008” in two places and “2014” for “2009”. Former par. (2) redesignated (1). See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (c)(3) to (5). Pub. L. 110–316, §§103(c)(2), 108(a), temporarily redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2). See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (g)(3)(A) to (E). Pub. L. 110–316, §§103(d), 108(a), temporarily amended subpars. (A) to (E) generally. Prior to amendment, subpars. (A) to (E) read as follows:
+
+“(A) $5,000,000 for fiscal year 2004;
+
+“(B) $8,000,000 for fiscal year 2005;
+
+“(C) $10,000,000 for fiscal year 2006;
+
+“(D) $10,000,000 for fiscal year 2007; and
+
+“(E) $10,000,000 for fiscal year 2008;”.
+
+> See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (g)(4). Pub. L. 110–316, §§103(e), 108(a), temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.” See Effective and Termination Dates of 2008 Amendment note below.
+
+#### Effective and Termination Dates of 2008 Amendment
+
+Amendment by Pub. L. 110–316 effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, and ceases to be effective Oct. 1, 2013, see sections 107 and 108(a) of Pub. L. 110–316, set out as notes under section 379j–11 of this title.
 
 #### Termination Date
 

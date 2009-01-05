@@ -2,7 +2,7 @@
 
 #### (a) Testing equipment
 
-To promote greater uniformity in commercial grain inspection results, the Secretary may work in conjunction with the National Institute for Standards and Technology, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations to—
+To promote greater uniformity in commercial grain inspection results, the Secretary maywork in conjunction with the National Institute for Standards and Technology, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations to—
 
 &emsp;(1) identify inspection instruments requiring standardization under subsection (b) of this section;
 

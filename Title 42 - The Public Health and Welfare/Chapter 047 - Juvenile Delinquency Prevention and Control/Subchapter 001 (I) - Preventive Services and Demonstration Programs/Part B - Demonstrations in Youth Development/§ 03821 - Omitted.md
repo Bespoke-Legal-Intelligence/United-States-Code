@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 90–445, title I, §105, as added Pub. L. 93–415, title IV, §401(4), Sept. 7, 1974, 88 Stat. 1132, which related to grants for demonstrations of innovative approaches to youth development, was omitted in view ofappropriations not being authorized for fiscal years after 1975.
+Section, Pub. L. 90–445, title I, §105, as added Pub. L. 93–415, title IV, §401(4), Sept. 7, 1974, 88 Stat. 1132, which related to grants for demonstrations of innovative approaches to youth development, was omitted in view of appropriations not being authorized for fiscal years after 1975.
 
 Prior sections 3821 to 3845 were omitted in the general amendment of Pub. L. 90–445 by Pub. L. 92–381, §1, Aug. 14, 1972, 86 Stat. 532.
 

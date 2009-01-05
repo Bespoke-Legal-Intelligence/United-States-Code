@@ -6,7 +6,7 @@ There is established a National Drinking Water Advisory Council which shall cons
 
 &emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
-&emsp;(2) the terms of the members first taking office shall expire as follows: Five shall expirethree years after December 16, 1974, five shall expire two years after such date, and five shall expire one year after such date, as designated by the Administrator at the time of appointment.
+&emsp;(2) the terms of the members first taking office shall expire as follows: Five shall expire three years after December 16, 1974, five shall expire two years after such date, and five shall expire one year after such date, as designated by the Administrator at the time of appointment.
 
 > The members of the Council shall be eligible for reappointment.
 
@@ -26,7 +26,7 @@ Section 14(a) of the Federal Advisory Committee Act (relating to termination) sh
 
 #### References in Text
 
-Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

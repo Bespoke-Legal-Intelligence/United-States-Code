@@ -62,7 +62,7 @@ An award under subsection (b) shall apply to—
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide a total of not more than $25,000,000,000 in loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b).
+&emsp;Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide a total of not more than $25,000,000,000 in loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b). The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.
 
 #### (2) Application
 
@@ -100,7 +100,7 @@ An award under subsection (b) shall apply to—
 
 #### (e) Improvement
 
-The Secretary shall issue regulations that require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
+Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that, in order for an automobile manufacturer to be eligible for an award or loan under this section during a particular year, the adjusted average fuel economy of the manufacturer for light duty vehicles produced by the manufacturer during the most recent year for which data are available shall be not less than the average fuel economy for all light duty vehicles of the manufacturer for model year 2005. In order to determine fuel economy baselines for eligibility of a new manufacturer or a manufacturer that has not produced previously produced equivalent vehicles, the Secretary may substitute industry averages.
 
 #### (f) Fees
 
@@ -128,11 +128,27 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
 
-(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514.)
+#### (j) Appointment and pay of personnel
+
+(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary tothe discharge of the Secretary's functions under this section.
+
+(2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
+
+(3) The Secretary may retain such consultants as the Secretary deems necessary to the discharge of the functions required by this section, pursuant to section 427 of title 41.
+
+(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578.)
 
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (a)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end “The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.”
+
+Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted “Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that,” for “The Secretary shall issue regulations that require that,”.
+
+Subsec. (j). Pub. L. 110–329, §129(c)(3), added subsec. (j).
 

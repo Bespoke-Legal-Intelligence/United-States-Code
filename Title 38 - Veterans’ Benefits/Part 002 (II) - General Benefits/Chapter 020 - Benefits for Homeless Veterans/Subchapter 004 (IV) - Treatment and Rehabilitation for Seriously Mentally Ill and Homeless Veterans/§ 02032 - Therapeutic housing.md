@@ -32,7 +32,7 @@
 
 &emsp;(B) transfer from the General Post Fund to the Loan Guaranty Revolving Fund under chapter 37 of this title an amount (not to exceed the amount the Secretary paid for the property) representing the amount the Secretary considers could be obtained by sale of such property to a nonprofit organization or a State for use as a shelter for homeless veterans.
 
-(3) In the case of any residential property obtained by the Secretary from the Department of Housing and Urban Development under this section, the amount paid by the Secretary to that Department for that property may not exceed the amount that the Secretary of Housing and Urban Development would charge for the sale of that property to a nonprofit organization or a State for use as a shelter for homeless persons. Funds for such charge shall be derived from the General Post Fund.
+(3) In the case of any residential property obtained by the Secretary from the Department of Housing and Urban Development under this section, the amount paid by the Secretary to that Department for that property may not exceed the amount that the Secretary of Housing and Urban Development would charge for the sale ofthat property to a nonprofit organization or a State for use as a shelter for homeless persons. Funds for such charge shall be derived from the General Post Fund.
 
 (f) The Secretary shall prescribe—
 

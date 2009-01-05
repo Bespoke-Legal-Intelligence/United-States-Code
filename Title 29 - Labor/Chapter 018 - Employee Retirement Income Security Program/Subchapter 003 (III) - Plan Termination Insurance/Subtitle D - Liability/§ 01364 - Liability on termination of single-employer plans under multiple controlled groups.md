@@ -16,7 +16,7 @@
 
 1989—Subsec. (b). Pub. L. 101–239 substituted “section 1368(a)” for “clauses (i)(II) and (ii) of section 1362(b)(1)(A)”.
 
-1987—Subsec. (b). Pub. L. 100–203 amended first sentence generally. Prior to amendment, first sentence read as follows: “The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title, except that—
+1987—Subsec. (b). Pub. L. 100–203 amended first sentence generally. Prior to amendment, first sentenceread as follows: “The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title, except that—
 
 &emsp;“(1) the amount of the liability determined under section 1362(b)(1) of this title with respect to the entire plan—
 

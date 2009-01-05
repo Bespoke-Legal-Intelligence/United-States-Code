@@ -6,7 +6,7 @@ In the case of any individual who attains the age of 72 before 1969 but who does
 
 #### (b) Determination of entitlement to surviving spouse's benefits under section 402(e) or (f) of this title
 
-In the case of any individual who has died, who does not meet the requirements of section 414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section 414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
+In the case of any individual who has died, who does not meet the requirements of section414(a) of this title, and whose surviving spouse attains age 72 before 1969, the 6 quarters of coverage referred to in paragraph (3) of section 414(a) of this title and in paragraph (1) thereof shall, for purposes of determining the entitlement to surviving spouse's insurance benefits under section 402(e) or section 402(f) of this title, instead be—
 
 &emsp;(1) 3 quarters of coverage if such surviving spouse attains the age of 72 in or before 1966,
 

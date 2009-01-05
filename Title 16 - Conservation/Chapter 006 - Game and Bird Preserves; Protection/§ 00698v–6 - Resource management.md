@@ -62,7 +62,7 @@ Upon assumption of management of the Preserve under subsection (a) of this secti
 
 #### (d) Management program
 
-Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of this section, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under section 698v–3(b) of this title. To the extent consistent with such purposes, such program shall provide for—
+Within two years after assumption of management responsibilities for the Preserve, the Trust shall, in accordance with subsection (f) of thissection, develop a comprehensive program for the management of lands, resources, and facilities within the Preserve to carry out the purposes under section 698v–3(b) of this title. To the extent consistent with such purposes, such program shall provide for—
 
 &emsp;(1) operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
 
@@ -86,7 +86,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (1) In general
 
-&emsp;The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under section 698v–3(b) of this title. The Trust is expressly authorized to construct and upgrade roads andbridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
+&emsp;The Trust shall give thorough consideration to the provision of appropriate opportunities for public use and recreation that are consistent with the other purposes under section 698v–3(b) of this title. The Trust is expressly authorized to construct and upgrade roads and bridges, and provide other facilities for activities including, but not limited to camping and picnicking, hiking, and cross country skiing. Roads, trails, bridges, and recreational facilities constructed within the Preserve shall meet public safety standards applicable to units of the National Forest System and the State of New Mexico.
 
 #### (2) Fees
 
@@ -168,7 +168,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (iii) Cooperative agreement
 
-&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System,the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
 
 #### (B) Reimbursable services
 

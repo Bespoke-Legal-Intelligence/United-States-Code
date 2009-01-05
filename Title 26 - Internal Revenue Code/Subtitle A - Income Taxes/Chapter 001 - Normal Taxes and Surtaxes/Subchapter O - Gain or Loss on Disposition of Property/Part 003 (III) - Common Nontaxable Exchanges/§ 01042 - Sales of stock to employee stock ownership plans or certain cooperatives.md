@@ -98,7 +98,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “qualified replacement property” means any security issued by a domestic operating corporation which—
 
-&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receipts of such corporation for such preceding taxable year, and
+&emsp;&emsp;&emsp;(i) did not, for the taxable year preceding the taxable year in which such security was purchased, have passive investment income (as defined in section 1362(d)(3)(C)) in excess of 25 percent of the gross receiptsof such corporation for such preceding taxable year, and
 
 &emsp;&emsp;&emsp;(ii) is not the corporation which issued the qualified securities which such security is replacing or a member of the same controlled group of corporations (within the meaning of section 1563(a)(1)) as such corporation.
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacementproperty is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -184,7 +184,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 &emsp;Paragraph (1) shall not apply to any transfer of qualified replacement property—
 
-&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and such property is substituted basis property in the hands of the transferee,
+&emsp;&emsp;(A) in any reorganization (within the meaning of section 368) unless the person making the election under subsection (a)(1) owns stock representing control in the acquiring or acquired corporation and suchproperty is substituted basis property in the hands of the transferee,
 
 &emsp;&emsp;(B) by reason of the death of the person making such election,
 
@@ -240,7 +240,7 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;&emsp;(D) paragraphs (2)(D) and (7) of subsection (c) shall not apply.
 
-(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882, 2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104Stat. 1388–526; Pub. L. 104–188, title I, §§1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, 110 Stat. 1784, 1786, 1857, 1890; Pub. L. 105–34, title IX, §968(a), Aug. 5, 1997, 111 Stat. 895.)
+(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882, 2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 104–188, title I, §§1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, 110 Stat. 1784, 1786, 1857, 1890; Pub. L. 105–34, title IX, §968(a), Aug. 5, 1997, 111 Stat. 895.)
 
 #### References in Text
 
@@ -352,7 +352,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Line Item Veto
 
-Section 968 of Pub. L. 105–34, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
+Section 968 of Pub. L. 105–34, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, CancellationNo. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 #### Plan Amendments Not Required Until January 1, 1989
 

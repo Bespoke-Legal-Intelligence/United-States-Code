@@ -14,7 +14,7 @@ Regulatory Treatment of Assets of Real Estate Entities.—
 
 &emsp;“(1)
 
-In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15, 1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordance with subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
+In general.—Except as a defense, no rule or regulation adopted pursuant to the Secretary's proposed regulation defining ‘plan assets’ for purposes of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] (50 Fed. Reg. 961, January 8, 1985, as modified by 50 Fed. Reg. 6361, February 15, 1985), or any reproposal thereof prior to the adoption of the regulations required to be issued in accordancewith subsection (d), shall apply to any asset of a real estate entity in which a plan, account, or arrangement subject to such Act invests if—
 
 &emsp;&emsp;“(A) any interest in the entity is first offered to a plan, account, or arrangement subject to such Act investing in the entity (hereinafter in this section referred to as a ‘plan investor’) on or before the date which is 120 days after the date of publication of such rule or regulation as a final rule or regulation;
 

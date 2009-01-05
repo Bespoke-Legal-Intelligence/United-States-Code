@@ -14,7 +14,7 @@ Qualifying Smart Grid investments may include any of the following made on or af
 
 &emsp;(3) In the case of transmission and distribution equipment fitted with monitoring and communications devices to enable smart grid functions, the documented expenditures incurred by the electric utility to purchase and install such monitoring and communications devices.
 
-&emsp;(4) In the case of metering devices, sensors, control devices, and other devices integratedwith and attached to an electric utility system or retail distributor or marketer of electricity that are capable of engaging in Smart Grid functions, the documented expenditures incurred by the electric utility, distributor, or marketer and its customers to purchase and install such devices.
+&emsp;(4) In the case of metering devices, sensors, control devices, and other devices integrated with and attached to an electric utility system or retail distributor or marketer of electricity that are capable of engaging in Smart Grid functions, the documented expenditures incurred by the electric utility, distributor, or marketer and its customers to purchase and install such devices.
 
 &emsp;(5) In the case of software that enables devices or computers to engage in Smart Grid functions, the documented purchase costs of the software.
 
@@ -54,7 +54,7 @@ The term “smart grid functions” means any of the following:
 
 &emsp;(1) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations, to or from or by means of the electric utility system, through one or a combination of devices and technologies.
 
-&emsp;(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations to or from a computer or other control device.
+&emsp;(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant todevice, grid, or utility operations to or from a computer or other control device.
 
 &emsp;(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type of generation and to store, synthesize or report that information by digital means.
 

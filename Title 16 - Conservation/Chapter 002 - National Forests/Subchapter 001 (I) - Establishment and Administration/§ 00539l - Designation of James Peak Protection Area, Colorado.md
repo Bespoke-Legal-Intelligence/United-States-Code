@@ -36,7 +36,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (B) Mining withdrawal
 
-&emsp;&emsp;Subject to valid existing rights, all Federal land within the Protection Area and all land and interests in land acquired for the Protection Area by the United States are withdrawn from—
+&emsp;&emsp;Subject to valid existing rights, all Federal land within the Protection Area and allland and interests in land acquired for the Protection Area by the United States are withdrawn from—
 
 &emsp;&emsp;&emsp;(i) all forms of entry, appropriation, or disposal under the public land laws;
 
@@ -44,7 +44,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;&emsp;(iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws, and all amendments thereto.
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority ofthe Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
 
 #### (C) Motorized and mechanized travel
 
@@ -104,11 +104,11 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (2) Colorado water law
 
-&emsp;The Secretary shall follow the procedural and substantive requirements of the law of the State of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
+&emsp;The Secretary shall follow the procedural and substantive requirements of the law of theState of Colorado in order to obtain and hold any new water rights with respect to the Protection Area.
 
 #### (3) Water infrastructure
 
-&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including theuse of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.
+&emsp;Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 
@@ -130,7 +130,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title
 
-Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act \[enacting this section and sections 539<i>l</i>–1 to 539<i>l</i>–5 of this title and enacting and amending provisions listed in a table of Wildernesss Areas set out under section 1132 of this title\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
+Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act \[enacting this section and sections 539<i>l</i>–1 to 539<i>l</i>–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
 
 #### “Secretary” Defined
 

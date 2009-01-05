@@ -8,7 +8,7 @@ A schedule required under section 4303 of this title for an appropriate account 
 
 &emsp;(2) provided to any potential customer before an account is opened or a service is rendered; and
 
-&emsp;(3) provided to the depositor, in the case of any time deposit which has a maturity of more than 30 days <sup>1</sup> is renewable at maturitywithout notice from the depositor, at least 30 days before the date of maturity.
+&emsp;(3) provided to the depositor, in the case of any time deposit which has a maturity of more than 30 days <sup>1</sup> is renewable at maturity without notice from the depositor, at least 30 days before the date of maturity.
 
 #### (b) Distribution in case of certain initial deposits
 

@@ -22,7 +22,7 @@ The Secretary shall—
 
 &emsp;(6) undertake and support, through improved planning and implementation of tested models and evaluation of results, effective and efficient programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
-&emsp;(7)(A) develop model programs through which employers in the public sector, and employers that are small businesses (as definedin section 632 of title 15), can provide for their employees a program to promote healthy behaviors and to discourage participation in unhealthy behaviors;
+&emsp;(7)(A) develop model programs through which employers in the public sector, and employers that are small businesses (as defined in section 632 of title 15), can provide for their employees a program to promote healthy behaviors and to discourage participation in unhealthy behaviors;
 
 &emsp;(B) provide technical assistance to public and private employers in implementing such programs (including private employers that are not small businesses and that will implement programs other than the programs developed by the Secretary pursuant to subparagraph (A)); and
 
@@ -80,7 +80,7 @@ Subsec. (a)(10), (11). Pub. L. 100–607, §312(b)(1)(A), redesignated pars. (9)
 
 Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted “sections 300u through 300u–4 of this title” for “this subchapter”, struck out “and” after “September 30, 1986,”, and inserted “, and $10,000,000 for each of the fiscal years 1989 through 1991”.
 
-1984—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIVof this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
+1984—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out “and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter” after “section 300k–2 of this title” and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
 Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted “To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987” for “For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982.”
 
@@ -94,7 +94,7 @@ For short title of title I of Pub. L. 94–317, which enacted this subchapter as
 
 #### Model Programs for Employee Health Promotion and Disease Prevention; Development Completion
 
-Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18 months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
+Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
 
 #### Executive Order No. 12345
 
@@ -170,7 +170,7 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No.12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -210,7 +210,7 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (b) Each department and office included in section 2(a) shall report to the President, through the Secretary of Health and Human Services, its proposed actions within 90 days of the date of this order.
 
-(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of theWorking Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
+(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
 Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 

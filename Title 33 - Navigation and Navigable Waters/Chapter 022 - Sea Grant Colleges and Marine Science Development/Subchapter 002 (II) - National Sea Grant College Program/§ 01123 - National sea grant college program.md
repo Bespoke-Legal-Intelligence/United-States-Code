@@ -8,19 +8,19 @@ The Secretary shall maintain within the Administration a program to be known as 
 
 The national sea grant college program shall consist of the financial assistance and other activities authorized in this subchapter, and shall provide support for the following elements—
 
-&emsp;(1) sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;
+&emsp;(1) sea grant programs that comprise a national sea grant college program network, including international projects conducted within such programs and regional and national projects conducted among such programs;
 
-&emsp;(2) administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;
+&emsp;(2) administration of the national sea grant college program and this subchapter by the national sea grant office and the Administration;
 
 &emsp;(3) the fellowship program under section 1127 of this title; and
 
-&emsp;(4) any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.
+&emsp;(4) any regional or national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed in consultation with the Board and with the approval of the sea grant colleges and the sea grant institutes.
 
 #### (c) Responsibilities of Secretary
 
-(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides an appropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
+(1) The Secretary, in consultation with the Board, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides an appropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
 
-(2) Within 6 months of March 6, 1998, the Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under section 1124 of this title, providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
+(2) The Secretary, in consultation with the Board, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under section 1124 of this title, providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
 
 (3) The Secretary shall by regulation prescribe the qualifications required for designation of sea grant colleges and sea grant institutes under section 1126 of this title.
 
@@ -46,7 +46,7 @@ The national sea grant college program shall consist of the financial assistance
 
 (2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
 
-&emsp;(A) facilitate and coordinate the development of a long-range strategic plan under subsection (c)(1) of this section;
+&emsp;(A) facilitate and coordinate the development of a strategic plan under subsection (c)(1) of this section;
 
 &emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
 
@@ -56,23 +56,25 @@ The national sea grant college program shall consist of the financial assistance
 
 (3) With respect to sea grant colleges and sea grant institutes, the Director shall—
 
-&emsp;(A)(i) evaluate the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c) of this section, and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities; and
-
-&emsp;(ii) rate the programs according to their relative performance (as determined under clause (i)) into no less than 5 categories, with each of the 2 best-performing categories containing no more than 25 percent of the programs;
+&emsp;(A) evaluate and assess the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c) of this section, and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities;
 
 &emsp;(B) subject to the availability of appropriations, allocate funding among sea grant colleges and sea grant institutes so as to—
 
 &emsp;&emsp;(i) promote healthy competition among sea grant colleges and institutes;
 
-&emsp;&emsp;(ii) encourage successful implementation of sea grant programs;
+&emsp;&emsp;(ii) encourage collaborations among sea grant colleges and sea grant institutes to address regional and national priorities established under subsection (c)(1);
 
-&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes; and
+&emsp;&emsp;(iii) ensure successful implementation of sea grant programs;
 
-&emsp;&emsp;(iv) encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
+&emsp;&emsp;(iv) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes;
+
+&emsp;&emsp;(v) encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
+
+&emsp;&emsp;(vi) encourage cooperation with Minority Serving Institutions to enhance collaborative research opportunities and increase the number of such students graduating in NOAA science areas; and
 
 &emsp;(C) ensure compliance with the guidelines for merit review under subsection (c)(2) of this section.
 
-(Pub. L. 89–454, title II, §204, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, §1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346.)
+(Pub. L. 89–454, title II, §204, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(2), Aug. 11, 1968, 82 Stat. 704; Pub. L. 93–73, §1(2)–(7), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1963; Pub. L. 95–428, §§2(b), 3(1), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(2), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, 101 Stat. 1470, 1471; Pub. L. 102–186, §§2, 4(b)(1)(A), Dec. 4, 1991, 105 Stat. 1282, 1283; Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §3(a), (b)(1), (c), Nov. 26, 2002, 116 Stat. 2345, 2346; Pub. L. 110–394, §§5, 9(a)(4)(C)(i), Oct. 13, 2008, 122 Stat. 4206, 4208.)
 
 #### References in Text
 
@@ -80,9 +82,31 @@ The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-This subchapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (d)(3)(B)(iv), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–394, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “sea grant programs which comprise a national sea grant college program network, including international projects conducted within such programs;”.
+
+Subsec. (b)(2). Pub. L. 110–394, §5(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “administration of the national sea grant college program and this subchapter by the national sea grant office, the Administration, and the panel;”.
+
+Subsec. (b)(4). Pub. L. 110–394, §5(a)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “any national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed with the approval of the panel, the sea grant colleges, and the sea grant institutes.”
+
+Subsec. (c)(1). Pub. L. 110–394, §9(a)(4)(C)(i), substituted “Board” for “panel”.
+
+Subsec. (c)(2). Pub. L. 110–394, §§5(b), 9(a)(4)(C)(i), substituted “The” for “Within 6 months of March 6, 1998, the” and “Board” for “panel”.
+
+Subsec. (d)(2)(A). Pub. L. 110–394, §5(c)(1), which directed the striking out of “long range”, was executed by striking out “long-range” before “strategic plan” to reflect the probable intent of Congress.
+
+Subsec. (d)(3)(A). Pub. L. 110–394, §5(c)(2), substituted “evaluate and assess” for “evaluate” and “activities;” for “activities; and”, struck out cl. (i) designation before “evaluate”, and struck out cl. (ii) which read as follows: “rate the programs according to their relative performance (as determined under clause (i)) into no less than 5 categories, with each of the 2 best-performing categories containing no more than 25 percent of the programs;”.
+
+Subsec. (d)(3)(B)(ii). Pub. L. 110–394, §5(c)(3)(A), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (d)(3)(B)(iii). Pub. L. 110–394, §5(c)(3)(A), (B), redesignated cl. (ii) as (iii) and substituted “ensure” for “encourage”. Former cl. (iii) redesignated (iv).
+
+Subsec. (d)(3)(B)(iv), (v). Pub. L. 110–394, §5(c)(3)(A), redesignated cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (d)(3)(B)(vi). Pub. L. 110–394, §5(c)(3)(C), (D), added cl. (vi).
 
 2002—Subsec. (c)(1). Pub. L. 107–299, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
 
@@ -146,7 +170,7 @@ Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 
 “(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
 
-&emsp;“(i) to review the effectiveness of the evaluation and rating system under the amendment made by paragraph (1) in determining the relative performance of programs of sea grant colleges and sea grant institutes;
+&emsp;“(i) to review the effectiveness of the evaluation and rating system under the amendment made by paragraph (1) \[amending this section\] in determining the relative performance of programs of sea grant colleges and sea grant institutes;
 
 &emsp;“(ii) to evaluate whether the sea grant programs have improved as a result of the evaluation process; and
 

@@ -8,17 +8,35 @@
 
 (3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
 
+(4)
+
+Annual appropriation for hispanic-serving agricultural colleges and universities.—
+
+&emsp;(A)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Secretary for payments to Hispanic-serving agricultural colleges and universities (as defined in section 3103 of this title) such sums as are necessary to carry out this paragraph for fiscal year 2008 and each fiscal year thereafter, to remain available until expended.
+
+&emsp;(B)
+
+Additional amount.—Amounts made available under this paragraph shall be in addition to any other amounts made available under this section to States, the Commonwealth of Puerto Rico, Guam, or the United States Virgin Islands.
+
+&emsp;(C)
+
+Administration.—Amounts made available under this paragraph shall be—
+
+&emsp;&emsp;(i) distributed on the basis of a competitive application process to be developed and implemented by the Secretary;
+
+&emsp;&emsp;(ii) paid by the Secretary to the State institutions established in accordance with the Act of July 2, 1862 (commonly known as the “First Morrill Act”) (7 U.S.C. 301 et seq.); and
+
+&emsp;&emsp;(iii) administered by State institutions through cooperative agreements with the Hispanic-serving agricultural colleges and universities in the State in accordance with regulations promulgated by the Secretary.
+
 (c) Any sums made available by the Congress for further development of cooperative extension work in addition to those referred to in subsection (b) of this section shall be distributed as follows:
 
 &emsp;(1) Four per centum of the sum so appropriated for each fiscal year shall be allotted to the Secretary of Agriculture for administrative, technical, and other services, and for coordinating the extension work of the Department and the several States, Territories, and possessions.
 
-&emsp;(2) Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
+&emsp;(2) Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several Statesin the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
 
-(d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—
-
-&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
-
-&emsp;(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
+(d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may compete for and receive funds directly from the Secretary of Agriculture.
 
 (e)
 
@@ -26,7 +44,7 @@ Matching Funds.—
 
 &emsp;(1)
 
-Requirement.—Except as provided in paragraph (4) and subsection (f) of this section, no allotment shall be made to a State under subsection (b) or (c) of this section, and nopayments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
+Requirement.—Except as provided in paragraph (4) and subsection (f) of this section, no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for cooperative extension work.
 
 &emsp;(2)
 
@@ -64,7 +82,7 @@ Waivers.—The Secretary may waive the matching fund requirement of subparagraph
 
 Matching Funds Exception for 1994
 
-Institutions.—There shall be no matching requirement for funds made available to a 1994 Institution pursuant to subsection (b)(3) of this section.
+Institutions and Hispanic-Serving Agricultural Colleges and Universities.—There shall be no matching requirement for funds made available to a 1994 Institution or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b).
 
 (g)(1) The Secretary of Agriculture may conduct educational, instructional, demonstration, and publication distribution programs and enter into cooperative agreements with private nonprofit and profit organizations and individuals to share the cost of such programs through contributions from private sources as provided in this subsection.
 
@@ -128,13 +146,31 @@ Other requirements.—An extension activity for which merit review is conducted 
 
 Integration of Research and Extension.—Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII,§883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007.)
 
 #### References in Text
 
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3), is section 532 of Pub. L. 103–382, which is set out as a note under section 301 of this title.
 
+The Act of July 2, 1862, referred to in subsec. (b)(4)(C)(ii), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–246, §7129(b)(1), added par. (4).
+
+Subsec. (d). Pub. L. 110–246, §7403(a), substituted “compete for and receive funds directly from the Secretary of Agriculture.” for “apply for and receive directly from the Secretary of Agriculture—
+
+&emsp;“(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+
+&emsp;“(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.”
+
+Subsec. (f). Pub. L. 110–246, §7129(b)(2), in heading, inserted “<i>and Hispanic-Serving Agricultural Colleges and Universities</i>” after “1994
+
+Institutions” and, in text, substituted “or Hispanic-serving agricultural colleges and universities in accordance with paragraphs (3) and (4) of subsection (b)” for “pursuant to subsection (b)(3) of this section”.
 
 2002—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted “such sums as are necessary” for “$5,000,000” and inserted “The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation.” after “section 342 of this title.”.
 
@@ -187,6 +223,10 @@ Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 pe
 Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
 
 1953—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

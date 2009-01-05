@@ -20,7 +20,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 (1) The total credits allowed to a taxpayer under this section shall not exceed 90 percent of the tax against which such credits are allowable.
 
-(2) If an advance or advances have been made to the unemployment account of a State under title XII of the Social Security Act, then the total credits (after applying subsections (a) and (b) and paragraph (1) of this subsection) otherwise allowable under this section for the taxable year in the case of a taxpayer subject to the unemployment compensation law of such State shall be reduced—
+(2) If an advance or advances have been made to the unemployment account of a State under title XII of the Social Security Act, then the total credits (after applying subsections (a) and (b) and paragraph (1) of this subsection) otherwise allowable under this section for the taxableyear in the case of a taxpayer subject to the unemployment compensation law of such State shall be reduced—
 
 &emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as of the beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State; and
 
@@ -72,7 +72,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;&emsp;(ii) for purposes of subparagraph (C) of subsection (c)(2), the total of the remuneration subject to contributions under the State unemployment compensation law with respect to such calendar year.
 
-> &emsp;For purposes of subparagraph (C) of subsection (c)(2), if the average employer contribution rate for any State for any calendar year (determined without regard to this sentence) equals or exceeds 2.7 percent, such rate shall be determined by increasing the amount taken into account under subparagraph (A) of the preceding sentence by the aggregate amount of employee payments (if any) into the unemployment fund of such State with respect to such calendar year which are to be used solely in the payment of unemployment compensation.
+> &emsp;For purposes of subparagraph (C) of subsection (c)(2), if the average employer contributionrate for any State for any calendar year (determined without regard to this sentence) equals or exceeds 2.7 percent, such rate shall be determined by increasing the amount taken into account under subparagraph (A) of the preceding sentence by the aggregate amount of employee payments (if any) into the unemployment fund of such State with respect to such calendar year which are to be used solely in the payment of unemployment compensation.
 
 #### (5) 5-year benefit cost rate
 
@@ -200,7 +200,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;(A) In the case of a State which would meet the requirements of this subsection for a taxable year prior to 1986 but for its failure to meet one of the requirements contained in subparagraph (C) or (D) of paragraph (2), the reduction under subsection (c)(2) in credits otherwise applicable to taxpayers in such State for such taxable year and each subsequent year (in a period of consecutive years for each of which a credit reduction is in effect for taxpayers in such State) shall be reduced by 0.1 percentage point.
 
-&emsp;(B) In the case of a State which does not meet the requirements of paragraph (2) but meets the requirements of subparagraphs (A) and (B) of paragraph (2) and which also meets the requirements of section 1202(b)(8)(B) of the Social Security Act with respect to such taxable year, the reduction under subsection (c)(2) in credits otherwise applicable to taxpayers in such State for such taxable year and each subsequent year (in a period of consecutive years for each of which a credit reduction is in effect for taxpayers in such State) shall be further reduced by an additional 0.1 percentage point.
+&emsp;(B) In the case of a State which does not meet the requirements of paragraph (2) but meets the requirements of subparagraphs (A) and (B) of paragraph (2) and which also meets the requirements of section 1202(b)(8)(B) of the Social Security Act with respect to such taxable year, the reduction under subsection (c)(2) in credits otherwise applicable to taxpayers in such State for such taxable year andeach subsequent year (in a period of consecutive years for each of which a credit reduction is in effect for taxpayers in such State) shall be further reduced by an additional 0.1 percentage point.
 
 &emsp;(C) In no case shall the application of subparagraphs (A) and (B) reduce the credit reduction otherwise applicable under subsection (c)(2) below the limitation under paragraph (1).
 
@@ -264,7 +264,7 @@ Subsec. (f)(8)(A). Pub. L. 99–514, §1884(2), substituted “1986” for “19
 
 Subsec. (c)(2)(B)(i). Pub. L. 98–21, §513(b), inserted “multiplied by a fraction, the numerator of which is the wage base under this chapter and the denominator of which is the estimated United States average annual wage in covered employment for the calendar year in which the determination is to be made” after “2.7”.
 
-Subsec. (d)(4)(B). Pub. L. 98–21, §513(a), amended subpar. (B) generally, adding cl. (i), designating existing provisions as cl. (ii), and inserting reference to purposes of subsec. (c)(2)(C).
+Subsec. (d)(4)(B). Pub. L. 98–21, §513(a), amended subpar. (B) generally, adding cl. (i), designating existingprovisions as cl. (ii), and inserting reference to purposes of subsec. (c)(2)(C).
 
 Subsec. (f)(1). Pub. L. 98–21, §512(b), struck out “beginning before January 1, 1988,” after “any taxable year”.
 
@@ -356,7 +356,7 @@ Section 142(i) of Pub. L. 91–373 provided that: “The amendments made by this
 
 #### Effective Date of 1963 Amendment
 
-Section 1(d) of Pub. L. 88–173 provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section\] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
+Section 1(d) of Pub. L. 88–173 provided that: “The amendments made by subsections (a), (b), and (c) ofthis section \[amending this section\] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
 
 #### Effective Date of 1961 Amendment
 
@@ -394,7 +394,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule for Certain Employees and Small Businesses
 
-Section 271(d)(3), (4), formerly 271(b)(3), of Pub. L. 97–248, as redesignated and amended by Pub. L. 98–601,§1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 271(d)(3), (4), formerly 271(b)(3), of Pub. L. 97–248, as redesignated and amended by Pub. L. 98–601, §1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(3)
 

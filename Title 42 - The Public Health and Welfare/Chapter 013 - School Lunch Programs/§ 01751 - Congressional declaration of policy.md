@@ -1,6 +1,6 @@
 ### §1751. Congressional declaration of policy
 
-It is declared to be the policy of Congress, as a measure of national security, to safeguard the health and well-being of the Nation's children and to encourage the domestic consumption of nutritious agricultural commodities and other food, by assisting the States, through grants-in-aid and other means, in providing an adequate supply of foods and other facilities for the establishment, maintenance, operation, and expansion of nonprofit school lunch programs.
+It is declared to be the policy of Congress, as a measure of national security, to safeguard the health and well-being of the Nation's childrenand to encourage the domestic consumption of nutritious agricultural commodities and other food, by assisting the States, through grants-in-aid and other means, in providing an adequate supply of foods and other facilities for the establishment, maintenance, operation, and expansion of nonprofit school lunch programs.
 
 (June 4, 1946, ch. 281, §2, 60 Stat. 230; Pub. L. 101–147, title III, §312(1), Nov. 10, 1989, 103 Stat. 916.)
 
@@ -60,7 +60,7 @@ Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[amending sections 1753, 1755, 1757, 1758, 1759, 1759a, 1763, 1772, 1773, and 1786 of this title, and enacting provisions set out as notes under this section and section 240 of Title 20, Education\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1973’.”
+Pub. L. 93–150, §1, Nov. 7, 1973, 87 Stat. 560, provided: “That this Act \[amending sections 1753, 1755, 1757, 1758,1759, 1759a, 1763, 1772, 1773, and 1786 of this title, and enacting provisions set out as notes under this section and section 240 of Title 20, Education\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1973’.”
 
 #### Short Title
 
@@ -156,7 +156,7 @@ Pub. L. 103–448, §2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106�
 
 #### Study of Adulteration of Juice Products Sold to School Meal Programs
 
-Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title I, §125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program underthis chapter and school breakfast program under section 1773 of this title.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
@@ -198,5 +198,5 @@ Pub. L. 101–624, title XVII, §1779, Nov. 28, 1990, 104 Stat. 3816, directed S
 
 #### Comprehensive Study of Benefits of Programs; Report to Congress
 
-Pub. L. 93–150, §10, Nov. 7, 1973, 87 Stat. 564, directed Secretary of Agriculture to carry out a comprehensive study to determine if the benefits of the National School Lunch Act and the Child Nutrition Act are accruing to the maximum extent possible to all of the nation's school children, and to determine if regional costdifferentials exist in Alaska and other States so as to require additional reimbursement, such report with recommendations to be submitted to Congress no later than June 30, 1974.
+Pub. L. 93–150, §10, Nov. 7, 1973, 87 Stat. 564, directed Secretary of Agriculture to carry out a comprehensive study to determine if the benefits of the National School Lunch Act and the Child Nutrition Act are accruing to the maximum extent possible to all of the nation's school children, and to determine if regional cost differentials exist in Alaska and other States so as to require additional reimbursement, such report with recommendations to be submitted to Congress no later than June 30, 1974.
 

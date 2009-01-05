@@ -2,7 +2,7 @@
 
 #### (a) Initial study
 
-Three years after the assumption of management by the Trust, the Government Accountability Office shall conduct an interim study ofthe activities of the Trust and shall report the results of the study to the Committees of Congress. The study shall include, but shall not be limited to, details of programs and activities operated by the Trust and whether it met its obligations under sections 698v to 698v–10 of this title.
+Three years after the assumption of management by the Trust, the Government Accountability Office shall conduct an interim study of the activities of the Trust and shall report the results of the study to the Committees of Congress. The study shall include, but shall not be limited to, details of programs and activities operated by the Trust and whether it met its obligations under sections 698v to 698v–10 of this title.
 
 #### (b) Second study
 

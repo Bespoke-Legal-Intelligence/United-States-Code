@@ -81,6 +81,7 @@
 |  |  |
 | :--- | ---: |
 | [4111\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2004111%20-%20Periodic%20reports%20and%20meetings%20on%20labor%20obligations%20and%20labor%20capacity-building%20provisions.md) | Periodic reports and meetings on labor obligations and labor capacity-building provisions. |
+| [4112\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous/%C2%A7%2004112%20-%20Earned%20import%20allowance%20program.md) | Earned import allowance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

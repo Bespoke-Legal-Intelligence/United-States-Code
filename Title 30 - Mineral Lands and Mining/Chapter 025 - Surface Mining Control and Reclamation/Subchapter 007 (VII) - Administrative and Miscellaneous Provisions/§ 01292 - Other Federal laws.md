@@ -54,5 +54,5 @@ The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably 
 
 The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
-The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generallyto chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 

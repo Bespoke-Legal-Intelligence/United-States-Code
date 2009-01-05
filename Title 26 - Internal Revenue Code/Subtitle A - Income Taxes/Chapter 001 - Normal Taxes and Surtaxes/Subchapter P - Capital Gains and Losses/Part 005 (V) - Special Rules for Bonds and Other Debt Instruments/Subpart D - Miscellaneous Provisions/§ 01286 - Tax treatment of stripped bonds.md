@@ -2,7 +2,7 @@
 
 #### (a) Inclusion in income as if bond and coupons were original issue discount bonds
 
-If any person purchases after July 1, 1982, a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchase date and having an original issue discount equal to the excess (if any) of—
+If any person purchases after July 1, 1982, a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchasedate and having an original issue discount equal to the excess (if any) of—
 
 &emsp;(1) the stated redemption price at maturity (or, in the case of coupon, the amount payable on the due date of such coupon), over
 
@@ -18,7 +18,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 &emsp;&emsp;(A) the interest accrued on such bond while held by such person and before the time such coupon or bond was disposed of (to the extent such interest has not theretofore been included in such person's gross income), and
 
-&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such couponor bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
+&emsp;&emsp;(B) the accrued market discount on such bond determined as of the time such coupon or bond was disposed of (to the extent such discount has not theretofore been included in such person's gross income),
 
 &emsp;(2) the basis of the bond and coupons shall be increased by the amount included in gross income under paragraph (1),
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (f) Treatment of stripped interests in bond and preferred stock funds, etc.
 
-In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> asappropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
+In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
 
 #### (g) Regulation authority
 

@@ -14,7 +14,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(2) contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenues from the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
 
-&emsp;(3) assess and specify the present and probable future condition of, and the maximumsustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;
+&emsp;(3) assess and specify the present and probable future condition of, and the maximum sustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;
 
 &emsp;(4) assess and specify—
 
@@ -40,7 +40,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(C) the safety of human life at sea, including whether and to what extent such measures may affect the safety of participants in the fishery;
 
-&emsp;(10) specify objective and measurable criteria for identifying when the fishery to which the plan applies is overfished (with an analysis of how the criteria were determined and the relationship of the criteria to the reproductive potential of stocks of fish in that fishery) and, in the case of a fishery which the Council or the Secretary has determined is approaching an overfished condition or is overfished, contain conservation and management measures to prevent overfishing or end overfishing and rebuild the fishery;
+&emsp;(10) specify objective and measurable criteria for identifying when the fishery to which the plan applies is overfished (with an analysis of how the criteria were determined and the relationship of the criteria to the reproductive potential of stocks of fish in that fishery) and, in the case of a fishery which the Council or the Secretary has determined is approachingan overfished condition or is overfished, contain conservation and management measures to prevent overfishing or end overfishing and rebuild the fishery;
 
 &emsp;(11) establish a standardized reporting methodology to assess the amount and type of bycatch occurring in the fishery, and include conservation and management measures that, to the extent practicable and in the following priority—
 
@@ -254,7 +254,7 @@ Pub. L. 109–479, title I, §104(b), Jan. 12, 2007, 120 Stat. 3584, provided th
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States,with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -310,7 +310,7 @@ Pub. L. 104–297, title I, §108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3
 
 &emsp;“(K) such other matters as the National Academy of Sciences deems appropriate.
 
-“(2) The report shall include a detailed analysis of individual fishing quota programs already implemented in the United States, including the impacts: of any limits on transferability, on past and present participants, on fishing communities, on the rate and total amount of bycatch (including economic and regulatory discards) in the fishery, on the safety of life and vessels in the fishery, on any excess harvesting or processing capacity in the fishery, on any gear conflicts in the fishery, on product quality from the fishery, on the effectiveness of enforcement in the fishery, on the size and composition of fishing vessel fleets, on the economic value created by individual fishing quotas for initial recipients and non-recipients, on conservation of the fishery resource, on fishermen who rely on participation in several fisheries, on the success in meeting any fishery management plan goals, and the fairness and effectiveness of the methods used for allocating quotas and controlling transferability. The report shall also include any information about individual fishing quota programs in other countries that may be useful.
+“(2) The report shall include a detailed analysis of individual fishing quota programs already implementedin the United States, including the impacts: of any limits on transferability, on past and present participants, on fishing communities, on the rate and total amount of bycatch (including economic and regulatory discards) in the fishery, on the safety of life and vessels in the fishery, on any excess harvesting or processing capacity in the fishery, on any gear conflicts in the fishery, on product quality from the fishery, on the effectiveness of enforcement in the fishery, on the size and composition of fishing vessel fleets, on the economic value created by individual fishing quotas for initial recipients and non-recipients, on conservation of the fishery resource, on fishermen who rely on participation in several fisheries, on the success in meeting any fishery management plan goals, and the fairness and effectiveness of the methods used for allocating quotas and controlling transferability. The report shall also include any information about individual fishing quota programs in other countries that may be useful.
 
 “(3) The report shall identify and analyze alternative conservation and management measures, including other limited access systems such as individual transferable effort systems, that could accomplish the same objectives as individual fishing quota programs, as well as characteristics that are unique to individual fishing quota programs.
 

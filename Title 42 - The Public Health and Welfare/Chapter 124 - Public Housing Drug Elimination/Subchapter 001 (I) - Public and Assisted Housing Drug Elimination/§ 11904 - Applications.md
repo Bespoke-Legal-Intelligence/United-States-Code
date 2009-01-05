@@ -28,7 +28,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (c) Criteria
 
-The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection\(b)(2)(A) of this section on the basis of thresholds or criteria such as—
+The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
 
 &emsp;(1) the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
 

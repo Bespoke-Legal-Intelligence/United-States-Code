@@ -2,29 +2,41 @@
 
 (a)
 
-In General.—In addition to amounts authorized by section 14501 of this title and other amounts made available for the Appalachian development highway system program, the following amounts may be appropriated to the Appalachian Regional Commission to carry out this subtitle:
+In General.—In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle—
 
-&emsp;(1) $88,000,000 for each of the fiscal years 2002–2004.
+&emsp;(1) $87,000,000 for fiscal year 2008;
 
-&emsp;(2) $90,000,000 for fiscal year 2005.
+&emsp;(2) $100,000,000 for fiscal year 2009;
 
-&emsp;(3) $92,000,000 for fiscal year 2006.
+&emsp;(3) $105,000,000 for fiscal year 2010;
+
+&emsp;(4) $108,000,000 for fiscal year 2011; and
+
+&emsp;(5) $110,000,000 for fiscal year 2012.
 
 (b)
 
-Telecommunications and Technology Initiative.—Of the amounts made available under subsection (a), the following amounts are available to carry out section 14504 of this title:
+Economic and Energy Development Initiative.—Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
 
-&emsp;(1) $10,000,000 for fiscal year 2002.
+&emsp;(1) $12,000,000 for fiscal year 2008;
 
-&emsp;(2) $8,000,000 for fiscal year 2003.
+&emsp;(2) $12,500,000 for fiscal year 2009;
 
-&emsp;(3) $5,000,000 for each of the fiscal years 2004–2006.
+&emsp;(3) $13,000,000 for fiscal year 2010;
+
+&emsp;(4) $13,500,000 for fiscal year 2011; and
+
+&emsp;(5) $14,000,000 for fiscal year 2012.
 
 (c)
 
 Availability.—Amounts made available under subsection (a) remain available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278.)
+(d)
+
+Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041.)
 
 Historical and Revision Notes
 
@@ -41,4 +53,12 @@ Historical and Revision Notes
 40 App.:401.
 
 Pub. L. 89–4, title IV, §401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, §122, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, §109, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, §212, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, §121, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, §3(5), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, §1822(a)(3), (4), Aug. 13, 1981, 95 Stat. 767; Pub. L 105–393, title II, §221, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, §10, Mar. 12, 2002, 116 Stat. 70.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
+
+Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
+
+Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
 

@@ -1,6 +1,6 @@
 ### §3056h. Eligibility for workforce investment activities
 
-Eligible individuals under this subchapter may be considered by local workforce investment boards and one-stop operators established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) to satisfy the requirements for receiving services under such title I that are applicable to adults.
+Eligible individuals under this subchapter may be considered by local workforce investmentboards and one-stop operators established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) to satisfy the requirements for receiving services under such title I that are applicable to adults.
 
 (Pub. L. 89–73, title V, §510, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2580.)
 

@@ -12,7 +12,7 @@ For purposes of this subpart, the term “controlled foreign corporation” mean
 
 #### (b) Special rule for insurance
 
-For purposes only of taking into account income described in section 953(a) (relating to insurance income), the term “controlled foreign corporation” includes not only a foreign corporation as defined by subsection (a) but also one of which more than 25 percent of the total combined voting power of all classes of stock (or more than 25 percent of the total value of stock) is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such corporation, if the gross amount of premiums or other consideration in respect of the reinsurance or the issuing of insurance or annuity contracts described in section 953(a)(1) <sup>1</sup> exceeds 75 percent of the gross amount of all premiums or other consideration in respect of all risks.
+For purposes only of taking into account income described in section 953(a) (relating to insurance income), the term “controlled foreign corporation” includes not only a foreign corporation as defined by subsection (a) but alsoone of which more than 25 percent of the total combined voting power of all classes of stock (or more than 25 percent of the total value of stock) is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such corporation, if the gross amount of premiums or other consideration in respect of the reinsurance or the issuing of insurance or annuity contracts described in section 953(a)(1) <sup>1</sup> exceeds 75 percent of the gross amount of all premiums or other consideration in respect of all risks.
 
 #### (c) United States person
 
@@ -30,7 +30,7 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 > For purposes of subparagraphs (A) and (B) of paragraph (2), the determination as to whether income was derived from the active conduct of a trade or business within a possession shall be made under regulations prescribed by the Secretary.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a),1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### References in Text
 
@@ -76,7 +76,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
+Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, propertyacquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
 
 “(3)
 

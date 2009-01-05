@@ -68,7 +68,7 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;&emsp;(iii) approved by the administering agency of the State designated under subsection (c)(1); and
 
-&emsp;&emsp;&emsp;(iv) approved by each Federal agency having jurisdiction over the affected lands under such terms and conditions as the head of the Federal agency determines to be appropriate, except that the approval shall be contingent on compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.);
+&emsp;&emsp;&emsp;(iv) approved by each Federal agency having jurisdiction over the affected lands under such terms and conditions as the head of the Federal agency determines to be appropriate, except that the approval shall be contingent on compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.);
 
 &emsp;&emsp;(E) acquisition of easements and fee simple title to property for recreational trails or recreational trail corridors;
 
@@ -84,7 +84,7 @@ Use of apportionments.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraphs (B), (C), and (D), of the apportionments made to a State for a fiscal year to carry out this section—
+In general.—Except as provided in subparagraphs (B) and (C), of the apportionments made to a State for a fiscal year to carry out this section—
 
 &emsp;&emsp;&emsp;(i) 40 percent shall be used for recreational trail or related projects that facilitate diverse recreational trail use within a recreational trail corridor, trailside, or trailhead, regardless of whether the project is for diverse motorized use, for diverse nonmotorized use, or to accommodate both motorized and nonmotorized recreational trail use;
 
@@ -216,7 +216,7 @@ Public access.—Any use of the apportionments to a State to carry out this sect
 
 Contract Authority.—Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170.)
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576.)
 
 #### References in Text
 
@@ -233,6 +233,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2
 A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 #### Amendments
+
+2008—Subsec. (d)(3)(A). Pub. L. 110–244 substituted “(B) and (C)” for “(B), (C), and (D)” in introductory provisions.
 
 2005—Subsec. (d)(2). Pub. L. 109–59, §1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
 

@@ -25,35 +25,36 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | &nbsp; |  |  |  |
 | Army National Guard: |  |  |  |
 | 20,000 | 1,500 | 850 | 325&nbsp;&nbsp; |
-| 22,000 | 1,650 | 930 | 350&nbsp;&nbsp; |
-| 24,000 | 1,790 | 1,010 | 370&nbsp;&nbsp; |
-| 26,000 | 1,930 | 1,085 | 385&nbsp;&nbsp; |
-| 28,000 | 2,070 | 1,160 | 400&nbsp;&nbsp; |
-| 30,000 | 2,200 | 1,235 | 405&nbsp;&nbsp; |
-| 32,000 | 2,330 | 1,305 | 408&nbsp;&nbsp; |
-| 34,000 | 2,450 | 1,375 | 411&nbsp;&nbsp; |
-| 36,000 | 2,570 | 1,445 | 411&nbsp;&nbsp; |
-| 38,000 | 2,670 | 1,515 | 411&nbsp;&nbsp; |
-| 40,000 | 2,770 | 1,580 | 411&nbsp;&nbsp; |
-| 42,000 | 2,837 | 1,644 | 411&nbsp;&nbsp; |
+| 22,000 | 1,650 | 930 | 350   |
+| 24,000 | 1,790 | 1,010 | 378&nbsp;&nbsp; |
+| 26,000 | 1,930 | 1,085 | 395&nbsp;&nbsp; |
+| 28,000 | 2,070 | 1,168 | 420&nbsp;&nbsp; |
+| 30,000 | 2,200 | 1,245 | 445&nbsp;&nbsp; |
+| 32,000 | 2,330 | 1,315 | 460&nbsp;&nbsp; |
+| 34,000 | 2,450 | 1,385 | 470&nbsp;&nbsp; |
+| 36,000 | 2,570 | 1,455 | 480&nbsp;&nbsp; |
+| 38,000 | 2,670 | 1,527 | 490&nbsp;&nbsp; |
+| 40,000 | 2,770 | 1,590 | 500&nbsp;&nbsp; |
+| 42,000 | 2,837 | 1,655 | 505&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
 | Marine Corps Reserve: |  |  |  |
-| 1,100 | 106 | 56 | 20&nbsp;&nbsp; |
-| 1,200 | 110 | 60 | 21&nbsp;&nbsp; |
-| 1,300 | 114 | 63 | 22&nbsp;&nbsp; |
-| 1,400 | 118 | 66 | 23&nbsp;&nbsp; |
-| 1,500 | 121 | 69 | 24&nbsp;&nbsp; |
-| 1,600 | 124 | 72 | 25&nbsp;&nbsp; |
-| 1,700 | 127 | 75 | 26&nbsp;&nbsp; |
-| 1,800 | 130 | 78 | 27&nbsp;&nbsp; |
-| 1,900 | 133 | 81 | 28&nbsp;&nbsp; |
-| 2,000 | 136 | 84 | 29&nbsp;&nbsp; |
-| 2,100 | 139 | 87 | 30&nbsp;&nbsp; |
-| 2,200 | 141 | 90 | 31&nbsp;&nbsp; |
-| 2,300 | 143 | 92 | 32&nbsp;&nbsp; |
-| 2,400 | 145 | 94 | 33&nbsp;&nbsp; |
-| 2,500 | 147 | 96 | 34&nbsp;&nbsp; |
-| 2,600 | 149 | 98 | 35&nbsp;&nbsp; |
+| 1,000 | 99 | 63 | 20&nbsp;&nbsp; |
+| 1,200 | 103 | 67 | 21&nbsp;&nbsp; |
+| 1,300 | 107 | 70 | 22&nbsp;&nbsp; |
+| 1,400 | 111 | 73 | 23&nbsp;&nbsp; |
+| 1,500 | 114 | 76 | 24&nbsp;&nbsp; |
+| 1,600 | 117 | 79 | 25&nbsp;&nbsp; |
+| 1,700 | 120 | 82 | 26&nbsp;&nbsp; |
+| 1,800 | 123 | 85 | 27&nbsp;&nbsp; |
+| 1,900 | 126 | 88 | 28&nbsp;&nbsp; |
+| 2,000 | 129 | 91 | 29&nbsp;&nbsp; |
+| 2,100 | 132 | 94 | 30&nbsp;&nbsp; |
+| 2,200 | 134 | 97 | 31&nbsp;&nbsp; |
+| 2,300 | 136 | 100 | 32&nbsp;&nbsp; |
+| 2,400 | 138 | 103 | 33&nbsp;&nbsp; |
+| 2,500 | 140 | 106 | 34&nbsp;&nbsp; |
+| 2,600 | 142 | 109 | 35&nbsp;&nbsp; |
+| &nbsp; |  |  |  |
 | Air Force Reserve: |  |  |  |
 | 500 | 83 | 85 | 50&nbsp;&nbsp; |
 | 1,000 | 155 | 165 | 95&nbsp;&nbsp; |
@@ -77,17 +78,17 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 7,000 | 472 | 453 | 269&nbsp;&nbsp; |
 | 8,000 | 539 | 512 | 278&nbsp;&nbsp; |
 | 9,000 | 606 | 571 | 287&nbsp;&nbsp; |
-| 10,000 | 673 | 630 | 296&nbsp;&nbsp; |
-| 11,000 | 740 | 688 | 305&nbsp;&nbsp; |
-| 12,000 | 807 | 742 | 314&nbsp;&nbsp; |
-| 13,000 | 873 | 795 | 323&nbsp;&nbsp; |
-| 14,000 | 939 | 848 | 332&nbsp;&nbsp; |
-| 15,000 | 1,005 | 898 | 341&nbsp;&nbsp; |
-| 16,000 | 1,067 | 948 | 350&nbsp;&nbsp; |
-| 17,000 | 1,126 | 998 | 359&nbsp;&nbsp; |
-| 18,000 | 1,185 | 1,048 | 368&nbsp;&nbsp; |
-| 19,000 | 1,235 | 1,098 | 377&nbsp;&nbsp; |
-| 20,000 | 1,283 | 1,148 | 380\. |
+| 10,000 | 673 | 665 | 313&nbsp;&nbsp; |
+| 11,000 | 740 | 759 | 339&nbsp;&nbsp; |
+| 12,000 | 807 | 827 | 353&nbsp;&nbsp; |
+| 13,000 | 873 | 886 | 363&nbsp;&nbsp; |
+| 14,000 | 939 | 945 | 374&nbsp;&nbsp; |
+| 15,000 | 1,005 | 1,001 | 384&nbsp;&nbsp; |
+| 16,000 | 1,067 | 1,057 | 394&nbsp;&nbsp; |
+| 17,000 | 1,126 | 1,113 | 404&nbsp;&nbsp; |
+| 18,000 | 1,185 | 1,169 | 414&nbsp;&nbsp; |
+| 19,000 | 1,235 | 1,224 | 424&nbsp;&nbsp; |
+| 20,000 | 1,283 | 1,280 | 428&nbsp;&nbsp; |
 
 (2) Of the total number of members of the Navy Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
 
@@ -136,9 +137,11 @@ Full-Time Reserve Component Duty Defined.—In this section, the term “full-ti
 
 &emsp;(3) Active duty described in section 708 of title 32.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440.)
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–417 inserted sections of table relating to the Army National Guard, Marine Corps Reserve, and Air National Guard, and struck out corresponding former sections.
 
 2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in introductory provisions and table.
 
@@ -150,7 +153,7 @@ Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) 
 
 Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
 
-Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armedforce who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
+Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of officers of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
@@ -170,7 +173,7 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added su
 
 1993—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or Navy Captain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
 
-1991—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade of Colonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
+1991—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade ofColonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
 
 1989—Subsec. (a). Pub. L. 101–189, §413(b)(2), in table, increased fiscal year limitation on number of reserve officers in grade of Major or Lieutenant Commander, Lieutenant Colonel or Commander, and Colonel or Navy Captain who may be on active duty to, respectively: Army, to 3,219, 1,524, and 364 from 3,030, 1,448, and 351; Navy, to 1,071, 520, and 188 from 1,065, 520, and 188; Air Force, to 575, 532, and 194 from 575, 476, and 190. Marine Corps figures remained unchanged.
 
@@ -196,7 +199,7 @@ Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserv
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94, provided that: “Theamendments made by this section \[amending this section and section 12012 of this title\] shall take effect on October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94, provided that: “The amendments made by this section \[amending this section and section 12012 of this title\] shall take effect on October 1, 2000.”
 
 #### Effective Date of 1998 Amendment
 

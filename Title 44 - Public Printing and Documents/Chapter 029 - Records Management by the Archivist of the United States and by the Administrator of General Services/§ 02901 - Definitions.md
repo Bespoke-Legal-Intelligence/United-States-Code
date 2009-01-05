@@ -52,7 +52,7 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 &emsp;(15) the term “Administrator” means the Administrator of General Services.
 
-(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I,§107(b)(13), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 107–217, §3(<i>l</i>)(2), Aug. 21, 2002, 116 Stat. 1301.)
+(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I, §107(b)(13), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 107–217, §3(<i>l</i>)(2), Aug. 21, 2002, 116 Stat. 1301.)
 
 #### Prior Provisions
 

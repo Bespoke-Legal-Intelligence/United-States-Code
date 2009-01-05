@@ -52,7 +52,7 @@
 
 (5)(A) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
-(B) The position of regional director within such office or entity, and any other position within such office or entity the primary responsibilities of which are to carry out supervisoryfunctions, may not be held by a member of the armed forces on active duty.
+(B) The position of regional director within such office or entity, and any other position within such office or entity the primary responsibilities of which are to carry out supervisory functions, may not be held by a member of the armed forces on active duty.
 
 (d)(1) Subject to paragraph (2), the Office of the Secretary of the Navy shall have sole responsibility within the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, for the function of research and development.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(ii) to the Commandant of the Marine Corps and the Headquarters, Marine Corps; and
 
-&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
+&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and theCommandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
 (e) The Secretary of the Navy shall ensure that the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, do not duplicate specific functions for which the Secretary has assigned responsibility to another of such offices.
 
@@ -109,4 +109,8 @@ Section 325(d) of Pub. L. 100–456 provided that:
 #### Effective Date
 
 Subsecs. (c) and (d) of this section to be implemented not later than 180 days after Oct. 1, 1986, see section 532(a) of Pub. L. 99–433, set out as a note under section 3014 of this title.
+
+#### Exceptions and Adjustments to Limitations on Personnel
+
+Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and for four fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 

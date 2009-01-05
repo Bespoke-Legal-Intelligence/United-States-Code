@@ -6,29 +6,23 @@ There is established a National Board of the Fund for the Improvement of Postsec
 
 #### (b) Membership
 
-#### (1) In general
-
-&emsp;The Secretary shall designate one of the members of the Board as Chairperson of the Board. A majority of the members of the Board shall be public interest representatives, including students, and a minority shall be educational representatives. All members selected shall be individuals able to contribute an important perspective on priorities for improvement in postsecondary education and strategies of educational and institutional change.
-
-#### (2) Appointment of Director
-
-&emsp;The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the “Director”).
+The Secretary shall designate one of the members of the Board as Chairperson of the Board. A majority of the members of the Board shall be public interest representatives, including students, and a minority shall be educational representatives. All members selected shall be individuals able to contribute an important perspective on priorities for improvement in postsecondary education and strategies of educational and institutional change.
 
 #### (c) Duties
 
 The Board shall—
 
-&emsp;(1) advise the Secretary and the Director on priorities for the improvement of postsecondary education and make such recommendations as the Board may deem appropriate for the improvement of postsecondary education and for the evaluation, dissemination, and adaptation of demonstrated improvements in postsecondary educational practice;
+&emsp;(1) advise the Secretary on priorities for the improvement of postsecondary education and make such recommendations as the Board may deem appropriate for the improvement of postsecondary education and for the evaluation, dissemination, and adaptation of demonstrated improvements in postsecondary educational practice;
 
-&emsp;(2) advise the Secretary and the Director on the operation of the Fund for the Improvement of Postsecondary Education, including advice on planning documents, guidelines, and procedures for grant competitions prepared by the Fund; and
+&emsp;(2) advise the Secretary on the operation of the Fund for the Improvement of Postsecondary Education, including advice on planning documents, guidelines, and procedures for grant competitions prepared by the Fund; and
 
 &emsp;(3) meet at the call of the Chairperson, except that the Board shall meet whenever one-third or more of the members request in writing that a meeting be held.
 
 #### (d) Information and assistance
 
-The Director shall make available to the Board such information and assistance as may be necessary to enable the Board to carry out its functions.
+The Secretary shall make available to the Board such information and assistance as may be necessary to enable the Board to carry out its functions.
 
-(Pub. L. 89–329, title VII, §742, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1797.)
+(Pub. L. 89–329, title VII, §742, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1797; amended Pub. L. 110–315, title VII, §707(h)(1), Aug. 14, 2008, 122 Stat. 3360.)
 
 #### Prior Provisions
 
@@ -41,4 +35,12 @@ Another prior section 1138a, Pub. L. 89–329, title XI, §1122, as added Pub. L
 A prior section 742 of Pub. L. 89–329 was classified to section 1132e–1 of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 742 of Pub. L. 89–329 was classified to section 1132c–1 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §707(h)(1)(A), struck out par. (1) designation before “The Secretary shall designate” and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the ‘Director’).”
+
+Subsec. (c)(1), (2). Pub. L. 110–315, §707(h)(1)(B), struck out “and the Director” after “Secretary”.
+
+Subsec. (d). Pub. L. 110–315, §707(h)(1)(C), substituted “Secretary” for “Director”.
 

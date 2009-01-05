@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(II) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
 
-&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person towhom the data is released or disclosed may not further release, disclose, or use such data; and
+&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iv) Such other factors as the Secretary of Defense may prescribe.
 
-&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
+&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may notbe required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
 &emsp;&emsp;(i) to sell or otherwise relinquish to the United States any rights in technical data except—
 
@@ -90,7 +90,7 @@
 
 (d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
-(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategies developed under this section with respect to a weapon system or subsystem shall—
+(e) The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to assess the long-term technical data needs of such systems and subsystems and establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle. Such strategies may include the development of maintenance capabilities within the Department of Defense or competition for contracts for sustainment of such systems or subsystems. Assessments and corresponding acquisition strategiesdeveloped under this section with respect to a weapon system or subsystem shall—
 
 &emsp;(1) be developed before issuance of a contract solicitation for the weapon system or subsystem;
 
@@ -132,7 +132,7 @@ Subsec. (a)(2)(G)(i). Pub. L. 100–180, §808(a)(4)(A), substituted “not othe
 
 Subsec. (a)(2)(G)(ii). Pub. L. 100–180, §808(a)(4)(B), substituted “this section” for “such regulations” and “; or” for period at end.
 
-Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accorded to the United States undersuch regulations” for “of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds”.
+Pub. L. 100–26, §7(a)(4)(B), substituted “in technical data otherwise accorded to the United States under such regulations” for “of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds”.
 
 Subsec. (a)(2)(G)(iii). Pub. L. 100–180, §808(a)(4)(C), added cl. (iii).
 
@@ -148,7 +148,7 @@ Subsec. (c). Pub. L. 100–180, §808(b), substituted “from—” for “from�
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1987 Amendment
 
@@ -171,6 +171,52 @@ Section applicable with respect to solicitations issued after the end of the one
 Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise regulations under section 2320 of title 10, United States Code, to implement subsection (e) of such section (as added by this section), including incorporating policy changes developed under such subsection into Department of Defense Directive 5000.1 and Department of Defense Instruction 5000.2.”
 
 Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
+
+#### Technical Data Rights Under Non-FAR Agreements
+
+Pub. L. 110–417, \[div. A\], title VIII, §822, Oct. 14, 2008, 122 Stat. 4532, provided that:
+
+“(a)
+
+Policy Guidance.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue policy guidance with respect to rights in technical data under a non-FAR agreement. The guidance shall—
+
+&emsp;“(1) establish criteria for defining the legitimate interests of the United States and the party concerned in technical data pertaining to an item or process to be developed under the agreement;
+
+&emsp;“(2) require that specific rights in technical data be established during agreement negotiations and be based upon negotiations between the United States and the potential party to the agreement, except in any case in which the Secretary of Defense determines, on the basis of criteria established in such policy guidance, that the establishment of rights during or through agreement negotiations would not be practicable; and
+
+&emsp;“(3) require the program manager for a major weapon system or an item of personnel protective equipment that is to be developed using a non-FAR agreement to assess the long-term technical data needs of such system or item.
+
+“(b)
+
+Requirement to Include Provisions in Non-FAR Agreements.—A non-FAR agreement shall contain appropriate provisions relating to rights in technical data consistent with the policy guidance issued pursuant to subsection (a).
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘non-FAR agreement’ means an agreement that is not subject to laws pursuant to which the Federal Acquisition Regulation is prescribed, including—
+
+&emsp;&emsp;“(A) a transaction authorized under section 2371 of this title \[probably means Title 10, United States Code\]; and
+
+&emsp;&emsp;“(B) a cooperative research and development agreement.
+
+&emsp;“(2) The term ‘party’, with respect to a non-FAR agreement, means a non-Federal entity and includes any of the following:
+
+&emsp;&emsp;“(A) A contractor and its subcontractors (at any tier).
+
+&emsp;&emsp;“(B) A joint venture.
+
+&emsp;&emsp;“(C) A consortium.
+
+“(d)
+
+Report on Life Cycle Planning for Technical Data Needs.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the requirements in section 2320(e) of title 10, United States Code, for the assessment of long-term technical data needs to sustain major weapon systems. Such report shall include—
+
+&emsp;“(1) a description of all relevant guidance or policies issued;
+
+&emsp;“(2) a description of the extent to which program managers have received training to better assess the long-term technical data needs of major weapon systems and subsystems; and
+
+&emsp;“(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, where all relevant technical data were acquired upon contract award.”
 
 #### Government-Industry Committee on Rights in Technical Data
 

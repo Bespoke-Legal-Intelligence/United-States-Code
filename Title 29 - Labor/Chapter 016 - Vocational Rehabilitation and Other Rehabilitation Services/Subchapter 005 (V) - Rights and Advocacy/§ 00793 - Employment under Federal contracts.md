@@ -18,7 +18,7 @@ If any individual with a disability believes any contractor has failed or refuse
 
 #### (d) Standards used in determining violation of section
 
-The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
+The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
 #### (e) Avoidance of duplicative efforts and inconsistencies
 
@@ -28,7 +28,7 @@ The Secretary shall develop procedures to ensure that administrative complaints 
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 
@@ -53,4 +53,6 @@ Subsec. (b). Pub. L. 99–506, §§103(d)(2)(B), (C), 1001(f)(2), substituted �
 Subsec. (c). Pub. L. 99–506, §1001(f)(3), substituted “The President” for “he” in two places and substituted “the reasons” for “his reasons”.
 
 1978—Subsec. (a). Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -68,7 +68,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–287, §5(47)(A), substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
+1996—Subsec. (b)(1). Pub. L. 104–287, §5(47)(A), substituted “November 2, 1994” for “the date of enactmentof the Federal Railroad Safety Authorization Act of 1994”.
 
 Subsec. (b)(2). Pub. L. 104–287, §5(47)(B), substituted “November 2, 1994” for “such date of enactment”.
 

@@ -196,9 +196,9 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(J) $100,000,000 for the Center for Advanced Aviation System Development;
 
-&emsp;&emsp;(K) $9,862,000 for Airports Technology-Safety; and
+&emsp;&emsp;(K) $9,862,000 for Airports Technology-Safety; <sup>1</sup>
 
-&emsp;&emsp;(L) $7,906,000 for Airports Technology-Efficiency; and
+&emsp;&emsp;(L) $7,906,000 for Airports Technology-Efficiency; and <sup>2</sup>
 
 &emsp;(12) for fiscal year 2007, $356,261,000, including—
 
@@ -224,7 +224,9 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(K) $9,980,000 for Airports Technology-Safety; and
 
-&emsp;&emsp;(L) $8,000,000 for Airports Technology-Efficiency.
+&emsp;&emsp;(L) $8,000,000 for Airports Technology-Efficiency; and
+
+&emsp;(13) $85,507,500 for the 6-month period beginning on October 1, 2008.
 
 (b)
 
@@ -242,7 +244,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 &emsp;(A) submitting a written explanation of the proposed transfer to the Committees on Science and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
 
-&emsp;(B) 30 days have passed after the explanation is submitted or each Committee notifies the Secretary in writing that it does not object to the proposed transfer.
+&emsp;(B) 30 days have passed after the explanation is submitted or each Committee notifies theSecretary in writing that it does not object to the proposed transfer.
 
 (d)
 
@@ -258,13 +260,13 @@ Air Traffic Controller Performance Research.—Necessary amounts may be appropri
 
 Availability of Amounts.—Amounts appropriated under subsection (a) of this section remain available until expended.
 
-(h) <sup>1</sup>
+(h) <sup>3</sup>
 
 Research Grants Program Involving Undergraduate Students.—
 
 &emsp;(1)
 
-Establishment.—The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjectsof relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
+Establishment.—The Administrator of the Federal Aviation Administration shall establish a program to utilize undergraduate and technical colleges, including Historically Black Colleges and Universities and Hispanic Serving Institutions, in research on subjects of relevance to the Federal Aviation Administration. Grants may be awarded under this subsection for—
 
 &emsp;&emsp;(A) research projects to be carried out at primarily undergraduate institutions and technical colleges;
 
@@ -292,7 +294,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582; Pub. L. 110–330, §8, Sept. 30, 2008, 122 Stat. 3719.)
 
 Historical and Revision Notes
 
@@ -355,6 +357,8 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+
+2008—Subsec. (a)(11) to (13). Pub. L. 110–330 struck out “and” at end of subpar. (K) of par. (11), substituted “; and” for period at end of subpar. (L) of par. (12), and added par. (13).
 
 2003—Subsec. (a). Pub. L. 108–176, §701(1), substituted “for conducting civil aviation research and development under sections 44504” for “to carry out sections 44504” in introductory provisions.
 
@@ -440,5 +444,9 @@ Reprogramming.—If any funds authorized by the amendments made by this Act \[am
 
 Notice of Reorganization.—The Administrator of the Federal Aviation Administration shall provide notice to the Committees on Science \[now Science and Technology\], Transportation and Infrastructure, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 30 days before any major reorganization (as determined by the Administrator) of any program of the Federal Aviation Administration for which funds are authorized by this Act.”
 
-<i><sup>1</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

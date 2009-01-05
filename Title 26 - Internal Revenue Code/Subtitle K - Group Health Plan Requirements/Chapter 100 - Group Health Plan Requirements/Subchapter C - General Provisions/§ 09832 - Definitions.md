@@ -106,7 +106,71 @@ For purposes of this chapter—
 
 &emsp;The term “placement”, or being “placed”, for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080; §9805; renumbered §9832, Pub. L. 105–34, title XV, §1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
+#### (6) Family member
+
+&emsp;The term “family member” means, with respect to any individual—
+
+&emsp;&emsp;(A) a dependent (as such term is used for purposes of section 9801(f)(2)) of such individual, and
+
+&emsp;&emsp;(B) any other individual who is a first-degree, second-degree, third-degree, or fourth-degree relative of such individual or of an individual described in subparagraph (A).
+
+#### (7) Genetic information
+
+#### (A) In general
+
+&emsp;&emsp;The term “genetic information” means, with respect to any individual, information about—
+
+&emsp;&emsp;&emsp;(i) such individual's genetic tests,
+
+&emsp;&emsp;&emsp;(ii) the genetic tests of family members of such individual, and
+
+&emsp;&emsp;&emsp;(iii) the manifestation of a disease or disorder in family members of such individual.
+
+#### (B) Inclusion of genetic services and participation in genetic research
+
+&emsp;&emsp;Such term includes, with respect to any individual, any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by such individual or any family member of such individual.
+
+#### (C) Exclusions
+
+&emsp;&emsp;The term “genetic information” shall not include information about the sex or age of any individual.
+
+#### (8) Genetic test
+
+#### (A) In general
+
+&emsp;&emsp;The term “genetic test” means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
+
+#### (B) Exceptions
+
+&emsp;&emsp;The term “genetic test” does not mean—
+
+&emsp;&emsp;&emsp;(i) an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes, or
+
+&emsp;&emsp;&emsp;(ii) an analysis of proteins or metabolites that is directly related to a manifested disease, disorder, or pathological condition that could reasonably be detected by a health care professional with appropriate training and expertise in the field of medicine involved.
+
+#### (9) Genetic services
+
+&emsp;The term “genetic services” means—
+
+&emsp;&emsp;(A) a genetic test;
+
+&emsp;&emsp;(B) genetic counseling (including obtaining, interpreting, or assessing genetic information); or
+
+&emsp;&emsp;(C) genetic education.
+
+#### (10) Underwriting purposes
+
+&emsp;The term “underwriting purposes” means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
+
+&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
+
+&emsp;&emsp;(B) the computation of premium or contribution amounts under the plan or coverage;
+
+&emsp;&emsp;(C) the application of any pre-existing condition exclusion under the plan or coverage; and
+
+&emsp;&emsp;(D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
+
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9805; renumbered §9832, Pub. L. 105–34, title XV, §1531(a)(2), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 110–233, title I, §103(d), May 21, 2008, 122 Stat. 898.)
 
 #### References in Text
 
@@ -120,5 +184,11 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 #### Amendments
 
+2008—Subsec. (d)(6) to (10). Pub. L. 110–233 added pars. (6) to (10).
+
 1997—Pub. L. 105–34 renumbered section 9805 of this title as this section.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–233 applicable with respect to group health plans for plan years beginning after the date that is one year after May 21, 2008, see section 103(f)(2) of Pub. L. 110–233, set out as a note under section 9802 of this title.
 

@@ -39,6 +39,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [1139\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001139%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20rail%20passenger%20accidents.md) | Assistance to families of passengers involved in rail passenger accidents. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER IV—ENFORCEMENT AND PENALTIES
 
 |  |  |
@@ -52,6 +58,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–432, div. A, title V, §501(b), Oct. 16, 2008, 122 Stat. 4897, added item 1139.
 
 2006—Pub. L. 109–443, §5(b), Dec. 21, 2006, 120 Stat. 3300, added item 1138.
 

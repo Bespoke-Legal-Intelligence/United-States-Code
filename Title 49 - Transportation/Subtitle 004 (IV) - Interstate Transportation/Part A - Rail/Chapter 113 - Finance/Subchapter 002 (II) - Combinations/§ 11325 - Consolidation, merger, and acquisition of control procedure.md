@@ -26,7 +26,7 @@
 
 (d) For all applications under this section other than those specified in subsections (b) and (c) of this section, the following conditions apply:
 
-&emsp;(1) Written comments about an application, including comments of the Attorney General and the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
+&emsp;(1) Written comments about an application, including comments of the Attorney Generaland the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
 
 &emsp;(2) The Board must conclude any evidentiary proceedings by the 105th day after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 45th day after the date on which it concludes the evidentiary proceedings.
 

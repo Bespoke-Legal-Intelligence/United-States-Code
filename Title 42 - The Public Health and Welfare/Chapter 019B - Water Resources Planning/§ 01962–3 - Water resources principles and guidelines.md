@@ -54,7 +54,7 @@ It is the policy of the United States that all water resources projects should r
 
 &emsp;&emsp;&emsp;(ii) an explanation of the intent of each revision, how each revision is consistent with this section, and the probable impact of each revision on water resources projects carried out by the Secretary; and
 
-&emsp;&emsp;(B) make the revisions to the principles and guidelines for use by the Secretaryavailable to the public, including on the Internet.
+&emsp;&emsp;(B) make the revisions to the principles and guidelines for use by the Secretary available to the public, including on the Internet.
 
 #### (6) Effect
 

@@ -10,7 +10,7 @@ Removal.—The conductors and supports shall be removed not later than 5 days af
 
 (c)
 
-Indemnification.—The United States Government and the District of Columbia may not incur any expense or damage from the installation, operation, or removal of a temporary overhead conductor or electrical facility. The Inaugural Committee shall indemnify and hold harmless the District of Columbia and the appropriate department, agency, or instrumentality of the Government against any loss or damage, and against any liability arising, from any act of the Inaugural Committee or any agent, licensee, servant, or employee of the Inaugural Committee in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility.
+Indemnification.—The United States Government and the District of Columbia may notincur any expense or damage from the installation, operation, or removal of a temporary overhead conductor or electrical facility. The Inaugural Committee shall indemnify and hold harmless the District of Columbia and the appropriate department, agency, or instrumentality of the Government against any loss or damage, and against any liability arising, from any act of the Inaugural Committee or any agent, licensee, servant, or employee of the Inaugural Committee in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1264.)
 

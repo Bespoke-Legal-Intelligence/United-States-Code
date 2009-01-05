@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
+A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that theamount of such distribution does not exceed the sum of—
 
 &emsp;(1) the estate, inheritance, legacy, and succession taxes (including any interest collected as a part of such taxes) imposed because of such decedent's death, and
 
@@ -20,7 +20,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 &emsp;&emsp;(B) if a petition for redetermination of a deficiency in such estate tax has been filed with the Tax Court within the time prescribed in section 6213, at any time before the expiration of 60 days after the decision of the Tax Court becomes final, or
 
-&emsp;&emsp;(C) if an election has been made under section 6166 and if the time prescribed by thissubparagraph expires at a later date than the time prescribed by subparagraph (B) of this paragraph, within the time determined under section 6166 for the payment of the installments.
+&emsp;&emsp;(C) if an election has been made under section 6166 and if the time prescribed by this subparagraph expires at a later date than the time prescribed by subparagraph (B) of this paragraph, within the time determined under section 6166 for the payment of the installments.
 
 #### (2) Relationship of stock to decedent's estate
 
@@ -76,7 +76,7 @@ Where stock in a corporation is the subject of a generation-skipping transfer (w
 
 #### Amendments
 
-1986—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Under regulations prescribed by the Secretary, where stock in a corporation is subject to tax under section 2601 as a result of a generation-skipping transfer (within the meaning of section 2611(a)), which occurs at or after the death of the deemed transferor (within the meaning of section 2612)—
+1986—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Under regulations prescribed by the Secretary,where stock in a corporation is subject to tax under section 2601 as a result of a generation-skipping transfer (within the meaning of section 2611(a)), which occurs at or after the death of the deemed transferor (within the meaning of section 2612)—
 
 &emsp;“(1) the stock shall be deemed to be included in the gross estate of the deemed transferor;
 

@@ -14,7 +14,7 @@ The Director shall have the following duties:
 
 &emsp;&emsp;(A) the development of policy, protocols, and guidelines;
 
-&emsp;&emsp;(B) the development and management of grant programs and other programs, and theprovision of technical assistance under such programs; and
+&emsp;&emsp;(B) the development and management of grant programs and other programs, and the provision of technical assistance under such programs; and
 
 &emsp;&emsp;(C) the award and termination of grants, cooperative agreements, and contracts.
 

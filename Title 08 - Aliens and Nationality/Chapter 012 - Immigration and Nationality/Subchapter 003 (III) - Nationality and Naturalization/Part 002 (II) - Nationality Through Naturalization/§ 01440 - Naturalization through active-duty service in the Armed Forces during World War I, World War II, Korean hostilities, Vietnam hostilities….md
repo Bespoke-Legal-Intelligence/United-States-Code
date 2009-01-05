@@ -54,7 +54,7 @@ Subsec. (b)(3), (4). Pub. L. 101–649, §407(b)(5)(B), (C), redesignated par. (
 
 Subsec. (b)(1). Pub. L. 90–633, §6, inserted reference to provisions of section 1429 of this title as they relate to deportability.
 
-Subsec. (b)(4). Pub. L. 90–633, §2, inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forcesof the United States were engaged in military operations involving armed conflict with a hostile foreign force.
+Subsec. (b)(4). Pub. L. 90–633, §2, inserted reference to the period of the Vietnam hostilities and to any other subsequent period which the President by Executive order designates as a period in which the Armed Forces of the United States were engaged in military operations involving armed conflict with a hostile foreign force.
 
 1961—Subsecs. (a), (b)(4). Pub. L. 87–301 inserted “or during a period beginning June 25, 1950, and ending July 1, 1955”.
 
@@ -94,7 +94,7 @@ Act June 30, 1950, ch. 443, §4, 64 Stat. 316, as amended June 27, 1952, ch. 477
 
 Ex. Ord. No. 12081, Sept. 18, 1978, 43 F.R. 42237, provided:
 
-By the authority vested in me as President of the United States of America by Section 329 of the Immigration and Nationality Act, as amended by Sections 1 and 2 of the Act of October 24, 1968 (82 Stat. 1343; 8 U.S.C. 1440), and by the authority of Section 3 of that Act of October 24, 1968 (82 Stat. 1344; 8 U.S.C. 1440e), it is hereby ordered that the statutory period of Vietnam hostilities which began on February 28, 1961, shall be deemed to have terminated on October 15, 1978, for the purpose of ending the period in which active-duty service in the Armed Forces qualifies for certain exemptions from the usual requirements for naturalization, including length of residence and fees.
+By the authority vested in me as President of the United States of America by Section 329 of the Immigration and Nationality Act, as amended by Sections 1and 2 of the Act of October 24, 1968 (82 Stat. 1343; 8 U.S.C. 1440), and by the authority of Section 3 of that Act of October 24, 1968 (82 Stat. 1344; 8 U.S.C. 1440e), it is hereby ordered that the statutory period of Vietnam hostilities which began on February 28, 1961, shall be deemed to have terminated on October 15, 1978, for the purpose of ending the period in which active-duty service in the Armed Forces qualifies for certain exemptions from the usual requirements for naturalization, including length of residence and fees.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -108,7 +108,7 @@ Ex. Ord. No. 12939, Nov. 22, 1994, 59 F.R. 61231, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1440 of title 8, United States Code, and in order to provide expedited naturalization for aliens and noncitizen nationals who served in an active-duty status in the Armed Forces of the United States during the period of the Persian Gulf Conflict, it is hereby ordered as follows:
 
-For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordancewith the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
+For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

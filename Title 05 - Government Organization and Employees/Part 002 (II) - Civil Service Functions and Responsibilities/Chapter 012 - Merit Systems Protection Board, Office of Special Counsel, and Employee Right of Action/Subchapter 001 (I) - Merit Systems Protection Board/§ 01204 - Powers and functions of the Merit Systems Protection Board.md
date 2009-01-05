@@ -6,7 +6,7 @@
 
 &emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
-&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
+&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil servicefree of prohibited personnel practices is being adequately protected; and
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
@@ -26,7 +26,7 @@
 
 (e)(1)(A) In any proceeding under subsection (a)(1), any member of the Board may request from the Director of the Office of Personnel Management an advisory opinion concerning the interpretation of any rule, regulation, or other policy directive promulgated by the Office of Personnel Management.
 
-(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness orother individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
+(B)(i) The Merit Systems Protection Board may, during an investigation by the Office of Special Counsel or during the pendency of any proceeding before the Board, issue any order which may be necessary to protect a witness or other individual from harassment, except that an agency (other than the Office of Special Counsel) may not request any such order with regard to an investigation by the Office of Special Counsel from the Board during such investigation.
 
 (ii) An order issued under this subparagraph may be enforced in the same manner as provided for under paragraph (2) with respect to any order under subsection (a)(2).
 
@@ -120,7 +120,7 @@ Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing prov
 
 Subsec. (e)(2). Pub. L. 101–12, §3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
+Subsec. (e)(3). Pub. L. 101–12, §3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)”and inserted “of Personnel Management” after “Office”.
 
 Subsec. (f). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

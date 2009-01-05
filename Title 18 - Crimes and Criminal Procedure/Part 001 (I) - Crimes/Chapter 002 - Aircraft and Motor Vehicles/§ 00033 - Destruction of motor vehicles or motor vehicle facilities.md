@@ -12,7 +12,7 @@ Whoever willfully attempts or conspires to do any of the aforesaid acts—
 
 (b) Whoever is convicted of a violation of subsection (a) involving a motor vehicle that, at the time the violation occurred, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12))) or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23))), shall be fined under this title and imprisoned for any term of years not less than 30, or for life.
 
-(Added July 14, 1956, ch. 595, §1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–88, title IV, §402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, §406(c)(1), Mar. 9, 2006, 120 Stat. 245.)
+(Added July 14, 1956, ch. 595, §1, 70 Stat. 540; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L.104–88, title IV, §402(a), Dec. 29, 1995, 109 Stat. 955; Pub. L. 109–177, title IV, §406(c)(1), Mar. 9, 2006, 120 Stat. 245.)
 
 #### Amendments
 

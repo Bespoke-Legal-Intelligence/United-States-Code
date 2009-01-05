@@ -1,6 +1,6 @@
 ### §9508. General workforce performance management system
 
-(a) In lieu of a performance appraisal system established under section 4302, the Secretary of the Treasury shall, within 1 year after the date of enactment of this section, establish for the Internal Revenue Service a performance management system that—
+(a) In lieu of a performance appraisal system established under section 4302, the Secretary of the Treasury shall, within 1 year after the dateof enactment of this section, establish for the Internal Revenue Service a performance management system that—
 
 &emsp;(1) maintains individual accountability by—
 

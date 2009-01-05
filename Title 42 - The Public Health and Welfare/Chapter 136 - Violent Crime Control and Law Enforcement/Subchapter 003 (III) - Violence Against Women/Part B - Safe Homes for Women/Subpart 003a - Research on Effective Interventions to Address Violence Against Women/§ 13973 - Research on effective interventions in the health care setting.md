@@ -36,5 +36,5 @@ There is authorized to be appropriated to carry out this section, $5,000,000 for
 
 This Act, referred to in subsec. (b)(1)(C), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 
-Section 280g–4 of this title, referred to in subsec. (c), was in the original “section 399O of the Public Health Service Act”, and was translated as referring to the section 399O of the Public Health Service Act added byPub. L. 109–162, §504, to reflect the probable intent of Congress. Another section 399O of the Public Health Service Act is classified to section 280g–3 of this title.
+Section 280g–4 of this title, referred to in subsec. (c), was in the original “section 399O of the Public Health Service Act”, and was translated as referring to the section 399O of the Public Health Service Act added by Pub. L. 109–162, §504, to reflect the probable intent of Congress. Another section 399O of the Public Health Service Act is classified to section 280g–3 of this title.
 

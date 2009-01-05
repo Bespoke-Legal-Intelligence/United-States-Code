@@ -36,7 +36,7 @@ A reference in section 178 of title 28, U.S.C., 1940 ed., to Franklin County in 
 
 References to seizures made, matters done and processes or orders issued respecting waters within the concurrent jurisdiction of the southern and eastern districts, were omitted as unnecessary and covered by the revised language.
 
-Provision for 20 days’ notice of the special term authorized in the discretion of the court in the countiesof Clinton, Jefferson, Onondaga, Oswego, Rensselaer, St. Lawrence, Saratoga, and Schenectady was omitted as unnecessary, in view of section 141 of this title providing for such notice as the district judge orders.
+Provision for 20 days’ notice of the special term authorized in the discretion of the court in the counties of Clinton, Jefferson, Onondaga, Oswego, Rensselaer, St. Lawrence, Saratoga, and Schenectady was omitted as unnecessary, in view of section 141 of this title providing for such notice as the district judge orders.
 
 The special provision permitting any district judge in New York to act as judge in any other district in that State upon request of the resident district judge was omitted, thus making applicable the uniform procedure for designation and assignment of district judges throughout the United States, provided by section 292 of this title.
 

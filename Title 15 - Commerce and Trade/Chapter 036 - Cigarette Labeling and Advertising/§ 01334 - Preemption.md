@@ -14,7 +14,7 @@ No requirement or prohibition based on smoking and health shall be imposed under
 
 1970—Subsec. (b). Pub. L. 91–222 substituted provision that no requirement or prohibition based on smoking and health should be imposed under State law with respect to the advertising or promotion of any cigarettes which packages are labeled in conformity with the provisions of this chapter for provision that no statement relating to smoking and health should be required in the advertising of any cigarettes which packages are labeled in conformity with the provisions of this chapter.
 
-Subsecs. (c), (d). Pub. L. 91–222 struck out subsecs. (c) and (d) relating to the authority of the Federal Trade Commission with respect to unfair or deceptive advertising acts or practices, and reports to Congress by the Secretary of Health, Education, and Welfare and the Federal Trade Commission. See sections 1336 and 1337 of this title.
+Subsecs. (c), (d). Pub. L. 91–222 struck out subsecs. (c) and (d) relating to the authority of the Federal Trade Commission with respect to unfair or deceptive advertising acts or practices, and reports to Congress by the Secretary of Health, Education, and Welfare and theFederal Trade Commission. See sections 1336 and 1337 of this title.
 
 #### Effective Date of 1970 Amendment
 

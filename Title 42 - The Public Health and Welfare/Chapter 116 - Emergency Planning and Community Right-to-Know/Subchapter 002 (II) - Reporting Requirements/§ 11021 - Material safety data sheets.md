@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) Any hazardous component of each such chemical as provided on the material safety data sheet.
 
-&emsp;(B) For purposes of the list under this paragraph, the Administrator may modify the categories of health and physical hazards as set forth under the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency.
+&emsp;(B) For purposes of the list under this paragraph, the Administrator may modify the categories of health and physical hazards as set forth under the Occupational Safety andHealth Act of 1970 \[29 U.S.C. 651 et seq.\] and regulations promulgated under that Act by requiring information to be reported in terms of groups of hazardous chemicals which present similar hazards in an emergency.
 
 #### (3) Treatment of mixtures
 

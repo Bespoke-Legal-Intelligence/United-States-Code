@@ -8,7 +8,7 @@
 
 #### (2) Minimum amount
 
-&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent of the total appropriations for such year under the Act of May 8, 1914 (7 U.S.C. 341 et seq.), and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.), except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
+&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 20 percent of the total appropriations for such year under the Act of May 8, 1914 (7 U.S.C. 341 et seq.), and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.), except that for the purpose of this calculation, the total appropriations shall not include amounts made available under section 3(d) of that Act (7 U.S.C. 343(d)).
 
 #### (3) Uses
 
@@ -80,9 +80,13 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 #### (f) Mailing of correspondence, bulletins, and reports
 
-To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
+To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438.)
+(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L. 110–246, §4(a), title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029.)
+
+#### Amendment of Subsection (b)(2)(A)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (b)(2)(A) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
 
 #### References in Text
 
@@ -90,9 +94,17 @@ Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1),
 
 Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out “Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d).” after “(hereinafter in this section referred to as ‘eligible institutions’).” in par. (1), and substituted “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent” for “Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount notless than 51/2 per centum, and for each fiscal year thereafter an amount not less than 6 per centum” in par. (2).
+2008—Subsec. (a)(2). Pub. L. 110–246, §§7121, 7403(c), substituted “20 percent” for “15 percent” and “under section 3(d) of that Act (7 U.S.C. 343(d))” for “after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary”.
+
+Subsec. (f). Pub. L. 110–246, §7404(b)(2)(A)(i), struck out “under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
+
+2002—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out “Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d).” after “(hereinafter in this section referred to as ‘eligible institutions’).” in par. (1), and substituted “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent” for “Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 51/2 per centum, and for each fiscal year thereafter an amount not less than 6 per centum” in par. (2).
 
 1998—Pub. L. 105–185, §226(c)(2)(A), substituted “University” for “Institute” in section catchline.
 
@@ -113,6 +125,12 @@ Subsec. (b)(2)(B). Pub. L., 97–98, §1431(3), inserted “current at the time 
 Subsec. (c). Pub. L. 97–98, §1431(4), substituted “extension administrator” for “administrative head for extension” and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
 
 Subsec. (d). Pub. L. 97–98, §1431(5), substituted “submitted, as part of the State plan of work,” for “submitted by the proper officials of each institution”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(12) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 #### Effective Date of 1998 Amendment
 

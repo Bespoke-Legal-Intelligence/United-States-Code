@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of suchstock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law the Secretary is authorized to establ
 
 (2) For the purpose of Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for use of the United States.
 
-(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
+(3) Upon the request of the Secretary, the Secretary of the Treasury may invest and reinvestin securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund provided for in paragraph (1). Income accruing from such securities and from any other property held by the Secretary pursuant to paragraph (1) shall be deposited to the credit of the fund and shall be disbursed upon order of the Secretary.
 
 #### (<i>l</i>) Consultants; appointment of advisory committees; compensation and travel expenses
 
@@ -64,7 +64,7 @@ The Secretary is authorized to appoint, without regard to the civil service laws
 
 #### (m) Occupancy preference in rental housing for military personnel
 
-Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assurethat the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
+Whenever he shall determine that, because of location, or other considerations, any rental housing project assisted under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title I of the Housing and Urban Development Act of 1965 could ordinarily be expected substantially to serve the family housing needs of lower income military personnel serving on active duty, the Secretary is authorized to provide for or approve such preference or priority of occupancy of such project by such military personnel as he shall determine is appropriate to assure that the project will serve their needs on a continuing basis notwithstanding the frequency with which individual members of such personnel may be transferred or reassigned to new duty stations.
 
 #### (n) Day care center for children of employees of Department; establishment; fees and charges
 
@@ -124,7 +124,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 &emsp;(B) specify the grounds for approving the waiver; and
 
-&emsp;(C) be maintained in indexed form and made available for public inspection for not lessthan the 3-year period beginning on the date of the waiver.
+&emsp;(C) be maintained in indexed form and made available for public inspection for not less than the 3-year period beginning on the date of the waiver.
 
 #### (r) Program evaluation and monitoring
 
@@ -168,7 +168,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (2) Of the amounts authorized to be appropriated by this section, $96,000,000 shall be available for each of the fiscal years 1993 and 1994, which amounts shall be used to provide staff in regional, field, or zone offices of the Department of Housing and Urban Development to review, process, approve, and service applications for mortgage insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] for housing consisting of 5 or more dwelling units.
 
-(3) Of the amounts authorized to be appropriated to carry out this section, not less than $5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
+(3) Of the amounts authorized to be appropriated to carry out this section, not less than$5,000,000 of such amount shall be available for each fiscal year exclusively for the purposes of providing ongoing training and capacity building for Department personnel.
 
 #### (t) Training regarding issues relating to grandparent-headed and relative-headed families
 
@@ -204,7 +204,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (r)(2)(J), is
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (r)(2)(K), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. Title IV of the Act, known as the Homeownership and Opportunity Through HOPE Act, enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of this title and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 202 of Pub. L. 108–186, which is set out in a note under section 1701q of Title 12, Banks and Banking.
+Section 202 of the LEGACY Act of 2003, referred to in subsec. (t), is section 202 of Pub. L. 108–186, which is setout in a note under section 1701q of Title 12, Banks and Banking.
 
 #### Codification
 
@@ -224,7 +224,7 @@ Subsec. (d) is comprised of the first sentence of subsec. (d) of section 7 of Pu
 
 1998—Subsec. (r)(5), (6). Pub. L. 105–362 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Not later than December 31 of each year, the Secretary shall submit to the Congress a report regarding the use of amounts made available under this subsection during the fiscal year ending on September 30 of that year, including an analysis of the ability of the Department to monitor and evaluate the programs under paragraph (2) and a statement of any needs determined under paragraph (3).”
 
-1994—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for anymortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
+1994—Subsec. (i)(5). Pub. L. 103–233 struck out before last semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
 1992—Subsec. (i)(5). Pub. L. 102–550, §902(b)(1), inserted before semicolon “; except that with respect to any mortgage held by the Secretary, the Secretary shall, subject to the availability of amounts provided in appropriation Acts, implement the authority under this paragraph to reduce the interest rate on the mortgage to a rate not less than the rate for recently issued marketable obligations of the Treasury having a comparable maturity if (and to the extent that) such a reduction, when taken together with other actions authorized under the National Housing Act, is necessary to avoid foreclosure on the mortgage; and except that for any mortgage for which the interest rate is reduced pursuant to an appropriation under the preceding clause, if the Secretary determines that the income or ability of the mortgagor to make interest payments has increased, the Secretary may (not more than once for each such mortgage) increase such interest rate to a rate not exceeding the prevailing market rate, as determined by the Secretary”.
 
@@ -374,7 +374,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

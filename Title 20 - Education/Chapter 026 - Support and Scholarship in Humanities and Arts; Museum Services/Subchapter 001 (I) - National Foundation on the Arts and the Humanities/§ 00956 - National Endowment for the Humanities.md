@@ -38,7 +38,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 #### (d) Coordination and development of Endowment programs with other Federal and non-Federal programs
 
-The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
+The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with dueregard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
 
 #### (e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public
 
@@ -122,7 +122,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
-&emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted inequal amounts among the States and grant recipients which have plans approved by the Chairperson; and
+&emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
 &emsp;(C) 22 per centum of the amount of such excess for such fiscal year shall be allotted among the States and grant recipients which have plans approved by the Chairperson in amounts which bear the same ratio to such excess as the population of the State for which the plan is approved (or, in the case of a grant recipient other than a State, the population of the State in which such grant recipient is located) bears to the population of all the States.
 
@@ -168,7 +168,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 &emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
-&emsp;(C) enabling cultural organizations and institutions to increase audience participationin, and appreciation of, programs sponsored by such organizations and institutions;
+&emsp;(C) enabling cultural organizations and institutions to increase audience participation in, and appreciation of, programs sponsored by such organizations and institutions;
 
 &emsp;(D) stimulating greater cooperation among cultural organizations and institutions especially designed to serve better the communities in which such organizations or institutions are located;
 
@@ -180,7 +180,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 (B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by section 960(a)(3) of this title, unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowment for the Humanities for the purpose of this subsection.
 
-(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) of this section and section 959 of this title.
+(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have thesame authority as is established in subsection (c) of this section and section 959 of this title.
 
 #### (i) Interagency agreements
 
@@ -210,7 +210,7 @@ The Chairperson, with the advice of the National Council on the Humanities, is a
 
 &emsp;(2) The Charles Frankel Prize to honor individuals who have made outstanding contributions to the public understanding of the humanities. Not more than 5 individuals may receive such prize each year. Each prize shall not exceed $5,000.
 
-(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1),107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
+(Pub. L. 89–209, §7, Sept. 29, 1965, 79 Stat. 850; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 91–346, §8, July 20, 1970, 84 Stat. 445; Pub. L. 93–133, §§2(a)(6), 3, Oct. 19, 1973, 87 Stat. 464, 465; Pub. L. 94–462, title I, §§104(a), 105, title III, §301(b), Oct. 8, 1976, 90 Stat. 1971, 1974, 1979; Pub. L. 96–496, title I, §§104, 109(c), Dec. 4, 1980, 94 Stat. 2584, 2591; renumbered title I, §7, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §7 and amended Pub. L. 99–194, title I, §§101(1), 107, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §107\], Nov. 5, 1990, 104 Stat. 1960, 1969.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating t
 
 Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 
-Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “suchStates and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
+Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
 Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 

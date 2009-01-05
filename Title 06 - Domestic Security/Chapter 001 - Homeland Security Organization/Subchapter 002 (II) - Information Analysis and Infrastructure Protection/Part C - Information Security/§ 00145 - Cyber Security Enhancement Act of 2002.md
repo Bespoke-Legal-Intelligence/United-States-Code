@@ -8,7 +8,7 @@ This section may be cited as the “Cyber Security Enhancement Act of 2002”.
 
 #### (1) Directive to the United States Sentencing Commission
 
-&emsp;Pursuant to its authority under section 994(p) of title 28 and in accordance with thissubsection, the United States Sentencing Commission shall review and, if appropriate, amend its guidelines and its policy statements applicable to persons convicted of an offense under section 1030 of title 18.
+&emsp;Pursuant to its authority under section 994(p) of title 28 and in accordance with this subsection, the United States Sentencing Commission shall review and, if appropriate, amend its guidelines and its policy statements applicable to persons convicted of an offense under section 1030 of title 18.
 
 #### (2) Requirements
 

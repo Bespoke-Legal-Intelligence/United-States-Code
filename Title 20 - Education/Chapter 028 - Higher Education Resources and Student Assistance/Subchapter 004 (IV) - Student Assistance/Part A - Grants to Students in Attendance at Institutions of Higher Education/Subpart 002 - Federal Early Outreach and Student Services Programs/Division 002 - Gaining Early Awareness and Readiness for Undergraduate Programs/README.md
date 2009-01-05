@@ -11,8 +11,8 @@ Chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965
 
 - [&sect; 01070a&#8211;21 - Early intervention and college awareness program authorized](%C2%A7%2001070a%E2%80%9321%20-%20Early%20intervention%20and%20college%20awareness%20program%20authorized.md)
 - [&sect; 01070a&#8211;22 - Requirements](%C2%A7%2001070a%E2%80%9322%20-%20Requirements.md)
-- [&sect; 01070a&#8211;23 - Eligible entity plans](%C2%A7%2001070a%E2%80%9323%20-%20Eligible%20entity%20plans.md)
-- [&sect; 01070a&#8211;24 - Early intervention](%C2%A7%2001070a%E2%80%9324%20-%20Early%20intervention.md)
+- [&sect; 01070a&#8211;23 - Applications](%C2%A7%2001070a%E2%80%9323%20-%20Applications.md)
+- [&sect; 01070a&#8211;24 - Activities](%C2%A7%2001070a%E2%80%9324%20-%20Activities.md)
 - [&sect; 01070a&#8211;25 - Scholarship component](%C2%A7%2001070a%E2%80%9325%20-%20Scholarship%20component.md)
 - [&sect; 01070a&#8211;26 - 21st Century Scholar Certificates](%C2%A7%2001070a%E2%80%9326%20-%2021st%20Century%20Scholar%20Certificates.md)
 - [&sect; 01070a&#8211;27 - Evaluation and report](%C2%A7%2001070a%E2%80%9327%20-%20Evaluation%20and%20report.md)

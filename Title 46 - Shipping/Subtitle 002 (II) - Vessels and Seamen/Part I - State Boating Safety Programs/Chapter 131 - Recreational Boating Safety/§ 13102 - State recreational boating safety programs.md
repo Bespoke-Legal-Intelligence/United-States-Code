@@ -1,6 +1,6 @@
 ### §13102. State recreational boating safety programs
 
-(a) To encourage greater State participation and uniformity in boating safety efforts, and particularly to permit the States to assume the greater share of boating safety education, assistance, and enforcement activities, the Secretary shall carry out a national recreational boating safety program. Under this program, the Secretary shall make contracts with, and allocate and distribute amounts to, eligible States to assist them in developing, carrying out, and financing State recreational boating safety programs.
+(a) To encourage greater State participation and uniformity in boating safety efforts, andparticularly to permit the States to assume the greater share of boating safety education, assistance, and enforcement activities, the Secretary shall carry out a national recreational boating safety program. Under this program, the Secretary shall make contracts with, and allocate and distribute amounts to, eligible States to assist them in developing, carrying out, and financing State recreational boating safety programs.
 
 (b) The Secretary shall establish guidelines and standards for the program. In doing so, the Secretary—
 
@@ -76,7 +76,7 @@ Authorization of contracts.—The Secretary of Transportation and the Secretary 
 
 “(3)
 
-Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
+Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate whichdescribes the results of the survey conducted pursuant to this section not later than November 15, 1992.
 
 “(4)
 

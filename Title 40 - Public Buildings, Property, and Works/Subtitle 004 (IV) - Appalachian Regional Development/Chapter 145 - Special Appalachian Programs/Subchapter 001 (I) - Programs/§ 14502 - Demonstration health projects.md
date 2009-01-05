@@ -72,7 +72,13 @@ Standards for making grants.—A grant for the operation of a demonstration heal
 
 &emsp;(2)
 
-Limitation on available amounts.—Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).
+Limitation on available amounts.—Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized to be appropriated by this section, may be made for up to—
+
+&emsp;&emsp;(A) 50 percent of the cost of that operation;
+
+&emsp;&emsp;(B) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent of the cost of that operation; or
+
+&emsp;&emsp;(C) in the case of a project to be carried out for a county for which an at-risk county designation is in effect under section 14526, 70 percent of the cost of that operation.
 
 &emsp;(3)
 
@@ -100,7 +106,7 @@ Maximum Commission Contribution.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), the Commission may contribute not more than 50 percent of any project cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
+In general.—Subject to paragraphs (2) and (3), the Commission may contribute not more than 50 percent of any project cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
 
 &emsp;(2)
 
@@ -110,11 +116,19 @@ Distressed counties.—The maximum Commission contribution for a project to be c
 
 &emsp;&emsp;(B) the maximum federal contribution percentage authorized by this section.
 
+&emsp;(3)
+
+At-risk counties.—The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to the lesser of—
+
+&emsp;&emsp;(A) 70 percent; or
+
+&emsp;&emsp;(B) the maximum Federal contribution percentage authorized by this section.
+
 (g)
 
 Emphasis on Occupational Diseases From Coal Mining.—To provide for the further development of the Appalachian region's human resources, grants under this section shall give special emphasis to programs and research for the early detection, diagnosis, and treatment of occupational diseases arising from coal mining, such as black lung.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1266.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1266; Pub. L. 110–371, §2(b), Oct. 8, 2008, 122 Stat. 4038.)
 
 Historical and Revision Notes
 
@@ -184,7 +198,15 @@ The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 194
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+2008—Subsec. (d)(2). Pub. L. 110–371, §2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
+
+Subsec. (f)(1). Pub. L. 110–371, §2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (f)(3). Pub. L. 110–371, §2(b)(2)(B), added par. (3).
 
 #### Termination of Advisory Committee
 

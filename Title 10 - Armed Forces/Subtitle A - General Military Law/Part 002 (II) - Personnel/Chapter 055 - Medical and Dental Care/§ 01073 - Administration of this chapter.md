@@ -72,13 +72,141 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
+#### Inpatient Mental Health Service
+
+Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: “None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care.”
+
+#### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
+
+Pub. L. 110–181, div. A, title VII, §711, Jan. 28, 2008, 122 Stat. 190, provided that:
+
+“(a)
+
+Requirement for Surveys.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall conduct surveys of health care providers and beneficiaries who use TRICARE in the United States to determine, utilizing a reconciliation of the responses of providers and beneficiaries to such surveys, each of the following:
+
+&emsp;&emsp;“(A) How many health care providers in TRICARE Prime service areas selected under paragraph (3)(A) are accepting new patients under each of TRICARE Standard and TRICARE Extra.
+
+&emsp;&emsp;“(B) How many health care providers in geographic areas in which TRICARE Prime is not offered are accepting patients under each of TRICARE Standard and TRICARE Extra.
+
+&emsp;&emsp;“(C) The availability of mental health care providers in TRICARE Prime service areas selected under paragraph (3)(C) and in geographic areas in which TRICARE Prime is not offered.
+
+&emsp;“(2)
+
+Benchmarks.—The Secretary shall establish for purposes of the surveys required by paragraph (1) benchmarks for primary care and specialty care providers, including mental health care providers, to be utilized to determine the adequacy of the availability of health care providers to beneficiaries eligible for TRICARE.
+
+&emsp;“(3)
+
+Scope of surveys.—The Secretary shall carry out the surveys required by paragraph (1) as follows:
+
+&emsp;&emsp;“(A) In the case of the surveys required by subparagraph (A) of that paragraph, in at least 20 TRICARE Prime service areas in the United States in each of fiscal years 2008 through 2011.
+
+&emsp;&emsp;“(B) In the case of the surveys required by subparagraph (B) of that paragraph, in 20 geographic areas in which TRICARE Prime is not offered and in which significant numbers of beneficiaries who are members of the Selected Reserve reside.
+
+&emsp;&emsp;“(C) In the case of the surveys required by subparagraph (C) of that paragraph, in at least 40 geographic areas.
+
+&emsp;“(4)
+
+Priority for surveys.—In prioritizing the areas which are to be surveyed under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;“(A) consult with representatives of TRICARE beneficiaries and health care and mental health care providers to identify locations where TRICARE Standard beneficiaries are experiencing significant levels of access-to-care problems under TRICARE Standard or TRICARE Extra;
+
+&emsp;&emsp;“(B) give a high priority to surveying health care and mental health care providers in such areas; and
+
+&emsp;&emsp;“(C) give a high priority to surveying beneficiaries and providers located in geographic areas with high concentrations of members of the Selected Reserve.
+
+&emsp;“(5)
+
+Information from providers.—The surveys required by paragraph (1) shall include questions seeking to determine from health care and mental health care providers the following:
+
+&emsp;&emsp;“(A) Whether the provider is aware of the TRICARE program.
+
+&emsp;&emsp;“(B) What percentage of the provider's current patient population uses any form of TRICARE.
+
+&emsp;&emsp;“(C) Whether the provider accepts patients for whom payment is made under the medicare program for health care and mental health care services.
+
+&emsp;&emsp;“(D) If the provider accepts patients referred to in subparagraph (C), whether the provider would accept additional such patients who are not in the provider's current patient population.
+
+&emsp;“(6)
+
+Information from beneficiaries.—The surveys required by paragraph (1) shall include questions seeking information to determine from TRICARE beneficiaries whether they have difficulties in findinghealth care and mental health care providers willing to provide services under TRICARE Standard or TRICARE Extra.
+
+“(b) GAO
+
+Review.—
+
+&emsp;“(1)
+
+Ongoing review.—The Comptroller General shall, on an ongoing basis, review—
+
+&emsp;&emsp;“(A) the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care and mental health care providers—
+
+&emsp;&emsp;&emsp;“(i) that currently accept TRICARE Standard or TRICARE Extra beneficiaries as patients under TRICARE Standard in each TRICARE area as of the date of completion of the review; and
+
+&emsp;&emsp;&emsp;“(ii) that would accept TRICARE Standard or TRICARE Extra beneficiaries as new patients under TRICARE Standard or TRICARE Extra, as applicable, within a reasonable time after the date of completion of the review; and
+
+&emsp;&emsp;“(B) the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care and mental health care under TRICARE Standard in each TRICARE area, including any pending or resolved requests for waiver of payment limits in order to improve access to health care or mental health care in a specific geographic area.
+
+&emsp;“(2)
+
+Reports.—The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a bi-annual basis a report on the results of the review under paragraph (1). Each report shall include the following:
+
+&emsp;&emsp;“(A) An analysis of the adequacy of the surveys under subsection (a).
+
+&emsp;&emsp;“(B) An identification of any impediments to achieving adequacy of availability of health care and mental health care under TRICARE Standard or TRICARE Extra.
+
+&emsp;&emsp;“(C) An assessment of the adequacy of Department of Defense education programs to inform health care and mental health care providers about TRICARE Standard and TRICARE Extra.
+
+&emsp;&emsp;“(D) An assessment of the adequacy of Department of Defense initiatives to encourage health care and mental health care providers to accept patients under TRICARE Standard and TRICARE Extra.
+
+&emsp;&emsp;“(E) An assessment of the adequacy of information available to TRICARE Standard beneficiaries to facilitate access by such beneficiaries to health care and mental health care under TRICARE Standard and TRICARE Extra.
+
+&emsp;&emsp;“(F) An assessment of any need for adjustment of health care and mental health care provider payment rates to attract participation in TRICARE Standard by appropriate numbers of health care and mental health care providers.
+
+&emsp;&emsp;“(G) An assessment of the adequacy of Department of Defense programs to inform members of the Selected Reserve about the TRICARE Reserve Select program.
+
+&emsp;&emsp;“(H) An assessment of the ability of TRICARE Reserve Select beneficiaries to receive care in their geographic area.
+
+“(c)
+
+Effective Date.—This section shall take effect on October 1, 2007.
+
+“(d)
+
+Repeal of Superseded Requirements and Authority.—Section 723 of the National Defense Authorization Act for Fiscal Year 2004 (10 U.S.C. 1073 note) is repealed, effective as of October 1, 2007.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘TRICARE Extra’ means the option of the TRICARE program under which TRICARE Standard beneficiaries may obtain discounts on cost-sharing as a result of using TRICARE network providers.
+
+&emsp;“(2) The term ‘TRICARE Prime’ means the managed care option of the TRICARE program.
+
+&emsp;“(3) The term ‘TRICARE Prime service area’ means a geographic area designated by the Department of Defense in which managed care support contractors develop a managed care network under TRICARE Prime.
+
+&emsp;“(4) The term ‘TRICARE Standard’ means the option of the TRICARE program that is also known as the Civilian Health and Medical Program of the Uniformed Services, as defined in section 1072(4) of title 10, United States Code.
+
+&emsp;“(5) The term ‘TRICARE Reserve Select’ means the option of the TRICARE program that allows members of the Selected Reserve to enroll in TRICARE Standard, pursuant to section 1076d of title 10, United States Code.
+
+&emsp;“(6) The term ‘member of the Selected Reserve’ means a member of the Selected Reserve of the Ready Reserve of a reserve component of the Armed Forces.
+
+&emsp;“(7) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, United States Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
+
+#### Regulations To Establish Criteria for Licensed or Certified Mental Health Counselors Under TRICARE
+
+Pub. L. 110–181, div. A, title VII, §717(a), Jan. 28, 2008, 122 Stat. 196, provided that: “The Secretary of Defense shall prescribe regulations to establish criteria that licensed or certified mental health counselors shall meet in order to be able to independently provide care to TRICARE beneficiaries and receive payment under the TRICARE program for such services. The criteria shall include requirements for education level, licensure, certification, and clinical experience as considered appropriate by the Secretary.”
+
 #### Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel
 
 Pub. L. 110–28, title III, §3307, May 25, 2007, 121 Stat. 137, provided that:
 
 “(a)
 
-Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical HoldPersonnel, and Military Quarters Housing Medical Holdover Personnel.—
+Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel.—
 
 &emsp;“(1)
 
@@ -230,7 +358,7 @@ Pub. L. 109–163, div. A, title VII, §716, Jan. 6, 2006, 119 Stat. 3345, provi
 
 “(a)
 
-Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
+Responsibilities of TRICARE Regional Office.—The responsibilities of each TRICARE RegionalOffice shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
 &emsp;“(1) identifying health care providers who will participate in the TRICARE program and provide the TRICARE Standard option under that program;
 
@@ -328,77 +456,7 @@ Elements.—The report under paragraph (1) shall include—
 
 #### Surveys on Continued Viability of TRICARE Standard
 
-Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, provided that:
-
-“(a)
-
-Requirement for Surveys.—(1) The Secretary of Defense shall conduct surveys in the TRICARE market areas in the United States to determine how many health care providers are accepting new patients under TRICARE Standard in each such market area.
-
-“(2) The Secretary shall carry out the surveys in at least 20 TRICARE market areas in the United States each fiscal year after fiscal year 2003 until all such market areas in the United States have been surveyed. The Secretary shall complete six of the fiscal year 2004 surveys not later than March 31, 2004.
-
-“(3) In prioritizing the market areas for the sequence in which market areas are to be surveyed under this subsection, the Secretary shall consult with representatives of TRICARE beneficiaries and health care providers to identify locations where TRICARE Standard beneficiaries are experiencing significant levels of access-to-care problems under TRICARE Standard and shall give a high priority to surveying health care providers in such areas.
-
-“(4) Surveys required by paragraph (1) shall include questions seeking to determine from health care providers the following:
-
-&emsp;“(A) Whether the provider is aware of the TRICARE program.
-
-&emsp;“(B) What percentage of the provider's current patient population uses any form of TRICARE.
-
-&emsp;“(C) Whether the provider accepts patients for whom payment is made under the medicare program for health care services.
-
-&emsp;“(D) If the provider accepts patients referred to in subparagraph (C), whether the provider would accept additional such patients who are not in the provider's current patient population.
-
-“(b)
-
-Supervision.—(1) The Secretary shall designate a senior official of the Department of Defense to take the actions necessary for achieving and maintaining participation of health care providers in TRICARE Standard in each TRICARE market area in a number that is adequate to ensure the viability of TRICARE Standard for TRICARE beneficiaries in that market area.
-
-“(2) The official designated under paragraph (1) shall have the following duties:
-
-&emsp;“(A) To educate health care providers about TRICARE Standard.
-
-&emsp;“(B) To encourage health care providers to accept patients under TRICARE Standard.
-
-&emsp;“(C) To ensure that TRICARE beneficiaries have the information necessary to locate TRICARE Standard providers readily.
-
-&emsp;“(D) To recommend adjustments in TRICARE Standard provider payment rates that the official considers necessary to ensure adequate availability of TRICARE Standard providers for TRICARE Standard beneficiaries.
-
-“(c) GAO
-
-Review.—(1) The Comptroller General shall, on an ongoing basis, review—
-
-&emsp;“(A) the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers—
-
-&emsp;&emsp;“(i) that currently accept TRICARE Standard beneficiaries as patients under TRICARE Standard in each TRICARE market area (as of the date of completion of the review); and
-
-&emsp;&emsp;“(ii) that would accept TRICARE Standard beneficiaries as new patients under TRICARE Standard in each TRICARE market area (within a reasonable time after the date of completion of the review); and
-
-&emsp;“(B) the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area.
-
-“(2)(A) The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a semiannual report on the results of the review under paragraph (1). The first semiannual report shall be submitted not later than June 30, 2004.
-
-“(B) The semiannual report under subparagraph (A) shall include the following:
-
-&emsp;“(i) An analysis of the adequacy of the surveys under subsection (a).
-
-&emsp;“(ii) The adequacy of existing statutory authority to address inadequate levels of participation by health care providers in TRICARE Standard.
-
-&emsp;“(iii) Identification of policy-based obstacles to achieving adequacy of availability of TRICARE Standard health care in the TRICARE market areas.
-
-&emsp;“(iv) An assessment of the adequacy of Department of Defense education programs to inform health care providers about TRICARE Standard.
-
-&emsp;“(v) An assessment of the adequacy of Department of Defense initiatives to encourage health care providers to accept patients under TRICARE Standard.
-
-&emsp;“(vi) An assessment of the adequacy of information available to TRICARE Standard beneficiaries to facilitate access by such beneficiaries to health care under TRICARE Standard.
-
-&emsp;“(vii) Any need for adjustment of health care provider payment rates to attract participation in TRICARE Standard by appropriate numbers of health care providers.
-
-“(d)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘TRICARE Standard’ means the option of the TRICARE program that is also known as the Civilian Health and Medical Program of the Uniformed Services, as defined in section 1072(4) of title 10, United States Code.
-
-&emsp;“(2) The term ‘United States’ means the United States (as defined in section 101(a) of title 10, United States Code), its possessions (as defined in such section), and the Commonwealth of Puerto Rico.”
+Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
 
 #### Modernization of TRICARE Business Practices and Increase of Use of Military Treatment Facilities
 
@@ -438,7 +496,7 @@ Areas of Implementation.—The Secretary shall implement the system required by 
 
 “(d)
 
-Plan for Improved Portability of Benefits.—Not later than March 15, 2001, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to provide portability and reciprocity of benefits for allenrollees under the TRICARE program throughout all TRICARE regions.
+Plan for Improved Portability of Benefits.—Not later than March 15, 2001, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to provide portability and reciprocity of benefits for all enrollees under the TRICARE program throughout all TRICARE regions.
 
 “(e)
 
@@ -734,7 +792,7 @@ Pub. L. 104–201, div. A, title VII, subtitle C, Sept. 23, 1996, 110 Stat. 2592
 
 &emsp;“(6) The term ‘enrollee’ means a covered beneficiary who enrolls with a designated provider.
 
-&emsp;“(7) The term ‘health care services’ means the health care services provided under the health plan known as the ‘TRICARE PRIME’ option under the TRICARE program.
+&emsp;“(7) The term ‘health care services’ means the health care services provided under the health planknown as the ‘TRICARE PRIME’ option under the TRICARE program.
 
 &emsp;“(8) The term ‘Secretary’ means the Secretary of Defense.
 
@@ -748,7 +806,7 @@ Inclusion in System.—The health care delivery system of the uniformed services
 
 “(b)
 
-Agreements to Provide Managed Health Care Services.—(1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated providerwill provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
+Agreements to Provide Managed Health Care Services.—(1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
 “(2) The agreement shall be entered into on a sole source basis. The Federal Acquisition Regulation, except for those requirements regarding competition, issued pursuant to section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)) shall apply to the agreements as acquisitions of commercial items.
 
@@ -824,7 +882,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 “(2)(A) The designated provider may market such services to, and enroll, covered beneficiaries who—
 
-&emsp;“(i) do not have other primary health insurance coverage (other than Medicare coverage) covering basic primary care and inpatient and outpatient services;
+&emsp;“(i) do not have other primary health insurance coverage (other than Medicare coverage) coveringbasic primary care and inpatient and outpatient services;
 
 &emsp;“(ii) subject to the limitation in subparagraph (B), have other primary health insurance coverage (other than Medicare coverage) covering basic primary care and inpatient and outpatient services; or
 
@@ -916,7 +974,7 @@ Pub. L. 104–106, div. A, title VII, §715, Feb. 10, 1996, 110 Stat. 375, as am
 
 Provision of Training.—The Secretary of Defense shall implement a professional educational program to provide appropriate training in health care management and administration—
 
-&emsp;“(1) to each commander, deputy commander, and managed care coordinator of a military medical treatment facility of the Department of Defense, and any other person, who is selected to serve as a leadagent to coordinate the delivery of health care by military and civilian providers under the TRICARE program; and
+&emsp;“(1) to each commander, deputy commander, and managed care coordinator of a military medical treatment facility of the Department of Defense, and any other person, who is selected to serve as a lead agent to coordinate the delivery of health care by military and civilian providers under the TRICARE program; and
 
 &emsp;“(2) to appropriate members of the support staff of the treatment facility who will be responsible for daily operation of the TRICARE program.
 
@@ -992,7 +1050,7 @@ Pub. L. 103–160, div. A, title VII, §731, Nov. 30, 1993, 107 Stat. 1696, as a
 
 “(a)
 
-Use of Model.—The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
+Use of Model.—The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for coveredbeneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
 
 “(b)
 
@@ -1000,7 +1058,7 @@ Elements of Option.—The Secretary shall offer covered beneficiaries who enroll
 
 “(c)
 
-Government Costs.—The health benefit option required under subsection (a) shall be administered so that the costs incurred by the Secretary under the TRICARE program are no greater than the costs thatwould otherwise be incurred to provide health care to the members of the uniformed services and covered beneficiaries who participate in the TRICARE program.
+Government Costs.—The health benefit option required under subsection (a) shall be administered so that the costs incurred by the Secretary under the TRICARE program are no greater than the costs that would otherwise be incurred to provide health care to the members of the uniformed services and covered beneficiaries who participate in the TRICARE program.
 
 “(d)
 
@@ -1054,17 +1112,17 @@ Definitions.—For purposes of this section:
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, titleVII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 
-Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535, provided that:
+Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, §1063(i), Jan. 28, 2008, 122 Stat. 324, provided that:
 
 “(a)
 
 Establishment.—Not later than December 31, 2003, the Secretary of Defense shall establish a working group on the provision of military health care to persons who rely for health care on health care facilities located at military installations—
 
-&emsp;“(1) inside the United States that are selected for closure or realignment in the 2005 round of realignments and closures authorized by sections 2912, 2913, and 2914 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as added by title XXX of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 155 \[115\] Stat. 1342); or
+&emsp;“(1) inside the United States that are selected for closure or realignment in the 2005 round of realignments and closures authorized by sections 2912, 2913, and 2914 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), as added by title XXX of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1342); or
 
 &emsp;“(2) outside the United States that are selected for closure or realignment as a result of force posture changes.
 
@@ -1124,7 +1182,7 @@ Treatment of Limitation on Funds for Program.—No provision of law stated as a 
 
 #### Extension of CHAMPUS Reform Initiative for Certain States
 
-Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, That competitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
+Pub. L. 102–172, title VIII, §8032, Nov. 26, 1991, 105 Stat. 1178, provided: “That notwithstanding any other provision of law, the CHAMPUS Reform Initiative contract for California and Hawaii shall be extended until February 1, 1994, within the limits and rates specified in the contract: <i>Provided further</i>, That the Department shall competitively award contracts for the geographic expansion of the CHAMPUS Reform Initiative in Florida (which may include Department of Veterans Affairs medical facilities with the concurrence of the Secretary of Veterans Affairs), Washington, Oregon, and the Tidewater region of Virginia: <i>Provided further</i>, Thatcompetitive expansion of the CHAMPUS Reform Initiative may occur in any other regions that the Assistant Secretary of Defense for Health Affairs deems appropriate.”
 
 #### Conditions on Expansion of CHAMPUS Reform Initiative
 

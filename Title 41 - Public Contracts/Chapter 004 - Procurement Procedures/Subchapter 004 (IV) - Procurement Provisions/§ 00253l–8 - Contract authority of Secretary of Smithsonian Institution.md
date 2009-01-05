@@ -6,7 +6,7 @@ The Secretary of the Smithsonian Institution may—
 
 &emsp;(1) enter into multi-year contracts for the acquisition of property and services under the authority of section 254c of this title; and
 
-&emsp;(2) enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year under the authority of section 253<i>l</i> of this title.
+&emsp;(2) enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal yearunder the authority of section 253<i>l</i> of this title.
 
 #### (b) Effective date
 

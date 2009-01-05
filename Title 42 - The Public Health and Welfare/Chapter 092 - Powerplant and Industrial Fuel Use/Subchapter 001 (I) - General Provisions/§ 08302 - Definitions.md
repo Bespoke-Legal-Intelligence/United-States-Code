@@ -88,7 +88,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
-&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
+&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hourand the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
 &emsp;(11) The term “new major fuel-burning installation” means—
 
@@ -150,7 +150,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(18)(A) The term “peakload powerplant” means a powerplant the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 1,500 hours.
 
-&emsp;(B) The term “intermediate load powerplant” means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
+&emsp;(B) The term “intermediate load powerplant” means a powerplant (other than a peakload powerplant), the electrical generation of which in kilowatt hours does not exceed, forany 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
 &emsp;(C) The term “base load powerplant” means a powerplant the electrical generation of which in kilowatt hours exceeds, for any 12-calendar-month period, such powerplant's design capacity multiplied by 3,500 hours.
 
@@ -162,7 +162,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(B) any other form of useful energy (such as steam, gas, or heat) which is, or will be, used for industrial, commercial, or space heating purposes.
 
-&emsp;(20) The term “cost”, unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors whichare included in planning for the production, transmission, and distribution of electric power within such system.
+&emsp;(20) The term “cost”, unless the context indicates otherwise, means total costs (both operating and capital) incurred over the estimated remaining useful life of an electric powerplant, discounted to present value, as determined by the Secretary (in the case of powerplants, in consultation with the State regulatory authorities). In the case of an electric powerplant, such costs shall take into account any change required in the use of existing electric powerplants in the relevant dispatching system and other economic factors which are included in planning for the production, transmission, and distribution of electric power within such system.
 
 &emsp;(21) The term “State regulatory authority” means any State agency which has ratemaking authority with respect to the sale of electricity by any State regulated electric utility.
 
@@ -216,7 +216,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, whichis classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

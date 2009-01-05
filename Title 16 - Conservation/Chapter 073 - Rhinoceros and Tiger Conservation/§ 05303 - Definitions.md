@@ -40,7 +40,7 @@ multinational species conservation fund” in Pub. L. 105–277, §101(e) \[titl
 
 #### Amendments
 
-2002—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
+2002—Par. (3). Pub. L. 107–112 substituted “the account established by division A, section 101(e), title I ofPublic Law 105–277 under the heading ‘
 
 multinational species conservation fund’ ” for “Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title”.
 

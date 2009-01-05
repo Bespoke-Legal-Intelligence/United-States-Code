@@ -16,7 +16,7 @@ National Security Objectives for National Technology and Industrial Base.—It i
 
 &emsp;(3) Maintaining advanced research and development activities to provide the armed forces with systems capable of ensuring technological superiority over potential adversaries.
 
-&emsp;(4) Reconstituting within a reasonable period the capability to develop and produce supplies and equipment, including technologicallyadvanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
+&emsp;(4) Reconstituting within a reasonable period the capability to develop and produce supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
 &emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
 
@@ -56,9 +56,49 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+#### Executive Agent for Printed Circuit Board Technology
+
+Pub. L. 110–417, \[div. A\], title II, §256, Oct. 14, 2008, 122 Stat. 4404, provided that:
+
+“(a)
+
+Executive Agent.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall designate a senior official of the Department of Defense to act as the executive agent for printed circuit board technology.
+
+“(b)
+
+Roles, Responsibilities, and Authorities.—
+
+&emsp;“(1)
+
+Establishment.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
+
+&emsp;“(2)
+
+Specification.—The roles and responsibilities of the executive agent designated under subsection (a) shall include each of the following:
+
+&emsp;&emsp;“(A) Development and maintenance of a printed circuit board and interconnect technology roadmap that ensures that the Department of Defense has access to the manufacturing capabilities and technical expertise necessary to meet future military requirements regarding such technology.
+
+&emsp;&emsp;“(B) Development of recommended funding strategies necessary to meet the requirements of the roadmap developed under subparagraph (A).
+
+&emsp;&emsp;“(C) Assessment of the vulnerabilities, trustworthiness, and diversity of the printed circuit board supply chain, including the development of trustworthiness requirements for printed circuit boards used in defense systems, and to develop strategies to address matters that are identified as a result of such assessment.
+
+&emsp;&emsp;“(D) Such other roles and responsibilities as the Secretary of Defense considers appropriate.
+
+“(c)
+
+Support Within Department of Defense.—In accordance with Directive 5101.1, the Secretary of Defense shall ensure that the military departments, Defense Agencies, and other components of the Department of Defense provide the executive agent designated under subsection (a) with the appropriate support and resources needed to perform the roles, responsibilities, and authorities of the executive agent.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘Directive 5101.1’ means Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.
+
+&emsp;“(2) The term ‘executive agent’ has the meaning given the term ‘DoD Executive Agent’ in Directive 5101.1.”
+
 #### Requirement for Separate Reports on Technology Area Review and Assessment Summaries
 
-Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, provided that: “Whenever the Secretary of Defense provides for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary shall, not later than March 1 of the year following the year in which that study is conducted, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing a summary of each such Technology Area Review and Assessment conducted during that year.”
+Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, provided that whenever the Secretary of Defense provided for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary, not later than March 1 of the year following the year in which that study was conducted, was to submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report containing a summary of each such Technology Area Review and Assessment conducted during that year, prior to repeal by Pub. L. 110–181, div. A, title II, §236, Jan. 28, 2008, 122 Stat. 47.
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
@@ -82,7 +122,7 @@ Assessment Program.—(1) The Secretary of Defense shall establish a program to 
 
 “(b)
 
-Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:
+Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items andcomponents, the following information from existing sources shall be used for purposes of the assessment program:
 
 &emsp;“(A) Whether the contractor is a United States or foreign contractor.
 
@@ -202,7 +242,7 @@ Report.—(1) Not later than November 1 of each year, beginning with November 1,
 
 “(a)
 
-Establishment of Fund.—There is established in the Treasury of the United States a separate fund tobe known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
 
 “(b)
 
@@ -304,7 +344,7 @@ Matters Studied.—(1) The study shall review and assess whether such changes as
 
 &emsp;“(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program.
 
-&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science andtechnology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
+&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
 
 &emsp;“(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs.
 
@@ -386,7 +426,7 @@ Short-Term Objectives.—(1) The Secretary of the Air Force shall establish a ta
 
 &emsp;“(A) consider the work of the integrated product team conducted pursuant to paragraph (5); and
 
-&emsp;“(B) identify the science and technology work of the Air Force that should be undertaken to eliminate each deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
+&emsp;“(B) identify the science and technology work of the Air Force that should be undertaken to eliminateeach deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
 
 “(e)
 
@@ -396,7 +436,7 @@ Comptroller General Review.—(1) Not later than 90 days after the Secretary of 
 
 #### Report by Under Secretary of Defense for Acquisition, Technology, and Logistics
 
-Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit tothe congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
+Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, required the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit to the congressional defense committees a report on the actions necessary to promote the research base and technological development needed for ensuring that the Armed Forces had the military capabilities necessary for meeting national security requirements over the next two to three decades.
 
 #### Sense of Congress on Defense Science and Technology Program
 
@@ -468,7 +508,7 @@ Synergistic management of research and development.—It is the sense of Congres
 
 Management of science and technology.—It is the sense of Congress that—
 
-&emsp;&emsp;“(A) management and funding for the Defense Science and Technology Program for each military department should receive a level of priority and leadership attention equal to the level received by program acquisition, and the Secretary of each military department should ensure that a senior official in the department holds the appropriate title and responsibility to ensure effective oversight and emphasis on science and technology;
+&emsp;&emsp;“(A) management and funding for the Defense Science and Technology Program for each military department should receive a level of priority andleadership attention equal to the level received by program acquisition, and the Secretary of each military department should ensure that a senior official in the department holds the appropriate title and responsibility to ensure effective oversight and emphasis on science and technology;
 
 &emsp;&emsp;“(B) to ensure an appropriate long-term focus for investments, a sufficient percentage of science and technology funds should be directed toward new technology areas, and annual reviews should be conducted for ongoing research areas to ensure that those funded initiatives are either integrated into acquisition programs or discontinued when appropriate;
 
@@ -624,7 +664,7 @@ Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, titl
 
 “(a)
 
-Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
+Notice Requirement After Enactment of Appropriations Act.—Each year, not later than 60 daysafter the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
 
 &emsp;“(1) shall identify each contract (if any) under major defense programs of the Department of Defense that will be terminated or substantially reduced as a result of the funding levels provided in that Act; and
 

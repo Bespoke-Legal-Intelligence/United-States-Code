@@ -14,7 +14,93 @@ The Associate Administrator—
 
 &emsp;(3) shall report to and be responsible directly to the Administrator.
 
-#### (c) Authorization of appropriations
+#### (c) Interagency task force
+
+#### (1) Establishment
+
+&emsp;Not later than 90 days after February 14, 2008, the President shall establish an interagency task force to coordinate the efforts of Federal agencies necessary to improve capital and business development opportunities for, and ensure achievement of the pre-established Federal contracting goals for, small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans (in this section referred to as the “task force”).
+
+#### (2) Membership
+
+&emsp;The members of the task force shall include—
+
+&emsp;&emsp;(A) the Administrator, who shall serve as chairperson of the task force; and
+
+&emsp;&emsp;(B) a senior level representative from—
+
+&emsp;&emsp;&emsp;(i) the Department of Veterans Affairs;
+
+&emsp;&emsp;&emsp;(ii) the Department of Defense;
+
+&emsp;&emsp;&emsp;(iii) the Administration (in addition to the Administrator);
+
+&emsp;&emsp;&emsp;(iv) the Department of Labor;
+
+&emsp;&emsp;&emsp;(v) the Department of the Treasury;
+
+&emsp;&emsp;&emsp;(vi) the General Services Administration;
+
+&emsp;&emsp;&emsp;(vii) the Office of Management and Budget; and
+
+&emsp;&emsp;&emsp;(viii) 4 representatives from a veterans service organization or military organization or association, selected by the President.
+
+#### (3) Duties
+
+&emsp;The task force shall—
+
+&emsp;&emsp;(A) consult regularly with veterans service organizations and military organizations in performing the duties of the task force; and
+
+&emsp;&emsp;(B) coordinate administrative and regulatory activities and develop proposals relating to—
+
+&emsp;&emsp;&emsp;(i) improving capital access and capacity of small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through loans, surety bonding, and franchising;
+
+&emsp;&emsp;&emsp;(ii) ensuring achievement of the pre-established Federal contracting goals for small business concerns owned and controlled by service-disabled veterans and small business concerns owned and controlled by veterans through expanded mentor-prote�AE1ge�AE1 assistance and matching such small business concerns with contracting opportunities;
+
+&emsp;&emsp;&emsp;(iii) increasing the integrity of certifications of status as a small business concern owned and controlled by service-disabled veterans or a small business concern owned and controlled by veterans;
+
+&emsp;&emsp;&emsp;(iv) reducing paperwork and administrative burdens on veterans in accessing business development and entrepreneurship opportunities;
+
+&emsp;&emsp;&emsp;(v) increasing and improving training and counseling services provided to small business concerns owned and controlled by veterans; and
+
+&emsp;&emsp;&emsp;(vi) making other improvements relating to the support for veterans business development by the Federal Government.
+
+#### (d) Participation in TAP Workshops
+
+#### (1) In general
+
+&emsp;The Associate Administrator shall increase veteran outreach by ensuring that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the workshops of the Transition Assistance Program of the Department of Labor.
+
+#### (2) Presentations
+
+&emsp;In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separated veterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
+
+#### (3) Written materials
+
+&emsp;The Associate Administrator shall—
+
+&emsp;&emsp;(A) create written materials that provide comprehensive information on self-employment and veterans entrepreneurship, including information on resources available from the Administration on such topics; and
+
+&emsp;&emsp;(B) make the materials created under subparagraph (A) available to the Secretary of Labor for inclusion in the Transition Assistance Program manual.
+
+#### (4) Reports
+
+&emsp;The Associate Administrator shall submit to Congress progress reports on the implementation of this subsection.
+
+#### (e) Women veterans business training
+
+The Associate Administrator shall—
+
+&emsp;(1) compile information on existing resources available to women veterans for business training, including resources for—
+
+&emsp;&emsp;(A) vocational and technical education;
+
+&emsp;&emsp;(B) general business skills, such as marketing and accounting; and
+
+&emsp;&emsp;(C) business assistance programs targeted to women veterans; and
+
+&emsp;(2) disseminate the information compiled under paragraph (1) through Veteran Business Outreach Centers and women's business centers.
+
+#### (f) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section—
 
@@ -22,13 +108,19 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(2) $2,000,000 for fiscal year 2006.
 
-(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455.)
+(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625.)
 
 #### Prior Provisions
 
-A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–186, §102(2), added subsec. (c). Former subsec. (c) redesignated (f).
+
+Subsecs. (d), (e). Pub. L. 110–186, §104, added subsecs. (d) and (e).
+
+Subsec. (f). Pub. L. 110–186, §102(1), redesignated subsec. (c) as (f).
 
 2004—Subsec. (c). Pub. L. 108–447 added subsec. (c).
 
@@ -58,7 +150,7 @@ Pub. L. 106–50, title I, §102, Aug. 17, 1999, 113 Stat. 234, provided that: �
 
 #### Advisory Committee on Veterans Business Affairs
 
-Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by Pub. L. 108–447, div. K, title I, §143(b), Dec. 8, 2004, 118 Stat. 3455, provided that:
+Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by Pub. L. 108–447, div. K, title I, §143(b), Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §103(b), Feb. 14, 2008, 122 Stat. 625, provided that:
 
 “(a)
 
@@ -210,11 +302,7 @@ Expenses.—The members of the Committee shall be reimbursed for travel and subs
 
 “(g)
 
-Report.—Not later than 30 days after the end of each fiscal year beginning after the date of the enactment of this section \[Aug. 17, 1999\], the Committee shall transmit to the Congress and the President a report describing the activities of the Committee and any recommendations developed by the Committee for the promotion of small business concerns owned and controlled by veterans.
-
-“(h)
-
-Termination.—The Committee shall terminate its business on September 30, 2006.”
+Report.—Not later than 30 days after the end of each fiscal year beginning after the date of the enactment of this section \[Aug. 17, 1999\], the Committee shall transmit to the Congress and the President a report describing the activities of the Committee and any recommendations developed by the Committee for the promotion of small business concerns owned and controlled by veterans.”
 
 #### SCORE Program
 
@@ -236,7 +324,7 @@ Resources.—The Administrator shall provide to SCORE such resources as the Admi
 
 #### Entrepreneurial Assistance
 
-Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that: “Not later than 180 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Secretary of Veterans Affairs, the Administrator of the Small Business Administration, and the head of the association formed pursuant to section 21(a)(3)(A) of the Small Business Act (15 U.S.C. 648(a)(3)(A)) shall enter into a memorandum of understanding with respect to entrepreneurial assistance to veterans, including service-disabled veterans, through Small Business Development Centers (described in section 21 of the Small Business Act (15 U.S.C. 648)) and facilities of the Department of Veterans Affairs. Such assistance shall include the following:
+Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that: “Not later than 180 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Secretary of Veterans Affairs, the Administrator of the Small Business Administration, and the head of the association formed pursuant to section 21(a)(3)(A) of theSmall Business Act (15 U.S.C. 648(a)(3)(A)) shall enter into a memorandum of understanding with respect to entrepreneurial assistance to veterans, including service-disabled veterans, through Small Business Development Centers (described in section 21 of the Small Business Act (15 U.S.C. 648)) and facilities of the Department of Veterans Affairs. Such assistance shall include the following:
 
 &emsp;“(1) Conducting of studies and research, and the distribution of information generated by such studies and research, on the formation, management, financing, marketing, and operation of small business concerns by veterans.
 
@@ -254,7 +342,7 @@ Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 #### Annual Report of Administrator
 
-Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concernsowned and controlled by service-disabled veterans, which shall include information on—
+Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
 &emsp;“(1) the availability of Small Business Administration programs for such small business concerns and the degree of utilization of such programs by such small business concerns during the preceding 12-month period, including statistical information on such utilization as compared to the small business community as a whole;
 

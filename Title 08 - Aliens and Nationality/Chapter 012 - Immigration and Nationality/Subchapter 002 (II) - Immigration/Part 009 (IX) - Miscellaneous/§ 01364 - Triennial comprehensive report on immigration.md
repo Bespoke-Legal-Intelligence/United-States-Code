@@ -12,7 +12,7 @@ Each report shall include—
 
 &emsp;(2) a reasonable estimate of the number of aliens who entered the United States during the period without visas or who became deportable during the period under section 237 of the Immigration and Nationality Act \[8 U.S.C. 1227\]; and
 
-&emsp;(3) a description of the impact of admissions and other entries of immigrants, refugees, asylees, and parolees into the United States during the period on the economy, labor and housing markets, the educational system, social services, foreign policy, environmental quality and resources, the rate, size, and distribution of population growth in the United States, and the impact on specific States and local units of government of high rates of immigration resettlement.
+&emsp;(3) a description of the impact of admissions and other entries of immigrants, refugees, asylees, and parolees into the United States during the period on the economy, labor and housing markets, the educational system, social services, foreign policy, environmentalquality and resources, the rate, size, and distribution of population growth in the United States, and the impact on specific States and local units of government of high rates of immigration resettlement.
 
 #### (c) History and projections
 
@@ -54,7 +54,7 @@ Section 1. The Secretary of Homeland Security shall: (a) perform, in coordinatio
 
 (b) perform, except for the functions in section 402(3)(A), the functions vested in the President by section 402 of the Reform Act (8 U.S.C. 1324a note); and
 
-(c) perform, insofar as they relate to the initial report described in section 404(b), the functions vested inthe President by section 404 of the Reform Act (8 U.S.C. 1255a note).
+(c) perform, insofar as they relate to the initial report described in section 404(b), the functions vested in the President by section 404 of the Reform Act (8 U.S.C. 1255a note).
 
 Sec. 2. The Secretary of Labor shall: (a) perform the functions vested in the President by section 402(3)(A) of the Reform Act (8 U.S.C. 1324a note);
 

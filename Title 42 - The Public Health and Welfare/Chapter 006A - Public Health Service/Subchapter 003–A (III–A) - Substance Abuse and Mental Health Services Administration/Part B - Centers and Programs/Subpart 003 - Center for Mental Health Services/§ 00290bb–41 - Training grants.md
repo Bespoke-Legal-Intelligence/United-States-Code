@@ -34,7 +34,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (6) Evaluation
 
-&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that receives a grant under thissubsection shall prepare and submit an evaluation to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including an evaluation of activities carried out with funds received under the grant under this subsection and a process and outcome evaluation.
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that receives a grant under this subsection shall prepare and submit an evaluation to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including an evaluation of activities carried out with funds received under the grant under this subsection and a process and outcome evaluation.
 
 #### (7) Authorization of appropriations
 

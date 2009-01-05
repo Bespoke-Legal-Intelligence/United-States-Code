@@ -12,11 +12,11 @@
 
 The Secretary of Homeland Security shall revise the program developed under subsection (a) of this section not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
 
-(Pub. L. 104–201, div. A, title XIV, §1415, Sept. 23, 1996, 110 Stat. 2720; Pub. L. 107–314, div. C, title XXXI, §3154(a), Dec. 2, 2002, 116 Stat. 2738; Pub. L. 109–163, div. A, title X, §1032, Jan. 6, 2006, 119 Stat. 3428.)
+(Pub. L. 104–201, div. A, title XIV, §1415, Sept. 23, 1996, 110 Stat. 2720; Pub. L. 107–314, div. C, titleXXXI, §3154(a), Dec. 2, 2002, 116 Stat. 2738; Pub. L. 109–163, div. A, title X, §1032, Jan. 6, 2006, 119 Stat. 3428.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–163, §1032(a)(1), substituted “nuclear, radiological, chemical, or” for “chemical or” in heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §1032(a)(1), substituted “nuclear, radiological, chemical, or” for “chemical or” in heading.
 
 Subsec. (a)(1). Pub. L. 109–163, §1032(a)(2), substituted “Secretary of Homeland Security” for “Secretary of Defense” and “nuclear, radiological, biological, and” for “biological weapons and related materials and emergencies involving”.
 
@@ -28,7 +28,7 @@ Subsecs. (b), (c). Pub. L. 109–163, §1032(b), (c), redesignated subsec. (c) a
 
 Subsecs. (d), (e). Pub. L. 109–163, §1032(d), struck out heading and text of subsecs. (d) and (e) which related to option to transfer responsibility for programs under this section and to funding, respectively.
 
-2002—Subsecs. (a)(2), (b)(2). Pub. L. 107–314 substituted “of fiscal years 1997 through 2013” for “of five successive fiscal years beginning with fiscal year 1997”.
+<b>2002</b>—Subsecs. (a)(2), (b)(2). Pub. L. 107–314 substituted “of fiscal years 1997 through 2013” for “of five successive fiscal years beginning with fiscal year 1997”.
 
 #### Construction of Extension With Designation of Attorney General as Lead Official
 

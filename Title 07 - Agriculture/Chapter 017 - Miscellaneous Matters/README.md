@@ -8,6 +8,7 @@
 | 412 to 414. Transferred or Repealed. |  |
 | [414a.](%C2%A7%2000414a%20-%20Transfer%20of%20nonadministrative%20funds%20of%20Commodity%20Credit%20Corporation%20for%20classing%20and%20grading%20purposes.md) | Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes. |
 | [415\.](%C2%A7%2000415%20-%20Purchase%20of%20seeds%20and%20plants%20for%20distribution.md) | Purchase of seeds and plants for distribution. |
+| 415–1. | Seed distribution. |
 | [415a.](%C2%A7%2000415a%20-%20Omitted.md) | Omitted. |
 | [415b.](%C2%A7%2000415b%20-%20Wool%20standards%3B%20appropriation%20of%20certain%20funds.md) | Wool standards; appropriation of certain funds. |
 | [415c.](%C2%A7%2000415c%20-%20Use%20of%20funds%20for%20dissemination%20of%20information%20relating%20to%20standardization%2C%20grading%2C%20etc.%2C%20of%20wool%3B%20charge%20for%20grading%20wool.md) | Use of funds for dissemination of information relating to standardization, grading, etc., of wool; charge for grading wool. |
@@ -91,6 +92,7 @@
 - [&sect; 00414 - Repealed. Aug. 9, 1955, ch. 632, &sect;2, 69 Stat. 553](%C2%A7%2000414%20-%20Repealed.%20Aug.%209%2C%201955%2C%20ch.%20632%2C%20%C2%A72%2C%2069%20Stat.%20553.md)
 - [&sect; 00414a - Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes](%C2%A7%2000414a%20-%20Transfer%20of%20nonadministrative%20funds%20of%20Commodity%20Credit%20Corporation%20for%20classing%20and%20grading%20purposes.md)
 - [&sect; 00415 - Purchase of seeds and plants for distribution](%C2%A7%2000415%20-%20Purchase%20of%20seeds%20and%20plants%20for%20distribution.md)
+- [&sect; 00415&#8211;1 - Seed distribution](%C2%A7%2000415%E2%80%931%20-%20Seed%20distribution.md)
 - [&sect; 00415a - Omitted](%C2%A7%2000415a%20-%20Omitted.md)
 - [&sect; 00415b - Wool standards; appropriation of certain funds](%C2%A7%2000415b%20-%20Wool%20standards%3B%20appropriation%20of%20certain%20funds.md)
 - [&sect; 00415c - Use of funds for dissemination of information relating to standardization, grading, etc., of wool; charge for grading wool](%C2%A7%2000415c%20-%20Use%20of%20funds%20for%20dissemination%20of%20information%20relating%20to%20standardization%2C%20grading%2C%20etc.%2C%20of%20wool%3B%20charge%20for%20grading%20wool.md)

@@ -40,7 +40,7 @@ Section 30 of the Organic Act of Guam, referred to in introductory provisions, i
 
 2007—Pars. (4), (5). Pub. L. 110–172 redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of this section, the term ‘possession of the United States’ includes the Canal Zone.”
 
-1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
+1986—Par. (5)(B). Pub. L. 99–514 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N ofchapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
 1984—Par. (5)(B). Pub. L. 98–369, §801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
 
@@ -76,7 +76,7 @@ Pub. L. 95–134, title IV, §402, Oct. 15, 1977, 91 Stat. 1163, provided that: 
 
 Pub. L. 95–30, title IV, §407, May 23, 1977, 91 Stat. 156, provided that:
 
-“(a) The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of thisAct \[amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title\]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
+“(a) The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of this Act \[amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title\]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
 
 “(b) There are hereby authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this section.”
 

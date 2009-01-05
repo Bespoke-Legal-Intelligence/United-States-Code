@@ -14,7 +14,7 @@ The Secretary of Labor shall promulgate regulations necessary to carry out this 
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $4,000,000 for fiscal year1989, and $5,000,000 for each of the fiscal years 1990 and 1991.
+There are authorized to be appropriated to carry out this section, $4,000,000 for fiscal year 1989, and $5,000,000 for each of the fiscal years 1990 and 1991.
 
 (Pub. L. 100–690, title II, §2101, Nov. 18, 1988, 102 Stat. 4216.)
 

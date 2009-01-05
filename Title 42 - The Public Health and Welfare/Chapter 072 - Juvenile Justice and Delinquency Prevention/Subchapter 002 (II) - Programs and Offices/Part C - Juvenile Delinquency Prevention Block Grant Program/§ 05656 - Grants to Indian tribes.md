@@ -4,7 +4,7 @@
 
 #### (1) Application
 
-&emsp;To be eligible to receive a grant under section 5651(b) of this title, an Indian tribe shallsubmit to the Administrator an application in accordance with this section, in such form and containing such information as the Administrator may require by rule.
+&emsp;To be eligible to receive a grant under section 5651(b) of this title, an Indian tribe shall submit to the Administrator an application in accordance with this section, in such form and containing such information as the Administrator may require by rule.
 
 #### (2) Plans
 
@@ -84,7 +84,7 @@ Each Indian tribe that receives a grant under this section shall be subject to t
 
 A prior section 5656, Pub. L. 93–415, title II, §245, formerly §246, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 94–273, §2(27), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–115, §3(a)(3), (5), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §19(m), Dec. 8, 1980, 94 Stat. 2765; renumbered §245, Pub. L. 98–473, title II, §635, Oct. 12, 1984, 98 Stat. 2120, related to annual report by Deputy Administrator on programs funded under this subchapter, prior to repeal by Pub. L. 100–690, title VII, §§7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
 
-A prior section 5657, Pub. L. 93–415, title II, §246, formerly §247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, §5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered §246 andamended Pub. L. 98–473, title II, §636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
+A prior section 5657, Pub. L. 93–415, title II, §246, formerly §247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, §5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered §246 and amended Pub. L. 98–473, title II, §636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
 
 A prior section 5658, Pub. L. 93–415, title II, §248, Sept. 7, 1974, 88 Stat. 1128, set forth provisions relating to restrictions on disclosure and transfer of juvenile records, prior to repeal by Pub. L. 95–115, §5(e)(1), Oct. 3, 1977, 91 Stat. 1057, effective Oct. 1, 1977.
 

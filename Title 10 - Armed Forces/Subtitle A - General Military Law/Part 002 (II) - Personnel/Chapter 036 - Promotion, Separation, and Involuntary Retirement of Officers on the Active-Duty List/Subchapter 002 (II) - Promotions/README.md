@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [619\.](%C2%A7%2000619%20-%20Eligibility%20for%20consideration%20for%20promotion%20time-in-grade%20and%20other%20requirements.md) | Eligibility for consideration for promotion: time-in-grade and other requirements. |
-| [619a.](%C2%A7%2000619a%20-%20Eligibility%20for%20consideration%20for%20promotion%20joint%20duty%20assignment%20required%20before%20promotion%20to%20general%20or%20flag%20grade%3B%20exceptions.md) | Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions. |
+| [619a.](%C2%A7%2000619a%20-%20Eligibility%20for%20consideration%20for%20promotion%20designation%20as%20joint%20qualified%20officer%20required%20before%20promotion%20to%20general%20or%20flag%20grade%E2%80%A6.md) | Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions. |
 | [620\.](%C2%A7%2000620%20-%20Active-duty%20lists.md) | Active-duty lists. |
 | [621\.](%C2%A7%2000621%20-%20Competitive%20categories%20for%20promotion.md) | Competitive categories for promotion. |
 | [622\.](%C2%A7%2000622%20-%20Numbers%20to%20be%20recommended%20for%20promotion.md) | Numbers to be recommended for promotion. |
@@ -15,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §521(b)(2), Oct. 14, 2008, 122 Stat. 4444, added item 619a and struck out former item 619a “Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions”.
 
 1993—Pub. L. 103–160, div. A, title IX, §931(c)(2), Nov. 30, 1993, 107 Stat. 1734, added items 619 and 619a and struck out former item 619 “Eligibility for consideration for promotion”.
 
@@ -28,7 +30,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00619 - Eligibility for consideration for promotion time-in-grade and other requirements](%C2%A7%2000619%20-%20Eligibility%20for%20consideration%20for%20promotion%20time-in-grade%20and%20other%20requirements.md)
-- [&sect; 00619a - Eligibility for consideration for promotion joint duty assignment required before promotion to general or flag grade; exceptions](%C2%A7%2000619a%20-%20Eligibility%20for%20consideration%20for%20promotion%20joint%20duty%20assignment%20required%20before%20promotion%20to%20general%20or%20flag%20grade%3B%20exceptions.md)
+- [&sect; 00619a - Eligibility for consideration for promotion designation as joint qualified officer required before promotion to general or flag grade&#8230;](%C2%A7%2000619a%20-%20Eligibility%20for%20consideration%20for%20promotion%20designation%20as%20joint%20qualified%20officer%20required%20before%20promotion%20to%20general%20or%20flag%20grade%E2%80%A6.md)
 - [&sect; 00620 - Active-duty lists](%C2%A7%2000620%20-%20Active-duty%20lists.md)
 - [&sect; 00621 - Competitive categories for promotion](%C2%A7%2000621%20-%20Competitive%20categories%20for%20promotion.md)
 - [&sect; 00622 - Numbers to be recommended for promotion](%C2%A7%2000622%20-%20Numbers%20to%20be%20recommended%20for%20promotion.md)

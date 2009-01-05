@@ -20,7 +20,7 @@ The Department of Agriculture is designated as the lead agency of the Federal Go
 
 &emsp;(9) in order to promote the coordination of agricultural research of the Department of Agriculture, conduct a continuing inventory of ongoing and completed research projects being conducted within or funded by the Department;
 
-&emsp;(10) coordinate all agricultural research, extension, and teaching activities conducted orfinanced by the Department of Agriculture with the periodic renewable resource assessment and program provided for in sections 1601 and 1602 of title 16 and the appraisal and program provided for in sections 2004 and 2005 of title 16;
+&emsp;(10) coordinate all agricultural research, extension, and teaching activities conducted or financed by the Department of Agriculture with the periodic renewable resource assessment and program provided for in sections 1601 and 1602 of title 16 and the appraisal and program provided for in sections 2004 and 2005 of title 16;
 
 &emsp;(11) coordinate the efforts of States, State cooperative institutions, State extension services, the Advisory Board, and other appropriate institutions in assessing the current status of, and developing a plan for, the effective transfer of new technologies, including biotechnology, to the farming community, with particular emphasis on addressing the unique problems of small- and medium-sized farms in gaining information about those technologies; and
 

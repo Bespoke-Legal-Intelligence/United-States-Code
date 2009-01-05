@@ -13,6 +13,7 @@
 | [411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000411%20-%20Establishment%20of%20the%20Armed%20Forces%20Retirement%20Home.md) | Establishment of the Armed Forces Retirement Home. |
 | [412\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md) | Residents of Retirement Home. |
 | [413\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20residents.md) | Services provided residents. |
+| [413a.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413a%20-%20Improved%20health%20care%20oversight%20of%20Retirement%20Home.md) | Improved health care oversight of Retirement Home. |
 | [414\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000414%20-%20Fees%20paid%20by%20residents.md) | Fees paid by residents. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Chief%20Operating%20Officer.md) | Chief Operating Officer. |
 | [416\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416%20-%20Local%20Boards%20of%20Trustees.md) | Local Boards of Trustees. |

@@ -118,7 +118,7 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 
 #### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
 
-Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, provided that: “This section may be cited as the ‘ED 1.0 Act’.
+Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: “This section may be cited as the ‘ED 1.0 Act’.
 
 &emsp;“(a) In this section:
 
@@ -130,7 +130,7 @@ Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, provid
 
 &emsp;&emsp;&emsp;“(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)(5));
 
-&emsp;&emsp;&emsp;“(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
+&emsp;&emsp;&emsp;“(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
 
 &emsp;&emsp;&emsp;“(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)); or
 
@@ -146,7 +146,7 @@ Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, provid
 
 &emsp;“(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—
 
-&emsp;&emsp;“(i) in which 50 percent of the residents of the county, or other appropriate political subdivisionwhere no counties exist, are members of a racial or ethnic minority;
+&emsp;&emsp;“(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority;
 
 &emsp;&emsp;“(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education;
 

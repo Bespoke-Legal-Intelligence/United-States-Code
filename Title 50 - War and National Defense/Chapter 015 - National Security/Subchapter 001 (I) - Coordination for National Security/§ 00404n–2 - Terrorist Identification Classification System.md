@@ -74,11 +74,11 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(g)(2)(A)(ii), which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”, was executed by making the substitution for “Director of Central Intelligence, acting as head of the Intelligence Community,” in introductory provisions to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(g)(2)(A)(ii), which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence, acting as the head of the intelligence community,”, was executed by making the substitution for “Director of Central Intelligence, acting as head of the Intelligence Community,” in introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 108–458, §1072(d)(1)(A), which directed amendment of subsec. (c) by substituting “section 403–1(i)” for “section 403–3(c)(6)”, was executed by making the substitution for “section 403–3(c)(7)” to reflect the probable intent of Congress and the amendment by Pub. L. 108–177. See 2003 Amendment note below.
 
-2003—Subsecs. (c), (e)(2). Pub. L. 108–177, §377(d), substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
+<b>2003</b>—Subsecs. (c), (e)(2). Pub. L. 108–177, §377(d), substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
 
 #### Effective Date of 2004 Amendment
 

@@ -52,7 +52,7 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 
 #### (1) In general
 
-&emsp;Upon the request of a State, the Secretary may waive the requirements of all or part of the sections described in paragraph (2) using objective criteria established by the Secretary by regulation after consultation with the States and other interested parties including consumers and providers.
+&emsp;Upon the request of a State, the Secretary may waive the requirements of all or part ofthe sections described in paragraph (2) using objective criteria established by the Secretary by regulation after consultation with the States and other interested parties including consumers and providers.
 
 #### (2) Sections
 

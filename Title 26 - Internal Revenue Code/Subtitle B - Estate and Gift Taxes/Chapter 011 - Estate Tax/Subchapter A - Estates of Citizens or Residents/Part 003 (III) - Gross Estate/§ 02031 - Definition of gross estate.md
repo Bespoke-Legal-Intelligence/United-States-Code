@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The value of the gross estate of the decedent shall be determined by including to the extent provided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
+The value of the gross estate of the decedent shall be determined by including to the extentprovided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
 
 #### (b) Valuation of unlisted stock and securities
 
@@ -68,7 +68,7 @@ $500,000.
 
 #### (i) Debt-financed property
 
-&emsp;&emsp;&emsp;The term “debt-financed property” means any property with respect to whichthere is an acquisition indebtedness (as defined in clause (ii)) on the date of the decedent's death.
+&emsp;&emsp;&emsp;The term “debt-financed property” means any property with respect to which there is an acquisition indebtedness (as defined in clause (ii)) on the date of the decedent's death.
 
 #### (ii) Acquisition indebtedness
 
@@ -150,7 +150,7 @@ $500,000.
 
 #### (9) Treatment of easements granted after death
 
-&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deductionunder section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
+&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 

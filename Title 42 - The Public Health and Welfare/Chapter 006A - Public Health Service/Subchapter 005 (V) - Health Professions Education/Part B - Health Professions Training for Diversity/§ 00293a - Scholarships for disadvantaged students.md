@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of this section) under this section for the awarding ofscholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
+The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of this section) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
 
 #### (b) Preference in providing scholarships
 

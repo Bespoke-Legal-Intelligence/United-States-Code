@@ -76,7 +76,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (6) IRA share of partnership income
 
-&emsp;In the case of a trust which is exempt from taxation under section 408(e), for purposes ofthis section, the trust's distributive share of items of gross income and gain of any partnership to which subchapter C or D of chapter 63 applies shall be treated as equal to the trust's distributive share of the taxable income of such partnership.
+&emsp;In the case of a trust which is exempt from taxation under section 408(e), for purposes of this section, the trust's distributive share of items of gross income and gain of any partnership to which subchapter C or D of chapter 63 applies shall be treated as equal to the trust's distributive share of the taxable income of such partnership.
 
 #### (c) Certain income earned abroad or from sale of residence
 
@@ -320,7 +320,7 @@ Effective Date.—Subsection (a) shall apply to taxable years beginning after De
 
 #### Exemption From Filing Requirement for Prior Years Where Income of Political Party was $100 or Less
 
-Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginningafter Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
+Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

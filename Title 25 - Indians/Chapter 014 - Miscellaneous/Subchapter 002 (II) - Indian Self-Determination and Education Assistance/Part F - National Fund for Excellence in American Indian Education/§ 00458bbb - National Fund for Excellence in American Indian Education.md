@@ -30,7 +30,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The Board of Directors shall be the governing body of the Foundation. The Board mayexercise, or provide for the exercise of, the powers of the Foundation.
+&emsp;The Board of Directors shall be the governing body of the Foundation. The Board may exercise, or provide for the exercise of, the powers of the Foundation.
 
 #### (2) Selection
 
@@ -106,7 +106,7 @@ The Foundation shall be liable for the acts of its officers and agents acting wi
 
 #### (m) Transfer of donated funds
 
-The Secretary may transfer to the Foundation funds held by the Department of the Interior under section 451 of this title, if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
+The Secretary may transfer to the Foundation funds held by the Department of the Interiorunder section 451 of this title, if the transfer or use of such funds is not prohibited by any term under which the funds were donated.
 
 #### (n) Audits
 

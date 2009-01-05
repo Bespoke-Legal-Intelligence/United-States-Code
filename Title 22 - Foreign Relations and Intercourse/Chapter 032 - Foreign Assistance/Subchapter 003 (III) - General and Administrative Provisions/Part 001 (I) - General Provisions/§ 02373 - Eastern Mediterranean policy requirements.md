@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration and statement of findings
 
-The Congress declares that the achievement of a just and lasting Cyprus settlement is and willremain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
+The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
 
 &emsp;(1) a just settlement on Cyprus must involve the establishment of a free and independent government on Cyprus and must guarantee that the human rights of all of the people of Cyprus are fully protected;
 
@@ -32,7 +32,7 @@ United States policy regarding Cyprus, Greece, and Turkey shall be directed towa
 
 #### (c) Review of policy; report to Congress
 
-Because progress toward a Cyprus settlement is a high priority of United States policy in the Eastern Mediterranean, the President and the Congress shall continually review that progress and shall determine United States policy in the region accordingly. To facilitate such a review the President shall, within 60 days after the date of enactment of this section and at the end of each succeeding 60-day period, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on progress made toward the conclusion of a negotiated solution of the Cyprus problem. Such transmissions shall include any relevant reports prepared by the Secretary General of the United Nations for the Security Council.
+Because progress toward a Cyprus settlement is a high priority of United States policy in the Eastern Mediterranean, the President and the Congress shall continually review that progress and shall determine United States policy in the region accordingly. To facilitate such a review the President shall, within 60 days after the date of enactment of this section and at the end of each succeeding 60-day period, transmit to the Speaker of the House of Representatives and thechairman of the Committee on Foreign Relations of the Senate a report on progress made toward the conclusion of a negotiated solution of the Cyprus problem. Such transmissions shall include any relevant reports prepared by the Secretary General of the United Nations for the Security Council.
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
@@ -42,7 +42,7 @@ In order to ensure that United States assistance is furnished consistent with th
 
 (1) Any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (Pub. L. 87–195, pt. III, §620C, as added Pub. L. 95–384, §13(b), Sept. 26, 1978, 92 Stat. 737; amended Pub. L. 100–202, §101(e) \[title V, §562\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–171.)
 

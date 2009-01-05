@@ -184,7 +184,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;(ii) a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
 
-&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
+&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level forwhich the percentage determined under subsection (d) of this section will—
 
 &emsp;&emsp;&emsp;&emsp;(I) be equal to the median between the maximum base rate and the minimum base rate; and
 

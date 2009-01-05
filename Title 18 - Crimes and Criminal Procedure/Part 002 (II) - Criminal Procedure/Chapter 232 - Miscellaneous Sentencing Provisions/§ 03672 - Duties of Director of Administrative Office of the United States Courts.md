@@ -12,13 +12,13 @@ He shall, under the supervision and direction of the Judicial Conference of the 
 
 He shall incorporate in his annual report a statement concerning the operation of the probation system in such courts.
 
-He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict or a drug-dependent person, or a person suffering from a psychiatric disorder within the meaning of section 2 of the Public Health Service Act. This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological and vocational services; corrective and preventative guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict or drug-dependent person, or a person suffering from a psychiatric disorder by eliminating his dependence on alcohol or addicting drugs, by controlling his dependence and his susceptibility to addiction, or by treating his psychiatric disorder. He may negotiate and award such contracts without regard to section 3709 of the Revised Statutes of the United States.
+He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict or a drug-dependent person, or a person suffering from a psychiatric disorder within the meaning of section 2 of the Public Health Service Act. This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological and vocational services; corrective and preventative guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict or drug-dependent person, or a person suffering from a psychiatric disorder by eliminating his dependence on alcohol or addicting drugs, by controlling his dependence and his susceptibility to addiction, or by treating his psychiatric disorder. He may negotiate and award contracts identified in this paragraph without regard to section 3709 of the Revised Statutes of the United States. He also shall have the authority to expend funds or to contract with any appropriate public or private agency or person to monitor and provide services to any offender in the community authorized by this Act, including treatment, equipment and emergency housing, corrective and preventative guidance and training, and other rehabilitative services designed to protect the public and promote the successful reentry of the offender into the community.
 
 He shall pay for presentence studies and reports by qualified consultants and presentence examinations and reports by psychiatric or psychological examiners ordered by the court under subsection (b) or (c) of section 3552, except for studies conducted by the Bureau of Prisons.
 
 Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.
 
-(June 25, 1948, ch. 645, 62 Stat. 843, §3656; May 24, 1949, ch. 139, §57, 63 Stat. 97; renumbered §3672, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, §1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, §18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, §20, Dec. 7, 1987, 101 Stat. 1270.)
+(June 25, 1948, ch. 645, 62 Stat. 843, §3656; May 24, 1949, ch. 139, §57, 63 Stat. 97; renumbered §3672, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; Pub. L. 99–570, title I, §1861(b)(1), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 99–646, §18(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 100–182, §20, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 110–199, title II, §253, Apr. 9, 2008, 122 Stat. 693; Pub. L. 110–406, §15(b), Oct. 13, 2008, 122 Stat. 4294.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,15 @@ Section 2 of the Public Health Service Act, referred to in the seventh undesigna
 
 Section 3709 of the Revised Statutes, referred to in the seventh undesignated par., is classified to section 5 of Title 41, Public Contracts.
 
+This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out under section 17501 of Title 42, The Public Health and Welfare, and Tables.
+
 #### Amendments
+
+2008—Pub. L. 110–406, §15(b)(2), which directed insertion of “to expend funds or” after “He shall also have the authority” in fourth sentence of seventh undesignated par., was executed by making the insertion after “He also shall have the authority” to reflect the probable intent of Congress.
+
+Pub. L. 110–406, §15(b)(1), substituted “negotiate and award contracts identified in this paragraph” for “negotiate and award such contracts” in third sentence of seventh undesignated par.
+
+Pub. L. 110–199 inserted last sentence of seventh undesignated par.
 
 1987—Pub. L. 100–182, §20(1), amended seventh undesignated par. generally. Prior to amendment, seventh undesignated par. read as follows: “He shall have the authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, or an addict or a drug-dependent person within the meaning of section 2 of the Public Health Service Act (42 U.S.C. 201). This authority shall include the authority to provide equipment and supplies; testing; medical, educational, social, psychological, and vocational services; corrective and preventive guidance and training; and other rehabilitative services designed to protect the public and benefit the alcohol-dependent person, addict, or drug-dependent person by eliminating his dependence on alcohol or addicting drugs, or by controlling his dependence and his susceptibility to addiction. He may negotiate and award such contracts without regard to section 3709 of the Revised Statutes (41 U.S.C. 5).”
 
@@ -57,6 +65,10 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 Section 18(b) of Pub. L. 99–646 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of such redesignation \[section 3656 of this title renumbered section 3672 effective Nov. 1, 1987\].”
 
 Section 1861(b)(2) of Pub. L. 99–570 provided that: “The amendment made by this section \[probably should be “subsection”, amending this section\] shall take effect on the date of the taking effect of such redesignation \[section 3656 of this title renumbered section 3672 effective Nov. 1, 1987\].”
+
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
 
 #### Authorization of Appropriations
 

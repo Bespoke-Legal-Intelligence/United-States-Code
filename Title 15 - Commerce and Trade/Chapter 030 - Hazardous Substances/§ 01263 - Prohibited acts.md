@@ -18,19 +18,23 @@ The following acts and the causing thereof are prohibited:
 
 (h) The use by any person to his own advantage, or revealing other than to the Commission or officers or employees of the Commission, or to the courts when relevant in any judicial proceeding under this chapter, of any information acquired under authority of section 1270 of this title concerning any method of process which as a trade secret is entitled to protection.
 
-(i) The failure to notify the Consumer Product Safety Commission with respect to exports, pursuant to section 1273(d) of this title.
+(i) The failure to notify the Commission with respect to exports, pursuant to section 1273(d) of this title.
 
 (j) The failure to comply with an order issued under section 1274 of this title.
 
 (k) The introduction or delivery for introduction into interstate commerce of any lead solder which has a lead content in excess of 0.2 percent which does not prominently display a warning label stating the lead content of the solder and warning that the use of such solder in the making of joints or fittings in any private or public potable water supply system is prohibited.
 
-(Pub. L. 86–613, §4, July 12, 1960, 74 Stat. 375; Pub. L. 89–756, §§2(f), 3(b), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 95–631, §7(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, §1211(f)(2), Aug. 13, 1981, 95 Stat. 723; Pub. L. 99–339, title I, §109(d)(2), June 19, 1986, 100 Stat. 653.)
+(Pub. L. 86–613, §4, July 12, 1960, 74 Stat. 375; Pub. L. 89–756, §§2(f), 3(b), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, §7(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, §1211(f)(2), Aug. 13, 1981, 95 Stat. 723; Pub. L. 99–339, title I, §109(d)(2), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, §204(b)(4)(B), (C), (H), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+2008—Subsec. (h). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
+
+Subsec. (i). Pub. L. 110–314, §204(b)(4)(H), substituted “Commission” for “Consumer Product Safety Commission”.
 
 1986—Subsec. (k). Pub. L. 99–339 added subsec. (k).
 
@@ -55,8 +59,4 @@ Amendment by Pub. L. 99–339 effective 24 months after June 19, 1986, see secti
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
-
-#### Transfer of Functions
-
-“Commission” substituted for “Secretary” and for “Department” in subsec. (h) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 

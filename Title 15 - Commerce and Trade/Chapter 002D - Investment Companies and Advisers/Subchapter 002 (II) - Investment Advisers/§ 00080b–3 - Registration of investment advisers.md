@@ -12,7 +12,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;(2) any investment adviser whose only clients are insurance companies;
 
-&emsp;(3) any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registeredunder subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;
+&emsp;(3) any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;
 
 &emsp;(4) any investment adviser that is a charitable organization, as defined in section 3(c)(10)(D) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(10)(D)\], or is a trustee, director, officer, employee, or volunteer of such a charitable organization acting within the scope of such person's employment or duties with such organization, whose advice, analyses, or reports are provided only to one or more of the following:
 
@@ -32,7 +32,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration
 
-(1) An investment adviser, or any person who presently contemplates becoming an investment adviser, may be registered by filing with the Commission an application for registration in such form and containing such of the following information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors:
+(1) An investment adviser, or any person who presently contemplates becoming an investment adviser, may be registered by filing with the Commission an application for registration in such form and containing such of the following information and documents as the Commission,by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors:
 
 &emsp;(A) the name and form of organization under which the investment adviser engages or intends to engage in business; the name of the State or other sovereign power under which such investment adviser is organized; the location of his or its principal business office and branch offices, if any; the names and addresses of his or its partners, officers, directors, and persons performing similar functions or, if such an investment adviser be an individual, of such individual; and the number of his or its employees;
 
@@ -56,7 +56,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred twenty days of the date of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for conclusion of such proceedings for up to ninety days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
 
-> The Commission shall grant such registration if the Commission finds that the requirements of this section are satisfied and that the applicantis not prohibited from registering as an investment adviser under section 80b–3a of this title. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (e) of this section.
+> The Commission shall grant such registration if the Commission finds that the requirements of this section are satisfied and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (e) of this section.
 
 #### (d) Other acts prohibited by subchapter
 
@@ -72,7 +72,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(A) involves the purchase or sale of any security, the taking of a false oath, the making of a false report, bribery, perjury, burglary, any substantially equivalent activity however denominated by the laws of the relevant foreign government, or conspiracy to commit any such offense;
 
-&emsp;&emsp;(B) arises out of the conduct of the business of a broker, dealer, municipal securities dealer, investment adviser, bank, insurance company, government securities broker, government securities dealer, fiduciary, transfer agent, credit rating agency, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or any substantially equivalent statute or regulation;
+&emsp;&emsp;(B) arises out of the conduct of the business of a broker, dealer, municipal securities dealer, investment adviser, bank, insurance company, government securities broker, government securities dealer, fiduciary, transfer agent, credit rating agency, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]or any substantially equivalent statute or regulation;
 
 &emsp;&emsp;(C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
@@ -88,7 +88,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(5) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or the rules or regulations under any such statutes or any rule of the Municipal Securities Rulemaking Board, or is unable to comply with any such provision.
 
-&emsp;(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of suchstatutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
+&emsp;(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], this subchapter, the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
 
 &emsp;&emsp;(A) there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person, and
 
@@ -106,7 +106,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
-&emsp;&emsp;(A) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engaging in the business of securities, insurance, banking, savings association activities, or credit union activities; or
+&emsp;&emsp;(A) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engagingin the business of securities, insurance, banking, savings association activities, or credit union activities; or
 
 &emsp;&emsp;(B) constitutes a final order based on violations of any laws or regulations that prohibit fraudulent, manipulative, or deceptive conduct.
 
@@ -154,7 +154,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
-&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
+&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantialpecuniary gain to the person who committed the act or omission.
 
 #### (3) Determination of public interest
 

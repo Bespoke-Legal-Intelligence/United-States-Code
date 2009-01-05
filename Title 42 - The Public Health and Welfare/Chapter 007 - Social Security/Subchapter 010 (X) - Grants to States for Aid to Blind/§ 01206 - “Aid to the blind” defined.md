@@ -4,7 +4,7 @@ For the purposes of this subchapter, the term “aid to the blind” means money
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such aid through payments described in this sentence;
 
-&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of aid to the blind to be paid (and in conjunction with other income and resources), meet all the need <sup>1</sup> ofthe individuals with respect to whom such payments are made;
+&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of aid to the blind to be paid (and in conjunction with other income and resources), meet all the need <sup>1</sup> of the individuals with respect to whom such payments are made;
 
 &emsp;(3) undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
 

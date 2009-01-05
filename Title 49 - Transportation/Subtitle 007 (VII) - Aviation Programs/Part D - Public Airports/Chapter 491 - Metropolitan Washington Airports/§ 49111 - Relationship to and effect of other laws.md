@@ -26,7 +26,7 @@ Planning.—(1) The authority of the National Capital Planning Commission under 
 
 &emsp;(B) the Commission before undertaking development that would alter the skyline of Ronald Reagan Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
 
-(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 105–225, §7(c)(1)(D), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(j)(1), Apr. 5, 2000, 114 Stat.115; Pub. L. 107–217, §3(n)(9), Aug. 21, 2002, 116 Stat. 1303.)
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213; amended Pub. L. 105–154, §2(a)(1)(D), Feb. 6, 1998, 112 Stat. 3; Pub. L. 105–225, §7(c)(1)(D), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 106–181, title II, §231(j)(1), Apr. 5, 2000, 114 Stat. 115; Pub. L. 107–217, §3(n)(9), Aug. 21, 2002, 116 Stat. 1303.)
 
 Historical and Revision Notes
 

@@ -32,7 +32,7 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 1970—Pub. L. 91–452 inserted reference to section 1968 of this title.
 
-1962—Pub. L. 87–664 substituted section catchline “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” and punished the willful removal, concealment, destruction, mutilation, alteration or falsification of documents which were the subject of a demand under the Antitrust Civil ProcessAct if done with the intent to prevent compliance with a civil investigative demand.
+1962—Pub. L. 87–664 substituted section catchline “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” and punished the willful removal, concealment, destruction, mutilation, alteration or falsification of documents which were the subject of a demand under the Antitrust Civil Process Act if done with the intent to prevent compliance with a civil investigative demand.
 
 #### Effective Date of 1982 Amendment
 

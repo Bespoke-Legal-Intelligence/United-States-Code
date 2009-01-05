@@ -62,7 +62,7 @@ The least-cost energy strategy shall identify Federal priorities, including poli
 
 #### (e) Assumptions
 
-The Secretary shall include in the least-cost energy strategy an identification of all of theassumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
+The Secretary shall include in the least-cost energy strategy an identification of all of the assumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
 
 #### (f) Preference
 

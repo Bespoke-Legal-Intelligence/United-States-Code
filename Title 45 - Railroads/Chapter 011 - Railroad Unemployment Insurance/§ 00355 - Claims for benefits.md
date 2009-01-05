@@ -2,7 +2,7 @@
 
 #### (a) Publication of Board's regulations
 
-Claims for benefits and appeals from determinations with respect thereto shall be made in accordance with such regulations as the Board shall prescribe. Each employer shall post and maintain, in places readily accessible to employees in his service, such printed statements concerning such regulations as the Board supplies to him for such purpose, and shall keep available to his employees copies of such printed statements. Such printed statements shall be supplied by the Board to each employer without cost to him.
+Claims for benefits and appeals from determinations with respect thereto shall be made in accordance with such regulations as the Board shall prescribe. Each employer shall post and maintain, in places readily accessible to employees in his service, such printed statements concerning such regulations as the Board supplies to him for such purpose, and shall keepavailable to his employees copies of such printed statements. Such printed statements shall be supplied by the Board to each employer without cost to him.
 
 #### (b) Findings, hearings, investigations, etc., by Board
 
@@ -64,7 +64,7 @@ In subsec. (f), “Courts of Appeals”, “United States court of appeals for t
 
 1988—Subsec. (b). Pub. L. 100–647, §7104(a), inserted at end “When a claim for benefits is filed with the Board, the Board shall provide notice of such claim to the claimant's base-year employer or employers and afford such employer or employers an opportunity to submit information relevant to the claim before making an initial determination on the claim. When the Board initially determines to pay benefits to a claimant under this chapter, the Board shall provide notice of such determination to the claimant's base-year employer or employers.”
 
-Subsec. (c)(1). Pub. L. 100–647, §7401(b)(1), (2), inserted “(1)” after “(c)” and inserted at end “In any such case the Board or the person or reviewing body so established or assigned shall, by publication or otherwise,notify all parties properly interested of their right to participate in the hearing and of the time and place of the hearing.”
+Subsec. (c)(1). Pub. L. 100–647, §7401(b)(1), (2), inserted “(1)” after “(c)” and inserted at end “In any such case the Board or the person or reviewing body so established or assigned shall, by publication or otherwise, notify all parties properly interested of their right to participate in the hearing and of the time and place of the hearing.”
 
 Subsec. (c)(2). Pub. L. 100–647, §7104(b)(3), inserted “(2)” before “Any claimant whose claim”.
 

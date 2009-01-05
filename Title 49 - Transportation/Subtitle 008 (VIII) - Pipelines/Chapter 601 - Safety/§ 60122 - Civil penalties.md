@@ -114,7 +114,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §11(b), (d); added Nov. 30, 1979
 
 49 App.:2007(d).
 
-In subsection (a)(1), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “including any order issued under sections 1677(b) and 1679b(b)” in 49 App.:1679a(a)(1) and “including any order issued under section 2006(b) or 2008(b)” in 49 App.:2007(a)(1) are omitted as surplus. The word “occurs” is added for clarity.
+In subsection (a)(1), the word “prescribed” is added for consistency in the revised title and with other titlesof the United States Code. The words “including any order issued under sections 1677(b) and 1679b(b)” in 49 App.:1679a(a)(1) and “including any order issued under section 2006(b) or 2008(b)” in 49 App.:2007(a)(1) are omitted as surplus. The word “occurs” is added for clarity.
 
 In subsection (a)(2), the words “is determined by the Secretary to have” are omitted as surplus. The words “for each violation” are added for clarity and consistency. The word “imposed” is substituted for “to which such person may be subject” for consistency and to eliminate unnecessary words.
 

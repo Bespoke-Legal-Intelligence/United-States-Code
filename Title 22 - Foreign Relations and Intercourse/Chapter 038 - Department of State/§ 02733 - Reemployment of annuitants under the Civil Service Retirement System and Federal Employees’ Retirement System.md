@@ -22,5 +22,5 @@ An employee for whom a waiver under this section is in effect shall not be consi
 
 #### Codification
 
-Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which directed that this section be added at the end of title I of the Department of State Basic Authorities Act of 1956, was executed by adding this section at the end of title I of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
+Pub. L. 109–234, title I, §1602(b)(1), June 15, 2006, 120 Stat. 441, which directed that this section be added atthe end of title I of the Department of State Basic Authorities Act of 1956, was executed by adding this section at the end of title I of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 

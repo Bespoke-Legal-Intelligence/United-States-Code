@@ -12,7 +12,7 @@ Establishment.—The Secretary of Transportation shall establish a program for m
 
 &emsp;&emsp;(ii) facilitate the continued or greater use of railroad transportation for freight shipments; and
 
-&emsp;&emsp;(iii) reduce the use of less fuel efficient modes of transportation in the transportation of such shipments; and
+&emsp;&emsp;(iii) reduce the use of less fuel efficient modes of transportation in the transportation of such shipments; or
 
 &emsp;&emsp;(B) demonstrate innovative technologies and advanced research and development that increase fuel economy, reduce greenhouse gas emissions, and lower the costs of operation.
 
@@ -58,13 +58,13 @@ Wage rates.—Wage rates in a collective bargaining agreement negotiated under t
 
 (f)
 
-Study.—The Secretary shall conduct a study of the projects carried out with grant assistance under this section to determine the extent to which the program helps promote a reduction in fuel use associated with the transportation of freight and demonstrates innovative technologies that increase fuel economy, reducegreenhouse gas emissions, and lower the costs of operation. Not later than March 31, 2009, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the study, including any recommendations the Secretary considers appropriate regarding the program.
+Study.—The Secretary shall conduct a study of the projects carried out with grant assistance under this section to determine the extent to which the program helps promote a reduction in fuel use associated with the transportation of freight and demonstrates innovative technologies that increase fuel economy, reduce greenhouse gas emissions, and lower the costs of operation. Not later than March 31, 2009, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the study, including any recommendations the Secretary considers appropriate regarding the program.
 
 (g)
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $50,000,000 for each of fiscal years 2008 through 2011 for carrying out this section.
 
-(Added Pub. L. 110–140, title XI, §1112(a), Dec. 19, 2007, 121 Stat. 1758.)
+(Added Pub. L. 110–140, title XI, §1112(a), Dec. 19, 2007, 121 Stat. 1758; amended Pub. L. 110–432, div. A, title VII, §701(b), Oct. 16, 2008, 122 Stat. 4906.)
 
 #### References in Text
 
@@ -75,6 +75,10 @@ The Railway Labor Act, referred to in subsec. (e)(2), is act May 20, 1926, ch. 3
 #### Prior Provisions
 
 A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
+
+#### Amendments
+
+2008—Subsec. (a)(1)(A)(iii). Pub. L. 110–432 substituted “or” for “and”.
 
 #### Effective Date
 

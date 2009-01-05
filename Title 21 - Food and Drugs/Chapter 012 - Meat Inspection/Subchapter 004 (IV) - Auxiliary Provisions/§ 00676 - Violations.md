@@ -22,5 +22,5 @@ Section 403(c) of Pub. L. 99–641 provided that the amendment made by that sect
 
 #### Construction and Effect of Amendments by Pub. L. 99–641
 
-For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
+For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
 

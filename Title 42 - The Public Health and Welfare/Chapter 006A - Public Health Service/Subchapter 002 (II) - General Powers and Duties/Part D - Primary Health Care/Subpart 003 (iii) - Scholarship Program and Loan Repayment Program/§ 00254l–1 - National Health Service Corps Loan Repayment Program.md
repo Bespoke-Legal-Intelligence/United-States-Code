@@ -42,7 +42,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (3) Availability
 
-&emsp;The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
+&emsp;The Secretary shall make such application forms, contract forms, and other informationavailable to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
 
 #### (4) Recruitment and retention
 
@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
-&emsp;(3) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual that is conditioned thereon, is contingent on funds being appropriated for loan repayments under this subpart and to carry out the purposes of sections 254d through 254h of this title and sections 254j and 254k of this title;
+&emsp;(3) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual that is conditionedthereon, is contingent on funds being appropriated for loan repayments under this subpart and to carry out the purposes of sections 254d through 254h of this title and sections 254j and 254k of this title;
 
 &emsp;(4) a statement of the damages to which the United States is entitled, under section 254<i>o</i> of this title for the individual's breach of the contract; and
 
@@ -136,7 +136,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;For the purpose of providing reimbursements for tax liability resulting from payments under paragraph (2) on behalf of an individual—
 
-&emsp;&emsp;(A) the Secretary shall, in addition to such payments, make payments to the individualin an amount equal to 39 percent of the total amount of loan repayments made for the taxable year involved; and
+&emsp;&emsp;(A) the Secretary shall, in addition to such payments, make payments to the individual in an amount equal to 39 percent of the total amount of loan repayments made for the taxable year involved; and
 
 &emsp;&emsp;(B) may make such additional payments as the Secretary determines to be appropriate with respect to such purpose.
 
@@ -174,7 +174,7 @@ Subsec. (i). Pub. L. 107–251, §310(4), struck out subsec. (i), which required
 
 &emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
-&emsp;“(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
+&emsp;“(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduatesof programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
 
 Subsec. (b)(1). Pub. L. 101–597, §202(b)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the NationalHealth Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
 
 #### Regulations
 

@@ -96,7 +96,7 @@ Vessel owned by documentation citizen and chartered to section 50501 citizen.—
 
 (d)
 
-Request by Secretary of Defense.—The Secretary of Defense shall request the Secretaryof Homeland Security to issue any waiver under section 501 of this title that is necessary for purposes of this chapter.
+Request by Secretary of Defense.—The Secretary of Defense shall request the Secretary of Homeland Security to issue any waiver under section 501 of this title that is necessary for purposes of this chapter.
 
 (e)
 
@@ -122,7 +122,7 @@ Reliance on classification society.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may rely on a certification from the American Bureau of Shipping or, subject to subparagraph (B), another classification society accepted by the Secretary to establish that a vessel is in compliance with the requirements of paragraphs (1) and (2).
+In general.—The Secretary may rely on a certification from the American Bureauof Shipping or, subject to subparagraph (B), another classification society accepted by the Secretary to establish that a vessel is in compliance with the requirements of paragraphs (1) and (2).
 
 &emsp;&emsp;(B)
 

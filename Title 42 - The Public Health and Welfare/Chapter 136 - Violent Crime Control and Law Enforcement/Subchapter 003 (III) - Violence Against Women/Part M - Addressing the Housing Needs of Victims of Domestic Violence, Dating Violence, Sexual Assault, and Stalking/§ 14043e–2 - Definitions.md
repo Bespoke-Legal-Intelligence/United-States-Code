@@ -64,7 +64,7 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in par. (1)(E
 
 The Housing and Community Development Act of 1974, referred to in par. (1)(G), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. Par. (21) of section 4103 of Title 25 was redesignated par. (22) by Pub. L. 110–411, §3(2), Oct. 14, 2008, 122 Stat. 4320. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

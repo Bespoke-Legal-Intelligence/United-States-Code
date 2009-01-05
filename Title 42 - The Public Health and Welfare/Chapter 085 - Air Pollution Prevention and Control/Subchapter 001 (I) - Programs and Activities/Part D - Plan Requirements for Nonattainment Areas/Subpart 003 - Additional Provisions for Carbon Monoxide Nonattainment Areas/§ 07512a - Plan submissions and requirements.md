@@ -52,7 +52,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 &emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale or supply, dispensed, transported or introduced into commerce in the larger of—
 
-&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) (CMSA) in which the area is located, or
+&emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United StatesOffice of Management and Budget) (CMSA) in which the area is located, or
 
 &emsp;&emsp;(ii) if the area is not located in a CMSA, the Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) in which the area is located,
 
@@ -78,7 +78,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Milestone demonstration
 
-&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that thearea has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
+&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that the area has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
 
 #### (2) Adequacy of demonstration
 

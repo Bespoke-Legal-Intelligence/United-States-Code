@@ -6,7 +6,7 @@ Designation.—May is Asian/Pacific American Heritage Month.
 
 (b)
 
-Proclamations.—The President is requested to issue each year a proclamation calling on the people of the United States, and the chief executive officers of each State of the United States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the Marshall Islands, Micronesia, and Palau are requested to issue each year proclamations calling on the people of their respective jurisdictions, to observe Asian/Pacific American Heritage Month with appropriate programs, ceremonies, and activities.
+Proclamations.—The President is requested to issue each year a proclamation calling on the people of the United States, and the chief executive officers of each State of the United States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the Marshall Islands, Micronesia, and Palau are requested to issue each year proclamations callingon the people of their respective jurisdictions, to observe Asian/Pacific American Heritage Month with appropriate programs, ceremonies, and activities.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1254.)
 

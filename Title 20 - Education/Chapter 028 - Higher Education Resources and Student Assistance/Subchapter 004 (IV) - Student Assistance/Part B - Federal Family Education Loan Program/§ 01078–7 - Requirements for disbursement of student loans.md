@@ -12,7 +12,11 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+
+#### (4) Amendment to special rule
+
+&emsp;Beginning on October 1, 2011, the special rule under paragraph (3) shall be applied by substituting “15 percent” for “10 percent”.
 
 #### (b) Disbursement and endorsement requirements
 
@@ -23,6 +27,10 @@
 #### (2) Other students
 
 &emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than 30 days prior to the beginning of the period of enrollment for which the loan is made.
+
+#### (3) Amendment to cohort default rate exemption
+
+&emsp;Beginning on October 1, 2011, the exemption to the requirements of paragraph (1) in the second sentence of such paragraph shall be applied by substituting “15 percent” for “10 percent”.
 
 #### (c) Method of multiple disbursement
 
@@ -60,11 +68,11 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 &emsp;(2) the first disbursement of such loan has been made.
 
-(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164.)
+(Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8010, Feb. 8, 2006, 120 Stat. 164; Pub. L. 110–315, title IV, §427, Aug. 14, 2008, 122 Stat. 3235.)
 
 #### References in Text
 
-Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section 422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
+Section 422(d) of the Higher Education Amendments of 1998, referred to in subsecs. (a)(3) and (b)(1), is section422(d) of Pub. L. 105–244, set out as an Effective and Termination Dates of 1998 Amendment note below.
 
 Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
@@ -75,6 +83,10 @@ Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by P
 Text of subsec. (a)(3) and second sentence of subsec. (b)(1), which was temporarily added by Pub. L. 105–244, §422(a), (b), and then omitted, was restored pursuant to amendment by Pub. L. 109–171, §8010(1), (2). See 1998 and 2006 Amendment notes and Effective and Termination Dates of 1998 Amendment note below.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–315, §427(a), added par. (4).
+
+Subsec. (b)(3). Pub. L. 110–315, §427(b), added par. (3).
 
 2006—Subsec. (a)(3). Pub. L. 109–171, §8010(1), inserted “Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning February 8, 2006.” at end. See Codification note above and Effective and Termination Dates of 1998 Amendment note below.
 

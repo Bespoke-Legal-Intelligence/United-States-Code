@@ -10,13 +10,13 @@
 
 (c)(1) Any person serving in the active military, naval, or air service who is determined by the Secretary concerned to have an alcohol or drug dependence or abuse disability may be transferred to any facility in order for the Secretary to furnish care or treatment and rehabilitative services for such disability. Care and services provided to a member so transferred shall be provided as if such member were a veteran. Any transfer of any such member for such care and services shall be made pursuant to such terms as may be agreed upon by the Secretary concerned and the Secretary, subject to the provisions of sections 1535 and 1536 of title 31.
 
-(2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period of time. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
+(2) No person serving in the active military, naval, or air service may be transferred pursuant to an agreement made under paragraph (1) of this subsection unless such person requests such transfer in writing for a specified period oftime. No such person transferred pursuant to such a request may be furnished such care and services by the Secretary beyond the period of time specified in such request unless such person requests in writing an extension for a further specified period of time and such request is approved by the Secretary.
 
 (d)(1) The Secretary shall ensure that each medical center of the Department develops and carries out a plan to provide treatment for substance use disorders, either through referral or direct provision of services, to veterans who require such treatment.
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub.L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920.)
 
 #### Amendments
 
@@ -161,6 +161,156 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Substance Use Disorders and Mental Health Care
+
+Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114, provided that:
+
+#### “SEC. 102. FINDINGS ON SUBSTANCE USE DISORDERS AND MENTAL HEALTH.
+
+“Congress makes the following findings:
+
+&emsp;“(1) More than 1,500,000 members of the Armed Forces have been deployed in Operation Iraqi Freedom and Operation Enduring Freedom. The 2005 Department of Defense Survey of Health Related Behaviors Among Active Duty Personnel reports that 23 percent of members of the Armed Forces on active duty acknowledge a significant problem with alcohol use disorder, with similar rates of acknowledged problems with alcohol use disorder among members of the National Guard.
+
+&emsp;“(2) The effects of substance use disorder are wide ranging, including significantly increased risk of suicide, exacerbation of mental and physical health disorders, breakdown of family support, and increased risk of unemployment and homelessness.
+
+&emsp;“(3) While veterans suffering from mental health conditions, chronic physical illness, and polytrauma may be at increased risk for development of a substance use disorder, treatment for these veterans is complicated by the need to address adequately the physical and mental symptoms associated with these conditions through appropriate medical intervention.
+
+&emsp;“(4) While the Veterans Health Administration has dramatically increased health services for veterans from 1996 through 2006, the number of veterans receiving specialized substance use disorder treatment services decreased 18 percent during that time. No comparable decrease in the national rate of substance use disorder has been observed during that time.
+
+&emsp;“(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of such treatment services throughout the health care system of the Veterans Health Administration is inconsistent.
+
+&emsp;“(6) According to a 2006 report by the Government Accountability Office, the Department of Veterans Affairs significantly reduced its substance use disorder treatment and rehabilitation services between 1996 and 2006, and the Fiscal Year 2007 National Mental Health Program Monitoring System report shows that little progress has been made in restoring these services to their pre-1996 levels.
+
+#### “SEC. 103. EXPANSION OF SUBSTANCE USE DISORDER TREATMENT SERVICES PROVIDED BY DEPARTMENT OF VETERANS AFFAIRS.
+
+“(a)
+
+In General.—The Secretary of Veterans Affairs shall ensure the provision of such services and treatment to each veteran enrolled in the health care system of the Department of Veterans Affairs who is in need of services and treatments for a substance use disorder as follows:
+
+&emsp;“(1) Screening for substance use disorder in all settings, including primary care settings.
+
+&emsp;“(2) Short term motivational counseling services.
+
+&emsp;“(3) Marital and family counseling.
+
+&emsp;“(4) Intensive outpatient or residential care services.
+
+&emsp;“(5) Relapse prevention services.
+
+&emsp;“(6) Ongoing aftercare and outpatient counseling services.
+
+&emsp;“(7) Opiate substitution therapy services.
+
+&emsp;“(8) Pharmacological treatments aimed at reducing craving for drugs and alcohol.
+
+&emsp;“(9) Detoxification and stabilization services.
+
+&emsp;“(10) Coordination with groups providing peer to peer counseling.
+
+&emsp;“(11) Such other services as the Secretary considers appropriate.
+
+“(b)
+
+Provision of Services.—
+
+&emsp;“(1)
+
+Allocation of resources for provision of services.—The Secretary shall ensure that amounts made available for care, treatment, and services provided under this section are allocated in such a manner that a full continuum of care, treatment, and services described in subsection (a) is available to veterans seeking such care, treatment, or services, without regard to the location of the residence of any such veterans.
+
+&emsp;“(2)
+
+Manner of provision.—The services and treatment described in subsection (a) may be provided to a veteran described in such subsection—
+
+&emsp;&emsp;“(A) at Department of Veterans Affairs medical centers or clinics;
+
+&emsp;&emsp;“(B) by referral to other facilities of the Department that are accessible to such veteran; or
+
+&emsp;&emsp;“(C) by contract or fee-for-service payments with community-based organizations for the provision of such services and treatments.
+
+“(c)
+
+Alternatives in Case of Services Denied Due to Clinical Necessity.—If the Secretary denies the provision to a veteran of services or treatment for a substance use disorder due to clinical necessity, the Secretary shall provide the veteran such other services or treatment as are medically appropriate.
+
+#### “SEC. 104. CARE FOR VETERANS WITH MENTAL HEALTH AND SUBSTANCE USE DISORDERS.
+
+“(a)
+
+In General.—If the Secretary of Veterans Affairs provides a veteran inpatient or outpatient care for a substance use disorder and a comorbid mental health disorder, the Secretary shall ensure that treatment for such disorders is provided concurrently—
+
+&emsp;“(1) through a service provided by a clinician or health professional who has training and expertise in treatment of substance use disorders and mental health disorders;
+
+&emsp;“(2) by separate substance use disorder and mental health disorder treatment services when there is appropriate coordination, collaboration, and care management between such treatment services; or
+
+&emsp;“(3) by a team of clinicians with appropriate expertise.
+
+“(b)
+
+Team of Clinicians With Appropriate Expertise Defined.—In this section, the term ‘team of clinicians with appropriate expertise’ means a team consisting of the following:
+
+&emsp;“(1) Clinicians and health professionals with expertise in treatment of substance use disorders and mental health disorders who act in coordination and collaboration with each other.
+
+&emsp;“(2) Such other professionals as the Secretary considers appropriate for the provision of treatment to veterans for substance use and mental health disorders.
+
+#### “SEC. 105. PILOT PROGRAM FOR INTERNET-BASED SUBSTANCE USE DISORDER TREATMENT FOR VETERANS OF OPERATION IRAQI FREEDOM AND OPERATION ENDURING FREEDOM.
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Stigma associated with seeking treatment for mental health disorders has been demonstrated to prevent some veterans from seeking such treatment at a medical facility operated by the Department of Defense or the Department of Veterans Affairs.
+
+&emsp;“(2) There is a significant incidence among veterans of post-deployment mental health problems, especially among members of a reserve component who return as veterans to civilian life.
+
+&emsp;“(3) Computer-based self-guided training has been demonstrated to be an effective strategy for supplementing the care of psychological conditions.
+
+&emsp;“(4) Younger veterans, especially those who served in Operation Enduring Freedom or Operation Iraqi Freedom, are comfortable with and proficient at computer-based technology.
+
+&emsp;“(5) Veterans living in rural areas may find access to treatment for substance use disorder limited.
+
+&emsp;“(6) Self-assessment and treatment options for substance use disorders through an Internet website may reduce stigma and provides additional access for individuals seeking care and treatment for such disorders.
+
+“(b)
+
+In General.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program shall be available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
+
+“(c)
+
+Elements of Pilot Program.—
+
+&emsp;“(1)
+
+In general.—In carrying out the pilot program under this section, the Secretary shall ensure that—
+
+&emsp;&emsp;“(A) access to the Internet website and the programs available on the website by a veteran (or family member) does not involuntarily generate an identifiable medical record of that access by that veteran in any medical database maintained by the Department of Veterans Affairs;
+
+&emsp;&emsp;“(B) the Internet website is accessible from remote locations, especially rural areas; and
+
+&emsp;&emsp;“(C) the Internet website includes a self-assessment tool for substance use disorders, self-guided treatment and educational materials for such disorders, and appropriate information and materials for family members of veterans.
+
+&emsp;“(2)
+
+Consideration of similar projects.—In designing the pilot program under this section, the Secretary shall consider similar pilot projects of the Department of Defense for the early diagnosis and treatment of post-traumatic stress disorder and other mental health conditions established under section 741 of the John Warner National Defense Authorization Act of \[for\] Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2304) \[10 U.S.C. 1074 note\].
+
+&emsp;“(3)
+
+Location of pilot program.—The Secretary shall carry out the pilot program through those medical centers of the Department of Veterans Affairs that have established Centers for Excellence for Substance Abuse Treatment and Education or that have established a Substance Abuse Program Evaluation and Research Center.
+
+&emsp;“(4)
+
+Contract authority.—The Secretary may enter into contracts with qualified entities or organizations to carry out the pilot program required under this section.
+
+“(d)
+
+Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
+
+“(e)
+
+Report.—Not later than six months after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program, and shall include in that report—an assessment of the feasibility and advisability of continuing or expanding the pilot program, of any cost savings or other benefits associated with the pilot program, and any other recommendations.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Veterans Affairs $1,500,000 for each of fiscal years 2010 and 2011 to carry out the pilot program under this section.”
 
 #### Ratification of Actions During Period of Expired Authority
 

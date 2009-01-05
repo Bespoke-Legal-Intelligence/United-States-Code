@@ -24,7 +24,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentage,or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+&emsp;&emsp;&emsp;&emsp;A reduction in the annual deductible, a reduction in the coinsurance percentage, or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
 
 #### (II) Construction
 
@@ -114,7 +114,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (ii) Adjustment of amount
 
-&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents.
+&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 centsshall be rounded to the nearest multiple of 5 cents.
 
 #### (B) Annual out-of-pocket threshold
 
@@ -176,7 +176,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Assuring standard payment for costs at initial coverage limit
 
-&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
+&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3)of this section for the year, of an amount equal to at least the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
 
@@ -224,13 +224,13 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
-> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in section 1396r–8(k)(6) of this title).
+> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in paragraph (4)).
 
 #### (2) Exclusions
 
 #### (A) In general
 
-&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
+&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
 
 #### (B) Medicare covered drugs
 
@@ -246,7 +246,29 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 > &emsp;Such exclusions are determinations subject to reconsideration and appeal pursuant to subsections (g) and (h), respectively, of section 1395w–104 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986.)
+#### (4) Medically accepted indication defined
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the term “medically accepted indication” has the meaning given that term—
+
+&emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeutic regimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
+
+&emsp;&emsp;&emsp;&emsp;(I) “prescription drug plan or MA–PD plan” shall be substituted for “carrier” each place it appears; and
+
+&emsp;&emsp;&emsp;&emsp;(II) subject to subparagraph (B), the compendia described in section 1396r–8(g)(1)(B)(i)(III) of this title shall be included in the list of compendia described in clause (ii)(I) section 1395x(t)(2)(B) of this title; and
+
+&emsp;&emsp;&emsp;(ii) in the case of any other covered part D drug, in section 1396r–8(k)(6) of this title.
+
+#### (B) Conflict of interest
+
+&emsp;&emsp;On and after January 1, 2010, subparagraph (A)(i)(II) shall not apply unless the compendia described in section 1396r–8(g)(1)(B)(i)(III) of this title meets <sup>1</sup> the requirement in the third sentence of section 1395x(t)(2)(B) of this title.
+
+#### (C) Update
+
+&emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583.)
 
 #### References in Text
 
@@ -256,11 +278,23 @@ Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classifi
 
 #### Amendments
 
+2008—Subsec. (e)(1). Pub. L. 110–275, §182(a)(1)(A), substituted “(as defined in paragraph (4))” for “(as defined in section 1396r–8(k)(6) of this title)” in concluding provisions.
+
+Subsec. (e)(2)(A). Pub. L. 110–275, §175(a), inserted “other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines),” after “agents),”.
+
+Subsec. (e)(4). Pub. L. 110–275, §182(a)(1)(B), which directed amendment of subsec. (e)(1) in the matter following subpar. (B) by adding par. (4) at the end, was executed by adding par. (4) at end of subsec. (e), to reflect the probable intent of Congress.
+
 2006—Subsec. (e)(1). Pub. L. 109–432 inserted “(and, for vaccines administered on or after January 1, 2008, its administration)” after “section 262 of this title” in concluding provisions.
 
 2005—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
 
 Pub. L. 109–91, §103(a)(1), inserted before period at end “, as such sections were in effect on December 8, 2003”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §175(b), July 15, 2008, 122 Stat. 2581, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to prescriptions dispensed on or after January 1, 2013.”
+
+Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2009.”
 
 #### Effective Date of 2005 Amendment
 
@@ -273,4 +307,6 @@ Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided tha
 #### Payment for Administration of Part D Vaccines in 2007
 
 Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: “Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[part B of this subchapter\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\]).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “meet”.</i>
 

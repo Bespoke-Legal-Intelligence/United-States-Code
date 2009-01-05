@@ -54,7 +54,7 @@ The Commission shall meet at least once each month, at the call of the chairman 
 
 #### (h) Compensation; travel expenses and per diem
 
-(1) Except as provided in paragraph (2) of this subsection, members of the Commission shall each be entitled to receive $100 for each day (including travel time) during which they are engaged in the performance of the duties of the Commission.
+(1) Except as provided in paragraph (2) of this subsection, members of the Commission shalleach be entitled to receive $100 for each day (including travel time) during which they are engaged in the performance of the duties of the Commission.
 
 (2) Members of the Commission who are full-time officers or employees of the United States, the city of Lowell, or the Commonwealth of Massachusetts shall receive no additional pay on account of their service on the Commission.
 

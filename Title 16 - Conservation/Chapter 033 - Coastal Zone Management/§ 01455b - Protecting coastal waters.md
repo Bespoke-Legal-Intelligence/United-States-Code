@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph\(1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
 
 #### (3) Management measures
 
@@ -54,7 +54,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(A) the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
 
-&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authorityof the Administrator meet the requirements of this section and the Secretary concurs with that determination.
+&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authority of the Administrator meet the requirements of this section and the Secretary concurs with that determination.
 
 #### (2) Implementation of approved program
 
@@ -174,7 +174,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Administrator
 
-&emsp;There is authorized to be appropriated to the Administrator for use for carrying out this section not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
+&emsp;There is authorized to be appropriated to the Administrator for use for carrying out thissection not more than $1,000,000 for each of fiscal years 1992, 1993, and 1994.
 
 #### (2) Secretary
 

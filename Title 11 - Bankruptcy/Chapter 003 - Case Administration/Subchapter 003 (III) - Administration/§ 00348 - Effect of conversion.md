@@ -14,7 +14,7 @@
 
 &emsp;(A) property of the estate in the converted case shall consist of property of the estate, as of the date of filing of the petition, that remains in the possession of or is under the control of the debtor on the date of conversion;
 
-&emsp;(B) valuations of property and of allowed secured claims in the chapter 13 case shall apply only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed securedclaims in cases under chapters 11 and 12 reduced to the extent that they have been paid in accordance with the chapter 13 plan; and
+&emsp;(B) valuations of property and of allowed secured claims in the chapter 13 case shall apply only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12 reduced to the extent that they have been paid in accordance with the chapter 13 plan; and
 
 &emsp;(C) with respect to cases converted from chapter 13—
 

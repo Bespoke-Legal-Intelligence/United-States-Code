@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm programbarriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -88,7 +88,7 @@ Each plan approved by the Secretary shall—
 
 #### (C) Flexibility
 
-&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility for a producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
+&emsp;&emsp;In administering the program, the Secretary shall provide sufficient flexibility fora producer to adjust or modify the producer's plan consistent with this section, except that such adjustments or modifications must be approved by the Secretary.
 
 #### (D) Minimization of adverse effect
 
@@ -142,11 +142,11 @@ Each plan approved by the Secretary shall—
 
 #### (B) Limitation on permitted haying and grazing
 
-&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting or grazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
+&emsp;&emsp;Notwithstanding any other provision of this section, if the Secretary determines that implementation of this section will result in a significant adverse economic impact on hay or livestock prices in a particular geographic area, the Secretary may limit the quantity of hay that can be harvested or grazed from that area. Such limit may include restrictions on the number of times that hay may be harvested or grazed from the acres per year, the timing of such harvesting and grazing, or the number of years that such land may remain in the same hay stand, or a prohibition on the harvesting orgrazing of hay from acres on which a small grain was not originally interplanted with the hay crop and harvested for grain.
 
 #### (6) Base acre adjustments
 
-&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base underthe Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
+&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
 
 #### (7) Payment acreage limitation
 

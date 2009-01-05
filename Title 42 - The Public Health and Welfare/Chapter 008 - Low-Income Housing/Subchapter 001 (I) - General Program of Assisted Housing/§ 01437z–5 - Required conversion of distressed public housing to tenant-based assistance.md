@@ -6,7 +6,7 @@ Each public housing agency shall identify all public housing projects of the pub
 
 &emsp;(1) The project is on the same or contiguous sites.
 
-&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance with guidelines established by the Secretary, which guidelines shall take into account the criteria established in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
+&emsp;(2) The project is determined by the public housing agency to be distressed, which determination shall be made in accordance withguidelines established by the Secretary, which guidelines shall take into account the criteria established in the Final Report of the National Commission on Severely Distressed Public Housing (August 1992).
 
 &emsp;(3) The project—
 
@@ -42,7 +42,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (A) Failure to identify projects
 
-&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a) of this section,the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
+&emsp;&emsp;If the Secretary determines, based on a plan submitted under this subsection, that a public housing agency has failed to identify 1 or more public housing projects that the Secretary determines should have been identified under subsection (a) of this section, the Secretary may designate the public housing projects to be removed from the inventory of the public housing agency pursuant to this section.
 
 #### (B) Erroneous identification of projects
 
@@ -80,7 +80,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 &emsp;&emsp;(B) provide any necessary counseling for families displaced by such action;
 
-&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remain in their dwelling unit in the project and use the tenant-based assistance toward rent for that unit;
+&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remain in their dwelling unit in the project and usethe tenant-based assistance toward rent for that unit;
 
 &emsp;&emsp;(D) ensure that each displaced resident is offered comparable housing in accordance with the notice under subparagraph (A); and
 

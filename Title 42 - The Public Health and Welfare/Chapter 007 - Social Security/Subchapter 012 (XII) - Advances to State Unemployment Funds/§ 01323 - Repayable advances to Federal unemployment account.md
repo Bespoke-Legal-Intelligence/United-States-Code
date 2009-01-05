@@ -20,7 +20,7 @@ Provisions similar to those comprising the first sentence of this section were c
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to advances made on or after Dec. 22, 1987, see section 9155(d) of Pub. L. 100–203, set out as a note under section 1103 of this title.
+Amendment by Pub. L. 100–203 applicable to advances made on or after Dec. 22, 1987, see section 9155(d) ofPub. L. 100–203, set out as a note under section 1103 of this title.
 
 #### Retransfer of Amounts Transferred From Federal Unemployment Account to Employment Security Administration Account as of September 30, 1983
 

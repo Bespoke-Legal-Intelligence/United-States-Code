@@ -2,7 +2,7 @@
 
 #### (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
 
-Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+Subject to subsection (d) of this section, a group health plan, and a health insurance issueroffering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
 &emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 
@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individualwho is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
@@ -188,7 +188,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 
@@ -236,7 +236,7 @@ For purposes of this part—
 
 #### (3) Alternative methods
 
-&emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] for the State involved with respect to such issuer.
+&emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the Stateto enforce the requirements of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] for the State involved with respect to such issuer.
 
 (Pub. L. 93–406, title I, §701, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1939; amended Pub. L. 104–204, title VI, §603(b)(3)(H), Sept. 26, 1996, 110 Stat. 2938.)
 

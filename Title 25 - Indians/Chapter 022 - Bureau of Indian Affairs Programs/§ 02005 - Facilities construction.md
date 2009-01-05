@@ -146,7 +146,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Inspection
 
-&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, butnot later than 20 days after the date on which the action described in subparagraph (A) is taken.
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
 
 #### (D) Failure to concur
 
@@ -212,7 +212,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (2) Requirements for certain uses
 
-&emsp;No funds shall be withheld from the distribution to the budget of any school operatedunder contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
+&emsp;No funds shall be withheld from the distribution to the budget of any school operated under contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
 
 #### (g) No reduction in Federal funding
 
@@ -222,7 +222,7 @@ Nothing in this section shall diminish any Federal funding due to the receipt by
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended,known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

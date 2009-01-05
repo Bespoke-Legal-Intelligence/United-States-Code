@@ -18,7 +18,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (c). Pub. L. 108–136, §3111, struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136, §3111, struck out subsec. (c), which related to a plan for the extension of the effective life of the weapons in the nuclear weapons stockpile.
 
 Subsec. (c)(1). Pub. L. 108–136, §3141(e)(5)(D), substituted “October 5, 1999” for “the date of the enactment of this Act”.
 

@@ -10,7 +10,7 @@ Type of Bonds Required.—Before any contract of more than $100,000 is awarded f
 
 &emsp;(1)
 
-Performance bond.—A performance bond with a surety satisfactory to the officer awarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
+Performance bond.—A performance bond with a surety satisfactory to the officerawarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
 
 &emsp;(2)
 

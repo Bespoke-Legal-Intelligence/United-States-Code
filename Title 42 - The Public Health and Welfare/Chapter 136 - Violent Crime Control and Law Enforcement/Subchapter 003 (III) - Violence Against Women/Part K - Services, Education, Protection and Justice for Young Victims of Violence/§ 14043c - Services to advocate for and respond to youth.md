@@ -20,7 +20,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 #### (1) In general
 
-&emsp;An entity that receives a grant under this section shall use amounts provided under the grant to design or replicate, and implement, programs and services, using domestic violence, dating violence, sexual assault, and stalking intervention models to respond to the needs of youth who are victims of domestic violence, dating violence, sexual assault or stalking.
+&emsp;An entity that receives a grant under this section shall use amounts provided under thegrant to design or replicate, and implement, programs and services, using domestic violence, dating violence, sexual assault, and stalking intervention models to respond to the needs of youth who are victims of domestic violence, dating violence, sexual assault or stalking.
 
 #### (2) Types of programs
 

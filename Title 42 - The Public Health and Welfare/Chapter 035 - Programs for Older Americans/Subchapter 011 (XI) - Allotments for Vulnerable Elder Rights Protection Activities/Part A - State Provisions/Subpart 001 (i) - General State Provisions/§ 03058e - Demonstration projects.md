@@ -8,7 +8,7 @@ From amounts made available under section 3024(d)(1)(C) of this title after Sept
 
 &emsp;(2) medical assistance available under title XIX of such Act (42 U.S.C. 1396 et seq.); and
 
-&emsp;(3) benefits available under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).
+&emsp;(3) benefits available under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
 #### (b) Benefits
 
@@ -20,15 +20,29 @@ Each outreach project carried out under subsection (a) of this section shall—
 
 &emsp;(3) be coordinated with State and local entities that administer benefits under such titles.
 
-(Pub. L. 89–73, title VII, §706, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1275.)
+(Pub. L. 89–73, title VII, §706, as added Pub. L. 102–375, title VII, §701, Sept. 30, 1992, 106 Stat. 1275; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 706 of Pub. L. 89–73 was classified to section 3045e of this title prior to repeal by Pub. L. 95–478.
+
+#### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

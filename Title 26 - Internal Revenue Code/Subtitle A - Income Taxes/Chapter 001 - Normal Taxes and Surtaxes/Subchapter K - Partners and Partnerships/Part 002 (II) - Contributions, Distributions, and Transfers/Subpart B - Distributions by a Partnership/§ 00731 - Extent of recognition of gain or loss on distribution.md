@@ -58,7 +58,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (C) Financial instrument
 
-&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidencesof indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
+&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidences of indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
 
 #### (3) Exceptions
 
@@ -122,7 +122,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (II) Exception for certain nonrecognition transactions
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
+&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving atransfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
 
 #### (iv) Look-thru of partnership tiers
 

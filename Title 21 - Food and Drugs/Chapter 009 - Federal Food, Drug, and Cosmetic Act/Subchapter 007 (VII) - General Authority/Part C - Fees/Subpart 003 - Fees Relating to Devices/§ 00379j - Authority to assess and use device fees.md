@@ -84,7 +84,7 @@
 
 #### (v) Later withdrawn modular applications
 
-&emsp;&emsp;&emsp;If an application submitted under section 360e(c)(4) of this title is withdrawn after a second or subsequent portion is submitted but before any first action, the Secretary may return a portion of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of the portions submitted.
+&emsp;&emsp;&emsp;If an application submitted under section 360e(c)(4) of this title is withdrawn after a second or subsequent portion issubmitted but before any first action, the Secretary may return a portion of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of the portions submitted.
 
 #### (vi) Sole discretion to refund
 
@@ -169,7 +169,7 @@ Except as provided in subsections (c), (d), (e), and (h) the fees under subsecti
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent yearin both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -203,7 +203,7 @@ Except as provided in subsections (c), (d), (e), and (h) the fees under subsecti
 
 #### (ii) Firms submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
+&emsp;&emsp;&emsp;The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount ofgross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
@@ -221,7 +221,7 @@ Except as provided in subsections (c), (d), (e), and (h) the fees under subsecti
 
 #### (1) No acceptance of submissions
 
-&emsp;A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device submitted by a person subject to fees under subsections (a)(2) and (a)(3)shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
+&emsp;A premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device submitted by a person subject to fees under subsections (a)(2) and (a)(3) shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.
 
 #### (2) No registration
 
@@ -327,7 +327,7 @@ Subsec. (a)(2)(A)(iii). Pub. L. 110–85, §§212(a)(2)(A), 217, temporarily sub
 
 Subsec. (a)(2)(A)(iv). Pub. L. 110–85, §§212(a)(2)(B), 217, temporarily substituted “15 percent” for “21.5 percent”. See Effective and Termination Dates of 2007 Amendment note below.
 
-Subsec. (a)(2)(A)(v). Pub. L. 110–85, §§212(a)(2)(C), 217, temporarily substituted “7 percent” for “7.2 percent”. See Effective and Termination Dates of 2007 Amendment note below.
+Subsec. (a)(2)(A)(v). Pub. L. 110–85, §§212(a)(2)(C), 217, temporarily substituted “7 percent” for “7.2 percent”.See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (a)(2)(A)(vi), (vii). Pub. L. 110–85, §§212(a)(2)(D), (E), 217, temporarily added cl. (vi) and redesignated former cl. (vi) as (vii). Former cl. (vii) redesignated (viii). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -351,7 +351,7 @@ Subsec. (c)(1). Pub. L. 110–85, §§212(c)(1)(B), 217, temporarily struck out 
 
 Subsec. (c)(2), (3). Pub. L. 110–85, §§212(c)(2)(A), (B), 217, temporarily added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4). See Effective and Termination Dates of 2007 Amendment note below.
 
-Subsec. (c)(4). Pub. L. 110–85, §§212(c)(2)(A), (C), 217, temporarily redesignated par. (3) as (4) and substitutedin subpar. (A) “The Secretary” for “For fiscal years 2006 and 2007, the Secretary” and “for the first month of the next fiscal year” for “for the first month of fiscal year 2008”. See Effective and Termination Dates of 2007 Amendment note below.
+Subsec. (c)(4). Pub. L. 110–85, §§212(c)(2)(A), (C), 217, temporarily redesignated par. (3) as (4) and substituted in subpar. (A) “The Secretary” for “For fiscal years 2006 and 2007, the Secretary” and “for the first month of the next fiscal year” for “for the first month of fiscal year 2008”. See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 110–85, §§212(d)(1), 217, temporarily struck out “, partners, and parent firms” after “affiliates” and substituted “clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A)” for “clauses (i) through (vi) of subsection (a)(2)(A) of this section”. See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -377,7 +377,7 @@ Subsec. (e)(2)(B)(iii). Pub. L. 110–85, §§212(e)(2)(B)(v), 217, temporarily 
 
 Subsec. (e)(2)(C). Pub. L. 110–85, §§212(e)(3), 217, temporarily amended subpar. (C) generally. Prior to amendment, subpar. (C) contained provisions, for fiscal year 2004 and each subsequent fiscal year, authorizing in cl. (i) a reduced fee for a premarket notification submission, and directing in cl. (ii) the Secretary how to determine an adjustment per fee revenue amount. See Effective and Termination Dates of 2007 Amendment note below.
 
-Subsec. (f). Pub. L. 110–85, §§212(f), 217, temporarily amended subsec. (f) generally. Prior to amendment, text read as follows: “A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.” See Effective and Termination Dates of 2007 Amendment note below.
+Subsec. (f). Pub. L. 110–85, §§212(f), 217, temporarily amended subsec. (f) generally. Prior to amendment,text read as follows: “A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.” See Effective and Termination Dates of 2007 Amendment note below.
 
 Subsec. (g)(1). Pub. L. 110–85, §§212(g)(1), 217, temporarily added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005. See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -439,7 +439,7 @@ Subsec. (h)(3)(D), (E). Pub. L. 109–43, §2(a)(6), added subpar. (D) and struc
 
 Subsec. (a). Pub. L. 108–214, §2(d)(2)(A), designated introductory provisions of subsec. (a) as par. (1), inserted heading, substituted “this section.” for “this section as follows:”, and redesignated former par. (1) as (2).
 
-Subsec. (a)(1)(A). Pub. L. 108–214, §2(a)(2)(A)(i), substituted, in introductory provisions, “subsections (d) and (e)” for “subsection (d)”, in cl. (iv), “clause (i)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section”, and, in cl. (vii), “clause (i), subject to any adjustment under subsection (e)(2)(C)(ii)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii)”.
+Subsec. (a)(1)(A). Pub. L. 108–214, §2(a)(2)(A)(i), substituted, in introductory provisions, “subsections (d) and (e)” for “subsection (d)”, in cl. (iv), “clause (i)” for “clause (i), subject to any adjustment under subsection\(c)(3) of this section”, and, in cl. (vii), “clause (i), subject to any adjustment under subsection (e)(2)(C)(ii)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii)”.
 
 Subsec. (a)(1)(D)(i), (ii). Pub. L. 108–214, §2(a)(2)(A)(ii), substituted “application, report,” for “application”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter for the taxable year an amount equal to the sum of—
 
 &emsp;(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section (or, in the case of a metal roof with appropriate pigmented coatings which meet the Energy Star program requirements), if—
+&emsp;The term “qualified energy efficiency improvements” means any energy efficient building envelope component which meets the prescriptive criteria for such component established by the 2000 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section (or, in the case of a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements), if—
 
 &emsp;&emsp;(A) such component is installed in or on a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer's principal residence (within the meaning of section 121),
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) exterior doors, and
 
-&emsp;&emsp;(D) any metal roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
 #### (3) Manufactured homes included
 
@@ -92,21 +92,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) are in effect at the time of the acquisition of the property, or at the time of the completion of the construction, reconstruction, or erection of the property, as the case may be.
 
-#### (C) Requirements for standards
+#### (C) Requirements and standards for air conditioners and heat pumps
 
-&emsp;&emsp;The standards and requirements prescribed by the Secretary under subparagraph (B)—
+&emsp;&emsp;The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
 
-&emsp;&emsp;&emsp;(i) in the case of the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
+&emsp;&emsp;&emsp;(i) shall require measurements to be based on published data which is tested bymanufacturers at 95 degrees Fahrenheit, and
 
-&emsp;&emsp;&emsp;&emsp;(I) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
-
-&emsp;&emsp;&emsp;&emsp;(II) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency, and
-
-&emsp;&emsp;&emsp;(ii) in the case of geothermal heat pumps—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall be based on testing under the conditions of ARI/ISO Standard 13256–1 for Water Source Heat Pumps or ARI 870 for Direct Expansion GeoExchange Heat Pumps (DX), as appropriate, and
-
-&emsp;&emsp;&emsp;&emsp;(II) shall include evidence that water heating services have been provided through a desuperheater or integrated water heating system connected to the storage water heater tank.
+&emsp;&emsp;&emsp;(ii) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
 
 #### (3) Energy-efficient building property
 
@@ -116,17 +108,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an electric heat pump which has a heating seasonal performance factor (HSPF) of at least 9, a seasonal energy efficiency ratio (SEER) of at least 15, and an energy efficiency ratio (EER) of at least 13,
 
-&emsp;&emsp;(C) a geothermal heat pump which—
+&emsp;&emsp;(C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2006,
 
-&emsp;&emsp;&emsp;(i) in the case of a closed loop product, has an energy efficiency ratio (EER) of at least 14.1 and a heating coefficient of performance (COP) of at least 3.3,
+&emsp;&emsp;(D) a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and
 
-&emsp;&emsp;&emsp;(ii) in the case of an open loop product, has an energy efficiency ratio (EER) of at least 16.2 and a heating coefficient of performance (COP) of at least 3.6, and
-
-&emsp;&emsp;&emsp;(iii) in the case of a direct expansion (DX) product, has an energy efficiency ratio (EER) of at least 15 and a heating coefficient of performance (COP) of at least 3.5,
-
-&emsp;&emsp;(D) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2006, and
-
-&emsp;&emsp;(E) a natural gas, propane, or oil water heater which has an energy factor of at least 0.80.
+&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
 
 #### (4) Qualified natural gas, propane, or oil furnace or hot water boiler
 
@@ -135,6 +121,10 @@ For purposes of this section—
 #### (5) Advanced main air circulating fan
 
 &emsp;The term “advanced main air circulating fan” means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
+
+#### (6) Biomass fuel
+
+&emsp;The term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
 
 #### (e) Special rules
 
@@ -160,9 +150,13 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 #### (g) Termination
 
-This section shall not apply with respect to any property placed in service after December 31, 2007.
+This section shall not apply with respect to any property placed in service—
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484.)
+&emsp;(1) after December 31, 2007, and before January 1, 2009, or
+
+&emsp;(2) after December 31, 2009..<sup>1</sup>
+
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845.)
 
 #### References in Text
 
@@ -170,11 +164,51 @@ The date of the enactment of this section, referred to in subsec. (c)(1), is the
 
 #### Amendments
 
+2008—Subsec. (c)(1). Pub. L. 110–343, §302(e)(1), in introductory provisions, inserted “, or an asphalt roof with appropriate cooling granules,” before “which meet the Energy Star program requirements”.
+
+Subsec. (c)(2)(D). Pub. L. 110–343, §302(e)(2), inserted “or asphalt roof” after “metal roof” and “or cooling granules” after “pigmented coatings”.
+
+Subsec. (d)(2)(C). Pub. L. 110–343, §302(d)(2), amended heading and text of subpar. (C) generally. Prior to amendment, subpar. (C) related to requirements for standards for central air conditioners, electric heat pumps, and geothermal heat pumps.
+
+Subsec. (d)(3)(C), (D). Pub. L. 110–343, §302(d)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “a geothermal heat pump which—
+
+&emsp;“(i) in the case of a closed loop product, has an energy efficiency ratio (EER) of at least 14.1 and a heating coefficient of performance (COP) of at least 3.3,
+
+&emsp;“(ii) in the case of an open loop product, has an energy efficiency ratio (EER) of at least 16.2 and a heating coefficient of performance (COP) of at least 3.6, and
+
+&emsp;“(iii) in the case of a direct expansion (DX) product, has an energy efficiency ratio (EER) of at least 15 and a heating coefficient of performance (COP) of at least 3.5,”.
+
+Subsec. (d)(3)(E). Pub. L. 110–343, §302(d)(1), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+
+Pub. L. 110–343, §302(c), inserted “or a thermal efficiency of at least 90 percent” after “0.80”.
+
+Subsec. (d)(3)(F). Pub. L. 110–343, §302(d)(1), redesignated subpar. (F) as (E).
+
+Pub. L. 110–343, §302(b)(1), added subpar. (F).
+
+Subsec. (d)(6). Pub. L. 110–343, §302(b)(2), added par. (6).
+
+Subsec. (g). Pub. L. 110–343, §302(a), substituted “placed in service—” for “placed in service after December 31, 2007” and added pars. (1) and (2).
+
 2007—Subsec. (c)(3). Pub. L. 110–172 substituted “part 3280” for “section 3280”.
 
 2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title III, §302(f), Oct. 3, 2008, 122 Stat. 3845, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made \[by\] this section \[amending this section\] shall apply to expenditures made after December 31, 2008.
+
+“(2)
+
+Modification of qualified energy efficiency improvements.—The amendments made by subsection (e) \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
 #### Effective Date
 
 Pub. L. 109–58, title XIII, §1333(c), Aug. 8, 2005, 119 Stat. 1030, provided that: “The amendments made by this section \[enacting this section and amending section 1016 of this title\] shall apply to property placed in service after December 31, 2005.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 

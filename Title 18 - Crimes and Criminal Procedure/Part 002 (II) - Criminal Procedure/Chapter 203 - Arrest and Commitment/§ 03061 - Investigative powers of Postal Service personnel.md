@@ -38,7 +38,7 @@
 
 (B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
-(Added Pub. L. 90–560, §5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, §6(j)(38)(A), Aug. 12,1970, 84 Stat. 781; Pub. L. 100–690, title VI, §6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, §1001, Dec. 20, 2006, 120 Stat. 3254.)
+(Added Pub. L. 90–560, §5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, §6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, §6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, §1001, Dec. 20, 2006, 120 Stat. 3254.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@
 
 &emsp;“(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony.
 
-“(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
+“(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of lawsregarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses.”
 
 1970—Pub. L. 91–375, §6(j)(38)(A)(i), substituted “postal personnel” for “postal inspectors” in section catchline.
 

@@ -66,7 +66,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 &emsp;(A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
-&emsp;(B) the cost of additional resources in an amount sufficient to meet any additional load outside the region occurring after December 5, 1980; and
+&emsp;(B) the cost of additional resources in an amount sufficient to meet any additional loadoutside the region occurring after December 5, 1980; and
 
 &emsp;(C) any costs of any generating facility which is terminated prior to initial commercial operation.
 
@@ -114,7 +114,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (2) Any contractual entitlement to firm power which is based on electric power acquired from, or on behalf of, a customer pursuant to section 839d of this title shall be in addition to any other contractual entitlement to firm power not subject to restriction that such customer may have under this section. For the purposes of this subsection, references to amounts of power acquired by the Administrator pursuant to section 839d of this title shall be deemed to mean the amounts specified in the resource acquisition contracts exclusive of any amounts recognized in such contracts as replacement for Federal base system resources.
 
-(3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection (b) of this section are distributed equitably throughout the region.
+(3) The Administrator shall, consistent with the provisions of this chapter, insure that any restrictions upon any particular customer class made pursuant to this subsection and subsection\(b) of this section are distributed equitably throughout the region.
 
 #### (f) Surplus power
 
@@ -142,7 +142,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (6) Initial contracts offered public body, cooperative and Federal agency customers in accordance with this subsection shall provide that during a period of insufficiency declared in accordance with subsection (b) of this section each customer's contractual entitlement shall, to the extent of its requirements on the Administrator, be no less than the amount of firm power received from the Administrator in the year immediately preceding the period of insufficiency.
 
-(7) The Administrator shall be deemed to have sufficient resources for the purpose of enteringinto the initial contracts specified in paragraph (1)(A) through (D).
+(7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
 (Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
 

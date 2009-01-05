@@ -22,7 +22,7 @@
 
 I74legislative statements
 
-A discussion of section 1111(b) of the House amendment is best considered in the context of confirmationand will therefore, be discussed in connection with section 1129.
+A discussion of section 1111(b) of the House amendment is best considered in the context of confirmation and will therefore, be discussed in connection with section 1129.
 
 #### senate report no. 95–989
 

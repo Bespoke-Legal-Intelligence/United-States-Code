@@ -34,7 +34,7 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (c) Suspension of interest in certain income, estate, gift, and certain excise tax cases
 
-In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
+In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certainexcise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
 
 #### (d) Income tax reduced by carryback or adjustment for certain unused deductions
 
@@ -44,7 +44,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increaseshall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -118,7 +118,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 &emsp;For purposes of this subsection, the term “2-percent portion” means the lesser of—
 
-&emsp;&emsp;(A)(i) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the sum of$1,000,000 and the applicable exclusion amount in effect under section 2010(c), reduced by
+&emsp;&emsp;(A)(i) the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the sum of $1,000,000 and the applicable exclusion amount in effect under section 2010(c), reduced by
 
 &emsp;&emsp;(ii) the applicable credit amount in effect under section 2010(c), or
 
@@ -144,9 +144,9 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635.)
 
-#### Adjustment of Dollar Amount Used in Determining “2-Percent Portion”
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2008, see section 3.38 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -322,7 +322,7 @@ Amendment by section 7106(c)(5) of Pub. L. 100–647 applicable to remuneration 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as a note under section 585 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c)of Pub. L. 100–203, set out as a note under section 585 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -432,7 +432,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 

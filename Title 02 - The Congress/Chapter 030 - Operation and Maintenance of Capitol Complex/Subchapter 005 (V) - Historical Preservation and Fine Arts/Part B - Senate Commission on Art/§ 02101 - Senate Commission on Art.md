@@ -14,7 +14,7 @@ The Secretary of the Senate shall appoint a Senate Curator approved by the Senat
 
 #### (d) Hearings and meetings
 
-The Commission shall be empowered to hold hearings, summon witnesses, administer oaths, employ reporters, request the production of papers and records, take such testimony, and adopt such rules for the conduct of its hearings and meetings, as it deems necessary.
+The Commission shall be empowered to hold hearings, summon witnesses, administer oaths,employ reporters, request the production of papers and records, take such testimony, and adopt such rules for the conduct of its hearings and meetings, as it deems necessary.
 
 (Pub. L. 100–696, title IX, §901(a), (b)(1), (3), Nov. 18, 1988, 102 Stat. 4610, 4611; Pub. L. 108–83, title I, §3(d)(1), Sept. 30, 2003, 117 Stat. 1012.)
 

@@ -4,25 +4,43 @@
 
 #### (1) In general
 
-&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year shall be equal to the sum of—
+&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
-&emsp;&emsp;(A) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, excluding the guaranteed portions of loans provided for in subparagraphs (C) and (D), multiplied by 0.0015;
+&emsp;&emsp;(A) the average outstanding insured obligations issued by the bank for the calendar year, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
 
-&emsp;&emsp;(B) the annual average principal outstanding for such year on loans made by the bank that are in nonaccrual status, multiplied by 0.0025;
+&emsp;&emsp;(B) the product obtained by multiplying—
 
-&emsp;&emsp;(C)(i) the annual average principal outstanding for such year on the guaranteed portions of Federal Government-guaranteed loans made by the bank that are in accrual status, multiplied by 0.00015; and
+&emsp;&emsp;&emsp;(i) the sum of—
 
-&emsp;&emsp;(ii) the annual average principal outstanding for such year on the guaranteed portions of State government-guaranteed loans made by the bank that are in accrual status, multiplied by 0.0003; and
+&emsp;&emsp;&emsp;&emsp;(I) the average principal outstanding for the calendar year on loans made by the bank that are in nonaccrual status; and
 
-&emsp;&emsp;(D) the annual average principal outstanding for such year on the guaranteed portions of Government Sponsored Enterprise-guaranteed loans made by the bank that are in accrual status, multiplied by a factor, not to exceed 0.0015, determined by the Corporation at the sole discretion of the Corporation.
+&emsp;&emsp;&emsp;&emsp;(II) the average amount outstanding for the calendar year of other-than-temporarily impaired investments made by the bank; by
 
-#### (2) Reduced premiums
+&emsp;&emsp;&emsp;(ii) 0.0010.
 
-&emsp;The Corporation, in the sole discretion of the Corporation, may reduce by a percentage uniformly applied to all insured System banks the annual premium due from each insured System bank during any calendar year, as determined under paragraph (1).
+#### (2) Deductions from average outstanding insured obligations
 
-#### (3) “Government-guaranteed loans” defined
+&emsp;The average outstanding insured obligations issued by the bank for the calendar year referred to in paragraph (1)(A) shall be reduced by deducting from the obligations the sum of (as determined by the Corporation)—
 
-&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteed loans” means loans or credits, or portions of loans or credits, that are guaranteed—
+&emsp;&emsp;(A) 90 percent of each of—
+
+&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on the guaranteed portions of Federal government-guaranteed loans made by the bank that are in accrual status; and
+
+&emsp;&emsp;&emsp;(ii) the average amount outstanding for the calendar year of the guaranteed portions of Federal government-guaranteed investments made by the bank that are not permanently impaired; and
+
+&emsp;&emsp;(B) 80 percent of each of—
+
+&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on the guaranteed portions of State government-guaranteed loans made by the bank that are in accrual status; and
+
+&emsp;&emsp;&emsp;(ii) the average amount outstanding for the calendar year of the guaranteed portions of State government-guaranteed investments made by the bank that are not permanently impaired.
+
+#### (3) Reduced premiums
+
+&emsp;The Corporation, in the sole discretion of the Corporation, may reduce by a percentage uniformly applied to all insured System banks the premium due from each insured System bank during any calendar year, as determined under paragraph (1).
+
+#### (4) Definition of government-guaranteed loans or investments
+
+&emsp;In this section, the term “government-guaranteed”, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—
 
 &emsp;&emsp;(A) by the full faith and credit of the United States Government or any State government;
 
@@ -30,27 +48,41 @@
 
 &emsp;&emsp;(C) by an agency or other entity of a State government whose obligations are explicitly guaranteed by such State government.
 
-#### (4) Definition of Government Sponsored Enterprise-guaranteed loan
-
-&emsp;In this section and sections 2020(b) and 2277a–5(a) of this title, the term “Government Sponsored Enterprise-guaranteed loan” means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.
-
 #### (b) Amount in Fund exceeding secure base amount
 
-At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the annual premium due from each insured System bank, as determined under subsection (a)(1) of this section, by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
+At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1) of this section, by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
 
 #### (c) Secure base amount
 
-For purposes of this part, the term “secure base amount” means, with respect to any point in time, 2 percent of the aggregate outstanding insured obligations of all insured System banks at such time (adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation), or such other percentage of the aggregate amount as the Corporation in its sole discretion determines is actuarially sound to maintain in the Insurance Fund taking into account the risk of insuring outstanding insured obligations.
+#### (1) In general
 
-#### (d) Determination of principal outstanding
+&emsp;For purposes of this part, the term “secure base amount” means, with respect to any point in time, 2 percent of the aggregate outstanding insured obligations of all insured System banks at such time (as adjusted under paragraph (2)), or such other percentage of the aggregate amount as the Corporation in its sole discretion determines is actuarially sound to maintain in the Insurance Fund taking into account the risk of insuring outstanding insured obligations.
 
-For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—
+#### (2) Adjustment
 
-&emsp;(1) by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
+&emsp;The aggregate outstanding insured obligations of all insured System banks under paragraph (1) shall be adjusted downward to exclude an amount equal to the sum of (as determined by the corporation)—
 
-&emsp;(2) by any bank, company, institution, corporation, union, or association described in section 2015(b)(1)(B) of this title, that is able to make such loans because such entity is receiving, or has received, funds provided through the insured System bank; and
+&emsp;&emsp;(A) 90 percent of each of—
 
-&emsp;(3) by such insured System bank (other than loans made to any party described in paragraph (1) or (2)).
+&emsp;&emsp;&emsp;(i) the guaranteed portions of principal outstanding on Federal government-guaranteed loans in accrual status made by the banks; and
+
+&emsp;&emsp;&emsp;(ii) the guaranteed portions of the amount of Federal government-guaranteed investments made by the banks that are not permanently impaired; and
+
+&emsp;&emsp;(B) 80 percent of each of—
+
+&emsp;&emsp;&emsp;(i) the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by the banks; and
+
+&emsp;&emsp;&emsp;(ii) the guaranteed portions of the amount of State government-guaranteed investments made by the banks that are not permanently impaired.
+
+#### (d) Determination of loan and investment amounts
+
+For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—
+
+&emsp;(1) all loans or investments made by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans or investments because such association is receiving, or has received, funds provided through the insured System bank;
+
+&emsp;(2) all loans or investments made by any bank, company, institution, corporation, union, or association described in section 2015(b)(1)(B) of this title, that is able to make such loans or investments because such entity is receiving, or has received, funds provided through the insured System bank; and
+
+&emsp;(3) all loans or investments made by such insured System bank (other than loans made to any party described in paragraph (1) or (2)).
 
 #### (e) Allocation to System institutions of excess reserves
 
@@ -68,7 +100,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (3) Annual allocations
 
-&emsp;If, at the end of any calendar year, the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the average secure base amount for the calendar year (as calculated on an average daily balance basis), the Corporation shall allocate to the Allocated Insurance Reserves Accounts the excess amount less the amount that the Corporation, in its sole discretion, determines to be the sum of the estimated operating expenses and estimated insurance obligations of the Corporation for the immediately succeeding calendar year.
+&emsp;If, at the end of any calendar year, the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall allocate to the Allocated Insurance Reserves Accounts the excess amount less the amount that the Corporation, in its sole discretion, determines to be the sum of the estimated operating expenses and estimated insurance obligations of the Corporation for the immediately succeeding calendar year.
 
 #### (4) Allocation formula
 
@@ -76,7 +108,11 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;(A) 10 percent of the total amount shall be credited to the Allocated Insurance Reserves Account established under paragraph (1)(B), subject to paragraph (6)(C); and
 
-&emsp;&emsp;(B) there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).
+&emsp;&emsp;(B) there shall be credited to the allocated insurance reserves account <sup>1</sup> of each insured system <sup>2</sup> bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as—
+
+&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligations issued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
+
+&emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)).
 
 #### (5) Use of funds in Allocated Insurance Reserves Accounts
 
@@ -90,19 +126,11 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable during each calendar year beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005, the Corporation may—
+&emsp;&emsp;As soon as practicable during each calendar year, the Corporation may—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
+&emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;&emsp;(I) 20 percent of the balance in the insured System bank's Allocated Insurance Reserves Account as of the preceding December 31; or
-
-&emsp;&emsp;&emsp;&emsp;(II) 20 percent of the balance in the bank's Allocated Insurance Reserves Account on the date of the payment; and
-
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C), (E), and (F), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding, of the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
-
-&emsp;&emsp;&emsp;&emsp;(II) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) on the date of the payment.
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -112,17 +140,15 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (i) Sufficient funding
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)), the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
+&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000, the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
 
-#### (ii) Wind down and termination
+#### (ii) Termination of account
 
-#### (I) Final disbursements
+&emsp;&emsp;&emsp;On disbursement of an amount equal to $56,000,000, the Corporation shall—
 
-&emsp;&emsp;&emsp;&emsp;On disbursement of $53,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall disburse the remaining amounts in the Account, as determined under subparagraph (A)(ii), without regard to the percentage limitations in subclauses (I) and (II) of subparagraph (A)(ii).
+&emsp;&emsp;&emsp;&emsp;(I) close the account established under paragraph (1)(B); and
 
-#### (II) Termination of Account
-
-&emsp;&emsp;&emsp;&emsp;On disbursement of $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall close the Account established under paragraph (1)(B) and transfer any remaining funds in the Account to the remaining Allocated Insurance Reserves Accounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
+&emsp;&emsp;&emsp;&emsp;(II) transfer any remaining funds in the Account to the remaining Allocated Insurance Reserves Accounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
 
 #### (D) Distribution of payments received
 
@@ -132,19 +158,51 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;For purposes of subparagraph (A)(ii), in any Farm Credit district in which the funding bank has reimbursed 1 or more affiliated associations of the bank for the previously unreimbursed portion of the Financial Assistance Corporation stock held by the associations, the funding bank shall be deemed to be the holder of the shares of Financial Assistance Corporation stock for which the funding bank has provided the reimbursement.
 
-#### (F) Initial payment
+(Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, §5403(a)(1), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, §5404, May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5404, June 18, 2008, 122 Stat. 1664, 1916.)
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the initial payment made to each payee under subparagraph (A) shall be in such amount determined by the Corporation to be equal to the sum of—
+#### Codification
 
-&emsp;&emsp;&emsp;(i) the total of the amounts that would have been paid if payments under subparagraph (A) had been authorized to begin, under the same terms and conditions, in the first calendar year beginning more than 5 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, and to continue through the 2 immediately subsequent years;
-
-&emsp;&emsp;&emsp;(ii) interest earned on any amounts that would have been paid as described in clause (i) from the date on which the payments would have been paid as described in clause (i); and
-
-&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A), based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
-
-(Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, §5403(a)(1), May 13, 2002, 116 Stat. 350.)
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §5404(a)(1)(A), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and struck out “annual” before “premium”.
+
+Subsec. (a)(1)(A) to (D). Pub. L. 110–246, §5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
+
+Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out “annual” before “premium”, in par. (4), inserted “or investments” after “loans” in heading and, in introductory provisions, substituted “In this section, the term ‘government-guaranteed’, when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—” for “As used in this section and section 2020(b) of this title, the term ‘government-guaranteed loans’ means loans or credits, or portions of loans or credits, that are guaranteed—”, and struck out former par. (4).Prior to amendment, text read as follows: “In this section and sections 2020(b) and 2277a–5(a) of this title, the term ‘Government Sponsored Enterprise-guaranteed loan’ means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.”
+
+Subsec. (b). Pub. L. 110–246, §5404(b), struck out “annual” before “premium”.
+
+Subsec. (c). Pub. L. 110–246, §5404(c), designated existing provisions as par. (1), inserted heading, substituted “(as adjusted under paragraph (2))” for “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)”, and added par. (2).
+
+Subsec. (d). Pub. L. 110–246, §5404(d)(1), (2), in heading, substituted “loan and investment amounts” for “principal outstanding” and, in introductory provisions, substituted “For the purpose of subsections (a) and (c), the principal outstanding on all loans made by an insured System bank, and the amount outstanding on all investments made by an insured System bank, shall be determined based on—” for “For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—”.
+
+Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3), inserted “all loans or investments made” after par. designation and, in pars. (1) and (2), inserted “or investments” after “such loans”.
+
+Subsec. (e)(3). Pub. L. 110–246, §5404(e)(1), substituted “the secure base amount” for “the average secure base amount for the calendar year (as calculated on an average daily balance basis)”.
+
+Subsec. (e)(4)(B). Pub. L. 110–246, §5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section).”
+
+Subsec. (e)(6)(A). Pub. L. 110–246, §5404(e)(3)(A)(i), struck out “beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005” after “calendar year” in introductory provisions.
+
+Subsec. (e)(6)(A)(i). Pub. L. 110–246, §5404(e)(3)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “subject to subparagraphs (D) and (F), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the lesser of—
+
+&emsp;“(I) 20 percent of the balance in the insured System bank's Allocated Insurance Reserves Account as of the preceding December 31; or
+
+&emsp;“(II) 20 percent of the balance in the bank's Allocated Insurance Reserves Account on the date of the payment; and”.
+
+Subsec. (e)(6)(A)(ii). Pub. L. 110–246, §5404(e)(3)(A)(iii), substituted “subparagraphs (C) and (E)” for “subparagraphs (C), (E), and (F)” and “at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).” for “, of the lesser of—
+
+&emsp;“(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
+
+&emsp;“(II) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) on the date of the payment.”
+
+Subsec. (e)(6)(C)(i). Pub. L. 110–246, §5404(e)(3)(B)(i), struck out “(in addition to the amounts described in subparagraph (F)(ii))” after “an amount equal to $56,000,000”.
+
+Subsec. (e)(6)(C)(ii). Pub. L. 110–246, §5404(e)(3)(B)(ii), added cl. (ii) and struck out former cl. (ii) which related to wind down and termination of the Allocated Insurance Reserves Account established under subsec. (e)(1) of this section.
+
+Subsec. (e)(6)(F). Pub. L. 110–246, §5404(e)(3)(C), struck out subpar. (F) which related to determination of amount of initial payment made to each payee under subsec. (e)(6)(A) of this section.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–171, §5403(a)(1)(A)(i)(I), substituted “loans provided for in subparagraphs (C) and (D)” for “government-guaranteed loans provided for in subparagraph (C)”.
 
@@ -172,7 +230,7 @@ Subsec. (e). Pub. L. 104–105, §215(b), added subsec. (e).
 
 Subsec. (b). Pub. L. 101–220, §6(a)(2), inserted “, as determined under subsection (a) of this section,” after “calendar year”.
 
-Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
+Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted “(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteedloans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)” after “such time”.
 
 Subsec. (d). Pub. L. 101–220, §6(a)(4), in introductory provisions, substituted “subsections (a) and (c) of this section” for “subsection (a) of this section” and struck out “intermediate term” after “outstanding on all”, inserted par. (1), and struck out former par. (1) which read as follows: “by the production credit associations in the district in which such bank is located;”.
 
@@ -181,6 +239,10 @@ Subsec. (d). Pub. L. 101–220, §6(a)(4), in introductory provisions, substitut
 Subsec. (d)(2). Pub. L. 100–399, §302(d), (e), substituted “section 2015(b)(1)(B) of this title” for “section 2074(a)(2) of this title” and “Farm Credit Bank” for “Federal intermediate credit bank”.
 
 Subsec. (d)(3). Pub. L. 100–399, §302(e), substituted “Farm Credit Bank” for “Federal intermediate credit bank”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 2002 Amendment
 
@@ -257,4 +319,8 @@ Potential Savings.—The Comptroller General of the United States shall evaluate
 “(d)
 
 Deadline.—The reports required under this section shall be provided to Congress not later than 12 months after the date of enactment of this Act \[Oct. 28, 1992\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Allocated Insurance Reserves Account”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “System”.</i>
 

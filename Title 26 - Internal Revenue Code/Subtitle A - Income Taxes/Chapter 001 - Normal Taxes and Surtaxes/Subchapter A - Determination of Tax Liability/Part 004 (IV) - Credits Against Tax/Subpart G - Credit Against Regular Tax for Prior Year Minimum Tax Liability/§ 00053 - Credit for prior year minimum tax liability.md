@@ -72,27 +72,11 @@ For purposes of this section—
 
 #### (2) AMT refundable credit amount
 
-&emsp;For purposes of paragraph (1)—
+&emsp;For purposes of paragraph (1), the term “AMT refundable credit amount” means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
 
-#### (A) In general
+&emsp;&emsp;(A) 50 percent of the long-term unused minimum tax credit for such taxable year, or
 
-&emsp;&emsp;The term “AMT refundable credit amount” means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
-
-&emsp;&emsp;&emsp;(i) $5,000,
-
-&emsp;&emsp;&emsp;(ii) 20 percent of the long-term unused minimum tax credit for such taxable year, or
-
-&emsp;&emsp;&emsp;(iii) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer's preceding taxable year (as determined before any reduction under subparagraph (B)).
-
-#### (B) Phaseout of AMT refundable credit amount
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;In the case of an individual whose adjusted gross income for any taxable year exceeds the threshold amount (within the meaning of section 151(d)(3)(C)), the AMT refundable credit amount determined under subparagraph (A) for such taxable year shall be reduced by the applicable percentage (within the meaning of section 151(d)(3)(B)).
-
-#### (ii) Adjusted gross income
-
-&emsp;&emsp;&emsp;For purposes of clause (i), adjusted gross income shall be determined without regard to sections 911, 931, and 933.
+&emsp;&emsp;(B) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer's preceding taxable year (determined without regard to subsection (f)(2)).
 
 #### (3) Long-term unused minimum tax credit
 
@@ -108,13 +92,31 @@ For purposes of this section—
 
 &emsp;For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473.)
+#### (f) Treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options
+
+#### (1) Abatement
+
+&emsp;Any underpayment of tax outstanding on the date of the enactment of this subsection which is attributable to the application of section 56(b)(3) for any taxable year ending before January 1, 2008, and any interest or penalty with respect to such underpayment which is outstanding on such date of enactment, is hereby abated. The amount determined under subsection (b)(1) shall not include any tax abated under the preceding sentence.
+
+#### (2) Increase in credit for certain interest and penalties already paid
+
+&emsp;The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer's first 2 taxable years beginning after December 31, 2007, shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).
+
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (f), is the date of enactment of Pub. L. 110–343, which was approved Oct. 3, 2008.
 
 #### Prior Provisions
 
-A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, titleI, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
+
+2008—Subsec. (e)(2). Pub. L. 110–343, §103(a), reenacted heading without change and amended text generally. Prior to amendment, par. (2) defined “AMT refundable credit amount” and provided for phaseout of AMT refundable credit amount based on adjusted gross income.
+
+Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
 2007—Subsec. (e)(2)(A). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘AMT refundable credit amount’ means, with respect to any taxable year, the amount equal to the greater of—
 
@@ -160,6 +162,18 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title I, §103(c), Oct. 3, 2008, 122 Stat. 3864, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.
+
+“(2)
+
+Abatement.—Section 53(f)(1), as added by subsection (b), shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\].”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–172, §2(b), Dec. 29, 2007, 121 Stat. 2474, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432\] to which it relates.”
@@ -184,7 +198,7 @@ Section 1704(j)(1) of Pub. L. 104–188 provided that the amendment made by that
 
 #### Effective Date of 1993 Amendment
 
-Section 13113(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Section 13113(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 Section 13171(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 56 and 57 of this title\] shall apply to contributions made after June 30, 1992, except that in the case of any contribution of capital gain property which is not tangible personal property, such amendments shall apply only if the contribution is made after December 31, 1992.”
 

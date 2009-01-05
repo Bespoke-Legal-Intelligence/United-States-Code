@@ -66,7 +66,7 @@ Participates in a noncontiguous domestic trade defined.—In this subsection the
 
 (f)
 
-Priority in Allocation of Available Amounts.—If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under eachagreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).
+Priority in Allocation of Available Amounts.—If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516.)
 

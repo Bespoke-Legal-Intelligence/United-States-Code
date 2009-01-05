@@ -86,7 +86,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 5 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor underthis section from term to term without regard to section 5 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
 
 #### (C) Transfer of functions
 
@@ -170,7 +170,7 @@
 
 #### (B) Relationship to False Claims Act
 
-&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct thatwould constitute a violation of sections 3729 through 3731 of title 31.
+&emsp;&emsp;Nothing in this subsection shall be construed to limit liability for conduct that would constitute a violation of sections 3729 through 3731 of title 31.
 
 #### (4) Indemnification by Secretary
 
@@ -208,7 +208,7 @@
 
 #### (A) Performance of annual evaluations
 
-&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
+&emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall undergo an evaluation of the information security of thecontractor with respect to such functions under this subchapter. The evaluation shall—
 
 &emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
@@ -294,7 +294,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (B) Use of standard protocols when conducting prepayment reviews
 
-&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review,the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
+&emsp;&emsp;When a medicare administrative contractor conducts a random prepayment review, the contractor may conduct such review only in accordance with a standard protocol for random prepayment audits developed by the Secretary.
 
 #### (C) Construction
 
@@ -542,7 +542,7 @@ Consultation with practicing physicians.—In designing and carrying out the stu
 
 &emsp;“(4)
 
-Application of hipaa uniform coding requirements.—In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
+Application of hipaa uniform coding requirements.—In developing an alternative system underparagraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
 
 &emsp;“(5)
 

@@ -112,5 +112,5 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 #### Regulations
 
-Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
+Pub. L. 110–157, title II, §202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days afterthe date of the enactment of this Act \[Dec. 26, 2007\], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection \[amending this section\].”
 

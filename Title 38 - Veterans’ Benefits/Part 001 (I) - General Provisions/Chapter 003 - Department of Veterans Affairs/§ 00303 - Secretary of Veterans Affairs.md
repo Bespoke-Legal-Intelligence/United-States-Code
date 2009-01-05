@@ -42,7 +42,7 @@ Pub. L. 100–687, div. B, title XIV, §1404, Nov. 18, 1988, 102 Stat. 4131, as 
 
 “(a)
 
-Budget Information.—In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 oftitle 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
+Budget Information.—In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
 
 &emsp;“(1) Employment services and other employment benefits under programs administered by the Secretary of Labor.
 
@@ -84,7 +84,7 @@ Report on Feasibility.—If the Secretary of Veterans Affairs or the Secretary o
 
 #### Information and Training Concerning AIDS Prevention
 
-Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pub. L. 102–83, §6(j)(2), Aug. 6, 1991, 105 Stat. 409; Pub. L. 102–531, title III, §312(c), Oct. 27, 1992, 106 Stat. 3504, provided that:
+Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pub. L. 102–83, §6(j)(2), Aug. 6, 1991, 105Stat. 409; Pub. L. 102–531, title III, §312(c), Oct. 27, 1992, 106 Stat. 3504, provided that:
 
 “(a)
 

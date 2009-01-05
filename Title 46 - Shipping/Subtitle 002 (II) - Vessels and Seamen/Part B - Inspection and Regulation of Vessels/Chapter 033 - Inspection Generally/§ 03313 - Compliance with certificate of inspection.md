@@ -2,7 +2,7 @@
 
 (a) During the term of a vessel's certificate of inspection, the vessel must be in compliance with its conditions, unless relieved by a suspension or an exemption granted under section 3306(e) of this title.
 
-(b) When a vessel is not in compliance with its certificate or fails to meet a standard prescribedby this part or a regulation prescribed under this part—
+(b) When a vessel is not in compliance with its certificate or fails to meet a standard prescribed by this part or a regulation prescribed under this part—
 
 &emsp;(1) the owner, charterer, managing operator, agent, master, or individual in charge shall be ordered in writing to correct the noted deficiencies promptly;
 

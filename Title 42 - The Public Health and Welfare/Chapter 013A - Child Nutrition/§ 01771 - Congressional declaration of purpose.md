@@ -4,6 +4,10 @@ In recognition of the demonstrated relationship between food and good nutrition 
 
 (Pub. L. 89–642, §2, Oct. 11, 1966, 80 Stat. 885.)
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–247, §1, June 20, 2008, 122 Stat. 2314, provided that: “This Act \[enacting section 1792 of this title and provisions set out as notes under section 1792 of this title\] may be cited as the ‘Federal Food Donation Act of 2008’.”
+
 #### Short Title of 1992 Amendments
 
 Pub. L. 102–512, §1, Oct. 24, 1992, 106 Stat. 3363, provided that: “This Act \[amending sections 1769, 1776, and 1786 of this title and enacting provisions set out as notes under this section and sections 1769 and 1786 of this title\] may be cited as the ‘Children's Nutrition Assistance Act of 1992’.”

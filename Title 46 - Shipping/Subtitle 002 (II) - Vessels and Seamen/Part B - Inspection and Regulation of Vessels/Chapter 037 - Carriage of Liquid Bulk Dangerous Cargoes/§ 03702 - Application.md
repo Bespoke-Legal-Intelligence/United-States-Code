@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 46:391a
 
-Section 3702, with certain exceptions, makes this chapter applicable to any tank vessel operating in the navigable waters of the United States or transferring oil or hazardous materials in any port or place subject to the jurisdiction of the United States, and which carries oil or any hazardous materials in bulk as cargo or in residue, regardless of tonnage, size or manner of propulsion; whether it is self-propelled or not; whether itis carrying freight or passengers for hire or not; and whether it is a vessel of the United States or a foreign vessel.
+Section 3702, with certain exceptions, makes this chapter applicable to any tank vessel operating in the navigable waters of the United States or transferring oil or hazardous materials in any port or place subject to the jurisdiction of the United States, and which carries oil or any hazardous materials in bulk as cargo or in residue, regardless of tonnage, size or manner of propulsion; whether it is self-propelled or not; whether it is carrying freight or passengers for hire or not; and whether it is a vessel of the United States or a foreign vessel.
 
 It exempts certain small vessels documented in the service of oil exploitation, certain small tender and fishing vessels used in the Northwest salmon or crab fisheries, certain vessels used in the processing and assembling of fishery products used in the Northwest fisheries, public vessels, and foreign vessels engaged on innocent passage on the navigable waters of the United States. However, processing vessels, while not treated as tank vessels, are still subject to regulation when carrying flammable or combustible liquid cargo in bulk.
 

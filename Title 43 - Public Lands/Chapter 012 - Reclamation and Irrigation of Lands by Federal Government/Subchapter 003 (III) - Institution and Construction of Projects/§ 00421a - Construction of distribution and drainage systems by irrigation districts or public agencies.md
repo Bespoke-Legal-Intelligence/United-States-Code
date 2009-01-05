@@ -6,5 +6,5 @@ Distribution and drainage systems authorized to be constructed under the Federal
 
 #### Amendments
 
-1972—Pub. L. 92–487 substituted provisions relating to construction of distribution and drainage systems, for provisions relating to construction of irrigation systems, and inserted provisions setting forth the type of drainage systems subject to coverage of sections 421a to 421h of this title.
+1972—Pub. L. 92–487 substituted provisions relating to construction of distribution and drainage systems, forprovisions relating to construction of irrigation systems, and inserted provisions setting forth the type of drainage systems subject to coverage of sections 421a to 421h of this title.
 

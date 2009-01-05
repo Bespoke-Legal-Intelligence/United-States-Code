@@ -36,7 +36,7 @@
 
 #### (c) Exemption for certain consumer cooperatives
 
-A cooperative which the Secretary determines is primarily engaged in selling at retail goods or services of a type that are generally for personal, living, or family use shall, upon application to the Secretary, be granted exemption from the reporting requirements imposed by subsection (a). Application for exemption under this subsection shall be made in accordance with regulations prescribed by the Secretary.
+A cooperative which the Secretary determines is primarily engaged in selling at retail goods or services of a type that are generally for personal, living, or family use shall, upon application to the Secretary, be granted exemption from the reporting requirements imposed bysubsection (a). Application for exemption under this subsection shall be made in accordance with regulations prescribed by the Secretary.
 
 #### (d) Determination of amount paid
 
@@ -108,7 +108,7 @@ Amendment by section 108(c) of Pub. L. 98–67 applicable with respect to paymen
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub.L. 89–809, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub. L. 89–809, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1962 Amendment
 

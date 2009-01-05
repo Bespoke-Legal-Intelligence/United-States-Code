@@ -10,11 +10,11 @@ The Secretary of the Interior is authorized to accept title to any non-Federal p
 
 #### (c) Solid waste disposal operations prohibited; exceptions; regulations
 
-In order to protect the air, land, water, and natural and cultural values of the National Park System and the property of the United States therein, no solid waste disposal site (including any site for the disposal of domestic or industrial solid wastes) may be operated within the boundary of any unit of the National Park System, other than—
+In order to protect the air, land, water, and natural and cultural values of the National ParkSystem and the property of the United States therein, no solid waste disposal site (including any site for the disposal of domestic or industrial solid wastes) may be operated within the boundary of any unit of the National Park System, other than—
 
 &emsp;(1) a site which was operating as of September 1, 1984, or
 
-&emsp;(2) a site used only for disposal of wastes generated within that unit of the park systemso long as such site will not degrade any of the natural or cultural resources of such park unit.
+&emsp;(2) a site used only for disposal of wastes generated within that unit of the park system so long as such site will not degrade any of the natural or cultural resources of such park unit.
 
 > The Secretary of the Interior shall promulgate regulations to carry out the provisions of this subsection, including reasonable regulations to mitigate the adverse effects of solid waste disposal sites in operation as of September 1, 1984, upon property of the United States.
 

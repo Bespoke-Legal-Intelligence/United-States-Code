@@ -54,7 +54,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Certify that the State has in effect licensing requirements applicable to child care services provided within the State, and provide a detailed description of such requirements and of how such requirements are effectively enforced. Nothing in the preceding sentence shall be construed to require that licensing requirements beapplied to specific types of providers of child care services.
+&emsp;&emsp;&emsp;Certify that the State has in effect licensing requirements applicable to child care services provided within the State, and provide a detailed description of such requirements and of how such requirements are effectively enforced. Nothing in the preceding sentence shall be construed to require that licensing requirements be applied to specific types of providers of child care services.
 
 #### (ii) Indian tribes and tribal organizations
 
@@ -116,7 +116,7 @@ The State plan contained in the application under subsection (a) of this section
 
 The Secretary shall approve an application that satisfies the requirements of this section.
 
-(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33, title V, §5602(1), Aug. 5, 1997, 111 Stat. 645.)
+(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33, title V, §5602(1), Aug. 5, 1997, 111 Stat. 645.)
 
 #### References in Text
 

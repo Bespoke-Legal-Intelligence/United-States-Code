@@ -14,7 +14,7 @@ Section 853f, act June 3, 1948, ch. 390, §7, 62 Stat. 298, related to length of
 
 Section 853g, acts June 3, 1948, ch. 390, §8, 62 Stat. 298; Pub. L. 98–498, title III, §320(a)(1), Oct. 19, 1984, 98 Stat. 2307, related to retirement or separation of officers. See section 3041 of this title.
 
-Section 853h, acts June 3, 1948, ch. 390, §9, 62 Stat. 299; Pub. L. 87–649, §9(b)(1), Sept. 7, 1962, 76 Stat. 495; Pub. L. 98–498, title III, §320(a)(1), Oct. 19, 1984, 98 Stat. 2307; Pub. L. 102–54, §13(m)(1), June 13, 1991, 105 Stat. 277; Pub. L. 105–85, div. A, title VI, §652(a), (b), Nov. 18, 1997, 111 Stat. 1803, 1804, related to separation pay of officers. See section 3042 of this title.
+Section 853h, acts June 3, 1948, ch. 390, §9, 62 Stat. 299; Pub. L. 87–649, §9(b)(1), Sept. 7, 1962, 76 Stat. 495; Pub. L. 98–498, title III, §320(a)(1), Oct. 19, 1984, 98 Stat. 2307; Pub. L. 102–54, §13(m)(1), June 13, 1991, 105 Stat. 277;Pub. L. 105–85, div. A, title VI, §652(a), (b), Nov. 18, 1997, 111 Stat. 1803, 1804, related to separation pay of officers. See section 3042 of this title.
 
 Section 853i, acts June 3, 1948, ch. 390, §10, 62 Stat. 299; June 21, 1955, ch. 172, §4(b), 69 Stat. 170, directed that appointments and promotions be made by President and authorized suspension of provisions in time of emergency. See sections 3026 and 3033 of this title.
 

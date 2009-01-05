@@ -36,7 +36,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Each of the Federal seizing agencies conducting nonjudicial forfeitures under this section shall report periodically to the Committees on the Judiciary of the House of Representatives and the Senate the number of occasions when an extension of time is granted under subparagraph (B).
 
-&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of timeis granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
+&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of time is granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
 
 &emsp;(2)(A) Any person claiming property seized in a nonjudicial civil forfeiture proceeding under a civil forfeiture statute may file a claim with the appropriate official after the seizure.
 
@@ -188,7 +188,7 @@ Motion To Set Aside Forfeiture.—
 
 &emsp;(4) If, at the time a motion made under paragraph (1) is granted, the forfeited property has been disposed of by the Government in accordance with law, the Government may institute proceedings against a substitute sum of money equal to the value of the moving party's interest in the property at the time the property was disposed of.
 
-&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to set aside a declaration of forfeiture under a civil forfeiture statute.
+&emsp;(5) A motion filed under this subsection shall be the exclusive remedy for seeking to setaside a declaration of forfeiture under a civil forfeiture statute.
 
 (f)
 
@@ -270,7 +270,7 @@ Civil Fine.—
 
 &emsp;(2) Any civil fine imposed under this subsection shall not preclude the court from imposing sanctions under rule 11 of the Federal Rules of Civil Procedure.
 
-&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no event shall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
+&emsp;(3) In addition to the limitations of section 1915 of title 28, United States Code, in no eventshall a prisoner file a claim under a civil forfeiture statute or appeal a judgment in a civil action or proceeding based on a civil forfeiture statute if the prisoner has, on three or more prior occasions, while incarcerated or detained in any facility, brought an action or appeal in a court of the United States that was dismissed on the grounds that it is frivolous or malicious, unless the prisoner shows extraordinary and exceptional circumstances.
 
 (i)
 
@@ -340,7 +340,7 @@ Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
+Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The amendment made by this section\[amending this section\] shall take effect as if included in the amendment made by section 2(a) of Public Law 106–185.”
 
 #### Effective Date
 

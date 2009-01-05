@@ -90,7 +90,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (A) General limitation
 
-&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
+&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity)shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -166,7 +166,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (1) Submission to Corporation
 
-&emsp;The chief executive officer for a State shall notify the Corporation of the establishment or designation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
+&emsp;The chief executive officer for a State shall notify the Corporation of the establishment ordesignation of the State Commission or use of an alternative administrative entity for the State. The notification shall include a description of—
 
 &emsp;&emsp;(A) the composition and membership of the State Commission or alternative administrative entity; and
 
@@ -236,7 +236,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
+&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts oromissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
 
 #### (3) Effect on other law
 
@@ -258,7 +258,7 @@ The Community Services Block Grant Act, referred to in subsec. (i)(1), is subtit
 
 #### Prior Provisions
 
-A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–10, §8(1), Mar. 12,1991, 105 Stat. 31, provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by Pub. L. 103–82, §201(a).
+A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–10, §8(1), Mar. 12, 1991, 105 Stat. 31, provided that States applying for assistance under this subchapter be encouraged to establish a State Advisory Board for National and Community Service and set out additional provisions for membership and duties of such boards, prior to repeal by Pub. L. 103–82, §201(a).
 
 #### Amendments
 

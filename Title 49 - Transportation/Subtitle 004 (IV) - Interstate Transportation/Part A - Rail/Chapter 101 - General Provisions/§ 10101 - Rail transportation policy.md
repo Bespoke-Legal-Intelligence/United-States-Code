@@ -46,6 +46,12 @@ Section 10101a, added Pub. L. 96–448, title I, §101(a), Oct. 14, 1980, 94 Sta
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–432, div. A, title VI, §601, Oct. 16, 2008, 122 Stat. 4900, provided that: “This title \[enacting sections 10908 to 10910 of this title and amending section 10501 of this title\] may be cited as the ‘Clean Railroads Act of 2008’.”
+
+Pub. L. 110–291, §1, July 30, 2008, 122 Stat. 2915, provided that: “This Act \[amending sections 13102, 13902, and 13905 of this title and enacting provisions set out as notes under section 13902 of this title\] may be cited as the ‘Over-the-Road Bus Transportation Accessibility Act of 2007’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–59, title IV, §4201, Aug. 10, 2005, 119 Stat. 1751, provided that: “This subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, enacting sections 14710, 14711, and 14915 of this title, amending sections 13102, 13707, 13902, 14104, 14501, 14706, 14708, and 14901 of this title, and enacting provisions set out as notes under sections 13102, 14701, 14706, and 14710 of this title\] may be cited as the ‘Household Goods Mover Oversight Enforcement and Reform Act of 2005’\[.\]”

@@ -38,7 +38,7 @@ There is established within the Administration a program to be carried out by th
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
+&emsp;&emsp;Subject to subparagraph (B), in any case in which a contract is to be awarded on thebasis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
 
 #### (B) Procurement of commodities
 
@@ -100,7 +100,7 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938
 
 #### Prior Provisions
 
-A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 

@@ -39,6 +39,7 @@
 | [7328\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007328%20-%20Medical%20preparedness%20centers.md) | Medical preparedness centers. |
 | [7329\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007329%20-%20Parkinson%27s%20Disease%20research%2C%20education%2C%20and%20clinical%20centers.md) | Parkinson's Disease research, education, and clinical centers. |
 | [7330\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330%20-%20Multiple%20sclerosis%20centers%20of%20excellence.md) | Multiple sclerosis centers of excellence. |
+| [7330A.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330A%20-%20Epilepsy%20centers%20of%20excellence.md) | Epilepsy centers of excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,12 +70,13 @@
 | [7364A.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007364A%20-%20Coverage%20of%20employees%20under%20certain%20Federal%20tort%20claims%20laws.md) | Coverage of employees under certain Federal tort claims laws. |
 | [7365\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007365%20-%20Applicable%20State%20law.md) | Applicable State law. |
 | [7366\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007366%20-%20Accountability%20and%20oversight.md) | Accountability and oversight. |
-| \[7367. | Repealed.\] |
-| [7368\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007368%20-%20Expiration%20of%20authority.md) | Expiration of authority. |
+| \[7367, 7368. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–387, title IV, §404(b), title VIII, §806(b), Oct. 10, 2008, 122 Stat. 4129, 4141, added item 7330A and struck out item 7368 “Expiration of authority”.
 
 2006—Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

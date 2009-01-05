@@ -10,7 +10,7 @@ Fund Management.—
 
 &emsp;(A) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Northern Fund pursuant to paragraph (1) shall be administered by a Northern Fund Committee, which shall be comprised of three representatives of the Government of Canada, and three representatives of the United States. The three United States representatives shall be the United States Commissioner and Alternate Commissioner appointed (or designated) from a list submitted by the Governor of Alaska for appointment to the Pacific Salmon Commission and the Regional Administrator of the National Marine Fisheries Service for the Alaska Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area from Cape Caution, Canada to Cape Suckling, Alaska may be approved for funding by the Northern Fund Committee.
 
-&emsp;(B) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Southern Fund pursuant to paragraph (1) shall be administered by a Southern Fund Committee, which shall be comprised of three representatives of Canada and three representatives of the United States. The United States representatives shall be appointed by the Secretary of Commerce: one shall be selected from a list of three qualified individuals submitted by the Governors of the States of Washington and Oregon; one shall be selected from a list of three qualified individuals submitted by the treaty Indian tribes (as defined by the Secretary of Commerce); and one shall be the Regional Administrator of the National Marine Fisheries Service for the Northwest Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area south of Cape Caution, Canada may be approved for funding by the Southern Fund Committee.
+&emsp;(B) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Southern Fund pursuant to paragraph (1) shall be administered by a Southern Fund Committee, which shall be comprised of three representatives of Canada and three representatives of the United States. The United States representatives shall be appointed by the Secretary of Commerce: one shall be selected from a list of three qualified individuals submitted by the Governors of the States of Washington and Oregon; one shall be selected from a list of three qualified individuals submitted by the treaty Indian tribes (as definedby the Secretary of Commerce); and one shall be the Regional Administrator of the National Marine Fisheries Service for the Northwest Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area south of Cape Caution, Canada may be approved for funding by the Southern Fund Committee.
 
 #### (b) Pacific Salmon Treaty implementation
 
@@ -28,7 +28,7 @@ Fund Management.—
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
-(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
+(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
 
 (4) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce may not initiate or reinitiate consultation on Alaska fisheries under section 7 of Public Law 93–205, as amended \[16 U.S.C. 1536\], until—
 
@@ -64,7 +64,7 @@ Fund Management.—
 
 #### References in Text
 
-Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, asamended, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 

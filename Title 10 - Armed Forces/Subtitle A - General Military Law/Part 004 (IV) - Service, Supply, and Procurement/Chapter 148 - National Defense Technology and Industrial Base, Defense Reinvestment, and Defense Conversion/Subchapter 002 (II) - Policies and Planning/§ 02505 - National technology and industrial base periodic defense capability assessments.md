@@ -2,7 +2,7 @@
 
 (a)
 
-Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selectedassessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
+Periodic Assessment.—Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 2501(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
 (b)
 

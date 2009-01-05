@@ -76,7 +76,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;&emsp;&emsp;(I) the Attorney General of the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) the appropriate Federal functional regulator (as defined in section 6809 of this title), other than the Commission, with respect to an audit report for an institution subject to the jurisdiction of such regulator;
+&emsp;&emsp;&emsp;&emsp;(II) the appropriate Federal functional regulator (as defined in section 6809 of this title), other than the Commission, and the Director of the Federal Housing Finance Agency, with respect to an audit report for an institution subject to the jurisdiction of such regulator;
 
 &emsp;&emsp;&emsp;&emsp;(III) State attorneys general in connection with any criminal investigation; and
 
@@ -166,7 +166,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Association with a public accounting firm
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered publicaccounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
 #### (B) Association with an issuer
 
@@ -204,13 +204,17 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
 
-(Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759.)
+(Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, §1161(h), July 30, 2008, 122 Stat. 2781.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the “Privacy Act”.
+
+#### Amendments
+
+2008—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@
 
 #### (1) Methods
 
-&emsp;The Governor, acting in accordance with the State plan, and after consulting with chief elected officials in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 2852(b)(1)(C) of this title and are not reservedunder subsection (a) of this section, in accordance with paragraph (2) or (3).
+&emsp;The Governor, acting in accordance with the State plan, and after consulting with chief elected officials in the local areas, shall allocate the funds that are allotted to the State for youth activities and statewide workforce investment activities under section 2852(b)(1)(C) of this title and are not reserved under subsection (a) of this section, in accordance with paragraph (2) or (3).
 
 #### (2) Formula allocation
 
@@ -72,7 +72,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be used for the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
+&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be usedfor the administrative cost of any of the local workforce investment activities described in subsection (d) or (e) of section 2864 of this title or in section 2854(c) of this title, regardless of whether the funds were allocated under this subsection or section 2863(b) of this title.
 
 #### (C) Regulations
 
@@ -90,7 +90,7 @@
 
 #### (3) Reallocation
 
-&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph,local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
+&emsp;In making reallocations to eligible local areas of amounts available pursuant to paragraph (2) for a program year, the Governor shall allocate to each eligible local area within the State an amount based on the relative amount allocated to such local area under subsection (b)(3) of this section for such activities for the prior program year, as compared to the total amount allocated to all eligible local areas in the State under subsection (b)(3) of this section for such activities for such prior program year. For purposes of this paragraph, local areas that received allocations under subsection (b)(2)(A) of this section for the prior program year shall be treated as if the local areas received allocations under subsection (b)(3) of this section for such year.
 
 #### (4) Eligibility
 

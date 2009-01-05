@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8Gand 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -22,7 +22,7 @@ Subsecs. (b) to (d). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(A)\], a
 
 #### Effective Date
 
-Section effective Jan. 20, 1971, pursuant to Resolution No. 71–8 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective Jan. 20, 1971, pursuant to Resolution No. 71–8 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Compensation of Employees
 

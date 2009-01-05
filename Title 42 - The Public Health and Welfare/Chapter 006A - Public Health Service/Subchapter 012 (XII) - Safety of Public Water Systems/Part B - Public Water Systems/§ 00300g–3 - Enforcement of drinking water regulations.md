@@ -58,7 +58,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(ii) any failure to comply with the requirements of any schedule prescribed pursuant to the variance or exemption.
 
-&emsp;&emsp;(C) Notice of the concentration level of any unregulated contaminant for which the Administrator has required public notice pursuant to paragraph (2)(E).
+&emsp;&emsp;(C) Notice of the concentration level of any unregulated contaminant for which theAdministrator has required public notice pursuant to paragraph (2)(E).
 
 #### (2) Form, manner, and frequency of notice
 
@@ -118,7 +118,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification proceduresfor violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
+&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
 
 #### (ii) Form and manner of notice
 

@@ -144,7 +144,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Special covenants not to sue
 
-&emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
+&emsp;In the case of any person to whom the President is authorized under paragraph (1) of thissubsection to provide a covenant not to sue, for the portion of remedial action—
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
@@ -244,7 +244,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (D) Alternative payment methods
 
-&emsp;&emsp;If the President determines that a person is unable to pay its total settlement amountat the time of settlement, the President shall consider such alternative payment methods as may be necessary or appropriate.
+&emsp;&emsp;If the President determines that a person is unable to pay its total settlement amount at the time of settlement, the President shall consider such alternative payment methods as may be necessary or appropriate.
 
 #### (8) Additional conditions for expedited settlements
 
@@ -306,7 +306,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Consideration of comments
 
-&emsp;The head of the department or agency shall consider any comments filed under paragraph\(2) in determining whether or not to consent to the proposed settlement and may withdraw or withhold consent to the proposed settlement if such comments disclose facts or considerations which indicate the proposed settlement is inappropriate, improper, or inadequate.
+&emsp;The head of the department or agency shall consider any comments filed under paragraph (2) in determining whether or not to consent to the proposed settlement and may withdraw or withhold consent to the proposed settlement if such comments disclose facts or considerations which indicate the proposed settlement is inappropriate, improper, or inadequate.
 
 #### (j) Natural resources
 

@@ -1,44 +1,40 @@
 ### §300b–8. Improved newborn and child screening for heritable disorders
 
-#### (a) In general
+#### (a) Authorization of grant program
 
-The Secretary shall award grants to eligible entities to enhance, improve or expand the ability of State and local public health agencies to provide screening, counseling or health care services to newborns and children having or at risk for heritable disorders.
+From amounts appropriated under subsection (j), the Secretary, acting through the Administrator of the Health Resources and Services Administration (referred to in this section as the “Administrator”) and in consultation with the Advisory Committee on Heritable Disorders in Newborns and Children (referred to in this section as the “Advisory Committee”), shall award grants to eligible entities to enable such entities—
 
-#### (b) Use of funds
+&emsp;(1) to enhance, improve or expand the ability of State and local public health agencies to provide screening, counseling, or health care services to newborns and children having or at risk for heritable disorders;
 
-Amounts provided under a grant awarded under subsection (a) of this section shall be used to—
+&emsp;(2) to assist in providing health care professionals and newborn screening laboratory personnel with education in newborn screening and training in relevant and new technologies in newborn screening and congenital, genetic, and metabolic disorders;
 
-&emsp;(1) establish, expand, or improve systems or programs to provide screening, counseling, testing or specialty services for newborns and children at risk for heritable disorders;
+&emsp;(3) to develop and deliver educational programs (at appropriate literacy levels) about newborn screening counseling, testing, follow-up, treatment, and specialty services to parents, families, and patient advocacy and support groups; and
 
-&emsp;(2) establish, expand, or improve programs or services to reduce mortality or morbidity from heritable disorders;
+&emsp;(4) to establish, maintain, and operate a system to assess and coordinate treatment relating to congenital, genetic, and metabolic disorders.
 
-&emsp;(3) establish, expand, or improve systems or programs to provide information and counseling on available therapies for newborns and children with heritable disorders;
+#### (b) Eligible entity
 
-&emsp;(4) improve the access of medically underserved populations to screening, counseling, testing and specialty services for newborns and children having or at risk for heritable disorders; or
+In this section, the term “eligible entity” means—
 
-&emsp;(5) conduct such other activities as may be necessary to enable newborns and children having or at risk for heritable disorders to receive screening, counseling, testing or specialty services, regardless of income, race, color, religion, sex, national origin, age, or disability.
+&emsp;(1) a State or a political subdivision of a State;
 
-#### (c) Eligible entities
+&emsp;(2) a consortium of 2 or more States or political subdivisions of States;
 
-To be eligible to receive a grant under subsection (a) of this section an entity shall—
+&emsp;(3) a territory;
 
-&emsp;(1) be a State or political subdivision of a State, or a consortium of two or more States or political subdivisions of States; and
+&emsp;(4) a health facility or program operated by or pursuant to a contract with or grant from the Indian Health Service; or
 
-&emsp;(2) prepare and submit to the Secretary an application that includes—
+&emsp;(5) any other entity with appropriate expertise in newborn screening, as determined by the Secretary.
 
-&emsp;&emsp;(A) a plan to use amounts awarded under the grant to meet specific health status goals and objectives relative to heritable disorders, including attention to needs of medically underserved populations;
+#### (c) Approval factors
 
-&emsp;&emsp;(B) a plan for the collection of outcome data or other methods of evaluating the degree to which amounts awarded under this grant will be used to achieve the goals and objectives identified under subparagraph (A);
+An application submitted for a grant under subsection (a)(1) shall not be approved by the Secretary unless the application contains assurances that the eligible entity has adopted and implemented, is in the process of adopting and implementing, or will use amounts received under such grant to adopt and implement the guidelines and recommendations of the Advisory Committee that are adopted by the Secretary and in effect at the time the grant is awarded or renewed under this section, which shall include the screening of each newborn for the heritable disorders recommended by the Advisory Committee and adopted by the Secretary.
 
-&emsp;&emsp;(C) a plan for monitoring and ensuring the quality of services provided under the grant;
+#### (d) Coordination
 
-&emsp;&emsp;(D) an assurance that amounts awarded under the grant will be used only to implement the approved plan for the State;
+The Secretary shall take all necessary steps to coordinate programs funded with grants received under this section and to coordinate with existing newborn screening activities.
 
-&emsp;&emsp;(E) an assurance that the provision of services under the plan is coordinated with services provided under programs implemented in the State under title V, XVIII, XIX, XX, or XXI of the Social Security Act \[42 U.S.C. 701 et seq., 1395 et seq., 1396 et seq. 1397 et seq., 1397aa et seq.\] (subject to Federal regulations applicable to such programs) so that the coverage of services under such titles is not substantially diminished by the use of granted funds; and
-
-&emsp;&emsp;(F) such other information determined by the Secretary to be necessary.
-
-#### (d) Limitation
+#### (e) Limitation
 
 An eligible entity may not use amounts received under this section to—
 
@@ -50,35 +46,59 @@ An eligible entity may not use amounts received under this section to—
 
 &emsp;(4) provide for proprietary research or training.
 
-#### (e) Voluntary participation
+#### (f) Voluntary participation
 
 The participation by any individual in any program or portion thereof established or operated with funds received under this section shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, another Federal or State program.
 
-#### (f) Supplement not supplant
+#### (g) Supplement not supplant
 
 Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities of the type described in this section.
 
-#### (g) Publication
+#### (h) Publication
 
 #### (1) In general
 
-&emsp;An application submitted under subsection (c)(2) of this section shall be made public by the State in such a manner as to facilitate comment from any person, including through hearings and other methods used to facilitate comments from the public.
+&emsp;An application submitted under subsection (c)(2) <sup>1</sup> of this section shall be made public by the State in such a manner as to facilitate comment from any person, including through hearings and other methods used to facilitate comments from the public.
 
 #### (2) Comments
 
-&emsp;Comments received by the State after the publication described in paragraph (1) shall be addressed in the application submitted under subsection (c)(2) of this section.
+&emsp;Comments received by the State after the publication described in paragraph (1) shall be addressed in the application submitted under subsection (c)(2) <sup>1</sup> of this section.
 
-#### (h) Technical assistance
+#### (i) Technical assistance
 
 The Secretary shall provide to entities receiving grants under subsection (a) of this section such technical assistance as may be necessary to ensure the quality of programs conducted under this section.
 
-#### (i) Authorization of appropriations
+#### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.
+There are authorized to be appropriated—
 
-(July 1, 1944, ch. 373, title XI, §1109, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1164.)
+&emsp;(1) to provide grants for the purpose of carrying out activities under subsection (a)(1), $15,000,000 for fiscal year 2009; <sup>2</sup> $15,187,500 for fiscal year 2010, $15,375,000 for fiscal year 2011, $15,562,500 for fiscal year 2012, and $15,750,000 for fiscal year 2013; and
+
+&emsp;(2) to provide grants for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscalyear 2009, $15,187,500 for fiscal year 2010, $15,375,000 for fiscal year 2011, $15,562,500 for fiscal year 2012, and $15,750,000 for fiscal year 2013.
+
+(July 1, 1944, ch. 373, title XI, §1109, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1164; amended Pub. L. 110–204, §2, Apr. 24, 2008, 122 Stat. 705; Pub. L. 110–237, §1(a)(1), May 27, 2008, 122 Stat. 1556.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XVIII, XIX, XX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), XX (§1397 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+Subsection (c)(2) of this section, referred to in subsec. (h)(1), (2), was struck out and a new subsec. (c) added by Pub. L. 110–204, §2(1), Apr. 24, 2008, 122 Stat. 705.
+
+#### Amendments
+
+2008—Subsecs. (a) to (c). Pub. L. 110–204, §2(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which provided for grants to promote screening, counseling, or health care services to newborns and children having or at risk for heritable disorders, enumerated permissible uses of grants, and set out grant applicants’ eligibility requirements.
+
+Subsecs. (d) to (i). Pub. L. 110–204, §2(2), (3), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 110–237 added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “There is authorized to be appropriated—
+
+&emsp;“(1) to provide grants for the purpose of carrying activities under section (a)(1), $15,000,000 for fiscal year 2008; $15,187,500 for fiscal year 2009, $15,375,000 for fiscal year 2010, $15,562,500 for fiscal year 2011, and $15,750,000 for fiscal year 2012; and
+
+&emsp;“(2) to provide grant for the purpose of carrying out activities under paragraphs (2), (3), and (4) of subsection (a), $15,000,000 for fiscal year 2008, $15,187,500 for fiscal year 2009, $15,375,000 for fiscal year 2010, $15,562,500 for fiscal year 2011, and $15,750,000 for fiscal year 2012.”
+
+Pub. L. 110–204, §2(4), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+
+Pub. L. 110–204, §2(2), redesignated subsec. (i) as (j).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

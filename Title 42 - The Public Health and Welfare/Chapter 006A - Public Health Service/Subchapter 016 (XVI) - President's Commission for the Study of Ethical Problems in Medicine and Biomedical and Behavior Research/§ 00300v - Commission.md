@@ -10,7 +10,7 @@
 
 &emsp;(C) Five of the members shall be appointed from individuals who are distinguished in one or more of the fields of ethics, theology, law, the natural sciences (other than a biomedical or behavioral science), the social sciences, the humanities, health administration, government, and public affairs.
 
-(2) No individual who is a full–time officer or employee of the United States may be appointed as a member of the Commission. The Secretary of Health and Human Services, the Secretary of Defense, the Director of Central Intelligence, the Director of the Office of Science and Technology Policy, the Secretary of Veterans Affairs, and the Director of the National Science Foundation shall each designate an individual to provide liaison with the Commission.
+(2) No individual who is a full–time officer or employee of the United States may be appointed as a member of the Commission. The Secretary of Health and Human Services, the Secretary of Defense, the Director of Central Intelligence, the Director of the Office of Science and Technology Policy, the Secretary of Veterans Affairs, and the Director of the National ScienceFoundation shall each designate an individual to provide liaison with the Commission.
 
 (3) No individual may be appointed to serve as a member of the Commission if the individual has served for two terms of four years each as such a member.
 

@@ -182,7 +182,7 @@ In general.—Subject to the requirements of this subsection, an iron ore compan
 
 &emsp;“(2)
 
-Total guarantee limit for iron ore company.—Of the aggregate amount of loans authorized to be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
+Total guarantee limit for iron ore company.—Of the aggregate amount of loans authorizedto be guaranteed and outstanding at any one time under subsection (f)(2), an amount not to exceed $30,000,000 shall be loans with respect to iron ore companies.
 
 #### “federal administrative and travel expenses
 
@@ -306,7 +306,7 @@ Requirements for Loan Guarantees.—The Board may issue a loan guarantee on appl
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 
-&emsp;“(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+&emsp;“(2) the prospective earning power of the company, together with the character and value of the securitypledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
 
 &emsp;“(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
 

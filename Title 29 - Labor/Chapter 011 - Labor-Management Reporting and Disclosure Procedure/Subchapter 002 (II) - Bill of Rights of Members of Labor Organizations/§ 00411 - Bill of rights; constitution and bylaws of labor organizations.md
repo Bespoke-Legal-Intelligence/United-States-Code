@@ -10,7 +10,7 @@ Every member of any labor organization shall have the right to meet and assemble
 
 #### (3) Dues, initiation fees, and assessments
 
-Except in the case of a federation of national or international labor organizations, the rates of dues and initiation fees payable by members of any labor organization in effect on September 14, 1959 shall not be increased, and no general orspecial assessment shall be levied upon such members, except—
+Except in the case of a federation of national or international labor organizations, the rates of dues and initiation fees payable by members of any labor organization in effect on September 14, 1959 shall not be increased, and no general or special assessment shall be levied upon such members, except—
 
 &emsp;(A) in the case of a local labor organization, (i) by majority vote by secret ballot of the members in good standing voting at a general or special membership meeting, after reasonable notice of the intention to vote upon such question, or (ii) by majority vote of the members in good standing voting in a membership referendum conducted by secret ballot; or
 
@@ -18,7 +18,7 @@ Except in the case of a federation of national or international labor organizati
 
 #### (4) Protection of the right to sue
 
-No labor organization shall limit the right of any member thereof to institute an action in any court, or in a proceeding before any administrative agency, irrespective of whether or not the labor organization or its officers are named as defendants or respondents in such action or proceeding, or the right of any member of a labor organization to appear as a witness in any judicial, administrative, or legislative proceeding, or to petition any legislature or to communicate with any legislator: <i>Provided</i>, That any such member may be required to exhaust reasonable hearing procedures (but not to exceed a four-month lapse of time) within such organization, before instituting legal or administrative proceedings against such organizations or any officer thereof: <i>And provided further</i>, That no interested employer or employer association shall directly or indirectly finance, encourage, or participate in, except as a party, any such action, proceeding, appearance, or petition.
+No labor organization shall limit the right of any member thereof to institute an action in any court, or in a proceeding before any administrative agency, irrespective of whether or not the labor organization or its officers are named as defendants or respondents in such action or proceeding, or the right of any member of a labor organization to appear as a witness in any judicial, administrative, or legislative proceeding, or to petition any legislature or to communicate with any legislator: <i>Provided</i>, That any such member may be required to exhaust reasonable hearing procedures (but not to exceed afour-month lapse of time) within such organization, before instituting legal or administrative proceedings against such organizations or any officer thereof: <i>And provided further</i>, That no interested employer or employer association shall directly or indirectly finance, encourage, or participate in, except as a party, any such action, proceeding, appearance, or petition.
 
 #### (5) Safeguards against improper disciplinary action
 

@@ -48,7 +48,7 @@ The specific negotiating objectives of the United States under this section rega
 
 &emsp;(4) the reduction or elimination of customs duties on telecommunications products;
 
-&emsp;(5) the elimination of subsidies, violations of intellectual property rights, and other unfair trade practices that distort international trade in telecommunications products and services;
+&emsp;(5) the elimination of subsidies, violations of intellectual property rights, and other unfairtrade practices that distort international trade in telecommunications products and services;
 
 &emsp;(6) the elimination of investment barriers that restrict the establishment of foreign-owned business entities which market such products and services;
 
@@ -62,7 +62,7 @@ The specific negotiating objectives of the United States under this section rega
 
 &emsp;(8) transparency of, and open participation in, the standards-setting processes used in foreign countries with respect to telecommunications products;
 
-&emsp;(9) the ability to have telecommunications products, which are to be located on customer premises, approved and registered by type,and, if appropriate, the establishment of procedures between the United States and foreign countries for the mutual recognition of type approvals;
+&emsp;(9) the ability to have telecommunications products, which are to be located on customer premises, approved and registered by type, and, if appropriate, the establishment of procedures between the United States and foreign countries for the mutual recognition of type approvals;
 
 &emsp;(10) access to the basic telecommunications network in foreign countries on reasonable and nondiscriminatory terms and conditions (including nondiscriminatory prices) for the provision of value-added services by United States suppliers;
 

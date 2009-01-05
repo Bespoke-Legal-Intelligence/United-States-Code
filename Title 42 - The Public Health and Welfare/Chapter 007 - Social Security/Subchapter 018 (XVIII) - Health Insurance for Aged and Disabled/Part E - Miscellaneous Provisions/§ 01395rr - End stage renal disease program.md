@@ -6,7 +6,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 #### (b) Payments with respect to services; dialysis; regulations; physicians’ services; target reimbursement rates; home dialysis supplies and equipment; self-care home dialysis support services; self-care dialysis units; hepatitis B vaccine
 
-(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulationprescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
+(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
 
 (2)(A) With respect to payments for dialysis services furnished by providers of services and renal dialysis facilities to individuals determined to have end stage renal disease for which payments may be made under part B of this subchapter, such payments (unless otherwise provided in this section) shall be equal to 80 percent of the amounts determined in accordance with subparagraph (B); and with respect to payments for services for which payments may be made under part A of this subchapter, the amounts of such payments (which amounts shall not exceed, in respect to costs in procuring organs attributable to payments made to an organ procurement agency or histocompatibility laboratory, the costs incurred by that agency or laboratory) shall be determined in accordance with section 1395x(v) of this title or section 1395ww of this title (if applicable). Payments shall be made to a renal dialysis facility only if it agrees to accept such payments as payment in full for covered services, except for payment by the individual of 20 percent of the estimated amounts for such services calculated on the basis established by the Secretary under subparagraph (B) and the deductible amount imposed by section 1395<i>l</i>(b) of this title.
 
@@ -50,7 +50,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(D) provide for full access for the Secretary to all such records, data, and information as he may require to perform his functions under this section.
 
-(6) The Secretary shall establish, for each calendar year, commencing with January 1, 1979, a target reimbursement rate for home dialysis which shall be adjusted for regional variations in the cost of providing home dialysis. In establishing such a rate, the Secretary shall include—
+(6) The Secretary shall establish, for each calendar year, commencing with January 1, 1979, a target reimbursement rate for home dialysis which shall be adjusted for regional variationsin the cost of providing home dialysis. In establishing such a rate, the Secretary shall include—
 
 &emsp;(A) the Secretary's estimate of the cost of providing medically necessary home dialysis supplies and equipment;
 
@@ -70,7 +70,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(D) the proportion of the aggregate administrative funds collected in the network area.
 
-> The Secretary shall increase the amount of each composite rate payment for dialysis services furnished during 2000 by 1.2 percent above such composite rate payment amounts for such services furnished on December 31, 1999, for such services furnished on or after January 1, 2001, and before January 1, 2005, by 2.4 percent above such composite rate payment amounts for such services furnished on December 31, 2000, and for such services furnished on or after January 1,2005, by 1.6 percent above such composite rate payment amounts for such services furnished on December 31, 2004.
+> The Secretary shall increase the amount of each composite rate payment for dialysis services furnished during 2000 by 1.2 percent above such composite rate payment amounts for such services furnished on December 31, 1999, for such services furnished on or after January 1, 2001, and before January 1, 2005, by 2.4 percent above such composite rate payment amounts for such services furnished on December 31, 2000, and for such services furnished on or after January 1, 2005, by 1.6 percent above such composite rate payment amounts for such services furnished on December 31, 2004.
 
 (8) For purposes of this subchapter, the term “home dialysis supplies and equipment” means medically necessary supplies and equipment (including supportive equipment) required by an individual suffering from end stage renal disease in connection with renal dialysis carried out in his home (as defined in regulations), including obtaining, installing, and maintaining such equipment.
 
@@ -100,7 +100,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (C) The amount payable to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for erythropoietin shall be determined in the same manner as the amount payable to a renal dialysis facility for such item.
 
-(12)(A) In lieu of payment under paragraph (7) beginning with services furnished on January 1, 2005, the Secretary shall establish a basic case-mix adjusted prospective payment system for dialysis services furnished by providers of services and renal dialysis facilities in a year to individuals in a facility and to such individuals at home. The case-mix under such system shall be for a limited number of patient characteristics.
+(12)(A) Subject to paragraph (14), in lieu of payment under paragraph (7) beginning with services furnished on January 1, 2005, the Secretary shall establish a basic case-mix adjusted prospective payment system for dialysis services furnished by providers of services and renal dialysis facilities in a year to individuals in a facility and to such individuals at home. The case-mix under such system shall be for a limited number of patient characteristics. Under such system, the payment rate for dialysis services furnished on or after January 1, 2009, by providers of services shall be the same as the payment rate (computed without regard to this sentence) for such services furnished by renal dialysis facilities, and in applying the geographic index under subparagraph (D) to providers of services, the labor share shall be based on the labor share otherwise applied for renal dialysis facilities.
 
 (B) The system described in subparagraph (A) shall include—
 
@@ -124,23 +124,27 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (ii) The adjustment made under subparagraph (B)(ii)(II) shall be done in a manner to result in the same aggregate amount of expenditures after such adjustment as would otherwise have been made for such services for 2006 or 2007, respectively, as estimated by the Secretary, if this paragraph did not apply.
 
-(F) Beginning with 2006, the Secretary shall annually increase the basic case-mix adjusted payment amounts established under this paragraph, by an amount determined by—
+(F) Beginning with 2006, the Secretary shall annually increase the basic case-mix adjustedpayment amounts established under this paragraph, by an amount determined by—
 
 &emsp;(i) applying the estimated growth in expenditures for drugs and biologicals (including erythropoietin) that are separately billable to the component of the basic case-mix adjusted system described in subparagraph (B)(ii); and
 
 &emsp;(ii) converting the amount determined in clause (i) to an increase applicable to the basic case-mix adjusted payment amounts established under subparagraph (B).
 
-> Except as provided in subparagraph (G), nothing in this paragraph shall be construed as providing for an update to the composite rate component of the basic case-mix adjusted system under subparagraph (B).
+> Except as provided in subparagraph (G), nothing in this paragraph or paragraph (14) shall be construed as providing for an update to the composite rate component of the basic case-mix adjusted system under subparagraph (B) or under the system under paragraph (14).
 
 (G) The Secretary shall increase the amount of the composite rate component of the basic case-mix adjusted system under subparagraph (B) for dialysis services—
 
-&emsp;(i) furnished on or after January 1, 2006, and before April 1, 2007, by 1.6 percent above the amount of such composite rate component for such services furnished on December 31, 2005; and
+&emsp;(i) furnished on or after January 1, 2006, and before April 1, 2007, by 1.6 percent above the amount of such composite rate component for such services furnished on December 31, 2005;
 
-&emsp;(ii) furnished on or after April 1, 2007, by 1.6 percent above the amount of such composite rate component for such services furnished on March 31, 2007.
+&emsp;(ii) furnished on or after April 1, 2007, and before January 1, 2009, by 1.6 percent above the amount of such composite rate component for such services furnished on March 31, 2007;
+
+&emsp;(iii) furnished on or after January 1, 2009, and before January 1, 2010, by 1.0 percent above the amount of such composite rate component for such services furnished on December 31, 2008; and
+
+&emsp;(iv) furnished on or after January 1, 2010, by 1.0 percent above the amount of such composite rate component for such services furnished on December 31, 2009.
 
 (H) There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of the case-mix system, relative weights, payment amounts, the geographic adjustment factor, or the update for the system established under this paragraph, or the determination of the difference between medicare payment amounts and acquisition costs for separately billed drugs and biologicals (including erythropoietin) under this paragraph and paragraph (13).
 
-(13)(A) The payment amounts under this subchapter for separately billed drugs and biologicals furnished in a year, beginning with 2004, are as follows:
+(13)(A) Subject to paragraph (14), the payment amounts under this subchapter for separately billed drugs and biologicals furnished in a year, beginning with 2004, are as follows:
 
 &emsp;(i) For such drugs and biologicals (other than erythropoietin) furnished in 2004, the amount determined under section 1395u(<i>o</i>)(1)(A)(v) of this title for the drug or biological.
 
@@ -148,9 +152,65 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(iii) For such drugs and biologicals (including erythropoietin) furnished in 2006 and subsequent years, such acquisition cost or the amount determined under section 1395w–3a of this title for the drug or biological, as the Secretary may specify.
 
-(B)(i) Drugs and biologicals (including erythropoietin) which were separately billed under this subsection on the day before December 8, 2003, shall continue to be separately billed on and after such date.
+(B) Drugs and biologicals (including erythropoietin) which were separately billed under this subsection on the day before December 8, 2003, shall continue to be separately billed on and after such date, subject to paragraph (14).
 
-(ii) Nothing in this paragraph, section 1395u(<i>o</i>) of this title, section 1395w–3a of this title, or section 1395w–3b of this title shall be construed as requiring or authorizing the bundling of payment for drugs and biologicals into the basic case-mix adjusted payment system under this paragraph.
+(14)(A)(i) Subject to subparagraph (E), for services furnished on or after January 1, 2011, the Secretary shall implement a payment system under which a single payment is made under this subchapter to a provider of services or a renal dialysis facility for renal dialysis services (as defined in subparagraph (B)) in lieu of any other payment (including a payment adjustment under paragraph (12)(B)(ii)) and for such services and items furnished pursuant to paragraph (4).
+
+(ii) In implementing the system under this paragraph the Secretary shall ensure that the estimated total amount of payments under this subchapter for 2011 for renal dialysis services shall equal 98 percent of the estimated total amount of payments for renal dialysis services, including payments under paragraph (12)(B)(ii), that would have been made under this subchapter with respect to services furnished in 2011 if such system had not been implemented. In making the estimation under subclause (I), the Secretary shall use per patient utilization data from 2007, 2008, or 2009, whichever has the lowest per patient utilization.
+
+(B) For purposes of this paragraph, the term “renal dialysis services” includes—
+
+&emsp;(i) items and services included in the composite rate for renal dialysis services as of December 31, 2010;
+
+&emsp;(ii) erythropoiesis stimulating agents and any oral form of such agents that are furnished to individuals for the treatment of end stage renal disease;
+
+&emsp;(iii) other drugs and biologicals that are furnished to individuals for the treatment of end stage renal disease and for which payment was (before the application of this paragraph) made separately under this subchapter, and any oral equivalent form of such drug or biological; and
+
+&emsp;(iv) diagnostic laboratory tests and other items and services not described in clause (i) that are furnished to individuals for the treatment of end stage renal disease.
+
+> Such term does not include vaccines.
+
+(C) The system under this paragraph may provide for payment on the basis of services furnished during a week or month or such other appropriate unit of payment as the Secretary specifies.
+
+(D) Such system—
+
+&emsp;(i) shall include a payment adjustment based on case mix that may take into account patient weight, body mass index, comorbidities, length of time on dialysis, age, race, ethnicity, and other appropriate factors;
+
+&emsp;(ii) shall include a payment adjustment for high cost outliers due to unusual variations in the type or amount of medically necessary care, including variations in the amount of erythropoiesis stimulating agents necessary for anemia management;
+
+&emsp;(iii) shall include a payment adjustment that reflects the extent to which costs incurred by low-volume facilities (as defined by the Secretary) in furnishing renal dialysis services exceed the costs incurred by other facilities in furnishing such services, and for payment for renal dialysis services furnished on or after January 1, 2011, and before January 1, 2014, such payment adjustment shall not be less than 10 percent; and
+
+&emsp;(iv) may include such other payment adjustments as the Secretary determines appropriate, such as a payment adjustment—
+
+&emsp;&emsp;(I) for pediatric providers of services and renal dialysis facilities;
+
+&emsp;&emsp;(II) by a geographic index, such as the index referred to in paragraph (12)(D), as the Secretary determines to be appropriate; and
+
+&emsp;&emsp;(III) for providers of services or renal dialysis facilities located in rural areas.
+
+> The Secretary shall take into consideration the unique treatment needs of children and young adults in establishing such system.
+
+(E)(i) The Secretary shall provide for a four-year phase-in (in equal increments) of the payment amount under the payment system under this paragraph, with such payment amount being fully implemented for renal dialysis services furnished on or after January 1, 2014.
+
+(ii) A provider of services or renal dialysis facility may make a one-time election to be excluded from the phase-in under clause (i) and be paid entirely based on the payment amount under the payment system under this paragraph. Such an election shall be made prior to January 1, 2011, in a form and manner specified by the Secretary, and is final and may not be rescinded.
+
+(iii) The Secretary shall make an adjustment to the payments under this paragraph for years during which the phase-in under clause (i) is applicable so that the estimated total amount of payments under this paragraph, including payments under this subparagraph, shall equal the estimated total amount of payments that would otherwise occur under this paragraph without such phase-in.
+
+(F)(i) Subject to clause (ii), beginning in 2012, the Secretary shall annually increase payment amounts established under this paragraph by an ESRD market basket percentage increase factor for a bundled payment system for renal dialysis services that reflects changes over time in the prices of an appropriate mix of goods and services included in renal dialysis services minus 1.0 percentage point.
+
+(ii) For years during which a phase-in of the payment system pursuant to subparagraph (E) is applicable, the following rules shall apply to the portion of the payment under the system that is based on the payment of the composite rate that would otherwise apply if the system under this paragraph had not been enacted:
+
+&emsp;(I) The update under clause (i) shall not apply.
+
+&emsp;(II) The Secretary shall annually increase such composite rate by the ESRD market basket percentage increase factor described in clause (i) minus 1.0 percentage point.
+
+(G) There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of the determination of payment amounts under subparagraph (A), the establishment of an appropriate unit of payment under subparagraph (C), the identification of renal dialysis services included in the bundled payment, the adjustments under subparagraph (D), the application of the phase-in under subparagraph (E), and the establishment of the market basket percentage increase factors under subparagraph (F).
+
+(H) Erythropoiesis stimulating agents and other drugs and biologicals shall be treated as prescribed and dispensed or administered and available only under part B if they are—
+
+&emsp;(i) furnished to an individual for the treatment of end stage renal disease; and
+
+&emsp;(ii) included in subparagraph (B) for purposes of payment under this paragraph.
 
 #### (c) Renal disease network areas; coordinating councils, executive committees, and medical review boards; national end stage renal disease medical information system; functions of network organizations
 
@@ -164,7 +224,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (ii)(I) In order to determine whether the Secretary should enter into, continue, or terminate an agreement with a network administrative organization designated for an area established under clause (i), the Secretary shall develop and publish in the Federal Register standards, criteria, and procedures to evaluate an applicant organization's capabilities to perform (and, in the case of an organization with which such an agreement is in effect, actual performance of) the responsibilities described in paragraph (2). The Secretary shall evaluate each applicant based on quality and scope of services and may not accord more than 20 percent of the weight of the evaluation to the element of price.
 
-(II) An agreement with a network administrative organization may be terminated by the Secretary only if he finds, after applying such standards and criteria, that the organization has failed to perform its prescribed responsibilities effectively and efficiently. If such an agreement is to be terminated, the Secretary shall select a successor to the agreement on the basis of competitive bidding and in a manner that provides an orderly transition.
+(II) An agreement with a network administrative organization may be terminated by the Secretary only if he finds, after applying such standards and criteria, that the organization has failed to perform its prescribed responsibilities effectively and efficiently. If such an agreementis to be terminated, the Secretary shall select a successor to the agreement on the basis of competitive bidding and in a manner that provides an orderly transition.
 
 (B) At least one patient representative shall serve as a member of each network council and each medical review board.
 
@@ -194,7 +254,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (5) The Secretary, after consultation with appropriate professional and planning organizations, shall provide such guidelines with respect to the planning and delivery of renal disease services as are necessary to assist network organizations in their development of their respective networks’ goals to promote the optimum use of self-dialysis and transplantation by suitable candidates for such modalities.
 
-(6) It is the intent of the Congress that the maximum practical number of patients who are medically, socially, and psychologically suitable candidates for home dialysis or transplantation should be so treated and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouraged to return to gainful employment. The Secretaryshall consult with appropriate professional and network organizations and consider available evidence relating to developments in research, treatment methods, and technology for home dialysis and transplantation.
+(6) It is the intent of the Congress that the maximum practical number of patients who are medically, socially, and psychologically suitable candidates for home dialysis or transplantation should be so treated and that the maximum practical number of patients who are suitable candidates for vocational rehabilitation services be given access to such services and encouraged to return to gainful employment. The Secretary shall consult with appropriate professional and network organizations and consider available evidence relating to developments in research,treatment methods, and technology for home dialysis and transplantation.
 
 (7) The Secretary shall establish a national end stage renal disease registry the purpose of which shall be to assemble and analyze the data reported by network organizations, transplant centers, and other sources on all end stage renal disease patients in a manner that will permit—
 
@@ -270,19 +330,173 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 (3) A facility dissatisfied with a determination by the Secretary under paragraph (1) shall be entitled to a hearing thereon by the Secretary (after reasonable notice) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §222(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) \[title IV, §422(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981.)
+#### (h) Quality incentives in the end-stage renal disease program
+
+#### (1) Quality incentives
+
+#### (A) In general
+
+&emsp;&emsp;With respect to renal dialysis services (as defined in subsection (b)(14)(B)) furnished on or after January 1, 2012, in the case of a provider of services or a renal dialysis facility that does not meet the requirement described in subparagraph (B) with respect to the year, payments otherwise made to such provider or facility under the system under subsection (b)(14) for such services shall be reduced by up to 2.0 percent, as determined appropriate by the Secretary.
+
+#### (B) Requirement
+
+&emsp;&emsp;The requirement described in this subparagraph is that the provider or facility meets (or exceeds) the total performance score under paragraph (3) with respect to performance standards established by the Secretary with respect to measures specified in paragraph (2).
+
+#### (C) No effect in subsequent years
+
+&emsp;&emsp;The reduction under subparagraph (A) shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the single payment amount under the system under paragraph (14) in a subsequent year.
+
+#### (2) Measures
+
+#### (A) In general
+
+&emsp;&emsp;The measures specified under this paragraph with respect to the year involved shall include—
+
+&emsp;&emsp;&emsp;(i) measures on anemia management that reflect the labeling approved by the Food and Drug Administration for such management and measures on dialysis adequacy;
+
+&emsp;&emsp;&emsp;(ii) to the extent feasible, such measure (or measures) of patient satisfaction as the Secretary shall specify; and
+
+&emsp;&emsp;&emsp;(iii) such other measures as the Secretary specifies, including, to the extent feasible, measures on—
+
+&emsp;&emsp;&emsp;&emsp;(I) iron management;
+
+&emsp;&emsp;&emsp;&emsp;(II) bone mineral metabolism; and
+
+&emsp;&emsp;&emsp;&emsp;(III) vascular access, including for maximizing the placement of arterial venous fistula.
+
+#### (B) Use of endorsed measures
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), any measure specified by the Secretary under subparagraph (A)(iii) must have been endorsed by the entity with a contract under section 1395aaa(a) of this title.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
+
+#### (C) Updating measures
+
+&emsp;&emsp;The Secretary shall establish a process for updating the measures specified under subparagraph (A) in consultation with interested parties.
+
+#### (D) Consideration
+
+&emsp;&emsp;In specifying measures under subparagraph (A), the Secretary shall consider the availability of measures that address the unique treatment needs of children and young adults with kidney failure.
+
+#### (3) Performance scores
+
+#### (A) Total performance score
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall develop a methodology for assessing the total performance of each provider of services and renal dialysis facility based on performance standards with respect to the measures selected under paragraph (2) for a performance period established under paragraph (4)(D) (in this subsection referred to as the “total performance score”).
+
+#### (ii) Application
+
+&emsp;&emsp;&emsp;For providers of services and renal dialysis facilities that do not meet (or exceed) the total performance score established by the Secretary, the Secretary shall ensure that the application of the methodology developed under clause (i) results in an appropriate distribution of reductions in payment under paragraph (1) among providers and facilities achieving different levels of total performance scores, with providers and facilities achieving the lowest total performance scores receiving the largest reduction in payment under paragraph (1)(A).
+
+#### (iii) Weighting of measures
+
+&emsp;&emsp;&emsp;In calculating the total performance score, the Secretary shall weight the scores with respect to individual measures calculated under subparagraph (B) to reflect priorities for quality improvement, such as weighting scores to ensure that providers of services and renal dialysis facilities have strong incentives to meet or exceed anemia management and dialysis adequacy performance standards, as determined appropriate by the Secretary.
+
+#### (B) Performance score with respect to individual measures
+
+&emsp;&emsp;The Secretary shall also calculate separate performance scores for each measure, including for dialysis adequacy and anemia management.
+
+#### (4) Performance standards
+
+#### (A) Establishment
+
+&emsp;&emsp;Subject to subparagraph (E), the Secretary shall establish performance standards with respect to measures selected under paragraph (2) for a performance period with respect to a year (as established under subparagraph (D)).
+
+#### (B) Achievement and improvement
+
+&emsp;&emsp;The performance standards established under subparagraph (A) shall include levels of achievement and improvement, as determined appropriate by the Secretary.
+
+#### (C) Timing
+
+&emsp;&emsp;The Secretary shall establish the performance standards under subparagraph (A) prior to the beginning of the performance period for the year involved.
+
+#### (D) Performance period
+
+&emsp;&emsp;The Secretary shall establish the performance period with respect to a year. Such performance period shall occur prior to the beginning of such year.
+
+#### (E) Special rule
+
+&emsp;&emsp;The Secretary shall initially use as the performance standard for the measures specified under paragraph (2)(A)(i) for a provider of services or a renal dialysis facility the lesser of—
+
+&emsp;&emsp;&emsp;(i) the performance of such provider or facility for such measures in the year selected by the Secretary under the second sentence of subsection (b)(14)(A)(ii); or
+
+&emsp;&emsp;&emsp;(ii) a performance standard based on the national performance rates for such measures in a period determined by the Secretary.
+
+#### (5) Limitation on review
+
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise of the following:
+
+&emsp;&emsp;(A) The determination of the amount of the payment reduction under paragraph (1).
+
+&emsp;&emsp;(B) The establishment of the performance standards and the performance period under paragraph (4).
+
+&emsp;&emsp;(C) The specification of measures under paragraph (2).
+
+&emsp;&emsp;(D) The methodology developed under paragraph (3) that is used to calculate totalperformance scores and performance scores for individual measures.
+
+#### (6) Public reporting
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish procedures for making information regarding performance under this subsection available to the public, including—
+
+&emsp;&emsp;&emsp;(i) the total performance score achieved by the provider of services or renal dialysis facility under paragraph (3) and appropriate comparisons of providers of services and renal dialysis facilities to the national average with respect to such scores; and
+
+&emsp;&emsp;&emsp;(ii) the performance score achieved by the provider or facility with respect to individual measures.
+
+#### (B) Opportunity to review
+
+&emsp;&emsp;The procedures established under subparagraph (A) shall ensure that a provider of services and a renal dialysis facility has the opportunity to review the information that is to be made public with respect to the provider or facility prior to such data being made public.
+
+#### (C) Certificates
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall provide certificates to providers of services and renal dialysis facilities who furnish renal dialysis services under this section to display in patient areas. The certificate shall indicate the total performance score achieved by the provider or facility under paragraph (3).
+
+#### (ii) Display
+
+&emsp;&emsp;&emsp;Each facility or provider receiving a certificate under clause (i) shall prominently display the certificate at the provider or facility.
+
+#### (D) Web-based list
+
+&emsp;&emsp;The Secretary shall establish a list of providers of services and renal dialysis facilities who furnish renal dialysis services under this section that indicates the total performance score and the performance score for individual measures achieved by the provider and facility under paragraph (3). Such information shall be posted on the Internet website of the Centers for Medicare \& Medicaid Services in an easily understandable format.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §222(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) \[title IV, §422(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–275, title I, §153(a), (b)(1), (3)(A), (c), July 15, 2008, 122 Stat. 2553, 2556.)
 
 #### References in Text
+
+Parts A and B, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 Section 1395x(s)(2)(P) of this title, referred to in subsec. (b)(1), was redesignated section 1395x(s)(2)(O) of this title by Pub. L. 103–432, title I, §147(f)(6)(B)(iii)(II), Oct. 31, 1994, 108 Stat. 4432.
 
 Section 422(a)(2) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (b)(7), is section 1(a)(6) \[title IV, §422(a)(2)\] of Pub. L. 106–554, which is set out as a note under this section.
 
-Section 623(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(12)(B)(ii), (13)(A)(ii), is section 623(c) ofPub. L. 108–173, which is set out as a note under this section.
+Section 623(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(12)(B)(ii), (13)(A)(ii), is section 623(c) of Pub. L. 108–173, which is set out as a note under this section.
 
 Subsection (g) of this section, referred to in subsec. (c)(7)(A), was repealed, and subsec. (h) was redesignated (g), by Pub. L. 100–203, title IV, §§4036(d)(5)(C), (D), Dec. 22, 1987, 101 Stat. 1330–80.
 
 #### Amendments
+
+2008—Subsec. (b)(12)(A). Pub. L. 110–275, §153(a)(2), (b)(3)(A)(i), substituted “Subject to paragraph (14), in lieu of payment” for “In lieu of payment” and inserted at end “Under such system, the payment rate for dialysis services furnished on or after January 1, 2009, by providers of services shall be the same as the payment rate (computed without regard to this sentence) for such services furnished by renal dialysis facilities, and in applying the geographic index under subparagraph (D) to providers of services, the labor share shall be based on the labor share otherwise applied for renal dialysis facilities.”
+
+Subsec. (b)(12)(F). Pub. L. 110–275, §153(b)(3)(A)(ii), in concluding provisions, inserted “or paragraph (14)” after “this paragraph” and “or under the system under paragraph (14)” after “subparagraph (B)”.
+
+Subsec. (b)(12)(G). Pub. L. 110–275, §153(a)(1), inserted “and before January 1, 2009,” after “April 1, 2007,” in cl. (ii) and added cls. (iii) and (iv).
+
+Subsec. (b)(13)(A). Pub. L. 110–275, §153(b)(3)(A)(iii)(I), substituted “Subject to paragraph (14), the payment amounts” for “The payment amounts” in introductory provisions.
+
+Subsec. (b)(13)(B). Pub. L. 110–275, §153(b)(3)(A)(iii)(II), redesignated cl. (i) as subpar. (B), inserted “, subject to paragraph (14)” before period at end, and struck out cl. (ii) which read as follows: “Nothing in this paragraph, section 1395u(<i>o</i>) of this title, section 1395w–3a of this title, or section 1395w–3b of this title shall be construed as requiring or authorizing the bundling of payment for drugs and biologicals into the basic case-mix adjusted payment system under this paragraph.”
+
+Subsec. (b)(14). Pub. L. 110–275, §153(b)(1), added par. (14).
+
+Subsec. (h). Pub. L. 110–275, §153(c), added subsec. (h).
 
 2006—Subsec. (b)(12)(F). Pub. L. 109–171, §5106(1), substituted “Except as provided in subparagraph (G), nothing” for “Nothing” in concluding provisions.
 
@@ -344,7 +558,7 @@ Pub. L. 100–93 added subsec. (h).
 
 Pub. L. 99–509, §9335(a)(2), inserted “and of pediatric facilities” after “isolated rural areas” in third sentence, and inserted after third sentence “Each application for such an exception shall be deemed to be approved unless the Secretary disapproves it by not later than 60 working days after the date the application is filed.”
 
-Subsec. (c)(1)(A). Pub. L. 99–509, §9335(d)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For the purpose of assuring effective and efficient administration of the benefits provided under this section, the Secretary shall establish, in accordance with such criteria as he finds appropriate, renal disease network areas, such network organizations (including a coordinating council, an executive committee of such council, and a medical review board, for each network area) as he finds necessary to accomplish such purpose, and a national end stage renal disease medical information system. The Secretary mayby regulations provide for such coordination of network planning and quality assurance activities and such exchange of data and information among agencies with responsibilities for health planning and quality assurance activities under Federal law as is consistent with the economical and efficient administration of this section and with the responsibilities established for network organizations under this section.”
+Subsec. (c)(1)(A). Pub. L. 99–509, §9335(d)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For the purpose of assuring effective and efficient administration of the benefits provided under this section, the Secretary shall establish, in accordance with such criteria as he finds appropriate, renal disease network areas, such network organizations (including a coordinating council, an executive committee of such council, and a medical review board, for each network area) as he finds necessary to accomplish such purpose, and a national end stage renal disease medical information system. The Secretary may by regulations provide for such coordination of network planning and quality assurance activities and such exchange of data and information among agencies with responsibilities for health planning and quality assurance activities under Federal law as is consistent with the economical and efficient administration of this section and with the responsibilities established for network organizations under this section.”
 
 Subsec. (c)(1)(B). Pub. L. 99–509, §9335(e), amended subpar. (B) generally, substituting “network council and each medical review board” for “coordinating council and executive committee”.
 
@@ -420,7 +634,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 Section 9335(a)(3) of Pub. L. 99–509 provided that: “The amendments made by paragraph (2) \[amending this section\] shall apply to applications filed on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Section 9335(j)(2) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(C), Dec. 22, 1987, 101 Stat. 1330–133, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to treatment furnished on or after January 1, 1987\[,\] except that, until network administrative organizations are established under section 1881(c)(1)(A) of the Social Security Act \[subsec. (c)(1)(A) of this section\] (as amended by subsection (d)(1) of this section), the distribution of payments described in the last sentence of section 1881(b)(7) of such Act shall be made based on the distribution of payments under section 1881 of such Act to network administrative organizations for fiscal year 1986.”
+Section 9335(j)(2) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(C), Dec. 22, 1987, 101 Stat. 1330–133, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to treatment furnished on or after January 1, 1987\[,\] except that, until network administrative organizations are established under section 1881(c)(1)(A) of the SocialSecurity Act \[subsec. (c)(1)(A) of this section\] (as amended by subsection (d)(1) of this section), the distribution of payments described in the last sentence of section 1881(b)(7) of such Act shall be made based on the distribution of payments under section 1881 of such Act to network administrative organizations for fiscal year 1986.”
 
 \[Section 4085(i)(21) of Pub. L. 100–203 provided that the amendment of section 9335(j)(2) of Pub. L. 99–509, set out above, by section 4085(i)(21)(C) of Pub. L. 100–203 is effective as if included in the enactment of Pub. L. 99–509.\]
 
@@ -447,6 +661,10 @@ Section 2145(b) of Pub. L. 97–35 provided that: “The amendments made by subs
 #### Effective Date
 
 Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
+
+#### Construction of 2008 Amendment
+
+Pub. L. 110–275, title I, §153(b)(4), July 15, 2008, 122 Stat. 2556, provided that: “Nothing in this subsection \[amending this section and sections 1395x and 1395y of this title and repealing provisions set out as a note under this section\] or the amendments made by this subsection shall be construed as authorizing or requiring the Secretary of Health and Human Services to make payments under the payment system implemented under paragraph (14)(A)(i) of section 1881(b) of the Social Security Act (42 U.S.C. 1395rr(b)), as added by paragraph (1), for any unrecovered amount for any bad debt attributable to deductible and coinsurance on items and services not included in the basic case-mix adjusted composite rate under paragraph (12) of such section as in effect before the date of the enactment of this Act \[July 15, 2008\].”
 
 #### Inspector General Studies on ESRD Drugs
 
@@ -490,87 +708,7 @@ New esrd drugs.—Not later than April 1, 2006, the Inspector General shall repo
 
 #### Demonstration of Bundled Case-Mix Adjusted Payment System for ESRD Services
 
-Pub. L. 108–173, title VI, §623(e), Dec. 8, 2003, 117 Stat. 2315, provided that:
-
-“(1)
-
-In general.—The Secretary \[of Health and Human Services\] shall establish a demonstration project of the use of a fully case-mix adjusted payment system for end stage renal disease services under section 1881 of the Social Security Act (42 U.S.C. 1395rr) for patient characteristics identified in the report under subsection (f) \[set out as a note under this section\] that bundles into such payment rates amounts for—
-
-&emsp;“(A) drugs and biologicals (including erythropoietin) furnished to end stage renal disease patients under the medicare program which are separately billed by end stage renal disease facilities (as of the date of the enactment of this Act \[Dec. 8, 2003\]); and
-
-&emsp;“(B) clinical laboratory tests related to such drugs and biologicals.
-
-“(2)
-
-Facilities included in the demonstration.—In conducting the demonstration under this subsection, the Secretary shall ensure the participation of a sufficient number of providers of dialysis services and renal dialysis facilities, but in no case to exceed 500. In selecting such providers and facilities, the Secretary shall ensure that the following types of providers are included in the demonstration:
-
-&emsp;“(A) Urban providers and facilities.
-
-&emsp;“(B) Rural providers and facilities.
-
-&emsp;“(C) Not-for-profit providers and facilities.
-
-&emsp;“(D) For-profit providers and facilities.
-
-&emsp;“(E) Independent providers and facilities.
-
-&emsp;“(F) Specialty providers and facilities, including pediatric providers and facilities and small providers and facilities.
-
-“(3)
-
-Temporary add-on payment for dialysis services furnished under the demonstration.—
-
-&emsp;“(A)
-
-In general.—During the period of the demonstration project, the Secretary shall increase payment rates that would otherwise apply under section 1881(b) of such Act (42 U.S.C. 1395rr(b)) by 1.6 percent for dialysis services furnished in facilities in the demonstration site.
-
-&emsp;“(B)
-
-Rules of construction.—Nothing in this subsection shall be construed as—
-
-&emsp;&emsp;“(i) as an annual update under section 1881(b) of the Social Security Act (42 U.S.C. 1395rr(b));
-
-&emsp;&emsp;“(ii) as increasing the baseline for payments under such section; or
-
-&emsp;&emsp;“(iii) requiring the budget neutral implementation of the demonstration project under this subsection.
-
-“(4) 3-
-
-year period.—The Secretary shall conduct the demonstration under this subsection for the 3-year period beginning on January 1, 2006.
-
-“(5)
-
-Use of advisory board.—
-
-&emsp;“(A)
-
-In general.—In carrying out the demonstration under this subsection, the Secretary shall establish an advisory board comprised of representatives described in subparagraph (B) to provide advice and recommendations with respect to the establishment and operation of such demonstration.
-
-&emsp;“(B)
-
-Representatives.—Representatives referred to in subparagraph (A) include representatives of the following:
-
-&emsp;&emsp;“(i) Patient organizations.
-
-&emsp;&emsp;“(ii) Individuals with expertise in end stage renal dialysis services, such as clinicians, economists, and researchers.
-
-&emsp;&emsp;“(iii) The Medicare Payment Advisory Commission, established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
-
-&emsp;&emsp;“(iv) The National Institutes of Health.
-
-&emsp;&emsp;“(v) Network organizations under section 1881(c) of the Social Security Act (42 U.S.C. 1395rr(c)).
-
-&emsp;&emsp;“(vi) Medicare contractors to monitor quality of care.
-
-&emsp;&emsp;“(vii) Providers of services and renal dialysis facilities furnishing end stage renal disease services.
-
-&emsp;“(C)
-
-Termination of advisory panel.—The advisory panel shall terminate on December 31, 2008.
-
-“(6)
-
-Authorization of appropriations.—There are authorized to be appropriated, in appropriate part from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, $5,000,000 in fiscal year 2006 to conduct the demonstration under this subsection.”
+Pub. L. 108–173, title VI, §623(e), Dec. 8, 2003, 117 Stat. 2315, which provided for establishment of a demonstration project, to be conducted for the 3-year period beginning on Jan. 1, 2006, of the use of a fully case-mix adjusted payment system for end stage renal disease services that bundled into payment rates amounts for drugs and biologicals (including erythropoietin) furnished to end stage renal disease patients under the medicare program which were separately billed by end stage renal disease facilities as of Dec. 8, 2003, and clinical laboratory tests related to such drugs and biologicals, and which authorized appropriations for the demonstration project, was repealed by Pub. L. 110–275, title I, §153(b)(3)(C), July 15, 2008, 122 Stat. 2556.
 
 #### Report on a Bundled Prospective Payment System for End Stage Renal Disease Services
 
@@ -582,7 +720,7 @@ Report.—
 
 &emsp;“(A)
 
-In general.—Not later than October 1, 2005, the Secretary \[of Health and Human Services\] shall submit to Congress a report detailing the elements and features for the design and implementation of a bundled prospective payment system for services furnished by end stage renal disease facilities including, to the maximum extent feasible, bundling of drugs, clinical laboratory tests, and other items that are separately billed by such facilities. The report shall include a description of the methodology to be used for the establishment of payment rates, including components of the new system described in paragraph (2).
+In general.—Not later than October 1, 2005, the Secretary \[of Health and Human Services\] shall submit to Congress a report detailing the elementsand features for the design and implementation of a bundled prospective payment system for services furnished by end stage renal disease facilities including, to the maximum extent feasible, bundling of drugs, clinical laboratory tests, and other items that are separately billed by such facilities. The report shall include a description of the methodology to be used for the establishment of payment rates, including components of the new system described in paragraph (2).
 
 &emsp;“(B)
 
@@ -656,7 +794,7 @@ Development.—The Secretary of Health and Human Services shall collect data and
 
 “(2)
 
-Report.—The Secretary of Health and Human Services shall submit to Congress a report on the index developed under paragraph (1) no later than July 1, 2002, and shall include in the report recommendationson the appropriateness of an annual or periodic update mechanism for renal dialysis services under the medicare program under title XVIII of the Social Security Act \[this subchapter\] based on such index.”
+Report.—The Secretary of Health and Human Services shall submit to Congress a report on the index developed under paragraph (1) no later than July 1, 2002, and shall include in the report recommendations on the appropriateness of an annual or periodic update mechanism for renal dialysis services under the medicare program under title XVIII of the Social Security Act \[this subchapter\] based on such index.”
 
 #### Inclusion of Additional Services in Composite Rate
 
@@ -688,7 +826,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §422(e)\], Dec. 21, 2000, 114 Stat. 27
 
 &emsp;“(1) for services furnished on or after January 1, 2001, and before April 1, 2001, shall be the composite rate payment determined under the provisions of law in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]; and
 
-&emsp;“(2) for services furnished on or after April 1, 2001, and before January 1, 2002, shall be the composite rate payment (as determined taking into account the amendment made by subsection (a)(1)) increased by a transitional percentage allowance equal to 0.39 percent (to account for the timing of implementation of the CPI update).”
+&emsp;“(2) for services furnished on or after April 1, 2001, and before January 1, 2002, shall be the compositerate payment (as determined taking into account the amendment made by subsection (a)(1)) increased by a transitional percentage allowance equal to 0.39 percent (to account for the timing of implementation of the CPI update).”
 
 #### Study on Payment Level for Home Hemodialysis
 
@@ -744,7 +882,7 @@ Report.—Not later than June 1, 1992, the Commission shall submit a report to t
 
 Annual report.—The Commission, not later than March 1 before the beginning of each fiscal year (beginning with fiscal year 1993) shall report its recommendations to the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives on an appropriate change factor which should be used for updating payments for services rendered in that fiscal year. The Commission in making such report to Congress shall consider conclusions and recommendations available from the Institute of Medicine.”
 
-\[Prospective Payment Assessment Commission (ProPAC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by ProPAC, and that, for that purpose, any reference in law to ProPAC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.\]
+\[Prospective Payment Assessment Commission (ProPAC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by ProPAC, and that, for that purpose, any reference in law to ProPAC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.\]
 
 #### Staff-Assisted Home Dialysis Demonstration Project
 
@@ -860,7 +998,7 @@ Interim status report.—Not later than December 1, 1992, the Secretary shall su
 
 &emsp;“(2)
 
-Final report.—Not later than December 31, 1995, the Secretary shall submit to Congress a finalreport evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysis aide providing medical assistance to a patient during hemodialysis treatment at the patient's home.
+Final report.—Not later than December 31, 1995, the Secretary shall submit to Congress a final report evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysis aide providing medical assistance to a patient during hemodialysis treatment at the patient's home.
 
 “(f)
 

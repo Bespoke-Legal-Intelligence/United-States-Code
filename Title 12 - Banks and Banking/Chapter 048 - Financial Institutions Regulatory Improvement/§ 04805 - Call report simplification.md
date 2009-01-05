@@ -16,7 +16,7 @@ In order to reduce the administrative requirements pertaining to bank reports of
 
 The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
 
-&emsp;(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
+&emsp;(1) to adopt a single form for the filing of core information required to be submittedunder Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
 
 &emsp;(2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
 

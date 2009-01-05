@@ -2,7 +2,7 @@
 
 #### (a) Standard wine
 
-For purposes of this subchapter the term “standard wine” means natural wine, specially sweetened natural wine, special natural wine,and standard agricultural wine, produced in accordance with the provisions of sections 5381, 5385, 5386, and 5387, respectively.
+For purposes of this subchapter the term “standard wine” means natural wine, specially sweetened natural wine, special natural wine, and standard agricultural wine, produced in accordance with the provisions of sections 5381, 5385, 5386, and 5387, respectively.
 
 #### (b) Heavy bodied blending wine
 

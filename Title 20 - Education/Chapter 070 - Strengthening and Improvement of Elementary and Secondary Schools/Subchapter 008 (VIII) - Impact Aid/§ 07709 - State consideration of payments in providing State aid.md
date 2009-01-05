@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), a program of State aid equalizes expenditures among local educational agencies if, in the second fiscal year preceding the fiscal year for which the determination is made, the amount of per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the highest such per-pupil expenditures or revenues did not exceed the amount of such per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the lowest such expenditures or revenues by more than 25 percent.
+&emsp;&emsp;For purposes of paragraph (1), a program of State aid equalizes expenditures among local educational agencies if, in the second fiscal year preceding the fiscal year for which the determination is made, the amount of per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the highest such per-pupil expenditures or revenues did not exceed the amount of such per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in theState with the lowest such expenditures or revenues by more than 25 percent.
 
 #### (B) Other factors
 
@@ -30,7 +30,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;&emsp;&emsp;(i) disregard local educational agencies with per-pupil expenditures or revenues above the 95th percentile or below the 5th percentile of such expenditures or revenues in the State; and
 
-&emsp;&emsp;&emsp;(ii) take into account the extent to which a program of State aid reflects the additional cost of providing free public education in particular types of local educational agencies, such as those that are geographically isolated, or to particulartypes of students, such as children with disabilities.
+&emsp;&emsp;&emsp;(ii) take into account the extent to which a program of State aid reflects the additional cost of providing free public education in particular types of local educational agencies, such as those that are geographically isolated, or to particular types of students, such as children with disabilities.
 
 #### (3) Exception
 
@@ -100,13 +100,13 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;The court shall grant such relief as the court determines is appropriate.
 
-(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812\], Oct. 30, 2000, 114 Stat. 1654, 1654A–386; Pub. L. 107–110, title VIII, §804, Jan. 8, 2002, 115 Stat. 1956.)
+(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812\], Oct. 30, 2000, 114 Stat. 1654,1654A–386; Pub. L. 107–110, title VIII, §804, Jan. 8, 2002, 115 Stat. 1956.)
 
 #### Amendments
 
 2002—Subsec. (b)(1). Pub. L. 107–110 inserted “and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title” after “section 7703(a)(2)(B) of this title”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20,1994)” after “under this subchapter” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State.”
 

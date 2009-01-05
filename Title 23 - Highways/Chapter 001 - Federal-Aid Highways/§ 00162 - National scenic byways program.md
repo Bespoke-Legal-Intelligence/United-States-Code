@@ -28,7 +28,7 @@ In general.—To be considered for a designation, a road must be nominated by a 
 
 &emsp;&emsp;(B)
 
-Nomination by indian tribes.—An Indian tribe may nominate a road as a National Scenic Byway under subparagraph (A) only if a Federal land management agency (other than the Bureau of Indian Affairs), a State, or a political subdivision of a State does not have—
+Nomination by indian tribes.—An Indian tribe may nominate a road as a National Scenic Byway, an All-American Road, or one of America's Byways under paragraph (1) only if a Federal land management agency (other than the Bureau of Indian Affairs), a State, or a political subdivision of a State does not have—
 
 &emsp;&emsp;&emsp;(i) jurisdiction over the road; or
 
@@ -92,7 +92,7 @@ Eligible Projects.—The following are projects that are eligible for Federal as
 
 &emsp;(2) Development and implementation of a corridor management plan to maintain the scenic, historical, recreational, cultural, natural, and archaeological characteristics of a byway corridor while providing for accommodation of increased tourism and development of related amenities.
 
-&emsp;(3) Safety improvements to a State scenic byway, Indian tribe scenic byway, National Scenic Byway, or All-American Road to the extent that the improvements are necessary to accommodate increased traffic and changes in the types of vehicles using the highway as a result of the designation as a State scenic byway, Indian tribe scenic byway, National Scenic Byway, or All-American Road.
+&emsp;(3) Safety improvements to a State scenic byway, Indian tribe scenic byway, National Scenic Byway, All-American Road, or one of America's Byways to the extent that the improvements are necessary to accommodate increased traffic and changes in the types of vehicles using the highway as a result of the designation as a State scenic byway, Indian tribe scenic byway, National Scenic Byway, All-American Road, or one of America's Byways.
 
 &emsp;(4) Construction along a scenic byway of a facility for pedestrians and bicyclists, rest area, turnout, highway shoulder improvement, overlook, or interpretive facility.
 
@@ -116,9 +116,13 @@ Savings Clause.—The Secretary shall not withhold any grant or impose any requi
 
 Federal Share.—The Federal share of the cost of carrying out a project under this section shall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
 
-(Added Pub. L. 105–178, title I, §1219(a), June 9, 1998, 112 Stat. 219; amended Pub. L. 109–59, title I, §1802, Aug. 10, 2005, 119 Stat. 1456.)
+(Added Pub. L. 105–178, title I, §1219(a), June 9, 1998, 112 Stat. 219; amended Pub. L. 109–59, title I, §1802, Aug. 10, 2005, 119 Stat. 1456; Pub. L. 110–244, title I, §101(<i>o</i>), June 6, 2008, 122 Stat. 1576.)
 
 #### Amendments
+
+2008—Subsec. (a)(3)(B). Pub. L. 110–244, §101(<i>o</i>)(1), substituted “a National Scenic Byway, an All-American Road, or one of America's Byways under paragraph (1)” for “a National Scenic Byway under subparagraph (A)” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 110–244, §101(<i>o</i>)(2), substituted “All-American Road, or one of America's Byways” for “or All-American Road” in two places.
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §1802(a)(1), substituted “the roads as—” and subpars. (A) to (C) for “the roads as National Scenic Byways or All-American Roads.”
 

@@ -42,7 +42,7 @@ For purposes of subsection (a)(3) of this section, as it relates to any internat
 
 1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1991—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countrieswhere it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
+1991—Par. (8)(B). Pub. L. 102–138, §323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
 
 Par. (8)(B)(ii). Pub. L. 102–138, §323(c), substituted “electronics, space systems or equipment, and military aircraft” for “aircraft, electronics, and space systems or equipment”.
 

@@ -16,7 +16,7 @@
 
 (b) When the Secretary of the Treasury is satisfied that an original check is lost, stolen, destroyed in any part, or is so defaced that the value to the owner or holder is impaired, the Secretary may issue a substitute check to the owner or holder of the original check. Except as provided in subsection (c) or (f) of this section, the substitute check is payable from the amount available to pay the original check.
 
-(c) When the Secretary is satisfied that an original check drawn on a depositary in a foreign country or a territory or possession of the United States is lost, stolen, destroyed in part, or is so defaced that its value to the owner or holder is impaired, the drawer of the original check (or another official designated by the Secretary with the approval of the head of the agency on whose behalf the original check was issued) may issue to the owner or holder of the check a substitute check. The drawer or official shall issue the substitute check by the last day of the fiscal year after the fiscal year in which the original check was issued—
+(c) When the Secretary is satisfied that an original check drawn on a depositary in a foreign country or a territory or possession of the United States is lost, stolen, destroyed in part, or is so defaced that its value to the owner or holder is impaired, the drawer of the original check (or another official designated by the Secretary with the approval of the head of the agency on whose behalf the original check was issued) may issue to the owner or holder of thecheck a substitute check. The drawer or official shall issue the substitute check by the last day of the fiscal year after the fiscal year in which the original check was issued—
 
 &emsp;(1) using the current date; and
 
@@ -92,7 +92,7 @@ In subsection (e), the words “surety or” are omitted as surplus. The words �
 
 This restates, as 31:3331(f), section 3646(h) of the Revised Statutes that was inadvertently omitted from the codification of title 31 by the Act of Sept. 13, 1982 (Pub. L. 97–258, 96 Stat. 1084). It provides authority for the Secretary of the Treasury to delegate duties and powers related to issuing substitute checks to heads of other agencies.
 
-The words “terms and” are omitted as surplus. The words “duties and powers” are substituted for “power, authority, or discretion” for consistency in the revised title and with other titles of the United States Code. The words “in whole or in part” are omitted as surplus. The words “to such individuals as he may designate within the Treasury Department” are omitted because of 31:321(b)(2). The word “agency” is coextensive with and substituted for “other department or agency of the Government or of any Federal Reserve bank” because of 31:101. The words “terms and conditions” are omitted as surplus.
+The words “terms and” are omitted as surplus. The words “duties and powers” are substituted for “power,authority, or discretion” for consistency in the revised title and with other titles of the United States Code. The words “in whole or in part” are omitted as surplus. The words “to such individuals as he may designate within the Treasury Department” are omitted because of 31:321(b)(2). The word “agency” is coextensive with and substituted for “other department or agency of the Government or of any Federal Reserve bank” because of 31:101. The words “terms and conditions” are omitted as surplus.
 
 #### Amendments
 

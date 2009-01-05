@@ -4,7 +4,7 @@
 
 No accrediting agency or association may be determined by the Secretary to be a reliable authority as to the quality of education or training offered for the purposes of this chapter or for other Federal purposes, unless the agency or association meets criteria established by the Secretary pursuant to this section. The Secretary shall, after notice and opportunity for a hearing, establish criteria for such determinations. Such criteria shall include an appropriate measure or measures of student achievement. Such criteria shall require that—
 
-&emsp;(1) the accrediting agency or association shall be a State, regional, or national agency or association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
+&emsp;(1) the accrediting agency or association shall be a State, regional, or national agencyor association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
 
 &emsp;(2) such agency or association—
 
@@ -24,11 +24,21 @@ No accrediting agency or association may be determined by the Secretary to be a 
 
 &emsp;&emsp;(C) subparagraph (C) of paragraph (2) and such agency or association has been recognized by the Secretary on or before October 1, 1991, then the Secretary may waive the requirement that such agency or association is separate and independent, both administratively and financially of any related, associated, or affiliated trade association or membership organization upon a demonstration that the existing relationship has not served to compromise the independence of its accreditation process;
 
-&emsp;(4) such agency or association consistently applies and enforces standards that ensure that the courses or programs of instruction, training, or study offered by the institution of higher education, including distance education courses or programs, are of sufficient quality to achieve, for the duration of the accreditation period, the stated objective for which the courses or the programs are offered;
+&emsp;(4)(A) such agency or association consistently applies and enforces standards that respect the stated mission of the institution of higher education, including religious missions, and that ensure that the courses or programs of instruction, training, or study offered by the institution of higher education, including distance education or correspondence courses or programs, are of sufficient quality to achieve, for the duration of the accreditation period, the stated objective for which the courses or the programs are offered; and
+
+&emsp;(B) if such agency or association has or seeks to include within its scope of recognition the evaluation of the quality of institutions or programs offering distance education or correspondence education, such agency or association shall, in addition to meeting the other requirements of this subpart, demonstrate to the Secretary that—
+
+&emsp;&emsp;(i) the agency or association's standards effectively address the quality of an institution's distance education or correspondence education in the areas identified in paragraph (5), except that—
+
+&emsp;&emsp;&emsp;(I) the agency or association shall not be required to have separate standards, procedures, or policies for the evaluation of distance education or correspondence education institutions or programs in order to meet the requirements of this subparagraph; and
+
+&emsp;&emsp;&emsp;(II) in the case that the agency or association is recognized by the Secretary, the agency or association shall not be required to obtain the approval of the Secretary to expand its scope of accreditation to include distance education or correspondence education, provided that the agency or association notifies the Secretary in writing of the change in scope; and
+
+&emsp;&emsp;(ii) the agency or association requires an institution that offers distance education or correspondence education to have processes through which the institution establishes that the student who registers in a distance education or correspondence education course or program is the same student who participates in and completes the program and receives the academic credit;
 
 &emsp;(5) the standards for accreditation of the agency or association assess the institution's—
 
-&emsp;&emsp;(A) success with respect to student achievement in relation to the institution's mission, including, as appropriate, consideration of course completion, State licensing examinations, and job placement rates;
+&emsp;&emsp;(A) success with respect to student achievement in relation to the institution's mission, which may include different standards for different institutions or programs, as established by the institution, including, as appropriate, consideration of State licensing examinations, consideration of course completion, and job placement rates;
 
 &emsp;&emsp;(B) curricula;
 
@@ -50,15 +60,33 @@ No accrediting agency or association may be determined by the Secretary to be a 
 
 > &emsp;except that subparagraphs (A), (H), and (J) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;
 
-&emsp;(6) such agency or association shall apply procedures throughout the accrediting process, including evaluation and withdrawal proceedings, that comply with due process, including—
+&emsp;(6) such an agency or association shall establish and apply review procedures throughout the accrediting process, including evaluation and withdrawal proceedings, which comply with due process procedures that provide—
 
-&emsp;&emsp;(A) adequate specification of requirements and deficiencies at the institution of higher education or program being examined;
+&emsp;&emsp;(A) for adequate written specification of—
 
-&emsp;&emsp;(B) notice of an opportunity for a hearing by any such institution;
+&emsp;&emsp;&emsp;(i) requirements, including clear standards for an institution of higher education or program to be accredited; and
 
-&emsp;&emsp;(C) the right to appeal any adverse action against any such institution; and
+&emsp;&emsp;&emsp;(ii) identified deficiencies at the institution or program examined;
 
-&emsp;&emsp;(D) the right to representation by counsel for any such institution;
+&emsp;&emsp;(B) for sufficient opportunity for a written response, by an institution or program, regarding any deficiencies identified by the agency or association to be considered by the agency or association—
+
+&emsp;&emsp;&emsp;(i) within a timeframe determined by the agency or association; and
+
+&emsp;&emsp;&emsp;(ii) prior to final action in the evaluation and withdrawal proceedings;
+
+&emsp;&emsp;(C) upon the written request of an institution or program, for an opportunity for the institution or program to appeal any adverse action under this section, including denial, withdrawal, suspension, or termination of accreditation, taken against the institution or program, prior to such action becoming final at a hearing before an appeals panel that—
+
+&emsp;&emsp;&emsp;(i) shall not include current members of the agency's or association's underlying decisionmaking body that made the adverse decision; and
+
+&emsp;&emsp;&emsp;(ii) is subject to a conflict of interest policy;
+
+&emsp;&emsp;(D) for the right to representation and participation by counsel for an institution or program during an appeal of the adverse action;
+
+&emsp;&emsp;(E) for a process, in accordance with written procedures developed by the agency or association, through which an institution or program, before a final adverse action based solely upon a failure to meet a standard or criterion pertaining to finances, may on one occasion seek review of significant financial information that was unavailable to the institution or program prior to the determination of the adverse action, and that bears materially on the financial deficiencies identified by the agency or association;
+
+&emsp;&emsp;(F) in the case that the agency or association determines that the new financial information submitted by the institution or program under subparagraph (E) meets the criteria of significance and materiality described in such subparagraph, for consideration by the agency or association of the new financial information prior to the adverse action described in such subparagraph becoming final; and
+
+&emsp;&emsp;(G) that any determination by the agency or association made with respect to the new financial information described in subparagraph (E) shall not be separately appealable by the institution or program. <sup>1</sup>
 
 &emsp;(7) such agency or association shall notify the Secretary and the appropriate State licensing or authorizing agency within 30 days of the accreditation of an institution or any final denial, withdrawal, suspension, or termination of accreditation or placement on probation of an institution, together with any other adverse action taken with respect to an institution; and
 
@@ -80,17 +108,39 @@ For the purpose of subsection (a)(3) of this section, the term “separate and i
 
 No accrediting agency or association may be recognized by the Secretary as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42, unless the agency or association—
 
-&emsp;(1) performs, at regularly established intervals, on-site inspections and reviews of institutions of higher education (which may include unannounced site visits) with particular focus on educational quality and program effectiveness, and ensures that accreditation team members are well-trained and knowledgeable with respect to their responsibilities;
+&emsp;(1) performs, at regularly established intervals, on-site inspections and reviews of institutions of higher education (which may include unannounced site visits) with particular focus on educational quality and program effectiveness, and ensures that accreditation team members are well-trained and knowledgeable with respect to their responsibilities, including those regarding distance education;
 
-&emsp;(2) requires that any institution of higher education subject to its jurisdiction which plans to establish a branch campus submit a business plan, including projected revenues and expenditures, prior to opening the branch campus;
+&emsp;(2) monitors the growth of programs at institutions that are experiencing significant enrollment growth;
 
-&emsp;(3) agrees to conduct, as soon as practicable, but within a period of not more than 6 months of the establishment of a new branch campus or a change of ownership of an institution of higher education, an on-site visit of that branch campus or of the institution after a change of ownership;
+&emsp;(3) requires an institution to submit for approval to the accrediting agency a teach-out plan upon the occurrence of any of the following events:
 
-&emsp;(4) requires that teach-out agreements among institutions are subject to approval by the accrediting agency or association consistent with standards promulgated by such agency or association;
+&emsp;&emsp;(A) the Department notifies the accrediting agency of an action against the institution pursuant to section 1094(f) of this title;
 
-&emsp;(5) maintains and makes publicly available written materials regarding standards and procedures for accreditation, appeal procedures, and the accreditation status of each institution subject to its jurisdiction; and
+&emsp;&emsp;(B) the accrediting agency acts to withdraw, terminate, or suspend the accreditation of the institution; or
 
-&emsp;(6) discloses publicly whenever an institution of higher education subject to its jurisdiction is being considered for accreditation or reaccreditation.
+&emsp;&emsp;(C) the institution notifies the accrediting agency that the institution intends to cease operations;
+
+&emsp;(4) requires that any institution of higher education subject to its jurisdiction which plans to establish a branch campus submit a business plan, including projected revenues and expenditures, prior to opening the branch campus;
+
+&emsp;(5) agrees to conduct, as soon as practicable, but within a period of not more than 6 months of the establishment of a new branch campus or a change of ownership of an institution of higher education, an on-site visit of that branch campus or of the institution after a change of ownership;
+
+&emsp;(6) requires that teach-out agreements among institutions are subject to approval by the accrediting agency or association consistent with standards promulgated by such agency or association;
+
+&emsp;(7) makes available to the public and the State licensing or authorizing agency, and submits to the Secretary, a summary of agency or association actions, including—
+
+&emsp;&emsp;(A) the award of accreditation or reaccreditation of an institution;
+
+&emsp;&emsp;(B) final denial, withdrawal, suspension, or termination of accreditation of an institution, and any findings made in connection with the action taken, together with the official comments of the affected institution; and
+
+&emsp;&emsp;(C) any other adverse action taken with respect to an institution or placement on probation of an institution;
+
+&emsp;(8) discloses publicly whenever an institution of higher education subject to its jurisdiction is being considered for accreditation or reaccreditation; and
+
+&emsp;(9) confirms, as a part of the agency's or association's review for accreditation or reaccreditation, that the institution has transfer of credit policies—
+
+&emsp;&emsp;(A) that are publicly disclosed; and
+
+&emsp;&emsp;(B) that include a statement of the criteria established by the institution regarding the transfer of credit earned at another institution of higher education.
 
 #### (d) Length of recognition
 
@@ -106,7 +156,7 @@ Notwithstanding any other provision of law, any civil action brought by an insti
 
 #### (g) Limitation on scope of criteria
 
-Nothing in this chapter shall be construed to permit the Secretary to establish criteria for accrediting agencies or associations that are not required by this section. Nothing in this chapter shall be construed to prohibit or limit any accrediting agency or association from adopting additional standards not provided for in this section.
+Nothing in this chapter shall be construed to permit the Secretary to establish criteria for accrediting agencies or associations that are not required by this section. Nothing in this chapter shall be construed to prohibit or limit any accrediting agency or association from adopting additional standards not provided for in this section. Nothing in this section shall be construed to permit the Secretary to establish any criteria that specifies, defines, or prescribes the standards that accrediting agencies or associations shall use to assess any institution's success with respect to student achievement.
 
 #### (h) Change of accrediting agency
 
@@ -168,15 +218,53 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 #### (<i>o</i>) Regulations
 
-The Secretary shall by regulation provide procedures for the recognition of accrediting agencies or associations and for the appeal of the Secretary's decisions.
+The Secretary shall by regulation provide procedures for the recognition of accrediting agencies or associations and for the appeal of the Secretary's decisions. Notwithstanding any other provision of law, the Secretary shall not promulgate any regulation with respect to the standards of an accreditation agency or association described in subsection (a)(5).
 
-(Pub. L. 89–329, title IV, §496, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 641; amended Pub. L. 103–208, §2(i)(3)–(8), Dec. 20, 1993, 107 Stat. 2478, 2479; Pub. L. 105–244, title I, §102(b)(5), title IV, §492(a)(2)–(d), Oct. 7, 1998, 112 Stat. 1622, 1759, 1760.)
+#### (p) Rule of construction
+
+Nothing in subsection (a)(5) shall be construed to restrict the ability of—
+
+&emsp;(1) an accrediting agency or association to set, with the involvement of its members, and to apply, accreditation standards for or to institutions or programs that seek review by the agency or association; or
+
+&emsp;(2) an institution to develop and use institutional standards to show its success with respect to student achievement, which achievement may be considered as part of any accreditation review.
+
+#### (q) Review of scope changes
+
+The Secretary shall require a review, at the next available meeting of the National Advisory Committee on Institutional Quality and Integrity, of any change in scope undertaken by an agency or association under subsection (a)(4)(B)(i)(II) if the enrollment of an institution that offers distance education or correspondence education that is accredited by such agency or association increases by 50 percent or more within any one institutional fiscal year.
+
+(Pub. L. 89–329, title IV, §496, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 641; amended Pub. L. 103–208, §2(i)(3)–(8), Dec. 20, 1993, 107 Stat. 2478, 2479; Pub. L. 105–244, title I, §102(b)(5), title IV, §492(a)(2)–(d), Oct. 7, 1998, 112 Stat. 1622, 1759, 1760; Pub. L. 110–315, title IV, §495, Aug. 14, 2008, 122 Stat. 3324.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (d), (g), (i), (j), and (m), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–315, §495(1)(A), added par. (4) and struck out former par. (4) which read as follows: “such agency or association consistently applies and enforces standards that ensure that the courses or programs of instruction, training, or study offered by the institution of higher education, including distance education courses or programs, are of sufficient quality to achieve, for the duration of the accreditation period, the stated objective for which the courses or the programs are offered;”.
+
+Subsec. (a)(5)(A). Pub. L. 110–315, §495(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “success with respect to student achievement in relation to the institution's mission, including, as appropriate, consideration of course completion, State licensing examinations, and job placement rates;”.
+
+Subsec. (a)(6). Pub. L. 110–315, §495(1)(C), added par. (6) and struck out former par. (6) which read as follows: “such agency or association shall apply procedures throughout the accrediting process, including evaluation and withdrawal proceedings, that comply with due process, including—
+
+&emsp;“(A) adequate specification of requirements and deficiencies at the institution of higher education or program being examined;
+
+&emsp;“(B) notice of an opportunity for a hearing by any such institution;
+
+&emsp;“(C) the right to appeal any adverse action against any such institution; and
+
+&emsp;“(D) the right to representation by counsel for any such institution;”.
+
+Subsec. (c)(1). Pub. L. 110–315, §495(2)(A), inserted “, including those regarding distance education” after “their responsibilities”.
+
+Subsec. (c)(2) to (8). Pub. L. 110–315, §495(2)(B)–(D), added pars. (2), (3), and (7), redesignated former pars. (2) to (6) as (4) to (8), respectively, and struck out former par. (7) which read as follows: “maintains and makes publicly available written materials regarding standards and procedures for accreditation, appeal procedures, and the accreditation status of each institution subject to its jurisdiction; and”.
+
+Subsec. (c)(9). Pub. L. 110–315, §495(2)(E), (F), added par. (9).
+
+Subsec. (g). Pub. L. 110–315, §495(3), inserted at end “Nothing in this section shall be construed to permit the Secretary to establish any criteria that specifies, defines, or prescribes the standards that accrediting agencies or associations shall use to assess any institution's success with respect to student achievement.”
+
+Subsec. (<i>o</i>). Pub. L. 110–315, §495(4), inserted at end “Notwithstanding any other provision of law, the Secretary shall not promulgate any regulation with respect to the standards of an accreditation agency or association described in subsection (a)(5).”
+
+Subsecs. (p), (q). Pub. L. 110–315, §495(5), added subsecs. (p) and (q).
 
 1998—Pub. L. 105–244, §492(a)(2), substituted “Recognition” for “Approval” in section catchline.
 
@@ -256,5 +344,5 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 #### Study of Transfer of Credits
 
-Pub. L. 105–244, title VIII, §804, Oct. 7, 1998, 112 Stat. 1806, directed the Secretary of Education to conduct a study to evaluate policies or practices instituted by recognized accrediting agencies or associations regarding the treatment of the transfer of credits from one institution of higher education to another and to submit, not later than one year after Oct. 7, 1998, a report to Congress detailing the Secretary's findings regarding the study, including such recommendation with respect to the recognition of accrediting agencies or associations as the Secretary deemed advisable.
+Pub. L. 105–244, title VIII, §804, Oct. 7, 1998, 112 Stat. 1806, which directed the Secretary of Education to conduct a study regarding the treatment of the transfer of credits from one institution of higher education to another and to report to Congress, not later than one year after Oct. 7, 1998, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
 

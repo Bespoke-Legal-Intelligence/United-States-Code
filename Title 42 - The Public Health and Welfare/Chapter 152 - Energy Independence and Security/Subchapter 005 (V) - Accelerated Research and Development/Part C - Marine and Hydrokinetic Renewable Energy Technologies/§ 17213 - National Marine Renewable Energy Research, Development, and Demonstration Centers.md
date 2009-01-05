@@ -6,7 +6,7 @@ The Secretary shall award grants to institutions of higher education (or consort
 
 &emsp;(1) Hosts an existing marine renewable energy research and development program in coordination with an engineering program at an institution of higher education.
 
-&emsp;(2) Has proven expertise to support environmental and policy-related issues associatedwith harnessing of energy in the marine environment.
+&emsp;(2) Has proven expertise to support environmental and policy-related issues associated with harnessing of energy in the marine environment.
 
 &emsp;(3) Has access to and utilizes the marine resources in the Gulf of Mexico, the Atlantic Ocean, or the Pacific Ocean.
 

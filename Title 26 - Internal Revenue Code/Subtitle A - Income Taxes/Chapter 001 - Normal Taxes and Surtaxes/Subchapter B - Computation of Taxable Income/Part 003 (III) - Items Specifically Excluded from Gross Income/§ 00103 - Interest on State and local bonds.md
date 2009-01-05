@@ -453,7 +453,7 @@ In general.—Except as provided in clause (ii), in the case of property placed 
 
 &emsp;&emsp;&emsp;“(ii)
 
-Significant expenditures.—In the case of facilities the original use of which commenceswith the taxpayer and with respect to which significant expenditures are made before January 1, 1984, the amendments made by section 628(b) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before October 19, 1983.
+Significant expenditures.—In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before January 1, 1984, the amendments made by section 628(b) shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before October 19, 1983.
 
 &emsp;&emsp;“(C)
 
@@ -941,7 +941,7 @@ Limitation on purposes.—Subsection (a)(1) shall only apply to obligations issu
 
 #### Treatment of Certain Residential Real Property as Residential Rental Property
 
-Treatment of Pub. L. 98–369, §631(d)(3), residential real property as residential rental property, see section1809(a)(4)(C) of Pub. L. 99–514, set out as a note under section 168 of this title.
+Treatment of Pub. L. 98–369, §631(d)(3), residential real property as residential rental property, see section 1809(a)(4)(C) of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 #### Public Approval Requirement in the Case of Public Airport
 
@@ -961,7 +961,7 @@ Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 &emsp;“(2) substantially all of the proceeds of such issue are used to provide facilities with respect to which an urban development action grant under section 119 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5318\] was preliminarily approved by the Secretary of Housing and Urban Development on January 10, 1980, and
 
-&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5 percent of the total capital expenditures incurred with respect to such facilities.”
+&emsp;“(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5percent of the total capital expenditures incurred with respect to such facilities.”
 
 #### Student Loan Bonds
 
@@ -1203,7 +1203,7 @@ Rule for Governments Which Have Already Paid Arbitrage Profits to the United Sta
 
 &emsp;“(2) failed to receive a favorable ruling and did not pay the refund profit to a charitable organization, and
 
-> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local government under this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
+> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local governmentunder this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
 
 “(c)
 

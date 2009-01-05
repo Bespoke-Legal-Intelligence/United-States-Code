@@ -178,7 +178,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;&emsp;(iv) address and facilitate information sharing between and among departments and agencies of the intelligence community, the Department of Defense, the homeland security community and the law enforcement community;
 
-&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments and agencies and State, tribal, and local governments;
+&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments andagencies and State, tribal, and local governments;
 
 &emsp;&emsp;&emsp;(vi) address and facilitate, as appropriate, information sharing between Federal departments and agencies and the private sector;
 
@@ -406,7 +406,7 @@ Sec. 5. <i>Establishment and Functions of Information Sharing Council</i>. (a) C
 
 (b) The mission of the Council is to (i) provide advice and information concerning the establishment of an interoperable terrorism information sharing environment to facilitate automated sharing of terrorism information among appropriate agencies to implement the policy set forth in section 1 of this order; and (ii) perform the duties set forth in section 1016(g) of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
-(c) To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 ofthis order, the plan for establishment of a proposed interoperable terrorism information sharing environment reported under section 5(c) of Executive Order 13356 \[formerly set out above\] shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
+(c) To assist in expeditious and effective implementation by agencies of the policy set forth in section 1 of this order, the plan for establishment of a proposed interoperable terrorism information sharing environment reported under section 5(c) of Executive Order 13356 \[formerly set out above\] shall be used, as appropriate, in carrying out section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004.
 
 Sec. 6. <i>Definitions</i>. As used in this order:
 

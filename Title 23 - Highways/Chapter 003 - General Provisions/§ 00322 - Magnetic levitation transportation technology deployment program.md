@@ -8,7 +8,7 @@ Definitions.—In this section, the following definitions apply:
 
 Eligible project costs.—The term “eligible project costs”—
 
-&emsp;&emsp;(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways,propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+&emsp;&emsp;(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
 
 &emsp;&emsp;(B) includes the costs of preconstruction planning activities.
 
@@ -214,7 +214,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Deployment of Magnetic Levitation Transportation Projects
 
-Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, provided that:
+Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, §102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
 
 “(a)
 
@@ -266,7 +266,17 @@ Project Eligibility.—To be eligible to receive financial assistance under subs
 
 “(d)
 
-Allocation.—Of the amounts made available to carry out this section for a fiscal year, the Secretary \[of Transportation\] shall allocate 50 percent for the MAGLEV project between Las Vegas and Primm, Nevada, and 50 percent for a MAGLEV project located east of the Mississippi River.”
+Allocation.—Of the amounts made available to carry out this section for a fiscal year, the Secretary \[of Transportation\] shall allocate—
+
+&emsp;“(1) 50 percent to the Nevada department of transportation who shall cooperate with the California-Nevada Super Speed Train Commission for the MAGLEV project between Las Vegas and Primm, Nevada, as a segment of the high-speed MAGLEV system between Las Vegas, Nevada, and Anaheim, California; and
+
+&emsp;“(2) 50 percent for existing MAGLEV projects located east of the Mississippi River using such criteria as the Secretary deems appropriate.
+
+“(e)
+
+Contract Authority.—Funds authorized under section 1101(a)(18) \[119 Stat. 1155\] shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project to be carried out with such funds shall be 80 percent.”
+
+\[Pub. L. 110–244, title I, §102(d), June 6, 2008, 122 Stat. 1578, provided that: “The amendments made by this section \[amending section 1307 of Pub. L. 109–59, set out above\] take effect on October 1, 2007.”\]
 
 #### Advanced Technology Pilot Project
 
@@ -282,7 +292,7 @@ Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[
 
 “(3)
 
-Federal share.—The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
+Federal share.—The Federal share payable on account of activities carried out using a grant madeunder this subsection shall be 80 percent of the cost of such activities.”
 
 \[Pub. L. 109–35, §7(p)(1), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “July 21, 2005” for “July 19, 2005,” was executed by making the substitution for “July 19, 2005”, to reflect the probable intent of Congress.\]
 

@@ -18,27 +18,15 @@ The Secretary shall review and evaluate ways in which regulations under and prov
 
 In carrying out subsections (a) and (b) of this section, the Secretary shall consult with relevant representatives of institutions participating in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-#### (d) Reports to Congress
-
-#### (1) In general
-
-&emsp;The Secretary shall submit, not later than 1 year after October 7, 1998, a report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives detailing the Secretary's findings and recommendations based on the reviews conducted under subsections (a) and (b) of this section, including a timetable for implementation of any recommended changes in regulations and a description of any recommendations for legislative changes.
-
-#### (2) Additional reports
-
-&emsp;Not later than January 1, 2003, the Secretary shall submit a report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives detailing the Secretary's findings and recommendations based on the review conducted under subsection (a) of this section, including a timetable for implementation of any recommended changes in regulations and a description of any recommendations for legislative changes.
-
-(Pub. L. 89–329, title IV, §498B, as added Pub. L. 105–244, title IV, §495, Oct. 7, 1998, 112 Stat. 1764.)
+(Pub. L. 89–329, title IV, §498B, as added Pub. L. 105–244, title IV, §495, Oct. 7, 1998, 112 Stat. 1764; amended Pub. L. 110–315, title IV, §498, Aug. 14, 2008, 122 Stat. 3328.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+2008—Subsec. (d). Pub. L. 110–315 struck out subsec. (d) which required the Secretary to submit reports to Congress.
 
 #### Effective Date
 

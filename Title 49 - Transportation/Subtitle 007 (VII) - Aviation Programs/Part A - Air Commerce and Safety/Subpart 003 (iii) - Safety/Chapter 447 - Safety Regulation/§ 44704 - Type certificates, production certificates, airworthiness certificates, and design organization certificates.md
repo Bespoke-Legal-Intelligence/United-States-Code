@@ -20,7 +20,7 @@ Specifications.—The Administrator may—
 
 &emsp;(3)
 
-Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, ofthat agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
+Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
 
 &emsp;(4)
 

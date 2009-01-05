@@ -18,7 +18,7 @@ The Congress finds—
 
 &emsp;(8) a comprehensive and coordinated array of appropriate private and public mental health and support services for all people in need within specific geographic areas, based upon a cooperative local-State-Federal partnership, remains the most effective and humane way to provide a majority of mentally ill individuals with mental health care and needed support; and
 
-&emsp;(9) because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatricnurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
+&emsp;(9) because of the rising demand for mental health services and the wide disparity in the distribution of psychiatrists, clinical psychologists, social workers, and psychiatric nurses, there is a shortage in the medical specialty of psychiatry and there are also shortages among the other health personnel who provide mental health services.
 
 (Pub. L. 96–398, §2, Oct. 7, 1980, 94 Stat. 1565.)
 

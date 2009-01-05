@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) the United States-Israel Binational Industrial Research and Development Foundation;
 
-&emsp;(4) those programs have made possible many scientific, technological, and commercial breakthroughs in the fields of life sciences, medicine, bioengineering, agriculture, biotechnology, communications, and others;
+&emsp;(4) those programs have made possible many scientific, technological, and commercialbreakthroughs in the fields of life sciences, medicine, bioengineering, agriculture, biotechnology, communications, and others;
 
 &emsp;(5) on February 1, 1996, the Secretary of Energy (referred to in this section as the “Secretary”) and the Israeli Minister of Energy and Infrastructure signed an agreement to establish a framework for collaboration between the United States and Israel in energy research and development activities;
 

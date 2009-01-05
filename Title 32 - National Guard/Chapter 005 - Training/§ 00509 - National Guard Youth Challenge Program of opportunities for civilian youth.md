@@ -2,7 +2,7 @@
 
 (a)
 
-Program Authority and Purpose.—The Secretary of Defense may use the NationalGuard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
+Program Authority and Purpose.—The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
 (b)
 
@@ -26,15 +26,9 @@ Program Agreements.—(1) To carry out the Program in a State, the Secretary of 
 
 (d)
 
-Matching Funds Required.—The amount of assistance provided under this section to a State program of the Program may not exceed—
+Matching Funds Required.—(1) The amount of assistance provided by the Secretary of Defense to a State program of the Program for a fiscal year under this section may not exceed 60 percent of the costs of operating the State program during that fiscal year.
 
-&emsp;(1) for fiscal year 1998, 75 percent of the costs of operating the State program during that year;
-
-&emsp;(2) for fiscal year 1999, 70 percent of the costs of operating the State program during that year;
-
-&emsp;(3) for fiscal year 2000, 65 percent of the costs of operating the State program during that year; and
-
-&emsp;(4) for fiscal year 2001 and each subsequent fiscal year, 60 percent of the costs of operating the State program during that year.
+(2) The limitation in paragraph (1) may not be construed as a limitation on the amount of assistance that may be provided to a State program of the Program for a fiscal year from sources other than the Department of Defense.
 
 (e)
 
@@ -132,13 +126,23 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 &emsp;(7) The procedures to be used by the Secretary when communicating with States about the Program.
 
-(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936.)
+(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, \[div. A\], title V, §594(a), Oct. 14, 2008, 122 Stat. 4475.)
 
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–417 amended subsec. (d) generally. Prior to amendment, text read as follows: “The amount of assistance provided under this section to a State program of the Program may not exceed—
+
+&emsp;“(1) for fiscal year 1998, 75 percent of the costs of operating the State program during that year;
+
+&emsp;“(2) for fiscal year 1999, 70 percent of the costs of operating the State program during that year;
+
+&emsp;“(3) for fiscal year 2000, 65 percent of the costs of operating the State program during that year; and
+
+&emsp;“(4) for fiscal year 2001 and each subsequent fiscal year, 60 percent of the costs of operating the State program during that year.”
 
 2004—Pub. L. 108–375, §594(b)(1), amended section catchline generally, substituting “National Guard Youth” for “National Guard”.
 
@@ -154,7 +158,7 @@ Subsec. (b)(4). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” f
 
 Subsecs. (c) to (f). Pub. L. 108–375, §594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing in text.
 
-Subsec. (g)(1). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence andfor “program” before period at end of first and second sentences.
+Subsec. (g)(1). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence and for “program” before period at end of first and second sentences.
 
 Subsec. (g)(2). Pub. L. 108–375, §594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “Governor participating in the” and after “in carrying out the” and substituted “Program” for “program” after “National Guard is participating in the”.
 
@@ -195,6 +199,10 @@ Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added sub
 1999—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted “$62,500,000” for “$50,000,000”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title V, §594(b), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
 
 #### Effective Date of 2002 Amendment
 

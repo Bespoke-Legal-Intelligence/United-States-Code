@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 153, act Aug. 16, 1954, ch. 736, 68A Stat. 45, related to determination of marital status, prior torepeal by Pub. L. 94–455, title XIX, §1901(b)(7)(A)(i), (d), Oct. 4, 1976, 90 Stat. 1794, 1803, applicable with respect to taxable years beginning after Dec. 31, 1976. See section 143 of this title.
+A prior section 153, act Aug. 16, 1954, ch. 736, 68A Stat. 45, related to determination of marital status, prior to repeal by Pub. L. 94–455, title XIX, §1901(b)(7)(A)(i), (d), Oct. 4, 1976, 90 Stat. 1794, 1803, applicable with respect to taxable years beginning after Dec. 31, 1976. See section 143 of this title.
 
 #### Amendments
 

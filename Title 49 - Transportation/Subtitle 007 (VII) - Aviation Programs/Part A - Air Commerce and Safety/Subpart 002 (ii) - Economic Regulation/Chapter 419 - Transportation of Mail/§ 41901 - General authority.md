@@ -2,13 +2,13 @@
 
 (a)
 
-Title 39.—The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(e) and (f) of title 39.
+Title 39.—The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(e) and (f) of title 39, and in foreign air transportation under section 5402(b) and (c) of title 39.
 
 (b)
 
 Authority To Prescribe Prices.—Except as provided in section 5402 of title 39, on the initiative of the Secretary of Transportation or on petition by the Postal Service or an air carrier, the Secretary shall prescribe and publish—
 
-&emsp;(1) after notice and an opportunity for a hearing on the record, reasonable prices to be paid by the Postal Service for the transportation of mail by aircraft in foreign air transportation or between places in Alaska, the facilities used in and useful for the transportation of mail, and the services related to the transportation of mail for each carrier holding a certificate that authorizes that transportation;
+&emsp;(1) after notice and an opportunity for a hearing on the record, reasonable prices to be paid by the Postal Service for the transportation of mail by aircraft between places in Alaska, the facilities used in and useful for the transportation of mail, and the services related to the transportation of mail for each carrier holding a certificate that authorizes that transportation;
 
 &emsp;(2) the methods used, whether by aircraft-mile, pound-mile, weight, space, or a combination of those or other methods, to determine the prices for each air carrier or class of air carriers; and
 
@@ -20,7 +20,7 @@ Other Transportation.—In prescribing prices under subsection (b) of this secti
 
 (d)
 
-Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriers and for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
+Authority To Prescribe Different Prices.—Considering conditions peculiar to transportation by aircraft and to particular air carriers or classes of air carriers, the Secretary may prescribe different prices under this section for different air carriers or classes of air carriersand for different classes of service. In prescribing a price for a carrier under this section, the Secretary shall consider, among other factors, the following:
 
 &emsp;(1) the condition that the carrier may hold and operate under a certificate authorizing the transportation of mail only by providing necessary and adequate facilities and service for the transportation of mail.
 
@@ -34,7 +34,7 @@ Statements on Prices.—A petition for prescribing a reasonable price under this
 
 Statements on Required Services.—The Postal Service shall introduce as part of the record in every proceeding under this section a comprehensive statement of the services to be required of the air carrier and other information the Postal Service has that the Secretary considers material to the proceeding.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 104–52, title VI, §631(c), Nov. 19, 1995, 109 Stat. 505; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 107–206, title III, §3002(e)(2), Aug. 2, 2002, 116 Stat. 924.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 104–52, title VI, §631(c), Nov. 19, 1995, 109 Stat. 505; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 107–206, title III, §3002(e)(2), Aug. 2, 2002, 116 Stat. 924; Pub. L. 110–405, §2(b)(1), (2), Oct. 13, 2008, 122 Stat. 4289.)
 
 Historical and Revision Notes
 
@@ -156,9 +156,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(8); added Oct. 4, 1984,
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984, Pub. L. 98–443, §3(f), 98 Stat. 1704; Sept. 30, 1988, Pub. L. 100–457, §346 (related to §1601(b)(3) of Federal Aviation Act of 1958), 102 Stat. 2155.
 
-Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Actof 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
+Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–405, §2(b)(1), substituted “39, and in foreign air transportation under section 5402(b) and (c) of title 39.” for “39.”
+
+Subsec. (b)(1). Pub. L. 110–405, §2(b)(2), struck out “in foreign air transportation or” after “aircraft”.
 
 2002—Subsec. (a). Pub. L. 107–206 substituted “5402(e)” for “5402(d)”.
 
@@ -171,6 +175,10 @@ Expiration Date.—The authority of the Secretary under this part and section 54
 1994—Subsec. (b)(1). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation,” for “foreign air transportation or between places in Alaska,”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
 Subsec. (g). Pub. L. 103–272, §4(k)(2), which directed the amendment of this section by striking out subsec. (g), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1999 Amendment
 

@@ -24,7 +24,7 @@ Not later than the date that is 30 days after the date on which a determination 
 
 #### (e) Public notice
 
-Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commissiondetermines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
 (Pub. L. 109–53, title III, §312, Aug. 2, 2005, 119 Stat. 489.)
 

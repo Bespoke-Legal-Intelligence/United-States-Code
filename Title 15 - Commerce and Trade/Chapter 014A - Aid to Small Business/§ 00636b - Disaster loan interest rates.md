@@ -12,7 +12,7 @@ Section 4452 of title 42, referred to in text, was repealed by Pub. L. 93–24, 
 
 #### Codification
 
-Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classifiedto section 4453 of Title 42, The Public Health and Welfare.
+Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4453 of Title 42, The Public Health and Welfare.
 
 #### Effective Date
 

@@ -32,5 +32,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 

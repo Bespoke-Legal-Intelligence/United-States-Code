@@ -18,7 +18,7 @@ The Secretary of the Interior may—
 
 &emsp;(3) cooperate with any State or local government, including an Indian tribe, in the enforcement of the laws or ordinances of that State or local government; and
 
-&emsp;(4) provide reimbursement to a State or local government, including an Indian tribe, for expenditures incurred in connection with activities under paragraph (2).
+&emsp;(4) provide reimbursement to a State or local government, including an Indian tribe,for expenditures incurred in connection with activities under paragraph (2).
 
 #### (d) Powers of law enforcement officers
 

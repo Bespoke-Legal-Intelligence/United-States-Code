@@ -66,7 +66,7 @@ Section 529 \[title III, §305\] of Pub. L. 101–509 provided that:
 
 “(a)
 
-Generally.—Except as otherwise provided in this Act, this Act and the amendments made by thisAct \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
+Generally.—Except as otherwise provided in this Act, this Act and the amendments made by this Act \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
 
 “(b)
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: “This title\[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the ‘Law Enforcement Pay Equity Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 

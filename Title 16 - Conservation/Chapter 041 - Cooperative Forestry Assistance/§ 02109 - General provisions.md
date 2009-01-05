@@ -24,7 +24,7 @@ Requirements for the development of State forest resources programs and State pa
 
 For the purposes of this chapter—
 
-&emsp;(1) The terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States;
+&emsp;(1) The terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau, and the territories and possessions of the United States;
 
 &emsp;(2) The term “forest resources” shall include esthetics, fish and wildlife, forage, outdoor recreation opportunities, timber, and water; and
 
@@ -46,11 +46,15 @@ This chapter shall be construed as supplementing all other laws relating to the 
 
 In addition to the authority provided elsewhere in this chapter, the Secretary may provide assistance to other countries with respect to the activities described in paragraphs (1) through (10) of section 2102(b) of this title, paragraphs (1) through (5) of section 2104(b) <sup>1</sup> of this title, and paragraphs (1) through (3) of section 2105(b) of this title. For the purposes of providing assistance to other countries under this subsection, the term “non-Federal forest land” shall mean any forest land and related renewable natural resources in such countries. In providing the assistance authorized under this subsection, the Secretary shall coordinate with other Federal officials, departments, agencies, or international organizations, as the President may direct. The references to “State foresters or equivalent State officials” in this chapter shall not apply to the assistance provided by the Secretary to other countries under this subsection.
 
-(Pub. L. 95–313, §13, formerly §10, July 1, 1978, 92 Stat. 373; Pub. L. 101–513, title VI, §611(b)(3), formerly §607(b)(3), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(3), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; renumbered §13 and amended Pub. L. 101–624, title XII, §§1215(1), 1224(3), Nov. 28, 1990, 104 Stat. 3525, 3542.)
+(Pub. L. 95–313, §13, formerly §10, July 1, 1978, 92 Stat. 373; Pub. L. 101–513, title VI, §611(b)(3), formerly §607(b)(3), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(3), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; renumbered §13 and amended Pub. L. 101–624, title XII, §§1215(1), 1224(3), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 110–234, title VIII, §8004, May 22, 2008, 122 Stat. 1284; Pub. L. 110–246, §4(a), title VIII, §8004, June 18, 2008, 122 Stat. 1664, 2045.)
 
 #### References in Text
 
 Section 2104(b) of this title, referred to in subsec. (h), was in the original a reference to section 7(b), meaning section 7(b) of Pub. L. 95–313, which has been translated as reading section 8(b) of Pub. L. 95–313 as the probable intent of Congress. Section 7(b) of Pub. L. 95–313, which is classified to section 2103c of this title, does not contain pars. (1) to (5).
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -58,13 +62,15 @@ A prior section 13 of Pub. L. 95–313 was renumbered section 16 and is classifi
 
 #### Amendments
 
+2008—Subsec. (d)(1). Pub. L. 110–246, §8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
+
 1990—Subsec. (g). Pub. L. 101–624, §1224(3), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (h). Pub. L. 101–513, which directed amendment of section 12 of Pub. L. 95–313 by adding a new subsec. (h), was executed to this section to reflect the probable intent of Congress.
 
-#### Termination of Trust Territory of the Pacific Islands
+#### Effective Date of 2008 Amendment
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

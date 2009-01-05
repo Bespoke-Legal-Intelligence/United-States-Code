@@ -6,7 +6,7 @@ Recovery of payments under this subchapter may not be made from an individual wh
 
 #### Amendments
 
-1993—Pub. L. 103–178 substituted “subchapter” for “chapter” in two places.
+<b>1993</b>—Pub. L. 103–178 substituted “subchapter” for “chapter” in two places.
 
 #### Effective Date of 1993 Amendment
 

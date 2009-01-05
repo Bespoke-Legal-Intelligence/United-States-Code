@@ -38,7 +38,7 @@ In sections 27 to 27f of this title, the term “covered swap agreement” means
 
 &emsp;&emsp;(A) is entered into only between persons that are eligible contract participants (as defined in section 1a(12) of this title, as in effect on December 21, 2000) at the time the persons enter into the swap agreement; and
 
-&emsp;&emsp;(B) is not entered into or executed on a trading facility (as defined in section 1a(33) of this title); or
+&emsp;&emsp;(B) is not entered into or executed on a trading facility (as defined in section 1a(33) <sup>2</sup> of this title); or
 
 &emsp;(2) the swap agreement—
 
@@ -58,6 +58,8 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classi
 
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsecs. (b) and (d), is section 206 of Pub. L. 106-102 which is set out as a note under section 78c of Title 15, Commerce and Trade.
 
+Par. (33) of section 1a of this title, referred to in subsec. (d)(1)(B), was redesignated par. (34) by Pub. L. 110–246, title XIII, §13201(a), June 18, 2008, 122 Stat. 2197.
+
 #### Codification
 
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
@@ -67,4 +69,6 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 For short title of sections 27 to 27f of this title as the “Legal Certainty for Bank Products Act of 2000”, see section 1(a)(5) \[title IV, §401\] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

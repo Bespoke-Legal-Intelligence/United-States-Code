@@ -20,7 +20,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;The Secretary may enter into a supplemental agreement with an institution (or a consortium of such institutions) that—
 
-&emsp;&emsp;(A) has an agreement under subsection 1087d(a) of this title;
+&emsp;&emsp;(A) has an agreement under subsection <sup>1</sup> 1087d(a) of this title;
 
 &emsp;&emsp;(B) desires to originate loans under this part; and
 
@@ -52,7 +52,7 @@ The Secretary may not select an institution of higher education for participatio
 
 #### (e) Consortia
 
-Subject to such requirements as the Secretary may prescribe, eligible institutions of highereducation (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
+Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
 
 (Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
 
@@ -109,4 +109,6 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

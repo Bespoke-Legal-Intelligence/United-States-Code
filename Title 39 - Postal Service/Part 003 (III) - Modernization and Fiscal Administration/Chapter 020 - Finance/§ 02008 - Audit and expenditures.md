@@ -4,7 +4,7 @@
 
 (b) The Postal Service shall maintain an adequate internal audit of the financial transactions of the Postal Service.
 
-(c) Subject only to the provisions of this chapter, the Postal Service is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manneras it deems necessary, including the final settlement of all claims and litigation by or against the Postal Service.
+(c) Subject only to the provisions of this chapter, the Postal Service is authorized to make such expenditures and to enter into such contracts, agreements, and arrangements, upon such terms and conditions and in such manner as it deems necessary, including the final settlement of all claims and litigation by or against the Postal Service.
 
 (d) Nothing in this section shall be construed as denying to the Postal Service the power to obtain audits of the accounts of the Postal Service and reports concerning its financial condition and operations by certified public accounting firms. Such audits and reports shall be in addition to those required by this section.
 

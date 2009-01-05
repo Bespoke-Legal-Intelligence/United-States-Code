@@ -2,7 +2,7 @@
 
 (a)
 
-Definitions.—In this section and section 14506, the following definitions apply:
+Definitions.—In this section and section 14506 (except as provided in paragraph (5)), the following definitions apply:
 
 &emsp;(1)
 
@@ -10,11 +10,15 @@ Commercial motor vehicle.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “commercial motor vehicle” has the meaning such term has under section 31101.
+In general.—Except as provided in subparagraph (B), the term “commercial motor vehicle”—
+
+&emsp;&emsp;&emsp;(i) for calendar years 2008 and 2009, has the meaning given the term in section 31101; and
+
+&emsp;&emsp;&emsp;(ii) for years beginning after December 31, 2009, means a self-propelled vehicle described in section 31101.
 
 &emsp;&emsp;(B)
 
-Exception.—With respect to a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier's authority or insurance related to operation within such State, the motor carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
+Exception.—With respect to determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier shall have the option to include, in addition to commercial motor vehicles as defined in subparagraph (A), any self-propelled vehicle used on the highway in commerce to transport passengers or property for compensation regardless of the gross vehicle weight rating of the vehicle or the number of passengers transported by such vehicle.
 
 &emsp;(2)
 
@@ -46,7 +50,35 @@ Leasing company.—The term “leasing company” means a lessor that is engaged
 
 &emsp;(5)
 
-Motor carrier.—The term “motor carrier” includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.
+Motor carrier.—
+
+&emsp;&emsp;(A)
+
+This section.—In this section:
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The term “motor carrier” includes all carriers that are otherwise exempt from this part—
+
+&emsp;&emsp;&emsp;&emsp;(I) under subchapter I of chapter 135; or
+
+&emsp;&emsp;&emsp;&emsp;(II) through exemption actions by the former Interstate Commerce Commission under this title.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exclusions.—In this section, the term “motor carrier” does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any carrier subject to section 13504; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any other carrier that the board of directors of the unified carrier registration plan determines to be appropriate pursuant to subsection (d)(4)(C).
+
+&emsp;&emsp;(B)
+
+Section 14506.—In section 14506, the term “motor carrier” includes all carriers that are otherwise exempt from this part—
+
+&emsp;&emsp;&emsp;(i) under subchapter I of chapter 135; or
+
+&emsp;&emsp;&emsp;(ii) through exemption actions by the former Interstate Commerce Commission under this title.
 
 &emsp;(6)
 
@@ -78,9 +110,9 @@ Unreasonable Burden.—For purposes of this section, it shall be considered an u
 
 &emsp;&emsp;(A) the registration with the State of the interstate operations of the motor carrier or motor private carrier;
 
-&emsp;&emsp;(B) the filing with the State of information relating to the financial responsibility of the a <sup>1</sup> motor carrier or motor private carrier pursuant to sections 31138 or 31139;
+&emsp;&emsp;(B) the filing with the State of information relating to the financial responsibility of a motor carrier or motor private carrier pursuant to sections 31138 or 31139;
 
-&emsp;&emsp;(C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to sections <sup>2</sup> 503 or 13304; or
+&emsp;&emsp;(C) the filing with the State of the name of the local agent for service of process of the motor carrier or motor private carrier pursuant to sections <sup>1</sup> 503 or 13304; or
 
 &emsp;&emsp;(D) the annual renewal of the intrastate authority, or the insurance filings, of the motor carrier or motor private carrier, or other intrastate filing requirement necessary to operate within the State if the motor carrier or motor private carrier is—
 
@@ -90,11 +122,11 @@ Unreasonable Burden.—For purposes of this section, it shall be considered an u
 
 &emsp;&emsp;&emsp;&emsp;(I) intrastate service provided by motor carriers of passengers that is not subject to the preemption provisions of section 14501(a);
 
-&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).<sup>3</sup>
+&emsp;&emsp;&emsp;&emsp;(II) motor carriers of property, motor private carriers, brokers, or freight forwarders, or their services or operations, that are described in subparagraphs (B) and (C) of section 14501(c)(2).<sup>2</sup>
 
 &emsp;&emsp;&emsp;&emsp;(III) the intrastate transportation of waste or recyclable materials by any carrier; or
 
-&emsp;(2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which <sup>1</sup> a carrier engaged exclusively in interstate operations is exempt.
+&emsp;(2) to require any interstate motor carrier or motor private carrier that also performs intrastate operations to pay any fee or tax which <sup>3</sup> a carrier engaged exclusively in intrastate operations is exempt.
 
 (d)
 
@@ -114,7 +146,7 @@ Composition.—The board shall consist of 15 directors appointed by the Secretar
 
 &emsp;&emsp;&emsp;(i)
 
-Federal motor carrier safety administration.—One director from each of the Federal Motor Carrier Safety Administration's 4 service areas (as those areas were defined by the Federal Motor Carrier Safety Administration on January 1, 2005)from among the chief administrative officers of the State agencies responsible for overseeing the administration of the UCR agreement.
+Federal motor carrier safety administration.—One director from each of the Federal Motor Carrier Safety Administration's 4 service areas (as those areas were defined by the Federal Motor Carrier Safety Administration on January 1, 2005) from among the chief administrative officers of the State agencies responsible for overseeing the administration of the UCR agreement.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -164,7 +196,7 @@ Rules and regulations governing the ucr agreement.—The board of directors shal
 
 &emsp;&emsp;&emsp;(iii) the payment of excess fees by a State to the designated depository and the distribution of fees by the depository to those States so entitled; and
 
-&emsp;&emsp;&emsp;(iv) the providing of notice by a motor carrier, motor private carrier, broker, freight forwarder, or leasing company to the board of the intent of such entity to change its base-State, and the procedures for a State to object to such a change under subparagraph (C);
+&emsp;&emsp;&emsp;(iv) the providing of notice by a motor carrier, motor private carrier, broker, freight forwarder, or leasing company tothe board of the intent of such entity to change its base-State, and the procedures for a State to object to such a change under subparagraph (C);
 
 &emsp;&emsp;(B) provide for the administration of the unified carrier registration agreement, including procedures for amending the agreement and obtaining clarification of any provision of the Agreement;
 
@@ -198,7 +230,7 @@ Quorum.—A majority of directors shall constitute a quorum.
 
 &emsp;&emsp;(C)
 
-Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting.
+Voting.—Approval of any matter before the board shall require the approval of a majority of all directors present at the meeting, except that a decision to approve the exclusion of carriers from the definition of the term “motor carrier” under subsection (a)(5) shall require an affirmative vote of 3/4 of all such directors..<sup>3</sup>
 
 &emsp;&emsp;(D)
 
@@ -302,9 +334,9 @@ Contents of Unified Carrier Registration Agreement.—The unified carrier regist
 
 Fees.—(A) Fees charged—
 
-&emsp;&emsp;(i) to a motor carrier, motor private carrier, or freight forwarder in connection with the filing of proof of financial responsibility under the UCR agreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
+&emsp;&emsp;(i) to a motor carrier, motor private carrier, or freight forwarder under the UCR agreement shall be based on the number of commercial motor vehicles owned or operated by the motor carrier, motor private carrier, or freight forwarder; and
 
-&emsp;&emsp;(ii) to a broker or leasing company in connection with such a filing shall be equal to the smallest fee charged to a motor carrier, motor private carrier, and freight forwarder or under this paragraph.
+&emsp;&emsp;(ii) to a broker or leasing company under the UCR agreement shall be equal to the smallest fee charged to a motor carrier, motor private carrier, and freight forwarder under this paragraph.
 
 &emsp;(B) The fees shall be determined by the Secretary based upon the recommendation of the board under subsection (d)(7).
 
@@ -372,7 +404,7 @@ Enforcement.—
 
 &emsp;(1)
 
-Civil actions.—Upon request by the Secretary, the Attorney General may bring a civilaction in the United States district court described in paragraph (2) to enforce an order issued to require compliance with this section and with the terms of the UCR agreement.
+Civil actions.—Upon request by the Secretary, the Attorney General may bring a civil action in the United States district court described in paragraph (2) to enforce an order issued to require compliance with this section and with the terms of the UCR agreement.
 
 &emsp;(2)
 
@@ -398,7 +430,7 @@ Enforcement by states.—Nothing in this section—
 
 Application to Intrastate Carriers.—Notwithstanding any other provision of this section, a State may elect to apply the provisions of the UCR agreement to motor carriers and motor private carriers and freight forwarders subject to its jurisdiction that operate solely in intrastate commerce within the borders of the State.
 
-(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764.)
+(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906.)
 
 #### References in Text
 
@@ -408,9 +440,29 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsecs. (e)(1) and (g)(1), (2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+2008—Subsec. (a). Pub. L. 110–432, §701(d)(1)(A), inserted “(except as provided in paragraph (5))” after “14506” in introductory provisions.
 
-<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
+Subsec. (a)(1)(A). Pub. L. 110–432, §701(d)(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the term ‘commercial motor vehicle’ has the meaning such term has under section 31101.”
+
+Subsec. (a)(1)(B). Pub. L. 110–244, §301(m), substituted “determining the size of a motor carrier or motor private carrier's fleet in calculating the fee to be paid by a motor carrier or motor private carrier pursuant to subsection (f)(1), the motor carrier or motor private carrier” for “a motor carrier required to make any filing or pay any fee to a State with respect to the motor carrier's authority or insurance related to operation within such State, the motor carrier”.
+
+Subsec. (a)(5). Pub. L. 110–432, §701(d)(1)(C), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘motor carrier’ includes all carriers that are otherwise exempt from this part under subchapter I of chapter 135 or exemption actions by the former Interstate Commerce Commission under this title.”
+
+Subsec. (c)(1)(B). Pub. L. 110–244, §301(p)(1), substituted “a” for “the a”.
+
+Subsec. (c)(2). Pub. L. 110–244, §301(n), substituted “exclusively in intrastate operations” for “exclusively in interstate operations”.
+
+Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period “, except that a decision to approve the exclusion of carriers from the definition of the term ‘motor carrier’ under subsection (a)(5) shall require an affirmative vote of 3/4 of all such directors.”
+
+Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out “in connection with the filing of proof of financial responsibility” before “under the UCR agreement”.
+
+Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(<i>o</i>), (p)(3), substituted “under the UCR agreement” for “in connection with such a filing” and struck out “or” before “under this paragraph.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

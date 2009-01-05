@@ -28,9 +28,11 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 &emsp;&emsp;(B) the spraying of such land with chemicals or the mowing of such land, except where such spraying or mowing is permitted by the plan or is necessary—
 
-&emsp;&emsp;&emsp;(i) to comply with Federal or State noxious weed control laws; or
+&emsp;&emsp;&emsp;(i) to comply with Federal or State noxious weed control laws;
 
-&emsp;&emsp;&emsp;(ii) to comply with a Federal or State emergency pest treatment program; and
+&emsp;&emsp;&emsp;(ii) to comply with a Federal or State emergency pest treatment program; or
+
+&emsp;&emsp;&emsp;(iii) to meet habitat needs of specific wildlife species; and
 
 &emsp;&emsp;(C) any activities to be carried out on such participating landowner's or successor's land that is immediately adjacent to, and functionally related to, the land that is subject to the easement if such activities will alter, degrade, or otherwise diminish the functional value of the eligible land; and
 
@@ -42,7 +44,7 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 #### (c) Restoration plans
 
-The development of a restoration plan, including any compatible use, under this section shallbe made through the local Natural Resources Conservation Service representative, in consultation with the State technical committee.
+The development of a restoration plan, including any compatible use, under this section shall be made through the local Natural Resources Conservation Service representative, in consultation with the State technical committee.
 
 #### (d) Compatible uses
 
@@ -58,15 +60,81 @@ A conservation easement granted under this section—
 
 #### (f) Compensation
 
-Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easement agreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.
+#### (1) Determination
+
+&emsp;Effective on the date of the enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall pay as compensation for a conservation easement acquired under this subpart the lowest of—
+
+&emsp;&emsp;(A) the fair market value of the land, as determined by the Secretary, using the Uniform Standards of Professional Appraisal Practices or an area-wide market analysis or survey;
+
+&emsp;&emsp;(B) the amount corresponding to a geographical cap, as determined by the Secretary in regulations; or
+
+&emsp;&emsp;(C) the offer made by the landowner.
+
+#### (2) Form of payment
+
+&emsp;Compensation for an easement shall be provided by the Secretary in the form of a cash payment, in an amount determined under paragraph (1) and specified in the easement agreement.
+
+#### (3) Payment schedule for easements
+
+#### (A) Easements valued at $500,000 or less
+
+&emsp;&emsp;For easements valued at $500,000 or less, the Secretary may provide easement payments in not more than 30 annual payments.
+
+#### (B) Easements in excess of $500,000
+
+&emsp;&emsp;For easements valued at more than $500,000, the Secretary may provide easement payments in at least 5, but not more than 30 annual payments, except that, if the Secretary determines it would further the purposes of the program, the Secretary may make a lump sum payment for such an easement.
+
+#### (4) Restoration agreement payment limitation
+
+&emsp;Payments made to a person or legal entity, directly or indirectly, pursuant to a restoration cost-share agreement under this subpart may not exceed, in the aggregate, $50,000 per year.
+
+#### (5) Enrollment procedure
+
+&emsp;Lands may be enrolled under this subpart through the submission of bids under a procedure established by the Secretary.
 
 #### (g) Violation
 
 On the violation of the terms or conditions of the easement or related agreement entered into under subsection (a) of this section, the easement shall remain in force and the Secretary may require the owner to refund all or part of any payments received by the owner under this subpart, together with interest thereon as determined appropriate by the Secretary.
 
-(Pub. L. 99–198, title XII, §1237A, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, §333(d), Apr. 4, 1996, 110 Stat. 996; Pub. L. 107–171, title II, §2203, May 13, 2002, 116 Stat. 252.)
+#### (h) Wetlands reserve enhancement program
+
+#### (1) Program authorized
+
+&emsp;The Secretary may enter into 1 or more agreements with a State (including a political subdivision or agency of a State), nongovernmental organization, or Indian tribe to carry out a special wetlands reserve enhancement program that the Secretary determines would advance the purposes of this subpart.
+
+#### (2) Reserved rights pilot program
+
+#### (A) Reservation of grazing rights
+
+&emsp;&emsp;As part of the wetlands reserve enhancement program, the Secretary shall carry out a pilot program for land in which a landowner may reserve grazing rights in the warranty easement deed restriction if the Secretary determines that the reservation and use of the grazing rights—
+
+&emsp;&emsp;&emsp;(i) is compatible with the land subject to the easement;
+
+&emsp;&emsp;&emsp;(ii) is consistent with the long-term wetland protection and enhancement goals for which the easement was established; and
+
+&emsp;&emsp;&emsp;(iii) complies with a conservation plan.
+
+#### (B) Duration
+
+&emsp;&emsp;The pilot program established under this paragraph shall terminate on September 30, 2012.
+
+(Pub. L. 99–198, title XII, §1237A, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, §333(d), Apr. 4, 1996, 110 Stat. 996; Pub. L. 107–171, title II, §2203, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§2204–2206, May 22, 2008, 122 Stat. 1038, 1039; Pub. L. 110–246, §4(a), title II, §§2204–2206, June 18, 2008, 122 Stat. 1664, 1766, 1767.)
+
+#### References in Text
+
+The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(B). Pub. L. 110–246, §2204, struck out “or” at end of cl. (i), substituted “; or” for “; and” at end of cl. (ii), and added cl. (iii).
+
+Subsec. (f). Pub. L. 110–246, §2205, amended subsec. (f) generally. Prior to amendment, text read as follows: “Compensation for easements acquired by the Secretary under this subpart shall be made in cash in such amount as is agreed to and specified in the easement agreement, but not to exceed the fair market value of the land less the fair market value of such land encumbered by the easement. Lands may be enrolled through the submission of bids under a procedure established by the Secretary. Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.”
+
+Subsec. (h). Pub. L. 110–246, §2206, added subsec. (h).
 
 2002—Subsec. (h). Pub. L. 107–171 struck out heading and text of subsec. (h). Text read as follows: “The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement.”
 
@@ -85,6 +153,10 @@ Report.—The State Conservationist and a representative of the Fish and Wildlif
 Subsec. (f). Pub. L. 104–127, §333(d)(3), substituted “Compensation may be provided in not less than 5, nor more than 30, annual payments of equal or unequal size, as agreed to by the owner and the Secretary.” for “Compensation may be provided in not less than 5 nor more than 20 annual payments of either equal or unequal size, except in the case of a permanent easement, a single lump-sum payment may be provided, as agreed on by the owner and the Secretary.”
 
 Subsec. (h). Pub. L. 104–127, §333(d)(4), added subsec. (h).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effect of 1996 Amendments on Existing Agreements
 

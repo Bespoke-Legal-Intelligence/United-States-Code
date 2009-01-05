@@ -54,7 +54,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(8) wherever applicable, a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur during the preceding year, including descriptions of—
 
-&emsp;&emsp;(A) acts of physical violence against, or harassment of <sup>2</sup> Jewish people, and acts of violence against, or vandalism of <sup>2</sup> Jewishcommunity institutions, including schools, synagogues, and cemeteries;
+&emsp;&emsp;(A) acts of physical violence against, or harassment of <sup>2</sup> Jewish people, and acts of violence against, or vandalism of <sup>2</sup> Jewish community institutions, including schools, synagogues, and cemeteries;
 
 &emsp;&emsp;(B) instances of propaganda in government and nongovernment media that attempt to justify or promote racial hatred or incite acts of violence against Jewish people;
 
@@ -166,7 +166,7 @@ Subsec. (c). Pub. L. 103–236 substituted “Assistant Secretary of State for D
 
 Subsecs. (f), (g). Pub. L. 103–149 struck out subsec. (f) which authorized assistance to political detainees and prisoners and support for black-led community organizations in South Africa and subsec. (g) which authorized assistance to families of victims of violence in South Africa.
 
-1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing to protect children from exploitation, abuse or conscription.
+1990—Subsec. (b). Pub. L. 101–513, §599D, added subsec. (b) prohibiting assistance to governments failing toprotect children from exploitation, abuse or conscription.
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(3), inserted “, part X of this subchapter,” after “available under this part” and “or under part X of this subchapter, except that funds made available under part X of this subchapter may only be used under this subsection with respect to countries in sub-Saharan Africa” before period at end of first sentence.
 
@@ -180,7 +180,7 @@ Subsec. (f)(2)(B). Pub. L. 99–631 substituted “subsection” for “paragrap
 
 Subsec. (g). Pub. L. 99–440, §202(b), added subsec. (g).
 
-1983—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 ofthe funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
+1983—Subsec. (e). Pub. L. 98–164, §1002(a), designated existing provisions as par. (1), substituted “$3,000,000 of the funds made available under this part and part IV of subchapter II of this chapter for each fiscal year” for “$1,500,000 of the funds made available under this part for each of the fiscal years 1982 and 1983”, and added par. (2).
 
 1981—Subsec. (e). Pub. L. 97–113 substituted “each of the fiscal years 1982 and 1983” for “the fiscal year 1981”.
 
@@ -252,7 +252,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 &emsp;“(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices.”
 
-\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L.107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Assistance for Promoting Religious Freedom
 

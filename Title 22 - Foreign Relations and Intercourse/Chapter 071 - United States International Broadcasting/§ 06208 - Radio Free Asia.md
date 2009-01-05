@@ -20,7 +20,7 @@ Any grant agreement or grants under this section shall be subject to the followi
 
 &emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
-&emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2009.
+&emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010.
 
 &emsp;(3) Any grant agreement shall require that any lease agreements entered into by Radio Free Asia shall be, to the maximum extent possible, assignable to the United States Government.
 
@@ -30,7 +30,7 @@ Any grant agreement or grants under this section shall be subject to the followi
 
 #### (d) Limitations on administrative and managerial costs
 
-It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimum and, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
+It is the sense of the Congress that administrative and managerial costs for operation of Radio Free Asia should be kept to a minimumand, to the maximum extent feasible, should not exceed the costs that would have been incurred if Radio Free Asia had been operated as a Federal entity rather than as a grantee.
 
 #### (e) Assessment of effectiveness of Radio Free Asia
 
@@ -58,9 +58,11 @@ The Board shall notify the appropriate congressional committees before entering 
 
 Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
-(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450.)
+(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450; Pub. L. 110–321, §4, Sept. 19, 2008, 122 Stat. 3535.)
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–321 substituted “2010” for “2009”.
 
 1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
 

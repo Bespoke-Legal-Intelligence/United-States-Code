@@ -60,9 +60,9 @@
 
 &emsp;(5) Pacific-Islander American.
 
-(e) The Committee shall cease to exist December 31, 2009.
+(e) The Committee shall cease to exist December 31, 2014.
 
-(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671.)
+(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671; Pub. L. 110–389, title VIII, §808, Oct. 10, 2008, 122 Stat. 4189.)
 
 #### Prior Provisions
 
@@ -71,6 +71,8 @@ Prior section 544, added Pub. L. 90–77, title I, §108(a), Aug. 31, 1967, 81 S
 Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, §4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–389 substituted “December 31, 2014” for “December 31, 2009”.
 
 2003—Subsec. (e). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
 

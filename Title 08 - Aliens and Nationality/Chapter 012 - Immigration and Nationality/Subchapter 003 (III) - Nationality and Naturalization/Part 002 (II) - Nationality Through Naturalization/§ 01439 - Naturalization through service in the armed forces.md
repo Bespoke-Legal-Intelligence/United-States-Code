@@ -32,9 +32,31 @@ Any such period or periods of service under honorable conditions, and good moral
 
 Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat.1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692.)
+#### (g) Processing and adjudication of applications
+
+Not later than 6 months after receiving an application for naturalization filed by a current member of the Armed Forces under subsection (a), section 1440(a) of this title, or section 1440–1 of this title, by the spouse of such member under section 1430(b) of this title, or by a surviving spouse or child under section 1430(d) of this title, United States Citizenship and Immigration Services shall—
+
+&emsp;(1) process and adjudicate the application, including completing all required backgroundchecks to the satisfaction of the Secretary of Homeland Security; or
+
+&emsp;(2) provide the applicant with—
+
+&emsp;&emsp;(A) an explanation for its inability to meet the processing and adjudication deadline under this subsection; and
+
+&emsp;&emsp;(B) an estimate of the date by which the application will be processed and adjudicated.
+
+#### (h) Annual report
+
+The Director of United States Citizenship and Immigration Services shall submit an annual report to the Subcommittee on Immigration, Border Security, and Refugees and the Subcommittee on Homeland Security of the Senate and the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law and the Subcommittee on Homeland Security of the House of Representatives that identifies every application filed under subsection (a), subsection (b) or (d) of section 1430 of this title, section 1440(a) of this title, or section 1440–1 of this title that is not processed and adjudicated within 1 year after it was filed due to delays in conducting required background checks.
+
+(June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692; Pub. L. 110–382, §3(a), Oct. 9, 2008, 122 Stat. 4088.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by section 4 of Pub. L. 110–382, see Termination Date of 2008 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsecs. (g), (h). Pub. L. 110–382, §§3(a), 4, temporarily added subsecs. (g) and (h). See Termination Date of 2008 Amendment note below.
 
 2003—Subsec. (a). Pub. L. 108–136, §1701(a), substituted “one year,” for “three years,”.
 
@@ -59,6 +81,10 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 1981—Subsec. (b)(2). Pub. L. 97–116 struck out “and section 1447(c) of this title” after “relates to deportability” and “and the witnesses” after “petition, the petitioner”.
 
 1968—Subsec. (b)(2). Pub. L. 90–633 inserted reference to section 1429 of this title as it relates to deportability.
+
+#### Termination Date of 2008 Amendment
+
+Amendment by Pub. L. 110–382 repealed 5 years after Oct. 9, 2008, see section 4 of Pub. L. 110–382, set out as a note under section 271 of Title 6, Domestic Security.
 
 #### Effective Date of 2003 Amendment
 

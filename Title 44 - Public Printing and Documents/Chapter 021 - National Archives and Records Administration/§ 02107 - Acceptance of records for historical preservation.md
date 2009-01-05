@@ -36,6 +36,18 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act \[amending provisions set out as a note below\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
 
+#### National Database for Records of Servitude, Emancipation, and Post–Civil War Reconstruction
+
+Pub. L. 110–404, §7, Oct. 13, 2008, 122 Stat. 4285, provided that:
+
+“(a)
+
+In General.—The Archivist of the United States may preserve relevant records and establish, as part of the National Archives and Records Administration, an electronically searchable national database consisting of historic records of servitude, emancipation, and post-Civil War reconstruction, including the Refugees, Freedman, and Abandoned Land Records, Southern Claims Commission Records, Records of the Freedmen's Bank, Slave Impressments Records, Slave Payroll Records, Slave Manifest, and others, contained within the agencies and departments of the Federal Government to assist African Americans and others in conducting genealogical and historical research.
+
+“(b)
+
+Maintenance.—Any database established under this section shall be maintained by the National Archives and Records Administration or an entity within the National Archives and Records Administration designated by the Archivist of the United States.”
+
 #### President John F. Kennedy Assassination Records Collection
 
 Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735, provided that:
@@ -190,7 +202,7 @@ In General.—(1) As soon as practicable after the date of enactment of this Act
 
 “(3) No assassination record made available or disclosed to the public prior to the date of enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified.
 
-“(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shall be withheld, redacted, postponed for public disclosure, or reclassified.
+“(4) No assassination record created by a person or entity outside government (excluding names or identities consistent with the requirements of section 6) shallbe withheld, redacted, postponed for public disclosure, or reclassified.
 
 “(b)
 
@@ -212,7 +224,7 @@ Review.—(1) Not later than 300 days after the date of enactment of this Act \[
 
 &emsp;“(B) determine which of its assassination records have been officially disclosed or publicly available in a complete and unredacted form;
 
-&emsp;“(C)(i) determine which of its assassination records, or particular information contained in such a record,was created by a third agency or by another Government office; and
+&emsp;“(C)(i) determine which of its assassination records, or particular information contained in such a record, was created by a third agency or by another Government office; and
 
 &emsp;“(ii) transmit to a third agency or other Government office those records, or particular information contained in those records, or complete and accurate copies thereof;
 
@@ -470,7 +482,7 @@ Staff.—(1) The Review Board, without regard to the civil service laws, may app
 
 “(2)(A) Except as provided in subparagraph (B), a person appointed to the staff of the Review Board shall be a private citizen of integrity and impartiality who is not a present employee of any branch of the Government and who has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
-“(B) An individual who is an employee of the Government may be appointed to the staff of the Review Board if in that position the individual will perform only administrative functions.
+“(B) An individual who is an employee of the Government may be appointed to the staff of the ReviewBoard if in that position the individual will perform only administrative functions.
 
 “(3)(A) A candidate for staff shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 

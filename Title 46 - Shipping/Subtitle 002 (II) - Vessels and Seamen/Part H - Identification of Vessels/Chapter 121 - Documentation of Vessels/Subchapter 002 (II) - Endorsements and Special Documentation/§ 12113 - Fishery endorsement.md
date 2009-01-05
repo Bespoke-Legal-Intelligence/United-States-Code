@@ -46,7 +46,7 @@ Determining 75 percent interest.—In determining whether at least 75 percent of
 
 &emsp;&emsp;&emsp;(iii) direct the transfer, operation, or manning of a vessel with a fishery endorsement; but
 
-&emsp;&emsp;(B) do not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, except that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking, or berthing changes.
+&emsp;&emsp;(B) do not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, except that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such avessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking, or berthing changes.
 
 &emsp;(3)
 
@@ -110,7 +110,7 @@ Feet.—The Secretary shall establish reasonable and necessary requirements to d
 
 (g)
 
-Vessels Purchased Through Fishing Capacity Reduction Program.—A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation Management Act <sup>1</sup> (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+Vessels Purchased Through Fishing Capacity Reduction Program.—A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
 (h)
 
@@ -120,7 +120,7 @@ Revocation of Endorsements.—The Secretary shall revoke the fishery endorsement
 
 Regulations.—Regulations to implement subsections (c) and (d) and sections 12151(c) and 31322(b) of this title shall prohibit impermissible transfers of ownership or control, specify any transactions that require prior approval of an implementing agency, identify transactions that do not require prior agency approval, and to the extent practicable, minimize disruptions to the commercial fishing industry, to the traditional financing arrangements of that industry, and to the opportunity to form fishery cooperatives.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1495; Pub. L. 110–181, div. C, title XXXV, §3529(a)(2), Jan. 28, 2008, 122 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -200,11 +200,15 @@ In subsection (i), the first two sentences of section 203(b) of Public Law 105�
 
 The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec. (d)(2)(B), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Subsec. (d)(2)(B) of this section was derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to “such Act” which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-The Magnuson-Stevens Fishery Conservation Management Act, referred to in subsec. (g), probably means the Magnuson-Stevens Fishery Conservation and Management Act, Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (g), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Prior Provisions
 
-A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of formerTitle 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
+A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
+
+#### Amendments
+
+2008—Subsec. (g). Pub. L. 110–181 inserted “and” after “Conservation”.
 
 #### Inapplicability of Subsection (d) to Certain Menhaden Fisheries
 

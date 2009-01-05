@@ -12,13 +12,17 @@ In this subchapter:
 
 #### (3) Food and agricultural sciences
 
-&emsp;The term “food and agricultural sciences” has the meaning given that term in section 3103(8) of this title.
+&emsp;The term “food and agricultural sciences” has the meaning given that term in section 3103 of this title.
 
 #### (4) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 88–74, §2, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§7214, 7308(b), May 13, 2002, 116 Stat. 448, 455.)
+(Pub. L. 88–74, §2, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§7214, 7308(b), May 13, 2002, 116 Stat. 448, 455; Pub. L. 110–234, title VII, §7101(b)(1), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, §4(a), title VII, §7101(b)(1), June 18, 2008, 122 Stat. 1664, 1974.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -27,6 +31,8 @@ A prior section 390, Pub. L. 88–74, §1, July 22, 1963, 77 Stat. 90; Pub. L. 9
 A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+
+2008—Par. (3). Pub. L. 110–246, §7101(b)(1), substituted “3103” for “3103(8)”.
 
 2002—Par. (3). Pub. L. 107–171, §7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
 
@@ -45,6 +51,10 @@ A prior section 2 of Pub. L. 88–74 was classified to section 390a of this titl
 &emsp;“(G) germ plasm collection and preservation.”
 
 Par. (5). Pub. L. 107–171, §7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

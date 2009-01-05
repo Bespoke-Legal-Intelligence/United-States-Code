@@ -2,7 +2,7 @@
 
 (a)
 
-Liability of Corporation.—The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
+Liability of Corporation.—The corporation is liable for the acts of its officers andagents acting within the scope of their authority.
 
 (b)
 

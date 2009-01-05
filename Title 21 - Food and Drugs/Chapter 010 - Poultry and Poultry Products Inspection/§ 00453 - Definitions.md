@@ -52,7 +52,7 @@ For purposes of this chapter—
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bearsthe name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 457 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 457 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
@@ -72,7 +72,7 @@ For purposes of this chapter—
 
 (<i>l</i>) The term “official mark” means the official inspection legend or any other symbol prescribed by regulation of the Secretary to identify the status of any article or poultry under this chapter.
 
-(m) The term “official inspection legend” means any symbol prescribed by regulations of the Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
+(m) The term “official inspection legend” means any symbol prescribed by regulations ofthe Secretary showing that an article was inspected for wholesomeness in accordance with this chapter.
 
 (n) The term “official certificate” means any certificate prescribed by regulations of the Secretary for issuance by an inspector or other person performing official functions under this chapter.
 

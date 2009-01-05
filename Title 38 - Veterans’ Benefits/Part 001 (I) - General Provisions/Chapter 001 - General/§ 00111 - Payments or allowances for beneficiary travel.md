@@ -24,13 +24,11 @@
 
 (c)(1) Except as otherwise provided in this subsection, the Secretary, in making a payment under this section to or for a person described in subparagraph (A), (B), (C), or (D) of subsection (b)(1) of this section for travel for examination, treatment, or care, shall deduct from the amount otherwise payable an amount equal to $3 for each one-way trip.
 
-(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not, except as provided in paragraph (5) of this subsection, exceed $18.
+(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
 
 (3) No deduction shall be made pursuant to paragraph (1) of this subsection in the case of a person whose travel to or from a Department facility is performed by a special mode of travel for which payment under this section is authorized under subsection (b)(3) of this section.
 
 (4) The Secretary may waive the deduction requirement of paragraph (1) of this subsection in the case of the travel of any veteran for whom the imposition of the deduction would cause severe financial hardship. The Secretary shall prescribe in regulations the conditions under which a finding of severe financial hardship is warranted for purposes of this paragraph.
-
-(5) Whenever the Secretary increases or decreases the rates of allowances or reimbursement to be paid under this section, the Secretary shall, effective on the date on which such increase or decrease takes effect, adjust proportionately the dollar amounts specified in paragraphs (1) and (2) of this subsection as such amounts may have been increased or decreased pursuant to this paragraph before such date.
 
 (d) Payment of the following expenses or allowances in connection with vocational rehabilitation, counseling, or upon termination of examination, treatment, or care, may be made before the completion of travel:
 
@@ -44,7 +42,7 @@
 
 (f) The Secretary may provide for the purchase of printed reduced-fare requests for use by veterans and their authorized attendants when traveling at their own expense to or from any Department facility.
 
-(g)(1) In carrying out the purposes of this section, the Secretary, in consultation with the Administrator of General Services, the Secretary of Transportation, the Comptroller General of the United States, and representatives of organizations of veterans, shall conduct periodic investigations of the actual cost of travel (including lodging and subsistence) to beneficiaries while traveling to or from a Department facility or other place pursuant to the provisions of this section, and the estimated cost of alternative modes of travel, including public transportation and the operation of privately owned vehicles. The Secretary shall conduct such investigations immediately following any alteration in the rates described in paragraph (3)(C) of this subsection, and, in any event, immediately following the enactment of this subsection and not less often than annually thereafter, and based thereon, shall determine rates of allowances or reimbursement to be paid under this section.
+(g)(1) Subject to paragraph (3), in determining the amount of allowances or reimbursement to be paid under this section, the Secretary shall use the mileage reimbursement rate for the use of privately owned vehicles by Government employees on official business (when a Government vehicle is available), as prescribed by the Administrator of General Services under section 5707(b) of title 5.
 
 (2) In no event shall payment be provided under this section—
 
@@ -54,29 +52,23 @@
 
 &emsp;(C) in excess of the actual expense incurred by such person as certified in writing by such person.
 
-(3) In conducting investigations and determining rates under this section, the Secretary shall review and analyze, among other factors, the following factors:
-
-&emsp;(A)(i) Depreciation of original vehicle costs;
-
-&emsp;(ii) gasoline and oil costs;
-
-&emsp;(iii) maintenance, accessories, parts, and tire costs;
-
-&emsp;(iv) insurance costs; and
-
-&emsp;(v) State and Federal taxes.
-
-&emsp;(B) The availability of and time required for public transportation.
-
-&emsp;(C) The per diem rates, mileage allowances, and expenses of travel authorized under sections 5702 and 5704 of title 5 for employees of the United States.
-
-(4) Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section.
+(3) Subject to the availability of appropriations, the Secretary may modify the amount of allowances or reimbursement to be paid under this section using a mileage reimbursement rate in excess of that prescribed under paragraph (1).
 
 (h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1113; Pub. L. 86–590, July 5, 1960, 74 Stat. 329; Pub. L. 89–358, §4(g), Mar. 3, 1966, 80 Stat. 24; Pub. L. 89–455, June 18, 1966, 80 Stat. 208; Pub. L. 94–581, title I, §101, Oct. 21, 1976, 90 Stat. 2842; Pub. L. 96–151, title II, §201(a), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 97–295, §4(5), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–322, title I, §108(a), (b)(1), (c)–(e)(1), May 20, 1988, 102 Stat. 496–498; Pub. L. 102–83, §§4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(e)(1), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 110–387, title IV, §401(a)(1), (b), Oct. 10, 2008, 122 Stat. 4122.)
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–387, §401(a)(1)(B), struck out “, except as provided in paragraph (5) of this subsection,” after “shall not”.
+
+Subsec. (c)(5). Pub. L. 110–387, §401(a)(1)(A), struck out par. (5) which read as follows: “Whenever the Secretary increases or decreases the rates of allowances or reimbursement to be paid under this section, the Secretary shall, effective on the date on which such increase or decrease takes effect, adjust proportionately the dollar amounts specified in paragraphs (1) and (2) of this subsection as such amounts may have been increased or decreased pursuant to this paragraph before such date.”
+
+Subsec. (g)(1). Pub. L. 110–387, §401(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In carrying out the purposes of this section, the Secretary, in consultation with the Administrator of General Services, the Secretary of Transportation, the Comptroller General of the United States, and representatives of organizations of veterans, shall conduct periodic investigations of the actual cost of travel (including lodging and subsistence) to beneficiaries while traveling to or from a Department facility or other place pursuant to the provisions of this section, and the estimated cost of alternative modes of travel, including public transportation and the operation of privately owned vehicles. The Secretary shall conduct such investigations immediately following any alteration in the rates described in paragraph (3)(C) of this subsection, and, in any event, immediately following the enactment of this subsection and not less often than annually thereafter, and based thereon, shall determine rates of allowances or reimbursement to be paid under this section.”
+
+Subsec. (g)(3). Pub. L. 110–387, §401(b)(2), (3), added par. (3) and struck out former par. (3) which related to the Secretary's review and analysis of factors in conducting investigations and determining rates of mileage allowance or reimbursement.
+
+Subsec. (g)(4). Pub. L. 110–387, §401(b)(2), struck out par. (4) which read as follows: “Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section.”
 
 1994—Subsec. (b)(3)(B). Pub. L. 103–446 substituted “a Department facility” for “the Department facility”.
 
@@ -144,6 +136,10 @@ Subsec. (b). Pub. L. 89–455 authorized the prepayment of actual local travel e
 
 1960—Subsec. (a). Pub. L. 86–590 allowed reimbursement for actual cost of ferry fares, and bridge, road, and tunnel tolls.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–387, title IV, §401(d), Oct. 10, 2008, 122 Stat. 4123, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to travel expenses incurred after the expiration of the 90-day period that begins on the date of the enactment of this Act \[Oct. 10, 2008\].”
+
 #### Effective Date of 1988 Amendment
 
 Section 108(g) of Pub. L. 100–322 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to travel performed after June 30, 1988.”
@@ -159,6 +155,10 @@ Section 211 of Pub. L. 94–581 provided that: “Except as otherwise provided i
 #### Transition Provision for 1988 Amendment
 
 Section 108(f) of Pub. L. 100–322 provided that: “In determining for the purposes of subsection (b)(1) of section 111 of title 38, United States Code, as amended by subsection (a), whether during fiscal year 1988 the Administrator has exercised the authority under that section to make payments there shall be disregarded any exercise of authority under that section before the date of the enactment of this Act \[May 20, 1988\].”
+
+#### Reinstatement of Amount of Deduction Specified by Statute
+
+Pub. L. 110–387, title IV, §401(a)(2), Oct. 10, 2008, 122 Stat. 4122, provided that: “Notwithstanding any adjustment made by the Secretary of Veterans Affairs under paragraph (5) of section 111(c) of title 38, United States Code, as such paragraph was in effect before the date of the enactment of this Act \[Oct. 10, 2008\], the amount deducted under paragraph (1) of such section 111(c) on or after such date shall be the amount specified in such paragraph.”
 
 #### Interim Guidelines for Beneficiary Travel Between January 1, 1984, and the Promulgation of Regulations by Administrator of Veterans’ Affairs
 

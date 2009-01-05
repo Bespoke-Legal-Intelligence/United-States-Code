@@ -46,7 +46,7 @@ In general.—Contractors are encouraged to use commercial facilities and lodges
 
 &emsp;&emsp;(B)
 
-Secretary of labor.—Such per diem rate shall be adopted by the Secretary ofLabor for all applicable remote Federal highway projects in Alaska.
+Secretary of labor.—Such per diem rate shall be adopted by the Secretary of Labor for all applicable remote Federal highway projects in Alaska.
 
 &emsp;&emsp;(C)
 
@@ -216,7 +216,7 @@ In general.—The Secretary \[of Transportation\] shall conduct a highways for l
 
 &emsp;“(2)
 
-Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection is made available to the transportation community and the public.
+Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection ismade available to the transportation community and the public.
 
 “(e)
 

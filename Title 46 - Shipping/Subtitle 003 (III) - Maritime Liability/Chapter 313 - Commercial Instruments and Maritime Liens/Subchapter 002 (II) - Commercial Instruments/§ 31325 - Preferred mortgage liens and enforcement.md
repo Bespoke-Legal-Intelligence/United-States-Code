@@ -44,7 +44,7 @@
 
 (3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980; Pub. L. 105–383, title IV, §401(c)(5)–(7), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 107–295, title II, §205(b), Nov. 25, 2002, 116 Stat. 2096; Pub. L. 109–304, §15(30), Oct. 6, 2006, 120 Stat. 1704.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4745; Pub. L. 101–225, title III, §303(4), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1124(a), (b), Oct. 19, 1996, 110 Stat. 3980; Pub. L. 105–383, title IV, §401(c)(5)–(7), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 107–295, title II, §205(b), Nov. 25, 2002, 116 Stat. 2096; Pub. L. 109–304, §15(30), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(B), Jan. 28, 2008, 122 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,9 @@ Subsection (c) of this section clarifies that the district courts have original 
 
 #### Amendments
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–304, which directed substitution of “section 56101 or 56102 of this title” for“section 9 or 37 of the Shipping Act, 1936 (46 App. U.S.C. 808, 835)”, was executed by making the substitution in text which included “Shipping Act, 1916” rather than “Shipping Act, 1936”, to reflect the probable intent of Congress.
+2008—Subsec. (b)(3)(B). Pub. L. 110–181 amended Pub. L. 109–304, §15(30). See 2006 Amendment note below.
+
+2006—Subsec. (b)(3)(B). Pub. L. 109–304, §15(30), as amended by Pub. L. 110–181, substituted “section 56101 or 56102 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
 
 2002—Subsec. (d)(1)(B). Pub. L. 107–295, §205(b)(1), substituted “an unexpired notice of a claim” for “a notice of a claim”.
 
@@ -125,6 +127,10 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 &emsp;“(3) a civil action against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the mortgaged vessel or any deficiency in full payment of that indebtedness.
 
 “(c) The district courts have original jurisdiction of a civil action brought under subsection (b) of this section. However, for documented vessels or vessels to be documented under chapter 121 of this title, this jurisdiction is exclusive of the courts of the States for a civil action under subsection (b)(1) of this section.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section 3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
 
 #### Effective Date of 2002 Amendment
 

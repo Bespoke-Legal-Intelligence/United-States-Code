@@ -10,7 +10,7 @@ After filing the deposition, the officer shall promptly notify the parties of it
 
 #### (c) Copy of deposition to parties or deponents
 
-Upon payment of reasonable charges therefor, not to exceed the charges allowed in the districtcourt of the United States for the district wherein the place of examination is located, the officer shall furnish a copy of deposition to any party or the deponent.
+Upon payment of reasonable charges therefor, not to exceed the charges allowed in the district court of the United States for the district wherein the place of examination is located, the officer shall furnish a copy of deposition to any party or the deponent.
 
 (Pub. L. 91–138, §12, Dec. 5, 1969, 83 Stat. 289.)
 

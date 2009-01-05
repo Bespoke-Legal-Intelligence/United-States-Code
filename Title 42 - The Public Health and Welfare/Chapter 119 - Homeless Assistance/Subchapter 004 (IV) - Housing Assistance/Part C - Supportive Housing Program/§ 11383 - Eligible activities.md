@@ -6,7 +6,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (1) Acquisition and rehabilitation
 
-&emsp;A grant, in an amount not to exceed $200,000, for the acquisition, rehabilitation, or acquisition and rehabilitation, of an existing structure (including a small commercial property or office space) to provide supportive housingother than emergency shelter or to provide supportive services; except that the Secretary may increase the dollar limitation under this sentence to not more than $400,000 for areas that the Secretary finds have high acquisition and rehabilitation costs. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for a grant under this paragraph if the structure was not used as supportive housing, or to provide supportive services, before the receipt of assistance.
+&emsp;A grant, in an amount not to exceed $200,000, for the acquisition, rehabilitation, or acquisition and rehabilitation, of an existing structure (including a small commercial property or office space) to provide supportive housing other than emergency shelter or to provide supportive services; except that the Secretary may increase the dollar limitation under this sentence to not more than $400,000 for areas that the Secretary finds have high acquisition and rehabilitation costs. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for a grant under this paragraph if the structure was not used as supportive housing, or to provide supportive services, before the receipt of assistance.
 
 #### (2) New construction
 
@@ -76,7 +76,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (1) Repayment
 
-&emsp;The Secretary shall require recipients to repay 100 percent of any assistance received under subsection (a)(1) or (2) of this section if the project ceases to be used as supportivehousing within 10 years after the project is placed in service. If such project is used as supportive housing for more than 10 years, the Secretary shall reduce the percentage of the amount required to be repaid by 10 percentage points for each year in excess of 10 that the project is used as supportive housing.
+&emsp;The Secretary shall require recipients to repay 100 percent of any assistance received under subsection (a)(1) or (2) of this section if the project ceases to be used as supportive housing within 10 years after the project is placed in service. If such project is used as supportive housing for more than 10 years, the Secretary shall reduce the percentage of the amount required to be repaid by 10 percentage points for each year in excess of 10 that the project is used as supportive housing.
 
 #### (2) Prevention of undue benefits
 

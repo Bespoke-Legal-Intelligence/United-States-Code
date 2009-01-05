@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
 
-&emsp;&emsp;(E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2010.
+&emsp;&emsp;(E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2013.
 
 #### (2) Coordination of exclusions
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1)shall be applied to reduce the basis of the depreciable real property of the taxpayer.
+&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1) shall be applied to reduce the basis of the depreciable real property of the taxpayer.
 
 #### (B) Cross reference
 
@@ -206,7 +206,7 @@
 
 #### (8) Reductions of tax attributes in title 11 cases of individuals to be made by estate
 
-&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
+&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section 1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
 
 #### (9) Time for making election, etc.
 
@@ -296,7 +296,7 @@ For purposes of this title—
 
 &emsp;&emsp;&nbsp;shall be treated as an amount allowed as a deduction for depreciation, and
 
-&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shallbe treated as an exchange to which section 1245(b)(3) applies.
+&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shall be treated as an exchange to which section 1245(b)(3) applies.
 
 > &emsp;&emsp;The amount determined under clause (ii) shall be reduced by the amount (if any) included in the creditor's gross income on the exchange.
 
@@ -306,7 +306,7 @@ For purposes of this title—
 
 #### (C) Stock of parent corporation
 
-&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaning of section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
+&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaningof section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
 
 #### (D) Treatment of successor corporation
 
@@ -442,13 +442,15 @@ For purposes of this title—
 
 &emsp;For purposes of this subsection, the term “principal residence” has the same meaning as when used in section 121.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat.2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648; Pub. L. 110–142, §2(a)–(c), Dec. 20, 2007, 121 Stat. 1803, 1804; Pub. L. 110–343, div. A, title III, §303(a), Oct. 3, 2008, 122 Stat. 3807.)
 
 #### References in Text
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254<i>l</i>–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(E). Pub. L. 110–343 substituted “January 1, 2013” for “January 1, 2010”.
 
 2007—Subsec. (a)(1)(E). Pub. L. 110–142, §2(a), added subpar. (E).
 
@@ -522,7 +524,7 @@ Subsec. (g)(3)(B). Pub. L. 103–66, §13226(b)(3)(D), substituted “subparagra
 
 1990—Subsec. (e)(8). Pub. L. 101–508, §11325(b)(2), inserted provision at end that any stock which is a disqualified stock, as so defined, not be treated as stock for purposes of this paragraph.
 
-Subsec. (e)(10)(B). Pub. L. 101–508, §11325(b)(1), substituted heading for one which read: “Exception for title 11 cases and insolvent debtors” and amended text generally. Prior to amendment, text read as follows:“Subparagraph (A) shall not apply in the case of a debtor in a title 11 case or to the extent the debtor is insolvent.”
+Subsec. (e)(10)(B). Pub. L. 101–508, §11325(b)(1), substituted heading for one which read: “Exception for title 11 cases and insolvent debtors” and amended text generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply in the case of a debtor in a title 11 case or to the extent the debtor is insolvent.”
 
 Subsec. (e)(11). Pub. L. 101–508, §11325(a)(1), added par. (11).
 
@@ -534,7 +536,7 @@ Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Pri
 
 Subsec. (b). Pub. L. 100–647, §1004(a)(3), struck out “in title 11 case or insolvency” after “Reduction of tax attributes” in heading and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)” in text of par. (1).
 
-Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for “subsections (a) and (b)” as the probable intent of Congress.
+Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for“subsections (a) and (b)” as the probable intent of Congress.
 
 Subsec. (d)(6). Pub. L. 100–647, §1004(a)(6)(A), (C), substituted “Subsections (a), (b), and (g)” for “Subsections (a) and (b)” in heading and “subsections (a), (b), and (g)” for “subsections (a) and (b)” in text.
 
@@ -606,7 +608,7 @@ Subsec. (d)(7) to (10). Pub. L. 98–369, §721(b)(2), added par. (7) and redesi
 
 Subsec. (e)(10). Pub. L. 98–369, §59(a), added par. (10).
 
-Subsec. (e)(10)(C). Pub. L. 98–369, §59(b)(1), which added subpar. (C), effective as if included in the amendments made by section 806(e) and (f) of Pub. L. 94–455, was repealed by Pub. L. 99–514, §621(e), (f)(2), eff. Jan. 1,1986, with certain exceptions, see Effective Date of 1986 Amendment note below.
+Subsec. (e)(10)(C). Pub. L. 98–369, §59(b)(1), which added subpar. (C), effective as if included in the amendments made by section 806(e) and (f) of Pub. L. 94–455, was repealed by Pub. L. 99–514, §621(e), (f)(2), eff. Jan. 1, 1986, with certain exceptions, see Effective Date of 1986 Amendment note below.
 
 Subsec. (f). Pub. L. 98–369, §1076(a), added subsec. (f).
 
@@ -625,6 +627,10 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 1960—Subsec. (b). Pub. L. 86–496 provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
 1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. A, title III, §303(b), Oct. 3, 2008, 122 Stat. 3807, provided that: “The amendment made by this section \[amending this section\] shall apply to discharges of indebtedness occurring on or after January 1, 2010.”
 
 #### Effective Date of 2007 Amendment
 
@@ -936,5 +942,5 @@ Effective Date.—This section shall apply to discharges made on or after Septem
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

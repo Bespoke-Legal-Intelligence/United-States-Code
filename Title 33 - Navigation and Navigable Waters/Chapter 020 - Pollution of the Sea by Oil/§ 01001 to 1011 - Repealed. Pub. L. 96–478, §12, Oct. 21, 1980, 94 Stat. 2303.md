@@ -36,7 +36,7 @@ Pub. L. 93–119, §1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 9
 
 #### Savings Provision
 
-Section 12(a) of Pub. L. 96–478 provided in part that any criminal or civil penalty proceeding under thischapter for a violation occurring prior to Oct. 2, 1983, may be initiated or continued to conclusion as though this chapter had not been repealed.
+Section 12(a) of Pub. L. 96–478 provided in part that any criminal or civil penalty proceeding under this chapter for a violation occurring prior to Oct. 2, 1983, may be initiated or continued to conclusion as though this chapter had not been repealed.
 
 Any rights or liabilities existing on Oct. 2, 1983, not to be affected and any regulations or procedures promulgated or effected pursuant to this chapter to remain in effect until modified or superseded, see section 14(c) of Pub. L. 96–478, set out as a note under section 1901 of this title.
 

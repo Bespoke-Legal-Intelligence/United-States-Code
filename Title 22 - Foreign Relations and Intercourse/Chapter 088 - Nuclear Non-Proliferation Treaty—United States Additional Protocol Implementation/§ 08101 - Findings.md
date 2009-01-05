@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(7) Implementation of the Additional Protocol in the United States in a manner consistent with United States obligations under the Nuclear Non-Proliferation Treaty may encourage other parties to the Nuclear Non-Proliferation Treaty, especially non-nuclear-weapon State Parties, to conclude Additional Protocols and thereby strengthen the Nuclear Non-Proliferation Treaty safeguards system and help reduce the threat of nuclear proliferation, which is of direct and substantial benefit to the United States.
 
-&emsp;(8) Implementation of the Additional Protocol by the United States is not required and is completely voluntary given its status as a nuclear-weapon State Party, but the United States has acceded to the Additional Protocol to demonstrate its commitment to the nuclear nonproliferation regime and to make United States civil nuclear activities available to the same IAEA inspections as are applied in the case of non-nuclear-weapon State Parties.
+&emsp;(8) Implementation of the Additional Protocol by the United States is not required and iscompletely voluntary given its status as a nuclear-weapon State Party, but the United States has acceded to the Additional Protocol to demonstrate its commitment to the nuclear nonproliferation regime and to make United States civil nuclear activities available to the same IAEA inspections as are applied in the case of non-nuclear-weapon State Parties.
 
 &emsp;(9) In accordance with the national security exclusion contained in Article 1.b of its Additional Protocol, the United States will not allow any inspection activities, nor make any declaration of any information with respect to, locations, information, and activities of direct national security significance to the United States.
 
@@ -27,4 +27,22 @@ Congress makes the following findings:
 #### Short Title
 
 Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: “This title \[enacting this chapter\] may be cited as the ‘United States Additional Protocol Implementation Act’.”
+
+#### Ex. Ord. No. 13458. Implementation of the Protocol Additional to the Agreement Between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America
+
+Ex. Ord. No. 13458, Feb. 4, 2008, 73 F.R. 7181, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the United States Additional Protocol Implementation Act (the “Act”) (Public Law 109–401\[, title II\]) and section 301 of title 3, United States Code, and in order to facilitate implementation of the Act and the Protocol Additional to the Agreement between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America (the “Additional Protocol”), it is hereby ordered as follows:
+
+Section 1. The Secretaries of State, Defense, Commerce, and Energy, the Attorney General, the Nuclear Regulatory Commission, and heads of such other agencies as appropriate, each shall issue, amend, or revise, and enforce such regulations, orders, directives, instructions, or procedures as are necessary to implement the Act and United States obligations under the Additional Protocol.
+
+Sec. 2. The Secretary of Commerce, with the assistance, as necessary, of the Attorney General, is authorized to obtain and to execute warrants pursuant to section 223 of the Act for the purpose of gaining complementary access to locations subject to regulations issued by the Department of Commerce pursuant to section 1 of this order.
+
+Sec. 3. The Secretaries of State, Defense, Commerce, and Energy, the Attorney General, the Nuclear Regulatory Commission, and heads of such other departments and agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the Act and United States obligations under the Additional Protocol. The Secretary of State shall perform the function of providing notifications or information to the Congress when required by the Act.
+
+Sec. 4. This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+Sec. 5. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

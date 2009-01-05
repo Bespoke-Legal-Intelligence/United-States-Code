@@ -1,5 +1,5 @@
 
-48 U.S.C.<br>United States Code, 2007 Edition<br>Title 48 - TERRITORIES AND INSULAR POSSESSIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+48 U.S.C.<br>United States Code, 2008 Edition<br>Title 48 - TERRITORIES AND INSULAR POSSESSIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 48—TERRITORIES AND INSULAR POSSESSIONS
 

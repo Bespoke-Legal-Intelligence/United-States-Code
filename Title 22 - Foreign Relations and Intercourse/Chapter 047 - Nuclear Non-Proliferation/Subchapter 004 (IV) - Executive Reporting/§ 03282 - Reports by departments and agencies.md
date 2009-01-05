@@ -20,7 +20,7 @@ The reporting requirements of this subchapter are in addition to and not in lieu
 
 #### (d) Classified portions of reports
 
-Any classified portions of the reports required by this chapter shall be submitted to the SenateForeign Relations Committee and the House Foreign Affairs Committee.
+Any classified portions of the reports required by this chapter shall be submitted to the Senate Foreign Relations Committee and the House Foreign Affairs Committee.
 
 #### (e) Omitted
 

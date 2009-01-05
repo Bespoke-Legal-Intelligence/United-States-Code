@@ -6,7 +6,7 @@ To be eligible to receive assistance under section 12571 of this title or approv
 
 #### (b) Types of permissible application information
 
-In order to have adequate information upon which to consider an application under section 12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
+In order to have adequate information upon which to consider an application under section12585 of this title, the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
@@ -22,7 +22,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(7) A description of the manner in which the national service programs referred to in paragraphs (1) and (2) will involve participants—
 
-&emsp;&emsp;(A) in projects that build an ethic of civic responsibility and produce a positive change in the lives of participants through trainingand participation in meaningful service experiences and opportunities for reflection on such experiences; and
+&emsp;&emsp;(A) in projects that build an ethic of civic responsibility and produce a positive change in the lives of participants through training and participation in meaningful service experiences and opportunities for reflection on such experiences; and
 
 &emsp;&emsp;(B) in leadership positions in implementing and evaluating the program.
 
@@ -76,7 +76,7 @@ An application submitted under subsection (a) of this section shall contain the 
 
 #### (2) Competitive selection
 
-&emsp;The application of a State shall contain an assurance that all assistance provided under section 12571(a) of this title to the State will be used to support national service programs that were selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State taking into consideration such factors as the location of the programs applying to the State, population density, and economic distress.
+&emsp;The application of a State shall contain an assurance that all assistance provided undersection 12571(a) of this title to the State will be used to support national service programs that were selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State taking into consideration such factors as the location of the programs applying to the State, population density, and economic distress.
 
 #### (3) Assistance to non-State entities
 

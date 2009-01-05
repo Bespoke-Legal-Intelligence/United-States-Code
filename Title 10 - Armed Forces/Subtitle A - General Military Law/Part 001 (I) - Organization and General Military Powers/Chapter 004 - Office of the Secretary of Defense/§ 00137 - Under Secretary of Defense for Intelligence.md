@@ -4,7 +4,7 @@
 
 (b) Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Intelligence shall perform such duties and exercise such powers as the Secretary of Defense may prescribe in the area of intelligence.
 
-(c) The Under Secretary of Defense for Intelligence takes precedence in the Department ofDefense after the Under Secretary of Defense for Personnel and Readiness.
+(c) The Under Secretary of Defense for Intelligence takes precedence in the Department of Defense after the Under Secretary of Defense for Personnel and Readiness.
 
 (Added Pub. L. 107–314, div. A, title IX, §901(a)(2), Dec. 2, 2002, 116 Stat. 2619.)
 

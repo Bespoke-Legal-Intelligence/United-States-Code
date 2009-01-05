@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The State educational agency shall, in accordance with section 11432(e) of this title, andfrom amounts made available to such agency under section 11435 of this title, make subgrants to local educational agencies for the purpose of facilitating the enrollment, attendance, and success in school of homeless children and youths.
+&emsp;The State educational agency shall, in accordance with section 11432(e) of this title, and from amounts made available to such agency under section 11435 of this title, make subgrants to local educational agencies for the purpose of facilitating the enrollment, attendance, and success in school of homeless children and youths.
 
 #### (2) Services
 
@@ -114,7 +114,7 @@ A local educational agency may use funds awarded under this section for activiti
 
 &emsp;(9) If necessary, the payment of fees and other costs associated with tracking, obtaining, and transferring records necessary to enroll homeless children and youths in school, including birth certificates, immunization or medical records, academic records, guardianship records, and evaluations for special programs or services.
 
-&emsp;(10) The provision of education and training to the parents of homeless children and youths about the rights of, and resources available to, such children and youths.
+&emsp;(10) The provision of education and training to the parents of homeless children and youthsabout the rights of, and resources available to, such children and youths.
 
 &emsp;(11) The development of coordination between schools and agencies providing services to homeless children and youths, as described in section 11432(g)(5) of this title.
 

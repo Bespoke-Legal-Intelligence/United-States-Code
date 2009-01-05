@@ -46,7 +46,7 @@ To the extent necessary to decision and when presented, the reviewing court shal
 
 If the individual referred to in subsection (a) of this section is the prevailing party in a proceeding under this subsection,<sup>1</sup> attorney's fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title.
 
-(Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
+(Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 andamended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
 
 #### Codification
 

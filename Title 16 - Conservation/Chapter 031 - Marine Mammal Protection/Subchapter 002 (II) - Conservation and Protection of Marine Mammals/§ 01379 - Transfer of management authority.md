@@ -22,7 +22,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
 
-&emsp;(D) does not permit the taking of a number of animals of the species that exceeds themaximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
+&emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
 &emsp;(E) does not permit the taking of the species for scientific research, public display, or enhancing the survival or recovery of a species or stock, except for taking for such purposes that is undertaken by, or on behalf of, the State;
 
@@ -46,7 +46,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
-&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalf of, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
+&emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalfof, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
 
 &emsp;(C) section 1371(b) of this title shall not apply.
 
@@ -86,7 +86,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(I) the Secretary provides opportunity for consultation between him and the State concerning such State actions or failures to act and the remedial measures that should be taken by the State, and
 
-&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
+&emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgmentof the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
 (B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
@@ -116,7 +116,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
 
-&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or anyperson living within a household on a permanent basis.
+&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or any person living within a household on a permanent basis.
 
 &emsp;(B) The term “barter” means the exchange of marine mammals or their parts, taken for subsistence uses—
 
@@ -154,7 +154,7 @@ The Secretary may make grants to States to assist them—
 
 &emsp;(2) in administering such programs if management authority for such species is transferred to the State under such subsection.
 
-> Grants made under this subsection may not exceed 50 per centum of the costs of developing a State program before Secretarial approval, or of administering the program thereafter.
+> Grants made under this subsection may not exceed 50 per centum of the costs of developing aState program before Secretarial approval, or of administering the program thereafter.
 
 #### (k) Delegation of administration and enforcement to States
 

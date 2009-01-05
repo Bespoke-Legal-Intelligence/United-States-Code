@@ -96,7 +96,7 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 2007—Subsec. (a). Pub. L. 110–172, §6(d)(2)(B)(i), struck out “(other than such tax at the Leaking Underground Storage Tank Trust Fund financing rate imposed in all cases other than for export)” after “section 4081” in introductory provisions.
 
-Subsec. (b). Pub. L. 110–172, §11(a)(28), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
+Subsec. (b). Pub. L. 110–172, §11(a)(28), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘nontaxable use’ means—
 
 &emsp;“(1) any use which is exempt from the tax imposed by section 4041(a)(1) other than by reason of a prior imposition of tax,
 
@@ -194,7 +194,7 @@ Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
 
 #### Effective Date of 2007 Amendment
 
-Amendments by section 6(d)(2)(B), (C)(i) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendments relate, and amendment by section 6(d)(2)(C)(ii) of Pub. L. 110–172 effective as if included in section 11161 of the SAFETEA–LU, Pub. L. 109–59, seesection 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
+Amendments by section 6(d)(2)(B), (C)(i) of Pub. L. 110–172 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendments relate, and amendment by section 6(d)(2)(C)(ii) of Pub. L. 110–172 effective as if included in section 11161 of the SAFETEA–LU, Pub. L. 109–59, see section 6(e) of Pub. L. 110–172, set out as a note under section 30C of this title.
 
 #### Effective Date of 2006 Amendment
 

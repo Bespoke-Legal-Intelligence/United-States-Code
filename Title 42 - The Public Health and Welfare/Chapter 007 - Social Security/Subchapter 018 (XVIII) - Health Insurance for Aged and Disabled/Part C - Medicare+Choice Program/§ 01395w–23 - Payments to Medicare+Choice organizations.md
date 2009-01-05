@@ -272,7 +272,7 @@
 
 #### (iii) Inclusion of costs of VA and DOD military facility services to medicare-eligible beneficiaries
 
-&emsp;&emsp;&emsp;In determining the adjusted average per capita cost under clause (i) for a year, such cost shall be adjusted to include the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of the Department of Defense or the Department of Veterans Affairs.
+&emsp;&emsp;&emsp;In determining the adjusted average per capita cost under clause (i) for a year, such cost shall be adjusted to include the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of theDepartment of Defense or the Department of Veterans Affairs.
 
 #### (2) Area-specific and national percentages
 
@@ -352,7 +352,7 @@
 
 &emsp;&emsp;&emsp;(ii) the proportion of such rate for the year which is attributable to such type of services, and
 
-&emsp;&emsp;&emsp;(iii) an index that reflects (for that year and that type of services) the relative input price of such services in the area compared to the national average input price of such services.
+&emsp;&emsp;&emsp;(iii) an index that reflects (for that year and that type of services) the relativeinput price of such services in the area compared to the national average input price of such services.
 
 > &emsp;&emsp;In applying clause (iii), the Secretary may, subject to subparagraph (C), apply those indices under this subchapter that are used in applying (or updating) national payment rates for specific areas and localities.
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for ayear is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
+&emsp;&emsp;In this part, the “national per capita Medicare+Choice growth percentage” for a year is the percentage determined by the Secretary, by March 1st before the beginning of the year involved, to reflect the Secretary's estimate of the projected per capita rate of growth in expenditures under this subchapter for an individual entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, reduced by the number of percentage points specified in subparagraph (B) for the year. Separate determinations may be made for aged enrollees, disabled enrollees, and enrollees with end-stage renal disease.
 
 #### (B) Adjustment
 
@@ -424,7 +424,7 @@
 
 #### (7) Adjustment for national coverage determinations and legislative changes in benefits
 
-&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the new benefits.
+&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretaryprojects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the new benefits.
 
 #### (d) MA payment area; MA local area; MA region defined
 
@@ -492,7 +492,7 @@
 
 #### (3) Lump-sum deposit of medical savings account contribution
 
-&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited during that first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
+&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited duringthat first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
 
 #### (f) Payments from Trust Funds
 
@@ -580,7 +580,7 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 #### (1) Applicable amount defined
 
-&emsp;For purposes of subsection (j), subject to paragraph (2), the term “applicable amount” means for an area—
+&emsp;For purposes of subsection (j), subject to paragraphs (2) and (4), the term “applicable amount” means for an area—
 
 &emsp;&emsp;(A) for 2007—
 
@@ -598,7 +598,7 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 &emsp;&emsp;(B) for a subsequent year—
 
-&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year (determined without regard to paragraph (2)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
+&emsp;&emsp;&emsp;(i) if such year is not specified under subsection (c)(1)(D)(ii), an amount equal to the amount determined under this paragraph for the area for the previous year (determined without regard to paragraphs (2) and (4)), increased by the national per capita MA growth percentage, described in subsection (c)(6) for that succeeding year, but not taking into account any adjustment under subparagraph (C) of such subsection for a year before 2004; and
 
 &emsp;&emsp;&emsp;(ii) if such year is specified under subsection (c)(1)(D)(ii), an amount equal to the greater of—
 
@@ -620,7 +620,7 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), subject to clause (iv), the percent determined under this subparagraph for a year is a percent equal to a fraction the numerator of which is described in clause (ii) and the denominator of which is described in clause (iii).
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), subject to clause (iv), the percent determinedunder this subparagraph for a year is a percent equal to a fraction the numerator of which is described in clause (ii) and the denominator of which is described in clause (iii).
 
 #### (ii) Numerator based on difference between demographic rate and risk rate
 
@@ -686,7 +686,41 @@ For purposes of this part, the term “MA area-specific non-drug monthly benchma
 
 &emsp;&emsp;Nothing in this subsection shall be construed to limit the authority of the Secretary to make adjustments to the applicable amounts determined under paragraph (1) as appropriate for purposes of updating data or for purposes of adopting an improved risk adjustment methodology.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48.)
+#### (4) Phase-out of the indirect costs of medical education from capitation rates
+
+#### (A) In general
+
+&emsp;&emsp;After determining the applicable amount for an area for a year under paragraph (1) (beginning with 2010), the Secretary shall adjust such applicable amount to exclude from such applicable amount the phase-in percentage (as defined in subparagraph (B)(i)) for the year of the Secretary's estimate of the standardized costs for payments under section 1395ww(d)(5)(B) of this title in the area for the year. Any adjustment under the preceding sentence shall be made prior to the application of paragraph (2).
+
+#### (B) Percentages defined
+
+&emsp;&emsp;For purposes of this paragraph:
+
+#### (i) Phase-in percentage
+
+&emsp;&emsp;&emsp;The term “phase-in percentage” means, for an area for a year, the ratio (expressed as a percentage, but in no case greater than 100 percent) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the maximum cumulative adjustment percentage for the year (as defined in clause (ii)); to
+
+&emsp;&emsp;&emsp;&emsp;(II) the standardized IME cost percentage (as defined in clause (iii)) for the area and year.
+
+#### (ii) Maximum cumulative adjustment percentage
+
+&emsp;&emsp;&emsp;The term “maximum cumulative adjustment percentage” means, for—
+
+&emsp;&emsp;&emsp;&emsp;(I) 2010, 0.60 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a subsequent year, the maximum cumulative adjustment percentage for the previous year increased by 0.60 percentage points.
+
+#### (iii) Standardized IME cost percentage
+
+&emsp;&emsp;&emsp;The term “standardized IME cost percentage” means, for an area for a year, the per capita costs for payments under section 1395ww(d)(5)(B) of this title (expressed as a percentage of the fee-for-service amount specified in subparagraph (C)) for the area and the year.
+
+#### (C) Fee-for-service amount
+
+&emsp;&emsp;The fee-for-service amount specified in this subparagraph for an area for a year is the amount specified under subsection (c)(1)(D) for the area and the year.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003, 117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371; Pub. L. 109–171, title V, §5301, Feb. 8, 2006, 120 Stat. 48; Pub. L. 110–275, title I, §161(a), (b), July 15, 2008, 122 Stat. 2568, 2569.)
 
 #### References in Text
 
@@ -697,6 +731,10 @@ Parts A and B of this subchapter, referred to in subsecs. (a)(1)(C)(ii)(I), (b)(
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2008—Subsec. (k)(1). Pub. L. 110–275, §161(a)(1), (b), substituted “paragraphs (2) and (4)” for “paragraph (2)” in introductory provisions and cl. (i) of subpar. (B).
+
+Subsec. (k)(4). Pub. L. 110–275, §161(a)(2), added par. (4).
 
 2006—Subsec. (a)(1)(C). Pub. L. 109–171, §5301(b), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
@@ -908,11 +946,11 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §604\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(a)
 
-Announcement of Revised Medicare+Choice Payment Rates.—Within 2 weeks after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall determine, and shall announce (in a manner intended to provide notice to interested parties) Medicare+Choice capitation rates under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for 2001, revised in accordance with the provisions of this Act.
+Announcement of Revised Medicare+Choice Payment Rates.—Within 2 weeks after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary ofHealth and Human Services shall determine, and shall announce (in a manner intended to provide notice to interested parties) Medicare+Choice capitation rates under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for 2001, revised in accordance with the provisions of this Act.
 
 “(b)
 
-Reentry Into Program Permitted for Medicare+Choice Programs.—A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[this part\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act (42 U.S.C. 1395w–24(a)(1)) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
+Reentry Into Program Permitted for Medicare+Choice Programs.—A Medicare+Choice organization that provided notice to the Secretary of Health and Human Services before the date of the enactment of this Act \[Dec. 21, 2000\] that it was terminating its contract under part C of title XVIII of the Social Security Act \[this part\] or was reducing the service area of a Medicare+Choice plan offered under such part shall be permitted to continue participation under such part, or to maintain the service area of such plan, for 2001 if it submits the Secretary with the information described in section 1854(a)(1) of the Social Security Act (42 U.S.C. 1395w–24(a)(1)) within 2 weeks after the date revised rates are announced by the Secretary under subsection (a).
 
 “(c)
 
@@ -974,7 +1012,7 @@ Issues to be studied.—The issues described in this paragraph are the following
 
 “(3)
 
-Report.—Not later than December 1, 2000, the Commission shall submit a report to Congress on the study conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
+Report.—Not later than December 1, 2000, the Commission shall submit a report to Congress on thestudy conducted under paragraph (1), together with any recommendations for legislation that the Commission determines to be appropriate as a result of such study.”
 
 #### Study and Report Regarding Reporting of Encounter Data
 
@@ -1056,7 +1094,7 @@ Rural project.—The current viability of initiating a project site in a rural a
 
 &emsp;&emsp;“(D)
 
-Benefit structure.—The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for a lower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
+Benefit structure.—The nature and extent of the benefit structure that should be required of plans participating in the project, the rationale for such benefit structure, the potential implications that any benefit standardization requirement may have on the number of plan choices available to a beneficiary in an area designated under the project, the potential implications of requiring participating plans to offer variations on any standardized benefit package the committee might recommend, such that a beneficiary could elect to pay a higher percentage of out-of-pocket costs in exchange for alower premium (or premium rebate as the case may be), and the potential implications of expanding the project (in conjunction with the potential inclusion of the original medicare fee-for-service program) to require medicare supplemental insurance plans operating in an area designated under the project to offer a coordinated and comparable standardized benefit package.
 
 &emsp;“(3)
 
@@ -1070,7 +1108,7 @@ Medicare Payment Areas Covered by Project.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall designate, in accordance with the recommendations of the Competitive Pricing Advisory Committee under paragraphs (2) and (3), medicare payment areas as areas inwhich the project under this subchapter will be conducted. In this section, the term ‘Competitive Pricing Advisory Committee’ means the Competitive Pricing Advisory Committee established under section 4012(a).
+In general.—The Secretary shall designate, in accordance with the recommendations of the Competitive Pricing Advisory Committee under paragraphs (2) and (3), medicare payment areas as areas in which the project under this subchapter will be conducted. In this section, the term ‘Competitive Pricing Advisory Committee’ means the Competitive Pricing Advisory Committee established under section 4012(a).
 
 &emsp;“(2)
 
@@ -1162,7 +1200,7 @@ Quality recommendation.—The Competitive Pricing Advisory Committee shall study
 
 &emsp;“(4)
 
-Advice during implementation.—Upon implementation of the project, the Competitive Pricing Advisory Committee shall continue to advise the Secretary on the application of the design in different areas and changes in the project based on experience with its operations.
+Advice during implementation.—Upon implementation of the project, the Competitive PricingAdvisory Committee shall continue to advise the Secretary on the application of the design in different areas and changes in the project based on experience with its operations.
 
 &emsp;“(5)
 
@@ -1174,7 +1212,7 @@ Appointment of Area Advisory Committee.—Upon the designation of an area for in
 
 “(c)
 
-Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C.App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
+Special application.—Notwithstanding section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.), the Competitive Pricing Advisory Commission and any area advisory committee (described in subsection (b)) may meet as soon as the members of the commission or committee, respectively, are appointed.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “parts”.</i>
 

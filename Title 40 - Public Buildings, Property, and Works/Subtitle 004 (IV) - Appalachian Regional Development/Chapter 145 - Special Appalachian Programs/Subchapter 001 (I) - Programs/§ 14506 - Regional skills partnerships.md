@@ -40,17 +40,23 @@ Administrative Costs.—An eligible entity may use not more than 10 percent of a
 
 (d)
 
-Limitation on Available Amounts.—Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.
+Limitation on Available Amounts.—Of the cost of any activity eligible for a grant under this section, not more than—
+
+&emsp;(1) 50 percent may be provided from amounts appropriated to carry out this section;
+
+&emsp;(2) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent may be provided from amounts appropriated to carry out this section; or
+
+&emsp;(3) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
 
 (e)
 
-Sources of Assistance.—Assistance under this section may be provided entirely fromamounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
+Sources of Assistance.—Assistance under this section may be provided entirely from amounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
 
 (f)
 
 Federal Share.—Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271; Pub. L. 110–371, §2(f), Oct. 8, 2008, 122 Stat. 4039.)
 
 Historical and Revision Notes
 
@@ -87,4 +93,8 @@ Pub. L. 89–4, title II, §205, as added Pub. L. 107–149, §7, Mar. 12, 2002,
 14506(f)
 
 40 App.:205(d)(2).
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–371 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”
 

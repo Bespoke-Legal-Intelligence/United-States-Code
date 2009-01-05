@@ -14,7 +14,7 @@ Section was classified to section 206–1 of former Title 40, prior to the enact
 
 2002—Pub. L. 107–117 substituted “but not to exceed $2,500 less than the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate” for “but not to exceed the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
 
-2000—Pub. L. 106–554 substituted “the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)” for“the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5”.
+2000—Pub. L. 106–554 substituted “the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)” for “the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5”.
 
 #### Effective Date of 2003 Amendment
 

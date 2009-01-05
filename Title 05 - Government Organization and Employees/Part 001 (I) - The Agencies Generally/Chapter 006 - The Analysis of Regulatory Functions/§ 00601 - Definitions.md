@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(4) the term “small organization” means any not-for-profit enterprise which is independently owned and operated and is not dominant in its field, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register;
 
-&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment, one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register;
+&emsp;(5) the term “small governmental jurisdiction” means governments of cities, counties, towns, townships, villages, school districts, or special districts, with a population of less than fifty thousand, unless an agency establishes, after opportunity for public comment,one or more definitions of such term which are appropriate to the activities of the agency and which are based on such factors as location in rural or sparsely populated areas or limited revenues due to the population of such jurisdiction, and publishes such definition(s) in the Federal Register;
 
 &emsp;(6) the term “small entity” shall have the same meaning as the terms “small business”, “small organization” and “small governmental jurisdiction” defined in paragraphs (3), (4) and (5) of this section; and
 
@@ -44,7 +44,7 @@ Section 245 of title II of Pub. L. 104–121 provided that: “This subtitle \[s
 
 #### Effective Date
 
-Section 4 of Pub. L. 96–354 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (asadded by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
+Section 4 of Pub. L. 96–354 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect January 1, 1981, except that the requirements of sections 603 and 604 of title 5, United States Code (as added by section 3 of this Act) shall apply only to rules for which a notice of proposed rulemaking is issued on or after January 1, 1981.”
 
 #### Short Title of 1996 Amendment
 
@@ -240,7 +240,7 @@ Compliance Guide.—
 
 &emsp;“(1)
 
-In general.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complying with the rule and shall entitle such publications ‘small entity compliance guides’.
+In general.—For each rule or group of related rules for which an agency is required to prepare a final regulatory flexibility analysis under section 605(b) \[probably should be “section 604”\] of title 5, United States Code, the agency shall publish 1 or more guides to assist small entities in complyingwith the rule and shall entitle such publications ‘small entity compliance guides’.
 
 &emsp;“(2)
 
@@ -346,7 +346,7 @@ Reporting.—Each agency regulating the activities of small business shall repor
 
 “(a)
 
-In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirement by a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
+In General.—Each agency regulating the activities of small entities shall establish a policy or program within 1 year of enactment of this section \[Mar. 29, 1996\] to provide for the reduction, and under appropriate circumstances for the waiver, of civil penalties for violations of a statutory or regulatory requirementby a small entity. Under appropriate circumstances, an agency may consider ability to pay in determining penalty assessments on small entities.
 
 “(b)
 
@@ -422,7 +422,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 #### Executive Order No. 12291
 
-Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations, and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735, set out below.
+Ex. Ord. No. 12291, Feb. 17, 1981, 46 F.R. 13193, which established requirements for agencies to follow in promulgating regulations, reviewing existing regulations,and developing legislative proposals concerning regulation, was revoked by Ex. Ord. No. 12866, §11, Sept. 30, 1993, 58 F.R. 51735, set out below.
 
 #### Executive Order No. 12498
 
@@ -446,7 +446,7 @@ Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitu
 
 (b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
 
-(c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein andin consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
+(c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
 Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that have takings implications” refers to Federal regulations, proposed Federal regulations, proposed Federal legislation, comments on proposed Federal legislation, or other Federal policy statements that, if implemented or enacted, could effect a taking, such as rules and regulations that propose or implement licensing, permitting, or other condition requirements or limitations on private property use, or that require dedications or exactions from owners of private property. “Policies that have takings implications” does not include:
 
@@ -506,7 +506,7 @@ Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental prin
 
 (c) When a proposed action involves a permitting process or any other decision-making process that will interfere with, or otherwise prohibit, the use of private property pending the completion of the process, the duration of the process shall be kept to the minimum necessary.
 
-(d) Before undertaking any proposed action regulating private property use for the protection of public health or safety, the Executive department or agencyinvolved shall, in internal deliberative documents and any submissions to the Director of the Office of Management and Budget that are required:
+(d) Before undertaking any proposed action regulating private property use for the protection of public health or safety, the Executive department or agency involved shall, in internal deliberative documents and any submissions to the Director of the Office of Management and Budget that are required:
 
 (1) Identify clearly, with as much specificity as possible, the public health or safety risk created by the private property use that is the subject of the proposed action;
 
@@ -562,7 +562,7 @@ Accordingly, by the authority vested in me as President by the Constitution and 
 
 Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
-(a) <i>The Regulatory Philosophy</i>. Federal agencies should promulgate only such regulations as are required by law, are necessary to interpret the law, or are made necessary by compelling public need, such as material failures of private markets to protect or improve the health and safety of the public, the environment, or the well-being of the American people. In decidingwhether and how to regulate, agencies should assess all costs and benefits of available regulatory alternatives, including the alternative of not regulating. Costs and benefits shall be understood to include both quantifiable measures (to the fullest extent that these can be usefully estimated) and qualitative measures of costs and benefits that are difficult to quantify, but nevertheless essential to consider. Further, in choosing among alternative regulatory approaches, agencies should select those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity), unless a statute requires another regulatory approach.
+(a) <i>The Regulatory Philosophy</i>. Federal agencies should promulgate only such regulations as are required by law, are necessary to interpret the law, or are made necessary by compelling public need, such as material failures of private markets to protect or improve the health and safety of the public, the environment, or the well-being of the American people. In deciding whether and how to regulate, agencies should assess all costs and benefits of available regulatory alternatives, including the alternative of not regulating. Costs and benefits shall be understood to include both quantifiable measures (to the fullest extent that these can be usefully estimated) and qualitative measures of costs and benefits that are difficult to quantify, but nevertheless essential to consider. Further, in choosing among alternative regulatory approaches, agencies should select those approaches that maximize net benefits (including potential economic, environmental, public health and safety, and other advantages; distributive impacts; and equity), unless a statute requires another regulatory approach.
 
 (b) <i>The Principles of Regulation</i>. To ensure that the agencies’ regulatory programs are consistent with the philosophy set forth above, agencies should adhere to the following principles, to the extent permitted by law and where applicable:
 
@@ -582,7 +582,7 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
 (8) Each agency shall identify and assess alternative forms of regulation and shall, to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt.
 
-(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
+(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State,local, and tribal regulatory and other governmental functions.
 
 (10) Each agency shall avoid regulations and guidance documents that are inconsistent, incompatible, or duplicative with its other regulations and guidance documents or those of other Federal agencies.
 
@@ -602,7 +602,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
 (a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President for Homeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
 
-(b) “Agency,” unless otherwise indicated, means any authority of the United States that is an “agency”under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
+(b) “Agency,” unless otherwise indicated, means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
 (c) “Director” means the Director of OMB.
 
@@ -652,7 +652,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
 &emsp;(D) Any other category of guidance documents exempted by the Administrator of OIRA.
 
-Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law:
+Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination ofregulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law:
 
 (a) <i>Agencies’ Policy Meeting</i>. The Director may convene a meeting of agency heads and other government personnel as appropriate to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
 
@@ -690,7 +690,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (e) <i>Conferences</i>. The Administrator of OIRA shall meet quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those governmental entities. The Administrator of OIRA shall also convene, from time to time, conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
 
-Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
+Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency topromulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
 (b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
@@ -810,7 +810,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Implementation of Human Rights Obligations</i>. (a) It shall be the policy and practice of the Government of the United States, being committed to the protection and promotion of human rights and fundamental freedoms, fully to respect and implement its obligations under the international human rights treaties to which it is a party, including the ICCPR, the CAT, and the CERD.
 
-(b) It shall also be the policy and practice of the Government of the United States to promote respect for international human rights, both in our relationships with all other countries and by working with andstrengthening the various international mechanisms for the promotion of human rights, including, <i>inter alia</i>, those of the United Nations, the International Labor Organization, and the Organization of American States.
+(b) It shall also be the policy and practice of the Government of the United States to promote respect for international human rights, both in our relationships with all other countries and by working with and strengthening the various international mechanisms for the promotion of human rights, including, <i>inter alia</i>, those of the United Nations, the International Labor Organization, and the Organization of American States.
 
 Sec. 2. <i>Responsibility of Executive Departments and Agencies</i>. (a) All executive departments and agencies (as defined in 5 U.S.C. 101–105, including boards and commissions, and hereinafter referred to collectively as “agency” or “agencies”) shall maintain a current awareness of United States international human rights obligations that are relevant to their functions and shall perform such functions so as to respect and implement those obligations fully. The head of each agency shall designate a single contact officer who will be responsible for overall coordination of the implementation of this order. Under this order, all such agencies shall retain their established institutional roles in the implementation, interpretation, and enforcement of Federal law and policy.
 
@@ -894,7 +894,7 @@ Sec. 2. <i>Fundamental Federalism Principles</i>. In formulating and implementin
 
 Sec. 3. <i>Federalism Policymaking Criteria</i>. In addition to adhering to the fundamental federalism principles set forth in section 2, agencies shall adhere, to the extent permitted by law, to the following criteria when formulating and implementing policies that have federalism implications:
 
-(a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C. 6506 note\] remains in effect for the programs and activities to which it is applicable.
+(a) There shall be strict adherence to constitutional principles. Agencies shall closely examine the constitutional and statutory authority supporting any action that would limit the policymaking discretion of the States and shall carefully assess the necessity for such action. To the extent practicable, State and local officials shall be consulted before any such action is implemented. Executive Order 12372 of July 14, 1982 (“Intergovernmental Review of Federal Programs”) \[31 U.S.C.6506 note\] remains in effect for the programs and activities to which it is applicable.
 
 (b) National action limiting the policymaking discretion of the States shall be taken only where there is constitutional and statutory authority for the action and the national activity is appropriate in light of the presence of a problem of national significance. Where there are significant uncertainties as to whether national action is authorized or appropriate, agencies shall consult with appropriate State and local officials to determine whether Federal objectives can be attained by other means.
 
@@ -1116,7 +1116,7 @@ In formulating and implementing policies that have implications for faith-based 
 
 (c) No organization should be discriminated against on the basis of religion or religious belief in the administration or distribution of Federal financial assistance under social service programs;
 
-(d) All organizations that receive Federal financial assistance under social services programs should be prohibited from discriminating against beneficiaries or potential beneficiaries of the social services programs on the basis of religion or religious belief. Accordingly, organizations, in providing services supported in whole or in part with Federal financial assistance, and intheir outreach activities related to such services, should not be allowed to discriminate against current or prospective program beneficiaries on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to actively participate in a religious practice;
+(d) All organizations that receive Federal financial assistance under social services programs should be prohibited from discriminating against beneficiaries or potential beneficiaries of the social services programs on the basis of religion or religious belief. Accordingly, organizations, in providing services supported in whole or in part with Federal financial assistance, and in their outreach activities related to such services, should not be allowed to discriminate against current or prospective program beneficiaries on the basis of religion, a religious belief, a refusal to hold a religious belief, or a refusal to actively participate in a religious practice;
 
 (e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the Constitution. Therefore, organizations that engage in inherently religious activities, such as worship, religious instruction, and proselytization, must offer those services separately in time or location from any programs or services supported with direct Federal financial assistance, and participation in any such inherently religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance; and
 
@@ -1202,7 +1202,7 @@ Sec. 4. <i>Reporting Requirements.</i>
 
 (b) <i>Contents</i>. The report shall include a description of the agency's efforts in carrying out its responsibilities under this order, including but not limited to:
 
-&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
+&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other communityorganizations in the delivery of social services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
 
 &emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
 
@@ -1240,7 +1240,7 @@ Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Ini
 
 Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
 
-(a) conduct, in coordination with the White House OFBCI, an agency-wide audit to identify all existing barriers to the participation of faith-based and othercommunity organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the White House OFBCI, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive agency effort to incorporate faith-based and other community organizations in agency programs and initiatives to the greatest extent possible;
 
@@ -1310,7 +1310,7 @@ Sec. 4. <i>Reporting Requirements.</i>
 
 &emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social and community services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
 
-&emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regardingthe program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
+&emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
 
 (c) <i>Performance Indicators</i>. The first report shall include annual performance indicators and measurable objectives for Departmental action. Each report filed thereafter shall measure the Department's performance against the objectives set forth in the initial report.
 

@@ -38,7 +38,7 @@ The Commission shall consist of 19 members to be appointed no later than 6 month
 
 &emsp;(15) one member with experience and knowledge of historic preservation from recommendations submitted by the President of Northwestern State University of Louisiana;
 
-&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritage area from recommendations submitted by the Natchitoches Sportsmans Association and other local recreational and environmental organizations; and
+&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritage area from recommendations submitted by the Natchitoches Sportsmans <sup>3</sup> Association and other local recreational and environmental organizations; and
 
 &emsp;(17) the director of the National Park Service, or the Director's designee, ex officio.
 
@@ -60,7 +60,7 @@ In furtherance of the purposes of this subchapter, the Commission is authorized 
 
 &emsp;(1) procure temporary and intermittent services to the same extent that is authorized by section 3109(b) of title 5, but at rates determined by the Commission to be reasonable;
 
-&emsp;(2) accept the services of personnel detailed from the State of Louisiana or any political subdivision thereof, and may reimburse theState or political subdivision for such services;
+&emsp;(2) accept the services of personnel detailed from the State of Louisiana or any political subdivision thereof, and may reimburse the State or political subdivision for such services;
 
 &emsp;(3) upon the request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties;
 
@@ -105,4 +105,6 @@ The provisions of title 5 governing appointments in the competitive service, ref
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “Sportsman's”.</i>
 

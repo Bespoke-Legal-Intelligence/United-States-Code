@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) for each fiscal year in which the amount appropriated under section 2872(a) of this title exceeds $1,000,000,000, reserve a portion determined under subsection (b)(1)(A) of this section of the amount appropriated under section2872(a) of this title for use under sections 2912 (relating to migrant and seasonal farmworker programs) and 2914 (relating to youth opportunity grants) of this title; and
+&emsp;(1) for each fiscal year in which the amount appropriated under section 2872(a) of this title exceeds $1,000,000,000, reserve a portion determined under subsection (b)(1)(A) of this section of the amount appropriated under section 2872(a) of this title for use under sections 2912 (relating to migrant and seasonal farmworker programs) and 2914 (relating to youth opportunity grants) of this title; and
 
 &emsp;(2) use the remainder of the amount appropriated under section 2872(a) of this title for a fiscal year to make allotments and grants in accordance with subparagraphs (B) and (C) of subsection (b)(1) of this section and make funds available for use under section 2911 of this title (relating to Native American programs).
 
@@ -130,7 +130,7 @@ The Secretary shall—
 
 #### (IV) Minimum funding
 
-&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i)(II) does not exceed $1,000,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology for calculating the corresponding allotments under parts B and C of title II of the Job Training Partnership Act, as in effect on July 1, 1998.
+&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i)(II) does not exceed $1,000,000,000, the minimum allotments under subclauses (I) and (II) shallbe calculated by the methodology for calculating the corresponding allotments under parts B and C of title II of the Job Training Partnership Act, as in effect on July 1, 1998.
 
 #### (2) Definitions
 

@@ -26,7 +26,7 @@ Contents and Form.—An application for a project grant under this subchapter—
 
 &emsp;(2) may propose a project only for a public-use airport included in the current national plan of integrated airport systems;
 
-&emsp;(3) may propose airport development only if the development complies with standards theSecretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
+&emsp;(3) may propose airport development only if the development complies with standards the Secretary prescribes or approves, including standards for site location, airport layout, site preparation, paving, lighting, and safety of approaches; and
 
 &emsp;(4) shall be in the form and contain other information the Secretary prescribes.
 

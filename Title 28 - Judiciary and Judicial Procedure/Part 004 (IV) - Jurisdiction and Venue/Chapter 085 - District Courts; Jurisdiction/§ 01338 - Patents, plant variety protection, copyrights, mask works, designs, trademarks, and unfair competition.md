@@ -24,7 +24,7 @@ Subsection (b) is added and is intended to avoid “piecemeal” litigation to e
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
+1999—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) andsubstituted “trademark” for “trade-mark” in subsec. (b).
 
 1998—Pub. L. 105–304, §503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
 

@@ -34,7 +34,7 @@ In any Y2K action that is maintained as a class action, the court, in addition t
 
 &emsp;&emsp;(iii) the claims asserted will be governed primarily by the laws of that State;
 
-&emsp;&emsp;(B) the primary defendants are States, State officials, or other governmental entities against whom the district courts of theUnited States may be foreclosed from ordering relief;
+&emsp;&emsp;(B) the primary defendants are States, State officials, or other governmental entities against whom the district courts of the United States may be foreclosed from ordering relief;
 
 &emsp;&emsp;(C) the plaintiff class does not seek an award of punitive damages, and the amount in controversy is less than the sum of $10,000,000 (exclusive of interest and costs), computed on the basis of all claims to be determined in the action; or
 

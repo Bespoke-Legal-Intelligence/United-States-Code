@@ -44,7 +44,7 @@
 
 (3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
 
-(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996\(under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
+(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
 
 (2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
 

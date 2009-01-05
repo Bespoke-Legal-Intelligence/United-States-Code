@@ -41,6 +41,7 @@
 | [7285\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007285%20-%20Practice%20and%20registration%20fees.md) | Practice and registration fees. |
 | [7286\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007286%20-%20Judicial%20Conference%20of%20the%20Court.md) | Judicial Conference of the Court. |
 | [7287\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007287%20-%20Administration.md) | Administration. |
+| [7288\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007288%20-%20Annual%20report.md) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,6 +66,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title VI, §604(b), Oct. 10, 2008, 122 Stat. 4179, added item 7288.
 
 2001—Pub. L. 107–103, title VI, §§604(c)(2), 605(b), Dec. 27, 2001, 115 Stat. 1000, substituted “Practice and registration fees” for “Practice fee” in item 7285 and added item 7287.
 

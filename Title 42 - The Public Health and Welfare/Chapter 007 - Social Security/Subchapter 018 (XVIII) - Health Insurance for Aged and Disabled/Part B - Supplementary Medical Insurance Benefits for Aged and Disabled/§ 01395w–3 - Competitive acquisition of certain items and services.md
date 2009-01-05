@@ -12,19 +12,91 @@
 
 &emsp;&emsp;The programs—
 
-&emsp;&emsp;&emsp;(i) shall be phased in among competitive acquisition areas in a manner so that the competition under the programs occurs in—
+&emsp;&emsp;&emsp;(i) shall be phased in among competitive acquisition areas in a manner consistent with subparagraph (D) so that the competition under the programs occurs in—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 of the largest metropolitan statistical areas in 2007;
 
-&emsp;&emsp;&emsp;&emsp;(II) 80 of the largest metropolitan statistical areas in 2009; and
+&emsp;&emsp;&emsp;&emsp;(II) an additional 70 of the largest metropolitan statistical areas in 2011; and
 
-&emsp;&emsp;&emsp;&emsp;(III) additional areas after 2009; and
+&emsp;&emsp;&emsp;&emsp;(III) additional areas after 2011 (or, in the case of national mail order for items and services, after 2010); and
 
 &emsp;&emsp;&emsp;(ii) may be phased in first among the highest cost and highest volume items and services or those items and services that the Secretary determines have the largest savings potential.
 
 #### (C) Waiver of certain provisions
 
-&emsp;&emsp;In carrying out the programs, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality of information and such otherprovisions as the Secretary determines appropriate.
+&emsp;&emsp;In carrying out the programs, the Secretary may waive such provisions of the Federal Acquisition Regulation as are necessary for the efficient implementation of this section, other than provisions relating to confidentiality of information and such other provisions as the Secretary determines appropriate.
+
+#### (D) Changes in competitive acquisition programs
+
+#### (i) Round 1 of competitive acquisition program
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
+
+&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall conduct the competition for such round in a manner so that it occurs in 2009 with respect to the same items and services and the same areas, except as provided in subclauses (III) and (IV);
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary shall exclude Puerto Rico so that such round of competition covers 9, instead of 10, of the largest metropolitan statistical areas; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) there shall be excluded negative pressure wound therapy items and services.
+
+&emsp;&emsp;&nbsp;Nothing in subclause (I) shall be construed to provide an independent cause of action or right to administrative or judicial review with regard to the termination provided under such subclause.
+
+#### (ii) Round 2 of competitive acquisition program
+
+&emsp;&emsp;&emsp;In implementing the second round of the competitive acquisition programs under this section described in subparagraph (B)(i)(II)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the metropolitan statistical areas to be included shall be those metropolitan statistical areas selected by the Secretary for such round as of June 1, 2008; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary may subdivide metropolitan statistical areas with populations (based upon the most recent data from the Census Bureau) of at least 8,000,000 into separate areas for competitive acquisition purposes.
+
+#### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
+
+&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programs under this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Rural areas.
+
+&emsp;&emsp;&emsp;&emsp;(II) Metropolitan statistical areas not selected under round 1 or round 2 with a population of less than 250,000.
+
+&emsp;&emsp;&emsp;&emsp;(III) Areas with a low population density within a metropolitan statistical area that is otherwise selected, as determined for purposes of paragraph (3)(A).
+
+#### (E) Verification by OIG
+
+&emsp;&emsp;The Inspector General of the Department of Health and Human Services shall, through post-award audit, survey, or otherwise, assess the process used by the Centers for Medicare \& Medicaid Services to conduct competitive bidding and subsequent pricing determinations under this section that are the basis for pivotal bid amounts and single payment amounts for items and services in competitive bidding areas under rounds 1 and 2 of the competitive acquisition programs under this section and may continue to verify such calculations for subsequent rounds of such programs.
+
+#### (F) Supplier feedback on missing financial documentation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a bid where one or more covered documents in connection with such bid have been submitted not later than the covered document review date specified in clause (ii), the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall provide, by not later than 45 days (in the case of the first round of the competitive acquisition programs as described in subparagraph (B)(i)(I)) or 90 days (in the case of a subsequent round of such programs) after the covered document review date, for notice to the bidder of all such documents that are missing as of the covered document review date; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may not reject the bid on the basis that any covered document is missing or has not been submitted on a timely basis, if all such missing documents identified in the notice provided to the bidder under subclause (I) are submitted to the Secretary not later than 10 business days after the date of such notice.
+
+#### (ii) Covered document review date
+
+&emsp;&emsp;&emsp;The covered document review date specified in this clause with respect to a competitive acquisition program is the later of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date that is 30 days before the final date specified by the Secretary for submission of bids under such program; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date that is 30 days after the first date specified by the Secretary for submission of bids under such program.
+
+#### (iii) Limitations of process
+
+&emsp;&emsp;&emsp;The process provided under this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) applies only to the timely submission of covered documents;
+
+&emsp;&emsp;&emsp;&emsp;(II) does not apply to any determination as to the accuracy or completeness of covered documents submitted or whether such documents meet applicable requirements;
+
+&emsp;&emsp;&emsp;&emsp;(III) shall not prevent the Secretary from rejecting a bid based on any basis not described in clause (i)(II); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) shall not be construed as permitting a bidder to change bidding amounts or to make other changes in a bid submission.
+
+#### (iv) Covered document defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term “covered document” means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
 #### (2) Items and services described
 
@@ -32,7 +104,7 @@
 
 #### (A) Durable medical equipment and medical supplies
 
-&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs).
 
 #### (B) Other equipment and supplies
 
@@ -68,6 +140,26 @@
 
 &emsp;For each competitive acquisition area in which the program is implemented under this subsection with respect to items and services, the payment basis determined under the competition conducted under subsection (b) of this section shall be substituted for the payment basis otherwise applied under section 1395m(a) of this title, section 1395m(h) of this title, or section 1395u(s) of this title, as appropriate.
 
+#### (7) Exemption from competitive acquisition
+
+&emsp;The programs under this section shall not apply to the following:
+
+#### (A) Certain off-the-shelf orthotics
+
+&emsp;&emsp;Items and services described in paragraph (2)(C) if furnished—
+
+&emsp;&emsp;&emsp;(i) by a physician or other practitioner (as defined by the Secretary) to the physician's or practitioner's own patients as part of the physician's or practitioner's professional service; or
+
+&emsp;&emsp;&emsp;(ii) by a hospital to the hospital's own patients during an admission or on the date of discharge.
+
+#### (B) Certain durable medical equipment
+
+&emsp;&emsp;Those items and services described in paragraph (2)(A)—
+
+&emsp;&emsp;&emsp;(i) that are furnished by a hospital to the hospital's own patients during an admission or on the date of discharge; and
+
+&emsp;&emsp;&emsp;(ii) to which such programs would not apply, as specified by the Secretary, if furnished by a physician to the physician's own patients as part of the physician's professional service.
+
 #### (b) Program requirements
 
 #### (1) In general
@@ -101,6 +193,20 @@
 #### (B) Term of contracts
 
 &emsp;&emsp;The Secretary shall recompete contracts under this section not less often than once every 3 years.
+
+#### (C) Disclosure of subcontractors
+
+#### (i) Initial disclosure
+
+&emsp;&emsp;&emsp;Not later than 10 days after the date a supplier enters into a contract with theSecretary under this section, such supplier shall disclose to the Secretary, in a form and manner specified by the Secretary, the information on—
+
+&emsp;&emsp;&emsp;&emsp;(I) each subcontracting relationship that such supplier has in furnishing items and services under the contract; and
+
+&emsp;&emsp;&emsp;&emsp;(II) whether each such subcontractor meets the requirement of section 1395m(a)(20)(F)(i) of this title, if applicable to such subcontractor.
+
+#### (ii) Subsequent disclosure
+
+&emsp;&emsp;&emsp;Not later than 10 days after such a supplier subsequently enters into a subcontracting relationship described in clause (i)(II), such supplier shall disclose to the Secretary, in such form and manner, the information described in subclauses (I) and (II) of clause (i).
 
 #### (4) Limit on number of contractors
 
@@ -170,7 +276,17 @@
 
 &emsp;The Secretary may contract with appropriate entities to implement the competitive bidding program under this section.
 
-#### (10) No administrative or judicial review
+#### (10) Special rule in case of competition for diabetic testing strips
+
+#### (A) In general
+
+&emsp;&emsp;With respect to the competitive acquisition program for diabetic testing strips conducted after the first round of the competitive acquisition programs, if an entity does not demonstrate to the Secretary that its bid covers types of diabetic testing stripproducts that, in the aggregate and taking into account volume for the different products, cover 50 percent (or such higher percentage as the Secretary may specify) of all such types of products, the Secretary shall reject such bid. The volume for such types of products may be determined in accordance with such data (which may be market based data) as the Secretary recognizes.
+
+#### (B) Study of types of testing strip products
+
+&emsp;&emsp;Before 2011, the Inspector General of the Department of Health and Human Services shall conduct a study to determine the types of diabetic testing strip products by volume that could be used to make determinations pursuant to subparagraph (A) for the first competition under the competitive acquisition program described in such subparagraph and submit to the Secretary a report on the results of the study. The Inspector General shall also conduct such a study and submit such a report before the Secretary conducts a subsequent competitive acquistion <sup>2</sup> program described in subparagraph (A).
+
+#### (11) No administrative or judicial review
 
 &emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of—
 
@@ -178,13 +294,15 @@
 
 &emsp;&emsp;(B) the awarding of contracts under this section;
 
-&emsp;&emsp;(C) the designation of competitive acquisition areas under subsection (a)(1)(A) of this section;
+&emsp;&emsp;(C) the designation of competitive acquisition areas under subsection (a)(1)(A) and the identification of areas under subsection (a)(1)(D)(iii);
 
-&emsp;&emsp;(D) the phased-in implementation under subsection (a)(1)(B) of this section;
+&emsp;&emsp;(D) the phased-in implementation under subsection (a)(1)(B) and implementation of subsection (a)(1)(D);
 
-&emsp;&emsp;(E) the selection of items and services for competitive acquisition under subsection (a)(2) of this section; or
+&emsp;&emsp;(E) the selection of items and services for competitive acquisition under subsection (a)(2) of this section;
 
-&emsp;&emsp;(F) the bidding structure and number of contractors selected under this section.
+&emsp;&emsp;(F) the bidding structure and number of contractors selected under this section; or
+
+&emsp;&emsp;(G) the implementation of the special rule described in paragraph (10).
 
 #### (c) Program Advisory and Oversight Committee
 
@@ -222,41 +340,19 @@
 
 #### (5) Termination
 
-&emsp;The Committee shall terminate on December 31, 2009.
+&emsp;The Committee shall terminate on December 31, 2011.
 
 #### (d) Report
 
-Not later than July 1, 2009, the Secretary shall submit to Congress a report on the programs under this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
+Not later than July 1, 2011, the Secretary shall submit to Congress a report on the programs under this section. The report shall include information on savings, reductions in cost-sharing, access to and quality of items and services, and satisfaction of individuals.
 
-#### (e) Demonstration project for clinical laboratory services
+#### (e) Repealed. Pub. L. 110–275, title I, §145(a)(1), July 15, 2008, 122 Stat. 2547
 
-#### (1) In general
+#### (f) Competitive acquisition ombudsman
 
-&emsp;The Secretary shall conduct a demonstration project on the application of competitive acquisition under this section to clinical diagnostic laboratory tests—
+The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
-&emsp;&emsp;(A) for which payment would otherwise be made under section 1395<i>l</i>(h) of this title (other than for pap smear laboratory tests under paragraph (7) of such section) or section 1395m(d)(1) of this title (relating to colorectal cancer screening tests); and
-
-&emsp;&emsp;(B) which are furnished by entities that did not have a face-to-face encounter with the individual.
-
-#### (2) Terms and conditions
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), such project shall be under the same conditions as are applicable to items and services described in subsection (a)(2) of this section, excluding subsection (b)(5)(B) of this section and other conditions as the Secretary determines to be appropriate.
-
-#### (B) Application of CLIA quality standards
-
-&emsp;&emsp;The quality standards established by the Secretary under section 263a of this title for clinical diagnostic laboratory tests shall apply to such tests under the demonstration project under this section in lieu of quality standards described in subsection (b)(2)(A)(i) of this section.
-
-#### (3) Report
-
-&emsp;The Secretary shall submit to Congress—
-
-&emsp;&emsp;(A) an initial report on the project not later than December 31, 2005; and
-
-&emsp;&emsp;(B) such progress and final reports on the project after such date as the Secretary determines appropriate.
-
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568.)
 
 #### References in Text
 
@@ -270,9 +366,45 @@ A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as a
 
 #### Amendments
 
+2008—Subsec. (a)(1)(B)(i). Pub. L. 110–275, §154(a)(1)(A)(i), inserted “consistent with subparagraph (D)” after “in a manner” in introductory provisions.
+
+Subsec. (a)(1)(B)(i)(II). Pub. L. 110–275, §154(a)(1)(A)(ii), substituted “an additional 70” for “80” and “in 2011” for “in 2009”.
+
+Subsec. (a)(1)(B)(i)(III). Pub. L. 110–275, §154(a)(1)(A)(iii), substituted “after 2011 (or, in the case of national mail order for items and services, after 2010)” for “after 2009”.
+
+Subsec. (a)(1)(D) to (F). Pub. L. 110–275, §154(a)(1)(A)(iv), added subpars. (D) to (F).
+
+Subsec. (a)(2)(A). Pub. L. 110–275, §154(a)(1)(B), which directed amendment of par. (2)(A) of subsec. (a)(1) by inserting “and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs)” before period at end, was executed by making the insertion in subsec. (a)(2)(A), to reflect the probable intent of Congress.
+
+Subsec. (a)(7). Pub. L. 110–275, §154(d)(1), added par. (7).
+
+Subsec. (b)(3)(C). Pub. L. 110–275, §154(b)(2), added subpar. (C).
+
+Subsec. (b)(10). Pub. L. 110–275, §154(d)(3)(B), added par. (10). Former par. (10) redesignated (11).
+
+Subsec. (b)(11). Pub. L. 110–275, §154(d)(3)(A), redesignated par. (10) as (11).
+
+Subsec. (b)(11)(C). Pub. L. 110–275, §154(d)(4)(A), inserted “and the identification of areas under subsection (a)(1)(D)(iii)” after “(a)(1)(A)”.
+
+Subsec. (b)(11)(D). Pub. L. 110–275, §154(d)(4)(B), inserted “and implementation of subsection (a)(1)(D)” after “(a)(1)(B)”.
+
+Subsec. (b)(11)(G). Pub. L. 110–275, §154(d)(4)(C)–(E), added subpar. (G).
+
+Subsec. (c)(5). Pub. L. 110–275, §154(c)(2)(A), substituted “December 31, 2011” for “December 31, 2009”.
+
+Subsec. (d). Pub. L. 110–275, §154(c)(2)(B), substituted “July 1, 2011” for “July 1, 2009”.
+
+Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on the application of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
+
+Subsec. (f). Pub. L. 110–275, §154(b)(3), added subsec. (f).
+
 2003—Pub. L. 108–173 amended section catchline and text generally, substituting provisions relating to competitive acquisition of certain items and services for provisions relating to demonstration projects for competitive acquisition of items and services.
 
 1999—Subsec. (b)(2). Pub. L. 106–113 inserted “and” after “specified by the Secretary”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 154 of Pub. L. 110–275 effective June 30, 2008, see section 154(e) of Pub. L. 110–275, set out as a note under section 1395m of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -280,23 +412,49 @@ Amendment by Pub. L. 106–113 effective as if included in the enactment of the 
 
 #### GAO Report on Impact of Competitive Acquisition on Suppliers
 
-Pub. L. 108–173, title III, §302(b)(3), Dec. 8, 2003, 117 Stat. 2230, provided that:
+Pub. L. 108–173, title III, §302(b)(3), Dec. 8, 2003, 117 Stat. 2230, as amended by Pub. L. 110–275, title I, §154(c)(1), July 15, 2008, 122 Stat. 2565, provided that:
 
 “(A)
 
-Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], asamended by paragraph (1), on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment.
+Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, Pub. L. 110–275\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
 
 “(B)
 
-Report.—Not later than January 1, 2009, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.”
+Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.
+
+“(C)
+
+Topics.—The topics specified in this subparagraph, for the study under subparagraph (A) concerning the competitive acquisition program, are the following:
+
+&emsp;“(i) Beneficiary access to items and services under the program, including the impact on such access of awarding contracts to bidders that—
+
+&emsp;&emsp;“(I) did not have a physical presence in an area where they received a contract; or
+
+&emsp;&emsp;“(II) had no previous experience providing the product category they were contracted to provide.
+
+&emsp;“(ii) Beneficiary satisfaction with the program and cost savings to beneficiaries under the program.
+
+&emsp;“(iii) Costs to suppliers of participating in the program and recommendations about ways to reduce those costs without compromising quality standards or savings to the Medicare program.
+
+&emsp;“(iv) Impact of the program on small business suppliers.
+
+&emsp;“(v) Analysis of the impact on utilization of different items and services paid within the same Healthcare Common Procedure Coding System (HCPCS) code.
+
+&emsp;“(vi) Costs to the Centers for Medicare \& Medicaid Services, including payments made to contractors, for administering the program compared with administration of a fee schedule, in comparison with the relative savings of the program.
+
+&emsp;“(vii) Impact on access, Medicare spending, and beneficiary spending of any difference in treatment for diabetic testing supplies depending on how such supplies are furnished.
+
+&emsp;“(viii) Such other topics as the Comptroller General determines to be appropriate.”
 
 #### Report on Activities of Suppliers
 
-Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, provided that: “The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[this section\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2009, the Inspector General shall submit to Congress a report on such study.”
+Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended by Pub. L. 110–275, title I, §154(c)(2)(C), July 15, 2008, 122 Stat. 2566, provided that: “The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[this section\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2011, the Inspector General shall submit to Congress a report on such study.”
 
 #### Study by GAO
 
 Section 4319(c) of Pub. L. 105–33 provided that: “The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “acquisition”.</i>
 

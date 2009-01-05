@@ -32,9 +32,9 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–555, title I, §121, Dec. 21, 2000, 114 Stat. 2766, provided that: “This subtitle \[subtitle B (§§121,122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Act of 2000’.”
+Pub. L. 106–555, title I, §121, Dec. 21, 2000, 114 Stat. 2766, provided that: “This subtitle \[subtitle B (§§121, 122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5107 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Act of 2000’.”
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 103–206 provided that: “This title \[enacting this chapter and amending section 4107 of this title and provisions set out as a note under section 1851 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
+Section 801 of title VIII of Pub. L. 103–206 provided that: “This title \[enacting this chapter and amending section 4107 of this title and provisions set out as a noteunder section 1851 of this title\] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
 

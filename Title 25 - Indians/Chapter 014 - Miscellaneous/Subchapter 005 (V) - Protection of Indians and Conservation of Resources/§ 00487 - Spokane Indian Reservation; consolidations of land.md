@@ -2,7 +2,7 @@
 
 #### (a) Purchase, sale, and exchange
 
-For the purpose of effecting consolidations of land situated within the Spokane Indian Reservation in the State of Washington into the ownership of the tribe and of individual tribal members and for the purpose of attaining and preserving an economic land base for Indian use, alleviating problems of Indian heirship and assisting in the productive leasing, disposition, and other use of tribal lands, the Secretary of the Interior is authorized in his discretion to:
+For the purpose of effecting consolidations of land situated within the Spokane Indian Reservation in the State of Washington into the ownership of the tribe and of individual tribal members and for the purpose of attaining and preserving an economic land base for Indian use, alleviating problems of Indian heirship and assisting in the productive leasing, disposition,and other use of tribal lands, the Secretary of the Interior is authorized in his discretion to:
 
 (1) Purchase for the Spokane Tribe of Indians with any funds of such tribe and to otherwise acquire by gift, exchange, or relinquishment any lands or interest in lands or improvements thereon within the Spokane Indian Reservation.
 
@@ -16,7 +16,7 @@ The Secretary of the Interior is authorized to sell and exchange individual Indi
 
 #### (c) Nontaxability
 
-Title to lands, or any interests therein, acquired pursuant to this Act for the SpokaneTribe or individual enrolled members thereof, shall be taken in the name of the United States of America in trust for the tribe or individual Indian, and shall be nontaxable as other tribal and allotted Indian trust lands of the Spokane Reservation.
+Title to lands, or any interests therein, acquired pursuant to this Act for the Spokane Tribe or individual enrolled members thereof, shall be taken in the name of the United States of America in trust for the tribe or individual Indian, and shall be nontaxable as other tribal and allotted Indian trust lands of the Spokane Reservation.
 
 #### (d) Lands held by mortgage or deed of trust
 

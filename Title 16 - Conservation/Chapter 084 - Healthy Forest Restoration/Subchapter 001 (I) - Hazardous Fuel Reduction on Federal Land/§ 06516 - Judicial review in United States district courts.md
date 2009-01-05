@@ -18,7 +18,7 @@ In the judicial review of an action challenging an authorized hazardous fuel red
 
 #### (A) In general
 
-&emsp;&emsp;A court of competent jurisdiction may issue 1 or more renewals of any preliminaryinjunction, or stay pending appeal, granted under paragraph (1).
+&emsp;&emsp;A court of competent jurisdiction may issue 1 or more renewals of any preliminary injunction, or stay pending appeal, granted under paragraph (1).
 
 #### (B) Updates
 

@@ -90,7 +90,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1–106. (a) The Governor of the Canal Zone shall identify, to the extent feasible, the closest surviving next of kin of each deceased United States citizen buried in the Mount Hope and Corozal Cemeteries, and of such next of kin of each member of the immediate family that is buried with such United States citizen.
 
-(b) The Governor shall provide notice to the next of kin of such deceased buried in Mount Hope Cemetery that the Government plans to remove the deceased to Corozal Cemetery unless the next of kin requests in writing, not later than three months after the first issuance of such notification, either that the remains not be removed from Mount Hope Cemetery, or that the remains be moved to, and reinterred in, the United States in a cemetery or other burial site designated by the next of kin.
+(b) The Governor shall provide notice to the next of kin of such deceased buried in Mount Hope Cemeterythat the Government plans to remove the deceased to Corozal Cemetery unless the next of kin requests in writing, not later than three months after the first issuance of such notification, either that the remains not be removed from Mount Hope Cemetery, or that the remains be moved to, and reinterred in, the United States in a cemetery or other burial site designated by the next of kin.
 
 (c) The Governor shall also provide notice to the next of kin of such deceased who are buried in Corozal Cemetery that the Government will disinter and transport such deceased to the United States for reinterment in a cemetery or other burial site designated by the next of kin, if the next of kin so requests in writing not later than April 1, 1982.
 

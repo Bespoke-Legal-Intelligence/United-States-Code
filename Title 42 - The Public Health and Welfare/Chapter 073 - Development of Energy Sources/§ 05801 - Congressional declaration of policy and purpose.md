@@ -10,7 +10,7 @@ The Congress finds that, to best achieve these objectives, improve Government op
 
 #### (c) Separation of licensing and regulatory functions of Atomic Energy Commission
 
-The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
+The Congress finds that it is in the public interest that the licensing and related regulatoryfunctions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
 
 #### (d) Small business participation
 
@@ -24,7 +24,7 @@ Determination of priorities which are warranted should be based on such consider
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date; Interim Appointments
 

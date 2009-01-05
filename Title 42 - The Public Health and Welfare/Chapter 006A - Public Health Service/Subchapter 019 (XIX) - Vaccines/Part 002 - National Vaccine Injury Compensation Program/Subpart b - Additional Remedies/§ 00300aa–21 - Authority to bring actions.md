@@ -8,7 +8,7 @@ After judgment has been entered by the United States Court of Federal Claims or,
 
 &emsp;(2) if the judgment did not award compensation, an election in writing to accept the judgment or to file a civil action for damages for such injury or death.
 
-> An election shall be filed under this subsection not later than 90 days after the date of the court's final judgment with respect to which the election is to be made. If a person required to file an election with the court under this subsection does not file the election within the time prescribed for filing the election, such person shall be deemed to have filed an election toaccept the judgment of the court. If a person elects to receive compensation under a judgment of the court in an action for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, or is deemed to have accepted the judgment of the court in such an action, such person may not bring or maintain a civil action for damages against a vaccine administrator or manufacturer for the vaccine-related injury or death for which the judgment was entered. For limitations on the bringing of civil actions for vaccine-related injuries or deaths associated with the administration of a vaccine after October 1, 1988, see section 300aa–11(a)(2) of this title.
+> An election shall be filed under this subsection not later than 90 days after the date of the court's final judgment with respect to which the election is to be made. If a person required to file an election with the court under this subsection does not file the election within the time prescribed for filing the election, such person shall be deemed to have filed an election to accept the judgment of the court. If a person elects to receive compensation under a judgment of the court in an action for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, or is deemed to have accepted the judgment of the court in such an action, such person may not bring or maintain a civil action for damages against a vaccine administrator or manufacturer for the vaccine-related injury or death for which the judgment was entered. For limitations on the bringing of civil actions for vaccine-related injuries or deaths associated with the administration of a vaccine after October 1, 1988, see section 300aa–11(a)(2) of this title.
 
 #### (b) Continuance or withdrawal of petition
 
@@ -16,7 +16,7 @@ A petitioner under a petition filed under section 300aa–11 of this title may s
 
 &emsp;(1) a special master fails to make a decision on such petition within the 240 days prescribed by section 300aa–12(d)(3)(A)(ii) of this title (excluding (i) any period of suspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title), or
 
-&emsp;(2) the court fails to enter a judgment under section 300aa–12 of this title on the petition within 420 days (excluding (i) any period of suspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title) after the date on which the petition was filed.
+&emsp;(2) the court fails to enter a judgment under section 300aa–12 of this title on the petition within 420 days (excluding (i) any period ofsuspension under section 300aa–12(d)(3)(C) or 300aa–12(d)(3)(D) of this title, and (ii) any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title) after the date on which the petition was filed.
 
 > Such a notice shall be filed within 30 days of the provision of the notice required by section 300aa–12(g) of this title.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 101–502, §5(f)(2), amended subsec. (b) generally. Prior 
 
 Pub. L. 101–239, §6601(n)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “If a person elects to receive compensation under a judgment of the court or is deemed to have accepted the judgment of the court, such person may not bring or maintain a civil action for damages against a vaccine manufacturer for the vaccine-related injury or death for which the judgment was entered.”
 
-Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a noticeshall be filed not later than 90 days after the expiration of such 365-day period.”
+Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted “within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)” for “within 365 days” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a notice shall be filed not later than 90 days after the expiration of such 365-day period.”
 
 1988—Subsec. (a). Pub. L. 100–360 added Pub. L. 100–203, §4308(c), see 1987 Amendment note below.
 
@@ -68,7 +68,7 @@ Amendment by section 5(f)(1) of Pub. L. 101–502 effective Nov. 14, 1986, and a
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 420-day period prescribed in subsec. (b) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 420-day period prescribed in subsec. (b) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 

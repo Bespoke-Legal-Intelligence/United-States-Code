@@ -122,7 +122,7 @@ Not later than January 31, 2010, the Comptroller General of the United States sh
 
 &emsp;(2) evaluates the National Weather Service's ability to achieve continued improvements in the delivery of tsunami detection, forecasting, and warning services by assessing policies and plans for the evolution of modernization systems, models, and computational abilities (including the adoption of new technologies); and
 
-&emsp;(3) lists the contributions of funding or other resources to the program by other Federalagencies, particularly agencies participating in the program.
+&emsp;(3) lists the contributions of funding or other resources to the program by other Federal agencies, particularly agencies participating in the program.
 
 #### (j) External review
 

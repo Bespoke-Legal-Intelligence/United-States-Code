@@ -1,8 +1,8 @@
 ### §5319. Bicycle facilities
 
-A project to provide access for bicycles to public transportation facilities, to provide shelters and parking facilities for bicycles in or around public transportation facilities, or to install equipment for transporting bicycles on public transportation vehicles is a capital project eligible for assistance under sections 5307, 5309, and 5311 of this title. Notwithstanding sections 5307(e), 5309(h), and 5311(g) of this title, a grant of the United States Government under this chapter for a project made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) <sup>1</sup> and the project involves providing bicycle access to public transportation, that grant or portion of that grant shall be at a Federal share of 95 percent.
+A project to provide access for bicycles to public transportation facilities, to provide shelters and parking facilities for bicycles in or around public transportation facilities, or to install equipment for transporting bicycles on public transportation vehicles is a capital project eligible for assistance under sections 5307, 5309, and 5311 of this title. Notwithstanding sections 5307(e), 5309(h), and 5311(g) of this title, a grant of the United States Government under this chapter for a project made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(d)(1)(K) and the project involves providing bicycle access to public transportation, that grant or portion of that grant shall be at a Federal share of 95 percent.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 105–178, title III, §3019, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §3002(b)(4), Aug. 10, 2005, 119 Stat. 1545.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 105–178, title III, §3019, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §3002(b)(4), Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(h), June 6, 2008, 122 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -22,15 +22,11 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §25; added Apr. 2, 1987, Pub. L. 
 
 The words “For purposes of this chapter” and “racks or other” are omitted as surplus. The word “grant” is substituted for “share” for consistency in this chapter.
 
-#### References in Text
-
-Subsec. (k) of section 5307, referred to in text, was repealed and subsec. (n) was redesignated (k) by Pub. L. 109–59, title III, §3009(a), Aug. 10, 2005, 119 Stat. 1568.
-
 #### Amendments
+
+2008—Pub. L. 110–244 substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
 
 2005—Pub. L. 109–59 substituted “public transportation” for “mass transportation” wherever appearing.
 
 1998—Pub. L. 105–178 substituted “made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent” for “under this section is for 90 percent of the cost of the project”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

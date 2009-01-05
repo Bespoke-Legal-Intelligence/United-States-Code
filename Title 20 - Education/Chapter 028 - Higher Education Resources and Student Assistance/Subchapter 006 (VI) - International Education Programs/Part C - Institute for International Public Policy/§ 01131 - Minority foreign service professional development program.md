@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary is authorized to award a grant, on a competitive basis, to an eligible recipient to enable such recipient to establish an Institute for International Public Policy (hereafter in this part referred to as the “Institute”). The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities inthe international service, including private international voluntary organizations and the foreign service of the United States. Such program shall include a program for such students to study abroad in their junior year, fellowships for graduate study, internships, intensive academic programs such as summer institutes, or intensive language training.
+The Secretary is authorized to award a grant, on a competitive basis, to an eligible recipient to enable such recipient to establish an Institute for International Public Policy (hereafter in this part referred to as the “Institute”). The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the internationalservice, including private international voluntary organizations and the foreign service of the United States. Such program shall include a program for such students to study abroad in their junior year, fellowships for graduate study, internships, intensive academic programs such as summer institutes, or intensive language training.
 
 #### (b) “Eligible recipient” defined
 
@@ -12,9 +12,11 @@ The Secretary is authorized to award a grant, on a competitive basis, to an elig
 
 &emsp;&emsp;(A) An institution eligible for assistance under part B of subchapter III of this chapter.
 
-&emsp;&emsp;(B) An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.
+&emsp;&emsp;(B) A tribally controlled college or university or Alaska Native or Native Hawaiian-serving institution eligible for assistance under part A or B of subchapter III, or an institution eligible for assistance under subchapter V.
 
-&emsp;&emsp;(C) An institution of higher education with programs in training foreign service professionals.
+&emsp;&emsp;(C) An institution of higher education that serves substantial numbers of underrepresented minority students.
+
+&emsp;&emsp;(D) An institution of higher education with programs in training foreign service professionals.
 
 #### (2) Host institution
 
@@ -22,7 +24,13 @@ The Secretary is authorized to award a grant, on a competitive basis, to an elig
 
 #### (c) Application
 
-Each eligible recipient desiring a grant under this section shall submit an application at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+#### (1) In general
+
+&emsp;Each eligible recipient desiring a grant under this section shall submit an application at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+
+#### (2) Content of application
+
+&emsp;Each application submitted under paragraph (1) shall include a description of how the activities funded by the grant will reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs, where applicable.
 
 #### (d) Duration
 
@@ -32,7 +40,7 @@ Grants made pursuant to this section shall be awarded for a period not to exceed
 
 The eligible recipient of a grant under this section shall contribute to the conduct of the program supported by the grant an amount from non-Federal sources equal to at least one-half the amount of the grant, which contribution may be in cash or in kind.
 
-(Pub. L. 89–329, title VI, §621, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734; amended Pub. L. 105–244, title VI, §603(a), Oct. 7, 1998, 112 Stat. 1783.)
+(Pub. L. 89–329, title VI, §621, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734; amended Pub. L. 105–244, title VI, §603(a), Oct. 7, 1998, 112 Stat. 1783; Pub. L. 110–315, title VI, §612, Aug. 14, 2008, 122 Stat. 3339.)
 
 #### Prior Provisions
 
@@ -41,6 +49,12 @@ A prior section 1131, Pub. L. 89–329, title VI, §621, as added Pub. L. 96–3
 Another prior section 1131, Pub. L. 89–329, title VI, §621, Nov. 8, 1965, 79 Stat. 1266, related to grants for operating faculty development program workshops and institutes, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §612(1), substituted “The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreign service of the United States.” for “The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States.”
+
+Subsec. (b)(1)(B) to (D). Pub. L. 110–315, §612(2), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.”
+
+Subsec. (c). Pub. L. 110–315, §612(3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 1998—Subsec. (e). Pub. L. 105–244 substituted “one-half” for “one-fourth”.
 

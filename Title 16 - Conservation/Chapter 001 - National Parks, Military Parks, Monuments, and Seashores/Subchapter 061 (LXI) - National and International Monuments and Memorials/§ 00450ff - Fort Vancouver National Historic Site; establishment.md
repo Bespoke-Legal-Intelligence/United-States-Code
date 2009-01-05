@@ -42,7 +42,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 
 “(a)
 
-Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from willing sellers only, by donation, purchase with donated or appropriatedfunds, or exchange, except that lands or interests in lands owned by the City may be acquired by donation only.
+Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from willing sellers only, by donation, purchase with donated or appropriated funds, or exchange, except that lands or interests in lands owned by the City may be acquired by donation only.
 
 “(b)
 

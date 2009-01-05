@@ -18,6 +18,98 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program
+
+Pub. L. 110–181, div. A, title I, §124, Jan. 28, 2008, 122 Stat. 28, provided that:
+
+“(a)
+
+In General.—Concurrent with approving the start of construction of the first ship for any major shipbuilding program, the Secretary of the Navy shall—
+
+&emsp;“(1) submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the results of any production readiness review; and
+
+&emsp;“(2) certify to the congressional defense committees that the findings of any such review support commencement of construction.
+
+“(b)
+
+Report.—The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
+
+&emsp;“(1) The maturity of the ship's design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
+
+&emsp;“(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
+
+&emsp;“(3) The readiness of the shipyard facilities and workforce to begin construction.
+
+&emsp;“(4) The Navy's estimated cost at completion and the adequacy of the budget to support the estimate.
+
+&emsp;“(5) The Navy's estimated delivery date and description of any variance to the contract delivery date.
+
+&emsp;“(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.
+
+“(c)
+
+Applicability.—This section applies to each major shipbuilding program beginning after the date of the enactment of this Act \[Jan. 28, 2008\].
+
+“(d)
+
+Definitions.—For the purposes of subsection (a):
+
+&emsp;“(1)
+
+Start of construction.—The term ‘start of construction’ means the beginning of fabrication of the hull and superstructure of the ship.
+
+&emsp;“(2)
+
+First ship.—The term ‘first ship’ applies to a ship if—
+
+&emsp;&emsp;“(A) the ship is the first ship to be constructed under that shipbuilding program; or
+
+&emsp;&emsp;“(B) the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
+
+&emsp;“(3)
+
+Major shipbuilding program.—The term ‘major shipbuilding program’ means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
+
+&emsp;“(4)
+
+Production readiness review.—The term ‘production readiness review’ means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.”
+
+#### Policy Relating to Major Combatant Vessels of the Strike Forces of the United States Navy
+
+Pub. L. 110–181, div. A, title X, §1012, Jan. 28, 2008, 122 Stat. 303, as amended by Pub. L. 110–417, \[div. A\], title X, §1015, Oct. 14, 2008, 122 Stat. 4586, provided that:
+
+“(a)
+
+Integrated Nuclear Power Systems.—It is the policy of the United States to construct the major combatant vessels of the strike forces of the United States Navy, including all new classes of such vessels, with integrated nuclear power systems.
+
+“(b)
+
+Requirement To Request Nuclear Vessels.—If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall be for such a vessel with an integrated nuclear power system, unless the Secretary of Defense submits with the request a notification to Congress that the inclusion of an integrated nuclear power system in such vessel is not in the national interest.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Major combatant vessels of the strike forces of the united states navy.—The term ‘major combatant vessels of the strike forces of the United States Navy’ means the following:
+
+&emsp;&emsp;“(A) Submarines.
+
+&emsp;&emsp;“(B) Aircraft carriers.
+
+&emsp;&emsp;“(C) Cruisers, battleships, or other large surface combatants whose primary mission includes protection of carrier strike groups, expeditionary strike groups, and vessels comprising a sea base.
+
+&emsp;&emsp;“(D) Amphibious assault ships, including dock landing ships (LSD), amphibious transport–dock ships (LPD), helicopter assault ships (LHA/LHD), and amphibious command ships (LCC), if such vessels exceed 15,000 dead weight ton light ship displacement.
+
+&emsp;“(2)
+
+Integrated nuclear power system.—The term ‘integrated nuclear power system’ means a ship engineering system that uses a naval nuclear reactor as its energy source and generates sufficient electric energy to provide power to the ship's electrical loads, including its combat systems and propulsion motors.
+
+&emsp;“(3)
+
+Budget.—The term ‘budget’ means the budget that is submitted to Congress by the President under section 1105(a) of title 31, United States Code.”
+
 #### Alternative Technologies for Future Surface Combatants
 
 Pub. L. 109–364, div. A, title I, §128, Oct. 17, 2006, 120 Stat. 2109, provided that:
@@ -156,7 +248,7 @@ Definitions.—For purposes of subsection (c):
 
 &emsp;&emsp;“(E) Tax policies and practices that favor the shipbuilding and repair industry, directly or indirectly, such as tax credits, deductions, exemptions and preferences, including accelerated depreciation, if the benefits are not generally available to persons or firms not engaged in shipbuilding or repair.
 
-&emsp;&emsp;“(F) Any official regulation or practice that authorizes or encourages persons or firms engaged inshipbuilding or repair to enter into anticompetitive arrangements.
+&emsp;&emsp;“(F) Any official regulation or practice that authorizes or encourages persons or firms engaged in shipbuilding or repair to enter into anticompetitive arrangements.
 
 &emsp;&emsp;“(G) Any indirect support directly related, in law or in fact, to shipbuilding and repair at national yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
 
@@ -310,7 +402,7 @@ Pub. L. 95–485, title VIII, §811, Oct. 20, 1978, 92 Stat. 1624, prohibited Se
 
 #### Naval Ship New Construction and Conversion Program; Reports to Congressional Committees
 
-Pub. L. 94–106, title VIII, §808, Oct. 7, 1975, 89 Stat. 539, directed Secretary of Defense to submit a five-year naval ship new construction and conversion programwith President's budget for fiscal year beginning Oct. 1, 1976, and to report annually thereafter on changes in the program, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(g), Nov. 5, 1990, 104 Stat. 1672.
+Pub. L. 94–106, title VIII, §808, Oct. 7, 1975, 89 Stat. 539, directed Secretary of Defense to submit a five-year naval ship new construction and conversion program with President's budget for fiscal year beginning Oct. 1, 1976, and to report annually thereafter on changes in the program, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(g), Nov. 5, 1990, 104 Stat. 1672.
 
 #### Nuclear Powered Major Combatant Vessels; Construction; Definitions; Report to Congress by Secretary of Defense; Limitations on Authorization or Appropriation Requests: Report to Congress by President of Alternate Program
 

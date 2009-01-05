@@ -48,9 +48,9 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-1993—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”.
+<b>1993</b>—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”.
 
-1991—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

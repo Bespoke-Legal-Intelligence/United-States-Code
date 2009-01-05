@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) an educational organization described in section 170(b)(1)(A)(ii);
 
-&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributed by the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
+&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributedby the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
 
 &emsp;&emsp;&emsp;(iv) an organization described in section 501(c)(3), if such organization is operated, supervised, or controlled by or in connection with a religious organization described in clause (i);
 
@@ -98,9 +98,11 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;(12) such information as the Secretary may require with respect to any excess benefit transaction (as defined in section 4958),
 
-&emsp;(13) such information with respect to disqualified persons as the Secretary may prescribe, and
+&emsp;(13) such information with respect to disqualified persons as the Secretary may prescribe,
 
-&emsp;(14) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
+&emsp;(14) such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies, and
+
+&emsp;(15) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 
 > For purposes of paragraph (8), if section 4911(f) applies to the organization for the taxable year, such organization shall furnish the amounts with respect to the affiliated group as well as with respect to such organization.
 
@@ -196,7 +198,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 #### (1) In general
 
-&emsp;This section shall apply to a political organization (as defined by section 527(e)(1)) which has gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
+&emsp;This section shall apply to a political organization (as defined by section 527(e)(1)) whichhas gross receipts of $25,000 or more for the taxable year. In the case of a political organization which is a qualified State or local political organization (as defined in section 527(e)(5)), the preceding sentence shall be applied by substituting “$100,000” for “$25,000”.
 
 #### (2) Annual returns
 
@@ -240,7 +242,7 @@ Each controlling organization (within the meaning of section 512(b)(13)) which i
 
 #### (i) Additional notification requirements
 
-Any organization the gross receipts of which in any taxable year result in such organizationbeing referred to in subsection (a)(3)(A)(ii) or (a)(3)(B)—
+Any organization the gross receipts of which in any taxable year result in such organization being referred to in subsection (a)(3)(A)(ii) or (a)(3)(B)—
 
 &emsp;(1) shall furnish annually, in electronic form, and at such time and in such manner as the Secretary may by regulations prescribe, information setting forth—
 
@@ -300,11 +302,11 @@ Every organization described in section 509(a)(3) shall, on the return required 
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919.)
 
-#### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of limitation amount for taxable years beginning in 2008 for determining applicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.34 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -317,6 +319,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2008—Subsec. (b)(14), (15). Pub. L. 110–343 added par. (14) and redesignated former par. (14) as (15).
 
 2006—Subsec. (a)(1). Pub. L. 109–222, §516(b)(1)(B), substituted “paragraph (3)” for “paragraph (2)”.
 
@@ -406,9 +410,13 @@ Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to sectio
 
 1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, provided that: “The amendments made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008.”
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made bysubsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title XII, §1205(c)(2), Aug. 17, 2006, 120 Stat. 1068, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to returns the due date (determined without regard to extensions) of which is after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
 Pub. L. 109–280, title XII, §1223(f), Aug. 17, 2006, 120 Stat. 1091, provided that: “The amendments made by this section \[amending this section and sections 6652 and 7428 of this title\] shall apply to notices and returns with respect to annual periods beginning after 2006.”
 
@@ -450,7 +458,7 @@ Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by s
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -32,7 +32,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(4) that the authorized agency shall make a determination whether the provider has beenconvicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
+&emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
 &emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
 
@@ -62,7 +62,7 @@ Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25
 
 Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end “, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
+1994—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted “the provider's fitness to have responsibility for the safety and well-being of children, the elderly, orindividuals with disabilities” for “an individual's fitness to have responsibility for the safety and well-being of children”.
 
 Subsec. (b)(1)(E). Pub. L. 103–322, §320928(a)(2)(A), substituted “to a person to whom the qualified entity provides care” for “to a child to whom the qualified entity provides child care”.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, re
 
 #### Pilot Program for National Criminal History Background Checks and Feasibility Study
 
-Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, §1197, Jan. 5, 2006, 119 Stat. 3131, provided that:
+Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, §1197, Jan. 5, 2006, 119 Stat. 3131; Pub. L. 110–296, §2, July 30, 2008, 122 Stat. 2974; Pub. L. 110–408, §2, Oct. 13, 2008, 122 Stat. 4301, provided that:
 
 “(a)
 
@@ -110,7 +110,7 @@ Costs.—A State may collect a fee to perform a criminal background check under 
 
 &emsp;&emsp;“(F)
 
-Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the AttorneyGeneral determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
+Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
 
 &emsp;“(3)
 
@@ -118,7 +118,7 @@ Child safety pilot program.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Attorney General shall establish a 60-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—The Attorney General shall establish a 78-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;&emsp;“(B)
 

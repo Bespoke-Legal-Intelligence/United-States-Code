@@ -6,11 +6,11 @@
 
 &emsp;Subject to the requirements of this section and on such other terms and conditions as the Corporation shall consider appropriate, the Corporation—
 
-&emsp;&emsp;(A) shall guarantee the timely payment of principal and interest on the securities issued by a certified facility that represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are held by such facility; and
+&emsp;&emsp;(A) shall guarantee the timely payment of principal and interest on the securities issued by a certified facility that represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the applicable standards established under section 2279aa–8 of this title and which are held by such facility; and
 
 &emsp;&emsp;(B) may issue a security, guaranteed as to the timely payment of principal and interest, that represents an interest solely in, or an obligation fully backed by, a pool consisting of qualified loans that—
 
-&emsp;&emsp;&emsp;(i) meet the standards established under section 2279aa–8 of this title; and
+&emsp;&emsp;&emsp;(i) meet the applicable standards established under section 2279aa–8 of this title; and
 
 &emsp;&emsp;&emsp;(ii) have been purchased and held by the Corporation.
 
@@ -20,7 +20,7 @@
 
 #### (3) Power of Corporation
 
-&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
+&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provideby contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
 
 #### (b) Other responsibilities of and limitations on certified facilities
 
@@ -74,7 +74,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 #### (4) Subsequent years
 
-&emsp;In years subsequent to the year referred to in paragraph (3), the Corporation may provideguarantees without regard to the principal amount of the qualified loans guaranteed.
+&emsp;In years subsequent to the year referred to in paragraph (3), the Corporation may provide guarantees without regard to the principal amount of the qualified loans guaranteed.
 
 #### (e) Purchase of guaranteed securities
 
@@ -100,9 +100,15 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 &emsp;&emsp;The Corporation may not issue obligations pursuant to paragraph (2) under this subsection while any obligation issued by the Corporation under section 2279aa–13(a) of this title remains outstanding.
 
-(Pub. L. 92–181, title VIII, §8.6, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, §601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165.)
+(Pub. L. 92–181, title VIII, §8.6, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, §601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165; Pub. L. 110–234, title V, §5406(b), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(b), June 18, 2008, 122 Stat. 1664, 1920.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, §5406(b), inserted “applicable” before “standards”.
 
 1996—Subsec. (a)(1). Pub. L. 104–105, §107(1), designated part of existing text as subpar. (A) and added subpar. (B).
 
@@ -139,6 +145,10 @@ Subsec. (g)(2). Pub. L. 104–105, §107(3), substituted “2279aa(9) of this ti
 Subsec. (e). Pub. L. 100–399, §601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
 
 Subsec. (f)(1). Pub. L. 100–399, §601(h), substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

@@ -6,7 +6,7 @@ Recognition.—(1) Except as provided in paragraph (4), the Secretary may recogn
 
 (2) The Secretary shall prescribe in regulations (consistent with the Model Rules of Professional Conduct of the American Bar Association) qualifications and standards of conduct for individuals recognized under this section, including a requirement that, as a condition of being so recognized, an individual must—
 
-&emsp;(A) show that such individual is of good moral character and in good repute, is qualified to render claimants valuable service, andis otherwise competent to assist claimants in presenting claims;
+&emsp;(A) show that such individual is of good moral character and in good repute, is qualified to render claimants valuable service, and is otherwise competent to assist claimants in presenting claims;
 
 &emsp;(B) have such level of experience or specialized training as the Secretary shall specify; and
 
@@ -18,7 +18,7 @@ Recognition.—(1) Except as provided in paragraph (4), the Secretary may recogn
 
 (5) The Secretary may prescribe in regulations reasonable restrictions on the amount of fees that an agent or attorney may charge a claimant for services rendered in the preparation, presentation, and prosecution of a claim before the Department. A fee that does not exceed 20 percent of the past due amount of benefits awarded on a claim shall be presumed to be reasonable.
 
-(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent or attorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
+(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent orattorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
 
 (B) The amount of an assessment under subparagraph (A) shall be equal to five percent of the amount of the fee required to be paid to the agent or attorney, except that the amount of such an assessment may not exceed $100.
 
@@ -74,7 +74,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 (B) For purposes of subparagraph (A), a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
-(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
+(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretarywithhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408.)
 
@@ -152,7 +152,7 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secr
 
 Pub. L. 109–461, title I, §101(h), Dec. 22, 2006, 120 Stat. 3408, provided that: “The amendments made by subsections (c)(1) and (d) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 22, 2006\] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”
 
-Pub. L. 109–461, title I, §101(i), Dec. 22, 2006, 120 Stat. 3408, provided that: “No assessments on fees may be collected under paragraph (6) of section 5904(a) of title 38, United States Code (as added by subsection (a)(1)(D) of this section), until the date on which the Secretary of Veterans Affairs prescribes the regulations required by the amendments made by this section \[amending this section and sections 5902, 5903, and 5905 of this title\].”
+Pub. L. 109–461, title I, §101(i), Dec. 22, 2006, 120 Stat. 3408, provided that: “No assessments on fees may be collected under paragraph (6) of section 5904(a) of title 38, United States Code (as added by subsection (a)(1)(D) of this section), until the date on which the Secretary of Veterans Affairs prescribes the regulations \[regulations prescribed effective June 23, 2008, see 73 F.R. 29851\] required by the amendments made by this section \[amending this section and sections 5902, 5903, and 5905 of this title\].”
 
 #### Effective Date of 1998 Amendment
 

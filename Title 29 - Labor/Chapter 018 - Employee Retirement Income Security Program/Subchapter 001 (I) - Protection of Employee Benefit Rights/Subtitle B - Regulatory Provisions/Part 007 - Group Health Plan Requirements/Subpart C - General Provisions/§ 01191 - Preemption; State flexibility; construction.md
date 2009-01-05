@@ -14,11 +14,11 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverage offered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standardor requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 1181 of this title which differs from the standards or requirements specified in such section.
+&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverage offered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standard or requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 1181 of this title which differs from the standards or requirements specified in such section.
 
 #### (2) Exceptions
 
-&emsp;Only in relation to health insurance coverage offered by a health insurance issuer, the provisions of this part do not supersede any provision of State law to the extent that such provision—
+&emsp;Only in relation to health insurance coverage offered by a health insurance issuer, the provisions of this part do not supersede anyprovision of State law to the extent that such provision—
 
 &emsp;&emsp;(A) substitutes for the reference to “6-month period” in section 1181(a)(1) of this title a reference to any shorter period of time;
 

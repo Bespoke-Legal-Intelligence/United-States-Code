@@ -12,13 +12,13 @@
 
 #### (2) Director of Trade Policy
 
-&emsp;There shall be a Director of Trade Policy (in this subsection referred to as the “Director”), who shall be subject to the direction and control of the official designated pursuant to paragraph (1). The Director shall—
+&emsp;There shall be a Director of Trade Policy (in this subsection referred to as the “Director”),who shall be subject to the direction and control of the official designated pursuant to paragraph (1). The Director shall—
 
 &emsp;&emsp;(A) advise the official designated pursuant to paragraph (1) regarding all aspects of Department policies relating to the trade and customs revenue functions of the Department;
 
 &emsp;&emsp;(B) coordinate the development of Department-wide policies regarding trade and customs revenue functions and trade facilitation; and
 
-&emsp;&emsp;(C) coordinate the trade and customs revenue-related policies of the Department withthe policies of other Federal departments and agencies.
+&emsp;&emsp;(C) coordinate the trade and customs revenue-related policies of the Department with the policies of other Federal departments and agencies.
 
 #### (b) Study; report
 
@@ -86,7 +86,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 1 year after any reorganization referred to in paragraph (1) takes place,the Secretary, in consultation with the Commercial Operations Advisory Committee, shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
+&emsp;Not later than 1 year after any reorganization referred to in paragraph (1) takes place, the Secretary, in consultation with the Commercial Operations Advisory Committee, shall submit a report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Such report shall include an assessment of the impact of, and any suggested modifications to, such reorganization.
 
 (Pub. L. 109–347, title IV, §401, Oct. 13, 2006, 120 Stat. 1921.)
 

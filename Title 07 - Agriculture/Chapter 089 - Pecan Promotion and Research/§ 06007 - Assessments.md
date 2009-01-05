@@ -54,7 +54,7 @@ No more than one assessment may be assessed under subsection (a) of this section
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, with the approval of the Secretary and if authorized by State law and requested by such State, a special assessment of one-quarter cent per pound for in-shell pecans, and an appropriate per-pound assessment for shelled pecans as adjusted under paragraph (2), shall be remitted to the Board for the purpose of utilizing such funds by a State pecan marketing board for research projects to promote pecans pursuant to State law.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, with the approval of the Secretary and if authorized by State law and requested by such State, a special assessment of one-quarter cent per pound for in-shell pecans, and an appropriate per-pound assessment for shelled pecans as adjusted under paragraph (2), shall be remitted to the Board for the purpose of utilizing such funds by a State pecan marketing board for researchprojects to promote pecans pursuant to State law.
 
 #### (B) Collection and remittance
 

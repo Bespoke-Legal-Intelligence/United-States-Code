@@ -40,7 +40,7 @@ The Inspector General of each agency shall periodically conduct a review of the 
 
 #### (1) In general
 
-&emsp;Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
+&emsp;Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review,including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
 
 #### (2) Internet availability
 

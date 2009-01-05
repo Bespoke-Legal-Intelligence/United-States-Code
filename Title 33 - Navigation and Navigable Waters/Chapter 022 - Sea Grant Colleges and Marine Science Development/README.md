@@ -25,7 +25,7 @@
 | 1124a, 1125. Repealed. |  |
 | [1126\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001126%20-%20Sea%20grant%20colleges%20and%20sea%20grant%20institutes.md) | Sea grant colleges and sea grant institutes. |
 | [1127\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001127%20-%20Fellowships.md) | Fellowships. |
-| [1128\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001128%20-%20Sea%20grant%20review%20panel.md) | Sea grant review panel. |
+| [1128\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001128%20-%20National%20Sea%20Grant%20Advisory%20Board.md) | National Sea Grant Advisory Board. |
 | [1129\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001129%20-%20Interagency%20cooperation.md) | Interagency cooperation. |
 | [1130\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001130%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A75%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md) | Repealed. |
 | [1131\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001131%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

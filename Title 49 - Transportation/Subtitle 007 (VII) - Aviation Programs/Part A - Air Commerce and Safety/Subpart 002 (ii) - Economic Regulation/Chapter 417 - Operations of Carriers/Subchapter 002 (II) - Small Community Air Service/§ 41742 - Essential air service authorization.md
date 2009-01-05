@@ -10,7 +10,7 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), thereis authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 

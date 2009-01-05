@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxableincome of every insurance company other than a life insurance company.
+Taxes computed as provided in section 11 shall be imposed for each taxable year on the taxable income of every insurance company other than a life insurance company.
 
 #### (b) Alternative tax for certain small companies
 
@@ -80,7 +80,7 @@ Subsecs. (c), (d). Pub. L. 89–809, §104(i)(6)(B), redesignated subsec. (d) as
 
 1962—Pub. L. 87–834, §8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
 
-Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits notrequired for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
+Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
 Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
 

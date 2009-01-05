@@ -8,7 +8,7 @@ In fiscal year 1995 and each succeeding fiscal year—
 
 &emsp;(2) all funds for the operation and enhancement of the DTS shall be directly available for use by the Diplomatic Telecommunications Service Program Office (DTS–PO); and
 
-&emsp;(3) the DTS–PO financial management officer shall be provided direct access to the Department of State financial management system to independently monitor and control the obligation and expenditure of all funds for the operation and enhancement of the DTS.
+&emsp;(3) the DTS–PO financial management officer shall be provided direct access to the Department of State financial management system to independently monitor and control theobligation and expenditure of all funds for the operation and enhancement of the DTS.
 
 #### (b) DTS Policy Board
 

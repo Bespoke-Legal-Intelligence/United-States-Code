@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -142,7 +142,7 @@ The Secretary shall—
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to the excess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
+&emsp;&emsp;&emsp;In this subparagraph, the term “excess number” means, used with respect to theexcess number of unemployed individuals within a State, the number that represents the number of unemployed individuals in excess of 4.5 percent of the civilian labor force in the State.
 
 #### (3) Definitions
 
@@ -168,7 +168,7 @@ The Secretary shall—
 
 #### (3) Reallotment
 
-&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the priorprogram year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
+&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the prior program year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
 
 #### (4) Eligibility
 

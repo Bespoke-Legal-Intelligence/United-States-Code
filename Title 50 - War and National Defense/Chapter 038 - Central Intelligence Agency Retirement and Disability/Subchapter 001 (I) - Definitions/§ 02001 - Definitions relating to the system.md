@@ -60,9 +60,9 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
+<b>2004</b>—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The term ‘Director’ means the Director of Central Intelligence.”
 
-1993—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
+<b>1993</b>—Par. (7). Pub. L. 103–178 substituted “basic pay and amounts deposited” for “basic pay, amounts deposited” and struck out “, and interest determined under section 2121 of this title” after “section 2082(h) of this title”.
 
 #### Effective Date of 2004 Amendment
 
@@ -112,7 +112,7 @@ Amendment by section 307 of Pub. L. 102–88 (amending sections 224 and 225 of P
 
 Pub. L. 101–193, title III, §304(b), Nov. 30, 1989, 103 Stat. 1703, provided that: “The amendment made by this section \[amending section 224(a)(2) of Pub. L. 88–643\] shall be effective as of October 1, 1986.”
 
-Pub. L. 100–453, title III, §302(b)(2), Sept. 29, 1988, 102 Stat. 1907, provided that: “The amendments made byparagraph (1) \[amending section 224 of Pub. L. 88–643\] shall take effect as of October 1, 1986.”
+Pub. L. 100–453, title III, §302(b)(2), Sept. 29, 1988, 102 Stat. 1907, provided that: “The amendments made by paragraph (1) \[amending section 224 of Pub. L. 88–643\] shall take effect as of October 1, 1986.”
 
 Pub. L. 100–453, title III, §302(c)(2), Sept. 29, 1988, 102 Stat. 1907, provided that: “The amendment made by paragraph (1) \[amending section 225(a) of Pub. L. 88–643\] shall take effect as of December 2, 1987.”
 
@@ -174,7 +174,7 @@ Pub. L. 103–36, §1, June 8, 1993, 107 Stat. 104, provided that: “This Act \
 
 #### Short Title of 1992 Amendment
 
-Section 801 of title VIII of Pub. L. 102–496 provided that: “This title \[enacting this chapter, amending sections 403n, 403r, 403r–1, and 403s of this title, sections8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the ‘CIARDS Technical Corrections Act of 1992’.”
+Section 801 of title VIII of Pub. L. 102–496 provided that: “This title \[enacting this chapter, amending sections 403n, 403r, 403r–1, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the ‘CIARDS Technical Corrections Act of 1992’.”
 
 #### Short Title of 1982 Amendment
 
@@ -242,7 +242,7 @@ Ex. Ord. No. 12273, Jan. 16, 1981, 46 F.R. 5854, conformed Central Intelligence 
 
 #### Executive Order No. 12326
 
-Ex. Ord. No. 12326, Sept. 30, 1981, 46 F.R. 48889, as amended by Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R.44751, conformed Central Intelligence Agency and Civil Service Retirement and Disability Systems with regard to notification of loss or reduction of survivor benefits, computation of annuities, cost-of-living increases, accuracy of information, and withholding of State income tax.
+Ex. Ord. No. 12326, Sept. 30, 1981, 46 F.R. 48889, as amended by Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751, conformed Central Intelligence Agency and Civil Service Retirement and Disability Systems with regard to notification of loss or reduction of survivor benefits, computation of annuities, cost-of-living increases, accuracy of information, and withholding of State income tax.
 
 #### Executive Order No. 12443
 

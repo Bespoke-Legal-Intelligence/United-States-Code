@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—(1) Subject to subsections (c) and (d), the Secretary may reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
+General Authority.—(1) Subject to subsections (c) and (d), the Secretary shall reimburse a veteran described in subsection (b) for the reasonable value of emergency treatment furnished the veteran in a non-Department facility.
 
 (2) In any case in which reimbursement is authorized under subsection (a)(1), the Secretary, in the Secretary's discretion, may, in lieu of reimbursing the veteran, make payment of the reasonable value of the furnished emergency treatment directly—
 
@@ -68,7 +68,15 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(B) when such care or services are rendered in a medical emergency of such nature that a prudent layperson reasonably expects that delay in seeking immediate medical attention would be hazardous to life or health; and
 
-&emsp;&emsp;(C) until such time as the veteran can be transferred safely to a Department facility or other Federal facility.
+&emsp;&emsp;(C) until—
+
+&emsp;&emsp;&emsp;(i) such time as the veteran can be transferred safely to a Department facility or other Federal facility and such facility is capable of accepting such transfer; or
+
+&emsp;&emsp;&emsp;(ii) such time as a Department facility or other Federal facility accepts such transfer if—
+
+&emsp;&emsp;&emsp;&emsp;(I) at the time the veteran could have been transferred safely to a Department facility or other Federal facility, no Department facility or other Federal facility agreed to accept such transfer; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the non-Department facility in which such medical care or services was furnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
 
 &emsp;(2) The term “health-plan contract” includes any of the following:
 
@@ -94,11 +102,17 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553.)
+(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–387, §402(a)(1), substituted “shall reimburse” for “may reimburse”.
+
+Subsec. (f)(1)(C). Pub. L. 110–387, §402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
 
 #### Effective Date
 

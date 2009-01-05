@@ -12,7 +12,7 @@ Sections 244, 662e and 665 of title 18, U.S.C., 1940 ed., were consolidated. The
 
 Enumeration of “marshal, deputy marshal, ministerial officer, or other person,” was omitted as surplusage.
 
-Provision making section applicable to cases of prisoners in custody pending extradition or removal proceedings as well as prisoners convicted of offensesagainst the United States was likewise omitted as unnecessary.
+Provision making section applicable to cases of prisoners in custody pending extradition or removal proceedings as well as prisoners convicted of offenses against the United States was likewise omitted as unnecessary.
 
 Changes in phraseology were made.
 

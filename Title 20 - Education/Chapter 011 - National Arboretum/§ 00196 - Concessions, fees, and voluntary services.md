@@ -24,7 +24,7 @@ Any funds received or collected by the Secretary of Agriculture as a result of a
 
 #### (c) Acceptance of voluntary services
 
-The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
+The Secretary of Agriculture may accept the voluntary services of organizations described insubsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
 (Mar. 4, 1927, ch. 505, §6, as added Pub. L. 104–127, title VIII, §890(b), Apr. 4, 1996, 110 Stat. 1181; amended Pub. L. 105–185, title VI, §601(b), June 23, 1998, 112 Stat. 585.)
 
@@ -39,4 +39,6 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 #### Amendments
 
 1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

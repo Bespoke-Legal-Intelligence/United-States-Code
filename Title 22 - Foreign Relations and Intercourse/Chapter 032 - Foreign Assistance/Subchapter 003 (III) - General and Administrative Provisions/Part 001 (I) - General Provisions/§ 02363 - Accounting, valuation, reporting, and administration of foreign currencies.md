@@ -6,7 +6,7 @@ Under the direction of the President, the Secretary of the Treasury shall have r
 
 #### (b) Establishment of exchange rates
 
-The Secretary of the Treasury shall have sole authority to establish for all foreign currencies or credits the exchange rates at which such currencies are to be reported by all agencies of the Government.
+The Secretary of the Treasury shall have sole authority to establish for all foreign currenciesor credits the exchange rates at which such currencies are to be reported by all agencies of the Government.
 
 #### (c) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 

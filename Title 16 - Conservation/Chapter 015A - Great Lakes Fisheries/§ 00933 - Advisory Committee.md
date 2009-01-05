@@ -18,7 +18,7 @@ A member of the advisory committee for one lake may also be a member of the advi
 
 #### (c) Compensation
 
-The members of the advisory committee shall receive no compensation from the Government of the United States for their services as such members. Not more than ten members of all the committees, designated by the committees and approved by the United States Section, may be paid by the Government of the United States for transportation expenses and per diem incident to attendance at the annual meeting of the Commission or of the United States Section.
+The members of the advisory committee shall receive no compensation from the Government of the United States for their services as such members. Not more than ten members of all the committees, designated by the committees and approved by the United States Section, may be paid by the Government of the United States for transportation expenses and per diem incidentto attendance at the annual meeting of the Commission or of the United States Section.
 
 #### (d) Meetings
 

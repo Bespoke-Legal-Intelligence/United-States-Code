@@ -4,7 +4,7 @@ Section, act July 1, 1944, ch. 373, title III, §315, as added Oct. 4, 1988, Pub
 
 #### Prior Provisions
 
-A prior section 247, act July 1, 1944, ch. 373, title III, §315, as added Nov. 10, 1978, Pub. L. 95–626, title II, §203,92 Stat. 3578; amended July 10, 1979, Pub. L. 96–32, §6(h), 93 Stat. 83, related to formula grants to States for preventive health service programs, prior to repeal by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
+A prior section 247, act July 1, 1944, ch. 373, title III, §315, as added Nov. 10, 1978, Pub. L. 95–626, title II, §203, 92 Stat. 3578; amended July 10, 1979, Pub. L. 96–32, §6(h), 93 Stat. 83, related to formula grants to States for preventive health service programs, prior to repeal by Pub. L. 99–117, §12(b), Oct. 7, 1985, 99 Stat. 495.
 
 Another prior section 247, acts July 1, 1944, ch. 373, title III, §315, 58 Stat. 695; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for publication of health educational information, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242<i>o</i>(b) of this title.
 

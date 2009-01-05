@@ -18,7 +18,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(B) the Senate;
 
-&emsp;&emsp;(C) the Capitol Guide Service;
+&emsp;&emsp;(C) the Office of Congressional Accessibility Services;
 
 &emsp;&emsp;(D) the Capitol Police;
 
@@ -38,7 +38,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 #### (5) Employee of the Office of the Architect of the Capitol
 
-&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants.
+&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol or the Botanic Garden.
 
 #### (6) Employee of the Capitol Police
 
@@ -62,7 +62,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
 
-&emsp;&emsp;(D) the Capitol Guide Board, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
+&emsp;&emsp;(D) the Office of Congressional Accessibility Services, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
 
 #### (10) Executive Director
 
@@ -76,11 +76,25 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;The term “Office” means the Office of Compliance.
 
-(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4.)
+(Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+2008—Par. (3)(C). Pub. L. 110–437, §422(b)(1), substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+
+Par. (5). Pub. L. 110–279, which directed substitution of “or the Botanic Garden” for “, the Botanic Garden, or the Senate Restaurant”, was executed by making the substitution for “, the Botanic Garden, or the Senate Restaurants” to reflect the probable intent of Congress.
+
+Par. (9)(D). Pub. L. 110–437, §422(b)(2), substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Board,”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–437, title IV, §422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: “The amendments made by this section \[amending this section and sections 1331 and1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title\] shall take effect on the transfer date \[first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title\].”
+
+Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
 
 #### Short Title
 

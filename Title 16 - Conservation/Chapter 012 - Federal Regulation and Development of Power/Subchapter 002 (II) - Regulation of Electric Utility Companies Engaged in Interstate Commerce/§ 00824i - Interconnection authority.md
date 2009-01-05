@@ -4,7 +4,7 @@
 
 (1) Upon application of any electric utility, Federal power marketing agency, geothermal power producer (including a producer which is not an electric utility), qualifying cogenerator, or qualifying small power producer, the Commission may issue an order requiring—
 
-&emsp;(A) the physical connection of any cogeneration facility, any small power production facility, or the transmission facilities of any electric utility, with the facilities of such applicant,
+&emsp;(A) the physical connection of any cogeneration facility, any small power production facility, or the transmission facilities of anyelectric utility, with the facilities of such applicant,
 
 &emsp;(B) such action as may be necessary to make effective any physical connection described in subparagraph (A), which physical connection is ineffective for any reason, such as inadequate size, poor maintenance, or physical unreliability,
 

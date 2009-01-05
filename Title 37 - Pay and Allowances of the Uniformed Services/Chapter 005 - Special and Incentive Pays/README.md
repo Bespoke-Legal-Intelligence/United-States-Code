@@ -1,77 +1,116 @@
 ### <b>CHAPTER 5—SPECIAL AND INCENTIVE PAYS</b>
 
+#### SUBCHAPTER I—EXISTING SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES
+
 | Sec. |  |
 | :--- | ---: |
-| [301\.](%C2%A7%2000301%20-%20Incentive%20pay%20hazardous%20duty.md) | Incentive pay: hazardous duty. |
-| [301a.](%C2%A7%2000301a%20-%20Incentive%20pay%20aviation%20career.md) | Incentive pay: aviation career. |
-| [301b.](%C2%A7%2000301b%20-%20Special%20pay%20aviation%20career%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: aviation career officers extending period of active duty. |
-| [301c.](%C2%A7%2000301c%20-%20Incentive%20pay%20submarine%20duty.md) | Incentive pay: submarine duty. |
-| [301d.](%C2%A7%2000301d%20-%20Multiyear%20retention%20bonus%20medical%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: medical officers of the armed forces. |
-| [301e.](%C2%A7%2000301e%20-%20Multiyear%20retention%20bonus%20dental%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: dental officers of the armed forces. |
-| [302\.](%C2%A7%2000302%20-%20Special%20pay%20medical%20officers%20of%20the%20armed%20forces.md) | Special pay: medical officers of the armed forces. |
-| [302a.](%C2%A7%2000302a%20-%20Special%20pay%20optometrists.md) | Special pay: optometrists. |
-| [302b.](%C2%A7%2000302b%20-%20Special%20pay%20dental%20officers%20of%20the%20armed%20forces.md) | Special pay: dental officers of the armed forces. |
-| [302c.](%C2%A7%2000302c%20-%20Special%20pay%20psychologists%20and%20nonphysician%20health%20care%20providers.md) | Special pay: psychologists and nonphysician health care providers. |
-| [302d.](%C2%A7%2000302d%20-%20Special%20pay%20accession%20bonus%20for%20registered%20nurses.md) | Special pay: accession bonus for registered nurses. |
-| [302e.](%C2%A7%2000302e%20-%20Special%20pay%20nurse%20anesthetists.md) | Special pay: nurse anesthetists. |
-| [302f.](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md) | Special pay: reserve, recalled, or retained health care officers. |
-| [302g.](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md) | Special pay: Selected Reserve health care professionals in critically short wartime specialties. |
-| [302h.](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md) | Special pay: accession bonus for dental officers. |
-| [302i.](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md) | Special pay: pharmacy officers. |
-| [302j.](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md) | Special pay: accession bonus for pharmacy officers. |
-| [302k.](%C2%A7%2000302k%20-%20Special%20pay%20accession%20bonus%20for%20medical%20officers%20in%20critically%20short%20wartime%20specialties.md) | Special pay: accession bonus for medical officers in critically short wartime specialties. |
+| [301\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301%20-%20Incentive%20pay%20hazardous%20duty.md) | Incentive pay: hazardous duty. |
+| [301a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301a%20-%20Incentive%20pay%20aviation%20career.md) | Incentive pay: aviation career. |
+| [301b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301b%20-%20Special%20pay%20aviation%20career%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: aviation career officers extending period of active duty. |
+| [301c.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301c%20-%20Incentive%20pay%20submarine%20duty.md) | Incentive pay: submarine duty. |
+| [301d.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301d%20-%20Multiyear%20retention%20bonus%20medical%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: medical officers of the armed forces. |
+| [301e.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000301e%20-%20Multiyear%20retention%20bonus%20dental%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: dental officers of the armed forces. |
+| [302\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302%20-%20Special%20pay%20medical%20officers%20of%20the%20armed%20forces.md) | Special pay: medical officers of the armed forces. |
+| [302a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302a%20-%20Special%20pay%20optometrists.md) | Special pay: optometrists. |
+| [302b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302b%20-%20Special%20pay%20dental%20officers%20of%20the%20armed%20forces.md) | Special pay: dental officers of the armed forces. |
+| [302c.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302c%20-%20Special%20pay%20psychologists%20and%20nonphysician%20health%20care%20providers.md) | Special pay: psychologists and nonphysician health care providers. |
+| 302c–1. | Special pay: accession and retention bonuses for psychologists. |
+| [302d.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302d%20-%20Special%20pay%20accession%20bonus%20for%20registered%20nurses.md) | Special pay: accession bonus for registered nurses. |
+| [302e.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302e%20-%20Special%20pay%20nurse%20anesthetists.md) | Special pay: nurse anesthetists. |
+| [302f.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md) | Special pay: reserve, recalled, or retained health care officers. |
+| [302g.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md) | Special pay: Selected Reserve health care professionals in critically short wartime specialties. |
+| [302h.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md) | Special pay: accession bonus for dental officers. |
+| [302i.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md) | Special pay: pharmacy officers. |
+| [302j.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md) | Special pay: accession bonus for pharmacy officers. |
+| [302k.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000302k%20-%20Special%20pay%20accession%20bonus%20for%20medical%20officers%20in%20critically%20short%20wartime%20specialties.md) | Special pay: accession bonus for medical officers in critically short wartime specialties. |
 | 302<i>l.</i> | Special pay: accession bonus for dental specialist officers in critically short wartime specialties. |
-| [303\.](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md) | Special pay: veterinarians. |
-| [303a.](%C2%A7%2000303a%20-%20Special%20pay%20general%20provisions.md) | Special pay: general provisions. |
-| [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
-| [304\.](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md) | Special pay: diving duty. |
-| [305\.](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md) | Special pay: hardship duty pay. |
-| [305a.](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md) | Special pay: career sea pay. |
-| [305b.](%C2%A7%2000305b%20-%20Special%20pay%20service%20as%20member%20of%20Weapons%20of%20Mass%20Destruction%20Civil%20Support%20Team.md) | Special pay: service as member of Weapons of Mass Destruction Civil Support Team. |
-| [306\.](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
-| [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
-| [307\.](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md) | Special pay: special duty assignment pay for enlisted members. |
-| [307a.](%C2%A7%2000307a%20-%20Special%20pay%20assignment%20incentive%20pay.md) | Special pay: assignment incentive pay. |
-| [308\.](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md) | Special pay: reenlistment bonus. |
+| [303\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md) | Special pay: veterinarians. |
+| [303a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000303a%20-%20Special%20pay%20general%20provisions.md) | Special pay: general provisions. |
+| [303b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
+| [304\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md) | Special pay: diving duty. |
+| [305\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md) | Special pay: hardship duty pay. |
+| [305a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md) | Special pay: career sea pay. |
+| [305b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000305b%20-%20Special%20pay%20service%20as%20member%20of%20Weapons%20of%20Mass%20Destruction%20Civil%20Support%20Team.md) | Special pay: service as member of Weapons of Mass Destruction Civil Support Team. |
+| [306\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
+| [306a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
+| [307\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md) | Special pay: special duty assignment pay for enlisted members. |
+| [307a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000307a%20-%20Special%20pay%20assignment%20incentive%20pay.md) | Special pay: assignment incentive pay. |
+| [308\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md) | Special pay: reenlistment bonus. |
 | \[308a. | Repealed.\] |
-| [308b.](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md) | Special pay: reenlistment bonus for members of the Selected Reserve. |
-| [308c.](%C2%A7%2000308c%20-%20Special%20pay%20bonus%20for%20affiliation%20or%20enlistment%20in%20the%20Selected%20Reserve.md) | Special pay: bonus for affiliation or enlistment in the Selected Reserve. |
-| [308d.](%C2%A7%2000308d%20-%20Special%20pay%20members%20of%20the%20Selected%20Reserve%20assigned%20to%20certain%20high%20priority%20units.md) | Special pay: members of the Selected Reserve assigned to certain high priority units. |
+| [308b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md) | Special pay: reenlistment bonus for members of the Selected Reserve. |
+| [308c.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308c%20-%20Special%20pay%20bonus%20for%20affiliation%20or%20enlistment%20in%20the%20Selected%20Reserve.md) | Special pay: bonus for affiliation or enlistment in the Selected Reserve. |
+| [308d.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308d%20-%20Special%20pay%20members%20of%20the%20Selected%20Reserve%20assigned%20to%20certain%20high%20priority%20units.md) | Special pay: members of the Selected Reserve assigned to certain high priority units. |
 | \[308e, 308f. Repealed.\] |  |
-| [308g.](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md) | Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve. |
-| [308h.](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md) | Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve. |
-| [308i.](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md) | Special pay: prior service enlistment bonus. |
-| [308j.](%C2%A7%2000308j%20-%20Special%20pay%20affiliation%20bonus%20for%20officers%20in%20the%20Selected%20Reserve.md) | Special pay: affiliation bonus for officers in the Selected Reserve. |
-| [309\.](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md) | Special pay: enlistment bonus. |
-| [310\.](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md) | Special pay: duty subject to hostile fire or imminent danger. |
+| [308g.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md) | Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve. |
+| [308h.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md) | Special pay: bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the Selected Reserve. |
+| [308i.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md) | Special pay: prior service enlistment bonus. |
+| [308j.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000308j%20-%20Special%20pay%20affiliation%20bonus%20for%20officers%20in%20the%20Selected%20Reserve.md) | Special pay: affiliation bonus for officers in the Selected Reserve. |
+| [309\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md) | Special pay: enlistment bonus. |
+| [310\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md) | Special pay: duty subject to hostile fire or imminent danger. |
 | \[311. | Repealed.\] |
-| [312\.](%C2%A7%2000312%20-%20Special%20pay%20nuclear-qualified%20officers%20extending%20period%20of%20active%20service.md) | Special pay: nuclear-qualified officers extending period of active service. |
+| [312\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000312%20-%20Special%20pay%20nuclear-qualified%20officers%20extending%20period%20of%20active%20service.md) | Special pay: nuclear-qualified officers extending period of active duty.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | \[312a. | Repealed.\] |
-| [312b.](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md) | Special pay: nuclear career accession bonus. |
-| [312c.](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md) | Special pay: nuclear career annual incentive bonus. |
+| [312b.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md) | Special pay: nuclear career accession bonus. |
+| [312c.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md) | Special pay: nuclear career annual incentive bonus. |
 | \[313. | Repealed.\] |
-| [314\.](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified members extending duty at designated locations overseas. |
-| [315\.](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md) | Special pay: engineering and scientific career continuation pay. |
-| [316\.](%C2%A7%2000316%20-%20Special%20pay%20bonus%20for%20members%20with%20foreign%20language%20proficiency.md) | Special pay: bonus for members with foreign language proficiency. |
-| \[316a. | Repealed.\] |
-| [317\.](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md) | Special pay: officers in critical acquisition positions extending period of active duty. |
-| [318\.](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: special warfare officers extending period of active duty. |
-| [319\.](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md) | Special pay: surface warfare officer continuation pay. |
-| [320\.](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md) | Incentive pay: career enlisted flyers. |
-| [321\.](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md) | Special pay: judge advocate continuation pay. |
-| [322\.](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
-| [323\.](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md) | Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units. |
-| [324\.](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md) | Special pay: accession bonus for new officers in critical skills. |
-| [325\.](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md) | Incentive bonus: savings plan for education expenses and other contingencies. |
-| [326\.](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md) | Incentive bonus: conversion to military occupational specialty to ease personnel shortage. |
-| [327\.](%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md) | Incentive bonus: transfer between armed forces. |
-| [328\.](%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md) | Combat-related injury rehabilitation pay. |
-| [329\.](%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md) | Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments. |
-| [330\.](%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md) | Special pay: accession bonus for officer candidates. |
+| [314\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified members extending duty at designated locations overseas. |
+| [315\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md) | Special pay: engineering and scientific career continuation pay. |
+| [316\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000316%20-%20Special%20pay%20bonus%20for%20members%20with%20foreign%20language%20proficiency.md) | Special pay: bonus for members with foreign language proficiency. |
+| [316a.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000316a%20-%20Special%20pay%20incentive%20pay%20for%20members%20of%20precommissioning%20programs%20pursuing%20foreign%20language%20proficiency.md) | Special pay: incentive pay for members of precommissioning programs pursuing foreign language proficiency. |
+| [317\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md) | Special pay: officers in critical acquisition positions extending period of active duty. |
+| [318\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: special warfare officers extending period of active duty. |
+| [319\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md) | Special pay: surface warfare officer continuation pay. |
+| [320\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md) | Incentive pay: career enlisted flyers. |
+| [321\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md) | Special pay: judge advocate continuation pay. |
+| \[322, 323. | Renumbered.\] |
+| [324\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md) | Special pay: accession bonus for new officers in critical skills. |
+| [325\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md) | Incentive bonus: savings plan for education expenses and other contingencies. |
+| [326\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md) | Incentive bonus: conversion to military occupational specialty to ease personnel shortage. |
+| [327\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md) | Incentive bonus: transfer between armed forces. |
+| [328\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md) | Combat-related injury rehabilitation pay. |
+| [329\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md) | Incentive bonus: retired members and reserve component members volunteering for high-demand, low-density assignments. |
+| [330\.](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md) | Special pay: accession bonus for officer candidates. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II—CONSOLIDATION OF SPECIAL PAY, INCENTIVE PAY, AND BONUS AUTHORITIES
+
+|  |  |
+| :--- | ---: |
+| [331\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000331%20-%20General%20bonus%20authority%20for%20enlisted%20members.md) | General bonus authority for enlisted members. |
+| [332\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000332%20-%20General%20bonus%20authority%20for%20officers.md) | General bonus authority for officers. |
+| [333\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000333%20-%20Special%20bonus%20and%20incentive%20pay%20authorities%20for%20nuclear%20officers.md) | Special bonus and incentive pay authorities for nuclear officers. |
+| [334\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000334%20-%20Special%20aviation%20incentive%20pay%20and%20bonus%20authorities%20for%20officers.md) | Special aviation incentive pay and bonus authorities for officers. |
+| [335\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000335%20-%20Special%20bonus%20and%20incentive%20pay%20authorities%20for%20officers%20in%20health%20professions.md) | Special bonus and incentive pay authorities for officers in health professions. |
+| [351\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000351%20-%20Hazardous%20duty%20pay.md) | Hazardous duty pay. |
+| [352\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000352%20-%20Assignment%20pay%20or%20special%20duty%20pay.md) | Assignment pay or special duty pay. |
+| [353\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000353%20-%20Skill%20incentive%20pay%20or%20proficiency%20bonus.md) | Skill incentive pay or proficiency bonus. |
+| [354\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000354%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
+| [355\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000355%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md) | Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III—GENERAL PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| [371\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2000371%20-%20Relationship%20to%20other%20incentives%20and%20pays.md) | Relationship to other incentives and pays. |
+| [372\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2000372%20-%20Continuation%20of%20pays%20during%20hospitalization%20and%20rehabilitation%20resulting%20from%20wounds%2C%20injury%2C%20or%20illness%20incurred%20while%20on%20duty%20in%20a%E2%80%A6.md) | Continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action. |
+| [373\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2000373%20-%20Repayment%20of%20unearned%20portion%20of%20bonus%2C%20incentive%20pay%2C%20or%20similar%20benefit%2C%20and%20termination%20of%20remaining%20payments%2C%20when%20conditions%20of%E2%80%A6.md) | Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met. |
+| [374\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2000374%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title VI, §§619(b)(2), 620(b)(2), 651(c)(2)(B), Oct. 14, 2008, 122 Stat. 4489, 4491, 4497, added items 302c–1, 316a, and 373 and struck out former item 373 “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met”.
+
+Pub. L. 110–181, div. A, title VI, §661(d), Jan. 28, 2008, 122 Stat. 178, amended analysis generally, substituting items 301 to 374 and subchapter headings for former items 301 to 330.
 
 2006—Pub. L. 109–364, div. A, title VI, §§617(d), 621(d)(1), 622(a)(2), Oct. 17, 2006, 120 Stat. 2251, 2255, 2256, added items 302k, 302<i>l</i>, 329, and 330.
 
@@ -152,70 +191,6 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00301 - Incentive pay hazardous duty](%C2%A7%2000301%20-%20Incentive%20pay%20hazardous%20duty.md)
-- [&sect; 00301a - Incentive pay aviation career](%C2%A7%2000301a%20-%20Incentive%20pay%20aviation%20career.md)
-- [&sect; 00301b - Special pay aviation career officers extending period of active duty](%C2%A7%2000301b%20-%20Special%20pay%20aviation%20career%20officers%20extending%20period%20of%20active%20duty.md)
-- [&sect; 00301c - Incentive pay submarine duty](%C2%A7%2000301c%20-%20Incentive%20pay%20submarine%20duty.md)
-- [&sect; 00301d - Multiyear retention bonus medical officers of the armed forces](%C2%A7%2000301d%20-%20Multiyear%20retention%20bonus%20medical%20officers%20of%20the%20armed%20forces.md)
-- [&sect; 00301e - Multiyear retention bonus dental officers of the armed forces](%C2%A7%2000301e%20-%20Multiyear%20retention%20bonus%20dental%20officers%20of%20the%20armed%20forces.md)
-- [&sect; 00302 - Special pay medical officers of the armed forces](%C2%A7%2000302%20-%20Special%20pay%20medical%20officers%20of%20the%20armed%20forces.md)
-- [&sect; 00302a - Special pay optometrists](%C2%A7%2000302a%20-%20Special%20pay%20optometrists.md)
-- [&sect; 00302b - Special pay dental officers of the armed forces](%C2%A7%2000302b%20-%20Special%20pay%20dental%20officers%20of%20the%20armed%20forces.md)
-- [&sect; 00302c - Special pay psychologists and nonphysician health care providers](%C2%A7%2000302c%20-%20Special%20pay%20psychologists%20and%20nonphysician%20health%20care%20providers.md)
-- [&sect; 00302d - Special pay accession bonus for registered nurses](%C2%A7%2000302d%20-%20Special%20pay%20accession%20bonus%20for%20registered%20nurses.md)
-- [&sect; 00302e - Special pay nurse anesthetists](%C2%A7%2000302e%20-%20Special%20pay%20nurse%20anesthetists.md)
-- [&sect; 00302f - Special pay reserve, recalled, or retained health care officers](%C2%A7%2000302f%20-%20Special%20pay%20reserve%2C%20recalled%2C%20or%20retained%20health%20care%20officers.md)
-- [&sect; 00302g - Special pay Selected Reserve health care professionals in critically short wartime specialties](%C2%A7%2000302g%20-%20Special%20pay%20Selected%20Reserve%20health%20care%20professionals%20in%20critically%20short%20wartime%20specialties.md)
-- [&sect; 00302h - Special pay accession bonus for dental officers](%C2%A7%2000302h%20-%20Special%20pay%20accession%20bonus%20for%20dental%20officers.md)
-- [&sect; 00302i - Special pay pharmacy officers](%C2%A7%2000302i%20-%20Special%20pay%20pharmacy%20officers.md)
-- [&sect; 00302j - Special pay accession bonus for pharmacy officers](%C2%A7%2000302j%20-%20Special%20pay%20accession%20bonus%20for%20pharmacy%20officers.md)
-- [&sect; 00302k - Special pay accession bonus for medical officers in critically short wartime specialties](%C2%A7%2000302k%20-%20Special%20pay%20accession%20bonus%20for%20medical%20officers%20in%20critically%20short%20wartime%20specialties.md)
-- [&sect; 00302l - Special pay accession bonus for dental specialist officers in critically short wartime specialties](%C2%A7%2000302l%20-%20Special%20pay%20accession%20bonus%20for%20dental%20specialist%20officers%20in%20critically%20short%20wartime%20specialties.md)
-- [&sect; 00303 - Special pay veterinarians](%C2%A7%2000303%20-%20Special%20pay%20veterinarians.md)
-- [&sect; 00303a - Special pay general provisions](%C2%A7%2000303a%20-%20Special%20pay%20general%20provisions.md)
-- [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)
-- [&sect; 00304 - Special pay diving duty](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md)
-- [&sect; 00305 - Special pay hardship duty pay](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md)
-- [&sect; 00305a - Special pay career sea pay](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md)
-- [&sect; 00305b - Special pay service as member of Weapons of Mass Destruction Civil Support Team](%C2%A7%2000305b%20-%20Special%20pay%20service%20as%20member%20of%20Weapons%20of%20Mass%20Destruction%20Civil%20Support%20Team.md)
-- [&sect; 00306 - Special pay officers holding positions of unusual responsibility and of critical nature](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md)
-- [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)
-- [&sect; 00307 - Special pay special duty assignment pay for enlisted members](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md)
-- [&sect; 00307a - Special pay assignment incentive pay](%C2%A7%2000307a%20-%20Special%20pay%20assignment%20incentive%20pay.md)
-- [&sect; 00308 - Special pay reenlistment bonus](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md)
-- [&sect; 00308a - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title VI, &sect;624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;153](%C2%A7%2000308a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20VI%2C%20%C2%A7624%28b%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93153.md)
-- [&sect; 00308b - Special pay reenlistment bonus for members of the Selected Reserve](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md)
-- [&sect; 00308c - Special pay bonus for affiliation or enlistment in the Selected Reserve](%C2%A7%2000308c%20-%20Special%20pay%20bonus%20for%20affiliation%20or%20enlistment%20in%20the%20Selected%20Reserve.md)
-- [&sect; 00308d - Special pay members of the Selected Reserve assigned to certain high priority units](%C2%A7%2000308d%20-%20Special%20pay%20members%20of%20the%20Selected%20Reserve%20assigned%20to%20certain%20high%20priority%20units.md)
-- [&sect; 00308e - Repealed. Pub. L. 109&#8211;163, div. A, title VI, &sect;631(b), Jan. 6, 2006, 119 Stat. 3299](%C2%A7%2000308e%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7631%28b%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203299.md)
-- [&sect; 00308f - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title VI, &sect;624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;153](%C2%A7%2000308f%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20VI%2C%20%C2%A7624%28b%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93153.md)
-- [&sect; 00308g - Special pay bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve](%C2%A7%2000308g%20-%20Special%20pay%20bonus%20for%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%20Selected%20Reserve.md)
-- [&sect; 00308h - Special pay bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the&#8230;](%C2%A7%2000308h%20-%20Special%20pay%20bonus%20for%20reenlistment%2C%20enlistment%2C%20or%20voluntary%20extension%20of%20enlistment%20in%20elements%20of%20the%20Ready%20Reserve%20other%20than%20the%E2%80%A6.md)
-- [&sect; 00308i - Special pay prior service enlistment bonus](%C2%A7%2000308i%20-%20Special%20pay%20prior%20service%20enlistment%20bonus.md)
-- [&sect; 00308j - Special pay affiliation bonus for officers in the Selected Reserve](%C2%A7%2000308j%20-%20Special%20pay%20affiliation%20bonus%20for%20officers%20in%20the%20Selected%20Reserve.md)
-- [&sect; 00309 - Special pay enlistment bonus](%C2%A7%2000309%20-%20Special%20pay%20enlistment%20bonus.md)
-- [&sect; 00310 - Special pay duty subject to hostile fire or imminent danger](%C2%A7%2000310%20-%20Special%20pay%20duty%20subject%20to%20hostile%20fire%20or%20imminent%20danger.md)
-- [&sect; 00311 - Repealed. Pub. L. 99&#8211;145, title VI, &sect;639(b), Nov. 8, 1985, 99 Stat. 651](%C2%A7%2000311%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20VI%2C%20%C2%A7639%28b%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20651.md)
-- [&sect; 00312 - Special pay nuclear-qualified officers extending period of active service](%C2%A7%2000312%20-%20Special%20pay%20nuclear-qualified%20officers%20extending%20period%20of%20active%20service.md)
-- [&sect; 00312a - Repealed. Pub. L. 109&#8211;163, div. A, title VI, &sect;629(d)(1), Jan. 6, 2006, 119 Stat. 3297](%C2%A7%2000312a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7629%28d%29%281%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203297.md)
-- [&sect; 00312b - Special pay nuclear career accession bonus](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md)
-- [&sect; 00312c - Special pay nuclear career annual incentive bonus](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md)
-- [&sect; 00313 - Repealed. Pub. L. 96&#8211;513, title IV, &sect;414(a), Dec. 12, 1980, 94 Stat. 2906](%C2%A7%2000313%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20IV%2C%20%C2%A7414%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202906.md)
-- [&sect; 00314 - Special pay or bonus qualified members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
-- [&sect; 00315 - Special pay engineering and scientific career continuation pay](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md)
-- [&sect; 00316 - Special pay bonus for members with foreign language proficiency](%C2%A7%2000316%20-%20Special%20pay%20bonus%20for%20members%20with%20foreign%20language%20proficiency.md)
-- [&sect; 00316a - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;620(b)(1), Oct. 28, 2004, 118 Stat. 1954](%C2%A7%2000316a%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7620%28b%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201954.md)
-- [&sect; 00317 - Special pay officers in critical acquisition positions extending period of active duty](%C2%A7%2000317%20-%20Special%20pay%20officers%20in%20critical%20acquisition%20positions%20extending%20period%20of%20active%20duty.md)
-- [&sect; 00318 - Special pay special warfare officers extending period of active duty](%C2%A7%2000318%20-%20Special%20pay%20special%20warfare%20officers%20extending%20period%20of%20active%20duty.md)
-- [&sect; 00319 - Special pay surface warfare officer continuation pay](%C2%A7%2000319%20-%20Special%20pay%20surface%20warfare%20officer%20continuation%20pay.md)
-- [&sect; 00320 - Incentive pay career enlisted flyers](%C2%A7%2000320%20-%20Incentive%20pay%20career%20enlisted%20flyers.md)
-- [&sect; 00321 - Special pay judge advocate continuation pay](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md)
-- [&sect; 00322 - Special pay 15-year career status bonus for members entering service on or after August 1, 1986](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md)
-- [&sect; 00323 - Special pay retention incentives for members qualified in critical military skills or assigned to high priority units](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md)
-- [&sect; 00324 - Special pay accession bonus for new officers in critical skills](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md)
-- [&sect; 00325 - Incentive bonus savings plan for education expenses and other contingencies](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md)
-- [&sect; 00326 - Incentive bonus conversion to military occupational specialty to ease personnel shortage](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md)
-- [&sect; 00327 - Incentive bonus transfer between armed forces](%C2%A7%2000327%20-%20Incentive%20bonus%20transfer%20between%20armed%20forces.md)
-- [&sect; 00328 - Combat-related injury rehabilitation pay](%C2%A7%2000328%20-%20Combat-related%20injury%20rehabilitation%20pay.md)
-- [&sect; 00329 - Incentive bonus retired members and reserve component members volunteering for high-demand, low-density assignments](%C2%A7%2000329%20-%20Incentive%20bonus%20retired%20members%20and%20reserve%20component%20members%20volunteering%20for%20high-demand%2C%20low-density%20assignments.md)
-- [&sect; 00330 - Special pay accession bonus for officer candidates](%C2%A7%2000330%20-%20Special%20pay%20accession%20bonus%20for%20officer%20candidates.md)
+- [Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities](Subchapter%20001%20%28I%29%20-%20Existing%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/README.md)
+- [Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/README.md)
+- [Subchapter 003 (III) - General Provisions](Subchapter%20003%20%28III%29%20-%20General%20Provisions/README.md)

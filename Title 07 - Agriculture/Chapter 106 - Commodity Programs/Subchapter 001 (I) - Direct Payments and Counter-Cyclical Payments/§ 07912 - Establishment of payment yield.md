@@ -34,7 +34,7 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 #### (1) Election to update
 
-&emsp;If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
+&emsp;If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 ofthe methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
 
 #### (2) Time for election
 

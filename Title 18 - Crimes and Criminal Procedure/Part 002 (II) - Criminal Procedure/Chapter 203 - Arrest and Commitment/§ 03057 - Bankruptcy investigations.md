@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 48\] clarifies the meaning of section 3057 of title 18, U.S.C., by expressly limiting tolaws “of the United States”, violations of laws which are to be reported to the United States attorney.
+This section \[section 48\] clarifies the meaning of section 3057 of title 18, U.S.C., by expressly limiting to laws “of the United States”, violations of laws which are to be reported to the United States attorney.
 
 #### Amendments
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 95–598 not to affect the application of chapter 9 (§151 
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of suchDepartment, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 

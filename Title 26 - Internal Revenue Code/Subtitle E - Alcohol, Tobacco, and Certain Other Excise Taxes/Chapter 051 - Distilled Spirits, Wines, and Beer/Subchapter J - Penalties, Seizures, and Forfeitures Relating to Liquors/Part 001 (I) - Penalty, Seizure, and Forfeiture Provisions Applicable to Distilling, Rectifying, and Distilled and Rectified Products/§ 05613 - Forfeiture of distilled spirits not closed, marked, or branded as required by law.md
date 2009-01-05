@@ -2,7 +2,7 @@
 
 #### (a) Unmarked or unbranded casks or packages
 
-All distilled spirits found in any cask or package required by this chapter or any regulation issued pursuant thereto to bear a mark, brand, or identification, which cask or package is not marked, branded, or identified in compliancewith this chapter and regulations issued pursuant thereto, shall be forfeited to the United States.
+All distilled spirits found in any cask or package required by this chapter or any regulation issued pursuant thereto to bear a mark, brand, or identification, which cask or package is not marked, branded, or identified in compliance with this chapter and regulations issued pursuant thereto, shall be forfeited to the United States.
 
 #### (b) Containers without closures
 

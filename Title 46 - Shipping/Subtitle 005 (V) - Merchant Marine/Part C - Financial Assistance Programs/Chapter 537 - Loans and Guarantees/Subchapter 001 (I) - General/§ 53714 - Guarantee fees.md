@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—Subject to this section, the Secretary shall prescribe regulations to assess a fee for guaranteeing an obligation under this chapter.
+Regulations.—Subject to this section, the Secretary or Administrator shall prescribe regulations to assess a fee for guaranteeing an obligation under this chapter.
 
 (b)
 
@@ -14,7 +14,7 @@ In general.—The amount of the fee for a guarantee under this chapter shall be 
 
 &emsp;(2)
 
-Present value for each year.—The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value,the Secretary shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
+Present value for each year.—The amount referred to in paragraph (1) for a year in which the guarantee is in effect is the present value of the amount calculated under paragraph (3). To determine the present value, the Secretary or Administrator shall apply a discount rate determined by the Secretary of the Treasury, considering current market yields on outstanding obligations of the United States Government having periods to maturity comparable to the period to maturity for the guaranteed obligation.
 
 &emsp;(3)
 
@@ -26,7 +26,7 @@ Calculation of amount.—The amount referred to in paragraph (2) shall be calcul
 
 &emsp;(4)
 
-Setting fee rates.—To set the fee rate referred to in paragraph (3)(B), the Secretary shall establish a formula that—
+Setting fee rates.—To set the fee rate referred to in paragraph (3)(B), the Secretary or Administrator shall establish a formula that—
 
 &emsp;&emsp;(A) takes into account the security provided for the guaranteed obligation; and
 
@@ -56,11 +56,7 @@ Financing the Fee.—A fee paid under this section is eligible to be financed un
 
 Not Refundable.—A fee paid under this section is not refundable. However, an obligor shall receive credit for the amount paid for the remaining term of the obligation if the obligation is refinanced and guaranteed under this chapter after the refinancing.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1613; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived from section 1274(e) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1274(e) of the former Appendix to this title was amended by striking “Secretary” each place it appears (except in par. (2)(F) \[restated in subsec. (b)(2) of this section\] the second place it appears) and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1613; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -93,4 +89,12 @@ June 29, 1936, ch. 858, title XI, §1104A(e) \[§1104A formerly §1104\], as add
 53714(e)
 
 46 App.:1274(e)(4).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D). See 2006 Amendment note below.
+
+Subsecs. (a), (b)(2), (4). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”, except the second place appearing in subsec. (b)(2). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), which directed the amendment of section 1274(e) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (b)(2), (4) and Historical and Revision notes above.
 

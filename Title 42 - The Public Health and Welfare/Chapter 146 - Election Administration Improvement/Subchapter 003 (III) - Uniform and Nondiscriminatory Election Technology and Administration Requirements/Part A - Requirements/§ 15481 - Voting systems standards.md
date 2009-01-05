@@ -26,7 +26,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 &emsp;&emsp;(ii) providing the voter with instructions on how to correct the ballot before it is cast and counted (including instructions on how to correct the error through the issuance of a replacement ballot if the voter was otherwise unable to change the ballot or correct any error).
 
-&emsp;(C) The voting system shall ensure that any notification required under this paragraphpreserves the privacy of the voter and the confidentiality of the ballot.
+&emsp;(C) The voting system shall ensure that any notification required under this paragraph preserves the privacy of the voter and the confidentiality of the ballot.
 
 #### (2) Audit capacity
 
@@ -58,7 +58,7 @@ Each voting system used in an election for Federal office shall meet the followi
 
 #### (5) Error rates
 
-&emsp;The error rate of the voting system in counting ballots (determined by taking into account only those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
+&emsp;The error rate of the voting system in counting ballots (determined by taking into accountonly those errors which are attributable to the voting system and not attributable to an act of the voter) shall comply with the error rate standards established under section 3.2.1 of the voting systems standards issued by the Federal Election Commission which are in effect on October 29, 2002.
 
 #### (6) Uniform definition of what constitutes a vote
 

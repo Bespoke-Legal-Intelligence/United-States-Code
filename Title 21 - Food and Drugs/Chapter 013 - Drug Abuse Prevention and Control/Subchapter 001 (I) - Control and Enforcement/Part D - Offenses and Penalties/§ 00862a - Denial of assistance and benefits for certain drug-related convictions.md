@@ -6,7 +6,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 &emsp;(1) assistance under any State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or
 
-&emsp;(2) benefits under the food stamp program (as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\]) or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
+&emsp;(2) benefits under the food stamp program (as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(<i>l</i>)\]) or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
 
 #### (b) Effects on assistance and benefits for others
 
@@ -16,7 +16,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (2) Benefits under the Food Stamp Act of 1977
 
-&emsp;The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+&emsp;The amount of benefits otherwise required to be provided to a household under the foodstamp program (as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(<i>l</i>)\]), or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 #### (c) Enforcement
 
@@ -44,7 +44,7 @@ For purposes of this section, the term “State” has the meaning given it—
 
 &emsp;(1) in section 419(5) of the Social Security Act \[42 U.S.C. 619(5)\], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and
 
-&emsp;(2) in section 3(m) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(m)\], when referring to the food stamp program (as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\]) or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
+&emsp;(2) in section 3(s) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(s)\], when referring to the food stamp program (as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(<i>l</i>)\]) or any State program carried out under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
 
 #### (f) Rule of interpretation
 
@@ -64,25 +64,41 @@ Nothing in this section shall be construed to deny the following Federal benefit
 
 &emsp;(6) Drug treatment programs.
 
-(Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620.)
+(Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
 
+2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+
+Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(<i>l</i>)” for “section 3(h)”.
+
 1997—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
+
+#### Change of Name
+
+References to the food stamp program established under the Food Stamp Act of 1977, now known as the Food and Nutrition Act of 2008, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1997 Amendment
 
-Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
+Section 5518(d) of title V of Pub. L. 105–33 provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] that have not become part of another statute \[chapter 1\(§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42\] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
 
 #### Effective Date
 

@@ -28,7 +28,7 @@
 
 #### (3) Multiemployer plans in critical status
 
-&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 432. This paragraph shall only apply if the plan adopts a rehabilitation plan in accordance with section 432(e) and complies with such rehabilitation plan (and any modifications of the plan).
+&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 432. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 432(e) and complies with such rehabilitation plan (and any modifications of the plan).
 
 #### (c) Variance from minimum funding standards
 
@@ -38,11 +38,11 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan is) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
-> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary shall not waive the minimum funding standard with respect to a plan formore than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years <sup>1</sup>
+> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years <sup>1</sup>
 
 #### (B) Effects of waiver
 
@@ -122,11 +122,11 @@
 
 #### (A) Application must be submitted before date 21/2 months after close of year
 
-&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless anapplication therefor is submitted to the Secretary not later than the 15th day of the 3rd month beginning after the close of such plan year.
+&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary not later than the 15th day of the 3rd month beginning after the close of such plan year.
 
 #### (B) Special rule if employer is member of controlled group
 
-&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employer is a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
+&emsp;&emsp;In the case of a defined benefit plan which is not a multiemployer plan, if an employeris a member of a controlled group, the temporary substantial business hardship requirements of paragraph (1) shall be treated as met only if such requirements are met—
 
 &emsp;&emsp;&emsp;(i) with respect to such employer, and
 
@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -164,7 +164,7 @@
 
 #### (1) Change in method or year
 
-&emsp;If the funding method, the valuation date, or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary.
+&emsp;If the funding method or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary.
 
 #### (2) Certain retroactive plan amendments
 
@@ -232,7 +232,7 @@
 
 &emsp;This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103.)
 
 #### Amendment of Section
 
@@ -246,7 +246,15 @@ The effective date of this section, referred to in subsec. (e)(1), probably mean
 
 #### Amendments
 
-2006—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
+2008—Subsec. (b)(3). Pub. L. 110–458, §102(b)(2)(H), substituted “the plan sponsor adopts” for “the plan adopts”.
+
+Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(2)(A), substituted “the plan are” for “the plan is”.
+
+Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(2)(B), inserted “which reduces the accrued benefit of any participant” after “subsection (d)(2)”.
+
+Subsec. (d)(1). Pub. L. 110–458, §101(a)(2)(C), struck out “, the valuation date,” after “If the funding method”.
+
+2006—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployerplans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
 Subsec. (b)(3). Pub. L. 109–280, §§212(c), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -468,19 +476,23 @@ Subsec. (h). Pub. L. 94–455, §1901(a)(63), substituted reference to Sept. 2, 
 
 Subsec. (i). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
 #### Effective and Termination Dates of 2006 Amendment
 
 Pub. L. 109–280, title I, §111(b), Aug. 17, 2006, 120 Stat. 826, provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2007.”
 
-Pub. L. 109–280, title II, §212(e), Aug. 17, 2006, 120 Stat. 917, provided that:
+Pub. L. 109–280, title II, §212(e), Aug. 17, 2006, 120 Stat. 917, as amended by Pub. L. 110–458, title I, §102(b)(3)(B), (C), Dec. 23, 2008, 122 Stat. 5103, provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[enacting section 432 of this title and amending this section and section 4971 of this title\] shall apply with respect to plan years beginning after 2007.
+In general.—The amendments made by this section \[enacting section 432 of this title and amending this section and section 4971 of this title\] shall apply with respect to plan years beginning after 2007, except that the amendments made by subsection (b) \[amending section 4971 of this title\] shall apply to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year.
 
 “(2)
 
-Special rule for certain notices.—In any case in which a plan's actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085(b)(3)\], as added by this section \[probably should be “this Act”\], with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
+Special rule for certain notices.—In any case in which a plan's actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 432(b)(3) of the Internal Revenue Code of 1986, as added by this section, with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
 
 “(3)
 
@@ -504,7 +516,7 @@ Funding improvement and rehabilitation plans.—If a plan is operating under a f
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
+Amendment by section 101(b)(1)–(3) of Pub. L. 108–218 applicable, except as otherwise provided, to plan yearsbeginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of this title.
 
 #### Effective Date of 2002 Amendment
 

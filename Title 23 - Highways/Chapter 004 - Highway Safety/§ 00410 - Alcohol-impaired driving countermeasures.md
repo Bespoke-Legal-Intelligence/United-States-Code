@@ -20,7 +20,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth, sixth, seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth, sixth,,<sup>1</sup> seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -106,7 +106,7 @@ Administrative license revocation.—An administrative driver's license suspensi
 
 &emsp;&emsp;&emsp;(ii) suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5–year period; except that such individual to operate a motor vehicle, after the 45-day period beginning on the date of the suspension or revocation, to and from employment, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual; and
 
-&emsp;&emsp;(B) the suspension and revocation referred to under clause (i) take effect not later than 30 days after the date on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
+&emsp;&emsp;(B) the suspension and revocation referred to under clauses (i) and (ii) <sup>2</sup> take effect not later than 30 days after the date on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
 
 &emsp;(8)
 
@@ -146,7 +146,7 @@ Coordination of uses.—Grant funds used for a campaign under paragraph (3) or (
 
 (f)
 
-Allocation.—Subject to subsection (g), funds made available to carry out this section shall be allocated among States that meet the eligibility criteria in subsection (b) on the basisof the apportionment formula under section 402(c).
+Allocation.—Subject to subsection (g), funds made available to carry out this section shall be allocated among States that meet the eligibility criteria in subsection (b) on the basis of the apportionment formula under section 402(c).
 
 (g)
 
@@ -204,7 +204,7 @@ Impaired operator.—The term “impaired operator” means a person who, while 
 
 Impaired driving related fatality rate.—The term “impaired driving related fatality rate” means the rate of alcohol related fatalities, as calculated in accordance with regulations which the Administrator of the National Highway Traffic Safety Administration shall prescribe.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, §303(c)(2), (3), June 6, 2008, 122 Stat. 1619.)
 
 #### References in Text
 
@@ -214,9 +214,21 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 #### Amendments
 
+2008—Subsec. (a)(3). Pub. L. 110–244, §303(c)(2)(A), (B), amended Pub. L. 109–59, §2007(b)(1)(A), (B). See 2005 Amendment note below.
+
+Subsec. (a)(3)(C). Pub. L. 110–244, §303(c)(2)(C), repealed amendment by Pub. L. 109–59, §2007(b)(1)(C). See 2005 Amendment note below.
+
+Subsec. (a)(4). Pub. L. 110–244, §303(c)(2)(B), amended Pub. L. 109–59, §2007(b)(1)(B). See 2005 Amendment note below.
+
+Subsec. (c)(7)(B). Pub. L. 110–244, §303(c)(3), substituted “clauses (i) and (ii)” for “clause (i)”.
+
 2005—Subsec. (a)(2). Pub. L. 109–59, §2007(a), substituted “under this subsection” for “under this section” and “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
 
-Subsec. (a)(3), (4). Pub. L. 109–59, §2007(b)(1), redesignated par. (4) as (3), substituted “sixth,” for “sixth,,”, and struck out heading and text of former par. (3). Text read as follows: “No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.”
+Subsec. (a)(3). Pub. L. 109–59, §2007(b)(1)(A), (B), as amended by Pub. L. 110–244, §303(c)(2)(A), (B), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.”
+
+Subsec. (a)(3)(C). Pub. L. 109–59, §2007(b)(1)(C), which directed amendment of par. (3) by striking out second comma after “sixth”, was repealed by Pub. L. 110–244, §303(c)(2)(C).
+
+Subsec. (a)(4). Pub. L. 109–59, §2007(b)(1)(B), as amended by Pub. L. 110–244, §303(c)(2)(B), redesignated par. (4) as (3).
 
 Subsec. (b) to (i). Pub. L. 109–59, §2007(b)(2)–(4), added subsecs. (b) to (g), redesignated former subsecs. (e) and (f) as (h) and (i), respectively, added pars. (4) and (5) to subsec. (i), and struck out former subsecs. (b) to (d), which related to eligibility for basic grant, supplemental grants, and administrative expenses, respectively.
 
@@ -274,6 +286,12 @@ Funding for Fiscal Years 1993–1997.—From sums made available to carry out se
 
 Subsec. (e)(2). Pub. L. 101–516 inserted “a significant portion of” after “under which” and substituted “apprehended and fined for” for “convicted of”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 303(c)(2) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of this title.
+
+Pub. L. 110–244, title III, §303(c)(3), June 6, 2008, 122 Stat. 1619, provided that the amendment made by section 303(c)(3) is effective Aug. 10, 2005.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under section 402 of this title.
@@ -326,7 +344,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[June 
 
 #### Effectiveness of Drunk Driving Laws
 
-Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treatsan individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### States Eligible for Grants Before December 18, 1991
 
@@ -367,4 +385,8 @@ Authorization of Appropriation.—There is authorized to be appropriated to carr
 #### Minimum Drinking Age
 
 Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: “The Congress strongly encourages each State to prohibit the sale of alcoholic beverages to persons who are less than 21 years of age.”
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “clauses (i) and (ii) of subparagraph (A)”.</i>
 

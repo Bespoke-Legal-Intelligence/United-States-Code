@@ -44,7 +44,7 @@ Subject to valid existing rights, all Federal land within the Conservation Area 
 
 #### (e) Wilderness
 
-Subject to valid existing rights, lands designated as wilderness by this subchapter shall be managed by the Secretary, as appropriate, in accordance with the Wilderness Act (16 U.S.C. 1131 et seq.) and this subchapter, except that, with respect to any wilderness areas designated by this subchapter, any reference in the Wilderness Act to the effective date of the Wilderness Act shall be deemed to be a reference to October 24, 2000.
+Subject to valid existing rights, lands designated as wilderness by this subchapter shall be managed by the Secretary, as appropriate, in accordance with the Wilderness Act (16 U.S.C. 1131et seq.) and this subchapter, except that, with respect to any wilderness areas designated by this subchapter, any reference in the Wilderness Act to the effective date of the Wilderness Act shall be deemed to be a reference to October 24, 2000.
 
 #### (f) Hunting, trapping, and fishing
 
@@ -112,7 +112,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;&emsp;(A) the lands designated as wilderness by this subchapter are located at the headwaters of the streams and rivers on those lands, with few, if any, actual or proposed water resource facilities located upstream from such lands and few, if any, opportunities for diversion, storage, or other uses of water occurring outside such lands that would adversely affect the wilderness or other values of such lands;
 
-&emsp;&emsp;(B) the lands designated as wilderness by this subchapter generally are not suitable for use for development of new water resource facilities, or for the expansion of existing facilities;
+&emsp;&emsp;(B) the lands designated as wilderness by this subchapter generally are not suitablefor use for development of new water resource facilities, or for the expansion of existing facilities;
 
 &emsp;&emsp;(C) it is possible to provide for proper management and protection of the wilderness and other values of such lands in ways different from those utilized in other legislation designating as wilderness lands not sharing the attributes of the lands designated as wilderness by this subchapter.
 
@@ -142,7 +142,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(A) Neither the Conservation Area nor the Wilderness shall include any part of the Colorado River to the 100-year high water mark.
 
-&emsp;(B) Nothing in this subchapter shall affect the authority that the Secretary may or maynot have to manage recreational uses on the Colorado River, except as such authority may be affected by compliance with paragraph (3). Nothing in this subchapter shall be construed to affect the authority of the Secretary to manage the public lands between the boundary of the Conservation Area and the edge of the Colorado River.
+&emsp;(B) Nothing in this subchapter shall affect the authority that the Secretary may or may not have to manage recreational uses on the Colorado River, except as such authority may be affected by compliance with paragraph (3). Nothing in this subchapter shall be construed to affect the authority of the Secretary to manage the public lands between the boundary of the Conservation Area and the edge of the Colorado River.
 
 &emsp;(C) Subject to valid existing rights, all lands owned by the Federal Government between the 100-year high water mark on each shore of the Colorado River, as designated on the Map from the line labeled “Line A” on the east to the boundary between the States of Colorado and Utah on the west, are hereby withdrawn from—
 

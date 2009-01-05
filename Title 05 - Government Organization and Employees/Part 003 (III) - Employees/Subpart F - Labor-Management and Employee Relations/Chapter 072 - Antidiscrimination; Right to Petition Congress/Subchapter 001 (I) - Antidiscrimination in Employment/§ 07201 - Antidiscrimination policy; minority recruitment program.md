@@ -56,7 +56,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsecs. (c) and (d), isthe date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
+The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsecs. (c) and (d), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
 #### Amendments
 

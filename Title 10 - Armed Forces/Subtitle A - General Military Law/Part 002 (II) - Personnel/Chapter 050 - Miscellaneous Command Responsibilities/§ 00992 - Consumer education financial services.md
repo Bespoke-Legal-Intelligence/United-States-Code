@@ -64,6 +64,28 @@ Financial Services Defined.—In this section, the term “financial services”
 
 Pub. L. 109–163, div. A, title V, §578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
+#### Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad
+
+Pub. L. 110–289, div. B, title II, §2202, July 30, 2008, 122 Stat. 2849, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall develop and implement a program to advise members of the Armed Forces (including members of the National Guard and Reserve) who are returning from service on active duty abroad (including service in Operation Iraqi Freedom and Operation Enduring Freedom) on actions to be taken by such members to prevent or forestall mortgage foreclosures.
+
+“(b)
+
+Elements.—The program required by subsection (a) shall include the following:
+
+&emsp;“(1) Credit counseling.
+
+&emsp;“(2) Home mortgage counseling.
+
+&emsp;“(3) Such other counseling and information as the Secretary considers appropriate for purposes of the program.
+
+“(c)
+
+Timing of Provision of Counseling.—Counseling and other information under the program required by subsection (a) shall be provided to a member of the Armed Forces covered by the program as soon as practicable after the return of the member from service as described in subsection (a).”
+
 #### Military Personnel Financial Services Protection
 
 Pub. L. 109–290, Sept. 29, 2006, 120 Stat. 1317, provided that:

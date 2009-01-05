@@ -148,7 +148,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (e) Current agricultural commodities
 
-(1) Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated in section 1a(4) of this title that is available for trade on a contract market, as of December 21, 2000, may be traded only on a contract market designated under this section.
+(1) Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated insection 1a(4) of this title that is available for trade on a contract market, as of December 21, 2000, may be traded only on a contract market designated under this section.
 
 (2) In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.
 
@@ -156,5 +156,5 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### Prior Provisions
 
-A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491,1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
+A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
 

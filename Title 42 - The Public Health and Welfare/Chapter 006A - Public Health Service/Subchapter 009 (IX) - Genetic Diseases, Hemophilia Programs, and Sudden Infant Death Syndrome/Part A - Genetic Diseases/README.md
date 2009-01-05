@@ -20,3 +20,8 @@ Part A—Genetic Diseases
 - [&sect; 00300b&#8211;8 - Improved newborn and child screening for heritable disorders](%C2%A7%2000300b%E2%80%938%20-%20Improved%20newborn%20and%20child%20screening%20for%20heritable%20disorders.md)
 - [&sect; 00300b&#8211;9 - Evaluating the effectiveness of newborn and child screening programs](%C2%A7%2000300b%E2%80%939%20-%20Evaluating%20the%20effectiveness%20of%20newborn%20and%20child%20screening%20programs.md)
 - [&sect; 00300b&#8211;10 - Advisory Committee on Heritable Disorders in Newborns and Children](%C2%A7%2000300b%E2%80%9310%20-%20Advisory%20Committee%20on%20Heritable%20Disorders%20in%20Newborns%20and%20Children.md)
+- [&sect; 00300b&#8211;11 - Clearinghouse of newborn screening information](%C2%A7%2000300b%E2%80%9311%20-%20Clearinghouse%20of%20newborn%20screening%20information.md)
+- [&sect; 00300b&#8211;12 - Laboratory quality](%C2%A7%2000300b%E2%80%9312%20-%20Laboratory%20quality.md)
+- [&sect; 00300b&#8211;13 - Interagency Coordinating Committee on Newborn and Child Screening](%C2%A7%2000300b%E2%80%9313%20-%20Interagency%20Coordinating%20Committee%20on%20Newborn%20and%20Child%20Screening.md)
+- [&sect; 00300b&#8211;14 - National contingency plan for newborn screening](%C2%A7%2000300b%E2%80%9314%20-%20National%20contingency%20plan%20for%20newborn%20screening.md)
+- [&sect; 00300b&#8211;15 - Hunter Kelly Research Program](%C2%A7%2000300b%E2%80%9315%20-%20Hunter%20Kelly%20Research%20Program.md)

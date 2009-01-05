@@ -18,6 +18,7 @@
 - [&sect; 00936c - Refinancing and prepayment of FFB loans](%C2%A7%2000936c%20-%20Refinancing%20and%20prepayment%20of%20FFB%20loans.md)
 - [&sect; 00936d - Eligibility of distribution borrowers for loans, loan guarantees, and lien accommodations](%C2%A7%2000936d%20-%20Eligibility%20of%20distribution%20borrowers%20for%20loans%2C%20loan%20guarantees%2C%20and%20lien%20accommodations.md)
 - [&sect; 00936e - Administrative prohibitions applicable to certain electric borrowers](%C2%A7%2000936e%20-%20Administrative%20prohibitions%20applicable%20to%20certain%20electric%20borrowers.md)
+- [&sect; 00936f - Substantially underserved trust areas](%C2%A7%2000936f%20-%20Substantially%20underserved%20trust%20areas.md)
 - [&sect; 00937 - Loans from other credit sources](%C2%A7%2000937%20-%20Loans%20from%20other%20credit%20sources.md)
 - [&sect; 00938 - Full faith and credit of the United States](%C2%A7%2000938%20-%20Full%20faith%20and%20credit%20of%20the%20United%20States.md)
 - [&sect; 00939 - Loan terms and conditions](%C2%A7%2000939%20-%20Loan%20terms%20and%20conditions.md)
@@ -29,3 +30,5 @@
 - [&sect; 00940d - Limitations on authorization of appropriations](%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md)
 - [&sect; 00940e - Expansion of 911 access](%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md)
 - [&sect; 00940f - Extension of period of existing guarantee](%C2%A7%2000940f%20-%20Extension%20of%20period%20of%20existing%20guarantee.md)
+- [&sect; 00940g - Electric loans for renewable energy](%C2%A7%2000940g%20-%20Electric%20loans%20for%20renewable%20energy.md)
+- [&sect; 00940h - Bonding requirements](%C2%A7%2000940h%20-%20Bonding%20requirements.md)

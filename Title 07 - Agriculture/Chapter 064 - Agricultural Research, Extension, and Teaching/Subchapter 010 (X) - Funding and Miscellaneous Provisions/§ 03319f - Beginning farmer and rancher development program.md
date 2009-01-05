@@ -66,19 +66,53 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 &emsp;&emsp;(C) a community-based and nongovernmental organization;
 
-&emsp;&emsp;(D) a college or university (including an institution awarding an associate's degree) or foundation maintained by a college or university; or
+&emsp;&emsp;(D) a college or university (including an institution awarding an associate's degree)or foundation maintained by a college or university; or
 
 &emsp;&emsp;(E) any other appropriate partner, as determined by the Secretary.
 
-#### (3) Term of grant
+#### (3) Maximum term and size of grant
 
-&emsp;The term of a grant under this subsection shall not exceed 3 years.
+#### (A) In general
+
+&emsp;&emsp;A grant under this subsection shall—
+
+&emsp;&emsp;&emsp;(i) have a term that is not more than 3 years; and
+
+&emsp;&emsp;&emsp;(ii) be in an amount that is not more than $250,000 for each year.
+
+#### (B) Consecutive grants
+
+&emsp;&emsp;An eligible recipient may receive consecutive grants under this subsection.
 
 #### (4) Matching requirement
 
 &emsp;To be eligible to receive a grant under this subsection, a recipient shall provide a match in the form of cash or in-kind contributions in an amount equal to 25 percent of the funds provided by the grant.
 
-#### (5) Set-aside
+#### (5) Evaluation criteria
+
+&emsp;In making grants under this subsection, the Secretary shall evaluate—
+
+&emsp;&emsp;(A) relevancy;
+
+&emsp;&emsp;(B) technical merit;
+
+&emsp;&emsp;(C) achievability;
+
+&emsp;&emsp;(D) the expertise and track record of 1 or more applicants;
+
+&emsp;&emsp;(E) the adequacy of plans for the participatory evaluation process, outcome-based reporting, and the communication of findings and results beyond the immediate target audience; and
+
+&emsp;&emsp;(F) other appropriate factors, as determined by the Secretary.
+
+#### (6) Regional balance
+
+&emsp;In making grants under this subsection, the Secretary shall, to the maximum extent practicable, ensure geographical diversity.
+
+#### (7) Priority
+
+&emsp;In making grants under this subsection, the Secretary shall give priority to partnerships and collaborations that are led by or include nongovernmental and community-based organizations with expertise in new agricultural producer training and outreach.
+
+#### (8) Set-aside
 
 &emsp;Not less than 25 percent of funds used to carry out this subsection for a fiscal year shall be used to support programs and services that address the needs of—
 
@@ -88,11 +122,11 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 &emsp;&emsp;(C) farmworkers desiring to become farmers or ranchers.
 
-#### (6) Prohibition
+#### (9) Prohibition
 
 &emsp;A grant made under this subsection may not be used for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
-#### (7) Administrative costs
+#### (10) Administrative costs
 
 &emsp;The Secretary shall use not more than 4 percent of the funds made available to carry out this subsection for administrative costs incurred by the Secretary in carrying out this section.
 
@@ -136,7 +170,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 #### (e) Curriculum and training clearinghouse
 
-The Secretary shall establish an online clearinghouse that makes available to beginningfarmers or ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers or ranchers.
+The Secretary shall establish an online clearinghouse that makes available to beginning farmers or ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers or ranchers.
 
 #### (f) Stakeholder input
 
@@ -152,15 +186,39 @@ In carrying out this section, the Secretary shall seek stakeholder input from—
 
 Nothing in this section prohibits the Secretary from allowing farmers and ranchers who are not beginning farmers or ranchers from participating in programs authorized under this section to the extent that the Secretary determines that such participation is appropriate and will not detract from the primary purpose of educating beginning farmers and ranchers.
 
-#### (h) Authorization of appropriations
+#### (h) Funding
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007.
+#### (1) In general
 
-(Pub. L. 107–171, title VII, §7405, May 13, 2002, 116 Stat. 458.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+
+&emsp;&emsp;(A) $18,000,000 for fiscal year 2009; and
+
+&emsp;&emsp;(B) $19,000,000 for each of fiscal years 2010 through 2012.
+
+#### (2) Authorization of appropriations
+
+&emsp;In addition to funds provided under paragraph (1), there is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012.
+
+(Pub. L. 107–171, title VII, §7405, May 13, 2002, 116 Stat. 458; Pub. L. 110–234, title VII, §7410, May 22, 2008, 122 Stat. 1254; Pub. L. 110–246, §4(a), title VII, §7410, June 18, 2008, 122 Stat. 1664, 2016.)
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–246, §7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
+
+Subsec. (c)(5) to (10). Pub. L. 110–246, §7410(a)(2), (3), added pars. (5) to (7) and redesignated former pars. (5) to (7) as (8) to (10), respectively.
+
+Subsec. (h). Pub. L. 110–246, §7410(b), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2002 through 2007.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Definitions
 

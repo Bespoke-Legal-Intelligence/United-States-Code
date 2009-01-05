@@ -1,6 +1,6 @@
 ### §4952. Authority to operate VISTA program
 
-This part shall be administered by one of the Assistant Directors appointed pursuant to section 12651e(d)(1)(A) of this title. Such Director may recruit, select, and train persons to serve in full-time volunteer programs consistent with the provisions and to carry out the purpose of this part.
+This part shall be administered by one of the Assistant Directors appointed pursuant to section 12651e(d)(1)(A) of this title. Such Directormay recruit, select, and train persons to serve in full-time volunteer programs consistent with the provisions and to carry out the purpose of this part.
 
 (Pub. L. 93–113, title I, §102, Oct. 1, 1973, 87 Stat. 396; Pub. L. 98–288, §3, May 21, 1984, 98 Stat. 189; Pub. L. 101–204, title I, §101(d)(1), Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §322(a), Sept. 21, 1993, 107 Stat. 899.)
 
@@ -14,5 +14,5 @@ This part shall be administered by one of the Assistant Directors appointed purs
 
 #### Effective Date of 1993 Amendment
 
-Section 322(b) of Pub. L. 103–82 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of section 203(b).” \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date asthe President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
+Section 322(b) of Pub. L. 103–82 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of section 203(b).” \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
 

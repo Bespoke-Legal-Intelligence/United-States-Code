@@ -6,7 +6,7 @@ In this section, the term “nonindustrial private forest land” means rural la
 
 &emsp;(1) has existing tree cover or that is suitable for growing trees; and
 
-&emsp;(2) is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decisionmaking authority over the land.
+&emsp;(2) is owned by any nonindustrial private individual, group, association, corporation, orother private legal entity, that has definitive decisionmaking authority over the land.
 
 #### (b) General authority and purpose
 
@@ -56,7 +56,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 #### (3) Project elements and objectives
 
-&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershedprotection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
+&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
 
 &emsp;&emsp;(A) the use of trees as solutions to water quality problems in urban and rural areas;
 
@@ -136,11 +136,25 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2004 through 2008.
 
-(Pub. L. 95–313, §6, as added Pub. L. 108–148, title III, §302, Dec. 3, 2003, 117 Stat. 1903.)
+(Pub. L. 95–313, §6, as added Pub. L. 108–148, title III, §302, Dec. 3, 2003, 117 Stat. 1903; amended Pub. L. 110–234, title VII, §7511(c)(35), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(35), June 18, 2008, 122 Stat. 1664, 2032.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials” for “the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 2103b, Pub. L. 95–313, §6, as added Pub. L. 101–624, title XII, §1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, §8001(a), May 13, 2002, 116 Stat. 468.
 
 A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to section 2105 of this title.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 7511(c)(35) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
 

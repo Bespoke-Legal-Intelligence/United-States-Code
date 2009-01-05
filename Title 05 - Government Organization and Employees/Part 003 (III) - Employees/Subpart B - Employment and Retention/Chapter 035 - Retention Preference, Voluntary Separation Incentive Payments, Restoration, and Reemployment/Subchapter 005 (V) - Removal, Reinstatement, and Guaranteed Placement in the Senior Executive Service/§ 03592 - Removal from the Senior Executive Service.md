@@ -30,7 +30,7 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In thecase of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
+2002—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: “In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701.”
 
 Subsec. (a)(1). Pub. L. 107–296, §1321(a)(2)(A)(i), inserted “or” at end.
 

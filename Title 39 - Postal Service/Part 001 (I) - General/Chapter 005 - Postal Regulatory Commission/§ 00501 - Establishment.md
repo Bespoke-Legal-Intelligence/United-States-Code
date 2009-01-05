@@ -34,7 +34,7 @@ Report by the Postal Regulatory Commission.—
 
 &emsp;“(1)
 
-In general.—Not later than 24 months after the date of enactment of this Act \[Dec. 20, 2006\], the Postal Regulatory Commission shall submit a report to the President and Congress on universal postal service and the postal monopoly in the United States (in this section referred to as ‘universal service and the postal monopoly’), including the monopoly on the delivery of mail and on access to mailboxes.
+In general.—Not later than 24 months after the date of enactment of this Act \[Dec. 20, 2006\], thePostal Regulatory Commission shall submit a report to the President and Congress on universal postal service and the postal monopoly in the United States (in this section referred to as ‘universal service and the postal monopoly’), including the monopoly on the delivery of mail and on access to mailboxes.
 
 &emsp;“(2)
 
@@ -44,7 +44,7 @@ Contents.—The report under this subsection shall include—
 
 &emsp;&emsp;“(B) the scope and standards of universal service and the postal monopoly provided under current law (including sections 101 and 403 of title 39, United States Code), and current rules, regulations, policy statements, and practices of the Postal Service;
 
-&emsp;&emsp;“(C) a description of any geographic areas, populations, communities (including both urban andrural communities), organizations, or other groups or entities not currently covered by universal service or that are covered but that are receiving services deficient in scope or quality or both; and
+&emsp;&emsp;“(C) a description of any geographic areas, populations, communities (including both urban and rural communities), organizations, or other groups or entities not currently covered by universal service or that are covered but that are receiving services deficient in scope or quality or both; and
 
 &emsp;&emsp;“(D) the scope and standards of universal service and the postal monopoly likely to be required in the future in order to meet the needs and expectations of the United States public, including all types of mail users, based on discussion of such assumptions, alternative sets of assumptions, and analyses as the Postal Service considers plausible.
 

@@ -25,5 +25,6 @@
 - [&sect; 05735 - Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service](%C2%A7%2005735%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferring%20to%20the%20United%20States%20Postal%20Service.md)
 - [&sect; 05736 - Travel, transportation, and relocation expenses of certain nonappropriated fund employees](%C2%A7%2005736%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20certain%20nonappropriated%20fund%20employees.md)
 - [&sect; 05737 - Relocation expenses of an employee who is performing an extended assignment](%C2%A7%2005737%20-%20Relocation%20expenses%20of%20an%20employee%20who%20is%20performing%20an%20extended%20assignment.md)
+- [&sect; 05737a - Employees temporarily deployed in contingency operations](%C2%A7%2005737a%20-%20Employees%20temporarily%20deployed%20in%20contingency%20operations.md)
 - [&sect; 05738 - Regulations](%C2%A7%2005738%20-%20Regulations.md)
 - [&sect; 05739 - Authority for relocation expenses test programs](%C2%A7%2005739%20-%20Authority%20for%20relocation%20expenses%20test%20programs.md)

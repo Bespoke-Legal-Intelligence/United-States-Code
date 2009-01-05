@@ -24,7 +24,7 @@ Periodic Review.—(1) Periodically (and not less often than every two years), t
 
 &emsp;(B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or of meeting the requirements for combat readiness of the armed forces.
 
-(2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of Central Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
+(2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of National Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
 
 (d)
 
@@ -34,9 +34,9 @@ Special Rule for Defense Commissary Agency.—Notwithstanding the results of any
 
 Special Rule for Defense Business Transformation Agency.—(1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
 
-(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.
+(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285.)
 
 #### Prior Provisions
 
@@ -44,15 +44,15 @@ A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat.
 
 #### Amendments
 
+2008—Subsec. (c)(2). Pub. L. 110–181, §931(a)(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted “that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.” for “that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.”
+
 2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
 1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### First Review of Defense Agencies by Secretary of Defense
 

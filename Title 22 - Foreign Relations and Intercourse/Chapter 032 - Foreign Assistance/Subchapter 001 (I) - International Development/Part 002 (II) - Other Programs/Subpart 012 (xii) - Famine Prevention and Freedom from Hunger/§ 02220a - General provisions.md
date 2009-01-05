@@ -26,7 +26,7 @@ The Congress so declares because it finds—
 
 #### (b) Congressional declaration for collation of components to increase world food production
 
-Accordingly, the Congress declares that, in order to prevent famine and establish freedom from hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
+Accordingly, the Congress declares that, in order to prevent famine and establish freedomfrom hunger, the following components must be brought together in a coordinated program to increase world food and fiber production, agricultural trade, and responsible management of natural resources, including—
 
 &emsp;(1) continued efforts by the international agricultural research centers and other international research entities to provide a global network, including United States universities, for international scientific collaboration on crops, livestock, forests, fisheries, farming resources, and food systems of worldwide importance;
 
@@ -142,6 +142,34 @@ Subsecs. (f) to (h). Pub. L. 106–373, §2(f)—(h), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### Global Crop Diversity Trust
+
+Pub. L. 110–246, title III, §3202, June 18, 2008, 122 Stat. 1836, provided that:
+
+“(a)
+
+Contribution.—The Administrator of the United States Agency for International Development shall contribute funds to endow the Global Crop Diversity Trust (referred to in this section as the ‘Trust’) to assist in the conservation of genetic diversity in food crops through the collection and storage of the germplasm of food crops in a manner that provides for—
+
+&emsp;“(1) the maintenance and storage of seed collections;
+
+&emsp;“(2) the documentation and cataloguing of the genetics and characteristics of conserved seeds to ensure efficient reference for researchers, plant breeders, and the public;
+
+&emsp;“(3) building the capacity of seed collection in developing countries;
+
+&emsp;“(4) making information regarding crop genetic data publicly available for researchers, plant breeders, and the public (including through the provision of an accessible Internet website);
+
+&emsp;“(5) the operation and maintenance of a back-up facility in which are stored duplicate samples of seeds, in the case of natural or man-made disasters; and
+
+&emsp;“(6) oversight designed to ensure international coordination of those actions and efficient, public accessibility to that diversity through a cost-effective system.
+
+“(b)
+
+United States Contribution Limit.—The aggregate contributions of funds of the Federal Government provided to the Trust shall not exceed 25 percent of the total amount of funds contributed to the Trust from all sources.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2008 through 2012.”
+
 #### International Food Reserve
 
 Pub. L. 95–426, title VI, §604, Oct. 7, 1978, 92 Stat. 986, provided that:
@@ -180,7 +208,7 @@ Section 321 of Pub. L. 94–161 provided that: “No debt owed to the United Sta
 
 #### Cooperation With Other Countries in Alleviating World Food Shortage; Emergency and Humanitarian Requirements
 
-Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, provided that:
+Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
 “(a) It is the sense of the Congress that the United States should participate fully in efforts to alleviate current and future food shortages which threaten the world. To this end, the President shall—
 
@@ -194,7 +222,7 @@ Pub. L. 93–189, §39, Dec. 17, 1973, 87 Stat. 735, provided that:
 
 “(b) It is further the sense of the Congress that—
 
-&emsp;“(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Agricultural Trade Development and Assistance Act of 1954 (Public Law 480) \[section 1691 et seq. of Title 7, Agriculture\]; and
+&emsp;“(1) in making assessments which would affect or relate to the level of domestic production, the Executive Branch should include in the estimates of overall utilization the expected demands for humanitarian food assistance through such programs as are carried out under the Food for Peace Act (Public Law 480) \[7 U.S.C. 1691 et seq.\]; and
 
-&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Agricultural Trade Development and Assistance Act of 1954 (Public Law 480) \[section 1731 of title 7\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
+&emsp;“(2) legislation providing increased flexibility for responding to emergency and humanitarian requirements for food assistance should be considered as promptly as possible to the end that the last sentence of section 401 of the Food for Peace Act (Public Law480) \[7 U.S.C. 1731\], may be amended by striking the period and inserting in lieu thereof a comma and the following: ‘unless the Secretary determines that some part of the exportable supply should be used to carry out the national interest and humanitarian objectives of this Act \[see Short Title of 1973 Amendment note set out under section 2151 of this title\]’.”
 

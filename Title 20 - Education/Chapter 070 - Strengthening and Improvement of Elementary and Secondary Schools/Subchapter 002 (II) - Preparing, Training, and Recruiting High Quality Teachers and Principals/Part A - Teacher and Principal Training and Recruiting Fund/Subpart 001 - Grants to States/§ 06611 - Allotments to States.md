@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make grants to States with applications approved under section 6612 of this title to pay for the Federal share of the cost of carrying out the activities specified in section 6613 of this title. Each grant shall consist of the allotment determined for a State under subsection (b) of this section.
+The Secretary shall make grants to States with applications approved under section 6612 ofthis title to pay for the Federal share of the cost of carrying out the activities specified in section 6613 of this title. Each grant shall consist of the allotment determined for a State under subsection (b) of this section.
 
 #### (b) Determination of allotments
 

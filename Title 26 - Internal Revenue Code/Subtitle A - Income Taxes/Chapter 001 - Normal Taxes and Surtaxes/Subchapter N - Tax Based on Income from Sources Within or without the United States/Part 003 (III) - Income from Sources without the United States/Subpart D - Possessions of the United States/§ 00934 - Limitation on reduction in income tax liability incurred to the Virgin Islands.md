@@ -110,5 +110,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Report on Possessions Corporations
 
-For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, see section 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
+For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, seesection 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Two or more associations within the same district, whether or not organized under the samesubchapter of this chapter, may merge into a single entity (hereinafter in this subchapter referred to as a “merged association”) if the plan of merger is approved by—
+Two or more associations within the same district, whether or not organized under the same subchapter of this chapter, may merge into a single entity (hereinafter in this subchapter referred to as a “merged association”) if the plan of merger is approved by—
 
 &emsp;(1) the Farm Credit Administration Board;
 
@@ -36,7 +36,7 @@ Two or more associations within the same district, whether or not organized unde
 
 &emsp;In accordance with section 2154a of this title, each merged association shall provide, through bylaws and subject to Farm Credit Administration regulations, for the capitalization of the association and the manner in which association stock shall be issued, held, transferred, and retired, and association earnings shall be distributed.
 
-(Pub. L. 92–181, title VII, §7.8, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1002.)
+(Pub. L. 92–181, title VII, §7.8, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647;amended Pub. L. 100–399, title IV, §408(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1002.)
 
 #### Amendments
 

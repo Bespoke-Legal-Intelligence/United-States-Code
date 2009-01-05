@@ -26,7 +26,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 > &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution;
 
-&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restorethe capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
+&emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
 &emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution.
 
@@ -48,7 +48,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(i) Restrictions prohibiting the rejection of an insurance policy by a depository institution or an affiliate of a depository institution, solely because the policy has been issued or underwritten by any person who is not associated with such depository institution or affiliate when the insurance is required in connection with a loan or extension of credit.
 
-&emsp;&emsp;&emsp;(ii) Restrictions prohibiting a requirement for any debtor, insurer, or insurance agent or broker to pay a separate charge in connection with the handling of insurance that is required in connection with a loan or other extension of credit or the provision of another traditional banking product by a depository institution, or any affiliate of a depository institution, unless such charge would be required when the depository institution or affiliate is the licensed insurance agent or broker providing the insurance.
+&emsp;&emsp;&emsp;(ii) Restrictions prohibiting a requirement for any debtor, insurer, or insurance agent or broker to pay a separate charge in connection with the handling of insurance that is required in connection with a loan or other extension of credit or the provision of another traditional banking product by a depository institution, or any affiliate of a depository institution, unless such charge would be required when thedepository institution or affiliate is the licensed insurance agent or broker providing the insurance.
 
 &emsp;&emsp;&emsp;(iii) Restrictions prohibiting the use of any advertisement or other insurance promotional material by a depository institution or any affiliate of a depository institution that would cause a reasonable person to believe mistakenly that—
 
@@ -226,7 +226,7 @@ Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L.
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
+&emsp;“(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonableand predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
 
 &emsp;“(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
@@ -536,7 +536,7 @@ Federal share.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Yearthereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
+In general.—The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Year thereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
 
 &emsp;&emsp;“(B)
 
@@ -722,7 +722,7 @@ Recoupment of adjustments.—Any mandatory recoupment amounts not collected by t
 
 &emsp;&emsp;“(E)
 
-Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are not based on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
+Timing of premiums.—The Secretary may adjust the timing of terrorism loss risk-spreading premiums to provide for equivalent application of the provisions of this title to policies that are notbased on a calendar year, or to apply such provisions on a daily, monthly, or quarterly basis, as appropriate.
 
 “(f)
 

@@ -16,7 +16,7 @@ The Director of the Center shall—
 
 &emsp;(4) collaborate with the Director of the Center for Substance Abuse Prevention in order to provide outreach services to identify individuals in need of treatment services, with emphasis on the provision of such services to pregnant and postpartum women and their infants and to individuals who abuse drugs intravenously;
 
-&emsp;(5) collaborate with the Director of the National Institute on Drug Abuse, with the Director of the National Institute on AlcoholAbuse and Alcoholism, and with the States to promote the study, dissemination, and implementation of research findings that will improve the delivery and effectiveness of treatment services;
+&emsp;(5) collaborate with the Director of the National Institute on Drug Abuse, with the Director of the National Institute on Alcohol Abuse and Alcoholism, and with the States to promote the study, dissemination, and implementation of research findings that will improve the delivery and effectiveness of treatment services;
 
 &emsp;(6) collaborate with the Administrator of the Health Resources and Services Administration and the Administrator of the Centers for Medicare \& Medicaid Services to promote the increased integration into the mainstream of the health care system of the United States of programs for providing treatment services;
 
@@ -44,7 +44,7 @@ In carrying out the duties established in subsection (b) of this section, the Di
 
 #### Prior Provisions
 
-A prior section 290bb, act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(c), (d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14, Jan. 2, 1980, 93 Stat. 1305; renumbered §510 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §§205(a)(1), 206(c)(1), 98 Stat. 2361, 2362, related to encouragement of alcohol abuse and alcoholism research, prior to repeal by Pub. L. 102–321, §122(b)(1). Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by Pub. L. 102–321 and transferred to section 285n(b) of this title.
+A prior section 290bb, act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(c), (d), Nov. 9, 1978, 92 Stat.3437; Pub. L. 96–180, §14, Jan. 2, 1980, 93 Stat. 1305; renumbered §510 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §§205(a)(1), 206(c)(1), 98 Stat. 2361, 2362, related to encouragement of alcohol abuse and alcoholism research, prior to repeal by Pub. L. 102–321, §122(b)(1). Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by Pub. L. 102–321 and transferred to section 285n(b) of this title.
 
 A prior section 507 of act July 1, 1944, which was classified to section 290aa–5 of this title, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
 

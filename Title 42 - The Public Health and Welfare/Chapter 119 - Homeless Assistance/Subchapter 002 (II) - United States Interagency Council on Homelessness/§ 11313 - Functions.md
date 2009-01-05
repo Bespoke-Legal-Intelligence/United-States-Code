@@ -72,7 +72,7 @@ Not later than 90 days after November 7, 1988, the head of each Federal agency t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B.McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 

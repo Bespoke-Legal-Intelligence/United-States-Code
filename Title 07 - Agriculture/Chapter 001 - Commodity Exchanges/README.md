@@ -9,7 +9,7 @@
 | [5\.](%C2%A7%2000005%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 | [6\.](%C2%A7%2000006%20-%20Regulation%20of%20futures%20trading%20and%20foreign%20transactions.md) | Regulation of futures trading and foreign transactions. |
 | [6a.](%C2%A7%2000006a%20-%20Excessive%20speculation.md) | Excessive speculation. |
-| [6b.](%C2%A7%2000006b%20-%20Fraud%2C%20false%20reporting%2C%20or%20deception%20prohibited.md) | Fraud, false reporting, or deception prohibited. |
+| [6b.](%C2%A7%2000006b%20-%20Contracts%20designed%20to%20defraud%20or%20mislead.md) | Contracts designed to defraud or mislead. |
 | [6c.](%C2%A7%2000006c%20-%20Prohibited%20transactions.md) | Prohibited transactions. |
 | [6d.](%C2%A7%2000006d%20-%20Dealing%20by%20unregistered%20futures%20commission%20merchants%20or%20introducing%20brokers%20prohibited%3B%20duties%20in%20handling%20customer%20receipts%3B%20rules%20to%E2%80%A6.md) | Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; rules to avoid duplicative regulations. |
 | [6e.](%C2%A7%2000006e%20-%20Dealings%20by%20unregistered%20floor%20trader%20or%20broker%20prohibited.md) | Dealings by unregistered floor trader or broker prohibited. |
@@ -23,8 +23,9 @@
 | [6m.](%C2%A7%2000006m%20-%20Use%20of%20mails%20or%20other%20means%20or%20instrumentalities%20of%20interstate%20commerce%20by%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%E2%80%A6.md) | Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators; relation to other law. |
 | [6n.](%C2%A7%2000006n%20-%20Registration%20of%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%3B%20application%3B%20expiration%20and%20renewal%3B%20record%20keeping%20and%20reports%E2%80%A6.md) | Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports; disclosure; statements of account. |
 | 6<i>o.</i> | Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons. |
-| 6<i>o</i>–1. | Special procedures to encourage and facilitate bona fide hedging by agricultural producers. |
+| 6<i>o</i>–1. | Transferred. |
 | [6p.](%C2%A7%2000006p%20-%20Standards%20and%20examinations.md) | Standards and examinations. |
+| [6q.](%C2%A7%2000006q%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md) | Special procedures to encourage and facilitate bona fide hedging by agricultural producers. |
 | [7\.](%C2%A7%2000007%20-%20Designation%20of%20boards%20of%20trade%20as%20contract%20markets.md) | Designation of boards of trade as contract markets. |
 | [7a.](%C2%A7%2000007a%20-%20Derivatives%20transaction%20execution%20facilities.md) | Derivatives transaction execution facilities. |
 | 7a–1. | Derivatives clearing organizations. |
@@ -95,7 +96,7 @@
 - [&sect; 00005 - Findings and purpose](%C2%A7%2000005%20-%20Findings%20and%20purpose.md)
 - [&sect; 00006 - Regulation of futures trading and foreign transactions](%C2%A7%2000006%20-%20Regulation%20of%20futures%20trading%20and%20foreign%20transactions.md)
 - [&sect; 00006a - Excessive speculation](%C2%A7%2000006a%20-%20Excessive%20speculation.md)
-- [&sect; 00006b - Fraud, false reporting, or deception prohibited](%C2%A7%2000006b%20-%20Fraud%2C%20false%20reporting%2C%20or%20deception%20prohibited.md)
+- [&sect; 00006b - Contracts designed to defraud or mislead](%C2%A7%2000006b%20-%20Contracts%20designed%20to%20defraud%20or%20mislead.md)
 - [&sect; 00006c - Prohibited transactions](%C2%A7%2000006c%20-%20Prohibited%20transactions.md)
 - [&sect; 00006d - Dealing by unregistered futures commission merchants or introducing brokers prohibited; duties in handling customer receipts; rules to&#8230;](%C2%A7%2000006d%20-%20Dealing%20by%20unregistered%20futures%20commission%20merchants%20or%20introducing%20brokers%20prohibited%3B%20duties%20in%20handling%20customer%20receipts%3B%20rules%20to%E2%80%A6.md)
 - [&sect; 00006e - Dealings by unregistered floor trader or broker prohibited](%C2%A7%2000006e%20-%20Dealings%20by%20unregistered%20floor%20trader%20or%20broker%20prohibited.md)
@@ -109,8 +110,9 @@
 - [&sect; 00006m - Use of mails or other means or instrumentalities of interstate commerce by commodity trading advisors and commodity pool operators&#8230;](%C2%A7%2000006m%20-%20Use%20of%20mails%20or%20other%20means%20or%20instrumentalities%20of%20interstate%20commerce%20by%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%E2%80%A6.md)
 - [&sect; 00006n - Registration of commodity trading advisors and commodity pool operators; application; expiration and renewal; record keeping and reports&#8230;](%C2%A7%2000006n%20-%20Registration%20of%20commodity%20trading%20advisors%20and%20commodity%20pool%20operators%3B%20application%3B%20expiration%20and%20renewal%3B%20record%20keeping%20and%20reports%E2%80%A6.md)
 - [&sect; 00006o - Fraud and misrepresentation by commodity trading advisors, commodity pool operators, and associated persons](%C2%A7%2000006o%20-%20Fraud%20and%20misrepresentation%20by%20commodity%20trading%20advisors%2C%20commodity%20pool%20operators%2C%20and%20associated%20persons.md)
-- [&sect; 00006o&#8211;1 - Special procedures to encourage and facilitate bona fide hedging by agricultural producers](%C2%A7%2000006o%E2%80%931%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md)
+- [&sect; 00006o&#8211;1 - Transferred](%C2%A7%2000006o%E2%80%931%20-%20Transferred.md)
 - [&sect; 00006p - Standards and examinations](%C2%A7%2000006p%20-%20Standards%20and%20examinations.md)
+- [&sect; 00006q - Special procedures to encourage and facilitate bona fide hedging by agricultural producers](%C2%A7%2000006q%20-%20Special%20procedures%20to%20encourage%20and%20facilitate%20bona%20fide%20hedging%20by%20agricultural%20producers.md)
 - [&sect; 00007 - Designation of boards of trade as contract markets](%C2%A7%2000007%20-%20Designation%20of%20boards%20of%20trade%20as%20contract%20markets.md)
 - [&sect; 00007a - Derivatives transaction execution facilities](%C2%A7%2000007a%20-%20Derivatives%20transaction%20execution%20facilities.md)
 - [&sect; 00007a&#8211;1 - Derivatives clearing organizations](%C2%A7%2000007a%E2%80%931%20-%20Derivatives%20clearing%20organizations.md)

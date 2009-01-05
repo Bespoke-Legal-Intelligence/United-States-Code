@@ -36,7 +36,7 @@
 
 (g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
-(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
+(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill underthis section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
 (i)(1) A carrier or freight forwarder may request the Administrator of General Services to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (c) of this section, whichever is later.
 
@@ -82,7 +82,7 @@ Sept. 18, 1940, ch. 722, 54 Stat. 898, §322(b); added Jan. 2, 1975, Pub. L. 93�
 
 In the section, the words “Administrator of General Services” are substituted for “General Services Administration, or his designee” for consistency. The word “freight” is added for clarity and consistency with 49:10101 et seq.
 
-In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word“claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
+In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
 
 In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 Section 2 of Pub. L. 99–627 provided that:
 
-“(a) Within 60 days after the date of enactment of this Act \[Nov. 7, 1986\], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of anintegrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
+“(a) Within 60 days after the date of enactment of this Act \[Nov. 7, 1986\], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of an integrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
 
 “(b) The task force established under subsection (a) shall—
 

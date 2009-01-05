@@ -28,13 +28,13 @@
 
 #### (b) Administration of program
 
-(1) In order to effectively carry out the purpose of this subchapter, the Assistant Secretaryshall administer programs under this subchapter through the Administration.
+(1) In order to effectively carry out the purpose of this subchapter, the Assistant Secretary shall administer programs under this subchapter through the Administration.
 
 (2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departments of the Federal Government as may be appropriate.
 
 #### (c) Ombudsman program
 
-The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to State long-term care ombudsman programs established under section 3027(a)(9) of this title in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of this title to be representatives of a long-term care ombudsman, in order to enable such ombudsmen and such representatives to carry out the ombudsman program effectively.
+The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to State long-term care ombudsman programs established under section 3027(a)(9) of this title in accordance with section 3058g of this title, and to individuals within such programs designated under section 3058g of thistitle to be representatives of a long-term care ombudsman, in order to enable such ombudsmen and such representatives to carry out the ombudsman program effectively.
 
 #### (d) Use of funds
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 100–175, §129(a), added subsec. (c).
 
 1981—Subsec. (a). Pub. L. 97–115, §3(d), substituted “supportive services” for “social services” in two places.
 
-Subsec. (b)(2). Pub. L. 97–115, §3(a), substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, theDepartment of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
+Subsec. (b)(2). Pub. L. 97–115, §3(a), substituted “cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, and such other agencies and departments” for “cooperation of the Department of Labor, the Community Services Administration, the Department of Housing and Urban Development, the Department of Transportation, and such other agencies and departments”.
 
 #### Effective Date of 1992 Amendments
 

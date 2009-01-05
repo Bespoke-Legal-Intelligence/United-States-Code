@@ -26,7 +26,7 @@ Authority to enter.—A motor carrier providing transportation or service subjec
 
 &emsp;(2)
 
-Submission of agreement to board; approval.—An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
+Submission of agreement to board; approval.—An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreementto the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
 
 &emsp;(3)
 
@@ -120,7 +120,7 @@ Participation of carriers.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approvedunder this section must participate in the determining or governing publication for such provisions to apply.
+In general.—A motor carrier of property whose routes, rates, classifications, mileage guides, rules, or packaging are determined or governed by publications established under agreements approved under this section must participate in the determining or governing publication for such provisions to apply.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -138,7 +138,7 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772; Pub. L. 108–7, div. I, title III, §354, Feb. 20, 2003, 117 Stat. 421.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28),Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772; Pub. L. 108–7, div. I, title III, §354, Feb. 20, 2003, 117 Stat. 421.)
 
 #### Historical and Revision Notes
 

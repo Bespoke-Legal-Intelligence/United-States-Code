@@ -18,7 +18,7 @@ General Distribution.—The Secretary shall—
 
 &emsp;(1) determine the ratio that—
 
-&emsp;&emsp;(A) the sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for each of theFederal-aid highway and highway safety construction programs (other than the equity bonus program) and the motor carrier safety grant program for which funds are allocated from such Trust Fund by the Secretary under this title, the SAFETEA–LU, and subchapter I of chapter 311 of title 49 for a fiscal year, bears to
+&emsp;&emsp;(A) the sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for each of the Federal-aid highway and highway safety construction programs (other than the equity bonus program) and the motor carrier safety grant program for which funds are allocated from such Trust Fund by the Secretary under this title, the SAFETEA–LU, and subchapter I of chapter 311 of title 49 for a fiscal year, bears to
 
 &emsp;&emsp;(B) the total of all sums authorized to be appropriated from such Trust Fund for such programs for such fiscal year;
 
@@ -44,7 +44,7 @@ State Programmatic Distribution.—Of the funds to be apportioned to each State 
 
 Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as may be necessary to carry out this section for fiscal years beginning after September 30, 1998.
 
-(e) After making any calculation necessary to implement this section for fiscal year 2001, the amount available under paragraph (a)(1) shall be increased by $128,752,000. The amounts added under this subsection shall not apply to any calculation in any other fiscal year.
+(e) After making any calculation necessary to implement this section for fiscal year 2001, the amount available under paragraph (a)(1) shall be increased by $128,752,000. The amounts addedunder this subsection shall not apply to any calculation in any other fiscal year.
 
 (f) For fiscal year 2001, prior to making any distribution under this section, $22,029,000 of the allocation under paragraph (a)(1) shall be available only for each program authorized under chapter 53 of title 49, United States Code, and title III of Public Law 105–178, in proportion to each such program's share of the total authorization in section 5338 (other than 5338(h)) of such title and sections 3037 and 3038 of such Public Law, under the terms and conditions of chapter 53 of such title.
 

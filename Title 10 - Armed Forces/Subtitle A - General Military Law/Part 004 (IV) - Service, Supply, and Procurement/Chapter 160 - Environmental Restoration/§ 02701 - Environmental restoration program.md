@@ -38,7 +38,7 @@ Responsibility for Response Actions.—
 
 Basic responsibility.—The Secretary shall carry out (in accordance with the provisions of this chapter and CERCLA) all response actions with respect to releases of hazardous substances from each of the following:
 
-&emsp;&emsp;(A) Each facility or site owned by, leased to, or otherwise possessed by the UnitedStates and under the jurisdiction of the Secretary.
+&emsp;&emsp;(A) Each facility or site owned by, leased to, or otherwise possessed by the United States and under the jurisdiction of the Secretary.
 
 &emsp;&emsp;(B) Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances.
 
@@ -50,7 +50,7 @@ Other responsible parties.—Paragraph (1) shall not apply to a removal or remed
 
 &emsp;(3)
 
-State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
+State fees and charges.—The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. Thepreceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 
 (d)
 
@@ -346,7 +346,7 @@ Section 325 of Pub. L. 104–201 provided that:
 
 “(a)
 
-Authority.—The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10,United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
+Authority.—The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10, United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
 
 “(b)
 
@@ -366,7 +366,7 @@ Implementation.—For each defense site for which the Secretary develops a land 
 
 “(f)
 
-Deadlines.—For each defense site for which the Secretary intends to develop a land use plan under this section, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
+Deadlines.—For each defense site for which the Secretary intends to develop a land use plan under thissection, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
 
 “(g)
 
@@ -444,7 +444,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 “(d)
 
-Eligible Individuals.—A program established or conducted using funds provided under subsection (a) may provide education and training in environmental restoration and waste management to—
+Eligible Individuals.—A program established or conducted using funds provided under subsection (a)may provide education and training in environmental restoration and waste management to—
 
 &emsp;“(1) individuals who have been terminated or laid off from employment (or have received notice of termination or lay off) as a consequence of reductions in expenditures by the United States for defense, the cancellation, termination, or completion of a defense contract, or the closure or realignment of a military installation under a base closure law, as determined in accordance with regulations prescribed by the Secretary; or
 
@@ -640,7 +640,7 @@ Repayment.—(1) Any individual receiving scholarship assistance from the Secret
 
 &emsp;“(B) such other method as is provided by law for the recovery of amounts owing to the United States.
 
-“(3) The Secretary of Defense may waive in whole or in part a required repayment under this subsection ifthe Secretary determines that the recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
+“(3) The Secretary of Defense may waive in whole or in part a required repayment under this subsection if the Secretary determines that the recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 “(4) The total amount of scholarship assistance provided to an individual under this section, for purposes of repayment under this subsection, shall bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 (20 U.S.C. 1077a(c)).
 
@@ -898,7 +898,7 @@ Section 345 of Pub. L. 101–510 provided that:
 
 “(a)
 
-DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of theCommittee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
+DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of the Committee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
 
 “(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 
@@ -906,7 +906,7 @@ DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In additio
 
 “(b)
 
-Requirement.—In preparing the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189, set out below\] and the report required by subsection (d) of this section, the Committee shall work closely with the Strategic Environmental Research and Development Program Council and shall provide to such Council such reports.
+Requirement.—In preparing the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189, setout below\] and the report required by subsection (d) of this section, the Committee shall work closely with the Strategic Environmental Research and Development Program Council and shall provide to such Council such reports.
 
 “(c)
 

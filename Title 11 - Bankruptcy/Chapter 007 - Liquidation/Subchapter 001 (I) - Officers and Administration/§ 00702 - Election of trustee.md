@@ -4,7 +4,7 @@
 
 &emsp;(1) holds an allowable, undisputed, fixed, liquidated, unsecured claim of a kind entitled to distribution under section 726(a)(2), 726(a)(3), 726(a)(4), 752(a), 766(h), or 766(i) of this title;
 
-&emsp;(2) does not have an interest materially adverse, other than an equity interest that is not substantial in relation to such creditor's interest as a creditor, to the interest of creditors entitled to such distribution; and
+&emsp;(2) does not have an interest materially adverse, other than an equity interest that is notsubstantial in relation to such creditor's interest as a creditor, to the interest of creditors entitled to such distribution; and
 
 &emsp;(3) is not an insider.
 
@@ -12,7 +12,7 @@
 
 (c) A candidate for trustee is elected trustee if—
 
-&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified insubsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
+&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
 
 &emsp;(2) such candidate receives the votes of creditors holding a majority in amount of claims specified in subsection (a)(1) of this section that are held by creditors that vote for a trustee.
 

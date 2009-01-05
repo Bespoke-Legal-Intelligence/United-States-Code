@@ -32,7 +32,7 @@ Section 2397c, Pub. L. 88–210, title III, §385, as added Pub. L. 101–392, t
 
 Section 2397d, Pub. L. 88–210, title III, §386, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 801, related to amount of grants.
 
-Section 2397e, Pub. L. 88–210, title III, §387, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 802, related to effect of grant receipt on eligibility under other programs.
+Section 2397e, Pub. L. 88–210, title III, §387, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat.802, related to effect of grant receipt on eligibility under other programs.
 
 Section 2397f, Pub. L. 88–210, title III, §388, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 802, related to grant adjustments.
 

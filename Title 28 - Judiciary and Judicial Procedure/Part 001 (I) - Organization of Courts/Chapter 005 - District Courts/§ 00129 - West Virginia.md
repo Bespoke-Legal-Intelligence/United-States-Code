@@ -18,7 +18,7 @@ West Virginia is divided into two judicial districts to be known as the Northern
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §194 (Mar. 3, 1911, ch. 231, §113, 36 Stat. 1129; Mar. 23, 1912, ch. 63, 37 Stat. 76; Aug. 22, 1914, ch. 265, 38 Stat. 702; Feb. 27, 1922, ch. 83, 42 Stat. 398; June 22, 1936, ch. 695, 49 Stat. 1805; Aug. 23, 1937, ch. 737, 50 Stat. 744; June 29, 1938, ch. 817, 52 Stat. 1245).
+Based on title 28, U.S.C., 1940 ed., §194 (Mar. 3, 1911, ch. 231, §113, 36 Stat. 1129; Mar. 23, 1912, ch. 63, 37 Stat.76; Aug. 22, 1914, ch. 265, 38 Stat. 702; Feb. 27, 1922, ch. 83, 42 Stat. 398; June 22, 1936, ch. 695, 49 Stat. 1805; Aug. 23, 1937, ch. 737, 50 Stat. 744; June 29, 1938, ch. 817, 52 Stat. 1245).
 
 Words “with the waters thereof,” after the list of counties in each district, were omitted as unnecessary, and in view of the absence of such words in similar sections relating to other States.
 

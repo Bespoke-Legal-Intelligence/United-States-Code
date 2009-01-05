@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with theprovisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 

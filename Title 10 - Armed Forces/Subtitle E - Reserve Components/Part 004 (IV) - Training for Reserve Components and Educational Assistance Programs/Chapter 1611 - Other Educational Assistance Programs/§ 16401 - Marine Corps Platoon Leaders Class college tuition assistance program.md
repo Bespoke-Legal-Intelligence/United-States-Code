@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of the Navy may provide financial assistance to an eligiblemember of the Marine Corps Reserve for expenses of the member while the member is pursuing on a full-time basis at an institution of higher education a program of education approved by the Secretary that leads to—
+Authority.—The Secretary of the Navy may provide financial assistance to an eligible member of the Marine Corps Reserve for expenses of the member while the member is pursuing on a full-time basis at an institution of higher education a program of education approved by the Secretary that leads to—
 
 &emsp;(1) a baccalaureate degree in less than five academic years; or
 
@@ -86,7 +86,7 @@ Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)(2)(A)\], 
 
 Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)(2)(B)\], substituted “a member of” for “an officer candidate in”.
 
-Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(b)(1)(A), (B)\], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “meet the applicable age requirement specified in paragraph (2);”.
+Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(b)(1)(A), (B)\], redesignated subpar. (C) as (B) andstruck out former subpar. (B) which read as follows: “meet the applicable age requirement specified in paragraph (2);”.
 
 Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(b)(1)(B), (C)\], redesignated subpar. (D) as (C) and substituted “paragraph (2)” for “paragraph (3)”.
 

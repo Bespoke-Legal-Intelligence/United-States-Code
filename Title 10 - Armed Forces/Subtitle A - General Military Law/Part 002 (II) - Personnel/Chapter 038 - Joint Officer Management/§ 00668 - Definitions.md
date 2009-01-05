@@ -46,7 +46,7 @@ Critical Occupational Specialty.—(1) In this chapter, the term “critical occ
 
 (2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L.108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191.)
 
 #### Amendments
 

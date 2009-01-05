@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (e) Publication
 
-The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) of this section and shall make such revisions to the list as may berequired by reason of action under subsection (c) of this section.
+The Trade Representative shall publish in the Federal Register a list of foreign countries identified under subsection (a) of this section and shall make such revisions to the list as may be required by reason of action under subsection (c) of this section.
 
 #### (f) Special rule for actions affecting United States cultural industries
 

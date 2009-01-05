@@ -50,7 +50,7 @@ In any court proceeding, if a taxpayer asserts a reasonable dispute with respect
 
 1996—Subsecs. (d), (e). Pub. L. 104–168 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1988—Subsec. (a)(4). Pub. L. 100–647, §1015(r)(1), struck out par. (4) which read as follows: “If on any return or claim for refund of income taxes under subtitle A there is an overstatement of the credit allowable by section 34 (relating to certain uses of gasoline and special fuels) or section 32 (relating to earned income), the amount so overstated which is allowed against the tax shown on the return or which is allowed as a credit or refund may be assessed by the Secretary in the same manner as in the case of a mathematical or clerical error appearing upon the return, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph.”
+1988—Subsec. (a)(4). Pub. L. 100–647, §1015(r)(1), struck out par. (4) which read as follows: “If on any return or claim for refund of income taxes under subtitle A there is an overstatement of the credit allowable by section 34 (relating to certain uses of gasoline and special fuels) or section 32 (relating to earned income), the amount so overstated which is allowed against the tax shown on the return or which is allowed as a credit or refund may be assessed by the Secretary in the same manner as in the case of a mathematical or clerical error appearing upon the return, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall notapply with regard to any assessment under this paragraph.”
 
 Subsec. (b)(2). Pub. L. 100–647, §7106(c)(2), struck out “or tax imposed by section 3321” after “employment tax”.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub.L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1970 Amendment
 

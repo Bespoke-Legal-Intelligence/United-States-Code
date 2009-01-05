@@ -74,7 +74,7 @@ As used in this chapter:
 
 #### (D) Advisors
 
-&emsp;&emsp;The Commission, by rule or regulation, may include within the term “commodity trading advisor”, any person advising as to the value of commodities or issuing reports or analyses concerning commodities if the Commission determines that the rule or regulation will effectuate the purposes of this paragraph.
+&emsp;&emsp;The Commission, by rule or regulation, may include within the term “commodity trading advisor”, any person advising as tothe value of commodities or issuing reports or analyses concerning commodities if the Commission determines that the rule or regulation will effectuate the purposes of this paragraph.
 
 #### (7) Contract of sale
 
@@ -206,7 +206,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ix) a futures commission merchant subject to regulation under this chapter or a foreign person performing a similar role or function subject as such to foreign regulation, except that, if the futures commission merchant or foreign person is a natural person or proprietorship, the futures commission merchant or foreign person shall not be considered to be an eligible contract participant unless the futures commission merchant or foreign person also meets the requirements of clause (v) or (xi);
 
-&emsp;&emsp;&emsp;(x) a floor broker or floor trader subject to regulation under this chapter in connection with any transaction that takes place on or through the facilities of a registered entity or an exempt board of trade, or any affiliate thereof, on which such person regularly trades; or
+&emsp;&emsp;&emsp;(x) a floor broker or floor trader subject to regulation under this chapter in connection with any transaction that takes place on or through the facilities of a registered entity (other than an electronic trading facility with respect to a significant price discovery contract) or an exempt board of trade, or any affiliate thereof, on which such person regularly trades; or
 
 &emsp;&emsp;&emsp;(xi) an individual who has total assets in an amount in excess of—
 
@@ -214,7 +214,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) $5,000,000 and who enters into the agreement, contract, or transaction in order to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred, by the individual;
 
-&emsp;&emsp;(B)(i) a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A)or in subparagraph (C), acting as broker or performing an equivalent agency function on behalf of another person described in subparagraph (A) or (C); or
+&emsp;&emsp;(B)(i) a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A) or in subparagraph (C), acting as broker or performing an equivalent agency function on behalf of another person described in subparagraph (A) or (C); or
 
 &emsp;&emsp;(ii) an investment adviser subject to regulation under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], a commodity trading advisor subject to regulation under this chapter, a foreign person performing a similar role or function subject as such to foreign regulation, or a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A) or in subparagraph (C), in any such case acting as investment manager or fiduciary (but excluding a person acting as broker or performing an equivalent agency function) for another person described in subparagraph (A) or (C) and who is authorized by such person to commit such person to the transaction; or
 
@@ -292,7 +292,7 @@ As used in this chapter:
 
 #### (21) Hybrid instrument
 
-&emsp;The term “hybrid instrument” means a security having one or more payments indexedto the value, level, or rate of, or providing for the delivery of, one or more commodities.
+&emsp;The term “hybrid instrument” means a security having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities.
 
 #### (22) Interstate commerce
 
@@ -362,7 +362,7 @@ As used in this chapter:
 
 &emsp;(C) Within 1 year after December 21, 2000, the Commission and the Securities and Exchange Commission jointly shall adopt rules or regulations that set forth the requirements under subparagraph (B)(iv).
 
-&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business daysover 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
+&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business days over 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
 
 &emsp;(E) For purposes of subparagraphs (A) and (B)—
 
@@ -402,9 +402,11 @@ As used in this chapter:
 
 &emsp;&emsp;(B) a derivatives transaction execution facility registered under section 7a of this title;
 
-&emsp;&emsp;(C) a derivatives clearing organization registered under section 7a–1 of this title; and
+&emsp;&emsp;(C) a derivatives clearing organization registered under section 7a–1 of this title;
 
-&emsp;&emsp;(D) a board of trade designated as a contract market under section 7b–1 of this title.
+&emsp;&emsp;(D) a board of trade designated as a contract market under section 7b–1 of this title; and
+
+&emsp;&emsp;(E) with respect to a contract that the Commission determines is a significant price discovery contract, any electronic trading facility on which the contract is executed or traded.
 
 #### (30) Security
 
@@ -418,11 +420,19 @@ As used in this chapter:
 
 &emsp;The term “security futures product” means a security future or any put, call, straddle, option, or privilege on any security future.
 
-#### (33) Trading facility
+#### (33) Significant price discovery contract
+
+&emsp;The term “significant price discovery contract” means an agreement, contract, or transaction subject to section 2(h)(7) of this title.
+
+#### (34) Trading facility
 
 #### (A) In general
 
-&emsp;&emsp;The term “trading facility” means a person or group of persons that constitutes, maintains, or provides a physical or electronic facility or system in which multiple participants have the ability to execute or trade agreements, contracts, or transactions by accepting bids and offers made by other participants that are open to multiple participants in the facility or system.
+&emsp;&emsp;The term “trading facility” means a person or group of persons that constitutes, maintains, or provides a physical or electronic facility or system in which multiple participants have the ability to execute or trade agreements, contracts, or transactions—
+
+&emsp;&emsp;&emsp;(i) by accepting bids or offers made by other participants that are open to multiple partipants <sup>3</sup> in the facility or system; or
+
+&emsp;&emsp;&emsp;(ii) through the interaction of multiple bids or multiple offers within a system with a pre-determined non-discretionary automated trade matching and execution algorithm.
 
 #### (B) Exclusions
 
@@ -438,9 +448,9 @@ As used in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to aderivatives clearing organization of transactions executed on or through the person or group of persons.
+&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
 
-(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405.)
+(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201.)
 
 #### References in Text
 
@@ -456,7 +466,21 @@ The Securities Exchange Act of 1934, referred to in par. (12)(A)(viii)(I), is ac
 
 Section 25A of the Federal Reserve Act, referred to in par. (15)(B), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Par. (12)(A)(x). Pub. L. 110–246, §13203(a), inserted “(other than an electronic trading facility with respect to a significant price discovery contract)” after “registered entity”.
+
+Par. (29)(E). Pub. L. 110–246, §13203(b), added subpar. (E).
+
+Par. (33). Pub. L. 110–246, §13201(a), added par. (33). Former par. (33) redesignated (34).
+
+Par. (33)(A). Pub. L. 110–246, §13105(j), substituted “transactions—” for “transactions by accepting bids and offers made by other participants that are open to multiple participants in the facility or system.” in introductory provisions and added cls. (i) and (ii).
+
+Par. (34). Pub. L. 110–246, §13201(a)(1), redesignated par. (33) as (34).
 
 2000—Par. (1). Pub. L. 106–554, §1(a)(5) \[title I, §101(2)\], added par. (1). Former par. (1) redesignated (2).
 
@@ -512,6 +536,12 @@ Par. (28). Pub. L. 106–554, §1(a)(5) \[title I, §101(1)\], redesignated par.
 
 Pars. (29) to (33). Pub. L. 106–554, §1(a)(5) \[title I, §101(7)\], added pars. (29) to (33).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
+
 #### Effective Date
 
 Section 403 of Pub. L. 102–546 provided that: “Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\].”
@@ -519,4 +549,6 @@ Section 403 of Pub. L. 102–546 provided that: “Except as otherwise specifica
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by an additional closing parenthesis.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “participants”.</i>
 

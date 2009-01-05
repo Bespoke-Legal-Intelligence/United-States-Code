@@ -20,7 +20,7 @@ As used in this chapter, the term—
 
 &emsp;(3) “United States property” means any real or personal property which is within the United States or, if outside the United States, the actual or beneficial ownership of which rests in a United States person or any Federal or State governmental entity of the United States;
 
-&emsp;(4) “United States”, when used in a geographical sense, includes Puerto Rico and all territories and possessions of the United States;
+&emsp;(4) “United States”, when used in a geographical sense, includes Puerto Rico and allterritories and possessions of the United States;
 
 &emsp;(5) “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other possession or territory of the United States;
 

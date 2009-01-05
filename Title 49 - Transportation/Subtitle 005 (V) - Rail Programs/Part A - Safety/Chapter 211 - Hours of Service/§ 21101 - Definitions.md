@@ -8,11 +8,11 @@ In this chapter—
 
 &emsp;(3) “employee” means a dispatching service employee, a signal employee, or a train employee.
 
-&emsp;(4) “signal employee” means an individual employed by a railroad carrier who is engaged in installing, repairing, or maintaining signal systems.
+&emsp;(4) “signal employee” means an individual who is engaged in installing, repairing, or maintaining signal systems.
 
 &emsp;(5) “train employee” means an individual engaged in or connected with the movement of a train, including a hostler.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888; Pub. L. 110–432, div. A, title I, §108(a), Oct. 16, 2008, 122 Stat. 4860.)
 
 Historical and Revision Notes
 
@@ -47,4 +47,30 @@ Clause (3) is added to provide a definition of “employee” when the source pr
 Clause (4) is added to avoid the necessity of repeating the substance of the definition every time a “signal employee” is referred to in this chapter. The language in clause (4) is derived from 45:63a.
 
 In clause (5), the words “train employee” are substituted for “employee” to distinguish the term from the terms “dispatching service employee” and “signal employee”. The word “actually” is omitted as surplus.
+
+#### Amendments
+
+2008—Par. (4). Pub. L. 110–432 struck out “employed by a railroad carrier” after “individual”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–432, div. A, title I, §108(g), Oct. 16, 2008, 122 Stat. 4866, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 21103 and 21104 of this title\] shall take effect 9 months after the date of enactment of this Act \[Oct. 16, 2008\].”
+
+#### Record Keeping and Reporting
+
+Pub. L. 110–432, div. A, title I, §108(f), Oct. 16, 2008, 122 Stat. 4866, provided that:
+
+“(1)
+
+Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall prescribe a regulation revising the requirements for recordkeeping and reporting for Hours of Service of Railroad Employees contained in part 228 of title 49, Code of Federal Regulations—
+
+&emsp;“(A) to adjust record keeping and reporting requirements to support compliance with chapter 211 of title 49, United States Code, as amended by this Act;
+
+&emsp;“(B) to authorize electronic record keeping, and reporting of excess service, consistent with appropriate considerations for user interface; and
+
+&emsp;“(C) to require training of affected employees and supervisors, including training of employees in the entry of hours of service data.
+
+“(2)
+
+Procedure.—In lieu of issuing a notice of proposed rulemaking as contemplated by section 553 of title 5, United States Code, the Secretary may utilize the Railroad Safety Advisory Committee to assist in development of the regulation. The Secretary may propose and adopt amendments to the revised regulations thereafter as may be necessary in light of experience under the revised requirements.”
 

@@ -6,7 +6,7 @@ In order to assist in the development and promotion of rural tourism, there is e
 
 #### (b) Functions
 
-The functions of the Foundation shall be the planning, development, and implementation of projects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
+The functions of the Foundation shall be the planning, development, and implementation ofprojects and programs which have the potential to increase travel and tourism export revenues by attracting foreign visitors to rural America. Initially, such projects and programs shall include—
 
 &emsp;(1) participation in the development and distribution of educational and promotional materials pertaining to both private and public attractions located in rural areas of the United States, including Federal parks and recreational lands, which can be used by foreign visitors;
 

@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-No covered entity shall discriminate against a qualified individual with a disability because of the disability of such individual in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
+No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
 
 #### (b) Construction
 
-As used in subsection (a) of this section, the term “discriminate” includes—
+As used in subsection (a) of this section, the term “discriminate against a qualified individual on the basis of disability” includes—
 
 &emsp;(1) limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;
 
@@ -104,11 +104,23 @@ As used in subsection (a) of this section, the term “discriminate” includes�
 
 &emsp;&emsp;Information obtained under subparagraph (B) regarding the medical condition or history of any employee are subject to the requirements of subparagraphs (B) and (C) of paragraph (3).
 
-(Pub. L. 101–336, title I, §102, July 26, 1990, 104 Stat. 331; Pub. L. 102–166, title I, §109(b)(2), Nov. 21, 1991, 105 Stat. 1077.)
+(Pub. L. 101–336, title I, §102, July 26, 1990, 104 Stat. 331; Pub. L. 102–166, title I, §109(b)(2), Nov. 21, 1991, 105 Stat. 1077; Pub. L. 110–325, §5(a), Sept. 25, 2008, 122 Stat. 3557.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–325, §5(a)(1), substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
+
+Subsec. (b). Pub. L. 110–325, §5(a)(2), substituted “discriminate against a qualified individual on the basis of disability” for “discriminate” in introductory provisions.
+
 1991—Subsecs. (c), (d). Pub. L. 102–166 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 
 #### Effective Date of 1991 Amendment
 

@@ -44,7 +44,7 @@ As used in this section the “regular rate” at which an employee is employed 
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) boththe fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
@@ -80,7 +80,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtimepremiums, in the particular work over a representative period of time;
+&emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
 > and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) of this section are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
 
@@ -242,7 +242,7 @@ Subsec. (h). Pub. L. 106–202, §2(b), designated existing provisions as par. (
 
 Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
-1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
+1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “tenworkweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
 Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
@@ -312,7 +312,7 @@ Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: “The am
 
 #### Effective Date of 1995 Amendment
 
-Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\]shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
+Section 3 of Pub. L. 104–26 provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
 
 #### Effective Date of 1985 Amendment
 
@@ -345,6 +345,50 @@ Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: “The Se
 #### Transfer of Functions
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+
+#### Applicability; Liability of Employers
+
+Pub. L. 110–244, title III, §306, June 6, 2008, 122 Stat. 1620, provided that:
+
+“(a)
+
+Applicability Following This Act.—Beginning on the date of enactment of this Act \[June 6, 2008\], section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) shall apply to a covered employee notwithstanding section 13(b)(1) of that Act (29 U.S.C. 213(b)(1)).
+
+“(b)
+
+Liability Limitation Following SAFETEA–LU.—
+
+&emsp;“(1)
+
+Limitation on liability.—An employer shall not be liable for a violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) with respect to a covered employee if—
+
+&emsp;&emsp;“(A) the violation occurred in the 1-year period beginning on August 10, 2005; and
+
+&emsp;&emsp;“(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee.
+
+&emsp;“(2)
+
+Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
+
+“(c)
+
+Covered Employee Defined.—In this section, the term ‘covered employee’ means an individual—
+
+&emsp;“(1) who is employed by a motor carrier or motor private carrier (as such terms are defined by section 13102 of title 49, United States Code, as amended by section 305);
+
+&emsp;“(2) whose work, in whole or in part, is defined—
+
+&emsp;&emsp;“(A) as that of a driver, driver's helper, loader, or mechanic; and
+
+&emsp;&emsp;“(B) as affecting the safety of operation of motor vehicles weighing 10,000 pounds or less in transportation on public highways in interstate or foreign commerce, except vehicles—
+
+&emsp;&emsp;&emsp;“(i) designed or used to transport more than 8 passengers (including the driver) for compensation;
+
+&emsp;&emsp;&emsp;“(ii) designed or used to transport more than 15 passengers (including the driver) and not used to transport passengers for compensation; or
+
+&emsp;&emsp;&emsp;“(iii) used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of title 49, United States Code, and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103 of title 49, United States Code; and
+
+&emsp;“(3) who performs duties on motor vehicles weighing 10,000 pounds or less.”
 
 #### Liability of Employers
 

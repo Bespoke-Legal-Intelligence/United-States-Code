@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An appeal may be taken to the Secretary from any decision under section 1359dd of this title establishing allocations of marketing allotments, or under section 1359ff of this title, by any person adversely affected by reason of any such decision.
+An appeal may be taken to the Secretary from any decision under section 1359dd of this title establishing allocations of marketing allotments, or under section 1359ff or 1359gg(d) of this title, by any person adversely affected by reason of any such decision.
 
 #### (b) Procedure
 
@@ -14,39 +14,23 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 &emsp;The Secretary shall provide each appellant an opportunity for a hearing before an administrative law judge in accordance with sections 554 and 556 of title 5. The expenses for conducting the hearing shall be reimbursed by the Commodity Credit Corporation.
 
-#### (c) Special appeal process regarding beet sugar allocations
+(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, §1403(h), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, §4(a), title I, §1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
 
-#### (1) Appeal authorized
+#### Codification
 
-&emsp;Beginning after the 2006 crop year, a processor that has an allocation of the beet sugar allotment under this subpart (referred to in this subsection as a “petitioner”) may file a notice of appeal with the Secretary regarding the petitioner's beet sugar allocation. Except as provided in paragraph (2), the Secretary shall consider the appeal if the notice alleges that any processor that has a beet sugar allocation has failed to fill at least 82.5 percent of its allocation of the beet sugar allotment with sugar produced by it or received from the Commodity Credit Corporation in 2 out of the 3 crop years preceding the crop year in which the appeal is filed. A processor that is alleged to have failed to fill at least 82.5 percent of its allocation shall be allowed to fully participate in the appeal.
-
-#### (2) Exceptions
-
-&emsp;An appeal under paragraph (1) shall not be based on the failure of a processor to fill at least 82.5 percent of its allocation because of drought, flood, hail, or other weather disaster, as determined by the Secretary. The determination by the Secretary shall not require a formal disaster declaration.
-
-#### (3) Response to appeal
-
-&emsp;Upon the petitioner making an appeal to the Secretary, and upon a review by the Secretary of how processors have filled their allocations, the Secretary may—
-
-&emsp;&emsp;(A) assign an increased allocation for beet sugar to the petitioner that provides a fair and equitable distribution of the allocations for beet sugar, taking into account—
-
-&emsp;&emsp;&emsp;(i) production history during the period beginning on April 4, 1996, and through May 13, 2002;
-
-&emsp;&emsp;&emsp;(ii) capital investment during that period;
-
-&emsp;&emsp;&emsp;(iii) increases in United States sugar consumption; and
-
-&emsp;&emsp;&emsp;(iv) the ability or inability of processors to fill the allocations they have received under this subpart; and
-
-&emsp;&emsp;(B) reduce, correspondingly, the allocation for beet sugar of each processor determined to have failed to fill at least 82.5 percent of its allocation of the beet sugar allotment as described in paragraph (1).
-
-#### (4) Filing deadline
-
-&emsp;For purposes of the filing deadline specified in subsection (b)(1) of this section, the 20-day period shall commence on the date on which the Secretary announces the allocations for the subsequent crop year or October 1, whichever is earlier.
-
-(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202.)
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3487; amended Pub. L. 102–237, title I, §111(k), Dec. 13, 1991, 105 Stat. 1836, related to appeals, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §1403(h)(1), inserted “or 1359gg(d)” after “1359ff”.
+
+Subsec. (c). Pub. L. 110–246, §1403(h)(2), struck out subsec. (c) which related to special appeal process regarding beet sugar allocations.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

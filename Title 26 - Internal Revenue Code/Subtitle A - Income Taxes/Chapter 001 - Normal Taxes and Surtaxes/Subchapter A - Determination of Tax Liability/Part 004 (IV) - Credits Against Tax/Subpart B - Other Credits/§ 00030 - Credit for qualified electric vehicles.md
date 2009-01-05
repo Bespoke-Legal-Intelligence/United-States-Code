@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (3) Property used outside United States, etc., not qualified
 
-&emsp;No credit shall be allowed under subsection (a) with respect to any property referred to in section 50(b) or with respect to the portion of the cost of any property taken into account under section 179.
+&emsp;No credit shall be allowed under subsection (a) with respect to any property referred to insection 50(b) or with respect to the portion of the cost of any property taken into account under section 179.
 
 #### (4) Election to not take credit
 

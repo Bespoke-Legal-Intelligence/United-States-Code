@@ -4,7 +4,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
 
 #### (2) Period of coverage
 
@@ -72,7 +72,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### References in Text
 
-The Social Security Act, referred to in par. (2)(A), (D)(ii), and (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (2)(A), (D)(ii), and (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II\(§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in par. (2)(D)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 

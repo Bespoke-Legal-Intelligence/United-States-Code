@@ -30,7 +30,7 @@ Whenever any foreign country or territory, or any part thereof, is occupied by o
 
 &emsp;(14) Piracy by the law of nations;
 
-&emsp;(15) Murder, assault with intent to kill, and manslaughter, committed on the high seas, on board a ship owned by or in control of citizens or residents of such foreign country or territory and not under the flag of the United States, or of some other government;
+&emsp;(15) Murder, assault with intent to kill, and manslaughter, committed on the high seas, onboard a ship owned by or in control of citizens or residents of such foreign country or territory and not under the flag of the United States, or of some other government;
 
 &emsp;(16) Malicious destruction of or attempt to destroy railways, trams, vessels, bridges, dwellings, public edifices, or other buildings, when the act endangers human life.
 

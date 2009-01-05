@@ -2,7 +2,7 @@
 
 It shall be unlawful for any person to transport or deliver for transportation in interstate commerce—
 
-(a) Any agricultural seeds or any mixture of agricultural seeds for seeding purposes, unless each container bears a label giving the following information, in accordance with rules and regulations prescribed under section 1592 of this title.
+(a) Any agricultural seeds or any mixture of agricultural seeds for seeding purposes, unlesseach container bears a label giving the following information, in accordance with rules and regulations prescribed under section 1592 of this title.
 
 &emsp;(1) The name of the kind or kind and variety for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That (A), except with respect to seed mixtures intended for lawn and turf purposes, if any such component is one which the Secretary of Agriculture has determined, in rules and regulations prescribed under section 1592 of this title, is generally labeled as to variety, the label shall bear, in addition to the name of the kind, either the name of such variety or the statement “Variety Not Stated”, (B) in the case of any such component which is a hybrid seed it shall, in addition to the above requirements, be designated as hybrid on the label, and (C) seed mixtures intended for lawn and turf purposes shall be designated as a mixture on the label and each seed component shall be listed on the label in the order of predominance;
 
@@ -54,7 +54,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;&emsp;&emsp;(i) the person who transports, or delivers for transportation, said seed in interstate commerce; or
 
-&emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
+&emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a codedesignation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
 &emsp;(3) For containers of more than one pound of seed—
 
@@ -94,7 +94,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(2) The commonly accepted coined, chemical (generic), or abbreviated chemical name of any substance used in such treatment;
 
-&emsp;(3) If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”: <i>Provided</i>, That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treatedwith POISON”, in red letters on a background of distinctly contrasting color; and
+&emsp;(3) If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”: <i>Provided</i>, That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treated with POISON”, in red letters on a background of distinctly contrasting color; and
 
 &emsp;(4) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 

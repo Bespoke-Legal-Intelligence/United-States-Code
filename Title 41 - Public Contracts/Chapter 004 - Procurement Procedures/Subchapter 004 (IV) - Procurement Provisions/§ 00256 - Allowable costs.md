@@ -90,7 +90,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(ii) whether the executive agency will consider granting such a waiver, and, if the executive agency will consider granting a waiver, the criteria to be used in granting the waiver.
 
-(C) An executive agency shall make the final determination regarding whether to grant a waiver under subparagraph (A) with respect to a covered contract before award of the contract.
+(C) An executive agency shall make the final determination regarding whether to grant awaiver under subparagraph (A) with respect to a covered contract before award of the contract.
 
 (3) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications. Any submission by a contractor of costs which are incurred by the contractor and which are claimed to be allowable under Department of Energy management and operating contracts shall be considered a “proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued”, as used in this section.
 
@@ -194,7 +194,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 
-(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount ofthe costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
+(B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
 (ii) Regulations issued for the purpose of clause (i) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate.
 
@@ -272,7 +272,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section effective with respect to contracts awarded after Nov. 19, 1988, see section 8(e) of Pub. L. 100–700, setout as an Effective and Termination Dates of 1988 Amendment note under section 2324 of Title 10, Armed Forces.
+Section effective with respect to contracts awarded after Nov. 19, 1988, see section 8(e) of Pub. L. 100–700, set out as an Effective and Termination Dates of 1988 Amendment note under section 2324 of Title 10, Armed Forces.
 
 #### Revision of Cost Principle Relating to Entertainment, Gift, and Recreation Costs for Contractor Employees
 

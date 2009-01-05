@@ -84,7 +84,7 @@ Authorization.—There are authorized to be appropriated such sums as may be nec
 
 “(a)
 
-Yosemite National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude of less than 2,000 feet over the surface of Yosemite National Park. For purposes of this subsection, the term ‘surface’ refers to the highest terrain within the park which is within 2,000 feet laterally of the route of flight and with respect to Yosemite Valley such term refers to the upper-most rim of the valley.
+Yosemite National Park.—During the study and review periods provided in subsection (c), it shall be unlawful for any fixed wing aircraft or helicopter flying under visual flight rules to fly at an altitude of less than 2,000 feet over the surface of Yosemite National Park. For purposes of this subsection, the term ‘surface’ refers to the highest terrain within the park which is within 2,000 feet laterally of the route of flightand with respect to Yosemite Valley such term refers to the upper-most rim of the valley.
 
 “(b)
 

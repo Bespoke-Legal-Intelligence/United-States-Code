@@ -1,6 +1,6 @@
 ### §133. Under Secretary of Defense for Acquisition, Technology, and Logistics
 
-(a) There is an Under Secretary of Defense for Acquisition, Technology, and Logistics, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive management background in the private sector.
+(a) There is an Under Secretary of Defense for Acquisition, Technology, and Logistics, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Under Secretary shall be appointed from among persons who have an extensive management background.
 
 (b) Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall perform such duties and exercise such powers relating to acquisition as the Secretary of Defense may prescribe, including—
 
@@ -32,7 +32,7 @@
 
 (2) With regard to all matters other than matters for which he has responsibility by law or by direction of the Secretary of Defense, the Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, and the Secretaries of the military departments.
 
-(Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §907, Jan. 28, 2008, 122 Stat. 277.)
 
 #### References in Text
 
@@ -47,6 +47,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 133 was renumbered section 113 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 struck out “in the private sector” after “extensive management background”.
 
 2006—Subsec. (c)(1). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
@@ -84,7 +86,7 @@ Pub. L. 103–160, div. A, title IX, §904(a), (f), Nov. 30, 1993, 107 Stat. 172
 
 #### Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies
 
-Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, provided that:
+Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275, provided that:
 
 “(a)
 
@@ -104,7 +106,7 @@ In general.—The senior acquisition official designated under subsection (a) sh
 
 &emsp;&emsp;“(A) is in compliance with department-wide acquisition policy; and
 
-&emsp;&emsp;“(B) is coordinated with and mutually supportive of acquisition programs of the military departments.
+&emsp;&emsp;“(B) is coordinated with acquisition programs of the military departments.
 
 &emsp;“(2)
 

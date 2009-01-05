@@ -6,7 +6,7 @@ The President is authorized to provide assistance to foreign countries directly,
 
 &emsp;(1) the drafting of laws to prohibit and punish acts of trafficking;
 
-&emsp;(2) the investigation and prosecution of traffickers;
+&emsp;(2) the investigation and prosecution of traffickers, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation;
 
 &emsp;(3) the creation and maintenance of facilities, programs, projects, and activities for the protection of victims; and
 
@@ -16,7 +16,7 @@ The President is authorized to provide assistance to foreign countries directly,
 
 Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\] shall be made available to carry out this section. Assistance may be provided under this section notwithstanding section 2420 of this title.
 
-(Pub. L. 87–195, pt. I, §134, as added Pub. L. 106–386, div. A, §109, Oct. 28, 2000, 114 Stat. 1481; amended Pub. L. 108–193, §6(f), Dec. 19, 2003, 117 Stat. 2883.)
+(Pub. L. 87–195, pt. I, §134, as added Pub. L. 106–386, div. A, §109, Oct. 28, 2000, 114 Stat. 1481; amended Pub. L. 108–193, §6(f), Dec. 19, 2003, 117 Stat. 2883; Pub. L. 110–457, title I, §103(b), Dec. 23, 2008, 122 Stat. 5046.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ The Support for East European Democracy (SEED) Act of 1989, referred to in subse
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–457 inserted “, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation” before semicolon at end.
 
 2003—Subsec. (b). Pub. L. 108–193 inserted at end “Assistance may be provided under this section notwithstanding section 2420 of this title.”
 

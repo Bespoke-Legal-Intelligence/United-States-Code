@@ -6,7 +6,7 @@ Definition.—In this section, “vehicle identification number” means a uniqu
 
 (b)
 
-General Requirements.—(1) If an insurance carrier selling comprehensive motor vehicle insurance coverage obtains possession of andtransfers a junk motor vehicle or a salvage motor vehicle, the carrier shall—
+General Requirements.—(1) If an insurance carrier selling comprehensive motor vehicle insurance coverage obtains possession of and transfers a junk motor vehicle or a salvage motor vehicle, the carrier shall—
 
 &emsp;(A) under procedures the Attorney General prescribes by regulation under section 33109 of this title in consultation with the Secretary of Transportation, verify whether the vehicle is reported as stolen; and
 

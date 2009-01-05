@@ -6,7 +6,7 @@ Treatment of Charges for Mobile Telecommunications Services.—Notwithstanding t
 
 (b)
 
-Jurisdiction.—All charges for mobile telecommunications services that are deemed to be provided by the customer's home service provider under sections 116 through 126 of this title are authorized to be subjected to tax, charge, or fee by the taxing jurisdictions whose territorial limits encompass the customer's place of primary use, regardless of where the mobile telecommunication services originate, terminate, or pass through, and no other taxing jurisdiction may impose taxes, charges, or fees on charges for such mobile telecommunications services.
+Jurisdiction.—All charges for mobile telecommunications services that are deemed to beprovided by the customer's home service provider under sections 116 through 126 of this title are authorized to be subjected to tax, charge, or fee by the taxing jurisdictions whose territorial limits encompass the customer's place of primary use, regardless of where the mobile telecommunication services originate, terminate, or pass through, and no other taxing jurisdiction may impose taxes, charges, or fees on charges for such mobile telecommunications services.
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 627.)
 

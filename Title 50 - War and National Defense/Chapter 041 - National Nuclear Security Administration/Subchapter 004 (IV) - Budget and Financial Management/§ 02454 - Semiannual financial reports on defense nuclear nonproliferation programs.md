@@ -8,7 +8,7 @@ The Administrator shall submit to the Committees on Armed Services of the Senate
 
 Each report for a fiscal half shall, for each such defense nuclear nonproliferation program for which amounts are available for the fiscal year that includes that fiscal half, set forth the following:
 
-&emsp;(1) The aggregate amount available for such program as of the beginning of such fiscal half and, within such amount, the uncommittedbalances, the unobligated balances, and the unexpended balances.
+&emsp;(1) The aggregate amount available for such program as of the beginning of such fiscal half and, within such amount, the uncommitted balances, the unobligated balances, and the unexpended balances.
 
 &emsp;(2) The aggregate amount newly made available for such program during such fiscal half and, within such amount, the amount made available by appropriations, by transfers, by reprogrammings, and by other means.
 

@@ -68,7 +68,7 @@ Solely for purposes of section 1245, in the case of property to which a qualifie
 
 &emsp;(1) the deduction allowed by this section for such expenditure shall be treated as a deduction for depreciation, and
 
-&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245property solely for purposes of applying section 1245 to such deduction.
+&emsp;(2) such property (if not otherwise section 1245 property) shall be treated as section 1245 property solely for purposes of applying section 1245 to such deduction.
 
 #### (f) Coordination with other provisions
 
@@ -80,9 +80,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (h) Termination
 
-This section shall not apply to expenditures paid or incurred after December 31, 2007.
+This section shall not apply to expenditures paid or incurred after December 31, 2009.
 
-(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939.)
+(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873.)
 
 #### References in Text
 
@@ -91,6 +91,8 @@ The date of the enactment of this section, referred to in subsec. (c)(2), (4), i
 Sections 101(14), 102, 104, and 105(a)(8)(B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (c)(2) and (d), are classified to sections 9601(14), 9602, 9604, and 9605(a)(8)(B), respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
 2006—Subsec. (d)(1)(C). Pub. L. 109–432, §109(b), added subpar. (C).
 
@@ -105,6 +107,10 @@ Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §162(b)\], substituted “
 1999—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 Subsec. (h). Pub. L. 106–170, §511, substituted “2001” for “2000”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title III, §318(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 

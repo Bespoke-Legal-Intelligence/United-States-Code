@@ -134,7 +134,7 @@ Revocation.—The Under Secretary may,<sup>1</sup> (in the Under Secretary's dis
 
 (e)
 
-Compensation.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriers shall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
+Compensation.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriersshall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
 
 (f)
 
@@ -228,7 +228,7 @@ Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–29
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Equitable Implementation of 2003 Amendments
 

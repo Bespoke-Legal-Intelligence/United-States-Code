@@ -2,7 +2,7 @@
 
 From the decisions made under sections 2404, 2443, 2501, and 2568 of this title appeal may, within sixty days or such further times as the Secretary allows, be taken under the Federal Rules of Appellate Procedure. The United States Court of Appeals for the Federal Circuit shall have jurisdiction of any such appeal.
 
-(Pub. L. 91–577, title II, §71, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 97–164, title I, §145, Apr. 2, 1982, 96Stat. 45; Pub. L. 103–349, §8(d)(1), Oct. 6, 1994, 108 Stat. 3141.)
+(Pub. L. 91–577, title II, §71, Dec. 24, 1970, 84 Stat. 1550; Pub. L. 97–164, title I, §145, Apr. 2, 1982, 96 Stat. 45; Pub. L. 103–349, §8(d)(1), Oct. 6, 1994, 108 Stat. 3141.)
 
 #### Amendments
 

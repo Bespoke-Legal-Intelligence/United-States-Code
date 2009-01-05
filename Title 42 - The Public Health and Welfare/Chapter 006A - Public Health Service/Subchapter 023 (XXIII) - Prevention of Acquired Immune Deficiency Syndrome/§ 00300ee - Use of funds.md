@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The purpose of this subchapter is to provide for the establishment of education and information programs to prevent and reduce exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
+The purpose of this subchapter is to provide for the establishment of education and information programs to prevent and reduce exposureto, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
 
 #### (b) Contents of programs
 

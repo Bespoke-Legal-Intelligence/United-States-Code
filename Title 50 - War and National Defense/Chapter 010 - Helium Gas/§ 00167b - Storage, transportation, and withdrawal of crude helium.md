@@ -52,7 +52,7 @@ A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and 
 
 #### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section consisted of single par. authorizing Secretary to maintain and operate helium production and purification plants and to conduct or contract for research as to helium production, purification, transportation, liquefaction, storage, and utilization.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section consisted of single par. authorizing Secretary to maintain and operate helium production and purification plants and to conduct or contract for research as to helium production, purification, transportation, liquefaction, storage, and utilization.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

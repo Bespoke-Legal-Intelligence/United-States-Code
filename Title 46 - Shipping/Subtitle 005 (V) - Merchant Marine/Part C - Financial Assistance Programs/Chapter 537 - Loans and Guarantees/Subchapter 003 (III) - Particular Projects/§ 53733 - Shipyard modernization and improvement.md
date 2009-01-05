@@ -32,7 +32,7 @@ Modern shipbuilding technology.—The term “modern shipbuilding technology” 
 
 (b)
 
-General Authority.—Under subchapter I of this chapter, the Secretary may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
+General Authority.—Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
 
 (c)
 
@@ -44,13 +44,9 @@ Amount of Obligation.—The principal amount of an obligation guaranteed under t
 
 (e)
 
-Transfer of Amounts.—The Secretary may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
+Transfer of Amounts.—The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived in part from section 1279e of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1279e of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(9)(F), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -93,4 +89,12 @@ Pub. L. 103–160, title XIII, §1358, Nov. 30, 1993, 107 Stat. 1816.
 In subsection (a)(2)(A)(i), the words “(as defined in title 1)” are omitted as unnecessary because chapter 1 of the revised title contains a title-wide definition of “vessel” that incorporates the definition in title 1, United States Code.
 
 In subsection (b), the words “and subject to the terms the Secretary shall be prescribe” are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words “Only a private shipyard is eligible to receive a guarantee” are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(K). See 2006 Amendment note below.
+
+Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 

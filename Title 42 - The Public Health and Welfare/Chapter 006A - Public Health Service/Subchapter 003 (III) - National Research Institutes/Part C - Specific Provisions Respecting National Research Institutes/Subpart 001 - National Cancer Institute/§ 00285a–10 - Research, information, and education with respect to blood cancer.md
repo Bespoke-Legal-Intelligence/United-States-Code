@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director of NIH shall expand, intensify, and coordinate programs for the conduct andsupport of research with respect to blood cancer, and particularly with respect to leukemia, lymphoma, and multiple myeloma.
+&emsp;The Director of NIH shall expand, intensify, and coordinate programs for the conduct and support of research with respect to blood cancer, and particularly with respect to leukemia, lymphoma, and multiple myeloma.
 
 #### (2) Administration
 

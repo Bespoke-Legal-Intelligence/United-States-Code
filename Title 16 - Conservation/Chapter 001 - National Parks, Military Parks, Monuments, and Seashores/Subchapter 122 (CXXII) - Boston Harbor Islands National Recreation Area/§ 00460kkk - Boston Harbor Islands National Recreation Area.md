@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(i) The areas depicted on the map referenced in subparagraph (A).
 
-&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in thecity of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
+&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
 #### (3) Land acquisition
 
@@ -242,7 +242,7 @@ For the purposes of this section—
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expendedon a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567.)
 

@@ -38,9 +38,49 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;Subparagraph (A) shall be applied without regard to any sale or exchange before May 7, 1997.
 
-#### (4) Special rule for certain sales by surviving spouses
+#### (4) <sup>1</sup> Special rule for certain sales by surviving spouses
 
 &emsp;In the case of a sale or exchange of property by an unmarried individual whose spouse is deceased on the date of such sale, paragraph (1) shall be applied by substituting “$500,000” for “$250,000” if such sale occurs not later than 2 years after the date of death of such spouse and the requirements of paragraph (2)(A) were met immediately before such date of death.
+
+#### (4) <sup>1</sup> Exclusion of gain allocated to nonqualified use
+
+#### (A) In general
+
+&emsp;&emsp;Subsection (a) shall not apply to so much of the gain from the sale or exchange of property as is allocated to periods of nonqualified use.
+
+#### (B) Gain allocated to periods of nonqualified use
+
+&emsp;&emsp;For purposes of subparagraph (A), gain shall be allocated to periods of nonqualified use based on the ratio which—
+
+&emsp;&emsp;&emsp;(i) the aggregate periods of nonqualified use during the period such property was owned by the taxpayer, bears to
+
+&emsp;&emsp;&emsp;(ii) the period such property was owned by the taxpayer.
+
+#### (C) Period of nonqualified use
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “period of nonqualified use” means any period (other than the portion of any period preceding January 1, 2009) during which the property is not used as the principal residence of the taxpayer or the taxpayer's spouse or former spouse.
+
+#### (ii) Exceptions
+
+&emsp;&emsp;&emsp;The term “period of nonqualified use” does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any portion of the 5-year period described in subsection (a) which is after the last date that such property is used as the principal residence of the taxpayer or the taxpayer's spouse,
+
+&emsp;&emsp;&emsp;&emsp;(II) any period (not to exceed an aggregate period of 10 years) during which the taxpayer or the taxpayer's spouse is serving on qualified official extended duty (as defined in subsection (d)(9)(C)) described in clause (i), (ii), or (iii) of subsection (d)(9)(A), and
+
+&emsp;&emsp;&emsp;&emsp;(III) any other period of temporary absence (not to exceed an aggregate period of 2 years) due to change of employment, health conditions, or such other unforeseen circumstances as may be specified by the Secretary.
+
+#### (D) Coordination with recognition of gain attributable to depreciation
+
+&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) subparagraph (A) shall be applied after the application of subsection (d)(6), and
+
+&emsp;&emsp;&emsp;(ii) subparagraph (B) shall be applied without regard to any gain to which subsection (d)(6) applies.
 
 #### (c) Exclusion for taxpayers failing to meet certain requirements
 
@@ -90,7 +130,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Property used by former spouse pursuant to divorce decree, etc.
 
-&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property assuch individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument (as defined in section 71(b)(2)).
+&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property as such individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument (as defined in section 71(b)(2)).
 
 #### (4) Tenant-stockholder in cooperative housing corporation
 
@@ -200,10 +240,6 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;The term “extended duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
 
-#### (vi) Special rule relating to intelligence community
-
-&emsp;&emsp;&emsp;An employee of the intelligence community shall not be treated as serving on qualified extended duty unless such duty is at a duty station located outside the United States.
-
 #### (D) Special rules relating to election
 
 #### (i) Election limited to 1 property at a time
@@ -214,13 +250,23 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;An election under subparagraph (A) may be revoked at any time.
 
-#### (E) Termination with respect to employees of intelligence community
-
-&emsp;&emsp;Clause (iii) of subparagraph (A) shall not apply with respect to any sale or exchange after December 31, 2010.
-
 #### (10) Property acquired in like-kind exchange
 
 &emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
+
+#### (12) <sup>2</sup> Peace Corps
+
+#### (A) In general
+
+&emsp;&emsp;At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual's spouse is serving outside the United States—
+
+&emsp;&emsp;&emsp;(i) on qualified official extended duty (as defined in paragraph (9)(C)) as an employee of the Peace Corps, or
+
+&emsp;&emsp;&emsp;(ii) as an enrolled volunteer or volunteer leader under section 5 or 6 (as the case may be) of the Peace Corps Act (22 U.S.C. 2504, 2505).
+
+#### (B) Applicable rules
+
+&emsp;&emsp;For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) <sup>3</sup> shall apply.
 
 #### (e) Denial of exclusion for expatriates
 
@@ -232,9 +278,9 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 #### (g) Residences acquired in rollovers under section 1034
 
-For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
+For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>4</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911.)
 
 #### Amendment of Subsection (d)
 
@@ -274,7 +320,15 @@ A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
 
-2007—Subsec. (b)(4). Pub. L. 110–142 added par. (4).
+2008—Subsec. (b)(4). Pub. L. 110–289 added par. (4) relating to exclusion of gain allocated to nonqualified use.
+
+Subsec. (d)(9)(C)(vi). Pub. L. 110–245, §113(b), struck out heading and text of cl. (vi). Text read as follows: “An employee of the intelligence community shall not be treated as serving on qualified extended duty unless such duty is at a duty station located outside the United States.”
+
+Subsec. (d)(9)(E). Pub. L. 110–245, §113(a), struck out heading and text of subpar. (E). Text read as follows: “Clause (iii) of subparagraph (A) shall not apply withrespect to any sale or exchange after December 31, 2010.”
+
+Subsec. (d)(12). Pub. L. 110–245, §110(a), added par. (12).
+
+2007—Subsec. (b)(4). Pub. L. 110–142 added par. (4) relating to special rule for certain sales by surviving spouses.
 
 Subsec. (d)(9)(E). Pub. L. 110–172 added subpar. (E).
 
@@ -346,9 +400,17 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. C, title III, §3092(b), July 30, 2008, 122 Stat. 2912, provided that: “The amendment made by this section \[amending this section\] shall apply to sales and exchanges after December 31, 2008.”
+
+Pub. L. 110–245, title I, §110(b), June 17, 2008, 122 Stat. 1634, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+
+Pub. L. 110–245, title I, §113(c), June 17, 2008, 122 Stat. 1635, provided that: “The amendments made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[June 17, 2008\].”
+
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section\[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
+Pub. L. 110–142, §7(b), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or exchanges after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
@@ -442,7 +504,7 @@ Section 1404(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 
 #### Effective Date
 
-Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, andamending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
+Section 206(c) of Pub. L. 88–272 provided that: “The amendments made by this section \[enacting this section, redesignating former section 121 as 122, and amending sections 1033, 1034, and 6012 of this title\] shall apply to dispositions after Dec. 31, 1963, in taxable years ending after such date.”
 
 #### Sense of Congress Concerning Tax Treatment of Principal Residence of Members of Armed Forces While Away From Home on Active Duty
 
@@ -452,5 +514,11 @@ Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provi
 
 Section 404(d)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a sale or exchange of a residence before July 26, 1981, a taxpayer who has attained age 65 on the date of such sale or exchange may elect to have section 121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied by substituting ‘8-year period’ for ‘5-year period’ and ‘5 years’ for ‘3 years’ in subsections (a), (d)(2), and (d)(5) of such section.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See Amendment of Subsection (d) note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

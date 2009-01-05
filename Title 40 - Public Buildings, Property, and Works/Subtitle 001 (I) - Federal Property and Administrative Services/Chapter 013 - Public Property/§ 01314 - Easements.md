@@ -28,7 +28,7 @@ Real property of the government.—The term “real property of the Government�
 
 &emsp;(3)
 
-State.—The term “State” means a State of the United States, the District of Columbia,Puerto Rico, and the territories and possessions of the United States.
+State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 

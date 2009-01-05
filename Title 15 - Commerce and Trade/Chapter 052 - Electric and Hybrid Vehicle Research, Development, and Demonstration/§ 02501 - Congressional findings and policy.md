@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) electric and hybrid vehicles use little or no energy when stopped in traffic, in contrast to conventional automobiles and trucks;
 
-&emsp;&emsp;(E) the power requirements of such vehicles could be satisfied by charging them during off-peak periods when existing electricgenerating plants are underutilized, thereby permitting more efficient use of existing generating capacity;
+&emsp;&emsp;(E) the power requirements of such vehicles could be satisfied by charging them during off-peak periods when existing electric generating plants are underutilized, thereby permitting more efficient use of existing generating capacity;
 
 &emsp;&emsp;(F) such vehicles do not emit any significant pollutants or noise; and
 

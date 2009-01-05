@@ -26,7 +26,7 @@ This chapter shall take effect on the one hundred and eightieth day beginning af
 
 #### Amendments
 
-1996—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted “(as determinedwithout regard to the adjustment made by subsection (b) of this section)” before period at end, and added subsec. (b).
+1996—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted “(as determined without regard to the adjustment made by subsection (b) of this section)” before period at end, and added subsec. (b).
 
 1992—Pub. L. 102–550, §1604(a)(15), amended directory language of Pub. L. 102–242, §224(a). See 1991 Amendment note below.
 

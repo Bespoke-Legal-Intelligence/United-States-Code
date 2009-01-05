@@ -28,9 +28,11 @@ The programs referred to in subsection (a) of this section are the following:
 
 The programs described in subsection (b) of this section should, to the extent feasible, draw upon United States technology and expertise, especially from the private sector of the United States.
 
-(Pub. L. 103–160, div. A, title XII, §1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, §1306(c), formerly §1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered §1306(c), Pub. L. 109–163, div. A, title XIII, §1303(2), Jan. 6, 2006, 119 Stat. 3474; Pub. L. 110–53, title XVIII, §1811(2), Aug. 3, 2007, 121 Stat. 492.)
+(Pub. L. 103–160, div. A, title XII, §1203, Nov. 30, 1993, 107 Stat. 1778; Pub. L. 107–314, div. A, title XIII, §1306(c), formerly §1306(e), Dec. 2, 2002, 116 Stat. 2673, renumbered §1306(c), Pub. L. 109–163, div. A, title XIII, §1303(2), Jan. 6, 2006, 119 Stat. 3474; Pub. L. 110–53, title XVIII, §1811(2), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(2), Jan. 28, 2008, 122 Stat. 412.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–181 made amendment identical to that made by Pub. L. 110–53. See 2007 Amendment note below.
 
 2007—Subsec. (d). Pub. L. 110–53 struck out subsec. (d) which prohibited assistance unless the President had certified to Congress that the proposed recipient state was committed to meeting specified conditions relating to elimination of weapons of mass destruction, compliance with arms control agreements, and observation of internationally recognized human rights.
 
@@ -88,11 +90,11 @@ Definition.—In this section, the term ‘country of proliferation concern’ m
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
-\[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of Stateby section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
+\[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
 
 #### Specification of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
 
-Pub. L. 107–314, div. A, title XIII, §1301(a), Dec. 2, 2002, 116 Stat. 2670, provided that: “For purposes of section 301 \[116 Stat. 2505\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
+Pub. L. 107–314, div. A, title XIII, §1301(a), Dec. 2, 2002, 116 Stat. 2670, provided that: “For purposes of section301 \[116 Stat. 2505\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2731; 50 U.S.C. 2362 note).”
 
 #### Limited Waiver of Restrictions on Use of Funds for Threat Reduction in States of the Former Soviet Union
 
@@ -272,7 +274,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;“(A) all stocks of nuclear weapons and weapons-usable nuclear material in the Russian Federation are secure and accounted for;
 
-&emsp;&emsp;“(B) stocks of nuclear weapons and weapons-usable nuclear material that are excess to military needs in the Russian Federation are monitored and reduced;
+&emsp;&emsp;“(B) stocks of nuclear weapons and weapons-usable nuclear material that are excess to militaryneeds in the Russian Federation are monitored and reduced;
 
 &emsp;&emsp;“(C) any chemical or biological weapons, related materials, and facilities in the Russian Federation are destroyed;
 
@@ -306,7 +308,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(11) At the June 2002 meeting of the G–8 countries, agreement was achieved on a G–8 Global Partnership against the Spread of Weapons and Materials of Mass Destruction, under which the advanced industrial democracies committed to contribute $20,000,000,000 to nonproliferation programs in the Russian Federation during a 10-year period, with each contributing country having the option to fund some or all of its contribution through reduction in the Russian Federation's official debt to that country.
 
-&emsp;“(12) The Russian Federation's Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1701 et seq.).
+&emsp;“(12) The Russian Federation's Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] (7 U.S.C. 1701 et seq.).
 
 “(b)
 
@@ -356,7 +358,7 @@ In general.—Upon the entry into force of a Russian Federation Nonproliferation
 
 &emsp;“(2)
 
-Limitation.—The authority provided by paragraph (1) shall be available only to the extent thatappropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of reducing any debt pursuant to such subsection are made in advance.
+Limitation.—The authority provided by paragraph (1) shall be available only to the extent that appropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\]) of reducing any debt pursuant to such subsection are made in advance.
 
 &emsp;“(3)
 
@@ -570,7 +572,7 @@ Annual Report on Implementation of Plan.—(1) Not later than January 31, 2003, 
 
 &emsp;“(D) any recommendations that the President considers appropriate regarding modifications to law or regulations, or to the administration or organization of any Federal department or agency, in order to improve the effectiveness of any programs carried out during such year in the implementation of the plan.”
 
-\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary of State by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
+\[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary ofState by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.\]
 
 #### Cooperative Threat Reduction Programs and Funds Defined for Purposes of Pub. L. 107–107
 
@@ -614,21 +616,7 @@ Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting p
 
 #### Limitation on Use of Funds for Certain Purposes
 
-Pub. L. 108–375, div. A, title XIII, §1303, Oct. 28, 2004, 118 Stat. 2093, as amended by Pub. L. 109–364, div. A, title XIII, §1303, Oct. 17, 2006, 120 Stat. 2432, provided that:
-
-“(a)
-
-Temporary Authority.—Section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 22 U.S.C. 5952 note) shall not apply for a calendar year to the chemical weapons destruction facility that is (as of 2006) under construction at Shchuch'ye in the Russian Federation, if the President submits to Congress a written certification, for the calendar year concerned, that includes—
-
-&emsp;“(1) a statement as to why a waiver of the conditions described in such section 1305 is important to the national security interests of the United States;
-
-&emsp;“(2) a full and complete justification for the waiver of the conditions; and
-
-&emsp;“(3) a plan to promote a full and accurate disclosure by Russia regarding the size, content, status, and location of its chemical weapons stockpile.
-
-“(b)
-
-Expiration.—The authority in subsection (a) is not effective for calendar years after calendar year 2011.”
+Pub. L. 108–375, div. A, title XIII, §1303, Oct. 28, 2004, 118 Stat. 2093, as amended by Pub. L. 109–364, div. A, title XIII, §1303, Oct. 17, 2006, 120 Stat. 2432, which provided that section 1305 of Pub. L. 106–65 (repealed, see below), would not apply for a calendar year to the chemical weapons destruction facility that was as of 2006 under construction at Shchuch'ye in the Russian Federation if the President submitted to Congress a written certification stating that certain conditions would be met for waiver, and also provided that such presidential waiver authority would not exist for calendar years after calendar year 2011, was repealed by Pub. L. 110–181, div. A, title XIII, §1304(a)(4), Jan. 28, 2008, 122 Stat. 413.
 
 Pub. L. 107–314, div. A, title XIII, §1305, Dec. 2, 2002, 116 Stat. 2673, provided that: “No funds authorized to be appropriated for Cooperative Threat Reduction programs for any fiscal year may be used for the design, planning, or construction of a second wing for a storage facility for Russian fissile material.”
 
@@ -648,15 +636,15 @@ Expiration of Authority.—The authority under paragraph (a) shall expire Januar
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used forplanning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
+Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
 
-Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492, provided that:
+Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(3), Jan. 28, 2008, 122 Stat. 412, provided that:
 
 #### “SEC. 1303. PROHIBITION ON USE OF FUNDS FOR SPECIFIED PURPOSES
 
 “(a)
 
-In General.—No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
+In General.—No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the dateof the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
 
 &emsp;“(1) Conducting with Russia any peacekeeping exercise or other peacekeeping-related activity.
 
@@ -694,9 +682,9 @@ Limitation on Construction.—No funds authorized to be appropriated for Coopera
 
 &emsp;“(2) A detailed cost estimate for a second wing for the facility.
 
-&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.”
+&emsp;“(3) A certification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
 
-#### \[SEC. 1305. Repealed. Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492.\]
+#### “\[SEC. 1305. Repealed. Pub. L. 110–53, title XVIII, §1811(3), Aug. 3, 2007, 121 Stat. 492, and Pub. L. 110–181, div. A, title XIII, §1304(a)(3), Jan. 28, 2008, 122 Stat. 412.\]”
 
 Similar provisions were contained in the following prior authorization acts:
 
@@ -760,7 +748,7 @@ Summary Required.—The Secretary of Defense shall submit to Congress in the mat
 
 &emsp;“(1) a descriptive summary, with respect to the appropriations requested for Cooperative Threat Reduction programs for the fiscal year after the fiscal year in which the summary is submitted, of the amounts requested for each project category under each Cooperative Threat Reduction program element; and
 
-&emsp;“(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programs for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
+&emsp;“(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programsfor the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
 
 “(b)
 

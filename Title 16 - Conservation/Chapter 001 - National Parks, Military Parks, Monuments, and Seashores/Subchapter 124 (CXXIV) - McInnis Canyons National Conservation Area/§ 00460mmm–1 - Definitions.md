@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Council
 
-&emsp;The term “Council” means the McInnis Canyons National Conservation Area Advisory Council established under section 460mmm–6 of this title.
+&emsp;The term “Council” means the McInnis Canyons National Conservation Area AdvisoryCouncil established under section 460mmm–6 of this title.
 
 #### (3) Management plan
 

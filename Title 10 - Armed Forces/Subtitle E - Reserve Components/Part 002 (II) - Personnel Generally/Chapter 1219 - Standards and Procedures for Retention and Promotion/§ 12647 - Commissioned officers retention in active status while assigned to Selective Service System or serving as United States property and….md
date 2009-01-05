@@ -1,8 +1,8 @@
 ### §12647. Commissioned officers: retention in active status while assigned to Selective Service System or serving as United States property and fiscal officers
 
-Notwithstanding chapters 573, 1407, and 1409 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under section 708 of title 32, may be retained in an active status in that assignment or position until he becomes 60 years of age.
+Notwithstanding chapters 573, 1407, and 1409 of this title, a reserve commissioned officer, other than a commissioned warrant officer, who is assigned to the Selective Service System or who is a property and fiscal officer appointed, designated, or detailed under section 708 of title 32, may be retained in an active status in that assignment or position until he becomes 62 years of age.
 
-(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1445, §1007; amended Pub. L. 86–559, §1(3)(B), June 30, 1960, 74 Stat. 265; renumbered §12647 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(4), Oct. 5, 1994, 108 Stat. 2996, 3018.)
+(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1445, §1007; amended Pub. L. 86–559, §1(3)(B), June 30, 1960, 74 Stat. 265; renumbered §12647 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(4), Oct. 5, 1994, 108 Stat. 2996, 3018; Pub. L. 110–417, \[div. A\], title V, §514(a), Oct. 14, 2008, 122 Stat. 4441.)
 
 Historical and Revision Notes
 
@@ -23,6 +23,8 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §212), 212, 68 Stat. 1149
 The words “this title” are substituted for the words “this chapter”, since the provisions of this title requiring transfer from an active status are based on the source statute for this section (the Reserve Officer Personnel Act of 1954).
 
 #### Amendments
+
+2008—Pub. L. 110–417 substituted “62 years” for “60 years”.
 
 1994—Pub. L. 103–337, §1675(d)(4), substituted “573, 1407, and 1409” for “337, 363, 573, 837, and 863”.
 

@@ -22,7 +22,7 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 &emsp;(3) for not more than 10 years, if serious bodily injury to the victim results or if the offender uses a dangerous weapon during the offense;
 
-&emsp;(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committed in the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
+&emsp;(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committedin the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
 
 &emsp;(5) for not more than 5 years, in any other case,
 
@@ -50,7 +50,7 @@ Crossing a state line.—A person who travels across a State line or enters or l
 
 “(2)
 
-Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross aState line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
+Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
 
 1996—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
 

@@ -64,9 +64,9 @@ Authorized Activities.—Research activities authorized to be assisted under thi
 
 &emsp;“(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English;
 
-&emsp;“(7) studies to determine and evaluate effective methods of instruction for bilingual programs, takinginto account language and cultural differences among students;
+&emsp;“(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students;
 
-&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students;
+&emsp;“(8) studies to determine effective approaches to preservice and inservice training for teachers, takinginto account the language and cultural differences of their students;
 
 &emsp;“(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this \[such\] title; and
 

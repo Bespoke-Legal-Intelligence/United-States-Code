@@ -26,3 +26,7 @@ GS–15, referred to in subsec. (a)(2), is contained in the General Schedule, wh
 
 Level III of the Executive Schedule, referred to in subsec. (a)(2), is set out in section 5314 of Title 5, Government Organization and Employees.
 
+#### References to Maximum Rate Under 5 U.S.C. 5376
+
+Except as otherwise provided, reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
+

@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) each United States shareholder described in subsection (b)(2)(A), and
 
-&emsp;&emsp;&emsp;(ii) each United States shareholder not described in clause (i) whose stock wastreated as owned under subsection (b)(2)(B) by any shareholder described in such clause.
+&emsp;&emsp;&emsp;(ii) each United States shareholder not described in clause (i) whose stock was treated as owned under subsection (b)(2)(B) by any shareholder described in such clause.
 
 #### (B) Testing day
 

@@ -6,7 +6,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (2)(A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range of therapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class.
 
-(B) In considering the relative clinical effectiveness of agents under subparagraph (A), the Secretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage interms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
+(B) In considering the relative clinical effectiveness of agents under subparagraph (A), the Secretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
 
 (C) In considering the relative cost effectiveness of agents under subparagraph (A), the Secretary shall rely on the evaluation by the Pharmacy and Therapeutics Committee of the costs of agents in a therapeutic class in relation to the safety, effectiveness, and clinical outcomes of such agents.
 
@@ -26,7 +26,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (5) The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through at least one of the means described in paragraph (2)(E) under terms and conditions that may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.
 
-(6)(A) The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.
+(6)(A) The Secretary, in the regulations prescribed under subsection (g),<sup>1</sup> may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.
 
 (B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
 
@@ -36,7 +36,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (b)
 
-Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (g).
+Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (g).<sup>1</sup>
 
 (2) Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
@@ -66,19 +66,31 @@ Pharmacy Data Transaction Service.—The Secretary of Defense shall implement th
 
 (f)
 
+Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program.—With respect to any prescription filled on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, the TRICARE retail pharmacy program shall be treated as an element of the Department of Defense for purposes of the procurement of drugs by Federal agencies under section 8126 of title 38 to the extent necessary to ensure that pharmaceuticals paid for by the Department of Defense that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
+
+(g)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “eligible covered beneficiary” means a covered beneficiary for whom eligibility to receive pharmacy benefits through the means described in subsection (a)(2)(E) is established under this chapter or another provision of law.
 
 &emsp;(2) The term “pharmaceutical agent” means drugs, biological products, and medical devices under the regulatory authority of the Food and Drug Administration.
 
-(g)
+(h)
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985; Pub. L. 110–181, div. A, title VII, §703(a), Jan. 28, 2008, 122 Stat. 188.)
+
+#### References in Text
+
+Subsection (g), referred to in subsecs. (a)(6)(A) and (b)(1), was redesignated subsection (h) of this section by Pub. L. 110–181, div. A, title VII, §703(a)(1), Jan. 28, 2008, 122 Stat. 188.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (f), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 #### Amendments
+
+2008—Subsecs. (f) to (h). Pub. L. 110–181 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2004—Subsec. (a)(2)(E)(i). Pub. L. 108–375, §714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
 
@@ -103,6 +115,10 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(E)\], su
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(F)\], substituted “In this section:” for “As used in this section—” in introductory provisions, “The term” for “the term” in pars. (1) and (2), and a period for “; and” at end of par. (1).
 
 Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(G)\], substituted “prescribe” for “promulgate”.
+
+#### Regulations
+
+Pub. L. 110–181, div. A, title VII, §703(b), Jan. 28, 2008, 122 Stat. 188, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(3), Oct. 14, 2008, 122 Stat. 4613, provided that: “The Secretary of Defense shall, after consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, modify the regulations under subsection (h) of section 1074g of title 10, United States Code (as redesignated by subsection (a)(1) of this section), to implement the requirements of subsection (f) of section 1074g of title 10, United States Code (as inserted by subsection (a)(2) of this section). The Secretary shall so modify such regulations not later than December 31, 2007.”
 
 #### Termination of Advisory Panels
 
@@ -174,7 +190,7 @@ Continuation of Demonstration Project.—If the Secretary recommends in the repo
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘drug’ means a drug, including a biological product, within the meaning of section 1074g(f)(2) of title 10, United States Code.
+&emsp;“(1) The term ‘drug’ means a drug, including a biological product, within the meaning of section 1074g(f)(2) \[now 1074g(g)(2)\] of title 10, United States Code.
 
 &emsp;“(2) The term ‘OTC drug’ has the meaning indicated for such term in subsection (b)(1)(A).
 
@@ -208,5 +224,7 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, dire
 
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 
-Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit forcovered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
+Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,9 +28,23 @@ To be eligible to receive a grant under this section, the chief executive office
 
 &emsp;(2) such other assurances and information as the Secretary may require by rule.
 
-(Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749; Pub. L. 107–171, title VII, §7304(b), May 13, 2002, 116 Stat. 455.)
+(Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749; Pub. L. 107–171, title VII, §7304(b), May 13, 2002, 116 Stat. 455; Pub. L. 110–234, title VII, §7511(c)(19), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(19), June 18, 2008, 122 Stat. 1664, 2030.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (a)(2) of this section is amended by substituting “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 2002—Subsec. (b). Pub. L. 107–171 struck out “take into consideration the recommendation of the Advisory Board on Agricultural Weather and” before “consult with the Director”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(19) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

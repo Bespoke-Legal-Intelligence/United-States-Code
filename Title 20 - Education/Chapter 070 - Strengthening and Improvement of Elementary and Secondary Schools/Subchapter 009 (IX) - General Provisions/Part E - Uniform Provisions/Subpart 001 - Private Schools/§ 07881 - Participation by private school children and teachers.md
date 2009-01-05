@@ -8,11 +8,11 @@
 
 #### (2) Secular, neutral, and nonideological services or benefits
 
-&emsp;Educational services or other benefits, including materials and equipment, provided under this section, shall be secular, neutral, and nonideological.
+&emsp;Educational services or other benefits, including materials and equipment, providedunder this section, shall be secular, neutral, and nonideological.
 
 #### (3) Special rule
 
-&emsp;Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public schoolchildren, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
+&emsp;Educational services and other benefits provided under this section for private school children, teachers, and other educational personnel shall be equitable in comparison to services and other benefits for public school children, teachers, and other educational personnel participating in the program and shall be provided in a timely manner.
 
 #### (4) Expenditures
 

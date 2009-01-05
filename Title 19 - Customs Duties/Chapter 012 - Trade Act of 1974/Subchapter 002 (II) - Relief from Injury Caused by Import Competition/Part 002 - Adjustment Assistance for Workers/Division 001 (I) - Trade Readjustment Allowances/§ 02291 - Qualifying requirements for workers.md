@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total orpartial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -156,7 +156,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 &emsp;“(A) is enrolled in a job search program approved by the Secretary under section 2297(c) of this title, or
 
-&emsp;“(B) has, after the date on which the worker became totally separated, or partially separated, fromthe adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title.”
+&emsp;“(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title.”
 
 Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
@@ -200,7 +200,7 @@ Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 
 
 “(d)
 
-Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
+Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit ControlAct of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

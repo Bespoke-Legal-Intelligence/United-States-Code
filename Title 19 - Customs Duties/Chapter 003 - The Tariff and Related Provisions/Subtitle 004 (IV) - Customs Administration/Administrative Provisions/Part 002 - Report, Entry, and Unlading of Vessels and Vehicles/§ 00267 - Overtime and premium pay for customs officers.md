@@ -36,7 +36,7 @@
 
 #### (B) 11 p.m. to 8 a.m. shiftwork
 
-&emsp;&emsp;If the majority of the hours of regularly scheduled work of a customs officer occurs during the period beginning at 11 p.m. and ending at 8 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate.
+&emsp;&emsp;If the majority of the hours of regularly scheduled work of a customs officer occursduring the period beginning at 11 p.m. and ending at 8 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate.
 
 #### (C) 7:30 p.m. to 3:30 a.m. shiftwork
 

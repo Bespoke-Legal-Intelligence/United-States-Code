@@ -21,10 +21,13 @@
 | [2117\.](%C2%A7%2002117%20-%20Limitation%20on%20liability.md) | Limitation on liability. |
 | [2118\.](%C2%A7%2002118%20-%20Records%20of%20Congress.md) | Records of Congress. |
 | [2119\.](%C2%A7%2002119%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
+| [2120\.](%C2%A7%2002120%20-%20Online%20access%20of%20founding%20fathers%20documents.md) | Online access of founding fathers documents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–404, §4(c), Oct. 13, 2008, 122 Stat. 4283, added item 2120.
 
 2004—Pub. L. 108–383, §5(b), Oct. 30, 2004, 118 Stat. 2219, added item 2119.
 
@@ -54,3 +57,4 @@
 - [&sect; 02117 - Limitation on liability](%C2%A7%2002117%20-%20Limitation%20on%20liability.md)
 - [&sect; 02118 - Records of Congress](%C2%A7%2002118%20-%20Records%20of%20Congress.md)
 - [&sect; 02119 - Cooperative agreements](%C2%A7%2002119%20-%20Cooperative%20agreements.md)
+- [&sect; 02120 - Online access of founding fathers documents](%C2%A7%2002120%20-%20Online%20access%20of%20founding%20fathers%20documents.md)

@@ -22,7 +22,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
 
-(4)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it hasratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of section 2621(d) of this title.
+(4)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of section 2621(d) of this title.
 
 (B) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to the standard established by paragraph (14) of section 2621(d) of this title.
 
@@ -64,13 +64,15 @@ Subsections (b) and (c) of this section shall not apply to the standard establis
 
 &emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
 
-&emsp;(2) the State regulatory authority for such State or relevant nonregulated electric utilityhas conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or
+&emsp;(2) the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or
 
 &emsp;(3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
 
 (Pub. L. 95–617, title I, §112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, §111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971; Pub. L. 110–140, title XIII, §1307(b), Dec. 19, 2007, 121 Stat. 1793.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (a)(1)(B), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 Paragraphs (17) through (18) of section 2621(d) of this title and paragraphs (16) through (19) of section 2621(d) of this title, referred to in subsecs. (b)(6), (c), and (d), probably mean pars. (16) and (17) of that section relating to integrated resource planning and rate design modifications to promote energy efficiency as added by Pub. L. 110–140, §532(a), and pars. (16) and (17) of that section relating to consideration of smart grid investments and smart grid information as added by Pub. L. 110–140, §1307(a).
 
@@ -110,7 +112,7 @@ Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
 

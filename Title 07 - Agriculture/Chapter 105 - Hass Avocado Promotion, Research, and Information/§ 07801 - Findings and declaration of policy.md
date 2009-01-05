@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(2) Hass avocados are a significant tree fruit crop grown by many individual producers, but virtually all domestically produced Hass avocados for the commercial market are grown in the State of California.
 
-&emsp;(3) Hass avocados move in interstate and foreign commerce, and Hass avocados that do not move in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in Hass avocados.
+&emsp;(3) Hass avocados move in interstate and foreign commerce, and Hass avocados that do notmove in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in Hass avocados.
 
 &emsp;(4) In recent years, large quantities of Hass avocados have been imported into the United States from other countries.
 

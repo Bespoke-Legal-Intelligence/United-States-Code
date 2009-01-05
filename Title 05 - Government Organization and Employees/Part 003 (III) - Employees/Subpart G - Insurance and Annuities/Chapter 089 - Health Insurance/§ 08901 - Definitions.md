@@ -92,7 +92,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
 
-> &emsp;except that such term shall not include any such unremarried former spouse of a formeremployee whose marriage was dissolved after the former employee's separation from the service (other than by retirement); and
+> &emsp;except that such term shall not include any such unremarried former spouse of a former employee whose marriage was dissolved after the former employee's separation from the service (other than by retirement); and
 
 &emsp;(11) “qualified clinical social worker” means an individual—
 
@@ -208,7 +208,7 @@ Par. (11). Pub. L. 99–251 added par. (11).
 
 Par. (9). Pub. L. 96–179, §2(2)–(4), added par. (9).
 
-1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employeefor the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
+1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
 Pub. L. 96–54 struck out cl. (G) which related to coverage of a United States Commissioner as an “employee”, and redesignated cl. (H) as (G).
 
@@ -388,7 +388,7 @@ Eligibility for FEHBP Limited to Individuals Losing Eligibility Under Former Hea
 
 “(d)
 
-Transfers to the Employees Health Benefits Fund.—The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System shall transfer to the Employees Health Benefits Fund under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
+Transfers to the Employees Health Benefits Fund.—The Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve Systemshall transfer to the Employees Health Benefits Fund under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Federal Deposit Insurance Corporation and the Board of Governors of the Federal Reserve System, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office of Personnel Management in addition to amounts available under section 8906(g)(1) of such title.
 
 “(e)
 
@@ -470,7 +470,7 @@ Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by 
 
 “(c)
 
-Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
+Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of ThriftSupervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
 
 “(d)
 

@@ -16,25 +16,29 @@ Grants awarded under this section shall be used for one or more of the following
 
 &emsp;(4) Purchase of library books, periodicals, and other educational materials, including telecommunications program material.
 
-&emsp;(5) Tutoring, counseling, and student service programs designed to improve academic success.
+&emsp;(5) Tutoring, counseling, and student service programs designed to improve academic success, including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion.
 
-&emsp;(6) Funds management, administrative management, and acquisition of equipment for use in strengthening funds management.
+&emsp;(6) Articulation agreements and student support programs designed to facilitate the transfer from two-year to four-year institutions.
 
-&emsp;(7) Joint use of facilities, such as laboratories and libraries.
+&emsp;(7) Funds management, administrative management, and acquisition of equipment for use in strengthening funds management.
 
-&emsp;(8) Establishing or improving a development office to strengthen or improve contributions from alumni and the private sector.
+&emsp;(8) Joint use of facilities, such as laboratories and libraries.
 
-&emsp;(9) Establishing or improving an endowment fund.
+&emsp;(9) Establishing or improving a development office to strengthen or improve contributions from alumni and the private sector.
 
-&emsp;(10) Creating or improving facilities for Internet or other distance learning academic instruction capabilities, including purchase or rental of telecommunications technology equipment or services.
+&emsp;(10) Establishing or improving an endowment fund.
 
-&emsp;(11) Establishing or enhancing a program of teacher education designed to qualify students to teach in public elementary schools and secondary schools.
+&emsp;(11) Creating or improving facilities for Internet or other distance education technologies, including purchase or rental of telecommunications technology equipment or services.
 
-&emsp;(12) Establishing community outreach programs that will encourage elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education.
+&emsp;(12) Establishing or enhancing a program of teacher education designed to qualify students to teach in public elementary schools and secondary schools.
 
-&emsp;(13) Expanding the number of Hispanic and other underrepresented graduate and professional students that can be served by the institution by expanding courses and institutional resources.
+&emsp;(13) Establishing community outreach programs that will encourage elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education.
 
-&emsp;(14) Other activities proposed in the application submitted pursuant to section 1101c of this title that—
+&emsp;(14) Expanding the number of Hispanic and other underrepresented graduate and professional students that can be served by the institution by expanding courses and institutional resources.
+
+&emsp;(15) Providing education, counseling services, or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+
+&emsp;(16) Other activities proposed in the application submitted pursuant to section 1101c of this title that—
 
 &emsp;&emsp;(A) contribute to carrying out the purposes of this subchapter; and
 
@@ -54,11 +58,17 @@ Grants awarded under this section shall be used for one or more of the following
 
 &emsp;The provisions of part C of subchapter III of this chapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-(Pub. L. 89–329, title V, §503, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1768.)
+(Pub. L. 89–329, title V, §503, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1768; amended Pub. L. 110–315, title V, §501, Aug. 14, 2008, 122 Stat. 3331.)
 
 #### Prior Provisions
 
 A prior section 503 of Pub. L. 89–329 was classified to section 1102b of this title prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 503 of Pub. L. 89–329 was classified to section 1091b of this title prior to repeal by Pub. L. 94–482.
+
+#### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–315, §501(2), inserted “, including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion” before period at end.
+
+Subsec. (b)(6) to (16). Pub. L. 110–315, §501(1), (3)–(5), added pars. (6) and (15), redesignated former pars. (6), (7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted “distance education technologies” for “distance learning academic instruction capabilities”.
 

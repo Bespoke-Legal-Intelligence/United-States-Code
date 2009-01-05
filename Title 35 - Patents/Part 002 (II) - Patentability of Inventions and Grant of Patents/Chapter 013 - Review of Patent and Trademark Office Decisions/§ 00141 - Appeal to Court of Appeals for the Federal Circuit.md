@@ -38,7 +38,7 @@ Pub. L. 97–164, §163(a)(7), substituted “Court of Appeals for the Federal C
 
 #### Effective Date of 2002 Amendment
 
-Amendment by section 13106(c) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
+Amendment by section 13106(c) of Pub. L. 107–273 applicable with respect to any reexamination proceedingcommenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
 
 #### Effective Date of 1999 Amendment
 

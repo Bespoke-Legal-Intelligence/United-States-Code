@@ -50,7 +50,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iii) otherwise obtained by the financial institution.
 
-&emsp;(B) Such term does not include publicly available information, as such term is defined by the regulations prescribed under section 6804 of this title.
+&emsp;(B) Such term does not include publicly available information, as such term is definedby the regulations prescribed under section 6804 of this title.
 
 &emsp;(C) Notwithstanding subparagraph (B), such term—
 
@@ -78,7 +78,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) the disclosure is required, or is one of the lawful or appropriate methods, to enforce the rights of the financial institution or of other persons engaged in carrying out the financial transaction, or providing the product or service;
 
-&emsp;&emsp;(C) the disclosure is required, or is a usual, appropriate, or acceptable method, for insurance underwriting at the consumer's requestor for reinsurance purposes, or for any of the following purposes as they relate to a consumer's insurance: Account administration, reporting, investigating, or preventing fraud or material misrepresentation, processing premium payments, processing insurance claims, administering insurance benefits (including utilization review activities), participating in research projects, or as otherwise required or specifically permitted by Federal or State law; or
+&emsp;&emsp;(C) the disclosure is required, or is a usual, appropriate, or acceptable method, for insurance underwriting at the consumer's request or for reinsurance purposes, or for any of the following purposes as they relate to a consumer's insurance: Account administration, reporting, investigating, or preventing fraud or material misrepresentation, processing premium payments, processing insurance claims, administering insurance benefits (including utilization review activities), participating in research projects, or as otherwise required or specifically permitted by Federal or State law; or
 
 &emsp;&emsp;(D) the disclosure is required, or is a usual, appropriate or acceptable method, in connection with—
 

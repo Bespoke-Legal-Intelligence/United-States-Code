@@ -38,7 +38,7 @@ Section 1 of Title 5, referred to in text, is section 1 of former Title 5, Execu
 
 1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts andbankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1966—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
 

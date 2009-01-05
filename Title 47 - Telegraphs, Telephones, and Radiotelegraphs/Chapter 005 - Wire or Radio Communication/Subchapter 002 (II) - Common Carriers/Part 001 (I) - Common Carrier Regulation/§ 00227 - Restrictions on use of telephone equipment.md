@@ -72,7 +72,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) do not include the transmission of any unsolicited advertisement;
 
-&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service that are not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect;
+&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service thatare not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect;
 
 &emsp;&emsp;(D) shall provide that a notice contained in an unsolicited advertisement complies with the requirements under this subparagraph only if—
 
@@ -168,7 +168,7 @@ As used in this section—
 
 &emsp;&emsp;(G) specify (i) the methods by which any person desiring to make or transmit telephone solicitations will obtain access to the database, by area code or local exchange prefix, as required to avoid calling the telephone numbers of subscribers included in such database; and (ii) the costs to be recovered from such persons;
 
-&emsp;&emsp;(H) specify the methods for recovering, from persons accessing such database, thecosts involved in identifying, collecting, updating, disseminating, and selling, and other activities relating to, the operations of the database that are incurred by the entities carrying out those activities;
+&emsp;&emsp;(H) specify the methods for recovering, from persons accessing such database, the costs involved in identifying, collecting, updating, disseminating, and selling, and other activities relating to, the operations of the database that are incurred by the entities carrying out those activities;
 
 &emsp;&emsp;(I) specify the frequency with which such database will be updated and specify the method by which such updating will take effect for purposes of compliance with the regulations prescribed under this subsection;
 
@@ -182,7 +182,7 @@ As used in this section—
 
 &emsp;If the Commission determines to require the database mechanism described in paragraph (3), the Commission shall—
 
-&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the different needs of telemarketers conducting business on a national, regional, State, or local level;
+&emsp;&emsp;(A) in developing procedures for gaining access to the database, consider the differentneeds of telemarketers conducting business on a national, regional, State, or local level;
 
 &emsp;&emsp;(B) develop a fee schedule or price structure for recouping the cost of such database that recognizes such differences and—
 
@@ -248,7 +248,7 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3) of this section, the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State orlocal authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
 #### (f) Actions by States
 

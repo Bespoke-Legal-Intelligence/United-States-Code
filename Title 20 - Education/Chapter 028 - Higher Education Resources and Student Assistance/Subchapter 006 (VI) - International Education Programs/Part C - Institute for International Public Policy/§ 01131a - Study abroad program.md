@@ -2,7 +2,7 @@
 
 #### (a) Program authority
 
-The Institute shall conduct, by grant or contract, a junior year abroad program. The junioryear abroad program shall be open to eligible students at institutions of higher education, including historically Black colleges and universities as defined in section 1061 of this title, tribally controlled Indian community colleges as defined in the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\], and other institutions of higher education with significant minority student populations. Eligible student expenses shall be shared by the Institute and the institution at which the student is in attendance. Each student may spend not more than 9 months abroad in a program of academic study, as well as social, familial and political interactions designed to foster an understanding of and familiarity with the language, culture, economics and governance of the host country.
+The Institute shall conduct, by grant or contract, a junior year abroad program. The junior year abroad program shall be open to eligible students at institutions of higher education, including historically Black colleges and universities, tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions, and other institutions of higher education with significant minority student populations. Eligible student expenses shall be shared by the Institute and the institution at which the student is in attendance. Each student may spend not more than 9 months abroad in a program of academic study, as well as social, familial and political interactions designed to foster an understanding of and familiarity with the language, culture, economics and governance of the host country.
 
 #### (b) “Eligible student” defined
 
@@ -22,11 +22,7 @@ An institution of higher education desiring to send a student on the study abroa
 
 &emsp;(3) meet such other requirements as the Secretary may from time to time, by regulation, reasonably require.
 
-(Pub. L. 89–329, title VI, §623, formerly §622, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734; renumbered §623 and amended Pub. L. 105–244, title VI, §603(b)(1), (c), title IX, §901(d), Oct. 7, 1998, 112 Stat. 1783, 1784, 1828.)
-
-#### References in Text
-
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+(Pub. L. 89–329, title VI, §623, formerly §622, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734; renumbered §623 and amended Pub. L. 105–244, title VI, §603(b)(1), (c), Oct. 7, 1998, 112 Stat. 1783, 1784; Pub. L. 110–315, title VI, §614, Aug. 14, 2008, 122 Stat. 3340.)
 
 #### Prior Provisions
 
@@ -34,9 +30,9 @@ A prior section 623 of Pub. L. 89–329 was renumbered section 624 and is classi
 
 #### Amendments
 
-1998—Pub. L. 105–244, §603(c)(1), substituted “Study” for “Junior year” in section catchline.
+2008—Subsec. (a). Pub. L. 110–315 struck out “as defined in section 1061 of this title” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”.
 
-Subsec. (a). Pub. L. 105–244, §901(d), substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+1998—Pub. L. 105–244, §603(c)(1), substituted “Study” for “Junior year” in section catchline.
 
 Subsec. (b)(2). Pub. L. 105–244, §603(c)(2), inserted “, or completing the third year of study in the case of a summer abroad program,” after “year of study” and substituted “study abroad” for “junior year abroad”.
 

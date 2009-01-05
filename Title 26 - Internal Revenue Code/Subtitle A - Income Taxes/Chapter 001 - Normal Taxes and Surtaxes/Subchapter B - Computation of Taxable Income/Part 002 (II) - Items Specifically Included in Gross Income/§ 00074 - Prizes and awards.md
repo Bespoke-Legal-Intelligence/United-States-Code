@@ -22,7 +22,7 @@ Gross income does not include amounts received as prizes and awards made primari
 
 #### (2) Excess deduction award
 
-&emsp;If the cost to the employer of the employee achievement award received by the taxpayer exceeds the amount allowable as a deduction to the employer, then gross income includes the greater of—
+&emsp;If the cost to the employer of the employee achievement award received by the taxpayerexceeds the amount allowable as a deduction to the employer, then gross income includes the greater of—
 
 &emsp;&emsp;(A) an amount equal to the portion of the cost to the employer of the award that is not allowable as a deduction to the employer (but not in excess of the value of the award), or
 

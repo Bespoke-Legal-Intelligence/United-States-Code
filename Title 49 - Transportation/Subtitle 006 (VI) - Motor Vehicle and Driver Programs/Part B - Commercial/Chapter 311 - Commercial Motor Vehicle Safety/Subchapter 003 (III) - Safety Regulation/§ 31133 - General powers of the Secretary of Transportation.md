@@ -88,7 +88,7 @@ Border Commercial Motor Vehicle and Safety Enforcement Programs.—
 
 &emsp;“(1)
 
-Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
+Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects.
 
 &emsp;“(2)
 
@@ -96,5 +96,5 @@ Allocation.—If the Secretary makes a designation of an amount under paragraph 
 
 &emsp;“(3)
 
-Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year.”
+Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year.”
 

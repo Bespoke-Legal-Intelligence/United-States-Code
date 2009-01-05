@@ -102,7 +102,7 @@ To the extent and in the manner provided by regulations, the tax matters partner
 
 #### (1) In general
 
-&emsp;If a pass-thru partner receives a notice with respect to a partnership proceeding from the Secretary, the tax matters partner, or another pass-thru partner, the pass-thru partner shall, within 30 days of receiving that notice, forward a copy of that notice to the person or persons holding an interest (through the pass-thru partner) in the profits or losses of the partnership for the partnership taxable year to which the notice relates.
+&emsp;If a pass-thru partner receives a notice with respect to a partnership proceeding from theSecretary, the tax matters partner, or another pass-thru partner, the pass-thru partner shall, within 30 days of receiving that notice, forward a copy of that notice to the person or persons holding an interest (through the pass-thru partner) in the profits or losses of the partnership for the partnership taxable year to which the notice relates.
 
 #### (2) Partnership as pass-thru partner
 

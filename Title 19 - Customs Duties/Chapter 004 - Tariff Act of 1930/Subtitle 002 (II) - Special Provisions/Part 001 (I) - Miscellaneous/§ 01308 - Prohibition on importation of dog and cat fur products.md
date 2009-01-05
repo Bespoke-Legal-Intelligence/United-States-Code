@@ -26,7 +26,7 @@ In this section:
 
 #### (6) Dog or cat fur product
 
-&emsp;The term “dog or cat fur product” means any item of merchandise which consists, or iscomposed in whole or in part, of any dog fur, cat fur, or both.
+&emsp;The term “dog or cat fur product” means any item of merchandise which consists, or is composed in whole or in part, of any dog fur, cat fur, or both.
 
 #### (7) Person
 
@@ -124,7 +124,7 @@ In order to enable Congress to engage in active, continuing oversight of this se
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(8), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(8), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 

@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 46:1475
 
-Section 13102(a) authorizes the Secretary to contract with the States and allocate the amounts of them if they demonstrate to the satisfaction of the Secretary that they have a program consistent with this chapter and chapters 61 and 123, that the amounts received will be used to develop and carry out their recreational boating safety and facilities improvement programs, that they have sufficient matching amounts available from specified revenue sources to meet the objectives of the program, that they will submit required reports to the Secretary to ensure continued compliance with the objectives of this chapter.
+Section 13102(a) authorizes the Secretary to contract with the States and allocate the amounts of them ifthey demonstrate to the satisfaction of the Secretary that they have a program consistent with this chapter and chapters 61 and 123, that the amounts received will be used to develop and carry out their recreational boating safety and facilities improvement programs, that they have sufficient matching amounts available from specified revenue sources to meet the objectives of the program, that they will submit required reports to the Secretary to ensure continued compliance with the objectives of this chapter.
 
 Subsection (b) prohibits a State from using any other funds received from the Federal Government to meet their required State match.
 

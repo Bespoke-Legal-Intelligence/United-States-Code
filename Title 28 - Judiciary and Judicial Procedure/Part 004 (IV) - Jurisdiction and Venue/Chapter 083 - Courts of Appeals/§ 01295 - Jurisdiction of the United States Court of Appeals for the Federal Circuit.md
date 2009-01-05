@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
-&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
+&emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of theUnited States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
 &emsp;&emsp;(C) a district court to which a case was directed pursuant to section 145, 146, or 154(b) of title 35;
 
 &emsp;(5) of an appeal from a final decision of the United States Court of International Trade;
 
-&emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in importtrade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
+&emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in import trade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
 
 &emsp;(7) to review, by appeal on questions of law only, findings of the Secretary of Commerce under U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States (relating to importation of instruments or apparatus);
 

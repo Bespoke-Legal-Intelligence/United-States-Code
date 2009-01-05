@@ -6,13 +6,15 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 #### (b) Export credit guarantee programs
 
-#### (1) Export credit guarantees
+The Commodity Credit Corporation shall make available for each of fiscal years 1996 through 2012 credit guarantees under section 5622(a) of this title in an amount equal to but not more than the lesser of—
 
-&emsp;The Commodity Credit Corporation shall make available for each of fiscal years 1996through 2007 not less than $5,500,000,000 in credit guarantees under subsections (a) and (b) of section 5622 of this title.
+&emsp;(1) $5,500,000,000 in credit guarantees; or
 
-#### (2) Limitation on origination fee
+&emsp;(2) the sum of—
 
-&emsp;Notwithstanding any other provision of law, the Secretary may not charge an origination fee with respect to any credit guarantee transaction under section 5622(a) of this title in excess of an amount equal to 1 percent of the amount of credit to be guaranteed under the transaction, except with respect to an export credit guarantee transaction pursuant to section 1542(b) of the Food, Agriculture, Conservation, and Trade Act of 1990 (Public Law 101–624; 7 U.S.C. 5622 note).
+&emsp;&emsp;(A) the amount of credit guarantees that the Commodity Credit Corporation can make available using budget authority of $40,000,000 for each fiscal year for the costs of the credit guarantees; and
+
+&emsp;&emsp;(B) the amount of credit guarantees that the Commodity Credit Corporation can make available using unobligated budget authority for prior fiscal years.
 
 #### (c) Market access programs
 
@@ -20,7 +22,7 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 &emsp;The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under section 5623 of this title—
 
-&emsp;&emsp;(A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2006 and 2007, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
+&emsp;&emsp;(A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2012, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
 
 &emsp;&emsp;(B) any funds that may be specifically appropriated to carry out a market access program under section 5623 of this title.
 
@@ -40,9 +42,13 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 &emsp;&emsp;&emsp;(ii) proposals submitted for activities in markets other than emerging markets.
 
-(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§3102(d), 3103, May 13, 2002, 116 Stat. 289.)
+(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §3101(b), added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
+
+Subsec. (c)(1)(A). Pub. L. 110–246, §3102(b), substituted “2008 through 2012” for “2006 and 2007”.
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §3102(d), substituted “2007” for “2002”.
 
@@ -59,6 +65,10 @@ Pub. L. 104–127, §244(a)(2)(B)(iii), substituted “market access program” 
 Subsec. (c)(2). Pub. L. 104–127, §244(a)(2)(B)(iv), substituted “market access program” for “marketing promotion program”.
 
 1993—Subsec. (c)(1). Pub. L. 103–66 substituted “through 1993, and not less than $110,000,000 for each of the fiscal years 1994 through 1997,” for “through 1995”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1996 Amendment
 

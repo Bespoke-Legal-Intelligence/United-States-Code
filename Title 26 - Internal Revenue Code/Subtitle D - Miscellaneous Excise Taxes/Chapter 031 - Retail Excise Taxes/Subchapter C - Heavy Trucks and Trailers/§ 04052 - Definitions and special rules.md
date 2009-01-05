@@ -78,7 +78,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the manufacturer, producer, or importer of any article (or a related person) is liable for tax imposed by this subchapter with respect to such article, the tax under this subchapter shall be computed on a price equal to the sum of—
+&emsp;&emsp;In any case where the manufacturer, producer, or importer of any article (or a related person) is liable for tax imposed by thissubchapter with respect to such article, the tax under this subchapter shall be computed on a price equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the price which would (but for this paragraph) be determined under this subchapter, plus
 

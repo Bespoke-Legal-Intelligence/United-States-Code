@@ -26,7 +26,7 @@ At a minimum, the plan shall include, consistent with Federal law—
 
 #### (d) Report
 
-Not later than February 15 of each year beginning with the year after December 30, 2005, theAdministrator shall transmit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the concerns described in subsection (a) that were raised during the previous fiscal year. At a minimum, the report shall provide—
+Not later than February 15 of each year beginning with the year after December 30, 2005, the Administrator shall transmit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the concerns described in subsection (a) that were raised during the previous fiscal year. At a minimum, the report shall provide—
 
 &emsp;(1) the number of concerns that were raised, divided into the categories of safety and health, mission assurance, and mismanagement, and the disposition of those concerns, including whether any employee was disciplined as a result of a concern having been raised; and
 

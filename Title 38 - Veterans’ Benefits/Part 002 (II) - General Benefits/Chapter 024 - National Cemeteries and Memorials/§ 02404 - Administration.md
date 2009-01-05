@@ -108,7 +108,7 @@ Matters Studied.—(1) The study conducted pursuant to the contract entered into
 
 “(c)
 
-Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
+Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shallsubmit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results.
 
 “(2) Not later than 120 days after the date on which a report is submitted under paragraph (1), the Secretary shall transmit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a copy of the report, together with any comments on the report that the Secretary considers appropriate.”
 

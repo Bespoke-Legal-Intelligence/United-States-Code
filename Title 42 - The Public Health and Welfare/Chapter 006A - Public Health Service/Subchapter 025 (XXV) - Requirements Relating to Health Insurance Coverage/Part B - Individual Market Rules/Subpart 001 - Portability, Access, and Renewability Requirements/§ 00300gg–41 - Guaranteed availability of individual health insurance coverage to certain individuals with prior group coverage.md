@@ -60,7 +60,7 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;&emsp;&emsp;(i) the actuarial value of the benefits under the coverage is at least 15 percent greater than the actuarial value of the coverage described in subparagraph (B) offered by the issuer in the area involved; and
 
-&emsp;&emsp;&emsp;(ii) the actuarial value of the benefits under the coverage is at least 100 percentbut not greater than 120 percent of a weighted average (described in subparagraph (D)).
+&emsp;&emsp;&emsp;(ii) the actuarial value of the benefits under the coverage is at least 100 percent but not greater than 120 percent of a weighted average (described in subparagraph (D)).
 
 #### (D) Weighted average
 

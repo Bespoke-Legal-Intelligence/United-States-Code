@@ -16,7 +16,7 @@ In furtherance of the purposes of this chapter, the President may—
 
 #### (b) Claim settlements
 
-Notwithstanding any other provision of law, whenever the President determines that it will further the purposes of this chapter, the President, under such regulations as he may prescribe, may settle and pay, in an amount not exceeding $20,000, any claim against the United States, for loss of or damage to real or personal property (including loss of occupancy or use thereof) belonging to, or for personal injury or death of, any person not a citizen or resident of the United States, where such claim arises abroad out of the act or omission of any Peace Corps employee or out of the act or omission of any volunteer, but only if such claim is presented in writing within one year after it accrues. Any amount paid in settlement of any claim under this subsection shall be accepted by the claimant in full satisfaction thereof andshall bar any further action or proceeding thereon.
+Notwithstanding any other provision of law, whenever the President determines that it will further the purposes of this chapter, the President, under such regulations as he may prescribe, may settle and pay, in an amount not exceeding $20,000, any claim against the United States, for loss of or damage to real or personal property (including loss of occupancy or use thereof) belonging to, or for personal injury or death of, any person not a citizen or resident of the United States, where such claim arises abroad out of the act or omission of any Peace Corps employee or out of the act or omission of any volunteer, but only if such claim is presented in writing within one year after it accrues. Any amount paid in settlement of any claim under this subsection shall be accepted by the claimant in full satisfaction thereof and shall bar any further action or proceeding thereon.
 
 #### (c) Five-year contract authority
 
@@ -24,7 +24,7 @@ Subject to any future action of the Congress, a contract or agreement which enta
 
 #### (d) Waiver of certain Federal laws
 
-Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, as amended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
+Whenever the President determines it to be in furtherance of the purposes of this chapter, functions authorized by this chapter may be performed without regard to such provisions of law (other than section 5 of title 41, section 252 of title 41, and the Renegotiation Act of 1951, asamended \[50 U.S.C. App. 1211 et seq.\]) regulating the making, performance, amendment, or modification of contracts and the expenditure of Government funds as the President may specify.
 
 #### (e) Allocation of funds
 
@@ -54,7 +54,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, seeShort Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 

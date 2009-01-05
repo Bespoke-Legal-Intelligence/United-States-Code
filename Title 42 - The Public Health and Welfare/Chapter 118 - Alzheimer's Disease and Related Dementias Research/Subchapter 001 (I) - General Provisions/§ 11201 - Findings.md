@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) studies estimate that between one-half and two-thirds of patients in nursing homes meet the clinical and mental status criteria for dementia;
 
-&emsp;(4) the cost of caring for individuals with Alzheimer's disease and related dementias is great, and conservative estimates range between $38,000,000,000 and $42,000,000,000 per year solely for direct costs;
+&emsp;(4) the cost of caring for individuals with Alzheimer's disease and related dementias isgreat, and conservative estimates range between $38,000,000,000 and $42,000,000,000 per year solely for direct costs;
 
 &emsp;(5) progress in the neurosciences and behavioral sciences has demonstrated the interdependence and mutual reinforcement of basic science, clinical research, and services research for Alzheimer's disease and related dementias;
 

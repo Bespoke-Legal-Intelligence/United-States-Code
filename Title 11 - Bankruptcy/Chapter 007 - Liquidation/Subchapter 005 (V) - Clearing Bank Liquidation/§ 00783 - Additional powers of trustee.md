@@ -16,9 +16,9 @@ Disposition of Institution.—The trustee under this subchapter may, after notic
 
 &emsp;(4) transfer assets or liabilities to a depository institution; and
 
-&emsp;(5) transfer assets and liabilities to a bridge bank as provided in paragraphs (1), (3)(A), (5), and (6) of section 11(n) of the Federal Deposit Insurance Act, paragraphs (9) through (13) of such section, and subparagraphs (A) through (H) and subparagraph (K) of paragraph (4) of such section 11(n), except that—
+&emsp;(5) transfer assets and liabilities to a bridge depository institution as provided in paragraphs (1), (3)(A), (5), and (6) of section 11(n) of the Federal Deposit Insurance Act, paragraphs (9) through (13) of such section, and subparagraphs (A) through (H) and subparagraph (K) of paragraph (4) of such section 11(n), except that—
 
-&emsp;&emsp;(A) the bridge bank to which such assets or liabilities are transferred shall be treated as a clearing bank for the purpose of this subsection; and
+&emsp;&emsp;(A) the bridge depository institution to which such assets or liabilities are transferred shall be treated as a clearing bank for the purpose of this subsection; and
 
 &emsp;&emsp;(B) any references in any such provision of law to the Federal Deposit Insurance Corporation shall be construed to be references to the appointing agency and that references to deposit insurance shall be omitted.
 
@@ -26,9 +26,13 @@ Disposition of Institution.—The trustee under this subchapter may, after notic
 
 Certain Transfers Included.—Any reference in this section to transfers of liabilities includes a ratable transfer of liabilities within a priority class.
 
-(Added Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
+(Added Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; amended Pub. L. 110–289, div. A, title VI, §1604(b)(3), July 30, 2008, 122 Stat. 2829.)
 
 #### References in Text
 
 Section 11 of the Federal Deposit Insurance Act, referred to in subsec. (b)(3), (5), is classified to section 1821 of Title 12, Banks and Banking.
+
+#### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–289, which directed amendment of this section by substituting “bridge depository institution” for “bridge bank”, was executed by making the substitution in introductory provisions and subpar. (A) of subsec. (b)(5), to reflect the probable intent of Congress.
 

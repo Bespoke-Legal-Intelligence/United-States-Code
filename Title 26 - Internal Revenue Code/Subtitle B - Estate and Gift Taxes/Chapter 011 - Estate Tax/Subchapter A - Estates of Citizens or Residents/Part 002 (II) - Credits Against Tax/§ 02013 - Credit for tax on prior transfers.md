@@ -62,7 +62,7 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 #### Amendments
 
-2001—Subsec. (c)(1)(A). Pub. L. 107–16, §§532(c)(2), 901, temporarily struck out “2011,” after “sections 2010,”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(1)(A). Pub. L. 107–16, §§532(c)(2), 901, temporarily struck out “2011,” after “sections 2010,”.See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (g). Pub. L. 105–34 struck out heading and text of subsec. (g). Prior to amendment, text read as follows: “For purposes of this section, the estate tax paid shall not include any portion of such tax attributable to section 4980A(d).”
 

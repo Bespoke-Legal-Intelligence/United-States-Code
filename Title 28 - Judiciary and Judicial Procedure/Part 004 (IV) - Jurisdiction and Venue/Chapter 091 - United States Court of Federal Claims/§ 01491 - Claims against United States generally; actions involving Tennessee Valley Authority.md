@@ -12,11 +12,11 @@
 
 (4) In any action under this subsection, the courts shall review the agency's decision pursuant to the standards set forth in section 706 of title 5.
 
-(5) If a private sector interested party commences an action described in paragraph (1) in the case of a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an official or person described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
+(5) If an interested party who is a member of the private sector commences an action described in paragraph (1) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an interested party described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.
 
 (c) Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
 
-(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031.)
+(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, §7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(a), (b), 68 Stat. 1241; Pub. L. 91–350, §1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, §1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, §14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, §509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, §12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, §739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, §326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, \[div. A\], title X, §1061(d), Oct. 14, 2008, 122 Stat. 4613.)
 
 #### Historical and Revision Notes
 
@@ -38,9 +38,13 @@ Changes were made in phraseology.
 
 Sections 6 and 10(a)(1) of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), are classified to sections 605 and 609(a)(1), respectively, of Title 41, Public Contracts.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58,as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–417 struck out par. (5), as added by Pub. L. 110–161, which read as follows: “If a private sector interested party commences an action described in paragraph (1) in the case of a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, then an official or person described in section 3551(2)(B) of title 31 shall be entitled to intervene in that action.”
+
+Pub. L. 110–181 added par. (5).
 
 2007—Subsec. (b)(5). Pub. L. 110–161 added par. (5).
 
@@ -76,6 +80,14 @@ Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph 
 
 1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title III, §326(d), Jan. 28, 2008, 122 Stat. 63, provided that: “Subparagraph (B) of section 3551(2) of title 31, United States Code (as added by subsection (a)), and paragraph (5) of section 1491(b) of title 28, United States Code (as added by subsection (c)), shall apply to—
+
+&emsp;“(1) a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency that is made pursuant to a study initiated under Office of Management and Budget Circular A–76 on or after January 1, 2004; and
+
+&emsp;“(2) any other protest or civil action that relates to a public-private competition initiated under Office of Management and Budget Circular A–76, or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
+
 #### Effective Date of 2007 Amendment
 
 Paragraph (5) of subsec. (b) of this section applicable to protests and civil actions that challenge final selections of sources of performance of an activity or function of a Federal agency that are made pursuant to studies initiated under Office of Management and Budget Circular A–76 on or after Jan. 1, 2004; and to any other protests and civil actions that relate to public-private competitions initiated under Office of Management and Budget Circular A–76, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, on or after Dec. 26, 2007, see section 739(c)(3) of Pub. L. 110–161, set out as a note under section 501 of Title 31, Money and Finance.
@@ -90,7 +102,7 @@ Section 12(b) of Pub. L. 104–320 provided that: “This section \[amending thi
 
 Amendment by section 902(a) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-Section 907(b)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
+Section 907(b)(2) of Pub. L. 102–572 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to all actions filed before, on, or after the date of the enactment ofthis Act \[Oct. 29, 1992\], except for those actions which, before such date of enactment, have been the subject of—
 
 &emsp;“(A) a final judgment of the United States Claims Court, if the time for appeal of that judgment has expired without an appeal having been filed, or
 
@@ -130,7 +142,7 @@ Proceedings and applications.—(A) a termination under subsection (d) shall not
 
 “(B) Orders may be issued in any such proceeding, appeals may be taken therefrom, and payments may be made pursuant to such orders, as if such termination had not occurred. An order issued in any such proceeding shall continue in effect until modified, terminated, superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
 
-“(C) Nothing in this paragraph prohibits the discontinuance or modification of any such proceedingunder the same terms and conditions and to the same extent that proceeding could have been discontinued or modified absent such termination.”
+“(C) Nothing in this paragraph prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that proceeding could have been discontinued or modified absent such termination.”
 
 #### Sunset Provision
 

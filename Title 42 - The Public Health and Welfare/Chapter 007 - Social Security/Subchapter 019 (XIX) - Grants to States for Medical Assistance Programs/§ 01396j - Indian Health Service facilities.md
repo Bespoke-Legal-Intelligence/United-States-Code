@@ -42,7 +42,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Section 4118(f)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to health care services performed on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, setout as an Effective Date note under section 1396r of this title.
 
 #### Agreements To Reimburse State Agency for Health Care and Services Provided by Agency to Indians
 

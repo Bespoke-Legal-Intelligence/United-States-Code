@@ -6,7 +6,7 @@
 
 &emsp;Not later than 90 days after January 23, 2004, the Trust shall transfer to the Foundation—
 
-&emsp;&emsp;(A) all assets of the Trust, including all real and personal property of the Memorial, any appurtenances, buildings, facilities, monuments, contents, artifacts, contracts and contract rights, accounts, deposits, intangibles, trademarks, trade names, copyrights, all other intellectual property, all other real and personal property of every kind and character comprising the Memorial, and any amounts appropriated for the Trust;
+&emsp;&emsp;(A) all assets of the Trust, including all real and personal property of the Memorial, any appurtenances, buildings, facilities,monuments, contents, artifacts, contracts and contract rights, accounts, deposits, intangibles, trademarks, trade names, copyrights, all other intellectual property, all other real and personal property of every kind and character comprising the Memorial, and any amounts appropriated for the Trust;
 
 &emsp;&emsp;(B) any property owned by the Trust that is adjacent or related to the Memorial; and
 

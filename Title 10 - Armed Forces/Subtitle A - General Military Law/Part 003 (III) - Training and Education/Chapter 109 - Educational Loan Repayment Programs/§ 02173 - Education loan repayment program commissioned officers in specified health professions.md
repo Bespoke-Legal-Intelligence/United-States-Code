@@ -24,7 +24,7 @@ Academic and Professional Requirements.—One of the following academic requirem
 
 &emsp;(1) The person is fully qualified in a health care profession that the Secretary of the military department concerned has determined to be necessary to meet identified skill shortages.
 
-&emsp;(2) The person is enrolled as a full-time student in the final year of a course of study atan accredited educational institution leading to a degree in a health profession other than medicine or osteopathic medicine.
+&emsp;(2) The person is enrolled as a full-time student in the final year of a course of study at an accredited educational institution leading to a degree in a health profession other than medicine or osteopathic medicine.
 
 &emsp;(3) The person is enrolled in the final year of an approved graduate program leading to specialty qualification in medicine, dentistry, osteopathic medicine, or other health profession.
 

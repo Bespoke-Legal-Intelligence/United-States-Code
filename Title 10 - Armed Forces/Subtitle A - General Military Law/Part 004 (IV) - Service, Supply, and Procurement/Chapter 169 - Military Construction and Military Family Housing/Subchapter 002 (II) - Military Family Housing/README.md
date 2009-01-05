@@ -17,12 +17,16 @@
 | [2833\.](%C2%A7%2002833%20-%20Family%20housing%20support.md) | Family housing support. |
 | [2834\.](%C2%A7%2002834%20-%20Participation%20in%20Department%20of%20State%20housing%20pools.md) | Participation in Department of State housing pools. |
 | [2835\.](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md) | Long-term leasing of military family housing to be constructed. |
+| [2835a.](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md) | Use of military family housing constructed under build and lease authority to house other members. |
 | [2836\.](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md) | Military housing rental guarantee program. |
 | [2837\.](%C2%A7%2002837%20-%20Limited%20partnerships%20with%20private%20developers%20of%20housing.md) | Limited partnerships with private developers of housing. |
+| [2838\.](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md) | Leasing of military family housing to Secretary of Defense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 
 2006—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
 
@@ -54,5 +58,7 @@
 - [&sect; 02833 - Family housing support](%C2%A7%2002833%20-%20Family%20housing%20support.md)
 - [&sect; 02834 - Participation in Department of State housing pools](%C2%A7%2002834%20-%20Participation%20in%20Department%20of%20State%20housing%20pools.md)
 - [&sect; 02835 - Long-term leasing of military family housing to be constructed](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md)
+- [&sect; 02835a - Use of military family housing constructed under build and lease authority to house other members](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md)
 - [&sect; 02836 - Military housing rental guarantee program](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md)
 - [&sect; 02837 - Limited partnerships with private developers of housing](%C2%A7%2002837%20-%20Limited%20partnerships%20with%20private%20developers%20of%20housing.md)
+- [&sect; 02838 - Leasing of military family housing to Secretary of Defense](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md)

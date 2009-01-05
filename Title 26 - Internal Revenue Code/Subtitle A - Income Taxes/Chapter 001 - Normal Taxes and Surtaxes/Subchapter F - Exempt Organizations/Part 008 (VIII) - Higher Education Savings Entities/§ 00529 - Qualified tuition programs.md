@@ -230,7 +230,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The amount treated as qualified higher education expenses by reason of clause (i) shall not exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) the allowance (applicable to the student) for room and board included in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>), as in effect on the date of the enactment of the EconomicGrowth and Tax Relief Reconciliation Act of 2001) as determined by the eligible educational institution for such period, or
+&emsp;&emsp;&emsp;&emsp;(I) the allowance (applicable to the student) for room and board included in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>), as in effect on the date of the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001) as determined by the eligible educational institution for such period, or
 
 &emsp;&emsp;&emsp;&emsp;(II) if greater, the actual invoice amount the student residing in housing owned or operated by the eligible educational institution is charged by such institution for room and board costs for such period.
 
@@ -406,7 +406,7 @@ Expenses to include room and board.—The amendment made by subsection (a) shall
 
 “(3)
 
-Eligible educational institution.—The amendment made by subsection (b)(2) \[amending this section\] shall apply to distributions after December 31, 1997,with respect to expenses paid after such date (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
+Eligible educational institution.—The amendment made by subsection (b)(2) \[amending this section\] shall apply to distributions after December 31, 1997, with respect to expenses paid after such date (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
 
 “(4)
 

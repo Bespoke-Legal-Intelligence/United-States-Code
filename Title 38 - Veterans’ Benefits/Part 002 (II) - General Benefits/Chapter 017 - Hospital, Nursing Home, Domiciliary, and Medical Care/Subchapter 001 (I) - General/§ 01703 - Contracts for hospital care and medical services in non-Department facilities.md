@@ -30,7 +30,7 @@
 
 &emsp;(8) Diagnostic services (on an inpatient or outpatient basis) for observation or examination of a person to determine eligibility for a benefit or service under laws administered by the Secretary.
 
-(b) In the case of any veteran for whom the Secretary contracts to furnish care or services in a non-Department facility pursuant to a provision of subsection (a) of this section, the Secretary shall periodically review the necessity for continuing such contractual arrangement pursuant to such provision.
+(b) In the case of any veteran for whom the Secretary contracts to furnish care or servicesin a non-Department facility pursuant to a provision of subsection (a) of this section, the Secretary shall periodically review the necessity for continuing such contractual arrangement pursuant to such provision.
 
 (c) The Secretary shall include in the budget documents which the Secretary submits to Congress for any fiscal year a detailed report on the furnishing of contract care and services during the most recently completed fiscal year under this section, sections 1712A, 1720, 1720A, 1724, and 1732 of this title, and section 115 of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 501).
 
@@ -40,15 +40,17 @@
 
 (3) The Secretary shall allocate all amounts collected under this subsection with respect to a designated geographic service area of the Veterans Health Administration, net of payments to the contractor, to that region.
 
-(4) The authority of the Secretary under this subsection terminates on September 30, 2008.
+(4) The authority of the Secretary under this subsection terminates on September 30, 2013.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141.)
 
 #### References in Text
 
 Section 115 of the Veterans’ Benefits and Services Act of 1988, referred to in subsec. (c), is set out as a note under section 1712 of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(4). Pub. L. 110–387 substituted “September 30, 2013” for “September 30, 2008”.
 
 2005—Subsec. (d)(2). Pub. L. 109–13 substituted “shall be available, without fiscal year limitation, for the purposes” for “shall be available for the purposes”.
 
@@ -106,7 +108,7 @@ Pub. L. 100–322, §101(e)(3)(A), substituted “section 612(a)(4) of this titl
 
 Subsec. (a)(2)(C). Pub. L. 100–322, §101(e)(3)(B), substituted “section 612(a)(3) (other than a veteran who is a former prisoner of war)” for “section 612(g)”.
 
-Subsec. (a)(3). Pub. L. 100–322, §104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “or nursing home care under section 620 of this title”, and substituted the period for semicolon at end.
+Subsec. (a)(3). Pub. L. 100–322, §104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “ornursing home care under section 620 of this title”, and substituted the period for semicolon at end.
 
 Subsec. (a)(4), (5). Pub. L. 100–322, §104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
@@ -131,6 +133,98 @@ Section 101(i) of Pub. L. 100–322 provided that: “The amendments made by thi
 #### Effective Date of 1985 Amendment
 
 Section 102(b)(1) of Pub. L. 99–166, as amended by Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
+
+#### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
+
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, provided that:
+
+“(a)
+
+Pilot Program Required.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Veterans Affairs shall conduct a pilot program under which the Secretary provides covered health services to covered veterans through qualifying non-Department of Veterans Affairs health care providers.
+
+&emsp;“(2)
+
+Commencement.—The Secretary shall commence the conduct of the pilot program on the date that is 120 days after the date of the enactment of this Act \[Oct. 10, 2008\].
+
+&emsp;“(3)
+
+Termination.—A veteran may receive health services under the pilot program only during the three-year period beginning on the date of the commencement of the pilot program under paragraph (2).
+
+&emsp;“(4)
+
+Program locations.—The pilot program shall be carried out within areas selected by the Secretary for the purposes of the pilot program in at least five Veterans Integrated Service Networks (VISNs). Of the Veterans Integrated Service Networks so selected—
+
+&emsp;&emsp;“(A) not less than four such networks shall include at least three highly rural counties, as determined by the Secretary upon consideration of the most recent decennial census;
+
+&emsp;&emsp;“(B) not less than one such network, not including a network selected under subparagraph (A), shall include only one highly rural county, as determined by the Secretary upon consideration of the most recent decennial census;
+
+&emsp;&emsp;“(C) all such networks shall include area within the borders of at least four States; and
+
+&emsp;&emsp;“(D) no such networks shall be participants in the Healthcare Effectiveness through Resource Optimization pilot program of the Department of Veterans Affairs.
+
+“(b)
+
+Covered Veterans.—
+
+&emsp;“(1)
+
+In general.—For purposes of the pilot program under this section, a covered veteran is any highly rural veteran who is—
+
+&emsp;&emsp;“(A) enrolled in the system of patient enrollment established under section 1705(a) of title 38, United States Code, as of the date of the commencement of the pilot program under subsection (a)(2); or
+
+&emsp;&emsp;“(B) eligible for health care under section 1710(e)(3)(C) of title 38, United States Code.
+
+&emsp;“(2)
+
+Highly rural veterans.—For purposes of this subsection, a highly rural veteran is any veteran who—
+
+&emsp;&emsp;“(A) resides in a location that is—
+
+&emsp;&emsp;&emsp;“(i) more than 60 miles driving distance from the nearest Department health care facility providing primary care services, if the veteran is seeking such services;
+
+&emsp;&emsp;&emsp;“(ii) more than 120 miles driving distance from the nearest Department health care facility providing acute hospital care, if the veteran is seeking such care; or
+
+&emsp;&emsp;&emsp;“(iii) more than 240 miles driving distance from the nearest Department health care facility providing tertiary care, if the veteran is seeking such care; or
+
+&emsp;&emsp;“(B) in the case of a veteran who resides in a location less than the distance specified in clause (i), (ii), or (iii) of subparagraph (A), as applicable, experiences such hardship or other difficulties in travel to the nearest appropriate Department health care facility that such travel is not in the best interest of the veteran, as determined by the Secretary pursuant to regulations prescribed for purposes of this subsection.
+
+“(c)
+
+Covered Health Services.—For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17 of title 38, United States Code, or any other provision of law.
+
+“(d)
+
+Qualifying Non-Department Health Care Providers.—For purposes of the pilot program under this section, an entity or individual is a qualifying non-Department health care provider of a covered health service if the Secretary determines that the entity or individual is qualified to furnish such service to veterans under the pilot program.
+
+“(e)
+
+Election.—A covered veteran seeking to be provided covered health services under the pilot program under this section shall submit to the Secretary an application therefor in such form, and containing such information as the Secretary shall specify for purposes of the pilot program.
+
+“(f)
+
+Provision of Services Through Contract.—The Secretary shall provide covered health services to veterans under the pilot program under this section through contracts with qualifying non-Department health care providers for the provision of such services.
+
+“(g)
+
+Exchange of Medical Information.—In conducting the pilot program under this section, the Secretary shall develop and utilize a functional capability to provide for the exchange of appropriate medical information between the Department and non-Department health care providers providing health services under the pilot program.
+
+“(h)
+
+Reports.—Not later than the 30 days after the end of each year in which the pilot program under thissection is conducted, the Secretary shall submit to the Committee of Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report which includes—
+
+&emsp;“(1) the assessment of the Secretary of the pilot program during the preceding year, including its cost, volume, quality, patient satisfaction, benefit to veterans, and such other findings and conclusions with respect to pilot program as the Secretary considers appropriate; and
+
+&emsp;“(2) such recommendations as the Secretary considers appropriate regarding—
+
+&emsp;&emsp;“(A) the continuation of the pilot program;
+
+&emsp;&emsp;“(B) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department;
+
+&emsp;&emsp;“(C) making the pilot program permanent.”
 
 #### Ratification of Medical Services Contracts
 

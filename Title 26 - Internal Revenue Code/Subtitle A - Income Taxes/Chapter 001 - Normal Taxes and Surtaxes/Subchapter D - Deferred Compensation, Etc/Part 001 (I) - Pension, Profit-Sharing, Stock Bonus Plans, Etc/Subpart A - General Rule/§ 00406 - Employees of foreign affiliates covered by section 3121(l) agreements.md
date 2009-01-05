@@ -44,7 +44,7 @@ For purposes of applying section 404 with respect to contributions made to or un
 
 #### (e) Treatment as employee under related provisions
 
-An individual who is treated as an employee of an American employer under subsection (a)shall also be treated as an employee of such American employer, with respect to the plan described in subsection (a)(2), for purposes of applying the following provisions of this title:
+An individual who is treated as an employee of an American employer under subsection (a) shall also be treated as an employee of such American employer, with respect to the plan described in subsection (a)(2), for purposes of applying the following provisions of this title:
 
 &emsp;(1) Section 72(f) (relating to special rules for computing employees’ contributions).
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(d)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1114(b)(9)(A), (C) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1988, see section 1114(c)(3) of Pub. L. 99–514, set out as a note under section 414 of this title.
 

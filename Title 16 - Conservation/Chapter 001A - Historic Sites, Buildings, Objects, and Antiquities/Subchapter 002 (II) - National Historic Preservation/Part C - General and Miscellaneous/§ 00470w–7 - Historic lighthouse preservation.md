@@ -22,7 +22,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyanceof the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 
@@ -60,7 +60,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Maintenance of aid to navigation
 
-&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
+&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic lightstation, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
 
 #### (3) Reversion
 
@@ -86,7 +86,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;&emsp;(B) is conveying it to another person by sale, gift, or any other manner,
 
-> &emsp;the Secretary shall review the terms of the executed or proposed conveyance to ensure that any new owner is capable of or is complying with any and all conditions of the original conveyance. The Secretary may require the parties to the conveyance and relevant Federal agencies to provide such information as isnecessary to complete this review. If the Secretary determines that the new owner has not or is unable to comply with those conditions, the Secretary shall immediately advise the Administrator, who shall invoke any reversionary interest or take such other action as may be necessary to protect the interests of the United States.
+> &emsp;the Secretary shall review the terms of the executed or proposed conveyance to ensure that any new owner is capable of or is complying with any and all conditions of the original conveyance. The Secretary may require the parties to the conveyance and relevant Federal agencies to provide such information as is necessary to complete this review. If the Secretary determines that the new owner has not or is unable to comply with those conditions, the Secretary shall immediately advise the Administrator, who shall invoke any reversionary interest or take such other action as may be necessary to protect the interests of the United States.
 
 #### (d) Description of property
 
@@ -124,7 +124,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) any department or agency of the Federal Government; or
 
-&emsp;&emsp;(B) any department or agency of the State in which the historic light station is located, the local government of the community in which the historic light station is located, nonprofit corporation, educational agency, or community development organization that—
+&emsp;&emsp;(B) any department or agency of the State in which the historic light station is located,the local government of the community in which the historic light station is located, nonprofit corporation, educational agency, or community development organization that—
 
 &emsp;&emsp;&emsp;(i) has agreed to comply with the conditions set forth in subsection (c) of this section and to have such conditions recorded with the deed of title to the historic light station; and
 
@@ -156,7 +156,7 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

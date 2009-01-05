@@ -24,11 +24,11 @@ WHEREAS such duly appointed agents under the provisions of the law mentioned abo
 
 WHEREAS such warrants serve as a certification to the foreign government delivering the fugitives to any other foreign country through which such agents may pass, and to authorities in the United States of the powers therein conferred upon the agents; and
 
-WHEREAS it is desirable by delegation of functions heretofore performed by the President to simplify and thereby expedite the issuance of such warrants to agents in the interests of the prompt return of fugitives to the United States:
+WHEREAS it is desirable by delegation of functions heretofore performed by the President to simplify andthereby expedite the issuance of such warrants to agents in the interests of the prompt return of fugitives to the United States:
 
 NOW, THEREFORE, by virtue of the authority vested in me by section 301 of Title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. The Secretary of State is hereby designated and empowered to issue and sign all warrantsappointing agents to receive, in behalf of the United States, the delivery in extradition by a foreign government of any person accused of a crime committed within the United States, and to convey such person to the place of his trial.
+Section 1. The Secretary of State is hereby designated and empowered to issue and sign all warrants appointing agents to receive, in behalf of the United States, the delivery in extradition by a foreign government of any person accused of a crime committed within the United States, and to convey such person to the place of his trial.
 
 Sec. 2. Agents appointed in accordance with section 1 of this order shall have all the powers conferred in respect of such agents by applicable treaties of the United States and by section 3193 of Title 18, United States Code, or by any other provisions of United States law.
 

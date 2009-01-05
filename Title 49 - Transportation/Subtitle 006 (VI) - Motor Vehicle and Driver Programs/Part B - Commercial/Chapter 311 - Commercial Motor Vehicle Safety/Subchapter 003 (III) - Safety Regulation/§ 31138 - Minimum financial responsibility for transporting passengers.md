@@ -2,13 +2,27 @@
 
 (a)
 
-General Requirement.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
+General Requirement.—
 
-&emsp;(1) a place in another State;
+&emsp;(1)
 
-&emsp;(2) another place in the same State through a place outside of that State; or
+Transportation of passengers for compensation.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
 
-&emsp;(3) a place outside the United States.
+&emsp;&emsp;(A) a place in another State;
+
+&emsp;&emsp;(B) another place in the same State through a place outside of that State; or
+
+&emsp;&emsp;(C) a place outside the United States.
+
+&emsp;(2)
+
+Transportation of passengers not for compensation.—The Secretary may prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for commercial purposes, but not for compensation, by motor vehicle in the United States between a place in a State and—
+
+&emsp;&emsp;(A) a place in another State;
+
+&emsp;&emsp;(B) another place in the same State through a place outside of that State; or
+
+&emsp;&emsp;(C) a place outside the United States.
 
 (b)
 
@@ -30,11 +44,11 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
-(3) A motor carrier may obtain the required amount of financial responsibility from morethan one source provided the cumulative amount is equal to the minimum requirements of this section.
+(3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
 (4)
 
-Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by commercial motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required by subsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the commercial motor vehicle, or for loss or damage to property, or both.
+Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required by subsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -66,7 +80,7 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 &emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919; Pub. L. 107–298, §3(b)(2), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4120(a), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919; Pub. L. 107–298, §3(b)(2), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4120(a), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734; Pub. L. 110–244, title III, §305(a), June 6, 2008, 122 Stat. 1619.)
 
 Historical and Revision Notes
 
@@ -119,6 +133,16 @@ In subsection (d)(5), the words “when finally determined (or agreed upon in co
 In subsection (e), before clause (1), the text of section 18(g) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1122) is omitted as unnecessary because of the restatement.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–244, §305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to requireminimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
+
+&emsp;“(1) a place in another State;
+
+&emsp;“(2) another place in the same State through a place outside of that State; or
+
+&emsp;“(3) a place outside the United States.”
+
+Subsec. (c)(4). Pub. L. 110–244, §305(a)(2), struck out “commercial” before “motor vehicle” in two places.
 
 2005—Subsec. (a). Pub. L. 109–59, §4120(a)(1), struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
 

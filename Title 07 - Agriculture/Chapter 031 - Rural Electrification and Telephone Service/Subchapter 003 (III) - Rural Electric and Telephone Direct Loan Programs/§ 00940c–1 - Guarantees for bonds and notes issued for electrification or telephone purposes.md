@@ -8,7 +8,7 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (1) Outstanding loans
 
-&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amount of such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter.
+&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amount of such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for eligible electrification or telephone purposes consistent with this chapter.
 
 #### (2) Generation of electricity
 
@@ -24,19 +24,9 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 &emsp;&emsp;(C) the lender has not provided to the Secretary a list of loan amounts approved by the lender that the lender certifies are for eligible purposes described in subsection (a) of this section.
 
-#### (4) Interest rate reduction
+#### (4) Annual amount
 
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraph (B), a lender may not use any amount obtained from the reduction in funding costs as a result of the guarantee of a bond or note under this section to reduce the interest rate on a new or outstanding loan.
-
-#### (B) Concurrent loans
-
-&emsp;&emsp;A lender may use any amount described in subparagraph (A) to reduce the interest rate on a loan if the loan is—
-
-&emsp;&emsp;&emsp;(i) made by the lender for electrification or telephone projects that are eligible for assistance under this chapter; and
-
-&emsp;&emsp;&emsp;(ii) made concurrently with a loan approved by the Secretary under this chapter for such a project, as provided in section 937 of this title.
+&emsp;The total amount of guarantees provided by the Secretary under this section during a fiscal year shall not exceed $1,000,000,000, subject to the availability of funds under subsection (e).
 
 #### (c) Fees
 
@@ -46,11 +36,23 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (2) Amount
 
-&emsp;The amount of an annual fee paid for the guarantee of a bond or note under this section shall be equal to 30 basis points of the amount of the unpaid principal of the bond or note guaranteed under this section.
+#### (A) In general
+
+&emsp;&emsp;The amount of the annual fee paid for the guarantee of a bond or note under this section shall be equal to 30 basis points of the amount of the unpaid principal of the bond or note guaranteed under this section.
+
+#### (B) Prohibition
+
+&emsp;&emsp;Except as otherwise provided in this subsection and subsection (e)(2), no other fees shall be assessed.
 
 #### (3) Payment
 
-&emsp;A lender shall pay the fees required under this subsection on a semiannual basis.
+#### (A) In general
+
+&emsp;&emsp;A lender shall pay the fees required under this subsection on a semiannual basis.
+
+#### (B) Structured schedule
+
+&emsp;&emsp;The Secretary shall, with the consent of the lender, structure the schedule for payment of the fee to ensure that sufficient funds are available to pay the subsidy costs for note or bond guarantees as provided for in subsection (e)(2).
 
 #### (4) Rural economic development subaccount
 
@@ -78,7 +80,7 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (3) Department opinion
 
-&emsp;On the timely request of a lender, the General Counsel of the Department of Agricultureshall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
+&emsp;On the timely request of a lender, the General Counsel of the Department of Agriculture shall provide the Secretary with an opinion regarding the validity and authority of a guarantee issued to the lender under this section.
 
 #### (e) Authorization of appropriations
 
@@ -92,11 +94,33 @@ Subject to subsection (b) of this section, the Secretary shall guarantee payment
 
 #### (f) Termination
 
-The authority provided under this section shall terminate on September 30, 2007.
+The authority provided under this section shall terminate on September 30, 2012.
 
-(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413.)
+(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–246, §6106(a)(1)(A), substituted “for eligible electrification or telephone purposes consistent with this chapter” for “for electrification or telephone purposes that have been made concurrently with loans approved for such purposes under this chapter”.
+
+Subsec. (b)(4). Pub. L. 110–246, §6106(a)(1)(B), added par. (4) and struck out former par. (4) which related to prohibition on use of amounts from reduced funding costs for interest rate reduction except for certain concurrent loans.
+
+Subsec. (c)(2), (3). Pub. L. 110–246, §6106(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which provided that the amount of an annual fee paid for the guarantee would be equal to 30 basis points of the amount of the unpaid principal and directed payment of fees required under subsec. (c) on a semiannual basis.
+
+Subsec. (f). Pub. L. 110–246, §6106(a)(3), substituted “2012” for “2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Regulations and Implementation
+
+Pub. L. 110–234, title VI, §6106(b), May 22, 2008, 122 Stat. 1197, and Pub. L. 110–246, §4(a), title VI, §6106(b), June 18, 2008, 122 Stat. 1664, 1959, provided that: “The Secretary \[of Agriculture\] shall continue to carry out section 313A of the Rural Electrification Act of 1936 (7 U.S.C. 940c–1) in the same manner as on the day before the date of enactment of this Act \[June 18, 2008\], except without regard to the limitations prescribed in subsection (b)(1) of that section, until such time as any regulations necessary to carry out the amendments made by this section \[amending this section\] are fully implemented.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Pub. L. 108–199, div. A, title VII, §750(b), Jan. 23, 2004, 118 Stat. 38, provided that: “The Secretary shall publish a proposed rule to carry out section 313A of the Rural Electrification Act of 1936 \[7 U.S.C. 940c–1\] within 60 days of enactment of this Act \[Jan. 23, 2004\].”
 

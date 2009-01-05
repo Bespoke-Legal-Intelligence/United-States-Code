@@ -22,9 +22,13 @@
 
 (g)(1) Compensation shall be paid to attorneys appointed under this subsection <sup>1</sup> at a rate of not more than $125 per hour for in-court and out-of-court time. The Judicial Conference is authorized to raise the maximum for hourly payment specified in the <sup>2</sup> paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 <sup>3</sup> of title 5 on or after such date. After the rates are raised under the preceding sentence, such hourly range may be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
 
-(2) Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under subsection (f) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active circuit judge.
+(2) Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under subsection (f) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
 (3) The amounts paid under this paragraph <sup>4</sup> for services in any case shall be disclosed to the public, after the disposition of the petition.
 
-(Added Pub. L. 109–177, title II, §222(a), Mar. 9, 2006, 120 Stat. 231.)
+(Added Pub. L. 109–177, title II, §222(a), Mar. 9, 2006, 120 Stat. 231; amended Pub. L. 110–406, §12(c), Oct. 13, 2008, 122 Stat. 4294.)
+
+#### Amendments
+
+2008—Subsec. (g)(2). Pub. L. 110–406 inserted “or senior” after “active” in second sentence.
 

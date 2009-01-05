@@ -44,7 +44,7 @@ The separate affiliate required by this section—
 
 In its dealings with its affiliate described in subsection (a) of this section, a Bell operating company—
 
-&emsp;(1) may not discriminate between that company or affiliate and any other entity in the provision or procurement of goods, services, facilities, and information, or in the establishment of standards; and
+&emsp;(1) may not discriminate between that company or affiliate and any other entity in the provision or procurement of goods, services,facilities, and information, or in the establishment of standards; and
 
 &emsp;(2) shall account for all transactions with an affiliate described in subsection (a) of this section in accordance with accounting principles designated or approved by the Commission.
 

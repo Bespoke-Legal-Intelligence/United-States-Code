@@ -14,7 +14,7 @@
 
 #### (4) Report
 
-&emsp;Not later than February 15 of every third year, the Inspector General of the Foundationshall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
+&emsp;Not later than February 15 of every third year, the Inspector General of the Foundation shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
 
 #### (5) Materials relating to closed portions of meetings
 
@@ -30,7 +30,7 @@ The Director shall not exclude part-time students from eligibility for scholarsh
 
 #### Codification
 
-Section is comprised of section 15 of Pub. L. 107–368. Subsecs. (a)(1) and (c) of section 15 of Pub. L. 107–368 amended section 1863 of this title, and subsec. (b) of section 15 of Pub. L. 107–368 amended section 1873 of this title.
+Section is comprised of section 15 of Pub. L. 107–368. Subsecs. (a)(1) and (c) of section 15 of Pub. L. 107–368amended section 1863 of this title, and subsec. (b) of section 15 of Pub. L. 107–368 amended section 1873 of this title.
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 

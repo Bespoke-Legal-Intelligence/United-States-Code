@@ -10,7 +10,7 @@ Agreement on Use.—Before any salvage vessel or salvage gear is transferred by 
 
 (c)
 
-Reference to Authority To Advance Funds for Immediate Salvage Operations.—For authority for the Secretary of the Navy to advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see section 2307(g)(2) of this title.
+Reference to Authority To Advance Funds for Immediate Salvage Operations.—For authority for the Secretary of the Navy toadvance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations, see section 2307(g)(2) of this title.
 
 (Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 424.)
 

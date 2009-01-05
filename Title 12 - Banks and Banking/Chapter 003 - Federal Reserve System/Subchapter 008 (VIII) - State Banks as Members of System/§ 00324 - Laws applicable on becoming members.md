@@ -26,5 +26,5 @@ Section is comprised of the sixth par. of section 9 of act Dec. 23, 1913, as ame
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989,see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
+Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

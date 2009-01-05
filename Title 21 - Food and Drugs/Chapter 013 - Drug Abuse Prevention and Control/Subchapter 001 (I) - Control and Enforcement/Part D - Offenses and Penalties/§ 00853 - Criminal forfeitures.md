@@ -26,7 +26,7 @@ All right, title, and interest in property described in subsection (a) of this s
 
 #### (d) Rebuttable presumption
 
-There is a rebuttable presumption at trial that any property of a person convicted of a felonyunder this subchapter or subchapter II of this chapter is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
+There is a rebuttable presumption at trial that any property of a person convicted of a felony under this subchapter or subchapter II of this chapter is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
 
 &emsp;(1) such property was acquired by such person during the period of the violation of this subchapter or subchapter II of this chapter or within a reasonable time after such period; and
 

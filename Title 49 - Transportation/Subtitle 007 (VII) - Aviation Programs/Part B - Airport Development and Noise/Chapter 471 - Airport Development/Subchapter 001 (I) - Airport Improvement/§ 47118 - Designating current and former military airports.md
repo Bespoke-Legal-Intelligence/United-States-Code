@@ -16,7 +16,7 @@ General Requirements.—The Secretary of Transportation shall designate current 
 
 (b)
 
-Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title.
+Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which ofthose qualify for grants under section 47104 of this title.
 
 (c)
 
@@ -44,7 +44,7 @@ Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—
 
 &emsp;(1)
 
-Construction.—From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
+Construction.—From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
 
 &emsp;(2)
 
@@ -146,7 +146,7 @@ Pub. L. 104–264, §124(a), amended subsec. (a) generally. Prior to amendment, 
 
 “(a)
 
-General Requirements.—The Secretary of Transportation shall designate not more than 15 current or former military airports for which grants may be made under section 47117(e)(1)(E) of this title. TheSecretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
+General Requirements.—The Secretary of Transportation shall designate not more than 15 current or former military airports for which grants may be made under section 47117(e)(1)(E) of this title. The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings.”
 
 Subsec. (d). Pub. L. 104–264, §124(b), substituted “designation, and for subsequent 5-fiscal-year periods if the Secretary determines that the airport satisfies the designation criteria under subsection (a) at the beginning of each such subsequent 5-fiscal-year period.” for “designation.”
 

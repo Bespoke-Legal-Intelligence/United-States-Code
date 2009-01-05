@@ -9,6 +9,7 @@
 | [443\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443%20-%20Disposition%20of%20cash%20settlements.md) | Disposition of cash settlements. |
 | [443a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443a%20-%20Conveyance%20to%20Indian%20tribes%20of%20federally%20owned%20buildings%2C%20improvements%2C%20or%20facilities%3B%20disposition%20of%20property%20by%20Indians%3B%20forfeiture%E2%80%A6.md) | Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined. |
 | [443b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443b%20-%20Indian%20goods%20and%20supplies.md) | Indian goods and supplies. |
+| [443c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000443c%20-%20Emergency%20plan%20for%20Indian%20safety%20and%20health.md) | Emergency plan for Indian safety and health. |
 | 444 to 449. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -194,7 +195,7 @@
 | [485\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000485%20-%20Payment%20to%20assignment%20holders%20of%20moneys%20collected%20for%20use%20of%20subsurface%20rights.md) | Payment to assignment holders of moneys collected for use of subsurface rights. |
 | [486\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000486%20-%20Regulations.md) | Regulations. |
 | [487\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000487%20-%20Spokane%20Indian%20Reservation%3B%20consolidations%20of%20land.md) | Spokane Indian Reservation; consolidations of land. |
-| [488\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488%20-%20Agricultural%20loans%20to%20acquire%20land%20within%20reservations.md) | Agricultural loans to acquire land within reservations. |
+| [488\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000488%20-%20Loans%20to%20purchasers%20of%20highly%20fractioned%20land.md) | Loans to purchasers of highly fractioned land. |
 | [489\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000489%20-%20Title%20in%20trust%20to%20United%20States.md) | Title in trust to United States. |
 | [490\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000490%20-%20Tribal%20rights%20and%20privileges%20in%20connection%20with%20loans.md) | Tribal rights and privileges in connection with loans. |
 | [491\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000491%20-%20Mortgaged%20property%20governed%20by%20State%20law.md) | Mortgaged property governed by State law. |
@@ -472,7 +473,7 @@
 | [637\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000637%20-%20Use%20of%20Navajo%20tribal%20funds.md) | Use of Navajo tribal funds. |
 | [638\.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000638%20-%20Participation%20by%20Tribal%20Councils%3B%20recommendations.md) | Participation by Tribal Councils; recommendations. |
 | 639, 640. | Repealed. |
-| [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Navajo%20Community%20College%3B%20purpose.md) | Navajo Community College; purpose. |
+| [640a.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640a%20-%20Dine%EF%BF%BDAE1%20College%3B%20purpose.md) | Dine�AE1 College; purpose. |
 | [640b.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640b%20-%20Grants.md) | Grants. |
 | [640c.](Subchapter%20021%20%28XXI%29%20-%20Navajo%20and%20Hopi%20Tribes%20Rehabilitation/%C2%A7%2000640c%20-%20Study%20of%20facilities%20needs.md) | Study of facilities needs. |
 | 640c–1. | Authorization of appropriations. |

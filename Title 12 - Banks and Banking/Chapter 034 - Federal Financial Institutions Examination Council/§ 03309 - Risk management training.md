@@ -2,7 +2,7 @@
 
 #### (a) Seminars
 
-The Council shall develop and administer training seminars in risk management for itsemployees and the employees of insured financial institutions.
+The Council shall develop and administer training seminars in risk management for its employees and the employees of insured financial institutions.
 
 #### (b) Study of risk management training program
 

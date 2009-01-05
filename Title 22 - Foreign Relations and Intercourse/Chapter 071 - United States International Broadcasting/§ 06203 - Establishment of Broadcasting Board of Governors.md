@@ -34,7 +34,7 @@
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
+The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of suchterm. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
 
 #### (d) Selection of Board
 
@@ -42,7 +42,7 @@ Members of the Board appointed by the President shall be citizens of the United 
 
 #### (e) Compensation
 
-Members of the Board, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section (includingtravel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under section 5315 of title 5. While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The Secretary of State shall not be entitled to any compensation under this chapter, but may be allowed travel expenses as provided under this subsection.
+Members of the Board, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under section 5315 of title 5. While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The Secretary of State shall not be entitled to any compensation under this chapter, but may be allowed travel expenses as provided under this subsection.
 
 #### (f) Decisions
 

@@ -34,13 +34,9 @@ In any proceeding under subsection (b) of this section, there shall be a presump
 
 #### (d) Payments by employer prior and subsequent to determination by arbitrator; adjustments; failure of employer to make payments
 
-Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title).
+Payments shall be made by an employer in accordance with the determinations made underthis part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title).
 
-#### (e) Furnishing of information by plan sponsor to employer respecting computation of withdrawal liability of employer; fees
-
-If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.
-
-#### (f) Procedures applicable to certain disputes
+#### (e) Procedures applicable to certain disputes
 
 #### (1) In general
 
@@ -74,7 +70,7 @@ If any employer requests in writing that the plan sponsor make available to the 
 
 &emsp;&emsp;Notwithstanding subsection (d) of this section and section 1399(c) of this title, if an employer contests the plan sponsor's determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a) of this section, or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination.
 
-#### (g) Procedures applicable to certain disputes
+#### (f) Procedures applicable to certain disputes
 
 (1)
 
@@ -104,7 +100,7 @@ Definition of small employer.—For purposes of this subsection—
 
 &emsp;(A)
 
-In general.—The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
+In general.—The term “small employer” means any employer which, for thecalendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
 
 &emsp;&emsp;(i) employs not more than 500 employees, and
 
@@ -120,13 +116,19 @@ Additional security pending resolution of dispute.—If a withdrawal liability d
 
 (5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
 
-(Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title II, §204(d)(1), Aug. 17, 2006, 120 Stat. 887.)
+(Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title II, §204(d)(1), Aug. 17, 2006, 120 Stat. 887; Pub. L. 110–458, title I, §105(b)(2), Dec. 23, 2008, 122 Stat. 5105.)
 
 #### Amendments
+
+2008—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information.”
 
 2006—Subsec. (g). Pub. L. 109–280 added subsec. (g).
 
 2004—Subsec. (f). Pub. L. 108–218 added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

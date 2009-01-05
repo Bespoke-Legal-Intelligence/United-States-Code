@@ -18,7 +18,7 @@ The program manager, in consultation with the Information Sharing Council, shall
 
 &emsp;(1) monitor and assess the efficacy of the ITACG; and
 
-&emsp;(2) not later than 180 days after August 3, 2007, and at least annually thereafter, submitto the Secretary, the Attorney General, the Director of National Intelligence, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the progress of the ITACG.
+&emsp;(2) not later than 180 days after August 3, 2007, and at least annually thereafter, submit to the Secretary, the Attorney General, the Director of National Intelligence, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the progress of the ITACG.
 
 #### (d) Responsibilities of Secretary
 

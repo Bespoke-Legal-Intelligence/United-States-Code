@@ -50,23 +50,25 @@ For purposes of this section—
 
 &emsp;(1) The term “community college” means—
 
-&emsp;&emsp;(A) a tribally controlled community college, or
+&emsp;&emsp;(A) a junior or community college that is a tribally controlled college or university, or
 
 &emsp;&emsp;(B) a junior or community college.
 
-&emsp;(2) The term “tribally controlled community college” has the meaning given to such term by section 1801(4) <sup>1</sup> of this title.
+&emsp;(2) The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title.
 
 &emsp;(3) The term “junior or community college” has the meaning given to such term by section 1058(e) <sup>1</sup> of title 20.
 
-(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
-
-Section 1801 of this title, referred to in subsec. (e)(2), was amended by Pub. L. 98–192, §1(1), Dec. 1, 1983, 97 Stat. 1335, to designate par. (4) as subsec. (a)(4), and was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, so that it no longer defines the term “tribally controlled community college”.
 
 Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639, which redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 #### Amendments
+
+2008—Subsec. (e)(1)(A). Pub. L. 110–315, §941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
+
+Subsec. (e)(2). Pub. L. 110–315, §941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: “The term ‘tribally controlled community college’ has the meaning given to such term by section 1801(4) of this title.”
 
 1998—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
 

@@ -22,7 +22,7 @@
 
 (B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law.
 
-(3) The Secretary shall develop and implement specific procedures with respect to when andhow each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement specific procedures with respect to when and how each of the intermediate sanctions developed under paragraph (1) is to be applied, the amounts of any penalties, and the severity of each of these penalties. Such procedures shall be designed so as to minimize the time between identification of violations and imposition of these sanctions and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
 
@@ -46,7 +46,7 @@ Subsec. (b)(1)(A). Pub. L. 100–360, §411(g)(3)(G)(ii), struck out “certifie
 
 Subsec. (b)(2)(A). Pub. L. 100–360, §411(g)(3)(G)(iv), inserted at end “The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
-Subsec. (b)(2)(A)(ii). Pub. L. 100–360, §411(g)(3)(G)(iii), substituted “civil money penalties in an amount not to exceed $10,000 for each day of substantial noncompliance” for “civil fines and penalties”.
+Subsec. (b)(2)(A)(ii). Pub. L. 100–360, §411(g)(3)(G)(iii), substituted “civil money penalties in an amount not toexceed $10,000 for each day of substantial noncompliance” for “civil fines and penalties”.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 100–360, §411(g)(3)(G)(v), struck out “certification” before “surveys”.
 

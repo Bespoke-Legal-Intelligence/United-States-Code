@@ -28,7 +28,7 @@ The words “the armed forces” are substituted for the words “the Army, the 
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and theSecretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substituted “the Secretary of Defense” for “the President”.
 

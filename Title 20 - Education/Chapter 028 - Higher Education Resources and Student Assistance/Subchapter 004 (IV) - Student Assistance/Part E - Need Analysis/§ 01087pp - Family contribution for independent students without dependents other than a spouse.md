@@ -36,11 +36,25 @@ For each independent student without dependents other than a spouse, the expecte
 
 &emsp;&emsp;&emsp;(iv) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $6,050 for single students;
+&emsp;&emsp;&emsp;&emsp;(I) for single or separated students, or married students where both are enrolled pursuant to subsection (a)(2)—
 
-&emsp;&emsp;&emsp;&emsp;(II) $6,050 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for academic year 2009–2010, $7,000;
 
-&emsp;&emsp;&emsp;&emsp;(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for academic year 2010–2011, $7,780;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) for academic year 2011–2012, $8,550; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) for academic year 2012–2013, $9,330; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for married students where 1 is enrolled pursuant to subsection (a)(2)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for academic year 2009–2010, $11,220;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for academic year 2010–2011, $12,460;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) for academic year 2011–2012, $13,710; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) for academic year 2012–2013, $14,960;
 
 &emsp;&emsp;&emsp;(v) in the case where a spouse is present, an employment expense allowance, as determined in accordance with paragraph (4); and
 
@@ -182,33 +196,15 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 (Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(b), Sept. 27, 2007, 121 Stat. 801.)
 
-#### Amendment of Subsection (b)(1)(A)(iv)
-
-<i>Pub. L. 110–84, title VI, §601(b), (e), Sept. 27, 2007, 121 Stat. 801, 804, provided that, effective July 1, 2009, subsection (b)(1)(A)(iv) of this section is amended to read as follows:</i>
-
-&emsp;&emsp;&emsp;<i>“(iv) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) for single or separated students, or married students where both are enrolled pursuant to subsection (a)(2)—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) for academic year 2009–2010, $7,000;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) for academic year 2010–2011, $7,780;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(cc) for academic year 2011–2012, $8,550; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(dd) for academic year 2012–2013, $9,330; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) for married students where 1 is enrolled pursuant to subsection (a)(2)—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(aa) for academic year 2009–2010, $11,220;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(bb) for academic year 2010–2011, $12,460;</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(cc) for academic year 2011–2012, $13,710; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>“(dd) for academic year 2012–2013, $14,960;”.</i>
-
 #### Amendments
+
+2007—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
+
+&emsp;“(I) $6,050 for single students;
+
+&emsp;“(II) $6,050 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
+
+&emsp;“(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;”.
 
 2006—Subsec. (b)(1)(A)(iv). Pub. L. 109–171, §8017(b)(1)(A), substituted “$6,050” for “$5,000” in subcls. (I) and (II) and “$9,700” for “$8,000” in subcl. (III).
 

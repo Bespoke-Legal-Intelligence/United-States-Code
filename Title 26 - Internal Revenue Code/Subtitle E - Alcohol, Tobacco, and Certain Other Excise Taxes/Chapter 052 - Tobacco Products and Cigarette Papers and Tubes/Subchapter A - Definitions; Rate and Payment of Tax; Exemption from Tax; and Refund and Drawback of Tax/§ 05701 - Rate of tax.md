@@ -142,7 +142,7 @@ Subsec. (c)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1
 
 Subsec. (c)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places.
 
-Subsec. (d). Pub. L. 85–859 substituted “On each book or set of cigarette papers containing more than 25 papers, manufactured in or imported into the United States, there shall be imposed” for “On cigarette papers, manufactured in or imported into the United States, there shall be imposed, on each package, book, or set containing more than 25 papers”.
+Subsec. (d). Pub. L. 85–859 substituted “On each book or set of cigarette papers containing more than 25 papers, manufactured in or imported into the United States, there shall be imposed” for “On cigarette papers, manufactured in or imported into the UnitedStates, there shall be imposed, on each package, book, or set containing more than 25 papers”.
 
 Subsec. (f). Pub. L. 85–859 substituted “imposed by this section on tobacco products and cigarette papers and tubes imported into the United States” for “imposed on articles by this section”.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Coordination With Tobacco Industry Settlement Agreement
 
-Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
+Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099,which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
 
 #### Floor Stocks Taxes
 

@@ -46,9 +46,15 @@ In assessing and taking into account, under subsection (a) of this section, the 
 
 &emsp;&emsp;The term “insured depository institution” has the meaning given the term in section 1813(c) of this title.
 
-(Pub. L. 95–128, title VIII, §804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, §909(1), Oct. 28, 1992, 106 Stat. 3874; Pub. L. 106–102, title I, §103(b), Nov. 12, 1999, 113 Stat. 1350.)
+#### (d) Low-cost education loans
+
+In assessing and taking into account, under subsection (a), the record of a financial institution, the appropriate Federal financial supervisory agency shall consider, as a factor, low-cost education loans provided by the financial institution to low-income borrowers.
+
+(Pub. L. 95–128, title VIII, §804, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 102–550, title IX, §909(1), Oct. 28, 1992, 106 Stat. 3874; Pub. L. 106–102, title I, §103(b), Nov. 12, 1999, 113 Stat. 1350; Pub. L. 110–315, title X, §1031(a), Aug. 14, 2008, 122 Stat. 3488.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–315 added subsec. (d).
 
 1999—Subsec. (c). Pub. L. 106–102 added subsec. (c).
 
@@ -57,4 +63,8 @@ In assessing and taking into account, under subsection (a) of this section, the 
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
+
+#### Regulations
+
+Pub. L. 110–315, title X, §1031(b), Aug. 14, 2008, 122 Stat. 3488, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], each appropriate Federal financial supervisory agency shall issue rules in final form to implement section 804(d) of the Community Reinvestment Act of 1977 \[12 U.S.C. 2903(d)\], as added by this section.”
 

@@ -14,7 +14,7 @@ Eligibility.—In order to be eligible for designation as an acquisition fellow,
 
 &emsp;(1) must complete at least 2 years of Federal Government service as an employee in an acquisition position in the Department of Defense; and
 
-&emsp;(2) must be serving in an acquisition position in the Department of Defense that involves the performance of duties likely to result in significant restrictions under law on the employment activities of that employee after leaving Government service.
+&emsp;(2) must be serving in an acquisition position in the Department of Defense that involves the performance of duties likely to result in significant restrictions under law onthe employment activities of that employee after leaving Government service.
 
 (d)
 

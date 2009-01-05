@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (3) National Bituminous Coal Wage Agreement
 
-&emsp;The term “National Bituminous Coal Wage Agreement” means a collective bargainingagreement negotiated by the BCOA and the United Mine Workers of America.
+&emsp;The term “National Bituminous Coal Wage Agreement” means a collective bargaining agreement negotiated by the BCOA and the United Mine Workers of America.
 
 #### (c) Terms relating to operators
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (C) Eligible seller
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible seller” means an assigned operator described in section 9704(j)(2) or a related person to such assigned operator.
+&emsp;&emsp;For purposes of this paragraph, the term “eligible seller” means an assigned operatordescribed in section 9704(j)(2) or a related person to such assigned operator.
 
 #### (d) Enactment date
 

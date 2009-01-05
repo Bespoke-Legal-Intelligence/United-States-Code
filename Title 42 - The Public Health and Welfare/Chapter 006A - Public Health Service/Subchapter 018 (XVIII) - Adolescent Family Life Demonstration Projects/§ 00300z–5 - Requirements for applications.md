@@ -22,7 +22,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(8) a description of the results expected from the provision of services, and the procedures to be used for evaluating those results;
 
-&emsp;(9) a summary of the views of public agencies, providers of services, and the general public in the geographic area to be served, concerning the proposed use of funds providedfor a demonstration project for services under this subchapter and a description of procedures used to obtain those views, and, in the case of applicants who propose to coordinate services administered by a State, the written comments of the appropriate State officials responsible for such services;
+&emsp;(9) a summary of the views of public agencies, providers of services, and the general public in the geographic area to be served, concerning the proposed use of funds provided for a demonstration project for services under this subchapter and a description of procedures used to obtain those views, and, in the case of applicants who propose to coordinate services administered by a State, the written comments of the appropriate State officials responsible for such services;
 
 &emsp;(10) assurances that the applicant will have an ongoing quality assurance program;
 

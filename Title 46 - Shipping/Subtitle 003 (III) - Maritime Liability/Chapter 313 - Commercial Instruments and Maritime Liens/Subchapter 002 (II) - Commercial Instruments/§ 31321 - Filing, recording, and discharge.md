@@ -30,7 +30,7 @@
 
 (c) If a bill of sale, conveyance, mortgage, assignment, or related document is filed that involves a vessel for which an application for documentation is filed, and the Secretary decides that the vessel cannot be documented by an applicant—
 
-&emsp;(1) the Secretary shall send notice of the Secretary's decision, including reasons for the decision, to each interested party to the instrument filed for recording; and
+&emsp;(1) the Secretary shall send notice of the Secretary's decision, including reasons for thedecision, to each interested party to the instrument filed for recording; and
 
 &emsp;(2) 90 days after sending the notice as provided under clause (1) of this subsection, the Secretary—
 
@@ -96,7 +96,7 @@ New
 
 46:925(b)
 
-Section 31321(a)(1) provides for the filing of a bill of sale, conveyance, mortgage, assignment, or related instrument of a vessel. This subsection makes substantive changes to law. The bill would allow a bill ofsale, conveyance, mortgage, assignment, or related instrument to be filed at the same time an application for documentation under chapter 121 is filed. The Committee intends that the types of related instruments required to be filed be defined by regulations prescribed by the Secretary of Transportation. A major change the bill makes is that the instrument needs only be filed with the Secretary of Transportation to be valid. It is not necessary that it be recorded. This change is being made to eliminate a problem under existing law that prevents a person from recording an instrument when the vessel has not been yet documented. When filed with the Secretary, it is valid (to the extent the vessel is involved) against any person except the grantor, mortgagor, or assignor, their heirs or devisees, and a person having actual notice of that instrument. Clauses (A)–(C) make no substantive change to law.
+Section 31321(a)(1) provides for the filing of a bill of sale, conveyance, mortgage, assignment, or related instrument of a vessel. This subsection makes substantive changes to law. The bill would allow a bill of sale, conveyance, mortgage, assignment, or related instrument to be filed at the same time an application for documentation under chapter 121 is filed. The Committee intends that the types of related instruments required to be filed be defined by regulations prescribed by the Secretary of Transportation. A major change the bill makes is that the instrument needs only be filed with the Secretary of Transportation to be valid. It is not necessary that it be recorded. This change is being made to eliminate a problem under existing law that prevents a person from recording an instrument when the vessel has not been yet documented. When filed with the Secretary, it is valid (to the extent the vessel is involved) against any person except the grantor, mortgagor, or assignor, their heirs or devisees, and a person having actual notice of that instrument. Clauses (A)–(C) make no substantive change to law.
 
 Paragraph (2) provides that each bill of sale, conveyance, mortgage, assignment, or related instrument that is filed in substantial compliance with the requirements of this section is valid against any person from the time it is filed with the Secretary.
 

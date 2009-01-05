@@ -56,7 +56,7 @@ Findings.—Congress makes the following findings:
 
 “(b)
 
-Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by allcountries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
+Sense of Congress Regarding Success in Multilateral Organizations.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
 
 #### “SEC. 7702. DEFINITIONS.
 
@@ -242,7 +242,7 @@ Additional recommendations.—The report required by paragraph (1) may make diff
 
 “(4)
 
-Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
+Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificatesof deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
@@ -356,7 +356,7 @@ Federal Funding Study.—
 
 &emsp;“(1)
 
-Study required.—The Secretary of the Treasury shall conduct a study to identify possible available sources of Federal funding to cover costs which will be incurred by the States in carrying out the purposes of this section.
+Study required.—The Secretary of the Treasury shall conduct a study to identify possible available sources of Federal funding to cover costs whichwill be incurred by the States in carrying out the purposes of this section.
 
 &emsp;“(2)
 
@@ -438,7 +438,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 #### International Currency Transaction Reporting
 
-Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of informationand database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Restrictions on Laundering of United States Currency
 

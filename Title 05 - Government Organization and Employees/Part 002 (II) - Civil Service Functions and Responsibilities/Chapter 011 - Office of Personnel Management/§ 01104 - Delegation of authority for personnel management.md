@@ -16,7 +16,7 @@
 
 (c) If the Office makes a written finding, on the basis of information obtained under the program established under subsection (b)(2) of this section or otherwise, that any action taken by an agency pursuant to authority delegated under subsection (a)(2) of this section is contrary to any law, rule, or regulation, or is contrary to any standard established under subsection (b)(1) of this section, the agency involved shall take any corrective action the Office may require.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, §1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, §1, Nov. 19, 1995, 109 Stat. 489.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, §1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L.95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, §1, Nov. 19, 1995, 109 Stat. 489.)
 
 Historical and Revision Notes<br>1966
 

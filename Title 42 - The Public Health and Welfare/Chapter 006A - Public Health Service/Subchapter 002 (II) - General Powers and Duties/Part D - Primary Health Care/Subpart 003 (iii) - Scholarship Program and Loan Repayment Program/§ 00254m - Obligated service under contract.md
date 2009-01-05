@@ -72,7 +72,7 @@ Subsec. (b)(5)(A). Pub. L. 107–251, §311(1)(B)(i), added subpar. (A) and stru
 
 Subsec. (b)(5)(B). Pub. L. 107–251, §311(1)(B)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows:
 
-“(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from aschool of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
+“(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
 
 “(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
 
@@ -110,7 +110,7 @@ Subsec. (d). Pub. L. 97–35, §2709(c)(5), inserted provision relating to indiv
 
 Subsec. (e). Pub. L. 97–35, §2709(c)(6), substituted provisions respecting mandatory determination of service requirement, for provisions respecting discretionary determination of service requirement.
 
-1979—Subsec. (b)(5)(A). Pub. L. 96–76, §202(a), (b)(1), (2), inserted provisions authorizing a greater period than three years for individuals receiving degrees from schools of medicine, osteopathy, and dentistry, and provisions respecting individuals receiving degrees from schools of veterinary medicine, optometry, podiatry, and pharmacy, and substituted “No period” for “No such period”.
+1979—Subsec. (b)(5)(A). Pub. L. 96–76, §202(a), (b)(1), (2), inserted provisions authorizing a greater periodthan three years for individuals receiving degrees from schools of medicine, osteopathy, and dentistry, and provisions respecting individuals receiving degrees from schools of veterinary medicine, optometry, podiatry, and pharmacy, and substituted “No period” for “No such period”.
 
 Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in subparagraph (A)” for “of medicine, osteopathy, or dentistry”.
 

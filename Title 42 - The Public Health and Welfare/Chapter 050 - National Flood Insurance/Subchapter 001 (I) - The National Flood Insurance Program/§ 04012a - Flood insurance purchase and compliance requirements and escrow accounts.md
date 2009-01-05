@@ -126,7 +126,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
+&emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>2</sup> shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
 
 #### (B) “Enterprise” defined
 
@@ -184,7 +184,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>2</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>2</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>3</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>3</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2) of this section.
 
@@ -192,7 +192,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
-(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287.)
+(Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(e)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780.)
 
 #### References in Text
 
@@ -210,11 +210,13 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
+2008—Subsec. (f)(3)(A). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+
 1994—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
 Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
 
-Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to themaximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
+Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazardsand in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
 
 Subsec. (c). Pub. L. 103–325, §522(b), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
@@ -234,5 +236,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Agency”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”.</i>
 

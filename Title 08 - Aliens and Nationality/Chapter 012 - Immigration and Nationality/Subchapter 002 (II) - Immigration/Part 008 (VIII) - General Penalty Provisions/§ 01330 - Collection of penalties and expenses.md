@@ -36,7 +36,7 @@ Section 605 of Public Law 104–134, referred to in subsec. (b)(3)(C), is sectio
 
 1996—Subsec. (a). Pub. L. 104–208, §308(g)(4)(C), substituted “1224, 1253(c)(2)” for “1227, 1229, 1253”.
 
-Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding section 3302 of title 31, the increase in penalties collected resulting from the amendments made by sections 203(b), 543(a), and 544 of the Immigration Act of 1990 shall be credited to the appropriation—
+Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Notwithstanding section 3302 of title 31, theincrease in penalties collected resulting from the amendments made by sections 203(b), 543(a), and 544 of the Immigration Act of 1990 shall be credited to the appropriation—
 
 &emsp;“(1) for the Immigration and Naturalization Service for activities that enhance enforcement of provisions of this subchapter, including—
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 &emsp;&emsp;“(B) the implementation of the system described in section 1252(a)(3)(A) of this title, and
 
-&emsp;&emsp;“(C) for the repair, maintenance, or construction on the United States border, in areas experiencinghigh levels of apprehensions of illegal aliens, of structures to deter illegal entry into the United States; and
+&emsp;&emsp;“(C) for the repair, maintenance, or construction on the United States border, in areas experiencing high levels of apprehensions of illegal aliens, of structures to deter illegal entry into the United States; and
 
 &emsp;“(2) for the Executive Office for Immigration Review in the Department of Justice for the purpose of removing the backlogs in the preparation of transcripts of deportation proceedings conducted under section 1252 of this title.”
 

@@ -72,7 +72,7 @@ As of October 1, 2006, the role of the Comptroller General and the Government Ac
 
 #### References in Text
 
-Section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, referred to in subsec. (e)(3), is section 1849(a) ofthis title, as amended by section 129(c) of Pub. L. 107–68.
+Section 1849(a) of this title, as amended by section 129(c) of the Legislative Branch Appropriations Act, 2002, referred to in subsec. (e)(3), is section 1849(a) of this title, as amended by section 129(c) of Pub. L. 107–68.
 
 #### Codification
 

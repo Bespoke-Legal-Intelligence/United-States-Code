@@ -42,7 +42,7 @@ Section 2 of Pub. L. 91–431 provided that:
 
 “(a) The Congress finds that a large number of municipalities and other entities of local government throughout the Nation are unable to finance construction of vital and urgently needed public facilities because of the shortage of funds for long-term borrowing.
 
-“(b) The Congress further finds that there is an immediate need for such facilities in order to provide basic safeguards for the health and well-being of thepeople of the United States, to check widespread pollution of irreplaceable water sources, and to provide an effective and practical method of combating rising unemployment.”
+“(b) The Congress further finds that there is an immediate need for such facilities in order to provide basic safeguards for the health and well-being of the people of the United States, to check widespread pollution of irreplaceable water sources, and to provide an effective and practical method of combating rising unemployment.”
 
 #### Administrative Priority for Applications Relating to Activities in Areas Affected by Base Closings
 

@@ -30,7 +30,7 @@ Section was formerly classified to section 7257c of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §3141(k)(7)(A)(iv), made technical amendment to reference in original act which appears in text as reference to section 2793(b) of this title.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(k)(7)(A)(iv), made technical amendment to reference in original act which appears in text as reference to section 2793(b) of this title.
 
 Subsec. (d). Pub. L. 108–136, §3141(k)(7)(A)(v)(II), made technical amendment to reference in original act which appears in text as reference to section 2791(c) of this title.
 

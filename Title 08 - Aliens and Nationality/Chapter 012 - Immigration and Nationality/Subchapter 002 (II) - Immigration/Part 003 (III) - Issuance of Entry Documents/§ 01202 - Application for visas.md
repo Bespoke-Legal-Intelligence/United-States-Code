@@ -10,7 +10,7 @@ Every alien applying for an immigrant visa shall present a valid unexpired passp
 
 #### (c) Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application
 
-Every alien applying for a nonimmigrant visa and for alien registration shall make application therefor in such form and manner as shall be by regulations prescribed. In the application the alien shall state his full and true name, the date and place of birth, his nationality, the purpose and length of his intended stay in the United States; his marital status; and such additional information necessary to the identification of the applicant, the determination of his eligibility for a nonimmigrant visa, and the enforcement of the immigration and nationality laws as may be by regulations prescribed. The alien shall provide complete and accurate information in response to any request for information contained in the application. At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.
+Every alien applying for a nonimmigrant visa and for alien registration shall make applicationtherefor in such form and manner as shall be by regulations prescribed. In the application the alien shall state his full and true name, the date and place of birth, his nationality, the purpose and length of his intended stay in the United States; his marital status; and such additional information necessary to the identification of the applicant, the determination of his eligibility for a nonimmigrant visa, and the enforcement of the immigration and nationality laws as may be by regulations prescribed. The alien shall provide complete and accurate information in response to any request for information contained in the application. At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.
 
 #### (d) Other documentary evidence for nonimmigrant visa
 
@@ -26,7 +26,7 @@ The records of the Department of State and of diplomatic and consular offices of
 
 &emsp;(1) in the discretion of the Secretary of State certified copies of such records may be made available to a court which certifies that the information contained in such records is needed by the court in the interest of the ends of justice in a case pending before the court.<sup>2</sup>
 
-&emsp;(2) the Secretary of State, in the Secretary's discretion and on the basis of reciprocity, mayprovide to a foreign government information in the Department of State's computerized visa lookout database and, when necessary and appropriate, other records covered by this section related to information in the database—
+&emsp;(2) the Secretary of State, in the Secretary's discretion and on the basis of reciprocity, may provide to a foreign government information in the Department of State's computerized visa lookout database and, when necessary and appropriate, other records covered by this section related to information in the database—
 
 &emsp;&emsp;(A) with regard to individual aliens, at any time on a case-by-case basis for the purpose of preventing, investigating, or punishing acts that would constitute a crime in the United States, including, but not limited to, terrorism or trafficking in controlled substances, persons, or illicit weapons; or
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of this chapter, the Secretary of State shal
 
 &emsp;&emsp;&emsp;(ii) for the visa classification for which such prior visa was issued;
 
-&emsp;&emsp;&emsp;(iii) from the consular post located in the country of such alien's usual residence, unless otherwise prescribed in regulations that require an applicant to apply for a visa in the country of which such applicant is a national; and
+&emsp;&emsp;&emsp;(iii) from the consular post located in the country of such alien's usual residence, unless otherwise prescribed in regulationsthat require an applicant to apply for a visa in the country of which such applicant is a national; and
 
 &emsp;&emsp;&emsp;(iv) the consular officer has no indication that such alien has not complied with the immigration laws and regulations of the United States; or
 
@@ -102,7 +102,7 @@ Notwithstanding any other provision of this chapter, the Secretary of State shal
 
 &emsp;&emsp;&emsp;(iii) poses a security threat to the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 107–56, title IV, §413, Oct. 26,2001, 115 Stat. 353; Pub. L. 108–458, title V, §§5301(a), 5302, title VII, §7203(b), Dec. 17, 2004, 118 Stat. 3735, 3736, 3814.)
+(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 107–56, title IV, §413, Oct. 26, 2001, 115 Stat. 353; Pub. L. 108–458, title V, §§5301(a), 5302, title VII, §7203(b), Dec. 17, 2004, 118 Stat. 3735, 3736, 3814.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Sharing of Certain Information
 

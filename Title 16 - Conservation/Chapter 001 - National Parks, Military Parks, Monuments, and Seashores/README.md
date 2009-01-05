@@ -29,6 +29,7 @@
 | [1g.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001g%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [1h.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001h%20-%20Sums%20provided%20by%20private%20entities%20for%20utility%20services.md) | Sums provided by private entities for utility services. |
 | [1i.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001i%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
+| [1j.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000001j%20-%20Cooperative%20agreements%20for%20national%20park%20natural%20resource%20protection.md) | Cooperative agreements for national park natural resource protection. |
 | [2\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000002%20-%20National%20parks%2C%20reservations%2C%20and%20monuments%3B%20supervision.md) | National parks, reservations, and monuments; supervision. |
 | [3\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003%20-%20Rules%20and%20regulations%20of%20national%20parks%2C%20reservations%2C%20and%20monuments%3B%20timber%3B%20leases.md) | Rules and regulations of national parks, reservations, and monuments; timber; leases. |
 | [3a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003a%20-%20Recovery%20of%20costs%20associated%20with%20special%20use%20permits.md) | Recovery of costs associated with special use permits. |
@@ -606,7 +607,7 @@
 | [222\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000222%20-%20Administration%2C%20concessions%2C%20and%20privileges%3B%20contracts%20for%20sale%20of%20water.md) | Administration, concessions, and privileges; contracts for sale of water. |
 | [223\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000223%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93620%2C%20%C2%A710%28f%29%2C%20Jan.%203%2C%201975%2C%2088%20Stat.%202093.md) | Repealed. |
 | [224\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000224%20-%20Entries%20under%20land%20laws%3B%20toll%20road.md) | Entries under land laws; toll road. |
-| [225\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000225%20-%20Laws%20applicable%3B%20easements%20and%20rights-of-ways.md) | Laws applicable; easements and rights-of-ways. |
+| [225\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000225%20-%20Laws%20applicable%3B%20easements%20and%20rights-of-way.md) | Laws applicable; easements and rights-of-way. |
 | [226\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000226%20-%20Omitted.md) | Omitted. |
 | [227\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000227%20-%20Utilization%20of%20areas%20for%20Government%20reclamation%20projects.md) | Utilization of areas for Government reclamation projects. |
 | [228\.](Subchapter%20024%20%28XXIV%29%20-%20Grand%20Canyon%20National%20Park/%C2%A7%2000228%20-%20Buildings%20on%20privately%20owned%20lands.md) | Buildings on privately owned lands. |
@@ -1746,11 +1747,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER LIX–BB—NEW BEDFORD NATIONAL HISTORICAL PARK
+#### SUBCHAPTER LIX–BB—NEW BEDFORD WHALING NATIONAL HISTORICAL PARK
 
 |  |  |
 | :--- | ---: |
-| [410ddd.](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/%C2%A7%2000410ddd%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park.md) | New Bedford Whaling National Historical Park. |
+| [410ddd.](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park/%C2%A7%2000410ddd%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park.md) | New Bedford Whaling National Historical Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3714,7 +3715,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 059&#8211;Y (LIX&#8211;Y) - California Desert Lands Parks and Preserve](Subchapter%20059%E2%80%93Y%20%28LIX%E2%80%93Y%29%20-%20California%20Desert%20Lands%20Parks%20and%20Preserve/README.md)
 - [Subchapter 059&#8211;Z (LIX&#8211;Z) - New Orleans Jazz National Historical Park](Subchapter%20059%E2%80%93Z%20%28LIX%E2%80%93Z%29%20-%20New%20Orleans%20Jazz%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;AA (LIX&#8211;AA) - Cane River Creole National Historical Park and National Heritage Area](Subchapter%20059%E2%80%93AA%20%28LIX%E2%80%93AA%29%20-%20Cane%20River%20Creole%20National%20Historical%20Park%20and%20National%20Heritage%20Area/README.md)
-- [Subchapter 059&#8211;BB (LIX&#8211;BB) - New Bedford National Historical Park](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;BB (LIX&#8211;BB) - New Bedford Whaling National Historical Park](Subchapter%20059%E2%80%93BB%20%28LIX%E2%80%93BB%29%20-%20New%20Bedford%20Whaling%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;CC (LIX&#8211;CC) - Adams National Historical Park](Subchapter%20059%E2%80%93CC%20%28LIX%E2%80%93CC%29%20-%20Adams%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;DD (LIX&#8211;DD) - Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area](Subchapter%20059%E2%80%93DD%20%28LIX%E2%80%93DD%29%20-%20Black%20Canyon%20of%20the%20Gunnison%20National%20Park%20and%20Gunnison%20Gorge%20National%20Conservation%20Area/README.md)
 - [Subchapter 059&#8211;EE (LIX&#8211;EE) - Rosie the Riveter-World War II Home Front National Historical Park](Subchapter%20059%E2%80%93EE%20%28LIX%E2%80%93EE%29%20-%20Rosie%20the%20Riveter-World%20War%20II%20Home%20Front%20National%20Historical%20Park/README.md)

@@ -18,7 +18,7 @@ Explanation of Inconsistencies.—As part of the budget display under subsection
 
 &emsp;(1) any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism and antiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 (31 U.S.C. 1113 note); and
 
-&emsp;(2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
+&emsp;(2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided byCongress (both in statutes and in relevant legislative history).
 
 (d)
 
@@ -44,7 +44,7 @@ Section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998, 
 
 #### Prioritization of Funds for Equipment Readiness and Strategic Capability
 
-Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, provided that:
+Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, §353, Jan. 28, 2008, 122 Stat. 72, provided that:
 
 “(a)
 
@@ -76,13 +76,15 @@ Submission of information.—As part of the budget justification materials submi
 
 Information described.—The information described in this paragraph is information that clearly and separately identifies, by appropriations account, budget activity, activity group, sub-activity group, and program element or line item, the amounts requested for the programs, projects, and activities of—
 
-&emsp;&emsp;“(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in the global war on terrorism; and
+&emsp;&emsp;“(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in the global war on terrorism;
 
 &emsp;&emsp;“(B) the Army for—
 
 &emsp;&emsp;&emsp;“(i) the fulfillment of the equipment requirements of units transforming to modularity; and
 
-&emsp;&emsp;&emsp;“(ii) the reconstitution of equipment and materiel in prepositioned stocks.
+&emsp;&emsp;&emsp;“(ii) the reconstitution of equipment and materiel in prepositioned stocks; and
+
+&emsp;&emsp;“(C) each of the military departments for the incremental changes in reset costs resulting from the deployment and redeployment of forces to Iraq and Afghanistan above the levels deployed to such countries on January 1, 2007.
 
 &emsp;“(3)
 
@@ -96,7 +98,7 @@ Annual Report on Army Progress.—On the date on which the President submits to 
 
 &emsp;“(2) A list of any shortfalls that exist between available funding, equipment, supplies, and industrial capacity and required funding, equipment, supplies, and industrial capacity in accordance with the funding priorities in subsection (a).
 
-&emsp;“(3) A list of the requirements for the funding priorities in subsection (a) that the Army has included in the budget for that fiscal year, including a detailed listing of the type, quantity, and cost of the equipment the Army plans to repair, recapitalize, or procure, set forth by appropriations account and Army component.
+&emsp;“(3) A list of the requirements for the funding priorities in subsection (a) that the Army has included in the budget for that fiscal year, including a detailedlisting of the type, quantity, and cost of the equipment the Army plans to repair, recapitalize, or procure, set forth by appropriations account and Army component.
 
 &emsp;“(4) An assessment of the progress made during that fiscal year toward meeting the overall requirements of the funding priorities in subsection (a).
 

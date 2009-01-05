@@ -50,7 +50,7 @@ In awarding grants under this section, the Secretary shall give priority to an e
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an eligible entity shall use grant funds made available under this section to expand access for low-income individuals to advanced placement incentive programs that involve—
+&emsp;Subject to paragraph (2), an eligible entity shall use grant funds made available underthis section to expand access for low-income individuals to advanced placement incentive programs that involve—
 
 &emsp;&emsp;(A) teacher training;
 

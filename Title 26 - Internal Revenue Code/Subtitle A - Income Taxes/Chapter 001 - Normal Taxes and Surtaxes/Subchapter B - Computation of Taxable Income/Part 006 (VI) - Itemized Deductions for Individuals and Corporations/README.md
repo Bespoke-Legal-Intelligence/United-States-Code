@@ -16,7 +16,7 @@
 | [172\.](%C2%A7%2000172%20-%20Net%20operating%20loss%20deduction.md) | Net operating loss deduction. |
 | [173\.](%C2%A7%2000173%20-%20Circulation%20expenditures.md) | Circulation expenditures. |
 | [174\.](%C2%A7%2000174%20-%20Research%20and%20experimental%20expenditures.md) | Research and experimental expenditures. |
-| [175\.](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures.md) | Soil and water conservation expenditures. |
+| [175\.](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures%3B%20endangered%20species%20recovery%20expenditures.md) | Soil and water conservation expenditures; endangered species recovery expenditures. |
 | [176\.](%C2%A7%2000176%20-%20Payments%20with%20respect%20to%20employees%20of%20certain%20foreign%20corporations.md) | Payments with respect to employees of certain foreign corporations. |
 | \[177. | Repealed.\] |
 | [178\.](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md) | Amortization of cost of acquiring a lease. |
@@ -48,11 +48,21 @@
 | [196\.](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md) | Deduction for certain unused business credits. |
 | [197\.](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md) | Amortization of goodwill and certain other intangibles. |
 | [198\.](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md) | Expensing of environmental remediation costs. |
+| [198A.](%C2%A7%2000198A%20-%20Expensing%20of%20qualified%20disaster%20expenses.md) | Expensing of Qualified Disaster Expenses.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [199\.](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md) | Income attributable to domestic production activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–343, div. C, title VII, §707(b), Oct. 3, 2008, 122 Stat. 3924, added item 198A.
+
+Pub. L. 110–234, title XV, §15303(a)(2)(C), May 22, 2008, 122 Stat. 1501, and Pub. L. 110–246, title XV, §15303(a)(2)(C), June 18, 2008, 122 Stat. 2263, made identical amendments, inserting “; endangered species recovery expenditures” after “conservation expenditures” in item 175. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 2006—Pub. L. 109–432, div. A, title IV, §404(b)(4), Dec. 20, 2006, 120 Stat. 2956, added item 179E.
 
@@ -110,6 +120,8 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 
 <i><sup>1</sup></i><i> Section 191 was repealed by Pub. L. 97–34 without corresponding amendment of part analysis.</i>
 
+<i><sup>2</sup></i><i> So in original. The words “Qualified Disaster Expenses” probably should not be capitalized.</i>
+
 
 ---
 
@@ -129,7 +141,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00172 - Net operating loss deduction](%C2%A7%2000172%20-%20Net%20operating%20loss%20deduction.md)
 - [&sect; 00173 - Circulation expenditures](%C2%A7%2000173%20-%20Circulation%20expenditures.md)
 - [&sect; 00174 - Research and experimental expenditures](%C2%A7%2000174%20-%20Research%20and%20experimental%20expenditures.md)
-- [&sect; 00175 - Soil and water conservation expenditures](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures.md)
+- [&sect; 00175 - Soil and water conservation expenditures; endangered species recovery expenditures](%C2%A7%2000175%20-%20Soil%20and%20water%20conservation%20expenditures%3B%20endangered%20species%20recovery%20expenditures.md)
 - [&sect; 00176 - Payments with respect to employees of certain foreign corporations](%C2%A7%2000176%20-%20Payments%20with%20respect%20to%20employees%20of%20certain%20foreign%20corporations.md)
 - [&sect; 00177 - Repealed. Pub. L. 99&#8211;514, title II, &sect;241(a), Oct. 22, 1986, 100 Stat. 2181](%C2%A7%2000177%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20II%2C%20%C2%A7241%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202181.md)
 - [&sect; 00178 - Amortization of cost of acquiring a lease](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md)
@@ -159,4 +171,5 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00196 - Deduction for certain unused business credits](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md)
 - [&sect; 00197 - Amortization of goodwill and certain other intangibles](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md)
 - [&sect; 00198 - Expensing of environmental remediation costs](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md)
+- [&sect; 00198A - Expensing of qualified disaster expenses](%C2%A7%2000198A%20-%20Expensing%20of%20qualified%20disaster%20expenses.md)
 - [&sect; 00199 - Income attributable to domestic production activities](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md)

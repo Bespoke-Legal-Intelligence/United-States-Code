@@ -28,7 +28,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (B) Violations of religious freedom
 
-&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecutionby governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
+&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
 
 &emsp;&emsp;&emsp;(i) limitations or prohibitions on, or lack of availability of, openly conducted, organized religious services outside of the premises of foreign diplomatic missions or consular posts; and
 

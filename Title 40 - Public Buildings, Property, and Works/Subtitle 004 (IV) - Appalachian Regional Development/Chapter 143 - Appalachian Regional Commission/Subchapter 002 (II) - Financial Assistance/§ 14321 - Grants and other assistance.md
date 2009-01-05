@@ -10,7 +10,13 @@ In general.—The Appalachian Regional Commission may make grants—
 
 &emsp;&emsp;(A) for administrative expenses, including the development of areawide plans or action programs and technical assistance activities, of local development districts, but—
 
-&emsp;&emsp;&emsp;(i) the amount of a grant shall not exceed 50 percent of administrative expensesor, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;
+&emsp;&emsp;&emsp;(i) the amount of the grant shall not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) 50 percent of administrative expenses;
+
+&emsp;&emsp;&emsp;&emsp;(II) at the discretion of the Commission, if the grant is to a local development district that has a charter or authority that includes the economic development of a county or a part of a county for which a distressed county designation is in effect under section 14526, 75 percent of administrative expenses; or
+
+&emsp;&emsp;&emsp;&emsp;(III) at the discretion of the Commission, if the grant is to a local development district that has a charter or authority that includes the economic development of a county or a part of a county for which an at-risk county designation is in effect under section 14526, 70 percent of administrative expenses;
 
 &emsp;&emsp;&emsp;(ii) grants for administrative expenses shall not be made for a state agency certified as a local development district for a period of more than three years beginning on the date the initial grant is made for the development district; and
 
@@ -26,7 +32,13 @@ Limitation on available amounts.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.
+In general.—Except as provided in subparagraph (B), of the cost of any activity eligible for financial assistance under this section, not more than—
+
+&emsp;&emsp;&emsp;(i) 50 percent may be provided from amounts appropriated to carry out this subtitle;
+
+&emsp;&emsp;&emsp;(ii) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent may be provided from amounts appropriated to carry out this subtitle; or
+
+&emsp;&emsp;&emsp;(iii) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this subtitle.
 
 &emsp;&emsp;(B)
 
@@ -80,7 +92,7 @@ Commission.—The Commission, as required by the President, shall maintain accur
 
 Recipients of federal assistance.—Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, §2(a), Oct. 8, 2008, 122 Stat. 4037.)
 
 Historical and Revision Notes
 
@@ -129,4 +141,10 @@ In subsection (c)(2), the words “or their duly authorized representatives” a
 #### References in Text
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+
+#### Amendments
+
+2008—Subsec. (a)(1)(A)(i). Pub. L. 110–371, §2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
+
+Subsec. (a)(2)(A). Pub. L. 110–371, §2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
 

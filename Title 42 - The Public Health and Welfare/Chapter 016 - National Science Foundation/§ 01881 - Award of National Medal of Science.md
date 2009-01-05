@@ -54,7 +54,7 @@ Section 1. <i>Award of Medal</i>. (a) The President shall award the National Med
 
 (d) The presentation of the Medal shall be made in accordance with Section 2(d) of the Act.
 
-Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the President's Committee on the National Medal of Science (hereinafter referred to as the Committee), which shall be composed of twelve appointive members and two ex officio members and shall assist the President, as provided in this order, in connection with the carrying out of the Act.
+Sec. 2. <i>The President's Committee</i>. (a) There is hereby established the President's Committee on the National Medal of Science (hereinafter referred to as the Committee), which shall be composed of twelve appointive members and two ex officio members and shall assistthe President, as provided in this order, in connection with the carrying out of the Act.
 
 (b) Each appointive member of the Committee shall be appointed by the President from among appropriately qualified citizens of the United States. Except as otherwise provided in subsection (e) of this Section, each such member shall be so appointed for a term of three years or for the balance of the unexpired term of his predecessor, whichever is appropriate. Members may be reappointed to serve one additional term of three years. As nearly as practicable, the appointive members of the Committee shall comprise a cross section of the major fields of science and engineering.
 

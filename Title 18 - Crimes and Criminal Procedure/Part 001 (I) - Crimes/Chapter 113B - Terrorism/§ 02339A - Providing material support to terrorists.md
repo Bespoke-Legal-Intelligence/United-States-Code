@@ -14,13 +14,13 @@ Definitions.—As used in this section—
 
 &emsp;(3) the term “expert advice or assistance” means advice or assistance derived from scientific, technical or other specialized knowledge.
 
-(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132,title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, §6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, §110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208.)
+(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811; Pub. L. 108–458, title VI, §6603(a)(2), (b), Dec. 17, 2004, 118 Stat. 3762; Pub. L. 109–177, title I, §110(b)(3)(B), Mar. 9, 2006, 120 Stat. 208.)
 
 #### Amendments
 
 2006—Subsec. (a). Pub. L. 109–177 struck out “1993,” after “1992,”.
 
-2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), which directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress.
+2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), which directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) oftitle 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress.
 
 Pub. L. 108–458, §6603(a)(2)(A), struck out “or” before “section 46502”.
 

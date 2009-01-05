@@ -24,7 +24,7 @@ For purposes of this subpart, the term “export trade corporation” means—
 
 For the purposes of this subpart, the term “export trade income” means net income from—
 
-&emsp;(1) the sale to an unrelated person for use, consumption, or disposition outside the United States of export property (as defined in subsection (e)), or from commissions, fees, compensation, or other income from the performance of commercial, industrial, financial, technical, scientific, managerial, engineering, architectural, skilled, or other services in respect to such sales or in respect of the installation or maintenance of such export property;
+&emsp;(1) the sale to an unrelated person for use, consumption, or disposition outside the United States of export property (as defined in subsection (e)), or from commissions, fees, compensation, or other income from the performance of commercial, industrial, financial, technical, scientific, managerial, engineering,architectural, skilled, or other services in respect to such sales or in respect of the installation or maintenance of such export property;
 
 &emsp;(2) commissions, fees, compensation, or other income from commercial, industrial, financial, technical, scientific, managerial, engineering, architectural, skilled, or other services performed in connection with the use by an unrelated person outside the United States of patents, copyrights, secret processes and formulas, goodwill, trademarks, trade brands, franchises, and other like property acquired or developed and owned by the manufacturer, producer, grower, or extractor of export property in respect of which the export trade corporation earns export trade income under paragraph (1);
 

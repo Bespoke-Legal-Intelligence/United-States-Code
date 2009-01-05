@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after September 13, 1994, the Attorney General shall develop, in cooperation with the States, a national voluntarymotor vehicle theft prevention program (in this section referred to as the “program”) under which—
+Not later than 180 days after September 13, 1994, the Attorney General shall develop, in cooperation with the States, a national voluntary motor vehicle theft prevention program (in this section referred to as the “program”) under which—
 
 &emsp;(1) the owner of a motor vehicle may voluntarily sign a consent form with a participating State or locality in which the motor vehicle owner—
 

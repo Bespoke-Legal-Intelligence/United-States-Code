@@ -12,7 +12,7 @@ In computing taxable gifts for preceding calendar periods for purposes of comput
 
 #### (b) Exclusions from gifts for preceding calendar periods
 
-In the case of gifts made to any person by the donor during preceding calendar periods, the amount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
+In the case of gifts made to any person by the donor during preceding calendar periods, theamount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
 
 #### (c) Valuation of gifts
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 97–34, §442(a)(4)(C), substituted in heading “calendar
 
 1970—Pub. L. 91–614 substituted “Taxable gifts for preceding years and quarters” for “Taxable gifts for preceding years” in section catchline.
 
-Subsec. (a). Pub. L. 91–614 substituted “In computing taxable gifts for the preceding calendar years or calendar quarters for the purpose of computing the tax for any calendar quarter,” for “In computing taxable gifts for the calendar year 1954 and preceding calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter,” provided that the laws applicable in the calendar quarters aswell as the years in which the transfers in question were made shall apply, and substituted “previous calendar years or calendar quarters for the purpose of computing the tax for any calendar year or calendar quarter” for “the calendar year 1954 and previous calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter”.
+Subsec. (a). Pub. L. 91–614 substituted “In computing taxable gifts for the preceding calendar years or calendar quarters for the purpose of computing the tax for any calendar quarter,” for “In computing taxable gifts for the calendar year 1954 and preceding calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter,” provided that the laws applicable in the calendar quarters as well as the years in which the transfers in question were made shall apply, and substituted “previous calendar years or calendar quarters for the purpose of computing the tax for any calendar year or calendar quarter” for “the calendar year 1954 and previous calendar years for the purpose of computing the tax for the calendar year 1955 or any calendar year thereafter”.
 
 Subsec. (b). Pub. L. 91–614 inserted reference to calendar quarters in heading, substituted “during preceding calendar years and calendar quarters,” for “during the calendar year 1954 and preceding calendar years,” made reference to the amount excluded by gift tax laws applicable to the calendar quarters as well as years in which the gifts were made, and substituted “during such years and calendar quarters” for “during such year”.
 

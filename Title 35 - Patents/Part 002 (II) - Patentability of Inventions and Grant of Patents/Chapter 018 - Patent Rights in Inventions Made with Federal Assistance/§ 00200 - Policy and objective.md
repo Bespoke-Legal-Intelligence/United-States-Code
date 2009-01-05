@@ -12,3 +12,7 @@ It is the policy and objective of the Congress to use the patent system to promo
 
 Chapter effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
+#### Short Title
+
+This chapter is popularly known as the Bayh-Dole Act. Section 6(a) of Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3018, which enacted this chapter, is also popularly known as the Bayh-Dole Act and also as the University and Small Business Patent Procedures Act of 1980. For complete classification of section 6(a) of Pub. L. 96–517 to the Code, see Tables.
+

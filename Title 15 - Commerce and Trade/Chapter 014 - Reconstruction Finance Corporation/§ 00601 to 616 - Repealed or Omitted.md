@@ -20,7 +20,7 @@ Section 604, acts Jan. 22, 1932, ch. 8, §4, formerly §5, 47 Stat. 6; June 19, 
 
 Section 604a, act Jan. 20, 1934, ch. 3, §2, 48 Stat. 319, related to time limitation in disbursement of funds committed by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(i), 61 Stat. 208.
 
-Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch.166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
+Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
 
 Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
@@ -66,7 +66,7 @@ Section 606b–3, act Jan. 22, 1932, ch. 8, §5h, as added May 11, 1942, ch. 301
 
 Section 606b–4, act Aug. 7, 1946, ch. 811, §2, 60 Stat. 902, related to purchase of servicemen's guaranteed or insured readjustment loans. It was repealed by act of June 30, 1947, ch. 166, title II, §206(z), 61 Stat. 209.
 
-Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized extension of credit by ReconstructionFinance Corporation to Republic of the Philippines, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized extension of credit by Reconstruction Finance Corporation to Republic of the Philippines, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers’ mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
@@ -88,7 +88,7 @@ Section 606k, act Aug. 24, 1935, ch. 646, §2, 49 Stat. 798, related to limitati
 
 Section 606<i>l</i>, act Sept. 5, 1940, ch. 715, §12, 54 Stat. 871, related to financing acquisition of right-of-way for Federal aid roads. It was repealed by act of June 30, 1947, ch. 166, title II, §206(n), (u), 61 Stat. 208, 209.
 
-Section 607, acts Jan. 22, 1932, ch. 8, §8, 47 Stat. 8; July 21, 1932, ch. 520, §204, 47 Stat. 714; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §5, 62 Stat. 265, exempted the Reconstruction Finance Corporation from all federal and local taxation except on real property, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 607, acts Jan. 22, 1932, ch. 8, §8, 47 Stat. 8; July 21, 1932, ch. 520, §204, 47 Stat. 714; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 30, 1947, ch. 166, title I, §1, title II, §206(a), 61 Stat. 202, 208; May 25, 1948, ch. 334, §5, 62 Stat. 265, exempted the Reconstruction Finance Corporation from all federal and local taxation except on real property, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647.Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 607a, act Jan. 31, 1935, ch. 2, §13, 49 Stat. 5, related to use of receipts from sale of securities. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
@@ -126,7 +126,7 @@ Section 609k, act June 27, 1934, ch. 847, title VI, §602, as added Mar. 28, 194
 
 Sections 609<i>l</i>, 609m, and 609n, act July 1, 1941, ch. 267, §1, 55 Stat. 439, 440, 442, authorized an additional $270,000,000.
 
-Section 609<i>o</i>, act June 10, 1941, ch. 190, §5, 55 Stat. 250, authorized an additional $1,500,000,000. It was repealedby act of June 30, 1947, ch. 166, title II, §206(v), 61 Stat. 209.
+Section 609<i>o</i>, act June 10, 1941, ch. 190, §5, 55 Stat. 250, authorized an additional $1,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(v), 61 Stat. 209.
 
 Section 609p, act Oct. 23, 1941, ch. 454, 55 Stat. 744, authorized an additional $1,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(w), 61 Stat. 209.
 

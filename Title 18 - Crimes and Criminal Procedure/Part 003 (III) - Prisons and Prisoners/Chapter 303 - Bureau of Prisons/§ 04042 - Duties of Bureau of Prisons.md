@@ -10,9 +10,31 @@ In General.—The Bureau of Prisons, under the direction of the Attorney General
 
 &emsp;(3) provide for the protection, instruction, and discipline of all persons charged with or convicted of offenses against the United States;
 
-&emsp;(4) provide technical assistance to State and local governments in the improvement of their correctional systems; and
+&emsp;(4) provide technical assistance to State and local governments in the improvement of their correctional systems;
 
-&emsp;(5) provide notice of release of prisoners in accordance with subsections (b) and (c).
+&emsp;(5) provide notice of release of prisoners in accordance with subsections (b) and (c);
+
+&emsp;(D) <sup>1</sup> establish prerelease planning procedures that help prisoners—
+
+&emsp;&emsp;(i) apply for Federal and State benefits upon release (including Social Security Cards, Social Security benefits, and veterans’ benefits); and
+
+&emsp;&emsp;(ii) secure such identification and benefits prior to release, subject to any limitations in law; and
+
+&emsp;(E) <sup>2</sup> establish reentry planning procedures that include providing Federal prisoners with information in the following areas:
+
+&emsp;&emsp;(i) Health and nutrition.
+
+&emsp;&emsp;(ii) Employment.
+
+&emsp;&emsp;(iii) Literacy and education.
+
+&emsp;&emsp;(iv) Personal finance and consumer skills.
+
+&emsp;&emsp;(v) Community resources.
+
+&emsp;&emsp;(vi) Personal growth and development.
+
+&emsp;&emsp;(vii) Release requirements and procedures.
 
 (b)
 
@@ -42,7 +64,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register asrequired by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
@@ -54,7 +76,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 Application of Section.—This section shall not apply to military or naval penal or correctional institutions or the persons confined therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604.)
+(June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 90–371, July 1, 1968, 82 Stat. 280; Pub. L. 103–322, title II, §20417, Sept. 13, 1994, 108 Stat. 1834; Pub. L. 105–119, title I, §115(a)(8)(A), Nov. 26, 1997, 111 Stat. 2464; Pub. L. 109–248, title I, §141(f)–(h), July 27, 2006, 120 Stat. 603, 604; Pub. L. 110–199, title II, §231(d)(1), Apr. 9, 2008, 122 Stat. 685.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +93,8 @@ The remainder of said section 753b of title 18, U.S.C., 1940 ed., is incorporate
 The Sex Offender Registration and Notification Act, referred to in subsec. (c)(2), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(D), (E). Pub. L. 110–199 added pars. (D) and (E).
 
 2006—Subsec. (c)(1). Pub. L. 109–248, §141(g)(1), substituted “paragraph (3), or any other person in a category specified by the Attorney General,” for “paragraph (4)” in introductory provisions.
 
@@ -103,6 +127,10 @@ Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
 
 #### Amenities or Personal Comforts
 
@@ -177,4 +205,8 @@ Pub. L. 100–690, title VII, §7302, Nov. 18, 1988, 102 Stat. 4463, provided th
 &emsp;“(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and
 
 &emsp;“(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(6)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(7)”.</i>
 

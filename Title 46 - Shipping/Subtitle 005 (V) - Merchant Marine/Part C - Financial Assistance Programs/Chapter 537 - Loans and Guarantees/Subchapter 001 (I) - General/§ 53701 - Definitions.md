@@ -8,25 +8,29 @@ Actual cost.—The term “actual cost” means the sum of—
 
 &emsp;&emsp;(A) all amounts paid by or for the account of the obligor as of the date on which a determination is made under section 53715(d)(1) of this title; and
 
-&emsp;&emsp;(B) all amounts that the Secretary reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title in connection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
+&emsp;&emsp;(B) all amounts that the Secretary or Administrator reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title in connection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
 
 &emsp;(2)
 
-Construction, reconstruction, and reconditioning.—The terms “construction”, “reconstruction”, and “reconditioning” include designing, inspecting, outfitting, and equipping.
+Administrator.—The term “Administrator” means the Administrator of the Maritime Administration.
 
 &emsp;(3)
 
+Construction, reconstruction, and reconditioning.—The terms “construction”, “reconstruction”, and “reconditioning” include designing, inspecting, outfitting, and equipping.
+
+&emsp;(4)
+
 Depreciated actual cost.—The term “depreciated actual cost” of a vessel means—
 
-&emsp;&emsp;(A) if the vessel was not reconstructed or reconditioned, the actual cost of the vessel depreciated on a straight line basis over the useful life of the vessel as determined by the Secretary, not to exceed 25 years from the date of delivery by the builder; or
+&emsp;&emsp;(A) if the vessel was not reconstructed or reconditioned, the actual cost of the vessel depreciated on a straight line basis over the useful life of the vessel as determined by the Secretary or Administrator, not to exceed 25 years from the date of delivery by the builder; or
 
 &emsp;&emsp;(B) if the vessel was reconstructed or reconditioned, the sum of—
 
-&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary; and
+&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
 
-&emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
 
-&emsp;(4)
+&emsp;(5)
 
 Eligible export vessel.—The term “eligible export vessel” means a vessel that—
 
@@ -34,7 +38,7 @@ Eligible export vessel.—The term “eligible export vessel” means a vessel t
 
 &emsp;&emsp;(B) will, on delivery or redelivery, become or remain documented under the laws of a country other than the United States.
 
-&emsp;(5)
+&emsp;(6)
 
 Fishery facility.—
 
@@ -70,11 +74,11 @@ Required ownership.—Under subparagraph (A), the structure, appurtenance, land,
 
 &emsp;&emsp;&emsp;(ii) an entity that is a citizen of the United States under section 50501 of this title and that is at least 75 percent owned (as determined under that section) by citizens of the United States.
 
-&emsp;(6)
+&emsp;(7)
 
 Fishing vessel.—The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
 
-&emsp;(7)
+&emsp;(8)
 
 Mortgage.—The term “mortgage” includes—
 
@@ -82,23 +86,23 @@ Mortgage.—The term “mortgage” includes—
 
 &emsp;&emsp;(B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-&emsp;(8)
+&emsp;(9)
 
 Obligation.—The term “obligation” means an instrument of indebtedness issued for a purpose described in section 53706 of this title, except—
 
-&emsp;&emsp;(A) an obligation issued by the Secretary under section 53723 of this title; and
+&emsp;&emsp;(A) an obligation issued by the Secretary or Administrator under section 53723 of this title; and
 
 &emsp;&emsp;(B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-&emsp;(9)
+&emsp;(10)
 
 Obligee.—The term “obligee” means the holder of an obligation.
 
-&emsp;(10)
+&emsp;(11)
 
 Obligor.—The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
 
-&emsp;(11)
+&emsp;(12)
 
 Ocean thermal energy conversion facility or plantship.—The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
@@ -108,15 +112,11 @@ Ocean thermal energy conversion facility or plantship.—The term “ocean therm
 
 &emsp;&emsp;(C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-&emsp;(12)
-
-Secretary.—The term “Secretary” means—
-
-&emsp;&emsp;(A) the Secretary of Commerce with respect to fishing vessels and fishery facilities; and
-
-&emsp;&emsp;(B) the Secretary of Transportation with respect to other vessels and general shipyard facilities (as defined in section 53733(a) of this title).
-
 &emsp;(13)
+
+Secretary.—The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
+
+&emsp;(14)
 
 Vessel.—The term “vessel” means any type of vessel, whether in existence or under construction, including—
 
@@ -146,13 +146,7 @@ Vessel.—The term “vessel” means any type of vessel, whether in existence o
 
 &emsp;&emsp;(M) an ocean thermal energy conversion facility or plantship that is or will be documented under the laws of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendments Not Shown in Text
-
-<i>This section was derived from section 1271 of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1271 of the former Appendix to this title was amended in subsecs. (c), (f), and (g) (corresponding to pars. (8), (1), and (3), respectively, of this section) by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, in subsec. (n) (corresponding to par. (12) of this section) by striking “subchapter,” and all that follows and inserting “subchapter.”, and by adding at the end the following:</i>
-
-<i>“(p) The term ‘Administrator’ means the Administrator of the Maritime Administration.”</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1601; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(A), (b)(1), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(1), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598.)
 
 Historical and Revision Notes
 
@@ -224,7 +218,17 @@ In paragraph (4)(B), the words “become or remain” are substituted for “be 
 
 In paragraph (5)(B)(i), the words “individual who is a citizen of the United States” are substituted for “individual who is a citizen or national of the United States or a citizen of the Northern Mariana Islands” in 46 App. U.S.C. 1271(k) because of the definition of “citizen of the United States” in chapter 1 of the revised title. Citizens of the Northern Mariana Islands became citizens or non-citizen nationals of the United States (either of which is a “citizen of the United States” as defined in chapter 1 of the revised title) when the Covenant establishing the Commonwealth of the Northern Mariana Islands became effective on November 4, 1986.
 
-In paragraph (5)(B)(ii), the words “corporation, partnership, association, or other” are omitted as suplus \[sic\]. The words “the term ‘State’ as used therein includes any State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands of the United States, Guam, the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States” in 46 App. U.S.C. 1271(k) are omitted as unnecessary because of the definitions of “State” and “United States” in chapter 1 of the revised title. The definition of “United States” in 46 App. U.S.C. 1271(m) is omitted as unnecessary because of the definition of “United States” in chapter 1. The words “and nationals of the United States or citizens of the Northern Mariana Islands shall be treated as citizens of the United States in meeting such ownership requirement” are omitted as unnecessary because of the definition of “citizen of the United States” in chapter 1 of the revised title.
+In paragraph (5)(B)(ii), the words “corporation, partnership, association, or other” are omitted as suplus \[sic\]. The words “the term ‘State’ as used therein includes any State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands of the United States, Guam, the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States” in 46 App. U.S.C. 1271(k) are omitted as unnecessary because of the definitions of “State” and “United States” in chapter 1 of the revised title. The definition of “United States” in 46 App. U.S.C. 1271(m) is omitted as unnecessary because of the definition of “United States” inchapter 1. The words “and nationals of the United States or citizens of the Northern Mariana Islands shall be treated as citizens of the United States in meeting such ownership requirement” are omitted as unnecessary because of the definition of “citizen of the United States” in chapter 1 of the revised title.
 
 In paragraph (8), before subparagraph (A), the words “instrument of indebtedness” are substituted for “note, bond, debenture, or other evidence of indebtedness” to eliminate unnecessary words. In subparagraph (B), the reference to section 53717 is substituted for the reference to 46 App. U.S.C. 1272 because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
+
+Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(A), into this section by inserting “or Administrator” after “Secretary” wherever appearing in pars. (1)(B), (4), and (9)(A). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Pub. L. 110–181, §3522(a)(1), incorporated the substance of the amendment by Pub. L. 109–163, §3507(b)(1), into this section by adding pars. (2) and (13), redesignating former pars. (2) to (13) as (3) to (14), respectively, and striking out former par. (13), which defined “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(A), (b)(1), which directed the amendment of section 1271 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

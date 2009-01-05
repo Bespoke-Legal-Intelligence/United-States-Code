@@ -46,7 +46,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;&emsp;(ii) two years; and
 
-&emsp;(C) the amount of the monthly stipend specified in section 254<i>l</i>(g)(1)(B) of title 42 shall bereduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled.
+&emsp;(C) the amount of the monthly stipend specified in section 254<i>l</i>(g)(1)(B) of title 42 shall be reduced pro rata (as determined by the Secretary) based on the number of hours such student is enrolled.
 
 (5)(A) An individual who has, on or after October 29, 1992, entered into a written contract with the Secretary under this section and who—
 
@@ -110,7 +110,7 @@ Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to 
 
 Subsec. (b)(5)(C) to (F). Pub. L. 104–313, §2(b)(3), added subpars. (C) to (F).
 
-1992—Subsec. (a). Pub. L. 102–573, §102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing,optometry, public health, allied health professions, and social work”.
+1992—Subsec. (a). Pub. L. 102–573, §102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
 
 Pub. L. 102–573, §102(c)(1)(A), (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
 

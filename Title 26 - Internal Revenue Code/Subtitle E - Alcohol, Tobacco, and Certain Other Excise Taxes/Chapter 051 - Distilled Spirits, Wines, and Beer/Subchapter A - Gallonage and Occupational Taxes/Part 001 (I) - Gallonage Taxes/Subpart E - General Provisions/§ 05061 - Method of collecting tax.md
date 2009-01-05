@@ -96,7 +96,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (2) Electronic fund transfer
 
-&emsp;The term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution to debit or credit an account.
+&emsp;The term “electronic fund transfer” means any transfer of funds, other than a transactionoriginated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution to debit or credit an account.
 
 #### (3) Controlled groups
 
@@ -172,7 +172,7 @@ Amendment by section 11201(b)(3) of Pub. L. 101–508 effective Jan. 1, 1991, se
 
 #### Effective Date of 1988 Amendment
 
-Section 2003(b)(2) of Pub. L. 100–647 provided that: “The amendments made by paragraph (1) \[amending this section and section 5703 of this title\] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 2003(b)(2) of Pub. L. 100–647 provided that: “The amendments made by paragraph (1) \[amendingthis section and section 5703 of this title\] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 #### Effective Date of 1986 Amendments
 

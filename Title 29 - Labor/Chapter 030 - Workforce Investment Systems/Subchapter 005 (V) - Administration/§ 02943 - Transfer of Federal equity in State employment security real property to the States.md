@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, any Federal equity acquired in real 
 
 A State shall not use funds awarded under this Act, the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\], or title III of the Social Security Act \[42 U.S.C. 501 et seq.\] to amortize the costs of real property that is purchased by any State on or after February 15, 2007.
 
-(Pub. L. 105–220, title I, §193, Aug. 7, 1998, 112 Stat. 1055; Pub. L. 109–289, div. B, title II, §20610,as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 30.)
+(Pub. L. 105–220, title I, §193, Aug. 7, 1998, 112 Stat. 1055; Pub. L. 109–289, div. B, title II, §20610, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 30.)
 
 #### References in Text
 

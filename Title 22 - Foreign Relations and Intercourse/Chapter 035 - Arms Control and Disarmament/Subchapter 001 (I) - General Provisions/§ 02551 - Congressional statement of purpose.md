@@ -46,7 +46,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1
 
 #### Short Title of 1994 Amendment
 
-Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
+Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealingprovisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
 #### Short Title of 1989 Amendment
 
@@ -164,7 +164,7 @@ Section 717(b) of Pub. L. 103–236 provided that not later than Dec. 31, 1995, 
 
 #### Soviet Weapons Destruction
 
-Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492, provided that:
+Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(1), Jan. 28, 2008, 122 Stat. 412, provided that:
 
 #### “part a—short title
 
@@ -174,25 +174,13 @@ Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L
 
 #### “part b—findings and program authority
 
-#### “SEC. 211. NATIONAL DEFENSE AND SOVIET WEAPONS DESTRUCTION.
-
-“(a)
-
-Findings.—The Congress finds—
-
-&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, and President Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
-
-&emsp;“(2) that the profound changes underway in the Soviet Union pose three types of danger to nuclear safety and stability, as follows: (A) ultimate disposition of nuclear weapons among the Soviet Union, its republics, and any successor entities that is not conducive to weapons safety or to international stability; (B) seizure, theft, sale, or use of nuclear weapons or components; and (C) transfers of weapons, weapons components, or weapons know-how outside of the territory of the Soviet Union, its republics, and any successor entities, that contribute to worldwide proliferation; and
-
-&emsp;“(3) that it is in the national security interests of the United States (A) to facilitate on a priority basis the transportation, storage, safeguarding, and destruction of nuclear and other weapons in the Soviet Union, its republics, and any successor entities, and (B) to assist in the prevention of weapons proliferation.
-
-“\[(b), (c) Repealed. Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492.\]
+#### “\[SEC. 211. Repealed. Pub. L. 110–181, div. A, title XIII, §1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412.\]
 
 #### “SEC. 212. AUTHORITY FOR PROGRAM TO FACILITATE SOVIET WEAPONS DESTRUCTION.
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, the President, consistent with the findings stated in section 211, may establish a program as authorized in subsection (b) to assist Soviet weapons destruction. Funds for carrying out this program shall be provided as specified in part C.
+In General.—Notwithstanding any other provision of law, the President may establish a program as authorized in subsection (b) to assist Soviet weapons destruction. Funds for carrying out this program shall be provided as specified in part C.
 
 “(b)
 
@@ -262,7 +250,7 @@ Natural Resources, Etc.—The President shall encourage the satisfaction of such
 
 #### Report on Fulfillment of Primary Functions
 
-Pub. L. 102–228, title IV, §401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives, and chairman of Committee on Foreign Relations of Senate a report on Agency's fulfillment of primary functions described in section 2551 of this title and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, §139(18), Apr. 30, 1994, 108 Stat. 398.
+Pub. L. 102–228, title IV, §401(c), Dec. 12, 1991, 105 Stat. 1699, directed Inspector General of Arms Control and Disarmament Agency to submit, not later than Dec. 15, 1992, to President, Speaker of House of Representatives,and chairman of Committee on Foreign Relations of Senate a report on Agency's fulfillment of primary functions described in section 2551 of this title and directed President to submit comments on any recommendations contained in the report dealing with executive branch organization and direction, prior to repeal by Pub. L. 103–236, title I, §139(18), Apr. 30, 1994, 108 Stat. 398.
 
 #### Conventional Arms Trade
 

@@ -2,7 +2,7 @@ subpart 3—fees relating to devices
 
 #### Termination of Subpart
 
-<i>For termination of subpart by section 107 of Pub. L. 107–250, see Effective and Termination Dates note set out under section 379i of this title.</i>
+<i>For termination of subpart by section 107 of Pub. L. 107–250, see Effective and Termination</i><i>Dates note set out under section 379i of this title.</i>
 
 
 ---

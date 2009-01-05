@@ -18,7 +18,7 @@ For purposes of this part:
 
 #### (3) Geofluid
 
-&emsp;The term “geofluid” means any fluid used to extract thermal energy from the Earth whichis transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+&emsp;The term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
 
 #### (4) Geopressured resources
 

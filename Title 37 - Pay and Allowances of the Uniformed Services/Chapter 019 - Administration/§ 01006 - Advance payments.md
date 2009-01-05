@@ -4,7 +4,7 @@
 
 &emsp;(1) not more than three months’ pay of such member upon such member's change of permanent station; or
 
-&emsp;(2) the amount of an allotment made from such member's pay to a dependent if such member is assigned or scheduled for assignment to sea duty or other duty with a unit or command deployed or to be deployed outside the United States and the allotment is madeby such member not more than sixty days before the scheduled date of the assignment of such member to such duty.
+&emsp;(2) the amount of an allotment made from such member's pay to a dependent if such member is assigned or scheduled for assignment to sea duty or other duty with a unit or command deployed or to be deployed outside the United States and the allotment is made by such member not more than sixty days before the scheduled date of the assignment of such member to such duty.
 
 (b) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who is on duty at a distant station where the pay and emoluments to which he is entitled cannot be disbursed regularly, may be paid in advance.
 
@@ -22,7 +22,7 @@
 
 (g) Under regulations prescribed by the Secretary concerned, the dislocation allowance authorized by section 407 of this title for a member of a uniformed service whose dependents are covered by section 405a(a) of this title may be paid in advance of the evacuation of the dependents and to the dependents designated by the member.
 
-(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
+(h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the paymentis made, no part of the amount so advance is recoverable by the United States.
 
 (i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a noteunder section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1965 Amendment
 

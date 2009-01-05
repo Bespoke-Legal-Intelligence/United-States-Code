@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(2) in accordance with this section, establish such a plan; and
 
-&emsp;(3) upon the approval of such plan by the governing body of the Tribe (and after consultation with the State and local officialspursuant to subsection (b) of this section), shall <sup>1</sup> submit such plan to the Congress by no later than the date that is 3 years after October 31, 1990.
+&emsp;(3) upon the approval of such plan by the governing body of the Tribe (and after consultation with the State and local officials pursuant to subsection (b) of this section), shall <sup>1</sup> submit such plan to the Congress by no later than the date that is 3 years after October 31, 1990.
 
 #### (b) Consultation with State and local officials
 

@@ -10,7 +10,7 @@ The meat inspection law, referred to in text, is classified generally to this ch
 
 #### Codification
 
-Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
 Section was formerly classified to section 94 of this title.
 

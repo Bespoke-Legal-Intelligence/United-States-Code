@@ -74,7 +74,7 @@ The Secretary shall offer to enter into contracts under this section during the 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with thefirst day of month the producers on the dairy farm enter into the contract and ending on September 30, 2007.
+&emsp;Except as provided in paragraph (2), any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2007.
 
 #### (2) Violations
 

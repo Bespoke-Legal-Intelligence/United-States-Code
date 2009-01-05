@@ -6,11 +6,11 @@ The Corporation as receiver of an insured depository institution or branch of a 
 
 #### (b) Payment of insured deposit as discharge from liability
 
-Payment of an insured deposit to any person by the Corporation shall discharge the Corporation, and payment of a transferred deposit to any person by the new bank or by an insured depository institution in which a transferred deposit has been made available shall discharge the Corporation and such new bank or other insured depository institution, to the same extent that payment to such person by the depository institution in default would have discharged it from liability for the insured deposit.
+Payment of an insured deposit to any person by the Corporation shall discharge the Corporation, and payment of a transferred deposit to any person by the new depository institution or by an insured depository institution in which a transferred deposit has been made available shall discharge the Corporation and such new depository institution or other insured depository institution, to the same extent that payment to such person by the depository institution in default would have discharged it from liability for the insured deposit.
 
 #### (c) Recognition of claimant not on depository institution records
 
-Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new bank or other insured depository institution shall be required to recognize as the owner of any portion of a deposit appearing on the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
+Except as otherwise prescribed by the Board of Directors, neither the Corporation nor such new depository institution or other insured depository institution shall be required to recognize as the owner of any portion of a deposit appearing on the records of the depository institution in default under a name other than that of the claimant, any person whose name or interest as such owner is not disclosed on the records of such depository institution in default as part owner of said deposit, if such recognition would increase the aggregate amount of the insured deposits in such depository institution in default.
 
 #### (d) Withholding payments to meet liability to depository institution
 
@@ -50,7 +50,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (5) Reversion
 
-&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate Statepursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositor against the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
+&emsp;If a depositor does not claim the deposit delivered to the custody of the appropriate State pursuant to paragraph (2)(B) within 10 years of the date of delivery, the deposit shall be immediately refunded to the Corporation and become its property. All rights of the depositor against the appropriate State with respect to such deposit shall be barred as of the date of the refund to the Corporation.
 
 #### (6) Definitions
 
@@ -76,7 +76,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (2) Regulations concerning employee conduct
 
-&emsp;The officers and employees of the Corporation and those individuals under contract to the Corporation who are deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 shall be subject to the ethics and conflict of interest rules and regulations issued by the Office of Government Ethics, including those concerning employee conduct, financial disclosure, and post-employment activities. The Board of Directors may prescribe regulations that supplement such rules and regulations only with the concurrence of that Office.
+&emsp;The officers and employees of the Corporation and those individuals under contract tothe Corporation who are deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 shall be subject to the ethics and conflict of interest rules and regulations issued by the Office of Government Ethics, including those concerning employee conduct, financial disclosure, and post-employment activities. The Board of Directors may prescribe regulations that supplement such rules and regulations only with the concurrence of that Office.
 
 #### (3) Regulations concerning independent contractors
 
@@ -146,13 +146,15 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 &emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
-(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613.)
+(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613; Pub. L. 110–289, div.A, title VI, §1604(b)(1)(C), July 30, 2008, 122 Stat. 2829.)
 
 #### Prior Provisions
 
 Section is derived from subsec. (m) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2008—Subsecs. (b), (c). Pub. L. 110–289 substituted “new depository institution” for “new bank” wherever appearing.
 
 2006—Subsec. (f)(4)(E)(iv). Pub. L. 109–173 substituted “the Deposit Insurance Fund (or any predecessor deposit insurance fund)” for “Federal deposit insurance funds”.
 
@@ -192,7 +194,7 @@ In General.—The amendments made by section 1 of this Act \[amending this secti
 
 “(b)
 
-Special Rule for Receiverships in Progress.—Section 12(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1822(e)\] as in effect on the day before the date of enactment of this Act \[June 28, 1993\] shall apply with respect to insured deposits in depository institutions for which the Corporation was first appointed receiver during the period between January 1, 1989 and the dateof enactment of this Act, except that such section 12(e) shall not bar any claim made against the Corporation by an insured depositor for an insured or transferred deposit, so long as such claim is made prior to the termination of the receivership.
+Special Rule for Receiverships in Progress.—Section 12(e) of the Federal Deposit Insurance Act \[12 U.S.C. 1822(e)\] as in effect on the day before the date of enactment of this Act \[June 28, 1993\] shall apply with respect to insured deposits in depository institutions for which the Corporation was first appointed receiver during the period between January 1, 1989 and the date of enactment of this Act, except that such section 12(e) shall not bar any claim made against the Corporation by an insured depositor for an insured or transferred deposit, so long as such claim is made prior to the termination of the receivership.
 
 “(c)
 

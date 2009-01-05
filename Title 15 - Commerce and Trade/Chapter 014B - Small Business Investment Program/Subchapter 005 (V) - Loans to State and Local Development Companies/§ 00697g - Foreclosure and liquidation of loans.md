@@ -58,7 +58,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State or local development company shall submit to the Administration a proposed liquidation plan.
+&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State orlocal development company shall submit to the Administration a proposed liquidation plan.
 
 #### (ii) Administration action on plan
 
@@ -112,7 +112,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) consider an offer made by an obligor to compromise the debt for less than the full amount owing; and
 
-&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable,if the company secures the written approval of the Administration.
+&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable, if the company secures the written approval of the Administration.
 
 #### (E) Contents of notice of no decision
 

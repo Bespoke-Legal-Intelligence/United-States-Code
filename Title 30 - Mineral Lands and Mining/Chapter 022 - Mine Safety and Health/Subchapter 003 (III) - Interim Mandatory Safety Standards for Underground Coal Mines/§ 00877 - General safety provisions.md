@@ -32,7 +32,7 @@ Within nine months after the operative date of this subchapter, the Secretary sh
 
 #### (g) Erection of fireproof structures; prior existing structures; fire doors; monthly tests; records; availability
 
-After the operative date of this subchapter, all structures erected on the surface within one hundred feet of any mine opening shall be of fireproof construction. Unless structures existing on or prior to such date which are located within one hundred feet of any mine opening are of such construction, fire doors shall be erected at effective points in mine openings to prevent smoke or fire from outside sources endangering miners underground. These doors shall be tested at least monthly to insure effective operation. A record of such tests shall be kept in an area on the surface of the mine chosen by the operator to minimize the danger of destruction by fire or other hazard and shall be available for inspection by interested persons.
+After the operative date of this subchapter, all structures erected on the surface within one hundred feet of any mine opening shall be of fireproof construction. Unless structures existing on or prior to such date which are located within one hundred feet of any mine opening are of such construction, fire doors shall be erected at effective points in mine openings to preventsmoke or fire from outside sources endangering miners underground. These doors shall be tested at least monthly to insure effective operation. A record of such tests shall be kept in an area on the surface of the mine chosen by the operator to minimize the danger of destruction by fire or other hazard and shall be available for inspection by interested persons.
 
 #### (h) Prevention of accumulations of coal dust and methane gas; surface coal-handling facilities; air-intake openings
 
@@ -91,6 +91,8 @@ Within one year after the operative date of this subchapter, the Secretary shall
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsecs. (e), (f)(4), (g), (h), (k), (m), (r), and (t), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Change of Name
 

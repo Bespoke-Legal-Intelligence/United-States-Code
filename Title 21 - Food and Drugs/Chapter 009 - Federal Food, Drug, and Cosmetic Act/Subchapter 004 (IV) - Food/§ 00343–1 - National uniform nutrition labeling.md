@@ -90,7 +90,7 @@ Section 6(b) of Pub. L. 101–535 provided that:
 
 “(B) Within 24 months of the date of the enactment of this Act, the Secretary shall publish a final list of sections which are adequately being implemented by regulations and a list of sections which are not adequately being implemented by regulations. With respect to a section which is found by the Secretary to be adequately implemented, no State or political subdivision of a State may establish or continue in effect as to any food in interstate commerce any requirement which is not identical to the requirement of such section.
 
-“(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such date shall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
+“(C) Within 24 months of the date of the enactment of this Act, the Secretary shall publish proposed revisions to the regulations found to be inadequate under subparagraph (B) and within 30 months of such dateshall issue final revisions. Upon the effective date of such final revisions, no State or political subdivision may establish or continue in effect any requirement which is not identical to the requirement of the section which had its regulations revised in accordance with this subparagraph.
 
 “(D)(i) If the Secretary does not issue a final list in accordance with subparagraph (B), the proposed list issued under subparagraph (A) shall be considered the final list and States and political subdivisions shall be preempted with respect to sections found to be adequate in such proposed list in accordance with subparagraph (B).
 
@@ -112,5 +112,5 @@ Amendments by Pub. L. 101–535 not to be construed to alter the authority of th
 
 #### Delayed Applicability of Certain Provisions
 
-Pub. L. 102–408, title III, §310, Oct. 13, 1992, 106 Stat. 2090, provided that: “Notwithstanding any other provision of law, section 403A(a)(1) of the Federal Food,Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(1)) shall not apply with respect to any requirement of any State or political subdivision regarding maple syrup until September 1, 1994.”
+Pub. L. 102–408, title III, §310, Oct. 13, 1992, 106 Stat. 2090, provided that: “Notwithstanding any other provision of law, section 403A(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343–1(a)(1)) shall not apply with respect to any requirement of any State or political subdivision regarding maple syrup until September 1, 1994.”
 

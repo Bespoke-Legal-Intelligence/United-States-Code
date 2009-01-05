@@ -102,7 +102,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub.L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371.)
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Section 1. There is hereby established within the United States Information Agen
 
 Sec. 2. The term “Government-sponsored international exchanges and training” shall mean the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
-Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies.In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureau of Education and Cultural Affairs of the United States Information Agency.
+Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies. In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureau of Education and Cultural Affairs of the United States Information Agency.
 
 Sec. 4. The Working Group shall have the following responsibilities:
 
@@ -186,7 +186,7 @@ Sec. 4. The Working Group shall have the following responsibilities:
 
 (d) No later than 1 year from the date of this order, develop initially and thereafter assess annually a coordinated strategy for all United States Government-sponsored international exchange and training programs, and issue a report on such strategy;
 
-(e) No later than 2 years from the date of this order, develop recommendations on performance measures for all United States Government-sponsored international exchange and training programs, and issue a report thereon; and
+(e) No later than 2 years from the date of this order, develop recommendations on performance measures forall United States Government-sponsored international exchange and training programs, and issue a report thereon; and
 
 (f) Develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 

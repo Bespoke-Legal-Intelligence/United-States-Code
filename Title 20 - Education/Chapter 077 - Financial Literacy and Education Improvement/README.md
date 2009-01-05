@@ -10,6 +10,7 @@
 | [9706\.](%C2%A7%2009706%20-%20Studies%20by%20the%20Comptroller%20General.md) | Studies by the Comptroller General. |
 | [9707\.](%C2%A7%2009707%20-%20The%20national%20public%20service%20multimedia%20campaign%20to%20enhance%20the%20state%20of%20financial%20literacy.md) | The national public service multimedia campaign to enhance the state of financial literacy. |
 | [9708\.](%C2%A7%2009708%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [9709\.](%C2%A7%2009709%20-%20Coordinated%20education%20efforts.md) | Coordinated education efforts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 09706 - Studies by the Comptroller General](%C2%A7%2009706%20-%20Studies%20by%20the%20Comptroller%20General.md)
 - [&sect; 09707 - The national public service multimedia campaign to enhance the state of financial literacy](%C2%A7%2009707%20-%20The%20national%20public%20service%20multimedia%20campaign%20to%20enhance%20the%20state%20of%20financial%20literacy.md)
 - [&sect; 09708 - Authorization of appropriations](%C2%A7%2009708%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 09709 - Coordinated education efforts](%C2%A7%2009709%20-%20Coordinated%20education%20efforts.md)

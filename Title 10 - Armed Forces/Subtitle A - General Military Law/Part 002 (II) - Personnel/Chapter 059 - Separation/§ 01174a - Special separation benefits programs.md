@@ -144,7 +144,7 @@ Procedure for Review.—(1) The Secretary of each military department shall esta
 
 “(b)
 
-Application.—A review under this section shall be conducted in any case submitted to the Secretaryconcerned by application from the officer or former officer under regulations prescribed by the Secretary.
+Application.—A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
 
 “(c)
 

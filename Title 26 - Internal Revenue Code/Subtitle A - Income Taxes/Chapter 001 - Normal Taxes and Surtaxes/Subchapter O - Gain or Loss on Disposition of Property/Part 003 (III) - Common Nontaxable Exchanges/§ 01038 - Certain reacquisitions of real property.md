@@ -112,7 +112,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shallapply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -132,7 +132,7 @@ Section 2(c) of Pub. L. 88–570 provided that:
 
 &emsp;“(A) the period within which a deficiency for such taxable year may be assessed (to the extent such deficiency is attributable to the application of the amendments made by this section) shall not expire prior to one year after the date of such election; and
 
-&emsp;“(B) the period within which a claim for credit or refund of an overpayment for such taxable year may be filed (to the extent such overpayment is attributable to the application of such amendments) shall not expire prior to one year after the date of such election.
+&emsp;“(B) the period within which a claim for credit or refund of an overpayment for such taxable year may be filed (to the extent such overpayment is attributable to the application of such amendments) shallnot expire prior to one year after the date of such election.
 
 > No interest shall be payable with respect to any deficiency attributable to the application of such amendments, and no interest shall be allowed with respect to any credit or refund of any overpayment attributable to the application of such amendments, for any period prior to the date of the enactment of this Act. An election by a taxpayer under paragraph (2) shall be deemed a consent to the application of this paragraph.”
 

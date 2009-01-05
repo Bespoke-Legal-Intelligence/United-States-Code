@@ -28,7 +28,7 @@
 
 #### (3) Multiemployer plans in critical status
 
-&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 1085 of this title. This paragraph shall only apply if the plan adopts a rehabilitation plan in accordance with section 1085(e) of this title and complies with the terms of such rehabilitation plan (and any updates or modifications of the plan).
+&emsp;Paragraph (1) shall not apply in the case of a multiemployer plan for any plan year in which the plan is in critical status pursuant to section 1085 of this title. This paragraph shall only apply if the plan sponsor adopts a rehabilitation plan in accordance with section 1085(e) of this title and complies with the terms of such rehabilitation plan (and any updates or modifications of the plan).
 
 #### (c) Variance from minimum funding standards
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan is) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
+&emsp;&emsp;&emsp;(i) an employer is (or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan are) unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan), and
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
@@ -128,7 +128,7 @@
 
 #### (II) Ordering rule
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for all preceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 1083 of this title for the plan year.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), any payment to or under a plan for any plan year shall be allocated first to unpaid minimum required contributions for allpreceding plan years on a first-in, first-out basis and then to the minimum required contribution under section 1083 of this title for the plan year.
 
 #### (5) Special rules for single-employer plans
 
@@ -160,7 +160,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 1084(d) of this title is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -180,7 +180,7 @@
 
 #### (1) Change in method or year
 
-&emsp;If the funding method, the valuation date, or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary of the Treasury.
+&emsp;If the funding method or a plan year for a plan is changed, the change shall take effect only if approved by the Secretary of the Treasury.
 
 #### (2) Certain retroactive plan amendments
 
@@ -192,13 +192,13 @@
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, any extension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan, anyextension of the amortization period under section 1084(d) of this title) is unavailable or inadequate.
 
 #### (3) Controlled group
 
 &emsp;For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 of title 26.
 
-(Pub. L. 93–406, title I, §302, as added and amended Pub. L. 109–280, title I, §101(b), title II, §202(d), Aug. 17, 2006, 120 Stat. 784, 885.)
+(Pub. L. 93–406, title I, §302, as added and amended Pub. L. 109–280, title I, §101(b), title II, §202(d), Aug. 17, 2006, 120 Stat. 784, 885; Pub. L. 110–458, title I, §§101(a)(1), 102(b)(1)(A), Dec. 23, 2008, 122 Stat. 5093, 5100.)
 
 #### Amendment of Section
 
@@ -210,7 +210,19 @@ A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
+2008—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted “the plan sponsor adopts” for “the plan adopts”.
+
+Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(1)(A), substituted “the plan are” for “the plan is”.
+
+Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(1)(B), inserted “which reduces the accrued benefit of any participant” after “subsection (d)(2)”.
+
+Subsec. (d)(1). Pub. L. 110–458, §101(a)(1)(C), struck out “, the valuation date,” after “funding method”.
+
 2006—Subsec. (b)(3). Pub. L. 109–280, §§202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2006 Amendment
 

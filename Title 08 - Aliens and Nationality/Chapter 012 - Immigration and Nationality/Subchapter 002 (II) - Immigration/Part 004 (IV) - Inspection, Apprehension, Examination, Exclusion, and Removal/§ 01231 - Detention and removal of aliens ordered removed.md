@@ -72,7 +72,7 @@
 
 &emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
 
-&emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
+&emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by thealien or under this section to receive the alien, or
 
 &emsp;&emsp;(B) the removal of the alien is otherwise impracticable or contrary to the public interest.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) The country in which the alien has a residence.
 
-&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country'sterritory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
+&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country's territory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
 
 #### (2) Other aliens
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(iii) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States and applies for admission not later than 120 days after the date the visa or documentation was issued;
 
-&emsp;&emsp;&emsp;(iv) the alien has a reentry permit and applies for admission not later than 120days after the date of the alien's last inspection and admission;
+&emsp;&emsp;&emsp;(iv) the alien has a reentry permit and applies for admission not later than 120 days after the date of the alien's last inspection and admission;
 
 &emsp;&emsp;&emsp;(v)(I) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States or a reentry permit;
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner ofthe vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”; and
 
@@ -494,7 +494,7 @@ Section 387 of div. C of Pub. L. 104–208 provided that:
 
 “(a)
 
-Establishment.—The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as adetention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
+Establishment.—The Attorney General and the Secretary of Defense shall establish one or more pilot programs for up to 2 years each to determine the feasibility of the use of military bases, available because of actions under a base closure law, as detention centers by the Immigration and Naturalization Service. In selecting real property at a military base for use as a detention center under the pilot program, the Attorney General and the Secretary shall consult with the redevelopment authority established for the military base and give substantial deference to the redevelopment plan prepared for the military base.
 
 “(b)
 
@@ -521,4 +521,14 @@ Pub. L. 104–132, title IV, §437, Apr. 24, 1996, 110 Stat. 1275, provided that
 #### Termination of Limitation
 
 Pub. L. 103–322, title II, §20301(c), Sept. 13, 1994, 108 Stat. 1824, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(G), Sept. 30, 1996, 110 Stat. 3009–623, provided that notwithstanding subsec. (h)(5) \[(i)(5)\] of this section the requirements of subsec. (h) \[i\] of this section were not to be subject to the availability of appropriations on and after Oct. 1, 2004, prior to repeal by Pub. L. 109–162, title XI, §1172(c), Jan. 5, 2006, 119 Stat. 3123.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (B),”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “1225(b)(1)”.</i>
 

@@ -84,7 +84,7 @@ July 11, 1947, ch. 222, §3, 61 Stat. 309; restated Aug. 28, 1957, Pub. L. 85–
 
 R.S. §3645.
 
-In the section, the word “Treasury” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
+In the section, the word “Treasury” is substituted for “Treasurer of the United States” because of the sourceprovisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
 In subsections (a)(1) and (b), the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
@@ -106,7 +106,7 @@ In subsection (e)(2), the words “and directions” are omitted as surplus.
 
 #### References in Text
 
-The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec.\(a) of this section as amended by section 1002 of Pub. L. 100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
+The effective date of this section, referred to in subsec. (a)(1), probably means the effective date of subsec. (a) of this section as amended by section 1002 of Pub. L. 100–86, which is effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations. See section 1006 of Pub. L. 100–86, set out as a note below.
 
 #### Amendments
 

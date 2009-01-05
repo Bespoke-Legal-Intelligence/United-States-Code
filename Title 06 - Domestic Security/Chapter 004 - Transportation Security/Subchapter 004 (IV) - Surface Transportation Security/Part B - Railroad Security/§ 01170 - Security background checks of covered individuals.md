@@ -24,11 +24,11 @@ In this section, the following definitions apply:
 
 (2) Within 60 days after August 3, 2007, any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action item issued by the Secretary prior to August 3, 2007, to a railroad carrier or a contractor or subcontractor of a railroad carrier relating to performing a security background check of a covered individual shall be updated in compliance with paragraph (1).
 
-(3) If a railroad carrier or a contractor or subcontractor of a railroad carrier performs a security background check on a covered individual to fulfill guidance issued by the Secretary underparagraph (1) or (2), the Secretary shall not consider such guidance fulfilled unless an adequate redress process as described in subsection (d) is provided to covered individuals.
+(3) If a railroad carrier or a contractor or subcontractor of a railroad carrier performs a security background check on a covered individual to fulfill guidance issued by the Secretary under paragraph (1) or (2), the Secretary shall not consider such guidance fulfilled unless an adequate redress process as described in subsection (d) is provided to covered individuals.
 
 #### (c) Requirements
 
-If the Secretary issues a rule, regulation, or directive requiring a railroad carrier or contractor or subcontractor of a railroad carrier to perform a security background check of a covered individual, then the Secretary shall prohibit the railroad carrier or contractor or subcontractor of a railroad carrier from making an adverse employment decision, including removal or suspension of the covered individual, due to such rule, regulation, or directive with respect to a covered individual unless the railroad carrier or contractor or subcontractor of a railroad carrier determines that the covered individual—
+If the Secretary issues a rule, regulation, or directive requiring a railroad carrier or contractor or subcontractor of a railroad carrier to perform a security background check of a covered individual, then the Secretary shall prohibit the railroad carrier or contractor or subcontractor of a railroad carrier from making an adverseemployment decision, including removal or suspension of the covered individual, due to such rule, regulation, or directive with respect to a covered individual unless the railroad carrier or contractor or subcontractor of a railroad carrier determines that the covered individual—
 
 &emsp;(1) has been convicted of, has been found not guilty by reason of insanity, or is under want, warrant, or indictment for a permanent disqualifying criminal offense listed in part 1572 of title 49, Code of Federal Regulations;
 

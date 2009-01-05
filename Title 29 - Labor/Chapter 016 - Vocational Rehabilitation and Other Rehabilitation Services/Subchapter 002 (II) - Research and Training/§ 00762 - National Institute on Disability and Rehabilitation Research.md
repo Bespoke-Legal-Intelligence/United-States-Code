@@ -74,7 +74,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;(10) conducting research to examine the relationship between the provision of specific services and successful, sustained employment outcomes, including employment outcomes involving self-employment and telecommuting; and
 
-&emsp;(11) coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) to ensure consistency with the plan for technical assistance required under section 506 of such Act (42 U.S.C. 12206).
+&emsp;(11) coordinating activities with the Attorney General regarding the provision of information, training, or technical assistance regarding the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) to ensure consistency with the plan for technical assistance required under section 506 <sup>2</sup> of such Act (42 U.S.C. 12206).
 
 #### (c) Development and dissemination of models
 
@@ -166,7 +166,7 @@ The Director shall make grants to institutions of higher education for the train
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act was renumbered section 507 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), (3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -197,4 +197,6 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: “The Act \[this chapter\] is amended by striking out ‘National Institute of Handicapped Research’ each place it appears in the Act (including the table of contents) and inserting in lieu thereof ‘National Institute on Disability and Rehabilitation Research’. Any reference in any other provision of law to the ‘National Institute of Handicapped Research’ shall be considered to be a reference to the ‘National Institute on Disability and Rehabilitation Research’.”
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ For purposes of this subpart:
 
 #### (5) State
 
-&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territoryor possession of the United States, or any political subdivision of any such State, territory, or possession.
+&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, or any political subdivision of any such State, territory, or possession.
 
 #### (6) Teacher
 

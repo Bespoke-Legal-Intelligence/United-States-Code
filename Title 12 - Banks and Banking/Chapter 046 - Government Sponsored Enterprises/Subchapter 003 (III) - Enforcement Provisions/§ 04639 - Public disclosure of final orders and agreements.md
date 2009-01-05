@@ -16,7 +16,7 @@ All hearings on the record with respect to any notice of charges issued by the D
 
 #### (c) Delay of public disclosure under exceptional circumstances
 
-If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial health or security of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
+If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial health or security of the regulated entity, the Director may delay the public disclosure of such order for a reasonable time.
 
 #### (d) Documents filed under seal in public enforcement hearings
 
@@ -30,5 +30,13 @@ The Director shall keep and maintain a record, for not less than 6 years, of all
 
 This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
-(Pub. L. 102–550, title XIII, §1379, Oct. 28, 1992, 106 Stat. 3993.)
+(Pub. L. 102–550, title XIII, §1379B, formerly §1379, Oct. 28, 1992, 106 Stat. 3993; renumbered §1379B and amended Pub. L. 110–289, div. A, title I, §§1153(a)(1), 1156(b)(3), July 30, 2008, 122 Stat. 2770, 2777.)
+
+#### Prior Provisions
+
+A prior section 1379B of Pub. L. 102–550 was renumbered section 1379D and is classified to section 4641 of this title.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–289, §1156(b)(3), substituted “regulated entity” for “enterprise”.
 

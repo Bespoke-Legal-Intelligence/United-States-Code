@@ -60,7 +60,7 @@ A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this t
 
 #### Amendments
 
-2000—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title and made available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
+2000—Subsec. (a)(2)(C)(i). Pub. L. 106–501, §§702, 801(e)(1)(A), substituted “section 3058a of this title andmade available to carry out subpart II of this part” for “section 3058a(a) of this title” and “2000” for “1991”.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 106–501, §§702, 801(e)(1)(B), substituted “section 3058a of this title and made available to carry out subpart III of this part” for “section 3058a(b) of this title” and “2000” for “1991”.
 

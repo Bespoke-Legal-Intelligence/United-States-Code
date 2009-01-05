@@ -32,7 +32,7 @@ A petition may be filed under subsection (a) with respect to partnership items f
 
 #### (3) Notice must be before expiration of statute of limitations
 
-&emsp;A notice of a partnership adjustment for the partnership taxable year shall be taken into account under paragraphs (1) and (2) only if such notice is mailed before the expiration of the period prescribed by section 6248 for making adjustments to partnership items for such taxable year.
+&emsp;A notice of a partnership adjustment for the partnership taxable year shall be taken intoaccount under paragraphs (1) and (2) only if such notice is mailed before the expiration of the period prescribed by section 6248 for making adjustments to partnership items for such taxable year.
 
 #### (d) Scope of judicial review
 

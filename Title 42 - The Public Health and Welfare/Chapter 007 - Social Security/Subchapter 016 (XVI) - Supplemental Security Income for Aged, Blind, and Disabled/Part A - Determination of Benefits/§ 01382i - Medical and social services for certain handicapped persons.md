@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations for pilot program
 
-There are authorized to be appropriated such sums as may be necessary to establish and carry out a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
+There are authorized to be appropriated such sums as may be necessary to establish and carryout a 3-year Federal-State pilot program to provide medical and social services for certain handicapped individuals in accordance with this section.
 
 #### (b) State allotments
 
@@ -40,7 +40,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 #### (d) Payments to States; computation of payments
 
-(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time to time pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
+(1) From its allotment under subsection (b) of this section for any fiscal year (and any amounts remaining available from allotments made to it for prior fiscal years), the Commissioner of Social Security shall from time totime pay to each State which has a plan approved under subsection (c) of this section an amount equal to 75 per centum of the total sum expended under such plan (including the cost of administration of such plan) in providing medical and social services to severely handicapped individuals who are eligible for such services under the plan.
 
 (2) The method of computing and making payments under this section shall be as follows:
 

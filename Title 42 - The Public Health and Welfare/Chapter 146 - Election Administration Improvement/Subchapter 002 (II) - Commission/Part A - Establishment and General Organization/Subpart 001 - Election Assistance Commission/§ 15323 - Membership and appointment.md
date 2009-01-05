@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1 year, except that the chair and vice chair may not be affiliated with the same political party.
+&emsp;The Commission shall select a chair and vice chair from among its members for a term of 1year, except that the chair and vice chair may not be affiliated with the same political party.
 
 #### (2) Number of terms
 

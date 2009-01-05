@@ -4,7 +4,7 @@
 
 In any fiscal year in which the Administrator has available for obligation at least $1,350,000,000 for the purposes of section 1381 of this title—
 
-&emsp;(1) the Administrator may make grants to States for the purpose of providing grants to amunicipality or municipal entity for planning, design, and construction of treatment works to intercept, transport, control, or treat municipal combined sewer overflows and sanitary sewer overflows; and
+&emsp;(1) the Administrator may make grants to States for the purpose of providing grants to a municipality or municipal entity for planning, design, and construction of treatment works to intercept, transport, control, or treat municipal combined sewer overflows and sanitary sewer overflows; and
 
 &emsp;(2) subject to subsection (g) of this section, the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
 

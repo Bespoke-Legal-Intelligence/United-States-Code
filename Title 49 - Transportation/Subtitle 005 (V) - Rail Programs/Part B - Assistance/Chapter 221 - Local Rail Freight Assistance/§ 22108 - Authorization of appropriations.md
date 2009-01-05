@@ -18,7 +18,7 @@ Distribution of Amounts.—The Secretary shall establish procedures necessary to
 
 (c)
 
-Availability of Other Amounts.—Amounts appropriated to carry out section 5(i) of the Department of Transportation Act for fiscal year 1990 that are not applied for or that remain unobligated on January 1, 1991, are available to the Secretary for projects under this chapter.
+Availability of Other Amounts.—Amounts appropriated to carry out section 5(i) <sup>1</sup> of the Department of Transportation Act for fiscal year 1990 that are not applied for or that remain unobligated on January 1, 1991, are available to the Secretary for projects under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 898; Pub. L. 103–429, §6(20), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393.)
 
@@ -58,7 +58,7 @@ This amends 49:22108(a)(3) to clarify the restatement of 49 App.:1654(q) by sect
 
 #### References in Text
 
-Section 5(i) of the Department of Transportation Act, referred to in subsec. (c), is section 5(i) of Pub. L. 89–670, which was classified to section 1654(i) of former Title 49, Transportation, and was repealed and reenacted as section 22106(e) of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 898, 1379.
+Section 5(i) of the Department of Transportation Act, referred to in subsec. (c), is section 5(i) of Pub. L. 89–670, which was classified to section 1654(i) of former Title 49, Transportation, and was repealed and reenacted as section 22106(e) of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 898, 1379. Subsequently, section 22106(e) of this title was repealed by Pub. L. 110–432, div. A, title VII, §701(a)(3), Oct. 16, 2008, 122 Stat. 4906.
 
 #### Amendments
 

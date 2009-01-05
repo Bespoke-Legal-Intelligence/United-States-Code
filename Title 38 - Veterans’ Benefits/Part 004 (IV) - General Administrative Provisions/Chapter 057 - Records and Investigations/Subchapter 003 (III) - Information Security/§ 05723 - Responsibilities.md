@@ -6,7 +6,7 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 &emsp;(1) Ensuring that the Department adopts a Department-wide information security program and otherwise complies with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements.
 
-&emsp;(2) Ensuring that information security protections are commensurate with the risk andmagnitude of the potential harm to Department information and information systems resulting from unauthorized access, use, disclosure, disruption, modification, or destruction.
+&emsp;(2) Ensuring that information security protections are commensurate with the risk and magnitude of the potential harm to Department information and information systems resulting from unauthorized access, use, disclosure, disruption, modification, or destruction.
 
 &emsp;(3) Ensuring that information security management processes are integrated with Department strategic and operational planning processes.
 
@@ -20,7 +20,7 @@ Secretary of Veterans Affairs.—In accordance with the provisions of subchapter
 
 &emsp;(8) Notifying officials other than officials of the Department of data breaches when required under this subchapter.
 
-&emsp;(9) Ensuring that the Assistant Secretary for Information and Technology has the authority and control necessary to develop, approve, implement, integrate, and oversee the policies, procedures, processes, activities, and systems of the Department relating to subchapter III of chapter 35 of title 44, including the management of all related mission applications, information resources, personnel, and infrastructure.
+&emsp;(9) Ensuring that the Assistant Secretary for Information and Technology has the authority and control necessary to develop, approve, implement, integrate, and oversee the policies,procedures, processes, activities, and systems of the Department relating to subchapter III of chapter 35 of title 44, including the management of all related mission applications, information resources, personnel, and infrastructure.
 
 &emsp;(10) Submitting to the Committees on Veterans’ Affairs of the Senate and House of Representatives, the Committee on Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate, not later than March 1 each year, a report on the compliance of the Department with subchapter III of chapter 35 of title 44, with the information in such report displayed in the aggregate and separately for each Administration, office, and facility of the Department.
 
@@ -52,7 +52,7 @@ Assistant Secretary for Information and Technology.—The Assistant Secretary fo
 
 &emsp;(10) Requiring any key official of the Department who is so notified to report to the Assistant Secretary with respect to an action to be taken in response to any compliance failure or policy violation reported by the Assistant Secretary.
 
-&emsp;(11) Ensuring that the Chief Information Officers and Information Security Officers of the Department comply with all cyber security directives and mandates, and ensuring that these staff members have all necessary authority and means to direct full compliance with such directives and mandates relating tothe acquisition, operation, maintenance, or use of information technology resources from all facility staff.
+&emsp;(11) Ensuring that the Chief Information Officers and Information Security Officers of the Department comply with all cyber security directives and mandates, and ensuring that these staff members have all necessary authority and means to direct full compliance with such directives and mandates relating to the acquisition, operation, maintenance, or use of information technology resources from all facility staff.
 
 &emsp;(12) Establishing the VA National Rules of Behavior for appropriate use and protection of the information which is used to support Department missions and functions.
 

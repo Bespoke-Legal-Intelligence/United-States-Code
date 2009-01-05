@@ -24,6 +24,16 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–421, §1, Oct. 15, 2008, 122 Stat. 4778, provided that: “This Act \[amending section 3793 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2008’.”
+
+Pub. L. 110–416, §1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: “This Act \[amending section 3797aa of this title and enacting provisions set out as a note under section 3797aa of this title\] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008’.”
+
+Pub. L. 110–345, §1, Oct. 7, 2008, 122 Stat. 3938, provided that: “This Act \[amending section 3797cc–2 of this title\] may be cited as the ‘Drug Endangered Children Act of 2007’.”
+
+Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that: “This part \[part E (§§951, 952) of title IX of Pub. L. 110–315, enacting subchapter XX–A of this chapter\] may be cited as the ‘John R. Justice Prosecutors and Defenders Incentive Act of 2008’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–414, §1, Oct. 30, 2004, 118 Stat. 2327, provided that: “This Act \[enacting subchapter XIX of this chapter and provisions set out as notes under section 3797aa of this title\] may be cited as the ‘Mentally Ill Offender Treatment and Crime Reduction Act of 2004’.”
@@ -76,7 +86,7 @@ Pub. L. 103–322, title XXXII, §320701, Sept. 13, 1994, 108 Stat. 2121, provid
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle \[subtitle K (§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections 3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
+Pub. L. 99–570, title I, §1551, Oct. 27, 1986, 100 Stat. 3207–41, provided that: “This subtitle \[subtitle K\(§§1551, 1552) of title I of Pub. L. 99–570, enacting subchapter XII–A of this chapter and amending sections 3741, 3782, 3783, 3789, 3793, and 3797 of this title\] may be cited as the ‘State and Local Law Enforcement Assistance Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

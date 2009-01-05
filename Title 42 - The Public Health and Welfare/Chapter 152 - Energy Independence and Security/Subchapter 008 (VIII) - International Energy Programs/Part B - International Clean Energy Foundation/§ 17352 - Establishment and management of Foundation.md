@@ -90,7 +90,7 @@
 
 #### (D) Acting members
 
-&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by the Chairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
+&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by theChairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
 
 #### (6) Chairperson
 

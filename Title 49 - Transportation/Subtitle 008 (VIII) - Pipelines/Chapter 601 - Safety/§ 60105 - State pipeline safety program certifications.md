@@ -42,7 +42,7 @@ Application.—A certification in effect under this section does not apply to sa
 
 (e)
 
-Monitoring.—The Secretary may monitor a safety program established under this sectionto ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
+Monitoring.—The Secretary may monitor a safety program established under this section to ensure that the program complies with the certification. A State authority shall cooperate with the Secretary under this subsection.
 
 (f)
 

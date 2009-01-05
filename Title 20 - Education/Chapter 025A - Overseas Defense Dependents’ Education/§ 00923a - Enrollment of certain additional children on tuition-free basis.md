@@ -18,11 +18,17 @@ The Secretary may use funds available for the defense dependents’ education sy
 
 (2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents’ education system in Mons, Belgium, exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding section 923(d)(2) of this title.
 
-(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225.)
+(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, §1063(e)(1), Jan. 28, 2008, 122 Stat. 323.)
 
 #### Amendments
+
+2008—Pub. L. 110–181, §1063(e)(1), made technical correction to directory language of Pub. L. 109–163, §571, which enacted this section.
 
 2006—Subsec. (a). Pub. L. 109–364, §571(a)(1), substituted “basis of—” for “basis of”, designated part of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2).
 
 Subsec. (c). Pub. L. 109–364, §571(a)(2), added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title X, §1063(e), Jan. 28, 2008, 122 Stat. 323, provided that the amendment made by section 1063(e) of Pub. L. 110–181 is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 

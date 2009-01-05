@@ -46,7 +46,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 (2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
-&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
+&emsp;(i) the Congress adopts and transmits the joint resolution to the President before theend of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
 &emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
 
@@ -100,7 +100,7 @@ Extension of waiver authority.—
 
 &emsp;“(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] with respect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
 
-&emsp;&emsp;“(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but for an extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
+&emsp;&emsp;“(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but foran extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
 
 &emsp;&emsp;“(ii) paragraph (2)(A)(ii) of subsection (d) of such section 402 (as amended by subsection (a)) shall be treated as reading as follows:
 

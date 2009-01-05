@@ -78,7 +78,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 #### (1) In general
 
-&emsp;In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
+&emsp;In the case of a request from a consumer other than a request that is covered by any ofsubsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
 
 &emsp;&emsp;(A) for making a disclosure to the consumer pursuant to section 1681g of this title, which charge—
 

@@ -30,7 +30,7 @@ If the officer or employee making any such inspection of a factory, warehouse, o
 
 #### (d) Analysis of samples furnished owner
 
-Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
+Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertainingwhether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
 #### (e) Accessibility of records
 
@@ -80,11 +80,11 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(G) Such person may conduct audits to establish conformance with the quality systems standard referred to in paragraph (7).
 
-(4) The Secretary shall publish on the Internet site of the Food and Drug Administration a list of persons who are accredited under paragraph (2). Such list shall be updated to ensure that the identity of each accredited person, and the particular activities for which the person is accredited, is known to the public. The updating of such list shall be no later than one month after the accreditation of a person under this subsection or the suspension or withdrawal of accreditation, or the modification of the particular activities for which the person is accredited.
+(4) The Secretary shall publish on the Internet site of the Food and Drug Administration a list of persons who are accredited under paragraph (2). Such list shall be updated to ensure that the identity of each accredited person, and the particular activities for which the person is accredited, is known to the public. The updating of such list shall be no later than one month afterthe accreditation of a person under this subsection or the suspension or withdrawal of accreditation, or the modification of the particular activities for which the person is accredited.
 
 (5)(A) To ensure that persons accredited under this subsection continue to meet the standards of accreditation, the Secretary shall (i) audit the performance of such persons on a periodic basis through the review of inspection reports and inspections by persons designated by the Secretary to evaluate the compliance status of a device establishment and the performance of accredited persons, and (ii) take such additional measures as the Secretary determines to be appropriate.
 
-(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2), after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of suchperson during the pendency of the process under the preceding sentence.
+(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2), after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of such person during the pendency of the process under the preceding sentence.
 
 (6)(A) Subject to subparagraphs (B) and (C), a device establishment is eligible for inspection by persons accredited under paragraph (2) if the following conditions are met:
 
@@ -132,7 +132,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (II) If the Secretary rejects the selection of an accredited person by the owner or operator of a device establishment, the owner or operator may make an additional selection of an accredited person by submitting to the Secretary a notice that identifies the additional selection. Clauses (i) and (ii) of subparagraph (B), and subclause (I) of this clause, apply to the selection of an accredited person through a notice under the preceding sentence in the same manner and to the same extent as such provisions apply to a selection of an accredited person through a notice under subparagraph (A)(ii).
 
-(iv) In the case of a device establishment that is denied clearance under clause (i) or (ii) or with respect to which the selection of the accredited person is rejected under clause (iii), theSecretary shall designate a person to review the statement of reasons, or statement summarizing such evidence, as the case may be, of the Secretary under such clause if, during the 30-day period beginning on the date on which the owner or operator of the establishment receives such statement, the owner or operator requests the review. The review shall commence not later than 30 days after the owner or operator requests the review, unless the Secretary and the owner or operator otherwise agree.
+(iv) In the case of a device establishment that is denied clearance under clause (i) or (ii) or with respect to which the selection of the accredited person is rejected under clause (iii), the Secretary shall designate a person to review the statement of reasons, or statement summarizing such evidence, as the case may be, of the Secretary under such clause if, during the 30-day period beginning on the date on which the owner or operator of the establishment receives such statement, the owner or operator requests the review. The review shall commence not later than 30 days after the owner or operator requests the review, unless the Secretary and the owner or operator otherwise agree.
 
 (7)(A) Persons accredited under paragraph (2) to conduct inspections shall record in writing their inspection observations and shall present the observations to the device establishment's designated representative and describe each observation. Additionally, such accredited person shall prepare an inspection report in a form and manner designated by the Secretary to conduct inspections, taking into consideration the goals of international harmonization of quality systems standards. Any official classification of the inspection shall be determined by the Secretary.
 
@@ -158,7 +158,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of the Food and Drug Administration with respect to devices (referred to in this subparagraph as the “compliance budget”), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the “inspection budget”).
 
-(ii) For purposes of determinations under clause (i), the Comptroller General shall not include in the compliance budget or the inspection budget any amounts obligated for inspections of device establishments conducted as part of the process of reviewing applications under section 360e of this title.
+(ii) For purposes of determinations under clause (i), the Comptroller General shall not include in the compliance budget or the inspection budget any amounts obligated for inspections of device establishments conducted as part of theprocess of reviewing applications under section 360e of this title.
 
 (iii) Not later than March 31, 2003, the Comptroller General shall complete the determinations required in this subparagraph and submit to the Secretary and the Congress a report describing the findings made through such determinations.
 
@@ -172,7 +172,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (11) The authority provided by this subsection terminates on October 1, 2012.
 
-(12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee onHealth, Education, Labor and Pensions of the Senate—
+(12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
 
 &emsp;(A) the number of inspections conducted by accredited persons pursuant to this subsection and the number of inspections conducted by Federal employees pursuant to section 360(h) of this title and of device establishments required to register under section 360(i) of this title;
 
@@ -212,7 +212,7 @@ Subsec. (g)(10)(C)(iii). Pub. L. 110–85, §228(6), substituted “base amount 
 
 2004—Subsec. (g)(1). Pub. L. 108–214, §2(b)(1)(A), in first sentence, substituted “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of this title or are inspections of such establishments required to register under section 360(i) of this title.” for “conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in section 360(h) of this title, or inspections of such establishments required to register pursuant to section 360(i) of this title.”
 
-Subsec. (g)(5)(B). Pub. L. 108–214, §2(b)(1)(B), in first sentence, substituted “poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection.” for “or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection.”
+Subsec. (g)(5)(B). Pub. L. 108–214, §2(b)(1)(B), in first sentence, substituted “poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection.”for “or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection.”
 
 Subsec. (g)(6)(A)(i). Pub. L. 108–214, §2(b)(1)(C)(i), substituted “described in paragraph (1)” for “of the establishment pursuant to subsection (h) or (i) of section 360 of this title”.
 
@@ -226,7 +226,7 @@ Subsec. (g)(6)(A)(iii)(I). Pub. L. 108–214, §2(b)(1)(C)(iii)(II), substituted
 
 Subsec. (g)(6)(A)(iii)(II). Pub. L. 108–214, §2(b)(1)(C)(iii)(III), inserted “or by a person accredited under paragraph (2)” after “by the Secretary”.
 
-Subsec. (g)(6)(A)(iv)(I). Pub. L. 108–214, §2(b)(1)(C)(iv), in first sentence, inserted “section” after “pursuant to” and substituted “inspections of the establishment during the previous 4 years” for “the two immediatelypreceding inspections of the establishment”, in third sentence, struck out “the petition states a commercial reason for the waiver;” after “granted only if” and inserted “not” after “the Secretary has not determined that the public health would”, and, in last sentence, substituted “granted or deemed to be granted until” for “granted until”.
+Subsec. (g)(6)(A)(iv)(I). Pub. L. 108–214, §2(b)(1)(C)(iv), in first sentence, inserted “section” after “pursuant to” and substituted “inspections of the establishment during the previous 4 years” for “the two immediately preceding inspections of the establishment”, in third sentence, struck out “the petition states a commercial reason for the waiver;” after “granted only if” and inserted “not” after “the Secretary has not determined that the public health would”, and, in last sentence, substituted “granted or deemed to be granted until” for “granted until”.
 
 Subsec. (g)(6)(A)(iv)(II). Pub. L. 108–214, §2(b)(1)(C)(v), inserted “of a device establishment required to register” after “to be conducted” and “section” after “pursuant to”.
 
@@ -276,7 +276,7 @@ Subsec. (e). Pub. L. 94–295, §6(d), added subsec. (e).
 
 Subsec. (b). Pub. L. 87–781, §201(b), inserted “consulting laboratory” after “warehouse”.
 
-1953—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
+1953—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisionsrequiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
 
 #### Effective Date of 1997 Amendment
 
@@ -292,7 +292,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Authority of Secretary Prior to October 10, 1962
 
-Section 201(d) of Pub. L. 87–781 provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of theSecretary existing prior to the enactment of this Act \[Oct. 10, 1962\].”
+Section 201(d) of Pub. L. 87–781 provided that: “Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act \[Oct. 10, 1962\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

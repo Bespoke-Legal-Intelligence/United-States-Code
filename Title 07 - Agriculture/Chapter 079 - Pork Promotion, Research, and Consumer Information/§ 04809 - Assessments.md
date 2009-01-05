@@ -60,7 +60,7 @@ Funds collected by the Board from assessments collected under this section shall
 
 &emsp;(2)(A) The National Pork Producers Council, a nonprofit corporation of the type described in section 501(c)(3) of title 26 and incorporated in the State of Iowa, shall receive an amount of funds equal to—
 
-&emsp;&emsp;(i) 371/2 percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month inwhich the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
+&emsp;&emsp;(i) 371/2 percent of the aggregate amount of assessments collected under this section throughout the United States from the date assessment commences pursuant to subsection (a)(1) of this section until the first day of the month following the month in which the Board is appointed pursuant to section 4808 of this title.<sup>2</sup>
 
 &emsp;&emsp;(ii) 35 percent thereafter until the referendum is conducted pursuant to section 4811 of this title,
 

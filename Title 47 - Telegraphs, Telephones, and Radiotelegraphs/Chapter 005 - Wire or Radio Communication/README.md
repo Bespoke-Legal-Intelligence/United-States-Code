@@ -359,7 +359,8 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 | [613\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000613%20-%20Video%20programming%20accessibility.md) | Video programming accessibility. |
 | [614\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000614%20-%20Telecommunications%20Development%20Fund.md) | Telecommunications Development Fund. |
 | [615\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615%20-%20Support%20for%20universal%20emergency%20telephone%20number.md) | Support for universal emergency telephone number. |
-| [615a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615a%20-%20Parity%20of%20protection%20for%20provision%20or%20use%20of%20wireless%20service.md) | Parity of protection for provision or use of wireless service. |
+| [615a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615a%20-%20Service%20provider%20parity%20of%20protection.md) | Service provider parity of protection. |
+| 615a–1. | Duty to provide 9–1–1 and enhanced 9–1–1 service. |
 | [615b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000615b%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

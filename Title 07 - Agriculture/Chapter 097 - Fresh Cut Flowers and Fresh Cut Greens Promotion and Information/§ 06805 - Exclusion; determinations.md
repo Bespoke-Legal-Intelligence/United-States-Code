@@ -12,7 +12,7 @@ An order shall exclude from assessments under the order any sale of cut flowers 
 
 &emsp;&emsp;(A) a determination of the annual sales volume of a person or facility shall be based on the sales of cut flowers and cut greens by the person or facility during the most recently-completed calendar year, except as provided in subparagraph (B); and
 
-&emsp;&emsp;(B) in the case of a new business or other operation for which complete data on salesduring all or part of the most recently-completed calendar year are not available to the PromoFlor Council, the determination may be made using an alternative time period or other alternative procedure specified in the order.
+&emsp;&emsp;(B) in the case of a new business or other operation for which complete data on sales during all or part of the most recently-completed calendar year are not available to the PromoFlor Council, the determination may be made using an alternative time period or other alternative procedure specified in the order.
 
 #### (2) Rule of attribution
 

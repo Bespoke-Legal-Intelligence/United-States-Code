@@ -1,6 +1,6 @@
 ### §57308. Use of vessels at least 25 years old
 
-An obsolete vessel acquired under this chapter that is or becomes at least 25 years old may not be used for commercial operation. However, the vessel may be used—
+An obsolete vessel acquired under this chapter that is or becomes at least 25 years old may notbe used for commercial operation. However, the vessel may be used—
 
 &emsp;(1) during a period in which vessels may be requisitioned under chapter 563 of this title; or
 

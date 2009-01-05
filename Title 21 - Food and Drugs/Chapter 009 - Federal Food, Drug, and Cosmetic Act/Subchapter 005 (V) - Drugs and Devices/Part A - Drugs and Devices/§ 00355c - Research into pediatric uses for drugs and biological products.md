@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
-&emsp;&emsp;&emsp;(ii) there is evidence strongly suggesting that the drug or biological product would be ineffective or unsafe in all pediatric age groups; or
+&emsp;&emsp;&emsp;(ii) there is evidence strongly suggesting that the drug or biological product wouldbe ineffective or unsafe in all pediatric age groups; or
 
 &emsp;&emsp;&emsp;(iii) the drug or biological product—
 
@@ -272,7 +272,7 @@ Before and during the investigational process for a new drug or biological produ
 
 #### (E) No effect on authority
 
-&emsp;&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under this chapter when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence)shall preclude, delay, or serve as the basis to stay the other course of action.
+&emsp;&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under this chapter when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 
 #### (2) Other labeling changes
 
@@ -296,7 +296,7 @@ Before and during the investigational process for a new drug or biological produ
 
 #### (1) Reporting in year one
 
-&emsp;Beginning on September 27, 2007, during the one-year period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverse event reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
+&emsp;Beginning on September 27, 2007, during the one-year period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverseevent reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
 
 #### (2) Reporting in subsequent years
 

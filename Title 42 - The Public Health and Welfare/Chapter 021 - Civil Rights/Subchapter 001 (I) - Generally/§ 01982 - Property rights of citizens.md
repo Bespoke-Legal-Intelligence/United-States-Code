@@ -14,7 +14,7 @@ Section was formerly classified to section 42 of Title 8, Aliens and Nationality
 
 Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. No. 12892, §6–604, Jan. 17, 1994, 59 F.R. 2939, provided:
 
-WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing and related facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
+WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing andrelated facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
 
 WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
 
@@ -80,7 +80,7 @@ Sec. 501. \[Revoked. Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. N
 
 Sec. 502. (a) The Committee shall take such steps as it deems necessary and appropriate to promote the coordination of the activities of departments and agencies under this order. In so doing, the Committee shall consider the overall objectives of Federal legislation relating to housing and the right of every individual to participate without discrimination because of race, color, religion (creed), sex, disability, familial status or national origin in the ultimate benefits of the Federal programs subject to this order.
 
-(b) The Committee may confer with representatives of any department or agency, State or local public agency, civic, industry, or labor group, or any other group directly or indirectly affected by this order; examine the relevant rules, regulations, procedures, policies, and practices of any department or agency subjectto this order and make such recommendations as may be necessary or desirable to achieve the purposes of this order.
+(b) The Committee may confer with representatives of any department or agency, State or local public agency, civic, industry, or labor group, or any other group directly or indirectly affected by this order; examine the relevant rules, regulations, procedures, policies, and practices of any department or agency subject to this order and make such recommendations as may be necessary or desirable to achieve the purposes of this order.
 
 (c) The Committee shall encourage educational programs by civic, educational, religious, industry, labor, and other nongovernmental groups to eliminate the basic causes of discrimination in housing and related facilities provided with Federal assistance.
 

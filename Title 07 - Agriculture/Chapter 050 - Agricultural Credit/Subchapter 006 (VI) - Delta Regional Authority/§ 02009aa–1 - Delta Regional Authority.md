@@ -94,7 +94,7 @@
 
 The Authority shall—
 
-&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programsto establish priorities and approve grants for the economic development of the region, giving due consideration to other Federal, State, and local planning and development activities in the region;
+&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs to establish priorities and approve grants for the economic development of the region, giving due consideration to other Federal, State, and local planning and development activities in the region;
 
 &emsp;(2) not later than 220 days after December 21, 2000, establish priorities in a development plan for the region (including 5-year regional outcome targets);
 
@@ -204,7 +204,7 @@ A Federal agency shall—
 
 #### (B) No additional compensation
 
-&emsp;&emsp;No State member or alternate member shall receive any salary, or any contribution to or supplementation of salary from any source other than the State for services provided by the member or alternate to the Authority.
+&emsp;&emsp;No State member or alternate member shall receive any salary, or any contribution to or supplementation of salary from anysource other than the State for services provided by the member or alternate to the Authority.
 
 #### (4) Detailed employees
 
@@ -290,7 +290,7 @@ The Authority may declare void any contract, loan, or grant of or by the Authori
 
 Subsec. (c)(1)(B). Pub. L. 108–447, §506(2), substituted “2009” for “2005”.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par.\(1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
 Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted “, rules, and regulations” for “and rules”.
 

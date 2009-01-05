@@ -48,7 +48,7 @@ The Secretary shall prepare an environmental assessment or an environmental impa
 
 #### (3) Proposed agency action and community wildfire protection plan alternative
 
-&emsp;In the case of an authorized hazardous fuel reduction project described in paragraph (2), if the at-risk community has adopted a community wildfire protection plan and the proposed agency action does not implement the recommendations in the plan regarding the general location and basic method of treatments, the Secretary shall evaluate the recommendations in the plan as an alternative to the proposed agency action in the environmental assessment or environmental impact statement prepared pursuant to section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
+&emsp;In the case of an authorized hazardous fuel reduction project described in paragraph (2), ifthe at-risk community has adopted a community wildfire protection plan and the proposed agency action does not implement the recommendations in the plan regarding the general location and basic method of treatments, the Secretary shall evaluate the recommendations in the plan as an alternative to the proposed agency action in the environmental assessment or environmental impact statement prepared pursuant to section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
 
 #### (e) Public notice and meeting
 
@@ -70,7 +70,7 @@ In order to encourage meaningful public participation during preparation of auth
 
 #### (g) Environmental analysis and public comment
 
-In accordance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)) and the applicable regulations and administrative guidelines, the Secretaryshall provide an opportunity for public comment during the preparation of any environmental assessment or environmental impact statement for an authorized hazardous fuel reduction project.
+In accordance with section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)) and the applicable regulations and administrative guidelines, the Secretary shall provide an opportunity for public comment during the preparation of any environmental assessment or environmental impact statement for an authorized hazardous fuel reduction project.
 
 #### (h) Decision document
 

@@ -8,7 +8,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 (1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
-(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to thisparagraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
+(2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
 #### (c) Allotment of additional sums
 
@@ -46,15 +46,15 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 &emsp;&emsp;Any reapportionment of funds under this paragraph shall be subject to the matching requirement specified in paragraph (1).
 
-#### (4) Exception for insular areas
+#### (4) Exception for insular areas and the District of Columbia
 
 #### (A) In general
 
-&emsp;&emsp;Effective beginning for fiscal year 2003, in lieu of the matching funds requirement of paragraph (1), the insular areas of the Commonwealth of Puerto Rico, Guam, and the Virgin Islands of the United States shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds distributed by the Secretary to each of the insular areas, respectively, under this section.
+&emsp;&emsp;Effective beginning for fiscal year 2003, in lieu of the matching funds requirement of paragraph (1), the insular areas of the Commonwealth of Puerto Rico, Guam, and the Virgin Islands of the United States and the District of Columbia shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds distributed by the Secretary to each of the insular areas, respectively, and the District of Columbia under this section.
 
 #### (B) Waivers
 
-&emsp;&emsp;The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area will be unlikely to meet the matching requirement for the fiscal year.
+&emsp;&emsp;The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area or the District of Columbia will be unlikely to meet the matching requirement for the fiscal year.
 
 #### (e) “Administration” defined
 
@@ -72,7 +72,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (1) Peer review
 
-&emsp;Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered tosatisfy the merit review requirements of section 7613(e) of this title.
+&emsp;Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
 
 #### (2) Plan of work
 
@@ -120,17 +120,25 @@ If in any year the amount made available by a State from its own funds (includin
 
 &emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448.)
+(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008.)
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
 
 #### Amendments
+
+2008—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted “and the District of Columbia” after “areas” in heading.
+
+Subsec. (d)(4)(A). Pub. L. 110–246, §7404(a)(2), inserted “and the District of Columbia” after “United States” and after “respectively,”.
+
+Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted “or the District of Columbia” after “area”.
 
 2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
 
@@ -144,7 +152,7 @@ Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 
 Subsec. (c)(4), (5). Pub. L. 105–185, §104(a)(1)(A), redesignated par. 5 as (4).
 
-Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows:“Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: <i>And provided further</i>, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
+Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: <i>And provided further</i>, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
 
 Subsec. (d)(1). Pub. L. 105–277, §101(a) \[title VII, §753(d)(1)\], substituted “Except as provided in paragraph (4), no” for “No”.
 
@@ -169,6 +177,10 @@ Subsec. (c)(5). Pub. L. 95–113, §1466(b), inserted provision authorizing the 
 1972—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
 1955—Act Aug. 11, 1955, amended section generally to authorize appropriations and to provide for allotment of grants. For provisions which related to advice and assistance by the Secretary of Agriculture, see section 361g of this title.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

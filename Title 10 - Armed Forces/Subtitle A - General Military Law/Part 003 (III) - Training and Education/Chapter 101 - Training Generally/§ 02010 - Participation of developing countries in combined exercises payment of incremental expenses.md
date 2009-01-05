@@ -14,11 +14,19 @@
 
 (c) The Secretary of Defense shall establish by regulation such accounting procedures as may be necessary to ensure that funds expended under this section are properly expended.
 
-(d) In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country's participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country's personnel.
+(d) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for bilateral or multilateral military exercises that begin in a fiscal year and end in the following fiscal year.
 
-(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902.)
+(e) In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country's participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country's personnel.
+
+(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622.)
 
 #### Amendments
 
+2008—Subsecs. (d), (e). Pub. L. 110–417 added subsec. (d) and redesignated former subsec. (d) as (e).
+
 1997—Subsec. (e). Pub. L. 105–85 struck out subsec. (e) which read as follows: “Not more than $13,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title XII, §1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 of title 10, United States Code, as so amended, that begin on or after that date.”
 

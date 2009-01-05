@@ -116,7 +116,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (A) In general
 
-&emsp;&emsp;A handloomed, handmade, folklore article or an ethnic printed fabric of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this section, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles or an ethic <sup>1</sup> printed fabric.
+&emsp;&emsp;A handloomed, handmade, folklore article or an ethnic printed fabric of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this section, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles or an ethnic printed fabric.
 
 #### (B) Requirements for ethnic printed fabric
 
@@ -148,7 +148,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (A) Products covered
 
-&emsp;&emsp;In addition to the products described in subsection (b), and subject to paragraph (2), the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
+&emsp;&emsp;In addition to the products described in subsection (b) <sup>1</sup> the preferential treatment described in subsection (a) shall apply through September 30, 2012, to apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries, regardless of the country of origin of the fabric or the yarn used to make such articles, in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
 #### (B) Applicable percentage
 
@@ -158,91 +158,21 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 &emsp;&emsp;&emsp;(ii) 3.5 percent for the 1-year period beginning on October 1, 2006, and each 1-year period thereafter through September 30, 2012.
 
-#### (2) Special rules for products in commercial quantities in Africa
+#### (2) Applicability of other provisions
 
-#### (A) Petition process
+&emsp;Subsection (b)(3)(B) applies to apparel articles eligible for preferential treatment under this subsection to the same extent as that subsection applies to apparel articles eligible for preferential treatment under subsection (b)(3).
 
-&emsp;&emsp;Upon a petition filed by an interested party (which may include a foreign manufacturer), the Commission shall determine whether a fabric or yarn produced in beneficiary sub-Saharan African countries is available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries.
+#### (3) Definition
 
-#### (B) Effect of affirmative determination
+&emsp;In this subsection, the term “lesser developed beneficiary sub-Saharan African country” means—
 
-#### (i) Determination of quantity available
+&emsp;&emsp;(A) a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
 
-&emsp;&emsp;&emsp;If the Commission determines under subparagraph (A) that a fabric or yarn produced in beneficiary sub-Saharan African countries is available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries, the Commission shall determine the quantity of the fabric or yarn that will be so available in lesser developed beneficiary sub-Saharan African countries in the applicable 1-year period beginning after the determination is made.
+&emsp;&emsp;(B) Botswana;
 
-#### (ii) Determinations
+&emsp;&emsp;(C) Namibia; and
 
-&emsp;&emsp;&emsp;In each case in which the Commission determines that a fabric or yarn is available in commercial quantities under subparagraph (A) for an applicable 1-year period, the Commission shall determine, before the end of that applicable 1-year period—
-
-&emsp;&emsp;&emsp;&emsp;(I) whether the fabric or yarn produced in beneficiary sub-Saharan African countries will be available in commercial quantities in the succeeding applicable 1-year period; and
-
-&emsp;&emsp;&emsp;&emsp;(II) if so, the quantity of the fabric or yarn that will be so available in that succeeding 1-year period, subject to clause (iii).
-
-#### (iii) Determination regarding imported articles
-
-&emsp;&emsp;&emsp;After the end of each applicable 1-year period for which a determination under clause (i) is in effect, the Commission shall determine to what extent the quantity of the fabric or yarn determined under clause\(i) to be available in commercial quantities for use by lesser developed beneficiary sub-Saharan African countries was used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period. To the extent that the quantity so determined was not so used, then the Commission shall add to the quantity of that fabric or yarn determined to be available in the next applicable 1-year period the quantity not so used in the preceding applicable 1-year period.
-
-#### (C) Denim
-
-&emsp;&emsp;Denim articles provided for in subheading 5209.42.00 of the Harmonized Tariff Schedule of the United States shall be deemed to have been determined to be in abundant supply under subparagraph (A) in an amount of 30,000,000 square meter equivalents for the 1-year period beginning October 1, 2006.
-
-#### (D) Presidential authority to restrict imports
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Subject to clause (ii), the President may by proclamation provide that apparel articles otherwise eligible for preferential treatment under paragraph (1) that contain a fabric or yarn determined to be available in commercial quantities under subparagraph (A) may not receive such preferential treatment in an applicable 1-year period unless—
-
-&emsp;&emsp;&emsp;&emsp;(I) the fabric or yarn in such articles was produced in 1 or more beneficiary sub-Saharan African countries; or
-
-&emsp;&emsp;&emsp;&emsp;(II) the Commission has determined that the quantity of the fabric or yarn determined under subparagraph (B) (or (C), as the case may be) to be available in lesser developed beneficiary sub-Saharan African countries for that applicable 1-year period has already been used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period.
-
-#### (ii) Mandatory restriction
-
-&emsp;&emsp;&emsp;If a fabric or yarn is determined to be available in commercial quantities under subparagraph (A) in an applicable 1-year period, and for 2 consecutive applicable 1-year periods the quantities determined to be so available are not used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered during those 2 applicable 1-year periods, then beginning in the succeeding applicable 1-year period, apparel articles containing that fabric or yarn are ineligible for preferential treatment under paragraph (1) in any succeeding applicable 1-year period unless the Commission has determined that the quantity of the fabric or yarn determined under subparagraph (B) (or (C), as the case may be) to be available in lesser developed beneficiary sub-Saharan African countries for that applicable 1-year period has already been used in the production of apparel articles receiving preferential treatment under paragraph (1) that were entered in that applicable 1-year period.
-
-#### (E) Procedures
-
-&emsp;&emsp;The Commission shall use the procedures prescribed in subsection (b)(3)(C)(iv) for the Secretary of Commerce in making determinations under this paragraph.
-
-#### (3) Removal of designation of fabrics or yarns not available in commercial quantities
-
-&emsp;If the President determines that—
-
-&emsp;&emsp;(A) any fabric or yarn described in paragraph (2)(A) was determined to be eligible for preferential treatment, or
-
-&emsp;&emsp;(B) any fabric or yarn described in paragraph (2)(B) was designated as not being available in commercial quantities,
-
-> &emsp;on the basis of fraud, the President may remove the eligibility or designation (as the case may be) of that fabric or yarn with respect to articles entered after such removal.
-
-#### (4) Applicability of other provisions
-
-&emsp;Subsection (b)(3)(C) applies to apparel articles eligible for preferential treatment under this subsection to the same extent as that subsection applies to apparel articles eligible for preferential treatment under subsection (b)(3).
-
-#### (5) Definitions
-
-&emsp;In this subsection:
-
-#### (A) Applicable 1-year period
-
-&emsp;&emsp;The term “applicable 1-year period” means each of the 12-month periods beginning on October 1 of each year and ending on September 30 of the following year.
-
-#### (B) Commission
-
-&emsp;&emsp;The term “Commission” means the United States International Trade Commission.
-
-#### (C) Enter; entry
-
-&emsp;&emsp;The terms “enter” and “entry” refer to the entry, or withdrawal from warehouse for consumption, in the customs territory of the United States.
-
-#### (D) Lesser developed beneficiary sub-Saharan African country
-
-&emsp;&emsp;The term “lesser developed beneficiary sub-Saharan African country” means—
-
-&emsp;&emsp;&emsp;(i) a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
-
-&emsp;&emsp;&emsp;(ii) Botswana; and
-
-&emsp;&emsp;&emsp;(iii) Namibia.
+&emsp;&emsp;(D) Mauritius.
 
 #### (d) Treatment of quotas on textile and apparel imports from Kenya and Mauritius
 
@@ -260,7 +190,7 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 #### (A) General rule
 
-&emsp;&emsp;An article otherwise eligible for preferential treatment under this section shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if the value of such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled article. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, “bow buds”, decorative lace trim, elastic strips, and zippers, including zipper tapes and labels. Elastic strips are considered findings or trimmings only if they are each less than 1 inch in width and used in the production of brassieres.
+&emsp;&emsp;An article otherwise eligible for preferential treatment under this section shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if the value of such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled article. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps,buttons, “bow buds”, decorative lace trim, elastic strips, and zippers, including zipper tapes and labels. Elastic strips are considered findings or trimmings only if they are each less than 1 inch in width and used in the production of brassieres.
 
 #### (B) Certain interlinings
 
@@ -332,19 +262,33 @@ In this section and section 3722 of this title:
 
 This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2015.
 
-(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194.)
+(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub. L. 110–436, §3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)(1) to (4), (6), (7), (8) and (c)(2)(C), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 This chapter, referred to in subsec. (f)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Amendments
 
+2008—Subsec. (b)(3)(B), (C). Pub. L. 110–436, §3(d), made technical correction to directory language of Pub. L. 109–432, §6002(a)(2)(B). See 2006 Amendment note below.
+
+Subsec. (b)(6)(A). Pub. L. 110–436, §3(a)(1), substituted “ethnic” for “ethic” in second sentence.
+
+Subsec. (c)(1)(A). Pub. L. 110–436, §3(a)(2)(A), struck out “, and subject to paragraph (2),” after “described in subsection (b)”.
+
+Subsec. (c)(2). Pub. L. 110–436, §3(a)(2)(B), (C)(ii), redesignated par. (4) as (2) and struck out former par. (2) which provided special rules for products in commercial quantities in Africa.
+
+Subsec. (c)(3). Pub. L. 110–436, §3(a)(2)(B), (D), added par. (3) and struck out former par. (3) which provided for removal of designation of fabrics or yarns not available in commercial quantities.
+
+Subsec. (c)(4). Pub. L. 110–436, §3(a)(2)(C), substituted “Subsection (b)(3)(B)” for “Subsection (b)(3)(C)” and redesignated par. (4) as (2).
+
+Subsec. (c)(5). Pub. L. 110–436, §3(a)(2)(D), struck out par. (5) which defined “applicable 1-year period”, “Commission”, “enter” and “entry”, and “lesser developed beneficiary sub-Saharan African country”.
+
 2006—Subsec. (b). Pub. L. 109–432, §6002(a)(2)(A), substituted “Subject to subsection (c), the” for “The” in introductory provisions.
 
-Subsec. (b)(3)(B), (C). Pub. L. 109–432, §6002(a)(2)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
+Subsec. (b)(3)(B), (C). Pub. L. 109–432, §6002(a)(2)(B), as amended by Pub. L. 110–436, §3(d), redesignated subpar. (C) as (B) and struck out former subpar. (B), which related to extension of preferential treatment though Sept. 30, 2007, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries.
 
 Subsec. (b)(5)(C). Pub. L. 109–432, §6003(1), added subpar. (C).
 
@@ -398,11 +342,15 @@ In general.—Subject to subparagraph (A), preferential treatment shall be exten
 
 “(ii)
 
-Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term ‘lesser developed beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.”
+Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term ‘lesser developed beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan Africancountry that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.”
 
 Subsec. (b)(4)(B). Pub. L. 107–210, §3108(a)(4), substituted “21.5 microns” for “18.5 microns”.
 
 Subsec. (b)(7). Pub. L. 107–210, §3108(a)(5), added par. (7).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–436, §3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: “The amendments made by subsection (a) \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Oct. 16, 2008\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -436,7 +384,7 @@ Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, 
 
 Proc. No. 7350, Oct. 2, 2000, 65 F.R. 59321, provided in par. (5) that the United States Trade Representative is authorized to determine whether Kenya and Mauritius have satisfied the requirements of section 3721(c)\[d\] of this title, is directed to set forth the determination in a notice to be published in the Federal Register and to cause the existing quotas on textile and apparel articles imported into the United States from such country to be eliminated within 30 days after the determination, and is authorized to exercise the authority provided to the President under section 2483 of this title to embody modifications and technical or conforming changes in the Harmonized Tariff Schedule of the United States.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “ethnic”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by “beneficiary”.</i>
 

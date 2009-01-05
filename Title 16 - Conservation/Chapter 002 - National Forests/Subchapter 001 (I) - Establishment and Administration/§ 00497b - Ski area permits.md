@@ -38,7 +38,7 @@ Nothing in this section shall be deemed to amend, modify or otherwise affect the
 
 Act of March 4, 1915 (16 U.S.C. 497), referred to in subsec. (a), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.
 
-This section, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, meaning Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, known as the National Forest Ski Area Permit Act of 1986, which enacted this section and notes set out under this section. For completeclassification of this Act to the Code, see Short Title note below and Tables.
+This section, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, meaning Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, known as the National Forest Ski Area Permit Act of 1986, which enacted this section and notes set out under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The National Environmental Policy Act, referred to in subsec. (d), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

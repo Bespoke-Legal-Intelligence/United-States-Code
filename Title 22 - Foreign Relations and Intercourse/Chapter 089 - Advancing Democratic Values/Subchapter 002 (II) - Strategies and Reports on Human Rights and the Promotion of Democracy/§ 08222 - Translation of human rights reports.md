@@ -8,7 +8,7 @@ The Secretary shall continue to expand the timely translation of the applicable 
 
 #### (1) Requirement
 
-&emsp;Not later than April 1, 2008, and annually thereafter through 2010, the Secretary shall submit to the appropriate congressional committees a report describing any translations of the reports specified in subsection (a) for the preceding year, including which of such reports have been translated into which principal languages and the countries in which such translations have been distributed by posting on a relevant website or elsewhere.
+&emsp;Not later than April 1, 2008, and annually thereafter through 2010, the Secretary shallsubmit to the appropriate congressional committees a report describing any translations of the reports specified in subsection (a) for the preceding year, including which of such reports have been translated into which principal languages and the countries in which such translations have been distributed by posting on a relevant website or elsewhere.
 
 #### (2) Form
 

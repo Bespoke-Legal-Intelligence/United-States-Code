@@ -34,3 +34,5 @@ Section was enacted as part of the Crime Control Act of 1990, and not as part of
 
 2006—Pub. L. 109–248 added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
 
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+

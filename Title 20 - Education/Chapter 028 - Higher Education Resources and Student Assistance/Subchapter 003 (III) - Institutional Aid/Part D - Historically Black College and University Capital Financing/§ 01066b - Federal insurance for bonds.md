@@ -36,13 +36,15 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;&emsp;&emsp;(i) shall be available to the Secretary to pay principal and interest on the bonds in the event of delinquency in loan repayment; and
 
-&emsp;&emsp;&emsp;(ii) shall be used to return to an eligible institution an amount equal to any remaining portion of such institution's 5 percent deposit of loan proceeds following scheduled repayment of such institution's loan;
+&emsp;&emsp;&emsp;(ii) shall be used to return to an eligible institution an amount equal to any remaining portion of such institution's 5 percent deposit of loan proceeds within 120 days following scheduled repayment of such institution's loan;
 
 &emsp;(9) provide in each loan agreement with respect to a loan that, if a delinquency on such loan results in amounts being withdrawn from the escrow account to pay principal and interest on bonds, subsequent payments on such loan shall be available to replenish such escrow account;
 
-&emsp;(10) comply with the limitations set forth in section 1066c of this title; and
+&emsp;(10) comply with the limitations set forth in section 1066c of this title;
 
-&emsp;(11) make loans only to eligible institutions under this part in accordance with conditions prescribed by the Secretary to ensure that loans are fairly allocated among as many eligible institutions as possible, consistent with making loans of amounts that will permit capital projects of sufficient size and scope to significantly contribute to the educational program of the eligible institutions.
+&emsp;(11) make loans only to eligible institutions under this part in accordance with conditions prescribed by the Secretary to ensure that loans are fairly allocated among as many eligible institutions as possible, consistent with making loans of amounts that will permit capital projects of sufficient size and scope to significantly contribute to the educational program of the eligible institutions; and
+
+&emsp;(12) limit loan collateralization, with respect to any loan made under this part, to 100 percent of the loan amount, except as otherwise required by the Secretary.
 
 #### (c) Additional agreement provisions
 
@@ -68,11 +70,11 @@ Any insurance agreement described in subsection (a) of this section shall provid
 
 Subject to subsection (c)(1) of this section the full faith and credit of the United States is pledged to the payment of all funds which may be required to be paid under the provisions of this section.
 
-#### (e) Sale of bonds
+#### (e) Sale of qualified bonds
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
 
 #### References in Text
 
@@ -87,6 +89,14 @@ Section was formerly classified to section 1132c–2 of this title prior to renu
 A prior section 343 of Pub. L. 89–329 was classified to section 1068 of this title prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(8)(B)(ii). Pub. L. 110–315, §314(b)(1)(B), inserted “within 120 days” after “loan proceeds”.
+
+Pub. L. 110–315, §314(b)(1)(A), which directed the substitution of “5” for “10”, could not be executed because “10” did not appear subsequent to amendment by Pub. L. 105–244, §306(b)(1). See 1998 Amendment note below.
+
+Subsec. (b)(12). Pub. L. 110–315, §314(b)(2)–(4), added par. (12).
+
+Subsec. (e). Pub. L. 110–315, §320(2), inserted heading.
 
 1998—Subsec. (a). Pub. L. 105–244, §301(c)(5)(A), substituted “section 1066c” for “section 1132c–3”.
 

@@ -34,9 +34,9 @@ The Administrator shall—
 
 &emsp;Using not more than 20 percent of the funds made available to carry out this part for a fiscal year, the Administrator shall provide to each State described in paragraph (1) for the fiscal year an allocation of funds that is equal to—
 
-&emsp;&emsp;(A) if each of the 50 States qualifies for an allocation, an amount equal to 2 percent of the funds made available to carry out this section; or
+&emsp;&emsp;(A) if each of the 51 States qualifies for an allocation, an amount equal to 1.96 percent of the funds made available to carry out this section; or
 
-&emsp;&emsp;(B) if fewer than 50 States qualifies <sup>1</sup> for an allocation, an amount equal to the amount described in subparagraph (A), plus an additional amount equal to the product obtained by multiplying—
+&emsp;&emsp;(B) if fewer than 51 States qualifies <sup>1</sup> for an allocation, an amount equal to the amount described in subparagraph (A), plus an additional amount equal to the product obtained by multiplying—
 
 &emsp;&emsp;&emsp;(i) the proportion that—
 
@@ -44,7 +44,7 @@ The Administrator shall—
 
 &emsp;&emsp;&emsp;&emsp;(II) the population of all States described in paragraph (1); by
 
-&emsp;&emsp;&emsp;(ii) the amount of funds remaining after each State described in paragraph (1) receives the 2-percent allocation under this paragraph.
+&emsp;&emsp;&emsp;(ii) the amount of funds remaining after each State described in paragraph (1) receives the 1.96 percent allocation under this paragraph.
 
 #### (3) State matching incentive
 
@@ -72,7 +72,7 @@ The Administrator shall—
 
 #### (2) Apportionment of funds
 
-&emsp;The Governor of a State that receives funding under this section may determine the portion of funds to be provided as grants or loans.
+&emsp;The chief executive of a State that receives funding under this section may determine the portion of funds to be provided as grants or loans.
 
 #### (3) Use of funds
 
@@ -82,7 +82,17 @@ The Administrator shall—
 
 &emsp;&emsp;(B) a verified technology.
 
-(Pub. L. 109–58, title VII, §793, Aug. 8, 2005, 119 Stat. 841.)
+(Pub. L. 109–58, title VII, §793, Aug. 8, 2005, 119 Stat. 841; Pub. L. 110–255, §3(b), June 30, 2008, 122 Stat. 2424.)
+
+#### Amendments
+
+2008—Subsec. (c)(2)(A). Pub. L. 110–255, §3(b)(2), substituted “51” for “50” and “1.96 percent” for “2 percent”.
+
+Subsec. (c)(2)(B). Pub. L. 110–255, §3(b)(2), substituted “51” for “50” in introductory provisions.
+
+Subsec. (c)(2)(B)(ii). Pub. L. 110–255, §3(b)(2), which directed substitution of “1.96 percent” for “2 percent”, was executed by making the substitution for “2-percent”, to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 110–255, §3(b)(1), substituted “chief executive” for “Governor”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “qualify”.</i>
 

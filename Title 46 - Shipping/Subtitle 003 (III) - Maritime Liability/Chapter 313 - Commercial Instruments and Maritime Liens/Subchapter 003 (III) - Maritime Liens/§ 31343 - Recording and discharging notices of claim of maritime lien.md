@@ -1,6 +1,6 @@
 ### §31343. Recording and discharging notices of claim of maritime lien
 
-(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121may record with the Secretary of Transportation a notice of that person's lien claim on the vessel. To be recordable, the notice must—
+(a) Except as provided under subsection (d) of this section, a person claiming a lien on a vessel documented, or for which an application for documentation has been filed, under chapter 121 may record with the Secretary of Transportation a notice of that person's lien claim on the vessel. To be recordable, the notice must—
 
 &emsp;(1) state the nature of the lien;
 
@@ -30,7 +30,7 @@
 
 (2) The district courts of the United States shall have jurisdiction over a civil action in Admiralty to declare that a vessel is not subject to a lien claimed under subsection (b) of this section, or that the vessel is not subject to the notice of claim of lien, or both, regardless of the amount in controversy or the citizenship of the parties. Venue in such an action shall be in the district where the vessel is found or where the claimant resides or where the notice of claim of lien is recorded. The court may award costs and attorneys fees to the prevailing party, unless the court finds that the position of the other party was substantially justified or other circumstances make an award of costs and attorneys fees unjust. The Secretary shall record any such declaratory order.
 
-(d) A person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
+(d) A person claiming a lien on a vessel covered by a preferred mortgage under section31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
 (e) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
 

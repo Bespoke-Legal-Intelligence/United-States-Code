@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, titleIV, §411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
+Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, title IV, §411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
 
 #### Amendments
 

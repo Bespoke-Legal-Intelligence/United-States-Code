@@ -28,7 +28,7 @@ The Director shall establish a procedure, including notice and opportunity to be
 
 (3) The limitation on funds appropriated for grants and contracts, as contained in section 4958 of this title, shall not apply to the summer program.
 
-(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190;Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
+(Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190; Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
 
 #### Amendments
 

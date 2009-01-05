@@ -6,7 +6,7 @@ For purposes of administering this chapter, the Administrator, and any duly desi
 
 #### (b) Scope
 
-(1) Except as provided in paragraph (2), an inspection conducted under subsection (a) of this section shall extend to all things within the premises or conveyance inspected (including records, files, papers, processes, controls, and facilities) bearing on whether the requirements of this chapter applicable to the chemical substances, mixtures, or products subject to subchapter IV of this chapter within such premises or conveyance have been complied with.
+(1) Except as provided in paragraph (2), an inspection conducted under subsection (a) of this section shall extend to all things within thepremises or conveyance inspected (including records, files, papers, processes, controls, and facilities) bearing on whether the requirements of this chapter applicable to the chemical substances, mixtures, or products subject to subchapter IV of this chapter within such premises or conveyance have been complied with.
 
 (2) No inspection under subsection (a) of this section shall extend to—
 

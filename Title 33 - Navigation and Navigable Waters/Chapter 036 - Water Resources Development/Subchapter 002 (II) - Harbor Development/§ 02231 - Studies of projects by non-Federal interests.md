@@ -10,7 +10,7 @@ The Secretary shall review each study submitted under subsection (a) of this sec
 
 #### (c) Submission to Congress
 
-Not later than 180 days after receiving any study submitted under subsection (a) of this section, the Secretary shall transmit to the Congress, in writing, the results of such review andany recommendations the Secretary may have concerning the project described in such plan and design.
+Not later than 180 days after receiving any study submitted under subsection (a) of this section, the Secretary shall transmit to the Congress, in writing, the results of such review and any recommendations the Secretary may have concerning the project described in such plan and design.
 
 #### (d) Credit and reimbursement
 

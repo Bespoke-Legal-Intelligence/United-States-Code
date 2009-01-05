@@ -40,7 +40,7 @@ Any funds received by, or under the control of, the Institute that are not Feder
 
 Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) <sup>2</sup> of this section shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12) <sup>2</sup> of this section.
 
-(Pub. L. 99–498, title XV, §1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, §5406(e), Apr.28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, §1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, §2(<i>l</i>), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 99–498, title XV, §1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, §5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, §1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, §2(<i>l</i>), Dec. 20, 1993, 107 Stat. 2486.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 101–644, §501(a), added subsec. (c).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -118,7 +118,7 @@
 
 &emsp;(1) develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for agencies; and
 
-&emsp;(2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 11331 of title 40 and subchapter II of this chapter, and related information management laws.
+&emsp;(2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 11331 of title 40 and subchapter II of this chapter, and related information management laws.
 
 (h) With respect to Federal information technology, the Director shall—
 
@@ -182,9 +182,9 @@ Subsec. (h)(2). Pub. L. 107–217, §3(<i>l</i>)(5)(D), substituted “subtitle 
 
 Subsec. (h)(2). Pub. L. 105–85, §1073(h)(5)(B), substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-1996—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+1996—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information TechnologyManagement Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgatedunder section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 Subsec. (h)(1)(B). Pub. L. 104–106, §5605(b), substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(d))”.
 
@@ -268,7 +268,7 @@ Reports.—The Director shall submit to Congress on a periodic basis a report de
 
 #### “SEC. 1707. ENFORCEABILITY AND LEGAL EFFECT OF ELECTRONIC RECORDS.
 
-“Electronic records submitted or maintained in accordance with procedures developed under this title, or electronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
+“Electronic records submitted or maintained in accordance with procedures developed under this title, orelectronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
 
 #### “SEC. 1708. DISCLOSURE OF INFORMATION.
 

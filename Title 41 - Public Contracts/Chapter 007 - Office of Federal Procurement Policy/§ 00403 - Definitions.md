@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(5) The term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.
 
-&emsp;(6) The term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
+&emsp;(6) The term “full and open competition”, when used with respect to a procurement,means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.
 
 &emsp;(7) The term “responsible source” means a prospective contractor who—
 
@@ -42,7 +42,7 @@ As used in this chapter:
 
 &emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
 
-&emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure forprocurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
+&emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
 
 &emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
 
@@ -78,7 +78,7 @@ As used in this chapter:
 
 &emsp;&emsp;(G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+&emsp;&emsp;(H) A nondevelopmental item, if the procuring agency determines, in accordance with conditions set forth in the Federal Acquisition Regulation, that the item was developed exclusively at private expense andhas been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
 
 &emsp;(13) The term “nondevelopmental item” means any of the following:
 

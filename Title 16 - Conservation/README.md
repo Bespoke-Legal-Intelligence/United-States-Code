@@ -1,5 +1,5 @@
 
-16 U.S.C.<br>United States Code, 2007 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+16 U.S.C.<br>United States Code, 2008 Edition<br>Title 16 - CONSERVATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 16—CONSERVATION
 
@@ -139,6 +139,7 @@
 | [<b>87.</b>](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md) | <b>Federal Lands Recreation Enhancement</b> | <b>6801</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md) | <b>Western and Central Pacific Fisheries Convention</b> | <b>6901</b> |
 | [<b>89.</b>](Chapter%20089%20-%20Pacific%20Whiting/README.md) | <b>Pacific Whiting</b> | <b>7001</b> |
+| [<b>90.</b>](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md) | <b>Secure Rural Schools and Community Self-Determination</b> | <b>7101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -281,3 +282,4 @@
 - [Chapter 087 - Federal Lands Recreation Enhancement](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md)
 - [Chapter 088 - Western and Central Pacific Fisheries Convention](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md)
 - [Chapter 089 - Pacific Whiting](Chapter%20089%20-%20Pacific%20Whiting/README.md)
+- [Chapter 090 - Secure Rural Schools and Community Self-Determination](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md)

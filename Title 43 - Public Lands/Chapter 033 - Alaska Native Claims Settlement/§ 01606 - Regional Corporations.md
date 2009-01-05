@@ -2,7 +2,7 @@
 
 #### (a) Division of Alaska into twelve geographic regions; common heritage and common interest of region; area of region commensurate with operations of Native association; boundary disputes, arbitration
 
-For purposes of this chapter, the State of Alaska shall be divided by the Secretary within one year after December 18, 1971, into twelve geographic regions, with each region composed as far as practicable of Natives having a common heritage and sharing common interests. In the absence of good cause shown to the contrary, such regions shall approximate the areas covered by the operations of the following existing Native associations:
+For purposes of this chapter, the State of Alaska shall be divided by the Secretary withinone year after December 18, 1971, into twelve geographic regions, with each region composed as far as practicable of Natives having a common heritage and sharing common interests. In the absence of good cause shown to the contrary, such regions shall approximate the areas covered by the operations of the following existing Native associations:
 
 &emsp;(1) Arctic Slope Native Association (Barrow, Point Hope);
 
@@ -10,7 +10,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 &emsp;(3) Northwest Alaska Native Association (Kotzebue);
 
-&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the LowerYukon River and the Lower Kuskokwim River);
+&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the Lower Yukon River and the Lower Kuskokwim River);
 
 &emsp;(5) Tanana Chiefs’ Conference (Koyukuk, Middle and Upper Yukon Rivers, Upper Kuskokwim, Tanana River);
 
@@ -64,11 +64,27 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(III) Natives who have attained the age of 65,
 
-> &emsp;for no consideration or for such consideration and upon such terms and conditions as may be specified in such amendment or in a resolution approved by the board of directors pursuant to authority expressly vested in the board by the amendment. The amendment to the articles of incorporation may specify which class of Settlement Common Stock shall be issued to the various groups of Natives.
+> &emsp;for no consideration or for such consideration and upon such terms and conditions as may be specified in such amendment or in a resolution approved by the board of directors pursuant toauthority expressly vested in the board by the amendment. The amendment to the articles of incorporation may specify which class of Settlement Common Stock shall be issued to the various groups of Natives.
 
 &emsp;(ii) Not more than one hundred shares of Settlement Common Stock shall be issued to any one individual pursuant to clause (i).
 
-&emsp;(iii) The amendment authorized by clause (i) may provide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock.
+&emsp;(iii)
+
+Conditions on certain stock.—
+
+&emsp;&emsp;(I)
+
+In general.—An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchange for that Settlement Common Stock pursuant to subsection (h)(3) or section 1626(c)(3)(D) of this title) shall be subject to 1 or more of the conditions described in subclause (II).
+
+&emsp;&emsp;(II)
+
+Conditions.—A condition referred to in subclause (I) is a condition that—
+
+&emsp;&emsp;&emsp;(aa) the stock described in that subclause shall be deemed to be canceled on the death of the Native to whom the stock is issued, and no compensation for the cancellation shall be paid to the estate of the deceased Native or any person holding the stock;
+
+&emsp;&emsp;&emsp;(bb) the stock shall carry limited or no voting rights; and
+
+&emsp;&emsp;&emsp;(cc) the stock shall not be transferred by gift under subsection (h)(1)(C)(iii).
 
 &emsp;(iv) Settlement Common Stock issued pursuant to clause (i) shall not carry rights to share in distributions made to shareholders pursuant to subsections (j) and (m) of this section unless, prior to the issuance of such stock, a majority of the class of existing holders of Settlement Common Stock carrying such rights separately approve the granting of such rights. The articles of incorporation of the Regional Corporation shall be deemed to be amended to authorize such class vote.
 
@@ -136,7 +152,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(B)(i) If the board of directors of a Regional Corporation intends to propose an amendment pursuant to paragraph (2) which would authorize the issuance of classes or series of stock that, singly or in combination, could cause the outstanding shares of Settlement Common Stock to represent less than a majority of the total voting power of the corporation for the purposes of electing directors, the shareholders of such corporation shall be expressly so informed.
 
-&emsp;(ii) Such information shall be transmitted to the shareholders in a separate disclosure statement or in another informational document in writing or in recorded sound form both in English and any Native language used by a shareholder of such corporation. Such statement or informational document shall betransmitted to the shareholders at least sixty days prior to the date on which such proposal is to be submitted for a vote.
+&emsp;(ii) Such information shall be transmitted to the shareholders in a separate disclosure statement or in another informational document in writing or in recorded sound form both in English and any Native language used by a shareholder of such corporation. Such statement or informational document shall be transmitted to the shareholders at least sixty days prior to the date on which such proposal is to be submitted for a vote.
 
 &emsp;(iii) If not later than thirty days after issuance of such disclosure statement or informational document the board of directors receives a prepared concise statement setting forth arguments in opposition to the proposed amendment together with a request for distribution thereof signed by the holders of at least 10 per centum of the outstanding shares of Settlement Common Stock, the board shall either distribute such statement to the shareholders or provide to the requesting shareholders a list of all shareholder's names and addresses so that the requesting shareholders may distribute such statement.
 
@@ -194,7 +210,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;(A) Upon the death of a holder of Settlement Common Stock, ownership of such stock (unless canceled in accordance with subsection (g)(1)(B)(iii) of this section) shall be transferred in accordance with the lawful will of such holder or pursuant to applicable laws of intestate succession. If the holder fails to dispose of his or her stock by will and has no heirs under applicable laws of intestate succession, the stock shall escheat to the issuing Regional Corporation and be canceled.
 
-&emsp;(B) The issuing Regional Corporation shall have the right to purchase at fair value Settlement Common Stock transferred pursuant to applicable laws of intestate succession to a person not a Native or a descendant of a Native after February 3, 1988, if—
+&emsp;(B) The issuing Regional Corporation shall have the right to purchase at fair value Settlement Common Stock transferred pursuant toapplicable laws of intestate succession to a person not a Native or a descendant of a Native after February 3, 1988, if—
 
 &emsp;&emsp;(i) the corporation—
 
@@ -312,7 +328,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 (1)(A) Except as provided by subparagraph (B), 70 percent of all revenues received by each Regional Corporation from the timber resources and subsurface estate patented to it pursuant to this chapter shall be divided annually by the Regional Corporation among all twelve Regional Corporations organized pursuant to this section according to the number of Natives enrolled in each region pursuant to section 1604 of this title. The provisions of this subsection shall not apply to the thirteenth Regional Corporation if organized pursuant to subsection (c) hereof.
 
-(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed toalter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
+(B) In the case of the sale, disposition, or other use of common varieties of sand, gravel, stone, pumice, peat, clay, or cinder resources made during a fiscal year ending after October 31, 1998, the revenues received by a Regional Corporation shall not be subject to division under subparagraph (A). Nothing in this subparagraph is intended to or shall be construed to alter the ownership of such sand, gravel, stone, pumice, peat, clay, or cinder resources.
 
 (2) For purposes of this subsection, the term “revenues” does not include any benefit received or realized for the use of losses incurred or credits earned by a Regional Corporation.
 
@@ -352,9 +368,11 @@ Two or more Regional Corporations may contract with the same business management
 
 The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders’ immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
 
-(Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242.)
+(Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242; Pub. L. 110–453, title II, §206, Dec. 2, 2008, 122 Stat. 5030.)
 
 #### Amendments
+
+2008—Subsec. (g)(1)(B)(iii). Pub. L. 110–453 added cl. (iii) and struck out former cl. (iii) which read as follows: “The amendment authorized by clause (i) may provide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock.”
 
 2000—Subsec. (h)(1)(C)(iii). Pub. L. 106–194 inserted before period at end “, notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient”.
 

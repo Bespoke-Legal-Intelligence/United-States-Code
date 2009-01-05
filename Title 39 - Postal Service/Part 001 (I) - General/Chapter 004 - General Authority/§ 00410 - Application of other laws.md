@@ -62,7 +62,7 @@ Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 
 
 Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of Title 20 and Tables.
 
-The Walsh-Healey Act, referred to in subsec. (b)(5)(A), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
+The Walsh-Healey Act, referred to in subsec. (b)(5)(A), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
 The Service Contract Act of 1965, referred to in subsec. (b)(5)(B), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub.
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5 of Pub. L. 95–452 (Inspector General Act of 1978) in the Appendix to Title 5, Government Organization and Employees.
+Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set outas a note under section 5 of Pub. L. 95–452 (Inspector General Act of 1978) in the Appendix to Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 100–496 applicable with respect to all obligations incurred on or after Jan. 1, 1989, see section 14(c) of Pub. L. 100–496, set out as a note under section 3902 of Title 31, Money and Finance.
 

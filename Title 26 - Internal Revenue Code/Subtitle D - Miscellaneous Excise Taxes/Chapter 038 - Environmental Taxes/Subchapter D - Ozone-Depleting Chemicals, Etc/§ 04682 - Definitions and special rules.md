@@ -229,7 +229,7 @@ For purposes of this subchapter—
 
 #### (1) Fractional parts of a pound
 
-&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the samefraction of the amount of such tax imposed on a whole pound.
+&emsp;In the case of a fraction of a pound, the tax imposed by this subchapter shall be the same fraction of the amount of such tax imposed on a whole pound.
 
 #### (2) Disposition of revenues from Puerto Rico and the Virgin Islands
 
@@ -329,7 +329,7 @@ Subsec. (d)(3)(B)(i)(II). Pub. L. 101–508, §11701(g)(3), substituted “tax w
 
 Subsec. (d)(3)(B)(i)(III). Pub. L. 101–508, §11701(g)(4), added subcl. (III).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
+Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under thepreceding sentence shall be based on data published by the Environmental Protection Agency.”
 
 Subsec. (d)(3)(C). Pub. L. 101–508, §11203(b), added subpar. (C).
 

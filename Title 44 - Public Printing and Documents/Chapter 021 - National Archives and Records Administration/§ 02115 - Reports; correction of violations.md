@@ -2,7 +2,7 @@
 
 (a) In carrying out their respective duties and responsibilities under chapters 21, 25, 29, 31, and 33 of this title, the Archivist and the Administrator may each obtain reports from any Federal agency on such agency's activities under such chapters.
 
-(b) When either the Archivist or the Administrator finds that a provision of any such chapter has been or is being violated, the Archivist or the Administrator shall (1) inform in writing the head of the agency concerned of the violation and make recommendations for its correction; and (2) unless satisfactory corrective measures are inaugurated within a reasonable time, submit a written report of the matter to the President and the Congress.
+(b) When either the Archivist or the Administrator finds that a provision of any such chapter has been or is being violated, the Archivist or the Administrator shall (1) inform in writing the head of the agency concerned of the violationand make recommendations for its correction; and (2) unless satisfactory corrective measures are inaugurated within a reasonable time, submit a written report of the matter to the President and the Congress.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1290, §2111; Pub. L. 94–575, §4(b), Oct. 21, 1976, 90 Stat. 2727; renumbered §2115 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(8), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 

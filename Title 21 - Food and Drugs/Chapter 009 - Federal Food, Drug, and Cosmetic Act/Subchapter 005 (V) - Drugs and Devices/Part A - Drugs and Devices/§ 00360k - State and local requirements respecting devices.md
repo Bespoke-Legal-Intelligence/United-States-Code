@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b) of this section, no State or political subdivision of a State may establish or continue in effect with respect to a device intended for human use any requirement—
+Except as provided in subsection (b) of this section, no State or political subdivision of a State may establish or continue in effect withrespect to a device intended for human use any requirement—
 
 &emsp;(1) which is different from, or in addition to, any requirement applicable under this chapter to the device, and
 

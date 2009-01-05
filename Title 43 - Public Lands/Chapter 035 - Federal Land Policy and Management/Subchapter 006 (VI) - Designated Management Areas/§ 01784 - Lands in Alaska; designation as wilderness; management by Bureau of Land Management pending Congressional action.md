@@ -28,7 +28,7 @@ Findings and Purpose.—
 
 Findings.—The Congress finds the following:
 
-&emsp;&emsp;“(A) The United States Fish and Wildlife Service and Kenai Natives Association, Inc., have agreed totransfers of certain land rights, in and near the Kenai National Wildlife Refuge, negotiated as directed by Public Law 102–458 \[106 Stat. 2267\].
+&emsp;&emsp;“(A) The United States Fish and Wildlife Service and Kenai Natives Association, Inc., have agreed to transfers of certain land rights, in and near the Kenai National Wildlife Refuge, negotiated as directed by Public Law 102–458 \[106 Stat. 2267\].
 
 &emsp;&emsp;“(B) The lands to be acquired by the Service are within the area impacted by the Exxon Valdez oil spill of 1989, and these lands included important habitat for various species of fish and wildlife for which significant injury resulting from the spill has been documented through the EVOS Trustee Council restoration process. This analysis has indicated that these lands generally have value for the restoration of such injured natural resources as pink salmon, dolly varden, bald eagles, river otters, and cultural and archaeological resources. This analysis has also indicated that these lands generally have high value for the restoration of injured species that rely on these natural resources, including wilderness quality, recreation, tourism, and subsistence.
 
@@ -116,7 +116,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;“(II) The right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate.
 
-&emsp;&emsp;&emsp;“(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, andother development of the surface estate on the SW1/4, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
+&emsp;&emsp;&emsp;“(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW1/4, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
 &emsp;&emsp;&emsp;“(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 

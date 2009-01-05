@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to enable all students to reach or exceed grade-level academicachievement standards and to prepare the students to enroll in and pass algebra courses by—
+The purpose of this section is to enable all students to reach or exceed grade-level academic achievement standards and to prepare the students to enroll in and pass algebra courses by—
 
 &emsp;(1) improving instruction in mathematics for students in kindergarten through grade 9 through the implementation of mathematics programs and the support of comprehensive mathematics initiatives that are research-based and reflect a demonstrated record of effectiveness; and
 
@@ -178,7 +178,7 @@ In this section, the term “eligible local educational agency” means a high-n
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this subchapter shall be construed to authorize or permit the Department of Education, or a Department of Education contractor, to mandate, direct, control, or suggest the selection of a mathematics curriculum, supplemental instructional materials, or program of instruction by a State, local educational agency, or school.
+&emsp;Nothing in this subchapter shall be construed to authorize or permit the Departmentof Education, or a Department of Education contractor, to mandate, direct, control, or suggest the selection of a mathematics curriculum, supplemental instructional materials, or program of instruction by a State, local educational agency, or school.
 
 #### (h) Matching requirements
 

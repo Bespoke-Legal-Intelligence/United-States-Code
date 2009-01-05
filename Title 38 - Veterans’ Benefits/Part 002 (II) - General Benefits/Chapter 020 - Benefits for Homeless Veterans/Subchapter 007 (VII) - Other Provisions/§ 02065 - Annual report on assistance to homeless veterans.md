@@ -18,7 +18,7 @@ General Contents of Report.—Each report under subsection (a) shall include the
 
 &emsp;&emsp;(B) programs combining outreach, community-based residential treatment, and case-management; and
 
-&emsp;&emsp;(C) contract care programs for alcohol and drug-dependence or use disabilities).<sup>1</sup>
+&emsp;&emsp;(C) contract care programs for alcohol and drug-dependence or use disabilities.
 
 &emsp;(4) The Secretary's evaluation of the effectiveness of programs established by recipients of grants under section 2011 of this title and a description of the experience of those recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
 
@@ -72,13 +72,13 @@ Benefits Content of Report.—Each report under subsection (a) shall include, wi
 
 &emsp;(4) Other information that the Secretary considers relevant in assessing the programs and activities.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, §405(b), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–461, title VII, §708, Dec. 22, 2006, 120 Stat. 3440.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, §405(b), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–461, title VII, §708, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 110–387, title IX, §901(a)(2), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### Amendments
+
+2008—Subsec. (b)(3)(C). Pub. L. 110–387 struck out closing parenthesis after “disabilities”.
 
 2006—Subsec. (b)(5), (6). Pub. L. 109–461 added par. (5) and redesignated former par. (5) as (6).
 
 2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
-
-<i><sup>1</sup></i><i> So in original. There is no opening parenthesis.</i>
 

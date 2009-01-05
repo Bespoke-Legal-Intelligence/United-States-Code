@@ -60,7 +60,7 @@
 
 &emsp;(2) after any reduction required by paragraph (1), the period of extension shall include only one-half of the time remaining in the periods described in paragraphs (1)(B)(i), (2)(B)(i), (3)(B)(i), (4)(B)(i), and (5)(B)(i) of subsection (g);
 
-&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall be reduced so that the total of both such periods does not exceed fourteen years; and
+&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of lawunder which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall be reduced so that the total of both such periods does not exceed fourteen years; and
 
 &emsp;(4) in no event shall more than one patent be extended under subsection (e)(1) for the same regulatory review period for any product.
 
@@ -68,7 +68,7 @@
 
 &emsp;(A) the identity of the approved product and the Federal statute under which regulatory review occurred;
 
-&emsp;(B) the identity of the patent for which an extension is being sought and the identity ofeach claim of such patent which claims the approved product or a method of using or manufacturing the approved product;
+&emsp;(B) the identity of the patent for which an extension is being sought and the identity of each claim of such patent which claims the approved product or a method of using or manufacturing the approved product;
 
 &emsp;(C) information to enable the Director to determine under subsections (a) and (b) the eligibility of a patent for extension and the rights that will be derived from the extension and information to enable the Director and the Secretary of Health and Human Services or the Secretary of Agriculture to determine the period of the extension under subsection (g);
 
@@ -92,7 +92,7 @@
 
 (4) An application for the extension of the term of a patent is subject to the disclosure requirements prescribed by the Director.
 
-(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, and ending 15 days, before such term is due to expire. The application shall contain—
+(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term ineffect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, and ending 15 days, before such term is due to expire. The application shall contain—
 
 &emsp;(i) the identity of the product subject to regulatory review and the Federal statute under which such review is occurring;
 
@@ -144,7 +144,7 @@
 
 > &emsp;including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.
 
-&emsp;(3) The term “major health or environmental effects test” means a test which is reasonably related to the evaluation of the health or environmental effects of a product, which requires at least six months to conduct, and the data from which is submitted to receive permission for commercial marketing or use. Periods of analysis or evaluation of test results are not to be included in determining if the conduct of a test required at least six months.
+&emsp;(3) The term “major health or environmental effects test” means a test which is reasonably related to the evaluation of the health or environmental effects of a product, which requires at least six months to conduct, and the data from which is submitted to receive permission for commercial marketing or use. Periods of analysis or evaluation of test results are not to be included in determining ifthe conduct of a test required at least six months.
 
 &emsp;(4)(A) Any reference to section 351 is a reference to section 351 of the Public Health Service Act.
 
@@ -158,7 +158,7 @@
 
 &emsp;(7) The term “date of enactment” as used in this section means September 24, 1984, for a human drug product, a medical device, food additive, or color additive.
 
-&emsp;(8) The term “date of enactment” as used in this section means the date of enactment ofthe Generic Animal Drug and Patent Term Restoration Act for an animal drug or a veterinary biological product.
+&emsp;(8) The term “date of enactment” as used in this section means the date of enactment of the Generic Animal Drug and Patent Term Restoration Act for an animal drug or a veterinary biological product.
 
 (g) For purposes of this section, the term “regulatory review period” has the following meanings:
 
@@ -328,7 +328,7 @@ Subsec. (g)(6)(C). Pub. L. 100–670, §201(h)(5)(C), inserted “or in the case
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4404\] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4404\] of Pub. L. 106–113 effective on date that is 6 months afterNov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) \[title IV, §4405(a)\] of Pub. L. 106–113, set out as a note under section 154 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

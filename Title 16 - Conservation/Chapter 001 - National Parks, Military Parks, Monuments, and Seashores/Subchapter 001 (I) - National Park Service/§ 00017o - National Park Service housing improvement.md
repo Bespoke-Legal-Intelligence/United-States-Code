@@ -20,7 +20,7 @@ To enhance the ability of the Secretary of the Interior (hereafter in this secti
 
 #### (3) Review and revision of housing criteria
 
-On November 12, 1996, the Secretary shall review and revise the existing criteria under which housing is provided to employees of the National Park Service. Specifically, the Secretary shall examine the existing criteria with respect to what circumstances the National Park Service requires an employee to occupy Government quarters to provide necessary services, protect Government property, or because of a lack of availability of non-Federal housing in the geographic area.
+On November 12, 1996, the Secretary shall review and revise the existing criteria underwhich housing is provided to employees of the National Park Service. Specifically, the Secretary shall examine the existing criteria with respect to what circumstances the National Park Service requires an employee to occupy Government quarters to provide necessary services, protect Government property, or because of a lack of availability of non-Federal housing in the geographic area.
 
 #### (4) Submission of report
 
@@ -56,7 +56,7 @@ For those units of the National Park System for which the review required by par
 
 &emsp;&emsp;(ii) shall require that the construction and rehabilitation of field employee quarters be done in accordance with the requirements of the National Park Service and local applicable building codes and industry standards;
 
-&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits onrents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
+&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits on rents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
 
 &emsp;&emsp;(iv) may be granted at less than fair market value if the Secretary determines that such lease will improve the quality and availability of field employee quarters available.
 
@@ -138,7 +138,7 @@ The President's proposed budget to Congress for the first fiscal year beginning 
 
 #### (15) Study of housing allowances
 
-Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to theOffice of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to the Office of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 #### (16) Study of sale of employee housing
 

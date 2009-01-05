@@ -24,7 +24,7 @@ In awarding grants under this section, the Secretary shall use a peer review pro
 
 #### (d) Supplement not supplant
 
-Funds made available under this section shall be used to supplement, and not supplant, other State or local funds used for developing State data systems.
+Funds made available under this section shall be used to supplement, and not supplant, otherState or local funds used for developing State data systems.
 
 #### (e) Report
 
@@ -32,7 +32,7 @@ Not later than 1 year after November 5, 2002, and again 3 years after such date,
 
 &emsp;(1) identifying and analyzing State practices regarding the development and use of statewide, longitudinal data systems;
 
-&emsp;(2) evaluating the ability of such systems to manage individual student data consistentwith the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), promote linkages across States, and protect student privacy consistent with section 9573 of this title; and
+&emsp;(2) evaluating the ability of such systems to manage individual student data consistent with the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), promote linkages across States, and protect student privacy consistent with section 9573 of this title; and
 
 &emsp;(3) identifying best practices and areas for improvement.
 

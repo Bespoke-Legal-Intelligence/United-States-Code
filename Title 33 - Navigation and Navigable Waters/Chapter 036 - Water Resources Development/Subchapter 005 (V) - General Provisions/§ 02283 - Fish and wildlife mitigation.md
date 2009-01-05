@@ -2,7 +2,7 @@
 
 #### (a) Steps to be taken prior to or concurrently with construction
 
-(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
+(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, includingthe acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
 
 &emsp;(A) shall be undertaken or acquired before any construction of the project (other than such acquisition) commences, or
 
@@ -26,7 +26,7 @@
 
 #### (c) Allocation of mitigation costs
 
-Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federalinterests or until such contracts are complied with or renegotiated.
+Costs incurred after November 17, 1986, including lands, easements, rights-of-way, and relocations, for implementation and operation, maintenance, and rehabilitation to mitigate damages to fish and wildlife shall be allocated among authorized project purposes in accordance with applicable cost allocation procedures, and shall be subject to cost sharing or reimbursement to the same extent as such other project costs are shared or reimbursed, except that when such costs are covered by contracts entered into prior to November 17, 1986, such costs shall not be recovered without the consent of the non-Federal interests or until such contracts are complied with or renegotiated.
 
 #### (d) Mitigation plans as part of project proposals
 
@@ -58,7 +58,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 &emsp;&emsp;&emsp;&emsp;(I) the types and amount of restoration activities to be conducted;
 
-&emsp;&emsp;&emsp;&emsp;(II) the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation for undertaking the mitigation outside the watershed; and
+&emsp;&emsp;&emsp;&emsp;(II) the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation forundertaking the mitigation outside the watershed; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the functions and values that will result from the mitigation plan; and
 
@@ -124,7 +124,7 @@ The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 1
 
 #### Amendments
 
-2007—Subsec. (d)(1). Pub. L. 110–114, §2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
+2007—Subsec. (d)(1). Pub. L. 110–114, §2036(a)(1), (2), substituted “to Congress in any report, and shall notselect a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
 
 Subsec. (d)(3) to (5). Pub. L. 110–114, §2036(a)(3), added pars. (3) to (5).
 

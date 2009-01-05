@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1)by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
+&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
 
 #### (B) Determination of amount contributed
 
@@ -104,7 +104,7 @@
 
 #### (iii) Waiver of requirement
 
-&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretary determines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
+&emsp;&emsp;&emsp;A grant may exceed the maximum amount in clause (i) or (ii) if the Secretarydetermines that the geographical area covered by a political subdivision or consortium awarded a grant under paragraph (1) has an extreme need due to the size or density of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the human population in such geographical area; or
 

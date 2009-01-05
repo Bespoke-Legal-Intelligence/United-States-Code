@@ -94,7 +94,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 #### (2) Health benefits
 
-&emsp;For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provides health benefits shall not be treated as discriminatory if—
+&emsp;For purposes of subparagraph (B) of subsection (b)(1), a cafeteria plan which provideshealth benefits shall not be treated as discriminatory if—
 
 &emsp;&emsp;(A) contributions under the plan on behalf of each participant include an amount which—
 
@@ -120,15 +120,29 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 &emsp;All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.
 
-#### (h) Cross reference
+#### (h) Special rule for unused benefits in health flexible spending arrangements of individuals called to active duty
+
+#### (1) In general
+
+&emsp;For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement merely because such arrangement provides for qualified reservist distributions.
+
+#### (2) Qualified reservist distribution
+
+&emsp;For purposes of this subsection, the term “qualified reservist distribution” means,<sup>2</sup> any distribution to an individual of all or a portion of the balance in the employee's account under such arrangement if—
+
+&emsp;&emsp;(A) such individual was (by reason of being a member of a reserve component (as defined in section 101 of title 37, United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
+
+&emsp;&emsp;(B) such distribution is made during the period beginning on the date of such order or call and ending on the last date that reimbursements could otherwise be made under such arrangement for the plan year which includes the date of such order or call.
+
+#### (i) Cross reference
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-#### (i) Regulations
+#### (j) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636.)
 
 #### Codification
 
@@ -140,13 +154,15 @@ A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
 
+2008—Subsecs. (h) to (j). Pub. L. 110–245 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+
 2007—Subsec. (b)(2). Pub. L. 110–172 substituted “second sentence” for “last sentence”.
 
 2004—Subsec. (e)(1)(D). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 2003—Subsec. (d)(2)(D). Pub. L. 108–173, which directed the amendment of section 125(d)(2) by adding subpar. (D), was executed to this section, which is section 125(d)(2) of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1996—Subsec. (f). Pub. L. 104–191, §321(c)(1), inserted at end “Such term shall not include any product which is advertised, marketed, or offered as long-term care insurance.”
+1996—Subsec. (f). Pub. L. 104–191, §321(c)(1), inserted at end “Such term shall not include any product whichis advertised, marketed, or offered as long-term care insurance.”
 
 Pub. L. 104–191, §301(d), inserted “106(b),” before “117”.
 
@@ -216,13 +232,17 @@ Subsec. (g)(3)(B). Pub. L. 96–222 substituted “employment requirement” for
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting “controlled groups, etc.” for “controlled groups” in heading, and by substituting “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414” in text.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–245, title I, §114(b), June 17, 2008, 122 Stat. 1636, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[June 17, 2008\].”
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 ofPub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -290,7 +310,7 @@ Section 531(b)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVI
 
 “(A)
 
-General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
+General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentenceshall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
 
 &emsp;“(i) January 1, 1985, or
 
@@ -298,7 +318,7 @@ General transitional rule.—Any cafeteria plan in existence on February 10, 198
 
 “(B)
 
-Special transition rule for advance election benefit banks.—Any benefit offered under a cafeteriaplan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations because an employee was assured of receiving (in cash or any other benefit) amounts available but unused for covered reimbursement during the year without regard to whether he incurred covered expenses, will not fail to be a nontaxable benefit under such applicable section solely because of such failure. The preceding sentence shall apply only with respect to benefits provided under cafeteria plans before the earlier of—
+Special transition rule for advance election benefit banks.—Any benefit offered under a cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations because an employee was assured of receiving (in cash or any other benefit) amounts available but unused for covered reimbursement during the year without regard to whether he incurred covered expenses, will not fail to be a nontaxable benefit under such applicable section solely because of such failure. The preceding sentence shall apply only with respect to benefits provided under cafeteria plans before the earlier of—
 
 &emsp;“(i) July 1, 1985, or
 
@@ -319,4 +339,6 @@ Collective bargaining agreements.—In the case of any cafeteria plan in existen
 Special rule where contributions or reimbursements suspended.—For purposes of subparagraphs (A) and (B), a plan shall not be treated as not continuing to fail to satisfy the rules referred to in such subparagraphs with respect to any benefit provided in the form of a flexible spending arrangement merely because contributions or reimbursements (or both) with respect to such plan were suspended before January 1, 1985.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

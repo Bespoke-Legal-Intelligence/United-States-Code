@@ -4,7 +4,7 @@
 
 Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
 
-(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
+(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armedforces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
 (b)
 
@@ -194,7 +194,7 @@ Secretary of Defense Decision.—If the Secretary of Defense determines under su
 
 “(d)
 
-Reports.—(1) If the Secretary of Defense determines under subsection (b) that the screening methodsand process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
+Reports.—(1) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
 
 “(2) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should be implemented on a test basis, the Secretary of the Army shall submit to the committees specified in paragraph (1) a report on the results of the testing. The report shall be submitted not later than March 31, 2009, except that if the Secretary of Defense directs an earlier termination of the testing initiative, the Secretary of the Army shall submit the report under this paragraph not later than 180 days after such termination. Such report shall include the determination of the Secretary of Defense under subsection (c). If that determination is that the methods and processes tested should not be extended to the other services, the report shall include the Secretary's rationale for not recommending such extension.”
 
@@ -280,7 +280,7 @@ Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot pr
 
 “(d)
 
-Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army's contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies toapply the initiatives in efforts to recruit personnel for the Army.
+Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army's contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies to apply the initiatives in efforts to recruit personnel for the Army.
 
 “(2) Under the pilot program, the Secretary shall provide for the following:
 
@@ -312,7 +312,7 @@ Reports.—Not later than February 1, 2008, the Secretary of the Army shall subm
 
 #### Pilot Program To Enhance Military Recruiting by Improving Military Awareness of School Counselors and Educators
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters by local educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
+Pub. L. 106–398, §1 \[\[div. A\], title V, §564\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, as amended by Pub. L. 109–364, div. A, title X, §1046(d), Oct. 17, 2006, 120 Stat. 2394, directed the Secretary of Defense to conduct a three-year pilot program in a qualifying interactive Internet site beginning not later than 180 days after Oct. 30, 2000, to determine if cooperation with military recruiters bylocal educational agencies and by institutions of higher education could be enhanced by improving the understanding of school counselors and educators about military recruiting and military career opportunities.
 
 #### Measures To Improve Recruit Quality and Reduce Recruit Attrition
 
@@ -384,7 +384,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or theDepartment of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 

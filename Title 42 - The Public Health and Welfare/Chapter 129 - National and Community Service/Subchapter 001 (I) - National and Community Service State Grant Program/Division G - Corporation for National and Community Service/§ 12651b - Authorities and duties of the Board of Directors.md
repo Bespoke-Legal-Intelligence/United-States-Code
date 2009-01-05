@@ -30,7 +30,7 @@ For purposes of the provisions of chapter 11 of part I of title 18, and any othe
 
 #### (1) Tort claims
 
-&emsp;For the purposes of the tort claims provisions of chapter 171 of title 28, a member of the Board shall be considered to be a Federal employee.
+&emsp;For the purposes of the tort claims provisions of chapter 171 of title 28, a member of theBoard shall be considered to be a Federal employee.
 
 #### (2) Other claims
 

@@ -80,7 +80,7 @@ The Under Secretary for Management shall—
 
 &emsp;(2) enter into an annual performance agreement with the Secretary that shall set forth measurable individual and organizational goals; and
 
-&emsp;(3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
+&emsp;(3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has madesatisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 
 (Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548.)
 

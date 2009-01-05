@@ -14,7 +14,7 @@
 
 &emsp;(F) such other information as the Commission may require to determine whether the applicant is qualified for registration.
 
-(2) Each registration under this section shall expire on the 30th day of June of each year, or at such other time, not less than one year from the effective date thereof, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor subject to the same requirements as in the case of an original application.
+(2) Each registration under this section shall expire on the 30th day of June of each year, orat such other time, not less than one year from the effective date thereof, as the Commission may by rule, regulation, or order prescribe, and shall be renewed upon application therefor subject to the same requirements as in the case of an original application.
 
 (3)(A) Every commodity trading advisor and commodity pool operator registered under this chapter shall maintain books and records and file such reports in such form and manner as may be prescribed by the Commission. All such books and records shall be kept for a period of at least three years, or longer if the Commission so directs, and shall be open to inspection by any representative of the Commission or the Department of Justice. Upon the request of the Commission, a registered commodity trading advisor or commodity pool operator shall furnish the name and address of each client, subscriber, or participant, and submit samples or copies of all reports, letters, circulars, memorandums, publications, writings, or other literature or advice distributed to clients, subscribers, or participants, or prospective clients, subscribers, or participants.
 

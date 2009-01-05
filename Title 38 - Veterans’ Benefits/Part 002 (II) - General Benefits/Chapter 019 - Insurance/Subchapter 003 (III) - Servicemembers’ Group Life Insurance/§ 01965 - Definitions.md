@@ -46,7 +46,7 @@ For the purpose of this subchapter—
 
 &emsp;(8) The term “child” means a legitimate child, a legally adopted child, an illegitimate child as to the mother, or an illegitimate child as to the alleged father, only if (A) he acknowledged the child in writing signed by him; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been, before his death, judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the insured was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the insured was named as the father of the child.
 
-&emsp;(9) The term “parent” means a father of a legitimate child, mother of a legitimate child, father through adoption, mother through adoption, mother of an illegitimate child, and father of an illegitimate child but only if (A) he acknowledged paternity of the child in writing signed by him before the child's death; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the claimant was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the claimant was named as father of the child. No person who abandoned or willfully failed to support a child during the child's minority, or consented to the child's adoption may be recognized as a parent for the purpose of this subchapter. However, the immediately preceding sentence shall not be applied so as to require duplicate payments in any case in which insurance benefits have been paid prior to receipt in the administrative office established under subsection 1966(b) of this title of sufficient evidence to clearly establish that the person so paid could not qualify as a parent solely by reason of such sentence.
+&emsp;(9) The term “parent” means a father of a legitimate child, mother of a legitimate child, father through adoption, mother through adoption, mother of an illegitimate child, and father of an illegitimate child but only if (A) he acknowledged paternity of the child in writing signed by him before the child's death; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the claimant was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the claimant was named as father of the child. No person who abandoned or willfully failed tosupport a child during the child's minority, or consented to the child's adoption may be recognized as a parent for the purpose of this subchapter. However, the immediately preceding sentence shall not be applied so as to require duplicate payments in any case in which insurance benefits have been paid prior to receipt in the administrative office established under subsection 1966(b) of this title of sufficient evidence to clearly establish that the person so paid could not qualify as a parent solely by reason of such sentence.
 
 &emsp;(10) The term “insurable dependent”, with respect to a member, means the following:
 
@@ -54,7 +54,9 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) The member's child, as defined in the first sentence of section 101(4)(A) of this title.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, §4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1032(a)(1), May 11, 2005, 119 Stat. 257; Pub. L. 109–233, title V, §501(c)(1), June 15, 2006, 120 Stat. 415.)
+&emsp;&emsp;(C) The member's stillborn child.
+
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, §4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1032(a)(1), May 11, 2005, 119 Stat. 257; Pub. L. 109–233, title V, §501(c)(1), June 15, 2006, 120 Stat. 415; Pub. L. 110–389, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Chapter 67 of title 10 as in effect before the effective date of the Reserve Off
 Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated section 12304(j)(1) of title 10 by Pub. L. 109–364, div. A, title V, §522(b), Oct. 17, 2006, 120 Stat. 2192.
 
 #### Amendments
+
+2008—Par. (10)(C). Pub. L. 110–389 added subpar. (C).
 
 2006—Par. (11). Pub. L. 109–233 struck out par. (11) which read as follows: “The term ‘activities of daily living’ means the inability to independently perform 2 of the 6 following functions:
 
@@ -130,7 +134,7 @@ Amendment by Pub. L. 109–13 effective on the first day of the first month begi
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 daysafter June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

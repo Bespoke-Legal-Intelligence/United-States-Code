@@ -30,7 +30,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 &emsp;&emsp;&emsp;(ii) any related person to any last signatory operator described in clause (i), and
 
-&emsp;&emsp;(B) the common parent of the controlled group of corporations described in section 9704(j)(2)(B) is jointly and severally liable for the provision of health care under this section which, but for this paragraph, would be required to be provided by the last signatory operator or related person,
+&emsp;&emsp;(B) the common parent of the controlled group of corporations described in section 9704(j)(2)(B) is jointly and severally liable forthe provision of health care under this section which, but for this paragraph, would be required to be provided by the last signatory operator or related person,
 
 > &emsp;then, as of the date the security is provided, such common parent (and no other person) shall be liable for the provision of health care under this section which the last signatory operator or related person would otherwise be required to provide. Security may be provided under this paragraph without regard to whether a payment was made under section 9704(j).
 
@@ -52,7 +52,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (4) Refunds of security
 
-&emsp;The remaining amount of any security provided under this subsection (and earningsthereon) shall be refunded to the last signatory operator as of the earlier of—
+&emsp;The remaining amount of any security provided under this subsection (and earnings thereon) shall be refunded to the last signatory operator as of the earlier of—
 
 &emsp;&emsp;(A) the termination of the obligations of the last signatory operator under this section, or
 

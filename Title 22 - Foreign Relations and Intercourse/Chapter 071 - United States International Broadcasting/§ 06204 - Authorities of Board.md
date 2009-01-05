@@ -62,7 +62,7 @@ The Secretary of State and the Board, in carrying out their functions, shall res
 
 #### References in Text
 
-The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
@@ -72,7 +72,7 @@ The United States Information and Educational Exchange Act of 1948, referred to 
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 
-For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to insubsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(17), (18), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
 #### Codification
 
@@ -111,6 +111,10 @@ Pub. L. 105–277, §1323(f)(1), redesignated subsec. (d) as (e). See Codificati
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Buying Power Maintenance Account
+
+Pub. L. 110–252, title I, §1408(c), June 30, 2008, 122 Stat. 2342, provided that: “The Broadcasting Board of Governors may transfer funds into its Buying Power Maintenance Account, notwithstanding the requirement that such funds be provided in advance in appropriations Acts. The authority in this subsection may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.”
 
 #### Pilot Project for Transcription of Certain Programming Into English
 

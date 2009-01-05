@@ -24,7 +24,7 @@ Congress finds the following:
 
 #### Effective Date
 
-Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act \[enacting this chapter\] shall take effecton the date on which the President certifies to the Congress that—
+Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act \[enacting this chapter\] shall take effect on the date on which the President certifies to the Congress that—
 
 &emsp;“(1) an applicable waiver that has been granted by the World Trade Organization is in effect; or
 
@@ -32,7 +32,7 @@ Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: “This Act
 
 > This Act shall thereafter remain in effect during those periods in which, as certified by the President to the Congress, an applicable waiver or decision referred to in paragraph (1) or (2) is in effect.”
 
-\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31, 2006. A subsequent waiver was granted by the World Trade Organization on Dec. 15, 2006, effective from Jan. 1, 2007, through Dec. 31, 2012. See World Trade Organization General Council Decision of Dec. 15, 2006, Doc. No. WT/L/676, Dec. 19, 2006.\]
+\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31, 2006. On Oct. 8, 2009, the President certified to Congress that an applicable waiver granted by the World Trade Organization had been in effect since Jan. 1, 2003, and would remain in effect through Dec. 31, 2012. See H. Doc. 111–67, Cong. Rec., vol 155, p. H11143, Daily Issue, Oct. 8, 2009.\]
 
 #### Short Title
 

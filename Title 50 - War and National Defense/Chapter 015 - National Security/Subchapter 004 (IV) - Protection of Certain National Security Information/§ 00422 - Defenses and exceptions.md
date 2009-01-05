@@ -22,5 +22,5 @@ It shall not be an offense under section 421 of this title for an individual to 
 
 #### Amendments
 
-2002—Subsec. (c). Pub. L. 107–306 substituted “either congressional intelligence committee” for “the Select Committee on Intelligence of the Senate or to the Permanent Select Committee on Intelligence of the House of Representatives”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–306 substituted “either congressional intelligence committee” for “the Select Committee on Intelligence of the Senate or to the Permanent Select Committee on Intelligence of the House of Representatives”.
 

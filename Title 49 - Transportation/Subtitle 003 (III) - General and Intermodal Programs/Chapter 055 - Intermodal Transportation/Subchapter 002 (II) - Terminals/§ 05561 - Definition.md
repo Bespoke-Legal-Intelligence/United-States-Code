@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §4(i)(10); added Oct. 28, 1974, Pub. L. 93–496, §§6, 15, 88 Stat. 1530, 1533; Feb. 5, 1976, Pub. L. 94–210, §707(3), 90 Stat. 125; May 30, 1980, Pub. L. 96–254, §206(a), 94 Stat. 412.
 
-In this chapter, both sections 6 and 15 of the Amtrak Improvement Act (Public Law 93–496, 88 Stat. 1528, 1533) are listed as source credits for the addition of section 4(i) to the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). This is done to conform to theprobable intent of Congress as evidenced by the directory language of section 15 of the Act of October 28, 1974.
+In this chapter, both sections 6 and 15 of the Amtrak Improvement Act (Public Law 93–496, 88 Stat. 1528, 1533) are listed as source credits for the addition of section 4(i) to the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). This is done to conform to the probable intent of Congress as evidenced by the directory language of section 15 of the Act of October 28, 1974.
 
 In this section, the words “for community groups, convention visitors and others” are omitted as unnecessary.
 

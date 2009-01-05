@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -152,7 +152,7 @@ Reconciliation Required.—For each fiscal year, the Secretary of Defense shall 
 
 “(b)
 
-Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year.”
+Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Departmentof Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year.”
 
 #### Findings
 

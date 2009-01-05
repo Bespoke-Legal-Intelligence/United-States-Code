@@ -48,7 +48,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greaterthan the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; and
 
@@ -92,7 +92,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-1998—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+1998—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
 
 Subsec. (c)(5). Pub. L. 105–277, §2210(2), inserted “and” at end.
 

@@ -256,7 +256,7 @@ This chapter, referred to in subsecs. (a), (f), and (j), was in the original “
 
 The Securities Act of 1933, referred to in subsec. (f)(1)(G)(i)(I), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Agricultural Marketing Act, approved June 15, 1929, as amended, referred to in subsec. (g)(2)(E), is act June 15, 1929, ch. 24, 46 Stat. 11, as amended, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(f) of Title 12 and Tables.
+The Agricultural Marketing Act, approved June 15, 1929, as amended, referred to in subsec. (g)(2)(E), is act June 15, 1929, ch. 24, 46 Stat. 11, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(e) of Title 12 and Tables.
 
 The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 

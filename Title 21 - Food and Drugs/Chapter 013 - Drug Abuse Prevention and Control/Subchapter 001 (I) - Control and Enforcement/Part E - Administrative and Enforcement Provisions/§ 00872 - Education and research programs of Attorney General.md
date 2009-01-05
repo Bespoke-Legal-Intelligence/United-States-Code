@@ -80,7 +80,7 @@ Advanced mobile clandestine laboratory training teams.—A program of advanced m
 
 Basic clandestine laboratory certification training.—A program of basic clandestine laboratory certification training, which shall provide information and training—
 
-&emsp;&emsp;“(A) to Drug Enforcement Administration personnel and State and local law enforcement personnelfor purposes of enabling such personnel to meet any certification requirements under law with respect to the handling of wastes created by illegal amphetamine and methamphetamine laboratories; and
+&emsp;&emsp;“(A) to Drug Enforcement Administration personnel and State and local law enforcement personnel for purposes of enabling such personnel to meet any certification requirements under law with respect to the handling of wastes created by illegal amphetamine and methamphetamine laboratories; and
 
 &emsp;&emsp;“(B) to State and local law enforcement personnel for purposes of enabling such personnel to provide the information and training covered by subparagraph (A) to other State and local law enforcement personnel.
 

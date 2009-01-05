@@ -2,7 +2,7 @@
 
 (a) The Administrator of the Federal Emergency Management Agency, the Director of National Intelligence, and the National Security Council, acting through its Executive Secretary, are authorized to appoint such advisory committees and to employ, consistent with other provisions of this Act, such part-time advisory personnel as they may deem necessary in carrying out their respective functions and the functions of agencies under their control. Persons holding other offices or positions under the United States for which they receive compensation, while serving as members of such committees, shall receive no additional compensation for such service. Retired members of the uniformed services employed by the Director of National Intelligence who hold no other office or position under the United States for which they receive compensation, other members of such committees and other part-time advisory personnel so employed may serve without compensation or may receive compensation at a daily rate not to exceed the daily equivalent of the rate of pay in effect for grade GS–18 of the General Schedule established by section 5332 of title 5, as determined by the appointing authority.
 
-(b) Service of an individual as a member of any such advisory committee, or in any other part-time capacity for a department or agency hereunder, shall not be considered as service bringing such individual within the provisions of section 203, 205, or 207 of title 18, unless the act of such individual, which by such section is made unlawful when performed by an individual referred to in such section, is with respect to any particular matter which directly involves a department or agency which such person is advising or in which such department or agency is directly interested.
+(b) Service of an individual as a member of any such advisory committee, or in any other part-time capacity for a department or agency hereunder, shall not be considered as service bringing such individual within the provisions ofsection 203, 205, or 207 of title 18, unless the act of such individual, which by such section is made unlawful when performed by an individual referred to in such section, is with respect to any particular matter which directly involves a department or agency which such person is advising or in which such department or agency is directly interested.
 
 (July 26, 1947, ch. 343, title III, §303, 61 Stat. 507; Aug. 10, 1949, ch. 412, §10(c), 63 Stat. 585; Sept. 3, 1954, ch. 1263, §8, 68 Stat. 1228; Aug. 10, 1956, ch. 1041, §53(b), 68A Stat. 676, 684; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175; Ex. Ord. No. 12148, §§1–103, 4–102, July 20, 1979, 44 F.R. 43239; Pub. L. 97–89, title V, §504, Dec. 4, 1981, 95 Stat. 1153; Pub. L. 100–453, title V, §503, Sept. 29, 1988, 102 Stat. 1910; Pub. L. 108–458, title I, §1071(a)(1)(U), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
@@ -12,19 +12,19 @@ This Act, referred to in subsec. (a), means act July 26, 1947, ch. 343, 61 Stat.
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-1988—Subsec. (a). Pub. L. 100–453 substituted “Retired members of the uniformed services employed by the Director of Central Intelligence who hold no other office or position under the United States for which they receive compensation, other” for “Other” in last sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–453 substituted “Retired members of the uniformed services employed by the Director of Central Intelligence who hold no other office or position under the United States for which they receive compensation, other” for “Other” in last sentence.
 
-1981—Subsec. (a). Pub. L. 97–89, §504(a), substituted “at a daily rate not to exceed the daily equivalent of the rate of pay in effect for grade GS–18 of the General Schedule established by section 5332 of title 5” for “at a rate not to exceed $50 for each day of service”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–89, §504(a), substituted “at a daily rate not to exceed the daily equivalent of the rate of pay in effect for grade GS–18 of the General Schedule established by section 5332 of title 5” for “at a rate not to exceed $50 for each day of service”.
 
 Subsec. (b). Pub. L. 97–89, §504(b), substituted “section 203, 205, or 207 of title 18” for “section 281, 283, or 284 of title 18”.
 
-1956—Subsec. (a). Act Aug. 10, 1956, struck out “Secretary of Defense, the” after “The”.
+<b>1956</b>—Subsec. (a). Act Aug. 10, 1956, struck out “Secretary of Defense, the” after “The”.
 
-1954—Act Sept. 3, 1954, amended section generally, substituting the “Director of the Office of Defense Mobilization” for “Chairman of the National Security Resources Board” in subsec. (a), and substituting “sections 281, 283, or 284 of title 18” for “sections 198 or 203 of title 18 or section 119(e) of title 41”.
+<b>1954</b>—Act Sept. 3, 1954, amended section generally, substituting the “Director of the Office of Defense Mobilization” for “Chairman of the National Security Resources Board” in subsec. (a), and substituting “sections 281, 283, or 284 of title 18” for “sections 198 or 203 of title 18 or section 119(e) of title 41”.
 
-1949—Subsec. (a). Act Aug. 10, 1949, inserted reference to National Security Council, and increased per diem payable to consultants from $35 to $50.
+<b>1949</b>—Subsec. (a). Act Aug. 10, 1949, inserted reference to National Security Council, and increased per diem payable to consultants from $35 to $50.
 
 #### Effective Date of 2004 Amendment
 

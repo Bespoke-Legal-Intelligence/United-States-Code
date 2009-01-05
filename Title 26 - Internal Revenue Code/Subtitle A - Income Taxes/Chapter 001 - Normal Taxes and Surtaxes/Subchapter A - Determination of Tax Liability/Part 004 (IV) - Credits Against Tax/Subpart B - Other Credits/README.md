@@ -8,10 +8,13 @@ Subpart B—Other Credits
 | [30A.](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md) | Puerto Rico economic activity credit. |
 | [30B.](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md) | Alternative motor vehicle credit. |
 | [30C.](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md) | Alternative fuel vehicle refueling property credit. |
+| [30D.](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md) | New qualified plug-in electric drive motor vehicles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–343, div. B, title II, §205(d)(4), Oct. 3, 2008, 122 Stat. 3839, added item 30D.
 
 2005—Pub. L. 109–135, title IV, §412(e), Dec. 21, 2005, 119 Stat. 2637, substituted “Alternative fuel vehicle refueling property credit” for “Clean-fuel vehicle refueling property credit” in item 30C.
 
@@ -41,3 +44,4 @@ Pub. L. 109–58, title XIII, §§1322(a)(3)(K), 1341(b)(5), 1342(b)(5), Aug. 8,
 - [&sect; 00030A - Puerto Rico economic activity credit](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md)
 - [&sect; 00030B - Alternative motor vehicle credit](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md)
 - [&sect; 00030C - Alternative fuel vehicle refueling property credit](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md)
+- [&sect; 00030D - New qualified plug-in electric drive motor vehicles](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md)

@@ -22,7 +22,7 @@ The Secretary shall provide the head of the Office with the resources and person
 
 #### (d) Report
 
-The Assistant Secretary of Energy for Environmental Management shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
+The Assistant Secretary of Energy for Environmental Management shall submit to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than November 29, 2000, a copy of the delegation of authority required by subsection (b)(3).
 
 #### (e) Report
 
@@ -44,19 +44,19 @@ Not later than 2 years after the commencement of operations of the Office, the S
 
 (3) In this subsection, the term “Tri-Party Agreement” means the Hanford Federal Facility Agreement and Consent Order entered into among the Department of Energy, the Environmental Protection Agency, and the State of Washington Department of Ecology.
 
-(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767.)
+(Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767.)
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136, §3141(g)(17)(D), substituted “November 29, 2000,” for “30 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001,”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(g)(17)(D), substituted “November 29, 2000,” for “30 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001,”.
 
-2001—Subsec. (f). Pub. L. 107–107 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
+<b>2001</b>—Subsec. (f). Pub. L. 107–107 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
 “(1) The Office shall terminate 5 years after the commencement of operations under this section unless the Secretary determines that termination on that date would disrupt effective management of the Hanford Tank Farm operations.
 
 “(2) The Secretary shall notify, in writing, the committees referred to in subsection (d) of a determination under paragraph (1).”
 
-2000—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)\], substituted “managing, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington” for “managing all aspects of the Tank Waste Remediation System (also referred to as the Hanford Tank Farm operations), including those portions under privatization contracts, of the Department of Energy at Hanford” in par. (2) and added par. (3).
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)\], substituted “managing, consistent with the policy direction established by the Department, all aspects of the River Protection Project, Richland, Washington” for “managing all aspects of the Tank Waste Remediation System (also referred to as the Hanford Tank Farm operations), including those portions under privatization contracts, of the Department of Energy at Hanford” in par. (2) and added par. (3).
 
 Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(c)\], substituted “head” for “manager” and “to carry out the responsibilities specified in subsection (b)(2)” for “to manage the tank waste privatization program at Hanford in an efficient and streamlined manner”.
 

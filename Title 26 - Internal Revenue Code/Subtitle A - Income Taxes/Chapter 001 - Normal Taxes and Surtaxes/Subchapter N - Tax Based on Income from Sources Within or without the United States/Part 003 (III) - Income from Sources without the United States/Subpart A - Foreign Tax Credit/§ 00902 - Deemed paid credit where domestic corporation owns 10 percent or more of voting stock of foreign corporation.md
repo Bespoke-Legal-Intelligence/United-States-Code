@@ -18,7 +18,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 &emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of another member of such group from which it receives dividends in any taxable year,
 
-> &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) if such foreign corporation were a domestic corporation.
+> &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) ifsuch foreign corporation were a domestic corporation.
 
 #### (2) Qualified group
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (7) Constructive ownership through partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actuallyowned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
 
 #### (8) Regulations
 
@@ -138,7 +138,7 @@ Subsec. (c)(3)(B). Pub. L. 105–34, §1113(a)(2)(A), inserted “or” at end o
 
 “(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
-“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percentor more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
+“(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
 Subsec. (c)(4)(B). Pub. L. 105–34, §1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 
@@ -228,7 +228,7 @@ Section 9(e) of Pub. L. 87–834 provided that: “The amendments made by this s
 
 &emsp;“(2) in respect of any distribution received by a domestic corporation before January 1, 1965, in a taxable year of such corporation beginning after December 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after December 31, 1962.
 
-> For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign subsidiary to which section 902(b) applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1963, to the extent that such distribution was paid out of the accumulated profits of such foreign subsidiary for a taxable year beginning before January 1, 1963.”
+> For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign subsidiary to which section 902(b) applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1963, to the extent that such distribution was paid outof the accumulated profits of such foreign subsidiary for a taxable year beginning before January 1, 1963.”
 
 #### Effective Date of 1960 Amendment
 

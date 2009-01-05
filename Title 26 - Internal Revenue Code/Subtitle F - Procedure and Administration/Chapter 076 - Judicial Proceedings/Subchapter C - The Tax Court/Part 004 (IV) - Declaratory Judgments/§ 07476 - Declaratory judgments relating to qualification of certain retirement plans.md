@@ -26,7 +26,7 @@ In a case of actual controversy involving—
 
 #### (3) Exhaustion of administrative remedies
 
-&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal Revenue Service. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
+&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal RevenueService. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
 
 #### (4) Plan put into effect
 
@@ -34,7 +34,7 @@ In a case of actual controversy involving—
 
 #### (5) Time for bringing action
 
-&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in the case of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-firstday after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
+&emsp;If the Secretary sends by certified or registered mail notice of his determination with respect to the qualification of the plan to the persons referred to in paragraph (1) (or, in the case of employees referred to in paragraph (1), to any individual designated under regulations prescribed by the Secretary as a representative of such employee), no proceeding may be initiated under this section by any person unless the pleading is filed before the ninety-first day after the day after such notice is mailed to such person (or to his designated representative, in the case of an employee).
 
 #### (c) Retirement plan
 

@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(ii) after January 1, 1996, if the vessel is 27 years old or older and has a single hull, or is 32 years old or older and has a double bottom or double sides;
 
-&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 26 years old or older and has a single hull, or is 31 years old or older and has a double bottom or double sides;
+&emsp;&emsp;(iii) after January 1, 1997, if the vessel is 26 years old or older and has a single hull, or is31 years old or older and has a double bottom or double sides;
 
 &emsp;&emsp;(iv) after January 1, 1998, if the vessel is 25 years old or older and has a single hull, or is 30 years old or older and has a double bottom or double sides;
 
@@ -102,7 +102,7 @@
 
 (d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
 
-(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and\(3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 (2)(A) The Secretary may waive the application of paragraph (1) to a tank vessel if—
 
@@ -164,7 +164,7 @@ Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Tank Vessels Over 5,000 Gross Tons To Comply Until January 1, 2015, With Environmentally Protective Structural and Operational Requirements
 

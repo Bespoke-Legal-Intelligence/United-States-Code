@@ -80,7 +80,7 @@ Competition Plans.—
 
 &emsp;(1)
 
-Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 andno grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
+Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
 
 &emsp;(2)
 
@@ -198,7 +198,7 @@ In subsection (e)(1), before clause (A), the words “under this subchapter” a
 
 In subsection (e)(2)(A), the word “mutual” is omitted as surplus.
 
-In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United StatesCode. The words “the date on which” are omitted as surplus.
+In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United States Code. The words “the date on which” are omitted as surplus.
 
 #### Amendments
 

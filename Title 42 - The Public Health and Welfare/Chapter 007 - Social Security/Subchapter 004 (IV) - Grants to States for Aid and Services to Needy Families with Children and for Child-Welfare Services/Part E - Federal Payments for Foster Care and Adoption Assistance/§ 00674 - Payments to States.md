@@ -4,15 +4,15 @@
 
 For each quarter beginning after September 30, 1980, each State which has a plan approved under this part shall be entitled to a payment equal to the sum of—
 
-&emsp;(1) an amount equal to the Federal medical assistance percentage (as defined in section 1396d(b) of this title) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions; plus
+&emsp;(1) an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as foster care maintenance payments under section 672 of this title for children in foster family homes or child-care institutions (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the “tribal FMAP”) if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
 
-&emsp;(2) an amount equal to the Federal medical assistance percentage (as defined in section 1396d(b) of this title) of the total amount expended during such quarter as adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements; plus
+&emsp;(2) an amount equal to the Federal medical assistance percentage (which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia) of the total amount expended during such quarter as adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements (or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the “tribal FMAP”) if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State); plus
 
 &emsp;(3) subject to section 672(i) of this title an amount equal to the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary for the provision of child placement services and for the proper and efficient administration of the State plan—
 
 &emsp;&emsp;(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision,
 
-&emsp;&emsp;(B) 75 percent of so much of such expenditures (including travel and per diem expenses) as are for the short-term training of current or prospective foster or adoptive parents and the members of the staff of State-licensed or State-approved child care institutions providing care to foster and adopted children receiving assistance under this part, in ways that increase the ability of such current or prospective parents, staff members, and institutions to provide support and assistance to foster and adopted children, whether incurred directly by the State or by contract,
+&emsp;&emsp;(B) 75 percent of so much of such expenditures (including travel and per diem expenses) as are for the short-term training of current or prospective foster or adoptive parents or relative guardians, the members of the staff of State-licensed or State-approved child care institutions providing care, or State-licensed or State-approved child welfare agencies providing services, to children receiving assistance under this part, and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts, in ways that increase the ability of such current or prospective parents, guardians, staff members, institutions, attorneys, and advocates to provide support and assistance to foster and adopted children and children living with relative guardians, whether incurred directly by the State or by contract,
 
 &emsp;&emsp;(C) 50 percent of so much of such expenditures as are for the planning, design, development, or installation of statewide mechanized data collection and information retrieval systems (including 50 percent of the full amount of expenditures for hardware components for such systems) but only to the extent that such systems—
 
@@ -22,7 +22,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(iii) to the extent practicable, have the capability of interfacing with, and retrieving information from, the State data collection system that collects information relating to the eligibility of individuals under part A of this subchapter (for the purposes of facilitating verification of eligibility of foster children); and
 
-&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration ofthe programs carried out under a State plan approved under part B of this subchapter or this part; and
+&emsp;&emsp;&emsp;(iv) are determined by the Secretary to be likely to provide more efficient, economical, and effective administration of the programs carried out under a State plan approved under part B of this subchapter or this part; and
 
 &emsp;&emsp;(D) 50 percent of so much of such expenditures as are for the operation of the statewide mechanized data collection and information retrieval systems referred to in subparagraph (C); and
 
@@ -36,7 +36,9 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 &emsp;&emsp;&emsp;(ii) the amount allotted to the State under section 677(c)(1) of this title for the fiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this paragraph for all prior quarters in the fiscal year; exceeds
 
-&emsp;&emsp;(B) the total amount of any penalties assessed against the State under section 677(e) of this title during the fiscal year in which the quarter occurs.
+&emsp;&emsp;(B) the total amount of any penalties assessed against the State under section 677(e) of this title during the fiscal year in which the quarter occurs; plus
+
+&emsp;(5) an amount equal to the percentage by which the expenditures referred to in paragraph (2) of this subsection are reimbursed of the total amount expended during such quarter as kinship guardianship assistance payments under section 673(d) of this title pursuant to kinship guardianship assistance agreements.
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States’ pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
@@ -62,7 +64,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (c) Automated data collection expenditures
 
-The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respect to foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
+The Secretary shall treat as necessary for the proper and efficient administration of the State plan all expenditures of a State necessary in order for the State to plan, design, develop, install, and operate data collection and information retrieval systems described in subsection (a)(3)(C) of this section, without regard to whether the systems may be used with respectto foster or adoptive children other than those on behalf of whom foster care maintenance payments or adoption assistance payments may be made under this part.
 
 #### (d) Reduction for violation of plan requirement
 
@@ -102,7 +104,11 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 &emsp;(B) 1/4 of 1 percent of the total amount so expended, in the case of the 2nd or any subsequent such 6-month period.
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151.)
+#### (g) Continued services under waiver
+
+For purposes of this part, after the termination of a demonstration project relating to guardianship conducted by a State under section 1320a–9 of this title, the expenditures of the State for the provision, to children who, as of September 30, 2008, were receiving assistance or services under the project, of the same assistance and services under the same terms and conditions that applied during the conduct of the project, are deemed to be expenditures under the State plan approved under this part.
+
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20,1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881; Pub. L. 109–171, title VII, §7403(b), Feb. 8, 2006, 120 Stat. 151; Pub. L. 110–275, title III, §302(a), July 15, 2008, 122 Stat. 2594; Pub. L. 110–351, title I, §101(c)(3), (d), title II, §203(a), title III, §301(c)(2), Oct. 7, 2008, 122 Stat. 3952, 3953, 3959, 3970.)
 
 #### References in Text
 
@@ -111,6 +117,18 @@ Parts A and B of this subchapter, referred to in subsec. (a)(3)(C)(iii), (iv), a
 The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(1), (2). Pub. L. 110–351, §301(c)(2), inserted “(or, with respect to such payments made during such quarter under a cooperative agreement or contract entered into by the State and an Indian tribe, tribal organization, or tribal consortium for the administration or payment of funds under this part, an amount equal to the Federal medical assistance percentage that would apply under section 679c(d) of this title (in this paragraph referred to as the ‘tribal FMAP’) if such Indian tribe, tribal organization, or tribal consortium made such payments under a program operated under that section, unless the tribal FMAP is less than the Federal medical assistance percentage that applies to the State)” before semicolon.
+
+Pub. L. 110–275 substituted “(which shall be as defined in section 1396d(b) of this title, in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)” for “(as defined in section 1396d(b) of this title)”.
+
+Subsec. (a)(3)(B). Pub. L. 110–351, §203(a), inserted “or relative guardians” after “adoptive parents”, substituted “, the members” for “and the members”, inserted “, or State-licensed or State-approved child welfare agencies providing services,” after “providing care”, struck out “foster and adopted” before “children receiving assistance”, inserted “and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts,” after “part,”, inserted “guardians,” before “staff members,”, substituted “institutions, attorneys, and advocates” for “and institutions”, and inserted “and children living with relative guardians” before “, whether incurred directly”.
+
+Subsec. (a)(4). Pub. L. 110–351, §101(c)(3)(A), substituted “; plus” for period at end.
+
+Subsec. (a)(5). Pub. L. 110–351, §101(c)(3)(B), added par. (5).
+
+Subsec. (g). Pub. L. 110–351, §101(d), added subsec. (g).
 
 2006—Subsec. (a)(3). Pub. L. 109–171 inserted “subject to section 672(i) of this title” before “an amount equal to” in introductory provisions.
 
@@ -244,6 +262,14 @@ Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted “and (C) such�
 
 1980—Subsec. (d). Pub. L. 96–611 added subsec. (d).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 301(c)(2) of Pub. L. 110–351 effective Oct. 1, 2009, without regard to whether implementing regulations have been promulgated, see section 301(f) of Pub. L. 110–351, set out as a note under section 671 of this title.
+
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for quarters beginning on or after effective date of amendment, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
+
+Pub. L. 110–275, title III, §302(b), July 15, 2008, 122 Stat. 2594, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply to calendar quarters beginning on or after that date.”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
@@ -274,7 +300,7 @@ Section 210(b) of Pub. L. 103–432 provided that: “The amendment made by subs
 
 Section 13713(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1993.”
 
-Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
+Section 13713(b)(2) of Pub. L. 103–66, as amended by Pub. L. 104–193, title V, §502, Aug. 22, 1996, 110 Stat. 2277,provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to expenditures during fiscal years beginning on or after October 1, 1997.”
 
 #### Effective Date of 1990 Amendment
 
@@ -301,4 +327,20 @@ Section 9132(b) of Pub. L. 100–203 provided that: “The amendments made by su
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+
+#### Construction of 2008 Amendment
+
+For construction of amendment by section 301(c)(2) of Pub. L. 110–351, see section 301(d) of Pub. L. 110–351, set out as a note under section 671 of this title.
+
+#### Phase-in
+
+Pub. L. 110–351, title II, §203(b), Oct. 7, 2008, 122 Stat. 3959, provided that: “With respect to an expenditure described in section 474(a)(3)(B) of the Social Security Act \[42 U.S.C. 674(a)(3)(B)\] by reason of an amendment made by subsection (a) of this section \[amending this section\], in lieu of the percentage set forth in such section 474(a)(3)(B), the percentage that shall apply is—
+
+&emsp;“(1) 55 percent, if the expenditure is made in fiscal year 2009;
+
+&emsp;“(2) 60 percent, if the expenditure is made in fiscal year 2010;
+
+&emsp;“(3) 65 percent, if the expenditure is made in fiscal year 2011; or
+
+&emsp;“(4) 70 percent, if the expenditure is made in fiscal year 2012.”
 

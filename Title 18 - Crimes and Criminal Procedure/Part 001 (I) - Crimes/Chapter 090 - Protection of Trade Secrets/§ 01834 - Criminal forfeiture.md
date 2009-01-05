@@ -1,12 +1,10 @@
 ### §1834. Criminal forfeiture
 
-(a) The court, in imposing sentence on a person for a violation of this chapter, shall order, in addition to any other sentence imposed, that the person forfeit to the United States—
+Forfeiture, destruction, and restitution relating to this chapter shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-&emsp;(1) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation; and
+(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 110–403, title II, §207, Oct. 13, 2008, 122 Stat. 4263.)
 
-&emsp;(2) any of the person's property used, or intended to be used, in any manner or part, to commit or facilitate the commission of such violation, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
+#### Amendments
 
-(b) Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except for subsections (d) and (j) of such section, which shall not apply to forfeitures under this section.
-
-(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489.)
+2008—Pub. L. 110–403 amended section generally. Prior to amendment, section related to forfeiture of property either derived from or used to commit a violation of this chapter.
 

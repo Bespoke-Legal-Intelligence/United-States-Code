@@ -126,7 +126,7 @@ In subsection (b), the word “prescribed” is substituted for “issued” for
 
 In subsection (c), the words “any part of” are substituted for “in whole or in part” to eliminate unnecessary words. The words “and to such extent” and “he determines that . . . of compliance with such standard” are omitted as surplus.
 
-In subsection (d), the words “to which the certification or agreement applies” are added for clarity. The words “to the granting of the waiver” and “any State agency action granting” are omitted as surplus. The words “shall provide a prompt opportunity for a hearing” are substituted for “shall afford such agency aprompt opportunity to present its request for waiver, with opportunity for hearing” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
+In subsection (d), the words “to which the certification or agreement applies” are added for clarity. The words “to the granting of the waiver” and “any State agency action granting” are omitted as surplus. The words “shall provide a prompt opportunity for a hearing” are substituted for “shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 

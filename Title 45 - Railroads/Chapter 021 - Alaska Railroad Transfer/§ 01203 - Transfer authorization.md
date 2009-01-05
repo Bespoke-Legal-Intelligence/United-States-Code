@@ -40,7 +40,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (B) Notwithstanding the provisions of subparagraph (A) of this paragraph, the United States shall be solely responsible for—
 
-&emsp;(i) all claims and causes of action against the Alaska Railroad that accrue on or before the date of transfer, regardless of the date on which legal proceedings asserting such claims were or may be filed, except that the UnitedStates shall, in the case of any tort claim, only be responsible for any such claim against the United States that accrues before the date of transfer and results in an award, compromise, or settlement of more than $2,500, and the United States shall not compromise or settle any claim resulting in State liability without the consent of the State, which consent shall not be unreasonably withheld; and
+&emsp;(i) all claims and causes of action against the Alaska Railroad that accrue on or before the date of transfer, regardless of the date on which legal proceedings asserting such claims were or may be filed, except that the United States shall, in the case of any tort claim, only be responsible for any such claim against the United States that accrues before the date of transfer and results in an award, compromise, or settlement of more than $2,500, and the United States shall not compromise or settle any claim resulting in State liability without the consent of the State, which consent shall not be unreasonably withheld; and
 
 &emsp;(ii) all claims that resulted in a judgment or award against the Alaska Railroad before the date of transfer.
 
@@ -72,7 +72,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
 
-(4) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to allow representatives of the Secretary adequate access to employees and records of the AlaskaRailroad when needed for the performance of functions related to the period of Federal ownership.
+(4) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to allow representatives of the Secretary adequate access to employees and records of the Alaska Railroad when needed for the performance of functions related to the period of Federal ownership.
 
 (5) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to compensate the United States at the value, if any, determined pursuant to section 1204(d) of this title.
 
@@ -95,6 +95,66 @@ Section 615 of this title, referred to in subsec. (c)(1), means section 615 of t
 #### Transfer of Alaska Railroad to State of Alaska
 
 The State of Alaska accepted the certification requirements of the Alaska Railroad Transfer Act \[this chapter\] by 1984 SLA ch. 54, eff. May 19, 1984. Thereafter, by 1984 SLA ch. 153, eff. July 6, 1984, the Alaska Railroad Corporation was established to manage and operate the Alaska Railroad. The transfer of the Alaska Railroad to the State of Alaska was carried out on January 5, 1985.
+
+#### Denali National Park and Alaska Railroad Corporation Exchange
+
+Pub. L. 110–229, title III, §351, May 8, 2008, 122 Stat. 800, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Corporation.—The term ‘Corporation’ means the Alaska Railroad Corporation owned by the State of Alaska.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+“(b)
+
+Exchange.—
+
+&emsp;“(1)
+
+In general.—
+
+&emsp;&emsp;“(A)
+
+Easement expanded.—The Secretary is authorized to grant to the Alaska Railroad Corporation an exclusive-use easement on land that is identified by the Secretary within Denali National Park for the purpose of providing a location to the Corporation for construction, maintenance, and on-going operation of track and associated support facilities for turning railroad trains around near Denali Park Station.
+
+&emsp;&emsp;“(B)
+
+Easement relinquished.—In exchange for the easement granted in subparagraph (A), the Secretary shall require the relinquishment of certain portions of the Corporation's existing exclusive use easement within the boundary of Denali National Park.
+
+&emsp;“(2)
+
+Conditions of the exchange.—
+
+&emsp;&emsp;“(A)
+
+Equal exchange.—The exchange of easements under this section shall be on an approximately equal-acre basis.
+
+&emsp;&emsp;“(B)
+
+Total acres.—The easement granted under paragraph (1)(A) shall not exceed 25 acres.
+
+&emsp;&emsp;“(C)
+
+Interests conveyed.—The easement conveyed to the Alaska Railroad Corporation by the Secretary under this section shall be under the same terms as the exclusive use easement granted to the Railroad in Denali National Park in the Deed for Exclusive Use Easement and Railroad Related Improvements filed in Book 33, pages 985–994 of the Nenana Recording District, Alaska, pursuant to the Alaska Railroad Transfer Act of 1982 (45 U.S.C. 1201 et seq.). The easement relinquished by the Alaska Railroad Corporation to the United States under this section shall, with respect to the portion being exchanged, be the full title and interest received by the Alaska Railroad in the Deed for Exclusive Use Easement and Railroad Related Improvements filed in Book 33, pages 985–994 of the Nenana Recording District, Alaska, pursuant to the Alaska Railroad Transfer Act of 1982 (45 U.S.C. 1201 et seq.).
+
+&emsp;&emsp;“(D)
+
+Costs.—The Alaska Railroad shall pay all costs associated with the exchange under this section, including the costs of compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the costs of any surveys, and other reasonable costs.
+
+&emsp;&emsp;“(E)
+
+Land to be part of wilderness.—The land underlying any easement relinquished to the United States under this section that is adjacent to designated wilderness is hereby designated as wilderness and added to the Denali Wilderness, the boundaries of which are modified accordingly, and shall be managed in accordance with applicable provisions of the Wilderness Act (78 Stat. 892) \[16 U.S.C. 1131 et seq.\] and the Alaska National Interest Lands Conservation Act of 1980 (94 Stat. 2371) \[see Tables for classification\].
+
+&emsp;&emsp;“(F)
+
+Other terms and conditions.—The Secretary shall require any additional terms and conditions under this section that the Secretary determines to be appropriate to protect the interests of the United States and of Denali National Park.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

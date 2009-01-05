@@ -2,13 +2,13 @@
 
 #### (a) Oversight activities
 
-Nothing in this chapter shall be construed to diminish the oversight activities of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives with respect to any agreement entered into between the Secretary of Education and Gallaudet University, and the institution of higher education with which the Secretary has an agreement under part B of subchapter I of this chapter.
+Nothing in this chapter shall be construed to diminish the oversight activities of the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate with respect to any agreement entered into between the Secretary of Education and Gallaudet University, and the institution of higher education with which the Secretary has an agreement under part B of subchapter I of this chapter.
 
 #### (b) Construction of agreements
 
 The agreements described in subsection (a) of this section shall continue in effect, to the extent that such agreements are not inconsistent with this chapter.
 
-(Pub. L. 99–371, title II, §208, formerly title IV, §409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §209, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, §204(g), Aug. 11, 1993, 107 Stat. 735; renumbered §208 and amended Pub. L. 105–244, title IX, §921, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §208, formerly title IV, §409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §209, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, §204(g), Aug. 11, 1993, 107 Stat. 735; renumbered §208 and amended Pub. L. 105–244, title IX, §921, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §910, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Prior Provisions
 
@@ -18,17 +18,13 @@ Another prior section 208 of Pub. L. 99–371 was classified to section 4358 of 
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–315 substituted “Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
 1998—Subsec. (a). Pub. L. 105–244, §921(1), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
 
 1993—Subsec. (a). Pub. L. 103–73, §204(g)(1), substituted “an agreement under part B of subchapter I of this chapter” for “an agreement under title II”.
 
 Subsec. (b). Pub. L. 103–73, §204(g)(2), struck out “the provisions of” after “inconsistent with”.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

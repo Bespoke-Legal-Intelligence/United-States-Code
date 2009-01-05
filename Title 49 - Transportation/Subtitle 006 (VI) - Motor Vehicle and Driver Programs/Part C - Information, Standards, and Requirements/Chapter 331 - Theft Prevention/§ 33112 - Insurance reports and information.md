@@ -38,7 +38,7 @@ Annual Information Requirement.—(1) An insurer providing comprehensive coverag
 
 (d)
 
-Reports on Reduced Claims Payments.—An insurer shall report promptly in writing to the Secretary if the insurer, in paying a claim under an adjustment or negotiation between the insurer and the insured for a stolen motor vehicle—
+Reports on Reduced Claims Payments.—An insurer shall report promptly in writing tothe Secretary if the insurer, in paying a claim under an adjustment or negotiation between the insurer and the insured for a stolen motor vehicle—
 
 &emsp;(1) reduces the payment to the insured by the amount of the value, salvage or otherwise, of a recovered part subject to a standard prescribed under section 33102 or 33103 of this title; and
 

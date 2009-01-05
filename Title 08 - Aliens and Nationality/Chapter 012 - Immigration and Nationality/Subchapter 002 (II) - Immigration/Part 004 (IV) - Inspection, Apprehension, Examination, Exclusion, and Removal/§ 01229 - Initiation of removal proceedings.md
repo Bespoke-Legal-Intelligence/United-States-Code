@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) The requirement that the alien must provide the Attorney General immediately with a written record of any change of the alien's address or telephone number.
 
-&emsp;&emsp;(iii) The consequences under section 1229a(b)(5) of this title of failure to provide address and telephone information pursuant to this subparagraph.
+&emsp;&emsp;(iii) The consequences under section 1229a(b)(5) of this title of failure to provideaddress and telephone information pursuant to this subparagraph.
 
 &emsp;&emsp;(G)(i) The time and place at which the proceedings will be held.
 
@@ -86,7 +86,7 @@ Service by mail under this section shall be sufficient if there is proof of atte
 
 #### Prior Provisions
 
-A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related todesignation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
+A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provid
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

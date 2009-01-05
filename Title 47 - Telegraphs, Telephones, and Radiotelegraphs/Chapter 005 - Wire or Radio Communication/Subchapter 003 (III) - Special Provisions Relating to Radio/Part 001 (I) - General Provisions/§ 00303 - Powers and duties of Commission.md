@@ -48,9 +48,9 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator's license by fraudulent means.
 
-(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from thattime he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
 
-(n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
+(n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act,treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
 
 (<i>o</i>) Have authority to designate call letters of all stations;
 
@@ -84,7 +84,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;&emsp;(C) such use would not result in harmful interference among users.
 
-(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Pub. L. 85–817, §1, Aug. 28, 1958, 72 Stat. 981; Pub. L. 87–445, Apr. 27, 1962, 76 Stat. 64; Pub. L. 87–529, §1, July 10, 1962, 76 Stat. 150; Pub. L. 88–313, §1, May 28, 1964, 78 Stat. 202; Pub. L. 88–487, §2, Aug. 22, 1964, 78 Stat. 602; Pub. L. 89–268, Oct. 19, 1965, 79 Stat. 990; Pub. L. 92–81, §1, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, §1, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 97–259, title I, §§109–111(a), 113(b), Sept. 13, 1982, 96 Stat. 1092, 1093; Pub. L. 101–396, §8(a),Sept. 28, 1990, 104 Stat. 850; Pub. L. 101–431, §3, Oct. 15, 1990, 104 Stat. 960; Pub. L. 102–538, title II, §210(a), Oct. 27, 1992, 106 Stat. 3544; Pub. L. 104–104, title II, §205(b), title IV, §403(g), title V, §551(b)(1), (c), Feb. 8, 1996, 110 Stat. 114, 131, 140, 141; Pub. L. 105–33, title III, §3005, Aug. 5, 1997, 111 Stat. 268.)
+(June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Pub. L. 85–817, §1, Aug. 28, 1958, 72 Stat. 981; Pub. L. 87–445, Apr. 27, 1962, 76 Stat. 64; Pub. L. 87–529, §1, July 10, 1962, 76 Stat. 150; Pub. L. 88–313, §1, May 28, 1964, 78 Stat. 202; Pub. L. 88–487, §2, Aug. 22, 1964, 78 Stat. 602; Pub. L. 89–268, Oct. 19, 1965, 79 Stat. 990; Pub. L. 92–81, §1, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, §1, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 97–259, title I, §§109–111(a), 113(b), Sept. 13, 1982, 96 Stat. 1092, 1093; Pub. L. 101–396, §8(a), Sept. 28, 1990, 104 Stat. 850; Pub. L. 101–431, §3, Oct. 15, 1990, 104 Stat. 960; Pub. L. 102–538, title II, §210(a), Oct. 27, 1992, 106 Stat. 3544; Pub. L. 104–104, title II, §205(b), title IV, §403(g), title V, §551(b)(1), (c), Feb. 8, 1996, 110 Stat. 114, 131, 140, 141; Pub. L. 105–33, title III, §3005, Aug. 5, 1997, 111 Stat. 268.)
 
 #### Codification
 
@@ -164,7 +164,7 @@ Effective date of manufacturing provision.—In prescribing regulations to imple
 
 #### Effective Date of 1992 Amendment
 
-Section 210(c) of Pub. L. 102–538 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Oct. 27, 1992\].”
+Section 210(c) of Pub. L. 102–538 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect 30 days after the date of enactment of this Act \[Oct. 27, 1992\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -254,7 +254,7 @@ Safeguards against discrimination.—The Commission shall revise such regulation
 
 “(g)
 
-Local Marketing Agreements.—Nothing in this section shall be construed to prohibit the origination,continuation, or renewal of any television local marketing agreement that is in compliance with the regulations of the Commission.
+Local Marketing Agreements.—Nothing in this section shall be construed to prohibit the origination, continuation, or renewal of any television local marketing agreement that is in compliance with the regulations of the Commission.
 
 “(h)
 
@@ -266,7 +266,7 @@ Elimination of Statutory Restriction.—\[Amended section 533(a) of this title.\
 
 #### Restrictions on Over-the-Air Reception Devices
 
-Section 207 of Pub. L. 104–104 provided that: “Within 180 days after the date of enactment of this Act \[Feb. 8, 1996\], the Commission shall, pursuant to section 303 of the Communications Act of 1934 \[47 U.S.C. 303\], promulgate regulations to prohibit restrictions that impair a viewer's ability to receive video programming services through devices designed for over-the-air reception of television broadcast signals, multichannel multipoint distribution service, or direct broadcast satellite services.”
+Section 207 of Pub. L. 104–104 provided that: “Within 180 days after the date of enactment of this Act \[Feb. 8, 1996\], the Commission shall, pursuant to section 303of the Communications Act of 1934 \[47 U.S.C. 303\], promulgate regulations to prohibit restrictions that impair a viewer's ability to receive video programming services through devices designed for over-the-air reception of television broadcast signals, multichannel multipoint distribution service, or direct broadcast satellite services.”
 
 #### Parental Choice in Television Programming
 
@@ -344,7 +344,7 @@ Section 2 of Pub. L. 101–431 provided that: “The Congress finds that—
 
 &emsp;“(6) closed-captioned television can assist those among our Nation's large immigrant population who are learning English as a second language with language comprehension;
 
-&emsp;“(7) currently, a consumer must buy a TeleCaption decoder and connect the decoder to a television set in order to display the closed-captioned television transmissions;
+&emsp;“(7) currently, a consumer must buy a TeleCaption decoder and connect the decoder to a television set inorder to display the closed-captioned television transmissions;
 
 &emsp;“(8) technology is now available to enable that closed-caption decoding capability to be built into new television sets during manufacture at a nominal cost by 1991; and
 

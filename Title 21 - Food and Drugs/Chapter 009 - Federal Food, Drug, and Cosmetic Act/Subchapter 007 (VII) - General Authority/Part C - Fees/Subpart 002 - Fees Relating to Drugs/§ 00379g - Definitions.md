@@ -30,7 +30,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) The activities necessary for the review of human drug applications and supplements.
 
-&emsp;&emsp;(B) The issuance of action letters which approve human drug applications or which set forth in detail the specific deficiencies in such applications and, where appropriate, the actions necessary to place such applications in condition for approval.
+&emsp;&emsp;(B) The issuance of action letters which approve human drug applications or whichset forth in detail the specific deficiencies in such applications and, where appropriate, the actions necessary to place such applications in condition for approval.
 
 &emsp;&emsp;(C) The inspection of prescription drug establishments and other facilities undertaken as part of the Secretary's review of pending human drug applications and supplements.
 
@@ -38,7 +38,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(E) Monitoring of research conducted in connection with the review of human drug applications.
 
-&emsp;&emsp;(F) Postmarket safety activities with respect to drugs approved under human drugapplications or supplements, including the following activities:
+&emsp;&emsp;(F) Postmarket safety activities with respect to drugs approved under human drug applications or supplements, including the following activities:
 
 &emsp;&emsp;&emsp;(i) Collecting, developing, and reviewing safety information on approved drugs, including adverse event reports.
 
@@ -104,7 +104,7 @@ Par. (1)(B), (C). Pub. L. 110–85, §§102(2)(B), (C), 106(a), temporarily rede
 
 Par. (3)(C). Pub. L. 110–85, §§102(3), 106(a), temporarily substituted “355(j)(7)(A) of this title (not including the discontinued section of such list)” for “355(j)(7)(A) of this title” and inserted “(not including the discontinued section of such list)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
 
-Par. (4). Pub. L. 110–85, §§102(4), 106(a), temporarily inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end. See Effective and Termination Dates of 2007 Amendment note below.
+Par. (4). Pub. L. 110–85, §§102(4), 106(a), temporarily inserted “(such as capsules, tablets, or lyophilized products before reconstitution)” before period at end.See Effective and Termination Dates of 2007 Amendment note below.
 
 Par. (6)(F). Pub. L. 110–85, §§102(5), 106(a), temporarily amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In the case of drugs approved after October 1, 2002, under human drug applications or supplements: collecting, developing, and reviewing safety information on the drugs, including adverse event reports, during a period of time after approval of such applications or supplements, not to exceed three years.” See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -156,7 +156,7 @@ Pub. L. 110–85, title I, §107, Sept. 27, 2007, 121 Stat. 842, provided that: 
 
 Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under section 356b of this title.
 
-Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by sections 503 and 504 \[amending this section and section 379h of this title\] cease to be effective October 1, 2007, and section 505 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
+Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by sections 503 and 504 \[amending this section and section 379h ofthis title\] cease to be effective October 1, 2007, and section 505 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -166,7 +166,7 @@ Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, provided that:
 
 #### Termination Date
 
-Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
+Pub. L. 102–571, title I, §105, Oct. 29, 1992, 106 Stat. 4498, provided that: “The amendments made by section 103 \[enacting this subpart\] shall not be in effect after October 1, 1997 and section 104 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
 
 #### Savings Provision
 
@@ -178,29 +178,7 @@ Pub. L. 105–115, title I, §105, Nov. 21, 1997, 111 Stat. 2305, provided that:
 
 #### Accountability and Reports
 
-Pub. L. 107–188, title V, §505, June 12, 2002, 116 Stat. 692, provided that:
-
-“(a)
-
-Public Accountability.—
-
-&emsp;“(1)
-
-Consultation.—In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of human drug applications for the fiscal years after fiscal year 2007, and for the reauthorization of sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g, 379h\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry.
-
-&emsp;“(2)
-
-Recommendations.—The Secretary shall publish in the Federal Register recommendations under paragraph (1), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.
-
-“(b)
-
-Performance Report.—Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) \[section 502(4) of Pub. L. 107–188, set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
-
-“(c)
-
-Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
-
-\[Section 505 of Pub. L. 107–188, set out above, ceases to be effective 120 days after Oct. 1, 2007, see Effective and Termination Dates of 2002 Amendment note above.\]
+Pub. L. 107–188, title V, §505, June 12, 2002, 116 Stat. 692, which required the Secretary of Health and Human Services to consult with various congressional committees and health care professionals and provide for public commentary when developing recommendations to Congress regarding review of human drug applications for fiscal years after 2007, and which required the Secretary to submit performance and fiscal reports on certain goals and fees beginning with fiscal year 2003, ceased to be effective 120 days after Oct. 1, 2007. See Effective and Termination Dates of 2002 Amendment note above.
 
 #### Congressional Findings Concerning Fees Relating to Drugs
 

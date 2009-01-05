@@ -2,7 +2,7 @@
 
 #### (a) Misuse of label
 
-Any person who knowingly sells or labels a product as organic, except in accordance with this chapter, shall be subject to a civil penalty of not more than $10,000.
+Any person who knowingly sells or labels a product as organic, except in accordance withthis chapter, shall be subject to a civil penalty of not more than $10,000.
 
 #### (b) False statement
 
@@ -40,7 +40,7 @@ A certifying agent that is a private person that violates the provisions of this
 
 #### (f) Effect of other laws
 
-Nothing in this chapter shall alter the authority of the Secretary under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) concerning meat, poultry and egg products, nor any of the authorities of the Secretary of Health and Human Services under the Federal Food, Drug <sup>1</sup> and Cosmetic Act (21 U.S.C.301 et seq.), nor the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide <sup>1</sup> and Rodenticide Act (7 U.S.C. 136 et seq.).
+Nothing in this chapter shall alter the authority of the Secretary under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) concerning meat, poultry and egg products, nor any of the authorities of the Secretary of Health and Human Services under the Federal Food, Drug <sup>1</sup> and Cosmetic Act (21 U.S.C. 301 et seq.), nor the authority of the Administrator of the Environmental Protection Agency under the Federal Insecticide, Fungicide <sup>1</sup> and Rodenticide Act (7 U.S.C. 136 et seq.).
 
 (Pub. L. 101–624, title XXI, §2120, Nov. 28, 1990, 104 Stat. 3949; Pub. L. 102–237, title X, §1001(8), Dec. 13, 1991, 105 Stat. 1893.)
 

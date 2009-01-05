@@ -26,7 +26,7 @@ Subsec. (d). Pub. L. 104–164, §104(b)(2)(C), struck out subsec. (d) which rea
 
 1985—Subsec. (a). Pub. L. 99–83, §101(a), substituted provisions authorizing appropriations of $5,371,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $800,000,000 for fiscal years 1982 and 1983.
 
-Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (or participations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
+Subsec. (b). Pub. L. 99–83, §101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (orparticipations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
 
 Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
 
@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 99–83, §101(b), amended subsec. (c) generally, substitut
 
 Subsec. (b)(5). Pub. L. 98–151 substituted “1984” for “1982 and for the fiscal year 1983”.
 
-Subsec. (b)(6). Pub. L. 98–151 amended par. (6) generally, inserting provisions relating to availability to Egypt for fiscal year 1984 of not less than $900,000,000 ofthe total principal amount of loans guaranteed, and substituting provisions authorizing not less than $465,000,000 for fiscal year 1984, for provisions authorizing not less than $200,000,000 for fiscal years 1982 and 1983.
+Subsec. (b)(6). Pub. L. 98–151 amended par. (6) generally, inserting provisions relating to availability to Egypt for fiscal year 1984 of not less than $900,000,000 of the total principal amount of loans guaranteed, and substituting provisions authorizing not less than $465,000,000 for fiscal year 1984, for provisions authorizing not less than $200,000,000 for fiscal years 1982 and 1983.
 
 Subsec. (c). Pub. L. 98–151 substituted provisions relating to applicability to fiscal year 1984, for provisions relating to applicability to fiscal years 1982 and 1983, and substituted “$850,000,000” for “$550,000,000”.
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 93–559, §45(a)(7), substituted “$872,500,000 for the f
 
 1973—Subsec. (a). Pub. L. 93–189, §25(5), substituted provision authorizing appropriation of not more than $325,000,000 for the fiscal year 1974, for provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972.
 
-Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
+Subsec. (b). Pub. L. 93–189, §25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount notless than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
 
 1972—Subsec. (a). Pub. L. 92–226, §401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
 

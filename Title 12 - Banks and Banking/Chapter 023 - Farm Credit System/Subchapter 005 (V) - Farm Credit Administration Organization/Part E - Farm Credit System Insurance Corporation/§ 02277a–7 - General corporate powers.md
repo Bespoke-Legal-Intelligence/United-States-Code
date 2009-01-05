@@ -30,7 +30,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (D) Agent for service of process
 
-&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may be made in any State or jurisdiction in which any insured System bank is located.
+&emsp;&emsp;The Board of Directors shall designate an agent on whom service of process may bemade in any State or jurisdiction in which any insured System bank is located.
 
 #### (5) Officers and employees
 
@@ -60,11 +60,17 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (10) Rules and regulations
 
-&emsp;The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
+&emsp;The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part and section 2020(b) of this title (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
 
-(Pub. L. 92–181, title V, §5.58, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, §302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, §502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, §214(b), Feb. 10, 1996, 110 Stat. 175.)
+(Pub. L. 92–181, title V, §5.58, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, §302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, §502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, §214(b), Feb. 10, 1996, 110 Stat. 175; Pub. L. 110–234, title V, §5401(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5401(b), June 18, 2008, 122 Stat. 1664, 1915.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Par. (10). Pub. L. 110–246, §5401(b), inserted “and section 2020(b) of this title” after “this part”.
 
 1996—Par. (9). Pub. L. 104–105 added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
@@ -73,6 +79,10 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 1991—Par. (4)(B). Pub. L. 102–237 inserted “in any capacity,” after “and the Corporation,”.
 
 1988—Par. (5)(A). Pub. L. 100–399 struck out “to” before “define” and “dismiss”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

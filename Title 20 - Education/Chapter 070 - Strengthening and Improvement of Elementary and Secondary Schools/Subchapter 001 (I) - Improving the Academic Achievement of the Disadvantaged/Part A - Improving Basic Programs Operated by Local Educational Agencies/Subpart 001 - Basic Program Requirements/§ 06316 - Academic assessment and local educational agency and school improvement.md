@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(viii) include strategies to promote effective parental involvement in the school;
 
-&emsp;&emsp;&emsp;(ix) incorporate, as appropriate, activities before school, after school, during thesummer, and during any extension of the school year; and
+&emsp;&emsp;&emsp;(ix) incorporate, as appropriate, activities before school, after school, during the summer, and during any extension of the school year; and
 
 &emsp;&emsp;&emsp;(x) incorporate a teacher mentoring program.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any underlying staffing, curriculum, or other problems in the school; and
 
-&emsp;&emsp;&emsp;(ii) is designed to increase substantially the likelihood that each group of students described in <sup>2</sup> 6311(b)(2)(C) of this title enrolled in the school identified for corrective action will meet or exceed the State's proficient levels of achievement on the State academic assessments described in section 6311(b)(3) of this title.
+&emsp;&emsp;&emsp;(ii) is designed to increase substantially the likelihood that each group of studentsdescribed in <sup>2</sup> 6311(b)(2)(C) of this title enrolled in the school identified for corrective action will meet or exceed the State's proficient levels of achievement on the State academic assessments described in section 6311(b)(3) of this title.
 
 #### (B) System
 
@@ -306,7 +306,7 @@
 
 #### (13) Special rule
 
-&emsp;A local educational agency shall permit a child who transferred to another school under this subsection to remain in that school until the child has completed the highest grade inthat school. The obligation of the local educational agency to provide, or to provide for, transportation for the child ends at the end of a school year if the local educational agency determines that the school from which the child transferred is no longer identified for school improvement or subject to corrective action or restructuring.
+&emsp;A local educational agency shall permit a child who transferred to another school under this subsection to remain in that school until the child has completed the highest grade in that school. The obligation of the local educational agency to provide, or to provide for, transportation for the child ends at the end of a school year if the local educational agency determines that the school from which the child transferred is no longer identified for school improvement or subject to corrective action or restructuring.
 
 #### (14) State educational agency responsibilities
 
@@ -318,7 +318,7 @@
 
 &emsp;&emsp;(C) ensure that academic assessment results under this part are provided to schools before any identification of a school may take place under this subsection; and
 
-&emsp;&emsp;(D) for local educational agencies or schools identified for improvement under this subsection, notify the Secretary of major factors that were brought to the attention of the State educational agency under section 6311(b)(9) of this title that have significantly affected student academic achievement.
+&emsp;&emsp;(D) for local educational agencies or schools identified for improvement underthis subsection, notify the Secretary of major factors that were brought to the attention of the State educational agency under section 6311(b)(9) of this title that have significantly affected student academic achievement.
 
 #### (c) State review and local educational agency improvement
 
@@ -366,7 +366,7 @@
 
 &emsp;&emsp;&emsp;(ii) identify actions that have the greatest likelihood of improving the achievement of participating children in meeting the State's student academic achievement standards;
 
-&emsp;&emsp;&emsp;(iii) address the professional development needs of the instructional staff serving the agency by committing to spend not less than 10 percent of the funds receivedby the local educational agency under subpart 2 of this part for each fiscal year in which the agency is identified for improvement for professional development (including funds reserved for professional development under subsection (b)(3)(A)(iii) of this section), but excluding funds reserved for professional development under section 6319 of this title;
+&emsp;&emsp;&emsp;(iii) address the professional development needs of the instructional staff serving the agency by committing to spend not less than 10 percent of the funds received by the local educational agency under subpart 2 of this part for each fiscal year in which the agency is identified for improvement for professional development (including funds reserved for professional development under subsection (b)(3)(A)(iii) of this section), but excluding funds reserved for professional development under section 6319 of this title;
 
 &emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of the groups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
 
@@ -678,7 +678,7 @@ After receiving the notice described in subsection (b)(14)(D) of this section, t
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (b)(4)(B)(iv)(II), is Pub. L. 89–329, Nov. 8, 1965, 79Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(4)(B)(iv)(II), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 This section on the day preceding January 8, 2002 (as this section was in effect on such day), referred to in subsec. (f), means section 1116 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542, as amended, which was classified to section 6317 of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439.
 

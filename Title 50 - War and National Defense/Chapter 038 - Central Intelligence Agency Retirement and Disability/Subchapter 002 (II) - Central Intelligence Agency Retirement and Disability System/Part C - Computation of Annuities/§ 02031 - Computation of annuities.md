@@ -180,7 +180,7 @@
 
 &emsp;(A) In the case of a child annuity payable under paragraph (1), upon the death of a surviving spouse or the termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse or child had not survived the retired participant.
 
-&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
+&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant.If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
 #### (5) “Former spouse” defined
 
@@ -230,13 +230,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signedwriting received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
+&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
 
 #### (B) When annuity previously not (or not fully) reduced
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
+&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, theretired participant may make such an election within 2 years after such date.
 
 #### (ii) Deposit required
 
@@ -300,7 +300,7 @@ Notwithstanding any other provision of this subchapter, an annuity (including a 
 
 #### (3) Limitation on uses of information
 
-&emsp;The Director, in consultation with the officials from whom information is requested, shall ensure that information made available under this subsection is used only for the purposes authorized.
+&emsp;The Director, in consultation with the officials from whom information is requested,shall ensure that information made available under this subsection is used only for the purposes authorized.
 
 #### (<i>l</i>) Information on rights under system
 
@@ -318,7 +318,7 @@ A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-1993—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out “(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)” after “years of the participant's service”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out “(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)” after “years of the participant's service”.
 
 Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted “after the participant's death” after “under the system” and struck out “after the participant's death” after “participant's reduced annuity”.
 

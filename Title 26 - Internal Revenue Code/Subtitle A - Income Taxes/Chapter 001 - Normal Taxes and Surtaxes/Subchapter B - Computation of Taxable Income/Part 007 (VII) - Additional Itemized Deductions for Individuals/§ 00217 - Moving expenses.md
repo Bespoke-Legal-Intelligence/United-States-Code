@@ -136,7 +136,7 @@ A prior section 217 was renumbered section 224 of this title.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residence sale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
+1993—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residencesale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
 
 Subsec. (c)(1). Pub. L. 103–66, §13213(b), substituted “50 miles” for “35 miles” in subpars. (A) and (B).
 

@@ -6,7 +6,7 @@ The Administrator of the Agency for International Development is authorized to e
 
 #### (b) Emphasis on business and economics
 
-The scholarship program provided for in this section shall emphasize scholarships to enable students from Poland and Hungary to study business and economics in the United States. Such scholarships may be provided for study in programs that range from the standard management courses to more specialized assistance in commercial banking and the creation of a stock market.
+The scholarship program provided for in this section shall emphasize scholarships to enable students from Poland and Hungary to study business and economics in the United States. Such scholarships may be provided for study in programs that range from the standard management courses to more specialized assistance incommercial banking and the creation of a stock market.
 
 #### (c) Grants to States
 

@@ -24,7 +24,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (1) In general
 
-&emsp;With respect to any fiscal year in which the amount appropriated under subsection (i) of this section to carry out this section is less than $2,700,000, the Administrator shall makegrants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
+&emsp;With respect to any fiscal year in which the amount appropriated under subsection (<i>l</i>) of this section to carry out this section is less than $2,700,000, the Administrator shall make grants from such amount to individual protection and advocacy systems within States to enable such systems to plan for, develop outreach strategies for, and carry out services authorized under this section for individuals with traumatic brain injury.
 
 #### (2) Amount
 
@@ -34,11 +34,11 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (1) Population basis
 
-&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (i) of this section to carry out this section is $2,700,000 or more, the Administrator shall make a grant to a protection and advocacy system within each State.
+&emsp;Except as provided in paragraph (2), with respect to each fiscal year in which the amount appropriated under subsection (<i>l</i>) of this section to carry out this section is $2,700,000 or more, the Administrator shall make a grant to a protection and advocacy system within each State.
 
 #### (2) Amount
 
-&emsp;The amount of a grant provided to a system under paragraph (1) shall be equal to an amount bearing the same ratio to the total amount appropriated for the fiscal year involved under subsection (i) of this section as the population of the State in which the grantee is located bears to the population of all States.
+&emsp;The amount of a grant provided to a system under paragraph (1) shall be equal to an amount bearing the same ratio to the total amount appropriated for the fiscal year involved under subsection (<i>l</i>) of this section as the population of the State in which the grantee is located bears to the population of all States.
 
 #### (3) Minimums
 
@@ -50,7 +50,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (4) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated under subsection (i) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (i) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For each fiscal year in which the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section is $5,000,000 or more, and such appropriated amount exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Administrator shall increase each of the minimum grants amount described in subparagraphs (A) and (B) of paragraph (3) by a percentage equal to the percentage increase in the total amount appropriated under subsection (<i>l</i>) of this section to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (f) Carryover
 
@@ -58,35 +58,67 @@ Any amount paid to a protection and advocacy system that serves a State or the A
 
 #### (g) Direct payment
 
-Notwithstanding any other provision of law, the Administrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
+Notwithstanding any other provision of law, each fiscal year not later than October 1, the Administrator shall pay directly to any protection and advocacy system that complies with the provisions of this section, the total amount of the grant for such system, unless the system provides otherwise for such payment.
 
 #### (h) Annual report
 
 Each protection and advocacy system that receives a payment under this section shall submit an annual report to the Administrator concerning the services provided to individuals with traumatic brain injury by such system.
 
-#### (i) Authorization of appropriations
+#### (i) Data collection
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for each <sup>2</sup> the fiscal years 2002 through 2005.
+The Administrator of the Health Resources and Services Administration and the Commissioner of the Administration on Developmental Disabilities shall enter into an agreement to coordinate the collection of data by the Administrator and the Commissioner regarding protection and advocacy services.
 
-#### (j) Definitions
+#### (j) Training and technical assistance
+
+#### (1) Grants
+
+&emsp;For any fiscal year for which the amount appropriated to carry out this section is$6,000,000 or greater, the Administrator shall use 2 percent of such amount to make a grant to an eligible national association for providing for training and technical assistance to protection and advocacy systems.
+
+#### (2) Definition
+
+&emsp;In this subsection, the term “eligible national association” means a national association with demonstrated experience in providing training and technical assistance to protection and advocacy systems.
+
+#### (k) System authority
+
+In providing services under this section, a protection and advocacy system shall have the same authorities, including access to records, as such system would have for purposes of providing services under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\].
+
+#### (<i>l</i>) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for each <sup>2</sup> the fiscal years 2009 through 2012.
+
+#### (m) Definitions
 
 In this section:
 
 #### (1) American Indian consortium
 
-&emsp;The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>3</sup>
+&emsp;The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance <sup>3</sup> Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
 
 #### (2) Protection and advocacy system
 
-&emsp;The term “protection and advocacy system” means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>3</sup>
+&emsp;The term “protection and advocacy system” means a protection and advocacy system established under part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.).<sup>4</sup>
 
 #### (3) State
 
 &emsp;The term “State”, unless otherwise specified, means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141.)
+(July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717.)
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (j)(1), (2), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (k), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
+
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (m)(1), (2), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2008—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted “subsection (<i>l</i>)” for “subsection (i)” wherever appearing.
+
+Subsec. (g). Pub. L. 110–206, §6(b)(2), inserted “each fiscal year not later than October 1,” before “the Administrator shall pay”.
+
+Subsecs. (i) to (k). Pub. L. 110–206, §6(b)(4), added subsecs. (i) to (k). Former subsecs. (i) and (j) redesignated (<i>l</i>) and (m), respectively.
+
+Subsec. (<i>l</i>). Pub. L. 110–206, §6(b)(3), (5), redesignated subsec. (i) as (<i>l</i>) and substituted “2009 through 2012” for “2002 through 2005”.
+
+Subsec. (m). Pub. L. 110–206, §6(b)(3), redesignated subsec. (j) as (m).
 

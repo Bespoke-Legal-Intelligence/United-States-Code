@@ -38,7 +38,7 @@ The Commissioner of Social Security may reimburse the State agency described in 
 
 &emsp;&emsp;(C) a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1615, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86Stat. 1474; amended Pub. L. 94–566, title V, §501(a), Oct. 20, 1976, 90 Stat. 2683; Pub. L. 96–272, title III, §304, June 17, 1980, 94 Stat. 529; Pub. L. 97–35, title XXI, §2193(a)(4), (c)(8), title XXIII, §2344, Aug. 13, 1981, 95 Stat. 827, 828, 867; Pub. L. 98–369, div. B, title VI, §2663(g)(8), July 18, 1984, 98 Stat. 1169; Pub. L. 98–460, §11(b), Oct. 9, 1984, 98 Stat. 1806; Pub. L. 101–508, title V, §5037(a), Nov. 5, 1990, 104 Stat. 1388–226; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5523, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title I, §101(b)(2)(A), (B), Dec. 17, 1999, 113 Stat. 1874.)
+(Aug. 14, 1935, ch. 531, title XVI, §1615, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 94–566, title V, §501(a), Oct. 20, 1976, 90 Stat. 2683; Pub. L. 96–272, title III, §304, June 17, 1980, 94 Stat. 529; Pub. L. 97–35, title XXI, §2193(a)(4), (c)(8), title XXIII, §2344, Aug. 13, 1981, 95 Stat. 827, 828, 867; Pub. L. 98–369, div. B, title VI, §2663(g)(8), July 18, 1984, 98 Stat. 1169; Pub. L. 98–460, §11(b), Oct. 9, 1984, 98 Stat. 1806; Pub. L. 101–508, title V, §5037(a), Nov. 5, 1990, 104 Stat. 1388–226; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5523, Aug. 5, 1997, 111Stat. 623; Pub. L. 106–170, title I, §101(b)(2)(A), (B), Dec. 17, 1999, 113 Stat. 1874.)
 
 #### References in Text
 
@@ -98,13 +98,13 @@ Subsec. (b). Pub. L. 94–566 added subsec. (b). Former subsec. (b) was split up
 
 Subsec. (c). Pub. L. 94–566 combined into subsec. (c) the existing provisions of subsec. (c) covering the refusal by referred individuals to accept services and added thereto a part of former subsec. (b) covering the required acceptance of vocational and rehabilitation services by the referred individual, and in that provision substituted “Every individual age 16 or over” for “Every individual”.
 
-Subsec. (d). Pub. L. 94–566 redesignated as subsec. (d) the part of former subsec. (b) covering the payment by the Secretary to the State agency administering a State plan and in the provisions so redesignated substituted “administration of a State plan for vocationalrehabilitation services approved under the Vocational Rehabilitation Act” for “administration of such State plan”.
+Subsec. (d). Pub. L. 94–566 redesignated as subsec. (d) the part of former subsec. (b) covering the payment by the Secretary to the State agency administering a State plan and in the provisions so redesignated substituted “administration of a State plan for vocational rehabilitation services approved under the Vocational Rehabilitation Act” for “administration of such State plan”.
 
 Subsec. (e). Pub. L. 94–566 added subsec. (e). See 1980 Amendment note above.
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
+Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) ofPub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
 
 #### Effective Date of 1997 Amendment
 

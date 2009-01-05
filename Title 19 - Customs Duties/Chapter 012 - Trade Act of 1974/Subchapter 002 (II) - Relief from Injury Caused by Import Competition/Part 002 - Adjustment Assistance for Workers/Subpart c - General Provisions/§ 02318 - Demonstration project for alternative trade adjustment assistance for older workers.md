@@ -40,7 +40,7 @@
 
 #### (iii) Deadline
 
-&emsp;&emsp;&emsp;The Secretary shall determine whether the workers in the group are eligible forthe alternative trade adjustment assistance program by the date specified in section 2273(a) of this title.
+&emsp;&emsp;&emsp;The Secretary shall determine whether the workers in the group are eligible for the alternative trade adjustment assistance program by the date specified in section 2273(a) of this title.
 
 #### (B) Individual eligibility
 

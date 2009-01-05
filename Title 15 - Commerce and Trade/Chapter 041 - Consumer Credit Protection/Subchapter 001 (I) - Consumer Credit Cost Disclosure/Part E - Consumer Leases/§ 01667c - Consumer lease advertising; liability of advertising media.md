@@ -36,7 +36,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;&emsp;&emsp;(II) a written advertisement that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast during the period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast duringthe period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) includes the information required to be disclosed under subsection (a) of this section; and
 

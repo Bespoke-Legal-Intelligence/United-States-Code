@@ -26,7 +26,7 @@ The Attorney General or his delegate may bring actions for equitable relief to e
 
 #### (e) Liability of vessels in rem
 
-A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of theUnited States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
+A vessel, except a public vessel within the meaning of section 13 of the Federal Water Pollution Control Act, as amended, used in a violation, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof; but no vessel shall be liable unless it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
 
 #### (f) Revocation and suspension of permits
 
@@ -84,7 +84,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 &emsp;“(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 
-&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
+&emsp;“(B) convicted of a violation involving such activity shall forfeit to the United States any propertyconstituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
 
 Subsec. (i). Pub. L. 102–508, §508(b), added subsec. (i).
 

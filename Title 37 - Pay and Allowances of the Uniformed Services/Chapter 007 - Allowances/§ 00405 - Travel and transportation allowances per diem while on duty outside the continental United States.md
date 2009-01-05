@@ -94,7 +94,7 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 #### Effective Date of 1993 Amendment
 
-Section 622(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in section 405(d) \[now 405(c)\] of title 37, United States Code, thatare incurred by members of the uniformed services on or after October 1, 1993.”
+Section 622(b) of Pub. L. 103–160 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in section 405(d) \[now 405(c)\] of title 37, United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
 
 #### Effective Date of 1989 Amendment
 

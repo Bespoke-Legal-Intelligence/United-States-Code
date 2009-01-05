@@ -58,13 +58,13 @@ Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VII
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–110, §1, Jan. 8, 2002, 115 Stat. 1425, provided that: “This title \[probably means Pub. L. 107–110, seeTables for classification\] may be cited as the ‘No Child Left Behind Act of 2001’.”
+Pub. L. 107–110, §1, Jan. 8, 2002, 115 Stat. 1425, provided that: “This title \[probably means Pub. L. 107–110, see Tables for classification\] may be cited as the ‘No Child Left Behind Act of 2001’.”
 
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1601\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, provided that: “This title \[amending sections 6302, 6311, 6361 to 6368, 6369b, 6394, 6661a, 6661i, and 8801 of this title and sections 2023 and 2026 of Title 25, Indians, and enacting provisions set out as a note under section 6361 of this title\] may be cited as the ‘Literacy Involves Families Together Act’.”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “Thistitle \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
 
@@ -198,7 +198,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order to improve achievement for all students in the low-performing schools;
 
-&emsp;(2) determining effective ways of providing low-performing schools with access to resources from otherDepartment of Education programs, such as funds from the Comprehensive School Reform Demonstration Program, the Reading Excellence Act \[Pub. L. 105–277, div. A, §101(f) \[title VIII\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, see Tables for classification\], the Eisenhower Professional Development Program, the Class Size Reduction Program, and the 21st Century Community Learning Centers Program, and to make effective use of these funds and Title I funds;
+&emsp;(2) determining effective ways of providing low-performing schools with access to resources from other Department of Education programs, such as funds from the Comprehensive School Reform Demonstration Program, the Reading Excellence Act \[Pub. L. 105–277, div. A, §101(f) \[title VIII\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, see Tables for classification\], the Eisenhower Professional Development Program, the Class Size Reduction Program, and the 21st Century Community Learning Centers Program, and to make effective use of these funds and Title I funds;
 
 &emsp;(3) providing States and LEAs with information on effective strategies to improve the quality of the teaching force, including strategies for recruiting and retaining highly qualified teachers in high-poverty schools, and implementing research-based professional development programs aligned with challenging standards;
 

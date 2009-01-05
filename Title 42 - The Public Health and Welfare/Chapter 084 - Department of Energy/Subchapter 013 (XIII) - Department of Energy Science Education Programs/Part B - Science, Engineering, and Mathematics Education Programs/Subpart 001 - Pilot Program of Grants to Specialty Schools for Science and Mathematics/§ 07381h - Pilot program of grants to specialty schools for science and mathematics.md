@@ -108,7 +108,7 @@ In awarding grants under this section, the Director shall—
 
 #### (2) Special rule
 
-&emsp;Grant funds under this section may be used for activities described in paragraph (1) only ifthe activities are directly relating to improving student academic achievement in science, mathematics, and to the extent applicable, technology and engineering.
+&emsp;Grant funds under this section may be used for activities described in paragraph (1) only if the activities are directly relating to improving student academic achievement in science, mathematics, and to the extent applicable, technology and engineering.
 
 #### (h) Evaluation and report
 

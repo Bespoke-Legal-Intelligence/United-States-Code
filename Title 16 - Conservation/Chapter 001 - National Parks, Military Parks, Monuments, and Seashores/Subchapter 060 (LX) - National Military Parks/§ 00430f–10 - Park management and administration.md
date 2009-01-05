@@ -12,7 +12,7 @@ The Secretary shall administer the Unit in accordance with sections 430f–6 to 
 
 In accordance with section 430f–5 of this title, the Secretary shall—
 
-&emsp;(1) commemorate and interpret, for the benefit of visitors and the general public, the Siege and Battle of Corinth and other CivilWar actions in the area in and around the city of Corinth within the larger context of the Civil War and American history, including the significance of the Civil War Siege and Battle of Corinth in 1862 in relation to other operations in the western theater of the Civil War; and
+&emsp;(1) commemorate and interpret, for the benefit of visitors and the general public, the Siege and Battle of Corinth and other Civil War actions in the area in and around the city of Corinth within the larger context of the Civil War and American history, including the significance of the Civil War Siege and Battle of Corinth in 1862 in relation to other operations in the western theater of the Civil War; and
 
 &emsp;(2) identify and preserve surviving features from the Civil War era in the area in and around the city of Corinth, including both military and civilian themes that include—
 

@@ -12,7 +12,7 @@ In a case in which any Federal lands included within the park are legally occupi
 
 #### (2) Retirement
 
-&emsp;A grazing lease, permit, or license described in paragraph (1) shall be permanently retiredat the end of the period described in paragraph (1).
+&emsp;A grazing lease, permit, or license described in paragraph (1) shall be permanently retired at the end of the period described in paragraph (1).
 
 #### (3) Periodic renewal
 

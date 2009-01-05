@@ -40,5 +40,21 @@ The Secretary shall offer to enter into a contract, grant, or cooperative agreem
 
 Federal funds provided by the Secretary under a contract, grant, or cooperative agreement under this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
 
-(Pub. L. 105–185, title VI, §604, June 23, 1998, 112 Stat. 586.)
+#### (e) Authorization of appropriations
+
+In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2012.
+
+(Pub. L. 105–185, title VI, §604, June 23, 1998, 112 Stat. 586; Pub. L. 110–234, title VII, §7312, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7312, June 18, 2008, 122 Stat. 1664, 2006.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–246, §7312, added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

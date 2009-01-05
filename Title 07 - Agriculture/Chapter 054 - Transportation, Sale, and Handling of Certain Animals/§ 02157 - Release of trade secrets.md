@@ -32,7 +32,7 @@ A violation of subsection (a) or (b) of this section is punishable by—
 
 #### (d) Recovery of damages by injured person; costs; attorney's fee
 
-Any person, including any research facility, injured in its business or property by reason ofa violation of this section may recover all actual and consequential damages sustained by such person and the cost of the suit including a reasonable attorney's fee.
+Any person, including any research facility, injured in its business or property by reason of a violation of this section may recover all actual and consequential damages sustained by such person and the cost of the suit including a reasonable attorney's fee.
 
 #### (e) Other rights and remedies
 

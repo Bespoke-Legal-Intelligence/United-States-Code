@@ -24,7 +24,7 @@
 
 &emsp;(10) by providing an effective enforcement program which shall include a prohibition against giving advance notice of any inspection and sanctions for any individual violating this prohibition;
 
-&emsp;(11) by encouraging the States to assume the fullest responsibility for the administration and enforcement of their occupational safety and health laws by providing grants to the States to assist in identifying their needs and responsibilities in the area of occupational safety and health, to develop plans in accordance with the provisions of this chapter, to improve the administration and enforcement of State occupational safety and health laws, and to conduct experimental and demonstration projects in connection therewith;
+&emsp;(11) by encouraging the States to assume the fullest responsibility for the administration and enforcement of their occupational safety and health laws by providing grants to the States to assist in identifying their needs and responsibilities in the area of occupationalsafety and health, to develop plans in accordance with the provisions of this chapter, to improve the administration and enforcement of State occupational safety and health laws, and to conduct experimental and demonstration projects in connection therewith;
 
 &emsp;(12) by providing for appropriate reporting procedures with respect to occupational safety and health which procedures will help achieve the objectives of this chapter and accurately describe the nature of the occupational safety and health problem;
 

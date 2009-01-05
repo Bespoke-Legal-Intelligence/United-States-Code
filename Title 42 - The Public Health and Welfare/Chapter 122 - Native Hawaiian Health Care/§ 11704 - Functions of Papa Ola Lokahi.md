@@ -32,7 +32,7 @@ Papa Ola Lokahi shall serve as a clearinghouse for:
 
 #### (d) Coordination of programs and services
 
-Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the health care programs and services provided to Native Hawaiians.
+Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the healthcare programs and services provided to Native Hawaiians.
 
 #### (e) Technical support
 

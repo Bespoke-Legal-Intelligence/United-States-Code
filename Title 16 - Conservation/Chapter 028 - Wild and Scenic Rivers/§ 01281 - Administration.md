@@ -2,7 +2,7 @@
 
 #### (a) Public use and enjoyment of components; protection of features; management plans
 
-Each component of the national wild and scenic rivers system shall be administered in such manner as to protect and enhance the values which caused it to be included in said system without, insofar as is consistent therewith, limiting other uses that do not substantially interfere with public use and enjoyment of these values. In such administration primary emphasis shall be given to protecting its esthetic, scenic, historic, archeologic, and scientific features. Management plans for any such component may establish varying degrees of intensity for its protection and development, based on the special attributes of the area.
+Each component of the national wild and scenic rivers system shall be administered in suchmanner as to protect and enhance the values which caused it to be included in said system without, insofar as is consistent therewith, limiting other uses that do not substantially interfere with public use and enjoyment of these values. In such administration primary emphasis shall be given to protecting its esthetic, scenic, historic, archeologic, and scientific features. Management plans for any such component may establish varying degrees of intensity for its protection and development, based on the special attributes of the area.
 
 #### (b) Wilderness areas
 
@@ -18,7 +18,7 @@ The Secretary of Agriculture, in his administration of any component of the nati
 
 #### (e) Cooperative agreements with State and local governments
 
-The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component.The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the system which include or adjoin State- or county-owned lands.
+The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component. The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the system which include or adjoin State- or county-owned lands.
 
 (Pub. L. 90–542, §10, Oct. 2, 1968, 82 Stat. 916.)
 

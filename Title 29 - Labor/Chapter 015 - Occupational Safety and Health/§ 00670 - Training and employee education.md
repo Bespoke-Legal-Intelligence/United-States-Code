@@ -14,7 +14,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### (d) Compliance assistance program
 
-(1) The Secretary shall establish and support cooperative agreements with the States underwhich employers subject to this chapter may consult with State personnel with respect to—
+(1) The Secretary shall establish and support cooperative agreements with the States under which employers subject to this chapter may consult with State personnel with respect to—
 
 &emsp;(A) the application of occupational safety and health requirements under this chapter or under State plans approved under section 667 of this title; and
 

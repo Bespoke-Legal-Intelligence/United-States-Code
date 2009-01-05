@@ -6,7 +6,7 @@ The corporation may—
 
 &emsp;(2) adopt and alter a corporate seal;
 
-&emsp;(3) establish and maintain offices in the District of Columbia and the States, territories, and possessions of the United States to conduct its affairs;
+&emsp;(3) establish and maintain offices in the District of Columbia and the States, territories,and possessions of the United States to conduct its affairs;
 
 &emsp;(4) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation;
 

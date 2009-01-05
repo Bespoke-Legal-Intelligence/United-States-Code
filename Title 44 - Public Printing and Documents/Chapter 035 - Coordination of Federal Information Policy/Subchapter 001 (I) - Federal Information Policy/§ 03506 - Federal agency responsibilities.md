@@ -28,7 +28,7 @@
 
 &emsp;(3) develop and maintain an ongoing process to—
 
-&emsp;&emsp;(A) ensure that information resources management operations and decisions are integrated with organizational planning,budget, financial management, human resources management, and program decisions;
+&emsp;&emsp;(A) ensure that information resources management operations and decisions are integrated with organizational planning, budget, financial management, human resources management, and program decisions;
 
 &emsp;&emsp;(B) in cooperation with the agency Chief Financial Officer (or comparable official), develop a full and accurate accounting of information technology expenditures, related expenses, and results; and
 
@@ -174,7 +174,7 @@
 
 &emsp;(4) propose changes in legislation, regulations, and agency procedures to improve information technology practices, including changes that improve the ability of the agency to use technology to reduce burden; and
 
-&emsp;(5) assume responsibility for maximizing the value and assessing and managing the risks of major information systems initiatives through a process that is—
+&emsp;(5) assume responsibility for maximizing the value and assessing and managing the risks ofmajor information systems initiatives through a process that is—
 
 &emsp;&emsp;(A) integrated with budget, financial, and program management decisions; and
 

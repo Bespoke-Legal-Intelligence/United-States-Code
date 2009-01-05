@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–454, §603(b), (c)(2)–(4), in cls. (1) and (2) subst
 
 Subsec. (c). Pub. L. 95–454, §603(c)(5), added subsec. (c).
 
-1975—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to completethe period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
+1975—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end “If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization.”
 
 Subsec. (d). Pub. L. 93–638, §104(<i>l</i>), as added by Pub. L. 100–472, added subsec. (d).
 

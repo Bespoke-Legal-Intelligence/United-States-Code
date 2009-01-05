@@ -94,7 +94,7 @@ This subsection provides for reimbursement of actual, necessary expenses. It fur
 
 #### References in Text
 
-The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 103–394, which was approved Oct. 22, 1994.
+The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in subsec. (b)(2), is the date ofenactment of Pub. L. 103–394, which was approved Oct. 22, 1994.
 
 #### Amendments
 

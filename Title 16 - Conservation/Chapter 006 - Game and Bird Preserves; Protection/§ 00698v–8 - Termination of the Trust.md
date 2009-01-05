@@ -22,7 +22,7 @@ In the event of termination of the Trust, the Secretary shall assume all managem
 
 #### (d) Assets
 
-In the event of termination of the Trust, all assets of the Trust shall be used to satisfy any outstanding liabilities, and any funds remaining shall be transferred to the Secretary for use, without further appropriation, for the management of the Preserve.
+In the event of termination of the Trust, all assets of the Trust shall be used to satisfy anyoutstanding liabilities, and any funds remaining shall be transferred to the Secretary for use, without further appropriation, for the management of the Preserve.
 
 #### (e) Valles Caldera Fund
 

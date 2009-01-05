@@ -56,7 +56,7 @@ Period of availability.—Funds authorized to carry out this section shall remai
 
 &emsp;(8)
 
-Use of surface transportation program funding.—In addition to funds made available to carry out this section, a State may expend up to 1/4 of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(3) on initiatives to halt the evasion of payment of motor fuel taxes.
+Use of surface transportation program funding.—In addition to funds madeavailable to carry out this section, a State may expend up to 1/4 of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(3) on initiatives to halt the evasion of payment of motor fuel taxes.
 
 &emsp;(9)
 
@@ -70,7 +70,7 @@ Excise Tax Fuel Reporting.—
 
 In general.—Not later than 90 days after the date of enactment of the SAFETEA–LU, the Secretary shall enter into a memorandum of understanding with the Commissioner of the Internal Revenue Service for the purposes of—
 
-&emsp;&emsp;(A) the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 (Public Law 108–357), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excisetaxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,
+&emsp;&emsp;(A) the additional development of capabilities needed to support new reporting requirements and databases established under such Act and the American Jobs Creation Act of 2004 (Public Law 108–357), and such other reporting requirements and database development as may be determined by the Secretary, in consultation with the Commissioner of the Internal Revenue Service, to be useful in the enforcement of fuel excise taxes, including provisions recommended by the Fuel Tax Enforcement Advisory Committee,
 
 &emsp;&emsp;(B) the completion of requirements needed for the electronic reporting of fuel transactions from carriers and terminal operators,
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Highway Use Tax Evasion Projects
 

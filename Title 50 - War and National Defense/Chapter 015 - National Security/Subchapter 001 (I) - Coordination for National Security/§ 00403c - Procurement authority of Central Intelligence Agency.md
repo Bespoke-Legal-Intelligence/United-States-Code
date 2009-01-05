@@ -40,9 +40,9 @@ Sections 2304 and 2305 of title 10 were amended generally by Pub. L. 98–369, a
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: “Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 struck out subsec. (e) which read as follows: “Notwithstanding subsection (e) of section 759 of title 40, the provisions of section 759 of title 40 relating to the procurement of automatic data processing equipment or services shall not apply with respect to such procurement by the Central Intelligence Agency.”
 
-1982—Subsec. (e). Pub. L. 97–269 added subsec. (e).
+<b>1982</b>—Subsec. (e). Pub. L. 97–269 added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 

@@ -52,3 +52,75 @@ Section 209(b) of the E-Government Act of 2002, referred to in subsec. (a), is s
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of Pub. L. 107–347, which was approved Dec. 17, 2002.
 
+#### Pilot Program for the Temporary Assignment of Information Technology Personnel to Private Sector Organizations
+
+Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, provided that:
+
+“(a)
+
+Assignment Authority.—The Secretary of Defense may, with the agreement of the private sector organization and the Department of Defense employee concerned, arrange for the temporary assignment of such employee to such private sector organization under this section. An employee shall be eligible for such an assignment only if—
+
+&emsp;“(1) the employee—
+
+&emsp;&emsp;“(A) works in the field of information technology management;
+
+&emsp;&emsp;“(B) is considered to be an exceptional employee;
+
+&emsp;&emsp;“(C) is expected to assume increased information technology management responsibilities in the future;
+
+&emsp;&emsp;“(D) is compensated at not less than the GS–11 level (or the equivalent); and
+
+&emsp;&emsp;“(E) is serving under a career or career-conditional appointment or an appointment of equivalent tenure in the excepted service; and
+
+&emsp;“(2) the proposed assignment meets applicable requirements of section 209(b) of the E-Government Act of 2002 \[Pub. L. 107–347\] (44 U.S.C. 3501 note).
+
+“(b)
+
+Agreements.—The Secretary of Defense shall provide for a written agreement between the Department of Defense and the employee concerned regarding the terms and conditions of the employee's assignment under this section. The agreement—
+
+&emsp;“(1) shall require that, upon completion of the assignment, the employee will serve in the civil service for a period equal to the length of the assignment; and
+
+&emsp;“(2) shall provide that if the employee fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason (as determined by the Secretary of Defense).
+
+> An amount for which an employee is liable under paragraph (2) shall be treated as a debt due the United States.
+
+“(c)
+
+Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the private sector organization concerned.
+
+“(d)
+
+Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2010.
+
+“(e)
+
+Considerations.—In carrying out this section, the Secretary of Defense—
+
+&emsp;“(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are to small business concerns (as defined by section 3703(e)(2)(A) of title 5, United States Code); and
+
+&emsp;“(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees in information technology management.
+
+“(f)
+
+Numerical Limitation.—In no event may more than 10 employees be participating in assignments under this section as of any given time.
+
+“(g)
+
+Reporting Requirement.—
+
+&emsp;“(1)
+
+In general.—Not later than 6 months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the potential benefits of a program under which employees specializing in information technology may be temporarily assigned from private sector organizations to the Department of Defense.
+
+&emsp;“(2)
+
+Contents.—The report shall include—
+
+&emsp;&emsp;“(A) a statement of findings and an explanation of the bases for those findings;
+
+&emsp;&emsp;“(B) an assessment of the laws, rules, and processes relating to the prevention of conflicts of interest and abuse which would apply to private sector employees during the period of their assignment to the Department of Defense, and whether they need to be strengthened or otherwise changed;
+
+&emsp;&emsp;“(C) mechanisms proposed for the governance and oversight of the program; and
+
+&emsp;&emsp;“(D) recommendations for any legislation which may be necessary.”
+

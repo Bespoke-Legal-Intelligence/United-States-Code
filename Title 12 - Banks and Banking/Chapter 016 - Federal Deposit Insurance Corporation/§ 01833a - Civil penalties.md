@@ -46,13 +46,13 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (1) In general
 
-&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceedingunder this section, the Attorney General may—
+&emsp;For the purpose of conducting a civil investigation in contemplation of a civil proceeding under this section, the Attorney General may—
 
 &emsp;&emsp;(A) administer oaths and affirmations;
 
 &emsp;&emsp;(B) take evidence; and
 
-&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers, correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
+&emsp;&emsp;(C) by subpoena, summon witnesses and require the production of any books, papers,correspondence, memoranda, or other records which the Attorney General deems relevant or material to the inquiry. Such subpoena may require the attendance of witnesses and the production of any such records from any place in the United States at any place in the United States designated by the Attorney General.
 
 #### (2) Procedures applicable
 

@@ -16,7 +16,7 @@
 
 &emsp;(4) the effect of reaffirming a debt, including the debtor's knowledge of the provisions of section 524(d) of this title.
 
-(e) Notwithstanding subsections (a) and (b), the court, on the request of a party in interestand after notice and a hearing, for cause may order that the United States trustee not convene a meeting of creditors or equity security holders if the debtor has filed a plan as to which the debtor solicited acceptances prior to the commencement of the case.
+(e) Notwithstanding subsections (a) and (b), the court, on the request of a party in interest and after notice and a hearing, for cause may order that the United States trustee not convene a meeting of creditors or equity security holders if the debtor has filed a plan as to which the debtor solicited acceptances prior to the commencement of the case.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 99–554, title II, §212, Oct. 27, 1986, 100 Stat. 3099; Pub. L. 103–394, title I, §115, Oct. 22, 1994, 108 Stat. 4118; Pub. L. 109–8, title IV, §§402, 413, Apr. 20, 2005, 119 Stat. 104, 107.)
 

@@ -2,11 +2,25 @@
 
 #### (a) Authorization of appropriations in support of the Task Force
 
-To carry out the purposes of section 104 <sup>1</sup> and sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.
+To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $5,500,000 for each of the fiscal years 2008 through 2011. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses for each of the fiscal years 2008 through 2011.
 
 #### (b) Authorization of appropriations to the Secretary of Health and Human Services
 
-To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Health and Human Services $5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.
+#### (1) Eligibility for benefits and assistance
+
+&emsp;To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Health and Human Services $12,500,000 for each of the fiscal years 2008 through 2011 <sup>1</sup>
+
+#### (2) Additional benefits for trafficking victims
+
+&emsp;To carry out the purposes of section 7105(f) <sup>2</sup> of this title, there are authorized to be appropriated to the Secretary of Health and Human Services—
+
+&emsp;&emsp;(A) $2,500,000 for fiscal year 2008;
+
+&emsp;&emsp;(B) $5,000,0000 <sup>3</sup> for fiscal year 2009;
+
+&emsp;&emsp;(C) $7,000,000 for fiscal year 2010; and
+
+&emsp;&emsp;(D) $7,000,000 for fiscal year 2011.
 
 #### (c) Authorization of appropriations to the Secretary of State
 
@@ -14,45 +28,59 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (A) Prevention
 
-&emsp;&emsp;To carry out the purposes of section 7104 of this title, there are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.
+&emsp;&emsp;To carry out the purposes of section 7104 of this title, there are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (B) Protection
 
-&emsp;&emsp;To carry out the purposes of section 7105(a) of this title, there are authorized to be appropriated to the Secretary of State $15,000,000 for fiscal year 2003 and $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.
+&emsp;&emsp;To carry out the purposes of section 7105(a) of this title, there are authorized to be appropriated to the Secretary of State $15,000,000 for fiscal year 2003 and $10,000,000 for each of the fiscal years 2008 through 2011. To carry out the purposes of section 7105(a)(1)(F) of this title, there are authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (C) Prosecution and meeting minimum standards
 
-&emsp;&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007 to assist in promoting prosecution of traffickers and otherwise to assist countries in meeting the minimum standards described in section 7106 of this title, including $250,000 for each such fiscal year to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+&emsp;&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 2008 through 2011 to assist in promoting prosecution of traffickers and otherwise to assist countries in meeting the minimum standards described in section 7106 of this title, including $250,000 for each such fiscal year to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
-#### (2) Voluntary contributions to OSCE
+#### (2) Preparation of annual country reports on human rights
 
-&emsp;To carry out the purposes of section 2152d <sup>1</sup> of this title, there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001 through 2005 $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participating states in related legal reform for such fiscal year.
-
-#### (3) Preparation of annual country reports on human rights
-
-&emsp;To carry out the purposes of section 104,<sup>1</sup> there are authorized to be appropriated to the Secretary of State such sums as may be necessary to include the additional information required by that section in the annual Country Reports on Human Rights Practices, including the preparation and publication of the list described in subsection (a)(1) of that section.<sup>1</sup>
+&emsp;To carry out the purposes of sections 2151n(f) and 2304(h) of this title, there are authorized to be appropriated to the Secretary of State such sums as may be necessary to include the additional information required by that section in the annual Country Reports on Human Rights Practices.
 
 #### (d) Authorization of appropriations to Attorney General
 
-To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007. To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2004, 2005, 2006, and 2007 to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+#### (A) Eligibility for benefits and assistance
+
+&emsp;To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2011.
+
+#### (B) Assistance to foreign countries
+
+&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President, acting through the Attorney General and the Secretary of State, $250,000 for each of fiscal years 2008 through 2011 to carry out training activities for law enforcement officers, prosecutors, and membersof the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+
+#### (C) Additional benefits for trafficking victims
+
+&emsp;To carry out the purposes of section 7105(f) <sup>2</sup> of this title, there are authorized to be appropriated to the Attorney General—
+
+&emsp;&emsp;(i) $2,500,000 for fiscal year 2008;
+
+&emsp;&emsp;(ii) $5,000,0000 <sup>3</sup> for fiscal year 2009;
+
+&emsp;&emsp;(iii) $7,000,000 for fiscal year 2010; and
+
+&emsp;&emsp;(iv) $7,000,000 for fiscal year 2011.
 
 #### (e) Authorization of appropriations to President
 
 #### (1) Foreign victim assistance
 
-&emsp;To carry out the purposes of section 7104 of this title, there are authorized to be appropriated to the President $5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.
+&emsp;To carry out the purposes of section 7104 of this title, there are authorized to be appropriated to the President $15,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (2) Assistance to foreign countries to meet minimum standards
 
-&emsp;To carry out the purposes of section 2152d <sup>1</sup> of this title, there are authorized to be appropriated to the President $5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.
+&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated to the President $15,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (3) Research
 
-&emsp;To carry out the purposes of section 7109a of this title, there are authorized to be appropriated to the President $300,000 for each of the fiscal years 2004 through 2007.
+&emsp;To carry out the purposes of section 7109a of this title, there are authorized to be appropriated to the President $2,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (f) Authorization of appropriations to the Secretary of Labor
 
-To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Labor $5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.
+To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Labor $10,000,000 for each of the fiscal years 2008 through 2011.
 
 #### (g) Limitation on use of funds
 
@@ -66,25 +94,59 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (h) Authorization of appropriations to Director of the FBI
 
-There are authorized to be appropriated to the Director of the Federal Bureau of Investigation $15,000,000 for fiscal year 2006, to remain available until expended, to investigate severe forms of trafficking in persons.
+There are authorized to be appropriated to the Director of the Federal Bureau of Investigation $15,000,000 for each of the fiscal years 2008 through 2011, to remain available until expended, to investigate severe forms of trafficking in persons.
 
 #### (i) Authorization of appropriations to the Secretary of Homeland Security
 
-There are authorized to be appropriated to the Secretary of Homeland Security, <sup>2</sup> $18,000,000 for each of the fiscal years 2006 and 2007, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+There are authorized to be appropriated to the Secretary of Homeland Security, <sup>4</sup> $18,000,000 for each of the fiscal years 2008 through 2011, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
-(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572.)
+(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085.)
 
 #### References in Text
 
-Section 104, referred to in subsecs. (a) and (c)(3), means section 104 of Pub. L. 106–386, which amended sections 2151n and 2304 of this title. Section 104(a) of Pub. L. 106–386, which does not contain a par. (1), amended generally subsec. (f) of section 2151n of this title.
-
-Section 2152d of this title, referred to in subsecs. (c)(2) and (e)(2), was in the original “section 109”, meaning section 109 of Pub. L. 106–386 which was translated as reading section 134 of the Foreign Assistance Act of 1961 which was enacted by section 109 and is classified to section 2152d of this title, to reflect the probable intent of Congress.
+Section 7105(f) of this title, referred to in subsecs. (b)(2) and (d)(C), probably means the subsec. (f) of section 7105 of this title which relates to assistance for United States citizens and lawful permanent residents and was added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
 This chapter, referred to in subsec. (g), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–457, §301(1)(A)(ii), (B), in first sentence, substituted “$5,500,000 for each of the fiscal years 2008 through 2011” for “$1,500,000 for fiscal year 2001, $3,000,000 for each of the fiscal years 2002 and 2003, $5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007” and, in second sentence, substituted “$1,500,000 for additional personnel for each of the fiscal years 2008 through 2011, and $3,000 for official reception and representation expenses” for “for official reception and representation expenses $3,000” and “2008 through 2011” for “2006 and 2007”.
+
+Pub. L. 110–457, §301(1)(A)(i), which directed striking out “section 104, and”, was executed by striking out “section 104 and” after “the purposes of”, to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 110–457, §213(a)(2)(A), designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
+
+Subsec. (b)(1). Pub. L. 110–457, §301(2), substituted “$12,500,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
+
+Subsec. (c)(1). Pub. L. 110–457, §301(3)(A)(i), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007” wherever appearing.
+
+Subsec. (c)(1)(B). Pub. L. 110–457, §301(3)(A)(ii), inserted at end “To carry out the purposes of section 7105(a)(1)(F) of this title, there are authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2008 through 2011.”
+
+Subsec. (c)(2). Pub. L. 110–457, §301(3)(D), substituted “sections 2151n(f) and 2304(h) of this title” for “section 104” and struck out “, including the preparation and publication of the list described in subsection (a)(1) of that section” before period at end.
+
+Pub. L. 110–457, §301(3)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text read as follows: “To carry out the purposes of section 2152d of this title, there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001 through 2005 $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participating states in related legal reform for such fiscal year.”
+
+Subsec. (c)(3). Pub. L. 110–457, §301(3)(C), redesignated par. (3) as (2).
+
+Subsec. (d). Pub. L. 110–457, §213(a)(2)(B), designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, and added subpar. (C).
+
+Subsec. (d)(A). Pub. L. 110–457, §301(4)(A), substituted “$10,000,000 for each of the fiscal years 2008 through 2011” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $15,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007”.
+
+Subsec. (d)(B). Pub. L. 110–457, §301(4)(B), substituted “2008 through 2011” for “2004, 2005, 2006, and 2007”.
+
+Subsec. (e)(1). Pub. L. 110–457, §301(5)(A), substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
+
+Subsec. (e)(2). Pub. L. 110–457, §301(5)(B), made technical amendment to reference in original act which appears in text as reference to section 2152d of this title and substituted “$15,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007.”
+
+Subsec. (e)(3). Pub. L. 110–457, §301(5)(C), substituted “$2,000,000 for each of the fiscal years 2008 through 2011.” for “$300,000 for each of the fiscal years 2004 through 2007.”
+
+Subsec. (f). Pub. L. 110–457, §301(6), substituted “$10,000,000 for each of the fiscal years 2008 through 2011.” for “$5,000,000 for fiscal year 2001 and $10,000,000 for fiscal year 2002 and $10,000,000 for each of the fiscal years 2004, 2005, 2006, and 2007.”
+
+Subsec. (h). Pub. L. 110–457, §301(7), substituted “each of the fiscal years 2008 through 2011” for “fiscal year 2006”.
+
+Subsec. (i). Pub. L. 110–457, §301(8), substituted “2008 through 2011” for “2006 and 2007”.
 
 2006—Subsec. (a). Pub. L. 109–164, §301(1), substituted “$5,000,000 for each of the fiscal years 2004 and 2005, and $5,500,000 for each of the fiscal years 2006 and 2007. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking for official reception and representation expenses $3,000 for each of the fiscal years 2006 and 2007.” for “and $5,000,000 for each of the fiscal years 2004 and 2005.”
 
@@ -124,7 +186,15 @@ Subsec. (c)(2). Pub. L. 107–228, §682(b)(2)(B), substituted “there is autho
 
 Subsec. (e)(1), (2). Pub. L. 107–228, §682(b)(3), substituted “, $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003” for “and $10,000,000 for fiscal year 2002”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Rule of Construction
 
-<i><sup>2</sup></i><i> So in original. Comma probably should not appear.</i>
+Pub. L. 110–457, title III, §303, Dec. 23, 2008, 122 Stat. 5087, provided that: “The amendments made by sections 301 and 302 \[amending this section, sections 14044 to 14044c of Title 42, The Public Health and Welfare, and provisions set out as a note under section 7105 of this title\] may not be construed to affect the availability of funds appropriated pursuant to the authorizations of appropriations under the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; 22 U.S.C. 7101 et seq.) and the Trafficking Victims Protection Reauthorization Act of 2005 (Public Law 109–164) \[see Tables for classification\] before the date of the enactment of this Act \[Dec. 23, 2008\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Comma probably should not appear.</i>
 

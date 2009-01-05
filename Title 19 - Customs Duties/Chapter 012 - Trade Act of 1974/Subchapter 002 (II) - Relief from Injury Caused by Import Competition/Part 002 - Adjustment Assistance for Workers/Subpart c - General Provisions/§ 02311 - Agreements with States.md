@@ -18,7 +18,7 @@ A determination by a cooperating State agency with respect to entitlement to pro
 
 #### (e) Coordination of benefits and assistance
 
-Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointlyadministering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
+Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] upon such terms and conditions as are established by the Secretary in consultation with the States and set forth in such agreement. Any agency of the State jointly administering such provisions under such agreement shall be considered to be a cooperating State agency for purposes of this part.
 
 #### (f) Advising and interviewing adversely affected workers
 

@@ -16,7 +16,7 @@ The Secretary, with the approval of the Attorney General, after each of them has
 
 The standards and procedures prescribed under subsection (b) of this section shall include the following requirements:
 
-&emsp;(1)(A)(i) Except as provided in clause (ii) or (iii) of this subparagraph, meetings held to develop or carry out a voluntary agreement orplan of action under this subsection shall permit attendance by representatives of committees of Congress and interested persons, including all interested segments of the petroleum industry, consumers, and the public; shall be preceded by timely and adequate notice with identification of the agenda of such meeting to the Attorney General, the Federal Trade Commission, committees of Congress, and (except during an international energy supply emergency with respect to meetings to carry out a voluntary agreement or to develop or carry out a plan of action) the public; and shall be initiated and chaired by a regular full-time Federal employee.
+&emsp;(1)(A)(i) Except as provided in clause (ii) or (iii) of this subparagraph, meetings held to develop or carry out a voluntary agreement or plan of action under this subsection shall permit attendance by representatives of committees of Congress and interested persons, including all interested segments of the petroleum industry, consumers, and the public; shall be preceded by timely and adequate notice with identification of the agenda of such meeting to the Attorney General, the Federal Trade Commission, committees of Congress, and (except during an international energy supply emergency with respect to meetings to carry out a voluntary agreement or to develop or carry out a plan of action) the public; and shall be initiated and chaired by a regular full-time Federal employee.
 
 &emsp;(ii) Meetings of bodies created by the International Energy Agency established by the international energy program need not be open to interested persons and need not be initiated and chaired by a regular full-time Federal employee.
 
@@ -78,7 +78,7 @@ Section 2158 of title 50, Appendix, shall not apply to any agreement or action u
 
 #### (i) Reports by Attorney General and Federal Trade Commission to Congress and President
 
-The Attorney General and the Federal Trade Commission shall each submit to the Congress and to the President, at such intervals as are appropriate based on significant developments and issues, reports on the impact on competition and on small business of actions authorized by this section.
+The Attorney General and the Federal Trade Commission shall each submit to the Congressand to the President, at such intervals as are appropriate based on significant developments and issues, reports on the impact on competition and on small business of actions authorized by this section.
 
 #### (j) Defense in breach of contract actions
 
@@ -138,7 +138,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(3) The joint resolution disapproving the transmission under subsection (m) of this section shall read as follows after the resolving clause: “That the Congress of the United States disapproves the availability of the defenses pursuant to section 252 (f) and (j) of the Energy Policy and Conservation Act with respect to Type 1 activities under the plan of action submitted to the Congress by the Secretary of Energy on        .”, the blank space therein being filled with the date and year of receipt by the Congress of the plan of action transmitted as described in subsection (m) of this section.
+(3) The joint resolution disapproving the transmission under subsection (m) of this section shall read as follows after the resolving clause: “That the Congress of the United States disapproves the availability of the defenses pursuant to section 252 (f) and (j) of the Energy Policy and Conservation Act with respect to Type 1 activities under the plan of action submitted tothe Congress by the Secretary of Energy on        .”, the blank space therein being filled with the date and year of receipt by the Congress of the plan of action transmitted as described in subsection (m) of this section.
 
 (4)(A) If the Committee on Energy and Natural Resources of the Senate has not reported a joint resolution referred to it under this subsection at the end of 20 calendar days of continuous session after its referral, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration of any other joint resolution which has been referred to the committee with respect to such plan of action.
 
@@ -146,7 +146,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other joint resolution with respect to the same transmission.
 
-(5)(A) When the Committee on Energy and Natural Resources of the Senate has reported or has been discharged from further consideration of a joint resolution, it shall be in order at anytime thereafter within the 90-day period following receipt by the Congress of the plan of action (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of such joint resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider a vote by which the motion was agreed to or disagreed to.
+(5)(A) When the Committee on Energy and Natural Resources of the Senate has reported or has been discharged from further consideration of a joint resolution, it shall be in order at any time thereafter within the 90-day period following receipt by the Congress of the plan of action (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of such joint resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider a vote by which the motion was agreed to or disagreed to.
 
 (B) Debate on the joint resolution shall be limited to not more than 10 hours and final action on the joint resolution shall occur immediately following conclusion of such debate. A motion further to limit debate shall not be debatable. A motion to recommit such a joint resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such a joint resolution was agreed to or disagreed to.
 
@@ -218,7 +218,7 @@ Pub. L. 96–30 substituted “October 31, 1979” for “June 30, 1979”.
 
 #### Study and Report on Energy Policy Cooperation Between United States and Other Western Hemisphere Countries
 
-Pub. L. 100–373, §2, July 19, 1988, 102 Stat. 878, directed Secretary of Energy, in consultation with Secretary of State and Secretary of Commerce, to conduct a studyto determine how best to enhance cooperation between United States and other countries of Western Hemisphere with respect to energy policy including stable supplies of, and stable prices for, energy, with Secretary of Energy to report results of such study to Congress, propose a comprehensive international energy policy for United States designed to enhance cooperation between United States and other countries of the Western Hemisphere, and recommend such action as Secretary deemed necessary to establish and implement such policy.
+Pub. L. 100–373, §2, July 19, 1988, 102 Stat. 878, directed Secretary of Energy, in consultation with Secretary of State and Secretary of Commerce, to conduct a study to determine how best to enhance cooperation between United States and other countries of Western Hemisphere with respect to energy policy including stable supplies of, and stable prices for, energy, with Secretary of Energy to report results of such study to Congress, propose a comprehensive international energy policy for United States designed to enhance cooperation between United States and other countries of the Western Hemisphere, and recommend such action as Secretary deemed necessary to establish and implement such policy.
 
 #### Report of Implementation Activities Under International Voluntary Agreements
 

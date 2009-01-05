@@ -10,7 +10,7 @@ An operator shall—
 
 &emsp;(1) develop and comply with a site security plan designed to protect the oil or gas produced or stored on an onshore lease site from theft, which plan shall conform with such minimum standards as the Secretary may prescribe by rule, taking into account the variety of circumstances at lease sites;
 
-&emsp;(2) develop and comply with such minimum site security measures as the Secretary deems appropriate to protect oil or gas produced orstored on a lease site or on the Outer Continental Shelf from theft; and
+&emsp;(2) develop and comply with such minimum site security measures as the Secretary deems appropriate to protect oil or gas produced or stored on a lease site or on the Outer Continental Shelf from theft; and
 
 &emsp;(3) not later than the 5th business day after any well begins production anywhere on a lease site or allocated to a lease site, or resumes production in the case of a well which has been off of production for more than 90 days, notify the Secretary, in the manner prescribed by the Secretary, of the date on which such production has begun or resumed.
 
@@ -32,7 +32,7 @@ An operator shall—
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first dayof the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Applicability of 1996 Amendment
 

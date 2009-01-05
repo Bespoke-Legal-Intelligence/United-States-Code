@@ -26,7 +26,7 @@
 
 (B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 109–163, div. A, title V, §515(b)(1)(J), Jan. 6, 2006, 119 Stat. 3233.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L.96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 109–163, div. A, title V, §515(b)(1)(J), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 

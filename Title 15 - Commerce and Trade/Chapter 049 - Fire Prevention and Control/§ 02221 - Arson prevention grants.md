@@ -64,7 +64,7 @@ In order to qualify for a grant under this section, a State, or consortium of St
 
 &emsp;(3) will use no more than 10 percent of funds provided under the grant for administrative costs of the programs; and
 
-&emsp;(4) is making efforts to ensure that all local jurisdictions will provide arson data to the National Fire Incident Reporting System or the Uniform Crime Reporting program.
+&emsp;(4) is making efforts to ensure that all local jurisdictions will provide arson data to theNational Fire Incident Reporting System or the Uniform Crime Reporting program.
 
 #### (f) Extension
 

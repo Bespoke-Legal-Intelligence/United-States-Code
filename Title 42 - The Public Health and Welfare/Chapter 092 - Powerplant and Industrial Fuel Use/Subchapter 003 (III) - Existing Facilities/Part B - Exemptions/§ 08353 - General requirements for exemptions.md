@@ -2,7 +2,7 @@
 
 #### (a) Use of mixtures or fluidized bed combustion not feasible
 
-Except in the case of an exemption under section 8352(b), (f), or (i) of this title, the Secretarymay grant a permanent exemption for a powerplant under this part only—
+Except in the case of an exemption under section 8352(b), (f), or (i) of this title, the Secretary may grant a permanent exemption for a powerplant under this part only—
 
 &emsp;(1) if the applicant has demonstrated that the use of a mixture of natural gas or petroleum and coal (or other alternate fuels), for which an exemption under section 8352(b) of this title would be available, is not economically or technically feasible; and
 

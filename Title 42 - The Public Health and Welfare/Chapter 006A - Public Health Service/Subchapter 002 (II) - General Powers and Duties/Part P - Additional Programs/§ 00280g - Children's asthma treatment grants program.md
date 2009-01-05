@@ -176,7 +176,7 @@ Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: “The Con
 
 &emsp;“(7) In 2000, 4,487 people died from asthma, and of these 223 were children.
 
-&emsp;“(8) According to the Centers for Disease Control and Prevention, asthma is a common cause of missedschool days, accounting for approximately 14,000,000 missed school days annually.
+&emsp;“(8) According to the Centers for Disease Control and Prevention, asthma is a common cause of missed school days, accounting for approximately 14,000,000 missed school days annually.
 
 &emsp;“(9) According to the New England Journal of Medicine, working parents of children with asthma lose an estimated $1,000,000,000 a year in productivity.
 

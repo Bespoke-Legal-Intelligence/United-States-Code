@@ -1,0 +1,120 @@
+### §8110. Feedstock flexibility program for bioenergy producers
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Bioenergy
+
+&emsp;The term “bioenergy” means fuel grade ethanol and other biofuel.
+
+#### (2) Bioenergy producer
+
+&emsp;The term “bioenergy producer” means a producer of bioenergy that uses an eligible commodity to produce bioenergy under this section.
+
+#### (3) Eligible commodity
+
+&emsp;The term “eligible commodity” means a form of raw or refined sugar or in-process sugar that is eligible to be marketed in the United States for human consumption or to be used for the extraction of sugar for human consumption.
+
+#### (4) Eligible entity
+
+&emsp;The term “eligible entity” means an entity located in the United States that markets an eligible commodity in the United States.
+
+#### (b) Feedstock flexibility program
+
+#### (1) In general
+
+#### (A) Purchases and sales
+
+&emsp;&emsp;For each of the 2008 through 2012 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+
+#### (B) Competitive procedures
+
+&emsp;&emsp;In carrying out the purchases and sales required under subparagraph (A), the Secretary shall, to the maximum extent practicable, use competitive procedures, including the receiving, offering, and accepting of bids, when entering into contracts with eligible entities and bioenergy producers, provided that such procedures are consistent with the purposes of subparagraph (A).
+
+#### (C) Limitation
+
+&emsp;&emsp;The purchase and sale of eligible commodities under subparagraph (A) shall only be made in crop years in which such purchases and sales are necessary to ensure that the program authorized under section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+
+#### (2) Notice
+
+#### (A) In general
+
+&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2012, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+
+#### (B) Reestimates
+
+&emsp;&emsp;Not later than the January 1, April 1, and July 1 of the calendar year following the date of a notice under subparagraph (A), the Secretary shall reestimate the quantity of eligible commodities determined under subparagraph (A), and provide notice and make purchases and sales based on such reestimates.
+
+#### (3) Commodity Credit Corporation inventory
+
+#### (A) Dispositions
+
+#### (i) Bioenergy and generally
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), to the extent that an eligible commodity is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title), the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) sell the eligible commodity to bioenergy producers under this section consistent with paragraph (1)(C);
+
+&emsp;&emsp;&emsp;&emsp;(II) dispose of the eligible commodity in accordance with section 7272(f)(2) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(III) otherwise dispose of the eligible commodity through the buyback of certificates of quota entry.
+
+#### (ii) Preservation of other authorities
+
+&emsp;&emsp;&emsp;Nothing in this section limits the use of other authorities for the disposition of an eligible commodity held in the inventory of the Commodity Credit Corporation for nonfood use or otherwise in a manner that does not increase the net quantity of sugar available for human consumption in the United States market, consistent with section 7272(f)(1) of this title.
+
+#### (B) Emergency shortages
+
+&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 ofthis title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
+
+#### (4) Transfer rule; storage fees
+
+#### (A) General transfer rule
+
+&emsp;&emsp;Except with regard to emergency dispositions under paragraph (3)(B) and as provided in subparagraph (C), the Secretary shall ensure that bioenergy producers that purchase eligible commodities pursuant to this section take possession of the eligible commodities within 30 calendar days of the date of such purchase from the Commodity Credit Corporation.
+
+#### (B) Payment of storage fees prohibited
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall, to the maximum extent practicable, carry out this section in a manner that ensures no storage fees are paid by the Commodity Credit Corporation in the administration of this section.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any commodities owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title).
+
+#### (C) Option to prevent storage fees
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may enter into contracts with bioenergy producers to sell eligible commodities to such producers prior in time to entering into contracts with eligible entities to purchase the eligible commodities to be used to satisfy the contracts entered into with the bioenergy producers.
+
+#### (ii) Special transfer rule
+
+&emsp;&emsp;&emsp;If the Secretary makes a sale and purchase referred to in clause (i), the Secretary shall ensure that the bioenergy producer that purchased eligible commodities takes possession of such commodities within 30 calendar days of the date the Commodity Credit Corporation purchases the eligible commodities.
+
+#### (5) Relation to other laws
+
+&emsp;If sugar that is subject to a marketing allotment under part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor's allocation of an allotment under such part, as applicable.
+
+#### (6) Funding
+
+&emsp;The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
+
+(Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086.)
+
+#### References in Text
+
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+
+A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this title, prior to the general amendment of this chapter by Pub. L. 110–246.
+

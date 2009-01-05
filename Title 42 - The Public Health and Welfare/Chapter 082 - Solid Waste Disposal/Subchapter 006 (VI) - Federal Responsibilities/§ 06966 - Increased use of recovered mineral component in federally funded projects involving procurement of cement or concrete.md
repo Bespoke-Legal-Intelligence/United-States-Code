@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(B) coal combustion fly ash; and
 
-&emsp;&emsp;(C) any other waste material or byproduct recovered or diverted from solid waste that the Administrator, in consultation with an agency head, determines should be treatedas recovered mineral component under this section for use in cement or concrete projects paid for, in whole or in part, by the agency head.
+&emsp;&emsp;(C) any other waste material or byproduct recovered or diverted from solid waste that the Administrator, in consultation with an agency head, determines should be treated as recovered mineral component under this section for use in cement or concrete projects paid for, in whole or in part, by the agency head.
 
 #### (b) Implementation of requirements
 
@@ -74,7 +74,7 @@ In this section:
 
 #### (d) Additional procurement requirements
 
-Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review or delay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) of this section is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
+Unless the study conducted under subsection (c) of this section identifies any effects or other problems described in subsection (c)(2)(C)(iii) of this section that warrant further review ordelay, the Administrator and each agency head shall, not later than 1 year after the date on which the report under subsection (c)(3) of this section is submitted, take additional actions under this chapter to establish procurement requirements and incentives that provide for the use of cement and concrete with increased substitution of recovered mineral component in the construction and maintenance of cement or concrete projects—
 
 &emsp;(1) to realize more fully the energy savings and environmental benefits associated with increased substitution; and
 

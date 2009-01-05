@@ -10,7 +10,7 @@
 
 &emsp;(B) by that alteration or servicing, intentionally renders that equipment unsafe and unfit for the purpose for which it is intended.
 
-(c) A person that employs a means or device whereby a boiler may be subjected to a pressure greater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
+(c) A person that employs a means or device whereby a boiler may be subjected to a pressuregreater than allowed by the terms of the vessel's certificate of inspection commits a class D felony.
 
 (d) A person that deranges or hinders the operation of any machinery or device employed on a vessel to denote the state of steam or water in any boiler or to give warning of approaching danger, or permits the water level of any boiler when in operation of a vessel to fall below its prescribed low-water line, commits a class D felony.
 
@@ -98,7 +98,7 @@ Subsec. (b)(1). Pub. L. 104–324, §310, designated existing provisions as par.
 
 Subsec. (j)(1). Pub. L. 104–324, §713(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
-1990—Subsec. (b). Pub. L. 101–380, §4302(b)(1), substituted “commits a class D felony” for “shall be fined not more than $10,000, imprisoned for not more than 5 years, or both”.
+1990—Subsec. (b). Pub. L. 101–380, §4302(b)(1), substituted “commits a class D felony” for “shall be finednot more than $10,000, imprisoned for not more than 5 years, or both”.
 
 Subsec. (c). Pub. L. 101–380, §4302(b)(2), substituted “commits a class D felony” for “shall be fined not more than $5,000, imprisoned for not more than 5 years, or both”.
 

@@ -1,0 +1,20 @@
+### §22702. Authority
+
+(a)
+
+In General.—Each State may prepare and maintain a State rail plan in accordance with the provisions of this chapter.
+
+(b)
+
+Requirements.—The Secretary shall establish the minimum requirements for the preparation and periodic revision of a State rail plan, including that a State shall—
+
+&emsp;(1) establish or designate a State rail transportation authority to prepare, maintain, coordinate, and administer the plan;
+
+&emsp;(2) establish or designate a State rail plan approval authority to approve the plan;
+
+&emsp;(3) submit the State's approved plan to the Secretary of Transportation for review; and
+
+&emsp;(4) revise and resubmit a State-approved plan no less frequently than once every 5 years for reapproval by the Secretary.
+
+(Added Pub. L. 110–432, div. B, title III, §303(a), Oct. 16, 2008, 122 Stat. 4948.)
+

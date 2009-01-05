@@ -52,7 +52,7 @@
 
 &emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
 
-&emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
+&emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shallmaintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
 &emsp;&emsp;(i) Gathering detailed information regarding humanitarian affairs and the observance of and respect for internationally recognized human rights in each country to which requirements of sections 2151n and 2304 of this title are relevant.
 
@@ -94,19 +94,19 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (1) In general
 
-&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of UnitedStates Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
+&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
 
 #### (2) Authorities and duties; definitions
 
 #### (A) Authorities
 
-&emsp;&emsp;The Coordinator, acting through such nongovernmental organizations (including faith-based and community-based organizations) and relevant executive branch agencies as may be necessary and appropriate to effect the purposes of this section, is authorized—
+&emsp;&emsp;The Coordinator, acting through such nongovernmental organizations (including faith-based and community-based organizations), partner country finance, health, and other relevant ministries, and relevant executive branch agencies as may be necessary and appropriate to effect the purposes of this section, is authorized—
 
 &emsp;&emsp;&emsp;(i) to operate internationally to carry out prevention, care, treatment, support, capacity development, and other activities for combatting HIV/AIDS;
 
 &emsp;&emsp;&emsp;(ii) to transfer and allocate funds to relevant executive branch agencies; and
 
-&emsp;&emsp;&emsp;(iii) to provide grants to, and enter into contracts with, nongovernmental organizations (including faith-based and community-based organizations) to carry out the purposes of section.
+&emsp;&emsp;&emsp;(iii) to provide grants to, and enter into contracts with, nongovernmental organizations (including faith-based and community-based organizations), partner country finance, health, and other relevant ministries, to carry out the purposes of section.
 
 #### (B) Duties
 
@@ -124,15 +124,35 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(III) Avoiding duplication of effort.
 
-&emsp;&emsp;&emsp;&emsp;(IV) Ensuring coordination of relevant executive branch agency activities in the field.
+&emsp;&emsp;&emsp;&emsp;(IV) Establishing an interagency working group on HIV/AIDS headed by the Global AIDS Coordinator and comprised of representatives from the United States Agency for International Development and the Department of Health and Human Services, for the purposes of coordination of activities relating to HIV/AIDS, including—
 
-&emsp;&emsp;&emsp;&emsp;(V) Pursuing coordination with other countries and international organizations.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meeting regularly to review progress in partner countries toward HIV/AIDS prevention, treatment, and care objectives;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) participating in the process of identifying countries to consider for increased assistance based on the epidemiology of HIV/AIDS in those countries, including clear evidence of a public health threat, as well as government commitment to address the HIV/AIDS problem, relative need, and coordination and joint planning with other significant actors;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) assisting the Coordinator in the evaluation, execution, and oversight of country operational plans;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) reviewing policies that may be obstacles to reaching targets set forth for HIV/AIDS prevention, treatment, and care; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) consulting with representatives from additional relevant agencies, including the National Institutes of Health, the Health Resources and Services Administration, the Department of Labor, the Department of Agriculture, the Millennium Challenge Corporation, the Peace Corps, and the Department of Defense.
+
+&emsp;&emsp;&emsp;&emsp;(V) Coordinating overall United States HIV/AIDS policy and programs, including ensuring the coordination of relevant executive branch agency activities in the field, with efforts led by partner countries, and with the assistance provided by other relevant bilateral and multilateral aid agencies and other donor institutions to promote harmonization with other programs aimed at preventing and treating HIV/AIDS and other health challenges, improving primary health, addressing food security, promoting education and development, and strengthening health care systems.
 
 &emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
+&emsp;&emsp;&emsp;&emsp;(VII) Holding annual consultations with nongovernmental organizations in partner countries that provide services to improve health, and advocating on behalf of the individuals with HIV/AIDS and those at particular risk of contracting HIV/AIDS, including organizations with members who are living with HIV/AIDS.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Establishing due diligence criteria for all recipients of funds section and all activities subject to the coordination and appropriate monitoring, evaluation, and audits carried out by the Coordinator necessary to assess the measurable outcomes of such activities.
+&emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, that HIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
+
+&emsp;&emsp;&emsp;&emsp;(IX) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Vietnam, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program. In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.
+
+&emsp;&emsp;&emsp;&emsp;(X) Working with partner countries in which the HIV/AIDS epidemic is prevalent among injection drug users to establish, as a national priority, national HIV/AIDS prevention programs.
+
+&emsp;&emsp;&emsp;&emsp;(XI) Working with partner countries in which the HIV/AIDS epidemic is prevalent among individuals involved in commercial sex acts to establish, as a national priority, national prevention programs, including education, voluntary testing, and counseling, and referral systems that link HIV/AIDS programs with programs to eradicate trafficking in persons and support alternatives to prostitution.
+
+&emsp;&emsp;&emsp;&emsp;(XII) Establishing due diligence criteria for all recipients of funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under section 7671 of this title and all activities subject to the coordination and appropriate monitoring, evaluation, and audits carried out by the Coordinator necessary to assess the measurable outcomes of such activities.
+
+&emsp;&emsp;&emsp;&emsp;(XIII) Publicizing updated drug pricing data to inform the purchasing decisions of pharmaceutical procurement partners.
 
 #### (C) Definitions
 
@@ -168,11 +188,11 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2733 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -183,6 +203,28 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2008—Subsec. (f)(2)(A). Pub. L. 110–293, §102(1), which directed insertion of “, partner country finance, health, and other relevant ministries,” after “community based organizations)” wherever appearing, was executed by making the insertion after “community-based organizations)” in introductory provisions and in cl. (iii), to reflect the probable intent of Congress.
+
+Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcls. (IV) and (V) and struck out former subcls. (IV) and (V) which read as follows:
+
+“(IV) Ensuring coordination of relevant executive branch agency activities in the field.
+
+“(V) Pursuing coordination with other countries and international organizations.”
+
+Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
+
+Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted “Vietnam,” after “Uganda,” and “, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program” after “May 27, 2003” and inserted at end “In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.”,
+
+Pub. L. 110–293, §102(2)(C), redesignated subcl. (VII) as (IX).
+
+Subsec. (f)(2)(B)(ii)(X), (XI). Pub. L. 110–293, §102(2)(F), added subcls. (X) and (XI).
+
+Subsec. (f)(2)(B)(ii)(XII). Pub. L. 110–293, §102(2)(G), substituted “funds appropriated for HIV/AIDS assistance pursuant to the authorization of appropriations under section 7671 of this title” for “funds section”.
+
+Pub. L. 110–293, §102(2)(C), redesignated subcl. (VIII) as (XII).
+
+Subsec. (f)(2)(B)(ii)(XIII). Pub. L. 110–293, §102(2)(H), added subcl. (XIII).
 
 2004—Subsec. (b)(3). Pub. L. 108–458 inserted “The Under Secretary for Public Diplomacy shall—” at end and added subpars. (A) to (E).
 
@@ -300,23 +342,7 @@ Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provid
 
 #### Comprehensive Workforce Plan
 
-Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, provided that:
-
-“(a)
-
-Workforce Plan.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a comprehensive workforce plan for the Department for the fiscal years 2003 through 2007. The plan shall consider personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations. The workforce plan should set forth—
-
-&emsp;“(1) the detailed mission of the Department;
-
-&emsp;“(2) the definition of work to be done;
-
-&emsp;“(3) a description of cyclical personnel needs based on expected retirements and attrition; and
-
-&emsp;“(4) a statement of the time required to hire, train, and deploy new personnel.
-
-“(b)
-
-Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
+Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
 #### “Rightsizing” Overseas Posts
 
@@ -406,7 +432,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 “(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experiencein the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 “(b)
 

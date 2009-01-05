@@ -60,3 +60,23 @@ Subsec. (d)(2). Pub. L. 101–280, §4(d)(3)(B), substituted “Government,” f
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
+#### Limitation on Acceptance of Honorary Club Memberships
+
+Pub. L. 110–402, §2, Oct. 13, 2008, 122 Stat. 4255, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Gift.—The term ‘gift’ has the meaning given under section 109(5) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+&emsp;“(2)
+
+Judicial officer.—The term ‘judicial officer’ has the meaning given under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+
+“(b)
+
+Prohibition on Acceptance of Honorary Club Memberships.—A judicial officer may not accept a gift of an honorary club membership with a value of more than $50 in any calendar year.”
+

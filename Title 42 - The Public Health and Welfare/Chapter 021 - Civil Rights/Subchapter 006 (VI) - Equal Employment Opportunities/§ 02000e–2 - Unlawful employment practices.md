@@ -18,7 +18,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin;
 
-&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which woulddeprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
+&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of this subchapter, it shall not be an unlaw
 
 #### (i) Businesses or enterprises extending preferential treatment to Indians
 
-Nothing contained in this subchapter shall apply to any business or enterprise on or near an Indian reservation with respect to any publicly announced employment practice of such business or enterprise under which a preferential treatment is given to any individual because he is an Indian living on or near a reservation.
+Nothing contained in this subchapter shall apply to any business or enterprise on or near anIndian reservation with respect to any publicly announced employment practice of such business or enterprise under which a preferential treatment is given to any individual because he is an Indian living on or near a reservation.
 
 #### (j) Preferential treatment not to be granted on account of existing number or percentage imbalance
 
@@ -92,13 +92,13 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;&emsp;(II) a reasonable opportunity to present objections to such judgment or order; or
 
-&emsp;(ii) by a person whose interests were adequately represented by another person who had previously challenged the judgment or order on the same legal grounds and with a similar factual situation, unless there has been an intervening change in law or fact.
+&emsp;(ii) by a person whose interests were adequately represented by another person who had previously challenged the judgment or order on the same legal grounds and with asimilar factual situation, unless there has been an intervening change in law or fact.
 
 (2) Nothing in this subsection shall be construed to—
 
 &emsp;(A) alter the standards for intervention under rule 24 of the Federal Rules of Civil Procedure or apply to the rights of parties who have successfully intervened pursuant to such rule in the proceeding in which the parties intervened;
 
-&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgmentor order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
+&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
 
 &emsp;(C) prevent challenges to a litigated or consent judgment or order on the ground that such judgment or order was obtained through collusion or fraud, or is transparently invalid or was entered by a court lacking subject matter jurisdiction; or
 

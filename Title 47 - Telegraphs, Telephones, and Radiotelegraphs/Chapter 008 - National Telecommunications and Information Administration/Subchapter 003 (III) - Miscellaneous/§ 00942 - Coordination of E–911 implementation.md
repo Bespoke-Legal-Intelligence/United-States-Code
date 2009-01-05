@@ -36,7 +36,7 @@
 
 #### (1) Matching grants
 
-&emsp;The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, and acting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services.
+&emsp;The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, andacting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services and for migration to an IP-enabled emergency network.
 
 #### (2) Matching requirement
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) in the case of an eligible entity that is a State government, the entity—
 
-&emsp;&emsp;&emsp;(i) has coordinated its application with the public safety answering points (as suchterm is defined in section 222(h)(4) of this title) located within the jurisdiction of such entity;
+&emsp;&emsp;&emsp;(i) has coordinated its application with the public safety answering points (as such term is defined in section 222(h)(4) of this title) located within the jurisdiction of such entity;
 
 &emsp;&emsp;&emsp;(ii) has designated a single officer or governmental body of the entity to serve as the coordinator of implementation of E–911 services, except that such designation need not vest such coordinator with direct legal authority to implement E–911 services or manage emergency communications operations;
 
@@ -86,7 +86,41 @@
 
 &emsp;&emsp;(C) not be eligible to receive any subsequent grants under subsection (b) of this section.
 
-#### (d) Authorization; termination
+#### (d) Migration plan required
+
+#### (1) National plan required
+
+&emsp;No more than 270 days after July 23, 2008, the Office shall develop and report to Congress on a national plan for migrating to a national IP-enabled emergency network capable of receiving and responding to all citizen-activated emergency communications and improving information sharing among all emergency response entities.
+
+#### (2) Contents of plan
+
+&emsp;The plan required by paragraph (1) shall—
+
+&emsp;&emsp;(A) outline the potential benefits of such a migration;
+
+&emsp;&emsp;(B) identify barriers that must be overcome and funding mechanisms to address those barriers;
+
+&emsp;&emsp;(C) provide specific mechanisms for ensuring the IP-enabled emergency network isavailable in every community and is coordinated on a local, regional, and statewide basis;
+
+&emsp;&emsp;(D) identify location technology for nomadic devices and for office buildings and multi-dwelling units;
+
+&emsp;&emsp;(E) include a proposed timetable, an outline of costs, and potential savings;
+
+&emsp;&emsp;(F) provide specific legislative language, if necessary, for achieving the plan;
+
+&emsp;&emsp;(G) provide recommendations on any legislative changes, including updating definitions, that are necessary to facilitate a national IP-enabled emergency network;
+
+&emsp;&emsp;(H) assess, collect, and analyze the experiences of the public safety answering points and related public safety authorities who are conducting trial deployments of IP-enabled emergency networks as of July 23, 2008;
+
+&emsp;&emsp;(I) identify solutions for providing 9–1–1 and enhanced 9–1–1 access to those with disabilities and needed steps to implement such solutions, including a recommended timeline; and
+
+&emsp;&emsp;(J) analyze efforts to provide automatic location for enhanced 9–1–1 services and provide recommendations on regulatory or legislative changes that are necessary to achieve automatic location for enhanced 9–1–1 services.
+
+#### (3) Consultation
+
+&emsp;In developing the plan required by paragraph (1), the Office shall consult with representatives of the public safety community, groups representing those with disabilities, technology and telecommunications providers, IP-enabled voice service providers, Telecommunications Relay Service providers, and other emergency communications providers and others it deems appropriate.
+
+#### (e) Authorization; termination
 
 #### (1) Authorization
 
@@ -96,7 +130,7 @@
 
 &emsp;The provisions of this section shall cease to be effective on October 1, 2009.
 
-#### (e) Definitions
+#### (f) Definitions
 
 As used in this section:
 
@@ -120,7 +154,7 @@ As used in this section:
 
 #### (C) Exception
 
-&emsp;&emsp;Such term does not include any entity that has failed to submit the most recentlyrequired certification under subsection (c) of this section within 30 days after the date on which such certification is due.
+&emsp;&emsp;Such term does not include any entity that has failed to submit the most recently required certification under subsection (c) of this section within 30 days after the date on which such certification is due.
 
 #### (4) E–911 services
 
@@ -134,13 +168,17 @@ As used in this section:
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543.)
+(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543; Pub. L. 110–283, title I, §102, July 23, 2008, 122 Stat. 2623.)
 
 #### Codification
 
 December 23, 2004, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–494, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–283, §102(1), inserted “and for migration to an IP-enabled emergency network” before period at end.
+
+Subsecs. (d) to (f). Pub. L. 110–283, §102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 2007—Subsec. (b)(4). Pub. L. 110–53 inserted at end “Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section.”
 

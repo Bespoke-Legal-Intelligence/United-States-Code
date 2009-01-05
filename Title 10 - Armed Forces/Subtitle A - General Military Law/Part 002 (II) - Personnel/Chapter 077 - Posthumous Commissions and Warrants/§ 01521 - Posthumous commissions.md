@@ -2,15 +2,17 @@
 
 (a) The President may issue, or have issued, an appropriate commission in the name of a member of the armed forces who, after September 8, 1939—
 
-&emsp;(1) was appointed to a commissioned grade but was unable to accept the appointment because of death in line of duty;
+&emsp;(1) was appointed to a commissioned grade but was unable to accept the appointment because of death;
 
-&emsp;(2) successfully completed the course at an officers’ training school and was recommended for appointment to a commissioned grade by the commanding officer or officer in charge of the school but was unable to accept the appointment because of death in line of duty; or
+&emsp;(2) successfully completed the course at an officers’ training school and was recommended for appointment to a commissioned grade by the commanding officer or officer in charge of the school but was unable to accept the appointment because of death; or
 
-&emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death in line of duty.
+&emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death.
 
 (b) A commission issued under subsection (a) shall issue as of the date of the appointment, recommendation, or official recommendation, as the case may be, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 106–398, §1 \[\[div. A\], title V, §505\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
+(c) A commission issued under subsection (a) in connection with the promotion of a deceased member to a higher commissioned grade shall require certification by the Secretary concerned that, at the time of death of the member, the member was qualified for appointment to that higher grade.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 106–398, §1 \[\[div. A\], title V, §505\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102; Pub. L. 110–417, \[div. A\], title V, §502(a), Oct. 14, 2008, 122 Stat. 4433.)
 
 Historical and Revision Notes
 
@@ -71,6 +73,10 @@ In subsection (a), the words “a member of” are substituted for the words “
 In subsection (b), the words “if any” are substituted for words “of the service”. The words “appointment and”, in 10:491b and 34:285c, and “appointment or promotion and”, in 10:491c and 34:285d, are omitted as surplusage.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–417, §502(a)(1), struck out “in line of duty” after “death” in pars. (1) to (3).
+
+Subsec. (c). Pub. L. 110–417, §502(a)(2), added subsec. (c).
 
 2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(a)\], struck out “and the recommendation for whose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
 

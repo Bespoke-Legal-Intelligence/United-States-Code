@@ -6,7 +6,7 @@ The State of Arizona may relinquish in favor of the Papago Indians such tracts w
 
 #### References in Text
 
-The Enabling Act of June 20, 1910, referred to in text, probably means act June 20, 1910, ch. 310, 36 Stat. 557,which provided that, subject to certain limitations, lieu selections of land in Arizona are to be made pursuant to sections 851 and 852 of Title 43, Public Lands.
+The Enabling Act of June 20, 1910, referred to in text, probably means act June 20, 1910, ch. 310, 36 Stat. 557, which provided that, subject to certain limitations, lieu selections of land in Arizona are to be made pursuant to sections 851 and 852 of Title 43, Public Lands.
 
 Section 315g of title 43, referred to in text, was repealed by Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792.
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(H) developing or adapting elementary school and secondary school mathematics and science curricular materials that incorporate contemporary research on the science of learning;
 
-&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the use of induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
+&emsp;&emsp;(I) developing initiatives to increase and sustain the number, quality, and diversity of prekindergarten through grade 12 teachers of mathematics and science, including the useof induction programs, as defined in section 9813(h) of title 20, for teachers in their first 2 years of teaching, especially in underserved areas;
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
@@ -236,7 +236,7 @@ In this section—
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20,Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -262,7 +262,7 @@ Subsec. (b)(2)(E) to (G). Pub. L. 110–69, §7028(7), added subpar. (E) and red
 
 Subsec. (c)(2). Pub. L. 110–69, §7028(8), added par. (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 
-“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+“(A) The results of the evaluation required under paragraph (1) shall be made available to the public and shall be provided to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, andthe Committee on Health, Education, Labor, and Pensions of the Senate.
 
 “(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public.”
 
@@ -330,7 +330,7 @@ Foundation.—The term ‘Foundation’ means the National Science Foundation es
 
 &emsp;“(8)
 
-High-need local educational agency.—The term ‘high-need local educational agency’ means alocal educational agency that meets one or more of the following criteria:
+High-need local educational agency.—The term ‘high-need local educational agency’ means a local educational agency that meets one or more of the following criteria:
 
 &emsp;&emsp;“(A) It has at least one school in which 50 percent or more of the enrolled students are eligible for participation in the free and reduced price lunch program established by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
@@ -366,7 +366,7 @@ Master teacher.—The term ‘master teacher’ means a mathematics or science t
 
 &emsp;“(12)
 
-National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
+National research facility.—The term ‘national research facility’ means a research facilityfunded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.
 
 &emsp;“(13)
 

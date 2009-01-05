@@ -135,7 +135,7 @@
 | 5714–22. | Grants for technical assistance and training. |
 | 5714–23. | Authority to make grants for research, evaluation, demonstration, and service projects. |
 | 5714–24. | Demonstration projects to provide services to youth in rural areas. |
-| 5714–25. | Repealed. |
+| 5714–25. | Periodic estimate of incidence and prevalence of youth homelessness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,6 +158,7 @@
 | [5731\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731%20-%20Restrictions%20on%20disclosure%20and%20transfer.md) | Restrictions on disclosure and transfer. |
 | [5731a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005731a%20-%20Consolidated%20review%20of%20applications.md) | Consolidated review of applications. |
 | [5732\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732%20-%20Evaluation%20and%20information.md) | Evaluation and information. |
+| 5732–1. | Performance standards. |
 | [5732a.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005732a%20-%20Definitions.md) | Definitions. |
 | [5733\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005733%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93586%2C%20%C2%A73%28g%29%282%29%28E%29%2C%20Nov.%204%2C%201992%2C%20106%20Stat.%205025.md) | Repealed. |
 | [5741\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005741%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7656%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202124.md) | Repealed. |
@@ -176,11 +177,12 @@
 | [5774\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005774%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93690%2C%20title%20VII%2C%20%C2%A77286%2C%20Nov.%2018%2C%201988%2C%20102%20Stat.%204460.md) | Repealed. |
 | [5775\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005775%20-%20Grants.md) | Grants. |
 | [5776\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776%20-%20Criteria%20for%20grants.md) | Criteria for grants. |
-| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Missing%20and%20Exploited%20Children%27s%20Task%20Force.md) | Missing and Exploited Children's Task Force. |
+| [5776a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005776a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93240%2C%20%C2%A75%281%29%2C%20June%203%2C%202008%2C%20122%20Stat.%201564.md) | Repealed. |
 | [5777\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005777%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [5778\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93235%2C%20title%20II%2C%20%C2%A7231%28b%29%2C%20Oct.%203%2C%201996%2C%20110%20Stat.%203092.md) | Repealed. |
 | [5779\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005779%20-%20Reporting%20requirement.md) | Reporting requirement. |
 | [5780\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005780%20-%20State%20requirements.md) | State requirements. |
+| [5780a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2005780a%20-%20Authority%20of%20Inspectors%20General.md) | Authority of Inspectors General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

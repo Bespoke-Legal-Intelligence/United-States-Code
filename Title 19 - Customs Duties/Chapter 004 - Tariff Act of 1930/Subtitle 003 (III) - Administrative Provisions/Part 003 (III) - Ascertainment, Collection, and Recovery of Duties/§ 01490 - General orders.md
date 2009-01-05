@@ -40,7 +40,7 @@ Any imported merchandise that—
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §490, 42Stat. 963. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §490, 42 Stat. 963. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions authorizing the collector to take possession of, or store merchandise were contained in the following sections, all of which were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989:
 

@@ -20,7 +20,7 @@ The President, acting through the Secretary of Labor, the Secretary of Health an
 
 #### (c) Border interdiction
 
-The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help trainsurvivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
+The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help train survivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
 
 #### (d) International media
 
@@ -52,9 +52,29 @@ The President shall ensure that any grant, contract, or cooperative agreement pr
 
 The United States Agency for International Development, the Department of State, and the Department of Defense shall incorporate anti-trafficking and protection measures for vulnerable populations, particularly women and children, into their post-conflict and humanitarian emergency assistance and program activities.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569.)
+#### (i) Additional measures to prevent and deter trafficking
+
+The President shall establish and carry out programs to prevent and deter trafficking in persons, including—
+
+&emsp;(1) technical assistance and other support to improve the capacity of foreign governments to investigate, identify, and carry out inspections of private entities, including labor recruitment centers, at which trafficking victims may be exploited, particularly exploitation involving forced and child labor;
+
+&emsp;(2) technical assistance and other support for foreign governments and nongovernmental organizations to provide immigrant populations with information, in the native languages of the major immigrant groups of suchpopulations, regarding the rights of such populations in the foreign country and local in-country nongovernmental organization-operated hotlines;
+
+&emsp;(3) technical assistance to provide legal frameworks and other programs to foreign governments and nongovernmental organizations to ensure that—
+
+&emsp;&emsp;(A) foreign migrant workers are provided the same protection as nationals of the foreign country;
+
+&emsp;&emsp;(B) labor recruitment firms are regulated; and
+
+&emsp;&emsp;(C) workers providing domestic services in households are provided protection under labor rights laws; and
+
+&emsp;(4) assistance to foreign governments to register vulnerable populations as citizens or nationals of the country to reduce the ability of traffickers to exploit such populations.
+
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046.)
 
 #### Amendments
+
+2008—Subsec. (i). Pub. L. 110–457 added subsec. (i).
 
 2006—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
 

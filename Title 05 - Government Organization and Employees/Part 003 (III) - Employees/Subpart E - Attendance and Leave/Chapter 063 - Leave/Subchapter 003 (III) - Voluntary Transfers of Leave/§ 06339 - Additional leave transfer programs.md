@@ -44,11 +44,11 @@
 
 (d) The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### Amendments
 
-2003—Subsec. (a)(1)(E), (2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
+2008—Subsec. (a)(1)(E), (2)(E). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
 2002—Subsec. (b). Pub. L. 107–306, §322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
 

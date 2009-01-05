@@ -40,17 +40,27 @@ Waiver Authority.—(1) The Secretary of Defense may waive the application of th
 
 (d)
 
-Reporting to Congress.—At the conclusion of survivability or lethality testing under subsection (a), the Secretary of Defense shall submit a report on the testing to the congressional defense committees. Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary's overall assessment of the testing.
+Reporting to Congress.—(1) At the conclusion of survivability or lethality testing under subsection (a), the Secretary of Defense shall submit a report on the testing to the congressional defense committees. Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary's overall assessment of the testing.
+
+(2) If a decision is made within the Department of Defense to proceed to operational use of a system, or to make procurement funds available for a system, before Milestone C approval of that system, the Secretary of Defense shall submit to the congressional defense committees, as soon as practicable after such decision, the following:
+
+&emsp;(A) A report describing the status of survivability and live fire testing of that system.
+
+&emsp;(B) The report required under paragraph (1).
 
 (e)
 
 Definitions.—In this section:
 
-&emsp;(1) The term “covered system” means a vehicle, weapon platform, or conventional weapon system—
+&emsp;(1) The term “covered system” means—
 
-&emsp;&emsp;(A) that includes features designed to provide some degree of protection to users in combat; and
+&emsp;&emsp;(A) a vehicle, weapon platform, or conventional weapon system that—
 
-&emsp;&emsp;(B) that is a major system within the meaning of that term in section 2302(5) of this title.
+&emsp;&emsp;&emsp;(i) includes features designed to provide some degree of protection to users in combat; and
+
+&emsp;&emsp;&emsp;(ii) is a major system as defined in section 2302(5) of this title; or
+
+&emsp;&emsp;(B) any other system or program designated by the Secretary of Defense for purposes of this section.
 
 &emsp;(2) The term “major munitions program” means—
 
@@ -74,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;(8) The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611.)
+(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 110–417, \[div. A\], title II, §251(a), (b), Oct. 14, 2008, 122 Stat. 4400.)
 
 #### Codification
 
@@ -83,6 +93,14 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–417, §251(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(1). Pub. L. 110–417, §251(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘covered system’ means a vehicle, weapon platform, or conventional weapon system—
+
+&emsp;“(A) that includes features designed to provide some degree of protection to users in combat; and
+
+&emsp;“(B) that is a major system within the meaning of that term in section 2302(5) of this title.”
 
 2003—Subsec. (e)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “The term ‘congressional defense committees’ means—
 

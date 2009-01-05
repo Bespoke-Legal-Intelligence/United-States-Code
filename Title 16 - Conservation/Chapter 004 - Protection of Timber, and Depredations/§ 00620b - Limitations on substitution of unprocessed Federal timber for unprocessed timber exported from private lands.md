@@ -96,7 +96,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;&emsp;(i) consider land located in the northwestern private timber open market area; or
 
-&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in theapplicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
+&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in the applicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
 
 #### (4) Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
@@ -138,7 +138,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (B) Transition
 
-&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997, that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
+&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997,that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) that portion shall continue to be a sourcing area only until unprocessed Federal timber from the portion is no longer in the possession of the sourcing area holder; and
 

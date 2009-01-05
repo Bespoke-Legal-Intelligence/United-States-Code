@@ -12,7 +12,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(3) The false representation or implication that any individual is an attorney or that any communication is from an attorney.
 
-&emsp;(4) The representation or implication that nonpayment of any debt will result in the arrest or imprisonment of any person or the seizure, garnishment, attachment, or sale of any property or wages of any person unless such action is lawful and the debt collector or creditor intends to take such action.
+&emsp;(4) The representation or implication that nonpayment of any debt will result in the arrest or imprisonment of any person or the seizure, garnishment, attachment, or sale of anyproperty or wages of any person unless such action is lawful and the debt collector or creditor intends to take such action.
 
 &emsp;(5) The threat to take any action that cannot legally be taken or that is not intended to be taken.
 
@@ -36,7 +36,7 @@ A debt collector may not use any false, deceptive, or misleading representation 
 
 &emsp;(13) The false representation or implication that documents are legal process.
 
-&emsp;(14) The use of any business, company, or organization name other than the true name ofthe debt collector's business, company, or organization.
+&emsp;(14) The use of any business, company, or organization name other than the true name of the debt collector's business, company, or organization.
 
 &emsp;(15) The false representation or implication that documents are not legal process forms or do not require action by the consumer.
 

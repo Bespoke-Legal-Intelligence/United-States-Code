@@ -64,7 +64,7 @@
 
 #### (b) Decennial review of exempted operational files
 
-(1) Not less than once every 10 years, the Director of the National Reconnaissance Officeand the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
+(1) Not less than once every 10 years, the Director of the National Reconnaissance Office and the Director of National Intelligence shall review the exemptions in force under subsection (a)(1) of this section to determine whether such exemptions may be removed from the category of exempted files or any portion thereof. The Director of National Intelligence must approve any determination to remove such exemptions.
 
 (2) The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
@@ -86,9 +86,9 @@ Section was formerly classified to section 403–5e of this title prior to renum
 
 #### Amendments
 
-2006—Subsec. (a)(3)(C)(vii). Pub. L. 109–163 added cl. (vii).
+<b>2006</b>—Subsec. (a)(3)(C)(vii). Pub. L. 109–163 added cl. (vii).
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (a)(6)(B)(iv)(I). Pub. L. 108–375 substituted “responsive records” for “responsible records”.
 
@@ -96,7 +96,7 @@ Subsec. (a)(6)(B)(viii). Pub. L. 108–458, §1071(a)(1)(HH), substituted “Dir
 
 Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(II), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-2003—Pub. L. 108–136 substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
+<b>2003</b>—Pub. L. 108–136 substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
 
 #### Effective Date of 2004 Amendment
 

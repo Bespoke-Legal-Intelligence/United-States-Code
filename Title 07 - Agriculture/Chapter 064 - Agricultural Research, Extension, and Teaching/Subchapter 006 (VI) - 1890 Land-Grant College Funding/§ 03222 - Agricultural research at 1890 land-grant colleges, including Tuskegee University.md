@@ -8,7 +8,7 @@
 
 #### (2) Minimum amount
 
-&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.
+&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 30 percent of the total appropriations for the fiscal year under section 361c of this title.
 
 #### (3) Uses
 
@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balanceshall be deducted from the next succeeding annual allotment to the eligible institution.
+&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
 
 #### (ii) Redistribution
 
@@ -86,11 +86,11 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 #### (d) Payment of funds to eligible institutions
 
-Sums available for allotment to the eligible institutions under the terms of this section shallbe paid to such institutions in equal quarterly payments beginning on or about the first day of October of each year upon vouchers approved by the Secretary. The President of each eligible institution shall appoint a research director who shall be responsible for administration of the program authorized herein. Each eligible institution shall designate a treasurer or other officer who shall receive and account for all funds allotted to such institution under the provisions of this section and shall report, with the approval of the research director, to the Secretary on or before the first day of December of each year a detailed statement of the amount received under the provisions of this section during the preceding fiscal year and its disbursement on schedules prescribed by the Secretary. If any portion of the allotted moneys received by any eligible institution shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be allotted or paid to such institution. Funds made available to eligible institutions shall not be used for payment of negotiated overhead or indirect cost rates.
+Sums available for allotment to the eligible institutions under the terms of this section shall be paid to such institutions in equal quarterly payments beginning on or about the first day of October of each year upon vouchers approved by the Secretary. The President of each eligible institution shall appoint a research director who shall be responsible for administration of the program authorized herein. Each eligible institution shall designate a treasurer or other officer who shall receive and account for all funds allotted to such institution under the provisions of this section and shall report, with the approval of the research director, to the Secretary on or before the first day of December of each year a detailed statement of the amount received under the provisions of this section during the preceding fiscal year and its disbursement on schedules prescribed by the Secretary. If any portion of the allotted moneys received by any eligible institution shall by any action or contingency be diminished, lost, or misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be allotted or paid to such institution. Funds made available to eligible institutions shall not be used for payment of negotiated overhead or indirect cost rates.
 
 #### (e) Mailing of bulletins, reports, periodicals, reprints, articles, and other publications
 
-Bulletins, reports, periodicals, reprints or articles, and other publications necessary for the dissemination of results of the research and experiments funded under this section, including lists of publications available for distribution by the eligible institutions, shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe. Such publications may be mailed from the principal place of business of each eligible institution or from an established subunit of such institution.
+Bulletins, reports, periodicals, reprints or articles, and other publications necessary for the dissemination of results of the research and experiments funded under this section, including lists of publications available for distribution by the eligible institutions, shall be transmitted in the mails of the United States. Such publications may be mailed from the principal place of business of each eligible institution or from an established subunit of such institution.
 
 #### (f) Administration; rules and regulations; cooperation by and between institutions
 
@@ -104,13 +104,21 @@ On or before the first day of October in each year after September 29, 1977, the
 
 Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
 
-(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, §1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§7203(b), 7204, May 13, 2002, 116 Stat. 438.)
+(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV,§1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§7203(b), 7204, May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7122, 7404(b)(2)(A)(ii), May 22, 2008, 122 Stat. 1222, 1247; Pub. L. 110–246, §4(a), title VII, §§7122, 7404(b)(2)(A)(ii), June 18, 2008, 122 Stat. 1664, 1983, 2008.)
 
 #### References in Text
 
 Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–246, §7122, substituted “30 percent” for “25 percent”.
+
+Subsec. (e). Pub. L. 110–246, §7404(b)(2)(A)(ii), struck out “under penalty indicia: <i>Provided</i>, That each publication shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe” after “United States”.
 
 2002—Subsec. (a). Pub. L. 107–171, §7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i).”
 
@@ -128,7 +136,7 @@ Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out “(1)” before “On o
 
 Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
-Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If itappears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
+Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 
 Subsec. (g)(3). Pub. L. 105–185, §103(f)(3)(B), struck out par. (3) which read as follows: “If the Secretary withholds from any eligible institution any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress does not direct such sum to be paid, it shall be carried to surplus.”
 
@@ -145,6 +153,10 @@ Subsec. (b)(2)(B). Pub. L. 97–98, §1432(a)(2), inserted “current at the tim
 Subsecs. (c), (d). Pub. L. 97–98, §1432(a)(3), substituted “research director” for “chief administrative officer” wherever appearing.
 
 1978—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under section 450i of this title, for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

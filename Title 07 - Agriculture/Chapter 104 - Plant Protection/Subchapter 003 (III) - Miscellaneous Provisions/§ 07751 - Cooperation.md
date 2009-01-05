@@ -36,11 +36,43 @@ The Secretary shall ensure that phytosanitary issues involving imports and expor
 
 &emsp;&emsp;(C) to provide general liaison on agricultural health issues with the plant health or other appropriate officials of the country.
 
-(Pub. L. 106–224, title IV, §431, June 20, 2000, 114 Stat. 451.)
+#### (f) Transfer of cooperative agreement fund
+
+#### (1) In general
+
+&emsp;A State may provide to a unit of local government in the State described in paragraph (2) any cost-sharing assistance or financing mechanism provided to the State under a cooperative agreement entered into under this Act between the Secretary and the State relating to the eradication, prevention, control, or suppression of plant pests.
+
+#### (2) Requirements
+
+&emsp;To be eligible for assistance or financing under paragraph (1), a unit of local government shall be—
+
+&emsp;&emsp;(A) engaged in any activity relating to the eradication, prevention, control, or suppression of the plant pest infestation covered under the cooperative agreement between the Secretary and the State; and
+
+&emsp;&emsp;(B) capable of documenting each plant pest infestation eradication, prevention, control, or suppression activity generally carried out by—
+
+&emsp;&emsp;&emsp;(i) the Department of Agriculture; or
+
+&emsp;&emsp;&emsp;(ii) the State department of agriculture that has jurisdiction over the unit of local government.
+
+(Pub. L. 106–224, title IV, §431, June 20, 2000, 114 Stat. 451; Pub. L. 110–234, title X, §10206, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, §4(a), title X, §10206, June 18, 2008, 122 Stat. 1664, 2107.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L.106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+This Act, referred to in subsec. (f)(1), is Pub. L. 106–224, June 20, 2000, 114 Stat. 358, known as the Agricultural Risk Protection Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1501 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–246, §10206, added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

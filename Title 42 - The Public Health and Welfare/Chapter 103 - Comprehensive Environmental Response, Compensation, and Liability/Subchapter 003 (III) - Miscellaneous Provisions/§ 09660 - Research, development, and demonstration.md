@@ -40,7 +40,7 @@
 
 #### (4) Procedures
 
-&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under titleIV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
+&emsp;In making grants and entering into cooperative agreements and contracts under this subsection, the Secretary shall act through the Director of the National Institute for Environmental Health Sciences. In considering the allocation of funds for training purposes, the Director shall ensure that at least one grant, cooperative agreement, or contract shall be awarded for training described in each of clauses (i), (ii), and (iii) of paragraph (1)(B). Where applicable, the Director may choose to operate training activities in cooperation with the Director of the National Institute for Occupational Safety and Health. The procedures applicable to grants and contracts under title IV of the Public Health Service Act \[42 U.S.C. 281 et seq.\] shall be followed under this subsection.
 
 #### (5) Advisory council
 
@@ -102,7 +102,7 @@
 
 #### (C) Applications
 
-&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application tothe Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
+&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application to the Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
 
 #### (D) Project selection
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -418,7 +418,7 @@ Interagency agreements.—The Administrator and the Secretary of Energy are auth
 
 &emsp;“(B)
 
-Funding.—There is authorized to be appropriated to the Secretary of Energy for purposes of carrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
+Funding.—There is authorized to be appropriated to the Secretary of Energy for purposes ofcarrying out this paragraph for fiscal years beginning after September 30, 1986, not more than $5,000,000. All sums appropriated under this subparagraph shall be provided to the Administrator by the Secretary of Energy, pursuant to the interagency agreement entered into under subparagraph (A), for the purpose of the Administrator entering into contracts and cooperative agreements with, and making grants to, the Center in order to carry out the research, evaluation, testing, development, and demonstration described in paragraph (1).
 
 “(5)
 

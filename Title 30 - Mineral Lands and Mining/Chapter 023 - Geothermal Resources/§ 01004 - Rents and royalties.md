@@ -74,7 +74,7 @@ The Secretary may provide to a lessee a credit against royalties owed under this
 
 &emsp;(2) the contract establishes a specific methodology to determine the value of such credits; and
 
-&emsp;(3) the maximum credit will be equal to the royalty value owed to the State or county that is a party to the contract and the electricity received will serve as the royalty payment from the Federal Government to that entity.
+&emsp;(3) the maximum credit will be equal to the royalty value owed to the State or countythat is a party to the contract and the electricity received will serve as the royalty payment from the Federal Government to that entity.
 
 #### (e) Crediting of rental toward royalty
 
@@ -128,7 +128,7 @@ The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch
 
 #### Amendments
 
-2005—Pub. L. 109–58, §§223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck outformer pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
+2005—Pub. L. 109–58, §§223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
 
 Subsec. (b). Pub. L. 109–58, §223(a)(4), added subsec. (b).
 

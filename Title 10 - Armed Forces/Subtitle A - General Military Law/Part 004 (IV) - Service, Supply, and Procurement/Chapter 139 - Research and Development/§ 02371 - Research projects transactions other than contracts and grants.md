@@ -24,13 +24,13 @@ Conditions.—(1) The Secretary of Defense shall ensure that—
 
 &emsp;(A) to the maximum extent practicable, no cooperative agreement containing a clause under subsection (d) and no transaction entered into under subsection (a) provides for research that duplicates research being conducted under existing programs carried out by the Department of Defense; and
 
-&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by the Government under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
+&emsp;(B) to the extent that the Secretary determines practicable, the funds provided by theGovernment under a cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) do not exceed the total amount provided by other parties to the cooperative agreement or other transaction.
 
 (2) A cooperative agreement containing a clause under subsection (d) or a transaction authorized by subsection (a) may be used for a research project when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
 (f)
 
-Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in thoseaccounts shall be available for the payment of such support.
+Support Accounts.—There is hereby established on the books of the Treasury separate accounts for each of the military departments and the Defense Advanced Research Projects Agency for support of research projects and development projects provided for in cooperative agreements containing a clause under subsection (d) and research projects provided for in transactions entered into under subsection (a). Funds in those accounts shall be available for the payment of such support.
 
 (g)
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secre
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
+Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: “Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on all cooperative agreements entered into under section 2358 of this title during such fiscal year that contain a clause authorized by subsection (d) and on all transactions entered into under subsection (a) during such fiscal year. The report shall contain, with respect to each such cooperative agreement and transaction, the following:
 
 &emsp;“(1) A general description of the cooperative agreement or other transaction (as the case may be), including the technologies for which research is provided for under such agreement or transaction.
 
@@ -160,15 +160,15 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387; Pub. L. 109–364, div. A, title VIII, §855, Oct. 17, 2006, 120 Stat. 2347; Pub. L. 110–181, div. A, title VIII, §823, title X, §1063(h), Jan. 28, 2008, 122 Stat. 226, 324; Pub. L. 110–417, \[div. A\], title VIII, §824, Oct. 14, 2008, 122 Stat. 4533, provided that:
 
 “(a)
 
-Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10,United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
 
 “(2) The authority of this section—
 
-&emsp;“(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) or, for the Defense Advanced Projects Agency or the Missile Defense Agency, the director of the agency that—
+&emsp;“(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;“(i) the requirements of subsection (d) will be met; and
 
@@ -184,7 +184,7 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;&emsp;“(ii) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] are notified in writing at least 30 days before such authority is exercised.
 
-“(3) The authority of a senior procurement executive or director of the Defense Advanced Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
+“(3) The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
 
 “(b)
 
@@ -228,11 +228,11 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 “(e)
 
-Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defense is authorized to carry out a pilot program for follow-on contracting for the production of items or processes under prototype projects carried out under this section.
+Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defense is authorized to carry out a pilot program for follow-on contracting for the production of items or processes developed under prototype projects carried out under this section or research projects carried out pursuant to section 2371 of title 10, United States Code.
 
 “(2) Under the pilot program—
 
-&emsp;“(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+&emsp;“(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an itemor process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
 
 &emsp;“(B) the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of section 2320 of title 10, United States Code.
 
@@ -246,7 +246,7 @@ Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defe
 
 &emsp;&emsp;“(ii) a fixed-price contract or subcontract with economic price adjustment.
 
-“(4) The authority to conduct a pilot program under this subsection shall terminate on September 30, 2008. The termination of the authority shall not affect the validity of contracts or subcontracts that are awarded or modified during the period of the pilot program, without regard to whether the contracts or subcontracts are performed during the period.
+“(4) The authority to conduct a pilot program under this subsection shall terminate on September 30, 2010. The termination of the authority shall not affect the validity of contracts or subcontracts that are awarded or modified during the period of the pilot program, without regard to whether the contracts or subcontracts are performed during the period.
 
 “(f)
 
@@ -276,5 +276,5 @@ Applicability of Procurement Ethics Requirements.—An agreement entered into un
 
 “(i)
 
-Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2008.”
+Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2013.”
 

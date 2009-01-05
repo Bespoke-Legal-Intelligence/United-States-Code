@@ -26,7 +26,7 @@ The Commission shall accompany any recommendation under subsection (b)(1) of thi
 
 &emsp;&emsp;(B) transportation costs and delivered prices of any such volumes of gas by region;
 
-&emsp;(2) the effects of each of the factors described in subparagraphs (A) and (B) of paragraph (1) on the projected natural gas supply and demand for each region of the United States and on the projected supplies of alternative fuels available by region to offset shortages of natural gas occurring in such region for each such year;
+&emsp;(2) the effects of each of the factors described in subparagraphs (A) and (B) of paragraph (1) on the projected natural gas supply and demand for each region of the United States and on the projected supplies of alternative fuels available by region to offsetshortages of natural gas occurring in such region for each such year;
 
 &emsp;(3) the impact upon competition;
 

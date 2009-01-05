@@ -40,7 +40,7 @@ Amendment by section 313(b) of Pub. L. 103–296 applicable to violations occurr
 
 #### Effective Date of 1984 Amendment
 
-Section §2663(e)(2)(B) of Pub. L. 98–369 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to returns filed or representations made on or before the date of the enactment of this Act \[July 18, 1984\].”
+Section §2663(e)(2)(B) of Pub. L. 98–369 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall not apply to returns filed or representations made on or before the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2663(e)(3), (j)(2)(D)(iii), (<i>l</i>)(1) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 

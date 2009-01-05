@@ -54,11 +54,11 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, politicalsubdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term “employee” does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
-(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+(f) “Agriculture” includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
 (g) “Employ” includes to suffer or permit to work.
 
@@ -88,7 +88,7 @@ As used in this chapter—
 
 (q) “Secretary” means the Secretary of Labor.
 
-(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Withinthe meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, an agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
+(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, an agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brand name of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
 
 (2) For purposes of paragraph (1), the activities performed by any person or persons—
 
@@ -128,7 +128,11 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
+
+#### References in Text
+
+Section 1141j(g) of title 12, referred to in subsec. (f), was redesignated section 1141j(f) by Pub. L. 110–246, title I, §1610, June 18, 2008, 122 Stat. 1746.
 
 #### Amendments
 
@@ -138,7 +142,7 @@ As used in this chapter—
 
 1998—Subsec. (e)(5). Pub. L. 105–221 added par. (5).
 
-1996—Subsec. (m). Pub. L. 104–188 inserted “In determining the wage an employer is required to pay atipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
+1996—Subsec. (m). Pub. L. 104–188 inserted “In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
 &emsp;“(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
@@ -178,7 +182,7 @@ Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
-Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling, selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
+Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) “or employees handling,selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
 Subsec. (x). Pub. L. 93–259, §6(a)(6), added subsec. (x).
 
@@ -262,7 +266,7 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Transfer of Functions
 
-In subsec. (<i>l</i>), “Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” and for “Chief of the Children's Bureau” pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix toTitle 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
+In subsec. (<i>l</i>), “Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” and for “Chief of the Children's Bureau” pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 #### Preservation of Coverage
 
@@ -303,4 +307,6 @@ Section 15(c) of Pub. L. 95–151 provided that: “On and after the date of the
 Section 602 of Pub. L. 89–601 provided in part that: “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “in”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

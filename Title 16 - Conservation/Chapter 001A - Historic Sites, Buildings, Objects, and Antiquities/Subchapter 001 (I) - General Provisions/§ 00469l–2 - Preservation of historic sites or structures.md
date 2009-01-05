@@ -12,17 +12,21 @@ Any grant made under this section shall provide that—
 
 &emsp;(2) the Secretary shall have the right of access at reasonable times to the public portions of such property for interpretive and other purposes; and
 
-&emsp;(3) conversion, use, or disposal of such property for purposes contrary to the purposes of sections 469<i>l</i> to 469<i>l</i>–2 of this title, as determined by the Secretary, shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under sections 469<i>l</i> to 469<i>l</i>–2 of this title.
+&emsp;(3) conversion, use, or disposal of such property for purposes contrary to the purposes of sections 469<i>l</i> to 469<i>l</i>–3 of this title, as determined by the Secretary, shall result in a right of the United States to compensation equal to all Federal funds made available to the grantee under sections 469<i>l</i> to 469<i>l</i>–3 of this title.
 
 #### (c) Matching requirement
 
 The Secretary may obligate funds made available for a grant under this section only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal to or greater than the grant. The Secretary may waive the requirement of the preceding sentence with respect to a grant if the Secretary determines that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
 
-#### (d) Funding
+(Pub. L. 105–203, §4, as added Pub. L. 106–291, title I, §150(h), Oct. 11, 2000, 114 Stat. 959; amended Pub. L. 110–229, title III, §361(a)(2), May 8, 2008, 122 Stat. 801.)
 
-There are authorized to be appropriated to the Secretary for purposes of this section $2,500,000 for fiscal year 2001 and each subsequent fiscal year. Amounts authorized but not appropriated in a fiscal year shall be available for appropriation in subsequent fiscal years.
+#### Amendments
 
-(Pub. L. 105–203, §4, as added Pub. L. 106–291, title I, §150(h), Oct. 11, 2000, 114 Stat. 959.)
+2008—Subsec. (d). Pub. L. 110–229 struck out subsec. (d) which related to funding for purposes of this section for fiscal year 2001 and each subsequent fiscal year.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–229 effective at the beginning of the fiscal year immediately following May 8, 2008, see section 361(b) of Pub. L. 110–229, set out as a note under section 469<i>l</i>–1 of this title.
 
 #### National Underground Railroad Freedom Center
 

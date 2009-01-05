@@ -6,7 +6,7 @@
 
 (2) The interim consumer product safety standard established in paragraph (1) shall provide that any cellulose insulation which is produced or distributed for sale or use as a consumer product shall have a flame spread rating of 0 to 25, as such rating is set forth in the General Services Administration's specification for cellulose insulation, HH–I–515C.
 
-(3) During the period for which the interim consumer product safety standard established in subsection (a) of this section is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the followingstatement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home.” Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
+(3) During the period for which the interim consumer product safety standard established in subsection (a) of this section is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home.” Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
 
 #### (b) Scope of judicial review
 
@@ -18,7 +18,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 (B) If the Commission determines that the interim consumer product safety standard does not adequately protect the public from the unreasonable risk of injury associated with flammable or corrosive cellulose insulation, it shall promulgate a final consumer product safety standard to protect against such risk. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation. The provisions of section 2058(b), (c), and (d) of this title shall apply to any proceeding to promulgate such final standard. In any judicial review of such final standard under section 2060 of this title, the court shall not require any demonstration that each particular finding made by the Commission under section 2058(c) of this title is supported by substantial evidence. The court shall affirm the action of the Commission unless the court determines that such action is not supported by substantial evidence on the record taken as a whole.
 
-(2)(A) Until there is in effect such a final consumer product safety standard, the Commission shall incorporate into the interim consumer product safety standard, in accordance with the provisions of this paragraph, each revision superseding the requirements for flame resistance and corrosiveness referred to in subsection (a) of this section and promulgated by the General Services Administration.
+(2)(A) Until there is in effect such a final consumer product safety standard, the Commissionshall incorporate into the interim consumer product safety standard, in accordance with the provisions of this paragraph, each revision superseding the requirements for flame resistance and corrosiveness referred to in subsection (a) of this section and promulgated by the General Services Administration.
 
 (B) At least 45 days before any revision superseding such requirements is to become effective, the Administrator of the General Services Administration shall notify the Commission of such revision. In the case of any such revision which becomes effective during the period beginning on February 1, 1978, and ending on July 11, 1978, such notice from the Administrator of the General Services Administration shall be deemed to have been made on July 11, 1978.
 
@@ -34,7 +34,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 (ii) Any extension made by the Commission under this subparagraph shall be for a period of not more than 45 days.
 
-(iii) Prior notice of each extension made by the Commission under this subparagraph, together with a statement of the reasons for such extension and an estimate of the length of time required by the Commission to complete its action upon the revision involved, shall be published in the Federal Register and shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+(iii) Prior notice of each extension made by the Commission under this subparagraph, together with a statement of the reasons for such extension and an estimate of the length of time required by the Commission to complete its action upon the revision involved, shall be published in the Federal Register and shall be submitted to the appropriate Congressional committees.
 
 (iv) In any case in which the Commission takes an initial 45-day extension under clause (i), the Commission may not take any further extensions under clause (i) if each committee referred to in clause (iii) disapproves by committee resolution any such further extensions before the end of the 15-day period following notice of such initial extension made by the Commission in accordance with clause (iii).
 
@@ -54,7 +54,7 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 #### (e) Reporting requirements of Commission to Congressional committees; contents, time of submission, etc.
 
-(1) The Commission, no later than 45 days after July 11, 1978, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives which shall contain a detailed statement of the manner in which the Commission intends to carry out the enforcement of this section.
+(1) The Commission, no later than 45 days after July 11, 1978, shall submit a report to the appropriate Congressional committees which shall contain a detailed statement of the manner in which the Commission intends to carry out the enforcement of this section.
 
 (2)(A) The Commission, no later than 6 months after the date upon which the report required in paragraph (1) is due (and no later than the end of each 6-month period thereafter), shall submit a report to each committee referred to in paragraph (1) which shall describe the enforcement activities of the Commission with respect to this section during the most recent 6-month period.
 
@@ -62,7 +62,7 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 #### (f) Compliance with certification requirements; implementation; waiver; rules and regulations
 
-(1) The Commission shall have the authority to require that any person required to comply with the certification requirements of section 2063 of this title with respect to the manufacture of cellulose insulation shall provide for the performance of any test or testing program required for such certification through the use of an independent third party qualified to perform such test or testing program. The Commission may impose such requirement whether or not the Commission has established a testing program for cellulose insulation under section 2063(b) of this title.
+(1) The Commission shall have the authority to require that any person required to comply with the certification requirements of section 2063 of this title with respect to the manufacture of cellulose insulation shall provide for the performance of any test or testing program required for such certification through the use of an independent third party qualified to perform such test or testing program. The Commission may impose such requirement whether or notthe Commission has established a testing program for cellulose insulation under section 2063(b) of this title.
 
 (2) The Commission, upon petition by a manufacturer, may waive the requirements of paragraph (1) with respect to such manufacturer if the Commission determines that the use of an independent third party is not necessary in order for such manufacturer to comply with the certification requirements of section 2063 of this title.
 
@@ -72,15 +72,15 @@ Any Federal department, agency, or instrumentality, or any Federal independent r
 
 There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981, such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 92–573, §35, as added Pub. L. 95–319, §3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, §5(c)(2), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 92–573, §35, as added Pub. L. 95–319, §3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, §5(c)(2), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §235(c)(3), (5), Aug. 14, 2008, 122 Stat. 3074, 3075.)
 
 #### Amendments
 
+2008—Subsec. (c)(2)(D)(iii). Pub. L. 110–314, §235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives”.
+
+Subsec. (e)(1). Pub. L. 110–314, §235(c)(5), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives”.
+
 1994—Subsecs. (c)(2)(D)(iii), (e)(1). Pub. L. 103–437 substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Statement of Findings and Purpose
 

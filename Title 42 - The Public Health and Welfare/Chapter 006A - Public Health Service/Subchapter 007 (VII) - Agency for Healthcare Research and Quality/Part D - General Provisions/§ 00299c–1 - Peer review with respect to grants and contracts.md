@@ -8,7 +8,7 @@
 
 #### (2) Reports to Director
 
-&emsp;Each peer review group to which an application is submitted pursuant to paragraph (1) shall report its finding and recommendations respecting the application to the Director insuch form and in such manner as the Director shall require.
+&emsp;Each peer review group to which an application is submitted pursuant to paragraph (1) shall report its finding and recommendations respecting the application to the Director in such form and in such manner as the Director shall require.
 
 #### (b) Approval as precondition of awards
 

@@ -22,9 +22,11 @@
 
 &emsp;&emsp;(B) the child's placement and care are the responsibility of—
 
-&emsp;&emsp;&emsp;(i) the State agency administering the State plan approved under section 671 of this title; or
+&emsp;&emsp;&emsp;(i) the State agency administering the State plan approved under section 671 of this title;
 
-&emsp;&emsp;&emsp;(ii) any other public agency with which the State agency administering or supervising the administration of the State plan has made an agreement which is in effect; and
+&emsp;&emsp;&emsp;(ii) any other public agency with which the State agency administering or supervising the administration of the State plan has made an agreement which is in effect; or
+
+&emsp;&emsp;&emsp;(iii) an Indian tribe or a tribal organization (as defined in section 679c(a) of this title) or a tribal consortium that has a plan approved under section 671 of this title in accordance with section 679c of this title; and
 
 &emsp;&emsp;(C) the child has been placed in a foster family home or child-care institution.
 
@@ -38,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(ii)(I) would have received the aid in the home, in or for the month referred to in clause (i), if application had been made therefor; or
 
-&emsp;&emsp;&emsp;(II) had been living in the home within 6 months before the month in which the agreement was entered into or the proceedings were initiated, and would have received the aid in or for such month, if, in such month, the child had been living in the home with the relative referred to in paragraph (1) and application for the aid had been made.
+&emsp;&emsp;&emsp;(II) had been living in the home within 6 months before the month in which the agreement was entered into or the proceedings were initiated, and would have received the aid in or for such month, if, in such month, the child had been living inthe home with the relative referred to in paragraph (1) and application for the aid had been made.
 
 #### (B) Resources determination
 
@@ -84,7 +86,7 @@ In any case where—
 
 #### (h) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children underpart A of this subchapter (as so in effect). For purposes of subchapter XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
+(1) For purposes of subchapter XIX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect). For purposes of subchapter XX of this chapter, any child with respect to whom foster care maintenance payments are made under this section is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and is deemed to be a recipient of assistance under such part.
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
@@ -104,7 +106,11 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;&emsp;(B) the State agency has made, not less often than every 6 months, a determination (or redetermination) as to whether the child remains at imminent risk of removal from the home.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 110–351, title II, §201(b), title III, §301(a)(2), Oct. 7, 2008, 122 Stat. 3958, 3967.)
+
+#### Amendment of Subsection (c)(2)
+
+<i>Pub. L. 110–351, title II, §201(b), (d), Oct. 7, 2008, 122 Stat. 3958, 3959, provided that, effective Oct. 1, 2010, subsection (c)(2) of this section is amended by inserting “except, in the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, in accordance with such conditions as the Secretary shall establish in regulations,” before “but”.</i>
 
 #### References in Text
 
@@ -113,6 +119,8 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 Parts A and B of this subchapter, referred to in subsecs. (f) and (h), are classified to sections 601 et seq. and 620 et seq., respectively, of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(B)(iii). Pub. L. 110–351, §301(a)(2), added cl. (iii).
 
 2006—Subsec. (a). Pub. L. 109–171, §7404(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to qualifying children for foster care maintenance payments.
 
@@ -160,6 +168,14 @@ Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: “In any case wh
 
 Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). Former subsec. (d) was redesignated (h).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–351, title II, §201(d), Oct. 7, 2008, 122 Stat. 3959, provided that: “The amendments made by this section \[amending this section and sections 673 and 675 of this title\] shall take effect on October 1, 2010.”
+
+Amendment by section 301(a)(2) of Pub. L. 110–351 effective Oct. 1, 2009, without regard to whether implementing regulations have been promulgated, see section 301(f) of Pub. L. 110–351, set out as a note under section 671 of this title.
+
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for quarters beginning on or after effective date of amendment, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
@@ -192,7 +208,11 @@ Section 102(a)(1) of Pub. L. 96–272, as amended by Pub. L. 98–118, §3(a), O
 
 Section 102(c) of Pub. L. 96–272, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979.”
 
-\[Section 9131(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987.”\]
+\[Section 9131(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notesunder this section\] shall become effective October 1, 1987.”\]
+
+#### Construction of 2008 Amendment
+
+For construction of amendment by section 301(a)(2) of Pub. L. 110–351, see section 301(d) of Pub. L. 110–351, set out as a note under section 671 of this title.
 
 #### Children Voluntarily Removed From Home of Relative
 

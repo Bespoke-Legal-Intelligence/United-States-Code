@@ -14,7 +14,7 @@ It is the purpose of this chapter, and chapters 21, 31, and 33 of this title, to
 
 &emsp;(6) Direction of continuing attention on records from their initial creation to their final disposition, with particular emphasis on the prevention of unnecessary Federal paperwork.
 
-&emsp;(7) Establishment and maintenance of such other systems or techniques as the Administrator or the Archivist considers necessary to carry out the purposes of this chapter, and chapters 21, 31, and 33 of this title.
+&emsp;(7) Establishment and maintenance of such other systems or techniques as the Administrator or the Archivist considers necessary tocarry out the purposes of this chapter, and chapters 21, 31, and 33 of this title.
 
 (Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2724; amended Pub. L. 98–497, title I, §107(b)(14), Oct. 19, 1984, 98 Stat. 2288.)
 

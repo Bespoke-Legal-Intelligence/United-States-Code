@@ -4,7 +4,7 @@
 
 Except as provided in section 1395mm of this title, and subject to the succeeding provisions of this section, there shall be paid from the Federal Supplementary Medical Insurance Trust Fund, in the case of each individual who is covered under the insurance program established by this part and incurs expenses for services with respect to which benefits are payable under this part, amounts equal to—
 
-&emsp;(1) in the case of services described in section 1395k(a)(1) of this title—80 percent of the reasonable charges for the services; exceptthat (A) an organization which provides medical and other health services (or arranges for their availability) on a prepayment basis (and either is sponsored by a union or employer, or does not provide, or arrange for the provision of, any inpatient hospital services) may elect to be paid 80 percent of the reasonable cost of services for which payment may be made under this part on behalf of individuals enrolled in such organization in lieu of 80 percent of the reasonable charges for such services if the organization undertakes to charge such individuals no more than 20 percent of such reasonable cost plus any amounts payable by them as a result of subsection (b) of this section, (B) with respect to items and services described in section 1395x(s)(10)(A) of this title, the amounts paid shall be 100 percent of the reasonable charges for such items and services, (C) with respect to expenses incurred for those physicians’ services for which payment may be made under this part that are described in section 1395y(a)(4) of this title, the amounts paid shall be subject to such limitations as may be prescribed by regulations, (D) with respect to clinical diagnostic laboratory tests for which payment is made under this part (i) on the basis of a fee schedule under subsection (h)(1) of this section or section 1395m(d)(1) of this title, the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such fee schedule, the limitation amount for that test determined under subsection (h)(4)(B) of this section, or the amount of the charges billed for the tests, (ii) on the basis of a negotiated rate established under subsection (h)(6) of this section, the amount paid shall be equal to 100 percent of such negotiated rate, or (iii) on the basis of a rate established under a demonstration project under section 1395w–3(e) of this title, the amount paid shall be equal to 100 percent of such rate, (E) with respect to services furnished to individuals who have been determined to have end stage renal disease, the amounts paid shall be determined subject to the provisions of section 1395rr of this title, (F) with respect to clinical social worker services under section 1395x(s)(2)(N) of this title, the amounts paid shall be 80 percent of the lesser of (i) the actual charge for the services or (ii) 75 percent of the amount determined for payment of a psychologist under clause (L), (G) with respect to facility services furnished in connection with a surgical procedure specified pursuant to subsection (i)(1)(A) of this section and furnished to an individual in an ambulatory surgical center described in such subsection, for services furnished beginning with the implementation date of a revised payment system for such services in such facilities specified in subsection (i)(2)(D) of this section, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by the Secretary under such revised payment system, (H) with respect to services of a certified registered nurse anesthetist under section 1395x(s)(11) of this title, the amounts paid shall be 80 percent of the least of the actual charge, the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by an anesthesiologist, or the fee schedule for such services established by the Secretary in accordance with subsection (<i>l</i>) of this section, (I) with respect to covered items (described in section 1395m(a)(13) of this title), the amounts paid shall be the amounts described in section 1395m(a)(1) of this title, and <sup>1</sup> (J) with respect to expenses incurred for radiologist services (as defined in section 1395m(b)(6) of this title), subject to section 1395w–4 of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount provided under the fee schedule established under section 1395m(b) of this title, (K) with respect to certified nurse-midwife services under section 1395x(s)(2)(L) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph (but in no event shall such fee schedule exceed 65 percent of the prevailing charge that would be allowed for the same service performed by a physician, or, for services furnished on or after January 1, 1992, 65 percent of the fee schedule amount provided under section 1395w–4 of this title for the same service performed by a physician), (L) with respect to qualified psychologist services under section 1395x(s)(2)(M) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph, (M) with respect to prosthetic devices and orthotics and prosthetics (as defined in section 1395m(h)(4) of this title), the amounts paid shall be the amounts described in section 1395m(h)(1) of this title, (N) with respect to expenses incurred for physicians’ services (as defined in section 1395w–4(j)(3) of this title), the amounts paid shall be 80 percent of the payment basis determined under section 1395w–4(a)(1) of this title, (O) with respect to services described in section 1395x(s)(2)(K) of this title (relating to services furnished by physician assistants, nurse practitioners, or clinic nurse specialists), the amounts paid shall be equal to 80 percent of (i) the lesser of the actual charge or 85 percent of the fee schedule amount provided under section 1395w–4 of this title, or (ii) in the case of services as an assistant at surgery, the lesser of the actual charge or 85 percent of the amount that would otherwise be recognized if performed by a physician who is serving as an assistant at surgery, (P) with respect to surgical dressings, the amounts paid shall be the amounts determined under section 1395m(i) of this title, (Q) with respect to items or services for which fee schedules are established pursuant to section 1395u(s) of this title, the amounts paid shall be 80 percent of the lesserof the actual charge or the fee schedule established in such section, (R) with respect to ambulance services, (i) the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary under section 1395m(<i>l</i>) of this title and (ii) with respect to ambulance services described in section 1395m(<i>l</i>)(8) of this title, the amounts paid shall be the amounts determined under section 1395m(g) of this title for outpatient critical access hospital services, (S) with respect to drugs and biologicals (including intravenous immune globulin (as defined in section 1395x(zz) of this title)) not paid on a cost or prospective payment basis as otherwise provided in this part (other than items and services described in subparagraph (B)), the amounts paid shall be 80 percent of the lesser of the actual charge or the payment amount established in section 1395u(<i>o</i>) of this title (or, if applicable, under section 1395w–3, 1395w–3a, or 1395w–3b of this title), (T) with respect to medical nutrition therapy services (as defined in section 1395x(vv) of this title), the amount paid shall be 80 percent of the lesser of the actual charge for the services or 85 percent of the amount determined under the fee schedule established under section 1395w–4(b) of this title for the same services if furnished by a physician, (U) with respect to facility fees described in section 1395m(m)(2)(B) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge or the amounts specified in such section, and (V) notwithstanding subparagraphs (I) (relating to durable medical equipment), (M) (relating to prosthetic devices and orthotics and prosthetics), and (Q) (relating to 1395u(s) items), with respect to competitively priced items and services (described in section 1395w–3(a)(2) of this title) that are furnished in a competitive area, the amounts paid shall be the amounts described in section 1395w–3(b)(5) of this title;
+&emsp;(1) in the case of services described in section 1395k(a)(1) of this title—80 percent of the reasonable charges for the services; except that (A) an organization which provides medical and other health services (or arranges for their availability) on a prepayment basis (and either is sponsored by a union or employer, or does not provide, or arrange for the provision of, any inpatient hospital services) may elect to be paid 80 percent of the reasonable cost of services for which payment may be made under this part on behalf of individuals enrolled in such organization in lieu of 80 percent of the reasonable charges for such services if the organization undertakes to charge such individuals no more than 20 percent of such reasonable cost plus any amounts payable by them as a result of subsection (b) of this section, (B) with respect to items and services described in section 1395x(s)(10)(A) of this title, the amounts paid shall be 100 percent of the reasonable charges for such items and services, (C) with respect to expenses incurred for those physicians’ services for which payment may be made under this part that are described in section 1395y(a)(4) of this title, the amounts paid shall be subject to such limitations as may be prescribed by regulations, (D) with respect to clinical diagnostic laboratory tests for which payment is made under this part (i) on the basis of a fee schedule under subsection (h)(1) of this section or section 1395m(d)(1) of this title, the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such fee schedule, the limitation amount for that test determined under subsection (h)(4)(B) ofthis section, or the amount of the charges billed for the tests, or (ii) on the basis of a negotiated rate established under subsection (h)(6) of this section, the amount paid shall be equal to 100 percent of such negotiated rate,,<sup>1</sup> (E) with respect to services furnished to individuals who have been determined to have end stage renal disease, the amounts paid shall be determined subject to the provisions of section 1395rr of this title, (F) with respect to clinical social worker services under section 1395x(s)(2)(N) of this title, the amounts paid shall be 80 percent of the lesser of (i) the actual charge for the services or (ii) 75 percent of the amount determined for payment of a psychologist under clause (L), (G) with respect to facility services furnished in connection with a surgical procedure specified pursuant to subsection (i)(1)(A) of this section and furnished to an individual in an ambulatory surgical center described in such subsection, for services furnished beginning with the implementation date of a revised payment system for such services in such facilities specified in subsection (i)(2)(D) of this section, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by the Secretary under such revised payment system, (H) with respect to services of a certified registered nurse anesthetist under section 1395x(s)(11) of this title, the amounts paid shall be 80 percent of the least of the actual charge, the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by an anesthesiologist, or the fee schedule for such services established by the Secretary in accordance with subsection (<i>l</i>) of this section, (I) with respect to covered items (described in section 1395m(a)(13) of this title), the amounts paid shall be the amounts described in section 1395m(a)(1) of this title, and <sup>2</sup> (J) with respect to expenses incurred for radiologist services (as defined in section 1395m(b)(6) of this title), subject to section 1395w–4 of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount provided under the fee schedule established under section 1395m(b) of this title, (K) with respect to certified nurse-midwife services under section 1395x(s)(2)(L) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph (but in no event shall such fee schedule exceed 65 percent of the prevailing charge that would be allowed for the same service performed by a physician, or, for services furnished on or after January 1, 1992, 65 percent of the fee schedule amount provided under section 1395w–4 of this title for the same service performed by a physician), (L) with respect to qualified psychologist services under section 1395x(s)(2)(M) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph, (M) with respect to prosthetic devices and orthotics and prosthetics (as defined in section 1395m(h)(4) of this title), the amounts paid shall be the amounts described in section 1395m(h)(1) of this title, (N) with respect to expenses incurred for physicians’ services (as defined in section 1395w–4(j)(3) of this title), the amounts paid shall be 80 percent of the payment basis determined under section 1395w–4(a)(1) of this title, (O) with respect to services described in section 1395x(s)(2)(K) of this title (relating to services furnished by physician assistants, nurse practitioners, or clinic nurse specialists), the amounts paid shall be equal to 80 percent of (i) the lesser of the actual charge or 85 percent of the fee schedule amount provided under section 1395w–4 of this title, or (ii) in the case of services as an assistant at surgery, the lesser of the actual charge or 85 percent of the amount that would otherwise be recognized if performed by a physician who is serving as an assistant at surgery, (P) with respect to surgical dressings, the amounts paid shall be the amounts determined under section 1395m(i) of this title, (Q) with respect to items or services for which fee schedules are established pursuant to section 1395u(s) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge or the fee schedule established in such section, (R) with respect to ambulance services, (i) the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary under section 1395m(<i>l</i>) of this title and (ii) with respect to ambulance services described in section 1395m(<i>l</i>)(8) of this title, the amounts paid shall be the amounts determined under section 1395m(g) of this title for outpatient critical access hospital services, (S) with respect to drugs and biologicals (including intravenous immune globulin (as defined in section 1395x(zz) of this title)) not paid on a cost or prospective payment basis as otherwise provided in this part (other than items and services described in subparagraph (B)), the amounts paid shall be 80 percent of the lesser of the actual charge or the payment amount established in section 1395u(<i>o</i>) of this title (or, if applicable, under section 1395w–3, 1395w–3a, or 1395w–3b of this title), (T) with respect to medical nutrition therapy services (as defined in section 1395x(vv) of this title), the amount paid shall be 80 percent of the lesser of the actual charge for the services or 85 percent of the amount determined under the fee schedule established under section 1395w–4(b) of this title for the same services if furnished by a physician, (U) with respect to facility fees described in section 1395m(m)(2)(B) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge or the amounts specified in such section, (V) notwithstanding subparagraphs (I) (relating to durable medical equipment), (M) (relating to prosthetic devices and orthotics and prosthetics), and (Q) (relating to 1395u(s) items), with respect to competitively priced items and services (described in section 1395w–3(a)(2) of this title) that are furnished in a competitive area, the amounts paid shall be the amounts described in section 1395w–3(b)(5) of this title, and (W) with respect to additional preventive services (as defined in section 1395x(ddd)(1) of this title), the amount paid shall be (i) in the case of such services which are clinical diagnostic laboratory tests, the amount determined under subparagraph (D), and (ii) in the case of all other such services, 80 percent of the lesser of the actual charge for the service or the amount determined under a fee schedule established by the Secretary for purposes of this subparagraph;
 
 &emsp;(2) in the case of services described in section 1395k(a)(2) of this title (except those services described in subparagraphs (C), (D), (E), (F), (G), (H), and (I) of such section and unless otherwise specified in section 1395rr of this title)—
 
@@ -50,7 +50,7 @@ Except as provided in section 1395mm of this title, and subject to the succeedin
 
 &emsp;(3) in the case of services described in section 1395k(a)(2)(D) of this title—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), the costs which are reasonable and related to the cost of furnishing such services or which are based on such other tests of reasonableness as the Secretary may prescribe in regulations, including those authorized under section 1395x(v)(1)(A) of this title, less the amount a provider may charge as described in clause (ii) of section 1395cc(a)(2)(A) of this title, but in no case may the payment for such services (other than for items and services described in section 1395x(s)(10)(A) of this title) exceed 80 percent of such costs; or
+&emsp;&emsp;(A) except as provided in subparagraph (B), the costs which are reasonable and related to the cost of furnishing such services or which are based on such other tests of reasonableness as the Secretary may prescribe in regulations, including those authorized under section 1395x(v)(1)(A) of this title, less the amount a provider may charge as described in clause (ii) of section1395cc(a)(2)(A) of this title, but in no case may the payment for such services (other than for items and services described in section 1395x(s)(10)(A) of this title) exceed 80 percent of such costs; or
 
 &emsp;&emsp;(B) with respect to the services described in clause (ii) of section 1395k(a)(2)(D) of this title that are furnished to an individual enrolled with a MA plan under part C of this subchapter pursuant to a written agreement described in section 1395w–23(a)(4) of this title, the amount (if any) by which—
 
@@ -70,7 +70,7 @@ Except as provided in section 1395mm of this title, and subject to the succeedin
 
 &emsp;(8) in the case of—
 
-&emsp;&emsp;(A) outpatient physical therapy services (which includes outpatient speech-language pathology services) and outpatient occupational therapy services furnished—
+&emsp;&emsp;(A) outpatient physical therapy services, outpatient speech-language pathology services, and outpatient occupational therapy services furnished—
 
 &emsp;&emsp;&emsp;(i) by a rehabilitation agency, public health agency, clinic, comprehensive outpatient rehabilitation facility, or skilled nursing facility,
 
@@ -78,7 +78,7 @@ Except as provided in section 1395mm of this title, and subject to the succeedin
 
 &emsp;&emsp;&emsp;(iii) by another entity under an arrangement with an entity described in clause (i) or (ii); and
 
-&emsp;&emsp;(B) outpatient physical therapy services (which includes outpatient speech-language pathology services) and outpatient occupational therapy services furnished—
+&emsp;&emsp;(B) outpatient physical therapy services, outpatient speech-language pathology services, and outpatient occupational therapy services furnished—
 
 &emsp;&emsp;&emsp;(i) by a hospital to an outpatient or to a hospital inpatient who is entitled to benefits under part A of this subchapter but has exhausted benefits for inpatient hospital services during a spell of illness or is not so entitled to benefits under part A of this subchapter, or
 
@@ -90,11 +90,23 @@ Except as provided in section 1395mm of this title, and subject to the succeedin
 
 #### (b) Deductible provision
 
-Before applying subsection (a) of this section with respect to expenses incurred by an individual during any calendar year, the total amount of the expenses incurred by such individual during such year (which would, except for this subsection, constitute incurred expenses from which benefits payable under subsection (a) of this section are determinable) shall be reduced by a deductible of $75 for calendar years before 1991, $100 for 1991 through 2004, $110 for 2005, and for a subsequent year the amount of such deductible for the previous year increased by the annual percentage increase in the monthly actuarial rate under section 1395r(a)(1) of this title ending with such subsequent year (rounded to the nearest $1); except that (1) such total amount shall not include expenses incurred for items and services described in section 1395x(s)(10)(A) of this title, (2) such deductible shall not apply with respect to home health services (other than a covered osteoporosis drug (as defined in section 1395x(kk) of this title)), (3) such deductible shall not apply with respect to clinical diagnostic laboratory tests for which payment is made under this part (A) under subsection (a)(1)(D)(i) or (a)(2)(D)(i) of this section on an assignment-related basis, or to a provider having an agreement under section 1395cc of this title, or (B) on the basis of a negotiated rate determined under subsection (h)(6) of this section,\(4) such deductible shall not apply to Federally qualified health center services, (5) such deductible shall not apply with respect to screening mammography (as described in section 1395x(jj) of this title), (6) such deductible shall not apply with respect to screening pap smear and screening pelvic exam (as described in section 1395x(nn) of this title). The total amount of the expenses incurred by an individual as determined under the preceding sentence shall, after the reduction specified in such sentence, be further reduced by an amount equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during the calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence. The deductible under the previous sentence for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under section 1395e(a)(2) of this title to blood or blood cells furnished the individual in the year, (7) such deductible shall not apply with respect to ultrasound screening for abdominal aortic aneurysm (as defined in section 1395x(bbb) of this title), and (8) such deductible shall not apply with respect to colorectal cancer screening tests (as described in section 1395x(pp)(1) of this title).
+Before applying subsection (a) of this section with respect to expenses incurred by an individual during any calendar year, the total amount of the expenses incurred by such individual during such year (which would, except for this subsection, constitute incurred expenses from which benefits payable under subsection (a) of this section are determinable) shall be reduced by a deductible of $75 for calendar years before 1991, $100 for 1991 through 2004, $110 for 2005, and for a subsequent year the amount of such deductible for the previous year increased by the annual percentage increase in the monthly actuarial rate under section 1395r(a)(1) of this title ending with such subsequent year (rounded to the nearest $1); except that (1) such total amount shall not include expenses incurred for items and services described in section 1395x(s)(10)(A) of this title, (2) such deductible shall not apply with respect to home health services (other than a covered osteoporosis drug (as defined in section 1395x(kk) of this title)), (3) such deductible shall not apply with respect to clinical diagnostic laboratory tests for which payment is made under this part (A) under subsection (a)(1)(D)(i) or (a)(2)(D)(i) of this section on an assignment-related basis, or to a provider having an agreement under section 1395cc of this title, or (B) on the basis of a negotiated rate determined under subsection (h)(6) of this section, (4) such deductible shall not apply to Federally qualified health center services, (5) such deductible shall not apply with respect to screening mammography (as described in section 1395x(jj) of this title), (6) such deductible shall not apply with respect to screening pap smear and screening pelvic exam (as described in section 1395x(nn) of this title). The total amount of the expenses incurred by an individual as determined under the preceding sentence shall, after the reduction specified in such sentence, be further reduced by an amount equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during the calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (orequivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence. The deductible under the previous sentence for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under section 1395e(a)(2) of this title to blood or blood cells furnished the individual in the year, (7) such deductible shall not apply with respect to ultrasound screening for abdominal aortic aneurysm (as defined in section 1395x(bbb) of this title), (8) such deductible shall not apply with respect to colorectal cancer screening tests (as described in section 1395x(pp)(1) of this title), and (9) such deductible shall not apply with respect to an initial preventive physical examination (as defined in section 1395x(ww) of this title).
 
 #### (c) Mental disorders
 
-Notwithstanding any other provision of this part, with respect to expenses incurred in any calendar year in connection with the treatment of mental, psychoneurotic, and personality disorders of an individual who is not an inpatient of a hospital at the time such expenses are incurred, there shall be considered as incurred expenses for purposes of subsections (a) and (b) of this section only 621/2 percent of such expenses. For purposes of this subsection, the term “treatment” does not include brief office visits (as defined by the Secretary) for the sole purpose of monitoring or changing drug prescriptions used in the treatment of such disorders or partial hospitalization services that are not directly provided by a physician.
+(1) Notwithstanding any other provision of this part, with respect to expenses incurred in a calendar year in connection with the treatment of mental, psychoneurotic, and personality disorders of an individual who is not an inpatient of a hospital at the time such expenses are incurred, there shall be considered as incurred expenses for purposes of subsections (a) and (b)—
+
+&emsp;(A) for expenses incurred in years prior to 2010, only 621/2 percent of such expenses;
+
+&emsp;(B) for expenses incurred in 2010 or 2011, only 683/4 percent of such expenses;
+
+&emsp;(C) for expenses incurred in 2012, only 75 percent of such expenses;
+
+&emsp;(D) for expenses incurred in 2013, only 811/4 percent of such expenses; and
+
+&emsp;(E) for expenses incurred in 2014 or any subsequent calendar year, 100 percent of such expenses.
+
+(2) For purposes of subparagraphs (A) through (D) of paragraph (1), the term “treatment” does not include brief office visits (as defined by the Secretary) for the sole purpose of monitoring or changing drug prescriptions used in the treatment of such disorders or partial hospitalization services that are not directly provided by a physician.
 
 #### (d) Nonduplication of payments
 
@@ -114,7 +126,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 #### (g) Physical therapy services
 
-(1) Subject to paragraphs (4) and (5), in the case of physical therapy services of the type described in section 1395x(p) of this title, but not described in subsection (a)(8)(B) of this section, and physical therapy services of such type which are furnished by a physician or as incident to physicians’ services, with respect to expenses incurred in any calendar year, no more than the amount specified in paragraph (2) for the year shall be considered as incurred expenses for purposes of subsections (a) and (b) of this section.
+(1) Subject to paragraphs (4) and (5), in the case of physical therapy services of the type described in section 1395x(p) of this title and speech-language pathology services of the type described in such section through the application of section 1395x(<i>ll</i>)(2) of this title, but not described in subsection (a)(8)(B) of this section, and physical therapy services and speech-language pathology services of such type which are furnished by a physician or as incident to physicians’ services, with respect to expenses incurred in any calendar year, no more than the amount specified in paragraph (2) for the year shall be considered as incurred expenses for purposes of subsections (a) and (b) of this section.
 
 (2) The amount specified in this paragraph—
 
@@ -128,7 +140,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (4) This subsection shall not apply to expenses incurred with respect to services furnished during 2000, 2001, 2002, 2004, and 2005.
 
-(5) With respect to expenses incurred during the period beginning on January 1, 2006, and ending on June 30, 2008, for services, the Secretary shall implement a process under which an individual enrolled under this part may, upon request of the individual or a person on behalf of the individual, obtain an exception from the uniform dollar limitation specified in paragraph (2), for services described in paragraphs (1) and (3) if the provision of such services is determined to be medically necessary. Under such process, if the Secretary does not make a decision on such a request for an exception within 10 business days of the date of the Secretary's receipt of the request, the Secretary shall be deemed to have found the services to be medically necessary.
+(5) With respect to expenses incurred during the period beginning on January 1, 2006, and ending on December 31, 2009, for services, the Secretary shall implement a process under which an individual enrolled under this part may, upon request of the individual or a person on behalf of the individual, obtain an exception from the uniform dollar limitation specified in paragraph (2), for services described in paragraphs (1) and (3) if the provision of such services is determined to be medically necessary. Under such process, if the Secretary does not make a decision on such a request for an exception within 10 business days of the date of the Secretary's receipt of the request, the Secretary shall be deemed to have found the services to be medically necessary.
 
 #### (h) Fee schedules for clinical diagnostic laboratory tests; percentage of prevailing charge level; nominal fee for samples; adjustments; recipients of payments; negotiated payment rate
 
@@ -140,7 +152,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (D) In this subsection, the term “qualified hospital laboratory” means a hospital laboratory, in a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title), which provides some clinical diagnostic laboratory tests 24 hours a day in order to serve a hospital emergency room which is available to provide services 24 hours a day and 7 days a week.
 
-(2)(A)(i) Except as provided in paragraph (4), the Secretary shall set the fee schedules at 60 percent (or, in the case of a test performed by a qualified hospital laboratory (as defined in paragraph (1)(D)) for outpatients of such hospital, 62 percent) of the prevailing charge level determined pursuant to the third and fourth sentences of section 1395u(b)(3) of this title for similar clinical diagnostic laboratory tests for the applicable region, State, or area for the 12-month period beginning July 1, 1984, adjusted annually (to become effective on January 1 of each year) by a percentage increase or decrease equal to the percentage increase or decrease in the Consumer Price Index for All Urban Consumers (United States city average), and subject to such other adjustments as the Secretary determines are justified by technological changes.
+(2)(A)(i) Except as provided in paragraph (4), the Secretary shall set the fee schedules at 60 percent (or, in the case of a test performed by a qualified hospital laboratory (as defined in paragraph (1)(D)) for outpatients of such hospital, 62 percent) of the prevailing charge level determined pursuant to the third and fourth sentences of section 1395u(b)(3) of this title for similar clinical diagnostic laboratory tests for the applicable region, State, or area for the 12-month period beginning July 1, 1984, adjusted annually (to become effective on January 1 of each year) by a percentage increase or decrease equal to the percentage increase or decrease in the Consumer Price Index for All Urban Consumers (United States city average) minus, for each of the years 2009 through 2013, 0.5 percentage points, and subject to such other adjustments as the Secretary determines are justified by technological changes.
 
 (ii) Notwithstanding clause (i)—
 
@@ -156,7 +168,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (B) The Secretary may make further adjustments or exceptions to the fee schedules to assure adequate reimbursement of (i) emergency laboratory tests needed for the provision of bona fide emergency services, and (ii) certain low volume high-cost tests where highly sophisticated equipment or extremely skilled personnel are necessary to assure quality.
 
-(3) In addition to the amounts provided under the fee schedules, the Secretary shall provide for and establish (A) a nominal fee to cover the appropriate costs in collecting the sample on which a clinical diagnostic laboratory test was performed and for which payment is made under this part, except that not more than one such fee may be provided under this paragraph with respect to samples collected in the same encounter, and (B) a fee to cover the transportation and personnel expenses for trained personnel to travel to the location of an individual to collect the sample, except that such a fee may be provided only with respect to an individual who is homebound or an inpatient in an inpatient facility (other than a hospital). In establishing a fee to cover the transportation and personnel expenses for trained personnel to travel to the location of an individual to collect a sample, the Secretary shall provide a method for computing the fee based on the number of miles traveled and the personnel costs associated with the collection of each individual sample, but the Secretary shall only be required to apply such method in the case of tests furnished during the period beginning on April 1, 1989, and ending on December 31, 1990, by a laboratory that establishes to the satisfaction of the Secretary (based on data for the 12-month period ending June 30, 1988) that (i) the laboratory is dependent upon payments under this subchapter for at least 80 percent of its collected revenues for clinical diagnostic laboratory tests, (ii) at least 85 percent of its grossrevenues for such tests are attributable to tests performed with respect to individuals who are homebound or who are residents in a nursing facility, and (iii) the laboratory provided such tests for residents in nursing facilities representing at least 20 percent of the number of such facilities in the State in which the laboratory is located.
+(3) In addition to the amounts provided under the fee schedules, the Secretary shall provide for and establish (A) a nominal fee to cover the appropriate costs in collecting the sample on which a clinical diagnostic laboratory test was performed and for which payment is made under this part, except that not more than one such fee may be provided under this paragraph with respect to samples collected in the same encounter, and (B) a fee to cover the transportation and personnel expenses for trained personnel to travel to the location of an individual to collect the sample, except that such a fee may be provided only with respect to an individual who is homebound or an inpatient in an inpatient facility (other than a hospital). In establishing a fee to cover the transportation and personnel expenses for trained personnel to travel to the location of an individual to collect a sample, the Secretary shall provide a method for computing the fee based on the number of miles traveled and the personnel costs associated with the collection of each individual sample, but the Secretary shall only be required to apply such method in the case of tests furnished during the period beginning on April 1, 1989, and ending on December 31, 1990, by a laboratory that establishes to the satisfaction of the Secretary (based on data for the 12-month period ending June 30, 1988) that (i) the laboratory is dependent upon payments under this subchapter for at least 80 percent of its collected revenues for clinical diagnostic laboratory tests, (ii) at least 85 percent of its gross revenues for such tests are attributable to tests performed with respect to individuals who are homebound or who are residents in a nursing facility, and (iii) the laboratory provided such tests for residents in nursing facilities representing at least 20 percent of the number of such facilities in the State in which the laboratory is located.
 
 (4)(A) In establishing any fee schedule under this subsection, the Secretary may provide for an adjustment to take into account, with respect to the portion of the expenses of clinical diagnostic laboratory tests attributable to wages, the relative difference between a region's or local area's wage rates and the wage rate presumed in the data on which the schedule is based.
 
@@ -188,7 +200,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 &emsp;&emsp;(II) the referring laboratory is wholly owned by the entity performing such test, the referring laboratory wholly owns the entity performing such test, or both the referring laboratory and the entity performing such test are wholly-owned by a third entity, or
 
-&emsp;&emsp;(III) not more than 30 percent of the clinical diagnostic laboratory tests for which such referring laboratory (but not including a laboratory described in subclause (II)),<sup>2</sup> receives requests for testing during the year in which the test is performed <sup>2</sup> are performed by another laboratory, and
+&emsp;&emsp;(III) not more than 30 percent of the clinical diagnostic laboratory tests for which such referring laboratory (but not including a laboratory described in subclause (II)),<sup>3</sup> receives requests for testing during the year in which the test is performed <sup>3</sup> are performed by another laboratory, and
 
 &emsp;(iii) in the case of a clinical diagnostic laboratory test provided under an arrangement (as defined in section 1395x(w)(1) of this title) made by a hospital, critical access hospital, or skilled nursing facility, payment shall be made to the hospital or skilled nursing facility.
 
@@ -196,11 +208,11 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (C) Payment for a clinical diagnostic laboratory test, including a test performed in a physician's office but excluding a test performed by a rural health clinic may only be made on an assignment-related basis or to a provider of services with an agreement in effect under section 1395cc of this title.
 
-(D) A person may not bill for a clinical diagnostic laboratory test, including a test performed in a physician's office but excluding a test performed by a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence, the Secretary may apply sanctions against the person in the same manner as the Secretary may apply sanctions against a physician in accordance with paragraph (2) of section 1395u(j) of this title in the same manner such paragraphs apply <sup>3</sup> with respect to a physician. Paragraph (4) of such section shall apply in this subparagraph in the same manner as such paragraph applies to such section.
+(D) A person may not bill for a clinical diagnostic laboratory test, including a test performed in a physician's office but excluding a test performed by a rural health clinic, other than on an assignment-related basis. If a person knowingly and willfully and on a repeated basis bills for a clinical diagnostic laboratory test in violation of the previous sentence, the Secretary may apply sanctions against the person in the same manner as the Secretary may apply sanctions against a physician in accordance with paragraph (2) of section 1395u(j) of this title in the same manner such paragraphs apply <sup>4</sup> with respect to a physician. Paragraph (4) of such section shall apply in this subparagraph in the same manner as such paragraph applies to such section.
 
 (6) In the case of any diagnostic laboratory test payment for which is not made on the basis of a fee schedule under paragraph (1), the Secretary may establish a payment rate which is acceptable to the person or entity performing the test and which would be considered the full charge for such tests. Such negotiated rate shall be limited to an amount not in excess of the total payment that would have been made for the services in the absence of such rate.
 
-(7) Notwithstanding paragraphs (1) and (4), the Secretary shall establish a national minimumpayment amount under this subsection for a diagnostic or screening pap smear laboratory test (including all cervical cancer screening technologies that have been approved by the Food and Drug Administration as a primary screening method for detection of cervical cancer) equal to $14.60 for tests furnished in 2000. For such tests furnished in subsequent years, such national minimum payment amount shall be adjusted annually as provided in paragraph (2).
+(7) Notwithstanding paragraphs (1) and (4), the Secretary shall establish a national minimum payment amount under this subsection for a diagnostic or screening pap smear laboratory test (including all cervical cancer screening technologies that have been approved by the Food and Drug Administration as a primary screening method for detection of cervical cancer) equal to $14.60 for tests furnished in 2000. For such tests furnished in subsequent years, such national minimum payment amount shall be adjusted annually as provided in paragraph (2).
 
 (8)(A) The Secretary shall establish by regulation procedures for determining the basis for, and amount of, payment under this subsection for any clinical diagnostic laboratory test with respect to which a new or substantially revised HCPCS code is assigned on or after January 1, 2005 (in this paragraph referred to as “new tests”).
 
@@ -246,7 +258,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 &emsp;(i) takes into account the costs incurred by such centers, or classes of centers, generally in providing services furnished in connection with the performance of such procedure, as determined in accordance with a survey (based upon a representative sample of procedures and facilities) of the actual audited costs incurred by such centers in providing such services,
 
-&emsp;(ii) takes such costs into account in such a manner as will assure that the performance ofthe procedure in such a center will result in substantially less amounts paid under this subchapter than would have been paid if the procedure had been performed on an inpatient basis in a hospital, and
+&emsp;(ii) takes such costs into account in such a manner as will assure that the performance of the procedure in such a center will result in substantially less amounts paid under this subchapter than would have been paid if the procedure had been performed on an inpatient basis in a hospital, and
 
 &emsp;(iii) in the case of insertion of an intraocular lens during or subsequent to cataract surgery includes payment which is reasonable and related to the cost of acquiring the class of lens involved.
 
@@ -274,7 +286,9 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (iii) The Secretary shall implement the system described in clause (i) for periods in a manner so that it is first effective beginning on or after January 1, 2006, and not later than January 1, 2008.
 
-(iv) There shall be no administrative or judicial review under section 1395ff, 1395<i>oo</i> of this title, or otherwise, of the classification system, the relative weights, payment amounts, and the geographic adjustment factor, if any, under this subparagraph.
+(iv) The Secretary may implement such system in a manner so as to provide for a reduction in any annual update for failure to report on quality measures in accordance with paragraph (7).
+
+(v) There shall be no administrative or judicial review under section 1395ff, 1395<i>oo</i> of this title, or otherwise, of the classification system, the relative weights, payment amounts, and the geographic adjustment factor, if any, under this subparagraph.
 
 (E) With respect to surgical procedures furnished on or after January 1, 2007, and before the effective date of the implementation of a revised payment system under subparagraph (D), if—
 
@@ -298,7 +312,7 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 (ii) Subject to paragraph (4), in this paragraph:
 
-&emsp;(I) The term “cost proportion” means 75 percent for cost reporting periods beginning infiscal year 1988, 50 percent for portions of cost reporting periods beginning on or after October 1, 1988, and ending on or before December 31, 1990, and 42 percent for portions of cost reporting periods beginning on or after January 1, 1991.
+&emsp;(I) The term “cost proportion” means 75 percent for cost reporting periods beginning in fiscal year 1988, 50 percent for portions of cost reporting periods beginning on or after October 1, 1988, and ending on or before December31, 1990, and 42 percent for portions of cost reporting periods beginning on or after January 1, 1991.
 
 &emsp;(II) The term “ASC proportion” means 25 percent for cost reporting periods beginning in fiscal year 1988, 50 percent for portions of cost reporting periods beginning on or after October 1, 1988, and ending on or before December 31, 1990, and 58 percent for portions of cost reporting periods beginning on or after January 1, 1991.
 
@@ -316,13 +330,17 @@ In establishing limits under subsection (a) of this section on payment for rural
 
 > the cost proportion and ASC proportion in effect under subclauses (I) and (II) of paragraph (3)(B)(ii) for cost reporting periods beginning in fiscal year 1988 shall remain in effect for cost reporting periods beginning on or after October 1, 1988, and before January 1, 1995.
 
-(B) For purposes of this <sup>4</sup> subparagraph (A)(iii)(II), the term “eye or eye and ear unit” means a physically separate or distinct unit containing separate surgical suites devoted solely to eye or eye and ear services.
+(B) For purposes of this <sup>5</sup> subparagraph (A)(iii)(II), the term “eye or eye and ear unit” means a physically separate or distinct unit containing separate surgical suites devoted solely to eye or eye and ear services.
 
 (5)(A) The Secretary is authorized to provide by regulations that in the case of a surgical procedure, specified by the Secretary pursuant to paragraph (1)(A), performed in an ambulatory surgical center described in such paragraph, there shall be paid (in lieu of any amounts otherwise payable under this part) with respect to the facility services furnished by such center and with respect to all related services (including physicians’ services, laboratory, X-ray, and diagnostic services) a single all-inclusive fee established pursuant to subparagraph (B), if all parties furnishing all such services agree to accept such fee (to be divided among the parties involved in such manner as they shall have previously agreed upon) as full payment for the services furnished.
 
 (B) In implementing this paragraph, the Secretary shall establish with respect to each surgical procedure specified pursuant to paragraph (1)(A) the amount of the all-inclusive fee for such procedure, taking into account such factors as may be appropriate. The amount so established with respect to any surgical procedure shall be reviewed periodically and may be adjusted by the Secretary, when appropriate, to take account of varying conditions in different areas.
 
 (6) Any person, including a facility having an agreement under section 1395k(a)(2)(F)(i) of this title, who knowingly and willfully presents, or causes to be presented, a bill or request for payment, for an intraocular lens inserted during or subsequent to cataract surgery for which payment may be made under paragraph (2)(A)(iii), is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+(7)(A) For purposes of paragraph (2)(D)(iv), the Secretary may provide, in the case of an ambulatory surgical center that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to a year, any annual increase provided under the system established under paragraph (2)(D) for such year shall be reduced by 2.0 percentage points. A reduction under this subparagraph shall apply only with respect to the year involved and the Secretary shall not take into account such reduction in computing any annual increase factor for a subsequent year.
+
+(B) Except as the Secretary may otherwise provide, the provisions of subparagraphs (B), (C), (D), and (E) of paragraph (17) of subsection (t) shall apply with respect to services of ambulatory surgical centers under this paragraph in a similar manner to the manner in which they apply under such paragraph and, for purposes of this subparagraph, any reference to a hospital, outpatient setting, or outpatient hospital services is deemed a reference to an ambulatory surgical center, the setting of such a center, or services of such a center, respectively.
 
 #### (j) Accrual of interest on balance of excess or deficit not paid
 
@@ -334,7 +352,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 #### (<i>l</i>) Fee schedule for services of certified registered nurse anesthetists
 
-(1)(A) The Secretary shall establish a fee schedule for services of certified registered nurse anesthetists under section 1395x(s)(11) of this title.
+(1)(A) The Secretary shall establish a fee schedule for services of certified registerednurse anesthetists under section 1395x(s)(11) of this title.
 
 (B) In establishing the fee schedule under this paragraph the Secretary may utilize a system of time units, a system of base and time units, or any appropriate methodology.
 
@@ -342,7 +360,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 (2) Except as provided in paragraph (3), the fee schedule established under paragraph (1) shall be initially based on audited data from cost reporting periods ending in fiscal year 1985 and such other data as the Secretary determines necessary.
 
-(3)(A) In establishing the initial fee schedule for those services, the Secretary shall adjust the fee schedule to the extent necessary to ensure that the estimated total amount which will bepaid under this subchapter for those services plus applicable coinsurance in 1989 will equal the estimated total amount which would be paid under this subchapter for those services in 1989 if the services were included as inpatient hospital services and payment for such services was made under part A of this subchapter in the same manner as payment was made in fiscal year 1987, adjusted to take into account changes in prices and technology relating to the administration of anesthesia.
+(3)(A) In establishing the initial fee schedule for those services, the Secretary shall adjust the fee schedule to the extent necessary to ensure that the estimated total amount which will be paid under this subchapter for those services plus applicable coinsurance in 1989 will equal the estimated total amount which would be paid under this subchapter for those services in 1989 if the services were included as inpatient hospital services and payment for such services was made under part A of this subchapter in the same manner as payment was made in fiscal year 1987, adjusted to take into account changes in prices and technology relating to the administration of anesthesia.
 
 (B) The Secretary shall also reduce the prevailing charge of physicians for medical direction of a certified registered nurse anesthetist, or the fee schedule for services of certified registered nurse anesthetists, or both, to the extent necessary to ensure that the estimated total amount which will be paid under this subchapter plus applicable coinsurance for such medical direction and such services in 1989 and 1990 will not exceed the estimated total amount which would have been paid plus applicable coinsurance but for the enactment of the amendments made by section 9320 of the Omnibus Budget Reconciliation Act of 1986. A reduced prevailing charge under this subparagraph shall become the prevailing charge but for subsequent years for purposes of applying the economic index under the fourth sentence of section 1395u(b)(3) of this title.
 
@@ -366,7 +384,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 &emsp;(ii) the payment areas to be used shall be the fee schedule areas used under section 1395w–4 of this title (or, in the case of services furnished during 1991, the localities used under section 1395u(b) of this title) for purposes of computing payments for physicians’ services that are anesthesia services;
 
-&emsp;(iii) the geographic adjustment factors to be applied to the conversion factor under clause (i) for services in a fee schedule area or locality is— <sup>5</sup>
+&emsp;(iii) the geographic adjustment factors to be applied to the conversion factor under clause (i) for services in a fee schedule area or locality is— <sup>6</sup>
 
 &emsp;&emsp;(I) in the case of services furnished in 1991, the geographic work index value and the geographic practice cost index value specified in section 1395u(q)(1)(B) of this title for physicians’ services that are anesthesia services furnished in the area or locality, and
 
@@ -396,9 +414,9 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 &emsp;&emsp;(II) the conversion factor specified in subparagraph (A)(i) for the year involved.
 
-(D) Notwithstanding subparagraph (C), in no case may the conversion factor used to determine payment for services in a fee schedule area or locality under this subsection, as adjusted by the adjustment factors specified in subparagraphs <sup>6</sup> (A)(iii), exceed the conversion factor used to determine the amount paid for physicians’ services that are anesthesia services in the area or locality.
+(D) Notwithstanding subparagraph (C), in no case may the conversion factor used to determine payment for services in a fee schedule area or locality under this subsection, as adjusted by the adjustment factors specified in subparagraphs <sup>7</sup> (A)(iii), exceed the conversion factor used to determine the amount paid for physicians’ services that are anesthesia services in the area or locality.
 
-(5)(A) Payment for the services of a certified registered nurse anesthetist (for which payment may otherwise be made under this part) may be made on the basis of a claim or request for payment presented by the certified registered nurse anesthetist furnishing such services, or by a hospital, critical access hospital, physician, group practice, or ambulatory surgical center with which the certified registered nurse anesthetist furnishing such services has an employment orcontractual relationship that provides for payment to be made under this part for such services to such hospital, critical access hospital, physician, group practice, or ambulatory surgical center.
+(5)(A) Payment for the services of a certified registered nurse anesthetist (for which payment may otherwise be made under this part) may be made on the basis of a claim or request for payment presented by the certified registered nurse anesthetist furnishing such services, or by a hospital, critical access hospital, physician, group practice, or ambulatory surgical center with which the certified registered nurse anesthetist furnishing such services has an employment or contractual relationship that provides for payment to be made under this part for such services to such hospital, critical access hospital, physician, group practice, or ambulatory surgical center.
 
 (B) No hospital or critical access hospital that presents a claim or request for payment for services of a certified nurse anesthetist under this part may treat any uncollected coinsurance amount imposed under this part with respect to such services as a bad debt of such hospital or critical access hospital for purposes of this subchapter.
 
@@ -424,7 +442,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 #### (n) Payments to hospital outpatient departments for radiology; amount; definitions
 
-(1)(A) <sup>7</sup> The aggregate amount of the payments to be made for all or part of a cost reporting period for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and before January 1, 1999, and for services described in subsection (a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989, and before January 1, 1999, shall be equal to the lesser of—
+(1)(A) <sup>8</sup> The aggregate amount of the payments to be made for all or part of a cost reporting period for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and before January 1, 1999, and for services described in subsection (a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989, and before January 1, 1999, shall be equal to the lesser of—
 
 &emsp;(i) the amount determined with respect to such services under subsection (a)(2)(B) of this section, or
 
@@ -438,7 +456,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 (ii) In this subparagraph:
 
-&emsp;(I) The term “cost proportion” means 50 percent, except that such term means 65 percent in the case of outpatient radiology services for portions of cost reporting periods which occur in fiscal year 1989 and in the case of diagnostic procedures described in subsection (a)(2)(E)(ii) of this section for portions of cost reporting periods which occur in fiscal year 1990, and such term means 42 percent in the case of outpatient radiology services for portions of cost reporting periods beginning on or after January 1, 1991.
+&emsp;(I) The term “cost proportion” means 50 percent, except that such term means 65 percent in the case of outpatient radiology services for portions of cost reporting periods which occur in fiscal year 1989 and in the case of diagnosticprocedures described in subsection (a)(2)(E)(ii) of this section for portions of cost reporting periods which occur in fiscal year 1990, and such term means 42 percent in the case of outpatient radiology services for portions of cost reporting periods beginning on or after January 1, 1991.
 
 &emsp;(II) The term “charge proportion” means 100 percent minus the cost proportion.
 
@@ -448,7 +466,7 @@ With respect to services described in section 1395x(s)(10)(B) of this title, the
 
 &emsp;(A) no payment may be made under this part, with respect to any individual for any year, for the furnishing of—
 
-&emsp;&emsp;(i) more than one pair of custom molded shoes (including inserts provided with suchshoes) and 2 additional pairs of inserts for such shoes, or
+&emsp;&emsp;(i) more than one pair of custom molded shoes (including inserts provided with such shoes) and 2 additional pairs of inserts for such shoes, or
 
 &emsp;&emsp;(ii) more than one pair of extra-depth shoes (not including inserts provided with such shoes) and 3 pairs of inserts for such shoes, and
 
@@ -578,7 +596,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (iv) OPD fee schedule increase factor
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the “OPD fee schedule increase factor” for services furnished in a year is equal to the market basket percentage increase applicable under section 1395ww(b)(3)(B)(iii) of this title to hospital discharges occurring during the fiscal year ending in such year, reduced by 1 percentage point for such factor for services furnished in each of 2000 and 2002. In applying the previous sentence for years beginning with 2000, the Secretary may substitute for the market basket percentage increase an annual percentage increase that is computed and applied with respect to covered OPD services furnished in a year in the same manner as the market basket percentage increase is determined and applied to inpatient hospital services for discharges occurring in a fiscal year.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, subject to paragraph (17), the “OPD fee schedule increase factor” for services furnished in a year is equal to the market basket percentage increase applicable under section 1395ww(b)(3)(B)(iii) of this title to hospital discharges occurring during the fiscal year ending in such year, reduced by 1 percentage point for such factor for services furnished in each of 2000 and 2002. In applying the previous sentence for years beginning with 2000, the Secretary may substitute for the market basket percentage increase an annual percentage increase that is computed and applied with respect to covered OPD services furnished in a year in the same manner as the market basket percentage increase is determined and applied to inpatient hospital services for discharges occurring in a fiscal year.
 
 #### (D) Calculation of medicare OPD fee schedule amounts
 
@@ -606,7 +624,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (B) Subtract applicable deductible
 
-&emsp;&emsp;Reduce the adjusted amount determined under subparagraph (A) by the amount of the deductible under subsection (b) of this section, to the extent applicable.
+&emsp;&emsp;Reduce the adjusted amount determined under subparagraph (A) by the amount ofthe deductible under subsection (b) of this section, to the extent applicable.
 
 #### (C) Apply payment proportion to remainder
 
@@ -690,7 +708,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall initially establish under this clause categories of medical devices based on type of device by April 1, 2001. Such categories shall be established in a manner such that each medical device that meets the requirements of clause (ii) or (iv) of subparagraph (A) as of January 1, 2001, is included in such a category and no such device is included in more than one category. For purposes of the preceding sentence, whether amedical device meets such requirements as of such date shall be determined on the basis of the program memoranda issued before such date.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall initially establish under this clause categories of medical devices based on type of device by April 1, 2001. Such categories shall be established in a manner such that each medical device that meets the requirements of clause (ii) or (iv) of subparagraph (A) as of January 1, 2001, is included in such a category and no such device is included in more than one category. For purposes of the preceding sentence, whether a medical device meets such requirements as of such date shall be determined on the basis of the program memoranda issued before such date.
 
 #### (II) Authorization of implementation other than through regulations
 
@@ -754,7 +772,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 &emsp;&emsp;Subject to subparagraph (E)(iii), the amount of the payment under this paragraph with respect to a device, drug, or biological provided as part of a covered OPD service is—
 
-&emsp;&emsp;&emsp;(i) in the case of a drug or biological, the amount by which the amount determined under section 1395u(<i>o</i>) of this title (or if the drug or biological is covered under a competitive acquisition contract under section 1395w–3b of this title, an amount determined by the Secretary equal to theaverage price for the drug or biological for all competitive acquisition areas and year established under such section as calculated and adjusted by the Secretary for purposes of this paragraph) for the drug or biological exceeds the portion of the otherwise applicable medicare OPD fee schedule that the Secretary determines is associated with the drug or biological; or
+&emsp;&emsp;&emsp;(i) in the case of a drug or biological, the amount by which the amount determined under section 1395u(<i>o</i>) of this title (or if the drug or biological is covered under a competitive acquisition contract under section 1395w–3b of this title, an amount determined by the Secretary equal to the average price for the drug or biological for all competitive acquisition areas and year established under such section as calculated and adjusted by the Secretary for purposes of this paragraph) for the drug or biological exceeds the portion of the otherwise applicable medicare OPD fee schedule that the Secretary determines is associated with the drug or biological; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a medical device, the amount by which the hospital's charges for the device, adjusted to cost, exceeds the portion of the otherwise applicable medicare OPD fee schedule that the Secretary determines is associated with the device.
 
@@ -832,7 +850,9 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 &emsp;&emsp;&emsp;(I) In the case of a hospital located in a rural area and that has not more than 100 beds or a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title) located in a rural area, for covered OPD services furnished before January 1, 2006, for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by the amount of such difference.
 
-&emsp;&emsp;&emsp;(II) In the case of a hospital located in a rural area and that has not more than 100 beds and that is not a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title), for covered OPD services furnished on or after January 1, 2006, and before January 1, 2009, for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by the applicable percentage of the amount of such difference. For purposes of the previous sentence, with respect to covered OPD services furnished during 2006, 2007, or 2008, the applicable percentage shall be 95 percent, 90 percent, and 85 percent, respectively.
+&emsp;&emsp;&emsp;(II) In the case of a hospital located in a rural area and that has not more than 100 beds and that is not a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title), for covered OPD services furnished on or after January 1, 2006, and before January 1, 2010, for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by the applicable percentage of the amount of such difference. For purposes of the preceding sentence, the applicable percentage shall be 95 percent with respect to covered OPD services furnished in 2006, 90 percent with respect to such services furnished in 2007, and 85 percent with respect to such services furnished in 2008 or 2009.
+
+&emsp;&emsp;&emsp;(III) In the case of a sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title) that has not more than 100 beds, for covered OPD services furnished on or after January 1, 2009, and before January 1, 2010, for which the PPS amount is less than the pre-BBA amount, the amount of payment under this subsection shall be increased by 85 percent of the amount of such difference.
 
 #### (ii) Permanent treatment for cancer hospitals and children's hospitals
 
@@ -1032,7 +1052,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (iii) Survey requirements
 
-&emsp;&emsp;&emsp;The surveys conducted under clauses (i) and (ii) shall have a large sample of hospitals that is sufficient to generate a statistically significant estimate of the average hospital acquisition cost for each specified covered outpatient drug. With respect to the surveys conducted under clause (i), the Comptroller General shall report toCongress on the justification for the size of the sample used in order to assure the validity of such estimates.
+&emsp;&emsp;&emsp;The surveys conducted under clauses (i) and (ii) shall have a large sample of hospitals that is sufficient to generate a statistically significant estimate of the average hospital acquisition cost for each specified covered outpatient drug. With respect to the surveys conducted under clause (i), the Comptroller General shall report to Congress on the justification for the size of the sample used in order to assure the validity of such estimates.
 
 #### (iv) Differentiation in cost
 
@@ -1102,7 +1122,41 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (C) Payment for devices of brachytherapy and therapeutic radiopharmaceuticals at charges adjusted to cost
 
-&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, for a device of brachytherapy consisting of a seed or seeds (or radioactive source) furnished on or after January 1, 2004, and before July 1, 2008, and for therapeutic radiopharmaceuticals furnished on or after January 1, 2008, and before July 1, 2008, the payment basis for the device or therapeutic radiopharmaceutical under this subsection shall be equal to the hospital's charges for each device or therapeutic radiopharmaceutical furnished, adjusted to cost. Charges for such devices or therapeutic radiopharmaceuticals shall not be included in determining any outlier payment under this subsection.
+&emsp;&emsp;Notwithstanding the preceding provisions of this subsection, for a device of brachytherapy consisting of a seed or seeds (or radioactive source) furnished on or after January 1, 2004, and before January 1, 2010, and for therapeutic radiopharmaceuticals furnished on or after January 1, 2008, and before January 1, 2010, the payment basis for the device or therapeutic radiopharmaceutical under this subsection shall be equal to the hospital's charges for each device or therapeutic radiopharmaceutical furnished, adjusted to cost. Charges for such devices or therapeutic radiopharmaceuticals shall not be included in determining any outlier payment under this subsection.
+
+#### (17) Quality reporting
+
+#### (A) Reduction in update for failure to report
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of paragraph (3)(C)(iv) for 2009 and each subsequent year, in the case of a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title) that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to such a year, the OPD fee schedule increase factor under paragraph (3)(C)(iv) for such year shall be reduced by 2.0 percentage points.
+
+#### (ii) Non-cumulative application
+
+&emsp;&emsp;&emsp;A reduction under this subparagraph shall apply only with respect to the year involved and the Secretary shall not take into account such reduction in computing the OPD fee schedule increase factor for a subsequent year.
+
+#### (B) Form and manner of submission
+
+&emsp;&emsp;Each subsection (d) hospital shall submit data on measures selected under this paragraph to the Secretary in a form and manner, and at a time, specified by the Secretary for purposes of this paragraph.
+
+#### (C) Development of outpatient measures
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall develop measures that the Secretary determines to be appropriate for the measurement of the quality of care (including medication errors) furnished by hospitals in outpatient settings and that reflect consensus among affected parties and, to the extent feasible and practicable, shall include measures set forth by one or more national consensus building entities.
+
+#### (ii) Construction
+
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed as preventing the Secretary from selecting measures that are the same as (or a subset of) the measures for which data are required to be submitted under section 1395ww(b)(3)(B)(viii) of this title.
+
+#### (D) Replacement of measures
+
+&emsp;&emsp;For purposes of this paragraph, the Secretary may replace any measures or indicators in appropriate cases, such as where all hospitals are effectively in compliance or the measures or indicators have been subsequently shown not to represent the best clinical practice.
+
+#### (E) Availability of data
+
+&emsp;&emsp;The Secretary shall establish procedures for making data submitted under this paragraph available to the public. Such procedures shall ensure that a hospital has the opportunity to review the data that are to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures of process, structure, outcome, patients’ perspectives on care, efficiency, and costs of care that relate to services furnished in outpatient settings in hospitals on the Internet website of the Centers for Medicare \& Medicaid Services.
 
 #### (u) Incentive payments for physician scarcity areas
 
@@ -1122,7 +1176,7 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 #### (A) Number of physicians practicing in the area
 
-&emsp;&emsp;The number of physicians who furnish physicians’ services in the active practice of medicine or osteopathy in that county or area, other than physicians whose practice is exclusively for the Federal Government, physicians who are retired, or physicians who only provide administrative services. Of such number, the number of such physicians who are—
+&emsp;&emsp;The number of physicians who furnish physicians’ services in the active practice of medicine or osteopathy in that county or area, other than physicians whose practice isexclusively for the Federal Government, physicians who are retired, or physicians who only provide administrative services. Of such number, the number of such physicians who are—
 
 &emsp;&emsp;&emsp;(i) primary care physicians; or
 
@@ -1192,59 +1246,19 @@ The Secretary may not provide for payment under subsection (a)(1)(A) of this sec
 
 &emsp;With respect to a year for which a county or area is identified or revised under paragraph (4), the Secretary shall identify such counties or areas as part of the proposed and final rule to implement the physician fee schedule under section 1395w–4 of this title for the applicable year. The Secretary shall post the list of counties identified or revised under paragraph (4) on the Internet website of the Centers for Medicare \& Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1833, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, 81 Stat. 848–850, 853; Pub. L. 92–603, title II, §§204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, 86 Stat. 1377, 1384, 1404, 1411, 1424, 1445, 1454, 1464; Pub. L. 95–142, §16(a), Oct. 25, 1977, 91 Stat. 1200; Pub. L. 95–210, §1(b), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 95–292, §4(b), (c), June 13, 1978, 92 Stat. 315; Pub. L. 96–473, §6(j), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §§918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, 94 Stat. 2626, 2631, 2634, 2637, 2639, 2641; Pub. L. 96–611, §1(b)(1), (2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2106(a), 2133(a), 2134(a), Aug. 13, 1981, 95 Stat. 792, 797; Pub. L. 97–248, title I, §§101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, 96 Stat. 336, 340, 355, 394; Pub. L. 98–369, div. B, title III, §§2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, 98 Stat. 1064, 1069, 1070, 1074, 1084–1086, 1100; Pub. L. 98–617, §3(b)(2), (3), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, 100 Stat. 188, 189, 198, 199; Pub. L. 99–509, title IX, §§9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, 100 Stat. 2014, 2033, 2036, 2039–2041; Pub. L. 100–203, title IV, §§4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, 101 Stat. 1330–85, 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended Pub. L. 100–360, title IV, §411(f)(2)(D), (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, 102 Stat. 777, 779, 781, 783, 784, 786–789; Pub. L. 100–360, title I, §104(d)(7), title II, §§201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, §411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, 102 Stat. 699, 704, 722, 729, 730, 741, 779, 782–785, 789, as amended Pub. L. 100–485, title VI, §608(d)(3)(G), Oct. 13, 1988, 102 Stat. 2414; Pub. L. 100–485, title VI, §608(d)(4), (22)(B), (D), (23)(A), Oct. 13, 1988, 102 Stat. 2414, 2420, 2421; Pub. L. 100–647, title VIII, §§8421(a), 8422(a), Nov. 10, 1988, 102 Stat. 3802; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, 103 Stat. 2143, 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; Pub. L. 101–508, title IV, §§4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, 104 Stat. 1388–53, 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, 107 Stat. 584, 586, 590, 592; Pub. L. 103–432, title I, §§123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, 108 Stat. 4411, 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; Pub. L. 105–33, title IV, §§4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, 111 Stat. 330, 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, §321(g)(2), (k)(2), title IV, §§401(b)(1), 403(e)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§105(c), 111(a)(1), title II, §§201(b)(1), 205(b), 223(c), 224(a), title IV, §§401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, §531(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; Pub. L. 108–173, title II, §237(a), title III, §§302(b)(2), 303(i)(3)(A), title IV, §§411(a)(1), (b), 413(a), (b)(1), title VI, §§614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, §736(b)(1), (2), title IX, §942(b), Dec. 8, 2003, 117 Stat. 2212, 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; Pub. L. 109–171, title V, §§5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, 120 Stat. 40–42, 44; Pub. L. 109–432, div. B, title I, §§107(a), (b)(1), 109(a)(1), (b), title II, §201, Dec. 20, 2006, 120 Stat. 2983–2986; Pub. L. 110–173, title I, §§102, 105, 106, 113, Dec. 29, 2007, 121 Stat. 2495, 2496, 2501.)
+#### (v) Increase of FQHC payment limits
 
-#### Amendment of Section
+In the case of services furnished by Federally qualified health centers (as defined in section 1395x(aa)(4) of this title), the Secretary shall establish payment limits with respect to such services under this part for services furnished—
 
-<i>Pub. L. 109–432, div. B, title I, §109(a)(1), (b), (c), Dec. 20, 2006, 120 Stat. 2984, 2985, provided that, applicable to payment for services furnished on or after Jan. 1, 2009, this section is amended as follows:</i>
+&emsp;(1) in 2010, at the limits otherwise established under this part for such year increased by $5; and
 
-<i>(1) in subsection (i)(2)(D), by redesignating cl. (iv) as (v) and by adding a new cl. (iv) to read as follows:</i>
+&emsp;(2) in a subsequent year, at the limits established under this subsection for the previous year increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for such subsequent year.
 
-<i>“(iv) The Secretary may implement such system in a manner so as to provide for a reduction in any</i><i>annual update for failure to report on quality measures in accordance with paragraph (7).”;</i>
+#### (w) Methods of payment
 
-<i>(2) in subsection (i), by adding paragraph (7) at end to read as follows:</i>
+The Secretary may develop alternative methods of payment for items and services provided under clinical trials and comparative effectiveness studies sponsored or supported by an agency of the Department of Health and Human Services, as determined by the Secretary, to those that would otherwise apply under this section, to the extent such alternative methods are necessary to preserve the scientific validity of such trials or studies, such as in the case where masking the identity of interventions from patients and investigators is necessary to comply with the particular trial or study design.
 
-<i>“(7)(A) For purposes of paragraph (2)(D)(iv), the Secretary may provide, in the case of an ambulatory surgical center that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to a year, any annual increase provided under the system established under paragraph (2)(D) for such year shall be reduced by 2.0 percentage points. A reduction under this subparagraph shall apply only with respect to the year involved and the Secretary shall not take into account such reduction in computing any annual increase factor for a subsequent year.</i>
-
-<i>“(B) Except as the Secretary may otherwise provide, the provisions of subparagraphs (B), (C), (D), and (E) of paragraph (17) of subsection (t) shall apply with respect to services of ambulatory surgical centers under this paragraph in a similar manner to the manner in which they apply under such paragraph and, for purposes of this subparagraph, any reference to a hospital, outpatient setting, or outpatient hospital services is deemed a reference to an ambulatory surgical center, the setting of such a center, or services of such a center, respectively.”;</i>
-
-<i>(3) in subsection (t)(3)(C)(iv), by inserting “subject to paragraph (17),” after “this subparagraph,”; and</i>
-
-<i>(4) in subsection (t), by adding paragraph (17) at end to read as follows:</i>
-
-#### <i>(17) Quality reporting</i>
-
-#### <i>(A) Reduction in update for failure to report</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>For purposes of paragraph (3)(C)(iv) for 2009 and each subsequent year, in the case of a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title) that does not submit, to the Secretary in accordance with this paragraph, data required to be submitted on measures selected under this paragraph with respect to such a year, the OPD fee schedule increase factor under paragraph (3)(C)(iv) for such year shall be reduced by 2.0 percentage points.</i>
-
-#### <i>(ii) Non-cumulative application</i>
-
-&emsp;&emsp;&emsp;<i>A reduction under this subparagraph shall apply only with respect to the year involved and the Secretary shall not take into account such reduction in computing the OPD fee schedule increase factor for a subsequent year.</i>
-
-#### <i>(B) Form and manner of submission</i>
-
-&emsp;&emsp;<i>Each subsection (d) hospital shall submit data on measures selected under this paragraph to the Secretary in a form and manner, and at a time, specified by the Secretary for purposes of this paragraph.</i>
-
-#### <i>(C) Development of outpatient measures</i>
-
-#### <i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>The Secretary shall develop measures that the Secretary determines to be appropriate for the measurement of the quality of care (including medication errors) furnished by hospitals in outpatient settings and that reflect consensus among affected parties and, to the extent feasible and practicable, shall include measures set forth by one or more national consensus building entities.</i>
-
-#### <i>(ii) Construction</i>
-
-&emsp;&emsp;&emsp;<i>Nothing in this paragraph shall be construed as preventing the Secretary from selecting measures that are the same as (or a subset of) the measures for which data are required to be submitted under section 1395ww(b)(3)(B)(viii) of this title.</i>
-
-#### <i>(D) Replacement of measures</i>
-
-&emsp;&emsp;<i>For purposes of this paragraph, the Secretary may replace any measures or indicators in appropriate cases, such as where all hospitals are effectively in compliance or the measures or indicators have been subsequently shown not to represent the best clinical practice.</i>
-
-#### <i>(E) Availability of data</i>
-
-&emsp;&emsp;<i>The Secretary shall establish procedures for making data submitted under this paragraph available to the public. Such procedures shall ensure that a hospital has the opportunity to review the data that are to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures of process, structure, outcome, patients’ perspectives on care, efficiency, and costs of care that relate to services furnished in outpatient settings in hospitals on the Internet website of the Centers for Medicare \& Medicaid Services.</i>
+(Aug. 14, 1935, ch. 531, title XVIII, §1833, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(7), (8), 131(a), (b), 132(b), 135(c), Jan. 2, 1968, 81 Stat. 848–850, 853; Pub. L. 92–603, title II, §§204(a), 211(c)(4), 226(c)(2), 233(b), 245(d), 251(a)(2), (3), 279, 299K(a), Oct. 30, 1972, 86 Stat. 1377, 1384, 1404, 1411, 1424, 1445, 1454, 1464; Pub. L. 95–142, §16(a), Oct. 25, 1977, 91 Stat. 1200; Pub. L. 95–210, §1(b), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 95–292, §4(b), (c), June 13, 1978, 92 Stat. 315; Pub. L. 96–473, §6(j), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §§918(a)(4), 930(h), 932(a)(1), 934(b), (d)(1), (3), 935(a), 942, 943(a), Dec. 5, 1980, 94 Stat. 2626, 2631, 2634, 2637, 2639, 2641; Pub. L. 96–611, §1(b)(1), (2), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2106(a), 2133(a), 2134(a), Aug. 13, 1981, 95 Stat. 792, 797; Pub. L. 97–248, title I, §§101(c)(2), 112(a), (b), 117(a)(2), 148(d), Sept. 3, 1982, 96 Stat. 336, 340, 355, 394; Pub. L. 98–369, div. B, title III, §§2303(a)–(d), 2305(a)–(d), 2308(b)(2)(B), 2321(b), (d)(4)(A), 2323(b)(1), (2), (4), 2354(b)(5), (7), July 18, 1984, 98 Stat. 1064, 1069, 1070, 1074, 1084–1086, 1100; Pub. L. 98–617, §3(b)(2), (3), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9303(a)(1), (b)(1)–(3), 9401(b)–(2)(E), Apr. 7, 1986, 100 Stat. 188, 189, 198, 199; Pub. L. 99–509, title IX, §§9320(e)(1), (2), 9337(b), 9339(a)(1), (b)(1), (2), (c)(1), 9343(a), (b), (e)(2), Oct. 21, 1986, 100 Stat. 2014, 2033, 2036, 2039–2041; Pub. L. 100–203, title IV, §§4042(b)(2)(B), 4043(a), 4045(c)(2)(A), 4049(a)(1), 4055(a), formerly 4054(a), 4062(d)(3), 4063(b), (e)(1), 4064(a), (b)(1), (2), (c)(1), formerly (c), 4066(a), (b), 4067(a), 4068(a), 4070(a), (b)(4), 4072(b), 4073(b), formerly (b)(2), (3), 4077(b)(2), (3), formerly (b)(3), (4), 4084(a), (c)(2), 4085(b)(1), (i)(1)–(3), (21)(D)(i), (22)(B), (23), Dec. 22, 1987, 101 Stat. 1330–85, 1330–88, 1330–90, 1330–108 to 1330–115, 1330–117, 1330–118, 1330–120, 1330–121, 1330–129 to 1330–133, as amended Pub. L. 100–360, title IV, §411(f)(2)(D), (8)(B)(i), (12)(A), (14), (g)(2)(E), (3)(A)–(C), (E), (F), (h)(3)(B), (4)(B), (C), (7)(C), (D), (F), (i)(3), (4)(C)(i), (ii), (iv), (vi), July 1, 1988, 102 Stat. 777, 779, 781, 783, 784, 786–789; Pub. L. 100–360, title I, §104(d)(7), title II, §§201(a), 202(b)(1)–(3), 203(c)(1)(A)–(E), 204(d)(1), 205(c), 212(c)(2), title IV, §411(f)(8)(C), (g)(1)(E), (2)(D), (3)(D), (4)(C), (5), (h)(1)(A), (i)(4)(B), July 1, 1988, 102 Stat. 699, 704, 722, 729, 730, 741, 779, 782–785, 789, as amended Pub. L. 100–485, title VI, §608(d)(3)(G), Oct. 13, 1988, 102 Stat. 2414; Pub. L. 100–485, title VI, §608(d)(4), (22)(B), (D), (23)(A), Oct. 13, 1988, 102 Stat. 2414, 2420, 2421; Pub. L. 100–647, title VIII, §§8421(a), 8422(a), Nov. 10, 1988, 102 Stat. 3802; Pub. L. 101–234, title II, §§201(a), 202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(e)(2)(A), (g)(3)(D)(vii), 6102(c)(1), (e)(1), (5), (6)(A), (7), (f)(2), 6111(a), (b)(1), 6113(b)(3), (d), 6116(b)(1), 6131(a)(1), (b), 6133(a), 6204(b), Dec. 19, 1989, 103 Stat. 2143, 2153, 2184, 2187–2189, 2213, 2214, 2217, 2219, 2221, 2222, 2241; Pub. L. 101–508, title IV, §§4008(m)(2)(C), 4104(b)(1), 4118(f)(2)(D), 4151(c)(1), (2), 4153(a)(2)(B), (C), 4154(a), (b)(1), (c)(1), (e)(1), 4155(b)(2), (3), 4160, 4161(a)(3)(B), 4163(d)(1), 4206(b)(2), 4302, Nov. 5, 1990, 104 Stat. 1388–53, 1388–59, 1388–70, 1388–73, 1388–83 to 1388–87, 1388–91, 1388–93, 1388–100, 1388–116, 1388–125; Pub. L. 101–597, title IV, §401(c)(2), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–66, title XIII, §§13516(b), 13532(a), 13544(b)(2), 13551, 13555(a), Aug. 10, 1993, 107 Stat. 584, 586, 590, 592; Pub. L. 103–432, title I, §§123(b)(2)(A), (e), 141(a), (c)(1), 147(a), (d), (e)(2), (3), (f)(6)(C), (D), 156(a)(2)(B), 160(d)(1), Oct. 31, 1994, 108 Stat. 4411, 4412, 4424, 4425, 4429, 4430, 4432, 4440, 4443; Pub. L. 105–33, title IV, §§4002(j)(1)(A), 4101(b), 4102(b), 4103(b), 4104(c)(1), (2), 4201(c)(1), 4205(a)(1)(A), (2), 4315(b), 4432(b)(5)(C), 4511(b), 4512(b)(1), 4521(a), (b), 4523(a), (d)(1)(A)(i), (B)–(3), 4531(b)(1), 4541(a)(1), (c), (d)(1), 4553(a), (b), 4555, 4556(b), 4603(c)(2)(A), Aug. 5, 1997, 111 Stat. 330, 360–362, 365, 373, 376, 390, 421, 442–445, 449, 450, 454, 456, 460, 462, 463, 470; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)–(e)(1), (f)–(h)(1), (i), (j), 202(a), 204(a),(b), 211(a)(3)(B), 221(a)(1), 224(a), title III, §321(g)(2), (k)(2), title IV, §§401(b)(1), 403(e)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336 to 1501A–342, 1501A–345, 1501A–348, 1501A–351, 1501A–353, 1501A–366, 1501A–369, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§105(c), 111(a)(1), title II, §§201(b)(1), 205(b), 223(c), 224(a), title IV, §§401(a), (b)(1), 402(a), (b), 403(a), 405(a), 406(a), 421(a), 430(a), title V, §531(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–472, 2763A–481, 2763A–483, 2763A–489, 2763A–490, 2763A–502, 2763A–503, 2763A–505 to 2763A–508, 2763A–516, 2763A–524, 2763A–547; Pub. L. 108–173, title II, §237(a), title III, §§302(b)(2), 303(i)(3)(A), title IV, §§411(a)(1), (b), 413(a), (b)(1), title VI, §§614(a), (b), 621(a)(1)–(5), (b)(1), (2), 622, 624(a)(1), 626(a)–(c), 627(a), 628, 629, 642(b), title VII, §736(b)(1), (2), title IX, §942(b), Dec. 8, 2003, 117 Stat. 2212, 2229, 2254, 2274, 2275, 2277, 2306–2311, 2317–2322, 2355, 2421; Pub. L. 109–171, title V, §§5103, 5105, 5107(a)(1), 5112(e), 5113(a), Feb. 8, 2006, 120 Stat. 40–42, 44; Pub. L. 109–432, div. B, title I, §§107(a), (b)(1), 109(a)(1), (b), title II, §201, Dec. 20, 2006, 120 Stat. 2983–2986; Pub. L. 110–173, title I, §§102, 105, 106, 113, Dec. 29, 2007, 121 Stat. 2495, 2496, 2501; Pub. L. 110–275, title I, §§101(a)(2), (b)(2), 102, 141, 142, 143(b)(2), (3), 145(a)(2), (b), 147, 151(a), 184, July 15, 2008, 122 Stat. 2497, 2498, 2542, 2543, 2547, 2548, 2550, 2587.)
 
 #### References in Text
 
@@ -1262,19 +1276,45 @@ Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F
 
 #### Amendments
 
+2008—Subsec. (a)(1)(D)(iii). Pub. L. 110–275, §145(a)(2), before comma at end of subpar. (D), struck out cl. (iii), which read “on the basis of a rate established under a demonstration project under section 1395w–3(e) of this title, the amount paid shall be equal to 100 percent of such rate”.
+
+Subsec. (a)(1)(W). Pub. L. 110–275, §101(a)(2), added subpar. (W).
+
+Subsec. (a)(8)(A), (B). Pub. L. 110–275, §143(b)(2), substituted “, outpatient speech-language pathology services,” for “(which includes outpatient speech-language pathology services)” in introductory provisions.
+
+Subsec. (b)(9). Pub. L. 110–275, §101(b)(2), added par. (9).
+
+Subsec. (c). Pub. L. 110–275, §102, amended subsec. (c) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this part, with respect to expenses incurred in any calendar year in connection with the treatment of mental, psychoneurotic, and personality disorders of an individual who is not an inpatient of a hospital at the time such expenses are incurred, there shall be considered as incurred expenses for purposes of subsections (a) and (b) of this section only 621/2 percent of such expenses. For purposes of this subsection, the term ‘treatment’ does not include brief office visits (as defined by the Secretary) for the sole purpose of monitoring or changing drug prescriptions used in the treatment of such disorders or partial hospitalization services that are not directly provided by a physician.”
+
+Subsec. (g)(1). Pub. L. 110–275, §143(b)(3), inserted “and speech-language pathology services of the type described in such section through the application of section 1395x(<i>ll</i>)(2) of this title” after “1395x(p) of this title” and “and speech-language pathology services” after “and physical therapy services”.
+
+Subsec. (g)(5). Pub. L. 110–275, §141, substituted “December 31, 2009” for “June 30, 2008”.
+
+Subsec. (h)(2)(A)(i). Pub. L. 110–275, §145(b), inserted “minus, for each of the years 2009 through 2013, 0.5 percentage points” after “city average)”.
+
+Subsec. (t)(7)(D)(i)(II). Pub. L. 110–275, §147(1), substituted “January 1, 2010” for “January 1, 2009” and “For purposes of the preceding sentence, the applicable percentage shall be 95 percent with respect to covered OPD services furnished in 2006, 90 percent with respect to such services furnished in 2007, and 85 percent with respect to such services furnished in 2008 or 2009.” for “For purposes of the previous sentence, with respect to covered OPD services furnished during 2006, 2007, or 2008, the applicable percentage shall be 95 percent, 90 percent, and 85 percent, respectively.”
+
+Subsec. (t)(7)(D)(i)(III). Pub. L. 110–275, §147(2), added subcl. (III).
+
+Subsec. (t)(16)(C). Pub. L. 110–275, §142, substituted “January 1, 2010” for “July 1, 2008” in two places.
+
+Subsec. (v). Pub. L. 110–275, §151(a), added subsec. (v).
+
+Subsec. (w). Pub. L. 110–275, §184, added subsec. (w).
+
 2007—Subsec. (g)(5). Pub. L. 110–173, §105, substituted “June 30, 2008” for “December 31, 2007”.
 
 Subsec. (h)(9). Pub. L. 110–173, §113, added par. (9).
 
-Subsec. (t)(16)(C). Pub. L. 110–173, §106, in heading, inserted “and therapeutic radiopharmaceuticals” before “at charges”, in first sentence, substituted “July 1, 2008” for “January 1, 2008” and inserted “and for therapeutic radiopharmaceuticals furnished on or after January 1, 2008, and before July 1, 2008,” after “July 1,2008,” and “or therapeutic radiopharmaceutical” after “the device” and after “each device”, and, in second sentence, inserted “or therapeutic radiopharmaceuticals” after “such devices”.
+Subsec. (t)(16)(C). Pub. L. 110–173, §106, in heading, inserted “and therapeutic radiopharmaceuticals” before “at charges”, in first sentence, substituted “July 1, 2008” for “January 1, 2008” and inserted “and for therapeutic radiopharmaceuticals furnished on or after January 1, 2008, and before July 1, 2008,” after “July 1, 2008,” and “or therapeutic radiopharmaceutical” after “the device” and after “each device”, and, in second sentence, inserted “or therapeutic radiopharmaceuticals” after “such devices”.
 
 Subsec. (u)(1). Pub. L. 110–173, §102(1), substituted “before July 1, 2008” for “before January 1, 2008” in introductory provisions.
 
 Subsec. (u)(4)(D), (E). Pub. L. 110–173, §102(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-2006—Subsec. (b)(7). Pub. L. 109–171, §5112(e), added cl. (7).
+2006—Subsec. (b)(7). Pub. L. 109–171, §5112(e), added par. (7).
 
-Subsec. (b)(8). Pub. L. 109–171, §5113(a), added cl. (8).
+Subsec. (b)(8). Pub. L. 109–171, §5113(a), added par. (8).
 
 Subsec. (g)(1), (3). Pub. L. 109–171, §5107(a)(1)(A), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
@@ -1286,23 +1326,31 @@ Subsec. (i)(2)(A). Pub. L. 109–171, §5103(1), inserted “subject to subparag
 
 Subsec. (i)(2)(D)(ii). Pub. L. 109–171, §5103(2), inserted “and taking into account reduced expenditures that would apply if subparagraph (E) were to continue to apply, as estimated by the Secretary” before period at end.
 
+Subsec. (i)(2)(D)(iv), (v). Pub. L. 109–432, §109(b)(1), added cl. (iv) and redesignated former cl. (iv) as (v).
+
 Subsec. (i)(2)(E). Pub. L. 109–171, §5103(3), added subpar. (E).
 
+Subsec. (i)(7). Pub. L. 109–432, §109(b)(2), added par. (7).
+
 Subsec. (t)(2)(H). Pub. L. 109–432, §107(b)(1), inserted “and for stranded and non-stranded devices furnished on or after July 1, 2007” before period at end.
+
+Subsec. (t)(3)(C)(iv). Pub. L. 109–432, §109(a)(1)(A), inserted “subject to paragraph (17),” after “this subparagraph,”.
 
 Subsec. (t)(7)(D)(i). Pub. L. 109–171, §5105, designated existing provisions as subcl. (I) and added subcl. (II).
 
 Subsec. (t)(16)(C). Pub. L. 109–432, §107(a), substituted “2008” for “2007”.
 
-2003—Subsec. (a)(1)(D)(iii). Pub. L. 108–173, §302(b)(2)(C), added subcl. (iii).
+Subsec. (t)(17). Pub. L. 109–432, §109(a)(1)(B), added par. (17).
 
-Subsec. (a)(1)(G). Pub. L. 108–173, §626(c), added cl. (G).
+2003—Subsec. (a)(1)(D)(iii). Pub. L. 108–173, §302(b)(2)(C), added cl. (iii).
+
+Subsec. (a)(1)(G). Pub. L. 108–173, §626(c), added subpar. (G).
 
 Subsec. (a)(1)(S). Pub. L. 108–173, §642(b), inserted “(including intravenous immune globulin (as defined in section 1395x(zz) of this title))” after “with respect to drugs and biologicals”.
 
 Pub. L. 108–173, §303(i)(3)(A), inserted “(or, if applicable, under section 1395w–3, 1395w–3a, or 1395w–3b of this title)” after “1395u(<i>o</i>) of this title”.
 
-Subsec. (a)(1)(V). Pub. L. 108–173, §302(b)(2)(A), (B), added cl. (V).
+Subsec. (a)(1)(V). Pub. L. 108–173, §302(b)(2)(A), (B), added subpar. (V).
 
 Subsec. (a)(2)(E)(i). Pub. L. 108–173, §614(b), inserted “and, for services furnished on or after January 1, 2005, diagnostic mammography” after “screening mammography”.
 
@@ -1366,9 +1414,9 @@ Subsec. (u). Pub. L. 108–173, §413(a), added subsec. (u).
 
 Subsec. (a)(1)(R). Pub. L. 106–554, §1(a)(6) \[title II, §205(b)\], substituted “ambulance services, (i)” for “ambulance service,” and inserted before comma at end “and (ii) with respect to ambulance services described in section 1395m(<i>l</i>)(8) of this title, the amounts paid shall be the amounts determined under section 1395m(g) of this title for outpatient critical access hospital services”.
 
-Subsec. (a)(1)(T). Pub. L. 106–554, §1(a)(6) \[title I, §105(c)\], added cl. (T).
+Subsec. (a)(1)(T). Pub. L. 106–554, §1(a)(6) \[title I, §105(c)\], added subpar. (T).
 
-Subsec. (a)(1)(U). Pub. L. 106–554, §1(a)(6) \[title II, §223(c)\], added cl. (U).
+Subsec. (a)(1)(U). Pub. L. 106–554, §1(a)(6) \[title II, §223(c)\], added subpar. (U).
 
 Subsec. (a)(2)(D)(i). Pub. L. 106–554, §1(a)(6) \[title II, §201(b)(1)\], struck out “or which are furnished on an outpatient basis by a critical access hospital” after “on an assignment-related basis”.
 
@@ -1494,13 +1542,13 @@ Subsec. (a)(1)(D). Pub. L. 105–33, §4104(c), inserted “or section 1395m(d)(
 
 Subsec. (a)(1)(O). Pub. L. 105–33, §4512(b)(1), substituted “section 1395x(s)(2)(K) of this title” for “section 1395x(s)(2)(K)(ii) of this title” and “services furnished by physician assistants, nurse practitioners, or clinic nurse specialists” for “nurse practitioner or clinical nurse specialist services”.
 
-Pub. L. 105–33, §4511(b)(1), amended cl. (O) generally. Prior to amendment, cl. (O) read as follows: “with respect to services described in section 1395x(s)(2)(K)(iii) of this title (relating to nurse practitioner or clinical nurse specialist services provided in a rural area), the amounts paid shall be 80 percent of the lesser of the actual charge or the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by a physician (subject to the limitation described in subsection (r)(2) of this section),”.
+Pub. L. 105–33, §4511(b)(1), amended subpar. (O) generally. Prior to amendment, subpar. (O) read as follows: “with respect to services described in section 1395x(s)(2)(K)(iii) of this title (relating to nurse practitioner or clinical nurse specialist services provided in a rural area), the amounts paid shall be 80 percent of the lesser of the actual charge or the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title) if the services had been performed by a physician (subject to the limitation described in subsection (r)(2) of this section),”.
 
-Subsec. (a)(1)(Q). Pub. L. 105–33, §4315(b), added cl. (Q).
+Subsec. (a)(1)(Q). Pub. L. 105–33, §4315(b), added subpar. (Q).
 
-Subsec. (a)(1)(R). Pub. L. 105–33, §4531(b)(1), added cl. (R).
+Subsec. (a)(1)(R). Pub. L. 105–33, §4531(b)(1), added subpar. (R).
 
-Subsec. (a)(1)(S). Pub. L. 105–33, §4556(b), added cl. (S).
+Subsec. (a)(1)(S). Pub. L. 105–33, §4556(b), added subpar. (S).
 
 Subsec. (a)(2). Pub. L. 105–33, §4541(a)(1)(A), inserted “(C),” before “(D)” in introductory provisions.
 
@@ -1530,9 +1578,9 @@ Subsec. (a)(6). Pub. L. 105–33, §4201(c)(1), substituted “critical access�
 
 Subsec. (a)(8), (9). Pub. L. 105–33, §4541(a)(1)(C)–(E), added pars. (8) and (9).
 
-Subsec. (b)(5). Pub. L. 105–33, §4101(b), added cl. (5) at end of first sentence.
+Subsec. (b)(5). Pub. L. 105–33, §4101(b), added par. (5) at end of first sentence.
 
-Subsec. (b)(6). Pub. L. 105–33, §4102(b), added cl. (6) at end of first sentence.
+Subsec. (b)(6). Pub. L. 105–33, §4102(b), added par. (6) at end of first sentence.
 
 Subsec. (f). Pub. L. 105–33, §4205(a)(1)(A), substituted “rural health clinics (other than such clinics in rural hospitals with less than 50 beds)” for “independent rural health clinics” in introductory provisions.
 
@@ -1592,7 +1640,7 @@ Subsec. (t). Pub. L. 105–33, §4523(a), added subsec. (t).
 
 1994—Subsec. (a)(1)(D)(i). Pub. L. 103–432, §156(a)(2)(B)(i), struck out “, or for tests furnished in connection with obtaining a second opinion required under section 1320c–13(c)(2) of this title (or a third opinion, if the second opinion was in disagreement with the first opinion)” after “assignment-related basis”.
 
-Subsec. (a)(1)(G). Pub. L. 103–432, §156(a)(2)(B)(ii), struck out cl. (G) which read as follows: “with respect to items and services (other than clinical diagnostic laboratory tests) furnished in connection with obtaining a second opinion required under section 1320c–13(c)(2) of this title (or a third opinion, if the second opinion was in disagreement with the first opinion), the amounts paid shall be 100 percent of the reasonable charges for such items and services,”.
+Subsec. (a)(1)(G). Pub. L. 103–432, §156(a)(2)(B)(ii), struck out subpar. (G) which read as follows: “with respect to items and services (other than clinical diagnostic laboratory tests) furnished in connection with obtaining a second opinion required under section 1320c–13(c)(2) of this title (or a third opinion, if the second opinion was in disagreement with the first opinion), the amounts paid shall be 100 percent of the reasonable charges for such items and services,”.
 
 Subsec. (a)(2)(A). Pub. L. 103–432, §156(a)(2)(B)(iii), struck out “, to items and services (other than clinical diagnostic laboratory tests) furnished in connection with obtaining a second opinion required under section 1320c–13(c)(2) of this title (or a third opinion, if the second opinion was in disagreement with the first opinion),” before “and to items and services” in introductory provisions.
 
@@ -1650,7 +1698,7 @@ Subsec. (r)(3), (4). Pub. L. 103–432, §123(b)(2)(A)(iii), redesignated par. (
 
 Subsec. (s). Pub. L. 103–432, §160(d)(1), redesignated subsec. (r), relating to other prepaid organizations, as (s).
 
-1993—Subsec. (a)(1). Pub. L. 103–66, §13544(b)(2), redesignated cl. (M) relating to nurse practitioner and clinical nurse specialist services as (O), inserted comma before “(O)”, transferred and inserted such cl. to appear before semicolon at end, struck out “and” before “(N)”, and inserted “, and” and cl. (P) following cl. (O) and before semicolon at end.
+1993—Subsec. (a)(1). Pub. L. 103–66, §13544(b)(2), redesignated subpar. (M) relating to nurse practitioner and clinical nurse specialist services as (O), inserted comma before “(O)”, transferred and inserted such subpar. to appear before semicolon at end, struck out “and” before “(N)”, and inserted “, and” and subpar. (P) following subpar. (O) and before semicolon at end.
 
 Subsec. (g). Pub. L. 103–66, §13555(a), substituted “$900” for “$750” in two places.
 
@@ -1680,15 +1728,15 @@ Subsec. (<i>l</i>)(4)(B)(iii). Pub. L. 103–66, §13516(b)(3), added cl. (iii).
 
 Subsec. (a)(1)(J). Pub. L. 101–508, §4104(b)(1), struck out “or physician pathology services” after “1395m(b)(6) of this title)” and “or section 1395m(f) of this title, respectively” after “1395m(b) of this title”.
 
-Subsec. (a)(1)(K). Pub. L. 101–508, §4155(b)(2)(A), which directed amendment of cl. (K) by striking “and” at the end, could not be executed because of prior amendment by Pub. L. 101–508, §4153(a)(2)(B)(i), see below.
+Subsec. (a)(1)(K). Pub. L. 101–508, §4155(b)(2)(A), which directed amendment of subpar. (K) by striking “and” at the end, could not be executed because of prior amendment by Pub. L. 101–508, §4153(a)(2)(B)(i), see below.
 
 Pub. L. 101–508, §4153(a)(2)(B)(i), struck out “and” after “by a physician),”.
 
 Subsec. (a)(1)(L). Pub. L. 101–508, §4153(a)(2)(B)(ii), substituted “subparagraph,” for “subparagraph and” at end.
 
-Subsec. (a)(1)(M). Pub. L. 101–508, §4155(b)(2)(B), added cl. (M) relating to nurse practitioner and clinical nurse specialist services.
+Subsec. (a)(1)(M). Pub. L. 101–508, §4155(b)(2)(B), added subpar. (M) relating to nurse practitioner and clinical nurse specialist services.
 
-Pub. L. 101–508, §4153(a)(2)(B)(ii), added cl. (M) relating to prosthetic devices and orthotics.
+Pub. L. 101–508, §4153(a)(2)(B)(ii), added subpar. (M) relating to prosthetic devices and orthotics.
 
 Subsec. (a)(2). Pub. L. 101–508, §4153(a)(2)(C)(i), substituted “(H), and (I)” for “and (H)” in introductory provisions.
 
@@ -1698,13 +1746,13 @@ Subsec. (a)(7). Pub. L. 101–508, §4153(a)(2)(C)(ii)–(iv), added par. (7).
 
 Subsec. (b). Pub. L. 101–508, §4302, inserted “for calendar years before 1991 and $100 for 1991 and subsequent years” after “$75”.
 
-Subsec. (b)(5). Pub. L. 101–508, §4161(a)(3)(B), added cl. (5) at end of first sentence.
+Subsec. (b)(5). Pub. L. 101–508, §4161(a)(3)(B), added par. (5) at end of first sentence.
 
 Subsec. (h)(2)(A)(ii). Pub. L. 101–508, §4154(a)(1), substituted “clause (i)” for “any other provision of this subsection” in introductory provisions.
 
 Subsec. (h)(2)(A)(ii)(III). Pub. L. 101–508, §4154(a)(2)–(4), added subcl. (III).
 
-Subsec. (h)(4)(B). Pub. L. 101–508, §4154(b)(1)(B), struck out “and” at end of cl. (ii), inserted “and before January 1, 1991,” after “1989,” in cl. (iii), substituted “, and” for period at end of cl. (iii), and added cl. (iv).
+Subsec. (h)(4)(B). Pub. L. 101–508, §4154(b)(1)(B), struck out “and” at end of cl. (ii), inserted “and beforeJanuary 1, 1991,” after “1989,” in cl. (iii), substituted “, and” for period at end of cl. (iii), and added cl. (iv).
 
 Subsec. (h)(5)(A)(ii)(II). Pub. L. 101–508, §4154(e)(1)(A), substituted “wholly owned by” for “a wholly-owned subsidiary of”.
 
@@ -1742,7 +1790,7 @@ Pub. L. 101–508, §4155(b)(3), added subsec. (r) relating to cap on prevailing
 
 Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §205(c)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-Subsec. (a)(1)(F). Pub. L. 101–239, §6113(b)(3)(A), added cl. (F).
+Subsec. (a)(1)(F). Pub. L. 101–239, §6113(b)(3)(A), added subpar. (F).
 
 Subsec. (a)(1)(H). Pub. L. 101–239, §6102(e)(5), inserted “(or, for services furnished on or after January 1, 1992, the fee schedule amount provided under section 1395w–4 of this title, as the case may be)” after “prevailing charge that would be recognized”.
 
@@ -1754,7 +1802,7 @@ Subsec. (a)(1)(K). Pub. L. 101–239, §6102(e)(7), inserted “, or, for servi
 
 Subsec. (a)(1)(M). Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §201(b)(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-Subsec. (a)(1)(N). Pub. L. 101–239, §6102(e)(1)(B), added cl. (N).
+Subsec. (a)(1)(N). Pub. L. 101–239, §6102(e)(1)(B), added subpar. (N).
 
 Subsec. (a)(2). Pub. L. 101–239, §6116(b)(1)(A), substituted “(G), and (H)” for “and (G)” in introductory provisions.
 
@@ -1780,7 +1828,7 @@ Subsec. (g). Pub. L. 101–239, §6133(a), substituted “$750” for “$500”
 
 Pub. L. 101–234, §201(a), repealed Pub. L. 100–360, §201(a)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-Subsec. (h)(1)(B), (C). Pub. L. 101–239, §6111(a)(1), substituted “on or after July 1, 1984” for “during the period beginning on July 1, 1984, and ending on December 31, 1989. For such tests furnished on or after January 1, 1990, the fee schedule shall be established on a nationwide basis.”
+Subsec. (h)(1)(B), (C). Pub. L. 101–239, §6111(a)(1), substituted “on or after July 1, 1984” for “during the period beginning on July 1, 1984, and ending on December 31, 1989. For such tests furnished on or after January 1,1990, the fee schedule shall be established on a nationwide basis.”
 
 Subsec. (h)(1)(D). Pub. L. 101–239, §6003(e)(2)(A), substituted “section 1395ww(d)(5)(D)(iii) of this title” for “the last sentence of section 1395ww(d)(5)(C)(ii) of this title”.
 
@@ -1838,7 +1886,7 @@ Pub. L. 100–360, §411(h)(4)(B)(iii), repealed Pub. L. 100–203, §4073(b)(2)
 
 Subsec. (a)(1)(H). Pub. L. 100–360, §411(h)(7)(C)(ii), repealed Pub. L. 100–203, §4077(b)(3)(B), see 1987 Amendment note below.
 
-Pub. L. 100–360, §411(g)(1)(E), which directed the amendment of cl. (H) by striking “and” before “(I)” could not be executed because of the prior amendment by section 4049(a)(1) of Pub. L. 100–203, see 1987 Amendment note below.
+Pub. L. 100–360, §411(g)(1)(E), which directed the amendment of subpar. (H) by striking “and” before “(I)” could not be executed because of the prior amendment by section 4049(a)(1) of Pub. L. 100–203, see 1987 Amendment note below.
 
 Pub. L. 100–360, §411(i)(3), added Pub. L. 100–203, §4084(c)(2), see 1987 Amendment note below.
 
@@ -1852,7 +1900,7 @@ Pub. L. 100–360, §411(h)(4)(B)(i), (iv), (v), redesignated and amended Pub. L
 
 Subsec. (a)(1)(L). Pub. L. 100–360, §411(h)(7)(C)(i), (iv), (v), (F), redesignated and amended Pub. L. 100–203, §4077(b)(2)(B), see 1987 Amendment note below.
 
-Subsec. (a)(1)(M). Pub. L. 100–360, §202(b)(1), added cl. (M) relating to expenses incurred for covered outpatient drugs.
+Subsec. (a)(1)(M). Pub. L. 100–360, §202(b)(1), added subpar. (M) relating to expenses incurred for covered outpatient drugs.
 
 Subsec. (a)(2). Pub. L. 100–360, §205(c)(1), inserted “(A)(ii),” after “subparagraphs” in introductory provisions.
 
@@ -1864,7 +1912,7 @@ Subsec. (a)(2)(D)(i). Pub. L. 100–360, §411(i)(4)(C)(i), amended Pub. L. 100�
 
 Subsec. (a)(2)(E)(i). Pub. L. 100–360, §204(d)(1), inserted “, but excluding screening mammography” after “imaging services”.
 
-Subsec. (a)(2)(F). Pub. L. 100–360, §203(c)(1)(B)–(D), added cl. (F) relating to home intravenous drug therapy services.
+Subsec. (a)(2)(F). Pub. L. 100–360, §203(c)(1)(B)–(D), added subpar. (F) relating to home intravenous drug therapy services.
 
 Subsec. (a)(3). Pub. L. 100–360, §205(c)(2), substituted “subparagraphs (A)(ii), (D),” for “subparagraphs (D)”.
 
@@ -1928,7 +1976,7 @@ Subsec. (<i>l</i>)(3)(B). Pub. L. 100–647, §8422(a), inserted “plus applica
 
 Subsec. (<i>l</i>)(5)(B)(ii). Pub. L. 100–360, §411(i)(4)(C)(vi), added Pub. L. 100–203, §4085(i)(23), see 1987 Amendment note below.
 
-Subsec. (n)(1)(A). Pub. L. 100–360, §411(g)(4)(C)(i), as amended by Pub. L. 100–485, §608(d)(22)(D), substituted “for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and for services described in subsection\(a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989,” for “beginning on or after October 1, 1988 under this part for services described in subsection (a)(2)(E) of this section” in introductory provisions.
+Subsec. (n)(1)(A). Pub. L. 100–360, §411(g)(4)(C)(i), as amended by Pub. L. 100–485, §608(d)(22)(D), substituted “for services described in subsection (a)(2)(E)(i) of this section furnished under this part on or after October 1, 1988, and for services described in subsection (a)(2)(E)(ii) of this section furnished under this part on or after October 1, 1989,” for “beginning on or after October 1, 1988 under this part for services described in subsection (a)(2)(E) of this section” in introductory provisions.
 
 Subsec. (n)(1)(B)(i)(II). Pub. L. 100–360, §411(g)(4)(C)(ii), inserted “or (for services described in subsection (a)(2)(E)(i) of this section furnished on or after January 1, 1989) the fee schedule amount established” after “the prevailing charge”.
 
@@ -1946,7 +1994,7 @@ Pub. L. 100–360, §411(h)(4)(C), redesignated and amended Pub. L. 100–203, �
 
 1987—Subsec. (a)(1)(D)(i). Pub. L. 100–203, §4085(i)(1)(A), as amended by Pub. L. 100–360, §411(i)(4)(C)(i), substituted “on an assignment-related basis,” for “on the basis of an assignment described in section 1395u(b)(3)(B)(ii) of this title, under the procedure described in section 1395gg(f)(1) of this title,”.
 
-Subsec. (a)(1)(F). Pub. L. 100–203, §4055(a)(1), formerly §4054(a)(1), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), struck out cl. (F) which read as follows: “with respect to expenses incurred for services described in subsection (i)(4) of this section under the conditions specified in such subsection, the amounts paid shall be the reasonable charge for such services,”.
+Subsec. (a)(1)(F). Pub. L. 100–203, §4055(a)(1), formerly §4054(a)(1), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), struck out subpar. (F) which read as follows: “with respect to expenses incurred for services described in subsection (i)(4) of this section under the conditions specified in such subsection, the amounts paid shall be the reasonable charge for such services,”.
 
 Pub. L. 100–203, §4085(i)(21)(D)(i), as amended by Pub. L. 100–360, §411(i)(4)(C)(iv), amended Pub. L. 99–509, §9343(e)(2)(A), see 1986 Amendment note below.
 
@@ -1964,19 +2012,19 @@ Subsec. (a)(1)(H). Pub. L. 100–203, §4077(b)(3)(B), which directed substituti
 
 Pub. L. 100–203, §4084(c)(2), as added by Pub. L. 100–360, §411(i)(3), substituted “least of the actual charge, the prevailing charge that would be recognized if the services had been performed by an anesthesiologist,” for “lesser of the actual charge”.
 
-Pub. L. 100–203, §4062(d)(3)(A)(ii), inserted “and” before the cl. (I) added by section 4062(d)(3)(A)(ii) of Pub. L. 100–203, see below.
+Pub. L. 100–203, §4062(d)(3)(A)(ii), inserted “and” before the subpar. (I) added by section 4062(d)(3)(A)(ii) of Pub. L. 100–203, see below.
 
-Pub. L. 100–203, §4049(a)(1), struck out “and” before the cl. (I) added by section 4062(d)(3)(A)(ii) of Pub. L. 100–203, see below.
+Pub. L. 100–203, §4049(a)(1), struck out “and” before the subpar. (I) added by section 4062(d)(3)(A)(ii) of Pub. L. 100–203, see below.
 
-Subsec. (a)(1)(I). Pub. L. 100–203, §4062(d)(3)(A)(ii), added cl. (I).
+Subsec. (a)(1)(I). Pub. L. 100–203, §4062(d)(3)(A)(ii), added subpar. (I).
 
-Subsec. (a)(1)(J). Pub. L. 100–203, §4049(a)(1), as amended by Pub. L. 100–360, §411(f)(8)(B)(i), added cl. (J).
+Subsec. (a)(1)(J). Pub. L. 100–203, §4049(a)(1), as amended by Pub. L. 100–360, §411(f)(8)(B)(i), added subpar. (J).
 
 Subsec. (a)(1)(K). Pub. L. 100–203, §4077(b)(2)(A), formerly §4077(b)(3)(C), as redesignated and amended by Pub. L. 100–360, §411(h)(7)(C)(iii), (F), inserted “and” after “performed by a physician),”.
 
-Pub. L. 100–203, §4073(b)(1)(B), formerly §4073(b)(2)(C), as redesignated and amended by Pub. L. 100–360, §411(h)(4)(B)(i), (iv), (v), added cl. (K), formerly (I), relating to amounts paid with respect to certified nurse-midwife services under section 1395x(s)(2)(L) of this title.
+Pub. L. 100–203, §4073(b)(1)(B), formerly §4073(b)(2)(C), as redesignated and amended by Pub. L. 100–360, §411(h)(4)(B)(i), (iv), (v), added subpar. (K), formerly (I), relating to amounts paid with respect to certified nurse-midwife services under section 1395x(s)(2)(L) of this title.
 
-Subsec. (a)(1)(L). Pub. L. 100–203, §4077(b)(2)(B), formerly §4077(b)(3)(D), as redesignated and amended by Pub. L. 100–360, §411(h)(7)(C)(i), (iv), (v), (F), added cl. (L), formerly (J), relating to amounts paid with respect to qualified psychologist services under section 1395x(s)(2)(M) of this title.
+Subsec. (a)(1)(L). Pub. L. 100–203, §4077(b)(2)(B), formerly §4077(b)(3)(D), as redesignated and amended by Pub. L. 100–360, §411(h)(7)(C)(i), (iv), (v), (F), added subpar. (L), formerly (J), relating to amounts paid with respect to qualified psychologist services under section 1395x(s)(2)(M) of this title.
 
 Subsec. (a)(2). Pub. L. 100–203, §4062(d)(3)(B)(i), inserted reference to subpar. (G).
 
@@ -1994,11 +2042,11 @@ Subsec. (b)(3). Pub. L. 100–203, §4055(a)(2), formerly §4054(a)(2), as added
 
 Pub. L. 100–203, §4085(i)(21)(D)(i), amended Pub. L. 99–509, §9343(e)(2)(A), see 1986 Amendment note below.
 
-Subsec. (b)(4). Pub. L. 100–203, §4055(a)(2), formerly §4054(a)(2), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), redesignated cl. (5) as (4). Former cl. (4) redesignated (3).
+Subsec. (b)(4). Pub. L. 100–203, §4055(a)(2), formerly §4054(a)(2), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
 Subsec. (b)(4)(A). Pub. L. 100–203, §4085(i)(1)(C), substituted “on an assignment-related basis” for “on the basis of an assignment described in section 1395u(b)(3)(B)(ii) of this title, under the procedure described in section 1395gg(f)(1) of this title”.
 
-Subsec. (b)(5). Pub. L. 100–203, §4055(a)(2), formerly §4054(a)(2), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), redesignated cl. (5) as (4).
+Subsec. (b)(5). Pub. L. 100–203, §4055(a)(2), formerly §4054(a)(2), as added and renumbered by Pub. L. 100–360, §411(f)(12)(A), (14), redesignated par. (5) as (4).
 
 Subsec. (c). Pub. L. 100–203, §4070(b)(4), inserted “or partial hospitalization services that are not directly provided by a physician” before period at end of last sentence.
 
@@ -2078,9 +2126,9 @@ Subsec. (a)(1)(D)(i). Pub. L. 99–272, §9303(b)(1), inserted “, the limitat
 
 Subsec. (a)(1)(F). Pub. L. 99–509, §9343(e)(2)(A), as amended by Pub. L. 100–203, §4085(i)(21)(D)(i), substituted “(i)(4)” for “(i)(3)”.
 
-Subsec. (a)(1)(G). Pub. L. 99–272, §9401(b)(2)(A), added cl. (G).
+Subsec. (a)(1)(G). Pub. L. 99–272, §9401(b)(2)(A), added subpar. (G).
 
-Subsec. (a)(1)(H). Pub. L. 99–509, §9320(e)(1), added cl. (H).
+Subsec. (a)(1)(H). Pub. L. 99–509, §9320(e)(1), added subpar. (H).
 
 Subsec. (a)(2)(A). Pub. L. 99–272, §9401(b)(2)(C), inserted “, to items and services (other than clinical diagnostic laboratory tests) furnished in connection with obtaining a second opinion required under section 1320c–13(c)(2) of this title (or a third opinion, if the second opinion was in disagreement with the first opinion),” after “(other than durable medical equipment)”.
 
@@ -2092,11 +2140,11 @@ Subsec. (a)(3). Pub. L. 99–272, §9401(b)(2)(E), inserted “and for items and
 
 Subsec. (a)(4). Pub. L. 99–509, §9343(a)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “in the case of facility services described in subparagraph (F) of section 1395k(a)(2) of this title, the applicable amount described in paragraph (2) of subsection (i) of this section.”
 
-Subsec. (b)(3). Pub. L. 99–509, §9343(e)(2)(A), as amended by Pub. L. 100–203, §4085(i)(21)(D)(i), which directed that cl. (3) be amended by striking “or under subsection (i)(2) or (i)(4) of this section”, was executed by striking “or under subsection (i)(2) or (i)(5) of this section”, to reflect the probable intent of Congress and an earlier amendment by Pub. L. 99–509, §9343(a)(2), see below.
+Subsec. (b)(3). Pub. L. 99–509, §9343(e)(2)(A), as amended by Pub. L. 100–203, §4085(i)(21)(D)(i), which directed that par. (3) be amended by striking “or under subsection (i)(2) or (i)(4) of this section”, was executed by striking “or under subsection (i)(2) or (i)(5) of this section”, to reflect the probable intent of Congress and an earlier amendment by Pub. L. 99–509, §9343(a)(2), see below.
 
 Pub. L. 99–509, §9343(a)(2), substituted “(i)(5)” for “(i)(4)”.
 
-Subsec. (b)(5). Pub. L. 99–272, §9401(b)(1), added cl. (5).
+Subsec. (b)(5). Pub. L. 99–272, §9401(b)(1), added par. (5).
 
 Subsec. (g). Pub. L. 99–509, §9337(b), substituted “second sentence” for “next to last sentence”, and inserted at end “In the case of outpatient occupational therapy services which are described in the second sentence of section 1395x(p) of this title through the operation of section 1395x(g) of this title, with respect to expenses incurred in any calendar year, no more than $500 shall be considered as incurred expenses for purposes of subsections (a) and (b) of this section.”
 
@@ -2118,7 +2166,7 @@ Pub. L. 99–509, §9339(a)(1)(D), substituted “qualified hospital laboratory 
 
 Pub. L. 99–272, §9303(a)(1), substituted “January 1, 1988” for “July 1, 1987”, and inserted “(to become effective on January 1 of each year)” after “adjusted annually”.
 
-Subsec. (h)(3). Pub. L. 99–509, §9339(c)(1), inserted cl. (A) designation after “provide for and establish”, and added cl. (B).
+Subsec. (h)(3). Pub. L. 99–509, §9339(c)(1), inserted subpar. (A) designation after “provide for and establish”, and added subpar. (B).
 
 Subsec. (h)(4). Pub. L. 99–272, §9303(b)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -2138,9 +2186,9 @@ Subsec. (<i>l</i>). Pub. L. 99–509, §9320(e)(2), added subsec. (<i>l</i>).
 
 Subsec. (a)(1)(B). Pub. L. 98–369, §2323(b)(1), substituted “section 1395x(s)(10)(A) of this title” for “section 1395x(s)(10) of this title”.
 
-Subsec. (a)(1)(D). Pub. L. 98–369, §2303(a), amended cl. (D) generally. Prior to amendment, cl. (D) read as follows: “with respect to diagnostic tests performed in a laboratory for which payment is made under this part to the laboratory, the amounts paid shall be equal to 100 percent of the negotiated rate for such tests (as determined pursuant to subsection (h) of this section),”.
+Subsec. (a)(1)(D). Pub. L. 98–369, §2303(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “with respect to diagnostic tests performed in a laboratory for which payment is made under this part to the laboratory, the amounts paid shall be equal to 100 percent of the negotiated rate for such tests (as determined pursuant to subsection (h) of this section),”.
 
-Subsec. (a)(1)(F), (G). Pub. L. 98–369, §2305(a), redesignated cl. (G) as (F), and struck out former cl. (F) which related to payment of reasonable charges for preadmission diagnostic services furnished by a physician to individuals enrolled under this part which are furnished in the outpatient department of a hospital within seven days of such individual's admission to the same hospital or another hospital or furnished in the physician's office within seven days of such individual's admission to a hospital as an inpatient.
+Subsec. (a)(1)(F), (G). Pub. L. 98–369, §2305(a), redesignated subpar. (G) as (F), and struck out former subpar. (F) which related to payment of reasonable charges for preadmission diagnostic services furnished by a physician to individuals enrolled under this part which are furnished in the outpatient department of a hospital within seven days of such individual's admission to the same hospital or another hospital or furnished in the physician's office within seven days of such individual's admission to a hospital as an inpatient.
 
 Subsec. (a)(2). Pub. L. 98–369, §2305(c), struck out “and in paragraph (5) of this subsection” after “of such section”.
 
@@ -2164,13 +2212,13 @@ Subsec. (a)(2)(D). Pub. L. 98–369, §2303(b)(2)–(4), added subpar. (D).
 
 Subsec. (a)(3). Pub. L. 98–369, §2323(b)(1), substituted “section 1395x(s)(10)(A) of this title” for “section 1395x(s)(10) of this title”.
 
-Subsec. (a)(5). Pub. L. 98–369, §2305(b), struck out par. (5) which related to payment of reasonable costs for preadmission diagnostic services described in section 1395x(s)(2)(C) of this title furnished to an individual by the outpatient department of a hospital within sevendays of such individual's admission to the same hospital as an inpatient or to another hospital.
+Subsec. (a)(5). Pub. L. 98–369, §2305(b), struck out par. (5) which related to payment of reasonable costs for preadmission diagnostic services described in section 1395x(s)(2)(C) of this title furnished to an individual by the outpatient department of a hospital within seven days of such individual's admission to the same hospital as an inpatient or to another hospital.
 
 Subsec. (b)(1). Pub. L. 98–369, §2323(b)(2), substituted “section 1395x(s)(10)(A) of this title” for “section 1395x(s)(10) of this title”.
 
 Subsec. (b)(3). Pub. L. 98–369, §2305(d), substituted “subsection (a)(1)(F)” for “subsection (a)(1)(G)”.
 
-Subsec. (b)(4). Pub. L. 98–369, §2303(c), added cl. (4).
+Subsec. (b)(4). Pub. L. 98–369, §2303(c), added par. (4).
 
 Subsec. (f). Pub. L. 98–369, §2321(d)(4)(A), transferred subsec. (f) to part C of this subchapter and redesignated its provisions as section 1889 of the Social Security Act, which is classified to section 1395zz of this title.
 
@@ -2184,11 +2232,11 @@ Subsec. (k). Pub. L. 98–369, §2323(b)(4), added subsec. (k).
 
 1982—Subsec. (a)(1)(B). Pub. L. 97–248, §112(a)(1), substituted provisions that with respect to items and services described in section 1395x(s)(10) of this title, amounts paid shall be 100 percent of reasonable charges for such items and services for provision that with respect to expenses incurred for radiological or pathological services for which payment could be made under this part, furnished to any inpatient of a hospital by a physician in field of radiology or pathology who had in effect an agreement with Secretary by which the physician agreed to accept an assignment (as provided for in section 1395u(b)(3)(B)(ii) of this title) for all physicians’ services furnished by him to hospital inpatients enrolled under this part, the amounts paid would be equal to 100 percent of the reasonable charges for such services.
 
-Subsec. (a)(1)(H). Pub. L. 97–248, §112(a)(2), (3), struck out cl. (H) which provided that, with respect to items and services described in section 1395x(s)(10) of this title, the amount of benefits paid would be 100 percent of reasonable charges for such items and services.
+Subsec. (a)(1)(H). Pub. L. 97–248, §112(a)(2), (3), struck out subpar. (H) which provided that, with respect to items and services described in section 1395x(s)(10) of this title, the amount of benefits paid would be 100 percent of reasonable charges for such items and services.
 
 Subsec. (a)(2)(B). Pub. L. 97–248, §101(c)(2), inserted “and except as may be provided in section 1395ww of this title”.
 
-Subsec. (b)(1). Pub. L. 97–248, §112(b), struck out subcl. (A) provision that total amount of expenses shall not include expenses incurred for radiological or pathological services furnished an individual as an inpatient of a hospital by a physician in field of radiology or pathology who has an agreement with Secretary by which physician agrees to accept an assignment (as provided for in section 1395u(b)(3)(B)(ii) of this title) for all physicians’ services furnished by him to hospital inpatients under this part, and redesignated subcl. (B) provisions as cl. (1).
+Subsec. (b)(1). Pub. L. 97–248, §112(b), struck out subpar. (A) provision that total amount of expenses shall not include expenses incurred for radiological or pathological services furnished an individual as an inpatient of a hospital by a physician in field of radiology or pathology who has an agreement with Secretary by which physician agrees to accept an assignment (as provided for in section 1395u(b)(3)(B)(ii) of this title) for all physicians’ services furnished by him to hospital inpatients under this part, and redesignated subpar. (B) provisions as par. (1).
 
 Subsec. (i)(1). Pub. L. 97–248, §148(d), struck out requirement of consultation with National Professional Standards Review Council.
 
@@ -2198,7 +2246,7 @@ Subsec. (j). Pub. L. 97–248, §117(a)(2), added subsec. (j).
 
 Subsec. (a)(2)(B). Pub. L. 97–35, §2106(a), substituted new formula in cls. (i) to (iii) with respect to other services for provisions providing for reasonable costs of such services less the amount a provider may charge as described in section 1395cc(a)(2)(A) of this title and that in no case may payment for such other services exceed 80 percent of such costs.
 
-Subsec. (b). Pub. L. 97–35, §§2133(a), 2134(a), redesignated cls. (2) to (4) as (1) to (3), and struck out former cl. (1), which provided that amount of deductible for such calendar year as so determined shall first be reduced by amount of any expenses incurred by such individual in last three months of preceding calendar year and applied toward such individual's deductible under this section for such preceding year.
+Subsec. (b). Pub. L. 97–35, §§2133(a), 2134(a), redesignated pars. (2) to (4) as (1) to (3), and struck out former par. (1), which provided that amount of deductible for such calendar year as so determined shall first be reduced by amount of any expenses incurred by such individual in last three months of preceding calendar year and applied toward such individual's deductible under this section for such preceding year.
 
 Pub. L. 97–35, §2134(a), substituted “by a deductible of $75” for “by a deductible of $60”.
 
@@ -2206,11 +2254,11 @@ Pub. L. 97–35, §2134(a), substituted “by a deductible of $75” for “by a
 
 Subsec. (a)(1)(D). Pub. L. 96–499, §918(a)(4), substituted “subsection (h)” for “subsection (g)”.
 
-Subsec. (a)(1)(F). Pub. L. 96–499, §932(a)(1)(B), added cl. (F).
+Subsec. (a)(1)(F). Pub. L. 96–499, §932(a)(1)(B), added subpar. (F).
 
-Subsec. (a)(1)(G). Pub. L. 96–499, §934(d)(1), added cl. (G).
+Subsec. (a)(1)(G). Pub. L. 96–499, §934(d)(1), added subpar. (G).
 
-Subsec. (a)(1)(H). Pub. L. 96–611, §1(b)(1)(A), (B), added cl. (H).
+Subsec. (a)(1)(H). Pub. L. 96–611, §1(b)(1)(A), (B), added subpar. (H).
 
 Subsec. (a)(2). Pub. L. 96–611, §1(b)(1)(C), inserted in subpar. (A) “and to items and services described in section 1395x(s)(10) of this title”.
 
@@ -2222,13 +2270,13 @@ Pub. L. 96–499, §942, prescribed a formula for determining payment amounts fo
 
 Subsec. (a)(4), (5). Pub. L. 96–499, §942, added pars. (4) and (5).
 
-Subsec. (b)(2). Pub. L. 96–611, §1(b)(2), inserted “(A)” after “expenses incurred” and added cl. (B).
+Subsec. (b)(2). Pub. L. 96–611, §1(b)(2), inserted “(A)” after “expenses incurred” and added subpar. (B).
 
 Pub. L. 96–499, §943(a), inserted “who has in effect an agreement with the Secretary by which the physician agrees to accept an assignment (as provided for in section 1395u(b)(3)(B)(ii) of this title) for all physicians’ services furnished by him to hospital inpatients enrolled under this part”.
 
-Subsec. (b)(3). Pub. L. 96–499, §930(h)(2), added cl. (3).
+Subsec. (b)(3). Pub. L. 96–499, §930(h)(2), added par. (3).
 
-Subsec. (b)(4). Pub. L. 96–499, §934(d)(3), added cl. (4).
+Subsec. (b)(4). Pub. L. 96–499, §934(d)(3), added par. (4).
 
 Subsec. (g). Pub. L. 96–499, §935(a), substituted “$500” for “$100”.
 
@@ -2236,11 +2284,11 @@ Subsec. (h). Pub. L. 96–473 redesignated subsec. (g) as added by section 279(b
 
 Subsec. (i). Pub. L. 96–499, §934(b), added subsec. (i).
 
-1978—Subsec. (a)(1)(E). Pub. L. 95–292, §4(b)(2), added cl. (E).
+1978—Subsec. (a)(1)(E). Pub. L. 95–292, §4(b)(2), added subpar. (E).
 
 Subsec. (a)(2). Pub. L. 95–292, §4(c), inserted “(unless otherwise specified in section 1395rr of this title)” after “and with respect to other services” in provisions preceding subpar. (A).
 
-1977—Subsec. (a)(2). Pub. L. 95–210, §1(b)(2), inserted parenthetical provisions preceding subpar. (A) excepting those services described in subparagraph (D) of section 1395k(a)(2) of this title.
+1977—Subsec. (a)(2). Pub. L. 95–210, §1(b)(2), inserted parenthetical provisions preceding subpar. (A) excepting those services described in subpar. (D) of section 1395k(a)(2) of this title.
 
 Subsec. (a)(3). Pub. L. 95–210, §1(b)(1), (3), (4), added par. (3).
 
@@ -2252,7 +2300,7 @@ Subsec. (f)(3), (4). Pub. L. 95–142 added pars. (3) and (4).
 
 1972—Subsec. (a). Pub. L. 92–603, §226(c)(2), inserted reference to section 1395mm of this title in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 92–603, §§211(c)(4), 279(a), added cls. (C) and (D).
+Subsec. (a)(1). Pub. L. 92–603, §§211(c)(4), 279(a), added subpars. (C) and (D).
 
 Subsec. (a)(2). Pub. L. 92–603, §§233(b), 251(a)(3), 299K(a), substituted subpars. (A) and (B) for provisions relating to the amount payable by reference to section 1395x(v) of this title, added subpar. (C), and in provisions preceding subpar. (A), inserted “with respect to home health services, 100 percent, and with respect to other services,” before “80 percent”.
 
@@ -2266,13 +2314,21 @@ Subsec. (h). Pub. L. 92–603, §279(b), added subsec. (h). Subsec. was in the o
 
 1968—Subsec. (a)(1). Pub. L. 90–248, §131(a)(1), (2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b). Pub. L. 90–248, §§129(c)(7), 131(b), struck out reference in cl. (1) to expenses regarded under former cl. (2) as incurred for services furnished in last three months of preceding year, struck out former cl. (2) which provided that amount of any deduction imposed by section 1395e(a)(2)(A) of this title for outpatient hospital diagnostic services furnished in any calendar year is to be regarded as an incurred expense for such year; and added cl. (2).
+Subsec. (b). Pub. L. 90–248, §§129(c)(7), 131(b), struck out reference in par. (1) to expenses regarded under former par. (2) as incurred for services furnished in last three months of preceding year, struck out former par. (2) which provided that amount of any deduction imposed by section 1395e(a)(2)(A) of this title for outpatient hospital diagnostic services furnished in any calendar year is to be regarded as an incurred expense for such year; and added par. (2).
 
-Pub. L. 90–248, §135(c), inserted last sentence providing that there shall be a deductible equal to expenses incurred for first three pints of whole blood (or equivalent quantities of packed red blood cells as defined under regulations) furnished to an individual during a calendar year which deductible is to be appropriately reduced to extent that such blood has been replaced, and such blood will be deemed to have been replaced when institution or person furnishing such blood is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells) furnished individual to which three pint deductible applies.
+Pub. L. 90–248, §135(c), inserted last sentence providing that there shall be a deductible equal to expenses incurred for first three pints of whole blood (or equivalent quantities of packed red blood cells as defined under regulations) furnished to an individual during acalendar year which deductible is to be appropriately reduced to extent that such blood has been replaced, and such blood will be deemed to have been replaced when institution or person furnishing such blood is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells) furnished individual to which three pint deductible applies.
 
 Subsec. (d). Pub. L. 90–248, §129(c)(8), struck out reference to subsection (a)(2)(A) of section 1395e of this title.
 
 Subsec. (f). Pub. L. 90–248, §132(b), added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §101(c), July 15, 2008, 122 Stat. 2498, provided that: “The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply to services furnished on or after January 1, 2009.”
+
+Amendment by section 143(b)(2), (3), of Pub. L. 110–275 applicable to services furnished on or after July 1, 2009, see section 143(c) of Pub. L. 110–275, set out as a note under section 1395k of this title.
+
+Pub. L. 110–275, title I, §145(a)(3), July 15, 2008, 122 Stat. 2547, provided that: “The amendments made by this subsection \[amending this section and section 1395w–3 of this title\] shall take effect on the date of the enactment of this Act \[July 15, 2008\].”
 
 #### Effective Date of 2006 Amendment
 
@@ -2402,7 +2458,7 @@ Enforcement; miscellaneous and technical amendments.—The amendments made by su
 
 “(2)
 
-Practitioners.—The amendments made by subsection (b) \[amending this section and section 1395u of this title\] shall apply to services furnished on or after January 1, 1995.”
+Practitioners.—The amendments made by subsection (b) \[amending this section and section 1395u ofthis title\] shall apply to services furnished on or after January 1, 1995.”
 
 Section 141(c)(2) of Pub. L. 103–432 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
@@ -2450,7 +2506,7 @@ Section 6102(g) of Pub. L. 101–239 provided that: “Except as otherwise provi
 
 Section 6111(b)(2) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4154(e)(4), Nov. 5, 1990, 104 Stat. 1388–86, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to clinical diagnostic laboratory tests performed on or after May 1, 1990.”
 
-Section 6113(e) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1395x of this title\], and the provisions of subsection (c) \[set out below\], shall apply to services furnished on or after July 1, 1990, and the amendments made by subsection (d) \[amending this section\] shallapply to expenses incurred in a year beginning with 1990.”
+Section 6113(e) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section and section 1395x of this title\], and the provisions of subsection (c) \[set out below\], shall apply to services furnished on or after July 1, 1990, and the amendments made by subsection (d) \[amending this section\] shall apply to expenses incurred in a year beginning with 1990.”
 
 Section 6131(c) of Pub. L. 101–239 provided that:
 
@@ -2516,7 +2572,7 @@ Amendment by section 4077(b)(2), (3) of Pub. L. 100–203 effective with respect
 
 Section 4084(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply as if included in the amendment made by section 9320(e)(2) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
-Section 4084(c)(3) of Pub. L. 100–203, as added by Pub. L. 100–360, title IV, §411(i)(3), July 1, 1988, 102 Stat. 788, provided that: “The amendments made by this subsection \[amending this section and section 1395x of thistitle\] shall apply to services furnished after December 31, 1988.”
+Section 4084(c)(3) of Pub. L. 100–203, as added by Pub. L. 100–360, title IV, §411(i)(3), July 1, 1988, 102 Stat. 788, provided that: “The amendments made by this subsection \[amending this section and section 1395x of this title\] shall apply to services furnished after December 31, 1988.”
 
 Section 4085(b)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to procedures performed on or after January 1, 1988.”
 
@@ -2588,7 +2644,7 @@ Section 2134(b) of Pub. L. 97–35 provided that: “The amendment made by subse
 
 #### Effective Date of 1980 Amendments
 
-Section 2 of Pub. L. 96–611 provided that: “The amendments made by this Act \[probably should be theamendments made by section 1 of this Act, which amended this section and sections 1395x, 1395y, 1395aa, and 1395cc of this title\] shall take effect on, and apply to services furnished on or after, July 1, 1981.”
+Section 2 of Pub. L. 96–611 provided that: “The amendments made by this Act \[probably should be the amendments made by section 1 of this Act, which amended this section and sections 1395x, 1395y, 1395aa, and 1395cc of this title\] shall take effect on, and apply to services furnished on or after, July 1, 1981.”
 
 Amendment by section 930(h) of Pub. L. 96–499, effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
 
@@ -2630,9 +2686,21 @@ Section 132(c) of Pub. L. 90–248 provided that: “The amendments made by this
 
 Amendment by section 135(c) of Pub. L. 90–248 applicable with respect to payment for blood (or packed red blood cells) furnished an individual after Dec. 31, 1967, see section 135(d) of Pub. L. 90–248, set out as a note under section 1395e of this title.
 
+#### Construction of 2008 Amendment
+
+Pub. L. 110–275, title I, §101(a)(4), July 15, 2008, 122 Stat. 2497, provided that: “Nothing in the provisions of, or amendments made by, this subsection \[amending this section and sections 1395x and 1395y of this title\] shall be construed to provide coverage under title XVIII of the Social Security Act \[this subchapter\] of items and services for the treatment of a medical condition that is not otherwise covered under such title.”
+
 #### Construction Regarding Limiting Increases in Cost-Sharing
 
 Pub. L. 106–554, §1(a)(6) \[title I, §111(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473, provided that: “Nothing in this Act \[H.R. 5661, as enacted by section 1(a)(6) of Pub. L. 106–554, see Tables for classification\] or the Social Security Act \[this chapter\] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act \[this subchapter\] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act (42 U.S.C. 1395<i>l</i>(t)).”
+
+#### Treatment of Certified Registered Nurse Anesthetists
+
+Pub. L. 110–275, title I, §139(b), July 15, 2008, 122 Stat. 2541, provided that: “With respect to items and services furnished on or after January 1, 2010, the Secretary of Health and Human Services shall make appropriate adjustments to payments under the Medicare program under title XVIII of the Social Security Act \[this subchapter\] for teaching certified registered nurse anesthetists to implement a policy with respect to teaching certified registered nurse anesthetists that—
+
+&emsp;“(1) is consistent with the adjustments made by the special rule for teaching anesthesiologists under section 1848(a)(6) of the Social Security Act \[42 U.S.C. 1395w–4(a)(6)\], as added by subsection (a); and
+
+&emsp;“(2) maintains the existing payment differences between teaching anesthesiologists and teaching certified registered nurse anesthetists.”
 
 #### Implementation of 2006 Amendment
 
@@ -2646,9 +2714,9 @@ Pub. L. 109–171, title V, §5107(b), Feb. 8, 2006, 120 Stat. 43, provided that
 
 #### Application of 2003 Amendment to Physician Specialties
 
-Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians,is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnishedby physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 #### GAO Study of Medicare Payment for Inhalation Therapy
 
@@ -2922,11 +2990,11 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Establishment of Coding and Payment Procedures for New Clinical Diagnostic Laboratory Tests and Other Items on a Fee Schedule
 
-Pub. L. 106–554, §1(a)(6) \[title V, §531(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “Not later than1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall establish procedures for coding and payment determinations for the categories of new clinical diagnostic laboratory tests and new durable medical equipment under part B of title XVIII of the Social Security Act \[this part\] that permit public consultation in a manner consistent with the procedures established for implementing coding modifications for ICD–9–CM.”
+Pub. L. 106–554, §1(a)(6) \[title V, §531(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall establish procedures for coding and payment determinations for the categories of new clinical diagnostic laboratory tests and new durable medical equipment under part B of title XVIII of the Social Security Act \[this part\] that permit public consultation in a manner consistent with the procedures established for implementing coding modifications for ICD–9–CM.”
 
 #### Report on Procedures Used for Advanced, Improved Technologies
 
-Pub. L. 106–554, §1(a)(6) \[title V, §531(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[this part\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results.”
+Pub. L. 106–554, §1(a)(6) \[title V, §531(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “Not later than1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall submit to Congress a report that identifies the specific procedures used by the Secretary under part B of title XVIII of the Social Security Act \[this part\] to adjust payments for clinical diagnostic laboratory tests and durable medical equipment which are classified to existing codes where, because of an advance in technology with respect to the test or equipment, there has been a significant increase or decrease in the resources used in the test or in the manufacture of the equipment, and there has been a significant improvement in the performance of the test or equipment. The report shall include such recommendations for changes in law as may be necessary to assure fair and appropriate payment levels under such part for such improved tests and equipment as reflects increased costs necessary to produce improved results.”
 
 #### Congressional Intention Regarding Base Amounts in Applying HOPD PPS
 
@@ -3018,7 +3086,7 @@ Report.—Not later than June 30, 2001, the Secretary of Health and Human Servic
 
 #### Phase-in of PPS for Ambulatory Surgical Centers
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §226\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354, as amended by Pub. L. 106–554, §1(a)(6) \[title IV, §424(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–518, 2763A–519, provided that: “If the Secretary of Health and Human Services implements a revised prospective payment system for services of ambulatory surgical facilities under section 1833(i) of the Social Security Act (42 U.S.C. 1395<i>l</i>(i)), prior to incorporating data from the 1999 Medicare cost survey or a subsequent cost survey, such system shall be implemented in a manner so that—
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §226\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354, as amended by Pub. L.106–554, §1(a)(6) \[title IV, §424(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–518, 2763A–519, provided that: “If the Secretary of Health and Human Services implements a revised prospective payment system for services of ambulatory surgical facilities under section 1833(i) of the Social Security Act (42 U.S.C. 1395<i>l</i>(i)), prior to incorporating data from the 1999 Medicare cost survey or a subsequent cost survey, such system shall be implemented in a manner so that—
 
 &emsp;“(1) in the first year of its implementation, only a proportion (specified by the Secretary and not to exceed one-fourth) of the payment for such services shall be made in accordance with such system and the remainder shall be made in accordance with current regulations; and
 
@@ -3156,7 +3224,7 @@ Section 4158 of Pub. L. 101–508 provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law (including any other provision of this Act, other than subsection (b)(4)), payments under part B of title XVIII of the Social Security Act \[this part\] for items and services furnished during the period beginning on November 1, 1990, and ending on December 31, 1990, shall be reduced by 2 percent, in accordance with subsection (b).
+In General.—Notwithstanding any other provision of law (including any other provision of this Act,other than subsection (b)(4)), payments under part B of title XVIII of the Social Security Act \[this part\] for items and services furnished during the period beginning on November 1, 1990, and ending on December 31, 1990, shall be reduced by 2 percent, in accordance with subsection (b).
 
 “(b)
 
@@ -3210,11 +3278,11 @@ Section 4050 of Pub. L. 100–203 directed Secretary of Health and Human Service
 
 #### Applying Copayment and Deductible to Certain Outpatient Physicians’ Services
 
-Section 4054 of Pub. L. 100–203, relating to payment under part B of title XVIII of the Social Security Act\(this part) for physicians’ services specified in subsec. (i) of this section and furnished on or after Apr. 1, 1988, in an ambulatory surgical center or hospital outpatient department on an assignment-related basis, was negated in the amendment of section 4054 by Pub. L. 100–360, title IV, §411(f)(12)(A), July 1, 1988, 102 Stat. 781.
+Section 4054 of Pub. L. 100–203, relating to payment under part B of title XVIII of the Social Security Act (this part) for physicians’ services specified in subsec. (i) of this section and furnished on or after Apr. 1, 1988, in an ambulatory surgical center or hospital outpatient department on an assignment-related basis, was negated in the amendment of section 4054 by Pub. L. 100–360, title IV, §411(f)(12)(A), July 1, 1988, 102 Stat. 781.
 
 #### Other Physician Payment Studies
 
-Section 4056(c), formerly §4055(c), of Pub. L. 100–203, as renumbered by Pub. L. 100–360, title IV, §411(f)(14), July 1, 1988, 102 Stat. 781, provided directed Secretary to (1) conduct a study of changes in the payment system for physicians’ services, under part B, that would be required for the implementation of a national fee schedule for such services furnished on or after Jan. 1, 1990, and report to Congress on such study by not later than July 1, 1989, (2) conduct a study of issues relating to the volume and intensity of physicians’ services under part B and submit to Congress an interim report on such study not later than May 1, 1988, and a final report on such study not later than May 1, 1989, and (3) conduct a survey to determine distribution of (A) the liabilities and expenditures for health care services of individuals entitled to benefits under this subchapter, including liabilities for charges (not paid on an assignment-related basis) in excess of the reasonable charge recognized, and (B) the collection rates among different classes of physicians for such liabilities, including collection rates for required coinsurance and for charges (not paid on an assignment-related basis) in excess of the reasonable charge recognized, report to Congress on such study by not later than July 1, 1990.
+Section 4056(c), formerly §4055(c), of Pub. L. 100–203, as renumbered by Pub. L. 100–360, title IV, §411(f)(14), July 1, 1988, 102 Stat. 781, provided directed Secretary to (1) conduct a study of changes in the payment system for physicians’ services, under part B, that would be required for the implementation of a national fee schedule for such services furnished on or after Jan. 1,1990, and report to Congress on such study by not later than July 1, 1989, (2) conduct a study of issues relating to the volume and intensity of physicians’ services under part B and submit to Congress an interim report on such study not later than May 1, 1988, and a final report on such study not later than May 1, 1989, and (3) conduct a survey to determine distribution of (A) the liabilities and expenditures for health care services of individuals entitled to benefits under this subchapter, including liabilities for charges (not paid on an assignment-related basis) in excess of the reasonable charge recognized, and (B) the collection rates among different classes of physicians for such liabilities, including collection rates for required coinsurance and for charges (not paid on an assignment-related basis) in excess of the reasonable charge recognized, report to Congress on such study by not later than July 1, 1990.
 
 #### Study of Payment for Chemotherapy in Physicians’ Offices
 
@@ -3274,7 +3342,7 @@ Section 2303(i) of Pub. L. 98–369 provided that:
 
 &emsp;“(C) the potential impact of applying a national fee schedule to clinical diagnostic laboratory tests provided by hospitals to their outpatients.
 
-“(2) The Secretary of Health and Human Services shall report to the Congress with respect to the advisability and feasibility of a system of direct payment toany physician for all clinical diagnostic laboratory tests ordered by such physician.
+“(2) The Secretary of Health and Human Services shall report to the Congress with respect to the advisability and feasibility of a system of direct payment to any physician for all clinical diagnostic laboratory tests ordered by such physician.
 
 “(3) The reports required by paragraphs (1) and (2) shall be submitted not later than January 1, 1987.”
 
@@ -3326,17 +3394,19 @@ Section 1(c) of Pub. L. 95–210 directed Secretary of Health, Education, and We
 
 Section 104(b)(1) of Pub. L. 89–97 provided that: “No payments shall be made under part B of title XVIII of the Social Security Act \[this part\] with respect to expenses incurred by an individual during any month for which such individual may not be paid monthly benefits under title II of such Act \[subchapter II of this chapter\] (or for which such monthly benefits would be suspended if he were otherwise entitled thereto) by reason of section 202(t) of such Act \[section 402(t) of this title\] (relating to suspension of benefits of aliens who are outside the United States).”
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma after “subclause (II))” probably should follow “is performed”.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “such paragraph applies”.</i>
+<i><sup>3</sup></i><i> So in original. The comma after “subclause (II))” probably should follow “is performed”.</i>
 
-<i><sup>4</sup></i><i> So in original. The word “this” probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “such paragraph applies”.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “are—”.</i>
+<i><sup>5</sup></i><i> So in original. The word “this” probably should not appear.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be “are—”.</i>
 
-<i><sup>7</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+
+<i><sup>8</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

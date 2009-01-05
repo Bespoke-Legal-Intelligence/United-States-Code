@@ -2,7 +2,7 @@
 
 #### (a) Authority to permit discharge of specific pollutants
 
-The Administrator is authorized, after public hearings, to permit the discharge of a specificpollutant or pollutants under controlled conditions associated with an approved aquaculture project under Federal or State supervision pursuant to section 1342 of this title.
+The Administrator is authorized, after public hearings, to permit the discharge of a specific pollutant or pollutants under controlled conditions associated with an approved aquaculture project under Federal or State supervision pursuant to section 1342 of this title.
 
 #### (b) Procedures and guidelines
 

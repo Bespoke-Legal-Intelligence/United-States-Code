@@ -2,7 +2,7 @@
 
 #### (a) Use of reimbursement for planning activities for health services and facilities
 
-The purpose of this section is to assure that Federal funds appropriated under subchapters XVIII and XIX of this chapter are not used to support unnecessary capital expenditures made by or on behalf of health care facilities which are reimbursed under any of such subchapters and that, to the extent possible, reimbursement under such subchapters shall support planningactivities with respect to health services and facilities in the various States.
+The purpose of this section is to assure that Federal funds appropriated under subchapters XVIII and XIX of this chapter are not used to support unnecessary capital expenditures made by or on behalf of health care facilities which are reimbursed under any of such subchapters and that, to the extent possible, reimbursement under such subchapters shall support planning activities with respect to health services and facilities in the various States.
 
 #### (b) Agreement between Secretary and State for submission of proposed capital expenditures related to health care facilities and procedures for appeal from recommendations
 
@@ -18,7 +18,7 @@ The Secretary, after consultation with the Governor (or other chief executive of
 
 #### (c) Manner of payment to States for carrying out agreement
 
-The Secretary shall pay any such State from the general fund in the Treasury, in advance or by way of reimbursement as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (b) of this section.
+The Secretary shall pay any such State from the general fund in the Treasury, in advance orby way of reimbursement as may be provided in the agreement with it (and may make adjustments in such payments on account of overpayments or underpayments previously made), for the reasonable cost of performing the functions specified in subsection (b) of this section.
 
 #### (d) Determination of amount of exclusions from Federal payments
 
@@ -36,7 +36,7 @@ The Secretary shall pay any such State from the general fund in the Treasury, in
 
 > then, for such period as he finds necessary in any case to effectuate the purpose of this section, he shall, in determining the Federal payments to be made under subchapters XVIII and XIX of this chapter with respect to services furnished in the health care facility for which such capital expenditure is made, not include any amount which is attributable to depreciation, interest on borrowed funds, a return on equity capital (in the case of proprietary facilities), or other expenses related to such capital expenditure. With respect to any organization which is reimbursed on a per capita or a fixed fee or negotiated rate basis, in determining the Federal payments to be made under subchapters XVIII and XIX of this chapter, the Secretary shall exclude an amount which in his judgment is a reasonable equivalent to the amount which would otherwise be excluded under this subsection if payment were to be made on other than a per capita or a fixed fee or negotiated rate basis.
 
-(2) If the Secretary, after submitting the matters involved to the advisory council established or designated under subsection (i) of this section, determines that an exclusion of expenses related to any capital expenditure of any healthcare facility would discourage the operation or expansion of such facility which has demonstrated to his satisfaction proof of capability to provide comprehensive health care services (including institutional services) efficiently, effectively, and economically, or would otherwise be inconsistent with the effective organization and delivery of health services or the effective administration of subchapter XVIII or XIX of this chapter, he shall not exclude such expenses pursuant to paragraph (1).
+(2) If the Secretary, after submitting the matters involved to the advisory council established or designated under subsection (i) of this section, determines that an exclusion of expenses related to any capital expenditure of any health care facility would discourage the operation or expansion of such facility which has demonstrated to his satisfaction proof of capability to provide comprehensive health care services (including institutional services) efficiently, effectively, and economically, or would otherwise be inconsistent with the effective organization and delivery of health services or the effective administration of subchapter XVIII or XIX of this chapter, he shall not exclude such expenses pursuant to paragraph (1).
 
 #### (e) Treatment of lease or comparable arrangement of any facility or equipment for a facility in determining amount of exclusions from Federal payments
 
@@ -48,7 +48,7 @@ Any person dissatisfied with a determination by the Secretary under this section
 
 #### (g) “Capital expenditure” defined
 
-For the purposes of this section, a “capital expenditure” is an expenditure which, under generally accepted accounting principles, is not properly chargeable as an expense of operation and maintenance and which (1) exceeds $600,000 (or such lesser amount as the State may establish), (2) changes the bed capacity of the facility with respect to which such expenditure is made, or (3) substantially changes the services of the facility with respect to which such expenditure is made. For purposes of clause (1) of the preceding sentence, the cost of the studies, surveys, designs, plans, working drawings, specifications, and other activities essential to the acquisition, improvement, expansion, or replacement of the plant and equipment with respect to which such expenditure is made shall be included in determining whether such expenditure exceeds the dollar amount specified in clause (1).
+For the purposes of this section, a “capital expenditure” is an expenditure which, under generally accepted accounting principles, is not properly chargeable as an expense of operation and maintenance and which (1) exceeds $600,000 (or such lesser amount as the State may establish), (2) changes the bed capacity of the facility with respect to which such expenditure is made, or (3) substantially changes the services of thefacility with respect to which such expenditure is made. For purposes of clause (1) of the preceding sentence, the cost of the studies, surveys, designs, plans, working drawings, specifications, and other activities essential to the acquisition, improvement, expansion, or replacement of the plant and equipment with respect to which such expenditure is made shall be included in determining whether such expenditure exceeds the dollar amount specified in clause (1).
 
 #### (h) Applicability to Christian Science sanatoriums
 

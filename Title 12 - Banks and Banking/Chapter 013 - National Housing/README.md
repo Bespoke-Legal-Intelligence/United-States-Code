@@ -57,6 +57,8 @@
 | 1701z–13. | Solar energy for single-family and multifamily housing units. |
 | 1701z–14. | Lower cost technology demonstration program. |
 | 1701z–15. | Approval of individual residential water purification or treatment units. |
+| 1701z–16. | Energy efficient mortgages pilot program. |
+| 1701z–17. | Increasing access and understanding of energy efficient mortgages. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,6 +76,7 @@
 | [1706c.](Subchapter%20001%20%28I%29%20-%20Housing%20Renovation%20and%20Modernization/%C2%A7%2001706c%20-%20Insurance%20of%20mortgages.md) | Insurance of mortgages. |
 | [1706d.](Subchapter%20001%20%28I%29%20-%20Housing%20Renovation%20and%20Modernization/%C2%A7%2001706d%20-%20Applicability.md) | Applicability. |
 | [1706e.](Subchapter%20001%20%28I%29%20-%20Housing%20Renovation%20and%20Modernization/%C2%A7%2001706e%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93625%2C%20title%20II%2C%20%C2%A7289%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204128.md) | Repealed. |
+| [1706f.](Subchapter%20001%20%28I%29%20-%20Housing%20Renovation%20and%20Modernization/%C2%A7%2001706f%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md) | Prohibition against kickbacks and unearned fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -106,13 +109,13 @@
 | 1715h to 1715j. | Repealed. |
 | [1715k.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715k%20-%20Rehabilitation%20and%20neighborhood%20conservation%20housing%20insurance.md) | Rehabilitation and neighborhood conservation housing insurance. |
 | 1715<i>l.</i> | Housing for moderate income and displaced families. |
-| [1715m.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715m%20-%20Mortgage%20insurance%20for%20servicemen.md) | Mortgage insurance for servicemen. |
+| [1715m.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93289%2C%20div.%20B%2C%20title%20I%2C%20%C2%A72120%28a%29%285%29%2C%20July%2030%2C%202008%2C%20122%20Stat.%202835.md) | Repealed. |
 | [1715n.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715n%20-%20Miscellaneous%20mortgage%20insurance.md) | Miscellaneous mortgage insurance. |
 | 1715<i>o.</i> | Interest rate on debentures; method of establishment. |
 | [1715p.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715p%20-%20Insurance%20of%20advances%20under%20open-end%20mortgages%3B%20payment%20of%20charges%3B%20eligibility%20and%20conditions.md) | Insurance of advances under open-end mortgages; payment of charges; eligibility and conditions. |
 | [1715q.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715q%20-%20Delivery%20of%20statement%20of%20appraisal%20or%20estimates%20to%20home%20buyers.md) | Delivery of statement of appraisal or estimates to home buyers. |
 | [1715r.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715r%20-%20Requirement%20of%20builder%27s%20cost%20certification%3B%20definitions.md) | Requirement of builder's cost certification; definitions. |
-| [1715s.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715s%20-%20Transferred.md) | Transferred. |
+| [1715s.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715s%20-%20Treatment%20of%20mortgages%20covering%20tax%20credit%20projects.md) | Treatment of mortgages covering tax credit projects. |
 | [1715t.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715t%20-%20Voluntary%20termination%20of%20insurance.md) | Voluntary termination of insurance. |
 | [1715u.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715u%20-%20Authority%20to%20assist%20mortgagors%20in%20default.md) | Authority to assist mortgagors in default. |
 | [1715v.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001715v%20-%20Insurance%20of%20mortgages%20for%20housing%20for%20elderly%20persons.md) | Insurance of mortgages for housing for elderly persons. |
@@ -124,7 +127,7 @@
 | 1715z–1a. | Assistance for troubled multifamily housing projects. |
 | 1715z–1b. | Tenant participation in multifamily housing projects. |
 | 1715z–1c. | Regulation of rents in insured projects. |
-| 1715z–2. | Special mortgage insurance assistance. |
+| 1715z–2. | Repealed. |
 | 1715z–3. | Special Risk Insurance Fund. |
 | 1715z–4. | Modifications in terms of mortgages covering multifamily projects; requests for extensions to cure defaults or for modification of mortgage terms; regulations. |
 | 1715z–4a. | Double damages remedy for unauthorized use of multifamily housing project assets and income. |
@@ -133,7 +136,7 @@
 | 1715z–7. | Mortgage insurance for hospitals. |
 | 1715z–8. | Mortgage assistance payments for middle-income families. |
 | 1715z–9. | Co-insurance of eligible mortgage, advance, or loan. |
-| 1715z–10. | Graduated payment and indexed mortgages. |
+| 1715z–10. | Repealed. |
 | 1715z–11. | Sale to cooperatives of multifamily housing projects acquired by Secretary; acceptance of purchase money mortgage for sale or insurance of mortgage; principal amount of mortgage; expenditures for repairs, etc., prior to sale. |
 | 1715z–11a. | Disposition of HUD-owned properties. |
 | 1715z–12. | Single-family mortgage insurance on Hawaiian home lands. |
@@ -150,6 +153,8 @@
 | 1715z–21. | Delegation of insuring authority to direct endorsement mortgagees. |
 | 1715z–22. | Multifamily mortgage credit programs. |
 | 1715z–22a. | Definitions. |
+| 1715z–23. | HOPE for Homeowners Program. |
+| 1715z–24. | Pilot program for automated process for borrowers without sufficient credit history. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -450,6 +455,8 @@
 - [&sect; 01701z&#8211;13 - Solar energy for single-family and multifamily housing units](%C2%A7%2001701z%E2%80%9313%20-%20Solar%20energy%20for%20single-family%20and%20multifamily%20housing%20units.md)
 - [&sect; 01701z&#8211;14 - Lower cost technology demonstration program](%C2%A7%2001701z%E2%80%9314%20-%20Lower%20cost%20technology%20demonstration%20program.md)
 - [&sect; 01701z&#8211;15 - Approval of individual residential water purification or treatment units](%C2%A7%2001701z%E2%80%9315%20-%20Approval%20of%20individual%20residential%20water%20purification%20or%20treatment%20units.md)
+- [&sect; 01701z&#8211;16 - Energy efficient mortgages pilot program](%C2%A7%2001701z%E2%80%9316%20-%20Energy%20efficient%20mortgages%20pilot%20program.md)
+- [&sect; 01701z&#8211;17 - Increasing access and understanding of energy efficient mortgages](%C2%A7%2001701z%E2%80%9317%20-%20Increasing%20access%20and%20understanding%20of%20energy%20efficient%20mortgages.md)
 - [Subchapter 001 (I) - Housing Renovation and Modernization](Subchapter%20001%20%28I%29%20-%20Housing%20Renovation%20and%20Modernization/README.md)
 - [Subchapter 002 (II) - Mortgage Insurance](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/README.md)
 - [Subchapter 003 (III) - National Mortgage Associations](Subchapter%20003%20%28III%29%20-%20National%20Mortgage%20Associations/README.md)

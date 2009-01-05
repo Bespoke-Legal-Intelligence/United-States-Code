@@ -6,7 +6,7 @@ The Administration may carry out a program to competitively award cash prizes to
 
 #### (b) Topics
 
-In selecting topics for prize competitions, the Administrator shall consult widely both within and outside the Federal Government, and may empanel advisory committees.
+In selecting topics for prize competitions, the Administrator shall consult widely both within and outside the Federal Government, and may empanel advisory committees. The Administrator shall give consideration to prize goals such as the demonstration of the ability to provide energy to the lunar surface from space-based solar power systems, demonstration of innovative near-Earth object survey and deflection strategies, and innovative approaches to improving the safety and efficiency of aviation systems.
 
 #### (c) Advertising
 
@@ -62,7 +62,7 @@ The Administrator may enter into an agreement with a private, nonprofit entity t
 
 &emsp;(B) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private source.
 
-(4) No prize competition under this section may offer a prize in an amount greater than $10,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(4) No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (5) No prize competition under this section may result in the award of more than $1,000,000 in cash prizes without the approval of the Administrator.
 
@@ -74,9 +74,19 @@ A registered participant in a competition under this section may use the Adminis
 
 The Federal Government shall not, by virtue of offering or providing a prize under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and non-proliferation laws, and related regulations.
 
-(Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, Dec. 30, 2005, 119 Stat. 2910.)
+(Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, Dec. 30, 2005, 119 Stat. 2910; amended Pub. L. 110–422, title XI, §1105(b), Oct. 15, 2008, 122 Stat. 4809.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–422, §1105(b)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “In selecting topics for prize competitions, the Administrator shall consult widely both within and outside the Federal Government, and may empanel advisory committees.”
+
+Subsec. (i)(4). Pub. L. 110–422, §1105(b)(2), substituted “$50,000,000” for “$10,000,000”.
 
 #### Change of Name
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Innovation Prizes
+
+Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: “Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged.”
 

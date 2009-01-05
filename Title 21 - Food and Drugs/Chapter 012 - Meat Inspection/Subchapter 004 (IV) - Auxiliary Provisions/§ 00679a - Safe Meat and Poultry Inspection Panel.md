@@ -48,7 +48,7 @@ The panel shall be composed of 7 members, not fewer than 5 of whom shall be from
 
 #### (2) Vacancies
 
-&emsp;Any subsequent vacancy on the panel shall be filled by the Secretary after soliciting 2 nominees from the National Institutes of Health and 2 nominees from the Federation of American Societies of Food Animal Science.
+&emsp;Any subsequent vacancy on the panel shall be filled by the Secretary after soliciting 2nominees from the National Institutes of Health and 2 nominees from the Federation of American Societies of Food Animal Science.
 
 #### (3) Requirements for nominees
 

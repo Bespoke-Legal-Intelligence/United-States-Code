@@ -72,7 +72,7 @@
 | [5177\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177%20-%20Unemployment%20assistance.md) | Unemployment assistance. |
 | [5177a.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177a%20-%20Emergency%20grants%20to%20assist%20low-income%20migrant%20and%20seasonal%20farmworkers.md) | Emergency grants to assist low-income migrant and seasonal farmworkers. |
 | [5178\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005178%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93390%2C%20title%20II%2C%20%C2%A7206%28c%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201571.md) | Repealed. |
-| [5179\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005179%20-%20Food%20coupons%20and%20distribution.md) | Food coupons and distribution. |
+| [5179\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005179%20-%20Benefits%20and%20distribution.md) | Benefits and distribution. |
 | [5180\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005180%20-%20Food%20commodities.md) | Food commodities. |
 | [5181\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005181%20-%20Relocation%20assistance.md) | Relocation assistance. |
 | [5182\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005182%20-%20Legal%20services.md) | Legal services. |

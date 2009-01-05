@@ -12,7 +12,7 @@
 
 (3) A disbursing official may make a designation under paragraph (1) only with the approval of the Secretary of Homeland Security (when the Coast Guard is not operating as a service in the Navy).
 
-(b)(1) If a disbursing official of the Coast Guard dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the second month after the month inwhich the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
+(b)(1) If a disbursing official of the Coast Guard dies, becomes disabled, or is separated from office, a deputy disbursing official may continue the accounts and payments in the name of the former disbursing official until the last day of the second month after the month in which the death, disability, or separation occurs. The accounts and payments shall be allowed, audited, and settled as provided by law. The Secretary of the Treasury shall honor checks signed in the name of the former disbursing official in the same way as if the former disbursing official had continued in office.
 
 (2) The deputy disbursing official, and not the former disbursing official or the estate of the former disbursing official, is liable for the actions of the deputy disbursing official under this subsection.
 

@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (b) Establishment of program
 
-In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employmentis with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 #### (c) Bar on certain employment
 
@@ -80,31 +80,31 @@ Section was enacted as part of the Central Intelligence Agency Voluntary Separat
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(d), amended par. (1) generally. Prior to amendment, par. (1) read: “the term ‘Director’ means the Director of Central Intelligence; and”.
 
 Subsecs. (f) to (h). Pub. L. 108–487, §401(a), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which related to termination of payments under this section.
 
 Subsec. (i). Pub. L. 108–487, §401(b)(1), struck out subsec. (i) which related to remittance of funds.
 
-2002—Subsec. (f). Pub. L. 107–306, §401(1), substituted “September 30, 2005” for “September 30, 2003”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–306, §401(1), substituted “September 30, 2005” for “September 30, 2003”.
 
 Subsec. (i). Pub. L. 107–306, §401(2), substituted “2003, 2004, or 2005” for “or 2003”.
 
-2001—Subsec. (f). Pub. L. 107–108, §402(1), substituted “September 30, 2003” for “September 30, 2002”.
+<b>2001</b>—Subsec. (f). Pub. L. 107–108, §402(1), substituted “September 30, 2003” for “September 30, 2002”.
 
 Subsec. (i). Pub. L. 107–108, §402(2), substituted “2002, or 2003” for “or 2002”.
 
-1999—Subsec. (f). Pub. L. 106–120, §402(a), substituted “September 30, 2002” for “September 30, 1999”.
+<b>1999</b>—Subsec. (f). Pub. L. 106–120, §402(a), substituted “September 30, 2002” for “September 30, 1999”.
 
 Subsec. (i). Pub. L. 106–120, §402(b), substituted “, 1999, 2000, 2001, or 2002” for “or fiscal year 1999”.
 
-1996—Subsec. (f). Pub. L. 104–93, §401(a), substituted “September 30, 1999” for “September 30, 1997”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–93, §401(a), substituted “September 30, 1999” for “September 30, 1997”.
 
 Subsec. (i). Pub. L. 104–293 inserted at end: “The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
 
 Pub. L. 104–93, §401(b), added subsec. (i).
 
-1994—Subsec. (b). Pub. L. 103–226, §8(b), inserted four sentences at end relating to repayment of separation pay requirement.
+<b>1994</b>—Subsec. (b). Pub. L. 103–226, §8(b), inserted four sentences at end relating to repayment of separation pay requirement.
 
 #### Effective Date of 2004 Amendment
 

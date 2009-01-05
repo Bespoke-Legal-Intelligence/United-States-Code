@@ -144,7 +144,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Rulemaking Procedures
 
-For implementation of this section by the Secretary of Agriculture without regard to provisions requiringnotice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
+For implementation of this section by the Secretary of Agriculture without regard to provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

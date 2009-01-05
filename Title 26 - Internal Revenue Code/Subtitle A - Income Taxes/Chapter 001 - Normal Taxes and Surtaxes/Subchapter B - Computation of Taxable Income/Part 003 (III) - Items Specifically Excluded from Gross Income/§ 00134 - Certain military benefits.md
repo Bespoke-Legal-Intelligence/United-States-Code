@@ -50,7 +50,11 @@ For purposes of this section—
 
 &emsp;The term “qualified military benefit” includes a travel benefit provided under section 2613 of title 10, United States Code (as in effect on the date of the enactment of this paragraph).
 
-(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339; Pub. L. 108–375, div. A, title V, §585(b)(1), (2)(A), Oct. 28, 2004, 118 Stat. 1931, 1932.)
+#### (6) Certain State payments
+
+&emsp;The term “qualified military benefit” includes any bonus payment by a State or political subdivision thereof to any member or former member of the uniformed services of the United States or any dependent of such member only by reason of such member's service in an <sup>1</sup> combat zone (as defined in section 112(c)(2), determined without regard to the parenthetical).
+
+(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339; Pub. L. 108–375, div. A, title V, §585(b)(1), (2)(A), Oct. 28, 2004, 118 Stat. 1931, 1932; Pub. L. 110–245, title I, §112(a), June 17, 2008, 122 Stat. 1635.)
 
 #### References in Text
 
@@ -63,6 +67,8 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(5), is t
 A prior section 134 was renumbered section 140 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(6). Pub. L. 110–245 added par. (6).
 
 2004—Subsec. (b)(3)(A). Pub. L. 108–375, §585(b)(2)(A), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
 
@@ -81,6 +87,10 @@ Subsec. (b)(4). Pub. L. 108–121, §106(a), added par. (4).
 Subsec. (b)(1)(B). Pub. L. 100–647, §1011B(f)(1), substituted “, regulation, or administrative practice” for “or regulation thereunder”.
 
 Subsec. (b)(3)(A). Pub. L. 100–647, §1011B(f)(3), struck out “under any provision of law or regulation described in paragraph (1)” after “September 9, 1986,”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–245, title I, §112(b), June 17, 2008, 122 Stat. 1635, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made before, on, or after the date of the enactment of this Act \[June 17, 2008\].”
 
 #### Effective Date of 2004 Amendment
 
@@ -105,4 +115,6 @@ Section 1168(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 
 Pub. L. 108–121, title I, §106(d), Nov. 11, 2003, 117 Stat. 1339, provided that: “No inference may be drawn from the amendments made by this section \[amending this section and sections 3121, 3306, and 3401 of this title\] with respect to the tax treatment of any amounts under the program described in section 134(b)(4) of the Internal Revenue Code of 1986 (as added by this section) for any taxable year beginning before January 1, 2003.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

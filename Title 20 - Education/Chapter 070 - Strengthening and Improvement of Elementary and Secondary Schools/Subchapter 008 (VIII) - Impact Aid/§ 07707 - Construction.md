@@ -52,11 +52,11 @@
 
 #### (2) Priority
 
-&emsp;In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
+&emsp;In approving applications from local educational agencies for emergency grants andmodernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
 
 &emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applicationsfor emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -108,7 +108,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or a modernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
+&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or amodernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
 
 #### (ii) School described
 
@@ -192,7 +192,7 @@
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grantor modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -264,7 +264,7 @@
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2002 Amendment
 

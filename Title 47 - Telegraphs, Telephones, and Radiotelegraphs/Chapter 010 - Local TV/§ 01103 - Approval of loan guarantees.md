@@ -30,7 +30,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;(A) Nothing in this chapter shall be construed to prohibit the Board from requiring, to the extent and under circumstances considered appropriate by the Board, that affiliates of an applicant be subject to certain obligations of the applicant as a condition to the approval or maintenance of a loan guarantee under this chapter.
 
-&emsp;(B) If any provision of this chapter or the application of such provision to any person orentity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
+&emsp;(B) If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 
 #### (c) Authority limited by appropriations acts
 
@@ -58,13 +58,13 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;&emsp;(aa) if the loan is made in accordance with loan-to-one-borrower and affiliate transaction restrictions to which the entity is subject under applicable law; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed 10 percent of the net equity of the entity; or
+&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed10 percent of the net equity of the entity; or
 
 &emsp;&emsp;&emsp;(II) is provided by a nonprofit corporation, including the National Rural Utilities Cooperative Finance Corporation, engaged primarily in commercial lending, if the Board determines that such nonprofit corporation has one or more issues of outstanding long-term debt that is rated within the highest 3 rating categories of a nationally recognized statistical rating organization;
 
 &emsp;&emsp;(ii) if the loan is provided by a lender described in clause (i)(II) and the Board determines that the making of the loan by such lender will cause a decline in such lender's debt rating as described in that clause, the Board at its discretion may disapprove the loan guarantee on this basis;
 
-&emsp;&emsp;(iii) no loan may be made for purposes of this chapter by a governmental entity or affiliate thereof, or by the Federal Agricultural Mortgage Corporation, or any institution supervised by the Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board, or any affiliate of such entities;
+&emsp;&emsp;(iii) no loan may be made for purposes of this chapter by a governmental entity or affiliate thereof, or by the Federal Agricultural Mortgage Corporation, or any institution supervised by the Federal Housing Finance Agency, or any affiliate of such entities;
 
 &emsp;&emsp;(iv) any loan must have terms, in the judgment of the Board, that are consistent in material respects with the terms of similar obligations in the private capital market;
 
@@ -168,7 +168,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted withrespect to a loan guarantee under this chapter on the basis of—
+&emsp;&emsp;The Board shall determine the amount of any credit risk premium to be accepted with respect to a loan guarantee under this chapter on the basis of—
 
 &emsp;&emsp;&emsp;(i) the financial and economic circumstances of the applicant for the loan guarantee, including the amount of collateral offered;
 
@@ -194,7 +194,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (i) Limitations on guarantees for certain cable operators
 
-Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
+Notwithstanding any other provision of this chapter, no loan guarantee under this chaptermay be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
 
 #### (j) Judicial review
 
@@ -204,13 +204,15 @@ The decision of the Board to approve or disapprove the making of a loan guarante
 
 Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
 
-(Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129; Pub. L. 107–171, title VI, §6404(b)(1), May 13, 2002, 116 Stat. 430.)
+(Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129; Pub. L. 107–171, title VI, §6404(b)(1), May 13, 2002, 116 Stat. 430; Pub. L. 110–289, div. A, title II, §1216(f), July 30, 2008, 122 Stat. 2792.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(2)(D)(iii). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board”.
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 

@@ -24,7 +24,7 @@ Not later than December 31, 1997, the owner or operator of an existing unit subj
 
 (4) Notwithstanding the provisions of section 7651b(a) and (e) of this title, allowances shall be allocated under this section for a designated replacement unit which replaces an existing unit (as provided in the last sentence of subsection (a) of this section) in lieu of any further allocations of allowances for the existing unit.
 
-(5) For the purpose of meeting the aggregate emissions limitation requirement set forth insection 7651b(a)(1) of this title, the units with an extension under this subsection shall be treated in each calendar year during the extension period as holding allowances allocated under paragraph (3).
+(5) For the purpose of meeting the aggregate emissions limitation requirement set forth in section 7651b(a)(1) of this title, the units with an extension under this subsection shall be treated in each calendar year during the extension period as holding allowances allocated under paragraph (3).
 
 #### (d) Control requirements
 
@@ -32,7 +32,7 @@ Any unit qualifying for an extension under this section that does not increase a
 
 #### (e) Expedited permitting
 
-State permitting authorities and, where applicable, the Administrator, are encouraged to give expedited consideration to permit applications under parts C and D of subchapter I of this chapter for any source qualifying for an extension under this section.
+State permitting authorities and, where applicable, the Administrator, are encouraged to give expedited consideration to permit applicationsunder parts C and D of subchapter I of this chapter for any source qualifying for an extension under this section.
 
 #### (f) Prohibition
 

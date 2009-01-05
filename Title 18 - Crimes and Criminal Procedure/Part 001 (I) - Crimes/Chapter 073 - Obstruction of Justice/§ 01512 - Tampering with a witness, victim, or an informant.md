@@ -62,7 +62,7 @@
 
 (c) Whoever corruptly—
 
-&emsp;(1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object's integrity or availability for use in an official proceeding; or
+&emsp;(1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object'sintegrity or availability for use in an official proceeding; or
 
 &emsp;(2) otherwise obstructs, influences, or impedes any official proceeding, or attempts to do so,
 

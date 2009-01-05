@@ -64,7 +64,7 @@ In general.—The term of office of each member of the board of governors shall 
 
 &emsp;(2)
 
-Staggered terms.—The terms of office of members of the board of governors (other than the chairman) shall be staggered such that, by March 31, 2012, and thereafter, 1/3 of the entire board (or as near to 1/3 as practicable) shall be elected at each successive annual meeting of the corporation with the term of office of eachmember of the board of governors elected at an annual meeting expiring at the third annual meeting following the annual meeting at which such member was elected.
+Staggered terms.—The terms of office of members of the board of governors (other than the chairman) shall be staggered such that, by March 31, 2012, and thereafter, 1/3 of the entire board (or as near to 1/3 as practicable) shall be elected at each successive annual meeting of the corporation with the term of office of each member of the board of governors elected at an annual meeting expiring at the third annual meeting following the annual meeting at which such member was elected.
 
 &emsp;(3)
 

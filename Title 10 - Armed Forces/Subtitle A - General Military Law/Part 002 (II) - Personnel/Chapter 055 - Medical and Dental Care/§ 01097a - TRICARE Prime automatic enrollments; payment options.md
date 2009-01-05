@@ -2,7 +2,7 @@
 
 (a)
 
-Automatic Enrollment of Certain Dependents.—Each dependent of a member of the uniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
+Automatic Enrollment of Certain Dependents.—Each dependent of a member of theuniformed services in grade E4 or below who is entitled to medical and dental care under section 1076(a)(2)(A) of this title and resides in the catchment area of a facility of a uniformed service offering TRICARE Prime shall be automatically enrolled in TRICARE Prime at the facility. The Secretary concerned shall provide written notice of the enrollment to the member. The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
 
 (b)
 

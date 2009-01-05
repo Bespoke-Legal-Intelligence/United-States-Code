@@ -22,7 +22,7 @@ The Secretary of the Interior, acting through the Bureau of Indian Affairs, and 
 
 (2) The position of Indian Youth Programs Officer shall be established on a permanent basis at no less than the grade of GS–14 of the General Schedule.
 
-(3) In addition to other responsibilities which may be assigned to the Indian Youth Programs Officer relating to Indian Youth,<sup>2</sup> such Officer shall be responsible for—
+(3) In addition to other responsibilities which may be assigned to the Indian Youth ProgramsOfficer relating to Indian Youth,<sup>2</sup> such Officer shall be responsible for—
 
 &emsp;(A) monitoring the performance and compliance of programs of the Bureau of Indian Affairs in meeting the goals and purposes of this chapter and the Memorandum of Agreement entered into under section 2411 of this title as they relate to Indian youth efforts, and
 
@@ -38,7 +38,7 @@ The General Schedule, referred to in subsecs. (b)(1) and (c)(2), is set out unde
 
 1992—Subsec. (b)(3). Pub. L. 102–573 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Assistant Secretary of the Interior for Indian Affairs shall appoint such employees to work in the Office of Alcohol and Substance Abuse, and shall provide such services and equipment, as may be necessary to enable the Office of Alcohol and Substance Abuse to carry out its responsibilities.”
 
-1988—Subsec. (b)(1). Pub. L. 100–690, §2216(1), (2), substituted “Assistant Secretary of the Interior for” for “Assistant Secretary of” and “Assistant Secretary ofthe Interior for Indian Affairs on” for “Assistant Secretary on”.
+1988—Subsec. (b)(1). Pub. L. 100–690, §2216(1), (2), substituted “Assistant Secretary of the Interior for” for “Assistant Secretary of” and “Assistant Secretary of the Interior for Indian Affairs on” for “Assistant Secretary on”.
 
 Subsec. (b)(3). Pub. L. 100–690, §2216(3), added par. (3).
 

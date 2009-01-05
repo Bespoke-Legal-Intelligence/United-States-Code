@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall carry out, in accordance with the provisions of this section, appropriate site characterization activities at the Yucca Mountain site. The Secretary shall consider fully the comments received under subsection (b)(2) of this section and section 10132(b)(2) of this title and shall, to the maximum extent practicable and in consultation with the Governor of the State of Nevada, conduct site characterization activities in a manner that minimizes any significant adverse environmental impacts identified in such comments or in the environmental assessment submitted under subsection (b)(1) of this section.
+The Secretary shall carry out, in accordance with the provisions of this section, appropriate site characterization activities at the Yucca Mountain site. The Secretary shall consider fully the comments received under subsection (b)(2) and section 10132(b)(2) of this title and shall, to the maximum extent practicable and in consultation with the Governor of the State of Nevada, conduct site characterization activities in a manner that minimizes any significant adverse environmental impacts identified in such comments or in the environmental assessment submitted under subsection (b)(1).<sup>1</sup>
 
 #### (b) Commission and States
 
@@ -46,7 +46,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;(A) terminate all site characterization activities at such site;
 
-&emsp;(B) notify the Congress, the Governor and legislature of Nevada of such termination and the reasons for such termination;
+&emsp;(B) notify the Congress, the <sup>2</sup> Governor and legislature of Nevada of such termination and the reasons for such termination;
 
 &emsp;(C) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such site as promptly as practicable;
 
@@ -58,11 +58,13 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 #### (d) Preliminary activities
 
-Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) of this section shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>1</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
+Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>3</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
 (Pub. L. 97–425, title I, §113, Jan. 7, 1983, 96 Stat. 2211; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(e)–(g), Dec. 22, 1987, 101 Stat. 1330–228.)
 
 #### References in Text
+
+Subsection (b)(1), referred to in subsec. (a), probably means subsec. (b)(1) of section 10132 of this title, which relates to nomination of repository sites for radioactive waste and submission of environmental assessments for those sites.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
@@ -88,5 +90,9 @@ Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(3), amen
 
 “(4) If a site is determined to be unsuitable for application for a construction authorization for a repository, the Secretary shall take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities.”
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should read “Congress and the”.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “to” probably should not appear.</i>
 

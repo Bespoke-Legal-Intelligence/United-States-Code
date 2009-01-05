@@ -26,5 +26,5 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-1997—Subsec. (d). Pub. L. 105–85, which directed amendment of this section by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out “and the 60-day period referred to in subsection (e)(2)(A)(ii)” in subsec. (e), as so redesignated, was executed by striking out subsec. (d) which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
+<b>1997</b>—Subsec. (d). Pub. L. 105–85, which directed amendment of this section by striking out subsecs. (d)and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out “and the 60-day period referred to in subsection (e)(2)(A)(ii)” in subsec. (e), as so redesignated, was executed by striking out subsec. (d) which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
 

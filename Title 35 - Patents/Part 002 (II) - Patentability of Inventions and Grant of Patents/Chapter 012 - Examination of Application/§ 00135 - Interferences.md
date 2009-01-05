@@ -1,8 +1,8 @@
 ### §135. Interferences
 
-(a) Whenever an application is made for a patent which, in the opinion of the Director, would interfere with any pending application, or with any unexpired patent, an interference may be declared and the Director shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be. The Board of Patent Appeals and Interferences shall determine questions of priority of the inventions and may determine questions of patentability. Any final decision, if adverse to the claim of an applicant, shall constitute the final refusal by the Patent and Trademark Office of the claims involved, and the Director may issue a patent to the applicant who is adjudged the prior inventor. A final judgment adverse to a patentee from which no appeal or other review has been or can be taken or had shall constitute cancellation of the claims involved in the patent, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation by the Patent and Trademark Office.
+(a) Whenever an application is made for a patent which, in the opinion of the Director, would interfere with any pending application, or with any unexpired patent, an interference may bedeclared and the Director shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be. The Board of Patent Appeals and Interferences shall determine questions of priority of the inventions and may determine questions of patentability. Any final decision, if adverse to the claim of an applicant, shall constitute the final refusal by the Patent and Trademark Office of the claims involved, and the Director may issue a patent to the applicant who is adjudged the prior inventor. A final judgment adverse to a patentee from which no appeal or other review has been or can be taken or had shall constitute cancellation of the claims involved in the patent, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation by the Patent and Trademark Office.
 
-(b)(1) A claim which is the same as, or for the same or substantially the same subject matteras, a claim of an issued patent may not be made in any application unless such a claim is made prior to one year from the date on which the patent was granted.
+(b)(1) A claim which is the same as, or for the same or substantially the same subject matter as, a claim of an issued patent may not be made in any application unless such a claim is made prior to one year from the date on which the patent was granted.
 
 (2) A claim which is the same as, or for the same or substantially the same subject matter as, a claim of an application published under section 122(b) of this title may be made in an application filed after the application is published only if the claim is made before 1 year after the date on which the application is published.
 
@@ -54,7 +54,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 105 of Pub. L. 98–622 applicable to all United States patents granted before, on, or afterNov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
+Amendment by section 105 of Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
 
 Amendment by section 202 of Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of this title.
 

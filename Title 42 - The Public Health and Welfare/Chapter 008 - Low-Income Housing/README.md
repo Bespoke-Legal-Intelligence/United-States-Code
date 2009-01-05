@@ -59,6 +59,7 @@
 | 1437z–5. | Required conversion of distressed public housing to tenant-based assistance. |
 | 1437z–6. | Services for public and Indian housing residents. |
 | 1437z–7. | Mixed-finance public housing. |
+| 1437z–8. | Collection of information on tenants in tax credit projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

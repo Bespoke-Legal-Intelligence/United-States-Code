@@ -16,7 +16,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 #### (2) Controlled corporation
 
-&emsp;For purposes of paragraph (1), a corporation shall be treated as a controlled corporation if,at any time after the transfer of the property and during the 3-year period ending on the date of the decedent's death, the decedent owned (with the application of section 318), or had the right (either alone or in conjunction with any person) to vote, stock possessing at least 20 percent of the total combined voting power of all classes of stock.
+&emsp;For purposes of paragraph (1), a corporation shall be treated as a controlled corporation if, at any time after the transfer of the property and during the 3-year period ending on the date of the decedent's death, the decedent owned (with the application of section 318), or had the right (either alone or in conjunction with any person) to vote, stock possessing at least 20 percent of the total combined voting power of all classes of stock.
 
 #### (3) Coordination with section 2035
 
@@ -106,7 +106,7 @@ Section 702(i)(3) of Pub. L. 95–600 provided that: “The amendments made by t
 
 #### Effective Date of 1976 Amendment
 
-Section 2009(e)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to transfers made after June 22, 1976.”
+Section 2009(e)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers made after June 22, 1976.”
 
 #### Effective Date of 1962 Amendment
 

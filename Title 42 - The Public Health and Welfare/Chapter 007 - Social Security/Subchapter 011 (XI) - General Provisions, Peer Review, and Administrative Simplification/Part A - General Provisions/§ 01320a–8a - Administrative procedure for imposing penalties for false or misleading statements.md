@@ -68,7 +68,7 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212
 
 Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(C)\], which directed the amendment of subsec. (e) by inserting “1010A or” before “1382(e)(a)”, could not be executed because “1382(e)(a)” does not appear in text.
 
-Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting “VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
+Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)(A)\], which directed the amendment of subsec. (e) by inserting“VIII or” after “benefits under”, was executed by making the insertion after “benefits under subchapter” to reflect the probable intent of Congress.
 
 #### Effective Date of 2004 Amendment
 

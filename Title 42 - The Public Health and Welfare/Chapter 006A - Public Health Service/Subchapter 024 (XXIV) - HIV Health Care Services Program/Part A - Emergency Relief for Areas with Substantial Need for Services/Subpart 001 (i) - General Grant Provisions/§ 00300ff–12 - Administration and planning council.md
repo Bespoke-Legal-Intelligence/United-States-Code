@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(F) participate in the development of the statewide coordinated statement of need initiated by the State public health agency responsible for administering grants under part B of this subchapter;
 
-&emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities which may include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
+&emsp;&emsp;(G) establish methods for obtaining input on community needs and priorities whichmay include public meetings (in accordance with paragraph (7)), conducting focus groups, and convening ad-hoc panels; and
 
 &emsp;&emsp;(H) coordinate with Federal grantees that provide HIV-related services within the eligible area.
 
@@ -174,7 +174,7 @@
 
 #### (d) Process for establishing allocation priorities
 
-Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
+Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relatingto the relationship between epidemiological measures and health care for certain individuals with HIV/AIDS), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
 
 &emsp;(1) for establishing the number of individuals living with HIV/AIDS who are not receiving HIV-related health services; and
 
@@ -192,7 +192,7 @@ The Secretary shall provide to each chief elected official receiving a grant und
 
 #### References in Text
 
-Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C ofthis subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
+Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
 The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

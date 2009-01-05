@@ -40,7 +40,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 “(d)
 
-Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).
+Reports.—Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made inachieving the purpose of the project set forth in subsection (a)(3).
 
 “(e)
 

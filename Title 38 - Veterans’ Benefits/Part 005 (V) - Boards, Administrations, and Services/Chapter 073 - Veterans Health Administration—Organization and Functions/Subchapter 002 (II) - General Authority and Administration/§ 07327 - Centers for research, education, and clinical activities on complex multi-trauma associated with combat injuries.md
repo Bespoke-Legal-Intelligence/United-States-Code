@@ -86,7 +86,7 @@ Cooperation With Department of Defense.—(1) The Secretary of Veterans Affairs 
 
 (f)
 
-Award of Funding.—Centers designated under this section may compete for the award offunding from amounts appropriated for the Department for medical and prosthetics research.
+Award of Funding.—Centers designated under this section may compete for the award of funding from amounts appropriated for the Department for medical and prosthetics research.
 
 (g)
 
@@ -110,7 +110,45 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 (Added Pub. L. 108–422, title III, §302(a)(1), Nov. 30, 2004, 118 Stat. 2383.)
 
+#### Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations
+
+Pub. L. 110–417, \[div. A\], title VII, §723, Oct. 14, 2008, 122 Stat. 4508, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.
+
+“(b)
+
+Partnerships.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that the center collaborates with the Department of Defense, the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
+
+“(c)
+
+Responsibilities.—The center shall have the responsibilities as follows:
+
+&emsp;“(1) To implement a comprehensive plan and strategy for the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.
+
+&emsp;“(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research.
+
+&emsp;“(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.
+
+“(d)
+
+Reports.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to Congress a report on the activities of the center.
+
+&emsp;“(2)
+
+Elements.—Each report under this subsection shall include the following:
+
+&emsp;&emsp;“(A) In the case of the first report under this subsection, a description of the implementation of the requirements of this Act.
+
+&emsp;&emsp;“(B) A description and assessment of the activities of the center during the one-year period ending on the date of such report, including an assessment of the role of such activities in improving and enhancing the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.”
+
 #### Designation of Centers
 
-Pub. L. 108–422, title III, §302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries required by section 7327 of title 38, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Nov. 30, 2004\].”
+Pub. L. 108–422, title III, §302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-traumaassociated with combat injuries required by section 7327 of title 38, United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act \[Nov. 30, 2004\].”
 

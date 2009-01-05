@@ -20,7 +20,7 @@ Within four years from October 21, 1970, the Secretary of the Interior shall rev
 
 #### (d) Public use areas; preservation of rights of owner or occupant of improved property located within public use area
 
-In developing the lakeshore the Secretary shall provide public use areas in such places andmanner as he determines will not diminish the value or enjoyment for the owner or occupant of any improved property located thereon.
+In developing the lakeshore the Secretary shall provide public use areas in such places and manner as he determines will not diminish the value or enjoyment for the owner or occupant of any improved property located thereon.
 
 (Pub. L. 91–479, §6, Oct. 21, 1970, 84 Stat. 1077.)
 

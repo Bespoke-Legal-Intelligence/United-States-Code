@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 300gg of this title, referred to in subsec. (b)(1), was in the original “section 701” and was translated as reading “section 2701” meaning section 2701 of act July 1, 1944, as added by Pub. L. 104–191, §102(a), to reflect the probable intent of Congress.
+Section 300gg of this title, referred to in subsec. (b)(1), was in the original “section 701” and was translated as reading “section 2701” meaning section 2701 ofact July 1, 1944, as added by Pub. L. 104–191, §102(a), to reflect the probable intent of Congress.
 
 #### Amendments
 

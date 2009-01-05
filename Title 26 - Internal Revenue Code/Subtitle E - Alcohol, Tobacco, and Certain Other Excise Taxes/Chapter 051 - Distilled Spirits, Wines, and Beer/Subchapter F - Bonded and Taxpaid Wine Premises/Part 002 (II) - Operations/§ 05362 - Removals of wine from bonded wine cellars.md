@@ -28,7 +28,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (5) Bonded premises
 
-&emsp;For purposes of this subsection, the term “bonded premises” means a bonded wine cellaror the bonded premises of a distilled spirits plant.
+&emsp;For purposes of this subsection, the term “bonded premises” means a bonded wine cellar or the bonded premises of a distilled spirits plant.
 
 #### (c) Withdrawals of wine free of tax or without payment of tax
 
@@ -70,7 +70,7 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 &emsp;Wine withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of foreign governments, organizations, or individuals authorized to obtain wine free of tax shall not be sold and shall not be disposed of or possessed for any use other than an authorized use. The provisions of paragraphs (1)(B) and (3) of section 5043(a) are hereby extended and made applicable to any person selling, disposing of, or possessing any wine in violation of the preceding sentence, and to the wine involved in any such violation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 90–73, §1(a), Aug. 29, 1967, 81 Stat. 175; Pub. L. 94–455, title XIX, §§1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(44), July 26, 1979, 93 Stat. 287; Pub. L. 96–601, §2(a), (b), Dec. 24, 1980, 94 Stat. 3495.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 90–73, §1(a), Aug.29, 1967, 81 Stat. 175; Pub. L. 94–455, title XIX, §§1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(44), July 26, 1979, 93 Stat. 287; Pub. L. 96–601, §2(a), (b), Dec. 24, 1980, 94 Stat. 3495.)
 
 #### Prior Provisions
 

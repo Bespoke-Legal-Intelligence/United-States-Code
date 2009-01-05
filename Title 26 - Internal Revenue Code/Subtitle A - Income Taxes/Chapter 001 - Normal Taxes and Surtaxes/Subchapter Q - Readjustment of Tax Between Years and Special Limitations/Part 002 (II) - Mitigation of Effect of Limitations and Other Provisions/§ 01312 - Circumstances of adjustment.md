@@ -44,7 +44,7 @@ The circumstances under which the adjustment provided in section 1311 is authori
 
 &emsp;&emsp;&emsp;(i) the taxpayer with respect to whom the determination is made,
 
-&emsp;&emsp;&emsp;(ii) a taxpayer who acquired title to the property in the transaction and fromwhom, mediately or immediately, the taxpayer with respect to whom the determination is made derived title, or
+&emsp;&emsp;&emsp;(ii) a taxpayer who acquired title to the property in the transaction and from whom, mediately or immediately, the taxpayer with respect to whom the determination is made derived title, or
 
 &emsp;&emsp;&emsp;(iii) a taxpayer who had title to the property at the time of the transaction and from whom, mediately or immediately, the taxpayer with respect to whom the determination is made derived title, if the basis of the property in the hands of the taxpayer with respect to whom the determination is made is determined under section 1015(a) (relating to the basis of property acquired by gift).
 

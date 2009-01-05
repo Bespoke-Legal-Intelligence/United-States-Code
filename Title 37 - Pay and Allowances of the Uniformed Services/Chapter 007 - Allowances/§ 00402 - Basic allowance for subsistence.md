@@ -50,7 +50,7 @@ Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in
 
 (h)
 
-No Payment for Meals Received at Military Treatment Facilities.—(1) A member of the armed forces who is undergoing medical recuperation or therapy, or is otherwise in the status of continuous care, including outpatient care, at a military treatment facility for an injury, illness, or disease described in paragraph (2) shall not be required to pay any charge for meals provided to the member by the military treatment facility during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section.
+No Payment for Meals Received at Military Treatment Facilities.—(1) A member of the armed forces who is undergoing medical recuperation or therapy, or is otherwise in the status of continuous care, including outpatient care, at a military treatment facility for an injury, illness, or disease described in paragraph (2) shall not be required to pay any charge for meals provided to the member by the military treatment facility.
 
 (2) Paragraph (1) applies with respect to an injury, illness, or disease incurred or aggravated by a member while the member was serving on active duty—
 
@@ -58,15 +58,13 @@ No Payment for Meals Received at Military Treatment Facilities.—(1) A member o
 
 &emsp;(B) in any other operation designated by the Secretary of Defense as a combat operation or in an area designated by the Secretary as a combat zone.
 
-(3) This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2007.
-
 (i)
 
 Regulations.—(1) The Secretary of Defense shall prescribe regulations for the administration of this section. Before prescribing the regulations, the Secretary shall consult with each Secretary concerned.
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §603, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, §604, title X, §1045(b)(2), Nov. 24, 2003, 117 Stat. 1499, 1612; Pub. L. 109–163, div. A, title VI, §607(a), Jan. 6, 2006, 119 Stat. 3288; Pub. L. 109–364, div. A, title VI, §603(a), Oct. 17, 2006, 120 Stat. 2245.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §603, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, §604, title X, §1045(b)(2), Nov. 24, 2003, 117 Stat. 1499, 1612; Pub. L. 109–163, div. A, title VI, §607(a), Jan. 6, 2006, 119 Stat. 3288; Pub. L. 109–364, div. A, title VI, §603(a), Oct. 17, 2006, 120 Stat. 2245; Pub. L. 110–181, div. A, title VI, §614(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §602, Oct. 14, 2008, 122 Stat. 4483.)
 
 Historical and Revision Notes
 
@@ -146,6 +144,12 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 #### Amendments
 
+2008—Subsec. (h)(1). Pub. L. 110–417, §602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
+
+Subsec. (h)(3). Pub. L. 110–417, §602(2), struck out par. (3) which read as follows: “This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2008.”
+
+Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+
 2006—Subsec. (h). Pub. L. 109–163, §607(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (h)(3). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
@@ -216,6 +220,10 @@ Subsecs. (d) to (f). Pub. L. 93–419, §3(4), (5), struck out subsec. (d) which
 
 1966—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to various special provisions, see section 610 of Pub. L. 110–181, set out as a Correction of Lapsed Authorities for Payment of Bonuses, Special Pays, and Similar Benefits for Members of the Uniformed Services note under section 2130a of Title 10, Armed Forces.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
@@ -260,7 +268,7 @@ Pub. L. 96–343, §7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective
 
 #### Regulations Relating to Subsistence Allowance
 
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973,formerly set out as a note under section 301 of this title.
 
 #### Executive Order No. 10119
 

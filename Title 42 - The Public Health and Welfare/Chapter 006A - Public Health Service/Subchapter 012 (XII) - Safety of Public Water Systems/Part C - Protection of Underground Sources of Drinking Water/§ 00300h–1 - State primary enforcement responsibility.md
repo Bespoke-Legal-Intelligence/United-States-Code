@@ -34,7 +34,7 @@ If the Administrator disapproves a State's program (or part thereof) under subse
 
 #### (d) “Applicable underground injection control program” defined
 
-For purposes of this subchapter, the term “applicable underground injection control program” with respect to a State means the program (or most recent amendment thereof) (1) which has been adopted by the State and which has been approved under subsection (b) of this section, or (2) which has been prescribed by theAdministrator under subsection (c) of this section.
+For purposes of this subchapter, the term “applicable underground injection control program” with respect to a State means the program (or most recent amendment thereof) (1) which has been adopted by the State and which has been approved under subsection (b) of this section, or (2) which has been prescribed by the Administrator under subsection (c) of this section.
 
 #### (e) Primary enforcement responsibility by Indian Tribe
 

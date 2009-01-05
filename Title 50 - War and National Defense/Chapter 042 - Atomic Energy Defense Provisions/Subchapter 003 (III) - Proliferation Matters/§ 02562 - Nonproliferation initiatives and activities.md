@@ -36,7 +36,7 @@
 
 (6) Funds appropriated for the Initiatives for Proliferation Prevention program may not be used to pay any tax or customs duty levied by the government of the Russian Federation. In the event payment of such a tax or customs duty with such funds is unavoidable, the Secretary of Energy shall—
 
-&emsp;(A) after such payment, submit a report to the congressional defense committees explaining the particular circumstances making such payment under the Initiatives for Proliferation Prevention program with such funds unavoidable; and
+&emsp;(A) after such payment, submit a report to the congressional defense committees explaining the particular circumstances making suchpayment under the Initiatives for Proliferation Prevention program with such funds unavoidable; and
 
 &emsp;(B) ensure that sufficient additional funds are provided to the Initiatives for Proliferation Prevention Program <sup>1</sup> to offset the amount of such payment.
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) A strategic plan for the Initiatives for Proliferation Prevention program and for the Nuclear Cities Initiative, which shall establish objectives for the program or initiative, as the case may be, and means for measuring the achievement of such objectives.
 
-&emsp;(B) A list of the most successful projects under the Initiatives for Proliferation Prevention program, including for each such project the name of the institute and scientists whoare participating or have participated in the project, the number of jobs created through the project, and the manner in which the project has met the nonproliferation objectives of the United States.
+&emsp;(B) A list of the most successful projects under the Initiatives for Proliferation Prevention program, including for each such project the name of the institute and scientists who are participating or have participated in the project, the number of jobs created through the project, and the manner in which the project has met the nonproliferation objectives of the United States.
 
 &emsp;(C) A list of the institutes and scientists associated with weapons of mass destruction programs or other defense-related programs in the states of the former Soviet Union that the Department seeks to engage in commercial work under the Initiatives for Proliferation Prevention program or the Nuclear Cities Initiative, including—
 
@@ -82,7 +82,7 @@ This title, referred to in subsec. (b)(2), probably means title XXXI of Pub. L. 
 
 #### Amendments
 
-2003—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–136, §3141(f)(3)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65)” for “this title”.
 
 <i><sup>1</sup></i><i> So in original. Initial letter probably should be lower case.</i>
 

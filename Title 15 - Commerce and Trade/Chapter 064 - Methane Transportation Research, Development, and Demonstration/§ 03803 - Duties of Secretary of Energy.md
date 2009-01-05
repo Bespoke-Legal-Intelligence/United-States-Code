@@ -44,7 +44,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 (4) The Secretary of Energy also shall include in the report required by section 3808 <sup>1</sup> of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
 
-(5) Further, the Secretary of Energy in each annual budget submission to the Congress, oramendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
+(5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
 (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 

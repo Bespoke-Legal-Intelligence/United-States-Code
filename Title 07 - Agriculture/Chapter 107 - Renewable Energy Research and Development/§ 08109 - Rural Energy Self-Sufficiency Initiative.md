@@ -1,0 +1,84 @@
+### §8109. Rural Energy Self-Sufficiency Initiative
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Eligible rural community
+
+&emsp;The term “eligible rural community” means a community located in a rural area (as defined in section 1991(a)(13)(A) of this title).
+
+#### (2) Initiative
+
+&emsp;The term “Initiative” means the Rural Energy Self-Sufficiency Initiative established under this section.
+
+#### (3) Integrated renewable energy system
+
+&emsp;The term “integrated renewable energy system” means a community-wide energy system that—
+
+&emsp;&emsp;(A) reduces conventional energy use; and
+
+&emsp;&emsp;(B) increases the use of energy from renewable sources.
+
+#### (b) Establishment
+
+The Secretary shall establish a Rural Energy Self-Sufficiency Initiative to provide financial assistance for the purpose of enabling eligible rural communities to substantially increase the energy self-sufficiency of the eligible rural communities.
+
+#### (c) Grant assistance
+
+#### (1) In general
+
+&emsp;The Secretary shall make grants available under the Initiative to eligible rural communities to carry out an activity described in paragraph (2).
+
+#### (2) Use of grant funds
+
+&emsp;An eligible rural community may use a grant—
+
+&emsp;&emsp;(A) to conduct an energy assessment that assesses the total energy use of all energy users in the eligible rural community;
+
+&emsp;&emsp;(B) to formulate and analyze ideas for reducing energy usage by the eligible rural community from conventional sources; and
+
+&emsp;&emsp;(C) to develop and install an integrated renewable energy system.
+
+#### (3) Grant selection
+
+#### (A) Application
+
+&emsp;&emsp;To be considered for a grant, an eligible rural community shall submit an application to the Secretary that describes the ways in which the community would use the grant to carry out an activity described in paragraph (2).
+
+#### (B) Preference
+
+&emsp;&emsp;The Secretary shall give preference to those applications that propose to carry out an activity in coordination with—
+
+&emsp;&emsp;&emsp;(i) institutions of higher education or nonprofit foundations of institutions of higher education;
+
+&emsp;&emsp;&emsp;(ii) Federal, State, or local government agencies;
+
+&emsp;&emsp;&emsp;(iii) public or private power generation entities; or
+
+&emsp;&emsp;&emsp;(iv) government entities with responsibility for water or natural resources.
+
+#### (4) Report
+
+&emsp;An eligible rural community receiving a grant under the Initiative shall submit to the Secretary a report on the project of the eligible rural community.
+
+#### (5) Cost-sharing
+
+&emsp;The amount of a grant under the Initiative shall not exceed 50 percent of the cost of the activities described in the application.
+
+#### (d) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2009 through 2012.
+
+(Pub. L. 107–171, title IX, §9009, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1324, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2085.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+
+A prior section 8109, Pub. L. 107–171, title IX, §9011, as added Pub. L. 108–199, div. A, title VII, §778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8114 of this title.
+
+A prior section 9009 of Pub. L. 107–171 amended section 6711 of this title.
+

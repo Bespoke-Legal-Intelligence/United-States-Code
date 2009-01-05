@@ -24,7 +24,7 @@ For purposes of this section, the term “qualified disaster” means—
 
 &emsp;(1) a disaster which results from a terroristic or military action (as defined in section 692(c)(2)),
 
-&emsp;(2) a Presidentially declared disaster (as defined in section 1033(h)(3)),
+&emsp;(2) federally <sup>1</sup> declared disaster (as defined by section 165(h)(3)(C)(i)),
 
 &emsp;(3) a disaster which results from an accident involving a common carrier, or from any other event, which is determined by the Secretary to be of a catastrophic nature, or
 
@@ -40,7 +40,7 @@ Subsections (a), (f), and (g) shall not apply with respect to any individual ide
 
 #### (f) Exclusion of certain additional payments
 
-Gross income shall not include any amount received as payment under section 406 of the AirTransportation Safety and System Stabilization Act.
+Gross income shall not include any amount received as payment under section 406 of the Air Transportation Safety and System Stabilization Act.
 
 #### (g) Qualified disaster mitigation payments
 
@@ -60,7 +60,7 @@ Gross income shall not include any amount received as payment under section 406 
 
 Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
 
-(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21.)
+(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922.)
 
 #### References in Text
 
@@ -78,11 +78,17 @@ A prior section 139 was renumbered section 140 of this title.
 
 #### Amendments
 
+2008—Subsec. (c)(2). Pub. L. 110–343 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a Presidentially declared disaster (as defined in section 1033(h)(3)),”.
+
 2005—Subsec. (d). Pub. L. 109–7, §1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
 
 Subsec. (e). Pub. L. 109–7, §1(a)(2)(B), substituted “, (f), and (g)” for “and (f)”.
 
 Subsecs. (g), (h). Pub. L. 109–7, §1(a)(1), added subsecs. (g) and (h).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -90,5 +96,7 @@ Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: “The a
 
 #### Effective Date
 
-Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by this section \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
+Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: “The amendments made by thissection \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
 

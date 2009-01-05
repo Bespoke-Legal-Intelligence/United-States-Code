@@ -20,7 +20,7 @@ Pub. L. 109–2, §7, Feb. 18, 2005, 119 Stat. 13, provided that: “Notwithstan
 
 #### Modification of Amendments to Federal Rules of Criminal Procedure Proposed April 29, 2002; Effective Date
 
-Pub. L. 107–273, div. C, title I, §11019(a), Nov. 2, 2002, 116 Stat. 1825, provided that: “The proposed amendments to the Federal Rules of Criminal Procedure that are embraced by an order entered by the Supreme Court of the United States on April 29, 2002, shall take effect on December 1, 2002, as otherwise provided by law, but with the amendments made in subsection (b) \[amending Rule 16 of the Federal Rules of Criminal Procedure\].”
+Pub. L. 107–273, div. C, title I, §11019(a), Nov. 2, 2002, 116 Stat. 1825, provided that: “The proposed amendments to the Federal Rules of Criminal Procedure thatare embraced by an order entered by the Supreme Court of the United States on April 29, 2002, shall take effect on December 1, 2002, as otherwise provided by law, but with the amendments made in subsection (b) \[amending Rule 16 of the Federal Rules of Criminal Procedure\].”
 
 #### Modification of Amendments to Federal Rules of Evidence Proposed April 29, 1994; Effective Date
 
@@ -78,7 +78,7 @@ Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: “That notwithstanding 
 
 Pub. L. 96–42, July 31, 1979, 93 Stat. 326, provided: “That notwithstanding any provision of section 3771 or 3772 of title 18 of the United States Code or of section 2072, 2075, or 2076 of title 28 of the United States Code to the contrary—
 
-&emsp;“(1) the amendments proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, to the Federal Rules of Criminal Procedure affecting rules 11(e)(6), 17(h), 32(f), and44(c), and adding new rules 26.2 and 32.1, and the amendment so proposed and transmitted to the Federal Rules of Evidence affecting rule 410, shall not take effect until December 1, 1980, or until and then only to the extent approved by Act of Congress, whichever is earlier; and
+&emsp;“(1) the amendments proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, to the Federal Rules of Criminal Procedure affecting rules 11(e)(6), 17(h), 32(f), and 44(c), and adding new rules 26.2 and 32.1, and the amendment so proposed and transmitted to the Federal Rules of Evidence affecting rule 410, shall not take effect until December 1, 1980, or until and then only to the extent approved by Act of Congress, whichever is earlier; and
 
 &emsp;“(2) the amendment proposed by the United States Supreme Court and transmitted by the Chief Justice on April 30, 1979, affecting rule 40 of the Federal Rules of Criminal Procedure shall take effect on August 1, 1979, with the following amendments:
 
@@ -100,7 +100,7 @@ Pub. L. 95–78, §4, July 30, 1977, 91 Stat. 322, provided that:
 
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings for United States District Courts
 
-Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
+Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved withthe amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
 
 #### Amendments to Criminal Rules Under Supreme Court Order of April 26, 1976; Postponement of Effective Date
 
@@ -124,5 +124,5 @@ Pub. L. 93–361, July 30, 1974, 88 Stat. 397, provided: “That, notwithstandin
 
 #### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civil Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
 
-Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided: “That notwithstanding any other provisions of law, the Rules of Evidence for United States Courts and Magistrates,the Amendments to the Federal Rules of Civil Procedure, and the Amendments to the Federal Rules of Criminal Procedure, which are embraced by the orders entered by the Supreme Court of the United States on Monday, November 20, 1972, and Monday, December 18, 1972, shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by the Act of Congress.”
+Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided: “That notwithstanding any other provisions of law, the Rules of Evidence for United States Courts and Magistrates, the Amendments to the Federal Rules of Civil Procedure, and the Amendments to the Federal Rules of Criminal Procedure, which are embraced by the orders entered by the Supreme Court of the United States on Monday, November 20, 1972, and Monday, December 18, 1972, shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by the Act of Congress.”
 

@@ -14,25 +14,15 @@ To be eligible for insurance under this section a mortgage shall comply with the
 
 &emsp;&emsp;(A) not to exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) in the case of a 1-family residence, 95 percent of the median 1-family house price in the area, as determined by the Secretary; in the case of a 2-family residence, 107 percent of such median price; in the case of a 3-family residence, 130 percent of such median price; or in the case of a 4-family residence, 150 percent of such median price; or
+&emsp;&emsp;&emsp;(i) in the case of a 1-family residence, 115 percent of the median 1-family house price in the area, as determined by the Secretary; and in the case of a 2-, 3-, or 4-family residence, the percentage of such median price that bears the same ratio to such median price as the dollar amount limitation determined under the sixth sentence of section 1454(a)(2) of this title for a 2-, 3-, or 4-family residence, respectively, bears to the dollar amount limitation determined under such section for a 1-family residence; or
 
-&emsp;&emsp;&emsp;(ii) 87 percent of the dollar amount limitation determined under section 1454(a)(2) of this title for a residence of the applicable size; except that the dollar amount limitation in effect for any area under this subparagraph may not be less than the greater of the dollar amount limitation in effect under this section for the area on October 21, 1998, or 48 percent of the dollar limitation determined under section 1454(a)(2) of this title for a residence of the applicable size; and
+&emsp;&emsp;&emsp;(ii) 150 percent of the dollar amount limitation determined under the sixth sentence of such section 1454(a)(2) for a residence of applicable size;
 
-&emsp;&emsp;(B) not to exceed an amount equal to the sum of—
+> &emsp;&emsp;except that the dollar amount limitation in effect under this subparagraph for any size residence for any area may not be less than the greater of: (I) the dollar amount limitation in effect under this section for the area on October 21, 1998; or (II) 65 percent of the dollar amount limitation determined under the sixth sentence of such section 1454(a)(2) for a residence of the applicable size; and
 
-&emsp;&emsp;&emsp;(i) the amount of the mortgage insurance premium paid at the time the mortgage is insured; and
+&emsp;&emsp;(B) not to exceed 100 percent of the appraised value of the property.
 
-&emsp;&emsp;&emsp;(ii) in the case of—
-
-&emsp;&emsp;&emsp;&emsp;(I) a mortgage for a property with an appraised value equal to or less than $50,000, 98.75 percent of the appraised value of the property;
-
-&emsp;&emsp;&emsp;&emsp;(II) a mortgage for a property with an appraised value in excess of $50,000 but not in excess of $125,000, 97.65 percent of the appraised value of the property;
-
-&emsp;&emsp;&emsp;&emsp;(III) a mortgage for a property with an appraised value in excess of $125,000, 97.15 percent of the appraised value of the property; or
-
-&emsp;&emsp;&emsp;&emsp;(IV) notwithstanding subclauses (II) and (III), a mortgage for a property with an appraised value in excess of $50,000 that is located in an area of the State for which the average closing cost exceeds 2.10 percent of the average, for the State, of the sale price of properties located in the State for which mortgages have beenexecuted, 97.75 percent of the appraised value of the property.
-
-> &emsp;For purposes of the preceding sentence, the term “area” means a metropolitan statistical area as established by the Office of Management and Budget; and the median 1-family house price for an area shall be equal to the median 1-family house price of the county within the area that has the highest such median price. For purposes of this paragraph, the term “average closing cost” means, with respect to a State, the average, for mortgages executed for properties that are located within the State, of the total amounts (as determined by the Secretary) of initial service charges, appraisal, inspection, and other fees (as the Secretary shall approve) that are paid in connection with such mortgages. Notwithstanding any other provision of this section, in any case where the dwelling is not approved for mortgage insurance prior to the beginning of construction, such mortgage shall not exceed 90 per centum of the entire appraised value of the property as of the date the mortgage is accepted for insurance, unless (i) the dwelling was completed more than one year prior to the application for mortgage insurance, or (ii) the dwelling was approved for guaranty, insurance, or a direct loan under chapter 37 of title 38 prior to the beginning of construction, or (iii) the dwelling is covered by a consumer protection or warranty plan acceptable to the Secretary and satisfies all requirements which would have been applicable if such dwelling had been approved for mortgage insurance prior to the beginning of construction. As used herein, the term “veteran” means any person who served on active duty in the armed forces of the United States for a period of not less than ninety days (or is certified by the Secretary of Defense as having performed extra-hazardous service), and who was discharged or released therefrom under conditions other than dishonorable, except that persons enlisting in the armed forces after September 7, 1980, or entering active duty after October 16, 1981, shall have their eligibility determined in accordance with section 5303A(d) of title 38. Notwithstanding any other provision of this paragraph, the amount which may be insured under this section may be increased by up to 20 percent if such increase is necessary to account for the increased cost of the residence due to the installation of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) therein.
+> &emsp;For purposes of the preceding sentence, the term “area” means a metropolitan statistical area as established by the Office of Management and Budget; and the median 1-family house price for an area shall be equal to the median 1-family house price of the county within the area that has the highest such median price. Notwithstanding any other provision of this paragraph, the amount which may be insured under this section may be increased by up to 20 percent if such increase is necessary to account for the increased cost of the residence due to the installation of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) therein.
 
 &emsp;Notwithstanding any other provision of this paragraph, the Secretary may not insure, or enter into a commitment to insure, a mortgage under this section that is executed by a first-time homebuyer and that involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property unless the mortgagor has completed a program of counseling with respect to the responsibilities and financial management involved in homeownership that is approved by the Secretary; except that the Secretary may, in the discretion of the Secretary, waive the applicability of this requirement.
 
@@ -48,25 +38,51 @@ To be eligible for insurance under this section a mortgage shall comply with the
 
 &emsp;(8) Repealed. Pub. L. 100–242, title IV, §406(b)(2), Feb. 5, 1988, 101 Stat. 1900.
 
-&emsp;(9) Be executed by a mortgagor who shall have paid on account of the property (except with respect to a mortgage executed by a mortgagor who is a veteran) at least 3 per centum, or such larger amount as the Secretary may determine, of the Secretary's estimate of the cost of acquisition (excluding the mortgage insurance premium paid at the time the mortgage is insured) in cash or its equivalent: <i>Provided</i>, That with respect to a mortgage executed by a mortgagor who is sixty years of age or older as of the date the mortgage is endorsed for insurance or with respect to a mortgage meeting the requirements of subsection (i) of this section, or with respect to a mortgage covering a single-family home being purchased under the low-income housing demonstration project assisted pursuant to section 1436 <sup>1</sup> of title 42, or with respect to a mortgage covering a housing unit in connection with a homeownership program under the Homeownership and Opportunity Through HOPE Act, the mortgagor's payment required by this subsection may be paid by a corporation or person other than the mortgagor under such terms and conditions as the Secretary may prescribe: <i>Provided further</i>, That for purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in section 1707 of this title), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, such lien shall be subordinate to the mortgage and the sum of the principal obligation of the mortgage and the obligation secured by such lien may not exceed 100 percent of the appraised value of the property plus any initial service charges, appraisal, inspection, and other fees in connection with the mortgage.
+&emsp;(9)
+
+Cash investment requirement.—
+
+&emsp;&emsp;(A)
+
+In general.—A mortgage insured under this section shall be executed by a mortgagor who shall have paid, in cash or its equivalent, on account of the property an amount equal to not less than 3.5 percent of the appraised value of the property or such larger amount as the Secretary may determine.
+
+&emsp;&emsp;(B)
+
+Family members.—For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in section 1707 of this title), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, that—
+
+&emsp;&emsp;&emsp;(i) such lien shall be subordinate to the mortgage; and
+
+&emsp;&emsp;&emsp;(ii) the sum of the principal obligation of the mortgage and the obligation secured by such lien may not exceed 100 percent ofthe appraised value of the property plus any initial service charges, appraisal, inspection, and other fees in connection with the mortgage.
+
+&emsp;&emsp;(C)
+
+Prohibited sources.—In no case shall the funds required by subparagraph (A) consist, in whole or in part, of funds provided by any of the following parties before, during, or after closing of the property sale:
+
+&emsp;&emsp;&emsp;(i) The seller or any other person or entity that financially benefits from the transaction.
+
+&emsp;&emsp;&emsp;(ii) Any third party or entity that is reimbursed, directly or indirectly, by any of the parties described in clause (i).
+
+> &emsp;&emsp;This subparagraph shall apply only to mortgages for which the mortgagee has issued credit approval for the borrower on or after October 1, 2008.
 
 #### (c) Premium charges
 
-(1) The Secretary is authorized to fix premium charges for the insurance of mortgages under the separate sections of this subchapter but in the case of any mortgage such charge shall be not less than an amount equivalent to one-fourth of 1 per centum per annum nor more than an amount equivalent to 1 per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments: <i>Provided</i>, That premium charges fixed for insurance (1) under section 1715z–10, 1715z–12, 1715z–16, 1715z–17, or 1715z–18 of this title, or any other financing mechanism providing alternative methods for repayment of a mortgage that is determined by the Secretary to involve additional risk, or (2) under subsection (n) of this section are not required to be the same as the premium charges for mortgages insured under the other provisions of this section, but in no case shall premium charges under subsection (n) of this section exceed 1 per centum per annum: <i>Provided</i>, That any reduced premium charge so fixed and computed may, in the discretion of the Secretary, also be made applicable in such manner as the Secretary shall prescribe to each insured mortgage outstanding under the section or sections involved at the time the reduced premium charge is fixed. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That debentures presented in payment of premium charges shall represent obligations of the particular insurance fund or account to which such premium charges are to be credited: <i>Provided further</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds upon the presentation of a mortgage for insurance and the tender of the initial premium charge or charges so required that the mortgage complies with the provisions of this section, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe; but no mortgage shall be accepted for insurance under this section unless the Secretary finds that the project with respect to which the mortgage is executed is economically sound. In the event that the principal obligation of any mortgage accepted for insurance is paid in full prior to the maturity date, the Secretary is further authorized in his discretion to require the payment by the mortgagee of an adjusted premium charge in such amount as the Secretary determines to be equitable, but not in excess of the aggregate amount of the premium charges that the mortgagee would otherwise have been required to pay if the mortgage had continued to be insured under this section until such maturity date; and in the event that the principal obligation is paid in full as herein set forth the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid: <i>Provided</i>, That with respect to mortgages (1) for which the Secretary requires, at the time the mortgage is insured, the payment of a single premium charge to cover the total premium obligation for the insurance of the mortgage, and (2) on which the principal obligation is paid before the number of years on which the premium with respect to a particular mortgage was based, or the property is sold subject to the mortgage or is sold and the mortgage is assumed prior to such time, the Secretary shall provide for refunds, where appropriate, of a portion of the premium paid and shall provide for appropriate allocation of the premium cost among the mortgagors over the term of the mortgage, in accordance with procedures established by the Secretary which take into account sound financial and actuarial considerations.
+(1) The Secretary is authorized to fix premium charges for the insurance of mortgages under the separate sections of this subchapter but in the case of any mortgage such charge shall be not less than an amount equivalent to one-fourth of 1 per centum per annum nor more than an amount equivalent to 1 per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments: <i>Provided</i>, That premium charges fixed for insurance (1) under section 1715z–10,<sup>1</sup> 1715z–12, 1715z–16, 1715z–17, or 1715z–18 of this title, or any other financing mechanism providing alternative methods for repayment of a mortgage that is determined by the Secretary to involve additional risk, or (2) under subsection (n) of this section are not required to be the same as the premium charges for mortgages insured under the other provisions of this section, but in no case shall premium charges under subsection (n) of this section exceed 1 per centum per annum: <i>Provided</i>, That any reduced premium charge so fixed and computed may, in the discretion of the Secretary, also be made applicable in such manner as the Secretary shall prescribe to each insured mortgage outstanding under the section or sections involved at the time the reduced premium charge is fixed. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That debentures presented in payment of premium charges shall represent obligations of the particular insurance fund or account to which such premium charges are to be credited: <i>Provided further</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds upon the presentation of a mortgage for insurance and the tender of the initial premium charge or charges so required that the mortgage complies with the provisions of this section, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe; but no mortgage shall be accepted for insurance under this section unless the Secretary finds that the project with respect to which the mortgage is executed is economically sound. In the event that the principal obligation of any mortgage accepted for insurance is paid in full prior to the maturity date, the Secretary is further authorized in his discretion to require the payment by the mortgagee of an adjusted premium charge in such amount as the Secretary determines to be equitable, but not in excess of the aggregate amount of the premium charges that the mortgagee would otherwise have been required to pay if the mortgage had continued to be insured under this section until such maturity date; and in the event that the principal obligation is paid in full as herein set forth the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid: <i>Provided</i>, That with respect to mortgages (1) for which the Secretary requires, at the time the mortgage is insured, the payment of a single premium charge to cover the total premium obligation for the insurance of the mortgage, and (2) on which the principal obligation is paid before the number of years on which the premium with respect to a particular mortgage was based, or the property is sold subject to the mortgage or is sold and the mortgage is assumed prior to such time, the Secretary shall provide for refunds, where appropriate, of a portion of the premium paid and shall provide for appropriate allocation of the premium cost among the mortgagors over the term of the mortgage, in accordance with procedures established by the Secretary which take into account sound financial and actuarial considerations.
 
-(2) Notwithstanding any other provision of this section, each mortgage secured by a 1- to 4-family dwelling that is an obligation of the Mutual Mortgage Insurance Fund or of the General Insurance Fund pursuant to subsection (v) of this section and each mortgage that is insured under subsection (k) of this section or section 1715y(c) of this title,,<sup>2</sup> shall be subject to the following requirements:
+(2) Notwithstanding any other provision of this section, each mortgage secured by a 1- to 4-family dwelling that is an obligation of the Mutual Mortgage Insurance Fund shall be subject to the following requirements:
 
-&emsp;(A) The Secretary shall establish and collect, at the time of insurance, a single premium payment in an amount not exceeding 2.25 percent of the amount of the original insured principal obligation of the mortgage. In the case of a mortgage for which the mortgagor is a first-time homebuyer who completes a program of counseling with respect to the responsibilities and financial management involved in homeownership that is approved by the Secretary, the premium payment under this subparagraph shall not exceed 2.0 percent of the amount of the original insured principal obligation of the mortgage. Upon payment in full of the principal obligation of a mortgage prior to the maturity date of the mortgage, the Secretary shall refund all of the unearned premium charges paid on the mortgage pursuant to this subparagraph, provided that the mortgagor refinances the unpaid principal obligation under this subchapter.
+&emsp;(A) The Secretary shall establish and collect, at the time of insurance, a single premium payment in an amount not exceeding 3 percent of the amount of the original insured principal obligation of the mortgage. In the case of a mortgage for which the mortgagor is a first-time homebuyer who completes a program of counseling with respect to the responsibilities and financial management involved in homeownership that is approved by the Secretary, the premium payment under this subparagraph shall not exceed 2.75 percent of the amount of the original insured principal obligation of the mortgage. Upon payment in full of the principal obligation of a mortgage prior to the maturity date of the mortgage, the Secretary shall refund all of the unearned premium charges paid on the mortgage pursuant to this subparagraph, provided that the mortgagor refinances the unpaid principal obligation under this subchapter.
 
-&emsp;(B) In addition to the premium under subparagraph (A), the Secretary shall establish and collect annual premium payments in an amount not exceeding 0.50 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments) for the following periods:
+&emsp;(B) In addition to the premium under subparagraph (A), the Secretary shall establish and collect annual premium payments in anamount not exceeding 0.50 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments) for the following periods:
 
-&emsp;&emsp;(i) For any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is less than 90 percent of the appraised value ofthe property (as of the date the mortgage is accepted for insurance), for the first 11 years of the mortgage term.
+&emsp;&emsp;(i) For any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is less than 90 percent of the appraised value of the property (as of the date the mortgage is accepted for insurance), for the first 11 years of the mortgage term.
 
 &emsp;&emsp;(ii) For any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is greater than or equal to 90 percent of such value, for the first 30 years of the mortgage term; except that notwithstanding the matter preceding clause (i), for any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is greater than 95 percent of such value, the annual premium collected during the 30-year period under this clause shall be in an amount not exceeding 0.55 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
 
 #### (d) Increase in maximum amount of mortgage
 
-Notwithstanding any provision of this subchapter governing maximum mortgage amounts for insuring a mortgage secured by a one- to four-family dwelling, the maximum amount of the mortgage determined under any such provision may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
+(1) Except as provided in paragraph (2) of this subsection, notwithstanding <sup>2</sup> provision of this subchapter governing maximum mortgage amounts for insuring a mortgage secured by a one- to four-family dwelling, the maximum amount of the mortgage determined under any such provision may be increased by the amount of the mortgage insurance premium paid at the time the mortgage is insured.
+
+(2) The maximum amount of a mortgage determined under subsection (b)(2)(B) of this section may not be increased as provided in paragraph (1).
 
 #### (e) Contract of insurance as evidence of eligibility
 
@@ -98,21 +114,19 @@ Any contract of insurance heretofore or hereafter executed by the Secretary unde
 
 &emsp;(C) an Indian tribe, as provided in section 1715z–13 of this title;
 
-&emsp;(D) a serviceperson who is unable to meet such requirement because of his or her duty assignment, as provided in section 1715g of this title or subsection (b)(4) or (f) of section 1715m of this title;
+&emsp;(D) a serviceperson who is unable to meet such requirement because of his or her duty assignment, as provided in section 1715g of this title or subsection (b)(4) or (f) of section 1715m <sup>1</sup> of this title;
 
 &emsp;(E) a mortgagor or co-mortgagor under subsection (k) of this section; or
 
-&emsp;(F) a mortgagor that, pursuant to section 1715n(a)(7) of this title, is refinancing an existing mortgage insured under this chapter for not more than the outstanding balance of the existing mortgage, if the amount of the monthly payment due under the refinancing mortgage is less than the amount due under the existing mortgage for the month in which the refinancing mortgage is executed.
+&emsp;(F) a mortgagor that, pursuant to section 1715n(a)(7) of this title, is refinancing an existing mortgage insured under this chapter fornot more than the outstanding balance of the existing mortgage, if the amount of the monthly payment due under the refinancing mortgage is less than the amount due under the existing mortgage for the month in which the refinancing mortgage is executed.
 
 (3) For purposes of this subsection, the term “substitute mortgagor” means a person who, upon the release by a mortgagee of a previous mortgagor from personal liability on the mortgage note, assumes such liability and agrees to pay the mortgage debt.
 
 #### (h) Disaster housing
 
-Notwithstanding any other provision of this section, the Secretary is authorized to insureany mortgage which involves a principal obligation not in excess of the applicable maximum dollar limit under subsection (b) of this section and not in excess of 100 per centum of the appraised value of a property upon which there is located a dwelling designed principally for a single-family residence, where the mortgagor establishes (to the satisfaction of the Secretary) that his home which he occupied as an owner or as a tenant was destroyed or damaged to such an extent that reconstruction is required as a result of a flood, fire, hurricane, earthquake, storm, or other catastrophe which the President, pursuant to sections 5122(2) and 5170 of title 42, has determined to be a major disaster.
+Notwithstanding any other provision of this section, the Secretary is authorized to insure any mortgage which involves a principal obligation not in excess of the applicable maximum dollar limit under subsection (b) of this section and not in excess of 100 per centum of the appraised value of a property upon which there is located a dwelling designed principally for a single-family residence, where the mortgagor establishes (to the satisfaction of the Secretary) that his home which he occupied as an owner or as a tenant was destroyed or damaged to such an extent that reconstruction is required as a result of a flood, fire, hurricane, earthquake, storm, or other catastrophe which the President, pursuant to sections 5122(2) and 5170 of title 42, has determined to be a major disaster.
 
-#### (i) Single-family housing in outlying areas
-
-The Secretary is authorized to insure under this section any mortgage meeting the requirements of subsection (b) of this section, except as modified by this subsection, which involves a principal obligation not in excess of 75 per centum of the limit on the principal obligation applicable to a one-family residence under subsection (b) of this section and not in excess of 97 per centum (or, in any case where the dwelling is not approved for mortgage insurance prior to the beginning of construction, unless the construction of the dwelling was completed more than one year prior to the application for mortgage insurance or the dwelling was approved for guaranty, insurance, or direct loan under chapter 37 of title 38 prior to the beginning of construction, 90 per centum) of the appraised value of a property located in an area where the Secretary finds it is not practicable to obtain conformity with many of the requirements essential to the insurance of mortgages on housing in built-up urban areas, upon which there is located a dwelling designed principally for a single-family residence: <i>Provided</i>, That the Secretary finds that the property with respect to which the mortgage is executed is an acceptable risk, giving consideration to the need for providing adequate housing for families of low and moderate income particularly in suburban and outlying areas or small communities: <i>Provided further</i>, That under the foregoing provisions of this subsection the Secretary is authorized to insure any mortgage issued with respect to a farm home on a plot of land two and one-half or more acres in size adjacent to an all-weather public road.
+#### (i) Repealed. Pub. L. 110–289, div. B, title I, §2120(a)(1), July 30, 2008, 122 Stat. 2835
 
 #### (j) Real estate loans by national banks
 
@@ -120,7 +134,7 @@ Loans secured by mortgages insured under this section shall not be taken into ac
 
 #### (k) Rehabilitation of one- to four-family structures; definitions; eligibility; refinancing and extension; General Insurance Fund
 
-(1) The Secretary may, in order to assist in the rehabilitation of one- to four-family structures used primarily for residential purposes, insure and make commitments to insure rehabilitation loans (including advances made during rehabilitation) made by financial institutions on and after 180 days following October 31, 1978. Such commitments to insure and such insurance shall be made upon such terms and conditions which the Secretary may prescribe and which are consistent with the provisions of subsections (b), (c), (e), (i), and (j) of this section, except as modified by the provisions of this subsection.
+(1) The Secretary may, in order to assist in the rehabilitation of one- to four-family structures used primarily for residential purposes, insure and make commitments to insure rehabilitation loans (including advances made during rehabilitation) made by financial institutions. Such commitments to insure and such insurance shall be made upon such terms and conditions which the Secretary may prescribe and which are consistent with the provisions of subsections (b), (c), (e), (i),<sup>1</sup> and (j) of this section, except as modified by the provisions of this subsection.
 
 (2) For the purpose of this subsection—
 
@@ -146,7 +160,7 @@ Loans secured by mortgages insured under this section shall not be taken into ac
 
 (4) Any rehabilitation loan insured under this subsection may be refinanced and extended in accordance with such terms and conditions as the Secretary may prescribe, but in no event for an additional amount or term which exceeds the maximum provided for in this subsection.
 
-(5) All funds received and all disbursements made pursuant to the authority established bythis subsection shall be credited or charged, as appropriate, to the General Insurance Fund, and insurance benefits shall be paid in cash out of such Fund or in debentures executed in the name of such Fund. Insurance benefits paid with respect to loans secured by a first mortgage and insured under this subsection shall be paid in accordance with section 1710 of this title, except that all references in section 1710 of this title to the Mutual Mortgage Insurance Fund shall be construed as referring to the General Insurance Fund. Insurance benefits paid with respect to loans secured by a mortgage other than a first mortgage and insured under this subsection shall be paid in accordance with paragraphs (6) and (7) of section 1715k(h) of this title, except that reference to “this subsection” in such paragraphs shall be construed as referring to this subsection.
+(5) All funds received and all disbursements made pursuant to the authority established by this subsection shall be credited or charged, as appropriate, to the Mutual Mortgage Insurance Fund, and insurance benefits shall be paid in cash out of such Fund or in debentures executed in the name of such Fund. Insurance benefits paid with respect to loans secured by a first mortgage and insured under this subsection shall be paid in accordance with section 1710 of this title. Insurance benefits paid with respect to loans secured by a mortgage other than a first mortgage and insured under this subsection shall be paid in accordance with paragraphs (6) and (7) of section 1715k(h) of this title, except that reference to “this subsection” in such paragraphs shall be construed as referring to this subsection.
 
 #### (<i>l</i>) Repealed. Pub. L. 90–448, title I, §103(b), Aug. 1, 1968, 82 Stat. 486
 
@@ -158,53 +172,17 @@ Loans secured by mortgages insured under this section shall not be taken into ac
 
 (2) For the purposes of this subsection—
 
-&emsp;(A) The terms “home mortgage” and “mortgage” include a first lien given (in accordance with the laws of the State where the property is located and accompanied by such security and other undertakings as may be required under regulations of the Secretary) to secure a loan made to finance the purchase of stock or membership in a cooperative ownership housing corporation the permanent occupancy of the dwelling units of which is restricted to members of such corporation, where the purchase of such stock or membership will entitle the purchaser to the permanent occupancy of one of such units.
+&emsp;(A) The terms “home mortgage” and “mortgage” include a first or subordinate mortgage or lien given (in accordance with the laws of the State where the property is located and accompanied by such security and other undertakings as may be required under regulations of the Secretary) to secure a loan made to finance the purchase of stock or membership in a cooperative ownership housing corporation the permanent occupancy of the dwelling units of which is restricted to members of such corporation, where the purchase of such stock or membership will entitle the purchaser to the permanent occupancy of one of such units.
 
 &emsp;(B) The terms “appraised value of the property”, “value of the property”, and “value” include the appraised value of a dwelling unit in a cooperative housing project of the type described in subparagraph (A) where the purchase of the stock or membership involved will entitle the purchaser to the permanent occupancy of that unit; and the term “property” includes a dwelling unit in such a cooperative project.
 
-&emsp;(C) The term “mortgagor” includes a person or persons giving a first lien (of the type described in subparagraph (A)) to secure a loan to finance the purchase of stock or membership in a cooperative housing corporation.
+&emsp;(C) The term “mortgagor” includes a person or persons giving a first or subordinate mortgage or lien (of the type described in subparagraph (A)) to secure a loan to finance the purchase of stock or membership in a cooperative housing corporation.
 
-#### (<i>o</i>) Insurance of mortgages on owner occupied homes in communities subject to adverse economic conditions resulting from Indian claims to ownership of land; obligation of Special Risk Insurance Fund
+#### (<i>o</i>) Repealed. Pub. L. 110–289, div. B, title I, §2120(a)(2), July 30, 2008, 122 Stat. 2835
 
-(1) Notwithstanding any other provision of this section or any other section of this subchapter, the Secretary is authorized to insure, and to commit to insure, under subsection (b) of this section as modified by this subsection a mortgage which meets both the requirements of this subsection and such criteria as the Secretary by regulation may prescribe to further the purpose of this subsection, in any community where the Secretary determines that—
+#### (p) Repealed. Pub. L. 110–289, div. B, title I, §2120(a)(3), July 30, 2008, 122 Stat. 2835
 
-&emsp;(A) temporary adverse economic conditions exist throughout the community as a direct and primary result of outstanding claims to ownership of land in the community by an American Indian tribe, band, or Nation;
-
-&emsp;(B) such ownership claims are reasonably likely to be settled, by court action or otherwise;
-
-&emsp;(C) as a direct result of the community's temporarily impaired economic condition, owner occupants of homes in the community have been involuntarily unemployed or underemployed and have thus incurred substantial reductions in income which significantly impair their ability to continue timely payment of their mortgages;
-
-&emsp;(D) as a result, widespread mortgage foreclosures and distress sales of homes are likely in the community; and
-
-&emsp;(E) fifty or more individual homeowners were joined as parties defendant or were members of a defendant class prior to December 31, 1976, in litigation involving claims to ownership of land in the community by an American Indian tribe, band, or Nation.
-
-(2) A mortgage shall be eligible for insurance under subsection (b) of this section as modified by this subsection without regard to limitations in this subchapter relating to a mortgagor's reasonable ability to pay, economic soundness, marketability of title, or any other statutory restriction which the Secretary determines is contrary to the purpose of this subsection, but only if the mortgagor is an owner of a home in a community specified in paragraph (1) who, as a direct result of the community's temporarily impaired economic condition, has been involuntarily unemployed or underemployed and has thus incurred a substantial reduction in income which significantly impairs the owner's ability to continue timely payment of the mortgage. The Secretary is authorized to encourage or afford directly to or on behalf of mortgagors whose mortgages are insured under subsection (b) of this section as modified by this subsection forebearance, assignment of mortgages to the Secretary, or such other relief as the Secretary deems appropriate and consistent with the purpose of this subsection. The Secretary, in connection with any mortgage insured under subsection (b) of this section as modified by this subsection, shall have all statutory powers, authority, and responsibilities which the Secretary has with respect to other mortgages insured under subsection (b) of this section, except that the Secretary may modify such powers, authority, or responsibilities where the Secretary deems such action to be necessary because of the special nature of the mortgage involved. Notwithstanding section 1708 of this title, the insurance of a mortgage under subsection (b) of this section as modified by this subsection shall be the obligation of the Special Risk Insurance Fund created pursuant to section 1715z–3 of this title.
-
-#### (p) Insurance of mortgages in communities subject to temporary adverse economic conditions as a result of claims to ownership of land in the community by an American Indian Tribe, band, or nation; eligibility, authorities, etc.
-
-(1) Notwithstanding any other provision of this section or any other section of this subchapter, the Secretary is authorized to insure, and to commit to insure, under subsection (b) of this section as modified by this subsection a mortgage which meets both the requirements of this subsection and such criteria as the Secretary by regulation shall prescribe to further the purpose of this subsection, in any community where the Secretary determines that—
-
-&emsp;(A) temporary adverse economic conditions exist throughout the community as a direct and primary result of outstanding claims to ownership of land in the community by an American Indian tribe, band, or nation;
-
-&emsp;(B) such ownership claims are reasonably likely to be settled, by court action or otherwise; and
-
-&emsp;(C) fifty or more individual homeowners were joined as parties defendant or were members of a defendant class prior to April 1, 1980, in litigation involving claims to ownership of land in the community by an American Indian tribe, band, group, or nation pursuant to a dispute involving the Articles of Confederation, Trade and Intercourse Act of 1790, or any similar State or Federal law.
-
-(2) A mortgage shall be eligible for insurance under subsection (b) of this section as modified by this subsection without regard to limitations in this subchapter relating to marketability of title, or any other statutory restriction which the Secretary determines is contrary to the purpose of this subsection, but only if the mortgagor is an owner of a home in a community specified in paragraph (1). The Secretary, in connection with any mortgage insured under subsection (b) of this section as modified by this subsection, shall have all statutory powers, authority, and responsibilities which the Secretary has with respect to other mortgages insured under subsection (b) of this section, except that the Secretary may modify such powers, authority, or responsibilities where the Secretary deems such action to be necessary because of the special nature of the mortgage involved. Notwithstanding section 1708 of this title, the insurance of a mortgage under subsection (b) of this section as modified by this subsection shall be the obligation of the Special Risk Insurance Fund created pursuant to section 1715z–3 of this title.
-
-#### (q) Insurance of mortgages secured by property on certain lands leased by Seneca Nation of New York Indians
-
-(1) Notwithstanding any other provision of this section or any other section of this subchapter, the Secretary shall insure and commit to insure, under subsection (b) of this section as modified by this subsection, any mortgage secured by property located on land that—
-
-&emsp;(A) is within the Allegany Reservation of the Seneca Nation of New York Indians; and
-
-&emsp;(B) is subject to a lease entered into for a term of 99 years pursuant to the Act of February 19, 1875 (Chapter 90; 18 Stat. 330) and the Act of September 30, 1890 (Chapter 1132; 26 Stat. 558).
-
-(2) A mortgage shall be eligible for insurance under subsection (b) of this section as modified by this subsection without regard to limitations in this subchapter relating to marketability of title or any other statutory restriction that the Secretary determines is contrary to the purpose of this subsection.
-
-(3) The Secretary, in connection with any mortgage insured under subsection (b) of this section as modified by this subsection, shall have all statutory powers, authority, and responsibilities that the Secretary has with respect to other mortgages insured under subsection (b) of this section, except that the Secretary may modify such powers, authority, or responsibilities if the Secretary determines such action to be necessary because of the special nature of the mortgage involved.
-
-(4) Notwithstanding section 1708 of this title, the insurance of a mortgage under subsection (b) of this section as modified by this subsection shall be the obligation of the Special Risk Insurance Fund created in section 1715z–3 of this title.
+#### (q) Repealed. Pub. L. 110–289, div. B, title I, §2120(a)(4), July 30, 2008, 122 Stat. 2835
 
 #### (r) Actions to reduce losses under single family mortgage insurance program
 
@@ -218,27 +196,9 @@ The Secretary shall take appropriate actions to reduce losses under the single-f
 
 &emsp;(4) providing counseling, either directly or through third parties, to delinquent mortgagors whose mortgages are insured under this section, using the Fund to pay for such counseling.
 
-> In any case where the homeowner does not request a release from liability, the purchaser andthe homeowner shall have joint and several liability for any default for a period of 5 years following the date of the assumption. After the close of such 5-year period, only the purchaser shall be liable for any default on the mortgage unless the mortgage is in default at the time of the expiration of the 5-year period.
+> In any case where the homeowner does not request a release from liability, the purchaser and the homeowner shall have joint and several liability for any default for a period of 5 years following the date of the assumption. After the close of such 5-year period, only the purchaser shall be liable for any default on the mortgage unless the mortgage is in default at the time of the expiration of the 5-year period.
 
-#### (s) Suspension or revocation of approval of mortgagee; notice and statement of reasons
-
-Whenever the Secretary has taken any discretionary action to suspend or revoke the approval of any mortgagee to participate in any mortgage insurance program under this subchapter, the Secretary shall provide prompt notice of the action and a statement of the reasons for the action to—
-
-&emsp;(1) the Secretary of Veterans Affairs;
-
-&emsp;(2) the chief executive officer of the Federal National Mortgage Association;
-
-&emsp;(3) the chief executive officer of the Federal Home Loan Mortgage Corporation;
-
-&emsp;(4) the Administrator of the Farmers Home Administration;
-
-&emsp;(5) if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;
-
-&emsp;(6) if the mortgagee is a State bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company, the Board of Governors of the Federal Reserve System;
-
-&emsp;(7) if the mortgagee is a State bank that is not a member of the Federal Reserve System or is a subsidiary or affiliate of such a bank, the Board of Directors of the Federal Deposit Insurance Corporation; and
-
-&emsp;(8) if the mortgagee is a Federal or State savings association or a subsidiary or affiliate of a savings association, the Director of the Office of Thrift Supervision.
+#### (s) Transferred
 
 #### (t) Disclosure regarding interest due upon mortgage prepayment
 
@@ -248,11 +208,11 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 #### (u) Accountability of mortgage lenders
 
-(1) No mortgagee may make or hold mortgages insured under this section if the customary lending practices of the mortgagee, as determined by the Secretary pursuant to section 1735f–17 of this title, provide for a variation in mortgage charge rates that exceeds 2 percent for insured mortgages made by the mortgagee on dwellings located within an area. The Secretary shall ensure that any permissible variations in the mortgage charge rates of any mortgagee are based only on actual variations in fees or costs to the mortgagee to make the loan.
+(1) No mortgagee may make or hold mortgages insured under this section if the customary lending practices of the mortgagee, as determined by the Secretary pursuant to section 1735f–17 of this title, provide for a variation inmortgage charge rates that exceeds 2 percent for insured mortgages made by the mortgagee on dwellings located within an area. The Secretary shall ensure that any permissible variations in the mortgage charge rates of any mortgagee are based only on actual variations in fees or costs to the mortgagee to make the loan.
 
 (2) For purposes of this subsection—
 
-&emsp;(A) the term “area” shall have the meaning given the term under subsection (b)(2) of this section;
+&emsp;(A) the term “area” means a metropolitan statistical area as established by the Office of Management and Budget;
 
 &emsp;(B) the term “mortgage charges” includes the interest rate, discount points, loan origination fee, and any other amount charged to a mortgagor with respect to an insured mortgage; and
 
@@ -260,7 +220,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 #### (v) Use of FHA insurance with assistance under 42 U.S.C. 1437f
 
-Notwithstanding section 1708 of this title, the insurance of a mortgage under this section in connection with the assistance provided under section 1437f(y) of title 42 shall be the obligation of the General Insurance Fund created pursuant to section 1735c <sup>3</sup> of this title. The provisions of subsections (a) through (h),<sup>3</sup> (j), and (k) <sup>3</sup> of section 1710 of this title shall apply to such mortgages, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund, and (2) any excess amounts described in section 1710(f)(1) of this title shall be retained by the Secretary and credited to the General Insurance Fund.
+The insurance of a mortgage under this section in connection with the assistance provided under section 1437f(y) of title 42 shall be the obligation of the Mutual Mortgage Insurance Fund.
 
 #### (w) Annual report
 
@@ -276,11 +236,11 @@ The Secretary of Housing and Urban Development shall submit to the Congress an a
 
 &emsp;(2) an analysis of the percentage of minority borrowers annually assisted by the program; the percentage of central city borrowers assisted and the percentage of rural borrowers assisted by the program;
 
-&emsp;(3) the extent to which the Secretary in carrying out the program has employed methodsto ensure that needs of low and moderate income families, underserved areas, and historically disadvantaged groups are served by the program; and
+&emsp;(3) the extent to which the Secretary in carrying out the program has employed methods to ensure that needs of low and moderate income families, underserved areas, and historically disadvantaged groups are served by the program; and
 
 &emsp;(4) the current impediments to having the program serve low and moderate income borrowers; borrowers from central city areas; borrowers from rural areas; and minority borrowers.
 
-> The report required under this subsection shall include the report required under section 1735f–18(c) of this title and the report required under section 1711(g) of this title.
+> The report required under this subsection shall include the report required under section 1735f–18(c) of this title and the report required under section 1711(g) <sup>1</sup> of this title.
 
 #### (x) Management deficiencies report
 
@@ -298,25 +258,53 @@ The Secretary of Housing and Urban Development shall submit to the Congress an a
 
 &emsp;&emsp;(C) the progress of the Secretary in implementing the plan of the Secretary included in the report submitted under paragraph (1) for the preceding year, except that this subparagraph does not apply to the initial report submitted under paragraph (1).
 
-(June 27, 1934, ch. 847, title II, §203, 48 Stat. 1248; May 28, 1935, ch. 150, §29(a), 49 Stat. 299; Aug. 23, 1935, ch. 614, title III, §344(c), 49 Stat. 722; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §§6–8, 53 Stat. 805, 806; June 28, 1941, ch. 261, §8, 55 Stat. 365; Oct. 15, 1943, ch. 259, §2, 57 Stat. 571; July 1, 1946, ch. 531, 60 Stat. 408; Aug. 10, 1948, ch. 832, title I, §101(g)–(k), 62 Stat. 1272; July 15, 1949, ch. 338, title II, §201(2), 63 Stat. 421; Aug. 30, 1949, ch. 524, 63 Stat. 681; Oct. 25, 1949, ch. 729, §1(2), 63 Stat. 905; Apr. 20, 1950, ch. 94, title I, §§103, 104(a), 122, 64 Stat. 51, 59; June 30, 1953, ch. 170, §3, 67 Stat. 121; Aug. 2, 1954, ch. 649, title I, §§104–110, 68 Stat. 591, 592; Aug. 7, 1956, ch. 1029, title I, §§102, 104(a), 70 Stat. 1091, 1092; Pub. L. 85–104, title I, §§101, 106, July 12, 1957, 71 Stat. 294, 297; Pub. L. 85–364, §1(a), Apr. 1, 1958, 72 Stat. 73; Pub. L. 86–372, title I, §§102, 103, title VIII, §809, Sept. 23, 1959, 73 Stat. 654, 688; Pub. L. 87–70, title I, §102(b), title VI, §§604(b), 605, 606, 612(a), June 30, 1961, 75 Stat. 157, 177, 178, 180; Pub. L. 88–560, title I, §§102, 103, 105(c)(1), Sept. 2, 1964, 78 Stat. 769, 772; Pub. L. 89–117, title II, §§203–206, title XI, §1108(c), Aug. 10, 1965, 79 Stat. 466, 504; Pub. L. 89–754, title III, §§301, 302, Nov. 3, 1966, 80 Stat. 1266; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §103(b), title III, §§317, 318, title XI, §1106(d), Aug. 1, 1968, 82 Stat. 486, 512, 567; Pub. L. 91–152, title I, §§102(a), 113(a), Dec. 24, 1969, 83 Stat. 379, 383; Pub. L. 91–606, title III, §301(c), Dec. 31, 1970, 84 Stat. 1758; Pub. L. 93–288, title VII, §702(c), formerly title VI, §602(c), May 22, 1974, 88 Stat. 163, renumbered title VII, §702(c), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 93–383, title III, §§302(a), 310(a), Aug. 22, 1974, 88 Stat. 676, 682; Pub. L. 93–449, §4(b), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title III, §§303(a), (g), 304(a), 305, 307, Oct. 12, 1977, 91 Stat. 1132, 1133, 1134; Pub. L. 95–557, title I, §101(c)(1), (2), Oct. 31, 1978, 92 Stat. 2082, 2083; Pub. L. 95–619, title II, §248(a), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title III, §§310, 312(a), 318, Dec. 21, 1979, 93 Stat. 1114, 1116, 1119; Pub. L. 96–399, title III, §§321, 328, 333(a), 336(a), Oct. 8, 1980, 94 Stat. 1646, 1651, 1653, 1654; Pub. L. 97–253, title II, §201(a), (b), Sept. 8, 1982, 96 Stat. 789; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 321; Pub. L. 98–181, title IV, §§404(b)(2), (3), 419, 423(a), (b)(1), 424(a), 425, 447, Nov. 30, 1983, 97 Stat. 1209, 1212, 1216–1218, 1228; Pub. L. 98–479, title II, §204(a)(2), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 99–601, Nov. 5, 1986, 100 Stat. 3357; Pub. L. 100–242, title IV, §§403–405(1), 406(a)–(b)(6), (c), 407(a)(1), 422(b), 423, 429(c), Feb. 5, 1988, 101 Stat. 1899–1902, 1914, 1918; Pub. L. 100–628, title X, §§1061–1063(a), Nov. 7, 1988, 102 Stat. 3274; Pub. L. 100–707, title I, §109(e)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 852; Pub. L. 101–235, title I, §§132(a), 135, 143(a), (b), Dec. 15, 1989, 103 Stat. 2026, 2028, 2036; Pub. L. 101–402, §3, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1369; Pub. L. 101–508, title II, §§2101–2103(a), Nov. 5, 1990, 104 Stat. 1388–17; Pub. L. 101–625, title III, §§326(a), 327, 329, 330(a), title IV, §429, Nov. 28, 1990, 104 Stat. 4137, 4138, 4171; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1591, 1593; Pub. L. 102–550, title I, §185(c)(1), title V, §§503(a), 504–506(a), 507(a), title X, §1012(k)(2), Oct. 28, 1992, 106 Stat. 3747, 3779–3782, 3907; Pub. L. 103–211, title I, Feb. 12, 1994, 108 Stat. 12; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2314; Pub. L. 104–204, title IV, §§424, 425(a), 426, Sept. 26, 1996, 110 Stat. 2927, 2928; Pub. L. 105–65, title II, §211, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §§212, 224, 225(a), 228, Oct. 21, 1998, 112 Stat. 2486, 2489–2491; Pub. L. 106–74, title II, §207, Oct. 20, 1999, 113 Stat. 1072; Pub. L. 106–281, §2, Oct. 6, 2000, 114 Stat. 865; Pub. L. 106–377, §1(a)(1) \[title II, §§209(a), 225\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, 1441A–30; Pub. L. 106–569, title XI, §1103(f), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–73, title II, §207(a), Nov. 26, 2001, 115 Stat. 674; Pub. L. 107–326, §2, Dec. 4, 2002, 116 Stat. 2792; Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–447, div. I, title II, §§222, 223, Dec. 8, 2004, 118 Stat. 3321; Pub. L. 109–13, div. A, title VI, §6073, May 11, 2005, 119 Stat. 300.)
+(June 27, 1934, ch. 847, title II, §203, 48 Stat. 1248; May 28, 1935, ch. 150, §29(a), 49 Stat. 299; Aug. 23, 1935, ch. 614, title III, §344(c), 49 Stat. 722; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §§6–8, 53 Stat. 805, 806; June 28, 1941, ch. 261, §8, 55 Stat. 365; Oct. 15, 1943, ch. 259, §2, 57 Stat. 571; July 1, 1946, ch. 531, 60 Stat. 408; Aug. 10, 1948, ch. 832, title I, §101(g)–(k), 62 Stat. 1272; July 15, 1949, ch. 338, title II, §201(2), 63 Stat. 421; Aug. 30, 1949, ch. 524, 63 Stat. 681; Oct. 25, 1949, ch. 729, §1(2), 63 Stat. 905; Apr. 20, 1950, ch. 94, title I, §§103, 104(a), 122, 64 Stat. 51, 59; June 30, 1953, ch. 170, §3, 67 Stat. 121; Aug. 2, 1954, ch. 649, title I, §§104–110, 68 Stat. 591, 592; Aug. 7, 1956, ch. 1029, title I, §§102, 104(a), 70 Stat. 1091, 1092; Pub. L. 85–104, title I, §§101, 106, July 12, 1957, 71 Stat. 294, 297; Pub. L. 85–364, §1(a), Apr. 1, 1958, 72 Stat. 73; Pub. L. 86–372, title I, §§102, 103, title VIII, §809, Sept. 23, 1959, 73 Stat. 654, 688; Pub. L. 87–70, title I, §102(b), title VI, §§604(b), 605, 606, 612(a), June 30, 1961, 75 Stat. 157, 177, 178, 180; Pub. L. 88–560, title I, §§102, 103, 105(c)(1), Sept. 2, 1964, 78 Stat. 769, 772; Pub. L. 89–117, title II, §§203–206, title XI, §1108(c), Aug. 10, 1965, 79 Stat. 466, 504; Pub. L. 89–754, title III, §§301, 302, Nov. 3, 1966, 80 Stat. 1266; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §103(b), title III, §§317, 318, title XI, §1106(d), Aug. 1, 1968, 82 Stat. 486, 512, 567; Pub. L. 91–152, title I, §§102(a), 113(a), Dec. 24, 1969, 83 Stat. 379, 383; Pub. L. 91–606, title III, §301(c), Dec. 31, 1970, 84 Stat. 1758; Pub. L. 93–288, title VII, §702(c), formerly title VI, §602(c), May 22, 1974, 88 Stat. 163, renumbered title VII, §702(c), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 93–383, title III, §§302(a), 310(a), Aug. 22, 1974, 88 Stat. 676, 682; Pub. L. 93–449, §4(b), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title III, §§303(a), (g), 304(a), 305, 307, Oct. 12, 1977, 91 Stat. 1132, 1133, 1134; Pub. L. 95–557,title I, §101(c)(1), (2), Oct. 31, 1978, 92 Stat. 2082, 2083; Pub. L. 95–619, title II, §248(a), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title III, §§310, 312(a), 318, Dec. 21, 1979, 93 Stat. 1114, 1116, 1119; Pub. L. 96–399, title III, §§321, 328, 333(a), 336(a), Oct. 8, 1980, 94 Stat. 1646, 1651, 1653, 1654; Pub. L. 97–253, title II, §201(a), (b), Sept. 8, 1982, 96 Stat. 789; Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 321; Pub. L. 98–181, title IV, §§404(b)(2), (3), 419, 423(a), (b)(1), 424(a), 425, 447, Nov. 30, 1983, 97 Stat. 1209, 1212, 1216–1218, 1228; Pub. L. 98–479, title II, §204(a)(2), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 99–601, Nov. 5, 1986, 100 Stat. 3357; Pub. L. 100–242, title IV, §§403–405(1), 406(a)–(b)(6), (c), 407(a)(1), 422(b), 423, 429(c), Feb. 5, 1988, 101 Stat. 1899–1902, 1914, 1918; Pub. L. 100–628, title X, §§1061–1063(a), Nov. 7, 1988, 102 Stat. 3274; Pub. L. 100–707, title I, §109(e)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 852; Pub. L. 101–235, title I, §§132(a), 135, 143(a), (b), Dec. 15, 1989, 103 Stat. 2026, 2028, 2036; Pub. L. 101–402, §3, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1369; Pub. L. 101–508, title II, §§2101–2103(a), Nov. 5, 1990, 104 Stat. 1388–17; Pub. L. 101–625, title III, §§326(a), 327, 329, 330(a), title IV, §429, Nov. 28, 1990, 104 Stat. 4137, 4138, 4171; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1591, 1593; Pub. L. 102–550, title I, §185(c)(1), title V, §§503(a), 504–506(a), 507(a), title X, §1012(k)(2), Oct. 28, 1992, 106 Stat. 3747, 3779–3782, 3907; Pub. L. 103–211, title I, Feb. 12, 1994, 108 Stat. 12; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2314; Pub. L. 104–204, title IV, §§424, 425(a), 426, Sept. 26, 1996, 110 Stat. 2927, 2928; Pub. L. 105–65, title II, §211, Oct. 27, 1997, 111 Stat. 1366; Pub. L. 105–276, title II, §§212, 224, 225(a), 228, Oct. 21, 1998, 112 Stat. 2486, 2489–2491; Pub. L. 106–74, title II, §207, Oct. 20, 1999, 113 Stat. 1072; Pub. L. 106–281, §2, Oct. 6, 2000, 114 Stat. 865; Pub. L. 106–377, §1(a)(1) \[title II, §§209(a), 225\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, 1441A–30; Pub. L. 106–569, title XI, §1103(f), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–73, title II, §207(a), Nov. 26, 2001, 115 Stat. 674; Pub. L. 107–326, §2, Dec. 4, 2002, 116 Stat. 2792; Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–447, div. I, title II, §§222, 223, Dec. 8, 2004, 118 Stat. 3321; Pub. L. 109–13, div. A, title VI, §6073, May 11, 2005, 119 Stat. 300; Pub. L. 110–289, div. B, title I, §§2112(a), (b), 2113–2115, 2116(2), (3), 2118(b)(1), 2120(a)(1)–(4), (b), 2121, July 30, 2008, 122 Stat. 2830–2832, 2834, 2835.)
 
 #### References in Text
 
-Section 1436 of title 42, referred to in subsec. (b)(9), was repealed by Pub. L. 91–609, title V, §503(4), Dec. 31, 1970, 84 Stat. 1786. See section 1701z–1 et seq. of this title.
+Section 1715z–10 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(7), July 30, 2008, 122 Stat. 2835.
 
-The Homeownership and Opportunity Through HOPE Act, referred to in subsec. (b)(9), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, which enacted subchapter II–A (§1437aaa et seq.) of chapter 8 of Title 42, The Public Health and Welfare, and parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of Title 42, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437aaa of Title 42 and Tables.
+Section 1715m of this title, referred to in subsec. (g)(2)(D), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(5), July 30, 2008, 122 Stat. 2835.
 
-The Trade and Intercourse Act of 1790, referred to in subsec. (p)(1)(C), is act July 22, 1790, ch. 33, 1 Stat. 137, which was not classified to the Code. See sections 177, 179, 180, 193, 194, 201, 229, 230, 251, 263, and 264 of Title 25, Indians.
+Subsection (i) of this section, referred to in subsec. (<i>l</i>), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(1), July 30, 2008, 122 Stat. 2835.
 
-Acts of February 19, 1875 (Chapter 90; 18 Stat. 330), and September 30, 1890 (Chapter 1132; 26 Stat. 558), referred to in subsec. (q)(1)(B), which related to leasing of lands by the Seneca Nation of New York Indians, are not classified to the Code.
-
-Section 1735c of this title, referred to in subsec. (v), was in the original “section 519 of this title”, and was translated as meaning section 519 of title V of the National Housing Act, act June 27, 1934, ch. 847, to reflect the probable intent of Congress.
-
-Subsection (h) of section 1710 of this title, referred to in subsec. (v), was redesignated subsec. (i) by Pub. L. 105–276, title VI, §602(1), Oct. 21, 1998, 112 Stat. 2674.
-
-Subsection (k) of section 1710 of this title, referred to in subsec. (v), was repealed by Pub. L. 105–276, title VI, §601(c), Oct. 21, 1998, 112 Stat. 2673.
+Section 1711(g) of this title, referred to in subsec. (w), was repealed by Pub. L. 110–289, div. B, title I, §2118(c)(1), July 30, 2008, 122 Stat. 2835.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–289, §2112(a)(2), which directed striking out second sentence in matter following subpar. (B) and all that followed through “section 3103A(d) of title 38”, was executed in first undesignated par. after subpar. (B) by striking out “For purposes of this paragraph, the term ‘average closing cost’ means, with respect to a State, the average, for mortgages executed for properties that are located within the State, of the total amounts (as determined by the Secretary) of initial service charges, appraisal, inspection, and other fees (as the Secretary shall approve) that are paid in connection with such mortgages. Notwithstanding any other provision of this section, in any case where the dwelling is not approved for mortgage insurance prior to the beginning of construction, such mortgage shall not exceed 90 per centum of the entire appraised value of the property as of the date the mortgage is accepted for insurance, unless (i) the dwelling was completed more than one year prior to the application for mortgage insurance, or (ii) the dwelling was approved for guaranty, insurance, or a direct loan under chapter 37 of title 38 prior to the beginning of construction, or (iii) the dwelling is covered by a consumer protection or warranty plan acceptable to the Secretary and satisfies all requirements which would have been applicable if such dwelling had been approved for mortgage insurance prior to the beginning of construction. As used herein, the term ‘veteran’ means any person who served on active duty in the armed forces of the United States for a period of not less than ninety days (or is certified by the Secretary of Defense as having performed extra-hazardous service), and who was discharged or released therefrom under conditions other than dishonorable, except that persons enlisting in the armed forces after September 7, 1980, or entering active duty after October 16, 1981, shall have their eligibility determined in accordance with section 5303A(d) of title 38.”, to reflect the probable intent of Congress and amendment by Pub. L. 102–40. See 1991 Amendment note below.
+
+Subsec. (b)(2)(A), (B). Pub. L. 110–289, §2112(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which related to maximum limits for principal loan obligation.
+
+Subsec. (b)(9). Pub. L. 110–289, §2113, amended par. (9) generally. Prior to amendment, par. (9) related to requirement that mortgagors other than veterans pay on account of the property at least 3 per centum, or such larger amount as the Secretary may determine, of the Secretary's estimate of the cost of acquisition, excluding the mortgage insurance premium paid at the time the mortgage is insured, in cash or its equivalent.
+
+Subsec. (c)(2). Pub. L. 110–289, §2114(1), in introductory provisions, struck out “or of the General Insurance Fund pursuant to subsection (v) of this section and each mortgage that is insured under subsection (k) of this section or section 1715y(c) of this title,,” after “Mutual Mortgage Insurance Fund”.
+
+Subsec. (c)(2)(A). Pub. L. 110–289, §2114(2), substituted “3 percent” for “2.25 percent” and “2.75 percent” for “2.0 percent”.
+
+Subsec. (d). Pub. L. 110–289, §2112(b), substituted “Except as provided in paragraph (2) of this subsection, notwithstanding” for “Notwithstanding any”, designated existing provisions as par. (1), and added par. (2).
+
+Subsec. (i). Pub. L. 110–289, §2120(a)(1), struck out subsec. (i) which related to Secretary's authority to insure mortgages for single-family residences in suburban and outlying areas or small communities and certain farm homes.
+
+Subsec. (k)(1). Pub. L. 110–289, §2115(1), struck out “on and after 180 days following October 31, 1978” after “financial institutions”.
+
+Subsec. (k)(5). Pub. L. 110–289, §2115(2), substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund” and struck out “, except that all references in section 1710 of this title to the Mutual Mortgage Insurance Fund shall be construed as referring to the General Insurance Fund” after “section 1710 of this title”.
+
+Subsec. (n)(2)(A), (C). Pub. L. 110–289, §2121, inserted “or subordinate mortgage or” before “lien”.
+
+Subsec. (<i>o</i>). Pub. L. 110–289, §2120(a)(2), struck out subsec. (<i>o</i>) which related to insurance of mortgages onowner occupied homes in communities subject to adverse economic conditions resulting from Indian claims to ownership of land and obligation of Special Risk Insurance Fund.
+
+Subsec. (p). Pub. L. 110–289, §2120(a)(3), struck out subsec. (p) which related to insurance of mortgages in communities subject to temporary adverse economic conditions as a result of claims to ownership of land in the community by an American Indian Tribe, band, or nation.
+
+Subsec. (q). Pub. L. 110–289, §2120(a)(4), struck out subsec. (q) which related to insurance of mortgages secured by property on certain lands leased by Seneca Nation of New York Indians.
+
+Subsec. (s). Pub. L. 110–289, §2116(3), redesignated and transferred subsec. (s) of this section to subsec. (e) of section 1708 of this title.
+
+Subsec. (s)(4). Pub. L. 110–289, §2116(2), added par. (4) and struck out former par. (4) which read as follows: “the Administrator of the Farmers Home Administration;”.
+
+Subsec. (u)(2)(A). Pub. L. 110–289, §2120(b), substituted “means a metropolitan statistical area as established by the Office of Management and Budget;” for “shall have the meaning given the term under subsection (b)(2) of this section;”.
+
+Subsec. (v). Pub. L. 110–289, §2118(b)(1), substituted “The” for “Notwithstanding section 1708 of this title, the” and “Mutual Mortgage Insurance Fund.” for “General Insurance Fund created pursuant to section 1735c of this title. The provisions of subsections (a) through (h), (j), and (k) of section 1710 of this title shall apply to such mortgages, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund, and (2) any excess amounts described in section 1710(f)(1) of this title shall be retained by the Secretary and credited to the General Insurance Fund.”
 
 2005—Subsec. (c)(1). Pub. L. 109–13, §6073(b)(2), struck out “or (k)” after “(2) under subsection (n)” and “charges under subsection (n)”.
 
@@ -424,7 +412,7 @@ Pub. L. 102–550, §503(a), amended first sentence generally. Prior to amendmen
 
 &emsp;“(A) not to exceed the lesser of—
 
-&emsp;&emsp;“(i) in the case of the 1-family residence, 95 percent of the median 1-family house price in the area (as determined by the Secretary); in the case of a 2-family residence, 107 percent of such median price; in the case of a 3-family residence, 130 percent ofsuch median price; or in the case of a 4-family residence, 150 percent of such median price; or
+&emsp;&emsp;“(i) in the case of the 1-family residence, 95 percent of the median 1-family house price in the area (as determined by the Secretary); in the case of a 2-family residence, 107 percent of such median price; in the case of a 3-family residence, 130 percent of such median price; or in the case of a 4-family residence, 150 percent of such median price; or
 
 &emsp;&emsp;“(ii) 75 percent of the dollar amount limitation determined under section 1454(a)(2) of this title (as adjusted annually under such section) for a residence of the applicable size;
 
@@ -566,7 +554,7 @@ Subsec. (h). Pub. L. 98–63 substituted “the applicable maximum dollar limit 
 
 Subsec. (k)(3)(B). Pub. L. 98–181, §404(b)(3), substituted provision that interest be at such a rate as agreed upon by the mortgagor and mortgagee for provision that interest be at a rate permitted by the Secretary for mortgages insured under this section, except that the Secretary could permit a higher rate with respect to the period beginning with the making of the loan and ending with the completion of the rehabilitation or such earlier time as determined by the Secretary.
 
-Subsec. (n)(1). Pub. L. 98–181, §419(1), inserted “or the construction of which was completed more than a yearprior to the application for the mortgage insurance” after “under this chapter”.
+Subsec. (n)(1). Pub. L. 98–181, §419(1), inserted “or the construction of which was completed more than a year prior to the application for the mortgage insurance” after “under this chapter”.
 
 Subsec. (n)(2)(A). Pub. L. 98–181, §419(2), struck out “nonprofit” before “cooperative”.
 
@@ -636,7 +624,7 @@ Subsec. (m). Pub. L. 90–448, §318, added subsec. (m).
 
 Subsec. (b)(3), (9). Pub. L. 90—19, §1(a)(4), substituted “Secretary's” for “Commissioner's”.
 
-1966—Subsec. (b)(2). Pub. L. 89–754, §301, substituted “If the mortgagor is a veteran,” for “If the mortgagor is a veteran who has not received any direct, guaranteed, or insured loan under laws administered by the Veterans’ Administration for the purchase, construction, or repair of a dwelling (including a farm dwelling) which was to be owned and occupied by him as his home,”.
+1966—Subsec. (b)(2). Pub. L. 89–754, §301, substituted “If the mortgagor is a veteran,” for “If the mortgagoris a veteran who has not received any direct, guaranteed, or insured loan under laws administered by the Veterans’ Administration for the purchase, construction, or repair of a dwelling (including a farm dwelling) which was to be owned and occupied by him as his home,”.
 
 Subsec. (<i>l</i>). Pub. L. 89–754, §302, added subsec. (<i>l</i>).
 
@@ -682,7 +670,7 @@ Subsec. (b)(8), (9). Pub. L. 85–104, §101(b), added pars. (8) and (9).
 
 Subsec. (d). Pub. L. 85–104, §106, repealed provisions which related to insurance of mortgages on farm properties.
 
-Subsec. (i). Pub. L. 85–104, §101(c), amended provisions generally, and, among other changes, increased maximum loan from $6,650 to $8,000, and from 95 per centum to 97 per centum of value, and substituted provisions that mortgage obligation shall not exceed 85 per centum of value if mortgagor is not occupant, for provisions that (1) mortgagor be the owner and occupant and had paid at least 5 per centum cash, or (2) mortgagor be owner and occupant with whom a person or corporation having satisfactory credit standing had contractedto pay on his behalf all or part of downpayment, taking as security a note at not more than 4 per centum interest, and to guarantee payment of insured mortgage, or (3) to be the builder constructing the dwelling in which case principal should not exceed 85 per centum of value or $5,950.
+Subsec. (i). Pub. L. 85–104, §101(c), amended provisions generally, and, among other changes, increased maximum loan from $6,650 to $8,000, and from 95 per centum to 97 per centum of value, and substituted provisions that mortgage obligation shall not exceed 85 per centum of value if mortgagor is not occupant, for provisions that (1) mortgagor be the owner and occupant and had paid at least 5 per centum cash, or (2) mortgagor be owner and occupant with whom a person or corporation having satisfactory credit standing had contracted to pay on his behalf all or part of downpayment, taking as security a note at not more than 4 per centum interest, and to guarantee payment of insured mortgage, or (3) to be the builder constructing the dwelling in which case principal should not exceed 85 per centum of value or $5,950.
 
 1956—Subsec. (b)(2). Act Aug. 7, 1956, §§102(a), 104(a), inserted “unless the construction of the dwelling was completed more than one year prior to the application for mortgage insurance” before “90 per centum” in parenthetical clause, and inserted provision that in cases where mortgagor is a person 60 years of age or older, the downpayment required could be paid by a person other than the mortgagor under conditions prescribed by the Commissioner.
 
@@ -741,6 +729,10 @@ Subsecs. (e), (f). Act June 3, 1939, §8, added subsecs. (e) and (f).
 1935—Subsec. (a)(1). Act Aug. 23, 1935, inserted “property and” before “project”.
 
 Subsec. (c). Act May 28, 1935, inserted part of last sentence before the semicolon.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. B, title I, §2112(c), July 30, 2008, 122 Stat. 2831, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect upon the expiration of the date described in section 202(a) of the Economic Stimulus Act of 2008 (Public Law 110–185; 122 Stat. 620) \[Dec. 31, 2008\].”
 
 #### Effective Date of 2004 Amendments
 
@@ -924,7 +916,7 @@ Section 143(d) of Pub. L. 101–235 provided that: “Any mortgage insurance pro
 
 #### Transition Provisions of 1988 Amendment
 
-Section 406(e) of Pub. L. 100–242 provided that: “Any mortgage insurance provided under title II of the National Housing Act \[this subchapter\], as it existed immediately before the date of the enactment of this Act \[Feb. 5, 1988\], shall continue to be governed (to the extent applicable) by the provisions specified in subsections (a) through (c) \[this section and sections 1715d, 1715g, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715y, 1715z of this title\], as such provisions existed immediately before such date.”
+Section 406(e) of Pub. L. 100–242 provided that: “Any mortgage insurance provided under title II of the National Housing Act \[this subchapter\], as it existed immediately before the date of the enactment of this Act \[Feb. 5, 1988\], shall continue to be governed (to the extent applicable) by the provisions specified in subsections (a) through (c) \[this section and sections 1715d,1715g, 1715k, 1715<i>l</i>, 1715m, 1715n, 1715y, 1715z of this title\], as such provisions existed immediately before such date.”
 
 #### Implementation of 1982 Amendment
 
@@ -933,6 +925,26 @@ Section 201(g) of Pub. L. 97–253 provided that: “The amendments made by this
 #### Effect of Repeal of Subsec. (b)(2)(B) of This Section
 
 Section 104(b) of act Apr. 20, 1950, provided that: “The repeal of section 203(b)(2)(B) of said Act \[former subsection (b)(2)(B) of this section\], as provided by subsection (a) of this section, shall not affect the right of the Commissioner to insure under said section any mortgage (1) for the insurance of which application has been filed prior to the effective date of this Act \[Apr. 20, 1950\], or (2) with respect to a property covered by a mortgage insured under any section of the National Housing Act, as amended \[this chapter\].”
+
+#### Limitation on Mortgage Insurance Premium Increases
+
+Pub. L. 110–289, div. B, title I, §2130, July 30, 2008, 122 Stat. 2842, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, including any provision of this title \[see Short Title of 2008 Amendment note set out under section 1701 of this title\] and any amendment made by this title—
+
+&emsp;“(1) for the period beginning on the date of the enactment of this title \[July 30, 2008\] and ending on October 1, 2009, the premiums charged for mortgage insurance under multifamily housing programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] may not be increased above the premium amounts in effect under such program on October 1, 2006, unless the Secretary of Housing and Urban Development determines that, absent such increase, insurance of additional mortgages under such program would, under the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], require the appropriation of new budget authority to cover the costs (as such term is defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)\[)\] of such insurance; and
+
+&emsp;“(2) a premium increase pursuant to paragraph (1) may be made only if not less than 30 days prior to such increase taking effect, the Secretary of Housing and Urban Development—
+
+&emsp;&emsp;“(A) notifies the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of such increase; and
+
+&emsp;&emsp;“(B) publishes notice of such increase in the Federal Register.
+
+“(b)
+
+Waiver.—The Secretary of Housing and Urban Development may waive the 30-day notice requirement under subsection (a)(2), if the Secretary determines that waiting 30-days before increasing premiums would cause substantial damage to the solvency of multifamily housing programs under the National Housing Act \[12 U.S.C. 1701 et seq.\].”
 
 #### Mutual Mortgage Insurance Fund Premiums
 
@@ -953,6 +965,4 @@ Pub. L. 90–448, §109, authorized Secretary of Housing and Urban Development t
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

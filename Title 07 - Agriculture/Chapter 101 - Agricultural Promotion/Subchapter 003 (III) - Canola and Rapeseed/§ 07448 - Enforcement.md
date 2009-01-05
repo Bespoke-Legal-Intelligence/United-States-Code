@@ -30,7 +30,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed, or cease-and-desist order issued, by the Secretary under this subsection unless the person against whom the penalty is assessed or the cease-and-desist order is issued is given notice and opportunity for a hearing before the Secretary with respect to the violation.
+&emsp;No penalty shall be assessed, or cease-and-desist order issued, by the Secretary underthis subsection unless the person against whom the penalty is assessed or the cease-and-desist order is issued is given notice and opportunity for a hearing before the Secretary with respect to the violation.
 
 #### (4) Finality
 

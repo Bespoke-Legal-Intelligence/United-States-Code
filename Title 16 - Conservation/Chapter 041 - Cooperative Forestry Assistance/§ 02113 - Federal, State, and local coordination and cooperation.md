@@ -1,28 +1,72 @@
 ### §2113. Federal, State, and local coordination and cooperation
 
-#### (a) Department of Agriculture Coordinating Committee
+#### (a) Forest Resource Coordinating Committee
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish an intradepartmental committee, to be known as the “Forest Resource Coordinating Committee” (hereafter referred to in this section as the “Coordinating Committee”), to coordinate forestry activities.
+&emsp;The Secretary shall establish a committee, to be known as the “Forest Resource Coordinating Committee” (in this section referred to as the “Coordinating Committee”), to coordinate nonindustrial private forestry activities within the Department of Agriculture and with the private sector.
 
 #### (2) Composition
 
-&emsp;The Coordinating Committee shall be composed of representatives, appointed by the Secretary, from the Agricultural Research Service, Agricultural Stabilization and Conservation Service, Extension Service, Forest Service, and Soil Conservation Service.
+&emsp;The Coordinating Committee shall be composed of the following:
+
+&emsp;&emsp;(A) The Chief of the Forest Service.
+
+&emsp;&emsp;(B) The Chief of the Natural Resources Conservation Service.
+
+&emsp;&emsp;(C) The Director of the Farm Service Agency.
+
+&emsp;&emsp;(D) The Director of the National Institute of Food and Agriculture.
+
+&emsp;&emsp;(E) Non-Federal representatives appointed by the Secretary to 3 year terms, although initial appointees shall have staggered terms, including the following persons:
+
+&emsp;&emsp;&emsp;(i) At least three State foresters or equivalent State officials from geographically diverse regions of the United States.
+
+&emsp;&emsp;&emsp;(ii) A representative of a State fish and wildlife agency.
+
+&emsp;&emsp;&emsp;(iii) An owner of nonindustrial private forest land.
+
+&emsp;&emsp;&emsp;(iv) A forest industry representative.
+
+&emsp;&emsp;&emsp;(v) A conservation organization representative.
+
+&emsp;&emsp;&emsp;(vi) A land-grant university or college representative.
+
+&emsp;&emsp;&emsp;(vii) A private forestry consultant.
+
+&emsp;&emsp;&emsp;(viii) A representative from a State Technical Committee established under section 3861 of this title.
+
+&emsp;&emsp;(F) Such other persons as determined by the Secretary to be appropriate.
 
 #### (3) Chairperson
 
-&emsp;The Secretary shall designate the Chief of the Forest Service as chairperson.
+&emsp;The Chief of the Forest Service shall serve as chairperson of the Coordinating Committee.
 
 #### (4) Duties
 
 &emsp;The Coordinating Committee shall—
 
-&emsp;&emsp;(A) provide assistance in directing and coordinating actions of the Department of Agriculture that relate to educational, technical, and financial assistance concerning forest land to private landowners;
+&emsp;&emsp;(A) provide direction and coordination of actions within the Department of Agriculture, and coordination with State agencies and the private sector, to effectively address the national priorities specified in section 2101(c) of this title, with specific focus <sup>1</sup> owners of nonindustrial private forest land;
 
-&emsp;&emsp;(B) clarify individual agency responsibilities concerning forest land of each agency represented on the Committee; and
+&emsp;&emsp;(B) clarify individual agency responsibilities of each agency represented on the Coordinating Committee concerning the national priorities specified in section 2101(c) of this title, with specific focus on nonindustrial private forest land;
 
-&emsp;&emsp;(C) advise the Secretary of intradepartmental differences regarding the implementation of this chapter, and any other Act related to the authority of the Secretary concerning non-Federal forest lands.
+&emsp;&emsp;(C) provide advice on the allocation of funds, including the competitive funds set-aside by sections 2109a and 2109b of this title; and
+
+&emsp;&emsp;(D) assist the Secretary in developing and reviewing the report required by section 2101(d) of this title.
+
+#### (5) Meeting
+
+&emsp;The Coordinating Committee shall meet annually to discuss progress in addressing the national priorities specified in section 2101(c) of this title and issues regarding nonindustrial private forest land.
+
+#### (6) Compensation
+
+#### (A) Federal members
+
+&emsp;&emsp;Members of the Coordinating Committee who are full-time officers or employees of the United States shall receive no additional pay, allowances, or benefits by reason of their service on the Coordinating Committee.
+
+#### (B) Non-Federal members
+
+&emsp;&emsp;Non-federal <sup>2</sup> members of the Coordinating Committee shall serve without pay, but may be reimbursed for reasonable costs incurred while performing their duties on behalf of the Coordinating Committee.
 
 #### (b) State Coordinating Committees
 
@@ -52,9 +96,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(VI) land-trust organizations, if applicable in the State;
 
-&emsp;&emsp;&emsp;&emsp;(VII) conservation organizations; and
+&emsp;&emsp;&emsp;&emsp;(VII) conservation organizations;
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the State fish and wildlife agency; and
+
+&emsp;&emsp;&emsp;&emsp;(IX) the State Technical Committee.
 
 &emsp;&emsp;&emsp;(iii) any other individuals determined appropriate by the Secretary.
 
@@ -74,35 +120,45 @@
 
 &emsp;&emsp;(B) make recommendations to the Secretary concerning the assignment of priorities and the coordination of responsibilities for the implementation of this chapter by the various Federal and State forest management agencies that take into consideration the mandates of each such agency;
 
-&emsp;&emsp;(C) make recommendations to the State forester or equivalent State official concerning the development of a Forest Stewardship Plan under paragraph (3); and
+&emsp;&emsp;(C) make recommendations to the State forester or equivalent State official concerning the development of the State-wide assessment and strategy regarding forest resource conditions under section 2101a of this title; and
 
 &emsp;&emsp;(D) make recommendations to the Secretary concerning those forest lands that should be given priority for inclusion in the Forest Legacy Program established pursuant to section 2103c of this title.
 
-#### (3) Forest Stewardship Plan
-
-&emsp;The State forester or equivalent State official of each State, in consultation with the State Coordinating Committee of such State, shall develop a Forest Stewardship Plan that shall—
-
-&emsp;&emsp;(A) provide baseline data on the forest resources of the State;
-
-&emsp;&emsp;(B) outline threats to the forest resources of the State;
-
-&emsp;&emsp;(C) describe economic and environmental opportunities that are linked with the forest resources of the State;
-
-&emsp;&emsp;(D) address management problems, opportunities, and objectives associated with intermingled Federal, State, and private land ownership patterns within the State; and
-
-&emsp;&emsp;(E) make planning recommendations for Federal, State, and local implementation of this chapter.
-
-#### (4) Other plans
-
-&emsp;Other State forest management plans may be used as the basis for or in lieu of establishing a plan for the State under paragraph (3) if such plans fully conform to the objectives of this section.
-
-#### (5) Termination
+#### (3) Termination
 
 &emsp;The State Coordinating Committees shall not terminate.
 
-#### (6) Rule of construction
+#### (4) Rule of construction
 
 &emsp;Nothing in this section shall be construed to compel action by any State official.
 
-(Pub. L. 95–313, §19, as added Pub. L. 101–624, title XII, §1222, Nov. 28, 1990, 104 Stat. 3540.)
+(Pub. L. 95–313, §19, as added Pub. L. 101–624, title XII, §1222, Nov. 28, 1990, 104 Stat. 3540; amended Pub. L. 110–234, title VII, §7511(c)(37), title VIII, §§8005, 8006, May 22, 2008, 122 Stat. 1271, 1284, 1285; Pub. L. 110–246, §4(a), title VII, §7511(c)(37), title VIII, §§8005, 8006, June 18, 2008, 122 Stat. 1664, 2032, 2045–2047.)
+
+#### Amendment of Subsection (b)(1)(B)(i)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (b)(1)(B)(i) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+
+Subsec. (b)(1)(B)(ii)(IX). Pub. L. 110–246, §8006(1), added subcl. (IX).
+
+Subsec. (b)(2)(C). Pub. L. 110–246, §8006(2), substituted “the State-wide assessment and strategy regarding forest resource conditions under section 2101a of this title” for “a Forest Stewardship Plan under paragraph (3)”.
+
+Subsec. (b)(3) to (6). Pub. L. 110–246, §8006(3), (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> So in original. The word “on” probably should appear after “focus”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Non-Federal”.</i>
 

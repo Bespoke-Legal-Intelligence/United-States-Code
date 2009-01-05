@@ -72,7 +72,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 #### Effective Date of 1978 Amendment
 
-Section 211(b) of Pub. L. 95–617 provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) ofthis section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year.”
+Section 211(b) of Pub. L. 95–617 provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

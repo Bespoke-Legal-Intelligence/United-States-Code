@@ -18,7 +18,7 @@
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
-(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
+(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuseor negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
 
 (f) If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.
 

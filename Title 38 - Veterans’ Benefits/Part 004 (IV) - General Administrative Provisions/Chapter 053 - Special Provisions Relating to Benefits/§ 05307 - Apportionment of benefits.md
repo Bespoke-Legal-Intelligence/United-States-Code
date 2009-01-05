@@ -6,7 +6,7 @@
 
 &emsp;(2) if the veteran is not living with the veteran's spouse, or if the veteran's children are not in the custody of the veteran, be apportioned as may be prescribed by the Secretary.
 
-(b) Where any of the children of a deceased veteran are not in the custody of the veteran's surviving spouse, the pension, compensation, ordependency and indemnity compensation otherwise payable to the surviving spouse may be apportioned as prescribed by the Secretary.
+(b) Where any of the children of a deceased veteran are not in the custody of the veteran's surviving spouse, the pension, compensation, or dependency and indemnity compensation otherwise payable to the surviving spouse may be apportioned as prescribed by the Secretary.
 
 (c) If a veteran is not living with the veteran's spouse, or if any of the veteran's children are not in the custody of the veteran, any subsistence allowance payable to the veteran under chapter 31 of this title or that portion of the educational assistance allowance payable on account of dependents under chapter 34 of this title may be apportioned as may be prescribed by the Secretary.
 
@@ -24,7 +24,7 @@ Subsec. (a)(2). Pub. L. 98–160, §703(2)(A)–(C), substituted “the veteran'
 
 Subsec. (b). Pub. L. 98–160, §703(2)(D), substituted “surviving spouse” for “widow” in two places.
 
-Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, “the custody of the veteran” for “his custody”, and “payable to the veteran” for “payable to him”.
+Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the veteran's spouse” for “his wife”, “the veteran's children” for “his children”, “the custody ofthe veteran” for “his custody”, and “payable to the veteran” for “payable to him”.
 
 1972—Subsec. (c). Pub. L. 92–540 inserted provisions relating to that portion of the educational assistance allowance payable on account of dependents under chapter 34 of this title.
 

@@ -144,7 +144,7 @@ For purposes of this section:
 
 &emsp;If the survivor annuity payable under this subsection to a surviving qualified former spouse is terminated because of remarriage before becoming age 55, the annuity shall be restored at the same rate commencing on the date such remarriage is dissolved by death, divorce, or annulment, if—
 
-&emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spouse may be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
+&emsp;&emsp;(A) such former spouse elects to receive this survivor annuity instead of any other survivor benefit to which such former spousemay be entitled under subchapter IV of chapter 84 of title 5, or under another retirement system for Government employees by reason of the remarriage; and
 
 &emsp;&emsp;(B) any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund.
 
@@ -198,7 +198,7 @@ For purposes of this section:
 
 #### (D) Death of qualified former spouse
 
-&emsp;&emsp;If the qualified former spouse dies before payment of the benefit provided under thissubsection, such payment shall be made to the estate of the qualified former spouse.
+&emsp;&emsp;If the qualified former spouse dies before payment of the benefit provided under this subsection, such payment shall be made to the estate of the qualified former spouse.
 
 #### (E) Bar to recovery
 
@@ -252,7 +252,7 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 
 #### Amendments
 
-1993—Subsec. (i)(1). Pub. L. 103–178 substituted “section 2002(a)(4)” for “section 2002(a)(3)”.
+<b>1993</b>—Subsec. (i)(1). Pub. L. 103–178 substituted “section 2002(a)(4)” for “section 2002(a)(3)”.
 
 #### Effective Date of 1993 Amendment
 

@@ -78,9 +78,13 @@ Geographic Coverage.—In this section, the term “United States” includes th
 
 Notification Required Within 7
 
-Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov (or any successor site).
+Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov <sup>1</sup> (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amendedPub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337.)
+
+#### References in Text
+
+The Internet site maintained by the General Services Administration known as FedBizOps.gov, referred to in subsec. (k), probably means FedBizOpps.gov or fbo.gov, see 65 F.R. 50872.
 
 #### Amendments
 
@@ -120,6 +124,46 @@ Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 
 
 This section is popularly known as the “Berry Amendment”.
 
+#### Procurement of Fire Resistant Rayon Fiber for the Production of Uniforms From Foreign Sources
+
+Pub. L. 110–181, div. A, title VIII, §829, Jan. 28, 2008, 122 Stat. 229, provided that:
+
+“(a)
+
+Authority To Procure.—The Secretary of Defense may procure fire resistant rayon fiber for the production of uniforms that is manufactured in a foreign country referred to in subsection (d) if the Secretary determines either of the following:
+
+&emsp;“(1) That fire resistant rayon fiber for the production of uniforms is not available from sources within the national technology and industrial base.
+
+&emsp;“(2) That—
+
+&emsp;&emsp;“(A) procuring fire resistant rayon fiber manufactured from suppliers within the national technology and industrial base would result in sole-source contracts or subcontracts for the supply of fire resistant rayon fiber; and
+
+&emsp;&emsp;“(B) such sole-source contracts or subcontracts would not be in the best interests of the Government or consistent with the objectives of section 2304 of title 10, United States Code.
+
+“(b)
+
+Submission to Congress.—Not later than 30 days after making a determination under subsection (a), the Secretary shall submit to Congress a copy of the determination.
+
+“(c)
+
+Applicability to Subcontracts.—The authority under subsection (a) applies with respect to subcontracts under Department of Defense contracts as well as to such contracts.
+
+“(d)
+
+Foreign Countries Covered.—The authority under subsection (a) applies with respect to a foreign country that—
+
+&emsp;“(1) is a party to a defense memorandum of understanding entered into under section 2531 of title 10, United States Code; and
+
+&emsp;“(2) does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
+
+“(e)
+
+National Technology and Industrial Base Defined.—In this section, the term ‘national technology and industrial base’ has the meaning given that term in section 2500 of title 10, United States Code.
+
+“(f)
+
+Sunset.—The authority under subsection (a) shall expire on the date that is five years after the date of the enactment of this Act \[Jan. 28, 2008\].”
+
 #### Training for Defense Acquisition Workforce on the Requirements of the Berry Amendment
 
 Pub. L. 109–163, div. A, title VIII, §832, Jan. 6, 2006, 119 Stat. 3388, provided that:
@@ -135,4 +179,6 @@ Inclusion of Information in New Training Programs.—The Secretary shall ensure 
 #### Application of Exception to Seafood Products
 
 Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, provided that: “Notwithstanding any other provision of law, section 2533a(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

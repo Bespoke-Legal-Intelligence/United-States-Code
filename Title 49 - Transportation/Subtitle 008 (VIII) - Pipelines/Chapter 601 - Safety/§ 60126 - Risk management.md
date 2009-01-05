@@ -38,7 +38,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;(D) the promotion of community awareness concerning how the overall level of safety will be maintained or enhanced by the demonstration project;
 
-&emsp;&emsp;(E) the development of models that categorize the risks inherent to each covered pipeline facility, taking into consideration the location, volume, pressure, and materialtransported or stored by that pipeline facility;
+&emsp;&emsp;(E) the development of models that categorize the risks inherent to each covered pipeline facility, taking into consideration the location, volume, pressure, and material transported or stored by that pipeline facility;
 
 &emsp;&emsp;(F) the application of risk assessment and risk management methodologies that are suitable to the inherent risks that are determined to exist through the use of models developed under subparagraph (E);
 

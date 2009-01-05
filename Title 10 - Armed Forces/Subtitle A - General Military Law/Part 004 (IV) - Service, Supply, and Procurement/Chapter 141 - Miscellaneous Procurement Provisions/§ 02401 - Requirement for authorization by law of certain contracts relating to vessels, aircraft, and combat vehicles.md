@@ -24,9 +24,17 @@
 
 (2) For purposes of paragraph (1)(C), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in a computation of such 30-day period.
 
-(3) Upon receipt of a notice under paragraph (1)(C), a committee identified in paragraph (1)(B) may request the Inspector General of the Department of Defense or the Comptroller General of the United States to conduct a review of the proposed contract to determine whether or not such contract meets the requirements of this section.
+(3) Upon receipt of a notice under paragraph (1)(C), a committee identified in paragraph (1)(B) may request the Inspector General of the Department of Defense or the Comptroller General of the United States to conduct a review of theproposed contract to determine whether or not such contract meets the requirements of this section.
 
 (4) If a review is requested under paragraph (3), the Inspector General of the Department of Defense or the Comptroller General of the United States, as the case may be, shall submit to the Secretary and the congressional defense committees a report on such review before the expiration of the period specified in paragraph (1)(C).
+
+(5) In the case of a contract described in subsection (a)(1)(B), the commander of the special operations command may make a contract without regard to this subsection if—
+
+&emsp;(A) funds are available and obligated for the full cost of the contract (including termination costs) on or before the date the contract is awarded;
+
+&emsp;(B) the Secretary of Defense submits to the congressional defense committees a certification that there is no alternative for meeting urgent operational requirements other than making the contract; and
+
+&emsp;(C) a period of 30 days of continuous session of Congress has expired following the date on which the certification was received by such committees.
 
 (c)(1) Funds may not be appropriated for any fiscal year to or for any armed force or obligated or expended for—
 
@@ -48,7 +56,7 @@
 
 &emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 
-> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease orcharter agreement being extended or renewed was for a period of five years or longer.
+> Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
 
 (B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased, chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
 
@@ -72,7 +80,7 @@
 
 (e)(1) Whenever a request is submitted to Congress for the authorization of the long-term lease or charter of aircraft, naval vessels, or combat vehicles or for the authorization of a lease or charter of aircraft, naval vessels, or combat vehicles which provides for a substantial termination liability on the part of the United States, the Secretary of Defense shall submit with that request an analysis of the cost to the United States (including lost tax revenues) of any such lease or charter arrangement compared with the cost to the United States of direct procurement of the aircraft, naval vessels, or combat vehicles by the United States.
 
-(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
+(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of theTreasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to subsection (f) and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
 
 (3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this section, the Secretary of Defense—
 
@@ -90,7 +98,19 @@
 
 (g) The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
 
-(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382.)
+(h) The Secretary of a military department may make a contract for the lease of a vessel or for the provision of a service through use by a contractor of a vessel, the term of which is for a period of greater than two years, but less than five years, only if—
+
+&emsp;(1) the Secretary has notified the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives of the proposed contract and included in such notification—
+
+&emsp;&emsp;(A) a detailed description of the terms of the proposed contract and a justification for entering into the proposed contract rather than obtaining the capability provided for by the lease, charter, or services involved through purchase of the vessel;
+
+&emsp;&emsp;(B) a determination that entering into the proposed contract as a means of obtaining the vessel is the most cost-effective means of obtaining such vessel; and
+
+&emsp;&emsp;(C) a plan for meeting the requirement provided by the proposed contract upon completion of the term of the lease contract; and
+
+&emsp;(2) a period of 30 days of continuous session of Congress has expired following the date on which notice was received by such committees.
+
+(Added Pub. L. 98–94, title XII, §1202(a)(1), Sept. 24, 1983, 97 Stat. 679; amended Pub. L. 98–525, title XII, §1232(a), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 103–35, title II, §201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, §§1502(a)(20), 1503(a)(21), Feb. 10, 1996, 110 Stat. 504, 512; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(13)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, §815(a)–(d)(1), Jan. 6, 2006, 119 Stat. 3381, 3382; Pub. L. 110–181, div. A, title VIII, §824, title X, §1011, Jan. 28, 2008, 122 Stat. 227, 303.)
 
 #### References in Text
 
@@ -99,6 +119,10 @@ The Internal Revenue Code of 1986, referred to in subsecs. (c)(2)(A), (d)(1)(B),
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 109–163, which was approved Jan. 6, 2006.
 
 #### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–181, §824, added par. (5).
+
+Subsec. (h). Pub. L. 110–181, §1011, added subsec. (h).
 
 2006—Pub. L. 109–163, §815(d)(1), substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in section catchline.
 
@@ -146,51 +170,55 @@ Section 1202(a)(3) of Pub. L. 98–94 provided that: “Section 2401 of title 10
 
 #### Riding Gang Member Requirements
 
-Pub. L. 109–364, div. A, title X, §1018, Oct. 17, 2006, 120 Stat. 2380, provided that:
+Pub. L. 109–364, div. A, title X, §1018, Oct. 17, 2006, 120 Stat. 2380, as amended by Pub. L. 110–417, div. C, title XXXV, §3504, Oct. 14, 2008, 122 Stat. 4762, provided that:
 
 “(a)
 
-Requirement for Charters and Contracts.—
+In General.—The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that—
 
-&emsp;“(1)
+&emsp;“(1) subject to paragraph (2), allow riding gang members to perform work on the vessel during the effective period of the charter or contract only under terms, conditions, restrictions, and requirements as provided in section 8106 of title 46, United States Code; and
 
-In general.—The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that allow riding gang members to perform work on the vessel during the effective period of the charter or contract only under terms, conditions, restrictions, and requirements that, except as provided in paragraphs (2) and (3), are substantially the same as those that apply under section 8106 of title 46, United States Code, as in effect immediately before the enactment of this Act \[Oct. 17, 2006\], with respect to a vessel referred to in that section.
-
-&emsp;“(2)
-
-Limitation.—For purposes of paragraph (1) of this subsection, subsections (a)(1)(A)(ii), (c), and (d) of section 8106 of title 46, United States Code, shall not apply with respect to a charter or contract referred to in paragraph (1).
-
-&emsp;“(3)
-
-Merchant mariner's document required.—The Secretary of Defense shall include in the provisions required under paragraph (1) a requirement that each riding gang member who performs work on the vessel must hold a merchant mariner's document issued under chapter 73 of title 46, United States Code.
-
-&emsp;“(4)
-
-Riding gang member defined.—In this subsection the term ‘riding gang member’ has the meaning that term has in section 8106 of title 46, United States Code, as in effect immediately before the enactment of this Act \[Oct. 17, 2006\].
+&emsp;“(2) require that riding gang members hold a merchant mariner's document issued under chapter 73 of title 46, United States Code, or a transportation security card issued under section 70105 of such title.
 
 “(b)
 
-Exemptions by Secretary of Defense.—
+Exemption.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Defense may issue regulations that exempt from the charter or contract provisions required under subsection (a) any individual who is on a vessel for purposes other than engaging in the operation or maintenance of the vessel, including an individual who is—
+In general.—In accordance with regulations issued by the Secretary of Defense, an individual shall not be treated as a riding gang member for the purposes of section 8106 of title 46, United States Code, and this section if—
 
-&emsp;&emsp;“(A) one of the personnel who accompany, supervise, guard, and maintain unit equipment aboard a ship, commonly referred to as supercargo personnel;
+&emsp;&emsp;“(A) the individual is aboard a vessel that is under charter or contract for the carriage of cargo for the Department of Defense, for purposes other than engaging in the operation or maintenance of the vessel; and
 
-&emsp;&emsp;“(B) one of the force protection personnel of the vessel;
+&emsp;&emsp;“(B) the individual—
 
-&emsp;&emsp;“(C) a specialized repair technician; or
+&emsp;&emsp;&emsp;“(i) accompanies, supervises, guards, or maintains unit equipment aboard a ship, commonly referred to as supercargo personnel;
 
-&emsp;&emsp;“(D) otherwise required by the Secretary of Defense to be aboard the vessel.
+&emsp;&emsp;&emsp;“(ii) is one of the force protection personnel of the vessel;
+
+&emsp;&emsp;&emsp;“(iii) is a specialized repair technician; or
+
+&emsp;&emsp;&emsp;“(iv) is otherwise required by the Secretary of Defense to be aboard the vessel.
 
 &emsp;“(2)
 
-Background check.—Such regulations shall include a requirement that any individual who is exempt under the regulations must pass a background check before going aboard the vessel, unless the individual holds a merchant mariner's document issued under chapter 73 of title 46, United States Code.
+Background check.—
+
+&emsp;&emsp;“(A)
+
+In general.—This section shall not apply to an individual unless—
+
+&emsp;&emsp;&emsp;“(i) the name and other necessary identifying information for the individual is submitted to the Secretary for a background check; and
+
+&emsp;&emsp;&emsp;“(ii) except as provided in subparagraph (B), the individual successfully passes a background check by the Secretary prior to going aboard the vessel.
+
+&emsp;&emsp;“(B)
+
+Waiver.—The Secretary may waive the application of subparagraph (A)(ii) for an individual who holds a merchant mariner's document issued under chapter 73 of title 46, United States Code, or a transportation security card issued under section 70105 of such title.
 
 &emsp;“(3)
 
-Exempted individual not treated as in addition to the crew.—An individual exempted under paragraph (1) shall not be counted as an individual in addition to the crew for the purposes of section 3304 of title 46, United States Code.”
+Exempted individual not treated as in addition to the crew.—An individual who, under paragraph (1), is not treated as a riding gang member shall not be counted as an individual in addition to the crew for the purposes of section 3304 of title 46, United States Code.”
 
 #### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
 
@@ -198,7 +226,7 @@ Pub. L. 103–160, div. A, title I, §126, Nov. 30, 1993, 107 Stat. 1567, as ame
 
 “(a)
 
-Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in aUnited States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
+Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
 
 “(b)
 
@@ -220,7 +248,7 @@ Definition.—For purposes of subsection (a), the term ‘long-term lease or cha
 
 #### Limitation on Use of Funds for Contracts for Lease or Charter of Any Vessel, Aircraft, or Vehicles
 
-Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability on Government, prior to repeal by Pub. L. 103–355, title III, §3065(b), Oct. 13, 1994, 108 Stat. 3337. See section 2401a of this title.
+Pub. L. 101–165, title IX, §9081, Nov. 21, 1989, 103 Stat. 1147, directed that no funds available to Department of Defense could be used to enter into any contract with term of eighteen months or more or to extend or renew any contract for term of eighteen months or more, for any vessel, aircraft, or vehicle, through lease, charter, or similar agreement without previously having been submitted to Committees on Appropriations, with further requirement with respect to contractual agreements which imposed certain termination liability onGovernment, prior to repeal by Pub. L. 103–355, title III, §3065(b), Oct. 13, 1994, 108 Stat. 3337. See section 2401a of this title.
 
 #### Issuance of Guidelines
 

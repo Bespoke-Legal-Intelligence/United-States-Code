@@ -62,9 +62,9 @@ The Congress makes the following findings:
 
 #### (3) “Assistance” defined
 
-&emsp;As used in paragraph (1), the term “assistance” means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
+&emsp;As used in paragraph (1), the term “assistance” means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Food for Peace Act \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
 
-(Pub. L. 104–114, title I, §111, Mar. 12, 1996, 110 Stat. 800.)
+(Pub. L. 104–114, title I, §111, Mar. 12, 1996, 110 Stat. 800; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
@@ -76,13 +76,21 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(3), is Pub. L. 87
 
 The Arms Export Control Act, referred to in subsec. (b)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Titles I and III of the Act are classified generally to subchapters II (§1701 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454. Titles I and III of the Act are classified generally to subchapters II (§1701 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

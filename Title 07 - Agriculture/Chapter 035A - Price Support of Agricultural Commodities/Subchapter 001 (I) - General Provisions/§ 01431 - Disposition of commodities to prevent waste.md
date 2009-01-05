@@ -2,11 +2,11 @@
 
 #### (a) Eligible recipients; barter; estimates; reprocessing and other charges
 
-In order to prevent the waste of commodities whether in private stocks or acquired through price-support operations by the Commodity Credit Corporation before they can be disposed of in normal domestic channels without impairment of the price-support program or sold abroad at competitive world prices, the Commodity Credit Corporation is authorized, on such terms and under such regulations as the Secretary of Agriculture may deem in the public interest: (1) upon application, to make such commodities available to any Federal agency for use in making payment for commodities not produced in the United States; (2) to barter or exchange such commodities for strategic or other materials as authorized by law; (3) in the case of food commodities to donate such commodities to the Bureau of Indian Affairs and to such State, Federal, or private agency or agencies as may be designated by the proper State or Federal authority and approved by the Secretary, for use in the United States in nonprofit school-lunch programs, in nonprofit summer camps for children, in the assistance of needy persons, and in charitable institutions, including hospitals and facilities, to the extent that they serve needy persons (including infants and children). In the case of clause (3) the Secretary shall obtain such assurance as he deems necessary that the recipients thereof will not diminish their normal expenditures for food by reason of such donation. In order to facilitate the appropriate disposal of such commodities, the Secretary may from time to time estimate and announce the quantity of such commodities which he anticipates will become available for distribution under clause (3). The Commodity Credit Corporation may pay, with respect to commodities disposed of under this subsection, reprocessing, packaging, transporting, handling, and other charges accruing up to the time of their delivery to a Federal agency, or to the designated State or private agency. In addition, in the case of food commodities disposed of under this subsection, the Commodity Credit Corporation may pay the cost of processing such commodities into a form suitable for home or institutional use, such processing to be accomplished through private trade facilities to the greatest extent possible. For the purpose of this subsection the terms “State” and “United States” include the District of Columbia and any Territory or possession of the United States. Dairy products acquired by the Commodity Credit Corporation through price support operations may, insofar as they can be used in the United States in nonprofit school lunch and other nonprofit child feeding programs, in the assistance of needy persons, and in charitable institutions, including hospitals, to the extent that needy persons are served, be donated for any such use prior to any other use or disposition. Notwithstanding any other provision of law, such dairy products may be donated for distribution toneedy households in the United States and to meet the needs of persons receiving nutrition assistance under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\].
+In order to prevent the waste of commodities whether in private stocks or acquired through price-support operations by the Commodity Credit Corporation before they can be disposed of in normal domestic channels without impairment of the price-support program or sold abroad at competitive world prices, the Commodity Credit Corporation is authorized, on such terms and under such regulations as the Secretary of Agriculture may deem in the public interest: (1) upon application, to make such commodities available to any Federal agency for use in making payment for commodities not produced in the United States; (2) to barter or exchange such commodities for strategic or other materials as authorized by law; (3) in the case of food commodities to donate such commodities to the Bureau of Indian Affairs and to such State, Federal, or private agency or agencies as may be designated by the proper State or Federal authority and approved by the Secretary, for use in the United States in nonprofit school-lunch programs, in nonprofit summer camps for children, in the assistance of needy persons, and in charitable institutions, including hospitals and facilities, to the extent that they serve needy persons (including infants and children). In the case of clause (3) the Secretary shall obtain such assurance as he deems necessary that the recipients thereof will not diminish their normal expenditures for food by reason of such donation. In order to facilitate the appropriate disposal of such commodities, the Secretary may from time to time estimate and announce the quantity of such commodities which he anticipates will become available for distribution under clause (3). The Commodity Credit Corporation may pay, with respect to commodities disposed of under this subsection, reprocessing, packaging, transporting, handling, and other charges accruing up to the time of their delivery to a Federal agency, or to the designated State or private agency. In addition, in the case of food commodities disposed of under this subsection, the Commodity Credit Corporation may pay the cost of processing such commodities into a form suitable for home or institutional use, such processing to be accomplished through private trade facilities to the greatest extent possible. For the purpose of this subsection the terms “State” and “United States” include the District of Columbia and any Territory or possession of the United States. Dairy products acquired by the Commodity Credit Corporation through price support operations may, insofar as they can be used in the United States in nonprofit school lunch and other nonprofit child feeding programs, in the assistance of needy persons, and in charitable institutions, including hospitals, to the extent that needy persons are served, be donated for any such use prior to any other use or disposition. Notwithstanding any other provision of law, such dairy products may be donated for distribution to needy households in the United States and to meet the needs of persons receiving nutrition assistance under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\].
 
 #### (b) Furnishing of eligible commodities for carrying out programs of assistance in developing and friendly countries; availability of eligible commodities for nonprofit and voluntary agencies and cooperatives
 
-(1) The Secretary, subject to the requirements of paragraph (10), may furnish eligible commodities for carrying out programs of assistance in developing countries and friendly countries under titles II and III of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1721 et seq., 1727 et seq.\] and under the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], as approved by the Secretary, and for such purposes as are approved by the Secretary. To ensure that the furnishing of commodities under this subsection is coordinated with and complements other United States foreign assistance, assistance under this subsection shall be coordinated through the mechanism designated by the President to coordinate assistance under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\].
+(1) The Secretary, subject to the requirements of paragraph (10), may furnish eligible commodities for carrying out programs of assistance in developing countries and friendly countries under titles II and III of the Food for Peace Act \[7 U.S.C. 1721 et seq., 1727 et seq.\] and under the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], as approved by the Secretary, and for such purposes as are approved by the Secretary. To ensure that the furnishing of commodities under this subsection is coordinated with and complements other United States foreign assistance, assistance under this subsection shall be coordinated through the mechanism designated by the President to coordinate assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\].
 
 (2) As used in this subsection, the term “eligible commodities” means—
 
@@ -16,7 +16,7 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 (3)(A) Commodities may not be made available for disposition under this subsection in amounts that (i) will, in any way, reduce the amounts of commodities that traditionally are made available through donations to domestic feeding programs or agencies, or (ii) will prevent the Secretary from fulfilling any agreement entered into by the Secretary under a payment-in-kind program under this Act or other Acts administered by the Secretary.
 
-(B)(i) The requirements of section 403(a) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1733(a)\] shall apply with respect to commodities furnished under this subsection. Commodities may not be furnished for disposition to any country under this subsection except on determinations by the Secretary that—
+(B)(i) The requirements of section 403(a) of the Food for Peace Act \[7 U.S.C. 1733(a)\] shall apply with respect to commodities furnished under this subsection. Commodities may not be furnished for disposition to any country under this subsection except on determinations by the Secretary that—
 
 &emsp;(I) the receiving country has the absorptive capacity to use the commodities efficiently and effectively; and
 
@@ -38,11 +38,11 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 (4) Agreements may be entered into under this subsection to provide eligible commodities in installments over an extended period of time. In agreements with recipients of eligible commodities under this subsection (including nonprofit and voluntary agencies or cooperatives), subject to the availability of commodities each fiscal year, the Secretary, on request, shall approve multiyear agreements to make agricultural commodities available for distribution or sale by the recipients if the agreements otherwise meet the requirements of this subsection.
 
-(5)(A) Section 406 of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736\] shall apply to the commodities furnished under this subsection.
+(5)(A) Section 406 of the Food for Peace Act \[7 U.S.C. 1736\] shall apply to the commodities furnished under this subsection.
 
 (B) The Commodity Credit Corporation may pay the processing and domestic handling costs incurred, as authorized under this subsection, in the form of eligible commodities, as defined in paragraph (2)(A), if the Secretary determines that such in-kind payment will not disrupt domestic markets.
 
-(6) The cost of commodities furnished under this subsection, and expenses incurred under section 406 of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736\] in connection with those commodities, shall be in addition to the level of assistance programmed under that Act \[7 U.S.C. 1691 et seq.\] and shall not be considered expenditures for international affairs and finance.
+(6) The cost of commodities furnished under this subsection, and expenses incurred under section 406 of the Food for Peace Act \[7 U.S.C. 1736\] in connection with those commodities, shall be in addition to the level of assistance programmed under that Act \[7 U.S.C. 1691 et seq.\] and shall not be considered expenditures for international affairs and finance.
 
 (7) Eligible commodities furnished under this subsection may be sold or bartered only with the approval of the Secretary and solely as follows:
 
@@ -70,7 +70,7 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 &emsp;&emsp;(IV) the Polish Catholic Episcopate's Rural Water Supply Foundation.
 
-&emsp;(iii) Except as otherwise provided in clause (v), such agreements, taken together for each fiscal year, shall provide for sales of commodities and products for proceeds in amounts that are, in the aggregate, not less than 10 percent of the aggregate value of all commodities and products furnished, or the minimum tonnage required, whichever is greater, for carrying out programs of assistance under this subsection in such fiscal year. The minimum allocation requirements of this clause apply with respect to commodities and products made available under this subsection for carrying out programs of assistance under titles II and III of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1721 et seq., 1727 et seq.\], and not with respect to commodities and products made available to carry out the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\].
+&emsp;(iii) Except as otherwise provided in clause (v), such agreements, taken together for each fiscal year, shall provide for sales of commodities and products for proceeds in amounts that are, in the aggregate, not less than 10 percent of the aggregate value of all commodities and products furnished, or the minimum tonnage required, whichever is greater, for carrying out programs of assistance under this subsection in such fiscal year. The minimum allocation requirements of this clause apply with respect to commodities and products made available under this subsection for carrying out programs of assistance under titles II and III of the Food for Peace Act \[7 U.S.C. 1721 et seq., 1727 et seq.\], and not with respect to commodities and products made available to carry out the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\].
 
 &emsp;(iv) Proceeds generated from the sale of commodities or products under this subparagraph shall be expended within the country of origin within a reasonable length of time, as determined by the Secretary, except that the Secretary may permit the use of proceeds in a country other than the country of origin as necessary to expedite the transportation of commodities and products furnished under this subsection, or to otherwise carry out the purposes of this subsection.
 
@@ -78,7 +78,7 @@ In order to prevent the waste of commodities whether in private stocks or acquir
 
 &emsp;(E) Sales and barter to cover expenses incurred under paragraph (5)(a).
 
-&emsp;(F) The provisions of sections 403(i) and 407(c) <sup>1</sup> of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1733(i), 1736a(c)\] shall apply to donations, sales and barters of eligible commodities under this subsection.
+&emsp;(F) The provisions of sections 403(i) and 407(c) <sup>1</sup> of the Food for Peace Act \[7 U.S.C. 1733(i), 1736a(c)\] shall apply to donations, sales and barters of eligible commodities under this subsection.
 
 > The Secretary may approve the use of proceeds or services realized from the sale or barter of a commodity furnished under this subsection by a nonprofit voluntary agency, cooperative, or intergovernmental agency or organization to meet administrative expenses incurred in connection with activities undertaken under this subsection.
 
@@ -102,13 +102,13 @@ Finalization of agreements.—The Secretary is encouraged to finalize program ag
 
 Regulations.—The Secretary shall be responsible for regulations governing sales and barter, and the use of foreign currency proceeds, under paragraph (7) of this subsection that will provide reasonable safeguards to prevent the occurrence of abuses in the conduct of activities provided for in paragraph (7).
 
-(9)(A) Each recipient of commodities and products approved for sale or barter under paragraph (7) shall report to the Secretary information with respect to the items required to be included in the Secretary's report pursuant to clauses (i) through (iv) of subparagraph (B). Reports pursuant to this subparagraph shall be submitted in accordance with regulations of the Secretary.Such regulations shall require at least one report annually, to be submitted not later than December 31 following the end of the fiscal year in which the commodities and products are received; except that a report shall not be required with respect to fiscal year 1985.
+(9)(A) Each recipient of commodities and products approved for sale or barter under paragraph (7) shall report to the Secretary information with respect to the items required to be included in the Secretary's report pursuant to clauses (i) through (iv) of subparagraph (B). Reports pursuant to this subparagraph shall be submitted in accordance with regulations of the Secretary. Such regulations shall require at least one report annually, to be submitted not later than December 31 following the end of the fiscal year in which the commodities and products are received; except that a report shall not be required with respect to fiscal year 1985.
 
 (B) Omitted.
 
 (10)
 
-Sale procedure.—In approving sales of commodities under this subsection, the Secretary shall follow the sale procedure described in section 403(<i>l</i>) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1733(<i>l</i>)\].
+Sale procedure.—In approving sales of commodities under this subsection, the Secretary shall follow the sale procedure described in section 403(<i>l</i>) of the Food for Peace Act \[7 U.S.C. 1733(<i>l</i>)\].
 
 (11)
 
@@ -140,13 +140,13 @@ Considerations.—In conducting the review, the Secretary shall consider—
 
 Consultations.—Not later than 1 year after May 13, 2002, the Secretary shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures under this paragraph.
 
-(Oct. 31, 1949, ch. 792, title IV, §416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, §309, formerly §302, 68 Stat. 458, renumbered §309, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, §212, 70 Stat. 203; Pub. L. 85–483, §1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, §402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, §205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, §202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, §3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, §411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, §1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, §110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, §502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, §1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, §16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, §1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, §2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, §562(part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§1514, 1575, title XVII, §1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, §333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289, §1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, §576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, §264, Apr. 4, 1996, 110 Stat. 974; Pub. L. 107–171, title III, §§3009(b)(1), 3201, May 13, 2002, 116 Stat. 283, 299; Pub. L. 107–206, title I, §105, Aug. 2, 2002, 116 Stat. 824.)
+(Oct. 31, 1949, ch. 792, title IV, §416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, §309, formerly §302, 68 Stat. 458, renumbered §309, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, §212, 70 Stat. 203; Pub. L. 85–483, §1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, §402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, §205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, §202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, §3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, §411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, §1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, §110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, §502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, §1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, §16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, §1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, §2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, §562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§1514, 1575, title XVII, §1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, §333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289,§1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, §576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, §264, Apr. 4, 1996, 110 Stat. 974; Pub. L. 107–171, title III, §§3009(b)(1), 3201, May 13, 2002, 116 Stat. 283, 299; Pub. L. 107–206, title I, §105, Aug. 2, 2002, 116 Stat. 824; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(B), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (b)(1), (6), (7)(D)(iii), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of this title. Titles II and III of the Act are classified generally to subchapters III (§1721 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsec. (b)(1), (6), (7)(D)(iii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. Titles II and III of the Act are classified generally to subchapters III (§1721 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 The Food for Progress Act of 1985, referred to in subsec. (b)(1), (7)(D)(iii), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736<i>o</i> of this title.
 
@@ -154,13 +154,15 @@ This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 St
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (b)(7)(D)(ii), is section 2226 of Pub. L. 100–418, which is set out as a note below.
 
-Section 407(c) of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1736a(c)\], referred to in subsec. (b)(7)(F), was redesignated section 407(b) of that Act \[7 U.S.C. 1736a(b)\] by Pub. L. 104–66, title I, §1011(e)(2), Dec. 21, 1995, 109 Stat. 709.
+Section 407(c) of the Food for Peace Act \[7 U.S.C. 1736a(c)\], referred to in subsec. (b)(7)(F), was redesignated section 407(b) of that Act \[7 U.S.C. 1736a(b)\] by Pub. L. 104–66, title I, §1011(e)(2), Dec. 21, 1995, 109 Stat. 709.
 
 #### Codification
 
 Subsection (b)(9)(B), which required the Secretary to submit an annual report to Congress on sales and barter, and use of foreign currency proceeds, under subsection (b)(7) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
 2002—Subsec. (b)(7)(D)(i). Pub. L. 107–171, §3201(a)(1), struck out “foreign currency” before “proceeds generated from such sale”.
 
@@ -202,7 +204,7 @@ Subsec. (c). Pub. L. 104–127, §264(2), struck out subsec. (c), which establis
 
 Subsec. (b)(1). Pub. L. 101–624, §1514(1), inserted reference to title III of Agricultural Trade Development and Assistance Act of 1954.
 
-Subsec. (b)(3)(B)(i). Pub. L. 101–624, §1514(2), substituted reference to section 403(a) of Agricultural Trade Development and Assistance Act of 1954 for reference to section 401(b) of such Act.
+Subsec. (b)(3)(B)(i). Pub. L. 101–624, §1514(2), substituted reference to section 403(a) of AgriculturalTrade Development and Assistance Act of 1954 for reference to section 401(b) of such Act.
 
 Subsec. (b)(5)(A). Pub. L. 101–624, §1514(3), substituted reference to section 406 of Agricultural Trade Development and Assistance Act of 1954 for reference to section 203 of such Act.
 
@@ -274,6 +276,10 @@ Subsec. (d). Pub. L. 99–198, §1129, added subsec. (d).
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 576(d) of Pub. L. 103–306 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall take effect October 1, 1994.”
@@ -320,15 +326,7 @@ Definitions.—For purposes of this section—
 
 #### Use of Polish Currencies
 
-Section 2224 of Pub. L. 100–418 provided that:
-
-“(a)
-
-Use of Polish Currencies.—Subject to subsection (b), nonconvertible Polish currencies (zlotys) held by the United States on the date of enactment of this Act \[Aug. 23, 1988\] pursuant to an agreement with the Government of Poland under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] which are not assets of the Commodity Credit Corporation shall be made available, to the extent and in such amounts as are provided in advance in appropriation Acts, for eligible activities in Poland described in section 416(b)(7)(D)(ii) of the Agricultural Act of 1949 \[7 U.S.C. 1431(b)(7)(D)(ii)\] (as amended by section 2225 of this Act) and approved, upon application, by the joint commission described in section 2226 \[of Pub. L. 100–418, set out below\] and by the United States chief of diplomatic mission in Poland.
-
-“(b)
-
-Availability of Currencies.—Currencies available under subsection (a) are currencies available after satisfaction of existing commitments to use such currencies for other purposes specified by law.”
+Pub. L. 100–418, title II, §2224, Aug. 23, 1988, 102 Stat. 1337, provided that nonconvertible Polish currencies held by the United States on Aug. 23, 1988, pursuant to an agreement with the Government of Poland under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] which were not assets of the Commodity Credit Corporation would be made available, to the extent and in such amounts as had been provided in advance in appropriation Acts, for eligible activities in Poland described in section 1431(b)(7)(D)(ii) of this title and approved, upon application, by the joint commission described in section 2226 of Pub. L. 100–418, set out below, and by the United States chief of diplomatic mission in Poland.
 
 #### Joint Commission
 
@@ -352,7 +350,7 @@ Membership.—The joint commission shall be composed of—
 
 Section 4309 of Pub. L. 100–418 provided that: “In recognition of the importance of barter programs in expanding agricultural trade, it is the sense of Congress that the Secretary of Agriculture should expedite the implementation of section 416(d) of the Agricultural Act of 1949 (7 U.S.C. 1431(d)) and section 1167 of the Food Security Act of 1985 (7 U.S.C. 1727g note and 1736aa), relating to the barter of agricultural commodities.”
 
-Pub. L. 98–180, title III, §302, Nov. 29, 1983, 97 Stat. 1151, provided that:
+Pub. L. 98–180, title III, §302, Nov. 29, 1983, 97 Stat. 1151, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
 “(a) It is the sense of Congress that the Secretary of Agriculture should exchange or barter, to the maximum extent practicable under the provisions of law specified in subsection (b), commodities (especially dairy products) owned by the Commodity Credit Corporation for materials, goods, and equipment produced in foreign countries.
 
@@ -360,7 +358,7 @@ Pub. L. 98–180, title III, §302, Nov. 29, 1983, 97 Stat. 1151, provided that:
 
 &emsp;“(1) section 4(h) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b(h)),
 
-&emsp;“(2) section 310 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1692) \[7 U.S.C. 1727g\], and
+&emsp;“(2) section 310 of the Food for Peace Act (7 U.S.C. 1692) \[7 U.S.C. 1727g\], and
 
 &emsp;“(3) section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431).”
 
@@ -370,85 +368,11 @@ Annual minimum of food assistance made available to foreign countries to be not 
 
 #### Additional Levels of Flour, Cornmeal, Wheat, Soybeans, and Dairy Products for Friendly Countries in Fiscal Years 1987, 1988, and 1989
 
-Pub. L. 99–500, §101(a) \[title VI, §646\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §646\], Oct. 30, 1986, 100 Stat. 3341, 3341–36, provided that:
-
-“(1) It is the sense of the Senate that the Secretary of Agriculture should make available not less than $10,000,000 worth of flour and cornmeal using the wheat and cornstocks of the Commodity Credit Corporation. Such flour and cornmeal shall be in addition to the traditional level of assistance made available under section 1114 of the Agriculture and Food Act of 1981 \[Pub. L. 97–98, enacting sections 1431e and 4004a of this title and amending section 4004 of this title\], section 416(a) of the Agricultural Act of 1949 \[7 U.S.C. 1431(a)\], section 4 of the Agriculture and Consumer Protection Act of 1973 \[Pub. L. 93–86, 7 U.S.C. 612c note\], and any other provision of law administered by the Secretary.
-
-“(2)(a) During the three-year period beginning with the fiscal year ending September 30, 1987, through the fiscal year ending September 30, 1989, the Secretary of Agriculture shall make available to PVO's and cooperatives and to governments a total of at least 500,000 metric tons of wheat, 500,000 metric tons of soybeans, and 50 million pounds of dairy products under paragraph (11)(B) of section 416(b) of the Agricultural Act of 1949 \[7 U.S.C. 1431(b)(11)(B)\], notwithstanding paragraph (11)(c) of section 416(b) of such Act.
-
-“(b) Commodities made available under this section during any fiscal year shall be—
-
-&emsp;“(1) subject to the agreement of recipient nations—
-
-&emsp;&emsp;“(A) to acquire through commercial arrangements agricultural commodities directly or by private purchases during the fiscal year in an amount equal to 105 percent of the average amount of such agricultural commodities acquired through commercial arrangements during the 3 preceding years.
-
-&emsp;&emsp;“(B) to permit the sale of commodities furnished under this section in the recipient nation and to use the local currency generated from such sales—
-
-&emsp;&emsp;&emsp;“(i) by PVO's and cooperatives to carry out approved programs of assistance in the recipient nation;
-
-&emsp;&emsp;&emsp;“(ii) to operate lending programs in the manner provided for in section 108 of Public Law 480 \[probably means former 7 U.S.C. 1708\]; and
-
-&emsp;&emsp;&emsp;“(iii) to reimburse the United States in dollars for costs incurred in furnishing such commodities, including transportation and processing, during the same fiscal year in which such costs were incurred. Reimbursements under this paragraph may be made in local currencies generated from the sale of the commodities under this paragraph if they are used to pay expenses of the United States in the recipient nation.
-
-&emsp;“(2) No greater than such amounts as is requested by recipient nations.
-
-“(c) To the extent practicable, commodities made available under this section shall be furnished in equal quantities during each of these fiscal years.
-
-“(d) It is the sense of Congress that commodities provided for in this subsection be made available to PVO's and cooperatives operating in the Republic of the Philippines, and the government of the Philippines.
-
-“(3)(a) During the three-year period beginning with the fiscal year ending September 30, 1987, through the fiscal year ending September 30, 1989, the Secretary of Agriculture shall make available to the friendly countries, under paragraph (b)(11)(A) of section 416 of the Agricultural Act of 1949 \[7 U.S.C. 1431(b)(11)(A)\], at least 500,000 metric tons of wheat and 45 million pounds of dairy products, notwithstanding paragraph (11)(c) of section 416(b) of such Act.
-
-“(b) Commodities made available to a nation under this section during any fiscal year shall be—
-
-&emsp;“(1) subject to the agreement of the Nation—
-
-&emsp;&emsp;“(A) to acquire through commercial arrangements agricultural commodities directly or by private purchases during the fiscal year in an amount equal to 105 percent of the average amount of such agricultural commodities acquired through commercial arrangements during the preceding three years.
-
-&emsp;&emsp;“(B) to sell any commodities furnished under this section within the nation and to use the local currencies generated from such sales to (i) establish and carry out lending programs in such nations in the manner provided for in section 108 of the Agricultural Trade Development and Assistance Act of 1954 \[former 7 U.S.C. 1708\] and (ii) reimburse the United States in dollars for costs incurred in furnishing such commodities, including transportation and processing, in the same fiscal year in which such costs were incurred. Reimbursements under this paragraph may be made in local currencies generated from the sale of the commodities under paragraph (2) if they are used to pay expenses of the United States in the recipient Nation.
-
-&emsp;“(2) No greater than such amounts as is requested by such governments.
-
-“(c) To the extent practicable, commodities made available under this section shall be furnished in equal quantities during each of the three fiscal years.
-
-“(d) For purchases \[purposes\] of this section, the term ‘friendly countries’ shall have the same meaning as that term has under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\].
-
-“(e) It is the sense of Congress that commodities provided for in this subsection be made available to the Philippines and friendly countries of Africa.
-
-“(4)(a) During the three-year period beginning with the fiscal year ending September 30, 1987, through the fiscal year ending September 30, 1989, the Secretary of Agriculture shall make available to PVO's cooperatives and governments, 460,000 metric tons of wheat, 137 million pounds of dairy products, and 180,000 metric tons of soybeans; under paragraph (11)(B) of section 416(b) of the Agricultural Act of 1949 \[7 U.S.C. 1431(b)(11)(B)\], notwithstanding paragraph (11)(C) of section 416(b) of such Act.
-
-“(b) Commodities made available to a nation, or PVO's and cooperatives operating in such nation, under this section during any fiscal year shall be—
-
-&emsp;“(1) subject to the agreement of the nation—
-
-&emsp;&emsp;“(A) to acquire through commercial arrangements agricultural commodities directly or by private purchases during the fiscal year in an amount equal to 105 percent of the average amount of such agricultural commodities acquired through commercial arrangements during the preceding three years;
-
-&emsp;&emsp;“(B) to permit the sale of commodities furnished under this section within the nation and to use the local currencies generated from such sales (i) by PVO's and cooperatives to carry out approved programs of assistance in the country and (ii) to operate lending programs in the manner provided for in section 108 of Public Law 480 \[probably means former 7 U.S.C. 1708\]; and
-
-&emsp;&emsp;“(C) to reimburse the United States in dollars for costs incurred in furnishing such commodities, including transportation and processing, in the same fiscal year in which such costs were incurred. Reimbursements under this paragraph may be made in local currencies generated from the sale of the commodities under paragraph (2) if they are used to pay expenses of the United States in the recipient nation.
-
-&emsp;“(2) No greater than such amounts as is requested by such government.
-
-“(c) To the extent practicable, commodities made available under this section shall be furnished in equal quantities during each of the three fiscal years.
-
-“(d) For purposes of this section, the term ‘friendly countries’ shall have the same meaning as that term has under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\].
-
-“(e) It is the sense of Congress that of the commodities made available under this subsection—
-
-&emsp;“(1) 400,000 metric tons of wheat, 80 million pounds of dairy products and 180,000 metric tons of soybeans be made available to Nigeria;
-
-&emsp;“(2) 1 million metric tons of wheat be made available to friendly countries in Africa, other than Nigeria;
-
-&emsp;“(3) 30,000 metric tons of soybeans, and 50 million pounds of dairy products be made available to India; and
-
-&emsp;“(4) 60,000 metric tons of wheat and 7 million pounds of dairy products be made available to Bangladesh.”
+Pub. L. 99–500, §101(a) \[title VI, §646\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §646\], Oct. 30, 1986, 100 Stat. 3341, 3341–36, directed the Secretary of Agriculture, during the three-year period beginning with the fiscal year ending Sept. 30, 1987, through the fiscal year ending Sept. 30, 1989, to make available, in addition to the traditional level of assistance made available to friendly countries, specified additional tonnage of flour, cornmeal, wheat, soybeans, and dairy products, subject to certain conditions.
 
 #### Commodity Distribution Program; Purchase of Agricultural Commodities With Unexpected or Available Funds; Prohibition on Furnishing Commodities to Summer Camps; Participation in Program of Individual Receiving Supplemental Security Income Benefits
 
 Authority of Secretary to purchase and furnish agricultural commodities under commodity distribution programs and participation of individuals receiving supplemental security income benefits in such programs, see section 4 of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, set out as a note under section 612c of this title.
-
-#### Eligibility of Supplemental Security Income Recipients for Food Stamps During Period Ending June 30, 1977
-
-Individuals receiving supplemental security income benefits not to be considered members of householdsfor any purpose of the food distribution program for families under this section for any month during the period ending June 30, 1977, if, for such month, such individual resides in a State which provides State supplementary payments of the type described in section 1382e(a) of Title 42, The Public Health and Welfare, and the level of which has been found by the Secretary of Health, Education, and Welfare to have been specifically increased so as to include the bonus value of food stamps.
 
 #### Home Economics Training
 
@@ -456,7 +380,7 @@ Pub. L. 86–756, Sept. 13, 1960, 74 Stat. 899, as amended by Pub. L. 87–179, 
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour, Cornmeal and Processed Food Grain Products
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, §1209, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 106–387, §1(a) \[title VII, §758\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], section 416 of the Agricultural Act of 1949, as amended \[this section\], section 210 of the Agricultural Act of 1956 \[section 1859 of this title\], or title II of the Agricultural Trade Development and Assistance Act, as amended \[sections 1721 to 1726 of this title\], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to the Food for Progress Act of 1985, such section 416, and to such section 210, and make such processed food products available pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended \[section 1427 of this title\], a quantity of the grain equivalent to the processed food products so purchased: <i>Provided</i>, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, §1209, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 106–387, §1(a) \[title VII, §758\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to the Food for Progress Act of 1985 \[7 U.S.C. 1736<i>o</i>\], section 416 of the Agricultural Act of 1949, as amended \[this section\], section 210 of the Agricultural Act of 1956 \[section 1859 of this title\], or title II of the Food for Peace Act, as amended \[sections 1721 to 1726 of this title\], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to the Food for Progress Act of 1985, such section 416, and to such section 210, and make such processed food products available pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended \[section 1427 of this title\], a quantity of the grain equivalent to the processed food products so purchased: <i>Provided</i>, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
 
 #### Irish Potatoes Acquired Under 1949 Price Support Program
 

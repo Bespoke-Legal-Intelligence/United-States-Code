@@ -10,7 +10,7 @@ The purposes of the Commission are as follows:
 
 &emsp;(4) To recommend improvements in the coordination of local, State, Federal, and international crime control and prevention efforts, including efforts relating to crime near international borders.
 
-&emsp;(5) To make a comprehensive study of the economic and social factors leading to or contributing to crime and violence, including the causes of illicit drug use and other substance abuse, and to develop specific proposals for legislative and administrative actions to reduce crime and violence and the factors that contribute to it.
+&emsp;(5) To make a comprehensive study of the economic and social factors leading to or contributing to crime and violence, including the causes of illicit drug use and other substanceabuse, and to develop specific proposals for legislative and administrative actions to reduce crime and violence and the factors that contribute to it.
 
 &emsp;(6) To recommend means of utilizing criminal justice resources as effectively as possible, including targeting finite correctional facility space to the most serious and violent offenders, and considering increased use of intermediate sanctions for offenders who can be dealt with adequately by such means.
 

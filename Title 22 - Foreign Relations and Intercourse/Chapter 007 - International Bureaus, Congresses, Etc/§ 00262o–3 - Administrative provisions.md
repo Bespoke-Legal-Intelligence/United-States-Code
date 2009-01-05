@@ -6,7 +6,7 @@ The Secretary of the Treasury should instruct the United States Executive Direct
 
 &emsp;(1) No later than 60 calendar days after the Board of Directors of the institution approves the minutes of a Board meeting, the institution shall post on its website an electronic version of the minutes, with material deemed too sensitive for public distribution redacted.
 
-&emsp;(2) The institution shall keep a written transcript or electronic recording of each meetingof its Board of Directors and preserve the transcript or recording for at least 10 years after the meeting.
+&emsp;(2) The institution shall keep a written transcript or electronic recording of each meeting of its Board of Directors and preserve the transcript or recording for at least 10 years after the meeting.
 
 &emsp;(3) All public sector loan, credit and grant documents, country assistance strategies, sector strategies, and sector policies prepared by the institution and presented for endorsement or approval by its Board of Directors, with materials deemed too sensitive for public distribution redacted or withheld, shall be made available to the public 15 calendar days before consideration by the Board or, if not then available, when the documents are distributed to the Board. Such documents shall include the resources and conditionality necessary to ensure that the borrower complies with applicable laws in carrying out the terms and conditions of such documents, strategies, or policies, including laws pertaining to the integrity and transparency of the process such as public consultation, and to public health and safety and environmental protection.
 

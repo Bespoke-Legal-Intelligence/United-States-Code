@@ -6,7 +6,7 @@ Any manufacturer of vinegar qualified under this part may, under such regulation
 
 #### (b) Removals
 
-No person shall remove, or cause to be removed, from any plant established under this part any vinegar or other fluid or material containing a greater proportion than 2 percent of proof spirits.
+No person shall remove, or cause to be removed, from any plant established under thispart any vinegar or other fluid or material containing a greater proportion than 2 percent of proof spirits.
 
 #### (c) Records
 

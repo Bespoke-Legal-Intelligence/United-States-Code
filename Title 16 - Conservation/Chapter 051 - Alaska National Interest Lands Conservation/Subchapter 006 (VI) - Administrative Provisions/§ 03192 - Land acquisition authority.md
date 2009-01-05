@@ -20,7 +20,7 @@ Lands located within the boundaries of a conservation system unit which are owne
 
 #### (c) Exchanges
 
-Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection (b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to acceptthe exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
+Lands located within the boundaries of a conservation system unit (other than National Forest Wilderness) which are owned by persons or entities other than those described in subsection (b) of this section shall not be acquired by the Secretary without the consent of the owner unless prior to final judgment on the value of the acquired land, the owner, after being offered appropriate land of similar characteristics and like value (if such land is available from public lands located outside the boundaries of any conservation system unit), chooses not to accept the exchange. In identifying public lands for exchange pursuant to this subsection, the Secretary shall consult with the Alaska Land Use Council.
 
 #### (d) Improved property
 
@@ -42,7 +42,7 @@ For the purposes of this section, the term “improved property” means—
 
 &emsp;(2) property developed for noncommercial recreational uses, together with any structures accessory thereto which were so used on or before January 1, 1980, to the extent that entry onto such property was legal and proper.
 
-> In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
+> In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate suchlands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
 
 #### (g) Consideration of hardship
 

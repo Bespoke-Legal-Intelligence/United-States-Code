@@ -8,7 +8,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;(2) There is no constitutional right to serve in the armed forces.
 
-&emsp;(3) Pursuant to the powers conferred by section 8 of article I of the Constitution of the United States, it lies within the discretion ofthe Congress to establish qualifications for and conditions of service in the armed forces.
+&emsp;(3) Pursuant to the powers conferred by section 8 of article I of the Constitution of the United States, it lies within the discretion of the Congress to establish qualifications for and conditions of service in the armed forces.
 
 &emsp;(4) The primary purpose of the armed forces is to prepare for and to prevail in combat should the need arise.
 

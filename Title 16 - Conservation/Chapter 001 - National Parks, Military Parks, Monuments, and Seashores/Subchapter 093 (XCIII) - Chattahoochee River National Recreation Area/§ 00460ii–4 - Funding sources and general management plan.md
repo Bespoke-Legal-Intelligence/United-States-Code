@@ -42,7 +42,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 #### (d) Federal actions affecting corridor area; procedural requirements: notification of Secretary, Secretary's recommendations or notification of Congressional committees, copies of decisions and recommendations to Congressional committees; concurrence condition; exemptions
 
-(1) Whenever any Federal department, agency, or instrumentality proposes to undertake any action, or provide Federal assistance for any action, or issue any license or permit for an action within the corridor referred to in section 460ii of this title which may have a direct and adverse effect on the natural or cultural resources of the recreation area, the head of such department, agency, or instrumentality shall—
+(1) Whenever any Federal department, agency, or instrumentality proposes to undertake anyaction, or provide Federal assistance for any action, or issue any license or permit for an action within the corridor referred to in section 460ii of this title which may have a direct and adverse effect on the natural or cultural resources of the recreation area, the head of such department, agency, or instrumentality shall—
 
 &emsp;(A) promptly notify the Secretary of the action at the time it is planning the action, preparing an environmental assessment regarding the action, or preparing an environmental impact statement under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] for the action;
 

@@ -114,7 +114,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;(2)
 
-Permissible acts of encryption research.—Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
+Permissible acts of encryption research.—Notwithstanding the provisions ofsubsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
 
 &emsp;&emsp;(A) the person lawfully obtained the encrypted copy, phonorecord, performance, or display of the published work;
 
@@ -240,7 +240,7 @@ Certain encoding restrictions.—No person shall apply the automatic gain contro
 
 &emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
 
-&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
+&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of thepublic for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
 
 &emsp;&emsp;(C) from a physical medium containing one or more prerecorded audiovisual works; or
 

@@ -10,7 +10,7 @@ The Commodity Credit Corporation may accept bids at lower than the resale price 
 
 #### (c) Nonfat dry milk sold to be used only for manufacture of casein
 
-The Commodity Credit Corporation shall take appropriate action to ensure that the nonfat drymilk sold by the Corporation under this section is used only for the manufacture of casein.
+The Commodity Credit Corporation shall take appropriate action to ensure that the nonfat dry milk sold by the Corporation under this section is used only for the manufacture of casein.
 
 (Pub. L. 99–198, title I, §105, Dec. 23, 1985, 99 Stat. 1367.)
 

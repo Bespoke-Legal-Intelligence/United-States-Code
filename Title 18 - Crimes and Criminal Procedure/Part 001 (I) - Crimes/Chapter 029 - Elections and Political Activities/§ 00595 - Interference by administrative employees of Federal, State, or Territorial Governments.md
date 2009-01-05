@@ -4,7 +4,7 @@ Whoever, being a person employed in any administrative position by the United St
 
 This section shall not prohibit or make unlawful any act by any officer or employee of any educational or research institution, establishment, agency, or system which is supported in whole or in part by any state or political subdivision thereof, or by the District of Columbia or by any Territory or Possession of the United States; or by any recognized religious, philanthropic or cultural organization.
 
-(June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 91–405, title II, §204(d)(6), Sept. 22, 1970, 84 Stat. 853;Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 91–405, title II, §204(d)(6), Sept. 22, 1970, 84 Stat. 853; Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

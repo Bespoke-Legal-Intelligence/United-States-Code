@@ -48,7 +48,7 @@ The funds appropriated to carry out this subchapter for any fiscal year that rem
 
 #### (d) Allotments for national grants
 
-From funds available under subsection (c) for national grants, the Secretary shall allot for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in each State, an amount that bears the same ratio to such funds as the product of the number of individuals age 55 or older in theState and the allotment percentage of such State bears to the sum of the corresponding products for all States, except as follows:
+From funds available under subsection (c) for national grants, the Secretary shall allot for public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary in each State, an amount that bears the same ratio to such funds as the product of the number of individuals age 55 or older in the State and the allotment percentage of such State bears to the sum of the corresponding products for all States, except as follows:
 
 #### (1) Minimum allotment
 

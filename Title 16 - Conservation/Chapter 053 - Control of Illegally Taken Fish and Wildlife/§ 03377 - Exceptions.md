@@ -8,9 +8,9 @@ The provisions of paragraph (1) of section 3372(a) of this title shall not apply
 
 The provisions of paragraphs (1), (2)(A), and (3)(A) of section 3372(a) of this title shall not apply to—
 
-&emsp;(1) any activity regulated by the Tuna Conventions Act of 1950 (16 U.S.C. 951–961) or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971–971(h)); or
+&emsp;(1) any activity regulated by the Tuna Conventions Act of 1950 (16 U.S.C. 951–961) or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971–971(h) <sup>1</sup>); or
 
-&emsp;(2) any activity involving the harvesting of highly migratory species (as defined in paragraph (14) of section 3 <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(14)\]) taken on the high seas (as defined in paragraph (13) of such section 3) if such species are taken in violation of the laws of a foreign nation and the United States does not recognize the jurisdiction of the foreign nation over such species.
+&emsp;(2) any activity involving the harvesting of highly migratory species (as defined in paragraph (14) of section 3 <sup>2</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(14)\]) taken on the high seas (as defined in paragraph (13) of such section 3) if such species are taken in violation of the laws of a foreign nation and the United States does not recognize the jurisdiction of the foreign nation over such species.
 
 #### (c) Interstate shipment or transshipment through Indian country of fish, wildlife, or plants for legal purposes
 
@@ -32,5 +32,7 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 
 “Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsecs. (a) and (b)(2), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably was meant to be “971–971h”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

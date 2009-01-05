@@ -46,15 +46,15 @@ Grants.—The Secretary may make grants under this section for—
 
 &emsp;&emsp;&emsp;(iv) the grants will not be used to provide public transportation outside of the portion of the urbanized area; and
 
-&emsp;&emsp;(F) operating costs of equipment and facilities for use in public transportation for local governmental authorities in areas which adopted transit operating and financing plans that became a part of the Houston,Texas, urbanized area as a result of the 2000 decennial census of population, but lie outside the service area of the principal public transportation agency that serves the Houston urbanized area.
+&emsp;&emsp;(F) operating costs of equipment and facilities for use in public transportation for local governmental authorities in areas which adopted transit operating and financing plans that became a part of the Houston, Texas, urbanized area as a result of the 2000 decennial census of population, but lie outside the service area of the principal public transportation agency that serves the Houston urbanized area.
 
 &emsp;(2)
 
-Special rule for fiscal years 2005 through 2007.—
+Special rule for fiscal years 2005 through 2009.—
 
 &emsp;&emsp;(A)
 
-Increased flexibility.—The Secretary may award grants under this section, from funds made available to carry out this section for each of the fiscal years 2005 through 2007, to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000, as determined by the 2000 decennial census of population, if—
+Increased flexibility.—The Secretary may award grants under this section, from funds made available to carry out this section for each of the fiscal years 2005 through 2009, to finance the operating cost of equipment and facilities for use in public transportation in an urbanized area with a population of at least 200,000, as determined by the 2000 decennial census of population, if—
 
 &emsp;&emsp;&emsp;(i) the urbanized area had a population of less than 200,000, as determined by the 1990 decennial census of population;
 
@@ -94,7 +94,17 @@ Maximum amounts in fiscal year 2007.—In fiscal year 2007—
 
 &emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than 25 percent of the amount the portion of the area received under section 5311 in fiscal year 2002.
 
-&emsp;(3) In a transportation management area designated under section 5305(a) of this title,<sup>1</sup> amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
+&emsp;&emsp;(E)
+
+Maximum amounts in fiscal years 2008 and 2009.—In fiscal years 2008 and 2009—
+
+&emsp;&emsp;&emsp;(i) amounts made available to any urbanized area under clause (i) or (ii) of subparagraph (A) shall be not more than 50 percent of the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000, as determined in the 1990 decennial census of population;
+
+&emsp;&emsp;&emsp;(ii) amounts made available to any urbanized area under subparagraph (A)(iii) shall be not more than 50 percent of the amount apportioned to the urbanized area under this section for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(iii) each portion of any area not designated as an urbanized area, as determined by the 1990 decennial census, and eligible to receive funds under subparagraph (A)(iv), shall receive an amount of funds to carry out this section that is not less than 50 percent of the amount the portion of the area received under section 5311 in fiscal year 2002.
+
+&emsp;(3) In a transportation management area designated under section 5303(k) of this title, amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
 
 &emsp;&emsp;(A) that use is approved, in writing, by the metropolitan planning organization under section 5303 of this title after appropriate notice and an opportunity for comment and appeal is provided to affected public transportation providers;
 
@@ -262,7 +272,7 @@ Title 5.—The provision of assistance under this chapter shall not be construed
 
 Treatment.—For the purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub.L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub.L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609.)
 
 Historical and Revision Notes
 
@@ -464,13 +474,19 @@ This amends 49:5307(a)(2) to delete an obsolete provision.
 
 #### References in Text
 
-Section 5305 of this title, referred to in subsec. (b)(3), was amended generally by Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566, and as so amended, subsec. (a) of that section no longer relates to designation of transportation management areas.
-
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of such Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–244, §201(c)(1), substituted “2009” for “2007” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 110–244, §201(c)(2), in introductory provisions, substituted “2009” for “2007” and “public” for “mass”.
+
+Subsec. (b)(2)(E). Pub. L. 110–244, §201(c)(3), added subpar. (E).
+
+Subsec. (b)(3). Pub. L. 110–244, §201(c)(4), substituted “section 5303(k)” for “section 5305(a)” in introductory provisions.
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §3009(b)(1), substituted “means—” for “means”, designated part of existing provisions as subpar. (A), and added subpar. (B).
 
@@ -524,7 +540,7 @@ Pub. L. 109–14, §7(m)(2), substituted “June 30, 2005” for “May 31, 2005
 
 Subsec. (b)(3)(A). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
-Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: “A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section.”
+Subsec. (b)(4). Pub. L. 109–59, §3009(c)(3), struck out par. (4) which read as follows: “A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which theequipment and material will be used, is a capital project for an associated capital maintenance item under this section.”
 
 Subsec. (c)(5). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
 
@@ -626,7 +642,7 @@ Subsec. (a)(2). Pub. L. 105–178, §3007(b)(3), inserted “
 
 Designated recipient.—The term” after “(2)”.
 
-Subsec. (b)(1). Pub. L. 105–178, §3007(h)(1), as added by Pub. L. 105–206, §9009(e), inserted at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
+Subsec. (b)(1). Pub. L. 105–178, §3007(h)(1), as added by Pub. L. 105–206, §9009(e), inserted at end “The Secretarymay make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
 
 Pub. L. 105–178, §3007(c)(1), substituted “and improvement costs of equipment” for “, improvement, and operating costs of equipment” and inserted at end “The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
 
@@ -698,7 +714,7 @@ Best and final offers.—The cost of evaluating best and final offers either by 
 
 “(d)
 
-Technology.—To the extent feasible, cooperative procurements under this section shall maximize use of Internet-based software technology designed specifically for transit buses and other major capital equipment to develop specifications; aggregate equipment requirements with other transit agencies; generate cooperative request for proposal packages; create cooperative specifications; and automate the request for approved equals process.
+Technology.—To the extent feasible, cooperative procurements under this section shall maximize use of Internet-based software technology designed specifically for transit buses and other major capital equipment to develop specifications; aggregate equipment requirements with other transit agencies; generate cooperative request for proposal packages; createcooperative specifications; and automate the request for approved equals process.
 
 “(e)
 
@@ -798,7 +814,5 @@ Period described.—For purposes of paragraph (1), the period described in this 
 
 “(3)
 
-Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Services for elderly and persons with disabilities.—In addition to assistance made available under paragraph (1), the Secretary may provide assistance under section 5307 of title 49, United States Code, to a transit provider that operates 20 or fewer vehicles in an urbanized area with a population of at least 200,000 to finance the operating costs of equipment and facilities used by the transit provider in providing mass transportation services to elderly and persons with disabilities, provided that such assistance to all entities shall not exceed $1,444,000 annually.”
 

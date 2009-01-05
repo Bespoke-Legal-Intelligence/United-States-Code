@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2004 through 2008 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
+&emsp;In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under anyother provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out section 104A of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–2\].
 
 #### (2) Availability of funds
 
@@ -14,21 +14,45 @@
 
 #### (3) Allocation of funds
 
-&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2004 through 2008, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
+&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2009 through 2013, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
 
-#### (c) Relationship to assistance programs to enhance nutrition
+#### (c) Food and nutritional support
 
-In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
+#### (1) In general
 
-&emsp;(1) integrate nutrition programs with HIV/AIDS activities, generally;
+&emsp;As indicated in the report produced by the Institute of Medicine, entitled “PEPFAR Implementation: Progress and Promise”, inadequate caloric intake has been clearly identified as a principal reason for failure of clinical response to antiretroviral therapy. In recognition of the impact of malnutrition as a clinical health issue for many persons living with HIV/AIDS that is often associated with health and economic impacts on these individuals and their families, the Global AIDS Coordinator and the Administrator of the United States Agency for International Development shall—
 
-&emsp;(2) provide, as a component of an anti-retroviral therapy program, support for food and nutrition to individuals infected with and affected by HIV/AIDS; and
+&emsp;&emsp;(A) follow World Health Organization guidelines for HIV/AIDS food and nutrition services;
 
-&emsp;(3) provide support for food and nutrition for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS.
+&emsp;&emsp;(B) integrate nutrition programs with HIV/AIDS activities through effective linkages among the health, agricultural, and livelihood sectors and establish additional services in circumstances in which referrals are inadequate or impossible;
+
+&emsp;&emsp;(C) provide, as a component of care and treatment programs for persons with HIV/AIDS, food and nutritional support to individuals infected with, and affected by, HIV/AIDS who meet established criteria for nutritional support (including clinically malnourished children and adults, and pregnant and lactating women in programs in need of supplemental support), including—
+
+&emsp;&emsp;&emsp;(i) anthropometric and dietary assessment;
+
+&emsp;&emsp;&emsp;(ii) counseling; and
+
+&emsp;&emsp;&emsp;(iii) therapeutic and supplementary feeding;
+
+&emsp;&emsp;(D) provide food and nutritional support for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS; and
+
+&emsp;&emsp;(E) in communities where HIV/AIDS and food insecurity are highly prevalent, support programs to address these often intersecting health problems through community-based assistance programs, with an emphasis on sustainable approaches.
+
+#### (2) Authorization of appropriations
+
+&emsp;Of the amounts authorized to be appropriated under section 7671 of this title, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out this subsection.
 
 #### (d) Eligibility for assistance
 
-An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2\] or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.
+An organization, including a faith-based organization, that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151b–2\], under this chapter, or under any amendment made by this chapter or by the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, for HIV/AIDS prevention, treatment, or care—
+
+&emsp;(1) shall not be required, as a condition of receiving such assistance—
+
+&emsp;&emsp;(A) to endorse or utilize a multisectoral or comprehensive approach to combating HIV/AIDS; or
+
+&emsp;&emsp;(B) to endorse, utilize, make a referral to, become integrated with, or otherwise participate in any program or activity to which the organization has a religious or moral objection; and
+
+&emsp;(2) shall not be discriminated against in the solicitation or issuance of grants, contracts, or cooperative agreements under such provisions of law for refusing to meet any requirement described in paragraph (1).
 
 #### (e) Limitation
 
@@ -46,7 +70,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 &emsp;&emsp;(A) The United States provides more than 60 percent of all food assistance worldwide.
 
-&emsp;&emsp;(B) According to the United Nations World Food Program and other United Nations agencies, food insecurity of individuals infected or living with HIV/AIDS is a major problem in countries with large populations of such individuals, particularly in African countries.
+&emsp;&emsp;(B) According to the United Nations World Food Program and other United Nationsagencies, food insecurity of individuals infected or living with HIV/AIDS is a major problem in countries with large populations of such individuals, particularly in African countries.
 
 &emsp;&emsp;(C) Although the United States is willing to provide food assistance to these countries in need, a few of the countries object to part or all of the assistance because of fears of benign genetic modifications to the foods.
 
@@ -58,7 +82,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 &emsp;It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
 
-(Pub. L. 108–25, title III, §301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, §595(3), Jan. 23, 2004, 118 Stat. 209.)
+(Pub. L. 108–25, title III, §301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, §595(3), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title III, §301(f)–(h), July 30, 2008, 122 Stat. 2956, 2957.)
 
 #### References in Text
 
@@ -66,11 +90,25 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 
 This chapter, referred to in subsecs. (d) to (f), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
+The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, referred to in subsec. (d), is Pub. L. 110–293, July 30, 2008, 122 Stat. 2918. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 7601 of this title and Tables.
+
 #### Codification
 
 Section is comprised of section 301 of Pub. L. 108–25. Subsec. (a) of section 301 of Pub. L. 108–25 amended section 2151b of this title and enacted section 2151b–2 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(1), (3). Pub. L. 110–293, §301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+
+Subsec. (c). Pub. L. 110–293, §301(g), amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
+
+&emsp;“(1) integrate nutrition programs with HIV/AIDS activities, generally;
+
+&emsp;“(2) provide, as a component of an anti-retroviral therapy program, support for food and nutrition to individuals infected with and affected by HIV/AIDS; and
+
+&emsp;“(3) provide support for food and nutrition for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS.”
+
+Subsec. (d). Pub. L. 110–293, §301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
 
 2004—Subsec. (f). Pub. L. 108–199, §595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
 

@@ -36,135 +36,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Pub. L. 108–76, §§1–5, Aug. 18, 2003, 117 Stat. 904, formerly set out in a note under this section, was transferred to part F–1 (§1098aa et seq.) of this subchapter. Pub. L. 108–76, §6, Aug. 18, 2003, 117 Stat. 908, as amended by Pub. L. 109–78, §1, Sept. 30, 2005, 119 Stat. 2043, formerly set out in the same note under this section, which provided for termination of Pub. L. 108–76 on Sept. 30, 2007, was repealed by Pub. L. 110–93, §2, Sept. 30, 2007, 121 Stat. 999.
 
-Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) as deemed necessary because of a national emergency, provided sense ofCongress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
+Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) as deemed necessary because of a national emergency, provided sense of Congress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
 
 #### Community Scholarship Mobilization
 
-Pub. L. 105–244, title VIII, part C, Oct. 7, 1998, 112 Stat. 1810, provided that:
-
-#### “SEC. 811. SHORT TITLE.
-
-“This part may be cited as the ‘Community Scholarship Mobilization Act’.
-
-#### “SEC. 812. FINDINGS.
-
-“Congress finds that—
-
-&emsp;“(1) the local community, when properly organized and challenged, is one of the best sources of academic support, motivation toward achievement, and financial resources for aspiring postsecondary students;
-
-&emsp;“(2) local communities, working to complement or augment services currently offered by area schools and colleges, can raise the educational expectations and increase the rate of postsecondary attendance of their youth by forming locally-based organizations that provide both academic support (including guidance, counseling, mentoring, tutoring, encouragement, and recognition) and tangible, locally raised, effectively targeted, publicly recognized, financial assistance;
-
-&emsp;“(3) proven methods of stimulating these community efforts can be promoted through Federal support for the establishment of regional, State, or community program centers to organize and challenge community efforts to develop educational incentives and support for local students; and
-
-&emsp;“(4) using Federal funds to leverage private contributions to help students from low-income families attain educational and career goals is an efficient and effective investment of scarce taxpayer-provided resources.
-
-#### “SEC. 813. DEFINITIONS.
-
-“In this part:
-
-&emsp;“(1)
-
-Regional, state, or community program center.—The term ‘regional, State, or community program center’ means an organization that—
-
-&emsp;&emsp;“(A) is a division or member of, responsible to, and overseen by, a national organization; and
-
-&emsp;&emsp;“(B) is staffed by professionals trained to create, develop, and sustain local entities in towns, cities, and neighborhoods.
-
-&emsp;“(2)
-
-Local entity.—The term ‘local entity’ means an organization that—
-
-&emsp;&emsp;“(A) is a nonprofit organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\], and exempt from taxation under section 501(a) of such Code (or shall meet this criteria through affiliation with the national organization);
-
-&emsp;&emsp;“(B) is formed for the purpose of providing educational scholarships and academic support for residents of the local community served by such organization;
-
-&emsp;&emsp;“(C) solicits broad-based community support in its academic support and fund-raising activities;
-
-&emsp;&emsp;“(D) is broadly representative of the local community in the structures of its volunteer-operated organization and has a board of directors that includes leaders from local neighborhood organizations and neighborhood residents, such as school or college personnel, parents, students, community agency representatives, retirees, and representatives of the business community;
-
-&emsp;&emsp;“(E) awards scholarships without regard to age, sex, marital status, race, creed, color, religion, national origin, or disability; and
-
-&emsp;&emsp;“(F) gives priority to awarding scholarships for postsecondary education to deserving students from low-income families in the local community.
-
-&emsp;“(3)
-
-National organization.—The term ‘national organization’ means an organization that—
-
-&emsp;&emsp;“(A) has the capacity to create, develop and sustain local entities and affiliated regional, State, or community program centers;
-
-&emsp;&emsp;“(B) has the capacity to sustain newly created local entities in towns, cities, and neighborhoods through ongoing training support programs;
-
-&emsp;&emsp;“(C) is described in section 501(c)(3) of the Internal Revenue Code of 1986, and exempt from taxation under section 501(a) of such Code;
-
-&emsp;&emsp;“(D) is a publicly supported organization within the meaning of section 170(b)(1)(A)(iv) of such Code \[26 U.S.C. 170(b)(1)(A)(iv)\];
-
-&emsp;&emsp;“(E) ensures that each of the organization's local entities meet the criteria described in subparagraphs (C) and (D); and
-
-&emsp;&emsp;“(F) has a program for or experience in cooperating with secondary and postsecondary institutions in carrying out the organization's scholarship and academic support activities.
-
-&emsp;“(4)
-
-High poverty area.—The term ‘high poverty area’ means a community with a higher percentage of children from low-income families than the national average of such percentage and a lower percentage of children pursuing postsecondary education than the national average of such percentage.
-
-&emsp;“(5)
-
-Secretary.—The term ‘Secretary’ means the Secretary of Education.
-
-&emsp;“(6)
-
-Students from low-income families.—The term ‘students from low-income families’ means students determined, pursuant to part F of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087kk et seq.), to be eligible for a Federal Pell Grant under subpart 1 of part A of title IV of such Act (20 U.S.C. 1070a).
-
-#### “SEC. 814. PURPOSE; ENDOWMENT GRANT AUTHORITY.
-
-“(a)
-
-Purpose.—It is the purpose of this part to establish and support regional, State or community program centers to enable such centers to foster the development of local entities in high poverty areas that promote higher education goals for students from low-income families by—
-
-&emsp;“(1) providing academic support, including guidance, counseling, mentoring, tutoring, and recognition; and
-
-&emsp;“(2) providing scholarship assistance for the cost of postsecondary education.
-
-“(b)
-
-Endowment Grant Authority.—From the funds appropriated pursuant to the authority of section 816, the Secretary shall award an endowment grant, on a competitive basis, to a national organization to enable such organization to support the establishment or ongoing work of regional, State or community program centers that foster the development of local entities in high poverty areas to improve secondary school graduation rates and postsecondary attendance through the provision of academic support services and scholarship assistance for the cost of postsecondary education.
-
-#### “SEC. 815. GRANT AGREEMENT AND REQUIREMENTS.
-
-“(a)
-
-In General.—The Secretary shall award one or more endowment grants described in section 814(b) pursuant to an agreement between the Secretary and a national organization. Such agreement shall—
-
-&emsp;“(1) require a national organization to establish an endowment fund in the amount of the grant, the corpus of which shall remain intact and the interest income from which shall be used to support the activities described in paragraphs (2) and (3);
-
-&emsp;“(2) require a national organization to use 70 percent of the interest income from the endowment fund in any fiscal year to support the establishment or ongoing work of regional, State or community program centers to enable such centers to work with local communities to establish local entities in high poverty areas and provide ongoing technical assistance, training workshops, and other activities to help ensure the ongoing success of the local entities;
-
-&emsp;“(3) require a national organization to use 30 percent of the interest income from the endowment fund in any fiscal year to provide scholarships for postsecondary education to students from low-incomefamilies, which scholarships shall be matched on a dollar-for-dollar basis from funds raised by the local entities;
-
-&emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional, State or community program centers in high poverty areas;
-
-&emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses the interest from the endowment fund, a report to the Secretary that contains—
-
-&emsp;&emsp;“(A) a description of the programs and activities supported by the interest on the endowment fund;
-
-&emsp;&emsp;“(B) the audited financial statement of the national organization for the preceding fiscal year;
-
-&emsp;&emsp;“(C) a plan for the programs and activities to be supported by the interest on the endowment fund as the Secretary may require;
-
-&emsp;&emsp;“(D) an evaluation of the programs and activities supported by the interest on the endowment fund as the Secretary may require; and
-
-&emsp;&emsp;“(E) data indicating the number of students from low-income families who receive scholarships from local entities, and the amounts of such scholarships;
-
-&emsp;“(6) contain such assurances as the Secretary may require with respect to the management and operation of the endowment fund; and
-
-&emsp;“(7) contain an assurance that if the Secretary determines that such organization is not in substantial compliance with the provisions of this part, then the national organization shall pay to the Secretary an amount equal to the corpus of the endowment fund plus any accrued interest on such fund that is available to the national organization on the date of such determination.
-
-“(b)
-
-Returned Funds.—All funds returned to the Secretary pursuant to subsection (a)(7) shall be available to the Secretary to carry out any scholarship or grant program assisted under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq. \[42 U.S.C. 2751 et seq.\]).
-
-#### “SEC. 816. AUTHORIZATION OF APPROPRIATIONS.
-
-“There are authorized to be appropriated to carry out this part $10,000,000 for fiscal year 2000.”
+Pub. L. 105–244, title VIII, part C, Oct. 7, 1998, 112 Stat. 1810, known as the Community Scholarship Mobilization Act, which established regional, State and community program centers to foster development of local entities in high poverty areas that promote higher education goals for low-income students with academic support and scholarship assistance for postsecondary education, was repealed by Pub. L. 110–315, title IX, §931(2), Aug. 14, 2008, 122 Stat. 3456.
 
 #### Community School Partnerships
 
@@ -176,7 +52,7 @@ Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a s
 
 #### Olympic Scholarships
 
-Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, §305(a), Jan. 10, 2002, 115 Stat. 2208, provided that:
+Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct.7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, §305(a), Jan. 10, 2002, 115 Stat. 2208; Pub. L. 110–315, title IX, §934, Aug. 14, 2008, 122 Stat. 3460, provided that:
 
 “(a)
 
@@ -204,7 +80,7 @@ Application.—Each center desiring financial assistance under this section shal
 
 “(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years to carry out this section.
 
 “(e)
 

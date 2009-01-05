@@ -6,7 +6,7 @@ If the value of the aggregate foreign gifts received by a United States person (
 
 #### (b) Foreign gift
 
-For purposes of this section, the term “foreign gift” means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such term shall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
+For purposes of this section, the term “foreign gift” means any amount received from a person other than a United States person which the recipient treats as a gift or bequest. Such termshall not include any qualified transfer (within the meaning of section 2503(e)(2)) or any distribution properly disclosed in a return under section 6048(c).
 
 #### (c) Penalty for failure to file information
 
@@ -32,9 +32,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 104–188, title I, §1905(a), Aug. 20, 1996, 110 Stat. 1913.)
 
-#### Adjustment of Aggregate Gift Threshold for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of aggregate gift threshold for purposes of triggering reporting requirement under this section for taxable years beginning in 2008, see section 3.35 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Codification
 

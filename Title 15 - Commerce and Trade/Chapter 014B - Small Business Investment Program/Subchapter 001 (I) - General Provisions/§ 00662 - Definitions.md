@@ -122,7 +122,7 @@ The Small Business Act, referred to in par. (5), is Pub. L. 85–536, §2(1 et s
 
 The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 661a of title 2, referred to in par. (18)(E), was in the original “section 502 of the Credit Reform Act of1990”, which was translated as reading “section 502 of the Federal Credit Reform Act of 1990”, to reflect the probable intent of Congress.
+Section 661a of title 2, referred to in par. (18)(E), was in the original “section 502 of the Credit Reform Act of 1990”, which was translated as reading “section 502 of the Federal Credit Reform Act of 1990”, to reflect the probable intent of Congress.
 
 #### Amendments
 

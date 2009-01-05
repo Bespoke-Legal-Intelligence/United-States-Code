@@ -66,7 +66,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 &emsp;(D) below the level of an aggregate of 500,000,000 barrels of petroleum product stored in the Reserve.
 
-(3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
+(3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit amonthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
 (4) In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 
@@ -180,7 +180,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (C) Barred company
 
-&emsp;&emsp;If the Secretary has notified the Governor of the State of Hawaii that a company hasbeen barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
+&emsp;&emsp;If the Secretary has notified the Governor of the State of Hawaii that a company has been barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
 
 #### (8) Supplies of petroleum products
 
@@ -238,7 +238,7 @@ Subsec. (h)(3). Pub. L. 106–469, §103(15)(G)(iv), substituted “sale” for 
 
 Subsec. (h)(1)(A). Pub. L. 102–486, §1401(2), inserted “or international” after “domestic”.
 
-1990—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Planis required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+1990—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
 Subsec. (h). Pub. L. 101–383, §3(b), added subsec. (h).
 

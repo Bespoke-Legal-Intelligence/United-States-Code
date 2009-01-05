@@ -22,7 +22,7 @@ For purposes of this chapter, the term—
 
 > &emsp;but does not include merchant vessels or (as defined by the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\]) source material (except uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity), byproduct material, special nuclear material, production facilities, utilization facilities, or atomic weapons or articles involving Restricted Data;
 
-&emsp;(4) “defense service”, except as provided in paragraph (7) of this section, includes any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
+&emsp;(4) “defense service”, except as provided in paragraph (7) of this section, includes anyservice, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
 
 &emsp;(5) “training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
 

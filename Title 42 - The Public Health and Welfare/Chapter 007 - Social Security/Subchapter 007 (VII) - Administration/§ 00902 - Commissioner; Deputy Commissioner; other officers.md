@@ -18,7 +18,7 @@
 
 (8) The Commissioner and the Secretary of Health and Human Services (in this subchapter referred to as the “Secretary”) shall consult, on an ongoing basis, to ensure—
 
-&emsp;(A) the coordination of the programs administered by the Commissioner, as described in section 901 of this title, with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
+&emsp;(A) the coordination of the programs administered by the Commissioner, as described insection 901 of this title, with the programs administered by the Secretary under subchapters XVIII and XIX of this chapter; and
 
 &emsp;(B) that adequate information concerning benefits under such subchapters XVIII and XIX of this chapter is available to the public.
 
@@ -58,7 +58,7 @@ Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (e), i
 
 1996—Subsecs. (c) to (e). Pub. L. 104–121 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretaryshall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
+1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
 
 1984—Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
 
@@ -122,7 +122,7 @@ Pub. L. 101–239, title X, §10306(b), Dec. 19, 1989, 103 Stat. 2484, directed 
 
 #### Study Concerning Establishment of Social Security Administration as an Independent Agency
 
-Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pub. L. 98–369, div. B, title VI, §2662(h)(1), July 18, 1984, 98 Stat. 1160, established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice and consent of the Senate, and to submit, not later thanApr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
+Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pub. L. 98–369, div. B, title VI, §2662(h)(1), July 18, 1984, 98 Stat. 1160, established, under authority of Committee on Ways and Means of the House of Representatives and Committee on Finance of the Senate, a Joint Study Panel on the Social Security Administration to undertake a study of removing Social Security Administration from Department of Health and Human Services and establishing it as an independent agency in the executive branch with its own independent administrative structure, including possibility of such a structure headed by a board appointed by the President, by and with the advice and consent of the Senate, and to submit, not later than Apr. 1, 1984, a report of the findings of the study, and provided that the Panel would expire 30 days after the date of the submission of the report.
 
 #### Earnings Sharing Implementation Report
 

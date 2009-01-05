@@ -10,9 +10,9 @@ Section 1954, acts July 3, 1952, ch. 568, §4, 66 Stat. 329; Sept. 22, 1961, Pub
 
 Section 1955, acts July 3, 1952, ch. 568, §5, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, related to disposal of water and byproducts, disposition of moneys and alteration of existing law. See section 1959d(e) and (f) of this title.
 
-Section 1956, acts July 3, 1952, ch. 568, §6, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, providedfor reports to President and Congress. See section 1959f of this title.
+Section 1956, acts July 3, 1952, ch. 568, §6, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, provided for reports to President and Congress. See section 1959f of this title.
 
 Section 1957, acts July 3, 1952, ch. 568, §7, 66 Stat. 329; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629, authorized issuance of rules and regulations. See section 1959e of this title.
 
-Section 1958, acts July 3, 1952, ch. 568, §8, 66 Stat. 329; June 29, 1955, ch. 227, §1(3), 69 Stat. 198; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629; Aug. 11, 1965, Pub. L. 89–118, §1(2), 79 Stat. 509; June 24, 1967, Pub. L. 90–30, §1(a), 81 Stat. 78; Apr. 29, 1968, Pub. L. 90–297, §1, 82 Stat. 110, authorized appropriations. See section 1959h of this title.
+Section 1958, acts July 3, 1952, ch. 568, §8, 66 Stat. 329; June 29, 1955, ch. 227, §1(3), 69 Stat. 198; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 629; Aug. 11, 1965, Pub. L. 89–118, §1(2), 79 Stat. 509; June 24, 1967, Pub. L. 90–30,§1(a), 81 Stat. 78; Apr. 29, 1968, Pub. L. 90–297, §1, 82 Stat. 110, authorized appropriations. See section 1959h of this title.
 

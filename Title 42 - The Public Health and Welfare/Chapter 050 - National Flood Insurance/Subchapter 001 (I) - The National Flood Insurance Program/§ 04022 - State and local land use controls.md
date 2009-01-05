@@ -62,7 +62,7 @@
 
 #### (1) Community participation
 
-&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insuranceprogram under this chapter and the Flood Disaster Protection Act of 1973 (notwithstanding that such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
+&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstanding that such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
 
 &emsp;&emsp;(A) such mobile home was previously located on such site;
 

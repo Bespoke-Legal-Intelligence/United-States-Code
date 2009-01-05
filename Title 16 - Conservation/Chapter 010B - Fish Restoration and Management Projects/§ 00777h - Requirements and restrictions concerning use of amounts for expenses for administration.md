@@ -2,7 +2,7 @@
 
 #### (a) Authorized expenses for administration
 
-Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of thistitle only for expenses for administration that directly support the implementation of this chapter that consist of—
+Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 &emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
 

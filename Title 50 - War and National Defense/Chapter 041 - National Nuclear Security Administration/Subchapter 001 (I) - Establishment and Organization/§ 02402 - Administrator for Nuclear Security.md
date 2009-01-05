@@ -44,7 +44,9 @@ The Administrator has authority over, and is responsible for, all programs and a
 
 &emsp;(17) Public affairs.
 
-&emsp;(18) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
+&emsp;(18) Eliminating inventories of surplus fissile materials usable for nuclear weapons.
+
+&emsp;(19) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
 
 #### (c) Procurement authority
 
@@ -66,7 +68,7 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025.)
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753.)
 
 #### References in Text
 
@@ -74,11 +76,13 @@ Section 414 of title 41, referred to in subsec. (c), was amended generally by Pu
 
 #### Amendments
 
-2004—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
+<b>2008</b>—Subsec. (b)(18), (19). Pub. L. 110–417 added par. (18) and redesignated former par. (18) as (19).
 
-2001—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
 
-2000—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
+<b>2001</b>—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
+
+<b>2000</b>—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 

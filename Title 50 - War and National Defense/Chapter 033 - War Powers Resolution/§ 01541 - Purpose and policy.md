@@ -24,7 +24,7 @@ Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting
 
 #### United States Policy on Iraq
 
-Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, provided that:
+Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, as amended by Pub. L. 110–181, div. A, title XII, §1223(a)(1), (b), Jan. 28, 2008, 122 Stat. 373, 374, provided that:
 
 “(a)
 
@@ -36,7 +36,7 @@ Sense of Congress.—It is the sense of the Congress that, in order to succeed i
 
 &emsp;“(1) members of the United States Armed Forces who are serving or have served in Iraq and their families deserve the utmost respect and the heartfelt gratitude of the American people for their unwavering devotion to duty, service to the Nation, and selfless sacrifice under the most difficult circumstances; the United States Congress supports our troops and supports a successful conclusion to their mission;
 
-&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace andsecurity; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
+&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace and security; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
 
 &emsp;“(3) the terrorists seeking to prevent the emergence of a secure, stable, peaceful, and democratic Iraq are led by individuals seeking to restore dictatorship in Iraq or who want to advance al Qaeda's broad vision of violently extreme Islam in the Middle East;
 
@@ -66,9 +66,27 @@ Reports to Congress on United States Policy and Military Operations in Iraq.—N
 
 &emsp;&emsp;“(F) Training Iraqi security forces and transferring additional security responsibilities to those forces and the government of Iraq.
 
-&emsp;“(2) Whether the Iraqis have made the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq.
+&emsp;“(2) Whether the Iraqis have made the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq, including—
 
-&emsp;“(3) Any specific conditions included in the April 2005 Multi-National Forces-Iraq campaign action plan (referred to in United States Government Accountability Office October 2005 report on Rebuilding Iraq: DOD Reports Should Link Economic, Governance, and Security Indicators to Conditions for Stabilizing Iraq), and any subsequent updates to that campaign plan, that must be met in order to provide for the transition of additional security responsibility to Iraqi security forces.
+&emsp;&emsp;“(A) enacting a broadly-accepted hydrocarbon law that equitably shares revenue among all Iraqis;
+
+&emsp;&emsp;“(B) adopting laws necessary for the conduct of provincial and local elections, taking steps to implement such laws, and setting a schedule to conduct provincial and local elections;
+
+&emsp;&emsp;“(C) reforming current laws governing the de-Baathification process in a manner that encourages national reconciliation;
+
+&emsp;&emsp;“(D) amending the Constitution of Iraq in a manner that encourages national reconciliation;
+
+&emsp;&emsp;“(E) allocating and beginning expenditure of $10 billion in Iraqi revenues for reconstruction projects, including delivery of essential services, and implementing such reconstruction projects on an equitable basis; and
+
+&emsp;&emsp;“(F) making significant efforts to plan and implement disarmament, demobilization, and reintegration programs relating to Iraqi militias.
+
+&emsp;“(3) A detailed description of the Joint Campaign Plan, or any subsequent revisions, updates, or documents that replace or supersede the Joint Campaign Plan, including goals, phases, or other milestones contained in the Joint Campaign Plan. Specifically, the description shall include the following:
+
+&emsp;&emsp;“(A) An explanation of conditions required to move through phases of the Joint Campaign Plan, in particular those conditions that must be met in order to provide for the transition of additional security responsibility to the Iraqi Security Forces, and the measurements used to determine progress.
+
+&emsp;&emsp;“(B) An assessment of which conditions in the Joint Campaign Plan have been achieved and which conditions have not been achieved. The assessment of those conditions that have not been achieved shall include a discussion of the factors that have precluded progress.
+
+&emsp;&emsp;“(C) A description of any companion or equivalent plan of the Government of Iraq used to measure progress for Iraqi Security Forces undertaking joint operations with Coalition Forces.
 
 &emsp;“(4) To the extent that these conditions are not covered under paragraph (3), the following should also be addressed:
 
@@ -82,7 +100,17 @@ Reports to Congress on United States Policy and Military Operations in Iraq.—N
 
 &emsp;“(5) The criteria to be used to evaluate progress toward meeting such conditions.
 
-&emsp;“(6) A plan for meeting such conditions, an assessment of the extent to which such conditions have been met, information regarding variables that could alter that plan, and the reasons for any subsequent changes to that plan.”
+&emsp;“(6) A plan for meeting such conditions, an assessment of the extent to which such conditions have been met, information regarding variables that could alter that plan, and the reasons for any subsequent changes to that plan.
+
+&emsp;“(7) An assessment of the levels of United States Armed Forces required in Iraq for the six-month period following the date of the report, the missions to be undertaken by the Armed Forces in Iraq for such period, and the incremental costs or savings of any proposed changes to such levels or missions.
+
+&emsp;“(8) A description of the range of conditions that could prompt changes to the levels of United States Armed Forces required in Iraq for the six-month period following the date of the report or the missions to be undertaken by the Armed Forces in Iraq for such period, including the status of planning for such changes to the levels or missions of the Armed Forces in Iraq.
+
+“(d)
+
+Congressional Briefings Required.—Not later than 30 days after the submission of the first report under subsection (c) on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 \[Jan. 28, 2008\], the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall meet with the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report. Not later than 30 days after the submission of each subsequent report under subsection (c), appropriate senior officials of the Department of Defense shall meet with the congressional defense committees to brief such committees on the matters described in paragraphs (7) and (8) of subsection (c) contained in the report.”
+
+\[Pub. L. 110–181, div. A, title XII, §1223(a)(2), Jan. 28, 2008, 122 Stat. 374, provided that: “The amendments made by paragraph (1) \[amending section 1227 of Pub. L.109–163, set out above\] shall apply with respect to each report required to be submitted to Congress under section 1227(c) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] on or after the date of the enactment of this Act \[Jan. 28, 2008\].”\]
 
 \[Memorandum of President of the United States, Apr. 6, 2006, 71 F.R. 19427, assigned to the Secretary of State the functions of the President under section 1227(c) of Pub. L. 109–163, set out above.\]
 
@@ -226,7 +254,7 @@ War Powers Resolution Requirements.—
 
 &emsp;“(1)
 
-Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[50 U.S.C. 1547(a)(1)\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\].
+Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[50 U.S.C. 1547(a)(1)\], the Congress declares that thissection is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\].
 
 &emsp;“(2)
 
@@ -316,7 +344,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 5. REPORT ON UNITED STATES AGREEMENTS.
 
-“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
+“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information onany agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
 
 #### “SEC. 6. TRANSITION TO UNITED NATIONS MISSION IN HAITI.
 
@@ -444,7 +472,7 @@ Applicability of other requirements.—Nothing in this resolution supersedes any
 
 #### “SEC. 3. REPORTS TO CONGRESS.
 
-“At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutionsadopted by the United Nations Security Council in response to Iraq's aggression.”
+“At least once every 90 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq's aggression.”
 
 #### Introduction of United States Armed Forces Into Central America for Combat
 
@@ -574,7 +602,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 “(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
 
-“(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
+“(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution orbill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.”
 
 #### Adherence to War Powers Resolution
 

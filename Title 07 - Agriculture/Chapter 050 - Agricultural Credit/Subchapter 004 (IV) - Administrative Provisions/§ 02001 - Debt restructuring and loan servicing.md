@@ -68,7 +68,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Present value
 
-&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), the Secretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
+&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), theSecretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
 
 #### (C) Cash flow margin
 
@@ -106,7 +106,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Independent appraisal
 
-&emsp;&emsp;If the borrower, based on a separate current appraisal, objects to the decision of the Secretary regarding an appraisal, the borrower and the Secretary shall mutually agree, to the extent practicable, on an independent appraiser who shall conduct another appraisal of the borrower's property. The average of the two appraisals that are closest in value shall become the final appraisalunder this paragraph. The borrower and the Secretary shall each pay one-half of the cost of the independent appraisal.
+&emsp;&emsp;If the borrower, based on a separate current appraisal, objects to the decision of the Secretary regarding an appraisal, the borrower and the Secretary shall mutually agree, to the extent practicable, on an independent appraiser who shall conduct another appraisal of the borrower's property. The average of the two appraisals that are closest in value shall become the final appraisal under this paragraph. The borrower and the Secretary shall each pay one-half of the cost of the independent appraisal.
 
 #### (d) Principal and interest write-down
 
@@ -198,7 +198,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (f) Determination to restructure
 
-If the appeal process results in a determination that a loan is eligible for restructuring, theSecretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
+If the appeal process results in a determination that a loan is eligible for restructuring, the Secretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
 
 #### (g) Prerequisites to foreclosure or liquidation
 
@@ -324,7 +324,7 @@ Subsec. (c)(3)(C). Pub. L. 101–624, §1816(c), added subpar. (C).
 
 Subsec. (c)(4). Pub. L. 101–624, §1816(d), substituted “90” for “60” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
+Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwiseconveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
 
 Subsec. (c)(7). Pub. L. 101–624, §1816(g), added par. (7).
 

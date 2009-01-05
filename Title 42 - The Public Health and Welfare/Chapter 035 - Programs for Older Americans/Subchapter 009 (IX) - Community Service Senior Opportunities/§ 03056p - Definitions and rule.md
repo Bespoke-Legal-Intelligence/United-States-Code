@@ -58,7 +58,7 @@ For purposes of this subchapter:
 
 #### (5) Pacific Island and Asian Americans
 
-&emsp;The term “Pacific Island and Asian Americans” means Americans having origins in anyof the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
+&emsp;The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
 #### (6) Program
 

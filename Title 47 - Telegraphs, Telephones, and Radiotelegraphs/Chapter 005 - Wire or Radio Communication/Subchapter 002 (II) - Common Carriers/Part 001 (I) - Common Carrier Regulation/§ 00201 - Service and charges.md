@@ -20,7 +20,7 @@ Pub. L. 109–459, §2, Dec. 22, 2006, 120 Stat. 3399, provided that:
 
 “(a)
 
-In General.—The Federal Communications Commission shall take such action as may be necessaryto reduce the cost of calling home for Armed Forces personnel who are stationed outside the United States under official military orders or deployed outside the United States in support of military operations, training exercises, or other purposes as approved by the Secretary of Defense, including the reduction of such costs through the waiver of government fees, assessments, or other charges for such calls. The Commission may not regulate rates in order to carry out this section.
+In General.—The Federal Communications Commission shall take such action as may be necessary to reduce the cost of calling home for Armed Forces personnel who are stationed outside the United States under official military orders or deployed outside the United States in support of military operations, training exercises, or other purposes as approved by the Secretary of Defense, including the reduction of such costs through the waiver of government fees, assessments, or other charges for such calls. The Commission may not regulate rates in order to carry out this section.
 
 “(b)
 

@@ -52,7 +52,7 @@
 
 (3) Nothing in this chapter shall be construed to affect the provisions of the Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled “An Act to establish in the Treasury a correctional industries fund for the government of the District of Columbia, and for other purposes.”
 
-(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, §63, 63 Stat. 98; Oct. 31, 1951, ch. 655, §31, 65 Stat. 722; Pub. L. 90–226, title VIII, §802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, §7096, Nov. 18, 1988, 102 Stat. 4413.)
+(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, §63, 63 Stat. 98; Oct. 31, 1951, ch. 655, §31,65 Stat. 722; Pub. L. 90–226, title VIII, §802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, §7096, Nov. 18, 1988, 102 Stat. 4413.)
 
 #### Historical and Revision Notes
 

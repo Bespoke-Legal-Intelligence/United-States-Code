@@ -2,7 +2,7 @@
 
 #### (a) Direct loans and guarantees of loans
 
-The Secretary may provide to a firm, on such terms and conditions as he determines to be appropriate, such financial assistance in the form of direct loans or guarantees of loans as in his judgment will materially contribute to the economic adjustment of the firm. The assumption of an outstanding indebtedness of the firm, with or without recourse, shall be considered to be the making of a loan for purposes of this section.
+The Secretary may provide to a firm, on such terms and conditions as he determines to be appropriate, such financial assistance in the form of direct loans or guarantees of loans as in his judgment will materially contribute to the economic adjustment of the firm. The assumption of an outstanding indebtedness of the firm, with or without recourse, shall be considered to bethe making of a loan for purposes of this section.
 
 #### (b) Allowable purposes
 

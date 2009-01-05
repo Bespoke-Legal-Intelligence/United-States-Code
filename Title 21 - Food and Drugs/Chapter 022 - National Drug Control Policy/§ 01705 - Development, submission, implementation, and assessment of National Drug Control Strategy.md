@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ix) A review of the research agenda of the Counterdrug Technology Assessment Center to reduce the availability and abuse of drugs.
 
-&emsp;&emsp;&emsp;(x) A summary of the efforts made to coordinate with private sector entities toconduct private research and development of medications to treat addiction by—
+&emsp;&emsp;&emsp;(x) A summary of the efforts made to coordinate with private sector entities to conduct private research and development of medications to treat addiction by—
 
 &emsp;&emsp;&emsp;&emsp;(I) screening chemicals for potential therapeutic value;
 

@@ -286,7 +286,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied by such information as the Administrator may establish.
+&emsp;&emsp;The Administrator may renew a grant under this subsection for additional 3-year periods, if the nonprofit organization submits an application for such renewal at such time, in such manner, and accompanied bysuch information as the Administrator may establish.
 
 #### (B) Unlimited renewals
 
@@ -322,7 +322,7 @@ Subsec. (<i>l</i>), referred to in subsecs. (h)(2), (k)(1), (4), and (m)(2), (3)
 
 #### Codification
 
-May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 110–28, which enacted subsec. (m), to reflect the probable intent of Congress.
+May 25, 2007, referred to in subsec. (m)(3)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 110–28, which enacted subsec. (m), to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -4,11 +4,11 @@
 
 Civil Actions.—At the request of the Secretary of Transportation, the Attorney General may bring a civil action in a district court of the United States—
 
-&emsp;(1) to enjoin a violation of, or to enforce, a railroad safety regulation prescribed or order issued by the Secretary;
+&emsp;(1) to enjoin a violation of, or to enforce, this part, except for section 20109 of this title, or a railroad safety regulation prescribed or order issued by the Secretary;
 
-&emsp;(2) to collect a civil penalty imposed or an amount agreed on in compromise under section 21301 of this title; or
+&emsp;(2) to collect a civil penalty imposed or an amount agreed on in compromise under section 21301, 21302, or 21303 of this title; or
 
-&emsp;(3) to enforce a subpena issued by the Secretary under this chapter.
+&emsp;(3) to enforce a subpoena, request for admissions, request for production of documents or other tangible things, or request for testimony by deposition issued by the Secretary under this part.
 
 (b)
 
@@ -16,7 +16,7 @@ Venue.—(1) Except as provided in paragraph (2) of this subsection, a civil act
 
 (2) A civil action to enforce a subpena issued by the Secretary or a compliance order issued under section 20111(b) of this title may be brought in the judicial district in which the defendant resides, does business, or is found.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 869.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 869; Pub. L. 110–432, div. A, title III, §309, Oct. 16, 2008, 122 Stat. 4882.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,15 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §210(c) (related to actions by A
 
 In subsection (a), before clause (1), the words “At the request of the Secretary of Transportation” are substituted for “at the request of the Secretary” in 45:439(a), and are made applicable to all of the source provisions restated in this subsection, for clarity and consistency. The words “at the request of the Secretary” in 45:439(a) are interpreted and restated to mean that the Secretary's request is to the Attorney General rather than to the district court. See H.R. Rept. No. 91–1194, 91st Cong., 2d Sess., p. 20 (1970). The words “the Attorney General may bring a civil action in a district court of the United States” are substituted for “such district court shall have jurisdiction, upon petition by the Attorney General” in 45:437(a) (last sentence), “The district courts of the United States shall have jurisdiction, upon petition by the Attorney General” in 45:437(d)(2), and “The United States district court shall . . . upon petition by the Attorney General on behalf of the United States . . . have jurisdiction” in 45:439(a) for clarity and consistency. It is not necessary to restate that the district court has jurisdiction because of 28:1331 and 1345. See also the statement of Senator Prouty in 115 Cong. Rec. 40205 (1969) explaining that similar language in section 110 of S. 1933, 91st Cong., 1st Sess. (the derivative source for 45:439) would grant the Attorney General the power to seek injunctions. Clauses (1)–(3) are substituted for the source provisions to eliminate unnecessary words. In clause (1), the words “subject to the provisions of rules 65(a) and (b) of the Federal Rules of Civil Procedure” in 45:439(a) are omitted as surplus because the Federal Rules of Civil Procedure (28 App. U.S.C.) apply in the district court unless otherwise provided. In clause (2), the words “or an amount agreed on in compromise” are added for clarity.
 
-In subsection (b)(1), the text of 45:439(c) (words before 1st comma) is omitted because it applies only to actions brought by a State authority. See discussion of the cross-reference in the note for section 20113(c) of the revised title. The last sentence is substituted for “in which the individual resides” in 45:438(c) because of the restatement.
+In subsection (b)(1), the text of 45:439(c) (words before 1st comma) is omitted because it applies only to actions brought by a State authority. See discussion of the cross-reference in the note for section 20113(c) ofthe revised title. The last sentence is substituted for “in which the individual resides” in 45:438(c) because of the restatement.
 
 In subsection (b)(2), the words “compliance order issued under section 20111(b) of this title” are substituted for “order, or directive” because the latter words are interpreted as referring to “orders directing compliance” in 45:437(a) (2d sentence), restated in section 20111(b).
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–432, §309(1), inserted “this part, except for section 20109 of this title, or” after “enforce,”.
+
+Subsec. (a)(2). Pub. L. 110–432, §309(2), substituted “21301, 21302, or 21303” for “21301”.
+
+Subsec. (a)(3). Pub. L. 110–432, §309(3), (4), substituted “subpoena, request for admissions, request for production of documents or other tangible things, or request for testimony by deposition” for “subpena” and “part.” for “chapter.”
 

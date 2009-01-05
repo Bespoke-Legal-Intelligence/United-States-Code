@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) select areas possess unique plant and tree species and plant communities that are significant in their occurrence, variety and location and warrant designation as botanical areas; and
 
-&emsp;(6) select areas possess unique scenic and wildlife qualities that designation of such areas as a national scenic area and a national scenic and wildlife area is appropriate for the preservation of the natural beauty and wildlife habitat for the enjoyment of the American people.
+&emsp;(6) select areas possess unique scenic and wildlife qualities that designation of such areas as a national scenic area and a national scenic and wildlife area is appropriate for the preservation of the natural beauty and wildlifehabitat for the enjoyment of the American people.
 
 #### (b) Purposes
 

@@ -16,7 +16,7 @@ The management plan under subsection (a) of this section shall provide for—
 
 #### (c) Energy technology inventory and status report
 
-As part of the management plan, the Secretary, with the advice of the Advisory Board established under section 13522 of this title, shall develop an inventory and status report of technologies to enhance energy supply and to improve the efficiency of energy end uses. The inventory and status report shall include fossil, renewable, nuclear, and energy conservationtechnologies which have not yet achieved the status of fully reliable and cost-competitive commercial availability, but which the Secretary projects may become available with additional research, development, and demonstration. The inventory and status report shall provide, for each technology—
+As part of the management plan, the Secretary, with the advice of the Advisory Board established under section 13522 of this title, shall develop an inventory and status report of technologies to enhance energy supply and to improve the efficiency of energy end uses. The inventory and status report shall include fossil, renewable, nuclear, and energy conservation technologies which have not yet achieved the status of fully reliable and cost-competitive commercial availability, but which the Secretary projects may become available with additional research, development, and demonstration. The inventory and status report shall provide, for each technology—
 
 &emsp;(1) an assessment of its—
 

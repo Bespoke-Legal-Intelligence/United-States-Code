@@ -6,12 +6,11 @@
 | [2461\.](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md) | Public-private competition required before conversion to contractor performance. |
 | [2461a.](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md) | Development and implementation of system for monitoring cost saving resulting from public-private competitions. |
 | [2462\.](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md) | Reports on public-private competition. |
-| \[2463. | Repealed.\] |
+| [2463\.](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md) | Guidelines and procedures for use of civilian employees to perform Department of Defense functions. |
 | [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
 | [2466\.](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md) | Limitations on the performance of depot-level maintenance of materiel. |
-| [2467\.](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md) | Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison. |
-| \[2468. | Repealed.\] |
+| \[2467, 2468. Repealed.\] |  |
 | [2469\.](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md) | Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition. |
 | \[2469a. | Repealed.\] |
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
@@ -25,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title III, §§322(d), 324(a)(2), Jan. 28, 2008, 122 Stat. 60, 61, added item 2463 and struck out item 2467 “Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison”.
 
 2006—Pub. L. 109–364, div. A, title III, §332(b), Oct. 17, 2006, 120 Stat. 2150, added item 2476.
 
@@ -67,11 +68,11 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02461 - Public-private competition required before conversion to contractor performance](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md)
 - [&sect; 02461a - Development and implementation of system for monitoring cost saving resulting from public-private competitions](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md)
 - [&sect; 02462 - Reports on public-private competition](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md)
-- [&sect; 02463 - Repealed. Pub. L. 109&#8211;163, div. A, title III, &sect;341(f), Jan. 6, 2006, 119 Stat. 3199](%C2%A7%2002463%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7341%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203199.md)
+- [&sect; 02463 - Guidelines and procedures for use of civilian employees to perform Department of Defense functions](%C2%A7%2002463%20-%20Guidelines%20and%20procedures%20for%20use%20of%20civilian%20employees%20to%20perform%20Department%20of%20Defense%20functions.md)
 - [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)
 - [&sect; 02466 - Limitations on the performance of depot-level maintenance of materiel](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md)
-- [&sect; 02467 - Cost comparisons inclusion of retirement costs; consultation with employees; waiver of comparison](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md)
+- [&sect; 02467 - Repealed. Pub. L. 110&#8211;181, div. A, title III, &sect;322(b)(1), Jan. 28, 2008, 122 Stat. 59](%C2%A7%2002467%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7322%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%2059.md)
 - [&sect; 02468 - Repealed. Pub. L. 107&#8211;107, div. A, title X, &sect;1048(e)(10)(A), Dec. 28, 2001, 115 Stat. 1228](%C2%A7%2002468%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71048%28e%29%2810%29%28A%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201228.md)
 - [&sect; 02469 - Contracts to perform workloads previously performed by depot-level activities of the Department of Defense requirement of competition](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md)
 - [&sect; 02469a - Repealed. Pub. L. 107&#8211;314, div. A, title III, &sect;333(a), Dec. 2, 2002, 116 Stat. 2514](%C2%A7%2002469a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7333%28a%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202514.md)

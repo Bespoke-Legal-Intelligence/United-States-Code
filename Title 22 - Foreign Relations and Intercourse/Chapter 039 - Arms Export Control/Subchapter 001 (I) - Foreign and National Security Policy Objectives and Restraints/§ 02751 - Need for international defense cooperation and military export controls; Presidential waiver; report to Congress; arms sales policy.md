@@ -46,7 +46,7 @@ Section 45(c) of Pub. L. 90–629 provided that: “References in law to the pro
 
 1978—Pub. L. 95–384, §15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
-1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
+1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreigncountries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
 1973—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
@@ -70,7 +70,89 @@ Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title,repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+Pub. L. 90–629, as amended by section 201(a) of Pub. L. 94–329, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+
+#### Tracking and Monitoring of Defense Articles Provided to the Government of Iraq and Other Individuals and Groups in Iraq
+
+Pub. L. 110–181, div. A, title XII, §1228, Jan. 28, 2008, 122 Stat. 377, provided that:
+
+“(a)
+
+Export and Transfer Control Policy.—The President shall implement a policy to control the export and transfer of defense articles into Iraq, including implementation of the registration and monitoring system under subsection (c).
+
+“(b)
+
+Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registration and monitoring system meeting the requirements set forth in subsection (c) has been established.
+
+“(c)
+
+Registration and Monitoring System.—The registration and monitoring system required under this subsection shall include—
+
+&emsp;“(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraq or to other groups, organizations, citizens, or residents of Iraq;
+
+&emsp;“(2) a program of end-use monitoring of all lethal defense articles provided to such entities or individuals; and
+
+&emsp;“(3) a detailed record of the origin, shipping, and distribution of all defense articles transferred under the Iraq Security Forces Fund or any other security assistance program to such entities or individuals.
+
+“(d)
+
+Review; Exemption.—
+
+&emsp;“(1)
+
+Review.—The President shall periodically review the items subject to the registration and monitoring requirements under subsection (c) to determine what items, if any, should no longer be subject to such registration and monitoring requirements. The President shall transmit to the specified congressional committees the results of each review conducted under this paragraph.
+
+&emsp;“(2)
+
+Exemption.—The President may exempt an item from the registration and monitoring requirements under subsection (c) beginning on the date that is 30 days after the date on which the President provides notice of the proposed exemption to the specified congressional committees in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)). Such notice shall describe any controls to be imposed on such item under any other provision of law.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Defense article.—The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
+
+&emsp;“(2)
+
+Small arms.—The term ‘small arms’ means—
+
+&emsp;&emsp;“(A) handguns;
+
+&emsp;&emsp;“(B) shoulder-fired weapons;
+
+&emsp;&emsp;“(C) light automatic weapons up to and including .50 caliber machine guns;
+
+&emsp;&emsp;“(D) recoilless rifles up to and including 106mm;
+
+&emsp;&emsp;“(E) mortars up to and including 81mm;
+
+&emsp;&emsp;“(F) rocket launchers, man-portable;
+
+&emsp;&emsp;“(G) grenade launchers, rifle and shoulder fired; and
+
+&emsp;&emsp;“(H) individually-operated weapons which are portable or can be fired without special mounts or firing devices and which have potential use in civil disturbances and are vulnerable to theft.
+
+&emsp;“(3)
+
+Specified congressional committees.—The term ‘specified congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+“(f)
+
+Effective Date.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Jan. 28, 2008\].
+
+&emsp;“(2)
+
+Exception.—The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
 
 #### Man-Portable Air Defense Systems (MANPADS)
 
@@ -188,7 +270,7 @@ In general.—As soon as practicable, but not later than the date of completion 
 
 &emsp;“(2)
 
-Certification acceptance.—Under the process, the Administrator shall accept the certification ofthe Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
+Certification acceptance.—Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
 
 &emsp;“(3)
 
@@ -204,7 +286,7 @@ Programs to Reduce MANPADS.—
 
 &emsp;“(1)
 
-In general.—The President is encouraged to pursue strong programs to reduce the number of MANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
+In general.—The President is encouraged to pursue strong programs to reduce the number ofMANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
 
 &emsp;“(2)
 
@@ -282,11 +364,11 @@ Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that:
 
 #### Reports on Counterproliferation Activities and Programs
 
-Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668, provided that:
+Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
 
 “(a)
 
-Annual Report Required.—Not later than May 1 each year, the Secretary of Defense shall submit to Congress a report of the findings of the Counterproliferation Program Review Committee established by subsection (a) of the Review Committee charter.
+Biennial Report Required.—Not later than May 1 each odd-numbered year, the Secretary of Defense shall submit to Congress a report of the findings of the Counterproliferation Program Review Committee established by subsection (a) of the Review Committee charter.
 
 “(b)
 
@@ -300,7 +382,7 @@ Content of Report.—Each report under subsection (a) shall include the followin
 
 &emsp;“(4) An explanation of the recommendations made pursuant to subsection (c) of the Review Committee charter, together with a full discussion of the actions taken to implement such recommendations or otherwise taken on the recommendations.
 
-&emsp;“(5) A discussion and assessment of the status of each Review Committee recommendation during the fiscal year preceding the fiscal year in which the report is submitted, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, in the fiscal year of the report.
+&emsp;“(5) A discussion and assessment of the status of each Review Committee recommendation during the two fiscal years preceding the fiscal year in which the report is submitted, including, particularly, the status of recommendations made during such preceding fiscal years that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, in the fiscal year of the report.
 
 &emsp;“(6) Each specific Department of Energy program that the Secretary of Energy plans to develop to initial operating capability and each such program that the Secretary does not plan to develop to initial operating capability.
 
@@ -370,7 +452,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403, provided that:
 
 #### “SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -402,7 +484,7 @@ Report.—Not later than April 30 of each year, the Secretary of Defense shall s
 
 &emsp;“(3) The organizations that conducted the studies and analysis.
 
-&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
+&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and UnitedStates military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
 
 &emsp;“(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
 
@@ -416,9 +498,13 @@ Establishment.—(1) There is hereby established a Counterproliferation Program 
 
 &emsp;“(B) The Secretary of Energy.
 
-&emsp;“(C) The Director of Central Intelligence.
+&emsp;“(C) The Director of National Intelligence.
 
 &emsp;“(D) The Chairman of the Joint Chiefs of Staff.
+
+&emsp;“(E) The Secretary of State.
+
+&emsp;“(F) The Secretary of Homeland Security.
 
 “(2) The Secretary of Defense shall chair the committee. The Secretary of Energy shall serve as the Vice Chairman of the committee.
 
@@ -474,7 +560,7 @@ Duties.—The committee shall—
 
 “(d)
 
-Access to Information.—The committee shall have access to information on all programs, projects, and activities of the Department of Defense, the Department of State, the Department of Energy, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
+Access to Information.—The committee shall have access to information on all programs, projects, and activities of the Department of Defense, the Department of State, the Department of Energy, the Department of State, the Department of Homeland Security, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
 
 “(e)
 
@@ -482,7 +568,7 @@ Recommendations.—The committee shall submit to the President and the heads of 
 
 “(f)
 
-Termination of Committee.—The committee shall cease to exist at the end of September 30, 2008.
+Termination of Committee.—The committee shall cease to exist at the end of September 30, 2013.
 
 #### “SEC. 1607. DEFINITIONS.
 
@@ -496,8 +582,6 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;“(2) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a).”
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
-
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 #### Restriction on Arms Sales to Saudi Arabia and Kuwait
@@ -510,7 +594,7 @@ Pub. L. 102–229, title I, §104, Dec. 12, 1991, 105 Stat. 1707, provided that:
 
 &emsp;“(2) In the case of Kuwait, $16,006,000,000.
 
-“(b) For purposes of this section, the term ‘any sale’ means any sale with respect to which the President is required to submit a numbered certification to the Congress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
+“(b) For purposes of this section, the term ‘any sale’ means any sale with respect to which the President is required to submit a numbered certification to theCongress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
 
 “(c) This section shall take effect 120 days after the date of enactment of this joint resolution \[Dec. 12, 1991\].
 
@@ -550,7 +634,7 @@ Pub. L. 95–92, §26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordan
 
 #### Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items
 
-Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining andcategorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
+Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
@@ -562,7 +646,7 @@ Section 217 of Pub. L. 94–329 set forth provisions respecting report by the Pr
 
 #### Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions
 
-Section 218 of Pub. L. 94–329 set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
+Section 218 of Pub. L. 94–329 set forth provisions respecting study by the Secretaries of State and Defenseon consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, §29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
 
 #### Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976
 
@@ -610,7 +694,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (d) Those under Sections 22(a), 29, 30 and 30A of the Act \[22 U.S.C. 2762(a), 2769, 2770, 2770a\] to the Secretary of Defense.
 
-(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determineany rate of interest to be charged which is less than the market rate of interest.
+(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged which is less than the market rate of interest.
 
 (f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing the functions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
 

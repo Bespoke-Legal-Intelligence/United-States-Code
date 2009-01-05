@@ -6,11 +6,11 @@ General Authority.—If a State maritime academy has an agreement with the Secre
 
 (b)
 
-Payments.—Payments under an agreement under this section shall be equal to $4,000 each academic year and be paid, as prescribed by the Secretary, while the individual is attending the academy. The payments shall be used for uniforms, books, and subsistence.
+Payments.—Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid before the start of each academic year, as prescribed by the Secretary, while the individual is attending the academy. The payments shall be used for uniforms, tuition, books, and subsistence.
 
 (c)
 
-Midshipman and Enlisted Reserve Status.—An agreement under this section shall require the student to accept midshipman and enlisted reserve status in the Naval Reserve (including the Merchant Marine Reserve, Naval Reserve) before receiving any payments under the agreement.
+Enlisted Reserve Status.—An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
 
 (d)
 
@@ -22,7 +22,7 @@ Agreement Requirements.—An agreement under this section shall require the stud
 
 &emsp;(3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
 
-&emsp;(4) accept, if tendered, an appointment as a commissioned officer in the Naval Reserve (including the Merchant Marine Reserve, Naval Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of theUnited States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
+&emsp;(4) accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
 
 &emsp;(5) serve the foreign and domestic commerce and the national defense of the United States for at least 3 years after graduation from the academy—
 
@@ -68,13 +68,7 @@ Actions To Recover Cost.—To aid in the recovery of the cost of education provi
 
 &emsp;(2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517.)
-
-#### Amendments Not Shown in Text
-
-<i>This section was derived from provisions of section 1295c(g) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236, and Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1295c(g) of the former Appendix to this title was amended by striking “Naval Reserve” each place it appears and inserting “Navy Reserve” and by amending paragraph (2) to read as follows:</i>
-
-<i>“(2) Each agreement entered into under paragraph (1) shall require the individual to accept enlisted reserve status in the United States Naval Reserve (including the Merchant Marine Reserve, United States Naval Reserve) or the United States Coast Guard Reserve before receiving any student incentive payments under this subsection.”</i>
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762.)
 
 Historical and Revision Notes
 
@@ -119,4 +113,22 @@ June 29, 1936, ch. 858, title XIII, §1304(g)(1)–(5), (8), as added Pub. L. 96
 In subsection (a), the text of 46 App. U.S.C. 1295c(g)(8) is omitted as obsolete.
 
 In subsection (g), the words “bring a civil action” are substituted for “begin court proceedings” for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3526(g), repealed Pub. L. 109–364, §3508. See 2006 Amendment note below.
+
+Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2)(A). See 2006 Amendment note below.
+
+Subsec. (b). Pub. L. 110–417 substituted “$8,000” for “$4,000” and inserted “before the start of each academic year” after “and be paid” and “tuition,” after “uniforms,”.
+
+Subsec. (c). Pub. L. 110–181, §3526(d), incorporated the substance of the amendments by Pub. L. 109–364, §3508, into this section by striking out “Midshipman and” before “Enlisted” in heading and “midshipman and” before “enlisted” in text and inserting “or the Coast Guard Reserve” after “Reserve)”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (d)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–364, §3508, which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
+
+Pub. L. 109–163, §515(g)(2)(A), which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes for subsecs. (c) and (d)(4) and Historical and Revision notes above.
 

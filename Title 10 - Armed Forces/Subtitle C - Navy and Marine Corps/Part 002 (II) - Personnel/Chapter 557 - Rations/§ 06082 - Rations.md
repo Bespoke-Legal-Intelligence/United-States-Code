@@ -36,7 +36,7 @@ Mar. 2, 1933, ch. 184, §2, 47 Stat. 1423.
 
 Mar. 2, 1933, ch. 184, §3, 47 Stat. 1423.
 
-In subsection (a) the words “issued to each person entitled thereto” are omitted as surplusage. In clause (2) the words “or fresh” and in clause (6) the words “together with” are omitted as surplusage.
+In subsection (a) the words “issued to each person entitled thereto” are omitted as surplusage. In clause (2)the words “or fresh” and in clause (6) the words “together with” are omitted as surplusage.
 
 #### Amendments
 

@@ -94,7 +94,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
-&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions, made by suchparticipant before September 2, 1974, if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
+&emsp;(iii) In the case of accrued benefits derived from employer contributions which accrued before September 2, 1974, a right to such accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that an amount of such accrued benefit may be forfeited on account of the withdrawal by the participant of an amount attributable to the benefit derived from mandatory contributions, made by such participant before September 2, 1974, if such amount forfeited is proportional to such amount withdrawn. This clause shall not apply to any plan to which any mandatory contribution is made after September 2, 1974. The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out the purposes of this clause.
 
 &emsp;(iv) For purposes of this subparagraph, in the case of any class-year plan, a withdrawal of employee contributions shall be treated as a withdrawal of such contributions on a plan year by plan year basis in succeeding order of time.
 
@@ -152,7 +152,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 (C) For purposes of paragraph (1), in the case of any participant in an individual account plan or an insured defined benefit plan which satisfies the requirements of subsection 1054(b)(1)(F) of this title who has 5 consecutive 1-year breaks in service, years of service after such 5-year period shall not be required to be taken into account for purposes of determining the nonforfeitable percentage of his accrued benefit derived from employer contributions which accrued before such 5-year period.
 
-(D)(i) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account if the number of consecutive1-year breaks in service within such period equals or exceeds the greater of—
+(D)(i) For purposes of paragraph (1), in the case of a nonvested participant, years of service with the employer or employers maintaining the plan before any period of consecutive 1-year breaks in service shall not be required to be taken into account if the number of consecutive 1-year breaks in service within such period equals or exceeds the greater of—
 
 &emsp;(I) 5, or
 
@@ -232,7 +232,7 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;(A) subject to paragraph (2), the requirements of subsection (a)(2), or
 
-&emsp;&emsp;(B) the requirements of section 1054(c) of this title or section 1055(g) of this title with respect to contributions other than employee contributions,
+&emsp;&emsp;(B) the requirements of section 1054(c) or 1055(g) of this title, or the requirements of subsection (e), with respect to accrued benefits derived from employer contributions,
 
 > &emsp;solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in the hypothetical account described in paragraph (3) or as an accumulated percentage of the participant's final average compensation.
 
@@ -252,9 +252,11 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 &emsp;&emsp;The Secretary of the Treasury shall issue regulations which include in the definition of an applicable defined benefit plan any defined benefit plan (or any portion of such a plan) which has an effect similar to an applicable defined benefit plan.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049.)
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127; Pub. L. 108–311, title IV, §408(b)(8), Oct. 4, 2004, 118 Stat. 1193; Pub. L. 109–280, title I, §107(a)(4), title VII, §701(a)(2), title IX, §§902(d)(2)(E), 904(b), Aug. 17, 2006, 120 Stat. 819, 984, 1038, 1049; Pub. L. 110–458, title I, §107(a)(1), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### Amendments
+
+2008—Subsec. (f)(1)(B). Pub. L. 110–458 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the requirements of section 1054(c) of this title or section 1055(g) of this title with respect to contributions other than employee contributions,”.
 
 2006—Subsec. (a)(2). Pub. L. 109–280, §904(b)(1), amended par. (2) generally, substituting provisions relating to satisfaction of requirements in the case of a defined benefit plan and in the case of an individual account plan for provisions relating to satisfaction of requirements if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions or if an employee has a nonforfeitable right to a percentage of such benefit based upon number of years of service.
 
@@ -310,7 +312,7 @@ Subsec. (a)(3)(F). Pub. L. 101–239, §7861(a)(5)(B), added subpar. (F).
 
 Subsec. (b)(1)(A). Pub. L. 101–239, §7861(a)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “years of service before age 18, except that in case of a plan which does not satisfy subparagraph (A) or (B) of subsection (a)(2) of this section, the plan may not disregard any such year of service during which the employee was a participant;”.
 
-Subsec. (c)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal RevenueCode of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c)(2). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (e)(1). Pub. L. 101–239, §7862(d)(10), which directed amendment of par. (1) by substituting “nonforfeitable benefit” for “vested accrued benefit”, could not be executed because the language “vested accrued benefit” did not appear after the amendment by Pub. L. 101–239, §7862(d)(5), see below.
 
@@ -322,7 +324,7 @@ Subsec. (e)(2). Pub. L. 101–239, §7891(b)(1), (2), realigned margins of subpa
 
 Subsec. (e)(3). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1986—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the “rule of 45” under which a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
+1986—Subsec. (a)(2). Pub. L. 99–514, §1113(e)(1), amended par. (2) generally, substituting provisions covering 5-year vesting, 3- to 7-year vesting, and multiemployer plans, for former provisions which covered 10-year vesting, 5- to 15-year vesting, and the “rule of 45” underwhich a plan satisfied the requirements of this paragraph if an employee who had completed at least 5 years of service and with respect to whom the sum of his age and years of service equalled or exceeded 45 had a right to a percentage of his accrued benefits derived from employer contributions.
 
 Subsec. (a)(3)(D)(ii). Pub. L. 99–514, §1898(a)(4)(B)(i), inserted last sentence and struck out former last sentence which read as follows: “In the case of a defined contribution plan the plan provision required under this clause may provide that such repayment must be made before the participant has any 1-year break in service commencing after the withdrawal.”
 
@@ -352,6 +354,10 @@ Subsec. (e). Pub. L. 98–397, §105(a), added subsec. (e).
 
 Subsec. (b)(1)(G). Pub. L. 96–364, §303(2)–(4), added subpar. (G).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 107(a)(4) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
@@ -374,7 +380,7 @@ Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the laterof (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–188 applicable to plan years beginning on or after the earlier of (1) the later of (A) Jan. 1, 1997, or (B) the date on which the last of the collective bargaining agreements pursuant to which the plan is maintained terminates (determined without regard to any extension thereof after Aug. 20, 1996), or (2) Jan. 1, 1999, but such amendment not applicable to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendment applies, see section 1442(c) of Pub. L. 104–188, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) With respect to acts of terrorism primarily within the territorial jurisdiction of the United States, the Attorney General may reward any individual who furnishes information—
 
-&emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for the commission of an act of terrorism againsta United States person or United States property; or
+&emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for the commission of an act of terrorism against a United States person or United States property; or
 
 &emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of terrorism against a United States person or property; or
 

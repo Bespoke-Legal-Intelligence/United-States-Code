@@ -18,7 +18,7 @@ The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23
 
 1964—Pub. L. 88–297 inserted “or, in the case of upland cotton on a farm which qualified for price support on the crop produced in any such year under section 1444(b) of this title, 75 per centum of the farm domestic allotment established under section 1350 of this title for any such year, whichever is smaller” in first proviso after “75 per centum or more of the farm acreage allotment for such year” to protect the farm base of any farm participating in the domestic allotment choice program if the acreage planted on the farm was at least 75 per centum of the farm domestic allotment.
 
-1959—Pub. L. 86–172 excluded any allotment provided for a farm under section 1344(f)(7)(A) of this title fromthe entire acreage allotment for the farm which is considered as planted in the year for the purpose of establishing future acreage allotments and provided for the preservation of the current farm acreage allotment as history acreage under prescribed conditions.
+1959—Pub. L. 86–172 excluded any allotment provided for a farm under section 1344(f)(7)(A) of this title from the entire acreage allotment for the farm which is considered as planted in the year for the purpose of establishing future acreage allotments and provided for the preservation of the current farm acreage allotment as history acreage under prescribed conditions.
 
 1957—Pub. L. 85–266 struck out, for 1957, 1958, and 1959, requirement of filing notice of intention not to plant full acreage allotment and provided that acreage history credits for released or reapportioned acreage shall be governed by the applicable provisions of this subchapter pertaining to the release and reapportionment of acreage allotments.
 

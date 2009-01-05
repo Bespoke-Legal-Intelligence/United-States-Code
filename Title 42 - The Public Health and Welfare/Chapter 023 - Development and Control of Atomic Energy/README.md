@@ -444,6 +444,7 @@
 | 2297h–8. | Employee protections. |
 | 2297h–9. | Ownership limitations. |
 | 2297h–10. | Uranium transfers and sales. |
+| 2297h–10a. | Incentives for additional downblending of highly enriched uranium by the Russian Federation. |
 | 2297h–11. | Low-level waste. |
 | 2297h–12. | AVLIS. |
 | 2297h–13. | Application of certain laws. |

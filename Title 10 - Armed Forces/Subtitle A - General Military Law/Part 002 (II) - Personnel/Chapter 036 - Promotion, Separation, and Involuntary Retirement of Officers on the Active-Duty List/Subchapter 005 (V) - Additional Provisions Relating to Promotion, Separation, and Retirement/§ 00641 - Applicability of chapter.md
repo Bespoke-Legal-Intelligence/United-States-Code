@@ -10,7 +10,7 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;&emsp;(C) on full-time National Guard duty.
 
-&emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy and the registrar, dean, and permanent professors at the United States Air Force Academy.
+&emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy, the registrar, dean, and permanent professors at the United States Air Force Academy, and permanent professors of the Navy (as defined in regulations prescribed by the Secretary of the Navy).
 
 &emsp;(3) Warrant officers.
 
@@ -20,13 +20,15 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(6) Officers appointed pursuant to an agreement under section 329 of title 37.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874; Pub. L. 109–364, div. A, title VI, §621(c), Oct. 17, 2006, 120 Stat. 2255.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874; Pub. L. 109–364, div. A, title VI, §621(c), Oct. 17, 2006, 120 Stat. 2255; Pub. L. 110–181, div. A, title V, §508(b), Jan. 28, 2008, 122 Stat. 97.)
 
 #### Codification
 
 Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, §1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends section 620 of this title instead of this section.
 
 #### Amendments
+
+2008—Par. (2). Pub. L. 110–181 substituted “, the registrar” for “and the registrar” and inserted “, and permanent professors of the Navy (as defined in regulations prescribed by the Secretary of the Navy)” before period at end.
 
 2006—Par. (6). Pub. L. 109–364 added par. (6).
 
@@ -36,7 +38,7 @@ Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 St
 
 &emsp;“(A) on active duty for training;
 
-&emsp;“(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a),10506(b), 10507, or 12402 of this title or section 708 of title 32;
+&emsp;“(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32;
 
 &emsp;“(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
@@ -84,7 +86,7 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as a note under section 10001 of this title.
 
 #### Effective Date
 

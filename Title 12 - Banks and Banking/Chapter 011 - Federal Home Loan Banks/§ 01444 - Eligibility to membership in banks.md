@@ -8,11 +8,13 @@
 
 &emsp;(3) of the institutions to which its membership is confined which are organized within the State, its membership includes a majority of such institutions.
 
-(b) In all respects, but subject to such additional rules and regulations as the Board may provide, any such organization shall be a member for the purposes of this chapter.
+(b) In all respects, but subject to such additional rules and regulations as the Director may provide, any such organization shall be a member for the purposes of this chapter.
 
-(July 22, 1932, ch. 522, §24, 47 Stat. 739; Pub. L. 101–73, title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412.)
+(July 22, 1932, ch. 522, §24, 47 Stat. 739; Pub. L. 101–73, title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §1204(8), July 30, 2008, 122 Stat. 2786.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–289 substituted “the Director” for “the Board”.
 
 1989—Subsec. (b). Pub. L. 101–73 substituted “Board” for “board”.
 

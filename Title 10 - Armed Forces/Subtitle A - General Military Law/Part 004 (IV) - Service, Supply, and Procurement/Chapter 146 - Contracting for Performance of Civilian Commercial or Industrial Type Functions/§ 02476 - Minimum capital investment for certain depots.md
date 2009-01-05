@@ -24,6 +24,8 @@ Annual Report.—(1) Not later than 45 days after the date on which the Presiden
 
 &emsp;(C) If the requirement under subsection (a) is not met for a military department for the fiscal year covered by the report, a statement of the reasons why the requirement was not met and a plan of actions for meeting the requirement for the fiscal year beginning in the year in which such report is submitted.
 
+&emsp;(D) Separate consideration and reporting of Navy Depots <sup>1</sup> and Marine Corps depots.
+
 (e)
 
 Covered Depot.—In this section, the term “covered depot” means any of the following:
@@ -40,25 +42,35 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 
 &emsp;&emsp;(E) Red River Army Depot, Texas.
 
+&emsp;&emsp;(F) Watervliet Arsenal, New York.
+
+&emsp;&emsp;(G) Rock Island Arsenal, Illinois.
+
+&emsp;&emsp;(H) Pine Bluff Arsenal, Arkansas.
+
 &emsp;(2) With respect to the Department of the Navy:
 
-&emsp;&emsp;(A) Fleet Readiness Center East Site, Cherry Point, North Carolina.
+&emsp;&emsp;(A) The following Navy depots:
 
-&emsp;&emsp;(B) Fleet Readiness Center Southwest Site, North Island, California.
+&emsp;&emsp;&emsp;(i) Fleet Readiness Center East Site, Cherry Point, North Carolina.
 
-&emsp;&emsp;(C) Fleet Readiness Center Southeast Site, Jacksonville, Florida.
+&emsp;&emsp;&emsp;(ii) Fleet Readiness Center Southwest Site, North Island, California.
 
-&emsp;&emsp;(D) Portsmouth Naval Shipyard, Maine.
+&emsp;&emsp;&emsp;(iii) Fleet Readiness Center Southeast Site, Jacksonville, Florida.
 
-&emsp;&emsp;(E) Pearl Harbor Naval Shipyard, Hawaii.
+&emsp;&emsp;&emsp;(iv) Portsmouth Naval Shipyard, Maine.
 
-&emsp;&emsp;(F) Puget Sound Naval Shipyard, Washington.
+&emsp;&emsp;&emsp;(v) Pearl Harbor Naval Shipyard, Hawaii.
 
-&emsp;&emsp;(G) Norfolk Naval Shipyard, Virginia.
+&emsp;&emsp;&emsp;(vi) Puget Sound Naval Shipyard, Washington.
 
-&emsp;&emsp;(H) Marine Corps Logistics Base, Albany, Georgia.
+&emsp;&emsp;&emsp;(vii) Norfolk Naval Shipyard, Virginia.
 
-&emsp;&emsp;(I) Marine Corps Logistics Base, Barstow, California.
+&emsp;&emsp;(B) The following Marine Corps depots:
+
+&emsp;&emsp;&emsp;(i) Marine Corps Logistics Base, Albany, Georgia.
+
+&emsp;&emsp;&emsp;(ii) Marine Corps Logistics Base, Barstow, California.
 
 &emsp;(3) With respect to the Department of the Air Force:
 
@@ -68,7 +80,15 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 
 &emsp;&emsp;(C) Oklahoma City Air Logistics Center, Oklahoma.
 
-(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149.)
+(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418.)
+
+#### Amendments
+
+2008—Subsec. (d)(2)(D). Pub. L. 110–417, §327(b)(1), added subpar. (D).
+
+Subsec. (e)(1)(F) to (H). Pub. L. 110–417, §327(a), added subpars. (F) to (H).
+
+Subsec. (e)(2). Pub. L. 110–417, §327(b)(2), inserted introductory provisions for subpars. (A) and (B), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A) and realigned margins, and redesignated former subpars. (H) and (I) as cls. (i) and (ii), respectively, of subpar. (B) and realigned margins.
 
 #### Effective Date
 

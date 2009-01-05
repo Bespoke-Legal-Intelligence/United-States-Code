@@ -10,7 +10,7 @@
 
 &emsp;(4) upon reporting for the first period of active duty required by section 2121(c) of title 10 as a member of the Armed Forces Health Professions Scholarship program.
 
-(b) An officer who has received an initial uniform reimbursement or allowance under any other law is not entitled to an initial allowance under subsection (a).
+(b) An officer who has received an initial uniform reimbursement or allowance under anyother law is not entitled to an initial allowance under subsection (a).
 
 (c) An allowance of $250 for uniforms and equipment may be paid to each commissioned officer of the Public Health Service who is—
 

@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) includes all public lands withdrawn from all forms of appropriation under public land laws and reserved for use by the Secretary of Defense or the Secretary of a military department; and
 
-&emsp;&emsp;(C) does not include any land described in subparagraph (A) or (B) that is subject to anapproved recommendation for closure under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;&emsp;(C) does not include any land described in subparagraph (A) or (B) that is subject to an approved recommendation for closure under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 #### (2) State fish and wildlife agency
 

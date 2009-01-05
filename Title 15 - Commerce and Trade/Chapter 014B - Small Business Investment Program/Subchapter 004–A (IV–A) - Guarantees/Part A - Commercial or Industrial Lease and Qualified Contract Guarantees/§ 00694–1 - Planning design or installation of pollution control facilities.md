@@ -4,7 +4,7 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) “pollution control facilities” means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing orstoring pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
+&emsp;(1) “pollution control facilities” means such property (both real and personal) as the Administration in its discretion determines is likely to help prevent, reduce, abate, or control noise, air or water pollution or contamination by removing, altering, disposing or storing pollutants, contaminants, wastes, or heat, and such property (both real and personal) as the Administration determines will be used for the collection, storage, treatment, utilization, processing, or final disposal of solid or liquid waste.
 
 &emsp;(2) “person” includes corporations, companies, associations, firms, partnerships, societies, joint stock companies, States, territories, and possessions of the United States, or subdivisions of any of the foregoing, and the District of Columbia, as well as individuals.
 

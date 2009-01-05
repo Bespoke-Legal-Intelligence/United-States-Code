@@ -20,7 +20,7 @@ Section 201 of Pub. L. 93–501, cited as a credit to this section, was repealed
 
 #### Amendments
 
-1980—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located,” before “whichever may be the greater” in two places. See Codification and 1979 Amendment notes under this section.
+1980—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located,” before “whichever may be the greater” in two places. SeeCodification and 1979 Amendment notes under this section.
 
 1979—Pub. L. 96–161 inserted provisions relating to a 5 per centum interest rate on business or agricultural loans in the amount of $25,000 or more that were identical to provisions inserted earlier by Pub. L. 96–104. See Codification note above.
 
@@ -30,7 +30,7 @@ Pub. L. 96–104 substituted “or in the case of business or agricultural loans
 
 1935—Act Aug. 23, 1935, inserted third sentence.
 
-1933—Act June 16, 1933, authorized interest at the alternative rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the federal reserve bank in the Federal Reserve district where the bank is located if greater.
+1933—Act June 16, 1933, authorized interest at the alternative rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the federal reserve bank in the Federal reserve district where the bank is located if greater.
 
 #### Effective Date of 1980 Amendment
 

@@ -10,7 +10,7 @@ If, upon any follow-up inspection of a coal or other mine, an authorized represe
 
 #### (c) Exempt persons
 
-The following persons shall not be required to be withdrawn from, or prohibited from entering, any area of the coal or other mine subject to an order issued under this section:
+The following persons shall not be required to be withdrawn from, or prohibited from entering,any area of the coal or other mine subject to an order issued under this section:
 
 &emsp;(1) any person whose presence in such area is necessary, in the judgment of the operator or an authorized representative of the Secretary, to eliminate the condition described in the order;
 
@@ -24,7 +24,7 @@ The following persons shall not be required to be withdrawn from, or prohibited 
 
 (1) If, upon any inspection of a coal or other mine, an authorized representative of the Secretary finds that there has been a violation of any mandatory health or safety standard, and if he also finds that, while the conditions created by such violation do not cause imminent danger, such violation is of such nature as could significantly and substantially contribute to the cause and effect of a coal or other mine safety or health hazard, and if he finds such violation to be caused by an unwarrantable failure of such operator to comply with such mandatory health or safety standards, he shall include such finding in any citation given to the operator under this chapter. If, during the same inspection or any subsequent inspection of such mine within 90 days after the issuance of such citation, an authorized representative of the Secretary finds another violation of any mandatory health or safety standard and finds such violation to be also caused by an unwarrantable failure of such operator to so comply, he shall forthwith issue an order requiring the operator to cause all persons in the area affected by such violation, except those persons referred to in subsection (c) of this section to be withdrawn from, and to be prohibited from entering, such area until an authorized representative of the Secretary determines that such violation has been abated.
 
-(2) If a withdrawal order with respect to any area in a coal or other mine has been issued pursuant to paragraph (1), a withdrawal order shallpromptly be issued by an authorized representative of the Secretary who finds upon any subsequent inspection the existence in such mine of violations similar to those that resulted in the issuance of the withdrawal order under paragraph (1) until such time as an inspection of such mine discloses no similar violations. Following an inspection of such mine which discloses no similar violations, the provisions of paragraph (1) shall again be applicable to that mine.
+(2) If a withdrawal order with respect to any area in a coal or other mine has been issued pursuant to paragraph (1), a withdrawal order shall promptly be issued by an authorized representative of the Secretary who finds upon any subsequent inspection the existence in such mine of violations similar to those that resulted in the issuance of the withdrawal order under paragraph (1) until such time as an inspection of such mine discloses no similar violations. Following an inspection of such mine which discloses no similar violations, the provisions of paragraph (1) shall again be applicable to that mine.
 
 #### (e) Pattern of violations; abatement; termination of pattern
 
@@ -48,9 +48,13 @@ If, based upon samples taken, analyzed, and recorded pursuant to section 842(a) 
 
 #### (h) Duration of citations and orders
 
-Any citation or order issued under this section shall remain in effect until modified, terminatedor vacated by the Secretary or his authorized representative, or modified, terminated or vacated by the Commission or the courts pursuant to section 815 or 816 of this title.
+Any citation or order issued under this section shall remain in effect until modified, terminated or vacated by the Secretary or his authorized representative, or modified, terminated or vacated by the Commission or the courts pursuant to section 815 or 816 of this title.
 
 (Pub. L. 91–173, title I, §104, Dec. 30, 1969, 83 Stat. 750; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1300.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (d)(1), and (f), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

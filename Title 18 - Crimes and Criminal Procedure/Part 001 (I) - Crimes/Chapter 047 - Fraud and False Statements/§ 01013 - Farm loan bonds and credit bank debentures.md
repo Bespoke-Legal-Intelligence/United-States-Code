@@ -8,7 +8,7 @@ Whoever deceives, defrauds, or imposes upon, or attempts to deceive, defraud, or
 
 Based on sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking (July 17, 1916, ch. 245, §31, fifth paragraph, 39 Stat. 384; July 17, 1916, ch. 245, §211(g), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1461; Mar. 4, 1923, ch. 252, title II, §216(g), 42 Stat. 1473).
 
-This section condenses and simplifies sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, each of which contained similar provisions and similar language. The punishment provisions of all three sections were the same.
+This section condenses and simplifies sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks andBanking, each of which contained similar provisions and similar language. The punishment provisions of all three sections were the same.
 
 References to “chapter” and “subchapter” were omitted and words describing the various types of banks or organizations to which said sections 985, 1127, and 1317 of title 12, U.S.C., 1940 ed., Banks and Banking, related, were inserted in lieu. This necessitated some rephrasing and transposition of phrases, but without change of meaning or substance.
 

@@ -6,9 +6,9 @@ There are authorized to be appropriated such sums as the Congress may from time 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 14 of act July 2, 1948, ch. 811, 62 Stat. 1228 (classified to section 462 of this title) prior to the general amendment of act July 2, 1948, by Pub. L. 93–155.
+Provisions similar to those in this section were contained in section 14 of act July 2, 1948, ch. 811, 62 Stat.1228 (classified to section 462 of this title) prior to the general amendment of act July 2, 1948, by Pub. L. 93–155.
 
 #### Amendments
 
-1973—Pub. L. 93–155 substituted provisions respecting authorization of appropriations, for prior provisions respecting acceptance of plants by Administrator of General Services, disposition of plants, and conditions of lease, now covered in section 453 of this title.
+<b>1973</b>—Pub. L. 93–155 substituted provisions respecting authorization of appropriations, for prior provisions respecting acceptance of plants by Administrator of General Services, disposition of plants, and conditions of lease, now covered in section 453 of this title.
 

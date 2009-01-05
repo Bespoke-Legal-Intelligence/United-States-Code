@@ -60,7 +60,7 @@ In the case of a distribution of partnership property or a transfer of an intere
 
 #### (B) Constructive ownership
 
-&emsp;&emsp;Section 318 shall apply in determining ownership of stock in a corporation. Similarprinciples shall apply in determining the ownership of interests in any other entity.
+&emsp;&emsp;Section 318 shall apply in determining ownership of stock in a corporation. Similar principles shall apply in determining the ownership of interests in any other entity.
 
 #### (3) Related person
 

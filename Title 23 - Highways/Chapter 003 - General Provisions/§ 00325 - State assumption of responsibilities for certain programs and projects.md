@@ -94,7 +94,7 @@ Other federal agency views.—Before assigning to a State a responsibility of th
 
 (d)
 
-State Defined.—With respect to the recreational trails program, the term “State”means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
+State Defined.—With respect to the recreational trails program, the term “State” means the State agency designated by the Governor of the State in accordance with section 206(c)(1).
 
 (e)
 

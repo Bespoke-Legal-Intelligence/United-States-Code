@@ -16,7 +16,7 @@ Except when a state of emergency has been proclaimed by the President or by conc
 
 #### (d) Additional authorization for disposition of commodities to relieve distress or for civil defense emergencies
 
-The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, asamended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 <sup>1</sup> of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The <sup>2</sup> Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\].
+The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, as amended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 <sup>1</sup> of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The <sup>2</sup> Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\].
 
 #### (e) Sale at equivalent prices for maintenance of reserve
 
@@ -42,7 +42,7 @@ This Act, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Sta
 
 The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-Act of September 21, 1959, referred to in subsec. (d), is Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended, which is set out as a note under section 1427 of this title.
+Act of September 21, 1959, referred to in subsec. (d), is Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended,which is set out as a note under section 1427 of this title.
 
 Section 2267 of this title, referred to in subsec. (d), was repealed by Pub. L. 100–387, title I, §101(b)(1), Aug. 11, 1988, 102 Stat. 931.
 

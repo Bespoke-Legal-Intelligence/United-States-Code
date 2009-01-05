@@ -26,7 +26,7 @@ A person who—
 
 #### Historical and Revision Notes
 
-Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29b, 30 Stat. 554; May 27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
+Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29b, 30 Stat. 554; May27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
 
 Section was broadened to apply to one who gives or offers a bribe.
 

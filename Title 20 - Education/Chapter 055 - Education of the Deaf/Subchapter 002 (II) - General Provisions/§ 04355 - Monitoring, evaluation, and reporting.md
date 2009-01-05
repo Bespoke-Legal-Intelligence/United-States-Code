@@ -2,19 +2,25 @@
 
 #### (a) Activities
 
-The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, preparatory, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to section 3109 of title 5.
+The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to section 3109 of title 5.
 
 #### (b) Report
 
-The Secretary, as part of the annual report required under section 3486 of this title, shall include a description of the monitoring and evaluation activities pursuant to subsection (a) of this section, together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
+The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a) of this section, together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1998 through 2003 to carry out the monitoring and evaluation activities authorized under this section.
+There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.
 
-(Pub. L. 99–371, title II, §205, formerly title IV, §405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §205, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, §204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §918, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §205, formerly title IV, §405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §205, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, §204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §918, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §907, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §907(1), struck out “preparatory,” before “undergraduate”.
+
+Subsec. (b). Pub. L. 110–315, §907(2), substituted “The Secretary shall annually transmit information to Congress on” for “The Secretary, as part of the annual report required under section 3486 of this title, shall include a description of”.
+
+Subsec. (c). Pub. L. 110–315, §907(3), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
 1998—Subsec. (c). Pub. L. 105–244 substituted “1998 through 2003” for “1993, 1994, 1995, 1996, and 1997”.
 

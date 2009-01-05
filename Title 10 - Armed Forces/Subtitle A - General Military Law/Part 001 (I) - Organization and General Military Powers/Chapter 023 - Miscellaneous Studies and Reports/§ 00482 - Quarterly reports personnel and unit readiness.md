@@ -2,7 +2,7 @@
 
 (a)
 
-Quarterly Reports Required.—Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. The report for a quarter shall contain the information required by subsections (b), (d), and (e).
+Quarterly Reports Required.—Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. The report for a quarter shall contain the information required by subsections (b), (d), (e), and (f).
 
 (b)
 
@@ -112,11 +112,23 @@ Unit Readiness Indicators.—Each report shall also include information regardin
 
 (f)
 
+Readiness of National Guard to Perform Civil Support Missions.—(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Plan for support to civil authorities.
+
+(2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
+
+(3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
+
+(g)
+
 Classification of Reports.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
-(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575.)
+(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §351(b)(1), substituted “(e), and (f)” for “and (e)”.
+
+Subsecs. (f), (g). Pub. L. 110–181, §351(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1999—Pub. L. 106–65, §361(d)(3), repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
 
@@ -136,13 +148,17 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 Section 361(b) of Pub. L. 104–106 provided that: “Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\].”
 
+#### Quarterly Reports on Personnel and Unit Readiness
+
+Pub. L. 110–181, div. A, title III, §351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to the quarterly report required under section 482 of title 10, United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section.”
+
 #### Quarterly Readiness Report Requirement
 
 Pub. L. 105–261, div. A, title III, §373(d)(1), Oct. 17, 1998, 112 Stat. 1992, which provided that effective Jan. 15, 2000, or the date on which the first report of the Secretary of Defense is submitted under section 117(e) of this title, whichever is later, the Secretary of Defense was to cease to submit reports under this section, was repealed by Pub. L. 106–65, div. A, title III, §361(d)(3), Oct. 5, 1999, 113 Stat. 575.
 
 #### Implementation Plan To Examine Readiness Indicators
 
-Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, notlater than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
+Pub. L. 105–85, div. A, title III, §322(b), Nov. 18, 1997, 111 Stat. 1675, directed the Secretary of Defense, not later than Jan. 15, 1998, to submit to the congressional defense committees a plan specifying the manner in which the additional reporting requirement of subsec. (d) of this section would be implemented and the criteria proposed to be used to evaluate the readiness indicators identified in subsec. (d).
 
 #### Transition To Complete Report
 

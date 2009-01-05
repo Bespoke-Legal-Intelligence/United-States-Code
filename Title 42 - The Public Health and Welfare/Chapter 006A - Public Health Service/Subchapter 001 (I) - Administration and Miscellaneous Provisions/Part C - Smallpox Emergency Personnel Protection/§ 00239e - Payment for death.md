@@ -28,7 +28,7 @@
 
 #### (B) Exception in the case of a limitation on appropriations for disability benefits under PSOB
 
-&emsp;&emsp;In the event that disability benefits available to an eligible individual under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) are reduced because of a limitation on appropriations, and such reduction would affect the amount that wouldbe payable under subparagraph (A) without regard to this subparagraph, benefits shall be available under paragraph (1) to the extent necessary to ensure that the survivor or survivors of such individual receives a total amount equal to the amount described in paragraph (2).
+&emsp;&emsp;In the event that disability benefits available to an eligible individual under the Public Safety Officers’ Benefits Program undersubpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) are reduced because of a limitation on appropriations, and such reduction would affect the amount that would be payable under subparagraph (A) without regard to this subparagraph, benefits shall be available under paragraph (1) to the extent necessary to ensure that the survivor or survivors of such individual receives a total amount equal to the amount described in paragraph (2).
 
 #### (b) Election in case of dependents
 

@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (6) Friable asbestos-containing material
 
-&emsp;The term “friable asbestos-containing material” means any asbestos-containing materialapplied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
+&emsp;The term “friable asbestos-containing material” means any asbestos-containing material applied on ceilings, walls, structural members, piping, duct work, or any other part of a building which when dry may be crumbled, pulverized, or reduced to powder by hand pressure. The term includes non-friable asbestos-containing material after such previously non-friable material becomes damaged to the extent that when dry it may be crumbled, pulverized, or reduced to powder by hand pressure.
 
 #### (7) Local educational agency
 

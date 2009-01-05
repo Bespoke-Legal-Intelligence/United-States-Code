@@ -56,7 +56,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
-(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only asprovided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
+(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
 #### (d) Insurance fees
 
@@ -140,7 +140,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) Overpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
 
 #### (ii) Underpayment
 
@@ -208,7 +208,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(C) such affiliate—
 
-&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet thepayment obligations referred to in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet the payment obligations referred to in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) is not otherwise in breach of the terms of any assistance agreement or note which would authorize the Federal Savings and Loan Insurance Corporation or such other successor entity, pursuant to the terms of such assistance agreement or note, to refuse to make such payments.
 
@@ -250,7 +250,7 @@ Subsec. (e)(6) to (9). Pub. L. 109–173, §8(a)(6)(B), (C), redesignated pars. 
 
 &emsp;“(A) no Savings Association Insurance Fund member shall have any liability to the Corporation under this subsection arising out of assistance provided by the Corporation or any loss incurred by the Corporation as a result of the default of a Bank Insurance Fund member which was acquired by such Savings Association Insurance Fund member or any affiliate of such member before August 9, 1989; and
 
-&emsp;“(B) no Bank Insurance Fund member shall have such liability with respect to assistance provided by or loss incurred by the Corporation as a result of the default of a Savings Association Insurance Fund member which was acquired by such Bank Insurance Fund member or any affiliate of such member before August 9, 1989.”
+&emsp;“(B) no Bank Insurance Fund member shall have such liability with respect to assistance provided byor loss incurred by the Corporation as a result of the default of a Savings Association Insurance Fund member which was acquired by such Bank Insurance Fund member or any affiliate of such member before August 9, 1989.”
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(E)(ii), (iii). See 1996 Amendment note below.
 
@@ -314,7 +314,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 102–242, §302(e)(1), as amended by Pub. L. 102�
 
 &emsp;“(III) be treated as deposits which are insured by the Savings Association Insurance Fund.”
 
-Subsec. (d)(3)(B)(ii). Pub. L. 102–242, §302(e)(2), as added by Pub. L. 102–558, §303(b)(6)(B), substituted “deposits” for “average assessment base” and “shall be treated as deposits which are insured by the Bank Insurance Fund.” for “shall—
+Subsec. (d)(3)(B)(ii). Pub. L. 102–242, §302(e)(2), as added by Pub. L. 102–558, §303(b)(6)(B), substituted “deposits” for “average assessment base” and “shall betreated as deposits which are insured by the Bank Insurance Fund.” for “shall—
 
 &emsp;“(I) be subject to assessment at the assessment rate applicable under section 1817 of this title for Bank Insurance Fund members;
 

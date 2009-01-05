@@ -36,9 +36,11 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;The Secretary establishes a prequalification process for eligible lenders desiring to participate in an auction under this paragraph that contains, at a minimum—
 
-&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lender shall meet in order to participate in such an auction; and
+&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lender shall meet in order to participate in such an auction;
 
-&emsp;&emsp;&emsp;(ii) an assessment of each such eligible lender's capacity, including capital capacity, to participate effectively.
+&emsp;&emsp;&emsp;(ii) an assessment of each such eligible lender's capacity, including capital capacity, to participate effectively; and
+
+&emsp;&emsp;&emsp;(iii) a commitment from such eligible lender that, if the lender has a winning bid under subparagraph (F), the lender will enter into the agreement required under subparagraph (G).
 
 #### (C) Timing and origination
 
@@ -56,19 +58,37 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;The winning bids for each State auction shall be the 2 bids containing the lowest and the second lowest proposed special allowance payments, subject to subparagraph (E).
 
-#### (G) Agreement with Secretary
+#### (G) Agreement with Secretary; compliance
 
-&emsp;&emsp;Each eligible lender having a winning bid under subparagraph (F) enters into an agreement with the Secretary under which the eligible lender—
+#### (i) Agreement
 
-&emsp;&emsp;&emsp;(i) agrees to originate eligible Federal PLUS Loans under this paragraph to each borrower who—
+&emsp;&emsp;&emsp;Each eligible lender having a winning bid under subparagraph (F) shall enter into an agreement with the Secretary under which the eligible lender—
 
-&emsp;&emsp;&emsp;&emsp;(I) seeks an eligible Federal PLUS Loan under this paragraph to enable a dependent student to attend an institution of higher education within the State;
+&emsp;&emsp;&emsp;&emsp;(I) agrees to originate eligible Federal PLUS Loans under this paragraph to each borrower who—
 
-&emsp;&emsp;&emsp;&emsp;(II) is eligible for an eligible Federal PLUS Loan; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) seeks an eligible Federal PLUS Loan under this paragraph to enable a dependent student to attend an institution of higher education within the State;
 
-&emsp;&emsp;&emsp;&emsp;(III) elects to borrow from the eligible lender; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is eligible for an eligible Federal PLUS Loan; and
 
-&emsp;&emsp;&emsp;(ii) agrees to accept a special allowance payment (after the application of section 1087–1(b)(2)(I)(v) of this title) from the Secretary with respect to the eligible Federal PLUS Loans originated under clause (i) in the amount proposed in the second lowest winning bid described in subparagraph (F) for the applicable State auction.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) elects to borrow from the eligible lender; and
+
+&emsp;&emsp;&emsp;&emsp;(II) agrees to accept a special allowance payment (after the application of section 1087–1(b)(2)(I)(v) of this title) from the Secretary with respect to the eligible Federal PLUS Loans originated under subclause (I) in the amount proposed in the second lowest winning bid described in subparagraph (F) for the applicable State auction.
+
+#### (ii) Compliance
+
+&emsp;&emsp;&emsp;If an eligible lender with a winning bid under subparagraph (F) fails to enter into the agreement required under clause (i), or fails to comply with the terms of such agreement, the Secretary may sanction such eligible lender through one or more of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The assessment of a penalty on such eligible lender for any eligible Federal PLUS Loans that such eligible lender fails to originate under this paragraph in accordance with the agreement required under clause (i), in the amount of the additional costs (including the amounts of any increase in special allowance payments) incurred by the Secretary in obtaining another eligible lender to originate such eligible Federal PLUS Loans. The Secretary shall collect such penalty by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) reducing the amount of any payments otherwise due to such eligible lender from the Secretary by the amount of the penalty; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) requesting any other Federal agency to reduce the amount of anypayments due to such eligible lender from such agency by the amount of the penalty, in accordance with section 3716 of title 31.
+
+&emsp;&emsp;&emsp;&emsp;(II) A prohibition of bidding by such lender in other auctions under this section.
+
+&emsp;&emsp;&emsp;&emsp;(III) The limitation, suspension, or termination of such eligible lender's participation in the loan program under part B.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Any other enforcement action the Secretary is authorized to take under part B.
 
 #### (H) Sealed bids; confidentiality
 
@@ -98,7 +118,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (J) Guarantee against losses
 
-&emsp;&emsp;The Secretary guarantees the eligible Federal PLUS Loans made under this paragraph against losses resulting from the default of a parent borrower in an amount equal to 99 percent of the unpaid principal and interest due on the loan.
+&emsp;&emsp;Each eligible Federal PLUS Loan originated under this paragraph shall be insured by a guaranty agency in accordance with part B, except that, notwithstanding section 1078(b)(1)(G) of this title, such insurance shall be in an amount equal to 99 percent of the unpaid principal and interest due on the loan.
 
 #### (K) Loan fees
 
@@ -124,11 +144,11 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (iv) Consolidation of additional loans
 
-&emsp;&emsp;&emsp;If a borrower has a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title and seeks to consolidate such loan with an eligible Federal PLUS Loan madeunder this paragraph, then the eligible lender that originated the borrower's loan under this paragraph may include in the consolidation under this subparagraph a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title, but only if—
+&emsp;&emsp;&emsp;If a borrower has a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title and seeks to consolidate such loan with an eligible Federal PLUS Loan made under this paragraph, then the eligible lender that originated the borrower's loan under this paragraph may include in the consolidation under this subparagraph a Federal Direct PLUS Loan or a loan made on behalf of a dependent student under section 1078–2 of this title, but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a Federal Direct PLUS Loan, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions that would otherwise be available to the borrower if the borrower consolidated such loans in the loan program under part C; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a loan made on behalf of a dependent student under section 1078–2 of this title, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions offered by an eligible lender other than the eligible lender that originated the borrower's loans under this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a loan made on behalf of a dependent student under section 1078–2 of this title, the eligible lender agrees, not later than 10 days after theborrower requests such consolidation from the lender, to match the consolidation terms and conditions offered by an eligible lender other than the eligible lender that originated the borrower's loans under this paragraph.
 
 #### (v) Special allowance on consolidation loans that include loans made under this paragraph
 
@@ -146,7 +166,69 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;&emsp;Any loan under section 1078–3 of this title consolidated under this paragraph shall not be subject to the interest payment rebate fee under section 1078–3(f) of this title.
 
-(Pub. L. 89–329, title IV, §499, as added Pub. L. 110–84, title VII, §701, Sept. 27, 2007, 121 Stat. 808.)
+#### (c) Required initial evaluation
+
+The Secretary and Secretary of the Treasury shall jointly conduct an evaluation, in consultation with the Office of Management and Budget, the Congressional Budget Office, and the Comptroller General, of the pilot program carried out by the Secretary under this section. The evaluation shall determine—
+
+&emsp;(1) the extent of the savings to the Federal Government that are generated through the pilot program, compared to the cost the Federal Government would have incurred in operating the PLUS loan program under section 1078–2 of this title in the absence of the pilot program;
+
+&emsp;(2) the number of lenders that participated in the pilot program, and the extent to which the pilot program generated competition among lenders to participate in the auctions under the pilot program;
+
+&emsp;(3) the number and volume of loans made under the pilot program in each State;
+
+&emsp;(4) the effect of the transition to and operation of the pilot program on the ability of—
+
+&emsp;&emsp;(A) lenders participating in the pilot program to originate loans made through the pilot program smoothly and efficiently;
+
+&emsp;&emsp;(B) institutions of higher education participating in the pilot program to disburse loans made through the pilot program smoothly and efficiently; and
+
+&emsp;&emsp;(C) parents to obtain loans made through the pilot program in a timely and efficient manner;
+
+&emsp;(5) the differential impact, if any, of the auction among the States, including between rural and non-rural States; and
+
+&emsp;(6) the feasibility of using the mechanism piloted to operate the other loan programs under part B of this subchapter.
+
+#### (d) Reports
+
+#### (1) In general
+
+&emsp;The Secretary and the Secretary of the Treasury shall submit to the authorizing committees—
+
+&emsp;&emsp;(A) not later than September 1, 2010, a preliminary report regarding the findings of the evaluation described in subsection (c);
+
+&emsp;&emsp;(B) not later than September 1, 2012, an interim report regarding such findings; and
+
+&emsp;&emsp;(C) not later than September 1, 2013, a final report regarding such findings.
+
+#### (2) Contents
+
+&emsp;The Secretary shall include, in each report required under subparagraphs (A), (B), and (C) of paragraph (1), any recommendations, that are based on the findings of the evaluation under subsection (c), for—
+
+&emsp;&emsp;(A) improving the operation and administration of the auction; and
+
+&emsp;&emsp;(B) improving the operation and administration of other loan programs under part B.
+
+(Pub. L. 89–329, title IV, §499, as added Pub. L. 110–84, title VII, §701, Sept. 27, 2007, 121 Stat. 808; amended Pub. L. 110–315, title IV, §499, Aug. 14, 2008, 122 Stat. 3328.)
+
+#### Amendments
+
+2008—Subsec. (b)(3)(B)(iii). Pub. L. 110–315, §499(1)(A), added cl. (iii).
+
+Subsec. (b)(3)(G). Pub. L. 110–315, §499(1)(B), added subpar. (G) and struck out former subpar. (G). Text of former subpar. (G) read as follows: “Each eligible lender having a winning bid under subparagraph (F) enters into an agreement with the Secretary under which the eligible lender—
+
+&emsp;“(i) agrees to originate eligible Federal PLUS Loans under this paragraph to each borrower who—
+
+&emsp;&emsp;“(I) seeks an eligible Federal PLUS Loan under this paragraph to enable a dependent student to attend an institution of higher education within the State;
+
+&emsp;&emsp;“(II) is eligible for an eligible Federal PLUS Loan; and
+
+&emsp;&emsp;“(III) elects to borrow from the eligible lender; and
+
+&emsp;“(ii) agrees to accept a special allowance payment (after the application of section 1087–1(b)(2)(I)(v) of this title) from the Secretary with respect to the eligible Federal PLUS Loans originated under clause (i) in the amount proposed in the second lowest winning bid described in subparagraph (F) for the applicable State auction.”
+
+Subsec. (b)(3)(J). Pub. L. 110–315, §499(1)(C), added subpar. (J) and struck out former subpar. (J). Text of former subpar. (J) read as follows: “The Secretary guarantees the eligible Federal PLUS Loans made under this paragraph against losses resulting from the default of a parent borrower in an amount equal to 99 percent of the unpaid principal and interest due on the loan.”
+
+Subsecs. (c), (d). Pub. L. 110–315, §499(2), added subsecs. (c) and (d).
 
 #### Effective Date
 

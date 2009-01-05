@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) such ability to obtain such information from sources other than the disclosure required by this section as holders of claims or interests in such class generally have.
 
-(b) An acceptance or rejection of a plan may not be solicited after the commencement of the case under this title from a holder of a claim or interest with respect to such claim or interest, unless, at the time of or before such solicitation, there is transmitted to such holder the plan or a summary of the plan, and a written disclosure statement approved, after notice and a hearing, by the court as containing adequate information. The court may approve a disclosure statement without a valuation of the debtor or an appraisal of the debtor's assets.
+(b) An acceptance or rejection of a plan may not be solicited after the commencement of the case under this title from a holder of a claim or interest with respect to such claim or interest, unless, at the time of or before such solicitation, there is transmitted to such holder the plan ora summary of the plan, and a written disclosure statement approved, after notice and a hearing, by the court as containing adequate information. The court may approve a disclosure statement without a valuation of the debtor or an appraisal of the debtor's assets.
 
 (c) The same disclosure statement shall be transmitted to each holder of a claim or interest of a particular class, but there may be transmitted different disclosure statements, differing in amount, detail, or kind of information, as between classes.
 
@@ -56,7 +56,7 @@ A plan is necessarily predicated on knowledge of the assets and liabilities bein
 
 Subsection (b) establishes the jurisdiction of the court over this subject by prohibiting solicitation of acceptance or rejection of a plan after the commencement of the case, unless the person solicited receives, before or at the time of the solicitation, a written disclosure statement approved by the court, after notice and hearing, as containing adequate information. As under present law, determinations of value, by appraisal or otherwise, are not required if not needed to accomplish the purpose specified in subsection (a)(1).
 
-Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informed judgment about the plan may differ among classes. A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
+Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informedjudgment about the plan may differ among classes. A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
 
 Subsection (d) relieves the court of the need to follow any otherwise applicable Federal or state law in determining the adequacy of the information contained in the disclosure statement submitted for its approval. It authorizes an agency or official, Federal or state, charged with administering cognate laws so preempted to advise the court on the adequacy of proposed disclosure statement. But they are not authorized to appeal the court's decision.
 

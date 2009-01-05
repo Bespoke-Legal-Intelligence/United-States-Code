@@ -8,7 +8,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(2) The Governor of each State, within sixty days after publication of the guidelines issued pursuant to paragraph (1) of this subsection, shall identify each area within the State which, as a result of urban-industrial concentrations or other factors, has substantial water quality control problems. Not later than one hundred and twenty days following such identification and after consultation with appropriate elected and other officials of local governments having jurisdiction in such areas, the Governor shall designate (A) the boundaries of each such area, and (B) a single representative organization, including elected officials from local governments or their designees, capable of developing effective areawide waste treatment management plans for such area. The Governor may in the same manner at any later time identify any additional area (or modify an existing area) for which he determines areawide waste treatment management to be appropriate, designate the boundaries of such area, and designate an organization capable of developing effective areawide waste treatment management plans for such area.
 
-&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph\(1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide waste treatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
+&emsp;(3) With respect to any area which, pursuant to the guidelines published under paragraph (1) of this subsection, is located in two or more States, the Governors of the respective States shall consult and cooperate in carrying out the provisions of paragraph (2), with a view toward designating the boundaries of the interstate area having common water quality control problems and for which areawide waste treatment management plans would be most effective, and toward designating, within one hundred and eighty days after publication of guidelines issued pursuant to paragraph (1) of this subsection, of a single representative organization capable of developing effective areawide waste treatment management plans for such area.
 
 &emsp;(4) If a Governor does not act, either by designating or determining not to make a designation under paragraph (2) of this subsection, within the time required by such paragraph, or if, in the case of an interstate area, the Governors of the States involved do not designate a planning organization within the time required by paragraph (3) of this subsection, the chief elected officials of local governments within an area may by agreement designate (A) the boundaries for such an area, and (B) a single representative organization including elected officials from such local governments, or their designees, capable of developing an areawide waste treatment management plan for such area.
 
@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -100,7 +100,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(G) to assure in implementation of an areawide waste treatment management plan that each participating community pays its proportionate share of treatment costs;
 
-&emsp;(H) to refuse to receive any wastes from any municipality or subdivision thereof, whichdoes not comply with any provisions of an approved plan under this section applicable to such area; and
+&emsp;(H) to refuse to receive any wastes from any municipality or subdivision thereof, which does not comply with any provisions of an approved plan under this section applicable to such area; and
 
 &emsp;(I) to accept for treatment industrial wastes.
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 
@@ -138,7 +138,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 #### (j) Agricultural cost sharing
 
-(1) The Secretary of Agriculture, with the concurrence of the Administrator, and acting through the Soil Conservation Service and such other agencies of the Department of Agriculture as the Secretary may designate, is authorized and directed to establish and administer a program to enter into contracts, subject to such amounts as are provided in advance by appropriation acts, of not less than five years nor more than ten years with owners and operators having control of rural land for the purpose of installing and maintaining measures incorporating best management practices to control nonpoint source pollution for improved water quality in those States or areas for which the Administrator has approved a plan under subsection (b) of this section where the practices to which the contracts apply are certified by the management agency designated under subsection (c)(1) of this section to be consistent with such plans and will result in improved water quality. Such contracts may be enteredinto during the period ending not later than September 31, 1988. Under such contracts the land owner or operator shall agree—
+(1) The Secretary of Agriculture, with the concurrence of the Administrator, and acting through the Soil Conservation Service and such other agencies of the Department of Agriculture as the Secretary may designate, is authorized and directed to establish and administer a program to enter into contracts, subject to such amounts as are provided in advance by appropriation acts, of not less than five years nor more than ten years with owners and operators having control of rural land for the purpose of installing and maintaining measures incorporating best management practices to control nonpoint source pollution for improved water quality in those States or areas for which the Administrator has approved a plan under subsection (b) of this section where the practices to which the contracts apply are certified by the management agency designated under subsection (c)(1) of this section to be consistent with such plans and will result in improved water quality. Such contracts may be entered into during the period ending not later than September 31, 1988. Under such contracts the land owner or operator shall agree—
 
 &emsp;(i) to effectuate a plan approved by a soil conservation district, where one exists, under this section for his farm, ranch, or other land substantially in accordance with the schedule outlined therein unless any requirement thereof is waived or modified by the Secretary;
 

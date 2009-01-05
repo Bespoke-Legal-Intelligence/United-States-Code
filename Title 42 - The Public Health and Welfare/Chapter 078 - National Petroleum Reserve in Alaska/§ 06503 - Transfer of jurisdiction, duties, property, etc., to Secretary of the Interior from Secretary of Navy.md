@@ -14,7 +14,7 @@ The Secretary of the Interior shall, upon the effective date of the transfer of 
 
 #### (d) Equipment, facilities, and other properties used in connection with operation of reserve; transfer without reimbursement
 
-On the date of transfer of jurisdiction of the reserve, all equipment, facilities, and other property of the Department of the Navy used in connection with the operation of the reserve, including all records, maps, exhibits, and other informational data held by the Secretary of the Navy in connection with the reserve, shall be transferred without reimbursement from the Secretary of the Navy to the Secretary of the Interior who shall thereafter be authorized to use them to carry out the provisions of this chapter.
+On the date of transfer of jurisdiction of the reserve, all equipment, facilities, and other property of the Department of the Navy used in connection with the operation of the reserve, including all records, maps, exhibits, and other informational data held by the Secretary of the Navy in connection with the reserve, shall be transferred without reimbursement from the Secretary of the Navy to the Secretary of theInterior who shall thereafter be authorized to use them to carry out the provisions of this chapter.
 
 #### (e) Unexpended funds previously appropriated for use in connection with reserve and civilian personnel ceilings assigned to management and operation of reserve
 

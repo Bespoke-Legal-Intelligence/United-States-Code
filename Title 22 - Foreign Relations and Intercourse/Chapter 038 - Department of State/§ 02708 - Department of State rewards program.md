@@ -72,7 +72,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Authorization of appropriations
 
-&emsp;Notwithstanding section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 (Public Law 99–93; 99 Stat. 408), but subject to paragraph (2), there are authorized to be appropriated to the Department of State from time to time such amounts as may be necessary to carry out this section.
+&emsp;Notwithstanding section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986and 1987 (Public Law 99–93; 99 Stat. 408), but subject to paragraph (2), there are authorized to be appropriated to the Department of State from time to time such amounts as may be necessary to carry out this section.
 
 #### (2) Period of availability
 
@@ -82,7 +82,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Maximum amount
 
-&emsp;No reward paid under this section may exceed $25,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts. Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization.
+&emsp;No reward paid under this section may exceed $25,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts. Without first making such determination, the Secretary may authorize a reward of up to twice the amount specified in this paragraph for the capture or information leading to the capture of a leader of a foreign terrorist organization. The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.
 
 #### (2) Approval
 
@@ -178,7 +178,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903; Pub. L. 110–181, div. A, title XII, §1255(a), Jan. 28, 2008, 122 Stat. 402.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2008—Subsec. (e)(1). Pub. L. 110–181 inserted at end “The Secretary shall authorize a reward of $50,000,000 for the capture or death or information leading to the capture or death of Osama bin Laden.”
 
 2004—Subsec. (b)(7). Pub. L. 108–447, §405(a), added par. (7).
 
@@ -290,7 +292,7 @@ Procedures.—
 
 “(c)
 
-Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nationspursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
+Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
 
 “(2) For the purposes of subsection (a), the statute of the International Criminal Tribunal for Rwanda means the statute contained in the annex to Security Council Resolution 955 of November 8, 1994.
 

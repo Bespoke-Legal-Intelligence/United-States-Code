@@ -86,7 +86,7 @@ The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105�
 
 #### Prior Provisions
 
-A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L.96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, §3(a)(6), (9), (10), Dec. 24, 1980, 94 Stat. 3465, related to minimum distributions by an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 #### Amendments
 

@@ -414,6 +414,21 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBTITLE VI—SOFTWOOD LUMBER
+
+|  |  |
+| :--- | ---: |
+| [1683\.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683%20-%20Definitions.md) | Definitions. |
+| [1683a.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683a%20-%20Establishment%20of%20softwood%20lumber%20importer%20declaration%20program.md) | Establishment of softwood lumber importer declaration program. |
+| [1683b.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683b%20-%20Scope%20of%20softwood%20lumber%20importer%20declaration%20program.md) | Scope of softwood lumber importer declaration program. |
+| [1683c.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683c%20-%20Export%20charge%20determination%20and%20publication.md) | Export charge determination and publication. |
+| [1683d.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683d%20-%20Reconciliation.md) | Reconciliation. |
+| [1683e.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683e%20-%20Verification.md) | Verification. |
+| [1683f.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683f%20-%20Penalties.md) | Penalties. |
+| [1683g.](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/%C2%A7%2001683g%20-%20Reports.md) | Reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -424,3 +439,4 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 - [Subtitle 003 (III) - Administrative Provisions](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
 - [Subtitle 004 (IV) - Countervailing and Antidumping Duties](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/README.md)
 - [Subtitle 005 (V) - Requirements Applicable to Imports of Certain Cigarettes and Smokeless Tobacco Products](Subtitle%20005%20%28V%29%20-%20Requirements%20Applicable%20to%20Imports%20of%20Certain%20Cigarettes%20and%20Smokeless%20Tobacco%20Products/README.md)
+- [Subtitle 006 (VI) - Softwood Lumber](Subtitle%20006%20%28VI%29%20-%20Softwood%20Lumber/README.md)

@@ -156,7 +156,7 @@
 
 #### (8) Denial of assistance for 10 years to a person found to have fraudulently misrepresented residence in order to obtain assistance in 2 or more States
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that beginson the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide cash assistance to an individual during the 10-year period that begins on the date the individual is convicted in Federal or State court of having made a fraudulent statement or representation with respect to the place of residence of the individual in order to receive assistance simultaneously from 2 or more States under programs that are funded under this subchapter, subchapter XIX of this chapter, or the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or benefits in 2 or more States under the supplemental security income program under subchapter XVI of this chapter. The preceding sentence shall not apply with respect to a conviction of an individual, for any month beginning after the President of the United States grants a pardon with respect to the conduct which was the subject of the conviction.
 
 #### (9) Denial of assistance for fugitive felons and probation and parole violators
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plan submitted pursuant to section 602 of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days asthe State may provide for in the State plan submitted pursuant to section 602 of this title.
 
 #### (B) State authority to establish good cause exceptions
 
@@ -204,7 +204,7 @@
 
 #### (B) Child support
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case ofa family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid as a result (wholly or partly) of the collection of child or spousal support under part D of this subchapter and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396u–1(c)(1) of this title.
 
 #### (b) Individual responsibility plans
 
@@ -278,7 +278,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (A) Income deeming rule
 
-&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that thetotal amount of the income exceeds the sum of—
+&emsp;&emsp;The income of any sponsor of the alien and of any spouse of the sponsor is deemed to be income of the alien, to the extent that the total amount of the income exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) the lesser of—
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Amendment of Subsection (a)(3)
 
@@ -354,25 +354,31 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 Part D of this subchapter, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(8), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effective Date note set out below.
 
-The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
+Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L.90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
 #### Amendments
+
+2008—Subsec. (a)(8). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -412,13 +418,19 @@ Subsec. (f). Pub. B. 105–33, §5505(e), added subsec. (f).
 
 Subsec. (g). Pub. L. 105–33, §5581(a), added subsec. (g).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VII, §7301(e), Feb. 8, 2006, 120 Stat. 144, provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
+In general.—Except as otherwise provided in this section, the amendments made by the preceding provisions of this section \[amending this section, sections 654 and 657 of this title, and section 6402 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2009, and shall apply to payments under parts A and D of title IV of the Social Security Act \[this part and part D of this subchapter\] for calendar quarters beginning on or after such date, and without regard to whether regulations to implement the amendments (in the case of State programs operated under such part D) are promulgated by such date.
 
 “(2)
 

@@ -29,6 +29,7 @@
 | [1973n.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Enforcement%20of%20Voting%20Rights/%C2%A7%2001973n%20-%20Impairment%20of%20voting%20rights%20of%20persons%20holding%20current%20registration.md) | Impairment of voting rights of persons holding current registration. |
 | 1973<i>o.</i> | Authorization of appropriations. |
 | [1973p.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Enforcement%20of%20Voting%20Rights/%C2%A7%2001973p%20-%20Separability.md) | Separability. |
+| [1973q.](Subchapter%20001%E2%80%93A%20%28I%E2%80%93A%29%20-%20Enforcement%20of%20Voting%20Rights/%C2%A7%2001973q%20-%20Construction.md) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

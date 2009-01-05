@@ -1,0 +1,194 @@
+### §8714. Availability of counter-cyclical payments
+
+#### (a) Payment required
+
+Except as provided in section 8715 of this title, for each of the 2008 through 2012 crop years for each covered commodity, the Secretary shall make counter-cyclical payments to producers on farms for which payment yields and base acres are established with respect to the covered commodity if the Secretary determines that the effective price for the covered commodity is less than the target price for the covered commodity.
+
+#### (b) Effective price
+
+#### (1) Covered commodities other than rice
+
+&emsp;Except as provided in paragraph (2), for purposes of subsection (a), the effective price for a covered commodity is equal to the sum of the following:
+
+&emsp;&emsp;(A) The higher of the following:
+
+&emsp;&emsp;&emsp;(i) The national average market price received by producers during the 12-monthmarketing year for the covered commodity, as determined by the Secretary.
+
+&emsp;&emsp;&emsp;(ii) The national average loan rate for a marketing assistance loan for the covered commodity in effect for the applicable period under subchapter II.
+
+&emsp;&emsp;(B) The payment rate in effect for the covered commodity under section 8713 of this title for the purpose of making direct payments with respect to the covered commodity.
+
+#### (2) Rice
+
+&emsp;In the case of long grain rice and medium grain rice, for purposes of subsection (a), the effective price for each type or class of rice is equal to the sum of the following:
+
+&emsp;&emsp;(A) The higher of the following:
+
+&emsp;&emsp;&emsp;(i) The national average market price received by producers during the 12-month marketing year for the type or class of rice, as determined by the Secretary.
+
+&emsp;&emsp;&emsp;(ii) The national average loan rate for a marketing assistance loan for the type or class of rice in effect for the applicable period under subchapter II.
+
+&emsp;&emsp;(B) The payment rate in effect for the type or class of rice under section 8713 of this title for the purpose of making direct payments with respect to the type or class of rice.
+
+#### (c) Target price
+
+#### (1) 2008 crop year
+
+&emsp;For purposes of the 2008 crop year, the target prices for covered commodities shall be as follows:
+
+&emsp;&emsp;(A) Wheat, $3.92 per bushel.
+
+&emsp;&emsp;(B) Corn, $2.63 per bushel.
+
+&emsp;&emsp;(C) Grain sorghum, $2.57 per bushel.
+
+&emsp;&emsp;(D) Barley, $2.24 per bushel.
+
+&emsp;&emsp;(E) Oats, $1.44 per bushel.
+
+&emsp;&emsp;(F) Upland cotton, $0.7125 per pound.
+
+&emsp;&emsp;(G) Long grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(H) Medium grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(I) Soybeans, $5.80 per bushel.
+
+&emsp;&emsp;(J) Other oilseeds, $10.10 per hundredweight.
+
+#### (2) 2009 crop year
+
+&emsp;For purposes of the 2009 crop year, the target prices for covered commodities shall be as follows:
+
+&emsp;&emsp;(A) Wheat, $3.92 per bushel.
+
+&emsp;&emsp;(B) Corn, $2.63 per bushel.
+
+&emsp;&emsp;(C) Grain sorghum, $2.57 per bushel.
+
+&emsp;&emsp;(D) Barley, $2.24 per bushel.
+
+&emsp;&emsp;(E) Oats, $1.44 per bushel.
+
+&emsp;&emsp;(F) Upland cotton, $0.7125 per pound.
+
+&emsp;&emsp;(G) Long grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(H) Medium grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(I) Soybeans, $5.80 per bushel.
+
+&emsp;&emsp;(J) Other oilseeds, $10.10 per hundredweight.
+
+&emsp;&emsp;(K) Dry peas, $8.32 per hundredweight.
+
+&emsp;&emsp;(L) Lentils, $12.81 per hundredweight.
+
+&emsp;&emsp;(M) Small chickpeas, $10.36 per hundredweight.
+
+&emsp;&emsp;(N) Large chickpeas, $12.81 per hundredweight.
+
+#### (3) Subsequent crop years
+
+&emsp;For purposes of each of the 2010 through 2012 crop years, the target prices for covered commodities shall be as follows:
+
+&emsp;&emsp;(A) Wheat, $4.17 per bushel.
+
+&emsp;&emsp;(B) Corn, $2.63 per bushel.
+
+&emsp;&emsp;(C) Grain sorghum, $2.63 per bushel.
+
+&emsp;&emsp;(D) Barley, $2.63 per bushel.
+
+&emsp;&emsp;(E) Oats, $1.79 per bushel.
+
+&emsp;&emsp;(F) Upland cotton, $0.7125 per pound.
+
+&emsp;&emsp;(G) Long grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(H) Medium grain rice, $10.50 per hundredweight.
+
+&emsp;&emsp;(I) Soybeans, $6.00 per bushel.
+
+&emsp;&emsp;(J) Other oilseeds, $12.68 per hundredweight.
+
+&emsp;&emsp;(K) Dry peas, $8.32 per hundredweight.
+
+&emsp;&emsp;(L) Lentils, $12.81 per hundredweight.
+
+&emsp;&emsp;(M) Small chickpeas, $10.36 per hundredweight.
+
+&emsp;&emsp;(N) Large chickpeas, $12.81 per hundredweight.
+
+#### (d) Payment rate
+
+The payment rate used to make counter-cyclical payments with respect to a covered commodity for a crop year shall be equal to the difference between—
+
+&emsp;(1) the target price for the covered commodity; and
+
+&emsp;(2) the effective price determined under subsection (b) for the covered commodity.
+
+#### (e) Payment amount
+
+If counter-cyclical payments are required to be paid under this section for any of the 2008 through 2012 crop years of a covered commodity, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+
+&emsp;(1) The payment rate specified in subsection (d).
+
+&emsp;(2) The payment acres of the covered commodity on the farm.
+
+&emsp;(3) The payment yield for the covered commodity for the farm.
+
+#### (f) Time for payments
+
+#### (1) General rule
+
+&emsp;Except as provided in paragraph (2), if the Secretary determines under subsection (a) that counter-cyclical payments are required to be made under this section for the crop of a covered commodity, beginning October 1, or as soon as practicable thereafter, after the end of the marketing year for the covered commodity, the Secretary shall make the counter-cyclical payments for the crop.
+
+#### (2) Availability of partial payments
+
+#### (A) In general
+
+&emsp;&emsp;If, before the end of the 12-month marketing year for a covered commodity, the Secretary estimates that counter-cyclical payments will be required for the crop of the covered commodity, the Secretary shall give producers on a farm the option to receivepartial payments of the counter-cyclical payment projected to be made for that crop of the covered commodity.
+
+#### (B) Election
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall allow producers on a farm to make an election to receive partial payments for a covered commodity under subparagraph (A) at any time but not later than 60 days prior to the end of the marketing year for that covered commodity.
+
+#### (ii) Date of issuance
+
+&emsp;&emsp;&emsp;The Secretary shall issue the partial payment after the date of an announcement by the Secretary but not later than 30 days prior to the end of the marketing year.
+
+#### (3) Time for partial payments
+
+&emsp;When the Secretary makes partial payments for a covered commodity for any of the 2008 through 2010 crop years—
+
+&emsp;&emsp;(A) the first partial payment shall be made after completion of the first 180 days of the marketing year for the covered commodity; and
+
+&emsp;&emsp;(B) the final partial payment shall be made beginning October 1, or as soon as practicable thereafter, after the end of the applicable marketing year for the covered commodity.
+
+#### (4) Amount of partial payment
+
+#### (A) First partial payment
+
+&emsp;&emsp;For each of the 2008 through 2010 crops of a covered commodity, the first partial payment under paragraph (3) to the producers on a farm may not exceed 40 percent of the projected counter-cyclical payment for the covered commodity for the crop year, as determined by the Secretary.
+
+#### (B) Final payment
+
+&emsp;&emsp;The final payment for a covered commodity for a crop year shall be equal to the difference between—
+
+&emsp;&emsp;&emsp;(i) the actual counter-cyclical payment to be made to the producers for the covered commodity for that crop year; and
+
+&emsp;&emsp;&emsp;(ii) the amount of the partial payment made to the producers under subparagraph (A).
+
+#### (5) Repayment
+
+&emsp;The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
+
+(Pub. L. 110–234, title I, §1104, May 22, 2008, 122 Stat. 942; Pub. L. 110–246, §4(a), title I, §1104, June 18, 2008, 122 Stat. 1664, 1671.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+

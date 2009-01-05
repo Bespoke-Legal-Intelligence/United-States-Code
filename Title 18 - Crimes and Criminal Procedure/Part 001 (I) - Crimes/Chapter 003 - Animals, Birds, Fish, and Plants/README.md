@@ -33,8 +33,6 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 
 1956—Act Aug. 1, 1956, ch. 825, §2(b), 70 Stat. 798, amended chapter heading to include reference to “Plants” and added item 46.
 
-<i><sup>1</sup></i><i> Another section 39 is set out preceding this section.</i>
-
 
 ---
 

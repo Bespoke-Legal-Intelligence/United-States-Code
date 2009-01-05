@@ -30,7 +30,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 (3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section,<sup>1</sup> the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
 
-(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee. When access to a finding is limited to the Members of Congress specified in paragraph (2), a statement ofthe reasons for limiting such access shall also be provided.
+(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee. When access to a finding is limited to the Members of Congress specified in paragraph (2), a statement of the reasons for limiting such access shall also be provided.
 
 #### (d) Changes in previously approved actions
 
@@ -60,9 +60,9 @@ A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 an
 
 #### Amendments
 
-2004—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+<b>2004</b>—Subsec. (b). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
-2002—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+<b>2002</b>—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
 

@@ -10,13 +10,13 @@
 
 &emsp;(3) A Commandant of Cadets.
 
-&emsp;(4) 21 permanent professors.
+&emsp;(4) 23 permanent professors.
 
 &emsp;(5) A chaplain.
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 108–136, div. A, title V, §529(c)(1), Nov. 24, 2003, 117 Stat. 1471.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 108–136, div. A, title V, §529(c)(1), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 110–417, \[div. A\], title V, §545, Oct. 14, 2008, 122 Stat. 4466.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,8 @@ In subsection (b), reference to the senior instructors of artillery, cavalry, an
 Subsection (b)(3) is based on those laws establishing the various departments at the United States Military Academy (see revision note for section 4331 of this title).
 
 #### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–417 substituted “23 permanent professors” for “21 permanent professors”.
 
 2003—Subsec. (b)(2). Pub. L. 108–136 substituted “Dean of the Faculty” for “dean of the Faculty, who is a permanent professor”.
 

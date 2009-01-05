@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Through the 2007 calendar year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land.
+Through the 2012 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
 #### (b) Eligible land
 
@@ -14,7 +14,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II of this chapter; and
 
-&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding May 13, 2002 (except for land enrolled in the conservation reserve program as of May 13, 2002).
+&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding the date of enactment of the Food, Conservation, and Energy Act of 2008 (except for land enrolled in the conservation reserve program as of that date);
 
 &emsp;(2) marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
@@ -34,11 +34,11 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;&emsp;(ii) a contour grass sod strip established and maintained as part of an approved conservation plan;
 
-&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs; or
+&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs;
 
-&emsp;&emsp;(D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; and
+&emsp;&emsp;(D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; or
 
-&emsp;&emsp;(E) enrollment of the land would facilitate a net savings in groundwater or surface water resources of the agricultural operation of the producer;
+&emsp;&emsp;(E) enrollment of the land would facilitate a net savings in groundwater or surface water resources of the agricultural operation of the producer; or
 
 &emsp;(5) the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
 
@@ -62,7 +62,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 #### (d) Maximum enrollment
 
-The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2007 calendar years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)).
+The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.
 
 #### (e) Duration of contract
 
@@ -74,11 +74,11 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (A) In general
 
-&emsp;&emsp;In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlifecorridors under a contract entered into under this subpart after October 1, 1990, and land devoted to such uses under contracts modified under section 3835a of this title, the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
+&emsp;&emsp;In the case of land devoted to hardwood trees, shelterbelts, windbreaks, or wildlife corridors under a contract entered into under this subpart after October 1, 1990, and land devoted to such uses under contracts modified under section 3835a of this title, the owner or operator of the land may, within the limitations prescribed under this section, specify the duration of the contract.
 
 #### (B) Hardwood trees
 
-&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered into under this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
+&emsp;&emsp;In the case of land that is devoted to hardwood trees under a contract entered intounder this subpart prior to October 1, 1990, the Secretary may extend the contract for a term of not to exceed 5 years, as agreed to by the owner or operator of such land and the Secretary.
 
 #### (3) 1-year extension
 
@@ -88,7 +88,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (1) Designation
 
-&emsp;On application by the appropriate State agency, the Secretary shall designate watershed areas of the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia), the Great Lakes Region, the Long Island Sound Region, and other areas of special environmental sensitivity as conservation priority areas.
+&emsp;On application by the appropriate State agency, the Secretary shall designate watershed areas of the Chesapeake Bay Region, the Great Lakes Region, the Long Island Sound Region, and other areas of special environmental sensitivity as conservation priority areas.
 
 #### (2) Eligible watersheds
 
@@ -108,249 +108,63 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (g) Multi-year grasses and legumes
 
-For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
+#### (1) In general
 
-#### (h) Pilot program for enrollment of wetland and buffer acreage in conservation reserve
+&emsp;For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
 
-#### (1) Program
+#### (2) Cropping history
 
-#### (A) In general
+&emsp;Alfalfa, when grown as part of a rotation practice, as determined by the Secretary, is an agricultural commodity subject to the cropping history criteria under subsection (b)(1)(B) for the purpose of determining whether highly erodible cropland has been planted or considered planted for 4 of the 6 years referred to in such subsection.
 
-&emsp;&emsp;During the 2002 through 2007 calendar years, the Secretary shall carry out a program in each State under which the Secretary shall include eligible acreage described in paragraph (2) in the program established under this subpart.
-
-#### (B) Participation among States
-
-&emsp;&emsp;The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the pilot program established under this subsection.
-
-#### (2) Eligible acreage
-
-#### (A) In general
-
-&emsp;&emsp;Subject to subparagraphs (B) through (D), an owner or operator may enroll in the conservation reserve under this subsection—
-
-&emsp;&emsp;&emsp;(i) a wetland (including a converted wetland described in section 3822(b)(1)(A) of this title) that was cropped during at least 3 of the immediately preceding 10 crop years; and
-
-&emsp;&emsp;&emsp;(ii) buffer acreage that—
-
-&emsp;&emsp;&emsp;&emsp;(I) is contiguous to the wetland described in clause (i);
-
-&emsp;&emsp;&emsp;&emsp;(II) is used to protect the wetland; and
-
-&emsp;&emsp;&emsp;&emsp;(III) is of such width as the Secretary determines is necessary to protect the wetland, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds the wetland.
-
-#### (B) Exclusions
-
-&emsp;&emsp;An owner or operator may not enroll in the conservation reserve under this subsection—
-
-&emsp;&emsp;&emsp;(i) any wetland, or land on a floodplain, that is, or is adjacent to, a perennial riverine system wetland identified on the final national wetland inventory map of the Secretary of the Interior; or
-
-&emsp;&emsp;&emsp;(ii) in the case of an area that is not covered by the final national inventory map, any wetland, or land on a floodplain, that is adjacent to a perennial stream identified on a 1-24,000 scale map of the United States Geological Survey.
-
-#### (C) Program limitations
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The Secretary may enroll in the conservation reserve under this subsection not more than—
-
-&emsp;&emsp;&emsp;&emsp;(I) 100,000 acres in any 1 State referred to in paragraph (1); and
-
-&emsp;&emsp;&emsp;&emsp;(II) not more than a total of 1,000,000 acres.
-
-#### (ii) Relationship to program maximum
-
-&emsp;&emsp;&emsp;Subject to clause (iii), for the purposes of subsection (d) of this section, any acreage enrolled in the conservation reserveunder this subsection shall be considered acres maintained in the conservation reserve.
-
-#### (iii) Relationship to other enrolled acreage
-
-&emsp;&emsp;&emsp;Acreage enrolled under this subsection shall not affect for any fiscal year the quantity of—
-
-&emsp;&emsp;&emsp;&emsp;(I) acreage enrolled to establish conservation buffers as part of the program announced on March 24, 1998 (63 Fed. Reg. 14109); or
-
-&emsp;&emsp;&emsp;&emsp;(II) acreage enrolled into the conservation reserve enhancement program announced on May 27, 1998 (63 Fed. Reg. 28965).
-
-#### (iv) Review; potential increase in enrollment acreage
-
-&emsp;&emsp;&emsp;Not later than 3 years after May 13, 2002, the Secretary shall—
-
-&emsp;&emsp;&emsp;&emsp;(I) conduct a review of the program under this subsection with respect to each State that has enrolled land in the program; and
-
-&emsp;&emsp;&emsp;&emsp;(II) notwithstanding clause (i)(I), increase the number of acres that may be enrolled by a State under clause (i)(I) to not more than 150,000 acres, as determined by the Secretary.
-
-#### (D) Owner or operator limitations
-
-#### (i) Wetland
-
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;The maximum size of any wetland described in subparagraph (A)(i) of an owner or operator enrolled in the conservation reserve under this subsection shall be 10 contiguous acres, of which not more than 5 acres shall be eligible for payment.
-
-#### (II) Coverage
-
-&emsp;&emsp;&emsp;&emsp;All acres described in subclause (I) (including acres that are ineligible for payment) shall be covered by the conservation contract.
-
-#### (ii) Buffer acreage
-
-&emsp;&emsp;&emsp;The maximum size of any buffer acreage described in subparagraph (A)(ii) of an owner or operator enrolled in the conservation reserve under this subsection shall be the greater of—
-
-&emsp;&emsp;&emsp;&emsp;(I) 3 times the size of any wetland described in subparagraph (A)(i) to which the buffer acreage is contiguous; or
-
-&emsp;&emsp;&emsp;&emsp;(II) 150 feet on either side of the wetland.
-
-#### (iii) Tracts
-
-&emsp;&emsp;&emsp;The maximum size of any eligible acreage described in subparagraph (A) in a tract (as determined by the Secretary) of an owner or operator enrolled in the conservation reserve under this subsection shall be 40 acres.
-
-#### (3) Duties of owners and operators
-
-&emsp;Under a contract entered into under this subsection, during the term of the contract, an owner or operator of a farm or ranch shall agree—
-
-&emsp;&emsp;(A) to restore the hydrology of the wetland within the eligible acreage to the maximum extent practicable, as determined by the Secretary;
-
-&emsp;&emsp;(B) to establish vegetative cover (which may include emerging vegetation in water) on the eligible acreage, as determined by the Secretary; and
-
-&emsp;&emsp;(C) to carry out other duties described in section 3832 of this title.
-
-#### (4) Duties of the Secretary
-
-#### (A) In general
-
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in return for a contract entered into by an owner or operator under this subsection, the Secretary shall make payments and provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
-
-#### (B) Continuous signup
-
-&emsp;&emsp;The Secretary shall use continuous signup under section 3834(c)(2)(B) of this title to determine the acceptability of contract offers and the amount of rental payments under this subsection.
-
-#### (C) Incentives
-
-&emsp;&emsp;The amounts payable to owners and operators in the form of rental payments under contracts entered into under this subsection shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title.
-
-#### (i) Eligibility for consideration
+#### (h) Eligibility for consideration
 
 On the expiration of a contract entered into under this subpart, the land subject to the contract shall be eligible to be considered for reenrollment in the conservation reserve.
 
-#### (j) Balance of natural resource purposes
+#### (i) Balance of natural resource purposes
 
 In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
-#### (k) Emergency forestry conservation reserve program
+(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, §4(a), title II, §§2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760.)
 
-#### (1) Definitions
+#### References in Text
 
-&emsp;In this subsection:
-
-#### (A) Merchantable timber
-
-&emsp;&emsp;The term “merchantable timber” means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
-
-#### (B) Private nonindustrial forest land
-
-&emsp;&emsp;The term “private nonindustrial forest land” includes State school trust land.
-
-#### (2) Program
-
-&emsp;The Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
-
-#### (3) Eligible acreage
-
-#### (A) In general
-
-&emsp;&emsp;Subject to subparagraph (B) and the availability of funds under subparagraph (G), an owner or operator may enroll private nonindustrial forest land in the conservation reserve under this subsection.
-
-#### (B) Determination of damages
-
-&emsp;&emsp;Eligibility for enrollment shall be limited to owners and operators of private nonindustrial forest land that have experienced a loss of 35 percent or more of merchantable timber in a county affected by hurricanes during the 2005 calendar year.
-
-#### (C) Exemptions
-
-&emsp;&emsp;Acreage enrolled in the conservation reserve under this subsection shall not count toward—
-
-&emsp;&emsp;&emsp;(i) county acreage limitations described in section 3843(b) of this title; or
-
-&emsp;&emsp;&emsp;(ii) the maximum enrollment described in subsection (d) of this section.
-
-#### (D) Duties of owners and operators
-
-&emsp;&emsp;As a condition of entering into a contract under this subsection, during the term of the contract, the owner or operator of private nonindustrial forest land shall agree—
-
-&emsp;&emsp;&emsp;(i) to restore the land, through site preparation and planting of similar species as existing prior to hurricane damages or to the maximum extent practicable with other native species, as determined by the Secretary; and
-
-&emsp;&emsp;&emsp;(ii) to establish temporary vegetative cover the purpose of which is to prevent soil erosion on the eligible acreage, as determined by the Secretary.
-
-#### (E) Duties of the Secretary
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;In return for a contract entered into by an owner or operator of private nonindustrial forest land under this subsection, the Secretary shall provide, at the option of the landowner—
-
-&emsp;&emsp;&emsp;&emsp;(I) notwithstanding the limitation in section 3834(f)(1) of this title, a lump sum payment; or
-
-&emsp;&emsp;&emsp;&emsp;(II) annual rental payments.
-
-#### (ii) Calculation of lump sum payment
-
-&emsp;&emsp;&emsp;The lump sum payment described in clause (i)(I) shall be calculated using a net present value formula, as determined by the Secretary, based on the total amount a producer would receive over the duration of the contract.
-
-#### (iii) Calculation of annual rental payments
-
-&emsp;&emsp;&emsp;The annual rental payment described in clause (i)(II) shall be equal to the average rental rate for conservation reserve contracts in the county in which the land is located.
-
-#### (iv) Rolling signup
-
-&emsp;&emsp;&emsp;The Secretary shall offer a rolling signup for contracts under this subsection.
-
-#### (v) Duration of contracts
-
-&emsp;&emsp;&emsp;A contract entered into under this subsection shall have a term of 10 years.
-
-#### (F) Balance of natural resources
-
-&emsp;&emsp;In determining the acceptability of contract offers under this subsection, the Secretary shall consider an equitable balance among the purposes of soil erosion prevention, water quality improvement, wildlife habitat restoration, and mitigation of economic loss.
-
-#### (G) Funding
-
-&emsp;&emsp;The Secretary shall use $504,100,000, to remain available until expended, of funds of the Commodity Credit Corporation to carry out this subsection.
-
-#### (H) Determinations by Secretary
-
-&emsp;&emsp;A determination made by the Secretary under this subsection shall be final and conclusive.
-
-#### (I) Regulations
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Not later than 90 days after December 30, 2005, the Secretary shall promulgate such regulations as are necessary to implement this subsection.
-
-#### (ii) Procedure
-
-&emsp;&emsp;&emsp;The promulgation of regulations and administration of this subsection shall be made without regard to—
-
-&emsp;&emsp;&emsp;&emsp;(I) the notice and comment provisions of section 553 of title 5;
-
-&emsp;&emsp;&emsp;&emsp;(II) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
-
-&emsp;&emsp;&emsp;&emsp;(III) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
-
-#### (iii) Congressional review of agency rulemaking
-
-&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5.
-
-(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152.)
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1)(B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
-December 30, 2005, referred to in subsec. (k)(3)(I)(i), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–148, which enacted subsec. (k), to reflect the probable intent of Congress.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
-A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L.106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §2101, substituted “2012 fiscal year” for “2007 calendar year” and inserted “and to address issues raised by State, regional, and national conservation initiatives” before period at end.
+
+Subsec. (b)(1)(B). Pub. L. 110–246, §2102(1), substituted “the date of enactment of the Food, Conservation, and Energy Act of 2008” for “May 13, 2002” and substituted semicolon for period at end.
+
+Subsec. (b)(4)(C) to (E). Pub. L. 110–246, §2102(2), in subpar. (C) struck out “or” at end, in subpar. (D) substituted “or” for “and” at end, and in subpar. (E) inserted “or” at end.
+
+Subsec. (d). Pub. L. 110–246, §2103, substituted “2009 fiscal years” for “2007 calendar years” and “(16 U.S.C.” for “( 16 U.S.C.” and inserted at end “During fiscal years 2010, 2011, and 2012, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time.”
+
+Subsec. (f)(1). Pub. L. 110–246, §2104, substituted “the Chesapeake Bay Region” for “the Chesapeake Bay Region (Pennsylvania, Maryland, and Virginia)”.
+
+Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows:“For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.”
+
+Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
+
+Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 
 2007—Subsec. (k)(2). Pub. L. 110–28 substituted “The” for “During calendar year 2006, the”.
 
 2006—Subsec. (k)(3)(G). Pub. L. 109–234 substituted “$504,100,000” for “$404,100,000”.
 
 2005—Subsec. (k). Pub. L. 109–148 added subsec. (k).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Regulations
 

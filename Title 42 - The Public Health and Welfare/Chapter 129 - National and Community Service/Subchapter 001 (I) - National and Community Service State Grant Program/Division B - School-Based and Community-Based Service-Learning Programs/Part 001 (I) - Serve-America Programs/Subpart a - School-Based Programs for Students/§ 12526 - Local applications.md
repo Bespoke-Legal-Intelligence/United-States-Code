@@ -28,7 +28,7 @@ To be eligible to receive a grant from the Corporation in the circumstances desc
 
 &emsp;&emsp;(D) partnership described in section 12521(a)(4) of this title that desires to receive such assistance from a State or Indian tribe for an activity described in such section,
 
-> &emsp;to be carried out through a service-learning program described in section 12521 of this title, shall prepare, submit to the State educational agency, Indian tribe, or grantmaking entity, and obtain approval of, an application for the program.
+> &emsp;to be carried out through a service-learning program described in section 12521 of this title,shall prepare, submit to the State educational agency, Indian tribe, or grantmaking entity, and obtain approval of, an application for the program.
 
 #### (2) Submission
 

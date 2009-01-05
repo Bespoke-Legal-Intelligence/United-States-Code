@@ -12,7 +12,7 @@ A State may provide to any entity—
 
 #### (b) Eligible entities
 
-Subsection (a) shall apply with respect to the production in the State of electricity from coal mined in the State and used in a facility, if such production meets all applicable Federal and State laws and if such facility uses scrubbers or other forms of clean coal technology.
+Subsection (a) shall apply with respect to the production in the State of electricity from coal mined in the State and used in a facility, if suchproduction meets all applicable Federal and State laws and if such facility uses scrubbers or other forms of clean coal technology.
 
 #### (c) Effect on interstate commerce
 

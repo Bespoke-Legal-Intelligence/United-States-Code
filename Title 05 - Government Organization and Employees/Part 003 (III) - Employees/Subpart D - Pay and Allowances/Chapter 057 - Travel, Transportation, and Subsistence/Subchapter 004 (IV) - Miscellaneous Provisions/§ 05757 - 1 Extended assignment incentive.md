@@ -4,7 +4,7 @@
 
 &emsp;(1) the employee has completed at least 2 years of continuous service in 1 or more civil service positions located in a territory or possession of the United States, the Commonwealth of Puerto Rico, or the Commonwealth of the Northern Mariana Islands;
 
-&emsp;(2) the agency determines that replacing the employee with another employee possessing the required qualifications and experience would be difficult; and
+&emsp;(2) the agency determines that replacing the employee with another employee possessingthe required qualifications and experience would be difficult; and
 
 &emsp;(3) the agency determines it is in the best interest of the Government to encourage the employee to complete a specified additional period of employment with the agency in the territory or possession, the Commonwealth of Puerto Rico or Commonwealth of the Northern Mariana Islands, except that the total amount of service performed in a particular territory, commonwealth, or possession under 1 or more agreements established under this section may not exceed 5 years.
 
@@ -34,7 +34,7 @@ Section effective on the first day of the first applicable pay period beginning 
 
 #### Report
 
-Pub. L. 107–273, div. A, title II, §207(d), Nov. 2, 2002, 116 Stat. 1780, provided that: “No later than 3 years after the effective date of this section \[see Effective Date note above\], the Office of Personnel Management, after consultation with affected agencies, shall submit a report to Congress assessing the effectiveness of the extended assignment incentive authority as a human resources management tool and making recommendations for any changes necessary to improve the effectiveness of the incentive authority. Each agency shallmaintain such records and report such information, including the number and size of incentive offers made and accepted or declined by geographic location and occupation, in such format and at such times as the Office of Personnel Management may prescribe, for use in preparing the report.”
+Pub. L. 107–273, div. A, title II, §207(d), Nov. 2, 2002, 116 Stat. 1780, provided that: “No later than 3 years after the effective date of this section \[see Effective Date note above\], the Office of Personnel Management, after consultation with affected agencies, shall submit a report to Congress assessing the effectiveness of the extended assignment incentive authority as a human resources management tool and making recommendations for any changes necessary to improve the effectiveness of the incentive authority. Each agency shall maintain such records and report such information, including the number and size of incentive offers made and accepted or declined by geographic location and occupation, in such format and at such times as the Office of Personnel Management may prescribe, for use in preparing the report.”
 
 <i><sup>1</sup></i><i> Another section 5757 is set out preceding this section.</i>
 

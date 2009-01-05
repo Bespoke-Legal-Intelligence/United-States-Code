@@ -30,19 +30,21 @@
 
 (e) Before providing funds for the operation of any such center at a health-care facility other than a health-care facility designated under subsection (b)(1), the Secretary shall assure that the center at each facility designated under such subsection is receiving adequate funding to enable such center to function effectively in the areas of geriatric research, education, and clinical activities.
 
-(f) There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical care account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
+(f) There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of thecenters established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 
 (g) Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title V, §521, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §§1201(c)(4), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4683, 4689.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title V, §521, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §§1201(c)(4), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4683, 4689; Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### References in Text
 
-The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L.96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
+The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 1994—Subsec. (b)(1). Pub. L. 103–446, §1202(b)(2), amended Pub. L. 102–83, §4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 

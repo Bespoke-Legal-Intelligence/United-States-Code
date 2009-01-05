@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants to States for the purpose of improving health care in rural areas through the operation of State offices of rural health.
+The Secretary, acting through the Director of the Office of Rural Health Policy (established insection 912 of this title), may make grants to States for the purpose of improving health care in rural areas through the operation of State offices of rural health.
 
 #### (b) Requirement of matching funds
 
@@ -62,7 +62,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(ii) to conduct activities for which Federal funds are expended—
 
-&emsp;&emsp;&emsp;&emsp;(I) within the State to provide technical and other nonfinancial assistanceunder subsection (f) of section 254c <sup>1</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(I) within the State to provide technical and other nonfinancial assistance under subsection (f) of section 254c <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) under a memorandum of agreement entered into with the State under subsection (h) of such section; or
 
@@ -88,7 +88,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees—
 
-&emsp;(1) to submit to the Secretary reports containing such information as the Secretary may require regarding activities carried out under this section by the State; and
+&emsp;(1) to submit to the Secretary reports containing such information as the Secretarymay require regarding activities carried out under this section by the State; and
 
 &emsp;(2) to submit such a report not later than January 10 of each fiscal year immediately following any fiscal year for which the State has received such a grant.
 

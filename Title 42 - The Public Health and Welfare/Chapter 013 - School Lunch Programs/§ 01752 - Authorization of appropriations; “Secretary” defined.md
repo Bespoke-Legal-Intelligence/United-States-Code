@@ -14,7 +14,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, which identically directed amendment of section by substituting “sections 1761 and 1766” for “sections 1761, 1766, and 1768” were executed making the substitution for “sections 1761, 1766 and 1768” as the probable intent of Congress.
+1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, which identically directed amendment of section bysubstituting “sections 1761 and 1766” for “sections 1761, 1766, and 1768” were executed making the substitution for “sections 1761, 1766 and 1768” as the probable intent of Congress.
 
 1975—Pub. L. 94–105 substituted “sections 1761, 1766 and 1768” for “section 1761”.
 

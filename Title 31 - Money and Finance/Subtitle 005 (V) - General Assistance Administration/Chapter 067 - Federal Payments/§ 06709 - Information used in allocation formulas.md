@@ -6,7 +6,7 @@ Population Data for Payment Period Beginning October 1, 1994.—For the payment 
 
 (b)
 
-Data for Payment Periods Beginning After September 30, 1995.—For any payment period beginning after September 30, 1995, the Secretary, in making allocations pursuant to sections 6704 through 6706 and 6708, shall use information more recent than the information used for the payment period beginning October 1, 1994, provided the Secretary notifies the Committee on Government Operations of the House of Representatives at least 90 days prior to the beginning of the payment period that the Secretary has determined that the more recent information is more reliable than the information used for the payment period beginning October 1, 1994.
+Data for Payment Periods Beginning After September 30, 1995.—For any payment period beginning after September 30, 1995, theSecretary, in making allocations pursuant to sections 6704 through 6706 and 6708, shall use information more recent than the information used for the payment period beginning October 1, 1994, provided the Secretary notifies the Committee on Government Operations of the House of Representatives at least 90 days prior to the beginning of the payment period that the Secretary has determined that the more recent information is more reliable than the information used for the payment period beginning October 1, 1994.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1873.)
 

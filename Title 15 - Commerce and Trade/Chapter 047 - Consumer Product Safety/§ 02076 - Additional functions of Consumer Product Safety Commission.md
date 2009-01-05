@@ -22,7 +22,7 @@ The Commission shall also have the power—
 
 &emsp;(7) to—
 
-&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does not within the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
+&emsp;&emsp;(A) initiate, prosecute, defend, or appeal (other than to the Supreme Court of the United States), through its own legal representative and in the name of the Commission, any civil action if the Commission makes a written request to the Attorney General for representation in such civil action and the Attorney General does notwithin the 45-day period beginning on the date such request was made notify the Commission in writing that the Attorney General will represent the Commission in such civil action, and
 
 &emsp;&emsp;(B) initiate, prosecute, or appeal, through its own legal representative, with the concurrence of the Attorney General or through the Attorney General, any criminal action,
 
@@ -66,7 +66,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
@@ -76,17 +76,27 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 &emsp;(4) a summary of outstanding problems confronting the administration of this chapter in order of priority;
 
-&emsp;(5) an analysis and evaluation of public and private consumer product safety research activities;
+&emsp;(5) the number and a summary of recall orders issued under section 2061 or 2064 of this title during such year and a summary of voluntary corrective actions taken by manufacturers in consultation with the Commission of which the Commission has notified the public, and an assessment of such orders and actions;
 
-&emsp;(6) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter;
+&emsp;(6) beginning not later than 1 year after August 14, 2008—
 
-&emsp;(7) the extent to which technical information was disseminated to the scientific and commercial communities and consumer information was made available to the public;
+&emsp;&emsp;(A) progress reports and incident updates with respect to action plans implemented under section 2064(d) of this title;
 
-&emsp;(8) the extent of cooperation between Commission officials and representatives of industry and other interested parties in the implementation of this chapter, including a log or summary of meetings held between Commission officials and representatives of industry and other interested parties;
+&emsp;&emsp;(B) statistics with respect to injuries and deaths associated with products that theCommission determines present a substantial product hazard under section 2064(c) of this title; and
 
-&emsp;(9) an appraisal of significant actions of State and local governments relating to the responsibilities of the Commission;
+&emsp;&emsp;(C) the number and type of communication from consumers to the Commission with respect to each product with respect to which the Commission takes action under section 2064(d) of this title;
 
-&emsp;(10) with respect to voluntary consumer product safety standards for which the Commission has participated in the development through monitoring or offering of assistance and with respect to voluntary consumer product safety standards relating to risks of injury that are the subject or regulatory action by the Commission, a description of—
+&emsp;(7) an analysis and evaluation of public and private consumer product safety research activities;
+
+&emsp;(8) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter;
+
+&emsp;(9) the extent to which technical information was disseminated to the scientific and commercial communities and consumer information was made available to the public;
+
+&emsp;(10) the extent of cooperation between Commission officials and representatives of industry and other interested parties in the implementation of this chapter, including a log or summary of meetings held between Commission officials and representatives of industry and other interested parties;
+
+&emsp;(11) an appraisal of significant actions of State and local governments relating to the responsibilities of the Commission;
+
+&emsp;(12) with respect to voluntary consumer product safety standards for which the Commission has participated in the development through monitoring or offering of assistance and with respect to voluntary consumer product safety standards relating to risks of injury that are the subject or regulatory action by the Commission, a description of—
 
 &emsp;&emsp;(A) the number of such standards adopted;
 
@@ -100,7 +110,7 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 &emsp;&emsp;(F) such other information as the Commission determines appropriate or necessary to inform the Congress on the current status of the voluntary consumer product safety standard program; and
 
-&emsp;(11) such recommendations for additional legislation as the Commission deems necessary to carry out the purposes of this chapter.
+&emsp;(13) such recommendations for additional legislation as the Commission deems necessary to carry out the purposes of this chapter.
 
 #### (k) Budget estimates and requests; legislative recommendations; testimony; comments on legislation
 
@@ -108,7 +118,11 @@ The Commission shall prepare and submit to the President and the Congress at the
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721.)
+(Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14, 2008, 122 Stat. 3046.)
+
+#### References in Text
+
+Section 3003 of the Federal Reports Elimination and Sunset Act of 1995, referred to in subsec. (j), is section 3003 of Pub. L. 104–66, which is set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Codification
 
@@ -117,6 +131,10 @@ In subsec. (b)(6), “section 1342 of title 31” substituted for “section 367
 “Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2008—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
+
+Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
 1981—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
@@ -128,7 +146,7 @@ Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined �
 
 1978—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
-1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+1976—Subsec. (b)(7). Pub. L. 94–284, §11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representationand the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
 Subsec. (b)(8), (9). Pub. L. 94–284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
 
@@ -138,13 +156,17 @@ Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular se
 
 Subsec. (<i>l</i>). Pub. L. 94–284, §14, added subsec. (<i>l</i>).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–314, title II, §209(b), Aug. 14, 2008, 122 Stat. 3047, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to reports submitted for fiscal year 2009 and thereafter.”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
-#### Termination of Reporting Requirements
+#### Submission of Copy of Certain Documents to Congress
 
-For termination, effective May 15, 2000, of provisions in subsec. (j) of this section relating to submittal of report to Congress at the beginning of each regular session of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 158 of House Document No. 103–7.
+Pub. L. 110–314, title II, §203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: “Notwithstanding any rule, regulation, or order to the contrary, the \[Consumer Product Safety\] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act \[Aug. 14, 2008\].”
 
 #### User Fee Study
 

@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(D) The Y–12 Plant, Oak Ridge, Tennessee.
 
-(Pub. L. 107–314, div. D, title XLII, §4213, formerly Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1996, 110 Stat. 2842; Pub. L. 105–85, div. A, title XIII, §1305(c), (d), Nov. 18, 1997, 111 Stat. 1954; Pub. L. 106–65, div. C, title XXXI, §3163(f), Oct. 5, 1999, 113 Stat. 946; renumbered Pub. L. 107–314, div. D, title XLII, §4213, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760.)
+(Pub. L. 107–314, div. D, title XLII, §4213, formerly Pub. L. 104–201, div. C, title XXXI, §3159, Sept. 23, 1996, 110 Stat. 2842; Pub. L. 105–85, div. A, title XIII, §1305(c), (d), Nov. 18, 1997, 111 Stat.1954; Pub. L. 106–65, div. C, title XXXI, §3163(f), Oct. 5, 1999, 113 Stat. 946; renumbered Pub. L. 107–314, div. D, title XLII, §4213, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760.)
 
 #### Codification
 
@@ -46,9 +46,9 @@ Section is comprised of section 4213 of Pub. L. 107–314. Subsec. (c) of sectio
 
 #### Amendments
 
-1999—Subsecs. (d), (e). Pub. L. 106–65 added subsec. (d) and redesignated former subsec. (d) as (e).
+<b>1999</b>—Subsecs. (d), (e). Pub. L. 106–65 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “Not later than 10 days” for “As soon as practicable” and “committees,” for “committees and” and inserted before period at end “, and to the President”.
 
 #### Transfer of Functions
 

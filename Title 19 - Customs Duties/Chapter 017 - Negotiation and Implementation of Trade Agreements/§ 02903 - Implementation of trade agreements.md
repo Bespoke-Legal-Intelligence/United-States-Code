@@ -70,7 +70,7 @@
 
 (4) The reports submitted to the Congress under paragraphs (2) and (3), or any portion of the reports, may be classified to the extent the President determines appropriate.
 
-(5)(A) For purposes of this subsection, the term “extension disapproval resolution” meansa resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the            disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
+(5)(A) For purposes of this subsection, the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the            disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
 
 (B) Extension disapproval resolutions—
 

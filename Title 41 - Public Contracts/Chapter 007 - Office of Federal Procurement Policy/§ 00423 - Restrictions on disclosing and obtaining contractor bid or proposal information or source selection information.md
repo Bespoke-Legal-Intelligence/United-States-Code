@@ -94,7 +94,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 &emsp;(B) If a Federal agency rescinds a contract pursuant to subparagraph (A)(ii), the United States is entitled to recover, in addition to any penalty prescribed by law, the amount expended under the contract.
 
-&emsp;(C) For purposes of any suspension or debarment proceedings initiated pursuant to subparagraph (A)(iii), engaging in conduct constituting an offense under subsection (a), (b), (c), or (d) of this section affects the present responsibility of a Government contractor or subcontractor.
+&emsp;(C) For purposes of any suspension or debarment proceedings initiated pursuant to subparagraph (A)(iii), engaging in conduct constituting an offense under subsection (a), (b),\(c), or (d) of this section affects the present responsibility of a Government contractor or subcontractor.
 
 #### (f) Definitions
 

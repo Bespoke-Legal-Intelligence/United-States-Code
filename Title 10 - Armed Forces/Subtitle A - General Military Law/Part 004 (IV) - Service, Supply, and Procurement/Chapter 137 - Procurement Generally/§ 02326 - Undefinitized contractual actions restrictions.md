@@ -12,7 +12,7 @@ Limitations on Obligation of Funds.—(1) A contracting officer of the Departmen
 
 &emsp;(B) the date on which the amount of funds obligated under the contractual action is equal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
 
-(2) Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms,specifications, and price are definitized for such contractual action.
+(2) Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
 (3) If a contractor submits a qualifying proposal (as defined in subsection (g)) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
@@ -106,15 +106,59 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(d)(2) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2326 of title 10, United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(d)(2) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2326 of title 10, United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Implementation and Enforcement of Requirements Applicable to Undefinitized Contractual Actions
+
+Pub. L. 110–181, div. A, title VIII, §809, Jan. 28, 2008, 122 Stat. 216, provided that:
+
+“(a)
+
+Guidance and Instructions.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to ensure the implementation and enforcement of requirements applicable to undefinitized contractual actions.
+
+“(b)
+
+Elements.—The guidance and instructions issued pursuant to subsection (a) shall address, at a minimum—
+
+&emsp;“(1) the circumstances in which it is, and is not, appropriate for Department of Defense officials to use undefinitized contractual actions;
+
+&emsp;“(2) approval requirements (including thresholds) for the use of undefinitized contractual actions;
+
+&emsp;“(3) procedures for ensuring that timelines for the definitization of undefinitized contractual actions are met;
+
+&emsp;“(4) procedures for ensuring compliance with regulatory limitations on the obligation of funds pursuant to undefinitized contractual actions;
+
+&emsp;“(5) procedures for ensuring compliance with regulatory limitations on profit or fee with respect to costs incurred before the definitization of an undefinitized contractual action; and
+
+&emsp;“(6) reporting requirements for undefinitized contractual actions that fail to meet required timelines for definitization or fail to comply with regulatory limitations on the obligation of funds or on profit or fee.
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+Report on guidance and instructions.—Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
+
+&emsp;“(2) GAO
+
+report.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the extent to which the guidance and instructions issued pursuant to subsection (a) have resulted in improvements to—
+
+&emsp;&emsp;“(A) the level of insight that senior Department of Defense officials have into the use of undefinitized contractual actions;
+
+&emsp;&emsp;“(B) the appropriate use of undefinitized contractual actions;
+
+&emsp;&emsp;“(C) the timely definitization of undefinitized contractual actions; and
+
+&emsp;&emsp;“(D) the negotiation of appropriate profits and fees for undefinitized contractual actions.”
+
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) oftitle IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 

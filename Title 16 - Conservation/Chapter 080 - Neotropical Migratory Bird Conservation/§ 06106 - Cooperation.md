@@ -52,7 +52,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Amendments
 
-2006—Subsec. (b)(1). Pub. L. 109–363 inserted at end “The advisory group as a whole shall have expertise in the methods and procedures set forth in section 6103(2) of this title in each country and region of the Western Hemisphere”.
+2006—Subsec. (b)(1). Pub. L. 109–363 inserted at end “The advisory group as a whole shall have expertise in the methods and procedures set forth in section 6103(2)of this title in each country and region of the Western Hemisphere”.
 
 #### Encouragement To Convene
 

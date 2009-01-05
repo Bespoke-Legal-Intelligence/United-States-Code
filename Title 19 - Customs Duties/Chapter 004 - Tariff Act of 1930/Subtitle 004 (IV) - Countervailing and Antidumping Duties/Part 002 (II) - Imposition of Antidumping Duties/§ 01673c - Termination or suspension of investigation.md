@@ -30,7 +30,7 @@
 
 #### (C) Prior consultations
 
-&emsp;&emsp;Before making a decision under subparagraph (A) regarding the public interest, the administering authority shall, to the extent practicable, consult with—
+&emsp;&emsp;Before making a decision under subparagraph (A) regarding the public interest, theadministering authority shall, to the extent practicable, consult with—
 
 &emsp;&emsp;&emsp;(i) potentially affected consuming industries; and
 
@@ -120,7 +120,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 &emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
 
-&emsp;&emsp;&emsp;(iii) the administering authority shall refund any cash deposit and release anybond or other security deposited under section 1673b(d)(1)(B) of this title.
+&emsp;&emsp;&emsp;(iii) the administering authority shall refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title.
 
 #### (B) Other agreements
 
@@ -178,11 +178,11 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;&emsp;(i) the date which is 90 days before the date of publication of the notice of suspension of liquidation, or
 
-&emsp;&emsp;&emsp;(ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d) of this section, was first entered, or withdrawn from warehouse, for consumption,
+&emsp;&emsp;&emsp;(ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement,or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d) of this section, was first entered, or withdrawn from warehouse, for consumption,
 
 &emsp;&emsp;(B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination were made on the date of its determination under this paragraph,
 
-&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue anantidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
+&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue an antidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
 
 &emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
 

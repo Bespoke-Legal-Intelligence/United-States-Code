@@ -10,9 +10,11 @@ Phrase “hereinafter set forth” is from section 16 of the Federal Reserve Act
 
 #### Codification
 
-Section is comprised of first par. of section 16 of act Dec. 23, 1913. Pars. 2 to 4, 5, and 6, 7, 8 to 11, 13 and 14 of section 16, and pars. 15 to 18 of section 16 as added June 21, 1917, ch. 32, §8, 40 Stat. 238, are classified to sections 412 to 414, 415, 416, 418 to 421, 360, 248–1, and 467, respectively, of this title.
+Section is comprised of first par. of section 16 of act Dec. 23, 1913. Pars. 2 to 5, 6 (formerly 7), 7 to 10 (formerly 8 to 11, respectively), 12 (formerly 13), 13 (formerly 14), and 14 to 16 (formerly 15, 16, and 18, respectively) of section 16 of act Dec. 23, 1913, are classified to sections 412 to 415, 416, 418 to 421, 360, 248–1, and 467, respectively, of this title.
 
-Par. 12 of section 16, formerly classified to section 422 of this title, was repealed by act June 26, 1934, ch. 756, §1, 48 Stat. 1225.
+Former pars. 6 and 17 of section 16 of act Dec. 23, 1913, formerly classified to sections 415 and 467, respectively, of this title, were repealed by Pub. L. 90–269, §§5, 7, Mar. 18, 1968, 82 Stat. 50.
+
+Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to section 422 of this title, was superseded by act June 26, 1934, ch. 756, §1(a), (b)(3), 48 Stat. 1225.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Other provisions of said sections 17 and 22 of title 28, U.S.C., 1940 ed., are i
 
 Other provisions of said section 301 of title 28, U.S.C., 1940 ed., are incorporated in sections 211–213, 215, and 293 of this title.
 
-Section is made applicable to retired justices of the Supreme Court by inclusion of reference to “justice,” on the theory that a justice should have the same powers and duties and be subject to the same limitations as designated and assigned circuit and district judges.
+Section is made applicable to retired justices of the Supreme Court by inclusion of reference to “justice,”on the theory that a justice should have the same powers and duties and be subject to the same limitations as designated and assigned circuit and district judges.
 
 The second sentence of the revised section was substituted for the provision of section 18 of title 28, U.S.C., 1940 ed., which subjected circuit judges to the same assignments of duty as the circuit judges of the circuit to which they are designated and assigned. The revised section extends this requirement and makes it applicable to all designated and assigned judges.
 

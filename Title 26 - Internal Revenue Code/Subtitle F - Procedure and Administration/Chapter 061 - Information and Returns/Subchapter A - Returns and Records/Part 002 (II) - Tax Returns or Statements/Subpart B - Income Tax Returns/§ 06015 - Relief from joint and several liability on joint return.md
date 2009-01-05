@@ -22,7 +22,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;&emsp;(C) the other individual filing the joint return establishes that in signing the return he or she did not know, and had no reason to know, that there was such understatement;
 
-&emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold theother individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
+&emsp;&emsp;(D) taking into account all the facts and circumstances, it is inequitable to hold the other individual liable for the deficiency in tax for such taxable year attributable to such understatement; and
 
 &emsp;&emsp;(E) the other individual elects (in such form as the Secretary may prescribe) the benefits of this subsection not later than the date which is 2 years after the date the Secretary has begun collection activities with respect to the individual making the election,
 
@@ -68,7 +68,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (C) Election not valid with respect to certain deficiencies
 
-&emsp;&emsp;If the Secretary demonstrates that an individual making an election under this subsection had actual knowledge, at the time such individual signed the return, of any item giving rise to a deficiency (or portion thereof) which is not allocable to such individual under subsection (d), such election shall not apply to such deficiency (or portion). This subparagraph shall not apply where the individual with actual knowledge establishes that such individual signed the return under duress.
+&emsp;&emsp;If the Secretary demonstrates that an individual making an election under this subsection had actual knowledge, at the time such individual signed the return, of anyitem giving rise to a deficiency (or portion thereof) which is not allocable to such individual under subsection (d), such election shall not apply to such deficiency (or portion). This subparagraph shall not apply where the individual with actual knowledge establishes that such individual signed the return under duress.
 
 #### (4) Liability increased by reason of transfers of property to avoid tax
 
@@ -92,7 +92,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorceor separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply to any transfer pursuant to a decree of divorce or separate maintenance or a written instrument incident to such a decree or to any transfer which an individual establishes did not have as its principal purpose the avoidance of tax or payment of tax.
 
 #### (d) Allocation of deficiency
 
@@ -280,7 +280,7 @@ Pub. L. 105–206, title III, §3201(g), July 22, 1998, 112 Stat. 740, provided 
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and section 6013 of this title\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for tax arising on or before such date but remaining unpaid as of such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and section 6013 of this title\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for taxarising on or before such date but remaining unpaid as of such date.
 
 “(2) 2-
 

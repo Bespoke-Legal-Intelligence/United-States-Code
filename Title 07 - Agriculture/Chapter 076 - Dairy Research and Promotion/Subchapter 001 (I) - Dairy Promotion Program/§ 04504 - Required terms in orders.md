@@ -60,7 +60,7 @@ Preparation and submission.—The order shall require the Board to submit to the
 
 &emsp;(2)
 
-Foreign market efforts.—The order shall authorize the Board to expend in the maintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2007 fiscal years, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
+Foreign market efforts.—The order shall authorize the Board to expend in the maintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2012 fiscal years, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
 
 (f) The order shall provide that the Board, with the approval of the Secretary, may enter into agreements for the development and conduct of the activities authorized under the order as specified in subsection (a) of this section and for the payment of the cost thereof with funds collected through assessments under the order. Any such agreement shall provide that (1) the contracting party shall develop and submit to the Board a plan or project together with a budget or budgets that shall show estimated costs to be incurred for such plan or project, (2) the plan or project shall become effective upon the approval of the Secretary, and (3) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, and make periodic reports to the Board of activities conducted, and such other reports as the Secretary or the Board may require.
 
@@ -72,7 +72,17 @@ Assessments.—
 
 &emsp;(2) The assessment shall be used for payment of the expenses in administering the order, with provision for a reasonable reserve, and shall include those administrative costs incurred by the Department after an order has been promulgated under this subchapter.
 
-&emsp;(3) The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
+&emsp;(3)
+
+Rate.—
+
+&emsp;&emsp;(A)
+
+In general.—The rate of assessment for milk produced in the United States prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
+
+&emsp;&emsp;(B)
+
+Imported dairy products.—The rate of assessment for imported dairy products prescribed by the order shall be 7.5 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
 
 &emsp;(4) A milk producer or the producer's cooperative who can establish that the producer is participating in active, ongoing qualified State or regional dairy product promotion or nutrition education programs intended to increase consumption of milk and dairy products generally shall receive credit in determining the assessment due from such producer for contributions to such programs of up to 10 cents per hundredweight of milk marketed or, for the period ending six months after November 29, 1983, up to the aggregate rate in effect on November 29, 1983, of such contributions to such programs (but not to exceed 15 cents per hundredweight of milk marketed) if such aggregate rate exceeds 10 cents per hundredweight of milk marketed.
 
@@ -88,11 +98,19 @@ In general.—The order shall provide that each importer of imported dairy produ
 
 &emsp;&emsp;(B)
 
-Time for payment.—The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph,the term “importer” includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.
-
-&emsp;&emsp;(C)
-
 Use of assessments on imported dairy products.—Assessments collected on imported dairy products shall not be used for foreign market promotion.
+
+&emsp;(7)
+
+Refund of assessments on certain imported products.—
+
+&emsp;&emsp;(A)
+
+In general.—An importer shall be entitled to a refund of any assessment paid under this subsection on imported dairy products imported under a contract entered into prior to the date of enactment of the Food, Conservation, and Energy Act of 2008.
+
+&emsp;&emsp;(B)
+
+Expiration.—Refunds under subparagraph (A) shall expire 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008.
 
 (h) The order shall require the Board to (1) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
 
@@ -104,9 +122,25 @@ Use of assessments on imported dairy products.—Assessments collected on import
 
 (<i>l</i>) The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
-(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, §1505(b)–(e), May 13, 2002, 116 Stat. 208, 209.)
+(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, §1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, §1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725.)
+
+#### References in Text
+
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (g)(7), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (e)(2). Pub. L. 110–246, §1507(a), substituted “2012” for “2007”.
+
+Subsec. (g)(3). Pub. L. 110–246, §1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
+
+Subsec. (g)(6)(B), (C). Pub. L. 110–246, §1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
+
+Subsec. (g)(7). Pub. L. 110–246, §1507(f), added par. (7).
 
 2002—Subsec. (b). Pub. L. 107–171, §1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
 
@@ -118,7 +152,7 @@ Subsec. (k). Pub. L. 107–171, §1505(e), substituted “importer of imported d
 
 1996—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
 
-#### Transfer of Functions
+#### Effective Date of 2008 Amendment
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

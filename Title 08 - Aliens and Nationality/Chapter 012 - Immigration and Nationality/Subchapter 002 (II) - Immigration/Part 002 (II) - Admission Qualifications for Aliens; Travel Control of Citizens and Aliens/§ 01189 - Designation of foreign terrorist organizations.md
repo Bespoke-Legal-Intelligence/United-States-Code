@@ -76,7 +76,7 @@
 
 #### (II) Classified information
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determinationin response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
 
 #### (III) Publication of determination
 
@@ -116,7 +116,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;The procedural requirements of paragraphs (2) and (3) shall apply to a revocationunder this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
+&emsp;&emsp;The procedural requirements of paragraphs (2) and (3) shall apply to a revocation under this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
 
 #### (7) Effect of revocation
 
@@ -238,7 +238,7 @@ Subsec. (a)(2)(C). Pub. L. 107–56, §411(c)(5), substituted “paragraph (2)(A
 
 Subsec. (a)(3)(B). Pub. L. 107–56, §411(c)(6), substituted “subsection (b) of this section” for “subsection (c) of this section”.
 
-Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
+Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of theprior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
 
 Subsec. (a)(6)(A). Pub. L. 107–56, §411(c)(8)(A), inserted “or a redesignation made under paragraph (4)(B)” after “paragraph (1)” in introductory provisions.
 

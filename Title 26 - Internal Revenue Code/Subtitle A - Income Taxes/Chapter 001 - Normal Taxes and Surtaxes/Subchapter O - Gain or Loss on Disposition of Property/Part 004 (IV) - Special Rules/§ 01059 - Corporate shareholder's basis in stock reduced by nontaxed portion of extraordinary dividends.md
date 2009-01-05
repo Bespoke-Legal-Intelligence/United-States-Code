@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (B) Reorganizations, etc.
 
-&emsp;&emsp;An exchange described in section 356 which is treated as a dividend shall be treated as a redemption of stock for purposes of applying subparagraph (A).
+&emsp;&emsp;An exchange described in section 356 which is treated as a dividend shall be treated as aredemption of stock for purposes of applying subparagraph (A).
 
 #### (2) Qualifying dividends
 
@@ -350,7 +350,7 @@ Subsecs. (e), (f). Pub. L. 99–514, §614(e), added subsec. (e) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -440,7 +440,7 @@ Treatment of renegotiations, etc.—For purposes of this paragraph, any loan ren
 
 &emsp;“(D)
 
-Definition of term and demand loans.—For purposes of this paragraph, the terms ‘demand loan’and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
+Definition of term and demand loans.—For purposes of this paragraph, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

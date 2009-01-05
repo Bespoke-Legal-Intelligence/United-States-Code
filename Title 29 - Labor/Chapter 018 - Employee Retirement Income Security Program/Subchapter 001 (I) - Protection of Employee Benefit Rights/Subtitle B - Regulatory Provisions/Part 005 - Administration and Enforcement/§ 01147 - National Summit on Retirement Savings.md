@@ -136,7 +136,7 @@ The Secretary shall prepare a report describing the activities of the National S
 
 #### (h) “State” defined
 
-For purposes of this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
+For purposes of this section, the term “State” means a State, the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 

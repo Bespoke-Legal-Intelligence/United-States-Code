@@ -10,7 +10,7 @@ All restrictions on the sale or encumbrance of trust or restricted land owned by
 
 #### (c) Multiple land ownership; partition; sale; election to purchase; unlocated owners
 
-Prior to the time provided in subsection (d) <sup>1</sup> of this section for the removal of restrictions on land owned by more than one member of a tribe, the Secretary may—
+Prior to the time provided in subsection (d) <sup>1</sup> of this section for the removal of restrictions onland owned by more than one member of a tribe, the Secretary may—
 
 &emsp;(1) upon request of any of the owners, partition the land and issue to each owner a patent or deed for his individual share that shall become unrestricted two years from August 13, 1954;
 

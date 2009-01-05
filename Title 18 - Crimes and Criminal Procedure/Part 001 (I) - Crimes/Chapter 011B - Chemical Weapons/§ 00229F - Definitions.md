@@ -14,7 +14,7 @@ Chemical weapon.—The term “chemical weapon” means the following, together 
 
 &emsp;(2)
 
-Chemical weapons convention; convention.—The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of ChemicalWeapons and on Their Destruction, opened for signature on January 13, 1993.
+Chemical weapons convention; convention.—The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
 
 &emsp;(3)
 

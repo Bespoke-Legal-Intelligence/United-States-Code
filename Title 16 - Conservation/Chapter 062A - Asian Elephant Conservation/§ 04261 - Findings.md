@@ -18,7 +18,7 @@ The Congress finds the following:
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–133, §1, Dec. 6, 2007, 121 Stat. 1362, provided that: “This Act \[amending sections 4264 and 4266 of this title\] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2007’.”
+Pub. L. 110–133, §1, Dec. 6, 2007, 121 Stat. 1362, provided that: “This Act \[amending sections 4264 and 4266 of thistitle\] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2007’.”
 
 #### Short Title of 2002 Amendment
 

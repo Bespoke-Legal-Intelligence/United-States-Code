@@ -2,7 +2,7 @@
 
 #### (a) Authorization to make
 
-The Director of the United States Information Agency may make guaranties, in accordancewith the provisions of subsection (b) of section 1933 <sup>1</sup> of this title, of investments in enterprises producing or distributing informational media consistent with the national interests of the United States: <i>Provided</i>, That the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in sections 1933(b)(4)(A) <sup>1</sup> and 1933(b)(4)(G) <sup>1</sup> of this title.
+The Director of the United States Information Agency may make guaranties, in accordance with the provisions of subsection (b) of section 1933 <sup>1</sup> of this title, of investments in enterprises producing or distributing informational media consistent with the national interests of the United States: <i>Provided</i>, That the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in sections 1933(b)(4)(A) <sup>1</sup> and 1933(b)(4)(G) <sup>1</sup> of this title.
 
 #### (b) Assumption of notes issued pursuant to section 1509(c)(2) of this title; advances
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this ti
 
 #### (f) Advance payments
 
-The Director is further authorized, under such terms as he may prescribe, to make advance payments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
+The Director is further authorized, under such terms as he may prescribe, to make advancepayments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
 
 #### (g) Separate accounts; transfers
 
@@ -36,7 +36,7 @@ As soon as feasible after July 18, 1956, all assets, liabilities, income, expens
 
 (3) Dollars appropriated pursuant to this section shall be applied to the payment of interest and in satisfaction of notes issued or assumed hereunder, and to the extent of such application to the principal of the notes, the Director is authorized to issue notes to the Secretary of the Treasury which will bear interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the guaranties. The currencies determined to be unavailable for, or in excess of, requirements of the United States as provided above shall be transferred to the Secretary of the Treasury to be held until disposed of, and any dollar proceeds realized from such disposition shall be deposited in miscellaneous receipts.
 
-(4) Section 1476(a) of this title <sup>1</sup> shall not apply with respect to any amounts appropriated underthis section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
+(4) Section 1476(a) of this title <sup>1</sup> shall not apply with respect to any amounts appropriated under this section for the purpose of liquidating the notes (and any accrued interest thereon) which were assumed in the operation of the informational media guaranty program under this section and which were outstanding on August 24, 1982.
 
 (Jan. 27, 1948, ch. 36, title X, §1011, as added Aug. 26, 1954, ch. 937, title V, §544(a), 68 Stat. 862; amended Aug. 26, 1954, ch. 937, title V, §544(g), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563, and amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, §502(i), June 30, 1958, 72 Stat. 274; Pub. L. 86–108, ch. VII, §701(c), July 24, 1959, 73 Stat. 257; Pub. L. 97–241, title III, §304(f), Aug. 24, 1982, 96 Stat. 293.)
 

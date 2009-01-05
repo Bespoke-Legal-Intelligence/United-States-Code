@@ -88,7 +88,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 &emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
 
-&emsp;&emsp;&emsp;(iii) individuals or entities delivering such services are not unjustly enriched as a result of abusive financial arrangements (such as owner lease-backs); and
+&emsp;&emsp;&emsp;(iii) individuals or entities delivering such services are not unjustly enriched asa result of abusive financial arrangements (such as owner lease-backs); and
 
 &emsp;&emsp;&emsp;(iv) individuals or entities delivering such services to clients, or relatives of such individuals, are prohibited from being named beneficiaries of life insurance policies purchased by (or on behalf of) such clients.
 

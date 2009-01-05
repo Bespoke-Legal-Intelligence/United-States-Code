@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
+There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2012, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
 
 #### (b) Apportionment of appropriated funds
 
@@ -24,15 +24,27 @@ When the amount available under this section for allotment to any State on the b
 
 #### (e) Reallocation of funds to new colleges of veterinary medicine
 
-Whenever a new college of veterinary medicine is established in a State and is accredited, the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
+Whenever a new college of veterinary medicine is established in a State and is accredited,the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
 
 #### (f) Joint establishment or support of accredited regional college of veterinary medicine
 
 Whenever two or more States jointly establish an accredited regional college of veterinary medicine or jointly support an accredited college of veterinary medicine serving the States involved, the Secretary is authorized to make funds which are available to such States pursuant to subsection (b)(2) of this section available for such college in such amount that reflects the combined relative value of and income from domestic livestock, poultry, and commercial aquaculture species in the cooperating States, such amount to be adjusted, as necessary, pursuant to the provisions of subsections (c) and (e) of this section.
 
-(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7107, May 13, 2002, 116 Stat. 432.)
+#### (g) Cooperation among eligible institutions
+
+The Secretary, to the maximum extent practicable, shall encourage eligible institutions to cooperate in setting research priorities under this section through the conduct of regular regional and national meetings.
+
+(Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7117, 7118, May 22, 2008, 122 Stat. 1221, 1222; Pub. L. 110–246, §4(a), title VII, §§7117, 7118, June 18, 2008, 122 Stat. 1664, 1983.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7117, substituted “2012” for “2007”.
+
+Subsec. (g). Pub. L. 110–246, §7118, added subsec. (g).
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -51,6 +63,10 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted “domestic liv
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
 1981—Subsec. (a). Pub. L. 97–98 substituted “as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1981 Amendment
 

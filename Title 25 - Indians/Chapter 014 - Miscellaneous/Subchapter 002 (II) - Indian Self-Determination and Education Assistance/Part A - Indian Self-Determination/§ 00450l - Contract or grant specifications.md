@@ -48,7 +48,7 @@ Program standard.—The Contractor agrees to administer the program, services, f
 
 &emsp;“(4)
 
-Funding amount.—Subject to the availability of appropriations, the Secretary shall make available to the Contractor the total amount specified in the annual funding agreement incorporated by reference in subsection (f)(2). Such amount shall not be less than the applicable amount determined pursuant to section 106(a) of the Indian Self-Determinationand Education Assistance Act (25 U.S.C. 450j–1).
+Funding amount.—Subject to the availability of appropriations, the Secretary shall make available to the Contractor the total amount specified in the annual funding agreement incorporated by reference in subsection (f)(2). Such amount shall not be less than the applicable amount determined pursuant to section 106(a) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j–1).
 
 &emsp;“(5)
 
@@ -118,7 +118,7 @@ Records.—The Contractor shall maintain a record of all property referred to in
 
 &emsp;&emsp;“(C)
 
-Joint use agreements.—Upon the request of the Contractor, the Secretary andthe Contractor shall enter into a separate joint use agreement to address the shared use by the parties of real or personal property that is not reasonably divisible.
+Joint use agreements.—Upon the request of the Contractor, the Secretary and the Contractor shall enter into a separate joint use agreement to address the shared use by the parties of real or personal property that is not reasonably divisible.
 
 &emsp;&emsp;“(D)
 
@@ -192,7 +192,7 @@ Successor annual funding agreement.—
 
 &emsp;&emsp;“(A)
 
-In general.—Negotiations for a successor annual funding agreement, provided for in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).
+In general.—Negotiations for a successor annual funding agreement, providedfor in subsection (f)(2), shall begin not later than 120 days prior to the conclusion of the preceding annual funding agreement. Except as provided in section 105(c)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(c)(2)) the funding for each such successor annual funding agreement shall only be reduced pursuant to section 106(b) of such Act (25 U.S.C. 450j–1(b)).
 
 &emsp;&emsp;“(B)
 
@@ -292,7 +292,7 @@ In general.—Except as provided in subparagraph (B), no modification to this Co
 
 &emsp;&emsp;“(B)
 
-Exception.—The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction of funds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
+Exception.—The addition of supplemental funds for programs, functions, and activities (or portions thereof) already included in the annual funding agreement under subsection (f)(2), and the reduction offunds pursuant to section 106(b)(2), shall not be subject to subparagraph (A).
 
 &emsp;“(3)
 

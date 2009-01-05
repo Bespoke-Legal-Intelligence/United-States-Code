@@ -108,9 +108,47 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 Section 6(a) of Pub. L. 104–287 provided that the amendment made by that section is effective July 5, 1994.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: “This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the ‘Government Funding Transparency Act of 2008’.”
+
+#### Role of Interagency Committee on Debarment and Suspension
+
+Pub. L. 110–417, \[div. A\], title VIII, §873, Oct. 14, 2008, 122 Stat. 4557, provided that:
+
+“(a)
+
+Requirement.—The Interagency Committee on Debarment and Suspension shall—
+
+&emsp;“(1) resolve issues regarding which of several Federal agencies is the lead agency having responsibility to initiate suspension or debarment proceedings;
+
+&emsp;“(2) coordinate actions among interested agencies with respect to such action;
+
+&emsp;“(3) encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;
+
+&emsp;“(4) recommend to the Office of Management and Budget changes to \[the\] Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
+
+&emsp;“(5) authorize the Office of Management and Budget to issue guidelines that implement those recommendations;
+
+&emsp;“(6) authorize the chair of the Committee to establish subcommittees as appropriate to best enable the Interagency Committee to carry out its functions; and
+
+&emsp;“(7) submit to Congress an annual report on—
+
+&emsp;&emsp;“(A) the progress and efforts to improve the suspension and debarment system;
+
+&emsp;&emsp;“(B) member agencies’ active participation in the committee's work; and
+
+&emsp;&emsp;“(C) a summary of each agency's activities and accomplishments in the Governmentwide debarment system.
+
+“(b)
+
+Definition.—The term ‘Interagency Committee on Debarment and Suspension’ means such committee constituted under sections 4 and 5 and of Executive Order No. 12549 \[set out below\].”
+
 #### Federal Funding Accountability and Transparency
 
-Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, provided that:
+Pub. L. 110–252, title VI, §6202(b), June 30, 2008, 122 Stat. 2387, provided that: “The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter \[amending Pub. L. 109–282, set out below\]. Such regulations shall include a definition of ‘total compensation’ that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation).”
+
+Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, §6202(a), June 30, 2008, 122 Stat. 2387, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -196,9 +234,19 @@ Website.—Not later than January 1, 2008, the Office of Management and Budget s
 
 &emsp;&emsp;“(D) the location of the entity receiving the award and the primary location of performance under the award, including the city, State, congressional district, and country;
 
-&emsp;&emsp;“(E) a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity; and
+&emsp;&emsp;“(E) a unique identifier of the entity receiving the award and of the parent entity of the recipient, should the entity be owned by another entity;
 
-&emsp;&emsp;“(F) any other relevant information specified by the Office of Management and Budget.
+&emsp;&emsp;“(F) the names and total compensation of the five most highly compensated officers of the entity if—
+
+&emsp;&emsp;&emsp;“(i) the entity in the preceding fiscal year received—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) 80 percent or more of its annual gross revenues in Federal awards; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) $25,000,000 or more in annual gross revenues from Federal awards; and
+
+&emsp;&emsp;&emsp;“(ii) the public does not have access to information about the compensation of the senior executives of the entity through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78<i>o</i>(d)) or section 6104 of the Internal Revenue Code of 1986. \[; and\]
+
+&emsp;&emsp;“(G) any other relevant information specified by the Office of Management and Budget.
 
 &emsp;“(2)
 
@@ -410,7 +458,7 @@ In General.—Except as provided under subsection (b), not later than 18 months 
 
 &emsp;“(6) ensures recipients of Federal financial assistance provide timely, complete, and high quality information in response to Federal reporting requirements; and
 
-&emsp;“(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency's annual planning responsibilities under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
+&emsp;“(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goalsand objectives, which may be done as part of the agency's annual planning responsibilities under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
 
 “(b)
 
@@ -512,7 +560,7 @@ Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, provided tha
 
 “(a)
 
-Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agencyhas debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 “(b)
 

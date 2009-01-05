@@ -14,7 +14,7 @@ The Institute shall—
 
 #### (c) Evaluation and audit
 
-The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Institute.
+The Secretary of Commerce may periodically evaluate the activities of the Institute to ensurethat funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Institute.
 
 #### (d) Status of employees
 

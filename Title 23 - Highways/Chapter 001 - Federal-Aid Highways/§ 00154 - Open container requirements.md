@@ -58,7 +58,7 @@ Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a Stat
 
 &emsp;(2)
 
-Fiscal year 2003 and fiscal years thereafter.—On October 1, 2002, and each October 1thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).
+Fiscal year 2003 and fiscal years thereafter.—On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1).
 
 &emsp;(3)
 
@@ -94,7 +94,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 

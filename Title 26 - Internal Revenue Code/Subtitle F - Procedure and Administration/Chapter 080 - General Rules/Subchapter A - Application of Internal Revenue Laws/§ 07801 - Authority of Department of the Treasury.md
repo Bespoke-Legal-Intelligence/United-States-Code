@@ -84,7 +84,7 @@ Pub. L. 107–16, title VI, §620, June 7, 2001, 115 Stat. 110, related to elimi
 
 #### Itemized Income Tax Receipt
 
-Pub. L. 106–58, title VI, §650, Sept. 29, 1999, 113 Stat. 479, provided that:
+Pub. L. 106–58, title VI, §650, Sept. 29, 1999, 113 Stat. 479, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(P), May 22, 2008, 110 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(P), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 “(a)
 
@@ -148,7 +148,7 @@ Listed items.—The expenditure items listed in this subparagraph are as follows
 
 &emsp;&emsp;&emsp;“(iii) Low-income housing programs.
 
-&emsp;&emsp;&emsp;“(iv) Food stamp and welfare programs.
+&emsp;&emsp;&emsp;“(iv) supplemental \[sic\] nutrition assistance program benefits and welfare programs.
 
 &emsp;&emsp;&emsp;“(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grants to the States, and other Federal law enforcement personnel.
 
@@ -187,6 +187,8 @@ Cost.—No charge shall be imposed to cover any cost associated with the product
 “(f)
 
 Regulations.—The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
+
+\[Pub. L. 110–234, §4002(b)(1)(D), (2)(P), and Pub. L. 110–246, §4002(b)(1)(D), (2)(P), which directed identical amendment of Pub. L. 106–58, §650, set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.\]
 
 #### Reorganization of Internal Revenue Service
 
@@ -368,7 +370,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 “(a)
 
@@ -574,7 +576,7 @@ Pub. L. 100–647, title VI, §6227, Nov. 10, 1988, 102 Stat. 3731, provided tha
 
 “(a)
 
-In General.—The Secretary of the Treasury shall, as soon as practicable, but not later than 180 daysafter the date of the enactment of this Act \[Nov. 10, 1988\], prepare a statement which sets forth in simple and nontechnical terms—
+In General.—The Secretary of the Treasury shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\], prepare a statement which sets forth in simple and nontechnical terms—
 
 &emsp;“(1) the rights of a taxpayer and the obligations of the Internal Revenue Service (hereinafter in this section referred to as the ‘Service’) during an audit;
 

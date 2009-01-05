@@ -32,3 +32,25 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(i); added Oct. 28, 1974, P
 
 In this section, before clause (1), the words “points within”, “points in”, and “including Montreal, Canada; Vancouver, Canada; and Nuevo Laredo, Mexico” in 45:545(e)(7) are omitted as surplus. The words “establish and” in 45:545(i) (1st sentence) are omitted as executed. The words “trains operated in” are omitted as surplus.
 
+#### Cross-Border Passenger Rail Service
+
+Pub. L. 110–432, div. B, title IV, §406, Oct. 16, 2008, 122 Stat. 4958, provided that:
+
+“(a)
+
+Plan.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], Amtrak shall, in consultation with the Secretary \[of Transportation\], the Secretary of Homeland Security, the Washington State Department of Transportation, and the owners of the relevant railroad infrastructure—
+
+&emsp;“(1) develop a strategic plan to facilitate expanded passenger rail service across the international border between the United States and Canada during the 2010 Olympic Games on the Amtrak passenger rail route between Vancouver, British Columbia, Canada, and Eugene, Oregon (commonly known as ‘Amtrak Cascades’);
+
+&emsp;“(2) develop recommendations for the Department of Homeland Security to process efficiently rail passengers traveling on Amtrak Cascades across such international border during the 2010 Olympic Games; and
+
+&emsp;“(3) submit to Congress a report containing the strategic plan described in paragraph (1) and the recommendations described in paragraph (2).
+
+“(b)
+
+Travel Facilitation.—Using existing authority or agreements, or upon reaching additional agreements with Canada, the Secretary \[of Transportation\] and other Federal agencies, as appropriate, are authorized to establish facilities and procedures to conduct preclearance of passengers traveling on Amtrak trains from Canada to the United States. The Secretary shall seek to establish such facilities and procedures—
+
+&emsp;“(1) in Vancouver, Canada, no later than June 1, 2009; and
+
+&emsp;“(2) in other areas as determined appropriate by the Secretary.”
+

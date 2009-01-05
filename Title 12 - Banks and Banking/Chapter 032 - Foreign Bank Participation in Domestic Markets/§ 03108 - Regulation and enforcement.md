@@ -44,7 +44,7 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 
 #### (B) Court order
 
-&emsp;&emsp;Any court referred to in subparagraph (A) may issue an order requiring compliance with a subpoena issued under this subsection.
+&emsp;&emsp;Any court referred to in subparagraph (A) may issue an order requiring compliancewith a subpoena issued under this subsection.
 
 #### (5) Expenses and fees
 

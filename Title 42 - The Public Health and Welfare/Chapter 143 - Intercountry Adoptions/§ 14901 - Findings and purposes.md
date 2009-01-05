@@ -40,7 +40,7 @@ Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 throu
 
 &emsp;“(2)
 
-Provisions effective upon the entry into force of the convention.—Subject to subsection (b), the provisions of this Act not specified in paragraph (1) \[enacting sections 14914, 14921, 14931, 14932, 14941(b), (c), 14942, 14944, 14951, 14952, and 14954 of this title, amending sections 1101 and 1154 of Title 8, Aliens and Nationality, and enacting provisions set out as notesunder this section\] shall take effect upon the entry into force of the Convention for the United States pursuant to Article 46(2)(a) of the Convention.
+Provisions effective upon the entry into force of the convention.—Subject to subsection (b), the provisions of this Act not specified in paragraph (1) \[enacting sections 14914, 14921, 14931, 14932, 14941(b), (c), 14942, 14944, 14951, 14952, and 14954 of this title, amending sections 1101 and 1154 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section\] shall take effect upon the entry into force of the Convention \[Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption\] for the United States pursuant to Article 46(2)(a) of the Convention \[The Convention entered into force for the United States on Apr. 1, 2008.\].
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program tofurther the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
@@ -10,7 +10,7 @@ Assistance Authorized.—The Secretary of Defense may provide technical and othe
 
 (c)
 
-Financial Commitment of Non-Federal Government Participants.—(1) The totalamount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
+Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
 (2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 

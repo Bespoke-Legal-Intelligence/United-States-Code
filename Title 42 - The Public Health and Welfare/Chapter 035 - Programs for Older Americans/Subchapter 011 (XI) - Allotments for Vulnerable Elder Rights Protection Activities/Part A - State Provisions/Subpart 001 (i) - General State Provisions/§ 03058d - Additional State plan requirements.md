@@ -46,7 +46,7 @@ Neither a State, nor a State agency, may require any provider of legal assistanc
 
 #### Prior Provisions
 
-A prior section 3058d, Pub. L. 89–73, title VII, §706, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat.1791, authorized appropriations for fiscal years 1985, 1986, and 1987, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058d, Pub. L. 89–73, title VII, §706, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1791, authorized appropriations for fiscal years 1985, 1986, and 1987, prior to repeal by Pub. L. 100–175, title I,§181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 705 of Pub. L. 89–73 was classified to section 3045d of this title prior to repeal by Pub. L. 95–478.
 

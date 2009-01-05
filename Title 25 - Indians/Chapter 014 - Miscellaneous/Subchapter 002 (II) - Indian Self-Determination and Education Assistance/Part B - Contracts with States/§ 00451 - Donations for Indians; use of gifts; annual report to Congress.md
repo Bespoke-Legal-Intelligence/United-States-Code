@@ -6,7 +6,7 @@ The Secretary of the Interior may accept donations of funds or other property fo
 
 #### Codification
 
-Section was not enacted as part of the Johnson-O'Malley Act which comprises this part, nor as part of the Indian Self-Determination and Education Assistance Act which comprises this subchapter.
+Section was not enacted as part of the Johnson-O'Malley Act which comprises this part, nor as part ofthe Indian Self-Determination and Education Assistance Act which comprises this subchapter.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Guide dogs or other service animals accompanying individuals with disabilities and especially trained and educated for that purpose shall be admitted to any building or other property owned or controlled by the Federal Government on the same terms and conditions, and subject to the same regulations, asgenerally govern the admission of the public to the property. The animals are not permitted to run free or roam in a building or on the property and must be in guiding harness or on leash and under the control of the individual at all times while in a building or on the property.
+In General.—Guide dogs or other service animals accompanying individuals with disabilities and especially trained and educated for that purpose shall be admitted to any building or other property owned or controlled by the Federal Government on the same terms and conditions, and subject to the same regulations, as generally govern the admission of the public to the property. The animals are not permitted to run free or roam in a building or on the property and must be in guiding harness or on leash and under the control of the individual at all times while in a building or on the property.
 
 (b)
 
@@ -30,5 +30,5 @@ Dec. 10, 1941, ch. 563, 55 Stat. 796.
 
 40:291 (last sentence).
 
-In subsection (a), the words “Seeing-eye dogs or other” are omitted as unnecessary. The words “or other service animals” are added, and the words “individuals with disabilities” are substituted for “blind masters”, because of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and Part 39 of Title 28 of the Code of Federal Regulations, which expanded the coverage of the source provision to all service animals and to all individuals with disabilities.
+In subsection (a), the words “Seeing-eye dogs or other” are omitted as unnecessary. The words “or other service animals” are added, and the words “individuals with disabilities” are substituted for “blind masters”, because of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and Part 39 of Title 28 of theCode of Federal Regulations, which expanded the coverage of the source provision to all service animals and to all individuals with disabilities.
 

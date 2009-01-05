@@ -16,7 +16,7 @@ The lands appropriated by section 851 of this title shall be selected from any u
 
 #### (b) Adjustments
 
-Where the selections are to compensate for deficiencies of school lands in fractional townships, such selections shall be made in accordance with the following principles of adjustment, to wit: For each township, or fractional township, containing a greater quantity of land than three-quarters of an entire township, one section; for a fractional township, containing a greater quantity of land than one-half, and not more than three-quarters of a township, three-quarters of a section; for a fractional township, containing a greater quantity of land than one-quarter, and not more than one-half of a township, one-half section; and for a fractional township containing a greater quantity of land than one entire section, and not more than one-quarter of a township, one-quarter section of land: <i>Provided</i>, That the States which are, or shall beentitled to both the sixteenth and thirty-sixth sections in place, shall have the right to select double the amounts named, to compensate for deficiencies of school land in fractional townships.
+Where the selections are to compensate for deficiencies of school lands in fractional townships, such selections shall be made in accordance with the following principles of adjustment, to wit: For each township, or fractional township, containing a greater quantity of land than three-quarters of an entire township, one section; for a fractional township, containing a greater quantity of land than one-half, and not more than three-quarters of a township, three-quarters of a section; for a fractional township, containing a greater quantity of land than one-quarter, and not more than one-half of a township, one-half section; and for a fractional township containing a greater quantity of land than one entire section, and not more than one-quarter of a township, one-quarter section of land: <i>Provided</i>, That the States which are, or shall be entitled to both the sixteenth and thirty-sixth sections in place, shall have the right to select double the amounts named, to compensate for deficiencies of school land in fractional townships.
 
 #### (c) Preference rights for State
 
@@ -52,7 +52,7 @@ Subsec. (d)(1). Pub. L. 86–786, §2, included interest of United States in lan
 
 #### University of Alaska; Grantee of Lands, Improvements, and Personal Property of Alaska Agricultural Experiment Station
 
-Pub. L. 102–415, §9, Oct. 14, 1992, 106 Stat. 2114, provided that: “Notwithstanding any other provision of law, the Secretary of the Interior shall convey to the University of Alaska, by quitclaim deed and without consideration, all the right, title, and interest of the United States in and to—
+Pub. L. 102–415, §9, Oct. 14, 1992, 106 Stat. 2114, provided that: “Notwithstanding any other provision oflaw, the Secretary of the Interior shall convey to the University of Alaska, by quitclaim deed and without consideration, all the right, title, and interest of the United States in and to—
 
 &emsp;“(1) the lands of the University of Alaska Agricultural Experiment Station, consisting of approximately 16 acres, including improvements on the lands, located at Palmer and Matanuska, Alaska; and
 

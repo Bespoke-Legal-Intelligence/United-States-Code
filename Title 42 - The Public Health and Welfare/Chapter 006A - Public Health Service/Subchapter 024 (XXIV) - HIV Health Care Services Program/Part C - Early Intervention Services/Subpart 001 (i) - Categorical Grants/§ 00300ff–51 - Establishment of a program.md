@@ -96,7 +96,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 #### (2) Referrals
 
-&emsp;The services referred to in paragraph (1)(C) are referrals of individuals with HIV/AIDS to appropriate providers of health and support services, including, as appropriate—
+&emsp;The services referred to in paragraph (1)(C) are referrals of individuals with HIV/AIDS toappropriate providers of health and support services, including, as appropriate—
 
 &emsp;&emsp;(A) to entities receiving amounts under part A or B for the provision of such services;
 
@@ -108,7 +108,7 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that each of the early intervention services specified in paragraph (2) will be available through the grantee. With respect to compliance with such agreement, such a grantee may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit privateentities, or private for-profit entities if such entities are the only available provider of quality HIV care in the area, under which the entities provide the services.
+&emsp;&emsp;The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that each of the early intervention services specified in paragraph (2) will be available through the grantee. With respect to compliance with such agreement, such a grantee may expend the grant to provide the early intervention services directly, and may expend the grant to enter into agreements with public or nonprofit private entities, or private for-profit entities if such entities are the only available provider of quality HIV care in the area, under which the entities provide the services.
 
 #### (B) Other requirements
 

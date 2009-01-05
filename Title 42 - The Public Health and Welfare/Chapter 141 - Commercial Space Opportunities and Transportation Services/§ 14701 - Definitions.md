@@ -34,7 +34,7 @@ For purposes of this Act—
 
 &emsp;&emsp;&emsp;&emsp;(II) providing no barriers, to companies described in subparagraph (A) with respect to local investment opportunities, that are not provided to foreign companies in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(III) providing adequate and effective protection for the intellectual propertyrights of companies described in subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).
 
 (Pub. L. 105–303, §2, Oct. 28, 1998, 112 Stat. 2843.)
 

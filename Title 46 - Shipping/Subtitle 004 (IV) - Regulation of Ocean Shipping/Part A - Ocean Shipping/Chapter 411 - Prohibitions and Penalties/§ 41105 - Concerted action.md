@@ -8,7 +8,7 @@ A conference or group of two or more common carriers may not—
 
 &emsp;(3) engage in any predatory practice designed to eliminate the participation, or deny the entry, in a particular trade of a common carrier not a member of the conference, a group of common carriers, an ocean tramp, or a bulk carrier;
 
-&emsp;(4) negotiate with a non-ocean carrier or group of non-ocean carriers (such as truck, rail, or air operators) on any matter relating to rates or services provided to ocean common carriers within the United States by those non-ocean carriers, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistent with the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
+&emsp;(4) negotiate with a non-ocean carrier or group of non-ocean carriers (such as truck, rail, or air operators) on any matter relating to rates or services provided to ocean common carriers within the United States by those non-ocean carriers, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistentwith the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
 
 &emsp;(5) deny in the export foreign commerce of the United States compensation to an ocean freight forwarder or limit that compensation to less than a reasonable amount;
 

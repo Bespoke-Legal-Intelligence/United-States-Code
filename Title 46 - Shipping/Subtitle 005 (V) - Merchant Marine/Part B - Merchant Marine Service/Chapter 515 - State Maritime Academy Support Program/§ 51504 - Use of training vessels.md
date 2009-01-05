@@ -36,7 +36,21 @@ Agency Vessels.—An agency may provide to the Secretary, for use by a State mar
 
 (f)
 
-Fuel Costs.—The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
+Fuel Costs.—
+
+&emsp;(1)
+
+In general.—Subject to the availability of appropriations, the Secretary shall pay to each State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
+
+&emsp;(2)
+
+Maximum amounts.—The amount of the payment to a State maritime academy under paragraph (1) may not exceed—
+
+&emsp;&emsp;(A) $100,000 for fiscal year 2006;
+
+&emsp;&emsp;(B) $200,000 for fiscal year 2007; and
+
+&emsp;&emsp;(C) $300,000 for fiscal year 2008 and each fiscal year thereafter.
 
 (g)
 
@@ -46,23 +60,7 @@ Removing Vessels From Service and Vessel Sharing.—The Secretary may not—
 
 &emsp;(2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsection (f) of this section was derived from section 1295c(c)(2) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1295c(c)(2) of the former Appendix to this title was amended—</i>
-
-<i>(1) by striking “The Secretary may pay to any State maritime academy” and inserting “(A) The Secretary shall, subject to the availability of appropriations, pay to each State maritime academy”; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-<i>“(B) The amount of the payment to a State maritime academy under this paragraph shall not exceed—</i>
-
-&emsp;<i>“(i) $100,000 for fiscal year 2006;</i>
-
-&emsp;<i>“(ii) $200,000 for fiscal year 2007; and</i>
-
-&emsp;<i>“(iii) $300,000 for fiscal year 2008 and each fiscal year thereafter.”</i>
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548; Pub. L. 110–181, div. C, title XXXV, §3523(a)(2), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
 
 Historical and Revision Notes
 
@@ -123,4 +121,12 @@ In subsection (a), the reference to territories is omitted as unnecessary becaus
 In subsection (e), before paragraph (1), the word “agency” is substituted for “department or agency of the United States” because of the definition of “agency” in chapter 1 of the revised title.
 
 In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3502(b). See 2006 Amendment note below.
+
+Subsec. (f). Pub. L. 110–181, §3523(a)(2), incorporated the substance of the amendment by Pub. L. 109–163, §3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3502(b), which directed the amendment of section 1295c(c)(2) of the former Appendix to this title from which subsec. (f) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (f) and Historical and Revision notes above.
 

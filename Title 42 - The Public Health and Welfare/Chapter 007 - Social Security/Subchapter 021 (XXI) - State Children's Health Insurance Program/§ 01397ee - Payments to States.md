@@ -56,7 +56,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(i) coverage provided to targeted low-income children through such expenditures meets the requirements of section 1397cc of this title;
 
-&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwise be provided under section 1397cc of this title; and
+&emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, thanthe cost of coverage that would otherwise be provided under section 1397cc of this title; and
 
 &emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contracts with health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
 

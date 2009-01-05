@@ -38,7 +38,7 @@ Upon acquisition of the Baca ranch under subsection (a) of this section, the Sec
 
 #### (3) Boundary modification
 
-&emsp;Upon the conveyance of any lands to any entity other than the Secretary, the boundary ofthe Preserve shall be modified to exclude such lands.
+&emsp;Upon the conveyance of any lands to any entity other than the Secretary, the boundary of the Preserve shall be modified to exclude such lands.
 
 #### (4) Final maps
 
@@ -116,7 +116,7 @@ For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Bac
 
 #### References in Text
 
-Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier NationalMonument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
+Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier National Monument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
 
 #### Amendments
 

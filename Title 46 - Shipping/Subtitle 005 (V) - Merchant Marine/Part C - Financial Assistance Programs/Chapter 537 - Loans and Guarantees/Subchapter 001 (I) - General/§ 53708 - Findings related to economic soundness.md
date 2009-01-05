@@ -2,7 +2,7 @@
 
 (a)
 
-By Secretary of Transportation.—The Secretary of Transportation may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds that the property or project for which the obligation will be executed will be economically sound. In making that finding, the Secretary shall consider—
+By Administrator.—The Administrator may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Administrator finds that the property or project for which the obligation will be executed will be economically sound. In making that finding, the Administrator shall consider—
 
 &emsp;(1) the need in the particular segment of the maritime industry for new or additional capacity, including any impact on existing equipment for which a guarantee under this chapter is in effect;
 
@@ -18,7 +18,7 @@ By Secretary of Transportation.—The Secretary of Transportation may not guaran
 
 (b)
 
-By Secretary of Commerce.—The Secretary of Commerce may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds, at or prior to the time the commitment is made or the guarantee becomes effective, that—
+By Secretary.—The Secretary may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds, at or prior to the time the commitment is made or the guarantee becomes effective, that—
 
 &emsp;(1) the property or project for which the obligation will be executed will be economically sound; and
 
@@ -30,7 +30,7 @@ By Secretary of Commerce.—The Secretary of Commerce may not guarantee or make 
 
 (c)
 
-Used Fishing Vessels and Facilities.—The Secretary of Commerce may not guarantee or make a commitment to guarantee an obligation under this chapter for the purchase of a used fishing vessel or used fishery facility unless the vessel or facility will be—
+Used Fishing Vessels and Facilities.—The Secretary may not guarantee or make a commitment to guarantee an obligation under this chapter for the purchase of a used fishing vessel or used fishery facility unless the vessel or facility will be—
 
 &emsp;(1) reconstructed or reconditioned in the United States and will contribute to the development of the United States fishing industry; or
 
@@ -42,23 +42,13 @@ Used Fishing Vessels and Facilities.—The Secretary of Commerce may not guarant
 
 (d)
 
-Independent Analysis.—The Secretary may make a determination that aspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.
+Independent Analysis.—The Secretary or Administrator may make a determination that aspects of an application under this chapter require independent analysis to be conducted by third party experts due to risk factors associated with markets, technology, or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.
 
 (e)
 
-Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary may make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, financial structures, or other risk factors identified by the Secretary.
+Additional Equity Because of Increased Risks.—Notwithstanding any other provision of this chapter, the Secretary or Administratormay make a determination that an application under this title requires additional equity because of increased risk factors associated with markets, technology, or financial structures.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556.)
-
-#### Amendments Not Shown in Text
-
-<i>Subsec. (a) of this section was derived from section 1274(d)(1)(A) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(D), (b)(3)(A), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(d)(1)(A) of the former Appendix to this title was amended by striking “Secretary” each place it appears except the first and inserting “Administrator” and by striking “Secretary of Transportation” and inserting “Administrator”.</i>
-
-<i>Subsecs. (d) and (e) of this section were derived from pars. (2) and (3), respectively, of section 1274(f) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(4), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(f) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, by striking “financial structures, or other risk factors identified by the Secretary or Administrator.” in pars. (2) and (3) and inserting “or financial structures.”, and by adding at the end the following:</i>
-
-<i>“(5) A third party independent analysis conducted under paragraph (2) \[now subsec. (d) of this section\] shall be performed by a private sector expert in assessing such risk factors who is selected by the Administrator.”</i>
-
-<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1608; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(4), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 
 Historical and Revision Notes
 
@@ -93,4 +83,20 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136
 53708(e)
 
 46 App.:1274(f)(3).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3522(a)(4)(A), (B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(D), (b)(3)(A), into this section by substituting in the heading, “Administrator” for “Secretary of Transportation” and, in introductory provisions, “Administrator may” for “Secretary of Transportation may”, “Administrator finds” for “Secretary finds”, and “Administrator shall” for “Secretary shall”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (b). Pub. L. 110–181, §3522(a)(4)(C), (D), struck out “of Commerce” after “Secretary” in heading and the first time appearing in introductory provisions.
+
+Subsec. (c). Pub. L. 110–181, §3522(a)(4)(D), struck out “of Commerce” after “Secretary”.
+
+Subsec. (d). Pub. L. 110–181, §3522(a)(4)(E), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(A), (C), into this section by inserting “or Administrator” after “The Secretary” and substituting “or financial structures. A third party independent analysis conducted under this subsection shall be performed by a private sector expert in assessing such risk factors who is selected by the Secretary or Administrator.” for “financial structures, or other risk factors identified by the Secretary. Any independent analysis conducted under this subsection shall be performed by a party chosen by the Secretary.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (e). Pub. L. 110–181, §3522(a)(4)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (b)(4)(B), into this section by inserting “or Administrator” after “chapter, the Secretary” and substituting “or financial structures” for “financial structures, or other risk factors identified by the Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4), which directed the amendment of section 1274(d)(1)(A), (f)(2), (3) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (d), and (e) and Historical and Revision notes above.
 

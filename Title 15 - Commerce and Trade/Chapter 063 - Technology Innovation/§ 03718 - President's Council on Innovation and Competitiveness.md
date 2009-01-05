@@ -134,3 +134,15 @@ Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the
 
 Section was enacted as part of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, also known as the America COMPETES Act, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
+#### Designation of the Committee on Technology of the National Science and Technology Council To Carry Out Certain Requirements of the America COMPETES Act
+
+Memorandum of the President of the United States, Apr. 10, 2008, 73 F.R. 20523, provided:
+
+Memorandum for the Director of the Office of Science and Technology Policy
+
+By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1006(e) of the America COMPETES Act (Public Law 110–69) (the “Act”), I hereby designate the Committee on Technology of the National Science and Technology Council to carry out the responsibilities assigned to the Council on Innovation and Competitiveness in section 1006 of the Act.
+
+The Director of the Office of Science and Technology Policy is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

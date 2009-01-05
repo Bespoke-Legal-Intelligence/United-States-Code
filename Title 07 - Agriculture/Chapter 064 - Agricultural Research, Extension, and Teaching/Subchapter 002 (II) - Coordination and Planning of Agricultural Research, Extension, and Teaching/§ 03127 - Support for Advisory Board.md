@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 105–185, §606(c)(1)(B), substituted “its recommendatio
 
 1996—Pub. L. 104–127, §§852(b)(3)(A), 853(b)(4)(A), in section catchline, substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
-Subsec. (a). Pub. L. 104–127, §§852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted“To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
+Subsec. (a). Pub. L. 104–127, §§852(b)(3)(B)(i), (ii), 853(b)(4)(B)(i), in introductory provisions, substituted “To assist the Advisory Board in” for “To assist the Joint Council, the Advisory Board, and the Technology Board in” and “with the chairperson of the Advisory Board” for “with the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 
 Subsec. (a)(1). Pub. L. 104–127, §§852(b)(3)(B)(ii), 853(b)(4)(B)(i), substituted “the chairperson of the Advisory Board” for “the cochairpersons of the Joint Council and the chairperson of the Advisory Board and the Technology Board”.
 
@@ -34,11 +34,11 @@ Subsec. (a)(2). Pub. L. 104–127, §§852(b)(3)(B)(iii), 853(b)(4)(B)(ii), subs
 
 Subsecs. (b), (c). Pub. L. 104–127, §§852(b)(3)(C), 853(b)(4)(C), substituted “Advisory Board” for “Joint Council, Advisory Board, and Technology Board”.
 
-1991—Subsecs. (b) and (c). Pub. L. 102–237 substituted “, Advisory Board, and Technology Board” for “and Advisory Board”.
+1991—Subsecs. (b), (c). Pub. L. 102–237 substituted “, Advisory Board, and Technology Board” for “and Advisory Board”.
 
 1990—Pub. L. 101–624, §1605(b)(1)(A), amended section catchline generally.
 
-Subsec. (a). Pub. L. 101–624, §1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board” before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
+Subsec. (a). Pub. L. 101–624, §1605(b)(1)(B), in introductory provision, substituted “, the Advisory Board, and the Technology Board” for “and the Advisory Board” and inserted “and the Technology Board” before the dash, in par. (1), inserted “and the Technology Board”before “may direct”, and in par. (2), substituted “Council,” for “Council and” and inserted before period at end “, and one shall serve as the executive secretary to the Technology Board”.
 
 Subsecs. (b), (c). Pub. L. 101–624, §1605(b)(1)(C), (D), which directed the substitution of “, the Advisory Board, and the Technology Board” for “and the Advisory Board”, could not be executed because the phrase “and the Advisory Board” did not appear in text.
 

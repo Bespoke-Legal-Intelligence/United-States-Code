@@ -8,7 +8,7 @@
 
 (b) In the event of a major disaster or emergency, as declared by the President, that results in severe adverse effects for a substantial number of employees, the President may direct the Office of Personnel Management to establish an emergency leave transfer program under which any employee in any agency may donate unused annual leave for transfer to employees of the same or other agencies who are adversely affected by such disaster or emergency.
 
-(c) The Office shall establish appropriate requirements for the operation of the emergency leave transfer program under subsection (b), including appropriate limitations on the donation and use of annual leave under the program. An employee may receive and use leave under the program without regard to any requirement that any annual leave and sick leave to a leave recipient's credit must be exhausted before any transferred annual leave may be used.
+(c) The Office shall establish appropriate requirements for the operation of the emergencyleave transfer program under subsection (b), including appropriate limitations on the donation and use of annual leave under the program. An employee may receive and use leave under the program without regard to any requirement that any annual leave and sick leave to a leave recipient's credit must be exhausted before any transferred annual leave may be used.
 
 (d) A leave bank established under subchapter IV may, to the extent provided in regulations prescribed by the Office, donate annual leave to the emergency leave transfer program established under subsection (b).
 

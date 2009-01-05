@@ -28,7 +28,7 @@ The tax imposed by section 2501 shall be paid by the donor.
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 107–16, title V, §511(d), (f)(3), title IX, §901, June 7, 2001, 115 Stat. 70, 71, 150, provided that, applicable to gifts made after Dec. 31, 2009, subsection (a) of this section is temporarily amended to read as follows:</i>
+<i>Pub. L. 107–16, title V, §511(d), (f)(3), title IX, §901, June 7, 2001, 115 Stat. 70, 71, 150, provided</i><i>that, applicable to gifts made after Dec. 31, 2009, subsection (a) of this section is temporarily amended to read as follows:</i>
 
 #### <i>(a) Computation of tax</i>
 
@@ -44,7 +44,7 @@ The tax imposed by section 2501 shall be paid by the donor.
 
 &nbsp;
 
-| If the amount with  respect to which the  tentative tax to be  computed is: | The tentative tax is:&nbsp;&#x20;&nbsp; |
+| If the amount with  respect to which the  tentative tax to be  computed is: | The tentative tax is: |
 | :--- | ---: |
 | Not over $10,000 | 18% of such amount. |
 | Over $10,000 but not over $20,000 | $1,800, plus 20% of the excess over $10,000. |

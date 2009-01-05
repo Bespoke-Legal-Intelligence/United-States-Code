@@ -10,7 +10,7 @@ Section 715s of this title, referred to in text, was in the original “the Act 
 
 #### Amendments
 
-1978—Pub. L. 95–616 substituted in second sentence “terms and conditions as the Secretary of the Interior shall prescribe” for “terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of section 666f of this title and this section” and made moneys received or collected in connectionwith the leases to be subject to section 715s of this title.
+1978—Pub. L. 95–616 substituted in second sentence “terms and conditions as the Secretary of the Interior shall prescribe” for “terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of section 666f of this title and this section” and made moneys received or collected in connection with the leases to be subject to section 715s of this title.
 
 #### Change of Name
 

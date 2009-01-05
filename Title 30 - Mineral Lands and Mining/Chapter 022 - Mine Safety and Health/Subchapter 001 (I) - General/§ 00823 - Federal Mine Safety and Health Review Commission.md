@@ -22,7 +22,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 #### (d) Proceedings before administrative law judge; administrative review
 
-(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determinationupon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
+(1) An administrative law judge appointed by the Commission to hear matters under this chapter shall hear, and make a determination upon, any proceeding instituted before the Commission and any motion in connection therewith, assigned to such administrative law judge by the chief administrative law judge of the Commission or by the Commission, and shall make a decision which constitutes his final disposition of the proceedings. The decision of the administrative law judge of the Commission shall become the final decision of the Commission 40 days after its issuance unless within such period the Commission has directed that such decision shall be reviewed by the Commission in accordance with paragraph (2). An administrative law judge shall not be assigned to prepare a recommended decision under this chapter.
 
 (2) The Commission shall prescribe rules of procedure for its review of the decisions of administrative law judges in cases under this chapter which shall meet the following standards for review:
 
@@ -55,6 +55,8 @@ In connection with hearings before the Commission or its administrative law judg
 (Pub. L. 91–173, title I, §113, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For the effective date of the Federal Mine Safety and Health Amendments Act of 1977, referred to in subsec. (b)(2), see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 

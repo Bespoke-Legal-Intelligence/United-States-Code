@@ -44,7 +44,7 @@ No credit shall be allowed under this section with respect to the amount of any 
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §§532(c)(1), 901, temporarily struck out “the credit for State death taxesprovided by section 2011 and” before “the unified credit”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–16, §§532(c)(1), 901, temporarily struck out “the credit for State death taxes provided by section 2011 and” before “the unified credit”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1981—Subsec. (b)(2). Pub. L. 97–34 substituted “the amount of such value, reduced as provided in paragraph (1)” for “an amount which bears the same ratio to such value (reduced as provided in paragraph (1) of this subsection) as the aggregate amount of the marital deductions allowed under section 2056(a) bears to the aggregate amount of such marital deductions computed without regard to subsection (c) thereof”.
 

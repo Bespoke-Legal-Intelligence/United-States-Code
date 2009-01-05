@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, any individual to whom section 877(b) applies for any taxable year shall provide a statement for such taxable year which includes the information described in subsection (b).
+Notwithstanding any other provision of law, any individual to whom section 877(b) or 877A applies for any taxable year shall provide a statement for such taxable year which includes the information described in subsection (b).
 
 #### (b) Information to be provided
 
@@ -46,15 +46,19 @@ Notwithstanding any other provision of law—
 
 &emsp;(3) the Federal agency primarily responsible for administering the immigration laws shall provide to the Secretary the name of each lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) whose status as such has been revoked or has been administratively or judicially determined to have been abandoned.
 
-> Notwithstanding any other provision of law, not later than 30 days after the close of each calendar quarter, the Secretary shall publish in the Federal Register the name of each individual losing United States citizenship (within the meaning of section 877(a)) with respect to whom the Secretary receives information under the preceding sentence during such quarter.
+> Notwithstanding any other provision of law, not later than 30 days after the close of each calendar quarter, the Secretary shall publish in the Federal Register the name of each individual losing United States citizenship (within the meaning of section 877(a) or 877A) with respect to whom the Secretary receives information under the preceding sentence during such quarter.
 
-(Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096; amended Pub. L. 108–357, title VIII, §804(e), Oct. 22, 2004, 118 Stat. 1572.)
+(Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096; amended Pub. L. 108–357, title VIII, §804(e), Oct. 22, 2004, 118 Stat. 1572; Pub. L. 110–245, title III, §301(e), June 17, 2008, 122 Stat. 1646.)
 
 #### References in Text
 
 Section 358 of the Immigration and Nationality Act, referred to in subsec. (d)(2), is classified to section 1501 of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–245, §301(e)(1), inserted “or 877A” after “section 877(b)”.
+
+Subsec. (d). Pub. L. 110–245, §301(e)(2), inserted “or 877A” after “section 877(a)” in concluding provisions.
 
 2004—Subsec. (a). Pub. L. 108–357, §804(e)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any individual who loses United States citizenship (within the meaning of section 877(a)) shall provide a statement which includes the information described in subsection (b). Such statement shall be—
 
@@ -88,9 +92,13 @@ Subsec. (e). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d).
 
 Subsec. (f). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (f). Text read as follows: “In lieu of applying the last sentence of subsection (a), any individual who is required to provide a statement under this section by reason of section 877(e)(1) shall provide such statement with the return of tax imposed by chapter 1 for the taxable year during which the event described in such section occurs.”
 
-Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows:“The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
+Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows: “The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
 
 1997—Pub. L. 105–34 renumbered section 6039F as this section.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 applicable to any individual whose expatriation date is on or after June 17, 2008, see section 301(g)(1) of Pub. L. 110–245, set out as an Effective Date note under section 2801 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -104,7 +112,7 @@ Section 512(c) of Pub. L. 104–191 provided that: “The amendments made by thi
 
 &emsp;“(1) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and
 
-&emsp;“(2) long-term residents of the United States with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date.
+&emsp;“(2) long-term residents of the United States with respect to whom an event described in \[former\] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date.
 
 > In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act \[Aug. 21, 1996\].”
 

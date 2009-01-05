@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary concerned shall have power to subpoena the attendance and testimony of any witness, and the production of all documentary evidence relating to the enforcement of section 2279e of this title or any matter under investigation in connection with this section and section 2279e of this title.
+The Secretary concerned shall have power to subpoena the attendance and testimony of anywitness, and the production of all documentary evidence relating to the enforcement of section 2279e of this title or any matter under investigation in connection with this section and section 2279e of this title.
 
 #### (b) Location of production
 

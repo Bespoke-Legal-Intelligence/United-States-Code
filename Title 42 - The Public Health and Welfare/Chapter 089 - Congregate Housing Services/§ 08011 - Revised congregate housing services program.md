@@ -78,7 +78,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Congregate services programs assisted under this section shall include meal service adequate to meet at least one-third of the daily nutritional needs of eligible project residents, as follows:
 
-#### (A) Food stamps and agricultural commodities
+#### (A) Supplemental nutrition assistance program benefits and agricultural commodities
 
 &emsp;&emsp;In providing meal services under this paragraph, each congregate services program—
 
@@ -86,7 +86,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;&emsp;&emsp;(I) apply for approval as a retail food store under section 2018 of title 7; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if approved under such section, accept coupons (as defined in section 2012(e) of title 7) as payment from individuals to whom such meal services are provided; and
+&emsp;&emsp;&emsp;&emsp;(II) if approved under such section, accept benefits as payment from individuals to whom such meal services are provided; and
 
 &emsp;&emsp;&emsp;(ii) shall request, and use to provide such meal services, agricultural commodities made available without charge by the Secretary of Agriculture.
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -342,7 +342,7 @@ For purposes of this section:
 
 &emsp;(6) The term “eligible housing project” means—
 
-&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
+&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States HousingAct of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
 
 &emsp;&emsp;(B) housing assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,<sup>9</sup> as such section existed before October 1, 1983;
 
@@ -432,7 +432,7 @@ The Secretary of Housing and Urban Development and the Secretary of Agriculture 
 
 The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
 
-(Pub. L. 101–625, title VIII, §802, Nov. 28, 1990, 104 Stat. 4304; Pub. L. 102–550, title VI, §§604(a), (b), 672, Oct. 28, 1992, 106 Stat. 3805, 3826.)
+(Pub. L. 101–625, title VIII, §802, Nov. 28, 1990, 104 Stat. 4304; Pub. L. 102–550, title VI, §§604(a), (b), 672, Oct. 28, 1992, 106 Stat. 3805, 3826; Pub. L. 110–234, title IV, §§4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), May 22, 2008, 122 Stat. 1096, 1098, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), June 18, 2008, 122 Stat. 1664, 1857–1859, 1870, 1871.)
 
 #### References in Text
 
@@ -444,11 +444,13 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act J
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
-Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
+Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section8(b)(2) of the United States Housing Act of 1937, which was classified to section 1437f(b)(2) of this title and was repealed by Pub. L. 98–181, title II, §209(a)(2), Nov. 30, 1983, 97 Stat. 1183.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Congregate Housing Services Act of 1978 which comprises this chapter.
 
@@ -458,11 +460,25 @@ November 28, 1990, referred to in subsecs. (i)(1)(B)(i) and (m), was in the orig
 
 #### Amendments
 
+2008—Subsec. (d)(2)(A). Pub. L. 110–246, §4002(b)(1)(N), (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
+
+Subsec. (d)(2)(A)(i)(I). Pub. L. 110–246, §4002(b)(1)(B), (2)(LL), made technical amendment to reference in original act which appears in text as reference to section 2018 of title 7.
+
+Subsec. (d)(2)(A)(i)(II). Pub. L. 110–246, §4115(c)(2)(I), struck out “(as defined in section 2012(e) of title 7)” after “benefits”.
+
+Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(vi), substituted “benefits” for “coupons”.
+
 1992—Subsec. (d)(4). Pub. L. 102–550, §672, inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
 
 Subsec. (i)(1)(B)(i). Pub. L. 102–550, §604(b), substituted “6-year” for “3-year” in two places.
 
 Subsec. (n)(1). Pub. L. 102–550, §604(a), in introductory provisions, substituted provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations of $25,000,000 for fiscal year 1991 and $26,100,000 for fiscal year 1992.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by sections 4002(b)(1)(B), (N), (2)(LL) and 4115(c)(1)(A)(i), (B)(vi), (2)(I) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1992 Amendment
 

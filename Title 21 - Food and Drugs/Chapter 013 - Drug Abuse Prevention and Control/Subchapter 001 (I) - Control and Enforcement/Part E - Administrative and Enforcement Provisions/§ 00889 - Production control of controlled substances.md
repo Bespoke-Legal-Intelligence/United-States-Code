@@ -8,7 +8,7 @@ As used in this section:
 
 &emsp;(2) The term “Secretary” means the Secretary of Agriculture.
 
-&emsp;(3) The term “State” means each of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+&emsp;(3) The term “State” means each of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa,the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
 
 #### (b) Persons ineligible for Federal agricultural program benefits
 
@@ -50,7 +50,7 @@ The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, and is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(1)(C), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(1)(C), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 

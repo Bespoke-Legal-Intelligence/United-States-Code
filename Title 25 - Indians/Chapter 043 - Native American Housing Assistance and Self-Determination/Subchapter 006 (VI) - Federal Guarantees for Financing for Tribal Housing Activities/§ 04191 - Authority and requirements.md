@@ -22,6 +22,8 @@ A guarantee made under this subchapter shall guarantee repayment of 95 percent o
 
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
 #### Amendments
 
 2004—Subsec. (d). Pub. L. 108–393 added subsec. (d).
@@ -32,5 +34,7 @@ Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) a
 
 #### Effective Date
 
-Section 606 of Pub. L. 104–330 provided that: “This title \[enacting this subchapter\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
+Pub. L. 104–330, title VI, §606, Oct. 26, 1996, 110 Stat. 4048, provided that: “This title \[enacting this subchapter\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
+
+\[Another section 606 of Pub. L. 104–330 is classified to section 4196 of this title.\]
 

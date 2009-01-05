@@ -116,7 +116,7 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
 
-&emsp;(7) whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
+&emsp;(7) whether the quality of reviews under this section for devices for which no guidance hasbeen issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
 
 &emsp;(8) whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
 

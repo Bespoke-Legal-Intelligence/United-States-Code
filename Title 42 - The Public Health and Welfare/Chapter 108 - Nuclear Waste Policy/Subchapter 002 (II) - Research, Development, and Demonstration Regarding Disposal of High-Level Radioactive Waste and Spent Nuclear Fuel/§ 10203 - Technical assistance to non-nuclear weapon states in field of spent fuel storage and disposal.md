@@ -12,7 +12,7 @@ It shall be the policy of the United States to cooperate with and provide techni
 
 #### (c) Notification to non-nuclear weapon states; expressions of interest
 
-Following publication of the annual joint notice referred to in paragraph (2), the Secretary of State shall inform the governments of non-nuclear weapon states and, as feasible, the organizations operating nuclear powerplants in such states, that the United States is prepared to cooperate with and provide technical assistance to non-nuclear weapon states in the fields of spent fuel storage and disposal, as set forth in the joint notice. The Secretary of State shall also solicit expressions of interest from non-nuclear weapon state governments and non-nuclear weapon state nuclear power reactor operators concerning their participation in expanded United States cooperation and technical assistance programs in these fields. The Secretary of State shall transmit any such expressions of interest to the Department and the Commission.
+Following publication of the annual joint notice referred to in paragraph (2),<sup>1</sup> the Secretary of State shall inform the governments of non-nuclear weapon states and, as feasible, the organizations operating nuclear powerplants in such states, that the United States is prepared to cooperate with and provide technical assistance to non-nuclear weapon states in the fields of spent fuel storage and disposal, as set forth in the joint notice. The Secretary of State shall also solicit expressions of interest from non-nuclear weapon state governments and non-nuclear weapon state nuclear power reactor operators concerning their participation in expanded United States cooperation and technical assistance programs in these fields. The Secretary of State shall transmit any such expressions of interest to the Department and the Commission.
 
 #### (d) Funding requests
 
@@ -20,11 +20,11 @@ With his budget presentation materials for the Department and the Commission for
 
 #### (e) “Non-nuclear weapon state” defined
 
-For the purposes of this subsection,<sup>1</sup> the term “non-nuclear weapon state” shall have the same meaning as that set forth in article IX of the Treaty on the Non-Proliferation of Nuclear Weapons (21 U.S.C.<sup>2</sup> 438).
+For the purposes of this subsection,<sup>2</sup> the term “non-nuclear weapon state” shall have the same meaning as that set forth in article IX of the Treaty on the Non-Proliferation of Nuclear Weapons (21 U.S.C.<sup>3</sup> 438).
 
 #### (f) Unauthorized actions
 
-Nothing in this subsection <sup>1</sup> shall authorize the Department or the Commission to take any action not authorized under existing law.
+Nothing in this subsection <sup>2</sup> shall authorize the Department or the Commission to take any action not authorized under existing law.
 
 (Pub. L. 97–425, title II, §223, Jan. 7, 1983, 96 Stat. 2254.)
 
@@ -32,7 +32,9 @@ Nothing in this subsection <sup>1</sup> shall authorize the Department or the C
 
 The Treaty on the Non-Proliferation of Nuclear Weapons, referred to in subsec. (e), is set out in 21 UST 483; TIAS 6839.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2) of subsection (b),”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “UST”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “UST”.</i>
 

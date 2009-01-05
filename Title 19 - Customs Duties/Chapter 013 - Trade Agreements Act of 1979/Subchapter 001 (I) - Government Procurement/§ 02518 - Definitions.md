@@ -36,9 +36,13 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(iv) a party to the Dominican Republic-Central America-United States Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States; or
+&emsp;&emsp;&emsp;(iv) a party to the Dominican Republic-Central America-United States Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(v) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2005, and before July 2, 2006, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States.
+&emsp;&emsp;&emsp;(v) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2005, and before July 2, 2006, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
+
+&emsp;&emsp;&emsp;(vi) a party to the United States-Oman Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States; or
+
+&emsp;&emsp;&emsp;(vii) a party to the United States-Peru Trade Promotion Agreement, a product or service of that country or instrumentality which is covered under that agreement for procurement by the United States.
 
 #### (B) Rule of origin
 
@@ -68,29 +72,7 @@ As used in this subchapter—
 
 &emsp;The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, titleIII, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486.)
-
-#### Amendment of Paragraph (4)(A)
-
-<i>Pub. L. 110–138, title I, §107(a), title IV, §401, Dec. 14, 2007, 121 Stat. 1459, 1486, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, paragraph (4)(A) is amended—</i>
-
-<i>(1) by striking “or” at the end of clause (v);</i>
-
-<i>(2) by striking the period at the end of clause (vi) and inserting “; or”; and</i>
-
-<i>(3) by adding at the end the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>(vii) a party to the United States-Peru Trade Promotion Agreement, a product or service of that country or instrumentality which is covered under that agreement for procurement by the United States.</i>
-
-<i>Pub. L. 109–283, title I, §107(a), title IV, §401, Sept. 26, 2006, 120 Stat. 1195, 1209, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, paragraph (4)(A) is amended—</i>
-
-<i>(1) by striking “or” at the end of clause (iv);</i>
-
-<i>(2) by striking the period at the end of clause (v) and inserting “; or”; and</i>
-
-<i>(3) by adding at the end the following new clause:</i>
-
-&emsp;&emsp;&emsp;<i>(vi) a party to the United States-Oman Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States.</i>
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486.)
 
 #### Amendment of Section
 
@@ -110,11 +92,15 @@ Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96�
 
 #### Amendments
 
-2006—Par. (4)(A)(v). Pub. L. 109–169, §§106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note set out below.
+2007—Par. (4)(A)(vii). Pub. L. 110–138, §§107(c), 401, temporarily added cl. (vii). See Effective and Termination Dates of 2007 Amendment note below.
+
+2006—Par. (4)(A)(v). Pub. L. 109–169, §§106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note below.
+
+Par. (4)(A)(vi). Pub. L. 109–283, §§107(c), 401, temporarily added cl. (vi). See Effective and Termination Dates of 2006 Amendment note below.
 
 2005—Par. (4)(A)(iv). Pub. L. 109–53, §§107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Par.(4)(A)(iii). Pub. L. 108–286, §§106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note set out below.
+2004—Par.(4)(A)(iii). Pub. L. 108–286, §§106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note below.
 
 1996—Par. (4)(D). Pub. L. 104–295 substituted “under the Agreement” for “under the the Agreement”.
 
@@ -132,11 +118,11 @@ Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force (Feb. 1, 2009) and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 
-Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force (Jan. 1, 2009) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 
@@ -144,7 +130,7 @@ Amendment by Pub. L. 109–169 effective on the date on which the United States-
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-UnitedStates Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 

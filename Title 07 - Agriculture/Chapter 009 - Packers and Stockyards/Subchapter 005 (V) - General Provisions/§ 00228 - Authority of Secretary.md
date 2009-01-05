@@ -48,3 +48,17 @@ Subsecs. (d) to (f). Pub. L. 103–354, §293(b)(2), (3), redesignated subsecs. 
 
 1958—Pub. L. 85–909 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Regulations
+
+Pub. L. 110–234, title XI, §11006, May 22, 2008, 122 Stat. 1358, and Pub. L. 110–246, §4(a), title XI, §11006, June 18, 2008, 122 Stat. 1664, 2120, provided that: “As soon as practicable, but not later than 2 years after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall promulgate regulations with respect to the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.) to establish criteria that the Secretary will consider in determining—
+
+&emsp;“(1) whether an undue or unreasonable preference or advantage has occurred in violation of such Act;
+
+&emsp;“(2) whether a live poultry dealer has provided reasonable notice to poultry growers of any suspension of the delivery of birds under a poultry growing arrangement;
+
+&emsp;“(3) when a requirement of additional capital investments over the life of a poultry growing arrangement or swine production contract constitutes a violation of such Act; and
+
+&emsp;“(4) if a live poultry dealer or swine contractor has provided a reasonable period of time for a poultry grower or a swine production contract grower to remedy a breach of contract that could lead to termination of the poultry growing arrangement or swine production contract.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+

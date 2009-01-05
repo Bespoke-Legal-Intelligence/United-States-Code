@@ -14,7 +14,7 @@ The Director of the Office of Science and Technology Policy shall serve as Chair
 
 #### (d) Participation of unnamed Federal agencies in meetings; invitations to attend meetings
 
-The Chairman may (1) request the head of any Federal agency not named in subsection (b) of this section to designate a representative to participate in meetings or parts of meetings of the Council concerned with matters of substantial interest to such agency, and (2) invite other persons to attend meetings of the Council.
+The Chairman may (1) request the head of any Federal agency not named in subsection (b) of this section to designate a representative to participate in meetings or parts of meetings of theCouncil concerned with matters of substantial interest to such agency, and (2) invite other persons to attend meetings of the Council.
 
 #### (e) Consideration of problems and developments affecting more than one Federal agency; recommendations
 
@@ -36,7 +36,7 @@ The Council shall perform such other related advisory duties as shall be assigne
 
 For the purpose of carrying out the provisions of this section, each Federal agency represented on the Council shall furnish necessary assistance to the Council. Such assistance may include—
 
-&emsp;(1) detailing employees to the Council to perform such functions, consistent with thepurposes of this section, as the Chairman may assign to them, and
+&emsp;(1) detailing employees to the Council to perform such functions, consistent with the purposes of this section, as the Chairman may assign to them, and
 
 &emsp;(2) undertaking, upon request of the Chairman, such special studies for the Council as come within the functions herein assigned.
 

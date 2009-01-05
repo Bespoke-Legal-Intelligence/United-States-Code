@@ -22,7 +22,7 @@ Appointments From Interested Organizations.—(1) Subject to paragraph (2), the 
 
 (d)
 
-Chairman.—The Chairman of the Board of Governors shall be chosen by the members of the Board of Governors from among the members of the Board referred to in paragraphs (1) and (2) of subsection (b) and shall serve for a term of two years. The position of Chairman shall be held on a rotating basis between members of the Board appointed by the Secretary of the Air Force under paragraph (1) of subsection (b) and members of the Board selected under paragraph (2) of that subsection.
+Chairman.—The Chairman of the Board of Governors shall be chosen by the members of the Board of Governors from among the members of the Board referred to in paragraphs (1) and (2) of subsection (b) and shall serve for a term of two years. The position of Chairman shall be held on a rotating basis between members of the Board appointed by the Secretary of the Air Force under paragraph (1) of subsection\(b) and members of the Board selected under paragraph (2) of that subsection.
 
 (e)
 
@@ -44,7 +44,7 @@ Personal Liability for Breach of a Fiduciary Duty.—(1) Subject to paragraph (2
 
 &emsp;(C) Participation in any transaction from which the member directly or indirectly derives an improper personal benefit.
 
-(3) Nothing in this subsection shall be construed as rendering section 207 or 208 of title 18 inapplicable in any respect to a member of the Board of Governors who is a member of the Air Force on active duty, an officer on a retired listof the Air Force, or an employee of the United States.
+(3) Nothing in this subsection shall be construed as rendering section 207 or 208 of title 18 inapplicable in any respect to a member of the Board of Governors who is a member of the Air Force on active duty, an officer on a retired list of the Air Force, or an employee of the United States.
 
 (g)
 

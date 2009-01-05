@@ -1,36 +1,64 @@
 ### §2102. Limitations on assistance furnished
 
-(a) The assistance authorized by section 2101(a) of this title shall be afforded under one of the following plans, at the option of the veteran—
+(a) The assistance authorized by section 2101(a) of this title shall be afforded under one of the following plans, at the option of the individual—
 
-&emsp;(1) where the veteran elects to construct a housing unit on land to be acquired by such veteran, the Secretary shall pay not to exceed 50 percent of the total cost to the veteran of (A) the housing unit and (B) the necessary land upon which it is to be situated;
+&emsp;(1) where the individual elects to construct a housing unit on land to be acquired by such individual, the Secretary shall pay not to exceed 50 percent of the total cost to the individual of (A) the housing unit and (B) the necessary land upon which it is to be situated;
 
-&emsp;(2) where the veteran elects to construct a housing unit on land acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the veteran of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the veteran of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the veteran of the land necessary for such housing unit;
+&emsp;(2) where the individual elects to construct a housing unit on land acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the individual of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the individual of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the individual of the land necessary for such housing unit;
 
-&emsp;(3) where the veteran elects to remodel a dwelling which is not adapted to the requirements of such veteran's disability, acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the veteran of such remodeling; or (B) 50 percent of the cost to the veteran of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the veteran of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the veteran of such dwelling and the necessary land upon which it is situated; and
+&emsp;(3) where the individual elects to remodel a dwelling which is not adapted to the requirements of such individual's disability, acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the individual of such remodeling; or (B) 50 percent of the cost to the individual of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the individual of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the individual of such dwelling and the necessary land upon which it is situated; and
 
-&emsp;(4) where the veteran has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the veteran of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the veteran of such housing unit and the necessary land upon which it is situated.
+&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the individual of such housing unit and the necessary land upon which it is situated.
 
 (b) Except as provided in section 2104(b) of this title, the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
 
-&emsp;(1) the actual cost, or, in the case of a veteran acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
+&emsp;(1) the actual cost, or, in the case of an individual acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
 
-&emsp;(2) $10,000.
+&emsp;(2) $12,000.
 
-(c) The amount of assistance afforded under subsection (a) for a veteran authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the veteran, is also vested in any other person, if the veteran resides in the housing unit.
+(c) The amount of assistance afforded under subsection (a) for an individual authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the individual, is also vested in any other person, if the individual resides in the housing unit.
 
-(d)(1) The aggregate amount of assistance available to a veteran under sections 2101(a) and 2102A of this title shall be limited to $50,000.
+(d)(1) The aggregate amount of assistance available to an individual under sections 2101(a) and 2102A of this title shall be limited to $60,000.
 
-(2) The aggregate amount of assistance available to a veteran under sections 2101(b) and 2102A of this title shall be limited to $10,000.
+(2) The aggregate amount of assistance available to an individual under sections 2101(b) and 2102A of this title shall be limited to $12,000.
 
 (3) No veteran may receive more than three grants of assistance under this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398.)
+(e)(1) Effective on October 1 of each year (beginning in 2009), the Secretary shall increase the amounts described in subsection (b)(2) and paragraphs (1) and (2) of subsection (d) in accordance with this subsection.
+
+(2) The increase in amounts under paragraph (1) to take effect on October 1 of a year shall be by an amount of such amounts equal to the percentage by which—
+
+&emsp;(A) the residential home cost-of-construction index for the preceding calendar year, exceeds
+
+&emsp;(B) the residential home cost-of-construction index for the year preceding the year described in subparagraph (A).
+
+(3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861.)
 
 #### Prior Provisions
 
 Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to determination of amount of mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–289, §2602(b)(2)(A)(i), substituted “individual” for “veteran” wherever appearing.
+
+Subsec. (a)(3). Pub. L. 110–289, §2602(b)(2)(A)(ii), substituted “individual's” for “veteran's”.
+
+Subsec. (b)(1). Pub. L. 110–289, §2602(b)(2)(B), substituted “an individual” for “a veteran”.
+
+Subsec. (b)(2). Pub. L. 110–289, §2605(a)(1), substituted “$12,000” for “$10,000”.
+
+Subsec. (c). Pub. L. 110–289, §2602(b)(2)(C), substituted “an individual” for “a veteran” and substituted “the individual” for “the veteran” in two places.
+
+Subsec. (d). Pub. L. 110–289, §2602(b)(2)(D), substituted “an individual” for “a veteran” in two places.
+
+Subsec. (d)(1). Pub. L. 110–289, §2605(a)(2)(A), substituted “$60,000” for “$50,000”.
+
+Subsec. (d)(2). Pub. L. 110–289, §2605(a)(2)(B), substituted “$12,000” for “$10,000”.
+
+Subsec. (e). Pub. L. 110–289, §2605(a)(3), added subsec. (e).
 
 2006—Subsec. (a). Pub. L. 109–233, §101(b)(1), in introductory provisions, struck out “shall be limited in the case of any veteran to one housing unit, and necessary land therefor, and” before “shall be afforded” and substituted “veteran—” for “veteran but shall not exceed $50,000 in any one case—”.
 
@@ -86,9 +114,13 @@ Subsec. (b). Pub. L. 96–385, §301(b)(3), added subsec. (b).
 
 1972—Pub. L. 92–341 substituted “$17,500” for “$12,500”.
 
-1970—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, wherethe veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
+1970—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, where the veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
 
 1969—Pub. L. 91–22 substituted “$12,500” for “$10,000”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. B, title VI, §2605(b), July 30, 2008, 122 Stat. 2861, provided that: “The amendments made by this section \[amending this section\] shall take effect on July 1, 2008, and shall apply with respect to payments made in accordance with section 2102 of title 38, United States Code, on or after that date.”
 
 #### Effective Date of 2003 Amendment
 

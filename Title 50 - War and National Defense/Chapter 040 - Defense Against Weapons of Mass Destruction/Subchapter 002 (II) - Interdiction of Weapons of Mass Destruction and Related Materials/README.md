@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—INTERDICTION OF WEAPONS OF MASS DESTRUCTION AND RELATED MATERIALS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b) of this section”.</i>
-
 
 ---
 

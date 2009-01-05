@@ -2,11 +2,15 @@
 
 (a)
 
-Market Research.—Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under section 4124(d) of title 18, the Secretary of Defense shall conduct market research to determine whether the Federal Prison Industries product is comparable to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery.
+Products for Which Federal Prison Industries Does Not Have Significant Market Share.—(1) Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under section 4124(d) of title 18 for which Federal Prison Industries does not have a significant market share, the Secretary of Defense shall conduct market research to determine whether the product is comparable to products available from the private sector that best meet the needs of the Department in terms of price, quality, and time of delivery.
+
+(2) If the Secretary determines that a Federal Prison Industries product described in paragraph (1) is not comparable in price, quality, or time of delivery to products of the private sector that best meets the needs of the Department in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product, or shall make an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
 
 (b)
 
-Competition Requirement.—If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, or time of delivery to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product or shall make an individual purchase under a multiple award contract. In conducting such a competition or making such a purchase, the Secretary shall consider a timely offer from Federal Prison Industries.
+Products for Which Federal Prison Industries Has Significant Market Share.—(1) The Secretary of Defense may purchase a product listed in the latest edition of the Federal Prison Industries catalog for which Federal Prison Industries has a significant market share only if the Secretary uses competitive procedures for the procurement of the product or makes an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
+
+(2) For purposes of this subsection, Federal Prison Industries shall be treated as having a significant share of the market for a product if the Secretary, in consultation with the Administrator of Federal Procurement Policy, determines that the Federal Prison Industries share of the Department of Defense market for the category of products including such product is greater than 5 percent.
 
 (c)
 
@@ -54,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “competitive procedures” has the meaning given such term in section 2302(2) of this title.
 
-&emsp;(2) The term “market research” means obtaining specific information about the price,quality, and time of delivery of products available in the private sector through a variety of means, which may include—
+&emsp;(2) The term “market research” means obtaining specific information about the price, quality, and time of delivery of products available in the private sector through a variety of means, which may include—
 
 &emsp;&emsp;(A) contacting knowledgeable individuals in government and industry;
 
@@ -62,9 +66,19 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) interchange meetings or pre-solicitation conferences with potential offerors.
 
-(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612; Pub. L. 109–163, div. A, title X, §1056(c)(4), Jan. 6, 2006, 119 Stat. 3439.)
+(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612; Pub. L. 109–163, div. A, title X, §1056(c)(4), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 110–181, div. A, title VIII, §827(a)(1), Jan. 28, 2008, 122 Stat. 228.)
 
 #### Amendments
+
+2008—Subsecs. (a), (b). Pub. L. 110–181 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a)
+
+Market Research.—Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under section 4124(d) of title 18, the Secretary of Defense shall conduct market research to determine whether the Federal Prison Industries product is comparable to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery.
+
+“(b)
+
+Competition Requirement.—If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, or time of delivery to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product or shall make an individual purchase under a multiple award contract. In conducting such a competition or making such a purchase, the Secretary shall consider a timely offer from Federal Prison Industries.”
 
 2006—Subsec. (b). Pub. L. 109–163 substituted “competition” for “compeititon” in text.
 
@@ -73,6 +87,10 @@ Definitions.—In this section:
 Subsec. (b). Pub. L. 107–314, §819(a)(1)(B), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, and time of delivery to products available from the private sector, the Secretary shall use competitive procedures for the procurement of the product. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries for award in accordance with the specifications and evaluation factors specified in the solicitation.”
 
 Subsec. (c) to (g). Pub. L. 107–314, §819(a)(1)(C), added subsecs. (c) to (g).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VIII, §827(a)(2), Jan. 28, 2008, 122 Stat. 228, provided that: “The amendment made by subsection (a) \[probably means par. (1), which amended this section\] shall take effect 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -86,7 +104,23 @@ Pub. L. 107–107, div. A, title VIII, §811(b), Dec. 28, 2001, 115 Stat. 1181, 
 
 Pub. L. 107–314, div. A, title VIII, §819(b), Dec. 2, 2002, 116 Stat. 2613, provided that:
 
-“(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
+“(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation toimplement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
 “(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication.”
+
+#### List of Products for Which Federal Prison Industries Has Significant Market Share
+
+Pub. L. 110–181, div. A, title VIII, §827(b), Jan. 28, 2008, 122 Stat. 228, provided that:
+
+“(1)
+
+Initial list.—Not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall publish a list of product categories for which Federal Prison Industries’ share of the Department of Defense market is greater than 5 percent, based on the most recent fiscal year for which data is available.
+
+“(2)
+
+Modification.—The Secretary may modify the list published under paragraph (1) at any time if the Secretary determines that new data require adding a product category to the list or omitting a product category from the list.
+
+“(3)
+
+Consultation.—The Secretary shall carry out this subsection in consultation with the Administrator for Federal Procurement Policy.”
 

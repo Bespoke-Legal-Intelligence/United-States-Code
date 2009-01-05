@@ -2,7 +2,7 @@
 
 #### (a) Bank reserves
 
-(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a, 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agencythat the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
+(1)(A) Except as provided in paragraph (2) of this subsection, sections 371a, 371b, 371b–1,<sup>1</sup> 374, 374a, 461, 464, and 465 of this title shall apply to every Federal branch and Federal agency of a foreign bank in the same manner and to the same extent as if the Federal branch or Federal agency were a member bank as that term is defined in section 221 of this title; but the Board either by general or specific regulation or ruling may waive the minimum and maximum reserve ratios prescribed under sections 461, 463, 464, 465, and 466 of this title and may prescribe any ratio, not more than 22 per centum, for any obligation of any such Federal branch or Federal agency that the Board may deem reasonable and appropriate, taking into consideration the character of business conducted by such institutions and the need to maintain vigorous and fair competition between and among such institutions and member banks. The Board may impose reserve requirements on Federal branches and Federal agencies in such graduated manner as it deems reasonable and appropriate.
 
 (B) After consultation and in cooperation with the State bank supervisory authorities, the Board may make applicable to any State branch or State agency any requirement made applicable to, or which the Board has authority to impose upon, any Federal branch or agency under subparagraph (A) of this paragraph.
 
@@ -228,7 +228,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 

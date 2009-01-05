@@ -22,10 +22,14 @@
 | [2785\.](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md) | Remittance addresses: regulation of alterations. |
 | [2786\.](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md) | Department of Defense payments by electronic transfers of funds: exercise of authority for waivers. |
 | [2787\.](%C2%A7%2002787%20-%20Reports%20of%20survey.md) | Reports of survey. |
+| [2788\.](%C2%A7%2002788%20-%20Property%20accountability%20regulations.md) | Property accountability: regulations. |
+| [2789\.](%C2%A7%2002789%20-%20Individual%20equipment%20unauthorized%20disposition.md) | Individual equipment: unauthorized disposition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title III, §375(b), Jan. 28, 2008, 122 Stat. 83, added items 2788 and 2789.
 
 2006—Pub. L. 109–364, div. A, title X, §1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
 
@@ -90,3 +94,5 @@ Pub. L. 96–418, title V, §506(b), Oct. 10, 1980, 94 Stat. 1766, added item 27
 - [&sect; 02785 - Remittance addresses regulation of alterations](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md)
 - [&sect; 02786 - Department of Defense payments by electronic transfers of funds exercise of authority for waivers](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md)
 - [&sect; 02787 - Reports of survey](%C2%A7%2002787%20-%20Reports%20of%20survey.md)
+- [&sect; 02788 - Property accountability regulations](%C2%A7%2002788%20-%20Property%20accountability%20regulations.md)
+- [&sect; 02789 - Individual equipment unauthorized disposition](%C2%A7%2002789%20-%20Individual%20equipment%20unauthorized%20disposition.md)

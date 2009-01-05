@@ -14,7 +14,7 @@ The Congress finds the following:
 
 #### Amendments
 
-1992—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions andstruck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+1992—Pub. L. 102–573 substituted “finds the following:” for “finds that—” in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
 
 #### Short Title of 2000 Amendment
 

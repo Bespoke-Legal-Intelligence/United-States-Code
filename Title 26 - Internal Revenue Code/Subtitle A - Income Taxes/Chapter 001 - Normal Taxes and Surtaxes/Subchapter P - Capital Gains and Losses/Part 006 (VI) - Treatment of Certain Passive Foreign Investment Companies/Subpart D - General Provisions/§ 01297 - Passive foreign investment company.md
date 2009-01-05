@@ -94,7 +94,7 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 &emsp;&emsp;(B) any exchange or other market which the Secretary determines has rules adequate to carry out the purposes of this subsection.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572, §1296; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887; renumbered §1297 and amended Pub. L. 105–34, title XI, §§1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, 111 Stat. 971, 972, 977; Pub. L. 105–206, title VI, §6011(b)(1), (d), July 22, 1998, 112 Stat. 817, 818; Pub. L. 110–172, §11(a)(24)(A), (g)(18), Dec. 29, 2007, 121 Stat. 2486, 2491.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572, §1296; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887; renumbered §1297 and amended Pub. L. 105–34, title XI, §§1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, 111 Stat. 971, 972, 977; Pub. L. 105–206, title VI, §6011(b)(1), (d), July 22, 1998, 112 Stat. 817, 818; Pub. L.110–172, §11(a)(24)(A), (g)(18), Dec. 29, 2007, 121 Stat. 2486, 2491.)
 
 #### References in Text
 

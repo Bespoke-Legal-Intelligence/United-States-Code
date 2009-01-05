@@ -14,7 +14,7 @@ A prior part C, consisting of sections 6341 to 6346, related to voluntary indust
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 06341 - Definitions](%C2%A7%2006341%20-%20Definitions.md)
-- [&sect; 06342 - Survey and registry](%C2%A7%2006342%20-%20Survey%20and%20registry.md)
+- [&sect; 06342 - Survey and Registry](%C2%A7%2006342%20-%20Survey%20and%20Registry.md)
 - [&sect; 06343 - Waste energy recovery incentive grant program](%C2%A7%2006343%20-%20Waste%20energy%20recovery%20incentive%20grant%20program.md)
 - [&sect; 06344 - Additional incentives for recovery, use, and prevention of industrial waste energy](%C2%A7%2006344%20-%20Additional%20incentives%20for%20recovery%2C%20use%2C%20and%20prevention%20of%20industrial%20waste%20energy.md)
 - [&sect; 06345 - Clean Energy Application Centers](%C2%A7%2006345%20-%20Clean%20Energy%20Application%20Centers.md)

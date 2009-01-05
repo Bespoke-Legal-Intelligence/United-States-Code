@@ -12,7 +12,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 Pub. L. 106–408, §1(a), Nov. 1, 2000, 114 Stat. 1762, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000’.”
 
-Pub. L. 106–408, title I, §101(a), Nov. 1, 2000, 114 Stat. 1763, provided that: “This title \[enacting sections 669h–1, 669h–2, 669k, 742b–1, and 777m of this title, amending sections 669c, 669d, 669g, 669h, 669i, 777c, 777d and 777h of this title and section 9504 of Title 26, Internal Revenue Code, enacting provisions set out as notesunder this section and section 777 of this title, and repealing provisions set out as a note under section 777 of this title\] may be cited as the ‘Wildlife and Sport Fish Restoration Programs Improvement Act of 2000’.”
+Pub. L. 106–408, title I, §101(a), Nov. 1, 2000, 114 Stat. 1763, provided that: “This title \[enacting sections 669h–1, 669h–2, 669k, 742b–1, and 777m of this title, amending sections 669c, 669d, 669g, 669h, 669i, 777c, 777d and 777h of this title and section 9504 of Title 26, Internal Revenue Code, enacting provisions set out as notes under this section and section 777 of this title, and repealing provisions set out as a note under section 777 of this title\] may be cited as the ‘Wildlife and Sport Fish Restoration Programs Improvement Act of 2000’.”
 
 #### Short Title of 1970 Amendment
 

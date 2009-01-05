@@ -62,7 +62,7 @@
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L.90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735; Pub. L. 106–65, div. A, title V, §524, Oct. 5, 1999, 113 Stat. 599; Pub. L. 109–364, div. A, title V, §525(d), Oct. 17, 2006, 120 Stat. 2195.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,7 @@ Pub. L. 103–337, §1070(b)(2), made technical correction to directory language
 
 Subsec. (g)(2). Pub. L. 103–337, §1070(d)(5)(B), substituted “paragraph (1)” for “clause (1) of this subsection”.
 
-1993—Subsec. (e)(6). Pub. L. 103–160, §524(c), as amended by Pub. L. 103–337, §1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
+1993—Subsec. (e)(6). Pub. L. 103–160, §524(c), as amended by Pub. L. 103–337, §1070(b)(2), inserted “, unless thetechnician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
 
 Subsec. (h). Pub. L. 103–160, §524(d), struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
 
@@ -200,7 +200,7 @@ Section 1 of Pub. L. 90–486 provided: “That this Act \[amending this section
 
 Pub. L. 101–189, div. A, title V, §506(a)–(c), Nov. 29, 1989, 103 Stat. 1438, 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(2), Nov. 30, 1993, 107 Stat. 1656.
 
-Pub. L. 100–456, div. A, title V, §523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, title V, §506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
+Pub. L. 100–456, div. A, title V, §523, Sept. 29, 1988, 102 Stat. 1974, as amended by Pub. L. 101–189, div. A, titleV, §506(d), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(2), Nov. 5, 1990, 104 Stat. 1719, which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by Pub. L. 103–160, div. A, title V, §523(b)(1), Nov. 30, 1993, 107 Stat. 1656.
 
 \[Pub. L. 103–160, div. A, title V, §523(c), Nov. 30, 1993, 107 Stat. 1656, provided that: “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act \[Nov. 30, 1993\] who under the provisions of law repealed by subsection (b) \[repealing section 523 of Pub. L. 100–456 and section 506(a)–(c) of Pub. L. 101–189, formerly set out as notes above\] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician's military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) \[amending this section\] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician's next mililitary \[sic\] promotion.”\]
 
@@ -216,7 +216,7 @@ Civil Service Retirement Credit.—A period of service performed under section 7
 
 Covered Individuals.—Subsection (a) applies in the case of an individual who—
 
-&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with theOffice of Personnel Management in accordance with regulations under subsection (c);
+&emsp;“(1) before the end of the 14-month period beginning on the date of the enactment of this Act \[Nov. 14, 1986\], files appropriate written application with the Office of Personnel Management in accordance with regulations under subsection (c);
 
 &emsp;“(2) at the time of filing application under paragraph (1), is employed by the United States and is subject to subchapter III of chapter 83 of title 5, United States Code (other than under section 8344 of such title); and
 
@@ -266,7 +266,7 @@ Conditions for enrolling in a health benefits plan.—Any individual who satisfi
 
 #### Persons Employed Prior to January 1, 1969, Whose Employment Was Covered by Civil Service Retirement Provisions
 
-Section 5(d) of Pub. L. 90–486 provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(<i>l</i>) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
+Section 5(d) of Pub. L. 90–486 provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(<i>l</i>) of title 5\] do not apply to any person employed prior tothe effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
 
 #### Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions
 
@@ -308,7 +308,7 @@ Section 8 of Pub. L. 90–486 provided that:
 
 “(c) Each technician on the effective date of this Act \[see Effective Date note above\], whose position is converted to the General Schedule set forth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, who prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section, has earned, but has not been credited with, an increase in that rate, shall be granted credit for such increase before his rate of basic compensation is initially adjusted under that subsection.
 
-“(d) Each technician on the effective date of this Act whose position is converted to the General Schedule set forth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, shall be granted credit, for purposes of his first step increase under the General Schedule or prevailing rate schedule, for all satisfactory service performed by him since his last increase in compensation prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section.
+“(d) Each technician on the effective date of this Act whose position is converted to the General Schedule set forth in section 5332 of title 5, United States Code, or to the appropriate prevailing rate schedule, as applicable, shall be granted credit, for purposes of his first step increase under the General Schedule or prevailingrate schedule, for all satisfactory service performed by him since his last increase in compensation prior to the initial adjustment of his rate of basic compensation under subsection (a) of this section.
 
 “(e) An increase in rate of basic compensation by reason of the enactment of subsection (a) of this section shall not be considered to be an equivalent increase with respect to step increases for technicians whose positions are converted to the General Schedule set forth in section 5332 of title 5, United States Code, or the appropriate prevailing rate schedule under authority of this section.”
 

@@ -4,7 +4,7 @@
 
 (b) If its head approves, a department or organization within the Department of Defense may, upon request, perform work and services for, or furnish supplies to, any other of those departments or organizations, without reimbursement or transfer of funds.
 
-(c) If military or civilian personnel of a department or organization within the Department of Defense are assigned or detailed to another of those departments or organizations, and if the head of the department or organization to which they are transferred approves, their pay and allowances and the cost of transporting their dependents and household goods may be charged to an appropriation that is otherwise available for those purposes to that department or organization.
+(c) If military or civilian personnel of a department or organization within the Department of Defense are assigned or detailed to another of those departments or organizations, andif the head of the department or organization to which they are transferred approves, their pay and allowances and the cost of transporting their dependents and household goods may be charged to an appropriation that is otherwise available for those purposes to that department or organization.
 
 (d) No agency or official of the executive branch of the Federal Government may establish any regulation, program, or policy or take any other action which precludes, directly or indirectly, the Secretaries concerned from exercising the authority provided in this section.
 
@@ -63,4 +63,12 @@ Subsec. (a). Pub. L. 109–364, §2825(c)(1), struck out “and real estate” a
 1958—Pub. L. 85–861, §1(49)(A), substituted “property” for “supplies” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 85–861, §1(49)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+
+#### Distribution to Indian Health Service Facilities and Certain Health Centers; Property Disposal Priority
+
+Pub. L. 110–329, div. C, title VIII, §8075, Sept. 30, 2008, 122 Stat. 3638, provided that:
+
+“(a) During the current fiscal year and hereafter, the Secretary of Defense, in coordination with the Secretary of Health and Human Services, may carry out a program to distribute surplus dental and medical equipment of the Department of Defense, at no cost to the Department of Defense, to Indian Health Service facilities and to federally-qualified health centers (within the meaning of section 1905(<i>l</i>)(2)(B) of the Social Security Act (42 U.S.C. 1396d(<i>l</i>)(2)(B))).
+
+“(b) In carrying out this provision, the Secretary of Defense shall give the Indian Health Service a property disposal priority equal to the priority given to the Department of Defense and its twelve special screening programs in distribution of surplus dental and medical supplies and equipment.”
 

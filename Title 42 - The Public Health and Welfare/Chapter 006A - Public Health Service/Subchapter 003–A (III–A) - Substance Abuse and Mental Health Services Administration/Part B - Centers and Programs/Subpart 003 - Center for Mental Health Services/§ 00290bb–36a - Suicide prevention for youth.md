@@ -96,7 +96,7 @@ Section was formerly classified to section 290bb–36 of this title prior to ren
 
 Subsec. (a). Pub. L. 108–355, §3(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall award grants, contracts, or cooperative agreements to States, political subdivisions of States, Indian tribes, tribal organizations, public organizations, or private nonprofit organizations to establish programs to reduce suicide deaths in the United States among children and adolescents.”
 
-Subsec. (b). Pub. L. 108–355, §3(b)(1)(C), substituted “with the relevant Department of Health and Human Services agencies and suicide working groups.” for“among the Substance Abuse and Mental Health Services Administration, the relevant institutes at the National Institutes of Health, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and the Administration on Children and Families.”
+Subsec. (b). Pub. L. 108–355, §3(b)(1)(C), substituted “with the relevant Department of Health and Human Services agencies and suicide working groups.” for “among the Substance Abuse and Mental Health Services Administration, the relevant institutes at the National Institutes of Health, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and the Administration on Children and Families.”
 
 Subsec. (c). Pub. L. 108–355, §3(b)(1)(D)(i), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or federally recognized Indian tribe or tribal organization desiring” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization desiring” in introductory provisions.
 
@@ -128,7 +128,7 @@ Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out “, contract,” afte
 
 Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out “, contracts,” after “grants”.
 
-Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant” in two places.
+Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “AState, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant” in two places.
 
 Subsec. (h). Pub. L. 108–355, §3(b)(1)(I), struck out “, contracts,” after “grants”.
 

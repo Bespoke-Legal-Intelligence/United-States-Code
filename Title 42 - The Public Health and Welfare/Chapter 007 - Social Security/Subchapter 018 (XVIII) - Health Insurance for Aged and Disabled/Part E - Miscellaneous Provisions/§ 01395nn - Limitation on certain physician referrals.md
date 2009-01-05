@@ -152,7 +152,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (2) Bona fide employment relationships
 
-&emsp;Any amount paid by an employer to a physician (or an immediate family member of suchphysician) who has a bona fide employment relationship with the employer for the provision of services if—
+&emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
 
 &emsp;&emsp;(A) the employment is for identifiable services,
 
@@ -176,7 +176,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(i) the arrangement is set out in writing, signed by the parties, and specifies the services covered by the arrangement,
 
-&emsp;&emsp;&emsp;(ii) the arrangement covers all of the services to be provided by the physician (or an immediate family member of such physician) to the entity,
+&emsp;&emsp;&emsp;(ii) the arrangement covers all of the services to be provided by the physician\(or an immediate family member of such physician) to the entity,
 
 &emsp;&emsp;&emsp;(iii) the aggregate services contracted for do not exceed those that are reasonable and necessary for the legitimate business purposes of the arrangement,
 
@@ -222,7 +222,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;In the case of an isolated financial transaction, such as a one-time sale of property or practice, if—
 
-&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are metwith respect to the entity in the same manner as they apply to an employer, and
+&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are met with respect to the entity in the same manner as they apply to an employer, and
 
 &emsp;&emsp;(B) the transaction meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -240,7 +240,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(iv) the arrangement is pursuant to an agreement that is set out in writing and that specifies the services to be provided by the parties and the compensation for services provided under the agreement,
 
-&emsp;&emsp;&emsp;(v) the compensation paid over the term of the agreement is consistent with fair market value and the compensation per unit of services is fixed in advance and is not determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
+&emsp;&emsp;&emsp;(v) the compensation paid over the term of the agreement is consistent with fair market value and the compensation per unit of services is fixed in advance and isnot determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
 
 &emsp;&emsp;&emsp;(vi) the compensation is provided pursuant to an agreement which would be commercially reasonable even if no referrals were made to the entity, and
 
@@ -280,7 +280,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
-&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penaltyor proceeding under section 1320a–7a(a) of this title.
+&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (5) Failure to report information
 
@@ -368,7 +368,7 @@ For purposes of this section:
 
 #### (ii) Faculty practice plans
 
-&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
+&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency trainingprogram in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
 
 #### (5) Referral; referring physician
 
@@ -410,6 +410,8 @@ For purposes of this section:
 
 &emsp;&emsp;(K) Inpatient and outpatient hospital services.
 
+&emsp;&emsp;(L) Outpatient speech-language pathology services.
+
 #### (7) Specialty hospital
 
 #### (A) In general
@@ -438,11 +440,11 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) for which the type of categories described in subparagraph (A) at any time on or after such date is no different than the type of such categories as of such date;
 
-&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does notexceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
+&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does not exceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
 
 &emsp;&emsp;&emsp;(v) that meets such other requirements as the Secretary may specify.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543.)
 
 #### References in Text
 
@@ -452,7 +454,7 @@ Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesig
 
 Part C of this subchapter, referred to in subsec. (b)(3)(E), is classified to section 1395w–21 et seq. of this title.
 
-Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)”, meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
+Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)”, meaning section 1860D–4(e)(6) of the Social SecurityAct, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -463,6 +465,8 @@ Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to se
 A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
+
+2008—Subsec. (h)(6)(L). Pub. L. 110–275 added subpar. (L).
 
 2003—Subsec. (b)(5). Pub. L. 108–173, §101(e)(8)(B), added par. (5).
 
@@ -496,13 +500,13 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 1990—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence andinserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence and inserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors.”
 
 Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
-Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
+Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432,§160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
 Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service,” for “in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service,” in subpar. (A) and struck out “in the case of another clinical laboratory service,” after “subparagraph (C),” in subpar. (B).
 
@@ -511,6 +515,10 @@ Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–275 applicable to services furnished on or after July 1, 2009, see section 143(c) of Pub. L. 110–275, set out as a note under section 1395k of this title.
 
 #### Effective Date of 1999 Amendment
 

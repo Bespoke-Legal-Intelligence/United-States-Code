@@ -30,7 +30,7 @@
 
 (5) It is the intent of the Congress that a Member of or Member-elect to Congress may not mail as franked mail—
 
-&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration, or other text laudatory and complimentary of any Member of, or Member-elect to, Congress on a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
+&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration, or other text laudatory and complimentary of any Member of, or Member-elect to, Congresson a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
 
 &emsp;(B) mail matter which constitutes or includes—
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.
 
-> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, asthe Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
+> The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.
 
 (6)(A) It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—
 
@@ -74,7 +74,7 @@
 
 (b)(1) The Vice President, each Member of or Member-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House), the Legislative Counsels of the House of Representatives and the Senate, the Law Revision Counsel of the House of Representatives, and the Senate Legal Counsel, may send, as franked mail, matter relating to their official business, activities, and duties, as intended by Congress to be mailable as franked mail under subsection (a)(2) and (3) of this section.
 
-(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer's name during the period of the vacancy.
+(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized personmay exercise the franking privilege in the officer's name during the period of the vacancy.
 
 (3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
 
@@ -216,7 +216,7 @@ Pub. L. 103–283, title I, §§5, 6, July 22, 1994, 108 Stat. 1427, provided th
 
 “
 
-Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 (2 U.S.C.58(b)(3)(A)(iii)) is increased by $50,000: <i>Provided</i>, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
+Sec. 5. Effective October 1, 1994, each of the figures contained in section 506(b)(3)(A)(iii) of the Supplemental Appropriations Act, 1973 (2 U.S.C. 58(b)(3)(A)(iii)) is increased by $50,000: <i>Provided</i>, That, in any fiscal year beginning with fiscal year 1995, a Senator may use funds provided for official office expenses, but not to exceed $50,000, for mass mailing, as defined in section 6(b)(1) and all such mass mailings shall be under the frank.
 
 “
 

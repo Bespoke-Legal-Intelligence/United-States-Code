@@ -24,7 +24,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Elimination of Wool and Mohair Programs
 
-Pub. L. 103–130, §3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effective beginning December 31, 1995, the Secretary of Agriculture may not provide loans or payments for wool or mohair by using the funds of theCommodity Credit Corporation or under the authority of any law.”
+Pub. L. 103–130, §3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effective beginning December 31, 1995, the Secretary of Agriculture may not provide loans or payments for wool or mohair by using the funds of the Commodity Credit Corporation or under the authority of any law.”
 
 #### Other Price Support Programs in Effect on September 29, 1977
 

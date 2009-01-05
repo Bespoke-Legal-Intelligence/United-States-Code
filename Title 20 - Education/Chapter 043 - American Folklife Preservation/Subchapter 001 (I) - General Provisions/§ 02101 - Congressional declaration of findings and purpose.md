@@ -52,7 +52,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(D) Congress has consistently provided encouragement and support of American Folklife as an appropriate matter of concern to the Federal Government, passing legislation to reauthorize the Center eight times since its creation in 1976.
 
-&emsp;“(E) The American Folklife Center is the only unit in the Library of Congress which is not permanentlyauthorized. Since its establishment in 1976, the Center's collections and activities have been fully and successfully integrated into the Library of Congress. It is useful to statutorily conform the American Folklife Center with the rest of the Library of Congress.
+&emsp;“(E) The American Folklife Center is the only unit in the Library of Congress which is not permanently authorized. Since its establishment in 1976, the Center's collections and activities have been fully and successfully integrated into the Library of Congress. It is useful to statutorily conform the American Folklife Center with the rest of the Library of Congress.
 
 “(2)
 

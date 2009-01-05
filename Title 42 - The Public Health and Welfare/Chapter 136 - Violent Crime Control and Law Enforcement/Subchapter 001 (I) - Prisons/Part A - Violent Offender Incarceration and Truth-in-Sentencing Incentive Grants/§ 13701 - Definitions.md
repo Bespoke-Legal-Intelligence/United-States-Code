@@ -18,6 +18,10 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–360, §1, Oct. 8, 2008, 122 Stat. 4008, provided that: “This Act \[amending sections 14135, 14136, and 14136a of this title\] may be cited as the ‘Debbie Smith Reauthorization Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–248, title VI, §611, July 27, 2006, 120 Stat. 632, provided that: “This subtitle \[subtitle B (§§611–617) of title VI of Pub. L. 109–248, amending provisions set out as a note under section 13751 of this title\] may be cited as the ‘National Police Athletic League Youth Enrichment Reauthorization Act of 2006’.”
@@ -46,7 +50,7 @@ Pub. L. 108–405, title III, §301, Oct. 30, 2004, 118 Stat. 2272, provided tha
 
 Pub. L. 106–560, §1, Dec. 21, 2000, 114 Stat. 2784, provided that: “This Act \[enacting sections 13726 to 13726c of this title\] may be cited as the ‘Interstate Transportation of Dangerous Criminals Act of 2000’ or ‘Jeanna's Act’.”
 
-Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135e of this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a note under section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
+Pub. L. 106–546, §1, Dec. 19, 2000, 114 Stat. 2726, provided that: “This Act \[enacting sections 14135 to 14135eof this title and section 1565 of Title 10, Armed Forces, amending sections 3753, 3796kk–2, 14132, and 14133 of this title and sections 3563, 3583, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14135 of this title and section 1565 of Title 10, and amending provisions set out as a note under section 531 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘DNA Analysis Backlog Elimination Act of 2000’.”
 
 Pub. L. 106–386, div. B, §1001, Oct. 28, 2000, 114 Stat. 1491, provided that: “This division \[see Tables for classification\] may be cited as the ‘Violence Against Women Act of 2000’.”
 

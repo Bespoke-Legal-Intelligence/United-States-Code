@@ -16,7 +16,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 #### (1) State laws generally applicable
 
-&emsp;Nothing in subsection (a) of this section shall be construed to affect the applicabilityof State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
+&emsp;Nothing in subsection (a) of this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
 
 #### (2) State regulations not subject to exemption
 

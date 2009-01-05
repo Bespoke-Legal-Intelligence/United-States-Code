@@ -12,6 +12,12 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 2000—Pub. L. 106–200 inserted “(or other preferential treatment)” after “treatment”.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–234, title XV, §15401, May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, §4(a), title XV, §15401, June 18, 2008, 122 Stat. 1664, 2289, provided that: “This part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending sections 2703 and 2703a of this title and enacting provisions set out as notes under section 2703a of this title\] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008’ or the ‘HOPE II Act’.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–432, div. D, title V, §5001, Dec. 20, 2006, 120 Stat. 3181, provided that: “This title \[enacting section 2703a of this title, amending sections 2703 and 3203 of this title, and enacting provisions set out as a note under section 2703 of this title\] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006’.”
@@ -50,7 +56,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and thereby enhance the national security interests of the United States.
 
-&emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United Statesproducts compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
+&emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
 
 “(b)
 

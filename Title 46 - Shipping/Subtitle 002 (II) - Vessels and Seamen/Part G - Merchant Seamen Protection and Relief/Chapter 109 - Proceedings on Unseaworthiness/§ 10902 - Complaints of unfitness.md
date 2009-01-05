@@ -12,7 +12,7 @@
 
 &emsp;(A) make an entry in the official logbook of the vessel on the results of the examination; and
 
-&emsp;(B) submit a report on the examination to the district court of the United States at which the vessel is to arrive, with the report being admissible into evidence in any legal proceeding.
+&emsp;(B) submit a report on the examination to the district court of the United States atwhich the vessel is to arrive, with the report being admissible into evidence in any legal proceeding.
 
 (4) The master is liable to the Government for a civil penalty of not more than $100 each time the master, on receiving the certification referred to in paragraph (2) of this subsection—
 

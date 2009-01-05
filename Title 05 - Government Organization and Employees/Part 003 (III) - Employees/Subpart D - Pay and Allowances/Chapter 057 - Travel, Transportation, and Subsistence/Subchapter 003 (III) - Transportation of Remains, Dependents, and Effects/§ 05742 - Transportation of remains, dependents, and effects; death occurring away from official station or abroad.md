@@ -14,7 +14,21 @@
 
 &emsp;(1) the expense of preparing and transporting the remains to the home or official station of the employee, or such other place appropriate for interment as is determined by the head of the agency concerned, if death occurred while the employee was in a travel status away from his official station in the United States or while performing official duties outside the continental United States or in transit thereto or therefrom;
 
-&emsp;(2) the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and
+&emsp;(2) the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if—
+
+&emsp;&emsp;(A) the employee died while performing official duties outside the continental United States or in transit thereto or therefrom; or
+
+&emsp;&emsp;(B) in the case of an employee who was a party to a mandatory mobility agreement that was in effect when the employee died—
+
+&emsp;&emsp;&emsp;(i) the employee died in the circumstances described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;(ii)(I) the employee died as a result of disease or injury incurred while performing official duties—
+
+&emsp;&emsp;&emsp;&emsp;(aa) in an overseas location that, at the time such employee was performing such official duties, was within the area of responsibility of the Commander of the United States Central Command; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) of title 10) or an operation in response to an emergency declared by the President; and
+
+&emsp;&emsp;&emsp;(II) the employee's dependents were residing either outside the continental United States or within the continental United States when the employee died; and
 
 &emsp;(3) the travel expenses of not more than 2 persons to escort the remains of a deceased employee, if death occurred while the employee was in travel status away from his official station in the United States or while performing official duties outside the United States or in transit thereto or therefrom, from the place of death to the home or official station of such person, or such other place appropriate for interment as is determined by the head of the agency concerned.
 
@@ -30,7 +44,7 @@
 
 (e) Employees covered by this section include an employee who has been reassigned away from the employee's home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, §1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, §101(d) \[title V, §589(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, §1103(a), Jan. 28, 2008, 122 Stat. 346.)
 
 Historical and Revision Notes
 
@@ -66,11 +80,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2008—Subsec. (b)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and”.
+
 1998—Subsec. (b)(3). Pub. L. 105–277 added par. (3).
 
 1990—Subsec. (b)(1), (2). Pub. L. 101–510, §1206(d)(1), inserted “continental” after “outside the”.
 
 Subsec. (e). Pub. L. 101–510, §1206(d)(2), added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title XI, §1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Delegation of Functions
 

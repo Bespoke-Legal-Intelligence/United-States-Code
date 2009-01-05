@@ -47,7 +47,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of families receiving such assistance during the month that include an adult or a minor child head of household receiving such assistance; exceeds
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) of this section but have not been subject to such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
+&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) of this section but have notbeen subject to such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
 
 #### (2) 2-parent families
 
@@ -77,7 +77,7 @@
 
 #### (B) Eligibility changes not counted
 
-&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences ineligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
+&emsp;&emsp;The regulations required by subparagraph (A) shall not take into account families that are diverted from a State program funded under this part as a result of differences in eligibility criteria under a State program funded under this part and the eligibility criteria in effect during fiscal year 2005. Such regulations shall place the burden on the Secretary to prove that such families were diverted as a direct result of differences in such eligibility criteria.
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
@@ -329,7 +329,7 @@ Section 5003(b) of Pub. L. 105–33 provided that: “The amendment made by subs
 
 Amendment by section 5504 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
-Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
+Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
 #### Effective Date
 

@@ -8,13 +8,13 @@ Subject to the availability of amounts provided in advance in appropriations Act
 
 Grants under this section may be used to establish and develop programs to—
 
-&emsp;(1) assist State and local law enforcement agencies in enforcing State and local criminal laws relating to computer crime;
+&emsp;(1) assist State and local law enforcement agencies in enforcing State and local criminal laws relating to computer crime, including infringement of copyrighted works over the Internet;
 
-&emsp;(2) assist State and local law enforcement agencies in educating the public to prevent and identify computer crime;
+&emsp;(2) assist State and local law enforcement agencies in educating the public to prevent and identify computer crime, including infringement of copyrighted works over the Internet;
 
-&emsp;(3) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime;
+&emsp;(3) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime, including infringement of copyrighted works over the Internet;
 
-&emsp;(4) assist State and local law enforcement officers and prosecutors in acquiring computer and other equipment to conduct investigations and forensic analysis of evidence of computer crimes; and
+&emsp;(4) assist State and local law enforcement officers and prosecutors in acquiring computerand other equipment to conduct investigations and forensic analysis of evidence of computer crimes; and
 
 &emsp;(5) facilitate and promote the sharing of Federal law enforcement expertise and information about the investigation, analysis, and prosecution of computer crimes with State and local law enforcement officers and prosecutors, including the use of multijurisdictional task forces.
 
@@ -42,7 +42,7 @@ The Federal share of a grant received under this section may not exceed 90 perce
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2001 through 2004.
+&emsp;There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2013.
 
 #### (2) Limitations
 
@@ -56,7 +56,7 @@ The Federal share of a grant received under this section may not exceed 90 perce
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 106–572, §2, Dec. 28, 2000, 114 Stat. 3058.)
+(Pub. L. 106–572, §2, Dec. 28, 2000, 114 Stat. 3058; Pub. L. 110–403, title IV, §401(a), Oct. 13, 2008, 122 Stat. 4271.)
 
 #### References in Text
 
@@ -69,4 +69,10 @@ Section was enacted as part of the Computer Crime Enforcement Act, and not as pa
 #### Prior Provisions
 
 A prior section 3713, Pub. L. 90–351, title I, §103, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, provided for an Office of Community Anti-Crime Programs, prior to the general amendment of this subchapter by Pub. L. 98–473.
+
+#### Amendments
+
+2008—Subsec. (b)(1)–(3). Pub. L. 110–403, §401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
+
+Subsec. (e)(1). Pub. L. 110–403, §401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
 

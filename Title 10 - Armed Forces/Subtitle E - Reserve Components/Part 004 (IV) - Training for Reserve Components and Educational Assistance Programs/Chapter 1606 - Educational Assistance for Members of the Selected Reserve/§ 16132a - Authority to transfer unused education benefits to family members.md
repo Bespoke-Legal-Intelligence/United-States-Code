@@ -1,0 +1,128 @@
+### §16132a. Authority to transfer unused education benefits to family members
+
+(a)
+
+In General.—Subject to regulation prescribed by the Secretary of Defense, the Secretary concerned may permit a member described in subsection (b) who is entitled to basic educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such member's entitlement to such assistance, subject to the limitation under subsection (d).
+
+(b)
+
+Eligible Members.—A member referred to in subsection (a) is a member of the Selected Reserve of the Ready Reserve who, at the time of the approval of the member's request to transfer entitlement to basic educational assistance under this section, has completed—
+
+&emsp;(1) at least six years of service in the Selected Reserve and enters into an agreement to service <sup>1</sup> at least four more years as a member of the armed forces; or
+
+&emsp;(2) the years of service as determined in regulations pursuant to subsection (j).
+
+(c)
+
+Eligible Dependents.—A member approved to transfer an entitlement to basic educational assistance under this section may transfer the member's entitlement as follows:
+
+&emsp;(1) To the member's spouse.
+
+&emsp;(2) To one or more of the member's children.
+
+&emsp;(3) To a combination of the individuals referred to in paragraphs (1) and (2).
+
+(d)
+
+Limitation on Months of Transfer.—The total number of months of entitlement transferred by a member under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
+
+(e)
+
+Designation of Transferee.—A member transferring an entitlement to basic educational assistance under this section shall—
+
+&emsp;(1) designate the dependent or dependents to whom such entitlement is being transferred;
+
+&emsp;(2) designate the number of months of such entitlement to be transferred to each such dependent; and
+
+&emsp;(3) specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
+
+(f)
+
+Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 16133, a member approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at any time after the approval of the member's request to transfer such entitlement.
+
+(2) A member transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred. The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
+
+(3) Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
+
+(g)
+
+Commencement of Use.—A dependent to whom entitlement to basic educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
+
+&emsp;(1) in the case of entitlement transferred to a spouse, the completion by the member making the transfer of at least—
+
+&emsp;&emsp;(A) six years of service in the armed forces; or
+
+&emsp;&emsp;(B) the years of service as determined in regulations pursuant to subsection (j); or
+
+&emsp;(2) in the case of entitlement transferred to a child, both—
+
+&emsp;&emsp;(A) the completion by the member making the transfer of at least—
+
+&emsp;&emsp;&emsp;(i) ten years of service in the armed forces; or
+
+&emsp;&emsp;&emsp;(ii) the years of service as determined in regulations pursuant to subsection (j); and
+
+&emsp;&emsp;(B) either—
+
+&emsp;&emsp;&emsp;(i) the completion by the child of the requirements of a secondary school diploma (or equivalency certificate); or
+
+&emsp;&emsp;&emsp;(ii) the attainment by the child of 18 years of age.
+
+(h)
+
+Additional Administrative Matters.—(1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the member making the transfer at the rate of one month for each month of transferred entitlement that is used.
+
+(2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this chapter in the same manner as the member from whom the entitlement was transferred.
+
+(3) The monthly rate of educational assistance payable to a dependent to whom entitlement is transferred under this section shall be the monthly amount payable under sections 16131 and 16131a to the member making the transfer.
+
+(4) The death of a member transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+
+(5) The involuntary separation or retirement of the member—
+
+&emsp;(A) because of a nondiscretionary provision of law for age or years of service;
+
+&emsp;(B) because of a policy prescribed by the Secretary concerned mandating such separation or retirement based solely on age or years of service for the prescribed pay grade of an enlisted member;
+
+&emsp;(C) under section 16133(b); or
+
+&emsp;(D) because of medical disqualification which is not the result of gross negligence or misconduct of the member,
+
+> shall not affect the use of entitlement by the dependent to whom the entitlement is transferred.
+
+(6) A child to whom entitlement is transferred under this section may not use any entitlement so transferred after attaining the age of 26 years.
+
+(7) The administrative provisions of this chapter shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible member for purposes of such provisions.
+
+(8) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
+
+(i)
+
+Overpayment.—(1) In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the member making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685 of title 38.
+
+(2) Except as provided in paragraph (3), if a member's whose <sup>2</sup> eligibility is terminated under section 16134(2), the amount of any transferred entitlement under this section that is used by a dependent of the member as of the date of such termination shall be treated as an overpayment of basic educational assistance under paragraph (1).
+
+(3) Paragraph (2) shall not apply in the case of a member who fails to complete service agreed to by the member—
+
+&emsp;(A) by reason of the death of the member; or
+
+&emsp;(B) for a reason referred to in section 16133(b).
+
+(j)
+
+Regulations.—The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section. Such regulations shall specify—
+
+&emsp;(1) the manner of authorizing the military departments to offer transfer of entitlements under this section;
+
+&emsp;(2) the eligibility criteria in accordance with subsection (b);
+
+&emsp;(3) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2); and
+
+&emsp;(4) the manner in which the provisions referred to in subsections (h)(4) and (5) shall be administered with respect to a dependent to whom entitlement is transferred under this section.
+
+(Added Pub. L. 110–252, title V, §5006(b), June 30, 2008, 122 Stat. 2381.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be “serve”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “whose” probably should not appear.</i>
+

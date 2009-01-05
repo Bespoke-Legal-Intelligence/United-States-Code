@@ -152,7 +152,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 &emsp;(7) to develop programs and projects, subject to subsection (d) of this section;
 
-&emsp;(8) to enter into contracts or agreements, subject to subsection (e) of this section, to develop and carry out programs or projects of promotion, research, industry information and consumer information;
+&emsp;(8) to enter into contracts or agreements, subject to subsection (e) of this section, to develop and carry out programs or projects ofpromotion, research, industry information and consumer information;
 
 &emsp;(9) to carry out research, promotion, industry information, and consumer information, and to pay the costs of such projects with assessments collected pursuant to section 6007 of this title;
 
@@ -260,7 +260,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 &emsp;&emsp;(A) maintain and submit to the Board any reports considered necessary by the Secretary to ensure compliance with this chapter; and
 
-&emsp;&emsp;(B) make available during normal business hours, for inspection by employees of theBoard or Secretary, such books and records as are necessary to carry out this chapter, including such records as are necessary to verify any required reports.
+&emsp;&emsp;(B) make available during normal business hours, for inspection by employees of the Board or Secretary, such books and records as are necessary to carry out this chapter, including such records as are necessary to verify any required reports.
 
 #### (2) Time requirement
 

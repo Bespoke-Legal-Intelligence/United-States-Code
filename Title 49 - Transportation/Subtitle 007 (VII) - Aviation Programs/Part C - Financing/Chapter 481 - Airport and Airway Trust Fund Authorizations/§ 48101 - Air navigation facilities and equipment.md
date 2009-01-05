@@ -8,9 +8,11 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(2) $2,993,000,000 for fiscal year 2005;
 
-&emsp;(3) $3,053,000,000 for fiscal year 2006; and
+&emsp;(3) $3,053,000,000 for fiscal year 2006;
 
-&emsp;(4) $3,110,000,000 for fiscal year 2007.
+&emsp;(4) $3,110,000,000 for fiscal year 2007; and
+
+&emsp;(5) $1,360,188,750 for the 6-month period beginning on October 1, 2008.
 
 (b)
 
@@ -38,13 +40,13 @@ Life-Cycle Cost Estimates.—The Administrator of the Federal Aviation Administr
 
 (h)
 
-Standby Power Efficiency Program.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 through 2007 may be used by the Secretary of Transportation, in cooperation with the Secretary of Energy and, where applicable, the Secretary of Defense, to establish a program to improve the efficiency, cost effectiveness, and environmental performance of standby power systems at Federal Aviation Administration sites, including the implementation of fuel cell technology.
+Standby Power Efficiency Program.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscalyears 2004 through 2007 may be used by the Secretary of Transportation, in cooperation with the Secretary of Energy and, where applicable, the Secretary of Defense, to establish a program to improve the efficiency, cost effectiveness, and environmental performance of standby power systems at Federal Aviation Administration sites, including the implementation of fuel cell technology.
 
 (i)
 
 Pilot Program To Provide Incentives for Development of New Technologies.—Of amounts appropriated under subsection (a), $500,000 for fiscal year 2004 may be used for the conduct of a pilot program to provide operating incentives to users of the airspace for the deployment of new technologies, including technologies to facilitate expedited flight routing and sequencing of takeoffs and landings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719.)
 
 Historical and Revision Notes
 
@@ -85,6 +87,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
 #### Amendments
+
+2008—Subsec. (a)(5). Pub. L. 110–330 added par. (5).
 
 2003—Subsec. (a)(1) to (5). Pub. L. 108–176, §102(1), added pars. (1) to (4) and struck out formers par. (1) to (5) which read as follows:
 
@@ -176,5 +180,5 @@ Sunset Provision.—This section shall cease to be effective beginning on the da
 
 #### Funding for Aviation Programs
 
-Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
+Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources madeavailable from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
 

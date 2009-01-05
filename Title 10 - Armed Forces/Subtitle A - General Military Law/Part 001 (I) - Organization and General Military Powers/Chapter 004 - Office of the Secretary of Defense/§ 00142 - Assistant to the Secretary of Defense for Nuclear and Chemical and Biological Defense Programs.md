@@ -10,13 +10,17 @@
 
 &emsp;(3) perform such additional duties as the Secretary may prescribe.
 
-(Added Pub. L. 100–180, div. A, title XII, §1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, §141; renumbered §142, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
+(c) The Assistant to the Secretary shall be considered an Assistant Secretary of Defense for purposes of section 138(d) of this title.
+
+(Added Pub. L. 100–180, div. A, title XII, §1245(a)(1), Dec. 4, 1987, 101 Stat. 1165, §141; renumbered §142, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 104–106, div. A, title IX, §§903(c)(4), 904(a)(1), Feb. 10, 1996, 110 Stat. 402, 403; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 110–417, \[div. A\], title IX, §905, Oct. 14, 2008, 122 Stat. 4568.)
 
 #### Prior Provisions
 
 A prior section 142 of this title was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding section 151 of this title.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
 1996—Pub. L. 104–106, §904(a)(1)(A), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in section catchline.
 

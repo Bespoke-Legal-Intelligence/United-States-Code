@@ -16,7 +16,7 @@
 
 #### (4) State laws
 
-&emsp;State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is morestringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
+&emsp;State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is more stringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
 
 #### (b) Notice
 
@@ -70,7 +70,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (3) Completion of remedial actions
 
-&emsp;Remedial actions at facilities subject to interagency agreements under this sectionshall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
+&emsp;Remedial actions at facilities subject to interagency agreements under this section shall be completed as expeditiously as practicable. Each agency shall include in its annual budget submissions to the Congress a review of alternative agency funding which could be used to provide for the costs of remedial action. The budget submission shall also include a statement of the hazard posed by the facility to human health, welfare, and the environment and identify the specific consequences of failure to begin and complete remedial action.
 
 #### (4) Contents of agreement
 
@@ -174,7 +174,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;&emsp;&emsp;(III) provide that all necessary response action will be taken and identify the schedules for investigation and completion of all necessary response action as approved by the appropriate regulatory agency; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject totransfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
+&emsp;&emsp;&emsp;&emsp;(IV) provide that the Federal agency responsible for the property subject to transfer will submit a budget request to the Director of the Office of Management and Budget that adequately addresses schedules for investigation and completion of all necessary response action, subject to congressional authorizations and appropriations.
 
 #### (iii) Warranty
 
@@ -260,7 +260,7 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### References in Text
 
-Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L.101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
+Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
 The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
@@ -272,7 +272,7 @@ The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic 
 
 1996—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
 
-Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
+Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall beapplied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
 
 Pub. L. 104–201, §330(1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 

@@ -34,7 +34,7 @@ The report required by subsection (b) of this section shall be submitted in uncl
 
 #### (2) Law enforcement
 
-&emsp;Notwithstanding any other provision of this section, the reports described in subsections\(b) and (d) of this section shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
+&emsp;Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
 
 &emsp;&emsp;(A) compromise the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution that furnished information on a confidential basis;
 

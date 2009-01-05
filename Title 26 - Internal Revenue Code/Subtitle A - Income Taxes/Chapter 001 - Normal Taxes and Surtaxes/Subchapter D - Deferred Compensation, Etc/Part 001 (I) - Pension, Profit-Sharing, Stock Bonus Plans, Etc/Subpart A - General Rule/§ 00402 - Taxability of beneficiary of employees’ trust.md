@@ -22,7 +22,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (A) Highly compensated employees
 
-&emsp;&emsp;If 1 of the reasons a trust is not exempt from tax under section 501(a) is the failure of the plan of which it is a part to meet the requirements of section 401(a)(26) or 410(b), then a highly compensated employee shall, in lieu of the amount determined under paragraph (1) or (2) include in gross income for the taxable year with or within which the taxable year of the trust ends an amount equal to the vested accrued benefit of suchemployee (other than the employee's investment in the contract) as of the close of such taxable year of the trust.
+&emsp;&emsp;If 1 of the reasons a trust is not exempt from tax under section 501(a) is the failure of the plan of which it is a part to meet the requirements of section 401(a)(26) or 410(b), then a highly compensated employee shall, in lieu of the amount determined under paragraph (1) or (2) include in gross income for the taxable year with or within which the taxable year of the trust ends an amount equal to the vested accrued benefit of such employee (other than the employee's investment in the contract) as of the close of such taxable year of the trust.
 
 #### (B) Failure to meet coverage tests
 
@@ -84,6 +84,8 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 &emsp;&emsp;(C) any distribution which is made upon hardship of the employee.
 
+> &emsp;If all or any portion of a distribution during 2009 is treated as an eligible rollover distribution but would not be so treated if the minimum distribution requirements under section 401(a)(9) had applied during 2009, such distribution shall not be treated as an eligible rollover distribution for purposes of section 401(a)(31) or 3405(c) or subsection (f) of this section.
+
 #### (5) Transfer treated as rollover contribution under section 408
 
 &emsp;For purposes of this title, a transfer to an eligible retirement plan described in clause (i) or (ii) of paragraph (8)(B) resulting in any portion of a distribution being excluded from gross income under paragraph (1) shall be treated as a rollover contribution described in section 408(d)(3).
@@ -108,7 +110,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 &emsp;&emsp;&emsp;(ii) the portion of the money or other property which is to be treated as included in the rollover contribution,
 
-> &emsp;&emsp;shall be determined on a ratable basis unless the taxpayer designates otherwise. Any designation under this subparagraph for a taxable year shall be made not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof). Any such designation, once made, shall be irrevocable.
+> &emsp;&emsp;shall be determined on a ratable basis unless the taxpayer designates otherwise. Any designation under this subparagraph for a taxable year shall be made not later than thetime prescribed by law for filing the return for such taxable year (including extensions thereof). Any such designation, once made, shall be irrevocable.
 
 #### (D) Nonrecognition of gain or loss
 
@@ -172,9 +174,9 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (A) In general
 
-&emsp;&emsp;If, with respect to any portion of a distribution from an eligible retirement plan of a deceased employee, a direct trustee-to-trustee transfer is made to an individual retirement plan described in clause (i) or (ii) of paragraph (8)(B) established for the purposes of receiving the distribution on behalf of an individual who is a designated beneficiary (as defined by section 401(a)(9)(E)) of the employee and who is not the surviving spouse of the employee—
+&emsp;&emsp;If, with respect to any portion of a distribution from an eligible retirement plan described in paragraph (8)(B)(iii) of a deceased employee, a direct trustee-to-trustee transfer is made to an individual retirement plan described in clause (i) or (ii) of paragraph (8)(B) established for the purposes of receiving the distribution on behalf of an individual who is a designated beneficiary (as defined by section 401(a)(9)(E)) of the employee and who is not the surviving spouse of the employee—
 
-&emsp;&emsp;&emsp;(i) the transfer shall be treated as an eligible rollover distribution for purposes of this subsection,
+&emsp;&emsp;&emsp;(i) the transfer shall be treated as an eligible rollover distribution,
 
 &emsp;&emsp;&emsp;(ii) the individual retirement plan shall be treated as an inherited individual retirement account or individual retirement annuity (within the meaning of section 408(d)(3)(C)) for purposes of this title, and
 
@@ -182,7 +184,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (B) Certain trusts treated as beneficiaries
 
-&emsp;&emsp;For purposes of this paragraph, to the extent provided in rules prescribed by the Secretary, a trust maintained for the benefit of one or more designated beneficiaries shall be treated in the same manner as a trust designated beneficiary.
+&emsp;&emsp;For purposes of this paragraph, to the extent provided in rules prescribed by the Secretary, a trust maintained for the benefit of one or more designated beneficiaries shall be treated in the same manner as a designated beneficiary.
 
 #### (d) Taxability of beneficiary of certain foreign situs trusts
 
@@ -314,7 +316,7 @@ For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit
 
 #### (A) Eligible rollover distribution
 
-&emsp;&emsp;The term “eligible rollover distribution” has the same meaning as when used in subsection (c) of this section, paragraph (4) of section 403(a), subparagraph (A) of section 403(b)(8), or subparagraph (A) of section 457(e)(16).
+&emsp;&emsp;The term “eligible rollover distribution” has the same meaning as when used in subsection (c) of this section, paragraph (4) of section 403(a), subparagraph (A) of section 403(b)(8), or subparagraph (A) of section 457(e)(16). Such term shall include any distribution to a designated beneficiary which would be treated as an eligible rollover distribution by reason of subsection (c)(11), or section 403(a)(4)(B), 403(b)(8)(B), or 457(e)(16)(B), if the requirements of subsection (c)(11) were satisfied.
 
 #### (B) Eligible retirement plan
 
@@ -378,7 +380,7 @@ $15,000.
 
 &emsp;&emsp;&emsp;(i) not later than the 1st March 1 following the close of the taxable year, the individual may allocate the amount of such excess deferrals among the plans under which the deferrals were made and may notify each such plan of the portion allocated to it, and
 
-&emsp;&emsp;&emsp;(ii) not later than the 1st April 15 following the close of the taxable year, each such plan may distribute to the individual the amount allocated to it under clause (i) (and any income allocable to such amount).
+&emsp;&emsp;&emsp;(ii) not later than the 1st April 15 following the close of the taxable year, each such plan may distribute to the individual the amount allocated to it under clause (i) (and any income allocable to such amount through the end of such taxable year).
 
 > &emsp;&emsp;The distribution described in clause (ii) may be made notwithstanding any other provision of law.
 
@@ -508,7 +510,7 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible retired public safety officer who makes the election described in paragraph (6) with respect to any taxable year of such employee, gross income of such employee for such taxable year does not include any distribution from an eligible retirement plan to the extent that the aggregate amount of such distributions does not exceed the amount paid by such employee for qualified health insurance premiums of the employee, his spouse, or dependents (as defined in section 152) for such taxable year.
+&emsp;In the case of an employee who is an eligible retired public safety officer who makes the election described in paragraph (6) with respect to any taxable year of such employee, gross income of such employee for such taxable year does not include any distribution from an eligible retirement plan maintained by the employer described in paragraph (4)(B) to the extent that the aggregate amount of such distributions does not exceed the amount paid by such employee for qualified health insurance premiums for such taxable year.
 
 #### (2) Limitation
 
@@ -522,7 +524,7 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 #### (B) Application of section 72
 
-&emsp;&emsp;Notwithstanding section 72, in determining the extent to which an amount is treated as a distribution for purposes of subparagraph (A), the aggregate amounts distributed from an eligible retirement plan in a taxable year (up to the amount excluded under paragraph (1)) shall be treated as includible in gross income (without regard to subparagraph (A)) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts distributed from all eligible retirement plans were treated as 1 contract for purposes of determining the inclusion of such distribution under section 72. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
+&emsp;&emsp;Notwithstanding section 72, in determining the extent to which an amount is treated as a distribution for purposes of subparagraph (A), the aggregate amounts distributed from an eligible retirement plan in a taxable year (up to the amount excluded under paragraph (1)) shall be treated as includible in gross income (without regard to subparagraph (A)) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts to the credit of the eligible public safety officer in all eligible retirement plans maintained by the employer described in paragraph (4)(B) were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
 
 #### (4) Definitions
 
@@ -542,7 +544,7 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 #### (D) Qualified health insurance premiums
 
-&emsp;&emsp;The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents, by an accident or health insurance plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
+&emsp;&emsp;The term “qualified health insurance premiums” means premiums for coverage for the eligible retired public safety officer, his spouse, and dependents (as defined in section 152), by an accident or health plan or qualified long-term care insurance contract (as defined in section 7702B(b)).
 
 #### (5) Special rules
 
@@ -550,7 +552,7 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 #### (A) Direct payment to insurer required
 
-&emsp;&emsp;Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health insurance plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.
+&emsp;&emsp;Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.
 
 #### (B) Related plans treated as 1
 
@@ -574,7 +576,11 @@ Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall app
 
 &emsp;The amounts excluded from gross income under paragraph (1) shall not be taken into account under section 162(<i>l</i>).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 135; Pub. L. 86–437, §§1, 2(a), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–792, §4(c), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §§221(c)(1), 232(e)(1)–(3), Feb. 26,1964, 78 Stat. 75, 111; Pub. L. 91–172, title III, §321(b)(1), title V, §515(a)(1), Dec. 30, 1969, 83 Stat. 590, 643; Pub. L. 93–406, title II, §§2002(g)(5), 2005(a), (b)(1), (c)(1), (2), Sept. 2, 1974, 88 Stat. 968, 987, 990, 991: Pub. L. 94–267, §1(a), Apr. 15, 1976, 90 Stat. 365; Pub. L. 94–455, title XIV, §1402(b)(1)(C), (2), title XV, §1512(a), title XIX, §§1901(a)(57)(A)–(C)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1742, 1773, 1774, 1834; Pub. L. 95–30, title I, §102(b)(4), May 23, 1977, 91 Stat. 137; Pub. L. 95–458, §4(a), (c), Oct. 14, 1978, 92 Stat. 1257, 1259; Pub. L. 95–600, title I, §§101(d)(1), 135(b), 157(f)(1), (g)(1), (h)(1), Nov. 6, 1978, 92 Stat. 2770, 2787, 2806–2808; Pub. L. 96–222, title I, §101(a)(14)(C), (E)(i), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 96–608, §2(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title III, §§311(b)(2), (3)(A), (c), 314(c)(1), Aug. 13, 1981, 95 Stat. 280, 286; Pub. L. 97–448, title I, §§101(b), 103(c)(7), (8)(A), (12)(D), Jan. 12, 1983, 96 Stat. 2366, 2376, 2377; Pub. L. 98–369, div. A, title IV, §491(c)(2), (d)(9)–(11), title V, §522(a)(1), (b)–(d)(8), title VII, §713(c)(3), title X, §1001(b)(3), (e), July 18, 1984, 98 Stat. 848, 849, 868–870, 957, 1011, 1012; Pub. L. 98–397, title II, §§204(c)(1), (3), (4), 207(a), Aug. 23, 1984, 98 Stat. 1448, 1449; Pub. L. 99–272, title XI, §11012(c), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title I, §104(b)(5), title XI, §§1105(a), 1106(c)(2), 1108(b), 1112(c), 1121(c)(1), 1122(a), (b)(1)(A), (2), (e)(1), (2)(A), (g), title XVIII, §§1852(a)(5)(A), (b)(1)–(7), (c)(5), 1854(f)(2), 1875(c)(1)(A), 1898(a)(2), (3), (c)(1)(A), (7)(A)(i), (e), Oct. 22, 1986, 100 Stat. 2105, 2417, 2423, 2432, 2444, 2465, 2466, 2469, 2470, 2865–2867, 2881, 2894, 2942, 2943, 2951, 2954, 2955; Pub. L. 100–647, title I, §§1011(c)(1)–(6)(B), (11), (h)(4), 1011A(a)(1), (b)(4)(A)–(D), (5)–(8), (10), (c)(9), 1018(t)(8)(A), (C), (u)(1), (6), (7), title VI, §6068(a), Nov. 10, 1988, 102 Stat. 3457–3459, 3464, 3472–3474, 3476, 3589, 3590, 3703; Pub. L. 101–239, title VII, §7811(g)(2), (i)(13), Dec. 19, 1989, 103 Stat. 2409, 2411; Pub. L. 101–508, title XI, §11801(c)(9)(I), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 102–318, title V, §§521(a), (b)(9)–(11), 522(c)(1), July 3, 1992, 106 Stat. 300, 310, 311, 315; Pub. L. 103–465, title VII, §732(c), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1401(a)–(b)(2), (13), 1421(b)(3)(A), (9)(B), 1450(a)(2), 1704(t)(68), Aug. 20, 1996, 110 Stat. 1787–1789, 1796, 1798, 1814, 1891; Pub. L. 105–34, title XV, §1501(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 105–206, title VI, §6005(c)(2)(A), July 22, 1998, 112 Stat. 800; Pub. L. 107–16, title VI, §§611(d)(1)–(3)(A), 617(b), (c), 632(a)(3)(G), 636(b)(1), 641(a)(2)(A), (B), (b)(2)–(d), (e)(4)–(6), 643(a), 644(a), 657(b), June 7, 2001, 115 Stat. 97, 98, 105, 114, 117, 119–123, 136; Pub. L. 107–147, title IV, §411(<i>l</i>)(3), (<i>o</i>)(1), (p)(6), (q)(2), Mar. 9, 2002, 116 Stat. 47, 48, 51; Pub. L. 109–135, title IV, §407(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 109–280, title VIII, §§822(a), 829(a)(1), 845(a), Aug. 17, 2006, 120 Stat. 998, 1001, 1013; Pub. L. 110–172, §8(a)(1), Dec. 29, 2007, 121 Stat. 2483.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 135; Pub. L. 86–437, §§1, 2(a), Apr. 22, 1960, 74 Stat. 79; Pub. L.87–792, §4(c), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §§221(c)(1), 232(e)(1)–(3), Feb. 26, 1964, 78 Stat. 75, 111; Pub. L. 91–172, title III, §321(b)(1), title V, §515(a)(1), Dec. 30, 1969, 83 Stat. 590, 643; Pub. L. 93–406, title II, §§2002(g)(5), 2005(a), (b)(1), (c)(1), (2), Sept. 2, 1974, 88 Stat. 968, 987, 990, 991: Pub. L. 94–267, §1(a), Apr. 15, 1976, 90 Stat. 365; Pub. L. 94–455, title XIV, §1402(b)(1)(C), (2), title XV, §1512(a), title XIX, §§1901(a)(57)(A)–(C)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1742, 1773, 1774, 1834; Pub. L. 95–30, title I, §102(b)(4), May 23, 1977, 91 Stat. 137; Pub. L. 95–458, §4(a), (c), Oct. 14, 1978, 92 Stat. 1257, 1259; Pub. L. 95–600, title I, §§101(d)(1), 135(b), 157(f)(1), (g)(1), (h)(1), Nov. 6, 1978, 92 Stat. 2770, 2787, 2806–2808; Pub. L. 96–222, title I, §101(a)(14)(C), (E)(i), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 96–608, §2(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title III, §§311(b)(2), (3)(A), (c), 314(c)(1), Aug. 13, 1981, 95 Stat. 280, 286; Pub. L. 97–448, title I, §§101(b), 103(c)(7), (8)(A), (12)(D), Jan. 12, 1983, 96 Stat. 2366, 2376, 2377; Pub. L. 98–369, div. A, title IV, §491(c)(2), (d)(9)–(11), title V, §522(a)(1), (b)–(d)(8), title VII, §713(c)(3), title X, §1001(b)(3), (e), July 18, 1984, 98 Stat. 848, 849, 868–870, 957, 1011, 1012; Pub. L. 98–397, title II, §§204(c)(1), (3), (4), 207(a), Aug. 23, 1984, 98 Stat. 1448, 1449; Pub. L. 99–272, title XI, §11012(c), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title I, §104(b)(5), title XI, §§1105(a), 1106(c)(2), 1108(b), 1112(c), 1121(c)(1), 1122(a), (b)(1)(A), (2), (e)(1), (2)(A), (g), title XVIII, §§1852(a)(5)(A), (b)(1)–(7), (c)(5), 1854(f)(2), 1875(c)(1)(A), 1898(a)(2), (3), (c)(1)(A), (7)(A)(i), (e), Oct. 22, 1986, 100 Stat. 2105, 2417, 2423, 2432, 2444, 2465, 2466, 2469, 2470, 2865–2867, 2881, 2894, 2942, 2943, 2951, 2954, 2955; Pub. L. 100–647, title I, §§1011(c)(1)–(6)(B), (11), (h)(4), 1011A(a)(1), (b)(4)(A)–(D), (5)–(8), (10), (c)(9), 1018(t)(8)(A), (C), (u)(1), (6), (7), title VI, §6068(a), Nov. 10, 1988, 102 Stat. 3457–3459, 3464, 3472–3474, 3476, 3589, 3590, 3703; Pub. L. 101–239, title VII, §7811(g)(2), (i)(13), Dec. 19, 1989, 103 Stat. 2409, 2411; Pub. L. 101–508, title XI, §11801(c)(9)(I), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 102–318, title V, §§521(a), (b)(9)–(11), 522(c)(1), July 3, 1992, 106 Stat. 300, 310, 311, 315; Pub. L. 103–465, title VII, §732(c), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1401(a)–(b)(2), (13), 1421(b)(3)(A), (9)(B), 1450(a)(2), 1704(t)(68), Aug. 20, 1996, 110 Stat. 1787–1789, 1796, 1798, 1814, 1891; Pub. L. 105–34, title XV, §1501(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 105–206, title VI, §6005(c)(2)(A), July 22, 1998, 112 Stat. 800; Pub. L. 107–16, title VI, §§611(d)(1)–(3)(A), 617(b), (c), 632(a)(3)(G), 636(b)(1), 641(a)(2)(A), (B), (b)(2)–(d), (e)(4)–(6), 643(a), 644(a), 657(b), June 7, 2001, 115 Stat. 97, 98, 105, 114, 117, 119–123, 136; Pub. L. 107–147, title IV, §411(<i>l</i>)(3), (<i>o</i>)(1), (p)(6), (q)(2), Mar. 9, 2002, 116 Stat. 47, 48, 51; Pub. L. 109–135, title IV, §407(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 109–280, title VIII, §§822(a), 829(a)(1), 845(a), Aug. 17, 2006, 120 Stat. 998, 1001, 1013; Pub. L. 110–172, §8(a)(1), Dec. 29, 2007, 121 Stat. 2483; Pub. L. 110–458, title I, §§108(f)(1)–(2)(B), (j), 109(b)(3), title II, §201(b), Dec. 23, 2008, 122 Stat. 5109–5111, 5117.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -585,6 +591,26 @@ Section 415(c)(4) (as in effect before the enactment of the Economic Growth and 
 Subsection (d), referred to in subsec. (i), was amended generally by Pub. L. 104–188, title I, §1401(a), Aug. 20, 1996, 110 Stat. 1787, and as so amended, no longer contains a par. (4).
 
 #### Amendments
+
+2008—Subsec. (c)(4). Pub. L. 110–458, §201(b), inserted concluding provisions.
+
+Subsec. (c)(11)(A). Pub. L. 110–458, §108(f)(1)(A), inserted “described in paragraph (8)(B)(iii)” after “eligible retirement plan” in introductory provisions.
+
+Subsec. (c)(11)(A)(i). Pub. L. 110–458, §108(f)(2)(B), struck out “for purposes of this subsection” after “eligible rollover distribution”.
+
+Subsec. (c)(11)(B). Pub. L. 110–458, §108(f)(1)(B), struck out “trust” before “designated beneficiary”.
+
+Subsec. (f)(2)(A). Pub. L. 110–458, §108(f)(2)(A), inserted at end “Such term shall include any distribution to a designated beneficiary which would be treated as an eligible rollover distribution by reason of subsection (c)(11), or section 403(a)(4)(B), 403(b)(8)(B), or 457(e)(16)(B), if the requirements of subsection (c)(11) were satisfied.”
+
+Subsec. (g)(2)(A)(ii). Pub. L. 110–458, §109(b)(3), inserted “through the end of such taxable year” after “such amount”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 110–458, §108(j)(1)(A), inserted “maintained by the employer described in paragraph (4)(B)” after “an eligible retirement plan” and struck out “of the employee, his spouse, or dependents (as defined in section 152)” after “qualified health insurance premiums”.
+
+Subsec. (<i>l</i>)(3)(B). Pub. L. 110–458, §108(j)(2), substituted “all amounts to the credit of the eligible public safety officer in all eligible retirement plans maintained by the employer described in paragraph (4)(B) were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible” for “all amounts distributed from all eligible retirement plans were treated as 1 contract for purposes of determining the inclusion of such distribution under section 72”.
+
+Subsec. (<i>l</i>)(4)(D). Pub. L. 110–458, §108(j)(1)(B), inserted “(as defined in section 152)” after “dependents” and substituted “health plan” for “health insurance plan”.
+
+Subsec. (<i>l</i>)(5)(A). Pub. L. 110–458, §108(j)(1)(C), substituted “health plan” for “health insurance plan”.
 
 2007—Subsec. (g)(7)(A)(ii)(II). Pub. L. 110–172 substituted “permitted for prior taxable years by reason of this paragraph” for “for prior taxable years”. Amendment was executed to subsec. (g)(7)(A)(ii) as amended by Pub. L. 109–135, §407(a)(1), as the probable intent of Congress, notwithstanding Pub. L. 110–172, §8(b), which provided that the amendment take effect as if included in the provisions of Pub. L. 107–16 to which it relates. See 2006 Amendment note and Effective Date of 2007 Amendment note below.
 
@@ -808,7 +834,7 @@ Subsec. (a)(5)(D)(i). Pub. L. 99–514, §1122(e)(1), amended cl. (i) generally,
 
 > Any distribution described in section 401(a)(28)(B)(ii) shall be treated as meeting the requirements of this clause.” This amendment was repealed by Pub. L. 100–647, §1011A(b)(4)(A). See 1988 Amendment note above.
 
-Pub. L. 99–514, §1852(b)(2), inserted at end “For purposes of subclause (I), the balance to the credit of the employee shall not include any accumulated deductibleemployee contributions (within the meaning of section 72(<i>o</i>)(5)).”
+Pub. L. 99–514, §1852(b)(2), inserted at end “For purposes of subclause (I), the balance to the credit of the employee shall not include any accumulated deductible employee contributions (within the meaning of section 72(<i>o</i>)(5)).”
 
 Subsec. (a)(5)(D)(ii). Pub. L. 99–514, §1852(b)(5), substituted “a trust or plan described in subclause (III) or (IV)” for “a plan described in subclause (IV) or (V)”.
 
@@ -868,7 +894,7 @@ Subsec. (e)(1)(C) to (E). Pub. L. 99–514, §1122(b)(2)(B)(i), redesignated sub
 
 Subsec. (e)(3). Pub. L. 99–514, §1122(b)(2)(C), and Pub. L. 100-647, §1018(u)(7), substituted “total taxable amount” for “ordinary income portion”.
 
-Subsec. (e)(4)(B). Pub. L. 99–514, §1122(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this section and section 403, no amount which is not an annuity contract may be treated as a lump sum distribution under subparagraph (A) unless the taxpayer elects for the taxable year to have all such amounts received during such year so treated at the time and in the manner provided under regulations prescribed by the Secretary. Not more than one election may be made under this subparagraph with respect to any individual after such individual has attained age 591/2. No election may be made under this subparagraph by any taxpayer other than an individual, an estate, or a trust. In the case of a lump sum distribution made with respect to an employee to two or more trusts, the election under this subparagraph shall be made by the personal representative of the employee.”
+Subsec. (e)(4)(B). Pub. L. 99–514, §1122(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “For purposes of this section and section 403, no amount which is not an annuity contract may be treated as a lump sum distribution under subparagraph (A) unless the taxpayer elects for the taxable year to have all such amounts received during such year so treated at the time and in the manner provided under regulations prescribed by the Secretary. Not more than one election may be made under this subparagraph with respect to any individual after such individual has attained age 591/2. No election may be made under this subparagraph by any taxpayer other than an individual, an estate, or a trust. In the case of a lump sum distribution made with respect to an employee to two or more trusts, the election under this subparagraph shall be made by the personal representative of the employee.”
 
 Subsec. (e)(4)(E). Pub. L. 99–514, §1122(b)(2)(D), struck out subpar. (E) defining “ordinary income portion” with respect to a lump sum distribution.
 
@@ -958,7 +984,7 @@ Pub. L. 97–34, §314(c)(1), struck out “or made available” after “distri
 
 Subsec. (a)(5). Pub. L. 97–34, §311(b)(3)(A), inserted “(other than accumulated deductible employee contributions within the meaning of section 72(<i>o</i>)(5))” after “contributions” in subpar. (B) and added subcl. (III) in subpar. (D).
 
-Subsec. (e)(4). Pub. L. 97–34, §311(b)(2), (c)(2), added to subpar. (A) provision that for purposes of sections 402 and 403, the balance to the credit of the employee does not include the accumulated deductible employee contributions under the plan (within the meaning of section 72(<i>o</i>)(5)), and added subpar. (J) provision making subpar. (J) inapplicable to distributions of accumulated deductible employee contributions (within the meaning of section 77(<i>o</i>)(5)). See 1983 Amendment note above.
+Subsec. (e)(4). Pub. L. 97–34, §311(b)(2), (c)(2), added to subpar. (A) provision that for purposes of sections 402and 403, the balance to the credit of the employee does not include the accumulated deductible employee contributions under the plan (within the meaning of section 72(<i>o</i>)(5)), and added subpar. (J) provision making subpar. (J) inapplicable to distributions of accumulated deductible employee contributions (within the meaning of section 77(<i>o</i>)(5)). See 1983 Amendment note above.
 
 1980—Subsec. (a)(6)(D)(iii). Pub. L. 96–222, §101(a)(14)(E)(i), substituted “may designate” for “many designate”.
 
@@ -1033,6 +1059,14 @@ Subsecs. (b), (d). Pub. L. 88–272, §232(e)(2), (3), struck out “except that
 1960—Subsec. (a)(1). Pub. L. 86–437, §2(a), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
 
 Subsec. (a)(4). Pub. L. 86–437, §1, added par. (4).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–458, title I, §108(f)(2)(C), Dec. 23, 2008, 122 Stat. 5109, provided that: “The amendments made by this paragraph \[amending this section\] shall apply with respect to plan years beginning after December 31, 2009.”
+
+Amendment by sections 108(f)(1)–(2)(B), (j) and 109(b)(3) of Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
+Amendment by section 201(b) of Pub. L. 110–458 applicable to calendar years beginning after December 31, 2008, with provisions relating to pension plan or contract amendments, see section 201(c) of Pub. L. 110–458, set out as a note under section 401 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -1122,7 +1156,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Special rule for partial distributions.—For purposes of section 402(a)(5)(D)(i)(II) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section), a distribution before January 1, 1993, which is made before or at the same time as a series of periodic payments shall not be treated as one of such series if it is not substantially equal in amount to other payments in such series.”
+Special rule for partial distributions.—For purposes of section 402(a)(5)(D)(i)(II) of the InternalRevenue Code of 1986 (as in effect before the amendments made by this section), a distribution before January 1, 1993, which is made before or at the same time as a series of periodic payments shall not be treated as one of such series if it is not substantially equal in amount to other payments in such series.”
 
 Amendment by section 522(c)(1) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub. L. 102–318, set out as a note under section 401 of this title.
 
@@ -1314,7 +1348,7 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 Amendment by section 204 of Pub. L. 98–397 effective Jan. 1, 1985, and amendment by section 207 of Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 1984, except as otherwise provided, see sections 302 and 303 of Pub. L. 98–397, set out as a note under section 1001 of Title 29, Labor.
 
-Amendment by section 491(d)(9)–(11) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by section 491(d)(9)–(11) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, seesection 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 Section 491(f)(2) of Pub. L. 98–369 provided that: “The amendment made by subsection (c) \[amending this section and section 405 of this title\] shall apply to redemptions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
@@ -1350,7 +1384,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 101(d) of Pub. L. 95–600 effective with respect to taxable years beginning after Dec.31, 1978, see section 101(f)(1) of Pub. L. 95–600, set out as a note under section 1 of this title.
+Amendment by section 101(d) of Pub. L. 95–600 effective with respect to taxable years beginning after Dec. 31, 1978, see section 101(f)(1) of Pub. L. 95–600, set out as a note under section 1 of this title.
 
 Amendment by section 135(b) of Pub. L. 95–600 applicable to plan years beginning after December 31, 1979, see section 135(c)(1) of Pub. L. 95–600, set out as a note under section 401 of this title.
 
@@ -1396,7 +1430,7 @@ Amendment by Pub. L. 94–267 applicable with respect to payments made to an emp
 
 #### Effective Date of 1974 Amendment
 
-Section 2002(i)(3) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (g)(5) and (6) \[amending this section and section 403 of this title\] shall apply on and after the date of enactment of this Act \[Sept. 2, 1974\] with respect to contributions to an employees’ trust described in section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is exempt from tax under section 501(a) of such Code or an annuity plan described in section 403(a) of such Code.”
+Section 2002(i)(3) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (g)(5) and (6) \[amending this section and section 403 of this title\] shall apply on and after the date of enactment of thisAct \[Sept. 2, 1974\] with respect to contributions to an employees’ trust described in section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is exempt from tax under section 501(a) of such Code or an annuity plan described in section 403(a) of such Code.”
 
 Section 2005(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[amending this section and sections 46, 50A, 56, 62, 72, 101, 122, 403, 405, 406, 407, 871, 877, 901, 1304, and 1348 of this title\] shall apply only with respect to distributions or payments made after December 31, 1973, in taxable years beginning after such date.”
 
@@ -1430,7 +1464,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Clarification of Disqualification Rules Relating to Acceptance of Rollover Contributions
 
-Section 1509 of Pub. L. 105–34 provided that: “The Secretary of the Treasury or his delegate shall clarifythat, under the Internal Revenue Service regulations protecting pension plans from disqualification by reason of the receipt of invalid rollover contributions under section 402(c) of the Internal Revenue Code of 1986, in order for the administrator of the plan receiving any such contribution to reasonably conclude that the contribution is a valid rollover contribution it is not necessary for the distributing plan to have a determination letter with respect to its status as a qualified plan under section 401 of such Code.”
+Section 1509 of Pub. L. 105–34 provided that: “The Secretary of the Treasury or his delegate shall clarify that, under the Internal Revenue Service regulations protecting pension plans from disqualification by reason of the receipt of invalid rollover contributions under section 402(c) of the Internal Revenue Code of 1986, in order for the administrator of the plan receiving any such contribution to reasonably conclude that the contribution is a valid rollover contribution it is not necessary for the distributing plan to have a determination letter with respect to its status as a qualified plan under section 401 of such Code.”
 
 #### Model Explanation
 
@@ -1470,7 +1504,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

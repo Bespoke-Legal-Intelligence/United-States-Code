@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall establish a pilot program to support the purchase, by a State or political subdivision of a State, of development rights associated with, or directly affecting the use of, privately owned public use airports located in that State. Under the program, the Secretary may make a grant to a State or political subdivision of a State from funds apportioned under section 47114 for the purchase of such rights.
+In General.—The Secretary of Transportation shall establish a pilot program to supportthe purchase, by a State or political subdivision of a State, of development rights associated with, or directly affecting the use of, privately owned public use airports located in that State. Under the program, the Secretary may make a grant to a State or political subdivision of a State from funds apportioned under section 47114 for the purchase of such rights.
 
 (b)
 
@@ -30,7 +30,7 @@ Grant Standards.—The Secretary shall prescribe standards for grants under subs
 
 (d)
 
-Release of Purchased Rights and Covenant.—Any development rights purchasedunder the program shall remain the property of the State or political subdivision unless the Secretary approves the transfer or disposal of the development rights after making a determination that the transfer or disposal of that right is in the public interest.
+Release of Purchased Rights and Covenant.—Any development rights purchased under the program shall remain the property of the State or political subdivision unless the Secretary approves the transfer or disposal of the development rights after making a determination that the transfer or disposal of that right is in the public interest.
 
 (e)
 

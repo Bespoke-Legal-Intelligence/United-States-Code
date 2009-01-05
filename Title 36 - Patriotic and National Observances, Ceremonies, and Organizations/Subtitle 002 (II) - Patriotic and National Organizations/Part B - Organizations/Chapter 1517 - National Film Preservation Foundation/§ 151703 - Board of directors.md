@@ -6,7 +6,7 @@ General.—The board of directors is the governing body of the corporation.
 
 (b)
 
-Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvoting member of the board. The Librarian appoints the directors to the board.
+Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvotingmember of the board. The Librarian appoints the directors to the board.
 
 (2)(A) The board consists of 12 directors.
 
@@ -18,7 +18,7 @@ Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvot
 
 (4) The terms of office of the directors are 4 years. There shall be no limit to the number of terms to which any individual may be appointed.
 
-(5) A vacancy on the board shall be filled within 60 days in the manner in which the original appointment was made.
+(5) A vacancy on the board shall be filled within 120 days in the manner in which the original appointment was made.
 
 (c)
 
@@ -40,7 +40,7 @@ Compensation and Reimbursement.—Directors serve without compensation but may b
 
 Liability of Directors.—Directors are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 109–9, title III, §312(a), Apr. 27, 2005, 119 Stat. 226.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 109–9, title III, §312(a), Apr. 27, 2005, 119 Stat. 226; Pub. L. 110–336, §3(b)(3), Oct. 2, 2008, 122 Stat. 3728.)
 
 Historical and Revision Notes
 
@@ -109,6 +109,8 @@ In subsection (b)(3), the words “is not an employee” are substituted for “
 In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
 
 #### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–336 substituted “120 days” for “60 days”.
 
 2005—Subsec. (b)(2)(A). Pub. L. 109–9, §312(a)(1), substituted “12” for “nine”.
 

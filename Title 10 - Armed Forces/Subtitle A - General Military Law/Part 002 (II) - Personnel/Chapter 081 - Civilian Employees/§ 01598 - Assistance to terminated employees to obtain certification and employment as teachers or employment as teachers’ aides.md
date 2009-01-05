@@ -42,7 +42,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 
-(3) The Secretary of Defense may not select a civilian employee to participate in the programunless the Secretary has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under the program with respect to that member.
+(3) The Secretary of Defense may not select a civilian employee to participate in the program unless the Secretary has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under the program with respect to that member.
 
 (d)
 

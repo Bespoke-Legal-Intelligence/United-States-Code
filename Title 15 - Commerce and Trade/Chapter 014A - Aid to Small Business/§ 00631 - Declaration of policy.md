@@ -28,7 +28,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 #### (d) Use of assistance programs to establish, preserve, and strengthen small business concerns
 
-(1) The assistance programs authorized by sections 636(i) and 636(j) of this title are to be utilized to assist in the establishment, preservation, and strengthening of small business concerns and improve the managerial skills employed in such enterprises, with special attention to small business concerns (1) located inurban or rural areas with high proportions of unemployed or low-income individuals; or (2) owned by low-income individuals; and to mobilize for these objectives private as well as public managerial skills and resources.
+(1) The assistance programs authorized by sections 636(i) and 636(j) of this title are to be utilized to assist in the establishment, preservation, and strengthening of small business concerns and improve the managerial skills employed in such enterprises, with special attention to small business concerns (1) located in urban or rural areas with high proportions of unemployed or low-income individuals; or (2) owned by low-income individuals; and to mobilize for these objectives private as well as public managerial skills and resources.
 
 (2)(A) With respect to the programs authorized by section 636(j) of this title, the Congress finds—
 
@@ -40,7 +40,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(iv) that such development of business ownership among groups that presently own and control little productive capital will be greatly facilitated through the creation of a small business ownership development program, which shall provide services, including, but not limited to, financial, management, and technical assistance.<sup>1</sup>
 
-&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
+&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool fordevelopment of business ownership among groups that own and control little productive capital; and
 
 &emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
 
@@ -102,7 +102,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(G) increased numbers of small business concerns owned and controlled by women will directly benefit the United States Government by expanding the potential number of suppliers of goods and services to the Government; and
 
-&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting the rights of socially and economically disadvantaged individuals.
+&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting therights of socially and economically disadvantaged individuals.
 
 (2) It is, therefore, the purpose of those programs and activities conducted under the authority of this chapter that assist women entrepreneurs to—
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 100–418 redesignated subsec. (c) as (d). Former subsec. (
 
 Subsec. (d)(2)(A)(v). Pub. L. 100–656, §204(b), which directed amendment of subsec. (c)(2)(A)(v) by striking out “sole source” after “power to let” was executed to subsec. (d)(2)(A)(v) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 100–418.
 
-Subsec. (d)(2)(B). Pub. L. 100–656, §204(a)(1), which directed general amendment of subsec. (c)(2)(B), was executed to subsec. (d)(2)(B) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 100–418. Prior to amendment,subpar. (B) read as follows: “It is, therefore, the purpose of the programs authorized by section 636(j) of this title to—
+Subsec. (d)(2)(B). Pub. L. 100–656, §204(a)(1), which directed general amendment of subsec. (c)(2)(B), was executed to subsec. (d)(2)(B) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 100–418. Prior to amendment, subpar. (B) read as follows: “It is, therefore, the purpose of the programs authorized by section 636(j) of this title to—
 
 &emsp;“(i) foster business ownership by individuals in groups that own and control little productive capital; and
 
@@ -256,6 +256,14 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–234, title XII, §12051, May 22, 2008, 122 Stat. 1406, and Pub. L. 110–246, §4(a), title XII, §12051, June 18, 2008, 122 Stat. 1664, 2168, provided that: “This subtitle \[subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, enacting sections 636e to 636k and 657i to 657<i>o</i> of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under section 636 of this title, and amending provisions set out as anote under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
+Pub. L. 110–186, §1, Feb. 14, 2008, 122 Stat. 623, provided that: “This Act \[amending sections 632, 636, 648, 657b, and 657c of this title, enacting provisions set out as notes under sections 636 and 637 of this title, and amending provisions set out as a note under section 657b of this title\] may be cited as the ‘Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: “This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business and Work Opportunity Act of 2007’.”
@@ -300,7 +308,7 @@ Pub. L. 105–277, div. C, title IX, §901, Oct. 21, 1998, 112 Stat. 2681–707,
 
 Pub. L. 105–135, §1(a), Dec. 2, 1997, 111 Stat. 2592, provided that: “This Act \[enacting sections 657a and 7109 of this title and former section 7109 of this title, amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, 697e, 7103, 7104, 7106, 7107, and 7110 of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and section 405 of Title 41, and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
 
-Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of thistitle, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
+Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
@@ -352,7 +360,7 @@ Section 1(a) of Pub. L. 100–656 provided that: “This Act \[amending this sec
 
 Section 1(a) of Pub. L. 100–590 provided that: “This Act \[enacting sections 687m and 697c of this title, amending this section and sections 631b, 632, 633, 634, 636, 637, 638, 644, 648, 681, 687b, and 694b to 697b of this title, repealing section 694 of this title, enacting provisions set out as notes under this section and sections 636, 637, 639, 644, 661, 694, 694b, and 697 of this title, and amending provisions set out as notes under this section and sections 633 and 637 of this title\] may be cited as the ‘Small Business Administration Reauthorization and Amendment Act of 1988’.”
 
-Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97 of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
+Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
 
 Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
@@ -404,7 +412,7 @@ Section 2\[1\] of Pub. L. 85–536 provided that this chapter should be known as
 
 #### Repeal of Inconsistent Laws
 
-Section 2\[37\], formerly section 2\[21\], of Pub. L. 85–536, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999, 113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
+Section 2\[44\], formerly section 2\[21\], of Pub. L. 85–536, renumbered §2\[30\] by Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; renumbered §2\[31\] by Pub. L. 104–121, title II, §222(1), Mar. 29, 1996, 110 Stat. 860; renumbered §2\[32\] by Pub. L. 105–135, title VI, §602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered §2\[34\] by Pub. L. 106–50, title II, §201(b)(1), Aug. 17, 1999, 113 Stat. 235; renumbered §2\[36\] by Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered §2\[37\] by Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; renumbered §2\[44\] by Pub. L. 110–234, title XII, §12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, §4(a), title XII, §12062(1), June 18, 2008, 122 Stat. 1664, 2169, provided that: “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
 
 #### Regulations
 
@@ -726,7 +734,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of Commerce (hereinafter referred to as “the Secretary”) shall—
 
-(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Government which affect or may contribute to the establishment, preservation, and strengthening of minority business enterprise.
+(1) Coordinate as consistent with law the plans, programs, and operations of the Federal Governmentwhich affect or may contribute to the establishment, preservation, and strengthening of minority business enterprise.
 
 (2) Promote the mobilization of activities and resources of State and local governments, businesses and trade associations, universities, foundations, professional organizations, and volunteer and other groups towards the growth of minority business enterprises, and facilitate the coordination of the efforts of these groups with those of Federal departments and agencies.
 
@@ -784,7 +792,7 @@ Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 197
 
 #### Executive Order No. 12061
 
-Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business ConferenceCommission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12269
 
@@ -876,11 +884,11 @@ Sec. 3. <i>Expedited Response to Worker Dislocation</i>. (a) The Secretary of La
 
 &emsp;(1) developing a set of methods to inform employers of the services available through Labor workforce programs, which will explain the requirements of the Worker Adjustment and Retraining Notification Act, 29 U.S.C. 2101 <i>et seq</i>., and provide information on worker adjustment programs, including the Trade Adjustment Assistance and the basic dislocated worker programs, emphasizing the importance of early intervention to minimize the affects of work layoffs;
 
-&emsp;(2) improving websites and other modes of communication to provide basic information on dislocatedworker and Trade Adjustment Assistance program contacts at the State and local level;
+&emsp;(2) improving websites and other modes of communication to provide basic information on dislocated worker and Trade Adjustment Assistance program contacts at the State and local level;
 
 &emsp;(3) developing a National Toll-Free Help Line to provide universal, accurate, and easy access to information about public workforce services to workers and employers;
 
-&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant community impact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
+&emsp;(4) providing on-site technical assistance, in partnership with other Federal agencies, when there are layoffs or closures with multi-State impact, or when there are dislocations with significant communityimpact (such as areas that have been affected by numerous layoffs of apparel and textile workers);
 
 &emsp;(5) informing States directly when a secondary worker impact has been affirmed by Labor; and
 
@@ -956,7 +964,7 @@ Sec. 8. <i>Definitions</i>. As used in this order:
 
 Sec. 9. <i>General Provisions</i>. (a) Heads of agencies shall carry out duties assigned by sections 3, 4, 5, 6, and 7 of this order to the extent consistent with applicable law and subject to the availability of appropriations.
 
-(b) To the extent permitted by law, an agency shall disclose personally identifying information on service-disabled veterans to other agencies who require suchinformation in order to discharge their responsibilities under this order.
+(b) To the extent permitted by law, an agency shall disclose personally identifying information on service-disabled veterans to other agencies who require such information in order to discharge their responsibilities under this order.
 
 (c) An agency that consists of a multi-member commission shall implement this order to the extent it determines appropriate to the accomplishment of the agency's mission.
 

@@ -32,7 +32,7 @@ The Director shall give priority to conducting studies and investigations and ma
 
 #### (d) Parishes of Louisiana; premium rates
 
-Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
+Notwithstanding any other provision of law, any structure existing on December 31, 1973, andlocated within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
@@ -74,7 +74,7 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon �
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (f) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the FederalEmergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (f) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

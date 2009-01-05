@@ -1,6 +1,6 @@
 ### §7628. Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica
 
-#### (a) Research grant authorized
+#### (a) Research grants authorized
 
 The Secretary of Agriculture may make grants to consortia of land-grant colleges and universities to enhance the ability of the consortia to carry out multi-State research projects aimed at understanding and combating diseases of wheat, triticale, and barley caused by Fusarium graminearum and related fungi (referred to in this section as “wheat scab”) or by Tilletia indica and related fungi (referred to in this section as “Karnal bunt”).
 
@@ -20,7 +20,7 @@ Funds provided under this section shall be available for the following collabora
 
 &emsp;&emsp;(C) milling and food processing techniques to render wheat scab contaminated grain safe.
 
-&emsp;(4) Strengthening and expansion of plant-breeding activities to enhance the resistanceof wheat, triticale, and barley to wheat scab and to Karnal bunt, including the establishment of a regional advanced breeding material evaluation nursery and a germplasm introduction and evaluation system.
+&emsp;(4) Strengthening and expansion of plant-breeding activities to enhance the resistance of wheat, triticale, and barley to wheat scab and to Karnal bunt, including the establishment of a regional advanced breeding material evaluation nursery and a germplasm introduction and evaluation system.
 
 &emsp;(5) Development and deployment of alternative fungicide application systems and formulations to control wheat scab and Karnal bunt and consideration of other chemical control strategies to assist farmers until new more resistant wheat, triticale, and barley varieties are available.
 
@@ -34,11 +34,19 @@ To oversee the use of a grant made under this section, the Secretary may establi
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2007.
+There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2012.
 
-(Pub. L. 105–185, title IV, §408, June 23, 1998, 112 Stat. 574; Pub. L. 107–171, title VII, §§7131, 7207(d)(1)–(4)(A), May 13, 2002, 116 Stat. 435, 440, 441.)
+(Pub. L. 105–185, title IV, §408, June 23, 1998, 112 Stat. 574; Pub. L. 107–171, title VII, §§7131, 7207(d)(1)–(4)(A), May 13, 2002, 116 Stat. 435, 440, 441; Pub. L. 110–234, title VII, §7307, May 22, 2008, 122 Stat. 1242; Pub. L. 110–246, §4(a), title VII, §7307, June 18, 2008, 122 Stat. 1664, 2004.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7307(1), substituted “grants” for “grant” in heading.
+
+Subsec. (e). Pub. L. 110–246, §7307(2), substituted “2012” for “2007”.
 
 2002—Pub. L. 107–171, §7207(d)(4)(A), substituted “, triticale, and barley caused by Fusarium graminearum or by Tilletia indica” for “and barley caused by Fusarium graminearum” in section catchline.
 
@@ -50,7 +58,7 @@ Subsec. (b)(2). Pub. L. 107–171, §7207(d)(2)(C), inserted “or Karnal bunt�
 
 Subsec. (b)(3)(A). Pub. L. 107–171, §7207(d)(2)(D), substituted “, triticale, and barley for the presence of Karnal bunt or of” for “and barley for the presence of”.
 
-Subsec. (b)(3)(B). Pub. L. 107–171, §7207(d)(2)(E), substituted “, triticale, and barley infected with wheat scab or with Karnal bunt” for “and barley infected with wheat scab”.
+Subsec. (b)(3)(B). Pub. L. 107–171, §7207(d)(2)(E), substituted “, triticale, and barley infected with wheatscab or with Karnal bunt” for “and barley infected with wheat scab”.
 
 Subsec. (b)(3)(C). Pub. L. 107–171, §7207(d)(2)(F), inserted “wheat scab” after “to render”.
 
@@ -61,4 +69,8 @@ Subsec. (b)(5). Pub. L. 107–171, §7207(d)(2)(H), inserted “and Karnal bunt�
 Subsec. (c). Pub. L. 107–171, §7207(d)(3), inserted “or Karnal bunt” after “wheat scab”.
 
 Subsec. (e). Pub. L. 107–171, §7131, substituted “such sums as may be necessary” for “$5,200,000” and “2007” for “2002”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -30,7 +30,7 @@
 
 (B) The Secretary may make a grant under this part to an eligible institution in any fiscal year if the institution—
 
-&emsp;(i) applies for a grant in an amount not exceeding $500,000; and
+&emsp;(i) applies for a grant in an amount not exceeding $1,000,000; and
 
 &emsp;(ii) has deposited in the eligible institution's endowment fund established under this section an amount which is equal to 1/2 of the amount of such grant.
 
@@ -42,7 +42,7 @@
 
 (B) No institution shall be ineligible for an endowment challenge grant under this section for a fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
 
-(5) An endowment challenge grant awarded under this section to an eligible institution shall be in an amount which is not less than $50,000 in any fiscal year.
+(5) An endowment challenge grant awarded under this section to an eligible institution shall be in an amount which is not less than $100,000 in any fiscal year.
 
 (6)(A) An eligible institution may designate a foundation, which was established for the purpose of raising money for the institution, as the recipient of the grant awarded under this section.
 
@@ -60,7 +60,7 @@
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
-(B) The institution, in investing the endowment fund established under this section, shallexercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
+(B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
 (3)(A) An institution may withdraw and expend the endowment fund income to defray any expenses necessary to the operation of such college, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, and technical assistance.
 
@@ -108,7 +108,11 @@ Any institution which is eligible for assistance under this section may submit t
 
 (2) If the Secretary terminates a grant under paragraph (1), the grantee shall return to the Secretary an amount equal to the sum of each original grant under this section plus income earned thereon. The Secretary may use such repaid funds to make additional endowment grants, or to increase existing challenge grants, to other eligible institutions under this part.
 
-(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646.)
+#### (i) Technical assistance
+
+The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this section.
+
+(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646; Pub. L. 110–315, title III, §313, Aug. 14, 2008, 122 Stat. 3180.)
 
 #### Prior Provisions
 
@@ -116,11 +120,17 @@ A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, t
 
 A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I,§101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1065, Pub. L. 89–329, title IV, §405, Nov. 8, 1965, 79 Stat. 1234; Pub. L. 90–575, title I, §101(b)(2), Oct. 16, 1968, 82 Stat. 1017, related to allotment and reallotment of funds among the States, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98–95, §2, Sept. 26, 1983, 97 Stat. 708, established program of matching grants to increase endowments at eligible institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(B)(i). Pub. L. 110–315, §313(a)(1), substituted “$1,000,000” for “$500,000”.
+
+Subsec. (b)(5). Pub. L. 110–315, §313(a)(2), substituted “$100,000” for “$50,000”.
+
+Subsec. (i). Pub. L. 110–315, §313(b), added subsec. (i).
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
 

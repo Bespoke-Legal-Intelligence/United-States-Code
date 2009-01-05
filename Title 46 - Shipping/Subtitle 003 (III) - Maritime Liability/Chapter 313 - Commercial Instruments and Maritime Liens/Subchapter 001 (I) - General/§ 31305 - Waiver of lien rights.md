@@ -1,6 +1,6 @@
 ### §31305. Waiver of lien rights
 
-This chapter does not prevent a mortgagee or other lien holder from waiving or subordinating at any time by agreement or otherwise the lienholder's right to a lien, the priority or, if a preferred mortgage lien, the preferred status of the lien.
+This chapter does not prevent a mortgagee or other lien holder from waiving or subordinating at any time by agreement or otherwise the lien holder's right to a lien, the priority or, if a preferred mortgage lien, the preferred status of the lien.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741.)
 

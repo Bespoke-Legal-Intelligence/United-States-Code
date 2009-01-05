@@ -38,7 +38,7 @@ Amount of Assistance.—(1) The amount of the financial assistance provided for 
 
 (3) In no case may the total amount of assistance provided for an individual under this section exceed $200,000.
 
-(4) Notwithstanding any other provision of law, financial assistance paid an individual under this section shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
+(4) Notwithstanding any other provision of law, financial assistance paid an individualunder this section shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
 
 (d)
 

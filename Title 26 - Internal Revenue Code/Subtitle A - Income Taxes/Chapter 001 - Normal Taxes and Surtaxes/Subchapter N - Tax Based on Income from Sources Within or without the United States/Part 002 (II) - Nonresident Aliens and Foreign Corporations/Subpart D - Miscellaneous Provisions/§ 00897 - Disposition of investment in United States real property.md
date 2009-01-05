@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
-> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
+> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss wereeffectively connected with such trade or business.
 
 #### (2) Minimum tax on nonresident alien individuals
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (ii) Termination
 
-&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2007. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2009. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
 
 #### (B) Domestically controlled
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) may be made only—
 
-&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the timeof the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
+&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
 
 &emsp;&emsp;(B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
 
@@ -304,9 +304,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865.)
 
 #### Amendments
+
+2008—Subsec. (h)(4)(A)(ii). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
 2006—Subsec. (h)(1). Pub. L. 109–222, §505(a)(1), in first sentence, substituted “a nonresident alien individual, a foreign corporation, or other qualified investment entity” for “a nonresident alien individual or a foreign corporation” and “such nonresident alien individual, foreign corporation, or other qualified investment entity” for “such nonresident alien individual or foreign corporation” and inserted second sentence and struck out former second sentence which read as follows: “Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.”
 
@@ -370,7 +372,7 @@ Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out “, etc.,�
 
 Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to section 1445.
 
-1982—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii) substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
+1982—Subsec. (a)(2)(A). Pub. L. 97–248 substituted “section 55(a)(1) for the taxable year shall not be less than 20 percent of the lesser of—” for “section 55(a)(1)(A) for the taxable year shall not be less than 20 percent of whichever of the following is the least:” in introductory provisions, in cl. (i) struck out “(1)” after “section 55(b)” and inserted “or” at the end, in cl. (ii)substituted a period for a comma and struck out “or” at the end, and struck out former cl. (iii), which had provided for the amount of $60,000 as a third alternative.
 
 1981—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
 
@@ -382,6 +384,10 @@ Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted “holds a Un
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (<i>l</i>).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title II, §208(b), Oct. 3, 2008, 122 Stat. 3865, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–222, title V, §504(b), May 17, 2006, 120 Stat. 355, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provisions of section 411 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which it relates.”
@@ -392,7 +398,7 @@ Pub. L. 109–222, title V, §506(c), May 17, 2006, 120 Stat. 358, provided that
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -418,7 +424,7 @@ Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Amendment by section 1810(f)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1810(f)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -468,7 +474,7 @@ In General.—For purposes of section 897 of the Internal Revenue Code of 1986, 
 
 &emsp;“(4) the transfer, sale, exchange, or other disposition is part of a single integrated plan, whereby the stock of the corporation described in paragraph (1) becomes owned directly by the 2 corporations specifically referred to in subsection (b) or by such 2 corporations and by 1 or both of their jointly owned direct subsidiaries,
 
-&emsp;“(5) within 20 days after each transfer, sale, exchange, or other disposition, the person making such transfer, sale, exchange, or other disposition notifiesthe Internal Revenue Service of the transaction, the date of the transaction, the basis of the stock involved, the holding period for such stock, and such other information as the Internal Revenue Service may require, and
+&emsp;“(5) within 20 days after each transfer, sale, exchange, or other disposition, the person making such transfer, sale, exchange, or other disposition notifies the Internal Revenue Service of the transaction, the date of the transaction, the basis of the stock involved, the holding period for such stock, and such other information as the Internal Revenue Service may require, and
 
 &emsp;“(6) the integrated plan is completed before the date 4 years after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\].
 

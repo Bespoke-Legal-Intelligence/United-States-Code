@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in paragraph (2), such allowance shall be, for 1999–2000 and succeeding academic years, the same amount as the institutional payment made for 1998–1999 adjusted annually thereafter in accordance with inflation as determined by the Department of Labor's Consumer Price Index for the previous calendar year.
+&emsp;The Secretary shall (in addition to stipends paid to individuals under this subpart) pay to the institution of higher education, for each individual awarded a fellowship under this subpart at such institution, an institutional allowance. Except as provided in paragraph (2), such allowance shall be, for 2009–2010 and succeeding academic years, the same amount as the institutional payment made for 2008–2009 adjusted annually thereafter in accordance with inflation as determined by the Department of Labor's Consumer Price Index for the previous calendar year.
 
 #### (2) Reduction
 
@@ -14,7 +14,7 @@
 
 Funds made available pursuant to this subpart may not be used for the general operational overhead of the academic department or program.
 
-(Pub. L. 89–329, title VII, §715, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1793.)
+(Pub. L. 89–329, title VII, §715, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1793; amended Pub. L. 110–315, title VII, §703(c), Aug. 14, 2008, 122 Stat. 3346.)
 
 #### Prior Provisions
 
@@ -30,9 +30,13 @@ A prior section 1135d–2, Pub. L. 89–329, title X, §1043, as added Pub. L. 9
 
 A prior section 1135d–3, Pub. L. 89–329, title X, §1044, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564, which contained administrative provisions, was renumbered section 364 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067j of this title.
 
-A prior section 1135d–4, Pub. L. 89–329, title X, §1045, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1565, related to establishment of Advisory Board for the Minority Science and Engineering Improvement Programs, prior to repeal by Pub. L. 102–325, §2, title X, §1002(e), July 23, 1992, 106 Stat. 458, 780, effective Oct. 1, 1992.
+A prior section 1135d–4, Pub. L. 89–329, title X, §1045, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1565, related to establishment of Advisory Board for the Minority Science and Engineering Improvement Programs, prior to repeal by Pub. L. 102–325, §2, title X,§1002(e), July 23, 1992, 106 Stat. 458, 780, effective Oct. 1, 1992.
 
 A prior section 1135d–5, Pub. L. 89–329, title X, §1046, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1566, which defined terms, was renumbered section 365 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067k of this title.
 
 A prior section 1135d–6, Pub. L. 89–329, title X, §1047, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1567; amended Pub. L. 100–418, title VI, §6221, Aug. 23, 1988, 102 Stat. 1518; Pub. L. 102–325, title X, §1002(f), July 23, 1992, 106 Stat. 780, which authorized appropriations, was renumbered section 366 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067<i>l</i> of this title, and repealed by section 301(a)(8) of Pub. L. 105–244.
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315 substituted “2009–2010” for “1999–2000” and “2008–2009” for “1998–1999”.
 

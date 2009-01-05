@@ -1,6 +1,6 @@
 ### §11103. Switch connections and tracks
 
-(a) On application of the owner of a lateral branch line of railroad, or of a shipper tendering interstate traffic for transportation, a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall construct, maintain, and operate, on reasonable conditions, a switch connection to connect that branch line or private side track with its railroad and shall furnish cars to move that traffic to the best of its ability without discrimination in favor of or against the shipper when the connection—
+(a) On application of the owner of a lateral branch line of railroad, or of a shipper tendering interstate traffic for transportation, a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall construct, maintain, and operate, on reasonableconditions, a switch connection to connect that branch line or private side track with its railroad and shall furnish cars to move that traffic to the best of its ability without discrimination in favor of or against the shipper when the connection—
 
 &emsp;(1) is reasonably practicable;
 

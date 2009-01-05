@@ -32,7 +32,7 @@ Limitations on Additional Payments.—(1) The total amount of the additional pay
 
 (2) An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section.
 
-(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee under this section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
+(3) Notwithstanding any other provision of this subsection or of section 5307, no additional payments may be paid to an employee underthis section in any calendar year if, or to the extent that, the employee's total annual compensation will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
 
 (e)
 
@@ -51,4 +51,8 @@ Savings Provisions.—In the event that the Secretary terminates this program, i
 &emsp;(2) the rate of basic pay prescribed for the position under this section may not be reduced as long as the employee continues to serve in the position without a break in service.
 
 (Added Pub. L. 108–136, div. A, title XI, §1101(a)(1), Nov. 24, 2003, 117 Stat. 1632.)
+
+#### References to Maximum Rate Under 5 U.S.C. 5376
+
+Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.
 

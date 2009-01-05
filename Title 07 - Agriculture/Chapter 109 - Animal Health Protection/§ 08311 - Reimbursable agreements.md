@@ -2,7 +2,7 @@
 
 #### (a) Authority to enter into agreements
 
-The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside theUnited States for movement into the United States.
+The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside the United States for movement into the United States.
 
 #### (b) Funds collected for preclearance
 
@@ -50,5 +50,5 @@ Funds collected for preclearance activities shall—
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretaryof Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

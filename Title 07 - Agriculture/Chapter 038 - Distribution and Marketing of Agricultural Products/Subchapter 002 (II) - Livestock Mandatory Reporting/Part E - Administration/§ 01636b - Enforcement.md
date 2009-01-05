@@ -64,7 +64,7 @@ No penalty shall be assessed, or cease and desist order issued, by the Secretary
 
 #### (1) In general
 
-&emsp;If a person subject to this subchapter fails to obey a cease and desist or civil penalty order issued under this subsection after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, the United States may apply to the appropriate district court for enforcement of the order.
+&emsp;If a person subject to this subchapter fails to obey a cease and desist or civil penalty orderissued under this subsection after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, the United States may apply to the appropriate district court for enforcement of the order.
 
 #### (2) Enforcement
 

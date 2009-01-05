@@ -18,9 +18,9 @@ For the purpose of any civil action which may be brought within the United State
 
 As used in this section—
 
-&emsp;(1) the term “Border Environment Cooperation Agreement” means the November 1993Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank;
+&emsp;(1) the term “Border Environment Cooperation Agreement” means the November 1993 Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank;
 
-&emsp;(2) the terms “Border Environment Cooperation Commission” and “Commission” mean the commission established pursuant to Chapter I of the Border Environment Cooperation Agreement; and
+&emsp;(2) the terms “Border Environment Cooperation Commission” and “Commission” meanthe commission established pursuant to Chapter I of the Border Environment Cooperation Agreement; and
 
 &emsp;(3) the term “United States” means the United States, its territories and possessions, and the Commonwealth of Puerto Rico.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) a simplified employee pension described in section 408(k),
 
-> &emsp;such a contract, plan, or pension shall not be considered to be described in section 403(a), 403(b), or 408(k), as the case may be, unless it satisfies the requirements of subparagraph (A) or subparagraph (B) of paragraph (1), whichever is appropriate, and has not been disqualified under subsection (g). In the case of an annuity contract described in section 403(b), the preceding sentence shall apply only to the portion of the annuity contract which exceeds the limitation of subsection (b) or the limitation of subsection (c), whichever is appropriate.
+> &emsp;such a contract, plan, or pension shall not be considered to be described in section 403(a), 403(b), or 408(k), as the case may be, unless it satisfies the requirements of subparagraph (A) or subparagraph (B) of paragraph (1), whichever is appropriate, and has not been disqualified under subsection (g). In the case of an annuity contract described in section 403(b), thepreceding sentence shall apply only to the portion of the annuity contract which exceeds the limitation of subsection (b) or the limitation of subsection (c), whichever is appropriate.
 
 #### (b) Limitation for defined benefit plans
 
@@ -48,7 +48,7 @@
 
 #### (D) Adjustment to $160,000 limit where benefit begins after age 65
 
-&emsp;&emsp;If the retirement income benefit under the plan begins after age 65, the determination as to whether the $160,000 limitation setforth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 65.
+&emsp;&emsp;If the retirement income benefit under the plan begins after age 65, the determination as to whether the $160,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 65.
 
 #### (E) Limitation on certain assumptions
 
@@ -66,7 +66,9 @@
 
 &emsp;&emsp;(iv) For purposes of this subsection, no adjustments under subsection (d)(1) shall be taken into account before the year for which such adjustment first takes effect.
 
-&emsp;&emsp;(v) For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date the adjustment is being made (without regard to any other subparagraph of section 807(d)(5)).
+&emsp;&emsp;(v) For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the applicable mortality table (within the meaning of section 417(e)(3)(B)).
+
+&emsp;&emsp;(vi) In the case of a plan maintained by an eligible employer (as defined in section 408(p)(2)(C)(i)), clause (ii) shall be applied without regard to subclause (II) thereof.
 
 #### \[(F) Repealed. Pub. L. 107–16, title VI, §611(a)(5)(A), June 7, 2001, 115 Stat. 97\]
 
@@ -82,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(ii) with respect to whom the period of service taken into account in determining the amount of the benefit under such defined benefit plan includes at least 15 years of service of the participant—
 
-&emsp;&emsp;&emsp;&emsp;(I) as a full-time employee of any police department or fire department which is organized and operated by the State, Indian tribal government (as so defined), or any political subdivision maintaining such defined benefit plan to provide police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State, Indian tribal government (as so defined), or any political subdivision, or
+&emsp;&emsp;&emsp;&emsp;(I) as a full-time employee of any police department or fire department which is organized and operated by theState, Indian tribal government (as so defined), or any political subdivision maintaining such defined benefit plan to provide police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State, Indian tribal government (as so defined), or any political subdivision, or
 
 &emsp;&emsp;&emsp;&emsp;(II) as a member of the Armed Forces of the United States.
 
@@ -112,7 +114,7 @@
 
 &emsp;&emsp;In the case of an employee who has less than 10 years of participation in a defined benefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
 
-&emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participationin the defined benefit plan of the employer, and
+&emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participation in the defined benefit plan of the employer, and
 
 &emsp;&emsp;&emsp;(ii) the denominator of which is 10.
 
@@ -154,7 +156,7 @@
 
 &emsp;&emsp;(E) which requires, as a condition of participation in the plan, that an employee complete a period of not more than 60 consecutive days of service with the employer or employers maintaining the plan.
 
-> &emsp;This paragraph shall not apply to a participant whose compensation for any 3 years during the 10-year period immediately preceding the year in which he separates from service exceeded the average compensation for such 3 years of all participants in such plan. This paragraph shall not apply to a participant for any period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan. For any year for which the paragraph applies to benefits with respect to a participant, paragraph (1)(A) and subsection (d)(1)(A) shall be applied with respect to such participant by substituting one-half the amount otherwise applicable for such year under paragraph (1)(A) for “$160,000”.
+> &emsp;This paragraph shall not apply to a participant whose compensation for any 3 years during the 10-year period immediately preceding the year in which he separates from service exceeded the average compensation for such 3 years of all participants in such plan. This paragraph shall not apply to a participant forany period for which he is a participant under another plan to which this section applies which is maintained by an employer maintaining this plan. For any year for which the paragraph applies to benefits with respect to a participant, paragraph (1)(A) and subsection (d)(1)(A) shall be applied with respect to such participant by substituting one-half the amount otherwise applicable for such year under paragraph (1)(A) for “$160,000”.
 
 #### (8) Social security retirement age defined
 
@@ -188,7 +190,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, tohave this subsection (other than paragraph (2)(G)).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)).
 
 #### (ii) Revocation of election
 
@@ -292,7 +294,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a lay person,
 
-&emsp;&emsp;&nbsp;as an employee of a church, a convention or association of churches, including an organization described in section 414(e)(3)(B)(ii), shall be considered as years of service for 1 employer, and
+&emsp;&emsp;&nbsp;as an employee of a church, a convention or association of churches, including an organization described in section414(e)(3)(B)(ii), shall be considered as years of service for 1 employer, and
 
 &emsp;&emsp;&emsp;(ii) all amounts contributed for annuity contracts by each such church (or convention or association of churches) or such organization during such years for such minister or lay person shall be considered to have been contributed by 1 employer.
 
@@ -372,15 +374,7 @@
 
 &emsp;&emsp;(B) all defined contribution plans (whether or not terminated) of an employer are to be treated as one defined contribution plan.
 
-#### (2) Annual compensation taken into account for defined benefit plans
-
-&emsp;If the employer has more than one defined benefit plan—
-
-&emsp;&emsp;(A) subsection (b)(1)(B) shall be applied separately with respect to each such plan, but
-
-&emsp;&emsp;(B) in applying subsection (b)(1)(B) to the aggregate of such defined benefit plans for purposes of this subsection, the high 3 years of compensation taken into account shall be the period of consecutive calendar years (not more than 3) during which the individual had the greatest aggregate compensation from the employer.
-
-#### (3) Exception for multiemployer plans
+#### (2) Exception for multiemployer plans
 
 &emsp;Notwithstanding paragraph (1) and subsection (g), a multiemployer plan (as defined in section 414(f)) shall not be combined or aggregated—
 
@@ -390,7 +384,7 @@
 
 #### (g) Aggregation of plans
 
-Except as provided in subsection (f)(3), the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+Except as provided in subsection (f)(3),<sup>1</sup> the Secretary, in applying the provisions of this section to benefits or contributions under morethan one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 
 #### (h) 50 percent control
 
@@ -578,7 +572,11 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;&emsp;(ii) the distribution rules applicable under this title to the defined benefit governmental plan to which any amounts are so transferred shall apply to such amounts and any benefits attributable to such amounts.
 
-(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), Apr. 1, 1980, 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50; Pub. L. 108–218, title I, §101(b)(4), Apr. 10, 2004, 118 Stat. 598; Pub. L. 108–311, title IV, §§404(b)(2), 408(a)(17), Oct. 4, 2004, 118 Stat. 1188, 1192; Pub. L. 109–135, title IV, §§407(b), 412(y), (z), Dec. 21, 2005, 119 Stat. 2635, 2638; Pub. L. 109–280, title III, §303(a), title VIII, §§821(a)–(c), 832(a), 867(a), title IX, §906(b)(1)(A), (B), Aug. 17, 2006, 120 Stat. 921, 997, 1003, 1025, 1051, 1052.)
+(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), Apr. 1, 1980, 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50; Pub. L. 108–218, title I, §101(b)(4), Apr. 10, 2004, 118 Stat. 598; Pub. L. 108–311, title IV, §§404(b)(2), 408(a)(17), Oct. 4, 2004, 118 Stat. 1188, 1192; Pub. L. 109–135, title IV, §§407(b), 412(y), (z), Dec. 21, 2005, 119 Stat. 2635, 2638; Pub. L. 109–280, title III, §303(a), title VIII, §§821(a)–(c), 832(a), 867(a), title IX, §906(b)(1)(A), (B), Aug. 17, 2006, 120 Stat. 921, 997, 1003, 1025, 1051, 1052; Pub. L. 110–458, title I, §§103(b)(2)(B)(i), 108(g), 109(d)(1), 122(a), Dec. 23, 2008, 122 Stat. 5103, 5109, 5112, 5114.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -586,7 +584,17 @@ The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Au
 
 The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
+Subsection (f)(3), referred to in subsec. (g), was redesignated subsection (f)(2) by Pub. L. 100–458, title I, §108(g), Dec. 23, 2008, 122 Stat. 5109.
+
 #### Amendments
+
+2008—Subsec. (b)(2)(E)(v). Pub. L. 110–458, §103(b)(2)(B)(i), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B), (C), or (D), the mortality table used shall be the table prescribed by the Secretary. Such table shall be based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on the date the adjustment is being made (without regard to any other subparagraph of section 807(d)(5)).”
+
+Subsec. (b)(2)(E)(vi). Pub. L. 110–458, §122(a), added cl. (vi).
+
+Subsec. (b)(10). Pub. L. 110–458, §109(d)(1), made technical correction to directory language of Pub. L. 109–280, §906(b)(1)(B)(ii). See 2006 Amendment note below.
+
+Subsec. (f)(2), (3). Pub. L. 110–458, §108(g), redesignated par. (3) as par. (2) and struck out former par. (2) which related to annual compensation taken into account for defined benefit plans.
 
 2006—Subsec. (b)(2)(E)(ii). Pub. L. 109–280, §303(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3), the applicable interest rate (as defined in section 417(e)(3)) shall be substituted for ‘5 percent’ in clause (i), except that in the case of plan years beginning in 2004 or 2005, ‘5.5 percent’ shall be substituted for ‘5 percent’ in clause (i).”
 
@@ -596,7 +604,7 @@ Subsec. (b)(2)(H)(ii)(I). Pub. L. 109–280, §906(b)(1)(A)(ii), substituted “
 
 Subsec. (b)(3). Pub. L. 109–280, §832(a), struck out “both was an active participant in the plan and” before “had the greatest”.
 
-Subsec. (b)(10). Pub. L. 109–280, §906(b)(1)(B)(ii), which directed the amendment of par. (1) by substituting “State, Indian tribal, and” for “State and” in heading, was executed by making the substitution in par. (10) heading, to reflect the probable intent of Congress.
+Subsec. (b)(10). Pub. L. 109–280, §906(b)(1)(B)(ii), as amended by Pub. L. 110–458, §109(d)(1), substituted “State, Indian tribal, and” for “State and” in heading.
 
 Subsec. (b)(10)(A). Pub. L. 109–280, §906(b)(1)(B)(i), inserted “or a governmental plan described in the last sentence of section 414(d) (relating to plans of Indian tribal governments),” after “foregoing,”.
 
@@ -816,7 +824,7 @@ Subsec. (c)(6)(A). Pub. L. 99–514, §1174(d)(1), substituted “highly compens
 
 Subsec. (c)(6)(B)(iii), (iv). Pub. L. 99–514, §1174(d)(2)(A), struck out cls. (iii) and (iv) which read as follows:
 
-&emsp;“(iii) an employee described in this clause is any participant whose compensation for a year exceeds an amount equal to twice the amount described in paragraph (1)(A) for such year (as adjusted for such year pursuant to subsection (d)(1)), determined without regard to subparagraph (A) of this paragraph, and
+&emsp;“(iii) an employee described in this clause is any participant whose compensation for a year exceeds anamount equal to twice the amount described in paragraph (1)(A) for such year (as adjusted for such year pursuant to subsection (d)(1)), determined without regard to subparagraph (A) of this paragraph, and
 
 &emsp;“(iv) an individual shall be considered to own more than 10 percent of the employer's stock if, without regard to stock held under the employee stock ownership plan, he owns (after application of section 1563(e)) more than 10 percent of the total combined voting power of all classes of stock entitled to vote or more than 10 percent of the total value of shares of all classes of stock.”
 
@@ -961,6 +969,18 @@ Subsec. (e)(3)(B). Pub. L. 94–455, §803(f)(2), substituted “with the employ
 Subsec. (e)(5). Pub. L. 94–455, §803(b)(4), substituted “For purposes of this section” for “For purposes of this subsection”.
 
 Subsecs. (g), (i), (j). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–458, title I, §103(b)(2)(B)(ii), Dec. 23, 2008, 122 Stat. 5103, provided that:
+
+“(I) Except as provided in subclause (II), the amendment made by clause (i) \[amending this section\] shall apply to years beginning after December 31, 2008.
+
+“(II) A plan sponsor may elect to have the amendment made by clause (i) apply to any year beginning after December 31, 2007, and before January 1, 2009, or to any portion of any such year.”
+
+Amendment by sections 108(g) and 109(d)(1) of Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
+Pub. L. 110–458, title I, §122(b), Dec. 23, 2008, 122 Stat. 5114, provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 2008.”
 
 #### Effective Date of 2006 Amendment
 
@@ -1130,7 +1150,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Collective bargaining agreements.—In the case of a plan in effect before March 1, 1986, pursuantto 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section (other than subsection (d)) shall not apply to contributions or benefits pursuant to such agreement in years beginning before October 1, 1991.
+Collective bargaining agreements.—In the case of a plan in effect before March 1, 1986, pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, the amendments made by this section (other than subsection (d)) shall not apply to contributions or benefits pursuant to such agreement in years beginning before October 1, 1991.
 
 “(3)
 
@@ -1160,7 +1180,7 @@ Special rule.—For purposes of determining the amount of any individual's curre
 
 “(4)
 
-Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution planfraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
 
 “(5)
 
@@ -1344,7 +1364,7 @@ Transition rule for defined benefit plans.—In the case of an individual who wa
 
 &emsp;&emsp;“(A) the annual benefit (within the meaning of section 415(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) payable to such participant on retirement does not exceed 100 percent of his annual rate of compensation on the earlier of (i) October 2, 1973, or (ii) the date on which he separated from the service of the employer,
 
-&emsp;&emsp;“(B) such annual benefit is no greater than the annual benefit which would have been payable to such participant on retirement if (i) all the terms and conditions of such plan in existence on such date had remained in existence until such retirement, and (ii) his compensation taken into account for any period after October 2, 1973, had not exceeded his annual rate of compensation on such date, and
+&emsp;&emsp;“(B) such annual benefit is no greater than the annual benefit which would have been payable to such participant on retirement if (i) all the termsand conditions of such plan in existence on such date had remained in existence until such retirement, and (ii) his compensation taken into account for any period after October 2, 1973, had not exceeded his annual rate of compensation on such date, and
 
 &emsp;&emsp;“(C) in the case of a participant who separated from the service of the employer prior to October 2, 1973, such annual benefit is no greater than his vested accrued benefit as of the date he separated from the service,
 
@@ -1379,4 +1399,6 @@ Section 2004(a)(3) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct
 &emsp;“(B) no contributions are made under the defined contribution plan after such date.
 
 > A trust which is part of a pension, profit-sharing, or stock bonus plan described in the preceding sentence shall not be treated as not constituting a qualified trust under section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on account of the provisions of section 415(e) of such Code, as long as it is described in the preceding sentence of this subsection.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

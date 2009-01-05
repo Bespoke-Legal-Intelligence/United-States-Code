@@ -40,7 +40,7 @@ Each Panel's report shall contain a complete statement of the basis for the Pane
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970,84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) In the case of contracts entered into under this part, and amendments to such contracts, for which implementing legislation will be needed, the Secretary may transmit an implementing bill to both Houses of the Congress.
+(1) In the case of contracts entered into under this part, and amendments to such contracts,for which implementing legislation will be needed, the Secretary may transmit an implementing bill to both Houses of the Congress.
 
 (2) In the Senate, any such bill shall be considered in accordance with the provisions of this section.
 
@@ -62,7 +62,7 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 
 (2) A vote on final passage of the bill shall be taken in the Senate on or before the close of the 15th day after the bill is reported by the committee or committees to which it was referred or after such committee or committees have been discharged from further consideration of the bill.
 
-(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1) of this section, referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committee or committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
+(3) The provisions of paragraphs (1) and (2) shall not apply in the Senate to an implementing revenue bill. An implementing revenue bill received from the House shall be, subject to subsection (f)(1) of this section, referred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill at the close of the 15th day after its receipt by the Senate, such committeeor committees shall be automatically discharged from further consideration of such bill and it shall be placed on the calendar. A vote on final passage of such bill shall be taken in the Senate on or before the close of the 15th day after such bill is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill.
 
 (4) For purposes of this subsection, in computing a number of days in the Senate, there shall be excluded any day on which the Senate is not in session.
 

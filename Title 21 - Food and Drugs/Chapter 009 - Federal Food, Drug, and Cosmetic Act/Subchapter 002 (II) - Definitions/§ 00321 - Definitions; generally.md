@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 (p) The term “new drug” means—
 
-&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subjectto the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
+&emsp;(1) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug is not generally recognized, among experts qualified by scientific training and experience to evaluate the safety and effectiveness of drugs, as safe and effective for use under the conditions prescribed, recommended, or suggested in the labeling thereof, except that such a drug not so recognized shall not be deemed to be a “new drug” if at any time prior to June 25, 1938, it was subject to the Food and Drugs Act of June 30, 1906, as amended, and if at such time its labeling contained the same representations concerning the conditions of its use; or
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
@@ -130,7 +130,7 @@ For the purposes of this chapter—
 
 &emsp;(5) The presiding officer in such hearing shall prepare a written report of the hearing to which shall be attached all written material presented at the hearing. The participants in the hearing shall be given the opportunity to review and correct or supplement the presiding officer's report of the hearing.
 
-&emsp;(6) The Secretary may require the hearing to be transcribed. A party to the hearing shall have the right to have the hearing transcribed at his expense. Any transcription of a hearingshall be included in the presiding officer's report of the hearing.
+&emsp;(6) The Secretary may require the hearing to be transcribed. A party to the hearing shall have the right to have the hearing transcribed at his expense. Any transcription of a hearing shall be included in the presiding officer's report of the hearing.
 
 (y) The term “saccharin” includes calcium saccharin, sodium saccharin, and ammonium saccharin.
 
@@ -268,7 +268,7 @@ The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1),
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10\(§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 The Meat Inspection Act of March 4, 1907, as amended and extended, referred to in par. (s)(4), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
@@ -326,7 +326,7 @@ Par. (h). Pub. L. 103–80, §4(b), amended directory language of Pub. L. 102–
 
 Pars. (v) to (ff). Pub. L. 103–80, §3(b), redesignated pars. (w) to (ff) as (v) to (ee), respectively.
 
-1992—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
+1992—Pars. (c), (d). Pub. L. 102–300, §6(b)(1), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because such words did not appear in theoriginal statutory text. See 1993 Amendment note above and Transfer of Functions notes below.
 
 Par. (h). Pub. L. 102–300, §6(a)(1), as amended by Pub. L. 103–80, §4(b), substituted “its primary” for “any of its principal” in two places in concluding provisions.
 
@@ -434,7 +434,7 @@ Section 107 of Pub. L. 87–781 provided that:
 
 “(a) Except as otherwise provided in this section, the amendments made by the foregoing sections of this part A \[amending this section and sections 331, 332, 348, 351 to 353, 355, 357, 379e of this title, and enacting provisions set out as a note under section 355 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].
 
-“(b) The amendments made by sections 101, 103, 105, and 106 of this part A \[amending sections 331, 332, 351,352, 355, and 357 of this title\] shall, with respect to any drug, take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[Oct. 1962\].
+“(b) The amendments made by sections 101, 103, 105, and 106 of this part A \[amending sections 331, 332, 351, 352, 355, and 357 of this title\] shall, with respect to any drug, take effect on the first day of the seventh calendar month following the month in which this Act is enacted \[Oct. 1962\].
 
 “(c)(1) As used in this subsection, the term ‘enactment date’ means the date of enactment of this Act; and the term ‘basic Act’ means the Federal Food, Drug, and Cosmetic Act \[this chapter\].
 
@@ -462,7 +462,7 @@ For effective date of amendment by act July 22, 1954, see section 5 of that act,
 
 #### Construction of Amendments by Pub. L. 102–282
 
-Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
+Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same actionsubject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
 
 #### Construction of Amendments by Pub. L. 101–535
 
@@ -482,7 +482,7 @@ Section 702 of Pub. L. 91–513, as amended by Pub. L. 93–481, §2, Oct. 26, 1
 
 #### Transfer of Functions
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V,§509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
 
@@ -546,7 +546,7 @@ Section 5 of Pub. L. 90–639 provided that: “It is the sense of the Congress 
 
 #### Congressional Findings and Declaration of Policy
 
-Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of originand because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
+Section 2 of Pub. L. 89–74 provided that: “The Congress hereby finds and declares that there is a widespread illicit traffic in depressant and stimulant drugs moving in or otherwise affecting interstate commerce; that the use of such drugs, when not under the supervision of a licensed practitioner, often endangers safety on the highways (without distinction of interstate and intrastate traffic thereon) and otherwise has become a threat to the public health and safety, making additional regulation of such drugs necessary regardless of the intrastate or interstate origin of such drugs; that in order to make regulation and protection of interstate commerce in such drugs effective, regulation of intrastate commerce is also necessary because, among other things, such drugs, when held for illicit sale, often do not bear labeling showing their place of origin and because in the form in which they are so held or in which they are consumed a determination of their place of origin is often extremely difficult or impossible; and that regulation of interstate commerce without the regulation of intrastate commerce in such drugs, as provided in this Act \[see Short Title of 1965 Amendment note set out under section 301 of this title\], would discriminate against and adversely affect interstate commerce in such drugs.”
 
 #### Effect of Drug Abuse Control Amendments of 1965 on State Laws
 

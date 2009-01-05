@@ -24,7 +24,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchangefor stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+&emsp;&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchange for stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
 
 #### (ii) Recapitalizations of family-owned corporations
 

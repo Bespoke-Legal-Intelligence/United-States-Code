@@ -206,7 +206,7 @@ Subsec. (c). Pub. L. 99–509 substituted “the Hazardous Substance Superfund f
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 Section 513(h) of Pub. L. 99–499, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

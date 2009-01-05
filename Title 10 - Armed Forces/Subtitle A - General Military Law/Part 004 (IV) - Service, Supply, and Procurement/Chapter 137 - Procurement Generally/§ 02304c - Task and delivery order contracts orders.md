@@ -26,17 +26,57 @@ Statement of Work.—A task or delivery order shall include a statement of work 
 
 (d)
 
-Protests.—A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.
+Enhanced Competition for Orders in Excess of $5,000,000.—In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (b) is not metunless all such contractors are provided, at a minimum—
+
+&emsp;(1) a notice of the task or delivery order that includes a clear statement of the agency's requirements;
+
+&emsp;(2) a reasonable period of time to provide a proposal in response to the notice;
+
+&emsp;(3) disclosure of the significant factors and subfactors, including cost or price, that the agency expects to consider in evaluating such proposals, and their relative importance;
+
+&emsp;(4) in the case of an award that is to be made on a best value basis, a written statement documenting the basis for the award and the relative importance of quality and price or cost factors; and
+
+&emsp;(5) an opportunity for a post-award debriefing consistent with the requirements of section 2305(b)(5) of this title.
 
 (e)
 
-Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
+Protests.—(1) A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
+
+&emsp;(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
+
+&emsp;(B) a protest of an order valued in excess of $10,000,000.
+
+(2) Notwithstanding section 3556 of title 31, the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+
+(3) This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.
 
 (f)
 
+Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
+
+(g)
+
 Applicability.—This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3252; Pub. L. 110–181, div. A, title VIII, §843(a)(2), Jan. 28, 2008, 122 Stat. 237.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(3), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–181, §843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–181, §843(a)(2)(C), which directed that subsec. (e) be added and former subsec. (e) “as redesignated by paragraph (1)” be struck out, was executed by adding subsec. (e) and striking out heading and text of former subsec. (e) as redesignated by section 843(a)(2)(A) of Pub. L. 110–181 to reflect the probable intent of Congress. See below. Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
+
+Pub. L. 110–181, §843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsecs. (f), (g). Pub. L. 110–181, §843(a)(2)(A), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: “The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date.”
 
 #### Effective Date
 

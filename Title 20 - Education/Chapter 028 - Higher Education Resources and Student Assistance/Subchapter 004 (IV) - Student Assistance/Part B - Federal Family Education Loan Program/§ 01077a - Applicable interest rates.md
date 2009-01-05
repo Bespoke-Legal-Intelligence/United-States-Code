@@ -18,7 +18,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the applicable rate of interest on loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on or after October 1, 1981, shall be 14 percent per year on the unpaid principal balance of the loan.
+&emsp;Except as otherwise provided in this subsection, the applicable rate of interest on loans made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title on or after October 1, 1981,shall be 14 percent per year on the unpaid principal balance of the loan.
 
 #### (2) Reduction of rate after decline in Treasury bill rates
 
@@ -144,7 +144,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 > &emsp;except that such rate shall not exceed 8.25 percent.
 
-#### (2) Interest rates for new plus loans after July 1, 1998
+#### (2) Interest rates for new PLUS loans after July 1, 1998
 
 &emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to any loan made under section 1078–2 of this title for which the first disbursement is made on or after July 1, 1998, paragraph (1) shall be applied—
 
@@ -204,13 +204,13 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (6) Publication of Treasury bill rate
 
-&emsp;For the purpose of enabling holders of loans to make the determinations and adjustments provided for in this subsection, the Secretary shall for each calendar quarter commencing with the quarter beginning on July 1, 1987,publish a notice of the average of the bond equivalent rates of 91-day Treasury bills auctioned for such quarter. Such notice shall be published not later than 7 days after the end of the quarter to which the notice relates.
+&emsp;For the purpose of enabling holders of loans to make the determinations and adjustments provided for in this subsection, the Secretary shall for each calendar quarter commencing with the quarter beginning on July 1, 1987, publish a notice of the average of the bond equivalent rates of 91-day Treasury bills auctioned for such quarter. Such notice shall be published not later than 7 days after the end of the quarter to which the notice relates.
 
 #### (7) Conversion to variable rate
 
 &emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
-&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
+&emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3).The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 
 &emsp;(C) A lender or holder of a loan being converted pursuant to this paragraph shall complete such conversion on or before January 1, 1995. The lender or holder shall notify the borrower that the loan shall be converted to a variable interest rate and provide a description of the rate to the borrower not later than 30 days prior to the conversion. The notice shall advise the borrower that such rate shall be calculated in accordance with the procedures set forth in this paragraph and shall provide the borrower with a substantially equivalent benefit as the adjustment otherwise provided for under this subsection. Such notice may be incorporated into the disclosure required under section 1083(b) of this title if such disclosure has not been previously made.
 
@@ -258,7 +258,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (otherthan a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -336,7 +336,7 @@ Nothing in this section or section 1078–3 of this title shall be construed to 
 
 For the purpose of subsections (a) and (d) of this section—
 
-&emsp;(1) the term “period of instruction” shall, at the discretion of the lender, be any academic year, semester, trimester, quarter, or otheracademic period; or shall be the period for which the loan is made as determined by the institution of higher education; and
+&emsp;(1) the term “period of instruction” shall, at the discretion of the lender, be any academic year, semester, trimester, quarter, or other academic period; or shall be the period for which the loan is made as determined by the institution of higher education; and
 
 &emsp;(2) the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
@@ -348,7 +348,7 @@ Section 1078–1 of this title, referred to in subsecs. (c) to (e)(1), was repea
 
 #### Codification
 
-Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
+Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L.102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -416,7 +416,7 @@ Subsecs. (f) to (h). Pub. L. 102–325, §415(c)(1), redesignated subsecs. (e) t
 
 Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “For any calendar year, the rate determined under this subparagraph is determined on December 15 preceding such calendar year and is equal to—
 
-&emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 monthsending on November 30 preceding such calendar year; plus
+&emsp;“(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 months ending on November 30 preceding such calendar year; plus
 
 &emsp;“(ii) 3.75 percent.”
 

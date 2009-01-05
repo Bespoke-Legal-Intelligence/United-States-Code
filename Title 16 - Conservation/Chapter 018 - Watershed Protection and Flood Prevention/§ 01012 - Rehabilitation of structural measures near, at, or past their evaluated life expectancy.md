@@ -18,7 +18,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) The pilot watershed program authorized under the heading “
 
-Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
+Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
 &emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
@@ -46,7 +46,7 @@ Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Pub
 
 #### (c) Technical assistance for watershed project rehabilitation
 
-The Secretary, acting through the Natural Resources Conservation Service, may provide technical assistance in planning, designing, and implementing rehabilitation projects should a local organization request such assistance. Such assistance may consist of specialists in such fields as engineering, geology, soils, agronomy, biology, hydraulics, hydrology, economics, water quality, and contract administration.
+The Secretary, acting through the Natural Resources Conservation Service, may provide technical assistance in planning, designing, and implementing rehabilitation projects should a local organization request such assistance. Such assistance may consist of specialists in suchfields as engineering, geology, soils, agronomy, biology, hydraulics, hydrology, economics, water quality, and contract administration.
 
 #### (d) Prohibited use
 
@@ -84,9 +84,11 @@ The Secretary may not approve a rehabilitation request if the need for rehabilit
 
 &emsp;&emsp;(D) $60,000,000 for fiscal year 2006;
 
-&emsp;&emsp;(E) $65,000,000 for fiscal year 2007; and
+&emsp;&emsp;(E) $65,000,000 for fiscal year 2007; and <sup>1</sup>
 
-&emsp;&emsp;(F) $0 for fiscal year 2008.
+&emsp;&emsp;(F) $0 for fiscal year 2008.<sup>2</sup>
+
+&emsp;&emsp;(G) $100,000,000 for fiscal year 2009, to be available until expended.
 
 #### (2) Authorization of appropriations
 
@@ -100,7 +102,7 @@ The Secretary may not approve a rehabilitation request if the need for rehabilit
 
 &emsp;&emsp;(D) $75,000,000 for fiscal year 2006; and
 
-&emsp;&emsp;(E) $85,000,000 for fiscal year 2007.
+&emsp;&emsp;(E) $85,000,000 for each of fiscal years 2008 through 2012.
 
 #### (i) Assessment of rehabilitation needs
 
@@ -116,7 +118,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 &emsp;Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274.)
+(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814.)
 
 #### References in Text
 
@@ -126,9 +128,17 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 
 Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat.1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (h)(1)(G). Pub. L. 110–246, §2803(a), added subpar. (G).
+
+Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
 2002—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
@@ -141,4 +151,8 @@ The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. 
 &emsp;“(4) $25,000,000 for fiscal year 2004; and
 
 &emsp;“(5) $35,000,000 for fiscal year 2005.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

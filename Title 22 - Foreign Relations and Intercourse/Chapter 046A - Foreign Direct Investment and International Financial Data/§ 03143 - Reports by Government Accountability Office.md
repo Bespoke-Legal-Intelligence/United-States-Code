@@ -14,7 +14,7 @@ Consistent with the provisions of this section, the Comptroller General may subm
 
 &emsp;(3) making recommendations for improving the collection by respective Federal agencies of data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information that avoids unnecessary redundancy among Federal agencies;
 
-&emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by this Act, and making any recommendations for improving and augmenting international financial data;
+&emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by thisAct, and making any recommendations for improving and augmenting international financial data;
 
 &emsp;(5) making recommendations for possible additional policy coordination within the executive branch affecting foreign direct investment in the United States; and
 

@@ -79,14 +79,14 @@
 | :--- | ---: |
 | [7991\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007991%20-%20Administration%20generally.md) | Administration generally. |
 | [7992\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007992%20-%20Suspension%20of%20permanent%20price%20support%20authority.md) | Suspension of permanent price support authority. |
-| [7993\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007993%20-%20Commission%20on%20application%20of%20payment%20limitations.md) | Commission on application of payment limitations. |
+| [7993\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007993%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20I%2C%20%C2%A71623%28a%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201025%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20I%2C%20%C2%A71623%28a%29%2C%20June%2018%E2%80%A6.md) | Repealed. |
 | [7994\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007994%20-%20Study.md) | Study. |
 | [7995\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007995%20-%20Assignment%20of%20payments.md) | Assignment of payments. |
 | [7996\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007996%20-%20Equitable%20relief%20from%20ineligibility%20for%20loans%2C%20payments%2C%20or%20other%20benefits.md) | Equitable relief from ineligibility for loans, payments, or other benefits. |
 | [7997\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007997%20-%20Tracking%20of%20benefits.md) | Tracking of benefits. |
 | [7998\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007998%20-%20Estimates%20of%20net%20farm%20income.md) | Estimates of net farm income. |
 | [7999\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2007999%20-%20Availability%20of%20incentive%20payments%20for%20certain%20producers.md) | Availability of incentive payments for certain producers. |
-| [8000\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2008000%20-%20Renewed%20availability%20of%20market%20loss%20assistance%20and%20certain%20emergency%20assistance%20to%20persons%20that%20failed%20to%20receive%20assistance%20under%20earlier%E2%80%A6.md) | Renewed availability of market loss assistance and certain emergency assistance to persons that failed to receive assistance under earlier authorities. |
+| [8000\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2008000%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20I%2C%20%C2%A71623%28b%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201025%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20I%2C%20%C2%A71623%28b%29%2C%20June%2018%E2%80%A6.md) | Repealed. |
 | [8001\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2008001%20-%20Producer%20retention%20of%20erroneously%20paid%20loan%20deficiency%20payments%20and%20marketing%20loan%20gains.md) | Producer retention of erroneously paid loan deficiency payments and marketing loan gains. |
 | [8002\.](Subchapter%20006%20%28VI%29%20-%20Administration/%C2%A7%2008002%20-%20Implementation%20funding%20and%20information%20management.md) | Implementation funding and information management. |
 

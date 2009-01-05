@@ -26,7 +26,7 @@ Congressional Notification.—The limitations on reduction in scope or increase 
 
 Payment of Judgements and Settlements.—The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460, §2676; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, §3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, §1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered §2664 and amended Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460, §2676; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div.B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, §3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, §1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered §2664 and amended Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
-The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b)by Pub. L. 109–163, §2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
+The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b) by Pub. L. 109–163, §2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
 
 #### Prior Provisions
 

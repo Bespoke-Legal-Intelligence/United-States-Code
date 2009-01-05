@@ -12,7 +12,7 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 #### (A) Geospatial information
 
-&emsp;&emsp;The term “geospatial information” means graphical or digital data depicting naturalor manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
+&emsp;&emsp;The term “geospatial information” means graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the earth and any information related thereto, including surveys, maps, charts, remote sensing data, and images.
 
 #### (B) Geospatial technology
 

@@ -30,7 +30,7 @@ The activities of the Program shall include—
 
 &emsp;&emsp;(D) make use of ongoing research and development at the micrometer scale to support their work in nanotechnology; and
 
-&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located inStates participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
+&emsp;&emsp;(E) to the greatest extent possible, be established in geographically diverse locations, encourage the participation of Historically Black Colleges and Universities that are part B institutions as defined in section 1061(2) of title 20 and minority institutions (as defined in section 1067k(3) of title 20), and include institutions located in States participating in the Experimental Program to Stimulate Competitive Research (EPSCoR);
 
 &emsp;(5) ensuring United States global leadership in the development and application of nanotechnology;
 
@@ -56,7 +56,7 @@ The activities of the Program shall include—
 
 #### (c) Program management
 
-The National Science and Technology Council shall oversee the planning, management, and coordination of the Program. The Council, itself or through an appropriate subgroup it designates or establishes, shall—
+The National Science and Technology Council shall oversee the planning, management, and coordination of the Program. The Council, itself orthrough an appropriate subgroup it designates or establishes, shall—
 
 &emsp;(1) establish goals and priorities for the Program, based on national needs for a set of broad applications of nanotechnology;
 
@@ -86,7 +86,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 #### (d) Annual report
 
-The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science,and other appropriate committees, at the time of the President's budget request to Congress, that includes—
+The Council shall prepare an annual report, to be submitted to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science, and other appropriate committees, at the time of the President's budget request to Congress, that includes—
 
 &emsp;(1) the Program budget, for the current fiscal year, for each agency that participates in the Program, including a breakout of spending for the development and acquisition of research facilities and instrumentation, for each program component area, and for all activities pursuant to subsection (b)(10);
 

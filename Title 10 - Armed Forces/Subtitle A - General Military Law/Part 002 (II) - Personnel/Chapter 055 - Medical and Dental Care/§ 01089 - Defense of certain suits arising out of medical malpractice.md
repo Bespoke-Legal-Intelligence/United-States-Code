@@ -16,7 +16,7 @@
 
 (g) In this section, the term “head of the agency concerned” means—
 
-&emsp;(1) the Director of Central Intelligence, in the case of an employee of the Central Intelligence Agency;
+&emsp;(1) the Director of the Central Intelligence Agency, in the case of an employee of the Central Intelligence Agency;
 
 &emsp;(2) the Secretary of Homeland Security, in the case of a member or employee of the Coast Guard when it is not operating as a service in the Navy;
 
@@ -24,9 +24,11 @@
 
 &emsp;(4) the Secretary of Defense, in all other cases.
 
-(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §931(b)(3), Jan. 28, 2008, 122 Stat. 285.)
 
 #### Amendments
+
+2008—Subsec. (g)(1). Pub. L. 110–181 substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 2002—Subsec. (g)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -47,10 +49,6 @@ Subsec. (f). Pub. L. 98–94, §934(b), substituted “may, to the extent that t
 Subsec. (g)(3), (4). Pub. L. 98–94, §934(c)(3), added par. (3) and redesignated former par. (3) as (4).
 
 1981—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 

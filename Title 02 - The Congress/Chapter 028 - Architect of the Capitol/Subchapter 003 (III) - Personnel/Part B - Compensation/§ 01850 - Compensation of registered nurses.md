@@ -12,7 +12,7 @@ The General Schedule, referred to in text, is set out under section 5332 of Titl
 
 #### Codification
 
-Section was classified to section 166b–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 166b–2 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 

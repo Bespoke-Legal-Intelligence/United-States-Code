@@ -10,7 +10,7 @@ No funds appropriated under any provision of this chapter (except as provided in
 
 &emsp;(4) for loans, or for payments under loan guarantees, to assist in meeting the costs of the initial operation after establishment or expansion of such organizations or entities or in meeting the costs of such organizations in acquiring or constructing ambulatory health care facilities.
 
-(July 1, 1944, ch. 373, title XIII, §1313, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 932; amended Pub. L. 95–559, §5(b), Nov. 1, 1978, 92 Stat. 2133; Pub. L. 95–626, title I, §107, Nov. 10, 1978, 92 Stat. 3562; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(2), Dec. 6, 2003, 117 Stat. 2023.)
+(July 1, 1944, ch. 373, title XIII, §1313, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 932; amended Pub. L. 95–559, §5(b), Nov. 1, 1978, 92Stat. 2133; Pub. L. 95–626, title I, §107, Nov. 10, 1978, 92 Stat. 3562; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(2), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 

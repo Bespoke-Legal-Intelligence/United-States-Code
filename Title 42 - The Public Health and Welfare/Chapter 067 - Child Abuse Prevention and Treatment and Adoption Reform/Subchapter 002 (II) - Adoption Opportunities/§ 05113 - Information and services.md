@@ -100,7 +100,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority tograntees who propose improvements designed to continue in the absence of Federal funds.
+&emsp;The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.
 
 #### (2) Applications; technical and other assistance
 
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 108–36, §202(6), added subsec. (e).
 
 1996—Subsec. (a). Pub. L. 104–235, §212(1), struck out at end “The Secretary shall, not later than 12 months after May 28, 1992, prepare and submit to the committees of Congress having jurisdiction over such services reports, as appropriate, containing appropriate data concerning the manner in which activities were carried out under this subchapter, and such reports shall be made available to the public.”
 
-Subsec. (b)(6). Pub. L. 104–235, §212(2)(A), amended par. (6) generally. Prior to amendment, par. (6) read asfollows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
+Subsec. (b)(6). Pub. L. 104–235, §212(2)(A), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “continue to study the nature, scope, and effects of the placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies which are not licensed by or subject to regulation by any governmental entity;”.
 
 Subsec. (b)(7) to (10). Pub. L. 104–235, §212(2)(B), (C), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 

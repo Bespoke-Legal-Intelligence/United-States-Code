@@ -8,7 +8,7 @@
 
 #### (2) Implementation
 
-&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which other such aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
+&emsp;With respect to an alien convicted of an aggravated felony who is taken into custody by the Attorney General pursuant to section 1226(c) of this title, the Attorney General shall, to the maximum extent practicable, detain any such felon at a facility at which othersuch aliens are detained. In the selection of such facility, the Attorney General shall make reasonable efforts to ensure that the alien's access to counsel and right to counsel under section 1362 of this title are not impaired.
 
 #### (3) Expedited proceedings
 
@@ -134,7 +134,7 @@ Pub. L. 104–132, §440(g)(1)(A), as amended by Pub. L. 104–208, §§306(d), 
 
 Subsec. (a)(2). Pub. L. 104–208, §308(c)(1)(B), substituted “section 1226(c)” for “section 1252(a)(2)”.
 
-Pub. L. 104–132, §440(g)(2), which directed substitution of “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section 1251(a)(2)(A)(i) of this title.” for “aggravated felony” and all that follows through “before any scheduled hearings.”, was repealed by Pub. L. 104–208, §671(c)(6).
+Pub. L. 104–132, §440(g)(2), which directed substitution of “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1251(a)(2)(A)(ii) of this title for which both predicate offenses are covered by section 1251(a)(2)(A)(i) of this title.” for “aggravated felony”and all that follows through “before any scheduled hearings.”, was repealed by Pub. L. 104–208, §671(c)(6).
 
 Subsec. (a)(3), (4). Pub. L. 104–208, §308(e)(1)(F), substituted “removal” for “deportation” wherever appearing.
 
@@ -242,7 +242,7 @@ Subsec. (a)(4). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as p
 
 Subsec. (b). Pub. L. 103–322, §130004(a), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
-Subsec. (b)(4)(D), (E). Pub. L. 103–416, §223(a), struck out “the determination of deportability is supported byclear, convincing, and unequivocal evidence and” before “a record is” in subpar. (D) and substituted “adjudicated” for “entered” in subpar. (E).
+Subsec. (b)(4)(D), (E). Pub. L. 103–416, §223(a), struck out “the determination of deportability is supported by clear, convincing, and unequivocal evidence and” before “a record is” in subpar. (D) and substituted “adjudicated” for “entered” in subpar. (E).
 
 Subsec. (c). Pub. L. 103–322, §130004(c)(4), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: “An alien convicted of an aggravated felony shall be conclusively presumed to be deportable from the United States.”
 

@@ -6,7 +6,7 @@ Section 7872, Pub. L. 95–467, title IV, §401, Oct. 17, 1978, 92 Stat. 1313; P
 
 Section 7873, Pub. L. 95–467, title IV, §402, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(1), Oct. 15, 1980, 94 Stat. 2032, authorized appropriation of funds for research, development, and demonstration plants.
 
-Section 7874, Pub. L. 95–467, title IV, §403, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(2), Oct. 15, 1980,94 Stat. 2032, authorized appropriation of funds for programs conducted under this chapter for which there were no specific appropriations.
+Section 7874, Pub. L. 95–467, title IV, §403, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(2), Oct. 15, 1980, 94 Stat. 2032, authorized appropriation of funds for programs conducted under this chapter for which there were no specific appropriations.
 
 Section 7875, Pub. L. 95–467, title IV, §404, Oct. 17, 1978, 92 Stat. 1314, related to grant applications, approval of applications by the Secretary, and the basis of approvals.
 
@@ -22,7 +22,7 @@ Section 7880, Pub. L. 95–467, title IV, §409, Oct. 17, 1978, 92 Stat. 1316, p
 
 Section 7881, Pub. L. 95–467, title IV, §410, Oct. 17, 1978, 92 Stat. 1316, provided that the chapter was not intended to repeal, supersede, or diminish existing authorities of agencies concerning water resources, or to be construed to alter existing law with respect to ownership and control of water.
 
-Section 7882, Pub. L. 95–467, title IV, §411, Oct. 17, 1978, 92 Stat. 1317, Pub. L. 96–457, §2(b)(3), Oct. 15, 1980, 94 Stat. 2032, provided for transmittal of rules, regulations, etc., to the Speaker of the House and President of the Senate.
+Section 7882, Pub. L. 95–467, title IV, §411, Oct. 17, 1978, 92 Stat. 1317, Pub. L. 96–457, §2(b)(3), Oct. 15, 1980,94 Stat. 2032, provided for transmittal of rules, regulations, etc., to the Speaker of the House and President of the Senate.
 
 Section 7883, Pub. L. 95–467, title IV, §412, Oct. 17, 1978, 92 Stat. 1317, provided that authority to enter into contracts or cooperative agreements and to make payments under this chapter was effective only to the extent or in such amounts as were provided in advance in appropriations acts.
 

@@ -1,0 +1,6 @@
+### §17742. Provision for future servicing of observatory-class scientific spacecraft
+
+The Administrator shall take all necessary steps to ensure that provision is made in the design and construction of all future observatory-class scientific spacecraft intended to be deployed in Earth orbit or at a Lagrangian point in space for robotic or human servicing and repair to the extent practicable and appropriate.
+
+(Pub. L. 110–422, title V, §502, Oct. 15, 2008, 122 Stat. 4791.)
+

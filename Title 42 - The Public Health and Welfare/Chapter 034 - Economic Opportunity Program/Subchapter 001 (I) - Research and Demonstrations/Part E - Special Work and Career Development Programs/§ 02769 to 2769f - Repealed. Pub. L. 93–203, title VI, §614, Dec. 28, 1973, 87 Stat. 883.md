@@ -1,6 +1,6 @@
 ### §§2769 to 2769f. Repealed. Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883
 
-Section 2769, Pub. L. 88–452, title I, §161, as added Pub. L. 91–177, title II, §201, Dec. 30, 1969, 83 Stat. 833, set out Congressional statement of purpose in providing for special work and career development programs.
+Section 2769, Pub. L. 88–452, title I, §161, as added Pub. L. 91–177, title II, §201, Dec. 30, 1969, 83 Stat. 833,set out Congressional statement of purpose in providing for special work and career development programs.
 
 Section 2769a, Pub. L. 88–452, title I, §162, as added Pub. L. 91–177, title II, §201, Dec. 30, 1969, 83 Stat. 834, provided for special programs for unemployed.
 

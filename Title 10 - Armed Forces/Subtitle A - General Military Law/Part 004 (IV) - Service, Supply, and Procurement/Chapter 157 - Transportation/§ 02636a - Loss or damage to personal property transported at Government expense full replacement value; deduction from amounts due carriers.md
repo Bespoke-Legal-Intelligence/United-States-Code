@@ -2,11 +2,11 @@
 
 (a)
 
-Procurement of Coverage.—The Secretary of Defense may include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
+Procurement of Coverage.—The Secretary of Defense shall include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
 
 (b)
 
-Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage of baggage or household effects transported under a contract with a carrier that includes a clausedescribed in subsection (a), the amount equal to the full replacement value for the baggage or household effects may be deducted from the amount owed by the United States to the carrier under the contract upon a failure of the carrier to settle a claim for such loss or total damage within a reasonable time. The amount so deducted shall be remitted to the claimant, notwithstanding section 2636 of this title.
+Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage of baggage or household effects transported under a contract with a carrier that includes a clause described in subsection (a), the amount equal to the full replacement value for the baggage or household effects shall be deducted from the amount owed by the United States to the carrier under the contract upon a failure of the carrier to settle a claim for such loss or total damage within a reasonable time. The amount so deducted shall be remitted to the claimant, notwithstanding section 2636 of this title.
 
 (c)
 
@@ -14,25 +14,23 @@ Inapplicability of Related Limits.—The limitations on amounts of claims that m
 
 (d)
 
-Regulations.—The Secretary of Defense shall prescribe regulations for administering this section. The regulations shall include policies and procedures for validating and evaluating claims, validating proper claimants, and determining reasonable time for settlement.
+Regulations.—The Secretary of Defense shall prescribe regulations for administering this section. The regulations shall include policies and procedures for validating and evaluating claims, validating proper claimants, and determining reasonable time for settlement. The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).
 
 (e)
 
 Transportation Defined.—In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
-(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167.)
-
-#### Amendment of Subsections (a) and (b)
-
-<i>Pub. L. 109–364, div. A, title III, §363(b), Oct. 17, 2006, 120 Stat. 2167, provided that, effective Mar. 1, 2008, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by striking “may include” and inserting “shall include”; and</i>
-
-<i>(2) in subsection (b), by striking “may be deducted” and inserting “shall be deducted”.</i>
+(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, §373, Jan. 28, 2008, 122 Stat. 82.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364, §363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+2008—Subsec. (d). Pub. L. 110–181 inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
+
+2006—Subsec. (a). Pub. L. 109–364, §363(b)(1), substituted “shall include” for “may include”.
+
+Pub. L. 109–364, §363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+
+Subsec. (b). Pub. L. 109–364, §363(b)(2), substituted “shall be deducted” for “may be deducted”.
 
 #### Effective Date of 2006 Amendment
 

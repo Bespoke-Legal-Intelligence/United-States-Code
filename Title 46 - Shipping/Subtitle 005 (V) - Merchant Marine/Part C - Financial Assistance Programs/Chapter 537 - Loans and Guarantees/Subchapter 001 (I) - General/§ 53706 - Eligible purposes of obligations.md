@@ -32,7 +32,7 @@ In General.—To be eligible for a guarantee under this chapter, an obligation m
 
 &emsp;&emsp;&emsp;(ii) was acquired by the Federal Ship Financing Fund or successor account under section 53717 of this title; or
 
-&emsp;&emsp;&emsp;(iii) was sold at foreclosure begun or intervened in by the Secretary.
+&emsp;&emsp;&emsp;(iii) was sold at foreclosure begun or intervened in by the Secretary or Administrator.
 
 &emsp;(4) Financing any part of the repayment to the United States Government of any amount of a construction-differential subsidy paid for a vessel.
 
@@ -54,27 +54,25 @@ Non-Vessels Treated as Vessels.—An obligation guaranteed under subsection (a)(
 
 (c)
 
-Priorities for Certain Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to—
+Priorities for Certain Vessels.—
 
-&emsp;(1) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+&emsp;(1)
 
-&emsp;(2) after applying paragraph (1), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
+Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Administrator shall give priority to—
 
-&emsp;&emsp;(A) is suitable for service as a naval auxiliary in time of war or national emergency; and
+&emsp;&emsp;(A) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
 
-&emsp;&emsp;(B) meets a shortfall in sealift capacity or capability.
+&emsp;&emsp;(B) after applying subparagraph (A), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 109–479, title II, §209, Jan. 12, 2007, 120 Stat. 3617.)
+&emsp;&emsp;&emsp;(i) is suitable for service as a naval auxiliary in time of war or national emergency; and
 
-#### Amendments Not Shown in Text
+&emsp;&emsp;&emsp;(ii) meets a shortfall in sealift capacity or capability.
 
-<i>Subsecs. (a) and (b) of this section were derived from section 1274(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. Section 1274(a) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+&emsp;(2)
 
-<i>Subsec. (c) of this section was derived from subsecs. (i) and (j) of section 1273 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1273(i) of the former Appendix to this title was amended by striking “Secretary” and inserting “Administrator”. Section 1273(j) of the former Appendix to this title was amended by striking “Secretary” the first place it appears and inserting “Administrator” and by adding at the end the following:</i>
+Time for determination.—The Secretary of Defense shall determine whether a vessel satisfies paragraph (1)(B) not later than 30 days after receipt of a request from the Administrator for such a determination.
 
-> <i>“The Secretary of Defense shall determine whether a vessel satisfies paragraphs (1) and (2) \[now subpars. (A) and (B) of subsec. (c)(2) of this section\] by not later than 30 days after receipt of a request from the Administrator for such a determination.”</i>
-
-<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(A), (B), (b)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 109–479, title II, §209, Jan. 12, 2007, 120 Stat. 3617; Pub. L. 110–181, div. C, title XXXV, §3522(a)(2), (10)(B), (b), Jan. 28, 2008, 122 Stat. 596, 598.)
 
 Historical and Revision Notes
 
@@ -110,11 +108,33 @@ In subsection (a)(2), the words “citizens of the United States” are substitu
 
 Section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(7)(A), is section 303(d)(4) of Pub. L. 94–265, which is classified to section 1853(d)(4) of Title 16, Conservation.
 
-The Maritime Security Act of 2003, referred to in subsec. (c)(1), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended section 1273 of the former Appendix to this title and enacted provisions set out as a note under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of this title and Tables.
+The Maritime Security Act of 2003, referred to in subsec. (c)(1)(A), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended section 1273 of the former Appendix to this title and enacted provisions set out as a note under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
 
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2). See 2006 Amendment note below.
+
+Subsec. (a)(3)(B)(iii). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (c). Pub. L. 110–181, §3522(a)(2), incorporated the substance of the amendments by Pub. L. 109–163, §3507(a)(2)(A), (B), (b)(2), by amending subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“
+
+Priorities for Certain Vessels.—In guaranteeing or making a commitment to guarantee an obligation under this chapter, the Secretary shall give priority to—
+
+&emsp;“(1) a vessel that is otherwise eligible for a guarantee and is constructed with assistance under subtitle D of the Maritime Security Act of 2003 (46 U.S.C. 53101 note); and
+
+&emsp;“(2) after applying paragraph (1), a vessel that is otherwise eligible for a guarantee and that the Secretary of Defense determines—
+
+&emsp;&emsp;“(A) is suitable for service as a naval auxiliary in time of war or national emergency; and
+
+&emsp;&emsp;“(B) meets a shortfall in sealift capacity or capability.”
+
+> See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
 2007—Subsec. (a)(7). Pub. L. 109–479 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Financing or refinancing (including reimbursement of an obligor for expenditures previously made for) the purchase of an individual fishing quota in accordance with section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853(d)(4)).”
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
 
 #### Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions
 

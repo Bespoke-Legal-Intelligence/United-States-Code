@@ -4,7 +4,7 @@ Section, added Pub. L. 87–792, §5(a), Oct. 10, 1962, 76 Stat. 826; amended Pu
 
 #### Effective Date of Repeal
 
-Repeal applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as anEffective Date of 1984 Amendment note under section 62 of this title.
+Repeal applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 62 of this title.
 
 #### Rollover of Existing Bonds Into Qualified Employer Plans
 

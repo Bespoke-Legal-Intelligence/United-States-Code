@@ -16,7 +16,7 @@ Every person who for the calendar year is an employer (as defined in section 330
 
 #### (b) Computation of tax
 
-The tax for any calendar quarter or other period referred to in paragraph (1) or (2) of subsection (a) shall be computed by multiplying the amount of wages (as defined in section 3306(b)) paid in such calendar quarter or other period by 0.6 percent. In the case of wages paid in any calendar quarter or other period during a calendaryear to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.8 percent in lieu of 0.6 percent.
+The tax for any calendar quarter or other period referred to in paragraph (1) or (2) of subsection (a) shall be computed by multiplying the amount of wages (as defined in section 3306(b)) paid in such calendar quarter or other period by 0.6 percent. In the case of wages paid in any calendar quarter or other period during a calendar year to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.8 percent in lieu of 0.6 percent.
 
 #### (c) Special rule where accumulated amount does not exceed $100
 
@@ -26,7 +26,7 @@ Nothing in this section shall require the payment of tax with respect to any cal
 
 #### Prior Provisions
 
-A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L. 87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
+A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbered §6157, June 29, 1961, Pub. L.87–61, title II, §203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
 
 #### Amendments
 

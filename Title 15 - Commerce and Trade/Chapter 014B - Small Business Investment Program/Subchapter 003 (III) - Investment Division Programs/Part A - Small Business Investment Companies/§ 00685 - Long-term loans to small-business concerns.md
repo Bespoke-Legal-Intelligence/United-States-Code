@@ -40,5 +40,5 @@ For definition of “this chapter”, referred to in subsec. (c), see References
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 

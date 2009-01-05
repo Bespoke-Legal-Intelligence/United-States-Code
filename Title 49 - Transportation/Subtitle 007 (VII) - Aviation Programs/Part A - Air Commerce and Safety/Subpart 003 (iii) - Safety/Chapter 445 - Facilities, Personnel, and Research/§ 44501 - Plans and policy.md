@@ -38,7 +38,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (2)(A) The plan shall describe, for a 5-year period, the research, engineering, and development that the Administrator of the Federal Aviation Administration considers necessary—
 
-&emsp;(i) to ensure the continued capacity, safety, and efficiency of aviation in the UnitedStates, considering emerging technologies and forecasted needs of civil aeronautics; and
+&emsp;(i) to ensure the continued capacity, safety, and efficiency of aviation in the United States, considering emerging technologies and forecasted needs of civil aeronautics; and
 
 &emsp;(ii) to provide the highest degree of safety in air travel.
 
@@ -108,7 +108,7 @@ In subsection (d)(3), the words “beginning with the date of transmission of th
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15,Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a descrip
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2000 Amendment
 

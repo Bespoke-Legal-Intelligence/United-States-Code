@@ -26,7 +26,7 @@ The assistance, if any, provided by the Secretary under this section shall consi
 
 &emsp;In implementing this section, the Secretary shall issue regulations—
 
-&emsp;&emsp;(A) defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of title 7;
+&emsp;&emsp;(A) defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of title 7 (before the amendment made by section 1703(a) <sup>1</sup> of the Food, Conservation, and Energy Act of 2008);
 
 &emsp;&emsp;(B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
 
@@ -64,9 +64,11 @@ As used in this section—
 
 The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
 
-(Pub. L. 101–624, title XII, §1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, §1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, §336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005.)
+(Pub. L. 101–624, title XII, §1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, §1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, §336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 110–234, title I, §1603(g)(5), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(5), June 18, 2008, 122 Stat. 1664, 1740.)
 
 #### References in Text
+
+Section 1703(a) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (c)(3)(A), probably means section 1603 of Pub. L. 110–246, because Pub. L. 110–246 does not contain a section 1703 and subsec. (b)(3) of section 1603 of Pub. L. 110–246 amended section 1308 of Title 7, Agriculture, by striking out provisions relating to issuance of regulations defining “person”.
 
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to this chapter (§2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
@@ -74,11 +76,21 @@ The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99�
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section was enacted as part of the Federal Stewardship Act of 1990 and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
 
+2008—Subsec. (c)(3)(A). Pub. L. 110–246, §1603(g)(5), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of title 7”.
+
 1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
 1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

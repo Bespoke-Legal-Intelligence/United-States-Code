@@ -1,10 +1,34 @@
 ### §1146. Commissary and exchange benefits
 
-The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the period beginning on October 1, 1994, and ending on December 31, 2001.
+(a)
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135.)
+Members Involuntarily Separated From Active Duty.—(a)
+
+Benefits for Members Involuntarily Separated.— <sup>1</sup> The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2012, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Transportation shall implement this provision for Coast Guard members involuntarily separated during the same period.
+
+(b) <sup>2</sup>
+
+Members Involuntarily Separated From Selected Reserve.—The Secretary of Defense shall prescribe regulations to allow a member of the Selected Reserve of the Ready Reserve who is involuntarily separated from the Selected Reserve as a result of the exercise of the force shaping authority of the Secretary concerned under section 647 of this title or other force shaping authority during the period beginning on October 1, 2007, and ending on December 31, 2012, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary of Homeland Security shall implement this provision for Coast Guard members involuntarily separated during the same period.
+
+(b) <sup>2</sup>
+
+Benefits for Members Receiving Sole Survivorship Discharge.—A member of the Armed Forces who receives a sole survivorship discharge (as defined in section 1174(i) of this title) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilities in the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
+
+&emsp;(1) The date of the separation of the member.
+
+&emsp;(2) The date on which the member is first notified of the members entitlement to benefits under this section.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, §651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, §5, Aug. 29, 2008, 122 Stat. 3528.)
 
 #### Amendments
+
+2008—Pub. L. 110–317 substituted “(a)
+
+Benefits for Members Involuntarily Separated.—The Secretary of Defense” for “The Secretary of Defense” and added subsec. (b) relating to benefits for members receiving sole survivorship discharge.
+
+Pub. L. 110–181 inserted “(a)
+
+Members Involuntarily Separated From Active Duty.—” before “The Secretary of Defense”, substituted “October 1, 2007, and ending on December 31, 2012” for “October 1, 1990, and ending on December 31, 2001” in first sentence and “the same period” for “the period beginning on October 1, 1994, and ending on December 31, 2001” in second sentence, and added subsec. (b) relating to members involuntarily separated from the Selected Reserve.
 
 2000—Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001” in two places.
 
@@ -14,6 +38,10 @@ The Secretary of Defense shall prescribe regulations to allow a member of the ar
 
 1993—Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
@@ -21,4 +49,8 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. See 2008 Amendment notes.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 

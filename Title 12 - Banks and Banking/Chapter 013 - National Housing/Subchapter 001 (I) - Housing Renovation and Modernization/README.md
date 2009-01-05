@@ -16,3 +16,4 @@
 - [&sect; 01706c - Insurance of mortgages](%C2%A7%2001706c%20-%20Insurance%20of%20mortgages.md)
 - [&sect; 01706d - Applicability](%C2%A7%2001706d%20-%20Applicability.md)
 - [&sect; 01706e - Repealed. Pub. L. 101&#8211;625, title II, &sect;289(b), Nov. 28, 1990, 104 Stat. 4128](%C2%A7%2001706e%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93625%2C%20title%20II%2C%20%C2%A7289%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204128.md)
+- [&sect; 01706f - Prohibition against kickbacks and unearned fees](%C2%A7%2001706f%20-%20Prohibition%20against%20kickbacks%20and%20unearned%20fees.md)

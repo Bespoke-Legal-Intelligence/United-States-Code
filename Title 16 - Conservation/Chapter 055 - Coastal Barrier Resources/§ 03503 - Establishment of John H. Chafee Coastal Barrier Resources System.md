@@ -372,6 +372,8 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+Pub. L. 110–419, §1, Oct. 15, 2008, 122 Stat. 4773.
+
 Pub. L. 109–355, §1, Oct. 16, 2006, 120 Stat. 2018.
 
 Pub. L. 109–354, §1, Oct. 16, 2006, 120 Stat. 2017.

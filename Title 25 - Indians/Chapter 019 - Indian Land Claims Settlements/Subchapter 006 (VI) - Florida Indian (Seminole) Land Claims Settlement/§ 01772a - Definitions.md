@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) executed by the Seminole Tribe, the State of Florida, and the South Florida Water Management District; and
 
-&emsp;&emsp;(B) which will be presented for approval by all three parties to the United States District Court for the southern district of Florida for the purpose of terminating the lawsuit entitled Seminole Tribe of Indians of Florida,<sup>1</sup> v. State of Florida, et al., (Docket No. 78–6116–CIV), and for the extinguishment of rights to all potential or unsettled claims which the tribe may have to lands or natural resources in the State and the purchase of certain tribal interests in real property.
+&emsp;&emsp;(B) which will be presented for approval by all three parties to the United States District Court for the southern district of Florida for the purpose of terminating the lawsuit entitled Seminole Tribe of Indians of Florida,<sup>1</sup> v. State of Florida, et al., (Docket No. 78–6116–CIV), and for the extinguishmentof rights to all potential or unsettled claims which the tribe may have to lands or natural resources in the State and the purchase of certain tribal interests in real property.
 
 &emsp;(7) The term “settlement funds” means those funds which the State of Florida and the South Florida Water Management District have agreed to pay to the tribe under the Settlement Agreement.
 

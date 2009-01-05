@@ -34,7 +34,7 @@ A vessel engaged in fishing when underway shall, so far as possible, keep out of
 
 #### (d) Seaplanes on the water
 
-A seaplane on the water shall, in general, keep well clear of all vessels and avoid impeding their navigation. In circumstances, however, where risk of collision exists, she shall comply with the Rules of this Part.
+A seaplane on the water shall, in general, keep well clear of all vessels and avoid impeding theirnavigation. In circumstances, however, where risk of collision exists, she shall comply with the Rules of this Part.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3422.)
 

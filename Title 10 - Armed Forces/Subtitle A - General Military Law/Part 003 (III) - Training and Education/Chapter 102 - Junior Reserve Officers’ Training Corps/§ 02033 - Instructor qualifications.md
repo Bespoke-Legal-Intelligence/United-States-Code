@@ -36,7 +36,7 @@ Non-Senior Military Instructors.—
 
 &emsp;(1)
 
-Role.—Non-senior military instructors shall be retired noncommissioned officers ofthe armed forces and shall serve as instructional leaders and teach independently of, but share program responsibilities with, senior military instructors.
+Role.—Non-senior military instructors shall be retired noncommissioned officers of the armed forces and shall serve as instructional leaders and teach independently of, but share program responsibilities with, senior military instructors.
 
 &emsp;(2)
 

@@ -40,7 +40,7 @@ For purposes of this section:
 
 &emsp;(3) The term “postgraduate physician training program” includes a residency training program.
 
-(July 1, 1944, ch. 373, title II, §245, as added Pub. L. 104–134, title I, §101(d) \[title V, §515\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(July 1, 1944, ch. 373, title II, §245, as added Pub. L. 104–134, title I, §101(d) \[title V, §515\], Apr. 26,1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be “standard”.</i>
 

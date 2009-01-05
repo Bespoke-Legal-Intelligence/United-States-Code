@@ -86,7 +86,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Expansion of Highways in Michigan
 
-Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use ofFederal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
+Section 204(d) of Pub. L. 100–707 exempted existing highways in Michigan from limitations on the use of Federal expenditures or financial assistance within the Coastal Barrier Resources System under 16 U.S.C. 3505(a)(3) if the Congress added new units to the Coastal Barrier Resources System under 16 U.S.C. 3503, and those units included portions of United States or State highways in the State of Michigan, prior to repeal by Pub. L. 101–591, §5(b), Nov. 16, 1990, 104 Stat. 2936. See section 3505(c) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

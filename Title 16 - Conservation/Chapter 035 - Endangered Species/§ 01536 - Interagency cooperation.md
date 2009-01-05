@@ -88,7 +88,7 @@ After initiation of consultation required under subsection (a)(2) of this sectio
 
 (B) While away from their homes or regular places of business in the performance of services for the Committee, members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(5)(A) Five members of the Committee or their representatives shall constitute a quorum forthe transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves a vote by the Committee on any matter before the Committee.
+(5)(A) Five members of the Committee or their representatives shall constitute a quorum for the transaction of any function of the Committee, except that, in no case shall any representative be considered in determining the existence of a quorum for the transaction of any function of the Committee if that function involves a vote by the Committee on any matter before the Committee.
 
 (B) The Secretary of the Interior shall be the Chairman of the Committee.
 
@@ -118,7 +118,7 @@ After initiation of consultation required under subsection (a)(2) of this sectio
 
 Not later than 90 days after November 10, 1978, the Secretary shall promulgate regulations which set forth the form and manner in which applications for exemption shall be submitted to the Secretary and the information to be contained in such applications. Such regulations shall require that information submitted in an application by the head of any Federal agency with respect to any agency action include, but not be limited to—
 
-&emsp;(1) a description of the consultation process carried out pursuant to subsection (a)(2) of this section between the head of the Federal agency and the Secretary; and
+&emsp;(1) a description of the consultation process carried out pursuant to subsection (a)(2) ofthis section between the head of the Federal agency and the Secretary; and
 
 &emsp;(2) a statement describing why such action cannot be altered or modified to conform with the requirements of subsection (a)(2) of this section.
 
@@ -134,7 +134,7 @@ Not later than 90 days after November 10, 1978, the Secretary shall promulgate r
 
 &emsp;(A) determine that the Federal agency concerned and the exemption applicant have—
 
-&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of thissection in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
+&emsp;&emsp;(i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
 
 &emsp;&emsp;(ii) conducted any biological assessment required by subsection (c) of this section; and
 
@@ -230,7 +230,7 @@ Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sectio
 
 #### (p) Exemptions in Presidentially declared disaster areas
 
-In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to thedisaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
+In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
 (Pub. L. 93–205, §7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, §3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, §4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, §411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, §109(g), Nov. 23, 1988, 102 Stat. 4709.)
 
@@ -260,7 +260,7 @@ Subsec. (b). Pub. L. 97–304, §4(a)(2), incorporated existing provisions into 
 
 Subsec. (c)(1). Pub. L. 97–304, §4(a)(3), inserted “, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor” after “agency” in parenthetical provision.
 
-Subsec. (e)(10). Pub. L. 97–304, §4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
+Subsec. (e)(10). Pub. L. 97–304, §4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, nomember could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
 
 Subsec. (g)(1). Pub. L. 97–304, §4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) of this section after a report is made by the review board”.
 
@@ -280,7 +280,7 @@ Subsec. (g)(7). Pub. L. 97–304, §4(a)(5)(I), redesignated par. (10) as (7) an
 
 Subsec. (g)(8). Pub. L. 97–304, §4(a)(5)(J), redesignated par. (12) as (8) and substituted “records resulting from activities pursuant to this subsection” for “records of review boards”. Former par. (8) redesignated (6).
 
-Subsec. (g)(9). Pub. L. 97–304, §4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, and upon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
+Subsec. (g)(9). Pub. L. 97–304, §4(a)(5)(D), struck out par. (9) which had provided that the review board, in carrying out its duties, could (A) sit and act at such times and places, take such testimony, and receive such evidence, as the review board deemed advisable, (B) subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], request of any Federal agency or applicant information necessary to enable it to carry out such duties, andupon such request the head of such Federal agency would furnish such information to the review board, and (C) use the United States mails in the same manner and upon the same conditions as a Federal agency.
 
 Subsec. (g)(10). Pub. L. 97–304, §4(a)(5)(I), redesignated par. (10) as (7).
 
@@ -300,7 +300,7 @@ Subsec. (b). Pub. L. 96–159, §4(2), (3), substituted “he believes would not
 
 Subsec. (c). Pub. L. 96–159, §4(3), (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
 
-Subsec. (d). Pub. L. 96–159, §4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2) of this section” for “alternative measures which would avoid jeopardizingthe continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
+Subsec. (d). Pub. L. 96–159, §4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2) of this section” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
 
 Subsecs. (e)(2), (f). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)” for “subsection (a)”.
 

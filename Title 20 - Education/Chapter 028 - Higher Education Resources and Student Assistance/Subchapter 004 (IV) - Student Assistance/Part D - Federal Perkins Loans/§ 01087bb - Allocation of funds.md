@@ -116,13 +116,13 @@
 
 &emsp;(F) add the amounts determined under subparagraph (E) for each income category.
 
-(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” meansthe average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
+(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
 (B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
-(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $450.
+(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $600.
 
 #### (d) Anticipated collections
 
@@ -256,13 +256,15 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 &emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
-(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723.)
+(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266.)
 
 #### Prior Provisions
 
-A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
 

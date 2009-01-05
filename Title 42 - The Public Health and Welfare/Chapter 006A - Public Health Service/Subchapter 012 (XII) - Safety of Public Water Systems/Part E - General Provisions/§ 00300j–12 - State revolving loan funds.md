@@ -26,7 +26,7 @@
 
 #### (E) Reallotment
 
-&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are available shall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) of this section and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
+&emsp;&emsp;The grants not obligated by the last day of the period for which the grants are availableshall be reallotted according to the appropriate criteria set forth in subparagraph (D), except that the Administrator may reserve and allocate 10 percent of the remaining amount for financial assistance to Indian Tribes in addition to the amount allotted under subsection (i) of this section and none of the funds reallotted by the Administrator shall be reallotted to any State that has not obligated all sums allotted to the State pursuant to this section during the period in which the sums were available for obligation.
 
 #### (F) Nonprimacy States
 
@@ -228,7 +228,7 @@ Of the funds annually available under this section for grants to States, the Adm
 
 &emsp;&emsp;&emsp;(iii) Any community water system to provide funding in accordance with section 300j–14(a)(1)(B)(i) of this title.
 
-&emsp;&emsp;(B) Provide assistance, including technical and financial assistance, to any public watersystem as part of a capacity development strategy developed and implemented in accordance with section 300g–9(c) of this title.
+&emsp;&emsp;(B) Provide assistance, including technical and financial assistance, to any public water system as part of a capacity development strategy developed and implemented in accordance with section 300g–9(c) of this title.
 
 &emsp;&emsp;(C) Make expenditures from the capitalization grant of the State for fiscal years 1996 and 1997 to delineate and assess source water protection areas in accordance with section 300j–13 of this title, except that funds set aside for such expenditure shall be obligated within 4 fiscal years.
 

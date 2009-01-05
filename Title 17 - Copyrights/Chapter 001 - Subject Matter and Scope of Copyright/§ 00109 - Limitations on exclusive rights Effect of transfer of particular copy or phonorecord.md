@@ -24,7 +24,7 @@
 
 (3) Nothing in this subsection shall affect any provision of the antitrust laws. For purposes of the preceding sentence, “antitrust laws” has the meaning given that term in the first section of the Clayton Act and includes section 5 of the Federal Trade Commission Act to the extent that section relates to unfair methods of competition.
 
-(4) Any person who distributes a phonorecord or a copy of a computer program (including any tape, disk, or other medium embodying such program) in violation of paragraph (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.
+(4) Any person who distributes a phonorecord or a copy of a computer program (including any tape, disk, or other medium embodying such program) in violation of paragraph (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, and 505. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.
 
 (c) Notwithstanding the provisions of section 106(5), the owner of a particular copy lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to display that copy publicly, either directly or by the projection of no more than one image at a time, to viewers present at the place where the copy is located.
 
@@ -32,7 +32,7 @@
 
 (e) Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronicaudiovisual game is not also the copyright owner of the work of authorship.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, §2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, §2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, §514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, §12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 110–403, title II, §209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
 
 #### Historical and Revision Notes
 
@@ -69,6 +69,8 @@ The first section of the Clayton Act, referred to in subsec. (b)(3), is classifi
 Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is classified to section 45 of Title 15.
 
 #### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–403 substituted “and 505” for “505, and 509”.
 
 1997—Subsec. (b)(2)(B). Pub. L. 105–80 substituted “Register of Copyrights considers appropriate” for “Register of Copyright considers appropriate”.
 

@@ -44,7 +44,7 @@
 
 &emsp;(ii) The court shall, to the fullest extent practicable, determine the issues of fact based on sworn written submissions of the parties.
 
-&emsp;(iii) When a complainant alleges that requested records are improperly withheld because of improper placement solely in exempted operational files, the complainant shall support such allegation with a sworn written submission based upon personal knowledge or otherwise admissible evidence.
+&emsp;(iii) When a complainant alleges that requested records are improperly withheld because of improper placement solely in exempted operational files, the complainant shall support such allegation with a sworn writtensubmission based upon personal knowledge or otherwise admissible evidence.
 
 &emsp;(iv)(I) When a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, NGA shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in paragraph (2).
 
@@ -86,9 +86,9 @@ A prior section 432, act July 26, 1947, ch. 343, title VII, §702, as added Pub.
 
 #### Amendments
 
-2006—Subsec. (a)(3)(C)(vi). Pub. L. 109–163 added cl. (vi).
+<b>2006</b>—Subsec. (a)(3)(C)(vi). Pub. L. 109–163 added cl. (vi).
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (a)(6)(B)(iv)(I). Pub. L. 108–375 substituted “responsive records” for “responsible records”.
 
@@ -96,7 +96,7 @@ Subsec. (a)(6)(B)(viii). Pub. L. 108–458, §1071(a)(1)(EE), substituted “Dir
 
 Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(FF), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
-2003—Pub. L. 108–136, §922(d)(1)(C), amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136, §922(d)(1)(C), amended section catchline generally, substituting “Operational files of the National Geospatial-Intelligence Agency” for “Protection of operational files of the National Imagery and Mapping Agency”.
 
 Subsec. (a)(1). Pub. L. 108–136, §921(e)(4)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
 
@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 108–136, §921(e)(4)(A), substituted “National Geosp
 
 Subsec. (b)(3). Pub. L. 108–136, §921(e)(4)(B), substituted “NGA” for “NIMA” wherever appearing.
 
-2002—Subsec. (a)(3)(C). Pub. L. 107–306 added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
+<b>2002</b>—Subsec. (a)(3)(C). Pub. L. 107–306 added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) The Permanent Select Committee on Intelligence of the House of Representatives.
 

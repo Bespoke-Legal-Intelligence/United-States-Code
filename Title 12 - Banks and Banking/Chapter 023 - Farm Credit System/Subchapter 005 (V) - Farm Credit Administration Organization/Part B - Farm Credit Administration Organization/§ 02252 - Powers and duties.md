@@ -8,7 +8,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(2)(A) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII of this chapter; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
-&emsp;(B) The Farm Credit Administration shall not issue a charter to, or approve an amendment to the charter of, any institution of the Farm Credit System to operate under subchapter I or II of this chapter that would authorize the institution to exercise lending authority, whether directly or indirectly as an agent of a Farm Credit Bank, in a territory in which the charter of another such institution authorizes the other institution to exerciselike authority, whether directly or indirectly as an agent of a Farm Credit Bank, except with the approval of—
+&emsp;(B) The Farm Credit Administration shall not issue a charter to, or approve an amendment to the charter of, any institution of the Farm Credit System to operate under subchapter I or II of this chapter that would authorize the institution to exercise lending authority, whether directly or indirectly as an agent of a Farm Credit Bank, in a territory in which the charter of another such institution authorizes the other institution to exercise like authority, whether directly or indirectly as an agent of a Farm Credit Bank, except with the approval of—
 
 &emsp;&emsp;(i) in a case affecting only the charter of one or more associations—
 
@@ -26,7 +26,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(C) Subparagraph (B) shall apply only in those geographic areas where, due to the failure of a Federal intermediate credit bank to merge in accordance with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note), the Federal intermediate credit bank or its successor is chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that is not the successor to the Federal intermediate credit bank is chartered to provide long-term credit, in the same geographic territory.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directlylegislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -66,7 +66,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(B) The Farm Credit Administration may approve a charter amendment under subparagraph (A) only on the approval of—
 
-&emsp;&emsp;(i) the respective boards of directors of the associations that, if the charter request isapproved, would exercise like lending authority in any of the territory that is the subject of the charter request;
+&emsp;&emsp;(i) the respective boards of directors of the associations that, if the charter request is approved, would exercise like lending authority in any of the territory that is the subject of the charter request;
 
 &emsp;&emsp;(ii) a majority of the stockholders of each association described in clause (i) voting, in person or by proxy, at a duly authorized stockholders’ meeting; and
 
@@ -110,7 +110,23 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 (4) Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
-(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174.)
+(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174; Pub. L. 110–234, title V, §5407(b), (c)(1), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, §4(a), title V, §5407(b), (c)(1), June 18, 2008, 122 Stat. 1664, 1921, 1922.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title V, §5407(b), (c)(1), (d), June 18, 2008, 122 Stat. 1921, 1922, provided that, effective Jan. 1, 2010, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2), by substituting “(2)” for “(2)(A)” and by striking out subparagraphs (B) and (C); and</i>
+
+<i>(2) by adding paragraph (15) at end to read as follows:</i>
+
+&emsp;<i>(15)(A) Approve amendments to the charters of institutions of the Farm Credit System to implement the equalization of loan-making powers of a Farm Credit System association under section 2279c of this title.</i>
+
+&emsp;<i>(B) Amendments described in subparagraph (A) to the charters of an association and the related Farm Credit Bank shall be approved by the Farm Credit Administration, subject to any conditions of approval imposed, by not later than 30 days after the date on which the Farm Credit Administration receives all approvals required by section 2279c(a)(2) of this title.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -181,6 +197,14 @@ Pub. L. 100–399, §901(n), substituted “section 2015(b) of this title” for
 1985—Subsec. (a). Pub. L. 99–205 amended subsec. (a) generally, revising and reorganizing the enumerated powers of the Farm Credit Administration by substituting pars. (1) to (15) for former pars. (1) to (17).
 
 1980—Pub. L. 96–592 designated existing provisions as subsec. (a), in par. (3) inserted provisions relating to summary and analysis of reports, and added subsecs. (b) and (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title V, §5407(d), May 22, 2008, 122 Stat. 1161, and Pub. L. 110–246, §4(a), title V, §5407(d), June 18, 2008, 122 Stat. 1664, 1922, provided that: “The amendments made by this section \[enacting section 2279c of this title and amending this section and provisions set out as notes under section 2011 of this title\] take effect on January 1, 2010.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 1991 Amendment
 

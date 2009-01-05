@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) provide a preliminary report to Congress within nine months following February 25, 1978;
 
-&emsp;&emsp;(D) include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generation at specific sites in Federal Government agencies to Congress within twelve months following February 25, 1978;
+&emsp;&emsp;(D) include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generationat specific sites in Federal Government agencies to Congress within twelve months following February 25, 1978;
 
 &emsp;(2) initiate and conduct a study of the options available to the Federal Government to provide for the adequate growth of the solar photovoltaic industry and to include such possible incentives as government funding, loan guarantees, tax incentives, the operation of pilot plants or production lines and other incentives deemed worthy of consideration by the Secretary of Energy. A preliminary report shall be submitted to Congress within six months following February 25, 1978;
 

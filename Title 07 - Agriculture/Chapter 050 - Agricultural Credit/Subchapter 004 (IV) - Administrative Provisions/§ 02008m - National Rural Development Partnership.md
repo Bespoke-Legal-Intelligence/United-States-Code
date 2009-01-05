@@ -194,7 +194,7 @@ In this section:
 
 #### (1) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2003 through 2007.
+&emsp;There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
 
 #### (2) Federal agencies
 
@@ -204,7 +204,7 @@ In this section:
 
 #### (B) Assistance
 
-&emsp;&emsp;Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, the Coordinating Committee or a State rural development council, as described in subparagraph (A).
+&emsp;&emsp;Federal agencies are encouraged to use funds made available for programs that have an impact on rural areas to provide assistance to, and enter into contracts with, theCoordinating Committee or a State rural development council, as described in subparagraph (A).
 
 #### (3) Contributions
 
@@ -212,7 +212,21 @@ In this section:
 
 #### (h) Termination
 
-The authority provided under this section shall terminate on the date that is 5 years after May 13, 2002.
+The authority provided under this section shall terminate on September 30, 2012.
 
-(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363.)
+(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (g)(1). Pub. L. 110–246, §6019(1), substituted “2008 through 2012” for “2003 through 2007”.
+
+Subsec. (h). Pub. L. 110–246, §6019(2), substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

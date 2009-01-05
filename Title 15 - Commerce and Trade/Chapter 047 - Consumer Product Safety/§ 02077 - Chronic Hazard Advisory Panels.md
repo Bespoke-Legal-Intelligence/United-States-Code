@@ -40,13 +40,15 @@ Each Panel shall request information and disclose information to the public, as 
 
 (2) Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 
-(Pub. L. 92–573, §28, as added Pub. L. 97–35, title XII, §1206(a), Aug. 13, 1981, 95 Stat. 716; amended Pub. L. 101–608, title I, §116, Nov. 16, 1990, 104 Stat. 3121.)
+(Pub. L. 92–573, §28, as added Pub. L. 97–35, title XII, §1206(a), Aug. 13, 1981, 95 Stat. 716; amended Pub. L. 101–608, title I, §116, Nov. 16, 1990, 104 Stat. 3121; Pub. L. 110–314, title II, §235(c)(6), Aug. 14, 2008, 122 Stat. 3075.)
 
 #### Prior Provisions
 
 A prior section 2077, Pub. L. 92–573, §28, Oct. 27, 1972, 86 Stat. 1230, provided for establishment and membership of Product Safety Advisory Council, prior to repeal by Pub. L. 97–35, title XII, §1205(a)(1), Aug. 13, 1981, 95 Stat. 716.
 
 #### Amendments
+
+2008—Pub. L. 110–314, which directed amendment of this section by substituting “the appropriate Congressional committees” for “the Congress” in subsecs. (j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
 
 1990—Subsec. (b)(1). Pub. L. 101–608 inserted “(other than employees of the National Institutes of Health, the National Toxicology Program, or the National Center for Toxicological Research)” after “States”.
 

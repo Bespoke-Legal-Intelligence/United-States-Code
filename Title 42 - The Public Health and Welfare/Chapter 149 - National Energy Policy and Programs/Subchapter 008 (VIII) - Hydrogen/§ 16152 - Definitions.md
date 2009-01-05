@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Fuel cell
 
-&emsp;The term “fuel cell” means a device that directly converts the chemical energy of a fuel,which is supplied from an external source, and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
+&emsp;The term “fuel cell” means a device that directly converts the chemical energy of a fuel, which is supplied from an external source, and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
 
 #### (2) Heavy-duty vehicle
 

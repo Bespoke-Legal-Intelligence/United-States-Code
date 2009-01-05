@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) an unresolved area of noncompliance.
 
-&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+&emsp;(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
 
 &emsp;(4) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
@@ -168,7 +168,7 @@ For purposes of this subchapter:
 
 &emsp;(24) The term “Secretary” means the Secretary of Health and Human Services.
 
-&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+&emsp;(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District ofColumbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in section 9835(a)(2)(B)(v) of this title has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
 
 &emsp;(26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to section 9836a(c) of this title.
 

@@ -6,7 +6,11 @@ Each facility of the Retirement Home shall have a Local Board of Trustees.
 
 #### (b) Duties
 
-The Local Board for a facility shall serve in an advisory capacity to the Director of the facility and to the Chief Operating Officer.
+(1) The Local Board for a facility shall serve in an advisory capacity to the Director of the facility and to the Chief Operating Officer.
+
+(2) The Local Board for a facility shall provide to the Chief Operating Officer and the Director of the facility such guidance and recommendations on the administration of the facility as the Local Board considers appropriate.
+
+(3) Not less often than annually, the Local Board for a facility shall provide to the Under Secretary of Defense for Personnel and Readiness an assessment of all aspects of the facility, including the quality of care at the facility.
 
 #### (c) Composition
 
@@ -32,7 +36,7 @@ The Local Board for a facility shall serve in an advisory capacity to the Direct
 
 &emsp;(J) The Director of the facility, who shall be a nonvoting member.
 
-&emsp;(K) One senior representative of one of the chief personnel officers of the Armed Forces.
+&emsp;(K) One senior representative of one of the chief personnel officers of the Armed Forces, who shall be a commissioned officer of the Armed Forces serving on active duty in the grade of brigadier general, or in the case of the Navy or Coast Guard, rear admiral (lower half).
 
 &emsp;(L) Other members designated by the Secretary of Defense (if the Local Board is to have more than 11 members).
 
@@ -70,11 +74,19 @@ The Secretary of Defense may terminate the appointment of a member of a Local Bo
 
 (2) A member of a Local Board who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of a Local Board.
 
-(Pub. L. 101–510, div. A, title XV, §1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, §1406, Dec. 28, 2001, 115 Stat. 1262.)
+(Pub. L. 101–510, div. A, title XV, §1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, §1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, §1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, \[div. A\], title X, §1061(b)(12), Oct. 14, 2008, 122 Stat. 4613.)
 
 #### Amendments
 
+2008—Subsec. (b). Pub. L. 110–181, §1422(e)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Local Board for a facility shall serve in an advisory capacity to the Director of the facility and to the Chief Operating Officer.”
+
+Subsec. (c)(1)(K). Pub. L. 110–181, §1422(e)(2), as amended by Pub. L. 110–417, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “One senior representative of one of the chief personnel officers of the Armed Forces.”
+
 2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to Local Boards of Trustees for provisions relating to the duties of the Retirement Home Board.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

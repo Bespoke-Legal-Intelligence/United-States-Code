@@ -14,5 +14,5 @@ Applications for payments under section 2302 of this title must be filed within 
 
 1969—Pub. L. 91–24 substituted “two years from the date of correction of the discharge” for “two years from whichever last occurs, the date of correction of the discharge or the date of enactment of this sentence”.
 
-1963—Pub. L. 88–3 authorized payment of a burial allowance in cases where it was not payable at death because of the nature of the veteran's discharge, where such discharge has been corrected by competent authority to reflect conditions other than dishonorable, and the claim is filed within two years from whichever last occurs, the date of correction of the discharge or the date of enactment of Pub. L. 88–3 \[approved Apr. 2, 1963\].
+1963—Pub. L. 88–3 authorized payment of a burial allowance in cases where it was not payable at death because of the nature of the veteran's discharge, where such discharge has been corrected by competent authority to reflect conditions other than dishonorable, and the claim is filed within two years from whicheverlast occurs, the date of correction of the discharge or the date of enactment of Pub. L. 88–3 \[approved Apr. 2, 1963\].
 

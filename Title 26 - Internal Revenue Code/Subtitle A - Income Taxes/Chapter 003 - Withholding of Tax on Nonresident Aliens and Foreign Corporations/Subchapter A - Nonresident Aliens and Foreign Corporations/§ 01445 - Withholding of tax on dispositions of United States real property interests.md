@@ -52,21 +52,37 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;This paragraph applies if the disposition is of a share of a class of stock that is regularly traded on an established securities market.
 
-#### (7) Special rules for paragraphs (2) and (3)
+#### (7) Special rules for paragraphs (2), (3), and (9)
 
-&emsp;Paragraph (2) or (3) (as the case may be) shall not apply to any disposition—
+&emsp;Paragraph (2), (3), or (9) (as the case may be) shall not apply to any disposition—
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) the transferee has actual knowledge that the affidavit referred to in such paragraph is false, or
+&emsp;&emsp;&emsp;(i) the transferee or qualified substitute has actual knowledge that the affidavit referred to in such paragraph, or the statement referred to in paragraph (9)(A)(ii), is false, or
 
-&emsp;&emsp;&emsp;(ii) the transferee receives a notice (as described in subsection (d)) from a transferor's agent or a transferee's agent that such affidavit is false, or
+&emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
-&emsp;&emsp;(B) if the Secretary by regulations requires the transferee to furnish a copy of such affidavit to the Secretary and the transferee fails to furnish a copy of such affidavit to the Secretary at such time and in such manner as required by such regulations.
+&emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
 #### (8) Applicable wash sales transactions
 
 &emsp;No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition which is treated as a disposition of a United States real property interest solely by reason of section 897(h)(5).
+
+#### (9) Alternative procedure for furnishing nonforeign affidavit
+
+&emsp;For purposes of paragraphs (2) and (7)—
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (2) shall be treated as applying to a transaction if, in connection with a disposition of a United States real property interest—
+
+&emsp;&emsp;&emsp;(i) the affidavit specified in paragraph (2) is furnished to a qualified substitute, and
+
+&emsp;&emsp;&emsp;(ii) the qualified substitute furnishes a statement to the transferee stating, under penalty of perjury, that the qualified substitute has such affidavit in his possession.
+
+#### (B) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.
 
 #### (c) Limitations on amount required to be withheld
 
@@ -82,7 +98,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (C) Refund of excess amounts withheld
 
-&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe,a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
+&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe, a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
 
 #### (2) Authority of Secretary to prescribe reduced amount
 
@@ -106,13 +122,13 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
 
-#### (d) Liability of transferor's agents or transferee's agents
+#### (d) Liability of transferor's agents, transferee's agents, or qualified substitutes
 
 #### (1) Notice of false affidavit; foreign corporations
 
 &emsp;If—
 
-&emsp;&emsp;(A) the transferor furnishes the transferee an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
+&emsp;&emsp;(A) the transferor furnishes the transferee or qualified substitute an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
 
 &emsp;&emsp;(B) in the case of—
 
@@ -122,19 +138,19 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an affidavit described in subsection (b)(2) furnished by a corporation, such corporation is a foreign corporation, or
 
-&emsp;&emsp;&emsp;(ii) any transferee's agent, such agent has actual knowledge that such affidavit is false,
+&emsp;&emsp;&emsp;(ii) any transferee's agent or qualified substitute, such agent or substitute has actual knowledge that such affidavit is false,
 
-> &emsp;such agent shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
+> &emsp;&emsp;such agent or qualified substitute shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
 
 #### (2) Failure to furnish notice
 
 #### (A) In general
 
-&emsp;&emsp;If any transferor's agent or transferee's agent is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent shall have the same duty to deduct and withhold that the transferee would have had if such agent had complied with paragraph (1).
+&emsp;&emsp;If any transferor's agent, transferee's agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
 
 #### (B) Liability limited to amount of compensation
 
-&emsp;&emsp;An agent's liability under subparagraph (A) shall be limited to the amount of compensation the agent derives from the transaction.
+&emsp;&emsp;An agent's or substitute's liability under subparagraph (A) shall be limited to the amount of compensation the agent or substitute derives from the transaction.
 
 #### (3) Transferor's agent
 
@@ -176,7 +192,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to aforeign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
@@ -222,13 +238,33 @@ For purposes of this section—
 
 &emsp;The term “transferor's unsatisfied withholding liability” means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358.)
+#### (6) Qualified substitute
+
+&emsp;The term “qualified substitute” means, with respect to a disposition of a United States real property interest—
+
+&emsp;&emsp;(A) the person (including any attorney or title company) responsible for closing the transaction, other than the transferor's agent, and
+
+&emsp;&emsp;(B) the transferee's agent.
+
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289,div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsec. (b)(7). Pub. L. 110–289, §3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
+
+Subsec. (b)(9). Pub. L. 110–289, §3024(a), added par. (9).
+
+Subsec. (d). Pub. L. 110–289, §3024(c)(2)(C), substituted “, transferee's agents, or qualified substitutes” for “or transferee's agents” in heading.
+
+Subsec. (d)(1). Pub. L. 110–289, §3024(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to notice of false affidavit; foreign corporations.
+
+Subsec. (d)(2). Pub. L. 110–289, §3024(c)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) related to failure to furnish notice.
+
+Subsec. (f)(6). Pub. L. 110–289, §3024(b), added par. (6).
 
 2006—Subsec. (b)(8). Pub. L. 109–222, §506(b), added par. (8).
 
@@ -244,7 +280,7 @@ Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignate
 
 1988—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
 
-1986—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “itis not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+1986—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
 
@@ -271,6 +307,10 @@ Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted “The preceding senten
 Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted “section 897” for “section 897(g)”.
 
 Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. C, title I, §3024(d), July 30, 2008, 122 Stat. 2896, provided that: “The amendments made by this section \[amending this section\] shall apply to dispositions of United States real property interests after the date of the enactment of this Act \[July 30, 2008\].”
 
 #### Effective Date of 2006 Amendment
 

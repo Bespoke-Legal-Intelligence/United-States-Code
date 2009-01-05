@@ -38,7 +38,7 @@ Tier ii centers.—
 
 &emsp;&emsp;(A) For each of fiscal years 2006 through 2009, the Secretary shall make grants under subsection (a) to nonprofit institutions of higher learning to establish and operate 22 Tier II university transportation centers.
 
-&emsp;&emsp;(B) The tier II centers consist of the following:
+&emsp;&emsp;(B) The Tier II centers consist of the following:
 
 &emsp;&emsp;&emsp;(i) University of Arkansas, Mack-Blackwell Rural Transportation Center.
 
@@ -154,7 +154,7 @@ Amount of grants.—The Secretary shall make a grant to a nonprofit institution 
 
 &emsp;&emsp;(B) $2,000,000 for each of fiscal years 2006 through 2008; and
 
-&emsp;&emsp;(C) $2,225,000 for fiscal year 2009.
+&emsp;&emsp;(C) $2,250,000 for fiscal year 2009.
 
 (f)
 
@@ -176,7 +176,7 @@ Selection criteria.—In conducting a competition under paragraph (1), the Secre
 
 &emsp;&emsp;&emsp;(ii) not less than 5 graduate degrees awarded in professional fields closely related to highways and public transportation each year for each of the preceding 5 years; and
 
-&emsp;&emsp;&emsp;(iii) not less than 3 tenured or tenure-track faculty members who specialize on afull-time basis in professional fields closely related to highways and public transportation who, as a group, have published a total at least 20 refereed journal publications on highway or public transportation research during the preceding 5 years.
+&emsp;&emsp;&emsp;(iii) not less than 3 tenured or tenure-track faculty members who specialize on a full-time basis in professional fields closely related to highways and public transportation who, as a group, have published a total at least 20 refereed journal publications on highway or public transportation research during the preceding 5 years.
 
 &emsp;(3)
 
@@ -212,7 +212,15 @@ Support of National Strategy for Surface Transportation Research.—In order to 
 
 (i)
 
-Maintenance of Effort.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall enter into an agreement with the Secretary to ensure that the institution will maintain total expenditures from all other sources to establish and operate a university transportation center and related research activities at a level at least equal to the average level of such expenditures in its 2 fiscal years prior to award of a grant under this section.
+Maintenance of Effort.—
+
+&emsp;(1)
+
+In general.—In order to be eligible to receive a grant under this section, a nonprofit institution of higher learning shall enter into an agreement with the Secretary to ensure that the institution will maintain total expenditures from all other sources to establishand operate a university transportation center and related research activities at a level at least equal to the average level of such expenditures in its 2 fiscal years prior to award of a grant under this section.
+
+&emsp;(2)
+
+Special rule.—Nothing in paragraph (1) requires a nonprofit institution of higher learning designated as a Tier II university transportation center to maintain total expenditures as described in paragraph (1) in excess of the amount of the grant awarded to the institution.
 
 (j)
 
@@ -232,7 +240,7 @@ Annual review and evaluation.—At least annually, and consistent with the plan 
 
 &emsp;(3)
 
-Management and oversight.—The Secretary shall expend not more than $400,000 for each of fiscal years 2005 through 2009 from amounts made available to carry out this section to carry out management and oversight of the centers receiving assistance under this section and section 5505.
+Management and oversight.—For each of fiscal years 2008 and 2009, the Secretary shall expend not more than 1.5 percent of amounts made available to carry out this section to carry out management and oversight of the centers receiving assistance under this section and section 5505.
 
 (<i>l</i>)
 
@@ -242,9 +250,17 @@ Program Administration.—The Secretary shall carry out this section acting thro
 
 Limitation on Availability of Funds.—Funds made available to carry out this section shall remain available for obligation by the Secretary for a period of 2 years after the last day of the fiscal year for which such funds are authorized.
 
-(Added Pub. L. 105–178, title V, §5111(a), June 9, 1998, 112 Stat. 444; amended Pub. L. 109–59, title V, §5402(a), Aug. 10, 2005, 119 Stat. 1815.)
+(Added Pub. L. 105–178, title V, §5111(a), June 9, 1998, 112 Stat. 444; amended Pub. L. 109–59, title V, §5402(a), Aug. 10, 2005, 119 Stat. 1815; Pub. L. 110–244, title I, §§111(g)(3), 116, June 6, 2008, 122 Stat. 1605, 1607.)
 
 #### Amendments
+
+2008—Subsec. (c)(2)(B). Pub. L. 110–244, §111(g)(3)(A), substituted “Tier” for “tier” in introductory provisions.
+
+Subsec. (e)(5)(C). Pub. L. 110–244, §116, substituted “$2,250,000” for “$2,225,000”.
+
+Subsec. (i). Pub. L. 110–244, §111(g)(3)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (k)(3). Pub. L. 110–244, §111(g)(3)(C), substituted “For each of fiscal years 2008 and 2009, the Secretary shall expend not more than 1.5 percent of amounts made available to carry out this section” for “The Secretary shall expend not more than $400,000 for each of fiscal years 2005 through 2009 from amounts made available to carry out this section”.
 
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to university transportation research for provisions relating to advanced vehicle technologies program.
 

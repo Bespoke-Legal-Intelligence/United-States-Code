@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iii) the proceeds of earnings on advances made under this section; or
 
-&emsp;&emsp;(B) any amount which is required to be maintained in such fund pursuant to State law or regulation, or by agreement withlenders, as a reserve against the insurance of outstanding loans.
+&emsp;&emsp;(B) any amount which is required to be maintained in such fund pursuant to State law or regulation, or by agreement with lenders, as a reserve against the insurance of outstanding loans.
 
 > &emsp;Except as provided in section 1078(c)(9)(E) or (F) of this title, such unencumbered non-Federal portion shall not be subject to recall, repayment, or recovery by the Secretary.
 
@@ -76,7 +76,7 @@
 
 &emsp;Except as provided in paragraph (7), advances pursuant to this subsection shall be made to a State—
 
-&emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreementpursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
+&emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreement pursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
 
 &emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
 
@@ -192,7 +192,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentage reduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
-&emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting the amount recalled under subparagraphs (B) and (C)), by
+&emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting theamount recalled under subparagraphs (B) and (C)), by
 
 &emsp;&emsp;&emsp;(ii) the total amount of all such agencies’ reserve funds remaining (after deduction of the required shares calculated under such subparagraphs) that exceed a reserve ratio of 0.58 percent.
 
@@ -316,7 +316,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (C) Special rule
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this titlebelow an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall be obtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this title below an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall be obtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
 
 #### (4) Offset of required shares
 

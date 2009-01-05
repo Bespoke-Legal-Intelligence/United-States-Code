@@ -10,7 +10,7 @@
 
 (2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall haveuntil 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under section 3811 of this title.
 
 (4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
@@ -54,25 +54,45 @@ If a tenant is determined to be ineligible for payments and other benefits under
 
 > The Secretary shall provide an annual report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the ineligibility determinations limited during the previous 12-month period under this subsection.
 
-#### (f) Graduated sanctions
+#### (f) Graduated penalties
 
-(1) No person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as a result of the failure of such person to actively apply a conservation plan, if the Secretary determines that the person has acted in good faith and without an intent to violate this subchapter. A person who meets the requirements of this paragraph shall be allowed a reasonable period of time, as determined by the Secretary, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively applying the person's conservation plan.
+#### (1) Ineligibility
 
-(2) If the Secretary determines that a person who has failed to comply with the provisions of section 3811 of this title with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions, the Secretary shall, in lieu of applying the ineligibility provisions in section 3811 of this title, reduce by not less than $500 nor more than $5,000, depending on the seriousness of the violation as determined by the Secretary, program benefits described in section 3811 of this title that such producer would otherwise be eligible to receive in a crop year.
+&emsp;No person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as a result of the failure of the person to actively apply a conservation plan, if the Secretary determines that the person has acted in good faith and without an intent to violate this subchapter.
 
-(3) Any person whose benefits are reduced in any crop year under this subsection shall continue to be eligible for all of the benefits described in section 3811 of this title for any subsequent crop year if, prior to the beginning of such subsequent crop year, the Secretary determines that such person is actively applying a conservation plan according to the schedule set forth in such plan.
+#### (2) Eligible reviewers
 
-(4) Notwithstanding any other provision of this subchapter, no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as a result of the failure of such person to actively apply a conservation plan, if the Secretary—
+&emsp;A determination of the Secretary, or a designee of the Secretary, under paragraph (1) shall be reviewed by the applicable—
 
-&emsp;(A) determines that such failure results in a violation of section 3811 of this title that is technical and minor in nature and that such violation has a minimal effect on the erosion control purposes of the conservation plan applicable to the land on which such violation has occurred;
+&emsp;&emsp;(A) State Executive Director, with the technical concurrence of the State Conservationist; or
 
-&emsp;(B) determines that such failure is due to circumstances beyond the control of the person; or
+&emsp;&emsp;(B) district director, with the technical concurrence of the area conservationist.
 
-&emsp;(C) grants the person a temporary variance from the practices specified in the plan for the purpose of handling a specific problem, including weather, pest, and disease problems.
+#### (3) Period for implementation
 
-(5)
+&emsp;A person who meets the requirements of paragraph (1) shall be allowed a reasonable period of time, as determined by the Secretary, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively applying the conservation plan of the person.
 
-Expedited procedures for temporary variances.—After consultation with local conservation districts, the Secretary shall establish expedited procedures for the consideration and granting of temporary variances under paragraph (4)(C). If the request for a temporary variance under paragraph (4)(C) involves the use of practices or measures to address weather, pest, or disease problems, the Secretary shall make a decision on whether to grant the variance during the 30-day period beginning on the date of receipt of the request. If the Secretary fails to render a decision during the period, the temporary variance shall be considered granted.
+#### (4) Penalties
+
+#### (A) Application
+
+&emsp;&emsp;This paragraph applies if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) a person has failed to comply with section 3811 of this title with respect to highly erodible cropland, and has acted in good faith and without an intent to violate section 3811 of this title; or
+
+&emsp;&emsp;&emsp;(ii) the violation—
+
+&emsp;&emsp;&emsp;&emsp;(I) is technical and minor in nature; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has a minimal effect on the erosion control purposes of the conservation plan applicable to the land on which the violation has occurred.
+
+#### (B) Reduction
+
+&emsp;&emsp;If this paragraph applies under subparagraph (A), the Secretary shall, in lieu of applying the ineligibility provisions of section 3811 of this title, reduce program benefits described in section 3811 of this title that the producer would otherwise be eligible to receive in a crop year by an amount commensurate with the seriousness of the violation, as determined by the Secretary.
+
+#### (5) Subsequent crop years
+
+&emsp;Any person whose benefits are reduced for any crop year under this subsection shall continue to be eligible for all of the benefits described in section 3811 of this title for any subsequent crop year if, prior to the beginning of the subsequent crop year, the Secretary determines that the person is actively applying a conservation plan according to the schedule specified in the plan.
 
 #### (g) Preparation or revision of conservation plan
 
@@ -86,17 +106,23 @@ The Secretary, in providing assistance to an individual in the preparation or re
 
 Section 3811 of this title shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983.)
+(Pub. L. 99–198, title XII, §1212, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 100–28, §§2, 3, Apr. 24, 1987, 101 Stat. 291; Pub. L. 101–624, title XIV, §1412, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(2), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §§301(d), 312–314, Apr. 4, 1996, 110 Stat. 981–983; Pub. L. 110–234, title II, §2002, May 22, 2008, 122 Stat. 1027; Pub. L. 110–246, §4(a), title II, §2002, June 18, 2008, 122 Stat. 1664, 1755.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Title X of the Act enacted section 1446h of Title 7 and amended section 1425a of Title 7. Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures andschedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
+2008—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
+
+1996—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary” after “applying a conservation plan”.
 
 Subsec. (a)(3). Pub. L. 104–127, §312, substituted “shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall” for “shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,”.
 
@@ -112,7 +138,7 @@ Subsec. (f)(1). Pub. L. 104–127, §313(a), substituted “No person” for “
 
 Pub. L. 104–127, §301(d)(4)(A), struck out “that documents the decisions of such person with respect to location, land use, tillage systems, and conservation treatment measures and schedules prepared under subsection (a) of this section” after “apply a conservation plan”.
 
-Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was not in production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
+Subsec. (f)(2). Pub. L. 104–127, §313(b), substituted “with respect to highly erodible cropland that was notin production prior to December 23, 1985, and has acted in good faith and without an intent to violate the provisions” for “meets the requirements of paragraph (1)”.
 
 Subsec. (f)(3). Pub. L. 104–127, §301(d)(4)(B), struck out “prepared under subsection (a) of this section” after “a conservation plan”.
 
@@ -149,4 +175,8 @@ Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (
 1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

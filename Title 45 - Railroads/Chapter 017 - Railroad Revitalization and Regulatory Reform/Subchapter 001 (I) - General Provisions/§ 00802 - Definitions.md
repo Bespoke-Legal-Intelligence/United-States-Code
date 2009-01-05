@@ -40,7 +40,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of this title, see section 615(b) of Pub. L. 97–468.
+Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\],pursuant to section 1203 of this title, see section 615(b) of Pub. L. 97–468.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

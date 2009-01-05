@@ -22,6 +22,13 @@
 | [636b.](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md) | Disaster loan interest rates. |
 | [636c.](%C2%A7%2000636c%20-%20Age%20of%20applicant%20for%20disaster%20loans.md) | Age of applicant for disaster loans. |
 | [636d.](%C2%A7%2000636d%20-%20Disaster%20aid%20to%20major%20sources%20of%20employment.md) | Disaster aid to major sources of employment. |
+| [636e.](%C2%A7%2000636e%20-%20Definitions.md) | Definitions. |
+| [636f.](%C2%A7%2000636f%20-%20Coordination%20of%20efforts%20between%20the%20Administrator%20and%20the%20Internal%20Revenue%20Service%20to%20expedite%20loan%20processing.md) | Coordination of efforts between the Administrator and the Internal Revenue Service to expedite loan processing. |
+| [636g.](%C2%A7%2000636g%20-%20Development%20and%20implementation%20of%20major%20disaster%20response%20plan.md) | Development and implementation of major disaster response plan. |
+| [636h.](%C2%A7%2000636h%20-%20Disaster%20planning%20responsibilities.md) | Disaster planning responsibilities. |
+| [636i.](%C2%A7%2000636i%20-%20Small%20business%20bonding%20threshold.md) | Small business bonding threshold. |
+| [636j.](%C2%A7%2000636j%20-%20Expedited%20disaster%20assistance%20loan%20program.md) | Expedited disaster assistance loan program. |
+| [636k.](%C2%A7%2000636k%20-%20Reports%20on%20disaster%20assistance.md) | Reports on disaster assistance. |
 | [637\.](%C2%A7%2000637%20-%20Additional%20powers.md) | Additional powers. |
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
@@ -60,6 +67,13 @@
 | [657f.](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md) | Procurement program for small business concerns owned and controlled by service-disabled veterans. |
 | [657g.](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md) | Participation in federally funded projects. |
 | [657h.](%C2%A7%2000657h%20-%20Small%20business%20energy%20efficiency.md) | Small business energy efficiency. |
+| [657i.](%C2%A7%2000657i%20-%20Coordination%20of%20disaster%20assistance%20programs%20with%20FEMA.md) | Coordination of disaster assistance programs with FEMA. |
+| [657j.](%C2%A7%2000657j%20-%20Information%20tracking%20and%20follow-up%20system%20for%20disaster%20assistance.md) | Information tracking and follow-up system for disaster assistance. |
+| [657k.](%C2%A7%2000657k%20-%20Disaster%20processing%20redundancy.md) | Disaster processing redundancy. |
+| 657<i>l.</i> | Comprehensive disaster response plan. |
+| [657m.](%C2%A7%2000657m%20-%20Plans%20to%20secure%20sufficient%20office%20space.md) | Plans to secure sufficient office space. |
+| [657n.](%C2%A7%2000657n%20-%20Immediate%20Disaster%20Assistance%20program.md) | Immediate Disaster Assistance program. |
+| 657<i>o.</i> | Annual reports on disaster assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,6 +102,13 @@
 - [&sect; 00636b - Disaster loan interest rates](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md)
 - [&sect; 00636c - Age of applicant for disaster loans](%C2%A7%2000636c%20-%20Age%20of%20applicant%20for%20disaster%20loans.md)
 - [&sect; 00636d - Disaster aid to major sources of employment](%C2%A7%2000636d%20-%20Disaster%20aid%20to%20major%20sources%20of%20employment.md)
+- [&sect; 00636e - Definitions](%C2%A7%2000636e%20-%20Definitions.md)
+- [&sect; 00636f - Coordination of efforts between the Administrator and the Internal Revenue Service to expedite loan processing](%C2%A7%2000636f%20-%20Coordination%20of%20efforts%20between%20the%20Administrator%20and%20the%20Internal%20Revenue%20Service%20to%20expedite%20loan%20processing.md)
+- [&sect; 00636g - Development and implementation of major disaster response plan](%C2%A7%2000636g%20-%20Development%20and%20implementation%20of%20major%20disaster%20response%20plan.md)
+- [&sect; 00636h - Disaster planning responsibilities](%C2%A7%2000636h%20-%20Disaster%20planning%20responsibilities.md)
+- [&sect; 00636i - Small business bonding threshold](%C2%A7%2000636i%20-%20Small%20business%20bonding%20threshold.md)
+- [&sect; 00636j - Expedited disaster assistance loan program](%C2%A7%2000636j%20-%20Expedited%20disaster%20assistance%20loan%20program.md)
+- [&sect; 00636k - Reports on disaster assistance](%C2%A7%2000636k%20-%20Reports%20on%20disaster%20assistance.md)
 - [&sect; 00637 - Additional powers](%C2%A7%2000637%20-%20Additional%20powers.md)
 - [&sect; 00637a - Repealed. Pub. L. 89&#8211;409, &sect;3(b), May 2, 1966, 80 Stat. 133](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md)
 - [&sect; 00637b - Availability of information](%C2%A7%2000637b%20-%20Availability%20of%20information.md)
@@ -126,3 +147,10 @@
 - [&sect; 00657f - Procurement program for small business concerns owned and controlled by service-disabled veterans](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md)
 - [&sect; 00657g - Participation in federally funded projects](%C2%A7%2000657g%20-%20Participation%20in%20federally%20funded%20projects.md)
 - [&sect; 00657h - Small business energy efficiency](%C2%A7%2000657h%20-%20Small%20business%20energy%20efficiency.md)
+- [&sect; 00657i - Coordination of disaster assistance programs with FEMA](%C2%A7%2000657i%20-%20Coordination%20of%20disaster%20assistance%20programs%20with%20FEMA.md)
+- [&sect; 00657j - Information tracking and follow-up system for disaster assistance](%C2%A7%2000657j%20-%20Information%20tracking%20and%20follow-up%20system%20for%20disaster%20assistance.md)
+- [&sect; 00657k - Disaster processing redundancy](%C2%A7%2000657k%20-%20Disaster%20processing%20redundancy.md)
+- [&sect; 00657l - Comprehensive disaster response plan](%C2%A7%2000657l%20-%20Comprehensive%20disaster%20response%20plan.md)
+- [&sect; 00657m - Plans to secure sufficient office space](%C2%A7%2000657m%20-%20Plans%20to%20secure%20sufficient%20office%20space.md)
+- [&sect; 00657n - Immediate Disaster Assistance program](%C2%A7%2000657n%20-%20Immediate%20Disaster%20Assistance%20program.md)
+- [&sect; 00657o - Annual reports on disaster assistance](%C2%A7%2000657o%20-%20Annual%20reports%20on%20disaster%20assistance.md)

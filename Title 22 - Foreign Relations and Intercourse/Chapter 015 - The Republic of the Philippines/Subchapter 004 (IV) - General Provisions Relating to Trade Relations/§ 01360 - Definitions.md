@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the tax imposed by section 2491(c) of the Internal Revenue Code with respect to an article, merchandise, or combination, 10 per centum or more of the quantity by weight of which consists of, or is derived directly or indirectly from, one or more of the oils, fatty acids, or salts specified in section 2470 of the Internal Revenue Code; and the tax imposed by section 3500 of the Internal Revenue Code; and
 
-&emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposingit designates or imposes it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws.
+&emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposing it designates or imposes it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws.
 
 (b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered as having been used in the production of an article subsequently produced, which is the product of a chain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
 

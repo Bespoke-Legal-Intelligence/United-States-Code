@@ -38,7 +38,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (c) Liquids in landfills
 
-(1) Effective 6 months after November 8, 1984, the placement of bulk or noncontainerized liquid hazardous waste or free liquids contained in hazardous waste (whether or not absorbents have been added) in any landfill is prohibited. Prior to such date the requirements (as in effect on April 30, 1983) promulgated under this section by the Administrator regarding liquid hazardous waste shall remain in force and effect to the extent such requirements are applicable to the placement of bulk or noncontainerized liquid hazardous waste, or free liquids contained in hazardous waste, in landfills.
+(1) Effective 6 months after November 8, 1984, the placement of bulk or noncontainerized liquid hazardous waste or free liquids contained in hazardous waste (whether or not absorbents have been added) in any landfill is prohibited. Prior to such date the requirements (as in effect on April 30, 1983) promulgated under this sectionby the Administrator regarding liquid hazardous waste shall remain in force and effect to the extent such requirements are applicable to the placement of bulk or noncontainerized liquid hazardous waste, or free liquids contained in hazardous waste, in landfills.
 
 (2) Not later than fifteen months after November 8, 1984, the Administrator shall promulgate final regulations which—
 
@@ -48,7 +48,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 > Such regulations shall also prohibit the disposal in landfills of liquids that have been absorbed in materials that biodegrade or that release liquids when compressed as might occur during routine landfill operations. Prior to the date on which such final regulations take effect, the requirements (as in effect on April 30, 1983) promulgated under this section by the Administrator shall remain in force and effect to the extent such requirements are applicable to the disposal of containerized liquid hazardous waste, or free liquids contained in hazardous waste, in landfills.
 
-(3) Effective twelve months after November 8, 1984, the placement of any liquid which is not ahazardous waste in a landfill for which a permit is required under section 6925(c) of this title or which is operating pursuant to interim status granted under section 6925(e) of this title is prohibited unless the owner or operator of such landfill demonstrates to the Administrator, or the Administrator determines, that—
+(3) Effective twelve months after November 8, 1984, the placement of any liquid which is not a hazardous waste in a landfill for which a permit is required under section 6925(c) of this title or which is operating pursuant to interim status granted under section 6925(e) of this title is prohibited unless the owner or operator of such landfill demonstrates to the Administrator, or the Administrator determines, that—
 
 &emsp;(A) the only reasonably available alternative to the placement in such landfill is placement in a landfill or unlined surface impoundment, whether or not permitted under section 6925(c) of this title or operating pursuant to interim status under section 6925(e) of this title, which contains, or may reasonably be anticipated to contain, hazardous waste; and
 
@@ -100,7 +100,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 > When necessary to protect human health and the environment, the Administrator shall substitute more stringent concentration levels than the levels specified in subparagraphs (A) through (E).
 
-(3) During the period ending forty-eight months after November 8, 1984, this subsection shall not apply to any disposal of contaminated soil or debris resulting from a response action taken under section 9604 or 9606 of this title or a corrective action required under this subchapter.
+(3) During the period ending forty-eight months after November 8, 1984, this subsection shall not apply to any disposal of contaminatedsoil or debris resulting from a response action taken under section 9604 or 9606 of this title or a corrective action required under this subchapter.
 
 #### (e) Solvents and dioxins
 
@@ -142,7 +142,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(B) for at least two-thirds of all such listed wastes by the date fifty-five months after November 8, 1984; and
 
-&emsp;(C) for all such listed wastes and for all hazardous wastes identified under section 6921 of this title by the date sixty-six months after November 8, 1984.
+&emsp;(C) for all such listed wastes and for all hazardous wastes identified under section 6921 ofthis title by the date sixty-six months after November 8, 1984.
 
 > In the case of any hazardous waste identified or listed under section 6921 of this title after November 8, 1984, the Administrator shall determine whether such waste shall be prohibited from one or more methods of land disposal in accordance with paragraph (5) within six months after the date of such identification or listing.
 
@@ -176,7 +176,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
 
-(10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
+(10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting thisstudy, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1) of this section, or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) of this section under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
 (11) Nothing in paragraph (7) or (9) shall be interpreted or applied to restrict any inspection or enforcement authority under the provisions of this chapter.
 
@@ -214,7 +214,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 #### (n) Air emissions
 
-Not later than thirty months after November 8, 1984, the Administrator shall promulgate such regulations for the monitoring and control of air emissions at hazardous waste treatment, storage, and disposal facilities, including but not limited to open tanks, surface impoundments, and landfills, as may be necessary to protect human health and the environment.
+Not later than thirty months after November 8, 1984, the Administrator shall promulgate suchregulations for the monitoring and control of air emissions at hazardous waste treatment, storage, and disposal facilities, including but not limited to open tanks, surface impoundments, and landfills, as may be necessary to protect human health and the environment.
 
 #### (<i>o</i>) Minimum technological requirements
 
@@ -266,7 +266,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(3) the owner or operator inspects the liner (or liners) which has been installed at the facility.
 
-> This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorized on a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (<i>o</i>) of this section) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoring and for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
+> This subsection shall not be construed to affect other exemptions or waivers from such standards provided in regulations in effect on November 8, 1984, or as may be provided in revisions to those regulations, to the extent consistent with this subsection. The Administrator is authorizedon a case-by-case basis to exempt from ground water monitoring requirements under this section (including subsection (<i>o</i>) of this section) any engineered structure which the Administrator finds does not receive or contain liquid waste (nor waste containing free liquids), is designed and operated to exclude liquid from precipitation or other runoff, utilizes multiple leak detection systems within the outer layer of containment, and provides for continuing operation and maintenance of these leak detection systems during the operating period, closure, and the period required for post-closure monitoring and for which the Administrator concludes on the basis of such findings that there is a reasonable certainty hazardous constituents will not migrate beyond the outer layer of containment prior to the end of the period required for post-closure monitoring.
 
 #### (q) Hazardous waste used as fuel
 

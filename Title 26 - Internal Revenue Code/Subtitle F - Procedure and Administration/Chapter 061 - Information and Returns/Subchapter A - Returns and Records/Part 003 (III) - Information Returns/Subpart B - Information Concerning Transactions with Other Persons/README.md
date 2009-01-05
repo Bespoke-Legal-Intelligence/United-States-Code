@@ -14,6 +14,8 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6043A.](%C2%A7%2006043A%20-%20Returns%20relating%20to%20taxable%20mergers%20and%20acquisitions.md) | Returns relating to taxable mergers and acquisitions. |
 | [6044\.](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md) | Returns regarding payments of patronage dividends. |
 | [6045\.](%C2%A7%2006045%20-%20Returns%20of%20brokers.md) | Returns of brokers. |
+| [6045A.](%C2%A7%2006045A%20-%20Information%20required%20in%20connection%20with%20transfers%20of%20covered%20securities%20to%20brokers.md) | Information required in connection with transfers of covered securities to brokers. |
+| [6045B.](%C2%A7%2006045B%20-%20Returns%20relating%20to%20actions%20affecting%20basis%20of%20specified%20securities.md) | Returns relating to actions affecting basis of specified securities. |
 | [6046\.](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md) | Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock. |
 | [6046A.](%C2%A7%2006046A%20-%20Returns%20as%20to%20interests%20in%20foreign%20partnerships.md) | Returns as to interests in foreign partnerships. |
 | [6047\.](%C2%A7%2006047%20-%20Information%20relating%20to%20certain%20trusts%20and%20annuity%20plans.md) | Information relating to certain trusts and annuity plans. |
@@ -46,16 +48,21 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6050T.](%C2%A7%2006050T%20-%20Returns%20relating%20to%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md) | Returns relating to credit for health insurance costs of eligible individuals. |
 | [6050U.](%C2%A7%2006050U%20-%20Charges%20or%20payments%20for%20qualified%20long-term%20care%20insurance%20contracts%20under%20combined%20arrangements.md) | Charges or payments for qualified long-term care insurance contracts under combined arrangements. |
 | [6050V.](%C2%A7%2006050V%20-%20Returns%20relating%20to%20applicable%20insurance%20contracts%20in%20which%20certain%20exempt%20organizations%20hold%20interests.md) | Returns relating to applicable insurance contracts in which certain exempt organizations hold interests. |
+| [6050W.](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md) | Returns relating to payments made in settlement of payment card transactions.<sup>3</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+Pub. L. 110–343, div. B, title IV, §403(c)(3), (d)(3), Oct. 3, 2008, 122 Stat. 3858, 3860, added items 6045A and 6045B.
+
+Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, added item 6050W.
+
 2006—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying the act to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 
-2004—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting “Returns relating to certain donated property” for “Returns relatingto certain dispositions of donated property” in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
+2004—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting “Returns relating to certain donated property” for “Returns relating to certain dispositions of donated property” in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, title VIII, §805(c), Oct. 22, 2004, 118 Stat. 1574, added item 6043A.
 
@@ -113,6 +120,8 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 
 <i><sup>2</sup></i><i> So in original.</i>
 
+<i><sup>3</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -125,6 +134,8 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06043A - Returns relating to taxable mergers and acquisitions](%C2%A7%2006043A%20-%20Returns%20relating%20to%20taxable%20mergers%20and%20acquisitions.md)
 - [&sect; 06044 - Returns regarding payments of patronage dividends](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md)
 - [&sect; 06045 - Returns of brokers](%C2%A7%2006045%20-%20Returns%20of%20brokers.md)
+- [&sect; 06045A - Information required in connection with transfers of covered securities to brokers](%C2%A7%2006045A%20-%20Information%20required%20in%20connection%20with%20transfers%20of%20covered%20securities%20to%20brokers.md)
+- [&sect; 06045B - Returns relating to actions affecting basis of specified securities](%C2%A7%2006045B%20-%20Returns%20relating%20to%20actions%20affecting%20basis%20of%20specified%20securities.md)
 - [&sect; 06046 - Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md)
 - [&sect; 06046A - Returns as to interests in foreign partnerships](%C2%A7%2006046A%20-%20Returns%20as%20to%20interests%20in%20foreign%20partnerships.md)
 - [&sect; 06047 - Information relating to certain trusts and annuity plans](%C2%A7%2006047%20-%20Information%20relating%20to%20certain%20trusts%20and%20annuity%20plans.md)
@@ -152,3 +163,4 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 - [&sect; 06050T - Returns relating to credit for health insurance costs of eligible individuals](%C2%A7%2006050T%20-%20Returns%20relating%20to%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md)
 - [&sect; 06050U - Charges or payments for qualified long-term care insurance contracts under combined arrangements](%C2%A7%2006050U%20-%20Charges%20or%20payments%20for%20qualified%20long-term%20care%20insurance%20contracts%20under%20combined%20arrangements.md)
 - [&sect; 06050V - Returns relating to applicable insurance contracts in which certain exempt organizations hold interests](%C2%A7%2006050V%20-%20Returns%20relating%20to%20applicable%20insurance%20contracts%20in%20which%20certain%20exempt%20organizations%20hold%20interests.md)
+- [&sect; 06050W - Returns relating to payments made in settlement of payment card and third party network transactions](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md)

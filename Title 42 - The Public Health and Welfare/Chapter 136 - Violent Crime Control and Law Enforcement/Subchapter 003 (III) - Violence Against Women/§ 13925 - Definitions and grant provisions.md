@@ -32,7 +32,7 @@ In this subchapter:
 
 &emsp;The term “court-based” and “court-related personnel” mean persons working in the court, whether paid or volunteer, including—
 
-&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any otherprofessionals or personnel similarly involved in the legal process;
+&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
 
 &emsp;&emsp;(B) court security personnel;
 
@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (7) Dating partner
 
-&emsp;The term “dating partner” refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, and where the existence of such a relationship shall be determined based on a consideration of—
+&emsp;The term “dating partner” refers to a person who is or has been in a social relationship ofa romantic or intimate nature with the abuser, and where the existence of such a relationship shall be determined based on a consideration of—
 
 &emsp;&emsp;(A) the length of the relationship;
 
@@ -442,5 +442,5 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 &emsp;“(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date. Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
 
-&emsp;“(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male universitypopulation, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators.”
+&emsp;“(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male university population, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators.”
 

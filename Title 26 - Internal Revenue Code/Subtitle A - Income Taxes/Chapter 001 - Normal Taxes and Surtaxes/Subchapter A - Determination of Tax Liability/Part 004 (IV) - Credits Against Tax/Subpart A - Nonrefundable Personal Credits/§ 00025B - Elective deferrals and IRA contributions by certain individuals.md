@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of somuch of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
+In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the applicable percentage of so much of the qualified retirement savings contributions of the eligible individual for the taxable year as do not exceed $2,000.
 
 #### (b) Applicable percentage
 
@@ -114,19 +114,23 @@ In the case of a taxable year to which section 26(a)(2) does not apply, the cred
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under this subpart (other than this section and section 23) and section 27 for the taxable year.
+&emsp;(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 30D) and section 27 for the taxable year.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838.)
 
-#### Inflation Adjusted Items for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of amounts in subsection (b) of this section used in determining the applicable percentage for calculating the credit for elective deferrals and IRA contributions by certain individuals, see section 3.06 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted “, 25D, and 30D” for “and 25D”.
+
+Pub. L. 110–343, §106(e)(2)(C), substituted “sections 23 and 25D” for “section 23”.
 
 2006—Subsec. (b). Pub. L. 109–280, §833(a), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions consisting of introductory provisions and pars. (1) to (3) for former provisions consisting of introductory provisions and a table of applicable percentages for amounts of adjusted gross income for a joint return, a head of household, and all other cases.
 
@@ -145,6 +149,12 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
 2001—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 106(e)(2)(C) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 106(f)(1) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+
+Amendment by section 205(d)(1)(C) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
 #### Effective Date of 2006 Amendment
 

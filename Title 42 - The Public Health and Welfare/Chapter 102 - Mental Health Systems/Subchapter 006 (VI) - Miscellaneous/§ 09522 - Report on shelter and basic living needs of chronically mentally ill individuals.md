@@ -20,7 +20,7 @@ The report required by subsection (a) of this section shall include—
 
 &emsp;&emsp;(C) an assessment of the effectiveness of each program in the provision of shelter and basic living services;
 
-&emsp;(4) recommendations of measures to encourage States to coordinate and link the provisions in State health plans which relate to mental health and, in particular, the shelter and basic living needs of chronically mentally ill individuals, with local and State housing plans;
+&emsp;(4) recommendations of measures to encourage States to coordinate and link the provisions in State health plans which relate tomental health and, in particular, the shelter and basic living needs of chronically mentally ill individuals, with local and State housing plans;
 
 &emsp;(5) recommendations for Federal legislation relating to the provision of permanent residential noninstitutional housing arrangements and basic living services for chronically mentally ill individuals, including an estimate of the cost of such recommendations; and
 

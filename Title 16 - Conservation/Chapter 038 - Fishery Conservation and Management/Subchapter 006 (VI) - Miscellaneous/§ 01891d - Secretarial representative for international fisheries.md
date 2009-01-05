@@ -6,7 +6,7 @@ The Secretary, in consultation with the Under Secretary of Commerce for Oceans a
 
 #### (b) Advice
 
-The designated official shall, in consultation with the Deputy Assistant Secretary for International Affairs and the Administrator of the National Marine Fisheries Service, advise the Secretary, Undersecretary of Commerce for Oceans and Atmosphere, and other senior officials of the Department of Commerce and the National Oceanic and Atmospheric Administration on development of policy on international fisheries conservation and management matters.
+The designated official shall, in consultation with the Deputy Assistant Secretary for International Affairs and the Administrator of the National Marine Fisheries Service, advise theSecretary, Undersecretary of Commerce for Oceans and Atmosphere, and other senior officials of the Department of Commerce and the National Oceanic and Atmospheric Administration on development of policy on international fisheries conservation and management matters.
 
 #### (c) Consultation
 

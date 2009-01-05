@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Maquiladora
 
-&emsp;The term “maquiladora” means an entity located in Mexico that assembles and producesgoods from imported parts for export to the United States.
+&emsp;The term “maquiladora” means an entity located in Mexico that assembles and produces goods from imported parts for export to the United States.
 
 #### (3) Northern border
 

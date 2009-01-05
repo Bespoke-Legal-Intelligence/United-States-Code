@@ -2,13 +2,17 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2007 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2012 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
 #### (b) Allowable administrative costs
 
 Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
-(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436.)
+(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -18,9 +22,9 @@ A prior section 6 of Pub. L. 88–74 was classified to section 390f of this titl
 
 Another prior section 6 of Pub. L. 88–74 was classified to section 390e of this title prior to repeal by Pub. L. 99–198.
 
-A prior section 390e, Pub. L. 88–74, §6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period of five fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, §1411(f), Dec. 23, 1985, 99 Stat. 1548.
+A prior section 390e, Pub. L. 88–74, §6, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to continuing availability of unused allotments to eligible institutions for a period offive fiscal years following the fiscal year of initial availability thereof, prior to repeal by Pub. L. 99–198, title XIV, §1411(f), Dec. 23, 1985, 99 Stat. 1548.
 
-A prior section 390f, Pub. L. 88–74, §6, formerly §7, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV,§1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §6 and amended Pub. L. 99–198, title XIV, §1411(g), (k), Dec. 23, 1985, 99 Stat. 1548, related to fund support basis for multiple-purpose equipment and physical facilities, prior to the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 390f, Pub. L. 88–74, §6, formerly §7, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995; renumbered §6 and amended Pub. L. 99–198, title XIV, §1411(g), (k), Dec. 23, 1985, 99 Stat. 1548, related to fund support basis for multiple-purpose equipment and physical facilities, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 390g, Pub. L. 88–74, §8, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 995, related to ascertainment of the amount of the allocation to which each institution was entitled and written notification to each such institution, prior to repeal by Pub. L. 99–198, title XIV, §1411(h), Dec. 23, 1985, 99 Stat. 1548.
 
@@ -38,7 +42,13 @@ A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authori
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–246, §7405, substituted “2012” for “2007”.
+
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -70,9 +70,9 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2003—Subsec. (b)(5). Pub. L. 108–177 inserted “, other than regulations under paragraph (1),” after “Regulations”.
+<b>2003</b>—Subsec. (b)(5). Pub. L. 108–177 inserted “, other than regulations under paragraph (1),” after “Regulations”.
 
-1994—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “section 5731 of title 5” for “section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)”, and “the recovery of such officer or employee” for “his recovery”.
+<b>1994</b>—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency” and substituted “the Director deems” for “he shall deem”, “section 5731 of title 5” for “section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)”, and “the recovery of such officer or employee” for “his recovery”.
 
 Pub. L. 103–359, §401(1)(E), which directed the substitution of “the return to the post of duty of such officer or employee” for “his return to his post”, was executed by making the substitution for “his return to his post of duty” to reflect the probable intent of Congress.
 
@@ -80,9 +80,9 @@ Subsec. (a)(5)(B). Pub. L. 103–359, §401(2), substituted “the opinion of th
 
 Subsec. (a)(5)(C). Pub. L. 103–359, §401(3), struck out “, not the result of vicious habits, intemperance, or misconduct on his part,” after “the Agency”.
 
-1981—Pub. L. 97–89 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1981</b>—Pub. L. 97–89 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1960—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
+<b>1960</b>—Pub. L. 86–707, §323(a), substituted “duty stations outside the several States of the United States of America, excluding Alaska and Hawaii, but including the District of Columbia” for “permanent-duty stations outside the continental United States, its territories, and possessions” in opening provisions, and struck out subsec. (a) designation.
 
 Par. (1)(A). Pub. L. 86–707, §511(c)(2), substituted “pursuant to authorized home leave” for “pursuant to orders issued by the Director in accordance with the provisions of subsection (a)(3) of this section with regard to the granting of home leave”.
 

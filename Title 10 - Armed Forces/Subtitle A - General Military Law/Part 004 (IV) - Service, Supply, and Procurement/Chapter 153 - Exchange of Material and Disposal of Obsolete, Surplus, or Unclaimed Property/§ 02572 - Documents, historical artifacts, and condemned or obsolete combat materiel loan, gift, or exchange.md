@@ -32,13 +32,13 @@
 
 (c) This section applies to the following types of property held by a military department or the Coast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
 
-(d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 121 of title 40.
+(d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 121 of title 40. The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary's delegee.
 
-(2)(A) Except as provided in subparagraph (B), the United States may not incur any expense in connection with a loan or gift under subsection (a).
+(2)(A) Except as provided in subparagraph (B), the United States may not incur any expense in connection with a loan or gift under subsection (a), including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible.
 
 (B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a),Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, §3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, §369, Dec. 2, 2002, 116 Stat. 2524.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, §3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, §369, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 110–417, \[div. A\], title III, §352, Oct. 14, 2008, 122 Stat. 4425.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,10 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–417, §352(1), inserted at end “The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary's delegee.”
+
+Subsec. (d)(2)(A). Pub. L. 110–417, §352(2), inserted “, including any expense associated with demilitarizing an item under paragraph (1), for which the recipient of the item shall be responsible” before period at end.
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
 

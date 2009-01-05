@@ -20,9 +20,9 @@
 
 &emsp;(1) refunds to the limit of liability of an individual tax account; and
 
-&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 35 or 53(e) of such Code.
+&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 35, 36, 168(k)(4)(F), 53(e), 54B(h), or 6428 of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, §402(b)(2), Dec. 20, 2006, 120 Stat. 2954.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, §402(b)(2), Dec. 20, 2006, 120 Stat.2954;Pub. L. 110–185, title I, §101(f)(1), Feb. 13, 2008, 122 Stat. 617; Pub. L. 110–234, title XV, §15316(c)(6), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(6), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title I, §3011(b)(3), title III, §3081(c), July 30, 2008, 122 Stat. 2891, 2906.)
 
 Historical and Revision Notes
 
@@ -54,9 +54,23 @@ Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, c
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-Sections 35 and 53 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 35 and 53, respectively, of Title 26, Internal Revenue Code.
+Sections 35, 36, 168, 53, 54B, and 6428 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2), are classified to sections 35, 36, 168, 53, 54B, and 6428, respectively, of Title 26, Internal Revenue Code.
+
+Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(2), is section 3081(b)(2) of Pub. L. 110–289, div. C, title III, July 30, 2008, 122 Stat. 2906, which is not classified to the Code.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–289, §3081(c), inserted “168(k)(4)(F),” after “36,” and “, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008” before period at end.
+
+Pub. L. 110–289, §3011(b)(3), inserted “36,” after “35,”.
+
+Pub. L. 110–246, §15316(c)(6), substituted “, 53(e), 54B(h), or 6428” for “or 6428 or 53(e)”.
+
+Pub. L. 110–185 inserted “or 6428” after “section 35”.
 
 2006—Subsec. (b)(2). Pub. L. 109–432 inserted “or 53(e)” after “section 35”.
 
@@ -65,6 +79,16 @@ Sections 35 and 53 of the Internal Revenue Code of 1986, referred to in subsec. 
 1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 3011(b)(3) of Pub. L. 110–289 applicable to residences purchased on or after Apr. 9, 2008, in taxable years ending on or after such date, see section 3011(c) of Pub. L. 110–289, set out as a note under section 26 of Title 26, Internal Revenue Code.
+
+Amendment by section 3081(c) of Pub. L. 110–289 applicable to taxable years ending after Mar. 31, 2008, see section 3081(d) of Pub. L. 110–289, set out as a note under section 168 of Title 26, Internal Revenue Code.
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15316(c)(6) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

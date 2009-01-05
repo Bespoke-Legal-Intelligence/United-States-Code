@@ -30,9 +30,29 @@
 
 &emsp;(8) A statement of the current status of the compatibility of equipment between the Army reserve components and active forces of the Army, the effect of that level of incompatibility on combat effectiveness, and a plan to achieve full equipment compatibility.
 
+&emsp;(9) An assessment of the extent to which the National Guard possesses the equipment required to perform the responsibilities of the National Guard pursuant to sections 331, 332, 333, 12304(b), and 12406 of this title in response to an emergency or major disaster (as such terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)). Such assessment shall—
+
+&emsp;&emsp;(A) identify any shortfall in equipment provided to the National Guard by the Department of Defense throughout the United States and the territories and possessions of the United States that is likely to affect the ability of the National Guard to perform such responsibilities;
+
+&emsp;&emsp;(B) evaluate the effect of any such shortfall on the capacity of the National Guard to perform such responsibilities in response to an emergency or major disaster that occurs in the United States or a territory or possession of the United States; and
+
+&emsp;&emsp;(C) identify the requirements and investment strategies for equipment provided to the National Guard by the Department of Defense that are necessary to plan for a reduction or elimination of any such shortfall.
+
 (c) Each report under this section shall be expressed in the same format and with the same level of detail as the information presented in the annual Five Year Defense Program Procurement Annex prepared by the Department of Defense.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982.)
+(d) Each report under this section concerning equipment of the National Guard shall also include the following:
+
+&emsp;(1) A statement of the accuracy of the projections required by subsection (b)(5)(D) contained in earlier reports under this section, and an explanation, if the projection was not met, of why the projection was not met.
+
+&emsp;(2) A certification from the Chief of the National Guard Bureau setting forth an inventory for the preceding fiscal year of each item of equipment—
+
+&emsp;&emsp;(A) for which funds were appropriated;
+
+&emsp;&emsp;(B) which was due to be procured for the National Guard during that fiscal year; and
+
+&emsp;&emsp;(C) which has not been received by a National Guard unit as of the close of that fiscal year.
+
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503.)
 
 #### Prior Provisions
 
@@ -40,9 +60,17 @@ Provisions similar to those in this section were contained in section 115(a)(2),
 
 #### Amendments
 
+2008—Subsec. (b)(9). Pub. L. 110–181, §351(a), added par. (9).
+
+Subsec. (d). Pub. L. 110–181, §1826, added subsec. (d).
+
 1994—Pub. L. 103–337 renumbered section 115b of this title as this section and substituted “National Guard and reserve component equipment: annual report to Congress” for “Annual report on National Guard and reserve component equipment” as section catchline.
 
 1992—Subsec. (b)(8). Pub. L. 102–484 added par. (8).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title III, §351(c)(1), Jan. 28, 2008, 122 Stat. 70, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports submitted after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
 #### Effective Date of 1994 Amendment
 

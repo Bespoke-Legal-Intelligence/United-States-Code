@@ -2,7 +2,9 @@
 
 In this part—
 
-&emsp;(1) “railroad”—
+&emsp;(1) “Class I railroad”, “Class II railroad”, and “Class III railroad” mean railroad carriers that have annual carrier operating revenues that meet the threshold amount for Class I carriers, Class II carriers, and Class III carriers, respectively, as determined by the Surface Transportation Board under section 1201.1–1 of title 49, Code of Federal Regulations.
+
+&emsp;(2) “railroad”—
 
 &emsp;&emsp;(A) means any form of nonhighway ground transportation that runs on rails or electromagnetic guideways, including—
 
@@ -12,9 +14,23 @@ In this part—
 
 &emsp;&emsp;(B) does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation.
 
-&emsp;(2) “railroad carrier” means a person providing railroad transportation.
+&emsp;(3) “railroad carrier” means a person providing railroad transportation, except that, upon petition by a group of commonly controlled railroad carriers that the Secretary determines is operating within the United States as a single, integrated rail system, the Secretary may by order treat the group of railroad carriers as a single railroad carrier for purposes of one or more provisions of part A, subtitle V of this title and implementing regulations and order, subject to any appropriate conditions that the Secretary may impose.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863.)
+&emsp;(4) “safety-related railroad employee” means—
+
+&emsp;&emsp;(A) a railroad employee who is subject to chapter 211;
+
+&emsp;&emsp;(B) another operating railroad employee who is not subject to chapter 211;
+
+&emsp;&emsp;(C) an employee who maintains the right of way of a railroad;
+
+&emsp;&emsp;(D) an employee of a railroad carrier who is a hazmat employee as defined in section 5102(3) of this title;
+
+&emsp;&emsp;(E) an employee who inspects, repairs, or maintains locomotives, passenger cars, or freight cars; and
+
+&emsp;&emsp;(F) any other employee of a railroad carrier who directly affects railroad safety, as determined by the Secretary.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 110–432, div. A, §2(b), title IV, §407, Oct. 16, 2008, 122 Stat. 4850, 4886.)
 
 Historical and Revision Notes
 
@@ -75,4 +91,42 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(a); added Feb. 28, 1920, ch. 91, §441
 Clause (1) is substituted for the source provisions to avoid repeating the definition of “railroad” in each chapter in this part.
 
 Clause (2) is added to distinguish between railroad transportation and the entity providing railroad transportation.
+
+#### Amendments
+
+2008—Pub. L. 110–432, §2(b), added pars. (1) and (4) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Par. (3). Pub. L. 110–432, §407, amended par. (3) generally. Prior to amendment, text read as follows: “ ‘railroad carrier’ means a person providing railroad transportation.”
+
+#### Definitions Applicable to Division A of Pub. L. 110–432
+
+Pub. L. 110–432, div. A, §2(a), Oct. 16, 2008, 122 Stat. 4849, provided that: “In this division \[see Short Title of 2008 Amendment note set out under section 20101 of this title\]:
+
+&emsp;“(1)
+
+Crossing.—The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade\[,\] where—
+
+&emsp;&emsp;“(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
+
+&emsp;&emsp;“(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated.
+
+&emsp;“(2)
+
+Department.—The term ‘Department’ means the Department of Transportation.
+
+&emsp;“(3)
+
+Railroad.—The term ‘railroad’ has the meaning given that term by section 20102 of title 49, United States Code.
+
+&emsp;“(4)
+
+Railroad carrier.—The term ‘railroad carrier’ has the meaning given that term by section 20102 of title 49, United States Code.
+
+&emsp;“(5)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Transportation.
+
+&emsp;“(6)
+
+State.—The term ‘State’ means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.”
 

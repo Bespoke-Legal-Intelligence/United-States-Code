@@ -6,7 +6,7 @@ No State or local statute or regulation, or other State or local legal requireme
 
 #### (b) State regulatory authority
 
-Nothing in this section shall affect the ability of a State to impose, on a competitively neutralbasis and consistent with section 254 of this title, requirements necessary to preserve and advance universal service, protect the public safety and welfare, ensure the continued quality of telecommunications services, and safeguard the rights of consumers.
+Nothing in this section shall affect the ability of a State to impose, on a competitively neutral basis and consistent with section 254 of this title, requirements necessary to preserve and advance universal service, protect the public safety and welfare, ensure the continued quality of telecommunications services, and safeguard the rights of consumers.
 
 #### (c) State and local government authority
 

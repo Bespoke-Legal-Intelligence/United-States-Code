@@ -6,9 +6,13 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;(1) 30 percent of the qualified solar electric property expenditures made by the taxpayer during such year,
 
-&emsp;(2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year, and
+&emsp;(2) 30 percent of the qualified solar water heating property expenditures made by the taxpayer during such year,
 
-&emsp;(3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year.
+&emsp;(3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
+
+&emsp;(4) 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
+
+&emsp;(5) 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
 
 #### (b) Limitations
 
@@ -16,25 +20,37 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;The credit allowed under subsection (a) (determined without regard to subsection (c)) for any taxable year shall not exceed—
 
-&emsp;&emsp;(A) $2,000 with respect to any qualified solar electric property expenditures,
+&emsp;&emsp;(A) $2,000 with respect to any qualified solar water heating property expenditures,
 
-&emsp;&emsp;(B) $2,000 with respect to any qualified solar water heating property expenditures, and
+&emsp;&emsp;(B) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
 
-&emsp;&emsp;(C) $500 with respect to each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
+&emsp;&emsp;(C) $500 with respect to each half kilowatt of capacity (not to exceed $4,000) of wind turbines for which qualified small wind energy property expenditures are made, and
+
+&emsp;&emsp;(D) $2,000 with respect to any qualified geothermal heat pump property expenditures.
 
 #### (2) Certification of solar water heating property
 
 &emsp;No credit shall be allowed under this section for an item of property described in subsection (d)(1) unless such property is certified for performance by the non-profit Solar Rating Certification Corporation or a comparable entity endorsed by the government of the State in which such property is installed.
 
-#### (c) Carryforward of unused credit
+#### (c) Limitation based on amount of tax; carryforward of unused credit
 
-#### (1) Rule for years in which all personal credits allowed against regular and alternative minimum tax
+#### (1) Limitation based on amount of tax
 
-&emsp;In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
 
-#### (2) Rule for other years
+&emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(1) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section) and section 27 for the taxable year.
+
+#### (2) Carryforward of unused credit
+
+#### (A) Rule for years in which all personal credits allowed against regular and alternative minimum tax
+
+&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
+
+#### (B) Rule for other years
+
+&emsp;&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.
 
 #### (d) Definitions
 
@@ -50,7 +66,25 @@ For purposes of this section—
 
 #### (3) Qualified fuel cell property expenditure
 
-&emsp;The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+&emsp;The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States andused as a principal residence (within the meaning of section 121) by the taxpayer.
+
+#### (4) Qualified small wind energy property expenditure
+
+&emsp;The term “qualified small wind energy property expenditure” means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+
+#### (5) Qualified geothermal heat pump property expenditure
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified geothermal heat pump property expenditure” means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+
+#### (B) Qualified geothermal heat pump property
+
+&emsp;&emsp;The term “qualified geothermal heat pump property” means any equipment which—
+
+&emsp;&emsp;&emsp;(i) uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
+
+&emsp;&emsp;&emsp;(ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
 
 #### (e) Special rules
 
@@ -76,11 +110,13 @@ For purposes of this section—
 
 Maximum expenditures.—The maximum amount of expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be—
 
-&emsp;&emsp;&emsp;(i) $6,667 in the case of any qualified solar electric property expenditures,
+&emsp;&emsp;&emsp;(i) $6,667 in the case of any qualified solar water heating property expenditures,
 
-&emsp;&emsp;&emsp;(ii) $6,667 in the case of any qualified solar water heating property expenditures, and
+&emsp;&emsp;&emsp;(ii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made,
 
-&emsp;&emsp;&emsp;(iii) $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) for which qualified fuel cell property expenditures are made.
+&emsp;&emsp;&emsp;(iii) $1,667 in the case of each half kilowatt of capacity (not to exceed $13,333) of wind turbines for which qualified small wind energy property expenditures are made, and
+
+&emsp;&emsp;&emsp;(iv) $6,667 in the case of any qualified geothermal heat pump property expenditures.
 
 &emsp;&emsp;(B)
 
@@ -134,15 +170,39 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 #### (g) Termination
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2008.
+The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–343, §106(c)(1), added par. (4).
+
+Subsec. (a)(5). Pub. L. 110–343, §106(d)(1), added par. (5).
+
+Subsec. (b)(1). Pub. L. 110–343, §106(b)(1), amended par. (1) as amended by Pub. L. 110–343, §106(c)(2) and (d)(2), by redesignating subpars. (B) to (E) as (A) to (D), respectively, and striking out former subpar. (A) which read as follows: “$2,000 with respect to any qualified solar electric property expenditures,”.
+
+Subsec. (b)(1)(D). Pub. L. 110–343, §106(c)(2), added subpar. (D).
+
+Subsec. (b)(1)(E). Pub. L. 110–343, §106(d)(2), added subpar. (E).
+
+Subsec. (c). Pub. L. 110–343, §106(e)(1), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to carryforward of unused credit.
+
+Subsec. (d)(4). Pub. L. 110–343, §106(c)(3)(A), added par. (4).
+
+Subsec. (d)(5). Pub. L. 110–343, §106(d)(3), added par. (5).
+
+Subsec. (e)(4)(A). Pub. L. 110–343, §106(b)(2), amended subpar. (A) as amended by Pub. L. 110–343, §106(c)(4) and (d)(4), by redesignating cls. (ii) to (v) as (i) to (iv), respectively, and striking out former cl. (i) which read as follows: “$6,667 in the case of any qualified solar electric property expenditures,”.
+
+Subsec. (e)(4)(A)(iv). Pub. L. 110–343, §106(c)(4), added cl. (iv).
+
+Subsec. (e)(4)(A)(v). Pub. L. 110–343, §106(d)(4), added cl. (v).
+
+Subsec. (g). Pub. L. 110–343, §106(a), substituted “December 31, 2016” for “December 31, 2008”.
 
 2006—Subsecs. (a)(1), (b)(1)(A). Pub. L. 109–432, §206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
 
@@ -162,9 +222,13 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to whichsuch amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

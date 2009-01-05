@@ -4,7 +4,7 @@
 
 (b) A certificate of acknowledgement is not required for the validity of a transfer, but is prima facie evidence of the execution of the transfer if—
 
-&emsp;(1) in the case of a transfer executed in the United States, the certificate is issued by aperson authorized to administer oaths within the United States; or
+&emsp;(1) in the case of a transfer executed in the United States, the certificate is issued by a person authorized to administer oaths within the United States; or
 
 &emsp;(2) in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.
 

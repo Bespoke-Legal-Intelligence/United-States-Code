@@ -6,7 +6,7 @@ There shall be in the Department a Deputy Secretary, eight Assistant Secretaries
 
 #### (b) Federal Housing Commissioner
 
-There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a Federal Housing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shall be accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
+There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a Federal Housing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shallbe accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
 
 #### (c) Director of Urban Program Coordination; designation; powers and duties; studies of urban and community problems and recommendations for administration of Federal programs affecting such problems
 
@@ -62,7 +62,7 @@ Section was formerly classified to section 624b of former Title 5, Executive Dep
 
 #### Amendments
 
-1992—Subsec. (e)(1). Pub. L. 102–550 designated existing provisions as subpar. (A), substituted “located in the Office of the Assistant Secretary for Public and Indian Housing” for “responsible for coordinating all programs of the Department relating to Indian and Alaska Native housing and community development”, and added subpars. (B) through (D).
+1992—Subsec. (e)(1). Pub. L. 102–550 designated existing provisions as subpar. (A), substituted “located inthe Office of the Assistant Secretary for Public and Indian Housing” for “responsible for coordinating all programs of the Department relating to Indian and Alaska Native housing and community development”, and added subpars. (B) through (D).
 
 1990—Subsec. (a). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary”.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 90–83 struck out provision covering the compensation to b
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period that begins on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Housing and Urban Development, see section 529\[title I, §112(e)(1), (2)(D)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period that begins on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Housing and Urban Development, see section 529 \[title I, §112(e)(1), (2)(D)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 #### Effective Date; Interim Appointments
 

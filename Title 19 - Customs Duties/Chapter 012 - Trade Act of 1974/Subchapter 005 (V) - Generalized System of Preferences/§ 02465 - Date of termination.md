@@ -1,14 +1,16 @@
 ### §2465. Date of termination
 
-No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2008.
+No duty-free treatment provided under this subchapter shall remain in effect after December 31, 2009.
 
-(Pub. L. 93–618, title V, §505, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1925; amended Pub. L. 105–34, title IX, §981(a), Aug. 5, 1997, 111 Stat. 902; Pub. L. 105–277, div. J, title I, §1011(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–170, title V, §508(a), Dec. 17, 1999, 113 Stat. 1923; Pub. L. 107–210, div. D, title XLI, §4101(a), Aug. 6, 2002, 116 Stat. 1040; Pub. L. 109–432, div. D, title VIII, §8002, Dec. 20, 2006, 120 Stat. 3195.)
+(Pub. L. 93–618, title V, §505, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1925; amended Pub. L. 105–34, title IX, §981(a), Aug. 5, 1997, 111 Stat. 902; Pub. L. 105–277, div. J, title I, §1011(a), Oct. 21, 1998, 112 Stat. 2681–900; Pub. L. 106–170, title V, §508(a), Dec. 17, 1999, 113 Stat. 1923; Pub. L. 107–210, div. D, title XLI, §4101(a), Aug. 6, 2002, 116 Stat. 1040; Pub. L. 109–432, div. D, title VIII, §8002, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 110–436, §4, Oct. 16, 2008, 122 Stat. 4981.)
 
 #### Prior Provisions
 
 A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 98–573, title V, §506(a), Oct. 30, 1984, 98 Stat. 3023; Pub. L. 103–66, title XIII, §13802(b)(1), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–465, title VI, §601(a), Dec. 8, 1994, 108 Stat. 4990, related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+2008—Pub. L. 110–436 substituted “December 31, 2009” for “December 31, 2008”.
 
 2006—Pub. L. 109–432 substituted “December 31, 2008” for “December 31, 2006”.
 
@@ -72,7 +74,7 @@ Retroactive application for certain liquidations and reliquidations.—
 
 &emsp;“(A)
 
-General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any otherprovision of law, and subject to paragraph (3), any entry—
+General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (3), any entry—
 
 &emsp;&emsp;“(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and
 

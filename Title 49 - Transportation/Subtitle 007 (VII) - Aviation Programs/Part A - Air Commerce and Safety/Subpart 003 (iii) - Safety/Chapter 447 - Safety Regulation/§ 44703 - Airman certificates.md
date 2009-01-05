@@ -144,7 +144,7 @@ Requirement to maintain records.—The Administrator and air carriers shall main
 
 &emsp;(5)
 
-Receipt of consent; provision of information.—A person shall not furnish a record inresponse to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
+Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
 
 &emsp;(6)
 
@@ -214,7 +214,7 @@ Special rules with respect to certain pilots.—
 
 &emsp;&emsp;(A)
 
-Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
+Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that isnot a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
 
 &emsp;&emsp;(B)
 

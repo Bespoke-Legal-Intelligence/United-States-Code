@@ -50,5 +50,5 @@ The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act Jun
 
 A prior section 652, added Pub. L. 95–485, title IV, §405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
 
-Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, §542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, §541(c).
+Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, §542, Nov. 30,1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, §541(c).
 

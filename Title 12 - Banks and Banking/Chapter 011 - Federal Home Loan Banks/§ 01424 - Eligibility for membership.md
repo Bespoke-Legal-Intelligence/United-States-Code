@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, savings bank, or any insured depository institution (as defined in section 1422 of this title), shall be eligible to become a member of a Federal Home Loan Bank if such institution—
+&emsp;Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, savings bank, community development financial institution, or any insured depository institution (as defined in section 1422 of this title), shall be eligible to become a member of a Federal Home Loan Bank if such institution—
 
 &emsp;&emsp;(A) is duly organized under the laws of any State or of the United States;
 
-&emsp;&emsp;(B) is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States; and
+&emsp;&emsp;(B) is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994 \[12 U.S.C. 4701 et seq.\].; <sup>1</sup> and
 
-&emsp;&emsp;(C) makes such home mortgage loans as, in the judgment of the Board, are long-term loans (except that in the case of a savings bank, this subparagraph applies only if, in the judgment of the Board, its time deposits, as defined in section 461 of this title, warrant its making such loans).
+&emsp;&emsp;(C) makes such home mortgage loans as, in the judgment of the Director, are long-term loans (except that in the case of a savings bank, this subparagraph applies only if, in the judgment of the Director, its time deposits, as defined in section 461 of this title, warrant its making such loans).
 
 #### (2) Qualified thrift lender
 
@@ -24,7 +24,7 @@
 
 #### (3) Certain institutions
 
-&emsp;An insured depository institution commencing its initial business operations after January 1, 1989, may become a member of a Federal Home Loan Bank if it complies with regulations and orders prescribed by the Board for the 10 percent asset requirement (described in the <sup>1</sup> paragraph (2)) within one year after the commencement of its operations.
+&emsp;An insured depository institution commencing its initial business operations after January 1, 1989, may become a member of a Federal Home Loan Bank if it complies with regulations and orders prescribed by the Director for the 10 percent asset requirement (described in the <sup>2</sup> paragraph (2)) within one year after the commencement of its operations.
 
 #### (4) Limited exemption for community financial institutions
 
@@ -32,19 +32,27 @@
 
 #### (b) Location requirement
 
-An institution eligible to become a member under this section may become a member only of, or secure advances from, the Federal Home Loan Bank of the district in which is located the institution's principal place of business, or of the bank of a district adjoining such district, if demanded by convenience and then only with the approval of the Board.
+An institution eligible to become a member under this section may become a member only of, or secure advances from, the Federal Home Loan Bank of the district in which is located the institution's principal place of business, or of the bank of a district adjoining such district, if demanded by convenience and then only with the approval of the Director.
 
 #### (c) Inspection and regulation requirements
 
-Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal Home Loan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Board shall prescribe, be eligible to become a member.
+Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal HomeLoan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Director shall prescribe, be eligible to become a member.
 
-(July 22, 1932, ch. 522, §4, 47 Stat. 726; June 13, 1933, ch. 64, §3, 48 Stat. 129; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, §605, Nov. 12, 1999, 113 Stat. 1452.)
+(July 22, 1932, ch. 522, §4, 47 Stat. 726; June 13, 1933, ch. 64, §3, 48 Stat. 129; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, §605, Nov. 12, 1999, 113 Stat. 1452; Pub. L. 110–289, div. A, title II, §§1204(8), 1206, July 30, 2008, 122 Stat. 2786, 2787.)
 
 #### References in Text
+
+The Community Development Banking and Financial Institutions Act of 1994, referred to in subsec. (a)(1)(B), is subtitle A (§§101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, which is classified principally to subchapter I (§4701 et seq.) of chapter 47 of this title. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 Section 461 of this title, referred to in subsec. (a)(1)(C), was in the original “section 19 of the Federal Reserve Act”. Definition provisions of section 19 are classified to section 461 of this title. Other provisions of section 19 are classified to sections 142, 371a, 371b, 371b–1, 374, 374a, 463 to 466, 505, and 506 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–289, §1206(1), which directed insertion of “community development financial institution,” after “savings bank,”, was executed by making the insertion after “savings bank,” the first time appearing.
+
+Subsec. (a)(1)(B). Pub. L. 110–289, §1206(2), which directed insertion of “or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994.” after “United States,”, was executed by making the insertion after “United States” to reflect the probable intent of Congress.
+
+Subsecs. (a)(1)(C), (3), (b), (c). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” wherever appearing.
 
 1999—Subsec. (a)(2) to (4). Pub. L. 106–102 inserted “(other than a community financial institution)” after “institution” in par. (2)(A), designated concluding provisions of par. (2) as par. (3), inserted heading and substituted “paragraph (2)” for “preceding sentence”, and added par. (4).
 
@@ -58,5 +66,7 @@ Subsec. (c). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for 
 
 1933—Subsec. (d). Act June 13, 1933, struck out subsec. (d) which provided for direct loans to homeowners. See chapter 12 (§1461 et seq.) of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

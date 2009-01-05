@@ -78,7 +78,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (i) Amount
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out subsection (b) of this section with respect to subsection (a)(1)(D) of this section not to exceed $25,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
+&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out subsection (b) of this sectionwith respect to subsection (a)(1)(D) of this section not to exceed $25,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
 
 #### (ii) Distribution of funds
 

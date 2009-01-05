@@ -38,7 +38,7 @@ Applications for grants under this section shall be submitted to the Secretary i
 
 #### (d) Funding for services
 
-The Secretary may not make a grant under this section for conversion activities unless theapplication contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.
+The Secretary may not make a grant under this section for conversion activities unless the application contains sufficient evidence, in the determination of the Secretary, of firm commitments for the funding of services to be provided in the assisted living facility, which may be provided by third parties.
 
 #### (e) Selection criteria
 

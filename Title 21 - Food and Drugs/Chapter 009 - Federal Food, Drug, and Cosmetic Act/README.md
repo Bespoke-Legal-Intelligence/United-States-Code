@@ -260,6 +260,16 @@ I74subpart 1—freedom of information fees
 | :--- | ---: |
 | 379j–11. | Definitions. |
 | 379j–12. | Authority to assess and use animal drug fees. |
+| 379j–13. | Reauthorization; reporting requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 5—fees relating to generic new animal drugs
+
+|  |  |
+| :--- | ---: |
+| 379j–21. | Authority to assess and use generic new animal drug fees. |
+| 379j–22. | Reauthorization; reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

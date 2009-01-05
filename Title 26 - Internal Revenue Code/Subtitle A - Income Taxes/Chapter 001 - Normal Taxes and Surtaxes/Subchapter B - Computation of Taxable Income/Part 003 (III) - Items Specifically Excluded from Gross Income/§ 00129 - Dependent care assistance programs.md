@@ -80,7 +80,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (A) In general
 
-&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided toemployees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
+&emsp;&emsp;A plan meets the requirements of this paragraph if the average benefits provided to employees who are not highly compensated employees under all plans of the employer is at least 55 percent of the average benefits provided to highly compensated employees under all plans of the employer.
 
 #### (B) Salary reduction agreements
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A),title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I,§101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Codification
 
@@ -226,7 +226,7 @@ Subsec. (d)(1). Pub. L. 99–514, §1151(c)(5)(A), added par. (1) and struck out
 
 Subsec. (d)(2). Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, owners, or highly compensated,”.
 
-Subsec. (d)(3). Pub. L. 99–514, §1151(g)(4), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
+Subsec. (d)(3). Pub. L. 99–514, §1151(g)(4), substituted “For purposes of this paragraph, there may be excludedfrom consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
 
 Subsec. (d)(6), (7). Pub. L. 99–514, §1151(c)(5)(B), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1981, see section 124(f) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1981, see section 124(f) of Pub. L. 97–34, set outas an Effective Date of 1981 Amendment note under section 21 of this title.
 
 #### Regulations
 

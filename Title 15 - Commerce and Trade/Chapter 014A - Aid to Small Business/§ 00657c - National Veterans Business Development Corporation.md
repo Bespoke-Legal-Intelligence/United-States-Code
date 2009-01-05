@@ -118,15 +118,11 @@ In carrying out the purpose described in subsection (b) of this section, the Cor
 
 On or before October 1 of each year, the Board of Directors shall transmit a report to the President and the Congress describing the activities and accomplishments of the Corporation for the preceding year and the Corporation's findings regarding the efforts of Federal, State and private organizations to assist veterans in the formation and expansion of small business concerns.
 
-#### (h) Assumption of duties of advisory committee
-
-On October 1, 2006, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.<sup>1</sup>
-
-#### (i) Use of mails
+#### (h) Use of mails
 
 The Corporation may use the United States mails in the same manner and under the same conditions as the departments and agencies of the United States.
 
-#### (j) Professional Certification Advisory Board
+#### (i) Professional Certification Advisory Board
 
 #### (1) In general
 
@@ -150,7 +146,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;&emsp;&emsp;(iii) seek the participation and guidance of the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
-#### (k) Authorization of appropriations
+#### (j) Authorization of appropriations
 
 #### (1) In general
 
@@ -178,17 +174,15 @@ The Corporation may use the United States mails in the same manner and under the
 
 &emsp;The Corporation shall institute and implement a plan to raise private funds and become a self-sustaining corporation.
 
-(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236; amended Pub. L. 106–554, §1(a)(9) \[title VIII, §808\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706; Pub. L. 108–447, div. B, title VI, §636, div. K, title I, §§143(a), 146, Dec. 8, 2004, 118 Stat. 2922, 3455.)
-
-#### References in Text
-
-Section 203 of this Act, referred to in subsec. (h), probably means section 203 of Pub. L. 106–50, title II, Aug. 17, 1999, 113 Stat. 239, which is set out as a note under section 657b of this title.
+(Pub. L. 85–536, §2\[33\], as added Pub. L. 106–50, title II, §202(a), Aug. 17, 1999, 113 Stat. 236; amended Pub. L. 106–554, §1(a)(9) \[title VIII, §808\], Dec. 21, 2000, 114 Stat. 2763, 2763A–706; Pub. L. 108–447, div. B, title VI, §636, div. K, title I, §§143(a), 146, Dec. 8, 2004, 118 Stat. 2922, 3455; Pub. L. 110–186, title I, §103(a), Feb. 14, 2008, 122 Stat. 625.)
 
 #### Codification
 
 August 17, 1999, referred to in subsec. (c)(4), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–50, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsecs. (h) to (k). Pub. L. 110–186 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h). Text read as follows: “On October 1, 2006, the Corporation established under this section shall assume the duties, responsibilities, and authority of the Advisory Committee on Veterans Affairs established under section 203 of this Act.”
 
 2004—Subsec. (a). Pub. L. 108–447, §§146 and 636, amended subsec. (a) identically, inserting at end “Notwithstanding any other provision of law, the Corporation is a private entity and is not an agency, instrumentality, authority, entity, or establishment of the United States Government.”
 
@@ -215,6 +209,4 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 #### General Accounting Office Report
 
 Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation were appointed under subsec. (c) of this section, the Comptroller General of the United States was to evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under subsec. (b) of this section, and submit to Congress a report on the results of that evaluation.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

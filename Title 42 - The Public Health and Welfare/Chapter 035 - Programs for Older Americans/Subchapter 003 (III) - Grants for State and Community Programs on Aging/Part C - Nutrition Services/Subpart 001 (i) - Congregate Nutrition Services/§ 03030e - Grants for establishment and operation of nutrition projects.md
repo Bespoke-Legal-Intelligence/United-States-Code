@@ -2,7 +2,7 @@
 
 The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the establishment and operation of nutrition projects that—
 
-&emsp;(1) 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one hot orother appropriate meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide;
+&emsp;(1) 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one hot or other appropriate meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide;
 
 &emsp;(2) shall be provided in congregate settings, including adult day care facilities and multigenerational meal sites; and
 
@@ -24,7 +24,7 @@ Par. (3). Pub. L. 109–365, §313(4), added par. (3) and struck out former par.
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in introductory provisions and par. (1).
 
-1992—Par. (1). Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before semicolon at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
+1992—Par. (1). Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesserfrequency is approved by the State agency)” after “week” and struck out before semicolon at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
 
 #### Effective Date
 

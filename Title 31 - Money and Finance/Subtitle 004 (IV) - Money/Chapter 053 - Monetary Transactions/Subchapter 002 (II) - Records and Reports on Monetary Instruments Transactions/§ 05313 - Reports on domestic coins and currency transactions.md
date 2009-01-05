@@ -90,7 +90,7 @@ Provisions Applicable to Mandatory and Discretionary Exemptions.—
 
 &emsp;(1)
 
-Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
+Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect toa transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
 
 &emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect to the transaction or the customer engaging in the transaction; or
 
@@ -196,7 +196,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;&emsp;“(A) the possible expansion of the statutory exemption system in effect under section 5313 of title 31, United States Code; and
 
-&emsp;&emsp;“(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
+&emsp;&emsp;“(B) methods for improving financial institution utilization of the statutory exemption provisions asa way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
 
 &emsp;“(2)
 
@@ -220,7 +220,7 @@ Interim report.—The Secretary of the Treasury shall submit a report to the Con
 
 &emsp;“(3)
 
-Annual report.—The Secretary of the Treasury shall submit an annual report to the Congressafter the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to section 5313(a) of title 31, United States Code, consistent with the purposes of such section and effective law enforcement.
+Annual report.—The Secretary of the Treasury shall submit an annual report to the Congress after the end of each of the first 5 calendar years which begin after the date of enactment of this Act on the extent to which the Secretary has reduced the overall number of currency transaction reports filed with the Secretary pursuant to section 5313(a) of title 31, United States Code, consistent with the purposes of such section and effective law enforcement.
 
 “(c)
 

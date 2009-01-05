@@ -64,7 +64,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(II) An individual who willfully and knowingly causes another individual to certify under clause (i) a material and false statement in a resident assessment is subject to a civil money penalty of not more than $5,000 with respect to each assessment.
 
-&emsp;&emsp;&emsp;(III) The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this clause in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;&emsp;(III) The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this clause in the same manner assuch provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (iii) Use of independent assessors
 
@@ -98,7 +98,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (A) In general
 
-&emsp;&emsp;To the extent needed to fulfill all plans of care described in paragraph (2), a skillednursing facility must provide, directly or under arrangements (or, with respect to dental services, under agreements) with others for the provision of—
+&emsp;&emsp;To the extent needed to fulfill all plans of care described in paragraph (2), a skilled nursing facility must provide, directly or under arrangements (or, with respect to dental services, under agreements) with others for the provision of—
 
 &emsp;&emsp;&emsp;(i) nursing services and specialized rehabilitative services to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident;
 
@@ -160,7 +160,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Competency
 
-&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a trainingand competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information concerning the individual.
+&emsp;&emsp;The skilled nursing facility must not permit an individual, other than in a training and competency evaluation program approved by the State, to serve as a nurse aide or provide services of a type for which the individual has not demonstrated competency and must not use such an individual as a nurse aide unless the facility has inquired of any State registry established under subsection (e)(2)(A) of this section that the facility believes will include information concerning the individual.
 
 #### (D) Re-training required
 
@@ -278,7 +278,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
 
-> &emsp;&emsp;The written description of legal rights under this subparagraph shall include a description of the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
+> &emsp;&emsp;The written description of legal rights under this subparagraph shall include a descriptionof the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
 
 #### (C) Rights of incompetent residents
 
@@ -382,7 +382,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (i) No preemption of stricter standards
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discriminationagainst individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
+&emsp;&emsp;&emsp;Subparagraph (A) shall not be construed as preventing States or political subdivisions therein from prohibiting, under State or local law, the discrimination against individuals who are entitled to medical assistance under this subchapter with respect to admissions practices of skilled nursing facilities.
 
 #### (ii) Contracts with legal representatives
 
@@ -460,7 +460,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(i) the Secretary may waive, for such periods as he deems appropriate, specific provisions of such Code which if rigidly applied would result in unreasonable hardship upon a facility, but only if such waiver would not adversely affect the health and safety of residents or personnel, and
 
-&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary finds that in such State there is in effect a fire and safety code, imposed by State law,which adequately protects residents of and personnel in skilled nursing facilities.
+&emsp;&emsp;&emsp;(ii) the provisions of such Code shall not apply in any State if the Secretary finds that in such State there is in effect a fire and safety code, imposed by State law, which adequately protects residents of and personnel in skilled nursing facilities.
 
 #### (3) Sanitary and infection control and physical environment
 
@@ -502,7 +502,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (B) Information in registry
 
-&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listed in the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
+&emsp;&emsp;The registry under subparagraph (A) shall provide (in accordance with regulations of the Secretary) for the inclusion of specific documented findings by a State under subsection (g)(1)(C) of this section of resident neglect or abuse or misappropriation of resident property involving an individual listedin the registry, as well as any brief statement of the individual disputing the findings, but shall not include any allegations of resident abuse or neglect or misappropriation of resident property that are not specifically documented by the State under such subsection. The State shall make available to the public information in the registry. In the case of inquiries to the registry concerning an individual listed in the registry, any information disclosed concerning such a finding shall also include disclosure of any such statement in the registry relating to the finding or a clear and accurate summary of such a statement.
 
 #### (C) Prohibition against charges
 
@@ -522,7 +522,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B) of this section, or
 
-&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, commondefinitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A) of this section.
+&emsp;&emsp;(B) an instrument which the Secretary has approved as being consistent with the minimum data set of core elements, common definitions, and utilization guidelines specified by the Secretary under subsection (f)(6)(A) of this section.
 
 #### (f) Responsibilities of Secretary relating to skilled nursing facility requirements
 
@@ -548,7 +548,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;&emsp;(II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>4</sup> basis during the period in which the nurse aide is so employed.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata <sup>4</sup> basisduring the period in which the nurse aide is so employed.
 
 #### (B) Approval of certain programs
 
@@ -670,7 +670,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the Statehas taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
@@ -806,7 +806,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (1) In general
 
-&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) of this section or otherwise, that a skilled nursing facility no longer meets a requirement of subsection (b), (c), or (d) of this section, and further finds that the facility's deficiencies—
+&emsp;If a State finds, on the basis of a standard, extended, or partial extended survey under subsection (g)(2) of this section or otherwise, that a skilled nursing facility no longer meetsa requirement of subsection (b), (c), or (d) of this section, and further finds that the facility's deficiencies—
 
 &emsp;&emsp;(A) immediately jeopardize the health or safety of its residents, the State shall recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(i); or
 
@@ -858,7 +858,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;&emsp;(ii) the State has submitted a plan and timetable for corrective action to the Secretary for approval and the Secretary approves the plan of corrective action, and
 
-&emsp;&emsp;&emsp;(iii) the facility agrees to repay to the Federal Government payments received under this subparagraph if the corrective action is not taken in accordance with the approved plan and timetable.
+&emsp;&emsp;&emsp;(iii) the facility agrees to repay to the Federal Government payments received under this subparagraph if the correctiveaction is not taken in accordance with the approved plan and timetable.
 
 > &emsp;&emsp;The Secretary shall establish guidelines for approval of corrective actions requested by States under this subparagraph.
 
@@ -1104,7 +1104,7 @@ Section 4432(d) of Pub. L. 105–33 provided that: “The amendments made by thi
 
 #### Effective Date of 1994 Amendment
 
-Section 106(c)(1)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
+Section 106(c)(1)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
 Section 106(c)(2)(B) of Pub. L. 103–432 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of OBRA–1987 \[Pub. L. 100–203\].”
 
@@ -1150,7 +1150,7 @@ Section 6901(b)(6) of Pub. L. 101–239 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396b and 1396r of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and sections 1396b and 1396r of this title\] shall take effect as if they were included inthe enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].
 
 “(B)
 
@@ -1276,7 +1276,7 @@ Section 6901(b)(2) of Pub. L. 101–239 provided that: “The Secretary of Healt
 
 Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
-“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation programapproved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 

@@ -28,7 +28,7 @@
 
 &emsp;(A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim;
 
-&emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the three-year period, or such longer period as the court may approve under section 1222(c), beginning on the date that the first payment is due under the plan will be applied to make payments under the plan; or
+&emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the three-year period, or such longer period asthe court may approve under section 1222(c), beginning on the date that the first payment is due under the plan will be applied to make payments under the plan; or
 
 &emsp;(C) the value of the property to be distributed under the plan in the 3-year period, or such longer period as the court may approve under section 1222(c), beginning on the date that the first distribution is due under the plan is not less than the debtor's projected disposable income for such period.
 

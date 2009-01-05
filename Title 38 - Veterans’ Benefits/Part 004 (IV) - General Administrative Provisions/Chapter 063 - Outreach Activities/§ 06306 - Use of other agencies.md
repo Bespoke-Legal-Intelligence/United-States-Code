@@ -2,7 +2,7 @@
 
 (a) In carrying out this chapter, the Secretary shall arrange with the Secretary of Labor for the State employment service to match the particular qualifications of an eligible veteran or eligible dependent with an appropriate job or job training opportunity, including, where possible, arrangements for outstationing the State employment personnel who provide such assistance at appropriate facilities of the Department.
 
-(b) In carrying out this chapter, the Secretary shall, in consultation with the Secretary ofLabor, actively seek to promote the development and establishment of employment opportunities, training opportunities, and other opportunities for veterans, with particular emphasis on the needs of veterans with service-connected disabilities and other eligible veterans, taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
+(b) In carrying out this chapter, the Secretary shall, in consultation with the Secretary of Labor, actively seek to promote the development and establishment of employment opportunities, training opportunities, and other opportunities for veterans, with particular emphasis on the needs of veterans with service-connected disabilities and other eligible veterans, taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
 
 (c) In carrying out this chapter, the Secretary shall cooperate with and use the services of any Federal department or agency or any State or local governmental agency or recognized national or other organization.
 

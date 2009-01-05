@@ -38,7 +38,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) take, import, purchase, offer to purchase, possess, or transport the marine mammal that is the subject of the permit; and
 
-&emsp;(ii) sell, export, or otherwise transfer possession of the marine mammal, or offer to sell,export, or otherwise transfer possession of the marine mammal—
+&emsp;(ii) sell, export, or otherwise transfer possession of the marine mammal, or offer to sell, export, or otherwise transfer possession of the marine mammal—
 
 &emsp;&emsp;(I) for the purpose of public display, to a person that meets the requirements of clauses (i), (ii), and (iii) of subparagraph (A);
 
@@ -64,7 +64,7 @@ Any permit issued under this section shall—
 
 (E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary may only require the notification to include the information required for the inventory established under paragraph (10).
 
-(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
+(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permitapplication information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
@@ -86,7 +86,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) taking or importation is likely to contribute significantly to maintaining or increasing distribution or numbers necessary to ensure the survival or recovery of the species or stock; and
 
-&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survivalor recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
+&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
 
 (B) A permit issued in accordance with this paragraph may allow the captive maintenance of a marine mammal from a depleted species or stock only if the Secretary—
 
@@ -110,7 +110,7 @@ Any permit issued under this section shall—
 
 (B) The Secretary shall establish and charge a reasonable fee for permits issued under this paragraph. All fees collected under this paragraph shall be available to the Secretary until expended for use in developing and implementing cooperative research and management programs for the conservation of polar bears in Alaska and Russia pursuant to section 1383(d) of this title.
 
-(C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years after April 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response to such public comment in the final report on such review.
+(C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years afterApril 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response to such public comment in the final report on such review.
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
@@ -168,7 +168,7 @@ Any permit issued under this section shall—
 
 (1) The Secretary shall prescribe such procedures as are necessary to carry out this section, including the form and manner in which application for permits may be made.
 
-(2) The Secretary shall publish notice in the Federal Register of each application made for a permit under this section. Such notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data or views, with respect to the taking or importation proposed in such application.
+(2) The Secretary shall publish notice in the Federal Register of each application made for apermit under this section. Such notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data or views, with respect to the taking or importation proposed in such application.
 
 (3) The applicant for any permit under this section must demonstrate to the Secretary that the taking or importation of any marine mammal under such permit will be consistent with the purposes of this chapter and the applicable regulations established under section 1373 of this title.
 
@@ -188,7 +188,7 @@ Any permit issued under this section shall—
 
 &emsp;(C) if, in the case of a permit under subsection (c)(5) of this section authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada's polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
 
-(2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shallbe afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
+(2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
 
 (3) Notice of the modification, suspension, or revocation of any permit by the Secretary shall be published in the Federal Register within ten days from the date of the Secretary's decision.
 
@@ -218,7 +218,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 #### References in Text
 
-7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal Welfare Act, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
+7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal WelfareAct, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 #### Amendments
 

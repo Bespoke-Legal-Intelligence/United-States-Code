@@ -32,6 +32,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
 
+&emsp;(G) Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.
+
 (2) There shall be credited to the Department of Defense Military Unaccompanied Housing Improvement Fund the following:
 
 &emsp;(A) Amounts authorized for and appropriated to that Fund.
@@ -45,6 +47,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 &emsp;(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
 
 &emsp;(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
+
+&emsp;(G) Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.
 
 (d)
 
@@ -62,11 +66,17 @@ Limitation on Obligations.—(1) The Secretary may not incur an obligation under
 
 (f)
 
-Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under paragraph (1)(B) or (2)(B) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title.
+Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title. In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, §1031(a)(51), div. B, title XXVIII, §2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721; Pub. L. 108–375, div. B, title XXVIII, §2805(a), Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(a), (b), Jan. 6, 2006, 119 Stat. 3507.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, §1031(a)(51), div. B, title XXVIII, §2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721; Pub. L. 108–375, div. B, title XXVIII, §2805(a), Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(a), (b), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–181, div. B, title XXVII, §2705, Jan. 28, 2008, 122 Stat. 533.)
 
 #### Amendments
+
+2008—Subsec. (c)(1)(G). Pub. L. 110–181, §2705(a)(1), added subpar. (G).
+
+Subsec. (c)(2)(G). Pub. L. 110–181, §2705(a)(2), added subpar. (G).
+
+Subsec. (f). Pub. L. 110–181, §2705(b), substituted “subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2)” for “paragraph (1)(B) or (2)(B)” and inserted at end “In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.”
 
 2006—Subsec. (c)(1)(B). Pub. L. 109–163, §2806(b), substituted “acquisition, improvement, or construction” for “acquisition or construction”.
 

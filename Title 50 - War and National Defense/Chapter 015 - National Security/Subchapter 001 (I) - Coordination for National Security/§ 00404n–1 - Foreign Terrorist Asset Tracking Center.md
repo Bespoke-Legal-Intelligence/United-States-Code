@@ -20,7 +20,7 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence shall establish within the Central Intelligence Agency” for “Director of Central Intelligence, acting as the head of the intelligence community, shall establish in the Central Intelligence Agency”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence shall establish within the Central Intelligence Agency” for “Director of Central Intelligence, acting as the head of the intelligence community, shall establish in the Central Intelligence Agency”.
 
 #### Effective Date of 2004 Amendment
 

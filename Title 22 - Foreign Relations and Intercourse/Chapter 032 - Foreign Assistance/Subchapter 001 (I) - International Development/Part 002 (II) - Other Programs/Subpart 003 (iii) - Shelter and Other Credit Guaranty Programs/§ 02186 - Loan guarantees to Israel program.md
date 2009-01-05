@@ -24,7 +24,7 @@ Guarantees may be issued under this section only to support activities in the ge
 
 #### (d) Limitation on guarantee amount
 
-The amount of authorized but unissued guarantees that the President is authorized to issue as specified in subsection (b) of this section shall be reduced by an amount equal to the amountextended or estimated to have been extended by the Government of Israel during the previous year for activities which the President determines are inconsistent with the objectives of this section or understandings reached between the United States Government and the Government of Israel regarding the implementation of the loan program. The President shall submit a report to Congress no later than September 30 of each fiscal year during the pendency of the program specifying the amount calculated under this subsection and that will be deducted from the amount of guarantees authorized to be issued in the next fiscal year.
+The amount of authorized but unissued guarantees that the President is authorized to issue as specified in subsection (b) of this section shall be reduced by an amount equal to the amount extended or estimated to have been extended by the Government of Israel during the previous year for activities which the President determines are inconsistent with the objectives of this section or understandings reached between the United States Government and the Government of Israel regarding the implementation of the loan program. The President shall submit a report to Congress no later than September 30 of each fiscal year during the pendency of the program specifying the amount calculated under this subsection and that will be deducted from the amount of guarantees authorized to be issued in the next fiscal year.
 
 #### (e) Fees
 
@@ -52,7 +52,7 @@ Any suspension or termination pursuant to subsection (f) of this section shall b
 
 #### (h) Economic context
 
-The effective absorption of immigrants into Israel from the republics of the former Soviet Union and Ethiopia within the private sector requires large investment and economic restructuring to promote market efficiency and thereby contribute to productive employment and sustainable growth. Congress recognizes that the Government of Israel is developing an economic strategy designed to achieve these goals, and that the Government of Israel intends to adopt a comprehensive, multi-year economic strategy based on prudent macroeconomic policies and structural reforms. Congress also recognizes that these policies are being designed to reduce direct involvement of the government in the economic system and to promote private enterprise, important prerequisites for economic stability and sustainable growth.
+The effective absorption of immigrants into Israel from the republics of the former Soviet Union and Ethiopia within the private sector requires large investment and economic restructuring to promote market efficiency and thereby contribute to productive employment and sustainable growth. Congress recognizes thatthe Government of Israel is developing an economic strategy designed to achieve these goals, and that the Government of Israel intends to adopt a comprehensive, multi-year economic strategy based on prudent macroeconomic policies and structural reforms. Congress also recognizes that these policies are being designed to reduce direct involvement of the government in the economic system and to promote private enterprise, important prerequisites for economic stability and sustainable growth.
 
 #### (i) Consultations
 
@@ -60,7 +60,7 @@ It is the sense of the Congress that, as agreed between the two Governments and 
 
 #### (j) Goods and services
 
-During the pendency of the loan program authorized under this section, it is anticipated that, in the context of the economic reforms undertaken pursuant to subsections (h) and (i) of this section, Israel's increased population due to its absorption of immigrants, and the liberalization by the Government of Israel of its tradepolicy with the United States, the amount of United States investment goods and services purchased for use in or with respect to the country of Israel will substantially increase.
+During the pendency of the loan program authorized under this section, it is anticipated that, in the context of the economic reforms undertaken pursuant to subsections (h) and (i) of this section, Israel's increased population due to its absorption of immigrants, and the liberalization by the Government of Israel of its trade policy with the United States, the amount of United States investment goods and services purchased for use in or with respect to the country of Israel will substantially increase.
 
 #### (k) Reports
 
@@ -91,4 +91,8 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### subpart iv—overseas private investment corporation
+
+<i><sup>1</sup></i><i> So in original. Probably should be “issued”.</i>
 

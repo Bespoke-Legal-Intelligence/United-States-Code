@@ -28,7 +28,7 @@ As used in this chapter:
 
 (3) The term “commerce” means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
-(4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the saleof, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
+(4) The terms “distribute in commerce” and “distribution in commerce” when used to describe an action taken with respect to a chemical substance or mixture or article containing a substance or mixture mean to sell, or the sale of, the substance, mixture, or article in commerce; to introduce or deliver for introduction into commerce, or the introduction or delivery for introduction into commerce of, the substance, mixture, or article; or to hold, or the holding of, the substance, mixture, or article after its introduction into commerce.
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
@@ -66,7 +66,7 @@ As used in this chapter:
 
 &emsp;&emsp;(iii) such other requirements as are necessary to provide such assurance.
 
-(13) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa, the Northern Mariana Islands, or any other territory or possession of the United States.
+(13) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, American Samoa,the Northern Mariana Islands, or any other territory or possession of the United States.
 
 (14) The term “United States”, when used in the geographic sense, means all of the States.
 

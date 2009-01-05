@@ -14,15 +14,15 @@ None of the funds made available by this or any other Act or by any subsequent A
 
 The Interior Department Appropriations Act 1945, referred to in text, is act June 28, 1944, ch. 298, 58 Stat. 463, which is not classified to the Code. The heading “Operation and maintenance administration” appears at 58 Stat. 487 following the heading “Bureau of Reclamation” which appears at 58 Stat. 486.
 
-Act of August 21, 1935, referred to in text, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, popularly known as the Historic Sites, Buildings and Antiquities Act, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
+Act of August 21, 1935, referred to in text, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, popularly known as the Historic Sites, Buildings and Antiquities Act, which is classified generally to sections 461 to 467 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 16 and Tables.
 
-Act of June 27, 1960, referred to in text, is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act to the Code, see Tables.
+Act of June 27, 1960, referred to in text, is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, which enacted sections 469 to 469c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 1945, ch. 80, 59 Stat. 54, which amendedsection 377 of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 1945, ch. 80, 59 Stat. 54, which amended section 377 of this title. For complete classification of this Act to the Code, see Tables.
 
 The date of this Act, referred to in text, probably means the date of enactment of Pub. L. 102–377, which enacted this section, and which was approved Oct. 2, 1992.
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

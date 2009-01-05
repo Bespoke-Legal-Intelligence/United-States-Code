@@ -50,7 +50,7 @@ Considerations.—The Secretary shall consider addressing the following matters 
 
 (d)
 
-Submission to Congressional Committees.—(1) The Secretary shall submit a report on each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
+Submission to Congressional Committees.—(1) The Secretary shall submit a report on each quadrennial quality of life review to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
 
 &emsp;(A) The assumptions used in the review.
 

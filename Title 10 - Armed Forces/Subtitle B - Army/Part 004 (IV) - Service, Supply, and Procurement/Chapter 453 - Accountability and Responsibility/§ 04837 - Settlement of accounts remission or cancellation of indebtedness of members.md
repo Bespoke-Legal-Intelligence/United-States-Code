@@ -12,7 +12,7 @@ Retroactive Applicability to Certain Debts.—The authority in subsection (a) ma
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI,§683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 85–861, §33(a)(27), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(10), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §512(24)(A), (B), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 109–163, div. A, title VI, §683(a)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(a)(1), (2), (e)(1), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(A), Jan. 28, 2008, 122 Stat. 323.)
 
 Historical and Revision Notes<br>1956
 
@@ -92,11 +92,13 @@ The change \[in subsec. (f)\] reflects the opinion of the Assistant General Coun
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(a)(1). See 2006 Amendment note below.
+
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge.”
 
 Subsec. (a). Pub. L. 109–364, §673(e)(1), substituted “The Secretary of the Army” for “If the Secretary considers it to be in the best interest of the United States, the Secretary” and inserted “, but only if the Secretary considers such action to be in the best interest of the United States” before period at end.
 
-Pub. L. 109–364, §673(a)(1), which directed amendment of subsec. (a) by substituting “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Army” for “of a member” and all that follows through “on active duty”, was executed by making the substitution for “of a member of the Army on active duty, or a member of a reserve component of the Army in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”, thus making the substitution for “of a member” and all that follows through “on active duty” the second place it appeared, to reflect the probable intent of Congress.
+Pub. L. 109–364, §673(a)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Army” for “of a member of the Army on active duty, or a member of a reserve component of the Army in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
 
 Subsecs. (b) to (d). Pub. L. 109–364, §673(a)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary may exercise the authority in subsection (a) with respect to a member—
 
@@ -113,6 +115,10 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(a)(2), redesignated subsecs. (c) a
 1958—Subsec. (b). Pub. L. 85–861, §33(a)(27)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
 Subsec. (f). Pub. L. 85–861, §33(a)(27)(B), substituted “an officer” for “a commissioned officer” in two places.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(A) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 #### Termination Date of 2006 Amendment
 

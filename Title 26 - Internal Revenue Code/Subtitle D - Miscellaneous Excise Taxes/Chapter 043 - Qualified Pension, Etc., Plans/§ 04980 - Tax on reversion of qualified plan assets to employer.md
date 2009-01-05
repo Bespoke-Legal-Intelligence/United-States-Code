@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “employer reversion” shall not include—
 
-&emsp;&emsp;&emsp;(i) except as provided in regulations, any amount distributed to or on behalf of any employee (or his beneficiaries) if such amount could have been so distributed before termination of such plan without violating any provision of section 401, or
+&emsp;&emsp;&emsp;(i) except as provided in regulations, any amount distributed to or on behalf of any employee (or his beneficiaries) if such amount could have been so distributed before termination of such plan without violating any provision of section 401,
 
 &emsp;&emsp;&emsp;(ii) any distribution to the employer which is allowable under section 401(a)(2)—
 
@@ -40,7 +40,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a plan other than a multiemployer plan, by reason of mistake of fact, or
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of any plan, by reason of the failure of the plan to initially qualify or the failure of contributions to be deductible.
+&emsp;&emsp;&emsp;&emsp;(III) in the case of any plan, by reason of the failure of the plan to initially qualify or the failure of contributions to be deductible, or
+
+&emsp;&emsp;&emsp;(iii) any transfer described in section 420(f)(2)(B)(ii)(II).
 
 #### (3) Exception for employee stock ownership plans
 
@@ -194,7 +196,7 @@ For purposes of this section—
 
 #### (B) Treatment as employer contributions
 
-&emsp;&emsp;Any increase in benefits under paragraph (2)(B)(ii) or (3)(A), or any allocation of any amount (or income allocable thereto) to any account under paragraph (2)(C), shall be treated as an annual benefit or annual addition for purposes of section 415.
+&emsp;&emsp;Any increase in benefits under paragraph (2)(B)(ii) or (3)(A), or any allocation of anyamount (or income allocable thereto) to any account under paragraph (2)(C), shall be treated as an annual benefit or annual addition for purposes of section 415.
 
 #### (C) 10-year participation requirement
 
@@ -244,9 +246,11 @@ For purposes of this section—
 
 &emsp;This subsection shall not apply to an employer who, as of the termination date of the qualified plan, is in bankruptcy liquidation under chapter 7 of title 11 of the United States Code or in similar proceedings under State law.
 
-(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L.104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–280, title IX, §901(a)(2)(C), Aug. 17, 2006, 120 Stat. 1029.)
+(Added Pub. L. 99–514, title XI, §1132(a), Oct. 22, 1986, 100 Stat. 2478; amended Pub. L. 100–647, title I, §1011A(f)(1)–(3), (6), (7), title V, §5072(a), title VI, §6069(a), Nov. 10, 1988, 102 Stat. 3478, 3479, 3681, 3704; Pub. L. 101–508, title XII, §§12001, 12002(a), Nov. 5, 1990, 104 Stat. 1388–562; Pub. L. 104–188, title I, §1704(a), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–280, title IX, §901(a)(2)(C), Aug. 17, 2006, 120 Stat. 1029; Pub. L. 110–458, title I, §108(i)(3), Dec. 23, 2008, 122 Stat. 5110.)
 
 #### Amendments
+
+2008—Subsec. (c)(2)(B)(iii). Pub. L. 110–458 added cl. (iii).
 
 2006—Subsec. (c)(3)(A). Pub. L. 109–280 substituted “if the requirements of subparagraphs (B), (C), and (D) are met” for “if—
 
@@ -273,6 +277,10 @@ Pub. L. 100–647, §1011A(f)(7), inserted sentence at end relating to dividends
 Subsec. (c)(3)(F), (G). Pub. L. 100–647, §1011A(f)(6), added subpars. (F) and (G).
 
 Subsec. (c)(4). Pub. L. 100–647, §5072(a), added par. (4).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -340,7 +348,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;“(B)
 
-Election to have amendments apply.—A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State of Delaware in March, 1978, and became a parent corporation of the consolidated group on September 19,1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
+Election to have amendments apply.—A corporation may elect to have the amendments made by this section apply to any reversion after 1985 pursuant to a plan termination occurring before 1986 if such corporation was incorporated in the State of Delaware in March, 1978, and became a parent corporation of the consolidated group on September 19, 1978, pursuant to a merger agreement recorded in the State of Nevada on September 19, 1978.
 
 “(3)
 
@@ -384,7 +392,7 @@ Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided
 
 &emsp;“(B) the welfare benefit plan provides retiree health benefits, and
 
-&emsp;“(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are less than the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
+&emsp;“(C) the qualified pension plan has assets in excess of liabilities (determined on a termination basis) and the welfare benefit plan has assets which are lessthan the present value of the benefits to be provided under the plan (determined as of the time of termination of the pension plan).
 
 “(3) For purposes of the Internal Revenue Code of 1986, any transfer of assets to which paragraph (1) applies shall be treated as a reversion of such assets to the employer maintaining the plan which is includible in the gross income of such employer and subject to the tax imposed by section 4980 of such Code.”
 

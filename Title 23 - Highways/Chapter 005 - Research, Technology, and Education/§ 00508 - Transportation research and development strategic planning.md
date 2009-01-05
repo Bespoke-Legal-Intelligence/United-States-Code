@@ -106,7 +106,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) 18,000,000 crashes, 4,000,000 injuries, and 45,000 fatalities each year on the Nation's highways are intolerable and substantial research is required in order to develop safer technologies in their most useful and economic forms;
 
-&emsp;“(4) current research and development funding for surface transportation is insufficient to provide the United States with the technologies essential to providing its own advanced transportation systems in the future and, as a result, the United States is becoming increasingly dependent on foreign surface transportation technologies and equipment to meet its expanding surface transportation needs;
+&emsp;“(4) current research and development funding for surface transportation is insufficient to provide theUnited States with the technologies essential to providing its own advanced transportation systems in the future and, as a result, the United States is becoming increasingly dependent on foreign surface transportation technologies and equipment to meet its expanding surface transportation needs;
 
 &emsp;“(5) a more active, focused surface transportation research and development program involving cooperation among the Federal Government, United States based industry, and United States universities should be organized on a priority basis;
 
@@ -154,7 +154,7 @@ Cooperation with industry.—A primary component of the plan shall be cooperatio
 
 &emsp;“(6)
 
-Conformance with plan.—All surface transportation research and development within the Department of Transportation shall be included in theplan and shall be evaluated in accordance with the plan.
+Conformance with plan.—All surface transportation research and development within the Department of Transportation shall be included in the plan and shall be evaluated in accordance with the plan.
 
 &emsp;“(7)
 

@@ -8,7 +8,7 @@ When any land on the project is opened to homestead entry under the terms of the
 
 #### References in Text
 
-The Reclamation Act and Acts amendatory thereof or supplementary thereto, the reclamation law, and the “Reclamation Law”, referred to in text, probably mean act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto. See act June 5, 1920, ch. 235, 41 Stat. 913, under the heading “
+The Reclamation Act and Acts amendatory thereof or supplementary thereto, the reclamation law, and the“Reclamation Law”, referred to in text, probably mean act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto. See act June 5, 1920, ch. 235, 41 Stat. 913, under the heading “
 
 reclamation service”, and act Mar. 4, 1921, ch. 161, 41 Stat. 1402, under the heading “
 

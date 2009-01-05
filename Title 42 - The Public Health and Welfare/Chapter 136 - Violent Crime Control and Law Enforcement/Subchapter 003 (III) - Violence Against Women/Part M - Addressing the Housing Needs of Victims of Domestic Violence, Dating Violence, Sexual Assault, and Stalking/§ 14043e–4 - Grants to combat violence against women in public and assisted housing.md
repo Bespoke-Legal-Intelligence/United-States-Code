@@ -72,7 +72,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 #### (1) In general
 
-&emsp;A public housing agency, tribally designated housing entity, or assisted housing provider receiving funds under this section may request that an individual claiming relief under this section certify that the individual is a victim of domestic violence, dating violence, sexual assault, or stalking. The individual shall provide a copy of such certification to the publichousing agency, tribally designated housing entity, or assisted housing provider within a reasonable period of time after the agency or authority requests such certification.
+&emsp;A public housing agency, tribally designated housing entity, or assisted housing provider receiving funds under this section may request that an individual claiming relief under this section certify that the individual is a victim of domestic violence, dating violence, sexual assault, or stalking. The individual shall provide a copy of such certification to the public housing agency, tribally designated housing entity, or assisted housing provider within a reasonable period of time after the agency or authority requests such certification.
 
 #### (2) Contents
 

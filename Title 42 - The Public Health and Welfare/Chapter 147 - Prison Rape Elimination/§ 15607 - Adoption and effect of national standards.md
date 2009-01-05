@@ -16,7 +16,7 @@
 
 #### (4) Transmission to States
 
-&emsp;Within 90 days of publishing the final rule under paragraph (1), the Attorney Generalshall transmit the national standards adopted under such paragraph to the chief executive of each State, the head of the department of corrections of each State, and to the appropriate authorities in those units of local government who oversee operations in one or more prisons.
+&emsp;Within 90 days of publishing the final rule under paragraph (1), the Attorney General shall transmit the national standards adopted under such paragraph to the chief executive of each State, the head of the department of corrections of each State, and to the appropriate authorities in those units of local government who oversee operations in one or more prisons.
 
 #### (b) Applicability to Federal Bureau of Prisons
 
@@ -44,7 +44,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 &emsp;&emsp;(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
 
-&emsp;&emsp;(B) an assurance that not less than 5 percent of such amount shall be used only for the purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.
+&emsp;&emsp;(B) an assurance that not less than 5 percent of such amount shall be used only forthe purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.
 
 #### (3) Report on noncompliance
 

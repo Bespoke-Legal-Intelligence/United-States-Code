@@ -30,6 +30,8 @@
 
 1968—Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212, added chapter 119 and items 2510 to 2520.
 
+<i><sup>1</sup></i><i> So in original. An additional closing parenthesis probably should precede the semicolon.</i>
+
 
 ---
 

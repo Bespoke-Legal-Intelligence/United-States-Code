@@ -40,9 +40,11 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded from the resources of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000;
 
-&emsp;(14) for the 9-month period beginning after the month in which received, any amount received by such individual (or spouse) or any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter as restitution for benefits under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter that a representative payee of such individual (or spouse) or such other person under section 405(j), 1007, or 1383(a)(2) of this title has misused; and
+&emsp;(14) for the 9-month period beginning after the month in which received, any amount received by such individual (or spouse) or any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter as restitution for benefits under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter that a representative payee of such individual (or spouse) or such other person under section 405(j), 1007, or 1383(a)(2) of this title has misused;
 
-&emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution.
+&emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution; and
+
+&emsp;(16) for the month of receipt and every month thereafter, any annuity paid by a State to the individual (or such spouse) on the basis of the individual's being a veteran (as defined in section 101 of title 38), and blind, disabled, or aged.
 
 > In determining the resources of an individual (or eligible spouse) an insurance policy shall be taken into account only to the extent of its cash surrender value; except that if the total face value of all life insurance policies on any person is $1,500 or less, no part of the value of any such policy shall be taken into account.
 
@@ -78,7 +80,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(II) no payment could under any circumstance be made to the individual,
 
-> then, for purposes of this subsection, the payment described in clause (I) or the foreclosure of payment described in clause (II) shall be considered a transfer of resources by the individual or the individual's spouse as of the date of the payment or foreclosure, as the case may be.
+> then, for purposes of this subsection, the payment described in clause (I) or the foreclosure ofpayment described in clause (II) shall be considered a transfer of resources by the individual or the individual's spouse as of the date of the payment or foreclosure, as the case may be.
 
 (C) An individual shall not be ineligible for benefits under this subchapter by reason of the application of this paragraph to a disposal of resources by the individual or the spouse of the individual, to the extent that—
 
@@ -128,7 +130,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(i) inform such individual of the provisions of paragraph (1) and section 1396p(c) of this title providing for a period of ineligibility for benefits under this subchapter and subchapter XIX of this chapter, respectively, for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to clause (ii) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in subparagraph (B)); and
 
-&emsp;(ii) obtain from such individual information which may be used in determining whether or not a period of ineligibility for such benefitswould be required by reason of paragraph (1) or section 1396p(c) of this title.
+&emsp;(ii) obtain from such individual information which may be used in determining whether or not a period of ineligibility for such benefits would be required by reason of paragraph (1) or section 1396p(c) of this title.
 
 (B) The Commissioner of Social Security shall make the information obtained under subparagraph (A)(ii) available, on request, to any State agency administering a State plan approved under subchapter XIX of this chapter.
 
@@ -136,7 +138,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (1) In determining the resources of an individual, there shall be excluded an amount, not in excess of $1,500 each with respect to such individual and his spouse (if any), that is separately identifiable and has been set aside to meet the burial and related expenses of such individual or spouse.
 
-(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall be reduced by an amount equal to (A) the total face value of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
+(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall be reduced by an amount equal to (A) the total facevalue of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
@@ -188,7 +190,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;&emsp;(III) a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div.B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540; Pub. L. 110–245, title II, §202(b), June 17, 2008, 122 Stat. 1637.)
 
 #### References in Text
 
@@ -203,6 +205,8 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), 
 Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
 #### Amendments
+
+2008—Subsec. (a)(16). Pub. L. 110–245 added par. (16).
 
 2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
 
@@ -276,6 +280,10 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
 1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 effective with respect to benefits payable for months beginning after 60 days after June 17, 2008, see section 204 of Pub. L. 110–245, set out as a note under section 1382a of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 101(c)(2) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
@@ -346,11 +354,11 @@ Section 185(c) of Pub. L. 97–248 provided that: “The amendment made by this 
 
 #### Effective Date of 1980 Amendment
 
-Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications forbenefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
+Section 5(c) of Pub. L. 96–611 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to applications for benefits under title XVI of the Social Security Act \[this subchapter\] filed on or after the first day of the first month which begins at least 60 days after the date of enactment of this Act \[Dec. 28, 1980\].”
 
 #### Effective Date of 1977 Amendment
 
-Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
+Section 9(b) of Pub. L. 95–171 provided that: “The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, theamendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\].”
 
 #### Effective Date
 

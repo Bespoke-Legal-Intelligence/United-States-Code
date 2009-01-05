@@ -66,7 +66,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (f) Taxes
 
-The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
+The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the Stateof New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
 
 #### (g) Donations
 
@@ -80,7 +80,7 @@ The members of the Board of Trustees, the executive director, and one additional
 
 #### (2) Fund
 
-&emsp;There is hereby established in the Treasury of the United States a special interest bearing fund entitled “Valles Caldera Fund” which shall be available, without further appropriation for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.At the option of the Trust, or the Secretary in accordance with section 698v–8 of this title, the Secretary of the Treasury shall invest excess monies of the Trust in such account, which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
+&emsp;There is hereby established in the Treasury of the United States a special interest bearing fund entitled “Valles Caldera Fund” which shall be available, without further appropriation for any purpose consistent with the purposes of sections 698v to 698v–10 of this title. At the option of the Trust, or the Secretary in accordance with section 698v–8 of this title, the Secretary of the Treasury shall invest excess monies of the Trust in such account, which shall bear interest at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturity.
 
 #### (i) Restrictions on disposition of receipts
 

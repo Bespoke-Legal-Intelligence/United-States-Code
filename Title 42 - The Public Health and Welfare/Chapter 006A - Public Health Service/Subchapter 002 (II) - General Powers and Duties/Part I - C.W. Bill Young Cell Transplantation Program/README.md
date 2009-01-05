@@ -10,6 +10,8 @@ Part I—C.W. Bill Young Cell Transplantation Program
 
 1970—Pub. L. 91–212, §10(a)(2), Mar. 13, 1970, 84 Stat. 66, redesignated part H “National Library of Medicine”, as part I “National Library of Medicine”.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Procurement and”.</i>
+
 
 ---
 

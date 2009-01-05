@@ -12,7 +12,7 @@
 
 I74senate report no. 95–989
 
-The debtor is permitted to modify the plan before confirmation without court approval so long as the modified plan, which becomes the plan on filing, complies with the requirements of section 1322.
+The debtor is permitted to modify the plan before confirmation without court approval so long as themodified plan, which becomes the plan on filing, complies with the requirements of section 1322.
 
 The original acceptance or rejection of a plan by the holder of a secured claim remains binding unless the modified plan changes the rights of the holder and the holder withdraws or alters its earlier acceptance or rejection.
 

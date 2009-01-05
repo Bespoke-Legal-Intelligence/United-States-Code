@@ -152,7 +152,7 @@ In this section, the word “Secretary” is substituted for “Secretary of the
 
 In subsection (a)(1), the words “seeking hereunder to document a vessel under the laws of the United States or to operate a vessel exempt from documentation under the laws of the United States” are omitted as unnecessary because of the reorganization of the section.
 
-Subsection (d)(1)(B) is substituted for “together with their owners or masters, shall be entitled to all the other benefits and privileges and shall be subject to the same requirements, penalties, and forfeitures as maybe applicable in the case of vessels built in the United States and otherwise documented or exempt from documentation under the laws of the United States” to eliminate unnecessary words.
+Subsection (d)(1)(B) is substituted for “together with their owners or masters, shall be entitled to all the other benefits and privileges and shall be subject to the same requirements, penalties, and forfeitures as may be applicable in the case of vessels built in the United States and otherwise documented or exempt from documentation under the laws of the United States” to eliminate unnecessary words.
 
 In subsection (d)(2), the words before subparagraph (A) are substituted for “no vessel owned by any such corporation shall engage in the fisheries or in the transportation of merchandise or passengers for hire between points in the United States, including Territories, Districts, and possessions thereof, embraced within the coastwise laws, except” to eliminate unnecessary words. See the definition of “United States” in chapter 1 of the revised title.
 

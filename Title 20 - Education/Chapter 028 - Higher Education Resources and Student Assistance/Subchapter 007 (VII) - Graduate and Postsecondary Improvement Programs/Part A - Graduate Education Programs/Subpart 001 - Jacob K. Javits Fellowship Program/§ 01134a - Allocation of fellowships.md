@@ -4,7 +4,21 @@
 
 #### (1) Appointment
 
-&emsp;The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (hereinafter in this subpart referred to as the “Board”) consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board. In making appointments, the Secretary shall give due consideration to the appointment of individuals who are highly respected in the academic community. The Secretary shall assure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (referred to in this subpart as the “Board”) consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board.
+
+#### (B) Qualifications
+
+&emsp;&emsp;In making appointments under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) give due consideration to the appointment of individuals who are highly respected in the academic community;
+
+&emsp;&emsp;&emsp;(ii) appoint members who represent the various geographic regions of the United States;
+
+&emsp;&emsp;&emsp;(iii) ensure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences; and
+
+&emsp;&emsp;&emsp;(iv) ensure that such individuals include representatives from institutions that are eligible for one or more of the grants under subchapter III or V.
 
 #### (2) Duties
 
@@ -38,7 +52,7 @@
 
 #### (7) Compensation
 
-&emsp;Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate of basic pay payable for level IV of the Executive Schedule, including travel time, and while so serving away from their homes or regular places ofbusiness, the members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
+&emsp;Members of the Board, while serving on the business of the Board, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the rate of basic pay payable for level IV of the Executive Schedule, including travel time, and while so serving away from their homes or regular places of business, the members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (b) Use of selection panels
 
@@ -48,7 +62,7 @@ The recipients of fellowships shall be selected in each designated field from am
 
 Each recipient shall be entitled to use the fellowship in a graduate program at any accredited institution of higher education in which the recipient may decide to enroll.
 
-(Pub. L. 89–329, title VII, §702, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1787.)
+(Pub. L. 89–329, title VII, §702, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1787; amended Pub. L. 110–315, title VII, §702(b), Aug. 14, 2008, 122 Stat. 3345.)
 
 #### References in Text
 
@@ -71,4 +85,8 @@ A prior section 702 of Pub. L. 89–329 was classified to section 1132a–1 of t
 Another prior section 702 of Pub. L. 89–329 was classified to section 1132a–1 of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 702 of Pub. L. 89–329 was classified to section 1132a–1 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315 amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (hereinafter in this subpart referred to as the ‘Board’) consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board. In making appointments, the Secretary shall give due consideration to the appointment of individuals who are highly respected in the academic community. The Secretary shall assure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences.”
 

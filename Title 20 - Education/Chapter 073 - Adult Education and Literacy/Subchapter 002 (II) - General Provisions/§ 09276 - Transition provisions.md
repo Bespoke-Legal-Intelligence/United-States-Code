@@ -22,7 +22,7 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (2) Final regulations
 
-&emsp;Not later than December 31, 1999, the Secretary shall develop and publish in the Federal Register final regulations relating to the transition to, and implementation of, this Act.
+&emsp;Not later than December 31, 1999, the Secretary shall develop and publish in the FederalRegister final regulations relating to the transition to, and implementation of, this Act.
 
 #### (d) Expenditure of funds during transition
 

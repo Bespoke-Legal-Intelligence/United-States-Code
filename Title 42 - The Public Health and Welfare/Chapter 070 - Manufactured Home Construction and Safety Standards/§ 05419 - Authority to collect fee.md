@@ -4,7 +4,7 @@
 
 In carrying out inspections under this chapter, in developing standards and regulations pursuant to section 5403 of this title, and in facilitating the acceptance of the affordability and availability of manufactured housing within the Department, the Secretary may—
 
-&emsp;(1) establish and collect from manufactured home manufacturers a reasonable fee, as may be necessary to offset the expenses incurred by the Secretary in connection with carrying out the responsibilities of the Secretary under this chapter, including—
+&emsp;(1) establish and collect from manufactured home manufacturers a reasonable fee, as may be necessary to offset the expenses incurred by the Secretary in connection with carrying outthe responsibilities of the Secretary under this chapter, including—
 
 &emsp;&emsp;(A) conducting inspections and monitoring;
 

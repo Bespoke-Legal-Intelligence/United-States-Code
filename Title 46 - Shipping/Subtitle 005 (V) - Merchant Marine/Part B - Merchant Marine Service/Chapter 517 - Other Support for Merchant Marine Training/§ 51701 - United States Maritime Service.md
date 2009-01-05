@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may establish and maintain a voluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States.
+General Authority.—The Secretary of Transportation may establish and maintain a voluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.
 
 (b)
 
@@ -24,11 +24,7 @@ Ranks, Grades, and Ratings.—The ranks, grades, and ratings for personnel of th
 
 Medals and Awards.—The Secretary may establish and maintain a medals and awards program to recognize distinguished service, superior achievement, professional performance, and other commendable achievement by personnel of the Service.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1582; Pub. L. 109–163, div. C, title XXXV, §3509, Jan. 6, 2006, 119 Stat. 3557; Pub. L. 109–364, div. C, title XXXV, §3510(d)(1), Oct. 17, 2006, 120 Stat. 2520.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsection (a) of this section was derived from section 1295e(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3509, Jan. 6, 2006, 119 Stat. 3557, as amended by Pub. L. 109–364, div. C, title XXXV, §3510(d)(1), Oct. 17, 2006, 120 Stat. 2520. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1295e(a) of the former Appendix to this title was amended by inserting “and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary,” after “United States” the second place it appears.</i>
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1582; Pub. L. 109–163, div. C, title XXXV, §3509, Jan. 6, 2006, 119 Stat. 3557; Pub. L. 109–364, div. C, title XXXV, §3510(d)(1), Oct. 17, 2006, 120 Stat. 2520; Pub. L. 110–181, div. C, title XXXV, §3523(a)(4), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
 
 Historical and Revision Notes
 
@@ -45,6 +41,14 @@ Historical and Revision Notes
 46 App.:1295e.
 
 June 29, 1936, ch. 858, title XIII, §1306, as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2006; Pub. L. 108–136, title XXXV, §3515(e), Nov. 24, 2003, 117 Stat. 1795.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3509. See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3523(a)(4), incorporated the substance of the amendment by Pub. L. 109–163, §3509, into this section by substituting “of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.” for “of the United States.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3509, as amended by Pub. L. 109–364, §3510(d)(1), which directed the amendment of section 1295e(a) of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 
 #### Effective Date of 2006 Amendment
 

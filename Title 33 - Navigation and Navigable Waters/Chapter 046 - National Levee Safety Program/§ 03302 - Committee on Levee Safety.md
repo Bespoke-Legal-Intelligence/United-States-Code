@@ -60,17 +60,21 @@ A member of the committee shall serve without compensation.
 
 #### (f) Travel expenses
 
-To the extent amounts are made available in advance in appropriations Acts, the Secretary shall reimburse a member of the committee for travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of a Federal agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in performance of services for the committee.
+Subject to the availability of appropriations, the Secretary shall reimburse a member of the committee for travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of a Federal agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in performance of services for the committee.
 
 #### (g) Applicability of Federal Advisory Committee Act
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
 
-(Pub. L. 110–114, title IX, §9003, Nov. 8, 2007, 121 Stat. 1288.)
+(Pub. L. 110–114, title IX, §9003, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 110–274, §1, July 15, 2008, 122 Stat. 2493.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–274 substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
 
 #### “Secretary” Defined
 

@@ -20,6 +20,7 @@
 | [1214\.](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md) | Right to full and fair hearing. |
 | [1215\.](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md) | Members other than Regulars: applicability of laws. |
 | [1216\.](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md) | Secretaries: powers, functions, and duties. |
+| [1216a.](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md) | Determinations of disability: requirements and limitations on determinations. |
 | [1217\.](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md) | Academy cadets and midshipmen: applicability of chapter. |
 | [1218\.](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md) | Discharge or release from active duty: claims for compensation, pension, or hospitalization. |
 | [1219\.](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md) | Statement of origin of disease or injury: limitations. |
@@ -30,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XVI, §1642(b), Jan. 28, 2008, 122 Stat. 465, added item 1216a.
 
 2006—Pub. L. 109–364, div. A, title V, §597(a)(2), Oct. 17, 2006, 120 Stat. 2237, added item 1222.
 
@@ -70,6 +73,7 @@
 - [&sect; 01214 - Right to full and fair hearing](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md)
 - [&sect; 01215 - Members other than Regulars applicability of laws](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md)
 - [&sect; 01216 - Secretaries powers, functions, and duties](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md)
+- [&sect; 01216a - Determinations of disability requirements and limitations on determinations](%C2%A7%2001216a%20-%20Determinations%20of%20disability%20requirements%20and%20limitations%20on%20determinations.md)
 - [&sect; 01217 - Academy cadets and midshipmen applicability of chapter](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md)
 - [&sect; 01218 - Discharge or release from active duty claims for compensation, pension, or hospitalization](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md)
 - [&sect; 01219 - Statement of origin of disease or injury limitations](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md)

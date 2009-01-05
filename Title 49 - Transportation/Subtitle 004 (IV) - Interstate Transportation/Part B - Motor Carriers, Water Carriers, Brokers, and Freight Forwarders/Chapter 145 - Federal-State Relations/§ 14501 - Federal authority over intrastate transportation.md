@@ -106,7 +106,7 @@ In general.—No State or political subdivision thereof and no interstate agency
 
 &emsp;&emsp;&emsp;(i) transportation by the motor carrier from one State, including intermediate stops, to a destination in another State; or
 
-&emsp;&emsp;&emsp;(ii) transportation by the motor carrier from one State, including intermediate stops in another State, to a destination in the original State.
+&emsp;&emsp;&emsp;(ii) transportation by the motor carrier from one State, including intermediatestops in another State, to a destination in the original State.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Matters not covered.—Nothing in this subsection shall be construed—
 
 &emsp;&emsp;(C) as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277,div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342; Pub. L. 109–59, title IV, §§4105(a), 4206(a), Aug. 10, 2005, 119 Stat. 1717, 1754.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342; Pub. L. 109–59, title IV, §§4105(a), 4206(a), Aug. 10, 2005, 119 Stat. 1717, 1754.)
 
 #### References in Text
 

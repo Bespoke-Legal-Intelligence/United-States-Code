@@ -20,7 +20,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 #### Amendments
 
-1997—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83,§316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Pub. L. 105–83, §316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 

@@ -6,7 +6,7 @@ The Armed Forces Retirement Home is an independent establishment in the executiv
 
 #### (b) Purpose
 
-The purpose of the Retirement Home is to provide, through the Armed Forces Retirement Home—Washington and the Armed Forces Retirement Home—Gulfport, residences and related services for certain retired and former members of the Armed Forces.
+The purpose of the Retirement Home is to provide, through the Armed Forces RetirementHome—Washington and the Armed Forces Retirement Home—Gulfport, residences and related services for certain retired and former members of the Armed Forces.
 
 #### (c) Facilities
 
@@ -19,6 +19,8 @@ The purpose of the Retirement Home is to provide, through the Armed Forces Retir
 (1) The Chief Operating Officer of the Armed Forces Retirement Home is the head of the Retirement Home. The Chief Operating Officer is subject to the authority, direction, and control of the Secretary of Defense.
 
 (2) Each facility of the Retirement Home shall be maintained as a separate establishment of the Retirement Home for administrative purposes and shall be under the authority, direction, and control of the Director of that facility. The Director of each facility of the Retirement Home is subject to the authority, direction, and control of the Chief Operating Officer.
+
+(3) The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.
 
 #### (e) Property and facilities
 
@@ -34,19 +36,25 @@ The Secretary of Defense may make available from the Department of Defense to th
 
 #### (g) Accreditation
 
-The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.
+The Chief Operating Officer shall secure and maintain accreditation by a nationally recognized civilian accrediting organization for each aspect of each facility of the Retirement Home, including medical and dental care, pharmacy, independent living, and assisted living and nursing care.
 
 #### (h) Annual report
 
-The Secretary of Defense shall transmit to Congress an annual report on the financial and other affairs of the Retirement Home for each fiscal year.
+The Secretary of Defense shall transmit to Congress an annual report on the financial and other affairs of the Retirement Home for each fiscal year. The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.
 
-(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258.)
+(Pub. L. 101–510, div. A, title XV, §1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, §366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, §1422(a), (b), Jan. 28, 2008, 122 Stat. 420.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, as amended, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–181, §1422(a)(1), added par. (3).
+
+Subsec. (g). Pub. L. 110–181, §1422(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
+
+Subsec. (h). Pub. L. 110–181, §1422(a)(2), inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
 
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
 

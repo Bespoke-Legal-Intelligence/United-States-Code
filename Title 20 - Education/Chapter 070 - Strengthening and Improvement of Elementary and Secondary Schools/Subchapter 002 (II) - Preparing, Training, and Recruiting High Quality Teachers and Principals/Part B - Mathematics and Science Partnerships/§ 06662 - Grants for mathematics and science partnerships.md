@@ -118,7 +118,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 #### (1) Partnership grants
 
-&emsp;An eligible partnership receiving a grant under section 1023 of this title shall coordinate the use of such funds with any related activities carried out by such partnership with funds made available under this part.
+&emsp;An eligible partnership receiving a grant under section 1023 <sup>1</sup> of this title shall coordinate the use of such funds with any related activities carried out by such partnership with funds made available under this part.
 
 #### (2) National Science Foundation
 
@@ -152,9 +152,15 @@ Each eligible partnership receiving a grant or subgrant under this part shall re
 
 (Pub. L. 89–10, title II, §2202, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1644.)
 
+#### References in Text
+
+Section 1023 of this title, referred to in subsec. (d)(1), was in the original a reference to section 203 of the Higher Education Act of 1965, Pub. L. 89–329. Section 203 of Pub. L. 89–329 was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 203 of Pub. L. 89–329, which relates to administrative provisions, and is classified to section 1022b of this title.
+
 #### Prior Provisions
 
 A prior section 2202 of Pub. L. 89–10 was classified to section 6642 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2202 of Pub. L. 89–10 was classified to section 3012 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

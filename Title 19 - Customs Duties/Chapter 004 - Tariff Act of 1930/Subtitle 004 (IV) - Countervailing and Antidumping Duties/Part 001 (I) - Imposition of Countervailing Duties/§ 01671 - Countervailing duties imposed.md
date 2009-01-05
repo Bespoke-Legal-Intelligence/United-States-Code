@@ -66,7 +66,7 @@ For purposes of this part, if the members (or other participating entities) of a
 
 Whenever the administering authority has reasonable grounds to believe or suspect that an upstream subsidy, as defined in section 1677–1(a)(1) <sup>1</sup> of this title, is being paid or bestowed, the administering authority shall investigate whether an upstream subsidy has in fact been paid or bestowed, and if so, shall include the amount of the upstream subsidy as provided in section 1677–1(a)(3) <sup>2</sup> of this title.
 
-(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1),613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917.)
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Prevention of Circumvention of Duties; Drawback.—The provisions of section 781
 
 “(e)
 
-Governmental Importations; Steel.—The amendments made by sections 1322 \[amending provisions set out as a note under section 2253 of this title\] and 1335 \[amending section 1677 of this title\] shall apply with respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act \[Aug. 23, 1988\].
+Governmental Importations; Steel.—The amendments made by sections 1322 \[amending provisions set out as a note under section 2253 of this title\] and 1335 \[amending section 1677 of this title\] shall applywith respect to entries, and withdrawals from warehouse for consumption, that are liquidated on or after the date of enactment of this Act \[Aug. 23, 1988\].
 
 “(f)
 

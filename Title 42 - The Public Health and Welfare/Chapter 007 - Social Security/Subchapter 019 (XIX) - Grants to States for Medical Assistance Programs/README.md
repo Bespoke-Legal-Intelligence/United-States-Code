@@ -48,3 +48,5 @@
 - [&sect; 01396u&#8211;7 - State flexibility in benefit packages](%C2%A7%2001396u%E2%80%937%20-%20State%20flexibility%20in%20benefit%20packages.md)
 - [&sect; 01396u&#8211;8 - Health opportunity accounts](%C2%A7%2001396u%E2%80%938%20-%20Health%20opportunity%20accounts.md)
 - [&sect; 01396v - References to laws directly affecting medicaid program](%C2%A7%2001396v%20-%20References%20to%20laws%20directly%20affecting%20medicaid%20program.md)
+- [&sect; 01396w - Asset verification through access to information held by financial institutions](%C2%A7%2001396w%20-%20Asset%20verification%20through%20access%20to%20information%20held%20by%20financial%20institutions.md)
+- [&sect; 01396w&#8211;1 - Medicaid Improvement Fund](%C2%A7%2001396w%E2%80%931%20-%20Medicaid%20Improvement%20Fund.md)

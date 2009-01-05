@@ -70,7 +70,7 @@ Voluntary Separation Incentive Payments.—(1) In this subsection, the term ‘e
 
 &emsp;“(iii) a description of how the Government Printing Office will operate without the eliminated positions and functions.
 
-“(5)(A) In addition to any other payments which the Public Printer is required to make under subchapter IIIof chapter 83 of title 5, United States Code, the Public Printer shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
+“(5)(A) In addition to any other payments which the Public Printer is required to make under subchapter III of chapter 83 of title 5, United States Code, the Public Printer shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund an amount equal to 15 percent of the final basic pay of each employee who is covered under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, to whom a voluntary separation incentive has been paid under this section.
 
 “(B) For the purpose of this paragraph, the term ‘final basic pay’, with respect to an employee—
 

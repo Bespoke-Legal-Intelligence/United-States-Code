@@ -26,7 +26,7 @@ There is established in the Commodity Credit Corporation a revolving trust fund,
 
 #### (2) Expenditures by Commodity Credit Corporation
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015, the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by the Secretary or the Commodity Credit Corporation to carry out this title <sup>1</sup> may not be paid using amounts in the Tobacco Trust Fund.
+&emsp;Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015, the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by theSecretary or the Commodity Credit Corporation to carry out this title <sup>1</sup> may not be paid using amounts in the Tobacco Trust Fund.
 
 #### (c) Investment of amounts
 

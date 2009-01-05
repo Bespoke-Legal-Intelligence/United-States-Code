@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(I) require recertifications of qualified organ procurement organizations not more frequently than once every 4 years;
 
-&emsp;&emsp;&emsp;(II) rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential and other related factors in each service area of qualified organ procurement organizations;
+&emsp;&emsp;&emsp;(II) rely on outcome and process performance measures that are based on empirical evidence, obtained through reasonable efforts, of organ donor potential andother related factors in each service area of qualified organ procurement organizations;
 
 &emsp;&emsp;&emsp;(III) use multiple outcome measures as part of the certification process; and
 
@@ -96,7 +96,7 @@ Pancreata procured by an organ procurement organization and used for islet cell 
 
 Paragraph (2), referred to in subsec. (b)(1), meaning paragraph (2) of subsec. (b) of this section, was redesignated paragraph (3) by section 201(d)(1) of Pub. L. 101–616. See 1990 Amendment note below.
 
-The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) ofchapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning paragraph (1)(E) of subsec. (b) of this section, was redesignated paragraph (1)(F) by section 701(c)(1) of Pub. L. 106–505 and section 1(a)(1) \[title II, §219(b)(1)\] of Pub. L. 106–554. See 2000 Amendment note below.
 
@@ -170,9 +170,9 @@ Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. 
 
 &emsp;“(1) Organ procurement organizations play an important role in the effort to increase organ donation in the United States.
 
-&emsp;“(2) The current process for the certification and recertification of organ procurement organizationsconducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
+&emsp;“(2) The current process for the certification and recertification of organ procurement organizations conducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
 
-&emsp;“(3) The General Accounting Office \[now Government Accountability Office\], the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
+&emsp;“(3) The General Accounting Office \[now Government Accountability Office\], the Institute of Medicine, and the Harvard School of Public Health haveidentified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
 
 &emsp;“(4) The limitations in the recertification process include:
 

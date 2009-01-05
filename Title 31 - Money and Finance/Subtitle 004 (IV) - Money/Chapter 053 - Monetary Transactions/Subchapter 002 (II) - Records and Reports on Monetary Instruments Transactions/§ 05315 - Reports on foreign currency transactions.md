@@ -10,7 +10,7 @@
 
 (b) In this section, “United States person” and “foreign person controlled by a United States person” have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 (15 U.S.C. 78g(f)(2)(A), (C)).
 
-(c) The Secretary of the Treasury shall prescribe regulations consistent with subsection (a) of this section requiring reports on foreign currency transactions conducted by a United States person or a foreign person controlled by a United States person. The regulations shall require that a report contain information and besubmitted at the time and in the way, with reasonable exceptions and classifications, necessary to carry out this section.
+(c) The Secretary of the Treasury shall prescribe regulations consistent with subsection (a) of this section requiring reports on foreign currency transactions conducted by a United States person or a foreign person controlled by a United States person. The regulations shall require that a report contain information and be submitted at the time and in the way, with reasonable exceptions and classifications, necessary to carry out this section.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 997.)
 

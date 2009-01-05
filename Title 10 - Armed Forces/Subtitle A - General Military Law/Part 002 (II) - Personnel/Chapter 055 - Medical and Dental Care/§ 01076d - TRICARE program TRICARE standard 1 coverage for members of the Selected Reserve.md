@@ -18,9 +18,11 @@ Family Members.—While a member of a reserve component is covered by TRICARE St
 
 Premiums.—(1) A member of a reserve component covered by TRICARE Standard under this section shall pay a premium for that coverage.
 
-(2) The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Standard coverage of members without dependents and one premium for TRICARE Standard coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformlyto all covered members of the reserve components.
+(2) The Secretary of Defense shall prescribe for the purposes of this section one premium for TRICARE Standard coverage of members without dependents and one premium for TRICARE Standard coverage of members with dependents referred to in subsection (f)(1). The premium prescribed for a coverage shall apply uniformly to all covered members of the reserve components.
 
-(3) The monthly amount of the premium in effect for a month for TRICARE Standard coverage under this section shall be the amount equal to 28 percent of the total monthly amount that the Secretary determines on an appropriate actuarial basis as being reasonable for that coverage. During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.
+(3)(A) The monthly amount of the premium in effect for a month for TRICARE Standard coverage under this section shall be the amount equal to 28 percent of the total monthly amount determined on an appropriate actuarial basis as being reasonable for that coverage.
+
+(B) The appropriate actuarial basis for purposes of subparagraph (A) shall be determined, for each calendar year after calendar year 2009, by utilizing the actual cost of providing benefits under this section to members and their dependents during the calendar years preceding such calendar year.
 
 (4) The premiums payable by a member of a reserve component under this subsection may be deducted and withheld from basic pay payable to the member under section 204 of title 37 or from compensation payable to the member under section 206 of such title. The Secretary shall prescribe the requirements and procedures applicable to the payment of premiums.
 
@@ -40,11 +42,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) medical care to which a dependent described in section 1076(a)(2) of this title is entitled; and
 
-&emsp;&emsp;(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
+&emsp;&emsp;(B) health benefits contracted for under the authority of section 1079(a) of this title and subject to the same rates and conditionsas apply to persons covered under that section.
 
-(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282.)
+(Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498.)
 
 #### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–417 designated existing provisions as subpar. (A), substituted “determined” for “that the Secretary determines”, struck out at end “During the period beginning on April 1, 2006, and ending on September 30, 2008, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006.”, and added subpar. (B).
+
+Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007”.
 
 2006—Pub. L. 109–364, §706(c)(2), substituted “TRICARE standard coverage for members of the Selected Reserve” for “coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in section catchline.
 
@@ -80,13 +86,27 @@ Pub. L. 109–163, §701(a)(3), added par. (3).
 
 Subsec. (g). Pub. L. 109–364, §706(c)(1)(B), redesignated subsec. (g) as (e).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title VII, §704(c), Oct. 14, 2008, 122 Stat. 4499, provided that: “The amendments made by this section \[amending this section\] shall take effect as of October 1, 2008.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: “The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007.”
 
 #### Savings Provision
 
-Pub. L. 109–364, div. A, title VII, §706(f), Oct. 17, 2006, 120 Stat. 2282, provided that: “Enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\] under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.”
+Pub. L. 109–364, div. A, title VII, §706(f), Oct. 17, 2006, 120 Stat. 2282, as amended by Pub. L. 110–181, div. A, title VII, §706(a), Jan. 28, 2008, 122 Stat. 189, provided that:
+
+“(1) Except as provided in paragraph (2), enrollments in TRICARE Standard that are in effect on the day before the date of the enactment of this Act \[Oct. 17, 2006\] under section 1076d of title 10, United States Code, as in effect on such day, shall be continued until terminated after such day under such section 1076d as amended by this section.
+
+“(2) The enrollment of a member in TRICARE Standard that is in effect on the day before health care under TRICARE Standard is provided pursuant to the effective date in subsection (g) \[set out as an Effective Date of 2006 Amendment note above\] shall not be terminated by operation of the exclusion of eligibility under subsection (a)(2) of such section 1076d, as so amended, for the duration of the eligibility of the member under TRICARE Standard as in effect on October 16, 2006.”
+
+\[Pub. L. 110–181, div. A, title VII, §706(b), Jan. 28, 2008, 122 Stat. 189, provided that: “The amendments made by subsection (a) \[amending section 706(f) of Pub. L. 109–364, set out above\] shall take effect on October 1, 2007.”\]
+
+#### Calculation of Monthly Premiums for 2009
+
+Pub. L. 110–417, \[div. A\], title VII, §704(b), Oct. 14, 2008, 122 Stat. 4499, provided that: “For purposes of section 1076d(d)(3) of title 10, United States Code, the appropriate actuarial basis for purposes of subparagraph (A) of that section shall be determined for calendar year 2009 by utilizing the reported cost of providing benefits under that section to members and their dependents during calendar years 2006 and 2007, except that the monthly amount of the premium determined pursuant to this subsection may not exceed the amount in effect for the month of March 2007.”
 
 #### Implementation
 

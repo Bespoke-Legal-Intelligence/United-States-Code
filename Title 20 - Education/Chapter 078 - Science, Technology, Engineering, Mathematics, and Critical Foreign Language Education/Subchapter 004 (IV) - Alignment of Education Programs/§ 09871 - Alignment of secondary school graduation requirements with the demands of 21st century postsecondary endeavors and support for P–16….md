@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xiii) not less than 1 member of the Armed Forces; and
 
-&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such as a school administrator, a faculty member atan institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similar teacher certification or licensure program, or the State official responsible for economic development.
+&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such as a school administrator, a faculty member at an institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similar teacher certification or licensure program, or the State official responsible for economic development.
 
 #### (c) Grants authorized
 
@@ -136,7 +136,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 #### (B) Improvement of existing system
 
-&emsp;&emsp;Each State that receives a grant under subsection (c)(2) for the improvement of astatewide P–16 education data system may employ, coordinate, or revise an existing statewide data system to establish a statewide longitudinal P–16 education data system that meets the requirements of subparagraph (A), if the statewide longitudinal P–16 education data system produces valid and reliable data.
+&emsp;&emsp;Each State that receives a grant under subsection (c)(2) for the improvement of a statewide P–16 education data system may employ, coordinate, or revise an existing statewide data system to establish a statewide longitudinal P–16 education data system that meets the requirements of subparagraph (A), if the statewide longitudinal P–16 education data system produces valid and reliable data.
 
 #### (C) Privacy and access to data
 

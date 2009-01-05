@@ -6,7 +6,7 @@ Program.—(1) The amounts made available under section 5338(d) are available to
 
 (2) The Secretary shall provide public transportation-related technical assistance, demonstration programs, research, public education, and other activities the Secretary considers appropriate to help public transportation providers comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.). To the extent practicable, the Secretary shall carry out this paragraph through a contract with a national nonprofit organization serving individuals with disabilities that has a demonstrated capacity to carry out the activities.
 
-(3) Not more than 25 percent of the amounts available under paragraph (1) of this subsection is available to the Secretary for special demonstration initiatives, subject to terms the Secretary considers consistent with this chapter, except that section 5323(a)(1)(D) <sup>1</sup> of this title applies to an operational grant financed in carrying out section 5312(a) of this title. For a nonrenewable grant of not more than $100,000, the Secretary shall provide expedited procedures on complying with the requirements of this chapter.
+(3) Not more than 25 percent of the amounts available under paragraph (1) of this subsection is available to the Secretary for special demonstration initiatives, subject to terms the Secretary considers consistent with this chapter, except that section 5333(b) of this title applies to an operational grant financed in carrying out section 5312(a) of this title. For a nonrenewable grant of not more than $100,000, the Secretary shall provide expedited procedures on complying with the requirements of this chapter.
 
 (4)(A) The Secretary may undertake a program of public transportation technology development in coordination with affected entities.
 
@@ -52,7 +52,7 @@ Selection of grantees.—In awarding grants under this paragraph, the Secretary 
 
 &emsp;(E)
 
-Rulemaking.—The Secretary shall issue regulations to implement and administer the grant program established under this paragraph.
+Rulemaking.—The Secretary shall issue regulations to implement and administer thegrant program established under this paragraph.
 
 &emsp;(F)
 
@@ -134,7 +134,7 @@ Use of funds.—Grant funds received under this paragraph may be used to—
 
 Selection of grantees.—The Secretary shall select grantees under this paragraph based on a fair representation of various geographical locations throughout the United States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §§3016, 3029(b)(6), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3016(a), (b), Aug. 10, 2005, 119 Stat. 1545, 1598, 1599.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §§3016, 3029(b)(6), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3016(a), (b), Aug. 10, 2005, 119 Stat. 1545, 1598, 1599; Pub. L. 110–244, title II, §201(g), June 6, 2008, 122 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -166,11 +166,11 @@ In subsection (a)(4)(C), the word “section” in the source provision is trans
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-Paragraph (1) of section 5323(a) of this title, referred to in subsec. (a)(3), was struck out and a new par. (1) enacted by Pub. L. 109–59, title III, §3023(a)(1), Aug. 10, 2005, 119 Stat. 1615, which does not contain a subpar. (D).
-
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (a)(6)(B)(i), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–244, which directed substitution of “section 5333(b)” for “section 5323(a)(1)(D)” in subsec. (a)(3) of section 5314, without specifying the Code title to be amended, was executed by making the substitution in subsec. (a)(3) of this section, to reflect the probable intent of Congress.
 
 2005—Pub. L. 109–59, §3016(a)(1), struck out “planning and” before “research” in section catchline.
 
@@ -193,6 +193,4 @@ Subsec. (c). Pub. L. 109–59, §3016(b), added subsec. (c).
 1998—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(6), substituted “subsections (d) and (h)(7) of section 5338” for “section 5338(g)(4)”.
 
 Subsec. (a)(2). Pub. L. 105–178, §3016, substituted “$3,000,000” for “$2,000,000”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

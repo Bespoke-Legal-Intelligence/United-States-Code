@@ -58,7 +58,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 31:67(f)(1)(2d sentence).
 
-In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records. . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 
@@ -78,5 +78,5 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 

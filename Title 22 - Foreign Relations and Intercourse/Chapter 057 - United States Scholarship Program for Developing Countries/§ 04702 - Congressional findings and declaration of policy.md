@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(3) study in United States institutions by foreign students enhances trade and economic relationships by providing strong English language skills and establishing professional and business contacts;
 
-&emsp;(4) students from families of limited financial means have, in the past, largely not had the opportunity to study in the United States, and scholarship programs sponsored by the United States have made no provision foridentifying, preparing, or supporting such students for study in the United States;
+&emsp;(4) students from families of limited financial means have, in the past, largely not had the opportunity to study in the United States, and scholarship programs sponsored by the United States have made no provision for identifying, preparing, or supporting such students for study in the United States;
 
 &emsp;(5) it is essential that the United States citizenry develop its knowledge and understanding of the developing countries and their languages, cultures, and socioeconomic composition as these areas assume an ever larger role in the world community;
 

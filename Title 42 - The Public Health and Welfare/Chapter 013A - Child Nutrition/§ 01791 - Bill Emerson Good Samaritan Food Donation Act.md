@@ -82,7 +82,7 @@ If some or all of the donated food and grocery products do not meet all quality 
 
 #### (f) Construction
 
-This section shall not be construed to create any liability. Nothing in this section shall be construed to supercede State or local health regulations.
+This section shall not be construed to create any liability. Nothing in this section shall beconstrued to supercede State or local health regulations.
 
 (Pub. L. 89–642, §22, formerly Pub. L. 101–610, title IV, §402, Nov. 16, 1990, 104 Stat. 3183; renumbered §22 and amended Pub. L. 104–210, §1(a)(2), (b), Oct. 1, 1996, 110 Stat. 3011, 3012.)
 
@@ -98,7 +98,7 @@ Subsec. (a). Pub. L. 104–210, §1(a)(2)(B), inserted “Bill Emerson” before
 
 Subsec. (b)(7). Pub. L. 104–210, §1(a)(2)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘gross negligence’ means voluntary and conscious conduct by a person with knowledge (at the time of the conduct) that the conduct is likely to be harmful to the health or well-being of another person.”
 
-Subsec. (c). Pub. L. 104–210, §1(a)(2)(D), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person or gleaner shall notbe subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct.”
+Subsec. (c). Pub. L. 104–210, §1(a)(2)(D), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals, except that this paragraph shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the donor constituting gross negligence or intentional misconduct.”
 
 Subsec. (f). Pub. L. 104–210, §1(a)(2)(E), inserted at end “Nothing in this section shall be construed to supercede State or local health regulations.”
 

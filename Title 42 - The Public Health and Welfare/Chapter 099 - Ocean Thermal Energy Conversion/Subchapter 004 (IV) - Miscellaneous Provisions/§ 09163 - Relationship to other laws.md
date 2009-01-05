@@ -24,7 +24,7 @@
 
 The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
 
-The Tariff Act of 1930, as amended, referred to in subsec. (c)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19. For complete classification ofthis Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, as amended, referred to in subsec. (c)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Amendments
 

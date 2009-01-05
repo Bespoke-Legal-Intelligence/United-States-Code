@@ -16,7 +16,23 @@ For purposes of this section and section 412(a)(2)(A), except as provided in sub
 
 #### (b) Target normal cost
 
-For purposes of this section, except as provided in subsection (i)(2) with respect to plans in at-risk status, the term “target normal cost” means, for any plan year, the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year. For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year.
+For purposes of this section:
+
+#### (1) In general
+
+&emsp;Except as provided in subsection (i)(2) with respect to plans in at-risk status, the term “target normal cost” means, for any plan year, the excess of—
+
+&emsp;&emsp;(A) the sum of—
+
+&emsp;&emsp;&emsp;(i) the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year, plus
+
+&emsp;&emsp;&emsp;(ii) the amount of plan-related expenses expected to be paid from plan assets during the plan year, over
+
+&emsp;&emsp;(B) the amount of mandatory employee contributions expected to be made during the plan year.
+
+#### (2) Special rule for increase in compensation
+
+&emsp;For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year.
 
 #### (c) Shortfall amortization charge
 
@@ -66,7 +82,7 @@ For purposes of this section, except as provided in subsection (i)(2) with respe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for purposes of paragraph (3)(A) and subparagraph (A).
 
 #### (ii) Applicable percentage
 
@@ -94,17 +110,13 @@ For purposes of this section, except as provided in subsection (i)(2) with respe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### (iii) Limitation
-
-&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any plan year after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph).
-
-#### (iv) Transition relief not available for new or deficit reduction plans
+#### (iii) Transition relief not available for new or deficit reduction plans
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to a plan—
 
 &emsp;&emsp;&emsp;&emsp;(I) which was not in effect for a plan year beginning in 2007, or
 
-&emsp;&emsp;&emsp;&emsp;(II) which was in effect for a plan year beginning in 2007 and which was subject to section 412(<i>l</i>) (as in effect for plan years beginning in 2007), determined after the application of paragraphs (6) and (9) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) which was in effect for a plan year beginning in 2007 and which was subject to section 412(<i>l</i>) (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
 
 #### (6) Early deemed amortization upon attainment of funding target
 
@@ -192,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standard carryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor as of the first day of the plan year. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 412(c).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standard carryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 412(c).
 
 #### (B) Coordination with funding standard carryover balance
 
@@ -214,7 +226,7 @@ For purposes of this section—
 
 #### (A) Applicability of shortfall amortization base
 
-&emsp;&emsp;For purposes of subsection (c)(5), the value of plan assets is deemed to be such amount, reduced by the amount of the prefunding balance, but only if an election under paragraph (2) <sup>1</sup> applying any portion of the prefunding balance in reducing the minimum required contribution is in effect for the plan year.
+&emsp;&emsp;For purposes of subsection (c)(5), the value of plan assets is deemed to be such amount, reduced by the amount of the prefunding balance, but only if an election under paragraph (3) applying any portion of the prefunding balance in reducing the minimum required contribution is in effect for the plan year.
 
 #### (B) Determination of excess assets, funding shortfall, and funding target attainment percentage
 
@@ -262,11 +274,11 @@ For purposes of this section—
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
-&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 206(g) <sup>2</sup> to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
+&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under subsection (b), (c), or (e) of section 436 to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
 
 #### (C) Decreases
 
-&emsp;&emsp;The prefunding balance of a plan shall be decreased (but not below zero) by the sum of—
+&emsp;&emsp;The prefunding balance of a plan shall be decreased (but not below zero) by—
 
 &emsp;&emsp;&emsp;(i) as of the first day of each plan year after 2008, the amount of such balance credited under paragraph (2) (if any) in reducing the minimum required contribution of the plan for the preceding plan year, and
 
@@ -292,7 +304,7 @@ For purposes of this section—
 
 #### (8) Adjustments for investment experience
 
-&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary of the Treasury, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
+&emsp;In determining the prefunding balance or the funding standard carryover balance of a plan as of the first day of the plan year, the plan sponsor shall, in accordance with regulations prescribed by the Secretary, adjust such balance to reflect the rate of return on plan assets for the preceding plan year. Notwithstanding subsection (g)(3), such rate of return shall be determined on the basis of fair market value and shall properly take into account, in accordance with such regulations, all contributions, distributions, and other plan payments made during such period.
 
 #### (9) Elections
 
@@ -346,7 +358,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) does not result in a determination of the value of plan assets which, at any time, is lower than 90 percent or greater than 110 percent of the fair market value of such assets at such time.
 
-> &emsp;&emsp;Any such averaging shall be adjusted for contributions and distributions (as provided by the Secretary).
+> &emsp;&emsp;Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assumed earnings rate specified by the actuary but not in excess of the third segment rate applicable under subsection (h)(2)(C)(iii)), as specified by the Secretary.
 
 #### (4) Accounting for contribution receipts
 
@@ -388,7 +400,7 @@ For purposes of this section—
 
 #### (B) Interest rates for determining funding target
 
-&emsp;&emsp;For purposes of determining the funding target of a plan for any plan year, the interest rate used in determining the present value of the liabilities of the plan shall be—
+&emsp;&emsp;For purposes of determining the funding target and target normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
 &emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the first day of the plan year, the first segment rate with respect to the applicable month,
 
@@ -402,7 +414,7 @@ For purposes of this section—
 
 #### (i) First segment rate
 
-&emsp;&emsp;&emsp;The term “first segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 5-year period commencing with such month.
+&emsp;&emsp;&emsp;The term “first segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based onbonds maturing during the 5-year period commencing with such month.
 
 #### (ii) Second segment rate
 
@@ -410,7 +422,7 @@ For purposes of this section—
 
 #### (iii) Third segment rate
 
-&emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rateof interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
+&emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
 
 #### (D) Corporate bond yield curve
 
@@ -430,7 +442,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i)) for such month and each of the rates determined under subparagraph (B) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) for such month) and each of the rates determined under subparagraph (C) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (G) Transition rule
 
@@ -468,7 +480,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality table which meets the requirements of clause (iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
+&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality tablewhich meets the requirements of clause (iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
 
 #### (ii) Early termination of period
 
@@ -540,7 +552,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding planyear (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -576,9 +588,17 @@ For purposes of this section—
 
 &emsp;In the case of a plan which is in at-risk status for a plan year, the target normal cost of the plan for such plan year shall be equal to the sum of—
 
-&emsp;&emsp;(A) the present value of all benefits which are expected to accrue or be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus
+&emsp;&emsp;(A) the excess of—
 
-&emsp;&emsp;(B) in the case of a plan which also has been in at-risk status for at least 2 of the 4 preceding plan years, a loading factor equal to 4 percent of the target normal cost (determined without regard to this paragraph) of the plan for the plan year.
+&emsp;&emsp;&emsp;(i) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of plan-related expenses expected to be paid from plan assets during the plan year, over
+
+&emsp;&emsp;&emsp;(ii) the amount of mandatory employee contributions expected to be made during the plan year, plus
+
+&emsp;&emsp;(B) in the case of a plan which also has been in at-risk status for at least 2 of the 4 preceding plan years, a loading factor equal to 4 percent of the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the plan year.
 
 #### (3) Minimum amount
 
@@ -610,7 +630,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) 75 percent in the case of 2010.
 
-> &emsp;&emsp;In the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year under subparagraph (A)(ii) may be determined using such methods of estimation as the Secretary may provide.
+> &emsp;&emsp;In the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year under subparagraph (A) may be determined using such methods of estimation as the Secretary may provide.
 
 #### (C) Special rule for employees offered early retirement in 2006
 
@@ -632,7 +652,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to bea member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -700,7 +720,7 @@ For purposes of this section—
 
 #### (A) Failure to timely make required installment
 
-&emsp;&emsp;In any case in which the plan has a funding shortfall for the preceding plan year, the employer maintaining the plan shall make the required installments under this paragraph and if the employer fails to pay the full amount of a required installment for the plan year, then the amount of interest charged under paragraph (2) on the underpayment for the period of underpayment shall be determined by using a rate of interest equal to the rate otherwise used under paragraph (2) plus 5 percentage points.
+&emsp;&emsp;In any case in which the plan has a funding shortfall for the preceding plan year, the employer maintaining the plan shall make the required installments under this paragraph and if the employer fails to pay the full amount of a required installment for the plan year, then the amount of interest charged under paragraph (2) on the underpayment for the period of underpayment shall be determined by using a rate of interest equal to the rate otherwise used under paragraph (2) plus 5 percentage points. In the case of plan years beginning in 2008, the funding shortfall for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
 
 #### (B) Amount of underpayment, period of underpayment
 
@@ -757,11 +777,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) 90 percent of the minimum required contribution (determined without regard to this subsection) to the plan for the plan year under this section, or
 
-&emsp;&emsp;&emsp;&emsp;(II) 100 percent of the minimum required contribution (determined without regard to this subsection or to any waiver under section 302(c)) to the plan for the preceding plan year.
+&emsp;&emsp;&emsp;&emsp;(II) 100 percent of the minimum required contribution (determined without regard to this subsection or to any waiver under section 412(c)) to the plan for the preceding plan year.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply if the preceding plan year referred to in such clause was not a year of 12 months.
 
-#### (E) Fiscal years and short years
+#### (E) Fiscal years, short years, and years with alternate valuation date
 
 #### (i) Fiscal years
 
@@ -770,6 +790,10 @@ For purposes of this section—
 #### (ii) Short plan year
 
 &emsp;&emsp;&emsp;This subparagraph shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary.
+
+#### (iii) Plan with alternate valuation date
+
+&emsp;&emsp;&emsp;The Secretary shall prescribe regulations for the application of this paragraph in the case of a plan which has a valuation date other than the first day of the plan year.
 
 #### (4) Liquidity requirement in connection with quarterly contributions
 
@@ -843,9 +867,9 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a plan to which this subsection applies, if—
+&emsp;In the case of a plan to which this subsection applies (as provided under paragraph (2)), if—
 
-&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 andthis section before the due date for such payment, and
+&emsp;&emsp;(A) any person fails to make a contribution payment required by section 412 and this section before the due date for such payment, and
 
 &emsp;&emsp;(B) the unpaid balance of such payment (including interest), when added to the aggregate unpaid balance of all preceding such payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
@@ -887,7 +911,7 @@ For purposes of this section—
 
 #### (B) Due date; required installment
 
-&emsp;&emsp;The terms “due date” and “required installment” have the meanings given such terms by subsection (j), except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430.
+&emsp;&emsp;The terms “due date” and “required installment” have the meanings given such terms by subsection (j).
 
 #### (C) Controlled group
 
@@ -897,13 +921,77 @@ For purposes of this section—
 
 In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826.)
+(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (h)(5)(B)(i), (ii) and (k)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–458, §101(b)(2)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “For purposes of this section, except as provided in subsection (i)(2) with respect to plans in at-risk status, the term “target normal cost” means, for any plan year, the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year. For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year.”
+
+Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(b)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).”
+
+Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(b)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph).”
+
+Pub. L. 110–458, §101(b)(2)(B), inserted “beginning” before “after 2008”.
+
+Subsec. (c)(5)(B)(iv). Pub. L. 110–458, §202(b)(1), redesignated cl. (iv) as (iii).
+
+Subsec. (c)(5)(B)(iv)(II). Pub. L. 110–458, §101(b)(2)(C), inserted “for such year” after “beginning in 2007)”.
+
+Subsec. (f)(3)(A). Pub. L. 110–458, §101(b)(2)(D)(i), struck out “as of the first day of the plan year” after “credited by the plan sponsor”.
+
+Subsec. (f)(4)(A). Pub. L. 110–458, §101(b)(2)(D)(ii), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (f)(6)(B)(iii). Pub. L. 110–458, §101(b)(2)(D)(iii), substituted “subsection (b), (c), or (e) of section 436” for “paragraph (1), (2), or (4) of section 206(g)”.
+
+Subsec. (f)(6)(C). Pub. L. 110–458, §101(b)(2)(D)(iv), struck out “the sum of” after “by” in introductory provisions.
+
+Subsec. (f)(8). Pub. L. 110–458, §101(b)(2)(D)(v), struck out “of the Treasury” after “by the Secretary”.
+
+Subsec. (g)(3)(B). Pub. L. 110–458, §121(b), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Any such averaging shall be adjusted for contributions and distributions (as provided by the Secretary).”
+
+Subsec. (h)(2)(B). Pub. L. 110–458, §101(b)(2)(E)(i), (ii), in introductory provisions, inserted “and target normal cost” after “funding target” and substituted “benefits” for “liabilities”.
+
+Subsec. (h)(2)(F). Pub. L. 110–458, §101(b)(2)(E)(iii), (iv), substituted “section 417(e)(3)(D)(i) for such month)” for “section 417(e)(3)(D)(i)) for such month” and “subparagraph (C)” for “subparagraph (B)”.
+
+Subsec. (i)(2)(A). Pub. L. 110–458, §101(b)(2)(F)(i)(I), added subpar. (A) and struck out former subpar. (A) which read as follows: “the present value of all benefits which are expected to accrue or be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus”.
+
+Subsec. (i)(2)(B). Pub. L. 110–458, §101(b)(2)(F)(i)(II), substituted “the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the plan year” for “the target normal cost (determined without regard to this paragraph) of the plan for the plan year”.
+
+Subsec. (i)(4)(B). Pub. L. 110–458, §101(b)(2)(F)(ii), substituted “subparagraph (A)” for “subparagraph (A)(ii)” in concluding provisions.
+
+Subsec. (j)(3)(A). Pub. L. 110–458, §101(b)(2)(G)(i), inserted at end “In the case of plan years beginning in 2008, the funding shortfall for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.”
+
+Subsec. (j)(3)(D)(ii)(II). Pub. L. 110–458, §101(b)(2)(G)(ii), substituted “section 412(c)” for “section 302(c)”.
+
+Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(2)(G)(iii), (iv), substituted “, short years, and years with alternate valuation date” for “and short years” in heading and added cl. (iii).
+
+Subsec. (k)(1). Pub. L. 110–458, §101(b)(2)(H)(i), inserted “(as provided under paragraph (2))” after “applies” in introductory provisions.
+
+Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–458, title I, §101(b)(3), Dec. 23, 2008, 122 Stat. 5096, provided that:
+
+“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by paragraphs (1)(A) \[amending section 1083 of Title 29, Labor\], (1)(F)(i) \[amending section 1083 of Title 29\], (2)(A) \[amending this section\], and (2)(F)(i) \[amending this section\] shall apply to plan years beginning after December 31, 2008.”
+
+“(B)
+
+Election for earlier application.—The amendments made by such paragraphs shall apply to a plan for the first plan year beginning after December 31, 2007, if the plan sponsor makes the election under this subparagraph. An election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury or the Secretary's delegate may prescribe, and, once made, may be revoked only with the consent of the Secretary.”
+
+Amendment by section 101(b)(2)(B)–(E), (F)(ii)–(H) of Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
+Pub. L. 110–458, title I, §121(c), Dec. 23, 2008, 122 Stat. 5114, provided that: “The amendments made by this section \[amending this section and section 1083 of Title 29, Labor\] shall take effect as if included in the provisions of the 2006 Act \[Pub. L. 109–280\] to which the amendments relate.”
+
+Pub. L. 110–458, title II, §202(c), Dec. 23, 2008, 122 Stat. 5118, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1083 of Title 29, Labor\] shall apply as if included in the enactment of sections 102 and 112, respectively, of the Pension Protection Act of 2006 \[Pub. L. 109–280\].”
 
 #### Effective Date
 
@@ -911,7 +999,7 @@ Pub. L. 109–280, title I, §112(b), Aug. 17, 2006, 120 Stat. 846, provided tha
 
 #### Applicability of Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of subtitles A (§§101–107) and B (§§111–116) of title I of Pub. L. 109–280to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Modification of Transition Rule to Pension Funding Requirements
 
@@ -960,7 +1048,7 @@ Definitions.—Any term used in this section which is also used in section 430 o
 
 #### Special Funding Rules for Certain Plans Maintained by Commercial Airlines
 
-Pub. L. 109–280, title IV, §402, Aug. 17, 2006, 120 Stat. 922, as amended by Pub. L. 110–28, title VI, §§6614(a), 6615(a), May 25, 2007, 121 Stat. 181, provided that:
+Pub. L. 109–280, title IV, §402, Aug. 17, 2006, 120 Stat. 922, as amended by Pub. L. 110–28, title VI, §§6614(a), 6615(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §§104(b), 126(a), Dec. 23, 2008, 122 Stat. 5104, 5116, provided that:
 
 “(a)
 
@@ -1034,7 +1122,7 @@ Definitions.—For purposes of this section—
 
 Eligible plan.—The term ‘eligible plan’ means a defined benefit plan (other than a multiemployer plan) to which sections 302 of such Act \[29 U.S.C. 1082\] and 412 of such Code applies which is sponsored by an employer—
 
-&emsp;&emsp;“(A) which is a commercial airline passenger airline, or
+&emsp;&emsp;“(A) which is a commercial passenger airline, or
 
 &emsp;&emsp;“(B) the principal business of which is providing catering services to a commercial passenger airline.
 
@@ -1102,7 +1190,7 @@ Other rules.—In determining the minimum required contribution and amortization
 
 &emsp;&emsp;“(B) a rate of interest of 8.85 percent shall be used for all calculations requiring an interest rate, and
 
-&emsp;&emsp;“(C) the value of plan assets shall be equal to their fair market value.
+&emsp;&emsp;“(C) the value of plan assets shall be determined under sections 303(g)(3) of such Act \[29 U.S.C. 1083(g)(3)\] and 430(g)(3) of such Code.
 
 &emsp;“(5)
 
@@ -1152,7 +1240,7 @@ liability limited.—\[Amended section 1322 of Title 29, Labor.\]
 
 Termination premium.—In applying section 4006(a)(7)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1306(a)(7)(A)\] to an eligible plan during any period in which an election under subsection (a)(1) is in effect—
 
-&emsp;&emsp;&emsp;“(i) ‘$2,500’ shall be substituted for ‘$1,250’ in such section if such plan terminates during the 5-year period beginning on the first day of the firstapplicable plan year with respect to such plan, and
+&emsp;&emsp;&emsp;“(i) ‘$2,500’ shall be substituted for ‘$1,250’ in such section if such plan terminates during the 5-year period beginning on the first day of the first applicable plan year with respect to such plan, and
 
 &emsp;&emsp;&emsp;“(ii) such section shall be applied without regard to subparagraph (B) of section 8101(d)(2) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171, 29 U.S.C. 1306 note\] (relating to special rule for plans terminated in bankruptcy).
 
@@ -1190,11 +1278,9 @@ Extension of Special Rule for Additional Funding Requirements.—In the case of 
 
 Effective Date.—Except as otherwise provided in this section, the provisions of and amendments made by this section \[amending section 410 of this title and section 1322 of Title 29, Labor\] shall apply to plan years ending after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
+\[Pub. L. 110–458, title I, §126(b), Dec. 23, 2008, 122 Stat. 5116, provided that: “The amendment made by this section \[amending section 402(e)(4)(C) of Pub. L. 109–280, set out above\] shall apply to plan years beginning after December 31, 2007.”\]
+
 \[Pub. L. 110–28, title VI, §6614(b), May 25, 2007, 121 Stat. 181, provided that: “The amendment made by subsection (a) \[amending section 402(i)(1) of Pub. L. 109–280, set out above\] shall take effect as if included in section 402 of the Pension Protection Act of 2006 \[Pub. L. 109–280\].”\]
 
 \[Pub. L. 110–28, title VI, §6615(b), May 25, 2007, 121 Stat. 181, provided that: “The amendment made by this section \[amending section 402(a)(2) of Pub. L. 109–280, set out above\] shall take effect as if included in the provisions of the Pension Protection Act of 2006 \[Pub. L. 109–280\] to which such amendment relates.”\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
-
-<i><sup>2</sup></i><i> So in original. This title does not contain a section 206.</i>
 

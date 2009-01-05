@@ -4,7 +4,7 @@
 
 The Research Center shall—
 
-&emsp;(1) maintain published peer-review standards and standards for the conduct and evaluation of all research and development carried out under the auspices of the Research Center in accordance with this part;
+&emsp;(1) maintain published peer-review standards and standards for the conduct and evaluationof all research and development carried out under the auspices of the Research Center in accordance with this part;
 
 &emsp;(2) propose to the Director a research plan that—
 
@@ -86,7 +86,7 @@ Research carried out under subsection (a) of this section through contracts, gra
 
 #### (4) Scope
 
-&emsp;Support for a national research and development center shall be for a period of not more than 5 years, shall be of sufficient size and scope to be effective, and notwithstanding section 9534(b) of this title, may be renewed without competition for not more than 5 additional years if the Director, in consultation with the Research Commissioner and the Board, determines that the research of the national research and development center—
+&emsp;Support for a national research and development center shall be for a period of not morethan 5 years, shall be of sufficient size and scope to be effective, and notwithstanding section 9534(b) of this title, may be renewed without competition for not more than 5 additional years if the Director, in consultation with the Research Commissioner and the Board, determines that the research of the national research and development center—
 
 &emsp;&emsp;(A) continues to address priorities of the Institute; and
 

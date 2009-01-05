@@ -48,7 +48,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The archeological district shall be administered by the Secretary in accordance with this section, with laws applicable to Chickamauga and Chattanooga National Military Park, and with the laws generally applicable to units of the National Park System.
+&emsp;The archeological district shall be administered by the Secretary in accordance with thissection, with laws applicable to Chickamauga and Chattanooga National Military Park, and with the laws generally applicable to units of the National Park System.
 
 #### (2) Cooperative agreement
 

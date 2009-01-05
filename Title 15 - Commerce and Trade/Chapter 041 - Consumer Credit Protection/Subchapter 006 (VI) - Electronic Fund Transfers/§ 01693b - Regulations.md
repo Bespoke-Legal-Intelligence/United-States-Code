@@ -6,7 +6,7 @@ The Board shall prescribe regulations to carry out the purposes of this subchapt
 
 &emsp;(1) consult with the other agencies referred to in section 1693<i>o</i> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
 
-&emsp;(2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+&emsp;(2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking servicesamong large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
 
 &emsp;(3) to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
 
@@ -24,7 +24,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (1) In general
 
-&emsp;If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer's account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapterare made applicable to such persons and services.
+&emsp;If electronic fund transfer services are made available to consumers by a person other than a financial institution holding a consumer's account, the Board shall by regulation assure that the disclosures, protections, responsibilities, and remedies created by this subchapter are made applicable to such persons and services.
 
 #### (2) State and local government electronic benefit transfer systems
 

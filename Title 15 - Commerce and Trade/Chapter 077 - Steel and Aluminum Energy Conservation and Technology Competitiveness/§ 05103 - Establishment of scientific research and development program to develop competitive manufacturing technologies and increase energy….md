@@ -44,11 +44,13 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 &emsp;(G) The development of super-plastic steel processing.
 
-&emsp;(H) The development of advanced coatings for sheet steels.
+&emsp;(H) The development of advanced sheet and bar steels.
 
 &emsp;(I) The development of technologies and equipment related to the production of steel that enhance the protection of the environment and the safety and health of workers.
 
 &emsp;(J) Other steel technologies which, in the judgment of the Secretary, further the purposes of this chapter.
+
+&emsp;(K) The development of technologies which reduce greenhouse gas emissions.
 
 #### (2) Aluminum and other projects
 
@@ -70,13 +72,17 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
 
-(Pub. L. 100–680, §4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, §2106(a)(1), Oct. 24, 1992, 106 Stat. 3070.)
+(Pub. L. 100–680, §4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, §2106(a)(1), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, §602(b), May 8, 2008, 122 Stat. 853.)
 
 #### References in Text
 
 The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(1)(H). Pub. L. 110–229, §602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
+
+Subsec. (c)(1)(K). Pub. L. 110–229, §602(b)(2), added subpar. (K).
 
 1992—Subsec. (b)(5). Pub. L. 102–486 substituted “Industrial Technologies” for “Industrial Programs”.
 

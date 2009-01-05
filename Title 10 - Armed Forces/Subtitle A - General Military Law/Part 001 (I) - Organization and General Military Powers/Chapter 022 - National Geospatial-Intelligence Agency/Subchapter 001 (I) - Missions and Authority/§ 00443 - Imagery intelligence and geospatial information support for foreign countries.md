@@ -20,17 +20,17 @@ Accommodation Procurements.—The authority under this section may be exercised 
 
 (d)
 
-Coordination With Director of Central Intelligence.—The Director of the Agency shall coordinate with the Director of Central Intelligence any action under this section that involves imagery intelligence or intelligence products or involves providing support to an intelligence or security service of a foreign country.
+Coordination With Director of National Intelligence.—The Director of the Agency shall coordinate with the Director of National Intelligence any action under this section that involves imagery intelligence or intelligence products or involves providing support to an intelligence or security service of a foreign country.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2679; amended Pub. L. 105–85, div. A, title X, §1073(a)(7), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2679; amended Pub. L. 105–85, div. A, title X, §1073(a)(7), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, titleIX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(a)(11), (c)(1)(B), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(10), (b)(2), Oct. 14, 2008, 122 Stat. 4576.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–181, §931(c)(1)(B), and Pub. L. 110–417, §932(b)(2), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading.
+
+Pub. L. 110–181, §931(a)(11), and Pub. L. 110–417, §932(a)(10), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
 
 2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
 1997—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after “denied funds”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

@@ -126,7 +126,7 @@ Subsec. (c)(11). Pub. L. 100–647, §6134(a)(2), added par. (11).
 
 1986—Subsec. (b). Pub. L. 99–514, §123(b)(2), amended second sentence generally. Prior to amendment, second sentence read as follows: “The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are—
 
-&emsp;“(1) that portion of any scholarship or fellowship grant which is received by a nonresident alien individual who is temporarily present in the UnitedStates as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is not excluded from gross income under section 117(a)(1) solely by reason of section 117(b)(2)(B); and
+&emsp;“(1) that portion of any scholarship or fellowship grant which is received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, and which is not excluded from gross income under section 117(a)(1) solely by reason of section 117(b)(2)(B); and
 
 &emsp;“(2) amounts described in subparagraphs (A), (B), (C), and (D) of section 117(a)(2) which are received by any such nonresident alien individual and which are incident to a scholarship or fellowship grant to which section 117(a)(1) applies, but only to the extent such amounts are includable in gross income.”
 
@@ -202,7 +202,7 @@ Amendment by section 1001(d)(2)(A) of Pub. L. 100–647 effective, except as oth
 
 Amendment by section 123(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 1214(c)(3) of Pub. L. 99–514 applicable to payments made in a taxable year of thepayor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
+Amendment by section 1214(c)(3) of Pub. L. 99–514 applicable to payments made in a taxable year of the payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
 
 Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -210,7 +210,7 @@ Amendment by section 1810(d)(3)(D) of Pub. L. 99–514 effective, except as othe
 
 Amendment by section 42(a)(13) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
-Amendment by section 127(e)(1) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
+Amendment by section 127(e)(1) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxableyears ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
 Amendment by section 474(r)(29)(G), (H) of Pub. L. 98–369 not applicable with respect to obligations issued before Jan. 1, 1984, see section 475(b) of Pub. L. 98–369, set out as a note under section 33 of this title.
 

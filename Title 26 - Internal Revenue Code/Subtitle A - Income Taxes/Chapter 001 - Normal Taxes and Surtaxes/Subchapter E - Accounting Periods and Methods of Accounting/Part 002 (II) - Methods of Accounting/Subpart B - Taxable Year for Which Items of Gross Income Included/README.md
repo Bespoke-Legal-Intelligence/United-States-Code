@@ -17,12 +17,15 @@ Subpart B—Taxable Year for Which Items of Gross Income Included
 | [455\.](%C2%A7%2000455%20-%20Prepaid%20subscription%20income.md) | Prepaid subscription income. |
 | [456\.](%C2%A7%2000456%20-%20Prepaid%20dues%20income%20of%20certain%20membership%20organizations.md) | Prepaid dues income of certain membership organizations. |
 | [457\.](%C2%A7%2000457%20-%20Deferred%20compensation%20plans%20of%20State%20and%20local%20governments%20and%20tax-exempt%20organizations.md) | Deferred compensation plans of State and local governments and tax-exempt organizations. |
+| [457A.](%C2%A7%2000457A%20-%20Nonqualified%20deferred%20compensation%20from%20certain%20tax%20indifferent%20parties.md) | Nonqualified deferred compensation from certain tax indifferent parties. |
 | [458\.](%C2%A7%2000458%20-%20Magazines%2C%20paperbacks%2C%20and%20records%20returned%20after%20the%20close%20of%20the%20taxable%20year.md) | Magazines, paperbacks, and records returned after the close of the taxable year. |
 | [460\.](%C2%A7%2000460%20-%20Special%20rules%20for%20long-term%20contracts.md) | Special rules for long-term contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+Pub. L. 110–343, div. C, title VIII, §801(c), Oct. 3, 2008, 122 Stat. 3931, added item 457A.
 
 1988—Pub. L. 100–647, title V, §5076(b)(2), Nov. 10, 1988, 102 Stat. 3683, struck out “of real property” after “rules for nondealers” in item 453A.
 
@@ -59,5 +62,6 @@ Pub. L. 99–514, title VIII, §§804(c), 811(b), Oct. 22, 1986, 100 Stat. 2361,
 - [&sect; 00455 - Prepaid subscription income](%C2%A7%2000455%20-%20Prepaid%20subscription%20income.md)
 - [&sect; 00456 - Prepaid dues income of certain membership organizations](%C2%A7%2000456%20-%20Prepaid%20dues%20income%20of%20certain%20membership%20organizations.md)
 - [&sect; 00457 - Deferred compensation plans of State and local governments and tax-exempt organizations](%C2%A7%2000457%20-%20Deferred%20compensation%20plans%20of%20State%20and%20local%20governments%20and%20tax-exempt%20organizations.md)
+- [&sect; 00457A - Nonqualified deferred compensation from certain tax indifferent parties](%C2%A7%2000457A%20-%20Nonqualified%20deferred%20compensation%20from%20certain%20tax%20indifferent%20parties.md)
 - [&sect; 00458 - Magazines, paperbacks, and records returned after the close of the taxable year](%C2%A7%2000458%20-%20Magazines%2C%20paperbacks%2C%20and%20records%20returned%20after%20the%20close%20of%20the%20taxable%20year.md)
 - [&sect; 00460 - Special rules for long-term contracts](%C2%A7%2000460%20-%20Special%20rules%20for%20long-term%20contracts.md)

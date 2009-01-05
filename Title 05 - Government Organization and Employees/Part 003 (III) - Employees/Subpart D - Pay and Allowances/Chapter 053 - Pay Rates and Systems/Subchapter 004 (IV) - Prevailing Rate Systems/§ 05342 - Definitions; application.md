@@ -46,7 +46,7 @@
 
 (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8,1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### Prior Provisions
 
@@ -56,9 +56,9 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 #### Amendments
 
-2004—Subsec. (a)(1)(H). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+2008—Subsec. (a)(1)(K). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2003—Subsec. (a)(1)(K). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2004—Subsec. (a)(1)(H). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Subsec. (a)(1). Pub. L. 104–201, §3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 

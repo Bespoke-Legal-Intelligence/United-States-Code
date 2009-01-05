@@ -10,7 +10,17 @@ Not later than 90 days after May 27, 2003, the President shall specify the neces
 
 There is established in the general fund of the Treasury a separate account which shall be known as the “Activities to Combat HIV/AIDS Globally Fund” and which shall be administered by the Coordinator of United States Government Activities to Combat HIV/AIDS Globally. There shall be deposited into the Fund all amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, except for amounts appropriated for United States contributions to the Global Fund.
 
-(Pub. L. 108–25, title I, §102, May 27, 2003, 117 Stat. 721.)
+#### (d) Sense of Congress
+
+It is the sense of Congress that—
+
+&emsp;(1) full-time country level coordinators, preferably with management experience, should head each HIV/AIDS country team for United States missions overseeing significant HIV/AIDS programs;
+
+&emsp;(2) foreign service nationals provide critically important services in the design and implementation of United States country-level HIV/AIDS programs and their skills and experience as public health professionals should be recognized within hiring and compensation practices; and
+
+&emsp;(3) staffing levels for United States country-level HIV/AIDS teams should be adequately maintained to fulfill oversight and other obligations of the positions.
+
+(Pub. L. 108–25, title I, §102, May 27, 2003, 117 Stat. 721; Pub. L. 110–293, title I, §103, July 30, 2008, 122 Stat. 2935.)
 
 #### References in Text
 
@@ -19,6 +29,10 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### Codification
 
 Section is comprised of section 102 of Pub. L. 108–25. Subsec. (a) of section 102 of Pub. L. 108–25 amended section 2651a of this title.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–293 added subsec. (d).
 
 #### Delegation of Functions
 

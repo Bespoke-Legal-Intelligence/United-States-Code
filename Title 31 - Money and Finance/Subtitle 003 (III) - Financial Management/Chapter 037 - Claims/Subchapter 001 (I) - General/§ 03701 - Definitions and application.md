@@ -192,7 +192,7 @@ Subsec. (c). Pub. L. 104–134, §31001(d)(1), amended subsec. (c) generally. Pr
 
 Subsec. (d). Pub. L. 104–316 substituted “Sections 3711(e)” for “Sections 3711(f)” in introductory provisions.
 
-Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.),except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States.”
+Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States.”
 
 Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (f).
 

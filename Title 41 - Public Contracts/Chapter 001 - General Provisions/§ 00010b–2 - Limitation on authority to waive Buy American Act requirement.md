@@ -26,6 +26,8 @@ Pub. L. 103–160, §849(c), (d), which comprises this section, was formerly set
 
 Provisions similar to those in this section and section 10b–3 of this title were contained in the following acts:
 
+Pub. L. 110–329, div. C, title VIII, §8030, Sept. 30, 2008, 122 Stat. 3627.
+
 Pub. L. 110–116, div. A, title VIII, §8029, Nov. 13, 2007, 121 Stat. 1321.
 
 Pub. L. 109–289, div. A, title VIII, §8027, Sept. 29, 2006, 120 Stat. 1279.

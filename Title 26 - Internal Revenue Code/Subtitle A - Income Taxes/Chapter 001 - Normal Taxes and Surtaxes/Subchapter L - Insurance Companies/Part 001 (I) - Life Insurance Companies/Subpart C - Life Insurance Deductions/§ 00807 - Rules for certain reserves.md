@@ -148,7 +148,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) When rate determined
 
-&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall bedetermined as of the beginning of the calendar year in which the contract was issued.
 
 #### (5) Prevailing commissioners’ standard tables
 

@@ -22,17 +22,17 @@
 
 &emsp;(B) holds a position in or under an agency which is described in paragraph (2).
 
-(2) An agency described in this paragraph is any agency which, for purposes of the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance.
+(2) An agency described in this paragraph is any agency which, for purposes of applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance.
 
 (3)(A) The Office of Personnel Management and the Office of Management and Budget jointly shall promulgate such regulations as may be necessary to carry out this subsection, including the criteria and procedures in accordance with which any determinations under this subsection shall be made.
 
-(B) An agency's certification under this subsection shall be for a period of 2 calendar years,except that such certification may be terminated at any time, for purposes of either or both of those years, upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
+(B) The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
 
 (C) Any certification or decertification under this subsection shall be made by the Office of Personnel Management, with the concurrence of the Office of Management and Budget.
 
 (4) Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection with respect to employees within the judicial branch shall be the responsibility of the Director of the Administrative Office of the United States Courts. However, the regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297; Pub. L. 110–372, §3(a), Oct. 8, 2008, 122 Stat. 4045.)
 
 #### References in Text
 
@@ -41,6 +41,10 @@ Level I of the Executive Schedule, referred to in subsecs. (a)(1) and (d)(1), is
 Section 5757, referred to in subsec. (a)(2)(B), probably means the section 5757 of this title added by Pub. L. 107–273, relating to extended assignment incentive.
 
 #### Amendments
+
+2008—Subsec. (d)(2). Pub. L. 110–372, §3(a)(1), substituted “applying the limitation in the calendar year involved, has a performance appraisal system certified under this subsection as making, in its design and application, meaningful distinctions based on relative performance” for “the calendar year involved, has been certified under this subsection as having a performance appraisal system which (as designed and applied) makes meaningful distinctions based on relative performance”.
+
+Subsec. (d)(3)(B). Pub. L. 110–372, §3(a)(2), substituted “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months” for “An agency's certification under this subsection shall be for a period of 2 calendar years” and struck out “, for purposes of either or both of those years,” after “time”.
 
 2002—Subsec. (a)(1). Pub. L. 107–296, §1322(b)(1), inserted “or as otherwise provided under subsection (d),” after “under law,”.
 
@@ -58,6 +62,10 @@ Subsec. (b)(3). Pub. L. 102–77, §2(4), struck out par. (3) which read as foll
 
 1982—Subsec. (a). Pub. L. 97–258 substituted “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15” for “section 665”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–372, §3(c), Oct. 8, 2008, 122 Stat. 4046, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 8, 2008\].”
+
 #### Effective Date of 2002 Amendments
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -67,6 +75,42 @@ Pub. L. 107–273, div. A, title II, §207(c), Nov. 2, 2002, 116 Stat. 1780, pro
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+
+#### Extension of Certification
+
+Pub. L. 110–372, §3(b), Oct. 8, 2008, 122 Stat. 4045, provided that:
+
+“(1)
+
+Extension to 2009.—
+
+&emsp;“(A)
+
+In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act \[Oct. 8, 2008\] and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
+
+&emsp;“(B)
+
+Limitation.—The expiration of any extension under this paragraph shall be not later than the later of—
+
+&emsp;&emsp;“(i) June 30, 2009; or
+
+&emsp;&emsp;“(ii) the first anniversary of the date of the certification.
+
+“(2)
+
+Extension to 2010.—
+
+&emsp;“(A)
+
+In general.—For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment and scheduled to expire at the end of calendar year 2009, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
+
+&emsp;“(B)
+
+Limitation.—The expiration of any extension under this paragraph shall be not later than the later of—
+
+&emsp;&emsp;“(i) June 30, 2010; or
+
+&emsp;&emsp;“(ii) the second anniversary of the date of the certification.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

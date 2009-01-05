@@ -2,7 +2,7 @@
 
 #### (a) Establishment and administration
 
-There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
+There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the “Fund”).The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this subchapter.
 
 #### (b) Expenditure of Fund; private settlement lands; economic development plan; acquisition of land and natural resources
 
@@ -12,7 +12,7 @@ There is hereby established in the United States Treasury an account to be known
 
 (3)(A) The Secretary shall disburse all or part of the Fund together with any and all income accruing to such Fund (excepting the amount reserved in paragraph (2)) according to a plan to promote the economic development of the Tribe.
 
-(B) The Tribe shall submit an economic development plan to the Secretary and the Secretary shall approve such plan within sixty days of its submission if he finds that it is reasonably related to the economic development of the Tribe. If the Secretary does not approve such plan, he shall, at the time of his decision, set forth inwriting and with particularity, the reasons for his disapproval.
+(B) The Tribe shall submit an economic development plan to the Secretary and the Secretary shall approve such plan within sixty days of its submission if he finds that it is reasonably related to the economic development of the Tribe. If the Secretary does not approve such plan, he shall, at the time of his decision, set forth in writing and with particularity, the reasons for his disapproval.
 
 (C) The Secretary may not agree to terms which provide for the investment of the Fund in a manner inconsistent with section 162a of this title, unless the Tribe first submits a specific waiver of liability on the part of the United States for any loss which may result from such an investment.
 

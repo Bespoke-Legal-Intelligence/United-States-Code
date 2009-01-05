@@ -44,11 +44,11 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 “(a) This section \[enacting and amending provisions set out as notes below\] shall be referred to as the ‘Interstate 90 Land Exchange Amendment’.
 
-“(e) Section 604(b) \[section 101(e) \[title VI, §604(b)\] of Pub. L. 105–277, set out below\] is further amended by inserting the following before the colon: ‘except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W1/2W1/2 of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of 16, W.M., which shall be retained by the United States’. The Appraisal shall be adjusted by subtracting the values determined for Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of Section 16, W.M. during the Appraisal process in the context of the whole estate to be conveyed.
+“(e) Section 604(b) \[section 101(e) \[title VI, §604(b)\] of Pub. L. 105–277, set out below\] is further amended by inserting the following before the colon: ‘except Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, and Township 21 North, Range 14 East, W.M., W1/2W1/2 of Section 16, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of 16, W.M., which shall be retained by theUnited States’. The Appraisal shall be adjusted by subtracting the values determined for Township 19 North, Range 10 East, W.M., Section 4, Township 20 North, Range 10 East, W.M., Section 32, Township 12 North, Range 7 East, Sections 4 and 5, W.M., Township 13 North, Range 7 East, Sections 32 and 33, W.M., Township 8 North, Range 4 East, Section 17 and the S1/2 of Section 16, W.M. during the Appraisal process in the context of the whole estate to be conveyed.
 
 “(f) After adjustment of the Appraisal, the values of the offered and selected lands, including the offered lands held in escrow, shall be equalized as follows:
 
-&emsp;“(1) the appraised value of the offered lands, as such lands and appraised value have been adjusted hereby, minus the appraised value of the offered lands to be placed into escrow, shall be compared to the appraised value of the selected lands, as such lands andappraised value have been adjusted hereby, and the Secretary shall equalize such values by the payment of cash to Plum Creek at the time that deeds are exchanged, such cash to come from currently appropriated funds, or, if necessary, by reprogramming; and
+&emsp;“(1) the appraised value of the offered lands, as such lands and appraised value have been adjusted hereby, minus the appraised value of the offered lands to be placed into escrow, shall be compared to the appraised value of the selected lands, as such lands and appraised value have been adjusted hereby, and the Secretary shall equalize such values by the payment of cash to Plum Creek at the time that deeds are exchanged, such cash to come from currently appropriated funds, or, if necessary, by reprogramming; and
 
 &emsp;“(2) the Secretary shall compensate Plum Creek for the lands placed into escrow, based upon the values determined for each such parcel during the Appraisal process in the context of the whole estate to be conveyed, through the following, including any combination thereof:
 
@@ -170,7 +170,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 “(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacentAlpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -188,7 +188,7 @@ In general.—The values of the offered and selected land—
 
 &emsp;“(2)
 
-Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and bestuse of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6).
+Appraisal assumption.—In order to ensure the equitable and uniform appraisal of both the offered and selected land directed for exchange by this Act, all appraisals shall determine the highest and best use of the offered and selected land in accordance with applicable provisions of the Washington State Forest Practices Act and rules and regulations thereunder, including alternative measures for protecting critical habitat pursuant to a habitat conservation plan as provided in Washington Administrative Code 222–16–080–(6).
 
 &emsp;“(3)
 
@@ -312,7 +312,7 @@ Modification of boundaries.—
 
 &emsp;&emsp;“(C)
 
-Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 \[act Mar. 1,1911, ch. 186, 36 Stat. 961, see Tables for classification\] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
+Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 \[act Mar. 1, 1911, ch. 186, 36 Stat. 961, see Tables for classification\] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
 
 &emsp;“(2)
 
@@ -394,13 +394,13 @@ Other Agreements.—Nothing in this Act shall be construed to prohibit the Secre
 
 #### “SEC. 608. TIETON RIVER STUDY.
 
-“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase Plum Creek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
+“The Secretary is authorized and directed to consult with Plum Creek concerning opportunities for the United States to acquire by exchange or purchase PlumCreek lands along the Tieton River in Township 14 North, Range 15 East, Willamette Meridian.
 
 #### “SEC. 609. FUTURE LAND EXCHANGE OPPORTUNITY.
 
 “(a)
 
-Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain andGoat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve.
+Finding.—The Congress finds that certain lands which were identified for exchange to the United States in the I–90 Land Exchange process have been, or may be, deleted from the final exchange under this Act due to value equalization or other reasons. However, some or all of such deleted lands, or other Plum Creek lands, may possess attributes that merit their conveyance to the United States in a follow-up land exchange, including lands in or around the Carbon River, the Yakima River, the Pacific Crest Trail, Watch Mountain and Goat Mountain on the Gifford Pinchot National Forest, the Green River and the Manastash late successional reserve.
 
 “(b)
 

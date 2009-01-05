@@ -42,7 +42,7 @@ For the purpose of this section, a “billing error” consists of any of the fo
 
 #### (c) Action by creditor to collect amount or any part thereof regarded by obligor to be a billing error
 
-For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
+For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges onamounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
 
 &emsp;(1) the obligor's account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a) of this section, and
 

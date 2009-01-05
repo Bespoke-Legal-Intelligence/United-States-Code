@@ -16,7 +16,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) reviewing and acting upon any application for such a permit,
 
-&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
+&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs orother costs associated with any enforcement action),
 
 &emsp;&emsp;(iii) emissions and ambient monitoring,
 
@@ -64,7 +64,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(F) assure that no permit will be issued if the Administrator objects to its issuance in a timely manner under this subchapter.
 
-&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permit action by the applicant, any person who participated in the public comment process, and any other person who could obtain judicial review of that action under applicable law.
+&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permit action by the applicant, any person who participated in the public comment process, andany other person who could obtain judicial review of that action under applicable law.
 
 &emsp;(7) To ensure against unreasonable delay by the permitting authority, adequate authority and procedures to provide that a failure of such permitting authority to act on a permit application or permit renewal application (in accordance with the time periods specified in section 7661b of this title or, as appropriate, subchapter IV–A of this chapter) shall be treated as a final permit action solely for purposes of obtaining judicial review in State court of an action brought by any person referred to in paragraph (6) to require that action be taken by the permitting authority on such application without additional delay.
 
@@ -88,7 +88,7 @@ A single permit may be issued for a facility with multiple sources.
 
 (C) The sanctions under section 7509(b)(2) of this title shall not apply pursuant to this paragraph in any area unless the failure to submit or the disapproval referred to in subparagraph (A) or (B) relates to an air pollutant for which such area has been designated a nonattainment area (as defined in part D of subchapter I of this chapter).
 
-(3) If a program meeting the requirements of this subchapter has not been approved in wholefor any State, the Administrator shall, 2 years after the date required for submission of such a program under paragraph (1), promulgate, administer, and enforce a program under this subchapter for that State.
+(3) If a program meeting the requirements of this subchapter has not been approved in whole for any State, the Administrator shall, 2 years after the date required for submission of such a program under paragraph (1), promulgate, administer, and enforce a program under this subchapter for that State.
 
 #### (e) Suspension
 

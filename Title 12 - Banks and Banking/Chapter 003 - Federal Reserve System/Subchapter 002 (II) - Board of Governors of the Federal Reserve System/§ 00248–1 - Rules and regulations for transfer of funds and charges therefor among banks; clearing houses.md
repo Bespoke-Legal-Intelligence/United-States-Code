@@ -6,11 +6,11 @@ The Board of Governors of the Federal Reserve System shall make and promulgate f
 
 #### Codification
 
-Section is comprised of fourteenth par. of section 16 of act Dec. 23, 1913, which was formerly classified to section 248(<i>o</i>) of this title. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of the thirteenth par. (formerly the fourteenth par.) of section 16 of act Dec. 23, 1913, which was formerly classified to section 248(<i>o</i>) of this title. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 
-1980—Pub. L. 96–221 substituted “depository institutions” for “its member banks”.
+1980—Pub. L. 96–221, which directed amendment of “\[t\]he fourteenth paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 248(<i>o</i>))” by substituting “depository institutions” for “its member banks”, was executed by making the substitution in this section to reflect the probable intent of Congress.
 
 #### Change of Name
 

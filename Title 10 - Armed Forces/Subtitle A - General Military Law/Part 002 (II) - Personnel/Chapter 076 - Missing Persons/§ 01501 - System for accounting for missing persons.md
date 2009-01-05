@@ -44,7 +44,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 &emsp;(B) whose status is undetermined or who is unaccounted for.
 
-(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
+(2) Section 1502 of this title applies in the case of any other person who is a citizen of theUnited States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
 
 &emsp;(A) who serves in direct support of, or accompanies, the armed forces in the field under orders and becomes involuntarily absent as a result of a hostile action or under circumstances suggesting that the involuntary absence is a result of a hostile action; and
 
@@ -118,7 +118,7 @@ Intelligence Analysis.—The Director of Central Intelligence, in consultation w
 
 “(b)
 
-Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary ofDefense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
+Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defensetakes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 

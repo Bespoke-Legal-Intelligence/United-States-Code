@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) the actions taken by past Secretaries of the Interior and past Congresses to preserve for the benefit, education and inspiration of present and future generations of Americans the home, property, birthplaces and burial site of John Adams, John Quincy Adams, and Abigail Adams, have resulted in a multi-site unit of the National Park System with no overarching enabling or authorizing legislation; and
 
-&emsp;(7) that the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
+&emsp;(7) that <sup>1</sup> the sites and resources associated with John Adams, second President of the United States, his wife Abigail Adams, and John Quincy Adams, sixth President of the United States, require recognition as a national historical park in the National Park System.
 
 #### (b) Purpose
 
@@ -35,4 +35,6 @@ Public Law 96–435, referred to in subsec. (a)(5), is Pub. L. 96–435, Oct. 10
 #### Short Title
 
 Pub. L. 105–342, §1, Nov. 2, 1998, 112 Stat. 3200, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Adams National Historical Park Act of 1998’.”
+
+<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
 

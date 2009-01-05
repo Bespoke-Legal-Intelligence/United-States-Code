@@ -146,7 +146,7 @@ Consultation of Secretary of Housing and Urban Development with Administrator of
 
 #### State Constitutional and Legal Limits Upon Interest Chargeable on Loan or Mortgage
 
-Any loan or mortgage secured by a one- to four-family dwelling and insured, guaranteed, or made underthis chapter not to be covered by any State constitutional and legal limit upon amount of interest charged, taken, etc., see section 1709–1a of Title 12, Banks and Banking.
+Any loan or mortgage secured by a one- to four-family dwelling and insured, guaranteed, or made under this chapter not to be covered by any State constitutional and legal limit upon amount of interest charged, taken, etc., see section 1709–1a of Title 12, Banks and Banking.
 
 
 ---

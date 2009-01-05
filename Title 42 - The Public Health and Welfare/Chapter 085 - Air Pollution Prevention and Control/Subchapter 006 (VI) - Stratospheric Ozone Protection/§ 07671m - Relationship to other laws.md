@@ -2,7 +2,7 @@
 
 #### (a) State laws
 
-Notwithstanding section 7416 of this title, during the 2-year period beginning on November 15, 1990, no State or local government may enforceany requirement concerning the design of any new or recalled appliance for the purpose of protecting the stratospheric ozone layer.
+Notwithstanding section 7416 of this title, during the 2-year period beginning on November 15, 1990, no State or local government may enforce any requirement concerning the design of any new or recalled appliance for the purpose of protecting the stratospheric ozone layer.
 
 #### (b) Montreal Protocol
 
@@ -14,7 +14,7 @@ Upon November 15, 1990, the President shall—
 
 &emsp;(1) prohibit the export of technologies used to produce a class I substance;
 
-&emsp;(2) prohibit direct or indirect investments by any person in facilities designed to produce a class I or class II substance in nations that are not parties to the Montreal Protocol; and
+&emsp;(2) prohibit direct or indirect investments by any person in facilities designed to produce aclass I or class II substance in nations that are not parties to the Montreal Protocol; and
 
 &emsp;(3) direct that no agency of the government provide bilateral or multilateral subsidies, aids, credits, guarantees, or insurance programs, for the purpose of producing any class I substance.
 

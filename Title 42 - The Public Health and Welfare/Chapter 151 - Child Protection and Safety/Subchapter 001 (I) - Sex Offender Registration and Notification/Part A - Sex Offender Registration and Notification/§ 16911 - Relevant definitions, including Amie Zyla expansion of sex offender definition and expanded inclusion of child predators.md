@@ -12,7 +12,7 @@ In this subchapter the following definitions apply:
 
 #### (3) Tier II sex offender
 
-&emsp;The term “tier II sex offender” means a sex offender other than a tier III sex offenderwhose offense is punishable by imprisonment for more than 1 year and—
+&emsp;The term “tier II sex offender” means a sex offender other than a tier III sex offender whose offense is punishable by imprisonment for more than 1 year and—
 
 &emsp;&emsp;(A) is comparable to or more severe than the following offenses, when committed against a minor, or an attempt or conspiracy to commit such an offense against a minor:
 
@@ -146,7 +146,7 @@ In this subchapter the following definitions apply:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–248, July27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should follow “18”.</i>
 

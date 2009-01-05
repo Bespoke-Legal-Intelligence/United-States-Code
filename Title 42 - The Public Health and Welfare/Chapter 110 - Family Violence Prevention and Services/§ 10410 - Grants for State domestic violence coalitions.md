@@ -66,7 +66,7 @@ The Secretary shall award grants for the funding of State domestic violence coal
 
 &emsp;&emsp;(I) the possibility of permitting domestic violence victims to remove children from the State when the safety of the children or the victim is at risk;
 
-&emsp;(4) conduct public education campaigns regarding domestic violence through the use of public service announcements and informative materials that are designed for print media, billboards, public transit advertising, electronic broadcast media, and other vehicles for information that shall inform the public concerning domestic violence, including information aimed at underserved racial, ethnic or language-minority populations; and
+&emsp;(4) conduct public education campaigns regarding domestic violence through the use ofpublic service announcements and informative materials that are designed for print media, billboards, public transit advertising, electronic broadcast media, and other vehicles for information that shall inform the public concerning domestic violence, including information aimed at underserved racial, ethnic or language-minority populations; and
 
 &emsp;(5) participate in planning and monitoring of the distribution of grants and grant funds to their State under section 10402(a) of this title.
 

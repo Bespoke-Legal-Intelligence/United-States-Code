@@ -2,7 +2,7 @@
 
 #### (a) Conduct of program
 
-(1) As part of the stockpile stewardship program established pursuant to section 2521 of this title, the Secretary of Energy shall conduct a stockpile stewardship recruitment and training program at the Sandia National Laboratories, the Lawrence Livermore National Laboratory, and the Los Alamos National Laboratory.
+(1) As part of the stockpile stewardship program established pursuant to section 2521 of this title, the Secretary of Energy shall conduct astockpile stewardship recruitment and training program at the Sandia National Laboratories, the Lawrence Livermore National Laboratory, and the Los Alamos National Laboratory.
 
 (2) The recruitment and training program shall be conducted in coordination with the Chairman of the Joint Nuclear Weapons Council established by section 179 of title 10 and the directors of the laboratories referred to in paragraph (1).
 
@@ -54,7 +54,7 @@ Section 3101(a)(1) of the National Defense Authorization Act for Fiscal Year 199
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–136, §3141(i)(9)(D)(i), substituted “section 2521 of this title” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1946; 42 U.S.C. 2121 note)”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §3141(i)(9)(D)(i), substituted “section 2521 of this title” for “section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1946; 42 U.S.C. 2121 note)”.
 
 Subsec. (b)(2). Pub. L. 108–136, §3141(i)(9)(D)(ii), inserted “of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337)” after “section 3101(a)(1)”.
 

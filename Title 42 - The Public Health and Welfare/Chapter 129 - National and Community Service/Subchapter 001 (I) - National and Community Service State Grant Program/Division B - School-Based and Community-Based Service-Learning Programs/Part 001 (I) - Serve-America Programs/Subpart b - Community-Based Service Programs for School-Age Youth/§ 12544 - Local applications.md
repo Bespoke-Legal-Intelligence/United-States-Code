@@ -2,7 +2,7 @@
 
 #### (a) Application to Corporation to make grants for community-based service programs
 
-To be eligible to receive a grant from the Corporation under section 12542(a) of this title tomake grants under section 12542(b)(1) of this title, a grantmaking entity shall prepare, submit to the Corporation, and obtain approval of, an application that proposes a community-based service program to be carried out through grants made to qualified organizations. Such application shall be submitted at such time and in such manner, and shall contain such information, as the Chief Executive Officer may reasonably require.
+To be eligible to receive a grant from the Corporation under section 12542(a) of this title to make grants under section 12542(b)(1) of this title, a grantmaking entity shall prepare, submit to the Corporation, and obtain approval of, an application that proposes a community-based service program to be carried out through grants made to qualified organizations. Such application shall be submitted at such time and in such manner, and shall contain such information, as the Chief Executive Officer may reasonably require.
 
 #### (b) Direct application to Corporation to carry out community-based service programs
 

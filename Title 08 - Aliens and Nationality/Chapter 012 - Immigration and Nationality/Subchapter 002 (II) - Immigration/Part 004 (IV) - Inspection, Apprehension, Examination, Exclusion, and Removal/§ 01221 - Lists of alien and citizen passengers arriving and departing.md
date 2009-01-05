@@ -60,7 +60,7 @@ In this section, the term “United States border officer” means, with respect
 
 The Attorney General may authorize immigration officers to record the following information regarding every resident person leaving the United States by way of the Canadian or Mexican borders for permanent residence in a foreign country: Names, age, and sex; whether married or single; calling or occupation; whether able to read or write; nationality; country of birth; country of which citizen or subject; race; last permanent residence in the United States; intended future permanent residence; and time and port of last arrival in the United States; and if a United States citizen or national, the facts on which claim to that status is based.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §231, 66 Stat. 195; Pub. L. 97–116, §18(g), Dec. 29, 1981, 95 Stat.1620; Pub. L. 101–649, title V, §543(a)(1), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 102–232, title III, §306(c)(4)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622; Pub. L. 107–77, title I, §115, Nov. 28, 2001, 115 Stat. 768; Pub. L. 107–173, title IV, §402(a), May 14, 2002, 116 Stat. 557.)
+(June 27, 1952, ch. 477, title II, ch. 4, §231, 66 Stat. 195; Pub. L. 97–116, §18(g), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 101–649, title V, §543(a)(1), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 102–232, title III, §306(c)(4)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622; Pub. L. 107–77, title I, §115, Nov. 28, 2001, 115 Stat. 768; Pub. L. 107–173, title IV, §402(a), May 14, 2002, 116 Stat. 557.)
 
 #### Amendments
 

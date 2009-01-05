@@ -24,7 +24,7 @@ Except as otherwise specified in section 2406 of this title and notwithstanding 
 
 Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, provided:
 
-By the authority vested in me as President and as Commander in Chief of the Armed Forces of the UnitedStates of America, with recognition of the crucial importance to national security of the Naval Nuclear Propulsion Program, and for the purpose of preserving the basic structure, policies, and practices developed for this Program in the past and assuring that the Program will continue to function with excellence, it is hereby ordered as follows:
+By the authority vested in me as President and as Commander in Chief of the Armed Forces of the United States of America, with recognition of the crucial importance to national security of the Naval Nuclear Propulsion Program, and for the purpose of preserving the basic structure, policies, and practices developed for this Program in the past and assuring that the Program will continue to function with excellence, it is hereby ordered as follows:
 
 Section 1. The Naval Nuclear Propulsion Program is an integrated program carried out by two organizational units, one in the Department of Energy and the other in the Department of the Navy.
 

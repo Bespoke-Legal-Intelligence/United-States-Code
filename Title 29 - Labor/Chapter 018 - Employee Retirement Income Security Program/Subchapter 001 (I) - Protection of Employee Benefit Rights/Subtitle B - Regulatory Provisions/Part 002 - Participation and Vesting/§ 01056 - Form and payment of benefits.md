@@ -68,7 +68,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 (E)(i) A domestic relations order shall not be treated as failing to meet the requirements of clause (i) of subparagraph (D) solely because such order requires that payment of benefits be made to an alternate payee—
 
-&emsp;(I) in the case of any payment before a participant has separated from service, on orafter the date on which the participant attains (or would have attained) the earliest retirement age,
+&emsp;(I) in the case of any payment before a participant has separated from service, on or after the date on which the participant attains (or would have attained) the earliest retirement age,
 
 &emsp;(II) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
@@ -210,7 +210,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitledto an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
+&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
 
 &emsp;&emsp;&emsp;(i) is less than 60 percent, or
 
@@ -222,9 +222,9 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the occurrence referred to in subparagraph (A), and
 
-&emsp;&emsp;&emsp;(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in a funding target attainment percentage of 60 percent.
+&emsp;&emsp;&emsp;(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
-#### (C) Unpredictable contingent event
+#### (C) Unpredictable contingent event benefit
 
 &emsp;&emsp;For purposes of this paragraph, the term “unpredictable contingent event benefit” means any benefit payable solely by reason of—
 
@@ -298,6 +298,8 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(iii) any other payment specified by the Secretary of the Treasury by regulations.
 
+> &emsp;&emsp;Such term shall not include the payment of a benefit which under section 1053(e) of this title may be immediately distributed without the consent of the participant.
+
 #### (4) Limitation on benefit accruals for plans with severe funding shortfalls
 
 #### (A) In general
@@ -338,7 +340,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (iv) Release of security
 
-&emsp;&emsp;&emsp;The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the funding target attainment percentage.
+&emsp;&emsp;&emsp;The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at such time as the Secretary of the Treasury may prescribe in regulations, including regulations for partial releases of the security by reason of increases in the adjusted funding target attainment percentage.
 
 #### (B) Prefunding balance or funding standard carryover balance may not be used
 
@@ -410,7 +412,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to this subparagraph and without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
+&emsp;&emsp;&emsp;In the case of a plan for any plan year, if the funding target attainment percentage is 100 percent or more (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title), the funding target attainment percentage for purposes of subparagraphs (A) and (B) shall be determined without regard to such reduction.
 
 #### (ii) Transition rule
 
@@ -440,13 +442,17 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to any plan year after 2008 unless the funding target attainment percentage (determined without regard to this subparagraph) of the plan for each preceding plan year after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
+&emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to any plan year beginning after 2008 unless the funding target attainment percentage (determined without regard to the reduction in the value of assets under section 1083(f)(4) of this title) of the plan for each preceding plan year beginning after 2007 was not less than the applicable percentage with respect to such preceding plan year determined under clause (ii).
 
-#### (10) Special rule for 2008
+#### (10) Secretarial authority for plans with alternate valuation date
+
+&emsp;In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
+
+#### (11) Special rule for 2008
 
 &emsp;For purposes of this subsection, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary of the Treasury may provide.
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097.)
 
 #### References in Text
 
@@ -457,6 +463,18 @@ The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29,
 This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (g)(1)(B)(ii). Pub. L. 110–458, §101(c)(1)(B), substituted “an adjusted funding” for “a funding”.
+
+Subsec. (g)(1)(C). Pub. L. 110–458, §101(c)(1)(C), inserted “benefit” after “event” in heading.
+
+Subsec. (g)(3)(E). Pub. L. 110–458, §101(c)(1)(D), inserted concluding provisions.
+
+Subsec. (g)(5)(A)(iv). Pub. L. 110–458, §101(c)(1)(E), inserted “adjusted” before “funding”.
+
+Subsec. (g)(9)(C). Pub. L. 110–458, §101(c)(1)(F), in cl. (i), struck out “without regard to this subparagraph and” before “without regard to the reduction” and, in cl. (iii), substituted “without regard to the reduction in the value of assets under section 1083(f)(4) of this title” for “without regard to this subparagraph” and inserted “beginning” before “after” in two places.
+
+Subsec. (g)(10), (11). Pub. L. 110–458, §101(c)(1)(G), added par. (10) and redesignated former par. (10) as (11).
 
 2006—Subsec. (e)(1). Pub. L. 109–280, §107(a)(9), substituted “1083(j)(4)” for “1082(d)” and “1083(j)(4)(E)(i)” for “1082(e)(5)”.
 
@@ -480,7 +498,7 @@ Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted “such Act�
 
 1986—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted “A” for “In the case of any payment before a participant has separated from service, a” in introductory provisions and inserted “in the case of any payment before a participant has separated from service,” in subcl. (I).
 
-Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, the term ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
+Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, theterm ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
 
 Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not be treated as a spouse of the participant for such purposes)”.
 
@@ -503,6 +521,10 @@ Subsec. (d)(3)(M). Pub. L. 99–514, §1898(c)(5), added subpar. (M).
 Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) as (N).
 
 1984—Subsec. (d)(3). Pub. L. 98–397 added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

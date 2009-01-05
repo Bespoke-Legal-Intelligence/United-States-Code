@@ -32,7 +32,7 @@ In this section, the following definitions apply:
 
 #### (1) In general
 
-&emsp;In cooperation with the Chesapeake Executive Council (and as a member of the Council),the Administrator shall continue the Chesapeake Bay Program.
+&emsp;In cooperation with the Chesapeake Executive Council (and as a member of the Council), the Administrator shall continue the Chesapeake Bay Program.
 
 #### (2) Program Office
 

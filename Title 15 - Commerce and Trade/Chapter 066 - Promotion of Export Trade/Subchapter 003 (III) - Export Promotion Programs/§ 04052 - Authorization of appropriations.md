@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the Department of Commerce to carry out export promotion programs such sums as are necessary for fiscal years 1995 and 1996.
 
-(Pub. L. 99–64, title II, §202, July 12, 1985, 99 Stat. 158; Pub. L. 99–633, §2, Nov. 7, 1986, 100 Stat. 3522; Pub. L. 100–418, title II, §2305(b)(1), Aug. 23, 1988, 102 Stat. 1344; Pub. L. 102–429, title II, §208, Oct. 21, 1992, 106 Stat. 2205; Pub. L. 103–392, title III, §301, Oct. 22, 1994, 108 Stat. 4099.)
+(Pub. L. 99–64, title II, §202, July 12, 1985, 99 Stat. 158; Pub. L. 99–633, §2, Nov. 7, 1986, 100 Stat. 3522;Pub. L. 100–418, title II, §2305(b)(1), Aug. 23, 1988, 102 Stat. 1344; Pub. L. 102–429, title II, §208, Oct. 21, 1992, 106 Stat. 2205; Pub. L. 103–392, title III, §301, Oct. 22, 1994, 108 Stat. 4099.)
 
 #### Codification
 

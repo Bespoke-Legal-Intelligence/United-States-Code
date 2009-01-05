@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) is approved by the taxpayer's president, chief executive officer, or comparable official before the payment of such dividend and subsequently approved by the taxpayer's board of directors, management committee, executive committee, or similar body, and
 
-&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than aspayment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
+&emsp;&emsp;(B) provides for the reinvestment of such dividend in the United States (other than as payment for executive compensation), including as a source for the funding of worker hiring and training, infrastructure, research and development, capital investments, or the financial stabilization of the corporation for the purposes of job retention or creation.
 
 #### (c) Definitions and special rules
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (ii) Spin-offs, etc.
 
-&emsp;&emsp;&emsp;If there is a distribution to which section 355 (or so much of section 356 as relates to section 355) applies during the 5-year period referred to in subparagraph (A)(i) and the controlled corporation (within the meaning of section 355) is a United States shareholder—
+&emsp;&emsp;&emsp;If there is a distribution to which section 355 (or so much of section 356 as relates to section 355) applies during the 5-year period referred to in subparagraph (A)(i) andthe controlled corporation (within the meaning of section 355) is a United States shareholder—
 
 &emsp;&emsp;&emsp;&emsp;(I) the controlled corporation shall be treated as being in existence during the period that the distributing corporation (within the meaning of section 355) is in existence, and
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Permanently reinvested earnings
 
-&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 UnitedStates shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
+&emsp;&emsp;If a financial statement is an applicable financial statement for more than 1 United States shareholder, the amount applicable under subparagraph (B) or (C) of subsection (b)(1) shall be divided among such shareholders under regulations prescribed by the Secretary.
 
 #### (d) Denial of foreign tax credit; denial of certain expenses
 

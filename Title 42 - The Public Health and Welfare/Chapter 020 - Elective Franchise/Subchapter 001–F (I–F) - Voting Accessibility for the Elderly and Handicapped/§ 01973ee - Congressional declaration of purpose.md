@@ -1,6 +1,6 @@
 ### §1973ee. Congressional declaration of purpose
 
-It is the intention of Congress in enacting this subchapter to promote the fundamental right tovote by improving access for handicapped and elderly individuals to registration facilities and polling places for Federal elections.
+It is the intention of Congress in enacting this subchapter to promote the fundamental right to vote by improving access for handicapped and elderly individuals to registration facilities and polling places for Federal elections.
 
 (Pub. L. 98–435, §2, Sept. 28, 1984, 98 Stat. 1678.)
 

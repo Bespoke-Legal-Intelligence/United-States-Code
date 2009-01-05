@@ -126,7 +126,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) if the de
 
 &emsp;&emsp;<b>For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.</b>
 
-(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213;Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445.)
+(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445.)
 
 #### Prior Provisions
 

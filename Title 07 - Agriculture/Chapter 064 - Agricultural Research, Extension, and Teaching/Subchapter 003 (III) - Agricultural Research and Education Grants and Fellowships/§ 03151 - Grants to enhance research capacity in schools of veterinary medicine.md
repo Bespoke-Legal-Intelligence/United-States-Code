@@ -32,7 +32,7 @@ Funds appropriated to carry out this section for any fiscal year shall be apport
 
 Subsec. (a). Pub. L. 101–624, §1607(b)(1), inserted heading.
 
-Pub. L. 101–624, §1607(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned \[sic\] by the Secretary by regulations.”
+Pub. L. 101–624, §1607(a)(1), amended first sentence generally. Prior to amendment, first sentence read asfollows: “The Secretary shall conduct a program of grants to States for the purpose of meeting the costs of construction, employing faculty, acquiring equipment, and taking other action relating to the initial establishment and initial operation of schools of veterinary medicine, or the expansion of existing schools of veterinary medicine, as determned \[sic\] by the Secretary by regulations.”
 
 Subsec. (b). Pub. L. 101–624, §1607(b)(2), inserted heading.
 

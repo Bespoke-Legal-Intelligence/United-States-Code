@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisionsof the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
 
 #### (b) Employment of personnel
 
@@ -24,7 +24,7 @@ enter into agreements with other Government agencies, including the military dep
 
 #### (d) Experts and consultants; stenographic reporting services; compensation and travel expenses; limitation on period of employment; renewal of employment contracts
 
-procure services of experts and consultants or organizations thereof, including stenographic reporting services, as authorized by section 3109 of title 5 and to pay in connection therewith travel expenses of individuals, including transportation and per diem in lieu of subsistence while away from their homes or regular places of business, as authorized by section 5703 of such title: <i>Provided</i>, That no such individual shall be employed for more than 130 days in any fiscal year unless the President certifies that employment of such individual in excess of such number of days is necessary in the national interest: <i>And provided further</i>, That such contracts may be renewed annually;
+procure services of experts and consultants or organizations thereof, including stenographic reporting services, as authorized by section 3109 of title 5 and to pay in connection therewithtravel expenses of individuals, including transportation and per diem in lieu of subsistence while away from their homes or regular places of business, as authorized by section 5703 of such title: <i>Provided</i>, That no such individual shall be employed for more than 130 days in any fiscal year unless the President certifies that employment of such individual in excess of such number of days is necessary in the national interest: <i>And provided further</i>, That such contracts may be renewed annually;
 
 #### (e) Employment of outstanding personnel
 
@@ -62,7 +62,7 @@ The General Schedule, referred to in subsec. (b), is set out under section 5332 
 
 Subsec. (a). Pub. L. 105–277, §1223(13)(B), (C), substituted “Department of State” for “Agency” and “Secretary of State” for “Director”, and struck out “It is the intent of this section that the Director rely upon the Department of State for general administrative services in the United States and abroad to the extent agreed upon between the Secretary of State and the Director.” after “may appear desirable.”
 
-Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted “Secretary ofState” for “Director” and struck out “appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities,” before “appoint and fix”.
+Subsec. (b). Pub. L. 105–277, §1223(13)(B), (D)(i), in introductory provisions, substituted “Secretary of State” for “Director” and struck out “appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities,” before “appoint and fix”.
 
 Subsec. (b)(1). Pub. L. 105–277, §1223(13)(D)(ii), substituted “subsection” for “exception” in introductory provisions.
 

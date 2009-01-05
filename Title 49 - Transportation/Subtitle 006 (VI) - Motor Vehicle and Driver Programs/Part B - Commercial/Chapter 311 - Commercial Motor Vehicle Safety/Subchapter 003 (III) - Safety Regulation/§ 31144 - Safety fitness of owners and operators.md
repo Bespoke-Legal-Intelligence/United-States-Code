@@ -104,13 +104,13 @@ Grants.—The Secretary may make grants to States and local governments for new 
 
 &emsp;&emsp;(B)
 
-Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal yearfor audits of new entrant motor carriers conducted pursuant to this paragraph.
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
 
 &emsp;&emsp;(C)
 
 Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -142,6 +142,8 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
+2008—Pub. L. 110–244 amended Pub. L. 109–59, §§4107(b), 4114(c)(1), 7112. See 2005 Amendment notes below.
+
 2005—Subsec. (a). Pub. L. 109–59, §4114(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
 
 &emsp;“(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
@@ -152,9 +154,9 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 &emsp;“(4) prescribe by regulation penalties for violations of this section consistent with section 521.”
 
-Subsec. (c). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), could not be executed because of amendment by Pub. L. 109–59, §4107(b)(1). See below.
+Subsec. (c). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by Pub. L. 110–244, §301(b)(2).
 
-Pub. L. 109–59, §4107(b)(1), which directed amendment of section 31104 of this title by redesignating “the second subsection” as subsec. (f), was executed by redesignating the second subsec. (c) of this section, relating to safety reviews of new operators, as (f), to reflect the probable intent of Congress.
+Pub. L. 109–59, §4107(b)(1), as amended by Pub. L. 110–244, §301(b)(1), redesignated subsec. (c), relating to safety reviews of new operators, as (f).
 
 Subsec. (c)(1). Pub. L. 109–59, §7112(b)(1), substituted “section 521(b)(5)(A)” for “sections 521(b)(5)(A) and 5113”.
 
@@ -162,17 +164,21 @@ Subsec. (c)(3). Pub. L. 109–59, §7112(b)(2), inserted at end “A violation o
 
 Subsec. (c)(5). Pub. L. 109–59, §4114(b), added par. (5).
 
-Subsecs. (d), (e). Pub. L. 109–59, §4114(c), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (d). Pub. L. 109–59, §4114(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (f). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), could not be executed because of amendment by Pub. L. 109–59, §4107(b)(1). See below.
+Pub. L. 109–59, §4114(c)(1), as amended by Pub. L. 110–244, §301(c), redesignated subsec. (d) as (e).
 
-Pub. L. 109–59, §4114(c)(1), redesignated subsec. (e) as (f).
+Subsec. (e). Pub. L. 109–59, §4114(c)(1), as amended by Pub. L. 110–244, §301(c), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 109–59, §4107(b)(1), which directed amendment of section 31104 of this title by redesignating “the second subsection” as subsec. (f), was executed by redesignating the second subsec. (c) of this section, relating to safety reviews of new operators, as (f), to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), was repealed by Pub. L. 110–244, §301(b)(2).
 
-Subsec. (f)(5). Pub. L. 109–59, §4107(b)(2), which directed amendment of this section by adding par. (5) “at the end of such subsection”, was executed by adding par. (5) at the end of subsec. (f), as redesignated by Pub. L. 109–59, §4107(b)(1), to reflect the probable intent of Congress. See above.
+Pub. L. 109–59, §4114(c)(1), as amended by Pub. L. 110–244, §301(c), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–59, §4114(c)(1), which directed amendment of this section by redesignating “the second subsection (c)” as (g), was executed by redesignating subsec. (f) as (g) to reflect the probable intent of Congress and the redesignation of the second subsec. (c) as (f) by Pub. L. 109–59, §4107(b)(1). See above.
+Pub. L. 109–59, §4107(b)(1), as amended by Pub. L. 110–244, §301(b)(1), redesignated subsec. (c), relating to safety reviews of new operators, as (f).
+
+Subsec. (f)(5). Pub. L. 109–59, §4107(b)(2), as amended by Pub. L. 110–244, §301(b)(1), added par. (5).
+
+Subsec. (g). Pub. L. 109–59, §4114(c)(1), as amended by Pub. L. 110–244, §301(c), redesignated subsec. (f) as (g).
 
 1999—Subsec. (c). Pub. L. 106–159 added subsec. (c) relating to safety reviews of new operators.
 
@@ -187,6 +193,10 @@ Findings and Action on Applications.—The Commission shall—
 &emsp;“(1) find an applicant for authority to operate as a motor carrier unfit if the applicant does not meet the safety fitness requirements established under subsection (a) of this section; and
 
 &emsp;“(2) deny the application.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to betreated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 

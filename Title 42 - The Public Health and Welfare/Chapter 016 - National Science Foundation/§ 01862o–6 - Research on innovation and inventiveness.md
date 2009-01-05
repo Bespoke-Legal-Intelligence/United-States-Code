@@ -1,6 +1,6 @@
 ### §1862<i>o</i>–6. Research on innovation and inventiveness
 
-In carrying out its research programs on science policy and on the science of learning, the Foundation may support research on the process of innovation and the teaching of inventiveness.
+In carrying out its research programs on science policy and on the science of learning,the Foundation may support research on the process of innovation and the teaching of inventiveness.
 
 (Pub. L. 110–69, title VII, §7019, Aug. 9, 2007, 121 Stat. 684.)
 

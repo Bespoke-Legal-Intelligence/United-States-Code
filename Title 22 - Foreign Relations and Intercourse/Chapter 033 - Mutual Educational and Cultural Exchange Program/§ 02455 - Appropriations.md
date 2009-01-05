@@ -24,7 +24,7 @@ The President is authorized—
 
 &emsp;(i) under agreements disposing of surplus property or settling lend-lease and other war accounts concluded after World War II;
 
-&emsp;(ii) as the proceeds of sales or loan repayments, including interest, for transactions heretofore or hereafter effected under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\];
+&emsp;(ii) as the proceeds of sales or loan repayments, including interest, for transactions heretofore or hereafter effected under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\];
 
 &emsp;(iii) in repayment of principal or interest on any other credit extended or loan heretofore or hereafter made by the United States or any agency thereof; or
 
@@ -42,7 +42,7 @@ Foreign governments, international organizations and private individuals, firms,
 
 Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title, not to exceed $10,000,000 for the fiscal year ending June 30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
 
-(Pub. L. 87–256, §105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, §203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, §227, Apr. 30, 1994, 108 Stat. 423.)
+(Pub. L. 87–256, §105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, §203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, §227, Apr. 30, 1994, 108 Stat. 423; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(S), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the origi
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (b), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (d)(2)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 Sections 1513(b)(6) and 1513(h) of this title, referred to in subsec. (d)(2)(iv), were repealed by act Aug. 26, 1954, ch. 937, title V, §542(a), 68 Stat. 861.
 
@@ -58,9 +58,15 @@ The acts of February 25, 1919, and February 9, 1922, referred to in subsec. (e),
 
 #### Amendments
 
+2008—Subsec. (d)(2)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
 1994—Subsec. (a). Pub. L. 103–236 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Appropriations to carry out the purposes of this chapter, to remain available until expended, are authorized, and this authorization includes the authority to grant, in any appropriation Act, the authority to enter into contracts, within the amounts so authorized, creating obligations in advance of appropriations.”
 
 1966—Subsec. (g). Pub. L. 89–698 added subsec. (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

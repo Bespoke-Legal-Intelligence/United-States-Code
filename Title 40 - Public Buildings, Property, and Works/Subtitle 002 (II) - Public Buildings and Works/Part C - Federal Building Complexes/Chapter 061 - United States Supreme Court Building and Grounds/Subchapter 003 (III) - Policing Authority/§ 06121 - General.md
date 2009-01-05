@@ -26,9 +26,9 @@ Authorization to carry firearms.—Duties under subsection (a)(2)(A) with respec
 
 &emsp;(2)
 
-Termination of authority.—The authority provided under subsection (a)(2) expires on December 29, 2008.
+Termination of authority.—The authority provided under subsection (a)(2) expires on December 29, 2013.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, §1, Oct. 21, 2004, 118 Stat. 1416.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, §1, Oct. 21, 2004, 118 Stat. 1416; Pub. L. 110–402, §1(a), Oct. 13, 2008, 122 Stat. 4254.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,8 @@ In subsection (a)(3), the words “federal or state law and any regulation under
 In subsection (b), the words “The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 13 of House Document No. 103–7.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–402 substituted “2013” for “2008”.
 
 2004—Subsec. (b)(2). Pub. L. 108–356 substituted “2008” for “2004”.
 

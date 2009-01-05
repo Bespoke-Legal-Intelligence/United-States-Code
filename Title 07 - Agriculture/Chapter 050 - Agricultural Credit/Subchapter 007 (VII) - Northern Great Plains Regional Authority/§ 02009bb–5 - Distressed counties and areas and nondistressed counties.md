@@ -14,45 +14,45 @@ Not later than 90 days after May 13, 2002, and annually thereafter, the Authorit
 
 #### (1) In general
 
-&emsp;The Authority shall allocate at least 75 percent of the appropriations made available under section 2009bb–12 of this title for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
+&emsp;The Authority shall allocate at least 50 percent of the appropriations made available under section 2009bb–12 of this title for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
 
 #### (2) Funding limitations
 
 &emsp;The funding limitations under section 2009bb–3(b) of this title shall not apply to a project to provide transportation or telecommunication or basic public services to residents of 1 or more distressed counties or isolated areas of distress in the region.
 
-#### (c) Nondistressed counties
+#### (c) Transportation, telecommunication <sup>1</sup> renewable energy,,<sup>1</sup> and basic public infrastructure
 
-#### (1) In general
+The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication,,<sup>1</sup> renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009bb–2(a) of this title.
 
-&emsp;Except as provided in paragraph (2), no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2) of this section.
+(Pub. L. 87–128, title III, §383G, formerly §383F, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 384; renumbered §383G and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (2)(D), (g), May 22, 2008, 122 Stat. 1178, 1179, 1181, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (2)(D), (g), June 18, 2008, 122 Stat. 1664, 1940–1942.)
 
-#### (2) Exceptions
+#### Codification
 
-#### (A) In general
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-&emsp;&emsp;The funding prohibition under paragraph (1) shall not apply to grants to fund the administrative expenses of local development districts under section 2009bb–4(b) of this title.
+#### Prior Provisions
 
-#### (B) Multicounty projects
+A prior section 383G of Pub. L. 87–128, title III, was renumbered section 383H and is classified to section 2009bb–6 of this title.
 
-&emsp;&emsp;The Authority may waive the application of the funding prohibition under paragraph (1) to—
+#### Amendments
 
-&emsp;&emsp;&emsp;(i) a multicounty project that includes participation by a nondistressed county; or
+2008—Subsec. (b)(1). Pub. L. 110–246, §6026(g)(1), substituted “50” for “75”.
 
-&emsp;&emsp;&emsp;(ii) any other type of project;
+Pub. L. 110–246, §6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to section 2009bb–12 of this title.
 
-> &emsp;&emsp;if the Authority determines that the project could bring significant benefits to areas of the region outside a nondistressed county.
+Subsec. (b)(2). Pub. L. 110–246, §6026(c)(2)(D)(i)(II), made technical amendment to reference in original act which appears in text as reference to section 2009bb–3(b) of this title.
 
-#### (C) Isolated areas of distress
+Subsec. (c). Pub. L. 110–246, §6026(g)(2)–(4), redesignated subsec. (d) as (c), inserted “renewable energy,” after “telecommunication” in heading and “, renewable energy,” after “telecommunication,” in text, and struck out former subsec. (c) which prohibited provision of funds for a project located in a county designated as a nondistressed county.
 
-&emsp;&emsp;For a designation of an isolated area of distress for assistance to be effective, the designation shall be supported—
+Subsec. (c)(2)(A). Pub. L. 110–246, §6026(c)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2009bb–4(b) of this title.
 
-&emsp;&emsp;&emsp;(i) by the most recent Federal data available; or
+Subsec. (d). Pub. L. 110–246, §6026(g)(3), redesignated subsec. (d) as (c).
 
-&emsp;&emsp;&emsp;(ii) if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
+Pub. L. 110–246, §6026(c)(2)(D)(iii), made technical amendments to references in original act which appear in text as references to section 2009bb–12 of this title and section 2009bb–2(a) of this title.
 
-#### (d) Transportation, telecommunication, and basic public infrastructure
+#### Effective Date of 2008 Amendment
 
-The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication, and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009bb–2(a) of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-(Pub. L. 87–128, title III, §383F, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 384.)
+<i><sup>1</sup></i><i> So in original.</i>
 

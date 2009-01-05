@@ -4,7 +4,7 @@
 
 (b) Information described in sections 1025(a) and 1025(c) of this title with respect to a participant may be disclosed only to the extent that information respecting that participant's benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] may be disclosed under such Act.
 
-(Pub. L. 93–406, title I, §106, Sept. 2, 1974, 88 Stat. 850; Pub. L. 101–239, title VII, §7894(b)(6), Dec. 19,1989, 103 Stat. 2448; Pub. L. 105–34, title XV, §1503(d)(4), Aug. 5, 1997, 111 Stat. 1062.)
+(Pub. L. 93–406, title I, §106, Sept. 2, 1974, 88 Stat. 850; Pub. L. 101–239, title VII, §7894(b)(6), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 105–34, title XV, §1503(d)(4), Aug. 5, 1997, 111 Stat. 1062.)
 
 #### References in Text
 

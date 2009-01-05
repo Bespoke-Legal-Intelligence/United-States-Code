@@ -44,7 +44,7 @@
 
 &emsp;In developing any modifications to standards required under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) consult with experts in the fields of child development, early childhood education, child health care, family services (including linguistically and culturally appropriate services to non-English speaking children and their families), administration, and financial management, and with personswith experience in the operation of Head Start programs;
+&emsp;&emsp;(A) consult with experts in the fields of child development, early childhood education, child health care, family services (including linguistically and culturally appropriate services to non-English speaking children and their families), administration, and financial management, and with persons with experience in the operation of Head Start programs;
 
 &emsp;&emsp;(B) take into consideration—
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;(i) helping to develop the skills, knowledge, abilities, and development described in subsection (a)(1)(B) of children participating in Head Start programs, with an emphasis on measuring skills that scientifically valid research has demonstrated are related to children's school readiness and later success in school;
 
-&emsp;&emsp;&emsp;(ii) improving classroom practices, including reviewing children's strengths andweaknesses and individualizing instruction to better meet the needs of the children involved;
+&emsp;&emsp;&emsp;(ii) improving classroom practices, including reviewing children's strengths and weaknesses and individualizing instruction to better meet the needs of the children involved;
 
 &emsp;&emsp;&emsp;(iii) identifying the special needs of children; and
 
@@ -352,7 +352,7 @@
 
 #### (1) In general
 
-&emsp;Not less frequently than once each program year, with the consultation and participationof policy councils and, as applicable, policy committees and, as appropriate, other community members, each Head Start agency, and each delegate agency, that receives financial assistance under this subchapter shall conduct a comprehensive self-assessment of its effectiveness and progress in meeting program goals and objectives and in implementing and complying with standards described in subsection (a)(1).
+&emsp;Not less frequently than once each program year, with the consultation and participation of policy councils and, as applicable, policy committees and, as appropriate, other community members, each Head Start agency, and each delegate agency, that receives financial assistance under this subchapter shall conduct a comprehensive self-assessment of its effectiveness and progress in meeting program goals and objectives and in implementing and complying with standards described in subsection (a)(1).
 
 #### (2) Goals, reports, and improvement plans
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(i) designate such agency as chronically underenrolled; and
 
-&emsp;&emsp;&emsp;(ii) recapture, withhold, or reduce the base grant for the program by a percentageequal to the percentage difference between funded enrollment and actual enrollment for the program for the most recent year for which the agency is determined to be underenrolled under paragraph (3)(A).
+&emsp;&emsp;&emsp;(ii) recapture, withhold, or reduce the base grant for the program by a percentage equal to the percentage difference between funded enrollment and actual enrollment for the program for the most recent year for which the agency is determined to be underenrolled under paragraph (3)(A).
 
 #### (B) Waiver or limitation of reductions
 
@@ -528,7 +528,7 @@ Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) genera
 
 &emsp;“(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and”.
 
-Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediatelyor during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
 
 Subsec. (e). Pub. L. 105–285, §108(e), inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
 

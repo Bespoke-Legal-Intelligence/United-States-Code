@@ -16,7 +16,7 @@ Before the expiration of the 3-year period beginning on December 31, 1987, the S
 
 #### (c) Acceptance of land in future by Secretary in trust for Seminole Tribe
 
-If, pursuant to paragraph 6 of the Settlement Agreement, there is a subsequent agreement between the tribe, the State, and the district providing that lands exchanged with the tribe or acquired by the tribe may be taken into Federaltrust as a reservation for the tribe, the Secretary shall accept the transfer of such lands to the United States, to be held in trust for the use and benefit of the tribe pursuant to the terms and conditions of the subsequent agreement unless—
+If, pursuant to paragraph 6 of the Settlement Agreement, there is a subsequent agreement between the tribe, the State, and the district providing that lands exchanged with the tribe or acquired by the tribe may be taken into Federal trust as a reservation for the tribe, the Secretary shall accept the transfer of such lands to the United States, to be held in trust for the use and benefit of the tribe pursuant to the terms and conditions of the subsequent agreement unless—
 
 &emsp;(1) the total amount of land previously taken in trust under this subsection exceeds the amount of land transferred to the State and Water District by the tribe under the Settlement Agreement;
 
@@ -38,7 +38,7 @@ If, pursuant to paragraph 6 of the Settlement Agreement, there is a subsequent a
 
 #### References in Text
 
-Section 7 of the Act of August 15, 1953, referred to in subsec. (d)(1), is section 7 of act Aug. 15, 1953, ch. 505, 67 Stat. 590, which was set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure, and was repealed by Pub. L. 90–284, title IV, §403(b), Apr. 11, 1968, 82 Stat. 79.
+Section 7 of the Act of August 15, 1953, referred to in subsec. (d)(1), is section 7 of act Aug. 15, 1953, ch. 505,67 Stat. 590, which was set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure, and was repealed by Pub. L. 90–284, title IV, §403(b), Apr. 11, 1968, 82 Stat. 79.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

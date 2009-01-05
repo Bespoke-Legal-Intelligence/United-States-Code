@@ -94,7 +94,7 @@ Section 3103 of the National Defense Authorization Act for Fiscal Year 1997, ref
 
 #### Amendments
 
-2003—Subsecs. (a), (c)(1)(B)(i). Pub. L. 108–136, §3141(g)(14)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” after “section 3102(i)”.
+<b>2003</b>—Subsecs. (a), (c)(1)(B)(i). Pub. L. 108–136, §3141(g)(14)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” after “section 3102(i)”.
 
 Subsec. (c)(1)(B)(ii). Pub. L. 108–136, §3141(g)(14)(D)(ii), substituted “November 18, 1997” for “the date of enactment of this Act”.
 

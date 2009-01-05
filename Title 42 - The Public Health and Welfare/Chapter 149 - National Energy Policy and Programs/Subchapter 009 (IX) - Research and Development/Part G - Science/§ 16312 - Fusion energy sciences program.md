@@ -72,7 +72,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 &emsp;&emsp;Any agreement for United States participation in the ITER shall, at a minimum—
 
-&emsp;&emsp;&emsp;(i) clearly define the United States financial contribution to construction andoperating costs, as well as any other costs associated with a project;
+&emsp;&emsp;&emsp;(i) clearly define the United States financial contribution to construction and operating costs, as well as any other costs associated with a project;
 
 &emsp;&emsp;&emsp;(ii) ensure that the share of high-technology components of the ITER manufactured in the United States is at least proportionate to the United States financial contribution to the ITER;
 

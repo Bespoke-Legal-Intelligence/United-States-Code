@@ -8,5 +8,5 @@ If a plan requires presentment or surrender of a security or the performance of 
 
 I74senate report no. 95–989
 
-Section 1143 fixes a 5-year limitation on presentment or surrender of securities or the performance of anyother act that is a condition to participation in distribution under the plan. The 5 years runs from the date of the entry of the order of confirmation. Any entity that does not take the appropriate action with the 5-year period is barred from participation in the distribution under the plan.
+Section 1143 fixes a 5-year limitation on presentment or surrender of securities or the performance of any other act that is a condition to participation in distribution under the plan. The 5 years runs from the date of the entry of the order of confirmation. Any entity that does not take the appropriate action with the 5-year period is barred from participation in the distribution under the plan.
 

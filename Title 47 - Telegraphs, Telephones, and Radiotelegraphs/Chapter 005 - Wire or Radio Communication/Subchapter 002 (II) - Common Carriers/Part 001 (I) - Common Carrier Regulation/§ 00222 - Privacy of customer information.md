@@ -32,7 +32,7 @@ Nothing in this section prohibits a telecommunications carrier from using, discl
 
 &emsp;(3) to provide any inbound telemarketing, referral, or administrative services to the customer for the duration of the call, if such call was initiated by the customer and the customer approves of the use of such information to provide such service; and
 
-&emsp;(4) to provide call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title)—
+&emsp;(4) to provide call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title) or the user of an IP-enabled voice service (as such term is defined in section 615b of this title)—
 
 &emsp;&emsp;(A) to a public safety answering point, emergency medical service provider or emergency dispatch provider, public safety, fire service, or law enforcement official, or hospital emergency or trauma care facility, in order to respond to the user's call for emergency services;
 
@@ -44,17 +44,17 @@ Nothing in this section prohibits a telecommunications carrier from using, discl
 
 Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide subscriber list information gathered in its capacity as a provider of such service on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions, to any person upon request for the purpose of publishing directories in any format.
 
-#### (f) Authority to use wireless location information
+#### (f) Authority to use location information
 
 For purposes of subsection (c)(1) of this section, without the express prior authorization of the customer, a customer shall not be considered to have approved the use or disclosure of or access to—
 
-&emsp;(1) call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title), other than in accordance with subsection (d)(4) of this section; or
+&emsp;(1) call location information concerning the user of a commercial mobile service (as such term is defined in section 332(d) of this title) or the user of an IP-enabled voice service (as such term is defined in section 615b of this title), other than in accordance with subsection (d)(4) of this section; or
 
 &emsp;(2) automatic crash notification information to any person other than for use in the operation of an automatic crash notification system.
 
 #### (g) Subscriber listed and unlisted information for emergency services
 
-Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
+Notwithstanding subsections (b), (c), and (d) of this section, a telecommunications carrier that provides telephone exchange service or a provider of IP-enabled voice service (as such term is defined in section 615b of this title) shall provide information described in subsection (i)(3)(A) <sup>1</sup> of this section (including information pertaining to subscribers whose information is unlisted or unpublished) that is in its possession or control (including information pertaining to subscribers of other carriers) on a timely and unbundled basis, under nondiscriminatory and reasonable rates, terms, and conditions to providers of emergency services, and providers of emergency support services, solely for purposes of delivering or assisting in the delivery of emergency services.
 
 #### (h) Definitions
 
@@ -84,7 +84,7 @@ As used in this section:
 
 #### (4) Public safety answering point
 
-&emsp;The term “public safety answering point” means a facility that has been designated toreceive emergency calls and route them to emergency service personnel.
+&emsp;The term “public safety answering point” means a facility that has been designated to receive emergency calls and route them to emergency service personnel.
 
 #### (5) Emergency services
 
@@ -98,13 +98,21 @@ As used in this section:
 
 &emsp;The term “emergency support services” means information or data base management services used in support of emergency services.
 
-(June 19, 1934, ch. 652, title II, §222, as added Pub. L. 104–104, title VII, §702, Feb. 8, 1996, 110 Stat. 148; amended Pub. L. 106–81, §5, Oct. 26, 1999, 113 Stat. 1288.)
+(June 19, 1934, ch. 652, title II, §222, as added Pub. L. 104–104, title VII, §702, Feb. 8, 1996, 110 Stat. 148; amended Pub. L. 106–81, §5, Oct. 26, 1999, 113 Stat. 1288; Pub. L. 110–283, title III, §301, July 23, 2008, 122 Stat. 2625.)
 
 #### Prior Provisions
 
 A prior section 222, act June 19, 1934, ch. 652, title II, §222, as added Mar. 6, 1943, ch. 10, §1, 57 Stat. 5; amended July 12, 1960, Pub. L. 86–624, §36, 74 Stat. 421; Nov. 30, 1974, Pub. L. 93–506, §2, 88 Stat. 1577; Dec. 24, 1980, Pub. L. 96–590, 94 Stat. 3414; Dec. 29, 1981, Pub. L. 97–130, §2, 95 Stat. 1687, related to competition among record carriers, prior to repeal by Pub. L. 103–414, title III, §304(a)(6), Oct. 25, 1994, 108 Stat. 4297.
 
 #### Amendments
+
+2008—Subsec. (d)(4). Pub. L. 110–283, §301(1), inserted “or the user of an IP-enabled voice service (as such term is defined in section 615b of this title)” after “section 332(d) of this title)” in introductory provisions.
+
+Subsec. (f). Pub. L. 110–283, §301(2), struck out “wireless” before “location” in heading.
+
+Subsec. (f)(1). Pub. L. 110–283, §301(1), inserted “or the user of an IP-enabled voice service (as such term is defined in section 615b of this title)” after “section 332(d) of this title)”.
+
+Subsec. (g). Pub. L. 110–283, §301(3), inserted “or a provider of IP-enabled voice service (as such term is defined in section 615b of this title)” after “telephone exchange service”.
 
 1999—Subsec. (d)(4). Pub. L. 106–81, §5(1), added par. (4).
 

@@ -44,5 +44,5 @@ Section 614(b) of Pub. L. 100–180 provided that: “Section 411g of title 37, 
 
 #### GAO Review and Report
 
-Section 614(c) of Pub. L. 100–180 directed Comptroller General to review implementation of 37 U.S.C. 411g after it has been in effect for one year, for the purpose of comparing the total cost to the Department of Defense of the transportation allowance allowed under such section with the total cost that would have been incurred by the Department of Defense over such period if such section had not been in effect and to submit to Congress a report on such review no later than Mar. 1, 1989.
+Section 614(c) of Pub. L. 100–180 directed Comptroller General to review implementation of 37 U.S.C. 411gafter it has been in effect for one year, for the purpose of comparing the total cost to the Department of Defense of the transportation allowance allowed under such section with the total cost that would have been incurred by the Department of Defense over such period if such section had not been in effect and to submit to Congress a report on such review no later than Mar. 1, 1989.
 

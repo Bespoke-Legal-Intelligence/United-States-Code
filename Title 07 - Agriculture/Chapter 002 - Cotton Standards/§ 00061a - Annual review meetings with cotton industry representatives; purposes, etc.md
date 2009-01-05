@@ -10,7 +10,7 @@ The Cotton Standards Act, referred to in text, probably meaning the United State
 
 The Cotton Statistics and Estimates Act, referred to in text, is act Mar. 3, 1927, ch. 337, 44 Stat. 1372, as amended, which is classified generally to chapter 19 (§471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
-The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10\(§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 #### Codification
 

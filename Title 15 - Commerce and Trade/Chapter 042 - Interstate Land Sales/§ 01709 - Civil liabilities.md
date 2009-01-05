@@ -22,7 +22,7 @@ Every person who becomes liable to make any payment under this section may recov
 
 1979—Subsec. (a). Pub. L. 96–153 substituted provisions relating to violations of section 1703(a) of this title and scope of relief authorized in suits brought against such violations, for provisions relating to suits for untrue statements or omissions to state material fact in statement of record.
 
-Subsec. (b). Pub. L. 96–153 substituted provisions relating to enforcement of rights by the purchaser or lessee against the seller or lessor, for provisions relating to suits by the purchaser against the developer or agent.
+Subsec. (b). Pub. L. 96–153 substituted provisions relating to enforcement of rights by the purchaser or lessee against the seller or lessor, for provisions relatingto suits by the purchaser against the developer or agent.
 
 Subsec. (c). Pub. L. 96–153 substituted provisions authorizing interest, court costs, etc., to be recoverable in suits under this section, for provisions relating to enumeration of damages recoverable in suits under this section.
 

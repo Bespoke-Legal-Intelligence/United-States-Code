@@ -24,7 +24,7 @@ Section was formerly classified to section 7383a of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §3141(h)(4)(D)(i), substituted “October 5, 1999,” for “the date of the enactment of this Act” in the original, which for purposes of codification had been changed to “October 5, 1999,” thus requiring no change in text.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(4)(D)(i), substituted “October 5, 1999,” for “the date of the enactment of this Act” in the original, which for purposes of codification had been changed to “October 5, 1999,” thus requiring no change in text.
 
 Subsec. (c). Pub. L. 108–136, §3141(h)(4)(D)(ii), added subsec. (c).
 

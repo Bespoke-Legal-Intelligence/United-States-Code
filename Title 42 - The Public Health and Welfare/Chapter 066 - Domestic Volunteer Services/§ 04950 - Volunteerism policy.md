@@ -32,7 +32,7 @@ Pub. L. 101–204, §1(a), Dec. 7, 1989, 103 Stat. 1806, provided that: “This 
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–551 provided that: “This Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971, 4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, enacting provisions setout as notes under this section and section 5011 of this title, and amending provisions set out as a note under section 5041 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1986’.”
+Section 1 of Pub. L. 99–551 provided that: “This Act \[enacting this section and section 4959 of this title, amending sections 4953, 4955, 4971, 4972, 4974, 4992, 5011, 5013, 5024, 5041 to 5044, 5047, 5052, 5055, 5056, 5059, 5061, 5081, 5082, and 5084 of this title, enacting provisions set out as notes under this section and section 5011 of this title, and amending provisions set out as a note under section 5041 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1986’.”
 
 #### Short Title of 1984 Amendment
 

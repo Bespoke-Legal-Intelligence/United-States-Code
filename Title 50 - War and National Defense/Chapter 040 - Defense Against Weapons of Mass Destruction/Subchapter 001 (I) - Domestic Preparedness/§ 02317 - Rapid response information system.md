@@ -16,7 +16,7 @@ Not later than December 31, 1997, the Administrator of the Federal Emergency Man
 
 #### (d) Database on chemical and biological materials
 
-The Administrator of the Federal Emergency Management Agency, in consultation with theSecretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997.
+The Administrator of the Federal Emergency Management Agency, in consultation with the Secretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997.
 
 #### (e) Access to inventory and database
 
@@ -27,4 +27,6 @@ The Administrator of the Federal Emergency Management Agency shall design and ma
 #### Change of Name
 
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” wherever appearing in text on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b) of this section”.</i>
 

@@ -38,7 +38,7 @@
 
 > the Trade Representative shall publish in the Federal Register notice of such determination and shall make the determinations required under paragraph (1) with respect to such investigation by no later than the date that is 9 months after the date on which such investigation is initiated.
 
-(4) In any case in which a dispute is not resolved before the close of the minimum dispute settlement period provided for in a trade agreement, the Trade Representative, within 15 days after the close of such dispute settlement period, shall submit a report to Congress setting forth the reasons why the dispute was not resolved within the minimum dispute settlement period, the status of the case at the close of theperiod, and the prospects for resolution. For purposes of this paragraph, the minimum dispute settlement period provided for under any such trade agreement is the total period of time that results if all stages of the formal dispute settlement procedures are carried out within the time limitations specified in the agreement, but computed without regard to any extension authorized under the agreement at any stage.
+(4) In any case in which a dispute is not resolved before the close of the minimum dispute settlement period provided for in a trade agreement, the Trade Representative, within 15 days after the close of such dispute settlement period, shall submit a report to Congress setting forth the reasons why the dispute was not resolved within the minimum dispute settlement period, the status of the case at the close of the period, and the prospects for resolution. For purposes of this paragraph, the minimum dispute settlement period provided for under any such trade agreement is the total period of time that results if all stages of the formal dispute settlement procedures are carried out within the time limitations specified in the agreement, but computed without regard to any extension authorized under the agreement at any stage.
 
 #### (b) Consultation before determinations
 
@@ -56,7 +56,7 @@
 
 The Trade Representative shall publish in the Federal Register any determination made under subsection (a)(1) of this section, together with a description of the facts on which such determination is based.
 
-(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec. 8, 1994, 108 Stat. 4940; Pub. L. 104–295, §20(c)(6), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–429, title II, §2201(a), (b), Dec. 3, 2004, 118 Stat. 2598, 2599.)
+(Pub. L. 93–618, title III, §304, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 297; amended Pub. L. 98–573, title III, §§304(d)(2)(C), 306(c)(2)(C)(ii), Oct. 30, 1984, 98 Stat. 3005, 3012; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1170; Pub. L. 103–465, title III, §314(d), Dec.8, 1994, 108 Stat. 4940; Pub. L. 104–295, §20(c)(6), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–429, title II, §2201(a), (b), Dec. 3, 2004, 118 Stat. 2598, 2599.)
 
 #### Amendments
 

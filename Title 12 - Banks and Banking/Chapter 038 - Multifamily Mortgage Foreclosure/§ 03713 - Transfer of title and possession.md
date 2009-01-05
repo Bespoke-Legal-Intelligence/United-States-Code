@@ -6,7 +6,7 @@ The foreclosure commissioner shall deliver a deed or deeds to the purchaser or p
 
 #### (b) Quit claim deed
 
-Subject to subsection (c) of this section, the foreclosure deed or deeds shall convey all of the right, title, and interest in the security property covered by the deed which the Secretary as holder, the foreclosure commissioner, the mortgagor, and any other persons claiming by, through, or under them, had on the date of execution of the mortgage, together with all of the right, title, and interest thereafter acquired by any of them in such property up to the hour of sale, and no judicial proceeding shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
+Subject to subsection (c) of this section, the foreclosure deed or deeds shall convey all of the right, title, and interest in the security property covered by the deed which the Secretary as holder, the foreclosure commissioner, the mortgagor, and any other persons claiming by, through, or under them, had on the date of execution of the mortgage, together with all of theright, title, and interest thereafter acquired by any of them in such property up to the hour of sale, and no judicial proceeding shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
 
 #### (c) Possession by purchaser; continuing interests
 
@@ -18,7 +18,7 @@ There shall be no right of redemption, or right of possession based upon right o
 
 #### (e) Imposition of tax on conveyance to the Secretary
 
-When conveyance is made to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner's deed, whether as a tax upon the instrument or upon the privilege of conveying or transferring title to the property. Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusingto record such a deed, for failing to recognize such recordation as imparting notice or for denying the enforcement of such a deed and its provisions in any State or Federal court.
+When conveyance is made to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner's deed, whether as a tax upon the instrument or upon the privilege of conveying or transferring title to the property. Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice or for denying the enforcement of such a deed and its provisions in any State or Federal court.
 
 (Pub. L. 97–35, title III, §369E, Aug. 13, 1981, 95 Stat. 430.)
 

@@ -18,7 +18,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(C) the aggregate amount of additional premium payments attributable to the application of section 1395r(i) of this title; plus
 
-&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June 30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited.
+&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during suchfiscal year had been appropriated to it on June 30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited.
 
 #### (b) Contingency reserve
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 
-Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but for months after June 1983 and before January 1984, the amount of Government contributions under subsec. (a)(1) of this section shall be computed with the actuarially adequate rate which would have been in effect but for the amendments made by this section and using the amount of the premium in effect for June 1983, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but for months after June 1983 and before January 1984, the amount of Government contributions under subsec. (a)(1) of this section shall be computed with the actuarially adequate rate which would have been in effectbut for the amendments made by this section and using the amount of the premium in effect for June 1983, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1972 Amendment
 

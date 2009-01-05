@@ -20,7 +20,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(e)(12)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160)” after “section 3101(a)(2)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(e)(12)(D)(i), inserted “of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160)” after “section 3101(a)(2)”.
 
 Subsec. (b). Pub. L. 108–136, §3141(e)(12)(D)(ii), substituted “the National Defense Authorization Act for Fiscal Year 1994” for “this Act”.
 

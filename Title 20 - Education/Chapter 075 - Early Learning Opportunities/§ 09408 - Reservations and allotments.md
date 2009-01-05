@@ -12,7 +12,7 @@ The Secretary shall reserve 1 percent of the total amount appropriated under sec
 
 From the funds appropriated under this chapter for each fiscal year that are not reserved under subsection (a) of this section, the Secretary shall allot to each State the sum of—
 
-&emsp;(1) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger in the Statebears to the number of such children in all States; and
+&emsp;(1) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger in the State bears to the number of such children in all States; and
 
 &emsp;(2) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger living in families with incomes below the poverty line in the State bears to the number of such children in all States.
 

@@ -4,7 +4,7 @@
 
 Regular Officers.—(1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
-(2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who isdischarged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+(2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under section 614(b) of this title.
 
@@ -30,7 +30,7 @@ Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of a
 
 (4) In the case of an officer who is subject to discharge or release from active duty under a law or regulation requiring that an officer who has failed of selection for promotion to the next higher grade for the second time be discharged or released from active duty and who, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty—
 
-&emsp;(A) if the period of time for which the officer was selected for continuation on active duty is less than the amount of service that would be required to qualify the officer for retirement, the officer's discharge or release from active duty shall be considered to be involuntary for purposes of paragraph (1)(A); and
+&emsp;(A) if the period of time for which the officer was selected for continuation on active duty is less than the amount of service that would be required to qualify the officer for retirement, the officer's discharge or release from activeduty shall be considered to be involuntary for purposes of paragraph (1)(A); and
 
 &emsp;(B) if the period of time for which the officer was selected for continuation on active duty is equal to or more than the amount of service that would be required to qualify the officer for retirement, the officer's discharge or release from active duty shall not be considered to be involuntary for the purposes of paragraph (1)(A).
 
@@ -74,17 +74,35 @@ Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A m
 
 (i)
 
+Special Rule for Members Receiving Sole Survivorship Discharge.—(1) A member of the Armed Forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
+
+(2) The amount of the separation pay to be paid to a member pursuant to this subsection shall be based on the years of active service actually completed by the member before the member's sole survivorship discharge.
+
+(3) In this subsection, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+
+&emsp;(A) the father or mother or one or more siblings—
+
+&emsp;&emsp;(i) served in the Armed Forces; and
+
+&emsp;&emsp;(ii) was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+
+&emsp;(B) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
+
+(j)
+
 Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
 
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
-(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874.)
+(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, §3, Aug. 29, 2008, 122 Stat. 3527.)
 
 #### References in Text
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2008—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 2004—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
 
@@ -152,7 +170,7 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 1984—Subsec. (h)(1). Pub. L. 98–498 substituted “separation pay, severance pay,” for “severance pay” before “or readjustment pay” in two places.
 
-1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
+1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated donot warrant such pay, to separation pay”, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
@@ -161,6 +179,10 @@ Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted “, other than section 121
 Subsec. (i). Pub. L. 98–94, §1007(c)(2), designated existing provisions as par. (1) and added par. (2).
 
 1981—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2004 Amendment
 

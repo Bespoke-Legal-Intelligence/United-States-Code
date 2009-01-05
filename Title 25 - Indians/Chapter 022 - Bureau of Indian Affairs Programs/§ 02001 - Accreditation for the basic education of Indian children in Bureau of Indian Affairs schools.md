@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 24 months after January 8, 2002, each Bureau-funded school shall, to the extent that necessary funds are provided, bea candidate for accreditation or be accredited—
+&emsp;&emsp;Not later than 24 months after January 8, 2002, each Bureau-funded school shall, to the extent that necessary funds are provided, be a candidate for accreditation or be accredited—
 
 &emsp;&emsp;&emsp;(i) by a tribal accrediting body, if the accreditation standards of the tribal accrediting body have been accepted by formal action of the tribal governing body and such accreditation is acknowledged by a generally recognized State certification or regional accrediting agency;
 
@@ -28,7 +28,7 @@
 
 #### (B) Feasibility study
 
-&emsp;&emsp;Not later than 12 months after January 8, 2002, the Secretary of the Interior and the Secretary of Education shall, in consultation with Indian tribes, Indian education organizations, and accrediting agencies, develop and submit to the appropriate committees of Congress a report on the desirability and feasibility of establishing a tribal accreditation agency that would—
+&emsp;&emsp;Not later than 12 months after January 8, 2002, the Secretary of the Interior and the Secretary of Education shall, in consultation with Indian tribes, Indian education organizations, and accrediting agencies, develop and submit to the appropriate committees of Congress a report on the desirabilityand feasibility of establishing a tribal accreditation agency that would—
 
 &emsp;&emsp;&emsp;(i) review and acknowledge the accreditation standards for Bureau-funded schools; and
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;(iii) provide all students enrolled in a school that is eligible for a corrective action determination by the Secretary under clause (ii) with the option to transfer to another public or Bureau-funded school, including a public charter school, that is accredited;
 
-&emsp;&emsp;&emsp;(iv) promptly notify the parents of children enrolled in a school that is eligible for a corrective action determination bythe Secretary under clause (ii) of the option to transfer their child to another public or Bureau-funded school; and
+&emsp;&emsp;&emsp;(iv) promptly notify the parents of children enrolled in a school that is eligible for a corrective action determination by the Secretary under clause (ii) of the option to transfer their child to another public or Bureau-funded school; and
 
 &emsp;&emsp;&emsp;(v) provide, or pay for the provision of, transportation for each student described in clause (iii) to the school described in clause (iii) to which the student elects to be transferred to the extent funds are available, as determined by the tribal governing body.
 
@@ -202,7 +202,7 @@
 
 #### (F) Hearing
 
-&emsp;&emsp;With respect to a school that is operated pursuant to a grant, or a school that is operated under a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], prior to implementing any corrective action under this paragraph, the Secretary shall provide notice and an opportunity for a hearing to the affected school pursuant to section 5207 of the Tribally Controlled Schools Act of 1988.<sup>1</sup>
+&emsp;&emsp;With respect to a school that is operated pursuant to a grant, or a school that is operated under a contract under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], prior to implementing any corrective actionunder this paragraph, the Secretary shall provide notice and an opportunity for a hearing to the affected school pursuant to section 5207 of the Tribally Controlled Schools Act of 1988.<sup>1</sup>
 
 #### (9) Statutory construction
 
@@ -264,7 +264,7 @@
 
 #### (5) Report
 
-&emsp;The Secretary shall submit to the appropriate committees of Congress, the affectedtribe, and the designated school board, a report describing the process of the active consideration or review referred to in paragraph (4) that includes—
+&emsp;The Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the designated school board, a report describing the process of the active consideration or review referred to in paragraph (4) that includes—
 
 &emsp;&emsp;(A) a study of the impact of such action on the student population;
 
@@ -276,7 +276,7 @@
 
 #### (6) Limitation on certain actions
 
-&emsp;No irrevocable action may be taken in furtherance of any such proposed school closure, transfer to another authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) prior to the end of the first full academic year after such report is made.
+&emsp;No irrevocable action may be taken in furtherance of any such proposed school closure, transfer to another authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) prior to the end ofthe first full academic year after such report is made.
 
 #### (7) Approval of Indian tribes
 
@@ -352,7 +352,7 @@
 
 &emsp;If the Secretary denies an application described in paragraph (1)(A), the Secretary shall—
 
-&emsp;&emsp;(A) state the objections to the application in writing to the applicant not later than 180days after the date the application is submitted to the Secretary;
+&emsp;&emsp;(A) state the objections to the application in writing to the applicant not later than 180 days after the date the application is submitted to the Secretary;
 
 &emsp;&emsp;(B) provide assistance to the applicant to overcome the stated objections;
 
@@ -416,7 +416,7 @@ The Indian Self-Determination and Education Assistance Act referred to in subsec
 
 A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L.99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 #### Amendments
 
@@ -430,7 +430,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives and Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives and Committeeon Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

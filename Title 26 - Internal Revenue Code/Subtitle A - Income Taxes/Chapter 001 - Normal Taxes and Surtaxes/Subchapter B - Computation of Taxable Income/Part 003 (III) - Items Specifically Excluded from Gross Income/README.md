@@ -79,7 +79,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 1992—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
 
-1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
+1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
 
 1988—Pub. L. 100–647, title I, §1013(a)(37), title VI, §6009(c)(4), Nov. 10, 1988, 102 Stat. 3544, 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
 
@@ -89,7 +89,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repealed an amendment made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 
-1983—Pub. L. 97–473, title I, §101(b)(2), Jan. 14, 1983, 96 Stat. 2606, purported to strike out the item relating to section 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
+1983—Pub. L. 97–473, title I, §101(b)(2), Jan. 14, 1983, 96 Stat. 2606, purported to strike out the item relating tosection 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
 
 Pub. L. 97–473, title I, §102(b), Jan. 14, 1983, 96 Stat. 2607, struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 

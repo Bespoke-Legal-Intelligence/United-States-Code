@@ -114,7 +114,7 @@
 
 &emsp;(ii) supporting professional development, recruitment, and retention initiatives for early childhood educators;
 
-&emsp;(iii) enhancing existing early childhood education and development programs and services (in existence on the date on which the grantinvolved is awarded), including quality improvement activities authorized under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\]; and
+&emsp;(iii) enhancing existing early childhood education and development programs and services (in existence on the date on which the grant involved is awarded), including quality improvement activities authorized under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\]; and
 
 &emsp;(iv) carrying out other activities consistent with the State's plan and application, pursuant to subparagraph (B).
 

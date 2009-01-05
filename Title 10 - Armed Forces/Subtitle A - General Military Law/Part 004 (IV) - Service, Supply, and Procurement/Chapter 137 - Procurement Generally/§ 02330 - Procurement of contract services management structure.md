@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Management Structure.—The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
+Requirement for Management Structure.—The Secretary of Defense shall establishand implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
 
 &emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
@@ -52,7 +52,7 @@ Duties and Responsibilities of Senior Officials Responsible for the Management o
 
 &emsp;(D) ensure that contract services are procured by means of procurement actions that are in the best interests of the Department of Defense and are entered into and managed in compliance with applicable laws, regulations, directives, and requirements;
 
-&emsp;(E) ensure that competitive procedures and performance-based contracting are used to themaximum extent practicable for the procurement of contract services; and
+&emsp;(E) ensure that competitive procedures and performance-based contracting are used to the maximum extent practicable for the procurement of contract services; and
 
 &emsp;(F) monitor data collection under section 2330a of this title, and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
 
@@ -72,7 +72,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
+Section 854 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referredto in subsec. (b)(3)(B), is section 854 of div. A of Pub. L. 108–375, which is set out as a note under section 2304 of this title.
 
 Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3)(B), is section 814 of div. A of Pub. L. 105–261, which was formerly set out as a note under section 1535 of Title 31, Money and Finance.
 
@@ -87,6 +87,110 @@ Another prior section 2330 was renumbered section 2349 of this title.
 2006—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
 2002—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
+
+#### Procurement of Commercial Services
+
+Pub. L. 110–181, div. A, title VIII, §805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(4), Oct. 14, 2008, 122 Stat. 4613, provided that:
+
+“(a)
+
+Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall modify the regulations of the Department of Defense for the procurement of commercial services for or on behalf of the Department of Defense.
+
+“(b)
+
+Applicability of Commercial Procedures.—
+
+&emsp;“(1)
+
+Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of section 2306a of title 10, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
+
+&emsp;“(2)
+
+Information submitted.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
+
+&emsp;&emsp;“(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+
+&emsp;&emsp;“(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+
+“(c)
+
+Time-and-Materials Contracts.—
+
+&emsp;“(1)
+
+Commercial item acquisitions.—The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
+
+&emsp;&emsp;“(A) Services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(E)).
+
+&emsp;&emsp;“(B) Emergency repair services.
+
+&emsp;&emsp;“(C) Any other commercial services only to the extent that the head of the agency concerned approves a determination in writing by the contracting officer that—
+
+&emsp;&emsp;&emsp;“(i) the services to be acquired are commercial services as defined in section 4(12)(F) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(F));
+
+&emsp;&emsp;&emsp;“(ii) if the services to be acquired are subject to subsection (b), the offeror of the services has submitted sufficient information in accordance with that subsection;
+
+&emsp;&emsp;&emsp;“(iii) such services are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
+
+&emsp;&emsp;&emsp;“(iv) the use of a time-and-materials or labor-hour contract type is in the best interest of the Government.
+
+&emsp;“(2)
+
+Non-commercial item acquisitions.—Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial item acquisitions for the acquisition of any category of services.”
+
+#### Independent Management Reviews of Contracts for Services
+
+Pub. L. 110–181, div. A, title VIII, §808, Jan. 28, 2008, 122 Stat. 215, provided that:
+
+“(a)
+
+Guidance and Instructions.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent management reviews of contracts for services. The independent management review guidance and instructions issued pursuant to this subsection shall be designed to evaluate, at a minimum—
+
+&emsp;“(1) contract performance in terms of cost, schedule, and requirements;
+
+&emsp;“(2) the use of contracting mechanisms, including the use of competition, the contract structure and type, the definition of contract requirements, cost or pricing methods, the award and negotiation of task orders, and management and oversight mechanisms;
+
+&emsp;“(3) the contractor's use, management, and oversight of subcontractors;
+
+&emsp;“(4) the staffing of contract management and oversight functions; and
+
+&emsp;“(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
+
+“(b)
+
+Additional Subject of Review.—In addition to the matters required by subsection (a), the guidance and instructions issued pursuant to subsection (a) shall provide for procedures for the periodic review of contracts under which one contractor provides oversight for services performed by other contractors. In particular, the procedures shall be designed to evaluate, at a minimum—
+
+&emsp;“(1) the extent of the agency's reliance on the contractor to perform acquisition functions closely associated with inherently governmental functions as defined in section 2383(b)(3) of title 10, United States Code; and
+
+&emsp;“(2) the financial interest of any prime contractor performing acquisition functions described in paragraph (1) in any contract or subcontract with regard to which the contractor provided advice or recommendations to the agency.
+
+“(c)
+
+Elements.—The guidance and instructions issued pursuant to subsection (a) shall address, at a minimum—
+
+&emsp;“(1) the contracts subject to independent management reviews, including any applicable thresholds and exceptions;
+
+&emsp;“(2) the frequency with which independent management reviews shall be conducted;
+
+&emsp;“(3) the composition of teams designated to perform independent management reviews;
+
+&emsp;“(4) any phase-in requirements needed to ensure that qualified staff are available to perform independent management reviews;
+
+&emsp;“(5) procedures for tracking the implementation of recommendations made by independent management review teams; and
+
+&emsp;“(6) procedures for developing and disseminating lessons learned from independent management reviews.
+
+“(c) \[d\]
+
+Reports.—
+
+&emsp;“(1)
+
+Report on guidance and instruction.—Not later than 270 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
+
+&emsp;“(2) GAO
+
+report on implementation.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the implementation of the guidance and instructions issued pursuant to subsection (a).”
 
 #### Establishment and Implementation of Management Structure
 

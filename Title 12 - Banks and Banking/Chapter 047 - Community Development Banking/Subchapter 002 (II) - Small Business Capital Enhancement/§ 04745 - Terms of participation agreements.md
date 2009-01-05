@@ -184,7 +184,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (2) Payment of post-withdrawal claims
 
-&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
+&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of suchwithdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
 
 #### (3) Conditions for terminating special authority
 

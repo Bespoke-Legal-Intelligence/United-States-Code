@@ -20,7 +20,7 @@
 
 #### (4) Duration of certification
 
-&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long asthe area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
 
 #### (5) Review of mapping on appeal
 
@@ -102,7 +102,7 @@ For purposes of applying the minimal effect exemption under subsection (f)(1) of
 
 #### (e) Nonwetlands
 
-The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
+The Secretary shall exempt from the ineligibility provisions of section 3821 of this title any action by a person upon lands in any case inwhich the Secretary determines that any one of the following does not apply with respect to such lands:
 
 &emsp;(1) Such lands have a predominance of hydric soils.
 
@@ -152,9 +152,17 @@ A person shall be afforded the right to appeal, under section 3843 <sup>1</sup>
 
 &emsp;The Secretary may waive a person's ineligibility under section 3821 of this title for program loans, payments, and benefits as the result of the conversion of a wetland subsequent to November 28, 1990, or the production of an agricultural commodity on a converted wetland, if the Secretary determines that the person has acted in good faith and without intent to violate this subchapter.
 
-#### (2) Period for compliance
+#### (2) Eligible reviewers
 
-&emsp;The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to <sup>2</sup> actively restoring the subject wetland.
+&emsp;A determination of the Secretary, or a designee of the Secretary, under paragraph (1) shall be reviewed by the applicable—
+
+&emsp;&emsp;(A) State Executive Director, with the technical concurrence of the State Conservationist; or
+
+&emsp;&emsp;(B) district director, with the technical concurrence of the area conservationist.
+
+#### (3) Period for compliance
+
+&emsp;The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to be actively restoring the subject wetland.
 
 #### (i) Restoration
 
@@ -162,19 +170,25 @@ Any person who is determined to be ineligible for program benefits under section
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
-Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National <sup>3</sup> Resources Conservation Service.
+Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National <sup>2</sup> Resources Conservation Service.
 
 #### (k) Mitigation banking program
 
 Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection.
 
-(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987.)
+(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756.)
 
 #### References in Text
 
 Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843 does not relate to appeal procedures.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (h)(2), (3). Pub. L. 110–246, §2003, added par. (2), redesignated former par. (2) as (3), and inserted “be” before “actively”.
 
 1996—Subsec. (a). Pub. L. 104–127, §322(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text consisted of pars. (1) to (4) relating to delineation of wetlands.
 
@@ -196,13 +210,15 @@ Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as a note under section 3821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “Natural”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Natural”.</i>
 

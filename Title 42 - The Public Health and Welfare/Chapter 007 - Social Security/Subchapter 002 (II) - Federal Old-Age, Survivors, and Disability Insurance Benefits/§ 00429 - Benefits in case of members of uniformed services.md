@@ -10,7 +10,7 @@ For purposes of determining entitlement to and the amount of any monthly benefit
 
 #### Amendments
 
-2004—Pub. L. 108–203, §420(b)(1), struck out subsec. (a) designation before “For purposes of” and struck out subsec. (b), which authorized to be appropriated to each of the Trust Funds, for transfer on July 1 of each calendar year to such Fund, an amount equal to the total of the additional amounts which would be appropriated to such Fund for the fiscal year ending Sept. 30 of such calendar year under section 401 or 1395i of this title if the amounts of the additional wages deemed to have been paid for such calendar year constituted remuneration for employment for purposes of the taxes imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 and set forth provisions relating to determination of amounts authorized to be appropriated and adjustments to such amounts.
+2004—Pub. L. 108–203, §420(b)(1), struck out subsec. (a) designation before “For purposes of” and struck outsubsec. (b), which authorized to be appropriated to each of the Trust Funds, for transfer on July 1 of each calendar year to such Fund, an amount equal to the total of the additional amounts which would be appropriated to such Fund for the fiscal year ending Sept. 30 of such calendar year under section 401 or 1395i of this title if the amounts of the additional wages deemed to have been paid for such calendar year constituted remuneration for employment for purposes of the taxes imposed by sections 3101 and 3111 of the Internal Revenue Code of 1986 and set forth provisions relating to determination of amounts authorized to be appropriated and adjustments to such amounts.
 
 Par. (2). Pub. L. 108–203, §420(b)(2), inserted “and before 2002” after “1977”.
 

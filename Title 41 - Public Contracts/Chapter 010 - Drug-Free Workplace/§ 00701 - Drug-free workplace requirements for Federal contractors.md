@@ -4,7 +4,7 @@
 
 #### (1) Requirement for persons other than individuals
 
-&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater thanthe simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items (as defined in section 403(12) of this title), unless such person agrees to provide a drug-free workplace by—
+&emsp;No person, other than an individual, shall be considered a responsible source, under the meaning of such term as defined in section 403(8) of this title, for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 403(11) of this title) by any Federal agency, other than a contract for the procurement of commercial items (as defined in section 403(12) of this title), unless such person agrees to provide a drug-free workplace by—
 
 &emsp;&emsp;(A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person's workplace and specifying the actions that will be taken against employees for violations of such prohibition;
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(E) notifying the contracting agency within 10 days after receiving notice under subparagraph (D)(ii) from an employee or otherwise receiving actual notice of such conviction;
 
-&emsp;&emsp;(F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation program by, any employee who is so convicted, as required by section 703 of this title; and
+&emsp;&emsp;(F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation programby, any employee who is so convicted, as required by section 703 of this title; and
 
 &emsp;&emsp;(G) making a good faith effort to continue to maintain a drug-free workplace through implementation of subparagraphs (A), (B), (C), (D), (E), and (F).
 

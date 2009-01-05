@@ -8,7 +8,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 &emsp;(2) for each wellhead, determine the wellhead protection area as defined in subsection (e) of this section based on all reasonably available hydrogeologic information on ground water flow, recharge and discharge and other information the State deems necessary to adequately determine the wellhead protection area;
 
-&emsp;(3) identify within each wellhead protection area all potential anthropogenic sources of contaminants which may have any adverse effect on the health of persons;
+&emsp;(3) identify within each wellhead protection area all potential anthropogenic sources ofcontaminants which may have any adverse effect on the health of persons;
 
 &emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures, education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
 
@@ -50,7 +50,7 @@ As used in this section, the term “wellhead protection area” means the surfa
 
 #### (g) Implementation
 
-Each State shall make every reasonable effort to implement the State wellhead area protection program under this section within 2 years of submitting the program to the Administrator. Each State shall submit to the Administrator a biennial status report describing the State's progress in implementing the program. Such report shall include amendments to the State program for water wells sited during the biennial period.
+Each State shall make every reasonable effort to implement the State wellhead area protection program under this section within 2 years of submitting the program to the Administrator. Each State shall submit to the Administrator a biennial status report describing the State's progress in implementing the program. Such report shall include amendments to theState program for water wells sited during the biennial period.
 
 #### (h) Federal agencies
 
@@ -86,7 +86,7 @@ Unless the State program is disapproved under this section, the Administrator sh
 
 | Fiscal year: | <i>Amount</i> |
 | :--- | ---: |
-| &nbsp;&nbsp;1987 | $20,000,000   |
+| &nbsp;&nbsp;1987 | $20,000,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;1988 | 20,000,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;1989 | 35,000,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;1990 | 35,000,000&nbsp;&nbsp; |
@@ -113,7 +113,7 @@ Subsec. (c)(1). Pub. L. 104–182, §132(b)(3), which directed substitution of �
 
 Pub. L. 104–182, §132(b)(2), inserted after second sentence “A State program developed pursuant to section 300j–13 of this title or section 300g–7(b) of this title shall be deemed to meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements.”
 
-Pub. L. 104–182, §132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
+Pub. L. 104–182, §132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition ofa wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
 
 Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted “is disapproved” for “is inadequate”.
 

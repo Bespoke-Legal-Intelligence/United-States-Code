@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [5301\.](%C2%A7%2005301%20-%20Nonassignability%20and%20exempt%20status%20of%20benefits.md) | Nonassignability and exempt status of benefits. |
 | [5302\.](%C2%A7%2005302%20-%20Waiver%20of%20recovery%20of%20claims%20by%20the%20United%20States.md) | Waiver of recovery of claims by the United States. |
+| 5302A. | Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone. |
 | [5303\.](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md) | Certain bars to benefits. |
 | [5303A.](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md) | Minimum active-duty service requirement. |
 | [5304\.](%C2%A7%2005304%20-%20Prohibition%20against%20duplication%20of%20benefits.md) | Prohibition against duplication of benefits. |
@@ -29,6 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–252, title I, §1303(a)(2), June 30, 2008, 122 Stat. 2327, added item 5302A.
 
 2007—Pub. L. 110–157, title III, §301(b)(2), Dec. 26, 2007, 121 Stat. 1836, added item 5317A.
 
@@ -65,6 +68,7 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 
 - [&sect; 05301 - Nonassignability and exempt status of benefits](%C2%A7%2005301%20-%20Nonassignability%20and%20exempt%20status%20of%20benefits.md)
 - [&sect; 05302 - Waiver of recovery of claims by the United States](%C2%A7%2005302%20-%20Waiver%20of%20recovery%20of%20claims%20by%20the%20United%20States.md)
+- [&sect;5302A-1- Collection of indebtedness certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line&#8230;](%C2%A75302A-1-%20Collection%20of%20indebtedness%20certain%20debts%20of%20members%20of%20the%20Armed%20Forces%20and%20veterans%20who%20die%20of%20injury%20incurred%20or%20aggravated%20in%20the%20line%E2%80%A6.md)
 - [&sect; 05303 - Certain bars to benefits](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md)
 - [&sect; 05303A - Minimum active-duty service requirement](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md)
 - [&sect; 05304 - Prohibition against duplication of benefits](%C2%A7%2005304%20-%20Prohibition%20against%20duplication%20of%20benefits.md)

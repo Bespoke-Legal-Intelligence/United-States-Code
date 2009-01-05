@@ -26,7 +26,7 @@ Not later than 180 days after January 7, 1983, the Secretary, following consulta
 
 &emsp;(vi) an assessment of the regional and local impacts of locating the proposed repository at such site.
 
-(E)(i) <sup>1</sup> The issuance of any environmental assessment under this paragraph shall be considered to be a final agency action subject to judicial review in accordance with the provisions of chapter 7 of title 5 and section 10139 of this title. Such judicial review shall be limited to the sufficiency of such environmental assessment with respect to the items described in clauses (i) through (vi) of subparagraph (E).
+(E)(i) <sup>1</sup> The issuance of any environmental assessment under this paragraph shall be considered to be a final agency action subject to judicial review in accordance with the provisions of chapter 7 of title 5 and section 10139 of this title. Such judicial review shall be limited to the sufficiency of such environmental assessment with respect to the items described in clauses (i) through (vi) of subparagraph (E).<sup>2</sup>
 
 (F) Each environmental assessment prepared under this paragraph shall be made available to the public.
 
@@ -52,7 +52,7 @@ Except as otherwise provided in this section, each activity of the President or 
 
 1987—Subsec. (b)(1)(C) to (H). Pub. L. 100–202 and Pub. L. 100–203, §5011(b), amended par. (1) identically, redesignating subpars. (D) to (H) as (C) to (G), respectively, in subpar. (C) substituting “subparagraph (B)” for “subparagraphs (B) and (C)”, and striking out former subpar. (C) which read as follows: “Not later than July 1, 1989, the Secretary shall nominate 5 sites, which shall include at least 3 additional sites not nominated under subparagraph (A), and recommend by such date to the President from such 5 nominated sites 3 candidate sites the Secretary determines suitable for site characterization for selection of the second repository. The Secretary may not nominate any site previously nominated under subparagraph (A), that was not recommended as a candidate site under subparagraph (B).”
 
-Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(c), amended section identically, redesignating subsec. (e) as (d) and striking out former subsec (d) which read as follows: “After the required recommendation of candidate sites under subsection (b) of this section, the Secretary may continue, as he determines necessary, to identify and study other sites to determine their suitability for recommendation for site characterization, in accordance with the procedures described in this section.”
+Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(c), amended section identically, redesignating subsec. (e) as (d) and striking out former subsec (d) which read as follows: “After the required recommendation of candidate sites under subsection (b) of this section, the Secretary may continue, as he determines necessary, to identify and study other sites to determine their suitability for recommendation for sitecharacterization, in accordance with the procedures described in this section.”
 
 Subsec. (e). Pub. L. 100–202 and Pub. L. 100–203, §5011(d), which contained identical amendments directing that subsec. (f) be struck out and all subsequent subsections be redesignated accordingly, was executed by striking out subsec. (e) as the probable intent of Congress because of the redesignation of former subsec. (f) as (e) by Pub. L. 100–202 and Pub. L. 100–203, §5011(c), and the absence of any subsections subsequent to former subsec. (f). Subsec. (e) read as follows: “Nothing in this section may be construed as prohibiting the Secretary from continuing ongoing or presently planned site characterization at any site on Department of Energy land for which the location of the principal borehole has been approved by the Secretary by August 1, 1982, except that (1) the environmental assessment described in subsection (b)(1) of this section shall be prepared and made available to the public before proceeding to sink shafts at any such site; and (2) the Secretary shall not continue site characterization at any such site unless such site is among the candidate sites recommended by the Secretary under the first sentence of subsection (b) of this section for site characterization and approved by the President under subsection (c) of this section; and (3) the Secretary shall conduct public hearings under section 10133(b)(2) of this title and comply with requirements under section 10137 of this title within one year of January 7, 1983.”
 
@@ -81,4 +81,6 @@ This document shall be published in the Federal Register.
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. There is no cl. (ii).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (D).”</i>
 

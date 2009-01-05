@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) for fiscal year 2007 and subsequent fiscal years is—
 
-&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in theState who received special education and related services—
+&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in the State who received special education and related services—
 
 &emsp;&emsp;&emsp;&emsp;(I) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
 
@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may reserve not more than 1/2 of 1 percent of the amounts appropriated under this subchapter for each fiscal year to provide technical assistance activities authorized under section 1416(i) of this title.
+&emsp;The Secretary may reserve not more than 1/2 of 1 percent of the amounts appropriated under this subchapter for each fiscal year to providetechnical assistance activities authorized under section 1416(i) of this title.
 
 #### (2) Maximum amount
 
@@ -282,7 +282,7 @@
 
 #### (ii) State plan
 
-&emsp;&emsp;&emsp;The State educational agency shall develop, not later than 90 days after the State reserves funds under this paragraph, annually review, and amend as necessary, a State plan for the high cost fund. Such State plan shall—
+&emsp;&emsp;&emsp;The State educational agency shall develop, not later than 90 days after theState reserves funds under this paragraph, annually review, and amend as necessary, a State plan for the high cost fund. Such State plan shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish, in coordination with representatives from local educational agencies, a definition of a high need child with a disability that, at a minimum—
 
@@ -386,7 +386,7 @@
 
 #### (3) Reallocation of funds
 
-&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in thearea served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
 
 #### (g) Definitions
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs, including child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
-&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise ofmonitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
+&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
 #### (3) Applicability
 
@@ -464,7 +464,7 @@ In this section:
 
 #### (D) Use of funds
 
-&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
+&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The tribe or tribal organization shall, as appropriate,make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
 
 #### (E) Biennial report
 
@@ -482,7 +482,7 @@ In this section:
 
 &emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
-&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State,and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
+&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 
 &emsp;&emsp;(B) advise and assist the Secretary of the Interior in the performance of the Secretary of the Interior's responsibilities described in this subsection;
 
@@ -532,7 +532,7 @@ The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1411, Pub. L. 91–230, title VI, §611, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

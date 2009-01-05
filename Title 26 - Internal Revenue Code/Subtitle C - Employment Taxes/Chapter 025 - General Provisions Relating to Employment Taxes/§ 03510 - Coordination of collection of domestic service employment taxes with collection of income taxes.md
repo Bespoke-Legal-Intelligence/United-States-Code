@@ -26,7 +26,7 @@ Except as otherwise provided in this section—
 
 #### (3) Annualization
 
-&emsp;Under regulations prescribed by the Secretary, appropriate adjustments shall be madein the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).
+&emsp;Under regulations prescribed by the Secretary, appropriate adjustments shall be made in the application of section 6654(d)(2) in respect of the amount treated as tax under paragraph (1).
 
 #### (4) Transitional rule
 
@@ -76,7 +76,7 @@ A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983
 
 #### Effective Date
 
-Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
+Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by this subsection \[enacting thissection\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
 
 #### Expanded Information to Employers
 

@@ -12,7 +12,7 @@
 
 &emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the midshipman is permitted to resign as a regular officer before completion of the commissioned service obligation of the midshipman, the midshipman—
 
-&emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Navy Reserve or the Marine Corps Reserve or as a Reserve in the Air Force for service in the Air Force Reserve; and
+&emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Navy Reserve or theMarine Corps Reserve or as a Reserve in the Air Force for service in the Air Force Reserve; and
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
 
@@ -34,7 +34,7 @@
 
 (e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
 
-(2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required bysubsection (a) only with the consent of a parent or guardian.
+(2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
 (f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 

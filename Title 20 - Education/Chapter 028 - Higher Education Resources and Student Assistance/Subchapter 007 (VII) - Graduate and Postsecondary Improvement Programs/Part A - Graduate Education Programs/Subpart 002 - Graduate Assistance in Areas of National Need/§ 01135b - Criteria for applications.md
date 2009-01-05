@@ -22,7 +22,7 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;&emsp;(B) have excellent academic records in their previous programs of study; and
 
-&emsp;&emsp;(C) plan to pursue the highest possible degree available in their course of study;
+&emsp;&emsp;(C) plan to pursue the highest possible degree available in their course of study at the institution;
 
 &emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
 
@@ -34,7 +34,7 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;(10) include such other information as the Secretary may prescribe.
 
-(Pub. L. 89–329, title VII, §713, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1791.)
+(Pub. L. 89–329, title VII, §713, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1791; amended Pub. L. 110–315, title VII, §703(e)(3), Aug. 14, 2008, 122 Stat. 3347.)
 
 #### Prior Provisions
 
@@ -42,7 +42,7 @@ Provisions similar to this section were contained in section 1134<i>o</i> of thi
 
 A prior section 1135b, Pub. L. 89–329, title X, §1021, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561, and amended, which related to purpose of and authority for minority science improvement program, was renumbered section 351 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067a of this title.
 
-Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
+Another prior section 1135b, Pub. L. 89–329, title X, §1051, as added Pub. L. 92–318, title I, §186(a)(1), June 23,1972, 86 Stat. 316, authorized appropriations for occupational education programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
 Another prior section 1135b, Pub. L. 89–329, title X, §1003, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, related to selection of grant recipients for improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
@@ -77,4 +77,8 @@ Section 1135b–7, Pub. L. 89–329, title X, §1058, as added Pub. L. 92–318,
 Section 1135b–8, Pub. L. 89–329, title X, §1059, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 321, authorized technical assistance to the States by Commissioner and the establishment of model programs.
 
 Section 1135b–9, Pub. L. 89–329, title X, §1060, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 322, defined the terms “State” and “postsecondary occupational education” for purposes of occupational education programs.
+
+#### Amendments
+
+2008—Subsec. (b)(5)(C). Pub. L. 110–315 inserted “at the institution” before semicolon at end.
 

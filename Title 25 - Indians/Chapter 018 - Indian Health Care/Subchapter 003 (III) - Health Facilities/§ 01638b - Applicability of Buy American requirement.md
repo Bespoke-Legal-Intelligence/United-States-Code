@@ -6,7 +6,7 @@ The Secretary shall ensure that the requirements of the Buy American Act \[41 U.
 
 #### (b) Report to Congress
 
-The Secretary shall submit to the Congress a report on the amount of procurements from foreign entities made in fiscal years 1993 and 1994 with funds provided pursuant to the authorization contained in section 1638a of this title.Such report shall separately indicate the dollar value of items procured with such funds for which the Buy American Act \[41 U.S.C. 10a et seq.\] was waived pursuant to the Trade Agreement Act of 1979 or any international agreement to which the United States is a party.
+The Secretary shall submit to the Congress a report on the amount of procurements from foreign entities made in fiscal years 1993 and 1994 with funds provided pursuant to the authorization contained in section 1638a of this title. Such report shall separately indicate the dollar value of items procured with such funds for which the Buy American Act \[41 U.S.C. 10a et seq.\] was waived pursuant to the Trade Agreement Act of 1979 or any international agreement to which the United States is a party.
 
 #### (c) Fraudulent use of Made-in-America label
 

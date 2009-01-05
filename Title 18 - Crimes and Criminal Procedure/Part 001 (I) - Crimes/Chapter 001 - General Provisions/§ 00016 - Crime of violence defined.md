@@ -2,7 +2,7 @@
 
 The term “crime of violence” means—
 
-&emsp;(a) an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or
+&emsp;(a) an offense that has as an element the use, attempted use, or threatened use of physicalforce against the person or property of another, or
 
 &emsp;(b) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 

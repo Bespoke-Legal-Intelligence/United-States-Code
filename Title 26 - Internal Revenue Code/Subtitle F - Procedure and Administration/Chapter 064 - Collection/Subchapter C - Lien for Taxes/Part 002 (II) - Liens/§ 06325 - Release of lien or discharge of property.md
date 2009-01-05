@@ -36,7 +36,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 #### (A) In general
 
-&emsp;&emsp;At the request of the owner of any property subject to any lien imposed by thischapter, the Secretary shall issue a certificate of discharge of such property if such owner—
+&emsp;&emsp;At the request of the owner of any property subject to any lien imposed by this chapter, the Secretary shall issue a certificate of discharge of such property if such owner—
 
 &emsp;&emsp;&emsp;(i) deposits with the Secretary an amount of money equal to the value of the interest of the United States (as determined by the Secretary) in the property; or
 

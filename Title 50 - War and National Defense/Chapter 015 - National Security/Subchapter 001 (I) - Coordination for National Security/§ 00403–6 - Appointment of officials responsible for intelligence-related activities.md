@@ -50,21 +50,21 @@
 
 #### Amendments
 
-2007—Subsec. (b)(2)(I). Pub. L. 110–53 amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The Assistant Secretary of Homeland Security for Information Analysis.”
+<b>2007</b>—Subsec. (b)(2)(I). Pub. L. 110–53 amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “The Assistant Secretary of Homeland Security for Information Analysis.”
 
-2006—Subsec. (c)(2)(C). Pub. L. 109–177 added subpar. (C).
+<b>2006</b>—Subsec. (c)(2)(C). Pub. L. 109–177 added subpar. (C).
 
-2004—Pub. L. 108–458 amended text generally, substituting provisions relating to involvement of Director of National Intelligence in appointments, consisting of subsecs. (a) to (c), for provisions relating to involvement of Director of Central Intelligence in appointments, consisting of subsecs. (a) and (b).
+<b>2004</b>—Pub. L. 108–458 amended text generally, substituting provisions relating to involvement of Director of National Intelligence in appointments, consisting of subsecs. (a) to (c), for provisions relating to involvement of Director of Central Intelligence in appointments, consisting of subsecs. (a) and (b).
 
-2003—Subsec. (a)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Subsec. (a)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 Subsec. (b)(2)(E). Pub. L. 108–177 added subpar. (E).
 
-2001—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”.
+<b>2001</b>—Subsec. (b)(2)(C), (D). Pub. L. 107–108 added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Director of the Office of Nonproliferation and National Security of the Department of Energy.”.
 
-1996—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
+<b>1996</b>—Pub. L. 104–293 amended section generally, substituting provisions relating to appointment of individuals responsible for intelligence-related activities for provisions relating to administrative provisions pertaining to defense elements within the intelligence community.
 
-1994—Subsec. (b). Pub. L. 103–359 substituted “Central Imagery Office” for “central imagery authority” in heading and text.
+<b>1994</b>—Subsec. (b). Pub. L. 103–359 substituted “Central Imagery Office” for “central imagery authority” in heading and text.
 
 #### Effective Date of 2004 Amendment
 

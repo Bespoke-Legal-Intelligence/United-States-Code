@@ -6,7 +6,7 @@ A plan issued pursuant to this chapter may contain one or more of the terms and 
 
 #### (b) Exemptions
 
-The plan may provide authority to exempt from the plan pecans used for nonfood uses and authority for the Board to require satisfactory safeguards against improper uses of such exemptions.
+The plan may provide authority to exempt from the plan pecans used for nonfood uses andauthority for the Board to require satisfactory safeguards against improper uses of such exemptions.
 
 #### (c) Different payment and reporting schedules
 
@@ -22,7 +22,7 @@ The plan may provide for the establishment, issuance, effectuation, and administ
 
 #### (e) Research and information
 
-The plan may provide for establishing and carrying on research, consumer information, and industry information projects and studies to theend that the marketing and utilization of pecans may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
+The plan may provide for establishing and carrying on research, consumer information, and industry information projects and studies to the end that the marketing and utilization of pecans may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
 
 #### (f) Reserve funds
 

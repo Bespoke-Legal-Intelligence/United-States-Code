@@ -6,27 +6,27 @@
 
 &emsp;There are authorized to be appropriated to the Secretary to carry out this subchapter—
 
-&emsp;&emsp;(A) $60,000,000 for fiscal year 2003;
+&emsp;&emsp;(A) $72,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $75,000,000 for fiscal year 2004;
+&emsp;&emsp;(B) $75,600,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $77,500,000 for fiscal year 2005;
+&emsp;&emsp;(C) $79,380,000 for fiscal year 2011;
 
-&emsp;&emsp;(D) $80,000,000 for fiscal year 2006;
+&emsp;&emsp;(D) $83,350,000 for fiscal year 2012;
 
-&emsp;&emsp;(E) $82,500,000 for fiscal year 2007; and
+&emsp;&emsp;(E) $87,520,000 for fiscal year 2013; and
 
-&emsp;&emsp;(F) $85,000,000 for fiscal year 2008.
+&emsp;&emsp;(F) $91,900,000 for fiscal year 2014.
 
 #### (2) Priority activities
 
-&emsp;In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated for each of fiscal years 2003 through 2008—
+&emsp;In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated for each of fiscal years 2009 through 2014—
 
-&emsp;&emsp;(A) $5,000,000 for competitive grants for university research on the biology and control of zebra mussels and other important aquatic nonnative species;
+&emsp;&emsp;(A) $5,000,000 for competitive grants for university research on the biology, prevention, and control of aquatic nonnative species;
 
 &emsp;&emsp;(B) $5,000,000 for competitive grants for university research on oyster diseases, oyster restoration, and oyster-related human health risks;
 
-&emsp;&emsp;(C) $5,000,000 for competitive grants for university research on the biology, prevention, and forecasting of harmful algal blooms, including Pfiesteria piscicida; and
+&emsp;&emsp;(C) $5,000,000 for competitive grants for university research on the biology, prevention, and forecasting of harmful algal blooms; and
 
 &emsp;&emsp;(D) $3,000,000 for competitive grants for fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
@@ -48,9 +48,9 @@
 
 In any fiscal year in which the appropriations made under subsection (a)(1) of this section exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
 
-&emsp;(1) sea grant programs, according to their rating under section 1123(d)(3)(A) of this title;
+&emsp;(1) sea grant programs, according to their performance assessments;
 
-&emsp;(2) national strategic investments authorized under section 1123(b)(4) of this title;
+&emsp;(2) regional or national strategic investments authorized under section 1123(b)(4) of this title;
 
 &emsp;(3) a college, university, institution, association, or alliance for activities that are necessary for it to be designated as a sea grant college or sea grant institute; and
 
@@ -64,13 +64,25 @@ Sums appropriated pursuant to this section shall remain available until expended
 
 The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347.)
+(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, §10, Oct. 13, 2008, 122 Stat. 4209.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (e), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–394, §10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
+
+Subsec. (a)(2). Pub. L. 110–394, §10(2)(A), substituted “fiscal years 2009 through 2014—” for “fiscal years 2003 through 2008—” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 110–394, §10(2)(B), substituted “biology, prevention, and control of aquatic” for “biology and control of zebra mussels and other important aquatic”.
+
+Subsec. (a)(2)(C). Pub. L. 110–394, §10(2)(C), substituted “blooms; and” for “blooms, including Pfiesteria piscicida; and”.
+
+Subsec. (c)(1). Pub. L. 110–394, §10(3), substituted “performance assessments” for “rating under section 1123(d)(3)(A) of this title”.
+
+Subsec. (c)(2). Pub. L. 110–394, §10(4), added par. (2) and struck out former par. (2) which read as follows:“national strategic investments authorized under section 1123(b)(4) of this title;”.
 
 2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 

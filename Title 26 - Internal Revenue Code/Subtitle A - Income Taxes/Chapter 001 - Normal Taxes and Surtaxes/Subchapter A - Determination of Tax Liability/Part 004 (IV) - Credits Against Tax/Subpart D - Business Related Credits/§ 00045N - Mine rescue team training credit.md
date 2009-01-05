@@ -26,9 +26,13 @@ For purposes of this section, the term “wages” has the meaning given to such
 
 #### (e) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2008.
+This section shall not apply to taxable years beginning after December 31, 2009.
 
-(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957.)
+(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957; amended Pub. L. 110–343, div. C, title III, §310, Oct. 3, 2008, 122 Stat. 3869.)
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
 
 #### Effective Date
 

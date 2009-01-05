@@ -60,5 +60,13 @@ In this part:
 
 &emsp;&emsp;(B) the California Air Resources Board.
 
-(Pub. L. 109–58, title VII, §791, Aug. 8, 2005, 119 Stat. 838.)
+#### (9) Definition of State
+
+&emsp;The term “State” includes the District of Columbia.
+
+(Pub. L. 109–58, title VII, §791, Aug. 8, 2005, 119 Stat. 838; Pub. L. 110–255, §3(a), June 30, 2008, 122 Stat. 2423.)
+
+#### Amendments
+
+2008—Par. (9). Pub. L. 110–255 added par. (9).
 

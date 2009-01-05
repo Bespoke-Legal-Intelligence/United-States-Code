@@ -339,7 +339,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;For purposes of this subsection, the term “personal interest” means any interest allowable as a deduction under this chapter other than—
 
-&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business\(other than the trade or business of performing services as an employee),
+&emsp;&emsp;(A) interest paid or accrued on indebtedness properly allocable to a trade or business (other than the trade or business of performing services as an employee),
 
 &emsp;&emsp;(B) any investment interest (within the meaning of subsection (d)),
 
@@ -379,7 +379,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) $1,000,000 limitation
 
-&emsp;&emsp;&emsp;The aggregate amount treated as acquisition indebtedness for any period shall not exceed $1,000,000 ($500,000 in the case of a married individual filing a separate return).
+&emsp;&emsp;&emsp;The aggregate amount treated as acquisition indebtedness for any period shallnot exceed $1,000,000 ($500,000 in the case of a married individual filing a separate return).
 
 #### (C) Home equity indebtedness
 
@@ -433,7 +433,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Phaseout
 
-&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (butnot below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
+&emsp;&emsp;&emsp;The amount otherwise treated as interest under clause (i) shall be reduced (but not below zero) by 10 percent of such amount for each $1,000 ($500 in the case of a married individual filing a separate return) (or fraction thereof) that the taxpayer's adjusted gross income for the taxable year exceeds $100,000 ($50,000 in the case of a married individual filing a separate return).
 
 #### (iii) Limitation
 
@@ -547,7 +547,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection and subsection (e)(5), including—
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thepurposes of this subsection and subsection (e)(5), including—
 
 &emsp;&emsp;(A) regulations providing for modifications to the provisions of this subsection and subsection (e)(5) in the case of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, conversion rights, or other circumstances where such modifications are appropriate to carry out the purposes of this subsection and subsection (e)(5), and
 
@@ -941,7 +941,7 @@ Subsec. (h)(3)(C). Pub. L. 100–647, §1005(c)(5), effective as if enacted imme
 
 Subsec. (h)(4). Pub. L. 100–647, §1005(c)(6)(A), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended heading by substituting “Other definitions and special rules—For purposes of this subsection—” for “Other definitions and special rules”.
 
-Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment ofPub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out “For purposes of this subsection—” after “Qualified residence” in introductory provisions, “used or” after “Residence not” in cl. (iii) heading, and “or use” after “does not rent” in cl. (iii) text.
+Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out “For purposes of this subsection—” after “Qualified residence” in introductory provisions, “used or” after “Residence not” in cl. (iii) heading, and “or use” after “does not rent” in cl. (iii) text.
 
 Subsec. (h)(4)(B). Pub. L. 100–647, §1005(c)(6)(B)(ii), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (B) by substituting “Any” for “For purposes of this paragraph, any”.
 
@@ -1045,7 +1045,7 @@ Subsec. (f). Pub. L. 97–248, §310(b)(2), added subsec. (f) relating to the re
 
 Subsec. (g). Pub. L. 97–248, §310(b)(2), redesignated former subsec. (f), setting forth cross references, as (g).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted “organization described in section170(b)(1)(A)(ii) and which is provided for a student of such organization” for “institution (as defined in section 151(e)(4)) and which is provided for a student of such institution”.
+1976—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted “organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization” for “institution (as defined in section 151(e)(4)) and which is provided for a student of such institution”.
 
 Subsec. (d)(1). Pub. L. 94–455, §209(a)(1), among other changes, substituted in subpar. (A) “$10,000” for “$25,000” and “$5,000” for “$12,500”, struck out subpar. (C) relating to the excess of net long-term capital gain over short-term capital loss and subpar. (D) relating to the excess of investment interest over amounts in subpar. (A), and in provisions following lettered paragraphs substituted “$10,000” for “$25,000” and struck out provisions relating to the determination of the amount referred to in subpar. (C).
 
@@ -1129,7 +1129,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Election.—In the case of the estate of any decedent dying before January 1, 1998, with respect to whichthere is an election under section 6166 of the Internal Revenue Code of 1986, the executor of the estate may elect to have the amendments made by this section apply with respect to installments due after the effective date of the election; except that the 2-percent portion of such installments shall be equal to the amount which would be the 4-percent portion of such installments without regard to such election. Such an election shall be made before January 1, 1999 in the manner prescribed by the Secretary of the Treasury and, once made, is irrevocable.”
+Election.—In the case of the estate of any decedent dying before January 1, 1998, with respect to which there is an election under section 6166 of the Internal Revenue Code of 1986, the executor of the estate may elect to have the amendments made by this section apply with respect to installments due after the effective date of the election; except that the 2-percent portion of such installments shall be equal to the amount which would be the 4-percent portion of such installments without regard to such election. Such an election shall be made before January 1, 1999 in the manner prescribed by the Secretary of the Treasury and, once made, is irrevocable.”
 
 Section 1005(b) of Pub. L. 105–34 provided that:
 
@@ -1311,7 +1311,7 @@ Section 1005(c)(14) of Pub. L. 100–647 provided that:
 
 &emsp;“(ii) such individual incurs indebtedness which is secured by such qualified residence,
 
-> the amount determined under paragraph (3)(B)(ii)(I) of section 163(h) of the 1986 Code (as in effect before the amendments made by the Revenue Act of 1987 \[Pub. L.100–203, title X\]) with respect to such qualified residence shall be increased by the amount determined under subparagraph (B).
+> the amount determined under paragraph (3)(B)(ii)(I) of section 163(h) of the 1986 Code (as in effect before the amendments made by the Revenue Act of 1987 \[Pub. L. 100–203, title X\]) with respect to such qualified residence shall be increased by the amount determined under subparagraph (B).
 
 “(B) The amount determined under this subparagraph shall be equal to the excess (if any) of—
 

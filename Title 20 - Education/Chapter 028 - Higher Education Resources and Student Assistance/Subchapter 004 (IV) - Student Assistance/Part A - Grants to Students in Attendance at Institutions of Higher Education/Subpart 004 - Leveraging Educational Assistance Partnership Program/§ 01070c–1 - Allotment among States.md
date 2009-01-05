@@ -2,7 +2,7 @@
 
 #### (a) Allotment based on number of eligible students in attendance
 
-(1) From the sums appropriated pursuant to section 1070c(b)(1) of this title and not reservedunder section 1070c(b)(2) of this title for any fiscal year, the Secretary shall allot to each State an amount which bears the same ratio to such sums as the number of students who are deemed eligible in such State for participation in the grant program authorized by this subpart bears to the total number of such students in all the States, except that no State shall receive less than the State received for fiscal year 1979.
+(1) From the sums appropriated pursuant to section 1070c(b)(1) of this title and not reserved under section 1070c(b)(2) of this title for any fiscal year, the Secretary shall allot to each State an amount which bears the same ratio to such sums as the number of students who are deemed eligible in such State for participation in the grant program authorized by this subpart bears to the total number of such students in all the States, except that no State shall receive less than the State received for fiscal year 1979.
 
 (2) For the purpose of this subsection, the number of students who are deemed eligible in a State for participation in the grant program authorized by this subpart, and the number of such students in all the States, shall be determined for the most recent year for which satisfactory data are available.
 
@@ -14,7 +14,7 @@ The amount of any State's allotment under subsection (a) of this section for any
 
 The Secretary shall make payments for continuing incentive grants only to States which continue to meet the requirements of section 1070c–2(b) of this title.
 
-(Pub. L. 89–329, title IV, §415B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1333; amended Pub. L. 105–244, title IV, §407(a)(2)(A), (c)(2), Oct. 7, 1998, 112 Stat. 1666, 1667.)
+(Pub. L. 89–329, title IV, §415B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1333; amended Pub. L. 105–244, title IV, §407(a)(2)(A), (c)(2), Oct. 7, 1998, 112 Stat. 1666, 1667.)
 
 #### Prior Provisions
 

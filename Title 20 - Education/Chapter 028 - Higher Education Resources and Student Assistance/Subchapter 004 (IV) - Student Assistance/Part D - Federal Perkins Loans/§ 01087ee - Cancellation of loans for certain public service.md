@@ -6,35 +6,53 @@
 
 (2) Loans shall be canceled under paragraph (1) for service—
 
-&emsp;(A) as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 <sup>1</sup> exceeds 30 percent of the total enrollment of that school;
+&emsp;(A) as a full-time teacher for service in an academic year (including such a teacher employed by an educational service agency)—
 
-&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\] which is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
+&emsp;&emsp;(i) in a public or other nonprofit private elementary school or secondary school, which, for the purpose of this paragraph and for that year—
 
-&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
+&emsp;&emsp;&emsp;(I) has been determined by the Secretary (pursuant to regulations of the Secretary and after consultation with the State educational agency of the State in which the school is located) to be a school in which the number of children meeting a measure of poverty under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6313(a)(5)\], exceeds 30 percent of the total number of children enrolled in such school; and
+
+&emsp;&emsp;&emsp;(II) is in the school district of a local educational agency which is eligible in such year for assistance pursuant to part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\]; or
+
+&emsp;&emsp;(ii) in one or more public, or nonprofit private, elementary schools or secondary schools or locations operated by an educational service agency that have been determined by the Secretary (pursuant to regulations of the Secretary and after consultation with the State educational agency of the State in which the educational service agency operates) to be a school or location at which the number of children taught who meet a measure of poverty under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6313(a)(5)\], exceeds 30 percent of the total number of children taught at such school or location;
+
+&emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
+
+&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
 &emsp;(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310 of title 37 as an area of hostilities;
 
 &emsp;(E) as a volunteer under the Peace Corps Act \[22 U.S.C. 2501 et seq.\] or a volunteer under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\];
 
-&emsp;(F) as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;
+&emsp;(F) as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies, or as a full-time attorney employed in a defender organization established in accordance with section 3006A(g)(2) of title 18;
 
 &emsp;(G) as a full-time teacher of mathematics, science, foreign languages, bilingual education, or any other field of expertise where the State educational agency determines there is a shortage of qualified teachers;
 
-&emsp;(H) as a full-time nurse or medical technician providing health care services; or
+&emsp;(H) as a full-time nurse or medical technician providing health care services;
 
-&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agency who is providing, or supervising the provision of, services to high-risk children who are from low-income communities and the families of such children.
+&emsp;(I) as a full-time employee of a public or private nonprofit child or family service agency who is providing, or supervising the provision of, services to high-risk children who are from low-income communities and the families of such children;
+
+&emsp;(J) as a full-time fire fighter for service to a local, State, or Federal fire department or fire district;
+
+&emsp;(K) as a full-time faculty member at a Tribal College or University, as that term is defined in section 1059c of this title;
+
+&emsp;(L) as a librarian, if the librarian has a master's degree in library science and is employed in—
+
+&emsp;&emsp;(i) an elementary school or secondary school that is eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\]; or
+
+&emsp;&emsp;(ii) a public library that serves a geographic area that contains one or more schools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
+
+&emsp;(M) as a full-time speech language pathologist, if the pathologist has a masters degree and is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 > For the purpose of this paragraph, the term “children with disabilities” has the meaning set forth in section 1401 of this title.
 
 (3)(A) The percent of a loan which shall be canceled under paragraph (1) of this subsection is—
 
-&emsp;(i) in the case of service described in subparagraph (A), (C), (F), (G), (H), or (I) of paragraph (2), at the rate of 15 percent for the first or second year of such service, 20 percent for the third or fourth year of such service, and 30 percent for the fifth year of such service;
+&emsp;(i) in the case of service described in subparagraph (A), (C), (D), (F), (G), (H), (I), (J), (K), (L), or (M) of paragraph (2), at the rate of 15 percent for the first or second year of such service, 20 percent for the third or fourth year of such service, and 30 percent for the fifth year of such service;
 
-&emsp;(ii) in the case of service described in subparagraph (B) of paragraph (2), at the rate of 15 percent for each year of such service;
+&emsp;(ii) in the case of service described in subparagraph (B) of paragraph (2), at the rate of 15 percent for each year of such service; or
 
-&emsp;(iii) in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 121/2 percent for each year of qualifying service; or
-
-&emsp;(iv) in the case of service described in subparagraph (E) of paragraph (2) at the rate of 15 percent for the first or second year of such service and 20 percent for the third or fourth year of such service.
+&emsp;(iii) in the case of service described in subparagraph (E) of paragraph (2) at the rate of 15 percent for the first or second year of such service and 20 percent for the third or fourth year of such service.
 
 (B) If a portion of a loan is canceled under this subsection for any year, the entire amount of interest on such loan which accrues for such year shall be canceled.
 
@@ -66,21 +84,19 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 &emsp;&emsp;(B) in a subsequent year fails to meet the requirements of such subsection,
 
-> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such subsequent years.
+> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such <sup>1</sup> subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
-
-Section 111(c) of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), was classified to section 2711(c) of this title, prior to its omission in the general revision of the Elementary and Secondary Education Act of 1965 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A)(i), (L), (M), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -93,6 +109,20 @@ Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if in
 A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which theschool is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;”.
+
+Subsec. (a)(2)(B). Pub. L. 110–315, §465(1)(B), substituted “Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that” for “Head Start Act which”.
+
+Subsec. (a)(2)(C). Pub. L. 110–315, §465(1)(C), inserted “, including a system administered by an educational service agency” after “secondary school system”.
+
+Subsec. (a)(2)(F). Pub. L. 110–315, §465(1)(D), added subpar. (F) and struck out former subpar. (F) which read as follows: “as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;”.
+
+Subsec. (a)(2)(J) to (M). Pub. L. 110–315, §465(1)(E)–(G), added subpars. (J) to (M).
+
+Subsec. (a)(3)(A)(i). Pub. L. 110–315, §465(2)(A), inserted “(D),” after “(C),” and substituted “(I), (J), (K), (L), or (M)” for “or (I)”.
+
+Subsec. (a)(3)(A)(iii), (iv). Pub. L. 110–315, §465(2)(B)–(D), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 121/2 percent for each year of qualifying service; or”.
 
 2004—Subsec. (a)(2)(C). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1435(a)(10) of this title.
 
@@ -166,5 +196,5 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Subsection (a)(2)(E) of this section applicable only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “in such”.</i>
 

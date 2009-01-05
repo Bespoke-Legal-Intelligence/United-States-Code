@@ -8,7 +8,7 @@ In the event no applicants are approved for the conveyance of a historic light s
 
 Net sale proceeds from the disposal of a historic light station—
 
-&emsp;(1) located on public domain lands shall be transferred to the National Maritime Heritage Grant Program, established by the National Maritime Heritage Act of 1994 (Public Law 103–451) \[16 U.S.C. 5401 et seq.\] within the Department of the Interior; and
+&emsp;(1) located on public domain lands shall be transferred to the National Maritime Heritage Grant <sup>1</sup> Program, established by the National Maritime Heritage Act of 1994 (Public Law 103–451) \[16 U.S.C. 5401 et seq.\] within the Department of the Interior; and
 
 &emsp;(2) under the administrative control of the Coast Guard shall be credited to the Coast Guard's Operating Expenses appropriation account, and shall be available for obligation and expenditure for the maintenance of light stations remaining under the administrative control of the Coast Guard, such funds to remain available until expended and shall be available in addition to funds available in the Operating Expense appropriation for this purpose.
 

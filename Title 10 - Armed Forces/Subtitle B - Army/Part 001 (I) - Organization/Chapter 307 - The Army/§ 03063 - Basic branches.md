@@ -28,7 +28,7 @@
 
 &emsp;(13) such other basic branches as the Secretary considers necessary.
 
-(b) The Secretary may discontinue or consolidate basic branches of the Army for the duration of any war, or of any national emergency declared by Congress.
+(b) The Secretary may discontinue or consolidate basic branches of the Army for the durationof any war, or of any national emergency declared by Congress.
 
 (c) The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.
 

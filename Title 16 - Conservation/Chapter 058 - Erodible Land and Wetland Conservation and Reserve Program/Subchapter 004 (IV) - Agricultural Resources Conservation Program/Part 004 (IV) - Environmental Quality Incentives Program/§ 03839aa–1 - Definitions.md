@@ -2,55 +2,89 @@
 
 In this part:
 
-#### (1) Beginning farmer or rancher
-
-&emsp;The term “beginning farmer or rancher” has the meaning provided under section 1991(a) of title 7.
-
-#### (2) Eligible land
+#### (1) Eligible land
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible land” means land on which agricultural commodities or livestock are produced.
+&emsp;&emsp;The term “eligible land” means land on which agricultural commodities, livestock, or forest-related products are produced.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “eligible land” includes—
+&emsp;&emsp;The term “eligible land” includes the following:
 
-&emsp;&emsp;&emsp;(i) cropland;
+&emsp;&emsp;&emsp;(i) Cropland.
 
-&emsp;&emsp;&emsp;(ii) grassland;
+&emsp;&emsp;&emsp;(ii) Grassland.
 
-&emsp;&emsp;&emsp;(iii) rangeland;
+&emsp;&emsp;&emsp;(iii) Rangeland.
 
-&emsp;&emsp;&emsp;(iv) pasture land;
+&emsp;&emsp;&emsp;(iv) Pasture land.
 
-&emsp;&emsp;&emsp;(v) private, nonindustrial forest land; and
+&emsp;&emsp;&emsp;(v) Nonindustrial private forest land.
 
-&emsp;&emsp;&emsp;(vi) other agricultural land that the Secretary determines poses a serious threat to soil, air, water, or related resources.
+&emsp;&emsp;&emsp;(vi) Other agricultural land (including cropped woodland, marshes, and agricultural land used for the production of livestock) on which resource concerns related to agricultural production could be addressed through a contract under the program, as determined by the Secretary.
 
-#### (3) Land management practice
+#### (2) National organic program
 
-&emsp;The term “land management practice” means a site-specific nutrient or manure management, integrated pest management, irrigation management, tillage or residue management, grazing management, air quality management, or other land management practice carried out on eligible land that the Secretary determines is needed to protect from degradation, in the most cost-effective manner, water, soil, or related resources.
+&emsp;The term “national organic program” means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.).
 
-#### (4) Livestock
+#### (3) Organic system plan
 
-&emsp;The term “livestock” means dairy cattle, beef cattle, laying hens, broilers, turkeys, swine, sheep, and other such animals as are determined by the Secretary.
+&emsp;The term “organic system plan” means an organic plan approved under the national organic program.
+
+#### (4) Payment
+
+&emsp;The term “payment” means financial assistance provided to a producer for performing practices under this part, including compensation for—
+
+&emsp;&emsp;(A) incurred costs associated with planning, design, materials, equipment, installation, labor, management, maintenance, or training; and
+
+&emsp;&emsp;(B) income forgone by the producer.
 
 #### (5) Practice
 
-&emsp;The term “practice” means 1 or more structural practices, land management practices, and comprehensive nutrient management planning practices.
+&emsp;The term “practice” means 1 or more improvements and conservation activities that are consistent with the purposes of the program under this part, as determined by the Secretary, including—
 
-#### (6) Structural practice
+&emsp;&emsp;(A) improvements to eligible land of the producer, including—
 
-&emsp;The term “structural practice” means—
+&emsp;&emsp;&emsp;(i) structural practices;
 
-&emsp;&emsp;(A) the establishment on eligible land of a site-specific animal waste management facility, terrace, grassed waterway, contour grass strip, filterstrip, tailwater pit, permanent wildlife habitat, constructed wetland, or other structural practice that the Secretary determines is needed to protect, in the most cost effective manner, water, soil, or related resources from degradation; and
+&emsp;&emsp;&emsp;(ii) land management practices;
 
-&emsp;&emsp;(B) the capping of abandoned wells on eligible land.
+&emsp;&emsp;&emsp;(iii) vegetative practices;
 
-(Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253.)
+&emsp;&emsp;&emsp;(iv) forest management; and
+
+&emsp;&emsp;&emsp;(v) other practices that the Secretary determines would further the purposes of the program; and
+
+&emsp;&emsp;(B) conservation activities involving the development of plans appropriate for the eligible land of the producer, including—
+
+&emsp;&emsp;&emsp;(i) comprehensive nutrient management planning; and
+
+&emsp;&emsp;&emsp;(ii) other plans that the Secretary determines would further the purposes of the program under this part.
+
+#### (6) Program
+
+&emsp;The term “program” means the environmental quality incentives program established by this part.
+
+(Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, §4(a), title II, §2502, June 18, 2008, 122 Stat. 1664, 1786.)
+
+#### References in Text
+
+The Organic Foods Production Act of 1990, referred to in par. (2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

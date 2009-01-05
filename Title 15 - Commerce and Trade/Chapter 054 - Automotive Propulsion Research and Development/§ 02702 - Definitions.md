@@ -8,7 +8,7 @@ As used in this chapter, the term—
 
 &emsp;(3) “fuel” means any energy source capable of propelling an automobile;
 
-&emsp;(4) “fuel economy” refers to the average distance traveled in representative driving conditions by an automobile per unit of fuel consumed, as determined by the Administrator of the Environmental Protection Agency in accordance with test procedures which shall be established by rule and shall require that fuel economy tests be conducted in conjunction with the exhaust emissions tests mandated by section 7525 of title 42;
+&emsp;(4) “fuel economy” refers to the average distance traveled in representative driving conditions by an automobile per unit of fuel consumed, as determined by the Administrator of the Environmental Protection Agency in accordance with test procedures which shall beestablished by rule and shall require that fuel economy tests be conducted in conjunction with the exhaust emissions tests mandated by section 7525 of title 42;
 
 &emsp;(5) “intermodal adaptability” refers to any characteristics of an automobile which enable it to be operated or carried, or which facilitate its operation or carriage, by or on an alternative mode or other system of transportation;
 

@@ -4,7 +4,7 @@
 
 In carrying out the programs under this section, the Secretary shall fund a limited number of demonstration projects, consistent with this subchapter and a determination of the maturity, cost-effectiveness, and environmental impacts of technologies supporting each project. In selecting projects under this subsection, the Secretary shall, to the extent practicable and in the public interest, select projects that—
 
-&emsp;(1) involve using hydrogen and related products at existing facilities or installations,such as existing office buildings, military bases, vehicle fleet centers, transit bus authorities, or units of the National Park System;
+&emsp;(1) involve using hydrogen and related products at existing facilities or installations, such as existing office buildings, military bases, vehicle fleet centers, transit bus authorities, or units of the National Park System;
 
 &emsp;(2) depend on reliable power from hydrogen to carry out essential activities;
 
@@ -68,7 +68,7 @@ In carrying out the demonstrations under subsection (a), the Secretary, in consu
 
 &emsp;(1) after 2008 for stationary and portable applications, and after 2010 for vehicles, identify new requirements that refine technological concepts, planning, and applications; and
 
-&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii), redesign subsequent program work to incorporate those requirements.
+&emsp;(2) during the second phase of the learning demonstrations under subsection (b)(1)(A)(ii),redesign subsequent program work to incorporate those requirements.
 
 #### (d) Authorization of appropriations
 

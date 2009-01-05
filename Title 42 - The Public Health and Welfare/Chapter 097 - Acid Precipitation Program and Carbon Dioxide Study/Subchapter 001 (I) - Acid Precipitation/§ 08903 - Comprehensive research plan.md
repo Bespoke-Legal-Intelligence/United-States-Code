@@ -24,7 +24,7 @@ The comprehensive plan shall include programs for—
 
 &emsp;(8) establishing and carrying out system studies with respect to plant physiology, aquatic ecosystems, soil chemistry systems, soil microbial systems, and forest ecosystems;
 
-&emsp;(9) economic assessments of (A) the environmental impacts caused by acid precipitation on crops, forests, fisheries, and recreational and aesthetic resources and structures, and (B) alternative technologies to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation;
+&emsp;(9) economic assessments of (A) the environmental impacts caused by acid precipitation on crops, forests, fisheries, and recreationaland aesthetic resources and structures, and (B) alternative technologies to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation;
 
 &emsp;(10) documenting all current Federal activities related to research on acid precipitation and ensuring that such activities are coordinated in ways that prevent needless duplication and waste of financial and technical resources;
 

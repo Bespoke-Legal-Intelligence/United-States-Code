@@ -20,7 +20,7 @@ In preparing each report under subsection (a) of this section, the Secretary of 
 
 &emsp;(6) the Department of the Treasury under section 6039C of title 26, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 
-&emsp;(7) the Department of Energy under section 7267(8) of title 42, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+&emsp;(7) the Department of Energy under section 7267(8) of title 42, but only to the extent that such information is in a form that cannot beassociated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 
 &emsp;(8) other Federal agencies not referred to in paragraphs (1) through (7), but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 

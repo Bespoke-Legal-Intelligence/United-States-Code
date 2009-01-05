@@ -52,7 +52,7 @@ The notice required by section 416 of this title and section 637(e) of title 15 
 
 #### (h) Inapplicability to certain contracts
 
-This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of the executive agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
+This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistanceservices if the head of the executive agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
 
 #### (i) “Advisory and assistance services” defined
 
@@ -172,7 +172,7 @@ Matters covered.—The report shall address the following issues:
 
 &emsp;&emsp;“(B) The extent to which such advisory and assistance services are provided by the same contractors under recurring contracts.
 
-&emsp;&emsp;“(C) The rationale for contracting for advisory and assistance services that will be needed on acontinuing basis, rather than performing the services inside the Federal Government.
+&emsp;&emsp;“(C) The rationale for contracting for advisory and assistance services that will be needed on a continuing basis, rather than performing the services inside the Federal Government.
 
 &emsp;&emsp;“(D) The contract types and oversight mechanisms used by the Federal Government in contracts for advisory and assistance services and the extent to which such contract types and oversight mechanisms are adequate to protect the interests of the Government and taxpayers.
 

@@ -1,6 +1,6 @@
 ### §2376. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal year 2007 and each of the 5 succeeding fiscal years.
+There are authorized to be appropriated to carry out this subchapter such sums as may benecessary for fiscal year 2007 and each of the 5 succeeding fiscal years.
 
 (Pub. L. 88–210, title II, §206, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 742.)
 

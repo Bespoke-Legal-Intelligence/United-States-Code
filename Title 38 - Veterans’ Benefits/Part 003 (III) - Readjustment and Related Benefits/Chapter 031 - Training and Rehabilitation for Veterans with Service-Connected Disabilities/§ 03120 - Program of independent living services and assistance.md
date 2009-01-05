@@ -2,19 +2,21 @@
 
 (a) The Secretary may, under contracts with entities described in subsection (f) of this section, or through facilities of the Veterans Health Administration, which possess a demonstrated capability to conduct programs of independent living services for severely handicapped persons, provide, under regulations which the Secretary shall prescribe, programs of independent living services and assistance under this chapter, in various geographic regions of the United States, to veterans described in subsection (b) of this section.
 
-(b) A program of independent living services and assistance may be made available under this section only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respectto whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
+(b) A program of independent living services and assistance may be made available under this section only to a veteran who has a serious employment handicap resulting in substantial part from a service-connected disability described in section 3102(1)(A)(i) of this title and with respect to whom it is determined under section 3106(d) or (e) of this title that the achievement of a vocational goal currently is not reasonably feasible.
 
 (c) The Secretary shall, to the maximum extent feasible, include among those veterans who are provided with programs of independent living services and assistance under this section substantial numbers of veterans described in subsection (b) of this section who are receiving long-term care in Department of Veterans Affairs hospitals and nursing homes and in nursing homes with which the Secretary contracts for the provision of care to veterans.
 
 (d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
-(e) Programs of independent living services and assistance shall be initiated for no more than 2,500 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+(e) Programs of independent living services and assistance shall be initiated for no more than 2600 <sup>1</sup> veterans in each fiscal year, and the first priority in the provision of such programsshall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
 
 (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2185, §1520; amended Pub. L. 99–576, title III, §333(a), (b)(6), (c), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 100–689, title II, §202(b), Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title IV, §§404, 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3120 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(b)(1), (d)(11), Nov. 2, 1994, 108 Stat. 4682, 4684; Pub. L. 104–275, title I, §101(f)(2)(D), (i), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–103, title V, §508(a), Dec. 27, 2001, 115 Stat. 997; Pub. L. 110–389, title III, §332, Oct. 10, 2008, 122 Stat. 4170.)
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–389, which directed amendment of subsec. (e) by substituting “2600 veterans” for “2500 veterans”, was executed by making the substitution for “2,500 veterans” to reflect the probable intent of Congress.
 
 2001—Subsec. (e). Pub. L. 107–103 substituted “2,500 veterans” for “five hundred veterans”.
 
@@ -85,4 +87,6 @@ Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section
 #### Effective Date
 
 Section effective Oct. 1, 1980, see section 802(a)(2) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2,600”.</i>
 

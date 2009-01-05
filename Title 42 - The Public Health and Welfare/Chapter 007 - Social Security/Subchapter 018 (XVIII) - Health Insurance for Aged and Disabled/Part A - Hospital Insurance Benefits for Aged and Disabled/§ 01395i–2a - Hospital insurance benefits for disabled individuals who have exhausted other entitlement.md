@@ -62,7 +62,7 @@ Every individual who—
 
 (2) The provisions of subsections (d) through (f) of section 1395i–2 of this title (relating to premiums) shall apply to individuals enrolled under this section in the same manner as they apply to individuals enrolled under that section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508, title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508,title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54.)
 
 #### Amendments
 

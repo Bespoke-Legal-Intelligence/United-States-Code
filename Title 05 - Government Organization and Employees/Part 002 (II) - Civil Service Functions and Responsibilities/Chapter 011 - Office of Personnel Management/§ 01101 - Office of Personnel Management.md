@@ -112,7 +112,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 &emsp;“(B) the Defense Security Service employees who, as of such time, are first level supervisors of employees transferred under subparagraph (A).
 
-“(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Service employees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
+“(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Serviceemployees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
 
 &emsp;“(A) determines that the transfer of such additional employees and the positions of such employees to the Office of Personnel Management is necessary in the interest of effective performance of the transferred functions; and
 
@@ -320,7 +320,7 @@ Section 904 of Pub. L. 95–454 provided that:
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[set out in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
+Section 905 of Pub. L. 95–454 provided that: “Any provision in either Reorganization Plan Numbered 1 \[setout in the Appendix to this title\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1978</b>
 
@@ -352,7 +352,7 @@ The functions of the Director shall include, but not be limited to, the followin
 
 (b) Advising the President, as the President may request, on any matters pertaining to civilian employment now within the jurisdiction of the United States Civil Service Commission;
 
-(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and other activities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment andsubmit written views on the implementation and interpretation of such rules and regulations;
+(c) Executing, administering and enforcing the Civil Service rules and regulations of the President and the Office and the statutes governing the same, and other activities of the Office including retirement and classification activities except to the extent such functions remain vested in the Merit Systems Protection Board pursuant to Section 202 of this Plan, or are transferred to the Special Counsel pursuant to Section 204 of this Plan. The Director shall provide the public, where appropriate, a reasonable opportunity to comment and submit written views on the implementation and interpretation of such rules and regulations;
 
 (d) Conducting or otherwise providing for studies and research for the purpose of assuring improvements in personnel management, and recommending to the President actions to promote an efficient Civil Service and a systematic application of the merit system principles, including measures relating to the selection, promotion, transfer, performance, pay, conditions of service, tenure, and separations of employees; and
 
@@ -424,7 +424,7 @@ Federal Register.
 
 #### Sec. 301. Establishment of the Federal Labor Relations Authority
 
-(a) There is hereby established, as an independent establishment in the Executive Branch, the FederalLabor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
+(a) There is hereby established, as an independent establishment in the Executive Branch, the Federal Labor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
 
 (b) Members of the Authority shall be appointed by the President, by and with the advice and consent of the Senate. The President shall designate one member to serve as Chairman of the Authority, who shall be compensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The other members shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 

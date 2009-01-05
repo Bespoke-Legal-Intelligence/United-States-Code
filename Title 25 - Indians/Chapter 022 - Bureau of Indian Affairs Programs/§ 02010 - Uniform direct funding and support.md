@@ -212,7 +212,7 @@ This chapter, referred to in subsec. (h)(1), was in the original “this title�
 
 A prior section 2010, Pub. L. 95–561, title XI, §1130, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V,§5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, §5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 

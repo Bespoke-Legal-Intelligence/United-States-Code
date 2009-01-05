@@ -8,7 +8,7 @@ There is hereby imposed on any person failing to meet the requirements of subsec
 
 #### (1) In general
 
-&emsp;The amount of the tax imposed by subsection (a) shall be $100 per insured for each day any requirement of subsection (c) or (d) is not met with respect to each qualified long-term care insurance contract.
+&emsp;The amount of the tax imposed by subsection (a) shall be $100 per insured for each day any requirement of subsection (c) or (d) isnot met with respect to each qualified long-term care insurance contract.
 
 #### (2) Waiver
 
@@ -64,7 +64,7 @@ The requirements of this subsection are as follows:
 
 #### (2) Delivery of policy
 
-&emsp;If an application for a qualified long-term care insurance contract (or for a certificateunder such a contract for a group) is approved, the issuer shall deliver to the applicant (or policyholder or certificateholder) the contract (or certificate) of insurance not later than 30 days after the date of the approval.
+&emsp;If an application for a qualified long-term care insurance contract (or for a certificate under such a contract for a group) is approved, the issuer shall deliver to the applicant (or policyholder or certificateholder) the contract (or certificate) of insurance not later than 30 days after the date of the approval.
 
 #### (3) Information on denials of claims
 

@@ -88,7 +88,7 @@ Resolved, that effective October 1, 1973, until otherwise provided by Order of t
 
 #### Committee Order No. 9
 
-Resolved, that effective October 1, 1973, until otherwise provided by Order of the Committee on House Administration the number of units provided for official telephone calls, telegrams, cablegrams, and radiograms made or sent by on or behalf of a Member, Delegate, or the Resident Commissioner of Puerto Rico has been increased from 80,000 units to 100,000 units for each regular session of Congress. Such units shall accumulateand be available for use until the aggregate number of such units in the close of each session is not more than 200,000. Unused units in excess of 200,000 at the close of session may not be carried forward for use in a succeeding session.
+Resolved, that effective October 1, 1973, until otherwise provided by Order of the Committee on House Administration the number of units provided for official telephone calls, telegrams, cablegrams, and radiograms made or sent by on or behalf of a Member, Delegate, or the Resident Commissioner of Puerto Rico has been increased from 80,000 units to 100,000 units for each regular session of Congress. Such units shall accumulate and be available for use until the aggregate number of such units in the close of each session is not more than 200,000. Unused units in excess of 200,000 at the close of session may not be carried forward for use in a succeeding session.
 
 #### Committee Order No. 10
 
@@ -138,7 +138,7 @@ Resolved, that effective March 1, 1975, until otherwise provided by order of the
 
 #### Committee Order No. 18
 
-Resolved, that effective this date, until otherwise provided by order of the Committee on House Administration, each Member, the Resident Commissioner from Puerto Rico or a Delegate to the House of Representatives is authorized a $650 per month allowance to leaseoffice equipment, and upon written request to the Committee on House Administration, a Member, the Resident Commissioner from Puerto Rico or a Delegate to the House of Representatives may allocate an amount not to exceed $250 a month of any unused portion of his or her clerk hire allowance for the leasing of equipment necessary for the conduct of his or her office or for the leasing of computer and related services in connection with his or her official duties. The said monthly allowances are not cumulative.
+Resolved, that effective this date, until otherwise provided by order of the Committee on House Administration, each Member, the Resident Commissioner from Puerto Rico or a Delegate to the House of Representatives is authorized a $650 per month allowance to lease office equipment, and upon written request to the Committee on House Administration, a Member, the Resident Commissioner from Puerto Rico or a Delegate to the House of Representatives may allocate an amount not to exceed $250 a month of any unused portion of his or her clerk hire allowance for the leasing of equipment necessary for the conduct of his or her office or for the leasing of computer and related services in connection with his or her official duties. The said monthly allowances are not cumulative.
 
 Effective date: April 23, 1975.
 
@@ -176,7 +176,7 @@ Resolved, that effective October 1, 1975, until otherwise provided by order of t
 
 #### Committee Order No. 25
 
-Resolved, that effective immediately prior to noon on January 3, 1977, until otherwise provided by order of the Committee on House Administration, the allowance for airmail and special delivery stamps authorizedby 2 U.S.C. 42c and 42d shall be reduced from its existing level to one dollar per session.
+Resolved, that effective immediately prior to noon on January 3, 1977, until otherwise provided by order ofthe Committee on House Administration, the allowance for airmail and special delivery stamps authorized by 2 U.S.C. 42c and 42d shall be reduced from its existing level to one dollar per session.
 
 #### Committee Order No. 26
 

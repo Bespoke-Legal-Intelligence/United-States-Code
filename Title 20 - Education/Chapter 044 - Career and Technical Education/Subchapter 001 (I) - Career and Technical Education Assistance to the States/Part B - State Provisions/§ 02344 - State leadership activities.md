@@ -108,7 +108,7 @@ The leadership activities described in subsection (a) may include—
 
 &emsp;&emsp;&emsp;(ii) eligible recipients effectively developing connections between secondary education and postsecondary education and training;
 
-&emsp;&emsp;&emsp;(iii) the adoption and integration of coherent and rigorous content aligned withchallenging academic standards and technical coursework;
+&emsp;&emsp;&emsp;(iii) the adoption and integration of coherent and rigorous content aligned with challenging academic standards and technical coursework;
 
 &emsp;&emsp;&emsp;(iv) eligible recipients’ progress in having special populations who participate in career and technical education programs meet local adjusted levels of performance; or
 

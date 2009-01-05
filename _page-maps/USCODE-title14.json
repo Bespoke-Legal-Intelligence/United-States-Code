@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title14",
- "package": "USCODE-2007-title14",
+ "package": "USCODE-2008-title14",
  "pieces": [
   {
    "id": "14_",
@@ -3508,30 +3508,26 @@
   },
   {
    "id": "14_665",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 98]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00665 - Restriction on construction of vessels in foreign shipyards.md",
    "printed_pages": [
     97,
-    97
+    98
    ]
   },
   {
    "id": "14_666",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       181,
-       "[Page 98]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00666 - Local hire.md",
    "printed_pages": [
-    97,
+    98,
     98
    ]
   },
@@ -3566,10 +3562,14 @@
    "id": "14_670",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 99]",
-     true
+     "I",
+     16,
+     [
+      [
+       187,
+       "[Page 99]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00670 - Procurement authority for family housing.md",
@@ -3609,14 +3609,10 @@
    "id": "14_673",
    "marks": [
     [
-     "I",
+     "L",
      14,
-     [
-      [
-       275,
-       "[Page 100]"
-      ]
-     ]
+     "[Page 100]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00673 - Designation, powers, and accountability of deputy disbursing officials.md",
@@ -3638,14 +3634,10 @@
    "id": "14_675",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       152,
-       "[Page 101]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 101]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 017 - Administration/§ 00675 - Small boat station closures.md",
@@ -3686,7 +3678,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 102]",
      true
     ]
@@ -3729,10 +3721,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       80,
+       82,
        "[Page 103]"
       ]
      ]
@@ -3757,14 +3749,10 @@
    "id": "14_686",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       173,
-       "[Page 104]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 104]",
+     true
     ]
    ],
    "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00686 - Assignment of members of the armed forces to housing units.md",
@@ -3784,26 +3772,26 @@
   },
   {
    "id": "14_687a",
-   "marks": [],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00687a - Differential lease payments.md",
-   "printed_pages": [
-    104,
-    104
-   ]
-  },
-  {
-   "id": "14_688",
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 105]",
      true
     ]
    ],
-   "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00688 - Reports.md",
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00687a - Differential lease payments.md",
    "printed_pages": [
     104,
+    105
+   ]
+  },
+  {
+   "id": "14_688",
+   "marks": [],
+   "path": "Part 001 (I) - Regular Coast Guard/Chapter 018 - Coast Guard Housing Authorities/§ 00688 - Reports.md",
+   "printed_pages": [
+    105,
     105
    ]
   },
@@ -3842,7 +3830,7 @@
      26,
      [
       [
-       322,
+       136,
        "[Page 106]"
       ]
      ]
@@ -3886,10 +3874,10 @@
    "marks": [
     [
      "I",
-     52,
+     47,
      [
       [
-       58,
+       69,
        "[Page 107]"
       ]
      ]
@@ -3932,10 +3920,14 @@
    "id": "14_703",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 108]",
-     true
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 108]"
+      ]
+     ]
     ]
    ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00703 - Coast Guard Reserve Boards.md",
@@ -3964,30 +3956,26 @@
   },
   {
    "id": "14_706",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 109]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00706 - Temporary members of the Reserve; eligibility and compensation.md",
    "printed_pages": [
     108,
-    108
+    109
    ]
   },
   {
    "id": "14_707",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       191,
-       "[Page 109]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter A - General/§ 00707 - Temporary members of the Reserve; disability or death benefits.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -3999,7 +3987,7 @@
      2,
      [
       [
-       362,
+       84,
        "[Page 110]"
       ]
      ]
@@ -4028,7 +4016,7 @@
      44,
      [
       [
-       837,
+       562,
        "[Page 111]"
       ]
      ]
@@ -4063,7 +4051,7 @@
    "marks": [
     [
      "L",
-     24,
+     20,
      "[Page 112]",
      true
     ]
@@ -4121,30 +4109,26 @@
   },
   {
    "id": "14_723",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 113]",
+     true
+    ]
+   ],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00723 - Effect of this subchapter on retirement and retired pay.md",
    "printed_pages": [
     112,
-    112
+    113
    ]
   },
   {
    "id": "14_724",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       95,
-       "[Page 113]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 002 (II) - Coast Guard Reserve and Auxiliary/Chapter 021 - Coast Guard Reserve/Subchapter B - Commissioned Officers/§ 00724 - Authorized number of officers.md",
    "printed_pages": [
-    112,
+    113,
     113
    ]
   },
@@ -4780,6 +4764,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2007-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2008-title14 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 14 - Coast Guard"
 }

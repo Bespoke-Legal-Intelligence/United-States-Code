@@ -8,19 +8,21 @@ For the purpose of this part:
 
 &emsp;(3) The term “Pell Grant recipient” means a recipient of financial aid under subpart 1 of part A of subchapter IV of this chapter.
 
-&emsp;(4) The term “professional and academic areas in which Blacks are underrepresented” shall be determined by the Secretary and the Commissioner of the Bureau of Labor Statistics, on the basis of the most recent available satisfactory data, as professional and academic areas in which the percentage of Black Americans who have been educated, trained, and employed is less than the percentage of Blacks in the general population.
+&emsp;(4) The term “professional and academic areas in which Blacks are underrepresented” shall be determined by the Secretary, in consultation with the Commissioner for Education Statistics and the Commissioner of the Bureau of Labor Statistics, on the basis of the most recent available satisfactory data, as professional and academic areas in which the percentage of Black Americans who have been educated, trained, and employed is less than the percentage of Blacks in the general population.
 
 &emsp;(5) The term “school year” means the period of 12 months beginning July 1 of any calendar year and ending June 30 of the following calendar year.
 
-(Pub. L. 89–329, title III, §322, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294; amended Pub. L. 100–369, §10(c), July 18, 1988, 102 Stat. 838.)
+(Pub. L. 89–329, title III, §322, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1294; amended Pub. L. 100–369, §10(c), July 18, 1988, 102 Stat. 838; Pub. L. 110–315, title III, §308, Aug. 14, 2008, 122 Stat. 3177.)
 
 #### Prior Provisions
 
 A prior section 1061, Pub. L. 89–329, title III, §322, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1393, defined terms used in this part, prior to the general revision of this subchapter by Pub. L. 99–498.
 
-Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §101(a), (b)(1), Oct. 16, 1968, 82 Stat. 1017; Pub. L. 91–95, §4, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §131(a)(1)(A), June 23, 1972, 86 Stat. 247, related to statement of purpose and authorization of appropriations for educational opportunity grants, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I,§101(a), (b)(1), Oct. 16, 1968, 82 Stat. 1017; Pub. L. 91–95, §4, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §131(a)(1)(A), June 23, 1972, 86 Stat. 247, related to statement of purpose and authorization of appropriations for educational opportunity grants, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
+
+2008—Par. (4). Pub. L. 110–315 inserted “, in consultation with the Commissioner for Education Statistics” before “and the Commissioner”.
 
 1988—Par. (2). Pub. L. 100–369 inserted “,, except that any branch campus of a southern institution of higher education that prior to September 30, 1986, received a grant as an institution with special needs under section 1060 of this title and was formally recognized by the National Center for Education Statistics as a Historically Black College or University but was determined not to be a part B institution on or after October 17, 1986, shall, from July 18, 1988, be considered a part B institution” after “accreditation”.
 

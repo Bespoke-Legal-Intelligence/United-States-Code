@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) the requirements for officially withdrawing from the institution;
 
-&emsp;(G) the academic program of the institution, including (i) the current degree programs and other educational and training programs, (ii) the instructional, laboratory, and other physical plant facilities which relate to the academic program, and (iii) the faculty and other instructional personnel;
+&emsp;(G) the academic program of the institution, including (i) the current degree programs and other educational and training programs, (ii) the instructional, laboratory, and other physical plant facilities which relate to the academic program, (iii) the faculty and other instructional personnel, and (iv) any plans by the institution for improving the academic program of the institution;
 
 &emsp;(H) each person designated under subsection (c) of this section, and the methods by which and locations in which any person so designated may be contacted by students and prospective students who are seeking information required by this subsection;
 
@@ -34,15 +34,39 @@
 
 &emsp;(L) the completion or graduation rate of certificate- or degree-seeking, full-time, undergraduate students entering such institutions;
 
-&emsp;(M) the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
+&emsp;(M) the terms and conditions of the loans that students receive under parts B, C, and D;
 
-&emsp;&emsp;(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
+&emsp;(N) that enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment in the home institution for purposes of applying for Federal student financial assistance;
 
-&emsp;&emsp;(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under <sup>1</sup> the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service;
+&emsp;(O) the campus crime report prepared by the institution pursuant to subsection (f) of this section, including all required reporting categories;
 
-&emsp;(N) that enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment in the home institution for purposes of applying for Federal student financial assistance; and
+&emsp;(P) institutional policies and sanctions related to copyright infringement, including—
 
-&emsp;(O) the campus crime report prepared by the institution pursuant to subsection (f) of this section, including all required reporting categories.
+&emsp;&emsp;(i) an annual disclosure that explicitly informs students that unauthorized distribution of copyrighted material, including unauthorized peer-to-peer file sharing, may subject the students to civil and criminal liabilities;
+
+&emsp;&emsp;(ii) a summary of the penalties for violation of Federal copyright laws; and
+
+&emsp;&emsp;(iii) a description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students who engage in unauthorized distribution of copyrighted materials using the institution's information technology system;
+
+&emsp;(Q) student body diversity at the institution, including information on the percentage of enrolled, full-time students who—
+
+&emsp;&emsp;(i) are male;
+
+&emsp;&emsp;(ii) are female;
+
+&emsp;&emsp;(iii) receive a Federal Pell Grant; and
+
+&emsp;&emsp;(iv) are a self-identified member of a major racial or ethnic group;
+
+&emsp;(R) the placement in employment of, and types of employment obtained by, graduates of the institution's degree or certificate programs, gathered from such sources as alumni surveys, student satisfaction surveys, the National Survey of Student Engagement, the Community College Survey of Student Engagement, State data systems, or other relevant sources;
+
+&emsp;(S) the types of graduate and professional education in which graduates of the institution's four-year degree programs enrolled, gathered from such sources as alumni surveys, student satisfaction surveys, the National Survey of Student Engagement, State data systems, or other relevant sources;
+
+&emsp;(T) the fire safety report prepared by the institution pursuant to subsection (i);
+
+&emsp;(U) the retention rate of certificate- or degree-seeking, first-time, full-time, undergraduate students entering such institution; and
+
+&emsp;(V) institutional policies regarding vaccinations.
 
 (2) For the purpose of this section, the term “prospective student” means any individual who has contacted an eligible institution requesting information concerning admission to that institution.
 
@@ -52,19 +76,63 @@
 
 &emsp;(B) shall cover the one-year period ending on August 31 of the preceding year.
 
-(4) For purposes of this section, institutions may exclude from the information disclosed in accordance with subparagraph (L) of paragraph (1) the completion or graduation rates of students who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.
+(4) For purposes of this section, institutions may—
+
+&emsp;(A) exclude from the information disclosed in accordance with subparagraph (L) of paragraph (1) the completion or graduation rates of students who leave school to serve in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government; or
+
+&emsp;(B) in cases where the students described in subparagraph (A) represent 20 percent or more of the certificate- or degree-seeking, full-time, undergraduate students at the institution, recalculate the completion or graduation rates of such students by excluding from the calculation described in paragraph (3) the time period such students were not enrolled due to their service in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
 (5) The Secretary shall permit any institution of higher education that is a member of an athletic association or athletic conference that has voluntarily published completion or graduation rate data or has agreed to publish data that, in the opinion of the Secretary, is substantially comparable to the information required under this subsection, to use such data to satisfy the requirements of this subsection.
 
 (6) Each institution may provide supplemental information to enrolled and prospective students showing the completion or graduation rate for students described in paragraph (4) or for students transferring into the institution or information showing the rate at which students transfer out of the institution.
 
+(7)(A)(i) Subject to clause (ii), the information disseminated under paragraph (1)(L), or reported under subsection (e), shall be disaggregated by gender, by each major racial and ethnic subgroup, by recipients of a Federal Pell Grant, by recipients of a loan made under part B or C (other than a loan made under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan) who did not receive a Federal Pell Grant, and by recipients of neither a Federal Pell Grant nor a loan made under part B or C (other than a loan made under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan), if the number of students in such subgroup or with such status is sufficient to yield statistically reliable information and reporting will not reveal personally identifiable information about an individual student. If such number is not sufficient for such purposes, then the institution shall note that the institution enrolled too few of such students to so disclose or report with confidence and confidentiality.
+
+(ii) The requirements of clause (i) shall not apply to two-year, degree-granting institutions of higher education until academic year 2011-2012.
+
+(B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of higher education. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
+
+(ii) The Secretary shall widely disseminate the recommendations required under this subparagraph to two-year, degree-granting institutions of higher education, the public, and the authorizing committees not later than 18 months after the first meeting of the group of representatives convened under clause (i).
+
+(iii) The Secretary shall use the recommendations from the group of representatives convened under clause (i) to provide technical assistance to two-year, degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e).
+
+(iv) The Secretary may modify the information required to be disseminated or reported under paragraph (1)(L) or subsection (e) by a two-year, degree-granting institution of higher— <sup>2</sup>
+
+&emsp;(I) based on the recommendations received under this subparagraph from the group of representatives convened under clause (i);
+
+&emsp;(II) to include additional or alternative measures of student success if the goals of the provisions of paragraph (1)(L) and subsection (e) can be met through additional means or comparable alternatives; and
+
+&emsp;(III) during the period beginning on August 14, 2008, and ending on June 30, 2011.
+
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid offices or otherwise, provide counseling to borrowers of loans that are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–3 of this title or loans under section 1078–2 of this title made on behalf of a student) or made under part C (other than Federal Direct Consolidation Loans or Federal Direct PLUS Loans made on behalf of a student) or made under part D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
-&emsp;(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
+&emsp;(i) information on the repayment plans available, including a description of the different features of each plan and sample information showing the average anticipated monthly payments, and the difference in interest paid and total payments, under each plan;
 
-&emsp;(ii) the terms and conditions under which the student may obtain partial cancellation or defer repayment of the principal and interest pursuant to sections 1078(b), 1087dd(c)(2), and 1087ee of this title.
+&emsp;(ii) debt management strategies that are designed to facilitate the repayment of such indebtedness;
+
+&emsp;(iii) an explanation that the borrower has the options to prepay each loan, pay each loan on a shorter schedule, and change repayment plans;
+
+&emsp;(iv) for any loan forgiveness or cancellation provision of this subchapter and part C of subchapter I of chapter 34 of title 42, a general description of the terms and conditions under which the borrower may obtain full or partial forgiveness or cancellation of the principal and interest, and a copy of the information provided by the Secretary under section 1092(d) of this title;
+
+&emsp;(v) for any forbearance provision of this subchapter and part C of subchapter I of chapter 34 of title 42, a general description of the terms and conditions under which the borrower may defer repayment of principal or interest or be granted forbearance, and a copy of the information provided by the Secretary under section 1092(d) of this title;
+
+&emsp;(vi) the consequences of defaulting on a loan, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation;
+
+&emsp;(vii) information on the effects of using a consolidation loan under section 1078–3 of this title or a Federal Direct Consolidation Loan to discharge the borrower's loans under parts B, C, and D, including at a minimum—
+
+&emsp;&emsp;(I) the effects of consolidation on total interest to be paid, fees to be paid, and length of repayment;
+
+&emsp;&emsp;(II) the effects of consolidation on a borrower's underlying loan benefits, including grace periods, loan forgiveness, cancellation, and deferment opportunities;
+
+&emsp;&emsp;(III) the option of the borrower to prepay the loan or to change repayment plans; and
+
+&emsp;&emsp;(IV) that borrower benefit programs may vary among different lenders;
+
+&emsp;(viii) a general description of the types of tax benefits that may be available to borrowers; and
+
+&emsp;(ix) a notice to borrowers about the availability of the National Student Loan Data System and how the system can be used by a borrower to obtain information on the status of the borrower's loans; and
 
 (B) In the case of borrower who leaves an institution without the prior knowledge of the institution, the institution shall attempt to provide the information described in subparagraph (A) to the student in writing.
 
@@ -84,15 +152,17 @@
 
 #### (c) Financial assistance information personnel
 
-Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a) of this section. The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter and part C of subchapter I of chapter 34 of title 42 at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
+Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a) of this section. The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this sectionwhenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter and part C of subchapter I of chapter 34 of title 42 at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
 
 #### (d) Departmental publication of descriptions of assistance programs
 
-(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware of their rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter and part C of subchapter I of chapter 34 of title 42. In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
+(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware of their rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter and part C of subchapter I of chapter 34 of title 42. Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C. In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
 
 (2) The Secretary, to the extent the information is available, shall compile information describing State and other prepaid tuition programs and savings programs and disseminate such information to States, eligible institutions, students, and parents in departmental publications.
 
 (3) The Secretary, to the extent practicable, shall update the Department's Internet site to include direct links to databases that contain information on public and private financial assistance programs. The Secretary shall only provide direct links to databases that can be accessed without charge and shall make reasonable efforts to verify that the databases included in a direct link are not providing fraudulent information. The Secretary shall prominently display adjacent to any such direct link a disclaimer indicating that a direct link to a database does not constitute an endorsement or recommendation of the database, the provider of the database, or any services or products of such provider. The Secretary shall provide additional direct links to information resources from which students may obtain information about fraudulent and deceptive practices in the provision of services related to student financial aid.
+
+(4) The Secretary shall widely publicize the location of the information described in paragraph (1) among the public, eligible institutions, and eligible lenders, and promote the use of such information by prospective students, enrolled students, families of prospective and enrolled students, and borrowers.
 
 #### (e) Disclosures required with respect to athletically related student aid
 
@@ -112,7 +182,11 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and thestudent's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
 
-(3) For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.
+(3) For purposes of this subsection, institutions may—
+
+&emsp;(A) exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government; or
+
+&emsp;(B) in cases where the students described in subparagraph (A) represent 20 percent or more of the certificate- or degree-seeking, full-time, undergraduate students at the institution, calculate the completion or graduation rates of such students by excluding from the calculations described in paragraph (1) the time period such students were not enrolled due to their service in the Armed Forces, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
 (4) Each institution of higher education described in paragraph (1) may provide supplemental information to students and the Secretary showing the completion or graduation rate when such completion or graduation rate includes students transferring into and out of such institution.
 
@@ -132,7 +206,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (f) Disclosure of campus security policy and campus crime statistics
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution higher education,<sup>3</sup> shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
 
 &emsp;(A) A statement of current campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on campus and policies concerning the institution's response to such reports.
 
@@ -140,9 +214,11 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(C) A statement of current policies concerning campus law enforcement, including—
 
-&emsp;&emsp;(i) the enforcement authority of security personnel, including their working relationship with State and local police agencies; and
+&emsp;&emsp;(i) the law enforcement authority of campus security personnel;
 
-&emsp;&emsp;(ii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate police agencies.
+&emsp;&emsp;(ii) the working relationship of campus security personnel with State and local law enforcement agencies, including whether the institution has agreements with such agencies, such as written memoranda of understanding, for the investigation of alleged criminal offenses; and
+
+&emsp;&emsp;(iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies.
 
 &emsp;(D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
@@ -170,13 +246,21 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;&emsp;(IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and other crimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity,or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of other crimes involving bodily injury to any person, in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
 &emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
 
 &emsp;(I) A statement advising the campus community where law enforcement agency information provided by a State under section 14071(j) of title 42, concerning registered sex offenders may be obtained, such as the law enforcement office of the institution, a local law enforcement agency with jurisdiction for the campus, or a computer network address.
+
+&emsp;(J) A statement of current campus policies regarding immediate emergency response and evacuation procedures, including the use of electronic and cellular communication (if appropriate), which policies shall include procedures to—
+
+&emsp;&emsp;(i) immediately notify the campus community upon the confirmation of a significant emergency or dangerous situation involving an immediate threat to the health or safety of students or staff occurring on the campus, as defined in paragraph (6), unless issuing a notification will compromise efforts to contain the emergency;
+
+&emsp;&emsp;(ii) publicize emergency response and evacuation procedures on an annual basis in a manner designed to reach students and staff; and
+
+&emsp;&emsp;(iii) test emergency response and evacuation procedures on an annual basis.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to campus crimes or campus security.
 
@@ -196,7 +280,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (5) On an annual basis, each institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(F). The Secretary shall—
 
-&emsp;(A) review such statistics and report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on campus crime statistics by September 1, 2000;
+&emsp;(A) review such statistics and report to the authorizing committees on campus crime statistics by September 1, 2000;
 
 &emsp;(B) make copies of the statistics submitted to the Secretary available to the public; and
 
@@ -266,7 +350,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(D) in dormitories or other residential facilities for students on campus.
 
-(13) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution of higher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title.
+(13) Upon a determination pursuant to section 1094(c)(3)(B) of this title that an institution ofhigher education has substantially misrepresented the number, location, or nature of the crimes required to be reported under this subsection, the Secretary shall impose a civil penalty upon the institution in the same amount and pursuant to the same procedures as a civil penalty is imposed under section 1094(c)(3)(B) of this title.
 
 (14)(A) Nothing in this subsection may be construed to—
 
@@ -276,7 +360,13 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (B) Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
 
-(15) This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
+(15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
+
+(16) The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+
+(17) Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.
+
+(18) This subsection may be cited as the “Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act”.
 
 #### (g) Data required
 
@@ -318,7 +408,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of subparagraph (G),<sup>2</sup> if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of subparagraph (G),<sup>4</sup> if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -328,31 +418,241 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(A) On an annual basis, each institution of higher education described in paragraph (1) shall provide to the Secretary, within 15 days of the date that the institution makes available the report under paragraph (1), the information contained in the report.
 
-&emsp;(B) The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
+&emsp;(B) The Secretary shall ensure that the reports described in subparagraph (A) are made available to the public within a reasonable period of time.
 
-&emsp;&emsp;(i) summarize the information and identify trends in the information;
-
-&emsp;&emsp;(ii) aggregate the information by divisions of the National Collegiate Athletic Association; and
-
-&emsp;&emsp;(iii) contain information on each individual institution of higher education.
-
-&emsp;(C) The Secretary shall ensure that the reports described in subparagraph (A) and the report to Congress described in subparagraph (B) are made available to the public within a reasonable period of time.
-
-&emsp;(D) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availability of the information reported under subparagraph (B) and the information made availableunder paragraph (1), and how such information may be accessed.
+&emsp;(C) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availability of the information made available under paragraph (1), and how such information may be accessed.
 
 #### (5) “Operating expenses” defined
 
 &emsp;For the purposes of this subsection, the term “operating expenses” means expenditures on lodging and meals, transportation, officials, uniforms and equipment.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537.)
+#### (h) Transfer of credit policies
+
+#### (1) Disclosure
+
+&emsp;Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall publicly disclose, in a readable and comprehensible manner, the transfer of credit policies established by the institution which shall include a statement of the institution's current transfer of credit policies that includes, at a minimum—
+
+&emsp;&emsp;(A) any established criteria the institution uses regarding the transfer of credit earned at another institution of higher education; and
+
+&emsp;&emsp;(B) a list of institutions of higher education with which the institution has established an articulation agreement.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to—
+
+&emsp;&emsp;(A) authorize the Secretary or the National Advisory Committee on Institutional Quality and Integrity to require particular policies, procedures, or practices by institutions of higher education with respect to transfer of credit;
+
+&emsp;&emsp;(B) authorize an officer or employee of the Department to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any institution of higher education, or over any accrediting agency or association;
+
+&emsp;&emsp;(C) limit the application of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\]; or
+
+&emsp;&emsp;(D) create any legally enforceable right on the part of a student to require an institution of higher education to accept a transfer of credit from another institution.
+
+#### (i) Disclosure of fire safety standards and measures
+
+#### (1) Annual fire safety reports on student housing required
+
+&emsp;Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 that maintains on-campus student housing facilities shall, on an annual basis, publish a fire safety report, which shall contain information with respect to the campus fire safety practices and standards of that institution, including—
+
+&emsp;&emsp;(A) statistics concerning the following in each on-campus student housing facility during the most recent calendar years for which data are available:
+
+&emsp;&emsp;&emsp;(i) the number of fires and the cause of each fire;
+
+&emsp;&emsp;&emsp;(ii) the number of injuries related to a fire that result in treatment at a medical facility;
+
+&emsp;&emsp;&emsp;(iii) the number of deaths related to a fire; and
+
+&emsp;&emsp;&emsp;(iv) the value of property damage caused by a fire;
+
+&emsp;&emsp;(B) a description of each on-campus student housing facility fire safety system, including the fire sprinkler system;
+
+&emsp;&emsp;(C) the number of regular mandatory supervised fire drills;
+
+&emsp;&emsp;(D) policies or rules on portable electrical appliances, smoking, and open flames (such as candles), procedures for evacuation, and policies regarding fire safety education and training programs provided to students, faculty, and staff; and
+
+&emsp;&emsp;(E) plans for future improvements in fire safety, if determined necessary by such institution.
+
+#### (2) Report to the Secretary
+
+&emsp;Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall, on an annual basis, submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(A).
+
+#### (3) Current information to campus community
+
+&emsp;Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall—
+
+&emsp;&emsp;(A) make, keep, and maintain a log, recording all fires in on-campus student housing facilities, including the nature, date, time, and general location of each fire; and
+
+&emsp;&emsp;(B) make annual reports to the campus community on such fires.
+
+#### (4) Responsibilities of the Secretary
+
+&emsp;The Secretary shall—
+
+&emsp;&emsp;(A) make the statistics submitted under paragraph (1)(A) to the Secretary available to the public; and
+
+&emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representatives of institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
+
+&emsp;&emsp;&emsp;(i) identify exemplary fire safety policies, procedures, programs, and practices, including the installation, to the technical standards of the National Fire Protection Association, of fire detection, prevention, and protection technologies in student housing, dormitories, and other buildings;
+
+&emsp;&emsp;&emsp;(ii) disseminate the exemplary policies, procedures, programs and practices described in clause (i) to the Administrator of the United States Fire Administration;
+
+&emsp;&emsp;&emsp;(iii) make available to the public information concerning those policies, procedures, programs, and practices that have proven effective in the reduction of fires; and
+
+&emsp;&emsp;&emsp;(iv) develop a protocol for institutions to review the status of their fire safety systems.
+
+#### (5) Rules of construction
+
+&emsp;Nothing in this subsection shall be construed to—
+
+&emsp;&emsp;(A) authorize the Secretary to require particular policies, procedures, programs, or practices by institutions of higher education with respect to fire safety, other than with respect to the collection, reporting, and dissemination of information required by this subsection;
+
+&emsp;&emsp;(B) affect section 444 of the General Education Provisions Act \[20 U.S.C. 1232g\] (the Family Educational Rights and Privacy Act of 1974) or the regulations issued under section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note);
+
+&emsp;&emsp;(C) create a cause of action against any institution of higher education or any employee of such an institution for any civil liability; or
+
+&emsp;&emsp;(D) establish any standard of care.
+
+#### (6) Compliance report
+
+&emsp;The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
+
+#### (7) Evidence
+
+&emsp;Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity, except with respect to an action to enforce this subsection.
+
+#### (j) Missing person procedures
+
+#### (1) Option and procedures
+
+&emsp;Each institution of higher education that provides on-campus housing and participates in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall—
+
+&emsp;&emsp;(A) establish a missing student notification policy for students who reside in on-campus housing that—
+
+&emsp;&emsp;&emsp;(i) informs each such student that such student has the option to identify an individual to be contacted by the institution not later than 24 hours after the time that the student is determined missing in accordance with official notification procedures established by the institution under subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) provides each such student a means to register confidential contact information in the event that the student is determined to be missing for a period of more than 24 hours;
+
+&emsp;&emsp;&emsp;(iii) advises each such student who is under 18 years of age, and not an emancipated individual, that the institution is required to notify a custodial parent or guardian not later 24 hours after the time that the student is determined to be missing in accordance with such procedures;
+
+&emsp;&emsp;&emsp;(iv) informs each such residing student that the institution will notify the appropriate law enforcement agency not later than 24 hours after the time that the student is determined missing in accordance with such procedures; and
+
+&emsp;&emsp;&emsp;(v) requires, if the campus security or law enforcement personnel has been notified and makes a determination that a student who is the subject of a missing person report has been missing for more than 24 hours and has not returned to the campus, the institution to initiate the emergency contact procedures in accordance with the student's designation; and
+
+&emsp;&emsp;(B) establish official notification procedures for a missing student who resides in on-campus housing that—
+
+&emsp;&emsp;&emsp;(i) includes procedures for official notification of appropriate individuals at the institution that such student has been missing for more than 24 hours;
+
+&emsp;&emsp;&emsp;(ii) requires any official missing person report relating to such student be referred immediately to the institution's police or campus security department; and
+
+&emsp;&emsp;&emsp;(iii) if, on investigation of the official report, such department determines that the missing student has been missing for more than 24 hours, requires—
+
+&emsp;&emsp;&emsp;&emsp;(I) such department to contact the individual identified by such student under subparagraph (A)(i);
+
+&emsp;&emsp;&emsp;&emsp;(II) if such student is under 18 years of age, and not an emancipated individual, the institution to immediately contact the custodial parent or legal guardian of such student; and
+
+&emsp;&emsp;&emsp;&emsp;(III) if subclauses (I) or (II) do not apply to a student determined to be a missing person, inform the appropriate law enforcement agency.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed—
+
+&emsp;&emsp;(A) to provide a private right of action to any person to enforce any provision of this subsection; or
+
+&emsp;&emsp;(B) to create a cause of action against any institution of higher education or any employee of the institution for any civil liability.
+
+#### (k) Notice to students concerning penalties for drug violations
+
+#### (1) Notice upon enrollment
+
+&emsp;Each institution of higher education shall provide to each student, upon enrollment, a separate, clear, and conspicuous written notice that advises the student of the penalties under section 1091(r) of this title.
+
+#### (2) Notice after loss of eligibility
+
+&emsp;An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 as a result of the penalties listed under 1091(r)(1) <sup>5</sup> of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title.
+
+#### (<i>l</i>) Entrance counseling for borrowers
+
+#### (1) Disclosure required prior to disbursement
+
+#### (A) In general
+
+&emsp;&emsp;Each eligible institution shall, at or prior to the time of a disbursement to a first-time borrower of a loan made, insured, or guaranteed under part B (other than a loan made pursuant to section 1078–3 of this title or a loan made on behalf of a student pursuant to section 1078–2 of this title) or made under part C (other than a Federal Direct Consolidation Loan or a Federal Direct PLUS loan made on behalf of a student), ensure that the borrower receives comprehensive information on the terms and conditions of the loan and of the responsibilities the borrower has with respect to such loan in accordance with subparagraph (B). Such information—
+
+&emsp;&emsp;&emsp;(i) shall be provided in a simple and understandable manner; and
+
+&emsp;&emsp;&emsp;(ii) may be provided—
+
+&emsp;&emsp;&emsp;&emsp;(I) during an entrance counseling session conduction in person;
+
+&emsp;&emsp;&emsp;&emsp;(II) on a separate written form provided to the borrower that the borrower signs and returns to the institution; or
+
+&emsp;&emsp;&emsp;&emsp;(III) online, with the borrower acknowledging receipt of the information.
+
+#### (B) Use of interactive programs
+
+&emsp;&emsp;The Secretary shall encourage institutions to carry out the requirements of subparagraph (A) through the use of interactive programs that test the borrower's understanding of the terms and conditions of the borrower's loans under part B or C, using simple and understandable language and clear formatting.
+
+#### (2) Information to be provided
+
+&emsp;The information to be provided to the borrower under paragraph (1)(A) shall include the following:
+
+&emsp;&emsp;(A) To the extent practicable, the effect of accepting the loan to be disbursed on the eligibility of the borrower for other forms of student financial assistance.
+
+&emsp;&emsp;(B) An explanation of the use of the master promissory note.
+
+&emsp;&emsp;(C) Information on how interest accrues and is capitalized during periods when the interest is not paid by either the borrower or the Secretary.
+
+&emsp;&emsp;(D) In the case of a loan made under section 1078–2 or 1078–8 of this title, a Federal Direct PLUS Loan, or a Federal Direct Unsubsidized Stafford Loan, the option of the borrower to pay the interest while the borrower is in school.
+
+&emsp;&emsp;(E) The definition of half-time enrollment at the institution, during regular terms and summer school, if applicable, and the consequences of not maintaining half-time enrollment.
+
+&emsp;&emsp;(F) An explanation of the importance of contacting the appropriate offices at the institution of higher education if the borrower withdraws prior to completing the borrower's program of study so that the institution can provide exit counseling, including information regarding the borrower's repayment options and loan consolidation.
+
+&emsp;&emsp;(G) Sample monthly repayment amounts based on—
+
+&emsp;&emsp;&emsp;(i) a range of levels of indebtedness of—
+
+&emsp;&emsp;&emsp;&emsp;(I) borrowers of loans under section 1078 or 1078–8 of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(II) as appropriate, graduate borrowers of loans under section 1078, 1078–2, or 1078–8 of this title; or
+
+&emsp;&emsp;&emsp;(ii) the average cumulative indebtedness of other borrowers in the same program as the borrower at the same institution.
+
+&emsp;&emsp;(H) The obligation of the borrower to repay the full amount of the loan, regardless of whether the borrower completes or does not complete the program in which the borrower is enrolled within the regular time for program completion.
+
+&emsp;&emsp;(I) The likely consequences of default on the loan, including adverse credit reports, delinquent debt collection procedures under Federal law, and litigation.
+
+&emsp;&emsp;(J) Information on the National Student Loan Data System and how the borrower can access the borrower's records.
+
+&emsp;&emsp;(K) The name of and contact information for the individual the borrower may contactif the borrower has any questions about the borrower's rights and responsibilities or the terms and conditions of the loan.
+
+#### (m) Disclosures of reimbursements for service on advisory boards
+
+#### (1) Disclosure
+
+&emsp;Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall report, on an annual basis, to the Secretary, any reasonable expenses paid or provided under section 1650(d) of title 15 to any employee who is employed in the financial aid office of the institution, or who otherwise has responsibilities with respect to education loans or other financial aid of the institution. Such reports shall include—
+
+&emsp;&emsp;(A) the amount for each specific instance of reasonable expenses paid or provided;
+
+&emsp;&emsp;(B) the name of the financial aid official, other employee, or agent to whom the expenses were paid or provided;
+
+&emsp;&emsp;(C) the dates of the activity for which the expenses were paid or provided; and
+
+&emsp;&emsp;(D) a brief description of the activity for which the expenses were paid or provided.
+
+#### (2) Report to Congress
+
+&emsp;The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
+
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482.)
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (a)(1)(M), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
-
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(1)(M), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
-
 The Hate Crime Statistics Act, referred to in subsec. (f)(7), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+
+The General Education Provisions Act, referred to in subsec. (h)(2)(C), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+
+Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(5)(B), is section 264 of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Prior Provisions
 
@@ -361,6 +661,60 @@ A prior section 1092, Pub. L. 89–329, title IV, §485, as added Pub. L. 96–3
 Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, Nov. 8, 1965, 79 Stat. 1255; renumbered §508 and amended Pub. L. 90–35, §§2(b), 7, June 29, 1967, 81 Stat. 82, 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(2), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(G)(iv). Pub. L. 110–315, §488(a)(1)(A), added cl. (iv).
+
+Subsec. (a)(1)(M). Pub. L. 110–315, §488(a)(1)(B), added subpar. (M) and struck out former subpar. (M) which read as follows: “the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
+
+&emsp;“(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973, or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
+
+&emsp;“(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under the Domestic Volunteer Service Act of 1973 or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service;”.
+
+Subsec. (a)(1)(P) to (V). Pub. L. 110–315, §488(a)(1)(C)–(E), added subpars. (P) to (V).
+
+Subsec. (a)(4). Pub. L. 110–315, §488(a)(2), added par. (4) and struck out former par. (4) which read as follows: “For purposes of this section, institutions may exclude from the information disclosed in accordance with subparagraph (L) of paragraph (1) the completion or graduation rates of students who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
+
+Subsec. (a)(7). Pub. L. 110–315, §488(a)(3), added par. (7).
+
+Subsec. (b)(1)(A). Pub. L. 110–315, §488(b), which directed the general amendment of subpar. (A), with the new subpar. (A) including a subsec. (b) designation and heading and par. (1) designation, was executed by substituting the new subpar. (A) without the added subsec. (b) designation and heading and par. (1) designation for the existing subpar. (A), to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: “Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+
+&emsp;“(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
+
+&emsp;“(ii) the terms and conditions under which the student may obtain partial cancellation or defer repayment of the principal and interest pursuant to sections 1078(b), 1087dd(c)(2), and 1087ee of this title.”
+
+Subsec. (d)(1). Pub. L. 110–315, §488(c)(1), inserted “Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C.” before “In addition, such information” and “The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest.” before “Such information shall be provided”.
+
+Subsec. (d)(4). Pub. L. 110–315, §488(c)(2), added par. (4).
+
+Subsec. (e)(3). Pub. L. 110–315, §488(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
+
+Subsec. (f)(1). Pub. L. 110–315, §488(e)(1)(A), inserted “, other than a foreign institution higher education,” after “chapter 34 of title 42” in introductory provisions.
+
+Subsec. (f)(1)(C)(i) to (iii). Pub. L. 110–315, §488(e)(1)(B), added cls. (i) to (iii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) the enforcement authority of security personnel, including their working relationship with State and local police agencies; and
+
+“(ii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate police agencies.”
+
+Subsec. (f)(1)(F)(ii). Pub. L. 110–315, §488(e)(1)(C), substituted “clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of” for “clause (i), and” and inserted a comma after “any person”.
+
+Subsec. (f)(1)(J). Pub. L. 110–315, §488(e)(1)(D), added subpar. (J).
+
+Subsec. (f)(5)(A). Pub. L. 110–315, §103(b)(11), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate”.
+
+Subsec. (f)(15) to (18). Pub. L. 110–315, §488(e)(2), (3), added pars. (15) to (17) and redesignated former par. (15) as (18).
+
+Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out “and the report to Congress described in subparagraph (B)” after “subparagraph (A)” in subpar. (B) and “the information reported under subparagraph (B) and” after “availability of” in subpar. (C), and struck out former subpar. (B) which read as follows: “The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
+
+&emsp;“(i) summarize the information and identify trends in the information;
+
+&emsp;“(ii) aggregate the information by divisions of the National Collegiate Athletic Association; and
+
+&emsp;“(iii) contain information on each individual institution of higher education.”
+
+Subsecs. (h) to (<i>l</i>). Pub. L. 110–315, §488(g), added subsecs. (h) to (<i>l</i>).
+
+Subsec. (m). Pub. L. 110–315, §1011(c), added subsec. (m).
 
 2000—Subsec. (f)(1)(I). Pub. L. 106–386 added subpar. (I).
 
@@ -548,12 +902,6 @@ Subsec. (f). Pub. L. 101–542, §204(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–386, div. B, title VI, §1601(c)(2), Oct. 28, 2000, 114 Stat. 1538, provided that: “The amendment made by this subsection \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Oct. 28, 2000\].”
@@ -610,7 +958,57 @@ Subsec. (b) of this section applicable only to periods of enrollment beginning o
 
 #### Regulations
 
-Section 401(a) of Pub. L. 101–542 provided that: “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
+Section 401(a) of Pub. L. 101–542 provided that: “The Secretary is authorized to issue regulations to carryout the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and section 1001 of this title\].”
+
+#### Model Institution Financial Aid Offer Form
+
+Pub. L. 110–315, title IV, §484, Aug. 14, 2008, 122 Stat. 3286, provided that:
+
+“(a)
+
+Model Format.—The Secretary of Education shall—
+
+&emsp;“(1) not later than six months after the date of enactment of the Higher Education Opportunity Act \[Aug. 14, 2008\], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groups for the purpose of offering recommendations for improvements that—
+
+&emsp;&emsp;“(A) can be made to financial aid offer forms; and
+
+&emsp;&emsp;“(B) include the information described in subsection (b);
+
+&emsp;“(2) develop a model format for financial aid offer forms based on the recommendations of the group; and
+
+&emsp;“(3) not later than one year after the date of enactment of the Higher Education Opportunity Act—
+
+&emsp;&emsp;“(A) submit recommendations to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003); and
+
+&emsp;&emsp;“(B) make the recommendations and model format widely available.
+
+“(b)
+
+Contents.—The recommendations developed under subsection (a) for model financial aid offer forms shall include, in a consumer-friendly manner that is simple and understandable, the following:
+
+&emsp;“(1) Information on the student's cost of attendance, including the following:
+
+&emsp;&emsp;“(A) Tuition and fees.
+
+&emsp;&emsp;“(B) Room and board costs.
+
+&emsp;&emsp;“(C) Books and supplies.
+
+&emsp;&emsp;“(D) Transportation.
+
+&emsp;“(2) The amount of financial aid that the student does not have to repay, such as scholarships, grants, and work-study assistance, offered to the student for such year, and the conditions of such financial aid.
+
+&emsp;“(3) The types and amounts of loans under part B, D, or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq., 1087a et seq., 1087aa et seq.) for which the student is eligible for such year, and the applicable terms and conditions of such loans.
+
+&emsp;“(4) The net amount that the student, or the student's family on behalf of the student, will have to pay for the student to attend the institution for such year, equal to—
+
+&emsp;&emsp;“(A) the cost of attendance for the student for such year; minus
+
+&emsp;&emsp;“(B) the amount of financial aid described in paragraphs (2) and (3) that is offered in the financial aid offer form.
+
+&emsp;“(5) Where a student or the student's family can seek additional information regarding the financial aid offered.
+
+&emsp;“(6) Any other information the Secretary of Education determines necessary so that students and parents can make informed student loan borrowing decisions.”
 
 #### Congressional Findings
 
@@ -648,7 +1046,7 @@ Section 102 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;“(7) knowledge of graduation rates would help prospective students and prospective student athletes make an informed judgment about the educational benefits available at a given institution of higher education.”
 
-Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
+Pub. L. 101–542, title II, §202, Nov. 8, 1990, 104 Stat. 2384, provided that: “The Congress finds that—
 
 &emsp;“(1) the reported incidence of crime, particularly violent crime, on some college campuses has steadily risen in recent years;
 
@@ -670,7 +1068,13 @@ Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;&emsp;“(C) to encourage the development of policies and procedures to address sexual assaults and racial violence on college campuses.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “or under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1)(G),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “higher education—”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “of higher education,”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “paragraph (1)(G),”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

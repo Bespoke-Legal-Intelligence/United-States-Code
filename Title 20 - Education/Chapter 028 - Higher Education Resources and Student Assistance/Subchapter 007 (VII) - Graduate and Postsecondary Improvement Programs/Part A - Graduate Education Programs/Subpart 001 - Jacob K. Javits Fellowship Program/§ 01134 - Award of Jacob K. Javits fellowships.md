@@ -10,17 +10,17 @@ Students receiving awards under this subpart shall be known as “Jacob K. Javit
 
 #### (c) Interruptions of study
 
-The institution of higher education may allow a fellowship recipient to interrupt periods of study for a period not to exceed 12 months for the purpose of work, travel, or independent study away from the campus, if such independent study is supportive of the fellowship recipient's academic program and shall continue payments for those 12-month periods during which the student is pursuing travel or independent study supportive of the recipient's academic program.
+The institution of higher education may allow a fellowship recipient to interrupt periods of study for a period not to exceed 12 months for the purpose of work, travel, or independent study away from the campus, if such independent study is supportive of the fellowship recipient's academic program and shall continue payments for those 12-month periods during which the student is pursuing travel or independent study supportive of the recipient's academic program. In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend.
 
 #### (d) Process and timing of competition
 
-The Secretary shall make applications for fellowships under this part available not later thanOctober 1 of the academic year preceding the academic year for which fellowships will be awarded, and shall announce the recipients of fellowships under this section not later than March 1 of the academic year preceding the academic year for which the fellowships are awarded.
+The Secretary shall make applications for fellowships under this part available not later than October 1 of the academic year preceding the academic year for which fellowships will be awarded, and shall announce the recipients of fellowships under this section not later than March 1 of the academic year preceding the academic year for which the fellowships are awarded.
 
 #### (e) Authority to contract
 
 The Secretary is authorized to enter into a contract with a nongovernmental agency to administer the program assisted under this part if the Secretary determines that entering into the contract is an efficient means of carrying out the program.
 
-(Pub. L. 89–329, title VII, §701, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786.)
+(Pub. L. 89–329, title VII, §701, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786; amended Pub. L. 110–315, title VII, §702(a), Aug. 14, 2008, 122 Stat. 3345.)
 
 #### Prior Provisions
 
@@ -37,4 +37,8 @@ A prior section 701 of Pub. L. 89–329 was classified to section 1132a of this 
 Another prior section 701 of Pub. L. 89–329 was classified to section 1132a of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 701 of Pub. L. 89–329 was classified to section 1132a of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–315 inserted at end “In the case of other exceptional circumstances, such asactive duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend.”
 

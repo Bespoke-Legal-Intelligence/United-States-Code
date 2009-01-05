@@ -20,7 +20,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (1) Any regulations developed pursuant to subsection (c) of this section shall take effect if, and only if—
 
-&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2,1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
+&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
 
 &emsp;(B) before the close of the 120–day period which begins on the day on which the copies of such regulations are delivered to the House of Representatives and to the Senate, neither the House of Representatives nor the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval.
 

@@ -112,7 +112,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -120,7 +120,9 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 
-Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in each of fiscal years 2004 through 2007 under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
+Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718, provided that: “Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in fiscal year 2009 before April 1, 2009, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
+
+\[Pub. L. 110–253, §3(c)(3), which directed amendment of section 161 of Pub. L. 108–176, set out above, by substituting “fiscal year 2008.” for “fiscal year 2008 before July 1, 2008.”, was executed by substituting “fiscal year 2008,” for “fiscal year 2008 before July 1, 2008,” to reflect the probable intent of Congress.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

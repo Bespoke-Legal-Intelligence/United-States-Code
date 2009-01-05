@@ -68,7 +68,7 @@ The Harmonized Tariff Schedule, referred to in text, is not set out in the Code.
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(A)(i), is Pub. L. 96–39, July 26, 1979, 93 Stat.144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
+The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(A)(i), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
 The United States-Israel Free Trade Area Implementation Act of 1985, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 99–47, June 11, 1985, 99 Stat. 82, as amended, which amended sections 2112, 2462 to 2464, and 2518 of this title, and enacted and amended provisions set out as notes under section 2112 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2112 of this title and Tables.
 

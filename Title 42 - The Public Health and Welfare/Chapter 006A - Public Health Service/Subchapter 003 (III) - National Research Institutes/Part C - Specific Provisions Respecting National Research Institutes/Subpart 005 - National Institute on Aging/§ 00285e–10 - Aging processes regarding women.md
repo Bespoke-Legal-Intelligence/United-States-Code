@@ -1,6 +1,6 @@
 ### §285e–10. Aging processes regarding women
 
-The Director of the Institute, in addition to other special functions specified in section285e–1 of this title and in cooperation with the Directors of the other national research institutes and agencies of the National Institutes of Health, shall conduct research into the aging processes of women, with particular emphasis given to the effects of menopause and the physiological and behavioral changes occurring during the transition from pre- to post-menopause, and into the diagnosis, disorders, and complications related to aging and loss of ovarian hormones in women.
+The Director of the Institute, in addition to other special functions specified in section 285e–1 of this title and in cooperation with the Directors of the other national research institutes and agencies of the National Institutes of Health, shall conduct research into the aging processes of women, with particular emphasis given to the effects of menopause and the physiological and behavioral changes occurring during the transition from pre- to post-menopause, and into the diagnosis, disorders, and complications related to aging and loss of ovarian hormones in women.
 
 (July 1, 1944, ch. 373, title IV, §445H, as added Pub. L. 103–43, title VIII, §802, June 10, 1993, 107 Stat. 163; amended Pub. L. 105–340, title I, §105, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 109–482, title I, §103(b)(24), Jan. 15, 2007, 120 Stat. 3688.)
 

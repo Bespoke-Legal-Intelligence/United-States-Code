@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the dairy industry plays a significant role in the economy of the United States, in that milk is produced by thousands of milk producers and dairy products (including fluid milk products) are consumed every day by millions of people in the United States;
 
-&emsp;(4) the processing of milk into fluid milk products and the marketing of such products are important to the dairy industry becausethe fluid milk segment of the dairy market contributes substantially to ensuring that the prices paid to milk producers for raw milk are stable and adequate to maintain the overall strength of the dairy industry;
+&emsp;(4) the processing of milk into fluid milk products and the marketing of such products are important to the dairy industry because the fluid milk segment of the dairy market contributes substantially to ensuring that the prices paid to milk producers for raw milk are stable and adequate to maintain the overall strength of the dairy industry;
 
 &emsp;(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation's fluid milk processors and milk producers, as well as to the general economy of the United States;
 
@@ -32,7 +32,7 @@ It is declared to be the policy of Congress that it is in the public interest to
 
 1996—Subsec. (a)(6) to (9). Pub. L. 104–127, §146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
-Subsec. (b). Pub. L. 104–127, §146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
+Subsec. (b). Pub. L. 104–127, §146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is inthe public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
 
 #### Short Title of 1993 Amendment
 

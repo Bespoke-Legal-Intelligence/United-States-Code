@@ -16,7 +16,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 (2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
 
-&emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
+&emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similarto the local educational agency referred to in paragraph (1)(B).
 
 &emsp;(B) In the case of a military installation with boundaries contiguous to two or more States, local educational agencies in the contiguous States that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -72,7 +72,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 &emsp;(ii) the compensation of comparable employees in the local educational agency that provides public education to students who reside adjacent to the military installation; and
 
-&emsp;(iii) the average compensation for similar positions in not more than three other local educational agencies in the State in which the military installation is located.
+&emsp;(iii) the average compensation for similar positions in not more than three other localeducational agencies in the State in which the military installation is located.
 
 (B) In fixing the compensation of employees in schools established in the territories, commonwealths, and possessions pursuant to the authority of this section, the Secretary shall determine the level of compensation required to attract qualified employees. For employees in such schools, the Secretary, without regard to the provisions of title 5, may provide for the tenure, leave, hours of work, and other incidents of employment to be similar to that provided for comparable positions in the public schools of the District of Columbia. For purposes of the first sentence, a school established before the effective date of this section pursuant to authority similar to the authority in this section shall be considered to have been established pursuant to the authority of this section.
 
@@ -130,7 +130,7 @@ Continuation of Enrollment Despite Change in Status.—(1) The Secretary of Defe
 
 (i)
 
-American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
+American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in PuertoRico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
 
 (2) An employee referred to in paragraph (1) is an American Red Cross employee who—
 
@@ -194,7 +194,7 @@ Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989
 
 #### Savings Provision
 
-Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment ofthis Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
 
 #### Transfer of Functions
 

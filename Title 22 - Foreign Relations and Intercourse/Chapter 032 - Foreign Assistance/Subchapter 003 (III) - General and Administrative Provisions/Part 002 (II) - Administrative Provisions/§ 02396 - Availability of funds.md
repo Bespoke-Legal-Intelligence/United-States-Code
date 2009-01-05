@@ -18,13 +18,13 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(7) exchange of funds without regard to section 3651 <sup>1</sup> of the Revised Statutes (31 U.S.C. 543) and loss by exchange;
 
-&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of a confidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agency primarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
+&emsp;(8) expenditures (not to exceed $50,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act) of aconfidential character other than entertainment: <i>Provided</i>, That a certificate of the amount of each such expenditure, the nature of which it is considered inadvisable to specify, shall be made by the head of the agency primarily responsible for administering subchapter I of this chapter or such person as he may designate, and every such certificate shall be deemed a sufficient voucher for the amount therein specified;
 
 &emsp;(9) insurance of official motor vehicles or aircraft acquired for use in foreign countries;
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from theirhomes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -50,11 +50,11 @@ Not to exceed $2,500,000 of the funds available for assistance under this chapte
 
 #### (e) Training costs
 
-Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>3</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>3</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>3</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
+Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>3</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>3</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>3</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, ofcompensation received from the United States Government.
 
 #### (f) Assistance in carrying out functions under certain laws
 
-Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Agricultural Trade Development and Assistance Act of 1954, as amended.
+Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Food for Peace Act, as amended.
 
 #### (g) Administrative, extraordinary, and operating expenses; reimbursement of military officers; training of foreign military personnel
 
@@ -74,7 +74,7 @@ In carrying out programs under this chapter, the President shall take all approp
 
 Notwithstanding section 2399a <sup>4</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(<i>o</i>), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094.)
+(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(<i>o</i>), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Section 2385(d) of this title, referred to in subsec. (e), was amended by Pub. L
 
 Sections 1881 to 1888 of title 7, referred to in subsec. (e), which related to the interchange of Department of Agriculture and State employees, were repealed by Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925. See section 3371 et seq. of Title 5, Government Organization and Employees.
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
 The Latin American Development Act, as amended, referred to in subsec. (f), is Pub. L. 86–735, Sept. 8, 1960, 74 Stat. 869, as amended, which enacted sections 1942 to 1945 of this title and amended section 1753a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1942 of this title and Tables.
 
@@ -110,7 +110,9 @@ In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “
 
 #### Amendments
 
-2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods,and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
+2008—Subsec. (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in two places.
+
+2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
 
 1989—Subsec. (g). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “subchapter II of this chapter” in introductory provisions.
 
@@ -160,6 +162,10 @@ Subsec. (f). Pub. L. 89–171, §302(h)(2), substituted “Latin American Develo
 
 Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of the National Oceanic and Atmospheric Administration, see 1970 Reorg Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
@@ -174,7 +180,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

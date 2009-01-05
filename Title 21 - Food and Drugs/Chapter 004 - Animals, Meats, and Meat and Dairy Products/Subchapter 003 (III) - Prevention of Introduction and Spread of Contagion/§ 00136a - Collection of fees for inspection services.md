@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Agriculture may prescribe and collect fees sufficient—
 
-&emsp;&emsp;(A) to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a site outside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car;
+&emsp;&emsp;(A) to cover the cost of providing agricultural quarantine and inspection services in connection with the arrival at a port in the customs territory of the United States, or the preclearance or preinspection at a siteoutside the customs territory of the United States, of an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car;
 
 &emsp;&emsp;(B) to cover the cost of administering this subsection; and
 
@@ -84,7 +84,7 @@
 
 #### (ii) Excess proceeds
 
-&emsp;&emsp;&emsp;If the sale proceeds under clause (i) exceed the fees due, any late payment penalty assessed, any accrued interest on such, and the expenses associated with the sale, such excess shall be paid to the owner of the animal, article, means of conveyance, or facility if such owner submits anapplication for such excess together with proof of ownership not later than 6 months after the date of such sale. If no such application is made, such excess shall be credited to accounts that incur the costs associated with the fees collected and shall remain available until expended, without fiscal year limitation. The Secretary shall suspend performance of services to persons who have failed to pay fees, late payment penalty, or accrued interest under this section.
+&emsp;&emsp;&emsp;If the sale proceeds under clause (i) exceed the fees due, any late payment penalty assessed, any accrued interest on such, and the expenses associated with the sale, such excess shall be paid to the owner of the animal, article, means of conveyance, or facility if such owner submits an application for such excess together with proof of ownership not later than 6 months after the date of such sale. If no such application is made, such excess shall be credited to accounts that incur the costs associated with the fees collected and shall remain available until expended, without fiscal year limitation. The Secretary shall suspend performance of services to persons who have failed to pay fees, late payment penalty, or accrued interest under this section.
 
 #### (d) Regulations
 

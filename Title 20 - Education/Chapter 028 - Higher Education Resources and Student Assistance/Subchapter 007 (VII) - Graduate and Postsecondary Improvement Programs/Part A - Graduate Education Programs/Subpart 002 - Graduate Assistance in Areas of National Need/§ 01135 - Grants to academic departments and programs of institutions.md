@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants to academic departments, programs and other academic units of institutions of higher education that provide courses of study leading to a graduate degree in order to enable such institutions to provide assistance to graduate students in accordance with this subpart.
+&emsp;The Secretary shall make grants to academic departments, programs and other academic units of institutions of higher education that provide courses of study leading to a graduate degree, including a master's or doctoral degree, in order to enable such institutions to provide assistance to graduate students in accordance with this subpart.
 
 #### (2) Additional grants
 
@@ -50,7 +50,7 @@
 
 &emsp;To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.
 
-(Pub. L. 89–329, title VII, §711, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790.)
+(Pub. L. 89–329, title VII, §711, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790; amended Pub. L. 110–315, title VII, §703(e)(1), Aug. 14, 2008, 122 Stat. 3347.)
 
 #### Prior Provisions
 
@@ -67,4 +67,8 @@ A prior section 711 of Pub. L. 89–329 was classified to section 1132b of this 
 Another prior section 711 of Pub. L. 89–329 was classified to section 1132b of this title, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
 Another prior section 711 of Pub. L. 89–329 was classified to section 1132b of this title, prior to the general amendment of this subchapter by Pub. L. 99–498.
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315 inserted “, including a master's or doctoral degree,” after “leading to a graduate degree”.
 

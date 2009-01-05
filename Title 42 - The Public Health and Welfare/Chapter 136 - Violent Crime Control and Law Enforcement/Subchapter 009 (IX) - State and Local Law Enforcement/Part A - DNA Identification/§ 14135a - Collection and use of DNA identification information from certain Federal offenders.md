@@ -4,7 +4,7 @@
 
 #### (1) From individuals in custody
 
-&emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
+&emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or fromnon-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
 
 &emsp;(B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10.
 
@@ -20,7 +20,7 @@
 
 &emsp;(A) The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
 
-&emsp;(B) The Attorney General, the Director of the Bureau of Prisons, or the probation office, as appropriate, may enter into agreementswith units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
+&emsp;(B) The Attorney General, the Director of the Bureau of Prisons, or the probation office, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
 
 #### (5) Criminal penalty
 

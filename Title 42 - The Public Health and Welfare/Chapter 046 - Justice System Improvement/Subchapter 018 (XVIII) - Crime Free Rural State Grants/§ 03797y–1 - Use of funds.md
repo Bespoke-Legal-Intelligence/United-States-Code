@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A capacity building grant shall be used to develop a statewide strategic plan as described in section 3797y–2 of this title to prevent and reduce crime, violence, and substance abuse.
+A capacity building grant shall be used to develop a statewide strategic plan as described insection 3797y–2 of this title to prevent and reduce crime, violence, and substance abuse.
 
 #### (b) Permissive use
 

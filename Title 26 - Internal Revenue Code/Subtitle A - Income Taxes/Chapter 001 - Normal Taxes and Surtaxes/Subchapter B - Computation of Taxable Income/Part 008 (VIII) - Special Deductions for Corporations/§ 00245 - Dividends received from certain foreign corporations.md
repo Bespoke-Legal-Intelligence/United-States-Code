@@ -20,7 +20,7 @@
 
 #### (4) Post-1986 undistributed earnings
 
-&emsp;For purposes of this subsection, the term “post-1986 undistributed earnings” has themeaning given to such term by section 902(c)(1).
+&emsp;For purposes of this subsection, the term “post-1986 undistributed earnings” has the meaning given to such term by section 902(c)(1).
 
 #### (5) Post-1986 undistributed U.S. earnings
 
@@ -168,7 +168,7 @@ Subsec. (c)(4). Pub. L. 99–514, §1876(j), redesignated former par. (3) as (4)
 
 1984—Subsec. (c). Pub. L. 98–369 added subsec. (c), redesignated former subsec. (c) as (d), and substituted therein “this section” for “subsections (a) and (b)”.
 
-1966—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade orbusiness within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the United States” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
+1966—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade or business within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the United States” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
 
 Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein “subsections (a) and (b)” for “subsection (a)”.
 

@@ -9,12 +9,7 @@
 | [2105\.](%C2%A7%2002105%20-%20Report.md) | Report. |
 | [2106\.](%C2%A7%2002106%20-%20Liability%20in%20rem.md) | Liability in rem. |
 | [2107\.](%C2%A7%2002107%20-%20Civil%20penalty%20procedures.md) | Civil penalty procedures. |
-| [2108\.](%C2%A7%2002108%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93304%2C%20%C2%A715%285%29%2C%20Oct.%206%2C%202006%2C%20120%20Stat.%201702.md) | Refund of penalties.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| \[2108. | Repealed.\] |
 | [2109\.](%C2%A7%2002109%20-%20Public%20vessels.md) | Public vessels. |
 | [2110\.](%C2%A7%2002110%20-%20Fees.md) | Fees. |
 | [2111\.](%C2%A7%2002111%20-%20Pay%20for%20overtime%20services.md) | Pay for overtime services. |
@@ -31,13 +26,13 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 #### Amendments
 
+2008—Pub. L. 110–181, div. C, title XXXV, §3529(a)(1), Jan. 28, 2008, 122 Stat. 603, struck out item 2108 “Refund of penalties”.
+
 1996—Pub. L. 104–324, title III, §303(b), Oct. 19, 1996, 110 Stat. 3917, added item 2115.
 
 1990—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted “Fees” for “Fees prohibited” in item 2110.
 
 1984—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
-
-<i><sup>1</sup></i><i> Section repealed by Pub. L. 109–304 without corresponding amendment of chapter analysis.</i>
 
 
 ---

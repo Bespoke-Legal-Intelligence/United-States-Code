@@ -22,5 +22,5 @@ The Secretary shall establish a plan, in coordination with activities under sect
 
 #### Suspension of Limitation on Period for Which Borrowers Are Eligible for Guaranteed Assistance
 
-Pub. L. 107–171, title V, §5102, May 13, 2002, 116 Stat. 343, as amended by Pub. L. 109–467, §1, Dec. 22, 2006, 120Stat. 3485, provided that: “During the period beginning January 1, 2002, and ending September 30, 2007, section 319(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1949(b)) shall have no force or effect.”
+Pub. L. 107–171, title V, §5102, May 13, 2002, 116 Stat. 343, as amended by Pub. L. 109–467, §1, Dec. 22, 2006, 120 Stat. 3485; Pub. L. 110–234, title V, §5103, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, §4(a), title V, §5103, June 18, 2008, 122 Stat. 1664, 1908, provided that: “During the period beginning January 1, 2002, and ending December 31, 2010, section 319(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1949(b)) shall have no force or effect.”
 

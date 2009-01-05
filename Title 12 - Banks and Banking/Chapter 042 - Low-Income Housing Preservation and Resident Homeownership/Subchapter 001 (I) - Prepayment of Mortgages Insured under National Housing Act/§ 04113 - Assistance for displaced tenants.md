@@ -16,7 +16,7 @@ The Secretary shall coordinate with public housing agencies to ensure that any v
 
 #### (2) Provision of assistance by owner
 
-&emsp;In any case in which the Secretary requires an owner to allow tenants to occupy units under paragraph (1), an owner may fulfill the requirements of such paragraph by providing such assistance necessary for the tenant to rent a decent, safe, and sanitary unit in another project for the same period and at a rental cost to the tenant not in excess of the rental amount the tenant would have been required to pay in the housing of the owner, except that the tenant must freely agree to waive the right to occupy the unit in the owner's housing.
+&emsp;In any case in which the Secretary requires an owner to allow tenants to occupy units under paragraph (1), an owner may fulfill the requirements of such paragraph by providing such assistance necessary for the tenant torent a decent, safe, and sanitary unit in another project for the same period and at a rental cost to the tenant not in excess of the rental amount the tenant would have been required to pay in the housing of the owner, except that the tenant must freely agree to waive the right to occupy the unit in the owner's housing.
 
 #### (3) Applicability to low-vacancy areas and special needs tenants
 

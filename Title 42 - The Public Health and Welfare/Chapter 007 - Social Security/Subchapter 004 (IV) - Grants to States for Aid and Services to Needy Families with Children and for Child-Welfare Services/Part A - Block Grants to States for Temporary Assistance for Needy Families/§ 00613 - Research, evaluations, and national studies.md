@@ -64,7 +64,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (1) In general
 
-&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shall prepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
+&emsp;Beginning 3 years after August 22, 1996, the Secretary of Health and Human Services shallprepare and submit to the Committees on Ways and Means and on Education and the Workforce of the House of Representatives and to the Committees on Finance and on Labor and Resources of the Senate annual reports that examine in detail the matters described in paragraph (2) with respect to each of the following groups for the period after August 22, 1996:
 
 &emsp;&emsp;(A) Individuals who were children in families that have become ineligible for assistance under a State program funded under this part by reason of having reached a time limit on the provision of such assistance.
 
@@ -144,7 +144,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (5) Methodology
 
-&emsp;The Secretary shall prescribe regulations establishing the methodology by which a State shall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of food stamp households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
+&emsp;The Secretary shall prescribe regulations establishing the methodology by which a Stateshall determine the child poverty rate in the State. The methodology shall take into account factors including the number of children who receive free or reduced-price lunches, the number of supplemental nutrition assistance program benefits households, and, to the extent available, county-by-county estimates of children in poverty as determined by the Census Bureau.
 
 #### (j) Evaluation of welfare-to-work programs
 
@@ -180,17 +180,23 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;&emsp;Not later than January 1, 2001,<sup>2</sup> (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 613, act Aug. 14, 1935, ch. 531, title IV, §413, as added June 9, 1980, Pub. L. 96–265, title IV, §406(c), 94 Stat. 467, related to technical assistance for developing management information systems, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+2008—Subsec. (i)(5). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
 1999—Subsec. (g)(1). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
@@ -229,6 +235,12 @@ Subsec. (j). Pub. L. 105–33, §5001(f), added subsec. (j).
 #### Change of Name
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1999 Amendment
 

@@ -44,7 +44,7 @@ The Foundation, as a corporation—
 
 &emsp;(7) shall be entitled to the use of the United States mails in the same manner and on the same conditions as the executive departments of the Government;
 
-&emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, avail itself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
+&emsp;(8) may, with the consent of any board, corporation, commission, independent establishment, or executive department of the Government, including any field service thereof, availitself of the use of information, services, facilities, officers, and employees thereof in carrying out the provisions of this section;
 
 &emsp;(9) may accept money, funds, property, and services of every kind by gift, device,<sup>1</sup> bequest, grant, or otherwise, and make advances, grants, and loans to any individual, corporation, or other body of persons, whether within or without the United States of America, or to any government or governmental agency, domestic or foreign, when deemed advisable by the Foundation in furtherance of its purposes;
 
@@ -132,7 +132,7 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

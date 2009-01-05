@@ -58,7 +58,7 @@ The reduction plan must—
 
 (1) If the Secretary, at the conclusion of the 6-month plan of correction described in subsection (a)(1) of this section, determines that the State has substantially failed to correct the deficiencies described in subsection (a) of this section, the Secretary may terminate the facility's provider agreement in accordance with the provisions of section 1396i(b) of this title.
 
-(2) In the case of a reduction plan described in subsection (a)(2) of this section, if the Secretary determines, at the conclusion of the initial 6-month period or any 6-month interval thereafter, that the State has substantially failed to meet the requirements of subsection (c) of this section, the Secretary shall—
+(2) In the case of a reduction plan described in subsection (a)(2) of this section, if the Secretary determines, at the conclusion of the initial 6-month period or any 6-month interval thereafter, that the State has substantially failed tomeet the requirements of subsection (c) of this section, the Secretary shall—
 
 &emsp;(A) terminate the facility's provider agreement in accordance with the provisions of section 1396i(b) of this title; or
 

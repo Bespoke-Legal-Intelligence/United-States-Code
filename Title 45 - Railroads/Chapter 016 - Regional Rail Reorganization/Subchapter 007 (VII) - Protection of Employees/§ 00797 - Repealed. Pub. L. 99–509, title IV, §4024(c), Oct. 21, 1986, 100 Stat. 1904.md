@@ -44,5 +44,5 @@ Transactions.—(1) As soon as practicable after the date of the enactment of th
 
 “(3) The Corporation shall distribute any full shares of its common stock which, because of the exception under paragraph (1)(B), could not be contributed to the ESOP to those persons to whom the ESOP would have allocated such shares pursuant to paragraph (1)(B) had such shares been contributed to the ESOP. The Corporation shall pay cash pursuant to the formula set forth in paragraph (2)(A)(ii) in lieu of fractional shares.
 
-“(4) For purposes of Rule 144 promulgated under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], each share of the common stock of the Corporation distributedunder this subsection shall be deemed to have been beneficially owned by the recipient, as of the date of such distribution, for a period of 3 years.”
+“(4) For purposes of Rule 144 promulgated under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], each share of the common stock of the Corporation distributed under this subsection shall be deemed to have been beneficially owned by the recipient, as of the date of such distribution, for a period of 3 years.”
 

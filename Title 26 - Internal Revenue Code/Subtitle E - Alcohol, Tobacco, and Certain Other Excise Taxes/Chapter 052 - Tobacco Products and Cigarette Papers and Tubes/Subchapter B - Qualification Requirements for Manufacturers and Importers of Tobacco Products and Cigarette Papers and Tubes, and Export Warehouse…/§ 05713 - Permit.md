@@ -8,7 +8,7 @@ A person shall not engage in business as a manufacturer or importer of tobacco p
 
 If the Secretary has reason to believe that any person holding a permit has not in good faith complied with this chapter, or with any other provision of this title involving intent to defraud, or has violated the conditions of such permit, or has failed to disclose any material information required or made any material false statement in the application for such permit, or has failed to maintain his premises in such manner as to protect the revenue, the Secretary shall issue an order, stating the facts charged, citing such person to show cause why his permit should not be suspended or revoked. If, after hearing, the Secretary finds that such person has not in good faith complied with this chapter or with any other provision of this title involving intent to defraud, has violated the conditions of such permit, has failed to disclose any material information required or made any material false statement in the application therefor, or has failed to maintain his premises in such manner as to protect the revenue, such permit shall be suspended for such period as the Secretary deems proper or shall be revoked.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4,1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 712; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1421; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674.)
 
 #### Amendments
 

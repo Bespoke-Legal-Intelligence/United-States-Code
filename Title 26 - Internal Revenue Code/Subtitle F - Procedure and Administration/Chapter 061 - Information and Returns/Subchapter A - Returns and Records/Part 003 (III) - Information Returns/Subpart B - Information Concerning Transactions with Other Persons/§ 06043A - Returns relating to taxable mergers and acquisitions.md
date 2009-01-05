@@ -6,7 +6,7 @@ According to the forms or regulations prescribed by the Secretary, the acquiring
 
 &emsp;(1) a description of the acquisition,
 
-&emsp;(2) the name and address of each shareholder of the acquired corporation who is required torecognize gain (if any) as a result of the acquisition,
+&emsp;(2) the name and address of each shareholder of the acquired corporation who is required to recognize gain (if any) as a result of the acquisition,
 
 &emsp;(3) the amount of money and the fair market value of other property transferred to each such shareholder as part of such acquisition, and
 

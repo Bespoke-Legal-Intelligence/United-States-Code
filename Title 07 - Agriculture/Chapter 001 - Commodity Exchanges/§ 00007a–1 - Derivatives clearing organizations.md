@@ -122,7 +122,7 @@ A derivatives clearing organization shall be deemed to be registered under this 
 
 &emsp;&emsp;(A) the court may take exclusive jurisdiction over the derivatives clearing organization and the records and assets of the derivatives clearing organization, wherever located; and
 
-&emsp;&emsp;(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the derivatives clearing organization in an orderly manner for the protection of participants, subject tosuch terms and conditions as the court may prescribe.
+&emsp;&emsp;(B) if the court takes jurisdiction under subparagraph (A), the court shall appoint the Commission, or a person designated by the Commission, as trustee with power to take possession and continue to operate or terminate the operations of the derivatives clearing organization in an orderly manner for the protection of participants, subject to such terms and conditions as the court may prescribe.
 
 #### (f) Linking of regulated clearing facilities
 

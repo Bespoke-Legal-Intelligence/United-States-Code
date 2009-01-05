@@ -26,7 +26,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (3) Any test procedures prescribed or amended under this section shall be reasonably designed to produce test results which measure energy efficiency, energy use, water use (in the case of showerheads, faucets, water closets and urinals), or estimated annual operating cost of a covered product during a representative average use cycle or period of use, as determined by the Secretary, and shall not be unduly burdensome to conduct.
 
-(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of suchproducts during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
+(4) If the test procedure is a procedure for determining estimated annual operating costs, such procedure shall provide that such costs shall be calculated from measurements of energy use or, in the case of showerheads, faucets, water closets, or urinals, water use in a representative average use cycle or period of use, as determined by the Secretary, and from representative average unit costs of the energy needed to operate such product during such cycle, or in the case of showerheads, faucets, water closets, or urinals, representative average unit costs of water and wastewater treatment service resulting from the operation of such products during such cycle. The Secretary shall provide information to manufacturers with respect to representative average unit costs of energy, water, and wastewater treatment.
 
 (5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
 
@@ -66,7 +66,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (15) The test procedure for refrigerated bottled or canned beverage vending machines shall be based on American National Standards Institute/American Society of Heating, Refrigerating and Air-Conditioning Engineers Standard 32.1–2004, entitled “Methods of Testing for Rating Vending Machines for Bottled, Canned or Other Sealed Beverages”.
 
-(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
+(16)(A)(i) Test procedures for ceiling fans shall be based on the “Energy Star Testing FacilityGuidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1” published by the Environmental Protection Agency.
 
 (ii) Test procedures for ceiling fan light kits shall be based on the test procedures referenced in the Energy Star specifications for Residential Light Fixtures and Compact Fluorescent Light Bulbs, as in effect on August 8, 2005.
 
@@ -122,7 +122,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
-(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+(Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257,3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
 
 #### Amendments
 

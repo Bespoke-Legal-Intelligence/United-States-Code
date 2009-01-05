@@ -132,7 +132,7 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “Theamendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
 
 #### Effective Date of 1990 Amendment
 

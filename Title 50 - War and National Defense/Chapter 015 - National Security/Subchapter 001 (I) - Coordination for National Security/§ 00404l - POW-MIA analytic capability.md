@@ -18,7 +18,7 @@ In this section, the term “unaccounted for United States personnel” means th
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
 

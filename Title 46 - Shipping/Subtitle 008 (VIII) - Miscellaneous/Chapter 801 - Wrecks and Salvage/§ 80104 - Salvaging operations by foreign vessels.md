@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in this section or section 80105 of this title, a foreignvessel may not, under penalty of forfeiture, engage in salvaging operations on the Atlantic or Pacific coast of the United States, in any portion of the Great Lakes or their connecting or tributary waters, including any portion of the Saint Lawrence River through which the international boundary line extends, or in territorial waters of the United States on the Gulf of Mexico.
+Prohibition.—Except as provided in this section or section 80105 of this title, a foreign vessel may not, under penalty of forfeiture, engage in salvaging operations on the Atlantic or Pacific coast of the United States, in any portion of the Great Lakes or their connecting or tributary waters, including any portion of the Saint Lawrence River through which the international boundary line extends, or in territorial waters of the United States on the Gulf of Mexico.
 
 (b)
 
@@ -18,7 +18,7 @@ Operations Authorized by Treaty.—This section does not prohibit or restrict as
 
 &emsp;(1) article II of the Treaty between the United States and Great Britain concerning reciprocal rights for United States and Canada in the conveyance of prisoners and wrecking and salvage, signed at Washington, May 18, 1908 (35 Stat. 2036); or
 
-&emsp;(2) the Treaty between the United States of America and Mexico to facilitate assistance to and salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 (49 Stat. 3359).
+&emsp;(2) the Treaty between the United States of America and Mexico to facilitate assistance toand salvage of vessels in territorial waters, signed at Mexico City, June 13, 1935 (49 Stat. 3359).
 
 (Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1691.)
 

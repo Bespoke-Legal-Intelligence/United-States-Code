@@ -8,7 +8,7 @@ In any civil action or criminal prosecution against an officer, employee, member
 
 The United States Government shall provide or employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation of an officer, employee, member of the Armed Forces, or other agent described in subsection (a), with respect to any civil action or criminal prosecution or investigation arising out of practices described in that subsection, whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies, under the same conditions, and to the same extent, to which such services and payments are authorized under section 1037 of title 10.
 
-(Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, title XIV, §1404, Jan. 6, 2006, 119 Stat. 3475; Pub. L. 109–366, §8(a), Oct. 17, 2006, 120 Stat. 2636.)
+(Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, titleXIV, §1404, Jan. 6, 2006, 119 Stat. 3475; Pub. L. 109–366, §8(a), Oct. 17, 2006, 120 Stat. 2636; Pub. L. 110–181, div. A, title X, §1063(d)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 110–417, \[div. A\], title X, §1061(b)(10), Oct. 14, 2008, 122 Stat. 4613.)
 
 #### Codification
 
@@ -16,9 +16,17 @@ Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section 
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–366, §8(a)(3), which directed the insertion of “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection”, was executed by making insertion after“described in that subsection,”, to reflect the probable intent of Congress.
+2008—Subsec. (b). Pub. L. 110–181, §1063(d)(1), as amended by Pub. L. 110–417, made technical correction to directory language of Pub. L. 109–366, §8(a)(3). See 2006 Amendment note below.
+
+2006—Subsec. (b). Pub. L. 109–366, §8(a)(3), as amended by Pub. L. 110–181, §1063(d)(1), as amended by Pub. L. 110–417, inserted “whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies,” after “described in that subsection,”.
 
 Pub. L. 109–366, §8(a)(1), (2), substituted “shall provide” for “may provide” and inserted “or investigation” after “criminal prosecution”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
+
+Pub. L. 110–181, div. A, title X, §1063(d), Jan. 28, 2008, 122 Stat. 323, provided that the amendments made by section 1063(d), which amended this section and provisions set out as a note under section 801 of Title 10, Armed Forces, are effective as of Oct. 17, 2006, and as if included in Pub. L. 109–366 as enacted.
 
 #### Effective Date of 2006 Amendment
 

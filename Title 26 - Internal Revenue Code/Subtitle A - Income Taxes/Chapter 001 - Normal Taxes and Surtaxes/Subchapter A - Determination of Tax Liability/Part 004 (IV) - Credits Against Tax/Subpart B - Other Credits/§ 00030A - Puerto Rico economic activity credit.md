@@ -72,7 +72,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 &emsp;&emsp;(C) 65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property.
 
-&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating toprofit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
+&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
 
 #### (e) Administrative provisions
 
@@ -130,11 +130,11 @@ Special transition rule for payment of estimated tax installment.—In determini
 
 #### American Samoa Economic Development Credit
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869, provided that:
 
 “(a)
 
-In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if such corporation—
+In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporationshall be treated as a qualified domestic corporation to which such section applies if such corporation—
 
 &emsp;“(1) is an existing credit claimant with respect to American Samoa, and
 
@@ -162,5 +162,7 @@ Definitions.—For purposes of this section, any term which is used in this sect
 
 “(d)
 
-Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply to the first two taxable years of a corporation to which subsection (a) applies which begin after December 31, 2005, and before January 1, 2008.”
+Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply to the first 4 taxable years of a corporation to which subsection (a) applies which begin after December 31, 2005, and before January 1, 2010.”
+
+\[Pub. L. 110–343, div. C, title III, §309(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendments made by this section \[amending section 119 of Pub. L. 109–432, set out above\] shall apply to taxable years beginning after December 31, 2007.”\]
 

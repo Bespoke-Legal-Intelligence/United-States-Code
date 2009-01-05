@@ -70,11 +70,11 @@ Applications for Readmission.—A former cadet or midshipman described in a repo
 
 “(d)
 
-Regulations to Minimize Adverse Impact Upon Readmission.—The Secretary of each military department shall prescribe regulations for the readmission of a former cadet or midshipman described in subsection (a), with the goal, to the maximum extent practicable, of readmitting the former cadet or midshipman at no loss of the academic or military status held by the former cadet at the time of resignation.
+Regulations to Minimize Adverse Impact Upon Readmission.—The Secretary of each military department shall prescribe regulations for the readmission of a former cadet or midshipman described in subsection (a), with the goal, to the maximum extent practicable, of readmitting the former cadet or midshipman at noloss of the academic or military status held by the former cadet at the time of resignation.
 
 “(e)
 
-Construction With Other Remedies.—This section does not preempt or supersede any other remedythat may be available to a former cadet or midshipman.
+Construction With Other Remedies.—This section does not preempt or supersede any other remedy that may be available to a former cadet or midshipman.
 
 “(f)
 

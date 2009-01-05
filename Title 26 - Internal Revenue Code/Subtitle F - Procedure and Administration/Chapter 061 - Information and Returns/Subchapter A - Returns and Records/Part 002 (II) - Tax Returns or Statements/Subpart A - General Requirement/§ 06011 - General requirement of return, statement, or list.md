@@ -198,7 +198,7 @@ Electronic commerce advisory group.—To ensure that the Secretary receives inpu
 
 “(d)
 
-Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection\(b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Oversight and Government Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
+Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Oversight and Government Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
 
 &emsp;“(1) the progress of the Internal Revenue Service in meeting the goal of receiving electronically 80 percent of tax and information returns by 2007;
 

@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:480
 
-Section 2301 provides that this chapter is applicable to all vessels, including foreign flag vessels, when operating on waters subject to the jurisdiction of the United States. Any vessel owned in the United States while operating on the high seas would be included. By ownership the Committee means those vessels that are documented or numbered under United States laws and those other vessels that are neither documented or numbered but are of national origin and are not documented under the laws of a foreign nation. This chapter is applicable to a foreign flag vessel that is in innocent passage through territorial waters of the United States, presently 3 miles seaward, whether or not it is bound to or from a port subject to the jurisdiction of the United States.
+Section 2301 provides that this chapter is applicable to all vessels, including foreign flag vessels, when operating on waters subject to the jurisdiction of the United States. Any vessel owned in the United States while operating on the high seas would be included. By ownership the Committee means those vessels that are documented or numbered under United States laws and those other vessels that are neither documented or numbered but are of national origin and are not documented under the laws of a foreign nation. This chapter is applicable to a foreign flag vessel that is in innocentpassage through territorial waters of the United States, presently 3 miles seaward, whether or not it is bound to or from a port subject to the jurisdiction of the United States.
 
 #### References in Text
 

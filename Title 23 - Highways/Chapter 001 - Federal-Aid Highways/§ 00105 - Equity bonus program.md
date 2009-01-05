@@ -16,7 +16,7 @@ Specific programs.—The programs referred to in subsection (a) are—
 
 &emsp;&emsp;(B) the national highway system program under section 103;
 
-&emsp;&emsp;(C) the highway bridge replacement and rehabilitation program under section 144;
+&emsp;&emsp;(C) the highway bridge program under section 144;
 
 &emsp;&emsp;(D) the surface transportation program under section 133;
 
@@ -68,7 +68,7 @@ Specific programs.—The programs referred to in paragraph (1)(B)(ii) are (as in
 
 &emsp;&emsp;(B) the national highway system program under section 103;
 
-&emsp;&emsp;(C) the highway bridge replacement and rehabilitation program under section 144;
+&emsp;&emsp;(C) the highway bridge program under section 144;
 
 &emsp;&emsp;(D) the surface transportation program under section 133;
 
@@ -130,9 +130,9 @@ Metro Planning Set Aside.—Notwithstanding section 104(f), no set aside provide
 
 (f)
 
-Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass TransitAccount) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.
+Authorization of Appropriations.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) such sums as are necessary to carry out this section for each of fiscal years 2005 through 2009.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub. L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 891; Pub. L. 86–624, §17(b), July 12, 1960, 74 Stat. 415; Pub. L. 89–564, title II, §206, Sept. 9, 1966, 80 Stat. 736; Pub. L. 91–605, title I, §§106(d), 132, Dec. 31, 1970, 84 Stat. 1717, 1732; Pub. L. 93–87, title I, §109(b), Aug. 13, 1973, 87 Stat. 255; Pub. L. 95–599, title I, §§111, 112, Nov. 6, 1978, 92 Stat. 2696; Pub. L. 97–424, title I, §109(a), Jan. 6, 1983, 96 Stat. 2104; Pub. L. 102–240, title I, §1105(g)(7), Dec. 18, 1991, 105 Stat. 2036; Pub. L. 105–178, title I, §1104(a), (c), June 9, 1998, 112 Stat. 127; Pub. L. 105–206, title IX, §9002(d), July 22, 1998, 112 Stat. 835; Pub. L. 109–59, title I, §1104(a), Aug. 10, 2005, 119 Stat. 1163; Pub. L. 110–244, title I, §101(m)(3)(B), June 6, 2008, 122 Stat. 1576.)
 
 #### References in Text
 
@@ -143,6 +143,8 @@ Section 1303 of the SAFETEA–LU, referred to in subsec. (a)(2)(N), is section 1
 The date of enactment of the SAFETEA–LU, referred to in subsec. (b)(1)(B), (2), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+2008—Subsecs. (a)(2)(C), (b)(2)(C). Pub. L. 110–244 struck out “replacement and rehabilitation” after “highway bridge”.
 
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to equity bonus program for allocating amounts among the States for each of fiscal years 2005 through 2009 for provisions relating to minimum guarantee to each State of funds apportioned under this chapter for each of fiscal years 1998 through 2003.
 

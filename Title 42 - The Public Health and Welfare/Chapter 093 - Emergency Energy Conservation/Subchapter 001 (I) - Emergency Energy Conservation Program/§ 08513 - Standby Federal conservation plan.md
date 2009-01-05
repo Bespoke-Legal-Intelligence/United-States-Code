@@ -54,7 +54,7 @@ At the request of the Governor of any State, the President may provide that the 
 
 #### (g) Presidential authority not to be delegated
 
-Notwithstanding any other provision of law (other than subsection (f) of this section), the authority vested in the President under this section may not be delegated.
+Notwithstanding any other provision of law (other than subsection (f) of this section), theauthority vested in the President under this section may not be delegated.
 
 #### (h) Requirements of plan
 

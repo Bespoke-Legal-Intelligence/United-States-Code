@@ -18,5 +18,5 @@ For duties and powers of Secretary of Commerce with respect to interest of Gover
 
 #### Foreign Investment in the United States
 
-For functions of Secretary of Commerce respecting collection and use of data on foreign investment in United States, see Sec. 2 of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out as a note under section 78b of this title.
+For functions of Secretary of Commerce respecting collection and use of data on foreign investment in United States, see Sec. 2 of Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, set out as a note under section 2170 of Title 50, Appendix, War and National Defense.
 

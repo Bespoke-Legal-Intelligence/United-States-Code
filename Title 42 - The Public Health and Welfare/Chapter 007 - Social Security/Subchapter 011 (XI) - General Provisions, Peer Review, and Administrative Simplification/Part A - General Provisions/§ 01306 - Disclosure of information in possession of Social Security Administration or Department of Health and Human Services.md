@@ -16,7 +16,7 @@ Requests for information, disclosure of which is authorized by regulations presc
 
 #### (c) Cost reimbursement
 
-Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever theCommissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
+Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever the Commissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
 
 #### (d) Compliance with requests
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 103–296, §108(b)(4), substituted “the Commissioner of 
 
 Subsec. (d). Pub. L. 103–296, §311(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted “Commissioner of Social Security” for “Secretary” after “records of the”, “Commissioner” for “Secretary” after “from the”, “Commissioner in consultation with the Secretary of Health and Human Services” for “Secretary” after “which the”, and in par. (2) and closing provisions substituted “Commissioner” for “Secretary” wherever appearing.
+Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted “Commissioner of Social Security” for “Secretary” after “records of the”, “Commissioner” for “Secretary” after “from the”, “Commissioner in consultation with the Secretary of Health and Human Services” for “Secretary” after “which the”, and in par. (2) and closingprovisions substituted “Commissioner” for “Secretary” wherever appearing.
 
 Subsec. (e). Pub. L. 103–296, §311(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 

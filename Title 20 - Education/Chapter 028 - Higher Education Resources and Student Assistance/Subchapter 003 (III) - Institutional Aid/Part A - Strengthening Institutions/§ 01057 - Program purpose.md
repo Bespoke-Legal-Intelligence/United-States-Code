@@ -6,7 +6,7 @@ The Secretary shall carry out a program, in accordance with this part, to improv
 
 #### (b) Grants awarded; special consideration
 
-(1) From the sums available for this part under section 1068h(a)(1) of this title, the Secretary may award grants to any eligible institution with an application approved under section 1068 <sup>1</sup> of this title in order to assist such an institution to plan, develop, or implement activities that promise to strengthen the institution.
+(1) From the sums available for this part under section 1068h(a)(1) of this title, the Secretary may award grants to any eligible institution with an application approved under section 1068 of this title in order to assist such an institution to plan, develop, or implement activities that promise to strengthen the institution.
 
 (2) Special consideration shall be given to any eligible institution—
 
@@ -26,7 +26,7 @@ The Secretary shall carry out a program, in accordance with this part, to improv
 
 &emsp;(E) joint use of facilities such as libraries and laboratories; and
 
-&emsp;(F) student services.
+&emsp;(F) student services, including services that will assist in the education of special populations.
 
 #### (c) Authorized activities
 
@@ -36,25 +36,27 @@ Grants awarded under this section shall be used for 1 or more of the following a
 
 &emsp;(2) Construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including the integration of computer technology into institutional facilities to create smart buildings.
 
-&emsp;(3) Support of faculty exchanges, faculty development, and faculty fellowships to assist in attaining advanced degrees in the field of instruction of the faculty.
+&emsp;(3) Support of faculty exchanges, faculty development, and faculty fellowships to assist inattaining advanced degrees in the field of instruction of the faculty.
 
 &emsp;(4) Development and improvement of academic programs.
 
 &emsp;(5) Purchase of library books, periodicals, and other educational materials, including telecommunications program material.
 
-&emsp;(6) Tutoring, counseling, and student service programs designed to improve academic success.
+&emsp;(6) Tutoring, counseling, and student service programs designed to improve academic success, including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through program completion, which may include remedial education and English language instruction.
 
-&emsp;(7) Funds management, administrative management, and acquisition of equipment for use in strengthening funds management.
+&emsp;(7) Education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ families.
 
-&emsp;(8) Joint use of facilities, such as laboratories and libraries.
+&emsp;(8) Funds management, administrative management, and acquisition of equipment for use in strengthening funds management.
 
-&emsp;(9) Establishing or improving a development office to strengthen or improve contributions from alumni and the private sector.
+&emsp;(9) Joint use of facilities, such as laboratories and libraries.
 
-&emsp;(10) Establishing or improving an endowment fund.
+&emsp;(10) Establishing or improving a development office to strengthen or improve contributions from alumni and the private sector.
 
-&emsp;(11) Creating or improving facilities for Internet or other distance learning academic instruction capabilities, including purchase or rental of telecommunications technology equipment or services.
+&emsp;(11) Establishing or improving an endowment fund.
 
-&emsp;(12) Other activities proposed in the application submitted pursuant to subsection (c) <sup>2</sup> that—
+&emsp;(12) Creating or improving facilities for Internet or other distance education technologies, including purchase or rental of telecommunications technology equipment or services.
+
+&emsp;(13) Other activities proposed in the application submitted pursuant to subsection (b) and section 1068 of this title that—
 
 &emsp;&emsp;(A) contribute to carrying out the purposes of the program assisted under this part; and
 
@@ -74,17 +76,21 @@ Grants awarded under this section shall be used for 1 or more of the following a
 
 &emsp;The provisions of part C of this subchapter, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3, 1987, 101 Stat. 335; Pub. L. 105–244, title III, §§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638.)
-
-#### References in Text
-
-Section 1068 of this title, referred to in subsec. (b)(1), was in the original a reference to section 351 of Pub. L. 89–329 which was translated as if it referred to section 391 of Pub. L. 89–329 to reflect the probable intent of Congress. Pub. L. 105–244, title III, §301(a)(2), (7), Oct. 7, 1998, 112 Stat. 1636, renumbered sections 351 and 1021 of Pub. L. 89–329 as sections 391 and 351, respectively, of Pub. L. 89–329, and those sections are classified to sections 1067a and 1068, respectively, of this title.
+(Pub. L. 89–329, title III, §311, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1291; amended Pub. L. 100–50, §2(a)(1), June 3, 1987, 101 Stat. 335; Pub. L. 105–244, title III, §§301(c)(1), 303(a), Oct. 7, 1998, 112 Stat. 1636, 1638; Pub. L. 110–315, title III, §301, Aug. 14, 2008, 122 Stat. 3166.)
 
 #### Prior Provisions
 
 A prior section 1057, Pub. L. 89–329, title III, §311, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, enumerated purposes and established grant authority for program to strengthen eligible institutions, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–315, §301(1)(A), made technical amendment to reference in original act which appears in text as reference to section 1068 of this title.
+
+Subsec. (b)(3)(F). Pub. L. 110–315, §301(1)(B), inserted “, including services that will assist in the education of special populations” before period at end.
+
+Subsec. (c)(6). Pub. L. 110–315, §301(2)(A), inserted “, including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through program completion, which may include remedial education and English language instruction” before period at end.
+
+Subsec. (c)(7) to (13). Pub. L. 110–315, §301(2)(B)–(E), added par. (7), redesignated former pars. (7) to (12) as pars. (8) to (13), respectively, in par. (12), substituted “distance education technologies” for “distance learning academic instruction capabilities” and, in introductory provisions of par. (13), substituted “subsection (b) and section 1068 of this title” for “subsection (c)”.
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §301(c)(1), substituted “section 1068h(a)(1)” for “section 1069f(a)(1)”.
 
@@ -99,8 +105,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

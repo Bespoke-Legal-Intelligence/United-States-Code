@@ -18,7 +18,7 @@ Section 11 of act May 13, 1954, provided: “If any provision of this Act \[enac
 
 #### Administrator To Report Directly to Secretary of Transportation
 
-Pub. L. 89–670, §8(g)(2), which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act (Pub. L. 89–670), was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 12, 1983.
+Pub. L. 89–670, §8(g)(2), which provided that the Administrator of the St. Lawrence Seaway Development Corporation report directly to the Secretary notwithstanding any other provision of the Department of Transportation Act (Pub. L. 89–670), was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, except for rights and duties that matured, penalties that wereincurred, and proceedings that were begun before Jan. 12, 1983.
 
 #### Executive Order No. 10534
 

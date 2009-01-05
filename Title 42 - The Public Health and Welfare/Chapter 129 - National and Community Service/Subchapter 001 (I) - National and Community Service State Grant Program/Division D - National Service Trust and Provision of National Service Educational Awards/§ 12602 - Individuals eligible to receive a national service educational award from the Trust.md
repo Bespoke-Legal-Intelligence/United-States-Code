@@ -30,7 +30,7 @@ Although an individual may serve more than 2 terms of service described in subse
 
 #### (1) Seven-year requirement
 
-&emsp;An individual eligible to receive a national service educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position that is the basis of the award.
+&emsp;An individual eligible to receive a national service educational award under this sectionmay not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position that is the basis of the award.
 
 #### (2) Exception
 

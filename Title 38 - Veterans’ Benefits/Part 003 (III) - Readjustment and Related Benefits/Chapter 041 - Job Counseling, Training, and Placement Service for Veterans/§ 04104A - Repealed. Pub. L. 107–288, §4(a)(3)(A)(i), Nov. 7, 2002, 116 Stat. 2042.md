@@ -1,6 +1,6 @@
 ### \[§4104A. Repealed. Pub. L. 107–288, §4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042\]
 
-Section, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Stat. 562, §2004A; renumbered §4104A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives.
+Section, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Stat. 562, §2004A; renumbered §4104A and amendedPub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives.
 
 #### Effective Date of Repeal
 

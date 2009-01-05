@@ -62,7 +62,7 @@ In general.—Except as provided in paragraph (2), the Secretary may not make or
 
 “(2)
 
-Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farmor ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
+Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “chapter”.</i>
 

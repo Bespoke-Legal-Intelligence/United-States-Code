@@ -12,5 +12,5 @@ The Secretary may not approve any increase in rental payments, with respect to u
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 effective six months after Nov. 30, 1983, or upon the earlier promulgation ofimplementing regulations, see section 517(f) of Pub. L. 98–181, set out as a note under section 1490a of this title.
+Amendment by Pub. L. 98–181 effective six months after Nov. 30, 1983, or upon the earlier promulgation of implementing regulations, see section 517(f) of Pub. L. 98–181, set out as a note under section 1490a of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) to make such individuals more competitive in the workforce; and
 
-&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordance with the goals and values of such communities.
+&emsp;&emsp;(C) to promote the economic and social development of Indian, Alaska Native, and Native Hawaiian communities in accordancewith the goals and values of such communities.
 
 #### (2) Indian policy
 
@@ -96,7 +96,7 @@ Nothing in this section shall be construed—
 
 #### (1) Organizational unit established
 
-&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibility for the administration of the activities authorized under this section.
+&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibilityfor the administration of the activities authorized under this section.
 
 #### (2) Regulations
 

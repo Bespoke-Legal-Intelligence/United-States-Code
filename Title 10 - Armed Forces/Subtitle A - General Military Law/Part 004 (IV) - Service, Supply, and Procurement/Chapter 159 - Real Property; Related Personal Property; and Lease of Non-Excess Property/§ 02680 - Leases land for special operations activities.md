@@ -20,7 +20,7 @@ Construction or Modification of Facility on Leasehold.—The Secretary may provi
 
 Expiration of Authority.—The authority of the Secretary of Defense to acquire a leasehold interest in real property under this section shall expire on September 30, 2005. The expiration of that authority shall not affect the validity of any contract entered into under this section on or before that date.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, §2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, §2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, §1067(1),div. B, title XXVIII, §2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, §1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(31), Nov. 24, 2003, 117 Stat. 1600.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, §2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, §2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, §1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(31), Nov. 24, 2003, 117 Stat. 1600.)
 
 #### Prior Provisions
 

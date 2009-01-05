@@ -36,9 +36,69 @@ The Secretary may prohibit or restrict—
 
 The Secretary may certify the classification, quality, quantity, condition, processing, handling, or storage of any animal or article intended for export.
 
-(Pub. L. 107–171, title X, §10405, May 13, 2002, 116 Stat. 497.)
+#### (d) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated—
+
+&emsp;&emsp;(A) $1,500,000 for each of fiscal years 2008 through 2012 to carry out section 11010 of the Food, Conservation, and Energy Act of 2008; and
+
+&emsp;&emsp;(B) such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section.
+
+#### (2) Availability
+
+&emsp;Funds appropriated under paragraph (1) shall remain available until expended.
+
+(Pub. L. 107–171, title X, §10405, May 13, 2002, 116 Stat. 497; Pub. L. 110–234, title XI, §11010(c), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11010(c), June 18, 2008, 122 Stat. 1664, 2121.)
+
+#### References in Text
+
+Section 11010 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(1)(A), is section 11010 of Pub. L. 110–246, which amended this section and enacted provisions set out as a note below.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §11010(c), added subsec. (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Trichinae Certification Program
+
+Pub. L. 110–234, title XI, §11010(a), (b), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, §4(a), title XI, §11010(a), (b), June 18, 2008, 122 Stat. 1664, 2121, provided that:
+
+“(a)
+
+Voluntary Trichinae Certification.—
+
+&emsp;“(1)
+
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish a voluntary trichinae certification program. Such program shall include the facilitation of the export of pork products and certification services related to such products.
+
+&emsp;“(2)
+
+Regulations.—The Secretary shall issue final regulations to implement the program under paragraph (1) not later than 90 days after the date of the enactment of this Act.
+
+&emsp;“(3)
+
+Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
+
+&emsp;&emsp;“(A) an explanation of why the final regulations have not been issued in accordance with paragraph (2); and
+
+&emsp;&emsp;“(B) the date on which the Secretary expects to issue such final regulations.
+
+“(b)
+
+Funding.—Subject to the availability of appropriations under subsection (d)(1)(A) of section 10405 of the Animal Health Protection Act (7 U.S.C. 8304), as added by subsection (c), the Secretary shall use not less than $6,200,000 of the funds made available under such subsection to carry out subsection (a).”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

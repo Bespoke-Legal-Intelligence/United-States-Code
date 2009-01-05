@@ -32,7 +32,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;Not later than the first Monday in February of each year in which the President submits a budget request described in paragraph (1), the Secretary of Defense and the Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
 
-&emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
+&emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resourcesto be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
 
 &emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
 
@@ -63,4 +63,18 @@ Not later than 180 days after August 3, 2007, the President shall transmit to th
 The Government Accountability Office shall submit to Congress, for each of fiscal years 2007, 2009, and 2011, a report with its assessment of the progress and effectiveness of the PSI, which shall include an assessment of the measures referred to in subsection (a).
 
 (Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493.)
+
+#### Assignment of Functions Under Section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007
+
+Memorandum of President of the United States, Mar. 28, 2008, 73 F.R. 19957, provided:
+
+Memorandum for the Secretary of State
+
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53).
+
+In the performance of your responsibility under this memorandum, you shall, as appropriate, consult the heads of other departments and agencies.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

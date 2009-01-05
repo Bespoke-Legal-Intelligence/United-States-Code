@@ -28,7 +28,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (2) National parks passport
 
-&emsp;Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995) that are unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interior may use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
+&emsp;Any funds collected under title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995) that are unobligated on the day before the publication of the Federal Register notice required under section 6804(a)(3) of this title shall be transferred to the special account of the National Park Service for use in accordance with this chapter. The Secretary of the Interiormay use amounts available in that special account to pay any outstanding administration, marketing, or close-out costs associated with the national parks passport.
 
 #### (3) Recreational fee demonstration program
 

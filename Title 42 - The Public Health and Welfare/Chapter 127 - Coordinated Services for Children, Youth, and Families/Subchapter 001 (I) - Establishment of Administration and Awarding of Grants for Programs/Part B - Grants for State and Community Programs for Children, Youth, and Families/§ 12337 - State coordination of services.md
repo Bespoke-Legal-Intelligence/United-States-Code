@@ -42,7 +42,7 @@ To be eligible to receive a grant under this section, the chief executive office
 
 &emsp;&emsp;(B) the public be given an opportunity to express views concerning the development and administration of such plan;
 
-&emsp;(4) the independent State body will provide an inventory of existing public and privateservices for children, youth and their families and will evaluate the need for supportive services within the State to address the purposes of this chapter and determine the extent to which existing public and private programs meet such need;
+&emsp;(4) the independent State body will provide an inventory of existing public and private services for children, youth and their families and will evaluate the need for supportive services within the State to address the purposes of this chapter and determine the extent to which existing public and private programs meet such need;
 
 &emsp;(5) the independent State body will make such reports, in such form, and containing such information, as the Commissioner may require;
 

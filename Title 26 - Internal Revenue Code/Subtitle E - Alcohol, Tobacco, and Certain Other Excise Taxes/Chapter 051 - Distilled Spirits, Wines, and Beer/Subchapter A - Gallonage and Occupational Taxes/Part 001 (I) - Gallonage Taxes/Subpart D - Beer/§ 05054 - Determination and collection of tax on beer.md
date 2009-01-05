@@ -4,7 +4,7 @@
 
 #### (1) Beer produced in the United States; certain imported beer
 
-&emsp;Except as provided in paragraph (3), the tax imposed by section 5051 on beer produced inthe United States, or imported into the United States and transferred to a brewery free of tax under section 5418, shall be determined at the time it is removed for consumption or sale, and shall be paid by the brewer thereof in accordance with section 5061.
+&emsp;Except as provided in paragraph (3), the tax imposed by section 5051 on beer produced in the United States, or imported into the United States and transferred to a brewery free of tax under section 5418, shall be determined at the time it is removed for consumption or sale, and shall be paid by the brewer thereof in accordance with section 5061.
 
 #### (2) Beer imported into the United States
 
@@ -46,7 +46,7 @@ Subsec. (a)(2). Pub. L. 105–206, §6014(a)(2), inserted “and not transferred
 
 1988—Subsec. (a)(2). Pub. L. 100–647 added period at end.
 
-1986—Subsec. (a)(2). Pub. L. 99–509 substituted “if entered for warehousing, at the time of removal from the 1st such warehouse” for “if entered into customs custody, at the time of removal from such custody, and shall be paid under such regulations as the Secretary shall prescribe.”.
+1986—Subsec. (a)(2). Pub. L. 99–509 substituted “if entered for warehousing, at the time of removal from the 1st such warehouse” for “if entered into customs custody, at the time of removal from such custody, andshall be paid under such regulations as the Secretary shall prescribe.”.
 
 1978—Subsec. (a)(3). Pub. L. 95–458 inserted provision excluding from tax the beer exempt from tax under section 5053(e).
 

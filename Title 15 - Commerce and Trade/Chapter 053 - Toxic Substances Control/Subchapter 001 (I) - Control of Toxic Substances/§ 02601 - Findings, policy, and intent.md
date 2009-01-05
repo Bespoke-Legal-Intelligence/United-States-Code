@@ -30,6 +30,10 @@ It is the intent of Congress that the Administrator shall carry out this chapter
 
 Section 31 of title I of Pub. L. 94–469; renumbered title I, Pub. L. 99–519, §3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “Except as provided in section 4(f) \[section 2603(f) of this title\], this Act \[enacting this chapter\] shall take effect on January 1, 1977.”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–414, §1, Oct. 14, 2008, 122 Stat. 4341, provided that: “This Act \[enacting section 6939f of Title 42, The Public Health and Welfare, amending sections 2605 and 2611 of this title, and enacting provisions set out as a note under section 2611 of this title\] may be cited as the ‘Mercury Export Ban Act of 2008’.”
+
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided that: “This subtitle \[subtitle B (§1021) of title X of Pub. L. 102–550, enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title\] may be cited as the ‘Lead-Based Paint Exposure Reduction Act’.”

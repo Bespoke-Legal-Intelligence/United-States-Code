@@ -2,7 +2,7 @@
 
 #### (a) Presidential action
 
-If a product of the People's Republic of China is being imported into the United States in suchincreased quantities or under such conditions as to cause or threaten to cause market disruption to the domestic producers of a like or directly competitive product, the President shall, in accordance with the provisions of this section, proclaim increased duties or other import restrictions with respect to such product, to the extent and for such period as the President considers necessary to prevent or remedy the market disruption.
+If a product of the People's Republic of China is being imported into the United States in such increased quantities or under such conditions as to cause or threaten to cause market disruption to the domestic producers of a like or directly competitive product, the President shall, in accordance with the provisions of this section, proclaim increased duties or other import restrictions with respect to such product, to the extent and for such period as the President considers necessary to prevent or remedy the market disruption.
 
 #### (b) Initiation of an investigation
 
@@ -50,7 +50,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 &emsp;(A) The determination made under subsection (b) of this section and an explanation of the basis for the determination.
 
-&emsp;(B) If the determination under subsection (b) of this section is affirmative, or may be considered by the President or the Trade Representative as affirmative under subsection (e) of this section, the recommendations of theCommission on proposed remedies under subsection (f) of this section and an explanation of the basis for each recommendation.
+&emsp;(B) If the determination under subsection (b) of this section is affirmative, or may be considered by the President or the Trade Representative as affirmative under subsection (e) of this section, the recommendations of the Commission on proposed remedies under subsection (f) of this section and an explanation of the basis for each recommendation.
 
 &emsp;(C) Any dissenting or separate views by members of the Commission regarding the determination and any recommendation referred to in subparagraphs (A) and (B).
 
@@ -98,7 +98,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 #### (j) Agreements with the People's Republic of China
 
-(1) The Trade Representative is authorized to enter into agreements for the People's Republic of China to take such action as necessary to prevent or remedy market disruption, and shouldseek to conclude such agreements before the expiration of the 60-day consultation period provided for under the product-specific safeguard provision of the Protocol of Accession of the People's Republic of China to the WTO, which shall commence not later than 5 days after the Trade Representative receives an affirmative determination provided for in subsection (e) of this section or a determination which the Trade Representative considers to be an affirmative determination pursuant to subsection (e) of this section.
+(1) The Trade Representative is authorized to enter into agreements for the People's Republic of China to take such action as necessary to prevent or remedy market disruption, and should seek to conclude such agreements before the expiration of the 60-day consultation period provided for under the product-specific safeguard provision of the Protocol of Accession of the People's Republic of China to the WTO, which shall commence not later than 5 days after the Trade Representative receives an affirmative determination provided for in subsection (e) of this section or a determination which the Trade Representative considers to be an affirmative determination pursuant to subsection (e) of this section.
 
 (2) If no agreement is reached with the People's Republic of China pursuant to consultations under paragraph (1), or if the President determines than <sup>1</sup> an agreement reached pursuant to such consultations is not preventing or remedying the market disruption at issue, the President shall provide import relief in accordance with subsection (a) of this section.
 

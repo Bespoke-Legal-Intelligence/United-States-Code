@@ -54,7 +54,7 @@ A grant under this section—
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 3254b of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+Provisions similar to those in this section were contained in section 3254b of this title, prior to the generalamendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Transfer of Functions
 

@@ -72,7 +72,7 @@ Purposes.—The purposes of this title are:
 
 “(a)
 
-Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
+Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title,and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
 
 &emsp;“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’.
 
@@ -142,7 +142,7 @@ Disposition of proceeds.—The Secretary shall deposit any cash equalization pay
 
 “(a)
 
-Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], theSecretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
+Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as ‘Public Lands-proposed addition to the Red Rock Canyon NCA’, exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
 
 “(b)
 

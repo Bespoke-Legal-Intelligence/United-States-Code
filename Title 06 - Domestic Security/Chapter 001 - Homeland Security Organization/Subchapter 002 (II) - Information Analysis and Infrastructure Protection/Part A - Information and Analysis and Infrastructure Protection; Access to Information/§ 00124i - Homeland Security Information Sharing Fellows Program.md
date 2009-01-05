@@ -48,9 +48,9 @@
 
 &emsp;&emsp;(A) a State, local, or regional fusion center;
 
-&emsp;&emsp;(B) a State or local law enforcement or other government entity that serves a major metropolitan area, suburban area, or rural area, as determined by the Secretary;
+&emsp;&emsp;(B) a State or local law enforcement or other government entity that serves a majormetropolitan area, suburban area, or rural area, as determined by the Secretary;
 
-&emsp;&emsp;(C) a State or local law enforcement or other government entity with port, border,or agricultural responsibilities, as determined by the Secretary;
+&emsp;&emsp;(C) a State or local law enforcement or other government entity with port, border, or agricultural responsibilities, as determined by the Secretary;
 
 &emsp;&emsp;(D) a tribal law enforcement or other authority; or
 

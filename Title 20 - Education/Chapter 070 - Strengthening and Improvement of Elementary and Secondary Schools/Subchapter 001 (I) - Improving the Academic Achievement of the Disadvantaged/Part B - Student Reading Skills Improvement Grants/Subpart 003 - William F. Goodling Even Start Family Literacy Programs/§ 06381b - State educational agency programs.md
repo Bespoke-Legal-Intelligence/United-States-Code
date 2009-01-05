@@ -6,7 +6,7 @@ Each State educational agency that receives a grant under section 6381a(d)(1) of
 
 &emsp;(1) administration, which amount shall not exceed half of the total;
 
-&emsp;(2) providing, through one or more subgrants or contracts, technical assistance for program improvement and replication, to eligible entities that receive subgrants under subsection (b) of this section; and
+&emsp;(2) providing, through one or more subgrants or contracts, technical assistance for programimprovement and replication, to eligible entities that receive subgrants under subsection (b) of this section; and
 
 &emsp;(3) carrying out sections 6381i and 6381c(c) of this title.
 

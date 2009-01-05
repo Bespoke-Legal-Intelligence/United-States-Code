@@ -14,7 +14,7 @@
 
 #### (c) Portion of monthly premium in excess of deducted amount
 
-If an individual to whom subsection (a) or (b) of this section applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of themonthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
+If an individual to whom subsection (a) or (b) of this section applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
 
 #### (d) Deductions from civil service retirement annuities
 
@@ -100,7 +100,7 @@ Subsecs. (h), (i). Pub. L. 92–603, §263(c), (d)(3), redesignated subsec. (i) 
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2003 Amendment
 

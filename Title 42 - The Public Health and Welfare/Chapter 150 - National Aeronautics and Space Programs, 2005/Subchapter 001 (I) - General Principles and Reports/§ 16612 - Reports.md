@@ -8,7 +8,7 @@
 
 #### (2) Reports
 
-&emsp;(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
+&emsp;(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign requiredby paragraph (1) and the expected cost of those activities. NASA may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
 
 &emsp;(B) Not later than three years after December 30, 2005, the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the impact of the national awareness campaign.
 

@@ -20,7 +20,7 @@ The Federal Government shall not—
 
 &emsp;(D) is approved by the Secretary of Defense or his designee.
 
-(2) The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistentwith meeting immediate national security requirements.
+(2) The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistent with meeting immediate national security requirements.
 
 #### (c) Missiles referred to
 

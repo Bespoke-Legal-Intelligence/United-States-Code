@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) managed forest lands provide habitats for fish and wildlife, as well as aesthetics, outdoor recreation opportunities, and other forest resources;
 
-&emsp;(5) the soil, water, and air quality of the United States can be maintained and improved through good stewardship of privately held forest resources;
+&emsp;(5) the soil, water, and air quality of the United States can be maintained and improvedthrough good stewardship of privately held forest resources;
 
 &emsp;(6) insects and diseases affecting trees occur and sometimes create emergency conditions on all land, whether Federal or non-Federal, and efforts to prevent and control such insects and diseases often require coordinated action by both Federal and non-Federal land managers;
 
@@ -62,33 +62,55 @@ It is the purpose of this chapter to authorize the Secretary of Agriculture (her
 
 &emsp;(10) strengthening educational, technical, and financial assistance programs that provide assistance to owners of non-Federal forest lands in the United States, and forest lands in foreign countries,.<sup>3</sup>
 
-#### (c) Policy
+#### (c) Priorities
+
+In allocating funds appropriated or otherwise made available under this chapter, the Secretary shall focus on the following national private forest conservation priorities, notwithstanding other priorities specified elsewhere in this chapter:
+
+&emsp;(1) Conserving and managing working forest landscapes for multiple values and uses.
+
+&emsp;(2) Protecting forests from threats, including catastrophic wildfires, hurricanes, tornados, windstorms, snow or ice storms, flooding, drought, invasive species, insect or disease outbreak, or development, and restoring appropriate forest types in response to such threats.
+
+&emsp;(3) Enhancing public benefits from private forests, including air and water quality, soil conservation, biological diversity, carbon storage, forest products, forestry-related jobs, production of renewable energy, wildlife, wildlife corridors and wildlife habitat, and recreation.
+
+#### (d) Reporting requirement
+
+Not later than September 30, 2011, the Secretary shall submit to Congress a report describing how funds were used under this chapter, and through other programs administered by the Secretary, to address the national priorities specified in subsection (c) and the outcomes achieved in meeting the national priorities.
+
+#### (e) Policy
 
 It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters, or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
 
-#### (d) Construction
+#### (f) Construction
 
 This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
-(Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521.)
+(Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, §8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, §4(a), title VIII, §8001, June 18, 2008, 122 Stat. 1664, 2041.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, known as the Cooperative Forestry Assistance Act of 1978. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (b) to (d) and (f), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Congress adjourned and in reverse order of passage by Congress. Accordingly, the amendments made by Pub. L. 101–624 were executed to text prior to the amendments made by Pub. L. 101–513 to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsecs. (c) to (f). Pub. L. 110–246, §8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
 
 Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
 Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date
 
@@ -134,7 +156,7 @@ Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pu
 
 &emsp;“(2) promote the principles of basic forest stewardship through the nationwide planting, improvement, and maintenance of trees in order to increase reforestation, enhance the environmental and aesthetic qualities of the United States's rural and urban areas, and reduce global carbon dioxide levels;
 
-&emsp;“(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for the purpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and
+&emsp;“(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for thepurpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and
 
 &emsp;“(4) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others for the purpose of encouraging units of local government, civic groups, and individuals to plant and maintain trees and improve forests in communities and urban areas.
 
@@ -246,7 +268,7 @@ Independent audits.—For the fiscal year in which the Foundation receives the g
 
 &emsp;“(2)
 
-Agency audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years, the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President.
+Agency audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years,the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President.
 
 “(n)
 

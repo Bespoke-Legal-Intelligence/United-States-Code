@@ -6,7 +6,7 @@ International Counter-Money Laundering Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury may require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in subsection (b) if the Secretary finds that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 ormore financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern, in accordance with subsection (c).
+In general.—The Secretary of the Treasury may require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in subsection (b) if the Secretary finds that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern, in accordance with subsection (c).
 
 &emsp;(2)
 
@@ -72,7 +72,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;(2)
 
-Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transactionor type of account to be of primary money laundering concern.
+Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency totake such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
 &emsp;(3)
 
@@ -178,7 +178,7 @@ Other terms.—The Secretary may, by regulation, further define the terms in par
 
 Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
-(Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, §6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, §501, Sept. 30, 2006, 120 Stat. 1350.)
+(Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630; Pub. L.108–458, title VI, §6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, §501, Sept. 30, 2006, 120 Stat. 1350.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (e)(1)(C)
 
 Section 509 of the Gramm-Leach-Bliley Act, referred to in subsec. (e)(2), is classified to section 6809 of Title 15, Commerce and Trade.
 
-Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (f), is section 1(a) of Pub. L.96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (f), is section 1(a) of Pub. L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

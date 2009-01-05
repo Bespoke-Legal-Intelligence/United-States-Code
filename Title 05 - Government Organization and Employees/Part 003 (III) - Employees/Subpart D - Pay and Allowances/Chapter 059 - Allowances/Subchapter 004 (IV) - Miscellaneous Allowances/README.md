@@ -42,7 +42,7 @@ Qualified Employee.—For purposes of this section, the term ‘qualified employ
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United States Code, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
+&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United StatesCode, any agency or court in the Judicial Branch, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
 
 &emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, detention, or supervision of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
 

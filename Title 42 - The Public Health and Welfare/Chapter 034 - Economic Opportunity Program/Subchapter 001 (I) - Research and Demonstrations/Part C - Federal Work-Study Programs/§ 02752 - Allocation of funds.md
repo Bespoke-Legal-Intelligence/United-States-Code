@@ -96,11 +96,11 @@
 
 (4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
-(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for thesecond year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
+(B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
-(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $450.
+(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $600.
 
 #### (d) Reallocation of excess allocations
 
@@ -112,11 +112,11 @@
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712.)
+(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §442, Aug. 14, 2008, 122 Stat. 3258.)
 
 #### References in Text
 
-Part F of this title, referred to in subsec. (c)(2)(B), (3)(B), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of such Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+Part F of this title, referred to in subsec. (c)(2)(B), (3)(B), means part F of title IV of Pub. L. 89–329, Nov.8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of such Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
@@ -125,6 +125,8 @@ Section was originally enacted as section 122 of the Economic Opportunity Act of
 Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Amendments
+
+2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §442(a)(1), substituted “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”.
 
@@ -190,7 +192,7 @@ Pub. L. 105–244, title IV, §442(c), Oct. 7, 1998, 112 Stat. 1712, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 

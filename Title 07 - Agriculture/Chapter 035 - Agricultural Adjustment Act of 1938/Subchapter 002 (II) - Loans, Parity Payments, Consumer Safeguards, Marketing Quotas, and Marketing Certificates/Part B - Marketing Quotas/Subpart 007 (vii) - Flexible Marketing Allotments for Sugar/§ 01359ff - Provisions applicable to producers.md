@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect tothe sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
+&emsp;&emsp;Any dispute between a processor and a producer, or group of producers, with respect to the sharing of the allocation to the processor shall be resolved through arbitration by the Secretary on the request of either party.
 
 #### (B) Period
 
@@ -40,7 +40,17 @@
 
 #### (c) Proportionate shares of certain allotments
 
-#### (1) In general
+#### (1) Definition of seed
+
+#### (A) In general
+
+&emsp;&emsp;In this subsection, the term “seed” means only those varieties of seed that are dedicated to the production of sugarcane from which is produced sugar for human consumption.
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary <sup>1</sup>
+
+#### (2) In general
 
 #### (A) States affected
 
@@ -50,11 +60,11 @@
 
 &emsp;&emsp;The Secretary shall determine, for each State allotment described in subparagraph (A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
 
-#### (2) Establishment of proportionate shares
+#### (3) Establishment of proportionate shares
 
-&emsp;If the Secretary determines under paragraph (1) that the quantity of sugarcane produced by producers in the area covered by a State allotment for a crop year will be in excess of the quantity needed to enable processors to fill the allotment for the crop year and provide a normal carryover inventory of sugar, the Secretary shall establish a proportionate share for each sugarcane-producing farm that limits the acreage of sugarcane that may be harvested on the farm for sugar or seed during the crop year the allotment is in effect as provided in this subsection. Each such proportionate share shall be subject to adjustment under paragraph (7) and section 1359cc(g) of this title.
+&emsp;If the Secretary determines under paragraph (2) that the quantity of sugar produced fromsugarcane produced by producers in the area covered by a State allotment for a crop year will be in excess of the quantity needed to enable processors to fill the allotment for the crop year and provide a normal carryover inventory of sugar, the Secretary shall establish a proportionate share for each sugarcane-producing farm that limits the acreage of sugarcane that may be harvested on the farm for sugar or seed during the crop year the allotment is in effect as provided in this subsection. Each such proportionate share shall be subject to adjustment under paragraph (8) and section 1359cc(g) of this title.
 
-#### (3) Method of determining
+#### (4) Method of determining
 
 &emsp;For purposes of determining proportionate shares for any crop of sugarcane:
 
@@ -68,7 +78,7 @@
 
 &emsp;&emsp;(E) The uniform reduction percentage for the crop, as determined under subparagraph (D), shall be applied to the acreage base for each sugarcane-producing farm in the State to determine the farm's proportionate share of sugarcane acreage that may be harvested for sugar or seed.
 
-#### (4) Acreage base
+#### (5) Acreage base
 
 &emsp;For purposes of this subsection, the acreage base for each sugarcane-producing farm shall be determined by the Secretary, as follows:
 
@@ -76,7 +86,7 @@
 
 &emsp;&emsp;(B) Acreage planted to sugarcane that producers on a farm were unable to harvest to sugarcane for sugar or seed because of drought, flood, other natural disaster, or other condition beyond the control of the producers may be considered as harvested for the production of sugar or seed for purposes of this paragraph.
 
-#### (5) Violation
+#### (6) Violation
 
 #### (A) In general
 
@@ -88,37 +98,33 @@
 
 #### (C) Civil penalty
 
-&emsp;&emsp;Any producer on a farm who violates subparagraph (A) by knowingly harvesting, or allowing to be harvested, an acreage of sugarcane in excess of the farm's proportionate share shall be liable to the Commodity Credit Corporation for a civil penalty equal to one and one-half times the United States market value of the quantity of sugar that is marketed by the processor of such sugarcane in excess of the allocation of such processor for the crop year. The Secretary shall prorate penalties imposed under this subparagraph in a fair and equitable manner among all the producers of sugarcane harvested from excess acreage that is acquired by such processor.
+&emsp;&emsp;Any producer on a farm who violates subparagraph (A) by knowingly harvesting, or allowing to be harvested, an acreage of sugarcane for sugar in excess of the farm's proportionate share shall be liable to the Commodity Credit Corporation for a civil penalty equal to one and one-half times the United States market value of the quantity of sugar that is marketed by the processor of such sugarcane in excess of the allocation of such processor for the crop year. The Secretary shall prorate penalties imposed under this subparagraph in a fair and equitable manner among all the producers of sugarcane harvested from excess acreage that is acquired by such processor.
 
-#### (6) Waiver
+#### (7) Waiver
 
 &emsp;Notwithstanding the preceding subparagraph, the Secretary may authorize the county and State committees established under section 590h(b) of title 16 to waive or modify deadlines and other proportionate share requirements in cases in which lateness or failure to meet the other requirements does not affect adversely the operation of proportionate shares.
 
-#### (7) Adjustments
+#### (8) Adjustments
 
-&emsp;Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State's cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
+&emsp;Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugar from sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State's cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
 
-#### (8) Processing facility closures
+(Feb. 16, 1938, ch. 30, title III, §359f, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 198; amended Pub. L. 110–234, title I, §1403(f), May 22, 2008, 122 Stat. 986; Pub. L.110–246, §4(a), title I, §1403(f), June 18, 2008, 122 Stat. 1664, 1714.)
 
-#### (A) In general
+#### Codification
 
-&emsp;&emsp;If a sugarcane processing facility subject to this subsection is closed and the sugarcane growers that delivered sugarcane to the facility prior to closure elect to deliver their sugarcane to another processing company, the growers may petition the Secretary to modify allocations under this subpart to allow the delivery.
-
-#### (B) Increased allocation for processing company
-
-&emsp;&emsp;The Secretary may increase the allocation to the processing company to which the growers elect to deliver the sugarcane, with the approval of the processing company, to a level that does not exceed the processing capacity of the processing company, to accommodate the change in deliveries.
-
-#### (C) Decreased allocation for closed company
-
-&emsp;&emsp;The increased allocation shall be deducted from the allocation to the company that owned the processing facility that has been closed and the remaining allocation shall be unaffected.
-
-#### (D) Timing
-
-&emsp;&emsp;The determinations of the Secretary on the issues raised by the petition shall be made within 60 days after the filing of the petition.
-
-(Feb. 16, 1938, ch. 30, title III, §359f, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 198.)
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, §359f, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, §111(h), Dec. 13, 1991, 105 Stat. 1834; Pub. L. 102–535, Oct. 27, 1992, 106 Stat. 3526, related to provisions applicable to producers, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246, §1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

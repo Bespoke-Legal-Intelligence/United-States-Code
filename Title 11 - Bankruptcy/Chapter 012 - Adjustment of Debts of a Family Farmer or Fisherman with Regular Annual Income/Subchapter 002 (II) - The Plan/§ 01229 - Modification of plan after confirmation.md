@@ -18,7 +18,7 @@
 
 &emsp;(1) to increase the amount of any payment due before the plan as modified becomes the plan;
 
-&emsp;(2) by anyone except the debtor, based on an increase in the debtor's disposable income, to increase the amount of payments to unsecured creditors required for a particular month so that the aggregate of such payments exceedsthe debtor's disposable income for such month; or
+&emsp;(2) by anyone except the debtor, based on an increase in the debtor's disposable income, to increase the amount of payments to unsecured creditors required for a particular month so that the aggregate of such payments exceeds the debtor's disposable income for such month; or
 
 &emsp;(3) in the last year of the plan by anyone except the debtor, to require payments that would leave the debtor with insufficient funds to carry on the farming operation after the plan is completed.
 

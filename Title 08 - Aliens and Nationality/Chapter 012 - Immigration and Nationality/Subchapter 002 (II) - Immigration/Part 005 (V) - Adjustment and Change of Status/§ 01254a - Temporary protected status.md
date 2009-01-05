@@ -20,13 +20,13 @@
 
 &emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
-&emsp;(C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify thealien of the temporary protected status that may be available under this section.
+&emsp;(C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
 &emsp;(D) Notices under this paragraph shall be provided in a form and language that the alien can understand.
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun,until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -72,7 +72,7 @@
 
 #### (B) Termination of designation
 
-&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 daysafter the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
+&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
 
 #### (C) Extension of designation
 
@@ -296,7 +296,7 @@ Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -394,5 +394,5 @@ Show cause order at time of final registration.—At the registration occurring 
 
 &emsp;“(2)
 
-Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section.”
+Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph\(1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section.”
 

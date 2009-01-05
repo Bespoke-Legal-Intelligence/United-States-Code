@@ -24,7 +24,7 @@
 
 (IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
 
-(B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (orammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
+(B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
 &emsp;(i) such firearms are among those firearms that the Secretary of the Treasury is, or was at any time, required to authorize the importation of by reason of the provisions of section 925(e) of title 18 (including the requirement for the listing of such firearms as curios or relics under section 921(a)(13) of that title); and
 
@@ -32,7 +32,7 @@
 
 (B) <sup>1</sup> A copy of each registration made under this paragraph shall be transmitted to the Secretary of the Treasury for review regarding law enforcement concerns. The Secretary shall report to the President regarding such concerns as necessary.
 
-(2) Except as otherwise specifically provided in regulations issued under subsection (a)(1) of this section, no defense articles or defense services designated by the President under subsection (a)(1) of this section may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
+(2) Except as otherwise specifically provided in regulations issued under subsection (a)(1) of this section, no defense articles or defense servicesdesignated by the President under subsection (a)(1) of this section may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
 (3)(A) For each of the fiscal years 1988 and 1989, $250,000 of registration fees collected pursuant to paragraph (1) shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for the payment of expenses incurred for—
 
@@ -56,7 +56,7 @@ In carrying out functions under this section with respect to the export of defen
 
 (1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
-(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives andthe Committee on Foreign Relations of the Senate a notification that includes—
+(2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) of this section or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
 &emsp;(A) a description of the scope of the exemption, including a detailed summary of the defense articles, defense services, and related technical data covered by the exemption; and
 
@@ -128,7 +128,7 @@ In carrying out functions under this section with respect to the export of defen
 
 (5) A license to export an item on the United States Munitions List may not be issued to a foreign person (other than a foreign government).
 
-(6) The President may require a license (or other form of authorization) before any item onthe United States Munitions List is sold or otherwise transferred to the control or possession of a foreign person or a person acting on behalf of a foreign person.
+(6) The President may require a license (or other form of authorization) before any item on the United States Munitions List is sold or otherwise transferred to the control or possession of a foreign person or a person acting on behalf of a foreign person.
 
 (7) The President shall, in coordination with law enforcement and national security agencies, develop standards for identifying high-risk exports for regular end-use verification. These standards shall be published in the Federal Register and the initial standards shall be published not later than October 1, 1988.
 
@@ -188,7 +188,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(iii) establishment of a procedure comparable to a “watchlist” (if such a watchlist does not exist) and full cooperation with United States Government law enforcement agencies to allow for sharing of export and import documentation and background information on foreign businesses and individuals employed by or otherwise connected to those businesses; and
 
-&emsp;&emsp;&emsp;(iv) establishment of a list of controlled defense items to ensure coverage of thoseitems to be exported under the exemption; and
+&emsp;&emsp;&emsp;(iv) establishment of a list of controlled defense items to ensure coverage of those items to be exported under the exemption; and
 
 &emsp;&emsp;(B) should, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enact necessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy regarding—
 
@@ -248,7 +248,7 @@ Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to
 
 2004—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
 
-2002—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of theHouse of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
+2002—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
 
 2000—Subsec. (f). Pub. L. 106–280, §102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -260,7 +260,7 @@ Subsec. (g)(1)(A)(iii). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1304\], 
 
 Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added subsec. (i).
 
-1998—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
+1998—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with theDirector of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–164, §151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
 
@@ -324,7 +324,7 @@ Section 101(b) \[title VIII, §8142(b)\] of Pub. L. 100–202 provided that:
 
 “(B) In the case of an import permit described in subparagraph (A) which was suspended, revoked, or withdrawn by the Secretary of the Treasury during the period beginning on July 1, 1986, and ending on the date of the enactment of this Act \[Dec. 22, 1987\] under the conditions described in such subparagraph, such import permit shall be reinstated and reissued immediately upon the enactment of this Act, and in any event not later than ten days after the date of the enactment of this Act.
 
-“(3) During the period preceding the revision of regulations issued under section 38(b)(1) of the Arms ExportControl Act \[subsec. (b)(1) of this section\] to reflect the provisions of subparagraph (B) of such section, as added by subsection (a), such regulations may not be applied with respect to matters covered by paragraph (2) of this subsection so as to prohibit or otherwise restrict the importation of firearms described in that paragraph or in any other manner inconsistent with that paragraph, notwithstanding that such regulations have not yet been so revised: <i>Provided</i>, That this section shall not take effect if during the twenty day period beginning on the date of enactment of this section \[Dec. 22, 1987\] the Secretary of State, the Secretary of Defense, or the Secretary of the Treasury notifies Congress that he has an objection to the intent of this section: <i>Provided further</i>, That the Attorney General shall, within the period of time stated in the first proviso, submit a certification to Congress indicating whether the enactment of this section will interfere with any ongoing criminal investigation with respect to this section. If a certification of criminal investigative interference or an objection to the intent of this section is made, as herein provided, no permit shall be issued to anyone.”
+“(3) During the period preceding the revision of regulations issued under section 38(b)(1) of the Arms Export Control Act \[subsec. (b)(1) of this section\] to reflect the provisions of subparagraph (B) of such section, as added by subsection (a), such regulations may not be applied with respect to matters covered by paragraph (2) of this subsection so as to prohibit or otherwise restrict the importation of firearms described in that paragraph or in any other manner inconsistent with that paragraph, notwithstanding that such regulations have not yet been so revised: <i>Provided</i>, That this section shall not take effect if during the twenty day period beginning on the date of enactment of this section \[Dec. 22, 1987\] the Secretary of State, the Secretary of Defense, or the Secretary of the Treasury notifies Congress that he has an objection to the intent of this section: <i>Provided further</i>, That the Attorney General shall, within the period of time stated in the first proviso, submit a certification to Congress indicating whether the enactment of this section will interfere with any ongoing criminal investigation with respect to this section. If a certification of criminal investigative interference or an objection to the intent of this section is made, as herein provided, no permit shall be issued to anyone.”
 
 #### Effective Date of 1985 Amendment
 
@@ -418,7 +418,7 @@ Improvement and Assessment.—The Secretary of State should, not later than 6 mo
 
 &emsp;“(1) continuously gathering industry and public suggestions for potential improvements in the Department of State's export control regime for commercial satellites; and
 
-&emsp;“(2) arranging for the conduct and submission to Congress, not later than 15 months after the date ofthe enactment of this Act, of an independent review of the export control regime for commercial satellites as to its effectiveness at promoting national security and economic competitiveness.”
+&emsp;“(2) arranging for the conduct and submission to Congress, not later than 15 months after the date of the enactment of this Act, of an independent review of the export control regime for commercial satellites as to its effectiveness at promoting national security and economic competitiveness.”
 
 #### Proliferation and Export Controls
 
@@ -508,7 +508,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 &emsp;&emsp;“(A) report directly to the launch monitor with regard to issues relevant to the technology transfer control plan;
 
-&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under section2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
+&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under section 2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
 
 &emsp;&emsp;“(C) have significant experience and expertise with satellite launches; and
 
@@ -612,7 +612,7 @@ Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Se
 
 “(a)
 
-Consultation During Review of Applications.—The Secretary of State and Secretary of Defense, as appropriate, shall consult with the Director of Central Intelligence during the review of any application for a license involving the overseas launch of a commercial satellite of United States origin. The purpose of the consultation is to assure that the launch of the satellite, if the license is approved, will meet the requirements necessary to protect the national security interests of the United States.
+Consultation During Review of Applications.—The Secretary of State and Secretary of Defense, as appropriate, shall consult with the Director of Central Intelligence during the review of any application for a license involving the overseas launch of a commercial satellite of United States origin. The purpose of the consultation is to assure that the launch of the satellite, if the license is approved, will meet therequirements necessary to protect the national security interests of the United States.
 
 “(b)
 
@@ -692,7 +692,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;“(1) United States business interests must not be placed above United States national security interests;
 
-&emsp;“(2) United States foreign policy and the policies of the United States regarding commercial relations with other countries should affirm the importance of observing and adhering to the Missile Technology Control Regime (MTCR);
+&emsp;“(2) United States foreign policy and the policies of the United States regarding commercial relationswith other countries should affirm the importance of observing and adhering to the Missile Technology Control Regime (MTCR);
 
 &emsp;“(3) the United States should encourage universal observance of the Guidelines to the Missile Technology Control Regime;
 
@@ -852,7 +852,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(12) The impact of the proposed export on the willingness of the People's Republic of China to modify its commercial and trade laws, practices, and regulations to make United States-made goods and services more accessible to that market.
 
-&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties,and other fees on United States-made goods and services entering that country.
+&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
 
 “(b)
 
@@ -936,7 +936,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;“(3) the continued proliferation of weapons and related equipment and services contribute further to a regional arms race in the Middle East and Persian Gulf region that is politically, economically, and militarily destabilizing;
 
-&emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemical weapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
+&emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemicalweapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
 
 &emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
 
@@ -1102,7 +1102,7 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 #### Continuation of Export Control Regulations
 
-Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: “Provisionsfor administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
+Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
 
 Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
 

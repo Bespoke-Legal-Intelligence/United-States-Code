@@ -70,7 +70,7 @@ Of the funds appropriated annually to the Centers for Disease Control and Preven
 
 2000—Subsec. (c)(1)(F). Pub. L. 106–345, §212(a)(1), added subpar. (F).
 
-Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized.”
+Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of carryingout this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized.”
 
 Subsec. (c)(4). Pub. L. 106–345, §212(a)(3), added par. (4).
 

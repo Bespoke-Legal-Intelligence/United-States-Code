@@ -20,7 +20,7 @@ No charge shall be made by any ship or station in the mobile service of the Unit
 
 Notwithstanding any other provision of law, any station or carrier may render free service in connection with situations involving the safety of life and property, including hydrographic reports, weather reports, reports regarding aids to navigation and medical assistance to injured or sick persons on ships and aircraft at sea. All free service permitted by this subsection shall be subject to such rules and regulations as the Commission may prescribe, which rules may limit such free service to the extent which the Commission finds desirable in the public interest.
 
-(June 19, 1934, ch. 652, title III, §359, formerly §357, as added May 20, 1937, ch. 229, §10(b), 50Stat. 195; renumbered §359, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 89–121, §9, Aug. 13, 1965, 79 Stat. 516.)
+(June 19, 1934, ch. 652, title III, §359, formerly §357, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 195; renumbered §359, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 89–121, §9, Aug. 13, 1965, 79 Stat. 516.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—To the extent practicable, the Secretary of Transportation shall maintain a coordinated effort to develop and carry out solutions to the railroad grade crossing problem and measures to protect pedestrians in densely populated areas along railroad rights of way. To carry out this subsection, the Secretary may use the authority of the Secretary under this chapter and over highway, traffic, and motor vehicle safety and over highway construction.
+General.—To the extent practicable, the Secretary of Transportation shall maintain a coordinated effort to develop and carry out solutions to the railroad grade crossing problem and measures to protect pedestrians in densely populated areas along railroad rights of way. To carry out this subsection, the Secretary may use the authority of the Secretary under this chapter and over highway, traffic, and motor vehicle safety and over highway construction. The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.
 
 (b)
 
@@ -20,7 +20,7 @@ Demonstration Projects.—(1) The Secretary shall establish demonstration projec
 
 (2) Not later than June 22, 1990, the Secretary shall submit a report on the results of the demonstration projects to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393; Pub. L. 110–432, div. A, title II, §208(c), Oct. 16, 2008, 122 Stat. 4876.)
 
 Historical and Revision Notes
 
@@ -58,5 +58,23 @@ In subsection (c)(1), before clause (A), the words “and incidents” are added
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–432 inserted at end “The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.”
+
 1996—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+
+#### Pedestrian Crossing Safety
+
+Pub. L. 110–432, div. A, title II, §201, Oct. 16, 2008, 122 Stat. 4868, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall provide guidance to railroads on strategies and methods to prevent pedestrian accidents, incidents, injuries, and fatalities at or near passenger stations, including—
+
+&emsp;“(1) providing audible warning of approaching trains to the pedestrians at railroad passenger stations;
+
+&emsp;“(2) using signs, signals, or other visual devices to warn pedestrians of approaching trains;
+
+&emsp;“(3) installing infrastructure at pedestrian crossings to improve the safety of pedestrians crossing railroad tracks;
+
+&emsp;“(4) installing fences to prohibit access to railroad tracks; and
+
+&emsp;“(5) other strategies or methods as determined by the Secretary.”
+
+\[For definitions of “crossing”, “Secretary”, and “railroad”, as used in section 201 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

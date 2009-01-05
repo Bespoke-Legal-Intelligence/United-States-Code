@@ -14,7 +14,7 @@ In awarding grants, contracts, or cooperative agreements under subsection (a) of
 
 &emsp;(3) provide early intervention services, including counseling and ancillary services, that are designed to meet the developmental needs of children and adolescents who are at risk for substance abuse; and
 
-&emsp;(4) develop networks with the educational, juvenile justice, social services, and other agencies and organizations in the State orlocal community involved that will work to identify children and adolescents who are in need of substance abuse treatment services.
+&emsp;(4) develop networks with the educational, juvenile justice, social services, and other agencies and organizations in the State or local community involved that will work to identify children and adolescents who are in need of substance abuse treatment services.
 
 #### (c) Condition
 

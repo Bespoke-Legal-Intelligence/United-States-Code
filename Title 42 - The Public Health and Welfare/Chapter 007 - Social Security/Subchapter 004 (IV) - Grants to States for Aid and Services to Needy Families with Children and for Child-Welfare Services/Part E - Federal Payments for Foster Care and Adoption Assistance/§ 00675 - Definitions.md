@@ -16,25 +16,45 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(iii) the child's school record;
 
-&emsp;&emsp;&emsp;(iv) assurances that the child's placement in foster care takes into account proximity to the school in which the child is enrolled at the time of placement;
+&emsp;&emsp;&emsp;(iv) a record of the child's immunizations;
 
-&emsp;&emsp;&emsp;(v) a record of the child's immunizations;
+&emsp;&emsp;&emsp;(v) the child's known medical problems;
 
-&emsp;&emsp;&emsp;(vi) the child's known medical problems;
+&emsp;&emsp;&emsp;(vi) the child's medications; and
 
-&emsp;&emsp;&emsp;(vii) the child's medications; and
-
-&emsp;&emsp;&emsp;(viii) any other relevant health and education information concerning the child determined to be appropriate by the State agency.
+&emsp;&emsp;&emsp;(vii) any other relevant health and education information concerning the child determined to be appropriate by the State agency.
 
 &emsp;&emsp;(D) Where appropriate, for a child age 16 or over, a written description of the programs and services which will help such child prepare for the transition from foster care to independent living.
 
-&emsp;&emsp;(E) In the case of a child with respect to whom the permanency plan is adoption or placement in another permanent home, documentation of the steps the agency is taking to find an adoptive family or other permanent living arrangement for the child, to place the child with an adoptive family, a fit and willing relative, a legal guardian, or in another planned permanent living arrangement, and to finalize the adoption or legalguardianship. At a minimum, such documentation shall include child specific recruitment efforts such as the use of State, regional, and national adoption exchanges including electronic exchange systems to facilitate orderly and timely in-State and interstate placements.
+&emsp;&emsp;(E) In the case of a child with respect to whom the permanency plan is adoption or placement in another permanent home, documentation of the steps the agency is taking to find an adoptive family or other permanent living arrangement for the child, to place the child with an adoptive family, a fit and willing relative, a legal guardian, or in another planned permanent living arrangement, and to finalize the adoption or legal guardianship. At a minimum, such documentation shall include child specific recruitment efforts such as the use of State, regional, and national adoption exchanges including electronic exchange systems to facilitate orderly and timely in-State and interstate placements.
+
+&emsp;&emsp;(F) In the case of a child with respect to whom the permanency plan is placement with a relative and receipt of kinship guardianship assistance payments under section 673(d) of this title, a description of—
+
+&emsp;&emsp;&emsp;(i) the steps that the agency has taken to determine that it is not appropriate for the child to be returned home or adopted;
+
+&emsp;&emsp;&emsp;(ii) the reasons for any separation of siblings during placement;
+
+&emsp;&emsp;&emsp;(iii) the reasons why a permanent placement with a fit and willing relative through a kinship guardianship assistance arrangement is in the child's best interests;
+
+&emsp;&emsp;&emsp;(iv) the ways in which the child meets the eligibility requirements for a kinship guardianship assistance payment;
+
+&emsp;&emsp;&emsp;(v) the efforts the agency has made to discuss adoption by the child's relative foster parent as a more permanent alternative to legal guardianship and, in the case of a relative foster parent who has chosen not to pursue adoption, documentation of the reasons therefor; and
+
+&emsp;&emsp;&emsp;(vi) the efforts made by the State agency to discuss with the child's parent or parents the kinship guardianship assistance arrangement, or the reasons why the efforts were not made.
+
+&emsp;&emsp;(G) A plan for ensuring the educational stability of the child while in foster care, including—
+
+&emsp;&emsp;&emsp;(i) assurances that the placement of the child in foster care takes into account the appropriateness of the current educational setting and the proximity to the school in which the child is enrolled at the time of placement; and
+
+&emsp;&emsp;&emsp;(ii)(I) an assurance that the State agency has coordinated with appropriate local educational agencies (as defined under section 7801 of title 20) to ensure that the child remains in the school in which the child is enrolled at the time of placement; or
+
+&emsp;&emsp;&emsp;(II) if remaining in such school is not in the best interests of the child, assurances by the State agency and the local educational agencies to provide immediate and appropriate enrollment in a new school, with all of the educational records of the child provided to the school.
 
 &emsp;(2) The term “parents” means biological or adoptive parents or legal guardians, as determined by applicable State law.
 
 &emsp;(3) The term “adoption assistance agreement” means a written agreement, binding on the parties to the agreement, between the State agency, other relevant agencies, and the prospective adoptive parents of a minor child which at a minimum (A) specifies the nature and amount of any payments, services, and assistance to be provided under such agreement, and (B) stipulates that the agreement shall remain in effect regardless of the State of which the adoptive parents are residents at any given time. The agreement shall contain provisions for the protection (under an interstate compact approved by the Secretary or otherwise) of the interests of the child in cases where the adoptive parents and child move to another State while the agreement is effective.
 
-&emsp;(4)(A) The term “foster care maintenance payments” means payments to cover the cost of (and the cost of providing) food, clothing, shelter, daily supervision, school supplies, a child's personal incidentals, liability insurance with respect to a child, and reasonable travel to the child's home for visitation. In the case of institutional care, such term shall include the reasonable costs of administration and operation of such institution as are necessarily required to provide the items described in the preceding sentence.
+&emsp;(4)(A) The term “foster care maintenance payments” means payments to cover the cost of (and the cost of providing) food, clothing, shelter, daily supervision, school supplies, a child's personal incidentals, liability insurance with respect to a child, reasonable travel to the child's home for visitation, and reasonable travel for the child to remain in the school in which the child is enrolled at the time of placement. In the case of institutional care, such term shall include the reasonable costs of administration and operation of such institution as are necessarily required to provide the items described in the preceding sentence.
 
 &emsp;(B) In cases where—
 
@@ -52,9 +72,9 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) if the child has been placed in foster care outside the State in which the home of the parents of the child is located, requires that, periodically, but not less frequently than every 6 months, a caseworker on the staff of the State agency of the State in which the home of the parents of the child is located, of the State in which the child has been placed, or of a private agency under contract with either such State, visit such child in such home or institution and submit a report on such visit to the State agency of the State in which the home of the parents of the child is located,
 
-&emsp;&emsp;(B) the status of each child is reviewed periodically but no less frequently than once every six months by either a court or by administrative review (as defined in paragraph (6)) in order to determine the safety of the child, the continuing necessity for and appropriateness of the placement, the extent of compliance with the case plan, and the extent of progress which has been made toward alleviating or mitigating the causes necessitating placement in foster care, and to project a likely date by which the child may be returned to and safely maintained in the home or placed for adoption or legal guardianship,
+&emsp;&emsp;(B) the status of each child is reviewed periodically but no less frequently than once every six months by either a court or by administrative review (as defined in paragraph (6)) in order to determine the safety of the child, the continuing necessity for and appropriateness of the placement, the extent of compliance with the case plan, and the extent of progress which has been made toward alleviating or mitigating the causes necessitating placement in foster care, and to project a likely date by which the child maybe returned to and safely maintained in the home or placed for adoption or legal guardianship,
 
-&emsp;&emsp;(C) with respect to each such child, (i) procedural safeguards will be applied, among other things, to assure each child in foster care under the supervision of the State of a permanency hearing to be held, in a family or juvenile court or another court (including a tribal court) of competent jurisdiction, or by an administrative body appointed or approved by the court, no later than 12 months after the date the child is considered to have entered foster care (as determined under subparagraph (F)) (and not less frequently than every 12 months thereafter during the continuation of foster care), which hearing shall determine the permanency plan for the child that includes whether, and if applicable when, the child will be returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement, in the case of a child who will not be returned to the parent, the hearing shall consider in-State and out-of-State placement options, and, in the case of a child described in subparagraph (A)(ii), the hearing shall determine whether the out-of-State placement continues to be appropriate and in the best interests of the child, and, in the case of a child who has attained age 16, the services needed to assist the child to make the transition from fostercare to independent living; (ii) procedural safeguards shall be applied with respect to parental rights pertaining to the removal of the child from the home of his parents, to a change in the child's placement, and to any determination affecting visitation privileges of parents; and (iii) procedural safeguards shall be applied to assure that in any permanency hearing held with respect to the child, including any hearing regarding the transition of the child from foster care to independent living, the court or administrative body conducting the hearing consults, in an age-appropriate manner, with the child regarding the proposed permanency or transition plan for the child; <sup>2</sup>
+&emsp;&emsp;(C) with respect to each such child, (i) procedural safeguards will be applied, among other things, to assure each child in foster care under the supervision of the State of a permanency hearing to be held, in a family or juvenile court or another court (including a tribal court) of competent jurisdiction, or by an administrative body appointed or approved by the court, no later than 12 months after the date the child is considered to have entered foster care (as determined under subparagraph (F)) (and not less frequently than every 12 months thereafter during the continuation of foster care), which hearing shall determine the permanency plan for the child that includes whether, and if applicable when, the child will be returned to the parent, placed for adoption and the State will file a petition for termination of parental rights, or referred for legal guardianship, or (in cases where the State agency has documented to the State court a compelling reason for determining that it would not be in the best interests of the child to return home, be referred for termination of parental rights, or be placed for adoption, with a fit and willing relative, or with a legal guardian) placed in another planned permanent living arrangement, in the case of a child who will not be returned to the parent, the hearing shall consider in-State and out-of-State placement options, and, in the case of a child described in subparagraph (A)(ii), the hearing shall determine whether the out-of-State placement continues to be appropriate and in the best interests of the child, and, in the case of a child who has attained age 16, the services needed to assist the child to make the transition from foster care to independent living; (ii) procedural safeguards shall be applied with respect to parental rights pertaining to the removal of the child from the home of his parents, to a change in the child's placement, and to any determination affecting visitation privileges of parents; and (iii) procedural safeguards shall be applied to assure that in any permanency hearing held with respect to the child, including any hearing regarding the transition of the child from foster care to independent living, the court or administrative body conducting the hearing consults, in an age-appropriate manner, with the child regarding the proposed permanency or transition plan for the child; <sup>2</sup>
 
 &emsp;&emsp;(D) a child's health and education record (as described in paragraph (1)(A)) is reviewed and updated, and a copy of the record is supplied to the foster parent or foster care provider with whom the child is placed, at the time of each placement of the child in foster care, and is supplied to the child at no cost at the time the child leaves foster care if the child is leaving foster care by reason of having attained the age of majority under State law; <sup>2</sup>
 
@@ -70,15 +90,43 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(i) the date of the first judicial finding that the child has been subjected to child abuse or neglect; or
 
-&emsp;&emsp;&emsp;(ii) the date that is 60 days after the date on which the child is removed from the home; <sup>2</sup> and
+&emsp;&emsp;&emsp;(ii) the date that is 60 days after the date on which the child is removed from the home; <sup>2</sup>
 
-&emsp;&emsp;(G) the foster parents (if any) of a child and any preadoptive parent or relative providing care for the child are provided with notice of, and a right to be heard in, any proceeding to be held with respect to the child, except that this subparagraph shall not be construed to require that any foster parent, preadoptive parent, or relative providing care for the child be made a party to such a proceeding solely on the basis of such notice and right to be heard.
+&emsp;&emsp;(G) the foster parents (if any) of a child and any preadoptive parent or relative providing care for the child are provided with notice of, and a right to be heard in, any proceeding to be held with respect to the child, except that this subparagraph shall not be construed to require that any foster parent, preadoptive parent, or relative providing care for the child be made a party to such a proceeding solely on the basis of such notice and right to be heard; <sup>2</sup> and
+
+&emsp;&emsp;(H) during the 90-day period immediately prior to the date on which the child will attain 18 years of age, or such greater age as the State may elect under paragraph (8)(B)(iii), whether during that period foster care maintenance payments are being made on the child's behalf or the child is receiving benefits or services under section 677 of this title, a caseworker on the staff of the State agency, and, as appropriate, other representatives of the child provide the child with assistance and support in developing a transition plan that is personalized at the direction of the child, includes specific options on housing, health insurance, education, local opportunities for mentors and continuing support services, and work force supports and employment services, and is as detailed as the child may elect.
 
 &emsp;(6) The term “administrative review” means a review open to the participation of the parents of the child, conducted by a panel of appropriate persons at least one of whom is not responsible for the case management of, or the delivery of services to, either the child or the parents who are the subject of the review.
 
 &emsp;(7) The term “legal guardianship” means a judicially created relationship between child and caretaker which is intended to be permanent and self-sustaining as evidenced by the transfer to the caretaker of the following parental rights with respect to the child: protection, education, care and control of the person, custody of the person, and decisionmaking. The term “legal guardian” means the caretaker in such a relationship.
 
-(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255.)
+&emsp;(8)(A) Subject to subparagraph (B), the term “child” means an individual who has not attained 18 years of age.
+
+&emsp;(B) At the option of a State, the term shall include an individual—
+
+&emsp;&emsp;(i)(I) who is in foster care under the responsibility of the State;
+
+&emsp;&emsp;(II) with respect to whom an adoption assistance agreement is in effect under section 673 of this title if the child had attained 16 years of age before the agreement became effective; or
+
+&emsp;&emsp;(III) with respect to whom a kinship guardianship assistance agreement is in effect under section 673(d) of this title if the child had attained 16 years of age before the agreement became effective;
+
+&emsp;&emsp;(ii) who has attained 18 years of age;
+
+&emsp;&emsp;(iii) who has not attained 19, 20, or 21 years of age, as the State may elect; and
+
+&emsp;&emsp;(iv) who is—
+
+&emsp;&emsp;&emsp;(I) completing secondary education or a program leading to an equivalent credential;
+
+&emsp;&emsp;&emsp;(II) enrolled in an institution which provides post-secondary or vocational education;
+
+&emsp;&emsp;&emsp;(III) participating in a program or activity designed to promote, or remove barriers to, employment;
+
+&emsp;&emsp;&emsp;(IV) employed for at least 80 hours per month; or
+
+&emsp;&emsp;&emsp;(V) incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
+
+(Aug. 14, 1935, ch. 531, title IV, §475, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(4), June 17, 1980, 94 Stat. 510, 514; Pub. L. 99–272, title XII, §§12305(b)(2), 12307(b), Apr. 7, 1986, 100 Stat. 293, 296; Pub. L. 99–514, title XVII, §1711(c)(6), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–203, title IX, §9133(a), Dec. 22, 1987, 101 Stat. 1330–314; Pub. L. 100–647, title VIII, §8104(e), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 101–239, title VIII, §8007(a), (b), Dec. 19, 1989, 103 Stat. 2462; Pub. L. 103–432, title II, §§206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, 108 Stat. 4457, 4459, 4469; Pub. L. 105–89, title I, §§101(b), 102(2), 103(a), (b), 104, 107, title III, §302, Nov. 19, 1997, 111 Stat. 2117, 2118, 2120, 2121, 2128; Pub. L. 109–239, §§6–8(a), 11, 12, July 3, 2006, 120 Stat. 512–514; Pub. L. 109–288, §10, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 110–351, title I, §101(c)(4), title II, §§201(a), 202, 204(a), Oct. 7, 2008, 122 Stat. 3952, 3957, 3959, 3960.)
 
 #### References in Text
 
@@ -87,6 +135,18 @@ Part B of this subchapter, referred to in text, is classified to section 620 et 
 Section 672(a) of this title, referred to in par. (1)(A), was amended generally by Pub. L. 109–171, title VII, §7404(a), Feb. 8, 2006, 120 Stat. 151, and, as so amended, provisions relating to a voluntary placement agreement or judicial determination made with respect to a child, which formerly appeared in subsec. (a)(1), are contained in subsec. (a)(2)(A).
 
 #### Amendments
+
+2008—Par. (1)(C)(iv) to (viii). Pub. L. 110–351, §204(a)(1)(A), redesignated cls. (v) to (viii) as (iv) to (vii), respectively, and struck out former cl. (iv) which read as follows: “assurances that the child's placement in foster care takes into account proximity to the school in which the child is enrolled at the time of placement;”.
+
+Par. (1)(F). Pub. L. 110–351, §101(c)(4), added subpar. (F).
+
+Par. (1)(G). Pub. L. 110–351, §204(a)(1)(B), added subpar. (G).
+
+Par. (4)(A). Pub. L. 110–351, §204(a)(2), in first sentence, substituted “reasonable” for “and reasonable” and inserted “, and reasonable travel for the child to remain in the school in which the child is enrolled at the time of placement” before period at end.
+
+Par. (5)(H). Pub. L. 110–351, §202, added subpar. (H).
+
+Par. (8). Pub. L. 110–351, §201(a), added par. (8).
 
 2006—Par. (1)(C). Pub. L. 109–239, §7(1), in introductory provisions, substituted “The health” for “To the extent available and accessible, the health” and inserted “the most recent information available regarding” after “including”.
 
@@ -102,7 +162,7 @@ Par. (5)(D). Pub. L. 109–239, §7(2), inserted “a copy of the record is” b
 
 Par. (5)(G). Pub. L. 109–239, §8(a), substituted “a right” for “an opportunity”, “proceeding” for “review or hearing” in two places, and “and right” for “and opportunity”.
 
-1997—Par. (1). Pub. L. 105–89, §107(1)(A), (B), struck out “the case plan must also include” before “a written description” in concluding provisions and redesignated those provisions as subpar. (D) of par. (1).
+1997—Par. (1). Pub. L. 105–89, §107(1)(A), (B), struck out “the case plan must also include” before “a writtendescription” in concluding provisions and redesignated those provisions as subpar. (D) of par. (1).
 
 Par. (1)(A). Pub. L. 105–89, §102(2)(A)(i), inserted “safety and” before “appropriateness of the placement”.
 
@@ -151,6 +211,12 @@ Par. (3). Pub. L. 99–514 added cl. (A) and struck out former cl. (A) which rea
 Pub. L. 99–272, §12305(b)(2), substituted in cl. (A) “any adoption assistance payments and any other services and assistance” for “the adoption assistance payments and any additional services and assistance”.
 
 1980—Par. (1). Pub. L. 96–272, §102(a)(4), inserted reference to voluntary placement agreements.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 201(a) of Pub. L. 110–351 effective Oct. 1, 2010, see section 201(d) of Pub. L. 110–351, set out as a note under section 672 of this title.
+
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, except as otherwise provided, and applicable to payments under this part and part B of this subchapter for quarters beginning on or after effective date of amendment, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
 
 #### Effective Date of 2006 Amendment
 

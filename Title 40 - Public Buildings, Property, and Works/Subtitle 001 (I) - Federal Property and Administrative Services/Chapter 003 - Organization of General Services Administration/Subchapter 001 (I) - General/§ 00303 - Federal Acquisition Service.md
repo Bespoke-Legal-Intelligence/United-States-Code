@@ -6,7 +6,7 @@ Establishment.—There is established in the General Services Administration a F
 
 (b)
 
-Functions.—Subject to the direction and control of the Administrator of General Services, the Commissioner of the Federal Acquisition Service shall be responsible for carrying out functions related to the uses for which theAcquisition Services Fund is authorized under section 321 of this title, including any functions that were carried out by the entities known as the Federal Supply Service and the Federal Technology Service and such other related functions as the Administrator considers appropriate.
+Functions.—Subject to the direction and control of the Administrator of General Services, the Commissioner of the Federal Acquisition Service shall be responsible for carrying out functions related to the uses for which the Acquisition Services Fund is authorized under section 321 of this title, including any functions that were carried out by the entities known as the Federal Supply Service and the Federal Technology Service and such other related functions as the Administrator considers appropriate.
 
 (c)
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Administrator of General Services, see Parts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Administrator of General Services, seeParts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 

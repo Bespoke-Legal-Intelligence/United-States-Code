@@ -74,7 +74,7 @@
 
 &emsp;(11) “management official” means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
-&emsp;(12) “collective bargaining” means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by eitherparty, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
+&emsp;(12) “collective bargaining” means the performance of the mutual obligation of the representative of an agency and the exclusive representative of employees in an appropriate unit in the agency to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting such employees and to execute, if requested by either party, a written document incorporating any collective bargaining agreement reached, but the obligation referred to in this paragraph does not compel either party to agree to a proposal or to make a concession;
 
 &emsp;(13) “confidential employee” means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 
@@ -170,7 +170,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -192,21 +192,13 @@ Exclusions
 
 1–203. Agencies or subdivisions of the Department of the Treasury:
 
-(a) The U.S. Secret Service.
+(a) The Office of Terrorism and Financial Intelligence.
 
-(b) The U.S. Secret Service Uniformed Division.
+(b) The Financial Crimes Enforcement Network.
 
-(c) The Office of Special Assistant to the Secretary (National Security).
+(c) Criminal Investigation, Internal Revenue Service.
 
-(d) The Office of Intelligence Support (OIS).
-
-(e) The Office of the Assistant Secretary (Enforcement and Operations) (OEO).
-
-(f) The Office of Criminal Enforcement, Bureau of Alcohol, Tobacco, and Firearms.
-
-(g) The Office of Enforcement (Headquarters and Regional Components), U.S. Customs Service.
-
-(h) The Criminal Investigation Division, Internal Revenue Service.
+(d) The Trade Analysis and Enforcement Division, Alcohol and Tobacco Tax and Trade Bureau.
 
 1–204. Agencies or subdivisions of the Department of the Army, Department of Defense:
 
@@ -296,13 +288,21 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (f) National Drug Intelligence Center.
 
-(g) Office of Intelligence Policy and Review.
+(g) National Security Division.
 
-1–210. Agencies or subdivisions of the Department of Energy.
+(h) Bureau of Alcohol, Tobacco, Firearms, and Explosives.
 
-(a) The Albuquerque, Nevada and Savannah River operations offices under the Under Secretary of Energy.
+1–210. Agencies or subdivisions of the Department of Energy:
 
-(b) Offices of the Assistant Secretary for Defense Programs.
+(a) The National Nuclear Security Administration.
+
+(b) The Office of Intelligence.
+
+(c) The Office of Counterintelligence.
+
+(d) The Office of Intelligence and Counterintelligence.
+
+(e) The Savannah River Operations Office.
 
 1–211. Offices within the Agency for International Development:
 
@@ -360,65 +360,79 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (v) The Joint Special Operations Command (JSOC) and all elements under its operational control.
 
-1–213. The subdivisions of the Federal Aviation Administration, Department of Transportation:
+1–213. The following subdivision of the Federal Aviation Administration (FAA), Department of Transportation: National Security Coordination Division, Office of Emergency Operations and Investigations, FAA Office of Security and Hazardous Materials.
 
-(a) Federal Air Marshal Branch, International Civil Aviation Security Division, Office of Civil Aviation Security.
+1–214. Agencies or subdivisions of the Department of Homeland Security:
 
-(b) Units composed of Civil Aviation Security Inspectors in Civil Aviation Security divisions whose responsibilities require Federal air marshal functions.
+(a) Office of the Military Advisor.
 
-1–214. Subdivisions of the National Preparedness Directorate of the Federal Emergency Management Agency.
+(b) The following office within the Management Directorate:
 
-(a) Office of Associate Director.
+(1) Office of Security.
 
-(b) Office of Analysis and Support.
+(c) Office of Operations Coordination.
 
-(c) Office of Mobilization Preparedness.
+(d) Office of Counternarcotics Enforcement.
 
-(d) The following offices of the Office of Systems Engineering.
+(e) Office of Intelligence and Analysis.
 
-(1) Office of the Assistant Associate Director.
+(f) Domestic Nuclear Detection Office.
 
-(2) NEMS–DCWS Program Office.
+(g) The following offices and subdivisions within the United States Coast Guard:
 
-(3) Systems Design Division.
+(1) Maritime Intelligence Fusion Centers, Atlantic.
 
-(4) Telecommunications Systems Development Division.
+(2) Pacific Area Intelligence Division.
 
-(5) Systems Support Division.
+(3) Intelligence Coordination Center.
 
-(e) The following offices of the Office of Operations.
+(4) Coast Guard Investigative Service.
 
-(1) Office of the Assistant Associate Director.
+(5) Coast Guard Security Center.
 
-(2) Planning Division.
+(h) The following offices and subdivisions within United States Immigration and Customs Enforcement:
 
-(3) The following branches of the Readiness Division.
+(1) The Office of Investigations.
 
-(A) Exercise Branch.
+(2) The Office of International Affairs.
 
-(B) Operations Branch.
+(3) The Office of Intelligence.
 
-(C) National Warning Center.
+(4) The National Incident Response Unit.
 
-(D) Alternate National Warning Center.
+(i) The following office within the Transportation Security Administration:
 
-(4) Mobile Emergency Response Support Operations Divisions.
+(1) The Office of Law Enforcement/Federal Air Marshal Service.
 
-(5) Federal Agency Support and Coordination Division.
+(j) The following office within United States Customs and Border Protection:
 
-(f) The following offices in the Office of Information Resource Management.
+(1) The Office of Intelligence and Operations Coordination.
 
-(1) Office of the Assistant Associate Director.
+(k) The following offices and subdivisions within the Federal Emergency Management Agency:
 
-(2) Information Systems Policy, Planning and Evaluation Policy and Planning Branch.
+(1) The following offices and subdivisions within the Office of National Continuity Programs:
 
-(3) Information Systems Application Branch.
+(A) The Office of the Assistant Administrator.
 
-(4) EICC Support Center.
+(B) The Operations Division.
+
+(C) The Continuity of Operations Division.
+
+(D) The Readiness Division.
+
+(E) The Integrated Public Alert and Warning Systems Division.
+
+(2) The following subdivisions within the Disaster Operations Directorate:
+
+(A) The Mobile Emergency Response Support Operations, including Mobile Emergency Response Support Detachments.
+
+(B) The FEMA Operations Center.
+
+(C) The Alternate FEMA Operations Center.
 
 1–215. The Defense Mapping Agency Reston Center, Department of Defense.
 
-1–216. The Center for Federal Investigative Services, Office of Personnel Management.
+1–216. The Federal Investigative Services Division., \[sic\] Office of Personnel Management.
 
 #### 1–3.
 
@@ -434,13 +448,13 @@ Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
-Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C.7103(a)(18), with the exception of those employed in the Republic of Panama:
+Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
 (a) The provisions of 5 U.S.C. 7105(a)(2)(D), (E), (G), and (H) and of 5 U.S.C. 7123(b) are suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 
 (b) The provisions of 5 U.S.C. 7102(2), 7114(a)(1), 7114(a)(4), 7116(a)(5), and 7117(c) are suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 
-(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
+(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing theimplementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 

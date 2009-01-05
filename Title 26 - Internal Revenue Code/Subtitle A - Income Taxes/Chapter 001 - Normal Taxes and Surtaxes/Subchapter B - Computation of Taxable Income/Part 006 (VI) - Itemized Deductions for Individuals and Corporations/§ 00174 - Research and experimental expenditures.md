@@ -22,7 +22,7 @@
 
 #### (3) Scope
 
-&emsp;The method adopted under this subsection shall apply to all expenditures described in paragraph (1). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
+&emsp;The method adopted under this subsection shall apply to all expenditures described inparagraph (1). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
 
 #### (b) Amortization of certain research and experimental expenditures
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1)of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

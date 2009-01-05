@@ -6,7 +6,7 @@
 | [7442\.](%C2%A7%2007442%20-%20Jurisdiction.md) | Jurisdiction. |
 | [7443\.](%C2%A7%2007443%20-%20Membership.md) | Membership. |
 | [7443A.](%C2%A7%2007443A%20-%20Special%20trial%20judges.md) | Special trial judges. |
-| [7443B.](%C2%A7%2007443B%20-%20Recall%20of%20special%20trial%20judges%20of%20the%20Tax%20Court.md) | Recall of special trial judges of the Tax Court. |
+| \[7443B. | Repealed.\] |
 | [7444\.](%C2%A7%2007444%20-%20Organization.md) | Organization. |
 | [7445\.](%C2%A7%2007445%20-%20Offices.md) | Offices. |
 | [7446\.](%C2%A7%2007446%20-%20Times%20and%20places%20of%20sessions.md) | Times and places of sessions. |
@@ -17,7 +17,9 @@
 
 #### Amendments
 
-2006—Pub. L. 109–280, title VIII, §856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B.
+2008—Pub. L. 110–458 repealed amendment made by section 856 of Pub. L. 109–280. See 2006 Amendment note below.
+
+2006—Pub. L. 109–280, title VIII, §856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B. Pub. L. 110–458, title I, §108(<i>l</i>), Dec. 23, 2008, 122 Stat. 5110, repealed Pub. L. 109–280, §856, and provided that the Internal Revenue Code of 1986 shall be applied and administered as if such section had not been enacted.
 
 Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which directed amendment of item 7448 by inserting “and special trial judges” after “judges”, could not be executed because “judges” did not appear subsequent to amendment by Pub. L. 94–455. See 1976 Amendment note below.
 
@@ -38,7 +40,7 @@ Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which
 - [&sect; 07442 - Jurisdiction](%C2%A7%2007442%20-%20Jurisdiction.md)
 - [&sect; 07443 - Membership](%C2%A7%2007443%20-%20Membership.md)
 - [&sect; 07443A - Special trial judges](%C2%A7%2007443A%20-%20Special%20trial%20judges.md)
-- [&sect; 07443B - Recall of special trial judges of the Tax Court](%C2%A7%2007443B%20-%20Recall%20of%20special%20trial%20judges%20of%20the%20Tax%20Court.md)
+- [&sect; 07443B - Repealed. Pub. L. 110&#8211;458, title I, &sect;108(l), Dec. 23, 2008, 122 Stat. 5110](%C2%A7%2007443B%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93458%2C%20title%20I%2C%20%C2%A7108%28l%29%2C%20Dec.%2023%2C%202008%2C%20122%20Stat.%205110.md)
 - [&sect; 07444 - Organization](%C2%A7%2007444%20-%20Organization.md)
 - [&sect; 07445 - Offices](%C2%A7%2007445%20-%20Offices.md)
 - [&sect; 07446 - Times and places of sessions](%C2%A7%2007446%20-%20Times%20and%20places%20of%20sessions.md)

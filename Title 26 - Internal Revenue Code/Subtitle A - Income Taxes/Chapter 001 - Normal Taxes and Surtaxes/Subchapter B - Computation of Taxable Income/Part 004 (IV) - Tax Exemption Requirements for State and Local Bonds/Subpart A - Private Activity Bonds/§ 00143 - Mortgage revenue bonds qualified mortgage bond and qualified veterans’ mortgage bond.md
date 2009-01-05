@@ -10,7 +10,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of this title, the term “qualified mortgage issue” means an issue by aState or political subdivision thereof of 1 or more bonds, but only if—
+&emsp;&emsp;For purposes of this title, the term “qualified mortgage issue” means an issue by a State or political subdivision thereof of 1 or more bonds, but only if—
 
 &emsp;&emsp;&emsp;(i) all proceeds of such issue (exclusive of issuance costs and a reasonably required reserve) are to be used to finance owner-occupied residences,
 
@@ -98,7 +98,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;(C) financing with respect to land described in subsection (i)(1)(C) and the construction of any residence thereon, and
 
-&emsp;&emsp;(D) in the case of bonds issued after the date of the enactment of this subparagraph and before January 1, 2008, financing of any residence for a veteran (as defined in section 101 of title 38, United States Code), if such veteran has not previously qualified for and received such financing by reason of this subparagraph,
+&emsp;&emsp;(D) in the case of bonds issued after the date of the enactment of this subparagraph, financing of any residence for a veteran (as defined in section 101 of title 38, United States Code), if such veteran has not previously qualified for and received such financing by reason of this subparagraph,
 
 > &emsp;shall be treated as used as described in paragraph (1).
 
@@ -310,7 +310,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -588,7 +588,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -608,7 +608,71 @@ For purposes of this section—
 
 &emsp;&emsp;(B) Subsections (e) and (f) (relating to purchase price requirement and income requirement) shall be applied as if such residence were a targeted area residence.
 
-> &emsp;The preceding sentence shall apply only with respect to bonds issued after December 31, 1996, and before January 1, 1999.
+> &emsp;The preceding sentence shall apply only with respect to bonds issued after May 1, 2008, and before January 1, 2010.
+
+#### (12) <sup>1</sup> Special rules for subprime refinancings
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding the requirements of subsection (i)(1), the proceeds of a qualified mortgage issue may be used to refinance a mortgage on a residence which was originally financed by the mortgagor through a qualified subprime loan.
+
+#### (B) Special rules
+
+&emsp;&emsp;In applying subparagraph (A) to any refinancing—
+
+&emsp;&emsp;&emsp;(i) subsection (a)(2)(D)(i) shall be applied by substituting “12-month period” for “42-month period” each place it appears,
+
+&emsp;&emsp;&emsp;(ii) subsection (d) (relating to 3-year requirement) shall not apply, and
+
+&emsp;&emsp;&emsp;(iii) subsection (e) (relating to purchase price requirement) shall be applied by using the market value of the residence at the time of refinancing in lieu of the acquisition cost.
+
+#### (C) Qualified subprime loan
+
+&emsp;&emsp;The term “qualified subprime loan” means an adjustable rate single-family residential mortgage loan made after December 31, 2001, and before January 1, 2008, that the bond issuer determines would be reasonably likely to cause financial hardship to the borrower if not refinanced.
+
+#### (D) Termination
+
+&emsp;&emsp;This paragraph shall not apply to any bonds issued after December 31, 2010.
+
+#### (12) <sup>1</sup> Special rules for residences destroyed in federally declared disasters
+
+#### (A) Principal residence destroyed
+
+&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer is—
+
+&emsp;&emsp;&emsp;(i) rendered unsafe for use as a residence by reason of a federally declared disaster occurring before January 1, 2010, or
+
+&emsp;&emsp;&emsp;(ii) demolished or relocated by reason of an order of the government of a State or political subdivision thereof on account of a federally declared disaster occurring before such date,
+
+> &emsp;&emsp;then, for the 2-year period beginning on the date of the disaster declaration, subsection (d)(1) shall not apply with respect to such taxpayer and subsection (e) shall be applied by substituting “110” for “90” in paragraph (1) thereof.
+
+#### (B) Principal residence damaged
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;At the election of the taxpayer, if the principal residence (within the meaning of section 121) of such taxpayer was damaged as the result of a federally declared disaster occurring before January 1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;The aggregate owner-financing to which clause (i) applies shall not exceed the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the cost of such repair or reconstruction, or
+
+&emsp;&emsp;&emsp;&emsp;(II) $150,000.
+
+#### (C) Federally declared disaster
+
+&emsp;&emsp;For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i).
+
+#### (D) Election; denial of double benefit
+
+#### (i) Election
+
+&emsp;&emsp;&emsp;An election under this paragraph may not be revoked except with the consent of the Secretary.
+
+#### (ii) Denial of double benefit
+
+&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall notapply with respect to the purchase or financing of any residence by such taxpayer.
 
 #### (<i>l</i>) Additional requirements for qualified veterans’ mortgage bonds
 
@@ -642,11 +706,11 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;In the case of the following States, the State veterans limit for any calendar year is the amount equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) $25,000,000 for the State of Alaska,
+&emsp;&emsp;&emsp;&emsp;(I) $100,000,000 for the State of Alaska,
 
-&emsp;&emsp;&emsp;&emsp;(II) $25,000,000 for the State of Oregon, and
+&emsp;&emsp;&emsp;&emsp;(II) $100,000,000 for the State of Oregon, and
 
-&emsp;&emsp;&emsp;&emsp;(III) $25,000,000 for the State of Wisconsin.
+&emsp;&emsp;&emsp;&emsp;(III) $100,000,000 for the State of Wisconsin.
 
 #### (iii) Phasein
 
@@ -679,23 +743,11 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (4) Qualified veteran
 
-&emsp;For purposes of this subsection, the term “qualified veteran” means—
+&emsp;For purposes of this subsection, the term “qualified veteran” means any veteran who—
 
-&emsp;&emsp;(A) in the case of the States of Alaska, Oregon, and Wisconsin, any veteran—
+&emsp;&emsp;(A) served on active duty, and
 
-&emsp;&emsp;&emsp;(i) who served on active duty, and
-
-&emsp;&emsp;&emsp;(ii) who applied for the financing before the date 25 years after the last date on which such veteran left active service, and
-
-&emsp;&emsp;(B) in the case of any other State, any veteran—
-
-&emsp;&emsp;&emsp;(i) who served on active duty at some time before January 1, 1977, and
-
-&emsp;&emsp;&emsp;(ii) who applied for the financing before the later of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the date 30 years after the last date on which such veteran left active service, or
-
-&emsp;&emsp;&emsp;&emsp;(II) January 31, 1985.
+&emsp;&emsp;(B) applied for the financing before the date 25 years after the last date on which such veteran left active service.
 
 #### (5) Special rule for certain short-term bonds
 
@@ -907,7 +959,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925.)
 
 #### References in Text
 
@@ -928,6 +980,18 @@ A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, P
 Provisions similar to this section were contained in section 103A of this title prior to repeal by Pub. L. 99–514.
 
 #### Amendments
+
+2008—Subsec. (d)(2)(D). Pub. L. 110–245, §103(a), struck out “and before January 1, 2008” after “enactment of this subparagraph”.
+
+Subsec. (k)(11). Pub. L. 110–289, §3026(a), substituted “May 1, 2008” for “December 31, 1996” and “January 1, 2010” for “January 1, 1999” in concluding provisions.
+
+Subsec. (k)(12). Pub. L. 110–343 added par. (12) relating to special rules for residences destroyed in federally declared disasters.
+
+Pub. L. 110–289, §3021(b)(1), added par. (12) relating to special rules for subprime refinancings.
+
+Subsec. (<i>l</i>)(3)(B)(ii). Pub. L. 110–245, §103(b), substituted “$100,000,000” for “$25,000,000” wherever appearing.
+
+Subsec. (<i>l</i>)(4). Pub. L. 110–245, §103(c), reenacted heading without change and amended text generally. Prior to amendment, par. (4) defined “qualified veteran” differently with respect to different States.
 
 2006—Subsec. (d)(2)(D). Pub. L. 109–432, §416(a), added subpar. (D).
 
@@ -963,7 +1027,7 @@ Subsec. (i)(1)(C). Pub. L. 103–66, §13141(d)(2), added subpar. (C).
 
 Subsec. (k)(3)(B)(iii). Pub. L. 103–66, §13141(d)(3), inserted “(other than land described in subsection (i)(1)(C)(i))” after “cost of land”.
 
-Subsec. (k)(7). Pub. L. 103–66, §13141(e), inserted at end “Subparagraph (B) shall not apply to any 2-familyresidence if the residence is a targeted area residence and the family income of the mortgagor meets the requirement of subsection (f)(3)(B).”
+Subsec. (k)(7). Pub. L. 103–66, §13141(e), inserted at end “Subparagraph (B) shall not apply to any 2-family residence if the residence is a targeted area residence and the family income of the mortgagor meets the requirement of subsection (f)(3)(B).”
 
 Subsec. (k)(10). Pub. L. 103–66, §13141(c), added par. (10).
 
@@ -1036,6 +1100,16 @@ Subsec. (g)(1). Pub. L. 100–647, §4005(d)(1), substituted “paragraph (2) of
 Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent the Secretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
 
 Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title VII, §709(b), Oct. 3, 2008, 122 Stat. 3926, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 2007.”
+
+Pub. L. 110–289, div. C, title I, §3021(c), July 30, 2008, 122 Stat. 2893, provided that: “The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[July 30, 2008\].”
+
+Pub. L. 110–289, div. C, title I, §3026(b), July 30, 2008, 122 Stat. 2897, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after May 1, 2008.”
+
+Pub. L. 110–245, title I, §103(d), June 17, 2008, 122 Stat. 1626, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
@@ -1119,6 +1193,10 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 &emsp;&emsp;“(ii) before August 1, 1988, pursuant to a written application (made before July 1, 1988) for State bond volume authority.”
 
+#### Transition Rule
+
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: “In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(<i>l</i>)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting ‘30 years’ for ‘25 years’.”
+
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 
 Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in \[former\] section 143(a)(1)(B) of the 1986 Code shall be treated as contained in section 103A(c)(1)(B) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such \[section\] 103A(c)(1) applies.”
@@ -1126,4 +1204,6 @@ Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in
 #### Study of Recapture Provisions
 
 Section 4005(i) of Pub. L. 100–647 provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+
+<i><sup>1</sup></i><i> So in original. Two pars. (12) have been enacted.</i>
 

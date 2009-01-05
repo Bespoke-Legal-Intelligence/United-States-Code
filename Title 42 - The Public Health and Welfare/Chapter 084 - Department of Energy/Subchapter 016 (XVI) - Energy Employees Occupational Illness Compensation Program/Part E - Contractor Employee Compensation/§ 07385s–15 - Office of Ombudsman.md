@@ -44,7 +44,11 @@ The Secretary of Labor and the Secretary of Health and Human Services shall each
 
 #### (g) Sunset
 
-Effective on the date that is 3 years after October 28, 2004, this section shall have no further force or effect.
+Effective October 28, 2012, this section shall have no further force or effect.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3686\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2185.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3686\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2185; amended Pub. L. 110–181, div. C, title XXXI, §3116, Jan. 28, 2008, 122 Stat. 578.)
+
+#### Amendments
+
+2008—Subsec. (g). Pub. L. 110–181 substituted “October 28, 2012” for “on the date that is 3 years after October 28, 2004”.
 

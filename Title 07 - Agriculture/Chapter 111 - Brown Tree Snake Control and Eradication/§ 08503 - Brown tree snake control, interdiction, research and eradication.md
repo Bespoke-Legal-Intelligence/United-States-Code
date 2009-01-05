@@ -26,7 +26,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(9) Expansion of short, medium, and long-term research, funded by all Federal agencies interested in or affected by the brown tree snake, into interdiction, detection, and early control of the brown tree snake.
 
-&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown treesnake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
+&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown tree snake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
 
 &emsp;(11) Provision of technical assistance to the Freely Associated States on matters related to the brown tree snake through the mechanisms contained within a Compact of Free Association dealing with environmental, quarantine, economic, and human health issues.
 
@@ -49,4 +49,24 @@ There is authorized to be appropriated to the Secretaries to carry out this sect
 There is authorized to be appropriated to the Secretary of Agriculture and the Secretary of the Interior such amounts as may be required to carry out subsection (b)(10).
 
 (Pub. L. 108–384, §4, Oct. 30, 2004, 118 Stat. 2222.)
+
+#### Control and Eradication of Brown Tree Snakes
+
+Pub. L. 110–417, \[div. A\], title III, §316, Oct. 14, 2008, 122 Stat. 4410, provided that: “The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes.”
+
+Pub. L. 102–237, title X, §1013(a)–(c), Dec. 13, 1991, 105 Stat. 1901, as amended by Pub. L. 105–277, div. A, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
+
+“(a)
+
+In General.—The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
+
+“(b)
+
+Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
+
+“(c)
+
+Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
+
+Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
 

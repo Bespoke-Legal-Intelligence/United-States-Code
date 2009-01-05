@@ -76,7 +76,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Purpose
 
-&emsp;The purpose of the Office is to enhance the development of new mine safety technology and technological applications and to expeditethe commercial availability and implementation of such technology in mining environments.
+&emsp;The purpose of the Office is to enhance the development of new mine safety technology and technological applications and to expedite the commercial availability and implementation of such technology in mining environments.
 
 #### (3) Functions
 

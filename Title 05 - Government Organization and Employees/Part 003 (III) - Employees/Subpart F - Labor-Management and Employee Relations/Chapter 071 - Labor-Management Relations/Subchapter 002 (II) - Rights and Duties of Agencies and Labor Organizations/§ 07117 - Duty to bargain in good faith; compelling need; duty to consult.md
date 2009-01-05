@@ -4,13 +4,13 @@
 
 (2) The duty to bargain in good faith shall, to the extent not inconsistent with Federal law or any Government-wide rule or regulation, extend to matters which are the subject of any agency rule or regulation referred to in paragraph (3) of this subsection only if the Authority has determined under subsection (b) of this section that no compelling need (as determined under regulations prescribed by the Authority) exists for the rule or regulation.
 
-(3) Paragraph (2) of the subsection applies to any rule or regulation issued by any agency or issued by any primary national subdivision of such agency, unless an exclusive representative represents an appropriate unit including not less than a majority of the employees in the issuing agency or primary national subdivision, as thecase may be, to whom the rule or regulation is applicable.
+(3) Paragraph (2) of the subsection applies to any rule or regulation issued by any agency or issued by any primary national subdivision of such agency, unless an exclusive representative represents an appropriate unit including not less than a majority of the employees in the issuing agency or primary national subdivision, as the case may be, to whom the rule or regulation is applicable.
 
 (b)(1) In any case of collective bargaining in which an exclusive representative alleges that no compelling need exists for any rule or regulation referred to in subsection (a)(3) of this section which is then in effect and which governs any matter at issue in such collective bargaining, the Authority shall determine under paragraph (2) of this subsection, in accordance with regulations prescribed by the Authority, whether such a compelling need exists.
 
 (2) For the purpose of this section, a compelling need shall be determined not to exist for any rule or regulation only if—
 
-&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writing that a compelling need for the rule or regulation does not exist; or
+&emsp;(A) the agency, or primary national subdivision, as the case may be, which issued the rule or regulation informs the Authority in writingthat a compelling need for the rule or regulation does not exist; or
 
 &emsp;(B) the Authority determines that a compelling need for a rule or regulation does not exist.
 

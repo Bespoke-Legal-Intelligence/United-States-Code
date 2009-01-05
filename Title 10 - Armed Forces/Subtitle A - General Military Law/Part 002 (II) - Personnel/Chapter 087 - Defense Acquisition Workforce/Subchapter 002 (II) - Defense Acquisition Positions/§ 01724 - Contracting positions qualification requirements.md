@@ -8,7 +8,7 @@ Contracting Officers.—The Secretary of Defense shall require that, in order to
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
-&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
+&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in anyof the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
 
 &emsp;(4) meet such additional requirements, based on the dollar value and complexity of the contracts awarded or administered in the position, as may be established by the Secretary of Defense for the position.
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 104–201, §1074(a)(9)(B)(ii), struck out “, beginning 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made bysection 1084(h) \[amending this section, section 1732 of this title, and provisions set out as a note under section 5949 of Title 5, Government Organization and Employees\] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h) \[amending this section, section 1732 of this title, and provisions set out as a note under section 5949 of Title 5, Government Organization and Employees\] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 #### Effective Date of 2000 Amendment
 

@@ -46,7 +46,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(v) a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
 
-&emsp;&emsp;(D) any other legislative branch employee serving in a position described under section 109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+&emsp;&emsp;(D) any other legislative branch employee serving in a position described under section109(13) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
 
 #### (5) Employee
 
@@ -122,7 +122,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) a covered executive branch official, or
 
-&emsp;&emsp;&emsp;&emsp;(II) a covered legislative branch official (other than the individual's elected Members of Congress or employees who work under such Members’ direct supervision),
+&emsp;&emsp;&emsp;&emsp;(II) a covered legislative branch official (other than the individual's electedMembers of Congress or employees who work under such Members’ direct supervision),
 
 &emsp;&emsp;&nbsp;with respect to the formulation, modification, or adoption of private legislation for the relief of that individual;
 
@@ -208,7 +208,7 @@ Section 109(13) of the Ethics in Government Act of 1978, referred to in par. (4)
 
 The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
-The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Whistleblower Protection Act of 1989, referred to in par. (8)(B)(xvii), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II \[5 U.S.C. 1211 et seq.\] and III \[5 U.S.C. 1221 et seq.\] of chapter 12 and section 3352 of Title 5, Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and section 4139 of Title 22, Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1201 of Title 5 and Tables.
 

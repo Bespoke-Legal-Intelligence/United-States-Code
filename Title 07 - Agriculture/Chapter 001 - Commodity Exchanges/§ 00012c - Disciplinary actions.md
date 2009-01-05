@@ -12,7 +12,7 @@ The Commission may, in its discretion and in accordance with such standards and 
 
 #### (c) Affirmance, modification, set aside, or remand of action
 
-The Commission may affirm, modify, set aside, or remand any exchange decision it reviews pursuant to subsection (b) of this section, after a determination on the record whether the action of the exchange was in accordance with the policies of this chapter. Subject to judicial review, any order of the Commission entered pursuant to subsection (b) of this section shall govern the exchange in its further treatment of the matter.
+The Commission may affirm, modify, set aside, or remand any exchange decision it reviews pursuant to subsection (b) of this section, after a determination on the record whether theaction of the exchange was in accordance with the policies of this chapter. Subject to judicial review, any order of the Commission entered pursuant to subsection (b) of this section shall govern the exchange in its further treatment of the matter.
 
 #### (d) Stay of action
 

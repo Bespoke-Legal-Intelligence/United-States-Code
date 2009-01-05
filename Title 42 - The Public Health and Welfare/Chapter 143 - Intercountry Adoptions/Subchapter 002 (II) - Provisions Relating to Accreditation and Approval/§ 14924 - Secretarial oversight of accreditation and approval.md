@@ -66,7 +66,7 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 #### (3) Repeated failures to comply
 
-&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this titleby an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B) of this section.
+&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B) of this section.
 
 #### (4) Failure to comply with certain requirements
 

@@ -64,7 +64,7 @@ There are authorized to be appropriated—
 
 #### (E) Announcement of prizes
 
-&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all thefunds needed to pay out the announced amount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
+&emsp;&emsp;The Secretary may not issue a notice required by subparagraph (B)(ii) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by the administering entity. The Secretary may increase the amount of a prize after an initial announcement is made under subparagraph (B)(ii) if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize; and
 
@@ -120,9 +120,9 @@ There are authorized to be appropriated—
 
 #### (D) Judges
 
-&emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation with the administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
+&emsp;&emsp;For each prize competition under this subsection, the Secretary in consultation withthe administering entity shall assemble a panel of qualified judges to select the winner or winners on the basis of the criteria established under subparagraph (C). Judges for each prize competition shall include individuals from outside the Department, including from the private sector. A judge, spouse, minor children, and members of the judge's household may not—
 
-&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, oragent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
+&emsp;&emsp;&emsp;(i) have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in the prize competition for which he or she will serve as a judge; or
 
 &emsp;&emsp;&emsp;(ii) have a familial or financial relationship with an individual who is a registered participant in the prize competition for which he or she will serve as a judge.
 
@@ -190,7 +190,7 @@ There are authorized to be appropriated—
 
 #### (B) Carryover of funds
 
-&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
+&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in thissubsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
 
 #### (8) Nonsubstitution
 

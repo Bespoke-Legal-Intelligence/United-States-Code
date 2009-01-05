@@ -12,7 +12,7 @@ The Assistant Secretary shall, to the extent possible, assure that services prov
 
 The Assistant Secretary shall work in consultation with qualified experts to provide information on methods of improving indoor air quality in buildings where older individuals congregate.
 
-(Pub. L. 89–73, title III, §361, as added Pub. L. 100–175, title I, §143(c), Nov. 29, 1987, 101 Stat. 947; amended Pub. L. 102–375, title III, §319(a), Sept.30, 1992, 106 Stat. 1241; Pub. L. 103–171, §§2(13), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 109–365, title III, §319, Oct. 17, 2006, 120 Stat. 2551.)
+(Pub. L. 89–73, title III, §361, as added Pub. L. 100–175, title I, §143(c), Nov. 29, 1987, 101 Stat. 947; amended Pub. L. 102–375, title III, §319(a), Sept. 30, 1992, 106 Stat. 1241; Pub. L. 103–171, §§2(13), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 109–365, title III, §319, Oct. 17, 2006, 120 Stat. 2551.)
 
 #### Amendments
 

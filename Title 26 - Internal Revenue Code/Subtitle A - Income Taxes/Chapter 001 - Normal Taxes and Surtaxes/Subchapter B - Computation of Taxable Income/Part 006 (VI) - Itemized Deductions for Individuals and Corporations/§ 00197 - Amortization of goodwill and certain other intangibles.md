@@ -158,7 +158,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 &emsp;&emsp;&emsp;(i) no loss shall be recognized by reason of such disposition (or such worthlessness), and
 
-&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangiblesshall be made for any loss not recognized under clause (i).
+&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangibles shall be made for any loss not recognized under clause (i).
 
 #### (B) Special rule for covenants not to compete
 
@@ -340,7 +340,7 @@ In general.—If an election under this paragraph applies to the taxpayer—
 
 &emsp;“(B)
 
-Election.—An election under this paragraph shall be made at such time and in such manner as theSecretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
+Election.—An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
 
 &emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
 

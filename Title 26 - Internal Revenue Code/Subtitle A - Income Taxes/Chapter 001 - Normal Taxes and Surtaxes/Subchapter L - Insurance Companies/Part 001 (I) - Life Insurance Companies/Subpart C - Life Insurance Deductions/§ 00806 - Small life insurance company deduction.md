@@ -186,7 +186,7 @@ Qualified gic.—The term ‘qualified GIC’ means any group contract—
 
 &emsp;“(B) which specifies the contract maturity or renewal date,
 
-&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception of the contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
+&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception ofthe contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
 
 &emsp;“(D) which is a pension plan contract (as defined in section 818(a) of the Internal Revenue Code of 1986).
 
@@ -220,7 +220,7 @@ Limitation on tax benefit.—The amount of any reduction in tax for any taxable 
 
 &nbsp;&nbsp;1986
 
-&nbsp;$3,000,000  
+&nbsp;$3,000,000&nbsp;&nbsp;
 
 &nbsp;&nbsp;1987
 

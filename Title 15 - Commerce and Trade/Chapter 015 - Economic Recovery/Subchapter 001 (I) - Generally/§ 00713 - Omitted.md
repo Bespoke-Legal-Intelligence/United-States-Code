@@ -38,5 +38,5 @@ Act July 25, 1946, ch. 671, §15, 60 Stat. 677, directed Secretary of Agricultur
 
 #### Purchases of Wheat Prior to April 1, 1947
 
-Act July 25, 1946, ch. 671, §16, 60 Stat. 677, provided that the Commodity Credit Corporation shall offer to purchase the wheat of producers, subject to certain limitations, which wheat has been required to be sold pursuant to Government order and was delivered to a grain elevator prior to April 1, 1947.
+Act July 25, 1946, ch. 671, §16, 60 Stat. 677, provided that the Commodity Credit Corporation shall offer to purchase the wheat of producers, subject to certainlimitations, which wheat has been required to be sold pursuant to Government order and was delivered to a grain elevator prior to April 1, 1947.
 

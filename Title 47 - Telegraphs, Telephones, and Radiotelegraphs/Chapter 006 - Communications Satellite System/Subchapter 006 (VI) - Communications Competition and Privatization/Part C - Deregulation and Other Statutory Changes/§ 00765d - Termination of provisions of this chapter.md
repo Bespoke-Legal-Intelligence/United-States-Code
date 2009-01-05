@@ -18,7 +18,7 @@ The transfer of assets and receipt by signatories of ownership shares in the suc
 
 The effective date of the Commission order relating to Inmarsat privatization, referred to in par. (3), is June 14, 2005. See <i>In the Matter of Inmarsat Group Holdings Limited Petition for Declaratory Ruling Pursuant to Section 621(5)(F) of the ORBIT Act</i>, Memorandum Opinion and Order, IB Docket 04-439, FCC 05-126 (released June 14, 2005).
 
-Section 763c of this title, referred to in par. (3), was amended generally by Pub. L. 109–34, §3, July 12, 2005,119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
+Section 763c of this title, referred to in par. (3), was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
 
 The effective date of the Commission order relating to INTELSAT privatization, referred to in par. (4), is Apr. 15, 2005. See <i>In the Matter of Intelsat, Ltd. Petition for Declaratory Ruling that Intelsat, Ltd. Complies With Section 621(5)(F) of the ORBIT Act</i>, Memorandum Opinion and Order, IB Docket 05-18, FCC 05-86 (released April 15, 2005).
 

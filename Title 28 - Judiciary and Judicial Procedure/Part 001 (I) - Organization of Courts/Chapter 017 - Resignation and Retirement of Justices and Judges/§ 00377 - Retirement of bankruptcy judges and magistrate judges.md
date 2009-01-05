@@ -22,7 +22,7 @@ Years.—A bankruptcy judge or magistrate judge to whom this section applies and
 
 (d)
 
-Retirement for Disability.—A bankruptcy judge or magistrate judge to whom this section applies, who has served at least 5 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to 40 percent of the salary being received at the time of retirement or removal or, in the case of a judge or magistrate judge who has served for at least 10 years, an amount equal to that proportion of the salary being received at the time of retirement or removal which the aggregate number of years of service, not to exceed 14, bears to 14.
+Retirement for Disability.—A bankruptcy judge or magistrate judge to whom this section applies, who has served at least 5 years, whether continuously or otherwise, as such a bankruptcy judge or magistrate judge, and who retires or is removed from office upon the sole ground of mental or physical disability shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to 40 percent of the salary being received at the time of retirement or removal or, in the case of a judge or magistrate judge who has served for atleast 10 years, an amount equal to that proportion of the salary being received at the time of retirement or removal which the aggregate number of years of service, not to exceed 14, bears to 14.
 
 (e)
 
@@ -294,7 +294,7 @@ Retirement annuity under title 5 and section 377 of title 28.—A bankruptcy jud
 
 &emsp;&emsp;“(i) in the case of a judge or magistrate judge who retires with less than 8 years of service, the annuity under subsection (c) of section 377 of title 28, United States Code, shall be equal to that proportion of the salary being received at the time the judge or magistrate judge leaves office which the years of service bears to 14, subject to a reduction in accordance with subsection (c) of such section 377 if the bankruptcy judge or magistrate judge is under age 65 at the time he or she leaves office, and
 
-&emsp;&emsp;“(ii) the aggregate amount of the annuity initially payable on retirement under this subsection may not exceed the rate of pay for the bankruptcyjudge or magistrate judge which is in effect on the day before the retirement becomes effective.
+&emsp;&emsp;“(ii) the aggregate amount of the annuity initially payable on retirement under this subsection may not exceed the rate of pay for the bankruptcy judge or magistrate judge which is in effect on the day before the retirement becomes effective.
 
 “(2)
 

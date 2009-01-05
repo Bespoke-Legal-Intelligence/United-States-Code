@@ -6,7 +6,7 @@ Government Relief From Liability.—The Secretary of Transportation shall ensure
 
 (b)
 
-Air Traffic Control Contract Program.—(1) The Secretary shall continue the low activity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
+Air Traffic Control Contract Program.—(1) The Secretary shall continue the lowactivity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
 
 (2) The Secretary may make a contract with a qualified entity (as determined by the Secretary) or, on a sole source basis, with a State or a political subdivision of a State to allow the entity, State, or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the entity, State, or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the entity, State, or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
 
@@ -24,7 +24,7 @@ Program components.—In carrying out the program, the Secretary shall—
 
 &emsp;&emsp;(i) utilize for purposes of cost-benefit analyses, current, actual, site-specific data, forecast estimates, or airport master plan data provided by a facility owner or operator and verified by the Secretary; and
 
-&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-costratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
+&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
 &emsp;(C)
 
@@ -74,7 +74,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996.
+&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipmentthat was acquired or installed after October 1, 1996.
 
 &emsp;(B)
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Savings Provision
 
-Pub. L. 108–7, div. I, title III, §370(b)(3), Feb. 20, 2003, 117 Stat. 426, provided that: “Notwithstanding the amendments made by this section \[amending this section and section 47102 of this title\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] under section 47124(b)(4) of title 49, United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section.”
+Pub. L. 108–7, div. I, title III, §370(b)(3), Feb. 20, 2003, 117 Stat. 426, provided that: “Notwithstanding the amendments made by this section \[amending this section and section 47102 of this title\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] undersection 47124(b)(4) of title 49, United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section.”
 
 #### Nonapproach Control Towers
 

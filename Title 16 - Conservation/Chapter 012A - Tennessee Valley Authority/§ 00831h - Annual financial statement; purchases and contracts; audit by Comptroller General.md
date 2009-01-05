@@ -54,5 +54,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Single Audit Requirements
 
-Tennessee Valley Authority audits unaffected by single audit requirements of chapter 75 (§7501 et seq.) ofTitle 31, Money and Finance, see section 2(b) of Pub. L. 98–502, set out as a note under section 7501 of Title 31.
+Tennessee Valley Authority audits unaffected by single audit requirements of chapter 75 (§7501 et seq.) of Title 31, Money and Finance, see section 2(b) of Pub. L. 98–502, set out as a note under section 7501 of Title 31.
 

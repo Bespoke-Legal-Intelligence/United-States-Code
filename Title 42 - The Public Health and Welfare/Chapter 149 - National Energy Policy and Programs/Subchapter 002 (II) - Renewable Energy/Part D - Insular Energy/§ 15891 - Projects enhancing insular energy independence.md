@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the request of an electric utility located in an insular area that commits to fund at least 10 percent of the cost of the study; and
 
-&emsp;&emsp;(B) if the electric utility is located in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, written support for that request by the President or the Ambassador of the affected freely associated state.
+&emsp;&emsp;(B) if the electric utility is located in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, written support for that request bythe President or the Ambassador of the affected freely associated state.
 
 #### (3) Consultation
 

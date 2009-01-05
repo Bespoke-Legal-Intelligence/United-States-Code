@@ -2,7 +2,7 @@
 
 (a)(1) For the purpose of this section—
 
-&emsp;(A) the term “agency” means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title; and
+&emsp;(A) the term “agency” means an agency under subparagraph (A), (B), (C), (D), or (E) of section 4101(1) of this title, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services; and
 
 &emsp;(B) the term “student loan” means—
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
-(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of suchemployee's entrance into the service of the other agency that payment will be required under this subsection.
+(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
 (3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability under paragraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
 
@@ -64,7 +64,7 @@
 
 (2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637.)
+(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
 
 #### References in Text
 
@@ -73,6 +73,8 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is 
 The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(A). Pub. L. 110–437 inserted “, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services” after “title”.
 
 2003—Subsec. (b)(2)(A). Pub. L. 108–123, §2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting “$10,000” for “$6,000”.
 
@@ -96,7 +98,7 @@ Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added s
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Regulations
 
@@ -105,4 +107,16 @@ Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 S
 “(1) Not later than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Office of Personnel Management shall issue proposed regulations under section 5379(g) of title 5, United States Code. The Director shall provide for a period of not less than 60 days for public comment on the regulations.
 
 “(2) Not later than 240 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Director shall issue final regulations.”
+
+#### Institutional Loan Forgiveness Programs
+
+Pub. L. 110–315, title IX, §961, Aug. 14, 2008, 122 Stat. 3473, provided that: “Notwithstanding any other provision of law—
+
+&emsp;“(1) a public or private institution of higher education may provide an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, who is a current or former student of such institution, financial assistance for the purpose of repaying a student loan or providing forbearance of student loan repayment if—
+
+&emsp;&emsp;“(A) such repayment or forbearance is provided to such officer or employee in accordance with a written, published policy of the institution relating to repaying or providing forbearance, respectively, for students or former students who perform public service; and
+
+&emsp;&emsp;“(B) in the case of a former student of the institution of higher education, the policy described in subparagraph (A) was in effect at the institution of higher education on the day before the date such officer or employee graduated from or otherwise ceased being a student at such institution; and
+
+&emsp;“(2) an officer or employee of any branch of the United States Government, of any independent agency of the United States, or of the District of Columbia may receive repayment or forbearance permitted under paragraph (1).”
 

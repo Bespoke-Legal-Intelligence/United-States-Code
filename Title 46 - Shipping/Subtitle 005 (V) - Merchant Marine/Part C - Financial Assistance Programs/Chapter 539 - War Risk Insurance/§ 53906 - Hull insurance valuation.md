@@ -10,7 +10,7 @@ Stated Valuation.—The valuation in a hull insurance policy for actual or const
 
 (b)
 
-Rejecting Stated Valuation.—Within 60 days after the insurance attaches under a policyreferred to in subsection (a) or within 60 days after the Secretary determines the valuation, whichever is later, the insured may reject the valuation and pay, at the rate provided in the policy, premiums based on the asserted valuation the insured specifies at the time of rejection. However, the asserted valuation is not binding on the Government in any subsequent action on the policy.
+Rejecting Stated Valuation.—Within 60 days after the insurance attaches under a policy referred to in subsection (a) or within 60 days after the Secretary determines the valuation, whichever is later, the insured may reject the valuation and pay, at the rate provided in the policy, premiums based on the asserted valuation the insured specifies at the time of rejection. However, the asserted valuation is not binding on the Government in any subsequent action on the policy.
 
 (c)
 
@@ -22,7 +22,7 @@ Amount of Claim.—If a vessel is actually or constructively totally lost and th
 
 (d)
 
-Adjusting Premiums.—If a court makes a determination as provided under subsection (c)(2), premiums paid under the policy shall be adjusted based on the court's determination and the rates provided for in the policy.
+Adjusting Premiums.—If a court makes a determination as provided under subsection\(c)(2), premiums paid under the policy shall be adjusted based on the court's determination and the rates provided for in the policy.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1629.)
 

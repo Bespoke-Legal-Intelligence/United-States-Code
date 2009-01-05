@@ -28,7 +28,23 @@ Single and Multiple Contract Awards.—(1) The head of an agency may exercise th
 
 (2) No determination under section 2304(b) of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
 
-(3) The regulations implementing this subsection shall—
+(3)(A) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
+
+&emsp;(i) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+
+&emsp;(ii) the contract provides only for firm, fixed price task orders or delivery orders for—
+
+&emsp;&emsp;(I) products for which unit prices are established in the contract; or
+
+&emsp;&emsp;(II) services for which prices are established in the contract for the specific tasks to be performed;
+
+&emsp;(iii) only one source is qualified and capable of performing the work at a reasonable price to the government; or
+
+&emsp;(iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+
+(B) The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
+
+(4) The regulations implementing this subsection shall—
 
 &emsp;(A) establish a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
 
@@ -50,7 +66,7 @@ Inapplicability to Contracts for Advisory and Assistance Services.—Except as o
 
 Relationship to Other Contracting Authority.—Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §813(a), Oct. 28, 2004, 118 Stat. 2014; Pub. L. 110–181, div. A, title VIII, §843(a)(1), Jan. 28, 2008, 122 Stat. 236.)
 
 #### Codification
 
@@ -58,9 +74,15 @@ Another section 2304a was renumbered section 2304e of this title.
 
 #### Amendments
 
+2008—Subsec. (d)(3), (4). Pub. L. 110–181 added par. (3) and redesignated former par. (3) as (4).
+
 2004—Subsec. (f). Pub. L. 108–375 substituted “any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period” for “a total period of not more than five years”.
 
 2003—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any contract awarded on or after such date.”
 
 #### Effective Date
 

@@ -16,10 +16,13 @@
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
 | [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md) | Bronze star: limitation to members receiving imminent danger pay. |
 | [1134\.](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md) | Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war. |
+| [1135\.](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md) | Replacement of military decorations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
 
 2004—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
@@ -35,7 +38,7 @@
 
 1993—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-1985—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+1985—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted“disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
 
 1984—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
 
@@ -83,7 +86,7 @@ Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
 
 “(a)
 
-Requirement.—The President shall establish a campaign medal specifically to recognize service bymembers of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
+Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
 “(b)
 
@@ -155,7 +158,7 @@ Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 132
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned toduty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
+Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
 
 Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the commissioned corps of the National Oceanic and Atmospheric Administration or the commissioned corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
 
@@ -284,3 +287,4 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
 - [&sect; 01133 - Bronze Star limitation to members receiving imminent danger pay](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md)
 - [&sect; 01134 - Medal of honor award to individual interred in Tomb of the Unknowns as representative of casualties of a war](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md)
+- [&sect; 01135 - Replacement of military decorations](%C2%A7%2001135%20-%20Replacement%20of%20military%20decorations.md)

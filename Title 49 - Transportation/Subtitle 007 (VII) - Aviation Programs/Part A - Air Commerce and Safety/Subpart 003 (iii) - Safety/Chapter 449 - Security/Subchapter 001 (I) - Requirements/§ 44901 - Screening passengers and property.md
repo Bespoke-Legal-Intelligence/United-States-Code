@@ -32,7 +32,7 @@ Deadline.—
 
 &emsp;&emsp;(A)
 
-In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployedunder paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
+In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployed under paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
 
 &emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosive detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
 
@@ -110,7 +110,7 @@ Final rule.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If the Secretary issues an interim final rule under subparagraph (A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
+In general.—If the Secretary issues an interim final rule under subparagraph\(A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -180,7 +180,7 @@ General Aviation Airport Security Program.—
 
 &emsp;(1)
 
-In general.—Not later than one year after the date of enactment of this subsection, the Administrator of the Transportation Security Administration shall—
+In general.—Not later than one year after the date of enactment of this subsection,the Administrator of the Transportation Security Administration shall—
 
 &emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); and
 
@@ -364,11 +364,11 @@ In general.—Upon request of the Under Secretary, an air carrier or foreign air
 
 &emsp;“(B)
 
-Schedule.—The Under Secretary may enter into an agreement under subparagraph (A) as soon as possible, but not later than 90 days after the date of enactment of this Act \[Nov. 19, 2001\]. The Under Secretary may enter into such an agreement for one 180-day period and may extend such agreement for one 90-day period if the Under Secretary determines it necessary.
+Schedule.—The Under Secretary may enter into an agreement under subparagraph (A) as soon as possible, but not later than 90 days after the date of enactment of this Act \[Nov. 19, 2001\]. The Under Secretary may enter into such an agreement for one 180-day period and may extend such agreement for one90-day period if the Under Secretary determines it necessary.
 
 “(4)
 
-Transfer of ownership.—In recognition of the assumption of the financial costs of security screening of passengers and property at airports, and as soon as practical after the date of enactment of this Act \[Nov.19, 2001\], air carriers may enter into agreements with the Under Secretary to transfer the ownership, at no cost to the United States Government, of any personal property, equipment, supplies, or other material associated with such screening, regardless of the source of funds used to acquire the property, that the Secretary determines to be useful for the performance of security screening of passengers and property at airports.
+Transfer of ownership.—In recognition of the assumption of the financial costs of security screening of passengers and property at airports, and as soon as practical after the date of enactment of this Act \[Nov. 19, 2001\], air carriers may enter into agreements with the Under Secretary to transfer the ownership, at no cost to the United States Government, of any personal property, equipment, supplies, or other material associated with such screening, regardless of the source of funds used to acquire the property, that the Secretary determines to be useful for the performance of security screening of passengers and property at airports.
 
 “(5)
 
@@ -476,7 +476,7 @@ Advanced Cargo Security Grants.—
 
 &emsp;“(1)
 
-In general.—The Secretary shall establish and carry out a program to issue competitive grants toencourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
+In general.—The Secretary shall establish and carry out a program to issue competitive grants to encourage the development of advanced air cargo security technology, including use of innovative financing or other means of funding such activities. The Secretary may make available funding for this purpose from amounts appropriated pursuant to subsection (c).
 
 &emsp;“(2)
 
@@ -682,7 +682,7 @@ Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provide
 
 #### Installation and Use of Explosive Detection Equipment
 
-Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: “Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action, including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act”.
+Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: “Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action,including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act”.
 
 #### Research and Development of Improved Airport Security Systems
 

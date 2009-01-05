@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) of Government corporations;
 
-&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congressunder the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
+&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
@@ -48,7 +48,7 @@
 
 (4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budget shall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
 
-(B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including a report on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
+(B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including areport on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
 
 (ii) The Director shall include with each revised governmentwide 5-year financial management plan a description of any substantive changes in the financial statement audit plan required by paragraph (3)(B)(viii), progress made by executive agencies in implementing the audit plan, and any improvements in Federal Government financial management related to preparation and audit of financial statements of executive agencies.
 
@@ -240,7 +240,7 @@ This section is popularly known as the “Federal Managers Financial Integrity A
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Federal Financial Management Improvement
 

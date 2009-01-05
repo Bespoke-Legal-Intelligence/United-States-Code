@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) Over the past 20 years, more than two dozen scientific findings have emerged that indicate that certain of such employees are experiencing increased risks of dying from cancer and non-malignant diseases. Several of these studies have also established a correlation between excess diseases and exposure to radiation and beryllium.
 
-&emsp;(6) While linking exposure to occupational hazards with the development of occupationaldisease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
+&emsp;(6) While linking exposure to occupational hazards with the development of occupational disease is sometimes difficult, scientific evidence supports the conclusion that occupational exposure to dust particles or vapor of beryllium can cause beryllium sensitivity and chronic beryllium disease. Furthermore, studies indicate than 98 percent of radiation-induced cancers within the nuclear weapons complex have occurred at dose levels below existing maximum safe thresholds.
 
 &emsp;(7) Existing information indicates that State workers’ compensation programs do not provide a uniform means of ensuring adequate compensation for the types of occupational illnesses and diseases that relate to the employees at those sites.
 
@@ -64,7 +64,7 @@ Elements.—The update shall—
 
 &emsp;“(1) for each facility for which such report found that insufficient information was available to determine whether significant residual contamination was present, determine whether significant residual contamination was present;
 
-&emsp;“(2) for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine the date on which such contamination ceased to be present;
+&emsp;“(2) for each facility for which such report found that significant residual contamination remained present as of the date of the report, determine thedate on which such contamination ceased to be present;
 
 &emsp;“(3) for each facility for which such report found that significant residual contamination was present but for which the Director has been unable to determine the extent to which such contamination is attributable to atomic weapons-related activities, identify the specific dates of coverage attributable to such activities and, in so identifying, presume that such contamination is attributable to such activities until there is evidence of decontamination of residual contamination identified with atomic weapons-related activities;
 
@@ -192,7 +192,7 @@ Sec. 3. <i>Establishment of Interagency Working Group.</i>
 
 Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
-(a) Pursuant to Public Law 106–398, there is hereby established an Advisory Board on Radiation and Health (Advisory Board). The Advisory Board shall consist of no more than 20 members to be appointed by the President. Members shall include affected workers and their representatives, and representatives from scientific and medical communities. The President shall designate a Chair for the Board among its members.
+(a) Pursuant to Public Law 106–398, there is hereby established an Advisory Board on Radiation and Health (Advisory Board). The Advisory Board shall consist of no more than 20 members to be appointed by the President. Members shall include affected workers and theirrepresentatives, and representatives from scientific and medical communities. The President shall designate a Chair for the Board among its members.
 
 (b) The Advisory Board shall:
 

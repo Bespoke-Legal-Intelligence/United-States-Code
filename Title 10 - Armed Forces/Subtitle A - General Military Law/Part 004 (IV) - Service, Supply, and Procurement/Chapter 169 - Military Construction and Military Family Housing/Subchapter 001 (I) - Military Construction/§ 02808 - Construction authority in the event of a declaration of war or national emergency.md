@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act (50 U.S.C. 1601 et seq.), referred to in subsec. (a), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of thisAct to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 #### Prior Provisions
 
@@ -28,7 +28,7 @@ Ex. Ord. No. 12734, Nov. 14, 1990, 55 F.R. 48099, which related to national emer
 
 Ex. Ord. No. 13235, Nov. 16, 2001, 66 F.R. 58343, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, I declared a national emergency that requires the use of the Armed Forces of the United States, by Proclamation 7463 of September 14, 2001 \[50 U.S.C. 1621 note\], because of the terrorist attacks on the World Trade Center and the Pentagon, and because of the continuing and immediate threat to the national security of the United States of further terrorist attacks. To provide additional authority to the Department of Defense to respond to that threat, and in accordance with section 301 of the National EmergenciesAct (50 U.S.C. 1631), I hereby order that the emergency construction authority at 10 U.S.C. 2808 is invoked and made available in accordance with its terms to the Secretary of Defense and, at the discretion of the Secretary of Defense, to the Secretaries of the military departments.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, I declared a national emergency that requires the use of the Armed Forces of the United States, by Proclamation 7463 of September 14, 2001 \[50 U.S.C. 1621 note\], because of the terrorist attacks on the World Trade Center and the Pentagon, and because of the continuing and immediate threat to the national security of the United States of further terrorist attacks. To provide additional authority to the Department of Defense to respond to that threat, and in accordance with section 301 of the National Emergencies Act (50 U.S.C. 1631), I hereby order that the emergency construction authority at 10 U.S.C. 2808 is invoked and made available in accordance with its terms to the Secretary of Defense and, at the discretion of the Secretary of Defense, to the Secretaries of the military departments.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

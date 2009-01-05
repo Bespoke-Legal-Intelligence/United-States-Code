@@ -14,7 +14,7 @@ Each of the following establishments which serves the public is a place of publi
 
 &emsp;(3) any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment; and
 
-&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which isphysically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
+&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
 
 #### (c) Operations affecting commerce; criteria; “commerce” defined
 

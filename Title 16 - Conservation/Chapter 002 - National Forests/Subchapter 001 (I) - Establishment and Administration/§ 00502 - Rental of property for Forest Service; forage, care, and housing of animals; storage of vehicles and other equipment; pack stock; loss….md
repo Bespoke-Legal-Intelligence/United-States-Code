@@ -10,7 +10,7 @@ The Secretary of Agriculture is authorized, under such regulations as he may pre
 
 (d) To reimburse owners for loss, damage, or destruction of horses, vehicles, and other equipment obtained by the Forest Service for the use of that service from employees or other private owners: <i>Provided</i>, That payments or reimbursements herein authorized may be made from the applicable appropriations for the Forest Service: <i>And provided further</i>, That except for fire fighting emergencies no reimbursement herein authorized shall be made in an amount in excess of $50 to persons who were employees of the Forest Service prior to the time the equipment was obtained or $2,500 in any other case, unless the equipment was made available under a written agreement, contract, or lease.
 
-(Mar. 4, 1913, ch. 145, §1\[part\], 37 Stat. 843; Jan. 31, 1931, ch. 76, 46 Stat. 1052; Pub. L. 85–464, §1, June 20, 1958, 72 Stat. 216; Pub. L. 89–270, Oct. 19, 1965, 79 Stat. 991; Pub. L. 97–375, title I, §103(b), Dec. 21, 1982, 96 Stat. 1819.)
+(Mar. 4, 1913, ch. 145, §1 (part), 37 Stat. 843; Jan. 31, 1931, ch. 76, 46 Stat. 1052; Pub. L. 85–464, §1, June 20, 1958, 72 Stat. 216; Pub. L. 89–270, Oct. 19, 1965, 79 Stat. 991; Pub. L. 97–375, title I, §103(b), Dec. 21, 1982, 96 Stat. 1819.)
 
 #### Amendments
 

@@ -8,13 +8,13 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (1) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
-(2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governor or legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
+(2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governor or legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the Houseand the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
 
 (3) The authority of the Governor or legislature of each State under this subsection shall not be applicable with respect to any site located on a reservation.
 
 #### (c) Financial assistance
 
-(1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of localgovernment for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
+(1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of local government for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
 
 (B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
 
@@ -74,7 +74,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 #### (d) Additional notification and consultation
 
-Whenever the Secretary is required under any provision of this chapter to notify or consultwith the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
+Whenever the Secretary is required under any provision of this chapter to notify or consult with the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
 
 (Pub. L. 97–425, title I, §116, Jan. 7, 1983, 96 Stat. 2220; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5032(a), Dec. 22, 1987, 101 Stat. 1330–241.)
 

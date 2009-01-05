@@ -32,7 +32,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
 
-&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals,which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
+&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
 
 &emsp;&emsp;(A) attaches conditions inconsistent with applicable laws or regulations; or
 
@@ -332,11 +332,11 @@ Pub. L. 106–177, title I, §104(b), Mar. 10, 2000, 114 Stat. 36, provided that
 
 #### Transfer of Certain Unobligated Funds
 
-Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
+Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetarypenalties and related litigation activities, in the Federal criminal justice system.”
 
 #### Retroactive Transfer to Fund
 
-Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is herebytransferred to the Fund from any sums not appropriated from the general treasury.”
+Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

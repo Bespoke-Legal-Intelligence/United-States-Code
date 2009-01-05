@@ -46,7 +46,7 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 > The judge shall set a time limit of 90 days on the discovery period. The judge may extend this period for good cause shown. At the request of any party, the judge may establish a specific schedule for the conduct of discovery.
 
-(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
+(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judgeis authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 
 #### (h) Mediation of disputes
 

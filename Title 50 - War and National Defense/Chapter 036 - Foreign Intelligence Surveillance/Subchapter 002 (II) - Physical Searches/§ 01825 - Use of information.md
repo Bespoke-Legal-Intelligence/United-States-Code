@@ -10,7 +10,7 @@ Where a physical search authorized and conducted pursuant to section 1824 of thi
 
 #### (c) Statement for disclosure
 
-No information acquired pursuant to this subchapter shall be disclosed for law enforcementpurposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
+No information acquired pursuant to this subchapter shall be disclosed for law enforcement purposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
 
 #### (d) Notification by United States
 
@@ -28,7 +28,7 @@ Whenever any State or political subdivision thereof intends to enter into eviden
 
 &emsp;(B) the physical search was not made in conformity with an order of authorization or approval.
 
-(2) Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion or the person was not aware of the grounds of the motion.
+(2) Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion orthe person was not aware of the grounds of the motion.
 
 #### (g) In camera and ex parte review by district court
 
@@ -44,7 +44,7 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
-(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named inthe application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
+(1) If an emergency execution of a physical search is authorized under section 1824(d) <sup>1</sup> of this title and a subsequent order approving the search is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to the search as the judge may determine in his discretion it is in the interests of justice to serve, notice of—
 
 &emsp;(A) the fact of the application;
 
@@ -60,25 +60,33 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 &emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
-&emsp;(B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+&emsp;(B) sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
 
 &emsp;(C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power.
 
-(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1823(a)(7) of this title or the entry of an order under section 1824 of this title.
+(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1823(a)(6) of this title or the entry of an order under section 1824 of this title.
 
-(Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449; amended Pub. L. 107–56, title V, §504(b), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §899, Nov. 25, 2002, 116 Stat. 2258.)
+(Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449; amended Pub. L. 107–56, title V, §504(b), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §899, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§107(c)(2), 110(b)(2), July 10, 2008, 122 Stat. 2464, 2466.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
+Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title byPub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
 #### Amendments
 
-2002—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
 
-2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted “1823(a)(6)” for “1823(a)(7)”.
+
+<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+
+<b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2002 Amendment
 

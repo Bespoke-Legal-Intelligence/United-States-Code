@@ -40,7 +40,7 @@ A State receiving a grant under this section shall use—
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2010 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the endof fiscal year 2010 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
 
 (Pub. L. 110–140, title XIV, §1405, Dec. 19, 2007, 121 Stat. 1796.)
 

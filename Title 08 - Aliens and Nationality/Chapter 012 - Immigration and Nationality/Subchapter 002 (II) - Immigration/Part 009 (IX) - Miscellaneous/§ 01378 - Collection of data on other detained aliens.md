@@ -12,7 +12,7 @@ The Attorney General shall regularly collect data on a nationwide basis on alien
 
 #### (b) Length of detention, transfers, and dispositions
 
-With respect to detainees who are criminal aliens and detainees who are noncriminal alienswho are not seeking asylum, the Attorney General shall also collect data concerning—
+With respect to detainees who are criminal aliens and detainees who are noncriminal aliens who are not seeking asylum, the Attorney General shall also collect data concerning—
 
 &emsp;(1) the number and frequency of transfers between detention facilities for each category of detainee;
 
@@ -48,5 +48,5 @@ Section was enacted as part of the Haitian Refugee Immigration Fairness Act of 1
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

@@ -1,0 +1,60 @@
+### §3839bb–5. Voluntary public access and habitat incentive program
+
+#### (a) Establishment
+
+The Secretary shall establish a voluntary public access program under which States and tribal governments may apply for grants to encourage owners and operators of privately-held farm, ranch, and forest land to voluntarily make that land available for access by the public for wildlife-dependent recreation, including hunting or fishing under programs administered by the States and tribal governments.
+
+#### (b) Applications
+
+In submitting applications for a grant under the program, a State or tribal government shall describe—
+
+&emsp;(1) the benefits that the State or tribal government intends to achieve by encouraging public access to private farm and ranch land for—
+
+&emsp;&emsp;(A) hunting and fishing; and
+
+&emsp;&emsp;(B) to the maximum extent practicable, other recreational purposes; and
+
+&emsp;(2) the methods that will be used to achieve those benefits.
+
+#### (c) Priority
+
+In approving applications and awarding grants under the program, the Secretary shall give priority to States and tribal governments that propose—
+
+&emsp;(1) to maximize participation by offering a program the terms of which are likely to meet with widespread acceptance among landowners;
+
+&emsp;(2) to ensure that land enrolled under the State or tribal government program has appropriate wildlife habitat;
+
+&emsp;(3) to strengthen wildlife habitat improvement efforts on land enrolled in a special conservation reserve enhancement program described in section 3834(f)(4) of this title by providing incentives to increase public hunting and other recreational access on that land;
+
+&emsp;(4) to use additional Federal, State, tribal government, or private resources in carrying out the program; and
+
+&emsp;(5) to make available to the public the location of land enrolled.
+
+#### (d) Relationship to other laws
+
+#### (1) No preemption
+
+&emsp;Nothing in this section preempts a State or tribal government law, including any State or tribal government liability law.
+
+#### (2) Effect of inconsistent opening dates for migratory bird hunting
+
+&emsp;The Secretary shall reduce by 25 percent the amount of a grant otherwise determined for a State under the program if the opening dates for migratory bird hunting in the State are not consistent for residents and non-residents.
+
+#### (e) Regulations
+
+The Secretary shall promulgate such regulations as are necessary to carry out this section.
+
+#### (f) Funding
+
+Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012.
+
+(Pub. L. 99–198, title XII, §1240R, as added Pub. L. 110–234, title II, §2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, §4(a), title II, §2606, June 18, 2008, 122 Stat. 1664, 1798.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+

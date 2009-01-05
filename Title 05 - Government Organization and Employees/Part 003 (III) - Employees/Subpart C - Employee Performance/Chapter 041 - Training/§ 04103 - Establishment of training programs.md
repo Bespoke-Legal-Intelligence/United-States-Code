@@ -86,7 +86,7 @@ Definition.—As used in subsection (a), the term ‘Federal employee’ has the
 
 Pub. L. 101–416, §1, Oct. 12, 1990, 104 Stat. 902, authorized a 90-day extension of programs established under Pub. L. 99–424 for individuals who were participating in the program on the expiration date.
 
-Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87, Aug. 16, 1989, 103 Stat. 595, authorizedPresident to establish an experimental program, to be conducted during fiscal years 1987 through 1990, under which voluntary services could be accepted by the Government, without regard to 31 U.S.C. 1342.
+Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87, Aug. 16, 1989, 103 Stat. 595, authorized President to establish an experimental program, to be conducted during fiscal years 1987 through 1990, under which voluntary services could be accepted by the Government, without regard to 31 U.S.C. 1342.
 
 #### Department of Homeland Security
 
@@ -178,7 +178,7 @@ Sec. 303. In carrying out his responsibilities, the head of each agency shall, c
 
 Sec. 401. The following functions vested in the President are hereby delegated to the Office of Personnel Management:
 
-(a) The authority under section 4102(b)(1) of Title 5, United States Code, to designate any agency or part thereof, or any employee or employees therein, as excepted from any provision of chapter 41, of Title 5,United States Code, other than sections 4102, 4111(b), and 4112; and to designate any such agency or part thereof, or any employee or employees therein previously excepted, as again subject to chapter 41 of Title 5, United States Code, or any provision of that chapter.
+(a) The authority under section 4102(b)(1) of Title 5, United States Code, to designate any agency or part thereof, or any employee or employees therein, as excepted from any provision of chapter 41, of Title 5, United States Code, other than sections 4102, 4111(b), and 4112; and to designate any such agency or part thereof, or any employee or employees therein previously excepted, as again subject to chapter 41 of Title 5, United States Code, or any provision of that chapter.
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
@@ -204,7 +204,7 @@ Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 1251
 
 Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 
@@ -236,7 +236,7 @@ To help us meet these goals, I am creating a task force on Federal training tech
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, “Providing for the Further Training of Government Employees,” \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 
-Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President's Task Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency,National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
+Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President's Task Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
 
 (b) Within 30 days of the date of this order, the head of each agency or council shall designate a senior official to serve as a representative to the Task Force. The representative shall report directly to the agency head or the President's Management Council member on the agency's or council's activities under this order.
 

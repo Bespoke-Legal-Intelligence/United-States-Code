@@ -66,11 +66,11 @@ Pub. L. 105–147, §1, Dec. 16, 1997, 111 Stat. 2678, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: “This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties,and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
+Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: “This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act \[enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enacting provisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19\] may be cited as the ‘Anti Car Theft Act of 1992’.”
+Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act \[enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enactingprovisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19\] may be cited as the ‘Anti Car Theft Act of 1992’.”
 
 #### Short Title of 1984 Amendments
 

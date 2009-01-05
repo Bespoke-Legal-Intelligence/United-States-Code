@@ -16,7 +16,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 &emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications ofchanges in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
+&emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
 #### (2) Specific topics to be reviewed
 
@@ -88,7 +88,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Inclusion
 
-&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts inthe area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
+&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
 
 #### (C) Majority nonproviders
 
@@ -96,7 +96,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shallbe treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (3) Terms
 
@@ -154,7 +154,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (3) Access of GAO to information
 
-&emsp;The Comptroller General shall have unrestricted access to all deliberations, records,and nonproprietary data of the Commission, immediately upon request.
+&emsp;The Comptroller General shall have unrestricted access to all deliberations, records, and nonproprietary data of the Commission, immediately upon request.
 
 #### (4) Periodic audit
 
@@ -168,7 +168,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (2) Authorization
 
-&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514.)
 
@@ -234,7 +234,7 @@ Continuing responsibility for reports.—The MedPAC shall be responsible for the
 
 #### Appointment of Experts in Prescription Drugs
 
-Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph\(1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph (1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 

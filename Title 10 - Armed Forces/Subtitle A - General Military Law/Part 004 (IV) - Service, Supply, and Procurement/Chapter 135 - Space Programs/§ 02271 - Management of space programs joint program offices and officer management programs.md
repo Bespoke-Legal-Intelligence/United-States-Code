@@ -20,105 +20,85 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
-#### Space Situational Awareness Strategy and Space Control Mission Review
+#### Space Protection Strategy
 
-Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, provided that:
+Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, provided that:
 
 “(a)
 
-Findings.—The Congress finds that—
-
-&emsp;“(1) the Department of Defense has the responsibility, within the executive branch, for developing the strategy and the systems of the United States for ensuring freedom to operate United States space assets affecting national security; and
-
-&emsp;“(2) the foundation of any credible strategy for ensuring freedom to operate United States space assets is a comprehensive system for space situational awareness.
+Sense of Congress.—It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems.
 
 “(b)
 
-Space Situational Awareness Strategy.—
-
-&emsp;“(1)
-
-Requirement.—The Secretary of Defense shall develop a strategy, to be known as the ‘Space Situational Awareness Strategy’, for ensuring freedom to operate United States space assets affecting national security. The Secretary shall submit the Space Situational Awareness Strategy to Congress not later than April 15, 2006. The Secretary shall submit to Congress an updated, current version of the strategy not later than April 15 of every odd-numbered year thereafter.
-
-&emsp;“(2)
-
-Time periods.—The Space Situational Awareness Strategy shall cover—
-
-&emsp;&emsp;“(A) the 20-year period from 2006 through 2025; and
-
-&emsp;&emsp;“(B) three separate successive periods, the first beginning with 2006, designed to align with the next three periods for the Future-Years Defense Plan.
-
-&emsp;“(3)
-
-Matters to be included.—The Space Situational Awareness Strategy shall include the following for each period specified in paragraph (2):
-
-&emsp;&emsp;“(A) A threat assessment describing the perceived threats to United States space assets affecting national security.
-
-&emsp;&emsp;“(B) A list of the desired effects and required space situational awareness capabilities required for national security.
-
-&emsp;&emsp;“(C) Details for a coherent and comprehensive strategy for the United States for space situational awareness, together with a description of the systems architecture to implement that strategy in light of the threat assessment and the desired effects and required capabilities identified under subparagraphs (A) and (B).
-
-&emsp;&emsp;“(D) The space situational awareness capabilities roadmap required by subsection (c).
+Strategy.—The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
 
 “(c)
 
-Space Situational Awareness Capabilities Roadmap.—The Space Situational Awareness Strategy shall include a roadmap, to be known as the ‘space situational awareness capabilities roadmap’, which shall include the following:
+Matters Included.—The strategy required by subsection (b) shall include each of the following:
 
-&emsp;“(1) A description of each of the individual program concepts that will make up the systems architecture described pursuant to subsection (b)(3)(C).
+&emsp;“(1) An identification of the threats to, and the vulnerabilities of, the national security space systems of the United States.
 
-&emsp;“(2) For each such program concept, a description of the specific capabilities to be achieved and the threats to be abated.
+&emsp;“(2) A description of the capabilities currently contained in the program of record of the Department of Defense and the intelligence community that ensure freedom of action in space.
+
+&emsp;“(3) For each period covered by the strategy, a description of the capabilities that are needed for the period, including—
+
+&emsp;&emsp;“(A) the hardware, software, and other materials or services to be developed or procured;
+
+&emsp;&emsp;“(B) the management and organizational changes to be achieved; and
+
+&emsp;&emsp;“(C) concepts of operations, tactics, techniques, and procedures to be employed.
+
+&emsp;“(4) For each period covered by the strategy, an assessment of the gaps and shortfalls between the capabilities that are needed for the period and the capabilities currently contained in the program of record.
+
+&emsp;“(5) For each period covered by the strategy, a comprehensive plan for investment in capabilities that identifies specific program and technology investments to be made in that period.
+
+&emsp;“(6) A description of the current processes by which the systems protection requirements of the Department of Defense and the intelligence community are addressed in space acquisition programs and during key milestone decisions, an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
+
+&emsp;“(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
+
+&emsp;“(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
 
 “(d)
 
-Space Situational Awareness Implementation Plan.—
+Periods Covered.—The strategy required by subsection (b) shall cover the following periods:
 
-&emsp;“(1)
+&emsp;“(1) Fiscal years 2008 through 2013.
 
-Requirement.—The Secretary of the Air Force shall develop a plan, to be known as the ‘space situational awareness implementation plan’, for the development of the systems architecture described pursuant to subsection (b)(3)(C).
+&emsp;“(2) Fiscal years 2014 through 2019.
 
-&emsp;“(2)
-
-Matters to be included.—The space situational awareness implementation plan shall include a description of the following:
-
-&emsp;&emsp;“(A) The capabilities of all systems deployed as of mid-2005 or planned for modernization or acquisition from 2006 to 2015.
-
-&emsp;&emsp;“(B) Recommended solutions for inadequacies in the architecture to address threats and the desired effects and required capabilities identified under subparagraphs (A) and (B) of subsection (b)(3).
+&emsp;“(3) Fiscal years 2020 through 2025.
 
 “(e)
 
-Space Control Mission Review and Assessment.—
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘capabilities’ means space, airborne, and ground systems and capabilities for space situational awareness and for space systems protection; and
+
+&emsp;“(2) the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+
+“(f)
+
+Report; Biennial Update.—
 
 &emsp;“(1)
 
-Requirement.—The Secretary of Defense shall provide for a review and assessment of the requirements of the Department of Defense for the space control mission. The review and assessment shall be conducted by an entity of the Department of Defense outside of the Department of the Air Force.
+Report.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including each of the matters required by subsection (c).
 
 &emsp;“(2)
 
-Matters to be included.—The review and assessment under paragraph (1) shall consider the following:
-
-&emsp;&emsp;“(A) Whether current activities of the Department of Defense match current requirements of the Department for the current space control mission.
-
-&emsp;&emsp;“(B) Whether there exists proper allocation of appropriate resources to fulfill the current space control mission.
-
-&emsp;&emsp;“(C) The plans of the Department of Defense for the future space control mission.
+Biennial update.—Not later than March 15 of each even-numbered year after 2008, the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress an update to the report required by paragraph (1).
 
 &emsp;“(3)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review and assessment under paragraph (1). The report shall include the following:
+Classification.—The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex.”
 
-&emsp;&emsp;“(A) The findings and conclusions of the entity conducting the review and assessment on (A) requirements of the Department of Defense for the space control mission, and (B) the efforts of the Department to meet those requirements.
+#### Maintenance of Capability for Space-Based Nuclear Detection
 
-&emsp;&emsp;“(B) Recommendations regarding the best means by which the Department may meet those requirements.
+Pub. L. 110–181, div. A, title X, §1065, Jan. 28, 2008, 122 Stat. 324, provided that: “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act \[Jan. 28, 2008\].”
 
-&emsp;“(4)
+#### Space Situational Awareness Strategy and Space Control Mission Review
 
-Space control mission defined.—In this subsection, the term ‘space control mission’ means the mission of the Department of Defense involving the following:
-
-&emsp;&emsp;“(A) Space situational awareness.
-
-&emsp;&emsp;“(B) Defensive counterspace operations.
-
-&emsp;&emsp;“(C) Offensive counterspace operations.”
+Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, §911(g), Jan. 28, 2008, 122 Stat. 280.
 
 #### Space Personnel Career Fields
 
@@ -144,7 +124,7 @@ Report.—Not later than February 1, 2004, the Secretary shall submit to the Com
 
 “(c)
 
-Government Accountability Office Review and Reports.—(1) The Comptroller General shall review thestrategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
+Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
 
 “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
 

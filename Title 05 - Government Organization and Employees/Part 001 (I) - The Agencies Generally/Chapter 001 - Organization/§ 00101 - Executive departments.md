@@ -106,6 +106,12 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–372, §1, Oct. 8, 2008, 122 Stat. 4043, provided that: “This Act \[amending sections 3104, 3324, 3325, 5108, 5304, 5307 and 5376 of this title and enacting provisions set out as notes under sections 5307 and 5376 of this title\] may be cited as the ‘Senior Professional Performance Act of 2008’.”
+
+Pub. L. 110–290, §1, July 30, 2008, 122 Stat. 2914, provided that: “This Act \[amending section 596 of this title\] may be cited as the ‘Regulatory Improvement Act of 2007’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–175, §1, Dec. 31, 2007, 121 Stat. 2524, provided that: “This Act \[amending section 552 of this title and enacting provisions set out as notes under section 552 of this title\] may be cited as the ‘Openness Promotes Effectiveness in our National Government Act of 2007’ or the ‘OPEN Government Act of 2007’.”
@@ -136,7 +142,7 @@ Pub. L. 108–123, §1, Nov. 11, 2003, 117 Stat. 1345, provided that: “This Ac
 
 Pub. L. 108–44, §1, July 3, 2003, 117 Stat. 842, provided that: “This Act \[enacting section 3114 of this title\] may be cited as the ‘Accountant, Compliance, and Enforcement Staffing Act of 2003’.”
 
-Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: “This Act \[amending sections 8331, 8334, and 8348 of this title, enacting provisions set out as notes under sections 8334 and 8348 of this title and preceding section2001 of Title 39, Postal Service, and repealing provisions set out as a note under section 8348 of this title\] may be cited as the ‘Postal Civil Service Retirement System Funding Reform Act of 2003’.”
+Pub. L. 108–18, §1, Apr. 23, 2003, 117 Stat. 624, provided that: “This Act \[amending sections 8331, 8334, and 8348 of this title, enacting provisions set out as notes under sections 8334 and 8348 of this title and preceding section 2001 of Title 39, Postal Service, and repealing provisions set out as a note under section 8348 of this title\] may be cited as the ‘Postal Civil Service Retirement System Funding Reform Act of 2003’.”
 
 #### Short Title of 2002 Amendment
 

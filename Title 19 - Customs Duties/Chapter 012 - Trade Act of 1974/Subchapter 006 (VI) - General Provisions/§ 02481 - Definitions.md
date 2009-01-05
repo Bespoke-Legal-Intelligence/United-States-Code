@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term “modification”, as applied to any duty or other import restriction, includes the elimination of any duty or other import restriction.
 
-&emsp;(7) The term “existing” means (A) when used, without the specification of any date, with respect to any matter relating to entering into or carrying out a trade agreement or other action authorized by this chapter, existing on the day on which such trade agreement is entered into or such other action is taken; and (B) when used with respect to a rate of duty, the nonpreferential rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) set forth in rate column numbered 1 of chapters 1 through 97 of the Harmonized Tariff Scheduleof the United States on the date specified or (if no date is specified) on the day referred to in clause (A).
+&emsp;(7) The term “existing” means (A) when used, without the specification of any date, with respect to any matter relating to entering into or carrying out a trade agreement or other action authorized by this chapter, existing on the day on which such trade agreement is entered into or such other action is taken; and (B) when used with respect to a rate of duty, the nonpreferential rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) set forth in rate column numbered 1 of chapters 1 through 97 of the Harmonized Tariff Schedule of the United States on the date specified or (if no date is specified) on the day referred to in clause (A).
 
 &emsp;(8) A product of a country or area is an article which is the growth, produce, or manufacture of such country or area.
 
@@ -40,7 +40,7 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 
 1979—Par. (2). Pub. L. 96–39, §1106(h)(1), substituted “or exaction” for “and exaction”.
 
-Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a of this title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
+Par. (4). Pub. L. 96–39, §202(c)(1), substituted “section 1401a or 1402 of this title (as in effect before the effective date of the amendments made by title II of the Trade Agreements Act of 1979) or in sections 1401a ofthis title (as in effect on the effective date of such title II amendments) whichever is applicable” for “section 1401a or 1402 of this title applicable”.
 
 #### Effective Date of 1988 Amendment
 

@@ -24,7 +24,7 @@
 
 (1) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of Guam, shall provide appropriate training, technical assistance and equipment to the Government of Guam to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
 
-(2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, tocarry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
+(2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Guam to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services, to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
 (3) There are authorized to be appropriated to the Government of Guam $500,000 for grants to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General for drug abuse law enforcement equipment.
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) train law enforcement officers and other personnel of the Government of the Northern Mariana Islands, and
 
-&emsp;(B) provide, by purchase or lease, law enforcement equipment and technical assistance to the Government of the Northern Mariana Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
+&emsp;(B) provide, by purchase or lease, law enforcement equipment and technical assistanceto the Government of the Northern Mariana Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
 
 (3) There are authorized to be appropriated $125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
@@ -88,7 +88,7 @@
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
-Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), was in the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
+Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), wasin the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Subsec. (f). Pub. L. 100–690, §9307, added subsec. (f).
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

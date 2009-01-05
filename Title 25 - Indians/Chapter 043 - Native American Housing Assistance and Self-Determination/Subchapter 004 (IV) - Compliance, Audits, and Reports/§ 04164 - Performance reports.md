@@ -14,11 +14,9 @@ Each report under this section for a fiscal year shall—
 
 &emsp;(1) describe the use of grant amounts provided to the recipient for such fiscal year;
 
-&emsp;(2) assess the relationship of such use to the goals identified in the Indian housing plan of the grant beneficiary;
+&emsp;(2) assess the relationship of such use to the planned activities identified in the Indian housing plan of the grant beneficiary; and
 
-&emsp;(3) indicate the programmatic accomplishments of the recipient; and
-
-&emsp;(4) describe the manner in which the recipient would change its programs as a result of its experiences.
+&emsp;(3) indicate the programmatic accomplishments of the recipient.
 
 #### (c) Submission
 
@@ -28,7 +26,17 @@ The Secretary shall establish dates for submission of reports under this section
 
 A recipient preparing a report under this section shall make the report publicly available to the citizens in the jurisdiction of the recipient in sufficient time to permit such citizens to comment on such report prior to its submission to the Secretary, and in such manner and at such times as the recipient may determine. The report shall include a summary of any comments received by the grant beneficiary or recipient from citizens in its jurisdiction regarding its program.
 
-(Pub. L. 104–330, title IV, §404, Oct. 26, 1996, 110 Stat. 4040.)
+(Pub. L. 104–330, title IV, §404, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 110–411, title IV, §403, Oct. 14, 2008, 122 Stat. 4330.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–411, §403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
+
+Subsec. (b)(3), (4). Pub. L. 110–411, §403(2), (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
 
 #### Effective Date
 

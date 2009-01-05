@@ -6,5 +6,5 @@ To request funds under this subchapter, the chief executive or the chief justice
 
 #### Prior Provisions
 
-A prior section 3796ii–3, Pub. L. 90–351, title I, §2204, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to administration, prior to repeal by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 3796ii–3, Pub. L. 90–351, title I, §2204, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1956, related to administration, prior torepeal by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

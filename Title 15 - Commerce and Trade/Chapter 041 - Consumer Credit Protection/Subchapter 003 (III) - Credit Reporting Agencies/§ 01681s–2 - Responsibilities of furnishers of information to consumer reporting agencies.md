@@ -152,7 +152,7 @@
 
 #### (C) Applicability
 
-&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under theregulations promulgated under subparagraph (A).
+&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
 
 #### (D) Submitting a notice of dispute
 
@@ -200,7 +200,7 @@
 
 #### (G) Exclusion of credit repair organizations
 
-&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or an entity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
+&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or anentity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
 
 #### (9) Duty to provide notice of status as medical information furnisher
 
@@ -230,7 +230,7 @@
 
 #### (2) Deadline
 
-&emsp;A person shall complete all investigations, reviews, and reports required under paragraph\(1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
+&emsp;A person shall complete all investigations, reviews, and reports required under paragraph (1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
 
 #### (c) Limitation on liability
 

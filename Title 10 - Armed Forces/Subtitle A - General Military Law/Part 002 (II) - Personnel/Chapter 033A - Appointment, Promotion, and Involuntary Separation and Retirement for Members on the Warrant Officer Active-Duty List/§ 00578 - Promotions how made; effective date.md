@@ -2,7 +2,7 @@
 
 (a) When the report of a selection board convened under this chapter is approved by the Secretary concerned, the Secretary shall place the names of the warrant officers approved for promotion on a single promotion list for each grade (or grade and competitive category), in the order of the seniority of such officers on the warrant officer active-duty list.
 
-(b) Promotions of warrant officers on the warrant officer promotion list shall be made when,in accordance with regulations issued by the Secretary concerned, additional warrant officers in that grade (or grade and competitive category), are needed.
+(b) Promotions of warrant officers on the warrant officer promotion list shall be made when, in accordance with regulations issued by the Secretary concerned, additional warrant officers in that grade (or grade and competitive category), are needed.
 
 (c) A regular warrant officer who is promoted is appointed in the regular grade to which promoted, and a reserve warrant officer who is promoted is appointed in the reserve grade to which promoted. The date of appointment in that grade and date of rank shall be prescribed by the Secretary concerned. A warrant officer is entitled to the pay and allowances for the grade to which appointed from the date specified in the appointment order.
 

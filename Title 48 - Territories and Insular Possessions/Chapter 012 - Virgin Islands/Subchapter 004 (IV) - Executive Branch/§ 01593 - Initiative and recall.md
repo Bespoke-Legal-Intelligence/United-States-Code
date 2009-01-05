@@ -28,7 +28,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 (2) A recall election may be initiated by a two-thirds vote of the members of the legislature or by a petition under this subsection.
 
-(3) Prior to circulation a recall petition which identifies by name and office the official being recalled and which states the grounds for recall shall be submitted to the Supervisor of Elections. The sponsors of the recall petition shall be allowed a period of 60 days after such submission for filing with the Supervisor of Elections a list of signatures equal in number to at least 50 percent of the whole number of votes cast for that office in the last general election at which that office was filled. The Supervisor of Elections shall have 15 days in which to determinewhether the minimum number of valid signatures are contained in the recall petition.
+(3) Prior to circulation a recall petition which identifies by name and office the official being recalled and which states the grounds for recall shall be submitted to the Supervisor of Elections. The sponsors of the recall petition shall be allowed a period of 60 days after such submission for filing with the Supervisor of Elections a list of signatures equal in number to at least 50 percent of the whole number of votes cast for that office in the last general election at which that office was filled. The Supervisor of Elections shall have 15 days in which to determine whether the minimum number of valid signatures are contained in the recall petition.
 
 (4) A special recall election shall be held with respect to an elected public official not earlier than 30 days after a vote of the legislature under paragraph (2) or a determination of the board of elections under paragraph (3), as the case may be, and not later than 60 days after such vote or determination.
 
@@ -52,7 +52,7 @@ As used in this section, the term—
 
 #### Amendments
 
-1986—Pub. L. 99–396 amended section generally, substituting provisions giving people of Virgin Islands the rights of initiative and recall and spelling out ways in which those rights are to be exercised for provisions which had formerly only set out a method for removal of Governor by referendum election.
+1986—Pub. L. 99–396 amended section generally, substituting provisions giving people of Virgin Islands therights of initiative and recall and spelling out ways in which those rights are to be exercised for provisions which had formerly only set out a method for removal of Governor by referendum election.
 
 1968—Pub. L. 90–496 substituted provisions authorizing the removal of the Governor from office by a recall referendum for provisions authorizing the appointment of a Government Secretary for the Virgin Islands, and provisions setting forth his powers and duties.
 

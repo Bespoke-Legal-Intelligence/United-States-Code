@@ -58,7 +58,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistance under this part notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g) of this section, may be used to provide assistanceunder this part notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

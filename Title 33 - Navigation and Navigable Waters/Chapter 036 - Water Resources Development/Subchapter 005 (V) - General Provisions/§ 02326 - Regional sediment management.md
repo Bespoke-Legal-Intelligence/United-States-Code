@@ -52,7 +52,7 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 #### (2) Operation, maintenance, replacement, and rehabilitation costs
 
-&emsp;Operation, maintenance, replacement, and rehabilitation costs associated with a project under this section are the responsibility of the non-Federal interest.
+&emsp;Operation, maintenance, replacement, and rehabilitation costs associated with a projectunder this section are the responsibility of the non-Federal interest.
 
 #### (d) Selection of dredged material disposal method for environmental purposes
 

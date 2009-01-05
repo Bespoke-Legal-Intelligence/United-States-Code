@@ -82,7 +82,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (1) In general
 
-&emsp;(A) Subsection (f)(1) of this section and, after April 15, section 634(a) of this title shallnot apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
+&emsp;(A) Subsection (f)(1) of this section and, after April 15, section 634(a) of this title shall not apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
 
 &emsp;&emsp;(i) the enactment of that bill or resolution as reported;
 
@@ -104,7 +104,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (2) Revised allocations
 
-&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that wouldhave been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
 
 &emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
@@ -132,7 +132,7 @@ Subsec. (c). Pub. L. 105–33, §10106(b), reenacted heading without change and 
 
 > within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
 
-Subsec. (f)(1). Pub. L. 105–33, §10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective duringsuch fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+Subsec. (f)(1). Pub. L. 105–33, §10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
 
 Subsec. (f)(2). Pub. L. 105–33, §10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
 

@@ -42,7 +42,7 @@ A person described in subsection (b) of this section who is required to register
 
 &emsp;&emsp;(A) has 2 or more convictions for an offense described in subsection (b) of this section;
 
-&emsp;&emsp;(B) has been convicted of aggravated sexual abuse, as defined in section 2241 of title 18 or in a comparable provision of State law; or
+&emsp;&emsp;(B) has been convicted of aggravated sexual abuse, as defined in section 2241 of title18 or in a comparable provision of State law; or
 
 &emsp;&emsp;(C) has been determined to be a sexually violent predator.
 

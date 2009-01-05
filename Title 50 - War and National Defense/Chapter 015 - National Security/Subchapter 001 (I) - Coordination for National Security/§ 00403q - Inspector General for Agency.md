@@ -168,17 +168,17 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–458, §1071(b)(2)(C), struck out “of Central Intelligence” after “to the Director” in introductory provisions.
+<b>2004</b>—Subsec. (d)(1). Pub. L. 108–458, §1071(b)(2)(C), struck out “of Central Intelligence” after “to the Director” in introductory provisions.
 
 Subsec. (f). Pub. L. 108–458, §§1071(b)(1)(B), 1074(b)(2), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places and “National Intelligence Program” for “National Foreign Intelligence Program”.
 
-2002—Subsec. (d)(1). Pub. L. 107–306 substituted “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,” for “Within thirty days of receipt of such reports,” in introductory provisions.
+<b>2002</b>—Subsec. (d)(1). Pub. L. 107–306 substituted “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,” for “Within thirty days of receipt of such reports,” in introductory provisions.
 
-2001—Subsec. (d)(5)(B). Pub. L. 107–108, §309(a)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.”
+<b>2001</b>—Subsec. (d)(5)(B). Pub. L. 107–108, §309(a)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.”
 
 Subsec. (d)(5)(D)(i). Pub. L. 107–108, §309(a)(2), substituted “does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subparagraph (B),”.
 
-2000—Subsec. (d)(1)(E). Pub. L. 106–567, §402(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and”.
+<b>2000</b>—Subsec. (d)(1)(E). Pub. L. 106–567, §402(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and”.
 
 Subsec. (d)(3). Pub. L. 106–567, §403, added subpars. (B) to (E) and concluding provisions and struck out former subpars. (B) and (C) which read as follows:
 
@@ -190,17 +190,17 @@ Subsec. (e)(5)(E). Pub. L. 106–567, §402(a)(2), struck out subpar. (E) which 
 
 Subsec. (e)(8). Pub. L. 106–567, §402(b), substituted “Government” for “Federal” wherever appearing.
 
-1998—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
+<b>1998</b>—Subsec. (d). Pub. L. 105–272 inserted “; reports to Congress on urgent concerns” after “functional problems” in heading and added par. (5).
 
-1997—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–107, §402(b), inserted “, or from issuing any subpoena, after the Inspector General has decided to initiate, carry out, or complete such audit, inspection, or investigation or to issue such subpoena,” after “or investigation”.
 
 Subsec. (e)(5) to (8). Pub. L. 105–107, §402(a), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
-1996—Subsec. (b)(5). Pub. L. 104–93, §403(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.”
+<b>1996</b>—Subsec. (b)(5). Pub. L. 104–93, §403(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In accordance with section 535 of title 28, the Director shall report to the Attorney General any information, allegation, or complaint received from the Inspector General, relating to violations of Federal criminal law involving any officer or employee of the Agency, consistent with such guidelines as may be issued by the Attorney General pursuant to subsection (b)(2) of such section. A copy of all such reports shall be furnished to the Inspector General.”
 
 Subsec. (e)(3)(A). Pub. L. 104–93, §403(b), inserted “or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken” after “investigation”.
 
-1994—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–359, §402(1), substituted “analysis, public administration, or auditing” for “analysis, or public administration”.
 
 Subsec. (c)(1). Pub. L. 103–359, §402(2), substituted “to plan, conduct” for “to conduct”.
 
@@ -212,9 +212,9 @@ Subsec. (d)(4). Pub. L. 103–359, §402(5), inserted “or findings and recomme
 
 Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted “the Inspector General shall” for “it is the sense of Congress that the Inspector General should”.
 
-1992—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
+<b>1992</b>—Subsec. (e)(3). Pub. L. 102–496, in introductory provisions, substituted “any person” for “an employee of the Agency” and inserted “from an employee of the Agency” after “received”.
 
-1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
+<b>1989</b>—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 
 #### Effective Date of 2004 Amendment
 

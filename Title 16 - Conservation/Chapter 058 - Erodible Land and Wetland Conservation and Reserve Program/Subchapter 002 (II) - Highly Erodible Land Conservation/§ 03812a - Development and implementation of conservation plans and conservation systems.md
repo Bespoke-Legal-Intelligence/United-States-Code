@@ -46,7 +46,7 @@ For the purpose of determining whether there is a substantial reduction in soil 
 
 #### (3) Revisions and modifications
 
-&emsp;The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the same level of conservation treatment provided for by the conservation system under the person's conservation plan is maintained. The Secretary may not revise the person's conservation plan without the concurrence of the person.
+&emsp;The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the samelevel of conservation treatment provided for by the conservation system under the person's conservation plan is maintained. The Secretary may not revise the person's conservation plan without the concurrence of the person.
 
 #### (e) Technical assistance
 

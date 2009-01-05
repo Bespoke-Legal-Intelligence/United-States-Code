@@ -160,7 +160,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Members of family
 
-&emsp;&emsp;For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children whohave not attained age 18 before the close of the taxable year.
 
 #### (3) Preproductive period
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (2) Treatment of property produced under contract for the taxpayer
 
-&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall be taken into account in applying subsection (a) to the taxpayer.
+&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall betaken into account in applying subsection (a) to the taxpayer.
 
 #### (h) Exemption for free lance authors, photographers, and artists
 
@@ -296,7 +296,7 @@ For purposes of this section—
 
 #### (A) Writer
 
-&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) aliterary manuscript, musical composition (including any accompanying words), or dance score.
+&emsp;&emsp;The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer
 
@@ -468,7 +468,7 @@ Transitional rule for capitalization of interest and taxes.—
 
 &emsp;“(A)
 
-Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
+Transition property exempted from interest capitalization.—Section 263A of the InternalRevenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
 
 &emsp;&emsp;“(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
 

@@ -84,7 +84,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;&emsp;&emsp;(I) providing ongoing training and technical assistance to Early Head Start agencies, including developing training and technical assistance materials and resources to support program development and improvement and best practices in providing services to children and families served by Early Head Start programs;
 
-&emsp;&emsp;&emsp;&emsp;(II) supporting a national network of infant and toddler specialists designed toimprove the quality of Early Head Start programs;
+&emsp;&emsp;&emsp;&emsp;(II) supporting a national network of infant and toddler specialists designed to improve the quality of Early Head Start programs;
 
 &emsp;&emsp;&emsp;&emsp;(III) providing ongoing training and technical assistance on Early Head Start program development and improvement for regional staff charged with monitoring and overseeing the administration of the program carried out under this section; and
 

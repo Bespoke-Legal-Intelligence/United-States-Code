@@ -66,7 +66,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;&emsp;(B) in the case of the services that are appropriate, ensuring that the services are provided in a coordinated manner; and
 
-&emsp;&emsp;(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services, employment services, educational services, or social services.
+&emsp;&emsp;(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services,employment services, educational services, or social services.
 
 #### (e) Minimum qualifications for receipt of award
 

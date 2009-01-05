@@ -2,7 +2,7 @@
 
 For any offense against the United States, the offender may, by any justice or judge of the United States, or by any United States magistrate judge, or by any chancellor, judge of a supreme or superior court, chief or first judge of the common pleas, mayor of a city, justice of the peace, or other magistrate, of any state where the offender may be found, and at the expense of the United States, be arrested and imprisoned or released as provided in chapter 207 of this title, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. Copies of the process shall be returned as speedily as may be into the office of the clerk of such court, together with the recognizances of the witnesses for their appearances to testify in the case.
 
-A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of theUnited States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
+A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of the United States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
 
 (June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, §5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578, title III, §301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, §204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
@@ -26,7 +26,7 @@ This section was completely rewritten to omit all provisions superseded by Feder
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub.L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1966 Amendment
 

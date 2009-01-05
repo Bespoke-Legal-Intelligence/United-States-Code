@@ -106,7 +106,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (B) Each manufacturer of a drug subject to subsection (b) of this section shall maintain at its corporate offices a current list of the authorized distributors of record of such drug.
 
-(2)(A) No person may engage in the wholesale distribution in interstate commerce of drugs subject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
+(2)(A) No person may engage in the wholesale distribution in interstate commerce of drugssubject to subsection (b) of this section in a State unless such person is licensed by the State in accordance with the guidelines issued under subparagraph (B).
 
 (B) The Secretary shall by regulation issue guidelines establishing minimum standards, terms, and conditions for the licensing of persons to make wholesale distributions in interstate commerce of drugs subject to subsection (b) of this section. Such guidelines shall prescribe requirements for the storage and handling of such drugs and for the establishment and maintenance of records of the distributions of such drugs.
 
@@ -134,7 +134,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the person lawfully filling the order, and filed by that person.
 
-(C) The act of dispensing a drug contrary to the provisions of this paragraph shall be deemedto be an act which results in the drug being misbranded while held for sale.
+(C) The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
 (2) Any drug when dispensed in accordance with paragraph (1) of this subsection—
 
@@ -166,7 +166,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary shall promulgate regulations to implement market clearance procedures in accordance with paragraphs (1) and (2) not later than 1 year after November 28, 1990.
 
-(4)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the “Office”) shall have appropriate scientific and medical expertise, and shall be headed by a director.
+(4)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs anoffice to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the “Office”) shall have appropriate scientific and medical expertise, and shall be headed by a director.
 
 (B) In carrying out this subsection, the Office shall, for each combination product, promptly assign an agency center with primary jurisdiction in accordance with paragraph (1) for the premarket review of such product.
 
@@ -180,7 +180,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
-(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practiceuntil continued, modified, revised, or eliminated.
+(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
 (G) Not later than one year after October 26, 2002, and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
 
@@ -314,7 +314,7 @@ Exception.—
 
 &emsp;“(1) Section 503(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(d)\] (as added by section 5 of this Act) shall take effect upon the expiration of 180 days after the date of the enactment of this Act \[Apr. 22, 1988\].
 
-&emsp;“(2) The Secretary of Health and Human Services shall by regulation issue the guidelines required by section 503(e)(2)(B) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(e)(2)(B)\] (as added by section 6 of this Act) not later than 180 days after the date of the enactment of this Act. Section 503(e)(2)(A) of such Act shall take effect upon the expiration of 2 years after the date such regulations are promulgated and take effect.”
+&emsp;“(2) The Secretary of Health and Human Services shall by regulation issue the guidelines required by section 503(e)(2)(B) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353(e)(2)(B)\] (as added by section 6 of this Act) not later than 180 days after the date of the enactment of this Act. Section 503(e)(2)(A)of such Act shall take effect upon the expiration of 2 years after the date such regulations are promulgated and take effect.”
 
 #### Effective Date of 1970 Amendment
 

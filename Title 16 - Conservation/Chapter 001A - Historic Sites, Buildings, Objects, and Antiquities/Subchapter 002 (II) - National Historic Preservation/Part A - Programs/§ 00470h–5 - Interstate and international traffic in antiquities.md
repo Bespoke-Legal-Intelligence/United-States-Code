@@ -6,7 +6,7 @@ In order to help control illegal interstate and international traffic in antiqui
 
 #### (b) Consultation
 
-In conducting the study described in subsection (a) of this section the Secretary shall consult with the Council and other Federal agencies that conduct, cause to be conducted, orpermit archaeological surveys or excavations or that have responsibilities for other kinds of antiquities and with State Historic Preservation Officers, archaeological, architectural, historical, conservation, and curatorial organizations, Indian tribes, Native Hawaiian organizations, and other Native American organizations, international organizations and other interested persons.
+In conducting the study described in subsection (a) of this section the Secretary shall consult with the Council and other Federal agencies that conduct, cause to be conducted, or permit archaeological surveys or excavations or that have responsibilities for other kinds of antiquities and with State Historic Preservation Officers, archaeological, architectural, historical, conservation, and curatorial organizations, Indian tribes, Native Hawaiian organizations, and other Native American organizations, international organizations and other interested persons.
 
 #### (c) Report
 

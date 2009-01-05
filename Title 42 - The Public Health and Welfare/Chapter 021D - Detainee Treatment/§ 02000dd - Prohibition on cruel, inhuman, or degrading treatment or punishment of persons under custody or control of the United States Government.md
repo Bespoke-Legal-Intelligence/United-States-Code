@@ -46,7 +46,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Sense of Congress.—It is the sense of Congress that the Secretary, acting through the Legal Adviser of the Department of State, should continue to build on the Secretary's efforts to engage United States allies todevelop a common coalition approach, in compliance with Common Article 3 of the Geneva Conventions and other applicable legal principles, toward the detention and humane treatment of individuals detained during Operation Iraqi Freedom, Operation Enduring Freedom, or in connection with United States counterterrorist operations.
+Sense of Congress.—It is the sense of Congress that the Secretary, acting through the Legal Adviser of the Department of State, should continue to build on the Secretary's efforts to engage United States allies to develop a common coalition approach, in compliance with Common Article 3 of the Geneva Conventions and other applicable legal principles, toward the detention and humane treatment of individuals detained during Operation Iraqi Freedom, Operation Enduring Freedom, or in connection with United States counterterrorist operations.
 
 “(c)
 

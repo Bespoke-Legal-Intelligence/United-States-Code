@@ -60,7 +60,7 @@ Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval 
 
 (e)
 
-Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allowpassengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
+Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
 
 (f)
 
@@ -126,9 +126,9 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(C) shall establish procedures to ensure the safety and integrity of—
 
-&emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
+&emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger airtransportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
 
-&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of suppliesto ensure easy visual detection of tampering; and
+&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of supplies to ensure easy visual detection of tampering; and
 
 &emsp;&emsp;&emsp;(iii) all persons providing such supplies and facilities of such persons;
 
@@ -210,7 +210,7 @@ Biometric identifier.—The term “biometric identifier” means a technology t
 
 &emsp;&emsp;(C)
 
-Failure to enroll.—The term “failure to enroll” means the inability of an individual to enroll in a biometric identifier system due to an insufficiently distinctive biometric sample, the lack of a body part necessaryto provide the biometric sample, a system design that makes it difficult to provide consistent biometric identifier information, or other factors.
+Failure to enroll.—The term “failure to enroll” means the inability of an individual to enroll in a biometric identifier system due to an insufficiently distinctive biometric sample, the lack of a body part necessary to provide the biometric sample, a system design that makes it difficult to provide consistent biometric identifier information, or other factors.
 
 &emsp;&emsp;(D)
 
@@ -294,7 +294,7 @@ Commencement of testing.—Not later than January 1, 2005, the Assistant Secreta
 
 &emsp;&emsp;&emsp;(ii)
 
-Assumption of function.—Not later than 180 days after completion of testingunder clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
+Assumption of function.—Not later than 180 days after completion of testing under clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -452,7 +452,7 @@ In subsection (c)(1), the words “traveling in air transportation or intrastate
 
 In subsection (c)(2)(A), before clause (i), the words “under this section” are omitted as surplus. The words “or an amendment in an existing program” are substituted for “and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)” to eliminate unnecessary words. In clause (ii), the word “monetary” is substituted for “financial” for consistency.
 
-In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departmentsand agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
+In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
 
 #### References in Text
 
@@ -550,11 +550,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, includingthe functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
 
@@ -754,7 +754,7 @@ Certification by operator.—If the operator of an airport described in paragrap
 
 &emsp;“(B)
 
-Countermand period.—The time period within which the Secretary may notify an airport operator, after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
+Countermand period.—The time period within which the Secretary may notify an airport operator, after receiving a certification under subparagraph\(A), that a restriction must be continued in order to ensure public safety at the airport is—
 
 &emsp;&emsp;“(i) 15 days for a nonhub airport (as defined in section 41714(h) of title 49, United States Code);
 
@@ -864,7 +864,7 @@ Training and background of law enforcement officers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Under the program, to qualify to serve as a Deputy United States Marshal underthe program, a State or local law enforcement officer shall—
+In general.—Under the program, to qualify to serve as a Deputy United States Marshal under the program, a State or local law enforcement officer shall—
 
 &emsp;&emsp;&emsp;“(i) meet the minimum background and training requirements for a law enforcement officer under part 107 of title 14, Code of Federal Regulations (or equivalent requirements established by the Attorney General); and
 

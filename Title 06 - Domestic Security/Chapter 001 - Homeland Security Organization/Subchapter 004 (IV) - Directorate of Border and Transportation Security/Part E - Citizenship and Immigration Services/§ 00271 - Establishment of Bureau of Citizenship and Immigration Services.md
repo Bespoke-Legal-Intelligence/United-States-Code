@@ -76,7 +76,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;&emsp;(A) making policy recommendations and performing policy research and analysis on immigration services issues; and
 
-&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for theBureau of Border Security of the Department.
+&emsp;&emsp;(B) coordinating immigration policy issues with the Chief of Policy and Strategy for the Bureau of Border Security of the Department.
 
 #### (d) Legal advisor
 
@@ -120,19 +120,57 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
 
-(Pub. L. 107–296, title IV, §451, Nov. 25, 2002, 116 Stat. 2195.)
+#### (g) Office of the FBI liaison
+
+#### (1) In general
+
+&emsp;There shall be an Office of the FBI Liaison in the Department of Homeland Security.
+
+#### (2) Functions
+
+&emsp;The Office of the FBI Liaison shall monitor the progress of the functions of the Federal Bureau of Investigation in the naturalization process to assist in the expeditious completion of all such functions pertaining to naturalization applications filed by, or on behalf of—
+
+&emsp;&emsp;(A) current or former members of the Armed Forces under section 1439 or 1440 of title 8;
+
+&emsp;&emsp;(B) current spouses of United States citizens who are currently serving on active duty in the Armed Forces, who qualify for naturalization under section 1430(b) of title 8, and surviving spouses and children who qualify for naturalization under section 1430(d) of title 8; or
+
+&emsp;&emsp;(C) a deceased individual who is eligible for posthumous citizenship under section 1440–1 of title 8.
+
+#### (3) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+(Pub. L. 107–296, title IV, §451, Nov. 25, 2002, 116 Stat. 2195; Pub. L. 110–382, §2(a), Oct. 9, 2008, 122 Stat. 4087.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 4 of Pub. L. 110–382, see Termination Date of 2008 Amendment note below.</i>
 
 #### References in Text
 
 For the effective date specified in section 455, referred to in subsecs. (a)(4) and (b), see Effective Date note below.
 
+#### Amendments
+
+2008—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g). See Termination Date of 2008 Amendment note below.
+
 #### Change of Name
 
 Bureau of Border Security, referred to in subsecs. (a)(2)(C), (3)(C), and (c)(2)(B), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
+#### Termination Date of 2008 Amendment
+
+Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: “This Act \[amending this section and section 1439 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\].”
+
 #### Effective Date
 
-Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of this title\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
+Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that: “Notwithstanding section 4 \[enacting provisions set out as a note under section 101 of thistitle\], sections 451 through 456 \[enacting this section and sections 272 to 275 of this title\], and the amendments made by such sections, shall take effect on the date on which the transfer of functions specified under section 441 \[enacting section 251 of this title\] takes effect.” \[For date on which transfer of functions specified under section 441 takes effect, see section 251 of this title and Department of Homeland Security Reorganization Plan, Nov. 25, 2002, set out as a note under section 542 of this title.\]
+
+#### Rulemaking
+
+Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 9, 2008\], the Secretary of Homeland Security, in consultation with the Attorney General, shall promulgate rules to carry out the amendment made by subsection (a) \[amending this section\].”
+
+\[Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that section 2(b) of Pub. L. 110–382, set out as a note above, is repealed 5 years after Oct. 9, 2008.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

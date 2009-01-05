@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Community-based system of care
 
-&emsp;The term “community-based system of care” means the provision of services for the youth offender by various State or local agencies that in an interagency fashion or operating as a network addresses the recreational, social, educational, vocational, mental health,substance abuse, and operational needs of the youth offender.
+&emsp;The term “community-based system of care” means the provision of services for the youth offender by various State or local agencies that in an interagency fashion or operating as a network addresses the recreational, social, educational, vocational, mental health, substance abuse, and operational needs of the youth offender.
 
 #### (3) Youth offender
 

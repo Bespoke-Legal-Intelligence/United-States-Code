@@ -20,11 +20,17 @@
 
 (2) Any health care provider designated or approved under paragraph (1) shall not be employed on a regular basis by the employing agency.
 
-(d)(1) In any case in which the second opinion described in subsection (c) differs from the original certification provided under subsection (a), the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employing agency and the employee concerning the information certified under subsection (b).
+(d)(1) In any case in which the second opinion described in subsection (c) differs from the original certification provided under subsection (a),the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employing agency and the employee concerning the information certified under subsection (b).
 
 (2) The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employing agency and the employee.
 
 (e) The employing agency may require, at the expense of the agency, that the employee obtain subsequent recertifications on a reasonable basis.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 21.)
+(f) An employing agency may require that a request for leave under section 6382(a)(3) be supported by a certification issued at such time and in such manner as the Office of Personnel Management may by regulation prescribe.
+
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 21; amended Pub. L. 110–181, div. A, title V, §585(b)(3)(D), Jan. 28, 2008, 122 Stat. 132.)
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 

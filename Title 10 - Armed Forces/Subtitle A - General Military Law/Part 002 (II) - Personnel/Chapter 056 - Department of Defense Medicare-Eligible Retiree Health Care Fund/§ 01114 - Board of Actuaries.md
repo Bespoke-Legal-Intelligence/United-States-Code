@@ -2,7 +2,7 @@
 
 (a)(1) There is established in the Department of Defense a Department of Defense Medicare-Eligible Retiree Health Care Board of Actuaries (hereinafter in this chapter referred to as the “Board”). The Board shall consist of three members who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
-(2)(A) Except as provided in subparagraph (B), the members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor wasappointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
+(2)(A) Except as provided in subparagraph (B), the members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
 
 (B) Of the members of the Board who are first appointed under this paragraph, one each shall be appointed for terms ending five, ten, and 15 years, respectively, after the date of appointment, as designated by the Secretary of Defense at the time of appointment.
 

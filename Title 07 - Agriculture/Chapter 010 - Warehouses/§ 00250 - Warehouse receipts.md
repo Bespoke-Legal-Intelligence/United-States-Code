@@ -10,7 +10,7 @@ A receipt may not be issued under this section for an agricultural product unles
 
 #### (c) Contents
 
-Each receipt issued for an agricultural product stored or handled in a warehouse licensed under this chapter shall contain such information, foreach agricultural product covered by the receipt, as the Secretary may require by regulation.
+Each receipt issued for an agricultural product stored or handled in a warehouse licensed under this chapter shall contain such information, for each agricultural product covered by the receipt, as the Secretary may require by regulation.
 
 #### (d) Prohibition on additional receipts or other documents
 

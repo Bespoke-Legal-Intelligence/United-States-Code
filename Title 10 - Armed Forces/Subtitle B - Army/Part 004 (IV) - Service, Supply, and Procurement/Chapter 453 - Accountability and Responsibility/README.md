@@ -3,9 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4831\.](%C2%A7%2004831%20-%20Custody%20of%20departmental%20records%20and%20property.md) | Custody of departmental records and property. |
-| [4832\.](%C2%A7%2004832%20-%20Property%20accountability%20regulations.md) | Property accountability: regulations. |
-| \[4833 to 4835. Repealed.\] |  |
-| [4836\.](%C2%A7%2004836%20-%20Individual%20equipment%20unauthorized%20disposition.md) | Individual equipment: unauthorized disposition. |
+| \[4832 to 4836. Repealed.\] |  |
 | [4837\.](%C2%A7%2004837%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20members.md) | Settlement of accounts: remission or cancellation of indebtedness of members. |
 | [4838\.](%C2%A7%2004838%20-%20Settlement%20of%20accounts%20affidavit%20of%20company%20commander.md) | Settlement of accounts: affidavit of company commander. |
 | [4839\.](%C2%A7%2004839%20-%20Settlement%20of%20accounts%20oaths.md) | Settlement of accounts: oaths. |
@@ -16,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title III, §375(c)(2)(A), Jan. 28, 2008, 122 Stat. 84, struck out items 4832 “Property accountability: regulations” and 4836 “Individual equipment: unauthorized disposition”.
 
 2006—Pub. L. 109–163, div. A, title VI, §683(a)(2), Jan. 6, 2006, 119 Stat. 3322, struck out “enlisted” before “members” in item 4837.
 
@@ -35,11 +35,11 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04831 - Custody of departmental records and property](%C2%A7%2004831%20-%20Custody%20of%20departmental%20records%20and%20property.md)
-- [&sect; 04832 - Property accountability regulations](%C2%A7%2004832%20-%20Property%20accountability%20regulations.md)
+- [&sect; 04832 - Repealed. Pub. L. 110&#8211;181, div. A, title III, &sect;375(c)(1)(A), Jan. 28, 2008, 122 Stat. 83](%C2%A7%2004832%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7375%28c%29%281%29%28A%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%2083.md)
 - [&sect; 04833 - Repealed. Pub. L. 87&#8211;480, &sect;1(2), June 8, 1962, 76 Stat. 94](%C2%A7%2004833%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93480%2C%20%C2%A71%282%29%2C%20June%208%2C%201962%2C%2076%20Stat.%2094.md)
 - [&sect; 04834 - Repealed. Pub. L. 92&#8211;310, title II, &sect;204(a), June 6, 1972, 86 Stat. 202](%C2%A7%2004834%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93310%2C%20title%20II%2C%20%C2%A7204%28a%29%2C%20June%206%2C%201972%2C%2086%20Stat.%20202.md)
 - [&sect; 04835 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1006(c)(1), Dec. 2, 2002, 116 Stat. 2633](%C2%A7%2004835%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71006%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202633.md)
-- [&sect; 04836 - Individual equipment unauthorized disposition](%C2%A7%2004836%20-%20Individual%20equipment%20unauthorized%20disposition.md)
+- [&sect; 04836 - Repealed. Pub. L. 110&#8211;181, div. A, title III, &sect;375(c)(1)(B), Jan. 28, 2008, 122 Stat. 83](%C2%A7%2004836%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7375%28c%29%281%29%28B%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%2083.md)
 - [&sect; 04837 - Settlement of accounts remission or cancellation of indebtedness of members](%C2%A7%2004837%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20members.md)
 - [&sect; 04838 - Settlement of accounts affidavit of company commander](%C2%A7%2004838%20-%20Settlement%20of%20accounts%20affidavit%20of%20company%20commander.md)
 - [&sect; 04839 - Settlement of accounts oaths](%C2%A7%2004839%20-%20Settlement%20of%20accounts%20oaths.md)

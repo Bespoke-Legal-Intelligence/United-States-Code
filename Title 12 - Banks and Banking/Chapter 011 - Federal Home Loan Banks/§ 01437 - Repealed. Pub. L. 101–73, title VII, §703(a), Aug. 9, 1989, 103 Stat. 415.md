@@ -90,7 +90,7 @@ Continuation of Services.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the OversightBoard of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, and the Chairperson of the Federal Housing Finance Board may use the services of employees and other personnel and the property of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, on a reimbursable basis, to perform functions which have been transferred to such agencies for such time as is reasonable to facilitate the orderly transfer of functions transferred pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
 
 &emsp;“(2)
 
@@ -98,7 +98,7 @@ Reimbursement.—The reimbursement required under paragraph (1) with respect to 
 
 &emsp;“(3)
 
-Agency services.—Any agency, department, or other instrumentality of the United States (includingany Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
+Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
 
 &emsp;&emsp;“(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
@@ -188,7 +188,7 @@ Transition rule.—Until the effective date of regulations prescribed under para
 
 &emsp;“(2)
 
-Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1)shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
+Limitation on extent of coverage.—During the period beginning on the date of the enactment of this Act and ending on the effective date of regulations prescribed under paragraph (3)(B), the amount of any insured account which is required to be treated as an insured deposit pursuant to paragraph (1) shall not exceed the amount of insurance to which such insured account would otherwise have been entitled pursuant to the regulations and interpretations of the Federal Savings and Loan Insurance Corporation which were in effect on the day before the date of the enactment of this Act.
 
 &emsp;“(3)
 
@@ -280,7 +280,7 @@ Functions and Employees Transferred.—
 
 &emsp;“(1)
 
-In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary toperform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
+In general.—The Director of the Office of Thrift Supervision, the Chairperson of the Oversight Board of the Resolution Trust Corporation, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the Federal Housing Finance Board, and the Chairman of the Federal Home Loan Bank Board (as of the day before the date of the enactment of this Act \[Aug. 9, 1989\]) shall jointly determine the functions or activities of the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation, and the number of employees of such Board and Corporation necessary to perform or support such functions or activities, which are transferred from the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board, as the case may be.
 
 &emsp;“(2)
 
@@ -318,7 +318,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(6) Any employee employed by the Office of Thrift Supervision as a result of the transfer may retain membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, which such employee has on the date of enactment of this Act, if such employee does not elect to give up such membership and the benefit or program is continued by the Director of the Office of Thrift Supervision. If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director of the Office of Thrift Supervision, such employee shall be permitted to select an alternate Federal health insurance program within 30 days of such election or discontinuance, without regard to any other regularly scheduled open season.
 
-&emsp;“(7) A transferring employee in the Senior Executive Service shall be placed in a comparable position at the agency or entity to which such employee is transferred.
+&emsp;“(7) A transferring employee in the Senior Executive Service shall be placed in a comparable positionat the agency or entity to which such employee is transferred.
 
 &emsp;“(8) Transferring employees shall receive notice of their position assignments not later than 120 days after the effective date of their transfer.
 
@@ -440,7 +440,7 @@ Thrift institution.—The term ‘thrift institution’ means—
 
 &emsp;&emsp;“(B) any insured institution (within the meaning given to such term in section 401(a) of the National Housing Act \[12 U.S.C. 1724(a)\]); and
 
-&emsp;&emsp;“(C) any member (within the meaning given to such term in section 2(4) of the Federal Home Loan Bank Act \[12 U.S.C. 1422(4)\]).
+&emsp;&emsp;“(C) any member (within the meaning given to such term in section 2(4) \[now 2(3)\] of the Federal Home Loan Bank Act \[12 U.S.C. 1422(3)\]).
 
 &emsp;“(2)
 
@@ -468,7 +468,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 

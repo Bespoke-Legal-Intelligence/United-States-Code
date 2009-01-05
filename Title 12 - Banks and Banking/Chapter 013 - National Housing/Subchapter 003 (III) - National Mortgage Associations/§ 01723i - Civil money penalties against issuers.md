@@ -46,7 +46,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
+&emsp;The Secretary shall establish standards and procedures governing the imposition of civilmoney penalties under subsection (a) of this section. The standards and procedures—
 
 &emsp;&emsp;(A) shall provide for the Secretary to make the determination to impose the penalty;
 
@@ -112,7 +112,7 @@ The Secretary shall deposit all civil money penalties collected under this secti
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(A). See 1996 Amendment note below.
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (b)(1)(B). Pub. L. 104–208, §2704(d)(13)(A), which directed substitution of “Deposit InsuranceFund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 

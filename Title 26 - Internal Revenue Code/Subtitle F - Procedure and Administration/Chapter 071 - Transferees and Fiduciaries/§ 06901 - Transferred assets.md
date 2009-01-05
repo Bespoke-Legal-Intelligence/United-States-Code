@@ -20,7 +20,7 @@ The amounts of the following liabilities shall, except as hereinafter in this se
 
 #### (B) Fiduciaries
 
-&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code <sup>1</sup> in respect of the payment of any tax described insubparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
+&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code <sup>1</sup> in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
 
 #### (2) Other taxes
 
@@ -64,7 +64,7 @@ For purposes of this section, if any person is deceased, or is a corporation whi
 
 #### (f) Suspension of running of period of limitations
 
-The running of the period of limitations upon the assessment of the liability of a transferee or fiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+The running of the period of limitations upon the assessment of the liability of a transferee orfiduciary shall, after the mailing to the transferee or fiduciary of the notice provided for in section 6212 (relating to income, estate, and gift taxes), be suspended for the period during which the Secretary is prohibited from making the assessment in respect of the liability of the transferee or fiduciary (and in any event, if a proceeding in respect of the liability is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (g) Address for notice of liability
 

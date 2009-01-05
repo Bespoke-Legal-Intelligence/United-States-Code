@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (C) Contributions to qualified tuition program and Coverdell education savings accounts
 
-&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined insection 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
 
 #### (3) Eligible educational institution
 
@@ -120,9 +120,9 @@ For purposes of this section—
 
 (Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for taxable years beginning in 2008, see section 3.14 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -152,7 +152,7 @@ Subsec. (d)(2)(B). Pub. L. 107–16, §402(b)(2)(A), substituted “the exclusio
 
 Subsec. (c)(3). Pub. L. 105–206, §6004(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘eligible educational institution’ means—
 
-&emsp;“(A) an institution described in section 1201(a) or subparagraph (C) or (D) of section 481(a)(1) of the Higher Education Act of 1965 (as in effect on October 21, 1988), and
+&emsp;“(A) an institution described in section 1201(a) or subparagraph (C) or (D) of section 481(a)(1) of theHigher Education Act of 1965 (as in effect on October 21, 1988), and
 
 &emsp;“(B) an area vocational education school (as defined in subparagraph (C) or (D) of section 521(3) of the Carl D. Perkins Vocational Education Act) which is in any State (as defined in section 521(27) of such Act), as such sections are in effect on October 21, 1988.”
 

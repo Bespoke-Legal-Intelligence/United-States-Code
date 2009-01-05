@@ -26,7 +26,7 @@ In the case of an income tax return of—
 
 In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees’ trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834;Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
+Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending aftersuch date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
 #### Effective Date of 1978 Amendment
 

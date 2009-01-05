@@ -22,19 +22,31 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 &emsp;The Secretary shall not make any payment to an owner or operator under this subpart to the extent that the total amount of cost sharing payments provided to the owner or operator from all sources would exceed 100 percent of the total cost of establishing measures and practices described in paragraph (1).
 
-#### (3) Hardwood trees, windbreaks, shelterbelts, and wildlife corridors
+#### (3) Trees, windbreaks, shelterbelts, and wildlife corridors
 
 #### (A) Applicability
 
 &emsp;&emsp;This paragraph applies to—
 
-&emsp;&emsp;&emsp;(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990; and
+&emsp;&emsp;&emsp;(i) land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990;
 
-&emsp;&emsp;&emsp;(ii) land converted to such production under section 3835a of this title.
+&emsp;&emsp;&emsp;(ii) land converted to such production under section 3835a of this title; and
+
+&emsp;&emsp;&emsp;(iii) land on which an owner or operator agrees to conduct thinning authorized bysection 3832(a)(9) of this title, if the thinning is necessary to improve the condition of resources on the land.
 
 #### (B) Payments
 
-&emsp;&emsp;In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of the planting of the trees or shrubs, as determined appropriate by the Secretary.
+#### (i) Percentage
+
+&emsp;&emsp;&emsp;In making cost share payments to an owner or operator of land described in subparagraph (A), the Secretary shall pay 50 percent of the reasonable and necessary costs incurred by the owner or operator for maintaining trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator) or thinning.
+
+#### (ii) Duration
+
+&emsp;&emsp;&emsp;The Secretary shall make payments as described in clause (i) for a period of not less than 2 years, but not more than 4 years, beginning on the date of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the planting of the trees or shrubs; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the thinning of existing stands to improve the condition of resources on the land.
 
 #### (4) Hardwood tree planting
 
@@ -42,7 +54,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (5) Other Federal cost share assistance
 
-&emsp;An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistancewith respect to the land under any other provision of law.
+&emsp;An owner or operator shall not be eligible to receive or retain cost share assistance under this subsection if the owner or operator receives any other Federal cost share assistance with respect to the land under any other provision of law.
 
 #### (c) Annual rental payments
 
@@ -60,15 +72,31 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (3) Acceptance of contract offers
 
-&emsp;In determining the acceptability of contract offers, the Secretary may—
+#### (A) Evaluation of offers
 
-&emsp;&emsp;(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
+&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
 
-&emsp;&emsp;(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.
+#### (B) Establishment of different criteria in various States and regions
+
+&emsp;&emsp;The Secretary may establish different criteria for determining the acceptability of contract offers in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.
+
+#### (C) Local preference
+
+&emsp;&emsp;In determining the acceptability of contract offers for new enrollments, the Secretary shall accept, to the maximum extent practicable, an offer from an owner or operator that is a resident of the county in which the land is located or of a contiguous county if, as determined by the Secretary, the land would provide at least equivalent conservation benefits to land under competing offers.
 
 #### (4) Hardwood tree acreage
 
 &emsp;In the case of acreage enrolled in the conservation reserve established under this subpart that is to be devoted to hardwood trees, the Secretary may consider bids for contracts under this subsection on a continuous basis.
+
+#### (5) Rental rates
+
+#### (A) Annual estimates
+
+&emsp;&emsp;The Secretary (acting through the National Agricultural Statistics Service) shall conduct an annual survey of per acre estimates of county average market dryland and irrigated cash rental rates for cropland and pastureland in all counties or equivalent subdivisions within each State that have 20,000 acres or more of cropland and pastureland.
+
+#### (B) Public availability of estimates
+
+&emsp;&emsp;The estimates derived from the annual survey conducted under subparagraph (A) shall be maintained on a website of the Department of Agriculture for use by the general public.
 
 #### (d) Cash or in-kind payments
 
@@ -84,7 +112,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 &emsp;If the payment to an owner or operator is made with in-kind commodities, the payment shall be made by the Commodity Credit Corporation—
 
-&emsp;&emsp;(A) by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreed to by the Secretary and the owner or operator;
+&emsp;&emsp;(A) by delivery of the commodity involved to the owner or operator at a warehouse or other similar facility located in the county in which the highly erodible cropland is located or at such other location as is agreedto by the Secretary and the owner or operator;
 
 &emsp;&emsp;(B) by the transfer of negotiable warehouse receipts; or
 
@@ -108,21 +136,9 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (1) In general
 
-&emsp;The total amount of rental payments, including rental payments made in the form of in-kind commodities, made to a person under this subpart for any fiscal year may not exceed $50,000.
+&emsp;The total amount of rental payments, including rental payments made in the form of in-kind commodities, received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
 
-#### (2) Regulations
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary shall promulgate regulations—
-
-&emsp;&emsp;&emsp;(i) defining the term “person” as used in this subsection; and
-
-&emsp;&emsp;&emsp;(ii) providing such terms and conditions as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established by this subsection.
-
-#### (B) Corporations and stockholders
-
-&emsp;&emsp;The regulations promulgated by the Secretary on December 18, 1970, under section 1307 of title 7, shall be used to determine whether corporations and their stockholders may be considered as separate persons under this subsection.
+#### (2) Repealed. Pub. L. 110–234, title II, §2110(c)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(c)(2), June 18, 2008, 122 Stat. 1664, 1763
 
 #### (3) Other payments
 
@@ -132,7 +148,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (A) In general
 
-&emsp;&emsp;The provisions of this subsection that limit payments to any person, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note; Public Law 100–203), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special conservation reserve enhancement program carried out by that entity that has been approved by the Secretary.
+&emsp;&emsp;The provisions of this subsection that limit payments to any person or legal entity, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note; Public Law 100–203), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under a special conservation reserve enhancement program carried out by that entity that has been approved by the Secretary.
 
 #### (B) Agreements
 
@@ -142,15 +158,47 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
-(Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245.)
+(Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§2109, 2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, §4(a), title II, §§2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763.)
 
 #### References in Text
 
 The Farm Security and Rural Investment Act of 2002, referred to in subsec. (f)(3), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of Title 7, Agriculture, and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Prior Provisions
 
 A prior section 3834, Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Stat. 1511; Pub. L. 100–387, title III, §322, Aug. 11, 1988, 102 Stat. 950; Pub. L. 101–624, title XIV, §§1434, 1447(a), Nov. 28, 1990, 104 Stat. 3581, 3605, related to payments for obligations, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–246, §2109, added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+
+Subsec. (c)(3). Pub. L. 110–246, §2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
+
+&emsp;“(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
+
+&emsp;“(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.”
+
+Subsec. (c)(5). Pub. L. 110–246, §2110(b)(1), added par. (5).
+
+Subsec. (f)(1). Pub. L. 110–246, §2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
+
+Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulationsdefining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
+
+Subsec. (f)(4)(A). Pub. L. 110–246, §2110(c)(3), substituted “any person or legal entity” for “any person”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### First Survey Pursuant to Subsection (c)(5)
+
+Pub. L. 110–234, title II, §2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c) of the Food Security Act of 1985 (16 U.S.C. 3834(c)), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Conservation Research Application
 

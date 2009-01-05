@@ -28,7 +28,7 @@ Focus of Program.—The program shall be focused on research and technologies at
 
 Coordination.—(1) The Director shall coordinate the program with the international cooperation and analysis activities of the military departments and Defense Agencies.
 
-(2) The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Director of Defense Researchand Engineering such assistance as the Director may require for purposes of the program.
+(2) The Secretaries of the military departments and the directors of the Defense Agencies shall provide the Director of Defense Research and Engineering such assistance as the Director may require for purposes of the program.
 
 (e)
 

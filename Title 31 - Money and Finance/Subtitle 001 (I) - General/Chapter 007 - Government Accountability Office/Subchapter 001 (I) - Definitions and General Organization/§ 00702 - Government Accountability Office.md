@@ -122,7 +122,7 @@ Savings Provisions.—
 
 Orders and other official actions not affected.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
-&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or by a court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
+&emsp;&emsp;“(A) which have been issued, made, granted, or allowed to become effective by the Comptroller General or any official of the General Accounting Office \[now Government Accountability Office\], or bya court of competent jurisdiction, in the performance of any function or authority transferred under this Act, and
 
 &emsp;&emsp;“(B) which are in effect at the time of the transfer;
 
@@ -186,7 +186,7 @@ Pay.—Subject to any provision of law relating to pay applicable to the Office 
 
 “(d)
 
-Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, 41 U.S.C. 601 et seq.), as amended, shall apply to appeals to the Board, except that section 4 \[41 U.S.C. 603\], subsections 8(a), (b), and (c) \[41 U.S.C. 607(a)–(c)\], and subsection 10(a) \[41 U.S.C. 609(a)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[41 U.S.C. 605(c)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures forappeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
+Provisions Applicable to Appeals.—The Contract Disputes Act of 1978 (Public Law 95–563, 41 U.S.C. 601 et seq.), as amended, shall apply to appeals to the Board, except that section 4 \[41 U.S.C. 603\], subsections 8(a), (b), and (c) \[41 U.S.C. 607(a)–(c)\], and subsection 10(a) \[41 U.S.C. 609(a)\] shall not apply to such appeals and the amount of any claim referenced in subsection 6(c) \[41 U.S.C. 605(c)\] shall be $50,000. The Comptroller General shall prescribe regulations for procedures for appeals to the Board that are consistent with procedures under the Contract Disputes Act of 1978.
 
 “(e)
 

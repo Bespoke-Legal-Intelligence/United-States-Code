@@ -94,7 +94,7 @@ Section 1681u(h)(2) of title 15, referred to in subsec. (b)(4), was in the origi
 
 #### Amendments
 
-2003—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.”
 
 Subsec. (a)(1)(B). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(iii), added subpar. (B). Former subpar. (B) redesignated (A).
 
@@ -108,7 +108,7 @@ Subsec. (a)(1)(G). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignat
 
 Subsec. (a)(1)(H). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(ii), redesignated subpar. (K) as (H). Former subpar. (H) redesignated (G).
 
-Subsec. (a)(1)(I). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out former subpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by section 402a(c)(6) of this title.”
+Subsec. (a)(1)(I). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), (ii), redesignated subpar. (M) as (I) and struck out formersubpar. (I) which read as follows: “The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by section 402a(c)(6) of this title.”
 
 Subsec. (a)(1)(J). Pub. L. 108–177, §361(<i>l</i>)(1)(A)(i), struck out subpar. (J) which read as follows: “The annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets required by section 404n–3 of this title.”
 

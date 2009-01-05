@@ -42,11 +42,11 @@ If an exchange would be within the provisions of subsection (a), of section 1035
 
 #### (c) Loss from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
 
 #### (d) Basis
 
-If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property anamount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
+If property was acquired on an exchange described in this section, section 1035(a), section 1036(a), or section 1037(a), then the basis shall be the same as that of the property exchanged, decreased in the amount of any money received by the taxpayer and increased in the amount of gain or decreased in the amount of loss to the taxpayer that was recognized on such exchange. If the property so acquired consisted in part of the type of property permitted by this section, section 1035(a), section 1036(a), or section 1037(a), to be received without the recognition of gain or loss, and in part of other property, the basis provided in this subsection shall be allocated between the properties (other than money) received, and for the purpose of the allocation there shall be assigned to such other property an amount equivalent to its fair market value at the date of the exchange. For purposes of this section, section 1035(a), and section 1036(a), where as part of the consideration to the taxpayer another party to the exchange assumed (as determined under section 357(d)) a liability of the taxpayer, such assumption shall be considered as money received by the taxpayer on the exchange.
 
 #### (e) Exchanges of livestock of different sexes
 
@@ -138,9 +138,23 @@ For purposes of this section—
 
 &emsp;&emsp;Property described in any subparagraph of section 168(g)(4) shall be treated as used predominantly in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III,§3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L. 109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640.)
+#### (i) Special rules for mutual ditch, reservoir, or irrigation company stock
+
+For purposes of subsection (a)(2)(B), the term “stocks” shall not include shares in a mutual ditch, reservoir, or irrigation company if at the time of the exchange—
+
+&emsp;(1) the mutual ditch, reservoir, or irrigation company is an organization described in section 501(c)(12)(A) (determined without regard to the percentage of its income that is collected from its members for the purpose of meeting losses and expenses), and
+
+&emsp;(2) the shares in such company have been recognized by the highest court of the State in which such company was organized or by applicable State statute as constituting or representing real property or an interest in real property.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L. 109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–234, title XV, §15342(a), May 22, 2008, 122 Stat. 1518; Pub. L. 110–246, §4(a), title XV, §15342(a), June 18, 2008, 122 Stat. 1664, 2280.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (i). Pub. L. 110–246 added subsec. (i).
 
 2005—Subsec. (h)(2)(B). Pub. L. 109–135 substituted “subparagraphs” for “subparagraph” in introductory provisions.
 
@@ -163,6 +177,14 @@ Subsec. (f)(3). Pub. L. 101–508, §11701(h), substituted “section 267(b) or 
 1959—Subsecs. (b) to (d). Pub. L. 86–346 inserted references to section 1037(a) in subsecs. (b) and (c) and in first two sentences of subsec. (d).
 
 1958—Subsec. (d). Pub. L. 85–866 inserted in first sentence a comma between “exchanged” and “decreased” and “or decreased in the amount of loss”, and substituted in second sentence “subsection” for “paragraph”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XV, §15342(b), May 22, 2008, 122 Stat. 1518, and Pub. L. 110–246, §4(a), title XV, §15342(b), June 18, 2008, 122 Stat. 1664, 2280, provided that: “The amendment made by this section \[amending this section\] shall apply to exchanges completed after the date of the enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 1999 Amendment
 

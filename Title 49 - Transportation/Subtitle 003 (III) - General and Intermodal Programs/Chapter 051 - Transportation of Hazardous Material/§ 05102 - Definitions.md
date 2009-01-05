@@ -104,7 +104,7 @@ In this chapter—
 
 &emsp;(14) “United States” means all of the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1995, 109 Stat. 947; Pub. L. 109–59, title VII, §§7102, 7126, Aug. 10, 2005, 119 Stat. 1892, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 103–311, title I, §117(a)(1), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 104–88, title III, §308(d), Dec. 29, 1995, 109 Stat. 947; Pub. L. 109–59, title VII, §§7102, 7126, Aug. 10, 2005, 119 Stat. 1892, 1909; Pub. L. 110–244, title III, §302(a), June 6, 2008, 122 Stat. 1618.)
 
 Historical and Revision Notes
 
@@ -172,7 +172,7 @@ Jan. 3, 1975, Pub. L. 93–633, §103, 88 Stat. 2156; restated Nov. 16, 1990, Pu
 
 In this chapter, the words “or shipped” are omitted as being included in “transported”.
 
-In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section. The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
+In clause (1), before subclause (A), the text of 49 App.:1802(1), (3), and (13) is omitted because the complete names of the Administrator of the Environmental Protection Agency, Director of the Federal Emergency Management Agency, and Secretary of Transportation are used the first time the terms appear in a section.The words “traffic, commerce” are omitted as surplus. In subclause (B), the words “between a place in a State and a place outside of the State” are substituted for “described in clause (A)” for clarity.
 
 In clauses (3)(C) and (10)(B), the words “at a minimum” are omitted as surplus.
 
@@ -184,21 +184,23 @@ In clause (12), the words “by any mode” are omitted as surplus.
 
 #### Amendments
 
+2008—Par. (3). Pub. L. 110–244 amended Pub. L. 109–59, §7102(2). See 2005 Amendment notes below.
+
 2005—Par. (1)(C). Pub. L. 109–59, §7102(1), added subpar. (C).
 
 Par. (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
 
-Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “employed by a hazmat employer; and”.
+Par. (3)(A)(i). Pub. L. 109–59, §7102(2)(A), as amended by Pub. L. 110–244, §302(a)(1), (2), added cl. (i) and struck out former cl. (i) which read as follows: “employed by a hazmat employer; and”.
 
-Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
+Par. (3)(A)(ii). Pub. L. 109–59, §7102(2)(B), as amended by Pub. L. 110–244, §302(a)(1), (3), substituted “course of such full time, part time, or temporary employment, or such self employment,” for “course of employment” and inserted “and” at end.
 
-Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), which directed amendment of par. (3)(A) by substituting “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in subpar. (B), was executed to introductory provisions of par. (3)(B) to reflect the probable intent of Congress.
+Par. (3)(B). Pub. L. 109–59, §7102(2)(D)(i), as amended by Pub. L. 110–244, §302(a)(1), substituted “employed on a full time, part time, or temporary basis by a hazmat employer, or self employed,” for “employed by a hazmat employer,” in introductory provisions.
 
-Pub. L. 109–59, §7102(2)(C), which directed amendment of par. (3)(A) by striking subpar. (B) and redesignating subpar. (C) as (B), was executed by redesignating par. (3)(C) as (3)(B) and striking out former par. (3)(B) to reflect the probable intent of Congress. Prior to amendment, par. (3)(B) read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
+Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “includes an owner-operator of a motor vehicle transporting hazardous material in commerce; and”.
 
-Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), which directed amendment of par. (3)(A) by striking out cl. (ii) and inserting new cl. (ii) in subpar. (B), was executed by adding par. (3)(B)(ii) and striking out former par. (3)(B)(ii) to reflect the probable intent of Congress. Prior to amendment, par. (3)(B)(ii) read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
+Par. (3)(B)(ii). Pub. L. 109–59, §7102(2)(D)(ii), as amended by Pub. L. 110–244, §302(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “manufactures, reconditions, or tests containers, drums, and packagings represented as qualified for use in transporting hazardous material;”.
 
-Par. (3)(C). Pub. L. 109–59, §7102(2)(C), which directed amendment of par. (3)(A) by redesignating subpar. (C) as (B), was executed by redesignating par. (3)(C) as (3)(B) to reflect the probable intent of Congress.
+Par. (3)(C). Pub. L. 109–59, §7102(2)(C), as amended by Pub. L. 110–244, §302(a)(1), redesignated subpar. (C) as (B).
 
 Par. (4). Pub. L. 109–59, §7102(3), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (C), which included within definition of “hazmat employer” a person using at least one employee in connection with transporting or containers for transporting hazardous material, an owner-operator of a motor vehicle transporting hazardous material in commerce, and a department, agency, or instrumentality of the United States Government, or an authority of a State, political subdivision of a State, or Indian tribe, carrying out certain described activities.
 
@@ -215,4 +217,8 @@ Pars. (11) to (14). Pub. L. 109–59, §7102(8), added par. (11) and redesignate
 1995—Par. (7). Pub. L. 104–88 substituted “motor carrier, motor private” for “motor common carrier, motor contract carrier, motor private” and “section 13102” for “section 10102”.
 
 1994—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted “packagings” for “packages”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 

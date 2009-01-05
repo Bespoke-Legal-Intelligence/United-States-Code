@@ -30,6 +30,78 @@ Pub. L. 104–53, title II, §211, Nov. 19, 1995, 109 Stat. 535, as amended by P
 
 For assignment of certain emergency preparedness functions to Director of the Office of Management and Budget, see Parts 1, 2, and 28 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
+#### Comprehensive Analysis and Development of Single Government-Wide Definition of Inherently Governmental Function and Criteria for Critical Functions
+
+Pub. L. 110–417, \[div. A\], title III, §321, Oct. 14, 2008, 122 Stat. 4411, provided that:
+
+“(a)
+
+Development and Implementation.—The Director of the Office of Management and Budget, in consultation with appropriate representatives of the Chief Acquisition Officers Council under section 16A of the Office of Federal Procurement Policy Act (41 U.S.C. 414b) and the Chief Human Capital Officers Council under section 1401 of title 5, United States Code, shall—
+
+&emsp;“(1) review the definitions of the term ‘inherently governmental function’ described in subsection (b) to determine whether such definitions are sufficiently focused to ensure that only officers or employees of the Federal Government or members of the Armed Forces perform inherently governmental functions or other critical functions necessary for the mission of a Federal department or agency;
+
+&emsp;“(2) develop a single consistent definition for such term that would—
+
+&emsp;&emsp;“(A) address any deficiencies in the existing definitions, as determined pursuant to paragraph (1);
+
+&emsp;&emsp;“(B) reasonably apply to all Federal departments and agencies; and
+
+&emsp;&emsp;“(C) ensure that the head of each such department or agency is able to identify each position within that department or agency that exercises an inherently governmental function and should onlybe performed by officers or employees of the Federal Government or members of the Armed Forces;
+
+&emsp;“(3) develop criteria to be used by the head of each such department or agency to—
+
+&emsp;&emsp;“(A) identify critical functions with respect to the unique missions and structure of that department or agency; and
+
+&emsp;&emsp;“(B) identify each position within that department or agency that, while the position may not exercise an inherently governmental function, nevertheless should only be performed by officers or employees of the Federal Government or members of the Armed Forces to ensure the department or agency maintains control of its mission and operations;
+
+&emsp;“(4) in addition to the actions described under paragraphs (1), (2), and (3), provide criteria that would identify positions within Federal departments and agencies that are to be performed by officers or employees of the Federal Government or members of the Armed Forces to ensure that the head of each Federal department or agency—
+
+&emsp;&emsp;“(A) develops and maintains sufficient organic expertise and technical capability;
+
+&emsp;&emsp;“(B) develops guidance to implement the definition of inherently governmental as described in paragraph (2) and the criteria for critical functions as described in paragraph (3) in a manner that is consistent with agency missions and operational goals; and
+
+&emsp;&emsp;“(C) develops guidance to manage internal decisions regarding staffing in an integrated manner to ensure officers or employees of the Federal Government or members of the Armed Forces are filling critical management roles by identifying—
+
+&emsp;&emsp;&emsp;“(i) functions, activities, or positions, or some combination thereof, or
+
+&emsp;&emsp;&emsp;“(ii) additional mechanisms and factors, including the management or oversight of awarded contracts, statutory mandates, and international obligations; and
+
+&emsp;“(5) solicit the views of the public regarding the matters identified in this section.
+
+“(b)
+
+Definitions of Inherently Governmental Function.—The definitions of inherently governmental function described in this subsection are the definitions of such term that are contained in—
+
+&emsp;“(1) the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note);
+
+&emsp;“(2) section 2383 of title 10, United States Code;
+
+&emsp;“(3) Office of Management and Budget Circular A–76;
+
+&emsp;“(4) the Federal Acquisition Regulation; and
+
+&emsp;“(5) any other relevant Federal law or regulation, as determined by the Director of the Office of Management and Budget in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council.
+
+“(c)
+
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget, in consultation with the Chief Acquisition Officers Council and the Chief Human Capital Officers Council, shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the actions taken by the Director under this section. Such report shall contain each of the following:
+
+&emsp;“(1) A description of the actions taken by the Director under this section to develop a single definition of inherently governmental function and criteria for critical functions.
+
+&emsp;“(2) Such legislative recommendations as the Director determines are necessary to further the purposes of this section.
+
+&emsp;“(3) A description of such steps as may be necessary—
+
+&emsp;&emsp;“(A) to ensure that the single definition and criteria developed under this section are consistently applied through all Federal regulations, circulars, policy letters, agency guidance, and other documents;
+
+&emsp;&emsp;“(B) to repeal any existing Federal regulations, circular, policy letters, agency guidance and other documents determined to be superseded by the definition and criteria developed under this section; and
+
+&emsp;&emsp;“(C) to develop any necessary implementing guidance under this section for agency staffing and contracting decisions, along with appropriate milestones.
+
+“(d)
+
+Regulations.—Not later than 180 days after submission of the report required by subsection (c), the Director of the Office of Management and Budget shall issue regulations to implement actions taken under this section to develop a single definition of inherently governmental function and criteria for critical functions.”
+
 #### Public-Private Competition
 
 Pub. L. 110–161, div. D, title VII, §739, Dec. 26, 2007, 121 Stat. 2029, provided that:
@@ -66,7 +138,7 @@ Requirement for Public-Private Competition.—
 
 &emsp;&emsp;&emsp;“(i) is included on the procurement list established pursuant to section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47); or
 
-&emsp;&emsp;&emsp;“(ii) is planned to be converted to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severely handicapped individuals in accordance with that Act;
+&emsp;&emsp;&emsp;“(ii) is planned to be converted to performance by a qualified nonprofit agency for the blind or by a qualified nonprofit agency for other severelyhandicapped individuals in accordance with that Act;
 
 &emsp;&emsp;“(D) depot contracts or contracts for depot maintenance as provided in sections 2469 and 2474 of title 10, United States Code; or
 
@@ -160,7 +232,7 @@ Justification of Competitive Sourcing Activities.—(1) In each budget submitted
 
 “(f)
 
-Competitive Sourcing Study Defined.—In this subsection \[probably means “this section”\], the term ‘competitive sourcing study’ means a study on subjecting work performed by Federal Government employees or private contractors to public-private competition oron converting the Federal Government employees or the work performed by such employees to private contractor performance under the Office of Management and Budget Circular A–76 or any other administrative regulation, directive, or policy.”
+Competitive Sourcing Study Defined.—In this subsection \[probably means “this section”\], the term ‘competitive sourcing study’ means a study on subjecting work performed by Federal Government employees or private contractors to public-private competition or on converting the Federal Government employees or the work performed by such employees to private contractor performance under the Office of Management and Budget Circular A–76 or any other administrative regulation, directive, or policy.”
 
 #### Study of Policies and Procedures for Transfer of Commercial Activities
 
@@ -376,7 +448,7 @@ Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that
 
 #### Department of Commerce Franchise Fund Pilot
 
-Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
+Pub. L. 108–199, div. B, title II, §206, Jan. 23, 2004, 118 Stat. 73, provided that: “Hereafter, the Secretary of Commerce may use the Commerce franchise fund for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services, pursuant to section 403 of Public Law 103–356 \[set out below\]: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 2004 and each fiscal year thereafter, to remain available until expended, to be used forthe acquisition of capital equipment, and for the improvement and implementation of department financial management, automated data processing, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2004 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[118 Stat. 93\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -408,6 +480,8 @@ Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 #### Department of Homeland Security Working Capital Fund
 
+Pub. L. 110–329, div. D, title V, §504, Sept. 30, 2008, 122 Stat. 3680, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2009: <i>Provided</i>, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2009 budget: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: <i>Provided further</i>, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: <i>Provided further</i>, That such fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: <i>Provided further</i>, That the Working Capital Fund shall be subject to the requirements of section 503 of this Act \[122 Stat. 3679\].”
+
 Pub. L. 110–161, div. E, title V, §524, Dec. 26, 2007, 121 Stat. 2074, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations during fiscal year 2008.”
 
 Similar provisions were contained in the following prior appropriation act:
@@ -418,7 +492,7 @@ Pub. L. 109–13, div. A, title VI, §6025, May 11, 2005, 119 Stat. 287, provide
 
 Pub. L. 108–90, title V, §506, Oct. 1, 2003, 117 Stat. 1153, provided in part: “That such fund \[Federal Emergency Management Agency Working Capital Fund\] shall hereafter be known as the ‘Department of Homeland Security Working Capital Fund’.”
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Administrator determines maybe performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Administrator: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Administrator at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
@@ -592,7 +666,7 @@ The Council shall perform such functions as the President may from time to time 
 
 #### Sec. 203. Executive Director
 
-The staff of the Council shall be headed by an Executive Director who shall be an assistant to the Presidentdesignated by the President. The Executive Director shall perform such functions as the President may from time to time direct.
+The staff of the Council shall be headed by an Executive Director who shall be an assistant to the President designated by the President. The Executive Director shall perform such functions as the President may from time to time direct.
 
 #### PART III. TAKING EFFECT
 
@@ -646,7 +720,7 @@ The past year's experience with the Council for Urban Affairs has shown how imme
 
 The Domestic Council will be chaired by the President. Under the plan, its membership will include the Vice President, and the Secretaries of the Treasury, Interior, Agriculture, Commerce, Labor, Health, Education and Welfare, Housing and Urban Development, and Transportation, and the Attorney General. I also intend to designate as members the Director of the Office of Economic Opportunity and, while he remains a member of the Cabinet, the Postmaster General. (Although I continue to hope that the Congress will adopt my proposal to create, in place of the Post Office Department, a self-sufficient postal authority.) The President could add other Executive Branch officials at his discretion.
 
-The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with the President's personal staff but will have its own institutional identity. By being established on a permanent, institutional basis, it will be designed to develop and employ the “institutional memory” so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
+The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with thePresident's personal staff but will have its own institutional identity. By being established on a permanent, institutional basis, it will be designed to develop and employ the “institutional memory” so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
 
 There does not now exist an organized, institutionally-staffed group charged with advising the President on the total range of domestic policy. The Domestic Council will fill that need. Under the President's direction, it will also be charged with integrating the various aspects of domestic policy into a consistent whole.
 
@@ -738,7 +812,7 @@ Section 1. (a) All functions transferred to the President of the United States b
 
 (3) Providing primary Executive Branch leadership in (i) developing and reviewing a program of policy guidance to departments and agencies for the organization of management responsibility under the Federal Labor Relations program; and (ii) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
 
-Sec. 2. (a) Under the direction of the President and subject to such further instructions as the President from time to time may issue, the Domestic Council in the Executive Office of the President shall (1) receive and develop information necessary for assessing national domestic needs and defining national domestic goals, and develop for the President alternative proposals for reaching those goals; (2) collaborate with the Office of Management and Budget and others in the determination of national domestic priorities for the allocation of available resources; (3) collaborate with the Office of Management and Budget and others to assure a continuing review of ongoing programs from the standpoint of their relative contributions to national goals as compared with their use of available resources; and (4) provide policy advice to the President on domestic issues.
+Sec. 2. (a) Under the direction of the President and subject to such further instructions as the President from time to time may issue, the Domestic Council in the Executive Office of the President shall (1) receiveand develop information necessary for assessing national domestic needs and defining national domestic goals, and develop for the President alternative proposals for reaching those goals; (2) collaborate with the Office of Management and Budget and others in the determination of national domestic priorities for the allocation of available resources; (3) collaborate with the Office of Management and Budget and others to assure a continuing review of ongoing programs from the standpoint of their relative contributions to national goals as compared with their use of available resources; and (4) provide policy advice to the President on domestic issues.
 
 (b) The organizations listed herein are terminated and the functions heretofore assigned to them shall be performed by the Domestic Council:
 
@@ -810,7 +884,7 @@ Section 1. The following functions which heretofore have been performed by the D
 
 (b) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels, work-years and personnel costs of Federal civilian employees.
 
-(c) Providing primary Executive Branch leadership in (1) developing and reviewing a program of policy guidance to departments and agencies for the organizationof management's responsibility under the Federal Labor Relations program; and (2) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
+(c) Providing primary Executive Branch leadership in (1) developing and reviewing a program of policy guidance to departments and agencies for the organization of management's responsibility under the Federal Labor Relations program; and (2) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
 
 Sec. 2. Section 1 of Executive Order No. 11541, as amended \[set out above\], is further amended by adding thereto the following new subsection:
 
@@ -870,7 +944,7 @@ Sec. 2. Executive Order No. 10253 of July 11, 1951, as amended \[31 U.S.C. 1104 
 
 (d) Section 7 is deleted and a new Section 7 is substituted therefor as follows:
 
-“Sec. 7. As required by Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), the Director shall redelegate to the Administrator for the Office of Information and Regulatory Affairs, Office of Management and Budget, all functions, authority, and responsibility under Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] which have been vested in the Director by this Order.”
+“Sec. 7. As required by Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note),the Director shall redelegate to the Administrator for the Office of Information and Regulatory Affairs, Office of Management and Budget, all functions, authority, and responsibility under Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] which have been vested in the Director by this Order.”
 
 (e) Section 8 is revoked.
 
@@ -946,11 +1020,11 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12625
 
-Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, which established President's Council on Integrity and Efficiency as an interagency committee, was revoked by Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, set out below.
+Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, which established President's Council on Integrity and Efficiency as an interagency committee, was revoked by Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, formerly set out below.
 
 #### Executive Order No. 12637
 
-Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, which established a productivity improvement program forthe Federal Government, was revoked by Ex. Ord. No. 13048, §5, June 10, 1997, 62 F.R. 32469, set out below.
+Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, which established a productivity improvement program for the Federal Government, was revoked by Ex. Ord. No. 13048, §5, June 10, 1997, 62 F.R. 32469, set out below.
 
 #### Ex. Ord. No. 12803. Infrastructure Privatization
 
@@ -998,99 +1072,9 @@ Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the inter
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12805. Integrity and Efficiency in Federal Programs
+#### Executive Order No. 12805
 
-Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to coordinate and enhance governmental efforts to promote integrity and efficiency and to detect and prevent fraud, waste, and abuse in Federal programs, the establishment of two Councils of Federal Inspectors General and appropriate Federal officials is hereby ordered as follows:
-
-Section 1. <i>Establishment of the President's Council on Integrity and Efficiency.</i>
-
-(a) There is established as an interagency committee the President's Council on Integrity and Efficiency (PCIE).
-
-(b) The PCIE shall be composed of the following members:
-
-&emsp;(1) The Deputy Director for Management of the Office of Management and Budget, who shall be Chairperson of the Council;
-
-&emsp;(2) All civilian Presidentially appointed Inspectors General whose offices were established in the Inspector General Act of 1978 \[5 U.S.C. App.\] and subsequent amendments;
-
-&emsp;(3) The Vice Chairperson of the Executive Council on Integrity and Efficiency;
-
-&emsp;(4) The Controller of the Office of Federal Financial Management;
-
-&emsp;(5) The Associate Deputy Director for Investigations of the Federal Bureau of Investigation;
-
-&emsp;(6) The Director of the Office of Government Ethics;
-
-&emsp;(7) The Special Counsel of the Office of Special Counsel; and
-
-&emsp;(8) The Deputy Director of the Office of Personnel Management.
-
-(c) The Chairperson may, from time to time, invite other officials to participate in meetings of the PCIE.
-
-(d) The Chairperson shall, to the extent possible, convene meetings of the PCIE monthly.
-
-Sec. 2. <i>Establishment of the Executive Council on Integrity and Efficiency.</i>
-
-(a) There is established as an inter-entity committee the Executive Council on Integrity and Efficiency (ECIE).
-
-(b) The ECIE shall be composed of the following members:
-
-&emsp;(1) The Deputy Director for Management of the Office of Management and Budget, who shall be Chairperson of the Council;
-
-&emsp;(2) All civilian statutory Inspectors General not represented on the PCIE;
-
-&emsp;(3) The Vice Chairperson of the PCIE;
-
-&emsp;(4) The Controller of the Office of Federal Financial Management;
-
-&emsp;(5) The Associate Deputy Director for Investigations of the Federal Bureau of Investigation, or his or her designee;
-
-&emsp;(6) The Director of the Office of Government Ethics, or his or her designee;
-
-&emsp;(7) The Special Counsel of the Office of Special Counsel, or his or her designee; and
-
-&emsp;(8) The Deputy Director of the Office of Personnel Management, or his or her designee.
-
-(c) If any individual simultaneously serves as a Presidentially appointed Inspector General and as Inspector General of an entity represented on the ECIE, that individual may send a designee to ECIE meetings.
-
-(d) The Chairperson may, from time to time, invite other officials to participate in meetings of the ECIE.
-
-(e) The Chairperson or, in his or her absence, the Controller of the Office of Federal Financial Management shall, to the extent possible, convene meetings of the ECIE monthly.
-
-Sec. 3. <i>Functions of the PCIE and the ECIE.</i>
-
-(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
-
-(b) The Councils shall develop policies that will aid in the establishment of a corps of well-trained and highly skilled Office of Inspector General staff members.
-
-(c) The individual members of the Councils should, to the extent permitted under law, adhere to professional standards developed by the Councils and participate in the plans, programs, and projects of the Councils.
-
-(d) The creation and operation of the Councils shall neither interfere with existing authority and responsibilities in the relevant agencies and entities nor augment or diminish the statutory authority or responsibilities of individual members of either Council.
-
-Sec. 4. <i>Responsibilities of the Chairperson of the PCIE and the ECIE.</i>
-
-(a) The Chairperson may appoint a Vice Chairperson from the PCIE and the ECIE to assist in carrying out the functions of each Council.
-
-(b) The Chairperson shall, in consultation with the members of each Council, establish the agenda for PCIE and ECIE activities.
-
-(c) The Chairperson shall, on behalf of the Councils, report to the President on the activities of the Councils. The Chairperson shall, as appropriate, advise the Councils with respect to the President's consideration of the Councils’ activities.
-
-(d) The Chairperson shall provide agency and entity heads with summary reports of the activities of the Councils.
-
-(e) The Chairperson shall establish, in consultation with members of the Councils, such committees of the PCIE and the ECIE as deemed necessary and appropriate for the efficient conduct of PCIE and ECIE functions. The Chairperson may invite members of the ECIE to serve on each PCIE Committee. Similarly, the Chairperson may invite members of the PCIE to serve on each ECIE Committee.
-
-(f) The Chairperson shall convene joint meetings of the PCIE and the ECIE at least annually.
-
-Sec. 5. <i>Administrative Provisions.</i>
-
-(a) The Director of the Office of Management and Budget shall provide the PCIE and the ECIE with such administrative support as may be necessary for the performance of the functions of the Councils.
-
-(b) The heads of agencies and entities represented on the PCIE and the ECIE shall provide their representatives with such administrative support as may be necessary, in accordance with law, to enable the representatives to carry out their responsibilities.
-
-Sec. 6. <i>Revocation</i>. Executive Order No. 12625 of January 27, 1988, entitled “Integrity and Efficiency in Federal Programs,” is revoked.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, which related to integrity and efficiency in Federal programs, was omitted from the Code pursuant to Pub. L. 110–409, §7(c)(2), Oct. 14, 2008, 122 Stat. 4313, which provided that Ex. Ord. No. 12805, as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See section 7(c)(2) of Pub. L. 110–409, set out as an Effective Date; Existing Executive Orders note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12816
 

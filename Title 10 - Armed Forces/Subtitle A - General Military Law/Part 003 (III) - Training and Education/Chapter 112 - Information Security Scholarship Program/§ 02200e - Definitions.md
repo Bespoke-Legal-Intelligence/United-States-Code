@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(C) Any other information technology that the Secretary of Defense considers related to information assurance.
 
-&emsp;(2) The term “institution of higher education” has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+&emsp;(2) The term “institution of higher education” has the meaning given the term insection 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 &emsp;(3) The term “Center of Academic Excellence in Information Assurance Education” means an institution of higher education that is designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education.
 

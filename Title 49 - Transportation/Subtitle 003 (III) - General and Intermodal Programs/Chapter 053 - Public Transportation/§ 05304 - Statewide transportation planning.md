@@ -318,7 +318,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pu
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted ofsubsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
 
 1998—Subsec. (a). Pub. L. 105–178, §3005(d)(1), as added by Pub. L. 105–206, §9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -326,7 +326,7 @@ Pub. L. 105–178, §3005(a), in second sentence, substituted “the metropolita
 
 Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out “and” at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directedamendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
 Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
 

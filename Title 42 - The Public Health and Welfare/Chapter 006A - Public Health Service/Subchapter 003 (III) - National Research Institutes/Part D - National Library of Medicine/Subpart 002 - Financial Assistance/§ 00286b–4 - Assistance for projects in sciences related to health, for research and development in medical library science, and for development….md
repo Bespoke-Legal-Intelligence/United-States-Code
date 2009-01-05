@@ -2,7 +2,7 @@
 
 #### (a) Compilation of existing and original writings on health
 
-The Secretary shall make grants to physicians and other practitioners in the sciences relatedto health, to scientists, and to public or nonprofit private institutions on behalf of such physicians, other practitioners, and scientists for the compilation of existing, or the writing of original, contributions relating to scientific, social, or cultural advancements in sciences related to health. In making such grants, the Secretary shall make appropriate arrangements under which the facilities of the Library and the facilities of libraries of public and private nonprofit institutions of higher learning may be made available in connection with the projects for which such grants are made.
+The Secretary shall make grants to physicians and other practitioners in the sciences related to health, to scientists, and to public or nonprofit private institutions on behalf of such physicians, other practitioners, and scientists for the compilation of existing, or the writing of original, contributions relating to scientific, social, or cultural advancements in sciences related to health. In making such grants, the Secretary shall make appropriate arrangements under which the facilities of the Library and the facilities of libraries of public and private nonprofit institutions of higher learning may be made available in connection with the projects for which such grants are made.
 
 #### (b) Medical library science and related activities
 
@@ -22,7 +22,7 @@ The Secretary shall make grants to appropriate public or private nonprofit insti
 
 &emsp;(D) the testing of new technologies for training health care professionals.
 
-(3) The Secretary may not make a grant under paragraph (1) unless the applicant for the grant agrees to make the projects available with respect to—
+(3) The Secretary may not make a grant under paragraph (1) unless the applicant for the grantagrees to make the projects available with respect to—
 
 &emsp;(A) assisting in the training of health professions students; and
 

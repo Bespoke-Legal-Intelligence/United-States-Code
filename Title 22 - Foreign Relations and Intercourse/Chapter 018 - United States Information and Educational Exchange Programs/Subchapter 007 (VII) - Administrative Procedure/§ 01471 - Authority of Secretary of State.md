@@ -12,7 +12,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(5) to employ persons on a temporary basis without regard to the civil service and classification laws, when such employment is provided for by the pertinent appropriation Act;
 
-&emsp;(6) to create such advisory committees as the Secretary may decide to be of assistance in formulating his policies for carrying outthe purposes of this chapter. No committee member shall be allowed any salary or other compensation for services; but he may be paid his transportation and other expenses, as authorized by section 5703 of title 5; and
+&emsp;(6) to create such advisory committees as the Secretary may decide to be of assistance in formulating his policies for carrying out the purposes of this chapter. No committee member shall be allowed any salary or other compensation for services; but he may be paid his transportation and other expenses, as authorized by section 5703 of title 5; and
 
 &emsp;(7) notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for overseas public diplomacy facilities not physically located together with other Department of State facilities abroad.
 

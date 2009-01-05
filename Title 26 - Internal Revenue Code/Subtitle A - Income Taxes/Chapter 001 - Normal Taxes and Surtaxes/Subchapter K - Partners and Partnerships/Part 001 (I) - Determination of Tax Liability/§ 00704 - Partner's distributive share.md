@@ -42,7 +42,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;&emsp;(A) property contributed by a partner (hereinafter referred to as the “contributing partner”) is distributed by the partnership to another partner, and
 
-&emsp;&emsp;(B) other property of a like kind (within the meaning of section 1031) is distributed by the partnership to the contributing partner not later than the earlier of—
+&emsp;&emsp;(B) other property of a like kind (within the meaning of section 1031) is distributed bythe partnership to the contributing partner not later than the earlier of—
 
 &emsp;&emsp;&emsp;(i) the 180th day after the date of the distribution described in subparagraph (A), or
 

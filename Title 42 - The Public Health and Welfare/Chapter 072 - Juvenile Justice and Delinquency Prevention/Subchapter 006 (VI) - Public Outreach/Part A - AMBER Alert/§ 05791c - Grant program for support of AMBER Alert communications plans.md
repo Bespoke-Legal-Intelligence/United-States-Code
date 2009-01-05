@@ -22,7 +22,7 @@ The Federal share of the cost of any activities funded by a grant under the prog
 
 #### (d) Distribution of grant amounts on geographic basis
 
-The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) of this section on an equitable basis throughout the various regions of the United States.
+The Attorney General shall, to the maximum extent practicable, ensure the distribution ofgrants under the program under subsection (a) of this section on an equitable basis throughout the various regions of the United States.
 
 #### (e) Administration
 

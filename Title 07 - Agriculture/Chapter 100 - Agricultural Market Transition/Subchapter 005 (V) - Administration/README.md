@@ -11,3 +11,4 @@
 - [&sect; 07284 - Personal liability of producers for deficiencies](%C2%A7%2007284%20-%20Personal%20liability%20of%20producers%20for%20deficiencies.md)
 - [&sect; 07285 - Commodity Credit Corporation sales price restrictions](%C2%A7%2007285%20-%20Commodity%20Credit%20Corporation%20sales%20price%20restrictions.md)
 - [&sect; 07286 - Commodity certificates](%C2%A7%2007286%20-%20Commodity%20certificates.md)
+- [&sect; 07287 - Commodity Credit Corporation storage payments](%C2%A7%2007287%20-%20Commodity%20Credit%20Corporation%20storage%20payments.md)

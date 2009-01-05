@@ -48,7 +48,7 @@ R.S. 1314 (words before semicolon).
 
 July 26, 1894, ch. 167 (words after semicolon in 7th clause), 28 Stat. 151.
 
-In subsection (a), the word “detailed” is substituted for the word “selected”, in 10:1062, and for the word“appointed”, in 10:1063, since historically the offices of superintendent and commandant of cadets have been filled by detail. The words “assistant professors, acting assistant professors, and the adjutant”, in 10:1063, are omitted as covered by the word “officers”, in 10:1062. The words “except the permanent professors” are inserted to conform to 10:1062.
+In subsection (a), the word “detailed” is substituted for the word “selected”, in 10:1062, and for the word “appointed”, in 10:1063, since historically the offices of superintendent and commandant of cadets have been filled by detail. The words “assistant professors, acting assistant professors, and the adjutant”, in 10:1063, are omitted as covered by the word “officers”, in 10:1062. The words “except the permanent professors” are inserted to conform to 10:1062.
 
 In subsection (b), the words “by and with the advice and consent of the Senate” are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to make these appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by section 4349(b) of this title.
 

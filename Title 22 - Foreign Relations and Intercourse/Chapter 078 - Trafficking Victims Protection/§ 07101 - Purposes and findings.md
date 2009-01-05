@@ -10,7 +10,7 @@ Congress finds that:
 
 &emsp;(1) As the 21st century begins, the degrading institution of slavery continues throughout the world. Trafficking in persons is a modern form of slavery, and it is the largest manifestation of slavery today. At least 700,000 persons annually, primarily women and children, are trafficked within or across international borders. Approximately 50,000 women and children are trafficked into the United States each year.
 
-&emsp;(2) Many of these persons are trafficked into the international sex trade, often by force, fraud, or coercion. The sex industry has rapidly expanded over the past several decades. It involves sexual exploitation of persons, predominantly women and girls, involving activities related to prostitution, pornography, sex tourism, and other commercial sexual services. The low status of women in many partsof the world has contributed to a burgeoning of the trafficking industry.
+&emsp;(2) Many of these persons are trafficked into the international sex trade, often by force, fraud, or coercion. The sex industry has rapidly expanded over the past several decades. It involves sexual exploitation of persons, predominantly women and girls, involving activities related to prostitution, pornography, sex tourism, and other commercial sexual services. The low status of women in many parts of the world has contributed to a burgeoning of the trafficking industry.
 
 &emsp;(3) Trafficking in persons is not limited to the sex industry. This growing transnational crime also includes forced labor and involves significant violations of labor, public health, and human rights standards worldwide.
 
@@ -62,6 +62,10 @@ Congress finds that:
 
 This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–457, §1(a), Dec. 23, 2008, 122 Stat. 5044, provided that: “This Act \[see Tables for classification\] may be cited as the ‘William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–164, §1(a), Jan. 10, 2006, 119 Stat. 3558, provided that: “This Act \[enacting sections 7111 and 7112 of this title, sections 2428, 3271, and 3272 of Title 18, Crimes and Criminal Procedure, and sections 14044 to 14044e of Title 42, The Public Health and Welfare, amending sections 4028, 7103 to 7107, 7109a, and 7110 of this title and sections 1956 and 1961 of Title 18, and enacting provisions set out as notes under this section and sections 7105 and 7106 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2005’.”
@@ -72,9 +76,37 @@ Pub. L. 108–193, §1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Ac
 
 #### Short Title
 
-Pub. L. 106–386, §1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
+Pub. L. 106–386, §1, Oct. 28, 2000, 114 Stat. 1464, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Victims of Trafficking and Violence Protection Act of 2000’.”
 
 Pub. L. 106–386, div. A, §101, Oct. 28, 2000, 114 Stat. 1466, provided that: “This division \[enacting this chapter, section 2152d of this title, and sections 1589 to 1594 of Title 18, Crimes and Criminal Procedure, and amending sections 2151n and 2304 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1581, 1583, and 1584 of Title 18\] may be cited as the ‘Trafficking Victims Protection Act of 2000’.”
+
+#### Promoting Effective State Enforcement
+
+Pub. L. 110–457, title II, §225, Dec. 23, 2008, 122 Stat. 5072, provided that:
+
+“(a)
+
+Relationship Among Federal and State Law.—Nothing in this Act \[see Short Title of 2008 Amendment note above\], the Trafficking Victims Protection Act of 2000 \[see Short Title note above\], the Trafficking Victims Protection Reauthorization Act of 2003 \[see Short Title of 2003 Amendment note above\], the Trafficking Victims Protection Reauthorization Act of 2005 \[see Short Title of 2006 Amendment note above\], chapters 77 and 117 of title 18, United States Code, or any model law issued by the Department of Justice to carry out the purposes of any of the aforementioned statutes—
+
+&emsp;“(1) may be construed to treat prostitution as a valid form of employment under Federal law; or
+
+&emsp;“(2) shall preempt, supplant, or limit the effect of any State or Federal criminal law.
+
+“(b)
+
+Model State Criminal Provisions.—In addition to any model State antitrafficking statutes in effect on the date of the enactment of this Act \[Dec. 23, 2008\], the Attorney General shall facilitate the promulgation of a model State statute that—
+
+&emsp;“(1) furthers a comprehensive approach to investigation and prosecution through modernization of State and local prostitution and pandering statutes; and
+
+&emsp;“(2) is based in part on the provisions of the Act of August 15, 1935 (49 Stat. 651; D.C. Code 22–2701 et seq.) (relating to prostitution and pandering).
+
+“(c)
+
+Distribution.—The model statute described in subsection (b) and the text of chapter 27 of the Criminal Code of the District of Columbia (D.C. Code 22–2701 et seq.) shall be—
+
+&emsp;“(1) posted on the website of the Department of Justice; and
+
+&emsp;“(2) distributed to the Attorney General of each State.”
 
 #### Congressional Findings
 
@@ -90,7 +122,7 @@ Pub. L. 109–164, §2, Jan. 10, 2006, 119 Stat. 3558, provided that: “Congres
 
 &emsp;“(5) No known studies exist that quantify the problem of trafficking in children for the purpose of commercial sexual exploitation in the United States. According to a report issued by researchers at the University of Pennsylvania in 2001, as many as 300,000 children in the United States are at risk for commercial sexual exploitation, including trafficking, at any given time.
 
-&emsp;“(6) Runaway and homeless children in the United States are highly susceptible to being domestically trafficked for commercial sexual exploitation. According to the National Runaway Switchboard, everyday in the United States, between 1,300,000 and 2,800,000 runaway and homeless youth live on the streets. One out of every seven children will run away from home before the age of 18.
+&emsp;“(6) Runaway and homeless children in the United States are highly susceptible to being domestically trafficked for commercial sexual exploitation. According to the National Runaway Switchboard, every day in the United States, between 1,300,000 and 2,800,000 runaway and homeless youth live on the streets. One out of every seven children will run away from home before the age of 18.
 
 &emsp;“(7) Following armed conflicts and during humanitarian emergencies, indigenous populations face increased security challenges and vulnerabilities which result in myriad forms of violence, including trafficking for sexual and labor exploitation. Foreign policy and foreign aid professionals increasingly recognize the increased activity of human traffickers in post-conflict settings and during humanitarian emergencies.
 
@@ -114,5 +146,5 @@ Pub. L. 108–193, §2, Dec. 19, 2003, 117 Stat. 2875, provided that: “Congres
 
 &emsp;“(5) Corruption among foreign law enforcement authorities continues to undermine the efforts by governments to investigate, prosecute, and convict traffickers.
 
-&emsp;“(6) International Law Enforcement Academies should be more fully utilized in the effort to train law enforcement authorities, prosecutors, and members of the judiciary to address trafficking in persons-related crimes.”
+&emsp;“(6) International Law Enforcement Academies should be more fully utilized in the effort to train lawenforcement authorities, prosecutors, and members of the judiciary to address trafficking in persons-related crimes.”
 

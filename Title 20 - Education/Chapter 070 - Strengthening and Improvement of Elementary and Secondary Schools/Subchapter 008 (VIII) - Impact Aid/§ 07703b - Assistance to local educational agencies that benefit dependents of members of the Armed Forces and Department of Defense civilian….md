@@ -114,7 +114,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Plan and Authority To Assist Local Educational Agencies Experiencing Growth in Enrollment Due to Force Structure Changes, Relocation of Military Units, or Base Closures and Realignments
 
-Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, provided that:
+Pub. L. 109–364, div. A, title V, §574, Oct. 17, 2006, 120 Stat. 2226, as amended by Pub. L. 110–181, div. A, title V, §573, Jan. 28, 2008, 122 Stat. 120; Pub. L. 110–417, \[div. A\], title V, §553, Oct. 14, 2008, 122 Stat. 4469, provided that:
 
 “(a)
 
@@ -148,7 +148,19 @@ Updated Reports.—Not later than March 1, 2008, and annually thereafter to coin
 
 “(d)
 
-Transition of Military Dependents From Department of Defense Dependent Schools to Other Schools.—During the period beginning on the date of the enactment of this Act \[Oct. 17, 2006\] and ending on September 30, 2011, the Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transition of military dependent students from attendance in Department of Defense dependent schools to attendance in schools of local educational agencies. The Secretary of Defense may use funds of the Department of Defense Education Activity to share expertise and experience of the Activity with local educational agencies as military dependent students make such transition, including such a transition resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.
+Transition of Military Dependents Among Local Educational Agencies.—(1) The Secretary of Defense shall work collaboratively with the Secretary of Education in any efforts to ease the transitions of military dependent students from Department of Defense dependent schools to other schools and among schools of local educational agencies.
+
+“(2) The Secretary of Defense may use funds of the Department of Defense Education Activity for the following purposes:
+
+&emsp;“(A) To share expertise and experience of the Activity with local educational agencies as military dependent students make the transitions described in paragraph (1), including transitions resulting from the closure or realignment of military installations under a base closure law, global rebasing, and force restructuring.
+
+&emsp;“(B) To provide programs for local educational agencies with military dependent students undergoing the transitions described in paragraph (1), including—
+
+&emsp;&emsp;“(i) distance learning programs; and
+
+&emsp;&emsp;“(ii) training programs to improve the ability of military dependent students who attend public schools in the United States and their teachers to meet the educational needs of such students.
+
+“(3) The authority provided by this subsection expires September 30, 2013.
 
 “(e)
 
@@ -160,9 +172,11 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘military dependent students’ refers to—
 
-&emsp;&emsp;“(A) elementary and secondary school students who are dependents of members of the Armed Forces; and
+&emsp;&emsp;“(A) elementary and secondary school students who are dependents of members of the Armed Forces;
 
-&emsp;&emsp;“(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense.”
+&emsp;&emsp;“(B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense; and
+
+&emsp;&emsp;“(C) elementary and secondary school students who are dependents of personnel who are not members of the Armed Forces or civilian employees of the Department of Defense but who are employed on Federal property.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

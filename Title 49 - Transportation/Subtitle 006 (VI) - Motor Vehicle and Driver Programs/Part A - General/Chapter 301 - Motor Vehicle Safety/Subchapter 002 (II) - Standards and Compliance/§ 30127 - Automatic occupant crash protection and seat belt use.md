@@ -18,7 +18,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 &emsp;(A) 95 percent of each manufacturer's annual production of passenger cars manufactured after August 31, 1996, and before September 1, 1997.
 
-&emsp;(B) 80 percent of each manufacturer's annual production of buses, multipurpose passenger vehicles, and trucks (except walk-in van-typetrucks and vehicles designed to be sold only to the United States Postal Service) with a gross vehicle weight rating of not more than 8,500 pounds and an unloaded vehicle weight of not more than 5,500 pounds manufactured after August 31, 1997, and before September 1, 1998.
+&emsp;(B) 80 percent of each manufacturer's annual production of buses, multipurpose passenger vehicles, and trucks (except walk-in van-type trucks and vehicles designed to be sold only to the United States Postal Service) with a gross vehicle weight rating of not more than 8,500 pounds and an unloaded vehicle weight of not more than 5,500 pounds manufactured after August 31, 1997, and before September 1, 1998.
 
 &emsp;(C) 100 percent of each manufacturer's annual production of passenger cars manufactured after August 31, 1997.
 
@@ -222,7 +222,7 @@ Elements for Consideration.—In the rulemaking proceeding required by subsectio
 
 “(c)
 
-Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) not later than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
+Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) notlater than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
 
 #### “SEC. 4. DEVELOPMENT OF ANTHROPOMORPHIC TEST DEVICE SIMULATING A 10-YEAR OLD CHILD.
 
@@ -338,7 +338,7 @@ Elements for Consideration.—In the rulemaking required by subsection (a), the 
 
 “(c)
 
-Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing the final rule, specifically why the Secretary did not incorporate any such element in the final rule.
+Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing thefinal rule, specifically why the Secretary did not incorporate any such element in the final rule.
 
 “(d)
 

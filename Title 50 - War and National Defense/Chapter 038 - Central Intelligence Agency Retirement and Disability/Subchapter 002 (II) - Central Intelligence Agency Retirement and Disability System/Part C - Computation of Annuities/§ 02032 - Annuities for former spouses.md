@@ -44,7 +44,7 @@
 
 &emsp;Notwithstanding paragraph (3), in the case of a former spouse of a disability annuitant—
 
-&emsp;&emsp;(A) the annuity of that former spouse shall commence on the date on which the participant would qualify on the basis of the participant's creditable service for an annuity under this subchapter (other than a disability annuity) or the date on which the disability annuity begins, whichever is later, and
+&emsp;&emsp;(A) the annuity of that former spouse shall commence on the date on which the participant would qualify on the basis of the participant's creditable service for an annuityunder this subchapter (other than a disability annuity) or the date on which the disability annuity begins, whichever is later, and
 
 &emsp;&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
@@ -158,7 +158,7 @@ A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §
 
 #### Amendments
 
-1993—Subsec. (a)(7). Pub. L. 103–178, §202(a)(5)(A), substituted “any survivor annuity” for “any other annuity”.
+<b>1993</b>—Subsec. (a)(7). Pub. L. 103–178, §202(a)(5)(A), substituted “any survivor annuity” for “any other annuity”.
 
 Subsec. (c)(3)(C). Pub. L. 103–178, §202(a)(5)(B), inserted “the participant” before “or does not qualify”.
 

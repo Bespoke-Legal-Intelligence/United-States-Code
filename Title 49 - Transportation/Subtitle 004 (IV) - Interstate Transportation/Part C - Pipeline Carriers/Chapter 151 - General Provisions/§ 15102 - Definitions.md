@@ -24,7 +24,7 @@ Transportation.—The term “transportation” includes—
 
 &emsp;&emsp;(A) property, facilities, instrumentalities, or equipment of any kind related to the movement of property, regardless of ownership or an agreement concerning use; and
 
-&emsp;&emsp;(B) services related to that movement, including receipt, delivery, transfer in transit,storage, handling, and interchange of property.
+&emsp;&emsp;(B) services related to that movement, including receipt, delivery, transfer in transit, storage, handling, and interchange of property.
 
 &emsp;(6)
 

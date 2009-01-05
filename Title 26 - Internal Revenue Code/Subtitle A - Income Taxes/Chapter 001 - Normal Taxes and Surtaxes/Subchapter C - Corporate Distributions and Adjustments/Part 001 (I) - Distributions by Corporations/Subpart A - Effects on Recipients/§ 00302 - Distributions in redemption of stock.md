@@ -72,7 +72,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;(B) Subparagraph (A) of this paragraph shall not apply if—
 
-&emsp;&emsp;&emsp;(i) any portion of the stock redeemed was acquired, directly or indirectly, within the 10-year period ending on the date of the distribution by the distributee from a person the ownership of whose stock would (at the time of distribution) be attributable to the distributee under section 318(a), or
+&emsp;&emsp;&emsp;(i) any portion of the stock redeemed was acquired, directly or indirectly, within the 10-year period ending on the date of the distribution by the distributee from a person the ownership of whose stock would\(at the time of distribution) be attributable to the distributee under section 318(a), or
 
 &emsp;&emsp;&emsp;(ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly or indirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
 

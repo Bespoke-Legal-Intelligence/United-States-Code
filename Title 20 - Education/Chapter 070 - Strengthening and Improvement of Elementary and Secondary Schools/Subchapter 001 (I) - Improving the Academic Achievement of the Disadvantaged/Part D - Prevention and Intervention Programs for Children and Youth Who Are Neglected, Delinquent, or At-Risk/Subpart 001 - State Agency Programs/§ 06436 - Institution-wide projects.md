@@ -16,7 +16,7 @@ A State agency that provides free public education for children and youth in an 
 
 &emsp;(7) describes how the agency has planned, and will implement and evaluate, the institution-wide or program-wide project in consultation with personnel providing direct instructional services and support services in institutions or community-day programs for neglected or delinquent children and youth, and with personnel from the State educational agency; and
 
-&emsp;(8) includes an assurance that the State agency has provided for appropriate trainingfor teachers and other instructional and administrative personnel to enable such teachers and personnel to carry out the project effectively.
+&emsp;(8) includes an assurance that the State agency has provided for appropriate training for teachers and other instructional and administrative personnel to enable such teachers and personnel to carry out the project effectively.
 
 (Pub. L. 89–10, title I, §1416, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1585.)
 

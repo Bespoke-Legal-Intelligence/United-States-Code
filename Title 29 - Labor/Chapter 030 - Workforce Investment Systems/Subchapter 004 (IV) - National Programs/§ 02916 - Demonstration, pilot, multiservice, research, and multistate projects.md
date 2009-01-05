@@ -136,7 +136,7 @@
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledgeof workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
 
 #### (d) Dislocated worker projects
 
@@ -244,7 +244,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;&emsp;&emsp;&emsp;(II) The administration of skill and aptitude testing and assessment for workers.
 
-&emsp;&emsp;&emsp;&emsp;(III) The counseling, case management, and referral of qualified job seekers to openings and training programs, including energy efficiency and renewable energy training programs.
+&emsp;&emsp;&emsp;&emsp;(III) The counseling, case management, and referral of qualified job seekers toopenings and training programs, including energy efficiency and renewable energy training programs.
 
 #### (D) State energy training partnership program
 
@@ -304,7 +304,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;&emsp;&emsp;&emsp;(I) target programs to benefit low-income workers, unemployed youth and adults, high school dropouts, or other underserved sectors of the workforce within areas of high poverty;
 
-&emsp;&emsp;&emsp;&emsp;(II) ensure that supportive services are integrated with education and training, and delivered by organizations with direct access to and experience with targeted populations;
+&emsp;&emsp;&emsp;&emsp;(II) ensure that supportive services are integrated with education and training,and delivered by organizations with direct access to and experience with targeted populations;
 
 &emsp;&emsp;&emsp;&emsp;(III) leverage additional public and private resources to fund training programs, including cash or in-kind matches from participating employers;
 

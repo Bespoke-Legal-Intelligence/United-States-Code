@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, no fee or admission charge may be le
 
 1980—Subsec. (a). Pub. L. 96–199, §101(a)(2), substituted “Except for property which the Secretary specifically determines is needed for interpretive or resources management purposes of the seashore, the” for “The” in first sentence.
 
-Subsec. (b). Pub. L. 96–199, §101(a)(3), inserted “or, in the case of areas inserted by action of the Ninety-sixthCongress, May 1, 1979,” after “May 1, 1978” and “that were in existence or under construction as of May 1, 1978” after “related to the above uses of the property”.
+Subsec. (b). Pub. L. 96–199, §101(a)(3), inserted “or, in the case of areas inserted by action of the Ninety-sixth Congress, May 1, 1979,” after “May 1, 1978” and “that were in existence or under construction as of May 1, 1978” after “related to the above uses of the property”.
 
 Subsecs. (d), (e). Pub. L. 96–199, §101(a)(4), added subsecs. (d) and (e).
 

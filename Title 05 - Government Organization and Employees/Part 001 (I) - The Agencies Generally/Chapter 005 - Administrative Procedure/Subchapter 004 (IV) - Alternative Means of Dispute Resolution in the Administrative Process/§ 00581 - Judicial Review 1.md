@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provision of law, any person adversely affected or aggrieved by an award made in an arbitration proceeding conducted under this subchapter may bring an action for review of such award only pursuant to the provisions of sections 9 through 13 of title 9.
 
-(b) A decision by an agency to use or not to use a dispute resolution proceeding under thissubchapter shall be committed to the discretion of the agency and shall not be subject to judicial review, except that arbitration shall be subject to judicial review under section 10(b) <sup>2</sup> of title 9.
+(b) A decision by an agency to use or not to use a dispute resolution proceeding under this subchapter shall be committed to the discretion of the agency and shall not be subject to judicial review, except that arbitration shall be subject to judicial review under section 10(b) <sup>2</sup> of title 9.
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2744, §591; renumbered §581 and amended Pub. L. 102–354, §3(b)(2), (4), Aug. 26, 1992, 106 Stat. 944, 945; Pub. L. 104–320, §8(b), Oct. 19, 1996, 110 Stat. 3872.)
 

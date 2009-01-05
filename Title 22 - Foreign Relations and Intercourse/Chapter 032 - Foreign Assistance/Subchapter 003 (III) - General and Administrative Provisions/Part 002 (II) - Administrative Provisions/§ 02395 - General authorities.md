@@ -20,7 +20,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 (1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from their homes for the purpose of participation in such program.
 
-(2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
+(2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent fromtheir place of employment abroad for purposes of training or other official duties.
 
 #### (f) Admission of alien participants
 
@@ -80,7 +80,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 (3) The fund shall be reimbursed or credited with advance payments for services, equipment, or supplies provided from the fund from applicable appropriations and funds of the Agency, other Federal agencies and other sources authorized by section 2357 of this title at rates that will recover total expenses of operation, including accrual of annual leave and depreciation. Receipts from the disposal of, or payments for the loss or damage to, property held in the fund, rebates, reimbursements, refunds and other credits applicable to the operation of the fund may be deposited in the fund.
 
-(4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amounts as the Administrator determines to be in excess of the needs of the fund.
+(4) At the close of each fiscal year the Administrator of the Agency shall transfer out of the fund to the miscellaneous receipts account of the Treasury of the United States such amountsas the Administrator determines to be in excess of the needs of the fund.
 
 (5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
 

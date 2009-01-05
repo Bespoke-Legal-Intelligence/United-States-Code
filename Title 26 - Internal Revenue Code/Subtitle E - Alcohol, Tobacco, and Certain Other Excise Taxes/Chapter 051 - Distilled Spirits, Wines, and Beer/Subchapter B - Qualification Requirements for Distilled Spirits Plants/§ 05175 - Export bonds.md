@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of suchevidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
+1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
 1979—Subsec. (a). Pub. L. 96–39, §807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Continuation of Distiller's Notice and Bond
 

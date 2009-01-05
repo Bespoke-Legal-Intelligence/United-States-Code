@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) physicians who have completed graduate medical education programs in internal medicine, family medicine, behavioral or mental health, neurology, gynecology, or rehabilitation medicine;
 
-&emsp;&emsp;&emsp;(ii) dentists who have demonstrated a commitment to an academic career and who have completed postdoctoral dental training, including postdoctoral dental education programs or who have relevant advanced training or experience; and
+&emsp;&emsp;&emsp;(ii) dentists who have demonstrated a commitment to an academic career andwho have completed postdoctoral dental training, including postdoctoral dental education programs or who have relevant advanced training or experience; and
 
 &emsp;&emsp;&emsp;(iii) behavioral or mental health professionals who have completed graduate medical education programs in behavioral or mental health.
 

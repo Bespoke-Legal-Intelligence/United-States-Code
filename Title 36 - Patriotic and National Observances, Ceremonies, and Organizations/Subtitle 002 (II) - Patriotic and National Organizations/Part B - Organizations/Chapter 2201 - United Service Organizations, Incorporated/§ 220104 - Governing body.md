@@ -16,7 +16,7 @@ Board of Governors.—(1) The board of governors is the governing body of the co
 
 (b)
 
-Officers.—(1) The office of honorary chairman of the corporation shall be offered to the President. On acceptance, the honorary chairman shall be invited to preside at meetings ofthe corporation that the honorary chairman deems appropriate and convenient.
+Officers.—(1) The office of honorary chairman of the corporation shall be offered to the President. On acceptance, the honorary chairman shall be invited to preside at meetings of the corporation that the honorary chairman deems appropriate and convenient.
 
 (2) The corporation may have other officers as provided in the bylaws.
 

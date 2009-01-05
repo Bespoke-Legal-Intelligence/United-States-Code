@@ -1,6 +1,6 @@
 ### §3058cc. Administration
 
-A State agency may carry out vulnerable elder rights protection activities either directlyor through contracts or agreements with public or nonprofit private agencies or organizations, such as—
+A State agency may carry out vulnerable elder rights protection activities either directly or through contracts or agreements with public or nonprofit private agencies or organizations, such as—
 
 &emsp;(1) other State agencies;
 

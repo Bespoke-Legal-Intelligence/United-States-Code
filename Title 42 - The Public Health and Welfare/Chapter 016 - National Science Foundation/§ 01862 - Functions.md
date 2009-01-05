@@ -12,7 +12,7 @@ The Foundation is authorized and directed—
 
 &emsp;(4) to foster and support the development and use of computer and other scientific and engineering methods and technologies, primarily for research and education in the sciences and engineering;
 
-&emsp;(5) to evaluate the status and needs of the various sciences and fields of engineering as evidenced by programs, projects, and studies undertaken by agencies of the Federal Government, by individuals, and by public and private research groups, employing by grant or contract such consulting services as it may deem necessary for the purpose of such evaluations; and to take into consideration the results of such evaluations in correlating the research and educational programs undertaken or supported by the Foundation with programs, projects, and studies undertaken by agencies of the Federal Government, by individuals, and by public and private research groups;
+&emsp;(5) to evaluate the status and needs of the various sciences and fields of engineering as evidenced by programs, projects, and studies undertaken by agencies of the Federal Government, by individuals, and by public and private research groups, employing by grant or contract such consulting services as it may deem necessary for the purpose of such evaluations; and to take into consideration the results of such evaluations in correlating the research and educational programs undertaken or supported by the Foundation with programs, projects, and studies undertaken byagencies of the Federal Government, by individuals, and by public and private research groups;
 
 &emsp;(6) to provide a central clearinghouse for the collection, interpretation, and analysis of data on scientific and engineering resources and to provide a source of information for policy formulation by other agencies of the Federal Government;
 
@@ -54,7 +54,7 @@ In carrying out subsection (a)(4) of this section, the Foundation is authorized 
 
 1992—Subsec. (g). Pub. L. 102–476 and Pub. L. 102–588 amended section identically, adding subsec. (g).
 
-1986—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and”.
+1986—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a sourceof information for policy formulation by other agencies of the Federal Government; and”.
 
 1985—Subsec. (a)(1). Pub. L. 99–159, §110(a)(1), struck out “engineering,” after “biological,” and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
 
@@ -128,7 +128,7 @@ Pub. L. 106–313, title I, §109, Oct. 17, 2000, 114 Stat. 1255, provided that:
 
 “(a)
 
-Study.—The National Science Foundation shall conduct a study of the divergence in access to hightechnology (commonly referred to as the ‘digital divide’) in the United States.
+Study.—The National Science Foundation shall conduct a study of the divergence in access to high technology (commonly referred to as the ‘digital divide’) in the United States.
 
 “(b)
 
@@ -136,35 +136,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 #### Improving United States Understanding of Science, Engineering, and Technology in East Asia
 
-Pub. L. 105–244, title VIII, §831, Oct. 7, 1998, 112 Stat. 1820, provided that:
-
-“(a)
-
-Establishment.—The Director of the National Science Foundation is authorized, beginning in fiscal year 2000, to carry out an interdisciplinary program of education and research on East Asian science, engineering, and technology. The Director shall carry out the interdisciplinary program in consultation with the Secretary of Education.
-
-“(b)
-
-Purposes.—The purposes of the program established under this section shall be to—
-
-&emsp;“(1) increase understanding of East Asian research, and innovation for the creative application of science and technology to the problems of society;
-
-&emsp;“(2) provide scientists, engineers, technology managers, and students with training in East Asian languages, and with an understanding of research, technology, and management of innovation, in East Asian countries;
-
-&emsp;“(3) provide program participants with opportunities to be directly involved in scientific and engineering research, and activities related to the management of scientific and technological innovation, in East Asia; and
-
-&emsp;“(4) create mechanisms for cooperation and partnerships among United States industry, universities, colleges, not-for-profit institutions, Federal laboratories (within the meaning of section 4(6) \[now section 4(5)\] of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6) \[now 15 U.S.C. 3703(5)\])), and government, to disseminate the results of the program assisted under this section for the benefit of United States research and innovation.
-
-“(c)
-
-Participation by Federal Scientists, Engineers, and Managers.—Scientists, engineers, and managers of science and engineering programs in Federal agencies and the Federal laboratories shall be eligible to participate in the program assisted under this section on a reimbursable basis.
-
-“(d)
-
-Requirement for Merit Review.—Awards made under the program established under this section shall only be made using a competitive, merit-based review process.
-
-“(e)
-
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2000.”
+Pub. L. 105–244, title VIII, §831, Oct. 7, 1998, 112 Stat. 1820, which provided for an interdisciplinary program of education and research on East Asian science, engineering, and technology, was repealed by Pub. L. 110–315, title IX, §931(3), Aug. 14, 2008, 122 Stat. 3456.
 
 #### Status of Scientific Instrumentation; Current and Projected Needs for Scientific and Technological Instrumentation; Development of Indices, Correlates, or Other Suitable Measures or Indicators
 
@@ -210,7 +182,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 &emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understand science, engineering and technology and their impact on public policies; and
 
-&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding ofscience and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
+&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
 
 &emsp;&emsp;“(A) the extent to which the proposal of the society or group will contribute to the development of facts, issues, and arguments relevant to public policy issues having significant scientific and technical aspects, and
 
@@ -230,7 +202,7 @@ Section 6 of Pub. L. 94–471 required the National Science Foundation to develo
 
 Section 7 of Pub. L. 93–96, Aug. 16, 1973, 87 Stat. 316, provided that:
 
-“(a) If an institution of higher education determines, after affording notice and opportunity for hearing to an individual attending, or employed by, such institution, that such individual has been convicted by any court of record of any crime which was committed after the date of enactment of this Act \[Aug. 16, 1973\] and which involved the use of (or assistance to others in the use of) force, disruption, or the seizure of property under control of any institution of higher education to prevent officials or students in such institution from engaging in their duties or pursuing their studies, and that such crime was of a serious nature and contributed to a substantial disruption of the administration of the institution with respect to which such crime was committed, then the institution which such individual attends, or is employed by, shall deny for a period of two years any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c). If an institution denies an individual assistance under the authority of the preceding sentence of this subsection, then any institution which such individual subsequently attends shall deny for the remainder of the two-year period any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c).
+“(a) If an institution of higher education determines, after affording notice and opportunity for hearing to an individual attending, or employed by, such institution, that such individual has been convicted by any court ofrecord of any crime which was committed after the date of enactment of this Act \[Aug. 16, 1973\] and which involved the use of (or assistance to others in the use of) force, disruption, or the seizure of property under control of any institution of higher education to prevent officials or students in such institution from engaging in their duties or pursuing their studies, and that such crime was of a serious nature and contributed to a substantial disruption of the administration of the institution with respect to which such crime was committed, then the institution which such individual attends, or is employed by, shall deny for a period of two years any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c). If an institution denies an individual assistance under the authority of the preceding sentence of this subsection, then any institution which such individual subsequently attends shall deny for the remainder of the two-year period any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c).
 
 “(b) If an institution of higher education determines, after affording notice and opportunity for hearing to an individual attending, or employed by, such institution, that such individual has willfully refused to obey a lawful regulation or order of such institution after the date of enactment of this Act \[Aug. 16, 1973\], and that such refusal was of a serious nature and contributed to a substantial disruption of the administration of such institution, then such institution shall deny, for a period of two years, any further payment to, or for the direct benefit of, such individual under any of the programs specified in subsection (c).
 
@@ -278,7 +250,7 @@ Sec. 3. The Foundation, in concert with each Federal agency concerned, shall rev
 
 Sec. 4. As now or hereafter authorized or permitted by law, the Foundation shall be increasingly responsible for providing support by the Federal Government for general-purpose basic research through contracts and grants. The conduct and support by other Federal agencies of basic research in areas which are closely related to their missions is recognized as important and desirable, especially in response to current national needs, and shall continue.
 
-Sec. 5. The Foundation, in consultation with educational institutions, the heads of Federal agencies, and the Commissioner of Education of the Department of Health, Education, and Welfare \[now Secretary of Education\], shall study the effects upon educational institutions of Federal policies and administration of contracts and grants for scientific research and development, and shall recommend policies and procedures which will promote the attainment of general national research objectives and realization of the research needs of Federal agencies while safeguarding the strength and independence of the Nation's institutions of learning.
+Sec. 5. The Foundation, in consultation with educational institutions, the heads of Federal agencies, and the Commissioner of Education of the Department of Health, Education, and Welfare \[now Secretary of Education\], shall study the effects upon educational institutions of Federal policies and administration of contracts and grants for scientific research and development, and shall recommend policies and procedures which will promote the attainment of general national research objectives and realization of the researchneeds of Federal agencies while safeguarding the strength and independence of the Nation's institutions of learning.
 
 Sec. 6. The head of each Federal agency engaged in scientific research shall make certain that effective executive, organizational, and fiscal practices exist to ensure (a) that the Foundation is consulted on policies concerning the support of basic research, (b) that approved scientific research programs conducted by the agency are reviewed continuously in order to preserve priorities in research efforts and to adjust programs to meet changing conditions without imposing unnecessary added burdens on budgetary and other resources, (c) that applied research and development shall be undertaken with sufficient consideration of the underlying basic research and such other factors as relative urgency, project costs, and availability of manpower and facilities, and (d) that, subject to considerations of security and applicable law, adequate dissemination shall be made within the Federal Government of reports on the nature and progress of research projects as an aid to the efficiency and economy of the overall Federal scientific research program.
 

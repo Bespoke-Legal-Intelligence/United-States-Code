@@ -10,7 +10,7 @@
 
 #### (b) Legal description
 
-(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included inthis subchapter, except that the Secretary may correct clerical and typographic errors in <sup>1</sup> legal description.
+(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in <sup>1</sup> legal description.
 
 (2) The legal description described in paragraph (1) shall be on file and available for public inspection in the office of the Director of the Bureau of Land Management, Department of the Interior.
 
@@ -42,7 +42,7 @@ Pub. L. 103–450, §3, Nov. 2, 1994, 108 Stat. 4767, as amended by Pub. L. 106�
 
 “(a)
 
-Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public land laws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance of any necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
+Withdrawal.—Subject to valid existing rights, the lands identified in subsection (b) are hereby withdrawn from all forms of entry under the public land laws, including the mining laws, and from operation of the mineral \[see 30 U.S.C. 181 et seq., 271 et seq., and 281 et seq.\] and geothermal leasing laws: <i>Provided</i>, That nothing in this subsection shall limit the issuance ofany necessary licenses or public land rights-of-way for any hydroelectric project involving such lands.
 
 “(b)
 

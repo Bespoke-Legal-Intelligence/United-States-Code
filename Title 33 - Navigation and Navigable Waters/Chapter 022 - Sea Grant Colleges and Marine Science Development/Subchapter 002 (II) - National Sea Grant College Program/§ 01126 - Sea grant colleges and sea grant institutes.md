@@ -14,19 +14,19 @@
 
 &emsp;(E) be recognized for excellence in fields related to ocean, coastal, and Great Lakes resources (including marine resources management and science), as determined by the Secretary; and
 
-&emsp;(F) meet such other qualifications as the Secretary, in consultation with the panel, considers necessary or appropriate.
+&emsp;(F) meet such other qualifications as the Secretary, in consultation with the Board, considers necessary or appropriate.
 
 (2) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant college if the institution, association, or alliance—
 
 &emsp;(A) meets the qualifications in paragraph (1); and
 
-&emsp;(B) maintains a program of research, advisory services, training, and education in fields related to ocean, coastal, and Great Lakes resources.
+&emsp;(B) maintains a program of research, extension services, training, and education in fields related to ocean, coastal, and Great Lakes resources.
 
 (3) The Secretary may designate an institution, or an association or alliance of two or more such institutions, as a sea grant institute if the institution, association, or alliance—
 
 &emsp;(A) meets the qualifications in paragraph (1); and
 
-&emsp;(B) maintains a program which includes, at a minimum, research and advisory services.
+&emsp;(B) maintains a program which includes, at a minimum, research and extension services.
 
 #### (b) Existing designees
 
@@ -40,7 +40,7 @@ The Secretary may, for cause and after an opportunity for hearing, suspend or te
 
 Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
 
-&emsp;(1) to develop and implement, in consultation with the Secretary and the panel, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title; and
+&emsp;(1) to develop and implement, in consultation with the Secretary and the Board, a program that is consistent with the guidelines and priorities established under section 1123(c) of this title; and
 
 &emsp;(2) to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
 
@@ -60,9 +60,15 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 &emsp;&emsp;(C) the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.
 
-(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348.)
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208.)
 
 #### Amendments
+
+2008—Subsec. (a)(1)(F). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted “Board” for “panel”.
+
+Subsec. (a)(2)(B), (3)(B). Pub. L. 110–394, §7, substituted “extension services” for “advisory services”.
+
+Subsec. (d)(1). Pub. L. 110–394, §9(a)(4)(C)(ii), substituted “Board” for “panel”.
 
 2002—Subsec. (e). Pub. L. 107–299 added subsec. (e).
 

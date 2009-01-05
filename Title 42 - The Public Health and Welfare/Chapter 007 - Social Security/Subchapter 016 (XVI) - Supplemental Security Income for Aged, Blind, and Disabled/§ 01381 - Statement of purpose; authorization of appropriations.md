@@ -6,7 +6,7 @@ For the purpose of establishing a national program to provide supplemental secur
 
 #### Prior Provisions
 
-A prior section 1381, act Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197, authorized appropriations for grants to States for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
+A prior section 1381, act Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197, authorized appropriations for grants to States for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the generalamendment of title XVI of the Social Security Act by Pub. L. 92–603, §301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
 
 #### Effective Date
 
@@ -30,7 +30,7 @@ For the purpose of enabling each State, as far as practicable under the conditio
 
 > (Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(3), title XXIII, §2353(m)(1), 95 Stat. 817, 873; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), 108 Stat. 1477.)
 
-\[Amendment by section 107(a)(1) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L.103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
+\[Amendment by section 107(a)(1) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 
 #### Payments Under Chapter Provisions in Effect Before January 1, 1974, for: Activities Carried Out Through December 31, 1973, Under State Plans Approved Under Subchapter I, X, XIV, or XVI Provisions; and for Administrative Activities After January 1, 1974, Closing Out Such Activities
 

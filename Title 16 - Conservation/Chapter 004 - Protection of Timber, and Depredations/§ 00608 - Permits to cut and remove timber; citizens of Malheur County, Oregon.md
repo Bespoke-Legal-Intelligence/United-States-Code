@@ -2,7 +2,7 @@
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title to citizens of Malheur County, Oregon, to cut timber in the State of Idaho for agricultural, mining, or other domestic purposes, and to remove the timber so cut to Malheur County, State of Oregon.
 
-(Mar. 3, 1891, ch. 561, §8 \[part\], as added Mar. 3, 1919, ch. 111, 40 Stat. 1321.)
+(Mar. 3, 1891, ch. 561, §8 (part), as added Mar. 3, 1919, ch. 111, 40 Stat. 1321.)
 
 #### Codification
 

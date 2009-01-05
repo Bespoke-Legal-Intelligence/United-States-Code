@@ -7,7 +7,7 @@
 | [901\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000901%20-%20Short%20title.md) | Short title. |
 | [902\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000902%20-%20General%20authority%20of%20Secretary%20of%20Agriculture.md) | General authority of Secretary of Agriculture. |
 | [903\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000903%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [904\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000904%20-%20Loans%20by%20Secretary%20of%20Agriculture%20for%20electrical%20plants%20and%20transmission%20lines%3B%20preferences%3B%20consent%20of%20State%20authorities.md) | Loans by Secretary of Agriculture for electrical plants and transmission lines; preferences; consent of State authorities. |
+| [904\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000904%20-%20Loans%20for%20electrical%20plants%20and%20transmission%20lines.md) | Loans for electrical plants and transmission lines. |
 | [905\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000905%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7774%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
 | [906\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906%20-%20Funding%20for%20administrative%20expenses.md) | Funding for administrative expenses. |
 | [906a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906a%20-%20Use%20of%20funds%20outside%20the%20United%20States%20or%20its%20territories%20prohibited.md) | Use of funds outside the United States or its territories prohibited. |
@@ -65,6 +65,7 @@
 | [936c.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000936c%20-%20Refinancing%20and%20prepayment%20of%20FFB%20loans.md) | Refinancing and prepayment of FFB loans. |
 | [936d.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000936d%20-%20Eligibility%20of%20distribution%20borrowers%20for%20loans%2C%20loan%20guarantees%2C%20and%20lien%20accommodations.md) | Eligibility of distribution borrowers for loans, loan guarantees, and lien accommodations. |
 | [936e.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000936e%20-%20Administrative%20prohibitions%20applicable%20to%20certain%20electric%20borrowers.md) | Administrative prohibitions applicable to certain electric borrowers. |
+| [936f.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000936f%20-%20Substantially%20underserved%20trust%20areas.md) | Substantially underserved trust areas. |
 | [937\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000937%20-%20Loans%20from%20other%20credit%20sources.md) | Loans from other credit sources. |
 | [938\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000938%20-%20Full%20faith%20and%20credit%20of%20the%20United%20States.md) | Full faith and credit of the United States. |
 | [939\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000939%20-%20Loan%20terms%20and%20conditions.md) | Loan terms and conditions. |
@@ -76,6 +77,8 @@
 | [940d.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md) | Limitations on authorization of appropriations. |
 | [940e.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md) | Expansion of 911 access. |
 | [940f.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940f%20-%20Extension%20of%20period%20of%20existing%20guarantee.md) | Extension of period of existing guarantee. |
+| [940g.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940g%20-%20Electric%20loans%20for%20renewable%20energy.md) | Electric loans for renewable energy. |
+| [940h.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940h%20-%20Bonding%20requirements.md) | Bonding requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -113,6 +116,7 @@
 |  |  |
 | :--- | ---: |
 | [950bb.](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/%C2%A7%2000950bb%20-%20Access%20to%20broadband%20telecommunications%20services%20in%20rural%20areas.md) | Access to broadband telecommunications services in rural areas. |
+| 950bb–1. | National Center for Rural Telecommunications Assessment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,14 +1,14 @@
 ### §1262. Declaration of hazardous substances
 
-#### (a) Declaration of hazardous substances by regulation; review
+#### (a) Rulemaking
 
-(1) Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commission may by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances which it finds meets the requirements of subparagraph (1)(A) of section 1261(f) of this title.
+#### (1) In general
 
-(2) Proceedings for the issuance, amendment, or repeal of regulations under this subsection and the admissibility of the record of such proceedings in other proceedings, shall in all respects be governed by the provisions of section 371(e), (f), and (g) of title 21, except that—
+&emsp;Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commission may by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances, which it finds meets the requirements of section 1261(f)(1)(A) of this title.
 
-&emsp;(A) the Commission's order after public hearing (acting upon objections filed to an order made prior to hearing) shall be subject to the requirements of section 348(f)(2) of title 21; and
+#### (2) Procedure
 
-&emsp;(B) the scope of judicial review of such order shall be in accordance with the fourth sentence of paragraph (2), and with the provisions of paragraph (3) of section 348(g) of title 21.
+&emsp;Proceedings for the issuance, amendment, or repeal of regulations under this subsection and the admissibility of the record of such proceedings in other proceedings, shall be governed by the provisions of subsections (f) through (i) of this section.
 
 #### (b) Reasonable variations or additional label requirements
 
@@ -28,17 +28,17 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 (2) If, before or during a proceeding pursuant to paragraph (1) of this subsection, the Commission finds that, because of an electrical, mechanical, or thermal hazard, distribution of the toy or other article involved presents an imminent hazard to the public health and it, by order published in the Federal Register, gives notice of such finding, such toy or other article shall be deemed to be a banned hazardous substance for purposes of this chapter until the proceeding has been completed. If not yet initiated when such order is published, such a proceeding shall be initiated as promptly as possible.
 
-(3)(A) In the case of any toy or other article intended for use by children which is determined by the Commission, in accordance with section 553 of title 5, to present an electrical, mechanical, or thermal hazard, any person who will be adversely affected by such a determination may, at any time prior to the 60th day after the regulation making such determination is issued by the Commission, file a petition with the United States Court of Appeals for the circuit in which such person resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose. The Commission shall file in the court the record of the proceedings on which the Commission based its determination, as provided in section 2112 of title 28.
+(3)(A) In the case of any toy or other article intended for use by children which is determined by the Commission, in accordance with section 553 of title 5, to present an electrical, mechanical, or thermal hazard, any person who will be adversely affected by such a determination may, at any time prior to the 60th day after the regulation making such determination is issued by the Commission, file a petition with the United States Court of Appeals for the circuit in which such person resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him <sup>1</sup> for that purpose. The Commission shall file in the court the record of the proceedings on which the Commission based its determination, as provided in section 2112 of title 28.
 
 (B) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there was no opportunity to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission in a hearing or in such other manner, and upon such terms and conditions, as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendation, if any, for the modification or setting aside of its original determination, with the return of such additional evidence.
 
-(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission inaccordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Commission's determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
+(C) Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission in accordance with subparagraphs (A), (B), (C), and (D), of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Secretary's <sup>2</sup> determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
 
 (D) The judgment of the court affirming or setting aside, in whole or in part, any such determination of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (f) Commencement of proceeding for promulgation of regulation; notice
 
-A proceeding for the promulgation of a regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section shall be commenced by the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
+A proceeding for the promulgation of a regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance or a regulation under subsection (e) of this section may be commenced by the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
 
 &emsp;(1) identify the article or substance and the nature of the risk of injury associated with the article or substance;
 
@@ -56,7 +56,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 #### (g) Publication of standard; termination of proceeding for promulgation of regulation; monitoring of compliance
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in a notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
 
 (2) If the Commission determines that—
 
@@ -64,7 +64,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 &emsp;(B) it is likely that there will be substantial compliance with such standard,
 
-> the Commission shall terminate any proceeding to promulgate a regulation under section 1261(q)(1) of this title or subsection (e) of this section, respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
+> the Commission shall terminate any proceeding to promulgate a regulation under section1261(q)(1) of this title or subsection (e) of this section, respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
 
 (3) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -76,7 +76,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 #### (h) Publication of proposed rule together with preliminary regulatory analysis
 
-No regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance and no regulation under subsection (e) of this section may be proposed by the Commission unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
+No regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance and no regulation under subsection (e) of this section may be proposed by the Commission unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
 &emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
@@ -86,7 +86,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.
 
 #### (i) Publication of final regulatory analysis with regulation; required findings; judicial review
 
@@ -112,7 +112,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(C) that the regulation imposes the least burdensome requirement which prevents or adequately reduces the risk of injury for which the regulation is being promulgated.
 
-(3)(A) Any regulatory analysis prepared under subsection (h) of this section or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+(3)(A) Any regulatory analysis prepared under subsection (h) of this section or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contentsof any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
 (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -120,9 +120,21 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–35, title XII, §1203(b)(1),Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113.)
+(Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 97–35, title XII, §1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, §204(b)(1), (3), (4)(B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–314, §204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
+
+Subsecs. (b) to (e). Pub. L. 110–314, §204(b)(4)(D), substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
+
+Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
+
+Subsec. (f). Pub. L. 110–314, §204(b)(3)(A), substituted “may be commenced” for “shall be commenced” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 110–314, §204(b)(3)(B), substituted “identified in a notice” for “identified in the notice”.
+
+Subsec. (h). Pub. L. 110–314, §204(b)(3)(C), (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
 1990—Subsec. (g)(2). Pub. L. 101–608, §108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
@@ -150,11 +162,11 @@ Amendment by Pub. L. 97–35 applicable with respect to regulations under this c
 
 Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, see section 5 of Pub. L. 91–113, set out as a note under section 1261 of this title.
 
-#### Transfer of Functions
-
-“Commission” substituted for “Secretary”, “Commission's” for “Secretary's”, “it” for “he”, and “it” or “its” for “him” wherever appearing in subsecs. (a) to (e) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
-
 #### National Commission on Product Safety
 
 Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established a National Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injuries which may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “it”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Commission's”.</i>
 

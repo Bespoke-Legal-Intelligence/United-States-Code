@@ -32,7 +32,7 @@ An entity that receives a grant under this section for activities described, in 
 
 #### (1) In general
 
-&emsp;An entity that receives a grant under this section for activities described, in whole or inpart, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
+&emsp;An entity that receives a grant under this section for activities described, in whole or in part, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
 
 #### (2) Availability
 
@@ -102,7 +102,7 @@ The Secretary may not award a grant under this section unless the Secretary appr
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(4), was in the original “this Act” and was translated as reading “this title”, meaning title III of Pub. L. 98–457, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (e)(4), was in the original “this Act” and was translated as reading “thistitle”, meaning title III of Pub. L. 98–457, to reflect the probable intent of Congress.
 
 #### Amendments
 

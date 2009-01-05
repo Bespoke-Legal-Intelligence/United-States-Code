@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agencyunless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -126,7 +126,7 @@ If the reinvestigation does not resolve the dispute, the consumer may file a bri
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
-Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
+Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe thatit is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
 
 #### (d) Notification of deletion of disputed information
 
@@ -194,7 +194,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
-(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132;amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Recommendations.—The report required under paragraph (2) shall include such re
 
 &emsp;“(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
 
-&emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer informationand the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
+&emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
 
 \[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 

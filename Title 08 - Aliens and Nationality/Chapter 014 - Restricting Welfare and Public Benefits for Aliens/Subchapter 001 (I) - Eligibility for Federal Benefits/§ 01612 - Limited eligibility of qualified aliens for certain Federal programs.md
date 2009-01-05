@@ -66,7 +66,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(B), ineligibility under paragraph (1) shall not apply until April 1, 1997, to an alien who received benefits under such program on August 22, 1996, unless such alien is determined to be ineligible to receive such benefits under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]. The State agency shall recertify the eligibility of all such aliens during the period beginning April 1, 1997, and ending August 22, 1997.
+&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(B), ineligibility under paragraph (1) shall not apply until April 1, 1997, to an alien who received benefits under such program on August 22, 1996, unless such alien is determined to be ineligible to receive such benefits under the Food Stamp Act of 1977 <sup>1</sup> \[7 U.S.C. 2011 et seq.\]. The State agency shall recertify the eligibility of all such aliens during the period beginning April 1, 1997, and ending August 22, 1997.
 
 #### (II) Recertification criteria
 
@@ -74,7 +74,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program formonths beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the recertification under subclause (I) shall only apply with respect to the eligibility of an alien for a program for months beginning on or after the date of recertification, if on August 22, 1996, the alien is lawfully residing in any State and is receiving benefits under such program on August 22, 1996.
 
 #### (E) Aliens receiving SSI on August 22, 1996
 
@@ -90,7 +90,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(II) is blind or disabled (as defined in paragraph (2) or (3) of section 1614(a) of the Social Security Act (42 U.S.C. 1382c(a))); and
 
-&emsp;&emsp;&emsp;(ii) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
+&emsp;&emsp;&emsp;(ii) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(j) of the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2012(r))).<sup>2</sup>
 
 #### (G) Exception for certain Indians
 
@@ -110,7 +110,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) Food stamp exception for certain elderly individuals
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
 
 &emsp;&emsp;&emsp;(i) was lawfully residing in the United States; and
 
@@ -138,6 +138,52 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
+#### (M) SSI extensions through fiscal year 2011
+
+#### (i) Two-year extension for certain aliens and victims of trafficking
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to clause (ii), with respect to eligibility for benefits under subparagraph (A) for the specified Federal program described in paragraph (3)(A) of qualified aliens (as defined in section 1641(b) of this title) and victims of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), the 7-year period described in subparagraph (A) shall be deemed to be a 9-year period during fiscal years 2009 through 2011 in the case of such a qualified alien or victim of trafficking who furnishes to the Commissioner of Social Security the declaration required under subclause (IV) (if applicable) and is described in subclause (III).
+
+#### (II) Aliens and victims whose benefits ceased in prior fiscal years
+
+&emsp;&emsp;&emsp;&emsp;Subject to clause (ii), beginning on September 30, 2008, any qualified alien (as defined in section 1641(b) of this title) or victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]) rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A) shall be eligible for such program for an additional 2-year period in accordance with this clause, if such qualified alien or victim of trafficking meets all other eligibility factors under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], furnishes to the Commissioner of Social Security the declaration required under subclause (IV) (if applicable), and is described in subclause (III).
+
+#### (III) Aliens and victims described
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422), for purposes of the specified Federal program described in paragraph (3)(A);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) has had his or her deportation withheld by the Secretary of Homeland Security under section 243(h) of the Immigration and Nationality Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208), or whose removal is withheld under section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\];
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) has not attained age 18; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) has attained age 70.
+
+#### (IV) Declaration required
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+
+#### (bb) Exception for children
+
+&emsp;&emsp;&emsp;&emsp;&emsp;A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
+
+#### (V) Payment of benefits to aliens whose benefits ceased in prior fiscal years
+
+&emsp;&emsp;&emsp;&emsp;Benefits paid to a qualified alien or victim described in subclause (II) shall be paid prospectively over the duration of the qualified alien's or victim's renewed eligibility.
+
+#### (ii) Special rule in case of pending or approved naturalization application
+
+&emsp;&emsp;&emsp;With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 7105(b)(1)(C) of title 22 or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(ii)\]), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act \[8 U.S.C. 1447(b)\], or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
+
 #### (3) “Specified Federal program” defined
 
 &emsp;For purposes of this chapter, the term “specified Federal program” means any of the following:
@@ -148,13 +194,13 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (B) Food stamps
 
-&emsp;&emsp;The food stamp program as defined in section 3(h) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(h)\].
+&emsp;&emsp;The food stamp program as defined in section 3(<i>l</i>) of the Food Stamp Act of 1977 <sup>1</sup> \[7 U.S.C. 2012(<i>l</i>)\].
 
 #### (b) Limited eligibility for designated Federal programs
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law and except as provided in section 1613 of this title and paragraph (2), a State is authorized to determine the eligibility of an alien who isa qualified alien (as defined in section 1641 of this title) for any designated Federal program (as defined in paragraph (3)).
+&emsp;Notwithstanding any other provision of law and except as provided in section 1613 of this title and paragraph (2), a State is authorized to determine the eligibility of an alien who is a qualified alien (as defined in section 1641 of this title) for any designated Federal program (as defined in paragraph (3)).
 
 #### (2) Exceptions
 
@@ -174,7 +220,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>2</sup> of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> ofthis section until 5 years after the date of such alien's entry into the United States.
 
 #### (ii) Other designated Federal programs
 
@@ -188,7 +234,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>1</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>2</sup> of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> of this section until 5 years after the date of such alien's entry into the United States.
 
 #### (B) Certain permanent resident aliens
 
@@ -236,25 +282,25 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act and section 243 of the Immigration and Nationality Act, referred to in subsecs. (a)(2)(A)(iii), (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as soamended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv), (M)(i)(III)(cc) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
 
-Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(v), is section 101(e) \[title V, §584\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
+Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(v), is section 101(e) \[title V, §584\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The 9th proviso under
 
-migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, as amended, which is set out as an Amerasian Immigration note under section 1101 of this title.
+migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
-The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
@@ -262,7 +308,17 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set o
 
 Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(V), (ii)(V), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, §503(2), (3), June 23, 1998, 112 Stat. 578.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
+
+Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
+
+Subsec. (a)(3)(B). Pub. L. 110–246, §4115(c)(2)(D)(ii), substituted “section 3(<i>l</i>)” for “section 3(h)”.
 
 2002—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
 
@@ -358,6 +414,16 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 1996—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
 
+#### Change of Name
+
+References to the food stamp program established under the Food and Nutrition Act of 2008, formerly known as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4115(c)(2)(D) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by section 4401(a) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
@@ -382,7 +448,9 @@ Section 6005(b) of Pub. L. 105–18 provided that: “The amendment made by subs
 
 Section 510 of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “alien is”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “2012(j))).”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “alien is”.</i>
 

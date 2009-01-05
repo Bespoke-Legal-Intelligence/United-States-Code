@@ -52,7 +52,7 @@ Subsec. (f). Pub. L. 95–39, §110(3), added subsec. (f).
 
 #### Transfer of Functions
 
-Functions of Council on Environmental Quality and Office of Environmental Quality relating to evaluation provided for by section 5910 of this title transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 1 of 1977, §5E, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, pursuant to Ex. Ord. No. 12040, Feb. 24, 1978, 43 F.R. 8097, formerly set out under section 5910 of this title.
+Functions of Council on Environmental Quality and Office of Environmental Quality relating to evaluation provided for by section 5910 of this title transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 1 of 1977, §5E, 42 F.R. 56101, 91 Stat.1634, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, pursuant to Ex. Ord. No. 12040, Feb. 24, 1978, 43 F.R. 8097, formerly set out under section 5910 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Resources”.</i>
 

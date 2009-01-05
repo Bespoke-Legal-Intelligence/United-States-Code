@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-The Secretary is authorized to establish an Advanced Power System Technology Incentive Program to support the deployment of certain advanced power system technologies and to improve and protect certain critical governmental, industrial, and commercial processes. Funds provided under this section shall be used by the Secretary to make incentive payments to eligible owners or operators of advanced power system technologies to increase power generation through enhanced operational, economic, and environmental performance. Payments under this section may only be made upon receipt by the Secretary of an incentive payment application establishing an applicant as either—
+The Secretary is authorized to establish an Advanced Power System Technology Incentive Program to support the deployment of certain advanced power system technologies and to improve and protect certain critical governmental, industrial, and commercial processes. Funds provided under this section shall be used by theSecretary to make incentive payments to eligible owners or operators of advanced power system technologies to increase power generation through enhanced operational, economic, and environmental performance. Payments under this section may only be made upon receipt by the Secretary of an incentive payment application establishing an applicant as either—
 
 &emsp;(1) a qualifying advanced power system technology facility; or
 
@@ -10,7 +10,7 @@ The Secretary is authorized to establish an Advanced Power System Technology Inc
 
 #### (b) Incentives
 
-Subject to availability of funds, a payment of 1.8 cents per kilowatt-hour shall be paid to theowner or operator of a qualifying advanced power system technology facility under this section for electricity generated at such facility. An additional 0.7 cents per kilowatt-hour shall be paid to the owner or operator of a qualifying security and assured power facility for electricity generated at such facility. Any facility qualifying under this section shall be eligible for an incentive payment for up to, but not more than, the first 10,000,000 kilowatt-hours produced in any fiscal year.
+Subject to availability of funds, a payment of 1.8 cents per kilowatt-hour shall be paid to the owner or operator of a qualifying advanced power system technology facility under this section for electricity generated at such facility. An additional 0.7 cents per kilowatt-hour shall be paid to the owner or operator of a qualifying security and assured power facility for electricity generated at such facility. Any facility qualifying under this section shall be eligible for an incentive payment for up to, but not more than, the first 10,000,000 kilowatt-hours produced in any fiscal year.
 
 #### (c) Eligibility
 

@@ -1,6 +1,6 @@
 ### §§351 to 351g. Repealed. Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312
 
-Section 351, acts June 19, 1956, ch. 407, §2, 70 Stat. 293; Feb. 11, 1964, Pub. L. 88–269, §1(a)(1), 78 Stat. 11; July 19, 1966, Pub. L. 89–511, §2, 80 Stat. 313; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; Oct. 7, 1977, Pub. L. 95–123, §4(a), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §102, 98 Stat. 2236, related to congressional declaration of policy.
+Section 351, acts June 19, 1956, ch. 407, §2, 70 Stat. 293; Feb. 11, 1964, Pub. L. 88–269, §1(a)(1), 78 Stat. 11; July 19,1966, Pub. L. 89–511, §2, 80 Stat. 313; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; Oct. 7, 1977, Pub. L. 95–123, §4(a), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §102, 98 Stat. 2236, related to congressional declaration of policy.
 
 Section 351a, act June 19, 1956, ch. 407, §3, as added Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1660; amended Oct. 19, 1973, Pub. L. 93–133, §4(a), 87 Stat. 466; Oct. 7, 1977, Pub. L. 95–123, §4(b), 91 Stat. 1095; Oct. 17, 1984, Pub. L. 98–480, title I, §103(a), (b)(1), 98 Stat. 2237; Nov. 22, 1985, Pub. L. 99–159, title III, §301, 99 Stat. 902; Mar. 15, 1990, Pub. L. 101–254, §§2, 16(a), 23(b), 104 Stat. 101, 105, 113; July 25, 1991, Pub. L. 102–73, title VIII, §802(e)(1), 105 Stat. 361, provided definitions for this chapter.
 
@@ -12,7 +12,7 @@ Section 351d, act June 19, 1956, ch. 407, §6, as added Dec. 30, 1970, Pub. L. 9
 
 Section 351e, act June 19, 1956, ch. 407, §7, as added Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1665; amended May 3, 1973, Pub. L. 93–29, title VIII, §801(d), 87 Stat. 59; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b)(1), 107, 98 Stat. 2237, 2239; Mar. 15, 1990, Pub. L. 101–254, §7(a), 104 Stat. 103; July 25, 1991, Pub. L. 102–73, title VIII, §802(e)(3), (4), 105 Stat. 361, 362, related to prerequisites for payments, calculation and promulgation of Federal share for each State, and payment to Indian tribes.
 
-Section 351f, act June 19, 1956, ch. 407, §8, as added Oct. 7, 1977, Pub. L. 95–123, §3(a), 91 Stat. 1095; amendedOct. 17, 1984, Pub. L. 98–480, title I, §108, 98 Stat. 2240, permitted expenditure of funds received under subchapters I and II of this chapter for administrative costs in connection with programs and activities carried out under subchapters I, II, and III of this chapter.
+Section 351f, act June 19, 1956, ch. 407, §8, as added Oct. 7, 1977, Pub. L. 95–123, §3(a), 91 Stat. 1095; amended Oct. 17, 1984, Pub. L. 98–480, title I, §108, 98 Stat. 2240, permitted expenditure of funds received under subchapters I and II of this chapter for administrative costs in connection with programs and activities carried out under subchapters I, II, and III of this chapter.
 
 Section 351g, act June 19, 1956, ch. 407, §9, as added Mar. 15, 1990, Pub. L. 101–254, §8(a), 104 Stat. 104, prohibited contracting out or transferring from Federal Government certain activities or functions of Department of Education Research Library.
 

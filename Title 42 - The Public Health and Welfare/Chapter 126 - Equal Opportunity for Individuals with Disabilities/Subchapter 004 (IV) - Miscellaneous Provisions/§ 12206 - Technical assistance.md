@@ -24,21 +24,21 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (A) Subchapter I
 
-&emsp;&emsp;The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I of this chapter.
+&emsp;&emsp;The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I.
 
 #### (B) Subchapter II
 
 #### (i) Part A
 
-&emsp;&emsp;&emsp;The Attorney General shall implement such plan for assistance for part A of subchapter II of this chapter.
+&emsp;&emsp;&emsp;The Attorney General shall implement such plan for assistance for part A of subchapter II.
 
 #### (ii) Part B
 
-&emsp;&emsp;&emsp;The Secretary of Transportation shall implement such plan for assistance for part B of subchapter II of this chapter.
+&emsp;&emsp;&emsp;The Secretary of Transportation shall implement such plan for assistance for part B of subchapter II.
 
 #### (C) Subchapter III
 
-&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III of this chapter, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
+&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
 
 #### (D) Title IV
 
@@ -46,7 +46,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (3) Technical assistance manuals
 
-&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III of this chapter and title IV.
+&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
 
 #### (d) Grants and contracts
 
@@ -62,11 +62,17 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.
 
-(Pub. L. 101–336, title V, §506, July 26, 1990, 104 Stat. 371.)
+(Pub. L. 101–336, title V, §507, formerly §506, July 26, 1990, 104 Stat. 371; renumbered §507, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(1), (c)(1), (3), (d), and (e), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
 Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and amended sections 152, 221, and 611 of Title 47.
+
+#### Prior Provisions
+
+A prior section 507 of Pub. L. 101–336 was renumbered section 508 and is classified to section 12207 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

@@ -90,7 +90,7 @@
 
 #### (8) Determination of certain factor
 
-&emsp;(A) The factor determined under this paragraph for the State involved is a factor whosepurpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
+&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
 
 &emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology described in the report entitled “Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service”, dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
 

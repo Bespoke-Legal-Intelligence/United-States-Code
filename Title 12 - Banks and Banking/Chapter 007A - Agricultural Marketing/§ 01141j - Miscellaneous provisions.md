@@ -20,29 +20,29 @@ It shall be unlawful for the governor, or any officer or employee of the Farm Cr
 
 It shall be unlawful (1) for any cooperative association, stabilization corporation, clearing-house association, or commodity committee, or (2) for any director, officer, employee, or member or person acting on behalf of any such association, corporation, or committee, to which or to whom information has been imparted in confidence by the administration, to disclose such information in violation of any regulation of the administration. Any such association, corporation, or committee, or director, officer, employee, or member thereof, violating this subdivision, shall be fined not more than $5,000, or imprisoned not more than five years, or both.
 
-#### (d) Governmental publications; predictions as to cotton prices prohibited
-
-The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.
-
-#### (e) Separability clause
+#### (d) Separability clause
 
 If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, commodity, or class of transactions with respect to any commodity is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons, circumstances, commodities, and classes of transactions shall not be affected thereby.
 
-#### (f) Citation of chapter
+#### (e) Citation of chapter
 
 This chapter may be cited as the “Agricultural Marketing Act.”
 
-#### (g) “Agricultural commodity” defined
+#### (f) “Agricultural commodity” defined
 
 As used in this chapter, the term “agricultural commodity” includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in section 92 of title 7.
 
-(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317.)
+(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317; Pub. L. 110–234, title I, §1610, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, §4(a), title I, §1610, June 18, 2008, 122 Stat. 1664, 1746.)
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 535 of Title 7, Agriculture.
 
 #### Amendments
+
+2008—Subsecs. (d) to (g). Pub. L. 110–246, §1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: <i>Provided</i>, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
 
 1935—Subsec. (a). Act June 3, 1935, amended definition of cooperative association and inserted second sentence in par. “Third”.
 
@@ -53,6 +53,10 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 #### Change of Name
 
 “The Governor” and “Farm Credit Administration” substituted in text for “any member” and “board”, respectively, and “Governor of the Farm Credit Administration” substituted for “members of the board”, pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

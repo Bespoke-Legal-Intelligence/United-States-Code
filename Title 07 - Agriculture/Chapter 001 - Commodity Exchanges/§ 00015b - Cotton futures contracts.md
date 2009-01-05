@@ -74,7 +74,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (E) Prohibition of delivery of inferior cotton
 
-&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the officialcotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
+&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
@@ -108,7 +108,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (2) Incorporation of conditions in contract
 
-&emsp;Contracts made in compliance with this subsection shall be known as “subsection (g) Contracts”. The provisions of this subsection shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (g)”.
+&emsp;Contracts made in compliance with this subsection shall be known as “subsection (g) Contracts”. The provisions of this subsection shallbe deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (g)”.
 
 #### (3) Application of subsection
 
@@ -172,7 +172,7 @@ The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922
 
 The United States Cotton Standards Act, as amended, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 The Internal Revenue Code of 1954, referred to in subsec. (<i>l</i>), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 

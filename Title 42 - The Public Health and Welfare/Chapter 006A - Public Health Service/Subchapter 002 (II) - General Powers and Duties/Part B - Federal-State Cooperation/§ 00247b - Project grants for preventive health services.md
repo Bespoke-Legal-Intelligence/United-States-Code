@@ -142,7 +142,7 @@ Subsec. (j)(1)(B). Pub. L. 101–502, §2(a)(2), substituted Oct. 1, 1990, for D
 
 Subsec. (j)(1)(C). Pub. L. 101–502, §2(a)(3), struck out subpar. (C) which, on the implementation of part 2 of subchapter XIX of this chapter, authorized appropriations for grants under subsec. (a) of this section for fiscal years 1988 to 1990.
 
-Subsec. (j)(2). Pub. L. 101–368, §2(c), inserted provisions authorizing appropriations of $36,000,000 for fiscalyear 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
+Subsec. (j)(2). Pub. L. 101–368, §2(c), inserted provisions authorizing appropriations of $36,000,000 for fiscal year 1991, and such sums as may be necessary for fiscal years 1992 through 1995.
 
 Pub. L. 101–368, §2(a)(1), substituted “preventive health service programs for the prevention, control, and elimination of tuberculosis” for “preventive health service programs for tuberculosis”.
 
@@ -192,7 +192,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted “communicable and other dis
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted “under grants” after “Payments”; and redesignated former subsec. (d) as par. (2), inserted “of the Government” after “officer or employee”, substituted “in detailing the personnel” for “personal services”, and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 
@@ -206,7 +206,7 @@ Subsec. (h). Pub. L. 92–449 redesignated former subsec. (b) as (h), substitute
 
 Subsec. (i). Pub. L. 92–449 redesignated former subsec. (e) as (i), inserted reference to agency of a State, and substituted “under provisions of Federal law (other than this chapter)” for “under other provisions of this chapter or other Federal law”.
 
-1970—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs andstudies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
+1970—Subsec. (a). Pub. L. 91–464 authorized appropriation of $75,000,000 for fiscal year ending June 30, 1971, and $90,000,000 for fiscal year ending June 30, 1972, and made award of grants dependent upon extent of communicable disease and success of programs and permitted use of grants for meeting cost of programs and studies to control communicable diseases and struck out reference to purchase of vaccines and use of grants for salaries and expenses of personnel and to authority of the Surgeon General.
 
 Subsec. (b). Pub. L. 91–464 substituted definitions of “communicable disease control program” and “State” for definition of “immunization program”.
 
@@ -242,7 +242,7 @@ Section 102 of Pub. L. 92–449 provided that: “The amendment made by section 
 
 #### Assistance of Administrator of Veterans’ Affairs in Administration of National Swine Flu Immunization Program of 1976; Claims for Damages
 
-Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing of claims and suits for damages for personal injury or death, in connection with administration of vaccine.
+Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to assist Secretary of Health, Education, and Welfare in carrying out National Swine Flu Immunization Program of 1976 pursuant to 42 U.S.C. 247b(j), as added by Pub. L. 94–380, Administrator of Veterans’ Affairs, in accordance with 42 U.S.C. 2476(j), could authorize administration of vaccine, procured under such program and provided by Secretary at no cost to Veterans’ Administration, to eligible veterans (voluntarily requesting such vaccine) in connection with provision of care for a disability under chapter 17 of title 38, in any health care facility under jurisdiction of Administrator, and provided for consideration and processing ofclaims and suits for damages for personal injury or death, in connection with administration of vaccine.
 
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress
 

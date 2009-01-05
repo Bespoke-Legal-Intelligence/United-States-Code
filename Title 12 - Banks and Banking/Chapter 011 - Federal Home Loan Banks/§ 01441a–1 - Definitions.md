@@ -36,5 +36,5 @@ The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. 
 
 #### Codification
 
-Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989,and not as part of the Federal Home Loan Bank Act which comprises this chapter.
+Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
 

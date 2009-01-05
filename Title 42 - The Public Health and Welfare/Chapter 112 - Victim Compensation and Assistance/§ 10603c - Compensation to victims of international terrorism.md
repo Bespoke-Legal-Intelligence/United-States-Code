@@ -18,7 +18,7 @@ In this section:
 
 &emsp;&emsp;The term “victim” means a person who—
 
-&emsp;&emsp;&emsp;(i) suffered direct physical or emotional injury or death as a result of international terrorism occurring on or after December 21, 1988 with respect to which an investigation or prosecution was ongoing after April 24, 1996; and
+&emsp;&emsp;&emsp;(i) suffered direct physical or emotional injury or death as a result of international terrorism occurring on or after October 23, 1983, with respect to which an investigation or civil or criminal prosecution was ongoing after April 24, 1996; and
 
 &emsp;&emsp;&emsp;(ii) as of the date on which the international terrorism occurred, was a national of the United States or an officer or employee of the United States Government.
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (C) Exception
 
-&emsp;&emsp;Notwithstanding any other provision of this section, in no event shall an individual who is criminally culpable for the terrorist act or mass violence receive any compensation under this section, either directly or on behalf of a victim.
+&emsp;&emsp;Notwithstanding any other provision of this section, in no event shall an individualwho is criminally culpable for the terrorist act or mass violence receive any compensation under this section, either directly or on behalf of a victim.
 
 #### (b) Award of compensation
 
@@ -56,7 +56,7 @@ The Director shall annually submit to Congress a report on the status and activi
 
 &emsp;(4) an analysis of future program needs and suggested program improvements.
 
-(Pub. L. 98–473, title II, §1404C, as added Pub. L. 106–386, div. C, §2003(c)(1), Oct. 28, 2000, 114 Stat. 1544; amended Pub. L. 107–56, title VI, §624(c), Oct. 26, 2001, 115 Stat. 373.)
+(Pub. L. 98–473, title II, §1404C, as added Pub. L. 106–386, div. C, §2003(c)(1), Oct. 28, 2000, 114 Stat. 1544; amended Pub. L. 107–56, title VI, §624(c), Oct. 26, 2001, 115 Stat. 373; Pub. L. 110–181, div. A, title X, §1083(b)(4), Jan. 28, 2008, 122 Stat. 342.)
 
 #### References in Text
 
@@ -64,5 +64,11 @@ The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in su
 
 #### Amendments
 
+2008—Subsec. (a)(3)(A)(i). Pub. L. 110–181 substituted “October 23, 1983, with respect to which an investigation or civil or criminal” for “December 21, 1988 with respect to which an investigation or”.
+
 2001—Subsec. (b). Pub. L. 107–56 inserted at end “The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
+
+#### Effective Date of 2008 Amendment
+
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of Title 28, Judiciary and Judicial Procedure.
 

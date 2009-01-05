@@ -38,7 +38,7 @@ In subsection (b), the words “The Secretary concerned may defer” are substit
 
 #### References in Text
 
-Section 511 of the Career Compensation Act of 1949, as amended, referred to in subsec. (a), is set out as a note under section 580 of this title.
+Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
 
 #### Amendments
 

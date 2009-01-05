@@ -22,7 +22,7 @@ Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory lang
 
 Pub. L. 107–273, §13205(2)(C), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(3)\]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(c)\], as amended by Pub. L. 107–273, §13206(b)(3)(B), which directed amendment of section 12 of this title by substituting “copies of specifications and drawings of patents in printed or electronic form” for “printed copies of specifications and drawings of patents”, was executed to this section, which was section 13 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 12 of this title by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\]. See note above and Effective Date of 1999 Amendment note below.
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(c)\], as amended by Pub. L. 107–273, §13206(b)(3)(B), which directed amendment of section 12 of this title by substituting “copies of specifications and drawings of patents in printed or electronic form” for “printed copies of specifications and drawings of patents”, was executed to this section, which was section 13 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 12 of this title by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\]. See noteabove and Effective Date of 1999 Amendment note below.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner”.
 

@@ -24,7 +24,7 @@
 
 &emsp;(F) Section 12(d) of this title.
 
-&emsp;(G) Section 13(f) of this title.
+&emsp;(G) Section 13(f) <sup>1</sup> of this title.
 
 &emsp;(H) Section 20 of this title.
 
@@ -36,11 +36,17 @@
 
 (3) To the extent that an alternative trading system is exempt from any provision of this chapter pursuant to paragraph (2) of this subsection, the futures association registered under section 21 of this title of which the alternative trading system is a member shall set rules governing the conduct of subscribers to the alternative trading system and discipline the subscribers.
 
-(4)(A) Except as provided in subparagraph (B), but notwithstanding any other provision of thischapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any designated contract market in security futures subject to the designation requirement of this section from any provision of this chapter or of any rule or regulation thereunder, to the extent such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
+(4)(A) Except as provided in subparagraph (B), but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any designated contract market in security futures subject to the designation requirement of this section from any provision of this chapter or of any rule or regulation thereunder, to the extent such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
 
 (B) The Commission shall, by rule or regulation, determine the procedures under which an exemptive order under this section is granted and may, in its sole discretion, decline to entertain any application for an order of exemption under this section.
 
 (C) An alternative trading system shall not be deemed to be an exchange for any purpose as a result of the designation of such alternative trading system as a contract market under this section.
 
 (Sept. 21, 1922, ch. 369, §5f, as added Pub. L. 106–554, §1(a)(5) \[title II, §252(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–445.)
+
+#### References in Text
+
+Subsec. (f) of section 13 of this title, referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by Pub. L. 110–246, title XIII, §13105(h)(2), June 18, 1008, 122 Stat. 2197.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

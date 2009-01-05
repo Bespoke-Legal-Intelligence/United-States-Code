@@ -2,67 +2,67 @@
 
 There are authorized to be appropriated to the Administrator the following:
 
-&emsp;(1) To carry out nautical mapping and charting functions under sections 892a and 892b of this title, except for conducting hydrographic surveys—
+&emsp;(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys—
 
-&emsp;&emsp;(A) $50,000,000 for fiscal year 2003;
+&emsp;&emsp;(A) $55,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $55,000,000 for fiscal year 2004;
+&emsp;&emsp;(B) $56,000,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $60,000,000 for fiscal year 2005;
+&emsp;&emsp;(C) $57,000,000 for fiscal year 2011; and
 
-&emsp;&emsp;(D) $65,000,000 for fiscal year 2006; and
+&emsp;&emsp;(D) $58,000,000 for fiscal year 2012.
 
-&emsp;&emsp;(E) $70,000,000 for fiscal year 2007.
+&emsp;(2) To contract for hydrographic surveys under section 892b(b)(1) of this title, including the leasing or time chartering of vessels—
 
-&emsp;(2) To contract for hydrographic surveys under section 892a(b)(1) of this title, including the leasing or time chartering of vessels—
+&emsp;&emsp;(A) $32,130,000 for fiscal year 2009;
 
-&emsp;&emsp;(A) $40,000,000 for fiscal year 2003;
+&emsp;&emsp;(B) $32,760,000 for fiscal year 2010;
 
-&emsp;&emsp;(B) $42,500,000 for fiscal year 2004;
+&emsp;&emsp;(C) $33,390,000 for fiscal year 2011; and
 
-&emsp;&emsp;(C) $45,000,000 for fiscal year 2005;
-
-&emsp;&emsp;(D) $47,500,000 for fiscal year 2006; and
-
-&emsp;&emsp;(E) $50,000,000 for fiscal year 2007.
+&emsp;&emsp;(D) $34,020,000 for fiscal year 2012.
 
 &emsp;(3) To operate hydrographic survey vessels owned by the United States and operated by the Administration—
 
-&emsp;&emsp;(A) $14,000,000 for fiscal year 2003;
+&emsp;&emsp;(A) $25,900,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $18,000,000 for fiscal year 2004; and
+&emsp;&emsp;(B) $26,400,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $21,000,000 for fiscal years 2005 through 2007.
+&emsp;&emsp;(C) $26,900,000 for fiscal year 2011; and
+
+&emsp;&emsp;(D) $27,400,000 for fiscal year 2012.
 
 &emsp;(4) To carry out geodetic functions under this subchapter—
 
-&emsp;&emsp;(A) $27,500,000 for fiscal year 2003;
+&emsp;&emsp;(A) $32,640,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $30,000,000 for fiscal year 2004;
+&emsp;&emsp;(B) $33,280,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $32,500,000 for fiscal year 2005;
+&emsp;&emsp;(C) $33,920,000 for fiscal year 2011; and
 
-&emsp;&emsp;(D) $35,000,000 for fiscal year 2006; and
-
-&emsp;&emsp;(E) $35,500,000 for fiscal year 2007.
+&emsp;&emsp;(D) $34,560,000 for fiscal year 2012.
 
 &emsp;(5) To carry out tide and current measurement functions under this subchapter—
 
-&emsp;&emsp;(A) $25,000,000 for fiscal year 2003;
+&emsp;&emsp;(A) $27,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(B) $27,500,000 for fiscal year 2004;
+&emsp;&emsp;(B) $27,500,000 for fiscal year 2010;
 
-&emsp;&emsp;(C) $30,000,000 for fiscal year 2005;
+&emsp;&emsp;(C) $28,000,000 for fiscal year 2011; and
 
-&emsp;&emsp;(D) $32,500,000 for fiscal year 2006; and
+&emsp;&emsp;(D) $28,500,000 for fiscal year 2012.
 
-&emsp;&emsp;(E) $35,000,000 for fiscal year 2007.
+&emsp;(6) To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 
-&emsp;(6) To carry out activities authorized under this subchapter that enhance homeland security, including electronic navigation charts, hydrographic surveys, real time tide and current measurements, and geodetic functions, in addition to other amounts authorized by this section, $20,000,000.
+(Pub. L. 105–384, title III, §306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, §432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, §5, Oct. 10, 2008, 122 Stat. 4108.)
 
-(Pub. L. 105–384, title III, §306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, §432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §106, Dec. 19, 2002, 116 Stat. 3081.)
+#### References in Text
+
+This subchapter, referred to in pars. (4) and (5), was in the original “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 #### Amendments
+
+2008—Pub. L. 110–386 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2003 through 2007.
 
 2002—Pub. L. 107–372 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator the following:
 

@@ -40,7 +40,7 @@
 
 (d) The finding referred to in subsection (b)(2)(B) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendation of the Under Secretary for Health, that the facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 
-&emsp;(1) An arrangement with an accredited medical school that provides education and training in psychiatry and with which one or more of the participating Department facilities is affiliated under which medical residents receive education and training in psychiatrythrough regular rotation through the participating Department facilities so as to provide such residents with training in the diagnosis and treatment of mental illness.
+&emsp;(1) An arrangement with an accredited medical school that provides education and training in psychiatry and with which one or more of the participating Department facilities is affiliated under which medical residents receive education and training in psychiatry through regular rotation through the participating Department facilities so as to provide such residents with training in the diagnosis and treatment of mental illness.
 
 &emsp;(2) An arrangement with an accredited graduate program of psychology under which students receive education and training in clinical, counseling, or professional psychology through regular rotation through the participating Department facilities so as to provide such students with training in the diagnosis and treatment of mental illness.
 
@@ -80,13 +80,17 @@
 
 &emsp;(B) $6,250,000 for each of fiscal years 1999 through 2001.
 
-(2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical care account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
+(2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretaryfor Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–262, title III, §334(a)(1), Oct. 9, 1996, 110 Stat. 3200.)
+(Added Pub. L. 104–262, title III, §334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2008—Subsec. (j)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Annual Reports On and Designation of Centers
 

@@ -10,7 +10,7 @@
 
 (b) This subchapter applies to a volunteer in service to America who receives either a living allowance or a stipend under part A of subchapter VIII of chapter 34 of title 42, with respect to that service and training, to the same extent as enrollees of the Job Corps under subsection (a) of this section. However, for the purpose of the computation described in subsection (a)(1) of this section, the monthly pay of a volunteer is deemed that received at the minimum rate for GS–5 of the General Schedule under section 5332 of title 5, United States Code.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 553; Pub. L. 90–83, §1(65), Sept. 11, 1967, 81 Stat. 212; Pub. L.90–623, §1(19), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 93–416, §8(b), Sept. 7, 1974, 88 Stat. 1145; Pub. L. 103–82, title III, §384, Sept. 21, 1993, 107 Stat. 915.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 553; Pub. L. 90–83, §1(65), Sept. 11, 1967, 81 Stat. 212; Pub. L. 90–623, §1(19), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 93–416, §8(b), Sept. 7, 1974, 88 Stat. 1145; Pub. L. 103–82, title III, §384, Sept. 21, 1993, 107 Stat. 915.)
 
 Historical and Revision Notes<br>1966
 

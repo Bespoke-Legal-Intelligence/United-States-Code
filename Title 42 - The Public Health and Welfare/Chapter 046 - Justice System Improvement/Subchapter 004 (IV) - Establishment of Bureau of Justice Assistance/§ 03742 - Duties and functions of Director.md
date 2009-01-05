@@ -4,7 +4,7 @@ The Director shall have the following duties:
 
 &emsp;(1) Providing funds to eligible States, units of local government, and nonprofit organizations pursuant to subchapters V and XII–B of this chapter.
 
-&emsp;(2) Establishing programs in accordance with part B of subchapter V of this chapter and, following public announcement of such programs, awarding and allocating funds and technical assistance in accordance with the criteria of part B of subchapter V of this chapter, and on terms and conditions determinedby the Director to be consistent with part B of subchapter V of this chapter.
+&emsp;(2) Establishing programs in accordance with part B of subchapter V of this chapter and, following public announcement of such programs, awarding and allocating funds and technical assistance in accordance with the criteria of part B of subchapter V of this chapter, and on terms and conditions determined by the Director to be consistent with part B of subchapter V of this chapter.
 
 &emsp;(3) Cooperating with and providing technical assistance to States, units of local government, and other public and private organizations or international agencies involved in criminal justice activities.
 

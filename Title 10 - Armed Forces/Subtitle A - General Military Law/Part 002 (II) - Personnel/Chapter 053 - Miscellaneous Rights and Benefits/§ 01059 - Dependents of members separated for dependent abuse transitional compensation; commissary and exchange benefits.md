@@ -18,7 +18,7 @@ Punitive and Other Adverse Actions Covered.—This section applies in the case o
 
 (c)
 
-Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offense is conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
+Dependent-Abuse Offenses.—For purposes of this section, a dependent-abuse offenseis conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
 
 &emsp;(1) that involves abuse of the spouse or a dependent child of the member; and
 
@@ -48,7 +48,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
+(2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
 (3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
@@ -66,7 +66,7 @@ Amount of Payment.—(1) Payment to a spouse or former spouse under this section
 
 (g)
 
-Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receiving compensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
+Spouse and Former Spouse Forfeiture Provisions.—(1) If a former spouse receivingcompensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
 
 (2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member's separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
@@ -92,7 +92,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces\(other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -184,7 +184,7 @@ Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, pro
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -14,7 +14,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(6) the State of Massachusetts has agreed to provide up to $2,250,000 to be used for the purchase of land to be held in trust by the Secretary for the use and benefit of the Wampanoag Tribal Council of Gay Head, Inc.; and
 
-&emsp;(7) the Secretary has acknowledged the existence of the Wampanoag Tribal Council ofGay Head, Inc. as an Indian tribe and Congress hereby ratifies and confirms that existence as an Indian tribe with a government to government relationship with the United States.
+&emsp;(7) the Secretary has acknowledged the existence of the Wampanoag Tribal Council of Gay Head, Inc. as an Indian tribe and Congress hereby ratifies and confirms that existence as an Indian tribe with a government to government relationship with the United States.
 
 (Pub. L. 100–95, §2, Aug. 18, 1987, 101 Stat. 704.)
 

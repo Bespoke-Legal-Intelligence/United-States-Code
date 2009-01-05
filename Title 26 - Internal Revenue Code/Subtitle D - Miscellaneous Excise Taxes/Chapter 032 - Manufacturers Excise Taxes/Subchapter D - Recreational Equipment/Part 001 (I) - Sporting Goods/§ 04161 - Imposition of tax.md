@@ -54,7 +54,15 @@
 
 > &emsp;&emsp;a tax equal to 39 cents per shaft.
 
-#### (B) Adjustment for inflation
+#### (B) Exemption for certain wooden arrow shafts
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any shaft consisting of all natural wood with no laminations or artificial means of enhancing the spine of such shaft (whether sold separately or incorporated as part of a finished or unfinished product) of a type used in the manufacture of any arrow which after its assembly—
+
+&emsp;&emsp;&emsp;(i) measures 5/16 of an inch or less in diameter, and
+
+&emsp;&emsp;&emsp;(ii) is not suitable for use with a bow described in paragraph (1)(A).
+
+#### (C) Adjustment for inflation
 
 #### (i) In general
 
@@ -72,13 +80,15 @@
 
 &emsp;No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, §503(a), Oct. 3, 2008, 122 Stat. 3877.)
 
-#### Adjustment of Tax on Arrow Shafts for Calendar Year 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of tax on arrow shafts under subsection (b)(2)(A) of this section for calendar year 2008, see section 3.33 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+2008—Subsec. (b)(2)(B), (C). Pub. L. 110–343 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
 
@@ -112,7 +122,7 @@ Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by addi
 
 1986—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 
-1984—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions aspar. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
+1984—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
 
 Subsec. (b)(1)(B). Pub. L. 98–369, §1017(a), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -125,6 +135,10 @@ Subsec. (b)(3). Pub. L. 98–369, §1017(b)(1), added par. (3).
 Subsec. (b). Pub. L. 92–558, §201(a)(2), added subsec. (b).
 
 1965—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title V, §503(b), Oct. 3, 2008, 122 Stat. 3877, provided that: “The amendments made by this section \[amending this section\] shall apply to shafts first sold after the date of enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 2005 Amendment
 
@@ -162,7 +176,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Special rules.—The amendments made by sections 201(b)(2) \[amending section 4061 of this title\] (relating to automobile parts and accessories) and 202(a) \[amending section 4091 of this title\] (relating to lubricating oil) shall apply with respect to articles sold on or after January 1, 1966. The amendments made by section 202(b) \[enacting section 6424 of this title\] and (c) \[enacting section 4094 and amending sections 6206, 6675, 7210, 7603, 7604, and 7605 of this title\] (relating to payments with respect to lubricating oil) shall take effect January 1, 1966. The amendments made by section 203 \[repealing sections 4111, 4121, and 4131 of this title\], insofar as they relate to the tax imposed by section 4131 (relating to electric light bulbs) of the Code, and the amendments made by section 208 \[amending sections 4216, 4218, 4221, 4222, and 4227\], insofar as they relate to the tax imposed by section 4061(b) (relating to automotive parts and accessories), section 4091 (relating to lubricating oil), or section 4131 (relating to electric light bulbs) of the Code, shall apply with respect to articles sold on or after January 1, 1966. The amendments made by section 207 \[amending sections 4216 and 6416 of this title\] (relating to partial payments; sales of installment accounts) and 209(a) \[amending section 6412 of this title\] (relating to floor stocks refunds on passenger automobiles, etc.) shall take effect on the day after the date of the enactment of this Act \[June 21, 1965\]. The amendments made by section 210 \[amending provisions set out as a note under section 120 of Title 23, Highways\] (relating to Highway Trust Fund) shall take effect January 1, 1966.
+Special rules.—The amendments made by sections 201(b)(2) \[amending section 4061 of this title\] (relating to automobile parts and accessories) and 202(a) \[amending section 4091 of this title\] (relating to lubricating oil) shall apply with respect to articles sold onor after January 1, 1966. The amendments made by section 202(b) \[enacting section 6424 of this title\] and (c) \[enacting section 4094 and amending sections 6206, 6675, 7210, 7603, 7604, and 7605 of this title\] (relating to payments with respect to lubricating oil) shall take effect January 1, 1966. The amendments made by section 203 \[repealing sections 4111, 4121, and 4131 of this title\], insofar as they relate to the tax imposed by section 4131 (relating to electric light bulbs) of the Code, and the amendments made by section 208 \[amending sections 4216, 4218, 4221, 4222, and 4227\], insofar as they relate to the tax imposed by section 4061(b) (relating to automotive parts and accessories), section 4091 (relating to lubricating oil), or section 4131 (relating to electric light bulbs) of the Code, shall apply with respect to articles sold on or after January 1, 1966. The amendments made by section 207 \[amending sections 4216 and 6416 of this title\] (relating to partial payments; sales of installment accounts) and 209(a) \[amending section 6412 of this title\] (relating to floor stocks refunds on passenger automobiles, etc.) shall take effect on the day after the date of the enactment of this Act \[June 21, 1965\]. The amendments made by section 210 \[amending provisions set out as a note under section 120 of Title 23, Highways\] (relating to Highway Trust Fund) shall take effect January 1, 1966.
 
 “(3)
 

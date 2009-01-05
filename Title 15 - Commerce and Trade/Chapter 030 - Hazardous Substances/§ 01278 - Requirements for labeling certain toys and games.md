@@ -62,7 +62,59 @@
 
 [Image not captured: t151278f.gif]
 
-#### (c) General labeling requirements
+#### (c) Advertising
+
+#### (1) Requirement
+
+#### (A) Cautionary statement
+
+&emsp;&emsp;Any advertisement by a retailer, manufacturer, importer, distributor, or private labeler (including advertisements on Internet websites or in catalogues or other printed materials) that provides a direct means for the purchase or order of a product for which a cautionary statement is required undersubsection (a) or (b) shall include the appropriate cautionary statement displayed on or immediately adjacent to that advertisement, as modified by regulations issued under paragraph (3).
+
+#### (B) Application to retailers
+
+#### (i) Requirement to inform
+
+&emsp;&emsp;&emsp;A manufacturer, importer, distributor, or private labeler that provides such a product to a retailer shall inform the retailer of any cautionary statement requirement applicable to the product.
+
+#### (ii) Retailer's requirement to inquire
+
+&emsp;&emsp;&emsp;A retailer is not in violation of subparagraph (A) if the retailer requested information from the manufacturer, importer, distributor, or private labeler as to whether the cautionary statement required by subparagraph (A) applies to the product that is the subject of the advertisement and the manufacturer, importer, distributor, or private labeler provided false information or did not provide such information.
+
+#### (C) Display
+
+&emsp;&emsp;The cautionary statement required by subparagraph (A) shall be prominently displayed—
+
+&emsp;&emsp;&emsp;(i) in the primary language used in the advertisement;
+
+&emsp;&emsp;&emsp;(ii) in conspicuous and legible type in contrast by typography, layout, or color with other material printed or displayed in such advertisement; and
+
+&emsp;&emsp;&emsp;(iii) in a manner consistent with part 1500 of title 16, Code of Federal Regulations.
+
+#### (D) Definitions
+
+&emsp;&emsp;In this subsection:
+
+&emsp;&emsp;&emsp;(i) The terms “manufacturer”, “distributor”, and “private labeler” have the meaning given those terms in section 2052 of this title.
+
+&emsp;&emsp;&emsp;(ii) The term “retailer” has the meaning given that term in section 2052 of this title, but does not include an individual whose selling activity is intermittent and does not constitute a trade or business.
+
+#### (2) Effective date
+
+&emsp;The requirement in paragraph (1) shall take effect—
+
+&emsp;&emsp;(A) with respect to advertisements on Internet websites, 120 days after August 14, 2008; and
+
+&emsp;&emsp;(B) with respect to catalogues and other printed materials, 180 days after August 14, 2008.
+
+#### (3) Rulemaking
+
+&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate this section with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effective date of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
+
+#### (4) Enforcement
+
+&emsp;The requirements in paragraph (1) shall be treated as a consumer product safety standard promulgated under section 2058 of this title. The publication or distribution of any advertisement that is not in compliance with paragraph (1) shall be treated as a prohibited act under section 2068(a)(1) of this title.
+
+#### (d) General labeling requirements
 
 #### (1) In general
 
@@ -92,11 +144,19 @@
 
 [Image not captured: t151278h.gif]
 
-#### (d) Treatment as misbranded hazardous substance
+#### (e) Treatment as misbranded hazardous substance
 
 A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection shall be considered a misbranded hazardous substance under section 1261(p) of this title.
 
-(Pub. L. 86–613, §24, as added Pub. L. 103–267, title I, §101(a), June 16, 1994, 108 Stat. 722.)
+(Pub. L. 86–613, §24, as added Pub. L. 103–267, title I, §101(a), June 16, 1994, 108 Stat. 722; amended Pub. L. 110–314, title I, §105, Aug. 14, 2008, 122 Stat. 3031.)
+
+#### References in Text
+
+The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+
+#### Amendments
+
+2008—Subsecs. (c) to (e). Pub. L. 110–314 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 #### Effective Date
 

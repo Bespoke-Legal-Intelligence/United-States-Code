@@ -70,7 +70,7 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 
 #### (1) Aboriginal interests
 
-&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest,or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
+&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest, or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
 
 #### (2) Personal claims
 

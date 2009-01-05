@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1661\.](%C2%A7%2001661%20-%20Islands%20of%20Tutuila%2C%20Manua%2C%20and%20eastern%20Samoa.md) | Islands of Tutuila, Manua, and eastern Samoa. |
+| [1661\.](%C2%A7%2001661%20-%20Islands%20of%20eastern%20Samoa.md) | Islands of eastern Samoa. |
 | [1662\.](%C2%A7%2001662%20-%20Sovereignty%20of%20United%20States%20extended%20over%20Swains%20Island.md) | Sovereignty of United States extended over Swains Island. |
 | [1662a.](%C2%A7%2001662a%20-%20Amendment%20of%20constitution%20of%20American%20Samoa.md) | Amendment of constitution of American Samoa. |
 | [1663\.](%C2%A7%2001663%20-%20Acknowledgment%20of%20deeds.md) | Acknowledgment of deeds. |
@@ -23,7 +23,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01661 - Islands of Tutuila, Manua, and eastern Samoa](%C2%A7%2001661%20-%20Islands%20of%20Tutuila%2C%20Manua%2C%20and%20eastern%20Samoa.md)
+- [&sect; 01661 - Islands of eastern Samoa](%C2%A7%2001661%20-%20Islands%20of%20eastern%20Samoa.md)
 - [&sect; 01662 - Sovereignty of United States extended over Swains Island](%C2%A7%2001662%20-%20Sovereignty%20of%20United%20States%20extended%20over%20Swains%20Island.md)
 - [&sect; 01662a - Amendment of constitution of American Samoa](%C2%A7%2001662a%20-%20Amendment%20of%20constitution%20of%20American%20Samoa.md)
 - [&sect; 01663 - Acknowledgment of deeds](%C2%A7%2001663%20-%20Acknowledgment%20of%20deeds.md)

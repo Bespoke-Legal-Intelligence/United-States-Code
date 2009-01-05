@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To carry out this subchapter, the Secretary shall use funds of the Commodity Credit Corporation, or commodities of the Commodity Credit Corporation of a comparable value, in the amount of $34,500,000 for each of fiscal years 2002 through 2007.
+To carry out this subchapter, the Secretary shall use funds of the Commodity Credit Corporation, or commodities of the Commodity Credit Corporation of a comparable value, in the amount of $34,500,000 for each of fiscal years 2008 through 2012.
 
 #### (b) Program priorities
 
@@ -20,9 +20,15 @@ In providing any amount of funds or commodities made available under subsection 
 
 &emsp;&emsp;(B) proposals submitted for activities in markets other than emerging markets.
 
-(Pub. L. 95–501, title VII, §703, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, §3105(b), May 13, 2002, 116 Stat. 291.)
+(Pub. L. 95–501, title VII, §703, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, §3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, §3104(b), June 18, 2008, 122 Stat. 1833.)
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–246 substituted “2008 through 2012” for “2002 through 2007”.
+
 2002—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of fiscal years 1996 through 2002.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

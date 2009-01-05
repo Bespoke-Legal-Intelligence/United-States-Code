@@ -44,7 +44,7 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in regulations, all members of the same group of financially related corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
+&emsp;Except as otherwise provided in regulations, all members of the same group of financiallyrelated corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
 
 #### (2) Group of financially related corporations
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 97–34, §235, added subsec. (f).
 
 1976—Subsecs. (a), (c), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relatingto involuntary liquidation and replacement of LIFO inventories.
+Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
 
 #### Effective Date of 1984 Amendment
 

@@ -12,7 +12,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to provide technical and other assistance to speed international efforts to establish regional tsunami warning systems in vulnerable areas worldwide, including the Indian Ocean; and
 
-&emsp;(6) to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
+&emsp;(6) to improve Federal, State, and international coordination for detection, warnings,and outreach for tsunami and other coastal impacts.
 
 (Pub. L. 109–424, §3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, §803, Jan. 12, 2007, 120 Stat. 3653.)
 

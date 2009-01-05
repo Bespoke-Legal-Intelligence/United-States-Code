@@ -38,5 +38,5 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (c), is act June 25, 1938, c
 
 #### Prior Provisions
 
-A prior section 2\[36\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+A prior section 2\[36\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
 

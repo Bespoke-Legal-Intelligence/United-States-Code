@@ -26,7 +26,7 @@ In a case of actual controversy involving—
 
 #### (2) Exhaustion of administrative remedies
 
-&emsp;A declaratory judgment or decree under this section shall not be issued in any proceeding unless the Tax Court, the Court of Federal Claims, or the district court of the United States for the District of Columbia determines that the organization involved has exhausted administrative remedies available to it within the Internal Revenue Service. An organization requesting the determination of an issue referred to in subsection (a)(1) shall be deemed to have exhausted its administrative remedies with respect to a failure by the Secretary to make a determination with respect to such issue at the expiration of 270 days after the date on which the request for such determination was made if the organization has taken, in a timely manner, all reasonable steps to secure such determination.
+&emsp;A declaratory judgment or decree under this section shall not be issued in any proceedingunless the Tax Court, the Court of Federal Claims, or the district court of the United States for the District of Columbia determines that the organization involved has exhausted administrative remedies available to it within the Internal Revenue Service. An organization requesting the determination of an issue referred to in subsection (a)(1) shall be deemed to have exhausted its administrative remedies with respect to a failure by the Secretary to make a determination with respect to such issue at the expiration of 270 days after the date on which the request for such determination was made if the organization has taken, in a timely manner, all reasonable steps to secure such determination.
 
 #### (3) Time for bringing action
 
@@ -106,7 +106,7 @@ Pub. L. 108–357, title III, §317(b), Oct. 22, 2004, 118 Stat. 1470, provided 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

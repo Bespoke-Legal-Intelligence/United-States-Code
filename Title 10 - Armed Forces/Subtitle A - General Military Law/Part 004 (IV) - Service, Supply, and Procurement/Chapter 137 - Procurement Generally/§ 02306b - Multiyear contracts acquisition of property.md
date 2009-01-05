@@ -16,6 +16,8 @@ In General.—To the extent that funds are otherwise available for obligation, t
 
 &emsp;(6) In the case of a purchase by the Department of Defense, that the use of such a contract will promote the national security of the United States.
 
+&emsp;(7) In the case of a contract in an amount equal to or greater than $500,000,000, that the conditions required by subparagraphs (C) through (F) of paragraph (1) of subsection (i) will be met, in accordance with the Secretary's certification and determination under such subsection, by such contract.
+
 (b)
 
 Regulations.—(1) Each official named in paragraph (2) shall prescribe acquisition regulations for the agency or agencies under the jurisdiction of such official to promote the use of multiyear contracting as authorized by subsection (a) in a manner that will allow the most efficient use of multiyear contracting.
@@ -48,7 +50,7 @@ Protection of Existing Authority.—The regulations shall provide that, to the e
 
 (f)
 
-Cancellation or Termination for Insufficient Funding.—In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
+Cancellation or Termination for Insufficient Funding.—In the event funds are not madeavailable for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -78,11 +80,21 @@ Defense Acquisitions of Weapon Systems.—In the case of the Department of Defen
 
 (i)
 
-Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract may not be entered into for any fiscal year under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless each of the following conditions is satisfied:
+Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract may not be entered into for any fiscal year under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing by no later than March 1 of the year in which the Secretary requests legislative authority to enter into such contract that each of the following conditions is satisfied:
 
-&emsp;(A) The Secretary of Defense certifies to Congress that the current future-years defense program fully funds the support costs associated with the multiyear program.
+&emsp;(A) The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
 
-&emsp;(B) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
+&emsp;(B) The Secretary's determination under subparagraph (A) was made after the completion of a cost analysis performed by the Cost Analysis Improvement Group of the Department of Defense and such analysis supports the findings.
+
+&emsp;(C) The system being acquired pursuant to such contract has not been determined to have experienced cost growth in excess of the critical cost growth threshold pursuant to section 2433(d) of this title within 5 years prior to the date the Secretary anticipates such contract (or a contract for advance procurement entered into consistent with the authorization for such contract) will be awarded.
+
+&emsp;(D) A sufficient number of end items of the system being acquired under such contract have been delivered at or within the most current estimates of the program acquisition unit cost or procurement unit cost for such system to determine that current estimates of such unit costs are realistic.
+
+&emsp;(E) During the fiscal year in which such contract is to be awarded, sufficient funds will be available to perform the contract in such fiscal year, and the future-years defense program for such fiscal year will include the funding required to execute the program without cancellation.
+
+&emsp;(F) The contract is a fixed price type contract.
+
+&emsp;(G) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
 (2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
@@ -91,6 +103,12 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 (4)(A) The Secretary of Defense may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
 
 (B) The Secretary of Defense may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
+
+(5) The Secretary may make the certification under paragraph (1) notwithstanding the fact that one or more of the conditions of such certification are not met if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
+
+(6) The Secretary of Defense may not delegate the authority to make the certification under paragraph (1) or the determination under paragraph (5) to an official below the level of Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+(7) The Secretary of Defense shall send a notification containing the findings of the agency head under subsection (a), and the basis for such findings, 30 days prior to the award of a multiyear contract for a defense acquisition program that has been specifically authorized by law.
 
 (j)
 
@@ -142,7 +160,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
-(6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
+(6) The head of an agency may not terminate a multiyear procurement contract until 10 daysafter the date on which notice of the proposed termination is provided to the congressional defense committees.
 
 (7) The execution of multiyear contracting authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
@@ -154,9 +172,21 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;(B) The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060.)
+(m)
+
+Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
+
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217.)
 
 #### Amendments
+
+2008—Subsec. (a)(7). Pub. L. 110–181, §811(a)(1), added par. (7).
+
+Subsec. (i)(1). Pub. L. 110–181, §811(a)(2), (3), inserted “the Secretary of Defense certifies in writing by no later than March 1 of the year in which the Secretary requests legislative authority to enter into such contract that” after “unless” in introductory provisions, added subpars. (A) to (F), redesignated former subpar. (B) as (G), and struck out former subpar. (A) which read as follows: “The Secretary of Defense certifies to Congress that the current future-years defense program fully funds the support costs associated with the multiyear program.”
+
+Subsec. (i)(5) to (7). Pub. L. 110–181, §811(a)(4), added pars. (5) to (7).
+
+Subsec. (m). Pub. L. 110–181, §811(a)(5), added subsec. (m).
 
 2004—Subsec. (g). Pub. L. 108–375, §814(a)(1), designated existing provisions as par. (1).
 
@@ -212,6 +242,10 @@ Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VIII, §811(b), Jan. 28, 2008, 122 Stat. 219, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Jan. 28, 2008\] and shall apply with respect to multiyear contracts for the purchase of major systems for which legislative authority is requested on or after that date.”
+
 #### Effective Date of 2002 Amendments
 
 Pub. L. 107–314, div. A, title VIII, §820(b), Dec. 2, 2002, 116 Stat. 2614, provided that:
@@ -259,6 +293,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 110–329, div. C, title VIII, §8011, Sept. 30, 2008, 122 Stat. 3621.
 
 Pub. L. 110–116, div. A, title VIII, §8010, Nov. 13, 2007, 121 Stat. 1315.
 

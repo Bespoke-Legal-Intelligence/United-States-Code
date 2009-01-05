@@ -4,7 +4,7 @@
 
 #### (1) Appointment
 
-&emsp;The Secretary, in consultation with the Secretary of State, shall appoint at least 6 but not more than 12 individuals to serve as members of the advisory panel, selected from among individuals who are—
+&emsp;The Secretary, in consultation with the Secretary of State, shall appoint at least 6 butnot more than 12 individuals to serve as members of the advisory panel, selected from among individuals who are—
 
 &emsp;&emsp;(A) knowledgeable or experienced in the harvesting, processing, marketing, management, conservation, or research of the offshore whiting resource; and
 

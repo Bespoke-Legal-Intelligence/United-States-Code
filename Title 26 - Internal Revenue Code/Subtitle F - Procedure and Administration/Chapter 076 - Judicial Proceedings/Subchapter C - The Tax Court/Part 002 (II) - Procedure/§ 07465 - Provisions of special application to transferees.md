@@ -2,7 +2,7 @@
 
 &emsp;&emsp;<b>(1) For rules of burden of proof in transferee proceedings, see section 6902(a).</b>
 
-&emsp;&emsp;<b>(2) For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).</b>
+&emsp;&emsp;<b>(2) For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer</b><b>shall be entitled to examine books, records and other evidence, see section 6902(b).</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 888, §7463; renumbered §7464, Pub. L. 91–172, title IX, §957(a), Dec. 30, 1969, 83 Stat. 733; renumbered §7465, Pub. L. 96–589, §6(c)(1), Dec. 24, 1980, 94 Stat. 3407.)
 

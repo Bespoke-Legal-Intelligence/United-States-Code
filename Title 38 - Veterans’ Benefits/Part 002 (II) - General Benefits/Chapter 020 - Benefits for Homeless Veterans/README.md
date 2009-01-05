@@ -26,7 +26,7 @@
 | :--- | ---: |
 | [2021\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002021%20-%20Homeless%20veterans%20reintegration%20programs.md) | Homeless veterans reintegration programs. |
 | [2022\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002022%20-%20Coordination%20of%20outreach%20services%20for%20veterans%20at%20risk%20of%20homelessness.md) | Coordination of outreach services for veterans at risk of homelessness. |
-| [2023\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002023%20-%20Demonstration%20program%20of%20referral%20and%20counseling%20for%20veterans%20transitioning%20from%20certain%20institutions%20who%20are%20at%20risk%20for%20homelessness.md) | Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness. |
+| [2023\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002023%20-%20Referral%20and%20counseling%20services%20veterans%20at%20risk%20of%20homelessness%20who%20are%20transitioning%20from%20certain%20institutions.md) | Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +48,7 @@
 | [2041\.](Subchapter%20005%20%28V%29%20-%20Housing%20Assistance/%C2%A7%2002041%20-%20Housing%20assistance%20for%20homeless%20veterans.md) | Housing assistance for homeless veterans. |
 | [2042\.](Subchapter%20005%20%28V%29%20-%20Housing%20Assistance/%C2%A7%2002042%20-%20Supported%20housing%20for%20veterans%20participating%20in%20compensated%20work%20therapies.md) | Supported housing for veterans participating in compensated work therapies. |
 | [2043\.](Subchapter%20005%20%28V%29%20-%20Housing%20Assistance/%C2%A7%2002043%20-%20Domiciliary%20care%20programs.md) | Domiciliary care programs. |
+| [2044\.](Subchapter%20005%20%28V%29%20-%20Housing%20Assistance/%C2%A7%2002044%20-%20Financial%20assistance%20for%20supportive%20services%20for%20very%20low-income%20veteran%20families%20in%20permanent%20housing.md) | Financial assistance for supportive services for very low-income veteran families in permanent housing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,6 +75,10 @@
 | [2066\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002066%20-%20Advisory%20Committee%20on%20Homeless%20Veterans.md) | Advisory Committee on Homeless Veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2008—Pub. L. 110–387, title VI, §§602(e), 604(b)(2), Oct. 10, 2008, 122 Stat. 4132, 4136, substituted “Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions” for “Demonstration program of referral and counseling for veterans transitioning from certain institutions who are at risk for homelessness” in item 2023 and added item 2044.
 
 
 ---

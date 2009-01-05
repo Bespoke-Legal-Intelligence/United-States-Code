@@ -34,7 +34,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Failure to request access
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period oftime, with the implementation schedule contained in such agreement.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
 
 #### (2) Specific interconnection requirements
 
@@ -44,7 +44,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(i)(I) such company is providing access and interconnection pursuant to one or more agreements described in paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(II) such company is generally offering access and interconnection pursuant to a statement described in paragraph (1)(B), and
+&emsp;&emsp;&emsp;(II) such company is generally offering access and interconnection pursuant to astatement described in paragraph (1)(B), and
 
 &emsp;&emsp;&emsp;(ii) such access and interconnection meets the requirements of subparagraph (B) of this paragraph.
 
@@ -104,13 +104,13 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (3) Determination
 
-&emsp;Not later than 90 days after receiving an application under paragraph (1), the Commission shall issue a written determination approving or denying the authorization requested in the application for each State. The Commission shall not approve the authorization requestedin an application submitted under paragraph (1) unless it finds that—
+&emsp;Not later than 90 days after receiving an application under paragraph (1), the Commission shall issue a written determination approving or denying the authorization requested in the application for each State. The Commission shall not approve the authorization requested in an application submitted under paragraph (1) unless it finds that—
 
 &emsp;&emsp;(A) the petitioning Bell operating company has met the requirements of subsection (c)(1) of this section and—
 
 &emsp;&emsp;&emsp;(i) with respect to access and interconnection provided pursuant to subsection (c)(1)(A) of this section, has fully implemented the competitive checklist in subsection (c)(2)(B) of this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B) of this section, such statement offers all of the items included in the competitive checklist in subsection (c)(2)(B) of this section;
+&emsp;&emsp;&emsp;(ii) with respect to access and interconnection generally offered pursuant to a statement under subsection (c)(1)(B) of this section, such statement offers all ofthe items included in the competitive checklist in subsection (c)(2)(B) of this section;
 
 &emsp;&emsp;(B) the requested authorization will be carried out in accordance with the requirements of section 272 of this title; and
 
@@ -178,7 +178,7 @@ For purposes of this section, the term “incidental interLATA services” means
 
 &emsp;(3) of commercial mobile services in accordance with section 332(c) of this title and with the regulations prescribed by the Commission pursuant to paragraph (8) of such section;
 
-&emsp;(4) of a service that permits a customer that is located in one LATA to retrieve stored information from, or file information for storage in, information storage facilities of such company that are located in another LATA;
+&emsp;(4) of a service that permits a customer that is located in one LATA to retrieve stored information from, or file information for storagein, information storage facilities of such company that are located in another LATA;
 
 &emsp;(5) of signaling information used in connection with the provision of telephone exchange services or exchange access by a local exchange carrier; or
 

@@ -28,7 +28,7 @@ Each recipient of a grant or other payment made under this chapter shall keep su
 
 #### (6) Special rules for audits by the Commission
 
-&emsp;In addition to the audits described in paragraph (1), the Election Assistance Commissionmay conduct a special audit or special examination of a recipient described in paragraph (1) upon a vote of the Commission.
+&emsp;In addition to the audits described in paragraph (1), the Election Assistance Commission may conduct a special audit or special examination of a recipient described in paragraph (1) upon a vote of the Commission.
 
 #### (c) Recoupment of funds
 

@@ -20,7 +20,7 @@ Inspections and Investigations.—
 
 In general.—A designated officer, employee, or agent of the Secretary—
 
-&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner,records and property relating to a function described in section 5103(b)(1);
+&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner, records and property relating to a function described in section 5103(b)(1);
 
 &emsp;&emsp;(B) except in the case of packaging immediately adjacent to its hazardous material contents, may gain access to, open, and examine a package offered for, or in, transportation when the officer, employee, or agent has an objectively reasonable and articulable belief that the package may contain a hazardous material;
 
@@ -72,7 +72,7 @@ Opportunity for review.—After taking action under paragraph (1), the Secretary
 
 &emsp;(4)
 
-Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under that paragraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
+Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under thatparagraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
 
 &emsp;(5)
 
@@ -100,7 +100,7 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 &emsp;(C) conduct a continuous review on all aspects of transporting hazardous material to decide on and take appropriate actions to ensure safe transportation of hazardous material.
 
-(2) Paragraph (1) of this subsection does not prevent the Secretary from making a contractwith a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
+(2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
 (g)
 
@@ -120,9 +120,9 @@ Report.—The Secretary shall, once every 2 years, prepare and transmit to the C
 
 &emsp;(1) a statistical compilation of accidents and casualties related to the transportation of hazardous material;
 
-&emsp;(2) a list and summary of applicable Government regulations, criteria, orders, and exemptions;
+&emsp;(2) a list and summary of applicable Government regulations, criteria, orders, and special permits;
 
-&emsp;(3) a summary of the basis for each exemption;
+&emsp;(3) a summary of the basis for each special permit;
 
 &emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a function regulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
 
@@ -130,7 +130,7 @@ Report.—The Secretary shall, once every 2 years, prepare and transmit to the C
 
 &emsp;(6) recommendations for appropriate legislation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678; Pub. L. 109–59, title VII, §§7118, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678; Pub. L. 109–59, title VII, §§7118, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909; Pub. L. 110–244, title III, §302(e), June 6, 2008, 122 Stat. 1618.)
 
 Historical and Revision Notes
 
@@ -183,6 +183,10 @@ In subsection (e), before clause (1), the words “prepare and” and “compreh
 The date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+2008—Subsec. (h)(2). Pub. L. 110–244, §302(e)(1), substituted “special permits” for “exemptions”.
+
+Subsec. (h)(3). Pub. L. 110–244, §302(e)(2), substituted “special permit” for “exemption”.
 
 2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
 

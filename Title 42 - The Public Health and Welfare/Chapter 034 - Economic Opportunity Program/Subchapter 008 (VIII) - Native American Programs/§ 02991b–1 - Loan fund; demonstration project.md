@@ -8,7 +8,7 @@
 
 &emsp;(B) into which all payments, interest, charges, and other amounts collected from loans made under subparagraph (A) shall be deposited notwithstanding any other provision of law.
 
-(2) The agreement under which a grant is awarded under paragraph (1) shall contain provisions which set forth the administrative costs of the grantee that are to be paid out of the funds provided under the grant and a requirement that the grantee contribute to the revolving loan fund an amount of non-Federal funds equal to the amount of such grant.
+(2) The agreement under which a grant is awarded under paragraph (1) shall contain provisions which set forth the administrative costs of the grantee that are to be paid out of the funds provided under the grant and a requirement that the grantee contribute to the revolving loanfund an amount of non-Federal funds equal to the amount of such grant.
 
 #### (b) Loans or loan guarantees to borrowers; determinations; term; interest rate; default and collection procedures; prohibition on self-lending
 

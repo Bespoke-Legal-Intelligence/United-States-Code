@@ -44,7 +44,7 @@
 
 (6)(A) Upon making a determination under paragraph (4) or (5), the Secretary shall submit to Congress a report on the options for removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the State of South Carolina after April 15, 2002.
 
-(B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
+(B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental PolicyAct of 1969 (42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
 
 (C) Upon submittal of a report under paragraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
 
@@ -112,7 +112,7 @@ In this section:
 
 &emsp;The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
 
-(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280.)
+(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B)
 
 #### Amendments
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–103, §313(1)(A), substituted “2012” for “2009” in two places.
+<b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–103, §313(1)(A), substituted “2012” for “2009” in two places.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 109–103, §313(1)(B)(i), substituted “2012” for “2009”.
 

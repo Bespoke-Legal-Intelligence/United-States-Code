@@ -12,7 +12,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks),branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
@@ -30,7 +30,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 #### (c) Agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection\(b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d) of this section.
+For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d) of this section.
 
 #### (d) Rules and regulations
 
@@ -70,7 +70,7 @@ Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;“(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+1989—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
 
 1984—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 

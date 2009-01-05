@@ -8,7 +8,7 @@
 
 &emsp;(2)(A) is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part by any lender which is itself regulated by any agency of the Federal Government; or
 
-&emsp;(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary of Housing and Urban Development or any other officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency; or
+&emsp;(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary of Housing and UrbanDevelopment or any other officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency; or
 
 &emsp;(C) is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or
 

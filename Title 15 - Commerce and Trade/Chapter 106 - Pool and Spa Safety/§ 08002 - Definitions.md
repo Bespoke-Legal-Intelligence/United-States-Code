@@ -30,5 +30,19 @@ In this chapter:
 
 &emsp;The term “unblockable drain” means a drain of any size and shape that a human body cannot sufficiently block to create a suction entrapment hazard.
 
-(Pub. L. 110–140, title XIV, §1403, Dec. 19, 2007, 121 Stat. 1795.)
+#### (8) State
+
+&emsp;The term “State” has the meaning given such term in section 2052(10) <sup>1</sup> of this title, and includes the Northern Mariana Islands.
+
+(Pub. L. 110–140, title XIV, §1403, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, §238(1), Aug. 14, 2008, 122 Stat. 3076.)
+
+#### References in Text
+
+Section 2052(10) of this title, referred to in par. (8), was redesignated section 2052(15) of this title by Pub. L. 110–314, title II, §235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
+
+#### Amendments
+
+2008—Par. (8). Pub. L. 110–314 added par. (8).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

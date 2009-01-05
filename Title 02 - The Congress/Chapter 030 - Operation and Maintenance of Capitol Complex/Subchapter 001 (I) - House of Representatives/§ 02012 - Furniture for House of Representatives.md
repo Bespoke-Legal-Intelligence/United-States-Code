@@ -1,6 +1,6 @@
 ### §2012. Furniture for House of Representatives
 
-The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall beprocured on designs and specifications made or approved by the said Architect.
+The Architect of the Capitol shall supervise and direct the care and repair of all furniture in the Hall, cloakrooms, lobby, committee rooms, and offices of the House, and all furniture required for the House of Representatives or for any of its committee rooms or offices shall be procured on designs and specifications made or approved by the said Architect.
 
 (Apr. 28, 1902, ch. 594, 32 Stat. 125.)
 

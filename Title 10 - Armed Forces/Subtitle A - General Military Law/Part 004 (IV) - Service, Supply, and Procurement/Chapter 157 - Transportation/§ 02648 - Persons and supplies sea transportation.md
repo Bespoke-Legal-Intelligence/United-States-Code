@@ -46,7 +46,7 @@ Reference to the Philippine government, contained in the source statute for 10:1
 
 #### Amendments
 
-2004—Pub. L. 108–375, §1072(b)(1), in introductory provisions, substituted “Secretary of Defense” for “Secretary of the Army” and struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any military transport agency of” before “the Departmentof Defense”, redesignated pars. (4) to (8) as (1) to (5), respectively, in par. (5), substituted “members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4)” for “persons described in clauses (1), (2), (4), (5), and (7)”, in concluding provisions, substituted “paragraph (4) or (5)” for “clause (7) or (8)”, and struck out former pars. (1) to (3) which read as follows:
+2004—Pub. L. 108–375, §1072(b)(1), in introductory provisions, substituted “Secretary of Defense” for “Secretary of the Army” and struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any military transport agency of” before “the Department of Defense”, redesignated pars. (4) to (8) as (1) to (5), respectively, in par. (5), substituted “members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4)” for “persons described in clauses (1), (2), (4), (5), and (7)”, in concluding provisions, substituted “paragraph (4) or (5)” for “clause (7) or (8)”, and struck out former pars. (1) to (3) which read as follows:
 
 “(1) Members of the Navy, Marine Corps, or Coast Guard.
 

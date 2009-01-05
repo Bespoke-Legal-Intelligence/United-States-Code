@@ -6,7 +6,7 @@
 
 &emsp;(2) if a warrant officer of a regular component, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in the regular grade held by him when his name was placed on the temporary disability retired list, or in the next higher regular warrant grade;
 
-&emsp;(3) if an enlisted member of a regular component, be reenlisted in the regular grade heldby him when his name was placed on the temporary disability retired list or in the next higher regular enlisted grade;
+&emsp;(3) if an enlisted member of a regular component, be reenlisted in the regular grade held by him when his name was placed on the temporary disability retired list or in the next higher regular enlisted grade;
 
 &emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component in the reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
 

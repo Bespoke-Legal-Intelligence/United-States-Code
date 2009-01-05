@@ -2,7 +2,7 @@
 
 #### (a) Allotment equalization payments
 
-The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit of the Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 (41 Stat. 3, 24.)
+The Secretary of the Interior is authorized and directed to use any funds on deposit in the Treasury of the United States to the credit ofthe Creek Nation to complete allotment equalization payments to persons with claims thereto that were filed and adjudicated in accordance with the provisions of section 18 in the Act of June 30, 1919 (41 Stat. 3, 24.)
 
 #### (b) Per capita payments to enrollees, heirs, or legatees
 
@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized to distribute per capita to the memb
 
 #### (c) Judgment payments
 
-The Secretary of the Interior is authorized and directed to distribute among the persons entitled thereto the funds appropriated by chapter XII of the Third Supplemental Appropriation Act, 1952 (66 Stat. 101, 121), in payment of the judgment entered by the Indian Claims Commission in favor of the Loyal Creek Band or Groupof Creek Indians et al., Docket No. 1. Such funds shall be paid to those persons whose names appear on the payroll prepared pursuant to the Act of March 3, 1903 (32 Stat. 982, 994), by J. Blair Schoenfelt, United States Indian Agent, or to their heirs or legatees, on a pro rata basis in proportion to the amounts appearing opposite their names on such payroll.
+The Secretary of the Interior is authorized and directed to distribute among the persons entitled thereto the funds appropriated by chapter XII of the Third Supplemental Appropriation Act, 1952 (66 Stat. 101, 121), in payment of the judgment entered by the Indian Claims Commission in favor of the Loyal Creek Band or Group of Creek Indians et al., Docket No. 1. Such funds shall be paid to those persons whose names appear on the payroll prepared pursuant to the Act of March 3, 1903 (32 Stat. 982, 994), by J. Blair Schoenfelt, United States Indian Agent, or to their heirs or legatees, on a pro rata basis in proportion to the amounts appearing opposite their names on such payroll.
 
 (Aug. 1, 1955, ch. 444, §2, 69 Stat. 431.)
 

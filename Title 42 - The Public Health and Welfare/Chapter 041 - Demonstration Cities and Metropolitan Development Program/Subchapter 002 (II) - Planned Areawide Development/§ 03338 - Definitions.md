@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(1) “Areawide development” means all projects or programs for the acquisition, use, anddevelopment of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
+(1) “Areawide development” means all projects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
 (2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
@@ -26,7 +26,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), was omitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
+Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), wasomitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
 
 Section 8 of the Federal Water Pollution Control Act, referred to in par. (2), which related to grants for construction of sewerage treatment works, was formerly classified to section 1158 of Title 33, Navigation and Navigable Waters, prior to the reorganization of that Act by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See Codification note set out under section 1251 of Title 33. Provisions of the Act relating to grants for construction of treatment works appear in section 1281 et seq. of Title 33.
 

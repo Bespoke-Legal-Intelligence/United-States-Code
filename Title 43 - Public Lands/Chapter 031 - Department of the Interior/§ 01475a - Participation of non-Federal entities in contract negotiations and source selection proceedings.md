@@ -6,7 +6,7 @@ On and after October 2, 1992, the Bureau of Reclamation may invite non-Federal e
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, whichis set out in the Appendix to Title 5, Government Organization and Employees.
 
 No act with the title Federal Procurement Integrity Act, referred to in text, has been enacted. The Federal Procurement Integrity Act probably means section 27 of Pub. L. 93–400, as added by Pub. L. 100–679, §6(a), Nov. 17, 1988, 102 Stat. 4063, which is classified to section 423 of Title 41, Public Contracts.
 

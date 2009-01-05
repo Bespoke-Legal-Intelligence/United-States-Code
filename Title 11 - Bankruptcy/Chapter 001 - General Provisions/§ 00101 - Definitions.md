@@ -1332,6 +1332,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–438, §1, Oct. 20, 2008, 122 Stat. 5000, provided that: “This Act \[amending section 707 of this title and enacting provisions set out as a note under section 707 of this title\] may be cited as the ‘National Guard and Reservists Debt Relief Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–439, §1, Dec. 20, 2006, 120 Stat. 3285, provided that: “This Act \[amending section 1325 of this title\] may be cited as the ‘Religious Liberty and Charitable Donation Clarification Act of 2006’.”

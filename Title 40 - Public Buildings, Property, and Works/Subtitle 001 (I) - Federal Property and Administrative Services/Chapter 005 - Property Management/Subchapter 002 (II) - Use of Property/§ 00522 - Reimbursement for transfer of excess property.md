@@ -6,7 +6,7 @@ In General.—Subject to subsections (b) and (c), the Administrator of General S
 
 (b)
 
-Reimbursement at Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of theproperty, as determined by the Administrator, if—
+Reimbursement at Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—
 
 &emsp;(1) net proceeds are requested under section 574(a) of this title; or
 

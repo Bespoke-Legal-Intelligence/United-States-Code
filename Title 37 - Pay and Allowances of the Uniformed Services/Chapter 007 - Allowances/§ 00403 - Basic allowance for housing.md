@@ -4,7 +4,7 @@
 
 General Entitlement.—(1) Except as otherwise provided by law, a member of a uniformed service who is entitled to basic pay is entitled to a basic allowance for housing at the monthly rates prescribed under this section or another provision of law with regard to the applicable component of the basic allowance for housing. The amount of the basic allowance for housing for a member will vary according to the pay grade in which the member is assigned or distributed for basic pay purposes, the dependency status of the member, and the geographic location of the member. The basic allowance for housing may be paid in advance.
 
-(2) A member of a uniformed service with dependents is not entitled to a basic allowance for housing as a member with dependents unless the member makes a certification to the Secretaryconcerned indicating the status of each dependent of the member. The certification shall be made in accordance with regulations prescribed by the Secretary of Defense.
+(2) A member of a uniformed service with dependents is not entitled to a basic allowance for housing as a member with dependents unless the member makes a certification to the Secretary concerned indicating the status of each dependent of the member. The certification shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
 (b)
 
@@ -38,13 +38,13 @@ Basic Allowance for Housing Inside the United States.—(1) The Secretary of Def
 
 &emsp;(ii) contains one or more military installations that are experiencing a sudden increase in the number of members of the armed forces assigned to the installation.
 
-(B) The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amount by which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
+(B) The Secretary of Defense shall base the amount of the increase to be made in the rates of basic allowance for housing for an area on a determination by the Secretary of the amountby which the costs of adequate housing for civilians have increased in the area by reason of the disaster or the influx of military personnel, except that the increase may not exceed the amount equal to 20 percent of the rate of basic allowance for housing otherwise prescribed for the area.
 
 (C) A member may be paid a basic allowance for housing at a rate increased under this paragraph only if the member certifies to the Secretary concerned that the member has incurred increased housing costs in the area by reason of the disaster or the influx of military personnel.
 
 (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-(E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2008.
+(E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2009.
 
 (c)
 
@@ -114,7 +114,7 @@ Ineligibility During Initial Field Duty or Sea Duty.—(1) A member of a uniform
 
 (g)
 
-Reserve Members.—(1) A member of a reserve component without dependents who is called or ordered to active duty in support of a contingency operation or for a period of more than 30 days, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation or for a period of more than 30 days, may not be denied a basic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—
+Reserve Members.—(1) A member of a reserve component without dependents who is called or ordered to active duty to attend accession training, in support of a contingency operation, or for a period of more than 30 days, or a retired member without dependents who is ordered to active duty under section 688(a) of title 10 in support of a contingency operation or for a period of more than 30 days, may not be denied a basic allowance for housing if, because of that call or order, the member is unable to continue to occupy a residence—
 
 &emsp;(A) which is maintained as the primary residence of the member at the time of the call or order; and
 
@@ -196,9 +196,9 @@ Partial Allowance for Members Without Dependents.—(1) A member of a uniformed 
 
 (<i>o</i>)
 
-Treatment of Low-Cost and No-Cost Moves as Not Being Reassignments.—In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned underthe conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member's entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
+Treatment of Low-Cost and No-Cost Moves as Not Being Reassignments.—In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member's entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, §603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§605(a)–(d), 607, 608, title X, §1087(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292; Pub. L. 107–107, div. A, title VI, §605(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §602, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, §605(a), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §§603, 604, Oct. 28, 2004, 118 Stat. 1944; Pub. L. 109–13, div. A, title I, §1022(a), May 11, 2005, 119 Stat. 251; Pub. L. 109–163, div. A, title VI, §§609(a), 610, 611, Jan. 6, 2006, 119 Stat. 3289, 3290; Pub. L. 109–364, div. A, title VI, §§604(a), 605(a), Oct. 17, 2006, 120 Stat. 2245, 2246.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, §603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§605(a)–(d), 607, 608, title X, §1087(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292; Pub. L. 107–107, div. A, title VI, §605(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §602, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, §605(a), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §§603, 604, Oct. 28, 2004, 118 Stat. 1944; Pub. L. 109–13, div. A, title I, §1022(a), May 11, 2005, 119 Stat. 251; Pub. L. 109–163, div. A, title VI, §§609(a), 610, 611, Jan. 6, 2006, 119 Stat. 3289, 3290; Pub. L. 109–364, div. A, title VI, §§604(a), 605(a), Oct. 17, 2006, 120 Stat. 2245, 2246; Pub. L. 110–181, div. A, title VI, §§602(a), 603(b), Jan. 28, 2008, 122 Stat. 145.)
 
 Historical and Revision Notes
 
@@ -260,6 +260,10 @@ In subsection (g), the word “including” is substituted for the words “and 
 
 #### Amendments
 
+2008—Subsec. (b)(7)(E). Pub. L. 110–181, §603(b), substituted “December 31, 2009” for “December 31, 2008”.
+
+Subsec. (g)(1). Pub. L. 110–181, §602(a), inserted “to attend accession training,” after “called or ordered to active duty” and inserted a comma after “contingency operation” the first time appearing.
+
 2006—Subsec. (b)(7). Pub. L. 109–163, §609(a), added par. (7).
 
 Subsec. (g)(1). Pub. L. 109–163, §610(b), inserted “or for a period of more than 30 days” after “in support of a contingency operation” in two places in introductory provisions.
@@ -300,7 +304,7 @@ Subsec. (d)(4). Pub. L. 108–375, §603(2), inserted first sentence and struck 
 
 Subsecs. (f)(3), (<i>l</i>)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
-Subsec. (<i>o</i>). Pub. L. 107–314 redesignated subsec. (b)(7) as subsec. (<i>o</i>), inserted heading, substituted “In thecase of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be” for “In the case of a member who is assigned to duty inside the United States, the location or the circumstances of which make it necessary that the member be”, and inserted “for the purposes of this section” after “may be treated”.
+Subsec. (<i>o</i>). Pub. L. 107–314 redesignated subsec. (b)(7) as subsec. (<i>o</i>), inserted heading, substituted “In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be” for “In the case of a member who is assigned to duty inside the United States, the location or the circumstances of which make it necessary that the member be”, and inserted “for the purposes of this section” after “may be treated”.
 
 2001—Subsec. (i). Pub. L. 107–107 struck out “who is in a pay grade E–4 (4 or more years of service) or above” after “A member of a uniformed service”.
 
@@ -501,6 +505,10 @@ Subsec. (e). Pub. L. 89–718 substituted “Environmental Science Services Admi
 
 1963—Subsec. (b). Pub. L. 88–132 authorized election by certain officers without dependents not to occupy government quarters.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VI, §602(b), Jan. 28, 2008, 122 Stat. 145, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title VI, §604(b), Oct. 17, 2006, 120 Stat. 2246, provided that: “Paragraph (2) of section 403(g) of title 37, United States Code, as added by subsection (a), shall apply with respect to months beginning on or after October 1, 2006.”
@@ -513,7 +521,7 @@ General rule.—The amendments made by subsection (a) \[amending this section\] 
 
 “(2)
 
-Transitional rule.—After October 1, 2006, the Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard, may pay theallowance authorized by section 403(<i>l</i>)(2) of title 37, United States Code, to a member of the uniformed services who is the spouse of a member who died on active duty during the one-year period ending on that date, except that the payment of the allowance must terminate within 365 days after the date of the member's death.”
+Transitional rule.—After October 1, 2006, the Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard, may pay the allowance authorized by section 403(<i>l</i>)(2) of title 37, United States Code, to a member of the uniformed services who is the spouse of a member who died on active duty during the one-year period ending on that date, except that the payment of the allowance must terminate within 365 days after the date of the member's death.”
 
 Pub. L. 109–163, div. A, title VI, §609(c), Jan. 6, 2006, 119 Stat. 3290, provided that: “The amendments made by this section \[amending this section and section 404a of this title\] shall apply with respect to months beginning on or after September 1, 2005.”
 
@@ -589,7 +597,7 @@ Amendment by section 809(b) of Pub. L. 99–145 effective Oct. 1, 1985, see sect
 
 #### Effective Date of 1984 Amendment
 
-Section 602(f) of Pub. L. 98–525, as amended by Pub. L. 99–145, title VI, §603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L.99–661, div. A, title XIII, §1342(b), Nov. 14, 1986, 100 Stat. 3991, provided that:
+Section 602(f) of Pub. L. 98–525, as amended by Pub. L. 99–145, title VI, §603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L. 99–661, div. A, title XIII, §1342(b), Nov. 14, 1986, 100 Stat. 3991, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 403a of this title, amending this section, section 405 of this title, section 7572 of Title 10, Armed Forces, and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1985.
 
@@ -689,7 +697,7 @@ Pub. L. 99–190, §101(b) \[title VIII, §8088\], Dec. 19, 1985, 99 Stat. 1185,
 
 #### Basic Allowance for Quarters and Variable Housing Allowance
 
-Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
+Section 602(a) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title XIII, §1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec.\(a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
 
 #### Freeze of Variable Housing Allowance at Fiscal Year 1983 Rates
 

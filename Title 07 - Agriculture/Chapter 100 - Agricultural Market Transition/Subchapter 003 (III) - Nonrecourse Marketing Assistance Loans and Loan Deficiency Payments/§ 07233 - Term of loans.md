@@ -6,7 +6,7 @@ In the case of each loan commodity (other than upland cotton or extra long stapl
 
 #### (b) Special rule for cotton
 
-A marketing assistance loan for upland cotton or extra long staple cotton shall have a term of10 months beginning on the first day of the month in which the loan is made.
+A marketing assistance loan for upland cotton or extra long staple cotton shall have a term of 10 months beginning on the first day of the month in which the loan is made.
 
 #### (c) Extensions prohibited
 

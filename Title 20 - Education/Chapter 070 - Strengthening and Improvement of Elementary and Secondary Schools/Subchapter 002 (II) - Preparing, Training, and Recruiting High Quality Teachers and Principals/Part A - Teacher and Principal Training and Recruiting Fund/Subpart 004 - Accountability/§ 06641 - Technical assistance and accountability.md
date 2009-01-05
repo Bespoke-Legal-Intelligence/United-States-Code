@@ -2,7 +2,7 @@
 
 #### (a) Improvement plan
 
-After the second year of the plan described in section 6319(a)(2) of this title, if a State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that a local educational agency in the State has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, for 2 consecutive years, such local educational agency shall develop an improvement plan that will enable the agency to meet such annual measurable objectives and that specifically addresses issues that preventedthe agency from meeting such annual measurable objectives.
+After the second year of the plan described in section 6319(a)(2) of this title, if a State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that a local educational agency in the State has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, for 2 consecutive years, such local educational agency shall develop an improvement plan that will enable the agency to meet such annual measurable objectives and that specifically addresses issues that prevented the agency from meeting such annual measurable objectives.
 
 #### (b) Technical assistance
 
@@ -14,7 +14,7 @@ During the development of the improvement plan described in subsection (a) of th
 
 #### (c) Accountability
 
-After the third year of the plan described in section 6319(a)(2) of this title, if the State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that the local educational agency has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, and has failed to make adequate yearly progress as described under section 6311(b)(2)(B) of this title, for 3 consecutive years, the State educational agency shall enter into an agreement with such local educational agency on the use of that agency's funds under this part. As part of this agreement, the State educational agency—
+After the third year of the plan described in section 6319(a)(2) of this title, if the State educational agency determines, based on the reports described in section 6319(b)(1) of this title, that the local educational agency has failed to make progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title, and has failed to make adequate yearly progress as described under section 6311(b)(2)(B) of this title, for 3 consecutive years, the State educational agency shall enter into an agreement with such local educational agencyon the use of that agency's funds under this part. As part of this agreement, the State educational agency—
 
 &emsp;(1) shall develop, in conjunction with the local educational agency, teachers, and principals, professional development strategies and activities, based on scientifically based research, that the local educational agency will use to meet the annual measurable objectives described in section 6319(a)(2) of this title and require such agency to utilize such strategies and activities; and
 

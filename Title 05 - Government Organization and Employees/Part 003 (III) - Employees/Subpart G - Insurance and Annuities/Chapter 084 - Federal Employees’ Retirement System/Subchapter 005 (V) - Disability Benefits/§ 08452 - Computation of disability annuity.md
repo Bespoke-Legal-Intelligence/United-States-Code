@@ -26,7 +26,7 @@
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
-(ii) For purposes of applying section 224 of the Social Security Act to the assumed disability insurance benefit used to compute the reduction under this paragraph, the amount of the annuity under this subchapter which is considered shall be the amount of the annuity as determined before the application of this paragraph.
+(ii) For purposes of applying section 224 of the Social Security Act to the assumed disabilityinsurance benefit used to compute the reduction under this paragraph, the amount of the annuity under this subchapter which is considered shall be the amount of the annuity as determined before the application of this paragraph.
 
 (3) Section 8462 shall apply with respect to amounts under this subsection only as provided in paragraphs (1) and (2).
 
@@ -36,7 +36,7 @@
 
 (B) In performing a computation under this paragraph—
 
-&emsp;(i) creditable service of an annuitant shall be increased by including any period (or periods) before the annuitant's redetermination dateduring which the annuitant was entitled to an annuity under this subchapter; and
+&emsp;(i) creditable service of an annuitant shall be increased by including any period (or periods) before the annuitant's redetermination date during which the annuitant was entitled to an annuity under this subchapter; and
 
 &emsp;(ii) the average pay which would otherwise be used shall be adjusted to reflect all adjustments made under section 8462(b) with respect to any period (or periods) referred to in clause (i) (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 

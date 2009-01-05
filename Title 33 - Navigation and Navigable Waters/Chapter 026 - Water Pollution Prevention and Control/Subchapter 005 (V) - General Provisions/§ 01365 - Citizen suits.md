@@ -18,7 +18,7 @@ No action may be commenced—
 
 &emsp;&emsp;(A) prior to sixty days after the plaintiff has given notice of the alleged violation (i) to the Administrator, (ii) to the State in which the alleged violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
 
-&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States, or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the UnitedStates any citizen may intervene as a matter of right.
+&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States, or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any citizen may intervene as a matter of right.
 
 &emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice of such action to the Administrator,
 

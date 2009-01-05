@@ -10,9 +10,9 @@ For the purpose of this part, the term “eligible institution” means—
 
 &emsp;(1) an institution of higher education—
 
-&emsp;&emsp;(A) which has an enrollment of needy students as required by subsection (c) <sup>1</sup> of this section;
+&emsp;&emsp;(A) which has an enrollment of needy students as required by subsection (d);
 
-&emsp;&emsp;(B) except as provided in section 1068a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, in comparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
+&emsp;&emsp;(B) except as provided in section 1068a(b) of this title, the average educational and general expenditures of which are low, per full-time equivalent undergraduate student, incomparison with the average educational and general expenditures per full-time equivalent undergraduate student of institutions that offer similar instruction;
 
 &emsp;&emsp;(C) which is—
 
@@ -30,7 +30,7 @@ For the purpose of this part, the term “eligible institution” means—
 
 &emsp;(2) any branch of any institution of higher education described under paragraph (1) which by itself satisfies the requirements contained in subparagraphs (A) and (B) of such paragraph.
 
-> For purposes of the determination of whether an institution is an eligible institution under this paragraph, the factor described under paragraph (1)(A) shall be given twice the weight of the factor described under paragraph (1)(B).
+> For purposes of the determination of whether an institution is an eligible institution under this paragraph,<sup>1</sup> the factor described under paragraph (1)(A) shall be given twice the weight of the factor described under paragraph (1)(B).
 
 #### (c) Endowment fund
 
@@ -44,11 +44,11 @@ For the purpose of this part, the term “endowment fund” means a fund that—
 
 #### (d) Enrollment of needy students
 
-For the purpose of this part, the term “enrollment of needy students” means an enrollment at an institution of higher education or a junior or community college which includes—
+Except as provided in section 1059e(b) of this title, for the purpose of this part, the term “enrollment of needy students” means an enrollment at an institution of higher education or a junior or community college which includes—
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this subdivision is waived under section 1068a(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
 
 #### (e) Full-time equivalent students
 
@@ -68,21 +68,29 @@ For the purpose of this part, the term “junior or community college” means a
 
 &emsp;&emsp;(B) offers a 2-year program in engineering, mathematics, or the physical or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
-#### (g) Historically black college or university
+#### (g) Low-income individual
+
+For the purpose of this part, the term “low-income individual” means an individual from a family whose taxable income for the preceding year did not exceed 150 percent of an amount equal to the poverty level determined by using criteria of poverty established by the Bureau of the Census.
+
+#### (h) Historically black college or university
 
 For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
-(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639.)
-
-#### References in Text
-
-Subsection (c) of this section, referred to in subsec. (b)(1)(A), was redesignated subsec. (d) of this section and a new subsec. (c) was added by Pub. L. 105–244, title III, §303(b), Oct. 7, 1998, 112 Stat. 1639.
+(Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639; Pub. L. 110–315, title III, §§302, 305(b), Aug. 14, 2008, 122 Stat. 3167, 3173.)
 
 #### Prior Provisions
 
-A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1058, Pub. L. 89–329, title III, §312, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1391, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(1)(A). Pub. L. 110–315, §302(1), substituted “subsection (d)” for “subsection (c) of this section”.
+
+Subsec. (d). Pub. L. 110–315, §305(b), substituted “Except as provided in section 1059e(b) of this title, for the purpose” for “For the purpose” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 110–315, §302(2), substituted “paragraph” for “subdivision”.
+
+Subsecs. (g), (h). Pub. L. 110–315, §302(3), (4), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–244, §301(c)(2)(A), substituted “section 1068a(b)” for “section 1067(b)”.
 
@@ -144,5 +152,5 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
 

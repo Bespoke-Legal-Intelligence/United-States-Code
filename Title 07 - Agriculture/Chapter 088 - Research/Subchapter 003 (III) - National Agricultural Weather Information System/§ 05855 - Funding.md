@@ -24,11 +24,27 @@ Funds provided under the authority of this subchapter shall not be used for the 
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated $5,000,000 to carry out this subchapter for each of the fiscal years 1991 through 1997.
+There are authorized to be appropriated $5,000,000 to carry out this subchapter for each of the fiscal years 2008 through 2012.
 
-(Pub. L. 101–624, title XVI, §1641, Nov. 28, 1990, 104 Stat. 3750; Pub. L. 104–127, title VIII, §833, Apr. 4, 1996, 110 Stat. 1168.)
+(Pub. L. 101–624, title XVI, §1641, Nov. 28, 1990, 104 Stat. 3750; Pub. L. 104–127, title VIII, §833, Apr. 4, 1996, 110 Stat. 1168; Pub. L. 110–234, title VII, §§7202, 7511(c)(20), May 22, 2008, 122 Stat. 1233, 1269; Pub. L. 110–246, §4(a), title VII, §§7202, 7511(c)(20), June 18, 2008, 122 Stat. 1664, 1994, 2030.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research Service” in paragraph (2) and for “Extension Service” in paragraph (4).</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–246, §7202, substituted “2008 through 2012” for “1991 through 1997”.
+
 1996—Subsec. (c). Pub. L. 104–127 substituted “1997” for “1995”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(20) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

@@ -30,7 +30,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;&emsp;(ii) supplemental security income payments under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\];
 
-&emsp;&emsp;&emsp;(iii) food stamps under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; or
+&emsp;&emsp;&emsp;(iii) supplemental nutrition assistance program benefits under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\]; or
 
 &emsp;&emsp;&emsp;(iv) payments under section 1315, 1521, 1541, or 1542 of title 38, or under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978; or
 
@@ -48,7 +48,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(5) provide, in a timely manner, that the highest level of assistance will be furnished to those households which have the lowest incomes and the highest energy costs or needs in relation to income, taking into account family size, except that the State may not differentiate in implementing this section between the households described in clause (2)(A) and (2)(B) of this subsection;
 
-&emsp;(6) to the extent it is necessary to designate local administrative agencies in order to carry out the purposes of this subchapter, give special consideration, in the designation of such agencies, to any local public or private nonprofit agency which was receiving Federal funds under any low-income energy assistance program or weatherization program under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] or any other provision of law on August 12, 1981, except that—
+&emsp;(6) to the extent it is necessary to designate local administrative agencies in order to carryout the purposes of this subchapter, give special consideration, in the designation of such agencies, to any local public or private nonprofit agency which was receiving Federal funds under any low-income energy assistance program or weatherization program under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] or any other provision of law on August 12, 1981, except that—
 
 &emsp;&emsp;(A) the State shall, before giving such special consideration, determine that the agency involved meets program and fiscal requirements established by the State; and
 
@@ -62,7 +62,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(C) assure that the home energy supplier will provide assurances that any agreement entered into with a home energy supplier under this paragraph will contain provisions to assure that no household receiving assistance under this subchapter will be treated adversely because of such assistance under applicable provisions of State law or public regulatory requirements; and
 
-&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, includingproviding for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
+&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
 
 &emsp;(8) provide assurances that (A) the State will not exclude households described in clause (2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
 
@@ -88,7 +88,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 > The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection. The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.
 
-Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
+Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success ofthe States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.
 
 #### (c) State plan; revision; public inspection
 
@@ -102,7 +102,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 &emsp;(D) describes weatherization and other energy-related home repair the State will provide under subsection (k) of this section, including any steps the State will take to address the weatherization and energy-related home repair needs of households that have high home energy burdens, and describes any rules promulgated by the Department of Energy for administration of its Low Income Weatherization Assistance Program which the State, to the extent permitted by the Secretary to increase consistency between federally assisted programs, will follow regarding the use of funds provided under this subchapter by the State for such weatherization and energy-related home repairs and improvements;
 
-&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out theassurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
+&emsp;(E) describes any steps that will be taken (in addition to those necessary to carry out the assurance contained in paragraph (5) of subsection (b) of this section) to target assistance to households with high home energy burdens;
 
 &emsp;(F) describes how the State will carry out assurances in clauses (3), (4), (5), (6), (7), (8), (10), (12), (13), and (15) of subsection (b) of this section;
 
@@ -132,9 +132,9 @@ Each State shall, in carrying out the requirements of subsection (b)(10) of this
 
 #### (f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction
 
-(1) Notwithstanding any other provision of law unless enacted in express limitation of this paragraph, the amount of any home energy assistance payments or allowances provided directly to, or indirectly for the benefit of, an eligible household under this subchapter shall not be considered income or resources of such household (or any member thereof) for any purpose under any Federal or State law, including any law relating to taxation, food stamps, public assistance, or welfare programs.
+(1) Notwithstanding any other provision of law unless enacted in express limitation of this paragraph, the amount of any home energy assistance payments or allowances provided directly to, or indirectly for the benefit of, an eligible household under this subchapter shall not be considered income or resources of such household (or any member thereof) for any purpose under any Federal or State law, including any law relating to taxation, supplemental nutrition assistance program benefits, public assistance, or welfare programs.
 
-(2) For purposes of paragraph (1) of this subsection and for purposes of determining any excess shelter expense deduction under section 5(e) of the Food Stamp Act of 1977 (7 U.S.C. 2014(e))—
+(2) For purposes of paragraph (1) of this subsection and for purposes of determining any excess shelter expense deduction under section 5(e) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(e))—
 
 &emsp;(A) the full amount of such payments or allowances shall be deemed to be expended by such household for heating or cooling expenses, without regard to whether such payments or allowances are provided directly to, or indirectly for the benefit of, such household; and
 
@@ -142,7 +142,7 @@ Each State shall, in carrying out the requirements of subsection (b)(10) of this
 
 #### (g) Repayment of funds expended improperly; offset
 
-The State shall repay to the United States amounts found not to have been expended in accordance with this subchapter or the Secretary may offset such amounts against any other amount to which the State is or may become entitled under this subchapter.
+The State shall repay to the United States amounts found not to have been expended in accordance with this subchapter or the Secretary may offset such amounts against any otheramount to which the State is or may become entitled under this subchapter.
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
@@ -160,7 +160,7 @@ A household which is described in subsection (b)(2)(A) of this section solely by
 
 #### (j) State verification of income eligibility; policies and procedures applicable
 
-In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered underthe Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
+In verifying income eligibility for purposes of subsection (b)(2)(B) of this section, the State may apply procedures and policies consistent with procedures and policies used by the State agency administering programs under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under subtitle B of title VI of this Act (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981, or under other income assistance or service programs (as determined by the State).
 
 #### (k) Limitation on use of funds; waiver
 
@@ -198,13 +198,13 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub.L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
@@ -220,7 +220,15 @@ This subchapter, referred to in subsec. (b)(7)(D), was in the original “this A
 
 In subsec. (b)(6), “August 12, 1981” substituted for “the day before the date of the enactment of this Act”, which date of enactment is Aug. 13, 1981.
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(2)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+Subsec. (f)(1). Pub. L. 110–246, §4002(b)(1)(E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+
+Subsec. (f)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(EE), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
 
 1998—Subsec. (b). Pub. L. 105–285, §306(1)(C), (D), struck out “The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection.” in provisions after par. (14) and inserted identical language before “The Secretary shall issue” in concluding provisions after par. (16).
 
@@ -250,7 +258,7 @@ Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disable
 
 Subsec. (b)(5). Pub. L. 103–252, §306(c), inserted “or needs” after “highest energy costs”.
 
-Subsec. (b)(7)(D). Pub. L. 103–252, §311(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
+Subsec. (b)(7)(D). Pub. L. 103–252, §311(a)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: “assure that any home energy supplier receiving direct payments agrees not to discriminate, either in the cost of the goods supplied or the services provided, against the eligible household on whose behalf payments are made;”.
 
 Subsec. (b)(9)(B). Pub. L. 103–252, §305(b)(1), inserted before semicolon at end “(except for the costs of the activities described in paragraph (16))”.
 
@@ -325,6 +333,12 @@ Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inse
 Subsec. (f). Pub. L. 98–558, §605(e), inserted “unless enacted in express limitation of this paragraph”.
 
 Subsec. (h). Pub. L. 98–558, §605(f), inserted “(but not less frequently than every three years)”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (E), (2)(EE) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1996 Amendment
 

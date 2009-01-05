@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any responsibilities delegated under section 4103(c) of this title, the Secretary shall delegate some or all responsibility for implementing this subchapter to a State housing agency if such agency submits a preservation plan acceptable to the Secretary.
+In addition to any responsibilities delegated under section 4103(c) of this title, the Secretaryshall delegate some or all responsibility for implementing this subchapter to a State housing agency if such agency submits a preservation plan acceptable to the Secretary.
 
 #### (b) Approval
 
@@ -14,7 +14,7 @@ State preservation plans shall be submitted in such form and in accordance with 
 
 &emsp;(3) a description of the administrative resources that the agency will commit to the processing of plans of action in accordance with this subchapter;
 
-&emsp;(4) a description of the administrative resources that the agency will commit to themonitoring of approved plans of action in accordance with this subchapter;
+&emsp;(4) a description of the administrative resources that the agency will commit to the monitoring of approved plans of action in accordance with this subchapter;
 
 &emsp;(5) an independent analysis of the performance of the multifamily housing inventory financed or otherwise monitored by the agency;
 

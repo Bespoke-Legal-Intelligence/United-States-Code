@@ -10,7 +10,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(C) a spouse or dependent of a member referred to in subparagraph (A) or (B) who, by reason of the active duty or service of the member, is absent from the place of residence where the spouse or dependent is otherwise qualified to vote;
 
-&emsp;(2) “balloting materials” means official post card forms (prescribed under section 1973ff of this title), Federal write-in absentee ballots\(prescribed under section 1973ff–2 of this title), and any State balloting materials that, as determined by the Presidential designee, are essential to the carrying out of this subchapter;
+&emsp;(2) “balloting materials” means official post card forms (prescribed under section 1973ff of this title), Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title), and any State balloting materials that, as determined by the Presidential designee, are essential to the carrying out of this subchapter;
 
 &emsp;(3) “Federal office” means the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
 

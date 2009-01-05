@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) not a subordinate employee; and
 
-&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of theHatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
+&emsp;&emsp;(C) the solicitation is for a contribution to the multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))) of such Federal labor organization as defined under section 7103(4) of this title or a Federal employee organization which as of the date of the enactment of the Hatch Act Reform Amendments of 1993 had a multicandidate political committee (as defined under section 315(a)(4) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(4))); or
 
 &emsp;(3) run for the nomination or as a candidate for election to a partisan political office; or
 
@@ -64,7 +64,7 @@
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–458, title I, §1079(a), Dec. 17, 2004, 118 Stat. 3695; Pub. L. 109–177, title V, §506(b)(2), Mar. 9, 2006, 120 Stat. 249.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–458, title I, §1079(a), Dec. 17, 2004, 118 Stat. 3695; Pub. L. 109–177, title V, §506(b)(2), Mar. 9, 2006, 120 Stat. 249; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 
@@ -76,11 +76,11 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
+2008—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+
 2006—Subsec. (b)(3). Pub. L. 109–177 inserted “or National Security Division” after “Criminal Division”.
 
 2004—Subsec. (b)(2)(B)(i)(XIV). Pub. L. 108–458 added subcl. (XIV).
-
-2003—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2002—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
 

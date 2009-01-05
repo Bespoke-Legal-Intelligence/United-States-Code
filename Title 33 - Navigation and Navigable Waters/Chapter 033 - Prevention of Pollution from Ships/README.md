@@ -13,7 +13,7 @@
 | [1908\.](%C2%A7%2001908%20-%20Penalties%20for%20violations.md) | Penalties for violations. |
 | [1909\.](%C2%A7%2001909%20-%20MARPOL%20Protocol%3B%20proposed%20amendments.md) | MARPOL Protocol; proposed amendments. |
 | [1910\.](%C2%A7%2001910%20-%20Legal%20actions.md) | Legal actions. |
-| [1911\.](%C2%A7%2001911%20-%20Authority%20of%20Secretary%20under%20port%20and%20tanker%20safety%20program%20unaffected.md) | Authority of Secretary under port and tanker safety program unaffected. |
+| [1911\.](%C2%A7%2001911%20-%20Effect%20on%20other%20laws.md) | Effect on other laws. |
 | [1912\.](%C2%A7%2001912%20-%20International%20law.md) | International law. |
 | [1913\.](%C2%A7%2001913%20-%20Compliance%20reports.md) | Compliance reports. |
 | [1914\.](%C2%A7%2001914%20-%20Coordination.md) | Coordination. |
@@ -43,7 +43,7 @@
 - [&sect; 01908 - Penalties for violations](%C2%A7%2001908%20-%20Penalties%20for%20violations.md)
 - [&sect; 01909 - MARPOL Protocol; proposed amendments](%C2%A7%2001909%20-%20MARPOL%20Protocol%3B%20proposed%20amendments.md)
 - [&sect; 01910 - Legal actions](%C2%A7%2001910%20-%20Legal%20actions.md)
-- [&sect; 01911 - Authority of Secretary under port and tanker safety program unaffected](%C2%A7%2001911%20-%20Authority%20of%20Secretary%20under%20port%20and%20tanker%20safety%20program%20unaffected.md)
+- [&sect; 01911 - Effect on other laws](%C2%A7%2001911%20-%20Effect%20on%20other%20laws.md)
 - [&sect; 01912 - International law](%C2%A7%2001912%20-%20International%20law.md)
 - [&sect; 01913 - Compliance reports](%C2%A7%2001913%20-%20Compliance%20reports.md)
 - [&sect; 01914 - Coordination](%C2%A7%2001914%20-%20Coordination.md)

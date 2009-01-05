@@ -48,7 +48,7 @@ Section 314(a)(6) of this title, referred to in par. (13), was in the original �
 
 #### Change of Name
 
-Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L.109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
+Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 #### (c) Membership
 
-(1) Persons appointed as members of the Council shall be broadly representative of the general public, including educational institutions, private volunteer agencies, private industry, farm organizations, labor unions, different regions ofthe United States, different educational, economic, racial, and national backgrounds and age groupings, and both sexes.
+(1) Persons appointed as members of the Council shall be broadly representative of the general public, including educational institutions, private volunteer agencies, private industry, farm organizations, labor unions, different regions of the United States, different educational, economic, racial, and national backgrounds and age groupings, and both sexes.
 
 (2)(A) The Council shall consist of fifteen voting members who shall be appointed by the President, by and with the advice and consent of the Senate. At least seven of such members shall be former Peace Corps volunteers, and not more than eight of such members shall be members of the same political party.
 

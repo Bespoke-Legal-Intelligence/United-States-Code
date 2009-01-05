@@ -50,7 +50,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (1) In general
 
-&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
+&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their studentsserved under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
 
 &emsp;&emsp;(A) use such program's resources under this part to help participating children meet such State's challenging student academic achievement standards expected for all children;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary, on terms the Secretary may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
+In General.—The Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation eligible to be guaranteed under this chapter. A guarantee or commitment to guarantee shall cover 100 percent of the principal and interest.
 
 (b)
 
@@ -16,11 +16,7 @@ In general.—Notwithstanding any other provision of this chapter, any obligatio
 
 Interest rate.—Notwithstanding any other provision of this chapter, the annual rate of interest an obligor shall pay on a direct loan obligation under this subsection is 2 percent plus the additional percent the Secretary must pay as interest to borrow from the Treasury the funds to make the loan.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsec. (a) of this section was derived from section 1273(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1273(a) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -48,5 +44,13 @@ In subsection (a), the words “on terms the Secretary may prescribe” are adde
 
 #### Codification
 
-Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, ch. 858, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, §303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (d). See 2006 Amendment note below and Codification note above.
+
+Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(a) of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

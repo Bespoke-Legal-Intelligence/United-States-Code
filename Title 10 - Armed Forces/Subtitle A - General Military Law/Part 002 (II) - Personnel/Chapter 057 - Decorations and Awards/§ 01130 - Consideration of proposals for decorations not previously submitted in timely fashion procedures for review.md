@@ -132,7 +132,7 @@ Section 523 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title 
 
 Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award, to any person for an act, achievement, or service that the person performed in carrying out military intelligence duties during the period beginning on January 1, 1940, and ending on December 31, 1990.
 
-“(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the period described in paragraph (1) and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under the regulations of the Department of Defense or the military department concerned to be awarded to a person for an act, achievement, or service performed by that person while serving on active duty.
+“(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during orafter the period described in paragraph (1) and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under the regulations of the Department of Defense or the military department concerned to be awarded to a person for an act, achievement, or service performed by that person while serving on active duty.
 
 “(b)
 

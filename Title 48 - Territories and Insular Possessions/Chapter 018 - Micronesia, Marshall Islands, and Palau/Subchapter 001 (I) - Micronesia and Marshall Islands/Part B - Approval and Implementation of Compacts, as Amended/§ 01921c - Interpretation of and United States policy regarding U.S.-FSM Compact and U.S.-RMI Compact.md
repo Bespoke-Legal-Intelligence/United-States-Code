@@ -8,7 +8,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (1) Naturalized citizens
 
-&emsp;The rights of a bona fide naturalized citizen of the Federated States of Micronesia or the Republic of the Marshall Islands to enter the United States, to lawfully engage therein in occupations, and to establish residence therein as a nonimmigrant, to the extent such rights are provided under section 141 of the U.S.-FSM Compact and U.S.-RMI Compact, shall not be deemed to extend to any such naturalized citizen with respect to whom circumstances associated with the acquisition of the status of a naturalized citizen are such as to allow a reasonable inference, on the part of appropriate officials of the United States and subject to United States procedural requirements, that such naturalized status was acquired primarily in order to obtain such rights.
+&emsp;The rights of a bona fide naturalized citizen of the Federated States of Micronesia or the Republic of the Marshall Islands to enter the United States, to lawfully engage therein in occupations, and to establish residence therein as a nonimmigrant, to the extent such rights are provided under section 141 of the U.S.-FSM Compact and the U.S.-RMI Compact, shall not be deemed to extend to any such naturalized citizen with respect to whom circumstances associated with the acquisition of the status of a naturalized citizen are such as to allow a reasonable inference, on the part of appropriate officials of the United States and subject to United States procedural requirements, that such naturalized status was acquired primarily in order to obtain such rights.
 
 #### (2) Passports
 
@@ -20,7 +20,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (4) Transition; construction of sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and U.S.-RMI Compact
 
-&emsp;The words “the effective date of this Compact, as amended” in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and theU.S.-RMI Compact shall be construed to read, “on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.”.
+&emsp;The words “the effective date of this Compact, as amended” in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact shall be construed to read, “on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.”.
 
 #### (c) Nonalienation of lands
 
@@ -86,7 +86,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (8) Reporting requirement
 
-&emsp;Not later than one year after December 17, 2003, and at one year intervals thereafter, the Governors of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa may provide to the Secretary of the Interior by February 1 of each year their comments with respect to the impacts of the Compacts on their respective jurisdiction. The Secretary of the Interior, upon receipt of any such comments, shall report to the Congress not later than May 1 of each year to include the following:
+&emsp;Not later than one year after December 17, 2003, and at one year intervals thereafter, the Governors of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa may provide to the Secretary of the Interior by February 1 of each year their comments with respect to the impacts of the Compacts on their respective jurisdiction. The Secretary of the Interior, upon receipt of any such comments, shall report to the Congress not later than May 1 of each year and include the following:
 
 &emsp;&emsp;(A) The Governor's comments on the impacts of the Compacts as well as the Administration's analysis of such impact.
 
@@ -100,7 +100,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, the President, to address previously accrued and unreimbursed impact expenses, may at the request of the Governor of Guam or the Governor of the Commonwealth of the Northern Mariana Islands, reduce, release, or waive all or part of any amounts owed by the Government of Guam or the Government of the Commonwealth of the Northern Mariana Islands (or either government's autonomous agencies or instrumentalities), respectively, to any department, agency, independent agency, office, or instrumentality of the United States.
+&emsp;&emsp;Notwithstanding any other provision of law, the President, to address previously accrued and unreimbursed impact expenses, may, at the request of the Governor of Guam or the Governor of the Commonwealth of the Northern Mariana Islands, reduce, release, or waive all or part of any amounts owed by the Government of Guam or the Government of the Commonwealth of the Northern Mariana Islands (or either government's autonomous agencies or instrumentalities), respectively, to any department, agency, independent agency, office, or instrumentality of the United States.
 
 #### (B) Terms and conditions
 
@@ -122,11 +122,11 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (10) Authorization of appropriations for grants
 
-&emsp;There are hereby authorized to the Secretary of the Interior for each of fiscal years 2004 through 2023 such sums as may be necessary for grants to the governments of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa, as a result of increased demands placed on educational, social, or public safety services or infrastructure related to service due to the presence in Guam, Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa of qualified nonimmigrants from the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+&emsp;There are hereby authorized to the Secretary of the Interior for each of fiscal years 2004 through 2023 such sums as may be necessary for grants to the governments of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa, as a result of increased demands placed on educational, social, or public safety services or infrastructure related to such services due to the presence in Guam, Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa of qualified nonimmigrants from the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 #### (f) Foreign loans
 
-Congress hereby reaffirms the United States position that the United States Government isnot responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands.
+Congress hereby reaffirms the United States position that the United States Government is not responsible for foreign loans or debt obtained by the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands.
 
 #### (g) Sense of Congress concerning funding of public infrastructure
 
@@ -162,13 +162,13 @@ Section 141(f)(2) of the Compact of Free Association, as amended, between the Go
 
 #### (j) Inflation adjustment
 
-As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2009 through 2013 is greater than United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2004 through 2008 (as reported in the Survey of Current Business or subsequent publication and compiled by the Department of Interior), then section 217 of the U.S.-FSM Compact, paragraph 5 of Article II of the U.S.-FSM Fiscal Procedures Agreement, section 218 of the U.S.-RMI Compact, and paragraph 5 of Article II of the U.S.-RMI Fiscal Procedures Agreement shall be construed as if “the full” appeared in place of “two-thirds of the” each place those words appear. If an inflation adjustment is made under this subsection, the base year for calculating the inflation adjustment shall be fiscal year 2014.
+As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2009 through 2013 is greater than United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2004 through 2008 (as reported in the Survey of Current Business or subsequent publication and compiled by the Department of the Interior), then section 217 of the U.S.-FSM Compact, paragraph 5 of Article II of the U.S.-FSM Fiscal Procedures Agreement, section 218 of the U.S.-RMI Compact, and paragraph 5 of Article II of the U.S.-RMI Fiscal Procedures Agreement shall be construed as if “the full” appeared in place of “two-thirds of the” each place those words appear. If an inflation adjustment is made under this subsection, the base year for calculating the inflation adjustment shall be fiscal year 2014.
 
 #### (k) Participation by secondary schools in the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program
 
 In furtherance of the provisions of Title Three, Article IV, Section 341 of the U.S.-FSM and the U.S.-RMI Compacts, the purpose of which is to establish the privilege to volunteer for service in the U.S. Armed Forces, it is the sense of Congress that, to facilitate eligibility of FSM and RMI secondary school students to qualify for such service, the Department of Defense may extend the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program (STP) and the ASVAB Career Exploration Program to selected secondary Schools in the FSM and the RMI to the extent such programs are available to Department of Defense Dependent Schools located in foreign jurisdictions.
 
-(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737.)
+(Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871.)
 
 #### References in Text
 
@@ -187,6 +187,18 @@ The Compact of Free Association, as amended, between the Government of the Unite
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, referred to in subsecs. (g) and (i), is contained in section 201(b) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
+
+#### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
+
+Subsec. (e)(8). Pub. L. 110–229, §806(a)(2)(B)(i), substituted “and include” for “to include” in introductory provisions.
+
+Subsec. (e)(9)(A). Pub. L. 110–229, §806(a)(2)(B)(ii), inserted a comma after “impact expenses, may”.
+
+Subsec. (e)(10). Pub. L. 110–229, §806(a)(2)(B)(iii), substituted “related to such services” for “related to service”.
+
+Subsec. (j). Pub. L. 110–229, §806(a)(2)(C), inserted “the” before “Interior),”.
 
 #### Change of Name
 

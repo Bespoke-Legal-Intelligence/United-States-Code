@@ -12,13 +12,13 @@ The Secretary of Energy shall, at each Administration facility not described in 
 
 #### Amendment of Section
 
-<i>Pub. L. 109–364, div. C, title XXXI, §3117(a)(2), Oct. 17, 2006, 120 Stat. 2507, provided that, effective Sept. 30, 2010, this section is amended by substituting “Administrator” for</i><i>“Secretary of Energy” in subsections (a) and (b) and “Administration” for “Office of Counterintelligence of the Department of Energy” in subsection (b).</i>
+<i>Pub. L. 109–364, div. C, title XXXI, §3117(a)(2), Oct. 17, 2006, 120 Stat. 2507, provided that, effective Sept. 30, 2010, this section is amended by substituting “Administrator” for “Secretary of Energy” in subsections (a) and (b) and “Administration” for “Office of Counterintelligence of the Department of Energy” in subsection (b).</i>
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–364, §3117(c)(1), substituted “Secretary of Energy” for “Administrator”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §3117(c)(1), substituted “Secretary of Energy” for “Administrator”.
 
-Subsec. (b). Pub. L. 109–364, §3117(c), substituted “Secretary of Energy” for “Administrator” and “Office of Counterintelligence of the Department of Energy” for “Office of Defense Nuclear Counterintelligence”.
+Subsec. (b). Pub. L. 109–364, §3117(c), substituted “Secretary of Energy” for “Administrator” and “Officeof Counterintelligence of the Department of Energy” for “Office of Defense Nuclear Counterintelligence”.
 
 #### Effective Date of 2006 Amendment
 

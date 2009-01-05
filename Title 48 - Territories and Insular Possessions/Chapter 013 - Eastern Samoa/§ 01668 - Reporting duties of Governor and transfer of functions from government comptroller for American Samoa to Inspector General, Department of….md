@@ -10,7 +10,7 @@ The following functions, powers, and duties heretofore vested in the government 
 
 &emsp;(1) The authority to audit all accounts pertaining to the revenue and receipts of the government of American Samoa, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the government of American Samoa including those pertaining to trust funds held by the government of American Samoa.
 
-&emsp;(2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
+&emsp;(2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or usesor property which are irregular or not pursuant to law.
 
 #### (c) Scope of authority transferred
 

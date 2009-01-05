@@ -42,7 +42,7 @@ Subsection (b) allows an individual whose license, certificate, or document has 
 
 #### References in Text
 
-Sections 205(a)(3)(A) or (B) and 206(b)(4) of the National Driver Register Act of 1982, referred to in subsec. (c)(1), are sections 205(a)(3)(A), (B) and 206(b)(4) of Pub. L. 97–364, which were set out in a note under section 401of Title 23, Highways, and were repealed and restated in sections 30304 and 30305 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 862, 1379.
+Sections 205(a)(3)(A) or (B) and 206(b)(4) of the National Driver Register Act of 1982, referred to in subsec. (c)(1), are sections 205(a)(3)(A), (B) and 206(b)(4) of Pub. L. 97–364, which were set out in a note under section 401 of Title 23, Highways, and were repealed and restated in sections 30304 and 30305 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 862, 1379.
 
 #### Amendments
 

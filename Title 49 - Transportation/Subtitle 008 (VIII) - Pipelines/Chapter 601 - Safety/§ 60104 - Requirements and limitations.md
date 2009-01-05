@@ -2,7 +2,7 @@
 
 (a)
 
-Opportunity To Present Views.—The Secretary of Transportation shall give an interested person an opportunity to make oral and written presentations of information, views, and arguments when prescribing a standard under this chapter.
+Opportunity To Present Views.—The Secretary of Transportation shall give an interested person an opportunity to make oral and writtenpresentations of information, views, and arguments when prescribing a standard under this chapter.
 
 (b)
 

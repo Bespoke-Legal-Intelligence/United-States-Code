@@ -8,7 +8,7 @@
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
-(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy,may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
+(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
 
 (iii) Pending publication of the procedures under clause (ii), the Secretary shall (except as provided under subparagraph (A)) procure health-care resources referred to in clause (i) in accordance with all procurement laws and regulations.
 
@@ -54,7 +54,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
 
-1997—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, orother administrative policy)” after “law or regulation”.
+1997—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
 
 Subsec. (a)(3)(B)(ii). Pub. L. 105–114, §402(e), as amended by Pub. L. 106–419, inserted “, as appropriate,” after “all responsible sources” in third sentence.
 

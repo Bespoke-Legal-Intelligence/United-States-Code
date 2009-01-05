@@ -6,7 +6,7 @@ Nothing in this Act or the amendments made by this Act shall be construed to req
 
 #### (b) Implementation
 
-All departments and agencies implementing this Act and the amendments made by this Actshall, with respect to surveys or questionnaires used in such implementation—
+All departments and agencies implementing this Act and the amendments made by this Act shall, with respect to surveys or questionnaires used in such implementation—
 
 &emsp;(1) eliminate questions that are no longer necessary,
 

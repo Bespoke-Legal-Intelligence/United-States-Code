@@ -18,7 +18,7 @@ The Congress finds that—
 
 #### References in Text
 
-This chapter, referred to in pars. (4) to (6), was in the original “this title”, meaning title VI (§601 et seq.) of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2556, known as the Alaska Railroad Transfer Act of 1982, which is classified principally to this chapter (§1201 et seq.). For complete classification of title VI to the Code, see Short Title note below and Tables.
+This chapter, referred to in pars. (4) to (6), was in the original “this title”, meaning title VI (§601 et seq.) ofPub. L. 97–468, Jan. 14, 1983, 96 Stat. 2556, known as the Alaska Railroad Transfer Act of 1982, which is classified principally to this chapter (§1201 et seq.). For complete classification of title VI to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

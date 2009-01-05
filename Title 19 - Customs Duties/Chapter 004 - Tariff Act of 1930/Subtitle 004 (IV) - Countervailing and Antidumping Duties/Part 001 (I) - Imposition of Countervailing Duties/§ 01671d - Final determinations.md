@@ -108,7 +108,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;If the determination of the administering authority under subsection (a)(2) of this section is affirmative, then the administering authority shall—
 
-&emsp;&emsp;(A) in cases where the preliminary determinations by the administering authority under sections 1671b(b) and 1671b(e)(1) of thistitle were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under section 1671b(e)(2) of this title;
+&emsp;&emsp;(A) in cases where the preliminary determinations by the administering authority under sections 1671b(b) and 1671b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under section 1671b(e)(2) of this title;
 
 &emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was affirmative, but the preliminary determination under section 1671b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1671b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 

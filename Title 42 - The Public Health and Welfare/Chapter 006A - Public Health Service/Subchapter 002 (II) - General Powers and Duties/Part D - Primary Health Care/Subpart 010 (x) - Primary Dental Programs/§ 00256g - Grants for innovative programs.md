@@ -70,11 +70,15 @@ Not later than 5 years after October 26, 2002, the Secretary shall prepare and s
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $50,000,000 for the 5-fiscal year period beginning with fiscal year 2002.
+There is authorized to be appropriated to carry out this section, $25,000,000 for the 5-fiscal year period beginning with fiscal year 2008.
 
-(July 1, 1944, ch. 373, title III, §340G, as added Pub. L. 107–251, title IV, §403, Oct. 26, 2002, 116 Stat. 1661.)
+(July 1, 1944, ch. 373, title III, §340G, as added Pub. L. 107–251, title IV, §403, Oct. 26, 2002, 116 Stat. 1661; amended Pub. L. 110–355, §5, Oct. 8, 2008, 122 Stat. 3994.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–355 substituted “$25,000,000” for “$50,000,000” and “2008” for “2002”.
 

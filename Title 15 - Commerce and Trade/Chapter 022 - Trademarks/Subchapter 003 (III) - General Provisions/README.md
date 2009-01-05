@@ -24,4 +24,4 @@
 - [&sect; 01126 - International conventions](%C2%A7%2001126%20-%20International%20conventions.md)
 - [&sect; 01127 - Construction and definitions; intent of chapter](%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md)
 - [&sect; 01128 - National Intellectual Property Law Enforcement Coordination Council](%C2%A7%2001128%20-%20National%20Intellectual%20Property%20Law%20Enforcement%20Coordination%20Council.md)
-- [&sect; 01129 - Cyberpiracy protections for individuals](%C2%A7%2001129%20-%20Cyberpiracy%20protections%20for%20individuals.md)
+- [&sect; 01129 - Transferred](%C2%A7%2001129%20-%20Transferred.md)

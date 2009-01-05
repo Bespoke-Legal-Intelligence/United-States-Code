@@ -28,7 +28,7 @@ This section shall not apply to any person who during World War II served in the
 
 #### References in Text
 
-Section 323 of the Nationality Act of 1940, referred to in subsec. (c), which was classified to section 723 of thistitle, was repealed by section 403(a)(42) of act June 27, 1952. See subsec. (a) of this section.
+Section 323 of the Nationality Act of 1940, referred to in subsec. (c), which was classified to section 723 of this title, was repealed by section 403(a)(42) of act June 27, 1952. See subsec. (a) of this section.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ In the case of a vacancy, the President may designate an officer or employee who
 
 #### (d) Compensation
 
-The Director shall be compensated at a rate of pay not to exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5.
+The Director shall be compensated at a rate of pay not to exceed the rate payable for level V ofthe Executive Schedule under section 5316 of title 5.
 
 (Pub. L. 90–351, title I, §2003, as added Pub. L. 107–273, div. A, title IV, §402(3), Nov. 2, 2002, 116 Stat. 1789.)
 

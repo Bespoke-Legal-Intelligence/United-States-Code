@@ -16,9 +16,23 @@ In furtherance of an action plan, the Secretary may use the Extension Service an
 
 Insofar as practicable, the Secretary shall use existing Federal, State, and private education resources in carrying out these programs.
 
-(Pub. L. 101–624, title XXIII, §2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3)\[title III, §345(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, §2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204; Pub. L. 110–234, title VII, §7511(c)(26), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(26), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 1999—Subsec. (a)(2), (3). Pub. L. 106–113, which directed substitution of “National Forest System land resources” for “national forest resources” in pars. (3) and (4), was executed by making the substitution in pars. (2) and (3) to reflect the probable intent of Congress.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(26) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

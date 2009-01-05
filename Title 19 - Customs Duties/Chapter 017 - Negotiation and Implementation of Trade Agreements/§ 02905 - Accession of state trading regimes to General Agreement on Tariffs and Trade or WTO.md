@@ -82,13 +82,17 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 For delegation of certain functions of President under this section to United States Trade Representative, see section 1–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 
-#### Presidential Determinations Regarding State Trading Enterprises
+#### Presidential Documents Regarding State Trading Enterprises
+
+The following presidential documents related to determinations under subsec. (a) of this section:
 
 China.—Memorandum of the President of the United States, Nov. 9, 2001, 66 F.R. 57357.
 
 Saudi Arabia.—Memorandum of the President of the United States, Nov. 10, 2005, 70 F.R. 69419.
 
 Taiwan, Penghu, Kinmen, and Matsu.—Memorandum of the President of the United States, Nov. 9, 2001, 66 F.R. 57359.
+
+Ukraine.—Determination of the President of the United States, No. 2008–17, Mar. 28, 2008, 73 F.R. 17879.
 
 Vietnam.—Memorandum of the President of the United States, Nov. 6, 2006, 71 F.R. 66223.
 

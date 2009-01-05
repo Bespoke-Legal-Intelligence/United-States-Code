@@ -92,7 +92,7 @@ In this section:
 
 #### (B) Insufficient stockpiles of heavy water
 
-&emsp;&emsp;If stockpiles of heavy water of the Department are insufficient to meet the needs of the Facility, there is authorized to be appropriated for the Facility $12,000,000 for fiscal year 2007.
+&emsp;&emsp;If stockpiles of heavy water of the Department are insufficient to meet the needs ofthe Facility, there is authorized to be appropriated for the Facility $12,000,000 for fiscal year 2007.
 
 (Pub. L. 109–58, title IX, §980, Aug. 8, 2005, 119 Stat. 905.)
 

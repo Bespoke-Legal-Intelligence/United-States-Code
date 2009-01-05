@@ -30,13 +30,15 @@ The record established under subsection (a) of this section shall include—
 
 The information that is included in such record pursuant to subsection (b)(1) of this section and relates to procurements resulting in the submission of a bid or proposal by only one responsible source shall be separately categorized from the information relating to other procurements included in such record. The record of such information shall be designated “noncompetitive procurements using competitive procedures”.
 
-#### (d) Transmission and data system entry of information
+#### (d) Transmission and data entry of information
 
-The information included in the record established and maintained under subsection (a) of this section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this title.
+The head of each executive agency shall ensure the accuracy of the information included in the record established and maintained by such agency under subsection (a) and shall transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in section 405(d)(4) of this title, or any successor system.
 
-(Pub. L. 93–400, §19, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; amended Pub. L. 103–355, title IV, §4403, Oct. 13, 1994, 108 Stat. 3349.)
+(Pub. L. 93–400, §19, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; amended Pub. L. 103–355, title IV, §4403, Oct. 13, 1994, 108 Stat. 3349; Pub. L. 110–417, \[div. A\], title VIII, §874(b), Oct. 14, 2008, 122 Stat. 4558.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–417 amended subsec. (d) generally. Prior to amendment, text read as follows: “The information included in the record established and maintained under subsection (a) of this section shall be transmitted to the General Services Administration and shall be entered in the Federal Procurement Data System referred to in section 405(d)(4) of this title.”
 
 1994—Subsec. (a). Pub. L. 103–355 substituted “procurements greater than the simplified acquisition threshold” for “procurements, other than small purchases,”.
 

@@ -6,10 +6,13 @@
 | [2042\.](%C2%A7%2002042%20-%20Withdrawal.md) | Withdrawal. |
 | [2043\.](%C2%A7%2002043%20-%20Deposit%20of%20other%20moneys.md) | Deposit of other moneys. |
 | [2044\.](%C2%A7%2002044%20-%20Payment%20of%20fine%20with%20bond%20money.md) | Payment of fine with bond money. |
+| [2045\.](%C2%A7%2002045%20-%20Investment%20of%20court%20registry%20funds.md) | Investment of court registry funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–406, §8(b), Oct. 13, 2008, 122 Stat. 4293, added item 2045.
 
 1990—Pub. L. 101–647, title XXXVI, §3629(b), Nov. 29, 1990, 104 Stat. 4966, which directed the amendment of the table of sections for chapter 29 by adding item 2044, was executed by adding item 2044 to the table of sections for chapter 129 to reflect the probable intent of Congress.
 
@@ -24,3 +27,4 @@
 - [&sect; 02042 - Withdrawal](%C2%A7%2002042%20-%20Withdrawal.md)
 - [&sect; 02043 - Deposit of other moneys](%C2%A7%2002043%20-%20Deposit%20of%20other%20moneys.md)
 - [&sect; 02044 - Payment of fine with bond money](%C2%A7%2002044%20-%20Payment%20of%20fine%20with%20bond%20money.md)
+- [&sect; 02045 - Investment of court registry funds](%C2%A7%2002045%20-%20Investment%20of%20court%20registry%20funds.md)

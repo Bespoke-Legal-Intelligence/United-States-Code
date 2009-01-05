@@ -92,7 +92,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) Transfer to estate not treated as disposition
 
-&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes of any provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
+&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes ofany provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
 
 #### (2) Transfer from estate to debtor not treated as disposition
 
@@ -138,7 +138,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (1) Administration, liquidation, and reorganization expenses
 
-&emsp;Any administrative expense allowed under section 503 of title 11 of the United StatesCode, and any fee or charge assessed against the estate under chapter 123 of title 28 of the United States Code, to the extent not disallowed under any other provision of this title, shall be allowed as a deduction.
+&emsp;Any administrative expense allowed under section 503 of title 11 of the United States Code, and any fee or charge assessed against the estate under chapter 123 of title 28 of the United States Code, to the extent not disallowed under any other provision of this title, shall be allowed as a deduction.
 
 #### (2) Carryback and carryover of excess administrative costs, etc., to estate taxable years
 

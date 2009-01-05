@@ -64,7 +64,7 @@ Each Indian tribe participating in the Tribal Self-Governance Demonstration Proj
 
 #### (g) Stable base funding
 
-At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 450j–1(a) of this title) to be transferred to such Indian tribe, for such period as may bespecified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
+At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 450j–1(a) of this title) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
 
 (Pub. L. 93–638, title V, §505, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 716.)
 

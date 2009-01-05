@@ -18,7 +18,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 <sup>1</sup> of this title, and facts otherwise disclosed and ascertained, it is declared that the national public interest and the interest of investors are adversely affected—
 
-&emsp;(1) when investors purchase, pay for, exchange, receive dividends upon, vote, refrain from voting, sell, or surrender securities issued by investment companies without adequate, accurate, and explicit information, fairly presented, concerning the character of such securities and the circumstances, policies, and financial responsibility of such companies and their management;
+&emsp;(1) when investors purchase, pay for, exchange, receive dividends upon, vote, refrain from voting, sell, or surrender securities issued by investment companies without adequate, accurate, and explicit information, fairly presented, concerning the character of suchsecurities and the circumstances, policies, and financial responsibility of such companies and their management;
 
 &emsp;(2) when investment companies are organized, operated, managed, or their portfolio securities are selected, in the interest of directors, officers, investment advisers, depositors, or other affiliated persons thereof, in the interest of underwriters, brokers, or dealers, in the interest of special classes of their security holders, or in the interest of other investment companies or persons engaged in other lines of business, rather than in the interest of all classes of such companies’ security holders;
 

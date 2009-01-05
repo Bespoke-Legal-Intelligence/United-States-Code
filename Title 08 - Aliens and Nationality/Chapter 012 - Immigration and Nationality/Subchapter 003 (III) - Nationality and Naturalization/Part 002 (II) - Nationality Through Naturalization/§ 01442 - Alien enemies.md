@@ -26,7 +26,7 @@ Nothing contained herein shall be taken or construed to interfere with or preven
 
 1990—Subsec. (a). Pub. L. 101–649, §407(c)(13), substituted references to applicant and application for references to petitioner and petition wherever appearing.
 
-Subsec. (b). Pub. L. 101–649, §407(d)(9), substituted “considered or heard except after 90 days’ notice to the Attorney General to be considered at the examination or hearing, and the Attorney General's objection to such consideration shall cause the application to be continued” for “called for a hearing, or heard, except after ninety days’ notice given by the clerk of the court to the Attorney General to be represented at the hearing, and the Attorney General's objection to such final hearing shall cause the petition to be continued”.
+Subsec. (b). Pub. L. 101–649, §407(d)(9), substituted “considered or heard except after 90 days’ notice to theAttorney General to be considered at the examination or hearing, and the Attorney General's objection to such consideration shall cause the application to be continued” for “called for a hearing, or heard, except after ninety days’ notice given by the clerk of the court to the Attorney General to be represented at the hearing, and the Attorney General's objection to such final hearing shall cause the petition to be continued”.
 
 Pub. L. 101–649, §407(c)(13), substituted “application” for “petition” after “have his”.
 

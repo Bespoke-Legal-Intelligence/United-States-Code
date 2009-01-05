@@ -30,7 +30,7 @@ A sex offender shall keep the registration current for the full registration per
 
 &emsp;&emsp;(A) a tier I sex offender, the period during which the clean record shall be maintained is 10 years; and
 
-&emsp;&emsp;(B) a tier III sex offender adjudicated delinquent for the offense which required registration in a sex registry under this title, the period during which the clean record shall be maintained is 25 years.
+&emsp;&emsp;(B) a tier III sex offender adjudicated delinquent for the offense which required registration in a sex registry under this subchapter, the period during which the clean record shall be maintained is 25 years.
 
 #### (3) Reduction
 
@@ -41,6 +41,14 @@ A sex offender shall keep the registration current for the full registration per
 &emsp;&emsp;(B) a tier III sex offender adjudicated delinquent, the reduction is from life to that period for which the clean record under paragraph (2) is maintained.
 
 (Pub. L. 109–248, title I, §115, July 27, 2006, 120 Stat. 595.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (b)(2)(B), was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
+
+#### Codification
+
+Subsec. (b)(2)(B) is set out in this supplement to show a translation not appearing in the main edition.
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
 

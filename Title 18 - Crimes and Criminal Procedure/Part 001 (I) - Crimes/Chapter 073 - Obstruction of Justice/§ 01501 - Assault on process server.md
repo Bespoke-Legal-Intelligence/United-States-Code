@@ -30,7 +30,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–204, title VIII, §801, July 30, 2002, 116 Stat. 800, provided that: “This title \[enacting sections 1348, 1514A, 1519, and 1520 of this title, amending section 523 of Title 11, Bankruptcy, and section 1658 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 994 and 1658 of Title 28\] may be cited as the ‘Corporate and Criminal Fraud Accountability Act of 2002’.”
+Pub. L. 107–204, title VIII, §801, July 30, 2002, 116 Stat. 800, provided that: “This title \[enacting sections 1348, 1514A, 1519, and 1520 of this title, amending section 523 of Title 11, Bankruptcy, and section 1658 of Title 28, Judiciary and Judicial Procedure, and enacting provisionsset out as notes under sections 994 and 1658 of Title 28\] may be cited as the ‘Corporate and Criminal Fraud Accountability Act of 2002’.”
 
 #### Short Title of 1982 Amendment
 

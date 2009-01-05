@@ -14,7 +14,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 &emsp;(1) establishing guidelines for public involvement;
 
-&emsp;(2) establishing guidelines on how agencies will demonstrate on an annual basis how theyhave provided information to the public on the use of recreation fee revenues; and
+&emsp;(2) establishing guidelines on how agencies will demonstrate on an annual basis how they have provided information to the public on the use of recreation fee revenues; and
 
 &emsp;(3) publishing the guidelines in paragraphs (1) and (2) in the Federal Register.
 

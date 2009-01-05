@@ -18,7 +18,7 @@ A prior section 364, act June 19, 1956, ch. 407, title IV, §404, as added May 3
 
 Section 365, act June 19, 1956, ch. 407, title IV, §405, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat. 2244, provided for coordination of programs under this subchapter with other programs for Indians.
 
-Section 366, act June 19, 1956, ch. 407, title IV, §406, as added Nov. 22, 1985, Pub. L. 99–159, title III, §305, 99Stat. 903, excluded Indian tribes and Indians in California, Oklahoma, and Alaska from provisions of this subchapter requiring that services be provided on or near Indian reservations, or to only those Indians who live on or near Indian reservations.
+Section 366, act June 19, 1956, ch. 407, title IV, §406, as added Nov. 22, 1985, Pub. L. 99–159, title III, §305, 99 Stat. 903, excluded Indian tribes and Indians in California, Oklahoma, and Alaska from provisions of this subchapter requiring that services be provided on or near Indian reservations, or to only those Indians who live on or near Indian reservations.
 
 A prior subchapter IV of this chapter, comprising sections 355f to 355f–7 of this title, related to specialized State library services, prior to the general amendment of this chapter by Pub. L. 91–600, §2(b), Dec. 30, 1970, 84 Stat. 1660, effective after June 30, 1971.
 

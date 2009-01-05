@@ -86,10 +86,15 @@
 | [<b>661.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20661%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7861</b> |
 | [<b>663.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20663%20-%20Names%20and%20Insignia/README.md) | <b>Names and Insignia</b> | <b>7881</b> |
 | [<b>665.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20665%20-%20National%20Oceanographic%20Partnership%20Program/README.md) | <b>National Oceanographic Partnership Program</b> | <b>7901</b> |
+| [<b>667.</b>](Part%20004%20%28IV%29%20-%20General%20Administration/Chapter%20667%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material Other Than to Armed Forces</b> | <b>7911</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title X, §1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
+
+Pub. L. 110–181, div. A, title III, §377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(3)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
 

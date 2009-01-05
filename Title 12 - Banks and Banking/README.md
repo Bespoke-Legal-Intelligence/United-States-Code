@@ -1,5 +1,5 @@
 
-12 U.S.C.<br>United States Code, 2007 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
+12 U.S.C.<br>United States Code, 2008 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 12—BANKS AND BANKING
 
@@ -61,6 +61,8 @@
 | [<b>48.</b>](Chapter%20048%20-%20Financial%20Institutions%20Regulatory%20Improvement/README.md) | <b>Financial Institutions Regulatory Improvement</b> | <b>4801</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Homeowners%20Protection/README.md) | <b>Homeowners Protection</b> | <b>4901</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Check%20Truncation/README.md) | <b>Check Truncation</b> | <b>5001</b> |
+| [<b>51.</b>](Chapter%20051%20-%20Secure%20and%20Fair%20Enforcement%20for%20Mortgage%20Licensing/README.md) | <b>Secure and Fair Enforcement for Mortgage Licensing</b> | <b>5101</b> |
+| [<b>52.</b>](Chapter%20052%20-%20Emergency%20Economic%20Stabilization/README.md) | <b>Emergency Economic Stabilization</b> | <b>5201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -125,3 +127,5 @@
 - [Chapter 048 - Financial Institutions Regulatory Improvement](Chapter%20048%20-%20Financial%20Institutions%20Regulatory%20Improvement/README.md)
 - [Chapter 049 - Homeowners Protection](Chapter%20049%20-%20Homeowners%20Protection/README.md)
 - [Chapter 050 - Check Truncation](Chapter%20050%20-%20Check%20Truncation/README.md)
+- [Chapter 051 - Secure and Fair Enforcement for Mortgage Licensing](Chapter%20051%20-%20Secure%20and%20Fair%20Enforcement%20for%20Mortgage%20Licensing/README.md)
+- [Chapter 052 - Emergency Economic Stabilization](Chapter%20052%20-%20Emergency%20Economic%20Stabilization/README.md)

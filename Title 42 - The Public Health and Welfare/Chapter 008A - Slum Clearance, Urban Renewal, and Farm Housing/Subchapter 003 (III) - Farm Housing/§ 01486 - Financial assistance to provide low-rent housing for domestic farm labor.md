@@ -78,7 +78,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;The Secretary may provide the following assistance for housing under this subsection:
 
-&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisition and rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
+&emsp;&emsp;&emsp;(i) An advance, in an amount not to exceed $400,000, of the cost of acquisition, substantial rehabilitation, or acquisitionand rehabilitation of an existing structure or construction of a new structure for use in the provision of housing under this subsection. The repayment of any outstanding debt owed on a loan made to purchase an existing structure shall be considered to be a cost of acquisition eligible for an advance under this subparagraph if the structure was not used for the purposes under this subsection prior to the receipt of assistance.
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
@@ -168,7 +168,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
 
-&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i)at the time of retirement or becoming disabled.
+&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
 
 &emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 

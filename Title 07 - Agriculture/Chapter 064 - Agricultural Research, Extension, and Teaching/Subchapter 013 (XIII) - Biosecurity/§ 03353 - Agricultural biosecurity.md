@@ -20,7 +20,7 @@
 
 #### (4) Contract authority
 
-&emsp;Colleges and universities receiving grants under paragraph (1) may use such grants to enter into contracts with independent private organizations with established and demonstrated security expertise to conduct the security reviews specified in such paragraph.
+&emsp;Colleges and universities receiving grants under paragraph (1) may use such grants toenter into contracts with independent private organizations with established and demonstrated security expertise to conduct the security reviews specified in such paragraph.
 
 #### (b) Guidelines for agricultural biosecurity
 

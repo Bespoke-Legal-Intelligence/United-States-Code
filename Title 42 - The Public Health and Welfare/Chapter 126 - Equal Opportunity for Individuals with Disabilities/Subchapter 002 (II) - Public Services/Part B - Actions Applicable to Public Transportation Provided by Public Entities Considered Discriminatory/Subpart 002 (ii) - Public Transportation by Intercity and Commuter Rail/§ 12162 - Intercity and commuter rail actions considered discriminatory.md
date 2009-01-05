@@ -50,7 +50,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to have on each train which includes one or more single-level rail passenger coaches—
+&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person who provides intercity rail transportation to fail to haveon each train which includes one or more single-level rail passenger coaches—
 
 &emsp;&emsp;&emsp;(i) a number of spaces—
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such passenger can exit to the platform from the car such passenger occupies, move down the platform, and enter the adjacent accessible car described in subclause (I) without the necessity of the train being moved within the station; and
 
-&emsp;&emsp;&emsp;&emsp;(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in awheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and
+&emsp;&emsp;&emsp;&emsp;(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in a wheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and
 
 &emsp;&emsp;&emsp;(ii) appropriate auxiliary aids and services, including a hard surface on which to eat, shall be provided to ensure that other equivalent food service is available to individuals with disabilities, including individuals who use wheelchairs, and to passengers traveling with such individuals.
 
@@ -120,7 +120,7 @@
 
 #### (B) Accessibility
 
-&emsp;&emsp;For purposes of section 12132 of this title and section 794 of title 29, a requirement that a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require—
+&emsp;&emsp;For purposes of section 12132 of this title and section 794 of title 29, a requirementthat a rail passenger car used in commuter rail transportation be accessible to or readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, shall not be construed to require—
 
 &emsp;&emsp;&emsp;(i) a restroom usable by an individual who uses a wheelchair if no restroom is provided in such car for any passenger;
 
@@ -154,7 +154,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessibleto and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (ii) Period for compliance
 
@@ -178,7 +178,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations of an existing station or part thereof in the intercity or commuter rail transportation systems that affect or could affect the usability of the station or part thereof, for the responsible person, owner, or person in control of the station to fail to make the alterations in such amanner that, to the maximum extent feasible, the altered portions of the station are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations.
 
 #### (ii) Alterations to a primary function area
 
@@ -189,6 +189,10 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 &emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for an owner, or person in control, of a station governed by subparagraph (A) or (B) to fail to provide reasonable cooperation to a responsible person with respect to such station in that responsible person's efforts to comply with such subparagraph. An owner, or person in control, of a station shall be liable to a responsible person for any failure to provide reasonable cooperation as required by this subparagraph. Failure to receive reasonable cooperation required by this subparagraph shall not be a defense to a claim of discrimination under this chapter.
 
 (Pub. L. 101–336, title II, §242, July 26, 1990, 104 Stat. 347.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (e)(2)(C), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Effective Date
 

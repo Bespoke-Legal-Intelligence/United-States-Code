@@ -54,7 +54,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 #### (d) Fishery Observer Fund
 
-There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of thissection, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (e) Special provisions regarding observers
 
@@ -100,7 +100,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
-(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendmentsincluding those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
+(1) By not later than January 1, 2005, the Secretary shall approve and hereafter <sup>2</sup> implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
 (2) Notwithstanding any other provision of this chapter, in carrying out paragraph (1) the Secretary shall approve all parts of the Program referred to in such paragraph. Further, no part of such Program may be implemented if, as approved by the North Pacific Fishery Management Council, individual fishing quotas, processing quotas, community development quota allocation, voluntary cooperatives, binding arbitration, regional landing and processing requirements, community protections, economic data collection, or the loan program for crab fishing vessel captains and crew members, is invalidated subject to a judicial determination not subject to judicial appeal. If the Secretary determines that a processor has leveraged its Individual Processor Quota shares to acquire a harvesters open-delivery “B shares”, the processor's Individual Processor Quota shares shall be forfeited.
 

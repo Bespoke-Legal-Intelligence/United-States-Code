@@ -16,9 +16,11 @@ A political subdivision referred to in subsection (a)(1) is one with respect to 
 
 A political subdivision may petition the Attorney General for a termination under subsection (a)(1).
 
-(Pub. L. 89–110, title I, §13, Aug. 6, 1965, 79 Stat. 444; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §206, Aug. 6, 1975, 89 Stat. 402; Pub. L. 109–246, §3(b), July 27, 2006, 120 Stat. 579.)
+(Pub. L. 89–110, title I, §13, Aug. 6, 1965, 79 Stat. 444; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 94–73, title II, §206, Aug. 6, 1975, 89 Stat. 402; Pub. L. 109–246, §3(b), July 27, 2006, 120 Stat. 579; Pub. L. 110–258, §2, July 1, 2008, 122 Stat. 2428.)
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–258 made technical amendment to reference in original act which appears in text as reference to July 27, 2006.
 
 2006—Pub. L. 109–246 amended section generally. Prior to amendment, section related to termination of listing procedures, basis for termination, and survey or census by the Director of the Census.
 

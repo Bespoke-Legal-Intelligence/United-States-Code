@@ -18,7 +18,7 @@
 | [7814\.](Subchapter%20001%20%28I%29%20-%20Promoting%20the%20Human%20Rights%20of%20North%20Koreans/%C2%A7%2007814%20-%20Actions%20to%20promote%20freedom%20of%20information.md) | Actions to promote freedom of information. |
 | [7815\.](Subchapter%20001%20%28I%29%20-%20Promoting%20the%20Human%20Rights%20of%20North%20Koreans/%C2%A7%2007815%20-%20United%20Nations%20Commission%20on%20Human%20Rights.md) | United Nations Commission on Human Rights. |
 | [7816\.](Subchapter%20001%20%28I%29%20-%20Promoting%20the%20Human%20Rights%20of%20North%20Koreans/%C2%A7%2007816%20-%20Establishment%20of%20regional%20framework.md) | Establishment of regional framework. |
-| [7817\.](Subchapter%20001%20%28I%29%20-%20Promoting%20the%20Human%20Rights%20of%20North%20Koreans/%C2%A7%2007817%20-%20Special%20Envoy%20on%20human%20rights%20in%20North%20Korea.md) | Special Envoy on human rights in North Korea. |
+| [7817\.](Subchapter%20001%20%28I%29%20-%20Promoting%20the%20Human%20Rights%20of%20North%20Koreans/%C2%A7%2007817%20-%20Special%20Envoy%20on%20North%20Korean%20human%20rights%20issues.md) | Special Envoy on North Korean human rights issues. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

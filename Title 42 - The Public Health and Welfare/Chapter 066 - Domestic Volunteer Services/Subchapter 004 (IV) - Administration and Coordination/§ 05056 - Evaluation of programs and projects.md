@@ -6,7 +6,7 @@ The Director shall measure and evaluate the impact of all programs authorized by
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and projecteffectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 

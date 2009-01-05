@@ -16,7 +16,7 @@ The Secretary may periodically notify the State regulatory authorities, and elec
 
 #### (b) Technical assistance
 
-The Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II of this chapter and as is requested by any State regulatory authority relating to the standards established by subchapter II of this chapter.
+The Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II and as is requested by any State regulatory authority relating to the standards established by subchapter II.
 
 #### (c) Appropriations
 
@@ -36,7 +36,7 @@ The Secretary shall be responsible for—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted this chapter and amended sections 6801 to 6808 of Title 42, The Public Health and Welfare. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amendedsections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
@@ -86,5 +86,5 @@ Report.—Not later than 1 year after the date of enactment of the Energy Policy
 
 “(f)
 
-Federal Encouragement of Demand Response Devices.—It is the policy of the United States thattime-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
+Federal Encouragement of Demand Response Devices.—It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
 

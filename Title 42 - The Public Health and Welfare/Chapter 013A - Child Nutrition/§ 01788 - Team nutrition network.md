@@ -38,7 +38,7 @@ In this section, the term “team nutrition network” means a statewide multidi
 
 #### (d) Allocation
 
-Subject to the availability of funds for use in carrying out this section, the total amount of funds made available for a fiscal year for grants under this section shall equal not more than the sum of—
+Subject to the availability of funds for use in carrying out this section, the total amount offunds made available for a fiscal year for grants under this section shall equal not more than the sum of—
 
 &emsp;(1) the product obtained by multiplying 1/2 cent by the number of lunches reimbursed through food service programs under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) during the second preceding fiscal year in schools, institutions, and service institutions that participate in the food service programs; and
 
@@ -182,7 +182,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (i) Nutrition education support
 
-In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants to improve the quality of school meals and access to local foods in schools and institutions.
+In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants toimprove the quality of school meals and access to local foods in schools and institutions.
 
 #### (j) Limitation
 
@@ -252,7 +252,7 @@ Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out “(A)” before �
 
 Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
 
-Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B),\(C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
+Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B), (C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
 
 Subsec. (f)(4). Pub. L. 104–193, §731(b)(2), struck out par. (4) which read as follows: “Nothing in this section shall prohibit State or local educational agencies from making available or distributing to adults nutrition education materials, resources, activities, or programs authorized under this section.”
 

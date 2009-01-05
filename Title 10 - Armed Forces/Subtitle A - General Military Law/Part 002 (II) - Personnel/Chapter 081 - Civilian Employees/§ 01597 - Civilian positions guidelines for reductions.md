@@ -38,7 +38,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 &emsp;&emsp;(vi) The extent to which accessions and losses of civilian positions are due to functional transfers or competitive actions that are related to the Department of Defense management review initiatives of the Secretary of Defense.
 
-&emsp;&emsp;(vii) The total number of individuals employed by contractors and subcontractors of the Department of Defense under a contract or subcontract entered into pursuant to Office of Management and Budget Circular A–76 to perform commercial activities for the Department of Defense, a military department, a defense agency, or other component.
+&emsp;&emsp;(vii) The total number of individuals employed by contractors and subcontractors of the Department of Defense under a contract or subcontract entered into pursuant to Office of Management and Budget Circular A–76 to perform commercial activities forthe Department of Defense, a military department, a defense agency, or other component.
 
 &emsp;(B) For industrial-type and commercial-type activities funded through the Defense Business Operations Fund, the following information:
 

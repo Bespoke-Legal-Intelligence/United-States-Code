@@ -34,7 +34,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (2) Exceptions for agencies of a State or political subdivisions
 
-&emsp;Paragraph (1) shall not apply to any agency of a State or political subdivision thereof or to any officer or employee of any such agency,and no such agency, officer, or employee shall be required to obtain a permit thereunder.
+&emsp;Paragraph (1) shall not apply to any agency of a State or political subdivision thereof or to any officer or employee of any such agency, and no such agency, officer, or employee shall be required to obtain a permit thereunder.
 
 #### (e) Cross references
 

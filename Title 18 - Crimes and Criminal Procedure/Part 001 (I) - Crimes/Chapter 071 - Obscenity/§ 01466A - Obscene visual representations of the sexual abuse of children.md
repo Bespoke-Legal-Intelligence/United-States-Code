@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses with intent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
+In General.—Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses withintent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
 &emsp;(1)(A) depicts a minor engaging in sexually explicit conduct; and
 
@@ -80,7 +80,7 @@ Category.—Except as provided in paragraph (2), the applicable category of offe
 
 “(2)
 
-Ranges.—The Sentencing Commission may promulgate guidelines specifically governing offenses under section 1466A of title 18, United States Code, if such guidelines do not result in sentencing ranges thatare lower than those that would have applied under paragraph (1).”
+Ranges.—The Sentencing Commission may promulgate guidelines specifically governing offenses under section 1466A of title 18, United States Code, if such guidelines do not result in sentencing ranges that are lower than those that would have applied under paragraph (1).”
 
 #### Report to Congressional Committees
 

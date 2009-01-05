@@ -12,7 +12,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 Until the date on which the national park is established, the Secretary shall annually notify the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives of—
 
-&emsp;(1) the estimate of the Secretary of the lands necessary to achieve a sufficient diversity ofresources to warrant designation of the national park; and
+&emsp;(1) the estimate of the Secretary of the lands necessary to achieve a sufficient diversity of resources to warrant designation of the national park; and
 
 &emsp;(2) the progress of the Secretary in acquiring the necessary lands.
 

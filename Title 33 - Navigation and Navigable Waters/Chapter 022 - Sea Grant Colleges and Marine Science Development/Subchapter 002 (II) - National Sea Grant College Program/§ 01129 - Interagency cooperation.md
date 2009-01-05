@@ -8,7 +8,7 @@ Each department, agency, or other instrumentality of the Federal Government whic
 
 &emsp;(3) shall cooperate with the Administration and duly authorized officials thereof.
 
-(Pub. L. 89–454, title II, §210, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amendedPub. L. 100–220, title III, §3104(b)(1)(G), Dec. 29, 1987, 101 Stat. 1471.)
+(Pub. L. 89–454, title II, §210, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 100–220, title III, §3104(b)(1)(G), Dec. 29, 1987, 101 Stat. 1471.)
 
 #### Amendments
 

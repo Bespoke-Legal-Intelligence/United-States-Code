@@ -66,7 +66,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;&emsp;(C) incentives, including financial incentives, to retain special education teachers who have a record of success in helping students with disabilities.
 
-&emsp;(5) Carrying out programs and activities that are designed to improve the quality ofpersonnel who serve children with disabilities, such as—
+&emsp;(5) Carrying out programs and activities that are designed to improve the quality of personnel who serve children with disabilities, such as—
 
 &emsp;&emsp;(A) innovative professional development programs (which may be provided through partnerships that include institutions of higher education), including programs that train teachers and principals to integrate technology into curricula and instruction to improve teaching, learning, and technology literacy, which professional development shall be consistent with the definition of professional development in section 7801 of this title; and
 
@@ -126,7 +126,7 @@ A State educational agency that receives a grant under this part—
 
 A State educational agency that receives a grant under this part shall use—
 
-&emsp;(1) not less than 90 percent of the funds the State educational agency receives under thegrant for any fiscal year for activities under subsection (a); and
+&emsp;(1) not less than 90 percent of the funds the State educational agency receives under the grant for any fiscal year for activities under subsection (a); and
 
 &emsp;(2) not more than 10 percent of the funds the State educational agency receives under the grant for any fiscal year for activities under subsection (b).
 

@@ -40,7 +40,7 @@ The Secretary shall by regulation provide for—
 
 &emsp;(2) the establishment and enforcement of safeguard and security measures to prevent access to such agents and toxins for use in domestic or international terrorism or for any other criminal purpose;
 
-&emsp;(3) the establishment of procedures to protect animal and plant health, and animal and plant products, in the event of a transfer or potential transfer of such an agent or toxin inviolation of the safety procedures established under paragraph (1) or the safeguard and security measures established under paragraph (2); and
+&emsp;(3) the establishment of procedures to protect animal and plant health, and animal and plant products, in the event of a transfer or potential transfer of such an agent or toxin in violation of the safety procedures established under paragraph (1) or the safeguard and security measures established under paragraph (2); and
 
 &emsp;(4) appropriate availability of biological agents and toxins for research, education, and other legitimate purposes.
 
@@ -62,7 +62,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) In general
 
-&emsp;Regulations under subsections (b) and (c) of this section shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+&emsp;Regulations under subsections (b) and (c) of this section shall include appropriate safeguard and security requirements for personspossessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to animal and plant health, and animal and plant products (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
 
 #### (2) Limiting access to listed agents and toxins
 
@@ -102,7 +102,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (C) Notification by Attorney General regarding submitted names
 
-&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notifythe Secretary whether the individual is within any of the categories specified in subparagraph (B).
+&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
 
 #### (4) Notifications by Secretary
 
@@ -124,7 +124,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (B) Other persons
 
-&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
+&emsp;&emsp;Regulations under subsections (b) and (c) of this section shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of suchperson to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is within any of the categories described in section 175b(d)(1) of title 18 (relating to restricted persons), or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
 
 #### (7) Review
 
@@ -154,7 +154,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Disclosure of information
 
-&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>2</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may berequired to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
+&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>2</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
 
 #### (8) Notifications regarding theft or loss of agents
 
@@ -236,7 +236,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (D) Agricultural emergencies
 
-&emsp;&emsp;The Secretary may temporarily exempt a person from the applicability of the requirements of this section with respect to anoverlap agent or toxin, in whole or in part, if the Secretary determines that such exemption is necessary to provide for the timely participation of the person in a response to a domestic or foreign agricultural emergency that involves such an agent or toxin. With respect to the emergency involved, the exemption under this subparagraph for a person may not exceed 30 days, except that the Secretary, after review of whether such exemption remains necessary, may provide one extension of an additional 30 days.
+&emsp;&emsp;The Secretary may temporarily exempt a person from the applicability of the requirements of this section with respect to an overlap agent or toxin, in whole or in part, if the Secretary determines that such exemption is necessary to provide for the timely participation of the person in a response to a domestic or foreign agricultural emergency that involves such an agent or toxin. With respect to the emergency involved, the exemption under this subparagraph for a person may not exceed 30 days, except that the Secretary, after review of whether such exemption remains necessary, may provide one extension of an additional 30 days.
 
 #### (E) Public health emergencies
 
@@ -370,7 +370,7 @@ Pub. L. 107–188, title II, §213, June 12, 2002, 116 Stat. 656, provided that:
 
 “(a)
 
-Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture\(referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
+Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
 
 “(b)
 

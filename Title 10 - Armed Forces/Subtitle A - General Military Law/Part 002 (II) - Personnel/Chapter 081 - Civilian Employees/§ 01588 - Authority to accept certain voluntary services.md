@@ -60,7 +60,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
-&emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss) and the Act of March 9, 1920, commonly known as the “Suits in Admiralty Act” (41 Stat. 525; 46 U.S.C. App. 741 et seq.) <sup>1</sup> and the Act of March 3, 1925, commonly known as the “Public Vessels Act” (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) <sup>1</sup> (relating to claims for damages or loss on navigable waters).
+&emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss) and chapters 309 and 311 of title 46 (relating to claims for damages or loss on navigable waters).
 
 &emsp;(C) Section 552a of title 5 (relating to maintenance of records on individuals).
 
@@ -68,7 +68,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(E) Section 1054 of this title (relating to legal malpractice), for a person voluntarily providing legal services accepted under subsection (a)(5), as if the person were providing the services as an attorney of a legal staff within the Department of Defense.
 
-(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of the United States with voluntary services acceptedunder subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
+(2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of the United States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
 
 &emsp;(A) Subchapter II of chapter 81 of title 5 (relating to compensation of nonappropriated fund employees for work-related injuries).
 
@@ -96,15 +96,11 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059.)
-
-#### References in Text
-
-The Act of Mar. 9, 1920, commonly known as the “Suits in Admiralty Act”, referred to in subsec. (d)(1)(B), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, which was classified generally to chapter 20 (§§741 to 743, 744 to 752) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 309 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30901 of Title 46 provides that chapter 309 of Title 46 may be cited as the Suits in Admiralty Act. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
-
-The Act of Mar. 3, 1925, commonly known as the “Public Vessels Act”, referred to in subsec. (d)(1)(B), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, which was classified generally to chapter 22 (§§781 to 790) of former Title 46, Appendix, Shipping, and was repealed and restated in chapter 311 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 31101 of Title 46 provides that chapter 311 of Title 46 may be cited as the Public Vessels Act. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, §1063(a)(9), Jan. 28, 2008, 122 Stat. 322.)
 
 #### Amendments
+
+2008—Subsec. (d)(1)(B). Pub. L. 110–181 substituted “chapters 309 and 311 of title 46” for “the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.)”.
 
 2004—Subsec. (a)(8). Pub. L. 108–375, §516(1), added par. (8).
 
@@ -165,6 +161,4 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 “(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
 
 “(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

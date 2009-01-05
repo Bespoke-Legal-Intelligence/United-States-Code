@@ -54,7 +54,7 @@ Consistent with the use of military installations to ensure the preparedness of 
 
 &emsp;&emsp;(F) sustainable use by the public of natural resources to the extent that the use is not inconsistent with the needs of fish and wildlife resources;
 
-&emsp;&emsp;(G) public access to the military installation that is necessary or appropriate for the use described in subparagraph (F), subject torequirements necessary to ensure safety and military security;
+&emsp;&emsp;(G) public access to the military installation that is necessary or appropriate for the use described in subparagraph (F), subject to requirements necessary to ensure safety and military security;
 
 &emsp;&emsp;(H) enforcement of applicable natural resource laws (including regulations);
 
@@ -120,7 +120,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### (1) Inclusion of invasive species management
 
-&emsp;During fiscal years 2004 through 2008, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
+&emsp;During fiscal years 2004 through 2008, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installationsin Guam the management, control, and eradication of invasive species—
 
 &emsp;&emsp;(A) that are not native to the ecosystem of the military installation; and
 
@@ -130,7 +130,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 &emsp;The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
 
-(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561,§3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429.)
+(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429.)
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
+Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of theSikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
 
 &emsp;“(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
 

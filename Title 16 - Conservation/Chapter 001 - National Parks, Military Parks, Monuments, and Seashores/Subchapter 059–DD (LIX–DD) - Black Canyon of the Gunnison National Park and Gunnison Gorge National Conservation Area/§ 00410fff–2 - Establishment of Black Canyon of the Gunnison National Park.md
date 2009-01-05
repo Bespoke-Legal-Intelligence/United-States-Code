@@ -2,33 +2,33 @@
 
 #### (a) Establishment
 
-(1) There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.
+(1) There is hereby established the Black Canyon of the Gunnison National Park in the Stateof Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.<sup>1</sup>
 
 (2) The boundary of the Park is revised to include the addition of approximately 2,530 acres, as generally depicted on the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications” and dated April 2, 2003.
 
 #### (b) Administration
 
-Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup>1</sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup>1</sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
 
 #### (c) Maps and legal description
 
-As soon as practicable after October 21, 1999, the Secretary shall file maps and a legal description of the park with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives. Such maps and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and maps. The maps and legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+As soon as practicable after October 21, 1999, the Secretary shall file maps and a legal description of the park <sup>1</sup> with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives. Such maps and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description and maps. The maps and legal description shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (d) Withdrawal
 
-Subject to valid existing rights, all Federal lands within the park are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the mining laws; and from disposition under all laws relating to mineral and geothermal leasing, and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the park <sup>1</sup> are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the mining laws; and from disposition under all laws relating to mineral and geothermal leasing, and all amendments thereto.
 
 #### (e) Grazing
 
-(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
+(1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park <sup>1</sup> to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
 
-(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
+(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park <sup>1</sup> where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
-(C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.
+(C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.<sup>1</sup>
 
 (D) If land within the Park on which the grazing of livestock is authorized under permits or leases under subparagraph (A) is exchanged for private land under section 410fff–3(a) of this title, the Secretary shall transfer any grazing privileges to the land acquired in the exchange.
 
-(2) Within areas of the park designated as wilderness, the grazing of livestock, where authorized under permits in existence as of October 21, 1999, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, consistent with this subchapter, the Wilderness Act \[16 U.S.C. 1131 et seq.\], and other applicable laws and National Park Service regulations.
+(2) Within areas of the park <sup>1</sup> designated as wilderness, the grazing of livestock, where authorized under permits in existence as of October 21, 1999, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, consistent with this subchapter, the Wilderness Act \[16 U.S.C. 1131 et seq.\], and other applicable laws and National Park Service regulations.
 
 (3) With respect to the grazing permits and leases referenced in this subsection, the Secretary shall allow grazing to continue, subject to periodic renewal—
 
@@ -77,4 +77,6 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: “On t
 #### Access to Water Delivery Facilities
 
 Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: “The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled ‘Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications’, and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation.”
+
+<i><sup>1</sup></i><i> So in original. The word “park” probably should be capitalized.</i>
 

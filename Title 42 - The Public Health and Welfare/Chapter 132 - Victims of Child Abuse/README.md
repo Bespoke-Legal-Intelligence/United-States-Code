@@ -41,7 +41,7 @@
 |  |  |
 | :--- | ---: |
 | [13031\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2013031%20-%20Child%20abuse%20reporting.md) | Child abuse reporting. |
-| [13032\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2013032%20-%20Reporting%20of%20child%20pornography%20by%20electronic%20communication%20service%20providers.md) | Reporting of child pornography by electronic communication service providers. |
+| [13032\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2013032%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93401%2C%20title%20V%2C%20%C2%A7501%28b%29%281%29%2C%20Oct.%2013%2C%202008%2C%20122%20Stat.%204251.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

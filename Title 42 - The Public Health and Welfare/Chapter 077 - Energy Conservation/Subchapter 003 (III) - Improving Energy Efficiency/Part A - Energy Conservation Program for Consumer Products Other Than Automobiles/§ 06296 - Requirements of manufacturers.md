@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 100–12, §6, inserted “Information requirements” as h
 
 Subsec. (b)(2). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
-Subsec. (b)(3). Pub. L. 95–619, §425(d)(3), authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under section 6295 of this title and also authorized Secretary to designate testing laboratories for the submitted products.
+Subsec. (b)(3). Pub. L. 95–619, §425(d)(3), authorized Secretary to request submission of covered products for purposes of ascertaining whether a particular product complies with standards under section 6295 of this titleand also authorized Secretary to designate testing laboratories for the submitted products.
 
 Subsec. (b)(5). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”.
 

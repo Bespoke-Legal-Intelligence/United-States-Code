@@ -2,7 +2,7 @@
 
 #### (a) Research and pilot project program
 
-Notwithstanding any other provision of law, during the period beginning October 1, 1986, andending September 30, 2007, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
+Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2012, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
 
 #### (b) Importance to producers
 
@@ -20,7 +20,7 @@ The development of supplemental and alternative crops is of critical importance 
 
 &emsp;(C) the transfer of such applied research to on-farm practice as soon as practicable;
 
-&emsp;(D) the establishment through grants, cooperative agreements, or other means of such processing, storage, and transportation facilities for supplemental and alternative crops as the Secretary determines will facilitate the achievement of a successful program; and
+&emsp;(D) the establishment through grants, cooperative agreements, or other means of such processing, storage, and transportation facilities for supplemental and alternative crops asthe Secretary determines will facilitate the achievement of a successful program; and
 
 &emsp;(E) the application of such other resources and expertise as the Secretary considers appropriate to support the program.
 
@@ -42,13 +42,23 @@ The development of supplemental and alternative crops is of critical importance 
 
 The Secretary shall use the expertise and resources of the Agricultural Research Service, the Cooperative State Research Service, the Extension Service, and the land-grant colleges and universities for the purpose of carrying out this section.
 
-(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(14), title VI, §606(a), June 23, 1998, 112 Stat. 562, 603; Pub. L. 107–171, title VII, §7115, May 13, 2002, 116 Stat. 433.)
+(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(14), title VI, §606(a), June 23, 1998, 112 Stat. 562, 603; Pub. L. 107–171, title VII, §7115, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §§7136, 7511(c)(13), May 22, 2008, 122 Stat. 1228, 1268; Pub. L. 110–246, §4(a), title VII, §§7136, 7511(c)(13), June 18, 2008, 122 Stat. 1664, 1990, 2030.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (d) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research Service, the Extension Service”.</i>
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a), see note set out under section 3102 of this title.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7136, substituted “2012” for “2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -69,6 +79,12 @@ Subsec. (c)(3). Pub. L. 104–127, §819(b)(5), as amended by Pub. L. 105–185,
 Subsec. (c)(3)(E), (F). Pub. L. 104–127, §819(c), added subpars. (E) and (F).
 
 1990—Subsec. (a). Pub. L. 101–624 substituted “1995” for “1990”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(13) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 #### Effective Date of 1998 Amendment
 

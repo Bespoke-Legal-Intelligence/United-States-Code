@@ -48,7 +48,7 @@ If more than one person is liable under any paragraph of subsection (a) or (b) w
 
 &emsp;&emsp;(B) the furnishing of goods, services, or facilities by a disqualified person to such a trust shall not be an act of self-dealing if the furnishing is without charge and if the goods, services, or facilities so furnished are used exclusively for the purposes specified in section 501(c)(21)(A); and
 
-&emsp;&emsp;(C) the payment of compensation (and the payment or reimbursement of expenses) by such a trust to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the trust shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive.
+&emsp;&emsp;(C) the payment of compensation (and the payment or reimbursement of expenses) bysuch a trust to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the trust shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive.
 
 #### (e) Definitions
 
@@ -122,7 +122,7 @@ Subsec. (e)(1)(B), (C). Pub. L. 96–596, §2(a)(2)(F), added subpar. (B) and re
 
 Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(H), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by anyperiod in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
 #### Effective Date of 1992 Amendment
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 #### Effective Date
 

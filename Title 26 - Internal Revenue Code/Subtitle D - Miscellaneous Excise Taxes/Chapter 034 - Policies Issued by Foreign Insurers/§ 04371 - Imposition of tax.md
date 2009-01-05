@@ -24,7 +24,7 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 1984—Par. (2). Pub. L. 98–369 substituted “section 813” for “section 819”.
 
-1976—Pub. L. 94–455 substituted in par. (1) “4 cents” for “four cents” and “premium paid” for “premiumcharged”, in pars. (2) and (3) “1 cent” for “one cent” and “premium paid” for “premium charged”, and struck out provision following par. (3) relating to computation of tax on premium paid in lieu of premium charged.
+1976—Pub. L. 94–455 substituted in par. (1) “4 cents” for “four cents” and “premium paid” for “premium charged”, in pars. (2) and (3) “1 cent” for “one cent” and “premium paid” for “premium charged”, and struck out provision following par. (3) relating to computation of tax on premium paid in lieu of premium charged.
 
 1965—Pub. L. 89–44 inserted last sentence relating to computation of tax on premium paid in lieu of premium charged.
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 

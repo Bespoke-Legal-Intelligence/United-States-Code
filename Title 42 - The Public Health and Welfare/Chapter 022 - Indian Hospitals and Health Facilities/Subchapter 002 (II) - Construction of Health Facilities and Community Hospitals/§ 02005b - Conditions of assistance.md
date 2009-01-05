@@ -4,7 +4,7 @@ As a condition to providing assistance under section 2005 of this title, the Sur
 
 &emsp;(a) require plans and specifications meeting such standards of construction and equipment as he may prescribe, and
 
-&emsp;(b) obtain such assurances and agreements as in his judgment are equitable in the light ofthe financial assistance provided under this subchapter and are necessary to assure the availability of the facility for the provision of hospital and medical care to Indians and to assure that the hospital is operated in compliance with State standards for operation and maintenance of hospitals which receive Federal aid under title VI of the Public Health Service Act \[42 U.S.C. 291 et seq.\].
+&emsp;(b) obtain such assurances and agreements as in his judgment are equitable in the light of the financial assistance provided under this subchapter and are necessary to assure the availability of the facility for the provision of hospital and medical care to Indians and to assure that the hospital is operated in compliance with State standards for operation and maintenance of hospitals which receive Federal aid under title VI of the Public Health Service Act \[42 U.S.C. 291 et seq.\].
 
 (Pub. L. 85–151, §3, Aug. 16, 1957, 71 Stat. 371.)
 

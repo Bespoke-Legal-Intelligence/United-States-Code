@@ -62,7 +62,7 @@ In general.—The Administrator may not lease space to accommodate any of the fo
 
 Exception.—The Administrator may lease space with respect to which paragraph (1) applies if the Administrator—
 
-&emsp;&emsp;(A) decides, for reasons set forth in writing, that leasing the space is necessary tomeet requirements which cannot be met in public buildings; and
+&emsp;&emsp;(A) decides, for reasons set forth in writing, that leasing the space is necessary to meet requirements which cannot be met in public buildings; and
 
 &emsp;&emsp;(B) submits the reasons to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 

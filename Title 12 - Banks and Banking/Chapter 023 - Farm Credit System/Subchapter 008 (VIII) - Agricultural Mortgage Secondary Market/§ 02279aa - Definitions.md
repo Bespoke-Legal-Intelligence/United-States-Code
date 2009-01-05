@@ -68,25 +68,35 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(II) a private corporation or partnership whose members, stockholders, or partners holding a majority interest in the corporation or partnership are individuals described in subclause (I); and
 
-&emsp;&emsp;(iii) of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms; or
+&emsp;&emsp;(iii) of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms;
 
 &emsp;&emsp;(B) that is the portion of a loan guaranteed by the Secretary of Agriculture pursuant to the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), except that—
 
 &emsp;&emsp;&emsp;(i) subsections (b) through (d) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter.
+&emsp;&emsp;&emsp;(ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter; or
+
+&emsp;&emsp;(C) that is a loan, or an interest in a loan, for an electric or telephone facility by a cooperative lender to a borrower that has received, or is eligible to receive, a loan under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.).
 
 #### (10) State
 
 &emsp;The term “State” has the meaning given such term in section 2277a of this title.
 
-(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165.)
+(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920.)
 
 #### References in Text
 
 The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
+The Rural Electrification Act of 1936, referred to in par. (9)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Par. (9)(C). Pub. L. 110–246, §5406(a), added subpar. (C).
 
 1996—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
 
@@ -111,6 +121,10 @@ Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to ame
 &emsp;“(C) is an obligation of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms.”
 
 1988—Par. (9)(B)(ii). Pub. L. 100–399 substituted “holding” for “hold” and struck out “and” before “are”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

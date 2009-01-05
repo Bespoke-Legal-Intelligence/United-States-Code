@@ -52,7 +52,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 #### (d) Premiums for qualified disabled and working individuals described in section 1396d(s)
 
-With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
+With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) ofthis title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
 
 #### (e) Prohibition of denial of services on basis of individual's inability to pay certain charges
 
@@ -106,7 +106,7 @@ In applying this section and subsections (c) and (e) of section 1396<i>o</i>–1
 
 (3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of a child under section 1396a(a)(10)(A)(ii)(XIX) of this title for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of at least 60 days from the date on which the premium became past due. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893; Pub. L. 109–171, title VI, §§6041(b), 6062(b), Feb. 8, 2006, 120 Stat. 84, 98.)
 
 #### References in Text
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 106–170 applicable to medical assistance for items and se
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed onor after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 99–272 applicable to medical assistance provided for hosp
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was added by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
+Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section wasadded by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
 #### Effective Date
 

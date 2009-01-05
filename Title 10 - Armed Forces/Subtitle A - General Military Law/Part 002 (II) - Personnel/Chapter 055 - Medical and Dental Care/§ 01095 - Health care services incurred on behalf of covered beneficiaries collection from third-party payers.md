@@ -46,7 +46,7 @@
 
 (2) In cases in which a tort liability is created upon some third person, collection from a third-party payer that is an automobile liability insurance carrier shall be governed by the provisions of Public Law 87–693 (42 U.S.C. 2651 et seq.).
 
-(j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services provided to a covered beneficiary who is an enrollee in such organization or plan.
+(j) The Secretary of Defense may enter into an agreement with any health maintenance organization, competitive medical plan, health care prepayment plan, or other similar plan (pursuant to regulations issued by the Secretary) providing for collection under this section from such organization or plan for services providedto a covered beneficiary who is an enrollee in such organization or plan.
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
@@ -62,7 +62,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX\(§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -152,5 +152,5 @@ Section 727(b) of Pub. L. 101–189 provided that: “The amendment made by this
 
 #### Effective Date
 
-Section 2001(b) of Pub. L. 99–272 provided that: “Section 1095 of title 10, United States Code, as added bysubsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 2001(b) of Pub. L. 99–272 provided that: “Section 1095 of title 10, United States Code, as added by subsection (a), shall apply with respect to inpatient hospital care provided after September 30, 1986, but only with respect to an insurance, medical service, or health plan agreement entered into, amended, or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 

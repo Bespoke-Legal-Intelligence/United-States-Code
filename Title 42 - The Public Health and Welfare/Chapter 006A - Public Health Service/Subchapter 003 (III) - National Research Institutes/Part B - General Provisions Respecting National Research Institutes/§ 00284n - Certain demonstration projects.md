@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the “Secretary”) in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
+&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the “Secretary”) in consultation with the Director of the National Science Foundation, the Secretary of Energy, andother agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
 
 #### (2) Goals, priorities, and methods; interagency collaboration
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary, acting through the Director of NIH, may allocate funds for the national research institutes andnational centers to make awards of grants or contracts or to engage in other transactions for demonstration projects for high-impact, cutting-edge research that fosters scientific creativity and increases fundamental biological understanding leading to the prevention, diagnosis, and treatment of diseases and disorders. The head of a national research institute or national center may conduct or support such high-impact, cutting-edge research (with funds allocated under the preceding sentence or otherwise available for such purpose) if the institute or center gives notice to the Director of NIH beforehand and submits a report to the Director of NIH on an annual basis on the activities of the institute or center relating to such research.
+&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary, acting through the Director of NIH, may allocate funds for the national research institutes and national centers to make awards of grants or contracts or to engage in other transactions for demonstration projects for high-impact, cutting-edge research that fosters scientific creativity and increases fundamental biological understanding leading to the prevention, diagnosis, and treatment of diseases and disorders. The head of a national research institute or national center may conduct or support such high-impact, cutting-edge research (with funds allocated under the preceding sentence or otherwise available for such purpose) if the institute or center gives notice to the Director of NIH beforehand and submits a report to the Director of NIH on an annual basis on the activities of the institute or center relating to such research.
 
 #### (2) Special consideration
 

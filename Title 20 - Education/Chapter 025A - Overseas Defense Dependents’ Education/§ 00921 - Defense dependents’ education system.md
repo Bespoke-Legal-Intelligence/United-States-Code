@@ -64,6 +64,32 @@ Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
+#### Report on Condition of Schools Under Jurisdiction of Department of Defense Education Activity
+
+Pub. L. 110–181, div. B, title XXVIII, §2879, Jan. 28, 2008, 122 Stat. 564, provided that:
+
+“(a)
+
+Report Required.—Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the conditions of schools under the jurisdiction of the Department of Defense Education Activity.
+
+“(b)
+
+Content.—The report required under subsection (a) shall include the following:
+
+&emsp;“(1) A description of each school under the control of the Secretary, including the location, year constructed, grades of attending children, maximum capacity, and current capacity of the school.
+
+&emsp;“(2) A description of the standards and processes used by the Secretary to assess the adequacy of the size of school facilities, the ability of facilities to support school programs, and the current condition of facilities.
+
+&emsp;“(3) A description of the conditions of the facility or facilities at each school, including the level of compliance with the standards described in paragraph (2), any existing or projected facility deficiencies or inadequate conditions at each facility, and whether any of the facilities listed are temporary structures.
+
+&emsp;“(4) An investment strategy planned for each school to correct deficiencies identified in paragraph (3), including a description of each project to correct such deficiencies, cost estimates, and timelines to complete each project.
+
+&emsp;“(5) A description of requirements for new schools to be constructed over the next 10 years as a result of changes to the population of military personnel.
+
+“(c)
+
+Use of Report as Master Plan for Repair, Upgrade, and Construction of Schools.—The Secretary shall use the report required under subsection (a) as a master plan for the repair, upgrade, and construction of schools in the Department of Defense system that support dependents of members of the Armed Forces and civilian employees of the Department of Defense.”
+
 #### Pilot Program on Private Operation of Defense Dependents’ Schools
 
 Pub. L. 104–106, div. A, title III, §355, Feb. 10, 1996, 110 Stat. 269, provided that:

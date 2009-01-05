@@ -12,7 +12,7 @@
 
 (2) The provisions of paragraph (1) of this subsection shall not apply with respect to any reduction in the grade of a position which had not been classified at the higher grade for a continuous period of at least one year immediately before such reduction.
 
-(c) For the 2-year period referred to in subsections (a) and (b) of this section, the retained grade of an employee under such subsection (a) or (b) shall be treated as the grade of the employee's position for all purposes (including pay and pay administration under this chapter and chapter 55 of this title, retirement and life insurance under chapters 83, 84, and 87 of this title, and eligibility for training and promotion under this title) except—
+(c) For the 2-year period referred to in subsections (a) and (b) of this section, the retained grade of an employee under such subsection (a)or (b) shall be treated as the grade of the employee's position for all purposes (including pay and pay administration under this chapter and chapter 55 of this title, retirement and life insurance under chapters 83, 84, and 87 of this title, and eligibility for training and promotion under this title) except—
 
 &emsp;(1) for purposes of subsection (a) of this section,
 

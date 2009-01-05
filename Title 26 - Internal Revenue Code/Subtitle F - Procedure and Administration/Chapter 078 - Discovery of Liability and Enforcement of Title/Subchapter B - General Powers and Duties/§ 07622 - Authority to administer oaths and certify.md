@@ -2,7 +2,7 @@
 
 #### (a) Internal revenue personnel
 
-Every officer or employee of the Treasury Department designated by the Secretary for that purpose is authorized to administer such oaths or affirmations and to certify to such papers as may be necessary under the internal revenue laws or regulations made thereunder.
+Every officer or employee of the Treasury Department designated by the Secretary for thatpurpose is authorized to administer such oaths or affirmations and to certify to such papers as may be necessary under the internal revenue laws or regulations made thereunder.
 
 #### (b) Others
 

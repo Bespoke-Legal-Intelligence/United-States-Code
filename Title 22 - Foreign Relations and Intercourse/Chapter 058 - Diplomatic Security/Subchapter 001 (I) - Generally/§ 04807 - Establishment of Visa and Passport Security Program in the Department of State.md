@@ -8,7 +8,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (1) In general
 
-&emsp;The Assistant Secretary for Diplomatic Security, in coordination with the appropriate officials of the Bureau of Consular Affairs, the coordinator for counterterrorism, the National Counterterrorism Center, and the Department of Homeland Security, and consistent with the strategy mandated by section 7201,<sup>1</sup> shall ensure the preparation of a strategic plan to target and disrupt individuals and organizations, within the United States and in foreign countries, that are involved in the fraudulent production, distribution, use, or other similar activity—
+&emsp;The Assistant Secretary for Diplomatic Security, in coordination with the appropriate officials of the Bureau of Consular Affairs, the coordinator for counterterrorism, the National Counterterrorism Center, and the Department of Homeland Security, and consistent with the strategy mandated by section7201,<sup>1</sup> shall ensure the preparation of a strategic plan to target and disrupt individuals and organizations, within the United States and in foreign countries, that are involved in the fraudulent production, distribution, use, or other similar activity—
 
 &emsp;&emsp;(A) of a United States visa or United States passport;
 
@@ -44,7 +44,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (A) Analysis of methods
 
-&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods usedby terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
+&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
 
 #### (B) Identification of individuals and documents
 

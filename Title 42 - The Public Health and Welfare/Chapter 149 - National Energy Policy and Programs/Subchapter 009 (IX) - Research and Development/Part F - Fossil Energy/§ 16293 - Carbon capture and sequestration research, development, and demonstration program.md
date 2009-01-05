@@ -60,7 +60,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(iv) deep saline formations;
 
-&emsp;&emsp;&emsp;(v) deep geologic systems that may be used as engineered reservoirs to extracteconomical quantities of heat from geothermal resources of low permeability or porosity; and
+&emsp;&emsp;&emsp;(v) deep geologic systems that may be used as engineered reservoirs to extract economical quantities of heat from geothermal resources of low permeability or porosity; and
 
 &emsp;&emsp;&emsp;(vi) deep geologic systems containing basalt formations.
 

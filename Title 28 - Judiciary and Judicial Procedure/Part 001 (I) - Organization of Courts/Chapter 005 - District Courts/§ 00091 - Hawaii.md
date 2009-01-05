@@ -32,7 +32,7 @@ Changes were made in phraseology.
 
 #### Effective Date of 1959 Amendment
 
-Section 14 of Pub. L. 86–3 provided that the amendments of sections 91, 373, 1252, 1293, and 1294 of thistitle, sections 3771 and 3772 of Title 18, Crimes and Criminal Procedure, and section 644a of Title 48, Territories and Insular Possessions, the repeal of sections 536, 539, 634, 634a, and 645 of title 48, and notes set out under sections 371 and 373 of this title, are effective on admission of the State of Hawaii into the Union. See Admission of Hawaii as State note below.
+Section 14 of Pub. L. 86–3 provided that the amendments of sections 91, 373, 1252, 1293, and 1294 of this title, sections 3771 and 3772 of Title 18, Crimes and Criminal Procedure, and section 644a of Title 48, Territories and Insular Possessions, the repeal of sections 536, 539, 634, 634a, and 645 of title 48, and notes set out under sections 371 and 373 of this title, are effective on admission of the State of Hawaii into the Union. See Admission of Hawaii as State note below.
 
 #### Canton and Enderbury Islands; Sovereignty of Kiribati
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to take action
 
-Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) of this section will reduce the total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shall take such action with respect to the commodity program involved.
+Notwithstanding any other provision of law, whenever the Secretary of Agriculture determines that an action authorized under subsection (c), (d), or (e) of this section will reducethe total of the direct and indirect costs to the Federal Government of a commodity program administered by the Secretary without adversely affecting income to small- and medium-sized producers participating in such program, the Secretary shall take such action with respect to the commodity program involved.
 
 #### (b) Reservation of Secretary's right to reopen or change contracts if producer agrees
 
@@ -24,19 +24,27 @@ When the domestic market price of a commodity for which a nonrecourse loan progr
 
 #### (e) Reopening of production control or loan programs to allow for payment in kind
 
-When a production control or loan program is in effect for a crop of a major agricultural commodity, the Secretary may at any time prior to harvest reopen the program to participating producers for the purpose of accepting bids from producers for the conversion of acreage planted to such crop to diverted acres in return for payment in kind from Commodity Credit Corporation surplus stocks of the commodity to which the acreage was planted, if the Secretary determines that (1) changes in domestic or world supply or demand conditions have substantially changed after announcement of the program for that crop, and (2) without action to further adjust production, the Federal Government and producers will be faced with a burdensome and costly surplus. Such payments in kind shall not be included within the payment limitation of $50,000 per person established under section 1308 of this title, but shall be limited to a total $20,000 per year per producer for any one commodity.
+When a production control or loan program is in effect for a crop of a major agricultural commodity, the Secretary may at any time prior to harvest reopen the program to participating producers for the purpose of accepting bids from producers for the conversion of acreage planted to such crop to diverted acres in return for payment in kind from Commodity Credit Corporation surplus stocks of the commodity to which the acreage was planted, if the Secretary determines that (1) changes in domestic or world supply or demand conditions have substantially changed after announcement of the program for that crop, and (2) without action to further adjust production, the Federal Government and producers will be faced with a burdensome and costly surplus. Such payments in kind shall not be included within the payment limitation per person established under section 1308 of this title, but shall be limited to a total $20,000 per year per producer for any one commodity.
 
 #### (f) Other authorities of Secretary not affected
 
 The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary under any other provision of law.
 
-(Pub. L. 99–198, title X, §1009, Dec. 23, 1985, 99 Stat. 1453; Pub. L. 101–134, §3, Oct. 30, 1989, 103 Stat. 781.)
+(Pub. L. 99–198, title X, §1009, Dec. 23, 1985, 99 Stat. 1453; Pub. L. 101–134, §3, Oct. 30, 1989, 103 Stat. 781; Pub. L. 110–234, title I, §1603(g)(1), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(1), June 18, 2008, 122 Stat. 1664, 1739.)
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
 
 #### Amendments
 
+2008—Subsec. (e). Pub. L. 110–246, §1603(g)(1), struck out “of $50,000” before “per person” in second sentence.
+
 1989—Subsec. (d). Pub. L. 101–134, in introductory provisions, inserted “(including the program authorized by section 1445e of this title)” after “nonrecourse loan program” and substituted “benefits” for “savings” and struck out concluding provisions which read as follows: “but the Secretary may not reduce the settlement price to less than the principal due on the loan”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

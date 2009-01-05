@@ -10,15 +10,17 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;(1) the State has a plan approved under this part for the fiscal year;
 
-&emsp;(2)(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year; or
+&emsp;(2)(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-&emsp;(B) the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year;
+&emsp;(B) the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year; or
+
+&emsp;(C) the State's foster child adoption rate for the fiscal year exceeds the highest ever foster child adoption rate determined for the State;
 
 &emsp;(3) the State is in compliance with subsection (c) of this section for the fiscal year;
 
-&emsp;(4) in the case of fiscal years 2001 through 2007, the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
+&emsp;(4) the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
 
-&emsp;(5) the fiscal year is any of fiscal years 1998 through 2007.
+&emsp;(5) the fiscal year is any of fiscal years 2008 through 2012.
 
 #### (c) Data requirements
 
@@ -32,7 +34,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (2) Determination of numbers of adoptions based on AFCARS data
 
-&emsp;The Secretary shall determine the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during each of fiscal years 2002 through 2007, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
+&emsp;The Secretary shall determine the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
 
 #### (3) No waiver of AFCARS requirements
 
@@ -42,25 +44,61 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the adoption incentive payment payable to a State for a fiscal year under this section shall be equal to the sum of—
+&emsp;Except as provided in paragraphs (2) and (3), the adoption incentive payment payable to a State for a fiscal year under this section shall be equal to the sum of—
 
 &emsp;&emsp;(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-&emsp;&emsp;(B) $2,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+&emsp;&emsp;(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
 
-&emsp;&emsp;(C) $4,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
+&emsp;&emsp;(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
 
 #### (2) Pro rata adjustment if insufficient funds available
 
-&emsp;For any fiscal year, if the total amount of adoption incentive payments otherwise payable under this section for a fiscal year exceeds the amount appropriated pursuant to subsection (h) of this section for the fiscal year, the amount of the adoption incentive payment payable to each State under this section for the fiscal year shall be—
+&emsp;For any fiscal year, if the total amount of adoption incentive payments otherwise payable under paragraph (1) for a fiscal year exceeds the amount appropriated pursuant to subsection (h) for the fiscal year, the amount of the adoption incentive payment payable to each State under paragraph (1) for the fiscal year shall be—
 
-&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable to the State under this section for the fiscal year; multiplied by
+&emsp;&emsp;(A) the amount of the adoption incentive payment that would otherwise be payable to the State under paragraph (1) for the fiscal year; multiplied by
 
-&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption incentive payments otherwise payable under this section for the fiscal year.
+&emsp;&emsp;(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption incentive payments otherwise payable under paragraph (1) for the fiscal year.
 
-#### (e) 2-year availability of incentive payments
+#### (3) Increased incentive payment for exceeding the highest ever foster child adoption rate
 
-Payments to a State under this section in a fiscal year shall remain available for use by the State through the end of the succeeding fiscal year.
+#### (A) In general
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) for fiscal year 2009 or any fiscal year thereafter the total amount of adoption incentive payments payable under paragraph (1) of this subsection are less than the amount appropriated under subsection (h) for the fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) a State's foster child adoption rate for that fiscal year exceeds the highest ever foster child adoption rate determined for the State,
+
+> &emsp;&emsp;then the adoption incentive payment otherwise determined under paragraph (1) of this subsection for the State shall be increased, subject to subparagraph (C) of this paragraph, by the amount determined for the State under subparagraph (B) of this paragraph.
+
+#### (B) Amount of increase
+
+&emsp;&emsp;For purposes of subparagraph (A), the amount determined under this subparagraph with respect to a State and a fiscal year is the amount equal to the product of—
+
+&emsp;&emsp;&emsp;(i) $1,000; and
+
+&emsp;&emsp;&emsp;(ii) the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of foster child adoptions in the State in the fiscal year; over
+
+&emsp;&emsp;&emsp;&emsp;(II) the product (rounded to the nearest whole number) of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the highest ever foster child adoption rate determined for the State; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
+
+#### (C) Pro rata adjustment if insufficient funds available
+
+&emsp;&emsp;For any fiscal year, if the total amount of increases in adoption incentive payments otherwise payable under this paragraph for a fiscal year exceeds the amount available for such increases for the fiscal year, the amount of the increase payable to each State under this paragraph for the fiscal year shall be—
+
+&emsp;&emsp;&emsp;(i) the amount of the increase that would otherwise be payable to the State under this paragraph for the fiscal year; multiplied by
+
+&emsp;&emsp;&emsp;(ii) the percentage represented by the amount so available for the fiscal year, divided by the total amount of increases otherwise payable under this paragraph for the fiscal year.
+
+#### (e) 24-month availability of incentive payments
+
+Payments to a State under this section in a fiscal year shall remain available for use by the State for the 24-month period beginning with the month in which the payments are made.
 
 #### (f) Limitations on use of incentive payments
 
@@ -80,27 +118,15 @@ As used in this section:
 
 #### (3) Base number of foster child adoptions
 
-&emsp;The term “base number of foster child adoptions for a State” means—
-
-&emsp;&emsp;(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
-
-&emsp;&emsp;(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.
+&emsp;The term “base number of foster child adoptions for a State” means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.
 
 #### (4) Base number of special needs adoptions that are not older child adoptions
 
-&emsp;The term “base number of special needs adoptions for a State” means—
-
-&emsp;&emsp;(A) with respect to fiscal year 2003, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2002; and
-
-&emsp;&emsp;(B) with respect to any subsequent fiscal year, the number of special needs adoptions that are not older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.
+&emsp;The term “base number of special needs adoptions that are not older child adoptions for a State” means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.
 
 #### (5) Base number of older child adoptions
 
-&emsp;The term “base number of older child adoptions for a State” means—
-
-&emsp;&emsp;(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
-
-&emsp;&emsp;(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.
+&emsp;The term “base number of older child adoptions for a State” means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.
 
 #### (6) Older child adoptions
 
@@ -109,6 +135,18 @@ As used in this section:
 &emsp;&emsp;(A) at the time of the adoptive placement, the child was in foster care under the supervision of the State; or
 
 &emsp;&emsp;(B) an adoption assistance agreement was in effect under section 673 of this title with respect to the child.
+
+#### (7) Highest ever foster child adoption rate
+
+&emsp;The term “highest ever foster child adoption rate” means, with respect to any fiscal year, the highest foster child adoption rate determined for any fiscal year in the period that begins with fiscal year 2002 and ends with the preceding fiscal year.
+
+#### (8) Foster child adoption rate
+
+&emsp;The term “foster child adoption rate” means, with respect to a State and a fiscal year, the percentage determined by dividing—
+
+&emsp;&emsp;(A) the number of foster child adoptions finalized in the State during the fiscal year; by
+
+&emsp;&emsp;(B) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
 
 #### (h) Limitations on authorization of appropriations
 
@@ -122,11 +160,11 @@ As used in this section:
 
 &emsp;&emsp;(C) $20,000,000 for each of fiscal years 2001 through 2003; and
 
-&emsp;&emsp;(D) $43,000,000 for each of fiscal years 2004 through 2008.
+&emsp;&emsp;(D) $43,000,000 for each of fiscal years 2004 through 2013.
 
 #### (2) Availability
 
-&emsp;Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2008.
+&emsp;Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2013.
 
 #### (i) Technical assistance
 
@@ -158,13 +196,55 @@ As used in this section:
 
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (f), is classified to section 620 et seq. of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(C). Pub. L. 110–351, §401(e)(3)(A), added subpar. (C).
+
+Subsec. (b)(4). Pub. L. 110–351, §401(a)(1), struck out “in the case of fiscal years 2001 through 2007,” before “the State provides”.
+
+Subsec. (b)(5). Pub. L. 110–351, §401(a)(2), substituted “2008 through 2012” for “1998 through 2007”.
+
+Subsec. (c)(2). Pub. L. 110–351, §401(a)(3), (e)(3)(B), substituted “during a fiscal year, and the foster child adoption rate for the State for the fiscal year,” for “during each of fiscal years 2002 through 2007”.
+
+Subsec. (d)(1). Pub. L. 110–351, §401(e)(1)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+
+Subsec. (d)(1)(B). Pub. L. 110–351, §401(c)(1), substituted “$4,000” for “$2,000”.
+
+Subsec. (d)(1)(C). Pub. L. 110–351, §401(c)(2), substituted “$8,000” for “$4,000”.
+
+Subsec. (d)(2). Pub. L. 110–351, §401(e)(1)(B), substituted “paragraph (1)” for “this section” wherever appearing.
+
+Subsec. (d)(3). Pub. L. 110–351, §401(e)(1)(C), added par. (3).
+
+Subsec. (e). Pub. L. 110–351, §401(d), substituted “24-month” for “2-year” in heading and “for the 24-month period beginning with the month in which the payments are made” for “through the end of the succeeding fiscal year” in text.
+
+Subsec. (g)(3). Pub. L. 110–351, §401(b)(1), substituted “means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.” for “means—
+
+&emsp;“(A) with respect to fiscal year 2003, the number of foster child adoptions in the State in fiscal year 2002; and
+
+&emsp;“(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+
+Subsec. (g)(4). Pub. L. 110–351, §401(b)(2), inserted “that are not older child adoptions” before “for a State” and substituted “means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.” for “means—
+
+&emsp;“(A) with respect to fiscal year 2003, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2002; and
+
+&emsp;“(B) with respect to any subsequent fiscal year, the number of special needs adoptions that are not older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+
+Subsec. (g)(5). Pub. L. 110–351, §401(b)(3), substituted “means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.” for “means—
+
+&emsp;“(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
+
+&emsp;“(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year.”
+
+Subsec. (g)(7), (8). Pub. L. 110–351, §401(e)(2), added pars. (7) and (8).
+
+Subsec. (h)(1)(D), (2). Pub. L. 110–351, §401(a)(4), substituted “2013” for “2008”.
 
 2006—Subsec. (f). Pub. L. 109–288 substituted “624” for “623”.
 
@@ -213,6 +293,10 @@ Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 1998—Subsec. (c)(2)(B). Pub. L. 105–200 substituted “April 30, 1998” for “November 30, 1997” and “July 1, 1998” for “March 1, 1998”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payments under this part and part B of this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as a note under section 671 of this title.
 
 #### Effective Date of 2006 Amendment
 

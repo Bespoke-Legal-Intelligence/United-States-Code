@@ -104,7 +104,7 @@
 
 &emsp;(B) after having made a reasonable effort to seek public comment, but no later than 60 days before the expiration date of the control number assigned by the Director for the currently approved collection of information, submit the collection of information for review and approval under this section, which shall include an explanation of how the agency has used the information that it has collected.
 
-(2) If under the provisions of this section, the Director disapproves a collection of information contained in an existing rule, or recommends or instructs the agency to make a substantive or material change to a collection of information contained in an existing rule, the Director shall—
+(2) If under the provisions of this section, the Director disapproves a collection of informationcontained in an existing rule, or recommends or instructs the agency to make a substantive or material change to a collection of information contained in an existing rule, the Director shall—
 
 &emsp;(A) publish an explanation thereof in the Federal Register; and
 

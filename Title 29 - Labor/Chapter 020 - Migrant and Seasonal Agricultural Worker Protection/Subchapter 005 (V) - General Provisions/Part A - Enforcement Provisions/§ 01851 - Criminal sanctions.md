@@ -16,5 +16,5 @@ If a farm labor contractor who commits a violation of paragraph (1) or (2) of se
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventhmonth beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
+Amendment by Pub. L. 99–603 applicable to employment, recruitment, referral, or utilization of services of an individual occurring on or after first day of seventh month beginning after Nov. 6, 1986, see section 101(b)(2) of Pub. L. 99–603, as amended, set out as a note under section 1802 of this title.
 

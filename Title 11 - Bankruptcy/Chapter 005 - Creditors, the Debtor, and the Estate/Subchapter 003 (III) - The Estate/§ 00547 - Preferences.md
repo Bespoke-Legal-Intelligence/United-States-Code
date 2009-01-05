@@ -68,7 +68,7 @@
 
 &emsp;(5) that creates a perfected security interest in inventory or a receivable or the proceeds of either, except to the extent that the aggregate of all such transfers to the transferee caused a reduction, as of the date of the filing of the petition and to the prejudice of other creditors holding unsecured claims, of any amount by which the debt secured by such security interest exceeded the value of all security interests for such debt on the later of—
 
-&emsp;&emsp;(A)(i) with respect to a transfer to which subsection (b)(4)(A) of this section applies, 90days before the date of the filing of the petition; or
+&emsp;&emsp;(A)(i) with respect to a transfer to which subsection (b)(4)(A) of this section applies, 90 days before the date of the filing of the petition; or
 
 &emsp;&emsp;(ii) with respect to a transfer to which subsection (b)(4)(B) of this section applies, one year before the date of the filing of the petition; or
 
@@ -128,7 +128,7 @@ Section 547(c)(6) of the House bill is deleted and is treated in a different fas
 
 Section 547(c)(6) represents a modification of a similar provision contained in the House bill and Senate amendment. The exception relating to satisfaction of a statutory lien is deleted. The exception for a lien created under title 11 is deleted since such a lien is a statutory lien that will not be avoidable in a subsequent bankruptcy.
 
-Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible.In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made some transfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
+Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible. In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made some transfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
 
 Preferences: The House amendment deletes from the category of transfers on account of antecedent debts which may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the “ordinary course” exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, in the case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
 
@@ -158,7 +158,7 @@ The third exception is for enabling loans in connection with which the debtor ac
 
 The fourth exception codifies the net result rule in section 60c of current law \[section 96(c) of former title 11\]. If the creditor and the debtor have more than one exchange during the 90-day period, the exchanges are netted out according to the formula in paragraph (4). Any new value that the creditor advances must be unsecured in order for it to qualify under this exception.
 
-Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
+Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209\(C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
 
 Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

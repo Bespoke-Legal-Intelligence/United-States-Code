@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(B) provide technical assistance and support to schoolwide programs;
 
-&emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
+&emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
 
 &emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 of this title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
 

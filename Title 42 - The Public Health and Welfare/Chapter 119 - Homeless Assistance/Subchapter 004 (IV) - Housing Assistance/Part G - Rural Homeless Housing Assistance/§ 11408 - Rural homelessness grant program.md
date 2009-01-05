@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (2) Availability
 
-&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. The Secretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
+&emsp;Any amount paid to a grant recipient for a fiscal year that remains unobligated at the end of the year shall remain available to the recipient for the purposes for which the payment was made for the next fiscal year. TheSecretary shall take such action as may be necessary to recover any amount not obligated by the recipient at the end of the second fiscal year, and shall redistribute the amount to another eligible organization.
 
 (Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045.)
 

@@ -26,7 +26,7 @@ The Secretary shall, directly or through contracts with public and nonprofit pri
 
 The Secretary shall evaluate and report on effective methods of intervening before the abandonment of an infant or young child so as to prevent such abandonments, and effective methods for responding to the needs of abandoned infants and young children.
 
-(Pub. L. 100–505, title I, §102, Oct. 18, 1988, 102 Stat. 2535; Pub. L. 102–236, §4, Dec. 12, 1991, 105Stat. 1814; Pub. L. 108–36, title III, §303, June 25, 2003, 117 Stat. 823.)
+(Pub. L. 100–505, title I, §102, Oct. 18, 1988, 102 Stat. 2535; Pub. L. 102–236, §4, Dec. 12, 1991, 105 Stat. 1814; Pub. L. 108–36, title III, §303, June 25, 2003, 117 Stat. 823.)
 
 #### Amendments
 

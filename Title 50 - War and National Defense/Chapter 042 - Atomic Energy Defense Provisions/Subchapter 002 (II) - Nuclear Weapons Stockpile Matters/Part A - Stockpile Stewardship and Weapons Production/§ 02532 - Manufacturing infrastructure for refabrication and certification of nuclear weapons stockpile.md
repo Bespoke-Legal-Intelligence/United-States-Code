@@ -14,7 +14,7 @@
 
 &emsp;(E) To supply sufficient tritium in support of nuclear weapons to ensure an upload hedge in the event circumstances require.
 
-(2) The purpose of the program carried out under paragraph (1) shall also be to develop manufacturing capabilities and capacities necessary to meet the requirements specified in the annual Nuclear Weapons Stockpile Review.
+(2) The purpose of the program carried out under paragraph (1) shall also be to developmanufacturing capabilities and capacities necessary to meet the requirements specified in the annual Nuclear Weapons Stockpile Review.
 
 #### (b) Required capabilities
 
@@ -60,9 +60,9 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136, §3141(e)(13)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106)” after “section 3101(b)”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(e)(13)(D), inserted “of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106)” after “section 3101(b)”.
 
-1996—Subsec. (a). Pub. L. 104–201, §3132(a), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §3132(a), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
 Subsec. (b)(3). Pub. L. 104–201, §3132(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site.”
 

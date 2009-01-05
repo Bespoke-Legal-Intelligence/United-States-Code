@@ -10,9 +10,9 @@ Section 654, Pub. L. 91–518, title X, §1004, as added Pub. L. 96–254, title
 
 Section 655, Pub. L. 91–518, title X, §1005, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 416, directed Secretary to encourage private sector development of potential rail passenger corridors by removing institutional barriers and coordinating funding.
 
-Section 656, Pub. L. 91–518, title X, §1006, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 417, related to speed restrictions imposed on Amtrak trains by State or local governments. See section 24702 of Title 49, Transportation.
+Section 656, Pub. L. 91–518, title X, §1006, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 417, related to speed restrictions imposed on Amtrak trains by State or local governments.
 
-Section 657, Pub. L. 91–518, title X, §1007, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 417, related to provision of service between corridors to increase ridership. See section 24702 of Title 49.
+Section 657, Pub. L. 91–518, title X, §1007, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 417, related to provision of service between corridors to increase ridership.
 
 Section 658, Pub. L. 91–518, title X, §1008, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 417, authorized appropriations for evaluation of corridors, acquisition of equipment, and private sector development.
 

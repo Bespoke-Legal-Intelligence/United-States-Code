@@ -5,7 +5,7 @@
 | [471\.](%C2%A7%2000471%20-%20Statistics%20and%20estimates%20of%20grades%20and%20staple%20length%20of%20cotton%3B%20collection%20and%20publication.md) | Statistics and estimates of grades and staple length of cotton; collection and publication. |
 | [472\.](%C2%A7%2000472%20-%20Information%20furnished%20of%20confidential%20character%3B%20penalty%20for%20divulging%20information.md) | Information furnished of confidential character; penalty for divulging information. |
 | [473\.](%C2%A7%2000473%20-%20Persons%20required%20to%20furnish%20information%3B%20request%3B%20failure%20to%20furnish%3B%20false%20information.md) | Persons required to furnish information; request; failure to furnish; false information. |
-| [473a.](%C2%A7%2000473a%20-%20Cotton%20classification%20services%3B%20fees%20for%20costs%20of%20services%2C%20adjustments%2C%20surcharge%2C%20discounts%2C%20and%20announcement%3B%20sales%20of%20samples%E2%80%A6.md) | Cotton classification services; fees for costs of services, adjustments, surcharge, discounts, and announcement; sales of samples; disposition of moneys. |
+| [473a.](%C2%A7%2000473a%20-%20Cotton%20classification%20services.md) | Cotton classification services. |
 | [473b.](%C2%A7%2000473b%20-%20Market%20supply%2C%20demand%2C%20condition%20and%20prices%3B%20collection%20and%20publication%20of%20information.md) | Market supply, demand, condition and prices; collection and publication of information. |
 | [473c.](%C2%A7%2000473c%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | 473c–1. | Offenses in relation to sampling of cotton for classification. |
@@ -26,7 +26,7 @@
 - [&sect; 00471 - Statistics and estimates of grades and staple length of cotton; collection and publication](%C2%A7%2000471%20-%20Statistics%20and%20estimates%20of%20grades%20and%20staple%20length%20of%20cotton%3B%20collection%20and%20publication.md)
 - [&sect; 00472 - Information furnished of confidential character; penalty for divulging information](%C2%A7%2000472%20-%20Information%20furnished%20of%20confidential%20character%3B%20penalty%20for%20divulging%20information.md)
 - [&sect; 00473 - Persons required to furnish information; request; failure to furnish; false information](%C2%A7%2000473%20-%20Persons%20required%20to%20furnish%20information%3B%20request%3B%20failure%20to%20furnish%3B%20false%20information.md)
-- [&sect; 00473a - Cotton classification services; fees for costs of services, adjustments, surcharge, discounts, and announcement; sales of samples&#8230;](%C2%A7%2000473a%20-%20Cotton%20classification%20services%3B%20fees%20for%20costs%20of%20services%2C%20adjustments%2C%20surcharge%2C%20discounts%2C%20and%20announcement%3B%20sales%20of%20samples%E2%80%A6.md)
+- [&sect; 00473a - Cotton classification services](%C2%A7%2000473a%20-%20Cotton%20classification%20services.md)
 - [&sect; 00473b - Market supply, demand, condition and prices; collection and publication of information](%C2%A7%2000473b%20-%20Market%20supply%2C%20demand%2C%20condition%20and%20prices%3B%20collection%20and%20publication%20of%20information.md)
 - [&sect; 00473c - Rules and regulations](%C2%A7%2000473c%20-%20Rules%20and%20regulations.md)
 - [&sect; 00473c&#8211;1 - Offenses in relation to sampling of cotton for classification](%C2%A7%2000473c%E2%80%931%20-%20Offenses%20in%20relation%20to%20sampling%20of%20cotton%20for%20classification.md)

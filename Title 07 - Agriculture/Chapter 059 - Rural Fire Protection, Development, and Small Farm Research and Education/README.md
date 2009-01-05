@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | 2651 to 2654. Repealed. |  |
-| [2655\.](Subchapter%20001%20%28I%29%20-%20Rural%20Community%20Fire%20Protection/%C2%A7%2002655%20-%20Rural%20firefighters%20and%20emergency%20personnel%20grant%20program.md) | Rural firefighters and emergency personnel grant program. |
+| [2655\.](Subchapter%20001%20%28I%29%20-%20Rural%20Community%20Fire%20Protection/%C2%A7%2002655%20-%20Rural%20firefighters%20and%20emergency%20medical%20service%20assistance%20program.md) | Rural firefighters and emergency medical service assistance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

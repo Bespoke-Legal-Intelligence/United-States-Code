@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -34,7 +34,9 @@ For the purposes of this chapter—
 
 &emsp;(D) Preventive health services.
 
-&emsp;(E) In the case of a person otherwise receiving care or services under this chapter—
+&emsp;(E) Noninstitutional extended care services, including alternatives to institutional extended care that the Secretary may furnish directly, by contract, or through provision ofcase management by another provider or payer.
+
+&emsp;(F) In the case of a person otherwise receiving care or services under this chapter—
 
 &emsp;&emsp;(i) wheelchairs, artificial limbs, trusses, and similar appliances;
 
@@ -42,7 +44,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(iii) such other supplies or services as the Secretary determines to be reasonable and necessary.
 
-&emsp;(F) Travel and incidental expenses pursuant to section 111 of this title.
+&emsp;(G) Travel and incidental expenses pursuant to section 111 of this title.
 
 (7) The term “domiciliary care” includes necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title.
 
@@ -72,11 +74,7 @@ For the purposes of this chapter—
 
 &emsp;(K) such other health-care services as the Secretary may determine to be necessary to provide effective and economical preventive health care.
 
-(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term “medical services” includes noninstitutional extended care services.
-
-(B) For the purposes of subparagraph (A), the term “noninstitutional extended care services” means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor.
-
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140.)
 
 #### Codification
 
@@ -88,6 +86,16 @@ Prior sections 1700 and 1701 were renumbered sections 3500 and 3501 of this titl
 
 #### Amendments
 
+2008—Par. (5)(B). Pub. L. 110–387, §301(a)(1), inserted “marriage and family counseling,” after “professional counseling,” and substituted “as the Secretary considers appropriate for” for “as may be essential to”.
+
+Par. (6)(E) to (G). Pub. L. 110–387, §801(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Par. (10). Pub. L. 110–387, §801(1), struck out par. (10) which read as follows:
+
+“(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term ‘medical services’ includes noninstitutional extended care services.
+
+“(B) For the purposes of subparagraph (A), the term ‘noninstitutional extended care services’ means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor.”
+
 2003—Par. (8). Pub. L. 108–170, §104(a), struck out “(other than those types of vocational rehabilitation services provided under chapter 31 of this title)” after “programs”.
 
 Par. (10)(A). Pub. L. 108–170, §106(a), substituted “November 30, 1999, and ending on December 31, 2008,” for “the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,”.
@@ -96,7 +104,7 @@ Par. (10)(A). Pub. L. 108–170, §106(a), substituted “November 30, 1999, and
 
 Par. (6). Pub. L. 107–135, §208(a)(1)(A), (B), substituted “services, the following:” for “services—” in introductory provisions and struck out concluding provisions which read as follows: “For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 1713(b) of this title shall be eligible for the same medical services as a veteran.”
 
-Par. (6)(A). Pub. L. 107–135, §208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventive health services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
+Par. (6)(A). Pub. L. 107–135, §208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventivehealth services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
 
 Par. (6)(B) to (F). Pub. L. 107–135, §208(a)(1)(A), (C), added subpars. (B) to (F) and struck out former subpar. (B) which included in the definition of “medical services” certain necessary consultation, professional counseling, training, and mental health services.
 
@@ -176,7 +184,7 @@ Par. (6)(a)(i). Pub. L. 98–160 inserted “(in the case of a person otherwise 
 
 1981—Par. (4)(C)(v). Pub. L. 97–72 substituted “September 30, 1982” for “December 31, 1981”.
 
-1979—Par. (4). Pub. L. 96–22, §§102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
+1979—Par. (4). Pub. L. 96–22, §§102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement),that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
 
 Par. (4)(C)(iii). Pub. L. 96–151, §202, inserted provisions respecting safe transfer of the veteran, and substituted “medical services in” for “hospital care in”.
 
@@ -188,7 +196,7 @@ Par. (6)(A)(i). Pub. L. 96–22, §102(c)(2), substituted “described in sectio
 
 Par. (6)(B). Pub. L. 96–151, §201(b)(3), substituted “travel and incidental expenses” for “necessary expenses of travel and subsistence”.
 
-1978—Par. (4)(C)(v). Pub. L. 95–520 defined “Veterans’ Administration facilities” to include certain private facilities to provide medical services to obviate the need for hospital admission, deleted reference to hospital care for veterans in a territory, Commonwealth, or possession of the United States not contiguous to the forty-eight contiguous States, substituted provision requiring the annually determined hospital patient load and incidence of the provision of medical services to veterans hospitalized or treated at expense of Veterans’ Administration in Government and private facilities in each noncontiguous State to be consistent with patient load or incidence of the provision of medical servicesfor veterans hospitalized or treated by the Veterans’ Administration within the forty-eight contiguous States for prior requirement that the annually determined average hospital patient load per thousand veteran population hospitalized at Veterans’ Administration expense in Government and private facilities in each noncontiguous State not exceed the average patient load per thousand veteran population hospitalized by the Veterans’ Administration within the forty-eight contiguous States; extended termination date for exercise of subcl. (v) authority to Dec. 31, 1981, from Dec. 31, 1978, except as to Alaska and Hawaii, and authorized waiver by the Administrator, to prevent hardship, of applicability to Puerto Rico and Virgin Islands of subcl. (v) restrictions with respect to hospital patient loads and incidence of provision of medical services.
+1978—Par. (4)(C)(v). Pub. L. 95–520 defined “Veterans’ Administration facilities” to include certain private facilities to provide medical services to obviate the need for hospital admission, deleted reference to hospital care for veterans in a territory, Commonwealth, or possession of the United States not contiguous to the forty-eight contiguous States, substituted provision requiring the annually determined hospital patient load and incidence of the provision of medical services to veterans hospitalized or treated at expense of Veterans’ Administration in Government and private facilities in each noncontiguous State to be consistent with patient load or incidence of the provision of medical services for veterans hospitalized or treated by the Veterans’ Administration within the forty-eight contiguous States for prior requirement that the annually determined average hospital patient load per thousand veteran population hospitalized at Veterans’ Administration expense in Government and private facilities in each noncontiguous State not exceed the average patient load per thousand veteran population hospitalized by the Veterans’ Administration within the forty-eight contiguous States; extended termination date for exercise of subcl. (v) authority to Dec. 31, 1981, from Dec. 31, 1978, except as to Alaska and Hawaii, and authorized waiver by the Administrator, to prevent hardship, of applicability to Puerto Rico and Virgin Islands of subcl. (v) restrictions with respect to hospital patient loads and incidence of provision of medical services.
 
 1976—Par. (4)(A). Pub. L. 94–581, §202(b)(1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
 
@@ -238,7 +246,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Effective Date of 1973 Amendment
 
-Section 501 of Pub. L. 93–82 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
+Section 501 of Pub. L. 93–82 provided that: “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section 1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
+
+#### Location of Services
+
+Pub. L. 110–387, title III, §301(b), Oct. 10, 2008, 122 Stat. 4120, provided that: “Paragraph (5) of section 1701 of title 38, United States Code, shall not be construed to prevent the Secretary of Veterans Affairs from providing services described in subparagraph (B) of such paragraph to individuals described in such subparagraph in centers under section 1712A of such title (commonly referred to as ‘Vet Centers’), Department of Veterans Affairs medical centers, community-based outpatient clinics, or in such other facilities of the Department of Veterans Affairs as the Secretary considers necessary.”
 
 #### Guidelines Relating to Furnishing of Sensori-Neural Aids
 

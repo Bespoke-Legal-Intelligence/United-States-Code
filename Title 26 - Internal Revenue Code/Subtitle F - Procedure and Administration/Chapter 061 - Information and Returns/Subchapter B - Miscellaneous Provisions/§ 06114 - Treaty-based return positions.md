@@ -10,7 +10,7 @@ Each taxpayer who, with respect to any tax imposed by this title, takes the posi
 
 #### (b) Waiver authority
 
-The Secretary may waive the requirements of subsection (a) with respect to classes of cases forwhich the Secretary determines that the waiver will not impede the assessment and collection of tax.
+The Secretary may waive the requirements of subsection (a) with respect to classes of cases for which the Secretary determines that the waiver will not impede the assessment and collection of tax.
 
 (Added Pub. L. 100–647, title I, §1012(aa)(5)(A), Nov. 10, 1988, 102 Stat. 3532; amended Pub. L. 101–508, title XI, §11702(c), Nov. 5, 1990, 104 Stat. 1388–514.)
 

@@ -18,13 +18,13 @@
 
 &emsp;(6) the judgment is based on an order confirming an arbitral award rendered against the foreign state, provided that attachment in aid of execution, or execution, would not be inconsistent with any provision in the arbitral agreement, or
 
-&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605(a)(7), regardless of whether the property is or was involved with the act upon which the claim is based.
+&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A, regardless of whether the property is or was involved with the act upon which the claim is based.
 
 (b) In addition to subsection (a), any property in the United States of an agency or instrumentality of a foreign state engaged in commercial activity in the United States shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
 &emsp;(1) the agency or instrumentality has waived its immunity from attachment in aid of execution or from execution either explicitly or implicitly, notwithstanding any withdrawal of the waiver the agency or instrumentality may purport to effect except in accordance with the terms of the waiver, or
 
-&emsp;(2) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605(a)(2), (3), (5), or (7), or 1605(b) of this chapter, regardless of whether the property is or was involved in the act upon which the claim is based.
+&emsp;(2) the judgment relates to a claim for which the agency or instrumentality is not immune by virtue of section 1605(a)(2), (3), or (5), 1605(b), or 1605A of this chapter, regardless of whether the property is or was involved in the act upon which the claim is based.
 
 (c) No attachment or execution referred to in subsections (a) and (b) of this section shall be permitted until the court has ordered such attachment and execution after having determined that a reasonable period of time has elapsed following the entry of judgment and the giving of any notice required under section 1608(e) of this chapter.
 
@@ -36,11 +36,11 @@
 
 (e) The vessels of a foreign state shall not be immune from arrest in rem, interlocutory sale, and execution in actions brought to foreclose a preferred mortgage as provided in section 1605(d).
 
-(f)(1)(A) Notwithstanding any other provision of law, including but not limited to section 208(f) of the Foreign Missions Act (22 U.S.C. 4308(f)), and except as provided in subparagraph (B), any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)), section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), or any other proclamation, order, regulation, or license issued pursuant thereto, shall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7).
+(f)(1)(A) Notwithstanding any other provision of law, including but not limited to section 208(f) of the Foreign Missions Act (22 U.S.C. 4308(f)), and except as provided in subparagraph (B), any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.C. App. 5(b)), section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), or any other proclamation, order, regulation, or license issued pursuant thereto, shall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A.
 
 (B) Subparagraph (A) shall not apply if, at the time the property is expropriated or seized by the foreign state, the property has been held in title by a natural person or, if held in trust, has been held for the benefit of a natural person or persons.
 
-(2)(A) At the request of any party in whose favor a judgment has been issued with respect to a claim for which the foreign state is not immune under section 1605(a)(7), the Secretary of the Treasury and the Secretary of State should make every effort to fully, promptly, and effectively assist any judgment creditor or any court that has issued any such judgment in identifying, locating, and executing against the property of that foreign state or any agency or instrumentality of such state.
+(2)(A) At the request of any party in whose favor a judgment has been issued with respect to a claim for which the foreign state is not immune under section 1605(a)(7) (as in effect before the enactment of section 1605A) or section 1605A, the Secretary of the Treasury and the Secretary of State should make every effort to fully, promptly, and effectively assist any judgment creditor or any court that has issued any such judgment in identifying, locating, and executing against the property of that foreign state or any agency or instrumentality of such state.
 
 (B) In providing such assistance, the Secretaries—
 
@@ -52,13 +52,53 @@
 
 Waiver.—The President may waive any provision of paragraph (1) in the interest of national security.
 
-(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337.)
+(g)
+
+Property in Certain Actions.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (3), the property of a foreign state against which a judgment is entered under section 1605A, and the property of an agency or instrumentality of such a state, including property that is a separate juridical entity or is an interest held directly or indirectly in a separate juridical entity, is subject to attachment in aid of execution, and execution, upon that judgment as provided in this section, regardless of—
+
+&emsp;&emsp;(A) the level of economic control over the property by the government of the foreign state;
+
+&emsp;&emsp;(B) whether the profits of the property go to that government;
+
+&emsp;&emsp;(C) the degree to which officials of that government manage the property or otherwise control its daily affairs;
+
+&emsp;&emsp;(D) whether that government is the sole beneficiary in interest of the property; or
+
+&emsp;&emsp;(E) whether establishing the property as a separate entity would entitle the foreign state to benefits in United States courts while avoiding its obligations.
+
+&emsp;(2)
+
+United states sovereign immunity inapplicable.—Any property of a foreign state, or agency or instrumentality of a foreign state, to which paragraph (1) applies shall not be immune from attachment in aid of execution, or execution, upon a judgment entered under section 1605A because the property is regulated by the United States Government by reason of action taken against that foreign state under the Trading With the Enemy Act or the International Emergency Economic Powers Act.
+
+&emsp;(3)
+
+Third-party joint property holders.—Nothing in this subsection shall be construed to supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property subject to attachment in aid of execution, or execution, upon such judgment.
+
+(Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341.)
 
 #### References in Text
 
 The effective date of this Act, referred to in subsecs. (a) and (b), is 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
 
+The enactment of section 1605A, referred to in subsec. (f)(1)(A), (2)(A), refers to the enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
+
+The Trading with the Enemy Act, referred to in subsec. (g)(2), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
 #### Amendments
+
+2008—Subsec. (a)(7). Pub. L. 110–181, §1083(b)(3)(A), substituted “1605A” for “1605(a)(7)”.
+
+Subsec. (b)(2). Pub. L. 110–181, §1083(b)(3)(B), substituted “or (5), 1605(b), or 1605A” for “(5), or (7), or 1605(b)”.
+
+Subsec. (f)(1)(A), (2)(A). Pub. L. 110–181, §1083(b)(3)(C), inserted “(as in effect before the enactment of section 1605A) or section 1605A” after “section 1605(a)(7)”.
+
+Subsec. (g). Pub. L. 110–181, §1083(b)(3)(D), added subsec. (g).
 
 2000—Subsec. (f)(2)(A), (B)(ii). Pub. L. 106–386, §2002(g)(1)(A), formerly §2002(f)(1)(A), as renumbered by Pub. L. 107–297, substituted “should make every effort to” for “shall”.
 
@@ -75,6 +115,10 @@ Subsec. (b)(2). Pub. L. 104–132, §221(b)(2), substituted “(5), or (7),” f
 1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
 Subsec. (e). Pub. L. 100–640 added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -156,7 +200,7 @@ Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) \[section 2002(g) of Pub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a note above\], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the “Victim's of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, amending section 1606 of this title\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and section 1606 of this title\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
+By the authority vested in me as President by the Constitution and laws of the United States of America, including section 2002(f) \[now 2002(g)\] of H.R. 3244, “Victims of Trafficking and Violence Protection Act of 2000,” (approved October 28, 2000) \[section 2002(g) ofPub. L. 106–386, amending this section and section 1606 of this title and repealing provisions set out as a note above\], I hereby determine that subsection (f)(1) of section 1610 of title 28, United States Code, which provides that any property with respect to which financial transactions are prohibited or regulated pursuant to section 5(b) of the Trading with the Enemy Act (50 U.S.\[C.\] App. 5(b)\[)\], section 620(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2370(a)), sections 202 and 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701–1702), and proclamations, orders, regulations, and licenses issued pursuant thereto, be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state claiming such property is not immune from the jurisdiction of courts of the United States or of the States under section 1605(a)(7) of title 28, United States Code, would impede the ability of the President to conduct foreign policy in the interest of national security and would, in particular, impede the effectiveness of such prohibitions and regulations upon financial transactions. Therefore, pursuant to section 2002(f) \[now 2002(g)\] of H.R. 3244, the “Victim's of Trafficking and Violence Protection Act of 2000,” I hereby waive subsection (f)(1) of section 1610 of title 28, United States Code, in the interest of national security. This waiver, together with the amendment of subsection (f)(2) of the Foreign Sovereign Immunities Act \[probably means subsec. (f)(2) of this section\] and the repeal of the subsection (b) of section 117 of the Treasury and General Government Appropriations Act, 1999 \[section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, amending section 1606 of this title\], supersedes my prior waiver of the requirements of subsections (a) and (b) of said section 117 \[amending this section and section 1606 of this title\], executed on October 21, 1998 \[former Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201\].
 
 The Secretary of State is authorized and directed to publish this determination in the Federal Register.
 

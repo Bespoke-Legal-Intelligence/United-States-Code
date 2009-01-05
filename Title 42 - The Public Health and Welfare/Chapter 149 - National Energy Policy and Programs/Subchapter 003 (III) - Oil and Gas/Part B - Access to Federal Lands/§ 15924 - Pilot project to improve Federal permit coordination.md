@@ -100,7 +100,7 @@ For the purposes of coordination and processing of oil and gas use authorization
 
 #### (i) Fees
 
-During the period in which the Pilot Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.
+During the period in which the Pilot Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase infees to recover additional costs related to processing drilling-related permit applications and use authorizations.
 
 #### (j) Savings provision
 

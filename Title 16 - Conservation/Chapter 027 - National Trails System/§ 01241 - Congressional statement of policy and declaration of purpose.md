@@ -6,7 +6,7 @@ In order to provide for the ever-increasing outdoor recreation needs of an expan
 
 #### (b) Initial components
 
-The purpose of this chapter is to provide the means for attaining these objectives by instituting a national system of recreation, scenic and historic trails, by designating the Appalachian Trail and the Pacific Crest Trail as the initialcomponents of that system, and by prescribing the methods by which, and standards according to which, additional components may be added to the system.
+The purpose of this chapter is to provide the means for attaining these objectives by instituting a national system of recreation, scenic and historic trails, by designating the Appalachian Trail and the Pacific Crest Trail as the initial components of that system, and by prescribing the methods by which, and standards according to which, additional components may be added to the system.
 
 #### (c) Volunteer citizen involvement
 
@@ -88,7 +88,7 @@ Section 1 of Pub. L. 90–543 provided that: “This Act \[enacting this chapter
 
 Ex. Ord. No. 13195, Jan. 18, 2001, 66 F.R. 7391, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendments note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operatingAmerica's national system of trails, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of purposes of the National Trails System Act of 1968, as amended (16 U.S.C. 1241–1251), the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Short Title of 1998 Amendments note set out under section 101 of Title 23, Highways\], and other pertinent statutes, and to achieve the common goal of better establishing and operating America's national system of trails, it is hereby ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent permitted by law and where practicable—and in cooperation with Tribes, States, local governments, and interested citizen groups—protect, connect, promote, and assist trails of all types throughout the United States. This will be accomplished by:
 

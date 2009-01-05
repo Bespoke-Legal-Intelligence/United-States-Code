@@ -10,7 +10,7 @@ The said courts shall have jurisdiction to enforce said injunction, as provided 
 
 #### (c) Notice to Director
 
-It shall be the duty of the clerks of such courts within one month after the filing of any action, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Director setting forth in order so far as known the names and addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall give like notice thereof to the Director, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Director, and it shall be the duty of the Director on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
+It shall be the duty of the clerks of such courts within one month after the filing of any action, suit, or proceeding involving a mark registered under the provisions of this chapter to give notice thereof in writing to the Director setting forth in order so far as known the namesand addresses of the litigants and the designating number or numbers of the registration or registrations upon which the action, suit, or proceeding has been brought, and in the event any other registration be subsequently included in the action, suit, or proceeding by amendment, answer, or other pleading, the clerk shall give like notice thereof to the Director, and within one month after the judgment is entered or an appeal is taken the clerk of the court shall give notice thereof to the Director, and it shall be the duty of the Director on receipt of such notice forthwith to endorse the same upon the file wrapper of the said registration or registrations and to incorporate the same as a part of the contents of said file wrapper.
 
 #### (d) Civil actions arising out of use of counterfeit marks
 
@@ -18,7 +18,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (B) As used in this subsection the term “counterfeit mark” means—
 
-&emsp;(i) a counterfeit of a mark that is registered on the principal register in the United States Patent and Trademark Office for such goods orservices sold, offered for sale, or distributed and that is in use, whether or not the person against whom relief is sought knew such mark was so registered; or
+&emsp;(i) a counterfeit of a mark that is registered on the principal register in the United States Patent and Trademark Office for such goods or services sold, offered for sale, or distributed and that is in use, whether or not the person against whom relief is sought knew such mark was so registered; or
 
 &emsp;(ii) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of this chapter are made available by reason of section 220506 of title 36;
 
@@ -66,19 +66,19 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
-(7) Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.
+(7) Any materials seized under this subsection shall be taken into the custody of the court. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used.
 
 (8) An order under this subsection, together with the supporting documents, shall be sealed until the person against whom the order is directed has an opportunity to contest such order, except that any person against whom such order is issued shall have access to such order and supporting documents after the seizure has been carried out.
 
 (9) The court shall order that service of a copy of the order under this subsection shall be made by a Federal law enforcement officer (such as a United States marshal or an officer or agent of the United States Customs Service, Secret Service, Federal Bureau of Investigation, or Post Office) or may be made by a State or local law enforcement officer, who, upon making service, shall carry out the seizure under the order. The court shall issue orders, when appropriate, to protect the defendant from undue damage from the disclosure of trade secrets or other confidential information during the course of the seizure, including, when appropriate, orders restricting the access of the applicant (or any agent or employee of the applicant) to such secrets or information.
 
-(10)(A) The court shall hold a hearing, unless waived by all the parties, on the date set by the court in the order of seizure. That date shall be not sooner than ten days after the order is issued and not later than fifteen days after the order is issued, unless the applicant for the order shows good cause for another date or unless the party against whom such order is directed consents to another date for such hearing. At such hearing the party obtaining theorder shall have the burden to prove that the facts supporting findings of fact and conclusions of law necessary to support such order are still in effect. If that party fails to meet that burden, the seizure order shall be dissolved or modified appropriately.
+(10)(A) The court shall hold a hearing, unless waived by all the parties, on the date set by the court in the order of seizure. That date shall be not sooner than ten days after the order is issued and not later than fifteen days after the order is issued, unless the applicant for the order shows good cause for another date or unless the party against whom such order is directed consents to another date for such hearing. At such hearing the party obtaining the order shall have the burden to prove that the facts supporting findings of fact and conclusions of law necessary to support such order are still in effect. If that party fails to meet that burden, the seizure order shall be dissolved or modified appropriately.
 
 (B) In connection with a hearing under this paragraph, the court may make such orders modifying the time limits for discovery under the Rules of Civil Procedure as may be necessary to prevent the frustration of the purposes of such hearing.
 
 (11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908; Pub. L. 110–403, title I, §102(b), Oct. 13, 2008, 122 Stat. 4258.)
 
 #### References in Text
 
@@ -89,6 +89,8 @@ The Rules of Civil Procedure, referred to in subsec. (d)(10)(B), probably means 
 Acts Feb. 20, 1905, ch. 592, §§19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 #### Amendments
+
+2008—Subsec. (d)(7). Pub. L. 110–403 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.”
 
 2002—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, §13207(b)(8), (9), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”.
 
@@ -116,7 +118,7 @@ Subsec. (d)(1)(B). Pub. L. 100–667, §128(e), inserted “on or” after “or
 
 Amendment by section 1000(a)(9) \[title III, §3003(a)(1)\] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) \[title III, §3010\] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
-Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(B)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(B)\] of Pub. L. 106–113 effective 4 months afterNov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1988 Amendment
 

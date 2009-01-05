@@ -48,7 +48,7 @@ Pub. L. 109–139, §1, Dec. 22, 2005, 119 Stat. 2649, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -102,7 +102,7 @@ Pub. L. 106–390, title III, §308, Oct. 30, 2000, 114 Stat. 1575, required the
 
 #### National Drought Policy
 
-Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat. 1170, known as the “National Drought Policy Act of 1998”, established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
+Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78, title VII, §753, Oct. 22, 1999, 113 Stat.1170, known as the “National Drought Policy Act of 1998”, established the National Drought Policy Commission to study and submit a report on national drought policy and terminated the Commission 90 days after the submission of the report.
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 

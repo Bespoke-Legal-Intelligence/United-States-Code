@@ -100,7 +100,7 @@ Subsec. (c)(5). Pub. L. 109–173 substituted “the Deposit Insurance Fund” f
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(R). See 1996 Amendment note below.
 
-1996—Subsec. (c)(5). Pub. L. 104–208, §2704(D)(14)(R), which directed substitution of “the Deposit Insurance Fund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (c)(5). Pub. L. 104–208, §2704(D)(14)(R), which directed substitution of “the Deposit InsuranceFund” for “the Bank Insurance Fund or Savings Association Insurance Fund, respectively” in introductory provisions and in subpar. (A) and “the Deposit Insurance Fund” for “the Bank Insurance Fund or the Savings Association Insurance Fund, respectively” in subpar. (B), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 1994—Subsec. (c)(1). Pub. L. 103–325 substituted “
 

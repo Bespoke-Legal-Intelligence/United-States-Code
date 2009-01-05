@@ -62,7 +62,7 @@
 
 &emsp;First, to the duly appointed executor or administrator of the estate of the survivor.
 
-&emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
+&emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to suchnext of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, §3(b), Oct. 27, 2000, 114 Stat. 1402.)
 

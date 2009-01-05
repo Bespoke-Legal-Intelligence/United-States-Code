@@ -6,7 +6,7 @@
 
 (2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate court of the United States by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary of Commerce shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
-(3) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary of Commerce, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(3) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriatecourt has entered final judgment in favor of the Secretary of Commerce, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (4) A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by section 5009 of this title shall be liable in rem for any civil penalty assessed for such violation under paragraph (1) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
@@ -48,7 +48,7 @@
 
 (5) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel and which is seized in connection with an act prohibited by section 5009 of this title were taken or retained in violation of the Convention and this chapter.
 
-(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov.4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, §811, Oct. 29, 1992, 106 Stat. 4314; Pub. L. 102–587, title VIII, §8011, Nov. 4, 1992, 106 Stat. 5103; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### References in Text
 

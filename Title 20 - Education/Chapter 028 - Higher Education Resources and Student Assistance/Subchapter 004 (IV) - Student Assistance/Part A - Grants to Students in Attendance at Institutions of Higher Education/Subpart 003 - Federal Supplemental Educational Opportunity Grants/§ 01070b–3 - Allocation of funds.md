@@ -26,7 +26,7 @@
 
 > an amount equal to 90 percent of the amount it received under this subsection in its second year of participation.
 
-(3)(A) If the amount appropriated for any fiscal year is less than the amount required to beallocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
+(3)(A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
 
 (B) If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
 
@@ -82,7 +82,7 @@
 
 (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
 
-(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $450.
+(D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $600.
 
 #### (d) Reallocation of excess allocations
 
@@ -94,7 +94,7 @@
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §413D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1330; amended Pub. L. 100–50, §4, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §403(g), (h), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(26), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(c)(1), (2), Oct. 7, 1998, 112 Stat. 1665.)
+(Pub. L. 89–329, title IV, §413D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1330; amended Pub. L. 100–50, §4, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §403(g), (h), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(26), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(c)(1), (2), Oct. 7, 1998, 112 Stat. 1665; Pub. L. 110–315, title IV, §406(b), (c), Aug. 14, 2008, 122 Stat. 3215.)
 
 #### References in Text
 
@@ -106,13 +106,17 @@ A prior section 1070b–3, Pub. L. 89–329, title IV, §413D, as added Pub. L. 
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, was executed by making the substitution for “received and used under this subpart for fiscal year 1985” to reflect the probable intent of Congress.
+2008—Subsec. (a)(1). Pub. L. 110–315, §406(c), substituted “such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “such institution received and used under this subpart for fiscal year 1985”.
+
+Subsec. (c)(3)(D). Pub. L. 110–315, §406(b), substituted “$600” for “$450”.
+
+1998—Subsec. (a)(1). Pub. L. 105–244, §406(c)(1)(A), which directed substitution of “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”, could not be executed because the phrase “received and used under this part for fiscal year 1985” did not appear in text.
 
 Subsec. (a)(2)(A), (B). Pub. L. 105–244, §406(c)(1)(B)(i), substituted “1999” for “1985” in introductory provisions.
 
 Subsec. (a)(2)(C)(i). Pub. L. 105–244, §406(c)(1)(B)(ii), substituted “2000” for “1986”.
 
-Subsec. (b). Pub. L. 105–244, §406(c)(2)(A), (D), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to section 1070b(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
+Subsec. (b). Pub. L. 105–244, §406(c)(2)(A), (D), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriatedpursuant to section 1070b(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
 
 Subsec. (c). Pub. L. 105–244, §406(c)(2)(D), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 

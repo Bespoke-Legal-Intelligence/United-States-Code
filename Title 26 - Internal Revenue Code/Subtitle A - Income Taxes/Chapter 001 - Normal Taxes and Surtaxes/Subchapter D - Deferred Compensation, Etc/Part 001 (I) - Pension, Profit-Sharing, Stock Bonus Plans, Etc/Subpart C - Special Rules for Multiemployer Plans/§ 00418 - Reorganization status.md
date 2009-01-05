@@ -44,7 +44,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;&emsp;(II) at the election of the plan sponsor, actuarial valuation of the plan as of the adjustment date or any later date not later than the last day of the plan year for which the determination is being made,
 
-&emsp;&emsp;&emsp;(ii) any change in benefits under the plan which is not otherwise taken into account under this subparagraph and which is pursuant to any amendment—
+&emsp;&emsp;&emsp;(ii) any change in benefits under the plan which is not otherwise taken into accountunder this subparagraph and which is pursuant to any amendment—
 
 &emsp;&emsp;&emsp;&emsp;(I) adopted before the end of the plan year for which the determination is being made, and
 
@@ -136,7 +136,7 @@ For purposes of this subpart—
 
 #### (E) Withdrawal liability
 
-&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not beconsidered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
 
 #### (c) Prohibition of nonannuity payments
 
@@ -144,7 +144,7 @@ Except as provided in regulations prescribed by the Pension Benefit Guaranty Cor
 
 #### (d) Terminated plans
 
-Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall not be considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
+Any multiemployer plan which terminates under section 4041A(a)(2) of the Employee Retirement Income Security Act of 1974 shall notbe considered in reorganization after the last day of the plan year in which the plan is treated as having terminated.
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271.)
 

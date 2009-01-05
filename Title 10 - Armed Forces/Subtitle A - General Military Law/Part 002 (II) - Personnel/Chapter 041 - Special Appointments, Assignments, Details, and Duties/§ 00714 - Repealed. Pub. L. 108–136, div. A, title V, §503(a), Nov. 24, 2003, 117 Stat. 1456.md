@@ -4,5 +4,5 @@ Section, added Pub. L. 105–85, div. A, title V, §597(a), Nov. 18, 1997, 111 S
 
 #### Prior Provisions
 
-A prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length oftours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, §1(5)(A), June 29, 1960, 74 Stat. 246.
+A prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, §1(5)(A), June 29, 1960, 74 Stat. 246.
 

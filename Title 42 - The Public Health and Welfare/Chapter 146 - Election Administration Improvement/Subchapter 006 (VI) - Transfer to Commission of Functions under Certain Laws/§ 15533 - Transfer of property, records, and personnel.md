@@ -18,5 +18,5 @@ The contracts, liabilities, records, property, and other assets and interests of
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§801–804) oftitle VIII of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1725, which enacted this subchapter and amended section 1973gg–7 of this title and section 438 of Title 2, The Congress. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§801–804) of title VIII of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1725, which enacted this subchapter and amended section 1973gg–7 of this title and section 438 of Title 2, The Congress. For complete classification of subtitle A to the Code, see Tables.
 

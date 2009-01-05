@@ -32,7 +32,7 @@ A future use plan developed under this section shall cover a period of at least 
 
 #### (f) Deadlines
 
-For each facility listed in subsection (b), the Secretary of Energy shall develop a draft futureuse plan by October 1, 1997, and a final future use plan by March 15, 1998.
+For each facility listed in subsection (b), the Secretary of Energy shall develop a draft future use plan by October 1, 1997, and a final future use plan by March 15, 1998.
 
 #### (g) Report
 
@@ -52,7 +52,7 @@ Section was formerly set out as a note under section 7274k of Title 42, The Publ
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–136, §3141(g)(3)(D)(i), substituted “September 23, 1996,” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §3141(g)(3)(D)(i), substituted “September 23, 1996,” for “the date of the enactment of this Act”.
 
 Subsec. (h)(1). Pub. L. 108–136, §3141(g)(3)(D)(ii), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 

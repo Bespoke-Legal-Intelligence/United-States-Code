@@ -30,7 +30,7 @@ In providing services under this subpart—
 
 #### Amendments
 
-2006—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted “or who is anindividual with a disability” after “age” in par. (1), substituted “a child by blood, marriage, or adoption” for “a child by blood or marriage” and “55 years” for “60 years” in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term “family caregiver”, and added subsec. (b).
+2006—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted “or who is an individual with a disability” after “age” in par. (1), substituted “a child by blood, marriage, or adoption” for “a child by blood or marriage” and “55 years” for “60 years” in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term “family caregiver”, and added subsec. (b).
 
 #### Short Title
 

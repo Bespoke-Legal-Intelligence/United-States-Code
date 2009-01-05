@@ -1,6 +1,6 @@
 ### §1431. Congressional declaration of objectives
 
-The Congress declares that the objectives of this chapter are to enable the Government of the United States to promote a better understanding of the United States in other countries, and to increase mutual understanding between the people of the United States and the people of other countries. Among the means to be used in achieving these objectives are—
+The Congress declares that the objectives of this chapter are to enable the Government of the United States to promote a better understanding of the United States in other countries,and to increase mutual understanding between the people of the United States and the people of other countries. Among the means to be used in achieving these objectives are—
 
 &emsp;(1) an information service to disseminate abroad information about the United States, its people, and policies promulgated by the Congress, the President, the Secretary of State and other responsible officials of Government having to do with matters affecting foreign affairs;
 
@@ -34,7 +34,7 @@ Section 1010 of act Jan. 27, 1948, provided that: “If any provision of this Ac
 
 #### Transfer of Functions
 
-All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other thanBroadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+All functions vested in the President, the Secretary of State, the Department of State, the United States Information Agency, or the Director thereof, under this chapter, were transferred to the Director of the International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President, except to the extent that such functions were vested in the President under sections 1452, 1456, and 1467 of this title. The International Communication Agency, and the Director thereof, were redesignated the United States Information Agency, and the Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Promotion of Free Media and Other American Values
 
@@ -92,7 +92,7 @@ Statement of policy.—It shall be the policy of the United States, acting throu
 
 &emsp;&emsp;“(B) respect the journalistic integrity and editorial independence of free media worldwide; and
 
-&emsp;&emsp;“(C) ensure that widely accepted standards for professional and ethical journalistic and editorial practices are employed when assessing international media.
+&emsp;&emsp;“(C) ensure that widely accepted standards for professional and ethical journalistic and editorialpractices are employed when assessing international media.
 
 “(c)
 

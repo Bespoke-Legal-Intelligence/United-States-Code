@@ -1,6 +1,6 @@
 ### §416. Withdrawal of collateral deposited to protect notes and substitution of other collateral; retirement of notes; payment of notes of series prior to 1928; recovery of collateral; reissue of deposited notes
 
-Any Federal Reserve bank may at its discretion withdraw collateral deposited with the local Federal Reserve agent for the protection of its Federal Reserve notes issued to it, and shall at the same time substitute therefor other collateral of equal amount with the approval of the Federal Reserve agent under regulations to be prescribed by the Board of Governors of the Federal Reserve System. Any Federal Reserve bankmay retire any of its Federal Reserve notes by depositing them with the Federal Reserve agent or with the Treasurer of the United States, and such Federal Reserve bank shall thereupon be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of such notes. Any Federal Reserve bank shall further be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of any notes with respect to which such bank has made payment to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act. Federal Reserve notes so deposited shall not be reissued except upon compliance with the conditions of an original issue.
+Any Federal Reserve bank may at its discretion withdraw collateral deposited with the local Federal Reserve agent for the protection of its Federal Reserve notes issued to it, and shall at the same time substitute therefor other collateral of equal amount with the approval of the Federal Reserve agent under regulations to be prescribed by the Board of Governors of the Federal Reserve System. Any Federal Reserve bank may retire any of its Federal Reserve notes by depositing them with the Federal Reserve agent or with the Treasurer of the United States, and such Federal Reserve bank shall thereupon be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of such notes. Any Federal Reserve bank shall further be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of any notes with respect to which such bank has made payment to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act. Federal Reserve notes so deposited shall not be reissued except upon compliance with the conditions of an original issue.
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 267; June 21, 1917, ch. 32, §7, 40 Stat. 237; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 87–66, §8(b), June 30, 1961, 75 Stat. 147; Pub. L. 90–269, §6, Mar. 18, 1968, 82 Stat. 50.)
 
@@ -10,7 +10,7 @@ Section 4 of the Old Series Currency Adjustment Act, referred to in text, which 
 
 #### Codification
 
-Section is comprised of seventh par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of the sixth par. (formerly the seventh par.) of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 

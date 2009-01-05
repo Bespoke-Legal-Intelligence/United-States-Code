@@ -1,6 +1,6 @@
 ### §231c. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title.
+The administration, protection, and development of the aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National ParkService, subject to the provisions of sections 1, 2, 3, and 4 of this title.
 
 (Aug. 10, 1939, ch. 640, §4, 53 Stat. 1342.)
 

@@ -38,7 +38,7 @@ If the executor is unable to make a complete return as to any part of the gross 
 
 #### <i>(1) Large transfers</i>
 
-&emsp;<i>This section shall apply to all property (other than cash) acquired from a decedent if the fair market value of such property acquired from the decedent exceeds the dollar amount applicable under section 1022(b)(2)(B) (without regard to section 1022(b)(2)(C)).</i>
+&emsp;<i>This section shall apply to all property (other than cash) acquired from a decedent if the fair</i><i>market value of such property acquired from the decedent exceeds the dollar amount applicable under section 1022(b)(2)(B) (without regard to section 1022(b)(2)(C)).</i>
 
 #### <i>(2) Transfers of certain gifts received by decedent within 3 years of death</i>
 

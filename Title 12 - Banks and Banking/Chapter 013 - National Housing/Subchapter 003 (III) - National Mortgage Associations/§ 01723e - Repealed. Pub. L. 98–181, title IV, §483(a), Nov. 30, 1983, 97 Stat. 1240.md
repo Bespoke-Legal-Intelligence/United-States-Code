@@ -8,7 +8,7 @@ For continued application of former sections 1720 and 1723e of this title to any
 
 #### Effective Date
 
-Section 3(b) of Pub. L. 93–449, as amended by Pub. L. 94–50, title II, §207, July 2, 1975, 89 Stat. 256; Pub. L. 94–375, §13(d), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title IV, §407(e), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–406, §3, Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, §303, Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §3, Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §3, Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title III, §303, Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–372, §4, Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title III, §337(a), Oct. 8, 1980, 94 Stat. 1655, which related to the effective date of former section 1723e of this title, was repealed by Pub. L. 98–181, title IV, §483(a), Nov. 30, 1983, 97 Stat. 1240.
+Section 3(b) of Pub. L. 93–449, as amended by Pub. L. 94–50, title II, §207, July 2, 1975, 89 Stat. 256; Pub. L. 94–375, §13(d), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 95–128, title IV, §407(e), Oct. 12, 1977, 91 Stat. 1138; Pub. L.95–406, §3, Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, §303, Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §3, Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §3, Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title III, §303, Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–372, §4, Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title III, §337(a), Oct. 8, 1980, 94 Stat. 1655, which related to the effective date of former section 1723e of this title, was repealed by Pub. L. 98–181, title IV, §483(a), Nov. 30, 1983, 97 Stat. 1240.
 
 #### Emergency Mortgage Purchase Assistance; Transfer of Funds
 

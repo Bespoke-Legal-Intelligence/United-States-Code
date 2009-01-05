@@ -88,7 +88,7 @@
 
 #### (C) Burden of proof
 
-&emsp;&emsp;The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge.
+&emsp;&emsp;The person asserting lack of knowledge of the commencement of a formal investigationhas the burden of proof in establishing such lack of knowledge.
 
 #### (4) Commencement of investigation
 
@@ -166,7 +166,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;An amount not to exceed 100 percent of the loss of revenue.
 
-(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) of this section commits an alleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) of this section commits analleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
 #### (h) Regulation
 

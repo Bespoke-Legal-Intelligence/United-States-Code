@@ -6,7 +6,7 @@ The Secretary shall provide the price support authorized or required herein thro
 
 #### (b) Authority of Secretary; factors considered
 
-Except as otherwise provided in this Act, the amounts, terms, and conditions of price support operations and the extent to which such operations are carried out, shall be determined or approved by the Secretary. The following factors shall be taken into consideration in determining, in the case of any commodity for which price support is discretionary, whether a price-support operation shall be undertaken and the level of such support and, in the case of any commodity for which price support is mandatory, the level of support in excess of the minimum level prescribed for such commodity: (1) the supply of the commodity in relation to the demand therefor, (2) the price levels at which other commodities are being supported and, in the case of feed grains, the feed values of such grains in relation to corn, (3) the availability of funds, (4) the perishability of the commodity, (5) the importance of the commodity to agriculture and the national economy, (6) the ability to dispose of stocks acquired through a price-supportoperation, (7) the need for offsetting temporary losses of export markets, (8) the ability and willingness of producers to keep supplies in line with demand and (9), in the case of upland cotton, changes in the cost of producing such cotton.
+Except as otherwise provided in this Act, the amounts, terms, and conditions of price support operations and the extent to which such operations are carried out, shall be determined or approved by the Secretary. The following factors shall be taken into consideration in determining, in the case of any commodity for which price support is discretionary, whether a price-support operation shall be undertaken and the level of such support and, in the case of any commodity for which price support is mandatory, the level of support in excess of the minimum level prescribed for such commodity: (1) the supply of the commodity in relation to the demand therefor, (2) the price levels at which other commodities are being supported and, in the case of feed grains, the feed values of such grains in relation to corn, (3) the availability of funds, (4) the perishability of the commodity, (5) the importance of the commodity to agriculture and the national economy, (6) the ability to dispose of stocks acquired through a price-support operation, (7) the need for offsetting temporary losses of export markets, (8) the ability and willingness of producers to keep supplies in line with demand and (9), in the case of upland cotton, changes in the cost of producing such cotton.
 
 #### (c) Compliance by producer; program for diverted acres
 
@@ -56,7 +56,7 @@ Pub. L. 104–127, title II, §263(c), Apr. 4, 1996, 110 Stat. 974, provided tha
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–237, title XI, §1101, Dec. 13, 1991, 105 Stat. 1906, provided that:
+Pub. L. 102–237, title XI, §1101, Dec. 13, 1991, 105 Stat. 1906, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 “(a)
 
@@ -104,13 +104,13 @@ In general.—The amendment made by section 903(3) of this Act \[amending sectio
 
 &emsp;&emsp;&emsp;“(i) the date of enactment of this Act \[Dec. 13, 1991\];
 
-&emsp;&emsp;&emsp;“(ii) October 1, 1990, for food stamp households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
+&emsp;&emsp;&emsp;“(ii) October 1, 1990, for supplemental nutrition assistance program benefits households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
 
-&emsp;&emsp;&emsp;“(iii) beginning on the date that a fair hearing was requested under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) contesting the denial of an exclusion for food stamp purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
+&emsp;&emsp;&emsp;“(iii) beginning on the date that a fair hearing was requested under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) contesting the denial of an exclusion for supplemental nutrition assistance program benefits purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
 &emsp;&emsp;“(B)
 
-Limitation on application of section.—Notwithstanding section 11(b) of the Food Stamp Act of 1977 \[section 2020(b) of this title\] (as redesignated by section 941(6) of this Act), no State agency shall be required to search its files for cases to which the amendment made by section 903(3) of this Act \[amending section 2014 of this title\] applies, except where the excludability of amounts described in section 5(d)(16) of the Food Stamp Act of 1977 \[section 2014(d)(16) of this title\] (as added by section 903(3) of this Act) was raised with the State agency prior to the date of enactment of the Act \[Dec. 13, 1991\].
+Limitation on application of section.—Notwithstanding section 11(b) of the Food and Nutrition Act of 2008 \[section 2020(b) of this title\] (as redesignated by section 941(6) of this Act), no State agency shall be required to search its files for cases to which the amendment made by section 903(3) of this Act \[amending section 2014 of this title\] applies, except where the excludability of amounts described in section 5(d)(16) of the Food and Nutrition Act of 2008 \[section 2014(d)(16) of this title\] (as added by section 903(3) of this Act) was raised with the State agency prior to the date of enactment of the Act \[Dec. 13, 1991\].
 
 &emsp;“(3)
 
@@ -162,7 +162,7 @@ Pub. L. 101–82, §1(a), Aug. 14, 1989, 103 Stat. 564, provided that: “This A
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–418, title II, §2221, Aug. 23, 1988, 102 Stat. 1336, provided that: “This part \[part II (§§2221–2227) ofsubtitle B of title II of Pub. L. 100–418, which amended section 1431 of this title and enacted provisions set out as notes under section 1431 of this title\] may be cited as the ‘American Aid to Poland Act of 1988’.”
+Pub. L. 100–418, title II, §2221, Aug. 23, 1988, 102 Stat. 1336, provided that: “This part \[part II (§§2221–2227) of subtitle B of title II of Pub. L. 100–418, which amended section 1431 of this title and enacted provisions set out as notes under section 1431 of this title\] may be cited as the ‘American Aid to Poland Act of 1988’.”
 
 Pub. L. 100–387, §1, Aug. 11, 1988, 102 Stat. 924, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Disaster Assistance Act of 1988’.”
 
@@ -194,7 +194,7 @@ Pub. L. 97–358, §1, Oct. 21, 1982, 96 Stat. 1714, provided: “That this Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–213, §1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act \[amending sections 1308, 1309, 1441, 1444, 1444c, and 1445b of this title, and enacting provisions set out as notes under sections 1308 and 1309 of this title\] may be cited as the ‘Agricultural Adjustment Act of 1980’.”
+Pub. L. 96–213, §1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act \[amending sections 1308, 1309, 1441, 1444, 1444c, and 1445b of this title, and enacting provisions set out as notes under sections 1308 and 1309 of thistitle\] may be cited as the ‘Agricultural Adjustment Act of 1980’.”
 
 #### Short Title
 
@@ -262,11 +262,11 @@ Pub. L. 106–31, title I, §101, May 21, 1999, 113 Stat. 61, provided for crop 
 
 Pub. L. 106–31, title I, §104, May 21, 1999, 113 Stat. 62, provided an additional amount for the Livestock Assistance Program under Pub. L. 105–277 (see section 101(a) \[title XI\] of Pub. L. 105–277, formerly set out as a note below).
 
-Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due to disaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
+Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due todisaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
 
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
-Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
+Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (J), (2)(MM), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (J), (2)(MM), June 18, 2008, 122 Stat. 1664, 1857, 1859, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
 
 #### Survey of Program Participants
 

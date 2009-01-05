@@ -14,7 +14,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(3) A description of how the State educational agency will ensure that activities assisted under this subpart are aligned with challenging State academic content and student academic achievement standards, State assessments, and State and local curricula.
 
-&emsp;(4) A description of how the State educational agency will use funds under this part to improve the quality of the State's teachers and principals.
+&emsp;(4) A description of how the State educational agency will use funds under this partto improve the quality of the State's teachers and principals.
 
 &emsp;(5)(A) A description of how the State educational agency will coordinate professional development activities authorized under this part with professional development activities provided under other Federal, State, and local programs.
 

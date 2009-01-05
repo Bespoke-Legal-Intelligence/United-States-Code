@@ -1,5 +1,5 @@
 
-4 U.S.C.<br>United States Code, 2007 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
+4 U.S.C.<br>United States Code, 2008 Edition<br>Title 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 4—FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
 

@@ -80,7 +80,7 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 Existing Effort.—No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763; Pub. L. 103–311, title I, §§106, 119(c)(1)–(3), Aug. 26, 1994, 108 Stat. 1674, 1680; Pub. L. 109–59, titleVII, §§7108, 7126, Aug. 10, 2005, 119 Stat. 1897, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763; Pub. L. 103–311, title I, §§106, 119(c)(1)–(3), Aug. 26, 1994, 108 Stat. 1674, 1680; Pub. L. 109–59, title VII, §§7108, 7126, Aug. 10, 2005, 119 Stat. 1897, 1909.)
 
 Historical and Revision Notes
 

@@ -24,13 +24,25 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Section 403(d)(1) of Pub. L. 99–641 provided that the amendment made by that section is effective only during the 6-year period beginning Nov. 10, 1986.
 
-Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) of Pub. L. 99–641 to section 606 of this title, see section 408 of Pub. L. 99–641, set out as a note under section 606 of this title.
+Pub. L. 99–641, title IV, §408, Nov. 10, 1986, 100 Stat. 3571, provided that:
+
+“(a)
+
+General Effective Date.—Except as provided in subsection (b) of this section, this title and the amendments made by this title \[amending this section and sections 606, 621, 671, and 676 of this title and enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1986\].
+
+“(b)
+
+Temporary Application of Existing Law.—Sections 6, 9, and 21 of the Federal Meat Inspection Act (21 U.S.C. 606, 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\], shall apply with respect to establishments until theSecretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending section 606 of this title\].”
 
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-#### Construction and Effect of Amendments by Pub. L. 99–641
+#### Savings Provision
 
-For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
+Section 404 of Pub. L. 99–641 provided that: “The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act.”
+
+#### Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program
+
+Section 403(e) of Pub. L. 99–641 provided that: “The amendments made by this section \[amending this section and sections 606, 621, 671, and 676 of this title\] shall not be construed to authorize the Secretary of Agriculture to refuse to provide inspection under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.) at an establishment solely because such establishment does not participate in a total plant quality-control program.”
 

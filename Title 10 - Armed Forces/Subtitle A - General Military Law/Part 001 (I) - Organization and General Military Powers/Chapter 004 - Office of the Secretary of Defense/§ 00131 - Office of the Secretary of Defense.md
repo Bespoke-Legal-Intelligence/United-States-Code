@@ -18,29 +18,33 @@
 
 &emsp;&emsp;(E) The Under Secretary of Defense for Intelligence.
 
-&emsp;(3) The Director of Defense Research and Engineering.
+&emsp;(3) The Deputy Chief Management Officer of the Department of Defense.
 
-&emsp;(4) The Assistant Secretaries of Defense.
+&emsp;(4) The Director of Defense Research and Engineering.
 
-&emsp;(5) The Director of Operational Test and Evaluation.
+&emsp;(5) The Assistant Secretaries of Defense.
 
-&emsp;(6) The General Counsel of the Department of Defense.
+&emsp;(6) The Director of Operational Test and Evaluation.
 
-&emsp;(7) The Inspector General of the Department of Defense.
+&emsp;(7) The General Counsel of the Department of Defense.
 
-&emsp;(8) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+&emsp;(8) The Inspector General of the Department of Defense.
+
+&emsp;(9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613.)
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(3) to (9). Pub. L. 110–181, as amended by Pub. L. 110–417, added par. (3) and redesignated former pars. (3) to (8) as (4) to (9), respectively.
 
 2002—Subsec. (b)(2) to (11). Pub. L. 107–314 added par. (2), redesignated pars. (6) to (11) as (3) to (8), respectively, and struck out former pars. (2) to (5) which read as follows:
 
@@ -79,6 +83,10 @@ A prior section 131 was renumbered section 111 of this title.
 &emsp;“(9) The Inspector General of the Department of Defense.
 
 &emsp;“(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 

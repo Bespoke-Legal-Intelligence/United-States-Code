@@ -6,9 +6,11 @@
 
 (2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
+(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
+
 #### (b) Traffic considerations
 
-In determining the adequacy of reception facilities required by the MARPOL Protocol or the Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
+In determining the adequacy of reception facilities required by the MARPOL Protocol or the Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary or the Administrator may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
@@ -54,17 +56,27 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
-(2) The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.
+(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
 
 #### (f) Surveys
 
-(1) The Secretary is authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol or the Antarctic Protocol.
+(1) The Secretary and the Administrator are authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol or the Antarctic Protocol.
 
-(2)(A) <sup>1</sup> Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
+(2) Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
 
-(Pub. L. 96–478, §6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, §2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, §201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, §801, Oct. 19, 1996, 110 Stat. 3943.)
+(Pub. L. 96–478, §6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, §2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, §201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, §801, Oct. 19, 1996, 110 Stat. 3943; Pub. L. 110–280, §7, July 21, 2008, 122 Stat. 2614.)
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–280, §7(1), added par. (3).
+
+Subsec. (b). Pub. L. 110–280, §7(2), inserted “or the Administrator” after “Secretary”.
+
+Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
+
+Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
+
+Subsec. (f)(2). Pub. L. 110–280, §7(5), struck out subpar. (A) designation before “Not later”.
 
 1996—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
@@ -92,7 +104,7 @@ Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior 
 
 &emsp;“(2) shall be available for inspection upon the request of the master, other person in charge, or agent of a seagoing ship using or intending to use the port or terminal.
 
-> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretaryand acted on by him in the manner prescribed by regulation.”
+> The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
 
 Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 
@@ -103,6 +115,4 @@ Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex 
 #### Effective Date
 
 Subsecs. (a), (c), and (f) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
-
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -20,7 +20,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(A) other locations abroad having different social, climatic, or other environmental conditions than those at the post at which the member of the Service is serving, or
 
-&emsp;&emsp;(B) locations in the United States;
+&emsp;&emsp;(B) locations in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands;
 
 > &emsp;except that, unless the Secretary otherwise specifies in extraordinary circumstances, travel expenses under this paragraph shall be limited to the cost for a member of the Service, and for each member of the family of the member, of 1 round trip during any continuous 2-year tour and of 2 round trips during any continuous 3-year tour;
 
@@ -34,7 +34,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(9) roundtrip travel to or from an employee's post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee's post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.<sup>1</sup>
 
-&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of amember of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
+&emsp;(10) preparing and transporting to the designated home in the United States or to a place not more distant, the remains of a member of the Service, or of a family member of a member of the Service, who dies abroad or while in travel status or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant;
 
 &emsp;(11) transporting the furniture and household and personal effects of a member of the Service (and of his or her family) to successive posts of duty and, on separation of a member from the Service, to the place where the member will reside (or if the member has died, to the place where his or her family will reside);
 
@@ -62,9 +62,11 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 > &emsp;except that a payment under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
 
-(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442.)
+(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535.)
 
 #### Amendments
+
+2008—Par. (6)(B). Pub. L. 110–321 inserted “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands” after “United States”.
 
 2006—Par. (6). Pub. L. 109–234, which directed amendment of section 901(6) of the Foreign Service Act by striking out “unbroken by home leave” wherever appearing, was executed by striking out those words after “2-year tour” and “3-year tour” in concluding provisions of par. (6) of this section, which is section 901 of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
 
@@ -78,7 +80,7 @@ Par. (12)(B). Pub. L. 102–138, §145(1), inserted before semicolon “, excep
 
 Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days”.
 
-1990—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposesof family visitation in emergency situations involving personal hardship;”.
+1990—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;”.
 
 #### Effective Date of 2002 Amendment
 

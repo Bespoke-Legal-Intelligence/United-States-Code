@@ -24,11 +24,11 @@
 
 (b) Except as provided in subsection (a), the Comptroller General may apply any part of title 5 that applies to an applicant for or officer or employee in the Senior Executive Service under title 5 to the Office Senior Executive Service.
 
-(c) The Office Senior Executive Service may include positions referred to in section 731(c), (d), (e)(1), or (e)(2) of this title.
+(c) The Office Senior Executive Service may include positions referred to in section 731(c), (e)(1), or (e)(2) of this title.
 
 (d) Section 732(b)(6), (c), (d)(1)–(4), and (e) of this title does not apply to the Office Senior Executive Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, §1(c), June 22, 1984, 98 Stat. 269; Pub. L. 106–303, §4(b), Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §3(b), July 7, 2004, 118 Stat. 812.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 899; Pub. L. 98–326, §1(c), June 22, 1984, 98 Stat. 269; Pub. L. 106–303, §4(b), Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §3(b), July 7, 2004, 118 Stat. 812; Pub. L. 110–323, §9(b)(2), Sept. 22, 2008, 122 Stat. 3548.)
 
 Historical and Revision Notes
 
@@ -64,6 +64,8 @@ In subsection (d), the words “Employees in . . . the personnel system establ
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–323 struck out “(d),” after “731(c),”.
+
 2004—Subsec. (a)(3)(B). Pub. L. 108–271 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “adjusted at the same time and to the same extent as rates in the Senior Executive Service under section 5382 of title 5 are adjusted;”.
 
 2000—Subsec. (a)(7), (8). Pub. L. 106–303 added par. (7) and redesignated former par. (7) as (8).
@@ -76,7 +78,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicable in the case of any annualpay adjustment taking effect on or after Oct. 1, 2005, subject to authority of Comptroller General to change pay adjustments or delay the effective date for certain groups of officers and employees, see section 13 of Pub. L. 108–271, set out as a note under section 731 of this title.
+Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicable in the case of any annual pay adjustment taking effect on or after Oct. 1, 2005, subject to authority of Comptroller General to change pay adjustments or delay the effective date for certain groups of officers and employees, see section 13 of Pub. L. 108–271, set out as a note under section 731 of this title.
 
 #### Effective Date of 1984 Amendment
 

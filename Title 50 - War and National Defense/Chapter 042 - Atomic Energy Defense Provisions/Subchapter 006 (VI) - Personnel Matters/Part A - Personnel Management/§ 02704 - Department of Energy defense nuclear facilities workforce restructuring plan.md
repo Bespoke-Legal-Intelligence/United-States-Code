@@ -34,7 +34,7 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 &emsp;(5) The Department of Energy should assist terminated employees in obtaining appropriate retraining, education, and reemployment assistance (including employment placement assistance).
 
-&emsp;(6) The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
+&emsp;(6) The Department of Energy should provide local impact assistance to communities thatare affected by the restructuring plan and coordinate the provision of such assistance with—
 
 &emsp;&emsp;(A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
 
@@ -66,7 +66,7 @@ Not later than one year after issuing a plan referred to in subsection (a) and o
 
 In this section, the term “Department of Energy defense nuclear facility” means—
 
-&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River,South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
+&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
 &emsp;(2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
@@ -102,17 +102,17 @@ Section was formerly classified to section 7274h of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
 
 Subsec. (g). Pub. L. 108–136, §3141(i)(5)(D)(ii), added subsec. (g).
 
-2001—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
+<b>2001</b>—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
 
-1998—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+<b>1998</b>—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”
 
-1994—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
 
 Subsec. (a). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce for” for “work force for” in introductory provisions.
 

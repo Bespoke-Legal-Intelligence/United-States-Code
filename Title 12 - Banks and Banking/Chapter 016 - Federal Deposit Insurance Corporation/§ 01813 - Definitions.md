@@ -2,161 +2,157 @@
 
 As used in this chapter—
 
-(a)
+#### (a) Definitions of bank and related terms
 
-Definitions of Bank and Related Terms.—
+#### (1) Bank
 
-&emsp;(1)
+&emsp;&emsp;The term “bank”—
 
-Bank.—The term “bank”—
+&emsp;&emsp;&emsp;(A) means any national bank and State bank, and any Federal branch and insured branch;
 
-&emsp;&emsp;(A) means any national bank and State bank, and any Federal branch and insured branch;
+&emsp;&emsp;&emsp;(B) includes any former savings association.
 
-&emsp;&emsp;(B) includes any former savings association.
+#### (2) State bank
 
-&emsp;(2)
+&emsp;&emsp;The term “State bank” means any bank, banking association, trust company, savings bank, industrial bank (or similar depository institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank), or other banking institution which—
 
-State bank.—The term “State bank” means any bank, banking association, trust company, savings bank, industrial bank (or similar depository institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank), or other banking institution which—
+&emsp;&emsp;&emsp;(A) is engaged in the business of receiving deposits, other than trust funds (as defined in this section); and
 
-&emsp;&emsp;(A) is engaged in the business of receiving deposits, other than trust funds (as defined in this section); and
+&emsp;&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia,
 
-&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia,
+> &emsp;&emsp;including any cooperative bank or other unincorporated bank the deposits of which were insured by the Corporation on the day before August 9, 1989.
 
-> &emsp;including any cooperative bank or other unincorporated bank the deposits of which were insured by the Corporation on the day before August 9, 1989.
+#### (3) State
 
-&emsp;(3)
+&emsp;&emsp;The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-State.—The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+#### (b) Definition of savings associations and related terms
 
-(b)
+#### (1) Savings association
 
-Definition of Savings Associations and Related Terms.—
+&emsp;&emsp;The term “savings association” means—
 
-&emsp;(1)
+&emsp;&emsp;&emsp;(A) any Federal savings association;
 
-Savings association.—The term “savings association” means—
+&emsp;&emsp;&emsp;(B) any State savings association; and
 
-&emsp;&emsp;(A) any Federal savings association;
+&emsp;&emsp;&emsp;(C) any corporation (other than a bank) that the Board of Directors and the Director of the Office of Thrift Supervision jointly determine to be operating in substantially the same manner as a savings association.
 
-&emsp;&emsp;(B) any State savings association; and
+#### (2) Federal savings association
 
-&emsp;&emsp;(C) any corporation (other than a bank) that the Board of Directors and the Director of the Office of Thrift Supervision jointly determine to be operating in substantially the same manner as a savings association.
+&emsp;&emsp;The term “Federal savings association” means any Federal savings association or Federal savings bank which is chartered under section 1464 of this title.
 
-&emsp;(2)
+#### (3) State savings association
 
-Federal savings association.—The term “Federal savings association” means any Federal savings association or Federal savings bank which is chartered under section 1464 of this title.
+&emsp;&emsp;The term “State savings association” means—
 
-&emsp;(3)
+&emsp;&emsp;&emsp;(A) any building and loan association, savings and loan association, or homestead association; or
 
-State savings association.—The term “State savings association” means—
+&emsp;&emsp;&emsp;(B) any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2) of this section),
 
-&emsp;&emsp;(A) any building and loan association, savings and loan association, or homestead association; or
+> &emsp;&emsp;which is organized and operating according to the laws of the State (as defined in subsection (a)(3) of this section) in which it is chartered or organized.
 
-&emsp;&emsp;(B) any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2) of this section),
+#### (c) Definitions relating to depository institutions
 
-> &emsp;which is organized and operating according to the laws of the State (as defined in subsection (a)(3) of this section) in which it is chartered or organized.
+#### (1) Depository institution
 
-(c)
+&emsp;&emsp;The term “depository institution” means any bank or savings association.
 
-Definitions Relating to Depository Institutions.—
+#### (2) Insured depository institution
 
-&emsp;(1)
+&emsp;&emsp;The term “insured depository institution” means any bank or savings association the deposits of which are insured by the Corporation pursuant to this chapter.
 
-Depository institution.—The term “depository institution” means any bank or savings association.
+#### (3) Institutions included for certain purposes
 
-&emsp;(2)
+&emsp;&emsp;The term “insured depository institution” includes any uninsured branch or agency of a foreign bank or a commercial lending company owned or controlled by a foreign bank for purposes of section 1818 of this title.
 
-Insured depository institution.—The term “insured depository institution” means any bank or savings association the deposits of which are insured by the Corporation pursuant to this chapter.
+#### (4) Federal depository institution
 
-&emsp;(3)
+&emsp;&emsp;The term “Federal depository institution” means any national bank, any Federal savings association, and any Federal branch.
 
-Institutions included for certain purposes.—The term “insured depository institution” includes any uninsured branch or agency of a foreign bank or a commercial lending company owned or controlled by a foreign bank for purposes of section 1818 of this title.
+#### (5) State depository institution
 
-&emsp;(4)
+&emsp;&emsp;The term “State depository institution” means any State bank, any State savings association, and any insured branch which is not a Federal branch.
 
-Federal depository institution.—The term “Federal depository institution” meansany national bank, any Federal savings association, and any Federal branch.
+#### (d) Definitions relating to member banks
 
-&emsp;(5)
+#### (1) National member bank
 
-State depository institution.—The term “State depository institution” means any State bank, any State savings association, and any insured branch which is not a Federal branch.
+&emsp;&emsp;The term “national member bank” means any national bank which is a member of the Federal Reserve System.
 
-(d)
+#### (2) State member bank
 
-Definitions Relating to Member Banks.—
+&emsp;&emsp;The term “State member bank” means any State bank which is a member of the Federal Reserve System.
 
-&emsp;(1)
+#### (e) Definitions relating to nonmember banks
 
-National member bank.—The term “national member bank” means any national bank which is a member of the Federal Reserve System.
+#### (1) National nonmember bank
 
-&emsp;(2)
+&emsp;&emsp;The term “national nonmember bank” means any national bank which—
 
-State member bank.—The term “State member bank” means any State bank which is a member of the Federal Reserve System.
+&emsp;&emsp;&emsp;(A) is located in any territory of the United States, Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Northern Mariana Islands; and
 
-(e)
+&emsp;&emsp;&emsp;(B) is not a member of the Federal Reserve System.
 
-Definitions Relating to Nonmember Banks.—
+#### (2) State nonmember bank
 
-&emsp;(1)
+&emsp;&emsp;The term “State nonmember bank” means any State bank which is not a member of the Federal Reserve System.
 
-National nonmember bank.—The term “national nonmember bank” means any national bank which—
+#### (f) Mutual savings bank
 
-&emsp;&emsp;(A) is located in any territory of the United States, Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Northern Mariana Islands; and
+&emsp;The term “mutual savings bank” means a bank without capital stock transacting a savings bank business, the net earnings of which inure wholly to the benefit of its depositors after payment of obligations for any advances by its organizers.
 
-&emsp;&emsp;(B) is not a member of the Federal Reserve System.
+#### (g) Savings bank
 
-&emsp;(2)
+&emsp;The term “savings bank” means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business.
 
-State nonmember bank.—The term “State nonmember bank” means any State bank which is not a member of the Federal Reserve System.
+#### (h) Insured bank
 
-(f) The term “mutual savings bank” means a bank without capital stock transacting a savings bank business, the net earnings of which inure wholly to the benefit of its depositors after payment of obligations for any advances by its organizers.
+&emsp;The term “insured bank” means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter; and the term “noninsured bank” means any bank the deposits of which are not so insured.
 
-(g)
+#### (i) New depository institution and bridge depository institution defined
 
-Savings Bank.—The term “savings bank” means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business.
+#### (1) New depository institution
 
-(h) The term “insured bank” means any bank (including a foreign bank having an insured branch) the deposits of which are insured in accordance with the provisions of this chapter; and the term “noninsured bank” means any bank the deposits of which are not so insured.
+&emsp;&emsp;The term “new depository institution” means a new national bank or Federal savings association, other than a bridge depository institution, organized by the Corporation in accordance with section 1821(m) of this title.
 
-(i)
+#### (2) Bridge depository institution
 
-New Bank and Bridge Bank Defined.—
+&emsp;&emsp;The term “bridge depository institution” means a new national bank or Federal savings association organized by the Corporation in accordance with section 1821(n) of this title.
 
-&emsp;(1)
+#### (j) Receiver
 
-New bank.—The term “new bank” means a new national bank, other than a bridge bank, organized by the Corporation in accordance with section 1821(m) of this title.
+&emsp;The term “receiver” includes a receiver, liquidating agent, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a bank or savings association or of a branch of a foreign bank.
 
-&emsp;(2)
+#### (k) Board of Directors
 
-Bridge bank.—The term “bridge bank” means a new national bank organized by the Corporation in accordance with section 1821(n) of this title.
+&emsp;The term “Board of Directors” means the Board of Directors of the Corporation.
 
-(j) The term “receiver” includes a receiver, liquidating agent, conservator, commission, person, or other agency charged by law with the duty of winding up the affairs of a bank or savings association or of a branch of a foreign bank.
+#### (<i>l</i>) Deposit
 
-(k) The term “Board of Directors” means the Board of Directors of the Corporation.
+&emsp;The term “deposit” means—
 
-(<i>l</i>) The term “deposit” means—
+&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term “money or its equivalent”, any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
 
-&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term “money or its equivalent”, any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
+&emsp;&emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
 
-&emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
+&emsp;&emsp;(3) money received or held by a bank or savings association, or the credit given for money or its equivalent received or held by a bank or savings association, in the usual course of business for a special or specific purpose, regardless of the legal relationship thereby established, including without being limited to, escrow funds, funds held as security for an obligation due to the bank or savings association or others (including funds held as dealers reserves) or for securities loaned by the bank or savings association, funds deposited by a debtor to meet maturing obligations, funds deposited as advance payment on subscriptions to United States Government securities, funds held for distribution or purchase of securities, funds held to meet its acceptances or letters of credit, and withheld taxes: <i>Provided</i>, That there shall not be included funds which are received by the bank or savings association for immediate application to the reduction of an indebtedness to the receiving bank or savings association, or under condition that the receipt thereof immediately reduces or extinguishes such an indebtedness.
 
-&emsp;(3) money received or held by a bank or savings association, or the credit given for money or its equivalent received or held by a bank or savings association, in the usual course of business for a special or specific purpose, regardless of the legal relationship thereby established, including without being limited to, escrow funds, funds held as security for an obligation due to the bank or savings association or others (including funds held as dealers reserves) or for securities loaned by the bank or savings association, funds deposited by a debtor to meet maturing obligations, funds deposited as advance payment on subscriptions to United States Government securities, funds held for distribution or purchase of securities, funds held to meet its acceptances or letters of credit, and withheld taxes: <i>Provided</i>, That there shall not be included funds which are received by the bank or savings association for immediate application to the reduction of an indebtedness to the receiving bank or savings association, or under condition that the receipt thereof immediately reduces or extinguishes such an indebtedness.
+&emsp;&emsp;(4) outstanding draft (including advice or authorization to charge a bank's or a savings association's balance in another bank or savings association), cashier's check, money order, or other officer's check issued in the usual course of business for any purpose, including without being limited to those issued in payment for services, dividends, or purchases, and
 
-&emsp;(4) outstanding draft (including advice or authorization to charge a bank's or a savings association's balance in another bank or savings association), cashier's check, money order, or other officer's check issued in the usual course of business for any purpose, including without being limited to those issued in payment for services, dividends, or purchases, and
+&emsp;&emsp;(5) such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, Director of the Office of Thrift Supervision, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
 
-&emsp;(5) such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, Director of the Office of Thrift Supervision, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
+&emsp;&emsp;&emsp;(A) any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unless—
 
-&emsp;&emsp;(A) any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unless—
+&emsp;&emsp;&emsp;&emsp;(i) such obligation would be a deposit if it were carried on the books and records of the depository institution, and would be payable at, an office located in any State; and
 
-&emsp;&emsp;&emsp;(i) such obligation would be a deposit if it were carried on the books and records of the depository institution, and would be payable at, an office located in any State; and
+&emsp;&emsp;&emsp;&emsp;(ii) the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State;
 
-&emsp;&emsp;&emsp;(ii) the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State;
+&emsp;&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board of Governors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
 
-&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board of Governors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;&emsp;(C) any liability of an insured depository institution that arises under an annuity contract, the income of which is tax deferred under section 72 of title 26.
 
-&emsp;&emsp;(C) any liability of an insured depository institution that arises under an annuity contract, the income of which is tax deferred under section 72 of title 26.
-
-(m)
-
-Insured Deposit.—
+#### (m) Insured deposit
 
 &emsp;(1)
 
@@ -184,183 +180,177 @@ Uninsured deposits.—The term “uninsured deposit” means the amount of any d
 
 Preferred deposits.—The term “preferred deposits” means deposits of any public unit (as defined in paragraph (1)) at any insured depository institution which are secured or collateralized as required under State law.
 
-(n) The term “transferred deposit” means a deposit in a new bank or other insured depository institution made available to a depositor by the Corporation as payment of the insured deposit of such depositor in a closed bank, and assumed by such new bank or other insured depository institution.
+#### (n) Transferred deposit
 
-(<i>o</i>) The term “domestic branch” includes any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State of the United States or in any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands at which deposits are received or checks paid or money lent. The term “domestic branch” does not include an automated teller machine or a remote service unit. The term “foreign branch” means any office or place of business located outside the United States, its territories, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, at which banking operations are conducted.
+&emsp;The term “transferred deposit” means a deposit in a new bank or other insured depository institution made available to a depositor by the Corporation as payment of the insured deposit of such depositor in a closed bank, and assumed by such new bank or other insured depository institution.
 
-(p) The term “trust funds” means funds held by an insured depository institution in a fiduciary capacity and includes, without being limited to, funds held as trustee, executor, administrator, guardian, or agent.
+#### (<i>o</i>) Domestic branch
 
-(q)
+&emsp;The term “domestic branch” includes any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State of the United States or in any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands at which deposits are received or checks paid or money lent. The term “domestic branch” does not include an automated teller machine or a remote service unit. The term “foreign branch” means any office or place of business located outside the United States, its territories, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, at which banking operations are conducted.
 
-Appropriate Federal Banking Agency.—The term “appropriate Federal banking agency” means—
+#### (p) Trust funds
 
-&emsp;(1) the Comptroller of the Currency, in the case of any national banking association or any Federal branch or agency of a foreign bank;
+&emsp;The term “trust funds” means funds held by an insured depository institution in a fiduciary capacity and includes, without being limited to, funds held as trustee, executor, administrator, guardian, or agent.
 
-&emsp;(2) the Board of Governors of the Federal Reserve System, in the case of—
+#### (q) Appropriate Federal banking agency
 
-&emsp;&emsp;(A) any State member insured bank,
+&emsp;The term “appropriate Federal banking agency” means—
 
-&emsp;&emsp;(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] which is made applicable under the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\],
+&emsp;&emsp;(1) the Comptroller of the Currency, in the case of any national banking association or any Federal branch or agency of a foreign bank;
 
-&emsp;&emsp;(C) any foreign bank which does not operate an insured branch,
+&emsp;&emsp;(2) the Board of Governors of the Federal Reserve System, in the case of—
 
-&emsp;&emsp;(D) any agency or commercial lending company other than a Federal agency,
+&emsp;&emsp;&emsp;(A) any State member insured bank,
 
-&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given to the Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
+&emsp;&emsp;&emsp;(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] which is made applicable under the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\],
 
-&emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
+&emsp;&emsp;&emsp;(C) any foreign bank which does not operate an insured branch,
 
-&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank or a foreign bank having an insured branch; and
+&emsp;&emsp;&emsp;(D) any agency or commercial lending company other than a Federal agency,
 
-&emsp;(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
+&emsp;&emsp;&emsp;(E) supervisory or regulatory proceedings arising from the authority given tothe Board of Governors under section 7(c)(1) of the International Banking Act of 1978 \[12 U.S.C. 3105(c)(1)\], including such proceedings under the Financial Institutions Supervisory Act of 1966, and
 
-> Under the rule set forth in this subsection, more than one agency may be an appropriate Federal banking agency with respect to any given institution.
+&emsp;&emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
 
-(r)
+&emsp;&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank or a foreign bank having an insured branch; and
 
-State Bank Supervisor.—
+&emsp;&emsp;(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
 
-&emsp;(1)
+> &emsp;Under the rule set forth in this subsection, more than one agency may be an appropriate Federal banking agency with respect to any given institution.
 
-In general.—The term “State bank supervisor” means any officer, agency, or other entity of any State which has primary regulatory authority over State banks or State savings associations in such State.
+#### (r) State bank supervisor
 
-&emsp;(2)
+#### (1) In general
 
-Interstate application.—The State bank supervisors of more than 1 State may be the appropriate State bank supervisor for any insured depository institution.
+&emsp;&emsp;The term “State bank supervisor” means any officer, agency, or other entity of any State which has primary regulatory authority over State banks or State savings associations in such State.
 
-(s)
+#### (2) Interstate application
 
-Definitions Relating to Foreign Banks and Branches.—
+&emsp;&emsp;The State bank supervisors of more than 1 State may be the appropriate State bank supervisor for any insured depository institution.
 
-&emsp;(1)
+#### (s) Definitions relating to foreign banks and branches
 
-Foreign bank.—The term “foreign bank” has the meaning given to such term by section 1(b)(7) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(7)\].
+#### (1) Foreign bank
 
-&emsp;(2)
+&emsp;&emsp;The term “foreign bank” has the meaning given to such term by section 1(b)(7) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(7)\].
 
-Federal branch.—The term “Federal branch” has the meaning given to such term by section 1(b)(6) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
+#### (2) Federal branch
 
-&emsp;(3)
+&emsp;&emsp;The term “Federal branch” has the meaning given to such term by section 1(b)(6) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(6)\].
 
-Insured branch.—The term “insured branch” means any branch (as defined in section 1(b)(3) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(3)\]) of a foreign bank any deposits in which are insured pursuant to this chapter.
+#### (3) Insured branch
 
-(t)
+&emsp;&emsp;The term “insured branch” means any branch (as defined in section 1(b)(3) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(3)\]) of a foreign bank any deposits in which are insured pursuant to this chapter.
 
-Includes, Including.—
+#### (t) Includes, including
 
-&emsp;(1)
+#### (1) In general
 
-In general.—The terms “includes” and “including” shall not be construed more restrictively than the ordinary usage of such terms so as to exclude any other thing not referred to or described.
+&emsp;&emsp;The terms “includes” and “including” shall not be construed more restrictively than the ordinary usage of such terms so as to exclude any other thing not referred to or described.
 
-&emsp;(2)
+#### (2) Rule of construction
 
-Rule of construction.—Paragraph (1) shall not be construed as creating any inference that the term “includes” or “including” in any other provision of Federal law may be deemed to exclude any other thing not referred to or described.
+&emsp;&emsp;Paragraph (1) shall not be construed as creating any inference that the term “includes” or “including” in any other provision of Federal law may be deemed to exclude any other thing not referred to or described.
 
-(u)
+#### (u) Institution-affiliated party
 
-Institution-Affiliated Party.—The term “institution-affiliated party” means—
+&emsp;The term “institution-affiliated party” means—
 
-&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company) of, or agent for, an insured depository institution;
+&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company) of, or agent for, an insured depository institution;
 
-&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
+&emsp;&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
 
-&emsp;(3) any shareholder (other than a bank holding company), consultant, joint venture partner, and any other person as determined by the appropriate Federal banking agency (by regulation or case-by-case) who participates in the conduct of the affairs of an insured depository institution; and
+&emsp;&emsp;(3) any shareholder (other than a bank holding company), consultant, joint venture partner, and any other person as determined by the appropriate Federal banking agency (by regulation or case-by-case) who participates in the conduct of the affairs of an insured depository institution; and
 
-&emsp;(4) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in—
+&emsp;&emsp;(4) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in—
 
-&emsp;&emsp;(A) any violation of any law or regulation;
+&emsp;&emsp;&emsp;(A) any violation of any law or regulation;
 
-&emsp;&emsp;(B) any breach of fiduciary duty; or
+&emsp;&emsp;&emsp;(B) any breach of fiduciary duty; or
 
-&emsp;&emsp;(C) any unsafe or unsound practice,
+&emsp;&emsp;&emsp;(C) any unsafe or unsound practice,
 
-> &emsp;which caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the insured depository institution.
+> &emsp;&emsp;which caused or is likely to cause more than a minimal financial loss to, or a significant adverse effect on, the insured depository institution.
 
-(v)
+#### (v) Violation
 
-Violation.—The term “violation” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+&emsp;The term “violation” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
-(w)
+#### (w) Definitions relating to affiliates of depository institutions
 
-Definitions Relating to Affiliates of Depository Institutions.—
+#### (1) Depository institution holding company
 
-&emsp;(1)
+&emsp;&emsp;The term “depository institution holding company” means a bank holding company or a savings and loan holding company.
 
-Depository institution holding company.—The term “depository institution holding company” means a bank holding company or a savings and loan holding company.
+#### (2) Bank holding company
 
-&emsp;(2)
+&emsp;&emsp;The term “bank holding company” has the meaning given to such term in section 1841 of this title.
 
-Bank holding company.—The term “bank holding company” has the meaning given to such term in section 1841 of this title.
+#### (3) Savings and loan holding company
 
-&emsp;(3)
+&emsp;&emsp;The term “savings and loan holding company” has the meaning given to such term in section 1467a of this title.
 
-Savings and loan holding company.—The term “savings and loan holding company” has the meaning given to such term in section 1467a of this title.
+#### (4) Subsidiary
 
-&emsp;(4)
+&emsp;&emsp;The term “subsidiary”—
 
-Subsidiary.—The term “subsidiary”—
+&emsp;&emsp;&emsp;(A) means any company which is owned or controlled directly or indirectly by another company; and
 
-&emsp;&emsp;(A) means any company which is owned or controlled directly or indirectly by another company; and
+&emsp;&emsp;&emsp;(B) includes any service corporation owned in whole or in part by an insured depository institution or any subsidiary of such a service corporation.
 
-&emsp;&emsp;(B) includes any service corporation owned in whole or in part by an insured depository institution or any subsidiary of such a service corporation.
+#### (5) Control
 
-&emsp;(5)
+&emsp;&emsp;The term “control” has the meaning given to such term in section 1841 of this title.
 
-Control.—The term “control” has the meaning given to such term in section 1841 of this title.
+#### (6) Affiliate
 
-&emsp;(6)
+&emsp;&emsp;The term “affiliate” has the meaning given to such term in section 1841(k) of this title.
 
-Affiliate.—The term “affiliate” has the meaning given to such term in section 1841(k) of this title.
+#### (7) Company
 
-&emsp;(7)
+&emsp;&emsp;The term “company” has the same meaning as in section 1841(b) of this title.
 
-Company.—The term “company” has the same meaning as in section 1841(b) of this title.
+#### (x) Definitions relating to default
 
-(x)
+#### (1) Default
 
-Definitions Relating to Default.—
+&emsp;&emsp;The term “default” means, with respect to an insured depository institution, any adjudication or other official determination by any court of competent jurisdiction, the appropriate Federal banking agency, or other public authority pursuant to which a conservator, receiver, or other legal custodian is appointed for an insured depository institution or, in the case of a foreign bank having an insured branch, for such branch.
 
-&emsp;(1)
+#### (2) In danger of default
 
-Default.—The term “default” means, with respect to an insured depository institution, any adjudication or other official determination by any court of competent jurisdiction, the appropriate Federal banking agency, or other public authority pursuant to which a conservator, receiver, or other legal custodian is appointed for an insured depository institution or, in the case of a foreign bank having an insured branch, for such branch.
+&emsp;&emsp;The term “in danger of default” means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
 
-&emsp;(2)
+&emsp;&emsp;&emsp;(A) in the opinion of such agency or authority—
 
-In danger of default.—The term “in danger of default” means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
+&emsp;&emsp;&emsp;&emsp;(i) the depository institution or insured branch is not likely to be able to meet the demands of the institution's or branch's depositors or pay the institution's or branch's obligations in the normal course of business; and
 
-&emsp;&emsp;(A) in the opinion of such agency or authority—
+&emsp;&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the depository institution or insured branch will be able to meet such demands or pay such obligations without Federal assistance; or
 
-&emsp;&emsp;&emsp;(i) the depository institution or insured branch is not likely to be able to meet the demands of the institution's or branch's depositors or pay the institution's or branch's obligations in the normal course of business; and
+&emsp;&emsp;&emsp;(B) in the opinion of such agency or authority—
 
-&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the depository institution or insured branch will be able to meet such demands or pay such obligations without Federal assistance; or
+&emsp;&emsp;&emsp;&emsp;(i) the depository institution or insured branch has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
 
-&emsp;&emsp;(B) in the opinion of such agency or authority—
+&emsp;&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the capital of the depository institution or insured branch will be replenished without Federal assistance.
 
-&emsp;&emsp;&emsp;(i) the depository institution or insured branch has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+#### (y) Definitions relating to Deposit Insurance Fund
 
-&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the capital of the depository institution or insured branch will be replenished without Federal assistance.
+#### (1) Deposit Insurance Fund
 
-(y)
+&emsp;&emsp;The term “Deposit Insurance Fund” means the Deposit Insurance Fund established under section 1821(a)(4) of this title.
 
-Definitions Relating to Deposit Insurance Fund.—
+#### (2) Designated reserve ratio
 
-&emsp;(1)
+&emsp;&emsp;The term “designated reserve ratio” means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title.
 
-Deposit insurance fund.—The term “Deposit Insurance Fund” means the Deposit Insurance Fund established under section 1821(a)(4) of this title.
+#### (3) Reserve ratio
 
-&emsp;(2)
+&emsp;&emsp;The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits.
 
-Designated reserve ratio.—The term “designated reserve ratio” means the reserve ratio designated by the Board of Directors in accordance with section 1817(b)(3) of this title.
+#### (z) Federal banking agency
 
-&emsp;(3)
+&emsp;The term “Federal banking agency” means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-Reserve ratio.—The term “reserve ratio”, when used with regard to the Deposit Insurance Fund other than in connection with a reference to the designated reserve ratio, means the ratio of the net worth of the Deposit Insurance Fund to the value of the aggregate estimated insured deposits.
-
-(z)
-
-Federal Banking Agency.—The term “Federal banking agency” means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
-
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029.)
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829.)
 
 #### References in Text
 
@@ -375,6 +365,16 @@ The Financial Institutions Supervisory Act of 1966, referred to in subsec. (q)(2
 Section is derived from subsec. (c) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2008—Subsec. (i). Pub. L. 110–289 added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows:
+
+“(1)
+
+New bank.—The term ‘new bank’ means a new national bank, other than a bridge bank, organized by the Corporation in accordance with section 1821(m) of this title.
+
+“(2)
+
+Bridge bank.—The term ‘bridge bank’ means a new national bank organized by the Corporation in accordance with section 1821(n) of this title.”
 
 2006—Subsec. (a)(1)(B). Pub. L. 109–173, §8(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “includes any former savings association that—
 

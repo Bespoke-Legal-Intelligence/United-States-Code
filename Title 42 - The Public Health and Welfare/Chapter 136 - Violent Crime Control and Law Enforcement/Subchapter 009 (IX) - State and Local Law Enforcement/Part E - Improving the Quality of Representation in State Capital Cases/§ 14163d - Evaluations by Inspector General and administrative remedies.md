@@ -20,7 +20,7 @@
 
 #### (4) Comments from public
 
-&emsp;The Inspector General shall receive and consider comments from any member of the public regarding any State's compliance with the terms and conditions of a grant made under this part. To facilitate the receipt of suchcomments, the Inspector General shall maintain on its website a form that any member of the public may submit, either electronically or otherwise, providing comments. The Inspector General shall give appropriate consideration to all such public comments in reviewing reports submitted under section 14163c of this title or in establishing the priority for conducting evaluations under this section.
+&emsp;The Inspector General shall receive and consider comments from any member of the public regarding any State's compliance with the terms and conditions of a grant made under this part. To facilitate the receipt of such comments, the Inspector General shall maintain on its website a form that any member of the public may submit, either electronically or otherwise, providing comments. The Inspector General shall give appropriate consideration to all such public comments in reviewing reports submitted under section 14163c of this title or in establishing the priority for conducting evaluations under this section.
 
 #### (b) Administrative review
 
@@ -46,7 +46,7 @@ During the grant period, the Inspector General shall periodically review the com
 
 #### (e) Administrative costs
 
-Not less than 2.5 percent of the funds appropriated to carry out this part for each of fiscal years 2005 through 2009 shall be made available to the Inspector General for purposes of carrying out this section. Such sums shall remain available until expended.
+Not less than 2.5 percent of the funds appropriated to carry out this part for each of fiscalyears 2005 through 2009 shall be made available to the Inspector General for purposes of carrying out this section. Such sums shall remain available until expended.
 
 #### (f) Special rule for “statutory procedure” States not in substantial compliance with statutory procedures
 

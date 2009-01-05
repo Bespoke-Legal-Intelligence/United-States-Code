@@ -86,7 +86,7 @@ Each administrator required to register under section 6057 of title 26 shall, be
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
+2006—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
 
 &emsp;“(1) the total benefits accrued, and
 

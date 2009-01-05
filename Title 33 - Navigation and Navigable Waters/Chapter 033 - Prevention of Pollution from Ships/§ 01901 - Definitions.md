@@ -2,45 +2,53 @@
 
 (a) Unless the context indicates otherwise, as used in this chapter—
 
-&emsp;(1) “Antarctica” means the area south of 60 degrees south latitude;
+&emsp;(1) “Administrator” means the Administrator of the Environmental Protection Agency;
 
-&emsp;(2) “Antarctic Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, and includes any future amendments thereto which have entered into force;
+&emsp;(2) “Antarctica” means the area south of 60 degrees south latitude;
 
-&emsp;(3) “MARPOL Protocol” means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
+&emsp;(3) “Antarctic Protocol” means the Protocol on Environmental Protection to the Antarctic Treaty, signed October 4, 1991, in Madrid, and all annexes thereto, and includes any future amendments thereto which have entered into force;
 
-&emsp;(4) “Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
+&emsp;(4) “MARPOL Protocol” means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, and includes the Convention;
 
-&emsp;(5) “discharge” and “garbage” and “harmful substance” and “incident” shall have the meanings provided in the Convention;
+&emsp;(5) “Convention” means the International Convention for the Prevention of Pollution from Ships, 1973, including Protocols I and II and Annexes I, II, V, and VI thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States;
 
-&emsp;(6) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
+&emsp;(6) “discharge”, “emission”, “garbage”, “harmful substance”, and “incident” shall have the meanings provided in the Convention;
 
-&emsp;(7) “operator” means—
+&emsp;(7) “navigable waters” includes the territorial sea of the United States (as defined in Presidential Proclamation 5928 of December 27, 1988) and the internal waters of the United States;
+
+&emsp;(8) “owner” means any person holding title to, or in the absence of title, any other indicia of ownership of, a ship or terminal, but does not include a person who, without participating in the management or operation of a ship or terminal, holds indicia of ownership primarily to protect a security interest in the ship or terminal;
+
+&emsp;(9) “operator” means—
 
 &emsp;&emsp;(a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
 
 &emsp;&emsp;(b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
 
-&emsp;(8) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
+&emsp;(10) “person” means an individual, firm, public or private corporation, partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body;
 
-&emsp;(9) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
+&emsp;(11) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
-&emsp;(10) “ship” means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
+&emsp;(12) “ship” means a vessel of any type whatsoever, including hydrofoils, air-cushion vehicles, submersibles, floating craft whether self-propelled or not, and fixed or floating platforms;
 
-&emsp;(11) “submersible” means a submarine, or any other vessel designed to operate under water; and
+&emsp;(13) “submersible” means a submarine, or any other vessel designed to operate under water; and
 
-&emsp;(12) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
+&emsp;(14) “terminal” means an onshore facility or an offshore structure located in the navigable waters of the United States or subject to the jurisdiction of the United States and used, or intended to be used, as a port or facility for the transfer or other handling of a harmful substance.
 
 (b) For purposes of this chapter, the requirements of Annex V shall apply to the navigable waters of the United States, as well as to all other waters and vessels over which the United States has jurisdiction.
 
 (c) For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
 
-(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, §201(a), Oct. 2, 1996, 110 Stat. 3042.)
+(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, §201(a), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, §3, July 21, 2008, 122 Stat. 2611.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, known as the “Act to Prevent Pollution from Ships”. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+Presidential Proclamation 5928, referred to in subsec. (a)(7), is set out under section 1331 of Title 43, Public Lands.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
 
 1996—Subsec. (a). Pub. L. 104–227, §201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
 
@@ -89,6 +97,10 @@ Section 14(a), (b) of Pub. L. 96–478 provided:
 “(a) Except as provided in subsection (b) of this section, this Act \[see Short Title note below\] is effective upon the date of enactment \[Oct. 21, 1980\], or on the date the MARPOL Protocol becomes effective as to the United States, whichever is later. \[The MARPOL Protocol became effective as to the United States Oct. 2, 1983.\]
 
 “(b) The Secretary and the heads of Federal departments shall have the authority to issue regulations, standards, and certifications under sections 3(c), 3(d), 4(b), 5(a), 6(a), 6(c), and 6(f) \[sections 1902(c), (d), 1903(b), 1904(a), and 1905(a), (c), (f) of this title\] effective on the date of enactment of this Act \[Oct. 21, 1980\]. Section 13(a)(2) \[amending section 391a(3)(E) of former Title 46, Shipping\] is effective upon the date of enactment of this Act \[Oct. 21, 1980\].”
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–280, §1, July 21, 2008, 122 Stat. 2611, provided that: “This Act \[amending this section and sections 1902, 1903 to 1905, and 1907 to 1911 of this title\] may be cited as the ‘Maritime Pollution Prevention Act of 2008’.”
 
 #### Short Title of 1987 Amendment
 
@@ -156,7 +168,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### “SEC. 1403. PROHIBITION ON DISCHARGE OF UNTREATED SEWAGE.
 
-“No person shall discharge any untreated sewage from a cruise vessel into the waters of the AlexanderArchipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
+“No person shall discharge any untreated sewage from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
 
 #### “SEC. 1404. LIMITATIONS ON DISCHARGE OF TREATED SEWAGE OR GRAYWATER.
 
@@ -230,7 +242,7 @@ Classes of penalties.—
 
 &emsp;&emsp;“(A)
 
-Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 perviolation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;“(B)
 

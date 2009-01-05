@@ -6,7 +6,7 @@ In General.—This section applies to proceeds from the sale, lease, or other di
 
 (b)
 
-Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits,must be administered in accordance with procedures that the Secretary of the Treasury may establish.
+Foreign Currencies or Credits.—Proceeds in the form of foreign currencies or credits, must be administered in accordance with procedures that the Secretary of the Treasury may establish.
 
 (c)
 

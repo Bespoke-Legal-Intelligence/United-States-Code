@@ -14,7 +14,7 @@ Overcharges by Educational Institutions.—If the Secretary finds that an educat
 
 Discontinuance of Allowances.—(1) The Secretary may discontinue the educational assistance allowance of any eligible veteran or eligible person if the Secretary finds that the program of education or any course in which the veteran or person is enrolled fails to meet any of the requirements of this chapter or chapter 34 or 35 of this title, or if the Secretary finds that the educational institution offering such program or course has violated any provision of this chapter or chapter 34 or 35 of this title, or fails to meet any of the requirements of such chapters.
 
-(2) Except as provided in paragraph (3) of this subsection, any action by the Secretary under paragraph (1) of this subsection to discontinue (including to suspend) assistance provided to any eligible veteran or eligible person under this chapter or chapter 31, 32, 34, or 35 of this title shall be based upon evidence that the veteran oreligible person is not or was not entitled to such assistance. Whenever the Secretary so discontinues any such assistance, the Secretary shall concurrently provide written notice to such veteran or person of such discontinuance and that such veteran or person is entitled thereafter to a statement of the reasons for such action and an opportunity to be heard thereon.
+(2) Except as provided in paragraph (3) of this subsection, any action by the Secretary under paragraph (1) of this subsection to discontinue (including to suspend) assistance provided to any eligible veteran or eligible person under this chapter or chapter 31, 32, 34, or 35 of this title shall be based upon evidence that the veteran or eligible person is not or was not entitled to such assistance. Whenever the Secretary so discontinues any such assistance, the Secretary shall concurrently provide written notice to such veteran or person of such discontinuance and that such veteran or person is entitled thereafter to a statement of the reasons for such action and an opportunity to be heard thereon.
 
 (3)(A) The Secretary may suspend educational assistance to eligible veterans and eligible persons already enrolled, and may disapprove the enrollment or reenrollment of any eligible veteran or eligible person, in any course as to which the Secretary has evidence showing a substantial pattern of eligible veterans or eligible persons, or both, who are receiving such assistance by virtue of their enrollment in such course but who are not entitled to such assistance because (i) the course approval requirements of this chapter are not being met, or (ii) the educational institution offering such course has violated one or more of the recordkeeping or reporting requirements of this chapter or chapter 30, 32, 34, or 35 of this title.
 
@@ -34,7 +34,11 @@ Examination of Records.—Notwithstanding any other provision of law, the record
 
 False or Misleading Statements.—Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502, title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502, title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat.426; Pub. L. 109–233, title V, §503(8)(A), June 15, 2006, 120 Stat. 416; Pub. L. 110–252, title V, §5003(b)(2)(A)(iv), June 30, 2008, 122 Stat. 2375.)
+
+#### Amendment of Subsection (b)(3)(A)
+
+<i>Pub. L. 110–252, title V, §5003(b)(2)(A)(iv), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsection (b)(3)(A) of this section is amended by inserting “33,” after “32,”.</i>
 
 #### Prior Provisions
 
@@ -75,6 +79,10 @@ Subsec. (b). Pub. L. 94–502, §513(a)(19), substituted “if the Administrator
 Subsec. (c). Pub. L. 94–502, §510, substituted “chapter 31, 32, 34, or 35” for “chapter 31, 34, or 35” and required the records of other students which the Administrator determines necessary to ascertain institutional compliance to be available for inspection.
 
 Subsec. (d). Pub. L. 94–502, §513(a)(19), substituted “the Administrator shall make” for “he shall make”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as a note under section 16163 of Title 10, Armed Forces.
 
 #### Effective Date of 1991 Amendment
 

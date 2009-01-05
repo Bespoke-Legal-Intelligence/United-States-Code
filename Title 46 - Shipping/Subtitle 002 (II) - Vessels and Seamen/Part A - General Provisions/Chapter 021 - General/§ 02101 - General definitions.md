@@ -196,7 +196,7 @@ In this subtitle—
 
 &emsp;&emsp;(D) is not a member of the steward's department; and
 
-&emsp;&emsp;(E) is not a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, inconsultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
+&emsp;&emsp;(E) is not a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, in consultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
 
 &emsp;(27) “sailing instruction” means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
 
@@ -507,7 +507,7 @@ Par. (21). Pub. L. 103–206, §502, amended par. (21) generally, substituting s
 
 Par. (21a). Pub. L. 103–206, §506, added par. (21a).
 
-Par. (22). Pub. L. 103–206, §503, amended par. (22) generally. Prior to amendment, par. (22) read as follows: “ ‘passenger vessel’ means a vessel of at least 100 gross tons carrying at least one passenger for hire.”
+Par. (22). Pub. L. 103–206, §503, amended par. (22) generally. Prior to amendment, par. (22) read as follows:“ ‘passenger vessel’ means a vessel of at least 100 gross tons carrying at least one passenger for hire.”
 
 Par. (30)(B). Pub. L. 103–206, §509, substituted “more than 6” for “at least 6”.
 

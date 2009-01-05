@@ -46,7 +46,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(B) The plan shall provide assurances that—
 
-&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision of the State agency or of an area agency on aging, is subject to a conflict of interest prohibited under this chapter;
+&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision of the State agency or of an area agency onaging, is subject to a conflict of interest prohibited under this chapter;
 
 &emsp;&emsp;(ii) no officer, employee, or other representative of the State agency or an area agency on aging is subject to a conflict of interest prohibited under this chapter; and
 
@@ -76,7 +76,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(C) the State agency will provide for the coordination of the furnishing of legal services to older individuals within the State, and provide advice and technical assistance in the provision of legal services to older individuals within the State and support the furnishing of training and technical assistance for legal services for older individuals;
 
-&emsp;&emsp;(D) the plan contains assurances, to the extent practicable, that legal services furnished under the plan will be in addition to any legal services for older individuals being furnished with funds from sources other than this chapter and that reasonable effortswill be made to maintain existing levels of legal services for older individuals; and
+&emsp;&emsp;(D) the plan contains assurances, to the extent practicable, that legal services furnished under the plan will be in addition to any legal services for older individuals being furnished with funds from sources other than this chapter and that reasonable efforts will be made to maintain existing levels of legal services for older individuals; and
 
 &emsp;&emsp;(E) the plan contains assurances that area agencies on aging will give priority to legal assistance related to income, health care, long-term care, nutrition, housing, utilities, protective services, defense of guardianship, abuse, neglect, and age discrimination.
 
@@ -188,7 +188,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 (1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a) of this section, except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
 
-(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) of this section if the State agency demonstrates to the Assistant Secretary thatthe service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
+(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) of this section if the State agency demonstrates to the Assistant Secretary that the service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
 
 #### (c) Notice and hearing prior to disapproval
 
@@ -242,7 +242,7 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 
 Subsec. (a)(4). Pub. L. 109–365, §307(2), substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
 
-Subsec. (a)(14), (15). Pub. L. 109–365, §307(3)–(5), added par. (14), redesignated former par. (14) as (15), and struck out former par. (15) which read as follows: “The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
+Subsec. (a)(14), (15). Pub. L. 109–365, §307(3)–(5), added par. (14), redesignated former par. (14) as (15), andstruck out former par. (15) which read as follows: “The plan shall, with respect to the fiscal year preceding the fiscal year for which such plan is prepared—
 
 &emsp;“(A) identify the number of low-income minority older individuals in the State; and
 
@@ -294,7 +294,7 @@ Subsec. (a)(19). Pub. L. 106–501, §306(9), (17), redesignated par. (30) as (1
 
 Subsec. (a)(20). Pub. L. 106–501, §306(17), redesignated par. (32) as (20). Former par. (20) redesignated (14).
 
-Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read as follows: “The plan shall provide assurances that the State agency, in carrying out the State Long-Term Care Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter.”
+Subsec. (a)(21). Pub. L. 106–501, §306(11), (18), added par. (21) and struck out former par. (21) which read as follows: “The plan shall provide assurances that the State agency, in carrying out the State Long-TermCare Ombudsman program under subsection (a)(12) of this section, will expend not less than the total amount expended by the agency in fiscal year 1991 in carrying out such a program under this subchapter.”
 
 Subsec. (a)(22). Pub. L. 106–501, §801(c)(4)(A), substituted “3026(a)(8)” for “3026(a)(20)”.
 
@@ -382,7 +382,7 @@ Subsecs. (d), (e). Pub. L. 103–171, §3(a)(5)(A), substituted “Assistant Sec
 
 Subsec. (a)(1). Pub. L. 102–375, §102(b)(10)(F), substituted “agencies on aging in” for “agencies in”.
 
-Subsec. (a)(3)(A). Pub. L. 102–375, §307(a)(3), inserted “and transportation services” after “legal assistance” and inserted at end “To conduct the evaluation, the State agency shall use the procedures implemented under section 3012(a)(29) of this title.”
+Subsec. (a)(3)(A). Pub. L. 102–375, §307(a)(3), inserted “and transportation services” after “legal assistance” and inserted at end “To conduct the evaluation, theState agency shall use the procedures implemented under section 3012(a)(29) of this title.”
 
 Subsec. (a)(5). Pub. L. 102–375, §307(b), inserted at end “The State agency shall establish and publish procedures for requesting and conducting such hearing.”
 
@@ -448,7 +448,7 @@ Subsec. (a)(24). Pub. L. 102–375, §307(<i>l</i>), amended par. (24) generally
 
 &emsp;“(B) inform such individuals of the availability of such assistance.”
 
-Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies onaging will expend such funds to carry out part G of this subchapter.”
+Subsec. (a)(30). Pub. L. 102–375, §307(m), amended par. (30) generally. Prior to amendment, par. (30) read as follows: “The plan shall provide assurances that if the State receives funds appropriated under section 3023(g) of this title, the State agency and area agencies on aging will expend such funds to carry out part G of this subchapter.”
 
 Subsec. (a)(31). Pub. L. 102–375, §307(n), amended par. (31) generally, substituting provisions relating to an area or State volunteer services coordinator for provisions that State agency make funds available to eligible area agencies on aging based on number of older individuals with greatest economic need and inadequacy of outreach activities and application assistance, that State agency require area agency to submit application describing and evaluating activities for which funds were sought, that State agency distribute to area agencies certain eligibility information, and that State agency submit to Commissioner a report on evaluations required to be submitted to it by area agencies.
 
@@ -566,7 +566,7 @@ Subsec. (a)(21)(B). Pub. L. 98–459, §307(a)(8), substituted “Commonwealth o
 
 Subsec. (b)(1). Pub. L. 98–459, §307(b), substituted “the Commissioner finds” for “he finds”.
 
-Subsec. (d). Pub. L. 98–459, §307(c), substituted “in the Commissioner's discretion” for “in his discretion”, “until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for “Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
+Subsec. (d). Pub. L. 98–459, §307(c), substituted “in the Commissioner's discretion” for “in his discretion”,“until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for “Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
 
 Subsec. (e)(1). Pub. L. 98–459, §307(d)(1), substituted “designated by the Commissioner” for “designated by him” and “the Commissioner's action is based” for “he based his action”.
 

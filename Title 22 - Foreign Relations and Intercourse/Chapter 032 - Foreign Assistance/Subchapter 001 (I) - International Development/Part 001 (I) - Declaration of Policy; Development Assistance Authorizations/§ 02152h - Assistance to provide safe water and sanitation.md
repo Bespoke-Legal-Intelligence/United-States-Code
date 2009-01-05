@@ -6,7 +6,7 @@ The purposes of assistance authorized by this section are—
 
 &emsp;(1) to promote good health, economic development, poverty reduction, women's empowerment, conflict prevention, and environmental sustainability by providing assistance to expand access to safe water and sanitation, promoting integrated water resource management, and improving hygiene for people around the world;
 
-&emsp;(2) to seek to reduce by one-half from the baseline year 1990 the proportion of people whoare unable to reach or afford safe drinking water and the proportion of people without access to basic sanitation by 2015;
+&emsp;(2) to seek to reduce by one-half from the baseline year 1990 the proportion of people who are unable to reach or afford safe drinking water and the proportion of people without access to basic sanitation by 2015;
 
 &emsp;(3) to focus water and sanitation assistance toward the countries, locales, and people with the greatest need;
 
@@ -38,17 +38,25 @@ Assistance provided under subsection (b) of this section shall, to the maximum e
 
 #### (d) Local currency
 
-The President may use payments made in local currencies under an agreement made under title I of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1701 et seq.) to provide assistance under this section.
+The President may use payments made in local currencies under an agreement made under title I of the Food for Peace Act (7 U.S.C. 1701 et seq.) to provide assistance under this section.
 
-(Pub. L. 87–195, pt. I, §135, as added Pub. L. 109–121, §5(a), Dec. 1, 2005, 119 Stat. 2536.)
+(Pub. L. 87–195, pt. I, §135, as added Pub. L. 109–121, §5(a), Dec. 1, 2005, 119 Stat. 2536; amended Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§1701 et seq.) of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Codification
 
 Another section 135 of Pub. L. 87–195 is classified to section 2152f of this title.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Water for the Poor
 
@@ -252,7 +260,7 @@ Definition.—In this subsection, the term ‘appropriate congressional committe
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that United States programs to support and encourage efforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
+Sense of Congress.—It is the sense of Congress that United States programs to support and encourageefforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
 
 “(b)
 

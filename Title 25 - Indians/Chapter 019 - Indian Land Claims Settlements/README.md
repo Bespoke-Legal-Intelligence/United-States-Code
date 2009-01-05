@@ -94,6 +94,7 @@
 | [1755\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001755%20-%20State%20jurisdiction%20over%20reservation.md) | State jurisdiction over reservation. |
 | [1756\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001756%20-%20Practice%20and%20procedure.md) | Practice and procedure. |
 | [1757\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001757%20-%20Restriction%20against%20alienation.md) | Restriction against alienation. |
+| [1757a.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001757a%20-%20Extensions%20of%20leases%20of%20certain%20land%20by%20Mashantucket%20Pequot%20%28Western%29%20Tribe.md) | Extensions of leases of certain land by Mashantucket Pequot (Western) Tribe. |
 | [1758\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001758%20-%20Extension%20of%20Federal%20recognition%20and%20privileges.md) | Extension of Federal recognition and privileges. |
 | [1759\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001759%20-%20General%20discharge%20and%20release%20of%20State%20of%20Connecticut.md) | General discharge and release of State of Connecticut. |
 | [1760\.](Subchapter%20004%20%28IV%29%20-%20Connecticut%20Indian%20Land%20Claims%20Settlement/%C2%A7%2001760%20-%20Separability.md) | Separability. |

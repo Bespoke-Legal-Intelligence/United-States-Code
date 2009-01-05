@@ -122,7 +122,7 @@ The Secretary shall establish a process to require the return of any misspent gr
 
 &emsp;(B) $650,000,000 for fiscal year 2008, except that not more than 50 percent of such funds may be used for operational costs under subsection (b)(2);
 
-&emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such funds may be used for operational costs under subsection (b)(2);
+&emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such fundsmay be used for operational costs under subsection (b)(2);
 
 &emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such funds may be used for operational costs under subsection (b)(2); and
 

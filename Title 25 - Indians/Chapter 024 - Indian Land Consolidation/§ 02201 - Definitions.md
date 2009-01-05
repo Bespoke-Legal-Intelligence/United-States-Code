@@ -14,7 +14,7 @@ For the purpose of this chapter—
 
 &emsp;(3) “Secretary” means the Secretary of the Interior;
 
-&emsp;(4) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, title to which is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.<sup>1</sup>
+&emsp;(4)(i) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.<sup>1</sup>
 
 &emsp;(5) “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.<sup>1</sup>
 
@@ -24,7 +24,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) 100 or more co-owners of undivided trust or restricted interests;
 
-&emsp;(7) “land” means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;
+&emsp;(7) the term “land” means any real property;
 
 &emsp;(8) “person” or “individual” means a natural person;
 
@@ -38,15 +38,19 @@ For the purpose of this chapter—
 
 &emsp;(10) “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
 
-(Pub. L. 97–459, title II, §202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, §103(1), Nov. 7, 2000, 114 Stat. 1992; Pub. L. 108–374, §6(b), Oct. 27, 2004, 118 Stat. 1804.)
+(Pub. L. 97–459, title II, §202, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 106–462, title I, §103(1), Nov. 7, 2000, 114 Stat. 1992; Pub. L. 108–374, §6(b), Oct. 27, 2004, 118 Stat. 1804; Pub. L. 110–453, title II, §207(a), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 
-The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. The term “Indian” is defined for purposes of this Act in section 479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. The term “Indian” is defined for purposes of this Act in section 479 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-This chapter, referred to in pars. (6) and (7), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+This chapter, referred to in par. (6), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Par. (4). Pub. L. 110–453, §207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted “an interest in land, the title to which interest” for “an interest in land, title to which”.
+
+Par. (7). Pub. L. 110–453, §207(a)(2), added par. (7) and struck out former par. (7) which read as follows: “ ‘land’ means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;”.
 
 2004—Par. (2). Pub. L. 108–374, §6(b)(1), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian’ means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of ‘Indian’ under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;”.
 
@@ -136,7 +140,7 @@ Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the‘Technical Amendments to Various Indian Laws Act of 1991’.”
+Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
 #### Short Title
 
@@ -148,7 +152,7 @@ Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Se
 
 #### Severability
 
-Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
 #### Congressional Findings
 

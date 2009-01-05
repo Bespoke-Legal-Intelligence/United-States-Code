@@ -32,13 +32,13 @@ After the establishment of the Federal Fund, a guaranty agency shall deposit int
 
 Subject to subsection (f) of this section, the Federal Fund may only be used by a guaranty agency—
 
-&emsp;(1) to pay lender claims pursuant to sections 1078(b)(1)(G), 1078(j), 1087, and 1087–2(q) of this title; and
+&emsp;(1) to pay lender claims pursuant to sections 1078(b)(1)(G), 1078(j), and 1087 of this title; and
 
 &emsp;(2) to pay into the Agency Operating Fund established pursuant to section 1072b of this title (in this section and section 1072b of this title referred to as the “Operating Fund”) a default aversion fee in accordance with section 1078(<i>l</i>) of this title.
 
 #### (e) Ownership of Federal Fund
 
-The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) of this section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transfer of the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
+The Federal Fund, and any nonliquid asset (such as a building or equipment) developed or purchased by the guaranty agency in whole or in part with Federal reserve funds, regardless of who holds or controls the Federal reserve funds or such asset, shall be considered to be the property of the United States, prorated based on the percentage of such asset developed or purchased with Federal reserve funds, which property shall be used in the operation of the program authorized by this part, as provided in subsection (d) of this section. The Secretary may restrict or regulate the use of such asset only to the extent necessary to reasonably protect the Secretary's prorated share of the value of such asset. The Secretary may direct a guaranty agency, or such agency's officers or directors, to cease any activity involving expenditures, use, or transferof the Federal Fund administered by the guaranty agency that the Secretary determines is a misapplication, misuse, or improper expenditure of the Federal Fund or the Secretary's share of such asset.
 
 #### (f) Transition
 
@@ -100,11 +100,15 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 &emsp;In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title, the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
 
-(Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674.)
+(Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674; amended Pub. L. 110–315, title IV, §438(a)(1), Aug. 14, 2008, 122 Stat. 3258.)
 
 #### References in Text
 
 Section 1078(c)(6)(A) of this title, referred to in subsec. (c)(2)(A), was redesignated section 1078(c)(6)(A)(i) of this title by Pub. L. 109–171, title VIII, §8014(d)(3)(A), (B), Feb. 8, 2006, 120 Stat. 170.
+
+#### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–315 substituted “and 1087” for “1087, and 1087–2(q)”.
 
 #### Effective Date
 

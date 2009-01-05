@@ -56,7 +56,7 @@ Par. (8). Pub. L. 106–310, §3206(b)(2), added par. (8).
 
 1991—Par. (1). Pub. L. 102–173, §10(1), substituted “individual with mental illness” for “mentally ill individual” wherever appearing.
 
-Pars. (3) to (7). Pub. L. 102–173 added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, and substituted “individual with mental illness” for “mentally ill individual” wherever appearing in pars. (4) and (5).
+Pars. (3) to (7). Pub. L. 102–173 added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, and substituted “individual with mental illness” for“mentally ill individual” wherever appearing in pars. (4) and (5).
 
 1988—Par. (1). Pub. L. 100–509, §3(1), inserted “or death” after “caused, injury”.
 

@@ -96,6 +96,8 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §501\], Dec. 21, 1982, 96 Sta
 
 Pub. L. 102–394, title V, §503, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376.”
 
+\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
+
 Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–170, title V, §503, Nov. 26, 1991, 105 Stat. 1140.

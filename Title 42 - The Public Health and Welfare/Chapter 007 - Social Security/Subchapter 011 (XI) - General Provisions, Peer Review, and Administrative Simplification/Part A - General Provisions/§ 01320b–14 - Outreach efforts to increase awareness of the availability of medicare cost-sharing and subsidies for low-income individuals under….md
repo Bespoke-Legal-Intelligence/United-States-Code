@@ -32,13 +32,93 @@
 
 &emsp;The periodic updates described in paragraph (1)(B) shall include information on individuals who are or may be eligible for the medical assistance, program, and subsidies described in paragraph (1)(A) because such individuals have experienced reductions in benefits under subchapter II of this chapter.
 
-(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub. L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160.)
+#### (c) Assistance with Medicare Savings Program and low-income subsidy program applications
+
+#### (1) Distribution of applications and information to individuals who are potentially eligible for low-income subsidy program
+
+&emsp;For each individual who submits an application for low-income subsidies under section 1395w–114 of this title, requests an application for such subsidies, or is otherwise identified as an individual who is potentially eligible for such subsidies, the Commissioner shall do the following:
+
+&emsp;&emsp;(A) Provide information describing the low-income subsidy program under section 1395w–114 of this title and the Medicare Savings Program (as defined in paragraph (7)).
+
+&emsp;&emsp;(B) Provide an application for enrollment under such low-income subsidy program (if not already received by the Commissioner).
+
+&emsp;&emsp;(C) In accordance with paragraph (3), transmit data from such an application for purposes of initiating an application for benefits under the Medicare Savings Program.
+
+&emsp;&emsp;(D) Provide information on how the individual may obtain assistance in completing such application and an application under the Medicare Savings Program, including information on how the individual may contact the State health insurance assistance program (SHIP).
+
+&emsp;&emsp;(E) Make the application described in subparagraph (B) and the information described in subparagraphs (A) and (D) available at local offices of the Social Security Administration.
+
+#### (2) Training personnel in explaining benefit programs and assisting in completing LIS application
+
+&emsp;The Commissioner shall provide training to those employees of the Social Security Administration who are involved in receiving applications for benefits described in paragraph (1)(B) in order that they may promote beneficiary understanding of the low-income subsidy program and the Medicare Savings Program in order to increase participation in these programs. Such employees shall provide assistance in completing an application described in paragraph (1)(B) upon request.
+
+#### (3) Transmittal of data to States
+
+&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after the Secretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
+
+#### (4) Coordination with outreach
+
+&emsp;The Commissioner shall coordinate outreach activities under this subsection in connection with the low-income subsidy program and the Medicare Savings Program.
+
+#### (5) Reimbursement of Social Security Administration administrative costs
+
+#### (A) Initial Medicare Savings Program costs; additional low-income subsidy costs
+
+#### (i) Initial Medicare Savings Program costs
+
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amount appropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
+
+#### (ii) Additional amount for low-income subsidy activities
+
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner, out of any funds in the Treasury not otherwise appropriated, $24,800,000 for fiscal year 2009 to carry out low-income subsidy activities under section 1395w–114 of this title and the Medicare Savings Program (in accordance with this subsection), to remain available until expended. Such funds shall be in addition to the Social Security Administration's Limitation on Administrative Expenditure appropriations for such fiscal year.
+
+#### (B) Subsequent funding under agreements
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Effective for fiscal years beginning on or after October 1, 2010, the Commissioner and the Secretary shall enter into an agreement which shall provide funding (subject to the amount appropriated under clause (ii)) to cover the administrative costs of the Commissioner's activities under this subsection. Such agreement shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) provide funds to the Commissioner for the full cost of the Social Security Administration's work related to the Medicare Savings Program required under this section;
+
+&emsp;&emsp;&emsp;&emsp;(II) provide such funding quarterly in advance of the applicable quarter based on estimating methodology agreed to by the Commissioner and the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;(III) require an annual accounting and reconciliation of the actual costs incurred and funds provided under this subsection.
+
+#### (ii) Appropriation
+
+&emsp;&emsp;&emsp;There are hereby appropriated to the Secretary solely for the purpose of providing payments to the Commissioner pursuant to an agreement specified in clause (i) that is in effect, out of any funds in the Treasury not otherwise appropriated, not more than $3,000,000 for fiscal year 2011 and each fiscal year thereafter.
+
+#### (C) Limitation
+
+&emsp;&emsp;In no case shall funds from the Social Security Administration's Limitation on Administrative Expenses be used to carry out activities related to the Medicare Savings Program. For fiscal years beginning on or after October 1, 2010, no such activities shall be undertaken by the Social Security Administration unless the agreement specified in subparagraph (B) is in effect and full funding has been provided to the Commissioner as specified in such subparagraph.
+
+#### (6) GAO analysis and report
+
+#### (A) Analysis
+
+&emsp;&emsp;The Comptroller General of the United States shall prepare an analysis of the impact of this subsection—
+
+&emsp;&emsp;&emsp;(i) in increasing participation in the Medicare Savings Program, and
+
+&emsp;&emsp;&emsp;(ii) on States and the Social Security Administration.
+
+#### (B) Report
+
+&emsp;&emsp;Not later than January 1, 2012, the Comptroller General shall submit to Congress, the Commissioner, and the Secretary a report onthe analysis conducted under subparagraph (A).
+
+#### (7) Medicare Savings Program defined
+
+&emsp;For purposes of this subsection, the term “Medicare Savings Program” means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title.
+
+(Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub. L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
 
 #### Prior Provisions
 
 A prior section 1320b–14, act Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 103–66, title XIII, §13581(a), Aug. 10, 1993, 107 Stat. 609; Pub. L. 105–34, title XV, §1503(e), Aug. 5, 1997, 111 Stat. 1063, related to Medicare and Medicaid Coverage Data Bank, prior to repeal by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–275 added subsec. (c).
 
 2003—Pub. L. 108–173, §103(g)(1), inserted “and subsidies for low-income individuals under subchapter XVIII” after “cost-sharing” in section catchline.
 
@@ -54,6 +134,10 @@ Subsec. (b)(1)(A). Pub. L. 108–173, §103(g)(3)(A), inserted “, for transit
 
 Subsec. (b)(2). Pub. L. 108–173, §103(g)(3)(B), inserted “, program, and subsidies” after “medical assistance”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §113(c), July 15, 2008, 122 Stat. 2506, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and section 1396u–5 of this title\] shall take effect on January 1, 2010.”
+
 #### Effective Date
 
 Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\].”
@@ -63,4 +147,6 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 27
 Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: “The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[this section\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
 

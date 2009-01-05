@@ -58,7 +58,7 @@ National Security Waiver Authority.—The Secretary of the military department c
 
 (e)
 
-Inapplicability to Coast Guard.—This section does not apply to a member of the CoastGuard when the Coast Guard is not operating as a service in the Navy.
+Inapplicability to Coast Guard.—This section does not apply to a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475.)
 
@@ -74,7 +74,7 @@ Inapplicability to Coast Guard.—This section does not apply to a member of the
 
 “(2) In this section, the term ‘high-deployment days member’ means a member who has been deployed 182 days or more out of the preceding 365 days.
 
-“(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
+“(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief ofNaval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
 
 2001—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -117,6 +117,10 @@ Pub. L. 106–65, div. A, title V, §586(e), Oct. 5, 1999, 113 Stat. 639, provid
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
+
+Pub. L. 110–181, div. A, title V, §586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 

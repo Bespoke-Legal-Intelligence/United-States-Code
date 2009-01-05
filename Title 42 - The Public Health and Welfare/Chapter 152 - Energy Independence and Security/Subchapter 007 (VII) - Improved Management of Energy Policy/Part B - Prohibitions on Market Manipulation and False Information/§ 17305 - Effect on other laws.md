@@ -2,7 +2,7 @@
 
 #### (a) Other authority of the Commission
 
-Nothing in this part limits or affects the authority of the Federal Trade Commission to bring an enforcement action or take any other measure under the Federal Trade CommissionAct (15 U.S.C. 41 et seq.) or any other provision of law.
+Nothing in this part limits or affects the authority of the Federal Trade Commission to bring an enforcement action or take any other measure under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) or any other provision of law.
 
 #### (b) Antitrust law
 

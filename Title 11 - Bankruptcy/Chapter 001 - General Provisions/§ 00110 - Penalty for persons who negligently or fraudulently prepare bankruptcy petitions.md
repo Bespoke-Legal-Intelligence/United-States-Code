@@ -4,7 +4,7 @@
 
 &emsp;(1) “bankruptcy petition preparer” means a person, other than an attorney for the debtor or an employee of such attorney under the direct supervision of such attorney, who prepares for compensation a document for filing; and
 
-&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court ora United States district court in connection with a case under this title.
+&emsp;(2) “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under this title.
 
 (b)(1) A bankruptcy petition preparer who prepares a document for filing shall sign the document and print on the document the preparer's name and address. If a bankruptcy petition preparer is not an individual, then an officer, principal, responsible person, or partner of the bankruptcy petition preparer shall be required to—
 
@@ -80,7 +80,7 @@
 
 (C) An individual may exempt any funds recovered under this paragraph under section 522(b).
 
-(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative ofthe court, may file a motion for an order under paragraph (2).<sup>1</sup>
+(4) The debtor, the trustee, a creditor, the United States trustee (or the bankruptcy administrator, if any) or the court, on the initiative of the court, may file a motion for an order under paragraph (2).<sup>1</sup>
 
 (5) A bankruptcy petition preparer shall be fined not more than $500 for each failure to comply with a court order to turn over funds within 30 days of service of such order.
 
@@ -150,7 +150,7 @@ Paragraph (2), referred to in subsec. (h)(4), was redesignated as par. (3) and r
 
 #### Amendments
 
-2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Fines imposed under this subsectionin judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
+2007—Subsec. (<i>l</i>)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis.”
 
 2005—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted “for the debtor or an employee of such attorney under the direct supervision of such attorney” for “or an employee of an attorney”.
 

@@ -12,9 +12,9 @@ If at any time during any taxable year an employer maintains a plan to which sec
 
 If—
 
-&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid required minimum contributionand such amount remains unpaid as of the close of the taxable period, or
+&emsp;(1) a tax is imposed under subsection (a)(1) on any unpaid minimum required contribution and such amount remains unpaid as of the close of the taxable period, or
 
-&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency and the accumulated funding deficiency is not corrected within the taxable period,
+&emsp;(2) a tax is imposed under subsection (a)(2) on any accumulated funding deficiency andthe accumulated funding deficiency is not corrected within the taxable period,
 
 > there is hereby imposed a tax equal to 100 percent of the unpaid minimum required contribution or accumulated funding deficiency, whichever is applicable, to the extent not so paid or corrected.
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (3) Taxable period
 
-&emsp;The term “taxable period” means, with respect to an accumulated funding deficiency, the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of—
+&emsp;The term “taxable period” means, with respect to an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable <sup>1</sup> and ending on the earlier of—
 
 &emsp;&emsp;(A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 Before issuing a notice of deficiency with respect to the tax imposed by subsection (a) or (b), the Secretary shall notify the Secretary of Labor and provide him a reasonable opportunity (but not more than 60 days)—
 
-&emsp;(1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency, or
+&emsp;(1) to require the employer responsible for contributing to or under the plan to eliminate the accumulated funding deficiency or unpaid minimum required contribution, whichever is applicable, or
 
 &emsp;(2) to comment on the imposition of such tax.
 
@@ -62,7 +62,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(1)(A).<sup>1</sup>
+&emsp;Except as provided in paragraph (2), the tax imposed by subsection (a), (b), or (f) shall be paid by the employer responsible for contributing to or under the plan the amount described in section 412(a)(2).
 
 #### (2) Joint and several liability where employer member of controlled group
 
@@ -158,7 +158,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;&emsp;(i) the amount of tax imposed under subsection (a) for the taxable year (determined without regard to this subsection), or
 
-&emsp;&emsp;&emsp;(ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the first day of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
+&emsp;&emsp;&emsp;(ii) the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
 
 #### (C) Liability for tax
 
@@ -168,7 +168,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 #### (ii) Plan sponsor
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “plan sponsor” in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).
 
 #### (5) Waiver
 
@@ -186,7 +186,7 @@ Before issuing a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning notification of Secretary of Labor of imposition of tax under this section, waiver of the tax imposed by subsection (b), and other coordination between Secretary of the Treasury and Secretary of Labor with respect to compliance with this section, see section 3002(b) of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915.)
+(Added Pub. L. 93–406, title II, §1013(b), Sept. 2, 1974, 88 Stat. 920; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §204, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 96–596, §2(a)(1)(J), (2)(H), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 100–203, title IX, §§9304(c)(1), 9305(a), Dec. 22, 1987, 101 Stat. 1330–348, 1330–351; Pub. L. 103–465, title VII, §751(a)(9)(B), Dec. 8, 1994, 108 Stat. 5020; Pub. L. 104–188, title I, §1464(a), Aug. 20, 1996, 110 Stat. 1824; Pub. L. 109–280, title I, §114(e)(1)–(4), title II, §212(b), Aug. 17, 2006, 120 Stat. 854, 855, 915; Pub. L. 110–458, title I, §§101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, 122 Stat. 5099, 5103.)
 
 #### Amendment of Section
 
@@ -199,6 +199,20 @@ Section 412, referred to in subsec. (f)(3)(A), was amended generally by Pub. L. 
 Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (h), is classified to section 1202(b) of Title 29, Labor.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–458, §101(d)(2)(F)(i), substituted “minimum required” for “required minimum”.
+
+Subsec. (c)(3). Pub. L. 110–458, §101(d)(2)(F)(ii), inserted “or unpaid minimum required contribution, whichever is applicable” after “accumulated funding deficiency” in two places in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 110–458, §101(d)(2)(F)(ii), inserted “or unpaid minimum required contribution, whichever is applicable” after “accumulated funding deficiency”.
+
+Subsec. (e)(1). Pub. L. 110–458, §101(d)(2)(F)(iii), substituted “section 412(a)(2)” for “section 412(a)(1)(A)”.
+
+Subsec. (e)(2)(A). Pub. L. 110–458, §102(b)(3)(A), amended directory language of Pub. L. 109–280, §212(b)(2). See 2006 Amendment note below.
+
+Subsec. (g)(4)(B)(ii). Pub. L. 110–458, §102(b)(2)(I)(i), substituted “day following the close of” for “first day of”.
+
+Subsec. (g)(4)(C)(ii). Pub. L. 110–458, §102(b)(2)(I)(ii), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “For purposes of clause (i), the term ‘plan sponsor’ in the case of a multiemployer plan means the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.”
 
 2006—Subsecs. (a), (b). Pub. L. 109–280, §114(e)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
@@ -216,7 +230,7 @@ Subsec. (c)(4). Pub. L. 109–280, §114(e)(2)(B), added par. (4).
 
 Subsec. (e)(1). Pub. L. 109–280, §114(e)(3), substituted “section 412(a)(1)(A)” for “section 412(b)(3)(A)”.
 
-Subsec. (e)(2)(A). Pub. L. 109–280, §§212(b)(2), 221(c), which directed amendment of subsec. (c)(2) by temporarily substituting “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”, was executed by making the substitutions in subsec. (e)(2)(A), to reflect the probable intent of Congress. See Effective and Termination Dates of 2006 Amendment note below.
+Subsec. (e)(2)(A). Pub. L. 109–280, §§212(b)(2), 221(c), as amended by Pub. L. 110–458, §102(b)(3)(A), temporarily substituted “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”. See Effective and Termination Dates of 2006 Amendment note below.
 
 Subsec. (f)(1). Pub. L. 109–280, §114(e)(4), substituted “section 430(j)(4)” for “section 412(m)(5)” in introductory provisions and “section 430(j)” for “section 412(m)” in subpar. (B).
 
@@ -246,9 +260,15 @@ Subsec. (d). Pub. L. 96–364, §204(2), inserted provisions relating to a multi
 
 1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
 #### Effective and Termination Dates of 2006 Amendment
 
-Amendment by section 212(b) of Pub. L. 109–280 applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 212(e) of Pub. L. 109–280, set out as a note under section 412 of this title.
+Amendment by section 114(e)(1)–(4) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as an Effective Date of 2006 Amendment note under section 401 of this title.
+
+Amendment by section 212(b) of Pub. L. 109–280 applicable with respect to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within such taxable year, with special rules for certain notices and certain restored benefits, see section 212(e) of Pub. L. 109–280, set out as a note under section 412 of this title.
 
 Amendment by section 212(b) of Pub. L. 109–280 inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as a note under section 412 of this title.
 
@@ -312,7 +332,7 @@ Plan Described.—A plan described under this subsection is a multiemployer pens
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “412(a)(2).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

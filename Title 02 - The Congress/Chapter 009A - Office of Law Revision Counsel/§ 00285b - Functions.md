@@ -26,9 +26,9 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 
 1976—Par. (6). Pub. L. 94–386 substituted “through publication of the fifth annual cumulative supplement to the 1973 edition of such Code” for “until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective”.
 
-#### Preparation and Publication of New Edition of the District of Columbia Code Under Direction of Council of the District of Columbia
+#### Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia
 
-Section 2 of Pub. L. 94–386 provided that:
+Pub. L. 94–386, §2, Aug. 14, 1976, 90 Stat. 1170, provided that:
 
 “(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
 

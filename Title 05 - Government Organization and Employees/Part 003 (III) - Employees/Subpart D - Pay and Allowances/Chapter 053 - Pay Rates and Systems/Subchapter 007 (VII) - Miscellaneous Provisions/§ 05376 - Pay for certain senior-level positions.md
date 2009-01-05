@@ -16,19 +16,61 @@
 
 &emsp;(A) not less than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule; and
 
-&emsp;(B) not greater than the rate of basic pay payable for level IV of the Executive Schedule.
+&emsp;(B) subject to paragraph (3), not greater than the rate of basic pay payable for level III of the Executive Schedule.
 
 > The payment of a rate of basic pay under this section shall not be subject to the pay limitation of section 5306(e) or 5373.
 
 (2) Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section for positions within an agency shall be adjusted by such amount as the head of such agency considers appropriate.
 
-(Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443.)
+(3) In the case of an agency which has a performance appraisal system which, as designed and applied, is certified under section 5307(d) as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to “level III” were a reference to “level II”.
+
+(4) No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
+
+(Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443; amended Pub. L. 110–372, §2(b), Oct. 8, 2008, 122 Stat. 4044.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of this title.
 
-Level IV of the Executive Schedule, referred to in subsec. (b)(1)(B), is set out in section 5315 of this title.
+Levels II and III of the Executive Schedule, referred to in subsec. (b), are set out in sections 5313 and 5314 of this title, respectively.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(B). Pub. L. 110–372, §2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “not greater than the rate of basic pay payable for level IV of the Executive Schedule.”.
+
+Subsec. (b)(3), (4). Pub. L. 110–372, §2(b)(2), added pars. (3) and (4).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–372, §2(d), Oct. 8, 2008, 122 Stat. 4044, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section and sections 3104, 3324, 3325, 5108 and 5304 of this title\] shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act \[Oct. 8, 2008\].
+
+“(2)
+
+No reductions in rates of pay.—
+
+&emsp;“(A)
+
+In general.—The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay for an individual holding a position to which section 5376 of title 5, United States Code, applies.
+
+&emsp;“(B)
+
+Determination of rate of pay.—For the purposes of subparagraph (A), the rate of basic pay for an individual described in that subparagraph shall be deemed to be the rate of basic pay set for the individual under section 5376 of title 5, United States Code, plus any applicable locality pay paid to that individual on the day before the effective date under paragraph (1), subject to regulations that the Director of the Office of Personnel Management may prescribe.
+
+“(3)
+
+References to maximum rates.—Except as otherwise provided by law, any reference in a provision of law to the maximum rate under section 5376 of title 5, United States Code—
+
+&emsp;“(A) as provided before the effective date of the amendments made by this section, shall be considered a reference to the rate of basic pay for level IV of the Executive Schedule \[5 U.S.C. 5315\]; and
+
+&emsp;“(B) as provided on or after the effective date of the amendments made by this section, shall be considered a reference to—
+
+&emsp;&emsp;“(i) the rate of basic pay for level III of the Executive Schedule \[5 U.S.C. 5314\]; or
+
+&emsp;&emsp;“(ii) if the head of the agency responsible for administering the applicable pay system certifies that the employees are covered by a performance appraisal system meeting the certification criteria established by regulation under section 5307(d), level II of the Executive Schedule \[5 U.S.C. 5313\].”
 
 #### Effective Date
 
@@ -60,5 +102,7 @@ Other References.—Until otherwise provided by law—
 
 “(d)
 
-Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of the abolishment of grades GS–16, 17, and 18 of the General Schedule.”
+Regulations.—The Office of Personnel Management may prescribe regulations, consistent with subsection (c)(1)(B) and section 303 \[section 529 \[title III, §303\] of Pub. L. 101–509, set out as a note under section 5301 of this title\], governing the conversion or adjustment of rates of pay, where necessary because of theabolishment of grades GS–16, 17, and 18 of the General Schedule.”
+
+\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under this section.\]
 

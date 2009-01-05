@@ -19,6 +19,7 @@
 | [4343\.](%C2%A7%2004343%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md) | Cadets: appointment; to bring Corps to full strength. |
 | [4344\.](%C2%A7%2004344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
 | [4345\.](%C2%A7%2004345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
+| [4345a.](%C2%A7%2004345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md) | Foreign and cultural exchange activities. |
 | [4346\.](%C2%A7%2004346%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [4347\.](%C2%A7%2004347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
 | [4348\.](%C2%A7%2004348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md) | Cadets: agreement to serve as officer. |
@@ -39,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §541(a)(2), Oct. 14, 2008, 122 Stat. 4455, added item 4345a.
 
 2006—Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, §544(a)(2). See 2004 Amendment note below.
 
@@ -94,6 +97,7 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 - [&sect; 04343 - Cadets appointment; to bring Corps to full strength](%C2%A7%2004343%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md)
 - [&sect; 04344 - Selection of persons from foreign countries](%C2%A7%2004344%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
 - [&sect; 04345 - Exchange program with foreign military academies](%C2%A7%2004345%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
+- [&sect; 04345a - Foreign and cultural exchange activities](%C2%A7%2004345a%20-%20Foreign%20and%20cultural%20exchange%20activities.md)
 - [&sect; 04346 - Cadets requirements for admission](%C2%A7%2004346%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 04347 - Cadets; nominees effect of redistricting of States](%C2%A7%2004347%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)
 - [&sect; 04348 - Cadets agreement to serve as officer](%C2%A7%2004348%20-%20Cadets%20agreement%20to%20serve%20as%20officer.md)

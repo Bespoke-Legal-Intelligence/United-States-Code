@@ -14,7 +14,7 @@ Notice and Wait Requirement.—When a decision is made to carry out a project un
 
 (d)
 
-Annual Report.—Not later than December 31 of each year, the Secretary shall submit to Congress a report describing actions taken under this section and the savings realized from such actions during the fiscal year ending in the year in which the report is submitted.
+Annual Report.—Not later than December 31 of each year, the Secretary shall submit to Congress a report describing actions takenunder this section and the savings realized from such actions during the fiscal year ending in the year in which the report is submitted.
 
 (Added Pub. L. 109–364, div. B, title XXVIII, §2809(a), Oct. 17, 2006, 120 Stat. 2470.)
 

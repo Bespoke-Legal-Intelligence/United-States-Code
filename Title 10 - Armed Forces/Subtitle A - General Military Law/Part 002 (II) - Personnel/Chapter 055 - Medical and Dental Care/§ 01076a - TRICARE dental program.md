@@ -56,7 +56,7 @@ Premium sharing plans.—(A) The dental insurance plan established under subsect
 
 Full premium plans.—(A) The dental insurance plan established under subsection (a)(2) and the dental benefits plan established under subsection (a)(4) are full premium plans.
 
-&emsp;(B) Members enrolled in a full premium plan for themselves or for their dependents shall be required to pay the entire premium charged for the benefits provided under the plan.
+&emsp;(B) Members enrolled in a full premium plan for themselves or for their dependents shall berequired to pay the entire premium charged for the benefits provided under the plan.
 
 &emsp;(3)
 
@@ -64,13 +64,17 @@ Payment procedures.—A member's share of the premium for a plan established und
 
 (e)
 
-Copayments Under Premium Sharing Plans.—A member or dependent who receives dental care under a premium sharing plan referred to in subsection (d)(1) shall—
+Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to paragraph (2), a member or dependent who receives dental care under a premium sharing plan referred to in subsection (d)(1) shall—
 
-&emsp;(1) in the case of care described in subsection (c)(1), pay no charge for the care;
+&emsp;(A) in the case of care described in subsection (c)(1), pay no charge for the care;
 
-&emsp;(2) in the case of care described in subsection (c)(2), pay 20 percent of the charges for the care; and
+&emsp;(B) in the case of care described in subsection (c)(2), pay 20 percent of the charges for the care; and
 
-&emsp;(3) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
+&emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
+
+(2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
+
+(B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
 (f)
 
@@ -116,13 +120,15 @@ Eligible Dependent Defined.—(1) In this section, the term “eligible dependen
 
 (3) Such term does not include a dependent by reason of paragraph (2) after the end of the three-year period beginning on the date of the member's death.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514.)
 
 #### Prior Provisions
 
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–417 designated existing provisions as par. (1), substituted “Except as provided pursuant to paragraph (2), a member or dependent” for “A member or dependent”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and added par. (2).
 
 2006—Subsec. (k). Pub. L. 109–163 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In this section, the term ‘eligible dependent’—
 

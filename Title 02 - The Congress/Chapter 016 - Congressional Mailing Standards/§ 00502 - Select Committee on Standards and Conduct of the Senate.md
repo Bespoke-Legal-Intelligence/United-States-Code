@@ -2,7 +2,7 @@
 
 #### (a) Advisory opinions or consultations respecting franked mail for persons entitled to franking privilege; franking privilege regulations
 
-The Select Committee on Standards and Conduct of the Senate shall provide guidance, assistance, advice and counsel, through advisory opinions or consultations, in connection with the mailing or contemplated mailing of franked mail under section 3210, 3211, 3212, 3213(2), 3218, or 3219, and in connection with the operation ofsection 3215, of title 39, upon the request of any Member of the Senate or Member-elect, surviving spouse of any of the foregoing, or other Senate official, entitled to send mail as franked mail under any of those sections. The select committee shall prescribe regulations governing the proper use of the franking privilege under those sections by such persons.
+The Select Committee on Standards and Conduct of the Senate shall provide guidance, assistance, advice and counsel, through advisory opinions or consultations, in connection with the mailing or contemplated mailing of franked mail under section 3210, 3211, 3212, 3213(2), 3218, or 3219, and in connection with the operation of section 3215, of title 39, upon the request of any Member of the Senate or Member-elect, surviving spouse of any of the foregoing, or other Senate official, entitled to send mail as franked mail under any of those sections. The select committee shall prescribe regulations governing the proper use of the franking privilege under those sections by such persons.
 
 #### (b) Complaint of franked mail violations; investigation; notice and hearing; decision of select committee; enforcement
 
@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, no court or administrative body in t
 
 #### (d) Administrative procedure regulations
 
-The select committee shall prescribe regulations for the holding of investigations and hearings, the conduct of proceedings, and the rendering of decisions under this subsection providing for equitable procedures and the protection of individual, public, and Government interests. The regulations shall, insofar as practicable, contain the substance of the administrative procedure provisions of sections 551 to 559 and 701 to 706, of title 5. These regulations shall govern matters under this subsection subject to judicial review thereof.
+The select committee shall prescribe regulations for the holding of investigations and hearings, the conduct of proceedings, and the rendering of decisions under this subsection providing for equitable procedures and the protection ofindividual, public, and Government interests. The regulations shall, insofar as practicable, contain the substance of the administrative procedure provisions of sections 551 to 559 and 701 to 706, of title 5. These regulations shall govern matters under this subsection subject to judicial review thereof.
 
 #### (e) Property of Senate; records of select committee; voting record; location of records, data, and files
 

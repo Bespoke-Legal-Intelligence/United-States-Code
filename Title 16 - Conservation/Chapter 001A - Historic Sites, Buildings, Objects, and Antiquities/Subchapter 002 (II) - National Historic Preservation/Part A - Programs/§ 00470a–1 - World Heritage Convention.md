@@ -2,7 +2,7 @@
 
 #### (a) United States participation
 
-The Secretary of the Interior shall direct and coordinate United States participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, approved by the Senate on October 26, 1973, in cooperation with the Secretary of State, the SmithsonianInstitution, and the Advisory Council on Historic Preservation. Whenever possible, expenditures incurred in carrying out activities in cooperation with other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
+The Secretary of the Interior shall direct and coordinate United States participation in the Convention Concerning the Protection of the World Cultural and Natural Heritage, approved by the Senate on October 26, 1973, in cooperation with the Secretary of State, the Smithsonian Institution, and the Advisory Council on Historic Preservation. Whenever possible, expenditures incurred in carrying out activities in cooperation with other nations and international organizations shall be paid for in such excess currency of the country or area where the expense is incurred as may be available to the United States.
 
 #### (b) Nomination of property to World Heritage Committee
 

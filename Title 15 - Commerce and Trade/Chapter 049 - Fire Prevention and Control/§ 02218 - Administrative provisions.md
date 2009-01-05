@@ -28,15 +28,27 @@ All property rights with respect to inventions and discoveries, which are made i
 
 #### (e) Coordination
 
-To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.
+#### (1) In general
 
-(Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302.)
+&emsp;To the extent practicable, the Administrator shall use existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities.
+
+#### (2) Coordination of fire prevention and control programs
+
+&emsp;The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator with Federal, State, and local government agencies and departments and nongovernmental organizations concerned with any matter related to programs of fire prevention and control.
+
+#### (3) Coordination of emergency medical services programs
+
+&emsp;The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
+
+(Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §9(a), Oct. 8, 2008, 122 Stat. 4061.)
 
 #### Codification
 
 In subsec. (b)(2), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–376 amended subsec. (e) generally. Prior to amendment, text read as follows: “To the extent practicable, the Administrator shall utilize existing programs, data, information, and facilities already available in other Federal Government departments and agencies and, where appropriate, existing research organizations, centers, and universities. The Administrator shall provide liaison at an appropriate organizational level to assure coordination of his activities with State and local government agencies, departments, bureaus, or offices concerned with any matter related to programs of fire prevention and control and with private and other Federal organizations and offices so concerned.”
 
 2000—Subsec. (c). Pub. L. 106–503 substituted “Director” for “Secretary”.
 
@@ -48,7 +60,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention andControl generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 #### Enhancement of Science and Mathematics Programs
 

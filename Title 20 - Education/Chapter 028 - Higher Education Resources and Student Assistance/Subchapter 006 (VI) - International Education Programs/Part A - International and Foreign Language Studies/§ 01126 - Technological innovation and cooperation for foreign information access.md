@@ -2,35 +2,61 @@
 
 #### (a) Authority
 
-The Secretary is authorized to make grants to institutions of higher education, public or nonprofit private libraries, or consortia of such institutions or libraries, to develop innovative techniques or programs using new electronic technologies to collect, organize, preserve, and widely disseminate information on world regions and countries other than the United States that address our Nation's teaching and research needs in international education and foreign languages.
+#### (1) In general
+
+&emsp;The Secretary is authorized to make grants to institutions of higher education, public or nonprofit private libraries, or partnerships between such institutions and other such institutions, libraries, or nonprofit educational organizations, to develop innovative techniques or programs using electronic technologies to collect, organize, preserve, and widely disseminate information from foreign sources on world regions and countries other than the United States that address our Nation's teaching and research needs in international education and foreign languages.
+
+#### (2) Grant recipients
+
+&emsp;The Secretary may award grants under this section to carry out the activities authorized under this section to the following:
+
+&emsp;&emsp;(A) An institution of higher education.
+
+&emsp;&emsp;(B) A public or nonprofit private library.
+
+&emsp;&emsp;(C) A partnership of an institution of higher education and one or more of the following:
+
+&emsp;&emsp;&emsp;(i) Another institution of higher education.
+
+&emsp;&emsp;&emsp;(ii) A library.
+
+&emsp;&emsp;&emsp;(iii) A nonprofit educational organization.
 
 #### (b) Authorized activities
 
 Grants under this section may be used—
 
-&emsp;(1) to facilitate access to or preserve foreign information resources in print or electronic forms;
+&emsp;(1) to acquire, facilitate access to, or preserve foreign information resources in print or electronic forms;
 
 &emsp;(2) to develop new means of immediate, full-text document delivery for information and scholarship from abroad;
 
-&emsp;(3) to develop new means of shared electronic access to international data;
+&emsp;(3) to develop new means of or standards for shared electronic access to international data;
 
 &emsp;(4) to support collaborative projects of indexing, cataloging, and other means of bibliographic access for scholars to important research materials published or distributed outside the United States;
 
 &emsp;(5) to develop methods for the wide dissemination of resources written in non-Roman language alphabets;
 
-&emsp;(6) to assist teachers of less commonly taught languages in acquiring, via electronic and other means, materials suitable for classroom use; and
+&emsp;(6) to assist teachers of less commonly taught languages in acquiring, via electronic and other means, materials suitable for classroom use;
 
-&emsp;(7) to promote collaborative technology based projects in foreign languages, area studies, and international studies among grant recipients under this subchapter.
+&emsp;(7) to promote collaborative technology based projects in foreign languages, area studies, and international studies among grant recipients under this subchapter;
+
+&emsp;(8) to establish linkages to facilitate carrying out the activities described in this subsection between—
+
+&emsp;&emsp;(A) the institutions of higher education, libraries, and partnerships receiving grants under this section; and
+
+&emsp;&emsp;(B) institutions of higher education, nonprofit educational organizations, and libraries overseas; and
+
+&emsp;(9) to carry out other activities that the Secretary determines are consistent with the purpose of the grants awarded under this section.
 
 #### (c) Application
 
-Each institution or consortium desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may reasonably require.
+Each institution of higher education, library, or partnership desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may reasonably require.
 
 #### (d) Match required
 
 The Federal share of the total cost of carrying out a program supported by a grant under this section shall not be more than 662/3 percent. The non-Federal share of such cost may be provided either in-kind or in cash, and may include contributions from private sector corporations or foundations.
 
-(Pub. L. 89–329, title VI, §606, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1781.)
+(Pub. L. 89–329, title VI, §606, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1781; amended Pub. L. 110–315, title VI, §606, Aug. 14, 2008, 122 Stat. 3337.)
 
 #### Prior Provisions
 
@@ -39,4 +65,18 @@ A prior section 1126, Pub. L. 89–329, title VI, §609, formerly §606, as adde
 Another prior section 1126, Pub. L. 89–329, title VI, §606, Nov. 8, 1965, 79 Stat. 1265, related to reservation and payment of equipment grants to institutions of higher education, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 606 of Pub. L. 89–329 was classified to section 1125 of this title, prior to the general amendment of this part by Pub. L. 105–244.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §606(1)(D), (E), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Pub. L. 110–315, §606(1)(A)–(C), substituted “or partnerships between such institutions and other such institutions, libraries, or nonprofit educational organizations” for “or consortia of such institutions or libraries” and “electronic technologies” for “new electronic technologies” and inserted “from foreign sources” after “disseminate information”.
+
+Subsec. (b)(1). Pub. L. 110–315, §606(2)(A), substituted “to acquire, facilitate access to,” for “to facilitate access to”.
+
+Subsec. (b)(3). Pub. L. 110–315, §606(2)(B), inserted “or standards for” after “develop new means of”.
+
+Subsec. (b)(8), (9). Pub. L. 110–315, §606(2)(C)–(E), added pars. (8) and (9).
+
+Subsec. (c). Pub. L. 110–315, §606(3), substituted “institution of higher education, library, or partnership” for “institution or consortium”.
 

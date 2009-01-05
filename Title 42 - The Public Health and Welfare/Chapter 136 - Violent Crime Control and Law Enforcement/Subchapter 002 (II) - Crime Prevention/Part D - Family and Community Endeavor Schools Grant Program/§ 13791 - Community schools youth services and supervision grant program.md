@@ -38,7 +38,7 @@ In this section—
 
 &emsp;“poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title <sup>1</sup> applicable to a family of the size involved.
 
-&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20,and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
+&emsp;“public school” means a public elementary school, as defined in section 1001(i) <sup>2</sup> of title 20, and a public secondary school, as defined in section 1001(d) <sup>2</sup> of title 20.
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
@@ -108,7 +108,7 @@ In this section—
 
 #### (1) Identification
 
-&emsp;To be eligible to receive a grant under this section, a community-based organization shallidentify an eligible community to be assisted under this section.
+&emsp;To be eligible to receive a grant under this section, a community-based organization shall identify an eligible community to be assisted under this section.
 
 #### (2) Criteria
 
@@ -126,7 +126,7 @@ In this section—
 
 &emsp;&emsp;(A) describe the activities and services to be provided through the program for which the grant is sought;
 
-&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organization determines will best accomplish the objectives of this section;
+&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organizationdetermines will best accomplish the objectives of this section;
 
 &emsp;&emsp;(C) contain a comprehensive plan for the program that is designed to achieve identifiable goals for children in the eligible community;
 
@@ -206,7 +206,7 @@ In this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designing and implementing community-based programs.
+&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designingand implementing community-based programs.
 
 #### (2) Composition
 

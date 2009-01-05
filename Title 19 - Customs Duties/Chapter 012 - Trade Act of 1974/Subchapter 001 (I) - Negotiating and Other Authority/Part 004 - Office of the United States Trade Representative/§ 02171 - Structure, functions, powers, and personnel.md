@@ -68,7 +68,7 @@ There is established within the Executive Office of the President the Office of 
 
 &emsp;(D) identify, on a biennial basis, those United States Government policies and practices that, if engaged in by a foreign government, might constitute unfair trade practices under United States law.
 
-(2) For purposes of carrying out paragraph (1), the United States Trade Representative shall be assisted by an interagency unfair trade practices advisory committee composed of the Trade Representative, who shall chair the committee, and senior representatives of the following agencies, appointed by the respective heads of those agencies:
+(2) For purposes of carrying out paragraph (1), the United States Trade Representative shall be assisted by an interagency unfair trade practices advisory committee composed of the Trade Representative, who shall chair the committee,and senior representatives of the following agencies, appointed by the respective heads of those agencies:
 
 &emsp;(A) The Bureau of Economics and Business Affairs of the Department of State.
 
@@ -136,7 +136,7 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 (2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
-(3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
+(3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee onFinance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
 (Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591.)
 
@@ -150,7 +150,7 @@ The civil service laws, referred to in subsec. (e)(1), are set forth in Title 5,
 
 The classification laws, referred to in subsec. (e)(1), are set forth in chapter 51 (§5101 et seq.) and subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
-The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to5308 and 5947 of Title 5, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
+The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
 #### Codification
 
@@ -234,7 +234,7 @@ Subsec. (f)(1). Pub. L. 98–573, §703, substituted provisions authorizing appr
 
 Subsec. (b)(1). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a DeputyUnited States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
+Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted “three Deputy United States Trade Representatives” for “two Deputy Special Representatives for Trade Negotiations” after “in the Office”, “a Deputy United States Trade Representative” for “a Deputy Special Representative” after “any nomination of a”, and “Deputy United States Trade Representative” for “Deputy Special Representative for Trade Negotiations” after “Each”.
 
 Subsec. (c)(1). Pub. L. 97–456, §3(d)(1)(D), substituted “United States Trade Representative” for “Special Representative for Trade Negotiations” in provisions preceding subpar. (A).
 
@@ -280,7 +280,7 @@ Pub. L. 105–5, Mar. 17, 1997, 111 Stat. 11, provided: “That notwithstanding 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Senior Commercial Officers To Hold Title of Minister-Counselor; Maximum Number Designated
 
@@ -374,7 +374,7 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(E) with respect to the functions transferred by subparagraph (C) of this paragraph, section 318 of the Tariff Act of 1930 (19 U.S.C. 1318), to be exercised in consultation with the Secretary of the Treasury;
 
-&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibilityunder subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
+&emsp;(F) with respect to the functions transferred by subparagraph (C) of this paragraph, section 502(b) of the Tariff Act of 1930 (19 U.S.C. 1502(b)), and, insofar as it provides authority to issue regulations and disseminate information, to be exercised in consultation with the Secretary of the Treasury to the extent that the Secretary of the Treasury has responsibility under subparagraph (C), section 502(a) of such Act (19 U.S.C. 1502(a));
 
 &emsp;(G) with respect to the functions transferred by subparagraph (C) of this paragraph, section 617 of the Tariff Act of 1930 (19 U.S.C. 1617); and
 
@@ -422,7 +422,7 @@ The provisions of this reorganization plan shall take effect October 1, 1980, or
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 3 of 1979, to consolidate trade functions of the United States Government. I am acting under the authority vested in me by the Reorganization Act of 1977, chapter 9 of title 5 of the United States Code, and pursuant to section 1109 of the Trade Agreements Act of 1979 \[19 U.S.C. 2111 note\] which directs that I transmit to the Congress a proposal to restructure the international trade functions of the Executive branch.
+I transmit herewith Reorganization Plan No. 3 of 1979, to consolidate trade functions of the UnitedStates Government. I am acting under the authority vested in me by the Reorganization Act of 1977, chapter 9 of title 5 of the United States Code, and pursuant to section 1109 of the Trade Agreements Act of 1979 \[19 U.S.C. 2111 note\] which directs that I transmit to the Congress a proposal to restructure the international trade functions of the Executive branch.
 
 The goal of this reorganization is to improve the capacity of the Government to strengthen the export performance of United States industry and to assure fair international trade practices, taking into account the interests of all elements of our economy.
 
@@ -434,7 +434,7 @@ The trade machinery we now have cannot do this job effectively. Although the Spe
 
 This reorganization is designed to correct such deficiencies and to prepare us for strong enforcement of the MTN codes. It aims to improve our export promotion activities so that United States exporters can take full advantage of trade opportunities in foreign markets. It provides for the timely and efficient administration of our unfair trade laws. It also establishes an efficient mechanism for shaping an effective, comprehensive United States trade policy.
 
-To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness,influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
+To achieve these objectives, I propose to place policy coordination and negotiation—those international trade functions that most require comprehensiveness, influence, and Government-wide perspective—in the Executive Office of the President. I propose to place operational and implementation responsibilities, which are staff-intensive, in line departments that have the requisite resources and knowledge of the major sectors of our economy to handle them. I have concluded that building our trade structure on STR and Commerce, respectively, best satisfies these considerations.
 
 I propose to enhance STR, to be renamed the Office of the United States Trade Representative, by centralizing in it international trade policy development, coordination and negotiation functions. The Commerce Department will become the focus of non-agricultural operational trade responsibilities by adding to its existing duties those for commercial representation abroad, antidumping and countervailing duty cases, the non-agricultural aspects of MTN implementation, national security investigations, and embargoes.
 
@@ -460,7 +460,7 @@ In addition to his role with regard to GATT matters, the Trade Representative wi
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 
-The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
+The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific,immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
 
 In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take into account the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
 
@@ -562,7 +562,7 @@ For purposes of this subsection, the term “negotiations” includes discussion
 
 (c) The Trade Representative, in consultation with the Trade Negotiating Committee, may delegate to any member of the Trade Negotiating Committee, or to any other appropriate department or agency, primary responsibility for representing the United States in any of the negotiations and other activities set forth in subsection (a).
 
-(d) The Trade Representative, or any department or agency to which responsibility for representing the United States in a negotiation or other activity has been delegated pursuant to subsection (c), shall consult with the Trade Policy Committee and with any affected regulatory agencies on the policy issues arising in connection with the negotiations and other activities listed in subsection (a).
+(d) The Trade Representative, or any department or agency to which responsibility for representing the United States in a negotiation or other activity has been delegated pursuant to subsection (c), shall consult with the Trade Policy Committee and with any affectedregulatory agencies on the policy issues arising in connection with the negotiations and other activities listed in subsection (a).
 
 Sec. 1–102. <i>The Trade Policy Committee.</i>
 

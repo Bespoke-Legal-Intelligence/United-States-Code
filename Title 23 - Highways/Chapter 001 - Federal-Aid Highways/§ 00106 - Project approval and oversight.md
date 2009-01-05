@@ -10,7 +10,7 @@ Submission of plans, specifications, and estimates.—Except as otherwise provid
 
 &emsp;(2)
 
-Project agreement.—The Secretary shall act on the plans, specifications, and estimates as soon as practicable after the date oftheir submission and shall enter into a formal project agreement with the State transportation department formalizing the conditions of the project approval.
+Project agreement.—The Secretary shall act on the plans, specifications, and estimates as soon as practicable after the date of their submission and shall enter into a formal project agreement with the State transportation department formalizing the conditions of the project approval.
 
 &emsp;(3)
 
@@ -46,7 +46,7 @@ Non-nhs projects.—For projects under this title that are not on the National H
 
 &emsp;(3)
 
-Agreement.—The Secretary and the State shall enter into an agreement relating to the extent to which the State assumes the responsibilities of the Secretary under this subsection.
+Agreement.—The Secretary and the State shall enter into an agreement relatingto the extent to which the State assumes the responsibilities of the Secretary under this subsection.
 
 &emsp;(4)
 

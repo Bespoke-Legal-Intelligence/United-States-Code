@@ -30,7 +30,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 (c)
 
-Waiver of Recoupment of Time Lost for Confinement.—The Secretary concerned shall waive liability for a period of confinement in connection with a trial under subsection (a)(3), or exclusion of a period of confinement in connection with a trial under subsection (b)(3), in a case upon the occurrence of any of the following events:
+Waiver of Recoupment of Time Lost for Confinement.—The Secretary concerned shall waive liability for a period of confinement in connection with a trial under subsection (a)(3), or exclusion of a period of confinement in connection with a trial under subsection (b)(3), in acase upon the occurrence of any of the following events:
 
 &emsp;(1) For each charge—
 

@@ -42,7 +42,7 @@ Subsection (d) requires the trustee and each committee to meet as soon as practi
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–353, §§324, 500(a), substituted “An attorney or accountant” for “A person”, substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
+1984—Subsec. (b). Pub. L. 98–353, §§324, 500(a), substituted “An attorney or accountant” for “A person”,substituted “entity having an adverse interest” for “entity”, and inserted provision that representation of one or more creditors of the same class as represented by the committee shall not per se constitute the representation of an adverse interest.
 
 Subsec. (c)(3). Pub. L. 98–353, §500(b)(1), substituted “determinations” for “recommendations”, and “acceptances or rejections” for “acceptances”.
 

@@ -58,7 +58,7 @@ Section 3705(b) requires existing crude oil tankers of 40,000 deadweight tons or
 
 Section 3705(c) requires existing crude oil tankers of 20,000 deadweight tons or above, but less than 40,000 deadweight tons, that are 15 years or older, to have segregated ballast tanks or a crude oil washing system by January 1, 1985 or if less than 15 years old, by the date on which it reaches 15 years of age.
 
-Section 3705(d) requires existing crude oil tankers of 20,000 deadweight tons or above, to install an inert gas system. An exemption for crude oil tankers of less than 40,000 deadweight tons not fitted with high-capacity tank washing machines may be granted by the Secretary, only if it is demonstrated that compliancewould be unreasonable and impracticable due to the vessel's design characteristics.
+Section 3705(d) requires existing crude oil tankers of 20,000 deadweight tons or above, to install an inert gas system. An exemption for crude oil tankers of less than 40,000 deadweight tons not fitted with high-capacity tank washing machines may be granted by the Secretary, only if it is demonstrated that compliance would be unreasonable and impracticable due to the vessel's design characteristics.
 
 Section 3705(e) requires existing crude oil tankers of 20,000 deadweight tons or above, engaged in the transfer of oil from Outer Continental Shelf oil exploitation or production facilities, to have segregated ballast tanks or be operated with dedicated clean ballast tanks or special ballast arrangements.
 

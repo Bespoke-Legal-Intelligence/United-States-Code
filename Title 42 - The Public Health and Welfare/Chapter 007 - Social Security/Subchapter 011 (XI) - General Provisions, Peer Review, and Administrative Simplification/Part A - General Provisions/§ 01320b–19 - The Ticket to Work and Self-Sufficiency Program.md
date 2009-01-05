@@ -32,7 +32,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) State agencies participating
 
-&emsp;&emsp;In any case in which a State agency described in paragraph (1) elects under thatparagraph to participate in the Program, the employment services, vocational rehabilitation services, and other support services which, upon assignment of tickets to work and self-sufficiency, are provided to disabled beneficiaries by the State agency acting as an employment network shall be governed by plans for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.).
+&emsp;&emsp;In any case in which a State agency described in paragraph (1) elects under that paragraph to participate in the Program, the employment services, vocational rehabilitation services, and other support services which, upon assignment of tickets to work and self-sufficiency, are provided to disabled beneficiaries by the State agency acting as an employment network shall be governed by plans for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.).
 
 #### (B) State agencies administering maternal and child health services programs
 
@@ -94,7 +94,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (2) Recruitment of employment networks
 
-&emsp;A program manager shall recruit, and recommend for selection by the Commissioner, employment networks for service under the Program. The program manager shall carryout such recruitment and provide such recommendations, and shall monitor all employment networks serving in the Program in the geographic area covered under the program manager's agreement, to the extent necessary and appropriate to ensure that adequate choices of services are made available to beneficiaries. Employment networks may serve under the Program only pursuant to an agreement entered into with the Commissioner under the Program incorporating the applicable provisions of this section and regulations thereunder, and the program manager shall provide and maintain assurances to the Commissioner that payment by the Commissioner to employment networks pursuant to this section is warranted based on compliance by such employment networks with the terms of such agreement and this section. The program manager shall not impose numerical limits on the number of employment networks to be recommended pursuant to this paragraph.
+&emsp;A program manager shall recruit, and recommend for selection by the Commissioner, employment networks for service under the Program. The program manager shall carry out such recruitment and provide such recommendations, and shall monitor all employment networks serving in the Program in the geographic area covered under the program manager's agreement, to the extent necessary and appropriate to ensure that adequate choices of services are made available to beneficiaries. Employment networks may serve under the Program only pursuant to an agreement entered into with the Commissioner under the Program incorporating the applicable provisions of this section and regulations thereunder, and the program manager shall provide and maintain assurances to the Commissioner that payment by the Commissioner to employment networks pursuant to this section is warranted based on compliance by such employment networks with the terms of such agreement and this section. The program manager shall not impose numerical limits on the number of employment networks to be recommended pursuant to this paragraph.
 
 #### (3) Facilitation of access by beneficiaries to employment networks
 
@@ -162,7 +162,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(iii) a statement of any terms and conditions related to the provision of such services and supports; and
 
-&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
+&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the Stategrant program authorized under section 1320b–21 of this title;
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
@@ -200,7 +200,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;The payment schedule of the outcome payment system shall be designed so that—
 
-&emsp;&emsp;&emsp;(i) the payment for each month during the outcome payment period for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are notpayable is equal to a fixed percentage of the payment calculation base for the calendar year in which such month occurs; and
+&emsp;&emsp;&emsp;(i) the payment for each month during the outcome payment period for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable is equal to a fixed percentage of the payment calculation base for the calendar year in which such month occurs; and
 
 &emsp;&emsp;&emsp;(ii) such fixed percentage is set at a percentage which does not exceed 40 percent.
 
@@ -316,7 +316,7 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification ofthis Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -416,7 +416,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(3) Health care is particularly important to individuals with disabilities and special health care needs who often cannot afford the insurance available to them through the private market, are uninsurable by the plans available in the private sector, and are at great risk of incurring very high and economically devastating health care costs.
 
-&emsp;“(4) Americans with significant disabilities often are unable to obtain health care insurance that provides coverage of the services and supports that enable them to live independently and enter or rejoin the workforce. Personal assistance services (such asattendant services, personal assistance with transportation to and from work, reader services, job coaches, and related assistance) remove many of the barriers between significant disability and work. Coverage for such services, as well as for prescription drugs, durable medical equipment, and basic health care are powerful and proven tools for individuals with significant disabilities to obtain and retain employment.
+&emsp;“(4) Americans with significant disabilities often are unable to obtain health care insurance that provides coverage of the services and supports that enable them to live independently and enter or rejoin the workforce. Personal assistance services (such as attendant services, personal assistance with transportation to and from work, reader services, job coaches, and related assistance) remove many of the barriers between significant disability and work. Coverage for such services, as well as for prescription drugs, durable medical equipment, and basic health care are powerful and proven tools for individuals with significant disabilities to obtain and retain employment.
 
 &emsp;“(5) For individuals with disabilities, the fear of losing health care and related services is one of the greatest barriers keeping the individuals from maximizing their employment, earning potential, and independence.
 
@@ -490,7 +490,7 @@ Specific matters to be addressed.—Each such evaluation shall address (but is n
 
 &emsp;&emsp;&emsp;“(II) the determinants of return to work, including the characteristics of beneficiaries in receipt of tickets under the Program;
 
-&emsp;&emsp;&emsp;“(III) the types of employment services, vocational rehabilitation services, and other supportservices furnished to beneficiaries in receipt of tickets under the Program who return to work and to those who do not return to work;
+&emsp;&emsp;&emsp;“(III) the types of employment services, vocational rehabilitation services, and other support services furnished to beneficiaries in receipt of tickets under the Program who return to work and to those who do not return to work;
 
 &emsp;&emsp;&emsp;“(IV) the duration of employment services, vocational rehabilitation services, and other support services furnished to beneficiaries in receipt of tickets under the Program who return to work and the duration of such services furnished to those who do not return to work and the cost to employment networks of furnishing such services;
 
@@ -582,7 +582,7 @@ In general.—The members appointed under subparagraph (A) shall have experience
 
 &emsp;&emsp;“(ii)
 
-Requirement.—At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with considerationgiven to current or former title II \[subchapter II of this chapter\] disability beneficiaries or title XVI \[subchapter XVI of this chapter\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[subsec. (k) of this section\] (as added by subsection (a)).
+Requirement.—At least one-half of the members appointed under subparagraph (A) shall be individuals with disabilities, or representatives of individuals with disabilities, with consideration given to current or former title II \[subchapter II of this chapter\] disability beneficiaries or title XVI \[subchapter XVI of this chapter\] disability beneficiaries (as such terms are defined in section 1148(k) of the Social Security Act \[subsec. (k) of this section\] (as added by subsection (a)).
 
 &emsp;“(C)
 
@@ -642,7 +642,7 @@ Experts and consultants.—Subject to rules prescribed by the Commissioner of So
 
 &emsp;“(D)
 
-Staff of federal agencies.—Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
+Staff of federal agencies.—Upon request of the Panel, the head of any Federal department oragency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
 
 “(5)
 

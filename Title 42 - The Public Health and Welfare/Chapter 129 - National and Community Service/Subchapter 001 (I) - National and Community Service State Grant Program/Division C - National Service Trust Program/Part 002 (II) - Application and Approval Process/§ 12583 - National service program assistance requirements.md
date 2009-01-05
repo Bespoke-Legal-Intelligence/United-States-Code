@@ -60,7 +60,7 @@ An application submitted under section 12582 of this title shall also include an
 
 #### (3) Alternative evaluation requirements
 
-&emsp;The Corporation may establish alternative evaluation requirements for national serviceprograms based upon the amount of assistance received under section 12571 of this title or received by a grant made by a recipient of assistance under such section. The determination of whether a national service program is covered by this paragraph shall be made in such manner as the Corporation may prescribe.
+&emsp;The Corporation may establish alternative evaluation requirements for national service programs based upon the amount of assistance received under section 12571 of this title or received by a grant made by a recipient of assistance under such section. The determination of whether a national service program is covered by this paragraph shall be made in such manner as the Corporation may prescribe.
 
 #### (e) Living allowances and other inservice benefits
 

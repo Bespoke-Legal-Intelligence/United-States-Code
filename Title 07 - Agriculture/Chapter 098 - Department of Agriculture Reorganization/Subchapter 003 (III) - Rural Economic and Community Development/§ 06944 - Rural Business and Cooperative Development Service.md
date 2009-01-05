@@ -28,3 +28,5 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 Act of July 2, 1926, referred to in subsec. (b)(5), is act July 2, 1926, ch. 725, 44 Stat. 802, which is classified generally to chapter 18 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

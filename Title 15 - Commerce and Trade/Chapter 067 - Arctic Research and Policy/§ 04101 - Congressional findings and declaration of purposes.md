@@ -8,7 +8,7 @@
 
 &emsp;(3) the renewable resources of the Arctic, specifically fish and other seafood, represent one of the Nation's greatest commercial assets;
 
-&emsp;(4) Arctic conditions directly affect global weather patterns and must be understood in order to promote better agricultural management throughout the United States;
+&emsp;(4) Arctic conditions directly affect global weather patterns and must be understood inorder to promote better agricultural management throughout the United States;
 
 &emsp;(5) industrial pollution not originating in the Arctic region collects in the polar air mass, has the potential to disrupt global weather patterns, and must be controlled through international cooperation and consultation;
 
@@ -38,7 +38,7 @@
 
 (b) The purposes of this chapter are—
 
-&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal programplan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
+&emsp;(1) to establish national policy, priorities, and goals and to provide a Federal program plan for basic and applied scientific research with respect to the Arctic, including natural resources and materials, physical, biological and health sciences, and social and behavioral sciences;
 
 &emsp;(2) to establish an Arctic Research Commission to promote Arctic research and to recommend Arctic research policy;
 
@@ -80,7 +80,7 @@ The Director of the National Science Foundation shall serve as a nonvoting <i>ex
 
 (c) Each of the Federal agencies represented on the Interagency Committee established by Section 7 of this Order may designate a representative to participate as an observer with the Commission. These representatives shall report to and advise the Commission on the activities of their agencies relating to Arctic research.
 
-Sec. 3. <i>Meetings of the Commission</i>. The Commission shall meet at the call of the Chairman or a majority of its members. The Commission annually shall conduct at least one public meeting in the State of Alaska.
+Sec. 3. <i>Meetings of the Commission</i>. The Commission shall meet at the call of the Chairman or a majority ofits members. The Commission annually shall conduct at least one public meeting in the State of Alaska.
 
 Sec. 4. <i>Functions of the Commission</i>. (a) The Commission shall:
 
@@ -184,5 +184,5 @@ Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Commi
 
 Sec. 10. <i>Public Participation</i>. The Interagency Committee will provide public notice of its meetings and an opportunity for the public to participate in the development and implementation of national Arctic research policy.
 
-Sec. 11. <i>Administration of Interagency Committee</i>. Each agency represented on the Committee shall, to the extent permitted by law and subject to the availability of funds, provide the Committee with such administrative services, facilities, staff, and other support services as may be necessary for effective performance of its functions.
+Sec. 11. <i>Administration of Interagency Committee</i>. Each agency represented on the Committee shall, to the extent permitted by law and subject to the availability of funds, provide the Committee with such administrative services, facilities, staff, and other support services asmay be necessary for effective performance of its functions.
 

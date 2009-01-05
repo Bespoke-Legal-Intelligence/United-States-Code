@@ -10,13 +10,13 @@
 
 (b)(1) After notice and a hearing, the court, on its own motion or on a motion by the United States trustee, trustee (or bankruptcy administrator, if any), or any party in interest, may dismiss a case filed by an individual debtor under this chapter whose debts are primarily consumer debts, or, with the debtor's consent, convert such a case to a case under chapter 11 or 13 of this title, if it finds that the granting of relief would be an abuse of the provisions of this chapter. In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).
 
-(2)(A)(i) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shall presume abuse exists if the debtor's current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of—
+(2)(A)(i) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter, the court shallpresume abuse exists if the debtor's current monthly income reduced by the amounts determined under clauses (ii), (iii), and (iv), and multiplied by 60 is not less than the lesser of—
 
 &emsp;(I) 25 percent of the debtor's nonpriority unsecured claims in the case, or $6,000, whichever is greater; or
 
 &emsp;(II) $10,000.
 
-(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent.Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 309 of the Family Violence Prevention and Services Act,<sup>1</sup> or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
+(ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 309 of the Family Violence Prevention and Services Act,<sup>1</sup> or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
 (II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses.
 
@@ -54,13 +54,23 @@
 
 (C) As part of the schedule of current income and expenditures required under section 521, the debtor shall include a statement of the debtor's current monthly income, and the calculations that determine whether a presumption arises under subparagraph (A)(i), that show how each such amount is calculated.
 
-(D) Subparagraphs (A) through (C) shall not apply, and the court may not dismiss or convert a case based on any form of means testing, if the debtor is a disabled veteran (as defined in section 3741(1) of title 38), and the indebtedness occurred primarily during a period during which he or she was—
+(D) Subparagraphs (A) through (C) shall not apply, and the court may not dismiss or convert a case based on any form of means testing—
 
-&emsp;(i) on active duty (as defined in section 101(d)(1) of title 10); or
+&emsp;(i) if the debtor is a disabled veteran (as defined in section 3741(1) of title 38), and the indebtedness occurred primarily during a period during which he or she was—
 
-&emsp;(ii) performing a homeland defense activity (as defined in section 901(1) of title 32).
+&emsp;&emsp;(I) on active duty (as defined in section 101(d)(1) of title 10); or
 
-(3) In considering under paragraph (1) whether the granting of relief would be an abuse of theprovisions of this chapter in a case in which the presumption in subparagraph (A)(i) of such paragraph does not arise or is rebutted, the court shall consider—
+&emsp;&emsp;(II) performing a homeland defense activity (as defined in section 901(1) of title 32); or
+
+&emsp;(ii) with respect to the debtor, while the debtor is—
+
+&emsp;&emsp;(I) on, and during the 540-day period beginning immediately after the debtor is released from, a period of active duty (as defined in section 101(d)(1) of title 10) of not less than 90 days; or
+
+&emsp;&emsp;(II) performing, and during the 540-day period beginning immediately after the debtor is no longer performing, a homeland defense activity (as defined in section 901(1) of title 32) performed for a period of not less than 90 days;
+
+> &emsp;if after September 11, 2001, the debtor while a member of a reserve component of the Armed Forces or a member of the National Guard, was called to such active duty or performed such homeland defense activity.
+
+(3) In considering under paragraph (1) whether the granting of relief would be an abuse of the provisions of this chapter in a case in which the presumption in subparagraph (A)(i) of such paragraph does not arise or is rebutted, the court shall consider—
 
 &emsp;(A) whether the debtor filed the petition in bad faith; or
 
@@ -120,7 +130,7 @@
 
 &emsp;&emsp;(II) any other subsidiary corporation of the parent corporation.
 
-(6) Only the judge or United States trustee (or bankruptcy administrator, if any) may file a motion under section 707(b), if the current monthly income of the debtor, or in a joint case, the debtor and the debtor's spouse, as of the date of the order for relief, when multiplied by 12, is equal to or less than—
+(6) Only the judge or United States trustee (or bankruptcy administrator, if any) may file amotion under section 707(b), if the current monthly income of the debtor, or in a joint case, the debtor and the debtor's spouse, as of the date of the order for relief, when multiplied by 12, is equal to or less than—
 
 &emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
 
@@ -136,7 +146,7 @@
 
 &emsp;(iii) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
 
-(B) In a case that is not a joint case, current monthly income of the debtor's spouse shall notbe considered for purposes of subparagraph (A) if—
+(B) In a case that is not a joint case, current monthly income of the debtor's spouse shall not be considered for purposes of subparagraph (A) if—
 
 &emsp;(i)(I) the debtor and the debtor's spouse are separated under applicable nonbankruptcy law; or
 
@@ -158,7 +168,7 @@
 
 (3) The court may not dismiss a case under paragraph (2) if the debtor establishes by a preponderance of the evidence that the filing of a case under this chapter is necessary to satisfy a claim for a domestic support obligation.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606; Pub. L. 98–353, title III, §§312, 475, July 10, 1984, 98 Stat. 355, 381; Pub. L. 99–554, title II, §219, Oct. 27, 1986, 100 Stat. 3100; Pub. L. 105–183, §4(b), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(a), (f), Apr. 20, 2005, 119 Stat. 27, 33; Pub. L. 110–438, §2, Oct. 20, 2008, 122 Stat. 5000.)
 
 #### Historical and Revision Notes
 
@@ -178,6 +188,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A), (B)
 
 #### Amendments
 
+2008—Subsec. (b)(2)(D). Pub. L. 110–438 substituted “testing—” for “testing,” in introductory provisions, inserted cl. (i) designation before “if the debtor”, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added cl. (ii).
+
 2005—Pub. L. 109–8, §102(a)(1), substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in section catchline.
 
 Subsec. (b). Pub. L. 109–8, §102(a)(2), designated existing provisions as par. (1), substituted “trustee (or bankruptcy administrator, if any), or” for “but not at the request or suggestion of” and “an abuse” for “a substantial abuse”, inserted “, or, with the debtor's consent, convert such a case to a case under chapter 11 or 13 of this title,” after “consumer debts”, struck out “There shall be a presumption in favor of granting the relief requested by the debtor.” before “In making”, and added pars. (2) to (7).
@@ -191,6 +203,18 @@ Subsec. (c). Pub. L. 109–8, §102(f), added subsec. (c).
 Subsec. (b). Pub. L. 99–554, §219(b), substituted “motion or on a motion by the United States trustee, but” for “motion and”.
 
 1984—Pub. L. 98–353 designated existing provisions as subsec. (a) and in pars. (1) and (2) substituted “or” for “and”, and added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, provided that:
+
+“(a)
+
+Effective Date.—Except as provided in subsection (b), this Act \[amending this section and enacting provisions set out as a note under section 101 of this title\] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act \[Oct. 20, 2008\].
+
+“(b)
+
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 3-year period beginning on the effective date of this Act.”
 
 #### Effective Date of 2005 Amendment
 

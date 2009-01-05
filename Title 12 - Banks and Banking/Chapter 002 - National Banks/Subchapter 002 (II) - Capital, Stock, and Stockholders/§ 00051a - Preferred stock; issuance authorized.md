@@ -14,5 +14,5 @@ Notwithstanding any other provision of law any national banking association may,
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 

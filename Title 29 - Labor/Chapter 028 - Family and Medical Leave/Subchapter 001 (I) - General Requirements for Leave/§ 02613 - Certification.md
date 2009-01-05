@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An employer may require that a request for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
+An employer may require that a request for leave under subparagraph (C) or (D) of paragraph (1) or paragraph (3) of section 2612(a) of this title be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, or of the next of kin of an individual in the case of leave taken under such paragraph (3), as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
 
 #### (b) Sufficient certification
 
@@ -38,7 +38,7 @@ Certification provided under subsection (a) of this section shall be sufficient 
 
 #### (1) In general
 
-&emsp;In any case in which the second opinion described in subsection (c) of this section differs from the opinion in the original certification provided under subsection (a) of this section, the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b) of this section.
+&emsp;In any case in which the second opinion described in subsection (c) of this section differs from the opinion in the original certification provided under subsection (a) of this section, the employer may require, at the expense of the employer, that the employee obtain theopinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b) of this section.
 
 #### (2) Finality
 
@@ -48,5 +48,15 @@ Certification provided under subsection (a) of this section shall be sufficient 
 
 The employer may require that the eligible employee obtain subsequent recertifications on a reasonable basis.
 
-(Pub. L. 103–3, title I, §103, Feb. 5, 1993, 107 Stat. 11.)
+#### (f) Certification related to active duty or call to active duty
+
+An employer may require that a request for leave under section 2612(a)(1)(E) of this title be supported by a certification issued at such time and in such manner as the Secretary may by regulation prescribe. If the Secretary issues a regulation requiring such certification, the employee shall provide, in a timely manner, a copy of such certification to the employer.
+
+(Pub. L. 103–3, title I, §103, Feb. 5, 1993, 107 Stat. 11; Pub. L. 110–181, div. A, title V, §585(a)(3)(E), Jan. 28, 2008, 122 Stat. 130.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
+
+Subsec. (f). Pub. L. 110–181, §585(a)(3)(E)(ii), added subsec. (f).
 

@@ -14,7 +14,7 @@ Finality.—A decision by the Secretary of Defense to terminate the employment o
 
 (c)
 
-Notification to Congressional Committees.—Whenever the Secretary of Defense terminates the employment of an employee under the authority of this section, the Secretary shallpromptly notify the congressional oversight committees of such termination.
+Notification to Congressional Committees.—Whenever the Secretary of Defense terminates the employment of an employee under the authority of this section, the Secretary shall promptly notify the congressional oversight committees of such termination.
 
 (d)
 

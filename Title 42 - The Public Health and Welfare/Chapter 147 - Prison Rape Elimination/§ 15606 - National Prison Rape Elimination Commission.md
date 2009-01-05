@@ -104,7 +104,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 #### (A) Distribution
 
-&emsp;&emsp;Not later than 3 years after the date of the initial meeting of the Commission, the Commission shall submit a report on the study carried out under this subsection to—
+&emsp;&emsp;Not later than 5 years after the date of the initial meeting of the Commission, the Commission shall submit a report on the study carried out under this subsection to—
 
 &emsp;&emsp;&emsp;(i) the President;
 
@@ -194,7 +194,7 @@ In developing recommended national standards for enhancing the detection, preven
 
 #### (2) Witness expenses
 
-&emsp;Witnesses requested to appear before the Commission shall be paid the same fees as are paid to witnesses under section 1821 of title 28.The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Commission.
+&emsp;Witnesses requested to appear before the Commission shall be paid the same fees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the Commission.
 
 #### (h) Information from Federal or State agencies
 
@@ -222,7 +222,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (2) Other organizations
 
-&emsp;Nothing in this subsection shall be construed to limit the ability of the Commission to enter into contracts with other entities or organizations for research necessary to carry out the duties of the Commission under this section.
+&emsp;Nothing in this subsection shall be construed to limit the ability of the Commissionto enter into contracts with other entities or organizations for research necessary to carry out the duties of the Commission under this section.
 
 #### (k) Subpoenas
 
@@ -250,7 +250,7 @@ The Commission shall terminate on the date that is 60 days after the date on whi
 
 The Commission shall be exempt from the Federal Advisory Committee Act.
 
-(Pub. L. 108–79, §7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, §123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, §113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, §1181, Jan. 5, 2006, 119 Stat. 3126.)
+(Pub. L. 108–79, §7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, §123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, §113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, §1181, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 110–199, title II, §261, Apr. 9, 2008, 122 Stat. 694.)
 
 #### References in Text
 
@@ -258,9 +258,15 @@ The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–
 
 #### Amendments
 
+2008—Subsec. (d)(3)(A). Pub. L. 110–199 substituted “5 years” for “3 years” in introductory provisions.
+
 2006—Subsec. (d)(3)(A). Pub. L. 109–162 made amendment identical to that made by Pub. L. 109–108. See 2005 Amendment note below.
 
 2005—Subsec. (d)(3)(A). Pub. L. 109–108 substituted “3 years” for “2 years”.
 
 2004—Pub. L. 108–447 substituted “Elimination” for “Reduction” in section catchline and in text of subsec. (a).
+
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
 

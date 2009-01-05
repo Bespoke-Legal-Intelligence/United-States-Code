@@ -34,11 +34,15 @@ Thirty months after the appointment and qualification of the Administrator, the 
 
 #### (e) Consultation
 
-In the conduct of the studies required under this section, the Fund shall consult, as appropriate, with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Board, the Farm Credit Administration, the Director of the Office of Thrift Supervision, the National Credit Union Administration Board, Indian tribal governments, community reinvestment organizations, civil rights organizations, consumer organizations, financial organizations, and such representatives of agencies or other persons, at the discretion of the Fund.
+In the conduct of the studies required under this section, the Fund shall consult, as appropriate, with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, the Federal Housing Finance Agency, the Farm Credit Administration, the Director of the Office of Thrift Supervision, the National Credit Union Administration Board, Indian tribal governments, community reinvestment organizations, civil rights organizations, consumer organizations, financial organizations, and such representatives of agencies or other persons, at the discretion of the Fund.
 
 #### (f) Examination and audit
 
 The financial statements of the Fund shall be audited in accordance with section 9105 of title 31, except that audits required by section 9105(a) of such title shall be performed annually.
 
-(Pub. L. 103–325, title I, §117, Sept. 23, 1994, 108 Stat. 2187.)
+(Pub. L. 103–325, title I, §117, Sept. 23, 1994, 108 Stat. 2187; Pub. L. 110–289, div. A, title II, §1216(b), July 30, 2008, 122 Stat. 2792.)
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 

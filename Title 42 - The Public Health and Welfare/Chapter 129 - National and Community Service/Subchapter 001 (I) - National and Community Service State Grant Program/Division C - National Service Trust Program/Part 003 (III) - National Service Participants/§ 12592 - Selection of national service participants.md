@@ -42,7 +42,7 @@ The Corporation and each State Commission shall establish a system to recruit in
 
 #### (f) Evaluation of service
 
-The Corporation shall issue regulations regarding the manner and criteria by which the service of a participant shall be evaluated to determine whether the service is satisfactory and successful for purposes of eligibility for a second term of service or a national service educational award.
+The Corporation shall issue regulations regarding the manner and criteria by which theservice of a participant shall be evaluated to determine whether the service is satisfactory and successful for purposes of eligibility for a second term of service or a national service educational award.
 
 (Pub. L. 101–610, title I, §138, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 809.)
 

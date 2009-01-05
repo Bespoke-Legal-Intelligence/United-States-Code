@@ -28,7 +28,7 @@ The plan developed by the President pursuant to subsection (a)(2) of this sectio
 
 #### (e) Authorization of appropriations
 
-In addition to funds authorized in any other law, there is authorized to be appropriated tothe President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
 
 (Pub. L. 94–163, title III, §381, Dec. 22, 1975, 89 Stat. 939; Pub. L. 95–619, title V, §501, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288; Pub. L. 100–615, §2(b), Nov. 5, 1988, 102 Stat. 3189.)
 
@@ -80,7 +80,7 @@ Responsibilities of the Administrator of General Services
 
 1–205. The Administrator shall take into consideration the advice of the Environmental Protection Agency under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\] in performing his responsibilities under this Order.
 
-1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
+1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) acomparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

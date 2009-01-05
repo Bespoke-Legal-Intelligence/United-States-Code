@@ -500,7 +500,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (2) Fiscal year 2009 shortfall State described
 
-&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available tothe Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
+&emsp;A fiscal year 2009 shortfall State described in this paragraph is a State with a State child health plan approved under this subchapter for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the Federal share amount of the projected expenditures under such plan for such State for the first 2 quarters of fiscal year 2009 will exceed the sum of—
 
 &emsp;&emsp;(A) the amount of the State's allotments for each of fiscal years 2007 and 2008 that was not expended by the end of fiscal year 2008; and
 
@@ -548,7 +548,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (4) Proration rule
 
-&emsp;If the amounts available for additional allotments under paragraph (1) are less than the total of the amounts determined under subparagraphs (A) and (B) of paragraph (3), the amounts computed under such subparagraphs shall be reduced proportionally.
+&emsp;If the amounts available for additional allotments under paragraph (1) are less than thetotal of the amounts determined under subparagraphs (A) and (B) of paragraph (3), the amounts computed under such subparagraphs shall be reduced proportionally.
 
 #### (5) Retrospective adjustment
 
@@ -558,7 +558,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 &emsp;Notwithstanding subsections (e) and (f), amounts allotted to a State pursuant to this subsection for fiscal year 2009, subject to paragraph (5), shall only remain available for expenditure by the State through March 31, 2009. Any amounts of such allotments that remain unexpended as of such date shall not be subject to redistribution under subsection (f).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII,§§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510.)
 
 #### Amendments
 
@@ -636,7 +636,7 @@ Pub. L. 108–74, §1(a)(3)(C)(ii), substituted “fiscal year 2000, or fiscal y
 
 Pub. L. 108–74, §1(a)(2)(C)(ii), substituted “, fiscal year 1999, or fiscal year 2000” for “or fiscal year 1999” and “November 30, 2001, or November 30, 2002” for “or November 30, 2001”.
 
-2000—Subsec. (b)(1). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(3)(A)\], in introductory provisions, struck out “and subsection (d) of this section” after “Subject to paragraph (4)”.
+2000—Subsec. (b)(1). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(3)(A)\], in introductory provisions, struckout “and subsection (d) of this section” after “Subject to paragraph (4)”.
 
 Subsec. (c)(1). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(3)(B)\], struck out “subject to subsection (d) of this section,” after “for a fiscal year,”.
 
@@ -706,7 +706,7 @@ Section 162 of Pub. L. 105–100 provided that the amendment made by that sectio
 
 #### Authority To Transfer Subchapter XXI Appropriations to Subchapter XIX Appropriation Account as Reimbursement for Medicaid Expenditures for Medicaid Expansion SCHIP Services
 
-Pub. L. 106–554, §1(a)(6) \[title VIII, §802(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–581, provided that: “Notwithstanding any other provision of law, all amounts appropriated under title XXI \[of the Social Security Act, this subchapter\] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social Security Act (42 U.S.C. 1397dd) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act (42 U.S.C. 1396b(a)) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as so amended).”
+Pub. L. 106–554, §1(a)(6) \[title VIII, §802(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–581, provided that: “Notwithstanding any other provision of law, all amounts appropriated under title XXI \[of the Social Security Act, this subchapter\] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social SecurityAct (42 U.S.C. 1397dd) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act (42 U.S.C. 1396b(a)) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as so amended).”
 
 #### Determination of Number of Children and State Cost Factors for Fiscal Years 1998 and 1999
 

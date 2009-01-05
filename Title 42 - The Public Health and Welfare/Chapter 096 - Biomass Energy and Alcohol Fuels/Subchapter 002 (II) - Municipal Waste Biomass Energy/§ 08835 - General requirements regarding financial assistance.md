@@ -32,7 +32,7 @@
 
 Financial assistance may not be provided under section 8832, 8833, or 8834 of this title unless the Secretary of Energy determines that—
 
-&emsp;(1) the terms, conditions, maturity, security and schedule and amounts of repayments with respect to such assistance are reasonable and meet such standards as the Secretary determines are sufficient to protect the financial interests of the United States; and
+&emsp;(1) the terms, conditions, maturity, security and schedule and amounts of repayments withrespect to such assistance are reasonable and meet such standards as the Secretary determines are sufficient to protect the financial interests of the United States; and
 
 &emsp;(2) the person receiving such financial assistance will bear a reasonable degree of risk with respect to the project.
 

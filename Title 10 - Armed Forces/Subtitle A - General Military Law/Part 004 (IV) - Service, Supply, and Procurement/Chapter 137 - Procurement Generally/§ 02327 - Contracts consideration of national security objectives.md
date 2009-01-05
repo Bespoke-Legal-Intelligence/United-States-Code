@@ -80,7 +80,7 @@ A prior section 2327 was renumbered section 2347 of this title.
 
 Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted “The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records” for “A report under subparagraph (A)”.
 
-Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress undersubparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
+Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
 
 1997—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
@@ -94,7 +94,7 @@ Section 101(c) \[title X, §951(c)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 

@@ -22,7 +22,7 @@
 
 #### (b) Publication; Federal Register; notice
 
-Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
+Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of thissection, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
 
 #### (c) Effect of notice
 

@@ -1,6 +1,6 @@
 ### §552. Deputy Secretary; appointment; duties
 
-There is established in the Department of Labor the office of Deputy Secretary of Labor,which shall be filled by appointment by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall perform such duties as may be prescribed by the Secretary of Labor or required by law. The Deputy Secretary shall (1) in case of the death, resignation, or removal from office of the Secretary, perform the duties of the Secretary until a successor is appointed, and (2) in case of the absence or sickness of the Secretary, perform the duties of the Secretary until such absence or sickness shall terminate.
+There is established in the Department of Labor the office of Deputy Secretary of Labor, which shall be filled by appointment by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall perform such duties as may be prescribed by the Secretary of Labor or required by law. The Deputy Secretary shall (1) in case of the death, resignation, or removal from office of the Secretary, perform the duties of the Secretary until a successor is appointed, and (2) in case of the absence or sickness of the Secretary, perform the duties of the Secretary until such absence or sickness shall terminate.
 
 (Apr. 17, 1946, ch. 140, §1, 60 Stat. 91; Pub. L. 99–619, §2(a)(1), Nov. 6, 1986, 100 Stat. 3491.)
 
@@ -28,5 +28,5 @@ Section 2(f)(1) of Pub. L. 99–619 provided that: “The incumbent in the posit
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable toperform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 

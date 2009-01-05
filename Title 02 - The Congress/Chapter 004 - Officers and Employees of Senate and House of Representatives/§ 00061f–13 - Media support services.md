@@ -6,7 +6,7 @@ In this section, the terms “national committee” and “political party” ha
 
 #### (b) In general
 
-The official duties of employees of the Sergeant at Arms and Doorkeeper of the Senateunder the Senate Daily Press Gallery, the Senate Periodical Press Gallery, the Senate Press Photographers Gallery, and the Senate Radio and Television Correspondents Gallery may include providing media support services with respect to the presidential nominating conventions of the national committees of political parties.
+The official duties of employees of the Sergeant at Arms and Doorkeeper of the Senate under the Senate Daily Press Gallery, the Senate Periodical Press Gallery, the Senate Press Photographers Gallery, and the Senate Radio and Television Correspondents Gallery may include providing media support services with respect to the presidential nominating conventions of the national committees of political parties.
 
 #### (c) Approval of Sergeant at Arms
 

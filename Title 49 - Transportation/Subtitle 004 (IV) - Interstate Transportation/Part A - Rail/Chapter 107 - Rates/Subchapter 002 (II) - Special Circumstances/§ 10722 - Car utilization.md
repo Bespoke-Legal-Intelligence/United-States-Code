@@ -28,7 +28,7 @@ A prior section 10729, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1389, authorize
 
 Prior sections 10730 to 10735 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-Section 10730, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1389; Pub. L. 96–296, §12, July 1, 1980, 94 Stat. 802; Pub.L. 96–448, title II, §211(a), (b), Oct. 14, 1980, 94 Stat. 1911; Pub. L. 99–521, §7(g), Oct. 22, 1986, 100 Stat. 2995, related to rates and liability based on value.
+Section 10730, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1389; Pub. L. 96–296, §12, July 1, 1980, 94 Stat. 802; Pub. L. 96–448, title II, §211(a), (b), Oct. 14, 1980, 94 Stat. 1911; Pub. L. 99–521, §7(g), Oct. 22, 1986, 100 Stat. 2995, related to rates and liability based on value.
 
 Section 10731, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1389; Pub. L. 96–448, title II, §204, Oct. 14, 1980, 94 Stat. 1905; Pub. L. 103–272, §4(j)(23), July 5, 1994, 108 Stat. 1369, related to investigation of discriminatory rail rates for transportation of recyclable or recycled materials.
 

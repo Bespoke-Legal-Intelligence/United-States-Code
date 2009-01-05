@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2430\.](%C2%A7%2002430%20-%20Major%20defense%20acquisition%20program%20defined.md) | Major defense acquisition program defined. |
+| [2430a.](%C2%A7%2002430a%20-%20Major%20subprograms.md) | Major subprograms. |
 | [2431\.](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md) | Weapons development and procurement schedules. |
 | [2432\.](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
@@ -16,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title VIII, §811(a)(2), Oct. 14, 2008, 122 Stat. 4521, added item 2430a.
 
 2004—Pub. L. 108–375, div. A, title VIII, §805(a)(2), Oct. 28, 2004, 118 Stat. 2009, added item 2437.
 
@@ -41,6 +44,7 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02430 - Major defense acquisition program defined](%C2%A7%2002430%20-%20Major%20defense%20acquisition%20program%20defined.md)
+- [&sect; 02430a - Major subprograms](%C2%A7%2002430a%20-%20Major%20subprograms.md)
 - [&sect; 02431 - Weapons development and procurement schedules](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md)
 - [&sect; 02432 - Selected Acquisition Reports](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md)
 - [&sect; 02433 - Unit cost reports](%C2%A7%2002433%20-%20Unit%20cost%20reports.md)

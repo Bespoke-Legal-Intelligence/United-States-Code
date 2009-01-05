@@ -108,7 +108,7 @@ Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain office
 
 Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including \[former\] section 3347 of title 5, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including \[former\] section 3347 of title 5, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Succession to the Authority of the Secretary of the Navy.</i>
 
@@ -450,29 +450,9 @@ Sec. 3. <i>Exceptions.</i>
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13250. Providing an Order of Succession Within the Department of Health and Human Services
+#### Executive Order No. 13250
 
-Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, as amended by Ex. Ord. No. 13261, §4(h), Mar. 19, 2002, 67 F.R. 13244, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
-
-Section 1. Subject to the provisions of section 3 of this order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the Office of the Secretary of Health and Human Services (Secretary) during any period when both the Secretary and the Deputy Secretary of Health and Human Services (Deputy Secretary) have died, resigned, or become otherwise unable to perform the functions and duties of the office of Secretary.
-
-Sec. 2. <i>Order of Succession.</i>
-
-(a) The Assistant Secretaries of Health and Human Services appointed by the President and confirmed by the Senate, in the order in which they shall have taken the oath of office as such;
-
-(b) The General Counsel of the Department of Health and Human Services; and
-
-(c) Other officers within the Department of Health and Human Services who have been appointed by the President by and with the consent of the Senate, in the order in which they shall have taken the oath of office as such.
-
-Sec. 3. <i>Exceptions.</i>
-
-(a) No individual who is serving in an office listed in section 2(a)–(c) in an acting capacity shall, by virtue of so serving, act as Secretary pursuant to this order.
-
-(b) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this order in designating an acting Secretary.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, as amended by Ex. Ord. No. 13261, §4(h), Mar. 19, 2002, 67 F.R. 13244, which provided an order of succession within the Department of Health and Human Services, was revoked by Ex. Ord. No. 13461, §4, Feb. 15, 2008, 73 F.R. 9438, set out below.
 
 #### Ex. Ord. No. 13251. Providing an Order of Succession Within the Department of State
 
@@ -700,6 +680,120 @@ Sec. 5. <i>Revocation</i>. Executive Order No. 13000 of April 24, 1996 \[formerl
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13461. Providing an Order of Succession Within the Department of Health and Human Services
+
+Ex. Ord. No. 13461, Feb. 15, 2008, 73 F.R. 9437, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. Subject to the provisions of section 3 of this order, the officers named in section 2, in the order listed, shall act as and perform the functions and duties of the Office of the Secretary of Health and Human Services (Secretary), if they are eligible to act as Secretary under the provisions of the Federal Vacancies Reform Act of 1998, during any period in which the Secretary has died, resigned, or become otherwise unableto perform the functions and duties of the office of Secretary.
+
+Sec. 2. <i>Order of Succession.</i>
+
+(a) Deputy Secretary of Health and Human Services;
+
+(b) General Counsel of the Department of Health and Human Services;
+
+(c) Assistant Secretary (Resources and Technology);
+
+(d) Assistant Secretary (Planning and Evaluation);
+
+(e) Administrator of the Centers for Medicare and Medicaid Services;
+
+(f) Commissioner of Food and Drugs;
+
+(g) Director of the National Institutes of Health;
+
+(h) Assistant Secretary for Family Support;
+
+(i) Other Assistant Secretaries of the Department of Health and Human Services appointed by the President, in the order in which they shall have taken the oath of office as such;
+
+(j) Director, Centers for Disease Control and Prevention; and
+
+(k) Director, Region 4.
+
+Sec. 3. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 2 of this order in an acting capacity, by virtue of so serving, shall act as Secretary pursuant to this order.
+
+(b) Notwithstanding the provisions of this order, the President retains discretion, consistent with the Federal Vacancies Reform Act of 1998, to depart from this order in designating an acting Secretary.
+
+Sec. 4. <i>Revocation</i>. Executive Order 13250 of December 28, 2001 (Providing An Order of Succession Within the Department of Health and Human Services), and the President's memorandum of March 19, 2002 (Designation of Officers of the Department of Health and Human Services), are hereby revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13472. Executive Branch Responsibilities With Respect To Orders of Succession
+
+Ex. Ord. No. 13472, Sept. 11, 2008, 73 F.R. 53353, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the Federal Government to ensure that each executive branch agency can perform its essential functions and remain an effectively functioning part of the Federal Government under all conditions. Accordingly, each agency shall take all appropriate actions to establish, maintain, and, as necessary, revise an order of succession, or to propose presidential action to establish or revise an order of succession.
+
+Sec. 2. <i>Definitions</i>. As used in this order:
+
+(a) “agency” means:
+
+&emsp;(i) an executive agency as defined in section 105 of title 5, United States Code, other than the Government Accountability Office; and
+
+&emsp;(ii) the United States Postal Service and the Postal Regulatory Commission; and
+
+(b) “order of succession” means a list of officials by position who shall act as and perform the functions and duties of the office of the head of the agency in the event that the office-holder has died, resigned, or otherwise become unable to perform the functions and duties of the office. “Order of succession” does not include any order, rule, memorandum, or other document delegating or partially delegating the authority of an office.
+
+Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
+
+(a) Each agency for which presidential action is required to establish an order of succession shall draft a proposed order of succession if no such order exists and, not later than 30 days from the date of this order, send such proposed draft order to the Counsel to the President for review and comment.
+
+(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions to the agency's order of succession to the Counsel to the President for review and comment.
+
+(c) Upon completion of the requirements set forth by subsections (a) or (b) of this section with respect to a proposed order, the agency shall submit the proposed order to the Office of Management and Budget in accordance with Executive Order 11030, as amended.
+
+Sec. 4. <i>Orders of Succession Not Requiring Presidential Action</i>. (a) Each agency for which presidential action is not required to establish an order of succession because of the agency's existing legal authority shall establish and maintain such order in accordance with applicable law and any applicable guidance issued by the President or the Secretary of Homeland Security, including the laws and guidance regarding continuity plans and programs for the executive branch.
+
+(b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession as necessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
+
+(c) Not later than 30 days from the date of this order, and not later than 7 days from the issuance date of any subsequent final revision to an existing order of succession, each agency described in subsection 4(a) of this order shall provide a copy of its order of succession to the Counsel to the President, the Assistant to the President for Homeland Security and Counterterrorism, and the Director of the Office of Management and Budget.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to a department, agency, or the head thereof; or
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) Nothing in this order shall be construed to delegate the President's authority under the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to designate individuals to perform the functions and duties of a vacant office temporarily in an acting capacity.
+
+(c) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13481. Providing An Order of Succession Within the Department of Justice
+
+Ex. Ord. No. 13481, Dec. 9, 2008, 73 F.R. 75531, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. Subject to the provisions of section 2 of this order, the following officers, in the order listed, shall act as and perform the functions and duties of the office of Attorney General, during any period in which the Attorney General, the Deputy Attorney General, the Associate Attorney General, and the officers designated by the Attorney General pursuant to 28 U.S.C. 508 to act as Attorney General have died, resigned, or otherwise become unable to perform the functions and duties of the office of Attorney General, until such time as at least one of the officers mentioned above is able to perform the functions and duties of that office:
+
+(a) United States Attorney for the District of Maryland;
+
+(b) United States Attorney for the Southern District of Alabama; and
+
+(c) United States Attorney for the Northern District of Georgia.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 of this order in an acting capacity, by virtue of so serving, shall act as Attorney General pursuant to this order.
+
+(b) No individual listed in section 1 shall act as Attorney General unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this order, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Attorney General.
+
+Sec. 3. This order supersedes the President's Memorandum for the Attorney General of December 8, 2006 (Designation of Officers of the Department of Justice).
+
+Sec. 4. This order is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Designation of Officers of the Federal Emergency Management Agency To Act as Director of the Federal Emergency Management Agency
 
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, which provided for an order of succession within the Federal Emergency Management Agency, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
@@ -788,107 +882,9 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Designation of Officers of the Office of the Director of National Intelligence To Act as Director of National Intelligence
-
-Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, provided:
-
-Memorandum for the Director of National Intelligence
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345, <i>et seq</i>., it is hereby ordered that:
-
-Section 1. Subject to the provisions of sections 3 and 4 of this memorandum, the officers of the Office of the Director of National Intelligence named in section 2, in the order listed, shall act as and perform the functions and duties of the office of the Director of National Intelligence (DNI), during any period in which the DNI and the Principal Deputy Director of National Intelligence have died, resigned, or otherwise become unable to perform the functions and duties of the office of the DNI, until such time as at least one of the officers listed in this section is able to perform the functions and duties of the DNI.
-
-Sec. 2. Order of Succession.
-
-(a) Deputy Director of National Intelligence for Management;
-
-(b) Deputy Director of National Intelligence for Collection;
-
-(c) Deputy Director of National Intelligence for Analysis;
-
-(d) Deputy Director of National Intelligence for Customer Outcomes;
-
-(e) Chief of Staff, Office of the Director of National Intelligence;
-
-(f) General Counsel, Office of the Director of National Intelligence; and
-
-(g) Chief Information Officer, Office of the Director of National Intelligence.
-
-Sec. 3. National Security Act of 1947. This memorandum shall not supercede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the Director of National Intelligence during the absence or disability of the Directorof National Intelligence or during a vacancy in the position of Director of National Intelligence, (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
-
-Sec. 4. Exceptions.
-
-(a) No individual who is serving in an office listed in section 2 in an acting capacity shall act as the DNI pursuant to this section.
-
-(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting DNI.
-
-Sec. 5. Publication.
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Designation of Officers of the Social Security Administration
-
-Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, provided:
-
-Memorandum for the Commissioner of Social Security
-
-By the authority vested in me as President under the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., I hereby order that:
-
-Section 1. <i>Order of Succession.</i>
-
-During any period when both the Commissioner of Social Security (Commissioner) and the Deputy Commissioner of Social Security (Deputy Commissioner) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Commissioner, the following officers of the Social Security Administration, in the order listed, shall perform the functions and duties of the office of Commissioner, if they are eligible to act as Commissioner under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Commissioner or Deputy Commissioner is able to perform the functions and duties of the office of Commissioner:
-
-Chief of Staff;
-
-Deputy Commissioner for Operations;
-
-Regional Commissioner, Philadelphia; and
-
-Regional Commissioner, Dallas.
-
-Sec. 2. <i>Exceptions.</i>
-
-(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Commissioner pursuant to this memorandum.
-
-(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this memorandum in designating an acting Commissioner.
-
-Sec. 3. <i>Prior Memorandum Superseded.</i>
-
-This memorandum supersedes the Presidential Memorandum of May 9, 2002, entitled “Designation of Officers of the Social Security Administration.”
-
-Sec. 4. <i>Publication.</i>
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Designation of Officers of the Department of Justice
 
-Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, provided:
-
-Memorandum for the Attorney General
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., I hereby order that:
-
-Section 1. <i>Order of Succession</i>. During any period when the Attorney General, the Deputy Attorney General, the Associate Attorney General, and the officers designated by the Attorney General pursuant to 28 U.S.C. 508 to act as Attorney General have died, resigned, or otherwise become unable to perform the functions and duties of the office of Attorney General, the following officers of the Department of Justice, in the order listed, shall perform the functions and duties of the office of Attorney General, if they are eligible to act as Attorney General under the Federal Vacancies Reform Act of 1998, until such time as at least one of the officers mentioned above is able to perform the functions and duties of the office of Attorney General:
-
-United States Attorney for the Southern District of New York;
-
-United States Attorney for the Eastern District of Virginia; and
-
-United States Attorney for the Western District of Texas.
-
-Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Attorney General pursuant to this memorandum.
-
-(b) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., to depart from this memorandum in designating an acting Attorney General.
-
-Sec. 3. The Memorandum for the Attorney General of March 19, 2002, entitled “Designation of Officers of the Department of Justice,” is hereby revoked.
-
-Sec. 4. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, Dec. 8, 2006, 71 F.R. 74753, which provided a designation of officers of the Department of Justice, was superseded by Ex. Ord. No. 13481, §3, Dec. 9, 2008, 73 F.R. 75531, set out above.
 
 #### Designation of Officers of the Federal Bureau of Investigation
 
@@ -971,6 +967,192 @@ Sec. 2. <i>Exceptions.</i>
 Sec. 3. <i>Judicial Review</i>. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Sec. 4. <i>Publication</i>. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Council on Environmental Quality to Act as Chairman of the Council on Environmental Quality
+
+Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, provided:
+
+Memorandum for the Chairman of the Council on Environmental Quality
+
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Council on Environmental Quality in the order listed, shall act as and perform the functions and duties of the office of the Chairman of the Council on Environmental Quality (Chairman), during any period in which the Chairman has died, resigned, or otherwise become unable to perform the functions and duties of the office of Chairman until such time as the Chairman is able to perform the functions and duties of that office:
+
+(a) Chief of Staff;
+
+(b) General Counsel; and
+
+(c) Associate Directors in the order that they shall have been appointed as such.
+
+Sec. 2. <i>Exceptions.</i>
+
+(a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as the Chairman pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Chairman unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this order in designating an acting Chairman.
+
+Sec. 3. <i>Judicial Review</i>. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence
+
+Memorandum of President of the United States, Dec. 20, 2005, 70 F.R. 76375, which provided for a designationof officers of the Office of the Director of National Intelligence to act as Director of National Intelligence, was superseded by Memorandum of President of the United States, §4, Oct. 3, 2008, 73 F.R. 58869, set out below.
+
+Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, provided:
+
+Memorandum for the Director of National Intelligence
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>.,
+
+it is hereby ordered that:
+
+Section 1. Subject to the provisions of sections 2 and 3 of this memorandum, the following officers of the office of the Director of National Intelligence, in the order listed, shall act as and perform the functions and duties of the office of the Director of National Intelligence (DNI), during any period in which the DNI and the Principal Deputy Director of National Intelligence have died, resigned, or otherwise become unable to perform the functions and duties of the office of the DNI, until such time as the DNI or the Principal Deputy Director is able to perform the functions and duties of the office of DNI:
+
+(a) Director of the Intelligence Staff;
+
+(b) Deputy Director of National Intelligence for Policy, Plans, and Requirements;
+
+(c) Deputy Director of National Intelligence for Analysis;
+
+(d) Deputy Director of National Intelligence for Collection;
+
+(e) Director of the National Counterterrorism Center; and
+
+(f) National Counterintelligence Executive.
+
+Sec. 2. <i>National Security Act of 1947</i>. This memorandum shall not supersede the authority of the Principal Deputy Director of National Intelligence to act for, and exercise the powers of, the Director of National Intelligence during the absence or disability of the Director of National Intelligence or during a vacancy in the position of Director of National Intelligence (National Security Act of 1947, as amended, 50 U.S.C. 403–3a).
+
+Sec. 3. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as DNI pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as DNI unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting DNI.
+
+Sec. 4. This memorandum supersedes the President's memorandum of December 20, 2005 (Designation of Officers of the Office of the Director of National Intelligence to Act as Director of National Intelligence).
+
+Sec. 5. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 6. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Social Security Administration to Act as the Commissioner of Social Security
+
+Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, which provided for a designation of officers of the Social Security Administration, was superseded by Memorandum of President of the United States, §3, Oct. 17, 2008, 73 F.R. 62845, set out below.
+
+Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, provided:
+
+Memorandum for the Commissioner of Social Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Social Security Administration, in the order listed, shall act as and perform the functions and duties of the office of the Commissioner of Social Security (Commissioner), during any period in which both the Commissioner and Deputy Commissioner have died, resigned, or become otherwise unable to perform the functions and duties of the office of the Commissioner, until such time as the Commissioner or Deputy Commissioner are able to perform the duties of that office:
+
+(a) Chief of Staff;
+
+(b) Deputy Commissioner for Operations;
+
+(c) Deputy Commissioner for Budget, Finance and Management;
+
+(d) Deputy Commissioner for Systems;
+
+(e) Deputy Commissioner for Quality Performance;
+
+(f) Regional Commissioner, Atlanta; and
+
+(g) Regional Commissioner, Dallas.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as Commissioner pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Commissioner unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains the discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Commissioner.
+
+Sec. 3. This memorandum supersedes the President's Memorandum of April 17, 2006 (Designation of Officers of the Social Security Administration).
+
+Sec. 4. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the Pension Benefit Guaranty Corporation To Act As Director of the Pension Benefit Guaranty Corporation
+
+Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, provided:
+
+Memorandum for the Director of the Pension Benefit Guaranty Corporation
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the following officials of the Pension Benefit Guaranty Corporation, in the order listed, shall act as and perform the functions and duties of the office of the Director of the Pension Benefit Guaranty Corporation (Director), during any period in which the Director has died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, until such time as the Director is able to perform the functions and duties of that office:
+
+(a) Deputy Director for Operations;
+
+(b) Chief Management Officer;
+
+(c) Chief Operating Officer; and
+
+(d) General Counsel.
+
+Sec. 2. <i>Exceptions</i>. \[(\]a) No individual who is serving in an office listed in section 1 in an acting capacity, byvirtue of so serving, shall act as the Director pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Director unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Director.
+
+Sec. 3. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, it \[sic\] agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Designation of Officers of the United States Agency for International Development To Act As Administrator
+
+Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75535, provided:
+
+Memorandum for the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Vacancies Reform Act of 1998, 5 U.S.C. 3345 <i>et seq</i>., it is hereby ordered that:
+
+Section 1. <i>Order of Succession</i>. Subject to the provisions of section 2 of this memorandum, the Assistant Administrators for the Bureaus, in the order in which they were appointed as an Assistant Administrator, shall act as and perform the functions and duties of the office of the Administrator (Administrator), during any period in which the Administrator and the Deputy Administrator have died, resigned, or otherwise become unable to perform the functions and duties of the office of Administrator, until such time as the Administrator or Deputy Administrator are able to perform the functions and duties of that office:
+
+(a) Bureau for Africa;
+
+(b) Bureau for Asia;
+
+(c) Bureau for Democracy, Conflict, and Humanitarian Assistance;
+
+(d) Bureau for Economic Growth, Agriculture, and Trade;
+
+(e) Bureau for Europe and Eurasia;
+
+(f) Bureau for Global Health;
+
+(g) Bureau for Latin America and the Caribbean;
+
+(h) Bureau for Legislative and Public Affairs;
+
+(i) Bureau for Management; and
+
+(j) Bureau for the Middle East.
+
+Sec. 2. <i>Exceptions</i>. (a) No individual who is serving in an office listed in section 1 in an acting capacity, by virtue of so serving, shall act as the Administrator pursuant to this memorandum.
+
+(b) No individual listed in section 1 shall act as Administrator unless that individual is otherwise eligible to so serve under the Federal Vacancies Reform Act of 1998.
+
+(c) Notwithstanding the provisions of this memorandum, the President retains discretion, to the extent permitted by law, to depart from this memorandum in designating an acting Administrator.
+
+Sec. 3. This memorandum supersedes the President's memorandum of July 10, 2002, (Designation of Officers of the United States Agency for International Development to Act as Administrator).
+
+Sec. 4. This memorandum is intended to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, it \[sic\] agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 5. You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

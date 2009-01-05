@@ -34,7 +34,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determinedwith reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
+&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
 
 &emsp;&emsp;(B) The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
 

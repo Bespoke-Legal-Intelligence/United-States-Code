@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iv) provide, directly and through their providers and institutional contractors, for services to identify pregnant women and infants who are eligible for medical assistance under subparagraph (A) or (B) of section 1396a(<i>l</i>)(1) of this title and, once identified, to assist them in applying for such assistance.
 
-> The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.
+> The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal orother public agency) during its development and after its transmittal.
 
 (b) The Secretary may waive the requirements under subsection (a)(3) of this section that a State's application for a fiscal year provide for the use of funds for specific activities if for that fiscal year—
 
@@ -92,7 +92,7 @@ Subsec. (a)(1). Pub. L. 101–239, §6503(b)(4), added par. (1) and struck out f
 
 Subsec. (a)(2) to (4). Pub. L. 101–239, §6503(b)(4), added pars. (2) to (4) and redesignated former par. (2) as (5).
 
-Subsec. (a)(5). Pub. L. 101–239, §6503(b)(5)(A), (6), in introductory provisions, substituted “provides” for “astatement of assurances that represents to the Secretary”, and in concluding provisions, substituted “The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.” for “The description and statement shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and statement and after its transmittal. The description and statement shall be revised (consistent with this section) throughout the year as may be necessary to reflect substantial changes in any element of such description or statement, and any revision shall be subject to the requirements of the preceding sentence.”
+Subsec. (a)(5). Pub. L. 101–239, §6503(b)(5)(A), (6), in introductory provisions, substituted “provides” for “a statement of assurances that represents to the Secretary”, and in concluding provisions, substituted “The application shall be developed by, or in consultation with, the State maternal and child health agency and shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during its development and after its transmittal.” for “The description and statement shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and statement and after its transmittal. The description and statement shall be revised (consistent with this section) throughout the year as may be necessary to reflect substantial changes in any element of such description or statement, and any revision shall be subject to the requirements of the preceding sentence.”
 
 Pub. L. 101–239, §6503(b)(4), redesignated former par. (2) as (5).
 

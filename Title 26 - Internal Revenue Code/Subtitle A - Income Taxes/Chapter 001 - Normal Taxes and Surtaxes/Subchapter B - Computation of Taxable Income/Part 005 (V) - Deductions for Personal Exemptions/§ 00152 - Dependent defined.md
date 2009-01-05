@@ -46,9 +46,11 @@ For purposes of this section—
 
 &emsp;&emsp;(B) who has the same principal place of abode as the taxpayer for more than one-half of such taxable year,
 
-&emsp;&emsp;(C) who meets the age requirements of paragraph (3), and
+&emsp;&emsp;(C) who meets the age requirements of paragraph (3),
 
-&emsp;&emsp;(D) who has not provided over one-half of such individual's own support for the calendar year in which the taxable year of the taxpayer begins.
+&emsp;&emsp;(D) who has not provided over one-half of such individual's own support for the calendar year in which the taxable year of the taxpayer begins, and
+
+&emsp;&emsp;(E) who has not filed a joint return (other than only for a claim of refund) with the individual's spouse under section 6013 for the taxable year beginning in the calendar year in which the taxable year of the taxpayer begins.
 
 #### (2) Relationship
 
@@ -62,7 +64,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(C), an individual meets the requirements of this paragraph if such individual—
+&emsp;&emsp;For purposes of paragraph (1)(C), an individual meets the requirements of this paragraph if such individual is younger than the taxpayer claiming such individual as a qualifying child and—
 
 &emsp;&emsp;&emsp;(i) has not attained the age of 19 as of the close of the calendar year in which the taxable year of the taxpayer begins, or
 
@@ -72,11 +74,11 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during such calendar year, the requirements of subparagraph (A) shall be treated as met with respect to such individual.
 
-#### (4) Special rule relating to 2 or more claiming qualifying child
+#### (4) Special rule relating to 2 or more who can claim the same qualifying child
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if (but for this paragraph) an individual maybe and is claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), if (but for this paragraph) an individual may be claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
 
 &emsp;&emsp;&emsp;(i) a parent of the individual, or
 
@@ -89,6 +91,10 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(i) the parent with whom the child resided for the longest period of time during the taxable year, or
 
 &emsp;&emsp;&emsp;(ii) if the child resides with both parents for the same amount of time during such taxable year, the parent with the highest adjusted gross income.
+
+#### (C) No parent claiming qualifying child
+
+&emsp;&emsp;If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
 
 #### (d) Qualifying relative
 
@@ -320,9 +326,19 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980.)
 
 #### Amendments
+
+2008—Subsec. (c)(1)(E). Pub. L. 110–351, §501(b), added subpar. (E).
+
+Subsec. (c)(3)(A). Pub. L. 110–351, §501(a), inserted “is younger than the taxpayer claiming such individual as a qualifying child and” after “such individual” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 110–351, §501(c)(2)(B)(ii), substituted “who can claim the same” for “claiming” in heading.
+
+Subsec. (c)(4)(A). Pub. L. 110–351, §501(c)(2)(B)(i), substituted “Except as provided in subparagraphs (B) and (C), if (but for this paragraph) an individual may be claimed as a qualifying child by 2 or more taxpayers” for “Except as provided in subparagraph (B), if (but for this paragraph) an individual may be and is claimed as a qualifying child by 2 or more taxpayers” in introductory provisions.
+
+Subsec. (c)(4)(C). Pub. L. 110–351, §501(c)(2)(A), added subpar. (C).
 
 2005—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text consisted of pars. (1) to (4) relating to special rule for divorced parents, requirements for divorced parents, definitions of custodial and noncustodial parent, and exception for multiple-support agreements.
 
@@ -334,13 +350,13 @@ Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted “section 151(c)(4)�
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
 
-1984—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+1984—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve moresupport claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted “section 213(d)(5)” for “section 213(d)(4)”.
 
 1976—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted “section 143” for “section 153”.
 
-Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, whowere members of taxpayer's household, before receiving institutional care.
+Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, who were members of taxpayer's household, before receiving institutional care.
 
 Subsec. (b)(3). Pub. L. 94–455, §1901(a)(24)(B), among other changes struck out “of the Canal Zone, or of the Republic of Panama” after “country contiguous to the United States,” and provisions relating to children born or adopted in Philippines.
 
@@ -369,6 +385,10 @@ Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provis
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 
 1955—Subsec. (b)(3). Act Aug. 9, 1955, substituted “January 1, 1956” for “July 5, 1946”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–351 applicable to taxable years beginning after Dec. 31, 2008, see section 501(d) of Pub. L. 110–351, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
 #### Effective Date of 2005 Amendment
 

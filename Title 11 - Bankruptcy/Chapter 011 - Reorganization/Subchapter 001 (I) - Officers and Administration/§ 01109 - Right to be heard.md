@@ -10,7 +10,7 @@
 
 I74legislative statements
 
-Section 1109 of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. As previously discussed the section gives the Securities and Exchange Commission the right to appear and be heard and to raise any issue in a case under chapter 11; however, the Securities and Exchange Commission is not a party in interest and the Commission may not appeal from any judgment, order, or decree entered in the case. Under section 1109(b) a party in interest, including the debtor, the trustee, creditors committee, equity securities holders committee, a creditor, an equity security holder, or an indentured trustee, may raise and may appear and be heard on any issue in a case under chapter 11. Section 1109(c) of the Senate amendment has been moved to subchapter IV pertaining to Railroad Reorganizations.
+Section 1109 of the House amendment represents a compromise between comparable provisions in the House bill and Senate amendment. As previously discussed the section gives the Securities and Exchange Commission the right to appear and be heard and to raise any issue in a case under chapter 11; however, the Securities and Exchange Commission is not a party in interest and the Commission may not appeal from any judgment, order, or decree entered in the case. Under section 1109(b) a party in interest, including the debtor,the trustee, creditors committee, equity securities holders committee, a creditor, an equity security holder, or an indentured trustee, may raise and may appear and be heard on any issue in a case under chapter 11. Section 1109(c) of the Senate amendment has been moved to subchapter IV pertaining to Railroad Reorganizations.
 
 #### senate report no. 95–989
 

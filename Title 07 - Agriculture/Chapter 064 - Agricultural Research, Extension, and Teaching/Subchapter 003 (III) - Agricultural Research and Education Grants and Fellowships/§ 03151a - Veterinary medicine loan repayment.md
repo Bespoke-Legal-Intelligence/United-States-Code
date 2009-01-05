@@ -22,15 +22,11 @@
 
 #### (b) Determination of veterinarian shortage situations
 
-In determining “veterinarian shortage situations” the Secretary may consider the following:
+In determining “veterinarian shortage situations”, the Secretary may consider—
 
-&emsp;(1) Urban or rural areas that the Secretary determines have a shortage of veterinarians.
+&emsp;(1) geographical areas that the Secretary determines have a shortage of veterinarians; and
 
-&emsp;(2) Areas of veterinary practice that the Secretary determines have a shortage of veterinarians, such as public health, epidemiology, and food safety.
-
-&emsp;(3) Areas of veterinary need in the Federal Government.
-
-&emsp;(4) Other factors that the Secretary considers to be relevant.
+&emsp;(2) areas of veterinary practice that the Secretary determines have a shortage of veterinarians, such as food animal medicine, public health, epidemiology, and food safety.
 
 #### (c) Administration
 
@@ -78,9 +74,41 @@ In determining “veterinarian shortage situations” the Secretary may consider
 
 &emsp;In addition to educational loan repayments, the Secretary shall make such additional payments to participants as the Secretary determines to be appropriate for the purpose of providing reimbursements to participants for individual tax liability resulting from participation in this program.
 
-#### (d) Authorization of appropriations
+#### (8) Priority
+
+&emsp;In administering the program, the Secretary shall give priority to agreements with veterinarians for the practice of food animal medicine in veterinarian shortage situations.
+
+#### (d) Use of funds
+
+None of the funds appropriated to the Secretary under subsection (f) may be used to carry out section 5379 of title 5.
+
+#### (e) Regulations
+
+Notwithstanding subchapter II of chapter 5 of title 5, not later than 270 days after the date of enactment of this subsection, the Secretary shall promulgate regulations to carry out this section.
+
+#### (f) Authorization of appropriations
 
 There are authorized to be appropriated for carrying out this section such sums as may be necessary and such sums shall remain available to the Secretary for the purposes of this section until expended.
 
-(Pub. L. 95–113, title XIV, §1415A, as added Pub. L. 108–161, §2, Dec. 6, 2003, 117 Stat. 2014.)
+(Pub. L. 95–113, title XIV, §1415A, as added Pub. L. 108–161, §2, Dec. 6, 2003, 117 Stat. 2014; amended Pub. L. 110–234, title VII, §7105(a), May 22, 2008, 122 Stat. 1216; Pub. L. 110–246, §4(a), title VII, §7105(a), June 18, 2008, 122 Stat. 1664, 1977.)
+
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (e), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §7105(a)(1), added subsec. (b) and struck out former subsec. (b) which authorized the Secretary to consider certain factors in determining “veterinarian shortage situations”.
+
+Subsec. (c)(8). Pub. L. 110–246, §7105(a)(2), added par. (8).
+
+Subsecs. (d) to (f). Pub. L. 110–246, §7105(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

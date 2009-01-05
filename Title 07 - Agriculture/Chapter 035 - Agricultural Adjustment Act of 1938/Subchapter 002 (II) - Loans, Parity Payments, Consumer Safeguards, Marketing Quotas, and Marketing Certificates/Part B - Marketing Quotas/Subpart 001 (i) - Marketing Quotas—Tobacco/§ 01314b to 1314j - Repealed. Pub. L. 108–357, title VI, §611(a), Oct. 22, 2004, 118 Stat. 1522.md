@@ -20,7 +20,7 @@ Section 1314h, act Feb. 16, 1938, ch. 30, title III, §320B, as added Pub. L. 99
 
 Section 1314i, act Feb. 16, 1938, ch. 30, title III, §320C, as added Pub. L. 103–66, title I, §1106(a), Aug. 10, 1993, 107 Stat. 318; amended Pub. L. 103–465, title IV, §422(a), Dec. 8, 1994, 108 Stat. 4964, related to quantity of tobacco grown in the United States that is required to be used by a cigarette manufacturer.
 
-Section 1314j, act Feb. 16, 1938, ch. 30, title III, §320D, as added Pub. L. 106–47, §1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, §755(b), Oct. 22, 1999, 113 Stat. 1170; amended Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §211\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
+Section 1314j, act Feb. 16, 1938, ch. 30, title III, §320D, as added Pub. L. 106–47, §1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, §755(b), Oct. 22, 1999, 113Stat. 1170; amended Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §211\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
 
 #### Effective Date of Repeal
 

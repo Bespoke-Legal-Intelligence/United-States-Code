@@ -18,7 +18,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–155, Dec. 30, 2005, 119 Stat. 2895, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–155, Dec. 30, 2005, 119Stat. 2895, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

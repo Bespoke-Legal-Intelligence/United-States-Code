@@ -14,7 +14,7 @@ In addition to any other authority or requirement regarding protection from disc
 
 &emsp;(A) so as to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security, and
 
-&emsp;(B) upon a determination that the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of thepublic or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility.
+&emsp;(B) upon a determination that the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility.
 
 > Nothing in this chapter shall authorize the Commission to prohibit the public disclosure of information pertaining to the routes and quantities of shipments of source material, by-product material, high level nuclear waste, or irradiated nuclear reactor fuel. Any person, whether or not a licensee of the Commission, who violates any regulation adopted under this section shall be subject to the civil monetary penalties of section 2282 of this title. Nothing in this section shall be construed to authorize the withholding of information from the duly authorized committees of the Congress.
 
@@ -36,7 +36,7 @@ Upon prescribing or issuing any regulation or order under subsection (a) of this
 
 &emsp;(3) provides justification, including proposed alternative regulations or orders, that the regulation or order applies only the minimum restrictions needed to protect the health and safety of the public or the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §147, as added Pub. L. 96–295, title II, §207(a)(1), June 30, 1980, 94 Stat. 788; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §147, as added Pub. L. 96–295, title II, §207(a)(1), June 30, 1980, 94Stat. 788; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Codification
 

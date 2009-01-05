@@ -1,6 +1,6 @@
 ### §450cc–1. Administration, protection, and development
 
-The administration, protection, and development of the Castle Clinton National Monument shall be under the supervision of the Secretary of the Interior, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of the Castle Clinton National Monumentshall be under the supervision of the Secretary of the Interior, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
 (Aug. 12, 1946, ch. 954, §2, 60 Stat. 997.)
 

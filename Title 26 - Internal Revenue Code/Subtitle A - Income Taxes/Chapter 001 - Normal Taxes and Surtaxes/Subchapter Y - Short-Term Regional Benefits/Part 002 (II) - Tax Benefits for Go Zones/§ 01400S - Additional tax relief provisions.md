@@ -114,7 +114,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 &emsp;&emsp;&emsp;(i) in the Wilma GO Zone, or
 
-&emsp;&emsp;&emsp;(ii) in the Hurricane Wilma disaster area (but outside the Wilma GO Zone) and suchindividual was displaced from such principal place of abode by reason of Hurricane Wilma.
+&emsp;&emsp;&emsp;(ii) in the Hurricane Wilma disaster area (but outside the Wilma GO Zone) and such individual was displaced from such principal place of abode by reason of Hurricane Wilma.
 
 #### (3) Applicable date
 

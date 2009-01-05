@@ -56,7 +56,7 @@ Funds provided pursuant to this section may be used for—
 
 &emsp;&emsp;(B) instruction in methods of protecting children from abuse and neglect for persons responsible for the welfare of Indian children, including parents of, and persons who work with, Indian children, or
 
-&emsp;&emsp;(C) educational, identification, prevention and treatment services for child abuse and child neglect in cooperation with preschool, elementary and secondary schools, or tribally controlled community colleges (within the meaning of section 1801 of this title);
+&emsp;&emsp;(C) educational, identification, prevention and treatment services for child abuse and child neglect in cooperation with preschool, elementary and secondary schools, or tribally controlled college or university <sup>1</sup> (within the meaning of section 1801 of this title);
 
 &emsp;(6) other community education efforts for tribal members (including school children) regarding issues of family violence, child abuse, and child neglect; and
 
@@ -70,7 +70,7 @@ Funds provided pursuant to this section may be used for—
 
 > &emsp;that show promise of successfully preventing and treating cases of family violence, child abuse, and child neglect.
 
-#### (f) <sup>1</sup> Secretarial regulations; base support funding
+#### (f) <sup>2</sup> Secretarial regulations; base support funding
 
 (1) The Secretary, with the participation of Indian tribes, shall establish, and promulgate by regulations, a formula which establishes base support funding for Indian Child Protection and Family Violence Prevention programs.
 
@@ -92,7 +92,7 @@ Funds provided pursuant to this section may be used for—
 
 &emsp;(B) an additional child protective services and family violence caseworker, including fringe benefits and support costs, for each level of assistance for which an Indian tribe qualifies.
 
-(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programsat each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
+(5) In any fiscal year that appropriations are not sufficient to fully fund Indian Child Protection and Family Violence Prevention programs at each level of assistance under the formula required to be established in this subsection, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
 
 #### (g) Maintenance of effort
 
@@ -128,13 +128,15 @@ Each recipient of funds awarded pursuant to subsection (a) of this section shall
 
 There are authorized to be appropriated to carry out the provisions of this section $30,000,000 for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 101–630, title IV, §411, Nov. 28, 1990, 104 Stat. 4553; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(J), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (d)(5)(C). Pub. L. 110–315 substituted “tribally controlled college or university (within the meaning of section 1801 of this title)” for “tribally controlled community colleges (within the meaning of section 1801 of this title)”.
 
 1998—Subsec. (d)(5)(C). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of this title.
 
@@ -144,5 +146,7 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “colleges or universities”.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
 

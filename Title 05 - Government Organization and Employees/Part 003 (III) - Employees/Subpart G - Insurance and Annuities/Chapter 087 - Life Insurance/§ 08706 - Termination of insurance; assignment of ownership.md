@@ -20,7 +20,7 @@
 
 (3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility to continue insurance during retirement or receipt of compensation arises, as follows:
 
-&emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reducedeach month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
+&emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reduced each month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
 
 &emsp;(B) in addition to any deductions which would be required if the insurance were continued as provided under subparagraph (A) of this paragraph, the employee may elect continuous withholdings from annuity or compensation in amounts determined by the Office, and the employee's life insurance coverage shall be either continued without reduction or reduced each month by no more than 1 percent of its face value until no less than 50 percent of the amount of insurance in force before the first reduction remains.
 
@@ -28,17 +28,25 @@
 
 (c) Notwithstanding subsections (a) and (b) of this section, an employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8701(a) of this title, within 60 days after entering on that leave without pay, may elect to continue his insurance and arrange to pay currently into the Employees’ Life Insurance Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, his insurance will continue during nonpay status and stop as provided by subsection (a) of this section.
 
-(d) If the insurance of an employee stops because of separation from the service or suspension without pay, and the separation or suspension is thereafter officially found to have been erroneous, the employee is deemed to have been insured during the period of erroneous separation or suspension. Deductions otherwise required by section 8707 of this chapter shall not be withheld from any backpay awarded for the period of separation or suspension unless death or accidental dismemberment of the employee occurs during such period.
+(d)(1) An employee who enters on approved leave without pay in the circumstances described in paragraph (2) may elect to have such employee's life insurance continue (beyond the end of the 12 months of coverage provided for under subsection (a)) for an additional 12 months and arrange to pay currently into the Employees’ Life Insurance Fund, through such employee's employing agency, both employee and agency contributions, from the beginning of that additional 12 months of coverage. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, such employee's insurance will continue during nonpay status and stop as provided by subsection (a). An individual making an election under this subsection may cancel that election at any time, in which case such employee's insurance will stop as provided by subsection (a) or upon receipt of notice of cancellation, whichever is later.
 
-(e)(1) Under regulations prescribed by the Office, each policy purchased under this chapter shall provide that an insured employee or former employee may make an irrevocable assignment of the employee's or former employee's incidents of ownership in the policy.
+(2) This subsection applies in the case of any employee who—
+
+&emsp;(A) is a member of a reserve component of the armed forces called or ordered to active duty under a call or order that does not specify a period of 30 days or less; and
+
+&emsp;(B) enters on approved leave without pay to perform active duty pursuant to such call or order.
+
+(e) If the insurance of an employee stops because of separation from the service or suspension without pay, and the separation or suspension is thereafter officially found to have been erroneous, the employee is deemed to have been insured during the period of erroneous separation or suspension. Deductions otherwise required by section 8707 of this chapter shall not be withheld from any backpay awarded for the period of separation or suspension unless death or accidental dismemberment of the employee occurs during such period.
+
+(f)(1) Under regulations prescribed by the Office, each policy purchased under this chapter shall provide that an insured employee or former employee may make an irrevocable assignment of the employee's or former employee's incidents of ownership in the policy.
 
 (2) A court decree of divorce, annulment, or legal separation, or the terms of a court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation, may direct that an insured employee or former employee make an irrevocable assignment of the employee's or former employee's incidents of ownership in insurance under this chapter (if there is no previous assignment) to the person specified in the court order or court-approved property settlement agreement.
 
-(f) If the insurance of a former employee receiving a disability annuity under section 8337 of this title stops because of the termination of such annuity, and such annuity is thereafter restored under the second or third sentence of subsection (e) of such section, such former employee may, under regulations prescribed by the Office, elect to resume the insurance coverage which was so stopped.
+(g) If the insurance of a former employee receiving a disability annuity under section 8337 of this title stops because of the termination of such annuity, and such annuity is thereafter restored under the second or third sentence of subsection (e) of such section, such former employee may, under regulations prescribed by the Office, elect to resume the insurance coverage which was so stopped.
 
-(g) The insurance of an employee under a policy purchased under section 8709 shall not be invalidated based on a finding that the employee erroneously became insured, or erroneously continued insurance upon retirement or entitlement to compensation under subchapter I of chapter 81 of this title, if such finding occurs after the erroneous insurance and applicable withholdings have been in force for 2 years during the employee's lifetime.
+(h) The insurance of an employee under a policy purchased under section 8709 shall not be invalidated based on a finding that the employee erroneously became insured, or erroneously continued insurance upon retirement or entitlement to compensation under subchapter I of chapter 81 of this title, if such finding occurs after the erroneous insurance and applicable withholdings have been in force for 2 years during the employee's lifetime.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, §1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, §3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, §207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, §2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, §4, Oct. 3, 1994, 108 Stat. 2662; Pub. L. 105–205, §2, July 22, 1998, 112 Stat. 683; Pub. L. 105–311, §5, Oct. 30, 1998, 112 Stat. 2951.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, §1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, §3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, §207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, §2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, §4, Oct. 3, 1994, 108 Stat. 2662; Pub. L. 105–205, §2, July 22, 1998, 112 Stat. 683; Pub. L. 105–311, §5, Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–181, div. A, title XI, §1102, Jan. 28, 2008, 122 Stat. 345.)
 
 Historical and Revision Notes<br>1966
 
@@ -101,6 +109,8 @@ July 18, 1966, Pub. L. 89–504, §406(a), 80 Stat. 298.
 The words “subsections (a)–(c) of this section” are substituted for “the foregoing” to reflect the codification of former 5 U.S.C. 2095. The word “officer” is omitted as included in “employee.” The words “as defined by section 8701(a) of this title” are substituted for “as defined in section 2 of the Act” to reflect the codification of that section in 5 U.S.C. 8701(a). The words “Employees’ Life Insurance Fund” and “Fund” are substituted for “fund” and “fund established by section 5 of this Act”, respectively.
 
 #### Amendments
+
+2008—Subsecs. (d) to (h). Pub. L. 110–181 added subsec. (d) and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
 1998—Subsec. (e). Pub. L. 105–205 designated existing provisions as par. (1) and added par. (2).
 
@@ -174,7 +184,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 Section 209 of Pub. L. 98–353 provided that:
 
-“(a) Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchasedby judges after the date of enactment of this Act \[July 10, 1984\].
+“(a) Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchased by judges after the date of enactment of this Act \[July 10, 1984\].
 
 “(b) If a company which issued a policy which is in effect on the date of the enactment of this Act agrees, the amendments made by this Act \[probably should be ‘made by this Act to section 8706 of title 5’\] shall apply to such policy.”
 
@@ -194,7 +204,7 @@ Section 3(c) of Pub. L. 99–53 provided that:
 
 “(1) The amendments made by this section \[amending this section and section 8908 of this title\] shall apply with respect to any individual whose disability annuity is or was restored under section 8337(e) of title 5, United States Code, after December 31, 1983.
 
-“(2)(A) The Office of Personnel Management shall notify each individual under subparagraph (B) of any rights which such individual may have under section 8706(g) or section 8908(c) of title 5, United States Code, as amended by this section, including any procedures or deadlines which may apply with respect to the exercise of those rights.
+“(2)(A) The Office of Personnel Management shall notify each individual under subparagraph (B) of anyrights which such individual may have under section 8706(g) or section 8908(c) of title 5, United States Code, as amended by this section, including any procedures or deadlines which may apply with respect to the exercise of those rights.
 
 “(B) Notification under this paragraph shall be provided to any individual who, as of the 90th day after the date of enactment of this Act \[June 17, 1985\], is receiving a disability annuity which was restored to such individual under section 8337(e) of title 5, United States Code, after December 31, 1983.
 

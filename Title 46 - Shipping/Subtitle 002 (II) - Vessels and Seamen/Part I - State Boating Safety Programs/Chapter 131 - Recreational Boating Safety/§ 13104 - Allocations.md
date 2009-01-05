@@ -58,5 +58,5 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to f
 
 #### Payment of Administrative Costs; Retention of Amount Prior to Allocations
 
-Pub. L. 99–640, §7(d), Nov. 10, 1986, 100 Stat. 3548, which related to retention of amounts appropriated forState recreational boating safety programs prior to making allocations for a fiscal year, was repealed by Pub. L. 100–448, §6(b)(1)(B), Sept. 28, 1988, 102 Stat. 1840.
+Pub. L. 99–640, §7(d), Nov. 10, 1986, 100 Stat. 3548, which related to retention of amounts appropriated for State recreational boating safety programs prior to making allocations for a fiscal year, was repealed by Pub. L. 100–448, §6(b)(1)(B), Sept. 28, 1988, 102 Stat. 1840.
 

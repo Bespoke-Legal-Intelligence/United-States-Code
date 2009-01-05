@@ -134,7 +134,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 #### References in Text
 
-Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating toauthority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
+Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
@@ -198,7 +198,7 @@ Pub. L. 105–276, title V, §513(b), Oct. 21, 1998, 112 Stat. 2547, provided th
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 

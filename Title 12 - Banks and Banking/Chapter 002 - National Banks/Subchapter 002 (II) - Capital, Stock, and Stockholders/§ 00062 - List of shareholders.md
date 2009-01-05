@@ -14,7 +14,7 @@ R.S. §5210 derived from act June 3, 1864, ch. 106, §40, 13 Stat. 111, which wa
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 #### Application to District of Columbia
 

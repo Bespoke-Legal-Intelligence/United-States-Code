@@ -2,7 +2,7 @@
 
 (a)
 
-Review and Revision of Existing Regulations.—The Secretary of Transportation shall review existing regulations on railroad power brakes and, not later than December 31, 1993, revise the regulations based on safety informationpresented during the review. Where applicable, the Secretary shall prescribe regulations that establish standards on dynamic braking equipment.
+Review and Revision of Existing Regulations.—The Secretary of Transportation shall review existing regulations on railroad power brakes and, not later than December 31, 1993, revise the regulations based on safety information presented during the review. Where applicable, the Secretary shall prescribe regulations that establish standards on dynamic braking equipment.
 
 (b) 2-
 

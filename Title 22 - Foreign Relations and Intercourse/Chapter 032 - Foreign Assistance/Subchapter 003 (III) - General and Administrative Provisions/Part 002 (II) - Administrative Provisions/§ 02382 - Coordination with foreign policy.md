@@ -6,7 +6,7 @@ Nothing contained in this chapter shall be construed to infringe upon the powers
 
 #### (b) Coordination among representatives of United States
 
-The President shall prescribe appropriate procedures to assure coordination among representatives of the United States Government in eachcountry, under the leadership of the Chief of the United States Diplomatic Mission. The Chief of the diplomatic mission shall make sure that recommendations of such representatives pertaining to military assistance (including civic action) and military education and training programs are coordinated with political and economic considerations, and his comments shall accompany such recommendations if he so desires.
+The President shall prescribe appropriate procedures to assure coordination among representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission. The Chief of the diplomatic mission shall make sure that recommendations of such representatives pertaining to military assistance (including civic action) and military education and training programs are coordinated with political and economic considerations, and his comments shall accompany such recommendations if he so desires.
 
 #### (c) Responsibility for supervision and general direction of assistance programs
 
@@ -56,7 +56,7 @@ Section 1. <i>Functions of the Chief of the United States Diplomatic Mission</i>
 
 (3) Assuring that the interpretations and application of instructions received by the United States representatives from higher authority are in accordance with the established policy of the United States.
 
-(4) Guiding the United States representatives in working out measures to prevent duplication in their efforts and to promote the most effective and efficient use of all United States officers and employees having mutual security responsibilities.
+(4) Guiding the United States representatives in working out measures to prevent duplication in theirefforts and to promote the most effective and efficient use of all United States officers and employees having mutual security responsibilities.
 
 (5) Keeping the United States representatives fully informed as to current and prospective United States policies.
 

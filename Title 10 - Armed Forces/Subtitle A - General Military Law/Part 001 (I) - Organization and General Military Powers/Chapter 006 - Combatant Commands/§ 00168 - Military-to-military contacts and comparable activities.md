@@ -34,6 +34,8 @@ Authorized Activities.—An official provided funds under subsection (b) may use
 
 &emsp;(8) Reimbursement of military personnel appropriations accounts for the pay and allowances paid to reserve component personnel for service while engaged in any activity referred to in another paragraph of this subsection.
 
+&emsp;(9) The assignment of personnel described in paragraph (3) or (4) on a non-reciprocal basis if the Secretary of Defense determines that such an assignment, rather than an exchange of personnel, is in the interests of the United States.
+
 (d)
 
 Relationship to Other Funding.—Any amount provided during any fiscal year to an official under subsection (b) for an activity or expense referred to in subsection (c) shall be in addition to amounts otherwise available for those activities and expenses for that fiscal year.
@@ -52,6 +54,8 @@ Limitations.—(1) Funds may not be provided under this section for a fiscal yea
 
 (4) Except for those activities specifically authorized under subsection (c), funds may not be used under this section for the provision of defense articles or defense services to any country or for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
+(5) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs or activities under this section that begin in a fiscal year and end in the following fiscal year.
+
 (f)
 
 Active Duty End Strengths.—A member of a reserve component who is engaged in activities authorized under this section shall not be counted for purposes of the following personnel strength limitations:
@@ -66,13 +70,17 @@ Active Duty End Strengths.—A member of a reserve component who is engaged in a
 
 Military-to-Military Contacts Defined.—In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
 
-(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868.)
+(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, §1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, \[div. A\], title XII, §1202(a), Oct. 14, 2008, 122 Stat. 4622.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(9). Pub. L. 110–181 added par. (9).
+
+Subsec. (e)(5). Pub. L. 110–417 added par. (5).
 
 2004—Subsec. (f). Pub. L. 108–375 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -87,6 +95,10 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. 
 “(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.”
 
 1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title XII, §1202(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under section 168 of title 10, United States Code, as so amended, that begin on or after that date.”
 
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 
@@ -130,7 +142,7 @@ Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanita
 
 “(d)
 
-Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
+Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, notlater than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
 
 “(e)
 

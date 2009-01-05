@@ -108,7 +108,7 @@ The Chief of the Capitol Police shall submit the plan required in subsection (d)
 
 As of October 1, 2002, the role of the Comptroller General, as established by this section, will cease.
 
-(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346,§101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
 
 #### Codification
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 109–55 effective Aug. 2, 2005, see section 1909(f) of thi
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–7 applicable with respect to the first pay period beginning on or after Feb. 20,2003, see section 1013(d) of Pub. L. 108–7, set out as a note under section 1902 of this title.
+Amendment by Pub. L. 108–7 applicable with respect to the first pay period beginning on or after Feb. 20, 2003, see section 1013(d) of Pub. L. 108–7, set out as a note under section 1902 of this title.
 
 #### Effective Date of 2001 Amendment
 

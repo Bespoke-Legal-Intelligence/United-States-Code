@@ -14,7 +14,7 @@ In general.—The term “Indian tribe” means any Indian tribe, band, nation, 
 
 Inclusions.—The term “Indian tribe” includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
 
-&emsp;(2) The term “nonoperational storage tank” means any underground storage tank in whichregulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
+&emsp;(2) The term “nonoperational storage tank” means any underground storage tank in which regulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
 
 &emsp;(3) The term “operator” means any person in control of, or having responsibility for, the daily operation of the underground storage tank.
 
@@ -68,7 +68,7 @@ Trust fund.—The term “Trust Fund” means the Leaking Underground Storage Ta
 
 > &emsp;The term “underground storage tank” shall not include any pipes connected to any tank which is described in subparagraphs (A) through (I).
 
-(Pub. L. 89–272, title II, §9001, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3277; amended Pub. L. 99–499, title II, §205(a), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 102–508, title III, §302, Oct. 24, 1992, 106 Stat. 3307; Pub. L. 103–429, §7(d), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 109–58, title XV, §§1532(a), 1533(1), Aug. 8, 2005, 119 Stat. 1104, 1105.)
+(Pub. L. 89–272, title II, §9001, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3277;amended Pub. L. 99–499, title II, §205(a), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 102–508, title III, §302, Oct. 24, 1992, 106 Stat. 3307; Pub. L. 103–429, §7(d), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 109–58, title XV, §§1532(a), 1533(1), Aug. 8, 2005, 119 Stat. 1104, 1105.)
 
 #### References in Text
 

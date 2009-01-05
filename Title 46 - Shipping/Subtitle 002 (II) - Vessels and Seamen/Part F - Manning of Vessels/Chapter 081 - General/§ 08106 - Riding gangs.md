@@ -26,7 +26,7 @@ In General.—The owner or managing operator of a freight vessel of the United S
 
 &emsp;&emsp;(D) the information derived from any such background check is made available to the Secretary upon request;
 
-&emsp;(3) ensure that each riding gang member, while on board the vessel, is subject to the same random chemical testing and reporting regimes as crew members;
+&emsp;(3) ensure that each riding gang member, while on board the vessel, is subject to thesame random chemical testing and reporting regimes as crew members;
 
 &emsp;(4) ensure that each such riding gang member receives basic safety familiarization and basic safety training approved by the Coast Guard as satisfying the requirements for such training under the International Convention of Training, Certification, and Watchkeeping for Seafarers, 1978;
 

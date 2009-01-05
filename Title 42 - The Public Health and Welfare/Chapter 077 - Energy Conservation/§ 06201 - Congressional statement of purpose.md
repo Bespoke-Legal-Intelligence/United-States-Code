@@ -38,7 +38,7 @@ Par. (6). Pub. L. 106–469, §102(2), struck out par. (6) which read as follows
 
 Pub. L. 106–469, §1, Nov. 9, 2000, 114 Stat. 2029, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Act of 2000’.”
 
-Pub. L. 106–469, title I, §101, Nov. 9, 2000, 114 Stat. 2029, provided that: “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264,6281 and 6282 of this title, and repealing provisions set out as notes under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
+Pub. L. 106–469, title I, §101, Nov. 9, 2000, 114 Stat. 2029, provided that: “This title \[amending this section and sections 6231, 6232, 6234, 6239 to 6241, 6245 to 6247, 6249, 6249a, 6251, 6276 and 6285 of this title, repealing sections 6211, 6214, 6233, 6235 to 6238, 6244, 6249b, 6261 to 6264, 6281 and 6282 of this title, and repealing provisions set out as notes under section 2071 of Title 50, Appendix, War and National Defense\] may be cited as the ‘Energy Policy and Conservation Act Amendments of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -84,7 +84,7 @@ Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) of title X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
+Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) oftitle X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting provisions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
 
 #### Short Title
 
@@ -266,7 +266,7 @@ Termination or Suspension.—
 
 &emsp;“(1)
 
-In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conductedby an independent auditing firm selected by the Alliance, to determine whether the oilheat industry favors termination or suspension of the Alliance.
+In general.—On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Alliance, to determine whether the oilheat industry favors termination or suspension of the Alliance.
 
 &emsp;“(2)
 
@@ -712,7 +712,7 @@ In general.—A public utility that is aggrieved by a violation described in sub
 
 &emsp;“(2)
 
-Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking the consumer education activity with respect to which the complaint is made.
+Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking theconsumer education activity with respect to which the complaint is made.
 
 &emsp;“(3)
 
@@ -760,7 +760,7 @@ Meritorious case.—In a case in Federal court in which the court grants a publi
 
 &emsp;“(2)
 
-Nonmeritorious case.—In any case under subsection (d) in which the court determines a complaintunder subsection (b) to be frivolous and without merit, the prevailing party shall be entitled to recover an attorney's fee.
+Nonmeritorious case.—In any case under subsection (d) in which the court determines a complaint under subsection (b) to be frivolous and without merit, the prevailing party shall be entitled to recover an attorney's fee.
 
 “(f)
 
@@ -794,7 +794,7 @@ Sec. 5. The Secretary of State is hereby delegated the authority vested in the P
 
 Sec. 6. The Secretary of Energy is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by:
 
-(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
+(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretaryshall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 U.S.C. App. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
 
 (b) Section 253(c) of the Energy Policy and Conservation Act (89 Stat. 898, 42 U.S.C. 6273);
 
@@ -810,7 +810,7 @@ Secs. 7 and 8. Revoked by Ex. Ord. No. 12919, §904(a)(7), June 3, 1994, 59 F.R.
 
 Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to the date of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
-Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and UrbanDevelopment, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
+Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
 
 (2) The goals established in subsection (b) shall apply to the following categories of Federally-owned buildings: (i) office buildings, (ii) hospitals, (iii) schools, (iv) prison facilities, (v) multi-family dwellings, (vi) storage facilities, and (vii) such other categories of buildings for which the Administrator determines the establishment of energy-efficiency performance goals is feasible.
 
@@ -850,7 +850,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 #### Executive Order No. 12759
 
-Ex. Ord. No. 12759, Apr. 17, 1991, 56 F.R. 16257, as amended by Ex. Ord. No. 12902, §701, Mar. 8, 1994, 59 F.R. 11471, which provided for minimization of petroleumuse in Federal facilities, vehicle fuel efficiency outreach programs, and Federal vehicle fuel efficiency, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
+Ex. Ord. No. 12759, Apr. 17, 1991, 56 F.R. 16257, as amended by Ex. Ord. No. 12902, §701, Mar. 8, 1994, 59 F.R. 11471, which provided for minimization of petroleum use in Federal facilities, vehicle fuel efficiency outreach programs, and Federal vehicle fuel efficiency, was revoked by Ex. Ord. No. 13123, §604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under section 8251 of this title.
 
 #### Executive Order No. 12902
 

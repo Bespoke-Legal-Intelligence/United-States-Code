@@ -34,7 +34,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 (6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
 
-(7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who arepaid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
+(7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
 
 #### (c) Rules relating to electioneering communications
 

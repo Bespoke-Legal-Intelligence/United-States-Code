@@ -1,10 +1,12 @@
 ### §1131f. Authorization of appropriations
 
-There is authorized to be appropriated $10,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this part.
+There is authorized to be appropriated such sums as may be necessary for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years to carry out this part.
 
-(Pub. L. 89–329, title VI, §628, formerly §627, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; renumbered §628, and amended Pub. L. 105–244, title VI, §603(b)(1), (g), Oct. 7, 1998, 112 Stat. 1783, 1786.)
+(Pub. L. 89–329, title VI, §629, formerly §627, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; renumbered §628, and amended Pub. L. 105–244, title VI, §603(b)(1), (g), Oct. 7, 1998, 112 Stat. 1783, 1786; renumbered §629 and amended Pub. L. 110–315, title VI, §§617(1), 620, Aug. 14, 2008, 122 Stat. 3341, 3342.)
 
 #### Amendments
+
+2008—Pub. L. 110–315, §620, substituted “such sums as may be necessary” for “$10,000,000”, “2009” for “1999”, and “five succeeding” for “4 succeeding”.
 
 1998—Pub. L. 105–244, §603(g), substituted “1999” for “1993”.
 

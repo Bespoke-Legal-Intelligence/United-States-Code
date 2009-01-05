@@ -52,7 +52,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force, respectively, or a designee of the senior military officer concerned.
 
-&emsp;(F) The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.
+&emsp;(F) The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
 
 (2) A vacancy in a position on the Board shall be filled in the same manner as the position was originally filled.
 
@@ -78,7 +78,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 (8) Members of the Board and advisers whose services are accepted under paragraph (7) shall be allowed travel and transportation expenses, including per diem in lieu of subsistence, while away from their homes or regular places of business in the performance of services for the Board. Allowances under this paragraph shall be computed—
 
-&emsp;(A) in the case of members of the Board who are officers or employees of the United States, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
+&emsp;(A) in the case of members of the Board who are officers or employees of the United States,at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5; and
 
 &emsp;(B) in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
 
@@ -110,13 +110,15 @@ Tuition.—Tuition fees charged for persons who attend the Institute may not inc
 
 Annual Report.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report. The report shall be prepared in consultation with the Secretary of State.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, §932, Dec. 2, 2002, 116 Stat. 2625.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, §932, Dec. 2, 2002, 116 Stat. 2625; Pub. L. 110–181, div. A, title IX, §956, Jan. 28, 2008, 122 Stat. 296.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
 
 2002—Subsecs. (f) to (h). Pub. L. 107–314, §932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 

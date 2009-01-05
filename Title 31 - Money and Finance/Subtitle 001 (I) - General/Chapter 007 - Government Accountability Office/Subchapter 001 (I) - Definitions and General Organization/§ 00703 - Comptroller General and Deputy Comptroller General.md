@@ -110,7 +110,7 @@ In subsection (b), the words “the term of . . . is 15 years” are substitut
 
 In subsection (c), the words “carries out duties and powers prescribed” are substituted for “perform such duties as may be assigned” for consistency. The words “to him” are omitted as surplus.
 
-In subsection (d), the words “officer or” are added for consistency in the revised title. The text of section101(last par. on p. 371 words before colon) of the Act of June 27, 1944 (ch. 286, 58 Stat. 371), is omitted as expired.
+In subsection (d), the words “officer or” are added for consistency in the revised title. The text of section 101(last par. on p. 371 words before colon) of the Act of June 27, 1944 (ch. 286, 58 Stat. 371), is omitted as expired.
 
 In subsection (e)(1), before clause (A), the words “from his office” are omitted as surplus. In clause (A), the words “and for no other cause and in no other manner” are omitted as surplus. In clause (B), before subclause (i), the words “opportunity for a” are added for consistency. The words “guilty of” are omitted as surplus. In subclause (i), the word “disability” is substituted for “incapacitated” for consistency in the chapter and with title 5. In subclause (iv), the words “in office” are omitted as surplus.
 

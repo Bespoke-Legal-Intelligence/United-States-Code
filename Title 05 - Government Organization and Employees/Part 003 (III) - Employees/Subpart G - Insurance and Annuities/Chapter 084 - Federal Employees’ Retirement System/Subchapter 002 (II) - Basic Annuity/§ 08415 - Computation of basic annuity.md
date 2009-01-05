@@ -94,11 +94,11 @@
 
 > The amount of the reduction shall be computed under regulations prescribed by the Office of Personnel Management for the administration of this subsection.
 
-(k) <sup>2</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on an immediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
+(k) <sup>2</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on animmediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
 
 (<i>l</i>) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L.107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(3), Dec. 26, 2007, 121 Stat. 2076.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(3), Dec. 26, 2007, 121 Stat. 2076.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
+Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub.L. 105–61, set out as a note under section 8334 of this title.
 
 #### Clarification Relating to Consideration of Pre-1987 Service as an Air Traffic Controller for Retirement Purposes
 

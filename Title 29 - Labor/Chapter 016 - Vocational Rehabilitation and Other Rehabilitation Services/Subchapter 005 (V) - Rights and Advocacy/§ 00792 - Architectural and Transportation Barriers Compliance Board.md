@@ -74,7 +74,7 @@ It shall be the function of the Access Board to—
 
 &emsp;&emsp;(B) minimum guidelines and requirements for the standards issued pursuant to titles II and III of the Americans with Disabilities Act of 1990;
 
-&emsp;&emsp;(C) guidelines for accessibility of telecommunications equipment and customerpremises equipment under section 255 of title 47; and
+&emsp;&emsp;(C) guidelines for accessibility of telecommunications equipment and customer premises equipment under section 255 of title 47; and
 
 &emsp;&emsp;(D) standards for accessible electronic and information technology under section 794d of this title;
 

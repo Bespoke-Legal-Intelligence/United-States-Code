@@ -44,7 +44,7 @@ In subsec. (a)(7), “chapter 51 and subchapter III of chapter 53 of title 5” 
 
 1982—Subsec. (a)(10) to (13). Pub. L. 97–369 added par. (10) and redesignated former pars. (10) to (12) as (11) to (13), respectively.
 
-1972—Subsec. (a)(7). Pub. L. 92–310 struck out provisions which empowered the Corporation to requirebonds from such officers, attorneys, and employees as the Administrator might designate.
+1972—Subsec. (a)(7). Pub. L. 92–310 struck out provisions which empowered the Corporation to require bonds from such officers, attorneys, and employees as the Administrator might designate.
 
 1957—Subsecs. (a)(10) to (12), (b). Pub. L. 85–108 added pars. (10) to (12) and subsec. (b).
 

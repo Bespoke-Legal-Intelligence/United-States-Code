@@ -6,7 +6,7 @@
 
 (2)(A) In addition to the advisers designated under paragraph (1) from the Committee on Ways and Means and the Committee on Finance—
 
-&emsp;(i) the Speaker of the House may select additional members of the House, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the House or joint committee of Congress that has jurisdiction overlegislation likely to be affected by such matters or negotiations; and
+&emsp;(i) the Speaker of the House may select additional members of the House, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the House or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations; and
 
 &emsp;(ii) the President pro tempore of the Senate may select additional members of the Senate, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the Senate or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations.
 

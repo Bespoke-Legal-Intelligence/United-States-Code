@@ -26,7 +26,7 @@ The Attorney General may make grants to eligible States, Indian tribal governmen
 
 &emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
-&emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from non-profit, non-governmental victim services organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals,civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
+&emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from non-profit, non-governmental victim services organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
 &emsp;(11) To develop and implement policies and training for police, prosecutors, probation and parole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
 
@@ -88,7 +88,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 #### References in Text
 
-January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”,which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
+January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

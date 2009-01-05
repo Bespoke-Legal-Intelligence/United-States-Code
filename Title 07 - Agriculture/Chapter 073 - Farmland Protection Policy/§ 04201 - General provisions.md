@@ -80,7 +80,7 @@ Definitions.—As used in this chapter:
 
 &emsp;“(1)
 
-Allowable interest rate.—The term ‘allowable interest rate’ refers to the interest rate that the State trust fund pays on each eligible loan (including the interest paid by the State trust fund, State, orState agency on bonds or other obligations described in paragraph (2)).
+Allowable interest rate.—The term ‘allowable interest rate’ refers to the interest rate that the State trust fund pays on each eligible loan (including the interest paid by the State trust fund, State, or State agency on bonds or other obligations described in paragraph (2)).
 
 &emsp;“(2)
 

@@ -120,6 +120,8 @@
 | [2731\.](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md) | Monitoring and combating anti-Semitism. |
 | [2732\.](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md) | Public diplomacy responsibilities of the Department of State. |
 | [2733\.](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%E2%80%99%20Retirement%20System.md) | Reemployment of annuitants under the Civil Service Retirement System and Federal Employees’ Retirement System. |
+| [2734\.](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md) | Reconstruction and stabilization. |
+| [2734a.](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md) | Authorities related to personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,3 +249,5 @@
 - [&sect; 02731 - Monitoring and combating anti-Semitism](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md)
 - [&sect; 02732 - Public diplomacy responsibilities of the Department of State](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md)
 - [&sect; 02733 - Reemployment of annuitants under the Civil Service Retirement System and Federal Employees&#8217; Retirement System](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%E2%80%99%20Retirement%20System.md)
+- [&sect; 02734 - Reconstruction and stabilization](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md)
+- [&sect; 02734a - Authorities related to personnel](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md)

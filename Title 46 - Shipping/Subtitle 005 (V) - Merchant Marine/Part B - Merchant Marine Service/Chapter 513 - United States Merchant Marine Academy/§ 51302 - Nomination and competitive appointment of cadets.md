@@ -50,7 +50,7 @@ Competitive System for Appointment.—
 
 &emsp;(1)
 
-Establishment of system.—The Secretary shall establish a competitive system forselecting individuals nominated under subsection (b) to fill the positions allocated under subsection (c). The system must determine the relative merit of each individual based on competitive examinations, an assessment of the individual's academic background, and other effective indicators of motivation and probability of successful completion of training at the Academy.
+Establishment of system.—The Secretary shall establish a competitive system for selecting individuals nominated under subsection (b) to fill the positions allocated under subsection (c). The system must determine the relative merit of each individual based on competitive examinations, an assessment of the individual's academic background, and other effective indicators of motivation and probability of successful completion of training at the Academy.
 
 &emsp;(2)
 

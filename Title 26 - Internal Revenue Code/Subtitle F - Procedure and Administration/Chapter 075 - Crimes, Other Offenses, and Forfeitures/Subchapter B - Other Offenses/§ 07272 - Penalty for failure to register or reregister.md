@@ -40,7 +40,7 @@ Amendment by Pub. L. 108–357 applicable to penalties imposed after Dec. 31, 20
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(b)(8)(F) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(b)(8)(F) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 Amendment by section 1906(a)(42), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 

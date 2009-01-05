@@ -10,5 +10,5 @@ In text, “chapter 563 of title 46” substituted for “section 902 of the Mer
 
 #### Amendments
 
-1981—Pub. L. 97–31 substituted “Secretary of Transportation” for “Secretary of Commerce”.
+<b>1981</b>—Pub. L. 97–31 substituted “Secretary of Transportation” for “Secretary of Commerce”.
 

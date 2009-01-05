@@ -24,7 +24,7 @@
 
 (3) The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 8G(e) of the Inspector General Act of 1978.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, §2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, §144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§644(a), 662(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, 3009–378; Pub. L. 109–435, title V, §501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, §2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, §144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§644(a), 662(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314,3009–366, 3009–378; Pub. L. 109–435, title V, §501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233.)
 
 #### References in Text
 

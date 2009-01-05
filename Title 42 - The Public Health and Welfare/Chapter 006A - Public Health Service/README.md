@@ -147,7 +147,7 @@
 | 247b–4f. | Research relating to preterm labor and delivery and the care, treatment, and outcomes of preterm and low birthweight infants. |
 | 247b–4g. | Interagency Coordinating Council on Prematurity and Low Birthweight. |
 | 247b–5. | Preventive health measures with respect to prostate cancer. |
-| 247b–6. | Preventive health services regarding tuberculosis. |
+| 247b–6. | National strategy for combating and eliminating tuberculosis. |
 | 247b–7. | Loan repayment program. |
 | 247b–8. | Fellowship and training programs. |
 | 247b–9. | Diabetes in children and youth. |
@@ -164,6 +164,7 @@
 | 247b–19. | Information and education. |
 | 247b–20. | Food safety grants. |
 | 247b–21. | Mosquito-borne diseases; coordination grants to States; assessment and control grants to political subdivisions. |
+| 247b–22. | Microbicide research. |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 | 247c–1. | Infertility and sexually transmitted diseases. |
 | 247c–2. | Data collection regarding programs under subchapter XXIV. |
@@ -412,6 +413,18 @@ I74subpart 1—biological products
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part H–1—Stephanie Tubbs Jones Gift of Life Medal
+
+|  |  |
+| :--- | ---: |
+| [274i.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20H%E2%80%931%20-%20Stephanie%20Tubbs%20Jones%20Gift%20of%20Life%20Medal/%C2%A7%2000274i%20-%20Eligibility%20requirements%20for%20Stephanie%20Tubbs%20Jones%20Gift%20of%20Life%20Medal.md) | Eligibility requirements for Stephanie Tubbs Jones Gift of Life Medal. |
+| 274i–1. | Solicitation of donations; prohibition on use of Federal funds. |
+| 274i–2. | Design and production of medal. |
+| 274i–3. | Medals not treated as valuable consideration. |
+| 274i–4. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part I—C.W. Bill Young Cell Transplantation Program
 
 |  |  |
@@ -431,9 +444,11 @@ I74subpart 1—biological products
 | [280b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20J%20-%20Prevention%20and%20Control%20of%20Injuries/%C2%A7%2000280b%20-%20Research.md) | Research. |
 | 280b–1. | Prevention and control activities. |
 | 280b–1a. | Interpersonal violence within families and among acquaintances. |
-| 280b–1b. | Prevention of traumatic brain injury. |
-| 280b–1c. | Use of allotments for rape prevention education. |
-| 280b–1d. | National program for traumatic brain injury registries. |
+| 280b–1b. | Use of allotments for rape prevention education. |
+| 280b–1c. | Prevention of traumatic brain injury. |
+| 280b–1d. | National program for traumatic brain injury surveillance and registries. |
+| 280b–1e. | Study on traumatic brain injury. |
+| 280b–1f. | Prevention of falls among older adults. |
 | 280b–2. | General provisions. |
 | 280b–3. | Authorization of appropriations. |
 | 280b–4. | Study conducted by the Centers for Disease Control and Prevention. |
@@ -487,6 +502,7 @@ I74subpart i—grants for demonstration projects
 | 280e–1. | Planning grants regarding registries. |
 | 280e–2. | Technical assistance in operations of statewide cancer registries. |
 | 280e–3. | Study in certain States to determine factors contributing to elevated breast cancer mortality rates. |
+| 280e–3a. | National childhood cancer registry. |
 | 280e–4. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -501,12 +517,9 @@ I74subpart i—grants for demonstration projects
 
 #### Part O—Fetal Alcohol Syndrome Prevention and Services Program
 
-|  |  |
-| :--- | ---: |
-| [280f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20O%20-%20Fetal%20Alcohol%20Syndrome%20Prevention%20and%20Services%20Program/%C2%A7%2000280f%20-%20Establishment%20of%20Fetal%20Alcohol%20Syndrome%20prevention%20and%20services%20program.md) | Establishment of Fetal Alcohol Syndrome prevention and services program. |
-| 280f–1. | Eligibility. |
-| 280f–2. | Authorization of appropriations. |
-| 280f–3. | Sunset provision. |
+|  |
+| :--- |
+| 280f to 280f–3. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -520,6 +533,9 @@ I74subpart i—grants for demonstration projects
 | 280g–3. | .Controlled substance monitoring program. |
 | 280g–4. | Grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking. |
 | 280g–5. | Public and health care provider education and support services. |
+| 280g–6. | Chronic kidney disease initiatives. |
+| 280g–7. | Amyotrophic lateral sclerosis registry. |
+| 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -613,6 +629,8 @@ I74subpart 1—national cancer institute
 | 285a–8. | Repealed. |
 | 285a–9. | Grants for education, prevention, and early detection of radiogenic cancers and diseases. |
 | 285a–10. | Research, information, and education with respect to blood cancer. |
+| 285a–11. | Pediatric cancer research and awareness. |
+| 285a–12. | Interagency Breast Cancer and Environmental Research Coordinating Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -630,6 +648,7 @@ I74subpart 1—national cancer institute
 | 285b–7. | National Center on Sleep Disorders Research. |
 | 285b–7a. | Heart attack, stroke, and other cardiovascular diseases in women. |
 | 285b–7b. | Coordination of Federal asthma activities. |
+| 285b–7c. | Tuberculosis. |
 | 285b–8. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -696,6 +715,7 @@ I74subpart 1—national cancer institute
 | 285f–1. | Research centers regarding chronic fatigue syndrome. |
 | 285f–2. | Research and research training regarding tuberculosis. |
 | 285f–3. | Sexually transmitted disease clinical research and training awards. |
+| 285f–4. | Microbicide research and development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1568,6 +1588,11 @@ I74subpart 1—health professions workforce information and analysis
 | 300b–8. | Improved newborn and child screening for heritable disorders. |
 | 300b–9. | Evaluating the effectiveness of newborn and child screening programs. |
 | 300b–10. | Advisory Committee on Heritable Disorders in Newborns and Children. |
+| 300b–11. | Clearinghouse of newborn screening information. |
+| 300b–12. | Laboratory quality. |
+| 300b–13. | Interagency Coordinating Committee on Newborn and Child Screening. |
+| 300b–14. | National contingency plan for newborn screening. |
+| 300b–15. | Hunter Kelly Research Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1666,7 +1691,7 @@ I74subpart 1—health professions workforce information and analysis
 
 |  |  |
 | :--- | ---: |
-| 300d–71. | Maintenance of a national toll-free number. |
+| 300d–71. | Maintenance of the national toll-free number. |
 | 300d–72. | Nationwide media campaign to promote poison control center utilization. |
 | 300d–73. | Maintenance of the poison control center grant program. |
 | 300d–74. | Rule of construction. |
@@ -2148,8 +2173,9 @@ I74subpart i—interagency coordination of activities
 |  |  |
 | :--- | ---: |
 | 300cc–40. | Establishment of Office. |
-| 300cc–40a. | Advisory Council; coordinating committees. |
-| 300cc–40b. | Comprehensive plan for expenditure of appropriations. |
+| 300cc–40a. | Microbicide research. |
+| 300cc–40b. | Advisory Council; coordinating committees. |
+| 300cc–40c. | Comprehensive plan for expenditure of appropriations. |
 | 300cc–41. | Additional authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2440,8 +2466,9 @@ I74subpart 1—portability, access, and renewability requirements
 |  |  |
 | :--- | ---: |
 | 300gg–4. | Standards relating to benefits for mothers and newborns. |
-| 300gg–5. | Parity in application of certain limits to mental health benefits. |
+| 300gg–5. | Parity in mental health and substance use disorder benefits. |
 | 300gg–6. | Required coverage for reconstructive surgery following mastectomies. |
+| 300gg–7. | Coverage of dependent students on medically necessary leave of absence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2485,6 +2512,8 @@ I74subpart 1—portability, access, and renewability requirements
 | :--- | ---: |
 | 300gg–51. | Standards relating to benefits for mothers and newborns. |
 | 300gg–52. | Required coverage for reconstructive surgery following mastectomies. |
+| 300gg–53. | Prohibition of health discrimination on the basis of genetic information. |
+| 300gg–54. | Coverage of dependent students on medically necessary leave of absence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2530,6 +2559,7 @@ I74subpart 1—portability, access, and renewability requirements
 | 300hh–14. | Protection of health and safety during disasters. |
 | 300hh–15. | Volunteer Medical Reserve Corps. |
 | 300hh–16. | At-risk individuals. |
+| 300hh–17. | Emergency response coordination of primary care providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

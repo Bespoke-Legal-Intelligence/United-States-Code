@@ -34,9 +34,9 @@
 
 &emsp;(3) two other members, outstanding in the fields of the social or physical sciences, the arts, or archival or library science, appointed by the President of the United States.
 
-(b)(1) The members appointed under subsection (a) shall be appointed for terms of 4 years, except that—
+(b)(1) The members appointed under subsection (a) shall be appointed for not more than 2 terms of 4 years, except that—
 
-&emsp;(A) a member appointed under subsection (a)(1)(D) shall be appointed for a term of 2 years; and
+&emsp;(A) a member appointed under subsection (a)(1)(D) shall be appointed for not more than 4 terms of 2 years; and
 
 &emsp;(B) the Archivist and the Librarian of Congress are permanent ex officio members.
 
@@ -44,7 +44,11 @@
 
 (c) The Commission shall meet at least annually and at call of the Chairman.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1293; Pub. L. 92–546, §1(a), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(b), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §2(b), Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–497, title I, §107(b)(9), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §2(a), July 13, 1988, 102 Stat. 823.)
+(d)
+
+Recusal.—Members of the Commission shall recuse themselves from voting on any matter that poses, or could potentially pose, a conflict of interest, including a matter that could benefit them or an entity they represent.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1293; Pub. L. 92–546, §1(a), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(b), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §2(b), Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–497, title I, §107(b)(9), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §2(a), July 13, 1988, 102 Stat. 823; Pub. L. 110–404, §3(a)(1), (b)(1), Oct. 13, 2008, 122 Stat. 4282.)
 
 #### Historical and Revision Notes
 
@@ -53,6 +57,12 @@ Based on 44 U.S. Code, 1964 ed., §§391 (part), 393(a) (June 30, 1949, ch. 288,
 This section incorporates only the last sentence of paragraph (b) of former section 391. The balance of that section will be found in sections 1506, 2102, 2301, and 2902 of the revision.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–404, §3(a)(1)(A), inserted “not more than 2” after “subsection (a) shall be appointed for” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 110–404, §3(a)(1)(B), substituted “not more than 4 terms” for “a term”.
+
+Subsec. (d). Pub. L. 110–404, §3(b)(1), added subsec. (d).
 
 1988—Pub. L. 100–365 substituted “appointment and tenure; meetings” for “appointment and tenure” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (c) provisions formerly contained in a single undesignated paragraph.
 
@@ -63,6 +73,12 @@ This section incorporates only the last sentence of paragraph (b) of former sect
 1974—Pub. L. 93–536 inserted provision relating to appointment and term of two members of Society of American Archivists, and two members of American Association for State and Local History.
 
 1972—Pub. L. 92–546 provided for two additional members of the Organization of American Historians to be appointed for terms of four years by Executive Board of Organization, one to be appointed for a term of two years and his successors for a term of four years.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–404, §3(a)(2), Oct. 13, 2008, 122 Stat. 4282, provided that: “The restrictions on the terms of members of the National Historical Publications and Records Commission provided in the amendments made by paragraph (1) \[amending this section\] shall apply to members serving on or after the date of enactment of this Act \[Oct. 13, 2008\].”
+
+Pub. L. 110–404, §3(b)(2), Oct. 13, 2008, 122 Stat. 4283, provided that: “The requirement of recusal provided in the amendment made by paragraph (1) \[amending this section\] shall apply to members of the National Historical Publications and Records Commission serving on or after the date of enactment of this Act \[Oct. 13, 2008\].”
 
 #### Effective Date of 1988 Amendment
 

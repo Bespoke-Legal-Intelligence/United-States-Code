@@ -40,7 +40,7 @@ Sec. 4. There is hereby authorized to be appropriated such sums as may be necess
 
 “
 
-Sec. 5. After the date on which the Vice President moves into the temporary official residence provided for in this joint resolution no funds may be expended for the maintenance, care, repair, furnishing, or security of any residence for the Vice President other than the temporary official residence provided for in this joint resolution unless the expenditure of such funds is specifically authorized by law enacted after such date.
+Sec. 5. After the date on which the Vice President moves into the temporary official residence provided for in this joint resolution no funds may be expended for the maintenance, care, repair, furnishing, or security of any residence for the Vice President other than the temporary official residence provided for in thisjoint resolution unless the expenditure of such funds is specifically authorized by law enacted after such date.
 
 “
 

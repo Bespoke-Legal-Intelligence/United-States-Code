@@ -56,7 +56,7 @@ Acceptance of Support.—(1) The Secretary of Defense may accept from any person
 
 Limitations.—(1) A vessel built in a foreign ship yard may not be purchased with funds in the National Defense Sealift Fund pursuant to subsection (c)(1), unless specifically authorized by law.
 
-(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall be conducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
+(2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall beconducted in United States ship yards and shall be subject to section 1424(b) of Public Law 101–510 (104 Stat. 1683).
 
 (g)
 
@@ -82,11 +82,7 @@ Title or Management of Vessels.—Nothing in this section (other than subsection
 
 (j)
 
-Authority for Certain Use of Funds.—Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).
-
-(k)
-
-Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agencymakes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
+Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
 
 (2) The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
 
@@ -112,7 +108,7 @@ Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The
 
 (6) The head of an agency may not enter into a contract under paragraph (1) that would provide for payments to the contractor as authorized in paragraph (2)(E) until notice of the proposed contract is submitted to the congressional defense committees and a period of 90 days has elapsed.
 
-(<i>l</i>)
+(k)
 
 Definitions.—In this section:
 
@@ -122,21 +118,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) A fast sealift ship, including any vessel in the Fast Sealift Program established under section 1424 of Public Law 101–510 (104 Stat. 1683).
 
-&emsp;&emsp;(B) A maritime prepositioning ship.
-
-&emsp;&emsp;(C) An afloat prepositioning ship.
-
-&emsp;&emsp;(D) An aviation maintenance support ship.
-
-&emsp;&emsp;(E) A hospital ship.
-
-&emsp;&emsp;(F) A strategic sealift ship.
-
-&emsp;&emsp;(G) A combat logistics force ship.
-
-&emsp;&emsp;(H) A maritime prepositioned ship.
-
-&emsp;&emsp;(I) Any other auxiliary support vessel.
+&emsp;&emsp;(B) Any other auxiliary vessel that was procured or chartered with specific authorization in law for the vessel, or class of vessels, to be funded in the National Defense Sealift Fund.
 
 &emsp;(3) The term “national defense sealift vessel” means—
 
@@ -146,17 +128,39 @@ Definitions.—In this section:
 
 &emsp;(4) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, §1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, §17(a)(2), Oct. 6, 2006, 120 Stat. 1706.)
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, §1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, §17(a)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–417, \[div. A\], title XIV, §1407, Oct. 14, 2008, 122 Stat. 4647.)
 
 #### References in Text
 
-Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), and (<i>l</i>)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991 which is set out as a note under section 7291 of this title.
+Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), and (k)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991, which is set out as a note under section 7291 of this title.
 
 #### Codification
 
-Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from theHouse of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
+Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from the House of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
 
 #### Amendments
+
+2008—Subsecs. (j), (k). Pub. L. 110–417, §1407(1), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively, and struck out heading and text of former subsec. (j). Text read as follows: “Upon a determination by the Secretary of Defense that such action serves the national defense interest and after consultation with the congressional defense committees, the Secretary may use funds available for obligation or expenditure for a purpose specified under subsection (c)(1)(A), (B), (C), and (D) for any purpose under subsection (c)(1).”
+
+Subsec. (k)(2)(B) to (I). Pub. L. 110–417, §1407(2), added subpar. (B) and struck out former subpars. (B) to (I) which read as follows:
+
+“(B) A maritime prepositioning ship.
+
+“(C) An afloat prepositioning ship.
+
+“(D) An aviation maintenance support ship.
+
+“(E) A hospital ship.
+
+“(F) A strategic sealift ship.
+
+“(G) A combat logistics force ship.
+
+“(H) A maritime prepositioned ship.
+
+“(I) Any other auxiliary support vessel.”
+
+Subsec. (<i>l</i>). Pub. L. 110–417, §1407(1), redesignated subsec. (<i>l</i>) as (k).
 
 2006—Subsec. (d)(2). Pub. L. 109–304 substituted “sections 57101–57104 and chapter 573 of title 46” for “sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund”.
 

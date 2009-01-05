@@ -24,7 +24,7 @@
 
 (2) In the preparation of such plan (and any amendment to the plan) the Governor shall, to the maximum extent practicable, provide for consultation with representatives of affected businesses and local governments and provide an opportunity for public comment.
 
-(3) Any State plan submitted to the Secretary under this section may permit persons affected by any measure in such plan to use alternative means of conserving at least as much energy as would be conserved by such measure. Such planshall provide an effective procedure, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision of such State.
+(3) Any State plan submitted to the Secretary under this section may permit persons affected by any measure in such plan to use alternative means of conserving at least as much energy as would be conserved by such measure. Such plan shall provide an effective procedure, as determined by the Secretary, for the approval and enforcement of such alternative means by such State or by any political subdivision of such State.
 
 #### (c) Approval of State plans
 

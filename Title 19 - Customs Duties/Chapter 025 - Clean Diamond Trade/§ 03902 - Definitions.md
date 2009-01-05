@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means the Committee on Ways and Means and the Committee on International Relations of the House of Representatives, and the Committee on Finance and the Committee on Foreign Relations of the Senate.
+&emsp;The term “appropriate congressional committees” means the Committee on Ways andMeans and the Committee on International Relations of the House of Representatives, and the Committee on Finance and the Committee on Foreign Relations of the Senate.
 
 #### (2) Controlled through the Kimberley Process Certification Scheme
 

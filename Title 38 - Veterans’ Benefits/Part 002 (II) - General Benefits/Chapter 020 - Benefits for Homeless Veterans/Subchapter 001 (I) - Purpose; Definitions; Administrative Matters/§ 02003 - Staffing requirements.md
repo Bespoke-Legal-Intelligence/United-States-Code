@@ -40,7 +40,7 @@ Another prior section 2005, Pub. L. 85–837, Sept. 2, 1958, 72 Stat. 1219, rela
 
 Prior section 2006 was renumbered section 4106 of this title.
 
-Another prior section 2006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him to consult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
+Another prior section 2006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, authorized the Secretary to make rules and regulations necessary to carry out the provisions of chapter 41 of this title, and required him toconsult with representatives of the State unemployment compensation agencies before prescribing any rules which could affect the performance of such agencies, prior to repeal by Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558.
 
 Prior section 2007 was renumbered section 4107 of this title.
 

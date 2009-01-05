@@ -16,7 +16,7 @@ There is hereby imposed a tax on any taxable substance sold or used by the impor
 
 #### (3) Authority to prescribe rate in lieu of paragraph (2) rate
 
-&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal tothe amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
+&emsp;The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal to the amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
 
 #### (c) Exemptions for substances taxed under sections 4611 and 4661
 
@@ -28,7 +28,7 @@ Rules similar to the following rules shall apply for purposes of applying this s
 
 &emsp;(1) Paragraphs (2), (5), and (9) of section 4662(b) (relating to tax-free sales of chemicals used as fuel or in the production of fertilizer or animal feed).
 
-&emsp;(2) Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax on certain chemicals used as fuel or in the production of fertilizer or animal feed).
+&emsp;(2) Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax oncertain chemicals used as fuel or in the production of fertilizer or animal feed).
 
 #### (e) Termination
 
@@ -42,7 +42,7 @@ No tax shall be imposed under this section during any period during which the Ha
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 #### Effective Date
 

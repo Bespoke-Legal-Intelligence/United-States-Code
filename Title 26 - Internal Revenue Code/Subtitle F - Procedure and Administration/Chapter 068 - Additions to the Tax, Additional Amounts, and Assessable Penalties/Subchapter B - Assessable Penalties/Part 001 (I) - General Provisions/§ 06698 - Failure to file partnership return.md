@@ -14,7 +14,7 @@ In addition to the penalty imposed by section 7203 (relating to willful failure 
 
 For purposes of subsection (a), the amount determined under this subsection for any month is the product of—
 
-&emsp;(1) $85, multiplied by
+&emsp;(1) $89, multiplied by
 
 &emsp;(2) the number of persons who were partners in the partnership during any part of the taxable year <sup>1</sup>
 
@@ -24,9 +24,9 @@ The penalty imposed by subsection (a) shall be assessed against the partnership.
 
 #### (d) Deficiency procedures not to apply
 
-Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, andcertain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
 
-(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806.)
+(Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–458, title I, §127(a), Dec. 23, 2008, 122 Stat. 5116.)
 
 #### Codification
 
@@ -34,13 +34,19 @@ Another section 6698, formerly section 6694, relating to failure to file informa
 
 #### Amendments
 
+2008—Subsec. (b)(1). Pub. L. 110–458 substituted “$89” for “$85”.
+
 2007—Subsec. (a). Pub. L. 110–142, §8(a), substituted “12 months” for “5 months” in concluding provisions.
 
 Subsec. (b)(1). Pub. L. 110–142, §8(b), substituted “$85” for “$50”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–458, title I, §127(b), Dec. 23, 2008, 122 Stat. 5116, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns required to be filed after December 31, 2008.”
+
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–142, §8(d), Dec. 20, 2007, 121 Stat. 1807, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to returns required to be filed after the date of the enactment of this Act \[Dec. 20, 2007\].”
+Pub. L. 110–142, §8(d), Dec. 20, 2007, 121 Stat. 1807, provided that: “The amendments made by subsections (a)and (b) \[amending this section\] shall apply to returns required to be filed after the date of the enactment of this Act \[Dec. 20, 2007\].”
 
 #### Effective Date
 

@@ -46,7 +46,7 @@ An entity shall use amounts received under a grant made under subsection (a) of 
 
 &emsp;(7) acquire personal protective equipment for emergency medical services personnel as required by the Occupational Safety and Health Administration; and
 
-&emsp;(8) educate the public concerning cardiopulmonary resuscitation, first aid, injury prevention, safety awareness, illness prevention,and other related emergency preparedness topics.
+&emsp;(8) educate the public concerning cardiopulmonary resuscitation, first aid, injury prevention, safety awareness, illness prevention, and other related emergency preparedness topics.
 
 #### (d) Preference
 

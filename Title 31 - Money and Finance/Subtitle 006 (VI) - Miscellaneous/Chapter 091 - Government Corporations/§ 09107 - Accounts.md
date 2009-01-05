@@ -2,7 +2,7 @@
 
 (a) With the approval of the Comptroller General, a Government corporation may consolidate its cash into an account if the cash will be expended as provided by law.
 
-(b) The Secretary of the Treasury shall keep the accounts of a Government corporation. Ifthe Secretary approves, a Federal reserve bank or a bank designated as a depositary or fiscal agent of the United States Government may keep the accounts. The Secretary may waive the requirements of this subsection.
+(b) The Secretary of the Treasury shall keep the accounts of a Government corporation. If the Secretary approves, a Federal reserve bank or a bank designated as a depositary or fiscal agent of the United States Government may keep the accounts. The Secretary may waive the requirements of this subsection.
 
 (c)(1) Subsection (b) of this section does not apply to maintaining a temporary account of not more than $50,000 in one bank.
 
@@ -60,7 +60,7 @@ In subsection (c)(3), the words “head of each” are added for consistency.
 
 #### 1983 Act
 
-This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
+This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperative Bank is no longer amixed-ownership Government corporation. Section 396(h)(2) and (3) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that references to the Bank in sections 302 and 303(d)(2d sentence) of the Government Corporation Control Act would be deleted on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
 

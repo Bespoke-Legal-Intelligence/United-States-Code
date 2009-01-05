@@ -4,9 +4,27 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas, including liquid fuels domestically produced from natural gas; liquefied petroleum gas; hydrogen; coal-derived liquidfuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas, including liquid fuels domestically produced from natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
-&emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
+&emsp;(3)
+
+Alternative fueled vehicle.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
+
+&emsp;&emsp;(B)
+
+Inclusions.—The term “alternative fueled vehicle” includes—
+
+&emsp;&emsp;&emsp;(i) a new qualified fuel cell motor vehicle (as defined in section 30B(b)(3) of title 26);
+
+&emsp;&emsp;&emsp;(ii) a new advanced lean burn technology motor vehicle (as defined in section 30B(c)(3) of that title);
+
+&emsp;&emsp;&emsp;(iii) a new qualified hybrid motor vehicle (as defined in section 30B(d)(3) of that title); and
+
+&emsp;&emsp;&emsp;(iv) any other type of vehicle that the Administrator demonstrates to the Secretary would achieve a significant reduction in petroleum consumption.<sup>1</sup>
 
 &emsp;(4) the term “comparable conventionally fueled motor vehicle” means a motor vehicle which is, as determined by the Secretary—
 
@@ -24,7 +42,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(6) the term “dedicated vehicle” means—
 
-&emsp;&emsp;(A) a dedicated automobile, as such term is defined in section 32901(a)(7) <sup>1</sup> of title 49; or
+&emsp;&emsp;(A) a dedicated automobile, as such term is defined in section 32901(a)(7) <sup>2</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
@@ -32,7 +50,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(8) the term “dual fueled vehicle” means—
 
-&emsp;&emsp;(A) dual fueled automobile, as such term is defined in section 32901(a)(8) <sup>1</sup> of title 49; or
+&emsp;&emsp;(A) dual fueled automobile, as such term is defined in section 32901(a)(8) <sup>2</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel;
 
@@ -70,11 +88,11 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(14) the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
 
-(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–58, title VII, §707, Aug. 8, 2005, 119 Stat. 818.)
+(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–58, title VII, §707, Aug. 8, 2005, 119 Stat. 818; Pub. L. 110–181, div. B, title XXVIII, §2862, Jan. 28, 2008, 122 Stat. 559.)
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title” meaning title III of Pub. L. 102–486, Oct.24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
+This subchapter, referred to in text, was in the original “this title” meaning title III of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2866, which enacted this subchapter, amended section 6374 of this title, and repealed provisions set out as a note under section 6374 of this title.
 
 Subchapter II of this chapter, referred to in text, was in the original “title IV” meaning title IV of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2875, which enacted subchapter II of this chapter, amended sections 6374a to 6374c of this title and sections 717, 717a, 2001, 2002, 2006, and 2013 of Title 15, Commerce and Trade, enacted provisions set out as notes under sections 79b and 717 of Title 15, and repealed provisions set out as a note under section 717c of Title 15.
 
@@ -88,9 +106,13 @@ In pars. (6)(A) and (8)(A), “section 32901(a)(7) of title 49” substituted fo
 
 #### Amendments
 
+2008—Par. (3). Pub. L. 110–181 designated existing provisions as subpar. (A), inserted par. and subpar. headings, substituted “The term” for “the term”, and added subpar. (B).
+
 2005—Par. (9)(E). Pub. L. 109–58 inserted “, including vehicles directly used in the emergency repair of transmission lines and in the restoration of electricity service following power outages, as determined by the Secretary” before semicolon at end.
 
 2000—Par. (2). Pub. L. 106–554 inserted “, including liquid fuels domestically produced from natural gas” after “natural gas”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

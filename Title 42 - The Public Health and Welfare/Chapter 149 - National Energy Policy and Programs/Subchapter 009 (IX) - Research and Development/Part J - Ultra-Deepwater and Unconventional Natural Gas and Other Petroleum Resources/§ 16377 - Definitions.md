@@ -26,7 +26,7 @@ In this part:
 
 #### (5) Program research funds
 
-&emsp;The term “program research funds” means funds awarded to research performers by the program consortium consistent with the annual plan.
+&emsp;The term “program research funds” means funds awarded to research performers by theprogram consortium consistent with the annual plan.
 
 #### (6) Remote or inconsequential
 
@@ -34,7 +34,7 @@ In this part:
 
 #### (7) Small producer
 
-&emsp;The term “small producer” means an entity organized under the laws of the United Stateswith production levels of less than 1,000 barrels per day of oil equivalent.
+&emsp;The term “small producer” means an entity organized under the laws of the United States with production levels of less than 1,000 barrels per day of oil equivalent.
 
 #### (8) Ultra-deepwater
 

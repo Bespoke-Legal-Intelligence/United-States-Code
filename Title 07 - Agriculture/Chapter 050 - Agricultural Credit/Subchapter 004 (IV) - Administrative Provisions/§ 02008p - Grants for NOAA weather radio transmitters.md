@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural UtilitiesService, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
+The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural Utilities Service, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligibility
 
@@ -18,7 +18,19 @@ A grant provided under this section shall be not more than 75 percent of the tot
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
 
-(Pub. L. 87–128, title III, §379B, as added Pub. L. 107–171, title VI, §6024, May 13, 2002, 116 Stat. 371.)
+(Pub. L. 87–128, title III, §379B, as added Pub. L. 107–171, title VI, §6024, May 13, 2002, 116 Stat. 371; amended Pub. L. 110–234, title VI, §6021, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6021, June 18, 2008, 122 Stat. 1664, 1934.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §6021, substituted “2008 through 2012” for “2002 through 2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -24,6 +24,10 @@ The purposes of the Foundation are—
 
 1988—Subsec. (b)(3). Pub. L. 100–240 added par. (3).
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–281, §1, July 21, 2008, 122 Stat. 2617, provided that: “This Act \[amending section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendment of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–363, title II, §201, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title \[amending sections 3703 and 3709 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Reauthorization Act of 2006’.”

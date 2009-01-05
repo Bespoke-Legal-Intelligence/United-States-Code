@@ -10,7 +10,7 @@
 
 (D)(i) With respect to borrowers under section 1472 or 1487(a) of this title who have received assistance under subparagraph (B) or (C), the Secretary shall provide for the recapture of all or a portion of such assistance rendered upon the disposition or nonoccupancy of the property by the borrower. In providing for such recapture, the Secretary shall make provisions to provide incentives for the borrower to maintain the property in a marketable condition. Notwithstanding any other provision of law, any such assistance whenever rendered shall constitute a debt secured by the security instruments given by the borrower to the Secretary to the extent that the Secretary may provide for recapture of such assistance.
 
-(ii) In determining the amount recaptured under this subparagraph with respect to any loan made pursuant to section 1472(a)(3) of thistitle for the purchase of a dwelling located on land owned by a community land trust, the Secretary shall determine any appreciation of the dwelling based on any agreement between the borrower and the community land trust that limits the sale price or appreciation of the dwelling.
+(ii) In determining the amount recaptured under this subparagraph with respect to any loan made pursuant to section 1472(a)(3) of this title for the purchase of a dwelling located on land owned by a community land trust, the Secretary shall determine any appreciation of the dwelling based on any agreement between the borrower and the community land trust that limits the sale price or appreciation of the dwelling.
 
 (E) Except for Federal or State laws relating to taxation, the assistance rendered to any borrower under subparagraphs (B) and (C) shall not be considered to be income or resources for any purpose under any Federal or State laws including, but not limited to, laws relating to welfare and public assistance programs.
 
@@ -34,7 +34,7 @@
 
 (C) No rent for a unit financed under section 1484 or 1485 of this title shall be increased as a result of this subsection or other provision of Federal law or Federal regulation by more than 10 per centum in any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law, or regulation.
 
-(4) In the case of a loan with respect to the purchase of a manufactured home with respectto which rental assistance is provided, the monthly payment for principal and interest on the manufactured home and for lot rental and utilities shall not exceed the highest of (A) 30 per centum of monthly adjusted income, (B) 10 per centum of monthly income, or (C) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
+(4) In the case of a loan with respect to the purchase of a manufactured home with respect to which rental assistance is provided, the monthly payment for principal and interest on the manufactured home and for lot rental and utilities shall not exceed the highest of (A) 30 per centum of monthly adjusted income, (B) 10 per centum of monthly income, or (C) if the person or family is receiving payments for welfare assistance from a public agency, the portion of such payments which is specifically designated by such agency to meet the person's or family's housing costs.
 
 (5)
 
@@ -72,7 +72,7 @@ Housing and related facilities provided with loans described in subsection (a) o
 
 #### (c) Reimbursement of Rural Housing Insurance Fund
 
-There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
+There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) theamount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and section 1490f of this title to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
 
 #### (d) Rental assistance contract authority; preconditions, limitations, etc.
 
@@ -142,7 +142,7 @@ Subsec. (a)(2)(D). Pub. L. 97–35, §351(d), substituted “$398,000,000” for
 
 1980—Subsec. (a)(1)(B). Pub. L. 96–399, §505, substituted “the Secretary shall provide” for “the Secretary may provide”.
 
-Subsec. (a)(1)(C). Pub. L. 96–399, §501(f), substituted provisions limiting the amount of additional assistance which may be approved to $100,000,000, for provisionslimiting such amounts to $985,000,000 for contracts entered into with respect to fiscal year 1979 and $500,000,000 for contracts entered into through Oct. 15, 1980, and substituted “with respect to any fiscal year beginning on or after October 1, 1981” for “after October 15, 1980”.
+Subsec. (a)(1)(C). Pub. L. 96–399, §501(f), substituted provisions limiting the amount of additional assistance which may be approved to $100,000,000, for provisions limiting such amounts to $985,000,000 for contracts entered into with respect to fiscal year 1979 and $500,000,000 for contracts entered into through Oct. 15, 1980, and substituted “with respect to any fiscal year beginning on or after October 1, 1981” for “after October 15, 1980”.
 
 Pub. L. 96–372 substituted “through October 15, 1980” for “with respect to fiscal year 1980” and in last sentence “after October 15, 1980” for “with respect to any fiscal year after fiscal year 1980”.
 
@@ -174,7 +174,7 @@ Subsec. (a)(2). Pub. L. 93–383, §514(a), added par. (2).
 
 Subsec. (b). Pub. L. 93–383, §516(c)(2), inserted references to sections 1490f(a) and 1490f(c) of this title.
 
-Subsec. (c). Pub. L. 93–383, §§514(b), 516(c)(3), reorganized structure of subsec. (c) by designating existing provisions as cl. (1) and, as so designated, substituted reference to subsec. (a)(1) of this section for reference to subsec. (a) of this section, added cl. (2), and made former second clause into second sentence, and, as so amended, inserted reference to section 1490f of this title and struck out “excess” after “unreimbursed”.
+Subsec. (c). Pub. L. 93–383, §§514(b), 516(c)(3), reorganized structure of subsec. (c) by designating existingprovisions as cl. (1) and, as so designated, substituted reference to subsec. (a)(1) of this section for reference to subsec. (a) of this section, added cl. (2), and made former second clause into second sentence, and, as so amended, inserted reference to section 1490f of this title and struck out “excess” after “unreimbursed”.
 
 #### Effective Date of 1983 Amendment
 

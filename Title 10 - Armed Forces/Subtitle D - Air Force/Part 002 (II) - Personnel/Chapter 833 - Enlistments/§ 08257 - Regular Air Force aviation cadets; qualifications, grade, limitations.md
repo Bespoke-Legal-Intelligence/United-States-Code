@@ -14,7 +14,7 @@
 
 (e) While on active duty, an aviation cadet is entitled to uniforms, clothing, and equipment at the expense of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 504; Pub. L. 85–861, §33(a)(37), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 96–513, title II, §237, Dec. 12, 1980, 94 Stat. 2887.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 504; Pub. L. 85–861, §33(a)(37), Sept. 2, 1958, 72 Stat. 1566; Pub.L. 96–513, title II, §237, Dec. 12, 1980, 94 Stat. 2887.)
 
 Historical and Revision Notes<br>1956
 

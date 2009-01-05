@@ -30,7 +30,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 &emsp;&emsp;(B) pays all Federal, State and local property taxes and assessments which, during the particular term then in effect, would have been incurred except for the agreement, together with interest on such taxes and assessments in an amount to be determined at the highest rate of interest charged with respect to delinquent property taxes by the Federal, State or local taxing authority, if any.
 
-&emsp;(8) The agreement may contain such additional terms, which are consistent with the provisions of this section, as seem desirable to the parties entering into the agreement: <i>Provided</i>, That the refusal of the landowner to agree to any additional terms shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
+&emsp;(8) The agreement may contain such additional terms, which are consistent with the provisions of this section, as seem desirable to the parties entering into the agreement: <i>Provided</i>, That the refusal of the landowner toagree to any additional terms shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
 
 #### (c) Benefits to private landowners
 
@@ -120,7 +120,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 &emsp;&emsp;(II) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock, nor
 
-&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement CommonStock and by Natives and descendants of Natives,
+&emsp;&emsp;(III) the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives,
 
 > &emsp;represents a majority of either the total equity of the corporation or the total voting power of the corporation for the purposes of electing directors; or
 
@@ -154,7 +154,7 @@ All land subject to an agreement made pursuant to subsection (a) of this section
 
 #### (f) Existing contracts
 
-Nothing in this section shall be construed as impairing, or otherwise affecting in any manner, any contract or other obligation which was entered into prior to December 2, 1980, or which (1) applies to any land which is subject to an agreement, and (2) was entered into before the agreement becomes effective.
+Nothing in this section shall be construed as impairing, or otherwise affecting in any manner,any contract or other obligation which was entered into prior to December 2, 1980, or which (1) applies to any land which is subject to an agreement, and (2) was entered into before the agreement becomes effective.
 
 #### (g) State jurisdiction
 
@@ -180,7 +180,7 @@ Subsec. (d)(2)(B)(iv). Pub. L. 105–333, §1(b), added cl. (iv).
 
 Subsec. (d)(3)(B)(iii). Pub. L. 105–333, §1(c), added cl. (iii).
 
-1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners describedin subsection (c)(2) of this section shall not be included”.
+1988—Subsec. (a)(1). Pub. L. 100–241, §11(1), (2), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section” and “no lands shall be included” for “lands not owned by landowners described in subsection (c)(2) of this section shall not be included”.
 
 Subsec. (b)(1). Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” for “subsection (c)(2) of this section”.
 

@@ -34,7 +34,7 @@ The Secretary may make grants to, and enter into contracts with, States, public 
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies thatdemonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 

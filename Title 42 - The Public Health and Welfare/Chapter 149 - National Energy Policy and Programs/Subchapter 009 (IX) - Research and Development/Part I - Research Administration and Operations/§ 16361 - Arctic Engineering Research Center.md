@@ -6,7 +6,7 @@ The Secretary of Transportation, in consultation with the Secretary and the Unit
 
 #### (b) Purpose
 
-The purpose of the Center shall be to conduct research on, and develop improved methods of, construction and use of materials to improve the overall performance of roads, bridges, residential, commercial, and industrial structures, and other infrastructure in the Arctic region, with an emphasis on developing—
+The purpose of the Center shall be to conduct research on, and develop improved methods of,construction and use of materials to improve the overall performance of roads, bridges, residential, commercial, and industrial structures, and other infrastructure in the Arctic region, with an emphasis on developing—
 
 &emsp;(1) new construction techniques for roads, bridges, rail, and related transportation infrastructure and residential, commercial, and industrial infrastructure that are capable of withstanding the Arctic environment and using limited energy resources as efficiently as practicable;
 

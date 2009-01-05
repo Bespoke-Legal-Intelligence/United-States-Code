@@ -10,13 +10,13 @@ Active Members.—An individual is eligible for active membership in the corpora
 
 (b)
 
-Associate Members.—The corporation may extend eligibility for membership as associate members to parents and lineal descendants of an individual described in subsection (a) of this section on terms provided in its constitution and bylaws.
+Associate Members.—The corporation may extend eligibility for membership as associate members to the parents, spouse, siblings, and lineal descendants of an individual described in subsection (a) of this section on terms provided in its constitution and bylaws.
 
 (c)
 
 Voting.—Each member described in subsection (a) of this section has one vote on each matter submitted to a vote at a meeting of the members.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1382.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1382; Pub. L. 110–207, §2, Apr. 30, 2008, 122 Stat. 719.)
 
 Historical and Revision Notes
 
@@ -39,4 +39,8 @@ In this section, the text of 36:826(d) is omitted as obsolete.
 In subsection (a), the words “has received” are substituted for “who have received or who may hereafter receive”, and the words “as a member” are substituted for “are, have been, or may become members”, for clarity and to eliminate unnecessary words.
 
 In subsection (b), the word “may” is substituted for “shall have the power, moreover, to” for consistency and to eliminate unnecessary words.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–207 substituted “the parents, spouse, siblings, and lineal descendants” for “parents and lineal descendants”.
 

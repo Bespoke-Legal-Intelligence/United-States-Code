@@ -6,7 +6,7 @@ The Secretary shall periodically determine the amount which should be paid under
 
 #### (b) Conditions
 
-No payment shall be made to a provider of services which is a hospital for or with respectto services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
+No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
 
 #### (c) Payments under assignment or power of attorney
 
@@ -140,7 +140,7 @@ Section 9311(a)(3) of Pub. L. 99–509 provided that: “Upon the request of a h
 
 Section 120 of Pub. L. 97–248 provided that: “Notwithstanding section 1815(a) of the Social Security Act \[subsec. (a) of this section\], in the case of a hospital which is paid periodic interim payments under such section, the Secretary of Health and Human Services shall provide that—
 
-&emsp;“(1) with respect to the last 21 days for which such payments would otherwise be made during fiscal year1983, such payments shall be deferred until fiscal year 1984; and
+&emsp;“(1) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1983, such payments shall be deferred until fiscal year 1984; and
 
 &emsp;“(2) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1984, such payments shall be deferred until fiscal year 1985.”
 

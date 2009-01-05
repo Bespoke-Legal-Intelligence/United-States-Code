@@ -10,7 +10,7 @@
 
 &emsp;(4) a reconciliation of the summary information on expenditures with proposed appropriations.
 
-&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year.
+&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in thefiscal year for which the budget is submitted and the 4 fiscal years after that year.
 
 &emsp;(6) estimated receipts of the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year under—
 
@@ -90,11 +90,11 @@
 
 &emsp;(32) a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline as provided in section 257(b)(2)(A) and for excise taxes assumed to be extended under section 257(b)(2)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
-&emsp;(33) <sup>1</sup> a separate appropriation account for appropriations for the Inspectors General Criminal Investigator Academy and the Inspectors General Forensic Laboratory of the Department of the Treasury.
+&emsp;(33) <sup>1</sup> a separate appropriation account for appropriations for the Council of the Inspectors General on Integrity and Efficiency, and, included in that account, a separate statement of the aggregate amount of appropriations requested for each academy maintained by the Council of the Inspectors General on Integrity and Efficiency.
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(33) <sup>2</sup> (A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year,the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(33) <sup>2</sup> (A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
 
@@ -111,6 +111,18 @@
 &emsp;(B) In this paragraph, consistent with the Office of Management and Budget's June 2002 “Annual Report to Congress on Combatting Terrorism”, the term “homeland security” refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.
 
 &emsp;(C) In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
+
+&emsp;(35) as supplementary materials, a separate analysis of the budgetary effects for all prior fiscal years, the current fiscal year, the fiscal year for which the budget is submitted, and ensuing fiscal years of the actions the Secretary of the Treasury has taken or plans to take using any authority provided in the Emergency Economic Stabilization Act of 2008, including—
+
+&emsp;&emsp;(A) an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
+
+&emsp;&emsp;(B) an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;
+
+&emsp;&emsp;(C) an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 calculated on a cash basis;
+
+&emsp;&emsp;(D) a revised estimate of the deficit, the debt held by the public, and the gross Federal debt, substituting the cash-based estimates in subparagraph (C) for the estimates calculated under subparagraph (A) pursuant to the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008; and
+
+&emsp;&emsp;(E) the portion of the deficit which can be attributed to any action taken by the Secretary using authority provided by the Emergency Economic Stabilization Act of 2008 and the extent to which the change in the deficit since the most recent estimate is due to a reestimate using the methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -200,7 +212,7 @@
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313.)
 
 #### Termination of Subsection (f)
 
@@ -334,7 +346,7 @@ In subsection (b), the words “for such years” in 31:11(a)(5)(words after 2d 
 
 In subsection (c), the words “new taxes, loans, or other” are omitted as being included in “appropriate action”. The words “in effect” are substituted for “existing” for consistency. The word “aggregate” is omitted as surplus.
 
-In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this sectionfor any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
+In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
 
 1983
 
@@ -366,9 +378,17 @@ Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in sub
 
 Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(32), is classified to section 907(b)(2) of Title 2, The Congress.
 
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(35), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(35), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+
 Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (a)(33). Pub. L. 110–409 added par. (33) relating to appropriations for the Council of the Inspectors General on Integrity and Efficiency and struck out former subsec. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
+
+Subsec. (a)(35). Pub. L. 110–343 added par. (35).
 
 2003—Subsec. (g)(2)(B)(ii). Pub. L. 108–178 inserted “section” before “1102 of title 40”.
 
@@ -444,6 +464,10 @@ Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f)
 
 1983—Subsec. (a)(25). Pub. L. 97–452 added par. (25).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. A, title II, §203(c), Oct. 3, 2008, 122 Stat. 3801, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2010 budget submission of the President.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
@@ -477,6 +501,10 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 #### Construction of 1993 Amendment
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
+
+#### Consultation
+
+Pub. L. 110–343, div. A, title II, §203(b), Oct. 3, 2008, 122 Stat. 3801, provided that: “In implementing this section \[amending this section and enacting provisions set out as a note under this section\], the Director of \[the\] Office of Management and Budget shall consult periodically, but at least annually, with the Committee on the Budget of the House of Representatives, the Committee on the Budget of the Senate, and the Director of the Congressional Budget Office.”
 
 #### Procedures in the House of Representatives
 
@@ -522,7 +550,7 @@ Certification.—With respect to any medicare funding legislation or any amendme
 
 Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July 30.—
 
-&emsp;“(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives hasvoted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
+&emsp;“(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
 &emsp;“(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -604,7 +632,7 @@ Discharge.—
 
 &emsp;“(1)
 
-In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicarefunding legislation measure. Only one such motion shall be in order in any session of Congress.
+In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
 
 &emsp;“(2)
 
@@ -616,7 +644,7 @@ Amendments.—No amendment to the motion to discharge shall be in order.
 
 &emsp;“(4)
 
-Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
+Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress ifthe chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
 
 “(e)
 
@@ -700,7 +728,7 @@ Pub. L. 100–685, title I, §104, Nov. 17, 1988, 102 Stat. 4086, provided that:
 
 Pub. L. 102–241, §11, Dec. 19, 1991, 105 Stat. 2212, provided that: “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
@@ -732,25 +760,7 @@ Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–
 
 #### Two-Year Budget Cycle for Department of Defense
 
-Pub. L. 99–145, title XIV, §1405, Nov. 8, 1985, 99 Stat. 744, provided that:
-
-“(a)
-
-Findings.—The Congress finds that the programs and activities of the Department of Defense could be more effectively and efficiently planned and managed if funds for the Department were provided on a two-year cycle rather than annually.
-
-“(b)
-
-Requirement for Two-Year Budget Proposal.—The President shall include in the budget submitted to the Congress pursuant to section 1105 of title 31, United States Code, for fiscal year 1988 a single proposed budget for the Department of Defense and related agencies for fiscal years 1988 and 1989. Thereafter, the President shall submit a proposed two-year budget for the Department of Defense and related agencies every other year.
-
-“(c)
-
-Report.—Not later than April 1, 1986, the Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives a report containing the Secretary's views on the following:
-
-&emsp;“(1) The advantages and disadvantages of operating the Department of Defense and related agencies on a two-year budget cycle.
-
-&emsp;“(2) The Secretary's plans for converting to a two-year budget cycle.
-
-&emsp;“(3) A description of any impediments (statutory or otherwise) to converting the operations of the Department of Defense and related agencies to a two-year budget cycle beginning with fiscal year 1988.”
+Pub. L. 99–145, title XIV, §1405, Nov. 8, 1985, 99 Stat. 744, which related to congressional findings concerning a two-year budget cycle for the Defense Department, requirement that President submit two-year budget proposals, and a report by the Secretary of Defense to be submitted not later than Apr. 1, 1986, was repealed by Pub. L. 110–181, div. A, title X, §1006, Jan. 28, 2008, 122 Stat. 303.
 
 #### Federal Capital Investment Program; Congressional Statement of Purposes
 
@@ -778,11 +788,23 @@ For provisions requiring annual review of direct spending and receipts to be par
 
 Ex. Ord. No. 6715, May 23, 1934, provided:
 
-(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file suchadditional charts from time to time, as may be necessary to show all changes made therein.
+(1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
 
 (2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 
 (3) The Director of the Bureau of the Budget is hereby authorized to prescribe, subject to the approval of the President, such rules and regulations as will indicate the information desired and the form of chart to be furnished.
+
+#### Assignment of Function Regarding Medicare Funding
+
+Memorandum of the President of the United States, Feb. 14, 2008, 73 F.R. 9169, provided:
+
+Memorandum for the Secretary of Health and Human Services
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, you are directed to perform the function of the President as described under section 802 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173, 31 U.S.C. 1105(h)(1)).
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Another par. (33) is set out after par. (34).</i>
 

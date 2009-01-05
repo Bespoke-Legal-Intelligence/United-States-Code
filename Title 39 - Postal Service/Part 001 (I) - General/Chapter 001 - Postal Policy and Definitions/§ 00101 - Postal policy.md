@@ -10,15 +10,27 @@
 
 (e) In determining all policies for postal services, the Postal Service shall give the highest consideration to the requirement for the most expeditious collection, transportation, and delivery of important letter mail.
 
-(f) In selecting modes of transportation, the Postal Service shall give highest consideration to the prompt and economical delivery of all mail and shall make a fair and equitable distribution of mail business to carriers providing similar modes of transportation services to the Postal Service. Modern methods of transporting mail by containerization and programs designed to achieve overnight transportation to the destination of important letter mail to all parts of the Nation shall be a primary goal of postal operations.
+(f) In selecting modes of transportation, the Postal Service shall give highest consideration to the prompt and economical delivery of all mail. Modern methods of transporting mail by containerization and programs designed to achieve overnight transportation to the destination of important letter mail to all parts of the Nation shall be a primary goal of postal operations.
 
 (g) In planning and building new postal facilities, the Postal Service shall emphasize the need for facilities and equipment designed to create desirable working conditions for its officers and employees, a maximum degree of convenience for efficient postal services, proper access to existing and future air and surface transportation facilities, and control of costs to the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719; Pub. L. 110–405, §2(b)(9), Oct. 13, 2008, 122 Stat. 4289.)
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–405 substituted “mail.” for “mail and shall make a fair and equitable distribution of mail business to carriers providing similar modes of transportation services to the Postal Service.”
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–405, §2(c), Oct. 13, 2008, 122 Stat. 4290, provided that: “The amendments made by this section \[amending this section, sections 3401 and 5402 of this title, and sections 41901 to 41904 and 41910 of Title 49, Transportation, renumbering former sections 41906, 41909, 41910, and 41912 of Title 49 as sections 41905, 41906, 41907, and 41908 of Title 49, respectively, and repealing former sections 41905, 41907, 41908, and 41911 of Title 49\] shall take effect on October 1, 2008.”
 
 #### Effective Date
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding this section.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–405, §1, Oct. 13, 2008, 122 Stat. 4287, provided that: “This Act \[amending this section, sections 3401 and 5402 of this title, and sections 41901 to 41904 and 41910 of Title 49, Transportation, renumbering former sections 41906, 41909, 41910, and 41912 of Title 49 as sections 41905, 41906, 41907, and 41908 of Title 49, respectively, repealing former sections 41905, 41907, 41908, and 41911 of Title 49, and enacting provisions set out as a note under this section\] may be cited as the ‘Air Carriage of International Mail Act’.”
 
 #### Short Title of 2006 Amendment
 
@@ -62,5 +74,5 @@ Pub. L. 94–421, §1, Sept. 24, 1976, 90 Stat. 1303, provided: “That this Act
 
 #### Short Title
 
-Pub. L. 91–375, §1, Aug. 12, 1970, 84 Stat. 719, provided: “That this Act \[revising this title, enacting sections1735 to 1737 of Title 18, Crimes and Criminal Procedure, amending section 356 of Title 2, The Congress, section 19 of Title 3, The President, sections 101, 104, 2104, 2105, 3104, 3304a, 4301, 5102, 5303, 5304, 5312, 5314 to 5316, 5541, 6301, 6323, 7101, and 8344 of Title 5, Government Organization and Employees, sections 24 seventh par., 1701d–3, and 1701e of Title 12, Banks and Banking, section 637 of Title 15, Commerce and Trade, section 460<i>l</i>–1 of Title 16, Conservation, section 8 of former Title 17, Copyrights, sections 12, 440, 441, 500, 501, 612, 876, 877, 1114, 1303, 1341, 1342, 1463, 1696, 1699, 1703, 1704, 1707, 1709 to 1713, 1715, 1716, 1716A, 1717, 1718, 1721 to 1725, 1729, 1730, 1733, and 3061 of Title 18, section 611 of Title 22, Foreign Relations and Intercourse, sections 72 fifth par., 129, and 724a of former Title 31, Money and Finance, sections 356, 474, 615, 723, and 724 of former Title 40, Public Buildings, Property, and Works, and section 2942 of Title 42, The Public Health and Welfare, repealing section 3327 of Title 5 and section 1028 of former Title 31, and enacting provisions set out as notes under this section and sections 201, 601, 1001, 1003, 1201, 2002, 2004, 3010, and 3621 of this title\] may be cited as the ‘Postal Reorganization Act’.”
+Pub. L. 91–375, §1, Aug. 12, 1970, 84 Stat. 719, provided: “That this Act \[revising this title, enacting sections 1735 to 1737 of Title 18, Crimes and Criminal Procedure, amending section 356 of Title 2, The Congress, section 19 of Title 3, The President, sections 101, 104, 2104, 2105, 3104, 3304a, 4301, 5102, 5303, 5304, 5312, 5314 to 5316, 5541, 6301, 6323, 7101, and 8344 of Title 5, Government Organization and Employees, sections 24 seventh par., 1701d–3, and 1701e of Title 12, Banks and Banking, section 637 of Title 15, Commerce and Trade, section 460<i>l</i>–1 of Title 16, Conservation, section 8 of former Title 17, Copyrights, sections 12, 440, 441, 500, 501, 612, 876, 877, 1114, 1303, 1341, 1342, 1463, 1696, 1699, 1703, 1704, 1707, 1709 to 1713, 1715, 1716, 1716A, 1717, 1718, 1721 to 1725, 1729, 1730, 1733, and 3061 of Title 18, section 611 of Title 22, Foreign Relations and Intercourse, sections 72 fifth par., 129, and 724a of former Title 31, Money and Finance, sections 356, 474, 615, 723, and 724 of former Title 40, Public Buildings, Property, and Works, and section 2942 of Title 42, The Public Health and Welfare, repealing section 3327 of Title 5 and section 1028 of former Title 31, and enacting provisions set out as notes under this section and sections 201, 601, 1001, 1003, 1201, 2002, 2004, 3010, and 3621 of this title\] may be cited as the ‘Postal Reorganization Act’.”
 

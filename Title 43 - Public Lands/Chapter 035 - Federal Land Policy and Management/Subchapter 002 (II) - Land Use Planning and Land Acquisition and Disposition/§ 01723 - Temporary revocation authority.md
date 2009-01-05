@@ -8,7 +8,7 @@ When the sole impediment to consummation of an exchange of lands or interests th
 
 The authority specified in subsection (a) of this section may be exercised only in cases where—
 
-&emsp;(1) a particular exchange is proposed to be carried out pursuant to this Act, as amended,or other applicable law authorizing such an exchange;
+&emsp;(1) a particular exchange is proposed to be carried out pursuant to this Act, as amended, or other applicable law authorizing such an exchange;
 
 &emsp;(2) the proposed exchange has been prepared in compliance with all laws applicable to such exchange;
 

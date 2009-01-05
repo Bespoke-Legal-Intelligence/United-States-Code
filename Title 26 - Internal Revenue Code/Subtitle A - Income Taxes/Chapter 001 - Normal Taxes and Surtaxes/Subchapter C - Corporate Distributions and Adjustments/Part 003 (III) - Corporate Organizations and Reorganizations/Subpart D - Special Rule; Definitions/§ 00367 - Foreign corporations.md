@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, paragraph (1) shall not apply to any property transferred to a foreign corporation for use by such foreign corporation in the active conduct of a trade or business outside of the United States.
+&emsp;&emsp;Except as provided in regulations prescribed by the Secretary, paragraph (1) shallnot apply to any property transferred to a foreign corporation for use by such foreign corporation in the active conduct of a trade or business outside of the United States.
 
 #### (B) Paragraph not to apply to certain property
 
@@ -168,7 +168,7 @@ Subsec. (f). Pub. L. 105–34, §1131(b)(2), added subsec. (f).
 
 1986—Subsec. (a)(1). Pub. L. 99–514, §1810(g)(4)(A), struck out “355,” after “354,”.
 
-Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end “The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible.”
+Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end “The amounts taken into account under clause\(ii) shall be commensurate with the income attributable to the intangible.”
 
 Subsec. (e). Pub. L. 99–514, §631(d)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e), treatment of distributions described in section 336 or 355, read as follows: “In the case of any distribution described in section 336 or 355 (or so much of section 356 as relates to section 355) by a domestic corporation which is made to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section.”
 
@@ -248,7 +248,7 @@ Ruling request before march 1, 1984.—The amendments made by this section (and 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) of Pub. L. 97–248, set out as a note under section 936 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) ofPub. L. 97–248, set out as a note under section 936 of this title.
 
 #### Effective Date of 1976 Amendment
 

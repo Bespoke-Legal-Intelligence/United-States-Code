@@ -30,7 +30,7 @@ The Secretary shall report annually to the President and the Congress on actions
 
 2000—Pub. L. 106–469 amended section generally. Prior to amendment, section required the Secretary to report to the President and to Congress, not later than one year after the transmittal of the Strategic Petroleum Reserve Plan to the Congress and each year thereafter, on all actions taken to implement this part.
 
-1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec.\(b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
+1995—Pub. L. 104–66 struck out subsec. (a) designation before “The Secretary shall”, and struck out subsec. (b) which directed Secretary to report to Congress on activities undertaken with respect to Strategic Petroleum Reserve under the amendments made by Strategic Petroleum Reserve Amendments Act of 1981.
 
 1986—Subsec. (a)(1). Pub. L. 99–509 amended par. (1) generally, inserting “, including” in introductory text and adding subpars. (A) to (G).
 
@@ -84,7 +84,7 @@ Regional Reserve Report.—The President or his delegate shall submit to the Con
 
 “(d)
 
-Strategic Alcohol Fuel Reserve Report.—The Secretary of Energy shall, in consultation with the Secretary of Agriculture, prepare and transmit to the Congress no later than December 31, 1982, a study of the potential for establishing a Strategic Alcohol Fuel Reserve.
+Strategic Alcohol Fuel Reserve Report.—The Secretary of Energy shall, in consultation with the Secretary of Agriculture, prepare and transmit to the Congress no later than December 31, 1982, a study of thepotential for establishing a Strategic Alcohol Fuel Reserve.
 
 “(e)
 

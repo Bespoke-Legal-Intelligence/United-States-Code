@@ -62,7 +62,7 @@
 
 #### (B) Reports
 
-&emsp;&emsp;The chief of mission of every diplomatic mission of the United States shall submit to the Secretary on a regular basis a report on the actions undertaken by the mission to carry out such responsibility.
+&emsp;&emsp;The chief of mission of every diplomatic mission of the United States shall submit tothe Secretary on a regular basis a report on the actions undertaken by the mission to carry out such responsibility.
 
 #### (3) Report to Congress
 

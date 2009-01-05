@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Indemnification payment
 
-&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimburse the person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
+&emsp;The term “indemnification payment” means a payment (or any agreement to make a payment) by any Farm Credit System institution for the benefit of any person who is or was an institution-related party, to pay or reimbursethe person for any liability or legal expense with regard to any administrative proceeding or civil action instituted by the Farm Credit Administration that results in a final order under which the person—
 
 &emsp;&emsp;(A) is assessed a civil money penalty; or
 
@@ -44,7 +44,7 @@ In this section:
 
 &emsp;The term “institution-related party” means—
 
-&emsp;&emsp;(A) a director, officer, employee, or agent for a Farm Credit System institution or anyconservator or receiver of such an institution;
+&emsp;&emsp;(A) a director, officer, employee, or agent for a Farm Credit System institution or any conservator or receiver of such an institution;
 
 &emsp;&emsp;(B) a stockholder (other than another Farm Credit System institution), consultant, joint venture partner, or any other person determined by the Farm Credit Administration to be a participant in the conduct of the affairs of a Farm Credit System institution; and
 

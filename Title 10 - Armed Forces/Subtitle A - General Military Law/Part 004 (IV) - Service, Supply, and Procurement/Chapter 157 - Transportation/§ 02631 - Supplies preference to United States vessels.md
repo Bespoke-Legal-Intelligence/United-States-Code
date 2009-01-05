@@ -42,7 +42,7 @@ Section 315(b) of Pub. L. 103–160 provided that: “The amendment made by subs
 
 #### Obtaining Carriage by Vessel: Criterion Regarding Overhaul, Repair, and Maintenance of Vessels in the United States
 
-Pub. L. 109–364, div. A, title X, §1017, Oct. 17, 2006, 120 Stat. 2379, provided that:
+Pub. L. 109–364, div. A, title X, §1017, Oct. 17, 2006, 120 Stat. 2379, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(9), div. C, title XXXV, §3526(a), Jan. 28, 2008, 122 Stat. 323, 601, provided that:
 
 “(a)
 
@@ -54,7 +54,7 @@ Covered Vessels.—A vessel is a covered vessel of an offeror under this section
 
 &emsp;“(1) owned, operated, or controlled by the offeror; and
 
-&emsp;“(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under section 27 of the Merchant Marine Act, 1920 (\[former\] 46 U.S.C. \[App.\] 883) \[see Disposition Table preceding section 101 of Title 46, Shipping\], section 12106 of title 46, United States Code \[see 46 U.S.C. 12112\], and section 2 of the Shipping Act, 1916 (\[former\] 46 U.S.C. App. 802) \[see 46 U.S.C. 50501\].
+&emsp;“(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under sections 12112 and 50501 and chapter 551 of title 46, United States Code.
 
 “(c)
 
@@ -74,7 +74,7 @@ Interim regulations.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary may prescribe interim regulations as necessary to carry out the acquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
+In general.—The Secretary may prescribe interim regulations as necessary to carry out theacquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -103,6 +103,8 @@ United states.—The term ‘United States’ means—
 &emsp;&emsp;“(A) any State of the United States; and
 
 &emsp;&emsp;“(B) Guam.”
+
+\[Pub. L. 110–181, div. C, title XXXV, §3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 883), section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under section 624 of this title.\]
 
 #### Delegation of Authority Under the Cargo Preference Act
 

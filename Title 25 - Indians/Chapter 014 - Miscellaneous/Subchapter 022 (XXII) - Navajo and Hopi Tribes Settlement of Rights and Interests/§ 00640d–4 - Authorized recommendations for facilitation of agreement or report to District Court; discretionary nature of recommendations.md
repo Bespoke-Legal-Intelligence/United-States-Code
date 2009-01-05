@@ -12,7 +12,7 @@
 
 &emsp;(5) to make any other recommendations as are in conformity with this subchapter and the Healing case to facilitate a settlement.
 
-(b) The authorizations contained in subsection (a) of this section shall be discretionary andshall not be construed to represent any directive of the Congress.
+(b) The authorizations contained in subsection (a) of this section shall be discretionary and shall not be construed to represent any directive of the Congress.
 
 (Pub. L. 93–531, §5, Dec. 22, 1974, 88 Stat. 1714; Pub. L. 93–531, §30(a), as added Pub. L. 96–305, §11, July 8, 1980, 94 Stat. 934.)
 

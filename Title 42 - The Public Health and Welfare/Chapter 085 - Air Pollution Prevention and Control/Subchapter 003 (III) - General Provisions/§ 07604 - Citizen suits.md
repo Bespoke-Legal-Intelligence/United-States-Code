@@ -32,7 +32,7 @@ No action may be commenced—
 
 (2) In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
 
-(3) Whenever any action is brought under this section the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and on the Administrator. No consent judgment shall be entered in an action brought under this section in which the UnitedStates is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator during which time the Government may submit its comments on the proposed consent judgment to the court and parties or may intervene as a matter of right.
+(3) Whenever any action is brought under this section the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and on the Administrator. No consent judgment shall be entered in an action brought under this section in which the United States is not a party prior to 45 days following the receipt of a copy of the proposed consent judgment by the Attorney General and the Administrator during which time the Government may submit its comments on the proposed consent judgment to the court and parties or may intervene as a matter of right.
 
 #### (d) Award of costs; security
 
@@ -40,7 +40,7 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Nonrestriction of other rights
 
-Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
+Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any emission standard or limitation or to seek any other relief (including relief against the Administrator or a State agency). Nothing in this section or in any other law of the United States shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from—
 
 &emsp;(1) bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court, or
 
@@ -94,7 +94,7 @@ Subsec. (c)(2). Pub. L. 101–549, §707(c), amended par. (2) generally. Prior t
 
 Subsec. (c)(3). Pub. L. 101–549, §707(d), added subsec. (c)(3).
 
-Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title (relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
+Subsec. (f)(3). Pub. L. 101–549, §707(e), struck out “any condition or requirement of section 7413(d) of this title\(relating to certain enforcement orders)” before “, section 7419 of this title”, substituted “subchapter VI of this chapter” for “part B of subchapter I of this chapter”, and substituted “; or” for period at end.
 
 Subsec. (f)(4). Pub. L. 101–549, §707(e), which directed that par. (4) be added at end of subsec. (f), was executed by adding par. (4) after par. (3), to reflect the probable intent of Congress.
 

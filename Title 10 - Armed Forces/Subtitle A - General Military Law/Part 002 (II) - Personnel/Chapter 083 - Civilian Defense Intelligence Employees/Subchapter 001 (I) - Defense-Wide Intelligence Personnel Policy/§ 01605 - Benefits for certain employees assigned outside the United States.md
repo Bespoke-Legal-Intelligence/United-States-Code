@@ -20,7 +20,7 @@
 
 &emsp;(3) are designated by the Secretary of Defense for the purposes of subsection (a).
 
-(Added Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, §192; renumbered §1605 andamended Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737; Pub. L. 99–335, title V, §507(b), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §501, Oct. 27, 1986, 100 Stat. 3198; Pub. L. 101–193, title V, §505(a), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(d), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–160, div. A, title XI, §1182(a)(3), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–93, title V, §502(a), Jan. 6, 1996, 109 Stat. 972; Pub. L. 104–201, div. A, title XVI, §1633(c)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, §192; renumbered §1605 and amended Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737; Pub. L. 99–335, title V, §507(b), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §501, Oct. 27, 1986, 100 Stat. 3198; Pub. L. 101–193, title V, §505(a), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(d), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–160, div. A, title XI, §1182(a)(3), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 104–93, title V, §502(a), Jan. 6, 1996, 109 Stat. 972; Pub. L. 104–201, div. A, title XVI, §1633(c)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Amendments
 

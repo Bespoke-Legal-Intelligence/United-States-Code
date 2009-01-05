@@ -82,7 +82,7 @@ Marriage and Family Therapist.—To be eligible to be appointed to a marriage an
 
 &emsp;(B) be licensed or certified to independently practice marriage and family therapy in a State, except that the Secretary may waive the requirement of licensure or certification for an individual marriage and family therapist for a reasonable period of time recommended by the Under Secretary for Health.
 
-(11) <sup>1</sup>
+(11)
 
 Licensed Professional Mental Health Counselor.—To be eligible to be appointed to a licensed professional mental health counselor position, a person must—
 
@@ -98,7 +98,17 @@ Chiropractor.—To be eligible to be appointed to a chiropractor position, a per
 
 &emsp;(B) be licensed to practice chiropractic in a State.
 
-(11) <sup>2</sup>
+(13) Peer Specialist.—To be eligible to be appointed to a peer specialist position, a person must—
+
+&emsp;(A) be a veteran who has recovered or is recovering from a mental health condition; and
+
+&emsp;(B) be certified by—
+
+&emsp;&emsp;(i) a not-for-profit entity engaged in peer specialist training as having met such criteria as the Secretary shall establish for a peer specialist position; or
+
+&emsp;&emsp;(ii) a State as having satisfied relevant State requirements for a peer specialist position.
+
+(14)
 
 Other Health-Care Positions.—To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
 
@@ -118,13 +128,27 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 &emsp;&emsp;(B) the person has voluntarily relinquished such license, registration, or certification in any of those States after being notified in writing by that State of potential termination for cause.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §302(b), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 109–461, title II, §201(b), Dec. 22, 2006, 120 Stat. 3409.)
+(g) The Secretary may enter into contracts with not-for-profit entities to provide—
+
+&emsp;(1) peer specialist training to veterans; and
+
+&emsp;(2) certification for veterans under subsection (b)(13)(B)(i).
+
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §302(b), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 109–461, title II, §201(b), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 110–387, title IV, §405, Oct. 10, 2008, 122 Stat. 4129.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2008—Subsec. (b)(11). Pub. L. 110–387, §405(a)(1), redesignated par. (11) relating to other health care positions as (14).
+
+Subsec. (b)(13). Pub. L. 110–387, §405(a)(2), added par. (13).
+
+Subsec. (b)(14). Pub. L. 110–387, §405(a)(1), redesignated par. (11) relating to other health care positions as (14).
+
+Subsec. (g). Pub. L. 110–387, §405(b), added subsec. (g).
 
 2006—Subsec. (b)(10) to (12). Pub. L. 109–461 added par. (10) and the par. (11) relating to licensed professional health counselor and redesignated former par. (10) as (12).
 
@@ -149,8 +173,4 @@ Section 305(b) of Pub. L. 102–86 provided that: “The amendment made by subse
 #### Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After November 23, 1977
 
 Section 4(a)(3) of Pub. L. 95–201 provided that: “Notwithstanding any other provision of law, with respect to persons other than those described in subsection (c) of section 4105 and subsection (f) of section 4114 of title 38, United States Code \[former sections 4105(c) and 4114(f) of this title, see subsec. (d) of this section and section 7407(d) of this title\] (as added by paragraphs (1) and (2) of this subsection), who are appointed after the date of enactment of this Act \[Nov. 23, 1977\] in the Department of Medicine and Surgery in the Veterans’ Administration \[now Veterans Health Administration of the Department of Veterans Affairs\] in any direct patient-care capacity, and with respect to persons described in such subsections who are appointed after such enactment date and prior to January 1, 1978, the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\], upon the recommendation of the Chief Medical Director \[now Under Secretary for Health\], shall take appropriate steps to provide reasonable assurance that such persons possess such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable such persons to carry out their health-care responsibilities satisfactorily.”
-
-<i><sup>1</sup></i><i> So in original. Another par. (11) follows par. (12).</i>
-
-<i><sup>2</sup></i><i> So in original. Another par. (11) precedes par. (12).</i>
 

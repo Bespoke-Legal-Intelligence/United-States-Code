@@ -678,6 +678,14 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–317, §1(a), Aug. 29, 2008, 122 Stat. 3526, provided that: “This Act \[amending sections 1145, 1146, and 1174 of this title, sections 2108 and 8521 of Title 5, Government Organization and Employees, section 685 of Title 26, Internal Revenue Code, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 2108 of Title 5 and section 685 of Title 26\] may be cited as the ‘Hubbard Act’.”
+
+Pub. L. 110–181, div. A, title VIII, §800, Jan. 28, 2008, 122 Stat. 202, provided that: “This title \[see Tables for classification\] may be cited as the ‘Acquisition Improvement and Accountability Act of 2007’.”
+
+Pub. L. 110–181, div. A, title XVIII, §1801, Jan. 28, 2008, 122 Stat. 496, provided that: “This title \[enacting section 10508 of this title, amending sections 113, 164, 526, 10501 to 10503, 10541, 14508, 14511, and 14512 of this title, and enacting provisions set out as notes under sections 113 and 164 of this title and section 104 of Title 32, National Guard\] may be cited as the ‘National Guard Empowerment Act of 2007’.”
+
 #### Short Title of 2005 Amendment
 
 Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, which provided that this Act, probably meaning section 8126 of div. A of Pub. L. 109–148, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees, could be cited as the “Support Our Scouts Act of 2005”, was repealed by Pub. L. 109–364, div. A, title X, §1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
@@ -704,7 +712,7 @@ Section 1(a) of Pub. L. 96–513 provided that: “This Act \[see Tables for cla
 
 #### Savings Provision
 
-Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
+Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedingsthat were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
 
 #### Transfer of Functions
 
@@ -716,7 +724,7 @@ Section 702 of Pub. L. 96–513 provided that: “If a provision of law that is 
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretaryof Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Public Health Service
 
@@ -750,6 +758,10 @@ Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
 
+Pub. L. 110–417, §3, Oct. 14, 2008, 122 Stat. 4372.
+
+Pub. L. 110–181, §3, Jan. 28, 2007, 122 Stat. 23.
+
 Pub. L. 109–364, §3, Oct. 17, 2006, 120 Stat. 2100.
 
 Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
@@ -759,6 +771,8 @@ Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
 Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies \[subcommittee jurisdiction now in Subcommittee on Military Construction, Veterans Affairs, and Related Agencies and Subcommittee on Defense\] of the Committee on Appropriations of the House of Representatives.
 
 The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 110–329, div. C, title VIII, §8028, Sept. 30, 2008, 122 Stat. 3627 (definition applies to div. C only).
 
 Pub. L. 110–116, div. A, title VIII, §8027, Nov. 13, 2007, 121 Stat. 1320.
 

@@ -10,7 +10,7 @@ Another section 3755 was renumbered section 3756 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–364 struck out “after October 23, 2002” after “section 3741 of this title” and inserted at end “In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.”
+2006—Pub. L. 109–364 struck out “after October 23, 2002” after “section 3741 of this title” and inserted atend “In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.”
 
 2002—Pub. L. 107–314 substituted “October 23, 2002” for “the date of the enactment of this section”.
 

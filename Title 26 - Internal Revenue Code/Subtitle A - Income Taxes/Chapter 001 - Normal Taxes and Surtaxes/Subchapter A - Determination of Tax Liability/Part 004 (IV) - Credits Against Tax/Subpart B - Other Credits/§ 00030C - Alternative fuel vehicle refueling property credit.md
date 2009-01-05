@@ -16,7 +16,7 @@ The credit allowed under subsection (a) with respect to all qualified alternativ
 
 For purposes of this section, the term “qualified alternative fuel vehicle refueling property” has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
 
-&emsp;(1) paragraph (1) of section 179A(d) did not apply to property installed on property whichis used as the principal residence (within the meaning of section 121) of the taxpayer, and
+&emsp;(1) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
 &emsp;(2) only the following were treated as clean-burning fuels for purposes of section 179A(d):
 
@@ -27,6 +27,8 @@ For purposes of this section, the term “qualified alternative fuel vehicle ref
 &emsp;&emsp;&emsp;(i) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
 
 &emsp;&emsp;&emsp;(ii) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
+
+&emsp;&emsp;(C) Electricity.
 
 #### (d) Application with other credits
 
@@ -52,7 +54,7 @@ For purposes of this section—
 
 #### (2) Property used by tax-exempt entity
 
-&emsp;In the case of any qualified alternative fuel vehicle refueling property the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such property to the person or entity using such property shall be treated as the taxpayer that placed such property in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+&emsp;In the case of any qualified alternative fuel vehicle refueling property the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such property to the person or entity using such property shall be treated as the taxpayer that placed such property in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such property (determined without regard to subsection (d)). For purposes of subsection (d), property to which this paragraph applies shall be treatedas of a character subject to an allowance for depreciation.
 
 #### (3) Property used outside United States not qualified
 
@@ -76,11 +78,15 @@ This section shall not apply to any property placed in service—
 
 &emsp;(1) in the case of property relating to hydrogen, after December 31, 2014, and
 
-&emsp;(2) in the case of any other property, after December 31, 2009.
+&emsp;(2) in the case of any other property, after December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479.)
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839.)
 
 #### Amendments
+
+2008—Subsec. (c)(2)(C). Pub. L. 110–343, §207(b), added subpar. (C).
+
+Subsec. (g)(2). Pub. L. 110–343, §207(a), substituted “December 31, 2010” for “December 31, 2009”.
 
 2007—Subsec. (b). Pub. L. 110–172, §6(b)(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
 
@@ -102,6 +108,10 @@ Residential property.—In the case of any property installed on property which 
 
 Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title II, §207(c), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–172, §6(e), Dec. 29, 2007, 121 Stat. 2481, provided that:
@@ -112,7 +122,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Nonapplication of exemption for off-highway business use.—The amendment made by subsection\(d)(3) \[amending section 4041 of this title\] shall apply to fuel sold for use or used after the date of the enactment of this Act \[Dec. 29, 2007\].
+Nonapplication of exemption for off-highway business use.—The amendment made by subsection (d)(3) \[amending section 4041 of this title\] shall apply to fuel sold for use or used after the date of the enactment of this Act \[Dec. 29, 2007\].
 
 “(3)
 

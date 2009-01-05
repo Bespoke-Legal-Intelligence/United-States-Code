@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Effective for the 2002 through 2007 crop years, in the case of a producer that would beeligible for a loan deficiency payment under section 7935 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+&emsp;Effective for the 2002 through 2007 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 7935 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
 
 #### (2) Grazing of triticale acreage
 
@@ -56,5 +56,5 @@ A 2002 through 2007 crop of wheat, barley, oats, or triticale planted on acreage
 
 This subchapter, referred to in subsec. (c)(2), was in the original “this subtitle”, meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (d), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 

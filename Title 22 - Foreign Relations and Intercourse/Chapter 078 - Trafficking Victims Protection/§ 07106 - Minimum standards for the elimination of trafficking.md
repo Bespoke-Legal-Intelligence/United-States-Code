@@ -2,7 +2,7 @@
 
 #### (a) Minimum standards
 
-For purposes of this chapter, the minimum standards for the elimination of trafficking applicable to the government of a country of origin, transit, or destination for a significant number of victims of severe forms of trafficking are the following:
+For purposes of this chapter, the minimum standards for the elimination of trafficking applicable to the government of a country of origin, transit, or destination for victims of severe forms of trafficking are the following:
 
 &emsp;(1) The government of the country should prohibit severe forms of trafficking in persons and punish acts of such trafficking.
 
@@ -16,15 +16,15 @@ For purposes of this chapter, the minimum standards for the elimination of traff
 
 In determinations under subsection (a)(4) of this section, the following factors should be considered as indicia of serious and sustained efforts to eliminate severe forms of trafficking in persons:
 
-&emsp;(1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country. After reasonable requests from the Department of State for data regarding investigations, prosecutions, convictions, and sentences, a government which does not provide such data, consistent with the capacity of such government to obtain such data, shall be presumed not to have vigorously investigated, prosecuted, convicted or sentenced such acts. During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.
+&emsp;(1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons, and convicts and sentences persons responsible forsuch acts, that take place wholly or partly within the territory of the country, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons. After reasonable requests from the Department of State for data regarding investigations, prosecutions, convictions, and sentences, a government which does not provide such data, consistent with the capacity of such government to obtain such data, shall be presumed not to have vigorously investigated, prosecuted, convicted or sentenced such acts. During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.
 
-&emsp;(2) Whether the government of the country protects victims of severe forms of trafficking in persons and encourages their assistance in the investigation and prosecution of such trafficking, including provisions for legal alternatives to their removal to countries in which they would face retribution or hardship, and ensures that victims are not inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts as a direct result of being trafficked.
+&emsp;(2) Whether the government of the country protects victims of severe forms of trafficking in persons and encourages their assistance in the investigation and prosecution of such trafficking, including provisions for legal alternatives to their removal to countries in which they would face retribution or hardship, and ensures that victims are not inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts as a direct result of being trafficked, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims.
 
-&emsp;(3) Whether the government of the country has adopted measures to prevent severe forms of trafficking in persons, such as measures to inform and educate the public, including potential victims, about the causes and consequences of severe forms of trafficking in persons, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards.
+&emsp;(3) Whether the government of the country has adopted measures to prevent severe forms of trafficking in persons, such as measures to inform and educate the public, including potential victims, about the causes and consequences of severe forms of trafficking in persons, measures to establish the identity of local populations, including birth registration, citizenship, and nationality, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards.
 
 &emsp;(4) Whether the government of the country cooperates with other governments in the investigation and prosecution of severe forms of trafficking in persons.
 
-&emsp;(5) Whether the government of the country extradites persons charged with acts of severeforms of trafficking in persons on substantially the same terms and to substantially the same extent as persons charged with other serious crimes (or, to the extent such extradition would be inconsistent with the laws of such country or with international agreements to which the country is a party, whether the government is taking all appropriate measures to modify or replace such laws and treaties so as to permit such extradition).
+&emsp;(5) Whether the government of the country extradites persons charged with acts of severe forms of trafficking in persons on substantially the same terms and to substantially the same extent as persons charged with other serious crimes (or, to the extent such extradition would be inconsistent with the laws of such country or with international agreements to which the country is a party, whether the government is taking all appropriate measures to modify or replace such laws and treaties so as to permit such extradition).
 
 &emsp;(6) Whether the government of the country monitors immigration and emigration patterns for evidence of severe forms of trafficking in persons and whether law enforcement agencies of the country respond to any such evidence in a manner that is consistent with the vigorous investigation and prosecution of acts of such trafficking, as well as with the protection of human rights of victims and the internationally recognized human right to leave any country, including one's own, and to return to one's own country.
 
@@ -36,9 +36,25 @@ In determinations under subsection (a)(4) of this section, the following factors
 
 &emsp;(10) Whether the government of the country achieves appreciable progress in eliminating severe forms of trafficking when compared to the assessment in the previous year.
 
-(Pub. L. 106–386, div. A, §108, Oct. 28, 2000, 114 Stat. 1480; Pub. L. 108–193, §6(d), Dec. 19, 2003, 117 Stat. 2881; Pub. L. 109–164, title I, §104(b)(1), Jan. 10, 2006, 119 Stat. 3564.)
+&emsp;(11) Whether the government of the country has made serious and sustained efforts to reduce the demand for—
+
+&emsp;&emsp;(A) commercial sex acts; and
+
+&emsp;&emsp;(B) participation in international sex tourism by nationals of the country.
+
+(Pub. L. 106–386, div. A, §108, Oct. 28, 2000, 114 Stat. 1480; Pub. L. 108–193, §6(d), Dec. 19, 2003, 117 Stat. 2881; Pub. L. 109–164, title I, §104(b)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, §106, Dec. 23, 2008, 122 Stat. 5048.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–457, §106(1), struck out “a significant number of” before “victims” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 110–457, §106(2)(A), substituted “, including, as appropriate, requiring incarceration of individuals convicted of such acts. For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in persons shall be considered, on a case-by-case basis, whether to be considered an indicator of serious and sustained efforts to eliminate severe forms of trafficking in persons.” for period at end of first sentence.
+
+Subsec. (b)(2). Pub. L. 110–457, §106(2)(B), inserted “, including by providing training to law enforcement and immigration officials regarding the identification and treatment of trafficking victims using approaches that focus on the needs of the victims” before period at end.
+
+Subsec. (b)(3). Pub. L. 110–457, §106(2)(C), substituted “measures to establish the identity of local populations, including birth registration, citizenship, and nationality” for “measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country”.
+
+Subsec. (b)(11). Pub. L. 110–457, §106(2)(D), added par. (11).
 
 2006—Subsec. (b)(3). Pub. L. 109–164, §104(b)(1), inserted before period at end “, measures to reduce the demand for commercial sex acts and for participation in international sex tourism by nationals of the country, measures to ensure that its nationals who are deployed abroad as part of a peacekeeping or other similar mission do not engage in or facilitate severe forms of trafficking in persons or exploit victims of such trafficking, and measures to prevent the use of forced labor or child labor in violation of international standards”.
 

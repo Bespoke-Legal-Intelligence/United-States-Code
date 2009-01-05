@@ -46,7 +46,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (2)(A) The Director of the National Institute of Standards and Technology shall, under appropriate contractual arrangements, carry out the Director's responsibilities under subparagraphs (A) and (B) of paragraph (1) through one or more broad-based nonprofit entities which are leaders in the field of quality management and which have a history of service to society.
 
-(B) The Secretary shall appoint a board of overseers for the award, consisting of at least five persons selected for their preeminence in the field of quality management. This board shall meet annually to review the work of the contractor or contractors and make such suggestions for the improvement of the award process as they deem necessary. The board shall report the results of the award activities to the Director of the National Institute of Standards and Technology each year, along with its recommendations for improvement of the process.
+(B) The Secretary shall appoint a board of overseers for the award, consisting of at least five persons selected for their preeminence in the field of quality management. This board shall meet annually to review the work of the contractor or contractors and make such suggestions for the improvement of the award process as they deem necessary. The board shall report the results of the award activities to theDirector of the National Institute of Standards and Technology each year, along with its recommendations for improvement of the process.
 
 #### (e) Information and technology transfer program
 
@@ -60,7 +60,7 @@ The Secretary is authorized to seek and accept gifts from public and private sou
 
 The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
+(Pub. L. 96–480, §17, formerly §16, as added Pub. L. 100–107, §3(a), Aug. 20, 1987, 101 Stat. 725; renumbered §17 and amended Pub. L. 100–418, title V, §§5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, 102 Stat. 1433, 1438; Pub. L. 102–245, title III, §305, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §3, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 108–320, §1, Oct. 5, 2004, 118 Stat. 1213; Pub. L. 110–69, title III, §3010, Aug. 9, 2007, 121 Stat. 592.)
 
 #### Amendments
 

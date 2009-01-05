@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and the Securities and Exchange Commission, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
+&emsp;Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, andthe Securities and Exchange Commission, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
 
 #### (2) Coordination
 

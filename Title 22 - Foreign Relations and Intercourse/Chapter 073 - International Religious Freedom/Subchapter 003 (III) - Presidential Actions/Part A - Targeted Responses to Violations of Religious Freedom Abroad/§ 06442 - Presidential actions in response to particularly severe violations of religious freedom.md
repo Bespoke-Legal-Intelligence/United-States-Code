@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.
+&emsp;&emsp;Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or toleratedviolations described in this subparagraph as a country of particular concern for religious freedom.
 
 #### (B) Basis of review
 
@@ -32,7 +32,7 @@
 
 #### (2) Determinations of responsible parties
 
-&emsp;For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agencyor instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
+&emsp;For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agency or instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
 
 #### (3) Congressional notification
 
@@ -92,7 +92,7 @@
 
 #### (5) Exception for ongoing, multiple, broad-based sanctions in response to human rights violations
 
-&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
+&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title,and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
 
 #### (d) Statutory construction
 
@@ -102,7 +102,7 @@ A determination under this chapter, or any amendment made by this chapter, that 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classifiedprincipally to this subchapter. For complete classification of title IV to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
 This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 

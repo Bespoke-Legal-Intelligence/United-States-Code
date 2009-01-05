@@ -20,7 +20,7 @@ Application for operating authority.—
 
 &emsp;&emsp;(A)
 
-Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to theAdministrator for authority to conduct the operations over the park or tribal lands.
+Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
 
 &emsp;&emsp;(B)
 
@@ -86,7 +86,7 @@ Objective.—The objective of any air tour management plan shall be to develop a
 
 &emsp;(2)
 
-Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
+Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
 
 &emsp;(3)
 
@@ -172,7 +172,7 @@ Safety limitation.—The Administrator may not grant interim operating authority
 
 &emsp;&emsp;(C)
 
-ATMP limitation.—The Administrator may grant interim operating authorityunder subparagraph (A) of this paragraph only if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
+ATMP limitation.—The Administrator may grant interim operating authority under subparagraph (A) of this paragraph only if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
 
 (d)
 

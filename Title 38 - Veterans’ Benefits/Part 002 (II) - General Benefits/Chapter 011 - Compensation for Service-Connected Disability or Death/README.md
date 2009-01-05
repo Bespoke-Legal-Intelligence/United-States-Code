@@ -67,6 +67,7 @@
 | [1153\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001153%20-%20Aggravation.md) | Aggravation. |
 | [1154\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001154%20-%20Consideration%20to%20be%20accorded%20time%2C%20place%2C%20and%20circumstances%20of%20service.md) | Consideration to be accorded time, place, and circumstances of service. |
 | [1155\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001155%20-%20Authority%20for%20schedule%20for%20rating%20disabilities.md) | Authority for schedule for rating disabilities. |
+| [1156\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001156%20-%20Temporary%20disability%20ratings.md) | Temporary disability ratings. |
 | [1157\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001157%20-%20Combination%20of%20certain%20ratings.md) | Combination of certain ratings. |
 | [1158\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001158%20-%20Disappearance.md) | Disappearance. |
 | [1159\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001159%20-%20Protection%20of%20service%20connection.md) | Protection of service connection. |
@@ -78,6 +79,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title II, §211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
 
 2001—Pub. L. 107–103, title II, §201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
 

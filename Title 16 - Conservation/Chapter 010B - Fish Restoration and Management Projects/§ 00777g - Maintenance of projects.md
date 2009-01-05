@@ -2,7 +2,7 @@
 
 #### (a) Duty of States; status of projects; title to property
 
-To maintain fish-restoration and management projects established under the provisions of this chapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
+To maintain fish-restoration and management projects established under the provisions of thischapter shall be the duty of the States according to their respective laws. Beginning July 1, 1953, maintenance of projects heretofore completed under the provisions of this chapter may be considered as projects under this chapter. Title to any real or personal property acquired by any State, and to improvements placed on State-owned lands through the use of funds paid to the State under the provisions of this chapter, shall be vested in such State.
 
 #### (b) Funding requirements
 
@@ -24,7 +24,7 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 &emsp;The plan shall provide—
 
-&emsp;&emsp;(A) guidance, including guidance on the development of an administrative processand funding priorities, for outreach and communications programs; and
+&emsp;&emsp;(A) guidance, including guidance on the development of an administrative process and funding priorities, for outreach and communications programs; and
 
 &emsp;&emsp;(B) for the establishment of a national program.
 

@@ -14,7 +14,7 @@ Pub. L. 109–156, §1, Dec. 30, 2005, 119 Stat. 2946, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–291, title I, §150(a), Oct. 11, 2000, 114 Stat. 956, provided that: “This section \[enacting section469<i>l</i>–2 of this title and provisions set out as a note under section 469<i>l</i>–2 of this title\] may be cited as the ‘National Underground Railroad Freedom Center Act’.”
+Pub. L. 106–291, title I, §150(a), Oct. 11, 2000, 114 Stat. 956, provided that: “This section \[enacting section 469<i>l</i>–2 of this title and provisions set out as a note under section 469<i>l</i>–2 of this title\] may be cited as the ‘National Underground Railroad Freedom Center Act’.”
 
 #### Short Title of 1998 Amendment
 
@@ -44,7 +44,7 @@ Boston African American National Historic Site, Massachusetts.—Pub. L. 96–43
 
 Brown v. Board of Education National Historic Site, Kansas.—Pub. L. 102–525, title I, Oct. 26, 1992, 106 Stat. 3438.
 
-Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1968.
+Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1968; Pub. L. 110–229, title III, §311, May 8, 2008, 122 Stat. 769.
 
 Carter G. Woodson Home National Historic Site, District of Columbia.—Pub. L. 108–192, Dec. 19, 2003, 117 Stat. 2873.
 
@@ -148,6 +148,8 @@ Martin Van Buren National Historic Site, New York.—Pub. L. 93–486, title I, 
 
 Mary McLeod Bethune Council House National Historic Site, District of Columbia.—Pub. L. 97–329, Oct. 15, 1982, 96 Stat. 1615; Pub. L. 102–211, Dec. 11, 1991, 105 Stat. 1652.
 
+Minidoka National Historic Site, Idaho.—Pub. L. 110–229, title III, §313, May 8, 2008, 122 Stat. 770.
+
 Minuteman Missile National Historic Site, South Dakota.—Pub. L. 106–115, Nov. 29, 1999, 113 Stat. 1540.
 
 Nicodemus National Historic Site, Kansas.—Pub. L. 104–333, div. I, title V, §512, Nov. 12, 1996, 110 Stat. 4163; Pub. L. 106–176, title I, §112, Mar. 10, 2000, 114 Stat. 27.
@@ -230,21 +232,23 @@ Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98�
 
 John H. Chafee Blackstone River Valley National Heritage Corridor \[formerly Blackstone River Valley National Heritage Corridor\], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §343\], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, §121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§701, 702, Oct. 12, 2006, 120 Stat. 1857.
 
-Ohio \& Erie Canal National Heritage Corridor, Ohio.—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31.
+Ohio \& Erie Canal National Heritage Corridor, Ohio (see Ohio \& Erie National Heritage Canalway, Ohio).
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor, Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726.
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260.
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826.
 
 National Heritage Areas
 
 &nbsp;
 
+Abraham Lincoln National Heritage Area, Illinois.—Pub. L. 110–229, title IV, §§441–451, May 8, 2008, 122 Stat. 818–824.
+
 Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, §§231–242, Oct. 12, 2006, 120 Stat. 1795–1800.
 
 Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31.
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
 
 Automobile National Heritage Area, Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247.
 
@@ -252,11 +256,13 @@ Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I,
 
 Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub. L. 109–338, title II, §§297–297J, Oct. 12, 2006, 120 Stat. 1837–1844.
 
-Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31.
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
 
 Freedom's Frontier National Heritage Area, Kansas and Missouri.—Pub. L. 109–338, title II, §§261–269, Oct. 12, 2006, 120 Stat. 1807–1813.
 
-Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31.
+Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+
+Journey Through Hallowed Ground National Heritage Area, Maryland, Pennsylvania, Virginia, West Virginia.—Pub. L. 110–229, title IV, §§401–411, May 8, 2008, 122 Stat. 802–809.
 
 Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395.
 
@@ -266,19 +272,21 @@ Mormon Pioneer National Heritage Area, Utah.—Pub. L. 109–338, title II, §§
 
 National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361.
 
-National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862.
+National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§461, 471, May 8, 2008, 122 Stat. 824, 825.
+
+Niagara Falls National Heritage Area, New York.—Pub. L. 110–229, title IV, §§421–432, May 8, 2008, 122 Stat. 809–818.
 
 Northern Rio Grande National Heritage Area, New Mexico.—Pub. L. 109–338, title II, §§201–209, Oct. 12, 2006, 120 Stat. 1787–1790.
 
 Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
 
-Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158.
+Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826.
 
 Schuylkill River Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title II, Oct. 6, 2000, 114 Stat. 819.
 
 Steel Industry American Heritage Area (see Rivers of Steel National Heritage Area, Pennsylvania).
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31.
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
 
 Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
 
@@ -286,11 +294,17 @@ Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §
 
 Yuma Crossing National Heritage Area, Arizona.—Pub. L. 106–319, Oct. 19, 2000, 114 Stat. 1280; Pub. L. 109–318, §1, Oct. 11, 2006, 120 Stat. 1745.
 
+National Heritage Canalways
+
+&nbsp;
+
+Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826.
+
 National Heritage Partnerships
 
 &nbsp;
 
-America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34.
+America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
 
 Champlain Valley National Heritage Partnership, New York and Vermont.—Pub. L. 109–338, title II, §§281–289, Oct. 12, 2006, 120 Stat. 1819–1824.
 
@@ -320,7 +334,7 @@ Criteria.—The Secretary, after consultation with State, local, and tribal gove
 
 &emsp;“(2)
 
-Provision of grants.—Not later than 180 days after the date on which funds are made available tocarry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
+Provision of grants.—Not later than 180 days after the date on which funds are made available to carry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
 
 “(c)
 
@@ -428,7 +442,7 @@ Pub. L. 101–543, Nov. 8, 1990, 104 Stat. 2389, established Maine Acadian Cultu
 
 #### Southwestern Pennsylvania Heritage Preservation Commission
 
-Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(L), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–291, title I, §148, Oct. 11, 2000, 114 Stat. 956, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
+Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(L), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–291, title I, §148, Oct. 11, 2000, 114 Stat. 956, provided for the establishment and staffing of the SouthwesternPennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
 
 #### Historic Resources of Camden, South Carolina
 
@@ -470,7 +484,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of theowner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
 “Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
@@ -574,7 +588,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing WhiteLight “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

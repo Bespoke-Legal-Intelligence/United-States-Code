@@ -72,13 +72,7 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk and a description of the capabilities needed to address such risk.
 
-(2) The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armed forces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
-
-&emsp;(A) Unnecessary duplication of effort among the armed forces.
-
-&emsp;(B) Changes in technology that can be applied effectively to warfare.
-
-(3) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
+(2) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
 
 (f)
 
@@ -86,13 +80,47 @@ Independent Panel Assessment.—(1) Not later than six months before the date on
 
 (2) Not later than three months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the panel appointed under paragraph (1) shall submit to those committees an assessment of the review, including the recommendations of the review, the stated and implied assumptions incorporated in the review, and the vulnerabilities of the strategy and force structure underlying the review. The assessment of the panel shall include analyses of the trends, asymmetries, and concepts of operations that characterize the military balance with potential adversaries, focusing on the strategic approaches of possible opposing forces.
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386.)
+(g)
+
+Consideration of Effect of Climate Change on Department Facilities, Capabilities, and Missions.—(1) The first national security strategy and national defense strategy prepared after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 shall include guidance for military planners—
+
+&emsp;(A) to assess the risks of projected climate change to current and future missions of the armed forces;
+
+&emsp;(B) to update defense plans based on these assessments, including working with allies and partners to incorporate climate mitigation strategies, capacity building, and relevant research and development; and
+
+&emsp;(C) to develop the capabilities needed to reduce future impacts.
+
+(2) The first quadrennial defense review prepared after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 shall also examine the capabilities of the armed forces to respond to the consequences of climate change, in particular, preparedness for natural disasters from extreme weather events and other missions the armed forces may be asked to support inside the United States and overseas.
+
+(3) For planning purposes to comply with the requirements of this subsection, the Secretary of Defense shall use—
+
+&emsp;(A) the mid-range projections of the fourth assessment report of the Intergovernmental Panel on Climate Change;
+
+&emsp;(B) subsequent mid-range consensus climate projections if more recent information is available when the next national security strategy, national defense strategy, or quadrennial defense review, as the case may be, is conducted; and
+
+&emsp;(C) findings of appropriate and available estimations or studies of the anticipated strategic, social, political, and economic effects of global climate change and the implications of such effects on the national security of the United States.
+
+(4) In this subsection, the term “national security strategy” means the annual national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a).
+
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (g)(1), (2), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 #### Prior Provisions
 
 A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1288, §133b; renumbered §118, Pub. L. 99–433, title I, §101(a)(2), Oct. 1, 1986, 100 Stat. 994, required reports to Congress on sales or transfers of defense articles, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(2), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+2008—Subsec. (e)(2), (3). Pub. L. 110–181, §941(b), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armed forces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
+
+&emsp;“(A) Unnecessary duplication of effort among the armed forces.
+
+&emsp;“(B) Changes in technology that can be applied effectively to warfare.”
+
+Subsec. (g). Pub. L. 110–181, §951(a), added subsec. (g).
 
 2006—Subsec. (b)(4). Pub. L. 109–364, §1031(c), added par. (4).
 
@@ -117,6 +145,10 @@ Subsec. (d)(14), (15). Pub. L. 107–314, §923, added par. (14) and redesignate
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Implementation
+
+Pub. L. 110–181, div. A, title IX, §951(b), Jan. 28, 2008, 122 Stat. 291, provided that: “The Secretary of Defense shall ensure that subsection (g) of section 118 of title 10, United States Code, as added by subsection (a), is implemented in a manner that does not have a negative impact on the national security of the United States.”
 
 #### Findings and Sense of Congress
 

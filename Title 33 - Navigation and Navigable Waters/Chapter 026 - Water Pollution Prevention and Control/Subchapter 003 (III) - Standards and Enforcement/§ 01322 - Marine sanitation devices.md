@@ -56,7 +56,7 @@ For the purpose of this section, the term—
 
 #### (b) Federal standards of performance
 
-(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established undersubsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
+(1) As soon as possible, after October 18, 1972, and subject to the provisions of section 1254(j) of this title, the Administrator, after consultation with the Secretary of the department in which the Coast Guard is operating, after giving appropriate consideration to the economic costs involved, and within the limits of available technology, shall promulgate Federal standards of performance for marine sanitation devices (hereafter in this section referred to as “standards”) which shall be designed to prevent the discharge of untreated or inadequately treated sewage into or upon the navigable waters from new vessels and existing vessels, except vessels not equipped with installed toilet facilities. Such standards and standards established under subsection (c)(1)(B) of this section shall be consistent with maritime safety and the marine and navigation laws and regulations and shall be coordinated with the regulations issued under this subsection by the Secretary of the department in which the Coast Guard is operating. The Secretary of the department in which the Coast Guard is operating shall promulgate regulations, which are consistent with standards promulgated under this subsection and subsection (c) of this section and with maritime safety and the marine and navigation laws and regulations governing the design, construction, installation, and operation of any marine sanitation device on board such vessels.
 
 (2) Any existing vessel equipped with a marine sanitation device on the date of promulgation of initial standards and regulations under this section, which device is in compliance with such initial standards and regulations, shall be deemed in compliance with this section until such time as the device is replaced or is found not to be in compliance with such initial standards and regulations.
 
@@ -86,7 +86,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (3) After the effective date of the initial standards and regulations promulgated under this section, if any State determines that the protection and enhancement of the quality of some or all of the waters within such State require greater environmental protection, such State may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such waters, except that no such prohibition shall apply until the Administrator determines that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for such water to which such prohibition would apply. Upon application of the State, the Administrator shall make such determination within 90 days of the date of such application.
 
-(4)(A) If the Administrator determines upon application by a State that the protection and enhancement of the quality of specified waters within such State requires such a prohibition,he shall by regulation completely prohibit the discharge from a vessel of any sewage (whether treated or not) into such waters.
+(4)(A) If the Administrator determines upon application by a State that the protection and enhancement of the quality of specified waters within such State requires such a prohibition, he shall by regulation completely prohibit the discharge from a vessel of any sewage (whether treated or not) into such waters.
 
 (B) Upon application by a State, the Administrator shall, by regulation, establish a drinking water intake zone in any waters within such State and prohibit the discharge of sewage from vessels within that zone.
 
@@ -116,7 +116,7 @@ The district courts of the United States shall have jurisdictions to restrain vi
 
 #### (j) Penalties
 
-Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting toachieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 #### (k) Enforcement authority
 
@@ -288,13 +288,131 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;This subsection shall be enforceable, as provided in subsections (j) and (k) of this section, against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
 
-(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871; amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259.)
+#### (<i>o</i>) Management practices for recreational vessels
+
+#### (1) Applicability
+
+&emsp;This subsection applies to any discharge, other than a discharge of sewage, from a recreational vessel that is—
+
+&emsp;&emsp;(A) incidental to the normal operation of the vessel; and
+
+&emsp;&emsp;(B) exempt from permitting requirements under section 1342(r) of this title.
+
+#### (2) Determination of discharges subject to management practices
+
+#### (A) Determination
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and interested States, shall determine the discharges incidental to the normal operation of a recreational vessel for which it is reasonable and practicable to develop management practices to mitigate adverse impacts on the waters of the United States.
+
+#### (ii) Promulgation
+
+&emsp;&emsp;&emsp;The Administrator shall promulgate the determinations under clause (i) in accordance with section 553 of title 5.
+
+#### (iii) Management practices
+
+&emsp;&emsp;&emsp;The Administrator shall develop management practices for recreational vessels in any case in which the Administrator determines that the use of those practices is reasonable and practicable.
+
+#### (B) Considerations
+
+&emsp;&emsp;In making a determination under subparagraph (A), the Administrator shall consider—
+
+&emsp;&emsp;&emsp;(i) the nature of the discharge;
+
+&emsp;&emsp;&emsp;(ii) the environmental effects of the discharge;
+
+&emsp;&emsp;&emsp;(iii) the practicability of using a management practice;
+
+&emsp;&emsp;&emsp;(iv) the effect that the use of a management practice would have on the operation, operational capability, or safety of the vessel;
+
+&emsp;&emsp;&emsp;(v) applicable Federal and State law;
+
+&emsp;&emsp;&emsp;(vi) applicable international standards; and
+
+&emsp;&emsp;&emsp;(vii) the economic costs of the use of the management practice.
+
+#### (C) Timing
+
+&emsp;&emsp;The Administrator shall—
+
+&emsp;&emsp;&emsp;(i) make the initial determinations under subparagraph (A) not later than 1 year after July 29, 2008; and
+
+&emsp;&emsp;&emsp;(ii) every 5 years thereafter—
+
+&emsp;&emsp;&emsp;&emsp;(I) review the determinations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if necessary, revise the determinations based on any new information available to the Administrator.
+
+#### (3) Performance standards for management practices
+
+#### (A) In general
+
+&emsp;&emsp;For each discharge for which a management practice is developed under paragraph (2), the Administrator, in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, other interested Federal agencies, and interested States, shall promulgate, in accordance with section 553 of title 5, Federal standards of performance for each management practice required with respect to the discharge.
+
+#### (B) Considerations
+
+&emsp;&emsp;In promulgating standards under this paragraph, the Administrator shall take into account the considerations described in paragraph (2)(B).
+
+#### (C) Classes, types, and sizes of vessels
+
+&emsp;&emsp;The standards promulgated under this paragraph may—
+
+&emsp;&emsp;&emsp;(i) distinguish among classes, types, and sizes of vessels;
+
+&emsp;&emsp;&emsp;(ii) distinguish between new and existing vessels; and
+
+&emsp;&emsp;&emsp;(iii) provide for a waiver of the applicability of the standards as necessary or appropriate to a particular class, type, age, or size of vessel.
+
+#### (D) Timing
+
+&emsp;&emsp;The Administrator shall—
+
+&emsp;&emsp;&emsp;(i) promulgate standards of performance for a management practice under subparagraph (A) not later than 1 year after the date of a determination under paragraph (2) that the management practice is reasonable and practicable; and
+
+&emsp;&emsp;&emsp;(ii) every 5 years thereafter—
+
+&emsp;&emsp;&emsp;&emsp;(I) review the standards; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if necessary, revise the standards, in accordance with subparagraph (B) and based on any new information available to the Administrator.
+
+#### (4) Regulations for the use of management practices
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary of the department in which the Coast Guard is operating shall promulgate such regulations governing the design, construction, installation, and use of management practices for recreational vessels as are necessary to meet the standards of performance promulgated under paragraph (3).
+
+#### (B) Regulations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall promulgate the regulations under this paragraph as soon as practicable after the Administrator promulgates standards with respect to the practice under paragraph (3), but not later than 1 year after the date on which the Administrator promulgates the standards.
+
+#### (ii) Effective date
+
+&emsp;&emsp;&emsp;The regulations promulgated by the Secretary under this paragraph shall be effective upon promulgation unless another effective date is specified in the regulations.
+
+#### (iii) Consideration of time
+
+&emsp;&emsp;&emsp;In determining the effective date of a regulation promulgated under this paragraph, the Secretary shall consider the period of time necessary to communicate the existence of the regulation to persons affected by the regulation.
+
+#### (5) Effect of other laws
+
+&emsp;This subsection shall not affect the application of section 1321 of this title to discharges incidental to the normal operation of a recreational vessel.
+
+#### (6) Prohibition relating to recreational vessels
+
+&emsp;After the effective date of the regulations promulgated by the Secretary of the department in which the Coast Guard is operating under paragraph (4), the owner or operator of a recreational vessel shall neither operate in nor discharge any discharge incidental to the normal operation of the vessel into, the waters of the United States or the waters of the contiguous zone, if the owner or operator of the vessel is not using any applicable management practice meeting standards established under this subsection.
+
+(June 30, 1948, ch. 758, title III, §312, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 871;amended Pub. L. 95–217, §59, Dec. 27, 1977, 91 Stat. 1596; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–4, title III, §311, Feb. 4, 1987, 101 Stat. 42; Pub. L. 104–106, div. A, title III, §325(b)–(c)(2), Feb. 10, 1996, 110 Stat. 254–259; Pub. L. 110–288, §4, July 29, 2008, 122 Stat. 2650.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2008—Subsec. (<i>o</i>). Pub. L. 110–288 added subsec. (<i>o</i>).
 
 1996—Subsec. (a)(8). Pub. L. 104–106, §325(c)(1)(A), substituted “corporation, association, or agency of the United States,” for “corporation, or association,”.
 
@@ -508,7 +626,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 “(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;“(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 

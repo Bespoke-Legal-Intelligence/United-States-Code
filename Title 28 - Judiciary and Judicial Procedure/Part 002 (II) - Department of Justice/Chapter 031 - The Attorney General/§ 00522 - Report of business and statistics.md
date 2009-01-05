@@ -28,7 +28,7 @@ R.S. §384.
 
 The words “The Attorney General . . . shall report” are substituted for “It shall be the duty of the Attorney General to make . . . a report”. The word “beginning” is substituted for “commencement”. The words “pertaining to the Department that he considers proper” are substituted for “appertaining thereto that he may deem proper”.
 
-The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsoletein view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223 (Chapter 41 of this title).
+The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223 (Chapter 41 of this title).
 
 In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
@@ -58,7 +58,7 @@ Data collection.—The Attorney General shall compile and collect data concernin
 
 &emsp;&emsp;“(B) the number of—
 
-&emsp;&emsp;&emsp;“(i) investigations, prosecutions, and related proceedings described in subparagraph (A) which are inactive as of the close of the reporting period but have not been closed or declined; and
+&emsp;&emsp;&emsp;“(i) investigations, prosecutions, and related proceedings described in subparagraph (A) whichare inactive as of the close of the reporting period but have not been closed or declined; and
 
 &emsp;&emsp;&emsp;“(ii) unaddressed referrals which allege criminal misconduct involving offenses described in subparagraph (A),
 

@@ -20,7 +20,7 @@ Congress finds that—
 
 #### (b) Policy
 
-It is the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on sheep and sheep products produced or imported into the United States), and carrying out an effective, continuous, coordinated program ofpromotion, research, consumer information, education, and industry information designed to—
+It is the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on sheep and sheep products produced or imported into the United States), and carrying out an effective, continuous, coordinated program of promotion, research, consumer information, education, and industry information designed to—
 
 &emsp;(1) strengthen the position of the sheep and sheep product industry in the marketplace;
 
@@ -44,7 +44,7 @@ Section 1 of Pub. L. 103–407 provided that: “This Act \[enacting this chapte
 
 #### Wool Research, Development, and Promotion Trust Fund
 
-Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, §4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, §1633(b)(2), Aug. 17, 2006, 120 Stat. 1166, provided that:
+Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047; Pub. L. 108–429, title IV, §4002(c)(5), Dec. 3, 2004, 118 Stat. 2603; Pub. L. 109–280, title XIV, §1633(b)(2), Aug. 17, 2006, 120 Stat. 1166; Pub. L. 110–343, div. C, title III, §325(b)(2), Oct. 3, 2008, 122 Stat. 3875, provided that:
 
 “(a)
 
@@ -94,5 +94,5 @@ Reports to Congress.—The Secretary of the Treasury, in consultation with the S
 
 “(f)
 
-Sunset Provision.—Effective January 1, 2010, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
+Sunset Provision.—Effective January 1, 2015, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
 

@@ -1,6 +1,6 @@
 ### §566. Powers and duties
 
-(a) It is the primary role and mission of the United States Marshals Service to provide for the security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
+(a) It is the primary role and mission of the United States Marshals Service to provide forthe security and to obey, execute, and enforce all orders of the United States District Courts, the United States Courts of Appeals, the Court of International Trade, and the United States Tax Court, as provided by law.
 
 (b) The United States marshal of each district is the marshal of the district court and of the court of appeals when sitting in that district, and of the Court of International Trade holding sessions in that district, and may, in the discretion of the respective courts, be required to attend any session of court.
 

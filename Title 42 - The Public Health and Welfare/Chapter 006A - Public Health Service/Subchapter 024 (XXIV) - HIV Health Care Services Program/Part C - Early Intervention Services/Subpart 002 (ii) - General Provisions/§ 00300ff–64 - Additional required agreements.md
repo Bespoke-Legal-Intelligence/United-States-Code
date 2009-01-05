@@ -74,7 +74,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;With respect to compliance with the agreement made under paragraph (1), a grantee under this part may, in the case of individuals subject to a charge for purposes of such paragraph—
 
-&emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and of paragraph (2) regarding limitations on the maximum amount of charges; and
+&emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and ofparagraph (2) regarding limitations on the maximum amount of charges; and
 
 &emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
 
@@ -84,7 +84,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (5) Waiver regarding certain secondary agreements
 
-&emsp;The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary inthe case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title.
+&emsp;The requirement established in paragraph (1)(B)(i) shall be waived by the Secretary in the case of any entity for whom the Secretary has granted a waiver under section 300ff–52(b)(2) of this title.
 
 #### (f) Relationship to items and services under other programs
 
@@ -146,7 +146,7 @@ Subsec. (g)(3). Pub. L. 106–345, §322(1)(A), substituted “10 percent” for
 
 Subsec. (g)(5). Pub. L. 106–345, §322(1)(B), (2), (3), added par. (5).
 
-Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
+Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of subsec. (h). Text read as follows: “A State may not use amounts received under a grant awarded under section 300ff–41 of this title to purchaseor improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.”
 
 1996—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted “7.5 percent including planning and evaluation” for “5 percent”.
 

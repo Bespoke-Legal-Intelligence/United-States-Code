@@ -22,7 +22,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 &emsp;(I) That part of remuneration which, after remuneration (other than remuneration referred to in the succeeding subsections of this section) equal to the contribution and benefit base (determined under section 430 of this title) with respect to employment has been paid to an individual during any calendar year after 1974 with respect to which such contribution and benefit base is effective, is paid to such individual during such calendar year;
 
-&emsp;(2) The amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of (A) sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this clause shall exclude from the term “wages” only payments which are received under a workmen's compensation law), or (B) medical or hospitalization expenses in connection with sickness or accident disability, or (C) death, except that this subsection does not apply to a payment for group-term life insurance to the extentthat such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986;
+&emsp;(2) The amount of any payment (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) made to, or on behalf of, an employee or any of his dependents under a plan or system established by an employer which makes provision for his employees generally (or for his employees generally and their dependents) or for a class or classes of his employees (or for a class or classes of his employees and their dependents), on account of (A) sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this clause shall exclude from the term “wages” only payments which are received under a workmen's compensation law), or (B) medical or hospitalization expenses in connection with sickness or accident disability, or (C) death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986;
 
 &emsp;(3) Any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of six calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -82,13 +82,15 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 &emsp;(17) Any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132 of the Internal Revenue Code of 1986;
 
-&emsp;(18) Remuneration consisting of income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (relating to income derived by Indians from exercise of fishing rights); or
+&emsp;(18) Remuneration consisting of income excluded from taxation under section 7873 of the Internal Revenue Code of 1986 (relating to income derived by Indians from exercise of fishing rights);
 
 &emsp;(19) Remuneration on account of—
 
 &emsp;&emsp;(A) a transfer of a share of stock to any individual pursuant to an exercise of an incentive stock option (as defined in section 422(b) of the Internal Revenue Code of 1986) or under an employee stock purchase plan (as defined in section 423(b) of such Code), or
 
-&emsp;&emsp;(B) any disposition by the individual of such stock.
+&emsp;&emsp;(B) any disposition by the individual of such stock; or
+
+&emsp;(20) Any benefit or payment which is excludable from the gross income of the employeeunder section 139B(b) of the Internal Revenue Code of 1986).<sup>2</sup>
 
 #### (b) Regulations providing exclusions from term
 
@@ -104,7 +106,7 @@ For purposes of this subchapter, in the case of an individual performing service
 
 #### (e) Peace Corps volunteers
 
-For purposes of this subchapter, in the case of an individual performing service, as a volunteeror volunteer leader within the meaning of the Peace Corps Act \[22 U.S.C. 2501 et seq.\], to which the provisions of section 410(<i>o</i>) of this title are applicable, (1) the term “wages” shall, subject to the provisions of subsection (a) of this section, include as such individual's remuneration for such service only amounts certified as payable pursuant to section 5(c) or 6(1) of the Peace Corps Act \[22 U.S.C. 2504(c) or 2505(1)\], and (2) any such amount shall be deemed to have been paid to such individual at the time the service, with respect to which it is paid, is performed.
+For purposes of this subchapter, in the case of an individual performing service, as a volunteer or volunteer leader within the meaning of the Peace Corps Act \[22 U.S.C. 2501 et seq.\], to which the provisions of section 410(<i>o</i>) of this title are applicable, (1) the term “wages” shall, subject to the provisions of subsection (a) of this section, include as such individual's remuneration for such service only amounts certified as payable pursuant to section 5(c) or 6(1) of the Peace Corps Act \[22 U.S.C. 2504(c) or 2505(1)\], and (2) any such amount shall be deemed to have been paid to such individual at the time the service, with respect to which it is paid, is performed.
 
 #### (f) Tips
 
@@ -146,13 +148,13 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 (3) For purposes of this subsection, the term “deferred compensation amount” means—
 
-&emsp;(A) any amount excluded from gross income under chapter 1 of the Internal Revenue Code of 1986 by reason of section 402(a)(8),<sup>2</sup> 402(h)(1)(B), or 457(a) of such Code or by reason of a salary reduction agreement under section 403(b) of such Code,
+&emsp;(A) any amount excluded from gross income under chapter 1 of the Internal Revenue Code of 1986 by reason of section 402(a)(8),<sup>3</sup> 402(h)(1)(B), or 457(a) of such Code or by reason of a salary reduction agreement under section 403(b) of such Code,
 
 &emsp;(B) any amount with respect to which a deduction is allowable under chapter 1 of such Code by reason of a contribution to a plan described in section 501(c)(18) of such Code, and
 
 &emsp;(C) to the extent provided in regulations of the Commissioner of Social Security, deferred compensation provided under any arrangement, agreement, or plan referred to in subsection (i) or (j) of this section.
 
-(Aug. 14, 1935, ch. 531, title II, §209, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1373; Mar. 24, 1943, ch. 26, §1(b)(2), 57 Stat. 47; Apr. 4, 1944, ch. 161, §2, 58 Stat. 188; Oct. 23, 1945, ch. 433, §7(b), 59 Stat. 548; Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671; Aug. 10, 1946, ch. 951, title IV, §§407(a), 408(a), 409(a), 410, 411, 414, 60 Stat. 988, 989, 990; Apr. 20, 1948, ch. 222, §1(a), 62 Stat. 195; Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492; Sept. 1, 1954, ch. 1206, title I, §§101(a)(1)–(3), 104(a), 68 Stat. 1052, 1078; Aug. 1, 1956, ch. 836, title I, §105(a), 70 Stat. 828; Aug. 1, 1956, ch. 837, title IV, §401, 70 Stat. 869; Pub. L. 85–786, §1, Aug. 27, 1958, 72 Stat. 938; Pub. L. 85–840, title I, §102(a), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–778, title I, §103(j)(2)(C), (F), Sept. 13, 1960, 74 Stat. 937, 938; Pub. L. 87–64, title I, §102(c)(3)(A), June 30, 1961, 75 Stat. 134; Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(3), Feb. 26, 1964, 78 Stat. 63; Pub. L. 88–650, §4(a), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§313(a), 320(a)(1), July 30, 1965, 79 Stat. 382, 393; Pub. L. 90–248, title I, §108(a)(1), title V, §504(c), Jan. 2, 1968, 81 Stat. 834, 935; Pub. L. 92–5, title II, §203(a)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(1), July 1, 1972, 86 Stat. 417; Pub. L. 92–603, title I, §§104(g), 122(a), 123(c)(1), 138(a), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1365; Pub. L. 93–66, title II, §203(a)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(1), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §351(a)(1)–(3)(A), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–472, §3(c), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(4), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–499, title XI, §1141(a)(2), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(B), Aug. 13, 1981, 95 Stat. 201; Pub. L. 97–123, §3(a), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–21, title I, §101(c)(1), title III, §§324(c)(1)–(3), 327(a)(2), (b)(2), 328(b), Apr. 20, 1983, 97 Stat. 70, 124, 125, 127, 128; Pub. L. 98–369, div. A, title IV, §491(d)(39), title V, §531(d)(1)(B), div. B, title VI, §§2661(i), 2663(a)(6), July 18, 1984, 98 Stat. 851, 884, 1157, 1162; Pub. L. 99–272, title XII, §12112(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 99–514, title I, §122(e)(5), title XI, §1151(d)(2)(C), Oct. 22, 1986, 100 Stat. 2112, 2505; Pub. L. 100–203, title IX, §§9001(a)(2), 9002(a), 9003(a)(1), Dec. 22, 1987, 101 Stat. 1330–286, 1330–287; Pub. L. 100–647, title I, §§1001(g)(4)(C), 1011(f)(8), 1011B(a)(22)(E), (23)(B), title III, §3043(a), title VIII, §8017(a), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3641, 3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10208(a), (d)(1), Dec. 19, 1989, 103 Stat. 2476, 2479; Pub. L. 101–508, title V, §5130(a)(5), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(4), (e)(1), Aug. 15, 1994, 108 Stat. 1478, 1538, 1539; Pub. L. 103–387, §2(a)(2)(A), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §§1421(b)(8)(B), 1458(b)(2), Aug. 20, 1996, 110 Stat. 1798, 1820; Pub. L. 108–203, title IV, §423(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, §251(a)(1)(B), title III, §320(b)(5), Oct. 22, 2004, 118 Stat. 1458, 1473.)
+(Aug. 14, 1935, ch. 531, title II, §209, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1373; Mar. 24, 1943, ch. 26, §1(b)(2), 57 Stat. 47; Apr. 4, 1944, ch. 161, §2, 58 Stat. 188; Oct. 23, 1945, ch. 433, §7(b), 59 Stat. 548; Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671; Aug. 10, 1946, ch. 951, title IV, §§407(a), 408(a), 409(a), 410, 411, 414, 60 Stat. 988, 989, 990; Apr. 20, 1948, ch. 222, §1(a), 62 Stat. 195; Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492; Sept. 1, 1954, ch. 1206, title I, §§101(a)(1)–(3), 104(a), 68 Stat. 1052, 1078; Aug. 1, 1956, ch. 836, title I, §105(a), 70 Stat. 828; Aug. 1, 1956, ch. 837, title IV, §401, 70 Stat. 869; Pub. L. 85–786, §1, Aug. 27, 1958, 72 Stat. 938; Pub. L. 85–840, title I, §102(a), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–778, title I, §103(j)(2)(C), (F), Sept. 13, 1960, 74 Stat. 937, 938; Pub. L. 87–64, title I, §102(c)(3)(A), June 30, 1961, 75 Stat. 134; Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(3), Feb. 26, 1964, 78 Stat. 63; Pub. L. 88–650, §4(a), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§313(a), 320(a)(1), July 30, 1965, 79 Stat. 382, 393; Pub. L. 90–248, title I, §108(a)(1), title V, §504(c), Jan. 2, 1968, 81 Stat. 834, 935; Pub. L. 92–5, title II, §203(a)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(1), July 1, 1972, 86 Stat. 417; Pub. L. 92–603, title I, §§104(g), 122(a), 123(c)(1), 138(a), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1365; Pub. L. 93–66, title II, §203(a)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(1), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §351(a)(1)–(3)(A), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–472, §3(c), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(4), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–499, title XI, §1141(a)(2), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(B), Aug. 13, 1981, 95 Stat. 201; Pub. L. 97–123, §3(a), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–21, title I, §101(c)(1), title III, §§324(c)(1)–(3), 327(a)(2), (b)(2), 328(b), Apr. 20, 1983, 97 Stat. 70, 124, 125, 127, 128; Pub. L. 98–369, div. A, title IV, §491(d)(39), title V, §531(d)(1)(B), div. B, title VI, §§2661(i), 2663(a)(6), July 18, 1984, 98 Stat. 851, 884, 1157, 1162; Pub. L. 99–272, title XII, §12112(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 99–514, title I, §122(e)(5), title XI, §1151(d)(2)(C), Oct. 22, 1986, 100 Stat. 2112, 2505; Pub. L. 100–203, title IX, §§9001(a)(2), 9002(a), 9003(a)(1), Dec. 22, 1987, 101 Stat. 1330–286, 1330–287; Pub. L. 100–647, title I, §§1001(g)(4)(C), 1011(f)(8), 1011B(a)(22)(E), (23)(B), title III, §3043(a), title VIII, §8017(a), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3641, 3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10208(a), (d)(1), Dec. 19, 1989, 103 Stat. 2476, 2479; Pub. L. 101–508, title V, §5130(a)(5), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(4), (e)(1), Aug. 15, 1994, 108 Stat. 1478, 1538, 1539; Pub. L. 103–387, §2(a)(2)(A), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §§1421(b)(8)(B), 1458(b)(2), Aug. 20, 1996, 110 Stat. 1798, 1820; Pub. L. 108–203, title IV, §423(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, §251(a)(1)(B), title III, §320(b)(5), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 110–245, title I, §115(a)(2), June 17, 2008, 122 Stat. 1636.)
 
 #### References in Text
 
@@ -175,6 +177,8 @@ Section 10208 of the Omnibus Budget Reconciliation Act of 1989, referred to in s
 Section 402 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A), was amended by Pub. L. 102–318, §521, and, as so amended, provisions formerly contained in section 402(a)(8) are contained in section 402(e)(3).
 
 #### Amendments
+
+2008—Subsec. (a)(20). Pub. L. 110–245 added par. (20).
 
 2004—Subsec. (a)(6)(B). Pub. L. 108–203 substituted “on a farm operated for profit” for “described in section 410(f)(5) of this title”.
 
@@ -230,7 +234,7 @@ Subsec. (k). Pub. L. 100–647, §1001(g)(4)(C), substituted “section 217 of t
 
 Subsec. (t). Pub. L. 100–647, §3043(a), added subsec. (t).
 
-1987—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) his basic pay as described in chapter 3 and section 1009 of title 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
+1987—Pub. L. 100–203, §9001(a)(2), in second indented par. of closing provisions, substituted “only (1) his basic pay as described in chapter 3 and section 1009 oftitle 37 in the case of an individual performing service to which subparagraph (A) of such section 410(<i>l</i>)(1) of this title applies, or (2) his compensation for such service as determined under section 206(a) of title 37 in the case of an individual performing service to which subparagraph (B) of such section 410(<i>l</i>)(1) of this title applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37.”
 
 Subsec. (b)(3). Pub. L. 100–203, §9003(a)(1), substituted “death, except that this subsection does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee under the Internal Revenue Code of 1986” for “death”.
 
@@ -266,7 +270,7 @@ Pub. L. 98–369, §2661(i)(2), in undesignated par. relating to employer contri
 
 1983—Subsec. (b). Pub. L. 98–21, §324(c)(3)(A), struck out cl. (1) which read “retirement”, and redesignated cls. (2) to (4) as (1) to (3), respectively.
 
-Subsec. (c). Pub. L. 98–21, §324(c)(3)(B), struck out subsec. (c) which related to any payment made to an employee (including any amount paid by an employerfor insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
+Subsec. (c). Pub. L. 98–21, §324(c)(3)(B), struck out subsec. (c) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
 Subsec. (e)(5) to (7). Pub. L. 98–21, §324(c)(2), added cls. (5) to (7).
 
@@ -366,7 +370,7 @@ Subsec. (h). Act Sept. 1, 1954, §101(a)(3), redesignated subsection as cl. (1) 
 
 1948—Subsec. (b)(15). Act Apr. 20, 1948, inserted subpar. (B).
 
-1946—Subsec. (a). Act Aug. 10, 1946, §414, in amending subsec. (a), made pars. (1) and (2) applicable only topayments before Jan. 1, 1947, added a new par. (3), applicable to payments after that date, and renumbered former pars. (3) to (6) to be pars. (4) to (7), respectively.
+1946—Subsec. (a). Act Aug. 10, 1946, §414, in amending subsec. (a), made pars. (1) and (2) applicable only to payments before Jan. 1, 1947, added a new par. (3), applicable to payments after that date, and renumbered former pars. (3) to (6) to be pars. (4) to (7), respectively.
 
 Subsec. (h). Act Aug. 10, 1946, §407(a), in amending subsec. (h), required a currently insured individual to have not less than six quarters of coverage during the period consisting of the quarter in which he died and the twelve preceding quarters.
 
@@ -387,6 +391,10 @@ Subsec. (p). Act Oct. 23, 1945, added subsec. (p).
 1943—Subsec. (<i>o</i>). Act Mar. 24, 1943, added subsec. (<i>o</i>).
 
 1939—Act Aug. 10, 1939, amended section generally.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 effective as if included in section 5 of Pub. L. 110–142, see section 115(d) of Pub. L. 110–245, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2004 Amendment
 
@@ -418,7 +426,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1001(g)(4)(C), 1011(f)(8), and 1011B(a)(23)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by sections 1001(g)(4)(C), 1011(f)(8), and 1011B(a)(23)(B) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 1011B(a)(22)(E) of Pub. L. 100–647 not applicable to any individual who separated from service with the employer before Jan. 1, 1989, see section 1011B(a)(22)(F) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
@@ -476,7 +484,7 @@ For effective date of amendment by Pub. L. 96–499, see section 1141(c) of Pub.
 
 #### Effective Date of 1978 Amendments
 
-Amendment by Pub. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as an Effective Date note under section 127 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as an Effective Date note under section 127 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 95–472 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 3(d) of Pub. L. 95–472, set out as a note under section 3121 of Title 26.
 
@@ -512,7 +520,7 @@ Amendment by section 504(c) of Pub. L. 90–248 applicable with respect to remun
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 313(a) of Pub. L. 89–97 applicable only with respect to tips received by employeesafter 1965, see section 313(f) of Pub. L. 89–97, set out as an Effective Date note under section 6053 of Title 26, Internal Revenue Code.
+Amendment by section 313(a) of Pub. L. 89–97 applicable only with respect to tips received by employees after 1965, see section 313(f) of Pub. L. 89–97, set out as an Effective Date note under section 6053 of Title 26, Internal Revenue Code.
 
 Amendment by section 320(a)(1) of Pub. L. 89–97 applicable with respect to remuneration paid after December 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of Title 26.
 
@@ -580,7 +588,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Social Security Coverage of Retired Federal Judges on Active Duty
 
-Notwithstanding section 101(d) of Pub. L. 98–21, set out as an Effective Date of 1983 Amendment note above, the amendment of this section by section 101(c)(1) ofPub. L. 98–21 is applicable only with respect to remuneration paid after Dec. 31, 1985, with remuneration paid prior to Jan. 1, 1986, under section 371(b) of Title 28, Judiciary and Judicial Procedure, to an individual performing service under section 294 of Title 28 not to be included in the term “wages” for purposes of this section or section 3121(a) of Title 26, Internal Revenue Code, see section 4 of Pub. L. 98–118, set out as a note under section 3121 of Title 26.
+Notwithstanding section 101(d) of Pub. L. 98–21, set out as an Effective Date of 1983 Amendment note above, the amendment of this section by section 101(c)(1) of Pub. L. 98–21 is applicable only with respect to remuneration paid after Dec. 31, 1985, with remuneration paid prior to Jan. 1, 1986, under section 371(b) of Title 28, Judiciary and Judicial Procedure, to an individual performing service under section 294 of Title 28 not to be included in the term “wages” for purposes of this section or section 3121(a) of Title 26, Internal Revenue Code, see section 4 of Pub. L. 98–118, set out as a note under section 3121 of Title 26.
 
 #### Payments Under State Temporary Disability Law To Be Treated as Remuneration for Service
 
@@ -606,5 +614,7 @@ Section 3 of act Apr. 20, 1948, provided that: “If any amount paid prior to th
 
 <i><sup>1</sup></i><i> So in original. Probably should be designated cls. (i) and (ii), respectively.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

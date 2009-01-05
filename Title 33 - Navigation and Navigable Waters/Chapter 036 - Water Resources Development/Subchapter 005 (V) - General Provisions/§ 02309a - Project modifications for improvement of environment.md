@@ -34,7 +34,7 @@ The Secretary shall coordinate any actions taken pursuant to this section with a
 
 #### (g) Nonprofit entities
 
-Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried outunder this section may include a nonprofit entity, with the consent of the affected local government.
+Notwithstanding section 1962d–5b of title 42, a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
 
 #### (h) Authorization of appropriations
 

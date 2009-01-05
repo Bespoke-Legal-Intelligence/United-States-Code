@@ -262,5 +262,5 @@ Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amen
 
 #### Obstetrical Care Facilities
 
-Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the UnitedStates and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
 

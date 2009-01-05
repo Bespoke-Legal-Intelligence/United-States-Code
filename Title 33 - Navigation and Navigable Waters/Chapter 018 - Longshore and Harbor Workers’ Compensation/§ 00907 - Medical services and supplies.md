@@ -56,7 +56,7 @@ An employee shall submit to a physical examination under subsection (e) of this 
 
 #### (g) Fees and charges for examinations, treatment, or service; limitation; regulations
 
-All fees and other charges for medical examinations, treatment, or service shall be limitedto such charges as prevail in the community for such treatment, and shall be subject to regulation by the Secretary. The Secretary shall issue regulations limiting the nature and extent of medical expenses chargeable against the employer without authorization by the employer or the Secretary.
+All fees and other charges for medical examinations, treatment, or service shall be limited to such charges as prevail in the community for such treatment, and shall be subject to regulation by the Secretary. The Secretary shall issue regulations limiting the nature and extent of medical expenses chargeable against the employer without authorization by the employer or the Secretary.
 
 #### (h) Third party liability
 
@@ -68,7 +68,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 #### (j) Procedure; judicial review
 
-(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriate to carry out the provisions of subsection (c) of this section, including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
+(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriateto carry out the provisions of subsection (c) of this section, including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
 
 (2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 

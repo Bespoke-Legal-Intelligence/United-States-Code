@@ -38,11 +38,9 @@ Restrictions on Procurement of Equipment and Services.—(1) In order to assure 
 
 (e)
 
-Cooperative Opportunities Document.—(1)(A) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare an arms cooperation opportunities document with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
+Cooperative Opportunities Document.—(1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
 
-(B) The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.
-
-(2) An arms cooperation opportunities document referred to in paragraph (1) shall include the following:
+(2) A cooperative opportunities document referred to in paragraph (1) shall include the following:
 
 &emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
@@ -64,7 +62,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
-(3) The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.
+(3) The Director of Defense Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.
 
 (h)
 
@@ -84,7 +82,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401.)
 
 #### Prior Provisions
 
@@ -93,6 +91,12 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+2008—Subsec. (e)(1). Pub. L. 110–181, §1251(1), struck out subpar. (A) designation before “In order to ensure”, substituted “a cooperative opportunities document before the first milestone or decision point” for “an arms cooperation opportunities document”, and struck out subpar. (B) which read as follows: “The Under Secretary shall also prepare an arms cooperation opportunities document for review of each new project for which a document known as a Mission Need Statement is prepared.”
+
+Subsec. (e)(2). Pub. L. 110–181, §1251(2), substituted “A cooperative opportunities document” for “An arms cooperation opportunities document” in introductory provisions.
+
+Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.”
 
 2003—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 
@@ -118,7 +122,7 @@ Subsec. (a)(3). Pub. L. 107–107, §1212(b), added par. (3).
 
 Subsec. (b)(1). Pub. L. 107–107, §1212(a)(2), struck out “(NATO)” after “North Atlantic Treaty Organization” and substituted “a country or organization referred to in subsection (a)(2)” for “its major non-NATO allies”.
 
-Subsec. (b)(2). Pub. L. 107–107, §1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretaryof Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (b)(2). Pub. L. 107–107, §1212(c), substituted “Deputy Secretary of Defense and to one other official of the Department of Defense” for “Deputy Secretary of Defense or the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 Subsec. (d)(1). Pub. L. 107–107, §1212(a)(3)(A), substituted “countries and organizations referred to in subsection (a)(2)” for “the major allies of the United States”.
 

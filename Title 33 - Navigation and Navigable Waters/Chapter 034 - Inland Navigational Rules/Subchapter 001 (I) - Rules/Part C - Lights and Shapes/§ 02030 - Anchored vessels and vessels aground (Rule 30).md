@@ -18,7 +18,7 @@ A vessel at anchor may, and a vessel of 100 meters or more in length shall, also
 
 #### (d) Vessels aground
 
-A vessel aground shall exhibit the lights prescribed in paragraph (a) or (b) of this Rule and in addition, if practicable, where they can best be seen:
+A vessel aground shall exhibit the lights prescribed in paragraph (a) or (b) of this Rule andin addition, if practicable, where they can best be seen:
 
 &emsp;(i) two all-round red lights in a vertical line; and
 

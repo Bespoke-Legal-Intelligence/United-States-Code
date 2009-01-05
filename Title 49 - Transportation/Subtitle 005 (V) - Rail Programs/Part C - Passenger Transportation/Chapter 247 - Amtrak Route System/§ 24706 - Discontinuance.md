@@ -2,7 +2,7 @@
 
 (a)
 
-Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over aroute, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
 (2) Notice of the discontinuance under section 24704 <sup>1</sup> or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
@@ -16,7 +16,11 @@ Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service 
 
 (2) Amtrak shall notify each affected State or regional or local transportation authority of a discontinuance under this subsection as soon as possible after Amtrak decides to discontinue the service.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576.)
+(c)
+
+Applicability.—This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 of this title or any other provision of this title except section 24702(b).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576; Pub. L. 110–432, div. B, title II, §201(d), Oct. 16, 2008, 122 Stat. 4910.)
 
 Historical and Revision Notes
 
@@ -104,6 +108,8 @@ Section 24704 of this title, referred to in text, was repealed by Pub. L. 105–
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
+
 1997—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
 
 Subsec. (a)(2). Pub. L. 105–134, §101(c)(4), which directed substitution of “paragraph (1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
@@ -128,7 +134,7 @@ Notices.—Notwithstanding any arrangement in effect before the date of the enac
 
 “(b)
 
-National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to thedispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
 
 “(c)
 
@@ -166,7 +172,7 @@ Repeal.—Section 24706(c) is repealed.
 
 “(b)
 
-Existing Contracts.—Any provision of a contract entered into before the date of the enactment ofthis Act \[Dec. 2, 1997\] between Amtrak and a labor organization representing Amtrak employees relating to employee protective arrangements and severance benefits applicable to employees of Amtrak is extinguished, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973.
+Existing Contracts.—Any provision of a contract entered into before the date of the enactment of this Act \[Dec. 2, 1997\] between Amtrak and a labor organization representing Amtrak employees relating to employee protective arrangements and severance benefits applicable to employees of Amtrak is extinguished, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973.
 
 “(c)
 

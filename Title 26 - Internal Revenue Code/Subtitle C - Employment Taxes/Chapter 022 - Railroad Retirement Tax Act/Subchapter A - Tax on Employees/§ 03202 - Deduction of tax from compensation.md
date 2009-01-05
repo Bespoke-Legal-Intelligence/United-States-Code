@@ -98,7 +98,7 @@ Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with re
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 2(a) of Pub. L. 89–212 effective only with respect to tips received after 1965, andamendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after the month in which Pub. L. 89–212 is enacted, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
+Amendment by section 2(a) of Pub. L. 89–212 effective only with respect to tips received after 1965, and amendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after the month in which Pub. L. 89–212 is enacted, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1959 Amendment
 

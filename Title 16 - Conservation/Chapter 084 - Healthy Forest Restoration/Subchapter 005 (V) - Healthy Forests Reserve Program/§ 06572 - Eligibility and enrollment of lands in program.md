@@ -8,7 +8,7 @@ The Secretary of Agriculture, in coordination with the Secretary of the Interior
 
 To be eligible for enrollment in the healthy forests reserve program, land shall be—
 
-&emsp;(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title; and
+&emsp;(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a specieslisted as endangered or threatened under section 1533 of this title; and
 
 &emsp;(2) private land the enrollment of which will restore, enhance, or otherwise measurably improve the well-being of species that—
 
@@ -28,13 +28,9 @@ In enrolling land that satisfies the criteria under subsection (b), the Secretar
 
 The Secretary of Agriculture shall enroll land in the healthy forests reserve program only with the consent of the owner of the land.
 
-#### (e) Maximum enrollment
+#### (e) Methods of enrollment
 
-The total number of acres enrolled in the healthy forests reserve program shall not exceed 2,000,000 acres.
-
-#### (f) Methods of enrollment
-
-#### (1) In general
+#### (1) Authorized methods
 
 &emsp;Land may be enrolled in the healthy forests reserve program in accordance with—
 
@@ -42,13 +38,35 @@ The total number of acres enrolled in the healthy forests reserve program shall 
 
 &emsp;&emsp;(B) a 30-year easement; or
 
-&emsp;&emsp;(C) an easement of not more than 99 years.
+&emsp;&emsp;(C)(i) a permanent easement; or
 
-#### (2) Proportion
+&emsp;&emsp;(ii) in a State that imposes a maximum duration for easements, an easement for the maximum duration allowed under State law.
 
-&emsp;The extent to which each enrollment method is used shall be based on the approximate proportion of owner interest expressed in that method in comparison to the other methods.
+#### (2) Limitation on use of cost-share agreements and easements
 
-#### (g) Enrollment priority
+#### (A) In general
+
+&emsp;&emsp;Of the total amount of funds expended under the program for a fiscal year to acquire easements and enter into cost-share agreements described in paragraph (1)—
+
+&emsp;&emsp;&emsp;(i) not more than 40 percent shall be used for cost-share agreements described in paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;(ii) not more than 60 percent shall be used for easements described in subparagraphs (B) and (C) of paragraph (1).
+
+#### (B) Repooling
+
+&emsp;&emsp;The Secretary may use any funds allocated under clause (i) or (ii) of subparagraph (A) that are not obligated by April 1 of the fiscal year for which the funds are made available to carry out a different method of enrollment during that fiscal year.
+
+#### (3) Acreage owned by Indian tribes
+
+&emsp;In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
+
+&emsp;&emsp;(A) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
+
+&emsp;&emsp;(B) a 10-year cost-share agreement; or
+
+&emsp;&emsp;(C) any combination of the options described in subparagraphs (A) and (B).
+
+#### (f) Enrollment priority
 
 #### (1) Species
 
@@ -66,5 +84,17 @@ The total number of acres enrolled in the healthy forests reserve program shall 
 
 &emsp;The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.
 
-(Pub. L. 108–148, title V, §502, Dec. 3, 2003, 117 Stat. 1911.)
+(Pub. L. 108–148, title V, §502, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 110–234, title VIII, §8205(a), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8205(a), June 18, 2008, 122 Stat. 1664, 2056.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsecs. (e) to (g). Pub. L. 110–246, §8205(a), added subsec. (e), redesignated subsec. (g) as (f), and struck out former subsecs. (e) and (f) which related to maximum number of enrolled acres and methods of enrollment.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

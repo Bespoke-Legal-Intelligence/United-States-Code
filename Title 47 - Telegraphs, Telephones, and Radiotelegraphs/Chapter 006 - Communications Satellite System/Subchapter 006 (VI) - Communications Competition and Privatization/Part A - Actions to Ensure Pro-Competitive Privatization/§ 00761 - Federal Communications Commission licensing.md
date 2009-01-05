@@ -18,13 +18,13 @@
 
 &emsp;&emsp;In considering the application of INTELSAT, Inmarsat, or their successor entities for a license or construction permit, or for the renewal or assignment or use of any such license or permit, or in considering the request of any entity subject to United States jurisdiction for authorization to use any space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities, to provide non-core services to, from, or within the United States, the Commission shall determine whether—
 
-&emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities, INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
+&emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities,INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
 
 &emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States.
 
 #### (B) Consequences of determination
 
-&emsp;&emsp;If the Commission determines that such competition will be harmed or that grant ofsuch application or request for authority is not otherwise in the public interest, the Commission shall limit through conditions or deny such application or request, and limit or revoke previous authorizations to provide non-core services to, from, or within the United States. After due notice and opportunity for comment, the Commission shall apply the same limitations, restrictions, and conditions to all entities subject to United States jurisdiction using space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities.
+&emsp;&emsp;If the Commission determines that such competition will be harmed or that grant of such application or request for authority is not otherwise in the public interest, the Commission shall limit through conditions or deny such application or request, and limit or revoke previous authorizations to provide non-core services to, from, or within the United States. After due notice and opportunity for comment, the Commission shall apply the same limitations, restrictions, and conditions to all entities subject to United States jurisdiction using space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities.
 
 #### (C) National security, law enforcement, and public safety
 

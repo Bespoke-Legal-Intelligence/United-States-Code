@@ -42,7 +42,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entityunder this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
 #### (B) Conduct of hearing
 
@@ -88,7 +88,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 For purposes of this section, the term “falsely make” means to prepare or provide an application or document, with knowledge or in reckless disregard of the fact that the application or document contains a false, fictitious, or fraudulent statement or material representation, or has no basis in law or fact, or otherwise fails to state a fact which is material to the purpose for which it was submitted.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274C, as added Pub. L. 101–649, title V, §544(a), Nov. 29, 1990, 104 Stat. 5059; amended Pub. L. 102–232, title III, §306(c)(5)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(r), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title II, §§212(a)–(d), 213, 220, title III, §§308(g)(10)(D), 379(a), Sept. 30, 1996, 110 Stat. 3009–570, 3009–571, 3009–575, 3009–625, 3009–649.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274C, as added Pub. L. 101–649, title V, §544(a), Nov. 29, 1990, 104 Stat. 5059; amended Pub. L. 102–232, titleIII, §306(c)(5)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(r), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title II, §§212(a)–(d), 213, 220, title III, §§308(g)(10)(D), 379(a), Sept. 30, 1996, 110 Stat. 3009–570, 3009–571, 3009–575, 3009–625, 3009–649.)
 
 #### Amendments
 

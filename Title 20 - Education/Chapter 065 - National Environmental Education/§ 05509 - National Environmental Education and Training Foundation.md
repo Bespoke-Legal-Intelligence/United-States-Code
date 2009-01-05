@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointedmay receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -98,7 +98,7 @@
 
 #### (3) Powers
 
-&emsp;To carry out its purposes under subsection (a) of this section, the Foundation shall have, in addition to the powers otherwise given it under this section, the usual powers of a corporation acting as a trustee, including the power—
+&emsp;To carry out its purposes under subsection (a) of this section, the Foundation shall have,in addition to the powers otherwise given it under this section, the usual powers of a corporation acting as a trustee, including the power—
 
 &emsp;&emsp;(A) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
@@ -160,7 +160,7 @@ In subsec. (h), “section 10101 of title 36” substituted for “the Act entit
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

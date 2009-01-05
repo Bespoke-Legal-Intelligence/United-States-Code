@@ -52,7 +52,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) “civil aircraft” means an aircraft except a public aircraft.
 
@@ -160,7 +160,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(D) An aircraft exclusively leased for at least 90 continuous days by the government of a State, the District of Columbia, or a territory or possession of the United States or a political subdivision of one of these governments, except as provided in section 40125(b).
 
-&emsp;&emsp;(E) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces under the conditions specified by section 40125(c).
+&emsp;&emsp;(E) An aircraft owned or operated by the armed forces or chartered to provide transportation or other commercial air service to the armed forces under the conditions specified by section 40125(c). In the preceding sentence, the term “other commercial air service” means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.
 
 &emsp;(42) “small hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
 
@@ -190,7 +190,7 @@ General Definitions.—In this part—
 
 Limited Definition.—In subpart II of this part, “control” means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334.)
 
 Historical and Revision Notes
 
@@ -456,6 +456,8 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
+2008—Subsec. (a)(41)(E). Pub. L. 110–181 inserted “or other commercial air service” after “transportation” and inserted at end “In the preceding sentence, the term ‘other commercial air service’ means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.”
+
 2003—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted “which is under the actual control of citizens of the United States,” before “and in which”.
 
 Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
@@ -498,7 +500,7 @@ Pub. L. 107–71, title I, §133, Nov. 19, 2001, 115 Stat. 636, provided that: �
 
 #### Definitions Applicable to Pub. L. 106–181
 
-Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
+Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[seeTables for classification\], the following definitions apply:
 
 &emsp;“(1)
 

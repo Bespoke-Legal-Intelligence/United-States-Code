@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense may operate a Center for Excellence in DisasterManagement and Humanitarian Assistance (in this section referred to as the “Center”).
+Establishment.—The Secretary of Defense may operate a Center for Excellence in Disaster Management and Humanitarian Assistance (in this section referred to as the “Center”).
 
 (b)
 

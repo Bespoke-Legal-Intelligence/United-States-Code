@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(a) extraction of coal and other minerals from the earth can be accomplished by various methods of mining, including surface mining;
 
-&emsp;(b) coal mining operations presently contribute significantly to the Nation's energy requirements; surface coal mining constitutes one method of extraction of the resource; the overwhelming percentage of the Nation's coal reserves can only be extracted by underground mining methods, and it is, therefore, essential to the national interest to insure the existence of an expanding and economically healthy underground coal mining industry;
+&emsp;(b) coal mining operations presently contribute significantly to the Nation's energy requirements; surface coal mining constitutes one method of extraction of the resource; the overwhelming percentage of the Nation's coalreserves can only be extracted by underground mining methods, and it is, therefore, essential to the national interest to insure the existence of an expanding and economically healthy underground coal mining industry;
 
 &emsp;(c) many surface mining operations result in disturbances of surface areas that burden and adversely affect commerce and the public welfare by destroying or diminishing the utility of land for commercial, industrial, residential, recreational, agricultural, and forestry purposes, by causing erosion and landslides, by contributing to floods, by polluting the water, by destroying fish and wildlife habitats, by impairing natural beauty, by damaging the property of citizens, by creating hazards dangerous to life and property by degrading the quality of life in local communities, and by counteracting governmental programs and efforts to conserve soil, water, and other natural resources;
 
@@ -32,7 +32,7 @@ This chapter, referred to in pars. (e), (f), and (k), was in the original “thi
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
+Pub. L. 109–432, div. C, title II, §200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title \[enacting section 1244 of this title, amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 1232 of this title and sections 9701, 9704, and 9712 of Title 26\] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
 
 #### Short Title of 1990 Amendments
 

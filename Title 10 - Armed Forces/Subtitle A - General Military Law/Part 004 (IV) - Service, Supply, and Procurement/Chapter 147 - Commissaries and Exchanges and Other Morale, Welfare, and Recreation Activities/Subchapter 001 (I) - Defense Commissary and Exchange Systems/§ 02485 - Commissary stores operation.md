@@ -78,7 +78,7 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (4) Appropriated funds may be used to pay any costs incurred in the collection of checks and charges referred to in paragraph (1). An appropriation account charged a cost under the preceding sentence shall be reimbursed the amount of that cost out of funds in the commissary trust revolving fund.
 
-(5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
+(5) In this subsection, the term “commissary trust revolving fund” means the trust revolvingfund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
 (h)
 
@@ -102,7 +102,7 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (C) The Secretary of Defense shall establish performance benchmarks and shall submit information on customer satisfaction and performance data to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on thecosts of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
+(D) The Secretary of Defense may, by contract entered into with a business, grant to the business a license to use business programs referred to in paragraph (2)(B), including software used in or comprising any such program. The fee charged for the license shall be based on the costs of similar programs developed and marketed by businesses in the private sector, determined by means of surveys.
 
 (E) Each contract entered into under this paragraph shall specify the amount to be paid for information released or a license granted under the contract, as the case may be.
 

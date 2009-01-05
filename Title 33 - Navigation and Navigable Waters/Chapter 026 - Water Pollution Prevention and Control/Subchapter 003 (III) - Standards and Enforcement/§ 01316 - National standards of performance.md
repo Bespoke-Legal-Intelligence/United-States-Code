@@ -12,7 +12,7 @@ For purposes of this section:
 
 (4) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a source.
 
-(5) The term “construction” means any placement, assembly, or installation of facilities or equipment (including contractual obligations topurchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
+(5) The term “construction” means any placement, assembly, or installation of facilities or equipment (including contractual obligations to purchase such facilities or equipment) at the premises where such equipment will be used, including preparation work at such premises.
 
 #### (b) Categories of sources; Federal standards of performance for new sources
 
@@ -84,7 +84,7 @@ Each State may develop and submit to the Administrator a procedure under State l
 
 #### (d) Protection from more stringent standards
 
-Notwithstanding any other provision of this chapter, any point source the construction of which is commenced after October 18, 1972, and which is so constructed as to meet all applicable standards of performance shall not be subject to any more stringent standard of performance during a ten-year period beginning on the date of completion of such construction or during the period of depreciation or amortization of such facility for the purposes of section 167 or 169 (or both) of title 26 whichever period ends first.
+Notwithstanding any other provision of this chapter, any point source the construction of which is commenced after October 18, 1972, and which is so constructed as to meet all applicable standards of performance shall not be subject to any more stringent standard of performance during a ten-year period beginning on the date of completion of such construction or during theperiod of depreciation or amortization of such facility for the purposes of section 167 or 169 (or both) of title 26 whichever period ends first.
 
 #### (e) Illegality of operation of new sources in violation of applicable standards of performance
 

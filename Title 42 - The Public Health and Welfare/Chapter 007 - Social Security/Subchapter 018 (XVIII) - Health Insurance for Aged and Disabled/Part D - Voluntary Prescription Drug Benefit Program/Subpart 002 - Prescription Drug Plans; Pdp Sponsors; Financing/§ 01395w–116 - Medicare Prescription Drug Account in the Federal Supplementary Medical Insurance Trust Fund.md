@@ -48,7 +48,7 @@
 
 #### (2) Amounts withheld
 
-&emsp;Pursuant to sections 1395w–113(c) and 1395w–24(d) of this title (as applied under this part), amounts that are withheld (and allocated) to the Account are deposited into the Account.
+&emsp;Pursuant to sections 1395w–113(c) and 1395w–24(d) of this title (as applied under thispart), amounts that are withheld (and allocated) to the Account are deposited into the Account.
 
 #### (3) Appropriations to cover Government contributions
 

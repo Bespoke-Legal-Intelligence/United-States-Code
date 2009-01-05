@@ -16,7 +16,7 @@ Members and Appointment.—(1) The Librarian of Congress (hereafter in this chap
 
 (3) A director is not an employee of the Library of Congress and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
-(4) The terms of office of the directors are 4 years. An individual may not serve more than two consecutive terms.
+(4) The terms of office of the directors are 4 years.
 
 (5) A vacancy on the board shall be filled in the manner in which the original appointment was made.
 
@@ -40,9 +40,13 @@ Reimbursement of Expenses.—Directors shall serve without compensation but may 
 
 Liability of Directors.—Directors are not personally liable, except for gross negligence.
 
-(Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2092.)
+(Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2092; amended Pub. L. 110–336, §2(b)(2), Oct. 2, 2008, 122 Stat. 3727.)
 
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 106–474, which was approved Nov. 9, 2000.
+
+#### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
 

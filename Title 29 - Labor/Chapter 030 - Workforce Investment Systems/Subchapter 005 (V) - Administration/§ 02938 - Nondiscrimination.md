@@ -46,7 +46,7 @@ The Secretary shall issue regulations necessary to implement this section not la
 
 #### References in Text
 
-The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 

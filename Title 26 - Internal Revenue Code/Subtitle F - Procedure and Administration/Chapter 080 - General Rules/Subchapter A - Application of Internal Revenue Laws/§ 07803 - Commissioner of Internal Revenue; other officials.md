@@ -186,7 +186,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisorypersonnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
 
 #### (3) Responsibilities of Commissioner
 
@@ -256,7 +256,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(iii) a summary of the status of such complaints and allegations; and
 
-&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including theoutcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
+&emsp;&emsp;(iv) a summary of the disposition of such complaints and allegations, including the outcome of any Department of Justice action and any monies paid as a settlement of such complaints and allegations.
 
 &emsp;(B) Clauses (iii) and (iv) of subparagraph (A) shall only apply to complaints and allegations of serious employee misconduct.
 
@@ -264,11 +264,13 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;The Treasury Inspector General for Tax Administration shall—
 
-&emsp;&emsp;(A) conduct periodic audits of a statistically valid sample of the total number of determinations made by the Internal Revenue Service to deny written requests to disclose information to taxpayers on the basis of section 6103 of this title or section 552(b)(7) of title 5, United States Code; and
+&emsp;&emsp;(A) conduct periodic audits of a statistically valid sample of the total number of determinations made by the Internal Revenue Service to deny written requests to disclose information to taxpayers on the basis of section 6103 of this title or section 552(b)(7) of title 5, United States Code;
 
-&emsp;&emsp;(B) establish and maintain a toll-free telephone number for taxpayers to use to confidentially register complaints of misconduct by Internal Revenue Service employees and incorporate the telephone number in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights (Internal Revenue Service Publication No. 1).
+&emsp;&emsp;(B) establish and maintain a toll-free telephone number for taxpayers to use to confidentially register complaints of misconduct by Internal Revenue Service employees and incorporate the telephone number in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights (Internal Revenue Service Publication No. 1); and
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532.)
+&emsp;&emsp;(C) not later than December 31, 2010, submit a written report to Congress on the implementation of section 6103(k)(10).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840.)
 
 #### References in Text
 
@@ -284,6 +286,8 @@ Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(
 
 2008—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
 
+Subsec. (d)(3)(C). Pub. L. 110–428 added subpar. (C).
+
 1998—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See section 7804 of this title.
 
 1976—Subsecs. (a), (b), (c). Pub. L. 94–455, §1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
@@ -298,7 +302,9 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-#### Effective Date of 2007 Amendment
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
 
 Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: “The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\].”
 

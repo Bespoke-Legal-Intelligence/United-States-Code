@@ -20,7 +20,7 @@ In general.—Before making an apportionment under section 104(b)(5) for a fisca
 
 &emsp;(2)
 
-Special rule.—If a State demonstrates to the satisfaction of the Secretary that the State has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other purposes under this subsection.
+Special rule.—If a State demonstrates to the satisfaction of the Secretary that the State has met all its needs for installation of protective devices at railway-highway crossings, the State may use funds made available by this section for other highway safety improvement program purposes.
 
 (f)
 
@@ -78,19 +78,55 @@ Bicycle Safety.—In carrying out projects under this section, a State shall tak
 
 Expenditure of Funds.—Not more than 2 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(d), Aug. 10, 2005, 119 Stat. 1226.)
+(<i>l</i>)
+
+National Crossing Inventory.—
+
+&emsp;(1)
+
+Initial reporting of crossing information.—Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008 or within 6 months of a new crossing becoming operational, whichever occurs later, each State shall report to the Secretary of Transportation current information, including information about warning devices and signage, as specified by the Secretary, concerning each previously unreported public crossing located within its borders.
+
+&emsp;(2)
+
+Periodic updating of crossing information.—On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
+
+&emsp;(3)
+
+Rulemaking authority.—The Secretary shall prescribe the regulations necessary to implement this subsection. The Secretary may enforce each provision of the Department of Transportation's statement of the national highway-rail crossing inventory policy, procedures, and instructions for States and railroads that is in effect on the date of enactment of the Rail Safety Improvement Act of 2008, until such provision is superseded by a regulation issued under this subsection.
+
+&emsp;(4)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) “public crossing” means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks either at grade or grade-separated, where—
+
+&emsp;&emsp;&emsp;(i) a public highway, road, or street, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
+
+&emsp;&emsp;&emsp;(ii) a publicly owned pathway explicitly authorized by a public authority or a railroad carrier and dedicated for the use of non-vehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated; and
+
+&emsp;&emsp;(B) “State” means a State of the United States, the District of Columbia, or Puerto Rico.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(<i>l</i>), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871.)
+
+#### References in Text
+
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (<i>l</i>)(1) to (3), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–59, §1401(d)(1), designated existing provisions as par. (1), inserted after par. designation “
+2008—Subsec. (e)(2). Pub. L. 110–244, §101(<i>l</i>), substituted “highway safety improvement program purposes” for “purposes under this subsection”.
+
+Subsec. (<i>l</i>). Pub. L. 110–432 added subsec. (<i>l</i>).
+
+2005—Subsec. (e). Pub. L. 109–59, §1401(c)(1), formerly §1401(d)(1), as renumbered by Pub. L. 110–244, §101(s)(1), designated existing provisions as par. (1), inserted after par. designation “
 
 In general.—Before making an apportionment under section 104(b)(5) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, at least $220,000,000 for the elimination of hazards and the installation of protective devices at railway-highway crossings.”, and added par. (2).
 
-Subsec. (f). Pub. L. 109–59, §1401(d)(2), reenacted heading without change and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.”
+Subsec. (f). Pub. L. 109–59, §1401(c)(2), formerly §1401(d)(2), as renumbered by Pub. L. 110–244, §101(s)(1), reenacted heading without change and amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.”
 
-Subsec. (g). Pub. L. 109–59, §1401(d)(3), in third sentence inserted “and the Committee on Commerce, Science, and Transportation,” after “Public Works” and substituted “, not later than April 1, 2006, and every 2 years thereafter,” for “not later than April 1 of each year”.
+Subsec. (g). Pub. L. 109–59, §1401(c)(3), formerly §1401(d)(3), as renumbered by Pub. L. 110–244, §101(s)(1), in third sentence inserted “and the Committee on Commerce, Science, and Transportation,” after “Public Works” and substituted “, not later than April 1, 2006, and every 2 years thereafter,” for “not later than April 1 of each year”.
 
-Subsec. (k). Pub. L. 109–59, §1401(d)(4), added subsec. (k).
+Subsec. (k). Pub. L. 109–59, §1401(c)(4), formerly §1401(d)(4), as renumbered by Pub. L. 110–244, §101(s)(1), added subsec. (k).
 
 1998—Subsec. (a). Pub. L. 105–178, §1111(d), substituted “Subject to section 120” for “Except as provided in subsection (d) of section 120 of this title” in first sentence and “subject to section 120” for “except as provided in subsection (d) of section 120 of this title” in second sentence.
 
@@ -178,7 +214,7 @@ Pub. L. 95–599, title I, §162, Nov. 6, 1978, 92 Stat. 2720, authorized Secret
 
 #### Demonstration Project, Railroad-Highway Crossings; Reports to President and Congress; Appropriations Authorization; Highway Safety Study, Report to Congress
 
-Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90 Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19,1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
+Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub. L. 93–643, §104, Jan. 4, 1975, 88 Stat. 2282; Pub. L. 94–280, title I, §140(a)–(e), May 5, 1976, 90Stat. 444; Pub. L. 95–599, title I, §134(a)–(c), Nov. 6, 1978, 92 Stat. 2709; Pub. L. 96–470, title II, §209(b), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–424, title I, §151, Jan. 6, 1983, 96 Stat. 2132; Pub. L. 100–17, title I, §§133(c)(3), 148, Apr. 2, 1987, 101 Stat. 172, 181; Pub. L. 100–202, §101(<i>l</i>) \[title III, §346\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1037, Dec. 18, 1991, 105 Stat. 1987; Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724, provided that:
 
 “(a)(1) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out demonstration projects in Lincoln, Nebraska, Wheeling, West Virginia, and Elko, Nevada, for the relocation of railroad lines from the central area of the cities in conformance with the methodology developed under proposals submitted to the Secretary by the respective cities. The cities shall (1) have a local agency with legal authority to relocate railroad facilities, levy taxes for such purpose, and a record of prior accomplishment; and (2) have a current relocation plan for such lines which has a favorable benefit-cost ratio involving and having the unanimous approval of three or more class 1 railroads in Lincoln, Nebraska, and the two class 1 railroads in Wheeling, West Virginia, and Elko, Nevada, and multicivic, local, and State agencies, and which provides for the elimination of a substantial number of the existing railway-road conflict points within the city.
 

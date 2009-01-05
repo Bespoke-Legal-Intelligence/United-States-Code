@@ -4,7 +4,7 @@
 
 (b) Commissioned officers appointed in the Regular Army without specification of branch shall be assigned, and may be transferred and reassigned, by the Secretary of the Army to branches other than the special branches, according to their professional qualifications and the needs of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 181; Pub. L. 85–600, §1(4), Aug. 6, 1958, 72 Stat. 522; Pub. L.95–485, title VIII, §820(d)(1), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 181; Pub. L. 85–600, §1(4), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–485, title VIII, §820(d)(1), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Aug. 7, 1947, ch. 512, §502(b) (2d sentence), (c) (less proviso), 61 Stat. 884;
 
 Subsection (a) is substituted for 10:506(b) (2d sentence) and 506(c) (1st sentence). The words “in each of the special branches” are substituted for the enumeration of branches in 10:506(b) (2d sentence) and for the words “each of the several corps of the Army Medical Service, as chaplains”, in 10:506(c).
 
-In subsection (b), the words “other than the special branches and the Women's Army Corps” are substituted for 10:506(c) (words between 3d and 4th parentheses). The word “their” is substituted for the words “of the officers concerned”. The words “of the Army” are substituted for the words “of the branches, arms, and services”. The words “from time to time” and “arms, and services” are omitted as surplusage.
+In subsection (b), the words “other than the special branches and the Women's Army Corps” are substituted for 10:506(c) (words between 3d and 4th parentheses). The word “their” is substituted for the words “of the officers concerned”. The words “of the Army” are substituted for the words “of the branches, arms,and services”. The words “from time to time” and “arms, and services” are omitted as surplusage.
 
 #### Amendments
 

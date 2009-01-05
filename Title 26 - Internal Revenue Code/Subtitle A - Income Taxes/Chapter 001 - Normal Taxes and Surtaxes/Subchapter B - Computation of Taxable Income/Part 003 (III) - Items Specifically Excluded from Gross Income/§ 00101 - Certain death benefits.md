@@ -10,7 +10,7 @@
 
 &emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
 
-&emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
+&emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of suchcontract or interest therein in the hands of the transferor, or
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
@@ -184,7 +184,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) In general
 
-&emsp;&emsp;If any portion of the death benefit under a life insurance contract on the life of an insured described in paragraph (1) is sold or assigned to a viatical settlement provider, the amount paid for the sale or assignment of such portion shall be treated as an amount paid under the life insurance contract by reason of the death of such insured.
+&emsp;&emsp;If any portion of the death benefit under a life insurance contract on the life of an insured described in paragraph (1) is sold or assigned to a viatical settlement provider, the amount paid for the sale or assignment ofsuch portion shall be treated as an amount paid under the life insurance contract by reason of the death of such insured.
 
 #### (B) Viatical settlement provider
 
@@ -254,7 +254,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) Terminally ill individual
 
-&emsp;&emsp;The term “terminally ill individual” means an individual who has been certifiedby a physician as having an illness or physical condition which can reasonably be expected to result in death in 24 months or less after the date of the certification.
+&emsp;&emsp;The term “terminally ill individual” means an individual who has been certified by a physician as having an illness or physical condition which can reasonably be expected to result in death in 24 months or less after the date of the certification.
 
 #### (B) Chronically ill individual
 
@@ -270,7 +270,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (5) Exception for business-related policies
 
-&emsp;This subsection shall not apply in the case of any amount paid to any taxpayer other than the insured if such taxpayer has an insurable interest with respect to the life of the insured by reason of the insured being a director, officer, or employee of the taxpayer or by reason of the insured being financially interested in any trade or business carried on by the taxpayer.
+&emsp;This subsection shall not apply in the case of any amount paid to any taxpayer other than the insured if such taxpayer has an insurable interest with respect to the life of the insured by reason of the insured being a director, officer, or employee of the taxpayer or by reasonof the insured being financially interested in any trade or business carried on by the taxpayer.
 
 #### (h) Survivor benefits attributable to service by a public safety officer who is killed in the line of duty
 
@@ -422,7 +422,7 @@ Subsec. (i)(4). Pub. L. 108–121, §110(b)(1), added par. (4).
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
-1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect tosuch contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
+1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
 
 Subsec. (h). Pub. L. 105–34, §1528(a), added subsec. (h).
 
@@ -442,7 +442,7 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted “equal” for �
 
 Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement.”
 
-Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
+Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3),“Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 
 1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lump sum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
 
@@ -498,7 +498,7 @@ Waiver of limitations.—If refund or credit of any overpayment of tax resulting
 
 #### Effective Date of 1997 Amendment
 
-Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract\(within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
+Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
 
 Section 1528(b) of Pub. L. 105–34, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment and responsibilities
 
-The Secretary shall appoint a senior official in the Department, who shall report directly to theSecretary, to assume primary responsibility for privacy policy, including—
+The Secretary shall appoint a senior official in the Department, who shall report directly to the Secretary, to assume primary responsibility for privacy policy, including—
 
 &emsp;(1) assuring that the use of technologies sustain, and do not erode, privacy protections relating to the use, collection, and disclosure of personal information;
 
@@ -82,7 +82,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 &emsp;&emsp;&emsp;The senior official may investigate a matter referred under clause (i) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Inspector General notifies the senior official under clause (ii)(I)(bb)that the Inspector General does not intend to initiate an audit or investigation relating to that matter; or
+&emsp;&emsp;&emsp;&emsp;(I) the Inspector General notifies the senior official under clause (ii)(I)(bb) that the Inspector General does not intend to initiate an audit or investigation relating to that matter; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the Inspector General provides a further notification under clause (ii)(II) relating to that matter.
 

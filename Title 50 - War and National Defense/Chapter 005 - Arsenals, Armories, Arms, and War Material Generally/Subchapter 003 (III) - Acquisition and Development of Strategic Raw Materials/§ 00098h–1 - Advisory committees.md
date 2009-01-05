@@ -34,7 +34,7 @@ Provisions similar to those in this section were contained in former section 98a
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
 #### Transfer of Functions
 

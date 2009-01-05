@@ -8,7 +8,7 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 &emsp;(2) the taxes imposed by section 1401(b) of the Internal Revenue Code of 1986 with respect to self-employment income reported to the Secretary of the Treasury or his delegate on tax returns under subtitle F of such Code, as determined by the Secretary of the Treasury by applying the applicable rate of tax under such section to such self-employment income, which self-employment income shall be certified by the Commissioner of Social Security on the basis of records of self-employment established and maintained by the Commissioner of Social Security in accordance with such returns.
 
-> The amounts appropriated by the preceding sentence shall be transferred from time to time from the general fund in the Treasury to the Trust Fund, such amounts to be determined on the basis of estimates by the Secretary of the Treasury of the taxes, specified in the preceding sentence, paid to or deposited into the Treasury; and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or were less than the taxes specified in such sentence.
+> The amounts appropriated by the preceding sentence shall be transferred from time to time from the general fund in the Treasury to the Trust Fund, such amounts to be determined on the basis of estimates by the Secretary of the Treasury of the taxes, specified in the precedingsentence, paid to or deposited into the Treasury; and proper adjustments shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or were less than the taxes specified in such sentence.
 
 #### (b) Board of Trustees; composition; meetings; duties
 
@@ -122,7 +122,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(iii) Amounts resulting from the forfeiture of property by reason of a Federal health care offense.
 
-&emsp;&emsp;&emsp;(iv) Penalties and damages obtained and otherwise creditable to miscellaneous receipts of the general fund of the Treasury obtained under sections 3729 through 3733 of title 31 (known as the False Claims Act), in cases involving claims related to the provision of health care items and services (other than funds awarded to a relator, for restitution or otherwise authorized by law).
+&emsp;&emsp;&emsp;(iv) Penalties and damages obtained and otherwise creditable to miscellaneous receipts of the general fund of the Treasury obtained under sections 3729 through 3733of title 31 (known as the False Claims Act), in cases involving claims related to the provision of health care items and services (other than funds awarded to a relator, for restitution or otherwise authorized by law).
 
 #### (D) Application
 
@@ -148,7 +148,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (ii) Medicare and medicaid activities
 
-&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the followingamounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the programs under this subchapter and subchapter XIX of this chapter—
+&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the programs under this subchapter and subchapter XIX of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, not less than $60,000,000 and not more than $70,000,000;
 
@@ -284,7 +284,7 @@ Section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization
 
 Sections 242(b) and 249(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(2)(A)(ii), are sections 242(b) and 249(b) of Pub. L. 104–191, which are set out as notes under this section.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) ofchapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 
@@ -346,7 +346,7 @@ Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of 
 
 Subsecs. (f)(1), (g), (h). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-1983—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
+1983—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferredto the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
 
 Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
 
@@ -374,7 +374,7 @@ Subsec. (j)(5). Pub. L. 98–21, §142(b)(4), added par. (5).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366, provided that: “The amendment made by this subsection \[amendingthis section\] shall take effect as if included in the amendment made by section 201 of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1992).”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendment made by section 201 of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1992).”
 
 #### Effective Date of 1994 Amendment
 
@@ -434,7 +434,7 @@ Clerical error.—The term ‘clerical error’ means a failure that occurs on o
 
 &emsp;“(2)
 
-Trust fund.—The term ‘Trust Fund’ means the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t).
+Trust fund.—The term ‘Trust Fund’ means the Federal Hospital Insurance Trust Fund establishedunder section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t).
 
 “(b)
 

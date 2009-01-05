@@ -42,7 +42,7 @@ The members of the Board shall not, by reason of such membership, be considered 
 
 #### (f) Voting rights of Board members; quorum; action of Board on concurrence of majority
 
-Each member of the Board shall be entitled to one vote. A simple majority of the membershipshall constitute a quorum for the conduct of business. The Board shall act upon the concurrence of a simple majority of the membership present and voting.
+Each member of the Board shall be entitled to one vote. A simple majority of the membership shall constitute a quorum for the conduct of business. The Board shall act upon the concurrence of a simple majority of the membership present and voting.
 
 #### (g) Chairman; initial selection and term of office; subsequent annual election
 

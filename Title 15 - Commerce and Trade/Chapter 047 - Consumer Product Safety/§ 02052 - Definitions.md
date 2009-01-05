@@ -1,8 +1,40 @@
 ### §2052. Definitions
 
-(a) For purposes of this chapter:
+#### (a) In general
 
-&emsp;(1) The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
+In this chapter:
+
+#### (1) Appropriate Congressional committees
+
+&emsp;The term “appropriate Congressional committees” means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+#### (2) Children's product
+
+&emsp;The term “children's product” means a consumer product designed or intended primarily for children 12 years of age or younger. In determining whether a consumer product is primarily intended for a child 12 years of age or younger, the following factors shall be considered:
+
+&emsp;&emsp;(A) A statement by a manufacturer about the intended use of such product, including a label on such product if such statement is reasonable.
+
+&emsp;&emsp;(B) Whether the product is represented in its packaging, display, promotion, or advertising as appropriate for use by children 12 years of age or younger.
+
+&emsp;&emsp;(C) Whether the product is commonly recognized by consumers as being intended for use by a child 12 years of age or younger.
+
+&emsp;&emsp;(D) The Age Determination Guidelines issued by the Commission staff in September 2002, and any successor to such guidelines.
+
+#### (3) Commerce
+
+&emsp;The term “commerce” means trade, traffic, commerce, or transportation—
+
+&emsp;&emsp;(A) between a place in a State and any place outside thereof, or
+
+&emsp;&emsp;(B) which affects trade, traffic, commerce, or transportation described in subparagraph (A).
+
+#### (4) Commission
+
+&emsp;The term “Commission” means the Consumer Product Safety Commission, established by section 2053 of this title.
+
+#### (5) Consumer product
+
+&emsp;The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 
@@ -22,61 +54,91 @@
 
 &emsp;&emsp;(I) food. The term “food”, as used in this subparagraph means all “food”, as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(f)\], including poultry and poultry products (as defined in sections 4(e) and (f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat, meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 
-> &emsp;Such term includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site. Such term does not include such a device which is permanently fixed to a site. Except for the regulation under this chapter or the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\] of fireworks devices or any substance intended for use as a component of any such device, the Commission shall have no authority under the functions transferred pursuant to section 2079 of this title to regulate anyproduct or article described in subparagraph (E) of this paragraph or described, without regard to quantity, in section 845(a)(5) of title 18. See sections 2079(d) and 2080 of this title, for other limitations on Commission's authority to regulate certain consumer products.
+> &emsp;Such term includes any mechanical device which carries or conveys passengers along, around, or over a fixed or restricted route or course or within a defined area for the purpose of giving its passengers amusement, which is customarily controlled or directed by an individual who is employed for that purpose and who is not a consumer with respect to such device, and which is not permanently fixed to a site. Such term does not include such a device which is permanently fixed to a site. Except for the regulation under this chapter or the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\] of fireworks devices or any substance intended for use as a component of any such device, the Commission shall have no authority under the functions transferred pursuant to section 2079 of this title to regulate any product or article described in subparagraph (E) of this paragraph or described, without regard to quantity, in section 845(a)(5) of title 18. See sections 2079(d) <sup>1</sup> and 2080 of this title, for other limitations on Commission's authority to regulate certain consumer products.
 
-&emsp;(2) The term “consumer product safety rule” means a consumer products safety standard described in section 2056(a) of this title, or a rule under this chapter declaring a consumer product a banned hazardous product.
+#### (6) Consumer product safety rule
 
-&emsp;(3) The term “risk of injury” means a risk of death, personal injury, or serious or frequent illness.
+&emsp;The term “consumer product safety rule” means a consumer products safety standard described in section 2056(a) of this title, or a rule under this chapter declaring a consumer product a banned hazardous product.
 
-&emsp;(4) The term “manufacturer” means any person who manufactures or imports a consumer product.
+#### (7) Distribute in commerce; distribution in commerce
 
-&emsp;(5) The term “distributor” means a person to whom a consumer product is delivered or sold for purposes of distribution in commerce, except that such term does not include a manufacturer or retailer of such product.
+&emsp;The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
-&emsp;(6) The term “retailer” means a person to whom a consumer product is delivered or sold for purposes of sale or distribution by such person to a consumer.
+#### (8) Distributor
 
-&emsp;(7)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
+&emsp;The term “distributor” means a person to whom a consumer product is delivered or sold for purposes of distribution in commerce, except that such term does not include a manufacturer or retailer of such product.
+
+#### (9) Import; importation
+
+&emsp;The terms “import” and “importation” include reimporting a consumer product manufactured or processed, in whole or in part, in the United States.
+
+#### (10) Manufactured
+
+&emsp;The term “manufactured” means to manufacture, produce, or assemble.
+
+#### (11) Manufacturer
+
+&emsp;The term “manufacturer” means any person who manufactures or imports a consumer product.
+
+#### (12) Private labeler
+
+&emsp;(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
 &emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
-&emsp;(8) The term “manufactured” means to manufacture, produce, or assemble.
+#### (13) Retailer
 
-&emsp;(9) The term “Commission” means the Consumer Product Safety Commission, established by section 2053 of this title.
+&emsp;The term “retailer” means a person to whom a consumer product is delivered or sold for purposes of sale or distribution by such person to a consumer.
 
-&emsp;(10) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, Johnston Island, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
+#### (14) Risk of injury
 
-&emsp;(11) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
+&emsp;The term “risk of injury” means a risk of death, personal injury, or serious or frequent illness.
 
-&emsp;(12) The term “commerce” means trade, traffic, commerce, or transportation—
+#### (15) State
 
-&emsp;&emsp;(A) between a place in a State and any place outside thereof, or
+&emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, Johnston Island, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
 
-&emsp;&emsp;(B) which affects trade, traffic, commerce, or transportation described in subparagraph (A).
+#### (16) Third-party logistics provider
 
-&emsp;(13) The terms “import” and “importation” include reimporting a consumer product manufactured or processed, in whole or in part, in the United States.
+&emsp;The term “third-party logistics provider” means a person who solely receives, holds, or otherwise transports a consumer product in the ordinary course of business but who does not take title to the product.
 
-&emsp;(14) The term “United States”, when used in the geographic sense, means all of the States (as defined in paragraph (10)).
+#### (17) United States
 
-(b) A common carrier, contract carrier, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
+&emsp;The term “United States”, when used in the geographic sense, means all of the States (as defined in paragraph (10)).<sup>2</sup>
 
-(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+#### (b) Common carriers, contract carriers, third-party logistics provider, and freight forwarders
+
+A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
+
+(Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, as amended, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+Section 2079(d) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.
 
-Title 52 of the Revised Statutes, referred to in subsec. (a)(1)(G), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Disposition Table preceding section 101 of Title 46.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(5)(D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(1)(I), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+Title 52 of the Revised Statutes, referred to in subsec. (a)(5)(G), consisted of R.S. §§4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, Shipping, see Disposition Table preceding section 101 of Title 46.
 
-For definition of Canal Zone, referred to in subsec. (a)(10), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+The Federal Hazardous Substances Act, referred to in the provisions following subsec. (a)(5)(I), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+
+For definition of Canal Zone, referred to in subsec. (a)(15), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 
-In subsec. (a)(1)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(5)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[15 U.S.C. 1391(3) and (4)\]” and “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-In subsec. (a)(1)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]”, respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
+In subsec. (a)(5)(G), “chapter 43 of title 46” and “section 2101(1) of title 46” substituted for “the Federal Boat Safety Act of 1971 (46 U.S.C. 1451 et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[46 U.S.C. 1452(8)\]”, respectively, on authority of Pub. L. 98–89, §2(b), Aug. 26, 1983, 97 Stat. 598, section 1 of which enacted Title 46, Shipping.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–314, §235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
+
+Pub. L. 110–314, §235(b)(1), which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for “for purposes of this chapter:”, was executed by making the substitution for “For purposes of this chapter:” to reflect the probable intent of Congress.
+
+Subsec. (a)(15) to (17). Pub. L. 110–314, §235(a), added pars. (15) defining “appropriate Congressional committees”, (16) defining “children's product”, and (17) defining “third-party logistics providers”.
+
+Subsec. (b). Pub. L. 110–314, §235(b)(5), (c)(1), inserted heading and inserted “third-party logistics provider,” after “contract carrier,” in text.
 
 1986—Subsec. (a)(1)(E). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -99,4 +161,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should refer to paragraph (15).</i>
 

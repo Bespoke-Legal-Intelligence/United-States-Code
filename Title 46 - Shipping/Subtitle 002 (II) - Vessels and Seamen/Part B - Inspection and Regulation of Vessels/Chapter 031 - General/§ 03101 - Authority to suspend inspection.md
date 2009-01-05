@@ -1,6 +1,6 @@
 ### §3101. Authority to suspend inspection
 
-When the President decides that the needs of foreign commerce require, the President maysuspend a provision of this part for a foreign-built vessel registered as a vessel of the United States on conditions the President may specify.
+When the President decides that the needs of foreign commerce require, the President may suspend a provision of this part for a foreign-built vessel registered as a vessel of the United States on conditions the President may specify.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510.)
 

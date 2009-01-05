@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the â
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loansfor affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 

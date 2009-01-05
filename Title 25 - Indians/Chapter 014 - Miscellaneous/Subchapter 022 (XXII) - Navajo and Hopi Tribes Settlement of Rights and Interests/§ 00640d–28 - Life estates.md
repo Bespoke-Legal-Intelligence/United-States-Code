@@ -28,7 +28,7 @@ Each life estate lease shall consist of a fenced area not exceeding ninety acres
 
 #### (f) Individuals permitted to reside; regulations
 
-No person may reside on a life estate other than the life tenant, his or her spouse, and minor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
+No person may reside on a life estate other than the life tenant, his or her spouse, andminor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
 
 #### (g) Termination
 

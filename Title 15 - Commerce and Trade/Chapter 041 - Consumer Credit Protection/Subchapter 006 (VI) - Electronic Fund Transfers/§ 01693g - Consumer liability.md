@@ -2,7 +2,7 @@
 
 #### (a) Unauthorized electronic fund transfers; limit
 
-A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas <sup>1</sup> of access and if the issuer of such card, code, or other means of access has provided a means whereby the user of such card, code, or other means of access can be identified as the person authorized to use it, such as by signature, photograph, or fingerprint or by electronic or mechanical confirmation. In no event, however, shall a consumer's liabilityfor an unauthorized transfer exceed the lesser of—
+A consumer shall be liable for any unauthorized electronic fund transfer involving the account of such consumer only if the card or other means of access utilized for such transfer was an accepted card or other meanas <sup>1</sup> of access and if the issuer of such card, code, or other means of access has provided a means whereby the user of such card, code, or other means of access can be identified as the person authorized to use it, such as by signature, photograph, or fingerprint or by electronic or mechanical confirmation. In no event, however, shall a consumer's liability for an unauthorized transfer exceed the lesser of—
 
 &emsp;(1) $50; or
 

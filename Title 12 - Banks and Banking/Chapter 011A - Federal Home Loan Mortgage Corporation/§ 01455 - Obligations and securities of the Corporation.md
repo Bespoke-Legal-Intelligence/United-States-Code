@@ -12,7 +12,7 @@ The Corporation may, by regulation or by writing executed by the Corporation, es
 
 (1) The Secretary of the Treasury may purchase any obligations issued under subsection (a) of this section. For such purpose, the Secretary may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purpose.
 
-(2) The Secretary of <sup>1</sup> Treasury shall not at any time purchase any obligations under this subsection if the purchase would increase the aggregate principal amount of the outstanding holdings of obligations under this subsection by the Secretary to an amount greater than $2,250,000,000.
+(2) The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if the purchase would increase the aggregate principal amount of the outstanding holdings of obligations under this subsection by the Secretary to an amount greater than $2,250,000,000.
 
 (3) Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon terms and conditions established to yield a rate of return determined by the Secretary to be appropriate, taking into consideration the current average rate on outstanding marketable obligations of the United States as of the last day of the month preceding the making of the purchase.
 
@@ -38,7 +38,7 @@ The Corporation may have preferred stock on such terms and conditions as the Boa
 
 #### (g) Securities exempt from regulation
 
-All securities issued or guaranteed by the Corporation (other than securities guaranteed by the Corporation that are backed by mortgages not purchased by the Corporation) shall, to the same extent as securities that are direct obligations of or obligations guaranteed as to principal or interest by the United States, be deemed to be exempt securities within the meaning of the laws administered by the Securities and Exchange Commission.
+All securities issued or guaranteed by the Corporation (other than securities guaranteed by the Corporation that are backed by mortgagesnot purchased by the Corporation) shall, to the same extent as securities that are direct obligations of or obligations guaranteed as to principal or interest by the United States, be deemed to be exempt securities within the meaning of the laws administered by the Securities and Exchange Commission.
 
 #### (h) Securities backed by mortgages not purchased by Corporation
 
@@ -48,13 +48,13 @@ All securities issued or guaranteed by the Corporation (other than securities gu
 
 #### (i) Prohibition on assessment or collection of fee or charge by United States
 
-Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <sup>2</sup> of this title and assessments pursuant to section 4516 <sup>2</sup> of this title, no fee or charge may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States) on or with regard to the purchase, acquisition, sale, pledge, issuance, guarantee, or redemption of any mortgage, asset, obligation, or other security by the Corporation. No provision of this subsection shall affect the purchase of any obligation by any Federal home loan bank pursuant to section 1452(a) of this title.
+Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of this title and assessments pursuant to section 4516 of this title, no fee or charge may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States) on or with regard to the purchase, acquisition, sale, pledge, issuance, guarantee, or redemption of any mortgage, asset, obligation, or other security by the Corporation. No provision of this subsection shall affect the purchase of any obligation by any Federal home loan bank pursuant to section 1452(a) of this title.
 
 #### (j) Notes, debentures, or substantially identical types of unsecured obligations; issuance, maturities, interest rates, etc.
 
 (1) Any notes, debentures, or substantially identical types of unsecured obligations of the Corporation evidencing money borrowed, whether general or subordinated, shall be issued upon the approval of the Secretary of the Treasury and shall have such maturities and bear such rate or rates of interest as may be determined by the Corporation with the approval of the Secretary of the Treasury.
 
-(2) Any notes, debentures, of <sup>3</sup> substantially identical types of unsecured obligations of the Corporation having maturities of 1 year or less that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 365 days after August 9, 1989.
+(2) Any notes, debentures, or substantially identical types of unsecured obligations of the Corporation having maturities of 1 year or less that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 365 days after August 9, 1989.
 
 (3) Any notes, debentures, or substantially identical types of unsecured obligations of the Corporation having maturities of more than 1 year that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection. Such deemed approval shall expire 60 days after August 9, 1989.
 
@@ -64,17 +64,89 @@ Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <su
 
 (2) Any securities in the form of debt obligations or trust certificates of beneficial interest, or both, and based upon mortgages held and set aside by the Corporation, that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection.
 
-(Pub. L. 91–351, title III, §306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, §316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, §6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, §5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, §441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, §1382(n), Oct. 28, 1992, 106 Stat. 4005.)
+#### (<i>l</i>) Temporary authority of Treasury to purchase obligations and securities; conditions
+
+#### (1) Authority to purchase
+
+#### (A) General authority
+
+&emsp;&emsp;In addition to the authority under subsection (c) of this section, the Secretary of the Treasury is authorized to purchase any obligations and other securities issued by the Corporation under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires the Corporation to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Corporation. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the Corporation, to engage in open market purchases of the common securities of the Corporation.
+
+#### (B) Emergency determination required
+
+&emsp;&emsp;In connection with any use of this authority, the Secretary must determine that such actions are necessary to—
+
+&emsp;&emsp;&emsp;(i) provide stability to the financial markets;
+
+&emsp;&emsp;&emsp;(ii) prevent disruptions in the availability of mortgage finance; and
+
+&emsp;&emsp;&emsp;(iii) protect the taxpayer.
+
+#### (C) Considerations
+
+&emsp;&emsp;To protect the taxpayers, the Secretary of the Treasury shall take into consideration the following in connection with exercising the authority contained in this paragraph:
+
+&emsp;&emsp;&emsp;(i) The need for preferences or priorities regarding payments to the Government.
+
+&emsp;&emsp;&emsp;(ii) Limits on maturity or disposition of obligations or securities to be purchased.
+
+&emsp;&emsp;&emsp;(iii) The Corporation's plan for the orderly resumption of private market funding or capital market access.
+
+&emsp;&emsp;&emsp;(iv) The probability of the Corporation fulfilling the terms of any such obligation or other security, including repayment.
+
+&emsp;&emsp;&emsp;(v) The need to maintain the Corporation's status as a private shareholder-owned company.
+
+&emsp;&emsp;&emsp;(vi) Restrictions on the use of Corporation resources, including limitations on the payment of dividends and executive compensation and any such other terms and conditions as appropriate for those purposes.
+
+#### (D) Reports to Congress
+
+&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
+
+#### (2) Rights; sale of obligations and securities
+
+#### (A) Exercise of rights
+
+&emsp;&emsp;The Secretary of the Treasury may, at any time, exercise any rights received in connection with such purchases.
+
+#### (B) Sale of obligation and securities
+
+&emsp;&emsp;The Secretary of the Treasury may, at any time, subject to the terms of the security or otherwise upon terms and conditions and at prices determined by the Secretary, sell any obligation or security acquired by the Secretary under this subsection.
+
+#### (C) Application of sunset to purchased obligations or securities
+
+&emsp;&emsp;The authority of the Secretary of the Treasury to hold, exercise any rights received in connection with, or sell, any obligations or securities purchased is not subject to the provisions of paragraph (4).
+
+#### (3) Funding
+
+&emsp;For the purpose of the authorities granted in this subsection, the Secretary of the Treasury may use the proceeds of the sale of any securities issued under chapter 31 of Title 31, and the purposes for which securities may be issued under chapter 31 of Title 31 are extended to include such purchases and the exercise of any rights in connection with such purchases. Any funds expended for the purchase of, or modifications to, obligations and securities, or the exercise of any rights received in connection with such purchases under this subsection shall be deemed appropriated at the time of such purchase, modification, or exercise.
+
+#### (4) Termination of authority
+
+&emsp;The authority under this subsection (<i>l</i>), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
+
+#### (5) Authority of the Director with respect to executive compensation
+
+&emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Corporation, as defined under Regulation S-K, 17 C.F.R. 229.
+
+(Pub. L. 91–351, title III, §306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, §316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, §6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, §5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, §441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, §1382(n), Oct. 28, 1992, 106 Stat. 4005; Pub. L. 110–289, div. A, title I, §§1117(b), 1161(c)(2), July 30, 2008, 122 Stat. 2684, 2780.)
 
 #### References in Text
 
 Section 1452(c) of this title, referred to in subsec. (i), was redesignated section 1452(d) of this title by Pub. L. 101–73, title VII, §731(c)(1), Aug. 9, 1989, 103 Stat. 431.
 
-Section 1455(c) of this title, referred to in subsec. (i), was in the original a reference to section “1316(c) of this Act”, and was translated as meaning a reference to section 306(c) of Pub. L. 91–351, which is classified to subsec. (c) of this section, to reflect the probable intent of Congress. Pub. L. 91–351 does not contain a section 1316.
-
-Section 4516 of this title, referred to in subsec. (i), was in the original “section 106 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992”, and was translated as meaning section 1316 of that Act, which is classified to section 4516 of this title, to reflect the probable intent of Congress. The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 does not contain a section 106.
+This chapter, referred to in subsec. (<i>l</i>)(1)(A), was in the original “this Act” and has been translated as reading “this title”, meaning title III of Pub. L. 91–351, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–289, §1161(c)(2)(A), inserted “the” after “Secretary of”.
+
+Subsec. (i). Pub. L. 110–289, §1161(c)(2)(B)(ii), made technical amendment to reference in original act which appears in text as reference to section 4516 of this title.
+
+Pub. L. 110–289, §1161(c)(2)(B)(i), made technical amendment to reference in original act which appears in text as reference to section 1455(c) of this title. Amendment was given effect, notwithstanding error in directory language which directed substitution of “section 306(c)” for “section 1316(c)” in the original.
+
+Subsec. (j)(2). Pub. L. 110–289, §1161(c)(2)(C), substituted “or substantially” for “of substantially”.
+
+Subsec. (<i>l</i>). Pub. L. 110–289, §1117(b), added subsec. (<i>l</i>).
 
 1992—Subsec. (h). Pub. L. 102–550, §1382(n)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -88,7 +160,7 @@ Subsecs. (j), (k). Pub. L. 101–73, §731(i), added subsecs. (j) and (k).
 
 1988—Subsec. (i). Pub. L. 100–242 added subsec. (i).
 
-1984—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+1984—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directlyor indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
 Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 
@@ -98,9 +170,5 @@ Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 
 1979—Subsec. (e). Pub. L. 96–153 added subsec. (e).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

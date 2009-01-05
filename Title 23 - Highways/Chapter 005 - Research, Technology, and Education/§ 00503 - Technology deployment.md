@@ -166,7 +166,7 @@ Grants, cooperative agreements, and contracts.—
 
 &emsp;&emsp;(A)
 
-In general.—Under the program, the Secretary shall make grants to, and enterinto cooperative agreements and contracts with, States, other Federal agencies, universities and colleges, private sector entities, and nonprofit organizations for research, development, and technology transfer for innovative safety technologies.
+In general.—Under the program, the Secretary shall make grants to, and enter into cooperative agreements and contracts with, States, other Federal agencies, universities and colleges, private sector entities, and nonprofit organizations for research, development, and technology transfer for innovative safety technologies.
 
 &emsp;&emsp;(B)
 

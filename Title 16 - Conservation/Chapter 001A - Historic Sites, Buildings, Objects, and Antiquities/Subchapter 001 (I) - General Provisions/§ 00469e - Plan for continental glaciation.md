@@ -18,7 +18,7 @@ When the comprehensive plan is completed and the Secretary is satisfied that Sta
 
 #### (c) Inclusion and exclusion of other areas
 
-Any area outside of the national forests that the Secretary and the Governor of Wisconsin agree has significant examples of continental glaciation but is not described in the original notice may be included in the reserve by the Secretary after notice to the President of the Senate and the Speaker of the House of Representatives and publication in the Federal Register, as hereinbefore provided, and any area that they consider to be no longer desirable as a part of the reserve may be excluded from it by the Secretary in the same manner.
+Any area outside of the national forests that the Secretary and the Governor of Wisconsinagree has significant examples of continental glaciation but is not described in the original notice may be included in the reserve by the Secretary after notice to the President of the Senate and the Speaker of the House of Representatives and publication in the Federal Register, as hereinbefore provided, and any area that they consider to be no longer desirable as a part of the reserve may be excluded from it by the Secretary in the same manner.
 
 (Pub. L. 88–655, §2, Oct. 13, 1964, 78 Stat. 1087.)
 

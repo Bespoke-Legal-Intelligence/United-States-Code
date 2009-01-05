@@ -4,13 +4,13 @@
 
 #### (1) Authorization
 
-&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E of this subchapter) $105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008.
+&emsp;There are authorized to be appropriated to carry out this subchapter (other than section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
 
 #### (2) Allocation
 
 #### (A) Parts A and B of this subchapter
 
-&emsp;&emsp;From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B of this subchapter.
+&emsp;&emsp;From the amount appropriated under paragraph (1) for a fiscal year, the Secretaryshall reserve not less than 90 percent to carry out parts A and B of this subchapter.
 
 #### (B) Part B of this subchapter
 
@@ -18,19 +18,31 @@
 
 #### (3) Parts C and D of this subchapter
 
-&emsp;In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D of this subchapter.
+#### (A) In general
+
+&emsp;&emsp;In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D of this subchapter (other than section 5714–25 of this title).
+
+#### (B) Periodic estimate
+
+&emsp;&emsp;There are authorized to be appropriated to carry out section 5714–25 of this title such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.
 
 #### (4) Part E of this subchapter
 
-&emsp;There is authorized to be appropriated to carry out part E of this subchapter such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008.
+&emsp;There are authorized to be appropriated to carry out part E of this subchapter $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
 
 #### (b) Separate identification required
 
 No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
-(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amendedPub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170.)
+(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §11, Oct. 8, 2008, 122 Stat. 4073.)
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–378, §11(1), substituted “are authorized” for “is authorized”, “section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009” for “part E of this subchapter) $105,000,000 for fiscal year 2004”, and “2010, 2011, 2012, and 2013” for “2005, 2006, 2007, and 2008”.
+
+Subsec. (a)(3). Pub. L. 110–378, §11(2), designated existing provisions as subpar. (A), inserted heading, inserted “(other than section 5714–25 of this title)” before period, and added subpar. (B).
+
+Subsec. (a)(4). Pub. L. 110–378, §11(3), substituted “are authorized” for “is authorized” and “$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” for “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008”.
 
 2003—Subsec. (a)(1). Pub. L. 108–96, §117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
 
@@ -68,7 +80,7 @@ Subsec. (b). Pub. L. 98–473, §657(c), struck out “Associate” before “Ad
 
 Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of $10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
+1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of$10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
 
 1977—Subsec. (a). Pub. L. 95–115, §7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
 

@@ -30,7 +30,7 @@ State Defined.—In this section, the term “State” includes the District of 
 
 #### Effective Date of 1993 Amendment
 
-Section 715(b) of Pub. L. 103–160 provided that: “Section 1103 of title 10, United States Code, as amended by subsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 715(b) of Pub. L. 103–160 provided that: “Section 1103 of title 10, United States Code, as amended bysubsection (a), shall apply with respect to any contract entered into under chapter 55 of such title before, on, or after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date
 

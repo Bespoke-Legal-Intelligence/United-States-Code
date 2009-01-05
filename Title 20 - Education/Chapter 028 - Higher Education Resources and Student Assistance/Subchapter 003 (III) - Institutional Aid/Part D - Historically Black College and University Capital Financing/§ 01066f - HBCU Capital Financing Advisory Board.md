@@ -8,19 +8,21 @@ There is established within the Department of Education, the Historically Black 
 
 #### (1) Composition
 
-&emsp;The Advisory Board shall be appointed by the Secretary and shall be composed of 9 members as follows:
+&emsp;The Advisory Board shall be appointed by the Secretary and shall be composed of 11 members as follows:
 
 &emsp;&emsp;(A) The Secretary or the Secretary's designee.
 
 &emsp;&emsp;(B) Three members who are presidents of private historically Black colleges or universities.
 
-&emsp;&emsp;(C) Two members who are presidents of public historically Black colleges or universities.
+&emsp;&emsp;(C) Three members who are presidents of public historically Black colleges or universities.
 
 &emsp;&emsp;(D) The president of the United Negro College Fund, Inc., or the president's designee.
 
 &emsp;&emsp;(E) The president of the National Association for Equal Opportunity in Higher Education, or the designee of the Association.
 
 &emsp;&emsp;(F) The executive director of the White House Initiative on historically Black colleges and universities.
+
+&emsp;&emsp;(G) The president of the Thurgood Marshall College Fund, or the designee of the president.
 
 #### (2) Terms
 
@@ -32,7 +34,25 @@ There is established within the Department of Education, the Historically Black 
 
 &emsp;&emsp;(C) a member may continue to serve after the expiration of a term until a successor is appointed.
 
-(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647.)
+#### (c) Additional recommendations from Advisory Board
+
+#### (1) In general
+
+&emsp;In addition to the responsibilities of the Advisory Board described in subsection (a), the Advisory Board shall advise the Secretary and the authorizing committees regarding—
+
+&emsp;&emsp;(A) the fiscal status and strategic financial condition of not less than ten historically Black colleges and universities that have—
+
+&emsp;&emsp;&emsp;(i) obtained construction financing through the program under this part and seek additional financing or refinancing under such program; or
+
+&emsp;&emsp;&emsp;(ii) applied for construction financing through the program under this part but have not received financing under such program; and
+
+&emsp;&emsp;(B) the feasibility of reducing borrowing costs associated with the program under this part, including reducing interest rates.
+
+#### (2) Report
+
+&emsp;Not later than six months after August 14, 2008, the Advisory Board shall prepare and submit a report to the authorizing committees regarding the historically Black colleges and universities described in paragraph (1)(A) that includes administrative and legislative recommendations for addressing the issues related to construction financing facing such historically Black colleges and universities.
+
+(Pub. L. 89–329, title III, §347, formerly title VII, §727, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 746; renumbered title III, §347, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), 306(e), Oct. 7, 1998, 112 Stat. 1636, 1647; Pub. L. 110–315, title III, §314(e), Aug. 14, 2008, 122 Stat. 3182.)
 
 #### Codification
 
@@ -43,6 +63,14 @@ Section was formerly classified to section 1132c–6 of this title prior to renu
 A prior section 347 of Pub. L. 89–329 was classified to section 1069c of this title prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–315, §314(e)(1)(A), substituted “11 members” for “9 members” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 110–315, §314(e)(1)(B), substituted “Three members” for “Two members”.
+
+Subsec. (b)(1)(G). Pub. L. 110–315, §314(e)(1)(C), added subpar. (G).
+
+Subsec. (c). Pub. L. 110–315, §314(e)(2), added subsec. (c).
 
 1998—Subsec. (b)(1)(D). Pub. L. 105–244, §306(e)(1)(A), inserted “, or the president's designee.” after “Fund, Inc.”
 

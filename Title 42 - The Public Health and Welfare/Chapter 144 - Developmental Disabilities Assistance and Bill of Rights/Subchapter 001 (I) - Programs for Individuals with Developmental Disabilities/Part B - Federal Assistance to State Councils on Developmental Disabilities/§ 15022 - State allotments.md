@@ -22,7 +22,7 @@
 
 #### (2) Adjustments
 
-&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the total sums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
+&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the totalsums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
 
 #### (3) Minimum allotment for appropriations less than or equal to $70,000,000
 
@@ -58,7 +58,7 @@
 
 #### (6) Increase in allotments
 
-&emsp;In any year in which the total amount appropriated under section 15029 of this title fora fiscal year exceeds the total amount appropriated under such section (or a corresponding provision) for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), the Secretary shall increase each of the minimum allotments described in paragraphs (3) and (4). The Secretary shall increase each minimum allotment by an amount that bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph (or a corresponding provision) for prior fiscal years) as the amount that is equal to the difference between—
+&emsp;In any year in which the total amount appropriated under section 15029 of this title for a fiscal year exceeds the total amount appropriated under such section (or a corresponding provision) for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29 (if the percentage change indicates an increase), the Secretary shall increase each of the minimum allotments described in paragraphs (3) and (4). The Secretary shall increase each minimum allotment by an amount that bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph (or a corresponding provision) for prior fiscal years) as the amount that is equal to the difference between—
 
 &emsp;&emsp;(A) the total amount appropriated under section 15029 of this title for the fiscal year for which the increase in the minimum allotment is being made; minus
 

@@ -4,7 +4,7 @@
 
 In General.—The principal of an obligation may not be guaranteed in an amount greater than the amount determined by multiplying the percentage applicable under subsection (b) by—
 
-&emsp;(1) the amount paid by or for the account of the obligor (as determined by the Secretary, which determination shall be conclusive) for the construction, reconstruction, or reconditioning of the vessel used as security for the guarantee; or
+&emsp;(1) the amount paid by or for the account of the obligor (as determined by the Secretary or Administrator, which determination shall be conclusive) for the construction, reconstruction, or reconditioning of the vessel used as security for the guarantee; or
 
 &emsp;(2) if the obligor creates an escrow fund under section 53715 of this title, the actual cost of the vessel.
 
@@ -14,13 +14,13 @@ Limitations on Amount Borrowed.—
 
 &emsp;(1)
 
-In general.—Except as otherwise provided, the principal amount of an obligation guaranteed under this chapter may not exceed 75 percent of the actual cost or depreciated actual cost, as determined by the Secretary, of the vessel used as security for the guarantee.
+In general.—Except as otherwise provided, the principal amount of an obligation guaranteed under this chapter may not exceed 75 percent of the actual cost or depreciated actual cost, as determined by the Secretary or Administrator, of the vessel used as security for the guarantee.
 
 &emsp;(2)
 
 Certain approved vessels.—The principal amount may not exceed 87.5 percent of the actual cost or depreciated actual cost if—
 
-&emsp;&emsp;(A) the size and speed of the vessel are approved by the Secretary;
+&emsp;&emsp;(A) the size and speed of the vessel are approved by the Secretary or Administrator;
 
 &emsp;&emsp;(B) the vessel is or would have been eligible for mortgage aid for construction under section 509 of the Merchant Marine Act, 1936, or would have been eligible except that the vessel was built with a construction-differential subsidy and the subsidy has been repaid; and
 
@@ -48,17 +48,13 @@ Security Involving Multiple Vessels.—The principal amount of an obligation hav
 
 (d)
 
-Prohibition on Uniform Percentage Limitations.—The Secretary may not establish a percentage under any provision of subsection (b) that is to be applied uniformly to all guarantees or commitments to guarantee made under that provision.
+Prohibition on Uniform Percentage Limitations.—The Secretary or Administrator may not establish a percentage under any provision of subsection (b) that is to be applied uniformly to all guarantees or commitments to guarantee made under that provision.
 
 (e)
 
 Prohibition on Minimum Principal Amount.—The Secretary may not establish, as a condition of eligibility for a guarantee under this chapter, a minimum principal amount for an obligation covering the reconstruction or reconditioning of a fishing vessel or fishery facility. For purposes of this chapter, the reconstruction or reconditioning of a fishing vessel or fishery facility does not include the routine minor repair or maintenance of the vessel or facility.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1609; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendments Not Shown in Text
-
-<i>Subsecs. (a) to (d) of this section were derived from sections 1273(c) and 1274(b)(2), (c)(1) (last sentence), and (i) of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Those provisions of the former Appendix to this title were amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1609; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -101,4 +97,12 @@ Subsections (a) and (d) are substituted for the source provisions for clarity an
 #### References in Text
 
 Section 509 of the Merchant Marine Act, 1936, referred to in subsec. (b)(2)(B), is section 509 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (D). See 2006 Amendment note below.
+
+Subsecs. (a)(1), (b)(1), (2)(A), (d). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), (D), into this section by inserting “or Administrator” after “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), (D), which directed the amendment of sections 1273(c) and 1274(b)(2), (c)(1), (i) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a)(1), (b)(1), (2)(A), (d) and Historical and Revision notes above.
 

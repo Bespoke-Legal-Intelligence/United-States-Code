@@ -18,7 +18,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 #### (1) In general
 
-&emsp;(A) The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management.
+&emsp;(A) The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Co-directors of the Center for Coastal and Ocean Mapping/Joint Hydrographic Center and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in 1 or more of the disciplines and fields relating to hydrographic data and hydrographic services, marine transportation, port administration, vessel pilotage, coastal and fishery management, and other disciplines as determined appropriate by the Administrator.
 
 &emsp;(B) An individual may not be appointed as a voting member of the panel if the individual is a full-time officer or employee of the United States.
 
@@ -56,13 +56,15 @@ The panel shall meet on a biannual basis and, at any other time, at the call of 
 
 The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
 
-(Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080.)
+(Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov.13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, §4, Oct. 10, 2008, 122 Stat. 4107.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (c)(1)(C), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(1)(A). Pub. L. 110–386 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management.”
 
 2002—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not later than 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
 

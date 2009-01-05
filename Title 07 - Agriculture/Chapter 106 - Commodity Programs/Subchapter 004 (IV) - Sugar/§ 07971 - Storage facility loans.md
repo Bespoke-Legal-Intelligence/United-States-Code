@@ -18,9 +18,23 @@ A storage facility loan described in subsection (a) of this section shall be mad
 
 A storage facility loan described in subsection (a) of this section shall—
 
-&emsp;(1) have a minimum term of 7 years; and
+&emsp;(1) have a minimum term of 7 years;
 
-&emsp;(2) be in such amounts and on such terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
+&emsp;(2) not include any penalty for prepayment; and
 
-(Pub. L. 107–171, title I, §1402, May 13, 2002, 116 Stat. 187.)
+&emsp;(3) be in such amounts and on such other terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
+
+(Pub. L. 107–171, title I, §1402, May 13, 2002, 116 Stat. 187; Pub. L. 110–234, title I, §1404, May 22, 2008, 122 Stat. 989; Pub. L. 110–246, §4(a), title I, §1404, June 18, 2008, 122 Stat. 1664, 1718.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (c)(2), (3). Pub. L. 110–246, §1404, added par. (2), redesignated former par. (2) as (3), and, in par. (3), inserted “other” after “on such”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

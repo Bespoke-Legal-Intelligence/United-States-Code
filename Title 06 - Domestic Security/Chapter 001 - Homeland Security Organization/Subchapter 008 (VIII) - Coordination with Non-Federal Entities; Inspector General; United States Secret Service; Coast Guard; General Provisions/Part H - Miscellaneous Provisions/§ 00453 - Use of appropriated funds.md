@@ -22,7 +22,7 @@ Under section 1105 of title 31, the President shall submit to Congress a detaile
 
 #### Codification
 
-In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

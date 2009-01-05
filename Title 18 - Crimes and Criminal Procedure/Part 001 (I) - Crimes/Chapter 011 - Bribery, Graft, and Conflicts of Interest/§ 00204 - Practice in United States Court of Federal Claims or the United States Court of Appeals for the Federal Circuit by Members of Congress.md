@@ -1,6 +1,6 @@
 ### §204. Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress
 
-Whoever, being a Member of Congress or Member of Congress Elect, practices in the United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit shall be subject to the penalties set forth in section 216 of this title.
+Whoever, being a Member of Congress or Member of Congress Elect, practices in the United States Court of Federal Claims or the UnitedStates Court of Appeals for the Federal Circuit shall be subject to the penalties set forth in section 216 of this title.
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, §204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I, §147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, §403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -38,5 +38,5 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 #### Exemptions
 
-Exemptions from former section 282 of this title deemed to be exemptions from this section, see section2 of Pub. L. 87–849, set out as a note under section 203 of this title.
+Exemptions from former section 282 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Persons deemed ineligible for service with investment companies, etc.; investment adviser
 
-It shall be unlawful for any of the following persons to serve or act in the capacity of employee, officer, director, member of an advisoryboard, investment adviser, or depositor of any registered investment company, or principal underwriter for any registered open-end company, registered unit investment trust, or registered face-amount certificate company:
+It shall be unlawful for any of the following persons to serve or act in the capacity of employee, officer, director, member of an advisory board, investment adviser, or depositor of any registered investment company, or principal underwriter for any registered open-end company, registered unit investment trust, or registered face-amount certificate company:
 
 &emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, credit rating agency, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
 
@@ -36,7 +36,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 #### (c) Application of ineligible person for exemption
 
-Any person who is ineligible, by reason of subsection (a) of this section, to serve or act in the capacities enumerated in such subsection, may file with the Commission an application for an exemption from the provisions of such subsection. The Commission shall by order grant such application, either unconditionally or on an appropriate temporary or other conditionalbasis, if it is established that the prohibitions of such subsection (a) as applied to such person, are unduly or disproportionately severe or that the conduct of such person has been such as not to make it against the public interest or protection of investors to grant such application.
+Any person who is ineligible, by reason of subsection (a) of this section, to serve or act in the capacities enumerated in such subsection, may file with the Commission an application for an exemption from the provisions of such subsection. The Commission shall by order grant such application, either unconditionally or on an appropriate temporary or other conditional basis, if it is established that the prohibitions of such subsection (a) as applied to such person, are unduly or disproportionately severe or that the conduct of such person has been such as not to make it against the public interest or protection of investors to grant such application.
 
 #### (d) Money penalties in administrative proceedings
 
@@ -98,7 +98,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (1) Authority of Commission
 
-&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, dueto an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (2) Hearing
 
@@ -112,7 +112,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (B) Applicability
 
-&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at thetime of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (4) Review of temporary orders
 

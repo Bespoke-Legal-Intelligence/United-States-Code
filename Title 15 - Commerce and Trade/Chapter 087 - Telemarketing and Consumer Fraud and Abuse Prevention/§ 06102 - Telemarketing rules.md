@@ -80,17 +80,5 @@ Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of sectio
 
 Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
 
-#### National Do-Not-Call Registry
-
-Pub. L. 108–82, §1, Sept. 29, 2003, 117 Stat. 1006, provided that:
-
-“(a)
-
-Authority.—The Federal Trade Commission is authorized under section 3(a)(3)(A) of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6102(a)(3)(A)) to implement and enforce a national do-not-call registry.
-
-“(b)
-
-Ratification.—The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)), which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.”
-
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

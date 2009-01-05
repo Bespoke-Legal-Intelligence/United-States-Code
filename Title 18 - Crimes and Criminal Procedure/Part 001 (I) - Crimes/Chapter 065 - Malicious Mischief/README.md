@@ -30,8 +30,6 @@ Pub. L. 99–508, title III, §303(b), Oct. 21, 1986, 100 Stat. 1873, added item
 
 1983—Pub. L. 98–127, §3, Oct. 13, 1983, 97 Stat. 832, added item 1365, relating to tampering with consumer products.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
-
 
 ---
 

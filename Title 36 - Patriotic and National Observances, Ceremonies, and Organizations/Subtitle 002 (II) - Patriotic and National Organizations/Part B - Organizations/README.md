@@ -48,7 +48,7 @@ Part B—Organizations
 - [Chapter 1001 - Italian American War Veterans of the United States](Chapter%201001%20-%20Italian%20American%20War%20Veterans%20of%20the%20United%20States/README.md)
 - [Chapter 1101 - Jewish War Veterans of the United States of America, Incorporated](Chapter%201101%20-%20Jewish%20War%20Veterans%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md)
 - [Chapter 1103 - Jewish War Veterans, U.S.a., National Memorial, Incorporated](Chapter%201103%20-%20Jewish%20War%20Veterans%2C%20U.S.a.%2C%20National%20Memorial%2C%20Incorporated/README.md)
-- [Chapter 1201 - \[Reserved](Chapter%201201%20-%20%5BReserved/README.md)
+- [Chapter 1201 - Korean War Veterans Association, Incorporated](Chapter%201201%20-%20Korean%20War%20Veterans%20Association%2C%20Incorporated/README.md)
 - [Chapter 1301 - Ladies of the Grand Army of the Republic](Chapter%201301%20-%20Ladies%20of%20the%20Grand%20Army%20of%20the%20Republic/README.md)
 - [Chapter 1303 - Legion of Valor of the United States of America, Incorporated](Chapter%201303%20-%20Legion%20of%20Valor%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md)
 - [Chapter 1305 - Little League Baseball, Incorporated](Chapter%201305%20-%20Little%20League%20Baseball%2C%20Incorporated/README.md)

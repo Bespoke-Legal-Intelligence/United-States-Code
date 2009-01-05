@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) of this section who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
+The President is authorized to use all means necessary and appropriate to bring about the release of any person described in subsection (b) ofthis section who is being detained or imprisoned by, on behalf of, or at the request of the International Criminal Court.
 
 #### (b) Persons authorized to be freed
 

@@ -16,7 +16,7 @@ If the manufacturer or producer referred to in subsection (a) incurs liability f
 
 &emsp;&emsp;(B) at the price for which the article was sold by the person who (without regard to subsection (a)) is the manufacturer, producer, or importer of such article.
 
-> For purposes of this subsection, the price for which the article was sold shall be determined as provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
+> For purposes of this subsection, the price for which the article was sold shall be determinedas provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
 
 (Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1285; amended Pub. L. 86–418, §2(b), Apr. 8, 1960, 74 Stat. 38; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title VII, §735(c)(10), July 18, 1984, 98 Stat. 983.)
 
@@ -38,5 +38,5 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after thefirst day of the first month which begins more than 10 days after April 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
+Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after April 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
 

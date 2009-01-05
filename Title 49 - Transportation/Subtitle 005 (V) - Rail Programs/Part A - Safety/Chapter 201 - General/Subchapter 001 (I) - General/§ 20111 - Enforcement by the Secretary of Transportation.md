@@ -16,7 +16,11 @@ Compliance Orders.—The Secretary may issue an order directing compliance with 
 
 (c)
 
-Orders Prohibiting Individuals From Performing Safety-Sensitive Functions.—If an individual's violation of this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or a regulation prescribed or order issued by the Secretary under this chapter is shown to make that individual unfit for the performance of safety-sensitive functions, the Secretary, after notice and opportunity for a hearing, may issue an order prohibiting the individual from performing safety-sensitive functions in the railroad industry for a specified period of time or until specified conditions are met. This subsection does not affect the Secretary's authority under section 20104 of this title to act on an emergency basis.
+Orders Prohibiting Individuals From Performing Safety-Sensitive Functions.—
+
+&emsp;(1) If an individual's violation of this part, chapter 51 of this title, or a regulation prescribed, or an order issued, by the Secretary under this part or chapter 51 of this title is shown to make that individual unfit for the performance of safety-sensitive functions, the Secretary, after providing notice and an opportunity for a hearing, may issue an order prohibiting the individual from performing safety-sensitive functions in the railroad industry for a specified period of time or until specified conditions are met.
+
+&emsp;(2) This subsection does not affect the Secretary's authority under section 20104 of this title to act on an emergency basis.
 
 (d)
 
@@ -32,7 +36,7 @@ Regulations Requiring Reporting of Remedial Actions.—(1) The Secretary shall p
 
 &emsp;(B) not later than September 3, 1994, shall prescribe final regulations to carry out this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 868; Pub. L. 103–440, title II, §205, Nov. 2, 1994, 108 Stat. 4620.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 868; Pub. L. 103–440, title II, §205, Nov. 2, 1994, 108 Stat. 4620; Pub. L. 110–432, div. A, title III, §305, Oct. 16, 2008, 122 Stat. 4879.)
 
 Historical and Revision Notes
 
@@ -80,11 +84,9 @@ In subsection (b), the word “further” is omitted as surplus.
 
 In subsection (d), the words “this part, chapter 51 or 57 of this title” are substituted for “the Federal railroad safety laws, as such term is defined in section 441(e) of this title” because 45:441(e) is not restated as a definition.
 
-#### References in Text
-
-Section 6 of the Department of Transportation Act, referred to in subsec. (c), is section 6 of Pub. L. 89–670, which was classified to section 1655 of former Title 49, Transportation. Section 6 was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 103–272, July 5, 1994, 108 Stat. 745. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
-
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–432 amended subsec. (c) generally. Prior to amendment, text read as follows: “If an individual's violation of this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or a regulation prescribed or order issued by the Secretary under this chapter is shown to make that individual unfit for the performance of safety-sensitive functions, the Secretary, after notice and opportunity for a hearing, may issue an order prohibiting the individual from performing safety-sensitive functions in the railroad industry for a specified period of time or until specified conditions are met. This subsection does not affect the Secretary's authority under section 20104 of this title to act on an emergency basis.”
 
 1994—Subsec. (c). Pub. L. 103–440 inserted “this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or” after “individual's violation of”.
 

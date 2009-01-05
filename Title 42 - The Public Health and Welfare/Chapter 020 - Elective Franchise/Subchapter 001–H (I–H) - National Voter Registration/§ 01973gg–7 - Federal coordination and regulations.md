@@ -8,7 +8,7 @@ The Election Assistance Commission—
 
 &emsp;(2) in consultation with the chief election officers of the States, shall develop a mail voter registration application form for elections for Federal office;
 
-&emsp;(3) not later than June 30 of each odd-numbered year, shall submit to the Congress a report assessing the impact of this subchapter on the administration of elections for Federaloffice during the preceding 2-year period and including recommendations for improvements in Federal and State procedures, forms, and other matters affected by this subchapter; and
+&emsp;(3) not later than June 30 of each odd-numbered year, shall submit to the Congress a report assessing the impact of this subchapter on the administration of elections for Federal office during the preceding 2-year period and including recommendations for improvements in Federal and State procedures, forms, and other matters affected by this subchapter; and
 
 &emsp;(4) shall provide information to the States with respect to the responsibilities of the States under this subchapter.
 

@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 95–559, §4(a), (b)(2), inserted “(or $4,000,000 if 
 
 Subsec. (d). Pub. L. 95–559, §2(b), substituted “September 30, 1981” for “September 30, 1980”.
 
-1976—Subsec. (a)(1), (2). Pub. L. 94–460, §§107(c), 109(a)(1), substituted “during a period not to exceed the first sixty months” for “in the period of the first thirty-six months”.
+1976—Subsec. (a)(1), (2). Pub. L. 94–460, §§107(c), 109(a)(1), substituted “during a period not to exceed thefirst sixty months” for “in the period of the first thirty-six months”.
 
 Subsec. (a)(3). Pub. L. 94–460, §108(c), substituted reference to loans made to nonprofit private health maintenance organizations for the amounts referred to in paragraph (1) or (2), or to other private health maintenance organizations for such amounts but only if the health maintenance organization will serve a medically underserved population for reference to loans made to any private health maintenance organization (other than a private nonprofit health maintenance organization) for the amounts referred to in paragraph (1) or (2), but only if such health maintenance organization will serve a medically underserved population.
 

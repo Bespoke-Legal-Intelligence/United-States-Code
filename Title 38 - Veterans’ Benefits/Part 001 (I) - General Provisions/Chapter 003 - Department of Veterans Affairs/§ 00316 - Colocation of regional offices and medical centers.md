@@ -4,7 +4,7 @@
 
 &emsp;(1) on real property under the jurisdiction of the Department of Veterans Affairs at such medical centers; or
 
-&emsp;(2) on real property that is adjacent to such a medical center and is under the jurisdiction of the Department as a result of being conveyed to the United States for the purpose of such colocation.
+&emsp;(2) on real property that is adjacent to such a medical center and is under the jurisdictionof the Department as a result of being conveyed to the United States for the purpose of such colocation.
 
 (b)(1) In carrying out this section and notwithstanding any other provision of law, the Secretary may lease, with or without compensation and for a period of not to exceed 35 years, to another party at not more than seven locations any of the real property described in paragraph (1) or (2) of subsection (a).
 
@@ -52,7 +52,7 @@
 
 (2) Subject to paragraph (3)(B), the Secretary shall—
 
-&emsp;(A) not later than one year after the date on which the invitation is issued under paragraph\(1), enter into an agreement to carry out one colocation under this subsection; and
+&emsp;(A) not later than one year after the date on which the invitation is issued under paragraph (1), enter into an agreement to carry out one colocation under this subsection; and
 
 &emsp;(B) within 180 days after entering into the agreement referred to in subparagraph (A), enter into agreements to carry out two additional colocations,
 

@@ -18,7 +18,7 @@ Such person so authorized shall have the power—
 
 &emsp;(1) with or without a warrant or other process, to arrest any person committing in his presence or view a violation of this chapter or the regulations issued thereunder;
 
-&emsp;(2) with a warrant or other process or without a warrant, if he has reasonable cause tobelieve that a vessel subject to the jurisdiction of the United States or any person onboard is in violation of any provision of this chapter or the regulations issued thereunder, to search such vessel and to arrest such person.
+&emsp;(2) with a warrant or other process or without a warrant, if he has reasonable cause to believe that a vessel subject to the jurisdiction of the United States or any person onboard is in violation of any provision of this chapter or the regulations issued thereunder, to search such vessel and to arrest such person.
 
 #### (e) Seizure of vessels and related articles
 
@@ -32,7 +32,7 @@ Such person so authorized may seize, whenever and wherever lawfully found, all f
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section 1182 of this title, relating to practice and procedure in connection with the enforcement of this chapter for provisions which had authorized the sale by the Secretary of sea otter skins that had been forfeited to or seized by the United States.
+1983—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section1182 of this title, relating to practice and procedure in connection with the enforcement of this chapter for provisions which had authorized the sale by the Secretary of sea otter skins that had been forfeited to or seized by the United States.
 
 #### Change of Name
 

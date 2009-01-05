@@ -30,7 +30,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;&emsp;(C) A system for the classification of positions which takes into account the difficulty, responsibility, and qualification requirements of the work performed, and which conforms to the principle of equal pay for substantially equal work.
 
-&emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which has among its goals improved employee performance and opportunities for employee advancement.
+&emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which hasamong its goals improved employee performance and opportunities for employee advancement.
 
 &emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation of job performance on the basis of objective criteria for all Architect of the Capitol employees.
 
@@ -54,7 +54,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensurethat the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 
@@ -78,7 +78,9 @@ Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this s
 
 #### Flexible Work Schedules
 
-Pub. L. 110–161, div. H, title I, §1302, Dec. 26, 2007, 121 Stat. 2242, provided that: “Notwithstanding section 6101 of title 5, United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2008.”
+Pub. L. 110–161, div. H, title I, §1302, Dec. 26, 2007, 121 Stat. 2242, as amended by Pub. L. 110–437, §505(a), Oct. 20, 2008, 122 Stat. 4998, provided that: “Notwithstanding section 6101 of title 5, United States Code, the Architect of the Capitol may establish and conduct a pilot program to test flexible work schedules within the Architect of the Capitol and Botanic Garden. Such pilot program shall be in accordance with chapter 61 of title 5, United States Code. This authority shall terminate effective September 30, 2010.”
+
+\[Pub. L. 110–437, title V, §505(b), Oct. 20, 2008, 122 Stat. 4998, provided that: “The amendment made under subsection (a) \[amending section 1302 of Pub. L. 110–161, set out above\] shall take effect as though enacted as part of the Legislative Branch Appropriations Act, 2008 (Public Law 110–161; 121 Stat. 2218 et seq.).”\]
 
 #### Temporary Employees; Benefits
 

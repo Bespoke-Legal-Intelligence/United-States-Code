@@ -10,7 +10,7 @@
 
 (2)(A) An action may be brought under this subsection by any one or more persons described in this subsection for and in behalf of such person or persons and other persons similarly situated, if the Commission permits such actions pursuant to a final rule issued by the Commission.
 
-(B) Not later than two hundred and seventy days after October 28, 1992, the Commission shall propose and publish for public comment such rules as are necessary to carry out subparagraph (A). In developing such rules, the Commission shall consider the potential impact of such actions on resources available to the reparations system established under this chapter and the relative merits of bringing such actions in Federal court.
+(B) Not later than two hundred and seventy days after October 28, 1992, the Commission shall propose and publish for public comment suchrules as are necessary to carry out subparagraph (A). In developing such rules, the Commission shall consider the potential impact of such actions on resources available to the reparations system established under this chapter and the relative merits of bringing such actions in Federal court.
 
 #### (b) Rules and regulations; control over right of appeal
 
@@ -22,7 +22,9 @@ In case a complaint is made by a nonresident of the United States, the complaina
 
 #### (d) Enforcement of reparation award
 
-If any person against whom an award has been made does not pay the reparation award within the time specified in the Commission's order, the complainant, or any person for whose benefit such order was made, within three years of the date of the order, may file a certified copy of the order of the Commission, in the district court of the United States for the district in which he resides or in which is located the principal place of business of the respondent, for enforcement of such reparation award by appropriate orders. The orders, writs, and processes of such district court may in such case run, be served, and be returnable anywhere in the United States. The petitioner shall not be liable for costs in the district court, nor for costs at any subsequent state of the proceedings, unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney's fee, to be taxed and collected as a part of the costs of the suit. Subject to the right of appeal under subsection (e) of this section, an order of the Commission awarding reparations shall be final and conclusive.
+(1) If any person against whom an award has been made does not pay the reparation award within the time specified in the Commission's order, the complainant, or any person for whose benefit such order was made, within three years of the date of the order, may file a certified copy of the order of the Commission, in the district court of the United States for the district in which he resides or in which is located the principal place of business of the respondent, for enforcement of such reparation award by appropriate orders. The orders, writs, and processes of such district court may in such case run, be served, and be returnable anywhere in the United States. The petitioner shall not be liable for costs in the district court, nor for costs at any subsequent state of the proceedings, unless they accrue upon his appeal. If the petitioner finally prevails, he shall be allowed a reasonable attorney's fee, to be taxed and collected as a part of the costs of the suit. Subject to the right of appeal under subsection (e) of this section, an order of the Commission awarding reparations shall be final and conclusive.
+
+(2) A reparation award shall be directly enforceable in district court as if it were a judgment pursuant to section 1963 of title 28. This paragraph shall operate retroactively from the effective date of its enactment, and shall apply to all reparation awards for which a proceeding described in paragraph (1) is commenced within 3 years of the date of the Commission's order.
 
 #### (e) Review
 
@@ -36,9 +38,15 @@ Unless the party against whom a reparation order has been issued shows to the sa
 
 Nothing in this section prohibits a registered futures commission merchant from requiring a customer that is an eligible contract participant, as a condition to the commission merchant's conducting a transaction for the customer, to enter into an agreement waiving the right to file a claim under this section.
 
-(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410.)
+(Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§118, 123(a)(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, §13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, §4(a), title XIII, §13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §13105(k), designated existing provisions as par. (1) and added par. (2).
 
 2000—Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(23)(A)\], substituted “registered entity” for “ contract market”.
 
@@ -50,7 +58,7 @@ Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title I, §118\], added subsec. (g) 
 
 Pub. L. 102–546, §222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
 
-Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to reference to sections 9 and 15 of thistitle to reflect change in reference to corresponding section of original act.
+Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
 Subsec. (g). Pub. L. 102–546, §402(11), substituted “15-month” for second reference to “fifteen months”.
 
@@ -73,6 +81,10 @@ Subsecs. (g) to (i). Pub. L. 97–444, §231(4), redesignated subsecs. (g), (h),
 Subsecs. (b), (c). Pub. L. 95–405, §21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
 
 1975—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1983 Amendment
 

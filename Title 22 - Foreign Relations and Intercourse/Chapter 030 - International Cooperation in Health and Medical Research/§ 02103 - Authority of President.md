@@ -2,7 +2,7 @@
 
 #### (a) Use of foreign currencies and credits
 
-It is the sense of Congress that the President should use his authority under the Constitutionand laws of the United States to accomplish the purposes of section 2101 of this title and in accomplishing such purposes (1) use to the fullest extent practicable foreign currencies or credits available for utilization by the United States, (2) enter into agreements to use foreign currencies and credits available to other nations for use with the agreement of the United States, and (3) use any other foreign currencies and credits which may be made available by participating foreign countries.
+It is the sense of Congress that the President should use his authority under the Constitution and laws of the United States to accomplish the purposes of section 2101 of this title and in accomplishing such purposes (1) use to the fullest extent practicable foreign currencies or credits available for utilization by the United States, (2) enter into agreements to use foreign currencies and credits available to other nations for use with the agreement of the United States, and (3) use any other foreign currencies and credits which may be made available by participating foreign countries.
 
 #### (b) Disease and health deficiency investigations, experiments, and studies; rehabilitation
 
@@ -40,7 +40,7 @@ The President may delegate any authority vested in him by this section to the Se
 
 #### (g) Use of foreign currencies and credits
 
-In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
+In order to carry out the purposes of section 2101 of this title, and subject to section 1306 of title 31, the President may use or enter into agreements with foreign nations or organizations of nations to use the foreign currencies which accrue under title I of the Food for Peace Act \[7 U.S.C. 1701 et seq.\], and the Mutual Security Act of 1954, or which are otherwise available for utilization by the United States. The President is authorized to agree to the utilization by foreign nations, for programs designed to carry out the purposes of section 2101 of this title in cooperation with the United States, of amounts deposited in special accounts pursuant to section 142(b) <sup>1</sup> of the Mutual Security Act of 1954, to the extent that the amounts in such accounts exceed the requirements of other programs covered by such section 142(b). Such utilization of amounts in special accounts shall be without regard to the second proviso in clause (iii) of such section 142(b).
 
 #### (h) Repealed. Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286
 
@@ -52,13 +52,13 @@ For the purposes of this section—
 
 &emsp;(2) the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
-(Pub. L. 86–610, §5, July 12, 1960, 74 Stat. 366; Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 86–610, §5, July 12, 1960, 74 Stat. 366; Pub. L. 105–362, title VI, §601(a)(2)(F), Nov. 10, 1998, 112 Stat. 3286; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(P), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (c) and (e), was in the original “this joint resolution”, which enacted this chapter and section 308 of the Public Health Service Act (act July 1, 1944, ch. 373, 58 Stat. 682). Such section 308 was redesignated section 307 by Pub. L. 93–353, July 23, 1974, title I, §106, 88 Stat. 367, and is classified to section 242<i>l</i> of Title 42, The Public Health and Welfare.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (g), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title I of the Act is classified to subchapter II (§1701 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Mutual Security Act of 1954, referred to in subsec. (g), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
@@ -72,7 +72,13 @@ In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” 
 
 #### Amendments
 
+2008—Subsec. (g). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
 1998—Subsec. (h). Pub. L. 105–362 struck out subsec. (h) which read as follows: “The President shall transmit to the Congress at the beginning of each regular session, a report summarizing activities under this section and making such recommendations as he may deem appropriate.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

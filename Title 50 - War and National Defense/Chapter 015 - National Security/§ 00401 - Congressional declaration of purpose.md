@@ -10,9 +10,9 @@ This legislation, referred to in text, means act July 26, 1947, ch. 343, 61 Stat
 
 #### Amendments
 
-1958—Pub. L. 85–599 amended section generally, and, among other changes, provided that each military department shall be separately organized, instead of separately administered, under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense, and inserted provisions relating to establishment of unified or specified combatant commands and for elimination of unnecessary duplication.
+<b>1958</b>—Pub. L. 85–599 amended section generally, and, among other changes, provided that each military department shall be separately organized, instead of separately administered, under its own Secretary and shallfunction under the direction, authority, and control of the Secretary of Defense, and inserted provisions relating to establishment of unified or specified combatant commands and for elimination of unnecessary duplication.
 
-1949—Act Aug. 10, 1949, provided that the military departments shall be separately administered but be under the direction of the Secretary of Defense, and that there shall not be a single Chief of Staff over the armed forces nor an armed forces general staff.
+<b>1949</b>—Act Aug. 10, 1949, provided that the military departments shall be separately administered but be under the direction of the Secretary of Defense, and that there shall not be a single Chief of Staff over the armed forces nor an armed forces general staff.
 
 #### Change of Name
 
@@ -116,7 +116,7 @@ Transfer of Personnel.—In addition to any other authorities available under la
 
 “(a)
 
-In General.—Except as otherwise expressly provided in this Act \[see Short Title of 2004 Amendment note below\], this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act \[Dec. 17, 2004\] \[For determination by the President that certain sections of title I of Pub. L. 108–458 take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.\].
+In General.—Except as otherwise expressly provided in this Act \[see Short Title of 2004 Amendment note below\], this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title shall take effect not later than six months afterthe date of the enactment of this Act \[Dec. 17, 2004\] \[For determination by the President that certain sections of title I of Pub. L. 108–458 take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.\].
 
 “(b)
 
@@ -170,7 +170,7 @@ Pub. L. 97–200, §1, June 23, 1982, 96 Stat. 122, provided: “That this Act \
 
 #### Short Title of 1949 Amendment
 
-Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of former Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
+Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of former Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
 
 #### Short Title
 
@@ -363,7 +363,7 @@ Number and Appointment.—The Commission shall be composed of 10 members, as fol
 
 “(b)
 
-Qualifications.—Persons appointed to the Commission shall be persons who are not officers or employees of the Federal Government (including Members of Congress) and who are specially qualified to serve onthe Commission by virtue of their education, training, or experience.
+Qualifications.—Persons appointed to the Commission shall be persons who are not officers or employees of the Federal Government (including Members of Congress) and who are specially qualified to serve on the Commission by virtue of their education, training, or experience.
 
 “(c)
 
@@ -537,518 +537,413 @@ Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 1198
 
 #### Executive Order No. 12036
 
-Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, which related to United States foreign intelligence activities, was revoked by Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, set out below.
+Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, which related to United States foreign intelligence activities, was revoked by Ex. Ord. No. 12333, §3.6, Dec. 4, 1981, 46 F.R. 59954, prior to Ex. Ord. No. 12333 being amended by Ex. Ord. No. 13470, §4(j), July 30, 2008, 73 F.R. 45341.
 
 #### Ex. Ord. No. 12333. United States Intelligence Activities
 
-Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077; Ex. Ord. No. 13355, §§2, 3, 6, Aug. 27, 2004, 69 F.R. 53593, provided:
+Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077; Ex. Ord. No. 13355, §§2, 3, 6, Aug. 27, 2004, 69 F.R.53593; Ex. Ord. No. 13470, §§1–4, July 30, 2008, 73 F.R. 45325, provided:
 
-TABLE OF CONTENTS
+#### TABLE OF CONTENTS \[Omitted.\]
 
-| &nbsp; | &nbsp; |
-| --- | --- |
-| Preamble | &nbsp; |
-|  |  |
+Timely, accurate, and insightful information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and the laws of the United States of America, including the National Security Act of 1947, as amended (Act) \[see Short Title note above\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activities and the protection of constitutional rights, it is hereby ordered as follows:
 
-Part 1.
-
-Goals, Direction, Duties, and Responsibilities With Respect to the National Intelligence Effort
-
-Sec.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-1\.1
-
-Goals
-
-1\.2
-
-The National Security Council
-
-1\.3
-
-National Foreign Intelligence Advisory Groups
-
-1\.4
-
-The Intelligence Community
-
-1\.5
-
-Director of Central Intelligence
-
-1\.6
-
-Duties and Responsibilities of the Heads of Executive Branch Departments and Agencies
-
-1\.7
-
-Senior Officials of the Intelligence Community
-
-1\.8
-
-The Central Intelligence Agency
-
-1\.9
-
-The Department of State
-
-1\.10
-
-The Department of the Treasury
-
-1\.11
-
-The Department of Defense
-
-1\.12
-
-Intelligence Components Utilized by the Secretary of Defense
-
-1\.13
-
-The Department of Energy
-
-1\.14
-
-The Federal Bureau of Investigation
-
-Part 2.
-
-Conduct of Intelligence Activities
-
-2\.1
-
-Need
-
-2\.2
-
-Purpose
-
-2\.3
-
-Collection of Information
-
-2\.4
-
-Collection Techniques
-
-2\.5
-
-Attorney General Approval
-
-2\.6
-
-Assistance to Law Enforcement Authorities
-
-2\.7
-
-Contracting
-
-2\.8
-
-Consistency With Other Laws
-
-2\.9
-
-Undisclosed Participation in Organizations Within the United States
-
-2\.10
-
-Human Experimentation
-
-2\.11
-
-Prohibition on Assassination
-
-2\.12
-
-Indirect Participation
-
-Part 3.
-
-General Provisions
-
-3\.1
-
-Congressional Oversight
-
-3\.2
-
-Implementation
-
-3\.3
-
-Procedures
-
-3\.4
-
-Definitions
-
-3\.5
-
-Purpose and Effect
-
-3\.6
-
-Revocation
-
-Timely and accurate information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the National Security Act of 1947, as amended (Act) \[see Short Title note above\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activities and the protection of constitutional rights, it is hereby ordered as follows:
-
-#### PART 1—GOALS, DIRECTION, DUTIES AND RESPONSIBILITIES WITH RESPECT TO THE NATIONAL INTELLIGENCE EFFORT
+#### PART 1—GOALS, DIRECTIONS, DUTIES, AND RESPONSIBILITIES WITH RESPECT TO UNITED STATES INTELLIGENCE EFFORTS
 
 #### 1\.1
 
 Goals
 
-The United States intelligence effort shall provide the President and the National Security Council with the necessary information on which to base decisions concerning the conduct and development of foreign, defense and economic policy, and the protection of United States national interests from foreign security threats. All departments and agencies shall cooperate fully to fulfill this goal.
+The United States intelligence effort shall provide the President, the National Security Council, and the Homeland Security Council with the necessary information on which to base decisions concerning the development and conduct of foreign, defense, and economic policies, and the protection of United States national interests from foreign security threats. All departments and agencies shall cooperate fully to fulfill this goal.
 
-(a) Maximum emphasis should be given to fostering analytical competition among appropriate elements of the Intelligence Community.
+(a) All means, consistent with applicable Federal law and this order, and with full consideration of the rights of United States persons, shall be used to obtain reliable intelligence information to protect the United States and its interests.
 
-(b) All means, consistent with applicable United States law and this Order, and with full consideration of the rights of United States persons, shall be used to develop intelligence information for the President and the National Security Council. A balanced approach between technical collection efforts and other means should be maintained and encouraged.
+(b) The United States Government has a solemn obligation, and shall continue in the conduct of intelligence activities under this order, to protect fully the legal rights of all United States persons, including freedoms, civil liberties, and privacy rights guaranteed by Federal law.
 
-(c) Special emphasis should be given to detecting and countering espionage and other threats and activities directed by foreign intelligence services against the United States Government, or United States corporations, establishments, or persons.
+(c) Intelligence collection under this order should be guided by the need for information to respond to intelligence priorities set by the President.
 
-(d) To the greatest extent possible consistent with applicable United States law and this Order, and with full consideration of the rights of United States persons, all agencies and departments should seek to ensure full and free exchange of information in order to derive maximum benefit from the United States intelligence effort.
+(d) Special emphasis should be given to detecting and countering:
+
+(1) Espionage and other threats and activities directed by foreign powers or their intelligence services against the United States and its interests;
+
+(2) Threats to the United States and its interests from terrorism; and
+
+(3) Threats to the United States and its interests from the development, possession, proliferation, or use of weapons of mass destruction.
+
+(e) Special emphasis shall be given to the production of timely, accurate, and insightful reports, responsive to decisionmakers in the executive branch, that draw on all appropriate sources of information, including open source information, meet rigorous analytic standards, consider diverse analytic viewpoints, and accurately represent appropriate alternative views.
+
+(f) State, local, and tribal governments are critical partners in securing and defending the United States from terrorism and other threats to the United States and its interests. Our national intelligence effort should take into account the responsibilities and requirements of State, local, and tribal governments and, as appropriate, private sector entities, when undertaking the collection and dissemination of information and intelligence to protect the United States.
+
+(g) All departments and agencies have a responsibility to prepare and to provide intelligence in a manner that allows the full and free exchange of information, consistent with applicable law and presidential guidance.
 
 #### 1\.2
 
 The National Security Council
 
-(a) <i>Purpose</i>. The National Security Council (NSC) was established by the National Security Act of 1947 \[see Short Title note above\] to advise the President with respect to the integration of domestic, foreign and military policies relating to the national security. The NSC shall act as the highest Executive Branch entity that provides review of, guidance for and direction to the conduct of all national foreign intelligence, counterintelligence, and special activities, and attendant policies and programs.
+(a) <i>Purpose</i>. The National Security Council (NSC) shall act as the highest ranking executive branch entity that provides support to the President for review of, guidance for, and direction to the conduct of all foreign intelligence, counterintelligence, and covert action, and attendant policies and programs.
 
-(b) <i>Committees</i>. The NSC shall establish such committees as may be necessary to carry out its functions and responsibilities under this Order. The NSC, or a committee established by it, shall consider and submit to the President a policy recommendation, including all dissents, on each special activity and shall review proposals for other sensitive intelligence operations.
+(b) <i>Covert Action and Other Sensitive Intelligence Operations</i>. The NSC shall consider and submit to the President a policy recommendation, including all dissents, on each proposed covert action and conduct a periodic review of ongoing covert action activities, including an evaluation of the effectiveness and consistency with current national policy of such activities and consistency with applicable legal requirements. The NSC shall perform such other functions related to covert action as the President may direct, but shall not undertake the conduct of covert actions. The NSC shall also review proposals for other sensitive intelligence operations.
 
 #### 1\.3
 
-National Foreign Intelligence Advisory Groups
+Director of National Intelligence
 
-(a) <i>Establishment and Duties</i>. The Director of Central Intelligence shall establish such boards, councils, or groups as required for the purpose of obtaining advice from within the Intelligence Community concerning:
+Subject to the authority, direction, and control of the President, the Director of National Intelligence (Director) shall serve as the head of the Intelligence Community, act as the principal adviser to the President, to the NSC, and to the Homeland Security Council for intelligence matters related to national security, and shall oversee and direct the implementation of the National Intelligence Program and execution of the National Intelligence Program budget. The Director will lead a unified, coordinated, and effective intelligence effort. In addition, the Director shall, in carrying out the duties and responsibilities under this section, take into account the views of the heads of departments containing an element of the Intelligence Community and of the Director of the Central Intelligence Agency.
 
-(1) Production, review and coordination of national foreign intelligence;
+(a) Except as otherwise directed by the President or prohibited by law, the Director shall have access to all information and intelligence described in section 1.5(a) of this order. For the purpose of access to and sharing of information and intelligence, the Director:
 
-(2) Priorities for the National Foreign Intelligence Program budget;
+(1) Is hereby assigned the function under section 3(5) of the Act, to determine that intelligence, regardless of the source from which derived and including information gathered within or outside the United States, pertains to more than one United States Government agency; and
 
-(3) Interagency exchanges of foreign intelligence information;
+(2) Shall develop guidelines for how information or intelligence is provided to or accessed by the Intelligence Community in accordance with section 1.5(a) of this order, and for how the information or intelligence may be used and shared by the Intelligence Community. All guidelines developed in accordance with this section shall be approved by the Attorney General and, where applicable, shall be consistent with guidelines issued pursuant to section 1016 of the Intelligence Reform and Terrorism Protection Act of 2004 (Public Law 108–458) (IRTPA).
 
-(4) Arrangements with foreign governments and organizations on intelligence matters;
+(b) In addition to fulfilling the obligations and responsibilities prescribed by the Act, the Director:
 
-(5) Protection of intelligence sources and methods;
+(1) Shall establish objectives, priorities, and guidance for the Intelligence Community to ensure timely and effective collection, processing, analysis, and dissemination of intelligence, of whatever nature and from whatever source derived;
 
-(6) Activities of common concern; and
+(2) May designate, in consultation with affected heads of departments or Intelligence Community elements, one or more Intelligence Community elements to develop and to maintain services of common concern on behalf of the Intelligence Community if the Director determines such services can be more efficiently or effectively accomplished in a consolidated manner;
 
-(7) Such other matters as may be referred by the Director of Central Intelligence.
+(3) Shall oversee and provide advice to the President and the NSC with respect to all ongoing and proposed covert action programs;
 
-(b) <i>Membership</i>. Advisory groups established pursuant to this section shall be chaired by the Director of Central Intelligence or his designated representative and shall consist of senior representatives from organizations within the Intelligence Community and from departments or agencies containing such organizations, as designated by the Director of Central Intelligence. Groups for consideration of substantive intelligence matters will include representatives of organizations involved in the collection, processing and analysis of intelligence. A senior representative of the Secretary of Commerce, the Attorney General, the Assistant to the President for National Security Affairs, and the Office of the Secretary of Defense shall be invited to participate in any group which deals with other than substantive intelligence matters.
+(4) In regard to the establishment and conduct of intelligence arrangements and agreements with foreign governments and international organizations:
+
+&emsp;(A) May enter into intelligence and counterintelligence arrangements and agreements with foreign governments and international organizations;
+
+&emsp;(B) Shall formulate policies concerning intelligence and counterintelligence arrangements and agreements with foreign governments and international organizations; and
+
+&emsp;(C) Shall align and synchronize intelligence and counterintelligence foreign relationships among the elements of the Intelligence Community to further United States national security, policy, and intelligence objectives;
+
+(5) Shall participate in the development of procedures approved by the Attorney General governing criminal drug intelligence activities abroad to ensure that these activities are consistent with foreign intelligence programs;
+
+(6) Shall establish common security and access standards for managing and handling intelligence systems, information, and products, with special emphasis on facilitating:
+
+&emsp;(A) The fullest and most prompt access to and dissemination of information and intelligence practicable, assigning the highest priority to detecting, preventing, preempting, and disrupting terrorist threats and activities against the United States, its interests, and allies; and
+
+&emsp;(B) The establishment of standards for an interoperable information sharing enterprise that facilitates the sharing of intelligence information among elements of the Intelligence Community;
+
+(7) Shall ensure that appropriate departments and agencies have access to intelligence and receive the support needed to perform independent analysis;
+
+(8) Shall protect, and ensure that programs are developed to protect, intelligence sources, methods, and activities from unauthorized disclosure;
+
+(9) Shall, after consultation with the heads of affected departments and agencies, establish guidelines for Intelligence Community elements for:
+
+&emsp;(A) Classification and declassification of all intelligence and intelligence-related information classified under the authority of the Director or the authority of the head of a department or Intelligence Community element; and
+
+&emsp;(B) Access to and dissemination of all intelligence and intelligence-related information, both in its final form and in the form when initially gathered, to include intelligence originally classified by the head of a department or Intelligence Community element, except that access to and dissemination of information concerning United States persons shall be governed by procedures developed in accordance with Part 2 of this order;
+
+(10) May, only with respect to Intelligence Community elements, and after consultation with thehead \[sic\] of the originating Intelligence Community element or the head of the originating department, declassify, or direct the declassification of, information or intelligence relating to intelligence sources, methods, and activities. The Director may only delegate this authority to the Principal Deputy Director of National Intelligence;
+
+(11) May establish, operate, and direct one or more national intelligence centers to address intelligence priorities;
+
+(12) May establish Functional Managers and Mission Managers, and designate officers or employees of the United States to serve in these positions.
+
+&emsp;(A) Functional Managers shall report to the Director concerning the execution of their duties as Functional Managers, and may be charged with developing and implementing strategic guidance, policies, and procedures for activities related to a specific intelligence discipline or set of intelligence activities; set training and tradecraft standards; and ensure coordination within and across intelligence disciplines and Intelligence Community elements and with related non-intelligence activities. Functional Managers may also advise the Director on: the management of resources; policies and procedures; collection capabilities and gaps; processing and dissemination of intelligence; technical architectures; and other issues or activities determined by the Director.
+
+&emsp;&emsp;(i) The Director of the National Security Agency is designated the Functional Manager for signals intelligence;
+
+&emsp;&emsp;(ii) The Director of the Central Intelligence Agency is designated the Functional Manager for human intelligence; and
+
+&emsp;&emsp;(iii) The Director of the National Geospatial-Intelligence Agency is designated the Functional Manager for geospatial intelligence.
+
+&emsp;(B) Mission Managers shall serve as principal substantive advisors on all or specified aspects of intelligence related to designated countries, regions, topics, or functional issues;
+
+(13) Shall establish uniform criteria for the determination of relative priorities for the transmission of critical foreign intelligence, and advise the Secretary of Defense concerning the communications requirements of the Intelligence Community for the transmission of such communications;
+
+(14) Shall have ultimate responsibility for production and dissemination of intelligence produced by the Intelligence Community and authority to levy analytic tasks on intelligence production organizations within the Intelligence Community, in consultation with the heads of the Intelligence Community elements concerned;
+
+(15) May establish advisory groups for the purpose of obtaining advice from within the Intelligence Community to carry out the Director's responsibilities, to include Intelligence Community executive management committees composed of senior Intelligence Community leaders. Advisory groups shall consist of representatives from elements of the Intelligence Community, as designated by the Director, or other executive branch departments, agencies, and offices, as appropriate;
+
+(16) Shall ensure the timely exploitation and dissemination of data gathered by national intelligence collection means, and ensure that the resulting intelligence is disseminated immediately to appropriate government elements, including military commands;
+
+(17) Shall determine requirements and priorities for, and manage and direct the tasking, collection, analysis, production, and dissemination of, national intelligence by elements of the Intelligence Community, including approving requirements for collection and analysis and resolving conflicts in collection requirements and in the tasking of national collection assets of Intelligence Community elements (except when otherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director);
+
+(18) May provide advisory tasking concerning collection and analysis of information or intelligence relevant to national intelligence or national security to departments, agencies, and establishments of the United States Government that are not elements of the Intelligence Community; and shall establish procedures, in consultation with affected heads of departments or agencies and subject to approval by the Attorney General, to implement this authority and to monitor or evaluate the responsiveness of United States Government departments, agencies, and other establishments;
+
+(19) Shall fulfill the responsibilities in section 1.3(b)(17) and (18) of this order, consistent with applicable law and with full consideration of the rights of United States persons, whether information is to be collected inside or outside the United States;
+
+(20) Shall ensure, through appropriate policies and procedures, the deconfliction, coordination, and integration of all intelligence activities conducted by an Intelligence Community element or funded by the National Intelligence Program. In accordance with these policies and procedures:
+
+&emsp;(A) The Director of the Federal Bureau of Investigation shall coordinate the clandestine collection offoreign intelligence collected through human sources or through human-enabled means and counterintelligence activities inside the United States;
+
+&emsp;(B) The Director of the Central Intelligence Agency shall coordinate the clandestine collection of foreign intelligence collected through human sources or through human-enabled means and counterintelligence activities outside the United States;
+
+&emsp;(C) All policies and procedures for the coordination of counterintelligence activities and the clandestine collection of foreign intelligence inside the United States shall be subject to the approval of the Attorney General; and
+
+&emsp;(D) All policies and procedures developed under this section shall be coordinated with the heads of affected departments and Intelligence Community elements;
+
+(21) Shall, with the concurrence of the heads of affected departments and agencies, establish joint procedures to deconflict, coordinate, and synchronize intelligence activities conducted by an Intelligence Community element or funded by the National Intelligence Program, with intelligence activities, activities that involve foreign intelligence and security services, or activities that involve the use of clandestine methods, conducted by other United States Government departments, agencies, and establishments;
+
+(22) Shall, in coordination with the heads of departments containing elements of the Intelligence Community, develop procedures to govern major system acquisitions funded in whole or in majority part by the National Intelligence Program;
+
+(23) Shall seek advice from the Secretary of State to ensure that the foreign policy implications of proposed intelligence activities are considered, and shall ensure, through appropriate policies and procedures, that intelligence activities are conducted in a manner consistent with the responsibilities pursuant to law and presidential direction of Chiefs of United States Missions; and
+
+(24) Shall facilitate the use of Intelligence Community products by the Congress in a secure manner.
+
+(c) The Director's exercise of authorities in the Act and this order shall not abrogate the statutory or other responsibilities of the heads of departments of the United States Government or the Director of the Central Intelligence Agency. Directives issued and actions taken by the Director in the exercise of the Director's authorities and responsibilities to integrate, coordinate, and make the Intelligence Community more effective in providing intelligence related to national security shall be implemented by the elements of the Intelligence Community, provided that any department head whose department contains an element of the Intelligence Community and who believes that a directive or action of the Director violates the requirements of section 1018 of the IRTPA or this subsection shall bring the issue to the attention of the Director, the NSC, or the President for resolution in a manner that respects and does not abrogate the statutory responsibilities of the heads of the departments.
+
+(d) Appointments to certain positions.
+
+(1) The relevant department or bureau head shall provide recommendations and obtain the concurrence of the Director for the selection of: the Director of the National Security Agency, the Director of the National Reconnaissance Office, the Director of the National Geospatial-Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury, and the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation. If the Director does not concur in the recommendation, the department head may not fill the vacancy or make the recommendation to the President, as the case may be. If the department head and the Director do not reach an agreement on the selection or recommendation, the Director and the department head concerned may advise the President directly of the Director's intention to withhold concurrence.
+
+(2) The relevant department head shall consult with the Director before appointing an individual to fill a vacancy or recommending to the President an individual be nominated to fill a vacancy in any of the following positions: the Under Secretary of Defense for Intelligence; the Director of the Defense Intelligence Agency; uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps above the rank of Major General or Rear Admiral; the Assistant Commandant of the Coast Guard for Intelligence; and the Assistant Attorney General for National Security.
+
+(e) Removal from certain positions.
+
+(1) Except for the Director of the Central Intelligence Agency, whose removal the Director may recommend to the President, the Director and the relevant department head shall consult on the removal, or recommendation to the President for removal, as the case may be, of: the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the Defense Intelligence Agency, the Under Secretary of Homeland Security for Intelligence and Analysis, the Assistant Secretary of State for Intelligence and Research, and the Assistant Secretary for Intelligence and Analysis of the Department of the Treasury. If the Director and the department head do not agree on removal, or recommendation for removal, either may make a recommendation to the President for the removal of the individual.
+
+(2) The Director and the relevant department or bureau head shall consult on the removal of: the Executive Assistant Director for the National Security Branch of the Federal Bureau of Investigation, the Director of the Office of Intelligence and Counterintelligence of the Department of Energy, the Director of the National Reconnaissance Office, the Assistant Commandant of the Coast Guard for Intelligence, and the Under Secretary of Defense for Intelligence. With respect to an individual appointed by a department head, the department head may remove the individual upon the request of the Director; if the department head chooses not to remove the individual, either the Director or the department head may advise the President of the department head's intention to retain the individual. In the case of the Under Secretary of Defense for Intelligence, the Secretary of Defense may recommend to the President either the removal or the retention of the individual. For uniformed heads of the intelligence elements of the Army, the Navy, the Air Force, and the Marine Corps, the Director may make a recommendation for removal to the Secretary of Defense.
+
+(3) Nothing in this subsection shall be construed to limit or otherwise affect the authority of the President to nominate, appoint, assign, or terminate the appointment or assignment of any individual, with or without a consultation, recommendation, or concurrence.
 
 #### 1\.4
 
 The Intelligence Community
 
-The agencies within the Intelligence Community shall, in accordance with applicable United States law and with the other provisions of this Order, conduct intelligence activities necessary for the conduct of foreign relations and the protection of the national security of the United States, including:
+Consistent with applicable Federal law and with the other provisions of this order, and under the leadership of the Director, as specified in such law and this order, the Intelligence Community shall:
 
-(a) Collection of information needed by the President and, in the performance of Executive functions, the Vice President,, \[sic\] the National Security Council, the Secretaries of State and Defense, and other Executive Branch officials for the performance of their duties and responsibilities;
+(a) Collect and provide information needed by the President and, in the performance of executive functions, the Vice President, the NSC, the Homeland Security Council, the Chairman of the Joint Chiefs of Staff, senior military commanders, and other executive branch officials and, as appropriate, the Congress of the United States;
 
-(b) Production and dissemination of intelligence;
+(b) In accordance with priorities set by the President, collect information concerning, and conduct activities to protect against, international terrorism, proliferation of weapons of mass destruction, intelligence activities directed against the United States, international criminal drug activities, and other hostile activities directed against the United States by foreign powers, organizations, persons, and their agents;
 
-(c) Collection of information concerning, and the conduct of activities to protect against, intelligence activities directed against the United States, international terrorist and international narcotics activities, and other hostile activities directed against the United States by foreign powers, organizations, persons, and their agents;
+(c) Analyze, produce, and disseminate intelligence;
 
-(d) Special activities;
+(d) Conduct administrative, technical, and other support activities within the United States and abroad necessary for the performance of authorized activities, to include providing services of common concern for the Intelligence Community as designated by the Director in accordance with this order;
 
-(e) Administrative and support activities within the United States and abroad necessary for the performance of authorized activities; and
+(e) Conduct research, development, and procurement of technical systems and devices relating to authorized functions and missions or the provision of services of common concern for the Intelligence Community;
 
-(f) Such other intelligence activities as the President may direct from time to time.
+(f) Protect the security of intelligence related activities, information, installations, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the Intelligence Community elements as are necessary;
+
+(g) Take into account State, local, and tribal governments’ and, as appropriate, private sector entities’ information needs relating to national and homeland security;
+
+(h) Deconflict, coordinate, and integrate all intelligence activities and other information gathering in accordance with section 1.3(b)(20) of this order; and
+
+(i) Perform such other functions and duties related to intelligence activities as the President may direct.
 
 #### 1\.5
 
-Director of Central Intelligence
+Duties and Responsibilities of the Heads of Executive Branch Departments and Agencies
 
-In order to discharge the duties and responsibilities prescribed by law, the Director of Central Intelligence shall be responsible directly to the President and the NSC and shall:
+The heads of all departments and agencies shall:
 
-(a)(1) Act as the principal adviser to the President for intelligence matters related to the national security;
+(a) Provide the Director access to all information and intelligence relevant to the national security or that otherwise is required for the performance of the Director's duties, to include administrative and other appropriate management information, except such information excluded by law, by the President, or by the Attorney General acting under this order at the direction of the President;
 
-(2) Act as the principal adviser to the National Security Council and Homeland Security Council for intelligence matters related to the national security; and
+(b) Provide all programmatic and budgetary information necessary to support the Director in developing the National Intelligence Program;
 
-(b)(1) Develop such objectives and guidance for the Intelligence Community necessary, in the Director's judgment, to ensure timely and effective collection, processing, analysis, and dissemination of intelligence, of whatever nature and from whatever source derived, concerning current and potential threats to the security of the United States and its interests, and to ensure that the National Foreign Intelligence Program (NFIP) is structured adequately to achieve these requirements; and
+(c) Coordinate development and implementation of intelligence systems and architectures and, as appropriate, operational systems and architectures of their departments, agencies, and other elements with the Director to respond to national intelligence requirements and all applicable information sharing and security guidelines, information privacy, and other legal requirements;
 
-(2) Working with the Intelligence Community, ensure that United States intelligence collection activities are integrated in: (i) collecting against enduring and emerging national security intelligence issues; (ii) maximizing the value to the national security; and (iii) ensuring that all collected data is available to the maximum extent practicable for integration, analysis, and dissemination to those who can act on, add value to, or otherwise apply it to mission needs.
+(d) Provide, to the maximum extent permitted by law, subject to the availability of appropriations and not inconsistent with the mission of the department or agency, such further support to the Director as the Director may request, after consultation with the head of the department or agency, for the performance of the Director's functions;
 
-(c) Promote the development and maintenance of services of common concern by designated intelligence organizations on behalf of the Intelligence Community;
+(e) Respond to advisory tasking from the Director under section 1.3(b)(18) of this order to the greatest extent possible, in accordance with applicable policies established by the head of the responding department or agency;
 
-(d) Ensure implementation of special activities;
+(f) Ensure that all elements within the department or agency comply with the provisions of Part 2 of this order, regardless of Intelligence Community affiliation, when performing foreign intelligence and counterintelligence functions;
 
-(e) Formulate policies concerning foreign intelligence and counterintelligence arrangements with foreign governments, coordinate foreign intelligence and counterintelligence relationships between agencies of the Intelligence Community and the intelligence or internal security services of foreign governments, and establish procedures governing the conduct of liaison by any department or agency with such services on narcotics activities;
+(g) Deconflict, coordinate, and integrate all intelligence activities in accordance with section 1.3(b)(20), and intelligence and other activities in accordance with section 1.3(b)(21) of this order;
 
-(f) Participate in the development of procedures approved by the Attorney General governing criminal narcotics intelligence activities abroad to ensure that these activities are consistent with foreign intelligence programs;
+(h) Inform the Attorney General, either directly or through the Federal Bureau of Investigation, and the Director of clandestine collection of foreign intelligence and counterintelligence activities inside the United States not coordinated with the Federal Bureau of Investigation;
 
-(g)(1) Establish common security and access standards for managing and handling intelligence systems, information, and products, with special emphasis on facilitating:
+(i) Pursuant to arrangements developed by the head of the department or agency and the Director of the Central Intelligence Agency and approved by the Director, inform the Director and the Director of the Central Intelligence Agency, either directly or through his designee serving outside the United States, as appropriate, of clandestine collection of foreign intelligence collected through human sources or through human-enabled means outside the United States that has not been coordinated with the Central Intelligence Agency; and
 
-(A) the fullest and most prompt sharing of information practicable, assigning the highest priority to detecting, preventing, preempting, and disrupting terrorist threats against our homeland, our people, our allies, and our interests; and
-
-(B) the establishment of interface standards for an interoperable information sharing enterprise that facilitates the automated sharing of intelligence information among agencies within the Intelligence Community.
-
-(2)(A) Establish, operate, and direct national centers with respect to matters determined by the President for purposes of this subparagraph to be of the highest national security priority, with the functions of analysis and planning (including planning for diplomatic, financial, military, intelligence, homeland security, and law enforcement activities, and integration of such activities among departments and agencies) relating to such matters.
-
-(B) The countering of terrorism within the United States, or against citizens of the United States, our allies, and our interests abroad, is hereby determined to be a matter of the highest national security priority for purposes of subparagraph (2)(A) of this subsection.
-
-(3) Ensure that appropriate agencies and departments have access to and receive all-source intelligence support needed to perform independent, alternative analysis.
-
-(h) Ensure that programs are developed which protect intelligence sources, methods, and analytical procedures;
-
-(i) Establish uniform criteria for the determination of relative priorities for the transmission of critical national foreign intelligence, and advise the Secretary of Defense concerning the communications requirements of the Intelligence Community for the transmission of such intelligence;
-
-(j) Establish appropriate staffs, committees, or other advisory groups to assist in the execution of the Director's responsibilities;
-
-(k) Have full responsibility for production and dissemination of national foreign intelligence, and authority to levy analytic tasks on departmental intelligence production organizations, in consultation with those organizations, ensuring that appropriate mechanisms for competitive analysis are developed so that diverse points of view are considered fully and differences of judgment within the Intelligence Community are brought to the attention of national policymakers;
-
-(<i>l</i>) Ensure the timely exploitation and dissemination of data gathered by national foreign intelligence collection means, and ensure that the resulting intelligence is disseminated immediately to appropriate government entities and military commands;
-
-(m)(1) Establish policies, procedures, and mechanisms that translate intelligence objectives and priorities approved by the President into specific guidance for the Intelligence Community.
-
-(2) In accordance with objectives and priorities approved by the President, establish collection requirements for the Intelligence Community, determine collection priorities, manage collection tasking, and resolve conflicts in the tasking of national collection assets (except when otherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director) of the Intelligence Community.
-
-(3) Provide advisory tasking concerning collection of intelligence information to elements of the United States Government that have information collection capabilities and are not organizations within the Intelligence Community.
-
-(4) The responsibilities in subsections 1.5(m)(2) and (3) apply, to the maximum extent consistent with applicable law, whether information is to be collected inside or outside the United States.
-
-(n)(1) Develop, determine, and present with the advice of the heads of departments or agencies that have an organization within the Intelligence Community, the annual consolidated NFIP budget. The Director shall be responsible for developing an integrated and balanced national intelligence program that is directly responsive to the national security threats facing the United States. The Director shall submit such budget (accompanied by dissenting views, if any, of the head of a department or agency that has an organization within the Intelligence Community) to the President for approval; and
-
-(2) Participate in the development by the Secretary of Defense of the annual budgets for the Joint Military Intelligence Program (JMIP) and the Tactical Intelligence and Related Activities (TIARA) Program.
-
-(<i>o</i>)(1) Transfer, consistent with applicable law and with the approval of the Director of the Office of Management and Budget, funds from an appropriation for the NFIP to another appropriation for the NFIP or to another NFIP component;
-
-(2) Review, and approve or disapprove, consistent with applicable law, any proposal to: (i) reprogram funds within an appropriation for the NFIP; (ii) transfer funds from an appropriation for the NFIP to an appropriation that is not for the NFIP within the Intelligence Community; or (iii) transfer funds from an appropriation that is not for the NFIP within the Intelligence Community to an appropriation for the NFIP; and
-
-(3) Monitor and consult with the Secretary of Defense on reprogrammings or transfers of funds within, into, or out of, appropriations for the JMIP and the TIARA Program.
-
-(p)(1) Monitor implementation and execution of the NFIP budget by the heads of departments or agencies that have an organization within the Intelligence Community, including, as necessary, by conducting program and performance audits and evaluations;
-
-(2) Monitor implementation of the JMIP and the TIARA Program and advise the Secretary of Defense thereon; and
-
-(3) After consultation with the heads of relevant departments, report periodically, and not less often than semiannually, to the President on the effectiveness of implementation of the NFIP Program by organizations within the Intelligence Community, for which purpose the heads of departments and agencies shall ensure that the Director has access to programmatic, execution, and other appropriate information.
-
-(q) Together with the Secretary of Defense, ensure that there is no unnecessary overlap between nationalforeign intelligence programs and Department of Defense intelligence programs consistent with the requirement to develop competitive analysis, and provide to and obtain from the Secretary of Defense all information necessary for this purpose;
-
-(r) In accordance with law and relevant procedures approved by the Attorney General under this Order, give the heads of the departments and agencies access to all intelligence, developed by the CIA or the staff elements of the Director of Central Intelligence, relevant to the national intelligence needs of the departments and agencies; and
-
-(s) Facilitate the use of national foreign intelligence products by Congress in a secure manner.
+(j) Inform the Secretary of Defense, either directly or through his designee, as appropriate, of clandestine collection of foreign intelligence outside the United States in a region of combat or contingency military operations designated by the Secretary of Defense, for purposes of this paragraph, after consultation with the Director of National Intelligence.
 
 #### 1\.6
 
-Duties and Responsibilities of the Heads of Executive Branch Departments and Agencies
+Heads of Elements of the Intelligence Community
 
-(a) The heads of all departments and agencies shall:
+The heads of elements of the Intelligence Community shall:
 
-(1) Unless the Director provides otherwise, give the Director access to all foreign intelligence, counterintelligence, and national intelligence, as defined in the Act, that is relevant to transnational terrorist threats and weapons of mass destruction proliferation threats, including such relevant intelligence derived from activities of the FBI, DHS, and any other department or agency, and all other information that is related to the national security or that otherwise is required for the performance of the Director's duties, except such information that is prohibited by law, by the President, or by the Attorney General acting under this order at the direction of the President from being provided to the Director. The Attorney General shall agree to procedures with the Director pursuant to section 3(5)(B) of the Act \[50 U.S.C. 401a(5)(B)\] no later than 90 days after the issuance of this order that ensure the Director receives all such information;
+(a) Provide the Director access to all information and intelligence relevant to the national security or that otherwise is required for the performance of the Director's duties, to include administrative and other appropriate management information, except such information excluded by law, by the President, or by the Attorney General acting under this order at the direction of the President;
 
-(2) support the Director in developing the NFIP;
+(b) Report to the Attorney General possible violations of Federal criminal laws by employees and of specified Federal criminal laws by any other person as provided in procedures agreed upon by the Attorney General and the head of the department, agency, or establishment concerned, in a manner consistent with the protection of intelligence sources and methods, as specified in those procedures;
 
-(3) ensure that any intelligence and operational systems and architectures of their departments and agencies are consistent with national intelligence requirements set by the Director and all applicable information sharing and security guidelines, and information privacy requirements; and
+(c) Report to the Intelligence Oversight Board, consistent with Executive Order 13462 of February 29, 2008, and provide copies of all such reports to the Director, concerning any intelligence activities of their elements that they have reason to believe may be unlawful or contrary to executive order or presidential directive;
 
-(4) provide, to the extent permitted by law, subject to the availability of appropriations, and not inconsistent with the mission of the department or agency, such further support to the Director as the Director may request, after consultation with the head of the department or agency, for the performance of the Director's functions.
+(d) Protect intelligence and intelligence sources, methods, and activities from unauthorized disclosure in accordance with guidance from the Director;
 
-(b) The heads of departments and agencies involved in the National Foreign Intelligence Program shall ensure timely development and submission to the Director of Central Intelligence by the program managers and heads of component activities of proposed national programs and budgets in the format designated by the Director of Central Intelligence, and shall also ensure that the Director of Central Intelligence is provided, in a timely and responsive manner, all information necessary to perform the Director's program and budget responsibilities.
+(e) Facilitate, as appropriate, the sharing of information or intelligence, as directed by law or the President, to State, local, tribal, and private sector entities;
 
-(c) The heads of departments and agencies involved in the National Foreign Intelligence Program may appeal to the President decisions by the Director of Central Intelligence on budget or reprogramming matters of the National Foreign Intelligence Program.
+(f) Disseminate information or intelligence to foreign governments and international organizations under intelligence or counterintelligence arrangements or agreements established in accordance with section 1.3(b)(4) of this order;
+
+(g) Participate in the development of procedures approved by the Attorney General governing production and dissemination of information or intelligence resulting from criminal drug intelligence activities abroad if they have intelligence responsibilities for foreign or domestic criminal drug production and trafficking; and
+
+(h) Ensure that the inspectors general, general counsels, and agency officials responsible for privacy or civil liberties protection for their respective organizations have access to any information or intelligence necessary to perform their official duties.
 
 #### 1\.7
 
-Senior Officials of the Intelligence Community
+Intelligence Community Elements
 
-The heads of departments and agencies with organizations in the Intelligence Community or the heads of such organizations, as appropriate, shall:
+Each element of the Intelligence Community shall have the duties and responsibilities specified below, in addition to those specified by law or elsewhere in this order. Intelligence Community elements within executive departments shall serve the information and intelligence needs of their respective heads of departments and also shall operate as part of an integrated Intelligence Community, as provided in law or this order.
 
-(a) Report to the Attorney General possible violations of federal criminal laws by employees and of specified federal criminal laws by any other person as provided in procedures agreed upon by the Attorney General and the head of the department or agency concerned, in a manner consistent with the protection of intelligence sources and methods, as specified in those procedures;
+(a) THE CENTRAL INTELLIGENCE AGENCY. The Director of the Central Intelligence Agency shall:
 
-(b) In any case involving serious or continuing breaches of security, recommend to the Attorney General that the case be referred to the FBI for further investigation;
+(1) Collect (including through clandestine means), analyze, produce, and disseminate foreign intelligence and counterintelligence;
 
-(c) Furnish the NSC, in accordance with applicable law and procedures approved by the Attorney General under this Order, the information required for the performance of its duties;
+(2) Conduct counterintelligence activities without assuming or performing any internal security functions within the United States;
 
-(d) Report to the Intelligence Oversight Board, and keep the Director of Central Intelligence appropriately informed, concerning any intelligence activities of their organizations that they have reason to believe may be unlawful or contrary to Executive order or Presidential directive;
+(3) Conduct administrative and technical support activities within and outside the United States as necessary for cover and proprietary arrangements;
 
-(e) Protect intelligence and intelligence sources and methods from unauthorized disclosure consistent with guidance from the Director of Central Intelligence;
+(4) Conduct covert action activities approved by the President. No agency except the Central Intelligence Agency (or the Armed Forces of the United States in time of war declared by the Congress or during any period covered by a report from the President to the Congress consistent with the War Powers Resolution, Public Law 93–148) may conduct any covert action activity unless the President determines that another agency is more likely to achieve a particular objective;
 
-(f) Disseminate intelligence to cooperating foreign governments under arrangements established or agreed to by the Director of Central Intelligence;
+(5) Conduct foreign intelligence liaison relationships with intelligence or security services of foreign governments or international organizations consistent with section 1.3(b)(4) of this order;
 
-(g) Participate in the development of procedures approved by the Attorney General governing production and dissemination of intelligence resulting from criminal narcotics intelligence activities abroad if their departments, agencies, or organizations have intelligence responsibilities for foreign or domestic narcotics production and trafficking;
+(6) Under the direction and guidance of the Director, and in accordance with section 1.3(b)(4) of this order, coordinate the implementation of intelligence and counterintelligence relationships between elements of the Intelligence Community and the intelligence or security services of foreign governments or international organizations; and
 
-(h) Instruct their employees to cooperate fully with the Intelligence Oversight Board; and
+(7) Perform such other functions and duties related to intelligence as the Director may direct.
 
-(i) Ensure that the Inspectors General and General Counsels for their organizations have access to any information necessary to perform their duties assigned by this Order.
+(b) THE DEFENSE INTELLIGENCE AGENCY. The Director of the Defense Intelligence Agency shall:
+
+(1) Collect (including through clandestine means), analyze, produce, and disseminate foreign intelligence and counterintelligence to support national and departmental missions;
+
+(2) Collect, analyze, produce, or, through tasking and coordination, provide defense and defense-related intelligence for the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, combatant commanders, other Defense components, and non-Defense agencies;
+
+(3) Conduct counterintelligence activities;
+
+(4) Conduct administrative and technical support activities within and outside the United States as necessary for cover and proprietary arrangements;
+
+(5) Conduct foreign defense intelligence liaison relationships and defense intelligence exchange programs with foreign defense establishments, intelligence or security services of foreign governments, and international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order;
+
+(6) Manage and coordinate all matters related to the Defense Attache�AE1 system; and
+
+(7) Provide foreign intelligence and counterintelligence staff support as directed by the Secretary of Defense.
+
+(c) THE NATIONAL SECURITY AGENCY. The Director of the National Security Agency shall:
+
+(1) Collect (including through clandestine means), process, analyze, produce, and disseminate signals intelligence information and data for foreign intelligence and counterintelligence purposes to support national and departmental missions;
+
+(2) Establish and operate an effective unified organization for signals intelligence activities, except for the delegation of operational control over certain operations that are conducted through other elements of the Intelligence Community. No other department or agency may engage in signals intelligence activities except pursuant to a delegation by the Secretary of Defense, after coordination with the Director;
+
+(3) Control signals intelligence collection and processing activities, including assignment of resources to an appropriate agent for such periods and tasks as required for the direct support of military commanders;
+
+(4) Conduct administrative and technical support activities within and outside the United States as necessary for cover arrangements;
+
+(5) Provide signals intelligence support for national and departmental requirements and for the conduct of military operations;
+
+(6) Act as the National Manager for National Security Systems as established in law and policy, and in this capacity be responsible to the Secretary of Defense and to the Director;
+
+(7) Prescribe, consistent with section 102A(g) of the Act, within its field of authorized operations, security regulations covering operating practices, including the transmission, handling, and distribution of signals intelligence and communications security material within and among the elements under control of the Director of the National Security Agency, and exercise the necessary supervisory control to ensure compliance with the regulations; and
+
+(8) Conduct foreign cryptologic liaison relationships in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order.
+
+(d) THE NATIONAL RECONNAISSANCE OFFICE. The Director of the National Reconnaissance Office shall:
+
+(1) Be responsible for research and development, acquisition, launch, deployment, and operation of overhead systems and related data processing facilities to collect intelligence and information to support national and departmental missions and other United States Government needs; and
+
+(2) Conduct foreign liaison relationships relating to the above missions, in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order.
+
+(e) THE NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY. The Director of the National Geospatial-Intelligence Agency shall:
+
+(1) Collect, process, analyze, produce, and disseminate geospatial intelligence information and data for foreign intelligence and counterintelligence purposes to support national and departmental missions;
+
+(2) Provide geospatial intelligence support for national and departmental requirements and for the conduct of military operations;
+
+(3) Conduct administrative and technical support activities within and outside the United States as necessary for cover arrangements; and
+
+(4) Conduct foreign geospatial intelligence liaison relationships, in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order.
+
+(f) THE INTELLIGENCE AND COUNTERINTELLIGENCE ELEMENTS OF THE ARMY, NAVY, AIR FORCE, AND MARINE CORPS. The Commanders and heads of the intelligence and counterintelligence elements of the Army, Navy, Air Force, and Marine Corps shall:
+
+(1) Collect (including through clandestine means), produce, analyze, and disseminate defense and defense-related intelligence and counterintelligence to support departmental requirements, and, as appropriate, national requirements;
+
+(2) Conduct counterintelligence activities;
+
+(3) Monitor the development, procurement, and management of tactical intelligence systems and equipment and conduct related research, development, and test and evaluation activities; and
+
+(4) Conduct military intelligence liaison relationships and military intelligence exchange programs with selected cooperative foreign defense establishments and international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and 1.10(i) of this order.
+
+(g) INTELLIGENCE ELEMENTS OF THE FEDERAL BUREAU OF INVESTIGATION. Under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the intelligence elements of the Federal Bureau of Investigation shall:
+
+(1) Collect (including through clandestine means), analyze, produce, and disseminate foreign intelligence and counterintelligence to support national and departmental missions, in accordance with procedural guidelines approved by the Attorney General, after consultation with the Director;
+
+(2) Conduct counterintelligence activities; and
+
+(3) Conduct foreign intelligence and counterintelligence liaison relationships with intelligence, security, and law enforcement services of foreign governments or international organizations in accordance with sections 1.3(b)(4) and 1.7(a)(6) of this order.
+
+(h) THE INTELLIGENCE AND COUNTERINTELLIGENCE ELEMENTS OF THE COAST GUARD. The Commandant of the Coast Guard shall:
+
+(1) Collect (including through clandestine means), analyze, produce, and disseminate foreign intelligence and counterintelligence including defense and defense-related information and intelligence to support national and departmental missions;
+
+(2) Conduct counterintelligence activities;
+
+(3) Monitor the development, procurement, and management of tactical intelligence systems and equipment and conduct related research, development, and test and evaluation activities; and
+
+(4) Conduct foreign intelligence liaison relationships and intelligence exchange programs with foreign intelligence services, security services or international organizations in accordance with sections 1.3(b)(4), 1.7(a)(6), and, when operating as part of the Department of Defense, 1.10(i) of this order.
+
+(i) THE BUREAU OF INTELLIGENCE AND RESEARCH, DEPARTMENT OF STATE; THE OFFICE OF INTELLIGENCE AND ANALYSIS, DEPARTMENT OF THE TREASURY; THE OFFICE OF NATIONAL SECURITY INTELLIGENCE, DRUG ENFORCEMENT ADMINISTRATION; THE OFFICE OF INTELLIGENCE AND ANALYSIS, DEPARTMENT OF HOMELAND SECURITY; AND THE OFFICE OF INTELLIGENCE AND COUNTERINTELLIGENCE, DEPARTMENT OF ENERGY. The heads of the Bureau of Intelligence and Research, Department of State; the Office of Intelligence and Analysis, Department of the Treasury; the Office of National Security Intelligence, Drug Enforcement Administration; the Office of Intelligence and Analysis, Department of Homeland Security; and the Office of Intelligence and Counterintelligence, Department of Energy shall:
+
+(1) Collect (overtly or through publicly available sources), analyze, produce, and disseminate information, intelligence, and counterintelligence to support national and departmental missions; and
+
+(2) Conduct and participate in analytic or information exchanges with foreign partners and international organizations in accordance with sections 1.3(b)(4) and 1.7(a)(6) of this order.
+
+(j) THE OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE. The Director shall collect (overtly or through publicly available sources), analyze, produce, and disseminate information, intelligence, and counterintelligence to support the missions of the Office of the Director of National Intelligence, including the National Counterterrorism Center, and to support other national missions.
 
 #### 1\.8
 
-The Central Intelligence Agency
+The Department of State
 
-All duties and responsibilities of the CIA shall be related to the intelligence functions set out below. As authorized by this Order; the National Security Act of 1947, as amended \[see Short Title note above\]; the CIA Act of 1949, as amended \[probably means the Central Intelligence Agency Act of 1949, see Short Title note set out under 50 U.S.C. 403a\]; appropriate directives or other applicable law, the CIA shall:
+In addition to the authorities exercised by the Bureau of Intelligence and Research under sections 1.4 and 1.7(i) of this order, the Secretary of State shall:
 
-(a) Collect, produce and disseminate foreign intelligence and counterintelligence, including information not otherwise obtainable. The collection of foreign intelligence or counterintelligence within the United States shall be coordinated with the FBI as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
+(a) Collect (overtly or through publicly available sources) information relevant to United States foreign policy and national security concerns;
 
-(b) Collect, produce and disseminate intelligence on foreign aspects of narcotics production and trafficking;
+(b) Disseminate, to the maximum extent possible, reports received from United States diplomatic and consular posts;
 
-(c) Conduct counterintelligence activities outside the United States and, without assuming or performing any internal security functions, conduct counterintelligence activities within the United States in coordination with the FBI as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
+(c) Transmit reporting requirements and advisory taskings of the Intelligence Community to the Chiefs of United States Missions abroad; and
 
-(d) Coordinate counterintelligence activities and the collection of information not otherwise obtainable when conducted outside the United States by other departments and agencies;
-
-(e) Conduct special activities approved by the President. No agency except the CIA (or the Armed Forces of the United States in time of war declared by Congress or during any period covered by a report from the President to the Congress under the War Powers Resolution (87 Stat. 855) \[50 U.S.C. 1541 et seq.\]) may conduct any special activity unless the President determines that another agency is more likely to achieve a particular objective;
-
-(f) Conduct services of common concern for the Intelligence Community as directed by the NSC;
-
-(g) Carry out or contract for research, development and procurement of technical systems and devices relating to authorized functions;
-
-(h) Protect the security of its installations, activities, information, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the CIA as are necessary; and
-
-(i) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) through (h) above, including procurement and essential cover and proprietary arrangements.
+(d) Support Chiefs of United States Missions in discharging their responsibilities pursuant to law and presidential direction.
 
 #### 1\.9
 
-The Department of State
+The Department of the Treasury
 
-The Secretary of State shall:
-
-(a) Overtly collect information relevant to United States foreign policy concerns;
-
-(b) Produce and disseminate foreign intelligence relating to United States foreign policy as required for the execution of the Secretary's responsibilities;
-
-(c) Disseminate, as appropriate, reports received from United States diplomatic and consular posts;
-
-(d) Transmit reporting requirements of the Intelligence Community to the Chiefs of United States Missions abroad; and
-
-(e) Support Chiefs of Missions in discharging their statutory responsibilities for direction and coordination of mission activities.
+In addition to the authorities exercised by the Office of Intelligence and Analysis of the Department of the Treasury under sections 1.4 and 1.7(i) of this order the Secretary of the Treasury shall collect (overtly or through publicly available sources) foreign financial information and, in consultation with the Department of State, foreign economic information.
 
 #### 1\.10
-
-The Department of the Treasury and the Department of Homeland Security.
-
-The Secretary of the Treasury, with respect to subsections (a), (b), and (c), and the Secretary of Homeland Security with respect to subsection (d), shall:
-
-(a) Overtly collect foreign financial and monetary information;
-
-(b) Participate with the Department of State in the overt collection of general foreign economic information;
-
-(c) Produce and disseminate foreign intelligence relating to United States economic policy as required for the execution of the Secretary's responsibilities; and
-
-(d) Conduct, through the United States Secret Service, activities to determine the existence and capability of surveillance equipment being used against the President or the Vice President of the United States, the Executive Office of the President, and, as authorized by the Secretary of Homeland Security or the President, other Secret Service protectees and United States officials. No information shall be acquired intentionally through such activities except to protect against such surveillance, and those activities shall be conducted pursuant to procedures agreed upon by the Secretary of Homeland Security and the Attorney General.
-
-#### 1\.11
 
 The Department of Defense
 
 The Secretary of Defense shall:
 
-(a) Collect national foreign intelligence and be responsive to collection tasking by the Director of Central Intelligence;
+(a) Collect (including through clandestine means), analyze, produce, and disseminate information and intelligence and be responsive to collection tasking and advisory tasking by the Director;
 
-(b) Collect, produce and disseminate military and military-related foreign intelligence and counterintelligence as required for execution of the Secretary's responsibilities;
+(b) Collect (including through clandestine means), analyze, produce, and disseminate defense and defense-related intelligence and counterintelligence, as required for execution of the Secretary's responsibilities;
 
-(c) Conduct programs and missions necessary to fulfill national, departmental and tactical foreign intelligence requirements;
+(c) Conduct programs and missions necessary to fulfill national, departmental, and tactical intelligence requirements;
 
-(d) Conduct counterintelligence activities in support of Department of Defense components outside the United States in coordination with the CIA, and within the United States in coordination with the FBI pursuant to procedures agreed upon by the Secretary of Defense and the Attorney General;
+(d) Conduct counterintelligence activities in support of Department of Defense components and coordinate counterintelligence activities in accordance with section 1.3(b)(20) and (21) of this order;
 
-(e) Conduct, as the executive agent of the United States Government, signals intelligence and communications security activities, except as otherwise directed by the NSC;
+(e) Act, in coordination with the Director, as the executive agent of the United States Government for signals intelligence activities;
 
-(f) Provide for the timely transmission of critical intelligence, as defined by the Director of Central Intelligence, within the United States Government;
+(f) Provide for the timely transmission of critical intelligence, as defined by the Director, within the United States Government;
 
-(g) Carry out or contract for research, development and procurement of technical systems and devices relating to authorized intelligence functions;
+(g) Carry out or contract for research, development, and procurement of technical systems and devices relating to authorized intelligence functions;
 
-(h) Protect the security of Department of Defense installations, activities, property, information, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the Department of Defense as are necessary;
+(h) Protect the security of Department of Defense installations, activities, information, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the Department of Defense as are necessary;
 
-(i) Establish and maintain military intelligence relationships and military intelligence exchange programs with selected cooperative foreign defense establishments and international organizations, and ensure that such relationships and programs are in accordance with policies formulated by the Director of Central Intelligence;
+(i) Establish and maintain defense intelligence relationships and defense intelligence exchange programs with selected cooperative foreign defense establishments, intelligence or security services of foreign governments, and international organizations, and ensure that such relationships and programs are in accordance with sections 1.3(b)(4), 1.3(b)(21) and 1.7(a)(6) of this order;
 
-(j) Direct, operate, control and provide fiscal management for the National Security Agency and for defense and military intelligence and national reconnaissance entities; and
+(j) Conduct such administrative and technical support activities within and outside the United States as are necessary to provide for cover and proprietary arrangements, to perform the functions described in \[sub\]sections (a) though \[sic\] (i) above, and to support the Intelligence Community elements of the Department of Defense; and
 
-(k) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) through (j) above.
+(k) Use the Intelligence Community elements within the Department of Defense identified in section 1.7(b) through (f) and, when the Coast Guard is operating as part of the Department of Defense, (h) above to carry out the Secretary of Defense's responsibilities assigned in this section or other departments, agencies, or offices within the Department of Defense, as appropriate, to conduct the intelligence missions and responsibilities assigned to the Secretary of Defense.
+
+#### 1\.11
+
+The Department of Homeland Security
+
+In addition to the authorities exercised by the Office of Intelligence and Analysis of the Department of Homeland Security under sections 1.4 and 1.7(i) of this order, the Secretary of Homeland Security shall conduct, through the United States Secret Service, activities to determine the existence and capability of surveillance equipment being used against the President or the Vice President of the United States, the Executive Office of the President, and, as authorized by the Secretary of Homeland Security or the President, other Secret Service protectees and United States officials. No information shall be acquired intentionally through such activities except to protect against use of such surveillance equipment, and those activities shall be conducted pursuant to procedures agreed upon by the Secretary of Homeland Security and the Attorney General.
 
 #### 1\.12
 
-Intelligence Components Utilized by the Secretary of Defense
+The Department of Energy
 
-In carrying out the responsibilities assigned in section 1.11, the Secretary of Defense is authorized to utilize the following:
+In addition to the authorities exercised by the Office of Intelligence and Counterintelligence of the Department of Energy under sections 1.4 and 1.7(i) of this order, the Secretary of Energy shall:
 
-(a) <i>Defense Intelligence Agency</i>, whose responsibilities shall include:
+(a) Provide expert scientific, technical, analytic, and research capabilities to other agencies within the Intelligence Community, as appropriate;
 
-(1) Collection, production, or, through tasking and coordination, provision of military and military-related intelligence for the Secretary of Defense, the Joint Chiefs of Staff, other Defense components, and, as appropriate, non-Defense agencies;
+(b) Participate in formulating intelligence collection and analysis requirements where the special expert capability of the Department can contribute; and
 
-(2) Collection and provision of military intelligence for national foreign intelligence and counterintelligence products;
-
-(3) Coordination of all Department of Defense intelligence collection requirements;
-
-(4) Management of the Defense Attache system; and
-
-(5) Provision of foreign intelligence and counterintelligence staff support as directed by the Joint Chiefs of Staff.
-
-(b) <i>National Security Agency</i>, whose responsibilities shall include:
-
-(1) Establishment and operation of an effective unified organization for signals intelligence activities, except for the delegation of operational control over certain operations that are conducted through other elements of the Intelligence Community. No other department or agency may engage in signals intelligence activities except pursuant to a delegation by the Secretary of Defense;
-
-(2) Control of signals intelligence collection and processing activities, including assignment of resources to an appropriate agent for such periods and tasks as required for the direct support of military commanders;
-
-(3) Collection of signals intelligence information for national foreign intelligence purposes in accordance with guidance from the Director of Central Intelligence;
-
-(4) Processing of signals intelligence data for national foreign intelligence purposes in accordance with guidance from the Director of Central Intelligence;
-
-(5) Dissemination of signals intelligence information for national foreign intelligence purposes to authorized elements of the Government, including the military services, in accordance with guidance from the Director of Central Intelligence;
-
-(6) Collection, processing and dissemination of signals intelligence information for counterintelligence purposes;
-
-(7) Provision of signals intelligence support for the conduct of military operations in accordance with tasking, priorities, and standards of timeliness assigned by the Secretary of Defense. If provision of such support requires use of national collection systems, these systems will be tasked within existing guidance from the Director of Central Intelligence;
-
-(8) Executing the responsibilities of the Secretary of Defense as executive agent for the communications security of the United States Government;
-
-(9) Conduct of research and development to meet the needs of the United States for signals intelligence and communications security;
-
-(10) Protection of the security of its installations, activities, property, information, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the NSA as are necessary;
-
-(11) Prescribing, within its field of authorized operations, security regulations covering operating practices, including the transmission, handling and distribution of signals intelligence and communications security material within and among the elements under control of the Director of the NSA, and exercising the necessary supervisory control to ensure compliance with the regulations;
-
-(12) Conduct of foreign cryptologic liaison relationships, with liaison for intelligence purposes conducted in accordance with policies formulated by the Director of Central Intelligence; and
-
-(13) Conduct of such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (1) through (12) above, including procurement.
-
-(c) <i>Offices for the collection of specialized intelligence through reconnaissance programs</i>, whose responsibilities shall include:
-
-(1) Carrying out consolidated reconnaissance programs for specialized intelligence;
-
-(2) Responding to tasking in accordance with procedures established by the Director of Central Intelligence; and
-
-(3) Delegating authority to the various departments and agencies for research, development, procurement, and operation of designated means of collection.
-
-(d) <i>The foreign intelligence and counterintelligence elements of the Army, Navy, Air Force, and Marine Corps</i>, whose responsibilities shall include:
-
-(1) Collection, production and dissemination of military and military-related foreign intelligence and counterintelligence, and information on the foreign aspects of narcotics production and trafficking. When collection is conducted in response to national foreign intelligence requirements, it will be conducted in accordance with guidance from the Director of Central Intelligence. Collection of national foreign intelligence, not otherwise obtainable, outside the United States shall be coordinated with the CIA, and such collection within the United States shall be coordinated with the FBI;
-
-(2) Conduct of counterintelligence activities outside the United States in coordination with the CIA, and within the United States in coordination with the FBI; and
-
-(3) Monitoring of the development, procurement and management of tactical intelligence systems and equipment and conducting related research, development, and test and evaluation activities.
-
-(e) <i>Other offices within the Department of Defense appropriate for conduct of the intelligence missions and responsibilities assigned to the Secretary of Defense</i>. If such other offices are used for intelligence purposes, the provisions of Part 2 of this Order shall apply to those offices when used for those purposes.
+(c) Participate with the Department of State in overtly collecting information with respect to foreign energy matters.
 
 #### 1\.13
 
-The Department of Energy
-
-The Secretary of Energy shall:
-
-(a) Participate with the Department of State in overtly collecting information with respect to foreign energy matters;
-
-(b) Produce and disseminate foreign intelligence necessary for the Secretary's responsibilities;
-
-(c) Participate in formulating intelligence collection and analysis requirements where the special expert capability of the Department can contribute; and
-
-(d) Provide expert technical, analytical and research capability to other agencies within the Intelligence Community.
-
-#### 1\.14
-
 The Federal Bureau of Investigation
 
-Under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the Director of the FBI shall:
-
-(a) Within the United States conduct counterintelligence and coordinate counterintelligence activities of other agencies within the Intelligence Community. When a counterintelligence activity of the FBI involves military or civilian personnel of the Department of Defense, the FBI shall coordinate with the Department of Defense;
-
-(b) Conduct counterintelligence activities outside the United States in coordination with the CIA as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
-
-(c) Conduct within the United States, when requested by officials of the Intelligence Community designated by the President, activities undertaken to collect foreign intelligence or support foreign intelligence collection requirements of other agencies within the Intelligence Community, or, when requested by the Director of the National Security Agency, to support the communications security activities of the United States Government;
-
-(d) Produce and disseminate foreign intelligence and counterintelligence; and
-
-(e) Carry out or contract for research, development and procurement of technical systems and devices relating to the functions authorized above.
+In addition to the authorities exercised by the intelligence elements of the Federal Bureau of Investigation of the Department of Justice under sections 1.4 and 1.7(g) of this order and under the supervision of the Attorney General and pursuant to such regulations as the Attorney General may establish, the Director of the Federal Bureau of Investigation shall provide technical assistance, within or outside the United States, to foreign intelligence and law enforcement services, consistent with section 1.3(b)(20) and (21) of this order, as may be necessary to support national or departmental missions.
 
 #### PART 2—CONDUCT OF INTELLIGENCE ACTIVITIES
 
@@ -1056,61 +951,61 @@ Under the supervision of the Attorney General and pursuant to such regulations a
 
 Need
 
-Accurate and timely information about the capabilities, intentions and activities of foreign powers, organizations, or persons and their agents is essential to informed decisionmaking in the areas of national defense and foreign relations. Collection of such information is a priority objective and will be pursued in a vigorous, innovative and responsible manner that is consistent with the Constitution and applicable law and respectful of the principles upon which the United States was founded.
+Timely, accurate, and insightful information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to informed decisionmaking in the areas of national security, national defense, and foreign relations. Collection of such information is a priority objective and will be pursued in a vigorous, innovative, and responsible manner that is consistent with the Constitution and applicable law and respectful of the principles upon which the United States was founded.
 
 #### 2\.2
 
 Purpose
 
-This Order is intended to enhance human and technical collection techniques, especially those undertaken abroad, and the acquisition of significant foreign intelligence, as well as the detection and countering of international terrorist activities and espionage conducted by foreign powers. Set forth below are certain general principles that, in addition to and consistent with applicable laws, are intended to achieve the proper balance between the acquisition of essential information and protection of individual interests. Nothing in this Order shall be construed to apply to or interfere with any authorized civil or criminal law enforcement responsibility of any department or agency.
+This Order is intended to enhance human and technical collection techniques, especially those undertaken abroad, and the acquisition of significant foreign intelligence, as well as the detection and countering of international terrorist activities, the spread of weapons of mass destruction, and espionage conducted by foreign powers. Set forth below are certain general principles that, in addition to and consistent with applicable laws, are intended to achieve the proper balance between the acquisition of essential information and protection of individual interests. Nothing in this Order shall be construed to apply to or interfere with any authorized civil or criminal law enforcement responsibility of any department or agency.
 
 #### 2\.3
 
 Collection of Information
 
-Agencies within the Intelligence Community are authorized to collect, retain or disseminate information concerning United States persons only in accordance with procedures established by the head of the agency concerned and approved by the Attorney General, consistent with the authorities provided by Part 1 of this Order. Those procedures shall permit collection, retention and dissemination of the following types of information:
+Elements of the Intelligence Community are authorized to collect, retain, or disseminate information concerning United States persons only in accordance with procedures established by the head of the Intelligence Community element concerned or by the head of a department containing such element and approved by the Attorney General, consistent with the authorities provided by Part 1 of this Order, after consultation with the Director. Those procedures shall permit collection, retention, and dissemination of the following types of information:
 
 (a) Information that is publicly available or collected with the consent of the person concerned;
 
-(b) Information constituting foreign intelligence or counterintelligence, including such information concerning corporations or other commercial organizations. Collection within the United States of foreign intelligence not otherwise obtainable shall be undertaken by the FBI or, when significant foreign intelligence is sought, by other authorized agencies of the Intelligence Community, provided that no foreign intelligence collection by such agencies may be undertaken for the purpose of acquiring information concerning the domestic activities of United States persons;
+(b) Information constituting foreign intelligence or counterintelligence, including such information concerning corporations or other commercial organizations. Collection within the United States of foreign intelligence not otherwise obtainable shall be undertaken by the Federal Bureau of Investigation (FBI) or, when significant foreign intelligence is sought, by other authorized elements of the Intelligence Community, provided that no foreign intelligence collection by such elements may be undertaken for the purpose of acquiring information concerning the domestic activities of United States persons;
 
-(c) Information obtained in the course of a lawful foreign intelligence, counterintelligence, international narcotics or international terrorism investigation;
+(c) Information obtained in the course of a lawful foreign intelligence, counterintelligence, international drug, or international terrorism investigation;
 
-(d) Information needed to protect the safety of any persons or organizations, including those who are targets, victims or hostages of international terrorist organizations;
+(d) Information needed to protect the safety of any persons or organizations, including those who are targets, victims, or hostages of international terrorist organizations;
 
-(e) Information needed to protect foreign intelligence or counterintelligence sources or methods from unauthorized disclosure. Collection within the United States shall be undertaken by the FBI except that other agencies of the Intelligence Community may also collect such information concerning present or former employees, present or former intelligence agency contractors or their present or former employees, or applicants for any such employment or contracting;
+(e) Information needed to protect foreign intelligence or counterintelligence sources, methods, and activities from unauthorized disclosure. Collection within the United States shall be undertaken by the FBI except that other elements of the Intelligence Community may also collect such information concerning present or former employees, present or former intelligence element contractors or their present or former employees, or applicants for any such employment or contracting;
 
 (f) Information concerning persons who are reasonably believed to be potential sources or contacts for the purpose of determining their suitability or credibility;
 
-(g) Information arising out of a lawful personnel, physical or communications security investigation;
+(g) Information arising out of a lawful personnel, physical, or communications security investigation;
 
 (h) Information acquired by overhead reconnaissance not directed at specific United States persons;
 
-(i) Incidentally obtained information that may indicate involvement in activities that may violate federal, state, local or foreign laws; and
+(i) Incidentally obtained information that may indicate involvement in activities that may violate Federal, state, local, or foreign laws; and
 
 (j) Information necessary for administrative purposes.
 
-In addition, agencies within the Intelligence Community may disseminate information, other than information derived from signals intelligence, to each appropriate agency within the Intelligence Community for purposes of allowing the recipient agency to determine whether the information is relevant to its responsibilities and can be retained by it.
+In addition, elements of the Intelligence Community may disseminate information to each appropriate element within the Intelligence Community for purposes of allowing the recipient element to determine whether the information is relevant to its responsibilities and can be retained by it, except that information derived from signals intelligence may only be disseminated or made available to Intelligence Community elements in accordance with procedures established by the Director in coordination with the Secretary of Defense and approved by the Attorney General.
 
 #### 2\.4
 
 Collection Techniques
 
-Agencies within the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
+Elements of the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Elements of the Intelligence Community are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the Intelligence Community element concerned or the head of a department containing such element concerned and approved by the Attorney General, after consultation with the Director. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
 
-(a) The CIA to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
+(a) The Central Intelligence Agency (CIA) to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
 
-(b) Unconsented physical searches in the United States by agencies other than the FBI, except for:
+(b) Unconsented physical searches in the United States by elements of the Intelligence Community other than the FBI, except for:
 
 (1) Searches by counterintelligence elements of the military services directed against military personnel within the United States or abroad for intelligence purposes, when authorized by a military commander empowered to approve physical searches for law enforcement purposes, based upon a finding of probable cause to believe that such persons are acting as agents of foreign powers; and
 
-(2) Searches by CIA of personal property of non-United States persons lawfully in its possession.
+(2) Searches by CIA of personal property of non-United States persons lawfully in its possession;
 
-(c) Physical surveillance of a United States person in the United States by agencies other than the FBI, except for:
+(c) Physical surveillance of a United States person in the United States by elements of the Intelligence Community other than the FBI, except for:
 
-(1) Physical surveillance of present or former employees, present or former intelligence agency contractors or their present or former employees, or applicants for any such employment or contracting; and
+(1) Physical surveillance of present or former employees, present or former intelligence element contractorsor their present or former employees, or applicants for any such employment or contracting; and
 
-(2) Physical surveillance of a military person employed by a nonintelligence element of a military service.
+(2) Physical surveillance of a military person employed by a nonintelligence element of a military service; and
 
 (d) Physical surveillance of a United States person abroad to collect foreign intelligence, except to obtain significant information that cannot reasonably be acquired by other means.
 
@@ -1118,27 +1013,27 @@ Agencies within the Intelligence Community shall use the least intrusive collect
 
 Attorney General Approval
 
-The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. Electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\], shall be conducted in accordance with that Act, as well as this Order.
+The Attorney General hereby is delegated the power to approve the use for intelligence purposes, within the United States or against a United States person abroad, of any technique for which a warrant would be required if undertaken for law enforcement purposes, provided that such techniques shall not be undertaken unless the Attorney General has determined in each case that there is probable cause to believe that the technique is directed against a foreign power or an agent of a foreign power. The authority delegated pursuant to this paragraph, including the authority to approve the use of electronic surveillance as defined in the Foreign Intelligence Surveillance Act of 1978, as amended, shall be exercised in accordance with that Act.
 
 #### 2\.6
 
-Assistance to Law Enforcement Authorities
+Assistance to Law Enforcement and other Civil Authorities
 
-Agencies within the Intelligence Community are authorized to:
+Elements of the Intelligence Community are authorized to:
 
-(a) Cooperate with appropriate law enforcement agencies for the purpose of protecting the employees, information, property and facilities of any agency within the Intelligence Community;
+(a) Cooperate with appropriate law enforcement agencies for the purpose of protecting the employees, information, property, and facilities of any element within the Intelligence Community;
 
 (b) Unless otherwise precluded by law or this Order, participate in law enforcement activities to investigate or prevent clandestine intelligence activities by foreign powers, or international terrorist or narcotics activities;
 
-(c) Provide specialized equipment, technical knowledge, or assistance of expert personnel for use by any department or agency, or, when lives are endangered, to support local law enforcement agencies. Provision of assistance by expert personnel shall be approved in each case by the General Counsel of the providing agency; and
+(c) Provide specialized equipment, technical knowledge, or assistance of expert personnel for use by any department or agency, or, when lives are endangered, to support local law enforcement agencies. Provision of assistance by expert personnel shall be approved in each case by the general counsel of the providing element or department; and
 
-(d) Render any other assistance and cooperation to law enforcement authorities not precluded by applicable law.
+(d) Render any other assistance and cooperation to law enforcement or other civil authorities not precluded by applicable law.
 
 #### 2\.7
 
 Contracting
 
-Agencies within the Intelligence Community are authorized to enter into contracts or arrangements for the provision of goods or services with private companies or institutions in the United States and need not reveal the sponsorship of such contracts or arrangements for authorized intelligence purposes. Contracts or arrangements with academic institutions may be undertaken only with the consent of appropriate officials of the institution.
+Elements of the Intelligence Community are authorized to enter into contracts or arrangements for the provision of goods or services with private companies or institutions in the United States and need not reveal the sponsorship of such contracts or arrangements for authorized intelligence purposes. Contracts or arrangements with academic institutions may be undertaken only with the consent of appropriate officials of the institution.
 
 #### 2\.8
 
@@ -1150,7 +1045,7 @@ Nothing in this Order shall be construed to authorize any activity in violation 
 
 Undisclosed Participation in Organizations Within the United States
 
-No one acting on behalf of agencies within the Intelligence Community may join or otherwise participate in any organization in the United States on behalf of any agency within the Intelligence Community without disclosing his intelligence affiliation to appropriate officials of the organization, except in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such participation shall be authorized only if it is essential to achieving lawful purposes as determined by the agency head or designee. No such participation may be undertaken for the purpose of influencing the activity of the organization or its members except in cases where:
+No one acting on behalf of elements of the Intelligence Community may join or otherwise participate in any organization in the United States on behalf of any element of the Intelligence Community without disclosing such person's intelligence affiliation to appropriate officials of the organization, except in accordance with procedures established by the head of the Intelligence Community element concerned or the head of a department containing such element and approved by the Attorney General, after consultation with the Director. Such participation shall be authorized only if it is essential to achieving lawful purposes as determined by the Intelligence Community element head or designee. No such participation may be undertaken for the purpose of influencing the activity of the organization or its members except in cases where:
 
 (a) The participation is undertaken on behalf of the FBI in the course of a lawful investigation; or
 
@@ -1160,7 +1055,7 @@ No one acting on behalf of agencies within the Intelligence Community may join o
 
 Human Experimentation
 
-No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. The subject's informed consent shall be documented as required by those guidelines.
+No element of the Intelligence Community shall sponsor, contract for, or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. The subject's informed consent shall be documented as required by those guidelines.
 
 #### 2\.11
 
@@ -1172,7 +1067,13 @@ No person employed by or acting on behalf of the United States Government shall 
 
 Indirect Participation
 
-No agency of the Intelligence Community shall participate in or request any person to undertake activities forbidden by this Order.
+No element of the Intelligence Community shall participate in or request any person to undertake activities forbidden by this Order.
+
+#### 2\.13
+
+Limitation on Covert Action
+
+No covert action may be conducted which is intended to influence United States political processes, public opinion, policies, or media.
 
 #### PART 3—GENERAL PROVISIONS
 
@@ -1180,135 +1081,123 @@ No agency of the Intelligence Community shall participate in or request any pers
 
 Congressional Oversight
 
-The duties and responsibilities of the Director of Central Intelligence and the heads of other departments, agencies, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall be implemented in accordance with applicable law, including title V of the Act \[50 U.S.C. 413 et seq.\]. The requirements of applicable law, including title V of the Act, shall apply to all special activities as defined in this Order.
+The duties and responsibilities of the Director and the heads of other departments, agencies, elements, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall be implemented in accordance with applicable law, including title V of the Act \[50 U.S.C. 413 et seq.\]. The requirements of applicable law, including title V of the Act, shall apply to all covert action activities as defined in this Order.
 
 #### 3\.2
 
 Implementation
 
-The NSC, the Secretary of Defense, the Attorney General, and the Director of Central Intelligence shall issue such appropriate directives and procedures as are necessary to implement this Order. Heads of agencies within the Intelligence Community shall issue appropriate supplementary directives and procedures consistent with this Order. The Attorney General shall provide a statement of reasons for not approving any procedures established by the head of an agency in the Intelligence Community other than the FBI. The National Security Council may establish procedures in instances where the agency head and the Attorney General are unable to reach agreement on other than constitutional or other legal grounds.
+The President, supported by the NSC, and the Director shall issue such appropriate directives, procedures, and guidance as are necessary to implement this order. Heads of elements within the Intelligence Community shall issue appropriate procedures and supplementary directives consistent with this order. No procedures to implement Part 2 of this order shall be issued without the Attorney General's approval, after consultation with the Director. The Attorney General shall provide a statement of reasons for not approving any procedures established by the head of an element in the Intelligence Community (or the head of the department containing such element) other than the FBI. In instances where the element head or department head and the Attorney General are unable to reach agreements on other than constitutional or other legal grounds, the Attorney General, the head of department concerned, or the Director shall refer the matter to the NSC.
 
 #### 3\.3
 
 Procedures
 
-Until the procedures required by this Order have been established, the activities herein authorized which require procedures shall be conducted in accordance with existing procedures or requirements established under Executive Order No. 12036 \[formerly set out above\]. Procedures required by this Order shall be established as expeditiously as possible. All procedures promulgated pursuant to this Order shall be made available to the congressional intelligence committees.
+The activities herein authorized that require procedures shall be conducted in accordance with existing procedures or requirements established under Executive Order 12333. New procedures, as required by Executive Order 12333, as further amended, shall be established as expeditiously as possible. All new procedures promulgated pursuant to Executive Order 12333, asamended, shall be made available to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 #### 3\.4
+
+References and Transition
+
+References to “Senior Officials of the Intelligence Community” or “SOICs” in executive orders or other Presidential guidance, shall be deemed references to the heads of elements in the Intelligence Community, unless the President otherwise directs; references in Intelligence Community or Intelligence Community element policies or guidance, shall be deemed to be references to the heads of elements of the Intelligence Community, unless the President or the Director otherwise directs.
+
+#### 3\.5
 
 Definitions
 
 For the purposes of this Order, the following terms shall have these meanings:
 
-(a) <i>Counterintelligence</i> means information gathered and activities conducted to protect against espionage, other intelligence activities, sabotage, or assassinations conducted for or on behalf of foreign powers, organizations or persons, or international terrorist activities, but not including personnel, physical, document or communications security programs.
+(a) <i>Counterintelligence</i> means information gathered and activities conducted to identify, deceive, exploit, disrupt, or protect against espionage, other intelligence activities, sabotage, or assassinations conducted for or on behalf of foreign powers, organizations or persons, or their agents, or international terrorist organizations or activities.
 
-(b) <i>Electronic surveillance</i> means acquisition of a nonpublic communication by electronic means without the consent of a person who is a party to an electronic communication or, in the case of a nonelectronic communication, without the consent of a person who is visibly present at the place of communication, but not including the use of radio direction-finding equipment solely to determine the location of a transmitter.
+(b) <i>Covert action</i> means an activity or activities of the United States Government to influence political, economic, or military conditions abroad, where it is intended that the role of the United States Government will not be apparent or acknowledged publicly, but does not include:
 
-(c) <i>Employee</i> means a person employed by, assigned to or acting for an agency within the Intelligence Community.
+(1) Activities the primary purpose of which is to acquire intelligence, traditional counterintelligence activities, traditional activities to improve or maintain the operational security of United States Government programs, or administrative activities;
 
-(d) <i>Foreign intelligence</i> means information relating to the capabilities, intentions and activities of foreign powers, organizations or persons, but not including counterintelligence except for information on international terrorist activities.
+(2) Traditional diplomatic or military activities or routine support to such activities;
 
-(e) <i>Intelligence activities</i> means all activities that agencies within the Intelligence Community are authorized to conduct pursuant to this Order.
+(3) Traditional law enforcement activities conducted by United States Government law enforcement agencies or routine support to such activities; or
 
-(f) <i>Intelligence Community</i> and <i>agencies within the Intelligence Community, or organizations within the Intelligence Community</i> refer to the following agencies or organizations:
+(4) Activities to provide routine support to the overt activities (other than activities described in paragraph (1), (2), or (3)) of other United States Government agencies abroad.
 
-(1) The Central Intelligence Agency (CIA);
+(c) <i>Electronic surveillance</i> means acquisition of a nonpublic communication by electronic means without the consent of a person who is a party to an electronic communication or, in the case of a nonelectronic communication, without the consent of a person who is visibly present at the place of communication, but not including the use of radio direction-finding equipment solely to determine the location of a transmitter.
 
-(2) The National Security Agency (NSA);
+(d) <i>Employee</i> means a person employed by, assigned or detailed to, or acting for an element within the Intelligence Community.
 
-(3) The Defense Intelligence Agency (DIA);
+(e) <i>Foreign intelligence</i> means information relating to the capabilities, intentions, or activities of foreign governments or elements thereof, foreign organizations, foreign persons, or international terrorists.
 
-(4) The offices within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs;
+(f) <i>Intelligence</i> includes foreign intelligence and counterintelligence.
 
-(5) The Bureau of Intelligence and Research of the Department of State;
+(g) <i>Intelligence activities</i> means all activities that elements of the Intelligence Community are authorized to conduct pursuant to this order.
 
-(6) The intelligence elements of the Army, Navy, Air Force, and Marine Corps, the Federal Bureau of Investigation (FBI), the Department of the Treasury, and the Department of Energy;
+(h) <i>Intelligence Community and elements of the Intelligence Community</i> refers to:
 
-(7) The staff elements of the Director of Central Intelligence;
+(1) The Office of the Director of National Intelligence;
 
-(8) The intelligence elements of the Coast Guard and those elements of the Department of Homeland Security that are supervised by the Department's Under Secretary for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, with the exception of those functions that involve no analysis of foreign intelligence information; and
+(2) The Central Intelligence Agency;
 
-(9) National Geospatial-Intelligence Agency\[.\]
+(3) The National Security Agency;
 
-(g) <i>The National Foreign Intelligence Program</i> includes the programs listed below, but its composition shall be subject to review by the National Security Council and modification by the President:
+(4) The Defense Intelligence Agency;
 
-(1) The programs of the CIA;
+(5) The National Geospatial-Intelligence Agency;
 
-(2) The Consolidated Cryptologic Program, the General Defense Intelligence Program, and the programs of the offices within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance, except such elements as the Director of Central Intelligence and the Secretary of Defense agree should be excluded;
+(6) The National Reconnaissance Office;
 
-(3) Other programs of agencies within the Intelligence Community designated jointly by the Director of Central Intelligence and the head of the department or by the President as national foreign intelligence or counterintelligence activities;
+(7) The other offices within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs;
 
-(4) Activities of the staff elements of the Director of Central Intelligence;
+(8) The intelligence and counterintelligence elements of the Army, the Navy, the Air Force, and the Marine Corps;
 
-(5) Activities to acquire the intelligence required for the planning and conduct of tactical operations by the United States military forces are not included in the National Foreign Intelligence Program.
+(9) The intelligence elements of the Federal Bureau of Investigation;
 
-(h) <i>Special activities</i> means activities conducted in support of national foreign policy objectives abroad which are planned and executed so that the role of the United States Government is not apparent or acknowledged publicly, and functions in support of such activities, but which are not intended to influence United States political processes, public opinion, policies, or media and do not include diplomatic activities or the collection and production of intelligence or related support functions.
+(10) The Office of National Security Intelligence of the Drug Enforcement Administration;
 
-(i) <i>United States person</i> means a United States citizen, an alien known by the intelligence agency concerned to be a permanent resident alien, an unincorporated association substantially composed of United States citizens or permanent resident aliens, or a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
+(11) The Office of Intelligence and Counterintelligence of the Department of Energy;
 
-#### 3\.5
+(12) The Bureau of Intelligence and Research of the Department of State;
 
-Purpose and Effect
+(13) The Office of Intelligence and Analysis of the Department of the Treasury;
 
-This Order is intended to control and provide direction and guidance to the Intelligence Community.Nothing contained herein or in any procedures promulgated hereunder is intended to confer any substantive or procedural right or privilege on any person or organization.
+(14) The Office of Intelligence and Analysis of the Department of Homeland Security;
+
+(15) The intelligence and counterintelligence elements of the Coast Guard; and
+
+(16) Such other elements of any department or agency as may be designated by the President, or designated jointly by the Director and the head of the department or agency concerned, as an element of the Intelligence Community.
+
+(i) <i>National Intelligence and Intelligence Related to National Security</i> means all intelligence, regardless of the source from which derived and including information gathered within or outside the United States, that pertains, as determined consistent with any guidance issued by the President, or that is determined for the purpose of access to information by the Director in accordance with section 1.3(a)(1) of this order, to pertain to more than one United States Government agency; and that involves threats to the United States, its people, property, or interests; the development, proliferation, or use of weapons of mass destruction; or any other matter bearing on United States national or homeland security.
+
+(j) <i>The National Intelligence Program</i> means all programs, projects, and activities of the Intelligence Community, as well as any other programs of the Intelligence Community designated jointly by the Director and the head of a United States department or agency or by the President. Such term does not include programs, projects, or activities of the military departments to acquire intelligence solely for the planning and conduct of tactical military operations by United States Armed Forces.
+
+(k) <i>United States person</i> means a United States citizen, an alien known by the intelligence element concerned to be a permanent resident alien, an unincorporated association substantially composed of United States citizens or permanent resident aliens, or a corporation incorporated in the United States, except for a corporation directed and controlled by a foreign government or governments.
 
 #### 3\.6
 
 Revocation
 
-Executive Order No. 12036 of January 24, 1978, as amended, entitled “United States Intelligence Activities,” is revoked.
+Executive Orders 13354 and 13355 of August 27, 2004, are revoked; and paragraphs 1.3(b)(9) and (10) of Part 1 supersede provisions within Executive Order 12958, as amended, to the extent such provisions in Executive Order 12958, as amended, are inconsistent with this Order.
+
+#### 3\.7
+
+General Provisions
+
+(a) Consistent with section 1.3(c) of this order, nothing in this order shall be construed to impair or otherwise affect:
+
+(1) Authority granted by law to a department or agency, or the head thereof; or
+
+(2) Functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies or entities, its officers, employees, or agents, or any other person.
 
 \[For provisions relating to consideration of Commandant and Assistant Commandant for Intelligence of the Coast Guard as a “Senior Official of the Intelligence Community” for purposes of Ex. Ord. No. 12333, set out above, and all other relevant authorities, see Ex. Ord. No. 13286, §87, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.\]
 
 #### Executive Order No. 12334
 
-Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
+Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, formerly set out below.
 
-#### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
+#### Executive Order No. 12863
 
-Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493; Ex. Ord. No. 13301, May 14, 2003, 68 F.R. 26981; Ex. Ord. No. 13376, Apr. 13, 2005, 70 F.R. 20261, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the security of the United States by improving the quality and effectiveness of intelligence available to the United States, and to assure the legality of activities of the Intelligence Community, it is ordered as follows:
-
-#### PART I. ASSESSMENT OF INTELLIGENCE ACTIVITIES
-
-Section 1.1. There is hereby established within the White House Office, Executive Office of the President, the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President and shall be appointed by the President from among trustworthy and distinguished citizens outside the Government who are qualified on the basis of achievement, experience and independence. The President shall establish the terms of the members upon their appointment. To the extent practicable, one-third of the PFIAB at any one time shall be comprised of members whose term of service does not exceed 2 years. The President shall designate a Chairman and Vice Chairman from among the members. The PFIAB shall utilize full-time staff and consultants as authorized by the President. Such staff shall be headed by an Executive Director, appointed by the President.
-
-Sec. 1.2. The PFIAB shall assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities. The PFIAB shall have the authority to review continually the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy. The PFIAB shall further be authorized to assess the adequacy of management, personnel and organization in the intelligence agencies. The heads of departments and agencies of the Federal Government, to the extent permitted by law, shall provide the PFIAB with access to all information that the PFIAB deems necessary to carry out its responsibilities.
-
-Sec. 1.3. The PFIAB shall report directly to the President and advise him concerning the objectives, conduct, management and coordination of the various activities of the agencies of the Intelligence Community. The PFIAB shall report periodically, but at least semiannually, concerning its findings and appraisals and shall make appropriate recommendations for the improvement and enhancement of the intelligence efforts of the United States.
-
-Sec. 1.4. The PFIAB shall consider and recommend appropriate action with respect to matters, identified to the PFIAB by the Director of National Intelligence, the Central Intelligence Agency, or other Government agencies engaged in intelligence or related activities, in which the advice of the PFIAB will further the effectiveness of the national intelligence effort. With respect to matters deemed appropriate by the President, the PFIAB shall advise and make recommendations to the Director of National Intelligence, the Central Intelligence Agency, and other Government agencies engaged in intelligence and related activities, concerning ways to achieve increased effectiveness in meeting national intelligence needs.
-
-#### PART II. OVERSIGHT OF INTELLIGENCE ACTIVITIES
-
-Sec. 2.1. The Intelligence Oversight Board (IOB) is hereby established as a standing committee of the PFIAB. The IOB shall consist of no more than five members designated by the President from among the membership of the PFIAB. The Chairman of the PFIAB may also serve as the Chairman or a member of the IOB if so designated by the President. The IOB shall utilize such full-time staff and consultants as authorized by the Chairman of the IOB with the concurrence of the Chairman of the PFIAB.
-
-Sec. 2.2. The IOB shall:
-
-&emsp;(a) prepare for the President reports of intelligence activities that the IOB believes may be unlawful or contrary to Executive order or Presidential directive;
-
-&emsp;(b) forward to the Attorney General reports received concerning intelligence activities that the IOB believes may be unlawful or contrary to Executive order or Presidential directive;
-
-&emsp;(c) review the internal guidelines of each agency within the Intelligence Community that concern the lawfulness of intelligence activities;
-
-&emsp;(d) review the practices and procedures of the Inspectors General and General Counsel of the Intelligence Community for discovering and reporting intelligence activities that may be unlawful or contrary to Executive order or Presidential directive; and
-
-&emsp;(e) conduct such investigations as the IOB deems necessary to carry out its functions under this order.
-
-Sec. 2.3. The IOB shall report to the President. The IOB shall consider and take appropriate action with respect to matters identified by the Director of National Intelligence, the Central Intelligence Agency or other agencies of the Intelligence Community. With respect to matters deemed appropriate by the President, the IOB shall advise and make appropriate recommendations to the Director of National Intelligence, the Central Intelligence Agency and other agencies of the Intelligence Community.
-
-Sec. 2.4. The heads of departments and agencies of the Intelligence Community, to the extent permitted by law, shall provide the IOB with all information that the IOB deems necessary to carry out its responsibilities. Inspectors General and General Counsel of the Intelligence Community, to the extent permitted by law, shall report to the IOB, at least on a quarterly basis and from time to time as necessary or appropriate, concerning intelligence activities that they have reason to believe may be unlawful or contrary to Executive order or Presidential directive.
-
-#### PART III. GENERAL PROVISIONS
-
-Sec. 3.1. Information made available to the PFIAB, or members of the PFIAB acting in their IOB capacity, shall be given all necessary security protection in accordance with applicable laws and regulations. Each member of the PFIAB, each member of the PFIAB's staff and each of the PFIAB's consultants shall executean agreement never to reveal any classified information obtained by virtue of his or her services with the PFIAB except to the President or to such persons as the President may designate.
-
-Sec. 3.2. Members of the PFIAB shall serve without compensation but may receive transportation expenses and per diem allowance as authorized by law. Staff and consultants to the PFIAB shall receive pay and allowances as authorized by the President.
-
-Sec. 3.3. Executive Order No. 12334 of December 4, 1981, as amended, and Executive Order No. 12537 of October 28, 1985, as amended \[50 U.S.C. 403 note\], are revoked.
-
-Sec. 3.4. This order is intended only to improve the internal management of the executive branch of the Federal Government, and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493; Ex. Ord. No. 13301, May 14, 2003, 68 F.R. 26981; Ex. Ord. No. 13376, Apr. 13, 2005, 70 F.R. 20261, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 13462, §10, Feb. 29, 2008, 73 F.R. 11808, set out below.
 
 #### Ex. Ord. No. 13434. National Security Professional Development
 
@@ -1376,7 +1265,7 @@ Sec. 5. <i>Additional Responsibilities</i>. (a) Except for employees excluded by
 
 (c) The Secretary of State shall issue rules or guidance on national security professional development programs for the Foreign Service, including interagency and intergovernmental exchanges and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee;
 
-(d) The Director of National Intelligence, in coordination with the heads of agencies of which elements of the intelligence community are a part, shall issue rules or guidance on national security professional development programs for the intelligence community, including interagency and intergovernmental assignmentsand fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee; and
+(d) The Director of National Intelligence, in coordination with the heads of agencies of which elements ofthe intelligence community are a part, shall issue rules or guidance on national security professional development programs for the intelligence community, including interagency and intergovernmental assignments and fellowship opportunities, to implement the National Strategy and the plan, as appropriate, and shall coordinate such programs, to the maximum extent practicable, with the Steering Committee; and
 
 (e) The Secretary of Homeland Security shall develop a program to provide to Federal, State, local, and tribal government officials education in disaster preparedness, response, and recovery plans and authorities, and training in crisis decision-making skills, consistent with applicable presidential guidance.
 
@@ -1390,13 +1279,149 @@ Sec. 6. <i>General Provisions</i>. This order:
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13462. President's Intelligence Advisory Board and Intelligence Oversight Board
+
+Ex. Ord. No. 13462, Feb. 29, 2008, 73 F.R. 11805, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to ensure that the President and other officers of the United States with responsibility for the security of the Nation and the advancement of its interests have access to accurate, insightful, objective, and timely information concerning the capabilities, intentions, and activities of foreign powers.
+
+Sec. 2. <i>Definitions</i>. As used in this order:
+
+(a) “department concerned” means an executive department listed in section 101 of title 5, United States Code, that contains an organization listed in or designated pursuant to section 3(4) of the National Security Act of 1947, as amended (50 U.S.C. 401a(4));
+
+(b) “intelligence activities” has the meaning specified in section 3.4 of Executive Order 12333 of December 4, 1981, as amended; and
+
+(c) “intelligence community” means the organizations listed in or designated pursuant to section 3(4) of the National Security Act of 1947, as amended.
+
+Sec. 3. <i>Establishment of the President's Intelligence Advisory Board</i>. (a) There is hereby established, within the Executive Office of the President and exclusively to advise and assist the President as set forth in this order, the President's Intelligence Advisory Board (PIAB).
+
+(b) The PIAB shall consist of not more than 16 members appointed by the President from among individuals who are not employed by the Federal Government.
+
+(c) The President shall designate a Chair from among the members of the PIAB, who shall convene and preside at meetings of the PIAB, determine its agenda, and direct its work.
+
+(d) Members of the PIAB and the Intelligence Oversight Board (IOB) established in section 5 of this order:
+
+(i) shall serve without any compensation for their work on the PIAB or the IOB; and
+
+(ii) while engaged in the work of the PIAB or the IOB, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707).
+
+(e) The PIAB shall utilize such full-time professional and administrative staff as authorized by the Chair and approved by the President or the President's designee. Such staff shall be supervised by an Executive Director of the PIAB, appointed by the President, whom the President may designate to serve also as the Executive Director of the IOB.
+
+Sec. 4. <i>Functions of the PIAB</i>. Consistent with the policy set forth in section 1 of this order, the PIAB shall have the authority to, as the PIAB determines appropriate, or shall, when directed by the President:
+
+(a) assess the quality, quantity, and adequacy of intelligence collection, of analysis and estimates, and of counterintelligence and other intelligence activities, assess the adequacy of management, personnel and organization in the intelligence community, and review the performance of all agencies of the Federal Government that are engaged in the collection, evaluation, or production of intelligence or the execution of intelligence policy and report the results of such assessments or reviews:
+
+(i) to the President, as necessary but not less than twice each year; and
+
+(ii) to the Director of National Intelligence (DNI) and the heads of departments concerned when the PIAB determines appropriate; and
+
+(b) consider and make appropriate recommendations to the President, the DNI, or the head of the department concerned with respect to matters identified to the PIAB by the DNI or the head of a department concerned.
+
+Sec. 5. <i>Establishment of Intelligence Oversight Board.</i>
+
+(a) There is hereby established a committee of the PIAB to be known as the Intelligence Oversight Board.
+
+(b) The IOB shall consist of not more than five members of the PIAB who are designated by the President from among members of the PIAB to serve on the IOB. The IOB shall utilize such full-time professional and administrative staff as authorized by the Chair and approved by the President or the President's designee. Such staff shall be supervised by an Executive Director of the IOB, appointed by the President, whom the President may designate to serve also as the Executive Director of the PIAB.
+
+(c) The President shall designate a Chair from among the members of the IOB, who shall convene and preside at meetings of the IOB, determine its agenda, and direct its work.
+
+Sec. 6. <i>Functions of the IOB</i>. Consistent with the policy set forth in section 1 of this order, the IOB shall:
+
+(a) issue criteria on the thresholds for reporting matters to the IOB, to the extent consistent with section 1.7(d) of Executive Order 12333 or the corresponding provision of any successor order;
+
+(b) inform the President of intelligence activities that the IOB believes:
+
+(i)(A) may be unlawful or contrary to Executive Order or presidential directive; and
+
+(B) are not being adequately addressed by the Attorney General, the DNI, or the head of the department concerned; or
+
+(ii) should be immediately reported to the President.\[;\]
+
+(c) review and assess the effectiveness, efficiency, and sufficiency of the processes by which the DNI and the heads of departments concerned perform their respective functions under this order and report thereon as necessary, together with any recommendations, to the President and, as appropriate, the DNI and the head of the department concerned;
+
+(d) receive and review information submitted by the DNI under subsection 7(c) of this order and make recommendations thereon, including for any needed corrective action, with respect to such information, and the intelligence activities to which the information relates, as necessary, but not less than twice each year, to the President, the DNI, and the head of the department concerned; and
+
+(e) conduct, or request that the DNI or the head of the department concerned, as appropriate, carry out and report to the IOB the results of, investigations of intelligence activities that the IOB determines are necessary to enable the IOB to carry out its functions under this order.
+
+Sec. 7. <i>Functions of the Director of National Intelligence</i>. Consistent with the policy set forth in section 1 of this order, the DNI shall:
+
+(a) with respect to guidelines applicable to organizations within the intelligence community that concern reporting of intelligence activities described in subsection 6(b)(i)(A) of this order:
+
+(i) review and ensure that such guidelines are consistent with section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order, and this order; and
+
+(ii) issue for incorporation in such guidelines instructions relating to the format and schedule of such reporting as necessary to implement this order;
+
+(b) with respect to intelligence activities described in subsection 6(b)(i)(A) of this order:
+
+(i) receive reports submitted to the IOB pursuant to section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order;
+
+(ii) forward to the Attorney General information in such reports relating to such intelligence activities to the extent that such activities involve possible violations of Federal criminal laws or implicate the authority of the Attorney General unless the DNI or the head of the department concerned has previously provided such information to the Attorney General; and
+
+(iii) monitor the intelligence community to ensure that the head of the department concerned has directed needed corrective actions and that such actions have been taken and report to the IOB and the head of the department concerned, and as appropriate the President, when such actions have not been timely taken; and
+
+(c) submit to the IOB as necessary and no less than twice each year:
+
+(i) an analysis of the reports received under subsection (b)(i) of this section, including an assessment of the gravity, frequency, trends, and patterns of occurrences of intelligence activities described in subsection 6(b)(i)(A) of this order;
+
+(ii) a summary of direction under subsection (b)(iii) of this section and any related recommendations; and
+
+(iii) an assessment of the effectiveness of corrective action taken by the DNI or the head of the department concerned with respect to intelligence activities described in subsection 6(b)(i)(A) of this order.
+
+Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions of the Director of National Intelligence.</i>
+
+(a) To the extent permitted by law, the DNI and the heads of departments concerned shall provide such information and assistance as the PIAB and the IOB may need to perform functions under this order.
+
+(b) The heads of departments concerned shall:
+
+(i) ensure that the DNI receives:
+
+(A) copies of reports submitted to the IOB pursuant to section 1.7(d) of Executive Order 12333, or a corresponding provision of any successor order; and
+
+(B) such information and assistance as the DNI may need to perform functions under this order; and
+
+(ii) designate the offices within their respective organizations that shall submit reports to the IOB required by Executive Order and inform the DNI and the IOB of such designations; and
+
+(iii) ensure that departments concerned comply with instructions issued by the DNI under subsection 7(a)(ii) of this order.
+
+(c) The head of a department concerned who does not implement a recommendation to that head of department from the PIAB under subsection 4(b) of this order or from the IOB under subsections 6(c) or 6(d) of this order shall promptly report through the DNI to the Board that made the recommendation, or to the President, the reasons for not implementing the recommendation.
+
+(d) The DNI shall ensure that the Director of the Central Intelligence Agency performs the functions with respect to the Central Intelligence Agency under this order that a head of a department concerned performs with respect to organizations within the intelligence community that are part of that department.
+
+Sec. 9. <i>References and Transition</i>. (a) References in Executive Orders other than this order, or in any other presidential guidance, to the “President's Foreign Intelligence Advisory Board” shall be deemed to be references to the President's Intelligence Advisory Board established by this order.
+
+(b) Individuals who are members of the President's Foreign Intelligence Advisory Board under Executive Order 12863 of September 13, 1993, as amended, immediately prior to the signing of this order shall be members of the President's Intelligence Advisory Board immediately upon the signing of this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
+
+(c) Individuals who are members of the Intelligence Oversight Board under Executive Order 12863 immediately prior to the signing of this order shall be members of the Intelligence Oversight Board under this order, to serve as such consistent with this order until the date that is 15 months following the date of this order.
+
+(d) The individual serving as Executive Director of the President's Foreign Intelligence Advisory Board immediately prior to the signing of this order shall serve as the Executive Director of the PIAB until such person resigns, dies, or is removed, or upon appointment of a successor under this order and shall serve as the Executive Director of the IOB until an Executive Director of the IOB is appointed or designated under this order.
+
+Sec. 10. <i>Revocation</i>. Executive Order 12863 is revoked.
+
+Sec. 11. <i>General Provisions.</i>
+
+(a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) authority granted by law to a department or agency, or the head thereof; or
+
+(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+(b) Any person who is a member of the PIAB or IOB, or who is granted access to classified national security information in relation to the activities of the PIAB or the IOB, as a condition of access to such information, shall sign and comply with the agreements to protect such information from unauthorized disclosure. This order shall be implemented in a manner consistent with Executive Order 12958 of April 17, 1995, as amended, and Executive Order 12968 of August 2, 1995, as amended.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies or entities, its officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Effective Dates of Provisions in Title I of the Intelligence Reform and Terrorism Prevention Act of 2004
 
 Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, provided:
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Director of the Office of Management and Budget\[, and\] the Director of National Intelligence
 
-Subsection 1097(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, December 17, 2004) (the Act) \[set out in a note above\] provides:
+Subsection 1097(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458,December 17, 2004) (the Act) \[set out in a note above\] provides:
 
 > &emsp;(a) IN GENERAL- Except as otherwise expressly provided in this Act, this title and the amendments made by this title shall take effect not later than 6 months after the date of the enactment of this Act.
 

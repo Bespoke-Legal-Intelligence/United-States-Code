@@ -4,7 +4,7 @@
 
 (b) Interest shall be computed daily to the date of payment except as provided in section 2516(b) of this title and section 1304(b) of title 31, and shall be compounded annually.
 
-(c)(1) This section shall not apply in any judgment of any court with respect to any internal revenue tax case. Interest shall be allowed in such cases at the underpayment rate or overpayment rate (whichever is appropriate) established under section 6621 of the Internal Revenue Code of 1986.
+(c)(1) This section shall not apply in any judgment of any court with respect to any internalrevenue tax case. Interest shall be allowed in such cases at the underpayment rate or overpayment rate (whichever is appropriate) established under section 6621 of the Internal Revenue Code of 1986.
 
 (2) Except as otherwise provided in paragraph (1) of this subsection, interest shall be allowed on all final judgments against the United States in the United States Court of Appeals for the Federal circuit,<sup>2</sup> at the rate provided in subsection (a) and as provided in subsection (b).
 

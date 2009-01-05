@@ -228,7 +228,7 @@ Pilot project and purpose.—The Secretary of Agriculture (in this section refer
 
 &emsp;“(2)
 
-Pilot project area.—The Secretary shall conduct the pilot project on the Federal lands within Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest in the State of California designated as ‘Available for Group Selection’ on the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993 (in this section referred to as the ‘pilot project area’). Such map shall be on file and available for inspection in the appropriate offices of the Forest Service.
+Pilot project area.—The Secretary shall conduct the pilot project on the Federal lands within Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest in the State of California designated as ‘Available for Group Selection’ on the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993 (in this section referredto as the ‘pilot project area’). Such map shall be on file and available for inspection in the appropriate offices of the Forest Service.
 
 “(c)
 
@@ -272,7 +272,7 @@ Fuelbreak construction.—Construction of a strategic system of defensible fuel 
 
 &emsp;“(2)
 
-Group selection and individual tree selection.—Utilization of group selection and individualtree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
+Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
 
 &emsp;&emsp;“(A)
 
@@ -392,7 +392,7 @@ Preparation.—The panel shall initiate such review no sooner than 18 months aft
 
 &emsp;“(3)
 
-Submission to the congress.—The panel shall submit the final report to the Congress as soon aspracticable, but in no case later than 18 months after completion of the pilot project.
+Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project.
 
 &emsp;“(4)
 

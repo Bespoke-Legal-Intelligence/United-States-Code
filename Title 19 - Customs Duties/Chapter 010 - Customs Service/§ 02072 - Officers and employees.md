@@ -58,7 +58,7 @@ The personnel of the United States Customs Service shall perform such duties as 
 
 &emsp;&emsp;Notwithstanding any other provision of law, the Commissioner shall not transfer any assets, functions, or personnel from United States ports of entry, associated with the enforcement of laws relating to trade in textiles and apparel, to the Office of International Trade established pursuant to paragraph (1), until the following conditions are met:
 
-&emsp;&emsp;&emsp;(i) The Commissioner submits the initial Resource Allocation Model required by section 2075(h) of this title and includes insuch Resource Allocation Model a section addressing the allocation of assets, functions, and personnel associated with the enforcement of laws relating to trade in textiles and apparel.
+&emsp;&emsp;&emsp;(i) The Commissioner submits the initial Resource Allocation Model required by section 2075(h) of this title and includes in such Resource Allocation Model a section addressing the allocation of assets, functions, and personnel associated with the enforcement of laws relating to trade in textiles and apparel.
 
 &emsp;&emsp;&emsp;(ii) The Commissioner consults with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives regarding any subsequent transfer of assets, functions, or personnel associated with the enforcement of laws relating to trade in textiles and apparel, not less than 45 days prior to such transfer.
 

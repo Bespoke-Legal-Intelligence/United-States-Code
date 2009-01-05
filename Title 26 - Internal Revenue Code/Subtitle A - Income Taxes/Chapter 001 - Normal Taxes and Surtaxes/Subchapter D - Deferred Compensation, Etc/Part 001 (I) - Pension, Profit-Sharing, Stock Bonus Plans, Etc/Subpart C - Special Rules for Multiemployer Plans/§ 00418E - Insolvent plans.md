@@ -14,7 +14,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Resource benefit level
 
-&emsp;The term “resource benefit level” means the level of monthly benefits determined undersubsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
+&emsp;The term “resource benefit level” means the level of monthly benefits determined under subsections (c)(1) and (3) and (d)(3) to be the highest level which can be paid out of the plan's available resources.
 
 #### (3) Available resources
 
@@ -78,7 +78,7 @@ For purposes of this section, for a plan year—
 
 &emsp;&emsp;(A) notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of that determination, and
 
-&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants andbeneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
+&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants and beneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
 #### (2) Resource benefit level
 

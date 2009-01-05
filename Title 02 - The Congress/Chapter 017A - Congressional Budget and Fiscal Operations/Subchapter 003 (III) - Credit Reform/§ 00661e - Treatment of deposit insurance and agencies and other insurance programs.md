@@ -6,7 +6,7 @@ This subchapter shall not apply to the credit or insurance activities of the Fed
 
 #### (b) Study
 
-The Director and the Director of the Congressional Budget Office shall each study whether the accounting for Federal deposit insurance programs should be on a cash basis on the same basis as loan guarantees, or on a different basis. Each Director shall report findings and recommendations to the President and the Congress on or before May 31, 1991.
+The Director and the Director of the Congressional Budget Office shall each study whether the accounting for Federal deposit insurance programs should be on a cash basis on the same basis as loan guarantees, or on a different basis.Each Director shall report findings and recommendations to the President and the Congress on or before May 31, 1991.
 
 #### (c) Access to data
 

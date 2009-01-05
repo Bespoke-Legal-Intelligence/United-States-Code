@@ -18,7 +18,7 @@
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, and industrial crops.
+&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, camelina, and industrial crops.
 
 #### (C) Combination of similar types or varieties
 
@@ -27,6 +27,34 @@
 #### (3) Cause of loss
 
 &emsp;To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
+
+#### (4) Program ineligibility relating to crop production on native sod
+
+#### (A) Definition of native sod
+
+&emsp;&emsp;In this paragraph, the term “native sod” means land—
+
+&emsp;&emsp;&emsp;(i) on which the plant cover is composed principally of native grasses, grasslike plants, forbs, or shrubs suitable for grazing and browsing; and
+
+&emsp;&emsp;&emsp;(ii) that has never been tilled for the production of an annual crop as of the date of enactment of this paragraph.
+
+#### (B) Ineligibility for benefits
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+
+&emsp;&emsp;&emsp;&emsp;(I) this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+
+#### (ii) De minimis acreage exemption
+
+&emsp;&emsp;&emsp;The Secretary shall exempt areas of 5 acres or less from clause (i).
+
+#### (C) Application
+
+&emsp;&emsp;Subparagraph (B) may apply to native sod acreage in the Prairie Pothole National Priority Area at the election of the Governor of the respective State.
 
 #### (b) Application for noninsured crop disaster assistance
 
@@ -46,11 +74,17 @@
 
 #### (1) Cause
 
-&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall havesuffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3) of this section.
 
 #### (2) Assistance
 
-&emsp;On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+#### (A) In general
+
+&emsp;&emsp;On making a determination described in subsection (a)(3) of this section, the Secretary shall provide assistance under this section to producers of an eligible crop that have suffered a loss as a result of the cause described in subsection (a)(3) of this section.
+
+#### (B) Aquaculture producers
+
+&emsp;&emsp;On making a determination described in subsection (a)(3) for aquaculture producers, the Secretary shall provide assistance under this section to aquaculture producers from all losses related to drought.
 
 #### (3) Prevented planting
 
@@ -120,7 +154,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (5) Limitation on receipt of subsequent assigned yield
 
-&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were not submitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
+&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were notsubmitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
 
 #### (6) Yield variations due to different farming practices
 
@@ -148,23 +182,11 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) Definitions
 
-&emsp;In this subsection:
-
-#### (A) Person
-
-&emsp;&emsp;The term “person” has the meaning provided the term in regulations issued by the Secretary. The regulations shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of this title.
-
-#### (B) Qualifying gross revenues
-
-&emsp;&emsp;The term “qualifying gross revenues” means—
-
-&emsp;&emsp;&emsp;(i) if a majority of the gross revenue of the person is received from farming,ranching, and forestry operations, the gross revenue from the farming, ranching, and forestry operations of the person; and
-
-&emsp;&emsp;&emsp;(ii) if less than a majority of the gross revenue of the person is received from farming, ranching, and forestry operations, the gross revenue of the person from all sources.
+&emsp;In this subsection, the terms “legal entity” and “person” have the meanings given those terms in section 1308(a) of this title.
 
 #### (2) Payment limitation
 
-&emsp;The total amount of payments that a person shall be entitled to receive annually under this section may not exceed $100,000.
+&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed $100,000.
 
 #### (3) Limitation on multiple benefits for same loss
 
@@ -176,13 +198,17 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;Subparagraph (A) shall not apply to emergency loans under subtitle C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et seq.).
 
-#### (4) Income limitation
+#### (4) Adjusted gross income limitation
 
-&emsp;A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.
+&emsp;A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
 
 #### (5) Regulations
 
-&emsp;The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection.
+&emsp;The Secretary shall issue regulations prescribing such rules as the Secretary determines necessary—
+
+&emsp;&emsp;(A) to ensure a fair and equitable application of section 1308 of this title, the general payment limitation regulations of the Secretary, and the limitations established under this subsection; and
+
+&emsp;&emsp;(B) to ensure that payments under this section are attributed to a person or legal entity (excluding a joint venture or general partnership) in accordance with the terms and conditions of sections 1308 through 1308–3a of this title, as determined by the Secretary.
 
 #### (j) Omitted
 
@@ -192,9 +218,9 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1) of this section) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
-&emsp;&emsp;(A) $100 per crop per county; or
+&emsp;&emsp;(A) $250 per crop per county; or
 
-&emsp;&emsp;(B) $300 per producer per county, but not to exceed a total of $900 per producer.
+&emsp;&emsp;(B) $750 per producer per county, but not to exceed a total of $1,875 per producer.
 
 #### (2) Waiver
 
@@ -204,19 +230,37 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152.)
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), (B)(i), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-Section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (i)(4), is section 2266(a) of Pub. L. 101–624, which was set out in a note under section 1421 of this title, prior to repeal by Pub. L. 103–354, title I, §119(c), Oct. 13, 1994, 108 Stat. 3208.
+The Federal Crop Insurance Act, referred to in subsec. (a)(4)(B)(i)(II), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle Cof the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(B). Pub. L. 110–246, §12025(b), inserted “camelina,” after “sea oats,”.
+
+Subsec. (a)(4). Pub. L. 110–246, §12020(b), added par. (4).
+
+Subsec. (c)(2). Pub. L. 110–246, §12027, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (i)(1), (2). Pub. L. 110–246, §1603(f)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “person” and “qualifying gross revenues” and provided that the total amount of payments that a person would be entitled to receive annually could not exceed $100,000.
+
+Subsec. (i)(4). Pub. L. 110–246, §1603(f)(1)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “A person who has qualifying gross revenues in excess of the amount specified in section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 1421 note) (as in effect on November 28, 1990) during the taxable year (as determined by the Secretary) shall not be eligible to receive any noninsured assistance payment under this section.”
+
+Subsec. (i)(5). Pub. L. 110–246, §1603(f)(1)(C), designated part of existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (k)(1). Pub. L. 110–246, §12028, in subpar. (A) substituted “$250” for “$100” and in subpar. (B) substituted “$750” for “$300” and “$1,875” for “$900”.
 
 2002—Subsec. (a)(2)(B). Pub. L. 107–171 inserted “sea grass and sea oats,” after “fish),”.
 
@@ -234,11 +278,19 @@ Subsec. (k). Pub. L. 106–224, §109(e), added subsec. (k).
 
 1998–Subsec. (i)(3). Pub. L. 105–277 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), if a producer” for “If a producer”, and added subpar. (B).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–224 applicable beginning with the 2001 crop of an agricultural commodity, see section 171(b)(2)(G) of Pub. L. 106–224, set out as a note under section 1501 of this title.
 
-#### Savings Clause
+#### Transition Provisions
+
+Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: “Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Section as in effect on day before June 20, 2000, to continue to apply with respect to 1999 crop year, and to apply with respect to 2000 crop year, to extent application of an amendment by Pub. L. 106–224 is delayed under section 171(b) or by terms of the amendment, see section 173 of Pub. L. 106–224, set out as a note under section 1501 of this title.
 

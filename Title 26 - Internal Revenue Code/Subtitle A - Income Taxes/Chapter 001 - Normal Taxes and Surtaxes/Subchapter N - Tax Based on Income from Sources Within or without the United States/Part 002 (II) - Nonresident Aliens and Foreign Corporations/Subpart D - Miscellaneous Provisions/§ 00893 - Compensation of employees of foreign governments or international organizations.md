@@ -6,7 +6,7 @@ Wages, fees, or salary of any employee of a foreign government or of an internat
 
 &emsp;(1) such employee is not a citizen of the United States, or is a citizen of the Republic of the Philippines (whether or not a citizen of the United States); and
 
-&emsp;(2) in the case of an employee of a foreign government, the services are of a charactersimilar to those performed by employees of the Government of the United States in foreign countries; and
+&emsp;(2) in the case of an employee of a foreign government, the services are of a character similar to those performed by employees of the Government of the United States in foreign countries; and
 
 &emsp;(3) in the case of an employee of a foreign government, the foreign government grants an equivalent exemption to employees of the Government of the United States performing similar services in such foreign country.
 

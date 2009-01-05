@@ -18,6 +18,26 @@ Section was formerly classified to section 557a of Title 5 prior to the general 
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Buy American Requirements
+
+Pub. L. 110–234, title IV, §4306, May 22, 2008, 122 Stat. 1131, and Pub. L. 110–246, §4(a), title IV, §4306, June 18, 2008, 122 Stat. 1664, 1893, provided that:
+
+“(a)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) Federal law requires that commodities and products purchased with Federal funds be, to the extent practicable, of domestic origin.
+
+&emsp;“(2) Federal Buy American statutory requirements seek to ensure that purchases made with Federal funds benefit domestic producers.
+
+&emsp;“(3) The Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) requires the use of domestic food products for all meals served under the program, including food products purchased with local funds.
+
+“(b)
+
+Buy American Statutory Requirements.—The Department of Agriculture should undertake training, guidance, and enforcement of the various current Buy American statutory requirements and regulations, including those of the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
 #### Compliance With Buy American Act
 
 Pub. L. 105–86, title VII, §716, Nov. 18, 1997, 111 Stat. 2106, provided that:

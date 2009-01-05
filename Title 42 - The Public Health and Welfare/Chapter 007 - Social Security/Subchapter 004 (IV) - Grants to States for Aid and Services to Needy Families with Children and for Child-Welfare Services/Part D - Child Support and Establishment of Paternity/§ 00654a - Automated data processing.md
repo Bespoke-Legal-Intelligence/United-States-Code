@@ -110,7 +110,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (3) Temporary family assistance and medicaid agencies
 
-&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State planapproved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
+&emsp;Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State plan approved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
 
 #### (4) Intrastate and interstate information comparisons
 
@@ -124,7 +124,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (1) In general
 
-&emsp;The State shall use the automated system required by this section, to the maximum extent feasible, to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
+&emsp;The State shall use the automated system required by this section, to the maximum extent feasible, to assist and facilitate the collection and disbursement of support paymentsthrough the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
 
 &emsp;&emsp;(A) transmission of orders and notices to employers (and other debtors) for the withholding of income—
 

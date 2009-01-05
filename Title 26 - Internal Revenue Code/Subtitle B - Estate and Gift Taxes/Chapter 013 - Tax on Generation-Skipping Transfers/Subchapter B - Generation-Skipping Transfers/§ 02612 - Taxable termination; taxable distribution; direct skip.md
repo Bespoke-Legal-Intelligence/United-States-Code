@@ -16,7 +16,7 @@
 
 #### (b) Taxable distribution
 
-For purposes of this chapter, the term “taxable distribution” means any distribution from a trust to a skip person (other than a taxable termination or a direct skip).
+For purposes of this chapter, the term “taxable distribution” means any distribution froma trust to a skip person (other than a taxable termination or a direct skip).
 
 #### (c) Direct skip
 

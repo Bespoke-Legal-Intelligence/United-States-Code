@@ -28,7 +28,7 @@ Pub. L. 105–228, §1, Aug. 12, 1998, 112 Stat. 1516, provided that: “This Ac
 
 #### Short Title
 
-Section 1(a) of Pub. L. 104–127 provided that: “This Act \[see Tables for classification\] may be cited as the‘Federal Agriculture Improvement and Reform Act of 1996’.”
+Section 1(a) of Pub. L. 104–127 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Agriculture Improvement and Reform Act of 1996’.”
 
 #### Severability
 

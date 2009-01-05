@@ -8,7 +8,7 @@
 
 &emsp;(B) is dismissed from such educational institution for disciplinary reasons; or
 
-&emsp;(C) voluntarily terminates the training in such an educational institution for which he is provided a scholarship under such contract, before the completion of such training,
+&emsp;(C) voluntarily terminates the training in such an educational institution for which he isprovided a scholarship under such contract, before the completion of such training,
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the amount which has been paid to him, or on his behalf, under the contract.
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) the total of the amounts paid by the United States under section 254<i>l</i>–1(g) of this title on behalf of the individual for any period of obligated service not served;
 
-&emsp;(B) an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
+&emsp;(B) an amount equal to the product of the number of months of obligated service thatwere not completed by the individual, multiplied by $7,500; and
 
 &emsp;(C) the interest on the amounts described in subparagraphs (A) and (B), at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach;
 

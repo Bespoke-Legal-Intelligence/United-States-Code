@@ -24,9 +24,9 @@ As used in this subchapter—
 
 &emsp;(k) the term “nutrition education” means those activities intended to broaden the understanding of sound nutritional principles including the role of milk and dairy products in a balanced diet;
 
-&emsp;(<i>l</i>) the term “United States” as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;
+&emsp;(<i>l</i>) the term “United States”, when used in a geographical sense, means all of the States, the District of Columbia, and the Commonwealth of Puerto Rico;
 
-&emsp;(m) the term “imported dairy product” means any dairy product that is imported into the United States (as defined in subsection (<i>l</i>) of this section), including dairy products imported into the United States in the form of—
+&emsp;(m) the term “imported dairy product” means any dairy product that is imported into the United States, including dairy products imported into the United States in the form of—
 
 &emsp;&emsp;(1) milk, cream, and fresh and dried dairy products;
 
@@ -40,13 +40,25 @@ As used in this subchapter—
 
 &emsp;(<i>o</i>) the term “Customs” means the United States Customs Service.
 
-(Pub. L. 98–180, title I, §111, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, §1505(a), (h)(2), May 13, 2002, 116 Stat. 207, 210.)
+(Pub. L. 98–180, title I, §111, Nov. 29, 1983, 97 Stat. 1136; Pub. L. 107–171, title I, §1505(a), (h)(2), May 13, 2002, 116 Stat. 207, 210; Pub. L. 110–234, title I, §1507(b), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(b), June 18, 2008, 122 Stat. 1664, 1725.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (<i>l</i>). Pub. L. 110–246, §1507(b)(1), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “the term ‘United States’ as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;”.
+
+Subsec. (m). Pub. L. 110–246, §1507(b)(2), struck out “(as defined in subsection (<i>l</i>) of this section)” before “, including”.
 
 2002—Subsec. (d). Pub. L. 107–171, §1505(h)(2), struck out “produced in the United States” before semicolon at end.
 
 Subsec. (m) to (<i>o</i>). Pub. L. 107–171, §1505(a), added subsecs. (m) to (<i>o</i>).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

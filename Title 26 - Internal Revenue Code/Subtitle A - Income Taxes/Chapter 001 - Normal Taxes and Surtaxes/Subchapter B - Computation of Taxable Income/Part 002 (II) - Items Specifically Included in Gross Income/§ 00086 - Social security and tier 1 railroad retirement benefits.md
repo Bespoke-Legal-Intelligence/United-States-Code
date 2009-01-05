@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (1), the term “tier 1 railroad retirement benefit” means—
 
-&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is beingpaid) had been included in the term “employment” as defined in the Social Security Act, and
+&emsp;&emsp;(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term “employment” as defined in the Social Security Act, and
 
 &emsp;&emsp;(B) a monthly annuity amount under section 3(f)(3) of the Railroad Retirement Act of 1974.
 
@@ -276,7 +276,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Treatment of certain lump-sum payments received after december 31, 1983.—The amendments madeby this section shall not apply to any portion of a lump-sum payment of social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.”
+Treatment of certain lump-sum payments received after december 31, 1983.—The amendments made by this section shall not apply to any portion of a lump-sum payment of social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

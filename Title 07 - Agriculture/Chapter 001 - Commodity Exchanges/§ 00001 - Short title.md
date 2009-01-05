@@ -16,9 +16,15 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as “The
 
 Section 13 of act June 15, 1936, provided that: “All provisions of this Act \[see Tables for classification\] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act \[June 15, 1936\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–234, title XIII, §13001, May 22, 2008, 122 Stat. 1427, and Pub. L. 110–246, §4(a), title XIII, §13001, June 18, 2008, 122 Stat. 1664, 2189, provided that: “This title \[amending sections 1a, 2, 6a, 6b, 6f, 6g, 6i, 6k, 6<i>o</i>–1, 6q, 7a, 7a–2, 7b, 8, 9, 12, 13, 13a, 13a–1, 16, 18, 21, and 25 of this title and enacting provisions set out as notes under section 2 of this title\] may be cited as the ‘CFTC Reauthorization Act of 2008’.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(5) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act \[H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6<i>o</i>–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77<i>l</i>, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78<i>lll</i>, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 of this title, and section 78c of Title 15\] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
+Pub. L. 106–554, §1(a)(5) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–365, provided that: “This Act \[H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 5, 6<i>o</i>–1, 7 to 7a–3, 7b–1, 7b–2, 9c, and 27 to 27f of this title, sections 781 to 784 of Title 11, Bankruptcy, sections 339a, 4421, and 4422 of Title 12, Banks and Banking, and sections 77b–1 and 78c–1 of Title 15, Commerce and Trade, amending sections 1a, 2, 2a, 4, 4a, 6 to 6m, 6p, 7a–2, 7b, 8 to 9a, 10a, 11, 12, 12a to 12c, 13, 13a to 13b, 16, 18 to 21, and 25 of this title, sections 101, 103, 109, and 761 of Title 11, sections 624 and 4402 of Title 12, and sections 77b, 77c, 77<i>l</i>, 77q, 78c, 78f, 78g, 78i, 78j, 78k–1, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78p, 78q, 78q–1, 78s, 78t, 78u, 78u–1, 78bb, 78ee, 78ccc, 78<i>lll</i>, 80a–2, 80b–2, and 80b–3 of Title 15, repealing sections 5, 7, 7a, and 12e of this title, and enacting provisions set out as notes under this section, section 2 ofthis title, and section 78c of Title 15\] may be cited as the ‘Commodity Futures Modernization Act of 2000’.”
 
 Pub. L. 106–554, §1(a)(5) \[title IV, §401\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: “This title \[title IV of H.R. 5660, as enacted by section 1(a)(5) of Pub. L. 106–554, enacting sections 27 to 27f of this title\] may be cited as the ‘Legal Certainty for Bank Products Act of 2000’.”
 
@@ -28,7 +34,7 @@ Pub. L. 104–9, §1, Apr. 21, 1995, 109 Stat. 154, provided that: “This Act \
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–546, §1(a), Oct. 28, 1992, 106 Stat. 3590, provided that: “This Act \[enacting sections 1a and 12e ofthis title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\] may be cited as the ‘Futures Trading Practices Act of 1992’.”
+Pub. L. 102–546, §1(a), Oct. 28, 1992, 106 Stat. 3590, provided that: “This Act \[enacting sections 1a and 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\] may be cited as the ‘Futures Trading Practices Act of 1992’.”
 
 #### Short Title of 1986 Amendment
 

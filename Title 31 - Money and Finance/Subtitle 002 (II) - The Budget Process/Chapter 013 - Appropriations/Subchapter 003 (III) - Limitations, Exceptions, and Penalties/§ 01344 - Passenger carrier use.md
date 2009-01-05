@@ -38,7 +38,7 @@
 
 &emsp;(9) an officer or employee with regard to whom the head of a Federal agency makes a determination, in accordance with subsection (d) of this section and with regulations prescribed pursuant to paragraph (1) of subsection (e), that highly unusual circumstances present a clear and present danger, that an emergency exists, or that other compelling operational considerations make such transportation essential to the conduct of official business.
 
-> Except as provided in paragraph (2) of subsection (d), any authorization made pursuant to clause (9) of this subsection to permit the use of a passenger carrier to transport an officer or employee between residence and place of employment shall be effective for not more than 15 calendar days.
+> Except as provided in paragraph (2) of subsection (d), any authorization made pursuant toclause (9) of this subsection to permit the use of a passenger carrier to transport an officer or employee between residence and place of employment shall be effective for not more than 15 calendar days.
 
 (c) A passenger carrier may be used to transport between residence and place of employment any person for whom protection is specifically authorized pursuant to section 3056(a) of title 18 or for whom transportation is authorized pursuant to section 28 of the State Department Basic Authorities Act of 1956, section 2637 of title 10, or section 8(a)(1) of the Central Intelligence Agency Act of 1949.
 

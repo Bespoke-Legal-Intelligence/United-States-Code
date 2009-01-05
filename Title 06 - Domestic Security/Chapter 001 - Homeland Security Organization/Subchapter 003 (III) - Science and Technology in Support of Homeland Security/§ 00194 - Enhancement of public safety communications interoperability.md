@@ -40,7 +40,7 @@
 
 #### (A) Establishment of Office
 
-&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility withinthe Directorate of Science and Technology to carry out this subsection.
+&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility within the Directorate of Science and Technology to carry out this subsection.
 
 #### (B) Functions
 

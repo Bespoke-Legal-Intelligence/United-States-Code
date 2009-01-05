@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(D) in the case of a family or group day care home sponsoring organization that employs more than one employee, the organization does not base payments to an employee of the organization on the number of family or group day care homes recruited;
 
-&emsp;&emsp;(E) in the case of a sponsoring organization, the organization has in effect a policy that restricts other employment by employees that interferes with the responsibilitiesand duties of the employees of the organization with respect to the program; and
+&emsp;&emsp;(E) in the case of a sponsoring organization, the organization has in effect a policy that restricts other employment by employees that interferes with the responsibilities and duties of the employees of the organization with respect to the program; and
 
 &emsp;&emsp;(F) in the case of a sponsoring organization that applies for initial participation in the program on or after June 20, 2000, and that operates in a State that requires such institutions to be bonded under State law, regulation, or policy, the institution is bonded in accordance with such law, regulation, or policy.
 
@@ -138,11 +138,11 @@ In general.—The State agency may approve an eligible institution acting as a s
 
 &emsp;&emsp;&emsp;(I) the institution meets the requirements established by subparagraphs (A) and (B); and
 
-&emsp;&emsp;&emsp;(II) the participation of the institution will help to ensure the delivery of benefitsto otherwise unserved family or group day care homes or centers or to unserved children in an area.
+&emsp;&emsp;&emsp;(II) the participation of the institution will help to ensure the delivery of benefits to otherwise unserved family or group day care homes or centers or to unserved children in an area.
 
 &emsp;&emsp;(ii)
 
-Criteria for selection.—The State agency shall establish criteria for approving an eligible institution acting as a sponsoring organization for one or more family or group day care homes or centers that, at the time of application, is not participating in the child and adult care food program for the purpose of determining if the participation of the institution will help ensure the delivery of benefits to otherwise unserved family or group day care homes or centers or to unserved children in an area.
+Criteria for selection.—The State agency shall establish criteria for approving an eligible institution acting as a sponsoring organization for one or more family or group day care homes or centers that, at the time of application, is not participating in the child and adult care food program for the purpose of determining if the participation of the institution will help ensure the delivery of benefits to otherwise unserved familyor group day care homes or centers or to unserved children in an area.
 
 &emsp;(D)
 
@@ -230,7 +230,7 @@ Requirement for review.—Prior to any determination to suspend participation of
 
 Review procedure.—The review shall—
 
-&emsp;&emsp;&emsp;&emsp;(aa) be conducted by an independent and impartial official other than, andnot accountable to, any person involved in the determination to suspend the institution;
+&emsp;&emsp;&emsp;&emsp;(aa) be conducted by an independent and impartial official other than, and not accountable to, any person involved in the determination to suspend the institution;
 
 &emsp;&emsp;&emsp;&emsp;(bb) provide the State agency and the institution the right to submit written documentation relating to the suspension, including State agency documentation of the alleged false or fraudulent claim for reimbursement and the response of the institution to the documentation;
 
@@ -378,7 +378,7 @@ Children eligible for free or reduced price meals.—In the case of meals or sup
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
-Ineligible children.—In the case of meals or supplements served under this subsection to children who are members of households whose incomes do not meet the income eligibility guidelines, the family or group day care homeshall be provided reimbursement factors in accordance with subclause (I).
+Ineligible children.—In the case of meals or supplements served under this subsection to children who are members of households whose incomes do not meet the income eligibility guidelines, the family or group day care home shall be provided reimbursement factors in accordance with subclause (I).
 
 &emsp;&emsp;&emsp;(III)
 
@@ -426,7 +426,7 @@ In general.—Subject to clause (ii), a State agency shall limit the ability of 
 
 &emsp;&emsp;(ii)
 
-Good cause.—The State agency may permit or require a family or group day care home to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year for goodcause (as determined by the State agency), including circumstances in which the sponsoring organization of the family or group day care home ceases to participate in the child and adult care food program.
+Good cause.—The State agency may permit or require a family or group day care home to transfer from a sponsoring organization to another sponsoring organization more frequently than once a year for good cause (as determined by the State agency), including circumstances in which the sponsoring organization of the family or group day care home ceases to participate in the child and adult care food program.
 
 &emsp;(E)
 
@@ -434,7 +434,7 @@ Provision of data to family or group day care home sponsoring organizations.—
 
 &emsp;&emsp;(i)
 
-Census data.—The Secretary shall provide to each State agency administering a child and adult care food program under this section data from the most recent decennial census survey or other appropriate census survey for which the data are available showing which areas in the State meet the requirements of subparagraph (A)(ii)(I)(aa). The State agency shall provide the data to family or group day care home sponsoring organizations located in the State.
+Census data.—The Secretary shall provide to each State agency administering a child and adult care food program under this section data from the most recent decennial census survey or other appropriate census survey for which the data are available showing which areas in the State meet therequirements of subparagraph (A)(ii)(I)(aa). The State agency shall provide the data to family or group day care home sponsoring organizations located in the State.
 
 &emsp;&emsp;(ii)
 
@@ -476,9 +476,9 @@ Duration of determination.—For purposes of this section, a determination that 
 
 &emsp;(ii) based on such reconciliation, increase or reduce subsequent commodity assistance or cash in lieu of commodities provided to each State.
 
-(D) Any State receiving assistance under this section for institutions participating in thechild care food program may, upon application to the Secretary, receive cash in lieu of some or all of the commodities to which it would otherwise be entitled under this subsection. In determining whether to request cash in lieu of commodities, the State shall base its decision on the preferences of individual participating institutions within the State, unless this proves impracticable due to the small number of institutions preferring donated commodities.
+(D) Any State receiving assistance under this section for institutions participating in the child care food program may, upon application to the Secretary, receive cash in lieu of some or all of the commodities to which it would otherwise be entitled under this subsection. In determining whether to request cash in lieu of commodities, the State shall base its decision on the preferences of individual participating institutions within the State, unless this proves impracticable due to the small number of institutions preferring donated commodities.
 
-(2) The Secretary is authorized to provide agricultural commodities obtained by the Secretary under the provisions of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) and donated under the provisions of section 416 of such Act \[7 U.S.C. 1431\], to the Department of Defense for use by its institutions providing child care services, when such commodities are in excess of the quantities needed to meet the needs of all other child nutrition programs, domestic and foreign food assistance and export enhancement programs. The Secretary shall require reimbursement from the Department of Defense for the costs, or some portion thereof, of delivering such commodities to overseas locations, unless the Secretary determines that it is in the best interest of the program that the Department of Agriculture shall assume such costs.
+(2) The Secretary is authorized to provide agricultural commodities obtained by the Secretary under the provisions of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) and donatedunder the provisions of section 416 of such Act \[7 U.S.C. 1431\], to the Department of Defense for use by its institutions providing child care services, when such commodities are in excess of the quantities needed to meet the needs of all other child nutrition programs, domestic and foreign food assistance and export enhancement programs. The Secretary shall require reimbursement from the Department of Defense for the costs, or some portion thereof, of delivering such commodities to overseas locations, unless the Secretary determines that it is in the best interest of the program that the Department of Agriculture shall assume such costs.
 
 #### (i) Audits
 
@@ -530,7 +530,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;(A) the term “adult day care center” means any public agency or private nonprofit organization, or any proprietary title XIX or title XX center, which—
 
-&emsp;&emsp;(i) is licensed or approved by Federal, State, or local authorities to provide adultday care services to chronically impaired disabled adults or persons 60 years of age or older in a group setting outside their homes, or a group living arrangement, on a less than 24-hour basis; and
+&emsp;&emsp;(i) is licensed or approved by Federal, State, or local authorities to provide adult day care services to chronically impaired disabled adults or persons 60 years of age or older in a group setting outside their homes, or a group living arrangement, on a less than 24-hour basis; and
 
 &emsp;&emsp;(ii) provides for such care and services directly or under arrangements made by the agency or organization whereby the agency or organization maintains professional management responsibility for all such services; and
 
@@ -544,7 +544,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 (5) A person described in paragraph (1) shall be considered automatically eligible for free meals or supplements under this subsection, without further application or eligibility determination, if the person is—
 
-&emsp;(A) a member of a household receiving assistance under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.); or
+&emsp;(A) a member of a household receiving assistance under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.); or
 
 &emsp;(B) a recipient of assistance under title XVI or XIX of the Social Security Act \[42 U.S.C. 1381 et seq., 1396 et seq.\].
 
@@ -720,7 +720,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;A meal or supplement claimed for reimbursement shall be served without charge.
 
-(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881.)
+(June 4, 1946, ch. 281, §17, as added Pub. L. 94–105, §16, Oct. 7, 1975, 89 Stat. 522; amended Pub. L. 95–166, §§3, 19(d), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §2, Nov. 10, 1978, 92 Stat. 3603; Pub. L. 96–499, title II, §§207(a), 208(b), (c), Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§810, 817(c), 819(k), Aug. 13, 1981, 95 Stat. 528, 532, 534; Pub. L. 99–500, title III, §§361, 372(a), Oct. 18, 1986, 100 Stat. 1783–367, 1783–369, and Pub. L. 99–591, title III, §§361, 372(a), Oct. 30, 1986, 100 Stat. 3341–370, 3341–372; Pub. L. 99–661, div. D, title IV, §4401, title V, §4502(a), Nov. 14, 1986, 100 Stat. 4079, 4080; Pub. L. 100–175, title IV, §401, Nov. 29, 1987, 101 Stat. 972; Pub. L. 100–435, title II, §§211, 214, Sept. 19, 1988, 102 Stat. 1657, 1659; Pub. L. 100–460, title VI, §641, Oct. 1, 1988, 102 Stat. 2265; Pub. L. 101–147, title I, §§105(a), (b), 131(b), title II, §204(a), title III, §§310, 312(2), Nov. 10, 1989, 103 Stat. 883, 907, 909, 915, 916; Pub. L. 102–342, title II, §§202, 203, Aug. 14, 1992, 106 Stat. 913; Pub. L. 102–375, title VIII, §811(a), Sept. 30, 1992, 106 Stat. 1295; Pub. L. 103–171, §3(b)(4), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 103–448, title I, §§105(c), 109(b), 116, Nov. 2, 1994, 108 Stat. 4702, 4705, 4714; Pub. L. 104–193, title VII, §708(a)–(j), Aug. 22, 1996, 110 Stat. 2293–2299; Pub. L. 105–336, title I, §§101(b), 107(a)–(j)(1), (2)(B), (3)(C), Oct. 31, 1998, 112 Stat. 3144, 3149–3153; Pub. L. 106–224, title II, §243(a), (b)(1)–(4)(A), (5), (c)–(g)(1), (h), (i), June 20, 2000, 114 Stat. 413–420; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–472, title III, §307(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–214; Pub. L. 107–76, title VII, §§743, 771, Nov. 28, 2001, 115 Stat. 738, 745; Pub. L. 108–7, div. A, title VII, §735, Feb. 20, 2003, 117 Stat. 43; Pub. L. 108–134, §2, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §2, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §119(a)–(h), June 30, 2004, 118 Stat. 753–755; Pub. L. 110–134, §29(c)(2), Dec. 12, 2007, 121 Stat. 1449; Pub. L. 110–161, div. A, title VII, §744, Dec. 26, 2007, 121 Stat. 1881; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Z), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Z), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -736,9 +736,11 @@ The Agricultural Act of 1949, referred to in subsec. (h)(2), is act Oct. 31, 194
 
 The Older Americans Act of 1965, referred to in subsec. (<i>o</i>)(3)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Part C of title III of the Older Americans Act of 1965 is classified generally to part C (§3030e et seq.) of subchapter III of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (<i>o</i>)(5)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (<i>o</i>)(5)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 October 1, 1988, referred to in subsec. (<i>o</i>)(3)(A) \[formerly (p)(3)(A)\], was in the original “enactment”, which was translated as meaning the date of enactment of Pub. L. 100–460, which amended subsec. (p)(3)(A) generally, to reflect the probable intent of Congress.
 
@@ -746,7 +748,9 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2007—Subsec. (c)(5). Pub. L. 110–134 substituted “the child meets the eligibility criteria prescribed undersection 645(a)(1)(B) of the Head Start Act (42 U.S.C. 9840(a)(1)(B))” for “the child is a member of a family that meets the low-income criteria prescribed under section 645(a)(1)(A) of the Head Start Act (42 U.S.C. 9840(a)(1)(A))”.
+2008—Subsec. (<i>o</i>)(5)(A). Pub. L. 110–246, §4002(b)(1)(B), (2)(Z), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+2007—Subsec. (c)(5). Pub. L. 110–134 substituted “the child meets the eligibility criteria prescribed under section 645(a)(1)(B) of the Head Start Act (42 U.S.C. 9840(a)(1)(B))” for “the child is a member of a family that meets the low-income criteria prescribed under section 645(a)(1)(A) of the Head Start Act (42 U.S.C. 9840(a)(1)(A))”.
 
 Subsec. (r)(5). Pub. L. 110–161 substituted “eight” for “seven” and “six” for “five” and inserted “West Virginia,” before “Illinois, Pennsylvania,”.
 
@@ -836,7 +840,7 @@ Subsec. (r)(2). Pub. L. 106–224, §243(i)(1), inserted “meals or” before �
 
 Subsec. (r)(4). Pub. L. 106–224, §243(i)(2)(A), substituted “Meal and supplement” for “Supplement” in par. heading.
 
-Subsec. (r)(4)(A). Pub. L. 106–224, §243(i)(2)(B), substituted “only for one meal per child per day and one supplement per child per day” for “only for—”, struck out “(i) a supplement” before “served under”, substituted a period for “; and”, and struck out cl. (ii) which read as follows: “one supplement per child per day.”
+Subsec. (r)(4)(A). Pub. L. 106–224, §243(i)(2)(B), substituted “only for one meal per child per day and one supplement per child per day” for “only for—”, struck out “(i) a supplement” before “served under”, substituted a period for “; and”, and struck out cl. (ii)which read as follows: “one supplement per child per day.”
 
 Subsec. (r)(4)(B). Pub. L. 106–224, §243(i)(2)(C), in par. heading, substituted “Rates” for “Rate”, added cl. (i), designated existing provisions as cl. (ii), and inserted cl. (ii) heading.
 
@@ -908,7 +912,7 @@ Subsec. (f)(4). Pub. L. 104–193, §708(f)(2), substituted “State may provide
 
 Subsec. (g)(1)(A). Pub. L. 104–193, §708(g)(1), struck out at end “Such meals shall be served free to needy children.”
 
-Subsec. (g)(1)(B). Pub. L. 104–193, §708(g)(2), struck out at end “The Secretary shall provide additional technical assistance to those institutions and family or group day care home sponsoring organizations that are having difficulty maintaining compliance with the requirements.”
+Subsec. (g)(1)(B). Pub. L. 104–193, §708(g)(2), struck out at end “The Secretary shall provide additional technical assistance to those institutions and family orgroup day care home sponsoring organizations that are having difficulty maintaining compliance with the requirements.”
 
 Subsec. (k). Pub. L. 104–193, §708(h), added heading and text of subsec. (k) and struck out former subsec. (k) consisting of pars. (1) to (3) which related to training and technical assistance, monitoring, research, and demonstration projects.
 
@@ -1000,7 +1004,7 @@ Subsec. (p)(5). Pub. L. 100–460, §641(b), added par. (5).
 
 Subsec. (e). Pub. L. 99–500 and Pub. L. 99–591, §361, and Pub. L. 99–661, §4401, amended subsec. (e) identically, designating existing provisions as par. (1), substituting “Except as provided in paragraph (2), the” for “The”, and adding pars. (2) and (3).
 
-1981—Subsec. (a). Pub. L. 97–35, §810(a), inserted provisions respecting 25 percent requirement for children receiving nonresidential day care services, and reimbursement for meals and supplements.
+1981—Subsec. (a). Pub. L. 97–35, §810(a), inserted provisions respecting 25 percent requirement for childrenreceiving nonresidential day care services, and reimbursement for meals and supplements.
 
 Subsec. (b). Pub. L. 97–35, §810(b), substituted provisions respecting applicability of subsec. (f), for provisions respecting applicability of subsec. (c).
 
@@ -1060,13 +1064,19 @@ Subsec. (j)(1). Pub. L. 95–166, §3, substituted “food service equipment ass
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(Z) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 119(a), (b), (d)–(f), (h) of Pub. L. 108–265 effective June 30, 2004, and amendment by section 119(c), (g) of Pub. L. 108–265 effective Oct. 1, 2004, see section 502(a), (b)(2) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–224, title II, §243(b)(4)(B), June 20, 2000, 114 Stat. 417, provided that: “In the case of a child that is enrolled in a sponsored child care center or family or group day care home participating in the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) before the date of the enactment of this Act \[June 20, 2000\], the center or home shall provide information to the child's parents or guardians pursuant to section 17(d)(3) of that Act \[42 U.S.C. 1766(d)(3)\], as added by subparagraph (A), not later than 90 days after the date of the enactment of this Act.”
+Pub. L. 106–224, title II, §243(b)(4)(B), June 20, 2000, 114 Stat. 417, provided that: “In the case of a child that is enrolled in a sponsored child care center or family or group day care home participating in the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) before the date of the enactment of this Act \[June 20, 2000\], the center or home shall provide information to the child's parents or guardians pursuant to section 17(d)(3) of that Act \[42 U.S.C. 1766(d)(3)\], as added bysubparagraph (A), not later than 90 days after the date of the enactment of this Act.”
 
 Pub. L. 106–224, title II, §243(g)(2), June 20, 2000, 114 Stat. 419, provided that: “The Secretary may carry out demonstration projects in the State described in section 17(p)(3)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1766(p)(3)(C)\], as added by paragraph (1)(B)(iv), beginning not earlier than October 1, 2001.”
 
@@ -1174,7 +1184,7 @@ Pub. L. 108–265, title I, §119(j), June 30, 2004, 118 Stat. 755, provided tha
 
 “(1)
 
-In general.—Subject to the availability of funds made available under paragraph (6), for a period of 4 successive years, the Secretary of Agriculture shall award to 1 or more entities with expertise in designing and implementing health education programs for limited-English-proficient individuals 1 or more grants to enhance obesity prevention activities for child care centers and sponsoring organizations providing services to limited-English-proficient individuals through the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) in each of 4 States selected by the Secretary in accordance with paragraph (2).
+In general.—Subject to the availability of funds made available under paragraph (6), for a period of 4 successive years, the Secretary of Agriculture shall award to 1 or more entities with expertise in designing and implementing health education programs for limited-English-proficient individuals 1 or more grants to enhance obesity prevention activities for child carecenters and sponsoring organizations providing services to limited-English-proficient individuals through the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766) in each of 4 States selected by the Secretary in accordance with paragraph (2).
 
 “(2)
 

@@ -110,7 +110,7 @@ The Higher Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–32
 
 #### Prior Provisions
 
-A prior section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to plan for program to be assisted, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6674, Pub. L. 89–10, title II, §2304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3634, related to plan for program to be assisted, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “6602”.</i>
 

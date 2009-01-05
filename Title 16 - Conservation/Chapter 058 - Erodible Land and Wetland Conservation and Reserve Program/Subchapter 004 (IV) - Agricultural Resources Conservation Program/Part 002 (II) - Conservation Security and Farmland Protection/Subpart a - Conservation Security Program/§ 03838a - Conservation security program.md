@@ -22,7 +22,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (A) Conservation reserve program
 
-&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I of thissubchapter shall not be eligible for enrollment in the conservation security program.
+&emsp;&emsp;Land enrolled in the conservation reserve program under subpart B of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
 
 #### (B) Wetlands reserve program
 
@@ -30,7 +30,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (C) Grassland reserve program
 
-&emsp;&emsp;Land enrolled in the grassland reserve program established under subpart C of this part shall not be eligible for enrollment in the conservation security program.
+&emsp;&emsp;Land enrolled in the grassland reserve program established under subpart D of this part shall not be eligible for enrollment in the conservation security program.
 
 #### (D) Conversion to cropland
 
@@ -254,7 +254,33 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1) of this section, to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
 
-(Pub. L. 99–198, title XII, §1238A, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116 Stat. 225; amended Pub. L. 109–171, title I, §1202(a), Feb. 8, 2006, 120 Stat. 5.)
+#### (g) Prohibition on conservation security program contracts; effect on existing contracts
+
+#### (1) Prohibition
+
+&emsp;A conservation security contract may not be entered into or renewed under this subpart after September 30, 2008.
+
+#### (2) Exception
+
+&emsp;This subpart, and the terms and conditions of the conservation security program, shall continue to apply to—
+
+&emsp;&emsp;(A) conservation security contracts entered into on or before September 30, 2008; and
+
+&emsp;&emsp;(B) any conservation security contract entered into after that date, but for which the application for the contract was received during the 2008 sign-up period.
+
+#### (3) Effect on payments
+
+&emsp;The Secretary shall make payments under this subpart with respect to conservation security contracts described in paragraph (2) during the remaining term of the contracts.
+
+#### (4) Regulations
+
+&emsp;A contract described in paragraph (2) may not be administered under the regulations issued to carry out the conservation stewardship program.
+
+(Pub. L. 99–198, title XII, §1238A, as added Pub. L. 107–171, title II, §2001(a), May 13, 2002, 116 Stat. 225; amended Pub. L. 109–171, title I, §1202(a), Feb. 8, 2006, 120 Stat. 5; Pub. L. 110–234, title II, §2301(b), (c), May 22, 2008, 122 Stat. 1047, 1048; Pub. L. 110–246, §4(a), title II, §2301(b), (c), June 18, 2008, 122 Stat. 1664, 1775, 1776.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -262,5 +288,13 @@ A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 10
 
 #### Amendments
 
+2008—Subsec. (b)(3)(C). Pub. L. 110–246, §2301(c), substituted “subpart D” for “subpart C”.
+
+Subsec. (g). Pub. L. 110–246, §2301(b), added subsec. (g).
+
 2006—Subsec. (a). Pub. L. 109–171 substituted “2011” for “2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

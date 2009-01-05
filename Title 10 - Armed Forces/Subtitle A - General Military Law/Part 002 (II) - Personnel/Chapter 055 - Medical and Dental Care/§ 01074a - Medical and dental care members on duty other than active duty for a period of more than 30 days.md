@@ -30,7 +30,7 @@
 
 (c) A member is not entitled to benefits under subsection (b) if the injury, illness, or disease, or aggravation of an injury, illness, or disease described in subsection (a)(2), is the result of the gross negligence or misconduct of the member.
 
-(d)(1) The Secretary of the Army shall provide to members of the Selected Reserve of the Army who are assigned to units scheduled for deployment within 75 days after mobilization the following medical and dental services:
+(d)(1) The Secretary concerned shall provide to members of the Selected Reserve who are assigned to units scheduled for deployment within 75 days after mobilization the following medical and dental services:
 
 &emsp;(A) An annual medical screening.
 
@@ -48,13 +48,25 @@
 
 (f)(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty for a period of more than 30 days, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
 
-(2) The notification to members of the Ready Reserve described in paragraph (1) shall includenotice that the members are eligible for screening and care under this section.
+(2) The notification to members of the Ready Reserve described in paragraph (1) shall include notice that the members are eligible for screening and care under this section.
 
 (3) A member provided medical or dental screening or care under paragraph (1) may not be charged for the screening or care.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525.)
+(g)(1) The Secretary concerned may provide to any member of the Selected Reserve not described in subsection (d)(1) or (f), and to any member of the Individual Ready Reserve described in section 10144(b) of this title the medical and dental services specified in subsection (d)(1) if the Secretary determines that the receipt of such services by such member is necessary to ensure that the member meets applicable standards of medical and dental readiness.
+
+(2) Services may not be provided to a member under this subsection for a condition that is the result of the member's own misconduct.
+
+(3) The services provided under this subsection shall be provided at no cost to the member.
+
+(h) Amounts available for operation and maintenance of a reserve component of the armed forces may be available for purposes of this section to ensure the medical and dental readiness of members of such reserve component.
+
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525; Pub. L. 110–417, \[div. A\], title VII, §735(a), Oct. 14, 2008, 122 Stat. 4513.)
 
 #### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–417, §735(a)(1), substituted “The Secretary concerned shall provide to members of the Selected Reserve” for “The Secretary of the Army shall provide to members of the Selected Reserve of the Army”.
+
+Subsecs. (g), (h). Pub. L. 110–417, §735(a)(2), (3), added subsecs. (g) and (h).
 
 2003—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
@@ -126,5 +138,5 @@ Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section 1012(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enactingthis section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
+Section 1012(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 

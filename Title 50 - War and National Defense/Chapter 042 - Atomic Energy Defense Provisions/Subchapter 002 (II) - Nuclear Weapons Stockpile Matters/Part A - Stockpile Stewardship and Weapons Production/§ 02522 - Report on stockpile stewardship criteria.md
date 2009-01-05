@@ -24,5 +24,5 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
 

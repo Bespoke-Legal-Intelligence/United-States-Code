@@ -16,3 +16,4 @@
 - [&sect; 03199 - Requirements for use of funds](%C2%A7%2003199%20-%20Requirements%20for%20use%20of%20funds.md)
 - [&sect; 03200 - Matching funds](%C2%A7%2003200%20-%20Matching%20funds.md)
 - [&sect; 03201 - Funds appropriated or otherwise made available pursuant to other provisions of law](%C2%A7%2003201%20-%20Funds%20appropriated%20or%20otherwise%20made%20available%20pursuant%20to%20other%20provisions%20of%20law.md)
+- [&sect; 03202 - Research and education grants for the study of antibiotic-resistant bacteria](%C2%A7%2003202%20-%20Research%20and%20education%20grants%20for%20the%20study%20of%20antibiotic-resistant%20bacteria.md)

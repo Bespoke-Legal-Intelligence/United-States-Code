@@ -28,9 +28,13 @@ Pub. L. 105–113, §1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Ac
 
 Pub. L. 96–355, §1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act \[enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2204b of this title\] may be cited as the ‘Rural Development Policy Act of 1980’.”
 
-#### Short Title
+#### Short Title of 1956 Amendment
 
 Act Aug. 3, 1956, §1, provided that: “This Act \[enacting sections 428a, 1040, 2228, 2229 and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs\] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
+
+#### Short Title
+
+This section popularly known as the “Department of Agriculture Organic Act”.
 
 #### Establishment of Personnel Ceiling for Fiscal Years 1982, 1983, and 1984
 
@@ -62,7 +66,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(k) The functions of the Secretary of the Interior under section 10 of the Act of March 1, 1911 (36 Stat. 962; 16 U.S.C. 519), with respect to sales of small tracts of acquired national forest lands found chiefly valuable for agriculture.
 
-“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950 (64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
+“(<i>l</i>) The functions of the Secretary of the Interior under section 402 of Reorganization Plan Numbered 3 of 1946 (60 Stat. 1099), section 3 of the Act of September 1, 1949 (63 Stat. 683; 30 U.S.C. 192c), the Act of June 30, 1950\(64 Stat. 311; 16 U.S.C. 508b), section 3 of the Act of June 28, 1952 (66 Stat. 285), or otherwise, with respect to the use and disposal from lands under the jurisdiction of the Secretary of Agriculture of those mineral materials which the Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under the Act of July 31, 1947 (61 Stat. 681), as amended by the Act of July 23, 1955 (69 Stat. 367; 30 U.S.C. 601 and the following).
 
 “
 
@@ -72,7 +76,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 “(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
-“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchangeor sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
+“(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 
 “(e) All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior.”
 

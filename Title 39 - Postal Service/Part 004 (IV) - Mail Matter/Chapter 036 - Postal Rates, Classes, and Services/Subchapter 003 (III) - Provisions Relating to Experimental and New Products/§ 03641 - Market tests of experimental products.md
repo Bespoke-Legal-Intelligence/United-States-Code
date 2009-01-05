@@ -42,7 +42,7 @@ In general.—At least 30 days before initiating a market test under this sectio
 
 &emsp;(2)
 
-Safeguards.—For a competitive experimental product, the provisions of section504(g) shall be available with respect to any information required to be filed under paragraph (1) to the same extent and in the same manner as in the case of any matter described in section 504(g)(1). Nothing in paragraph (1) shall be considered to permit or require the publication of any information as to which confidential treatment is accorded under the preceding sentence (subject to the same exception as set forth in section 504(g)(3)).
+Safeguards.—For a competitive experimental product, the provisions of section 504(g) shall be available with respect to any information required to be filed under paragraph (1) to the same extent and in the same manner as in the case of any matter described in section 504(g)(1). Nothing in paragraph (1) shall be considered to permit or require the publication of any information as to which confidential treatment is accorded under the preceding sentence (subject to the same exception as set forth in section 504(g)(3)).
 
 (d)
 
@@ -122,7 +122,7 @@ Section 6(b)(1) of Pub. L. 94–421 provided that: “The amendment made by subs
 
 #### Applicability of Former Provisions of Section to Rate Change Request Made on September 18, 1975, Under Docket Number R76–1
 
-Section 6(b)(2) of Pub. L. 94–421 provided that: “The provisions of section 3641 of title 39, United StatesCode, as such provisions were in effect on the day before the date of the enactment of this Act \[Sept. 24, 1976\], shall apply to any temporary rate or fee established by the Postal Service pursuant to its request to the Postal Rate Commission \[now Postal Regulatory Commission\], dated September 18, 1975, for a recommended decision, bearing Docket Number R76–1.”
+Section 6(b)(2) of Pub. L. 94–421 provided that: “The provisions of section 3641 of title 39, United States Code, as such provisions were in effect on the day before the date of the enactment of this Act \[Sept. 24, 1976\], shall apply to any temporary rate or fee established by the Postal Service pursuant to its request to the Postal Rate Commission \[now Postal Regulatory Commission\], dated September 18, 1975, for a recommended decision, bearing Docket Number R76–1.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3633(a)(3)”.</i>
 

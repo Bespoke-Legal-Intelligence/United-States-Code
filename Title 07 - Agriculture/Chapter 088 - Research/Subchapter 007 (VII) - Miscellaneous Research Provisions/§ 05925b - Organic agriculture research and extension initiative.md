@@ -12,13 +12,17 @@ In consultation with the National Agricultural Research, Extension, Education, a
 
 &emsp;(4) determining desirable traits for organic commodities;
 
-&emsp;(5) identifying marketing and policy constraints on the expansion of organic agriculture; and
+&emsp;(5) identifying marketing and policy constraints on the expansion of organic agriculture;
 
-&emsp;(6) conducting advanced on-farm research and development that emphasizes observation of, experimentation with, and innovation for working organic farms, including research relating to production and marketing and to socioeconomic conditions.
+&emsp;(6) conducting advanced on-farm research and development that emphasizes observation of, experimentation with, and innovation for working organic farms, including research relating to production and marketing and to socioeconomic conditions;
+
+&emsp;(7) examining optimal conservation and environmental outcomes relating to organically produced agricultural products; and
+
+&emsp;(8) developing new and improved seed varieties that are particularly suited for organic agriculture.
 
 #### (b) Grant types and process, prohibition on construction
 
-Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
 
 #### (c) Matching funds required
 
@@ -42,15 +46,51 @@ Following the completion of a peer review process for grant proposals received u
 
 On October 1, 2003, and each October 1 thereafter through October 1, 2007, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $3,000,000 to the Secretary of Agriculture for this section.
 
-(Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449.)
+#### (f) Funding
+
+#### (1) In general
+
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+
+&emsp;&emsp;(A) $18,000,000 for fiscal year 2009; and
+
+&emsp;&emsp;(B) $20,000,000 for each of fiscal years 2010 through 2012.
+
+#### (2) Additional funding
+
+&emsp;In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2009 through 2012.
+
+(Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449; Pub. L. 110–234, title VII, §§7206(a), 7406(d)(3), May 22, 2008, 122 Stat. 1238, 1252; Pub. L. 110–246, §4(a), title VII, §§7206(a), 7406(d)(3), June 18, 2008, 122 Stat. 1664, 1999, 2013.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(7), (8). Pub. L. 110–246, §7206(a)(1), added pars. (7) and (8).
+
+Subsec. (b). Pub. L. 110–246, §7406(d)(3), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
+
+Subsec. (f). Pub. L. 110–246, §7206(a)(2), added subsec. (f).
 
 2002—Subsec. (a)(1). Pub. L. 107–171, §7218(1)(A), inserted “, breeding,” after “production”.
 
 Subsec. (a)(4) to (6). Pub. L. 107–171, §7218(1)(B)–(D), added pars. (4) to (6).
 
 Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7406(d)(3) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under section 450i of this title.
+
+#### Coordination of Projects and Activities
+
+Pub. L. 110–234, title VII, §7206(b), May 22, 2008, 122 Stat. 1239, and Pub. L. 110–246, §4(a), title VII, §7206(b), June 18, 2008, 122 Stat. 1664, 2000, provided that: “In carrying out the amendment made by this section \[amending this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Report on Producers and Handlers of Organic Agricultural Products
 

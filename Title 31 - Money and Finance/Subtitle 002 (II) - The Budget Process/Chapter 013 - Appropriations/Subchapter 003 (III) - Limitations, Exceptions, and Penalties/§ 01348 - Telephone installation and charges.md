@@ -68,7 +68,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1984 Amendment
 
-Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be usedto reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
+Section 811(b) of Pub. L. 98–407 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1984. Funds appropriated to the Department of Defense may be used to reimburse persons for expenditures made after December 31, 1983, for the installation, repair, and maintenance of telephone wiring in any Government-owned or leased housing unit before the date of the enactment of this Act \[Aug. 28, 1984\].”
 
 #### Employees Authorized To Work at Home
 

@@ -4,7 +4,7 @@
 
 (b) An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general.
 
-(c) The principal duty of the Director for Expeditionary Warfare shall be to supervise the performance of all staff responsibilities of the Chief of Naval Operations regarding expeditionary warfare, including responsibilities regarding amphibious lift, mine warfare, naval fire support, and other missions essential to supporting expeditionary warfare.
+(c) The principal duty of the Director for Expeditionary Warfare shall be to supervise theperformance of all staff responsibilities of the Chief of Naval Operations regarding expeditionary warfare, including responsibilities regarding amphibious lift, mine warfare, naval fire support, and other missions essential to supporting expeditionary warfare.
 
 (d) The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 

@@ -64,7 +64,7 @@
 
 (4) Before the Administrator implements any proposal referred to in paragraph (1) of this subsection, the Administrator shall—
 
-&emsp;(A) submit to the appropriate committees of the Congress the administrative record of the decision (including any determination by the Council under paragraph (2)) and a statement of the procedures followed or to be followed for compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\],
+&emsp;(A) submit to the appropriate committees of the Congress the administrative record of the decision (including any determination by theCouncil under paragraph (2)) and a statement of the procedures followed or to be followed for compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\],
 
 &emsp;(B) publish notice of the decision in the Federal Register, and
 
@@ -128,7 +128,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (6) Prior to granting any credit or providing services pursuant to this subsection, the Administrator shall—
 
-&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in suchnotice the methodology the Administrator proposes to use in determining the amount of any such credit;
+&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in such notice the methodology the Administrator proposes to use in determining the amount of any such credit;
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
@@ -152,7 +152,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 (1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
-(2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
+(2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the secondsentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
 #### (k) Equitable distribution of benefits
 
@@ -172,7 +172,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 
-Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utilityfor ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
+Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
 
 (Pub. L. 96–501, §6, Dec. 5, 1980, 94 Stat. 2717.)
 

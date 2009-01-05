@@ -38,7 +38,7 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 &emsp;(2) any person who files a petition under section 6295(n) of this title which is denied by the Secretary.
 
-(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427,title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ The Librarian is authorized to—
 
 &emsp;&emsp;(A) initiation, encouragement, support, organization, and promotion of research, scholarship, and training in American folklife;
 
-&emsp;&emsp;(B) initiation, promotion, support, organization, and production of live performances,festivals, exhibits, and workshops related to American folklife;
+&emsp;&emsp;(B) initiation, promotion, support, organization, and production of live performances, festivals, exhibits, and workshops related to American folklife;
 
 &emsp;&emsp;(C) purchase, receipt, production, arrangement for, and support of the production of exhibitions, displays, publications, and presentations (including presentations by still and motion picture films, and audio and visual magnetic tape recordings) which represent or illustrate some aspect of American folklife; and
 

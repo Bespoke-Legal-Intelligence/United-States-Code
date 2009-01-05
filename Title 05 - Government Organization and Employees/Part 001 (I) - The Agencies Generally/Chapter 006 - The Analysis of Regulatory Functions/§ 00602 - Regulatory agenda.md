@@ -10,7 +10,7 @@
 
 (b) Each regulatory flexibility agenda shall be transmitted to the Chief Counsel for Advocacy of the Small Business Administration for comment, if any.
 
-(c) Each agency shall endeavor to provide notice of each regulatory flexibility agenda to small entities or their representatives through direct notification or publication of the agenda in publications likely to be obtained by suchsmall entities and shall invite comments upon each subject area on the agenda.
+(c) Each agency shall endeavor to provide notice of each regulatory flexibility agenda to small entities or their representatives through direct notification or publication of the agenda in publications likely to be obtained by such small entities and shall invite comments upon each subject area on the agenda.
 
 (d) Nothing in this section precludes an agency from considering or acting on any matter not included in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
 

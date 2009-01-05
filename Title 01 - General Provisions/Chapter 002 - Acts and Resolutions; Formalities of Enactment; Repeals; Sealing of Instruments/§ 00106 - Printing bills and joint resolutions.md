@@ -44,9 +44,9 @@ Pub. L. 106–93, Nov. 10, 1999, 113 Stat. 1310, provided: “That the provision
 
 Pub. L. 105–253, Oct. 12, 1998, 112 Stat. 1887, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the remainder of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations or continuing appropriations for the fiscal year ending September 30, 1999. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
-Pub. L. 105–120, Nov. 26, 1997, 111 Stat. 2527, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived for the balance of the first session of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations for the fiscal year ending on September 30, 1998, or continuing appropriations for the fiscal year ending on September 30, 1998. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
+Pub. L. 105–120, Nov. 26, 1997, 111 Stat. 2527, provided: “That the provisions of sections 106 and 107 of title 1,United States Code, are waived for the balance of the first session of the One Hundred Fifth Congress with respect to the printing (on parchment or otherwise) of the enrollment of any bill or joint resolution making general appropriations for the fiscal year ending on September 30, 1998, or continuing appropriations for the fiscal year ending on September 30, 1998. The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
-Pub. L. 105–32, Aug. 1, 1997, 111 Stat. 250, provided: “That the provisions of sections 106 and 107 of title 1,United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 2014 \[Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788\] and of H.R. 2015 \[Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251\] of the One Hundred Fifth Congress. The enrollment of each of those bills shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
+Pub. L. 105–32, Aug. 1, 1997, 111 Stat. 250, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 2014 \[Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788\] and of H.R. 2015 \[Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251\] of the One Hundred Fifth Congress. The enrollment of each of those bills shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
 Pub. L. 104–207, Sept. 30, 1996, 110 Stat. 3008, provided that:
 
@@ -150,7 +150,7 @@ Certification by President; Preservation in Archives.—Upon certification by th
 
 “(d)
 
-Publication of Law.—In preparing the bill or joint resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certifiedby the President under subsection (c) in lieu of the hand enrollment.
+Publication of Law.—In preparing the bill or joint resolution for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
 #### “SEC. 3. DEFINITIONS.
 
@@ -254,7 +254,7 @@ Certification by President; Legal Effect.—Upon certification by the President 
 
 “(d)
 
-Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing the bill concerned for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
+Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing the bill concerned for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the UnitedStates shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
 “(e)
 

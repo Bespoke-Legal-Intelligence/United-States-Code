@@ -20,13 +20,13 @@ Each report shall contain the following information for the reporting period:
 
 &emsp;(6) A description of the circumstances surrounding inspections described in paragraph (2), including instances of possible industrial espionage and misconduct of inspectors.
 
-&emsp;(7) The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.
+&emsp;(7) The identity of parties claiming loss of trade secrets, the circumstances surroundingthose losses, and the efforts taken by the United States Government to redress those losses.
 
 &emsp;(8) A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.
 
 #### (c) “Appropriate congressional committees” defined
 
-The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and theSelect Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 (Pub. L. 105–277, div. I, title III, §309, Oct. 21, 1998, 112 Stat. 2681–879.)
 

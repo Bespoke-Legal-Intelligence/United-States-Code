@@ -20,7 +20,7 @@ Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to 
 
 Subsec. (c). Pub. L. 97–468, §214(b), struck out subsec. (c) which defined “Milwaukee Railroad”.
 
-1981—Subsec. (a). Pub. L. 97–130 gave the Commission authority to authorize continued rail service under this section over the lines of the Rock Island Railroad untilthe disposition of the properties of the estate of the Rock Island Railroad.
+1981—Subsec. (a). Pub. L. 97–130 gave the Commission authority to authorize continued rail service under this section over the lines of the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

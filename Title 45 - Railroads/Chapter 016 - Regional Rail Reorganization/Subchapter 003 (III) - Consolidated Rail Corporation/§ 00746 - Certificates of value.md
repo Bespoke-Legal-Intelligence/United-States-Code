@@ -16,7 +16,7 @@ A separate series of certificates of value shall be issued to each railroad in r
 
 &emsp;(A) the sum of the fair market value of the series B preferred stock applicable to such certificate, the fair market value of the common stock applicable to such certificate, and all cash dividends theretofore paid on any such series B preferred stock and on any such common stock; and
 
-&emsp;(B) any sums paid to a transferor of rail properties to whom such series of certificates of value was issued resulting from sales or leases by the Corporation of properties transferred to it by such transferor divided by the number of certificates of value distributed to such transferor.
+&emsp;(B) any sums paid to a transferor of rail properties to whom such series of certificates of value was issued resulting from sales or leases by the Corporation of properties transferred to it by such transferor divided by thenumber of certificates of value distributed to such transferor.
 
 (3) The number of shares of series B preferred stock and common stock applicable to each certificate of value of any series, pursuant to paragraph (2) of this subsection, shall be—
 

@@ -4,3 +4,5 @@ Notwithstanding any other law, an indictment may be found or an information inst
 
 (Added Pub. L. 109–248, title II, §211(1), July 27, 2006, 120 Stat. 616.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+

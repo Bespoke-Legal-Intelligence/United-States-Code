@@ -6,7 +6,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individuals who are Indians to be represented by the tribal organization;
 
-&emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
+&emsp;(2) provide for the use of such methods of administration as are necessary for the properand efficient administration of the program to be assisted;
 
 &emsp;(3) provide that the tribal organization will make such reports in such form and containing such information, as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to assure the correctness of such reports;
 
@@ -54,7 +54,7 @@ Whenever the Assistant Secretary determines not to approve an application submit
 
 Whenever the Assistant Secretary approves an application of a tribal organization under this part, funds shall be awarded for not less than 12 months.
 
-(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960;amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title VI, §602, title VIII, §801(d), Nov. 13, 2000, 114 Stat. 2287, 2292.)
+(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title VI, §602, title VIII, §801(d), Nov. 13, 2000, 114 Stat. 2287, 2292.)
 
 #### References in Text
 

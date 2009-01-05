@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any wages, salary, employment benefits, or other compensation denied or lost to such employee by reason of the violation; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a case in which wages, salary, employment benefits, or other compensation have not been denied or lost to the employee, any actual monetary losses sustained by the employee as a direct result of the violation, such as the cost of providing care, up to a sum equal to 12 weeks of wages or salary for the employee;
+&emsp;&emsp;&emsp;&emsp;(II) in a case in which wages, salary, employment benefits, or other compensation have not been denied or lost to the employee, any actual monetary losses sustained by the employee as a direct result of the violation, such as the cost of providing care, up to a sum equal to 12 weeks (or 26 weeks, in a case involving leave under section 2612(a)(3) of this title) of wages or salary for the employee;
 
 &emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
 
@@ -50,7 +50,7 @@
 
 #### (2) Civil action
 
-&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover thedamages described in subsection (a)(1)(A) of this section.
+&emsp;The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
 
 #### (3) Sums recovered
 
@@ -86,9 +86,11 @@ The Solicitor of Labor may appear for and represent the Secretary on any litigat
 
 In the case of the Government Accountability Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
 
-(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(3)(G), Jan. 28, 2008, 122 Stat. 131.)
 
 #### Amendments
+
+2008—Subsec. (a)(1)(A)(i)(II). Pub. L. 110–181 inserted “(or 26 weeks, in a case involving leave under section 2612(a)(3) of this title)” after “12 weeks”.
 
 2004—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 

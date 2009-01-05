@@ -2,7 +2,7 @@
 
 #### (a) Funding
 
-Of the funds authorized to be appropriated to the Department of Energy under title XXXI of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510), the Secretary of Energy shall make available $3,000,000 to the State of Washington, $1,000,000 to the State of Oregon, and $1,000,000 to the State of Idaho. Such funds shall be used to develop and implement programs for the benefit of persons who may have been exposed to radiation released from the Department of Energy Hanford Nuclear Reservation (Richland, Washington) between the years 1944 and 1972.
+Of the funds authorized to be appropriated to the Department of Energy under title XXXI of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510), the Secretaryof Energy shall make available $3,000,000 to the State of Washington, $1,000,000 to the State of Oregon, and $1,000,000 to the State of Idaho. Such funds shall be used to develop and implement programs for the benefit of persons who may have been exposed to radiation released from the Department of Energy Hanford Nuclear Reservation (Richland, Washington) between the years 1944 and 1972.
 
 #### (b) Programs
 
@@ -38,7 +38,7 @@ The programs to be developed by the States may include only the following activi
 
 &emsp;(E) The name, address, and telephone number of a person who has been registered and monitored pursuant to subsection (b)(3).
 
-&emsp;(F) Information that identifies the person from whom information referred to in thisparagraph was obtained under a program or any other third party involved with, or identified by, any such information so obtained.
+&emsp;(F) Information that identifies the person from whom information referred to in this paragraph was obtained under a program or any other third party involved with, or identified by, any such information so obtained.
 
 &emsp;(G) Any other personal or medical information that identifies a person or party referred to in subparagraphs (A) through (F).
 
@@ -64,7 +64,7 @@ Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, refer
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(i)(15)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(i)(15)(D)(i), made technical amendment to section catchline.
 
 Subsec. (a). Pub. L. 108–136, §3141(i)(15)(D)(ii), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510)” for “this title”.
 
@@ -72,7 +72,7 @@ Subsec. (c)(2). Pub. L. 108–136, §3141(i)(15)(D)(iii)(I), substituted “May 
 
 Subsec. (c)(3). Pub. L. 108–136, §3141(i)(15)(D)(iii)(II), substituted “May 5, 1992,” for “18 months after the date of the enactment of this Act,”.
 
-1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
+<b>1994</b>—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
 #### Change of Name
 

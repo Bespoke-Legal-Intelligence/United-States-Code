@@ -10,7 +10,7 @@ The members of such Advisory Committee shall receive no compensation for their s
 
 #### (c) Term length
 
-Advisory Committee members shall serve two-year terms. Any individual appointed to fill a vacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
+Advisory Committee members shall serve two-year terms. Any individual appointed to fill avacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
 
 #### (d) Reappointment
 

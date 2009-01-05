@@ -6,7 +6,7 @@
 
 &emsp;(2) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(B), on the later of the date of such individual's last discharge or release from active duty or January 1, 1990; and
 
-&emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
+&emsp;(3) in the case of an individual who becomes entitled to such assistance under section3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
 
 (b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
 
@@ -46,7 +46,7 @@ The date of the enactment of the Veterans Millennium Health Care and Benefits Ac
 
 Subsec. (e)(1). Pub. L. 107–103, §105(c)(2), substituted “section 3011(a)(1)(B), 3011(a)(1)(C), 3012(a)(1)(B), or 3012(a)(1)(C)” for “section 3011(a)(1)(B) or 3012(a)(1)(B)”.
 
-1999—Subsec. (a). Pub. L. 106–117, §702(b)(2), in introductory provisions, substituted “through (g)” for “through (e)” and “subsection (h)” for “subsection (g)”.
+1999—Subsec. (a). Pub. L. 106–117, §702(b)(2), in introductory provisions, substituted “through (g)” for“through (e)” and “subsection (h)” for “subsection (g)”.
 
 Subsecs. (g), (h). Pub. L. 106–117, §702(b)(1), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 

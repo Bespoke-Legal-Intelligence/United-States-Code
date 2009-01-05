@@ -176,7 +176,7 @@ In General.—
 
 &emsp;“(1)
 
-Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under section 70112 of title 46, United States Code, as amended by this Act.
+Development of standards.—Not later than 6 months after the date of enactment of this Act \[Nov. 25, 2002\], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee establishedunder section 70112 of title 46, United States Code, as amended by this Act.
 
 &emsp;“(2)
 

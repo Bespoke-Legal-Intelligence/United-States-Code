@@ -31,12 +31,15 @@
 | [2225\.](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md) | Information technology purchases: tracking and management. |
 | [2226\.](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md) | Contracted property and services: prompt payment of vouchers. |
 | [2227\.](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md) | Electronic submission and processing of claims for contract payments. |
-| [2228\.](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md) | Military equipment and infrastructure: prevention and mitigation of corrosion. |
+| [2228\.](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md) | Office of Corrosion Policy and Oversight. |
 | [2229\.](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md) | Strategic policy on prepositioning of materiel and equipment. |
+| [2229a.](%C2%A7%2002229a%20-%20Annual%20report%20on%20prepositioned%20materiel%20and%20equipment.md) | Annual report on prepositioned materiel and equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title III, §§352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
 
 2006—Pub. L. 109–364, div. A, title III, §351(b), Oct. 17, 2006, 120 Stat. 2160, added item 2229.
 
@@ -84,6 +87,40 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 
 1958—Pub. L. 85–599, §3(c), Aug. 6, 1958, 72 Stat. 516, struck out item 2201 “General functions of Secretary of Defense”.
 
+#### Strategic Management Plan
+
+Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, provided that:
+
+“(d)
+
+Strategic Management Plan Required.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense, acting through the Chief Management Officer of the Department of Defense, shall develop a strategic management plan for the Department of Defense.
+
+&emsp;“(2)
+
+Matters covered.—Such plan shall include, at a minimum, detailed descriptions of—
+
+&emsp;&emsp;“(A) performance goals and measures for improving and evaluating the overall efficiency and effectiveness of the business operations of the Department of Defense and achieving an integrated management system for business support areas within the Department of Defense;
+
+&emsp;&emsp;“(B) key initiatives to be undertaken by the Department of Defense to achieve the performance goals under subparagraph (A), together with related resource needs;
+
+&emsp;&emsp;“(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
+
+&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
+
+&emsp;&emsp;“(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
+
+&emsp;“(3)
+
+Updates.—The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
+
+“(e)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d).”
+
 
 ---
 
@@ -118,5 +155,6 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02225 - Information technology purchases tracking and management](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md)
 - [&sect; 02226 - Contracted property and services prompt payment of vouchers](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md)
 - [&sect; 02227 - Electronic submission and processing of claims for contract payments](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md)
-- [&sect; 02228 - Military equipment and infrastructure prevention and mitigation of corrosion](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md)
+- [&sect; 02228 - Office of Corrosion Policy and Oversight](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md)
 - [&sect; 02229 - Strategic policy on prepositioning of materiel and equipment](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md)
+- [&sect; 02229a - Annual report on prepositioned materiel and equipment](%C2%A7%2002229a%20-%20Annual%20report%20on%20prepositioned%20materiel%20and%20equipment.md)

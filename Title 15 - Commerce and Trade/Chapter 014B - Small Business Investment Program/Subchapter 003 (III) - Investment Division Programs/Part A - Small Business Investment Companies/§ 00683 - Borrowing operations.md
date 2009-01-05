@@ -56,7 +56,7 @@ Amount of exclusion.—The amount excluded under clause (i) for a company shall 
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in an amount equal to more than 20 percent of the private capital of that company.
+Maximum investment.—A company shall not make an Energy Saving qualified investment in any one entity in anamount equal to more than 20 percent of the private capital of that company.
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
@@ -118,7 +118,7 @@ Other terms.—The exclusion of amounts under clause (i) shall be subject to suc
 
 The Administrator—
 
-&emsp;(1) shall not permit a licensee having outstanding leverage to incur third party debtthat would create or contribute to an unreasonable risk of default or loss to the Federal Government; and
+&emsp;(1) shall not permit a licensee having outstanding leverage to incur third party debt that would create or contribute to an unreasonable risk of default or loss to the Federal Government; and
 
 &emsp;(2) shall permit such licensees to incur third party debt only on such terms and subject to such conditions as may be established by the Administrator, by regulation or otherwise.
 
@@ -246,7 +246,7 @@ For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), 
 
 #### Codification
 
-December 2, 1997, referred to in subsec. (b)(2)(B)(ii), was in the original “the date of the enactment of the Small Business Reauthorization Act of 1937” which was translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L. 105–135, as the probable intent of Congress.
+December 2, 1997, referred to in subsec. (b)(2)(B)(ii), was in the original “the date of the enactment of theSmall Business Reauthorization Act of 1937” which was translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L. 105–135, as the probable intent of Congress.
 
 #### Amendments
 
@@ -342,7 +342,7 @@ Subsecs. (g), (h). Pub. L. 102–366, §403, added subsecs. (g) and (h).
 
 Subsec. (c)(6). Pub. L. 101–574, §215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
 
-Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
+Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in section 687i of this title which may be outstanding at any time from any suchcompany shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
 
 1989—Subsec. (c). Pub. L. 101–162 added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
 

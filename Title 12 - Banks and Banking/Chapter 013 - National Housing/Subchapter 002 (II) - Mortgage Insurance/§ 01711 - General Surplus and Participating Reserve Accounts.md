@@ -38,31 +38,11 @@ In determining whether there is a surplus for distribution to mortgagors under t
 
 &emsp;(D) The term “unamortized insurance-in-force” means the remaining obligation on outstanding mortgages which are obligations of the Mutual Mortgage Insurance Fund, as estimated by the Secretary.
 
-#### (g) Annual independent audit of Mutual Mortgage Insurance Fund
-
-The Secretary shall provide for an independent actuarial study of the Mutual Mortgage Insurance Fund to be conducted annually and shall report annually to the Congress regarding the financial status of the Fund.
-
-#### (h) Adjustment of premiums
-
-(1) If, pursuant to the independent annual actuarial study of the Mutual Mortgage Insurance Fund required under subsection (g) of this section, the Secretary determines that the Mutual Mortgage Insurance Fund is not meeting the operational goals under paragraph (2), the Secretary may not issue distributions, and may, by regulation, propose and implement any adjustments to the insurance premiums under section 1709(c) of this title or section 2103(b) of the Omnibus Budget Reconciliation Act of 1990. Upon determining that a premium change is appropriate under the preceding sentence, the Secretary shall immediately notify Congress of the proposed change and the reasons for the change. Any such premium change shall not take effect before the expiration of the 90-day period beginning upon such notification.
-
-(2) The operational goals referred to in paragraph (1) shall be—
-
-&emsp;(A) maintaining an adequate capital ratio;
-
-&emsp;(B) meeting the needs of homebuyers with low downpayments and first-time homebuyers by providing access to mortgage credit;
-
-&emsp;(C) minimizing the risk to the Fund and to homeowners from homeowner default; and
-
-&emsp;(D) avoiding adverse selection.
-
-(June 27, 1934, ch. 847, title II, §205, 48 Stat. 1250; May 28, 1935, ch. 150, §29(b), 49 Stat. 300; Feb. 3, 1938, ch. 13, §3, 52 Stat. 15; June 3, 1939, ch. 175, §11, 53 Stat. 807; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1953, ch. 170, §4, 67 Stat. 122; Aug. 2, 1954, ch. 649, title I, §114, 68 Stat. 594; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–508, title II, §§2104, 2105, Nov. 5, 1990, 104 Stat. 1388–19; Pub. L. 102–550, title V, §508(a), Oct. 28, 1992, 106 Stat. 3782.)
-
-#### References in Text
-
-Section 2103(b) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\], referred to in subsec. (h)(1), is set out as a note under section 1709 of this title.
+(June 27, 1934, ch. 847, title II, §205, 48 Stat. 1250; May 28, 1935, ch. 150, §29(b), 49 Stat. 300; Feb. 3, 1938, ch. 13, §3, 52 Stat. 15; June 3, 1939, ch. 175, §11, 53 Stat. 807; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; June 30, 1953, ch. 170, §4, 67 Stat. 122; Aug. 2, 1954, ch. 649, title I, §114, 68 Stat. 594; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–508, title II, §§2104, 2105, Nov. 5, 1990, 104 Stat. 1388–19; Pub. L. 102–550, title V, §508(a), Oct. 28, 1992, 106 Stat. 3782; Pub. L. 110–289, div. B, title I, §2118(c)(1), July 30, 2008, 122 Stat. 2835.)
 
 #### Amendments
+
+2008—Subsecs. (g), (h). Pub. L. 110–289 struck out subsecs. (g) and (h) which related to annual independent audit of Mutual Mortgage Insurance Fund and adjustment of premiums, respectively.
 
 1992—Subsec. (c). Pub. L. 102–550 inserted at end “The Secretary shall not distribute any share to an eligible mortgagor under this subsection beginning on the date which is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
 

@@ -4,45 +4,63 @@
 
 For purposes of this section, the term “substantial product hazard” means—
 
-&emsp;(1) a failure to comply with an applicable consumer product safety rule which creates a substantial risk of injury to the public, or
+&emsp;(1) a failure to comply with an applicable consumer product safety rule under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission which creates a substantial risk of injury to the public, or
 
 &emsp;(2) a product defect which (because of the pattern of defect, the number of defective products distributed in commerce, the severity of the risk, or otherwise) creates a substantial risk of injury to the public.
 
 #### (b) Noncompliance with applicable consumer product safety rules; product defects; notice to Commission by manufacturer, distributor, or retailer
 
-Every manufacturer of a consumer product distributed in commerce, and every distributor and retailer of such product, who obtains information which reasonably supports the conclusion that such product—
+Every manufacturer of a consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49), distributed in commerce, and every distributor and retailer of such product, who obtains information which reasonably supports the conclusion that such product—
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule or with a voluntary consumer product safety standard upon which the Commission has relied under section 2058 of this title;
 
-&emsp;(2) contains a defect which could create a substantial product hazard described in subsection (a)(2) of this section; or
+&emsp;(2) fails to comply with any other rule, regulation, standard, or ban under this chapter or any other Act enforced by the Commission;
 
-&emsp;(3) creates an unreasonable risk of serious injury or death,
+&emsp;(3) contains a defect which could create a substantial product hazard described in subsection (a)(2) of this section; or
 
-> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk.
+&emsp;(4) creates an unreasonable risk of serious injury or death,
 
-#### (c) Public notice of defect or failure to comply; mail notice
+> shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.
 
-If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
+#### (c) Notice of defect or failure to comply; mail notice
 
-&emsp;(1) To give public notice of the defect or failure to comply.
+(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that notification is required in order to adequately protect the public from such substantial product hazard, or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title, the Commission may order the manufacturer or any distributor or retailer of the product to take any one or more of the following actions:
 
-&emsp;(2) To mail notice to each person who is a manufacturer, distributor, or retailer of such product.
+&emsp;(A) To cease distribution of the product.
 
-&emsp;(3) To mail notice to every person to whom the person required to give notice knows such product was delivered or sold.
+&emsp;(B) To notify all persons that transport, store, distribute, or otherwise handle the product, or to which the product has been transported, sold, distributed, or otherwise handled, to cease immediately distribution of the product.
+
+&emsp;(C) To notify appropriate State and local public health officials.
+
+&emsp;(D) To give public notice of the defect or failure to comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.
+
+&emsp;(E) To mail notice to each person who is a manufacturer, distributor, or retailer of such product.
+
+&emsp;(F) To mail notice to every person to whom the person required to give notice knows such product was delivered or sold.
 
 > Any such order shall specify the form and content of any notice required to be given under such order.
 
+(2) The Commission may require a notice described in paragraph (1) to be distributed in a language other than English if the Commission determines that doing so is necessary to adequately protect the public.
+
+(3) If a district court determines, in an action filed under section 2061 of this title, that the product that is the subject of such action is not an imminently hazardous consumer product, the Commission shall rescind any order issued under this subsection with respect to such product.
+
 #### (d) Repair; replacement; refunds; action plan
 
-If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to take whichever of the following actions the person to whom the order is directed elects:
+(1) If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to provide the notice required by subsection (c) and to take any one or more of the following actions it determines to be in the public interest:
 
-&emsp;(1) To bring such product into conformity with the requirements of the applicable consumer product safety rule or to repair the defect in such product.
+&emsp;(A) To bring such product into conformity with the requirements of the applicable rule, regulation, standard, or ban or to repair the defect in such product.
 
-&emsp;(2) To replace such product with a like or equivalent product which complies with the applicable consumer product safety rule or which does not contain the defect.
+&emsp;(B) To replace such product with a like or equivalent product which complies with the applicable rule, regulation, standard, or ban or which does not contain the defect.
 
-&emsp;(3) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (A) at the time of public notice under subsection (c) of this section, or (B) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
+&emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c) of this section, or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
-> An order under this subsection may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking action under whichever of the preceding paragraphs of this subsection under which such person has elected to act. The Commission shall specify in the order the persons to whom refunds must be made if the person to whom the order is directed elects to take action described in paragraph (3). If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection. An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
+(2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C)..<sup>1</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
+
+(3)(A) If the Commission approves an action plan, it shall indicate its approval in writing.
+
+(B) If the Commission finds that an approved action plan is not effective or appropriate under the circumstances, or that the manufacturer, retailer, or distributor is not executing an approved action plan effectively, the Commission may, by order, amend, or require amendment of, the action plan. In determining whether an approved plan is effective or appropriate under the circumstances, the Commission shall consider whether a repair or replacement changes the intended functionality of the product.
+
+(C) If the Commission determines, after notice and opportunity for comment, that a manufacturer, retailer, or distributor has failed to comply substantially with its obligations under its action plan, the Commission may revoke its approval of the action plan. The manufacturer, retailer, or distributor to which the action plan applies may not distribute in commerce the product to which the action plan relates after receipt of notice of a revocation of the action plan.
 
 #### (e) Reimbursement
 
@@ -52,7 +70,9 @@ If the Commission determines (after affording interested parties, including cons
 
 #### (f) Hearing
 
-An order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+(1) Except as provided in paragraph (2), an order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with section 554 of title 5 except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person's participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+
+(2) The requirement for a hearing in paragraph (1) shall not apply to an order issued under subsection (c) or (d) relating to an imminently hazardous consumer product with regard to which the Commission has filed an action under section 2061 of this title.
 
 #### (g) Preliminary injunction
 
@@ -60,19 +80,119 @@ An order under subsection (c) or (d) of this section may be issued only after an
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
-(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend <sup>1</sup> a preliminary injunction under this subsection.
+(3) The amount in controversy requirement of section 1331 of title 28 does not apply with respect to the jurisdiction of a district court of the United States to issue or exend <sup>2</sup> a preliminary injunction under this subsection.
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
 Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
-(Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117.)
+#### (i) Requirements for recall notices
+
+#### (1) Guidelines
+
+&emsp;Not later than 180 days after August 14, 2008, the Commission shall, by rule, establish guidelines setting forth a uniform class of information to be included in any notice required under an order under subsection (c) or (d) of this section or under section 2061 of this title. Such guidelines shall include any information that the Commission determines would be helpful to consumers in—
+
+&emsp;&emsp;(A) identifying the specific product that is subject to such an order;
+
+&emsp;&emsp;(B) understanding the hazard that has been identified with such product (including information regarding incidents or injuries known to have occurred involving such product); and
+
+&emsp;&emsp;(C) understanding what remedy, if any, is available to a consumer who has purchased the product.
+
+#### (2) Content
+
+&emsp;Except to the extent that the Commission determines with respect to a particular product that one or more of the following items is unnecessary or inappropriate under the circumstances, the notice shall include the following:
+
+&emsp;&emsp;(A) description of the product, including—
+
+&emsp;&emsp;&emsp;(i) the model number or stock keeping unit (SKU) number of the product;
+
+&emsp;&emsp;&emsp;(ii) the names by which the product is commonly known; and
+
+&emsp;&emsp;&emsp;(iii) a photograph of the product.
+
+&emsp;&emsp;(B) A description of the action being taken with respect to the product.
+
+&emsp;&emsp;(C) The number of units of the product with respect to which the action is being taken.
+
+&emsp;&emsp;(D) A description of the substantial product hazard and the reasons for the action.
+
+&emsp;&emsp;(E) An identification of the manufacturers and significant retailers of the product.
+
+&emsp;&emsp;(F) The dates between which the product was manufactured and sold.
+
+&emsp;&emsp;(G) The number and a description of any injuries or deaths associated with the product, the ages of any individuals injured or killed, and the dates on which the Commission received information about such injuries or deaths.
+
+&emsp;&emsp;(H) A description of—
+
+&emsp;&emsp;&emsp;(i) any remedy available to a consumer;
+
+&emsp;&emsp;&emsp;(ii) any action a consumer must take to obtain a remedy; and
+
+&emsp;&emsp;&emsp;(iii) any information a consumer needs in order to obtain a remedy or information about a remedy, such as mailing addresses, telephone numbers, fax numbers, and email addresses.
+
+&emsp;&emsp;(I) Other information the Commission deems appropriate.
+
+#### (j) Substantial product hazard list
+
+#### (1) In general
+
+&emsp;The Commission may specify, by rule, for any consumer product or class of consumer products, characteristics whose existence or absence shall be deemed a substantial product hazard under subsection (a)(2), if the Commission determines that—
+
+&emsp;&emsp;(A) such characteristics are readily observable and have been addressed by voluntary standards; and
+
+&emsp;&emsp;(B) such standards have been effective in reducing the risk of injury from consumer products and that there is substantial compliance with such standards.
+
+#### (2) Judicial review
+
+&emsp;Not later than 60 days after promulgation of a rule under paragraph (1), any person adversely affected by such rule may file a petition for review under the procedures set forth in section 2060 of this title.
+
+(Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117; Pub. L. 110–314, title II, §§214, 223(a), Aug. 14, 2008, 122 Stat. 3052, 3068.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (d), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
+
+Subsec. (b). Pub. L. 110–314, §214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
+
+Pub. L. 110–314, §214(a)(2)(A), substituted “consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in section 30102(a)(7) of title 49), distributed in commerce,” for “consumer product distributed in commerce,” in introductory provisions.
+
+Subsec. (c). Pub. L. 110–314, §214(a)(3)(A), (C), (D), designated existing provisions as par. (1), added subpars. (A) to (C), and redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively.
+
+Subsec. (c)(1). Pub. L. 110–314, §214(a)(3)(B), inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under section 2061 of this title,” after “such substantial product hazard,” in introductory provisions.
+
+Subsec. (c)(1)(D). Pub. L. 110–314, §214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”.
+
+Subsec. (c)(2), (3). Pub. L. 110–314, §214(a)(3)(F), added pars. (2) and (3).
+
+Subsec. (d). Pub. L. 110–314, §214(b)(1), (4), inserted par. (1) designation before “If the Commission” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+
+Subsec. (d)(1). Pub. L. 110–314, §214(b)(2), (3), in introductory provisions inserted “to provide the notice required by subsection (c) and” after “such product” and substituted “any one or more of the following actions it determines to be in the public interest:” for “whichever of the following actions the person to whom the order is directed elects:”.
+
+Subsec. (d)(1)(A), (B). Pub. L. 110–314, §214(b)(5), substituted “rule, regulation, standard, or ban” for “consumer product safety rule”.
+
+Subsec. (d)(1)(C). Pub. L. 110–314, §214(b)(6), (7), substituted “more (i)” for “more (A)” and “or (ii)” for “or (B)”.
+
+Subsec. (d)(2). Pub. L. 110–314, §214(b)(13), which directed substitution of “described in paragraph (1)(C).” for “described in paragraph (3).”, could not be executed because “paragraph (3)” did not appear subsequent to amendment by Pub. L. 110–314, §214(b)(11). See below.
+
+Pub. L. 110–314, §214(b)(12), struck out “If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection” before “. An order under this subsection may prohibit”.
+
+Pub. L. 110–314, §214(b)(11), substituted “if the Commission orders the action described in subparagraph (C)” for “if the person to whom the order is directed elects to take the action described in paragraph (3)”.
+
+Pub. L. 110–314, §214(b)(9), (10), substituted “for approval by the Commission,” for “satisfactory to the Commission,” and “subparagraphs under which such person has been ordered to act” for “paragraphs of this subsection under which such person has elected to act”.
+
+Pub. L. 110–314, §214(b)(8), designated concluding provisions of subsec. (d) as par. (2) and substituted “shall also require” for “may also require”. Former par. (2) redesignated (1)(B).
+
+Subsec. (d)(3). Pub. L. 110–314, §214(b)(14), added par. (3). Former par. (3) redesignated (1)(C).
+
+Subsec. (f). Pub. L. 110–314, §214(a)(4), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order” for “An order”, and added par. (2).
+
+Subsec. (i). Pub. L. 110–314, §214(c), added subsec. (i).
+
+Subsec. (j). Pub. L. 110–314, §223(a), added subsec. (j).
 
 1990—Subsec. (b). Pub. L. 101–608, §112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
 
@@ -93,6 +213,10 @@ Subsec. (h). Pub. L. 101–608, §111(a)(2), added subsec. (h).
 1976—Subsec. (d). Pub. L. 94–284, §12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 
 Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -130,5 +254,7 @@ Effect on liability.—A report by a manufacturer, distributor, retailer, or imp
 
 Confidentiality Protections.—The confidentiality protections of section 6(b) of the Consumer Product Safety Act (15 U.S.C. 2055(b)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act \[15 U.S.C. 2064(b)\] respecting a consumer product.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “extend”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)(C).”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “extend”.</i>
 

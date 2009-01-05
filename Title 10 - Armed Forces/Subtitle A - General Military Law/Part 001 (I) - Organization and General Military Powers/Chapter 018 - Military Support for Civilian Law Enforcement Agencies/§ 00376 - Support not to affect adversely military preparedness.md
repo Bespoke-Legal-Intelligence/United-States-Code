@@ -1,6 +1,6 @@
 ### §376. Support not to affect adversely military preparedness
 
-Support (including the provision of any equipment or facility or the assignment or detail of any personnel) may not be provided to any civilian law enforcement official under this chapterif the provision of such support will adversely affect the military preparedness of the United States. The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that the provision of any such support does not adversely affect the military preparedness of the United States.
+Support (including the provision of any equipment or facility or the assignment or detail of any personnel) may not be provided to any civilian law enforcement official under this chapter if the provision of such support will adversely affect the military preparedness of the United States. The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that the provision of any such support does not adversely affect the military preparedness of the United States.
 
 (Added Pub. L. 97–86, title, IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1116; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2045.)
 

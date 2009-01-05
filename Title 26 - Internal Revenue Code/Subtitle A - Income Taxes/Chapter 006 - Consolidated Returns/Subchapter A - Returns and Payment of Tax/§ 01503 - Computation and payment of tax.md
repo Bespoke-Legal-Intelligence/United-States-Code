@@ -10,7 +10,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;If an election under section 1504(c)(2) is in effect for the taxable year and the consolidated taxable income of the members of the group not taxed under section 801 results in a consolidated net operating loss for such taxable year, then under regulations prescribed by the Secretary, the amount of such loss which cannot be absorbed in the applicable carry-back periods against the taxable income of such members not taxed under section 801 shall be taken into account in determining the consolidated taxable income of the affiliated group for such taxable year to the extent of 35 percent of such loss or 35 percent of the taxable income of the members taxed under section 801, whichever is less. The unused portion of such loss shall be available as a carryover, subject to the same limitations (applicable to the sum of the loss for the carryover year andthe loss (or losses) carried over to such year), in applicable carryover years.
+&emsp;If an election under section 1504(c)(2) is in effect for the taxable year and the consolidated taxable income of the members of the group not taxed under section 801 results in a consolidated net operating loss for such taxable year, then under regulations prescribed by the Secretary, the amount of such loss which cannot be absorbed in the applicable carry-back periods against the taxable income of such members not taxed under section 801 shall be taken into account in determining the consolidated taxable income of the affiliated group for such taxable year to the extent of 35 percent of such loss or 35 percent of the taxable income of the members taxed under section 801, whichever is less. The unused portion of such loss shall be available as a carryover, subject to the same limitations (applicable to the sum of the loss for the carryover year and the loss (or losses) carried over to such year), in applicable carryover years.
 
 #### (2) Losses of recent nonlife affiliates
 
@@ -92,7 +92,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 &emsp;In the case of any subsidiary distributing during any taxable year dividends on any applicable preferred stock—
 
-&emsp;&emsp;(A) no group loss item shall be allowed to reduce the disqualified separately computedincome of such subsidiary for such taxable year, and
+&emsp;&emsp;(A) no group loss item shall be allowed to reduce the disqualified separately computed income of such subsidiary for such taxable year, and
 
 &emsp;&emsp;(B) no group credit item shall be allowed against the tax imposed by this chapter on such disqualified separately computed income.
 
@@ -152,7 +152,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 &emsp;&emsp;(C) to provide for the application of this subsection where dividends are not paid currently, where the redemption and liquidation rights of the applicable preferred stock exceed the issue price for such stock, or where the stock is otherwise structured to avoid the purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 86–780, §2, Sept. 14, 1960, 74 Stat. 1011; Pub. L. 88–272, title II, §234(a), (b)(1), (2), Feb. 26, 1964, 78 Stat. 113; Pub. L. 94–455, title X, §§1031(b)(4), 1052(c)(5), title XV, §1507(b)(3), title XIX, §1901(b)(1)(Y), Oct. 4, 1976, 90 Stat. 1623, 1648, 1740, 1792; Pub. L. 98–369, div. A, title II, §211(b)(19), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title XII, §1249(a), Oct. 22, 1986, 100 Stat. 2584; Pub. L. 100–203, title X, §10222(a)(1), Dec. 22, 1987, 101 Stat. 1330–410; Pub. L. 100–647, title I, §1012(u), title II, §2004(j)(1)(A), (2), (3)(A), Nov. 10, 1988, 102 Stat. 3528, 3604, 3605; Pub. L. 101–239, title VII, §§7201(a), 7207(a), 7821(c), Dec. 19, 1989, 103 Stat. 2328, 2337, 2424; Pub. L. 101–508, title XI, §§11802(f)(4), 11813(b)(25), Nov. 5, 1990, 104 Stat. 1388–530, 1388–555.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 86–780, §2, Sept. 14, 1960, 74 Stat. 1011; Pub. L.88–272, title II, §234(a), (b)(1), (2), Feb. 26, 1964, 78 Stat. 113; Pub. L. 94–455, title X, §§1031(b)(4), 1052(c)(5), title XV, §1507(b)(3), title XIX, §1901(b)(1)(Y), Oct. 4, 1976, 90 Stat. 1623, 1648, 1740, 1792; Pub. L. 98–369, div. A, title II, §211(b)(19), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title XII, §1249(a), Oct. 22, 1986, 100 Stat. 2584; Pub. L. 100–203, title X, §10222(a)(1), Dec. 22, 1987, 101 Stat. 1330–410; Pub. L. 100–647, title I, §1012(u), title II, §2004(j)(1)(A), (2), (3)(A), Nov. 10, 1988, 102 Stat. 3528, 3604, 3605; Pub. L. 101–239, title VII, §§7201(a), 7207(a), 7821(c), Dec. 19, 1989, 103 Stat. 2328, 2337, 2424; Pub. L. 101–508, title XI, §§11802(f)(4), 11813(b)(25), Nov. 5, 1990, 104 Stat. 1388–530, 1388–555.)
 
 #### Amendments
 
@@ -286,7 +286,7 @@ In general.—If—
 
 &emsp;&emsp;“(II) there is an unrecaptured amount with respect to such disposition,
 
-> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which theamendment made by paragraph (1) applies shall be taken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
+> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall be taken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
 
 &emsp;“(ii)
 

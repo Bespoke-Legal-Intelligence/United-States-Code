@@ -32,7 +32,7 @@
 
 #### (5) Measures
 
-&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or the number of children eligible to receive medical assistanceunder the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
 
 &emsp;&emsp;(A) to identify eligible school attendance areas;
 
@@ -46,7 +46,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordancewith a State-ordered or court-ordered desegregation plan, if—
 
 &emsp;&emsp;(A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and
 
@@ -104,7 +104,7 @@
 
 #### (4) Financial incentives and rewards reservation
 
-&emsp;A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II of this chapter, and not more than 5 percent of those funds received by the local educational agency under subpart 2 ofthis part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for school improvement, corrective action, and restructuring under section 6316(b) of this title for the purpose of attracting and retaining qualified and effective teachers.
+&emsp;A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II of this chapter, and not more than 5 percent of those funds received by the local educational agency under subpart 2 of this part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for school improvement, corrective action, and restructuring under section 6316(b) of this title for the purpose of attracting and retaining qualified and effective teachers.
 
 (Pub. L. 89–10, title I, §1113, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1469.)
 

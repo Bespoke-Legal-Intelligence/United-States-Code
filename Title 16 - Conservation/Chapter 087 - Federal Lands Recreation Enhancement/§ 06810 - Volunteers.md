@@ -6,7 +6,7 @@ The Secretary may use volunteers, as appropriate, to collect recreation fees and
 
 #### (b) Waiver or discount of fees; site-specific agency pass
 
-In exchange for volunteer services, the Secretary may waive or discount an entrance fee, standard amenity recreation fee, or an expanded amenity recreation fee that would otherwise apply to the volunteer or issue to the volunteer a site-specific agency pass authorized under section 6804(c) of this title.
+In exchange for volunteer services, the Secretary may waive or discount an entrance fee, standard amenity recreation fee, or an expanded amenity recreation fee that would otherwise apply to the volunteer or issue to the volunteera site-specific agency pass authorized under section 6804(c) of this title.
 
 #### (c) National Parks and Federal Recreational Lands Pass
 

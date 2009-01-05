@@ -60,7 +60,7 @@ Solicitation to State Number of Offerors To Be Selected for Phase Two Requests f
 
 Requirement for Guidance and Regulations.—The Federal Acquisition Regulation shall include guidance—
 
-&emsp;(1) regarding the factors that may be considered in determining whether the two-phasecontracting procedures authorized by subsection (a) are appropriate for use in individual contracting situations;
+&emsp;(1) regarding the factors that may be considered in determining whether the two-phase contracting procedures authorized by subsection (a) are appropriate for use in individual contracting situations;
 
 &emsp;(2) regarding the factors that may be used in selecting contractors; and
 

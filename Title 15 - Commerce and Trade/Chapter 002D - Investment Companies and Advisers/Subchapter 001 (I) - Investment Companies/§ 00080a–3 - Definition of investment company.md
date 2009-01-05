@@ -18,7 +18,7 @@ Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the 
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
+&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by orderdeclares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
 
 &emsp;(3) Any issuer all the outstanding securities of which (other than short-term paper and directors’ qualifying shares) are directly or indirectly owned by a company excepted from the definition of investment company by paragraph (1) or (2) of this subsection.
 
@@ -80,7 +80,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(II) concurrently with or after such disclosure, such issuer has provided each beneficial owner, as determined under paragraph (1), with a reasonable opportunity to redeem any part or all of their interests in the issuer, notwithstanding any agreement to the contrary between the issuer and such persons, for that person's proportionate share of the issuer's net assets.
 
-&emsp;(C) Each person that elects to redeem under subparagraph (B)(ii)(II) shall receive anamount in cash equal to that person's proportionate share of the issuer's net assets, unless the issuer elects to provide such person with the option of receiving, and such person agrees to receive, all or a portion of such person's share in assets of the issuer. If the issuer elects to provide such persons with such an opportunity, disclosure concerning such opportunity shall be made in the disclosure required by subparagraph (B)(ii)(I).
+&emsp;(C) Each person that elects to redeem under subparagraph (B)(ii)(II) shall receive an amount in cash equal to that person's proportionate share of the issuer's net assets, unless the issuer elects to provide such person with the option of receiving, and such person agrees to receive, all or a portion of such person's share in assets of the issuer. If the issuer elects to provide such persons with such an opportunity, disclosure concerning such opportunity shall be made in the disclosure required by subparagraph (B)(ii)(I).
 
 &emsp;(D) An issuer that is excepted under this paragraph shall nonetheless be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title relating to the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.
 
@@ -160,7 +160,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 #### References in Text
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, priorto repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -216,7 +216,7 @@ Subsec. (c)(8). Pub. L. 91–547, §3(b)(2), (4), redesignated par. (10) as (8),
 
 Subsecs. (c)(9), (10). Pub. L. 91–547, §3(b)(2), redesignated pars. (11) and (12) as (9) and (10), respectively. Former pars. (9) and (10) redesignated (7) and (8).
 
-Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted “requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]” for “conditions of section 165 of title 26, as amended \[I.R. 1939\]”, and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of such trusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
+Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted “requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]” for “conditions of section 165 of title 26, as amended\[I.R. 1939\]”, and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of such trusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
 
 Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) and (15) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (10) and (11).
 
@@ -286,7 +286,7 @@ Section 508(f) of Pub. L. 104–290 provided that:
 
 “(1)
 
-Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from thedefinition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 “(2)
 

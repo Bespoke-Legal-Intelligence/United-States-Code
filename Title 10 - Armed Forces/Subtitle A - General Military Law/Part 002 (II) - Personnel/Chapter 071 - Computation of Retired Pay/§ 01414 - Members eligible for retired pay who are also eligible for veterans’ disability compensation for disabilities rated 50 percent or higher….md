@@ -6,7 +6,11 @@ Payment of Both Retired Pay and Compensation.—
 
 &emsp;(1)
 
-In general.—Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c), except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009.
+In general.—Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c), except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:
+
+&emsp;&emsp;(A) A qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent.
+
+&emsp;&emsp;(B) A qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability.
 
 &emsp;(2)
 
@@ -170,9 +174,11 @@ In general.—The term “current baseline offset” for any qualified retiree m
 
 Applicable retired pay.—In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316.)
+(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157.)
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–181 substituted “except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:” for “except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009.” and added subpars. (A) and (B).
 
 2006—Subsec. (a)(1). Pub. L. 109–163 inserted “, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009” before period at end.
 
@@ -181,6 +187,18 @@ Applicable retired pay.—In subparagraph (A), the term “applicable retired pa
 Subsec. (c). Pub. L. 108–375, §642(b), inserted “that pursuant to the second sentence of subsection (a)(1) is subject to this subsection” after “a qualified retiree” in introductory provisions.
 
 2003—Pub. L. 108–136 amended section generally. Prior to amendment, section related to members eligible for retired pay who had service-connected disabilities: payment of retired pay and veterans’ disability compensation; and contingent effectiveness based on enactment of offsetting legislation.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VI, §642(b), Jan. 28, 2008, 122 Stat. 157, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect as of December 31, 2004.
+
+“(2)
+
+Timing of payment of retroactive benefits.—Any amount payable for a period before October 1, 2008, by reason of the amendment made by subsection (a) shall not be paid until after that date.”
 
 #### Effective Date of 2003 Amendment
 

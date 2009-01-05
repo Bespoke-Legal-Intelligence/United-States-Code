@@ -28,7 +28,7 @@ Such agreements may include one or more of the following incentives:
 
 &emsp;(8) Other incentives authorized in law.
 
-> With respect to any housing with a mortgage insured or otherwise assisted pursuant to section 1715z–1 of this title, the provisions of subsections (f) and (g) of section 1715z–1 of this title notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under section 1715z–1(f) of this title absent the requirements of this paragraph.
+> With respect to any housing with a mortgage insured or otherwise assisted pursuant to section1715z–1 of this title, the provisions of subsections (f) and (g) of section 1715z–1 of this title notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under section 1715z–1(f) of this title absent the requirements of this paragraph.
 
 (Pub. L. 100–242, title II, §219, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, §306, Oct. 28, 1992, 106 Stat. 3764.)
 
@@ -40,7 +40,7 @@ Section 1715z–6(f) of this title, referred to in subsec. (b)(7), was repealed 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–550 inserted “(for each year after the approval of the plan of action)” after“receive” and inserted at end “The Secretary shall take such actions as are necessary to ensure that owners receive the annual authorized return for the housing determined under section 4104(a) of this title during the period in which rent increases are phased in as provided in section 4112(a)(2)(E) of this title, including (in order of preference) (1) allowing the owner access to residual receipt accounts (pursuant to subsection (b)(1) of this section), (2) deferring remittance of excess rent payments, and (3) providing an increase in rents permitted under an existing contract under section 1437f of title 42 (pursuant to subsection (b)(2) of this section).”
+1992—Subsec. (a). Pub. L. 102–550 inserted “(for each year after the approval of the plan of action)” after “receive” and inserted at end “The Secretary shall take such actions as are necessary to ensure that owners receive the annual authorized return for the housing determined under section 4104(a) of this title during the period in which rent increases are phased in as provided in section 4112(a)(2)(E) of this title, including (in order of preference) (1) allowing the owner access to residual receipt accounts (pursuant to subsection (b)(1) of this section), (2) deferring remittance of excess rent payments, and (3) providing an increase in rents permitted under an existing contract under section 1437f of title 42 (pursuant to subsection (b)(2) of this section).”
 
 #### Study of Projects Assisted Under Flexible Subsidy Program
 

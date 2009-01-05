@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) key officials of the Department; and
 
-&emsp;&emsp;(C) other relevant governmental and nongovernmental entities, including State,local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
+&emsp;&emsp;(C) other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
 
 #### (4) Relationship with future years homeland security program
 

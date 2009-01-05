@@ -42,7 +42,7 @@
 
 #### (c) Secretary's determination of imminent hazard to health as suspending applicability of provisions
 
-The requirements of subsections (a) and (b) of this section do not apply with respect to action under subchapter III of this chapter with respectto any food or food advertising if the Secretary determines that such action is required to eliminate an imminent hazard to health.
+The requirements of subsections (a) and (b) of this section do not apply with respect to action under subchapter III of this chapter with respect to any food or food advertising if the Secretary determines that such action is required to eliminate an imminent hazard to health.
 
 #### (d) Coordination of action by Secretary with Federal Trade Commission
 

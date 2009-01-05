@@ -28,7 +28,7 @@ Obtaining Statue.—Not later than 4 years after the date of the enactment of th
 
 “(b)
 
-Placement.—The Joint Committee shall place the statue obtained under subsection (a) in the UnitedStates Capitol in a suitable permanent location in National Statuary Hall.”
+Placement.—The Joint Committee shall place the statue obtained under subsection (a) in the United States Capitol in a suitable permanent location in National Statuary Hall.”
 
 \[Pub. L. 110–120, §1(b), Nov. 19, 2007, 121 Stat. 1348, provided that: “The amendments made by subsection (a) \[amending section 1 of Pub. L. 109–116, set out above\] shall take effect as if included in the enactment of Public Law 109–116.”\]
 

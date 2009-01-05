@@ -12,7 +12,7 @@ The Secretary shall make available to the public information, statistics, and do
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall,without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
+&emsp;Subject to paragraph (2), no officer, employee, or agent of the United States shall, without the consent of the packer or other person concerned, divulge or make known in any manner, any facts or information regarding the business of the packer or other person that was acquired through reporting required under this subchapter.
 
 #### (2) Exceptions
 
@@ -52,7 +52,33 @@ The Secretary shall take such actions as the Secretary considers necessary to ve
 
 #### (g) Electronic reporting and publishing
 
-The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.
+#### (1) In general
+
+&emsp;The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.
+
+#### (2) Improvements and education
+
+#### (A) Enhanced electronic publishing
+
+&emsp;&emsp;The Secretary shall develop and implement an enhanced system of electronic publishing to disseminate information collected pursuant to this subchapter. Such system shall—
+
+&emsp;&emsp;&emsp;(i) present information in a format that can be readily understood by producers, packers, and other market participants;
+
+&emsp;&emsp;&emsp;(ii) adhere to the publication deadlines in this subchapter;
+
+&emsp;&emsp;&emsp;(iii) present information in charts and graphs, as appropriate;
+
+&emsp;&emsp;&emsp;(iv) present comparative information for prior reporting periods, as the Secretary considers appropriate; and
+
+&emsp;&emsp;&emsp;(v) be updated as soon as practicable after information is reported to the Secretary.
+
+#### (B) Education
+
+&emsp;&emsp;The Secretary shall carry out a market news education program to educate the public and persons in the livestock and meat industries about—
+
+&emsp;&emsp;&emsp;(i) usage of the system developed under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) interpreting and understanding information collected and disseminated through such system.
 
 #### (h) Reporting of activities on weekends and holidays
 
@@ -74,11 +100,37 @@ Nothing in this subchapter, the Livestock Mandatory Reporting Act of 1999, or am
 
 &emsp;(3) access documentary evidence as provided under sections 49 and 50 of title 15.
 
-(Aug. 14, 1946, ch. 966, title II, §251, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1200.)
+(Aug. 14, 1946, ch. 966, title II, §251, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1200; amended Pub. L. 110–234, title XI, §11001(a)(1), May 22, 2008, 122 Stat. 1350; Pub. L. 110–246, §4(a), title XI, §11001(a)(1), June 18, 2008, 122 Stat. 1664, 2112.)
 
 #### References in Text
 
 The Livestock Mandatory Reporting Act of 1999, referred to in subsec. (i), is title IX of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1188, which is set out as a note under section 1635 of this title.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (g). Pub. L. 110–246, §11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+#### Implementation of Enhanced Electronic Publishing
+
+Pub. L. 110–234, title XI, §11001(a)(2), May 22, 2008, 122 Stat. 1351, and Pub. L. 110–246, §4(a), title XI, §11001(a)(2), June 18, 2008, 122 Stat. 1664, 2112, provided that:
+
+“(A)
+
+Enhanced reporting.—The Secretary of Agriculture shall develop and implement the system required under paragraph (2)(A) of section 251(g) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1636(g)), as amended by paragraph (1), not later than one year after the date on which the Secretary determines sufficient funds have been appropriated pursuant to subsection (c) \[122 Stat. 2113\].
+
+“(B)
+
+Current system.—Notwithstanding the amendment made by paragraph (1), the Secretary shall continue to use the information format for disseminating information under subtitle B \[7 U.S.C. 1635 et seq.\] of the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.) in effect on the date of the enactment of this Act \[June 18, 2008\] at least until the date that is two years after the date on which the Secretary makes the determination referred to in subparagraph (A).”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

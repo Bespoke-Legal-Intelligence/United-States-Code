@@ -106,5 +106,5 @@ In order to receive an allotment under section 7111(b) of this title for any fis
 
 #### Prior Provisions
 
-A prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3677, related to State and local educational agency programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7114 of this title.
+A prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3677, related to State and local educational agency programs, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7114 of this title.
 

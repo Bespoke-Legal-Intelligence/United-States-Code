@@ -44,7 +44,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(D) Monitoring of research conducted in connection with the review of such applications, reports, supplements, and submissions.
 
-&emsp;&emsp;(E) Review of device applications subject to section 262 of title 42 for an investigational new drug application under section355(i) of this title or for an investigational device exemption under section 360j(g) of this title and activities conducted in anticipation of the submission of such applications under section 355(i) or 360j(g) of this title.
+&emsp;&emsp;(E) Review of device applications subject to section 262 of title 42 for an investigational new drug application under section 355(i) of this title or for an investigational device exemption under section 360j(g) of this title and activities conducted in anticipation of the submission of such applications under section 355(i) or 360j(g) of this title.
 
 &emsp;&emsp;(F) The development of guidance, policy documents, or regulations to improve the process for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
@@ -128,7 +128,7 @@ Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted “The term ‘affiliate�
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Pub. L. 110–85, title II, §216, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
+Pub. L. 110–85, title II, §216, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85,enacting section 379j–1 of this title and amending this section and section 379j of this title\] shall take effect on October 1, 2007, or the date of the enactment of this Act \[Sept. 27, 2007\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] shall be assessed for all premarket applications, premarket reports, supplements, 30-day notices, and premarket notification submissions received on or after October 1, 2007, regardless of the date of the enactment of this Act.”
 
 Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, provided that: “The amendments made by this subtitle \[subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title\] cease to be effective October 1, 2012, except that section 738A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–1\] (regarding annual performance and financial reports) ceases to be effective January 31, 2013.”
 
@@ -156,25 +156,7 @@ Pub. L. 107–250, title I, §101, Oct. 26, 2002, 116 Stat. 1589, provided that:
 
 #### Annual Reports
 
-Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 109–43, §2(b), Aug. 1, 2005, 119 Stat. 441, provided that:
-
-“(a)
-
-In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
-
-&emsp;“(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
-
-&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the endof each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
-
-“(b)
-
-Additional Information.—For fiscal years 2006 and 2007, the report described under subsection (a)(2) shall include—
-
-&emsp;“(1) information on the number of different types of applications and notifications, and the total amount of fees paid for each such type of application or notification, from businesses with gross receipts or sales from $0 to $100,000,000, with such businesses categorized in $10,000,000 intervals; and
-
-&emsp;“(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) \[now (8)\] of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002 multiplied by the adjustment factor, as defined in paragraph (7) \[now (10)\] of such section 737.”
-
-\[Section 103 of Pub. L. 107–250, set out above, ceases to be effective Jan. 31, 2008, see Effective and Termination Dates note above.\]
+Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 109–43, §2(b), Aug. 1, 2005, 119 Stat. 441, which directed the Secretary of Health and Human Services to submit annual reports to Congress on progress in achieving goals identified in section 101(3), set out above, and implementation of authority for and use of fees collected under the medical device user-fee program established under this subpart, ceased to be effective Jan. 31, 2008. See Effective and Termination Dates note above.
 
 #### Study
 

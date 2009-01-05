@@ -12,7 +12,7 @@ If a shareholder sells or otherwise disposes of section 306 stock (as defined in
 
 &emsp;&emsp;&emsp;(i) the amount realized, exceeds
 
-&emsp;&emsp;&emsp;(ii) such stock's ratable share of the amount which would have been a dividend at the time of distribution if (in lieu of section 306 stock) the corporation had distributed money in an amount equal to the fair market value of the stock at the time of distribution.
+&emsp;&emsp;&emsp;(ii) such stock's ratable share of the amount which would have been a dividend at the time of distribution if (in lieu of section 306 stock) the corporation had distributed money in an amount equal to thefair market value of the stock at the time of distribution.
 
 &emsp;&emsp;(B) Any excess of the amount realized over the sum of—
 
@@ -128,7 +128,7 @@ For purposes of subsection (c)—
 
 #### (f) Source of gain
 
-The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been receivedfrom the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
+The amount treated under subsection (a)(1)(A) as ordinary income shall, for purposes of part I of subchapter N (sec. 861 and following, relating to determination of sources of income), be treated as derived from the same source as would have been the source if money had been received from the corporation as a dividend at the time of the distribution of such stock. If under the preceding sentence such amount is determined to be derived from sources within the United States, such amount shall be considered to be fixed or determinable annual or periodical gains, profits, and income within the meaning of section 871(a) or section 881(a), as the case may be.
 
 #### (g) Change in terms and conditions of stock
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 222(e)(1)(A), (2) of Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
+Amendment by section 222(e)(1)(A), (2) of Pub. L. 97–248 applicable to distributions after Aug. 31, 1982,with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
 Amendment by section 226(b) of Pub. L. 97–248 applicable to transfers occurring after Aug. 31, 1982, except for certain transfers pursuant to an application to form a BHC filed with the Federal Reserve Board before Aug. 16, 1982, see section 226(c) of Pub. L. 97–248, set out as a note under section 304 of this title.
 

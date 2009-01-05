@@ -50,7 +50,7 @@ Section 1401 of title XIV of Pub. L. 95–113 provided that: “This title \[ena
 
 #### Review of Agricultural Research Service
 
-Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, §2101(b), Apr. 16, 2003, 117 Stat. 589, provided that:
+Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, §2101(b), Apr. 16, 2003, 117 Stat. 589; Pub. L. 110–234, title VII, §7511(c)(7), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(7), June 18, 2008, 122 Stat. 1664, 2029, provided that:
 
 “(a)
 
@@ -121,4 +121,8 @@ Reports.—Not later than 12 months after the date of enactment of this Act \[Ma
 “(e)
 
 Funding.—The Secretary shall use to carry out this section not more than $499,000 of the amount of appropriations available to the Department of Agriculture for fiscal year 2003.”
+
+\[Pub. L. 110–234, title VII, §7511(c)(7), May 22, 2008, 122 Stat. 1267, and Pub. L. 110–246, §4(a), title VII, §7511(c), June 18, 2008, 122 Stat. 1664, 2028, 2029, provided that, effective Oct. 1, 2009, section 7404(b)(1)(B) of Pub. L. 107–171, set out above, is amended by striking clause (vi) and inserting the following:
+
+\[“(vi) the National Institute of Food and Agriculture.”\]
 

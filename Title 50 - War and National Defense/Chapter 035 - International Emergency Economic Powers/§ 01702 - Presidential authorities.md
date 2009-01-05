@@ -28,7 +28,7 @@ The authority granted to the President by this section does not include the auth
 
 &emsp;(1) any postal, telegraphic, telephonic, or other personal communication, which does not involve a transfer of anything of value;
 
-&emsp;(2) donations, by persons subject to the jurisdiction of the United States, of articles, such as food, clothing, and medicine, intended to be used to relieve human suffering, except to the extent that the President determines that such donations (A) would seriously impair his ability to deal with any national emergency declared under section 1701 of this title, (B) are in response to coercion against the proposed recipient or donor, or (C) would endanger Armed Forces of the United States which are engaged in hostilities or are in a situation where imminent involvement in hostilities is clearly indicated by the circumstances; or <sup>2</sup>
+&emsp;(2) donations, by persons subject to the jurisdiction of the United States, of articles, such as food, clothing, and medicine, intended to be used to relieve human suffering, except to the extent that the President determines that such donations (A) would seriously impair his ability to deal with any national emergency declared under section 1701 of this title, (B) are in response to coercion against the proposed recipient or donor, or (C) would endanger Armed Forces of the United States which are engaged in hostilities or are in a situationwhere imminent involvement in hostilities is clearly indicated by the circumstances; or <sup>2</sup>
 
 &emsp;(3) the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 2404 of the Appendix to this title, or under section 2405 of the Appendix to this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18; or
 
@@ -46,7 +46,7 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 #### Amendments
 
-2001—Pub. L. 107–56, §106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
+<b>2001</b>—Pub. L. 107–56, §106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
 
 Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
 
@@ -58,9 +58,9 @@ Subsec. (a)(1)(C). Pub. L. 107–56, §106(1)(D), added subpar. (C).
 
 Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
-1994—Subsec. (b)(3), (4). Pub. L. 103–236 added pars. (3) and (4) and struck out former par. (3) which read as follows: “the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 2404 of the Appendix to this title or with respect to which no acts are prohibited by chapter 37 of title 18.”
+<b>1994</b>—Subsec. (b)(3), (4). Pub. L. 103–236 added pars. (3) and (4) and struck out former par. (3) which read as follows: “the importation from any country, or the exportation to any country, whether commercial or otherwise, of publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, or other informational materials, which are not otherwise controlled for export under section 2404 of the Appendix to this title or with respect to which no acts are prohibited by chapter 37 of title 18.”
 
-1988—Subsec. (b)(3). Pub. L. 100–418 added par. (3).
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 added par. (3).
 
 #### Effective Date of 1994 Amendment
 
@@ -84,7 +84,7 @@ I, GEORGE W. BUSH, President of the United States of America, hereby determine t
 
 I hereby order:
 
-Section 1. All blocked funds held in the United States in accounts in the name of the Government of Iraq, the Central Bank of Iraq, Rafidain Bank, Rasheed Bank, or the State Organization for Marketing Oil are hereby confiscated and vested in the Department of the Treasury, except for the following:
+Section 1. All blocked funds held in the United States in accounts in the name of the Government of Iraq, the Central Bank of Iraq, Rafidain Bank, Rasheed Bank, orthe State Organization for Marketing Oil are hereby confiscated and vested in the Department of the Treasury, except for the following:
 
 (a) any such funds that are subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoy equivalent privileges and immunities under the laws of the United States, and are or have been used for diplomatic or consular purposes, and
 

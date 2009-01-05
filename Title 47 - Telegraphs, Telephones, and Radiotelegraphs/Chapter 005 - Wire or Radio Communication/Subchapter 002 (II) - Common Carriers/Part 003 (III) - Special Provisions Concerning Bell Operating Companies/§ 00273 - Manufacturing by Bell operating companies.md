@@ -106,7 +106,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (6) Sunset
 
-&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment or customer premises equipment available in the United States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
+&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment or customer premises equipment available in theUnited States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
 
 #### (7) Administration and enforcement authority
 

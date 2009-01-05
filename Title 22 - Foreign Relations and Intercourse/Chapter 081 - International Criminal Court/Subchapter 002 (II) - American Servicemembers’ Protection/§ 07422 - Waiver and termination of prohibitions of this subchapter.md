@@ -1,8 +1,8 @@
 ### §7422. Waiver and termination of prohibitions of this subchapter
 
-#### (a) Authority to initially waive sections 7424 and 7426
+#### (a) Authority to initially waive section 7424
 
-The President is authorized to waive the prohibitions and requirements of sections 7424 and 7426 of this title for a single period of 1 year. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+The President is authorized to waive the prohibitions and requirements of section 7424 of this title for a single period of 1 year. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
 &emsp;(1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -18,9 +18,9 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;(B) ensures that no person described in subparagraph (A) will be arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court.
 
-#### (b) Authority to extend waiver of sections 7424 and 7426
+#### (b) Authority to extend waiver of section 7424
 
-The President is authorized to waive the prohibitions and requirements of sections 7424 and 7426 of this title for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) of this section or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
+The President is authorized to waive the prohibitions and requirements of section 7424 of this title for successive periods of 1 year each upon the expiration of a previous waiver pursuant to subsection (a) of this section or this subsection. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
 &emsp;(1) notifies the appropriate congressional committees of the intention to exercise such authority; and
 
@@ -48,7 +48,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;(2) determines and reports to the appropriate congressional committees that—
 
-&emsp;&emsp;(A) a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of sections 7424 and 7426 of this title is in effect;
+&emsp;&emsp;(A) a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of section 7424 of this title is in effect;
 
 &emsp;&emsp;(B) there is reason to believe that the named individual committed the crime or crimes that are the subject of the International Criminal Court's investigation or prosecution;
 
@@ -64,11 +64,19 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 #### (d) Termination of waiver pursuant to subsection (c)
 
-Any waiver or waivers exercised pursuant to subsection (c) of this section of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of sections 7424 and 7426 of this title expires and is not extended pursuant to subsection (b) of this section.
+Any waiver or waivers exercised pursuant to subsection (c) of this section of the prohibitions and requirements of sections 7423 and 7425 of this title shall terminate at any time that a waiver pursuant to subsection (a) or (b) of this section of the prohibitions and requirements of section 7424 of this title expires and is not extended pursuant to subsection (b) of this section.
 
 #### (e) Termination of prohibitions of this subchapter
 
-The prohibitions and requirements of sections 7423, 7424, 7425, and 7426 of this title shall cease to apply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
+The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
 
-(Pub. L. 107–206, title II, §2003, Aug. 2, 2002, 116 Stat. 901.)
+(Pub. L. 107–206, title II, §2003, Aug. 2, 2002, 116 Stat. 901; Pub. L. 110–181, div. A, title XII, §1212(b)(1), Jan. 28, 2008, 122 Stat. 371.)
+
+#### Amendments
+
+2008—Subsecs. (a), (b). Pub. L. 110–181, §1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
+
+Subsecs. (c)(2)(A), (d). Pub. L. 110–181, §1212(b)(1)(C), (D), substituted “section 7424” for “sections 7424 and 7426”.
+
+Subsec. (e). Pub. L. 110–181, §1212(b)(1)(E), substituted “and 7425” for “7425, and 7426”.
 

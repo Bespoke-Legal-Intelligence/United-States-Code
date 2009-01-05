@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary orpermanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutionalunder the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49;Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
+(June 17, 1930, ch. 497, title IV, §516A, as added Pub. L. 96–39, title X, §1001(a), July 26, 1979, 93 Stat. 300; amended Pub. L. 96–417, title VI, §§601(7), 608, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 96–542, §2, Dec. 17, 1980, 94 Stat. 3210; Pub. L. 97–164, title I, §163(a)(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–573, title VI, §623(a), Oct. 30, 1984, 98 Stat. 3040; Pub. L. 99–514, title XVIII, §1888(6), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–449, title IV, §401, Sept. 28, 1988, 102 Stat. 1878; Pub. L. 101–382, title I, §134(a)(3), Aug. 20, 1990, 104 Stat. 649; Pub. L. 103–182, title IV, §411, Dec. 8, 1993, 107 Stat. 2140; Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), Dec. 8, 1994, 108 Stat. 4838, 4864, 4917, 4921; Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, Oct. 11, 1996, 110 Stat. 3526, 3530, 3531; Pub. L. 109–432, div. D, title III, §3002, Dec. 20, 2006, 120 Stat. 3173.)
 
 #### References in Text
 
@@ -522,7 +522,7 @@ Subsec. (g)(8)(A). Pub. L. 103–182, §411(4)(J), designated existing provision
 
 Subsec. (g)(8)(B)(ii). Pub. L. 103–182, §411(4)(K), substituted “relevant FTA Secretary” for “Canadian Secretary”.
 
-Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of theNAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
+Subsec. (g)(8)(C). Pub. L. 103–182, §411(4)(L), substituted “of a determination under article 1904 of the NAFTA or the Agreement” for “under article 1904 of the Agreement of a determination”.
 
 Subsec. (g)(9). Pub. L. 103–182, §411(4)(M), inserted “of the NAFTA or” after “chapter 19”.
 
@@ -608,7 +608,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
+Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this sectionand provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 

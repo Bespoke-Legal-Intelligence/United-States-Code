@@ -10,83 +10,211 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 &emsp;(3) the principal amount of the loan;
 
-&emsp;(4) the amount of any charges, such as the origination fee and insurance premium, collected by the lender at or prior to the disbursal of the loan and whether such charges are deducted from the proceeds of the loan or paid separately by the borrower;
+&emsp;(4) the amount of any charges, such as the origination fee and Federal default fee, and whether those fees will be—
+
+&emsp;&emsp;(A) collected by the lender at or prior to the disbursal of the loan;
+
+&emsp;&emsp;(B) deducted from the proceeds of the loan;
+
+&emsp;&emsp;(C) paid separately by the borrower; or
+
+&emsp;&emsp;(D) paid by the lender;
 
 &emsp;(5) the stated interest rate on the loan;
 
-&emsp;(6) the yearly and cumulative maximum amounts that may be borrowed;
+&emsp;(6) for loans made under section 1078–8 of this title or to a student borrower under section 1078–2 of this title, an explanation—
 
-&emsp;(7) an explanation of when repayment of the loan will be required and when the borrower will be obligated to pay interest that accrues on the loan;
+&emsp;&emsp;(A) that the borrower has the option to pay the interest that accrues on the loan while the borrower is a student at an institution of higher education; and
 
-&emsp;(8) a statement as to the minimum and maximum repayment term which the lender may impose, and the minimum annual payment required by law;
+&emsp;&emsp;(B) if the borrower does not pay such interest while attending an institution, when and how often interest on the loan will be capitalized;
 
-&emsp;(9) a statement of the total cumulative balance, including the loan applied for, owed by the student to that lender, and an estimate of the projected monthly payment, given such cumulative balance;
+&emsp;(7) for loans made to a parent borrower on behalf of a student under section 1078–2 of this title, an explanation—
 
-&emsp;(10) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
+&emsp;&emsp;(A) that the parent has the option to defer payment on the loan while the student is enrolled on at least a half-time basis in an institution of higher education;
 
-&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note); <sup>1</sup>
+&emsp;&emsp;(B) if the parent does not pay the interest on the loan while the student is enrolled in an institution, when and how often interest on the loan will be capitalized; and
 
-&emsp;(12) a definition of default and the consequences to the borrower if the borrower defaults, including a statement that the default will be reported to a credit bureau or credit reporting agency;
+&emsp;&emsp;(C) that the parent may be eligible for a deferment on the loan if the parent is enrolled on at least a half-time basis in an institution of higher education;
 
-&emsp;(13) to the extent practicable, the effect of accepting the loan on the eligibility of the borrower for other forms of student assistance; and
+&emsp;(8) the yearly and cumulative maximum amounts that may be borrowed;
 
-&emsp;(14) an explanation of any cost the borrower may incur in the making or collection of the loan.
+&emsp;(9) a statement of the total cumulative balance, including the loan being disbursed, owed by the borrower to that lender, and an estimate of the projected monthly payment, given such cumulative balance;
+
+&emsp;(10) an explanation of when repayment of the loan will be required and when the borrower will be obligated to pay interest that accrues on the loan;
+
+&emsp;(11) a description of the types of repayment plans that are available for the loan;
+
+&emsp;(12) a statement as to the minimum and maximum repayment terms which the lender may impose, and the minimum annual payment required by law;
+
+&emsp;(13) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
+
+&emsp;(14) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty;
+
+&emsp;(15) a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred;
+
+&emsp;(16) a statement summarizing the circumstances in which a borrower may obtain forbearance on the loan;
+
+&emsp;(17) a description of the options available for forgiveness of the loan, and the requirements to obtain loan forgiveness;
+
+&emsp;(18) a definition of default and the consequences to the borrower if the borrower defaults, including a statement that the default will be reported to a consumer reporting agency; and
+
+&emsp;(19) an explanation of any cost the borrower may incur during repayment or in the collection of the loan, including fees that the borrower may be charged, such as late payment fees and collection costs.
 
 #### (b) Required disclosure before repayment
 
-Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower by written or electronic means the information required under this subsection in simple and understandable terms. Each eligible lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall include—
+Each eligible lender shall, at or prior to the start of the repayment period on a loan made, insured, or guaranteed under section 1078, 1078–2, or 1078–8 of this title, disclose to the borrower by written or electronic means the information required under this subsection in simple and understandable terms. Each eligible lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure required by this subsection shall be made not less than 30 days nor more than 150 days before the first payment on the loan is due from the borrower. The disclosure shall include—
 
-&emsp;(1) the name of the eligible lender, and the address to which communications and payments should be sent;
+&emsp;(1) the name of the eligible lender or loan servicer, and the address to which communications and payments should be sent;
 
-&emsp;(2) the scheduled date upon which the repayment period is to begin;
+&emsp;(2) the scheduled date upon which the repayment period is to begin or the deferment period under section 1078–2(d)(1) of this title is to end, as applicable;
 
-&emsp;(3) the estimated balance owed by the borrower on the loan or loans covered by the disclosure as of the scheduled date on which the repayment period is to begin (including, if applicable, the estimated amount of interest to be capitalized);
+&emsp;(3) the estimated balance owed by the borrower on the loan or loans covered by the disclosure (including, if applicable, the estimated amount of interest to be capitalized) as of the scheduled date on which the repayment period is to begin or the deferment period under 1078–2(d)(1) of this title is to end, as applicable;
 
 &emsp;(4) the stated interest rate on the loan or loans, or the combined interest rate of loans with different stated interest rates;
 
-&emsp;(5) the nature of any fees which may accrue or be charged to the borrower during the repayment period;
+&emsp;(5) information on loan repayment benefits offered for the loan or loans, including—
 
-&emsp;(6) the repayment schedule for all loans covered by the disclosure including the date the first installment is due, and the number, amount, and frequency of required payments;
+&emsp;&emsp;(A) whether the lender offers any benefits that are contingent on the repayment behavior of the borrower, such as—
 
-&emsp;(7) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan and of the availability and terms of such other options, except that such explanation is not required when the loan being made is a consolidation loan under section 1078–3 of this title;
+&emsp;&emsp;&emsp;(i) a reduction in interest rate if the borrower repays the loan by automatic payroll or checking account deduction;
 
-&emsp;(8) except as provided in subsection (e) of this section, the projected total of interest charges which the borrower will pay on the loan or loans, assuming that the borrower makes payments exactly in accordance with the repayment schedule; and
+&emsp;&emsp;&emsp;(ii) a reduction in interest rate if the borrower makes a specified number of on-time payments; and
 
-&emsp;(9) a statement that the borrower has the right to prepay all or part of the loan or loans covered by the disclosure at any time without penalty.
+&emsp;&emsp;&emsp;(iii) other loan repayment benefits for which the borrower could be eligible that would reduce the amount of repayment or the length of the repayment period;
 
-#### (c) Cost of disclosure and consequences of nondisclosure
+&emsp;&emsp;(B) if the lender provides a loan repayment benefit—
 
-Such information shall be available without cost to the borrower. The failure of an eligible lender to provide information as required by this section shall not (1) relieve a borrower of the obligation to repay a loan in accordance with its terms, (2) provide a basis for a claim forcivil damages, or (3) be deemed to abrogate the obligation of the Secretary under a contract of insurance or reinsurance, or the obligation of a guaranty agency under a contract of guaranty. Nothing in this section shall be construed as subjecting the lender to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] with regard to loans made under this part. The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
+&emsp;&emsp;&emsp;(i) any limitations on such benefit;
 
-#### (d) Separate statement
+&emsp;&emsp;&emsp;(ii) explicit information on the reasons a borrower may lose eligibility for such benefit;
 
-Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate paper which summarizes (in plain English) the rights and responsibilities of the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a credit bureau. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
+&emsp;&emsp;&emsp;(iii) for a loan repayment benefit that reduces the borrower's interest rate—
 
-#### (e) Special disclosure rules on SLS loans and PLUS loans and unsubsidized loans
+&emsp;&emsp;&emsp;&emsp;(I) examples of the impact the interest rate reduction would have on the length of the borrower's repayment period and the amount of repayment; and
 
-Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(8) of this section if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts assuming different levels of borrowing and interest accruals resulting from capitalization of interest while the borrower is in school. Such sample projections shall disclose the cost to the student of capitalizing—
+&emsp;&emsp;&emsp;&emsp;(II) upon the request of the borrower, the effect the reduction in interest rate would have with respect to the borrower's payoff amount and time for repayment; and
 
-&emsp;(1) principal and interest; and
+&emsp;&emsp;&emsp;(iv) whether and how the borrower can regain eligibility for a benefit if a borrower loses a benefit;
 
-&emsp;(2) interest only.
+&emsp;(6) a description of all the repayment plans that are available to the borrower and a statement that the borrower may change from one plan to another during the period of repayment;
 
-(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704.)
+&emsp;(7) the repayment schedule for all loans covered by the disclosure, including—
+
+&emsp;&emsp;(A) the date the first installment is due; and
+
+&emsp;&emsp;(B) the number, amount, and frequency of required payments, which shall be based on a standard repayment plan or, in the case of a borrower who has selected another repayment plan, on the repayment plan selected by the borrower;
+
+&emsp;(8) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan and of the availability and terms of such other options;
+
+&emsp;(9) except as provided in subsection (d)—
+
+&emsp;&emsp;(A) the projected total of interest charges which the borrower will pay on the loan or loans, assuming that the borrower makes payments exactly in accordance with the repayment schedule; and
+
+&emsp;&emsp;(B) if the borrower has already paid interest on the loan or loans, the amount of interest paid;
+
+&emsp;(10) the nature of any fees which may accrue or be charged to the borrower during the repayment period;
+
+&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan or loans covered by the disclosure at any time without penalty;
+
+&emsp;(12) a description of the options by which the borrower may avoid or be removed from default, including any relevant fees associated with such options; and
+
+&emsp;(13) additional resources, including nonprofit organizations, advocates, and counselors (including the Student Loan Ombudsman of the Department) of which the lender is aware, where borrowers may receive advice and assistance on loan repayment.
+
+#### (c) Separate notification
+
+Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate notification which summarizes, in simple and understandable terms, the rights and responsibilities of the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a consumer reporting agency. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
+
+#### (d) Special disclosure rules on PLUS loans, and unsubsidized loans
+
+Loans made under sections 1078–2 and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(7) if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts, assuming different levels of borrowing and interest accruals resulting from capitalization of interest while the borrower, or the student on whose behalf the loan is made, is in school, in simple and understandable terms. Such sample projections shall disclose the cost to the borrower of—
+
+&emsp;(1) capitalizing the interest; and
+
+&emsp;(2) paying the interest as the interest accrues.
+
+#### (e) Required disclosures during repayment
+
+#### (1) Pertinent information about a loan provided on a periodic basis
+
+&emsp;Each eligible lender shall provide the borrower of a loan made, insured, or guaranteed under this part with a bill or statement (as applicable) that corresponds to each payment installment time period in which a payment is due and that includes, in simple and understandable terms—
+
+&emsp;&emsp;(A) the original principal amount of the borrower's loan;
+
+&emsp;&emsp;(B) the borrower's current balance, as of the time of the bill or statement, as applicable;
+
+&emsp;&emsp;(C) the interest rate on such loan;
+
+&emsp;&emsp;(D) the total amount the borrower has paid in interest on the loan;
+
+&emsp;&emsp;(E) the aggregate amount the borrower has paid for the loan, including the amount the borrower has paid in interest, the amount the borrower has paid in fees, and the amount the borrower has paid against the balance;
+
+&emsp;&emsp;(F) a description of each fee the borrower has been charged for the most recently preceding installment time period;
+
+&emsp;&emsp;(G) the date by which the borrower needs to make a payment in order to avoid additional fees and the amount of such payment and the amount of such fees;
+
+&emsp;&emsp;(H) the lender's or loan servicer's address and toll-free phone number for payment and billing error purposes; and
+
+&emsp;&emsp;(I) a reminder that the borrower has the option to change repayment plans, a list of the names of the repayment plans available to the borrower, a link to the appropriate page of the Department's website to obtain a more detailed description of the repayment plans, and directions for the borrower to request a change in repayment plan.
+
+#### (2) Information provided to a borrower having difficulty making payments
+
+&emsp;Each eligible lender shall provide to a borrower who has notified the lender that the borrower is having difficulty making payments on a loan made, insured, or guaranteed under this part with the following information in simple and understandable terms:
+
+&emsp;&emsp;(A) A description of the repayment plans available to the borrower, including how the borrower should request a change in repayment plan.
+
+&emsp;&emsp;(B) A description of the requirements for obtaining forbearance on a loan, including expected costs associated with forbearance.
+
+&emsp;&emsp;(C) A description of the options available to the borrower to avoid defaulting on the loan, and any relevant fees or costs associated with such options.
+
+#### (3) Required disclosures during delinquency
+
+&emsp;Each eligible lender shall provide to a borrower who is 60 days delinquent in making payments on a loan made, insured, or guaranteed under this part with a notice, in simple and understandable terms, of the following:
+
+&emsp;&emsp;(A) The date on which the loan will default if no payment is made.
+
+&emsp;&emsp;(B) The minimum payment the borrower must make to avoid default.
+
+&emsp;&emsp;(C) A description of the options available to the borrower to avoid default, and any relevant fees or costs associated with such options, including a description of deferment and forbearance and the requirements to obtain each.
+
+&emsp;&emsp;(D) Discharge options to which the borrower may be entitled.
+
+&emsp;&emsp;(E) Additional resources, including nonprofit organizations, advocates, and counselors (including the Student Loan Ombudsman of the Department), of which the lender is aware, where the borrower can receive advice and assistance on loan repayment.
+
+#### (f) Cost of disclosure and consequences of nondisclosure
+
+#### (1) No cost to borrowers
+
+&emsp;The information required under this section shall be available without cost to the borrower.
+
+#### (2) Consequences of nondisclosure
+
+&emsp;The failure of an eligible lender to provide information as required by this section shall not—
+
+&emsp;&emsp;(A) relieve a borrower of the obligation to repay a loan in accordance with the loan's terms; or
+
+&emsp;&emsp;(B) provide a basis for a claim for civil damages.
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this section shall be construed as subjecting the lender to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] with regard to loans made under this part.
+
+#### (4) Actions by the Secretary
+
+&emsp;The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
+
+(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
 
 #### References in Text
 
-Section 902 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(11), is section 902 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, as amended, which was set out as a note under section 2141 of Title 10, Armed Forces, and was repealed by Pub. L. 99–145, title VI, §671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 16302 of Title 10.
-
-Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
-
-Section 1078–1 of this title, referred to in subsec. (e), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+The Truth in Lending Act, referred to in subsec. (f)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Prior Provisions
 
 A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct. 16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
 
-A prior section 1083a, Pub. L. 89–329, title IV, §433A, as added Pub. L. 96–374, title IV, §418, Oct. 3, 1980, 94 Stat. 1423; amended Pub. L. 97–301, §13(a), Oct. 13, 1982, 96 Stat. 1404; Pub. L. 98–79, §3(a), Aug. 15, 1983, 97 Stat. 476; Pub. L. 99–272, title XVI, §16012(c), Apr. 7, 1986, 100 Stat. 340, related to student loan information to be provided by eligible lenders, prior to the general revision of this part by Pub. L. 99–498. See section 1083 of this title.
-
 #### Amendments
+
+2008—Pub. L. 110–315 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to student loan information by eligible lenders.
 
 1998—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
 
@@ -114,6 +242,18 @@ Subsec. (b)(7). Pub. L. 100–50, §10(z)(3), inserted “, except that such ex
 
 Subsec. (d). Pub. L. 100–50, §10(z)(4), substituted “notifies a borrower of approval of a loan” for “makes the first disbursement of a loan with respect to a borrower”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §434(b), Aug. 14, 2008, 122 Stat. 3252, provided that:
+
+“(1)
+
+Regular disclosure requirements and disclosure requirements to borrowers having difficulty making payments.—Paragraphs (1) and (2) of section 433(e) of the Higher Education Act of 1965 \[20 U.S.C. 1083(e)(1), (2)\], as amended by subsection (a), shall apply with respect to loans for which the first payment is due on or after July 1, 2009.
+
+“(2)
+
+Disclosure requirements for borrowers with delinquent loans.—Section 433(e)(3) of the Higher Education Act of 1965 \[20 U.S.C. 1083(e)(3)\], as amended by subsection (a), shall apply with respect to loans that become delinquent on or after July 1, 2009.”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -129,8 +269,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

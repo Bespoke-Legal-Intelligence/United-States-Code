@@ -66,7 +66,7 @@ The Attorney General shall register an applicant to distribute controlled substa
 
 #### (f) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances
 
-The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration if he determines that the issuance of such registration would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
 &emsp;(1) The recommendation of the appropriate State licensing board or professional disciplinary authority.
 
@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule Iby a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
 
@@ -120,7 +120,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (E)(i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title, consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) of this section to be inconsistent with the public interest.
 
-(ii)(I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be considered to have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
+(ii)(I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner whoin good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be considered to have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
 
 (II) For purposes of subclause (I), the publication in the Federal Register of an adverse determination by the Secretary pursuant to subparagraph (C)(ii) shall (with respect to the narcotic drug or combination involved) be considered to be a notification provided by the Secretary to practitioners, effective upon the expiration of the 30-day period beginning on the date on which the adverse determination is so published.
 
@@ -158,7 +158,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (ii) Not later than 120 days after October 17, 2000, the Secretary shall issue a treatment improvement protocol containing best practice guidelines for the treatment and maintenance of opiate-dependent patients. The Secretary shall develop the protocol in consultation with the Director of the National Institute on Drug Abuse, the Administrator of the Drug Enforcement Administration, the Commissioner of Food and Drugs, the Administrator of the Substance Abuse and Mental Health Services Administration and other substance abuse disorder professionals. The protocol shall be guided by science.
 
-(I) During the 3-year period beginning on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs, to patients for maintenance or detoxification treatment in accordance with this paragraph unless, before the expiration of that 3-year period, the State enacts a law prohibiting a practitioner from dispensing such drugs or combinations of drug.<sup>1</sup>
+(I) During the 3-year period beginning on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs, to patients for maintenanceor detoxification treatment in accordance with this paragraph unless, before the expiration of that 3-year period, the State enacts a law prohibiting a practitioner from dispensing such drugs or combinations of drug.<sup>1</sup>
 
 (J)(i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter.
 
@@ -184,7 +184,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540.)
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824.)
 
 #### References in Text
 
@@ -196,7 +196,9 @@ This chapter, referred to in subsec. (g)(2)(J)(ii)(II), was in the original “t
 
 #### Amendments
 
-2006—Subsec. (g)(2)(B)(iii). Pub. L. 109–469, §1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of thepractitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
+2008—Subsec. (f). Pub. L. 110–425, in introductory provisions, inserted “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet” after “schedule II, III, IV, or V” and substituted “or such modification of registration if the Attorney General determines that the issuance of such registration or modification” for “if he determines that the issuance of such registration”.
+
+2006—Subsec. (g)(2)(B)(iii). Pub. L. 109–469, §1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
 
 Subsec. (g)(2)(J)(i). Pub. L. 109–469, §1102(2)(A), substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
 
@@ -223,6 +225,10 @@ Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitut
 1978—Subsec. (f). Pub. L. 95–633 inserted provision relating to the construction of the Convention on Psychotropic Substances.
 
 1974—Subsec. (g). Pub. L. 93–281 added subsec. (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 #### Effective Date of 2005 Amendment
 

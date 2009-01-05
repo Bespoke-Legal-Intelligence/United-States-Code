@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To ensure compliance with this chapter and laws governing the qualifications of vessels to engage in the coastwise trade and the fisheries, the Secretary may require owners, masters, and charterers of documented vessels to submit reports in any reasonable form and manner the Secretary may prescribe.
+In General.—To ensure compliance with this chapter and laws governing the qualifications of vessels to engage in the coastwise trade and the fisheries, the Secretary may require owners, masters, charterers, and mortgagees of documented vessels to submit reports in any reasonable form and manner the Secretary may prescribe.
 
 (b)
 
@@ -24,11 +24,7 @@ Tonnage.—The tonnage referred to in paragraph (1) is—
 
 Timing of submission.—If the rebuilding is completed in the United States, the report shall be submitted when the rebuilding is completed. If the rebuilding is completed outside the United States, the report shall be submitted when the vessel first arrives at a port in the customs territory of the United States.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120 Stat. 528.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsection (a) of this section was derived from former section 12120 of this title, which was amended by Pub. L. 109–241, title III, §308, July 11, 2006, 120 Stat. 528. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Former section 12120 was amended by striking “owners, masters, and charterers” and inserting “owners, masters, charterers, and mortgagees”.</i>
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120 Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(2), (b), Jan. 28, 2008, 122 Stat. 600, 601.)
 
 Historical and Revision Notes
 
@@ -51,4 +47,12 @@ Historical and Revision Notes
 July 14, 1956, ch. 600, §2 (1st sentence), 70 Stat. 544; Pub. L. 86–583, §2, July 5, 1960, 74 Stat. 321; Pub. L. 104–324, title VII, §707, Oct. 19, 1996, 110 Stat. 3934.
 
 In subsection (b)(1), the word “Secretary” is substituted for “Secretary of the Treasury”, thereby incorporating the definition of “Secretary” in section 2101 of title 46. The functions of the Secretary of the Treasury relating to the Coast Guard previously were transferred to the Secretary of Transportation by section 6(b) of the Department of Transportation Act (Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 938). The Coast Guard and the functions of the Secretary of Transportation relating to the Coast Guard were again transferred to the Department of Homeland Security by section 888(b) of the Homeland Security Act of 2002 (Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135). The words “rebuilt outside the United States” are substituted for “and any part of the rebuilding, including the construction of major components of the hull and superstructure of the vessel, is not effected within the United States, its Territories (not including trust territories) or its possessions” because of the definition of “rebuilt” in section 12101, and the definition of “United States” in chapter 1, of the revised title.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §308. See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3525(a)(2), incorporated the substance of the amendment by Pub. L. 109–241, §308, into this section by substituting “charterers, and mortgagees” for “and charterers”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–241, §308, which directed the amendment of former section 12120 of this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

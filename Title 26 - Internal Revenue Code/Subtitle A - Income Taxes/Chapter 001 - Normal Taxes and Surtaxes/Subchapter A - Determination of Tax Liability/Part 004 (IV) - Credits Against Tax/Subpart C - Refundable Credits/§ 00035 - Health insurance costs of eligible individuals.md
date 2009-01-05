@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (iii) Nondiscriminatory premium
 
-&emsp;&emsp;&emsp;The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.
+&emsp;&emsp;&emsp;The total premium (as determined without regard to any subsidies) with respectto a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.
 
 #### (iv) Same benefits
 
@@ -206,7 +206,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (1) Coordination with advance payments of credit
 
-&emsp;With respect to any taxable year, the amount which would (but for this subsection)be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
+&emsp;With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
 
 #### (2) Coordination with other deductions
 
@@ -236,7 +236,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (7) Insurance which covers other individuals
 
-&emsp;For purposes of this section, rules similar to the rules of section 213(d)(6) shall apply with respect to any contract for qualified health insurance under which amounts are payable for coverage of an individual other than the taxpayer and qualifying family members.
+&emsp;For purposes of this section, rules similar to the rules of section 213(d)(6) shall apply withrespect to any contract for qualified health insurance under which amounts are payable for coverage of an individual other than the taxpayer and qualifying family members.
 
 #### (8) Treatment of payments
 
@@ -270,7 +270,7 @@ The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch
 
 #### Prior Provisions
 
-A prior section 35 was renumbered section 36 of this title.
+A prior section 35 was renumbered section 37 of this title.
 
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 

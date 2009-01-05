@@ -24,7 +24,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (d) Access to skilled nursing facilities
 
-(1) Subject to subsection (e) of this section, any skilled nursing facility may choose to be paid under this subsection on the basis of a prospective payment for all routine service costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs of extended care services provided in a cost reporting period if such facility had, in the preceding cost reporting period, fewer than 1,500 patient days with respect to which payments were made under this subchapter. Such prospective payment shall be in lieu of payments which would otherwise be made for routine service costs pursuant to section 1395x(v) of this title and subsections (a) through (c) of this section and capital-related costs pursuant to section 1395x(v) of this title. This subsection shall not apply to a facility for any cost reporting period immediately following a cost reporting period in which such facility had 1,500 or more patient days with respect to which payments were made under this subchapter, without regard to whether payments were made under this subsection during such preceding cost reporting period.
+(1) Subject to subsection (e) of this section, any skilled nursing facility may choose to be paid under this subsection on the basis of a prospective payment for all routine service costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs of extended care services provided in a cost reporting period if such facility had, in the preceding cost reporting period, fewer than 1,500 patient days with respect to which payments were made under this subchapter. Such prospective payment shall bein lieu of payments which would otherwise be made for routine service costs pursuant to section 1395x(v) of this title and subsections (a) through (c) of this section and capital-related costs pursuant to section 1395x(v) of this title. This subsection shall not apply to a facility for any cost reporting period immediately following a cost reporting period in which such facility had 1,500 or more patient days with respect to which payments were made under this subchapter, without regard to whether payments were made under this subsection during such preceding cost reporting period.
 
 (2)(A) The amount of the payment under this section shall be determined on a per diem basis.
 
@@ -76,7 +76,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Services excluded
 
-&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described byclauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause donot include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services
 
@@ -138,7 +138,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;The Secretary shall determine, on a per diem basis, the total of—
 
-&emsp;&emsp;&emsp;(i) the allowable costs of extended care services for the facility for cost reporting periods beginning in fiscal year 1995, including costs associated with facilities described in subsection (d) of this section, with appropriate adjustments (as determined by the Secretary) to non-settledcost reports or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997, and
+&emsp;&emsp;&emsp;(i) the allowable costs of extended care services for the facility for cost reporting periods beginning in fiscal year 1995, including costs associated with facilities described in subsection (d) of this section, with appropriate adjustments (as determined by the Secretary) to non-settled cost reports or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997, and
 
 &emsp;&emsp;&emsp;(ii) an estimate of the amounts that would be payable under part B of this subchapter (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during the applicable cost reporting period described in clause (i) to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
 
@@ -200,11 +200,11 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (i) Initial period
 
-&emsp;&emsp;&emsp;For the initial period beginning on July 1, 1998, and ending on September 30, 1999,the Secretary shall compute for skilled nursing facilities an unadjusted Federal per diem rate equal to the average of the weighted average per diem rates computed under clauses (i) and (ii) of subparagraph (D), increased by skilled nursing facility market basket percentage change for such period minus 1 percentage point.
+&emsp;&emsp;&emsp;For the initial period beginning on July 1, 1998, and ending on September 30, 1999, the Secretary shall compute for skilled nursing facilities an unadjusted Federal per diem rate equal to the average of the weighted average per diem rates computed under clauses (i) and (ii) of subparagraph (D), increased by skilled nursing facility market basket percentage change for such period minus 1 percentage point.
 
 #### (ii) Subsequent fiscal years
 
-&emsp;&emsp;&emsp;The Secretary shall compute an unadjusted Federal per diem rate equal to the Federal per diem rate computed under this subparagraph—
+&emsp;&emsp;&emsp;The Secretary shall compute an unadjusted Federal per diem rate equal tothe Federal per diem rate computed under this subparagraph—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2000, the rate computed for the initial period described in clause (i), increased by the skilled nursing facility market basket percentage change for the initial period minus 1 percentage point;
 
@@ -258,7 +258,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (6) Submission of resident assessment data
 
-&emsp;A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide theSecretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+&emsp;A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
 
 #### (7) Treatment of medicare swing bed hospitals
 
@@ -306,7 +306,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;Subparagraph (A) shall not apply on and after such date as the Secretary certifies that there is an appropriate adjustment in the case mix under paragraph (4)(G)(i) to compensate for the increased costs associated with residents described in such subparagraph.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV,§4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat.1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549.)
 
 #### References in Text
 
@@ -317,6 +317,8 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) \[title III, §314(a)\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments
+
+2008—Subsec. (e)(2)(A)(ii). Pub. L. 110–275 inserted “telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title,” after “section 1395x(s)(2)(K) of this title,”.
 
 2003—Subsec. (e)(2)(A)(i)(II). Pub. L. 108–173, §410(a)(1), substituted “clauses (ii), (iii), and (iv)” for “clauses (ii) and (iii)”.
 
@@ -388,7 +390,7 @@ Subsec. (e)(9), (10). Pub. L. 105–33, §4432(b)(3), added pars. (9) and (10).
 
 1993—Subsec. (a). Pub. L. 103–66, §13503(a)(2), inserted “, on or after October 1, 1995,” after “October 1, 1992” in concluding provisions.
 
-Subsec. (b). Pub. L. 103–66, §13503(a)(3)(A), substituted “Secretary may not recognize” for “Secretary shall recognize” and a period for “(as determined by the Secretary) resulting from the reimbursement principles under this subchapter, notwithstanding the limits set forth in paragraph (3) or (4) of subsection (a) of this section.”
+Subsec. (b). Pub. L. 103–66, §13503(a)(3)(A), substituted “Secretary may not recognize” for “Secretary shall recognize” and a period for “(as determined by the Secretary) resulting from the reimbursement principles under this subchapter, notwithstanding the limits setforth in paragraph (3) or (4) of subsection (a) of this section.”
 
 1990—Subsec. (a). Pub. L. 101–508, §4008(e)(2), struck out period at end and inserted “, and shall, for cost reporting periods beginning on or after October 1, 1992 and every 2 years thereafter, provide for an update to the per diem cost limits described in this subsection”.
 
@@ -405,6 +407,10 @@ Subsec. (d). Pub. L. 99–272, §9126(a), added subsec. (d).
 Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted “cost reporting period” for “fiscal year” in five places.
 
 Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted “cost reporting periods beginning in a fiscal year” for “each fiscal year” and “cost reporting period no later than 30 days before the beginning of that period” for “fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–275 applicable to services furnished on or after Jan. 1, 2009, see section 149(c) of Pub. L. 110–275, set out as a note under section 1395m of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -462,7 +468,7 @@ Section 9126(d) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII
 
 #### Effective Date
 
-Section 2319(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\]shall apply to cost reporting periods beginning on or after July 1, 1984.”
+Section 2319(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984.”
 
 #### Study on Portable Diagnostic Ultrasound Services for Beneficiaries in Skilled Nursing Facilities
 

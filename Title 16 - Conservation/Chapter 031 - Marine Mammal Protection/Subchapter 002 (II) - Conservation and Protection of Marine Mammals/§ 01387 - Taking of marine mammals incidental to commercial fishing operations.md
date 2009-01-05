@@ -84,7 +84,7 @@
 
 (5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
-(B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advisingcommercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
+(B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
 (C) The Secretary is authorized to charge a fee for the granting of an authorization under this section. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
 
@@ -122,7 +122,7 @@
 
 &emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
 
-&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
+&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level ofincidental mortality and serious injury is uncertain.
 
 (5) The Secretary may establish an alternative observer program to provide statistically reliable information on the species and number of marine mammals incidentally taken in the course of commercial fishing operations. The alternative observer program may include direct observation of fishing activities from vessels, airplanes, or points on shore.
 
@@ -178,7 +178,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) recommended dates for achieving the specific objectives of the plan.
 
-(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removal level established under section 1386 of this title, the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
+(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removallevel established under section 1386 of this title, the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
 
 (B) For any stock in which human-caused mortality and serious injury exceeds the potential biological removal level, other than a stock to which subparagraph (A) applies, the plan shall include measures the Secretary expects will reduce, to the maximum extent practicable within 6 months of the plan's implementation, the incidental mortality and serious injury by such commercial fisheries from that stock. For purposes of this subparagraph, the term “maximum extent practicable” means to the lowest level that is feasible for such fisheries within the 6-month period.
 
@@ -214,7 +214,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
+(8) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
 &emsp;(A)(i) Not later than 11 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for the stock to the Secretary, consistent with the other provisions of this section.
 
@@ -232,7 +232,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement atake reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
+(9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
 &emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marine mammals in commercial fisheries or restrict commercial fisheries by time or area;
 
@@ -252,7 +252,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Subparagraph (D) shall not apply for any period beyond two years during which a final stock assessment for such stock has not been published due to review of a proceeding on such stock assessment by a Federal court. Immediately upon final action by such court, the Secretary shall proceed under subparagraph (C).
 
-(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plan developed for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
+(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plandeveloped for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
 
 #### (g) Emergency regulations
 
@@ -284,7 +284,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(A) shall be published in the Federal Register, together with an explanation thereof;
 
-&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicablecommercial fishing season, whichever is earlier; and
+&emsp;(B) shall remain in effect for not more than 180 days or until the end of the applicable commercial fishing season, whichever is earlier; and
 
 &emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination, if the Secretary determines that the reasons for emergency regulations no longer exist.
 

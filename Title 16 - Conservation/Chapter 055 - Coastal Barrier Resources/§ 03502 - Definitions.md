@@ -52,7 +52,7 @@ Par. (1)(A). Pub. L. 101–591, §2(a), redesignated cls. (ii) and (iii) as (i) 
 
 Par. (6). Pub. L. 101–591, §2(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘system maps’ means—
 
-&emsp;“(A) the maps that are entitled ‘Coastal Barrier Resources System’, numbered A01 through T12 (but excluding maps T02 and T03) and dated September 30,1982, and the maps numbered T02A and T03A and dated December 8, 1982; and
+&emsp;“(A) the maps that are entitled ‘Coastal Barrier Resources System’, numbered A01 through T12 (but excluding maps T02 and T03) and dated September 30, 1982, and the maps numbered T02A and T03A and dated December 8, 1982; and
 
 &emsp;“(B) the maps prepared under section 3503(b) of this title and any modification to those maps under that section.”
 

@@ -96,7 +96,7 @@ Pub. L. 108–7, div. A, title VII, §763(d), Feb. 20, 2003, 117 Stat. 47, provi
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–171, title I, §1001, Feb. 8, 2006, 120 Stat. 4, provided that: “This title \[amending sections 2009cc–18,2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under section 7937 of this title\] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
+Pub. L. 109–171, title I, §1001, Feb. 8, 2006, 120 Stat. 4, provided that: “This title \[amending sections 2009cc–18, 2655, 7621, 7913, 7937, 7953, 7982, and 8106 of this title and sections 3838a, 3839aa–2, 3839aa–7, and 3841 of Title 16, Conservation, and enacting provisions set out as a note under section 7937 of this title\] may be cited as the ‘Agricultural Reconciliation Act of 2005’.”
 
 #### Short Title
 

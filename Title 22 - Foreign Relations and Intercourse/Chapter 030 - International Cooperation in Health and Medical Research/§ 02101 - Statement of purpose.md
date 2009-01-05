@@ -60,7 +60,7 @@ Sec. 2. <i>Responsibilities of Federal Departments and Agencies</i>. (a) Tobacco
 
 (b) The Department of Health and Human Services’ (HHS) Role in Tobacco Trade Policy Deliberations. The HHS shall be included in all deliberations of interagency working groups, chaired by the United States Trade Representative (USTR), that address issues relating to trade in tobacco and tobacco products. Through such participation, HHS shall advise the USTR, and other interested Federal agencies, of the potential public health impact of any tobacco-related trade action that is under consideration. Upon conclusion of a trade agreement that includes provisions specifically addressing tobacco or tobacco products, the USTR shall produce and make publicly available a summary describing those provisions.
 
-(c) International Tobacco Control Needs Assessment. The HHS, with the cooperation of the Departments of State, Commerce, and Agriculture, and in consultation with the appropriate national Ministry of Health, shall conduct a pilot assessment of tobacco use in a country other than the United States. Such assessment will be carried out through a compilation and review of surveys and other needs assessments already available and include:
+(c) International Tobacco Control Needs Assessment. The HHS, with the cooperation of the Departments ofState, Commerce, and Agriculture, and in consultation with the appropriate national Ministry of Health, shall conduct a pilot assessment of tobacco use in a country other than the United States. Such assessment will be carried out through a compilation and review of surveys and other needs assessments already available and include:
 
 (1) initial estimates of the burden of disease and other public health consequences of tobacco use;
 

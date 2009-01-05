@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 98–369, §130(b), substituted provision relating to excep
 
 Amendment by section 411(a)(3)(B) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
-Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
+Amendment by section 420(b) of Pub. L. 108–357 applicable to dividends paid after Oct. 22, 2004, see section 420(d) of Pub. L. 108–357, set out as a note under section 881 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1273(b)(2)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(d)(3)(E) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

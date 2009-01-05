@@ -54,7 +54,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding section 2503(a)(2) <sup>2</sup> of this title, with respect to funds from facilities improvement and repair, alteration and renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) <sup>3</sup> of this title, the grant recipient shall maintain a separate account for such funds.
+&emsp;&emsp;&emsp;Notwithstanding section 2503(a)(2) <sup>2</sup> of this title, with respect to funds from facilities improvement and repair, alterationand renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) <sup>3</sup> of this title, the grant recipient shall maintain a separate account for such funds.
 
 #### (ii) Submission of accounting
 
@@ -76,7 +76,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), grants described in such clause shall not be subjectto section 12.61 of title 43, Code of Federal Regulations. The Secretary and the grantee shall negotiate and determine a schedule of payments for the work to be performed.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), grants described in such clause shall not be subject to section 12.61 of title 43, Code of Federal Regulations. The Secretary and the grantee shall negotiate and determine a schedule of payments for the work to be performed.
 
 #### (iii) Applications
 
@@ -116,7 +116,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(3)(B) and (b)(1)(A)(ii), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 Section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)), referred to in subsec. (b)(4)(B)(iii), probably should be section 1125 of the Education Amendments of 1978, Pub. L. 95–561, which is classified to section 2005 of this title and requires, in subsec. (b), compliance with health and safety standards. Section 1124 of Pub. L. 95–561, which is classified to section 2004 of this title, relates to school boundaries.
 

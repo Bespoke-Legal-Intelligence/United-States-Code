@@ -64,7 +64,7 @@ In addition to the programs authorized under subchapter IV, the Secretary shall 
 
 #### (1) In general
 
-&emsp;In addition to the programs authorized by subsection (a), the Secretary shall establish aprogram to test and develop technologies to control and remove mercury emissions from subbituminous coal mined in the Powder River Basin, and Fort Union lignite coals, that are used for the generation of electricity.
+&emsp;In addition to the programs authorized by subsection (a), the Secretary shall establish a program to test and develop technologies to control and remove mercury emissions from subbituminous coal mined in the Powder River Basin, and Fort Union lignite coals, that are used for the generation of electricity.
 
 #### (2) Efficacy of mercury removal technology
 

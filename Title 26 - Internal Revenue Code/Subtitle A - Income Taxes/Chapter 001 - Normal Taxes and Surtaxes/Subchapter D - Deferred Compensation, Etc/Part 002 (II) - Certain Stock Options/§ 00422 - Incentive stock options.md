@@ -6,7 +6,7 @@ Section 421(a) shall apply with respect to the transfer of a share of stock to a
 
 &emsp;(1) no disposition of such share is made by him within 2 years from the date of the granting of the option nor within 1 year after the transfer of such share to him, and
 
-&emsp;(2) at all times during the period beginning on the date of the granting of the option and ending on the day 3 months before the date of such exercise, such individual was an employee of either the corporation granting such option, a parent or subsidiary corporation of such corporation, or a corporation or a parentor subsidiary corporation of such corporation issuing or assuming a stock option in a transaction to which section 424(a) applies.
+&emsp;(2) at all times during the period beginning on the date of the granting of the option and ending on the day 3 months before the date of such exercise, such individual was an employee of either the corporation granting such option, a parent or subsidiary corporation of such corporation, or a corporation or a parent or subsidiary corporation of such corporation issuing or assuming a stock option in a transaction to which section 424(a) applies.
 
 #### (b) Incentive stock option
 
@@ -150,7 +150,7 @@ Amendment by section 1847(b)(5) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Section 555(c)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a planadopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
+Section 555(c)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
 
 Amendment by section 2662 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 

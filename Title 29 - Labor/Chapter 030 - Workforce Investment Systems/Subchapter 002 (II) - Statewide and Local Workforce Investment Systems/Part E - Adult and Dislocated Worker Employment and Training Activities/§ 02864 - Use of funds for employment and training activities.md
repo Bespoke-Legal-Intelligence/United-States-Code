@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may include an individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
 
-&emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals trainingfor and placed in nontraditional employment; and
+&emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
 
 &emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities described in subsection (d) or (e) of this section through the statewide workforce investment system.
 
@@ -296,7 +296,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating toeligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
 
 #### (iii) Individual training accounts
 

@@ -1,6 +1,6 @@
 ### §3747. Medal of honor; distinguished-service cross; distinguished-service medal; silver star: replacement
 
-Any medal of honor, distinguished-service cross, distinguished-service medal, or silver star, or any bar, ribbon, rosette, or other deviceissued for wear with or in place of any of them, that is stolen, lost, or destroyed, or becomes unfit for use, without fault or neglect of the person to whom it was awarded, shall be replaced without charge.
+Any medal of honor, distinguished-service cross, distinguished-service medal, or silver star, or any bar, ribbon, rosette, or other device issued for wear with or in place of any of them, that is stolen, lost, or destroyed, or becomes unfit for use, without fault or neglect of the person to whom it was awarded, shall be replaced without charge.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 216; Pub. L. 107–107, div. A, title V, §553(a)(2), Dec. 28, 2001, 115 Stat. 1116.)
 

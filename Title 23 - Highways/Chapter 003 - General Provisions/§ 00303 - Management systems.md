@@ -52,7 +52,7 @@ Funding.—Subject to project approval by the Secretary, a State may obligate fu
 
 (h)
 
-Review of Regulations.—Not later than 10 days after the date of issuance of any regulationunder this section, the Secretary shall transmit a copy of such regulation to Congress for review.
+Review of Regulations.—Not later than 10 days after the date of issuance of any regulation under this section, the Secretary shall transmit a copy of such regulation to Congress for review.
 
 (Added Pub. L. 102–240, title I, §1034(a), Dec. 18, 1991, 105 Stat. 1977; amended Pub. L. 103–429, §3(8), (9), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(a), Nov. 28, 1995, 109 Stat. 576.)
 

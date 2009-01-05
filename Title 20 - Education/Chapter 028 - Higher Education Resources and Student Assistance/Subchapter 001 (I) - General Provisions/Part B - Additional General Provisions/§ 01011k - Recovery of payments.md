@@ -8,7 +8,7 @@ Congress declares that, if a facility constructed with the aid of a grant under 
 
 If, within 20 years after completion of construction of an academic facility which has been constructed, in part with a grant under part A of subchapter VII of this chapter as such part A was in effect prior to October 7, 1998, or part B of subchapter VII of this chapter as such part B was in effect prior to July 23, 1992—
 
-&emsp;(1) the applicant under such parts as so in effect (or the applicant's successor in title orpossession) ceases or fails to be a public or nonprofit institution; or
+&emsp;(1) the applicant under such parts as so in effect (or the applicant's successor in title or possession) ceases or fails to be a public or nonprofit institution; or
 
 &emsp;(2) the facility ceases to be used as an academic facility, or the facility is used as a facility excluded from the term “academic facility” (as such term was defined under subchapter VII of this chapter, as so in effect), unless the Secretary determines that there is good cause for releasing the institution from its obligation,
 
@@ -29,16 +29,4 @@ Subchapter VII of this chapter, referred to in text, was amended, effective Oct.
 Provisions similar to this section were contained in section 1132i of this title prior to the general amendment of subchapter VII of this chapter by Pub. L. 105–244.
 
 A prior section 122 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, limited funds authorized to be appropriated and was classified to section 1016a of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-A prior section 1012, Pub. L. 89–329, title I, §112, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1282, related to establishment of off-campus program grants, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-Another prior section 1012, Pub. L. 89–329, title I, §112, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1377, provided for State allotments including percentage breakdown and cases of States not conducting comprehensive statewide planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
-
-A prior section 1013, Pub. L. 89–329, title I, §113, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1284, related to adult and continuing education staff development, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-Another prior section 1013, Pub. L. 89–329, title I, §113, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1378; amended Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 98–524, §4(c)(1), Oct. 19, 1984, 98 Stat. 2488, related to comprehensive statewide planning with respect to education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
-
-A prior section 1014, Pub. L. 89–329, title I, §114, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to administration of programs by Secretary, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-Another prior section 1014, Pub. L. 89–329, title I, §114, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1379; amended Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 98–524, §4(c)(2), Oct. 19, 1984, 98 Stat. 2488, related to information services, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

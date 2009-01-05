@@ -12,7 +12,7 @@
 
 > The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either of such paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
 
-(c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status,and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
+(c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status, and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
 
 &emsp;(1) The employee shall be placed in the position which he held immediately before his assignment to duty outside the United States, if such position exists.
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) If the positions described in paragraph (1) and paragraph (2) do not exist, the employee shall be placed in an additional position which shall be established by the department concerned for a period not in excess of 90 days in order to carry out the purposes of this section. Such additional position shall be in the same geographical area as, with rights and benefits not less than the rights and benefits of, and in a grade not lower than the grade of, the position held by the employee immediately before his assignment to duty outside the United States.
 
-&emsp;(4) If, within 90 days after his placement in a position under paragraph (3) a vacant existing position or new continuing position, for which the employee is qualified, is available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States, the employee shall be placed in such vacant existing position or new continuing position.
+&emsp;(4) If, within 90 days after his placement in a position under paragraph (3) a vacant existing position or new continuing position, forwhich the employee is qualified, is available for the purposes of this section in the department concerned, in the same geographical area as, with rights and benefits equal to the rights and benefits of, and in a grade equal to the grade of, the position which he held immediately before his assignment to duty outside the United States, the employee shall be placed in such vacant existing position or new continuing position.
 
 &emsp;(5) If, within the 90-day period referred to in paragraphs (3) and (4), the employee cannot be placed in a position under paragraph (4), he shall be reassigned or separated under the regulations prescribed by the Office of Personnel Management to carry out sections 3501–3503 of title 5.
 

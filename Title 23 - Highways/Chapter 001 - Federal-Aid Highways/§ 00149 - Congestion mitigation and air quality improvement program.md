@@ -154,7 +154,7 @@ No effect on authority or restrictions.—Nothing in this subsection modifies or
 
 (g)
 
-Interagency Consultation.—The Secretary shall encourage States and metropolitan planning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
+Interagency Consultation.—The Secretary shall encourage States and metropolitanplanning organizations to consult with State and local air quality agencies in nonattainment and maintenance areas on the estimated emission reductions from proposed congestion mitigation and air quality improvement programs and projects.
 
 (h)
 
@@ -206,7 +206,7 @@ Subsec. (b)(4). Pub. L. 109–59, §1808(b)(2)(A), inserted “, including adva
 
 Subsec. (b)(5). Pub. L. 109–59, §1808(b)(3)(A), inserted “improve transportation systems management and operations that mitigate congestion and improve air quality,” after “intersections,”.
 
-Subsec. (b)(6), (7). Pub. L. 109–59, §1808(b)(2)(B), (3)(B), (4), which directed addition of pars. (6) and (7) at end ofsubsec. (b), was executed by adding pars. (6) and (7) after par. (5) to reflect the probable intent of Congress.
+Subsec. (b)(6), (7). Pub. L. 109–59, §1808(b)(2)(B), (3)(B), (4), which directed addition of pars. (6) and (7) at end of subsec. (b), was executed by adding pars. (6) and (7) after par. (5) to reflect the probable intent of Congress.
 
 Subsec. (c)(1). Pub. L. 109–59, §1808(c)(1), substituted “for any project in the State that—” and subpars. (A) and (B) for “for any project eligible under the surface transportation program under section 133.”
 

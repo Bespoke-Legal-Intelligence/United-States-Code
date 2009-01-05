@@ -8,7 +8,7 @@ It shall be unlawful for any registered closed-end company to issue any class of
 
 &emsp;&emsp;(A) immediately after such issuance or sale, it will have an asset coverage of at least 300 per centum;
 
-&emsp;&emsp;(B) provision is made to prohibit the declaration of any dividend (except a dividend payable in stock of the issuer), or the declaration of any other distribution, upon any class of the capital stock of such investmentcompany, or the purchase of any such capital stock, unless, in every such case, such class of senior securities has at the time of the declaration of any such dividend or distribution or at the time of any such purchase an asset coverage of at least 300 per centum after deducting the amount of such dividend, distribution, or purchase price, as the case may be, except that dividends may be declared upon any preferred stock if such senior security representing indebtedness has an asset coverage of at least 200 per centum at the time of declaration thereof after deducting the amount of such dividend; and
+&emsp;&emsp;(B) provision is made to prohibit the declaration of any dividend (except a dividend payable in stock of the issuer), or the declaration of any other distribution, upon any class of the capital stock of such investment company, or the purchase of any such capital stock, unless, in every such case, such class of senior securities has at the time of the declaration of any such dividend or distribution or at the time of any such purchase an asset coverage of at least 300 per centum after deducting the amount of such dividend, distribution, or purchase price, as the case may be, except that dividends may be declared upon any preferred stock if such senior security representing indebtedness has an asset coverage of at least 200 per centum at the time of declaration thereof after deducting the amount of such dividend; and
 
 &emsp;&emsp;(C) provision is made either—
 
@@ -70,7 +70,7 @@ The term “senior security”, when used in subparagraphs (B) and (C) of paragr
 
 #### (i) Future issuance of stock as voting stock; exceptions
 
-Except as provided in subsection (a) of this section, or as otherwise required by law, everyshare of stock hereafter issued by a registered management company (except a common-law trust of the character described in section 80a–16(c) of this title) shall be a voting stock and have equal voting rights with every other outstanding voting stock: <i>Provided</i>, That this subsection shall not apply to shares issued pursuant to the terms of any warrant or subscription right outstanding on March 15, 1940, or any firm contract entered into before March 15, 1940, to purchase such securities from such company nor to shares issued in accordance with any rules, regulations, or orders which the Commission may make permitting such issue.
+Except as provided in subsection (a) of this section, or as otherwise required by law, every share of stock hereafter issued by a registered management company (except a common-law trust of the character described in section 80a–16(c) of this title) shall be a voting stock and have equal voting rights with every other outstanding voting stock: <i>Provided</i>, That this subsection shall not apply to shares issued pursuant to the terms of any warrant or subscription right outstanding on March 15, 1940, or any firm contract entered into before March 15, 1940, to purchase such securities from such company nor to shares issued in accordance with any rules, regulations, or orders which the Commission may make permitting such issue.
 
 #### (j) Securities issued by registered face-amount certificate company
 
@@ -86,7 +86,7 @@ Notwithstanding any provision of this subchapter, it shall be unlawful, after Au
 
 The provisions of subparagraphs (A) and (B) of paragraph (1) of subsection (a) of this section shall not apply to investment companies operating under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\], and the provisions of paragraph (2) of said subsection shall not apply to such companies so long as such class of senior security shall be held or guaranteed by the Small Business Administration.
 
-(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Pub. L. 85–699, title III, §307(c), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–547, §10, Dec. 14, 1970, 84 Stat. 1421; Pub. L. 85–699, title III, §317, formerly §319, Aug. 21, 1958, as added Pub. L. 92–595, §2(g), Oct. 27, 1972, 86 Stat. 1316, renumbered §317, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 94–29, §28(4), June 4, 1975, 89 Stat. 165; Pub. L. 100–181, title VI, §613, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 105–353, title III, §301(c)(4), Nov. 3, 1998, 112 Stat. 3236.)
+(Aug. 22, 1940, ch. 686, title I, §18, 54 Stat. 817; Pub. L. 85–699, title III, §307(c), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–547, §10, Dec. 14, 1970, 84 Stat. 1421; Pub. L. 85–699, title III, §317, formerly §319, Aug. 21, 1958, as added Pub. L. 92–595, §2(g), Oct. 27, 1972, 86 Stat. 1316, renumbered §317, Pub.L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 94–29, §28(4), June 4, 1975, 89 Stat. 165; Pub. L. 100–181, title VI, §613, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 105–353, title III, §301(c)(4), Nov. 3, 1998, 112 Stat. 3236.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of research and development program
 
-The Secretary shall carry out a research and development program through the Homeland Security Advanced Research Projects Agency inthe Science and Technology Directorate and in consultation with the Transportation Security Administration and with the Federal Transit Administration, for the purpose of improving the security of public transportation systems.
+The Secretary shall carry out a research and development program through the Homeland Security Advanced Research Projects Agency in the Science and Technology Directorate and in consultation with the Transportation Security Administration and with the Federal Transit Administration, for the purpose of improving the security of public transportation systems.
 
 #### (b) Grants and contracts authorized
 

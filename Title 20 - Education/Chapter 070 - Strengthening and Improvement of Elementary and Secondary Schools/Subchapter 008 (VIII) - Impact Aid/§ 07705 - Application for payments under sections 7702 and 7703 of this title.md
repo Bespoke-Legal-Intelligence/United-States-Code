@@ -46,7 +46,7 @@ The Secretary shall establish deadlines for the submission of applications under
 
 #### (4) State application authority
 
-&emsp;Notwithstanding any other provision of law, a State educational agency that had been accepted as an applicant for funds under section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) in fiscal year 1994 shall be permitted to continue as an applicant under the same conditions by which such agency made application during such fiscal year only if such State educational agency distributes all funds received for the students for which application is being made by such State educational agency to the local educational agencies providing educational services to such students.
+&emsp;Notwithstanding any other provision of law, a State educational agency that had been accepted as an applicant for funds under section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) in fiscal year 1994 shall be permitted to continue as an applicant under the same conditions by which such agency made application during such fiscal year only if such State educational agency distributes all funds received for the students for which application is being made by such State educational agency to the localeducational agencies providing educational services to such students.
 
 (Pub. L. 89–10, title VIII, §8005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3761; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–382.)
 
@@ -56,7 +56,7 @@ Section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as s
 
 #### Prior Provisions
 
-A prior section 8005 of Pub. L. 89–10 was renumbered section 9005 and was classified to section 3386 of thistitle, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+A prior section 8005 of Pub. L. 89–10 was renumbered section 9005 and was classified to section 3386 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
 

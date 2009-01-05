@@ -26,9 +26,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) file, or are eligible to file, a form described in paragraph (3);
 
-&emsp;&emsp;&emsp;&emsp;(II) certify that the parents are not required to file a Federal income tax return; or
+&emsp;&emsp;&emsp;&emsp;(II) certify that the parents are not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;&emsp;(III) received, or the student received, benefits at some time during the previous 12-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;&emsp;(III) 1 of whom is a dislocated worker; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
 &emsp;&emsp;&emsp;(ii) the total adjusted gross income of the parents (excluding any income of the dependent student) is less than $50,000; or
 
@@ -38,9 +40,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) files, or is eligible to file, a form described in paragraph (3);
 
-&emsp;&emsp;&emsp;&emsp;(II) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return; or
+&emsp;&emsp;&emsp;&emsp;(II) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;&emsp;(III) received benefits at some time during the previous 12-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;&emsp;(III) 1 of whom is a dislocated worker; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
 &emsp;&emsp;&emsp;(ii) the adjusted gross income of the student (and the student's spouse, if any) is less than $50,000.
 
@@ -80,11 +84,13 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(i) file, or are eligible to file, a form described in subsection (b)(3);
 
-&emsp;&emsp;&emsp;(ii) certify that the parents are not required to file a Federal income tax return; or
+&emsp;&emsp;&emsp;(ii) certify that the parents are not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;(iii) received, or the student received, benefits at some time during the previous 12-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;(iii) 1 of whom is a dislocated worker; or
 
-&emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $20,000; or
+&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
+
+&emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $30,000; or
 
 &emsp;(2) in the case of an independent student with dependents other than a spouse—
 
@@ -92,77 +98,71 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(i) files, or is eligible to file, a form described in subsection (b)(3);
 
-&emsp;&emsp;&emsp;(ii) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return; or
+&emsp;&emsp;&emsp;(ii) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
 
-&emsp;&emsp;&emsp;(iii) received benefits at some time during the previous 12-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;(iii) 1 of whom is a dislocated worker; or
 
-&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $20,000.
+&emsp;&emsp;&emsp;(iv) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
-> An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection.
+&emsp;&emsp;(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $30,000.
 
-#### (d) Definition of means-tested Federal benefit program
+> An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection. The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.
 
-In this section, the term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program's benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
+#### (d) Definitions
 
-&emsp;(1) the supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.);
+In this section:
 
-&emsp;(2) the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.);
+#### (1) Dislocated worker
 
-&emsp;(3) the free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.);
+&emsp;The term “dislocated worker” has the meaning given the term in section 2801 of title 29.
 
-&emsp;(4) the program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+#### (2) Means-tested Federal benefit program
 
-&emsp;(5) the special supplemental nutrition program for women, infants, and children established by section 1786 of title 42; and
+&emsp;The term “means-tested Federal benefit program” means a mandatory spending program of the Federal Government, other than a program under this subchapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the program's benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
 
-&emsp;(6) other programs identified by the Secretary.
+&emsp;&emsp;(A) the supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.);
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804.)
+&emsp;&emsp;(B) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
 
-#### Amendment of Section
+&emsp;&emsp;(C) the free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.);
 
-<i>Pub. L. 110–84, title VI, §602, Sept. 27, 2007, 121 Stat. 804, provided that, effective July 1, 2009, this section is amended as follows:</i>
+&emsp;&emsp;(D) the program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
-<i>(1) in subsection (b)(1)(A)(i) and (B)(i), by striking “or” after the semicolon in subclause (II), by redesignating subclause (III) as sub</i><i>clause (IV) and striking “12-month” and inserting “24-month”, and by inserting after subclause (II) the following:</i>
+&emsp;&emsp;(E) the special supplemental nutrition program for women, infants, and children established by section 1786 of title 42; and
 
-&emsp;&emsp;&emsp;&emsp;<i>“(III) 1 of whom is a dislocated worker; or”;</i>
+&emsp;&emsp;(F) other programs identified by the Secretary.
 
-<i>(2) in subsection (c):</i>
-
-<i>(A) in paragraphs (1)(A) and (2)(A), by striking “or” after the semicolon in clause (ii), by redesignating clause (iii) as clause (iv) and striking “12-month” and inserting “24-month”, and by inserting after clause (ii) the following:</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) 1 of whom is a dislocated worker; or”;</i>
-
-<i>(B) in paragraphs (1)(B) and (2)(B), by striking “$20,000” and inserting “$30,000”; and</i>
-
-<i>(C) in the flush matter following paragraph (2)(B), by adding at the end the following: “The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.”; and</i>
-
-<i>(3) in subsection (d):</i>
-
-<i>(A) by redesignating paragraphs (1) through (6) as subparagraphs (A) through (F), respectively, and adjusting the margins; and</i>
-
-<i>(B) by striking “(d) Definition” and all that follows through “the term” and inserting the following:</i>
-
-#### <i>“(d) Definitions</i>
-
-<i>“In this section:</i>
-
-#### <i>“(1) Dislocated worker</i>
-
-&emsp;<i>“The term ‘dislocated worker’ has the meaning given the term in section 2801 of title 29.</i>
-
-#### <i>“(2) Means-tested Federal benefit program</i>
-
-&emsp;<i>“The term”.</i>
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(N), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+2007—Subsec. (b)(1)(A)(i), (B)(i). Pub. L. 110–84, §602(a)(1), added subcl. (III), redesignated former subcl. (III) as (IV), and, in subcl. (IV), substituted “24-month” for “12-month”.
+
+Subsec. (c). Pub. L. 110–84, §602(a)(2)(C), inserted at end of concluding provisions “The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.”
+
+Subsec. (c)(1)(A). Pub. L. 110–84, §602(a)(2)(A)(i), added cl. (iii), redesignated former cl. (iii) as (iv), and, in cl. (iv), substituted “24-month” for “12-month”.
+
+Subsec. (c)(1)(B). Pub. L. 110–84, §602(a)(2)(A)(ii), substituted “$30,000” for “$20,000”.
+
+Subsec. (c)(2)(A). Pub. L. 110–84, §602(a)(2)(B)(i), added cl. (iii), redesignated former cl. (iii) as (iv), and, in cl. (iv), substituted “24-month” for “12-month”.
+
+Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted “$30,000” for “$20,000”.
+
+Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted “Definitions” for “Definition of means-tested Federal benefit program” in heading, added par. (1), designated existing provisions as par. (2) and substituted “The term” for “In this section, the term” in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
 2006—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and”.
 
@@ -221,6 +221,12 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out “and State” after 
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (B), (2)(N) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2007 Amendment
 

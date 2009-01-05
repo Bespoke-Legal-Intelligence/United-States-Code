@@ -8,9 +8,11 @@ The Commission may cause to be published from time to time reports summarizing a
 
 The Commission may also cause to be disseminated information regarding hazardous substances in situations involving, in the opinion of the Commission, imminent danger to health. Nothing in this section shall be construed to prohibit the Commission from collecting, reporting, and illustrating the results of the investigations of the Commission.
 
-(Pub. L. 86–613, §13, July 12, 1960, 74 Stat. 379; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 86–613, §13, July 12, 1960, 74 Stat. 379; Pub. L. 110–314, title II, §204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
-#### Transfer of Functions
+#### Amendments
 
-“Commission” substituted for “Secretary” in subsec. (a) and for “Secretary” and “Department” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+2008—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
+
+Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission” for “Department” after “investigations of the” and for “Secretary” wherever appearing.
 

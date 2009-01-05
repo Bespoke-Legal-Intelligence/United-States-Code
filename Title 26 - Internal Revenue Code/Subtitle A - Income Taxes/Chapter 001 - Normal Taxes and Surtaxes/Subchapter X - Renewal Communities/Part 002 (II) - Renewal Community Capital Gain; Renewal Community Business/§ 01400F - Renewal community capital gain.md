@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “qualified community stock” means any stock in a domestic corporation if—
 
-&emsp;&emsp;&emsp;(i) such stock is acquired by the taxpayer after December 31, 2001, and beforeJanuary 1, 2010, at its original issue (directly or through an underwriter) from the corporation solely in exchange for cash,
+&emsp;&emsp;&emsp;(i) such stock is acquired by the taxpayer after December 31, 2001, and before January 1, 2010, at its original issue (directly or through an underwriter) from the corporation solely in exchange for cash,
 
 &emsp;&emsp;&emsp;(ii) as of the time such stock was issued, such corporation was a renewal community business (or, in the case of a new corporation, such corporation was being organized for purposes of being a renewal community business), and
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) as of the time such interest was acquired, such partnership was a renewal community business (or, in the case of a new partnership, such partnership was being organized for purposes of being a renewal community business), and
 
-&emsp;&emsp;(C) during substantially all of the taxpayer's holding period for such interest, such partnership qualified as a renewal community business.
+&emsp;&emsp;(C) during substantially all of the taxpayer's holding period for such interest, suchpartnership qualified as a renewal community business.
 
 > &emsp;A rule similar to the rule of paragraph (2)(B) shall apply for purposes of this paragraph.
 
@@ -90,15 +90,17 @@ For purposes of this section—
 
 #### (d) Certain rules to apply
 
-For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “January 1, 2002” for “January 1, 1998” and “December 31, 2014” for “December 31, 2012”.
+For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “January 1, 2002” for “January 1, 1998” and “December 31, 2014” for “December 31, 2014”.
 
 #### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the abuse of the purposes of this section.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–594; amended Pub. L. 108–311, title III, §310(c)(2)(C), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(2)(C), Dec. 20, 2006, 120 Stat. 2940.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–594; amended Pub. L. 108–311, title III, §310(c)(2)(C), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(2)(C), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(2)(C), Oct. 3, 2008, 122 Stat. 3874.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–343 substituted “2014’.” for “2012’.”.
 
 2006—Subsec. (d). Pub. L. 109–432 substituted “2012” for “2010”.
 

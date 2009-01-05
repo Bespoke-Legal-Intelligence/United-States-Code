@@ -12,7 +12,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 &emsp;(1) serve as head of the intelligence community;
 
-&emsp;(2) act as the principal adviser to the President, to the National Security Council, andthe Homeland Security Council for intelligence matters related to the national security; and
+&emsp;(2) act as the principal adviser to the President, to the National Security Council, and the Homeland Security Council for intelligence matters related to the national security; and
 
 &emsp;(3) consistent with section 1018 of the National Security Intelligence Reform Act of 2004, oversee and direct the implementation of the National Intelligence Program.
 
@@ -164,5 +164,5 @@ Ex. Ord. No. 12331, Oct. 20, 1981, 46 F.R. 51705, which established the Presiden
 
 #### Executive Order No. 12537
 
-Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 12624, Jan. 6, 1988, 53 F.R. 489, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out as a note under section 401 of this title.
+Ex. Ord. No. 12537, Oct. 28, 1985, 50 F.R. 45083, as amended by Ex. Ord. No. 12624, Jan. 6, 1988, 53 F.R. 489, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, formerly set out as a note under section 401 of this title.
 

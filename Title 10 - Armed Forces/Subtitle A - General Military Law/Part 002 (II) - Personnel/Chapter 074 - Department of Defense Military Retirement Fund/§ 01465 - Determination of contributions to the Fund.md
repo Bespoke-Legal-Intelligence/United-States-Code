@@ -28,7 +28,7 @@
 
 > Such single level percentages shall be used for the purposes of subsection (b)(1) and section 1466(a) of this title.
 
-(2) If at the time of any such valuation (or any valuation carried out in order to comply with chapter 95 of title 31) there has been a change in benefits under a military retirement or survivor benefit program that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
+(2) If at the time of any such valuation (or any valuation carried out in order to comply with chapter 95 of title 31) there has been a change in benefits under a military retirement or survivor benefit program that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments\(or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
 
 (3) If at the time of any such valuation (or any valuation carried out in order to comply with chapter 95 of title 31) the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -92,7 +92,7 @@ Pub. L. 109–364, div. A, title V, §591(c), Oct. 17, 2006, 120 Stat. 2233, pro
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under section 1413a of this title.
+Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L.108–136, set out as a note under section 1413a of this title.
 
 #### Effective Date of 1986 Amendments
 

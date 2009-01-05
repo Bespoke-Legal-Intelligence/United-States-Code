@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 105–285, §302(c), designated existing provisions as par.
 
 Subsec. (e). Pub. L. 105–285, §302(d), substituted “There is authorized” for “There are authorized” and “(other than subsection (e) of such section)” for “(other than subsection (g))”.
 
-1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
+1994—Subsec. (a). Pub. L. 103–252, §302, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Health and Human Services is authorized to make grants, in accordance with the provisions of this subchapter, to States to assist eligible households to meet the costs of home energy.”
 
 Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999” for “this subchapter (other than section 8626a of this title) $2,307,000,000 for fiscal year 1990, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993, 1994, and 1995” and struck out second period at end.
 
@@ -120,7 +120,7 @@ Section 609 of Pub. L. 98–558 provided that:
 
 “(c) The amendments made by section 606 \[amending section 8626 of this title\] shall apply to amounts held available for fiscal years beginning after September 30, 1985.
 
-“(d) The amendment made by section 607 \[amending section 8629 of this title\] shall apply to data collected and compiled after the date of the enactment of this Act \[Oct. 30, 1984\]. Section 2610 of the Act \[section 8629 of this title\] as in effect before the date of the enactment of this Act shall apply with respect to the report submitted under such section 2610 for fiscal year 1984.”
+“(d) The amendment made by section 607 \[amending section 8629 of this title\] shall apply to data collectedand compiled after the date of the enactment of this Act \[Oct. 30, 1984\]. Section 2610 of the Act \[section 8629 of this title\] as in effect before the date of the enactment of this Act shall apply with respect to the report submitted under such section 2610 for fiscal year 1984.”
 
 #### Short Title of 1998 Amendment
 

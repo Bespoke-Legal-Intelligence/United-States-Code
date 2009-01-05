@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2007 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2008 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5654,6 +5654,12 @@ General Savings Provision.—An action taken or an offense committed under a pro
 | [<b>30.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20030%20-%20All-Volunteer%20Force%20Educational%20Assistance%20Program/README.md) | <b>All-Volunteer Force Educational Assistance Program</b> | <b>3001</b> |
 | [<b>31.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20031%20-%20Training%20and%20Rehabilitation%20for%20Veterans%20with%20Service-Connected%20Disabilities/README.md) | <b>Training and Rehabilitation for Veterans with Service-Connected Disabilities</b> | <b>3100</b> |
 | [<b>32.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20032%20-%20Post-Vietnam%20Era%20Veterans%E2%80%99%20Educational%20Assistance/README.md) | <b>Post-Vietnam Era Veterans’ Educational Assistance</b> | <b>3201</b> |
+| [<b>33.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20033%20-%20Post%E2%80%939-11%20Educational%20Assistance/README.md) | <b>Post-9/11 Educational Assistance</b> | <b>3301.</b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>34.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20034%20-%20Veterans%E2%80%99%20Educational%20Assistance/README.md) | <b>Veterans’ Educational Assistance</b> | <b>3451</b> |
 | [<b>35.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20035%20-%20Survivors%E2%80%99%20and%20Dependents%E2%80%99%20Educational%20Assistance/README.md) | <b>Survivors’ and Dependents’ Educational Assistance</b> | <b>3500</b> |
 | [<b>36.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/Chapter%20036%20-%20Administration%20of%20Educational%20Benefits/README.md) | <b>Administration of Educational Benefits</b> | <b>3670</b> |
@@ -5698,7 +5704,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>81.</b>](Part%20006%20%28VI%29%20-%20Acquisition%20and%20Disposition%20of%20Property/Chapter%20081%20-%20Acquisition%20and%20Operation%20of%20Hospital%20and%20Domiciliary%20Facilities%3B%20Procurement%20and%20Supply%3B%20Enhanced-Use%20Leases%20of%20Real%20Property/README.md) | <b>Acquisition and Operation of Hospital and Domiciliary Facilities; Procurement and Supply; Enhanced-Use Leases of Real Property </b><b><sup>1</sup></b> | <b>8101</b> |
+| [<b>81.</b>](Part%20006%20%28VI%29%20-%20Acquisition%20and%20Disposition%20of%20Property/Chapter%20081%20-%20Acquisition%20and%20Operation%20of%20Hospital%20and%20Domiciliary%20Facilities%3B%20Procurement%20and%20Supply%3B%20Enhanced-Use%20Leases%20of%20Real%20Property/README.md) | <b>Acquisition and Operation of Hospital and Domiciliary Facilities; Procurement and Supply; Enhanced-Use Leases of Real Property </b><b><sup>2</sup></b> | <b>8101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -5711,6 +5717,8 @@ General Savings Provision.—An action taken or an offense committed under a pro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–252, title V, §5003(a)(2), June 30, 2008, 122 Stat. 2375, added item for chapter 33.
 
 2006—Pub. L. 109–461, title IX, §903(a)(2), Dec. 22, 2006, 120 Stat. 3464, added item for chapter 79.
 

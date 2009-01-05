@@ -258,7 +258,7 @@ Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—
 
 &emsp;(1)
 
-In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referredto as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
+In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
 
 &emsp;(2)
 
@@ -410,7 +410,7 @@ Limitation on reporting requirements.—Information required to be reported by t
 
 &emsp;&emsp;(A) the Board of Governors of the Federal Reserve System and the Secretary jointly determine that a particular item or items of information are not currently required to be retained under such section or such regulations; and
 
-&emsp;&emsp;(B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary to identify cross-border money laundering and terrorist financing.
+&emsp;&emsp;(B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary toidentify cross-border money laundering and terrorist financing.
 
 &emsp;(3)
 
@@ -424,7 +424,7 @@ Feasibility report.—
 
 In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
-&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of fundsthat may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
+&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
 &emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
 
@@ -496,7 +496,7 @@ For provisions relating to the Bank Secrecy Act Advisory Group, referred to in s
 
 #### Amendments
 
-2006—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
+2006—Subsec. (n)(4)(A). Pub. L. 109–177 substituted “Intelligence Reform and Terrorism Prevention Act of 2004” for “National Intelligence Reform Act of 2004” in introductory provisions.
 
 2004—Subsec. (h)(3). Pub. L. 108–458, §6202(h), made technical correction to directory language of Pub. L. 107–56, §325. See 2001 Amendment note below.
 
@@ -594,7 +594,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
+Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31,United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -670,7 +670,7 @@ Report to Congress.—The Financial Institutions Examination Council shall submi
 
 “(d)
 
-Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
+Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has thesame meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

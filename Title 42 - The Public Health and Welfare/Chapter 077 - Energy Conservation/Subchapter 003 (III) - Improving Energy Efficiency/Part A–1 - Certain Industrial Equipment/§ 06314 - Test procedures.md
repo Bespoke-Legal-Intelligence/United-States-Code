@@ -38,7 +38,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (ii) In the case of self-contained refrigerators, freezers, and refrigerator-freezers to which standards are applicable under paragraphs (2) and (3) of section 6313(c) of this title, the initial test procedures shall be the ASHRAE 117 test procedure that is in effect on January 1, 2005.
 
-(B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (G6�1B 2 degrees F) for refrigerator compartments and 0 degrees F (G6�1B 2 degrees F) for freezer compartments.
+(B)(i) <sup>2</sup> In the case of commercial refrigerators, freezers, and refrigerator-freezers with doors covered by the standards adopted in February 2002, by the California Energy Commission, the rating temperatures shall be the integrated average temperature of 38 degrees F (G6�1B 2 degrees F)for refrigerator compartments and 0 degrees F (G6�1B 2 degrees F) for freezer compartments.
 
 (C) The Secretary shall issue a rule in accordance with paragraphs (2) and (3) to establish the appropriate rating temperatures for the other products for which standards will be established under section 6313(c)(4) of this title.
 
@@ -122,7 +122,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 > respecting the energy consumption of such equipment or cost of energy consumed by such equipment, unless such equipment has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed notlater than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
+(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 
 #### (e) Assistance by National Institute of Standards and Technology
 

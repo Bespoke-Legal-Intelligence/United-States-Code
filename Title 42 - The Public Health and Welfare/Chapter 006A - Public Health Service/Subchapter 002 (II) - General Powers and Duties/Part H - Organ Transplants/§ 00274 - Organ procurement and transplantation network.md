@@ -2,7 +2,7 @@
 
 #### (a) Contract authority of Secretary; limitation; available appropriations
 
-The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $2,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
+The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
 
 #### (b) Functions
 
@@ -60,7 +60,7 @@ The Secretary shall establish procedures for—
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
-(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156.)
+(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835.)
 
 #### Prior Provisions
 
@@ -70,9 +70,11 @@ Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–426 substituted “$7,000,000” for “$2,000,000”.
+
 2000—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O).
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
+1990—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurementand transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
 
 Subsec. (b)(1)(B). Pub. L. 101–616, §202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have a board of directors which includes representatives of organ procurement organizations (including organizations which have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public.”
 
@@ -99,4 +101,26 @@ Subsec. (c). Pub. L. 100–607, §403(b), added subsec. (c).
 #### Effective Date of 1990 Amendment
 
 Section 202(d) of Pub. L. 101–616 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990.”
+
+#### Report; Limitation on Amendment by Pub. L. 110–426
+
+Pub. L. 110–426, §3, Oct. 15, 2008, 122 Stat. 4835, provided that:
+
+“(a)
+
+In General.—The Secretary of Health and Human Services shall request that the Executive Director of the Organ Procurement and Transplantation Network submit to Congress, not later than 1 year after the date of enactment of this Act \[Oct. 15, 2008\], a report that shall include—
+
+&emsp;“(1) the identity of transplant programs that have become inactive or have closed since the heart allocation policy change of 2006;
+
+&emsp;“(2) the distance to the next closest operational heart transplant center from such inactivated or closed programs and an evaluation of whether or not access to care has been reduced to the population previously serviced by such inactive or closed program;
+
+&emsp;“(3) the number of patients with rural zip codes that received transplants after the heart allocation policy change of 2006 as compared with the number of such patients that received such transplants prior to such heart allocation policy change;
+
+&emsp;“(4) a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and
+
+&emsp;“(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
+
+“(b)
+
+Limitation on Funding.—The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a).”
 

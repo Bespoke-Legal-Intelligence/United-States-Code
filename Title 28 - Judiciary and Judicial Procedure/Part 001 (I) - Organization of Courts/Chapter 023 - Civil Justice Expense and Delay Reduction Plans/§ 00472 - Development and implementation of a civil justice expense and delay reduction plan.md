@@ -2,7 +2,7 @@
 
 (a) The civil justice expense and delay reduction plan implemented by a district court shall be developed or selected, as the case may be, after consideration of the recommendations of an advisory group appointed in accordance with section 478 of this title.
 
-(b) The advisory group of a United States district court shall submit to the court a report, which shall be made available to the public and which shall include—
+(b) The advisory group of a United States district court shall submit to the court a report,which shall be made available to the public and which shall include—
 
 &emsp;(1) an assessment of the matters referred to in subsection (c)(1);
 

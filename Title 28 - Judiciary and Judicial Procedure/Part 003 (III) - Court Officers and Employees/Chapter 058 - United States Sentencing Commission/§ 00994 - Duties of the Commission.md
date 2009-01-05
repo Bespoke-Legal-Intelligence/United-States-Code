@@ -256,7 +256,17 @@ For termination, effective May 15, 2000, of provisions in subsec. (w) of this se
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
 
-Pub. L. 110–179, §5, Jan. 7, 2008, 121 Stat. 2557.—Fraud or theft offenses in connection with major disasters or emergencies.
+Pub. L. 110–457, title II, §222(g), Dec. 23, 2008, 122 Stat. 5071.—Alien harboring in furtherance of prostitution.
+
+Pub. L. 110–425, §3(k)(2), Oct. 15, 2008, 122 Stat. 4833.—Offenses involving dispensing of controlled substances by means of the Internet.
+
+Pub. L. 110–407, title I, §103, Oct. 13, 2008, 122 Stat. 4298.—Operating or embarking in a submersible or semi-submersible vessel without nationality.
+
+Pub. L. 110–384, Oct. 10, 2008, 122 Stat. 4094.—Desecration or theft of veterans’ grave markers.
+
+Pub. L. 110–326, title II, §209, Sept. 26, 2008, 122 Stat. 3564.—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
+
+Pub. L. 110–179, §5, Jan. 7, 2008, 121 Stat. 2557.—Fraud or theft in connection with major disasters or emergencies.
 
 Pub. L. 110–177, title II, §209, Jan. 7, 2008, 121 Stat. 2538.—Online threats against United States officials, judges, or law enforcement officers and immediate family members.
 

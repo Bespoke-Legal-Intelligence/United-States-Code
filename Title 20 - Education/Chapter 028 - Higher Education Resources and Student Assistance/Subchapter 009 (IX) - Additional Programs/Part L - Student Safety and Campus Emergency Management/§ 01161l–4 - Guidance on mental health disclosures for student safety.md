@@ -1,0 +1,16 @@
+### §1161<i>l</i>–4. Guidance on mental health disclosures for student safety
+
+#### (a) Guidance
+
+The Secretary shall continue to provide guidance that clarifies the role of institutions of higher education with respect to the disclosure of education records, including to a parent or legal guardian of a dependent student, in the event that such student demonstrates that the student poses a significant risk of harm to himself or herself or to others, including a significant risk of suicide, homicide, or assault. Such guidance shall further clarify that an institution of higher education that, in good faith, discloses education records or other information in accordance with the requirements of this chapter and section 1232g of this title (the Family Educational Rights and Privacy Act of 1974) shall not be liable to any person for that disclosure.
+
+#### (b) Information to Congress
+
+The Secretary shall provide an update to the authorizing committees on the Secretary's activities under subsection (a) not later than 180 days after August 14, 2008.
+
+(Pub. L. 89–329, title VIII, §825, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3412.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+

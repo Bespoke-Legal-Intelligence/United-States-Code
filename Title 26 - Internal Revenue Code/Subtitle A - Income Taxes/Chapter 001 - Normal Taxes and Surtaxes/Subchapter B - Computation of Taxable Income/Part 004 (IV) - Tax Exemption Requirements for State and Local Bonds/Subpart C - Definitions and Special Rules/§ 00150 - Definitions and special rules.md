@@ -44,7 +44,7 @@ For purposes of this part—
 
 &emsp;In the case of any project for residential rental property—
 
-&emsp;&emsp;(A) with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to be a tax-exempt bond described in paragraph (7) of section 142(a), and
+&emsp;&emsp;(A) with respect to which financing is provided from the proceeds of any private activity bond which, when issued, purported to bea tax-exempt bond described in paragraph (7) of section 142(a), and
 
 &emsp;&emsp;(B) which does not meet the requirements of section 142(d),
 
@@ -180,7 +180,7 @@ For purposes of this part and section 103—
 
 #### (E) Independent member
 
-&emsp;&emsp;The term “independent member” means a member of the board of directors of the issuer who (except for services as a member ofsuch board) receives no compensation directly or indirectly—
+&emsp;&emsp;The term “independent member” means a member of the board of directors of the issuer who (except for services as a member of such board) receives no compensation directly or indirectly—
 
 &emsp;&emsp;&emsp;(i) for services performed in connection with such transferee corporation, or
 

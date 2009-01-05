@@ -76,6 +76,18 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (2) The authority of the head of an executive agency under subsection (c)(7) of this section may not be delegated.
 
+(3)(A) The contract period of a contract described in subparagraph (B) that is entered into by an executive agency pursuant to the authority provided under subsection (c)(2)—
+
+&emsp;(i) may not exceed the time necessary—
+
+&emsp;&emsp;(I) to meet the unusual and compelling requirements of the work to be performed under the contract; and
+
+&emsp;&emsp;(II) for the executive agency to enter into another contract for the required goods or services through the use of competitive procedures; and
+
+&emsp;(ii) may not exceed one year unless the head of the executive agency entering into such contract determines that exceptional circumstances apply.
+
+(B) This paragraph applies to any contract in an amount greater than the simplified acquisition threshold.
+
 #### (e) Offer requests to potential sources
 
 An executive agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) of this section shall request offers from as many potential sources as is practicable under the circumstances.
@@ -120,9 +132,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;(F) a statement of the actions, if any, the agency may take to remove or overcome a barrier to competition before a subsequent procurement for such needs.
 
-(4) The justification required by paragraph (1)(A) and any related information shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.
-
-(5) In no case may an executive agency—
+(4) In no case may an executive agency—
 
 &emsp;(A) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount of funds available to the agency for procurement functions; or
 
@@ -168,7 +178,15 @@ The Federal Acquisition Regulation shall ensure that the requirement to obtain f
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
 
-(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850.)
+(j)(1)(A) Except as provided in subparagraph (B), in the case of a procurement permitted by subsection (c), the head of an executive agency shall make publicly available, within 14 days after the award of the contract, the documents containing the justification and approval required by subsection (f)(1) with respect to the procurement.
+
+(B) In the case of a procurement permitted by subsection (c)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
+
+(2) The documents shall be made available on the website of the agency and through a government-wide website selected by the Administrator for Federal Procurement Policy.
+
+(3) This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
+
+(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 110–181, div. A, title VIII, §844(a), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(a), Oct. 14, 2008, 122 Stat. 4546.)
 
 #### References in Text
 
@@ -179,6 +197,12 @@ Section 414 of this title, referred to in subsec. (f)(1)(B)(iii), was amended ge
 The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–417 added par. (3).
+
+Subsec. (f)(4), (5). Pub. L. 110–181, §844(a)(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The justification required by paragraph (1)(A) and any related information shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.”
+
+Subsec. (j). Pub. L. 110–181, §844(a)(1), added subsec. (j).
 
 1997—Subsec. (g)(5). Pub. L. 105–85 substituted “section 427(f)” for “section 427(g)”.
 

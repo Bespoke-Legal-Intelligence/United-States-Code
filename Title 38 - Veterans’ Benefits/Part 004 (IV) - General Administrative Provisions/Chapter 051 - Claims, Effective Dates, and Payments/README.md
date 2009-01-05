@@ -36,12 +36,8 @@
 |  |  |
 | :--- | ---: |
 | [5120\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005120%20-%20Payment%20of%20benefits%3B%20delivery.md) | Payment of benefits; delivery. |
-| [5121\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005121%20-%20Payment%20of%20certain%20accrued%20benefits%20upon%20death%20of%20a%20beneficiary.md) | Payment of certain accrued benefits upon death of beneficiary.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [5121\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005121%20-%20Payment%20of%20certain%20accrued%20benefits%20upon%20death%20of%20a%20beneficiary.md) | Payment of certain accrued benefits upon death of a beneficiary. |
+| [5121A.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005121A%20-%20Substitution%20in%20case%20of%20death%20of%20claimant.md) | Substitution in case of death of claimant. |
 | [5122\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005122%20-%20Cancellation%20of%20checks%20mailed%20to%20deceased%20payees.md) | Cancellation of checks mailed to deceased payees. |
 | [5123\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005123%20-%20Rounding%20down%20of%20pension%20rates.md) | Rounding down of pension rates. |
 | [5124\.](Subchapter%20003%20%28III%29%20-%20Payment%20of%20Benefits/%C2%A7%2005124%20-%20Acceptance%20of%20claimant%27s%20statement%20as%20proof%20of%20relationship.md) | Acceptance of claimant's statement as proof of relationship. |
@@ -51,6 +47,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title II, §212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
+
+Pub. L. 110–387, title IX, §901(a)(5), Oct. 10, 2008, 122 Stat. 4142, substituted “death of a beneficiary” for “death of beneficiary” in item 5121.
 
 2003—Pub. L. 108–183, title VII, §707(a)(2), Dec. 16, 2003, 117 Stat. 2673, added item 5109B.
 

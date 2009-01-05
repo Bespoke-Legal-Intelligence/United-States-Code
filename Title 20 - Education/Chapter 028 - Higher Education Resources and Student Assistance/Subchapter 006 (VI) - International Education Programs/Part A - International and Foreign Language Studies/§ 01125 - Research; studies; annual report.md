@@ -18,15 +18,21 @@ The Secretary may, directly or through grants or contracts, conduct research and
 
 &emsp;(7) studies and surveys of the uses of technology in foreign language, area studies, and international studies programs;
 
-&emsp;(8) studies and evaluations of effective practices in the dissemination of international information, materials, research, teaching strategies, and testing techniques throughout the education community, including elementary and secondary schools; and
+&emsp;(8) studies and evaluations of effective practices in the dissemination of international information, materials, research, teaching strategies, and testing techniques throughout the education community, including elementary and secondary schools;
 
-&emsp;(9) the application of performance tests and standards across all areas of foreign language instruction and classroom use.
+&emsp;(9) the application of performance tests and standards across all areas of foreign language instruction and classroom use;
+
+&emsp;(10) evaluation of the extent to which programs assisted under this subchapter reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs, as described in the grantee's application;
+
+&emsp;(11) the systematic collection, analysis, and dissemination of data that contribute to achieving the purposes of this part; and
+
+&emsp;(12) support for programs or activities to make data collected, analyzed, or disseminated under this section publicly available and easy to understand.
 
 #### (b) Annual report
 
 The Secretary shall prepare, publish, and announce an annual report listing the books and research materials produced with assistance under this section.
 
-(Pub. L. 89–329, title VI, §605, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1780.)
+(Pub. L. 89–329, title VI, §605, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1780; amended Pub. L. 110–315, title VI, §605, Aug. 14, 2008, 122 Stat. 3337.)
 
 #### Prior Provisions
 
@@ -41,4 +47,8 @@ Prior sections 1125a and 1125b were omitted in the general amendment of this par
 Section 1125a, Pub. L. 89–329, title VI, §607, as added Pub. L. 99–498, title VI, §607, Oct. 17, 1986, 100 Stat. 1518; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 726; Pub. L. 103–208, §2(j)(13), Dec. 20, 1993, 107 Stat. 2481, related to periodicals and other research materials published outside the United States.
 
 Section 1125b, Pub. L. 89–329, title VI, §608, as added Pub. L. 99–498, title VI, §608, Oct. 17, 1986, 100 Stat. 1518; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 727, related to selection of certain grant recipients.
+
+#### Amendments
+
+2008—Subsec. (a)(10) to (12). Pub. L. 110–315 added pars. (10) to (12).
 

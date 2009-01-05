@@ -16,3 +16,4 @@ Part B—All-Hazards Emergency Preparedness and Response
 - [&sect; 00300hh&#8211;14 - Protection of health and safety during disasters](%C2%A7%2000300hh%E2%80%9314%20-%20Protection%20of%20health%20and%20safety%20during%20disasters.md)
 - [&sect; 00300hh&#8211;15 - Volunteer Medical Reserve Corps](%C2%A7%2000300hh%E2%80%9315%20-%20Volunteer%20Medical%20Reserve%20Corps.md)
 - [&sect; 00300hh&#8211;16 - At-risk individuals](%C2%A7%2000300hh%E2%80%9316%20-%20At-risk%20individuals.md)
+- [&sect; 00300hh&#8211;17 - Emergency response coordination of primary care providers](%C2%A7%2000300hh%E2%80%9317%20-%20Emergency%20response%20coordination%20of%20primary%20care%20providers.md)

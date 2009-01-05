@@ -20,7 +20,7 @@ More specifically, the following criteria should be considered as a basis for a 
 
 &emsp;(2) Analysis by the United States Bureau of Mines indicates that surplus capacity in the industry for the primary product of the defined project would exist over half the period of the economic life of the project because of projected world demand and capacity conditions.
 
-&emsp;(3) United States imports of the commodity constitute less than 50 percent of the domestic production of the primary product in those cases where the United States is the substantial producer of such commodities.
+&emsp;(3) United States imports of the commodity constitute less than 50 percent of the domesticproduction of the primary product in those cases where the United States is the substantial producer of such commodities.
 
 #### (d) International financial institutions
 

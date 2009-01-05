@@ -48,7 +48,7 @@ Section 1326(a)(2) of the House amendment adopts a comparable provision containe
 
 #### senate report no. 95–989
 
-Section 1326 supplements the priorities provisions of section 507. Subsection (a) requires accrued costs of administration and filing fees, as well as fees due the chapter 13 trustee, to be disbursed before payments tocreditors under the plan. Subsection (b) makes it clear that the chapter 13 trustee is normally to make distribution to creditors of the payments made under the plan by the debtor.
+Section 1326 supplements the priorities provisions of section 507. Subsection (a) requires accrued costs of administration and filing fees, as well as fees due the chapter 13 trustee, to be disbursed before payments to creditors under the plan. Subsection (b) makes it clear that the chapter 13 trustee is normally to make distribution to creditors of the payments made under the plan by the debtor.
 
 #### house report no. 95–595
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of the United States, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(3) of this section by the Judicial Conference of theUnited States, see note set out under section 104 of this title.
 

@@ -44,7 +44,7 @@
 
 #### (3) Nonparticipating State defined
 
-&emsp;In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program underthis chapter of its intent to participate in, and receive funds under, the program.
+&emsp;In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.
 
 (Pub. L. 107–252, title IV, §402, Oct. 29, 2002, 116 Stat. 1715.)
 

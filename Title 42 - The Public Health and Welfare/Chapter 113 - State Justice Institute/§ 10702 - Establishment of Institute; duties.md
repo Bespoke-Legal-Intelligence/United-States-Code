@@ -44,7 +44,7 @@ The Institute shall afford notice and reasonable opportunity for comment to inte
 
 1992—Subsec. (f). Pub. L. 102–528 struck out at end “The publication of a substantive rule shall not be made less than thirty days before the effective date of such rule, except as otherwise provided by the Institute for good cause found and published with the rule.”
 
-1988—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out “, at least thirty days prior to their effective date,” after “Federal Register” and inserting sentence at end relating to publication of a substantive rule.
+1988—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out“, at least thirty days prior to their effective date,” after “Federal Register” and inserting sentence at end relating to publication of a substantive rule.
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

@@ -1,6 +1,6 @@
 ### §3324. Appointments to positions classified above GS–15
 
-(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Office of Personnel Management. This section does not apply to a position—
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
 
 &emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
 
@@ -16,7 +16,7 @@
 
 (b) The Office may prescribe regulations necessary for the administration of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422; Pub. L. 90–83, §1(10), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(17), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(i), (ii)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(11), Oct. 2, 1992, 106 Stat. 1347.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422; Pub. L. 90–83, §1(10), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(17), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(C)(i), (ii)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(11), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 110–372, §2(c)(2), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes<br>1966
 
@@ -58,6 +58,8 @@ The Treasury, Post Office, and Executive Office Appropriation Act, 1966, referre
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–372 substituted “the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director” for “the Office of Personnel Management” in introductory provisions.
+
 1992—Pub. L. 102–378, §2(11)(A), substituted “GS–15” for “GA–15” in section catchline.
 
 Subsec. (a)(1). Pub. L. 102–378, §2(11)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “provided for in section 5108(c)(2) of this title;”.
@@ -69,6 +71,10 @@ Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substitute
 1979—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
 
 1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
 
 #### Effective Date of 1992 Amendment
 

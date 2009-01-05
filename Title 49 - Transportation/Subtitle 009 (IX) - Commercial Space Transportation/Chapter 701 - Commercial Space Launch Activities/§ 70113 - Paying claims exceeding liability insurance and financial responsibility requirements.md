@@ -22,7 +22,7 @@ Notice, Participation, and Approval.—Before a payment under subsection (a) of 
 
 (c)
 
-Withholding Payments.—The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amountof a claim finally decided by a court of competent jurisdiction.
+Withholding Payments.—The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
 
 (d)
 

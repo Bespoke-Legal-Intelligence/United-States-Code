@@ -6,11 +6,11 @@ The head of each department or agency of the Federal Government concerned with m
 
 #### (b) Agency assistance
 
-The Committee is authorized to request from the head of any department, agency, or independent instrumentality of the Federal Government any information and assistance it deems necessary to carry out the functions assigned under sections 857–13 to 857–18 of this title. The head of each such department, agency, or instrumentality is authorized to cooperate with the Committee, and, to the extent permitted by law, to furnish such information and assistance to the Committee upon request made by the Chairman, without reimbursement for such services and assistance.
+The Committee is authorized to request from the head of any department, agency, or independent instrumentality of the Federal Government any information and assistance it deems necessary to carry out the functions assigned under sections 857–13 to 857–18 of this title. The head of each such department, agency, or instrumentality is authorized to cooperate with the Committee, and, to the extent permitted by law, to furnish such information and assistance tothe Committee upon request made by the Chairman, without reimbursement for such services and assistance.
 
 #### (c) Administrative assistance
 
-The Secretary of Commerce shall make available to the Committee such staff, information,personnel, and administrative services and assistance as may reasonably be required to carry out the provisions of sections 857–13 to 857–18 of this title.
+The Secretary of Commerce shall make available to the Committee such staff, information, personnel, and administrative services and assistance as may reasonably be required to carry out the provisions of sections 857–13 to 857–18 of this title.
 
 (Pub. L. 95–63, §6, July 5, 1977, 91 Stat. 266.)
 

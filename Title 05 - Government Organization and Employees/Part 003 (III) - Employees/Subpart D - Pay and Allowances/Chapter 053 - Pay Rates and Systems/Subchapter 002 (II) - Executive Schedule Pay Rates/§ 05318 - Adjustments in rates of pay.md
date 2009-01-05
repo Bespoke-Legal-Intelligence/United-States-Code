@@ -18,7 +18,7 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), 
 
 1990—Pub. L. 101–509 substituted “5303” for “5305”.
 
-1989—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
+1989—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect”for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustment in the rates of pay under the General Schedule”.
 
 #### Effective Date of 1994 Amendment
 
@@ -122,7 +122,7 @@ Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of 
 
 #### Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983
 
-Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, reduced the rate of salary or basic pay prescribed by law as of July 14, 1983, for any office or position at level I, II, or III of the Executive Schedule, any Member of Congress, and certain other offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia and also reduced the maximum rate of salary or basic pay prescribed by law as of July 14, 1983, for certain offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia.
+Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, reduced the rate of salary or basic pay prescribed by law as of July 14, 1983, for any office or position at level I, II, or III of the Executive Schedule, any Member of Congress, and certain other offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia and also reducedthe maximum rate of salary or basic pay prescribed by law as of July 14, 1983, for certain offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia.
 
 #### Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions for Services Performed After December 17, 1982
 

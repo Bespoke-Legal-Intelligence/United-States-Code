@@ -14,7 +14,7 @@
 
 (b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
-(B) A determination referred to in subparagraph (A) is a determination based on soundmedical and scientific evidence that a positive association exists between—
+(B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
 
 &emsp;(i) the exposure of humans or animals to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Southwest Asia theater of operations during the Persian Gulf War; and
 
@@ -32,7 +32,7 @@
 
 (c)(1) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, the Secretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
 
-(2) If the Secretary determines under this subsection that a presumption of service connection is warranted, the Secretary shall, not later than 60 days after making the determination, issue proposed regulations setting forth the Secretary's determination.
+(2) If the Secretary determines under this subsection that a presumption of service connection is warranted, the Secretary shall, not later than60 days after making the determination, issue proposed regulations setting forth the Secretary's determination.
 
 (3)(A) If the Secretary determines under this subsection that a presumption of service connection is not warranted, the Secretary shall, not later than 60 days after making the determination, publish in the Federal Register a notice of the determination. The notice shall include an explanation of the scientific basis for the determination.
 

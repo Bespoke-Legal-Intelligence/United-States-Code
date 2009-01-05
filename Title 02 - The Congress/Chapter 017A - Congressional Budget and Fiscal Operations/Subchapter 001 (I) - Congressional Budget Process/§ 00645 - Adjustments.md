@@ -30,7 +30,7 @@ The adjustment referred to in subsection (a) of this section shall be—
 
 &emsp;&emsp;(B) any increase in the maximum amount available to the Secretary of the Treasury pursuant to section 286e–2 of title 22, as amended from time to time (New Arrangements to Borrow);
 
-&emsp;(4) an amount provided not to exceed $1,884,000,000 for the period of fiscal years 1998 through 2000 for arrearages for internationalorganizations, international peacekeeping, and multilateral development banks;
+&emsp;(4) an amount provided not to exceed $1,884,000,000 for the period of fiscal years 1998 through 2000 for arrearages for international organizations, international peacekeeping, and multilateral development banks;
 
 &emsp;(5) an amount provided for an earned income tax credit compliance initiative but not to exceed—
 

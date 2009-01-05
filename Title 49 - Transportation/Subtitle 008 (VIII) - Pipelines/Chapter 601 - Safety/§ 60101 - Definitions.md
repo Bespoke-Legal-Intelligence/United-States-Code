@@ -78,21 +78,29 @@ General.—In this chapter—
 
 &emsp;(21) “transporting gas”—
 
-&emsp;&emsp;(A) means the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; but
+&emsp;&emsp;(A) means—
 
-&emsp;&emsp;(B) does not include the gathering of gas, other than gathering through regulated gathering lines, in those rural locations that are located outside the limits of any incorporated or unincorporated city, town, or village, or any other designated residential or commercial area (including a subdivision, business, shopping center, or community development) or any similar populated area that the Secretary of Transportation determines to be a nonrural area, except that the term “transporting gas” includes the movement of gas through regulated gathering lines;
+&emsp;&emsp;&emsp;(i) the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; and
+
+&emsp;&emsp;&emsp;(ii) the movement of gas through regulated gathering lines; but
+
+&emsp;&emsp;(B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area.<sup>1</sup>
 
 &emsp;(22) “transporting hazardous liquid”—
 
-&emsp;&emsp;(A) means the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; but
+&emsp;&emsp;(A) means—
+
+&emsp;&emsp;&emsp;(i) the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; and
+
+&emsp;&emsp;&emsp;(ii) the movement of hazardous liquid through regulated gathering lines; but
 
 &emsp;&emsp;(B) does not include moving hazardous liquid through—
 
-&emsp;&emsp;&emsp;(i) gathering lines in a rural area;
+&emsp;&emsp;&emsp;(i) gathering lines (except regulated gathering lines) in a rural area;
 
 &emsp;&emsp;&emsp;(ii) onshore production, refining, or manufacturing facilities; or
 
-&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities;
+&emsp;&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.<sup>1</sup>
 
 &emsp;(23) “risk management” means the systematic application, by the owner or operator of a pipeline facility, of management policies, procedures, finite resources, and practices to the tasks of identifying, analyzing, assessing, reducing, and controlling risk in order to protect employees, the general public, the environment, and pipeline facilities;
 
@@ -117,36 +125,6 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 (ii) The definition of “regulated gathering line” for hazardous liquid may not include a crude oil gathering line that has a nominal diameter of not more than 6 inches, is operated at low pressure, and is located in a rural area that is not unusually sensitive to environmental damage.
 
 (Pub. L. 103–272, §§1(e), 4(s), July 5, 1994, 108 Stat. 1301, 1371; Pub. L. 104–287, §5(90), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §§3, 20(f), Oct. 12, 1996, 110 Stat. 3793, 3805; Pub. L. 109–468, §7, Dec. 29, 2006, 120 Stat. 3491.)
-
-#### Amendment of Subsection (a)(21) and (22)
-
-<i>Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that, effective on the date the regulations required under subsec. (b) of this section are effective, subsection (a)(21) and (22) of this section is amended to read as follows:</i>
-
-(21) “transporting gas”—
-
-&emsp;(A) means—
-
-&emsp;&emsp;(i) the gathering, transmission, or distribution of gas by pipeline, or the storage of gas, in interstate or foreign commerce; and
-
-&emsp;&emsp;(ii) the movement of gas through regulated gathering lines; but
-
-&emsp;(B) does not include gathering gas (except through regulated gathering lines) in a rural area outside a populated area designated by the Secretary as a nonrural area.
-
-(22) “transporting hazardous liquid”—
-
-&emsp;(A) means—
-
-&emsp;&emsp;(i) the movement of hazardous liquid by pipeline, or the storage of hazardous liquid incidental to the movement of hazardous liquid by pipeline, in or affecting interstate or foreign commerce; and
-
-&emsp;&emsp;(ii) the movement of hazardous liquid through regulated gathering lines; but
-
-&emsp;(B) does not include moving hazardous liquid through—
-
-&emsp;&emsp;(i) gathering lines (except regulated gathering lines) in a rural area;
-
-&emsp;&emsp;(ii) onshore production, refining, or manufacturing facilities; or
-
-&emsp;&emsp;(iii) storage or in-plant piping systems associated with onshore production, refining, or manufacturing facilities.
 
 Historical and Revision Notes
 
@@ -296,7 +274,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §220; added Oct. 24, 1992, Pub. 
 
 In this chapter, the words “liquefied natural gas” are substituted for “LNG” for clarity. The word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “gas” and “hazardous liquid” are added where applicable because of the restatement.
 
-In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words “As used” are omitted as surplus. In clause (1)(A), the words “Federal Energy Regulatory Commission” and “Commission” are substituted for “Department of Energy” because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words “without limitation, new and existing” are omitted as surplus. In clause (4)(B), the words “or material” are omitted as surplus. In clause (6), before subclause (A), the word “pipeline” is substituted for “transmission” for clarity and consistency. In clause (8)(A), before subclause (i), the words “trade, traffic, transportation, exchange, or other” are omitted as surplus. In subclause (ii), the words “trade, transportation, exchange, or other” are omitted as surplus. In clause (8)(B), the word “place” is substituted for “point” for clarity and consistency in the revised title. In clause (9), before subclause (A), the word “facility” is substituted for “transportation” for clarity and consistency. In clause (12), the words “resulting from” and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words “(liquefaction or solidification)” and “(vaporization)” are omitted as surplus. In clauses (14) and (16), the word “pipeline” is added for clarity. In clause (15), the words “city, county, or any other” are omitted as surplus. In clause (17), the words “in addition to its meaning under section 1 of title 1 (except as to societies)” are substituted for “any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association” to eliminate unnecessary words, for clarity, and for consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words “of the United States” are substituted for “of the several” for consistency in the revised title and with other titles of the Code. In clause (21)(B), the words “outside a populated area” are substituted for “which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area” to eliminate unnecessary words. In clause (22)(B)(i), the word “area” is substituted for “locations” for consistency.
+In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words “As used” are omitted as surplus. In clause (1)(A), the words “Federal Energy Regulatory Commission” and “Commission” are substituted for “Department of Energy” because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words “without limitation, new and existing” are omitted as surplus. In clause (4)(B), the words “or material” are omitted as surplus. In clause (6), before subclause (A), the word “pipeline” is substituted for “transmission” for clarity and consistency. In clause (8)(A), before subclause (i), the words “trade, traffic, transportation, exchange, or other” are omitted as surplus. In subclause (ii), the words “trade, transportation, exchange, or other” are omitted as surplus. In clause (8)(B), the word “place” is substituted for “point” for clarity and consistency in the revised title. In clause (9), before subclause (A), the word “facility” is substituted for “transportation” for clarity and consistency. In clause (12), the words “resulting from” and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words “(liquefaction or solidification)” and “(vaporization)” are omitted as surplus. In clauses (14) and (16), the word “pipeline” is added for clarity. In clause (15), the words “city, county, or any other” are omitted as surplus. In clause (17), the words “in addition to its meaning under section 1 of title 1 (except as to societies)” are substituted for “any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association” to eliminate unnecessary words, for clarity, andfor consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words “of the United States” are substituted for “of the several” for consistency in the revised title and with other titles of the Code. In clause (21)(B), the words “outside a populated area” are substituted for “which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area” to eliminate unnecessary words. In clause (22)(B)(i), the word “area” is substituted for “locations” for consistency.
 
 Pub. L. 103–272, §4(s)
 
@@ -330,6 +308,10 @@ This amends 49:60101 for consistency with the style of title 49.
 
 The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
+#### Codification
+
+The amendments by section 4(s) of Pub. L. 103–272 to pars. (21) and (22) of subsec. (a) of this section were executed after the amendments by Pub. L. 104–304 to those pars. pursuant to the effective date provisions of section 4(s). See Effective Date of 1994 Amendment note and 1994 and 1996 Amendment notes below.
+
 #### Amendments
 
 2006—Subsec. (a)(6). Pub. L. 109–468, §7(1), added par. (6) and struck out former par. (6) which defined “interstate gas pipeline facility”.
@@ -340,11 +322,11 @@ Subsec. (a)(9). Pub. L. 109–468, §7(2), added par. (9) and struck out former 
 
 Subsec. (a)(1) to (20). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end of pars. (1) to (20).
 
-Subsec. (a)(21)(B). Pub. L. 104–304, §3(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area;”.
+Subsec. (a)(21)(B). Pub. L. 104–304, §3(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include gathering gas in a rural area outside a populated area designated by the Secretary as a nonrural area;”. See Codification note above.
 
-Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end.
+Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end. See Codification note above.
 
-Subsec. (a)(22). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end.
+Subsec. (a)(22). Pub. L. 104–304, §3(a)(1), substituted semicolon for period at end. See Codification note above.
 
 Subsec. (a)(23) to (25). Pub. L. 104–304, §3(a)(3), added pars. (23) to (25).
 
@@ -352,9 +334,11 @@ Subsec. (b)(1)(A). Pub. L. 104–304, §20(f), substituted “prescribe standard
 
 Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24, 1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
 
+1994—Subsec. (a)(21), (22). Pub. L. 103–272, §4(s), amended pars. (21) and (22) generally. Prior to amendment, pars. (21) and (22) defined “transporting gas” and “transporting hazardous liquid”.
+
 #### Effective Date of 1994 Amendment
 
-Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective.
+Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
 
 #### Short Title of 2006 Amendment
 
@@ -493,4 +477,6 @@ Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liabilit
 “(g)
 
 Participating Agencies Defined.—In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

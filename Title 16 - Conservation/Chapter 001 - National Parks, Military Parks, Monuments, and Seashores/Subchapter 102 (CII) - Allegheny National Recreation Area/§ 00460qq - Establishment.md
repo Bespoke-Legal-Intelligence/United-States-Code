@@ -18,7 +18,7 @@ The national recreation area shall be managed for the purposes of—
 
 &emsp;(5) allowing the development of privately owned oil, gas, and mineral resources subject to reasonable conditions prescribed by the Secretary under subsection (c) of this section for the protection of the area; and
 
-&emsp;(6) minimizing, to the extent practicable, environmental disturbances caused by resource development, consistent with the exercise of private property rights.
+&emsp;(6) minimizing, to the extent practicable, environmental disturbances caused by resourcedevelopment, consistent with the exercise of private property rights.
 
 #### (c) Administration; plan of operations
 

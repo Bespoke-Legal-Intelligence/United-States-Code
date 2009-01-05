@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of <sup>1</sup> Interior is authorized and directed to establish a Strategic Resources Mineral Technology Center (hereinafter referred to as the “center”) for the purpose of improving existing, and developing new, technologies that will decrease the dependence of the United States on supplies of strategic and critical minerals.
+The Secretary of <sup>1</sup> Interior is authorized and directed to establish a Strategic Resources Mineral Technology Center (hereinafter referred toas the “center”) for the purpose of improving existing, and developing new, technologies that will decrease the dependence of the United States on supplies of strategic and critical minerals.
 
 #### (b) Functions
 

@@ -1,6 +1,6 @@
 ### §1204. Members on active duty for 30 days or less or on inactive-duty training: retirement
 
-Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the Secretary may retire the member with retired pay computed under section 1401 of this title, if the Secretary also determines that—
+Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this titleis unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the Secretary may retire the member with retired pay computed under section 1401 of this title, if the Secretary also determines that—
 
 &emsp;(1) based upon accepted medical principles, the disability is of a permanent nature and stable;
 
@@ -102,5 +102,5 @@ Section 516(b) of Pub. L. 102–484 provided that: “The amendments made by sub
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 

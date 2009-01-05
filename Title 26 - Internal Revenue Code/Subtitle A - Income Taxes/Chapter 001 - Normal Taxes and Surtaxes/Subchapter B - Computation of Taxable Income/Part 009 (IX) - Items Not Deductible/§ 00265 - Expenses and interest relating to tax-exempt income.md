@@ -264,7 +264,7 @@ Section 1009(b)(3)(B)–(D) of Pub. L. 100–647, as amended by Pub. L. 101–23
 
 &emsp;“(III) subparagraphs (E) and (F).
 
-“(ii) At the election of an issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe), the provisions referred toin clause (i) shall apply to such issuer as if included in the amendments made by section 902(a) of the Tax Reform Act of 1986 \[section 902(a) of Pub. L. 99–514, amending this section\].”
+“(ii) At the election of an issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe), the provisions referred to in clause (i) shall apply to such issuer as if included in the amendments made by section 902(a) of the Tax Reform Act of 1986 \[section 902(a) of Pub. L. 99–514, amending this section\].”
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -370,7 +370,7 @@ Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beg
 
 #### Effective Date of 1964 Amendment
 
-Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
+Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years endingafter the date of the enactment of this Act \[Feb. 21, 1964\].”
 
 #### Savings Provision
 

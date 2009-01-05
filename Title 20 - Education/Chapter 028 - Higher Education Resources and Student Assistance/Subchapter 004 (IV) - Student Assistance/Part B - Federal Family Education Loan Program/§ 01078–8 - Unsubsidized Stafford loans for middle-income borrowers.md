@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is the purpose of this section to authorize insured loans under this part for borrowers who do not qualify for Federal interest subsidy payments under section 1078 of this title. Except as provided in this section, all terms and conditions for Federal Stafford loans established under section 1078 of this title shall apply to loans made pursuant to this section.
+It is the purpose of this section to authorize insured loans under this part for borrowers who do not qualify for Federal interest subsidy payments under section 1078 of this title. Except asprovided in this section, all terms and conditions for Federal Stafford loans established under section 1078 of this title shall apply to loans made pursuant to this section.
 
 #### (b) Eligible borrowers
 
@@ -24,37 +24,69 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title.
+&emsp;Except as provided in paragraphs (2), (3), and (4), the annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title.
 
-#### (2) Annual limits for independent, graduate, and professional students
+#### (2) Limits for graduate, professional, and independent postbaccalaureate students
 
-&emsp;The maximum annual amount of loans under this section an independent student (or a student whose parents are unable to borrow under section 1078–2 of this title or the Federal Direct PLUS Loan Program) may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the amount determined under paragraph (1), plus—
+#### (A) Annual limits
 
-&emsp;&emsp;(A) in the case of such a student attending an eligible institution who has not completed such student's first 2 years of undergraduate study—
+&emsp;&emsp;The maximum annual amount of loans under this section a graduate or professional student, or a student described in clause (ii), may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the amount determined under paragraph (1), plus—
 
-&emsp;&emsp;&emsp;(i) $4,000, if such student is enrolled in a program whose length is at least one academic year in length; and
+&emsp;&emsp;&emsp;(i) in the case of such a student who is a graduate or professional student attending an eligible institution, $12,000; and
 
-&emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed theamount that bears the same ratio to the amount specified in clause (i) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+&emsp;&emsp;&emsp;(ii) notwithstanding paragraph (4), in the case of an independent student, or a dependent student whose parents are unable to borrow under section 1078–2 of this title or the Federal Direct PLUS Loan Program, who has obtained a baccalaureate degree and who is enrolled in coursework specified in paragraph (3)(B) or (4)(B) of section 1091(b) of this title—
 
-&emsp;&emsp;(B) in the case of a student at an eligible institution who has successfully completed such first and second years but has not successfully completed the remainder of a program of undergraduate education—
+&emsp;&emsp;&emsp;&emsp;(I) $7,000 for coursework necessary for enrollment in a graduate or professional program; and
 
-&emsp;&emsp;&emsp;(i) $5,000; or
+&emsp;&emsp;&emsp;&emsp;(II) $7,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school,
 
-&emsp;&emsp;&emsp;(ii) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year;
+> &emsp;&emsp;except in cases where the Secretary determines that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
 
-&emsp;&emsp;(C) in the case of such a student who is a graduate or professional student attending an eligible institution, $12,000; and
+#### (B) Aggregate limit
 
-&emsp;&emsp;(D) in the case of a student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title—
+&emsp;&emsp;The maximum aggregate amount of loans under this section a student described in subparagraph (A) may borrow shall be the amount described in paragraph (1), adjusted to reflect the increased annual limits described in subparagraph (A), as prescribed by the Secretary by regulation.
 
-&emsp;&emsp;&emsp;(i) $4,000 for coursework necessary for enrollment in an undergraduate degree or certificate program, and, in the case of a student who has obtained a baccalaureate degree, $7,000 for coursework necessary for enrollment in a graduate or professional program; and
+#### (3) Limits for undergraduate dependent students
 
-&emsp;&emsp;&emsp;(ii) in the case of a student who has obtained a baccalaureate degree, $7,000 for coursework necessary for a professional credential or certification from a State required for employment as a teacher in an elementary or secondary school;
+#### (A) Annual limits
 
-> &emsp;except in cases where the Secretary determines,<sup>1</sup> that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education, but the annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any years in excess of the annual limit.
+&emsp;&emsp;The maximum annual amount of loans under this section an undergraduate dependent student (except an undergraduate dependent student whose parents are unable to borrow under section 1078–2 of this title or the Federal Direct PLUS Loan Program) may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the sum of the amount determined under paragraph (1), plus $2,000.
 
-#### (3) Aggregate limits for independent, graduate, and professional students
+#### (B) Aggregate limits
 
-&emsp;The maximum aggregate amount of loans under this section a student described in paragraph (2) may borrow shall be the amount described in paragraph (1), adjusted to reflect the increased annual limits described in paragraph (2), as prescribed by the Secretary by regulation. Interest capitalized shall not be deemed to exceed such maximum aggregate amount.
+&emsp;&emsp;The maximum aggregate amount of loans under this section a student described in subparagraph (A) may borrow shall be $31,000.
+
+#### (4) Limits for undergraduate independent students
+
+#### (A) Annual limits
+
+&emsp;&emsp;The maximum annual amount of loans under this section an undergraduate independent student, or an undergraduate dependent student whose parents are unable to borrow under section 1078–2 of this title or the Federal Direct PLUS Loan Program, may borrow in any academic year (as defined in section 1088(a)(2) of this title) or its equivalent shall be the sum of the amount determined under paragraph (1), plus—
+
+&emsp;&emsp;&emsp;(i) in the case of such a student attending an eligible institution who has notcompleted such student's first 2 years of undergraduate study—
+
+&emsp;&emsp;&emsp;&emsp;(I) $6,000, if such student is enrolled in a program whose length is at least one academic year in length; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
+
+&emsp;&emsp;&emsp;(ii) in the case of such a student at an eligible institution who has successfully completed such first and second years but has not successfully completed the remainder of a program of undergraduate education—
+
+&emsp;&emsp;&emsp;&emsp;(I) $7,000; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education, the remainder of which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as such remainder measured in semester, trimester, quarter, or clock hours bears to one academic year; and
+
+&emsp;&emsp;&emsp;(iii) in the case of such a student enrolled in coursework specified in—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 1091(b)(3)(B) of this title, $6,000; or
+
+&emsp;&emsp;&emsp;&emsp;(II) section 1091(b)(4)(B) of this title, $7,000.
+
+#### (B) Aggregate limits
+
+&emsp;&emsp;The maximum aggregate amount of loans under this section a student described in subparagraph (A) may borrow shall be $57,500.
+
+#### (5) Capitalized interest
+
+&emsp;Interest capitalized shall not be deemed to exceed a maximum aggregate amount determined under subparagraph (B) of paragraph (2), (3), or (4).
 
 #### (e) Payment of principal and interest
 
@@ -110,19 +142,29 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (g) Single application form and loan repayment schedule
 
-A guaranty agency shall use a single application form and a single repayment schedule for subsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
+A guaranty agency shall use a single application form and a single repayment schedule forsubsidized Federal Stafford loans made pursuant to section 1078 of this title and for unsubsidized Federal Stafford loans made pursuant to this section.
 
 #### (h) Insurance premium
 
 Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169.)
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug. 14, 2008, 122 Stat. 3235.)
 
 #### Codification
 
 Amendments by section 2(c)(42), (45) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–227 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to loan limits.
+
+Subsec. (d)(2). Pub. L. 110–315, §428(a)(1)(A), substituted “graduate, professional, and independent postbaccalaureate students” for “graduate and professional students” in heading.
+
+Subsec. (d)(2)(A). Pub. L. 110–315, §428(a)(1)(B)(i), inserted “, or a student described in clause (ii),” after “graduate or professional student” in introductory provisions.
+
+Subsec. (d)(2)(A)(ii). Pub. L. 110–315, §428(a)(1)(B)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “in the case of a graduate student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title, $7,000;”.
+
+Subsec. (d)(4)(A)(iii). Pub. L. 110–315, §428(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “in the case of such a student enrolled in coursework specified in sections 1091(b)(3)(B) and 1091(b)(4)(B) of this title, $6,000 for coursework necessary for enrollment in an undergraduate degree or certificate program.”
 
 2006—Subsec. (d)(2)(C). Pub. L. 109–171, §8005(d)(1), substituted “$12,000” for “$10,000”.
 
@@ -196,6 +238,12 @@ Subsec. (<i>l</i>). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i
 
 Pub. L. 103–66, §4102(b)(2), added subsec. (<i>l</i>).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §428(b), Aug. 14, 2008, 122 Stat. 3236, provided that: “The amendments made by this section \[amending this section\] shall take effect for loans for which the first disbursement is made on or after July 1, 2008.”
+
+Pub. L. 110–227, §2(c), May 7, 2008, 122 Stat. 742, provided that: “The amendments made by this section \[amending this section\] shall be effective for loans first disbursed on or after July 1, 2008.”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 8014(b)(2) of Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
@@ -222,9 +270,11 @@ Amendment by section 4102(b) of Pub. L. 103–66 effective July 1, 1994, see sec
 
 Section effective with respect to loans made to cover the cost of instruction for periods of enrollment beginning on or after Oct. 1, 1992, see section 432(a)(12) of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1078 of this title.
 
+#### Student Eligibility
+
+Pub. L. 110–227, §2(b), May 7, 2008, 122 Stat. 742, provided that: “Loan limit increases authorized by the amendments made by this section \[amending this section\] shall be available only to students who meet the requirements of section 484(a) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)).”
+
 #### Continuing Applicability of Terms, Conditions, and Benefits of Loans
 
-Section 4047(c) of Pub. L. 103–66 provided that: “Notwithstanding the amendments made by this section \[amending this section and repealing section 1078–1 of this section\], with respect to loans provided under sections 428A \[former 20 U.S.C. 1078–1\] and 428H of the Act \[20 U.S.C. 1078–8\] (as such sections existed on the date preceding the date of enactment of this Act \[Aug. 10, 1993\]) the terms, conditions and benefits applicable to such loans under such sections shall continue to apply to such loans after the date of enactment of this Act.”
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+Section 4047(c) of Pub. L. 103–66 provided that: “Notwithstanding the amendments made by this section\[amending this section and repealing section 1078–1 of this section\], with respect to loans provided under sections 428A \[former 20 U.S.C. 1078–1\] and 428H of the Act \[20 U.S.C. 1078–8\] (as such sections existed on the date preceding the date of enactment of this Act \[Aug. 10, 1993\]) the terms, conditions and benefits applicable to such loans under such sections shall continue to apply to such loans after the date of enactment of this Act.”
 

@@ -1,8 +1,8 @@
 ### §1134d. Authorization of appropriations
 
-There are authorized to be appropriated $30,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this subpart.
+There are authorized to be appropriated $30,000,000 for fiscal year 2009 and each of the five succeeding fiscal years to carry out this subpart.
 
-(Pub. L. 89–329, title VII, §705, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790.)
+(Pub. L. 89–329, title VII, §705, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1790; amended Pub. L. 110–315, title VII, §702(d), Aug. 14, 2008, 122 Stat. 3346.)
 
 #### Prior Provisions
 
@@ -22,7 +22,7 @@ Prior sections 1134e to 1134w were repealed by Pub. L. 105–244, §3, title VII
 
 Section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550; amended Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 763; Pub. L. 103–208, §2(j)(28), Dec. 20, 1993, 107 Stat. 2482, authorized Patricia Roberts Harris Fellowship program.
 
-Another prior section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 96–374, title IX, §902(a), Oct. 3,1980, 94 Stat. 1482, authorized program of grants to assist graduate and professional study, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
+Another prior section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 96–374, title IX, §902(a), Oct. 3, 1980, 94 Stat. 1482, authorized program of grants to assist graduate and professional study, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
 Another prior section 1134e, Pub. L. 89–329, title IX, §922, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 306; amended Pub. L. 94–482, title I, §171(b), Oct. 12, 1976, 90 Stat. 2160; Pub. L. 96–49, §9(b), Aug. 13, 1979, 93 Stat. 353, related to the authorization, duration, and extension of the period of fellowships, the awarding of vacated fellowships, and the question of the interruption of studies of fellowship recipients, prior to the general amendment of part B of subchapter IX of this chapter by Pub. L. 96–374.
 
@@ -72,7 +72,7 @@ Section 1134k, Pub. L. 89–329, title IX, §934, as added Pub. L. 99–498, tit
 
 Another prior section 1134k, Pub. L. 89–329, title IX, §934, as added Pub. L. 96–374, title IX, §903, Oct. 3, 1980, 94 Stat. 1486, related to conditions on continuance of fellowships for graduate study in arts, humanities, and social sciences, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
-Another prior section 1134k, Pub. L. 89–329, title IX, §943, as added Pub. L. 92–318, title I, §181(a), June 23,1972, 86 Stat. 308; amended Pub. L. 94–482, title I, §171(c)(3), Oct. 12, 1976, 90 Stat. 2163, related to requisite approval of programs of graduate or professional study, prior to repeal by section 902(b) of Pub. L. 96–374.
+Another prior section 1134k, Pub. L. 89–329, title IX, §943, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 308; amended Pub. L. 94–482, title I,§171(c)(3), Oct. 12, 1976, 90 Stat. 2163, related to requisite approval of programs of graduate or professional study, prior to repeal by section 902(b) of Pub. L. 96–374.
 
 Another prior section 1134k, Pub. L. 89–329, title IX, §924, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1046, provided for annual report of the Secretary to Congress of activities relating to education for public service, prior to repeal by Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 304.
 
@@ -147,4 +147,8 @@ Section 1134u, Pub. L. 89–329, title IX, §971, as added Pub. L. 99–498, tit
 Section 1134v, Pub. L. 89–329, title IX, §972, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 777, related to applications for grants or contracts.
 
 Section 1134w, Pub. L. 89–329, title IX, §973, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 777, authorized appropriations for law school clinical experience programs.
+
+#### Amendments
+
+2008—Pub. L. 110–315 substituted “fiscal year 2009 and each of the five succeeding fiscal years to carry out this subpart” for “fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this subpart”.
 

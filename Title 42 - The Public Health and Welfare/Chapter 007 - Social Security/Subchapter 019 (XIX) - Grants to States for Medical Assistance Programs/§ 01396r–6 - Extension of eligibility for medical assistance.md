@@ -36,7 +36,7 @@
 
 #### (B) State medicaid “wrap-around” option
 
-&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependentchild. In the case of such coverage offered by an employer of the caretaker relative—
+&emsp;&emsp;A State, at its option, may pay a family's expenses for premiums, deductibles, coinsurance, and similar costs for health insurance or other health coverage offered by an employer of the caretaker relative or by an employer of the absent parent of a dependent child. In the case of such coverage offered by an employer of the caretaker relative—
 
 &emsp;&emsp;&emsp;(i) the State may require the caretaker relative, as a condition of extension of coverage under this subsection for the caretaker and the caretaker's family, to make application for such employer coverage, but only if—
 
@@ -140,7 +140,7 @@
 
 #### (D) Alternative assistance
 
-&emsp;&emsp;At a State's option, the State may offer families a choice of health care coverageunder one or more of the following, instead of the medical assistance otherwise made available under this subsection:
+&emsp;&emsp;At a State's option, the State may offer families a choice of health care coverage under one or more of the following, instead of the medical assistance otherwise made available under this subsection:
 
 #### (i) Enrollment in family option of employer plan
 
@@ -192,7 +192,7 @@
 
 #### (C) Limit on premium
 
-&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
+&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium paymentperiods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
 
 #### (D) Definitions
 

@@ -56,5 +56,5 @@ A prior section 1798 was renumbered section 1800 of this title.
 
 #### First Biennial Reports
 
-Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
+Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports underformer sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
 

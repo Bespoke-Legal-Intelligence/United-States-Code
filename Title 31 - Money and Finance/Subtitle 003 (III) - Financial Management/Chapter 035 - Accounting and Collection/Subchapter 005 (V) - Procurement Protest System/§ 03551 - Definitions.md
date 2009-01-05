@@ -16,17 +16,27 @@ In this subchapter:
 
 &emsp;&emsp;(A) with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract; and
 
-&emsp;&emsp;(B) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under OMB Circular A–76, includes—
+&emsp;&emsp;(B) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 with respect to the performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, includes—
 
 &emsp;&emsp;&emsp;(i) any official who submitted the agency tender in such competition; and
 
-&emsp;&emsp;&emsp;(ii) any one person who, for the purpose of representing them in a protest under this subchapter that relates to such competition, has been designated as their agent by a majority of the employees of such Federal agency who are engaged in the performance of such activity or function.
+&emsp;&emsp;&emsp;(ii) any one individual who, for the purpose of representing the Federal employees engaged in the performance of the activity or function for which the public-private competition is conducted in a protest under this subchapter that relates to such public-private competition, has been designated as the agent of the Federal employees by a majority of such employees.
 
 &emsp;(3) The term “Federal agency” has the meaning given such term by section 102 of title 40.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, §3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, §326(a), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, §739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, §3(h)(6), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–375, div. A, title III, §326(a), Oct.28, 2004, 118 Stat. 1848; Pub. L. 110–161, div. D, title VII, §739(c)(1)(A), Dec. 26, 2007, 121 Stat. 2030; Pub. L. 110–181, div. A, title III, §326(a), Jan. 28, 2008, 122 Stat. 62.)
 
 #### Amendments
+
+2008—Par. (2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘interested party’—
+
+&emsp;“(A) with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract; and
+
+&emsp;“(B) with respect to a public-private competition conducted under Office of Management and Budget Circular A–76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under OMB Circular A–76, includes—
+
+&emsp;&emsp;“(i) any official who submitted the agency tender in such competition; and
+
+&emsp;&emsp;“(ii) any one person who, for the purpose of representing them in a protest under this subchapter that relates to such competition, has been designated as their agent by a majority of the employees of such Federal agency who are engaged in the performance of such activity or function.”
 
 2007—Par. (2). Pub. L. 110–161 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -51,6 +61,10 @@ Par. (2). Pub. L. 103–355, §1401(b)(1), inserted “The term” after “(2)�
 Par. (3). Pub. L. 103–355, §1401(b)(2), inserted “The term” after “(3)”.
 
 1985—Par. (1). Pub. L. 99–145 substituted “Federal agency” for “executive agency”.
+
+#### Effective Date of 2008 Amendment
+
+Par. (2)(B) of this section, as added by Pub. L. 110–181, applicable to a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency made pursuant to a study under OMB Circular A–76 on or after Jan. 1, 2004, and to any other protest or civil action that relates to a public-private competition under Circular A–76 or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Circular A–76, on or after Jan. 28, 2008, see section 326(d) of Pub. L. 110–181, set out as a note under section 1491 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2007 Amendment
 

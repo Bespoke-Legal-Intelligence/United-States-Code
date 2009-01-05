@@ -78,7 +78,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Institution of Notification System
 
-For provisions requiring the Secretary to institute the system of notification required by subsec. (c) of this section as soon as practicable after Oct. 9, 1984, see section 6(c) of Pub. L. 98–460, set out as a note under section 421 of this title.
+For provisions requiring the Secretary to institute the system of notification required by subsec. (c) of this section as soon as practicable after Oct. 9, 1984, seesection 6(c) of Pub. L. 98–460, set out as a note under section 421 of this title.
 
 #### Federal Program of Supplemental Security Income; Preference for Present State and Local Employees
 

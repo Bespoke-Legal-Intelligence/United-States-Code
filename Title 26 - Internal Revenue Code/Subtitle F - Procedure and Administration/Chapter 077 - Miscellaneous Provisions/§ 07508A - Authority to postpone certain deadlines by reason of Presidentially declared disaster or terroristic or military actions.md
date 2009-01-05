@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a taxpayer determined by the Secretary to be affected by a Presidentially declared disaster (as defined in section 1033(h)(3)) or a terroristic or military action (as defined insection 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
 &emsp;(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
@@ -18,13 +18,19 @@ In the case of a pension or other employee benefit plan, or any sponsor, adminis
 
 The rules of section 7508(b) shall apply for purposes of this section.
 
-(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433.)
+(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
 
 2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
 2001—Subsec. (a). Pub. L. 107–16, §§802(a), 901, temporarily substituted “120 days” for “90 days” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -54,7 +60,7 @@ In General.—In the case of a taxpayer determined by the Secretary of the Treas
 
 “(b)
 
-Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
+Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections\(b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
 
 #### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
 

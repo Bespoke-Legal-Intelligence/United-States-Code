@@ -84,7 +84,7 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 
 2001—Subsec. (a)(5)(C). Pub. L. 107–56 added subpar. (C).
 
-1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver's license to operate the vehicle” before period at end.
+1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercialdriver's license to operate the vehicle” before period at end.
 
 #### Operation of Commercial Motor Vehicles by Individuals Who Use Insulin To Treat Diabetes Mellitus
 

@@ -120,7 +120,7 @@
 
 #### (D) Special rules
 
-&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2005”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shallapply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2010”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
 
 #### (E) Allowance against alternative minimum tax
 
@@ -208,7 +208,7 @@
 
 #### (B) Costs for certain property outside zone included
 
-&emsp;&emsp;Such term includes the cost of acquisition, construction, reconstruction, and renovationof nonresidential real property (including fixed tenant improvements associated with such property) located outside the New York Liberty Zone but within the City of New York, New York, if such property is part of a project which consists of at least 100,000 square feet of usable office or other commercial space located in a single building or multiple adjacent buildings.
+&emsp;&emsp;Such term includes the cost of acquisition, construction, reconstruction, and renovation of nonresidential real property (including fixed tenant improvements associated with such property) located outside the New York Liberty Zone but within the City of New York, New York, if such property is part of a project which consists of at least 100,000 square feet of usable office or other commercial space located in a single building or multiple adjacent buildings.
 
 #### (5) Special rules
 
@@ -296,19 +296,21 @@ Notwithstanding subsections (g) and (h) of section 1033, clause (i) of section 1
 
 #### (h) New York Liberty Zone
 
-For purposes of this section, the term “New York Liberty Zone” means the area located on or south of Canal Street, East Broadway (east of its intersection with Canal Street), or Grand Street (east of its intersection with East Broadway) in the Borough of Manhattan in the City of New York, New York.
+For purposes of this section, the term “New York Liberty Zone” means the area located onor south of Canal Street, East Broadway (east of its intersection with Canal Street), or Grand Street (east of its intersection with East Broadway) in the Borough of Manhattan in the City of New York, New York.
 
 #### (i) References to Governor and Mayor
 
 For purposes of this section, the terms “Governor” and “Mayor” mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
 
-(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640.)
+(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(D). Pub. L. 110–185 substituted “January 1, 2010” for “January 1, 2005”.
 
 2005—Subsec. (b)(2)(C)(ii). Pub. L. 109–135, §412(ss)(1), substituted “section 168(k)(2)(D)(i)” for “section 168(k)(2)(C)(i)”.
 
@@ -339,6 +341,10 @@ Subsec. (e)(2)(B). Pub. L. 108–311, §309(c), substituted “or the Municipal 
 Subsec. (f)(2). Pub. L. 108–311, §403(c)(4), inserted “, determined without regard to subparagraph (C)(i) thereof” before period at end.
 
 2003—Subsec. (b)(2)(C)(i). Pub. L. 108–27, which directed amendment of heading by substituting “Bonus depreciation property under section 168(k)” for “30-percent additional allowance property”, was executed by making the substitution for “30 percent additional allowance property” to reflect the probable intent of Congress.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–185 applicable to property placed in service after December 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
 
 #### Effective Date of 2005 Amendment
 

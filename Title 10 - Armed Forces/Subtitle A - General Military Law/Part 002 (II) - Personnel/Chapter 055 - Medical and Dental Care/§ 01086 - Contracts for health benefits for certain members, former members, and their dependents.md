@@ -8,7 +8,7 @@
 
 &emsp;(2) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 each fiscal year of the charges for all types of care authorized by this section and received while in an outpatient status and 25 percent of the additional charges for such care during a fiscal year.
 
-&emsp;(3) 25 percent of the charges for inpatient care, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007..<sup>1</sup> The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
+&emsp;(3) 25 percent of the charges for inpatient care, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2009. The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 &emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be required to pay a total of more than $3,000 for health care received during any fiscal year under a plan contracted for under section 1079(a) of this title.
 
@@ -56,7 +56,7 @@
 
 (f) The provisions of section 1079(h) of this title shall apply to payments for services by an individual health-care professional (or other noninstitutional health-care provider) under a plan contracted for under subsection (a).
 
-(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits under this section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
+(g) Section 1079(j) of this title shall apply to a plan contracted for under this section, except that no person eligible for health benefits underthis section may be denied benefits under this section with respect to care or treatment for any service-connected disability which is compensable under chapter 11 of title 38 solely on the basis that such person is entitled to care or treatment for such disability in facilities of the Department of Veterans Affairs.
 
 (h)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
@@ -66,7 +66,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498.)
 
 #### References in Text
 
@@ -77,6 +77,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–417 substituted “September 30, 2009” for “September 30, 2008”.
+
+Pub. L. 110–181 substituted “September 30, 2008” for “September 30, 2007.”
 
 2006—Subsec. (b)(3). Pub. L. 109–364 inserted “, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2007.” after “charges for inpatient care”.
 
@@ -140,7 +144,7 @@ Pub. L. 98–525 inserted “However, eye examinations may not be provided under
 
 Subsec. (e). Pub. L. 98–557, §19(13)(B), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-1983—Subsec. (d). Pub. L. 98–94 substituted “The provisions of section 1079(j) of this title shall apply to a plan covered by this section” for “No benefits shall be payable under any plan covered by this section in thecase of a person enrolled in any other insurance, medical service, or health plan provided by law or through employment unless that person certifies that the particular benefit he is claiming is not payable under the other plan”.
+1983—Subsec. (d). Pub. L. 98–94 substituted “The provisions of section 1079(j) of this title shall apply to a plan covered by this section” for “No benefits shall be payable under any plan covered by this section in the case of a person enrolled in any other insurance, medical service, or health plan provided by law or through employment unless that person certifies that the particular benefit he is claiming is not payable under the other plan”.
 
 1982—Subsec. (c)(3). Pub. L. 97–252 added par. (3).
 
@@ -247,6 +251,4 @@ Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, prov
 #### Coverage of Care Provided Since September 30, 1991
 
 Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
-
-<i><sup>1</sup></i><i> So in original.</i>
 

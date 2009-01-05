@@ -38,7 +38,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 | 2004 | 14&nbsp;&nbsp; |
 | 2005 | 16&nbsp;&nbsp; |
 | 2006 | 17&nbsp;&nbsp; |
-| 2007 | 18&nbsp;&nbsp; |
+| 2007 | 18   |
 | 2008 | 19&nbsp;&nbsp; |
 | 2009 and each year thereafter | 20\. |
 

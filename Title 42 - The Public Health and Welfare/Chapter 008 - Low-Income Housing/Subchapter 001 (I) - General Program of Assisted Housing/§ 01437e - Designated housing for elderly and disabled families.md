@@ -8,7 +8,7 @@
 
 #### (2) Priority for occupancy
 
-&emsp;In determining priority for admission to public housing projects (or portions of projects) that are designated for occupancy as provided in paragraph (1), the public housingagency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
+&emsp;In determining priority for admission to public housing projects (or portions of projects) that are designated for occupancy as provided in paragraph (1), the public housing agency may make units in such projects (or portions) available only to the types of families for whom the project is designated.
 
 #### (3) Eligibility of near-elderly families
 
@@ -124,7 +124,7 @@ Subsec. (a)(2). Pub. L. 104–99, which directed the temporary amendment of par.
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
@@ -137,6 +137,8 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
 Amendment by Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
+
+f
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

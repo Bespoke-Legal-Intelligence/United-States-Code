@@ -144,3 +144,5 @@ Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congres
 
 Pub. L. 105–134, title IV, §411(b), Dec. 2, 1997, 111 Stat. 2589, provided that: “If the Reform Board has not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998, all provisions authorizing appropriations under the amendments made by section 301(a) of this Act \[amending this section\] for a fiscal year after fiscal year 1998 shall cease to be effective. The preceding sentence shall have no effect on funds provided to Amtrak pursuant to section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\].”
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

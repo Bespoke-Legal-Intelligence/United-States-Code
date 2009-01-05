@@ -2,7 +2,7 @@
 
 #### (a) Commissioners
 
-The United States shall be represented on the Commission by not more than three UnitedStates Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
+The United States shall be represented on the Commission by not more than three United States Commissioners to be appointed by and serve at the pleasure of the President. Each United States Commissioner shall be appointed for a term of office not to exceed 4 years, but is eligible for reappointment. Individuals servingas such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. Of the Commissioners—
 
 &emsp;(1) one shall be an official of the United States Government;
 

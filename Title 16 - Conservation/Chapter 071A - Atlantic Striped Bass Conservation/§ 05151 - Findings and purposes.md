@@ -70,11 +70,11 @@ Sec. 3. <i>Definitions</i>. As used in this order:
 
 (c) “striped bass” means the species <i>Morone saxatilis</i>.
 
-Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a manner consistent with applicable law (including but not limited to interstate compacts to which the United States has consented by law, treatiesand other international agreements to which the United States is a party, treaties to which the United States and an Indian tribe are parties, and laws of the United States conferring rights on Indian tribes) and subject to the availability of appropriations.
+Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented in a manner consistent with applicable law (including but not limited to interstate compacts to which the United States has consented by law, treaties and other international agreements to which the United States is a party, treaties to which the United States and an Indian tribe are parties, and laws of the United States conferring rights on Indian tribes) and subject to the availability of appropriations.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, entities, officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities,entities, officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

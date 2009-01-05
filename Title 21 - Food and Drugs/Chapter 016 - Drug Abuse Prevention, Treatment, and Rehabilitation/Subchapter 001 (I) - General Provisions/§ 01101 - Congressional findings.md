@@ -52,5 +52,5 @@ Section 1 of Pub. L. 92–255, as amended by Pub. L. 96–181, §15(a), Jan. 2, 
 
 #### References to Drug Abuse Office and Treatment Act of 1972
 
-Section 15(b) of Pub. L. 96–181 provided in part that: “Whenever reference is made in any other Federal law,regulation, ruling, or order to the Drug Abuse Office and Treatment Act of 1972, the reference shall be considered to be made to the Drug Abuse Prevention, Treatment, and Rehabilitation Act.”
+Section 15(b) of Pub. L. 96–181 provided in part that: “Whenever reference is made in any other Federal law, regulation, ruling, or order to the Drug Abuse Office and Treatment Act of 1972, the reference shall be considered to be made to the Drug Abuse Prevention, Treatment, and Rehabilitation Act.”
 

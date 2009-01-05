@@ -32,7 +32,7 @@ Appointment.—The Advisory Committee shall consist of 11 members appointed by t
 
 &emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can represent the interests of the general public in the coinage of the United States.
 
-&emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendationsof the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
+&emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendations of the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
 
 &emsp;&emsp;&emsp;(i) One person recommended by the Speaker of the House of Representatives.
 
@@ -124,7 +124,7 @@ Duties of the Advisory Committee.—The duties of the Advisory Committee are as 
 
 (d)
 
-Expenses.—The expenses of the Advisory Committee that the Secretary of the Treasury determines to be reasonable and appropriate shall be paid by the Secretary from the United States Mint Public Enterprise Fund.
+Expenses.—The expenses of the Advisory Committee that the Secretary of the Treasurydetermines to be reasonable and appropriate shall be paid by the Secretary from the United States Mint Public Enterprise Fund.
 
 (e)
 
@@ -144,7 +144,7 @@ Required.—Not later than September 30 of each year, the Advisory Committee sha
 
 &emsp;(2)
 
-Contents.—The report required by paragraph (1) shall describe the activities of theAdvisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
+Contents.—The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
 
 (h)
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) A statement of the results of the vote, verified by the affidavits of the president or vice president and the secretary, shall be filed with the Administration within ten days after the vote is taken.
 
-&emsp;(3) Promptly after the vote is taken and in no event later than ninety days thereafter, if the proposition for conversion was approved by such vote, the credit union shall take such action as may be necessary under the applicable State law to make it a State credit union, and within ten days after receipt of the Statecredit union charter there shall be filed with the Administration a copy of the charter thus issued. Upon such filing the credit union shall cease to be a Federal credit union.
+&emsp;(3) Promptly after the vote is taken and in no event later than ninety days thereafter, if the proposition for conversion was approved by such vote, the credit union shall take such action as may be necessary under the applicable State law to make it a State credit union, and within ten days after receipt of the State credit union charter there shall be filed with the Administration a copy of the charter thus issued. Upon such filing the credit union shall cease to be a Federal credit union.
 
 &emsp;(4) Upon ceasing to be a Federal credit union, such credit union shall no longer be subject to any of the provisions of this chapter. The successor State credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the Federal credit union to the same extent as though the conversion had not taken place.
 
@@ -14,7 +14,7 @@
 
 (2) When the Board has been satisfied that all of such requirements, and all other requirements of this chapter, have been complied with, the Board shall approve the organization certificate. Upon such approval, the State credit union shall become a Federal credit union as of the date it ceases to be a State credit union. The Federal credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the State credit union to the same extent as though the conversion had not taken place.
 
-(June 26, 1934, ch. 750, title I, §125, formerly §26, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 638; amended Pub. L. 91–206, §2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §125, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §527, Oct. 15, 1982, 96 Stat. 1535.)
+(June 26, 1934, ch. 750, title I, §125, formerly §26, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 638; amended Pub. L. 91–206, §2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §125, Pub. L.91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §527, Oct. 15, 1982, 96 Stat. 1535.)
 
 #### References in Text
 

@@ -24,5 +24,5 @@ Designation.—The Biscayne National Park visitor center, located on the shore o
 
 “(b)
 
-References.—Any reference in a law, map, regulation, document, paper, or other document of theUnited States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
+References.—Any reference in a law, map, regulation, document, paper, or other document of the United States to the Biscayne National Park visitor center shall be deemed to be a reference to the ‘Dante Fascell Visitor Center’.”
 

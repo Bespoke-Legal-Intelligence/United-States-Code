@@ -6,7 +6,7 @@ Temporary appointments in the grade of ensign may be made by the President alone
 
 #### (b) Lieutenant (junior grade)
 
-Officers in the permanent grade of ensign may be temporarily promoted to and appointed in the grade of lieutenant (junior grade) by the President alone whenever vacancies exist in higher grades.
+Officers in the permanent grade of ensign may be temporarily promoted to and appointed inthe grade of lieutenant (junior grade) by the President alone whenever vacancies exist in higher grades.
 
 #### (c) Any one grade
 

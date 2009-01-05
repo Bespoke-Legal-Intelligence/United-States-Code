@@ -6,7 +6,7 @@ The Administrator of General Services, the Secretary of Defense, and the Directo
 
 #### (b) Identification program
 
-The Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, in consultation with the Secretary of Energy, each shall implement, in conjunction with carrying out their procurement and supply functions, a program to identify and designate those energy efficient products that offer significant potential savings, using, to the extent practicable, the life cycle cost methods and procedures developed under section 8254 of this title. The Secretary of Energy shall, to the extent necessary to carry out this section and after consultation with the aforementioned agency heads, provide estimates of the degree of relative energy efficiency of products.
+The Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, in consultation with the Secretary of Energy, each shall implement, in conjunction with carrying out their procurement and supply functions, a program to identify and designate those energy efficient products that offer significant potential savings, using, to the extent practicable, the life cycle cost methods and procedures developed under section 8254 of this title. The Secretary of Energy shall, to the extent necessary to carry outthis section and after consultation with the aforementioned agency heads, provide estimates of the degree of relative energy efficiency of products.
 
 #### (c) Guidelines
 
@@ -14,7 +14,7 @@ The Administrator for Federal Procurement Policy, in consultation with the Admin
 
 #### (d) Report to Congress
 
-Not later than December 31 of 1993 and thereafter as part of the report required under section8258(b) of this title, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
+Not later than December 31 of 1993 and thereafter as part of the report required under section 8258(b) of this title, the Secretary of Energy, in consultation with the Administrator for Federal Procurement Policy, the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency, shall report on the progress, status, activities, and results of the programs under subsections (a), (b), and (c) of this section. The report shall include—
 
 &emsp;(1) the types and functions of each product identified under subsection (b) of this section, and efforts undertaken by the Administrator of General Services, the Secretary of Defense, and the Director of the Defense Logistics Agency to encourage the acquisition and use of such products;
 

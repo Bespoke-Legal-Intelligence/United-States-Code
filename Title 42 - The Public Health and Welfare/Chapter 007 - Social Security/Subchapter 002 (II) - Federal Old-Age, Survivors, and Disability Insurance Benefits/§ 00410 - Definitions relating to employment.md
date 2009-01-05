@@ -20,7 +20,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(iii) the son, daughter, stepson, or step-daughter (referred to in clause (ii)) has not attained age 18 or has a mental or physical condition which requires the personal care and supervision of an adult for at least 4 continuous weeks in the calendar quarter in which the service is rendered;
 
-&emsp;(4) Service performed by an individual on or in connection with a vessel not an American vessel, or on or in connection with an aircraft not an American aircraft, if (A) the individualis employed on and in connection with such vessel or aircraft when outside the United States and (B)(i) such individual is not a citizen of the United States or (ii) the employer is not an American employer;
+&emsp;(4) Service performed by an individual on or in connection with a vessel not an American vessel, or on or in connection with an aircraft not an American aircraft, if (A) the individual is employed on and in connection with such vessel or aircraft when outside the United States and (B)(i) such individual is not a citizen of the United States or (ii) the employer is not an American employer;
 
 &emsp;(5) Service performed in the employ of the United States or any instrumentality of the United States, if such service—
 
@@ -54,7 +54,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;&emsp;(iii) in a position to which the individual is appointed by the President (or his designee) or the Vice President under section 105(a)(1), 106(a)(1), or 107(a)(1) or (b)(1) of title 3, if the maximum rate of basic pay for such position is at or above the rate for level V of the Executive Schedule,
 
-&emsp;&emsp;(E) service performed as the Chief Justice of the United States, an Associate Justice of the Supreme Court, a judge of a United States court of appeals, a judge of a United States district court (including the district court of a territory), a judge of the United States Court of Federal Claims, a judge of the United States Court of International Trade, a judge or special trial judge of the United States Tax Court, a United States magistrate judge, or a referee in bankruptcy or United States bankruptcy judge,
+&emsp;&emsp;(E) service performed as the Chief Justice of the United States, an Associate Justice of the Supreme Court, a judge of a United States court of appeals, a judge of a United States district court (including the district court of a territory), a judge of the United States Court of Federal Claims, a judge of the United States Court of International Trade, a judge of the United States Tax Court, a United States magistrate judge, or a referee in bankruptcy or United States bankruptcy judge,
 
 &emsp;&emsp;(F) service performed as a Member, Delegate, or Resident Commissioner of or to the Congress,
 
@@ -66,7 +66,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;&emsp;(iii) is performed by an individual after such individual has otherwise ceased to be subject to subchapter III of chapter 83 of title 5, (without having an application pending for coverage under such subchapter), while performing service in the legislative branch (determined without regard to the provisions of subparagraph (B) relating to continuity of employment), for any period of time after December 31, 1983,
 
-> &emsp;&emsp;and for purposes of this subparagraph (G) an individual is subject to such subchapter IIIor to any such other retirement system at any time only if (a) such individual's pay is subject to deductions, contributions, or similar payments (concurrent with the service being performed at that time) under section 8334(a) of such title 5 or the corresponding provision of the law establishing such other system, or (in a case to which section 8332(k)(1) of such title applies) such individual is making payments of amounts equivalent to such deductions, contributions, or similar payments while on leave without pay, or (b) such individual is receiving an annuity from the Civil Service Retirement and Disability Fund, or is receiving benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), or
+> &emsp;&emsp;and for purposes of this subparagraph (G) an individual is subject to such subchapter III or to any such other retirement system at any time only if (a) such individual's pay is subject to deductions, contributions, or similar payments (concurrent with the service being performed at that time) under section 8334(a) of such title 5 or the corresponding provision of the law establishing such other system, or (in a case to which section 8332(k)(1) of such title applies) such individual is making payments of amounts equivalent to such deductions, contributions, or similar payments while on leave without pay, or (b) such individual is receiving an annuity from the Civil Service Retirement and Disability Fund, or is receiving benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), or
 
 &emsp;&emsp;(H) service performed by an individual—
 
@@ -106,7 +106,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(E) service performed in the employ of the Government of Guam (or any instrumentality which is wholly owned by such Government) by an employee properly classified as a temporary or intermittent employee, if such service is not covered by a retirement system established by a law of Guam; except that (i) the provisions of this subparagraph shall not be applicable to services performed by an elected official or a member of the legislature or in a hospital or penal institution by a patient or inmate thereof, and (ii) for purposes of this subparagraph, clauses (i) and (ii) of subparagraph (C) shall apply, or
 
-&emsp;&emsp;(F) service in the employ of a State (other than the District of Columbia, Guam, or American Samoa), of any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, by an individual who is not a member of a retirement system ofsuch State, political subdivision, or instrumentality, except that the provisions of this subparagraph shall not be applicable to service performed—
+&emsp;&emsp;(F) service in the employ of a State (other than the District of Columbia, Guam, or American Samoa), of any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, by an individual who is not a member of a retirement system of such State, political subdivision, or instrumentality, except that the provisions of this subparagraph shall not be applicable to service performed—
 
 &emsp;&emsp;&emsp;(i) by an individual who is employed to relieve such individual from unemployment;
 
@@ -130,7 +130,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(A) a school, college, or university, or
 
-&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
+&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Securityand such State entered into pursuant to section 418 of this title;
 
 > &emsp;if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university;
 
@@ -202,7 +202,23 @@ The term “American aircraft” means an aircraft registered under the laws of 
 
 #### (e) American employer
 
-The term “American employer” means an employer which is (1) the United States or any instrumentality thereof, (2) a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing, (3) an individual who is a resident of the United States, (4) a partnership, if two-thirds or more of the partners are residents of the United States, (5) a trust, if all of the trustees are residents of the United States, or (6) a corporation organized under the laws of the United States or of any State.
+(1) The term “American employer” means an employer which is (A) the United States or any instrumentality thereof, (B) a State or any political subdivision thereof, or any instrumentality of any one or more of the foregoing, (C) an individual who is a resident of the United States, (D) a partnership, if two-thirds or more of the partners are residents of the United States, (E) a trust, if all of the trustees are residents of the United States, or (F) a corporation organized under the laws of the United States or of any State.
+
+(2)(A) If any employee of a foreign person is performing services in connection with a contract between the United States Government (or any instrumentality thereof) and any member of any domestically controlled group of entities which includes such foreign person, such foreign person shall be treated as an American employer with respect to such services performed by such employee.
+
+(B) For purposes of this paragraph—
+
+&emsp;(i) The term “domestically controlled group of entities” means a controlled group of entities the common parent of which is a domestic corporation.
+
+&emsp;(ii) The term “controlled group of entities” means a controlled group of corporations as defined in section 1563(a)(1) of the Internal Revenue Code of 1986, except that—
+
+&emsp;&emsp;(I) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein, and
+
+&emsp;&emsp;(II) the determination shall be made without regard to subsections (a)(4) and (b)(2) of section 1563 of such Code.
+
+> &emsp;A partnership or any other entity (other than a corporation) shall be treated as a member of a controlled group of entities if such entity is controlled (within the meaning of section 954(d)(3) of such Code) by members of such group (including any entity treated as a member of such group by reason of this sentence).
+
+(C) Subparagraph (A) shall not apply to any services to which paragraph (1) of section 3121(z) of the Internal Revenue Code of 1986 does not apply by reason of paragraph (4) of such section.
 
 #### (f) Agricultural labor
 
@@ -212,7 +228,7 @@ The term “agricultural labor” includes all service performed—
 
 &emsp;(2) In the employ of the owner or tenant or other operator of a farm, in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment, or in salvaging timber or clearing land of brush and other debris left by a hurricane, if the major part of such service is performed on a farm.
 
-&emsp;(3) In connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j(g) of title 12, or in connection with the ginning of cotton, or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, used exclusively for supplying and storing water for farming purposes.
+&emsp;(3) In connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j(g) <sup>2</sup> of title 12, or in connection with the ginning of cotton, or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, used exclusively for supplying and storing water for farming purposes.
 
 &emsp;(4)(A) In the employ of the operator of a farm in handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering to storage or to market or to a carrier for transportation to market, in its unmanufactured state, any agricultural or horticultural commodity; but only if such operator produced more than one-half of the commodity with respect to which such service is performed.
 
@@ -220,7 +236,7 @@ The term “agricultural labor” includes all service performed—
 
 &emsp;(5) On a farm operated for profit if such service is not in the course of the employer's trade or business.
 
-> The provisions of subparagraphs (A) and (B) of paragraph (4) of this subsection shall not be deemed to be applicable with respect to service performed in connection with commercial canning or commercial freezing or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
+> The provisions of subparagraphs (A) and (B) of paragraph (4) of this subsection shall not bedeemed to be applicable with respect to service performed in connection with commercial canning or commercial freezing or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
 
 #### (g) Farm
 
@@ -294,13 +310,13 @@ The term “employee” means—
 
 (3) The term “inactive duty training” means “inactive duty training” as described in paragraph (23) of such section 101.
 
-(4)(A) Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45. The Railroad Retirement Board shall notify the Commissioner of Social Security,<sup>2</sup> with respect to all such service which is so creditable.
+(4)(A) Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45. The Railroad Retirement Board shall notify the Commissioner of Social Security,<sup>3</sup> with respect to all such service which is so creditable.
 
 (B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
 
 #### (m) Member of a uniformed service
 
-The term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27)of title 38), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
+The term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
 
 &emsp;(1) a retired member of any of those services;
 
@@ -322,7 +338,7 @@ The term “member of a uniformed service” means any person appointed, enliste
 
 #### (n) Crew leader
 
-The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by them and if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crew leader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
+The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by themand if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crew leader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
 
 #### (<i>o</i>) Peace Corps volunteer service
 
@@ -388,7 +404,7 @@ Notwithstanding any other provision of this subchapter, the rules of section 350
 
 &emsp;(B) The term “international organization” has the meaning provided such term by section 3581(3) of title 5.
 
-(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub. L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 108–203, title IV, §423(c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 109–280, title VIII, §854(c)(9), Aug. 17, 2006, 120 Stat. 1019.)
+(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub.L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 108–203, title IV, §423(c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 109–280, title VIII, §854(c)(9), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 110–245, title III, §302(b), June 17, 2008, 122 Stat. 1648; Pub. L. 110–458, title I, §108(k)(2), Dec. 23, 2008, 122 Stat. 5110.)
 
 #### References in Text
 
@@ -404,13 +420,19 @@ The Foreign Service Act of 1980, referred to in subsec. (a)(5)(H)(ii), is Pub. L
 
 The International Organizations Immunities Act, referred to in subsec. (a)(15), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22. For complete classification of that Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
-The Internal Security Act of 1950, as amended, referred to in subsec. (a)(17), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principallyto chapter 23 (§781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 50 and Tables.
+The Internal Security Act of 1950, as amended, referred to in subsec. (a)(17), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to chapter 23 (§781 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 50 and Tables.
+
+Section 1141j(g) of title 12, referred to in subsec. (f)(3), was redesignated section 1141j(f) by Pub. L. 110–246, title I, §1610, June 18, 2008, 122 Stat. 1746.
 
 The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
 
 The Peace Corps Act, referred to in subsec. (<i>o</i>), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(5)(E). Pub. L. 110–458 struck out “or special trial judge” before “of the United States Tax Court”.
+
+Subsec. (e). Pub. L. 110–245 designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), and added par. (2).
 
 2006—Subsec. (a)(5)(E). Pub. L. 109–280 inserted “or special trial judge” before “of the United States Tax Court”.
 
@@ -422,7 +444,7 @@ The Peace Corps Act, referred to in subsec. (<i>o</i>), is Pub. L. 87–293, Sep
 
 Subsec. (a)(7)(D). Pub. L. 105–33, §11246(b)(2)(B), as added by Pub. L. 105–277, inserted “(other than the Federal Employees Retirement System provided in chapter 84 of title 5)” after “United States” in introductory provisions.
 
-1996—Subsec. (a). Pub. L. 104–188, §1116(a)(2)(A), inserted at end “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
+1996—Subsec. (a). Pub. L. 104–188, §1116(a)(2)(A), inserted at end “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of theoperating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
 
 Subsec. (a)(20)(A). Pub. L. 104–188, §1116(a)(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such individual does not receive any cash remuneration (other than as provided in subparagraph (B)),”.
 
@@ -486,7 +508,7 @@ Subsec. (a)(5)(H). Pub. L. 99–335 added subpar. (H).
 
 Subsec. (a)(20). Pub. L. 99–272, §13303(c)(2), as amended by Pub. L. 100–647, §8016(a)(4)(B), (C), substituted “Service (other than service described in paragraph (3)(A)) performed” for “Service performed” in introductory provisions.
 
-Subsec. (p). Pub. L. 99–272, §13205(b)(1), amended subsec. (p) generally. Prior to amendment, subsec. (p) readas follows: “For purposes of sections 426 and 426–1 of this title, the term ‘medicare qualified Federal employment’ means any service which would constitute ‘employment’ as defined in subsection (a) of this section but for the application of the provisions of subsection (a)(5) of this section.”
+Subsec. (p). Pub. L. 99–272, §13205(b)(1), amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “For purposes of sections 426 and 426–1 of this title, the term ‘medicare qualified Federal employment’ means any service which would constitute ‘employment’ as defined in subsection (a) of this section but for the application of the provisions of subsection (a)(5) of this section.”
 
 Subsec. (p)(2)(E). Pub. L. 99–514, §1895(b)(18)(B), added subpar. (E).
 
@@ -500,7 +522,7 @@ Subsec. (a)(1). Pub. L. 98–369, §2663(a)(7)(A), struck out “(A) under contr
 
 Subsec. (a)(5)(B). Pub. L. 98–369, §2601(a)(1), in amending subpar. (B) generally, substituted “(i) has been continuously performing service described in subparagraph (A) since December 31, 1983, and for purposes of this clause—(I) if an individual performing service described in subparagraph (A) returns to the performance of such service after being separated therefrom for a period of less than 366 consecutive days, regardless of whether the period began before, on, or after December 31, 1983, then such service shall be considered continuous,” for “(i) has been continuously in the employ of the United States or an instrumentality thereof since December 31, 1983 (and for this purpose an individual who returns to the performance of such service after being separated therefrom following a previous period of such service shall nevertheless be considered upon such return as having been continuously in the employ of the United States or an instrumentality thereof, regardless of whether the period of such separation began before, on, or after December 31, 1983, if the period of such separation does not exceed 365 consecutive days),”, added subcls. (II) to (IV), and reenacted cl. (ii).
 
-Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraph shall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
+Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraphshall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
 
 Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as the introductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
 
@@ -676,6 +698,12 @@ Subsec. (k)(3)(C). Act Sept. 1, 1954, §101(f), struck out requirement that serv
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see Reorg. Plan No. 4 of 1970, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 110–245 applicable to services performed in calendar months beginning more than 30 days after June 17, 2008, see section 302(c) of Pub. L. 110–245, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective, except as otherwise specifically provided, as if included in the enactment of title XI of the Balanced Budget Act of 1997, Pub. L. 105–33, see section 101(h) \[title VIII, §805\] of Pub. L. 105–277, set out as a note under section 3121 of Title 26, Internal Revenue Code.
@@ -716,7 +744,7 @@ Amendment by Pub. L. 101–239 applicable with respect to any agreement in effec
 
 Amendment by section 1001(d)(2)(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
-Amendment by section 8015(b)(1) of Pub. L. 100–647 applicable as if such amendment had been included or reflected in section 304 of Federal Employees’ RetirementSystem Act of 1986, Pub. L. 99–335, at the time of its enactment (June 6, 1986), see section 8015(b)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
+Amendment by section 8015(b)(1) of Pub. L. 100–647 applicable as if such amendment had been included or reflected in section 304 of Federal Employees’ Retirement System Act of 1986, Pub. L. 99–335, at the time of its enactment (June 6, 1986), see section 8015(b)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
 Amendment by section 8015(c)(1) of Pub. L. 100–647 applicable to any individual only upon the performance by such individual of service described in subpar. (C), (D), (E), (F), (G), or (H) of subsec. (a)(5) of this section on or after Nov. 10, 1988, see section 8015(c)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
@@ -790,7 +818,7 @@ Amendment by Pub. L. 95–216 applicable with respect to remuneration paid and s
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–563 applicable with respect to services performed after 1950, to the extent covered by waiver certificates filed or deemed to have been filed under section 3121(k)(4) or (5) of Title 26, see section1(d) of Pub. L. 94–563, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 94–563 applicable with respect to services performed after 1950, to the extent covered by waiver certificates filed or deemed to have been filed under section 3121(k)(4) or (5) of Title 26, see section 1(d) of Pub. L. 94–563, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1974 Amendment
 
@@ -850,7 +878,7 @@ Amendment by act Aug. 1, 1956, ch. 837, effective Jan. 1, 1957, see section 603(
 
 Section 104(i) of act Aug. 1, 1956, ch. 836, as amended by Pub. L. 92–603, title I, §125(b), Oct. 30, 1972, 86 Stat. 1357, provided that:
 
-“(1) The amendment made by subsection (a) \[amending this section\] shall apply with respect to service performed after 1956. The amendments made by paragraph (1) of subsection (c) \[amending this section\] shall apply with respect to service performed after 1954. The amendment made by paragraph (2) of subsection (c) \[amending section 411 of this title\] shall apply with respect to taxable years ending after 1955. The amendment made by paragraph (3) of subsection (c) \[amending section 411 of this title\] shall apply with respect totaxable years ending after 1954. The amendment made by subsection (d) \[amending section 411 of this title\] shall apply with respect to taxable years ending after 1955. The amendment made by subsection (h) \[amending section 411 of this title\] shall apply with respect to the same taxable years with respect to which the amendment made by section 201(g) of this Act \[amending section 1402 of Title 26, Internal Revenue Code\] applies.
+“(1) The amendment made by subsection (a) \[amending this section\] shall apply with respect to service performed after 1956. The amendments made by paragraph (1) of subsection (c) \[amending this section\] shall apply with respect to service performed after 1954. The amendment made by paragraph (2) of subsection (c) \[amending section 411 of this title\] shall apply with respect to taxable years ending after 1955. The amendment made by paragraph (3) of subsection (c) \[amending section 411 of this title\] shall apply with respect to taxable years ending after 1954. The amendment made by subsection (d) \[amending section 411 of this title\] shall apply with respect to taxable years ending after 1955. The amendment made by subsection (h) \[amending section 411 of this title\] shall apply with respect to the same taxable years with respect to which the amendment made by section 201(g) of this Act \[amending section 1402 of Title 26, Internal Revenue Code\] applies.
 
 “(2)(A) Except as provided in subparagraphs (B) and (C), the amendments made by subsection (b) \[amending this section\] shall apply only with respect to service performed after June 30, 1957, and only if—
 
@@ -912,7 +940,7 @@ Section 2601(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title 
 
 > shall, if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) after the date on which he last ceased to be subject to such subchapter but prior to, or within 30 days after, the date of the enactment of this Act \[July 18, 1984\], requalify for the exemption from social security coverage and taxes under section 210(a)(5) of the Social Security Act and section 3121(b)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(b)(5)\] as if the cessation of coverage under title 5 had not occurred.
 
-“(2) An individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) who is not in the employ of the United States or an instrumentality thereof on the date of the enactment of this Act \[July 18, 1984\] may requalify for such exemptions in the same manner as under paragraph (1) if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) within 30 days after the date on which he first returns to service in the legislative branch after such date of enactment, if such date (on which he returns to service) is within 365 days after he was last in the employ of the United States or an instrumentality thereof.
+“(2) An individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) who is not in the employ of the United States or an instrumentality thereof on the date of the enactment of this Act \[July 18, 1984\] may requalify for such exemptions in the same manner as under paragraph (1) if such individual again becomes subject to subchapter III of chapter 83 of title 5 (or effectively applies for coverage under such subchapter) within 30 days after the date on which he first returns to service in the legislative branch after suchdate of enactment, if such date (on which he returns to service) is within 365 days after he was last in the employ of the United States or an instrumentality thereof.
 
 “(3) If an individual meeting the requirements of subparagraphs (A) and (B) of paragraph (1) does not again become subject to subchapter III of chapter 83 of title 5 (or effectively apply for coverage under such subchapter) prior to the date of the enactment of this Act or within the relevant 30-day period as provided in paragraph (1) or (2), social security coverage and taxes by reason of section 210(a)(5)(G) of the Social Security Act and section 3121(b)(5)(G) of the Internal Revenue Code of 1986 shall, with respect to such individual's service in the legislative branch of the Federal Government, become effective with the first month beginning after such 30-day period.
 
@@ -950,5 +978,7 @@ Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the inter
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

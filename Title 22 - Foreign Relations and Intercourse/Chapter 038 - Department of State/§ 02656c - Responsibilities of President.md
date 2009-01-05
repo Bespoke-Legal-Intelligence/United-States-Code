@@ -4,7 +4,7 @@
 
 The President, in consultation with the Director of the Office of Science and Technology Policy and other officials whom the President considers appropriate, shall—
 
-&emsp;(1) notwithstanding any other provision of law, insure that the Secretary of State is informed and consulted before any agency of theUnited States Government takes any major action, primarily involving science or technology, with respect to any foreign government or international organization;
+&emsp;(1) notwithstanding any other provision of law, insure that the Secretary of State is informed and consulted before any agency of the United States Government takes any major action, primarily involving science or technology, with respect to any foreign government or international organization;
 
 &emsp;(2) identify and evaluate elements of major domestic science and technology programs and activities of the United States Government with significant international implications;
 

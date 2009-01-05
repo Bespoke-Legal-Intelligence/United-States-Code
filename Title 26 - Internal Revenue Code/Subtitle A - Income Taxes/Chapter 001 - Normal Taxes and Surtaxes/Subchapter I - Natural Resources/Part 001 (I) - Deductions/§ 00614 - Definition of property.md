@@ -78,7 +78,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 &emsp;&emsp;(B) to treat as a separate property each such interest which is not included within an aggregation referred to in subparagraph (A).
 
-> &emsp;For purposes of this paragraph, separate operating mineral interests which constitute part or all of an operating unit may be aggregated whether or not they are included in a single tract or parcel of land and whether or not they are included in contiguous tracts or parcels. For purposes of this paragraph, a taxpayer may elect to form more than one aggregation of operating mineral interests within any one operating unit; but no aggregation may include any operating mineral interest which is a part of a mine without including all of the operating mineral interests which are a part of such mine in the first taxable year for which the election to aggregate is effective, and any operating mineral interest which thereafter becomes a part of such mine shall be included in such aggregation.
+> &emsp;For purposes of this paragraph, separate operating mineral interests which constitute part or all of an operating unit may be aggregated whether or not they are included in a single tract or parcel of land and whether or not they are included in contiguous tracts or parcels. For purposes of this paragraph, a taxpayermay elect to form more than one aggregation of operating mineral interests within any one operating unit; but no aggregation may include any operating mineral interest which is a part of a mine without including all of the operating mineral interests which are a part of such mine in the first taxable year for which the election to aggregate is effective, and any operating mineral interest which thereafter becomes a part of such mine shall be included in such aggregation.
 
 #### (2) Election to treat a single interest as more than one property
 
@@ -102,7 +102,7 @@ For purposes of this section, the term “operating mineral interest” includes
 
 #### (1) Aggregation of separate interests
 
-&emsp;If a taxpayer owns two or more separate nonoperating mineral interests in a single tract or parcel of land or in two or more adjacent tracts or parcels of land, the Secretary shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as oneproperty. If such permission is granted for any taxable year, the taxpayer shall treat such interests as one property for all subsequent taxable years unless the Secretary consents to a different treatment.
+&emsp;If a taxpayer owns two or more separate nonoperating mineral interests in a single tract or parcel of land or in two or more adjacent tracts or parcels of land, the Secretary shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property. If such permission is granted for any taxable year, the taxpayer shall treat such interests as one property for all subsequent taxable years unless the Secretary consents to a different treatment.
 
 #### (2) Nonoperating mineral interests defined
 
@@ -160,7 +160,7 @@ Section 226(d) of Pub. L. 88–272 provided that: “The amendments made by subs
 
 #### Effective Date of 1958 Amendment
 
-Section 37(e) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (c) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b)\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Section 37(e) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (c) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 #### Allocation of Basis in Certain Cases
 

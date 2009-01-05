@@ -12,7 +12,7 @@ The Secretary shall administer the protection area in accordance with this secti
 
 #### (c) Withdrawal
 
-Subject to valid existing rights, all lands within the protection area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
+Subject to valid existing rights, all lands within the protection area are hereby withdrawnfrom all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
 
 #### (d) Development
 
@@ -20,7 +20,7 @@ No developed campgrounds shall be constructed within the protection area. After 
 
 #### (e) Timber harvesting
 
-No timber harvesting shall be allowed within the protection area except to the extent that would be permitted in wilderness under section1133(d)(1) of this title for necessary control of fire, insects, and diseases, and for public safety.
+No timber harvesting shall be allowed within the protection area except to the extent that would be permitted in wilderness under section 1133(d)(1) of this title for necessary control of fire, insects, and diseases, and for public safety.
 
 #### (f) Motorized travel
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of regulations; time requirement
 
-Except as otherwise provided in section 924 of this title, no payment of benefits shall be made under this part except pursuant to a claim filedtherefor on or before December 31, 1973, in such manner, in such form, and containing such information, as the Secretary shall by regulation prescribe.
+Except as otherwise provided in section 924 of this title, no payment of benefits shall be made under this part except pursuant to a claim filed therefor on or before December 31, 1973, in such manner, in such form, and containing such information, as the Secretary shall by regulation prescribe.
 
 #### (b) Utilization of personnel and procedures; evidence required to establish claim; medical evidence; affidavits; autopsy reports; reimbursement of expenses
 

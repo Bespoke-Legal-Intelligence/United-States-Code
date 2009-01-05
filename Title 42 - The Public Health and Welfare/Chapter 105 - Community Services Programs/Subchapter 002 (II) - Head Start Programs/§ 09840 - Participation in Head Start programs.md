@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(II) from the area served, an additional 35 percent of participants who are not eligible under clause (i) or (ii) and whose families have incomes below 130 percent of the poverty line, if—
 
-&emsp;&emsp;&emsp;(aa) the Head Start agency involved establishes and implements outreach and enrollment policies and procedures that ensure such agency is meeting the needs of children eligible under clause (i) or (ii) (or subclause (I) if the child involved has adisability) prior to meeting the needs of children eligible under this subclause; and
+&emsp;&emsp;&emsp;(aa) the Head Start agency involved establishes and implements outreach and enrollment policies and procedures that ensure such agency is meeting the needs of children eligible under clause (i) or (ii) (or subclause (I) if the child involved has a disability) prior to meeting the needs of children eligible under this subclause; and
 
 &emsp;&emsp;&emsp;(bb) in prioritizing the selection of children to be served, the Head Start agency establishes criteria that provide that the agency will serve children eligible under clause (i) or (ii) prior to serving the children eligible under this subclause;
 
@@ -88,7 +88,7 @@
 
 (C) In approving such applications, the Secretary shall take into account the costs of serving persons under section 9840a of this title.
 
-(D) Any Head Start agency with an application approved under subparagraph (B) shall be considered to be an Early Head Start agency and shall be subject to the same rules, regulations, and conditions as apply to recipients of grants under section 9840a of this title, with respect to activities carried out under this paragraph.
+(D) Any Head Start agency with an application approved under subparagraph (B) shall be considered to be an Early Head Start agency and shall be subject to the same rules, regulations,and conditions as apply to recipients of grants under section 9840a of this title, with respect to activities carried out under this paragraph.
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 

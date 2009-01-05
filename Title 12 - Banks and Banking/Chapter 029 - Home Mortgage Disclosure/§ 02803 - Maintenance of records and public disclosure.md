@@ -2,7 +2,7 @@
 
 #### (a) Duty of depository institutions; nature and content of information
 
-(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised ofdesignated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
+(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
 
 (2) The information required to be maintained and made available under paragraph (1) shall also be itemized in order to clearly and conspicuously disclose the following:
 
@@ -62,7 +62,7 @@ The data required to be disclosed under subsection (b)(4) of this section shall 
 
 &emsp;(5) the Secretary of Housing and Urban Development for other lending institutions not regulated by the agencies referred to in paragraphs (1) through (4),
 
-> shall develop regulations prescribing the format for such disclosures, the method for submission of the data to the appropriate regulatory agency, and the procedures for disclosing the information to the public. These regulations shall also require the collection of data required to be disclosed under subsection (b)(4) of this section with respect to loans sold by each institution reporting under this chapter, and, in addition, shall require disclosure of the class of the purchaser of such loans. Any reporting institution may submit in writing to the appropriate agency such additional data or explanations as it deems relevant to the decision to originate or purchase mortgage loans.
+> shall develop regulations prescribing the format for such disclosures, the method for submission of the data to the appropriate regulatory agency, and the procedures for disclosing the information to the public. These regulations shall also require the collection of data required to be disclosed under subsection (b)(4) of this sectionwith respect to loans sold by each institution reporting under this chapter, and, in addition, shall require disclosure of the class of the purchaser of such loans. Any reporting institution may submit in writing to the appropriate agency such additional data or explanations as it deems relevant to the decision to originate or purchase mortgage loans.
 
 #### (i) Exemption from certain disclosure requirements
 
@@ -114,7 +114,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (7) Minimizing compliance costs
 
-&emsp;In prescribing regulations under this subsection, the Board shall make every effort tominimize the costs incurred by a depository institution in complying with this subsection and such regulations.
+&emsp;In prescribing regulations under this subsection, the Board shall make every effort to minimize the costs incurred by a depository institution in complying with this subsection and such regulations.
 
 #### (k) Disclosure of statements by depository institutions
 
@@ -144,7 +144,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (A) 6- and 9-month maximum periods
 
-&emsp;&emsp;Except as provided in subsections (j)(5) and (k)(1) of this section and regulations prescribed by the Board and subject to subparagraph (B), any information required to be disclosed for any year beginning after December 31, 1992, under—
+&emsp;&emsp;Except as provided in subsections (j)(5) and (k)(1) of this section and regulations prescribed by the Board and subject to subparagraph (B), any information required to bedisclosed for any year beginning after December 31, 1992, under—
 
 &emsp;&emsp;&emsp;(i) this section shall be made available to the public before September 1 of the succeeding year; and
 
@@ -196,7 +196,7 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 
 1996—Subsec. (m). Pub. L. 104–208 added subsec. (m).
 
-1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register informationunder subsection (j) of this section,” after “under this section”.
+1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l</i>).
 
@@ -226,7 +226,7 @@ Subsec. (i). Pub. L. 101–73, §1211(j), added subsec. (i).
 
 Subsec. (g). Pub. L. 100–242, §565(a)(2), added subsec. (g).
 
-1983—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
+1983—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statisticalarea that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
 
 1980—Subsec. (a)(1). Pub. L. 96–399, §340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
 

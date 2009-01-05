@@ -1,6 +1,6 @@
 ### §8501. State regulation of pilots
 
-(a) Except as otherwise provided in this subtitle, pilots in the bays, rivers, harbors, andports of the United States shall be regulated only in conformity with the laws of the States.
+(a) Except as otherwise provided in this subtitle, pilots in the bays, rivers, harbors, and ports of the United States shall be regulated only in conformity with the laws of the States.
 
 (b) The master of a vessel entering or leaving a port on waters that are a boundary between 2 States, and that is required to have a pilot under this section, may employ a pilot licensed or authorized by the laws of either of the 2 States.
 

@@ -180,7 +180,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) when used with respect to any public elementary school or secondary school teacher teaching in a State, means that—
 
-&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State's public charter school law; and
+&emsp;&emsp;&emsp;(i) the teacher has obtained full State certification as a teacher (including certification obtained through alternative routes to certification) or passed the State teacher licensing examination, and holds a license to teach in such State, except that when used with respect to any teacher teaching in a public charter school, theterm means that the teacher meets the requirements set forth in the State's public charter school law; and
 
 &emsp;&emsp;&emsp;(ii) the teacher has not had certification or licensure requirements waived on an emergency, temporary, or provisional basis;
 
@@ -258,7 +258,7 @@ Except as otherwise provided, in this chapter:
 
 #### (C) BIA schools
 
-&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than thestudent population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
+&emsp;&emsp;The term includes an elementary school or secondary school funded by the Bureau of Indian Affairs but only to the extent that including the school makes the school eligible for programs for which specific eligibility is not provided to the school in another provision of law and the school does not have a student population that is smaller than the student population of the local educational agency receiving assistance under this chapter with the smallest student population, except that the school shall not be subject to the jurisdiction of any State educational agency other than the Bureau of Indian Affairs.
 
 #### (D) Educational service agencies
 
@@ -334,7 +334,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) State academic content standards, student academic achievement standards, and assessments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall notapply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
+&emsp;&emsp;&emsp;&emsp;(II) the curricula and programs tied to the standards described in subclause (I) except that this subclause shall not apply to activities described in clauses (ii) and (iii) of section 6623(3)(B) <sup>2</sup> of this title;
 
 &emsp;&emsp;&emsp;(ix) are developed with extensive participation of teachers, principals, parents, and administrators of schools to be served under this chapter;
 

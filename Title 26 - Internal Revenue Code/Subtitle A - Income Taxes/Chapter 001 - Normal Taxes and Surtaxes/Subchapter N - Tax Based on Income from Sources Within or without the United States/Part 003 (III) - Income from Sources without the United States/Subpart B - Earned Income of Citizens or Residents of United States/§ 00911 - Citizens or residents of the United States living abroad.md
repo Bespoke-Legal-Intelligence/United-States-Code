@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
@@ -312,9 +312,9 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476.)
 
-#### Adjustment of Foreign Earned Income Exclusion Amount for Taxable Year 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of the foreign earned income exclusion amount under subsec. (b)(2)(D)(i) for</i><i>taxable years beginning in 2008, see section 3.30 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -544,7 +544,7 @@ Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Cana
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as anEffective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 

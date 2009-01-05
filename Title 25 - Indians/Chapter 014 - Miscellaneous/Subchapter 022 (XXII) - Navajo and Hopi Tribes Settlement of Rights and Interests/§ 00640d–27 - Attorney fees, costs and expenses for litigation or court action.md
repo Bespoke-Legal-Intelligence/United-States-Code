@@ -2,7 +2,7 @@
 
 #### (a) Payment by Secretary; authorization of appropriations
 
-In any litigation or court action between or among the Hopi Tribe, the Navajo Tribe and theUnited States or any of its officials, departments, agencies, or instrumentalities, arising out of the interpretation or implementation of this subchapter, as amended, the Secretary shall pay, subject to the availability of appropriations, attorney's fees, costs and expenses as determined by the Secretary to be reasonable. For each tribe, there is hereby authorized to be appropriated not to exceed $120,000 in fiscal year 1981, $130,000 in fiscal year 1982, $140,000 in fiscal year 1983, $150,000 in fiscal year 1984, and $160,000 in fiscal year 1985, and each succeeding year thereafter until such litigation or court action is finally completed.
+In any litigation or court action between or among the Hopi Tribe, the Navajo Tribe and the United States or any of its officials, departments, agencies, or instrumentalities, arising out of the interpretation or implementation of this subchapter, as amended, the Secretary shall pay, subject to the availability of appropriations, attorney's fees, costs and expenses as determined by the Secretary to be reasonable. For each tribe, there is hereby authorized to be appropriated not to exceed $120,000 in fiscal year 1981, $130,000 in fiscal year 1982, $140,000 in fiscal year 1983, $150,000 in fiscal year 1984, and $160,000 in fiscal year 1985, and each succeeding year thereafter until such litigation or court action is finally completed.
 
 #### (b) Award by court; reimbursement to Secretary
 

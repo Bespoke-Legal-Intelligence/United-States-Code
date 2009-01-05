@@ -8,7 +8,7 @@
 
 #### (B) Implementation
 
-&emsp;The Secretary shall issue regulations to carry out this section only after consultationwith the Council on Environmental Quality. Such regulations shall—
+&emsp;The Secretary shall issue regulations to carry out this section only after consultation with the Council on Environmental Quality. Such regulations shall—
 
 &emsp;&emsp;(i) provide for monitoring of the performance of environmental reviews under this section;
 

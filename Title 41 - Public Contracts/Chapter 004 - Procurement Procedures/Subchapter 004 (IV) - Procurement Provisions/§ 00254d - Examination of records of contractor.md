@@ -4,7 +4,7 @@
 
 (1) The head of an executive agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
 
-&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials,labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
+&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that executive agency under this subchapter; and
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
@@ -30,7 +30,7 @@
 
 #### (c) Comptroller General authority
 
-(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
+(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding such transactions.
 
 (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
 
@@ -66,7 +66,7 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
-&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permittimely and convenient access to the imaged records.
+&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
 
 &emsp;(3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
@@ -74,13 +74,15 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(June 30, 1949, ch. 288, title III, §304C, as added and amended Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), Oct. 13, 1994, 108 Stat. 3318, 3341; Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–201, div. A, title VIII, §808(b), Sept. 23, 1996, 110 Stat. 2607.)
+(June 30, 1949, ch. 288, title III, §304C, as added and amended Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), Oct. 13, 1994, 108 Stat. 3318, 3341; Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–201, div. A, title VIII, §808(b), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 110–417, \[div. A\], title VIII, §871(a), Oct. 14, 2008, 122 Stat. 4555.)
 
 #### References in Text
 
-Section 3 and 8G of the Inspector General Act of 1978, referred to in subsec. (b)(1), are sections 3 and 8G of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. The reference to section 8G of the Act probably means the section 8G which was renumbered by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and which relates to requirements for Federal entities and designated Federal entities.
+Section 3 and 8G of the Inspector General Act of 1978, referred to in subsec. (b)(1), are sections 3 and 8G of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–417 inserted before period at end “and to interview any current employee regarding such transactions”.
 
 1996—Subsec. (a)(2). Pub. L. 104–106 substituted “section 254b” for “section 254c”.
 

@@ -8,13 +8,13 @@
 
 &emsp;(2) the total number of such orders either granted, modified, or denied; and
 
-&emsp;(3) the total number of pen registers and trap and trace devices whose installation anduse was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices.
+&emsp;(3) the total number of pen registers and trap and trace devices whose installation and use was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices.
 
 (Pub. L. 95–511, title IV, §406, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2410; amended Pub. L. 109–177, title I, §§109(b), 128(b), Mar. 9, 2006, 120 Stat. 204, 229.)
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177, §128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §128(b), inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Select Committee on Intelligence of the Senate”.
 
 Subsec. (b)(3). Pub. L. 109–177, §109(b), added par. (3).
 

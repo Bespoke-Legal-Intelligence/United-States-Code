@@ -16,7 +16,7 @@ When used in this chapter—
 
 &emsp;(5) the operation of vessels or aircraft in a zone of hostilities or engaged in war activities.
 
-(c) The term “hostile force or person” means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country in which a person covered by this chapter is serving.
+(c) The term “hostile force or person” means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country inwhich a person covered by this chapter is serving.
 
 (d) The term “allies” means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance.
 

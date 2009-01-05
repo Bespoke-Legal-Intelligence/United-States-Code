@@ -16,7 +16,7 @@ In this chapter:
 
 #### (2) American Indian consortium
 
-&emsp;The term “American Indian consortium” means an entity that is an American Indian Consortium (as defined in section 102 of Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002)), and that is established to provide protection and advocacy services for purposes of receiving funding under subtitle C of title I of such Act (42 U.S.C. 15041 et seq.).
+&emsp;The term “American Indian consortium” means an entity that is an American Indian Consortium (as defined in section 102 of Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002)), and that is established to provide protection and advocacy services for purposes of receiving fundingunder subtitle C of title I of such Act (42 U.S.C. 15041 et seq.).
 
 #### (3) Assistive technology
 
@@ -104,7 +104,7 @@ In this chapter:
 
 #### (11) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given such term in section 1001(a) of title 20, and includes a community college receiving funding under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.).
+&emsp;The term “institution of higher education” has the meaning given such term in section 1001(a) of title 20, and includes a community college receiving funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.).
 
 #### (12) Protection and advocacy services
 
@@ -176,19 +176,21 @@ In this chapter:
 
 &emsp;The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
-(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709.)
+(Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30,2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, §941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in pars. (1)(B) and (16)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act is classified generally to subpart 3 (§796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in pars. (2) and (12)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in pars. (2) and (12)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (11), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (11), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Protection and Advocacy for Individuals with Mental Illness Act, referred to in par. (12)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended, which is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
+The Protection and Advocacy for Individuals with Mental Illness Act, referred to in par. (12)(A), is Pub. L. 99–319, May 23, 1986, 100 Stat. 478, which is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Par. (11). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 2004—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to definitions and references.
 

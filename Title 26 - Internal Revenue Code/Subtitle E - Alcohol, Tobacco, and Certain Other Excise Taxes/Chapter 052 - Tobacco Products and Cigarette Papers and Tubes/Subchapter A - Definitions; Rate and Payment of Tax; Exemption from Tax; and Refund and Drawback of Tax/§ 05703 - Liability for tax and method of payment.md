@@ -94,7 +94,7 @@ Subsec. (b)(3). Pub. L. 99–514 inserted last sentence.
 
 1983—Subsec. (b). Pub. L. 97–448 designated existing provisions as par. (1), struck out provisions that the Secretary prescribe the time for making a return and the time for the payment of taxes and that the Secretary prescribe by regulations the conditions for the filing of additional bonds, and added par. (2).
 
-1976—Subsec. (a). Pub. L. 94–455, §1905(a)(25)(A), directed that all provisions of chapter 52 applicable to tobacco products and cigarette papers and tubes in bond be applicable to such articles returned to bond uponwithdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
+1976—Subsec. (a). Pub. L. 94–455, §1905(a)(25)(A), directed that all provisions of chapter 52 applicable to tobacco products and cigarette papers and tubes in bond be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
 Subsec. (b). Pub. L. 94–455, §§1905(a)(25)(B), 1906(b)(13)(A), struck out provisions which had authorized payment of taxes by stamp until regulations could be promulgated to provide for payment by return and struck out “or his delegate” after “Secretary” in three places.
 

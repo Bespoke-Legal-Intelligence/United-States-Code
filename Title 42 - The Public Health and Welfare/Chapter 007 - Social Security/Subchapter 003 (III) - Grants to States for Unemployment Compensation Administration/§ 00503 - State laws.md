@@ -48,11 +48,11 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;(3) that any interest required to be paid on advances under subchapter XII of this chapter has not been paid by the date on which such interest is required to be paid or has been paid directly or indirectly (by an equivalent reduction in State unemployment taxes or otherwise) by such State from amounts in such State's unemployment fund, until such interest is properly paid.
 
-#### (d) Disclosure of unemployment compensation information; deduction and withholding of amounts owed to State food stamp agencies; reimbursement of administrative costs; non-compliance of State agency
+#### (d) Disclosure of unemployment compensation information; coordination with supplemental nutrition assistance program benefits agencies; non-compliance of State agency
 
 (1) The State agency charged with the administration of the State law—
 
-&emsp;(A) shall disclose, upon request and on a reimbursable basis, to officers and employees of the Department of Agriculture and to officers or employees of any State food stamp agency any of the following information contained in the records of such State agency—
+&emsp;(A) shall disclose, upon request and on a reimbursable basis, to officers and employees of the Department of Agriculture and to officers or employees of any State supplemental nutrition assistance program benefits agency any of the following information contained in the records of such State agency—
 
 &emsp;&emsp;(i) wage information,
 
@@ -62,33 +62,33 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(iv) whether an individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor, and
 
-&emsp;(B) shall establish such safeguards as are necessary (as determined by the Secretary of Labor in regulations) to insure that information disclosed under subparagraph (A) is used only for purposes of determining an individual's eligibility for benefits, or the amount of benefits, under the food stamp program established under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
+&emsp;(B) shall establish such safeguards as are necessary (as determined by the Secretary of Labor in regulations) to insure that information disclosed under subparagraph (A) is used only for purposes of determining an individual's eligibility for benefits, or the amount of benefits, under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\].
 
 (2)(A) For purposes of this paragraph, the term “unemployment compensation” means any unemployment compensation payable under the State law (including amounts payable pursuant to an agreement under a Federal unemployment compensation law).
 
 (B) The State agency charged with the administration of the State law—
 
-&emsp;(i) may require each new applicant for unemployment compensation to disclose whether the applicant owes an uncollected overissuance (as defined in section 13(c)(1) of the Food Stamp Act of 1977 \[7 U.S.C. 2022(c)(1)\]) of food stamp coupons,
+&emsp;(i) may require each new applicant for unemployment compensation to disclose whether the applicant owes an uncollected overissuance (as defined in section 13(c)(1) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2022(c)(1)\]) of supplemental nutrition assistance program benefits benefits,<sup>2</sup>
 
-&emsp;(ii) may notify the State food stamp agency to which the uncollected overissuance is owed that the applicant has been determined to be eligible for unemployment compensation if the applicant discloses under clause (i) that the applicant owes an uncollected overissuance and the applicant is determined to be so eligible,
+&emsp;(ii) may notify the State supplemental nutrition assistance program benefits agency to which the uncollected overissuance is owed that the applicant has been determined to be eligible for unemployment compensation if the applicant discloses under clause (i) that the applicant owes an uncollected overissuance and the applicant is determined to be so eligible,
 
 &emsp;(iii) may deduct and withhold from any unemployment compensation otherwise payable to an individual—
 
 &emsp;&emsp;(I) the amount specified by the individual to the State agency to be deducted and withheld under this clause,
 
-&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State food stamp agency under section 13(c)(3)(A) of the Food Stamp Act of 1977 \[7 U.S.C. 2022(c)(3)(A)\], or
+&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State supplemental nutrition assistance program benefits agency under section 13(c)(3)(A) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2022(c)(3)(A)\], or
 
 &emsp;&emsp;(III) any amount otherwise required to be deducted and withheld from the unemployment compensation pursuant to section 13(c)(3)(B) of such Act \[7 U.S.C. 2022(c)(3)(B)\], and
 
-&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State food stamp agency.
+&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State supplemental nutrition assistance program benefits agency.
 
-(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by the individual to the State food stamp agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
+(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by the individual to the State supplemental nutrition assistance program benefits agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
 
-(D) A State food stamp agency to which an uncollected overissuance is owed shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by the State agency under this paragraph that are attributable to repayment of uncollected overissuance to the State food stamp agency to which the uncollected overissuance is owed.
+(D) A State supplemental nutrition assistance program benefits agency to which an uncollected overissuance is owed shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by the State agency under this paragraph that are attributable to repayment of uncollected overissuance to the State supplemental nutrition assistance program benefits agency to which the uncollected overissuance is owed.
 
 (3) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
 
-(4) For purposes of this subsection, the term “State food stamp agency” means any agency described in section 3(n)(1) of the Food Stamp Act of 1977 \[7 U.S.C. 2012(n)(1)\] which administers the food stamp program established under such Act.
+(4) For purposes of this subsection, the term “State supplemental nutrition assistance program benefits agency” means any agency described in section 3(t)(1) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2012(t)(1)\] which administers the supplemental nutrition assistance program established under such Act.
 
 #### (e) Disclosure of wage information; non-compliance of State agency
 
@@ -112,7 +112,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title, or
 
-&emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
+&emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>3</sup> of this title), and
 
 &emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
 
@@ -176,7 +176,7 @@ The State agency charged with the administration of the State law shall provide 
 
 (2) The Secretary of Labor shall prescribe regulations governing how often and in what form information may be disclosed under paragraph (1)(A).
 
-(3) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Laborshall notify such State agency that further payments will not be made to the State until he or she is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he or she shall make no future certification to the Secretary of the Treasury with respect to such State.
+(3) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he or she is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he or she shall make no future certification to the Secretary of the Treasury with respect to such State.
 
 (4) For purposes of this subsection, the term “public housing agency” means any agency described in section 1437a(b)(6) of this title.
 
@@ -198,7 +198,7 @@ The State agency charged with the administration of the State law shall provide 
 
 (1) For purposes of subsection (a) of this section, the unemployment compensation law of a State must provide—
 
-&emsp;(A) that if an employer transfers its business to another employer, and both employers are (at the time of transfer) under substantially common ownership, management, or control, then the unemployment experience attributable to the transferred business shall also be transferred to (and combined with the unemployment experience attributable to) the employer to whom such business is so transferred,
+&emsp;(A) that if an employer transfers its business to another employer, and both employers are\(at the time of transfer) under substantially common ownership, management, or control, then the unemployment experience attributable to the transferred business shall also be transferred to (and combined with the unemployment experience attributable to) the employer to whom such business is so transferred,
 
 &emsp;(B) that unemployment experience shall not, by virtue of the transfer of a business, be transferred to the person acquiring such business if—
 
@@ -230,13 +230,13 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(F) the term “person” has the meaning given such term by section 7701(a)(1) of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII,§702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090.)
+(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), May 22, 2008, 122 Stat. 1095–1097, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871.)
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
@@ -244,7 +244,25 @@ Section 662 of this title, referred to in subsec. (e)(2)(A)(iii)(III), was repea
 
 The Internal Revenue Code of 1986, referred to in subsec. (k)(2)(D), (F), is classified generally to Title 26, Internal Revenue Code.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (d)(1)(A). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” in introductory provisions.
+
+Subsec. (d)(1)(B). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+Subsec. (d)(2)(B). Pub. L. 110–246, §4002(b)(1)(B), (D), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in two places and “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing.
+
+Subsec. (d)(2)(B)(i). Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(iii), substituted “benefits” for “coupons” before comma at end.
+
+Subsec. (d)(2)(C), (D). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing.
+
+Subsec. (d)(4). Pub. L. 110–246, §4115(c)(2)(F), substituted “section 3(t)(1)” for “section 3(n)(1)”.
+
+Pub. L. 110–246, §4002(b)(1)(A), (B), (D), (2)(V), substituted “supplemental nutrition assistance program benefits agency” for “food stamp agency”, “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”, and “supplemental nutrition assistance program established” for “food stamp program established”.
 
 2004—Subsec. (k). Pub. L. 108–295 added subsec. (k).
 
@@ -322,13 +340,19 @@ Subsec. (c)(2). Act June 20, 1939, substituted “unemployment” for “employm
 
 1938—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by sections 4002(b)(1)(A), (B), (D), (2)(V), and 4115(c)(1)(A)(i), (B)(iii), (2)(F) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2004 Amendment; Definitions
 
 Pub. L. 108–295, §2(c), (d), Aug. 9, 2004, 118 Stat. 1091, provided that:
 
 “(c)
 
-Effective Date.—The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[section 502(a) of this title\]) in rate years beginning after the end of the 26-week period beginning on the first day of the first regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
+Effective Date.—The amendment made by subsection (a) \[amending this section\] shall, with respect to a State, apply to certifications for payments (under section 302(a) of the Social Security Act \[section 502(a) of this title\]) in rate years beginning after the end of the 26-week period beginning on the first day of thefirst regularly scheduled session of the State legislature beginning on or after the date of the enactment of this Act \[Aug. 9, 2004\].
 
 “(d)
 
@@ -426,7 +450,7 @@ Effective Date.—This section shall apply for purposes of any period beginning 
 
 #### Profiling System Technical Assistance
 
-Section 4(c) of Pub. L. 103–152 provided that: “The Secretary of Labor shall provide technical assistance and advice to assist the States in implementing the profiling system required under the amendments made by subsection (a) \[amending this section and section 504 of this title\]. Such assistance shall include the development and identification of model profiling systems.”
+Section 4(c) of Pub. L. 103–152 provided that: “The Secretary of Labor shall provide technical assistance and advice to assist the States in implementing theprofiling system required under the amendments made by subsection (a) \[amending this section and section 504 of this title\]. Such assistance shall include the development and identification of model profiling systems.”
 
 #### Profiling System Report to Congress
 
@@ -434,5 +458,7 @@ Section 4(d) of Pub. L. 103–152 provided that: “Not later than the date 3 ye
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Unemployment Trust Fund”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

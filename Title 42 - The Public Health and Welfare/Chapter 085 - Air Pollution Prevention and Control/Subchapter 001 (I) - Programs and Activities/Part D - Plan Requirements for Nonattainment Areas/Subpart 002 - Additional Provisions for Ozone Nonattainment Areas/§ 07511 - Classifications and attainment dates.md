@@ -36,7 +36,7 @@ TABLE 1
 
 #### (1) New designations to nonattainment
 
-&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequently redesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1 under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of thistitle, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
+&emsp;Any area that is designated attainment or unclassifiable for ozone under section 7407(d)(4) of this title, and that is subsequently redesignated to nonattainment for ozone under section 7407(d)(3) of this title, shall, at the time of the redesignation, be classified by operation of law in accordance with table 1 under subsection (a) of this section. Upon its classification, the area shall be subject to the same requirements under section 7410 of this title, subpart 1 of this part, and this subpart that would have applied had the area been so classified at the time of the notice under subsection (a)(3) of this section, except that any absolute, fixed date applicable in connection with any such requirement is extended by operation of law by a period equal to the length of time between November 15, 1990, and the date the area is classified under this paragraph.
 
 #### (2) Reclassification upon failure to attain
 
@@ -58,7 +58,7 @@ TABLE 1
 
 &emsp;(A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under section 7511d of this title shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NO<sub>x</sub> control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
 
-&emsp;(B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicable attainment date, or if the area has failed to achieve its most recent milestone under section 7511a(g) of this title, the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term <sup>1</sup> “major source” and “major stationary source” shall have the same meaning as in Extreme Areas.
+&emsp;(B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicableattainment date, or if the area has failed to achieve its most recent milestone under section 7511a(g) of this title, the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term <sup>1</sup> “major source” and “major stationary source” shall have the same meaning as in Extreme Areas.
 
 &emsp;(C) In addition to the requirements of subparagraph (A) for those areas referred to in subparagraph (A) and not covered by subparagraph (B), the provisions referred to in subparagraph (B) shall apply after 3 years from the applicable attainment date unless the area has attained the standard by the end of such 3-year period.
 
@@ -80,7 +80,7 @@ Section 819 of Pub. L. 101–549 provided that: “Notwithstanding any other pro
 
 &emsp;“(2) stripper well natural gas, as defined in section 108(b) of the Natural Gas Policy Act of 1978 (15 U.S.C. 3318(b)).\[,\]
 
-> except to the extent that provisions of such amendments cover areas designated as Serious pursuant topart D of title I of the Clean Air Act \[this part\] and having a population of 350,000 or more, or areas designated as Severe or Extreme pursuant to such part D.”
+> except to the extent that provisions of such amendments cover areas designated as Serious pursuant to part D of title I of the Clean Air Act \[this part\] and having a population of 350,000 or more, or areas designated as Severe or Extreme pursuant to such part D.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

@@ -106,11 +106,11 @@ For purposes of this section—
 
 #### (2) Subsequently listed transaction
 
-&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exemptentity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
+&emsp;The term “subsequently listed transaction” means any transaction to which a tax-exempt entity is a party and which is determined by the Secretary to be a listed transaction at any time after the entity has become a party to the transaction. Such term shall not include a transaction which is a prohibited reportable transaction at the time the entity became a party to the transaction.
 
 #### (f) Regulatory authority
 
-The Secretary is authorized to promulgate regulations which provide guidance regarding the determination of the allocation of net income or proceeds of a tax-exempt entity attributable to a transaction to various periods, including before and after the listing of the transaction or the date which is 90 days after the date of the enactment of this section.
+The Secretary is authorized to promulgate regulations which provide guidance regardingthe determination of the allocation of net income or proceeds of a tax-exempt entity attributable to a transaction to various periods, including before and after the listing of the transaction or the date which is 90 days after the date of the enactment of this section.
 
 #### (g) Coordination with other taxes and penalties
 

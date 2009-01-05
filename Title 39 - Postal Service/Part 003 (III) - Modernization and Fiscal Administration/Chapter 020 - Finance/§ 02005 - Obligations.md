@@ -56,9 +56,9 @@
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–435, §502(c)(2), substituted “obligations issued by the Postal Servicewhich may be” for “any such obligations” in second sentence.
+2006—Subsec. (a)(1). Pub. L. 109–435, §502(c)(2), substituted “obligations issued by the Postal Service which may be” for “any such obligations” in second sentence.
 
-Pub. L. 109–435, §502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
+Pub. L. 109–435, §502(b), substituted third sentence for former third sentence which read: “In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issuedfor the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.”
 
 Pub. L. 109–435, §502(a), substituted “title, other than any of the purposes for which the corresponding authority is available to the Postal Service under section 2011” for “title” in first sentence.
 

@@ -44,7 +44,7 @@ Section 9703, referred to in subsec. (d)(4), probably means the section 9703 add
 
 2002—Subsec. (d)(5), (6). Pub. L. 107–296 added par. (5) and redesignated former par. (5) as (6).
 
-2000—Subsec. (a). Pub. L. 106–531, §5(a)(1), substituted “Not later than 150 days after the end of an agency'sfiscal year,” for “No later than March 31, 2000, and no later than March 31 of each year thereafter,”.
+2000—Subsec. (a). Pub. L. 106–531, §5(a)(1), substituted “Not later than 150 days after the end of an agency's fiscal year,” for “No later than March 31, 2000, and no later than March 31 of each year thereafter,”.
 
 Subsec. (e). Pub. L. 106–531, §5(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “An agency head may include all program performance information required annually under this section in an annual financial statement required under section 3515 if any such statement is submitted to the Congress no later than March 31 of the applicable fiscal year.”
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Construction
 
-No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
+No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity,and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
 
 #### Special Rule for Fiscal Years 2000 and 2001
 

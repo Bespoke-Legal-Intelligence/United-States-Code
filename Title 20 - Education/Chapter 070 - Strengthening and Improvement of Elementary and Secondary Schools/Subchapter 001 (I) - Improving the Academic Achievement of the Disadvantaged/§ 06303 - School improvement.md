@@ -20,7 +20,7 @@ The State educational agency, in allocating funds to local educational agencies 
 
 &emsp;(2) demonstrate the greatest need for such funds; and
 
-&emsp;(3) demonstrate the strongest commitment to ensuring that such funds are used to enable the lowest-achieving schools to meet theprogress goals in school improvement plans under section 6316(b)(3)(A)(v) of this title.
+&emsp;(3) demonstrate the strongest commitment to ensuring that such funds are used to enable the lowest-achieving schools to meet the progress goals in school improvement plans under section 6316(b)(3)(A)(v) of this title.
 
 #### (d) Unused funds
 

@@ -18,7 +18,7 @@ Within 1 year after December 8, 2004, the National Science and Technology Counci
 
 &emsp;(5) consider and use, as appropriate, reports and studies conducted by Federal agencies and departments, the National Research Council, the Ocean Research Advisory Panel, the Commission on Ocean Policy and other expert scientific bodies;
 
-&emsp;(6) make recommendations for the coordination of program activities with ocean andhuman health-related activities of other national and international organizations; and
+&emsp;(6) make recommendations for the coordination of program activities with ocean and human health-related activities of other national and international organizations; and
 
 &emsp;(7) estimate Federal funding for research activities to be conducted under the program.
 

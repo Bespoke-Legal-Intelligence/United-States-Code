@@ -46,7 +46,7 @@ Limitation.—A public water system may not receive an exemption under this sect
 
 #### (c) Notice to Administrator; reasons for exemption
 
-Each State which grants an exemption under subsection (a) of this section shall promptly notify the Administrator of the granting of such exemption. Such notification shall contain the reasons for the exemption (including the basis for the finding required by subsection (a)(3) of this section before the exemption may be granted) and document the need for the exemption.
+Each State which grants an exemption under subsection (a) of this section shall promptly notify the Administrator of the granting of such exemption. Such notification shall contain thereasons for the exemption (including the basis for the finding required by subsection (a)(3) of this section before the exemption may be granted) and document the need for the exemption.
 
 #### (d) Review of exemptions and schedules; publication in Federal Register, notice and results of review; notice to State; considerations respecting abuse of discretion in granting exemptions or failing to prescribe schedules; State corrective action
 

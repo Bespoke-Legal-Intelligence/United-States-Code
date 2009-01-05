@@ -1,6 +1,6 @@
 ### §1862<i>o</i>–11. Evaluation and report
 
-The Director shall establish metrics to evaluate the success of the programs established by the Foundation for encouraging individuals identified in section 1885a or 1885b of this title to study and prepare for careers in science, technology, engineering, and mathematics, including programs that provide for mentoring for such individuals. The Director shall carry out evaluations based on the metrics developed and report to Congress annually on the findings and conclusions of the evaluations.
+The Director shall establish metrics to evaluate the success of the programs established bythe Foundation for encouraging individuals identified in section 1885a or 1885b of this title to study and prepare for careers in science, technology, engineering, and mathematics, including programs that provide for mentoring for such individuals. The Director shall carry out evaluations based on the metrics developed and report to Congress annually on the findings and conclusions of the evaluations.
 
 (Pub. L. 110–69, title VII, §7031(b), Aug. 9, 2007, 121 Stat. 711.)
 

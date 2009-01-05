@@ -6,7 +6,7 @@ Three-Phase Approach.—The Secretary of Defense shall implement a three-phase a
 
 &emsp;(1) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in section 2151(a) of this title), in addition to the principal curriculum taught to all officers at an intermediate level service school.
 
-&emsp;(2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of a joint professional military education curriculum taught in residence at—
+&emsp;(2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of theChairman of the Joint Chiefs of Staff as Phase II instruction, consisting of a joint professional military education curriculum taught in residence at—
 
 &emsp;&emsp;(A) the Joint Forces Staff College; or
 

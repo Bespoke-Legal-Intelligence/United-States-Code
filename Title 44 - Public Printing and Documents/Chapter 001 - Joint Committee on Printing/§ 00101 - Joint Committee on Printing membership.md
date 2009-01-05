@@ -20,6 +20,10 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–404, §1, Oct. 13, 2008, 122 Stat. 4281, provided that: “This Act \[enacting section 2120 of this title, amending sections 2112, 2501, and 2504 of this title, and enacting provisions set out as notes under sections 2107, 2112, 2120, 2501, 2504, and 2505 of this title\] may be cited as the ‘Presidential Historical Records Preservation Act of 2008’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–383, §1, Oct. 30, 2004, 118 Stat. 2218, provided that: “This Act \[enacting section 2119 of this title, amending sections 2112, 2504, 2903, 2909, and 3303a of this title, and amending provisions set out as a note under section 2901 of this title\] may be cited as the ‘National Archives and Records Administration Efficiency Act of 2004’.”
@@ -64,11 +68,11 @@ Pub. L. 98–497, §1, Oct. 19, 1984, 98 Stat. 2280, provided: “That this Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section 1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
+Pub. L. 96–511, §1, Dec. 11, 1980, 94 Stat. 2812, provided: “That this Act \[enacting sections 3501 to 3520 of this title, amending sections 2904 and 2905 of this title, section 5315 of Title 5, Government Organizations and Employees, section 1221–3 of Title 20, Education, section1211 of Title 30, Mineral Lands and Mining, and section 292h of Title 42, The Public Health and Welfare, omitting former sections 3501 to 3512 of this title, and enacting provisions set out as notes under sections 3501 and 3503 of this title\] may be cited as the ‘Paperwork Reduction Act of 1980’.”
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of thistitle, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
+Pub. L. 95–591, §1, Nov. 4, 1978, 92 Stat. 2523, provided: “That this Act \[enacting sections 2201 to 2207 of this title, amending sections 2111 and 2112 of this title, and enacting provisions set out as notes under section 2201 of this title\] may be cited as the ‘Presidential Records Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

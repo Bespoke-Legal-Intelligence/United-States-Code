@@ -24,6 +24,12 @@ The Congress finds that—
 
 The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, as amended, which is classified generally to chapter 11 (§1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–289, §1(a), July 30, 2008, 122 Stat. 2654, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Housing and Economic Recovery Act of 2008’.”
+
+Pub. L. 110–289, div. A, §1001, July 30, 2008, 122 Stat. 2659, provided that: “This division \[see Tables for classification\] may be cited as the ‘Federal Housing Finance Regulatory Reform Act of 2008’.”
+
 #### Short Title
 
 Section 1301 of title XIII of Pub. L. 102–550 provided that: “This title \[enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, section 1905 of Title 18, Crimes and Criminal Procedure, and section 3534 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under section 1451 of this title\] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”

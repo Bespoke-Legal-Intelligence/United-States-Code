@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to recognize, encourage, and promote the use of comprehensive work-learning programs as a valuable educational approach when it is an integral part of the institution's educational program and a part of a financial plan which decreases reliance on grants and loans.
+The purpose of this section is to recognize, encourage, and promote the use of comprehensive work-learning-service programs as a valuable educational approach when it is an integral part of the institution's educational program and a part of a financial plan which decreases reliance on grants and loans.
 
 #### (b) Source and use of funds
 
@@ -14,15 +14,15 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 &emsp;From the sums appropriated pursuant to subsection (f) of this section, and from the funds available under paragraph (1), eligible institutions may, following approval of an application under subsection (c) of this section by the Secretary—
 
-&emsp;&emsp;(A) support the educational costs of qualified students through self-help payments or credits provided under the work-learning program of the institution within the limits of part F of this title \[20 U.S.C. 1087kk et seq.\];
+&emsp;&emsp;(A) support the educational costs of qualified students through self-help payments or credits provided under the work-learning-service program of the institution within the limits of part F of this title \[20 U.S.C. 1087kk et seq.\];
 
 &emsp;&emsp;(B) promote the work-learning-service experience as a tool of postsecondary education, financial self-help and community service-learning opportunities;
 
 &emsp;&emsp;(C) carry out activities described in section 2753 or 2756 of this title;
 
-&emsp;&emsp;(D) be used for the administration, development and assessment of comprehensive work-learning programs, including—
+&emsp;&emsp;(D) be used for the administration, development and assessment of comprehensive work-learning-service programs, including—
 
-&emsp;&emsp;&emsp;(i) community-based work-learning alternatives that expand opportunities for community service and career-related work; and
+&emsp;&emsp;&emsp;(i) community-based work-learning-service alternatives that expand opportunities for community service and career-related work; and
 
 &emsp;&emsp;&emsp;(ii) alternatives that develop sound citizenship, encourage student persistence, and make optimum use of assistance under this part in education and student development;
 
@@ -42,23 +42,35 @@ Funds made available to work-colleges pursuant to this section shall be matched 
 
 For the purpose of this section—
 
-&emsp;(1) the term “work-college” means an eligible institution that—
+&emsp;(1) the term “work college” means an eligible institution that—
 
-&emsp;&emsp;(A) has been a public or private nonprofit institution with a commitment to community service;
+&emsp;&emsp;(A) has been a public or private nonprofit, four-year, degree-granting institution with a commitment to community service;
 
-&emsp;&emsp;(B) has operated a comprehensive work-learning program for at least 2 years;
+&emsp;&emsp;(B) has operated a comprehensive work-learning-service program for at least two years;
 
-&emsp;&emsp;(C) requires all resident students who reside on campus to participate in a comprehensive work-learning program and the provision of services as an integral part of the institution's educational program and as part of the institution's educational philosophy; and
+&emsp;&emsp;(C) requires students, including at least one-half of all students who are enrolled on a full-time basis, to participate in a comprehensive work-learning-service program forat least five hours each week, or at least 80 hours during each period of enrollment, except summer school, unless the student is engaged in an institutionally organized or approved study abroad or externship program; and
 
-&emsp;&emsp;(D) provides students participating in the comprehensive work-learning program with the opportunity to contribute to their education and to the welfare of the community as a whole; and
+&emsp;&emsp;(D) provides students participating in the comprehensive work-learning-service program with the opportunity to contribute to their education and to the welfare of the community as a whole; and
 
-&emsp;(2) the term “comprehensive student work-learning program” means a student work/service program that is an integral and stated part of the institution's educational philosophy and program; requires participation of all resident students for enrollment, participation, and graduation; includes learning objectives, evaluation and a record of work performance as part of the student's college record; provides programmatic leadership by college personnel at levels comparable to traditional academic programs; recognizes the educational role of work-learning supervisors; and includes consequences for nonperformance or failure in the work-learning program similar to the consequences for failure in the regular academic program.
+&emsp;(2) the term “comprehensive student work-learning-service program” means a student work-learning-service program that—
+
+&emsp;&emsp;(A) is an integral and stated part of the institution's educational philosophy and program;
+
+&emsp;&emsp;(B) requires participation of all resident students for enrollment and graduation;
+
+&emsp;&emsp;(C) includes learning objectives, evaluation, and a record of work performance as part of the student's college record;
+
+&emsp;&emsp;(D) provides programmatic leadership by college personnel at levels comparable to traditional academic programs;
+
+&emsp;&emsp;(E) recognizes the educational role of work-learning-service supervisors; and
+
+&emsp;&emsp;(F) includes consequences for nonperformance or failure in the work-learning-service program similar to the consequences for failure in the regular academic program.
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §448, as added Pub. L. 102–325, title IV, §447, July 23, 1992, 106 Stat. 567; amended Pub. L. 105–244, title IV, §445, Oct. 7, 1998, 112 Stat. 1714.)
+(Pub. L. 89–329, title IV, §448, as added Pub. L. 102–325, title IV, §447, July 23, 1992, 106 Stat. 567; amended Pub. L. 105–244, title IV, §445, Oct. 7, 1998, 112 Stat. 1714; Pub. L. 110–315, title IV, §447, Aug. 14, 2008, 122 Stat. 3260.)
 
 #### References in Text
 
@@ -69,6 +81,12 @@ Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E
 A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–374, title IV, §437, Oct. 3, 1980, 94 Stat. 1436, related to work study programs for community service-learning, prior to the general revision of this part by Pub. L. 99–498. See section 2756a of this title.
 
 #### Amendments
+
+2008—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, §447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
+
+Subsec. (e). Pub. L. 110–315, §447(2), added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
+
+Subsec. (f). Pub. L. 110–315, §447(3), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 1998—Subsec. (b)(2)(E), (F). Pub. L. 105–244, §445(1), added subpars. (E) and (F).
 

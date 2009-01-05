@@ -22,23 +22,29 @@ Assistance provided under this section or any other provision of law to alleviat
 
 (3) The President may exercise the authority of section 2360(a) of this title (without regard to the 20 percent limitation contained in that section on increases in accounts) in order to transfer, for use in carrying out this section, up to $30,000,000 of the funds made available for the fiscal year 1980 to carry out other provisions of this chapter.
 
-(4) Priority shall be given in allocating assistance under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] to furnishing agricultural commodities for use in carrying out this section.
+(4) Priority shall be given in allocating assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] to furnishing agricultural commodities for use in carrying out this section.
 
 #### (e) Section 2292 policies and general authorities applicable
 
 Assistance under this section shall be provided in accordance with the policies and utilizing the general authorities provided in section 2292 of this title.
 
-(Pub. L. 87–195, pt. I, §495H, as added Pub. L. 96–110, §2, Nov. 13, 1979, 93 Stat. 843; amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. I, §495H, as added Pub. L. 96–110, §2, Nov. 13, 1979, 93 Stat. 843; amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (d)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
+The Food for Peace Act, referred to in subsec. (d)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 
 #### Amendments
 
+2008—Subsec. (d)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
 1981—Subsec. (c)(2). Pub. L. 97–113 repealed par. (2) which required a Presidential report to Congress no later than 90 days after Nov. 13, 1979, on provision of Cambodian Disaster Relief Assistance.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Delegation of Functions
 

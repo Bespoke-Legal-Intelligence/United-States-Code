@@ -4,7 +4,7 @@
 
 #### (1) Promulgation
 
-&emsp;Not later than 90 days after August 18, 2000, the Secretary shall initiate procedures undersubchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this part.
+&emsp;Not later than 90 days after August 18, 2000, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this part.
 
 #### (2) Publication of proposed regulations
 

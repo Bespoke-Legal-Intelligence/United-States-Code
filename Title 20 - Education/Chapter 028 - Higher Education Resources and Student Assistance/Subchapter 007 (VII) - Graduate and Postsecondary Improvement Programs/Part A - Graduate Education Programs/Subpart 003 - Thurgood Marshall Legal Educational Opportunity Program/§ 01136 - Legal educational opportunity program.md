@@ -2,11 +2,11 @@
 
 #### (a) Program authority
 
-The Secretary shall carry out a program to be known as the “Thurgood Marshall Legal Educational Opportunity Program” designed to provide low-income, minority, or disadvantaged college students with the information, preparation, and financial assistance to gain access to and complete law school study.
+The Secretary shall carry out a program to be known as the “Thurgood Marshall Legal Educational Opportunity Program” designed to provide low-income, minority, or disadvantaged secondary school and college students with the information, preparation, and financial assistance to gain access to and complete law school study and admission to law practice.
 
 #### (b) Eligibility
 
-A college student is eligible for assistance under this section if the student is—
+A secondary school student or college student is eligible for assistance under this section if the student is—
 
 &emsp;(1) from a low-income family;
 
@@ -18,45 +18,57 @@ A college student is eligible for assistance under this section if the student i
 
 The Secretary is authorized to enter into a contract with, or make a grant to, the Council on Legal Education Opportunity, for a period of not less than 5 years—
 
-&emsp;(1) to identify college students who are from low-income families, are minorities, or are from disadvantaged backgrounds described in subsection (b)(3) of this section;
+&emsp;(1) to identify secondary school and college students who are from low-income families, are minorities, or are from disadvantaged backgrounds described in subsection (b)(3) of this section;
 
-&emsp;(2) to prepare such students for study at accredited law schools;
+&emsp;(2) to prepare such students for successful completion of a baccalaureate degree and for study at accredited law schools, and to assist them with the development of analytical skills, writing skills, and study methods to enhance the students’ success in, and promote the students’ admission to and completion of, law school;
 
 &emsp;(3) to assist such students to select the appropriate law school, make application for entry into law school, and receive financial assistance for such study;
 
-&emsp;(4) to provide support services to such students who are first-year law students to improve retention and success in law school studies; and
+&emsp;(4) to provide support services to such students who are first-year law students to improve retention and success in law school studies;
 
-&emsp;(5) to motivate and prepare such students with respect to law school studies and practice in low-income communities.
+&emsp;(5) to motivate and prepare such students—
+
+&emsp;&emsp;(A) with respect to law school studies and practice in low-income communities; and
+
+&emsp;&emsp;(B) to provide legal services to low-income individuals and families; and
+
+&emsp;(6) to award Thurgood Marshall Fellowships to eligible law school students—
+
+&emsp;&emsp;(A) who participated in summer institutes under subsection (d)(6) and who are enrolled in an accredited law school; or
+
+&emsp;&emsp;(B) who have successfully completed a comparable summer institute program that is certified by the Council on Legal Education Opportunity.
 
 #### (d) Services provided
 
-In carrying out the purposes described in subsection (c) of this section, the contract or grant shall provide for the delivery of services through prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
+In carrying out the purposes described in subsection (c) of this section, the contract or grant shall provide for the delivery of services through pre-college programs, undergraduate prelaw information resource centers, summer institutes, midyear seminars, and other educational activities, conducted under this section. Such services may include—
 
 &emsp;(1) information and counseling regarding—
 
 &emsp;&emsp;(A) accredited law school academic programs, especially tuition, fees, and admission requirements;
 
-&emsp;&emsp;(B) course work offered and required for graduation;
+&emsp;&emsp;(B) course work offered and required for law school graduation;
 
 &emsp;&emsp;(C) faculty specialties and areas of legal emphasis; and
 
-&emsp;&emsp;(D) undergraduate preparatory courses and curriculum selection;
+&emsp;&emsp;(D) pre-college and undergraduate preparatory courses in analytical and writing skills, study methods, and course selection;
 
-&emsp;(2) tutoring and academic counseling, including assistance in preparing for bar examinations;
+&emsp;(2) summer academic programs for secondary school students who have expressed interest in a career in the law;
 
-&emsp;(3) prelaw mentoring programs, involving law school faculty, members of State and local bar associations, and retired and sitting judges, justices, and magistrates;
+&emsp;(3) tutoring and academic counseling, including assistance in preparing for bar examinations;
 
-&emsp;(4) assistance in identifying preparatory courses and material for the law school aptitude or admissions tests;
+&emsp;(4) prelaw mentoring programs, involving law school faculty, members of State and local bar associations, and retired and sitting judges, justices, and magistrates;
 
-&emsp;(5) summer institutes for Thurgood Marshall Fellows that expose the Fellows to a rigorous curriculum that emphasizes abstract thinking, legal analysis, research, writing, and examination techniques; and
+&emsp;(5) assistance in identifying preparatory courses and material for the law school aptitude or admissions tests;
 
-&emsp;(6) midyear seminars and other educational activities that are designed to reinforce reading, writing, and studying skills of Thurgood Marshall Fellows.
+&emsp;(6) summer institutes for Thurgood Marshall Fellows that expose the Fellows to a rigorous curriculum that emphasizes abstract thinking, legal analysis, research, writing, and examination techniques; and
+
+&emsp;(7) midyear seminars and other educational activities that are designed to reinforce reading, writing, and studying skills of Thurgood Marshall Fellows and Associates.
 
 #### (e) Duration of provision of services
 
 The services described in subsection (d) of this section may be provided—
 
-&emsp;(1) prior to the period of law school study;
+&emsp;(1) prior to the period of law school study, including before and during undergraduate study;
 
 &emsp;(2) during the period of law school study; and
 
@@ -64,21 +76,21 @@ The services described in subsection (d) of this section may be provided—
 
 #### (f) Subcontracts and subgrants
 
-For the purposes of planning, developing, or delivering one or more of the services describedin subsection (d) of this section, the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, and combinations of such institutions, schools, agencies, and organizations.
+For the purposes of planning, developing, or delivering one or more of the services described in subsection (d) of this section, the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, national and State bar associations, and combinations of such institutions, schools, agencies, organizations, and associations.
 
-#### (g) Stipends
+#### (g) Fellowships and stipends
 
-The Secretary shall annually establish the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant) to Thurgood Marshall Fellows for the period of participation in summer institutes and midyear seminars. A Fellow may be eligible for such a stipend only if the Thurgood Marshall Fellow maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions.
+The Secretary shall annually establish the maximum fellowship to be awarded, and the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant), to Thurgood Marshall Fellows or Associates for the period of participation in summer institutes, midyear seminars, and bar preparation seminars. A Thurgood Marshall Fellow or Associate may be eligible for such a fellowship or stipend only if the Fellow or Associate maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions (except with respect to a law school graduate enrolled in a bar preparation course).
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 1999 and each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VII, §721, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794.)
+(Pub. L. 89–329, title VII, §721, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794; amended Pub. L. 110–315, title VII, §704(a)–(h), Aug. 14, 2008, 122 Stat. 3347, 3348.)
 
 #### Prior Provisions
 
-A prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 784, stated findings of Congress, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1139 of this title.
+A prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 784, stated findings of Congress, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1568, stated Congressional findings and purpose relating to partnerships for economic development, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
 
@@ -94,37 +106,31 @@ Another prior section 721 of Pub. L. 89–329 was classified to section 1132c of
 
 Another prior section 721 of Pub. L. 89–329 was classified to section 1132b of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-Prior sections 1136a to 1136h were repealed by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+#### Amendments
 
-Section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, stated purpose of and authorized program for urban community service assistance. See section 1139a of this title.
+2008—Subsec. (a). Pub. L. 110–315, §704(a)(1), inserted “secondary school and” after “disadvantaged” and “and admission to law practice” before period at end.
 
-A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1568, related to use of economic development funds, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
+Subsec. (b). Pub. L. 110–315, §704(b), inserted “secondary school student or” before “college student” in introductory provisions.
 
-Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
+Subsec. (c)(1). Pub. L. 110–315, §704(c)(1), inserted “secondary school and” before “college students”.
 
-Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), June 23, 1972, 86 Stat. 323, related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Subsec. (c)(2). Pub. L. 110–315, §704(c)(2), added par. (2) and struck out former par. (2) which read as follows: “to prepare such students for study at accredited law schools;”.
 
-Section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, related to applications for urban community service grants. See section 1139b of this title.
+Subsec. (c)(5), (6). Pub. L. 110–315, §704(c)(3), (4), added pars. (5) and (6) and struck out former par. (5) which read as follows: “to motivate and prepare such students with respect to law school studies and practice in low-income communities.”
 
-A prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1569, related to requirements for economic development grant applications, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
+Subsec. (d). Pub. L. 110–315, §704(d)(1), which directed insertion of “pre-college programs, undergraduate” before “pre-law”, was executed by making insertion before “prelaw” in introductory provisions, to reflect the probable intent of Congress.
 
-Another prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, authorized grants to urban universities, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
+Subsec. (d)(1)(B). Pub. L. 110–315, §704(d)(2)(A), inserted “law school” before “graduation”.
 
-Another prior section 1136b, Pub. L. 89–329, title XI, §1103, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1049; amended Pub. L. 92–318, title I, §191(c), June 23, 1972, 86 Stat. 323; Pub. L. 94–482, title I, §172, Oct. 12, 1976, 90 Stat. 2164; Pub. L. 96–49, §11, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for the law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Subsec. (d)(1)(D). Pub. L. 110–315, §704(d)(2)(B), added subpar. (D) and struck out former subpar. (D) which read as follows: “undergraduate preparatory courses and curriculum selection;”.
 
-Section 1136c, Pub. L. 89–329, title XI, §1104, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 786, related to allowable activities. See section 1139c of this title.
+Subsec. (d)(2) to (7). Pub. L. 110–315, §704(d)(3)–(5), added par. (2), redesignated former pars. (2) to (6) as (3) to (7), respectively, and in par. (7), inserted “and Associates” after “Thurgood Marshall Fellows”.
 
-Another prior section 1136c, Pub. L. 89–329, title XI, §1104, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, placed geographical limitations on assistance to urban universities, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
+Subsec. (e)(1). Pub. L. 110–315, §704(e), inserted “, including before and during undergraduate study” before semicolon at end.
 
-Section 1136d, Pub. L. 89–329, title XI, §1105, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 786, related to peer review. See section 1139d of this title.
+Subsec. (f). Pub. L. 110–315, §704(f), inserted “national and State bar associations,” after “private agencies and organizations,” and substituted “organizations, and associations” for “and organizations”.
 
-Another prior section 1136d, Pub. L. 89–329, title XI, §1105, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1492, defined terms, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
+Subsec. (g). Pub. L. 110–315, §704(g), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall annually establish the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant) to Thurgood Marshall Fellows for the period of participation in summer institutes and midyear seminars. A Fellow may be eligible for such a stipend only if the Thurgood Marshall Fellow maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions.”
 
-Section 1136e, Pub. L. 89–329, title XI, §1106, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 786; amended Pub. L. 103–208, §2(j)(46), Dec. 20, 1993, 107 Stat. 2485, related to disbursement of funds. See section 1139e of this title.
-
-Section 1136f, Pub. L. 89–329, title XI, §1107, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 787, related to designation of Urban Grant Institutions. See section 1139f of this title.
-
-Section 1136g, Pub. L. 89–329, title XI, §1108, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 787, defined terms “urban area” and “eligible institution”. See section 1139g of this title.
-
-Section 1136h, Pub. L. 89–329, title XI, §1109, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 787, authorized appropriations for urban community service program. See section 1139h of this title.
+Subsec. (h). Pub. L. 110–315, §704(h), substituted “fiscal year 2009 and each of the five succeeding fiscal years” for “fiscal year 1999 and each of the 4 succeeding fiscal years”.
 

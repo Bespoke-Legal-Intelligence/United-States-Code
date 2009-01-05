@@ -10,7 +10,7 @@ The assets of the fund shall be available only for the following purposes:
 
 &emsp;(1) loans which could be insured under this subchapter, and for advances in connection with such loans and loans previously made, as of May 11, 1973, under sections 904, 905,<sup>1</sup> and 922 of this title;
 
-&emsp;(2) payment of principal when due (without interest) on outstanding loans to the Secretary from the Secretary of the Treasury for electrification and telephone purposes andpayment of principal and interest when due on loans to the Secretary from the Secretary of the Treasury pursuant to section 934(a) of this title;
+&emsp;(2) payment of principal when due (without interest) on outstanding loans to the Secretary from the Secretary of the Treasury for electrification and telephone purposes and payment of principal and interest when due on loans to the Secretary from the Secretary of the Treasury pursuant to section 934(a) of this title;
 
 &emsp;(3) payment of amounts to which the holder of notes is entitled on insured loans: <i>Provided</i>, That payments other than final payments need not be remitted to the holder until due or until the next agreed annual, semiannual, or quarterly remittance date;
 

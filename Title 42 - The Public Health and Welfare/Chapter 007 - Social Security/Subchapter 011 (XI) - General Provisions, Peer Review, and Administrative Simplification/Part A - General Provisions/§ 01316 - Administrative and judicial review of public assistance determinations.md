@@ -20,17 +20,35 @@ For the purposes of subsection (a) of this section, any amendment of a State pla
 
 Action pursuant to an initial determination of the Secretary described in subsection (a) of this section shall not be stayed pending reconsideration, but in the event that the Secretary subsequently determines that his initial determination was incorrect he shall certify restitution forthwith in a lump sum of any funds incorrectly withheld or otherwise denied.
 
-#### (d) Items covered under other subchapters; disallowance
+#### (d) Disallowance of items covered under other subchapters
 
-Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter I, X, XIV, XVI, or XIX of this chapter, shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance.
+Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter I, X, XIV,<sup>1</sup> XVI, shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance.
 
-(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168.)
+#### (e) Disallowance of items covered under subchapter XIX
+
+(1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
+
+(2)(A) A State may appeal a disallowance of a claim for federal <sup>2</sup> financial participation under subchapter XIX by the Secretary, or an unfavorable reconsideration of a disallowance, during the 60-day period that begins on the date the State receives notice of the disallowance or of the unfavorable reconsideration, in whole or in part, to the Departmental Appeals Board, established in the Department of Health and Human Services (in this paragraph referred to as the “Board”), by filing a notice of appeal with the Board.
+
+(B) The Board shall consider a State's appeal of a disallowance of such a claim (or of an unfavorable reconsideration of a disallowance) on the basis of such documentation as the State may submit and as the Board may require to support the final decision of the Board. In deciding whether to uphold a disallowance of such a claim or any portion thereof, the Board shall be bound by all applicable laws and regulations and shall conduct a thorough review of the issues, taking into account all relevant evidence. The Board's decision of an appeal under subparagraph (A) shall be the final decision of the Secretary and shall be subject to reconsideration by the Board only upon motion of either party filed during the 60-day period that begins on the date of the Board's decision or to judicial review in accordance with subparagraph (C).
+
+(C) A State may obtain judicial review of a decision of the Board by filing an action in any United States District Court located within the appealing State (or, if several States jointly appeal the disallowance of claims for Federal financial participation under section 1396b of this title, in any United States District Court that is located within any State that is a party to the appeal) or the United States District Court for the District of Columbia. Such an action may only be filed—
+
+&emsp;(i) if no motion for reconsideration was filed within the 60-day period specified in subparagraph (B), during such 60-day period; or
+
+&emsp;(ii) if such a motion was filed within such period, during the 60-day period that begins on the date of the Board's decision on such motion.
+
+(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 110–275, title II, §204(a), (b), July 15, 2008, 122 Stat. 2592, 2593.)
 
 #### References in Text
 
 Section 1384 of this title, referred to in subsec. (a)(3), is a reference to section 1384 of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1384 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–275, §204(b), struck out “or XIX,” after “XVI,”.
+
+Subsec. (e). Pub. L. 110–275, §204(a), added subsec. (e).
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
 
@@ -40,17 +58,17 @@ Subsecs. (b), (d). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of
 
 1984—Subsec. (a)(1). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
 
-Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1982 Amendment note below.
+Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
 
 Subsec. (a)(3). Pub. L. 98–369, §2663(e)(6)(B), struck out “804,” after “604,”.
 
 Subsec. (b). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
 
-Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1982 Amendment note below.
+Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
 
-Subsec. (d). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
+Subsec. (d). Pub. L. 98–369, §2663(e)(6)(C), substituted “XVI, or XIX of this chapter, or part A” for “XVI, or or XIX of this chapter, or part A”.
 
-Pub. L. 98–369, §2663(e)(6)(C), substituted “XVI, or XIX of this chapter, or part A” for “XVI, or or XIX of this chapter, or part A”.
+Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
 
 1981—Subsec. (a)(1). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted “or XIX of this chapter” for “XIX or XX of this chapter”.
 
@@ -75,6 +93,10 @@ Subsecs. (b), (d). Pub. L. 93–233, §18(z–2)(1)(C)(iii), (iv), inserted refe
 1968—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
 
 Subsecs. (b), (d). Pub. L. 90–248, §241(c)(5)(B), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter,” after “XIX of this chapter”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title II, §204(c), July 15, 2008, 122 Stat. 2593, provided that: “The amendments made by this section \[amending this section\] take effect on the date of the enactment of this Act \[July 15, 2008\] and apply to any disallowance of a claim for Federal financial participation under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) made on or after such date or during the 60-day period prior to such date.”
 
 #### Effective Date of 1996 Amendment
 
@@ -101,4 +123,8 @@ Amendment by Pub. L. 93–233 effective on and after Jan. 1, 1974, see section 1
 #### Effective Date
 
 Section 404(b) of Pub. L. 89–97 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to determinations made after December 31, 1965.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

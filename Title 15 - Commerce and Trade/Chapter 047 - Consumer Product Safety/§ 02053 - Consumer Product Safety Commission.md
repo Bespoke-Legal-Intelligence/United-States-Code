@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Chairman
 
-An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed by the President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
+An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed bythe President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
 
 #### (b) Term; vacancies
 
@@ -102,9 +102,19 @@ Section 105(b) of Pub. L. 101–608 provided that: “The amendment made by subs
 
 Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out as a note under section 2051 of this title.
 
+#### Interim Quorum
+
+Pub. L. 110–314, title II, §202(a), Aug. 14, 2008, 122 Stat. 3039, provided that: “Notwithstanding section 4(d) of the Consumer Product Safety Act (15 U.S.C. 2053(d)), 2 members of the \[Consumer Product Safety\] Commission, if they are not affiliated with the same political party, shall constitute a quorum for the transaction of business for the 1 year period beginning on the date of enactment of this Act \[Aug. 14, 2008\].”
+
+#### Upgrade of Commission Information Technology Systems
+
+Pub. L. 110–314, title II, §212(b), Aug. 14, 2008, 122 Stat. 3052, provided that: “The \[Consumer Product Safety\] Commission shall expedite efforts to upgrade and improve the information technology systems in use by the Commission on the date of enactment of this Act \[Aug. 14, 2008\].”
+
 #### Reduction in Number of Commissioners
 
-Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part: “That funds shall not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter”.
+Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part that funds would not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter, prior to repeal by Pub. L. 110–314, title II, §202(b)(1), Aug. 14, 2008, 122 Stat. 3040.
+
+\[Pub. L. 110–314, title II, §202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made by paragraph (1) \[repealing provisions of title III of Pub. L. 102–389, formerly set out above\] shall take effect 1 year after the date of enactment of this Act \[Aug. 14, 2008\].”\]
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

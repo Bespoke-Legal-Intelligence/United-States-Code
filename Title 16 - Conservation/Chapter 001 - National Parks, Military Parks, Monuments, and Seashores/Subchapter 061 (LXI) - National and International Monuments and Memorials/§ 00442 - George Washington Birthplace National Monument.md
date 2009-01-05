@@ -40,7 +40,7 @@ Pub. L. 107–354, Dec. 17, 2002, 116 Stat. 2984, provided that:
 
 #### “SECTION 1. ADDITION TO NATIONAL MONUMENT.
 
-“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 115 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,023 and dated October 2001, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to asthe ‘National Monument’) are hereby modified to include the area comprising approximately 115 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,023 and dated October 2001, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 
@@ -58,7 +58,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 
-“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to asthe ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange.
+“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange.
 
 #### “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.
 

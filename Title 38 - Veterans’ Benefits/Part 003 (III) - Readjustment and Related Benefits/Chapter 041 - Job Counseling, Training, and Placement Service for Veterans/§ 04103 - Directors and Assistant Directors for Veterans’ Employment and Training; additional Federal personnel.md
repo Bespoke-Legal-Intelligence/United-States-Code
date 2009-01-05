@@ -4,7 +4,9 @@
 
 Directors and Assistant Directors.—(1) The Secretary shall assign to each State a representative of the Veterans’ Employment and Training Service to serve as the Director for Veterans’ Employment and Training, and shall assign full-time Federal clerical or other support personnel to each such Director.
 
-(2) Each Director for Veterans’ Employment and Training for a State shall, at the time of appointment, have been a bona fide resident of the State for at least two years.
+(2)(A) Each Director for Veterans’ Employment and Training for a State shall, at the time of appointment, have been a bona fide resident of the State for at least two years.
+
+(B) The Secretary may waive the requirement in subparagraph (A) with respect to a Director for Veterans’ Employment and Training if the Secretary determines that the waiver is in the public interest. Any such waiver shall be made on a case-by-case basis.
 
 (3) Full-time Federal clerical or other support personnel assigned to Directors for Veterans’ Employment and Training shall be appointed in accordance with the provisions of title 5 governing appointments in the competitive service and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5.
 
@@ -12,11 +14,7 @@ Directors and Assistant Directors.—(1) The Secretary shall assign to each Stat
 
 Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans’ Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans’ Employment and Training.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, §2012; renumbered §2003, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, §505, title VIII, §801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, §4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, §304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, §302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2042.)
-
-#### References in Text
-
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, §2012; renumbered §2003, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(c), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §§602, 606(1), Oct. 15, 1976, 90 Stat. 2404, 2405; Pub. L. 96–466, title V, §505, title VIII, §801(i), Oct. 17, 1980, 94 Stat. 2204, 2216; Pub. L. 97–295, §4(70), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 97–306, title III, §304(a)(1), (b), (c), Oct. 14, 1982, 96 Stat. 1437, 1438; Pub. L. 100–323, §§5, 7(a), 15(a)(2), (c)(1), (3)(A), May 20, 1988, 102 Stat. 563, 564, 574; Pub. L. 101–237, title IV,§423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(14), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title III, §302, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2042; Pub. L. 110–389, title III, §316, Oct. 10, 2008, 122 Stat. 4167.)
 
 #### Prior Provisions
 
@@ -25,6 +23,8 @@ Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86�
 Provisions similar to those comprising this section were contained in section 2002 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–389 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2002—Pub. L. 107–288 substituted “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
 
@@ -50,7 +50,7 @@ Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employmen
 
 Subsec. (b)(1)(A). Pub. L. 100–323, §15(c)(1), substituted “Director for Veterans’ Employment and Training” for “State Director for Veterans’ Employment” and “Assistant Director for Veterans’ Employment and Training” for “Assistant State Director for Veterans’ Employment”.
 
-Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and\(B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
+Pub. L. 100–323, §5(1)–(3), designated existing provisions as subpar. (A), redesignated former cls. (A) and (B) as (i) and (ii), respectively, and substituted “, except as provided in subparagraph (B) of this paragraph, be a qualified veteran” for “be an eligible veteran” in cl. (i).
 
 Subpar. (b)(1)(B). Pub. L. 100–323, §5(4), added subpar. (B).
 
@@ -76,7 +76,7 @@ Subsec. (c)(8) to (12). Pub. L. 97–306, §304(c), added cls. (8) to (12).
 
 1980—Pub. L. 96–466 in provisions preceding par. (1) inserted “(and shall assign full-time clerical support to each such representative)” after “to serve as the veterans’ employment representative”, struck out “, United States Code,” after “title 5”, substituted “employment and training programs” for “manpower and training programs”, inserted “system” after “public employment service” wherever appearing, and in par. (6) inserted “, disabled veterans, and veterans of the Vietnam era” after “eligible veterans”.
 
-1976—Pub. L. 94–502 substituted “the Secretary shall determine” for “he shall determine”, “such representative's” for “his”, “administered by the Secretary or by prime sponsors under the Comprehensive Employment and Training Act” for “administered by the Secretary”, added cl. (6), and redesignated former cl. (6) as (7).
+1976—Pub. L. 94–502 substituted “the Secretary shall determine” for “he shall determine”, “such representative's” for “his”, “administered by the Secretary or by prime sponsors under the Comprehensive Employmentand Training Act” for “administered by the Secretary”, added cl. (6), and redesignated former cl. (6) as (7).
 
 1974—Pub. L. 93–508 substituted “250,000 veterans and eligible persons of the State” for “250,000 veterans of the State”, and “Secretary's veterans’ and eligible persons’ counseling and placement policies” for “Secretary's veterans’ counseling and placement policies”, and in cls. (1), (2), (4), (5), and (6) of the fifth sentence substituted “eligible veterans and eligible persons” for “eligible veterans”, in cl. (3) substituted “eligible veteran's or an eligible person's” for “eligible veteran's”, and in cl. (4) substituted “such veterans and persons” for “such veterans”.
 

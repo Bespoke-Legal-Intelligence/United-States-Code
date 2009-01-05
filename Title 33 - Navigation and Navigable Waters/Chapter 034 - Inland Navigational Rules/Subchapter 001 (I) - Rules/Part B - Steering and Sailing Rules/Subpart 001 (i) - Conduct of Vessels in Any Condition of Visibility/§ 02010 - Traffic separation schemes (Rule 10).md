@@ -26,7 +26,7 @@ A vessel shall, so far as practicable, avoid crossing traffic lanes but if oblig
 
 #### (e) Entering separation zone or crossing separation line
 
-A vessel other than a crossing vessel or a vessel joining or leaving a lane shall not normallyenter a separation zone or cross a separation line except:
+A vessel other than a crossing vessel or a vessel joining or leaving a lane shall not normally enter a separation zone or cross a separation line except:
 
 &emsp;(i) in cases of emergency to avoid immediate danger; or
 

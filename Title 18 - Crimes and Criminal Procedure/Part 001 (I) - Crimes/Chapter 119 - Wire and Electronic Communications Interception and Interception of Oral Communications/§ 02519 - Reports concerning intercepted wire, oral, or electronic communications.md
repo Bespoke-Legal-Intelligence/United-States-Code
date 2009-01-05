@@ -28,7 +28,7 @@
 
 &emsp;(e) the number of motions to suppress made with respect to such interceptions, and the number granted or denied;
 
-&emsp;(f) the number of convictions resulting from such interceptions and the offenses for whichthe convictions were obtained and a general assessment of the importance of the interceptions; and
+&emsp;(f) the number of convictions resulting from such interceptions and the offenses for which the convictions were obtained and a general assessment of the importance of the interceptions; and
 
 &emsp;(g) the information required by paragraphs (b) through (f) of this subsection with respect to orders or extensions obtained in a preceding calendar year.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically pr
 
 #### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518
 
-Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
+Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
 
 &emsp;“(1) the kind of order or extension applied for (including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of title 18, United States Code, did not apply by reason of section 2518 (11) of title 18);
 

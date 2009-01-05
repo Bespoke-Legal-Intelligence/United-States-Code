@@ -1,6 +1,6 @@
 ### §6954. Midshipmen: number
 
-(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000 or such higher number as may be prescribed by the Secretary of the Navy under subsection (h). Subject to that limitation, midshipmen are selected as follows:
+(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Navy under subsection (h). Subject to that limitation, midshipmen are selected as follows:
 
 &emsp;(1) 65 selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability at not less than 100 per centum resulting from, wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability is rated, is binding upon the Secretary of the Navy.
 
@@ -20,7 +20,7 @@
 
 &emsp;(9) Two from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-&emsp;(10) One from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
+&emsp;(10) One from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 
 > Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
@@ -56,7 +56,7 @@
 
 (g) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Brigade of Midshipmen, the Secretary of the Navy may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
-(h)(1) Beginning with the 2003–2004 academic year, the Secretary of the Navy may prescribe annual increases in the midshipmen strength limit in effect under subsection (a). For any academic year, any such increase shall be by no more than 100 midshipmen or such lesser number as applies under paragraph (3) for that year. Such annual increases may be prescribed until the midshipmen strength limit is 4,400. However, no increase may be prescribed for any academic year after the 2007–2008 academic year.
+(h)(1) Beginning with the 2003–2004 academic year, the Secretary of the Navy may prescribe annual increases in the midshipmen strength limit in effect under subsection (a). For any academic year, any such increase shall be by no more than 100 midshipmen or such lesser number as applies under paragraph (3) for that year. Such annual increases may be prescribed until the midshipmen strength limit is 4,400.
 
 (2) Any increase in the midshipmen strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the midshipmen strength limit and the new midshipmen strength limit, as so increased, and the amount of the increase in Senior Navy Reserve Officers’ Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
@@ -64,7 +64,7 @@
 
 (4) In this subsection, the term “midshipmen strength limit” means the authorized maximum strength of the Brigade of Midshipmen.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X,§1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, §1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, §532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, §524(b), title X, §1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, §515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, §1048(g)(1), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 107–314, div. A, title V, §532(b), Dec. 2, 2002, 116 Stat. 2545; Pub. L. 108–136, div. A, title V, §524(b), title X, §1031(a)(55), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–163, div. A, title V, §515(b)(1)(Q), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–229, title VII, §718(b), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(b), Oct. 14, 2008, 122 Stat. 4454.)
 
 Historical and Revision Notes<br>1956
 
@@ -152,6 +152,12 @@ In 10:6954(f), the word “The” is substituted for “Effective beginning with
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–417, §540(b)(1), substituted “4,400 or such lower number” for “4,000 or such higher number” in introductory provisions.
+
+Subsec. (a)(10). Pub. L. 110–229 substituted “Delegate in Congress” for “resident representative”.
+
+Subsec. (h)(1). Pub. L. 110–417, §540(b)(2), struck out last sentence which read as follows: “However, no increase may be prescribed for any academic year after the 2007–2008 academic year.”
+
 2006—Subsec. (b)(3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2003—Subsec. (a)(6), (8). Pub. L. 108–136, §524(b)(1), substituted “Three” for “Two”.
@@ -170,7 +176,7 @@ Subsec. (h). Pub. L. 107–314, §532(b)(2), added subsec. (h).
 
 Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(2)\], added subpars. (C) and (D).
 
-1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), as amended by Pub. L. 107–107, §1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
+1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), as amended by Pub. L. 107–107, §1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen\(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
 
 Subsec. (g). Pub. L. 106–65, §531(b)(2)(B), added subsec. (g).
 
@@ -230,6 +236,10 @@ Subsecs. (d), (e). Pub. L. 88–276, §2(3), added subsecs. (d) and (e).
 
 Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–417 applicable with respect to academic years at the United States Naval Academy after the 2007-2008 academic year, see section 540(d) of Pub. L. 110–417, set out as a note under section 4342 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by section 524(b) of Pub. L. 108–136 applicable with respect to nomination of candidates for appointment to United States Naval Academy for classes entering after Nov. 24, 2003, see section 524(d) of Pub. L. 108–136, set out as a note under section 4342 of this title.
@@ -252,7 +262,7 @@ Amendment by Pub. L. 96–600 effective beginning with nominations for appointme
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
+Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the serviceacademies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -264,7 +274,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments notto be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
+Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and other Standards to Male and Female Individuals
 

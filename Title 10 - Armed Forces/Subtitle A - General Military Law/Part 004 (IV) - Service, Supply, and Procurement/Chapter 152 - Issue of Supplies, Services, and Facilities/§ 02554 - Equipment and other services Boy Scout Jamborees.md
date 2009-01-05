@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense is hereby authorized, under such regulations as he may prescribe, to lend to the Boy Scouts of America, for the use and accommodation of Scouts, Scouters, and officials who attend any national or world Boy Scout Jamboree, such cots, blankets, commissary equipment, flags, refrigerators, and other equipment and without reimbursement, furnish services and expendable medical supplies, as may be necessary or useful to the extent that items are in stock and items or services are available.
 
-(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to bereturned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
+(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
 
 (c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 
@@ -58,7 +58,7 @@ See Codification note above.
 
 #### Reconciliation of Duplicate Enactments
 
-Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, provided that: “In executing to section 2554 of title 10, United States Code, the identical amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
+Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A,title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
 
 #### Support for Scout Jamborees
 

@@ -40,5 +40,5 @@ Section 11 of Pub. L. 96–461 provided that: “The effective date of sections 
 
 #### Congressional Declaration of Purpose
 
-Section 9 of Pub. L. 96–461, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted “\[i\]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary's ability to maintain the Institute's programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
+Section 9 of Pub. L. 96–461, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted “\[i\]n order to develop and strengthen the expertise of theNational Institute of Standards and Technology in science and engineering, to enhance the Secretary's ability to maintain the Institute's programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
 

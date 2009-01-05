@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Admission.—The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master's degree in a curriculum related to defense product development and systems engineering. No more than 25 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 7048 of this title.
+Authority for Admission.—The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master's degree in a curriculum related to defense product development and systems engineering. No more than 125 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under section 7048 of this title.
 
 (b)
 
@@ -22,7 +22,7 @@ Annual Determination by the Secretary of the Navy.—Defense industry employees 
 
 Program Requirements.—The Secretary of the Navy shall ensure that—
 
-&emsp;(1) the curriculum for the defense product development program in which defense industry employees may be enrolled under this section is not readily available through other schools and concentrates on defense product development functions that are conducted by military organizations and defense contractors working in close cooperation; and
+&emsp;(1) the curriculum for the defense product development program in which defense industry employees may be enrolled under this section is not readily available through otherschools and concentrates on defense product development functions that are conducted by military organizations and defense contractors working in close cooperation; and
 
 &emsp;(2) the course offerings at the school continue to be determined solely by the needs of the Department of Defense.
 
@@ -38,9 +38,11 @@ Standards of Conduct.—While receiving instruction at the school, students enro
 
 Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, \[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–417 substituted “125” for “25”.
 
 2006—Subsec. (a). Pub. L. 109–163 inserted “and systems engineering” after “curriculum related to defense product development” and substituted “25” for “10”.
 

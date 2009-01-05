@@ -12,17 +12,17 @@
 
 &emsp;(C) $4,000 per year, in the case of an agreement for four years.
 
-(2) In the case of an agreement for employment on less than a full-time basis, the amount of bonus pay shall be pro rated <sup>1</sup> accordingly.
+(2) In the case of an agreement for employment on less than a full-time basis, the amount of bonus pay shall be pro-rated accordingly.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a bonus under this section shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
 (2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of the total bonus in a lump sum at the time that the period of obligated service commences under the agreement.
 
-(B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
+(B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of serviceis completed throughout the period of obligated service specified in the agreement.
 
 (d)(1) A bonus paid to any individual under this section shall be in addition to any pay or allowance to which the individual is entitled.
 
-(2) The amount of a bonus paid under this section shall not be considered to be basic pay for the purposes of sections 5551, 5552, and 5595 oftitle 5, chapters 81, 83, 84, and 87 of such title, or any other provision of law creating an entitlement to benefits based on basic pay.
+(2) The amount of a bonus paid under this section shall not be considered to be basic pay for the purposes of sections 5551, 5552, and 5595 of title 5, chapters 81, 83, 84, and 87 of such title, or any other provision of law creating an entitlement to benefits based on basic pay.
 
 (e) At least once each year the Secretary, upon the recommendation of the Under Secretary for Health, shall determine the specific health-care facilities and clinical services, if any, as to which there are significant problems with respect to the recruitment and retention of registered nurses. Upon making any such determination, the Secretary shall promptly notify the Committees on Veterans’ Affairs of the Senate and the House of Representatives of the determination and the basis for the determination.
 
@@ -38,9 +38,11 @@
 
 (h) The Secretary shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 100–322, title II, §212(a)\[(1)\], May 20, 1988, 102 Stat. 514, §4120; renumbered §7458 and amended Pub. L. 102–40, title IV, §401(c)(4), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(h)(4), Nov. 2, 1994, 108 Stat. 4688.)
+(Added Pub. L. 100–322, title II, §212(a)\[(1)\], May 20, 1988, 102 Stat. 514, §4120; renumbered §7458 and amended Pub. L. 102–40, title IV, §401(c)(4), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(h)(4), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 110–387, title IX, §901(a)(6), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–387 substituted “pro-rated” for “pro rated”.
 
 1994—Pub. L. 103–446 substituted “Recruitment and retention bonus pay” for “Recruitment and retention bonus pay for nurses and certain other health-care personnel” as section catchline.
 

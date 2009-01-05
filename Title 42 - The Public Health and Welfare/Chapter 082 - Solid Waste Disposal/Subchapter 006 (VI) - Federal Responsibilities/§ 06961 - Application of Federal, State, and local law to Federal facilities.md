@@ -18,7 +18,7 @@ Unless a State law in effect on October 6, 1992, or a State constitution require
 
 #### Amendments
 
-1992—Pub. L. 102–386 designated existing provisions as subsec. (a), inserted heading, inserted in first sentence“and management” before “in the same manner”, inserted second to fourth, sixth, and seventh sentences specifying Federal, State, interstate, and local substantive and procedural requirements, waiving sovereign immunity, determining reasonable service charges, and providing no agent, employee, or officer of the United States be personally liable for a civil penalty for an act or omission within the scope of official duties but be subject to criminal sanction, with no department, agency, or instrumentality of the executive, legislative, or judicial branch subject to such sanction, and added subsecs. (b) and (c).
+1992—Pub. L. 102–386 designated existing provisions as subsec. (a), inserted heading, inserted in first sentence “and management” before “in the same manner”, inserted second to fourth, sixth, and seventh sentences specifying Federal, State, interstate, and local substantive and procedural requirements, waiving sovereign immunity, determining reasonable service charges, and providing no agent, employee, or officer of the United States be personally liable for a civil penalty for an act or omission within the scope of official duties but be subject to criminal sanction, with no department, agency, or instrumentality of the executive, legislative, or judicial branch subject to such sanction, and added subsecs. (b) and (c).
 
 1978—Pub. L. 95–609 inserted “or management” after “disposal” in cl. (2).
 
@@ -60,7 +60,7 @@ Agreement or order.—Except as provided in paragraph (4), nothing in this Act \
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a) of this section requiring the President to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 20 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section requiring the President toreport annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 8th item on page 20 of House Document No. 103–7.
 
 #### Executive Order No. 12780
 

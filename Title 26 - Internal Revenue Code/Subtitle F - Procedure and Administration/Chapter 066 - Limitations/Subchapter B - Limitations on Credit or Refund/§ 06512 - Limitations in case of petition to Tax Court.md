@@ -56,7 +56,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 &emsp;&emsp;<b>(2) For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings to enforce an overpayment determined by such court, see section 7430.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 811; Pub. L. 87–870, §4, Oct. 23, 1962, 76 Stat. 1161; Pub. L. 91–172, title I, §101(j)(47), (48), title IX, §960(b), Dec. 30, 1969, 83 Stat. 531, 734; Pub. L. 91–614, title I, §102(d)(9), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(16), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(vii), title XVI, §1605(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1834; Pub. L. 95–600, title II, §212(b)(2), Nov. 6, 1978, 92 Stat. 2819; Pub. L. 96–223, title I, §101(f)(6), Apr. 2, 1980, 94 Stat. 253; Pub. L. 96–589, §6(d)(3), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–248, title IV, §402(c)(8),\(9), Sept. 3, 1982, 96 Stat. 668; Pub. L. 100–418, title I, §1941(b)(2)(J), (K), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §§6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, 102 Stat. 3750–3752; Pub. L. 105–34, title XII, §§1239(c)(2), 1282(a), title XIV, §1451(a), (b), Aug. 5, 1997, 111 Stat. 1028, 1037, 1054; Pub. L. 105–206, title III, §3464(b), (c), July 22, 1998, 112 Stat. 767; Pub. L. 106–554, §1(a)(7) \[title III, §319(19)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 811; Pub. L. 87–870, §4, Oct. 23, 1962, 76 Stat. 1161; Pub. L. 91–172, title I, §101(j)(47), (48), title IX, §960(b), Dec. 30, 1969, 83 Stat. 531, 734; Pub. L. 91–614, title I, §102(d)(9), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(16), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(vii), title XVI, §1605(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1834; Pub. L. 95–600, title II, §212(b)(2), Nov. 6, 1978, 92 Stat. 2819; Pub. L. 96–223, title I, §101(f)(6), Apr. 2, 1980, 94 Stat. 253; Pub. L. 96–589, §6(d)(3), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–248, title IV, §402(c)(8), (9), Sept. 3, 1982, 96 Stat. 668; Pub. L. 100–418, title I, §1941(b)(2)(J), (K), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §§6244(a), (b)(2), 6246(b)(1), 6247(b)(1), Nov. 10, 1988, 102 Stat. 3750–3752; Pub. L. 105–34, title XII, §§1239(c)(2), 1282(a), title XIV, §1451(a), (b), Aug. 5, 1997, 111 Stat. 1028, 1037, 1054; Pub. L. 105–206, title III, §3464(b), (c), July 22, 1998, 112 Stat. 767; Pub. L. 106–554, §1(a)(7) \[title III, §319(19)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 

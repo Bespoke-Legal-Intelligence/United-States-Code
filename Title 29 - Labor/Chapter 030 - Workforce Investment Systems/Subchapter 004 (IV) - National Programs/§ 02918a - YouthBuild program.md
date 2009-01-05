@@ -4,7 +4,7 @@
 
 The purposes of this section are—
 
-&emsp;(1) to enable disadvantaged youth to obtain the education and employment skills necessary to achieve economic self-sufficiency inoccupations in demand and postsecondary education and training opportunities;
+&emsp;(1) to enable disadvantaged youth to obtain the education and employment skills necessary to achieve economic self-sufficiency in occupations in demand and postsecondary education and training opportunities;
 
 &emsp;(2) to provide disadvantaged youth with opportunities for meaningful work and service to their communities;
 
@@ -172,7 +172,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) a description of the special outreach efforts that will be undertaken to recruit eligible young women (including young women with dependent children) as participants;
 
-&emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, suchas their role in developing the proposed program and assisting in service provision and in placement activities;
+&emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, such as their role in developing the proposed program and assisting in service provision and in placement activities;
 
 &emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, vocational education programs, adult and language instruction educational programs, activities conducted by public schools, activities,<sup>2</sup> conducted by community colleges, national service programs, and other job training provided with funds available under this chapter;
 
@@ -208,7 +208,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(xx) a certification, by a public official responsible for the housing strategy for the State or unit of general local government within which the proposed program is located, that the proposed program is consistent with the housing strategy; and
 
-&emsp;&emsp;&emsp;(xxi) a certification that the applicant will comply with the requirements of the Fair Housing Act (42 U.S.C. 3601 et seq.) and will affirmatively further fair housing.
+&emsp;&emsp;&emsp;(xxi) a certification that the applicant will comply with the requirements of theFair Housing Act (42 U.S.C. 3601 et seq.) and will affirmatively further fair housing.
 
 #### (4) Selection criteria
 

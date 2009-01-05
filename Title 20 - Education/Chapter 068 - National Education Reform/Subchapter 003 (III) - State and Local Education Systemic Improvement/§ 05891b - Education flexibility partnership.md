@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6316\], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act \[20 U.S.C. 6311(b)(2)\]; and
 
-&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
+&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schoolswithin the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
 
 #### (3) State application
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) describe the purposes and overall expected results of waiving each such requirement;
 
-&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals foreach local educational agency or school affected by the proposed waiver, and for the students served by the local educational agency or school who are affected by the waiver;
+&emsp;&emsp;&emsp;(iii) describe, for each school year, specific, measurable, educational goals for each local educational agency or school affected by the proposed waiver, and for the students served by the local educational agency or school who are affected by the waiver;
 
 &emsp;&emsp;&emsp;(iv) explain why the waiver will assist the local educational agency or school in reaching such goals; and
 
@@ -224,7 +224,7 @@ The Secretary and the State educational agency may not waive under subsection (a
 
 &emsp;&emsp;(I) applicable civil rights requirements; and
 
-&emsp;(2) unless the underlying purposes of the statutory requirements of the program forwhich a waiver is granted continue to be met to the satisfaction of the Secretary.
+&emsp;(2) unless the underlying purposes of the statutory requirements of the program for which a waiver is granted continue to be met to the satisfaction of the Secretary.
 
 #### (d) Treatment of existing Ed-Flex Partnership States
 

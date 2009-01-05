@@ -48,7 +48,7 @@ Subsec. (b)(8). Pub. L. 108–469, §3(2)(B), substituted “bankruptcy judge or
 
 1996—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(1)\]\], inserted “of the distribution” after “equal to the amount” in first sentence.
 
-Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(A)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less”.
+Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(A)\]\], substituted “less than anamount that the Executive Director prescribes by regulation” for “$3,500 or less”.
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
 

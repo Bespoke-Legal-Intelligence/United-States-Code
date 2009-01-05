@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (2) Scope of election
 
-&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election.
+&emsp;An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business withrespect to which the taxpayer has made the election.
 
 #### (3) Period to which election applies
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (4) Treatment as method of accounting
 
-&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable incomeunder an election made under this section shall be treated as a method of accounting.
+&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable income under an election made under this section shall be treated as a method of accounting.
 
 #### (d) 5-year spread of transitional adjustments for magazines
 

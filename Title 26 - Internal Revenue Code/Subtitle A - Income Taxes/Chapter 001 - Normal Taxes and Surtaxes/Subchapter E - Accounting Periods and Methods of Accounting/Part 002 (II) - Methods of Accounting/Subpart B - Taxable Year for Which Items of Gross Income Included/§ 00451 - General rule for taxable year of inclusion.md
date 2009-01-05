@@ -146,7 +146,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008, of—
+&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008 (before January 1, 2010, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -164,7 +164,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;&emsp;(i) who the Federal Energy Regulatory Commission determines in its authorization of the transaction under section 203 of the Federal Power Act (16 U.S.C. 824b) or by declaratory order is not a market participant within the meaning of such Commission's rules applicable to independent transmission providers, and
 
-&emsp;&emsp;&emsp;(ii) whose transmission facilities to which the election under this subsection applies are under the operational control of a Federal Energy Regulatory Commission-approved independent transmission provider before the close of the period specified in such authorization, but not later than December 31, 2007, or
+&emsp;&emsp;&emsp;(ii) whose transmission facilities to which the election under this subsection applies are under the operational control of a Federal Energy Regulatory Commission-approved independent transmission provider before the close of the period specified in such authorization, but not later than the date which is 4 years after the close of the taxable year in which the transaction occurs, or
 
 &emsp;&emsp;(C) in the case of facilities subject to the jurisdiction of the Public Utility Commission of Texas—
 
@@ -188,11 +188,23 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;Acquisition of control of a corporation shall be taken into account under this subsection with respect to a qualifying electric transmission transaction only if the principal trade or business of such corporation is a trade or business referred to in subparagraph (A).
 
-#### (6) Special rule for consolidated groups
+#### (C) Exception for property located outside the United States
 
-&emsp;In the case of a corporation which is a member of an affiliated group filing a consolidatedreturn, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
+&emsp;&emsp;The term “exempt utility property” shall not include any property which is located outside the United States.
 
-#### (7) Time for assessment of deficiencies
+#### (6) Qualified electric utility
+
+&emsp;For purposes of this subsection, the term “qualified electric utility” means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+
+&emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
+
+&emsp;&emsp;(B) an electric utility (as defined in section 3(22) of the Federal Power Act (16 U.S.C. 796(22))).
+
+#### (7) Special rule for consolidated groups
+
+&emsp;In the case of a corporation which is a member of an affiliated group filing a consolidated return, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
+
+#### (8) Time for assessment of deficiencies
 
 &emsp;If the taxpayer has made the election under paragraph (1) and any gain is recognized by such taxpayer as provided in paragraph (1)(B), then—
 
@@ -200,19 +212,19 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;(B) such deficiency may be assessed before the expiration of such 3-year period notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
-#### (8) Purchase
+#### (9) Purchase
 
 &emsp;For purposes of this subsection, the taxpayer shall be considered to have purchased any property if the unadjusted basis of such property is its cost within the meaning of section 1012.
 
-#### (9) Election
+#### (10) Election
 
 &emsp;An election under paragraph (1) shall be made at such time and in such manner as the Secretary may require and, once made, shall be irrevocable.
 
-#### (10) Nonapplication of installment sales treatment
+#### (11) Nonapplication of installment sales treatment
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821.)
 
 #### References in Text
 
@@ -221,6 +233,14 @@ The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct
 The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsec. (i)(3). Pub. L. 110–343, §109(a)(1), inserted “(before January 1, 2010, in the case of a qualified electric utility)” after “January 1, 2008” in introductory provisions.
+
+Subsec. (i)(4)(B)(ii). Pub. L. 110–343, §109(b), substituted “the date which is 4 years after the close of the taxable year in which the transaction occurs” for “December 31, 2007”.
+
+Subsec. (i)(5)(C). Pub. L. 110–343, §109(c), added subpar. (C).
+
+Subsec. (i)(6) to (11). Pub. L. 110–343, §109(a)(2), added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
 2005—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted “2008” for “2007” in introductory provisions.
 
@@ -244,7 +264,7 @@ Subsecs. (f), (g). Pub. L. 100–647, §1009(d)(3), redesignated subsec. (f), re
 
 Pub. L. 99–514, §821(a), added subsec. (f) relating to special rule for utility services.
 
-1976—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments in heading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (d). Pub. L. 94–455, §§1906(b)(13)(A), 2102(a), (b), inserted reference to disaster payments inheading, provided that payments received under the Agricultural Act of 1949, as amended, be treated as insurance proceeds received as a result of destruction or damage to crops if the payments are received as the result of destruction or damage from drought, flood, or other natural disaster, or as the result of inability to plant crops because of drought, flood, or other natural disaster, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
@@ -264,6 +284,22 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Technical amendment.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, amending this section\].”
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title I, §109(d), Oct. 3, 2008, 122 Stat. 3822, provided that:
+
+“(1)
+
+Extension.—The amendments made by subsection (a) \[amending this section\] shall apply to transactions after December 31, 2007.
+
+“(2)
+
+Transfers of operational control.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\].
+
+“(3)
+
+Exception for property located outside the united states.—The amendment made by subsection (c) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title III, §311(d), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to any taxable year with respect to which the due date (without regard to extensions) for the return is after December 31, 2002.”
@@ -280,7 +316,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Transition rule.—The amendment made by this section shall apply to any prize to which a person firstbecomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
+Transition rule.—The amendment made by this section shall apply to any prize to which a person first becomes entitled on or before the date of enactment of this Act, except that in determining whether an option is a qualified prize option as defined in section 451(h)(2)(A) of the Internal Revenue Code of 1986 (as added by such amendment)—
 
 &emsp;“(A) clause (ii) of such section 451(h)(2)(A) shall not apply, and
 

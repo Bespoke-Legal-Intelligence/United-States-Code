@@ -224,7 +224,7 @@ For purposes of computing the earnings and profits of a corporation, the followi
 
 #### (ii) Inventory assets
 
-&emsp;&emsp;&emsp;The term “inventory assets” means stock in trade of the corporation, or other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year.
+&emsp;&emsp;&emsp;The term “inventory assets” means stock in trade of the corporation, or otherproperty of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year.
 
 #### (iii) Inventory amount
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 109–432 applicable to costs paid or incurred after Dec. 2
 
 Amendment by section 1323(b)(3) of Pub. L. 109–58 applicable to properties placed in service after Aug. 8, 2005, see section 1323(c) of Pub. L. 109–58, set out as an Effective Date note under section 179C of this title.
 
-Amendment by section 1331(b)(5) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005,see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
+Amendment by section 1331(b)(5) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -440,7 +440,7 @@ Amendment by section 631(e)(1) of Pub. L. 99–514 applicable to any distributio
 
 Amendment by section 803(b)(3) of Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 
-Amendment by sections 1804(f)(1)(A)–(E) and 1809(a)(2)(C)(ii) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1804(f)(1)(A)–(E) and 1809(a)(2)(C)(ii) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Section 1804(f)(3) of Pub. L. 99–514 provided that: “Paragraph (7) of section 312(n) of the Internal Revenue Code of 1954 \[now 1986\] (as redesignated by paragraph (1)(D) of this subsection), and the amendments made by section 61(a)(2) of the Tax Reform Act of 1984 \[amending this section\], shall apply to distributions in taxable years beginning after September 30, 1984.”
 
@@ -554,5 +554,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

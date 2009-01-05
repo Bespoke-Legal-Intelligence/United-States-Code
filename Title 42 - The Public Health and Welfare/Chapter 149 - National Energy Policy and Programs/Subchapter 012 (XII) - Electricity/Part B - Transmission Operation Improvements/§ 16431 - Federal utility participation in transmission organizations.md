@@ -54,7 +54,7 @@ The contract, agreement, or arrangement shall include—
 
 #### (d) Commission
 
-Neither this section, actions taken pursuant to this section, nor any other transaction of a Federal utility participating in a Transmission Organization shall confer on the Commission jurisdiction or authority over—
+Neither this section, actions taken pursuant to this section, nor any other transaction of aFederal utility participating in a Transmission Organization shall confer on the Commission jurisdiction or authority over—
 
 &emsp;(1) the electric generation assets, electric capacity, or energy of the Federal utility that the Federal utility is authorized by law to market; or
 
@@ -64,7 +64,7 @@ Neither this section, actions taken pursuant to this section, nor any other tran
 
 #### (1) System operation requirements
 
-&emsp;No statutory provision requiring or authorizing a Federal utility to transmit electricpower or to construct, operate, or maintain the transmission system of the Federal utility prohibits a transfer of control and use of the transmission system pursuant to, and subject to, the requirements of this section.
+&emsp;No statutory provision requiring or authorizing a Federal utility to transmit electric power or to construct, operate, or maintain the transmission system of the Federal utility prohibits a transfer of control and use of the transmission system pursuant to, and subject to, the requirements of this section.
 
 #### (2) Other obligations
 

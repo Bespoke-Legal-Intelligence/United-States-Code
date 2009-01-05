@@ -58,7 +58,7 @@ Budget Program and Set of Accounts.—The Secretary of Transportation shall—
 
 (e)
 
-Depository and Availability of Amounts.—The Secretary of Transportationshall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
+Depository and Availability of Amounts.—The Secretary of Transportation shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
 
 (f)
 
@@ -212,7 +212,7 @@ In subsection (b), the words “regulatory” and “regulatory proceeding” ar
 
 In subsection (b)(1), the words “Federal Transit Administration” are substituted for “Urban Mass Transportation Administration” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088). The words “also” and “required by the first sentence of this paragraph” are omitted as surplus.
 
-In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter . . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
+In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter. . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 

@@ -10,7 +10,7 @@
 | [506\.](%C2%A7%2000506%20-%20Criminal%20offenses.md) | Criminal offenses. |
 | [507\.](%C2%A7%2000507%20-%20Limitations%20on%20actions.md) | Limitations on actions. |
 | [508\.](%C2%A7%2000508%20-%20Notification%20of%20filing%20and%20determination%20of%20actions.md) | Notification of filing and determination of actions. |
-| [509\.](%C2%A7%2000509%20-%20Seizure%20and%20forfeiture.md) | Seizure and forfeiture. |
+| \[509. | Repealed.\] |
 | [510\.](%C2%A7%2000510%20-%20Remedies%20for%20alteration%20of%20programming%20by%20cable%20systems.md) | Remedies for alteration of programming by cable systems. |
 | [511\.](%C2%A7%2000511%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20copyright.md) | Liability of States, instrumentalities of States, and State officials for infringement of copyright. |
 | [512\.](%C2%A7%2000512%20-%20Limitations%20on%20liability%20relating%20to%20material%20online.md) | Limitations on liability relating to material online. |
@@ -19,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–403, title II, §201(b)(2), Oct. 13, 2008, 122 Stat. 4260, struck out item 509 “Seizure and forfeiture.”
 
 1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(a)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, substituted “programming” for “programing” in item 510.
 
@@ -45,7 +47,7 @@ Pub. L. 105–298, title II, §203(b), Oct. 27, 1998, 112 Stat. 2833, added item
 - [&sect; 00506 - Criminal offenses](%C2%A7%2000506%20-%20Criminal%20offenses.md)
 - [&sect; 00507 - Limitations on actions](%C2%A7%2000507%20-%20Limitations%20on%20actions.md)
 - [&sect; 00508 - Notification of filing and determination of actions](%C2%A7%2000508%20-%20Notification%20of%20filing%20and%20determination%20of%20actions.md)
-- [&sect; 00509 - Seizure and forfeiture](%C2%A7%2000509%20-%20Seizure%20and%20forfeiture.md)
+- [&sect; 00509 - Repealed. Pub. L. 110&#8211;403, title II, &sect;201(b)(1), Oct. 13, 2008, 122 Stat. 4260](%C2%A7%2000509%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93403%2C%20title%20II%2C%20%C2%A7201%28b%29%281%29%2C%20Oct.%2013%2C%202008%2C%20122%20Stat.%204260.md)
 - [&sect; 00510 - Remedies for alteration of programming by cable systems](%C2%A7%2000510%20-%20Remedies%20for%20alteration%20of%20programming%20by%20cable%20systems.md)
 - [&sect; 00511 - Liability of States, instrumentalities of States, and State officials for infringement of copyright](%C2%A7%2000511%20-%20Liability%20of%20States%2C%20instrumentalities%20of%20States%2C%20and%20State%20officials%20for%20infringement%20of%20copyright.md)
 - [&sect; 00512 - Limitations on liability relating to material online](%C2%A7%2000512%20-%20Limitations%20on%20liability%20relating%20to%20material%20online.md)

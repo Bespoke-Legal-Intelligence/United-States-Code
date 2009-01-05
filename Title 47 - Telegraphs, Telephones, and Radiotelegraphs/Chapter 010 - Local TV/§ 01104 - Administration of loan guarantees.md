@@ -50,7 +50,7 @@ The holder of a loan guarantee under this chapter may assign the loan guaranteed
 
 #### (d) Expiration of loan guarantee upon stripping
 
-Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chaptershall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 
 #### (e) Adjustment
 
@@ -98,7 +98,7 @@ The Board shall prescribe regulations governing defaults on loans guaranteed und
 
 #### (1) In general
 
-&emsp;The Administrator shall be entitled to recover from an applicant for a loan guaranteeunder this chapter the amount of any payment made to the holder of the guarantee with respect to the loan.
+&emsp;The Administrator shall be entitled to recover from an applicant for a loan guarantee under this chapter the amount of any payment made to the holder of the guarantee with respect to the loan.
 
 #### (2) Subrogation
 

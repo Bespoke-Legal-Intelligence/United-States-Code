@@ -10,7 +10,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;(1) has been employed as a full-time teacher for 5 consecutive complete school years—
 
-&emsp;&emsp;(A) in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools; and
+&emsp;&emsp;(A) in a school or location that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools or locations; and
 
 &emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title,<sup>1</sup> or meets the requirements of subsection (g)(3); and
 
@@ -20,7 +20,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 #### (1) In general
 
-&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1) of this section. No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.
+&emsp;The Secretary shall repay not more than $5,000 in the aggregate of the loan obligation on a loan made under section 1078 or 1078–8 of this title that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1) of this section.
 
 #### (2) Treatment of consolidation loans
 
@@ -42,7 +42,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
 
-&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
+&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
 #### (d) Regulations
 
@@ -70,25 +70,41 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 #### (2) Prevention of double benefits
 
-&emsp;No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.).
+&emsp;No borrower may, for the same service, receive a benefit under both this section and—
+
+&emsp;&emsp;(A) section 1078–11 of this title;
+
+&emsp;&emsp;(B) section 1087e(m) of this title;
+
+&emsp;&emsp;(C) section 1087j of this title; or
+
+&emsp;&emsp;(D) subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 \[12601\] et seq.).
 
 #### (3) Private school teachers
 
-&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private schoolteacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
 #### (h) “Year” defined
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236.)
 
 #### References in Text
 
 Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original “section 9101 of the Elementary Secondary Education Act of 1965”, which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (g)(2)(D), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(1)(A). Pub. L. 110–315, §429(1), inserted “or location” after “a school” and “or locations” after “schools”.
+
+Subsec. (c)(1). Pub. L. 110–315, §429(2), struck out at end “No borrower may receive a reduction of loan obligations under both this section and section 1087j of this title.”
+
+Subsec. (c)(3)(B)(iii). Pub. L. 110–315, §429(3), inserted “or, in the case of a teacher who is employed by an educational service agency, as certified by the chief administrative officer of such agency,” after “borrower is employed,”.
+
+Subsec. (g)(2). Pub. L. 110–315, §429(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.).”
 
 2006—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted “, or meets the requirements of subsection (g)(3)” after “section 7801 of this title”.
 

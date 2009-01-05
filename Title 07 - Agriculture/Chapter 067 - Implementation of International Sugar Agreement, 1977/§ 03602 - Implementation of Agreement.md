@@ -18,13 +18,19 @@ On and after the entering into force of the Agreement with respect to the United
 
 1983—Pub. L. 97–446 substituted “1985” for “1983”.
 
+#### United States Membership in the International Sugar Organization
+
+Pub. L. 110–234, title I, §1402, May 22, 2008, 122 Stat. 981, and Pub. L. 110–246, §4(a), title I, §1402, June 18, 2008, 122 Stat. 1664, 1709, provided that: “The Secretary \[of Agriculture\] shall work with the Secretary of State to restore United States membership in the International Sugar Organization not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
 #### Elimination of Sugar Quota Allocation of Panama
 
 Pub. L. 101–167, title V, §562, Nov. 21, 1989, 103 Stat. 1241, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning ofthe last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
+In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
 
 “(b)
 

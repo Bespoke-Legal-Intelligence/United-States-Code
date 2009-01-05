@@ -6,7 +6,7 @@ There is authorized to be appropriated to the President to carry out this part n
 
 #### (b) Presidential authority to incur obligations and enter into contracts
 
-Upon agreement by the Government of Israel to provide to the Government of the United States funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and to make those funds available, in advance of the time when payments are due, in such amounts and at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Upon agreement by the Government of Israel to provide to the Government of the United States funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and tomake those funds available, in advance of the time when payments are due, in such amounts and at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (c) Crediting of funds to proper appropriation account
 
@@ -16,7 +16,7 @@ Funds made available by the Government of Israel pursuant to subsection (b) of t
 
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39\(§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Delegation of Functions
 

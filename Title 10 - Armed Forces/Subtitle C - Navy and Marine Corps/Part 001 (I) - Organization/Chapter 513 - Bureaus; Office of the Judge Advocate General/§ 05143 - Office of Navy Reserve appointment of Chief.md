@@ -48,7 +48,7 @@ Annual Report.—(1) The Chief of Navy Reserve shall submit to the Secretary of 
 
 #### Prior Provisions
 
-A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, §344(a), title VII,§701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
+A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, §344(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 #### Amendments
 

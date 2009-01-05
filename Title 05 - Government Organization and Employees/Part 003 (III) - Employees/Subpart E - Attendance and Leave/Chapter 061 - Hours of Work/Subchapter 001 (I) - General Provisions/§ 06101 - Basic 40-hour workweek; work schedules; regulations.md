@@ -64,7 +64,7 @@ In subsection (a), the words “in the departmental and the field services” ar
 
 In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, or agency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
-Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbiaas they are not included in the definition of “employee” in section 2105.
+Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbia as they are not included in the definition of “employee” in section 2105.
 
 Subsection (e) is added on authority of former section 945, which is carried into section 5548. The words “an Executive agency” are substituted for “the executive branch of the Government” to conform to the definition in section 105. Applicability of this section to employees of the General Accounting Office is based on former section 933a.
 
@@ -168,7 +168,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “experimental programs
 
-“Sec. 4. (a)(1) Within 180 days after the effective date of this section, and subject to the requirements of section 302 and the terms of any written agreement referred to in section 302(a), the Commission shall establish a program which provides for the conducting of experiments by the Commission under titles I and II of this Act. Such experimental program shall cover a sufficient number of positions throughout the executive branch, and a sufficient range of worktime alternatives, as to provide an adequate basis on which toevaluate the effectiveness and desirability of permanently maintaining flexible or compressed work schedules within the executive branch.
+“Sec. 4. (a)(1) Within 180 days after the effective date of this section, and subject to the requirements of section 302 and the terms of any written agreement referred to in section 302(a), the Commission shall establish a program which provides for the conducting of experiments by the Commission under titles I and II of this Act. Such experimental program shall cover a sufficient number of positions throughout the executive branch, and a sufficient range of worktime alternatives, as to provide an adequate basis on which to evaluate the effectiveness and desirability of permanently maintaining flexible or compressed work schedules within the executive branch.
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
@@ -324,7 +324,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “administration of leave and retirement provisions
 
-“Sec. 301. For purposes of administering sections 6303(a), 6304, 6307(a) and (c), 6323, 6326, and 8339(m) of title 5, United States Code, in the case of an employee who is in any experiment under title I or II, referencesto a day or workday (or to multiples or parts thereof) contained in such sections shall be considered to be references to 8 hours (or to the respective multiples or parts thereof).
+“Sec. 301. For purposes of administering sections 6303(a), 6304, 6307(a) and (c), 6323, 6326, and 8339(m) of title 5, United States Code, in the case of an employee who is in any experiment under title I or II, references to a day or workday (or to multiples or parts thereof) contained in such sections shall be considered to be references to 8 hours (or to the respective multiples or parts thereof).
 
 #### “application of experiments in the case of negotiated contracts
 

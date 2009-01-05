@@ -20,7 +20,7 @@
 
 (e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
 
-(f) An individual serving as a pilot without having a license required by this section or a regulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
+(f) An individual serving as a pilot without having a license required by this section or aregulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
 
 (g)(1) The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, if any, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.
 

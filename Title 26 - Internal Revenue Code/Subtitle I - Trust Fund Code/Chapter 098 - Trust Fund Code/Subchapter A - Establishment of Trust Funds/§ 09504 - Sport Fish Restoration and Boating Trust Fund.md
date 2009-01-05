@@ -28,7 +28,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (c) Expenditures from Boat Safety Account
 
-Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 of the Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
+Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts thereafter credited to the Account under section 9602(b), shall be available, without further appropriation, for making expenditures before October 1, 2010, to carry out the purposes of section 15 ofthe Dingell-Johnson Sport Fish Restoration Act (as in effect on the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users). For purposes of section 9602, the Boat Safety Account shall be treated as a Trust Fund established by this subchapter.
 
 #### (d) Limitation on transfers to Trust Fund
 
@@ -48,7 +48,7 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 &emsp;&emsp;<b>For provision transferring motorboat fuels taxes to Sport Fish Restoration and Boating Trust Fund, see section 9503(c)(4).</b>
 
-(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706.)
+(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129; Pub. L. 108–202, §12(b), Feb. 29, 2004, 118 Stat. 491; Pub. L. 108–224, §10(b), Apr. 30, 2004, 118 Stat. 639; Pub. L. 108–263, §10(b), June 30, 2004, 118 Stat. 710; Pub. L. 108–280, §10(b), July 30, 2004, 118 Stat. 888; Pub. L. 108–310, §13(b), Sept. 30, 2004, 118 Stat. 1163; Pub. L. 109–14, §9(b), May 31, 2005, 119 Stat. 335; Pub. L. 109–20, §9(b), July 1, 2005, 119 Stat. 357; Pub. L. 109–35, §9(b), July 20, 2005, 119 Stat. 391; Pub. L. 109–37, §9(b), July 22, 2005, 119 Stat. 406; Pub. L. 109–40, §9(b), July 28, 2005, 119 Stat. 422; Pub. L. 109–42, §7(b), (d)(2), (3), July 30, 2005, 119 Stat. 437, 438; Pub. L. 109–59, title XI, §§11101(d)(2), 11115(b)(1)–(2)(D), (c), 11151(c), (e)(1), Aug. 10, 2005, 119 Stat. 1945, 1949, 1950, 1968, 1969; Pub. L. 109–74, title III, §301(a), Sept. 29, 2005, 119 Stat. 2032; Pub. L. 109–304, §16(c)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### References in Text
 
@@ -64,7 +64,9 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 
 #### Amendments
 
-2006—Subsec. (c). Pub. L. 109–304, which directed substitution of “section 13107” for “section 13106”, could not be executed because of prior amendment by Pub. L. 109–59, §11115(c). See 2005 Amendment note below.
+2008—Subsec. (c). Pub. L. 110–181 repealed Pub. L. 109–304, §16(c)(2). See 2006 Amendment note below.
+
+2006—Subsec. (c). Pub. L. 109–304, §16(c)(2), which directed substitution of “section 13107” for “section 13106” and could not be executed, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.
 
 2005—Pub. L. 109–59, §11115(b)(2)(D), substituted “Sport Fish Restoration and Boating” for “Aquatic Resources” in section catchline.
 
@@ -198,7 +200,7 @@ Subsec. (b)(2)(C). Pub. L. 105–178, §9005(f)(3), as added by Pub. L. 105–20
 
 Pub. L. 105–178, §9005(b)(3), redesignated subpar. (B) as (C).
 
-Subsec. (c). Pub. L. 105–178, §9005(f)(4), as added by Pub. L. 105–206, §9015(b), substituted “the date of the enactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century”.
+Subsec. (c). Pub. L. 105–178, §9005(f)(4), as added by Pub. L. 105–206, §9015(b), substituted “the date of theenactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century”.
 
 Pub. L. 105–178, §9005(c), substituted “2003” for “1998” and “the date of enactment of the Transportation Equity Act for the 21st Century” for “October 1, 1988”.
 
@@ -218,7 +220,7 @@ Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Pr
 
 Subsec. (b)(2). Pub. L. 100–448, §6(c)(3), substituted “(as in effect on October 1, 1988)” for “(as in effect on June 1, 1984)”.
 
-Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, tocarry out the purposes of section 13106 of title 46 as in effect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
+Subsec. (c). Pub. L. 100–448, §6(a)(2), substituted provisions authorizing expenditures before Apr. 1, 1994, to carry out the purposes of section 13106 of title 46 as in effect on Oct. 1, 1988, for provisions which had authorized expenditures before Apr. 1, 1989, to carry out the purposes of that section as in effect on June 1, 1984.
 
 #### Effective Date of 2005 Amendments
 
@@ -259,4 +261,8 @@ In general.—The amendments made by this section \[enacting this section, amend
 “(2)
 
 Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
+
+#### Construction of 2006 Amendment
+
+Pub. L. 110–181, div. C, title XXXV, §3529(c)(2), Jan. 28, 2008, 122 Stat. 603, provided that: “The provisions repealed by paragraph (1) \[sections 9(a), 15(21), (33)(A)–(D)(i), and 16(c)(2) of Pub. L. 109–304, amending this section and sections 6101, 70117, 70118, 70120, and 70121 of Title 46, Shipping\] shall be treated as if never enacted.”
 

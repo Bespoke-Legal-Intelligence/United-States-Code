@@ -2,7 +2,7 @@
 
 #### (a) Applications for grants
 
-For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projectedcosts of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
 
 &emsp;(1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
 
@@ -30,7 +30,7 @@ Any studies conducted by or for any grant recipient under this section shall be 
 
 #### (e) Rules and regulations
 
-The Secretary shall establish such rules and regulations as may be necessary to carry out this subpart, including rules and regulations relating to the order of priority in approving applications for construction projects and relating to determining the amount of each grant for such projects.
+The Secretary shall establish such rules and regulations as may be necessary to carry outthis subpart, including rules and regulations relating to the order of priority in approving applications for construction projects and relating to determining the amount of each grant for such projects.
 
 #### (f) Minorities and women
 
@@ -80,11 +80,11 @@ Subsec. (a)(2) to (4). Pub. L. 90–129, §103(b)(5), struck out “television�
 
 Subsec. (a)(5). Pub. L. 90–129, §103(b)(6), added par. (5).
 
-Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 81/2 per centum of fiscal year appropriation for former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
+Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 81/2 per centum of fiscal year appropriationfor former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
 
 Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. (1), restricted such provisions to noncommercial educational television broadcasting facilities, and added par. (2).
 
-Subsec. (d). Pub. 90–129, §103(d), inserted in cls. (2) and (3) “noncommercial” and “or noncommercial educational radio broadcasting facilities, as the case may be,” before and after “educational television broadcasting facilities”, respectively.
+Subsec. (d). Pub. L. 90–129, §103(d), inserted in cls. (2) and (3) “noncommercial” and “or noncommercial educational radio broadcasting facilities, as the case may be,” before and after “educational television broadcasting facilities”, respectively.
 
 Subsec. (e). Pub. L. 90–129, §104, increased the maximum Federal share in the cost of constructing educational broadcasting facilities from 50 to 75 percent, eliminated the additional credit, formerly allowed the grantee, of 25 percent of the cost of facilities owned by the applicant on the date his application is filed, eliminated the prohibition against using not more than 15 percent of a grant for the acquisition and installation of interconnection facilities, microwave equipment, boosters, translators, and repeaters, and provided for payment of cost of the project from the sum available therefor.
 

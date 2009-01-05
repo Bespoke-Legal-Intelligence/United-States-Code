@@ -6,7 +6,7 @@
 
 (2) All information reported to or otherwise obtained by the Commission or its representative under this Act which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18 or subject to section 552(b)(4) of title 5 shall be considered confidential and shall not be disclosed.
 
-(3) The Commission shall, prior to the disclosure of any information which will permit the public to ascertain readily the identity of a manufacturer or private labeler of a consumer product, offer such manufacturer or private labeler an opportunity to mark such information as confidential and therefore barred from disclosure under paragraph (2).
+(3) The Commission shall, prior to the disclosure of any information which will permit the public to ascertain readily the identity of a manufacturer or private labeler of a consumer product, offer such manufacturer or private labeler an opportunity to mark such information as confidential and therefore barred from disclosure under paragraph (2). A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer.
 
 (4) All information that a manufacturer or private labeler has marked to be confidential and barred from disclosure under paragraph (2), either at the time of submission or pursuant to paragraph (3), shall not be disclosed, except in accordance with the procedures established in paragraphs (5) and (6).
 
@@ -26,23 +26,35 @@
 
 #### (b) Additional disclosure requirements for manufacturers or private labelers; procedures applicable
 
-(1) Except as provided by paragraph (4) of this subsection, not less than 30 days prior to its public disclosure of any information obtained under this Act, or to be disclosed to the public in connection therewith (unless the Commission finds that the public health and safety requires a lesser period of notice and publishes such a finding in the Federal Register), the Commission shall, to the extent practicable, notify and provide a summary of the information to, each manufacturer or private labeler of any consumer product to which such information pertains, if the manner in which such consumer product is to be designated or described in such information will permit the public to ascertain readily the identity of such manufacturer or private labeler, and shall provide such manufacturer or private labeler with a reasonable opportunity to submit comments to the Commission in regard to such information. The Commission shall take reasonable steps to assure, prior to its public disclosure thereof, that information from which the identity of such manufacturer or private labeler may be readily ascertained is accurate, and that such disclosure is fair in the circumstances and reasonably related to effectuating the purposes of this Act. In disclosing any information under this subsection, the Commission may, and upon the request of the manufacturer or private labeler shall, include with the disclosure any comments or other information or a summary thereof submitted by such manufacturer or private labeler to the extent permitted by and subject to the requirements of this section.
+(1) Except as provided by paragraph (4) of this subsection, not less than 15 days prior to its public disclosure of any information obtained under this Act, or to be disclosed to the public in connection therewith (unless the Commission publishes a finding that the public health and safety requires a lesser period of notice), the Commission shall, to the extent practicable, notify and provide a summary of the information to, each manufacturer or private labeler of any consumer product to which such information pertains, if the manner in which such consumer product is to be designated or described in suchinformation will permit the public to ascertain readily the identity of such manufacturer or private labeler, and shall provide such manufacturer or private labeler with a reasonable opportunity to submit comments to the Commission in regard to such information. The Commission shall take reasonable steps to assure, prior to its public disclosure thereof, that information from which the identity of such manufacturer or private labeler may be readily ascertained is accurate, and that such disclosure is fair in the circumstances and reasonably related to effectuating the purposes of this Act. In disclosing any information under this subsection, the Commission may, and upon the request of the manufacturer or private labeler shall, include with the disclosure any comments or other information or a summary thereof submitted by such manufacturer or private labeler to the extent permitted by and subject to the requirements of this section.
 
-(2) If the Commission determines that a document claimed to be inaccurate by a manufacturer or private labeler under paragraph (1) should be disclosed because the Commission believes it has complied with paragraph (1), the Commission shall notify the manufacturer or private labeler that the Commission intends to disclose such document at a date not less than 10 days after the date of the receipt of notification. The Commission may provide a lesser period of notice of intent to disclose if the Commission finds that the public health and safety requires a lesser period of notice and publishes such finding in the Federal Register.
+(2) If the Commission determines that a document claimed to be inaccurate by a manufacturer or private labeler under paragraph (1) should be disclosed because the Commission believes it has complied with paragraph (1), the Commission shall notify the manufacturer or private labeler that the Commission intends to disclose such document at a date not less than 5 days after the date of the receipt of notification. The Commission may provide a lesser period of notice of intent to disclose if the Commission publishes a finding that the public health and safety requires a lesser period of notice.
 
-(3) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin such disclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
+(3)(A) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin such disclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
 
-(4) Paragraphs (1) through (3) of this subsection shall not apply to the public disclosure of (A) information about any consumer product with respect to which product the Commission has filed an action under section 2061 of this title (relating to imminently hazardous products), or which the Commission has reasonable cause to believe is in violation of section 2068 of this title (relating to prohibited acts); or (B) information in the course of or concerning a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this Act.
+(B) If the Commission determines that the public health and safety requires expedited consideration of an action brought under subparagraph (A), the Commission may file a request with the District Court for such expedited consideration. If the Commission files such a request, the District Court shall—
+
+&emsp;(i) assign the matter for hearing at the earliest possible date;
+
+&emsp;(ii) give precedence to the matter, to the greatest extent practicable, over all other matters pending on the docket of the court at the time;
+
+&emsp;(iii) expedite consideration of the matter to the greatest extent practicable; and
+
+&emsp;(iv) grant or deny the requested injunction within 30 days after the date on which the Commission's request was filed with the court.
+
+(4) Paragraphs (1) through (3) of this subsection shall not apply to the public disclosure of (A) information about any consumer product with respect to which product the Commission has filed an action under section 2061 of this title (relating to imminently hazardous products), or which the Commission has reasonable cause to believe is in violation of any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission; or (B) information in the course of or concerning a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this Act.
 
 (5) In addition to the requirements of paragraph (1), the Commission shall not disclose to the public information submitted pursuant to section 2064(b) of this title respecting a consumer product unless—
 
 &emsp;(A) the Commission has issued a complaint under section 2064(c) or (d) of this title alleging that such product presents a substantial product hazard;
 
-&emsp;(B) in lieu of proceeding against such product under section 2064(c) or (d) of this title, the Commission has accepted in writing a remedial settlement agreement dealing with such product; or
+&emsp;(B) in lieu of proceeding against such product under section 2064(c) or (d) of this title, the Commission has accepted in writing a remedial settlement agreement dealing with such product;
 
-&emsp;(C) the person who submitted the information under section 2064(b) of this title agrees to its public disclosure.
+&emsp;(C) the person who submitted the information under section 2064(b) of this title agrees to its public disclosure; or
 
-> The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonable cause to believe is in violation of section 2068(a) of this title, or information in the course of or concerning a judicial proceeding.
+&emsp;(D) the Commission publishes a finding that the public health and safety requires public disclosure with a lesser period of notice than is required under paragraph (1).
+
+> The provisions of this paragraph shall not apply to the public disclosure of information with respect to a consumer product which is the subject of an action brought under section 2061 of this title, or which the Commission has reasonable cause to believe is in violation of any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission, or information in the course of or concerning a judicial proceeding.
 
 (6) Where the Commission initiates the public disclosure of information that reflects on the safety of a consumer product or class of consumer products, whether or not such information would enable the public to ascertain readily the identity of a manufacturer or private labeler, the Commission shall establish procedures designed to ensure that such information is accurate and not misleading.
 
@@ -74,11 +86,11 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 (3) The Commission may, upon written request, furnish to any manufacturer or to the authorized agent of such manufacturer authenticated copies of reports furnished by or on behalf of such manufacturer in accordance with section 2084 of this title, upon payment of the actual or estimated cost of searching the records and furnishing such copies.
 
-(4) Upon written request of the Chairman or Ranking Minority Member of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee, the Commission shall provide to the Chairman or Ranking Minority Member any information furnished to the Commission under section 2084 of this title for purposes that are related to the jurisdiction of such committee or subcommittee.
+(4) Upon written request of the Chairman or Ranking Minority Member of either of the appropriate Congressional committees or any subcommittee thereof, the Commission shall provide to the Chairman or Ranking Minority Member any information furnished to the Commission under section 2084 of this title for purposes that are related to the jurisdiction of such committee or subcommittee.
 
 (5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
-(Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116.)
+(Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116; Pub. L. 110–314, title II, §§211, 235(c)(2), Aug. 14, 2008, 122 Stat. 3047, 3074.)
 
 #### References in Text
 
@@ -91,6 +103,20 @@ The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably mea
 The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer.” after “paragraph (2).”
+
+Subsec. (b)(1). Pub. L. 110–314, §211(2)–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
+
+Subsec. (b)(2). Pub. L. 110–314, §211(5)–(7), substituted “5 days” for “10 days”, “publishes a finding that the public” for “finds that the public”, and “notice.” for “notice and publishes such finding in the Federal Register.”
+
+Subsec. (b)(3). Pub. L. 110–314, §211(8), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (b)(4). Pub. L. 110–314, §211(9), which directed substitution of “any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission;” for “section 2068 of this title (related to prohibited acts);”, was executed by making the substitution for “section 2068 of this title (relating to prohibited acts);” to reflect the probable intent of Congress.
+
+Subsec. (b)(5). Pub. L. 110–314, §211(10)–(13), added subpar. (D) and substituted “any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission,” for “section 2068(a) of this title,” in concluding provisions.
+
+Subsec. (e)(4). Pub. L. 110–314, §235(c)(2), substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee onCommerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
 
 1990—Subsec. (a)(8). Pub. L. 101–608, §106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
 
@@ -111,10 +137,6 @@ Subsec. (b)(2) to (4). Pub. L. 97–35 added pars. (2) and (3), redesignated for
 Subsec. (b)(5) to (8). Pub. L. 97–35 added pars. (5) to (8).
 
 Subsecs. (c), (d). Pub. L. 97–35 reenacted subsec. (c) without change and added subsec. (d).
-
-#### Change of Name
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 

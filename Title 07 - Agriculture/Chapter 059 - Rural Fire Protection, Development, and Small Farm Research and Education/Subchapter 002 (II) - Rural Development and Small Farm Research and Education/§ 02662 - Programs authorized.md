@@ -8,7 +8,7 @@ Rural development extension programs shall consist of the collection, interpreta
 
 #### (b) Rural development research
 
-Rural development research shall consist of research, investigations, and basic feasibilitystudies in any field or discipline that may develop principles, facts, scientific and technical knowledge, new technology, and other information that may be useful to agencies of Federal, State, and local government, industries in rural areas, Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, and other organizations involved in community and rural development programs and activities in planning and carrying out such programs and activities or otherwise be practical and useful in achieving the purposes and goals of this subchapter.
+Rural development research shall consist of research, investigations, and basic feasibility studies in any field or discipline that may develop principles, facts, scientific and technical knowledge, new technology, and other information that may be useful to agencies of Federal, State, and local government, industries in rural areas, Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, and other organizations involved in community and rural development programs and activities in planning and carrying out such programs and activities or otherwise be practical and useful in achieving the purposes and goals of this subchapter.
 
 #### (c) Small farm research programs
 
@@ -154,13 +154,21 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a),Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
+(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L.102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180; Pub. L. 110–234, title VII, §7511(c)(6), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(6), June 18, 2008, 122 Stat. 1664, 2029.)
+
+#### Amendment of Subsection (h)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (h) of this section is amended, in paragraph (1), by substituting “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions and, in paragraph (4), by substituting “National Institute of Food and Agriculture staff” for “Extension Service staff”.</i>
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -236,13 +244,19 @@ Pub. L. 101–624, §2390(b)(1), added subsec. (h) relating to rural health and 
 
 &emsp;“(iv) implement financial planning and management strategies; and
 
-&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such asreentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
+&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such as reentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
 
 “(C) The Secretary also may provide support to mental health officials in developing outreach programs in rural areas.
 
 “(2) Grants may be made under paragraph (1) during the period beginning on December 23, 1985, and ending 3 years after such date.”
 
 1985—Subsec. (f). Pub. L. 99–198 added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(6) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 #### Effective Date
 

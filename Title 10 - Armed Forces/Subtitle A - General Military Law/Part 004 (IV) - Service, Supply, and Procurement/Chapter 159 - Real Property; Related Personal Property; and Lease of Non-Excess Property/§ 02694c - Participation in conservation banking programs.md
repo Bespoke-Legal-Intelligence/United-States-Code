@@ -1,0 +1,40 @@
+### §2694c. Participation in conservation banking programs
+
+(a)
+
+Authority to Participate.—Subject to the availability of appropriated funds to carry out this section, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
+
+&emsp;(1) the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605; November 28, 1995);
+
+&emsp;(2) the Guidance for the Establishment, Use, and Operation of Conservation Banks (68 Fed. Reg. 24753; May 2, 2003);
+
+&emsp;(3) the Federal Guidance on the Use of In-Lieu-Fee Arrangements for Compensatory Mitigation Under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act (65 Fed. Reg. 66915; November 7, 2000); or
+
+&emsp;(4) any successor or related administrative guidance or regulation.
+
+(b)
+
+Covered Activities.—Payments to a conservation banking program or “in-lieu-fee” mitigation sponsor under subsection (a) may be made only for the purpose of facilitating one or more of the following activities:
+
+&emsp;(1) Military testing, operations, training, or other military activity.
+
+&emsp;(2) Military construction.
+
+(c)
+
+Treatment of Amounts for Conservation Banking.—Payments made under subsection (a) to a conservation banking program or “in-lieu-fee” mitigation sponsor for the purpose of facilitating military construction may be treated as eligible costs of the military construction project.
+
+(d)
+
+Secretary Concerned Defined.—In this section, the term “Secretary concerned” means—
+
+&emsp;(1) the Secretary of a military department; and
+
+&emsp;(2) the Secretary of Defense with respect to a Defense Agency.
+
+(Added Pub. L. 110–417, \[div. A\], title III, §311(a), Oct. 14, 2008, 122 Stat. 4408.)
+
+#### Effective Date
+
+Pub. L. 110–417, \[div. A\], title III, §311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
+

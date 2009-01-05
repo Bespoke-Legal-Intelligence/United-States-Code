@@ -10,7 +10,7 @@ The conservation area shall consist of the public lands generally depicted on a 
 
 #### (c) Map
 
-As soon as practicable after November 28, 1990, a map and legal description of the conservation area shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
+As soon as practicable after November 28, 1990, a map and legal description of the conservationarea shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
 
 #### (d) Management of conservation area
 
@@ -50,7 +50,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (2) The Secretary is authorized to adjust the boundaries of the conservation area so as to incorporate within the conservation area any lands or interests within the Eagle Creek riparian area that may be acquired after November 28, 1990, as well as public lands within that portion of the Eagle Creek riparian area west of the centerline of Eagle Creek that the Secretary finds appropriate in order to properly manage such acquired lands as part of the conservation area. Any lands or interests so incorporated shall be managed as part of the conservation area.
 
-(3) No lands or interests therein owned by the State of Arizona or any political subdivision of such State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
+(3) No lands or interests therein owned by the State of Arizona or any political subdivision ofsuch State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
 
 #### (i) No buffer zones
 
@@ -76,7 +76,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct.21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The public land laws, referred to in subsec. (e), are classified generally to Title 43.
 

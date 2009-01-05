@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) assistance to international organizations and host governments in maintaining security by screening refugees to ensure the exclusion of armed combatants, members of foreign terrorist organizations, and other individuals not eligible for economic assistance from the United States; and
 
-&emsp;&emsp;(D) assistance for voluntary refugee repatriation and reintegration inside Afghanistan and continued assistance to those refugees who are unable or unwilling to return, and humanitarian assistance to internally displaced persons, including those persons who need assistance to return to theirhomes, through the United Nations High Commissioner for Refugees and other organizations charged with providing such assistance.
+&emsp;&emsp;(D) assistance for voluntary refugee repatriation and reintegration inside Afghanistan and continued assistance to those refugees who are unable or unwilling to return, and humanitarian assistance to internally displaced persons, including those persons who need assistance to return to their homes, through the United Nations High Commissioner for Refugees and other organizations charged with providing such assistance.
 
 #### (3) Counternarcotics efforts
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan bycreating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(vii) support for international organizations that provide civil advisers to the Government of Afghanistan; and
 
-&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
+&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents ofsuch regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
 
 #### (C) Civil society and democracy
 
@@ -274,7 +274,35 @@ Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Declarations of policy
+#### Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan
+
+Pub. L. 110–417, \[div. A\], title XII, §1215, Oct. 14, 2008, 122 Stat. 4632, provided that:
+
+“(a)
+
+In General.—The President, acting through the Secretary of Defense and the Secretary of State, shall develop and implement a system to monitor the performance of United States-led Provincial Reconstruction Teams (PRTs) in Afghanistan.
+
+“(b)
+
+Elements of Performance Monitoring System.—The performance monitoring system required under subsection (a) shall include—
+
+&emsp;“(1) PRT-specific work plans that incorporate the long-term strategy, mission, and clearly defined objectives required by section 1230(c)(3) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 386), and include plans for developing the capacity of national, provincial, and local government and other civil institutions in Afghanistan to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities; and
+
+&emsp;“(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
+
+“(c)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the President shall submit to the appropriate congressional committees a report on the implementation of the performance monitoring system required under subsection (a).
+
+“(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;“(2) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate.”
+
+#### Declarations of Policy
 
 Pub. L. 108–458, title VII, §7104(e)(1)(A), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress reaffirms the authorities contained in title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 \[7511\] et seq.), relating to economic and democratic development assistance for Afghanistan.”
 

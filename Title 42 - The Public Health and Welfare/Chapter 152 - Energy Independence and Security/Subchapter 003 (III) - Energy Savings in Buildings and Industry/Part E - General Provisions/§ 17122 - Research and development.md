@@ -30,7 +30,7 @@ The Federal Director and the Commercial Director, jointly and in coordination wi
 
 &emsp;&emsp;&emsp;(ix) other issues relating to the health, comfort, productivity, and performance of occupants of the building;
 
-&emsp;&emsp;(B) promotes the development and dissemination of high-performance green building measurement tools that, at a minimum, may be used—
+&emsp;&emsp;(B) promotes the development and dissemination of high-performance green buildingmeasurement tools that, at a minimum, may be used—
 
 &emsp;&emsp;&emsp;(i) to monitor and assess the life-cycle performance of facilities (including demonstration projects) built as high-performance green buildings; and
 

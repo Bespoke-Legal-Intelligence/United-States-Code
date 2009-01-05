@@ -32,7 +32,7 @@ The services referred to in subsection (a) of this section are—
 
 &emsp;&emsp;(B) providing assistance in obtaining and coordinating social and maintenance services for the eligible homeless individuals, including services relating to daily living activities, personal financial planning, transportation services, and habilitation and rehabilitation services, prevocational and vocational services, and housing services;
 
-&emsp;&emsp;(C) providing assistance to the eligible homeless individual in obtaining income support services, including housing assistance, food stamps, and supplemental security income benefits;
+&emsp;&emsp;(C) providing assistance to the eligible homeless individual in obtaining income support services, including housing assistance, supplemental nutrition assistance program benefits, and supplemental security income benefits;
 
 &emsp;&emsp;(D) referring the eligible homeless individual for such other services as may be appropriate; and
 
@@ -102,11 +102,15 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191.)
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(U), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(U), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -114,7 +118,15 @@ A prior section 522 of act July 1, 1944, was renumbered section 543 by section 6
 
 #### Amendments
 
+2008—Subsec. (b)(7)(C). Pub. L. 110–246, §4002(b)(1)(E), (2)(U), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+
 2000—Subsec. (i). Pub. L. 106–310 added subsec. (i).
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to purpose of grants for provisions relating to requirement of submission of application containing certain agreements.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(E), (2)(U) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

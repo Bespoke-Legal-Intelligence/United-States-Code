@@ -8,7 +8,7 @@
 
 #### (b) Report to Congress
 
-The Administrator shall report to the Congress the findings and results of the study conducted under subsection (a) of this section not later than two years after August 7, 1977. Such report shall also include recommendations for standards or methods to regulate particulateemissions described in paragraph (2) of subsection (a) of this section.
+The Administrator shall report to the Congress the findings and results of the study conducted under subsection (a) of this section not later than two years after August 7, 1977. Such report shall also include recommendations for standards or methods to regulate particulate emissions described in paragraph (2) of subsection (a) of this section.
 
 (July 14, 1955, ch. 360, title II, §214, as added Pub. L. 95–95, title II, §224(d), Aug. 7, 1977, 91 Stat. 767.)
 
@@ -22,5 +22,5 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 
 #### Study on Suspended Particulate Matter
 
-Section 403(a) of Pub. L. 95–95 directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, in cooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
+Section 403(a) of Pub. L. 95–95 directed Administrator of EPA, not later than 18 months after Aug. 7, 1977, incooperation with National Academy of Sciences, to study and report to Congress on relationship between size, weight, and chemical composition of suspended particulate matter and nature and degree of endangerment to public health or welfare presented by such particulate matter and availability of technology for controlling such particulate matter.
 

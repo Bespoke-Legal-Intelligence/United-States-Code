@@ -20,7 +20,7 @@ In order to carry out the purposes of section 1311 of this title, the Administra
 
 #### (d) Accelerated and priority development of waste management and waste treatment methods and identification and measurement methods
 
-In carrying out the provisions of this section, the Administrator shall conduct, on a prioritybasis, an accelerated effort to develop, refine, and achieve practical application of:
+In carrying out the provisions of this section, the Administrator shall conduct, on a priority basis, an accelerated effort to develop, refine, and achieve practical application of:
 
 &emsp;(1) waste management methods applicable to point and nonpoint sources of pollutants to eliminate the discharge of pollutants, including, but not limited to, elimination of runoff of pollutants and the effects of pollutants from inplace or accumulated sources;
 

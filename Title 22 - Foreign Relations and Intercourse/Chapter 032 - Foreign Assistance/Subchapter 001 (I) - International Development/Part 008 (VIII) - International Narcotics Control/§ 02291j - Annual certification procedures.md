@@ -34,13 +34,13 @@
 
 &emsp;If the President makes a certification with respect to a country pursuant to paragraph (1)(B), the President shall include in such certification—
 
-&emsp;&emsp;(A) a full and complete description of the vital national interests placed at risk if United States bilateral assistance to thatcountry is terminated pursuant to this section and multilateral development bank assistance is not provided to such country; and
+&emsp;&emsp;(A) a full and complete description of the vital national interests placed at risk if United States bilateral assistance to that country is terminated pursuant to this section and multilateral development bank assistance is not provided to such country; and
 
 &emsp;&emsp;(B) a statement weighing the risk described in subparagraph (A) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
 #### (c) Licit opium producing countries
 
-The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, or major drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and production into the illicit markets and to prevent illicit cultivation and production.
+The President may make a certification under subsection (b)(1)(A) of this section with respect to a major illicit drug producing country, or major drug-transit country, that is a producer of licit opium only if the President determines that such country maintains licit production and stockpiles at levels no higher than those consistent with licit market demand, and has taken adequate steps to prevent significant diversion of its licit cultivation and productioninto the illicit markets and to prevent illicit cultivation and production.
 
 #### (d) Congressional review
 
@@ -100,7 +100,7 @@ Subsec. (a)(2). Pub. L. 109–177, §722(b)(2), inserted “or country identifie
 
 1995—Pub. L. 104–66, §1112(d)(1), struck out “for fiscal year 1995” after “certification procedures” in section catchline.
 
-Subsec. (i). Pub. L. 104–66, §1112(d)(2), struck out heading and text of subsec. (i). Text read as follows:“This section applies only during fiscal year 1995. Section 2291k of this title does not apply during that fiscal year.”
+Subsec. (i). Pub. L. 104–66, §1112(d)(2), struck out heading and text of subsec. (i). Text read as follows: “This section applies only during fiscal year 1995. Section 2291k of this title does not apply during that fiscal year.”
 
 1994—Pub. L. 103–447, §101(g)(1)(A), substituted “for fiscal year 1995” for “for fiscal years 1993 and 1994” in section catchline.
 

@@ -56,7 +56,7 @@ The duties of the Director shall include the following:
 
 &emsp;(9) To coordinate with the Secretary to promote and provide for the coordination of research and development activities and technical assistance activities between the Institute and comprehensive centers.
 
-&emsp;(10) To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educationalfield in the planning and carrying out of the Institute's activities.
+&emsp;(10) To solicit and consider the recommendations of education stakeholders, in order to ensure that there is broad and regular public and professional input from the educational field in the planning and carrying out of the Institute's activities.
 
 &emsp;(11) To coordinate the wide dissemination of information on scientifically valid research.
 

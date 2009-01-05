@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (d) Working condition fringe defined
 
-For purposes of this section, the term “working condition fringe” means any property orservices provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
+For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
 
 #### (e) De minimis fringe defined
 
@@ -104,13 +104,17 @@ For purposes of this section—
 
 &emsp;&emsp;(C) Qualified parking.
 
+&emsp;&emsp;(D) Any qualified bicycle commuting reimbursement.
+
 #### (2) Limitation on exclusion
 
 &emsp;The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
 
-&emsp;&emsp;(A) $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1), and
+&emsp;&emsp;(A) $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
 
-&emsp;&emsp;(B) $175 per month in the case of qualified parking.
+&emsp;&emsp;(B) $175 per month in the case of qualified parking, and
+
+&emsp;&emsp;(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
 
 #### (3) Cash reimbursements
 
@@ -118,7 +122,7 @@ For purposes of this section—
 
 #### (4) No constructive receipt
 
-&emsp;No amount shall be included in the gross income of an employee solely because the employee may choose between any qualified transportation fringe and compensation which would otherwise be includible in gross income of such employee.
+&emsp;No amount shall be included in the gross income of an employee solely because the employee may choose between any qualified transportation fringe (other than a qualified bicycle commuting reimbursement) and compensation which would otherwise be includible in gross income of such employee.
 
 #### (5) Definitions
 
@@ -155,6 +159,24 @@ For purposes of this section—
 #### (E) Employee
 
 &emsp;&emsp;For purposes of this subsection, the term “employee” does not include an individual who is an employee within the meaning of section 401(c)(1).
+
+#### (F) Definitions related to bicycle commuting reimbursement
+
+#### (i) Qualified bicycle commuting reimbursement
+
+&emsp;&emsp;&emsp;The term “qualified bicycle commuting reimbursement” means, with respect to any calendar year, any employer reimbursement during the 15-month period beginning with the first day of such calendar year for reasonable expenses incurred by the employee during such calendar year for the purchase of a bicycle and bicycle improvements, repair, and storage, if such bicycle is regularly used for travel between the employee's residence and place of employment.
+
+#### (ii) Applicable annual limitation
+
+&emsp;&emsp;&emsp;The term “applicable annual limitation” means, with respect to any employee for any calendar year, the product of $20 multiplied by the number of qualified bicycle commuting months during such year.
+
+#### (iii) Qualified bicycle commuting month
+
+&emsp;&emsp;&emsp;The term “qualified bicycle commuting month” means, with respect to any employee, any month during which such employee—
+
+&emsp;&emsp;&emsp;&emsp;(I) regularly uses the bicycle for a substantial portion of the travel between the employee's residence and place of employment, and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not receive any benefit described in subparagraph (A), (B), or (C) of paragraph (1).
 
 #### (6) Inflation adjustment
 
@@ -356,11 +378,11 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841.)
 
-#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2008, see section 3.13 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -371,6 +393,14 @@ The date of the enactment of this subsection, referred to in subsec. (n), is the
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+2008—Subsec. (f)(1)(D). Pub. L. 110–343, §211(a), added subpar. (D).
+
+Subsec. (f)(2)(C). Pub. L. 110–343, §211(b), added subpar. (C).
+
+Subsec. (f)(4). Pub. L. 110–343, §211(d), inserted “(other than a qualified bicycle commuting reimbursement)” after “qualified transportation fringe”.
+
+Subsec. (f)(5)(F). Pub. L. 110–343, §211(c), added subpar. (F).
 
 2004—Subsec. (h)(2)(B). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” in introductory provisions.
 
@@ -467,6 +497,10 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title II, §211(e), Oct. 3, 2008, 122 Stat. 3841, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
 #### Effective Date of 2004 Amendment
 
@@ -570,7 +604,7 @@ Section 13207(c) of Pub. L. 99–272, as amended by Pub. L. 99–514, §2, Oct. 
 
 &emsp;&emsp;“(A) was an employee (within the meaning of section 132 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], including subsection (f) \[now (h)\] thereof) of one member of an affiliated group (as defined in section 1504 of such Code), hereinafter referred to as the ‘first corporation’, and
 
-&emsp;&emsp;“(B) was eligible for no-additional-cost service in the form of air transportation provided by another member of such affiliated group, hereinafter referred to as the ‘second corporation’,
+&emsp;&emsp;“(B) was eligible for no-additional-cost service in the form of air transportation provided by anothermember of such affiliated group, hereinafter referred to as the ‘second corporation’,
 
 &emsp;“(2) at least 50 percent of the individuals performing service for the first corporation were or had been employees of, or had previously performed services for, the second corporation, and
 

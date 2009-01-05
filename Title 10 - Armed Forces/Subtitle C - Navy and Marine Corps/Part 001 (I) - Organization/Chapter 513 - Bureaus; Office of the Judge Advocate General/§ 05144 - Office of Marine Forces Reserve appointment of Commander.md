@@ -40,7 +40,7 @@ Annual Report.—(1) The Commander, Marine Forces Reserve, shall submit to the S
 
 #### Prior Provisions
 
-A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions ofthe Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
+A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Amendments
 

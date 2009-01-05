@@ -14,7 +14,7 @@ The first handler shall maintain a separate record on each producer's honey so h
 
 #### (c) Importers
 
-Except as otherwise provided in this section, at the time of entry of honey and honey products into the United States, an importer shall remit to the Honey Board through the United States Customs Service—
+Except as otherwise provided in this section, at the time of entry of honey and honey products into the United States, an importer shallremit to the Honey Board through the United States Customs Service—
 
 &emsp;(1) the assessment on the imported honey and honey products required under section 4606(e)(2)(B) of this title; or
 
@@ -88,7 +88,7 @@ Administration and remittance of the assessments under this chapter shall be con
 
 &emsp;(1) in the manner prescribed in the order and regulations issued under this chapter; and
 
-&emsp;(2) if approved in a referendum conducted under this chapter, in a manner that ensures that all honey and honey products are assessed a total of, but not more than, $0.015 per pound, including any producer or importer assessment.
+&emsp;(2) if approved in a referendum conducted under this chapter, in a manner that ensures that all honey and honey products are assesseda total of, but not more than, $0.015 per pound, including any producer or importer assessment.
 
 #### (i) Liability for assessments
 
@@ -146,5 +146,5 @@ Subsec. (i). Pub. L. 101–624, §1984(b)(5), added subsec. (i).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

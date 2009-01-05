@@ -14,7 +14,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 #### (b) Order of Commission; repair, replacement, or refund
 
-If any article or substance sold in commerce is defined as a banned hazardous substance (whether or not it was such at the time of its sale) and the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing) that action under this subsection is in the public interest, the Consumer Product Safety Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
+If any article or substance sold in commerce is defined as a banned hazardous substance (whether or not it was such at the time of its sale) and the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing) that action under this subsection is in the public interest, the Commission may order the manufacturer, distributor, or dealer to take whichever of the following actions the person to whom the order is directed elects:
 
 &emsp;(1) If repairs to or changes in the article or substance may be made so that it will not be a banned hazardous substance, to make such repairs or changes.
 
@@ -32,7 +32,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 #### (c) Discretionary remedial activities available to Commission; orders; contents
 
-(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and thatnotification is required to protect adequately the public from such toy or article, the Commission may order the manufacturer or any distributor or dealer of such toy or article to take any one or more of the following actions:
+(1) If the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (e) of this section) that any toy or other article intended for use by children that is not a banned hazardous substance contains a defect which creates a substantial risk of injury to children (because of the pattern of defect, the number of defective toys or such articles distributed in commerce, the severity of the risk, or otherwise) and that notification is required to protect adequately the public from such toy or article, the Commission may order the manufacturer or any distributor or dealer of such toy or article to take any one or more of the following actions:
 
 &emsp;(A) To give public notice that such defective toy or article contains a defect which creates a substantial risk of injury to children.
 
@@ -48,7 +48,7 @@ If any article or substance sold in commerce is defined as a banned hazardous su
 
 &emsp;(B) To replace such toy or article with a like or equivalent toy or article which does not contain a defect which creates a substantial risk of injury to children.
 
-&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph (1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
+&emsp;(C) To refund the purchase price of such toy or article (less a reasonable allowance for use, if such toy or article has been in the possession of the consumer for 1 year or more (i) at the time of public notice under paragraph\(1)(A), or (ii) at the time the consumer receives actual notice that the toy or article contains a defect which creates a substantial risk of injury to children, whichever first occurs).
 
 > An order under this paragraph may also require the person to whom it applies to submit a plan, satisfactory to the Commission, for taking the action which such person has elected to take. The Commission shall specify in the order the person to whom refunds must be made if the person to whom the order is directed elects to take the action described in subparagraph (C). If an order under this paragraph is directed to more than one person, the Commission shall specify which person has the election under this paragraph. An order under this paragraph may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, with respect to the toy or article with respect to which the order was issued.
 
@@ -70,13 +70,15 @@ For purposes of this section (1) the term “manufacturer” includes an importe
 
 Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
-(Pub. L. 86–613, §15, as added Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, §1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, §9(<i>l</i>), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, §2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, §1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §111(b), Nov. 16, 1990, 104 Stat. 3114.)
+(Pub. L. 86–613, §15, as added Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, §1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, §9(<i>l</i>), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, §2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, §1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §111(b), Nov. 16, 1990, 104 Stat. 3114; Pub. L. 110–314, title II, §204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–314 substituted “Commission may order” for “Consumer Product Safety Commission may order” in introductory provisions.
 
 1990—Subsec. (g). Pub. L. 101–608 added subsec. (g).
 

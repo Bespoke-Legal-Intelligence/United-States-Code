@@ -10,7 +10,7 @@
 
 (2) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount obligated from that appropriation during a fiscal year for that program, project, or activity to exceed $25,000,000, the obligation may not be made until—
 
-&emsp;(A) the head of the agency submits to the appropriate authorizing committees of Congress and the Committees on Appropriations of the Senate and the House of Representatives a notice in writing of the intent to obligate such funds, together with a description of the legal basis for the proposed obligation and the policy reasons for the proposed obligation; and
+&emsp;(A) the head of the agency submits to the appropriate authorizing committees of Congress and the Committees on Appropriations of theSenate and the House of Representatives a notice in writing of the intent to obligate such funds, together with a description of the legal basis for the proposed obligation and the policy reasons for the proposed obligation; and
 
 &emsp;(B) a period of 30 days has elapsed after the notice is submitted.
 
@@ -52,7 +52,7 @@ In subsection (b), the words “Comptroller General” are substituted for “Co
 
 1990—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
 
-“(a) Each appropriation account established under section 1552 of this title is accounted for separately andremains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
+“(a) Each appropriation account established under section 1552 of this title is accounted for separately and remains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
 
 “(b) Under regulations prescribed by the Comptroller General, obligations under subsection (a) of this section may be paid without prior action of the Comptroller General. However, this subchapter does not—
 

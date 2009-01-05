@@ -6,7 +6,7 @@ For the purpose of providing services described in section 300ff–22(a) of this
 
 &emsp;(1) whose applications under section 300ff–27 of this title have demonstrated the need in the State, on an objective and quantified basis, for supplemental financial assistance to provide such services; and
 
-&emsp;(2) that did not, for the most recent grant year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(G)(i) <sup>1</sup> of this title for which data is available, have more than 2 percent of grant funds under such sections canceled or covered by any waivers under section 300ff–31a(c) of this title.
+&emsp;(2) that did not, for the most recent grant year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(G)(i) <sup>1</sup> of this title for which data is available, have more than 2 percent of grantfunds under such sections canceled or covered by any waivers under section 300ff–31a(c) of this title.
 
 #### (b) Demonstrated need
 
@@ -30,7 +30,7 @@ The factors considered by the Secretary in determining whether an eligible area 
 
 &emsp;(9) The relevant factors that limit access to health care, including geographic variation, adequacy of health insurance coverage, and language barriers.
 
-&emsp;(10) The impact of a decline in the amount received pursuant to section 300ff–28 of thistitle on services available to all individuals with HIV/AIDS identified and eligible under this subchapter.
+&emsp;(10) The impact of a decline in the amount received pursuant to section 300ff–28 of this title on services available to all individuals with HIV/AIDS identified and eligible under this subchapter.
 
 #### (c) Priority in making grants
 

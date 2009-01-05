@@ -54,7 +54,7 @@ Section 511(b) of Pub. L. 95–600 provided that: “The amendment made by subse
 
 #### Effective Date of 1976 Amendment
 
-Section 2002(d)(3) of Pub. L. 94–455 provided that: “The amendment made by subsection (c) \[amending this section and section 2515 of this title\] shall apply to joint interests created after December 31, 1976.”
+Section 2002(d)(3) of Pub. L. 94–455 provided that: “The amendment made by subsection (c) \[amendingthis section and section 2515 of this title\] shall apply to joint interests created after December 31, 1976.”
 
 #### Effective Date of 1962 Amendment
 

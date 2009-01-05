@@ -8,13 +8,25 @@ In this part—
 
 &emsp;&emsp;(B) when space is available, of used unoccupied vehicles.
 
-&emsp;(2) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) <sup>1</sup> of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
+&emsp;(2) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
 
-&emsp;(3) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
+&emsp;(3) “commuter rail passenger transportation” means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
 
-&emsp;(4) “commuter rail passenger transportation” means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
+&emsp;(4) “intercity rail passenger transportation” means rail passenger transportation, except commuter rail passenger transportation.
 
-&emsp;(5) “intercity rail passenger transportation” means rail passenger transportation, except commuter rail passenger transportation.
+&emsp;(5) “national rail passenger transportation system” means—
+
+&emsp;&emsp;(A) the segment of the continuous Northeast Corridor railroad line between Boston, Massachusetts, and Washington, District of Columbia;
+
+&emsp;&emsp;(B) rail corridors that have been designated by the Secretary of Transportation as high-speed rail corridors (other than corridors described in subparagraph (A)), but only after regularly scheduled intercity service over a corridor has been established;
+
+&emsp;&emsp;(C) long-distance routes of more than 750 miles between endpoints operated by Amtrak as of the date of enactment of the Passenger Rail Investment and Improvement Act of 2008; and
+
+&emsp;&emsp;(D) short-distance corridors, or routes of not more than 750 miles between endpoints, operated by—
+
+&emsp;&emsp;&emsp;(i) Amtrak; or
+
+&emsp;&emsp;&emsp;(ii) another rail carrier that receives funds under chapter 244.
 
 &emsp;(6) “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
 
@@ -24,7 +36,7 @@ In this part—
 
 &emsp;(9) “regional transportation authority” means an entity established to provide passenger transportation in a region.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909.)
 
 Historical and Revision Notes
 
@@ -112,7 +124,7 @@ Feb. 5, 1976, Pub. L. 94–210, §701(c), 90 Stat. 120.
 
 45:502(16).
 
-In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of 45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words “characterized by transportation” are omitted as surplus.
+In clause (1), before subclause (A), the text of 45:502(1), (2), and (10) is omitted as surplus. The text of45:502(6), (7), (12), (14), and (18) is omitted because the complete names of the Performance Evaluation Center, Interstate Commerce Commission, Railroad Safety System Program, Technical Assistance Panel, and Secretary of Transportation are used the first time the terms appear in a section. The words “characterized by transportation” are omitted as surplus.
 
 In clause (3), the text of 45:502(5)(A) and the words “on and after October 1, 1979” are omitted as obsolete. Reference to 45:564(e) is omitted as obsolete because 45:564(e) was repealed by section 1183(d) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 697).
 
@@ -126,11 +138,11 @@ Clause (9) is added to eliminate repetition of the words “fares or charges” 
 
 #### References in Text
 
-Section 4 of the Amtrak Improvement Act of 1978, referred to in par. (2), is section 4 of Pub. L. 95–421, which was set out as a note under section 521 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
-
-Section 24705 of this title, referred to in par. (2), was repealed by Pub. L. 105–134, title I, §104, Dec. 2, 1997, 111 Stat. 2573.
+The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in par. (5)(C), is the date of enactment of div. B of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
+
+2008—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “ ‘basic system’ means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.”
 
 1997—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “ ‘avoidable loss’ means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.”
 
@@ -139,6 +151,4 @@ Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and ins
 Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
 
 Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: “ ‘route and service criteria’ means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

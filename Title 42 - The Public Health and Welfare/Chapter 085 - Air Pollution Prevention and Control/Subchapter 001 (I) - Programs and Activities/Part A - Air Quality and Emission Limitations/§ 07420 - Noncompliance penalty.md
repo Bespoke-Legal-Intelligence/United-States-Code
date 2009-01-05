@@ -20,7 +20,7 @@
 
 > For purposes of subsection (d)(2) of this section, in the case of a penalty assessed with respect to a source referred to in clause (iii) of this subparagraph, the costs referred to in such subsection (d)(2) shall be the economic value of noncompliance with the interim emission control requirement or the remaining steps in the schedule of compliance referred to in such clause.
 
-(B) Notwithstanding the requirements of subparagraph (A)(i) and (ii), the owner or operator of any source shall be exempted from the duty to pay a noncompliance penalty under such requirements with respect to that source if, in accordance with the procedures in subsection (b)(5) of this section, the owner or operator demonstrates that the failure of such source to comply with any such requirement is due solely to—
+(B) Notwithstanding the requirements of subparagraph (A)(i) and (ii), the owner or operatorof any source shall be exempted from the duty to pay a noncompliance penalty under such requirements with respect to that source if, in accordance with the procedures in subsection (b)(5) of this section, the owner or operator demonstrates that the failure of such source to comply with any such requirement is due solely to—
 
 &emsp;(i) a conversion by such source from the burning of petroleum products or natural gas, or both, as the permanent primary energy source to the burning of coal pursuant to an order under section 7413(d)(5) <sup>1</sup> of this title or section 1857c–10 <sup>1</sup> of this title (as in effect before August 7, 1977);
 
@@ -46,7 +46,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(A) the State does not have a delegation of authority in effect under subsection (a)(1)(B)(i) of this section, or
 
-&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particularperson or source to assess or collect the penalty in accordance with the requirements of this section;
+&emsp;&emsp;(B) the State has such a delegation in effect but fails with respect to any particular person or source to assess or collect the penalty in accordance with the requirements of this section;
 
 &emsp;(3) require the States, or in the event the States fail to do so, the Administrator, to give a brief but reasonably specific notice of noncompliance under this section to each person referred to in subsection (a)(2)(A) of this section with respect to each source owned or operated by such person which is not in compliance as provided in such subsection, not later than July 1, 1979, or thirty days after the discovery of such noncompliance, whichever is later;
 
@@ -62,7 +62,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;(7) require payment, in accordance with subsection (d) of this section, of the penalty by each person to whom notice of noncompliance is given under paragraph (3) with respect to each noncomplying source for which such notice is given unless there has been a final determination granting a petition under paragraph (4)(B) with respect to such source;
 
-&emsp;(8) authorize the State or the Administrator to adjust (and from time to time to readjust) the amount of the penalty assessment calculated or the payment schedule proposed by such owner or operator under paragraph (4), if the Administrator finds after notice and opportunity for a hearing on the record that the penalty or schedule does not meet the requirements of this section; and
+&emsp;(8) authorize the State or the Administrator to adjust (and from time to time to readjust) the amount of the penalty assessment calculated or the payment schedule proposed by such owner or operator under paragraph (4), ifthe Administrator finds after notice and opportunity for a hearing on the record that the penalty or schedule does not meet the requirements of this section; and
 
 &emsp;(9) require a final adjustment of the penalty within 180 days after such source comes into compliance in accordance with subsection (d)(4) of this section.
 
@@ -86,7 +86,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(A) the amount determined in accordance with regulations promulgated by the Administrator under subsection (a) of this section, which is no less than the economic value which a delay in compliance beyond July 1, 1979, may have for the owner of such source, including the quarterly equivalent of the capital costs of compliance and debt service over a normal amortization period, not to exceed ten years, operation and maintenance costs foregone as a result of noncompliance, and any additional economic value which such a delay may have for the owner or operator of such source, minus
 
-&emsp;(B) the amount of any expenditure made by the owner or operator of that source duringany such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
+&emsp;(B) the amount of any expenditure made by the owner or operator of that source during any such quarter for the purpose of bringing that source into, and maintaining compliance with, such requirement, to the extent that such expenditures have not been taken into account in the calculation of the penalty under subparagraph (A).
 
 > To the extent that any expenditure under subparagraph (B) made during any quarter is not subtracted for such quarter from the costs under subparagraph (A), such expenditure may be subtracted for any subsequent quarter from such costs. In no event shall the amount paid be less than the quarterly payment minus the amount attributed to actual cost of construction.
 
@@ -108,7 +108,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 &emsp;(B) assess and collect an additional payment with interest at appropriate prevailing rates (as determined by the Secretary of the Treasury) for any underpayment by such person.
 
-(5) Any person who fails to pay the amount of any penalty with respect to any source under this section on a timely basis shall be required to pay in addition a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties with respect to such source which are unpaid as of the beginning of such quarter.
+(5) Any person who fails to pay the amount of any penalty with respect to any source under this section on a timely basis shall be requiredto pay in addition a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person's penalties and nonpayment penalties with respect to such source which are unpaid as of the beginning of such quarter.
 
 #### (e) Judicial review
 

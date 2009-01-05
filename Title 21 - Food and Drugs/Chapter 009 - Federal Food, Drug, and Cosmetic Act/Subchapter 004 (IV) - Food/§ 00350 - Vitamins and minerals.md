@@ -18,7 +18,7 @@
 
 > &emsp;within a food to which this section applies.
 
-(2) Paragraph (1) shall not apply in the case of a vitamin, mineral, other ingredient of food, or food, which is represented for use by individuals in the treatment or management of specific diseases or disorders, by children, or by pregnant or lactating women. For purposes of this subparagraph,<sup>1</sup> the term “children” means individuals who are under the age of twelve years.
+(2) Paragraph (1) shall not apply in the case of a vitamin, mineral, other ingredient of food, orfood, which is represented for use by individuals in the treatment or management of specific diseases or disorders, by children, or by pregnant or lactating women. For purposes of this subparagraph,<sup>1</sup> the term “children” means individuals who are under the age of twelve years.
 
 #### (b) Labeling and advertising requirements for foods
 

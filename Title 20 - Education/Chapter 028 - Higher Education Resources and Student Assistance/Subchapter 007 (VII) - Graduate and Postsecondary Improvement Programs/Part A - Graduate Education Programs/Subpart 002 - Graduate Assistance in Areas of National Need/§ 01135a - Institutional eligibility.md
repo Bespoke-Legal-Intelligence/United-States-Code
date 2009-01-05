@@ -2,13 +2,21 @@
 
 #### (a) Eligibility criteria
 
-Any academic department, program or unit of an institution of higher education that offers a program of postbaccalaureate study leading to a graduate degree in an area of national need (as designated under subsection (b) of this section) may apply for a grant under this subpart. No department, program or unit shall be eligible for a grant unless the program of postbaccalaureate study has been in existence for at least 4 years at the time of application for assistance under this subpart.
+Any academic department, program or unit of an institution of higher education that offers a program of postbaccalaureate study leading to a graduate degree, including a master's or doctoral degree, in an area of national need (as designated under subsection (b) of this section) may apply for a grant under this subpart. No department, program or unit shall be eligible for a grant unless the program of postbaccalaureate study has been in existence for at least 4 years at the time of application for assistance under this subpart.
 
 #### (b) Designation of areas of national need
 
-After consultation with appropriate Federal and nonprofit agencies and organizations, the Secretary shall designate areas of national need. In making such designations, the Secretary shall take into account the extent to which the interest in the area is compelling, the extent to which other Federal programs support postbaccalaureate study in the area concerned, and an assessment of how the program could achieve the most significant impact with available resources.
+After consultation with appropriate Federal and nonprofit agencies and organizations, including the National Science Foundation, the Department of Defense, the Department of Homeland Security, the National Academy of Sciences, and the Bureau of Labor Statistics, the Secretary shall designate areas of national need. In making such designations, the Secretary shall take into consideration—
 
-(Pub. L. 89–329, title VII, §712, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1791.)
+&emsp;(1) the extent to which the interest in the area is compelling;
+
+&emsp;(2) the extent to which other Federal programs support postbaccalaureate study in the area concerned;
+
+&emsp;(3) an assessment of how the program may achieve the most significant impact with available resources; and
+
+&emsp;(4) an assessment of current (as of the time of the designation) and future professional workforce needs of the United States.
+
+(Pub. L. 89–329, title VII, §712, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1791; amended Pub. L. 110–315, title VII, §703(a), (e)(2), Aug. 14, 2008, 122 Stat. 3346, 3347.)
 
 #### Prior Provisions
 
@@ -49,4 +57,10 @@ Section 1135a–6, Pub. L. 89–329, title X, §1017, as added Pub. L. 92–318,
 Section 1135a–7, Pub. L. 89–329, title X, §1018, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 315; amended Pub. L. 94–482, title I, §178, Oct. 12, 1976, 90 Stat. 2166, defined the term “community college”.
 
 A prior section 1135a–11, Pub. L. 89–329, title X, §1011, as added Pub. L. 102–325, title X, §1001, July 23, 1992, 106 Stat. 780; amended Pub. L. 103–208, §2(j)(43), Dec. 20, 1993, 107 Stat. 2484, authorized grants for special projects in areas of national need, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1138c of this title.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §703(e)(2), inserted “, including a master's or doctoral degree,” after “leading to a graduate degree”.
+
+Subsec. (b). Pub. L. 110–315, §703(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “After consultation with appropriate Federal and nonprofit agencies and organizations, the Secretary shall designate areas of national need. In making such designations, the Secretary shall take into account the extent to which the interest in the area is compelling, the extent to which other Federal programs support postbaccalaureate study in the area concerned, and an assessment of how the program could achieve the most significant impact with available resources.”
 

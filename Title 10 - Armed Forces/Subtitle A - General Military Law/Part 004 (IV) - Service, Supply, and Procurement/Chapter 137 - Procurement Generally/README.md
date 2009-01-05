@@ -50,11 +50,13 @@
 | [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
 | [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
-| [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency contracting, and program management.<sup>1</sup> |
+| [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency program management, and contingency contracting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title X, §1063(a)(10), Jan. 28, 2008, 122 Stat. 322, added item 2333 and struck out former item 2333 “Joint policies on requirements definition, contingency contracting, and program management”.
 
 2006—Pub. L. 109–364, div. A, title VIII, §854(a)(2), Oct. 17, 2006, 120 Stat. 2346, added item 2333.
 
@@ -109,8 +111,6 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 1981—Pub. L. 97–86, title IX, §908(a)(2), Dec. 1, 1981, 95 Stat. 1118, added item 2315.
 
 1980—Pub. L. 96–513, title V, §511(75), Dec. 12, 1980, 94 Stat. 2926, inserted “formal” before “advertising” in item 2304.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

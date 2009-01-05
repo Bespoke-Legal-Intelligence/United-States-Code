@@ -20,7 +20,7 @@ Matters To Be Given Effect.—The regulations shall give effect to the following
 
 (c)
 
-Regulations Relating to Defense Intelligence SES.—The regulations relating to removal from the Defense Intelligence Senior Executive Service in a reduction in force or other adjustment in force shall be consistent with section 3595(a) of title 5.
+Regulations Relating to Defense Intelligence SES.—The regulations relating to removal from the Defense Intelligence Senior Executive Service in a reduction in force or otheradjustment in force shall be consistent with section 3595(a) of title 5.
 
 (d)
 

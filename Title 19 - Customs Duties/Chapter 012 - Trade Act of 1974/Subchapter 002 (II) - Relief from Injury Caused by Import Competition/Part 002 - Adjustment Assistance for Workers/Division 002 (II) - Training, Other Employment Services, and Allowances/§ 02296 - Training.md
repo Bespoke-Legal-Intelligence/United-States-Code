@@ -16,7 +16,7 @@
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on thejob, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 
@@ -62,7 +62,7 @@
 
 &emsp;(ii) from any source other than this section.
 
-(B) Before approving any training to which subparagraph (A) may apply, the Secretary may require that the adversely affected worker enter into an agreement with the Secretary under which the Secretary will not be required to pay under this section the portion of the costs of such training that the worker has reason to believe will be paid under the program, or by the source, described in clause (i) or (ii) of subparagraph (A).
+(B) Before approving any training to which subparagraph (A) may apply, the Secretary may require that the adversely affected worker enter into an agreement with the Secretary under which the Secretary will not be required to payunder this section the portion of the costs of such training that the worker has reason to believe will be paid under the program, or by the source, described in clause (i) or (ii) of subparagraph (A).
 
 (7) The Secretary shall not approve a training program if—
 
@@ -142,7 +142,7 @@ Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 o
 
 Subsec. (a)(5)(A). Pub. L. 107–210, §118(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “on-the-job training,”.
 
-Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the employer certifies to the Secretary that theemployer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,”.
+Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the employer certifies to the Secretary that the employer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,”.
 
 Subsec. (f). Pub. L. 107–210, §118(c), added subsec. (f).
 
@@ -196,7 +196,7 @@ Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of thissubchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1998 Amendment
 

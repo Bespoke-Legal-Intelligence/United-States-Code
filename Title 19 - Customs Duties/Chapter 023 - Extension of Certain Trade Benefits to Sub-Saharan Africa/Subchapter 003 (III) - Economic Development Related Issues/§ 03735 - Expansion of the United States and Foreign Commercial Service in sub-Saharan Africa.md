@@ -34,7 +34,7 @@ In order to encourage the export of United States goods and services to sub-Saha
 
 &emsp;(3) hold discussions with appropriate authorities in sub-Saharan Africa on the matters described in paragraphs (1) and (2) with a view to securing increased market access for United States exporters of goods and services;
 
-&emsp;(4) identify current resource allocations and personnel levels in sub-Saharan Africa for the Commercial Service and consider plans for thedeployment of additional resources or personnel to that region; and
+&emsp;(4) identify current resource allocations and personnel levels in sub-Saharan Africa for the Commercial Service and consider plans for the deployment of additional resources or personnel to that region; and
 
 &emsp;(5) make available to the public, through printed and electronic means of communication, the information derived pursuant to paragraphs (1) through (4) for each of the 4 years after May 18, 2000.
 

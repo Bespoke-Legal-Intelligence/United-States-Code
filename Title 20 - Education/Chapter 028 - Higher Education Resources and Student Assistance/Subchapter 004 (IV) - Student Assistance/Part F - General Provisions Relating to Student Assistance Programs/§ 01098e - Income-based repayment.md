@@ -28,7 +28,7 @@ In this section:
 
 Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
 
-&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or is already in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
+&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
 
 &emsp;(2) the holder of such a loan shall apply the borrower's monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall carry o
 
 &emsp;&emsp;&emsp;(i) has made reduced monthly payments under paragraph (1) or paragraph (6);
 
-&emsp;&emsp;&emsp;(ii) has made monthly payments of not less than the monthly amount calculatedunder section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection;
+&emsp;&emsp;&emsp;(ii) has made monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection;
 
 &emsp;&emsp;&emsp;(iii) has made payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title with a repayment period of 10 years;
 
@@ -82,19 +82,21 @@ Notwithstanding any other provision of this chapter, the Secretary shall carry o
 
 #### (c) Eligibility determinations
 
-The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
+The Secretary shall establish procedures for annually determining the borrower's eligibility for income-based repayment, including verification of a borrower's annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or C\(other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) or 1078–3(b)(1)(E) of this title.
 
 #### (d) Special rule for married borrowers filing separately
 
 In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower's income-based repayment under this section solely on the basis of the borrower's student loan debt and adjusted gross income.
 
-(Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824.)
+(Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §494F, Aug. 14, 2008, 122 Stat. 3324.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”.
 
 2007—Subsec. (d). Pub. L. 110–153 added subsec. (d).
 

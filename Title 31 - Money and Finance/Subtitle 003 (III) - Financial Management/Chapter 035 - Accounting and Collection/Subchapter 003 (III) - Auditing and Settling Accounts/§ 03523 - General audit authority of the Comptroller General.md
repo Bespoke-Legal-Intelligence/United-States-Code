@@ -4,7 +4,7 @@
 
 (b) The Comptroller General shall audit the Architect of the Capitol at times the Comptroller General considers appropriate. Section 716 of this title applies to the Architect in conducting the audit. The Comptroller General shall report the results of the audit to Congress. Each report shall be printed as a Senate document.
 
-(c)(1) When the Comptroller General decides an audit shall be conducted at a place at which the records of an executive agency or the Architect of the Capitol are usually kept, the Comptroller General may require the head of the agency or the Architect to keep any part of an account of an accountable official or of a record required to be submitted to the Comptroller General. The Comptroller General may require records be kept under conditions and for a period of not more than 10 years specified by the Comptroller General. However, the ComptrollerGeneral and the head of the agency or the Architect may agree on a longer period.
+(c)(1) When the Comptroller General decides an audit shall be conducted at a place at which the records of an executive agency or the Architect of the Capitol are usually kept, the Comptroller General may require the head of the agency or the Architect to keep any part of an account of an accountable official or of a record required to be submitted to the Comptroller General. The Comptroller General may require records be kept under conditions and for a period of not more than 10 years specified by the Comptroller General. However, the Comptroller General and the head of the agency or the Architect may agree on a longer period.
 
 (2) The Comptroller General and the head of an agency in the legislative or judicial branch of the United States Government (except the Architect) may agree to apply this subsection to the agency.
 
@@ -59,4 +59,6 @@ In General.—At any time during fiscal year 2004 or thereafter, the Comptroller
 “(b)
 
 Credit to Account.—Any payment accepted under the authority of subsection (a) shall be credited to the account established for salaries and expenses of the Government Accountability Office, and shall be available for obligation and expenditure upon receipt.”
+
+\[Pub. L. 110–323, §6(b), Sept. 22, 2008, 122 Stat. 3547, provided that: “Section 1401 of title I of Public Law 108–83 (31 U.S.C. 3523 note) is repealed, effective October 1, 2010.”\]
 

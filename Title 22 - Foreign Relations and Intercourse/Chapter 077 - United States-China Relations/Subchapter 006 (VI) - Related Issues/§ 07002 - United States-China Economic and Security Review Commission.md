@@ -142,7 +142,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees ofthe United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 

@@ -74,7 +74,7 @@ Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the comp
 
 Section 6 of Pub. L. 95–573, as amended by Pub. L. 96–4, §2, Mar. 30, 1979, 93 Stat. 7, provided that:
 
-“(a) Except as provided in subsection (b) of this section, the provisions of this Act \[amending this sectionand sections 99, 112, and 118 of this title and enacting a provision set out as a note under section 84 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 2, 1978\].
+“(a) Except as provided in subsection (b) of this section, the provisions of this Act \[amending this section and sections 99, 112, and 118 of this title and enacting a provision set out as a note under section 84 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 2, 1978\].
 
 “(b)(1) The provisions of section 5 of this Act \[set out as a note under section 84 of this title\] shall take effect on the date of enactment of this Act \[Nov. 2, 1978\].
 

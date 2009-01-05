@@ -46,7 +46,7 @@ Annual Reports.—The Secretary of Defense shall include each year in the materi
 
 &emsp;(3) A review of activities of the Secretary under this subchapter during such preceding fiscal year, shown for military family housing, military unaccompanied housing, dual military family housing and military unaccompanied housing, and ancillary supporting facilities.
 
-&emsp;(4) If a contract for the acquisition or construction of military family housing, militaryunaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supporting facilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
+&emsp;(4) If a contract for the acquisition or construction of military family housing, military unaccompanied housing, or dual military family housing and military unaccompanied housing entered into during the preceding fiscal year did not include the acquisition or construction of the types of ancillary supportingfacilities specifically referred to in section 2871(1) of this title, a explanation of the reasons why such ancillary supporting facilities were not included.
 
 &emsp;(5) A report setting forth, by armed force—
 
@@ -56,9 +56,27 @@ Annual Reports.—The Secretary of Defense shall include each year in the materi
 
 &emsp;(6) A description of the Secretary's plans for housing privatization activities under this subchapter: (A) during the fiscal year for which the budget is submitted; and (B) during the period covered by the then-current future-years defense plan under section 221 of this title.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507.)
+&emsp;(7) A report on best practices for the execution of housing privatization initiatives, including—
+
+&emsp;&emsp;(A) effective means to track and verify proper performance, schedule, and cash flow;
+
+&emsp;&emsp;(B) means of overseeing the actions of bondholders to properly monitor construction progress and construction draws;
+
+&emsp;&emsp;(C) effective structuring of transactions to ensure the United States Government has adequate abilities to oversee project owner performance;
+
+&emsp;&emsp;(D) ensuring that notices to proceed on new work are not issued until proper bonding is in place; and
+
+&emsp;&emsp;(E) such other topics that are identified as pertinent by the Department of Defense.
+
+&emsp;(8) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 550; amended Pub. L. 108–136, div. B, title XXVIII, §2807, Nov. 24, 2003, 117 Stat. 1722; Pub. L. 108–375, div. B, title XXVIII, §2806, Oct. 28, 2004, 118 Stat. 2122; Pub. L. 109–163, div. B, title XXVIII, §2806(c), Jan. 6, 2006, 119 Stat. 3507; Pub. L. 110–417, div. B, title XXVIII, §2805(b), (f), Oct. 14, 2008, 122 Stat. 4723, 4724.)
 
 #### Amendments
+
+2008—Subsec. (b)(7). Pub. L. 110–417, §2805(b), added par. (7).
+
+Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
 2006—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period “, including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease”.
 

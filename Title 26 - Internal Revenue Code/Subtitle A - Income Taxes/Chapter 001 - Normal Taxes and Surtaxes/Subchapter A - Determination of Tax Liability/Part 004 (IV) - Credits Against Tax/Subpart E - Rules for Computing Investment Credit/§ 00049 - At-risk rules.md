@@ -36,7 +36,7 @@
 
 #### (ii) Qualified commercial financing
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” meansany financing with respect to any property if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is acquired by the taxpayer from a person who is not a related person,
 
@@ -58,7 +58,7 @@
 
 #### (iv) Qualified person
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified person” means any person which is actively and regularly engaged in the business of lending money and which is not—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified person” means any personwhich is actively and regularly engaged in the business of lending money and which is not—
 
 &emsp;&emsp;&emsp;&emsp;(I) a related person with respect to the taxpayer,
 
@@ -112,7 +112,7 @@
 
 #### (B) Certain transactions not taken into account
 
-&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not betreated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
+&emsp;&emsp;For purposes of this paragraph, nonqualified nonrecourse financing shall not be treated as decreased through the surrender or other use of property financed by nonqualified nonrecourse financing.
 
 #### (C) Manner in which taken into account
 
@@ -128,7 +128,7 @@
 
 #### (1) In general
 
-&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service.
+&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by theamount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service.
 
 #### (2) Transfers of debt more than 1 year after initial borrowing not treated as increasing nonqualified nonrecourse financing
 

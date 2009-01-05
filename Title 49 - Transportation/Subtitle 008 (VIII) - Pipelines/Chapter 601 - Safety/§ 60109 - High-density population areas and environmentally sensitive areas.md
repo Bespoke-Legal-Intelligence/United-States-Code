@@ -50,7 +50,7 @@ Minimum requirements of integrity management programs.—An integrity management
 
 &emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
-&emsp;&emsp;(B) Subject to paragraph (5), periodic reassessment of the facility, at a minimum of once every 7 years, using methods described in subparagraph (A).
+&emsp;&emsp;(B) Subject to paragraph (5), periodic reassessment of the facility, at a minimum ofonce every 7 years, using methods described in subparagraph (A).
 
 &emsp;&emsp;(C) Clearly defined criteria for evaluating the results of assessments conducted under subparagraphs (A) and (B) and for taking actions based on such results.
 
@@ -96,7 +96,7 @@ Standards.—The standards prescribed by the Secretary under paragraph (2) shall
 
 Additional optional standards.—The Secretary may also prescribe standards requiring an operator of a pipeline facility to include in an integrity management program under this subsection—
 
-&emsp;&emsp;(A) changes to valves or the establishment or modification of systems that monitorpressure and detect leaks based on the operator's risk analysis; and
+&emsp;&emsp;(A) changes to valves or the establishment or modification of systems that monitor pressure and detect leaks based on the operator's risk analysis; and
 
 &emsp;&emsp;(B) the use of emergency flow restricting devices.
 
@@ -126,7 +126,7 @@ Inadequate programs.—If the Secretary determines that a risk analysis or integ
 
 &emsp;&emsp;(B)
 
-Amendments to programs.—In order to facilitate reviews under this paragraph, an operator of a pipeline facility shall notify the Secretary of any amendment made to the operator's integrity management program not later than 30 days after the date of adoption of the amendment. The Secretary shall review any such amendment in accordance with this paragraph.
+Amendments to programs.—In order to facilitate reviews under this paragraph,an operator of a pipeline facility shall notify the Secretary of any amendment made to the operator's integrity management program not later than 30 days after the date of adoption of the amendment. The Secretary shall review any such amendment in accordance with this paragraph.
 
 &emsp;&emsp;(C)
 
@@ -176,7 +176,7 @@ In general.—The minimum standards shall include a requirement for an operator 
 
 &emsp;&emsp;(B)
 
-Reports.—Operators of natural gas distribution systems shall report annuallyto the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
+Reports.—Operators of natural gas distribution systems shall report annually to the Secretary on the number of excess flow valves installed on their systems under subparagraph (A).
 
 &emsp;(4)
 

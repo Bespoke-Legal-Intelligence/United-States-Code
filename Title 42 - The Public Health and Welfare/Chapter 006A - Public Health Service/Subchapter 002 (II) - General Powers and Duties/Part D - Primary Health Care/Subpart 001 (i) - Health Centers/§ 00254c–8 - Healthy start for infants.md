@@ -10,13 +10,27 @@
 
 &emsp;For purposes of paragraph (1), the term “Healthy Start Initiative” is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
 
-#### (3) Additional grants
+#### (b) Considerations in making grants
 
-&emsp;Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.
+#### (1) Requirements
 
-#### (b) Requirements for making grants
+&emsp;In making grants under subsection (a), the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], consumers of project services, public health departments, hospitals, health centers under section 254b of this title, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a) of this section.
 
-In making grants under subsection (a) of this section, the Secretary shall require that applicants (in addition to meeting all eligibility criteria established by the Secretary) establish, for project areas under such subsection, community-based consortia of individuals and organizations (including agencies responsible for administering block grant programs under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], consumers of project services, public health departments, hospitals, health centers under section 254b of this title, and other significant sources of health care services) that are appropriate for participation in projects under subsection (a) of this section.
+#### (2) Other considerations
+
+&emsp;In making grants under subsection (a), the Secretary shall take into consideration the following:
+
+&emsp;&emsp;(A) Factors that contribute to infant mortality, such as low birthweight.
+
+&emsp;&emsp;(B) The extent to which applicants for such grants facilitate—
+
+&emsp;&emsp;&emsp;(i) a community-based approach to the delivery of services; and
+
+&emsp;&emsp;&emsp;(ii) a comprehensive approach to women's health care to improve perinatal outcomes.
+
+#### (3) Special projects
+
+&emsp;Nothing in paragraph (2) shall be construed to prevent the Secretary from awarding grants under subsection (a) for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska or Hawaii.
 
 #### (c) Coordination
 
@@ -26,71 +40,43 @@ Recipients of grants under subsection (a) of this section shall coordinate their
 
 Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a) of this section.
 
-#### (e) Additional services for at-risk pregnant women and infants
+#### (e) Funding
 
-#### (1) In general
+#### (1) Authorization of appropriations
 
-&emsp;The Secretary may make grants to conduct and support research and to provide additional health care services for pregnant women and infants, including grants to increase access to prenatal care, genetic counseling, ultrasound services, and fetal or other surgery.
+&emsp;For the purpose of carrying out this section, there are authorized to be appropriated—
 
-#### (2) Eligible project area
+&emsp;&emsp;(A) $120,000,000 for fiscal year 2008; and
 
-&emsp;The Secretary may make a grant under paragraph (1) only if the geographic area in which services under the grant will be provided is a geographic area in which a project under subsection (a) of this section is being carried out, and if the Secretary determines that the grant will add to or expand the level of health services available in such area to pregnant women and infants.
+&emsp;&emsp;(B) for each of fiscal years 2009 through 2013, the amount authorized for the preceding fiscal year increased by the percentage increase in the Consumer Price Index for all urban consumers for such year.
 
-#### (3) Evaluation by Government Accountability Office
+#### (2) Allocation
 
-#### (A) In general
+#### (A) Program administration
 
-&emsp;&emsp;During fiscal year 2004, the Comptroller General of the United States shall conduct an evaluation of activities under grants under paragraph (1) in order to determine whether the activities have been effective in serving the needs of pregnant women with respect to services described in such paragraph. The evaluation shall include an analysis of whether such activities have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups. Not later than January 10, 2004, the Comptroller General shall submit to the Committee on Commerce in the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions in the Senate, a report describing the findings of the evaluation.
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and data activities that are determined by the Secretary to be appropriate for carrying out the program under this section.
 
-#### (B) Relation to grants regarding additional services for at-risk pregnant women and infants
+#### (B) Evaluation
 
-&emsp;&emsp;Before the date on which the evaluation under subparagraph (A) is submitted in accordance with such subparagraph—
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a). Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups.
 
-&emsp;&emsp;&emsp;(i) the Secretary shall ensure that there are not more than five grantees under paragraph (1); and
-
-&emsp;&emsp;&emsp;(ii) an entity is not eligible to receive grants under such paragraph unless the entity has substantial experience in providing the health services described in such paragraph.
-
-#### (f) Funding
-
-#### (1) General program
-
-#### (A) Authorization of appropriations
-
-&emsp;&emsp;For the purpose of carrying out this section (other than subsection (e) of this section), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
-
-#### (B) Allocations
-
-#### (i) Program administration
-
-&emsp;&emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and data activities that are determined by the Secretary to be appropriate for carrying out the program under this section.
-
-#### (ii) Evaluation
-
-&emsp;&emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve up to 1 percent for evaluations of projects carried out under subsection (a) of this section. Each such evaluation shall include a determination of whether such projects have been effective in reducing the disparity in health status between the general population and individuals who are members of racial or ethnic minority groups.
-
-#### (2) Additional services for at-risk pregnant women and infants
-
-#### (A) Authorization of appropriations
-
-&emsp;&emsp;For the purpose of carrying out subsection (e) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
-
-#### (B) Allocation for community-based mobile health units
-
-&emsp;&emsp;Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary shall make available not less than 10 percent for providing services under subsection (e) of this section (including ultrasound services) through visits by mobile units to communities that are eligible for services under subsection (a) of this section.
-
-(July 1, 1944, ch. 373, title III, §330H, as added Pub. L. 106–310, div. A, title XV, §1501, Oct. 17, 2000, 114 Stat. 1146; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(July 1, 1944, ch. 373, title III, §330H, as added Pub. L. 106–310, div. A, title XV, §1501, Oct. 17, 2000, 114 Stat. 1146; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–339, §2, Oct. 3, 2008, 122 Stat. 3733.)
 
 #### References in Text
 
 The effective date of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–310, which was approved Oct. 17, 2000.
 
-The Social Security Act, referred to in subsecs. (b) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
+2008—Subsec. (a)(3). Pub. L. 110–339, §2(b)(1), struck out par. (3). Text read as follows: “Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.”
+
+Subsec. (b). Pub. L. 110–339, §2(a), substituted “Considerations in making grants” for “Requirements for making grants” in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
+
+Subsec. (e). Pub. L. 110–339, §2(b)(2), (c), added subsec. (e) and struck out former subsec. (e) which related to additional services for at-risk pregnant women and infants.
+
+Subsec. (f). Pub. L. 110–339, §2(b)(2), struck out subsec. (f) which related to funding of program and additional services for at-risk pregnant women and infants.
+
 2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
-
-#### Change of Name
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

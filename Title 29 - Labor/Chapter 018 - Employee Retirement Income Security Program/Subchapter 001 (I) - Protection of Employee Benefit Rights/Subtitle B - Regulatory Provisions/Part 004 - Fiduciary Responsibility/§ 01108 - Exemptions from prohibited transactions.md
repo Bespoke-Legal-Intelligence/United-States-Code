@@ -38,7 +38,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) the employer maintaining the plan, or
 
-&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (notincluding premiums or annuity considerations written by the employer maintaining the plan).
+&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan).
 
 &emsp;(6) The providing of any ancillary service by a bank or similar financial institution supervised by the United States or a State, if such bank or other institution is a fiduciary of such plan, and if—
 
@@ -74,7 +74,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;(13) Any transfer made before January 1, 2014, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under section 420 of title 26 (as in effect on August 17, 2006).
 
-&emsp;(14) Any transaction in connection with the provision of investment advice described in section 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
+&emsp;(14) Any transaction in connection with the provision of investment advice described insection 1002(21)(A)(ii) of this title to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
 
 &emsp;&emsp;(A) the transaction is—
 
@@ -96,7 +96,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(iv) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm's length <sup>1</sup> transaction with an unrelated party.
 
-&emsp;(B) For purposes of this paragraph, the term “block trade” means any trade of at least10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
+&emsp;(B) For purposes of this paragraph, the term “block trade” means any trade of at least 10,000 shares or with a market value of at least $200,000 which will be allocated across two or more unrelated client accounts of a fiduciary.
 
 &emsp;(16) Any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary), between a plan and a party in interest if—
 
@@ -138,7 +138,7 @@ Foreign exchange transactions.—Any foreign exchange transactions, between a ba
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more or less than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
@@ -302,7 +302,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(i) the only investment advice provided under the program is the advice generated by the computer model described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(ii) any transaction described in subsection (b)(14)(B)(ii) occurs solely at the direction of the participant or beneficiary.
+&emsp;&emsp;&emsp;(ii) any transaction described in subsection (b)(14)(A)(ii) occurs solely at the direction of the participant or beneficiary.
 
 > &emsp;&emsp;Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in subparagraph (A), but only if such request has not been solicited by any person connected with carrying out the arrangement.
 
@@ -326,7 +326,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;(A) the fiduciary adviser provides to a participant or a beneficiary before the initial provision of the investment advice with regard to any security or other property offered as an investment option, a written notification (which may consist of notification by means of electronic communication)—
 
-&emsp;&emsp;&emsp;(i) of the role of any party that has a material affiliation or contractual relationship with the financial adviser in the development of the investment advice program and in the selection of investment options available under the plan,
+&emsp;&emsp;&emsp;(i) of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser in the development of the investment advice program and in the selection of investment options available under the plan,
 
 &emsp;&emsp;&emsp;(ii) of the past performance and historical rates of return of the investment options available under the plan,
 
@@ -404,11 +404,11 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (A) Fiduciary adviser
 
-&emsp;&emsp;The term “fiduciary adviser” means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title by the person to the participant or beneficiary of the plan and who is—
+&emsp;&emsp;The term “fiduciary adviser” means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title by the person to a participant or beneficiary of the plan and who is—
 
 &emsp;&emsp;&emsp;(i) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
-&emsp;&emsp;&emsp;(ii) a bank or similar financial institution referred to in section 1108(b)(4) of this title or a savings association (as defined in section 1813(b)(1) of title 12), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
+&emsp;&emsp;&emsp;(ii) a bank or similar financial institution referred to in subsection (b)(4) or a savings association (as defined in section 1813(b)(1) of title 12), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
 &emsp;&emsp;&emsp;(iii) an insurance company qualified to do business under the laws of a State,
 
@@ -418,7 +418,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(vi) an employee, agent, or registered representative of a person described in clauses (i) through (v) who satisfies the requirements of applicable insurance, banking, and securities laws relating to the provision of the advice.
 
-> &emsp;&emsp;For purposes of this part, a person who develops the computer model described in paragraph (3)(B) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title to the participant or beneficiary and shall be treated as a fiduciary adviser for purposes of this subsection and subsection (b)(14), except that the Secretary may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
+> &emsp;&emsp;For purposes of this part, a person who develops the computer model described in paragraph (3)(B) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in section 1002(21)(A)(ii) of this title to a participant or beneficiary and shall be treated as a fiduciary adviser for purposes of this subsection and subsection (b)(14), except that the Secretary may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
 
 #### (B) Affiliate
 
@@ -428,7 +428,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8,1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106.)
 
 #### References in Text
 
@@ -439,6 +439,14 @@ The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is ti
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(18)(C). Pub. L. 110–458, §106(b)(1), struck out “or less” after “deviate by more”.
+
+Subsec. (g)(3)(D)(ii). Pub. L. 110–458, §106(a)(1)(A), substituted “subsection (b)(14)(A)(ii)” for “subsection (b)(14)(B)(ii)”.
+
+Subsec. (g)(6)(A)(i). Pub. L. 110–458, §106(a)(1)(B), substituted “fiduciary adviser” for “financial adviser”.
+
+Subsec. (g)(11)(A). Pub. L. 110–458, §106(a)(1)(C), substituted “a participant” for “the participant” in introductory and concluding provisions and “subsection (b)(4)” for “section 1108(b)(4) of this title” in cl. (ii).
 
 2006—Subsec. (b)(13). Pub. L. 109–280, §107(a)(11), substituted “August 17, 2006” for “October 22, 2004”.
 
@@ -484,6 +492,10 @@ Subsec. (d). Pub. L. 99–514, §1898(i)(1), struck out “(a),” before “(b)
 
 Subsec. (f). Pub. L. 96–364, §308(b), added subsec. (f).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 107(a)(11) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
@@ -492,7 +504,7 @@ Pub. L. 109–280, title VI, §601(a)(3), Aug. 17, 2006, 120 Stat. 958, provided
 
 Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
-Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set outas a note under section 4975 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2001 Amendment
 
@@ -538,7 +550,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and proceduresrequired to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
+Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided that: “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and procedures required to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(b)(19)\].”
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

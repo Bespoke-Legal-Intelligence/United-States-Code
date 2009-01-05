@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “acceptance point” means the point at which nonpriority bypass mail originates;
 
-&emsp;(2) the terms “air carrier”, “interstate air transportation”, and “foreign air transportation” have the meanings given such terms in section 40102(a) of title 49, United States Code;
+&emsp;(2) the terms foreign air carrier,<sup>1</sup> “air carrier”, “interstate air transportation”, “foreign air carrier”.<sup>2</sup> and “foreign air transportation” have the meanings given such terms in section 40102(a) of title 49, United States Code;
 
 &emsp;(3) the term “base fare” means the fare paid to the carrier issuing the passenger ticket or carrying nonmail freight which may entail service being provided by more than 1 carrier;
 
@@ -14,29 +14,33 @@
 
 &emsp;(6) the term “bush route” means an air route in which only a bush carrier is tendered nonpriority bypass mail between the origination point, being either an acceptance point or a hub, as determined by the Postal Service, and the destination city;
 
-&emsp;(7) the term “city pair” means service between an origin and destination city pair;
+&emsp;(7) the term “certificated air carrier” means an air carrier that holds a certificate of public convenience and necessity issued under section 41102(a) of title 49;
 
-&emsp;(8) the term “composite rate”—
+&emsp;(8) the term “city pair” means service between an origin and destination city pair;
+
+&emsp;(9) the term “code-share relationship” means a relationship pursuant to which any certificated air carrier or foreign air carrier's designation code is used to identify a flight operated by another air carrier or foreign air carrier;
+
+&emsp;(10) the term “composite rate”—
 
 &emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
 
 &emsp;&emsp;(B) shall be based on the mainline rate paid to the hub, plus the lowest bush rate paid to bush carriers in the State of Alaska for the distance traveled from the hub point to the destination point;
 
-&emsp;(9) the term “equitable tender” means the practice of the Postal Service of equitably distributing mail on a fair and reasonable basis between those air carriers that offer equivalent services and costs between 2 communities in accordance with the regulations of the Postal Service;
+&emsp;(11) the term “equitable tender” means the practice of the Postal Service of equitably distributing mail on a fair and reasonable basis between those air carriers that offer equivalent services and costs between 2 communities in accordance with the regulations of the Postal Service;
 
-&emsp;(10) the term “existing mainline carrier” means a mainline carrier (as defined in this subsection) that on January 1, 2001, was—
+&emsp;(12) the term “existing mainline carrier” means a mainline carrier (as defined in this subsection) that on January 1, 2001, was—
 
 &emsp;&emsp;(A) certified under part 121;
 
 &emsp;&emsp;(B) qualified to provide mainline nonpriority bypass mail service; and
 
-&emsp;&emsp;(C) actually engaged in the carriage, on scheduled service within the State of Alaska, of mainline nonpriority bypass mail tendered to it under its designator code.<sup>1</sup>
+&emsp;&emsp;(C) actually engaged in the carriage, on scheduled service within the State of Alaska, of mainline nonpriority bypass mail tendered to it under its designator code.<sup>3</sup>
 
-&emsp;(11) the term “mainline carrier” means a carrier operating aircraft under part 121 and certificated within the payload capacity requirements of subsection (g)(1)(A)(iv)(II) on a given city pair route;
+&emsp;(13) the term “mainline carrier” means a carrier operating aircraft under part 121 and certificated within the payload capacity requirements of subsection (g)(1)(A)(iv)(II) on a given city pair route;
 
-&emsp;(12) the term “mainline route” means a city pair in which a mainline carrier is tendered nonpriority bypass mail;
+&emsp;(14) the term “mainline route” means a city pair in which a mainline carrier is tendered nonpriority bypass mail;
 
-&emsp;(13) the term “new”, when referencing a carrier, means a carrier that—
+&emsp;(15) the term “new”, when referencing a carrier, means a carrier that—
 
 &emsp;&emsp;(A) meets the respective requirements of subclause (I) or (II) of subsection (g)(1)(A)(iv), depending on the type of route being served and the size of aircraft being used to provide service;
 
@@ -44,11 +48,11 @@
 
 &emsp;&emsp;(C) is not comprised of previously qualified existing mainline carriers as a result of merger or sale;
 
-&emsp;(14) the term “part 121” means part 121 of title 14, Code of Federal Regulations;
+&emsp;(16) the term “part 121” means part 121 of title 14, Code of Federal Regulations;
 
-&emsp;(15) the term “part 135” means part 135 of title 14, Code of Federal Regulations;
+&emsp;(17) the term “part 135” means part 135 of title 14, Code of Federal Regulations;
 
-&emsp;(16) the term “scheduled service” means—
+&emsp;(18) the term “scheduled service” means—
 
 &emsp;&emsp;(A) flights are operated in common carriage available to the general public under a published schedule;
 
@@ -58,25 +62,69 @@
 
 &emsp;&emsp;(D) customers contract for carriage separately on a regular basis;
 
-&emsp;(17) the term “Secretary” means the Secretary of Transportation;
+&emsp;(19) the term “Secretary” means the Secretary of Transportation;
 
-&emsp;(18) the term “121 bush passenger carrier” means a bush passenger carrier providing passenger service on bush routes under part 121;
+&emsp;(20) the term “121 bush passenger carrier” means a bush passenger carrier providing passenger service on bush routes under part 121;
 
-&emsp;(19) the term “121 mainline passenger carrier” means a mainline carrier providing passenger service through scheduled service on routes under part 121;
+&emsp;(21) the term “121 mainline passenger carrier” means a mainline carrier providing passenger service through scheduled service on routes under part 121;
 
-&emsp;(20) the term “121 passenger aircraft” means an aircraft flying passengers on a city pair route that is operated under part 121;
+&emsp;(22) the term “121 passenger aircraft” means an aircraft flying passengers on a city pair route that is operated under part 121;
 
-&emsp;(21) the term “121 passenger carrier” means a passenger carrier that provides scheduled service under part 121;
+&emsp;(23) the term “121 passenger carrier” means a passenger carrier that provides scheduled service under part 121;
 
-&emsp;(22) the term “135 bush passenger carrier” means a bush passenger carrier providing passenger service through scheduled service on bush routes under part 135; and
+&emsp;(24) the term “135 bush passenger carrier” means a bush passenger carrier providing passenger service through scheduled service on bush routes under part 135; and
 
-&emsp;(23) the term “135 passenger carrier” means a passenger carrier that provides scheduled service under part 135.
+&emsp;(25) the term “135 passenger carrier” means a passenger carrier that provides scheduled service under part 135.
 
-(b) The Postal Service may contract with any certificated air carrier, without advertising for bids, in such manner and under such terms and conditions as it deems appropriate, for the transportation of mail by aircraft between any of the points in foreign air transportation between which the carrier is authorized by the Secretary to engage in the transportation of mail. Such contracts shall be for the transportation of at least 750 pounds of mail per flight, and no more than 5 percent, based on weight, of the international mail transported under any such contract shall consist of letter mail. Any such contract shall be filed with the Secretary not later than 90 days before its effective date. Unless the Secretary shall determine otherwise (under criteria prescribed by section 40101(a) of title 49) not later than 10 days prior to the effective date of the contract, such contract shall become effective.
+(b)
 
-(c) When the Postal Service deems that the transportation of mail by aircraft is required between points in foreign air transportation between which the Secretary has not authorized an air carrier or combination of air carriers to engage in the transportation of mail, it may contract with any air carrier in such manner and under such terms and conditions as it may deem appropriate for the transportation of any class or classes of mail. The transportation of mail under contracts entered into under this subsection is not, except for sections 40109(a) and (c)–(h) and 42112 of title 49, air transportation within the provisions of part A of subtitle VII of title 49. The Postal Service shall cancel such contract, in whole or in respect to certain points as the certificate shall require, upon the issuance by the Secretary of an authorization under chapters 411 and 413 of title 49 to any air carrier to engage in the transportation of mail by aircraft between any of the points named in the contract, and the inauguration of scheduled service by such carrier.
+International Mail.—
 
-(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract,and such carrier or carriers inaugurate schedules adequate for its purposes.
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A) Except as otherwise provided in this subsection, the Postal Service may contract for the transportation of mail by aircraft between any of the points in foreign air transportation only with certificated air carriers. A contract may be awarded to a certificated air carrier to transport mail by air between any of the points in foreign air transportation that the Secretary of Transportation has authorized the carrier to serve either directly or through a code-share relationship with one or more foreign air carriers.
+
+&emsp;&emsp;(B) If the Postal Service has sought offers or proposals from certificated air carriers to transport mail in foreign air transportation between points, or pairs of points within a geographic region or regions, and has not received offers or proposals that meet Postal Service requirements at a fair and reasonable price from at least 2 such carriers, the Postal Service may seek offers or proposals from foreign air carriers. Where service in foreign air transportation meeting the Postal Service's requirements is unavailable at a fair and reasonable price from at least 2 certificated air carriers, either directly or through a code-share relationship with one or more foreign air carriers, the Postal Service may contract with foreign air carriers to provide the service sought if, when the Postal Service seeks offers or proposals from foreign air carriers, it also seeks an offer or proposal to provide that service from any certificated air carrier providing service between those points, or pairs of points within a geographic region or regions, on the same terms and conditions that are being sought from foreign air carriers.
+
+&emsp;&emsp;(C) For purposes of this subsection, the Postal Service shall use a methodology for determining fair and reasonable prices for the Postal Service designated region or regions developed in consultation with, and with the concurrence of, certificated air carriers representing at least 51 percent of available ton miles in the markets of interest.
+
+&emsp;&emsp;(D) For purposes of this subsection, ceiling prices determined pursuant to the methodology used under subparagraph (C) shall be presumed to be fair and reasonable if they do not exceed the ceiling prices derived from—
+
+&emsp;&emsp;&emsp;(i) a weighted average based on market rate data furnished by the International Air Transport Association or a subsidiary unit thereof; or
+
+&emsp;&emsp;&emsp;(ii) if such data are not available from those sources, such other neutral, regularly updated set of weighted average market rates as the Postal Service, with the concurrence of certificated air carriers representing at least 51 percent of available ton miles in the markets of interest, may designate.
+
+&emsp;&emsp;(E) If, for purposes of subparagraph (D)(ii), concurrence cannot be attained, then the most recently available market rate data described in this subparagraph shall continue to apply for the relevant market or markets.
+
+&emsp;(2)
+
+Contract process.—The Postal Service shall contract for foreign air transportation as set forth in paragraph (1) through an open procurement process that will provide—
+
+&emsp;&emsp;(A) potential offerors with timely notice of business opportunities in sufficient detail to allow them to make a proposal;
+
+&emsp;&emsp;(B) requirements, proposed terms and conditions, and evaluation criteria to potential offerors; and
+
+&emsp;&emsp;(C) an opportunity for unsuccessful offerors to receive prompt feedback upon request.
+
+&emsp;(3)
+
+Emergency or unanticipated conditions; inadequate lift space.—The Postal Service may enter into contracts to transport mail by air in foreign air transportation with a certificated air carrier or a foreign air carrier without complying with the requirements of paragraphs (b)(1) and (2) if—
+
+&emsp;&emsp;(A) emergency or unanticipated conditions exist that make it impractical for the Postal Service to comply with such requirements; or
+
+&emsp;&emsp;(B) its demand for lift exceeds the space available to it under existing contracts and—
+
+&emsp;&emsp;&emsp;(i) there is insufficient time available to seek additional lift using procedures that comply with those requirements without compromising the Postal Service's service commitments to its own customers; and
+
+&emsp;&emsp;&emsp;(ii) the Postal Service first offers any certificated air carrier holding a contract to carry mail between the relevant points the opportunity to carry such excess volumes under the terms of its existing contract.
+
+(c)
+
+Good Faith Effort Required.—The Postal Service and potential offerors shall put a good-faith effort into resolving disputes concerning the award of contracts made under subsection (b).
+
+(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
 
 (e)(1) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
 
@@ -204,7 +252,7 @@
 
 &emsp;(i) meets the requirements of subsection (g)(1)(A)(iv)(II); and
 
-&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passengerseats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
+&emsp;(ii) has provided at least 75 percent of the number of insured passenger seats as the number of available passenger seats being provided by the mainline passenger carrier providing the greatest number of available passenger seats on that route for the 6 months immediately preceding the date on which the carrier seeks tender of such mail.
 
 (B) A new 121 mainline passenger carrier that is tendered nonpriority mainline bypass mail under subparagraph (A)—
 
@@ -264,7 +312,7 @@
 
 &emsp;(II) 5 percent of the share of each nonpassenger carrier servicing that route that transports 25 percent or more of the total nonmail freight under subsection (i)(1).
 
-(ii) Additional 121 bush passenger carriers entering service on that city pair route after the first 3 shall not receive any additional mail share.
+(ii) Additional 121 bush passenger carriers entering service on that city pair route after thefirst 3 shall not receive any additional mail share.
 
 (iii) If any 121 bush passenger carrier on a city pair route receiving an additional share of the mail under clause (ii) discontinues service on that route, the 121 bush passenger carrier that has been providing the longest period of service on that route and is otherwise eligible but is not receiving a share by reason of clause (ii), shall receive the share of the carrier discontinuing service.
 
@@ -302,7 +350,7 @@
 
 (j)(1) Except as provided by paragraph (3), there shall be equitable tender of 10 percent of the nonpriority bypass mail to all carriers on each city pair route in the State of Alaska meeting the requirements of subsection (g)(1) that do not otherwise qualify for tender under subsection (h) or (i).
 
-(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) to be equitably tendered among qualified carriers under such subsections, such that—
+(2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) tobe equitably tendered among qualified carriers under such subsections, such that—
 
 &emsp;(A) the amount of nonpriority bypass mail available for tender among qualified carriers under subsection (h) shall be 75 percent; and
 
@@ -360,7 +408,7 @@
 
 (p)(1) The Postal Service or the Secretary, in carrying out subsection (g)(2), (h), or (i), may deny equitable tender to an otherwise qualified carrier that does not operate under this section in good faith or under the intent of this section.
 
-(2) The Postal Service or the Secretary may waive any provision of subsection (h) or (i), ifthe carrier provides substantial passenger or nonmail freight service on the route in the State of Alaska where the carrier seeks tender of nonpriority mail and nonpriority bypass mail.
+(2) The Postal Service or the Secretary may waive any provision of subsection (h) or (i), if the carrier provides substantial passenger or nonmail freight service on the route in the State of Alaska where the carrier seeks tender of nonpriority mail and nonpriority bypass mail.
 
 (3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(A)(iv), (g)(2)(E), (g)(4), or (g)(5), or any provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
 
@@ -386,7 +434,7 @@
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
 
 #### References in Text
 
@@ -397,6 +445,20 @@ The date of enactment of the Rural Service Improvement Act of 2002, referred to 
 The date of enactment of this subsection, referred to in subsec. (s), is the date of enactment of Pub. L. 107–206, which was approved Aug. 2, 2002.
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–405, §2(b)(11)(D), which directed the insertion of “foreign air carrier,” after “terms”, was executed by making the insertion after first reference to “terms” to reflect the probable intent of Congress.
+
+Pub. L. 110–405, §2(b)(11)(A), inserted “ ‘foreign air carrier’.” after “ ‘interstate air transportation’,”
+
+Subsec. (a)(7), (8). Pub. L. 110–405, §2(b)(11)(B), added par. (7) and redesignated former par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (a)(9) to (24). Pub. L. 110–405, §2(b)(11)(C), added par. (9) and redesignated former pars. (9) to (23) as (10) to (24), respectively. Former par. (24) redesignated (25).
+
+Pub. L. 110–405, §2(b)(11)(B), redesignated pars. (8) to (23) as (9) to (24), respectively.
+
+Subsec. (a)(25). Pub. L. 110–405, §2(b)(11)(C), redesignated par. (24) as (25).
+
+Subsecs. (b), (c). Pub. L. 110–405, §2(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to contracts with certificated air carriers without advertising for bids for transportation of mail between points in foreign air transportation authorized by Secretary and contracts with air carriers for transportation of mail between points in foreign air transportation not authorized by Secretary, respectively.
 
 2006—Subsec. (a)(4), (5). Pub. L. 109–435, §1005(a)(1), (2), substituted “subsection (g)(1)(A)(iv)(I)” for “subsection (g)(1)(D)(i)”.
 
@@ -504,6 +566,10 @@ Subsec. (c). Pub. L. 98–443, §9(g)(4)(A), (E), substituted “Secretary of Tr
 
 Subsecs. (d) to (f). Pub. L. 98–443, §9(g)(4)(F), added subsecs. (d) to (f).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–435, title X, §1005(h) Dec. 20, 2006, 120 Stat. 3258, provided that:
@@ -600,7 +666,11 @@ Pub. L. 107–206, title III, §3002(d), Aug. 2, 2002, 116 Stat. 923, provided t
 
 #### Reports to Congress
 
-Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of theSenate on the progress of implementing title III of Pub. L. 107–206.
+Pub. L. 107–206, title III, §3002(f), Aug. 2, 2002, 116 Stat. 924, provided that, not later than 18 months after Aug. 2, 2002, the Postal Service and the Secretary of Transportation were to submit a report to the Committee on Government Reform (now Committee on Oversight and Government Reform) of the House of Representatives and the Committee on Governmental Affairs of the Senate on the progress of implementing title III of Pub. L. 107–206.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be set off by quotation marks and the term “foreign air carrier” probably should appear only once.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a comma and the term “foreign air carrier” probably should appear only once.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

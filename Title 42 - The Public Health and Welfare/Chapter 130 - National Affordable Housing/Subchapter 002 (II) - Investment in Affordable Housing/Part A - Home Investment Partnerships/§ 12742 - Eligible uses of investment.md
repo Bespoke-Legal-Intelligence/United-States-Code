@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the jurisdiction certifies that the use of funds under this part for tenant-based rental assistance is an essential element of the jurisdiction's annual housing strategy for expanding the supply, affordability, and availability of decent, safe, sanitary, and affordable housing, and specifies the local market conditions that lead to the choice of this option; and
 
-&emsp;&emsp;&emsp;(ii) the tenant-based rental assistance is provided in accordance with written tenant selection policies and criteria that are consistent with the purposes of providinghousing to very low- and low-income families and are reasonably related to preference rules established under section 1437d(c)(4)(A) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;(ii) the tenant-based rental assistance is provided in accordance with written tenant selection policies and criteria that are consistent with the purposes of providing housing to very low- and low-income families and are reasonably related to preference rules established under section 1437d(c)(4)(A) <sup>1</sup> of this title.
 
 #### (B) Fair share not affected
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) “that
 
 Subsec. (d). Pub. L. 102–550, §207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 102–550, §206, inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
+Pub. L. 102–550, §206, inserted after first sentence of par. (1) “For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, exceptthat for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs.”
 
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 

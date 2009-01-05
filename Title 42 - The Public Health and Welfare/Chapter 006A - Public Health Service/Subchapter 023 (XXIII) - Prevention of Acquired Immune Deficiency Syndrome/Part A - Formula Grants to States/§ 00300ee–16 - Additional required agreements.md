@@ -8,7 +8,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;(2) information provided under this part will be scientifically accurate and factually correct;
 
-&emsp;(3) in carrying out section 300ee–11(b) of this title, the State will give priority to programs described in section 300ee–12(10) of this title for individuals described in such section;
+&emsp;(3) in carrying out section 300ee–11(b) of this title, the State will give priority to programsdescribed in section 300ee–12(10) of this title for individuals described in such section;
 
 &emsp;(4) with respect to a State in which there is a substantial number of individuals who are intravenous substance abusers, the State will place priority on activities under this part directed at such substance abusers;
 

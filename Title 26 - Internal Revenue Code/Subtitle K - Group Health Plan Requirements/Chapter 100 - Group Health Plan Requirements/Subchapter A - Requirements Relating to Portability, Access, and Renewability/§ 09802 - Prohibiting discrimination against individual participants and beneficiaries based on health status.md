@@ -44,11 +44,77 @@
 
 &emsp;Nothing in paragraph (1) shall be construed—
 
-&emsp;&emsp;(A) to restrict the amount that an employer may be charged for coverage under a group health plan; or
+&emsp;&emsp;(A) to restrict the amount that an employer may be charged for coverage under a group health plan except as provided in paragraph (3); or
 
 &emsp;&emsp;(B) to prevent a group health plan from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.
 
-#### (c) Special rules for church plans
+#### (3) No group-based discrimination on basis of genetic information
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, a group health plan may not adjust premium or contribution amounts for the group covered under such plan on the basis of genetic information.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
+
+#### (c) Genetic testing
+
+#### (1) Limitation on requesting or requiring genetic testing
+
+&emsp;A group health plan may not request or require an individual or a family member of such individual to undergo a genetic test.
+
+#### (2) Rule of construction
+
+&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
+
+#### (3) Rule of construction regarding payment
+
+#### (A) In general
+
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+
+#### (B) Limitation
+
+&emsp;&emsp;For purposes of subparagraph (A), a group health plan may request only the minimum amount of information necessary to accomplish the intended purpose.
+
+#### (4) Research exception
+
+&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
+
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+
+&emsp;&emsp;(B) The plan clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
+
+&emsp;&emsp;&emsp;(i) compliance with the request is voluntary; and
+
+&emsp;&emsp;&emsp;(ii) non-compliance will have no effect on enrollment status or premium or contribution amounts.
+
+&emsp;&emsp;(C) No genetic information collected or acquired under this paragraph shall be used for underwriting purposes.
+
+&emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided for under this paragraph, including a description of the activities conducted.
+
+&emsp;&emsp;(E) The plan complies with such other conditions as the Secretary may by regulation require for activities conducted under this paragraph.
+
+#### (d) Prohibition on collection of genetic information
+
+#### (1) In general
+
+&emsp;A group health plan shall not request, require, or purchase genetic information for underwriting purposes (as defined in section 9832).
+
+#### (2) Prohibition on collection of genetic information prior to enrollment
+
+&emsp;A group health plan shall not request, require, or purchase genetic information with respect to any individual prior to such individual's enrollment under the plan or in connection with such enrollment.
+
+#### (3) Incidental collection
+
+&emsp;If a group health plan obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
+
+#### (e) Application to all plans
+
+The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and section 9801 with respect to genetic information, shall apply to group health plans without regard to section 9831(a)(2).
+
+#### (f) <sup>1</sup> Special rules for church plans
 
 A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
 
@@ -58,13 +124,47 @@ A church plan (as defined in section 414(e)) shall not be treated as failing to 
 
 > This subsection shall apply to a plan for any year only if the plan included the provisions described in the preceding sentence on July 15, 1997, and at all times thereafter before the beginning of such year.
 
-(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, §1532(a), Aug. 5, 1997, 111 Stat. 1085.)
+#### (f) <sup>1</sup> Genetic information of a fetus or embryo
+
+Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
+
+&emsp;(1) with respect to such an individual or family member of an individual who is a pregnant woman, include genetic information of any fetus carried by such pregnant woman; and
+
+&emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
+
+(Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, §1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, §103(a)–(c), May 21, 2008, 122 Stat. 896, 897.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
+2008—Subsec. (b)(2)(A). Pub. L. 110–233, §103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
+
+Subsec. (b)(3). Pub. L. 110–233, §103(a)(2), added par. (3).
+
+Subsecs. (c) to (e). Pub. L. 110–233, §103(b), added subsecs. (c) to (e). Former subsec. (c) redesignated (f) relating to special rules for church plans.
+
+Subsec. (f). Pub. L. 110–233, §103(c), added subsec. (f) relating to genetic information of a fetus or embryo.
+
+Pub. L. 110–233, §103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
+
 1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–233, title I, §103(f)(2), May 21, 2008, 122 Stat. 899, provided that: “The amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
 
 #### Effective Date of 1997 Amendment
 
 Section 1532(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\].”
+
+#### Regulations
+
+Pub. L. 110–233, title I, §103(f)(1), May 21, 2008, 122 Stat. 899, provided that: “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting section 9834 of this title and amending this section and section 9832 of this title\].”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

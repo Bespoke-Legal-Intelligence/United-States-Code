@@ -6,5 +6,5 @@ Not later than 3 months after the effective date of this chapter, the Comptrolle
 
 #### References in Text
 
-The effective date of this chapter, referred to in text, is 60 days after Nov. 25, 2002, see section 4 of Pub. L.107–296, set out as an Effective Date note under section 101 of this title.
+The effective date of this chapter, referred to in text, is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

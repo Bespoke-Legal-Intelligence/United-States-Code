@@ -142,7 +142,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(F) the plan of such applicant to meet standards described in section 9836a(a)(1) of this title, with particular attention to the standards described in subparagraphs (A) and (B) of such section;
 
-&emsp;&emsp;(G) the proposed budget of the applicant and plan of such applicant to maintainstrong fiscal controls and cost-effective fiscal management;
+&emsp;&emsp;(G) the proposed budget of the applicant and plan of such applicant to maintain strong fiscal controls and cost-effective fiscal management;
 
 &emsp;&emsp;(H) the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
 
@@ -212,7 +212,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(M) the plan of such applicant who chooses to assist younger siblings of children who will participate in the Head Start program to obtain health services from other sources;
 
-&emsp;&emsp;(N) the plan of such applicant to meet the needs of children with disabilities, including procedures to identify such children, procedures for referral of such children for evaluation to State or local agencies providingservices under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and plans for collaboration with those State or local agencies;
+&emsp;&emsp;(N) the plan of such applicant to meet the needs of children with disabilities, including procedures to identify such children, procedures for referral of such children for evaluation to State or local agencies providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and plans for collaboration with those State or local agencies;
 
 &emsp;&emsp;(O) the plan of such applicant to meet the needs of homeless children, including transportation needs, and the needs of children in foster care; and
 
@@ -230,7 +230,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (2) Exception
 
-&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
+&emsp;In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, anon-Indian Head Start agency may receive a grant to carry out an Indian Head Start program but only until such time as an Indian Head Start agency in such community becomes available and is designated pursuant to this section.
 
 #### (f) Interim provider
 
@@ -268,7 +268,7 @@ Subsec. (c)(2). Pub. L. 105–285, §107(3)(B), (C), inserted “, in consultat
 
 Subsec. (c)(3). Pub. L. 105–285, §107(3)(C), realigned margins.
 
-Subsec. (d). Pub. L. 105–285, §107(4)(A), inserted in introductory provisions “In selecting from among qualified applicants for designation as a Head Start agency,the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures.”
+Subsec. (d). Pub. L. 105–285, §107(4)(A), inserted in introductory provisions “In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures.”
 
 Subsec. (d)(3). Pub. L. 105–285, §107(4)(B), inserted “and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)” after “(20 U.S.C. 2741 et seq.)”.
 
@@ -290,7 +290,7 @@ Subsec. (d)(7). Pub. L. 105–285, §107(4)(D), amended par. (7) generally. Prio
 
 Subsec. (d)(8) to (10). Pub. L. 105–285, §107(4)(E)–(G), added pars. (8) and (10) and redesignated former par. (8) as (9).
 
-Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program, there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
+Subsec. (e). Pub. L. 105–285, §107(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “If, in a community served by a Head Start program,there is no applicant qualified for designation as a Head Start agency to carry out such program, the Secretary may appoint an interim grantee to carry out such program until a qualified applicant is so designated.”
 
 Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 

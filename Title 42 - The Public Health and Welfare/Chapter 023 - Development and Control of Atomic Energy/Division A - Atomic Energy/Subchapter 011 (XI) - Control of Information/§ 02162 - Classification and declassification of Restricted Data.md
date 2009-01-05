@@ -10,7 +10,7 @@ The Commission shall maintain a continuous review of Restricted Data and of any 
 
 #### (c) Joint determination on atomic weapons; Presidential determination on disagreement
 
-In the case of Restricted Data which the Commission and the Department of Defense jointlydetermine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
+In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
 
 #### (d) Removal from Restricted Data category
 
@@ -30,7 +30,7 @@ Section 102(d) of the National Security Act of 1947, as amended, referred to in 
 
 1994—Subsec. (d). Pub. L. 103–337, §3155(c)(2), substituted “subsection (b) or (d) of section 2164 of this title” for “section 2164(b) of this title”.
 
-Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding any other law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
+Subsec. (f). Pub. L. 103–337, §3155(c)(3), struck out subsec. (f) which read as follows: “Notwithstanding anyother law, the President may publicly release Restricted Data regarding the nuclear weapons stockpile of the United States if the United States and member states of the Commonwealth of Independent States reach reciprocal agreement on the release of such data.”
 
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 

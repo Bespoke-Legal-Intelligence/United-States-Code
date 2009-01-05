@@ -24,7 +24,7 @@ Payment Amount.—Payments made under subsection (a) may not exceed the unpaid c
 
 (d)
 
-Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited,and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
+Security for Advance Payments.—Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
 (e)
 
@@ -40,7 +40,7 @@ Conditions for Payments for Commercial Items.—(1) Payments under subsection (a
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
-(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
+(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency,with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
 (g)
 
@@ -182,7 +182,7 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
 1973—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
-1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to smallbusiness concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
+1958—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
 
 #### Effective Date of 1994 Amendment
 
@@ -202,5 +202,5 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 
 #### Obligations Entered Into Before November 16, 1973
 
-Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
+Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shallnot affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
 

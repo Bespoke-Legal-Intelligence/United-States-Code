@@ -6,5 +6,5 @@ The representatives provided for in section 2021 of this title, when representin
 
 #### Termination of Authority Under This Section
 
-Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to anamendment to the Statute of the Agency, see section 2026 of this title.
+Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
 

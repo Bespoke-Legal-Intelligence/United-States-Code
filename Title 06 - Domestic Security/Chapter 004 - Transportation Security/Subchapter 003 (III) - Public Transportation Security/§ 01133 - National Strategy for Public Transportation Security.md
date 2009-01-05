@@ -2,7 +2,7 @@
 
 #### (a) National Strategy
 
-Not later than 9 months after August 3, 2007, and based upon the previous and ongoing security assessments conducted by the Department and the Department of Transportation, the Secretary, consistent with and as required by section 114(t) of title 49, shall develop and implement the modal plan for public transportation, entitled the “National Strategy for Public Transportation Security”.
+Not later than 9 months after August 3, 2007, and based upon the previous and ongoing security assessments conducted by the Department and the Department of Transportation, the Secretary, consistent with and as required by section 114(t) <sup>1</sup> of title 49, shall develop and implement the modal plan for public transportation, entitled the “National Strategy for Public Transportation Security”.
 
 #### (b) Purpose
 
@@ -36,7 +36,7 @@ The Secretary shall include in the National Strategy for Public Transportation S
 
 #### (e) Adequacy of existing plans and strategies
 
-In developing the National Strategy for Public Transportation Security, the Secretary shall use relevant existing risk assessments and strategies developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) of title 49 or Homeland Security Presidential Directive–7.
+In developing the National Strategy for Public Transportation Security, the Secretary shall use relevant existing risk assessments and strategies developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7.
 
 #### (f) Funding
 
@@ -46,5 +46,9 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 #### References in Text
 
+Section 114(t) of title 49, referred to in subsecs. (a) and (e), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+
 Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note under section 1101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

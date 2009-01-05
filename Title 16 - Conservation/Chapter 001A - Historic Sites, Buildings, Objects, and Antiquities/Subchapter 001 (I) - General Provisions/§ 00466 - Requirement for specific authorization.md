@@ -20,7 +20,7 @@ Except as provided by subsection (a) of this section, there is authorized to be 
 
 #### Codification
 
-October 30, 1992, referred to in subsec. (a), was in the original “the date of enactment of this section” and“such date”, which were translated as meaning the date of enactment of Pub. L. 102–575 which amended this section generally, to reflect the probable intent of Congress.
+October 30, 1992, referred to in subsec. (a), was in the original “the date of enactment of this section” and “such date”, which were translated as meaning the date of enactment of Pub. L. 102–575 which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

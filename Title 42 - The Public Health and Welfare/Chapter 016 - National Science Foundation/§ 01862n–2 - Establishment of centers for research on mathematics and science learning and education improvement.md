@@ -52,7 +52,7 @@
 
 #### (3) Awards
 
-&emsp;The Director shall ensure, to the extent practicable, that the Centers funded underthis section conduct research and develop educational practices designed to improve the educational performance of a broad range of students, including individuals identified in section 1885a or 1885b of this title.
+&emsp;The Director shall ensure, to the extent practicable, that the Centers funded under this section conduct research and develop educational practices designed to improve the educational performance of a broad range of students, including individuals identified in section 1885a or 1885b of this title.
 
 #### (c) Annual conference
 

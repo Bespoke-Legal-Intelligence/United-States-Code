@@ -60,7 +60,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 (i)
 
-Disposition of Records and Archives.—When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44.
+Disposition of Records and Archives.—When no longer required by the Commission, therecords and archives of the Commission shall be deposited with the National Archives in accordance with section 2107 of title 44.
 
 (j)
 

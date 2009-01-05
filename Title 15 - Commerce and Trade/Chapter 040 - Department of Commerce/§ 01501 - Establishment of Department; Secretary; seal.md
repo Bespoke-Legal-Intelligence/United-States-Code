@@ -72,7 +72,7 @@ The White House, March 13, 1950.
 
 #### Federal Maritime Board, and Maritime Functions of Secretary of Commerce
 
-Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the UnitedStates Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
+Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
 
 #### Ex. Ord. No. 13339. Increasing Economic Opportunity and Business Participation of Asian Americans and Pacific Islanders
 
@@ -114,7 +114,7 @@ Sec. 8. Members of the Commission shall serve without compensation, but shall be
 
 Sec. 9. The Commission shall terminate May 13, 2007, unless extended beyond that date by the President.
 
-Sec. 10. For the purposes of this order, the term: (a) “Asian” includes persons having origins in any of the original peoples of the Far East, Southeast Asia, or theIndian subcontinent; and the term (b) “Pacific Islander” includes persons having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+Sec. 10. For the purposes of this order, the term: (a) “Asian” includes persons having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent; and the term (b) “Pacific Islander” includes persons having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
 
 Sec. 11. The Secretary of Commerce shall consult the Attorney General as appropriate on the implementation of this order to ensure that such implementation affords the equal protection of the laws required by the due process clause of the Fifth Amendment to the Constitution.
 

@@ -4,7 +4,7 @@
 
 No officer or employee of the United States shall—
 
-&emsp;(1) delay the deposit of any amount into (or delay the credit of any amount to) any Federal fund or otherwise vary from the normalterms, procedures, or timing for making such deposits or credits,
+&emsp;(1) delay the deposit of any amount into (or delay the credit of any amount to) any Federal fund or otherwise vary from the normal terms, procedures, or timing for making such deposits or credits,
 
 &emsp;(2) refrain from the investment in public debt obligations of amounts in any Federal fund, or
 

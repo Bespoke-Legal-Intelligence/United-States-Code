@@ -22,7 +22,7 @@ The purposes for which grants made under subsection (a) of this section may be m
 
 &emsp;(8) increase police participation in multidisciplinary early intervention teams;
 
-&emsp;(9) develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies;
+&emsp;(9) develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting tocrime to preventing crime and to train law enforcement officers to use such technologies;
 
 &emsp;(10) develop and implement innovative programs to permit members of the community to assist State and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
 

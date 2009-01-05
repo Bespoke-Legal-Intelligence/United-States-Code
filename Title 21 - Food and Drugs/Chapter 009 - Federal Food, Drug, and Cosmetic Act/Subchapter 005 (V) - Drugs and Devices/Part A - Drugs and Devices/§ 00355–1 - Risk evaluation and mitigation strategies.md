@@ -4,7 +4,7 @@
 
 #### (1) Initial approval
 
-&emsp;If the Secretary, in consultation with the office responsible for reviewing the drug and the office responsible for postapproval safety with respect to the drug, determines that a risk evaluation and mitigation strategy is necessary to ensure that the benefits of the drug outweigh the risks of the drug, and informsthe person who submits such application of such determination, then such person shall submit to the Secretary as part of such application a proposed risk evaluation and mitigation strategy. In making such a determination, the Secretary shall consider the following factors:
+&emsp;If the Secretary, in consultation with the office responsible for reviewing the drug and the office responsible for postapproval safety with respect to the drug, determines that a risk evaluation and mitigation strategy is necessary to ensure that the benefits of the drug outweigh the risks of the drug, and informs the person who submits such application of such determination, then such person shall submit to the Secretary as part of such application a proposed risk evaluation and mitigation strategy. In making such a determination, the Secretary shall consider the following factors:
 
 &emsp;&emsp;(A) The estimated size of the population likely to use the drug involved.
 
@@ -210,7 +210,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (4) Implementation system
 
-&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs (B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
+&emsp;The elements to assure safe use under paragraph (1) that are described in subparagraphs\(B), (C), and (D) of paragraph (3) may include a system through which the applicant is able to take reasonable steps to—
 
 &emsp;&emsp;(A) monitor and evaluate implementation of such elements by health care providers, pharmacists, and other parties in the health care system who are responsible for implementing such elements; and
 
@@ -260,7 +260,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (1) Voluntary assessments
 
-&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), theresponsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of, and propose a modification to, the approved strategy for the drug involved at any time.
+&emsp;After the approval of a risk evaluation and mitigation strategy under subsection (a), the responsible person involved may, subject to paragraph (2), submit to the Secretary an assessment of, and propose a modification to, the approved strategy for the drug involved at any time.
 
 #### (2) Required assessments
 
@@ -326,7 +326,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (4) Dispute resolution at initial approval
 
-&emsp;If a proposed risk evaluation and mitigation strategy is submitted under subsection (a)(1)in an application for initial approval of a drug and there is a dispute about the strategy, the responsible person shall use the major dispute resolution procedures as set forth in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
+&emsp;If a proposed risk evaluation and mitigation strategy is submitted under subsection (a)(1) in an application for initial approval of a drug and there is a dispute about the strategy, the responsible person shall use the major dispute resolution procedures as set forth in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
 
 #### (5) Dispute resolution in all other cases
 
@@ -422,7 +422,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (A) In general
 
-&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacological class of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
+&emsp;&emsp;When a concern about a serious risk of a drug may be related to the pharmacologicalclass of the drug, the Secretary, in consultation with the offices described in subsection (c)(2), may defer assessments of the approved risk evaluation and mitigation strategies for such drugs until the Secretary has convened 1 or more public meetings to consider possible responses to such concern.
 
 #### (B) Notice
 
@@ -470,7 +470,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(A) A Medication Guide or patient package insert, if required under subsection (e) for the applicable listed drug.
 
-&emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviatednew drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
+&emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>1</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 

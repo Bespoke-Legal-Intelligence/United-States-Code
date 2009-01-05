@@ -1,6 +1,6 @@
 ### §1753. Federal credit union organization
 
-Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths anorganization certificate in duplicate which shall specifically state:
+Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths an organization certificate in duplicate which shall specifically state:
 
 &emsp;(1) the name of the association;
 

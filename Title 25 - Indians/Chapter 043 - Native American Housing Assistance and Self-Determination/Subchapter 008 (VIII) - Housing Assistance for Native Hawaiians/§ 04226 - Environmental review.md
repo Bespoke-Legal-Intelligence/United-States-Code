@@ -44,7 +44,7 @@
 
 #### (2) Effect of approval
 
-&emsp;The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of theSecretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
+&emsp;The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
 
 #### (c) Certification
 

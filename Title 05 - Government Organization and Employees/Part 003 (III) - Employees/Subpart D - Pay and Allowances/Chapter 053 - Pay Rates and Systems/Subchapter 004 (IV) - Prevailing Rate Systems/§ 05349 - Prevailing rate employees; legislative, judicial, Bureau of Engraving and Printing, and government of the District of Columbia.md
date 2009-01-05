@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6,1966, 80 Stat. 471; Pub. L. 90–83, §1(97), Sept. 11, 1967, 81 Stat. 220 (formerly classified to section 5341(a) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
+Provisions similar to those comprising subsec. (a) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471; Pub. L. 90–83, §1(97), Sept. 11, 1967, 81 Stat. 220 (formerly classified to section 5341(a) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
 

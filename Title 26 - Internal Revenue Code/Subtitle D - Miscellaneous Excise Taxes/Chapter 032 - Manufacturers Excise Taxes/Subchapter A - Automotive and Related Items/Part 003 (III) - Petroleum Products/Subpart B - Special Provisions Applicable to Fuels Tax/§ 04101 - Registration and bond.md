@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081 and every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+&emsp;Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 #### (2) Registration of persons within foreign trade zones, etc.
 
@@ -64,9 +64,15 @@ The Secretary may require—
 
 > Any person who is required to report under this subsection and who has 25 or more reportable transactions in a month shall file such report in electronic format.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 484; Pub. L. 89–44, title VIII, §802(b)(2), June 21, 1965, 79 Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–424, title V, §515(b)(8), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 99–514, title XVII, §1703(b)(1), Oct. 22, 1986, 100Stat. 2776; Pub. L. 100–203, title X, §10502(d)(3), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11212(b)(1), Nov. 5, 1990, 104 Stat. 1388–430; Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 105–34, title X, §1032(d), Aug. 5, 1997, 111 Stat. 934; Pub. L. 105–206, title VI, §6010(h)(5), July 22, 1998, 112 Stat. 815; Pub. L. 107–147, title VI, §615(a), Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–357, title III, §301(b), title VIII, §§853(d)(2)(F), 861(a), 862(a), 864(a), Oct. 22, 2004, 118 Stat. 1461, 1613, 1618, 1619, 1621; Pub. L. 109–59, title XI, §§11113(c), 11163(a), 11164(a), Aug. 10, 2005, 119 Stat. 1949, 1973, 1975; Pub. L. 110–172, §11(a)(29), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–234, title XV, §15321(b)(3)(A), May 22, 2008, 122 Stat. 1513; Pub. L. 110–246, §4(a), title XV, §15321(b)(3)(A), June 18, 2008, 122 Stat. 1664, 2275.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
 
 2007—Subsec. (a)(4), (5). Pub. L. 110–172 redesignated par. (4) relating to reregistration in event of change of ownership as (5).
 
@@ -122,6 +128,12 @@ Bond.—Under regulations prescribed by the Secretary, every person who register
 
 1965—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15321(b)(3)(A) of Pub. L. 110–246 applicable to fuel produced after Dec. 31, 2008, see section 15321(g) of Pub. L. 110–246, set out as a note under section 40 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use for any period after Sept. 30, 2006, see section 11113(d) of Pub. L. 109–59, set out as a note under section 4041 of this title.
@@ -148,7 +160,7 @@ Pub. L. 107–147, title VI, §615(b), Mar. 9, 2002, 116 Stat. 62, provided that
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

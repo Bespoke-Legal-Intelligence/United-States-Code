@@ -80,7 +80,7 @@ As used in this section—
 
 #### (2) Effect of State law or regulation
 
-&emsp;The requirements of paragraph (1)(A) shall not apply to an aggregator in any case in which State law or State regulation requiresthe aggregator to take actions that are substantially the same as those required in paragraph (1)(A).
+&emsp;The requirements of paragraph (1)(A) shall not apply to an aggregator in any case in which State law or State regulation requires the aggregator to take actions that are substantially the same as those required in paragraph (1)(A).
 
 #### (d) General rulemaking required
 
@@ -104,7 +104,7 @@ As used in this section—
 
 &emsp;The regulations prescribed under this section shall, at a minimum—
 
-&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregators to use in the routing and handling of emergency telephone calls; and
+&emsp;&emsp;(A) establish minimum standards for providers of operator services and aggregatorsto use in the routing and handling of emergency telephone calls; and
 
 &emsp;&emsp;(B) establish a policy for requiring providers of operator services to make public information about recent changes in operator services and choices available to consumers in that market.
 

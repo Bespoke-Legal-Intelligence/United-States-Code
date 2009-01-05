@@ -36,7 +36,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, 
 
 #### (2) Safety or effectiveness
 
-&emsp;For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
+&emsp;For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include anyrequirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 
 #### (d) Exceptions
 
@@ -58,7 +58,7 @@ Nothing in this section shall be construed to modify or otherwise affect any act
 
 #### (f) State enforcement authority
 
-Nothing in this section shall prevent a State or political subdivision thereof from enforcing, under any relevant civil or other enforcementauthority, a requirement that is identical to a requirement of this chapter.
+Nothing in this section shall prevent a State or political subdivision thereof from enforcing, under any relevant civil or other enforcement authority, a requirement that is identical to a requirement of this chapter.
 
 (June 25, 1938, ch. 675, §751, as added Pub. L. 105–115, title IV, §412(a), Nov. 21, 1997, 111 Stat. 2373.)
 

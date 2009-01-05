@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Great Lakes are a valuable national resource, continuously serving the people of the United States and other nations as an important source of food, fresh water, recreation, beauty, and enjoyment;
 
-&emsp;&emsp;(B) the United States should seek to attain the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, with particular emphasis on goals related to toxic pollutants; and
+&emsp;&emsp;(B) the United States should seek to attain the goals embodied in the Great LakesWater Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, with particular emphasis on goals related to toxic pollutants; and
 
 &emsp;&emsp;(C) the Environmental Protection Agency should take the lead in the effort to meet those goals, working with other Federal agencies and State and local authorities.
 
@@ -36,9 +36,13 @@
 
 &emsp;&emsp;(H) “Great Lakes Water Quality Agreement” means the bilateral agreement, between the United States and Canada which was signed in 1978 and amended by the Protocol of 1987;
 
-&emsp;&emsp;(I) “Lakewide Management Plan” means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of the open waters of each of the Great Lakes, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement; and
+&emsp;&emsp;(I) “Lakewide Management Plan” means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of the open waters of each of the Great Lakes, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement;
 
-&emsp;&emsp;(J) “Remedial Action Plan” means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of areas of concern, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement.
+&emsp;&emsp;(J) “Remedial Action Plan” means a written document which embodies a systematic and comprehensive ecosystem approach to restoring and protecting the beneficial uses of areas of concern, in accordance with article VI and Annex 2 of the Great Lakes Water Quality Agreement;
+
+&emsp;&emsp;(K) “site characterization” means a process for monitoring and evaluating the nature and extent of sediment contamination in accordance with the Environmental Protection Agency's guidance for the assessment of contaminated sediment in an area of concern located wholly or partially within the United States; and
+
+&emsp;&emsp;(L) “potentially responsible party” means an individual or entity that may be liable under any Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.
 
 #### (b) Great Lakes National Program Office
 
@@ -126,7 +130,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;(iv) by December 31, 1993, issue a final report to Congress on its findings.
 
-&emsp;(C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protecthealth, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
+&emsp;(C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protect health, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
 
 #### (8) Administrator's responsibility
 
@@ -188,7 +192,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(i) monitors or evaluates contaminated sediment;
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (D), implements a plan to remediate contaminated sediment; or
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (D), implements a plan to remediate contaminated sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment; or
 
 &emsp;&emsp;&emsp;(iii) prevents further or renewed contamination of sediment.
 
@@ -206,13 +210,17 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(iv) includes remediation to be commenced not later than 1 year after the date of receipt of funds for the project.
 
-#### (D) Limitation
+#### (D) Limitations
 
-&emsp;&emsp;The Administrator may not carry out a project under this paragraph for remediationof contaminated sediments located in an area of concern—
+&emsp;&emsp;The Administrator may not carry out a project under this paragraph for remediation of contaminated sediments located in an area of concern—
 
-&emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment; or
+&emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment;
 
-&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project.
+&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
+
+&emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
+
+&emsp;&emsp;&emsp;(iv) unless the Administrator provides assurance that the Agency has conducted a reasonable inquiry to identify potentially responsible parties connected with the site.
 
 #### (E) Non-Federal share
 
@@ -222,23 +230,55 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (ii) In-kind contributions
 
-&emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.
+#### (I) In general
 
-#### (iii) Non-Federal share
+&emsp;&emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph may include the value of an in-kind contribution provided by a non-Federal sponsor.
+
+#### (II) Credit
+
+&emsp;&emsp;&emsp;&emsp;A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material or service provided as the in-kind contribution is integral to the project.
+
+#### (III) Work performed before project agreement
+
+&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+
+#### (IV) Limitation
+
+&emsp;&emsp;&emsp;&emsp;Credit authorized under this clause for a project carried out under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not exceed the non-Federal share of the cost of the project; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall not exceed the actual and reasonable costs of the materials and services provided by the non-Federal sponsor, as determined by the Administrator.
+
+#### (V) Inclusion of certain contributions
+
+&emsp;&emsp;&emsp;&emsp;In this subparagraph, the term “in-kind contribution” may include the costs of planning (including data collection), design, construction, and materials that are provided by the non-Federal sponsor for implementation of a project under this paragraph.
+
+#### (iii) Treatment of credit between projects
+
+&emsp;&emsp;&emsp;Any credit provided under this subparagraph towards the non-Federal share of the cost of a project carried out under this paragraph may be applied towards the non-Federal share of the cost of any other project carried out under this paragraph by the same non-Federal sponsor for a site within the same area of concern.
+
+#### (iv) Non-Federal share
 
 &emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) may include monies paid pursuant to, or the value of any in-kind service performed under, an administrative order on consent or judicial consent decree; but
+&emsp;&emsp;&emsp;&emsp;(I) may include monies paid pursuant to, or the value of any in-kind contribution performed under, an administrative order on consent or judicial consent decree; but
 
-&emsp;&emsp;&emsp;&emsp;(II) may not include any funds paid pursuant to, or the value of any in-kind service performed under, a unilateral administrative order or court order.
+&emsp;&emsp;&emsp;&emsp;(II) may not include any funds paid pursuant to, or the value of any in-kind contribution performed under, a unilateral administrative order or court order.
 
-#### (iv) Operation and maintenance
+#### (v) Operation and maintenance
 
 &emsp;&emsp;&emsp;The non-Federal share of the cost of the operation and maintenance of a project carried out under this paragraph shall be 100 percent.
 
-#### (F) Maintenance of effort
+#### (F) Site characterization
 
-&emsp;&emsp;The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Administrator, in consultation with any affected State or unit of local government, shall carry out at Federal expense the site characterization of a project under this paragraph for the remediation of contaminated sediment.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the Administrator may carry out one site assessment per discrete site within a project at Federal expense.
 
 #### (G) Coordination
 
@@ -248,11 +288,15 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.
+&emsp;&emsp;&emsp;In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2010.
 
 #### (ii) Availability
 
 &emsp;&emsp;&emsp;Funds made available under clause (i) shall remain available until expended.
+
+#### (iii) Allocation of funds
+
+&emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
 
 #### (13) Public information program
 
@@ -262,7 +306,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2008.
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
 
 #### (d) Great Lakes research
 
@@ -338,13 +382,37 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 &emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021.)
 
 #### Codification
 
 November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (a)(3)(K), (L). Pub. L. 110–365, §2, added subpars. (K) and (L).
+
+Subsec. (c)(12)(B)(ii). Pub. L. 110–365, §3(a), substituted “sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment” for “sediment”.
+
+Subsec. (c)(12)(D). Pub. L. 110–365, §3(b)(1), substituted “Limitations” for “Limitation” in heading.
+
+Subsec. (c)(12)(D)(iii), (iv). Pub. L. 110–365, §3(b)(2)–(4), added cls. (iii) and (iv).
+
+Subsec. (c)(12)(E)(ii). Pub. L. 110–365, §3(c), amended cl. (ii) generally. Prior to amendment, text read as follows: “The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.”
+
+Subsec. (c)(12)(E)(iii). Pub. L. 110–365, §3(d)(2), added cl. (iii). Former cl. (iii) redesignated (iv).
+
+Subsec. (c)(12)(E)(iv). Pub. L. 110–365, §3(d)(1), (3), redesignated cl. (iii) as (iv) and substituted “contribution” for “service” in two places. Former cl. (iv) redesignated (v).
+
+Subsec. (c)(12)(E)(v). Pub. L. 110–365, §3(d)(1), redesignated cl. (iv) as (v).
+
+Subsec. (c)(12)(F). Pub. L. 110–365, §3(e), amended subpar. (F) generally. Prior to amendment, text read as follows: “The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.”
+
+Subsec. (c)(12)(H)(i). Pub. L. 110–365, §3(f)(1), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.”
+
+Subsec. (c)(12)(H)(iii). Pub. L. 110–365, §3(f)(2), added cl. (iii).
+
+Subsec. (c)(13)(B). Pub. L. 110–365, §3(g), substituted “2010” for “2008”.
 
 2002—Subsec. (c)(3)(E). Pub. L. 107–303, §102, added subpar. (E).
 
@@ -444,7 +512,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakes region regarding policies, strategies, projects, and priorities for the Great Lakes system.
 
-&emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities foraddressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
+&emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
 
 &emsp;(iv) Develop outcome-based goals for the Great Lakes system relying upon, among other things, existing data and science-based indicators of water quality and related environmental factors. These goals shall focus on outcomes such as cleaner water, sustainable fisheries, and biodiversity of the Great Lakes system and ensure that Federal policies, strategies, projects, and priorities support measurable results.
 

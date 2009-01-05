@@ -2,7 +2,7 @@
 
 #### (a) Designation and functions
 
-The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, and the head of any other department, agency, or element of the executive branch designated by the Privacy and Civil Liberties Oversight Board under section 2000ee of this title to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
+The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary ofthe Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, and the head of any other department, agency, or element of the executive branch designated by the Privacy and Civil Liberties Oversight Board under section 2000ee of this title to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
 
 &emsp;(1) assist the head of such department, agency, or element and other officials of such department, agency, or element in appropriately considering privacy and civil liberties concerns when such officials are proposing, developing, or implementing laws, regulations, policies, procedures, or guidelines related to efforts to protect the Nation against terrorism;
 

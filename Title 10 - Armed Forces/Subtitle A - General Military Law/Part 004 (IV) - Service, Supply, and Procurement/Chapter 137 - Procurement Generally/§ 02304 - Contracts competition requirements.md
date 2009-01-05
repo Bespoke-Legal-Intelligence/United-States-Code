@@ -34,7 +34,7 @@
 
 &emsp;(F) in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
 
-(2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title.
+(2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 ofthe Small Business Act (15 U.S.C. 638, 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title.
 
 (3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1).
 
@@ -75,6 +75,18 @@
 &emsp;&emsp;(ii) unacceptable delays in fulfilling the agency's needs.
 
 (2) The authority of the head of an agency under subsection (c)(7) may not be delegated.
+
+(3)(A) The contract period of a contract described in subparagraph (B) that is entered into by an agency pursuant to the authority provided under subsection (c)(2)—
+
+&emsp;(i) may not exceed the time necessary—
+
+&emsp;&emsp;(I) to meet the unusual and compelling requirements of the work to be performed under the contract; and
+
+&emsp;&emsp;(II) for the agency to enter into another contract for the required goods or services through the use of competitive procedures; and
+
+&emsp;(ii) may not exceed one year unless the head of the agency entering into such contract determines that exceptional circumstances apply.
+
+(B) This paragraph applies to any contract in an amount greater than the simplified acquisition threshold.
 
 (e) The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of subsection (c)(2) or (c)(6) shall request offers from as many potential sources as is practicable under the circumstances.
 
@@ -118,9 +130,7 @@
 
 &emsp;(F) a statement of the actions, if any, the agency may take to remove or overcome any barrier to competition before a subsequent procurement for such needs.
 
-(4) The justification required by paragraph (1)(A) and any related information, and any document prepared pursuant to paragraph (2)(E), shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.
-
-(5) In no case may the head of an agency—
+(4) In no case may the head of an agency—
 
 &emsp;(A) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount of funds available to the agency for procurement functions; or
 
@@ -128,7 +138,7 @@
 
 > The restriction contained in clause (B) is in addition to, and not in lieu of, any other restriction provided by law.
 
-(6)(A) The authority of the head of a procuring activity under paragraph (1)(B)(ii) may be delegated only to an officer or employee who—
+(5)(A) The authority of the head of a procuring activity under paragraph (1)(B)(ii) may be delegated only to an officer or employee who—
 
 &emsp;(i) if a member of the armed forces, is a general or flag officer; or
 
@@ -188,7 +198,15 @@
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
+(<i>l</i>)(1)(A) Except as provided in subparagraph (B), in the case of a procurement permitted by subsection (c), the head of an agency shall make publicly available, within 14 days after the award of the contract, the documents containing the justification and approval required by subsection (f)(1) with respect to the procurement.
+
+(B) In the case of a procurement permitted by subsection (c)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
+
+(2) The documents shall be made available on the website of the agency and through a government-wide website selected by the Administrator for Federal Procurement Policy.
+
+(3) This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225;Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546.)
 
 Historical and Revision Notes<br>1956
 
@@ -301,6 +319,12 @@ The Walsh-Healey Act, referred to in subsec. (h)(1), is act June 30, 1936, ch. 8
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–417 added par. (3).
+
+Subsec. (f)(4) to (6). Pub. L. 110–181, §844(b)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “The justification required by paragraph (1)(A) and any related information, and any document prepared pursuant to paragraph (2)(E), shall be made available for inspection by the public consistent with the provisions of section 552 of title 5.”
+
+Subsec. (<i>l</i>). Pub. L. 110–181, §844(b)(1), added subsec. (<i>l</i>).
 
 2006—Subsec. (f)(1)(B)(iii). Pub. L. 109–364 substituted “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” for “section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
@@ -524,7 +548,337 @@ Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
 
+#### Small Arms Acquisition Strategy and Requirements Review
+
+Pub. L. 110–417, \[div. A\], title I, §143, Oct. 14, 2008, 122 Stat. 4381, provided that:
+
+“(a)
+
+Secretary of Defense Report.—Not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the small arms requirements of the Armed Forces and the industrial base of the United States. The report shall include the following:
+
+&emsp;“(1) An assessment of Department of Defense-wide small arms requirements in terms of capabilities and quantities, based on an analysis of the small arms capability assessments of each military department.
+
+&emsp;“(2) An assessment of plans for small arms research, development, and acquisition programs to meet the requirements identified under paragraph (1).
+
+&emsp;“(3) An assessment of capabilities, capacities, and risks in the small arms industrial base of the United States to meet the requirements of the Department of Defense for pistols, carbines, rifles, and light, medium, and heavy machine guns during the 20 years following the date of the report.
+
+&emsp;“(4) An assessment of the costs, benefits, and risks of full and open competition for the procurement of non-developmental pistols and carbines that are not technically compatible with the M9 pistol or M4 carbine to meet the requirements identified under paragraph (1).
+
+“(b)
+
+Competition for a New Individual Weapon.—
+
+&emsp;“(1)
+
+Competition required.—If the small arms capabilities based assessments by the Army identifies \[sic\] gaps in small arms capabilities and the Secretary of the Army determines that a new individual weapon is required to address such gaps, the Secretary shall procure the new individual weapon using full and open competition as described in paragraph (2).
+
+&emsp;“(2)
+
+Full and open competition.—The full and open competition described in this paragraph is competition among all responsible manufacturers that—
+
+&emsp;&emsp;“(A) is open to all developmental item solutions and non-developmental item solutions; and
+
+&emsp;&emsp;“(B) provides for the award of a contract based on selection criteria that reflect the key performance parameters and attributes identified in a service requirements document approved by the Army.
+
+“(c)
+
+Small Arms Defined.—In this section, the term ‘small arms’—
+
+&emsp;“(1) means man-portable or vehicle-mounted light weapons, designed primarily for use by individual military personnel for anti-personnel use; and
+
+&emsp;“(2) includes pistols, carbines, rifles, and light, medium, and heavy machine guns.”
+
+#### Implementation of Statutory Requirements Regarding the National Technology and Industrial Base
+
+Pub. L. 110–417, \[div. A\], title VIII, §802, Oct. 14, 2008, 122 Stat. 4518, provided that:
+
+“(a)
+
+Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue guidance regarding—
+
+&emsp;“(1) the appropriate application of the authority in sections 2304(b) and 2304(c)(3)(A) of title 10, United States Code, in connection with major defense acquisition programs; and
+
+&emsp;“(2) the appropriate timing and performance of the requirement in section 2440 of title 10, United States Code, to consider the national technology and industrial base in the development and implementation of acquisition plans for each major defense acquisition program.
+
+“(b)
+
+Definitions.—In this section;\[:\]
+
+&emsp;“(1)
+
+Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning provided in section 2430 of title 10, United States Code.
+
+&emsp;“(2)
+
+National technology and industrial base.—The term ‘national technology and industrial base’ has the meaning provided in section 2500(1) of title 10, United States Code.”
+
+#### Plan for Restricting Government-Unique Contract Clauses on Commercial Contracts
+
+Pub. L. 110–181, div. A, title VIII, §821, Jan. 28, 2008, 122 Stat. 226, provided that:
+
+“(a)
+
+Plan.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop and implement a plan to minimize the number of government-unique contract clauses used in commercial contracts by restricting the clauses to the following:
+
+&emsp;“(1) Government-unique clauses authorized by law or regulation.
+
+&emsp;“(2) Any additional clauses that are relevant and necessary to a specific contract.
+
+“(b)
+
+Commercial Contract.—In this section:
+
+&emsp;“(1) The term ‘commercial contract’ means a contract awarded by the Federal Government for the procurement of a commercial item.
+
+&emsp;“(2) The term ‘commercial item’ has the meaning provided by section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).”
+
+#### Telephone Services for Military Personnel Serving In Combat Zones
+
+Pub. L. 110–181, div. A, title VIII, §885, Jan. 28, 2008, 122 Stat. 265, provided that:
+
+“(a)
+
+Competitive Procedures Required.—
+
+&emsp;“(1)
+
+Requirement.—When the Secretary of Defense considers it necessary to provide morale, welfare, and recreation telephone services for military personnel serving in combat zones, the Secretary shall use competitive procedures when entering into a contract to provide those services.
+
+&emsp;“(2)
+
+Review and determination.—Before soliciting bids or proposals for new contracts, or considering extensions to existing contracts, to provide morale, welfare, and recreation telephone services for military personnel serving in combat zones, the Secretary shall review and determine whether it is in the best interest of the Department to require bids or proposals, or adjustments for the purpose of extending a contract, to include options that minimize the cost of the telephone services to individual users while providing individual users the flexibility of using phone cards from other than the prospective contractor. The Secretary shall submit the results of this review and determination to the Committees on Armed Services of the Senate and the House of Representatives.
+
+“(b)
+
+Effective Date.—
+
+&emsp;“(1)
+
+Requirement.—Subsection (a)(1) shall apply to any new contract to provide morale, welfare, and recreation telephone services for military personnel serving in combat zones that is entered into after the date of the enactment of this Act \[Jan. 28, 2008\].
+
+&emsp;“(2)
+
+Review and determination.—Subsection (a)(2) shall apply to any new contract or extension to an existing contract to provide morale, welfare, and recreation telephone services for military personnel serving in combat zones that is entered into or agreed upon after the date of the enactment of this Act.”
+
+#### Competition for Procurement of Small Arms Supplied to Iraq and Afghanistan
+
+Pub. L. 110–181, div. A, title VIII, §892, Jan. 28, 2008, 122 Stat. 270, provided that:
+
+“(a)
+
+Competition Requirement.—For the procurement of pistols and other weapons described in subsection (b), the Secretary of Defense shall ensure, consistent with the provisions of section 2304 of title 10, United States Code, that—
+
+&emsp;“(1) full and open competition is obtained to the maximum extent practicable;
+
+&emsp;“(2) no responsible United States manufacturer is excluded from competing for such procurements; and
+
+&emsp;“(3) products manufactured in the United States are not excluded from the competition.
+
+“(b)
+
+Procurements Covered.—This section applies to the procurement of the following:
+
+&emsp;“(1) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Iraq, the Iraqi Police Forces, and other Iraqi security organizations.
+
+&emsp;“(2) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Afghanistan, the Afghani Police Forces, and other Afghani security organizations.”
+
 #### Internal Controls for Procurements on Behalf of the Department of Defense
+
+Pub. L. 110–417, \[div. A\], title VIII, §804(a)–(c), Oct. 14, 2008, 122 Stat. 4519, provided that:
+
+“(a)
+
+Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specified in subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) \[set out below\] for purposes of such section.
+
+“(b)
+
+Deadlines and Applicability for Additional Non-Defense Agencies.—For each covered non-defense agency specified in subsection (c) of this section, section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) shall apply to such agency as follows:
+
+&emsp;“(1) The review and determination required by subsection (a)(1) of such section shall be completed by not later than March 15, 2009.
+
+&emsp;“(2) The review and determination required by subsection (a)(2) of such section, if necessary, shall be completed by not later than June 15, 2010, and such review and determination shall be a review and determination of such agency's procurement of property and services on behalf of the Department of Defense in fiscal year 2009.
+
+&emsp;“(3) The memorandum of understanding required by subsection (c)(1) of such section shall be entered into by not later than 60 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+
+&emsp;“(4) The limitation specified in subsection (d)(1) of such section shall apply after March 15, 2009, and before June 16, 2010.
+
+&emsp;“(5) The limitation specified in subsection (d)(2) of such section shall apply after June 15, 2010.
+
+&emsp;“(6) The limitation required by subsection (d)(3) of such section shall commence, if necessary, on the date that is 60 days after the date of the enactment of this Act.
+
+“(c)
+
+Definition of Covered Non-Defense Agency.—In this section, the term ‘covered non-defense agency’ means each of the following:
+
+&emsp;“(1) The Department of Commerce.
+
+&emsp;“(2) The Department of Energy.”
+
+Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, \[div. A\], title VIII, §804(d), Oct. 14, 2008, 122 Stat. 4519, provided that:
+
+“(a)
+
+Inspectors General Reviews and Determinations.—
+
+&emsp;“(1)
+
+In general.—For each covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of such covered non-defense agency shall, not later than the date specified in paragraph (2), jointly—
+
+&emsp;&emsp;“(A) review—
+
+&emsp;&emsp;&emsp;“(i) the procurement policies, procedures, and internal controls of such covered non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such covered non-defense agency; and
+
+&emsp;&emsp;&emsp;“(ii) the administration of such policies, procedures, and internal controls; and
+
+&emsp;&emsp;“(B) determine in writing whether such covered non-defense agency is or is not compliant with defense procurement requirements.
+
+&emsp;“(2)
+
+Deadline for reviews and determinations.—The reviews and determinations required by paragraph (1) shall take place as follows:
+
+&emsp;&emsp;“(A) In the case of the General Services Administration, by not later than March 15, 2010.
+
+&emsp;&emsp;“(B) In the case of the Department of the Interior, by not later than March 15, 2011.
+
+&emsp;&emsp;“(C) In the case of each of the Department of Veterans Affairs and the National Institutes of Health, by not later than March 15, 2012.
+
+&emsp;&emsp;“(D) In the case of each of the Department of Commerce and the Department of Energy, by not later than March 15, 2015.
+
+&emsp;“(3)
+
+Separate reviews and determinations.—The Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency may by joint agreement conduct separate reviews of the procurement of property and services on behalf of the Department of Defense that are conducted by separate business units, or under separate government-wide acquisition contracts, of the covered non-defense agency. If such separate reviews are conducted, the Inspectors General shall make a separate determination under paragraph (1)(B) with respect to each such separate review.
+
+&emsp;“(4)
+
+Memoranda of understanding for reviews and determinations.—Not later than one year before a review and determination is required under this subsection with respect to a covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of the covered non-defense agency shall enter into a memorandum of understanding with each other to carry out such review and determination.
+
+&emsp;“(5)
+
+Termination of non-compliance determination.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency determine, pursuant to paragraph (1)(B), that a covered non-defense agency is not compliant with defense procurement requirements, the Inspectors General shall terminate such a determination effective on the date on which the Inspectors General jointly—
+
+&emsp;&emsp;“(A) determine that the non-defense agency is compliant with defense procurement requirements; and
+
+&emsp;&emsp;“(B) notify the Secretary of Defense of that determination.
+
+&emsp;“(6)
+
+Resolution of disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under this subsection, a determination by the Inspector General of the Department of Defense under this subsection shall be conclusive for the purposes of this section.
+
+“(b)
+
+Limitation on Procurements on Behalf of Department of Defense.—
+
+&emsp;“(1) Except as provided in paragraph (2), an acquisition official of the Department of Defense may place an order, make a purchase, or otherwise procure property or services for the Department of Defense in excess of the simplified acquisition threshold through a non-defense agency only if—
+
+&emsp;&emsp;“(A) in the case of a procurement by any non-defense agency in any fiscal year, the head of the non-defense agency has certified that the non-defense agency will comply with defense procurement requirements for the fiscal year;
+
+&emsp;&emsp;“(B) in the case of—
+
+&emsp;&emsp;&emsp;“(i) a procurement by a covered non-defense agency in a fiscal year for which a memorandum of understanding is required by subsection (a)(4), the Inspector General of the Department of Defense and the Inspector General of the covered non-defense agency have entered into such a memorandum of understanding; or
+
+&emsp;&emsp;&emsp;“(ii) a procurement by a covered non-defense agency in a fiscal year following the Inspectors General review and determination required by subsection (a), the Inspectors General have determined that a covered non-defense agency is compliant with defense procurement requirements or have terminated a prior determination of non-compliance in accordance with subsection (a)(5); and
+
+&emsp;&emsp;“(C) the procurement is not otherwise prohibited by section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) or section 811 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[see notes below\].
+
+&emsp;“(2)
+
+Exception for procurements of necessary property and services.—
+
+&emsp;&emsp;“(A)
+
+In general.—The limitation in paragraph (1) shall not apply to the procurement of property and services on behalf of the Department of Defense by a non-defense agency during any fiscal year for which there is in effect a written determination of the Under Secretary of Defense for Acquisition, Technology, and Logistics that it is necessary in the interest of the Department of Defense to procure property and services through the non-defense agency during such fiscal year.
+
+&emsp;&emsp;“(B)
+
+Scope of particular exception.—A written determination with respect to a non-defense agency under subparagraph (A) shall apply to any category of procurements through the non-defense agency that is specified in the determination.
+
+“(c)
+
+Guidance on Interagency Contracting.—
+
+&emsp;“(1)
+
+Requirement.—Not later than 180 days after the date of enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance on the use of interagency contracting by the Department of Defense.
+
+&emsp;“(2)
+
+Matters covered.—The guidance required by paragraph (1) shall address the circumstances in which it is appropriate for Department of Defense acquisition officials to procure goods or services through a contract entered into by an agency outside the Department of Defense. At a minimum, the guidance shall address—
+
+&emsp;&emsp;“(A) the circumstances in which it is appropriate for such acquisition officials to use direct acquisitions;
+
+&emsp;&emsp;“(B) the circumstances in which it is appropriate for such acquisition officials to use assisted acquisitions;
+
+&emsp;&emsp;“(C) the circumstances in which it is appropriate for such acquisition officials to use interagency contracting to acquire items unique to the Department of Defense and the procedures for approving such interagency contracting;
+
+&emsp;&emsp;“(D) the circumstances in which it is appropriate for such acquisition officials to use interagency contracting to acquire items that are already being provided under a contract awarded by the Department of Defense;
+
+&emsp;&emsp;“(E) tools that should be used by such acquisition officials to determine whether items are already being provided under a contract awarded by the Department of Defense; and
+
+&emsp;&emsp;“(F) procedures for ensuring that defense procurement requirements are identified and communicated to outside agencies involved in interagency contracting.
+
+“(d)
+
+Compliance With Defense Procurement Requirements.—For the purposes of this section, a non-defense agency is compliant with defense procurement requirements if the procurement policies, procedures, and internal controls of the non-defense agency applicable to the procurement of products and services on behalf of the Department of Defense, and the manner in which they are administered, are adequate to ensure the compliance of the non-defense agency with the requirements of laws and regulations (including applicable Department of Defense financial management regulations) that apply to procurements of property and services made directly by the Department of Defense.
+
+“(e)
+
+Treatment of Procurements for Fiscal Year Purposes.—For the purposes of this section, a procurement shall be treated as being made during a particular fiscal year to the extent that funds are obligated by the Department of Defense for the procurement in that fiscal year.
+
+“(f)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Non-defense agency.—The term ‘non-defense agency’ means any department or agency of the Federal Government other than the Department of Defense. Such term includes a covered non-defense agency.
+
+&emsp;“(2)
+
+Covered non-defense agency.—The term ‘covered non-defense agency’ means each of the following:
+
+&emsp;&emsp;“(A) The General Services Administration.
+
+&emsp;&emsp;“(B) The Department of the Interior.
+
+&emsp;&emsp;“(C) The Department of Veterans Affairs.
+
+&emsp;&emsp;“(D) The National Institutes of Health.
+
+&emsp;&emsp;“(E) The Department of Commerce.
+
+&emsp;&emsp;“(F) The Department of Energy.
+
+&emsp;“(3)
+
+Government-wide acquisition contract.—The term ‘government-wide acquisition contract’ means a task or delivery order contract that—
+
+&emsp;&emsp;“(A) is entered into by a non-defense agency; and
+
+&emsp;&emsp;“(B) may be used as the contract under which property or services are procured for one or more other departments or agencies of the Federal Government.
+
+&emsp;“(4)
+
+Simplified acquisition threshold.—The term ‘simplified acquisition threshold’ has the meaning provided by section 2302(7) of title 10, United States Code.
+
+&emsp;“(5)
+
+Interagency contracting.—The term ‘interagency contracting’ means the exercise of the authority under section 1535 of title 31, United States Code, or other statutory authority, for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies.
+
+&emsp;“(6)
+
+Acquisition official.—The term ‘acquisition official’, with respect to the Department of Defense, means—
+
+&emsp;&emsp;“(A) a contracting officer of the Department of Defense; or
+
+&emsp;&emsp;“(B) any other Department of Defense official authorized to approve a direct acquisition or an assisted acquisition on behalf of the Department of Defense.
+
+&emsp;“(7)
+
+Direct acquisition.—The term ‘direct acquisition’, with respect to the Department of Defense, means the type of interagency contracting through which the Department of Defense orders an item or service from a government-wide acquisition contract maintained by a non-defense agency.
+
+&emsp;“(8)
+
+Assisted acquisition.—The term ‘assisted acquisition’, with respect to the Department of Defense, means the type of interagency contracting through which acquisition officials of a non-defense agency award a contract or task or delivery order for the procurement of goods or services on behalf of the Department of Defense.”
 
 Pub. L. 109–364, div. A, title VIII, §817, Oct. 17, 2006, 120 Stat. 2326, provided that:
 
@@ -664,7 +1018,7 @@ In general.—For each covered non-defense agency, the Inspector General of the 
 
 Actions following certain determinations.—If the Inspectors General determine under paragraph (1) that the conclusion stated in clause (ii) or (iii) of subparagraph (B) of that paragraph is correct in the case of a covered non-defense agency, such Inspectors General shall, not later than June 15, 2007, jointly—
 
-&emsp;&emsp;“(A) conduct a second review, as described in subparagraph (A) of that paragraph, regarding suchnon-defense agency's procurement of property or services on behalf of the Department of Defense in fiscal year 2006; and
+&emsp;&emsp;“(A) conduct a second review, as described in subparagraph (A) of that paragraph, regarding such non-defense agency's procurement of property or services on behalf of the Department of Defense in fiscal year 2006; and
 
 &emsp;&emsp;“(B) determine in writing whether such non-defense agency is or is not compliant with defense procurement requirements.
 
@@ -698,7 +1052,7 @@ Limitation after review period.—After June 15, 2007, no official of the Depart
 
 &emsp;“(3)
 
-Limitation following failure to reach mou.—Commencing on the date that is 60 days after the date of the enactment of this Act \[Jan. 6, 2006\], if a memorandum of understanding between the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency cannot be attained causing the review required by this section to not be performed, no official of the Department of Defense, except as provided in subsection (e) or (f), may order, purchase or otherwise procure property or services in an amount in excess of $100,000 through such non-defense agency.
+Limitation following failure to reach mou.—Commencing on the date that is 60 days after the date of the enactment of this Act \[Jan. 6, 2006\], if a memorandum of understanding between the InspectorGeneral of the Department of Defense and the Inspector General of a covered non-defense agency cannot be attained causing the review required by this section to not be performed, no official of the Department of Defense, except as provided in subsection (e) or (f), may order, purchase or otherwise procure property or services in an amount in excess of $100,000 through such non-defense agency.
 
 “(e)
 
@@ -842,57 +1196,7 @@ Extension of Timeframes.—(1) The Department of Defense official responsible fo
 
 #### Competition Requirement for Purchase of Services Pursuant to Multiple Award Contracts
 
-Pub. L. 107–107, div. A, title VIII, §803, Dec. 28, 2001, 115 Stat. 1178, provided that:
-
-“(a)
-
-Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of Defense shall promulgate in the Department of Defense Supplement to the Federal Acquisition Regulation regulations requiring competition in the purchase of services by the Department of Defense pursuant to multiple award contracts.
-
-“(b)
-
-Content of Regulations.—(1) The regulations required by subsection (a) shall provide, at a minimum, that each individual purchase of services in excess of $100,000 that is made under a multiple award contract shall be made on a competitive basis unless a contracting officer of the Department of Defense—
-
-&emsp;“(A) waives the requirement on the basis of a determination that—
-
-&emsp;&emsp;“(i) one of the circumstances described in paragraphs (1) through (4) of section 2304c(b) of title 10, United States Code, applies to such individual purchase; or
-
-&emsp;&emsp;“(ii) a statute expressly authorizes or requires that the purchase be made from a specified source; and
-
-&emsp;“(B) justifies the determination in writing.
-
-“(2) For purposes of this subsection, an individual purchase of services is made on a competitive basis only if it is made pursuant to procedures that—
-
-&emsp;“(A) require fair notice of the intent to make that purchase (including a description of the work to be performed and the basis on which the selection will be made) to be provided to all contractors offering such services under the multiple award contract; and
-
-&emsp;“(B) afford all contractors responding to the notice a fair opportunity to make an offer and have that offer fairly considered by the official making the purchase.
-
-“(3) Notwithstanding paragraph (2), notice may be provided to fewer than all contractors offering such services under a multiple award contract described in subsection (c)(2)(A) if notice is provided to as many contractors as practicable.
-
-“(4) A purchase may not be made pursuant to a notice that is provided to fewer than all contractors under paragraph (3) unless—
-
-&emsp;“(A) offers were received from at least three qualified contractors; or
-
-&emsp;“(B) a contracting officer of the Department of Defense determines in writing that no additional qualified contractors were able to be identified despite reasonable efforts to do so.
-
-“(c)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘individual purchase’ means a task order, delivery order, or other purchase.
-
-&emsp;“(2) The term ‘multiple award contract’ means—
-
-&emsp;&emsp;“(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10, United States Code;
-
-&emsp;&emsp;“(B) a multiple award task order contract that is entered into under the authority of sections 2304a through 2304d of title 10, United States Code, or sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k); and
-
-&emsp;&emsp;“(C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of a Federal agency with two or more sources pursuant to the same solicitation.
-
-&emsp;“(3) The term ‘Defense Agency’ has the meaning given that term in section 101(a)(11) of title 10, United States Code.
-
-“(d)
-
-Applicability.—The regulations promulgated by the Secretary pursuant to subsection (a) shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\] and shall apply to all individual purchases of services that are made under multiple award contracts on or after the effective date, without regard to whether the multiple award contracts were entered into before, on, or after such effective date.”
+Pub. L. 107–107, div. A, title VIII, §803, Dec. 28, 2001, 115 Stat. 1178, which required the Secretary of Defense to promulgate in the Department of Defense Supplement to the Federal Acquisition Regulation, not later than 180 days after Dec. 28, 2001, regulations requiring competition in the purchase of services by the Department of Defense pursuant to multiple award contracts, was repealed by Pub. L. 110–417, \[div. A\], title VIII, §863(f), Oct. 14, 2008, 122 Stat. 4548.
 
 #### Requirement To Disregard Certain Agreements in Awarding Contracts for Purchase of Firearms or Ammunition
 
@@ -1004,7 +1308,7 @@ Definitions.—In this section:
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
-Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183; Pub. L. 107–314, div. A, title VIII, §812(a), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XIV, §1443(b), Nov. 24, 2003, 117 Stat. 1676; Pub. L. 108–375, div. A, title VIII, §817, Oct. 28, 2004, 118 Stat. 2015, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2008. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
+Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183; Pub. L. 107–314, div. A, title VIII, §812(a), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XIV, §1443(b), Nov. 24, 2003, 117 Stat. 1676; Pub. L. 108–375, div. A, title VIII, §817, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §822(a), Jan. 28, 2008, 122 Stat. 226, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2010.Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -1162,7 +1466,7 @@ Section 307 of Pub. L. 98–525, as amended by Pub. L. 99–145, title XII, §12
 
 #### Shipbuilding Claims for Contract Price Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8078\], Oct. 12, 1984, 98 Stat. 1904, 1938, prohibited expenditure offunds to adjust any contract price in any shipbuilding claim, request for equitable adjustment, or demand for payment incurred due to the preparation, submission, or adjudication of any such shipbuilding claim, request, or demand under a contract entered into after Oct. 12, 1984, arising out of events occurring more than eighteen months prior to the submission of such shipbuilding claim, request, or demand, prior to repeal by Pub. L. 100–370, §1(p)(2), July 19, 1988, 102 Stat. 851.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8078\], Oct. 12, 1984, 98 Stat. 1904, 1938, prohibited expenditure of funds to adjust any contract price in any shipbuilding claim, request for equitable adjustment, or demand for payment incurred due to the preparation, submission, or adjudication of any such shipbuilding claim, request, or demand under a contract entered into after Oct. 12, 1984, arising out of events occurring more than eighteen months prior to the submission of such shipbuilding claim, request, or demand, prior to repeal by Pub. L. 100–370, §1(p)(2), July 19, 1988, 102 Stat. 851.
 
 Pub. L. 98–212, title VII, §787, Dec. 8, 1983, 97 Stat. 1453, which contained similar provisions relating to shipbuilding claims for contract price adjustments, was repealed and restated in section 2405 of this title by Pub. L. 98–525, title XII, §1234(a), (b)(2), Oct. 19, 1984, 98 Stat. 2604, effective Oct. 19, 1984.
 

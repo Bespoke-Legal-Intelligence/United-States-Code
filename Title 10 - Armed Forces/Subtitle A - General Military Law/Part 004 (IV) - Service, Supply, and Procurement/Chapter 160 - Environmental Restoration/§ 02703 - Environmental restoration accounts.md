@@ -144,7 +144,7 @@ Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, p
 
 #### References to Defense Environmental Restoration Account
 
-Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental RestorationAccount in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
+Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
 
 #### Unobligated Balances in Defense Environmental Restoration Account
 

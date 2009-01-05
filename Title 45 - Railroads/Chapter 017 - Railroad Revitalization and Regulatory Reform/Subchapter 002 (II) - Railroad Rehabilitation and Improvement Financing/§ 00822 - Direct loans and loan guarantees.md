@@ -100,7 +100,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 The Secretary shall not make a direct loan or loan guarantee under this section unless the Secretary has made a finding in writing that—
 
-&emsp;(1) repayment of the obligation is required to be made within a term of not more than 25 years from the date of its execution;
+&emsp;(1) repayment of the obligation is required to be made within a term of not more than 35 years from the date of its execution;
 
 &emsp;(2) the direct loan or loan guarantee is justified by the present and probable future demand for rail services or intermodal facilities;
 
@@ -142,7 +142,7 @@ Not later than 90 days after receiving a complete application for a direct loan 
 
 &emsp;Interest shall accrue as of the date of disbursement, and shall be amortized over the remaining term of the loan beginning at the time the payments begin.
 
-(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923.)
+(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923; Pub. L. 110–432, div. A, title VII, §701(e), Oct. 16, 2008, 122 Stat. 4906.)
 
 #### References in Text
 
@@ -150,9 +150,11 @@ Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to 
 
 #### Prior Provisions
 
-A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
+A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII,§803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+
+2008—Subsec. (g)(1). Pub. L. 110–432 substituted “35 years” for “25 years”.
 
 2005—Subsec. (a). Pub. L. 109–59, §9003(b), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.”
 

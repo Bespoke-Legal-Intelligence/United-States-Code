@@ -42,7 +42,7 @@ Funds may not be obligated for assistance under this section unless the Committe
 
 Personnel of the Department of Defense and members of the United States Armed Forces may not participate in the provision of training under this section. Of the funds made available to carry out this section, not more than $10,000,000 may be made available in fiscal year 1991 to carry out the provisions of subsection (b)(3) of this section. The authority of this section shall expire on September 30, 1991.
 
-(Pub. L. 87–195, pt. II, §534, as added Pub. L. 99–83, title VII, §712, Aug. 8, 1985, 99 Stat. 244; amended Pub. L. 100–202, §101(e) \[title V, §579\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1206; Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1990; Pub. L. 101–623, §2(b)(6), Nov. 21, 1990, 104 Stat. 3351.)
+(Pub. L. 87–195, pt. II, §534, as added Pub. L. 99–83, title VII, §712, Aug. 8, 1985, 99 Stat. 244; amended Pub. L. 100–202, §101(e) \[title V, §579\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L.101–167, title II, Nov. 21, 1989, 103 Stat. 1206; Pub. L. 101–513, title II, Nov. 5, 1990, 104 Stat. 1990; Pub. L. 101–623, §2(b)(6), Nov. 21, 1990, 104 Stat. 3351.)
 
 #### Prior Provisions
 

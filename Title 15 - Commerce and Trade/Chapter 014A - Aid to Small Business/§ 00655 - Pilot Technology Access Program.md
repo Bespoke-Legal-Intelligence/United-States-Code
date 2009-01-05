@@ -16,7 +16,7 @@ The Administrator of the Small Business Administration shall establish competiti
 
 #### (c) Matching requirement
 
-To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
+To be eligible to receive an award under this section, an applicant shall provide a matchingcontribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
 
 #### (d) Purpose of awards
 
@@ -40,7 +40,7 @@ Two years after the date on which the first award was issued under section 648a�
 
 #### (g) Final report
 
-Three years after such date, the General Accounting Office shall submit to the Committeeon Small Business and the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Small Business and the Committee on Commerce, Science and Transportation of the Senate, a final report evaluating the effectiveness of the Program under section 648a <sup>1</sup> of this title and this section in improving small business productivity and innovation.
+Three years after such date, the General Accounting Office shall submit to the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Small Business and the Committee on Commerce, Science and Transportation of the Senate, a final report evaluating the effectiveness of the Program under section 648a <sup>1</sup> of this title and this section in improving small business productivity and innovation.
 
 #### (h) Authorization of appropriations
 

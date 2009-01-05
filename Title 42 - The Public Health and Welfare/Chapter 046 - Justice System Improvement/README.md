@@ -22,6 +22,10 @@
 | [3712g.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712g%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | [3712h.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712h%20-%20Office%20of%20Audit%2C%20Assessment%2C%20and%20Management.md) | Office of Audit, Assessment, and Management. |
 | [3713\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713%20-%20State%20grant%20program%20for%20training%20and%20prosecution%20of%20computer%20crimes.md) | State grant program for training and prosecution of computer crimes. |
+| [3713a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713a%20-%20Local%20law%20enforcement%20grants.md) | Local law enforcement grants. |
+| [3713b.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713b%20-%20Improved%20investigative%20and%20forensic%20resources%20for%20enforcement%20of%20laws%20related%20to%20intellectual%20property%20crimes.md) | Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes. |
+| [3713c.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713c%20-%20Additional%20funding%20for%20resources%20to%20investigate%20and%20prosecute%20intellectual%20property%20crimes%20and%20other%20criminal%20activity%20involving%20computers.md) | Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers. |
+| [3713d.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713d%20-%20Annual%20reports.md) | Annual reports. |
 | [3714\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714%20-%20Grant%20program%20for%20State%20and%20local%20domestic%20preparedness%20support.md) | Grant program for State and local domestic preparedness support. |
 | [3714a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714a%20-%20Grants%20to%20States%20for%20threat%20assessment%20databases.md) | Grants to States for threat assessment databases. |
 | [3715\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715%20-%20Office%20of%20Justice%20Programs%20grants%2C%20cooperative%20agreements%2C%20and%20contracts.md) | Office of Justice Programs grants, cooperative agreements, and contracts. |
@@ -448,6 +452,34 @@ I74subpart 1—grants to public and private entities
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XV–A—PROSECUTION DRUG TREATMENT ALTERNATIVE TO PRISON PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [3797q.](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Prosecution%20Drug%20Treatment%20Alternative%20to%20Prison%20Program/%C2%A7%2003797q%20-%20Grant%20authority.md) | Grant authority. |
+| 3797q–1. | Use of grant funds. |
+| 3797q–2. | Applications. |
+| 3797q–3. | Federal share. |
+| 3797q–4. | Geographic distribution. |
+| 3797q–5. | Reports and evaluations. |
+| 3797q–6. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XV–B—GRANTS FOR FAMILY-BASED SUBSTANCE ABUSE TREATMENT
+
+|  |  |
+| :--- | ---: |
+| [3797s.](Subchapter%20015%E2%80%93B%20%28XV%E2%80%93B%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2003797s%20-%20Grants%20authorized.md) | Grants authorized. |
+| 3797s–1. | Use of grant funds. |
+| 3797s–2. | Program requirements. |
+| 3797s–3. | Applications. |
+| 3797s–4. | Reports. |
+| 3797s–5. | Authorization of appropriations. |
+| 3797s–6. | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER XVI—DRUG COURTS
 
 |  |  |
@@ -470,6 +502,7 @@ I74subpart 1—grants to public and private entities
 | :--- | ---: |
 | [3797w.](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2003797w%20-%20Adult%20and%20juvenile%20offender%20State%20and%20local%20reentry%20demonstration%20projects.md) | Adult and juvenile offender State and local reentry demonstration projects. |
 | 3797w–1. | State reentry project evaluation. |
+| 3797W–2. | State, tribal, and local reentry courts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -501,6 +534,23 @@ I74subpart 1—grants to public and private entities
 | 3797cc–1. | Funding. |
 | 3797cc–2. | Grants for programs for drug-endangered children. |
 | 3797cc–3. | Authority to award competitive grants to address methamphetamine use by pregnant and parenting women offenders. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XX–A—LOAN REPAYMENT FOR PROSECUTORS AND PUBLIC DEFENDERS
+
+|  |  |
+| :--- | ---: |
+| 3797cc–21. | Grant authorization. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XX–B—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES
+
+|  |  |
+| :--- | ---: |
+| [3797dd.](Subchapter%20020%E2%80%93B%20%28XX%E2%80%93B%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/%C2%A7%2003797dd%20-%20Grant%20program%20to%20evaluate%20and%20improve%20educational%20methods%20at%20prisons%2C%20jails%2C%20and%20juvenile%20facilities.md) | Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. |
+| 3797dd–1. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -552,9 +602,13 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising th
 - [Subchapter 013 (XIII) - Transition; Effective Date; Repealer](Subchapter%20013%20%28XIII%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)
 - [Subchapter 014 (XIV) - Matching Grant Program for School Security](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/README.md)
 - [Subchapter 015 (XV) - Paul Coverdell Forensic Sciences Improvement Grants](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/README.md)
+- [Subchapter 015&#8211;A (XV&#8211;A) - Prosecution Drug Treatment Alternative to Prison Program](Subchapter%20015%E2%80%93A%20%28XV%E2%80%93A%29%20-%20Prosecution%20Drug%20Treatment%20Alternative%20to%20Prison%20Program/README.md)
+- [Subchapter 015&#8211;B (XV&#8211;B) - Grants for Family-Based Substance Abuse Treatment](Subchapter%20015%E2%80%93B%20%28XV%E2%80%93B%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/README.md)
 - [Subchapter 016 (XVI) - Drug Courts](Subchapter%20016%20%28XVI%29%20-%20Drug%20Courts/README.md)
 - [Subchapter 017 (XVII) - Offender Reentry and Community Safety](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/README.md)
 - [Subchapter 018 (XVIII) - Crime Free Rural State Grants](Subchapter%20018%20%28XVIII%29%20-%20Crime%20Free%20Rural%20State%20Grants/README.md)
 - [Subchapter 019 (XIX) - Adult and Juvenile Collaboration Program Grants](Subchapter%20019%20%28XIX%29%20-%20Adult%20and%20Juvenile%20Collaboration%20Program%20Grants/README.md)
 - [Subchapter 020 (XX) - Confronting Use of Methamphetamine](Subchapter%20020%20%28XX%29%20-%20Confronting%20Use%20of%20Methamphetamine/README.md)
+- [Subchapter 020&#8211;A (XX&#8211;A) - Loan Repayment for Prosecutors and Public Defenders](Subchapter%20020%E2%80%93A%20%28XX%E2%80%93A%29%20-%20Loan%20Repayment%20for%20Prosecutors%20and%20Public%20Defenders/README.md)
+- [Subchapter 020&#8211;B (XX&#8211;B) - Grant Program to Evaluate and Improve Educational Methods at Prisons, Jails, and Juvenile Facilities](Subchapter%20020%E2%80%93B%20%28XX%E2%80%93B%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/README.md)
 - [Subchapter 021 (XXI) - Sex Offender Apprehension Grants; Juvenile Sex Offender Treatment Grants](Subchapter%20021%20%28XXI%29%20-%20Sex%20Offender%20Apprehension%20Grants%3B%20Juvenile%20Sex%20Offender%20Treatment%20Grants/README.md)

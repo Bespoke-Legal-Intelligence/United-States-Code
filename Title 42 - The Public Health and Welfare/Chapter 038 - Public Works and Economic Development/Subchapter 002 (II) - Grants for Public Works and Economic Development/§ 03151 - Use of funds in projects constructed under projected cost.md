@@ -42,7 +42,7 @@ Section 3151a, Pub. L. 89–136, title III, §302, as added Pub. L. 93–423, §
 
 #### Amendments
 
-2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the granthas been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
+2004—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the grant has been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
 
 &emsp;“(1) the Secretary may approve, subject to the availability of appropriations, the use of the excess funds or a portion of the funds to improve the project; and
 

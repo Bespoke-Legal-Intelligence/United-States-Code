@@ -1,6 +1,6 @@
 ### \[§§833 to 835. Repealed. Pub. L. 96–129, title II, §216(b), Nov. 30, 1979, 93 Stat. 1015\]
 
-Section 833, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 810, related to marking of packages containing explosives and other dangerous articles.
+Section 833, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 810, related tomarking of packages containing explosives and other dangerous articles.
 
 Section 834, acts June 25, 1948, ch. 645, 62 Stat. 739; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 810, related to formulation of regulations by Interstate Commerce Commission regarding transportation of explosives and other dangerous articles within United States.
 

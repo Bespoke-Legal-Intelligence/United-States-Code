@@ -16,5 +16,5 @@ Section 3021(c) of Pub. L. 100–647 provided for the first issue of valuation r
 
 #### Part-Time Employee Defined for Purposes of Subsection (f)
 
-Section 6070 of Pub. L. 100–647 increased the number of employees who would be excluded from considerationunder this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Section 6070 of Pub. L. 100–647 increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 

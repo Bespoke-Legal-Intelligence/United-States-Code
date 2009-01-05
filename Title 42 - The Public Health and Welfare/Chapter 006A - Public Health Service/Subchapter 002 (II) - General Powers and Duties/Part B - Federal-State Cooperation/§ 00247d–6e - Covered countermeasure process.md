@@ -12,7 +12,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (2) Elements of compensation
 
-&emsp;The compensation that shall be provided pursuant to paragraph (1) shall have the sameelements, and be in the same amount, as is prescribed by sections 239c, 239d, and 239e of this title in the case of certain individuals injured as a result of administration of certain countermeasures against smallpox, except that section 239e(a)(2)(B) of this title shall not apply.
+&emsp;The compensation that shall be provided pursuant to paragraph (1) shall have the same elements, and be in the same amount, as is prescribed by sections 239c, 239d, and 239e of this title in the case of certain individuals injured as a result of administration of certain countermeasures against smallpox, except that section 239e(a)(2)(B) of this title shall not apply.
 
 #### (3) Rule of construction
 
@@ -26,7 +26,7 @@ Upon the issuance by the Secretary of a declaration under section 247d–6d(b) o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries that shall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
+&emsp;&emsp;The Secretary shall by regulation establish a table identifying covered injuries thatshall be presumed to be directly caused by the administration or use of a covered countermeasure and the time period in which the first symptom or manifestation of onset of each such adverse effect must manifest in order for such presumption to apply. The Secretary may only identify such covered injuries, for purpose of inclusion on the table, where the Secretary determines, based on compelling, reliable, valid, medical and scientific evidence that administration or use of the covered countermeasure directly caused such covered injury.
 
 #### (B) Amendments
 

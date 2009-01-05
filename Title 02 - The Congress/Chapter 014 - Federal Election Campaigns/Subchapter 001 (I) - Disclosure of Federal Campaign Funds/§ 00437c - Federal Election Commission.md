@@ -18,7 +18,7 @@
 
 (D) Any vacancy occurring in the membership of the Commission shall be filled in the same manner as in the case of the original appointment.
 
-(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission, are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of his or her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
+(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission,are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of his or her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
 
 (4) Members of the Commission (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall receive compensation equivalent to the compensation paid at level IV of the Executive Schedule (5 U.S.C. 5315).
 
@@ -28,7 +28,7 @@
 
 (1) The Commission shall administer, seek to obtain compliance with, and formulate policy with respect to, this Act and chapter 95 and chapter 96 of title 26. The Commission shall have exclusive jurisdiction with respect to the civil enforcement of such provisions.
 
-(2) Nothing in this Act shall be construed to limit, restrict, or diminish any investigatory, informational, oversight, supervisory, or disciplinary authority or function of the Congressor any committee of the Congress with respect to elections for Federal office.
+(2) Nothing in this Act shall be construed to limit, restrict, or diminish any investigatory, informational, oversight, supervisory, or disciplinary authority or function of the Congress or any committee of the Congress with respect to elections for Federal office.
 
 #### (c) Voting requirements; delegation of authorities
 
@@ -74,7 +74,7 @@ A prior section 306 of Pub. L. 92–225 was classified to section 436 of this ti
 
 Subsec. (b)(1). Pub. L. 96–187, §105(6), substituted “exclusive jurisdiction” for “exclusive primary jurisdiction”.
 
-Subsec. (c). Pub. L. 96–187, §105(6), substituted “provisions of this Act” for “provisions of this subchapter” in first sentence, and substituted “A member of the Commission may not delegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except thatthe affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.” for “except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to establish guidelines for compliance with the provisions of this Act or with chapter 95 or chapter 96 of title 26, or for the Commission to take any action in accordance with paragraph (6), (7), (8), or (10) of section 437d(a) of this title. A member of the Commission may not delegate to any person his vote or any decisionmaking authority or duty vested in the Commission by the provisions of this subchapter”.
+Subsec. (c). Pub. L. 96–187, §105(6), substituted “provisions of this Act” for “provisions of this subchapter” in first sentence, and substituted “A member of the Commission may not delegate to any person his or her vote or any decisionmaking authority or duty vested in the Commission by the provisions of this Act, except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to take any action in accordance with paragraph (6), (7), (8), or (9) of section 437d(a) of this title or with chapter 95 or chapter 96 of title 26.” for “except that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to establish guidelines for compliance with the provisions of this Act or with chapter 95 or chapter 96 of title 26, or for the Commission to take any action in accordance with paragraph (6), (7), (8), or (10) of section 437d(a) of this title. A member of the Commission may not delegate to any person his vote or any decisionmaking authority or duty vested in the Commission by the provisions of this subchapter”.
 
 Pub. L. 96–187, §112(b), purported to substitute “section 307(a)” for “section 310(a)”, referred to in text as “section 437d(a) of this title”. However, that substitution had been made in the general amendment of the subsection by section 105(6) of Pub. L. 96–187. See preceding paragraph.
 
@@ -106,7 +106,7 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Operation of Federal Election Commission After 1976 Amendment of Federal Election Campaign Act; Appointment of Commission Members; Transfer of Personnel, Liabilities, Contracts, Property, and Records, of Commission; References to Commission Prior to Amendment Deemed References to Commission as Constituted After 1976 Amendment of Federal Election Campaign Act
 
-Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
+Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rulesopinions, and proceedings issued, pending, or commenced before such amendments.
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 

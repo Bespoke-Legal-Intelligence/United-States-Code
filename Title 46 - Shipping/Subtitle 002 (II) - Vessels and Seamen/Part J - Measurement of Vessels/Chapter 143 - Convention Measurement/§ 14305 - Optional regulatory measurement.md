@@ -60,7 +60,7 @@ Clause (1) of section 14305(a) includes the following parts of subtitle II of ti
 
 &emsp;Part H: Sections 12106(c) and 12108(c) only—Identification of Vessels.
 
-The other U.S. laws listed in clause (2) through (10) of this section are self-explanatory. Clause (10) refers todomestic law as well as the Officers’ Competency Certificates Convention, 1936.
+The other U.S. laws listed in clause (2) through (10) of this section are self-explanatory. Clause (10) refers to domestic law as well as the Officers’ Competency Certificates Convention, 1936.
 
 In addition, three other international conventions are listed in clauses (11) through (13): (1) the Convention for the Safety of Life at Sea, (2) the Convention on the Standards of Training, Certification, and Watchkeeping for Seafarers, and (3) the Convention for the Prevention of Pollution from Ships. The International Maritime Organization has established interim schemes which address the use of the Convention tonnage measurement system as a basis for the applicability of these three conventions. The applicable sections of those schemes are the following:
 

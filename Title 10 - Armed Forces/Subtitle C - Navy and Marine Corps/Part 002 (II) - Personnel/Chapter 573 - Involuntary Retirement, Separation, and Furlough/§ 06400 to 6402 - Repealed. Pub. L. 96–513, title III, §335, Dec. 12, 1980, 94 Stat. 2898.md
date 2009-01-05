@@ -4,7 +4,7 @@ Section 6400, acts Aug. 10, 1956, ch. 1041, 70A Stat. 414; May 20, 1958, Pub. L.
 
 Section 6401, acts Aug. 10, 1956, ch. 1041, 70A Stat. 415; July 12, 1960, Pub. L. 86–616, §5(4), 74 Stat. 390; June 28, 1962, Pub. L. 87–509, §4(b), 76 Stat. 121, related to discharge for length of service of Regular Navy women lieutenants and Regular Marine Corps women captains.
 
-Section 6402, acts Aug. 10, 1956, ch. 1041, 70A Stat. 415; July 12, 1960, Pub. L. 86–616, §5(5), 74 Stat. 390, relatedto discharge for length of service of Regular Navy women lieutenants (junior grade) and Regular Marine Corps women first lieutenants.
+Section 6402, acts Aug. 10, 1956, ch. 1041, 70A Stat. 415; July 12, 1960, Pub. L. 86–616, §5(5), 74 Stat. 390, related to discharge for length of service of Regular Navy women lieutenants (junior grade) and Regular Marine Corps women first lieutenants.
 
 #### Effective Date of Repeal
 

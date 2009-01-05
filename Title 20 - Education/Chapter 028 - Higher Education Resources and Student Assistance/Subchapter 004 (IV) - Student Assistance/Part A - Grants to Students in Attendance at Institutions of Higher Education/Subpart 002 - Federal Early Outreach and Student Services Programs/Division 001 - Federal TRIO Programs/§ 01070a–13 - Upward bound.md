@@ -4,55 +4,73 @@
 
 The Secretary shall carry out a program to be known as upward bound which shall be designed to generate skills and motivation necessary for success in education beyond secondary school.
 
-#### (b) Permissible services
+#### (b) Required services
 
-Any upward bound project assisted under this division may provide services such as—
+Any project assisted under this section shall provide—
 
-&emsp;(1) instruction in reading, writing, study skills, mathematics, and other subjects necessary for success beyond secondary school;
+&emsp;(1) academic tutoring to enable students to complete secondary or postsecondary courses, which may include instruction in reading, writing, study skills, mathematics, science, and other subjects;
 
-&emsp;(2) counseling and workshops;
+&emsp;(2) advice and assistance in secondary and postsecondary course selection;
 
-&emsp;(3) academic advice and assistance in secondary school course selection;
+&emsp;(3) assistance in preparing for college entrance examinations and completing college admission applications;
 
-&emsp;(4) tutorial services;
+&emsp;(4)(A) information on the full range of Federal student financial aid programs and benefits (including Federal Pell Grant awards and loan forgiveness) and resources for locating public and private scholarships; and
 
-&emsp;(5) exposure to cultural events, academic programs, and other activities not usually available to disadvantaged youth;
+&emsp;(B) assistance in completing financial aid applications, including the Free Application for Federal Student Aid described in section 1090(a) of this title;
 
-&emsp;(6) activities designed to acquaint youths participating in the project with the range of career options available to them;
+&emsp;(5) guidance on and assistance in—
 
-&emsp;(7) instruction designed to prepare youths participating in the project for careers in which persons from disadvantaged backgrounds are particularly underrepresented;
+&emsp;&emsp;(A) secondary school reentry;
 
-&emsp;(8) on-campus residential programs;
+&emsp;&emsp;(B) alternative education programs for secondary school dropouts that lead to the receipt of a regular secondary school diploma;
 
-&emsp;(9) mentoring programs involving elementary or secondary school teachers or counselors, faculty members at institutions of higher education, students, or any combination of such persons;
+&emsp;&emsp;(C) entry into general educational development (GED) programs; or
 
-&emsp;(10) work-study positions where youth participating in the project are exposed to careers requiring a postsecondary degree;
+&emsp;&emsp;(D) postsecondary education; and
 
-&emsp;(11) special services to enable veterans to make the transition to postsecondary education; and
+&emsp;(6) education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ parents, including financial planning for postsecondary education.
 
-&emsp;(12) programs and activities as described in paragraphs (1) through (11) which are specially designed for students of limited English proficiency.
+#### (c) Additional required services for multiple-year grant recipients
 
-#### (c) Required services
+Any project assisted under this section which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
 
-Any upward bound project assisted under this division which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
+#### (d) Permissible services
 
-#### (d) Requirements for approval of applications
+Any project assisted under this section may provide such services as—
 
-In approving applications for upward bound projects under this division for any fiscal year, the Secretary shall—
+&emsp;(1) exposure to cultural events, academic programs, and other activities not usually available to disadvantaged youth;
+
+&emsp;(2) information, activities, and instruction designed to acquaint youth participating in the project with the range of career options available to the youth;
+
+&emsp;(3) on-campus residential programs;
+
+&emsp;(4) mentoring programs involving elementary school or secondary school teachers or counselors, faculty members at institutions of higher education, students, or any combination of such persons;
+
+&emsp;(5) work-study positions where youth participating in the project are exposed to careers requiring a postsecondary degree;
+
+&emsp;(6) special services, including mathematics and science preparation, to enable veterans to make the transition to postsecondary education; and
+
+&emsp;(7) programs and activities as described in subsection (b), subsection (c), or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children andyouths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+
+#### (e) Requirements for approval of applications
+
+In approving applications for projects under this section for any fiscal year, the Secretary shall—
 
 &emsp;(1) require an assurance that not less than two-thirds of the youths participating in the project proposed to be carried out under any application be low-income individuals who are first generation college students;
 
-&emsp;(2) require an assurance that the remaining youths participating in the project proposed to be carried out under any application be either low-income individuals or first generation college students;
+&emsp;(2) require an assurance that the remaining youths participating in the project proposed to be carried out under any application be low-income individuals, first generation college students, or students who have a high risk for academic failure;
 
-&emsp;(3) require that there be a determination by the institution, with respect to each participant in such project that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school; and
+&emsp;(3) require that there be a determination by the institution, with respect to each participant in such project that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
 
-&emsp;(4) require that such participants be persons who have completed 8 years of elementary education and are at least 13 years of age but not more than 19 years of age, unless the imposition of any such limitation would defeat the purposes of this section.
+&emsp;(4) require that such participants be persons who have completed 8 years of elementary education and are at least 13 years of age but not more than 19 years of age, unless the imposition of any such limitation would defeat the purposes of this section; and
 
-#### (e) Maximum stipends
+&emsp;(5) require an assurance that no student will be denied participation in a project assisted under this section because the student will enter the project after the 9th grade.
 
-Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during June, July, and August, except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
+#### (f) Maximum stipends
 
-#### (f) Additional funds
+Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $60 per month during the summer school recess, for a period not to exceed three months, except that youth participating in a work-study position under subsection (d)(5) of this section may be paid a stipend of $300 per month during the summer school recess, for a period not to exceed three months. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.
+
+#### (g) Additional funds
 
 #### (1) Authorization and appropriation
 
@@ -62,9 +80,31 @@ Youths participating in a project proposed to be carried out under any applicati
 
 &emsp;The amounts made available by paragraph (1) shall be available to provide assistance to all Upward Bound projects that did not receive assistance in fiscal year 2007 and that have a grant score above 70. Such assistance shall be made available in the form of 4-year grants.
 
-(Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786.)
+#### (h) Absolute priority prohibited in Upward Bound Program
+
+Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
+
+(Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786; Pub. L. 110–315, title IV, §403(c), Aug. 14, 2008, 122 Stat. 3199.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
+
+Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted “Additional required services for multiple-year grant recipients” for “Required services” in heading and “project assisted under this section” for “upward bound project assisted under this division” in text.
+
+Subsec. (d). Pub. L. 110–315, §403(c)(4), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–315, §403(c)(3), (5)(A), redesignated subsec. (d) as (e) and substituted “projects under this section” for “upward bound projects under this division” in introductory provisions. Former subsec. (e) redesignated (f).
+
+Subsec. (e)(2). Pub. L. 110–315, §403(c)(5)(B), substituted “low-income individuals, first generation college students, or students who have a high risk for academic failure;” for “either low-income individuals or first generation college students;”.
+
+Subsec. (e)(5). Pub. L. 110–315, §403(c)(5)(C)–(E), added par. (5).
+
+Subsec. (f). Pub. L. 110–315, §403(c)(3), (6), redesignated subsec. (e) as (f) and substituted “during the summer school recess, for a period not to exceed three months” for “during June, July, and August” in two places, and “subsection (d)(5)” for “subsection (b)(10)”. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 110–315, §403(c)(3), redesignated subsec. (f) as (g).
+
+Subsec. (h). Pub. L. 110–315, §403(c)(7), added subsec. (h).
 
 2007—Subsec. (f). Pub. L. 110–84 added subsec. (f).
 
@@ -92,5 +132,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 

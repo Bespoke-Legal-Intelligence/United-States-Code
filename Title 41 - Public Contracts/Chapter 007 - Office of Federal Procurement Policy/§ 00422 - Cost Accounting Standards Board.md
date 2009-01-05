@@ -30,7 +30,7 @@
 
 #### (b) Senior staff
 
-The Administrator, after consultation with the Board, may appoint an executive secretaryand two additional staff members without regard to the provisions of title 5 governing appointments in the competitive service, and may pay such employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
+The Administrator, after consultation with the Board, may appoint an executive secretary and two additional staff members without regard to the provisions of title 5 governing appointments in the competitive service, and may pay such employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
 
 #### (c) Other staff
 
@@ -78,7 +78,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;(ii) would not otherwise be subject to the cost accounting standards under this section, as in effect on or after the effective date of this paragraph.
 
-(B) The head of an executive agency may also waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the cost accounting standards under this subparagraph shall be setforth in writing and shall include a statement of the circumstances justifying the waiver.
+(B) The head of an executive agency may also waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the cost accounting standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.
 
 (C) The head of an executive agency may not delegate the authority under subparagraph (A) or (B) to any official in the executive agency below the senior policymaking level in the executive agency.
 
@@ -138,7 +138,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (2) Existing cost accounting standards referred to in paragraph (1) shall be subject to the provisions of this chapter in the same manner as if promulgated by the Board under this chapter.
 
-(3) The Administrator, under the authority set forth in section 405 of this title, shall ensure that no regulation or proposed regulation of an executive agency is inconsistent with a cost accounting standard promulgated or amended under this section by rescinding or denying the promulgation of any such inconsistent regulation or proposed regulation and taking such other action authorized under section 405 of this title as may be appropriate.
+(3) The Administrator, under the authority set forth in section 405 of this title, shall ensure that no regulation or proposed regulation of an executive agency is inconsistent with a cost accounting standard promulgated or amendedunder this section by rescinding or denying the promulgation of any such inconsistent regulation or proposed regulation and taking such other action authorized under section 405 of this title as may be appropriate.
 
 (4) Costs which are the subject of cost accounting standards promulgated under this section shall not be subject to regulations that are established by another executive agency that differ from such standards with respect to the measurement, assignment, and allocation of such costs.
 
@@ -208,7 +208,7 @@ Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procure
 
 “(d)
 
-Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section and the amendments made by this section \[amending this section\] are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs fromcontracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
+Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section and the amendments made by this section \[amending this section\] are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
 
 “(e)
 

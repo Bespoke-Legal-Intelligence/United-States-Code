@@ -8,7 +8,7 @@
 
 #### (2) Availability
 
-&emsp;All records of the Authority shall be available for audit and examination by the Comptroller General of the United States and theInspector General of the Department of Agriculture (including authorized representatives of the Comptroller General and the Inspector General of the Department of Agriculture).
+&emsp;All records of the Authority shall be available for audit and examination by the Comptroller General of the United States and the Inspector General of the Department of Agriculture (including authorized representatives of the Comptroller General and the Inspector General of the Department of Agriculture).
 
 #### (b) Records of recipients of Federal assistance
 

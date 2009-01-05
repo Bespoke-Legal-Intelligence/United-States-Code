@@ -100,5 +100,5 @@ In subsection (e), the words “or by War Assets Administration (or its predeces
 
 #### Delegation of Functions
 
-Functions of President under subsec. (f) of section 485 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
+Functions of President under subsec. (f) of section 485 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), delegated to Secretary of Defense,see section 3 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
 

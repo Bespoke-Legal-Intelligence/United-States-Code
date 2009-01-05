@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(2) the term “goods or technology” means—
 
-&emsp;&emsp;(A) nuclear materials and equipment and sensitive nuclear technology (as such termsare defined in section 3203 of this title), all export items designated by the President pursuant to section 2139a(c) of title 42, and all technical assistance requiring authorization under section 2077(b) of title 42, and
+&emsp;&emsp;(A) nuclear materials and equipment and sensitive nuclear technology (as such terms are defined in section 3203 of this title), all export items designated by the President pursuant to section 2139a(c) of title 42, and all technical assistance requiring authorization under section 2077(b) of title 42, and
 
 &emsp;&emsp;(B) in the case of exports from a country other than the United States, any goods or technology that, if exported from the United States, would be goods or technology described in subparagraph (A);
 

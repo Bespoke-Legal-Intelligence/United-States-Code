@@ -6,7 +6,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (b) Temporary total disability: In case of disability total in character but temporary in quality 662/3 per centum of the average weekly wages shall be paid to the employee during the continuance thereof.
 
-(c) Permanent partial disability: In case of disability partial in character but permanent in quality the compensation shall be 662/3 per centum of the average weekly wages, which shall be in addition to compensation for temporary total disability or temporary partial disability paid inaccordance with subsection (b) or subsection (e) of this section, respectively, and shall be paid to the employee, as follows:
+(c) Permanent partial disability: In case of disability partial in character but permanent in quality the compensation shall be 662/3 per centum of the average weekly wages, which shall be in addition to compensation for temporary total disability or temporary partial disability paid in accordance with subsection (b) or subsection (e) of this section, respectively, and shall be paid to the employee, as follows:
 
 &emsp;(1) Arm lost, three hundred and twelve weeks’ compensation.
 
@@ -72,7 +72,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(C) if the employee is survived by a widow or widower and a child or children, such unpaid amount of the award shall be payable to such survivors in equal shares,
 
-&emsp;(D) if there be no widow or widower and no surviving child or children, such unpaidamount of the award shall be paid to the survivors specified in section 909(d) of this title (other than a wife, husband, or child); and the amount to be paid each such survivor shall be determined by multiplying such unpaid amount of the award by the appropriate percentage specified in section 909(d) of this title, but if the aggregate amount to which all such survivors are entitled, as so determined, is less than such unpaid amount of the award, the excess amount shall be divided among such survivors pro rata according to the amount otherwise payable to each under this subparagraph.
+&emsp;(D) if there be no widow or widower and no surviving child or children, such unpaid amount of the award shall be paid to the survivors specified in section 909(d) of this title (other than a wife, husband, or child); and the amount to be paid each such survivor shall be determined by multiplying such unpaid amount of the award by the appropriate percentage specified in section 909(d) of this title, but if the aggregate amount to which all such survivors are entitled, as so determined, is less than such unpaid amount of the award, the excess amount shall be divided among such survivors pro rata according to the amount otherwise payable to each under this subparagraph.
 
 (2) Notwithstanding any other limitation in section 909 of this title, the total amount of any award for permanent partial disability pursuant to subsection (c)(1)–(20) of this section unpaid at time of death shall be payable in full in the appropriate distribution.
 
@@ -94,7 +94,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (g) Maintenance for employees undergoing vocational rehabilitation: An employee who as a result of injury is or may be expected to be totally or partially incapacitated for a remunerative occupation and who, under the direction of the Secretary as provided by section 939(c) of this title, is being rendered fit to engage in a remunerative occupation, shall receive additional compensation necessary for his maintenance, but such additional compensation shall not exceed $25 a week. The expense shall be paid out of the special fund established in section 944 of this title.
 
-(h) The wage-earning capacity of an injured employee in cases of partial disability under subsection (c)(21) of this section or under subsection (e) of this section shall be determined by his actual earnings if such actual earnings fairlyand reasonably represent his wage-earning capacity: <i>Provided, however</i>, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future.
+(h) The wage-earning capacity of an injured employee in cases of partial disability under subsection (c)(21) of this section or under subsection (e) of this section shall be determined by his actual earnings if such actual earnings fairly and reasonably represent his wage-earning capacity: <i>Provided, however</i>, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future.
 
 (i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty days unless it is found to be inadequate or procured by duress. Such settlement may include future medical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
 
@@ -224,5 +224,5 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 #### Effective Date of 1948 Amendment
 
-Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 ofact June 24, 1948, set out as a note under section 906 of this title.
+Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 

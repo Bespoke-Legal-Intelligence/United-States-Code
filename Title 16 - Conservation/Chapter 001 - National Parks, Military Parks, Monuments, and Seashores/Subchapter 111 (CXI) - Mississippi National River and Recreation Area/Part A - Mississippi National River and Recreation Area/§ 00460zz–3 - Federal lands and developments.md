@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, any Federal property located within the boundaries of the Area as identified on the map referred to in section 460zz–1 of this title, is hereby transferred without consideration to the administrative jurisdiction of the Secretary for use by him in implementing the purposes of this part, except as follows:
 
-&emsp;(1) Facilities and lands administered by the Secretary of the Army through the Corps ofEngineers for navigational and flood control purposes may continue to be used by the Secretary of the Army subject to the provisions of subsection (b) of this section.
+&emsp;(1) Facilities and lands administered by the Secretary of the Army through the Corps of Engineers for navigational and flood control purposes may continue to be used by the Secretary of the Army subject to the provisions of subsection (b) of this section.
 
 &emsp;(2) Federal property on which there is located any building or other structure which is in use (as of November 18, 1988) or for which a lease is in effect shall not be transferred under this subsection without the concurrence of the administering agency.
 
@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, any Federal property located within 
 
 &emsp;(A) Nothing in this part shall be deemed to impact or otherwise affect such existing statutory authority as may be vested in the Secretary of the Department in which the Coast Guard is operating or the Secretary of the Army for the maintenance of navigation aids and navigation improvements: <i>Provided</i>, That in exercising such authority the Secretary of the Army, through the Corps of Engineers and the Secretary of the Department in which the Coast Guard is operating, shall not take any action that would have a direct and adverse effect on the values for which the Area is established unless such action is essential for the protection of public health or safety or is necessary for national security or defense.
 
-&emsp;(B) In planning for the development and public use of the Area, the Secretary shall consult with the Secretary of the Army to assure that public use of adjacent or related water resource developments or flood control projects and that of the Area are compatible.
+&emsp;(B) In planning for the development and public use of the Area, the Secretary shall consult with the Secretary of the Army to assure thatpublic use of adjacent or related water resource developments or flood control projects and that of the Area are compatible.
 
 (Pub. L. 100–696, title VII, §704, Nov. 18, 1988, 102 Stat. 4604.)
 

@@ -12,7 +12,7 @@
 
 #### (3) Time limitations
 
-&emsp;No claim of a customer or other creditor of the debtor which is received by the trusteeafter the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expiration of such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
+&emsp;No claim of a customer or other creditor of the debtor which is received by the trustee after the expiration of the six-month period beginning on the date of publication of notice under paragraph (1) shall be allowed, except that the court may, upon application within such period and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian. Any claim of a customer for net equity which is received by the trustee after the expiration of such period of time as may be fixed by the court (not exceeding sixty days after the date of publication of notice under paragraph (1)) need not be paid or satisfied in whole or in part out of customer property, and, to the extent such claim is satisfied from moneys advanced by SIPC, it shall be satisfied in cash or securities (or both) as the trustee determines is most economical to the estate.
 
 #### (4) Effect on claims
 
@@ -70,7 +70,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 &emsp;&emsp;(B) if such broker or dealer sustains a net loss on such contracts, he shall be entitled to file a claim against the debtor with the trustee in the amount of such net loss.
 
-> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separate customer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
+> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separatecustomer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
 
 #### (3) Registered clearing agencies
 
@@ -94,7 +94,7 @@ In order to facilitate the prompt satisfaction of customer claims and the orderl
 
 &emsp;(1) waive or modify the need to file a written statement of claim pursuant to subsection (a)(2) of this section; and
 
-&emsp;(2) enter into such agreements as the trustee considers appropriate under the circumstancesto indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
+&emsp;(2) enter into such agreements as the trustee considers appropriate under the circumstances to indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
 
 > The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
 

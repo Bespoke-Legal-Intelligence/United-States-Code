@@ -96,7 +96,7 @@ Pub. L. 109–59, title XI, §§11164(b)(4), 11167(c), Aug. 10, 2005, 119 Stat. 
 
 Pub. L. 103–66, title XIII, §13173(c)(2), Aug. 10, 1993, 107 Stat. 457, added item 6714 “Failure to meet disclosure requirements applicable to quid pro quo contributions”.
 
-1989—Pub. L. 101–239, title VII, §§7711(b)(4), 7731(c), 7816(v)(2), Dec. 19, 1989, 103 Stat. 2393, 2401, 2423, substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Tax Court primarily for delay, etc.” in item 6673, struck out items 6676 “Failure to supply identifying numbers” and 6687 “Failure to supply information withrespect to place of residence”, and redesignated item 6712 “Disclosure or use of information by preparers of returns” as 6713.
+1989—Pub. L. 101–239, title VII, §§7711(b)(4), 7731(c), 7816(v)(2), Dec. 19, 1989, 103 Stat. 2393, 2401, 2423, substituted “Sanctions and costs awarded by courts” for “Damages assessable for instituting proceedings before the Tax Court primarily for delay, etc.” in item 6673, struck out items 6676 “Failure to supply identifying numbers” and 6687 “Failure to supply information with respect to place of residence”, and redesignated item 6712 “Disclosure or use of information by preparers of returns” as 6713.
 
 1988—Pub. L. 100–647, title I, §1011(b)(4)(B)(ii), Nov. 10, 1988, 102 Stat. 3457, substituted “penalties relating to” for “overstatement of” in item 6693.
 
@@ -124,7 +124,7 @@ Pub. L. 97–424, title V, §515(b)(11)(D), Jan. 6, 1983, 96 Stat. 2182, struck 
 
 1980—Pub. L. 96–603, §§1(e)(3), 2(d)(2), Dec. 28, 1980, 94 Stat. 3505, 3510, substituted “returns” for “reports” in item 6685 and added item 6689.
 
-Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure to file information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
+Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. L. 94–455, §2005(e)(4), and Pub. L. 95–600, §702(r)(1)(C), and the amendments made thereby, which resulted in striking out item 6698A “Failure tofile information with respect to carryover basis property”, which had been added as item 6694 in 1976 and redesignated as item 6698 in 1978. Pub. L. 96–222, §§107(a)(2)(E), 201, redesignated item 6698 as 6698A, effective as if included in Pub. L. 95–600.
 
 Pub. L. 96–222, title I, §§101(a)(7)(L)(v)(X), 107(a)(2)(E), Apr. 1, 1980, 94 Stat. 201, 223, redesignated item 6698, relating to failure to file information with respect to carry-over basis property, as 6698A and substituted “tax credit employee stock ownership plan” for “ESOP” in item 6699.
 

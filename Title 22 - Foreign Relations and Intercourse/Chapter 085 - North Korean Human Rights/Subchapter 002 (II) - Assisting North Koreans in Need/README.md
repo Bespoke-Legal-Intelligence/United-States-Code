@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—ASSISTING NORTH KOREANS IN NEED
 
-<i><sup>1</sup></i><i> So in original. Probably should be “5-year period,”.</i>
-
 
 ---
 

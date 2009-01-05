@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;&emsp;(iii) only through matching foreign export credit offers can the Bank buttress United States negotiators in their efforts to bring these loopholes within the disciplines of the Arrangement; and
 
-&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learns that foreign untied aid offers will be made; and
+&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learnsthat foreign untied aid offers will be made; and
 
 &emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
 
@@ -90,7 +90,7 @@ The Congress finds that—
 
 #### (i) Consideration of certain principles and standards
 
-&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
+&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), theSecretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
 
@@ -108,7 +108,7 @@ The Congress finds that—
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;In handling individual applications involving the use or potential use of the TiedAid Credit Fund the following process shall exclusively apply pursuant to subparagraph (A):
+&emsp;&emsp;&emsp;In handling individual applications involving the use or potential use of the Tied Aid Credit Fund the following process shall exclusively apply pursuant to subparagraph (A):
 
 &emsp;&emsp;&emsp;&emsp;(I) The Bank shall process an application for tied aid in accordance with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
 
@@ -218,7 +218,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Blended financing
 
-&emsp;The term “blended financing” means financing provided through any combination of official development assistance, official export credits, and private commercial credit which is integrated into a single agreement with a single set of financial terms.
+&emsp;The term “blended financing” means financing provided through any combination of official development assistance, official export credits, and private commercial credit whichis integrated into a single agreement with a single set of financial terms.
 
 #### (5) Parallel financing
 
@@ -292,7 +292,7 @@ Subsec. (b)(1). Pub. L. 102–429, §103(c)(3)(A), substituted “The” for “
 
 Subsec. (b)(1)(A). Pub. L. 102–429, §103(c)(1), (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
 
-Subsec. (b)(1)(B). Pub. L. 102–429, §103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
+Subsec. (b)(1)(B). Pub. L. 102–429, §103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the useof such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
 
 Subsec. (b)(2). Pub. L. 102–429, §103(c)(4), (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
 

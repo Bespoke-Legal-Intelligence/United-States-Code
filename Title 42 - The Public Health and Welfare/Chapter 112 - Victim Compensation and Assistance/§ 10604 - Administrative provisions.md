@@ -6,7 +6,7 @@ The Director may establish such rules, regulations, guidelines, and procedures a
 
 #### (b) Recordkeeping
 
-Each recipient of sums under this chapter shall keep such records as the Director shallprescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of sums under this chapter shall keep such records as the Director shall prescribe, including records that fully disclose the amount and disposition by such recipient of such sums, the total cost of the undertaking for which such sums are used, and that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (c) Access of Director to books and records for purpose of audit and examination
 
@@ -66,7 +66,7 @@ Subsec. (g). Pub. L. 100–690, §7123(b)(14), substituted “Director” for �
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a noteunder section 13 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1988 Amendment
 

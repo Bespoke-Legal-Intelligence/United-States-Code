@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;(1) with respect to an excess defense article, the actual value of the article plus the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying the article, except that for purposes of section 2392(d) of this title such actual value shall not be taken into account;
 
-&emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under this chapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
+&emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under thischapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
 
 &emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreign countries or international organizations under this chapter, the contract or production costs of such article;
 
@@ -56,7 +56,7 @@ As used in this chapter—
 
 (q) “Major non-NATO ally” means a country which is designated in accordance with section 2321k of this title as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L.102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
+(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (m). Pub. L. 93–189, §22(3), amended subsec. (m) generally. Prior to 
 
 &emsp;“(3) with respect to nonexcess defense articles delivered from new procurement to countries or international organizations under this chapter, the contract or production costs of such articles.
 
-> Military assistance programs and orders shall be based upon the best estimates of stock status and prevailing prices; reimbursements to the supplying agency shall be made on the basis of the stock status and prices determined pursuant to this section. Notwithstanding the foregoing provisions of this section, the Secretary of Defense may prescribe regulations authorizing reimbursements to the supplying agency based on negotiated prices for aircraft, vessels, plant equipment, and such other major items as he may specify: <i>Provided</i>, That such articles are not excess at the time such prices are negotiated: <i>Provided further</i>, That such prices are negotiated at the time firm orders are placed with the supplying agency.”
+> Military assistance programs and orders shall be based upon the best estimates of stock status and prevailing prices; reimbursements to the supplying agency shall be made on the basis of the stock status and prices determined pursuant to this section. Notwithstanding the foregoing provisions of this section, the Secretary of Defense may prescribe regulations authorizing reimbursements to the supplying agency based on negotiated prices for aircraft, vessels, plant equipment, and such other major items as he may specify: <i>Provided</i>, That such articles are not excess at the time such prices are negotiated: <i>Provided further</i>, That such pricesare negotiated at the time firm orders are placed with the supplying agency.”
 
 1972—Subsec. (m). Pub. L. 92–226 substituted “ ‘Value’ means, other than in section 2417 of this title” for “ ‘Value’ means”.
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

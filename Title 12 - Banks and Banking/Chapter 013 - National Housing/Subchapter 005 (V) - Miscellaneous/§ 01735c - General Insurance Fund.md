@@ -18,7 +18,7 @@ The general expenses of the operations of the Department of Housing and Urban De
 
 #### (c) Deposit or investment of moneys; purchase of debentures
 
-Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the United States to the credit of such Fund, or invested in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainable from other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
+Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the United States to the credit of such Fund, or invested in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainablefrom other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
 
 #### (d) Credits and charges to Fund
 
@@ -26,15 +26,21 @@ Premium charges, adjusted premium charges, and appraisal and other fees received
 
 #### (e) Restrictions on use of Fund
 
-The General Insurance Fund shall not be used for carrying out the provisions of section 1709(b) (except as provided in section 1709(v)), (h), and (i) of this title, or the provisions of section 1715e of this title to the extent that they involve mortgages the insurance for which is the obligation of the Cooperative Management Housing Insurance Fund created by section 1715e(k) of this title, or the provisions of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1 and 1715z–2 of this title; and nothing in this section shall apply to or affect any mortgages, loans, commitments, or insurance under such provisions.
+The General Insurance Fund shall not be used for carrying out the provisions of section 1709 of this title, except as determined by the Secretary, or the provisions of section 1715e of this title to the extent that they involve mortgages the insurance for which is the obligation of the Cooperative Management Housing Insurance Fund created by section 1715e(k) of this title, or the provisions of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1 and 1715z–2 <sup>1</sup> of this title; and nothing in this section shall apply to or affect any mortgages, loans, commitments, or insurance under such provisions.
 
 #### (f) Risk assessment
 
 The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the General Insurance Fund, and shall present findings from such review to the Congress in the FHA Annual Management Report.
 
-(June 27, 1934, ch. 847, title V, §519, as added Pub. L. 89–117, title II, §214, Aug. 10, 1965, 79 Stat. 471; amended Pub. L. 90–19, §1(a)(1), (3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §104(c), Aug. 1, 1968, 82 Stat. 488; Pub. L. 91–609, title I, §117(e), Dec. 31, 1970, 84 Stat. 1775; Pub. L. 94–375, §10, Aug. 3, 1976, 90 Stat. 1073; Pub. L. 95–24, title I, §102, Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–557, title III, §310, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title III, §305, Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–399, title III, §305, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §334, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title IV, §403, Nov. 30, 1983, 97 Stat. 1208; Pub. L. 102–550, title I, §185(c)(2), Oct. 28, 1992, 106 Stat. 3748; Pub. L. 103–233, title I, §§103(g)(2), 105(b), Apr. 11, 1994, 108 Stat. 362, 363.)
+(June 27, 1934, ch. 847, title V, §519, as added Pub. L. 89–117, title II, §214, Aug. 10, 1965, 79 Stat. 471; amended Pub. L. 90–19, §1(a)(1), (3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §104(c), Aug. 1, 1968, 82 Stat. 488; Pub. L. 91–609, title I, §117(e), Dec. 31, 1970, 84 Stat. 1775; Pub. L. 94–375, §10, Aug. 3, 1976, 90 Stat. 1073; Pub. L. 95–24, title I, §102, Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–557, title III, §310, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title III, §305, Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–399, title III, §305, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §334, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title IV, §403, Nov. 30, 1983, 97 Stat. 1208; Pub. L. 102–550, title I, §185(c)(2), Oct. 28, 1992, 106 Stat. 3748; Pub. L. 103–233, title I, §§103(g)(2), 105(b), Apr. 11, 1994, 108 Stat. 362, 363; Pub. L. 110–289, div. B, title I, §2118(c)(2), July 30, 2008, 122 Stat. 2835.)
+
+#### References in Text
+
+Section 1715z–2 of this title, referred to in subsec. (e), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(6), July 30, 2008, 122 Stat. 2835.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–289 substituted “1709 of this title, except as determined by the Secretary” for “1709(b) (except as provided in section 1709(v)), (h), and (i) of this title”.
 
 1994—Subsec. (f). Pub. L. 103–233, §105(b), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “There are authorized to be appropriated such sums as may be necessary to cover losses sustained by the General Insurance Fund.”
 
@@ -67,4 +73,6 @@ Pub. L. 103–233, §103(g)(2), added subsec. (g).
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

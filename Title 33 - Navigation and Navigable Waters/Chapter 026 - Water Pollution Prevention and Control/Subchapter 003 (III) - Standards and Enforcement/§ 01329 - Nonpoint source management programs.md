@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
 
-&emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of thebest management practices at the earliest practicable date.
+&emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
 &emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
@@ -80,7 +80,7 @@
 
 #### (3) Failure of State to submit report
 
-&emsp;If a Governor of a State does not submit the report required by subsection (a) of this section within the period specified by subsection (c)(2) of this section, the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a) of this section.Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shall report to Congress on his actions pursuant to this section.
+&emsp;If a Governor of a State does not submit the report required by subsection (a) of this section within the period specified by subsection (c)(2) of this section, the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a) of this section. Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shall report to Congress on his actions pursuant to this section.
 
 #### (e) Local management programs; technical assistance
 
@@ -94,7 +94,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (1) Convening of conference; notification; purpose
 
-&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is not meeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C. 1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
+&emsp;If any portion of the navigable waters in any State which is implementing a management program approved under this section is not meeting applicable water quality standards or the goals and requirements of this chapter asa result, in whole or in part, of pollution from nonpoint sources in another State, such State may petition the Administrator to convene, and the Administrator shall convene, a management conference of all States which contribute significant pollution resulting from nonpoint sources to such portion. If, on the basis of information available, the Administrator determines that a State is not meeting applicable water quality standards or the goals and requirements of this chapter as a result, in whole or in part, of significant pollution from nonpoint sources in another State, the Administrator shall notify such States. The Administrator may convene a management conference under this paragraph not later than 180 days after giving such notification, whether or not the State which is not meeting such standards requests such conference. The purpose of such conference shall be to develop an agreement among such States to reduce the level of pollution in such portion resulting from nonpoint sources and to improve the water quality of such portion. Nothing in such agreement shall supersede or abrogate rights to quantities of water which have been established by interstate water compacts, Supreme Court decrees, or State water laws. This subsection shall not apply to any pollution which is subject to the Colorado River Basin Salinity Control Act \[43 U.S.C. 1571 et seq.\]. The requirement that the Administrator convene a management conference shall not be subject to the provisions of section 1365 of this title.
 
 #### (2) State management program requirement
 
@@ -116,7 +116,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (4) Limitation on grant amounts
 
-&emsp;Notwithstanding any other provision of this subsection, not more than 15 percent of theamount appropriated to carry out this subsection may be used to make grants to any one State, including any grants to any local public agency or organization with authority to control pollution from nonpoint sources in any area of such State.
+&emsp;Notwithstanding any other provision of this subsection, not more than 15 percent of the amount appropriated to carry out this subsection may be used to make grants to any one State, including any grants to any local public agency or organization with authority to control pollution from nonpoint sources in any area of such State.
 
 #### (5) Priority for effective mechanisms
 
@@ -170,7 +170,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (3) Federal share; maximum amount
 
-&emsp;The Federal share of the cost of assisting a State in carrying out groundwater protection activities in any fiscal year under this subsection shall be 50 percent of the costs incurred by the State in carrying out such activities, except that the maximum amount ofFederal assistance which any State may receive under this subsection in any fiscal year shall not exceed $150,000.
+&emsp;The Federal share of the cost of assisting a State in carrying out groundwater protection activities in any fiscal year under this subsection shall be 50 percent of the costs incurred by the State in carrying out such activities, except that the maximum amount of Federal assistance which any State may receive under this subsection in any fiscal year shall not exceed $150,000.
 
 #### (4) Report
 

@@ -30,7 +30,7 @@ For purposes of this section, the term “integrated entry and exit data system�
 
 &emsp;Nothing in this section shall be construed to permit the Attorney General or the Secretary of State to impose any new documentary or data collection requirements on any person in order to satisfy the requirements of this section, including—
 
-&emsp;&emsp;(A) requirements on any alien for whom the documentary requirements in section1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
+&emsp;&emsp;(A) requirements on any alien for whom the documentary requirements in section 1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
 
 &emsp;&emsp;(B) requirements that are inconsistent with the North American Free Trade Agreement.
 
@@ -270,7 +270,7 @@ Detail of government employees.—Any Federal Government employee, with the appr
 
 &emsp;“(4)
 
-Procurement of temporary and intermittent services.—The Attorney General may procure temporary and intermittent services for the Task Force under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of temporary and intermittent services.—The Attorney General may procure temporary and intermittent services for the Task Force under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed forlevel V of the Executive Schedule under section 5316 of such title.
 
 &emsp;“(5)
 

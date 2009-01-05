@@ -10,7 +10,7 @@ Not later than July 1 of each year, the Secretary of State shall submit a report
 
 #### (c) Annual report
 
-In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget request to the Congress, shall submit to the designated congressional committees a report that includes the following:
+In addition to the report required by subsection (a) of this section, the President, at the time of submission of the annual budget requestto the Congress, shall submit to the designated congressional committees a report that includes the following:
 
 #### (1) Costs of peacekeeping operations
 
@@ -44,7 +44,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;(A)(i) A description of the status of efforts to establish and implement an independent office of the Inspector General at the United Nations.
 
-&emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity forcorrective action, and the progress of corrective action.
+&emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
 &emsp;(iii) For purposes of this subparagraph, the term “office of the Inspector General” means an independent office (or other independent entity) established by the United Nations to conduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
 
@@ -178,7 +178,7 @@ Subsecs. (f), (g). Pub. L. 107–228, §405(a)(4), redesignated subsec. (g) as (
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
 
-Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struckout heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
+Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
 1994—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 

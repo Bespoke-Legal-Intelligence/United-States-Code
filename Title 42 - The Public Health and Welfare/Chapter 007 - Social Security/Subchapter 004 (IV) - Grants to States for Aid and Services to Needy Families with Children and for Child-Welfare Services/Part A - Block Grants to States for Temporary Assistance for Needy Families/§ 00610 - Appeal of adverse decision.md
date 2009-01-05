@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 5 days after the date the Secretary takes any adverse action under this part with respect to a State, the Secretary shall notify the chief executive officer of the State of the adverse action, including any action with respect to the State plan submitted under section 602 of this title or the imposition of a penalty under section 609 of this title.
+Within 5 days after the date the Secretary takes any adverse action under this part withrespect to a State, the Secretary shall notify the chief executive officer of the State of the adverse action, including any action with respect to the State plan submitted under section 602 of this title or the imposition of a penalty under section 609 of this title.
 
 #### (b) Administrative review
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

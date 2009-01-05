@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(vii) the potential for long-term protection afforded by the technology; and
 
-&emsp;&emsp;&emsp;(viii) recommendations developed from evaluations of the program established under the Shoreline Erosion Control Demonstration Act of 1974 (42 U.S.C. 1962–5 <sup>2</sup> note),<sup>2</sup> including—
+&emsp;&emsp;&emsp;(viii) recommendations developed from evaluations of the program established under the Shoreline Erosion Control Demonstration Act of 1974 (42 U.S.C. 1962–5 note),<sup>2</sup> including—
 
 &emsp;&emsp;&emsp;&emsp;(I) adequate consideration of the subgrade;
 

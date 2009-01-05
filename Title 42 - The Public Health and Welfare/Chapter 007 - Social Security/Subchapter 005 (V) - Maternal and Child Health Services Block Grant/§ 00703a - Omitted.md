@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 90–132, title II, Nov. 8, 1967, 81 Stat. 404, which provided for approval by Secretary of any State plan which provided standards for professional obstetrical services in accordance with the laws of the State, was not repeated in the Department of Health, Education, and Welfare Appropriation Act, 1969. Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 90–132, title II, Nov. 8, 1967, 81 Stat. 404, which provided for approval by Secretary of any State plan which provided standards for professionalobstetrical services in accordance with the laws of the State, was not repeated in the Department of Health, Education, and Welfare Appropriation Act, 1969. Similar provisions were contained in the following prior appropriation acts:
 
 Nov. 7, 1966, Pub. L. 87–787, title II, 80 Stat. 1397.
 

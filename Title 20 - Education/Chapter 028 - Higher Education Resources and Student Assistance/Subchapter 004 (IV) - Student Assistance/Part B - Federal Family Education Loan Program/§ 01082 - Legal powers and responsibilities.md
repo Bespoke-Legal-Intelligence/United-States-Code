@@ -18,7 +18,11 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 #### (b) Financial operations responsibilities
 
-The Secretary shall, with respect to the financial operations arising by reason of this part prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31. The transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.
+The Secretary shall, with respect to the financial operations arising by reason of this part prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31. The transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government. The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—
+
+&emsp;(1) the Secretary requests a review of the proposed settlement of such claim by the Attorney General; and
+
+&emsp;(2) the Attorney General responds to such request, which may include, at the Attorney General's discretion, a written opinion related to such proposed settlement.
 
 #### (c) Data collection
 
@@ -34,7 +38,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (2) Collection and reporting requirements
 
-&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
+&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each categoryspecified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
 &emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
@@ -72,11 +76,11 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(B) any eligible lender as defined in section 1085(d)(1) of this title;
 
-&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate, with respect to the payment of the special allowance under section 1087–1 of this title in order to evaluate the program authorized by this part.
+&emsp;&emsp;(C) a representative sample of eligible lenders under this part, upon the request of either of the authorizing committees, with respect to the payment of the special allowance under section 1087–1 of this title in order to evaluate the program authorized by this part.
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to berecords necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
 
 #### (3) “Record” defined
 
@@ -202,7 +206,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) determines that the likelihood of loss outweighs the importance of following the limitation, suspension, or termination procedures authorized in subsection (h) of this section;
 
-> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), takeemergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
+> &emsp;the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the lender (by registered mail, return receipt requested), take emergency action to stop the issuance of guarantee commitments and the payment of interest benefits and special allowance to the lender.
 
 #### (2) Length of emergency action
 
@@ -224,7 +228,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Recommendation
 
-&emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes that could be made in order to further encourage such efforts.
+&emsp;The Secretary shall recommend to the appropriate committees in the Senate and House of Representatives changes to statutes thatcould be made in order to further encourage such efforts.
 
 #### (<i>l</i>) Uniform administrative and claims procedures
 
@@ -296,7 +300,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.
 
 #### (ii) Consultation
 
@@ -344,7 +348,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (3) Plan for use required
 
-&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing theexpenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
+&emsp;The Secretary shall submit a plan, for inclusion in the materials accompanying the President's budget each fiscal year, detailing the expenditure of funds authorized by this section to accomplish the 5 percent reduction in defaults. At the conclusion of the fiscal year, the Secretary shall report the Secretary's findings and activities concerning the expenditure of funds and whether the performance measure was met. If the performance measure was not met, the Secretary shall report the following:
 
 &emsp;&emsp;(A) why the goal was not met, including an indication of any managerial deficiencies or of any legal obstacles;
 
@@ -354,7 +358,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(D) if the performance standard or goal is impractical or infeasible, why that is the case and what action is recommended, including whether the goal should be changed or the program altered or eliminated.
 
-> &emsp;This report shall be submitted to the Appropriations Committees of the House of Representatives and the Senate and to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+> &emsp;This report shall be submitted to the Appropriations Committees of the House of Representatives and the Senate and to the authorizing committees.
 
 #### (<i>o</i>) Consequences of guaranty agency insolvency
 
@@ -364,7 +368,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247.)
 
 #### References in Text
 
@@ -379,6 +383,14 @@ This chapter, referred to in subsec. (<i>l</i>)(3)(C), was in the original “th
 A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
+
+Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted “either of the authorizing committees” for “the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate”.
+
+Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end “Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.”
+
+Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate” in concluding provisions.
 
 2006—Subsec. (<i>l</i>)(1)(H). Pub. L. 109–171 inserted “and anticipated graduation date” after “status change”.
 
@@ -455,12 +467,6 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 1987—Subsec. (f)(4). Pub. L. 100–50, §10(x), added par. (4).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2006 Amendment
 

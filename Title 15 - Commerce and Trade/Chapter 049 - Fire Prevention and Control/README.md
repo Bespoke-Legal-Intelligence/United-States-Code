@@ -41,6 +41,7 @@
 | [2231\.](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md) | Cooperative agreements with Federal facilities. |
 | [2232\.](%C2%A7%2002232%20-%20Burn%20research.md) | Burn research. |
 | [2233\.](%C2%A7%2002233%20-%20Removal%20of%20civil%20liability%20barriers%20that%20discourage%20the%20donation%20of%20fire%20equipment%20to%20volunteer%20fire%20companies.md) | Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies. |
+| [2234\.](%C2%A7%2002234%20-%20Encouraging%20adoption%20of%20standards%20for%20firefighter%20health%20and%20safety.md) | Encouraging adoption of standards for firefighter health and safety. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,3 +89,4 @@
 - [&sect; 02231 - Cooperative agreements with Federal facilities](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md)
 - [&sect; 02232 - Burn research](%C2%A7%2002232%20-%20Burn%20research.md)
 - [&sect; 02233 - Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies](%C2%A7%2002233%20-%20Removal%20of%20civil%20liability%20barriers%20that%20discourage%20the%20donation%20of%20fire%20equipment%20to%20volunteer%20fire%20companies.md)
+- [&sect; 02234 - Encouraging adoption of standards for firefighter health and safety](%C2%A7%2002234%20-%20Encouraging%20adoption%20of%20standards%20for%20firefighter%20health%20and%20safety.md)

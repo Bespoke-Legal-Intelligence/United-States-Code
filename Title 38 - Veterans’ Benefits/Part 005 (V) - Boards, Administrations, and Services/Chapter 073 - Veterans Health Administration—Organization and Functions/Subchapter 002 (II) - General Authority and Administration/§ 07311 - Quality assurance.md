@@ -76,13 +76,75 @@ Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 
 
 1992—Subsecs. (a) to (d), (f). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
+#### Comprehensive Policy on Pain Management
+
+Pub. L. 110–387, title V, §501, Oct. 10, 2008, 122 Stat. 4130, provided that:
+
+“(a)
+
+Comprehensive Policy Required.—Not later than October 1, 2009, the Secretary of Veterans Affairs shall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
+
+“(b)
+
+Scope of Policy.—The policy required by subsection (a) shall cover each of the following:
+
+&emsp;“(1) The Department-wide management of acute and chronic pain experienced by veterans.
+
+&emsp;“(2) The standard of care for pain management to be used throughout the Department.
+
+&emsp;“(3) The consistent application of pain assessments to be used throughout the Department.
+
+&emsp;“(4) The assurance of prompt and appropriate pain care treatment and management by the Department, system-wide, when medically necessary.
+
+&emsp;“(5) Department programs of research related to acute and chronic pain suffered by veterans, including pain attributable to central and peripheral nervous system damage characteristic of injuries incurred in modern warfare.
+
+&emsp;“(6) Department programs of pain care education and training for health care personnel of the Department.
+
+&emsp;“(7) Department programs of patient education for veterans suffering from acute or chronic pain and their families.
+
+“(c)
+
+Updates.—The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.
+
+“(d)
+
+Consultation.—The Secretary shall develop the policy required by subsection (a), and revise such policy under subsection (c), in consultation with veterans service organizations and organizations with expertise in the assessment, diagnosis, treatment, and management of pain.
+
+“(e)
+
+Annual Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the completion and initial implementation of the policy required by subsection (a) and on October 1 of every fiscal year thereafter through fiscal year 2018, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of the policy required by subsection (a).
+
+&emsp;“(2)
+
+Contents.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A description of the policy developed and implemented under subsection (a) and any revisions to such policy under subsection (c).
+
+&emsp;&emsp;“(B) A description of the performance measures used to determine the effectiveness of such policy in improving pain care for veterans system-wide.
+
+&emsp;&emsp;“(C) An assessment of the adequacy of Department pain management services based on a survey of patients managed in Department clinics.
+
+&emsp;&emsp;“(D) An assessment of the research projects of the Department relevant to the treatment of the types of acute and chronic pain suffered by veterans.
+
+&emsp;&emsp;“(E) An assessment of the training provided to Department health care personnel with respect to the diagnosis, treatment, and management of acute and chronic pain.
+
+&emsp;&emsp;“(F) An assessment of the patient pain care education programs of the Department.
+
+“(f)
+
+Veterans Service Organization Defined.—In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.”
+
 #### Evaluation of Department of Veterans Affairs Nurse Managed Clinics
 
 Pub. L. 107–135, title I, §123, Jan. 23, 2002, 115 Stat. 2451, required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
 
 #### Quality Assurance Activities
 
-Section 104 of Pub. L. 102–405 provided that: “Effective on October 1, 1992, programs and activities which\(1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 \[formerly set out as a note under former section 4151 of this title\] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
+Section 104 of Pub. L. 102–405 provided that: “Effective on October 1, 1992, programs and activities which (1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 \[formerly set out as a note under former section 4151 of this title\] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
 
 #### Regulations for Standards of Performance in Laboratories
 

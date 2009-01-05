@@ -36,11 +36,11 @@ Regulations.—(1) Except as provided in paragraph (2) of this subsection, after
 
 (B) This subsection and section 5112 of this title do not require a State or Indian tribe to comply with section 5112(b)(1)(I) if the highway routing designation, limitation, or requirement was established before November 16, 1990.
 
-(C) The Secretary may allow a highway routing designation, limitation, or requirement to continue in effect until a dispute related to thedesignation, limitation, or requirement is resolved under section 5112(d) of this title.
+(C) The Secretary may allow a highway routing designation, limitation, or requirement to continue in effect until a dispute related to the designation, limitation, or requirement is resolved under section 5112(d) of this title.
 
 (d)
 
-Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(e). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
+Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
 
 (2) After consulting with States, political subdivisions of States, and Indian tribes, the Secretary shall prescribe regulations for carrying out paragraph (1) of this subsection.
 
@@ -48,7 +48,7 @@ Decisions on Preemption.—(1) A person (including a State, political subdivisio
 
 (e)
 
-Waiver of Preemption.—A State, political subdivision of a State, or Indian tribe may apply to the Secretary for a waiver of preemption of a requirement the State, political subdivision, or tribe acknowledges is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(b). Under a procedure the Secretary prescribes by regulation, the Secretary may waive preemption on deciding the requirement—
+Waiver of Preemption.—A State, political subdivision of a State, or Indian tribe may apply to the Secretary for a waiver of preemption of a requirement the State, political subdivision, or tribe acknowledges is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). Under a procedure the Secretary prescribes by regulation, the Secretary may waive preemption on deciding the requirement—
 
 &emsp;(1) provides the public at least as much protection as do requirements of this chapter and regulations prescribed under this chapter; and
 
@@ -70,13 +70,13 @@ Fees.—(1) A State, political subdivision of a State, or Indian tribe may impos
 
 (g)
 
-Application of Each Preemption Standard.—Each standard for preemption in subsection (b), (c)(1), or (d), and in section 5119(b), is independent in its application to a requirement of a State, political subdivision of a State, or Indian tribe.
+Application of Each Preemption Standard.—Each standard for preemption in subsection (a), (b)(1), or (c), and in section 5119(f), is independent in its application to a requirement of a State, political subdivision of a State, or Indian tribe.
 
 (h)
 
-Non-Federal Enforcement Standards.—This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
+Non-Federal Enforcement Standards.—This section does not apply to any procedure,penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320; Pub. L. 109–59, title VII, §§7122, 7123(a), 7126, Aug. 10, 2005, 119 Stat. 1907, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320; Pub. L. 109–59, title VII, §§7122, 7123(a), 7126, Aug. 10, 2005, 119 Stat. 1907, 1909; Pub. L. 110–244, title III, §302(c), June 6, 2008, 122 Stat. 1618.)
 
 Historical and Revision Notes
 
@@ -141,6 +141,12 @@ In subsection (f), the words “may bring a civil action for judicial review” 
 This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(4) and 1811(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 781).
 
 #### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–244, §302(c)(1), substituted “5119(f)” for “5119(e)”.
+
+Subsec. (e). Pub. L. 110–244, §302(c)(2), substituted “5119(f)” for “5119(b)” in introductory provisions.
+
+Subsec. (g). Pub. L. 110–244, §302(c)(2), (3), substituted “(a), (b)(1), or (c)” for “(b), (c)(1), or (d)” and “5119(f)” for “5119(b)”.
 
 2005—Subsec. (b)(1)(E). Pub. L. 109–59, §7122(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
 

@@ -64,7 +64,7 @@ Pub. L. 107–56, §365(b)(2)(B), substituted “section 5324(c)” for “secti
 
 1986—Subsec. (b). Pub. L. 99–570, §1355(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A customs officer may stop and search, without a search warrant, a vehicle, vessel, aircraft, or other conveyance, envelope or other container, or person entering or departing from the United States with respect to which or whom the officer has reasonable cause to believe there is a monetary instrument being transported in violation of section 5316 of this title.”
 
-Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement.”
+Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentenceread as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement.”
 
 1984—Subsecs. (b), (c). Pub. L. 98–473, §901, added subsec. (b) and redesignated former subsec. (b) as (c).
 

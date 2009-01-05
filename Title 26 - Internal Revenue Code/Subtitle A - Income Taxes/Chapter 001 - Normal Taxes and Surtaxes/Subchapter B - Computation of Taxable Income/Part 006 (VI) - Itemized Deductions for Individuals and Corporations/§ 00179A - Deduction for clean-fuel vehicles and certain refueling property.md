@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (B) Original equipment manufacturer's vehicles
 
-&emsp;&emsp;A motor vehicle produced by an original equipment manufacturer and designed so that the vehicle may be propelled by a clean-burning fuel, but only to the extent of theportion of the basis of such vehicle which is attributable to an engine which may use such fuel, to the storage or delivery to the engine of such fuel, or to the exhaust of gases from combustion of such fuel.
+&emsp;&emsp;A motor vehicle produced by an original equipment manufacturer and designed so that the vehicle may be propelled by a clean-burning fuel, but only to the extent of the portion of the basis of such vehicle which is attributable to an engine which may use such fuel, to the storage or delivery to the engine of such fuel, or to the exhaust of gases from combustion of such fuel.
 
 #### (2) Environmental standards
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
+&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion ofthe cost of such property taken into account under subsection (a).
 
 #### (B) Ordinary income recapture
 

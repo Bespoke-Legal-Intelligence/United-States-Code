@@ -42,7 +42,7 @@
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
+&emsp;The term “group health insurance coverage” means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
 
 #### (5) Individual health insurance coverage
 
@@ -154,7 +154,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (10) Network plan
 
-&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery ofmedical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (11) Participant
 
@@ -172,6 +172,70 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 &emsp;The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
+#### (15) Family member
+
+&emsp;The term “family member” means, with respect to any individual—
+
+&emsp;&emsp;(A) a dependent (as such term is used for purposes of section 300gg(f)(2) of this title) of such individual; and
+
+&emsp;&emsp;(B) any other individual who is a first-degree, second-degree, third-degree, or fourth-degree relative of such individual or of an individual described in subparagraph (A).
+
+#### (16) Genetic information
+
+#### (A) In general
+
+&emsp;&emsp;The term “genetic information” means, with respect to any individual, information about—
+
+&emsp;&emsp;&emsp;(i) such individual's genetic tests,
+
+&emsp;&emsp;&emsp;(ii) the genetic tests of family members of such individual, and
+
+&emsp;&emsp;&emsp;(iii) the manifestation of a disease or disorder in family members of such individual.
+
+#### (B) Inclusion of genetic services and participation in genetic research
+
+&emsp;&emsp;Such term includes, with respect to any individual, any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by such individual or any family member of such individual.
+
+#### (C) Exclusions
+
+&emsp;&emsp;The term “genetic information” shall not include information about the sex or age of any individual.
+
+#### (17) Genetic test
+
+#### (A) In general
+
+&emsp;&emsp;The term “genetic test” means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
+
+#### (B) Exceptions
+
+&emsp;&emsp;The term “genetic test” does not mean—
+
+&emsp;&emsp;&emsp;(i) an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes; or
+
+&emsp;&emsp;&emsp;(ii) an analysis of proteins or metabolites that is directly related to a manifested disease, disorder, or pathological condition that could reasonably be detected by a health care professional with appropriate training and expertise in the field of medicine involved.
+
+#### (18) Genetic services
+
+&emsp;The term “genetic services” means—
+
+&emsp;&emsp;(A) a genetic test;
+
+&emsp;&emsp;(B) genetic counseling (including obtaining, interpreting, or assessing genetic information); or
+
+&emsp;&emsp;(C) genetic education.
+
+#### (19) Underwriting purposes
+
+&emsp;The term “underwriting purposes” means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
+
+&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
+
+&emsp;&emsp;(B) the computation of premium or contribution amounts under the plan or coverage;
+
+&emsp;&emsp;(C) the application of any pre-existing condition exclusion under the plan or coverage; and
+
+&emsp;&emsp;(D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
+
 #### (e) Definitions relating to markets and small employers
 
 For purposes of this subchapter:
@@ -186,7 +250,7 @@ For purposes of this subchapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
+&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection witha group health plan that has fewer than two participants as current employees on the first day of the plan year.
 
 #### (ii) State exception
 
@@ -224,11 +288,19 @@ For purposes of this subchapter:
 
 &emsp;&emsp;Any reference in this subsection to an employer shall include a reference to any predecessor of such employer.
 
-(July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972.)
+(July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972; amended Pub. L. 110–233, title I, §102(a)(4), May 21, 2008, 122 Stat. 890.)
 
 #### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+#### Amendments
+
+2008—Subsec. (d)(15) to (19). Pub. L. 110–233 added pars. (15) to (19).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “term”.</i>
 

@@ -72,7 +72,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;(A) consideration of past performance of institutions or persons in control of such institutions with respect to student aid programs; and
 
-&emsp;&emsp;(B) maintenance of records;
+&emsp;&emsp;(B) maintenance of records; and
 
 &emsp;(2) to establish such other reasonable procedures as the Secretary determines will contribute to ensuring that the institution of higher education will comply with administrative capability required by this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -124,7 +124,7 @@ The Secretary is authorized—
 
 &emsp;(C) willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
 
-> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount of the refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
+> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount ofthe refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
 
 #### (f) Actions on applications and site visits
 
@@ -186,7 +186,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;(B) another action determined by the Secretary to be a routine business practice.
 
-(4)(A) The Secretary may provisionally certify an institution seeking approval of a change in ownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
+(4)(A) The Secretary may provisionally certify an institution seeking approval of a change inownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
 
 (B) A provisional certification under this paragraph shall expire not later than the end of the month following the month in which the transaction occurred, except that if the Secretary has not issued a decision on the application for the change of ownership within that period, the Secretary may continue such provisional certification on a month-to-month basis until such decision has been issued.
 
@@ -196,13 +196,31 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 (2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
-(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20,1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763.)
+#### (k) Treatment of teach-outs at additional locations
+
+#### (1) In general
+
+&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if such teach-out has been approved by the institution's accrediting agency.
+
+#### (2) Special rule
+
+&emsp;An institution of higher education that conducts a teach-out through the establishment of an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
+
+&emsp;&emsp;(A) to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title for such additional location; or
+
+&emsp;&emsp;(B) to assume the liabilities of the closed institution.
+
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327.)
 
 #### References in Text
 
 Subsections (b)(5) and (c)(3), referred to in subsec. (i)(1), originally meant subsections (b)(5) and (c)(3) of section 1088 of this title, see 1998 Amendment note below for subsec. (i)(1). Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617, amended section 1088 by striking out subsecs. (b) and (c) and redesignating subsecs. (e) and (f) as (b) and (c), respectively. Section 1002 of this title does not contain a subsec. (b)(5) or (c)(3), but provisions similar to those appearing in former subsecs. (b)(5) and (c)(3) of section 1088 are contained in subsecs. (b)(1)(E) and (c)(1)(C) of section 1002.
 
 #### Amendments
+
+2008—Subsec. (d)(1)(B). Pub. L. 110–315, §496(1), inserted “and” after semicolon.
+
+Subsec. (k). Pub. L. 110–315, §496(2), added subsec. (k).
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §493(a)(1), substituted “financial responsibility, and administrative capability” for “and capability”.
 
@@ -260,7 +278,7 @@ Subsec. (f). Pub. L. 103–208, §2(i)(10), inserted after second sentence “Th
 
 Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
 
-Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 

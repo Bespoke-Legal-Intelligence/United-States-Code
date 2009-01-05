@@ -20,7 +20,7 @@ To be eligible to participate in the scholarship and fellowship program, an indi
 
 #### (c) Agreement
 
-An agreement between the Secretary and a participant in the scholarship and fellowship program established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
+An agreement between the Secretary and a participant in the scholarship and fellowshipprogram established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
 
 &emsp;(1) The Secretary's agreement to provide the participant with educational assistance for a specified number of school years (not exceeding 5) during which the participant is pursuing a program of education in a qualifying field of study. The assistance may include payment of tuition, fees, books, laboratory expenses, and a stipend.
 
@@ -34,7 +34,7 @@ An agreement between the Secretary and a participant in the scholarship and fell
 
 &emsp;(B) is voluntarily separated from service or involuntarily separated for cause from the Department of Energy before the end of the period for which the person has agreed to continue in the service of the Department of Energy.
 
-(2) If an employee fails to fulfill his agreement to pay to the Government the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), a sum equal to theamount of the educational assistance (plus such interest) is recoverable by the Government from the person or his estate by—
+(2) If an employee fails to fulfill his agreement to pay to the Government the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), a sum equal to the amount of the educational assistance (plus such interest) is recoverable by the Government from the person or his estate by—
 
 &emsp;(A) in the case of a person who is an employee, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 

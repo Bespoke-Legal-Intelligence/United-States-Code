@@ -12,7 +12,7 @@
 
 &emsp;(3) provide a program evaluation carried out or commissioned by an executive agency.
 
-(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, andthe Director of the Office of Management and Budget, the Comptroller General shall—
+(c) In cooperation with the Director of the Congressional Budget Office, the Secretary, and the Director of the Office of Management and Budget, the Comptroller General shall—
 
 &emsp;(1) establish and maintain a current directory of sources of, and information systems for, fiscal, budget, and program information and a brief description of the contents of each source and system;
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment andreserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -130,7 +130,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 1983—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
 
-#### Termination of Reporting Requirements
+#### Termination of Reporting Requirements Contained in This Section
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
@@ -310,7 +310,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided tha
 
 &emsp;“(12) Section 4(e)(2) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)(2)).
 
-&emsp;“(13) Section 205(g) of the National Housing Act (12 U.S.C. 1711(g)).
+&emsp;“(13) Section 205(g) of the National Housing Act (\[former\] 12 U.S.C. 1711(g)).
 
 &emsp;“(14) Section 701(c)(1) of the International Financial Institutions Act (22 U.S.C. 262d(c)(1)).
 
@@ -330,7 +330,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided tha
 
 &emsp;“(22) Section 13 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2292).
 
-&emsp;“(23) Section 2B(d) of the Federal Home Loan Bank Act (12 U.S.C. 1422b(d)).
+&emsp;“(23) Section 2B(d) of the Federal Home Loan Bank Act (\[former\] 12 U.S.C. 1422b(d)).
 
 &emsp;“(24) Section 1002(b) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\] (12 U.S.C. 1811 note).
 
@@ -624,7 +624,7 @@ Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: �
 
 &emsp;“(3) Section 47131 of such title.”
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (Public Law 104–66; 31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 1205 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83; 22 U.S.C. 2346 note) (relating to annual reports on economic conditions in Egypt, Israel, Turkey, and Portugal).
 
@@ -654,7 +654,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;“(14) Section 8 of the Export-Import Bank Act (Public Law 79–173; 12 U.S.C. 635g) (relating to Export-Import Bank activities).
 
-&emsp;“(15) Section 407(f) of the Agricultural Trade Development and Assistance Act of 1954 (Public Law 83–480; 7 U.S.C. 1736a) (relating to Public Law 480 programs and activities).
+&emsp;“(15) Section 407(f) of the Food for Peace Act (Public Law 83–480; 7 U.S.C. 1736a) (relating to Public Law 480 programs and activities).
 
 &emsp;“(16) Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; 22 U.S.C. 2199(c)) (relating to OPIC audit report).
 
@@ -664,7 +664,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
-&emsp;“(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f), 221, 226, 401(d), 662(b), 946, 1464(c), 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
+&emsp;“(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, 226, 401(d), 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
 &emsp;“(2) Section 1121(f) of the National Defense Authorization Act for Fiscal Year 1988 and 1989 (Public Law 100–180; 10 U.S.C. 113 note).
 
@@ -732,7 +732,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(34) Section 113(b) of the National Defense Authorization Act for Fiscal Year 1990 and 1991 (Public Law 101–189; 103 Stat. 1373).”
 
-Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that:
+Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §236\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302; Pub. L. 110–314, title II, §203(b), Aug. 14, 2008, 122 Stat. 3040, provided that:
 
 “(a)
 
@@ -822,9 +822,11 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;“(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 
-&emsp;“(31) section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a); or
+&emsp;“(31) section 240A of the Foreign Assistance Act of 1961 (22 U.S.C. 2200a);
 
-&emsp;“(32) section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469).”
+&emsp;“(32) section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)); or
+
+&emsp;“(33) section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469).”
 
 #### Authority To Increase Efficiency in Reporting to Congress
 

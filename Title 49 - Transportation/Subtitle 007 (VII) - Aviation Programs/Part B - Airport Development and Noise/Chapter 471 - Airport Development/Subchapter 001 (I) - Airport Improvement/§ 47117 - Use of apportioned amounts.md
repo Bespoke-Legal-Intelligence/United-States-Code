@@ -10,7 +10,7 @@ Period of Availability.—An amount apportioned under section 47114 of this titl
 
 (c)
 
-Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport undersection 47114(c)(1) of this title is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
+Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport under section 47114(c)(1) of this title is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
 
 (2)
 
@@ -194,7 +194,7 @@ In subsection (g)(1), the words “and (3)” are omitted because 49 App.:2207(e
 
 In subsection (g)(2)(A), the words “made available” are substituted for “authorized” for clarity.
 
-In subsection (h), the words “to make grants” are substituted for “to obligate to an airport by grant agreement” for consistency in the revised title and to eliminate unnecessary words. The words “the unobligated balance of” are omitted as surplus. The words “limits that authority” are substituted for “limits the application of this paragraph” for clarity. The words “in addition to the amounts authorized for that fiscalyear by section 2204 of this Appendix” are omitted as surplus.
+In subsection (h), the words “to make grants” are substituted for “to obligate to an airport by grant agreement” for consistency in the revised title and to eliminate unnecessary words. The words “the unobligated balance of” are omitted as surplus. The words “limits that authority” are substituted for “limits the application of this paragraph” for clarity. The words “in addition to the amounts authorized for that fiscal year by section 2204 of this Appendix” are omitted as surplus.
 
 Pub. L. 103–429
 
@@ -280,7 +280,7 @@ Pub. L. 104–264, §124(d), which directed the amendment of subpar. (B) by subs
 
 Pub. L. 104–264, §123(b)(6), as amended by Pub. L. 105–102, §3(c)(1)(A), substituted “at least 4 percent for each of fiscal years 1997 and 1998” for “at least 2.25 percent for the fiscal year ending September 30, 1993, and at least 2.5 percent for each of the fiscal years ending September 30, 1994, 1995, and 1996,”.
 
-Pub. L. 104–264, §123(b)(3), (7), redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base,and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) redesignated (A).
+Pub. L. 104–264, §123(b)(3), (7), redesignated subpar. (E) as (B) and inserted before period at end “and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant”. Former subpar. (B) redesignated (A).
 
 Subsec. (e)(1)(C), (D). Pub. L. 104–264, §123(b)(2), struck out subpars. (C) and (D) which read as follows:
 

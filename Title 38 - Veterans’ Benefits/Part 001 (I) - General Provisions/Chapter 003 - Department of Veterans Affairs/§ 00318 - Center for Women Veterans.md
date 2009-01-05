@@ -56,7 +56,7 @@ Prior section 343, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, prescribed co
 
 Prior sections 351 to 355 were renumbered sections 1151 to 1155 of this title, respectively.
 
-Prior section 356, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicablein case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
+Prior section 356, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1125, provided for a minimum rating for veterans with arrested tuberculosis, prior to repeal by Pub. L. 90–493, §4, Aug. 19, 1968, 82 Stat. 809, but repeal not applicable in case of veteran who on Aug. 19, 1968, was receiving or entitled to receive compensation for tuberculosis which in the judgment of the Administrator had reached a condition of complete arrest.
 
 Prior sections 357 to 363 were renumbered sections 1157 to 1163 of this title, respectively.
 

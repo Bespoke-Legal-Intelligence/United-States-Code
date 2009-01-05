@@ -114,7 +114,7 @@ Application of Protocol.—Paragraph (2) of section 2(b) of such Act of 1979 (19
 
 “(d)
 
-Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (19 U.S.C. 2504(a), (b), (c), and (f) \[19 U.S.C. 2504(a), (b), (c), and (d)\]) (relating to the priorityof domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, 19 U.S.C. 2503(a).”
+Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (19 U.S.C. 2504(a), (b), (c), and (f) \[19 U.S.C. 2504(a), (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, 19 U.S.C. 2503(a).”
 
 \[The Protocol was accepted for the United States on Dec. 30, 1980.\]
 

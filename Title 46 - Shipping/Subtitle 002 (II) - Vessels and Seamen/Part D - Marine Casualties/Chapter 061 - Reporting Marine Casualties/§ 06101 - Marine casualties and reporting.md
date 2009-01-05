@@ -56,7 +56,7 @@
 
 (i) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(<i>o</i>), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(<i>o</i>), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Section 6101(a) requires the Secretary to prescribe regulations on the types and
 
 Subsection (b) requires the owner, charterer, agent, master, operator, or individual in charge of a vessel to report within 5 days, any casualty required in subsection (a) or by regulation.
 
-Subsection (c) requires the owner, charterer, managing operator, or agent of a U.S. vessel to immediately determine the status of their vessel if they have not heard from the vessel, if it has not passed a scheduled point, or for any other reason which may indicate the vessel may have been lost or imperiled. If the owner, charterer, managing operator, or agent cannot reach the vessel and determine that it is operating safely, then they shall immediately notify the Coast Guard and provide the Coast Guard with the name and number of the vessel, the names of individuals on board, and any other information that the Coast Guard may request. If communication with the vessel indicates the vessel was involved in a casualty, then the owner, charterer, or agent of the vessel must immediately notify the Coast Guard under subsection (b). Notification to the Coast Guard does not impose or create any additional responsibility for the Coast Guard to take searchand rescue action beyond those already existing under title 14, United States Code.
+Subsection (c) requires the owner, charterer, managing operator, or agent of a U.S. vessel to immediately determine the status of their vessel if they have not heard from the vessel, if it has not passed a scheduled point, or for any other reason which may indicate the vessel may have been lost or imperiled. If the owner, charterer, managing operator, or agent cannot reach the vessel and determine that it is operating safely, then they shall immediately notify the Coast Guard and provide the Coast Guard with the name and number of the vessel, the names of individuals on board, and any other information that the Coast Guard may request. If communication with the vessel indicates the vessel was involved in a casualty, then the owner, charterer, or agent of the vessel must immediately notify the Coast Guard under subsection (b). Notification to the Coast Guard does not impose or create any additional responsibility for the Coast Guard to take search and rescue action beyond those already existing under title 14, United States Code.
 
 Subsection (d) makes it clear that the reporting requirements under subsection (b) are applicable to foreign vessels involved in a marine casualty when operating on the navigable waters of the United States, whether in innocent passage or not.
 
@@ -90,7 +90,11 @@ Subsection (e) provides for the classification of marine casualties by regulatio
 
 #### Amendments
 
-2006—Subsecs. (g) to (i). Pub. L. 109–241 and Pub. L. 109–304 amended section identically, redesignating the second subsec. (g), relating to electronic publishing of marine casualty reports, and subsec. (h) as (h) and (i), respectively.
+2008—Subsecs. (g) to (i). Pub. L. 110–181 repealed Pub. L. 109–304, §15(21). See 2006 Amendment notes below.
+
+2006—Subsecs. (g) to (i). Pub. L. 109–304, §15(21), which directed amendment identical to that made by Pub. L. 109–241, was repealed by Pub. L. 110–181. See Construction of 2006 Amendment note below.
+
+Pub. L. 109–241 redesignated the second subsec. (g), relating to electronic publishing of marine casualty reports, and subsec. (h) as subsecs. (h) and (i), respectively.
 
 2002—Subsecs. (e), (f). Pub. L. 107–295, §423(1), redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
 
@@ -123,6 +127,10 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–498 effective 180 days after Oct. 1, 1984, see section 214 of Pub. L. 98–498, set out as an Effective Date note under section 2306 of this title.
+
+#### Construction of 2006 Amendment
+
+Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–181 to be treated as if never enacted, see section 3529(c)(2) of Pub. L. 110–181, set out as a note under section 9504 of Title 26, Internal Revenue Code.
 
 #### Transfer of Functions
 

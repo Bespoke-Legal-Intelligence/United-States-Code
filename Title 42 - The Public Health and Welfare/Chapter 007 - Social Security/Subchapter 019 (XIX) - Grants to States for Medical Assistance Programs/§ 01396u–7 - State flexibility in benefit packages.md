@@ -22,7 +22,7 @@
 
 #### (D) Treatment as medical assistance
 
-&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated aspayment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
 
 #### (2) Application
 

@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(ii) a person is conducting or has completed a response action regarding the specific release that is addressed by the response action that is in compliance with the State program that specifically governs response actions for the protection of public health and the environment,
 
-> &emsp;&emsp;the President may not use authority under this chapter to take an administrative or judicial enforcement action under section9606(a) of this title or to take a judicial enforcement action to recover response costs under section 9607(a) of this title against the person regarding the specific release that is addressed by the response action.
+> &emsp;&emsp;the President may not use authority under this chapter to take an administrative or judicial enforcement action under section 9606(a) of this title or to take a judicial enforcement action to recover response costs under section 9607(a) of this title against the person regarding the specific release that is addressed by the response action.
 
 #### (B) Exceptions
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;Nothing in paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) modifies or otherwise affects a memorandum of agreement, memorandum of understanding, or any similar agreement relating to this chapter between a Stateagency or an Indian tribe and the Administrator that is in effect on or before January 11, 2002 (which agreement shall remain in effect, subject to the terms of the agreement); or
+&emsp;&emsp;&emsp;(i) modifies or otherwise affects a memorandum of agreement, memorandum of understanding, or any similar agreement relating to this chapter between a State agency or an Indian tribe and the Administrator that is in effect on or before January 11, 2002 (which agreement shall remain in effect, subject to the terms of the agreement); or
 
 &emsp;&emsp;&emsp;(ii) limits the discretionary authority of the President to enter into or modify an agreement with a State, an Indian tribe, or any other person relating to the implementation by the President of statutory authorities.
 

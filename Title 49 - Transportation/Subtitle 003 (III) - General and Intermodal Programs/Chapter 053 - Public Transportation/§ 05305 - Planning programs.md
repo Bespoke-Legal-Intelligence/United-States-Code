@@ -170,7 +170,7 @@ Subsec. (d)(1). Pub. L. 105–178, §3006(d), as amended by Pub. L. 105–206, �
 
 “(B) In cooperation with the metropolitan planning organization designated for a transportation management area, the State shall select the projects to be carried out in the area of the National Highway System or under the Bridge and Interstate Maintenance programs.”
 
-Subsec. (e)(2). Pub. L. 105–178, §3006(e)(1), added par. (2) and struck out former par. (2) which read as follows:“If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
+Subsec. (e)(2). Pub. L. 105–178, §3006(e)(1), added par. (2) and struck out former par. (2) which read as follows: “If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
 
 Subsec. (e)(4). Pub. L. 105–178, §3006(e)(2), added par. (4).
 
@@ -178,5 +178,5 @@ Subsec. (h). Pub. L. 105–178, §3006(f), added subsec. (h).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 

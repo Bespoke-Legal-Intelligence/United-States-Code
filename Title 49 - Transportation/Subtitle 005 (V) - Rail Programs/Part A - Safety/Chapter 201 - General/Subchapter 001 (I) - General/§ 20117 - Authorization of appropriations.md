@@ -2,21 +2,23 @@
 
 (a)
 
-General.—(1) Not more than the following amounts may be appropriated to the Secretary of Transportation to carry out this chapter:
+In General.—(1) There are authorized to be appropriated to the Secretary of Transportationto carry out this part and to carry out responsibilities under chapter 51 as delegated or authorized by the Secretary—
 
-&emsp;(A) $68,283,000 for the fiscal year ending September 30, 1993.
+&emsp;(A) $225,000,000 for fiscal year 2009;
 
-&emsp;(B) $71,690,000 for the fiscal year ending September 30, 1994.
+&emsp;(B) $245,000,000 for fiscal year 2010;
 
-&emsp;(C) $68,289,000 for fiscal year 1995.
+&emsp;(C) $266,000,000 for fiscal year 2011;
 
-&emsp;(D) $75,112,000 for fiscal year 1996.
+&emsp;(D) $289,000,000 for fiscal year 2012; and
 
-&emsp;(E) $82,563,000 for fiscal year 1997.
+&emsp;(E) $293,000,000 for fiscal year 2013.
 
-&emsp;(F) $90,739,000 for fiscal year 1998.
+(2) With amounts appropriated pursuant to paragraph (1), the Secretary shall purchase Gage Restraint Measurement System vehicles and track geometry vehicles or other comparable technology as needed to assess track safety consistent with the results of the track inspection study required by section 403 of the Rail Safety Improvement Act of 2008.
 
-(2) Not more than $5,000,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1993, to carry out section 20105 of this title.
+(3) There are authorized to be appropriated to the Secretary $18,000,000 for the period encompassing fiscal years 2009 through 2013 to design, develop, and construct the Facility for Underground Rail Station and Tunnel at the Transportation Technology Center in Pueblo, Colorado. The facility shall be used to test and evaluate the vulnerabilities of above-ground and underground rail tunnels to prevent accidents and incidents in such tunnels, to mitigate and remediate the consequences of any such accidents or incidents, and to provide a realistic scenario for training emergency responders.
+
+(4) Such sums as may be necessary from the amount appropriated pursuant to paragraph (1) for each of the fiscal years 2009 through 2013 shall be made available to the Secretary for personnel in regional offices and in Washington, D.C., whose duties primarily involve rail security.
 
 (b)
 
@@ -34,7 +36,7 @@ Minimum Available for Certain Purposes.—At least 50 percent of the amounts app
 
 Operation Lifesaver.—In addition to amounts otherwise authorized by law, there are authorized to be appropriated for railroad research and development $300,000 for fiscal year 1995, $500,000 for fiscal year 1996, and $750,000 for fiscal year 1997, to support Operation Lifesaver, Inc.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 872; Pub. L. 103–440, title II, §§202, 218, Nov. 2, 1994, 108 Stat. 4619, 4625.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 872; Pub. L. 103–440, title II, §§202, 218, Nov. 2, 1994, 108 Stat. 4619, 4625; Pub. L. 110–432, div. A, §3, Oct. 16, 2008, 122 Stat. 4850.)
 
 Historical and Revision Notes
 
@@ -78,7 +80,13 @@ Nov. 2, 1978, Pub. L. 95–574, §3, 92 Stat. 2459.
 
 In subsection (a), references to fiscal years prior to 1993 are omitted as obsolete.
 
+#### References in Text
+
+Section 403 of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(2), is section 403 of Pub. L. 110–432, which is set out as a note under section 20142 of this title.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–432 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 1993 through 1998.
 
 1994—Subsec. (a)(1)(C) to (F). Pub. L. 103–440, §202, added subpars. (C) to (F).
 

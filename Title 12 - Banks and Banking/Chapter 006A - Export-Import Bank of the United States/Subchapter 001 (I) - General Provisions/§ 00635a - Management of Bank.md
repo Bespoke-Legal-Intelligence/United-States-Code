@@ -148,7 +148,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;&emsp;&emsp;&emsp;(III) the adequacy of the staffing and resources of the Small Business Division.
 
-&emsp;&emsp;&emsp;(iii) Establishing criteria for evaluating the performance of staff designated by thePresident of the Bank under subsection (g)(1).
+&emsp;&emsp;&emsp;(iii) Establishing criteria for evaluating the performance of staff designated by the President of the Bank under subsection (g)(1).
 
 &emsp;&emsp;&emsp;(iv) Coordinating the provision of services with other United States Government departments and agencies to small business concerns.
 
@@ -364,7 +364,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the UnitedStates” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

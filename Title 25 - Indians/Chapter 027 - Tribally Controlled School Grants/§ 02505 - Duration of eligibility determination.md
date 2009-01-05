@@ -58,7 +58,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 &emsp;&emsp;&emsp;(II) If the Secretary and a grant recipient other than a tribal governing body fail to agree on such an evaluator, the tribal governing body shall choose the evaluator or perform the evaluation. If the Secretary and a grant recipient that is a tribal governing body fail to agree on such an evaluator, subclause (I) shall not apply.
 
-&emsp;&emsp;&emsp;(III) A positive assessment by an impartial evaluator under this clause shall notaffect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances that were within the control of the school board.
+&emsp;&emsp;&emsp;(III) A positive assessment by an impartial evaluator under this clause shall not affect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances that were within the control of the school board.
 
 #### (2) Notice requirements for revocation
 

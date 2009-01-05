@@ -72,7 +72,7 @@
 
 #### (E) Staff and facilities
 
-&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the Advisory Committee, and any such agency is authorized to provide services as requested by the Committee.
+&emsp;&emsp;The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the AdvisoryCommittee, and any such agency is authorized to provide services as requested by the Committee.
 
 #### (c) Ombudsman
 
@@ -110,7 +110,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Community Adjustment and Investment Program Finance Committee
 
-For provisions establishing the Community Adjustment and Investment Program Finance Committee toassist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
+For provisions establishing the Community Adjustment and Investment Program Finance Committee to assist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§7–9, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
 
 #### Definitions
 

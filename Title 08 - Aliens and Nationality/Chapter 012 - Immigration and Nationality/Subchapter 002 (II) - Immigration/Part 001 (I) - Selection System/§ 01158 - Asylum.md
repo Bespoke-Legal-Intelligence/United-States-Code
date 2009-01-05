@@ -24,6 +24,10 @@
 
 &emsp;&emsp;An application for asylum of an alien may be considered, notwithstanding subparagraphs (B) and (C), if the alien demonstrates to the satisfaction of the Attorney General either the existence of changed circumstances which materially affect the applicant's eligibility for asylum or extraordinary circumstances relating to the delay in filing an application within the period specified in subparagraph (B).
 
+#### (E) Applicability
+
+&emsp;&emsp;Subparagraphs (A) and (B) shall not apply to an unaccompanied alien child (as defined in section 279(g) of title 6).
+
 #### (3) Limitation on judicial review
 
 &emsp;No court shall have jurisdiction to review any determination of the Attorney General under paragraph (2).
@@ -64,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(iv) there are reasonable grounds for regarding the alien as a danger to the security of the United States;
 
-&emsp;&emsp;&emsp;(v) the alien is described in subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien described in subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
+&emsp;&emsp;&emsp;(v) the alien is described in subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or section1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien described in subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
 
 &emsp;&emsp;&emsp;(vi) the alien was firmly resettled in another country prior to arriving in the United States.
 
@@ -95,6 +99,10 @@
 #### (B) Continued classification of certain aliens as children
 
 &emsp;&emsp;An unmarried alien who seeks to accompany, or follow to join, a parent granted asylum under this subsection, and who was under 21 years of age on the date on which such parent applied for asylum under this section, shall continue to be classified as a child for purposes of this paragraph and section 1159(b)(3) of this title, if the alien attained 21 years of age after such application was filed but while it was pending.
+
+#### (C) Initial jurisdiction
+
+&emsp;&emsp;An asylum officer (as defined in section 1225(b)(1)(E) of this title) shall have initial jurisdiction over any asylum application filed by an unaccompanied alien child (as defined in section 279(g) of title 6), regardless of whether filed in accordance with this section or section 1225(b) of this title.
 
 #### (c) Asylum status
 
@@ -176,9 +184,19 @@
 
 &emsp;Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303.)
+#### (e) Commonwealth of the Northern Mariana Islands
+
+The provisions of this section and section 1159(b) of this title shall apply to persons physically present in the Commonwealth of the Northern Mariana Islands or arriving in the Commonwealth (whether or not at a designated port of arrival and including persons who are brought to the Commonwealth after having been interdicted in international or United States waters) only on or after January 1, 2014.
+
+(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303; Pub. L. 110–229, title VII, §702(j)(4), May 8, 2008, 122 Stat. 866; Pub. L. 110–457, title II, §235(d)(7), Dec. 23, 2008, 122 Stat. 5080.)
 
 #### Amendments
+
+2008—Subsec. (a)(2)(E). Pub. L. 110–457, §235(d)(7)(A), added subpar. (E).
+
+Subsec. (b)(3)(C). Pub. L. 110–457, §235(d)(7)(B), added subpar. (C).
+
+Subsec. (e). Pub. L. 110–229 added subsec. (e).
 
 2005—Subsec. (b)(1). Pub. L. 109–13, §101(a)(1), (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The Secretary of Homeland Security or the Attorney General” for “The Attorney General” and “the Secretary of Homeland Security or the Attorney General” for “the Attorney General” in two places.
 
@@ -198,13 +216,17 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney Genera
 
 1990—Subsec. (d). Pub. L. 101–649 added subsec. (d).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–229 effective on the transition program effective date described in section 1806 of Title 48, Territories and Insular Possessions, see section 705(b) of Pub. L. 110–229, set out as an Effective Date note under section 1806 of Title 48.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–13, div. B, title I, §101(h)(1), (2), May 11, 2005, 119 Stat. 305, provided that:
 
 “(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
 
-“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shallapply to applications for asylum, withholding, or other relief from removal made on or after such date.”
+“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to applications for asylum, withholding, or other relief from removal made on or after such date.”
 
 #### Effective Date of 2002 Amendment
 
@@ -231,6 +253,18 @@ Section 515(b) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III,
 #### Effective Date
 
 Section effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+
+#### Regulations
+
+Pub. L. 110–340, §2(d), Oct. 3, 2008, 122 Stat. 3736, provided that:
+
+“(1)
+
+Issuance of regulations.—Not later than 60 days after the date of enactment of this Act \[Oct. 3, 2008\], the Attorney General and the Secretary of Homeland Security shall promulgate final regulations establishing that, for purposes of sections 241(b)(3)(B)(iii) and 208(b)(2)(A)(iii) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)(iii); 8 U.S.C. 1158(b)(2)(A)(iii)), an alien who is deportable under section 237(a)(4)(F) of such Act (8 U.S.C. 1227(a)(4)(F)) or inadmissible under section 212(a)(3)(G) of such Act (8 U.S.C. 1182(a)(3)(G)) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
+
+“(2)
+
+Authority to waive certain regulatory requirements.—The requirements of chapter 5 of title 5, United States Code (commonly referred to as the ‘Administrative Procedure Act’), chapter 35 of title 44, United States Code (commonly referred to as the ‘Paperwork Reduction Act’), or any other law relating to rulemaking, information collection, or publication in the Federal Register, shall not apply to any action to implement paragraph (1) to the extent the Attorney General or the Secretary Homeland of \[sic\] Security determines that compliance with any such requirement would impede the expeditious implementation of such paragraph.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

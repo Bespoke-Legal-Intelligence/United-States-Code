@@ -56,7 +56,7 @@ The Management Conference shall establish a multi-disciplinary environmental res
 
 &emsp;(D) describe the methods and schedules for funding of programs, activities, and projects identified in the Plan, including the use of Federal funds and other sources of funds;
 
-&emsp;(E) include a strategy for pollution prevention and control that includes the promotion of pollution prevention and management practices to reduce the amount of pollution generated in the Lake Champlain basin; and
+&emsp;(E) include a strategy for pollution prevention and control that includes the promotionof pollution prevention and management practices to reduce the amount of pollution generated in the Lake Champlain basin; and
 
 &emsp;(F) be reviewed and revised, as necessary, at least once every 5 years, in consultation with the Administrator and other appropriate Federal agencies.
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) the deductible portion of excess interest,
 
-&emsp;&emsp;(C) the deductible portion of any amount (whether or not a policyholder dividend), and not taken into account under subparagraph (A) or (B), credited to—
+&emsp;&emsp;(C) the deductible portion of any amount (whether or not a policyholder dividend),and not taken into account under subparagraph (A) or (B), credited to—
 
 &emsp;&emsp;&emsp;(i) a policyholder's fund under a pension plan contract for employees (other than retired employees), or
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “gross investment income” means the s
 
 Under regulations, proper adjustments shall be made in the application of this section to prevent an item from being counted more than once.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, §1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, §205(b)(4), Apr. 10, 2004, 118 Stat. 610.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat.2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, §1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, §205(b)(4), Apr. 10, 2004, 118 Stat. 610.)
 
 #### Codification
 

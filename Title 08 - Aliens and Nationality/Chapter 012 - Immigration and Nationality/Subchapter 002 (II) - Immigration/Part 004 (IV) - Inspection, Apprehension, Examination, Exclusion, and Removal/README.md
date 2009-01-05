@@ -21,3 +21,4 @@ Part IV—Inspection, Apprehension, Examination, Exclusion, and Removal
 - [&sect; 01229c - Voluntary departure](%C2%A7%2001229c%20-%20Voluntary%20departure.md)
 - [&sect; 01230 - Records of admission](%C2%A7%2001230%20-%20Records%20of%20admission.md)
 - [&sect; 01231 - Detention and removal of aliens ordered removed](%C2%A7%2001231%20-%20Detention%20and%20removal%20of%20aliens%20ordered%20removed.md)
+- [&sect; 01232 - Enhancing efforts to combat the trafficking of children](%C2%A7%2001232%20-%20Enhancing%20efforts%20to%20combat%20the%20trafficking%20of%20children.md)

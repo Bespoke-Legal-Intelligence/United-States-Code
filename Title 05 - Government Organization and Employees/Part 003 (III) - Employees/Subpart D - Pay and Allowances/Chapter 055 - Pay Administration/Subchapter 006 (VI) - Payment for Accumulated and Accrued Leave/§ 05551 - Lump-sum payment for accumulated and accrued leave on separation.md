@@ -66,7 +66,7 @@ Section 1611(b) of Pub. L. 104–201 provided that: “Subsection (c) of section
 
 #### Effective Date of 1991 Amendment
 
-Section 147(b)(2) of Pub. L. 102–138 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
+Section 147(b)(2) of Pub. L. 102–138 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\].”
 
 #### Effective Date of 1990 Amendment
 

@@ -44,11 +44,23 @@ Offset for Amount of Dependency and Indemnity Compensation.—
 
 &emsp;(1)
 
-Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
+Required offset.—If, upon the death of a person to whom section 1448 of this title applies, the surviving spouse or former spouse of that person is also entitled to dependency andindemnity compensation under section 1311(a) of title 38, the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
 
 &emsp;(2)
 
 Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
+
+&emsp;(3)
+
+Limitation on recoupment of offset amount.—Any amount subject to offset under this subsection that was previously paid to the surviving spouse or former spouse shall be recouped only to the extent that the amount paid exceeds any amount to be refunded under subsection (e). In notifying a surviving spouse or former spouse of the recoupment requirement, the Secretary shall provide the spouse or former spouse—
+
+&emsp;&emsp;(A) a single notice of the net amount to be recouped or the net amount to be refunded, as applicable, under this subsection or subsection (e);
+
+&emsp;&emsp;(B) a written explanation of the statutory requirements for recoupment of the offset amount and for refund of any applicable amount deducted from retired pay;
+
+&emsp;&emsp;(C) a detailed accounting of how the offset amount being recouped and retired pay deduction amount being refunded were calculated; and
+
+&emsp;&emsp;(D) contact information for a person who can provide information about the offset recoupment and retired pay deduction refund processes and answer questions the surviving spouse or former spouse may have about the requirements, processes, or amounts.
 
 (d)
 
@@ -98,7 +110,7 @@ Limitation on change in beneficiary when former spouse coverage in effect.—A p
 
 &emsp;&emsp;(B) In a case of a written agreement that has not been incorporated in or ratified or approved by a court order, the person—
 
-&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a statement, in such form as the Secretary concerned may prescribe, signed by theformer spouse and evidencing the former spouse's agreement to a change in the election under paragraph (1); and
+&emsp;&emsp;&emsp;(i) furnishes to the Secretary concerned a statement, in such form as the Secretaryconcerned may prescribe, signed by the former spouse and evidencing the former spouse's agreement to a change in the election under paragraph (1); and
 
 &emsp;&emsp;&emsp;(ii) certifies to the Secretary concerned that the statement is current and in effect.
 
@@ -268,9 +280,61 @@ Collection from participant of annuity amounts erroneously paid.—A debt under 
 
 Collection from beneficiary.—If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166.)
+(m)
+
+Special Survivor Indemnity Allowance.—
+
+&emsp;(1)
+
+Provision of allowance.—The Secretary concerned shall pay a monthly special survivor indemnity allowance under this subsection to the surviving spouse or former spouse of a member of the uniformed services to whom section 1448 of this title applies if—
+
+&emsp;&emsp;(A) the surviving spouse or former spouse is entitled to dependency and indemnity compensation under section 1311(a) of title 38;
+
+&emsp;&emsp;(B) except for subsection (c) of this section, the surviving spouse or former spouse is eligible for an annuity by reason of a participant in the Plan under subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) of such section; and
+
+&emsp;&emsp;(C) the eligibility of the surviving spouse or former spouse for an annuity as described in subparagraph (B) is affected by subsection (c) of this section.
+
+&emsp;(2)
+
+Amount of payment.—Subject to paragraph (3), the amount of the allowance paid to an eligible survivor under paragraph (1) for a month shall be equal to—
+
+&emsp;&emsp;(A) for months during fiscal year 2009, $50;
+
+&emsp;&emsp;(B) for months during fiscal year 2010, $60;
+
+&emsp;&emsp;(C) for months during fiscal year 2011, $70;
+
+&emsp;&emsp;(D) for months during fiscal year 2012, $80;
+
+&emsp;&emsp;(E) for months during fiscal year 2013, $90; and
+
+&emsp;&emsp;(F) for months after fiscal year 2013, $100.
+
+&emsp;(3)
+
+Limitation.—The amount of the allowance paid to an eligible survivor under paragraph (1) for any month may not exceed the amount of the annuity for that month that is subject to offset under subsection (c).
+
+&emsp;(4)
+
+Status of payments.—An allowance paid under this subsection does not constitute an annuity, and amounts so paid are not subject to adjustment under any other provision of law.
+
+&emsp;(5)
+
+Source of funds.—The special survivor indemnity allowance shall be paid fromamounts in the Department of Defense Military Retirement Fund established under section 1461 of this title.
+
+&emsp;(6)
+
+Effective date and duration.—This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on February 28, 2016. Effective on March 1, 2016, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after March 1, 2016.
+
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799; Pub. L. 105–261, div. A, title VI, §643(b), Oct. 17, 1998, 112 Stat. 2048; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166;Pub. L. 110–181, div. A, title VI, §§643(a), 644, Jan. 28, 2008, 122 Stat. 157, 158; Pub. L. 110–417, \[div. A\], title VI, §631(a), Oct. 14, 2008, 122 Stat. 4492.)
 
 #### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–181, §643(a), added par. (3).
+
+Subsec. (m). Pub. L. 110–181, §644, added subsec. (m).
+
+Subsec. (m)(1)(B). Pub. L. 110–417 substituted “subsection (a)(1) of section 1448 of this title or by reason of coverage under subsection (d) of such section” for “section 1448(a)(1) of this title”.
 
 2000—Subsec. (j)(1). Pub. L. 106–398 substituted “A reserve-component annuity shall be effective in accordance with the designation made under section 1448(e) of this title by the person providing the annuity.” for “An annuity elected by a person providing a reserve-component annuity shall be effective in accordance with the designation made by such person under section 1448(e) of this title.”
 
@@ -372,7 +436,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted “or annulment,”
 
 1982—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted “former spouse or other natural person” for “natural person” and “unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)” for “if there is no eligible beneficiary under clause (1) or clause (2)”.
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person whoelects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted “A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection,” for “An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,”, inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -387,6 +451,12 @@ Subsecs. (j), (k). Pub. L. 95–397, §203(2), added subsecs. (j) and (k).
 1976—Subsec. (a)(3), (4). Pub. L. 94–496, §1(3), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (f). Pub. L. 94–496, §1(4), substituted “(a)(4)” for “(a)(3)”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title VI, §631(b), Oct. 14, 2008, 122 Stat. 4492, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the month beginning on October 1, 2008, and subsequent months as provided by paragraph (6) of subsection (m) of section 1450 of title 10, United States Code, as added by section 644 of the National Defense Authorization Act for Fiscal Year 2008 \[Pub. L. 110–181\].”
+
+Pub. L. 110–181, div. A, title VI, §643(b), Jan. 28, 2008, 122 Stat. 157, provided that: “Paragraph (3) of subsection (c) of section 1450 of title 10, United States Code, as added by subsection (a), shall apply with respect to the recoupment on or after April 1, 2008, of amounts subject to offset under such subsection.”
 
 #### Effective Date of 1997 Amendment
 
@@ -422,7 +492,7 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Recomputation of Annuities
 
-Pub. L. 108–375, div. A, title VI, §644(c), Oct. 28, 2004, 118 Stat. 1961, provided that:
+Pub. L. 108–375, div. A, title VI, §644(c), Oct. 28, 2004, 118 Stat. 1961, as amended by Pub. L. 110–417, \[div. A\], title VI, §632, Oct. 14, 2008, 122 Stat. 4493, provided that:
 
 “(1)
 
@@ -430,7 +500,7 @@ Periodic recomputation required.—Effective on the first day of each month spec
 
 &emsp;“(A) each annuity under section 1450 of title 10, United States Code, that commenced before that month, is computed under a provision of section 1451 of that title amended by subsection (a), and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that provision, as so amended, had been used for the initial computation of the annuity; and
 
-&emsp;“(B) each supplemental survivor annuity under section 1457 of such title that commenced before that month and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that section, as amended by this section, had been used for the initial computation of the supplemental survivor annuity.
+&emsp;“(B) each supplemental survivor annuity under \[former\] section 1457 of such title that commenced before that month and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that section, as amended by this section, had been used for the initial computation of the supplemental survivor annuity.
 
 “(2)
 
@@ -442,7 +512,13 @@ Time for recomputation.—The requirement under paragraph (1) for recomputation 
 
 &emsp;“(C) April 2007.
 
-&emsp;“(D) April 2008.”
+&emsp;“(D) April 2008.
+
+“(3)
+
+Savings provision.—If, as a result of the recomputation of annuities under section 1450 of title 10, United States Code, and supplemental survivor annuities under \[former\] section 1457 of such title, as required by paragraph (1), the total amount of both annuities to be paid to an annuitant for a month would be less (because of the offset required by section 1450(c) of such title for dependency and indemnity compensation) than the amount that would be paid to the annuitant in the absence of recomputation, the Secretary of Defense shall take such actions as are necessary to adjust the annuity amounts to eliminate the reduction.”
+
+\[Pub. L. 110–417, \[div. A\], title VI, §632, Oct. 14, 2008, 122 Stat. 4493, provided that the amendment made by that section to section 644(c) of Pub. L. 108–375, set out above, is effective as of Oct. 28, 2004, and as if included in section 644(c) of Pub. L. 108–375 as enacted.\]
 
 #### Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree
 

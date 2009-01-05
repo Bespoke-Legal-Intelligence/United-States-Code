@@ -26,6 +26,8 @@ In any action brought under subsection (a) of this section, the court shall have
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a)(1)(A), (B), (E), (F), (2) and (b), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments

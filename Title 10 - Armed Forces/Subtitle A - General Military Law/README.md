@@ -15,12 +15,7 @@
 | [<b>9.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20009%20-%20Defense%20Budget%20Matters/README.md) | <b>Defense Budget Matters</b> | <b>221</b> |
 | [<b>11.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20011%20-%20Reserve%20Components/README.md) | <b>Reserve Components</b> | <b>261</b> |
 | [<b>13.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20013%20-%20The%20Militia/README.md) | <b>The Militia</b> | <b>311</b> |
-| <b>15 </b><b><sup>1</sup></b> | <b>Enforcement of the Laws to Restore Public Order</b> | <b>331</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
 | [<b>17.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
@@ -54,7 +49,12 @@
 | [<b>49.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20049%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>971</b> |
 | [<b>50.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20050%20-%20Miscellaneous%20Command%20Responsibilities/README.md) | <b>Miscellaneous Command Responsibilities</b> | <b>991</b> |
 | [<b>51.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20051%20-%20Reserve%20Components%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Reserve Components: Standards and Procedures for Retention and Promotion</b> | <b>1001</b> |
-| [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031</b> |
+| [<b>53.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20053%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>1031 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>54.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20054%20-%20Commissary%20and%20Exchange%20Benefits/README.md) | <b>Commissary and Exchange Benefits</b> | <b>1061</b> |
 | [<b>55.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20055%20-%20Medical%20and%20Dental%20Care/README.md) | <b>Medical and Dental Care</b> | <b>1071</b> |
 | [<b>56.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20056%20-%20Department%20of%20Defense%20Medicare-Eligible%20Retiree%20Health%20Care%20Fund/README.md) | <b>Department of Defense Medicare-Eligible Retiree Health Care Fund</b> | <b>1111</b> |
@@ -156,6 +156,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
 2006—Pub. L. 109–366, §3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
 

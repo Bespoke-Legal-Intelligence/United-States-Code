@@ -8,7 +8,11 @@ The program provided for under section 3175c of this title shall be administered
 
 The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under section 3175c of this title.
 
-(Pub. L. 99–198, title XV, §1587, Dec. 23, 1985, 99 Stat. 1596.)
+(Pub. L. 99–198, title XV, §1587, Dec. 23, 1985, 99 Stat. 1596; Pub. L. 110–234, title VII, §7511(c)(11), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(11), June 18, 2008, 122 Stat. 1664, 2029.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” each place it appears.</i>
 
 #### References in Text
 
@@ -16,5 +20,13 @@ This subtitle, referred to in subsec. (a), is subtitle C (§§1581–1589) of ti
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section was enacted as part of the Food Security Act of 1985, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(11) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

@@ -46,7 +46,7 @@ A group health plan may not—
 
 #### (d) Level and type of reimbursements
 
-Nothing in this section shall be construed to prevent a group health plan from negotiatingthe level and type of reimbursement with a provider for care provided in accordance with this section.
+Nothing in this section shall be construed to prevent a group health plan from negotiating the level and type of reimbursement with a provider for care provided in accordance with this section.
 
 #### (e) Preemption; exception for health insurance coverage in certain States
 

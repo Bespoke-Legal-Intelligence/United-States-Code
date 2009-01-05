@@ -42,7 +42,7 @@ At the request of an entity that is representative of an industry identified und
 
 #### (2) Criteria for initiation
 
-&emsp;In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], the Trade Representative, after consultation with the Secretary of Commerce—
+&emsp;In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], theTrade Representative, after consultation with the Secretary of Commerce—
 
 &emsp;&emsp;(A) shall seek the advice of the advisory committees established under section 2155 of this title;
 

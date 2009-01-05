@@ -22,7 +22,7 @@ Specified official.—The official referred to in paragraph (1) is—
 
 &emsp;&emsp;(C) the Secretary of the Interior, for property transferred under subsection (e) for public park or recreation area use;
 
-&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred under subsection (f) to provide housing or housingassistance for low-income individuals or families; and
+&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred under subsection (f) to provide housing or housing assistance for low-income individuals or families; and
 
 &emsp;&emsp;(E) the Secretary of the Interior, for property transferred under subsection (h) for use as a historic monument for the benefit of the public.
 
@@ -100,7 +100,7 @@ Self-help housing.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator shall disapprove a proposed transfer of propertyunder this subsection unless the Administrator determines that the property will be used for low-income housing opportunities through the construction, rehabilitation, or refurbishment of self-help housing, under terms requiring that—
+In general.—The Administrator shall disapprove a proposed transfer of property under this subsection unless the Administrator determines that the property will be used for low-income housing opportunities through the construction, rehabilitation, or refurbishment of self-help housing, under terms requiring that—
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (B), an individual or family receiving housing or housing assistance through use of the property shall contribute a significant amount of labor toward the construction, rehabilitation, or refurbishment; and
 
@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accruedor may accrue to the Government from the use of the property by the entity receiving the property.
 
 (h)
 
@@ -246,7 +246,7 @@ In subsection (h)(1)(B), the words “National Park System Advisory Board” are
 
 In subsection (h)(2)(A), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words “or the Surplus Property Act of 1944, as amended” are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (h)(3), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(B), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
+In subsection (h)(3), the words “this subsection” are used to reflect the probable intent of Congress. In40:484(k)(3)(B), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
 
 #### References in Text
 

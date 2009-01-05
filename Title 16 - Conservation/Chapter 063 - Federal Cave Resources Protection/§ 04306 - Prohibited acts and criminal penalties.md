@@ -4,7 +4,7 @@
 
 (1) Any person who, without prior authorization from the Secretary knowingly destroys, disturbs, defaces, mars, alters, removes or harms any significant cave or alters the free movement of any animal or plant life into or out of any significant cave located on Federal lands, or enters a significant cave with the intention of committing any act described in this paragraph shall be punished in accordance with subsection (b) of this section.
 
-(2) Any person who possesses, consumes, sells, barters or exchanges, or offers for sale, barter or exchange, any cave resource from a significantcave with knowledge or reason to know that such resource was removed from a significant cave located on Federal lands shall be punished in accordance with subsection (b) of this section.
+(2) Any person who possesses, consumes, sells, barters or exchanges, or offers for sale, barter or exchange, any cave resource from a significant cave with knowledge or reason to know that such resource was removed from a significant cave located on Federal lands shall be punished in accordance with subsection (b) of this section.
 
 (3) Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section <sup>1</sup> (b) of this section.
 

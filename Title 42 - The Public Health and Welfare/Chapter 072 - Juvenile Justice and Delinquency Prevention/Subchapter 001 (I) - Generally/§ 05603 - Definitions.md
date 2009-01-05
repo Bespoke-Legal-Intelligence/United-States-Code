@@ -42,7 +42,7 @@ For purposes of this chapter—
 
 &emsp;(9) the term “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a juvenile justice and delinquency prevention plan;
 
-&emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees but not the cost of acquisition of land for buildings);
+&emsp;(10) the term “construction” means acquisition, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings, or any combination of such activities (including architects’ fees butnot the cost of acquisition of land for buildings);
 
 &emsp;(11) the term “public agency” means any State, unit of local government, combination of such States or units, or any department, agency, or instrumentality of any of the foregoing;
 
@@ -128,7 +128,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as s
 
 Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purposepolitical subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 

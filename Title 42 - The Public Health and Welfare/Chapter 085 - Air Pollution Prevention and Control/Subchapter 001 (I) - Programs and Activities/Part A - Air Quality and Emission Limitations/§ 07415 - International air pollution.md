@@ -16,7 +16,7 @@ This section shall apply only to a foreign country which the Administrator deter
 
 Recommendations issued following any abatement conference conducted prior to August 7, 1977, shall remain in effect with respect to any pollutant for which no national ambient air quality standard has been established under section 7409 of this title unless the Administrator, after consultation with all agencies which were party to the conference, rescinds any such recommendation on grounds of obsolescence.
 
-(July 14, 1955, ch. 360, title I, §115, formerly §5, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 396; renumbered §105 and amended Pub. L. 89–272, title I, §§101(2), (3), 102, Oct. 20, 1965, 79 Stat. 992, 995, renumbered §108 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 491, renumbered §115 and amended Pub. L. 91–604, §§4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1688, 1689, 1713; Pub. L. 95–95, title I, §114, Aug. 7, 1977, 91 Stat. 710.)
+(July 14, 1955, ch. 360, title I, §115, formerly §5, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat.396; renumbered §105 and amended Pub. L. 89–272, title I, §§101(2), (3), 102, Oct. 20, 1965, 79 Stat. 992, 995, renumbered §108 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 491, renumbered §115 and amended Pub. L. 91–604, §§4(a), (b)(2)–(10), 15(c)(2), Dec. 31, 1970, 84 Stat. 1678, 1688, 1689, 1713; Pub. L. 95–95, title I, §114, Aug. 7, 1977, 91 Stat. 710.)
 
 #### Codification
 

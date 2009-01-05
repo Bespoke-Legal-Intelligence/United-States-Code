@@ -30,7 +30,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall establish a negotiated rulemaking committee, in accordance with the procedures under that subchapter, for the development of proposed regulations under subparagraph (A).
+&emsp;&emsp;&emsp;Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary shall establish a negotiated rulemaking committee, in accordance with the procedures under that subchapter, for the development of proposed regulations under subparagraph (A).
 
 #### (ii) Adaptation
 
@@ -40,19 +40,39 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) shall not preclude the participation of tribally designated housing entities should tribes elect to be represented by such entities.
 
+#### (C) Subsequent negotiated rulemaking
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) initiate a negotiated rulemaking in accordance with this section by not later than 90 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter; and
+
+&emsp;&emsp;&emsp;(ii) promulgate regulations pursuant to this section by not later than 2 years after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter.
+
+#### (D) Review
+
+&emsp;&emsp;Not less frequently than once every 7 years, the Secretary, in consultation with Indian tribes, shall review the regulations promulgated pursuant to this section in effect on the date on which the review is conducted.
+
 #### (c) Effective date
 
 This section shall take effect on October 26, 1996.
 
-(Pub. L. 104–330, title I, §106, Oct. 26, 1996, 110 Stat. 4029; Pub. L. 107–292, §6, Nov. 13, 2002, 116 Stat. 2054.)
+(Pub. L. 104–330, title I, §106, Oct. 26, 1996, 110 Stat. 4029; Pub. L. 107–292, §6, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, §105, Oct. 14, 2008, 122 Stat. 4324.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 For the effective date of this chapter, referred to in subsecs. (a)(1) and (b)(1), as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
 The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
+The date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008, referred to in subsec. (b)(2)(B)(i), (C), is the date of enactment of Pub. L. 110–411, which was approved Oct. 14, 2008.
+
 #### Amendments
+
+2008—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted “Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary” for “The Secretary”.
+
+Subsec. (b)(2)(C), (D). Pub. L. 110–411, §105(2), added subpars. (C) and (D).
 
 2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
 

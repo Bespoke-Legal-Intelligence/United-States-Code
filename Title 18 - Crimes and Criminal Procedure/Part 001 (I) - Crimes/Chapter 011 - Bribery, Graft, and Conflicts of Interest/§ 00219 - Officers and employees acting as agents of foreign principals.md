@@ -28,7 +28,7 @@ A prior section 219 was renumbered section 214.
 
 Subsec. (b). Pub. L. 99–646, §30(2), designated second par. as subsec. (b).
 
-Subsec. (c). Pub. L. 99–646, §30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for“Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
+Subsec. (c). Pub. L. 99–646, §30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
 
 1984—Pub. L. 98–473 substituted “a public official” for “an officer or employee” in first par., and inserted par. defining “public official”.
 

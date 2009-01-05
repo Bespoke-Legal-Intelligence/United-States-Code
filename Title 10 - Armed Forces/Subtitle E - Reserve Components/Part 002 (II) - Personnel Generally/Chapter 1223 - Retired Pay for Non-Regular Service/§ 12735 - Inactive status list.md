@@ -1,6 +1,6 @@
 ### §12735. Inactive status list
 
-(a) A member who would be eligible for retired pay under this chapter but for the fact that that member is under 60 years of age may be transferred, at his request and by direction of theSecretary concerned, to such inactive status list as may be established for members of his armed force, other than members of a regular component.
+(a) A member who would be eligible for retired pay under this chapter but for the fact that that member is under 60 years of age may be transferred, at his request and by direction of the Secretary concerned, to such inactive status list as may be established for members of his armed force, other than members of a regular component.
 
 (b) While on an inactive status list under subsection (a), a member is not required to participate in any training or other program prescribed for his component.
 
@@ -56,5 +56,5 @@ In subsection (c), 10:1036g (last 32 words of last sentence) and 34:440<i>o</i> 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 

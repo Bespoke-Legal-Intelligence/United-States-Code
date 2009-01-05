@@ -146,7 +146,7 @@
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition undersubsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
 #### (e) Treatment of period for purposes of naturalization
 
@@ -170,7 +170,7 @@ In this section:
 
 > &emsp;by virtue of a marriage which was entered into less than 24 months before the date the alien obtains such status by virtue of such marriage, but does not include such an alien who only obtains such status as a result of section 1153(d) of this title.
 
-&emsp;(2) The term “alien son or daughter” means an alien who obtains the status of an alienlawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the son or daughter of an individual through a qualifying marriage.
+&emsp;(2) The term “alien son or daughter” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the son or daughter of an individual through a qualifying marriage.
 
 &emsp;(3) The term “qualifying marriage” means the marriage described to in paragraph (1).
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 106–553 effective Dec. 21, 2000, and applicable to alien 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30,1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1994 Amendment
 

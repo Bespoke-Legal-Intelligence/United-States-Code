@@ -1,24 +1,24 @@
 ### §2318. Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging
 
-(a) Whoever, in any of the circumstances described in subsection (c), knowingly traffics in—
+(a)(1) <sup>1</sup> Whoever, in any of the circumstances described in subsection (c), knowingly traffics in—
 
-&emsp;(1) a counterfeit label or illicit label affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany—
+&emsp;(A) a counterfeit label or illicit label affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany—
 
-&emsp;&emsp;(A) a phonorecord;
+&emsp;&emsp;(i) a phonorecord;
 
-&emsp;&emsp;(B) a copy of a computer program;
+&emsp;&emsp;(ii) a copy of a computer program;
 
-&emsp;&emsp;(C) a copy of a motion picture or other audiovisual work;
+&emsp;&emsp;(iii) a copy of a motion picture or other audiovisual work;
 
-&emsp;&emsp;(D) a copy of a literary work;
+&emsp;&emsp;(iv) a copy of a literary work;
 
-&emsp;&emsp;(E) a copy of a pictorial, graphic, or sculptural work;
+&emsp;&emsp;(v) a copy of a pictorial, graphic, or sculptural work;
 
-&emsp;&emsp;(F) a work of visual art; or
+&emsp;&emsp;(vi) a work of visual art; or
 
-&emsp;&emsp;(G) documentation or packaging; or
+&emsp;&emsp;(vii) documentation or packaging; or
 
-&emsp;(2) counterfeit documentation or packaging,
+&emsp;(B) counterfeit documentation or packaging,
 
 > shall be fined under this title or imprisoned for not more than 5 years, or both.
 
@@ -68,11 +68,11 @@
 
 &emsp;(4) the counterfeited documentation or packaging is copyrighted.
 
-(d) When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to whichcounterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.
+(d)
 
-(e) Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).
+Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
-(f)
+(e)
 
 Civil Remedies.—
 
@@ -142,17 +142,23 @@ Subsequent violation.—The court may increase an award of damages under this su
 
 &emsp;(6)
 
-Limitation on actions.—A civil action may not be commenced under section <sup>1</sup> unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
+Limitation on actions.—A civil action may not be commenced under section <sup>2</sup> unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288.)
+(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §202, Oct. 13, 2008, 122 Stat. 4260.)
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–403, §202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
+
+Subsec. (d). Pub. L. 110–403, §202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
+
+Subsecs. (e), (f). Pub. L. 110–403, §202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
+
 2006—Subsec. (b)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;”.
 
-2004—Pub. L. 108–482, §102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
+2004—Pub. L. 108–482, §102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audiovisual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
 
-Subsec. (a). Pub. L. 108–482, §102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or acopy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
+Subsec. (a). Pub. L. 108–482, §102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
 
 Subsec. (b)(2). Pub. L. 108–482, §102(a)(3)(A), struck out “and” after the semicolon at end.
 
@@ -220,11 +226,13 @@ Electronic Transmissions.—The amendments made by this title \[amending this se
 
 &emsp;&emsp;“(A) in any case, to the electronic transmission of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of section 2318(b) of title 18, United States Code, as amended by this title; and
 
-&emsp;&emsp;“(B) in the case of a civil action under section 2318(f) of title 18, United States Code, to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of section 2318(b) of title 18, United States Code.
+&emsp;&emsp;“(B) in the case of a civil action under section 2318(f) \[now 2318(e)\] of title 18, United States Code, to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of section 2318(b) of title 18, United States Code.
 
 “(b)
 
 Fair Use.—The amendments made by this title shall not affect the fair use, under section 107 of title 17, United States Code, of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of section 2318(b) of title 18, United States Code, as amended by this title.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this subsection”.</i>
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “this subsection”.</i>
 

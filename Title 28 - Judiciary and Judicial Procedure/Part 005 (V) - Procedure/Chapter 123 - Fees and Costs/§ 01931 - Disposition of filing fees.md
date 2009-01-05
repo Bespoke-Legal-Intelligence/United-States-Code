@@ -58,7 +58,7 @@ Disposition of Attorney Admission Fees.—For each fee collected for admission o
 
 “(b)
 
-Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
+Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversarycomplaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
 
 “(c)
 
@@ -74,5 +74,5 @@ Pub. L. 101–162, title IV, §406(b), Nov. 21, 1989, 103 Stat. 1016, as amended
 
 \[Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment to section 406(b) of Pub. L. 101–162, set out above, is effective 30 days after Nov. 29, 1999.\]
 
-\[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L.101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
+\[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
 

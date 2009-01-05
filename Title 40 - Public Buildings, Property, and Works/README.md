@@ -1,5 +1,5 @@
 
-40 U.S.C.<br>United States Code, 2007 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
+40 U.S.C.<br>United States Code, 2008 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
@@ -11,9 +11,14 @@
 | <b>II.</b> | <b>PUBLIC BUILDINGS AND WORKS</b> | <b>3101</b> |
 | <b>III.</b> | <b>INFORMATION TECHNOLOGY MANAGEMENT</b> | <b>11101</b> |
 | <b>IV.</b> | <b>APPALACHIAN REGIONAL DEVELOPMENT</b> | <b>14101</b> |
-| <b>V.</b> | <b>MISCELLANEOUS</b> | <b>17101</b> |
+| <b>V.</b> | <b>REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT</b> | <b>15101</b> |
+| <b>VI.</b> | <b>MISCELLANEOUS</b> | <b>17101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2008—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 Table Showing Disposition of All Sections of Former Title 40
 
@@ -3840,4 +3845,5 @@ Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. L. 
 - [Subtitle 002 (II) - Public Buildings and Works](Subtitle%20002%20%28II%29%20-%20Public%20Buildings%20and%20Works/README.md)
 - [Subtitle 003 (III) - Information Technology Management](Subtitle%20003%20%28III%29%20-%20Information%20Technology%20Management/README.md)
 - [Subtitle 004 (IV) - Appalachian Regional Development](Subtitle%20004%20%28IV%29%20-%20Appalachian%20Regional%20Development/README.md)
-- [Subtitle 005 (V) - Miscellaneous](Subtitle%20005%20%28V%29%20-%20Miscellaneous/README.md)
+- [Subtitle 005 (V) - Regional Economic and Infrastructure Development](Subtitle%20005%20%28V%29%20-%20Regional%20Economic%20and%20Infrastructure%20Development/README.md)
+- [Subtitle 006 (VI) - Miscellaneous](Subtitle%20006%20%28VI%29%20-%20Miscellaneous/README.md)

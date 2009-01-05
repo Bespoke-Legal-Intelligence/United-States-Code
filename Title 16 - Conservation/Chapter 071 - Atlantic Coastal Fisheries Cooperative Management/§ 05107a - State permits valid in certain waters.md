@@ -16,11 +16,11 @@ Notwithstanding any provision of the Magnuson-Stevens Fishery Conservation and M
 
 The exemption from Federal fishery permitting requirements granted by subsection (a) of this section may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(g)) for violations of such Act or this chapter.
 
-(Pub. L. 103–206, title VIII, §809, as added Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat.3619; amended Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, §809, as added Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; amended Pub. L. 106–555, title I, §122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title.For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 

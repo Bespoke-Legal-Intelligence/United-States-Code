@@ -198,7 +198,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 &emsp;“(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
 
-&emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
+&emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards,payment systems, and safety and soundness principles for financial institutions.
 
 &emsp;“(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 

@@ -24,7 +24,7 @@ No proclamation shall be issued by the President pursuant to this section unless
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to implement this section.
 
-(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834.)
+(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, titleXIX, §§1902(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834.)
 
 #### Amendments
 

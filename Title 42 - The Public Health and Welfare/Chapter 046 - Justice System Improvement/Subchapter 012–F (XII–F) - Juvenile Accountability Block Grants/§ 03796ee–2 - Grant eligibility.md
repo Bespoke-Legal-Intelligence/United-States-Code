@@ -64,7 +64,7 @@ A system of graduated sanctions, which may be discretionary as provided in subse
 
 &emsp;&emsp;&emsp;(i) which has not implemented a system of graduated sanctions, to submit an annual report that explains why such court did not implement graduated sanctions; and
 
-&emsp;&emsp;&emsp;(ii) which has implemented a system of graduated sanctions but has not imposedgraduated sanctions in all cases, to submit an annual report that explains why such court did not impose graduated sanctions in all cases.
+&emsp;&emsp;&emsp;(ii) which has implemented a system of graduated sanctions but has not imposed graduated sanctions in all cases, to submit an annual report that explains why such court did not impose graduated sanctions in all cases.
 
 #### (B) Units of local government
 

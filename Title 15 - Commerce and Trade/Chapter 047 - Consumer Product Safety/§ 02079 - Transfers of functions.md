@@ -6,15 +6,13 @@ The functions of the Secretary of Health, Education, and Welfare under the Feder
 
 #### (b) Flammable fabrics
 
-The functions of the Secretary of Health, Education, and Welfare, the Secretary of Commerce, and the Federal Trade Commission under the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\] are transferred to the Commission. The functions of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], to the extent such functions relate to the administration and enforcement of the Flammable Fabrics Act, are transferred to the Commission.
+The functions of the Secretary of Health, Education, and Welfare, the Secretary of Commerce, and the Federal Trade Commission under the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\]are transferred to the Commission. The functions of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], to the extent such functions relate to the administration and enforcement of the Flammable Fabrics Act, are transferred to the Commission.
 
 #### (c) Household refrigerators
 
 The functions of the Secretary of Commerce and the Federal Trade Commission under the Act of August 2, 1956 \[15 U.S.C. 1211 et seq.\] are transferred to the Commission.
 
-#### (d) Regulation by Commission of consumer products in accordance with other provisions of law
-
-A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\], or the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\] may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule.
+#### (d) Repealed. Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076
 
 #### (e) Transfer of personnel, property, records, etc.; continued application of orders, rules, etc.
 
@@ -24,7 +22,7 @@ A risk of injury which is associated with a consumer product and which could be 
 
 (2) All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges (A) which have been issued, made, granted, or allowed to become effective in the exercise of functions which are transferred under this section by any department or agency, any functions of which are transferred by this section, and (B) which are in effect at the time this section takes effect, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed by the Commission, by any court of competent jurisdiction, or by operation of law.
 
-(3) The provisions of this section shall not affect any proceedings pending at the time this section takes effect before any department or agency, functions of which are transferred bythis section; except that such proceedings, to the extent that they relate to functions so transferred, shall be continued before the Commission. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Commission, by a court of competent jurisdiction, or by operation of law.
+(3) The provisions of this section shall not affect any proceedings pending at the time this section takes effect before any department or agency, functions of which are transferred by this section; except that such proceedings, to the extent that they relate to functions so transferred, shall be continued before the Commission. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Commission, by a court of competent jurisdiction, or by operation of law.
 
 (4) The provisions of this section shall not affect suits commenced prior to the date this section takes effect and in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this section had not been enacted; except that if before the date on which this section takes effect, any department or agency (or officer thereof in his official capacity) is a party to a suit involving functions transferred to the Commission, then such suit shall be continued by the Commission. No cause of action, and no suit, action, or other proceeding, by or against any department or agency (or officer thereof in his official capacity) functions of which are transferred by this section, shall abate by reason of the enactment of this section. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or the Commission as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this paragraph.
 
@@ -32,27 +30,29 @@ A risk of injury which is associated with a consumer product and which could be 
 
 For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
 
-(Pub. L. 92–573, §30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 92–573, §30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.)
 
 #### References in Text
 
-The Federal Hazardous Substances Act, referred to in subsecs. (a) and (d), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title, For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (a), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Poison Prevention Packaging Act of 1970, referred to in subsecs. (a) and (d), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified generally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified generally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Flammable Fabrics Act, referred to in subsecs. (b) and (d), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
+The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, as amended, which is classified generally to chapter 26 (§1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, which is classified generally to chapter 26 (§1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 For the effective date of this section or, alternatively, the time or date this section takes effect, referred to in subsec. (e)(1)(B), (2), (3), and (4), see section 34(2) of Pub. L. 92–573, set out as an Effective Date note under section 2051 of this title.
 
 Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 1970, referred to in subsec. (e)(1)(B), are pars. (3) through (8)(A) of section 15(b) of Pub. L. 91–604, Dec. 31, 1970, 84 Stat. 1710, which is set out as a note under section 215 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–314 struck out subsec. (d). Prior to amendment, text read as follows: “A risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act, the Poison Prevention Packaging Act of 1970, or the Flammable Fabrics Act may be regulated under this chapter only if the Commission by rule finds that it is in the public interest to regulate such risk of injury under this chapter. Such a rule shall identify the risk of injury proposed to be regulated under this chapter and shall be promulgated in accordance with section 553 of title 5; except that the period to be provided by the Commission pursuant to subsection (c) of such section for the submission of data, views, and arguments respecting the rule shall not exceed thirty days from the date of publication pursuant to subsection (b) of such section of a notice respecting the rule.”
 
 1988—Subsec. (e)(1)(A). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 

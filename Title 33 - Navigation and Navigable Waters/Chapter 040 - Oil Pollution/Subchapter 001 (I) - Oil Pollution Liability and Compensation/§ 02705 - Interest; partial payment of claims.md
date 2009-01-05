@@ -20,7 +20,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (4) Calculation of interest
 
-&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period forwhich interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
 
 #### (5) Interest not subject to liability limits
 

@@ -1,6 +1,6 @@
 ### §1181a. Conservation management by Department of the Interior; permanent forest production; sale of timber; subdivision
 
-Notwithstanding any provisions in the Acts of June 9, 1916 (39 Stat. 218), and February 26, 1919 (40 Stat. 1179), as amended, such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant lands as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site lands valuable for timber, shall be managed, except as provided in section 1181c <sup>1</sup> of this title, for permanent forest production, and the timber thereon shall be sold, cut, and removed in conformity with the principal <sup>2</sup> of sustained yield for the purpose of providing a permanent source of timber supply, protecting watersheds, regulating stream flow, and contributing to the economic stability of local communities and industries, and providing recreational facilties: <sup>3</sup> <i>Provided</i>, That nothing inthis section shall be construed to interfere with the use and development of power sites as may be authorized by law.
+Notwithstanding any provisions in the Acts of June 9, 1916 (39 Stat. 218), and February 26, 1919 (40 Stat. 1179), as amended, such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant lands as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site lands valuable for timber, shall be managed, except as provided in section 1181c <sup>1</sup> of this title, for permanent forest production, and the timber thereon shall be sold, cut, and removed in conformity with the principal <sup>2</sup> of sustained yield for the purpose of providing a permanent source of timber supply, protecting watersheds, regulating stream flow, and contributing to the economic stability of local communities and industries, and providing recreational facilties: <sup>3</sup> <i>Provided</i>, That nothing in this section shall be construed to interfere with the use and development of power sites as may be authorized by law.
 
 The annual productive capacity for such lands shall be determined and declared as promptly as possible after August 28, 1937, but until such determination and declaration are made the average annual cut therefrom shall not exceed one-half billion feet board measure: <i>Provided</i>, That timber from said lands in an amount not less than one-half billion feet board measure, or not less than the annual sustained yield capacity when the same has been determined and declared, shall be sold annually, or so much thereof as can be sold at reasonable prices on a normal market.
 
@@ -16,11 +16,11 @@ Acts of June 9, 1916, and February 26, 1919, referred to in text, are acts June 
 
 #### Repeals
 
-Act Aug. 28, 1937, title II, §201(c), second par., provided: “All Acts or parts of Act in conflict with this Act \[sections 1181a to 1181f of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act.”
+Act Aug. 28, 1937, ch. 876, title II (last par.), 50 Stat. 876, provided: “All Acts or parts of Acts in conflict with this Act \[sections 1181a to 1181f of this title\] are hereby repealed to the extent necessary to give full force and effect to this Act.”
 
 #### Savings Provision
 
-Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, in the event of conflict or inconsistency with the act of August 28, 1937, sections 1181a to 1181j of this title, insofar as relating to management of timber resources, etc., not to supersede, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, in the event of conflict or inconsistency with the act of August 28, 1937, sections 1181a et seq. of this title, insofar as relating to management of timber resources, etc., not to supersede, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
 #### Lease of Small Tracts for Residential, Recreational, or Community Site Purposes
 

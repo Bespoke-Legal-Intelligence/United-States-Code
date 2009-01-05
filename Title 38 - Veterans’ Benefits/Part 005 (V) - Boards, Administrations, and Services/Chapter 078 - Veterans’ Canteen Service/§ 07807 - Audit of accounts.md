@@ -12,5 +12,5 @@ The Service shall maintain a set of accounts which shall be audited by the Compt
 
 1982—Pub. L. 97–295 substituted “section 3523 of title 31” for “the Accounting and Auditing Act of 1950”.
 
-1975—Pub. L. 93–604 substituted provisions that the Service maintain a set of accounts which shall be audited by the Comptroller General in accordance with the provisions of the Accounting and Auditing Act of 1950 for provisions that the Service maintain an integral set of accounts which shall be audited annually by the General Accounting Office in accordance with the principles and procedures applicable to commercial transactions as provided by sections 841–869 of Title 31 and that no other audit shall be required.
+1975—Pub. L. 93–604 substituted provisions that the Service maintain a set of accounts which shall be audited by the Comptroller General in accordance with the provisions of the Accounting and Auditing Act of 1950 for provisions that the Service maintain an integral set of accounts which shall be audited annually bythe General Accounting Office in accordance with the principles and procedures applicable to commercial transactions as provided by sections 841–869 of Title 31 and that no other audit shall be required.
 

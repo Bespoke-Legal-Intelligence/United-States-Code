@@ -36,7 +36,7 @@ The Director, after gathering appropriate information and after considering comm
 
 &emsp;(2) states what procedures will be used to ensure that predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding will receive substantial percentages of the funds awarded under sections 1862a to 1862d of this title;
 
-&emsp;(3) states the estimated percentage of Program funds available for each category of eligible institutions, including predominantlyundergraduate institutions and colleges and universities that historically have received little Federal research and development funding as well as research universities; and
+&emsp;(3) states the estimated percentage of Program funds available for each category of eligible institutions, including predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding as well as research universities; and
 
 &emsp;(4) evaluates and addresses, to the maximum extent possible, a variety of factors which include—
 
@@ -58,7 +58,7 @@ Final guidelines shall be published in the Federal Register not later than 45 da
 
 #### (g) Amount available for this section
 
-The Director shall, from amounts available to the Foundation under section 101(b) of this Act for fiscal year 1989, make available an amount, not to exceed $1,000,000, to carry out the provisions of this section. None of the funds authorized to be appropriated in section 101 of this Act may be used for grant or contract awards under the Program prior to completion and submission to Congress of the comprehensive plan required by subsection (d) of this section.
+The Director shall, from amounts available to the Foundation under section 101(b) of this Act for fiscal year 1989, make available an amount,not to exceed $1,000,000, to carry out the provisions of this section. None of the funds authorized to be appropriated in section 101 of this Act may be used for grant or contract awards under the Program prior to completion and submission to Congress of the comprehensive plan required by subsection (d) of this section.
 
 #### (h) Consultation with Secretary of Education and heads of other agencies
 

@@ -52,7 +52,7 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
 
 #### Effective Date
 

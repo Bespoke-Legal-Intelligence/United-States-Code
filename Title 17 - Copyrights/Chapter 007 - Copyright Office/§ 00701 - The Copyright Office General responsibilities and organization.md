@@ -16,7 +16,7 @@
 
 (c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office.
 
-(d) The Register of Copyrights shall make an annual report to the Librarian of Congress ofthe work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress.
+(d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress.
 
 (e) Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946, as amended (c. 324, 60 Stat. 237, title 5, United States Code, Chapter 5, Subchapter II and Chapter 7).
 

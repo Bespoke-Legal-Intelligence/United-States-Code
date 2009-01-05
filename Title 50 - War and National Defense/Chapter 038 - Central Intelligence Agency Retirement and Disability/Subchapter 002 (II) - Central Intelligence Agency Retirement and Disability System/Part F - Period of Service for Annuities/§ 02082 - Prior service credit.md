@@ -60,7 +60,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;If a participant in the system becomes an employee under another Government retirement system by direct transfer to employment covered by such system, the Government's contributions (including interest accruedthereon computed in accordance with section 8334(e) of title 5) to the fund on the participant's behalf as well as the participant's total contributions and deposits (including interest accrued thereon), except voluntary contributions, shall be transferred to the participant's credit in the fund of such other retirement system effective as of the date on which the participant becomes eligible to participate in such other retirement system.
+&emsp;If a participant in the system becomes an employee under another Government retirement system by direct transfer to employment covered by such system, the Government's contributions (including interest accrued thereon computed in accordance with section 8334(e) of title 5) to the fund on the participant's behalf as well as the participant's total contributions and deposits (including interest accrued thereon), except voluntary contributions, shall be transferred to the participant's credit in the fund of such other retirement system effective as of the date on which the participant becomes eligible to participate in such other retirement system.
 
 #### (2) Consent of employee
 
@@ -173,9 +173,9 @@ A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 #### Amendments
 
-2000—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted “December 31, 2000” for “December 31, 2002” and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
+<b>2000</b>—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted “December 31, 2000” for “December 31, 2002” and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
 
-1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+<b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
 
 #### Effective Date of 2000 Amendment
 

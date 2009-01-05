@@ -40,7 +40,7 @@ In this section, the term “appropriate congressional committees” means—
 
 #### Prior Provisions
 
-A prior section 2416, Pub. L. 87–195, pt. III, §656, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 30; amended Pub. L. 93–559, §39(b), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90Stat. 761, related to limitation on number of United States personnel in Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
+A prior section 2416, Pub. L. 87–195, pt. III, §656, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 30; amended Pub. L. 93–559, §39(b), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation on number of United States personnel in Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
 
 #### Amendments
 

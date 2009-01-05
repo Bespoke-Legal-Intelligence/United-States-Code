@@ -2,7 +2,7 @@
 
 #### (a) Award of scholarships and fellowships
 
-(1) The Foundation may award scholarships and fellowships to eligible persons for study in the fields of science and mathematics. Such scholarships and fellowships shall be awarded to persons as provided in this chapter who meet the minimum criteria established by the Foundation.
+(1) The Foundation may award scholarships and fellowships to eligible persons for study in the fields of science and mathematics. Such scholarships and fellowships shall be awarded to persons as provided in this chapter who meet theminimum criteria established by the Foundation.
 
 (2) Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers in mathematics and the natural sciences.
 

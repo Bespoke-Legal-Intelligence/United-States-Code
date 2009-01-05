@@ -80,7 +80,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The bank shall recredit the consumer's account for the amount described in paragraph (1) no later than the end of the business day following the business day on which the bank determines the consumer's claim is valid.
+&emsp;&emsp;The bank shall recredit the consumer's account for the amount described in paragraph\(1) no later than the end of the business day following the business day on which the bank determines the consumer's claim is valid.
 
 #### (B) Recredit pending investigation
 
@@ -114,7 +114,7 @@
 
 #### (C) Prevention of fraud losses
 
-&emsp;&emsp;The bank has reasonable cause to believe that the claim is fraudulent, based on facts\(other than the fact that the check in question or the consumer is of a particular class) that would cause a well-grounded belief in the mind of a reasonable person that the claim is fraudulent.
+&emsp;&emsp;The bank has reasonable cause to believe that the claim is fraudulent, based on facts (other than the fact that the check in question or the consumer is of a particular class) that would cause a well-grounded belief in the mind of a reasonable person that the claim is fraudulent.
 
 #### (3) Overdraft fees
 

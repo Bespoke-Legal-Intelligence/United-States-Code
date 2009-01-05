@@ -4,7 +4,7 @@
 
 It shall not be in order in the Senate or the House of Representatives to consider—
 
-&emsp;(1) any bill or joint resolution that is reported by a committee unless the committee has published a statement of the Director onthe direct costs of Federal mandates in accordance with section 658b(f) of this title before such consideration, except this paragraph shall not apply to any supplemental statement prepared by the Director under section 658c(d) of this title; and
+&emsp;(1) any bill or joint resolution that is reported by a committee unless the committee has published a statement of the Director on the direct costs of Federal mandates in accordance with section 658b(f) of this title before such consideration, except this paragraph shall not apply to any supplemental statement prepared by the Director under section 658c(d) of this title; and
 
 &emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
 

@@ -70,7 +70,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(1) establish eligibility criteria for countries that will host projects;
 
-&emsp;(2) periodically review the energy needs of such countries and export opportunities for United States firms for the development of projects in such countries;
+&emsp;(2) periodically review the energy needs of such countries and export opportunities forUnited States firms for the development of projects in such countries;
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (n) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the program required by this section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
+There are authorized to be appropriated to the Secretary to carry out the program required bythis section, $100,000,000 for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 
 (Pub. L. 102–486, title XVI, §1608, Oct. 24, 1992, 106 Stat. 3003.)
 

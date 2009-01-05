@@ -6,7 +6,7 @@ The Secretary is authorized and directed in the manner hereinafter provided to c
 
 #### (b) Necessity for request
 
-No classification or reclassification pursuant to the authority of this subchapter shall be undertaken unless a request therefor, by an organization or duly authorized representatives of the water users, in the form required by subsection (c) of this section has been made of the Secretary. The Secretary shall plan the classification work, undertaken pursuant to the authority of this section, in such manner as in his judgment will result in the most expeditious completion of the work.
+No classification or reclassification pursuant to the authority of this subchapter shall be undertaken unless a request therefor, by an organization or duly authorized representatives of the water users, in the form required by subsection (c) of this section has been made of theSecretary. The Secretary shall plan the classification work, undertaken pursuant to the authority of this section, in such manner as in his judgment will result in the most expeditious completion of the work.
 
 #### (c) Furnishing data
 

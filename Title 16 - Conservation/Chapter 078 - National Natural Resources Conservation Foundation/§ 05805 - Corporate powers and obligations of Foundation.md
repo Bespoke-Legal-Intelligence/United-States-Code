@@ -62,7 +62,7 @@ To carry out the purposes of the Foundation under section 5802(b) of this title,
 
 #### Amendments
 
-2002—Subsec. (c)(4) to (8). Pub. L. 107–171, §2506(1), which directed amendment of subsection (c) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (4) and redesignating former pars. (4) to (7) as (5) to (8), respectively, was executed to subsec. (c) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
+2002—Subsec. (c)(4) to (8). Pub. L. 107–171, §2506(1), which directed amendment of subsection (c) of section356 of the Federal Agriculture Improvement Act of 1996 by adding par. (4) and redesignating former pars. (4) to (7) as (5) to (8), respectively, was executed to subsec. (c) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
 
 Subsec. (d)(3). Pub. L. 107–171, §2506(2), which directed amendment of subsection (d) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (3), was executed to subsec. (d) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
 

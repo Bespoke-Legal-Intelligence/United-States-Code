@@ -8,11 +8,11 @@
 
 &emsp;(B) each criminal case in which information acquired under this chapter has been authorized for use at trial during the period covered by such report; and
 
-&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(f) of this title and the total number of subsequent orders approving or denying such electronic surveillance.
+&emsp;(C) the total number of emergency employments of electronic surveillance under section 1805(e) of this title and the total number of subsequent orders approving or denying such electronic surveillance.
 
-(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited to an analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
+(b) On or before one year after October 25, 1978, and on the same day each year for four years thereafter, the Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence shall report respectively to the House of Representatives and the Senate, concerning the implementation of this chapter. Said reports shall include but not be limited toan analysis and recommendations concerning whether this chapter should be (1) amended, (2) repealed, or (3) permitted to continue in effect without amendment.
 
-(Pub. L. 95–511, title I, §108, Oct. 25, 1978, 92 Stat. 1795; Pub. L. 106–567, title VI, §604(a), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 109–177, title I, §108(c), Mar. 9, 2006, 120 Stat. 204.)
+(Pub. L. 95–511, title I, §108, Oct. 25, 1978, 92 Stat. 1795; Pub. L. 106–567, title VI, §604(a), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 109–177, title I, §108(c), Mar. 9, 2006, 120 Stat. 204; Pub. L. 110–261, title I, §105(b), July 10, 2008, 122 Stat. 2462.)
 
 #### References in Text
 
@@ -20,7 +20,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–177, §108(c)(1), inserted “, and the Committee on the Judiciary of the Senate,” after “Senate Select Committee on Intelligence”.
+<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–261 substituted “1805(e)” for “1805(f)”.
+
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §108(c)(1), inserted “, and the Committee on the Judiciary of the Senate,” after “Senate Select Committee on Intelligence”.
 
 Subsec. (a)(2). Pub. L. 109–177, §108(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each report under the first sentence of paragraph (1) shall include a description of—
 
@@ -28,5 +30,9 @@ Subsec. (a)(2). Pub. L. 109–177, §108(c)(2), amended par. (2) generally. Prio
 
 &emsp;“(B) each criminal case in which information acquired under this chapter has been authorized for use at trial during such reporting period.”
 
-2000—Subsec. (a). Pub. L. 106–567 designated existing provisions as par. (1) and added par. (2).
+<b>2000</b>—Subsec. (a). Pub. L. 106–567 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 

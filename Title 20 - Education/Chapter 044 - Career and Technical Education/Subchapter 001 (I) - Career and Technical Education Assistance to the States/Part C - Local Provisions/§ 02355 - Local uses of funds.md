@@ -22,7 +22,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 &emsp;&emsp;(A) training of career and technical education teachers, faculty, and administrators to use technology, which may include distance learning;
 
-&emsp;&emsp;(B) providing career and technical education students with the academic and career and technical skills (including themathematics and science knowledge that provides a strong basis for such skills) that lead to entry into the technology fields; or
+&emsp;&emsp;(B) providing career and technical education students with the academic and career and technical skills (including the mathematics and science knowledge that provides a strong basis for such skills) that lead to entry into the technology fields; or
 
 &emsp;&emsp;(C) encouraging schools to collaborate with technology industries to offer voluntary internships and mentoring programs, including programs that improve the mathematics and science knowledge of students;
 
@@ -96,7 +96,7 @@ Funds made available to an eligible recipient under this subchapter may be usedâ
 
 &emsp;&emsp;&emsp;(i) to encourage the pursuit of a baccalaureate degree; and
 
-&emsp;&emsp;&emsp;(ii) to overcome barriers to enrollment in and completion of baccalaureate degreeprograms, including geographic and other barriers affecting rural students and special populations;
+&emsp;&emsp;&emsp;(ii) to overcome barriers to enrollment in and completion of baccalaureate degree programs, including geographic and other barriers affecting rural students and special populations;
 
 &emsp;(11) to provide activities to support entrepreneurship education and training;
 

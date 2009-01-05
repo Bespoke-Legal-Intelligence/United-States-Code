@@ -8,7 +8,7 @@ In a case of actual controversy involving a determination by the Secretary of (o
 
 &emsp;(2) whether the extension of time for payment of tax provided in section 6166(a) has ceased to apply with respect to an estate (or with respect to any property included therein),
 
-> upon the filing of an appropriate pleading, the Tax Court may make a declaration with respect to whether such election may be made or whether such extension has ceased to apply. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
+> upon the filing of an appropriate pleading, the Tax Court may make a declaration with respectto whether such election may be made or whether such extension has ceased to apply. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
 
 #### (b) Limitations
 

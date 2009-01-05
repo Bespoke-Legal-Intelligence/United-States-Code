@@ -18,7 +18,7 @@ Nothing herein contained shall affect any valid claim, location, or entry existi
 
 #### (e) Status of acquired land
 
-Until further action by the Congress, the lands acquired by or transferred to the Secretary of the Interior hereunder shall not become a part of Yosemite National Park, nor be subject to the laws and regulations governing said park, but the Secretary of the Interior shall have supervision, management, and control of the area and shall make and publish such rules and regulations as he may deem necessary and proper for its use and management: <i>Provided</i>, That he may grant nonexclusive privileges, leases, and permits for the use of land in the area and enter into contracts relating to the same, subject to the limitations and conditions applying to the similar authority provided in section 3 of this title.
+Until further action by the Congress, the lands acquired by or transferred to the Secretary of the Interior hereunder shall not become a part of Yosemite National Park, nor be subject to the laws and regulations governing said park, butthe Secretary of the Interior shall have supervision, management, and control of the area and shall make and publish such rules and regulations as he may deem necessary and proper for its use and management: <i>Provided</i>, That he may grant nonexclusive privileges, leases, and permits for the use of land in the area and enter into contracts relating to the same, subject to the limitations and conditions applying to the similar authority provided in section 3 of this title.
 
 #### (f) Availability of funds
 

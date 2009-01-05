@@ -46,7 +46,7 @@
 
 &emsp;(B) if the Federal agency does not make such payment, promptly report to the Comptroller General the reasons for the failure to follow the Comptroller General's recommendation.
 
-(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agencyand the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
+(4) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency and the interested party shall attempt to reach an agreement on the amount of the costs to be paid. If the Federal agency and the interested party are unable to agree on the amount to be paid, the Comptroller General may, upon the request of the interested party, recommend to the Federal agency the amount of the costs that the Federal agency should pay.
 
 (d) Each decision of the Comptroller General under this subchapter shall be signed by the Comptroller General or a designee for that purpose. A copy of the decision shall be made available to the interested parties, the head of the procuring activity responsible for the solicitation, proposed award, or award of the contract, and the senior procurement executive of the Federal agency involved.
 
@@ -122,7 +122,7 @@ Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date
 
@@ -130,5 +130,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Prompt Payment of Costs Under Prior Law
 
-Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
+Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared aninterested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
 

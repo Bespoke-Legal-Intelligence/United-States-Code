@@ -44,7 +44,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 &emsp;&emsp;&emsp;(iv) Any interest expense paid or accrued on indebtedness incurred to acquire stock in an S corporation.
 
-> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph, and no item described in this paragraph shall be apportioned to any beneficiary.
+> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph,and no item described in this paragraph shall be apportioned to any beneficiary.
 
 &emsp;&emsp;(D) No amount shall be allowed under paragraph (1) or (2) of section 1211(b).
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

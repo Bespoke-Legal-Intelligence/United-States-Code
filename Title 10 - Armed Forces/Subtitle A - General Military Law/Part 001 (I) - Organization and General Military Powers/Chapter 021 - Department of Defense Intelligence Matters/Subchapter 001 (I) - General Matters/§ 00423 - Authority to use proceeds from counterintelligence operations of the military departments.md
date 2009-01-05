@@ -4,7 +4,7 @@
 
 (b) As soon as the net proceeds from such counterintelligence operations are no longer necessary for the conduct of those operations, such proceeds shall be deposited into the Treasury as miscellaneous receipts.
 
-(c) The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conducted by components of the military departments, including effective internal systems of accounting and administrative controls.
+(c) The Secretary of Defense shall establish policies and procedures to govern acquisition, use, management, and disposition of proceeds from counterintelligence operations conductedby components of the military departments, including effective internal systems of accounting and administrative controls.
 
 (Added Pub. L. 99–569, title IV, §403(a), Oct. 27, 1986, 100 Stat. 3196, §140b; renumbered §423 and amended Pub. L. 100–26, §9(a)(3), (b)(3), Apr. 21, 1987, 101 Stat. 287.)
 

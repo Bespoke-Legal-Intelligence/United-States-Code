@@ -38,7 +38,7 @@
 
 &emsp;&emsp;<b>(3) For provisions authorizing withdrawals of wine free of tax or without payment of tax, see section 5362.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, §2(a), Oct. 14, 1978, 92 Stat. 1255.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, §2(a), Oct. 14, 1978, 92 Stat. 1255.)
 
 #### Prior Provisions
 

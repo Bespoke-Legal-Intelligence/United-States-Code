@@ -77,7 +77,7 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judges” substituted for “United States magistrates” in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as anote under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 
 ---

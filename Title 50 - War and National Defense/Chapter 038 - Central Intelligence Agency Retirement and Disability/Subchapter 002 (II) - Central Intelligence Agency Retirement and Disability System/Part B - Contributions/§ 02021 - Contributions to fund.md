@@ -4,7 +4,7 @@
 
 #### (1) Participant's contributions
 
-&emsp;Except as provided in subsection (d) of this section, 7 percent of the basic pay received by a participant for any pay period shall be deducted and withheld from the pay of that participant and contributed to the fund.
+&emsp;Except as provided in subsection (d) of this section, 7 percent of the basic pay received bya participant for any pay period shall be deducted and withheld from the pay of that participant and contributed to the fund.
 
 #### (2) Agency contributions
 
@@ -60,7 +60,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 &emsp;&emsp;(A) the amount determined by multiplying the percent applicable to the participant under subsection (a) of this section by the basic pay payable to the participant for that pay period, over
 
-&emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
+&emsp;&emsp;(B) the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
 
 (Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026.)
 
@@ -74,7 +74,7 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
+<b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unlessthe participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
 
 #### Effective Date of 1993 Amendment
 
@@ -100,4 +100,6 @@ Individual deductions, withholdings, and deposits.—Notwithstanding section 211
 | :--- | :---: | ---: |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000.” |
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

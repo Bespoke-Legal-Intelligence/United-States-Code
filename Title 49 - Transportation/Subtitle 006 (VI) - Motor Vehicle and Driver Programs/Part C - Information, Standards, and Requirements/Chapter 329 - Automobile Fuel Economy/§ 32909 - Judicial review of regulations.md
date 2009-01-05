@@ -14,7 +14,7 @@ Time for Filing and Judicial Procedures.—The petition must be filed not later 
 
 Additional Proceedings.—(1) When reviewing a regulation under subsection (a)(1) of this section, the court, on request of the petitioner, may order the Secretary or the Administrator to receive additional submissions if the court is satisfied the additional submissions are material and there were reasonable grounds for not presenting the submissions in the proceeding before the Secretary or Administrator.
 
-(2) The Secretary or the Administrator may amend or set aside the regulation, or prescribe a new regulation because of the additional submissions presented. The Secretary or Administrator shall file an amended or new regulation and the additional submissions with the court. The court shall review a changed or new regulation.
+(2) The Secretary or the Administrator may amend or set aside the regulation, or prescribe a new regulation because of the additional submissions presented. The Secretary or Administrator shall file an amended or new regulationand the additional submissions with the court. The court shall review a changed or new regulation.
 
 (d)
 
@@ -82,7 +82,7 @@ In subsection (b), the words “a regulation prescribing an amendment of a stand
 
 In subsection (c)(1), the words “on request of the petitioner” are substituted for “If the petitioner applies to the court in a proceeding under subsection (a) of this section for leave to make additional submissions”, and the words “to receive additional submissions” are substituted for “to provide additional opportunity to make such submissions”, for clarity.
 
-In subsection (c)(2), the words “amend . . . the regulation” and “amended . . . regulation” are substitutedfor “modify . . . the rule” and “modified . . . rule”, respectively, for consistency in the chapter and because “regulation” is synonymous with “rule”.
+In subsection (c)(2), the words “amend . . . the regulation” and “amended . . . regulation” are substituted for “modify . . . the rule” and “modified . . . rule”, respectively, for consistency in the chapter and because “regulation” is synonymous with “rule”.
 
 In subsection (d), the words “affirming or setting aside, in whole or in part” are omitted as surplus. The words “and not in lieu of” in 15:2004(d) are omitted as surplus.
 

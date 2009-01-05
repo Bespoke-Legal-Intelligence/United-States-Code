@@ -16,7 +16,7 @@ For purposes of this subchapter, the term “taxable gross weight” when used w
 
 &emsp;(2) the weight of the maximum load customarily carried on highway motor vehicles of the same type as such highway motor vehicle and on the semitrailers and trailers referred to in paragraph (1)(B).
 
-> Taxable gross weight shall be determined under regulations prescribed by the Secretary (which regulations may include formulas or other methods for determining the taxable gross weight of vehicles by classes, specifications, or otherwise).
+> Taxable gross weight shall be determined under regulations prescribed by the Secretary (whichregulations may include formulas or other methods for determining the taxable gross weight of vehicles by classes, specifications, or otherwise).
 
 #### (c) Other definitions and special rule
 

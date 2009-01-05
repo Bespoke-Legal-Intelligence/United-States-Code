@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of thissection, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -108,7 +108,7 @@ As used in this section, in the case of paper products, the term “recovered ma
 
 &emsp;(A) Case-by-Case Policy Development: Subject to the limitations of subsection (c)(1)(A) through (C) of this section, a policy of awarding contracts to the vendor offering an item composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the post consumer recovered materials referred to in subsection (h)(1) of this section). Subject to such limitations, agencies may make an award to a vendor offering items with less than the maximum recovered materials content.
 
-&emsp;(B) Minimum Content Standards: Minimum recovered materials content specifications which are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1) of this section) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C) of this section.
+&emsp;(B) Minimum Content Standards: Minimum recovered materials content specificationswhich are set in such a way as to assure that the recovered materials content (and in the case of paper, the content of post consumer materials referred to in subsection (h)(1) of this section) required is the maximum available without jeopardizing the intended end use of the item, or violating the limitations of subsection (c)(1)(A) through (C) of this section.
 
 > Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 

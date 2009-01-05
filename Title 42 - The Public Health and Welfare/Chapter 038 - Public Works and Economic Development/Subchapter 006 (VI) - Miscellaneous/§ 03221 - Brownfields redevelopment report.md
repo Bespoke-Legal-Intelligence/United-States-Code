@@ -8,7 +8,7 @@ In this section, the term “brownfield site” has the meaning given the term i
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 27, 2004, the Comptroller General shall prepare a reportthat evaluates the grants made by the Economic Development Administration for the economic development of brownfield sites.
+&emsp;Not later than 1 year after October 27, 2004, the Comptroller General shall prepare a report that evaluates the grants made by the Economic Development Administration for the economic development of brownfield sites.
 
 #### (2) Contents
 

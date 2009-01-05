@@ -18,7 +18,7 @@
 
 #### (B) Treatment of plan distributions
 
-&emsp;&emsp;If a distribution to an individual would (without regard to subparagraph (A)) be a qualified hurricane distribution, a plan shall not be treated as violating any requirement of this title merely because the plan treats such distribution as a qualified hurricane distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000.
+&emsp;&emsp;If a distribution to an individual would (without regard to subparagraph (A)) be a qualified hurricane distribution, a plan shall not be treated as violating any requirementof this title merely because the plan treats such distribution as a qualified hurricane distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000.
 
 #### (C) Controlled group
 
@@ -174,7 +174,7 @@
 
 #### (D) Qualified Hurricane Wilma individual
 
-&emsp;&emsp;The term “qualified Hurricane Wilma individual” means an individual (other than a qualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
+&emsp;&emsp;The term “qualified Hurricane Wilma individual” means an individual (other than aqualified Hurricane Katrina individual or a qualified Hurricane Rita individual) whose principal place of abode on October 23, 2005, is located in the Hurricane Wilma disaster area and who has sustained an economic loss by reason of Hurricane Wilma.
 
 #### (4) Applicable period; qualified beginning date
 

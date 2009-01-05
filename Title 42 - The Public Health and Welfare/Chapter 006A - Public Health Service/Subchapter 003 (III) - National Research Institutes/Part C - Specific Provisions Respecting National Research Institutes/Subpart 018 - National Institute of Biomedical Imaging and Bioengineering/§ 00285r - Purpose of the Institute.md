@@ -98,7 +98,7 @@ Use of Existing Resources.—In providing for the establishment of the National 
 
 “(c)
 
-Construction of Facilities.—None of the provisions of this Act \[enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title\] or the amendments made by the Act may be construed as authorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
+Construction of Facilities.—None of the provisions of this Act \[enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title\] or the amendments made by the Act may be construed asauthorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
 
 “(d)
 

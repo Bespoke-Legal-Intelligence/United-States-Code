@@ -26,7 +26,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally tothis chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

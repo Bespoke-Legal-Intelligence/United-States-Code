@@ -66,7 +66,7 @@ Subsec. (b)(1). Pub. L. 106–513, §3(c)(1), substituted “significance and to
 
 Subsec. (b)(3). Pub. L. 106–513, §3(c)(2), (4), added par. (3) and struck out former par. (3) which read as follows: “to support, promote, and coordinate scientific research on, and monitoring of, the resources of these marine areas, especially long-term monitoring and research of these areas;”.
 
-Subsec. (b)(4). Pub. L. 106–513, §3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows:“to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
+Subsec. (b)(4). Pub. L. 106–513, §3(c)(2), (4), added par. (4) and struck out former par. (4) which read as follows: “to enhance public awareness, understanding, appreciation, and wise use of the marine environment;”.
 
 Subsec. (b)(5) to (7). Pub. L. 106–513, §3(c)(3), (4), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
@@ -112,7 +112,7 @@ Section 1 of Pub. L. 104–283 provided that: “This Act \[amending this sectio
 
 Section 1 of Pub. L. 102–587 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Oceans Act of 1992’.”
 
-Section 2001 of title II of Pub. L. 102–587 provided that: “This title \[enacting section 1445a of this title, amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
+Section 2001 of title II of Pub. L. 102–587 provided that: “This title \[enacting section 1445a of this title,amending this section and sections 1432 to 1437, 1440, 1442 to 1444, 1452 to 1456b, and 1458 to 1462 of this title, enacting provisions set out as notes under this section and sections 1433, 1442, and 1445 of this title, and amending provisions set out as a note under section 1433 of this title\] may be cited as the ‘National Marine Sanctuaries Program Amendments Act of 1992’.”
 
 #### Short Title of 1984 Amendment
 
@@ -166,7 +166,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (5) practical, science-based criteria and protocols for monitoring and evaluating the effectiveness of MPAs;
 
-(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effective enforcement strategies, to eliminate or reduce such threats and conflicts;
+(6) identification of emerging threats and user conflicts affecting MPAs and appropriate, practical, and equitable management solutions, including effectiveenforcement strategies, to eliminate or reduce such threats and conflicts;
 
 (7) assessment of the economic effects of the preferred management solutions; and
 

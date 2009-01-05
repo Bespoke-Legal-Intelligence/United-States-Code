@@ -8,6 +8,7 @@
 | [405\.](%C2%A7%2000405%20-%20Authority%20and%20functions%20of%20the%20Administrator.md) | Authority and functions of the Administrator. |
 | [405a.](%C2%A7%2000405a%20-%20Uniform%20Federal%20procurement%20regulations%20and%20procedures.md) | Uniform Federal procurement regulations and procedures. |
 | [405b.](%C2%A7%2000405b%20-%20Conflict%20of%20interest%20standards%20for%20individuals%20providing%20consulting%20services.md) | Conflict of interest standards for individuals providing consulting services. |
+| [405c.](%C2%A7%2000405c%20-%20Ethics%20safeguards%20related%20to%20contractor%20conflicts%20of%20interest.md) | Ethics safeguards related to contractor conflicts of interest. |
 | [406\.](%C2%A7%2000406%20-%20Administrative%20powers.md) | Administrative powers. |
 | [407\.](%C2%A7%2000407%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md) | Repealed. |
 | [408\.](%C2%A7%2000408%20-%20Applicability%20of%20existing%20laws.md) | Applicability of existing laws. |
@@ -23,6 +24,7 @@
 | [416\.](%C2%A7%2000416%20-%20Procurement%20notice.md) | Procurement notice. |
 | [417\.](%C2%A7%2000417%20-%20Record%20requirements.md) | Record requirements. |
 | [417a.](%C2%A7%2000417a%20-%20Procurement%20data.md) | Procurement data. |
+| [417b.](%C2%A7%2000417b%20-%20Database%20for%20Federal%20agency%20contract%20and%20grant%20officers%20and%20suspension%20and%20debarment%20officials.md) | Database for Federal agency contract and grant officers and suspension and debarment officials. |
 | [418\.](%C2%A7%2000418%20-%20Advocates%20for%20competition.md) | Advocates for competition. |
 | [418a.](%C2%A7%2000418a%20-%20Rights%20in%20technical%20data.md) | Rights in technical data. |
 | [418b.](%C2%A7%2000418b%20-%20Publication%20of%20proposed%20regulations.md) | Publication of proposed regulations. |
@@ -44,11 +46,14 @@
 | [431a.](%C2%A7%2000431a%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md) | Inflation adjustment of acquisition-related dollar thresholds. |
 | [432\.](%C2%A7%2000432%20-%20Value%20engineering.md) | Value engineering. |
 | [433\.](%C2%A7%2000433%20-%20Acquisition%20workforce.md) | Acquisition workforce. |
+| [433a.](%C2%A7%2000433a%20-%20Federal%20acquisition%20workforce%20improvements.md) | Federal acquisition workforce improvements. |
 | [434\.](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md) | Modular contracting for information technology. |
 | [435\.](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md) | Levels of compensation of certain contractor personnel not allowable as costs under certain contracts. |
 | [436\.](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md) | Protection of constitutional rights of contractors. |
 | [437\.](%C2%A7%2000437%20-%20Incentives%20for%20efficient%20performance%20of%20services%20contracts.md) | Incentives for efficient performance of services contracts. |
 | [438\.](%C2%A7%2000438%20-%20Civilian%20Board%20of%20Contract%20Appeals.md) | Civilian Board of Contract Appeals. |
+| [439\.](%C2%A7%2000439%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md) | Public-private competition required before conversion to contractor performance. |
+| [440\.](%C2%A7%2000440%20-%20Contingency%20Contracting%20Corps.md) | Contingency Contracting Corps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,6 +70,7 @@
 - [&sect; 00405 - Authority and functions of the Administrator](%C2%A7%2000405%20-%20Authority%20and%20functions%20of%20the%20Administrator.md)
 - [&sect; 00405a - Uniform Federal procurement regulations and procedures](%C2%A7%2000405a%20-%20Uniform%20Federal%20procurement%20regulations%20and%20procedures.md)
 - [&sect; 00405b - Conflict of interest standards for individuals providing consulting services](%C2%A7%2000405b%20-%20Conflict%20of%20interest%20standards%20for%20individuals%20providing%20consulting%20services.md)
+- [&sect; 00405c - Ethics safeguards related to contractor conflicts of interest](%C2%A7%2000405c%20-%20Ethics%20safeguards%20related%20to%20contractor%20conflicts%20of%20interest.md)
 - [&sect; 00406 - Administrative powers](%C2%A7%2000406%20-%20Administrative%20powers.md)
 - [&sect; 00407 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4305(b), Feb. 10, 1996, 110 Stat. 665](%C2%A7%2000407%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md)
 - [&sect; 00408 - Applicability of existing laws](%C2%A7%2000408%20-%20Applicability%20of%20existing%20laws.md)
@@ -80,6 +86,7 @@
 - [&sect; 00416 - Procurement notice](%C2%A7%2000416%20-%20Procurement%20notice.md)
 - [&sect; 00417 - Record requirements](%C2%A7%2000417%20-%20Record%20requirements.md)
 - [&sect; 00417a - Procurement data](%C2%A7%2000417a%20-%20Procurement%20data.md)
+- [&sect; 00417b - Database for Federal agency contract and grant officers and suspension and debarment officials](%C2%A7%2000417b%20-%20Database%20for%20Federal%20agency%20contract%20and%20grant%20officers%20and%20suspension%20and%20debarment%20officials.md)
 - [&sect; 00418 - Advocates for competition](%C2%A7%2000418%20-%20Advocates%20for%20competition.md)
 - [&sect; 00418a - Rights in technical data](%C2%A7%2000418a%20-%20Rights%20in%20technical%20data.md)
 - [&sect; 00418b - Publication of proposed regulations](%C2%A7%2000418b%20-%20Publication%20of%20proposed%20regulations.md)
@@ -101,8 +108,11 @@
 - [&sect; 00431a - Inflation adjustment of acquisition-related dollar thresholds](%C2%A7%2000431a%20-%20Inflation%20adjustment%20of%20acquisition-related%20dollar%20thresholds.md)
 - [&sect; 00432 - Value engineering](%C2%A7%2000432%20-%20Value%20engineering.md)
 - [&sect; 00433 - Acquisition workforce](%C2%A7%2000433%20-%20Acquisition%20workforce.md)
+- [&sect; 00433a - Federal acquisition workforce improvements](%C2%A7%2000433a%20-%20Federal%20acquisition%20workforce%20improvements.md)
 - [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)
 - [&sect; 00435 - Levels of compensation of certain contractor personnel not allowable as costs under certain contracts](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md)
 - [&sect; 00436 - Protection of constitutional rights of contractors](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md)
 - [&sect; 00437 - Incentives for efficient performance of services contracts](%C2%A7%2000437%20-%20Incentives%20for%20efficient%20performance%20of%20services%20contracts.md)
 - [&sect; 00438 - Civilian Board of Contract Appeals](%C2%A7%2000438%20-%20Civilian%20Board%20of%20Contract%20Appeals.md)
+- [&sect; 00439 - Public-private competition required before conversion to contractor performance](%C2%A7%2000439%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md)
+- [&sect; 00440 - Contingency Contracting Corps](%C2%A7%2000440%20-%20Contingency%20Contracting%20Corps.md)

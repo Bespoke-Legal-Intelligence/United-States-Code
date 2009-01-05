@@ -6,7 +6,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
 
 #### (b) Objectives
 
-The program shall include technologies for refining high sulfur coals, low sulfur coals, sub-bituminous coals, and lignites to produce clean-burning transportation fuels, compliance boiler fuels, fuel additives, lubricants, chemical feedstocks, and carbon-based manufactured products, either alone or in conjunction with the generation of electricity or process heat, or themanufacture of a variety of products from coal. The objectives of such program shall be to achieve—
+The program shall include technologies for refining high sulfur coals, low sulfur coals, sub-bituminous coals, and lignites to produce clean-burning transportation fuels, compliance boiler fuels, fuel additives, lubricants, chemical feedstocks, and carbon-based manufactured products, either alone or in conjunction with the generation of electricity or process heat, or the manufacture of a variety of products from coal. The objectives of such program shall be to achieve—
 
 &emsp;(1) the timely commercial application of technologies, including mild gasification, hydrocracking and other hydropyrolysis processes, and other energy production processes or systems to produce coal-derived fuels and coproducts, which achieve greater efficiency and economy in the conversion of coal to electrical energy and coproducts than currently available technology;
 

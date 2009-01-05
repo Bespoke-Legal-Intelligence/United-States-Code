@@ -46,7 +46,7 @@ Pub. L. 97–324, title II, §201, Oct. 15, 1982, 96 Stat. 1601, as amended by P
 
 > The Secretary shall complete these studies and report on them to the Congress by February 1, 1983.
 
-“(2) In addition to the studies and comparisons called for in section 201(b)(1) the Secretary shall fund at leasttwo parallel studies outside the government independently to assess the alternatives called for in section 201(b)(1)(C). These studies should be submitted to the Congress by April 1, 1983.
+“(2) In addition to the studies and comparisons called for in section 201(b)(1) the Secretary shall fund at least two parallel studies outside the government independently to assess the alternatives called for in section 201(b)(1)(C). These studies should be submitted to the Congress by April 1, 1983.
 
 “(c) There is authorized to be appropriated $14,955,000 for the fiscal year 1983, for the purpose of carrying out the provisions of this title \[this note\].
 

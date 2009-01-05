@@ -1,6 +1,6 @@
 ### §285e. Compensation
 
-The Law Revision Counsel shall be paid at a per annum gross rate not to exceed level IV ofthe Executive Schedule of section 5315 of title 5; and members of the staff of the Office other than the Law Revision Counsel shall be paid at per annum gross rates fixed by the Law Revision Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of a per annum gross rate equal to level V of such schedule.
+The Law Revision Counsel shall be paid at a per annum gross rate not to exceed level IV of the Executive Schedule of section 5315 of title 5; and members of the staff of the Office other than the Law Revision Counsel shall be paid at per annum gross rates fixed by the Law Revision Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of a per annum gross rate equal to level V of such schedule.
 
 (Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777.)
 

@@ -14,7 +14,7 @@ This section shall apply to—
 
 &emsp;(2) each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
 
-&emsp;(3) each employee of the Capitol Guide Service established under section 2166 of this title.
+&emsp;(3) each employee of the Capitol Guide Service established under section 2166 <sup>1</sup> of this title.
 
 #### (b) Rate of compensation; limitation on increases; computation of service; effective date of payment
 
@@ -32,11 +32,15 @@ This section shall apply to—
 
 (4) Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
 
-(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n),Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
+(Pub. L. 87–730, §106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, §104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, §105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, §4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, §110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, §107(b), July 8, 1980, 94 Stat. 890.)
 
 #### Inapplicability of Section to Certain Employees On and After October 1, 1983
 
-<i>This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 60j–4 of this title.</i>
+<i>This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed</i><i>by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 60j–4 of this title.</i>
+
+#### References in Text
+
+Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 110–437, title IV, §422(a), Oct. 20, 2008, 122 Stat. 4996.
 
 #### Codification
 
@@ -92,7 +96,7 @@ Section 107(d) of Pub. L. 96–304 provided that: “The amendments made by this
 
 #### Effective Date of 1978 Amendments
 
-Section 110(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjustedin accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
+Section 110(b) of Pub. L. 95–391 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Sept. 30, 1978\]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 \[this section\], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
 
 Section 205 of Pub. L. 95–240 provided that the amendment made by that section is effective Oct. 1, 1977.
 
@@ -112,5 +116,9 @@ Section 106(e) of Pub. L. 87–730 provided that: “This section \[enacting thi
 
 #### Transfer of Functions
 
+For transfer of authorities, personnel, assets, and liabilities of the Capitol Guide Service to the Office of the Capitol Visitor Center and the Office of Congressional Accessibility Services, see sections 2241 and 2252 of this title.
+
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §1968. Civil investigative demand
 
-(a) Whenever the Attorney General has reason to believe that any person or enterprise may be in possession, custody, or control of any documentary materials relevant to a racketeering investigation, he may, prior to the institution of a civil or criminal proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such material for examination.
+(a) Whenever the Attorney General has reason to believe that any person or enterprise may bein possession, custody, or control of any documentary materials relevant to a racketeering investigation, he may, prior to the institution of a civil or criminal proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such material for examination.
 
 (b) Each such demand shall—
 
@@ -34,7 +34,7 @@
 
 (3) The custodian to whom any documentary material is so delivered shall take physical possession thereof, and shall be responsible for the use made thereof and for the return thereof pursuant to this chapter. The custodian may cause the preparation of such copies of such documentary material as may be required for official use under regulations which shall be promulgated by the Attorney General. While in the possession of the custodian, no material so produced shall be available for examination, without the consent of the person who produced such material, by any individual other than the Attorney General. Under such reasonable terms and conditions as the Attorney General shall prescribe, documentary material while in the possession of the custodian shall be available for examination by the person who produced such material or any duly authorized representatives of such person.
 
-(4) Whenever any attorney has been designated to appear on behalf of the United States beforeany court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introduction thereof into the record of such case or proceeding.
+(4) Whenever any attorney has been designated to appear on behalf of the United States before any court or grand jury in any case or proceeding involving any alleged violation of this chapter, the custodian may deliver to such attorney such documentary material in the possession of the custodian as such attorney determines to be required for use in the presentation of such case or proceeding on behalf of the United States. Upon the conclusion of any such case or proceeding, such attorney shall return to the custodian any documentary material so withdrawn which has not passed into the control of such court or grand jury through the introduction thereof into the record of such case or proceeding.
 
 (5) Upon the completion of—
 

@@ -118,7 +118,7 @@ Exceptions from application.—The requirements of subparagraphs (D) and (E) of 
 
 &emsp;&emsp;(A) the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standards that receives no significant adverse comment within 60 days of notice in the Federal Register;
 
-&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
+&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur)by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
 
 &emsp;&emsp;(C) the Secretary finds, pursuant to section 553(b)(3)(B) of title 5, United States Code, that notice and public procedure are not required.
 
@@ -148,7 +148,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 Promoting public awareness.—
 
-&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safetyand Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
+&emsp;(A) Not later than one year after the date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996,<sup>2</sup> and annually thereafter, the owner or operator of each interstate gas pipeline facility shall provide to the governing body of each municipality in which the interstate gas pipeline facility is located, a map identifying the location of such facility.
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
@@ -206,7 +206,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method thatis at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 
@@ -454,7 +454,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 
@@ -496,7 +496,7 @@ Subsec. (a)(1)(C). Pub. L. 104–304, §4(a)(2), added subpar. (C) and struck ou
 
 Subsec. (a)(2). Pub. L. 104–304, §4(a)(3), added par. (2) and struck out former par. (2) which read as follows: “As the Secretary considers appropriate, the operator of a pipeline facility may make the certification under paragraph (1)(C) of this subsection. Testing and certification under paragraph (1)(C) shall address the ability to recognize and react appropriately to abnormal operating conditions that may indicate a dangerous situation or a condition exceeding design limits.”
 
-Subsec. (b). Pub. L. 104–304, §4(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A standard prescribed under subsection (a) of this section shall be practicable and designed to meet the need for gas pipeline safety, for safely transporting hazardous liquid, and for protecting the environment. Except as provided in section 60103 of this title, when prescribing the standard the Secretary shall consider—
+Subsec. (b). Pub. L. 104–304, §4(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A standard prescribed under subsection (a) of this section shall bepracticable and designed to meet the need for gas pipeline safety, for safely transporting hazardous liquid, and for protecting the environment. Except as provided in section 60103 of this title, when prescribing the standard the Secretary shall consider—
 
 &emsp;“(1) relevant available—
 
@@ -530,9 +530,9 @@ Subsec. (<i>l</i>). Pub. L. 104–304, §4(f), added subsec. (<i>l</i>).
 
 #### Standards To Implement NTSB Recommendations
 
-Pub. L. 109–468, §19, Dec. 29, 2006, 120 Stat. 3498, provided that: “Not later than June 1, 2008, the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board's report entitled ‘Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines’ and adopted November 29, 2005:
+Pub. L. 109–468, §19, Dec. 29, 2006, 120 Stat. 3498, as amended by Pub. L. 110–244, title III, §302(j), June 6, 2008, 122 Stat. 1618, provided that: “Not later than June 1, 2008, the Secretary of Transportation shall issue standards that implement the following recommendations contained in the National Transportation Safety Board's report entitled ‘Supervisory Control and Data Acquisition (SCADA) in Liquid Pipelines’ and adopted November 29, 2005:
 
-&emsp;“(1) Implementation of the American Petroleum Institute's Recommended Practice 165 for the use of graphics on the supervisory control and data acquisition screens.
+&emsp;“(1) Implementation of the American Petroleum Institute's Recommended Practice 1165 for the use of graphics on the supervisory control and data acquisition screens.
 
 &emsp;“(2) Implementation of a standard for pipeline companies to review and audit alarms on monitoring equipment.
 

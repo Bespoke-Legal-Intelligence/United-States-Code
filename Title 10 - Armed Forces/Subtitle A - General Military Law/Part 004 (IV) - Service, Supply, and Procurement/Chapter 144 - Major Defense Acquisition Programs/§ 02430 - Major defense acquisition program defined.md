@@ -18,6 +18,148 @@
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
 
+#### Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs
+
+Pub. L. 110–417, \[div. A\], title VIII, §814, Oct. 14, 2008, 122 Stat. 4528, provided that:
+
+“(a)
+
+Configuration Steering Boards.—Each Secretary of a military department shall establish one or more boards (to be known as a ‘Configuration Steering Board’) for the major defense acquisition programs of such department.
+
+“(b)
+
+Composition.—
+
+&emsp;“(1)
+
+Chair.—Each Configuration Steering Board under this section shall be chaired by the service acquisition executive of the military department concerned.
+
+&emsp;“(2)
+
+Particular members.—Each Configuration Steering Board under this section shall include a representative of the following:
+
+&emsp;&emsp;“(A) The Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;&emsp;“(B) The Chief of Staff of the Armed Force concerned.
+
+&emsp;&emsp;“(C) Other Armed Forces, as appropriate.
+
+&emsp;&emsp;“(D) The Joint Staff.
+
+&emsp;&emsp;“(E) The Comptroller of the military department concerned.
+
+&emsp;&emsp;“(F) The military deputy to the service acquisition executive concerned.
+
+&emsp;&emsp;“(G) The program executive officer for the major defense acquisition program concerned.
+
+&emsp;&emsp;“(H) Other senior representatives of the Office of the Secretary of Defense and the military department concerned, as appropriate.
+
+“(c)
+
+Responsibilities.—
+
+&emsp;“(1)
+
+In general.—The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:
+
+&emsp;&emsp;“(A) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule.
+
+&emsp;&emsp;“(B) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required.
+
+&emsp;&emsp;“(C) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline.
+
+&emsp;“(2)
+
+Discharge of responsibilities.—In discharging its responsibilities under this section with respect to a major defense acquisition program, a Configuration Steering Board shall—
+
+&emsp;&emsp;“(A) review and approve or disapprove any proposed changes to program requirements or system configuration that have the potential to adversely impact program cost or schedule; and
+
+&emsp;&emsp;“(B) review and recommend proposals to reduce program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives.
+
+&emsp;“(3)
+
+Presentation of recommendations on reduction in requirements.—Any recommendation for a proposed reduction in requirements that is made by a Configuration Steering Board under paragraph (2)(B) shall be presented to appropriate organizations of the Joint Staff and the military departments responsible for such requirements for review and approval in accordance with applicable procedures.
+
+&emsp;“(4)
+
+Annual consideration of each major defense acquisition program.—The Secretary of the military department concerned shall ensure that a Configuration Steering Board under this section meets to consider each major defense acquisition program of such military department at least once each year.
+
+&emsp;“(5)
+
+Certification of cost and schedule deviations during system design and development.—For a major defense acquisition program that received an initial Milestone B approval during fiscal year 2008, a Configuration Steering Board may not approve any proposed alteration to program requirements or system configuration if such an alteration would—
+
+&emsp;&emsp;“(A) increase the cost (including any increase for expected inflation or currency exchange rates) for system development and demonstration by more than 25 percent; or
+
+&emsp;&emsp;“(B) extend the schedule for key events by more than 15 percent of the total number of months between the award of the system development and demonstration contract and the scheduled Milestone C approval date,
+
+> &emsp;unless the Under Secretary of Defense for Acquisition, Technology, and Logistics certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], and includes in the certification supporting rationale, that approving such alteration to program requirements or system configuration is in the best interest of the Department of Defense despite the cost and schedule impacts to system development and demonstration of such program.
+
+“(d)
+
+Applicability.—
+
+&emsp;“(1)
+
+In general.—The requirements of this section shall apply with respect to any major defense acquisition program that is commenced before, on, or after the date of the enactment of this Act \[Oct. 14, 2008\].
+
+&emsp;“(2)
+
+Current programs.—In the case of any major defense acquisition program that is ongoing as of the date of the enactment of this Act, a Configuration Steering Board under this section shall be established for such program not later than 60 days after the date of the enactment of this Act.
+
+“(e)
+
+Guidance on Authorities of Program Managers After Milestone B.—
+
+&emsp;“(1) \[Amended section 853(d)(2) of Pub. L. 109–364, set out below.\]
+
+&emsp;“(2)
+
+Applicability.—The Secretary of Defense shall modify the guidance described in section 853(d) of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364; set out below\] in order to take into account the amendment made by paragraph (1) not later than 60 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+
+“(f)
+
+Major Defense Acquisition Program Defined.—In this section, the term ‘major defense acquisition program’ has the meaning given that term in section 2430(a) of title 10, United States Code.”
+
+#### Preservation of Tooling for Major Defense Acquisition Programs
+
+Pub. L. 110–417, \[div. A\], title VIII, §815, Oct. 14, 2008, 122 Stat. 4530, provided that:
+
+“(a)
+
+Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program. Such guidance shall—
+
+&emsp;“(1) require that the milestone decision authority approve a plan, including the identification of any contract clauses, facilities, and funding required, for the preservation and storage of such tooling prior to Milestone C approval;
+
+&emsp;“(2) require that the milestone decision authority periodically review the plan required by paragraph (1) prior to the end of the service life of the end item, to ensure that the preservation and storage of such tooling remains adequate and in the best interest of the Department of Defense;
+
+&emsp;“(3) provide a mechanism for the Secretary to waive the requirement for preservation and storage of unique production tooling, or any category of unique production tooling, if the Secretary—
+
+&emsp;&emsp;“(A) makes a written determination that such a waiver is in the best interest of the Department of Defense; and
+
+&emsp;&emsp;“(B) notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the waiver upon making such determination; and
+
+&emsp;&emsp;“(4) provide such criteria as necessary to guide a determination made pursuant to paragraph (3)(A).
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Major defense acquisition program.—The term ‘major defense acquisition program’ has the meaning provided in section 2430 of title 10, United States Code.
+
+&emsp;“(2)
+
+Milestone decision authority.—The term ‘milestone decision authority’ has the meaning provided in section 2366a(f)(2) \[now 2366b(f)(2)\] of such title.
+
+&emsp;“(3)
+
+Milestone c approval.—The term ‘Milestone C approval’ has the meaning provided in section 2366(e)(8) of such title.”
+
+#### Duty of Principal Military Deputies To Inform Service Chiefs on Major Defense Acquisition Programs
+
+Pub. L. 110–181, div. A, title IX, §908(d), Jan. 28, 2008, 122 Stat. 278, provided that: “Each Principal Military Deputy to a service acquisition executive shall be responsible for keeping the Chief of Staff of the Armed Forces concerned informed of the progress of major defense acquisition programs.”
+
 #### Requirements Management Certification Training Program
 
 Pub. L. 109–364, div. A, title VIII, §801, Oct. 17, 2006, 120 Stat. 2312, provided that:
@@ -40,11 +182,11 @@ Applicability.—Effective on and after September 30, 2008, a member of the Arme
 
 “(c)
 
-Reports.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, notlater than March 1, 2007, and a final report, not later than March 1, 2008, on the implementation of the training program required under this section.”
+Reports.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, not later than March 1, 2007, and a final report, not later than March 1, 2008, on the implementation of the training program required under this section.”
 
 #### Program Manager Empowerment and Accountability
 
-Pub. L. 109–364, div. A, title VIII, §853, Oct. 17, 2006, 120 Stat. 2342, provided that:
+Pub. L. 109–364, div. A, title VIII, §853, Oct. 17, 2006, 120 Stat. 2342, as amended by Pub. L. 110–417, \[div. A\],title VIII, §814(e)(1), Oct. 14, 2008, 122 Stat. 4530, provided that:
 
 “(a)
 
@@ -82,7 +224,11 @@ Guidance on Tenure and Accountability of Program Managers After Milestone B.—N
 
 &emsp;“(1) the need for a performance agreement between a program manager and the milestone decision authority for the program, setting forth expected parameters for cost, schedule, and performance, and appropriate commitments by the program manager and the milestone decision authority to ensure that such parameters are met;
 
-&emsp;“(2) authorities available to the program manager, including, to the extent appropriate, the authority to object to the addition of new program requirements that would be inconsistent with the parameters established at Milestone B (or Key Decision Point B in the case of a space program) and reflected in the performance agreement; and
+&emsp;“(2) authorities available to the program manager, including—
+
+&emsp;&emsp;“(A) the authority to object to the addition of new program requirements that would be inconsistent with the parameters established at Milestone B (or Key Decision Point B in the case of a space program) and reflected in the performance agreement, unless such requirements are approved by the appropriate Configuration Steering Board; and
+
+&emsp;&emsp;“(B) the authority to recommend to the appropriate Configuration Steering Board reduced program requirements that have the potential to improve program cost or schedule in a manner consistent with program objectives; and
 
 &emsp;“(3) the extent to which a program manager for such period should continue in the position without interruption until the delivery of the first production units of the program.
 
@@ -132,7 +278,7 @@ Milestone Decision Authority.—(1) The authority to make a decision that a prog
 
 &emsp;“(A) the Under Secretary has determined (after consultation with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management) that the Director has implemented acquisition management policies, procedures, and practices that are sufficient to ensure that acquisitions by the National Security Agency are conducted in a manner consistent with sound, efficient acquisition practices;
 
-&emsp;“(B) the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
+&emsp;“(B) the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and theDeputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
 
 &emsp;“(C) the Secretary of Defense has approved the delegation of such milestone decision authority to the Director.
 

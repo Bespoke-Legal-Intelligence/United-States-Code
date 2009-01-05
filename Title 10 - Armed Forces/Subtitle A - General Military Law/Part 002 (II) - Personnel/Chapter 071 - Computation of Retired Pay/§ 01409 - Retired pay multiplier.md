@@ -28,7 +28,7 @@ General rule.—Subject to paragraphs (2) and (3), the percentage to be used und
 
 &emsp;(2)
 
-Reduction applicable to certain new-retirement members with less than 30 yearsof service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
+Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
 
 &emsp;&emsp;(A) 1 percentage point for each full year that the member's years of creditable service are less than 30; and
 
@@ -58,9 +58,15 @@ Retirement after december 31, 2006.—In the case of a member who retires after 
 
 Years of Creditable Service Defined.—In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member's retired or retainer pay (including 1/12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 
-(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259.)
+(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178.)
+
+#### References in Text
+
+Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(2), means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
 2006—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.”
 

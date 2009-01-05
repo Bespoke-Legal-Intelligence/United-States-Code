@@ -50,15 +50,15 @@ Similar provisions were contained in Pub. L. 90–249, title I, §100, Jan. 2, 1
 
 #### Expenditures by Underdeveloped Countries for Weapons Systems; Presidential Determination; Report to Congress
 
-Pub. L. 91–194, title I, §119, Feb. 9, 1970, 84 Stat. 10, directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other than certain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
+Pub. L. 91–194, title I, §119, Feb. 9, 1970, 84 Stat. 10, directed the President to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country for the purchase of sophisticated weapons systems from any country other thancertain enumerated countries, unless the President determined that such a purchase was important to the national security of the United States and reported such determination to Congress within thirty days after each such determination.
 
 Similar provisions were contained in Pub. L. 90–249, title I, §119, Jan. 2, 1968, 81 Stat. 940; Pub. L. 90–581, title I, §119, Oct. 17, 1968, 82 Stat. 1141.
 
 #### Arms Races and Weapons Systems Restraints; Prohibitions Against Diversion of Resources for Economic and Agricultural Development to Military Purposes
 
-Pub. L. 91–194, title I, §120, Feb. 9, 1970, 84 Stat. 10, provided that:
+Pub. L. 91–194, title I, §120, Feb. 9, 1970, 84 Stat. 10, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
-“(a) In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans, or supporting assistance to any country under this Act \[Pub. L. 91–194\], and before making sales under the Agricultural Trade Development and Assistance Act of 1954, as amended \[section 1691 et seq. of Title 7, Agriculture\]:
+“(a) In order to restrain arms races and proliferation of sophisticated weapons, and to ensure that resources intended for economic development are not diverted to military purposes, the President shall take into account before furnishing development loans, Alliance loans, or supporting assistance to any country under this Act \[Pub. L. 91–194\], and before making sales under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\]:
 
 &emsp;“(1) the percentage of the recipient or purchasing country's budget which is devoted to military purposes,
 

@@ -92,11 +92,11 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission, in consultation with the Federal banking agencies and the NationalCredit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
-&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
+&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed infinal form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
 
 #### (e) Information available to victims
 
@@ -172,7 +172,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (8) No new recordkeeping obligation
 
-&emsp;Nothing in this subsection creates an obligation on the part of a business entity to obtain, retain, or maintain information or records that are not otherwise required to be obtained, retained, or maintained in the ordinary course of its business or under other applicable law.
+&emsp;Nothing in this subsection creates an obligation on the part of a business entity to obtain, retain, or maintain information or recordsthat are not otherwise required to be obtained, retained, or maintained in the ordinary course of its business or under other applicable law.
 
 #### (9) Rule of construction
 
@@ -328,7 +328,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 “Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
 
-“If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
+“If you have questions about your credit score or the credit information that is furnished toyou, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
 
 “If you have questions concerning the terms of the loan, contact the lender.”.
 
@@ -424,7 +424,7 @@ Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1998 Amendment
 

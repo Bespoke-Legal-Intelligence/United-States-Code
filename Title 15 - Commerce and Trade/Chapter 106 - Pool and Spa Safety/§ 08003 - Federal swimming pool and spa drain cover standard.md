@@ -6,7 +6,7 @@ The requirements described in subsection (b) shall be treated as a consumer prod
 
 #### (b) Drain cover standard
 
-Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover.
+Effective 1 year after December 19, 2007, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
 
 #### (c) Public pools
 
@@ -68,9 +68,13 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 &emsp;Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2068(a)(1)) and may also be enforced under section 17 of that Act (15 U.S.C. 2066).
 
-(Pub. L. 110–140, title XIV, §1404, Dec. 19, 2007, 121 Stat. 1795.)
+(Pub. L. 110–140, title XIV, §1404, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, §238(2), Aug. 14, 2008, 122 Stat. 3076.)
 
 #### References in Text
 
 The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–314 inserted at end “If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.”
 

@@ -1,6 +1,6 @@
 ### §7407. Administrative provisions for section 7405 and 7406 appointments
 
-(a) When the Under Secretary for Health determines that it is not possible to recruit qualified citizens for the necessary services, appointments under sections 7405 and 7406 of this title may be made without regard to the citizenshiprequirements of section 7402(c) of this title or of any other law prohibiting the employment of, or payment of compensation to, a person who is not a citizen of the United States.
+(a) When the Under Secretary for Health determines that it is not possible to recruit qualified citizens for the necessary services, appointments under sections 7405 and 7406 of this title may be made without regard to the citizenship requirements of section 7402(c) of this title or of any other law prohibiting the employment of, or payment of compensation to, a person who is not a citizen of the United States.
 
 (b)(1) Subject to paragraph (2), the Under Secretary for Health may waive for the purpose of the appointment of an individual under section 7405 or 7406 of this title the requirements set forth in section 7402(b) of this title—
 

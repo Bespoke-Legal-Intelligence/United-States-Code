@@ -14,7 +14,7 @@ In any action brought under subsection (a) of this section, the Secretary, if no
 
 #### (d) Costs of litigation
 
-The court, in issuing any final order in any action brought under subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+The court, in issuing any final order in any action brought under subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to anyparty, whenever the court determines such award is appropriate.
 
 #### (e) Other remedies to remain available
 

@@ -22,7 +22,23 @@
 
 (D)
 
-Joint financing arrangement.—If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangementand the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
+Joint financing arrangement.—If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.
+
+(E)
+
+Interest rates for water and waste disposal facilities loans.—
+
+&emsp;(i)
+
+In general.—Except as provided in clause (ii) and notwithstanding subparagraph (A), in the case of a direct loan for a water or waste disposal facility—
+
+&emsp;&emsp;(I) in the case of a loan that would be subject to the 5 percent interest rate limitation under subparagraph (A), the Secretary shall establish the interest rate at a rate that is equal to 60 percent of the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity of the loan, adjusted to the nearest 1/8 of 1 percent; and
+
+&emsp;&emsp;(II) in the case of a loan that would be subject to the 7 percent limitation under subparagraph (A), the Secretary shall establish the interest rate at a rate that is equal to 80 percent of the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity of the loan, adjusted to the nearest 1/8 of 1 percent.
+
+&emsp;(ii)
+
+Exception.—Clause (i) does not apply to a loan for a specific project that is the subject of a loan that has been approved, but not closed, as of the date of enactment of this subparagraph.
 
 (4) Except as provided in paragraph (6), the interest rates on loans under sections 1926(a)(1) and 1932 of this title (other than guaranteed loans and loans as described in paragraph (3) of this subsection) shall be as determined by the Secretary, but not less than such rates as determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted in the judgment of the Secretary of the Treasury to provide for rates comparable to the rates prevailing in the private market for similar loans and considering the Secretary's insurance of the loans, plus an additional charge, prescribed by the Secretary, to cover the Secretary's losses and cost of administration, which charge shall be deposited in the Rural Development Insurance Fund, and further adjusted to the nearest one-eighth of 1 per centum.
 
@@ -36,7 +52,7 @@ Joint financing arrangement.—If a direct farm ownership loan is made under thi
 
 &emsp;(i) the provisions of section 1926(a)(1) of this title relating to loans for recreational developments and essential community facilities,
 
-&emsp;(ii) clause (1) of section 1932(a) of this title, and
+&emsp;(ii) section 1932(a)(2)(A) of this title; <sup>1</sup> and
 
 &emsp;(iii) section 1932(d) of this title.
 
@@ -62,13 +78,23 @@ The Secretary may not—
 
 &emsp;(2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552,title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128.)
+(Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927.)
 
 #### References in Text
 
+The date of enactment of this subparagraph, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
 For definition of “this chapter”, referred to in subsecs. (a)(6)(A) and (e)(1), see note set out under section 1921 of this title.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(3)(E). Pub. L. 110–246, §6011, added subpar. (E).
+
+Subsec. (a)(6)(B)(ii). Pub. L. 110–246, §6012(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “clause (1) of section 1932(a) of this title, and”.
 
 1996—Subsec. (a)(3)(B). Pub. L. 104–127, §604(1), inserted “subparagraph (D) and in” after “Except as provided in”.
 
@@ -118,6 +144,10 @@ Subsecs. (b), (c). Pub. L. 95–334, §108(2), (3), added subsec. (b) and redesi
 
 Subsec. (b). Pub. L. 92–419, §128(b), substituted “may” for “shall” in second sentence.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Section 113(b) of Pub. L. 103–328 provided that:
@@ -141,4 +171,6 @@ Section 516(c)(2) of Pub. L. 102–552 provided that: “The amendments made by 
 #### Effective Date of 1981 Amendment
 
 Section 160(c) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and section 1946 of this title\] shall apply to loans approved after September 30, 1981.”
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

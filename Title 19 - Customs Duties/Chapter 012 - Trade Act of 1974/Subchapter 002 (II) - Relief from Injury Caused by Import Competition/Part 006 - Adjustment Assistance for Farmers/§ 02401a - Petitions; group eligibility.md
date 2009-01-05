@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A petition for a certification of eligibility to apply for adjustment assistance under this part may be filed with the Secretary by a group of agricultural commodity producers or by their duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
+A petition for a certification of eligibility to apply for adjustment assistance under this partmay be filed with the Secretary by a group of agricultural commodity producers or by their duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that the Secretary has received the petition and initiated an investigation.
 
 #### (b) Hearings
 

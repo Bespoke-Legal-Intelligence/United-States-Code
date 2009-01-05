@@ -226,7 +226,7 @@ Subsec. (d). Pub. L. 102–204, §5(a)(3), amended subsec. (d) generally. Prior 
 
 Subsec. (f). Pub. L. 102–204, §5(b), substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
 
-Subsec. (g). Pub. L. 102–204, §5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read asfollows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
+Subsec. (g). Pub. L. 102–204, §5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
 
 Subsec. (i). Pub. L. 102–204, §5(d)(1), added subsec. (i).
 
@@ -336,7 +336,7 @@ Section 8 of Pub. L. 96–517 provided that:
 
 “(a) Sections 2, 4, and 5 of this Act \[amending this section, section 154 of this title, and section 1113 of Title 15, Commerce and Trade\] will take effect upon enactment \[Dec. 12, 1980\].
 
-“(b) Section 1 of this Act \[enacting sections 301 to 307 of this title\] will take effect on the first day of the seventh month beginning after its enactment \[Dec. 12, 1980\] and will apply to patents in force as of that date or issued thereafter.
+“(b) Section 1 of this Act \[enacting sections 301 to 307 of this title\] will take effect on the first day of the seventh month beginning after its enactment \[Dec. 12,1980\] and will apply to patents in force as of that date or issued thereafter.
 
 “(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent and Trademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
 
@@ -548,7 +548,7 @@ Patent search fees.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“ ‘(II) an analysis of the reasonableness, appropriateness, and effectiveness of the methods used in the pilot program to make the evaluations required under clause (ii)(IV); and
 
-&emsp;&emsp;&emsp;“ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the Patent Public Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
+&emsp;&emsp;&emsp;“ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the PatentPublic Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
 
 &emsp;&emsp;“ ‘(F) The Director shall require that any search by a qualified search authority that is a commercial entity is conducted in the United States by persons that—
 
@@ -644,7 +644,7 @@ Timing of fees.—The provisions of section 111(a)(3) of title 35, United States
 
 #### “SEC. 804. DEFINITION.
 
-“In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.”
+“In this title, the term ‘Director’ means the Under Secretary of Commerce for Intellectual Property andDirector of the United States Patent and Trademark Office.”
 
 \[Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1888, provided in part: “That sections 801, 802, and 803 of division B, Public Law 108–447 \[set out above\] shall remain in effect during fiscal year 2008”.\]
 
@@ -706,7 +706,7 @@ Section 404 of Pub. L. 98–622 provided that:
 
 “(a) Notwithstanding section 41 of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], no fee shall be collected for maintaining a plant patent in force.
 
-“(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) \[Aug. 27, 1982\], the Commissioner of Patents and Trademarks \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
+“(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of PublicLaw 97–247 (96 Stat. 317) \[Aug. 27, 1982\], the Commissioner of Patents and Trademarks \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

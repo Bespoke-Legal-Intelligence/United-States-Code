@@ -90,7 +90,7 @@ Guidelines.—The Secretary shall establish procedures and guidelines for making
 
 &emsp;(8)
 
-Initial construction defined.—For purposes of this subsection, the term “initial construction” means the construction of a highway, bridge, or tunnel at any time before it is open to traffic and does not include any improvement to a highway, bridge, or tunnel after it is open to traffic.
+Initial construction defined.—For purposes of this subsection, the term “initial construction” means the construction of a highway, bridge, or tunnel at any time before it isopen to traffic and does not include any improvement to a highway, bridge, or tunnel after it is open to traffic.
 
 (b) Notwithstanding the provisions of section 301 of this title, the Secretary may permit Federal participation under this title in the construction of a project constituting an approach to a ferry, whether toll or free, the route of which is a public road and has not been designated as a route on the Interstate System. Such ferry may be either publicly or privately owned and operated, but the operating authority and the amount of fares charged for passage shall be under the control of a State agency or official, and all revenues derived from publicly owned or operated ferries shall be applied to payment of the cost of construction or acquisition thereof, including debt service, and to actual and necessary costs of operation, maintenance, repair, and replacement.
 
@@ -104,7 +104,7 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 &emsp;(4) The operating authority and the amount of fares charged for passage on such ferry shall be under the control of the State or other public entity, and all revenues derived therefrom shall be applied to actual and necessary costs of operation, maintenance, and <sup>1</sup> repair, debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return.
 
-&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in theDominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
+&emsp;(5) Such ferry may be operated only within the State (including the islands which comprise the State of Hawaii and the islands which comprise any territory of the United States) or between adjoining States or between a point in a State and a point in the Dominion of Canada. Except with respect to operations between the islands which comprise the State of Hawaii, operations between the islands which comprise any territory of the United States, operations between a point in a State and a point in the Dominion of Canada, and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada, no part of such ferry operation shall be in any foreign or international waters.
 
 &emsp;(6) No such ferry shall be sold, leased, or otherwise disposed of without the approval of the Secretary. The Federal share of any proceeds from such a disposition shall be credited to the unprogramed balance of Federal-aid highway funds of the same class last apportioned to such State. Any amount so credited shall be in addition to all other funds then apportioned to such State and available for expenditure in accordance with the provisions of this title.
 
@@ -524,7 +524,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;“(A) An identification of the facility on the Interstate System proposed to be a toll facility, including the age, condition, and intensity of use of the facility.
 
-&emsp;“(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
+&emsp;“(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitanplanning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
 &emsp;“(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 
@@ -582,7 +582,7 @@ Interstate system defined.—In this subsection, the term ‘Interstate System�
 
 #### Continuation of Existing Agreements
 
-Section 1012(d) of title I of Pub. L. 102–240 provided that: “Unless modified under section 129(a)(6) of suchtitle \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
+Section 1012(d) of title I of Pub. L. 102–240 provided that: “Unless modified under section 129(a)(6) of such title \[this title\], as amended by subsection (a) of this section, agreements entered into under section 119(e) or 129 of such title before the effective date of this title \[Dec. 18, 1991\] and in effect on the day before such effective date shall continue in effect on and after such effective date in accordance with the provisions of such agreement and such section 119(e) or 129.”
 
 #### Construction of Ferry Boats and Ferry Terminal Facilities
 

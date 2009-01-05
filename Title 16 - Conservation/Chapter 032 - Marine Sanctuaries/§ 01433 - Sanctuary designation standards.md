@@ -36,7 +36,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(E) the existing State and Federal regulatory and management authorities applicable to the area and the adequacy of those authorities to fulfill the purposes and policies of this chapter;
 
-&emsp;&emsp;(F) the manageability of the area, including such factors as its size, its ability to be identified as a discrete ecological unit with definable boundaries, its accessibility, andits suitability for monitoring and enforcement activities;
+&emsp;&emsp;(F) the manageability of the area, including such factors as its size, its ability to be identified as a discrete ecological unit with definable boundaries, its accessibility, and its suitability for monitoring and enforcement activities;
 
 &emsp;&emsp;(G) the public benefits to be derived from sanctuary status, with emphasis on the benefits of long-term protection of nationally significant resources, vital habitats, and resources which generate tourism;
 

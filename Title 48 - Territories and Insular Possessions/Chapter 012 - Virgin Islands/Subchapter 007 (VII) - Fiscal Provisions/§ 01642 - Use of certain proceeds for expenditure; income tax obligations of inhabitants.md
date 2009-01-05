@@ -6,7 +6,7 @@ The proceeds of customs duties, the proceeds of the United States income tax, th
 
 #### References in Text
 
-Act of August 18, 1978, referred to in text, probably means Pub. L. 95–348, Aug. 18, 1978, 92 Stat. 487, as amended, which enacted sections 1645 and 1841 of this title and section 410dd of Title 16, Conservation, amended sections 1421h, 1469a, 1575, and 1642 of this title and sections 398a and 398c to 398f of Title 16, and enacted provisions set out as a note under sections 1421, 1641, and 1681 of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 18, 1978, referred to in text, probably means Pub. L. 95–348, Aug. 18, 1978, 92 Stat. 487, as amended, which enacted sections 1645 and 1841 of this title and section 410dd of Title 16, Conservation, amended sections 1421h, 1469a, 1575, and 1642 of this title and sections 398a and 398c to 398f of Title 16, and enactedprovisions set out as a note under sections 1421, 1641, and 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
 

@@ -50,7 +50,7 @@
 
 #### (B) Reports
 
-&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Commerce of the House of Representatives.
+&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways andMeans and the Committee on Commerce of the House of Representatives.
 
 (July 1, 1944, ch. 373, title IX, §917, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1661.)
 

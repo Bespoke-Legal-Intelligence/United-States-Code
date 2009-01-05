@@ -16,7 +16,7 @@ Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–332, §1, Oct. 16, 2004, 118 Stat. 1282, provided that: “This Act \[enacting section 2731 of this title, amending sections 2151n, 2304, and 6412 of this title, and enacting provisions set out as notes under sections 2151n and 2731 of this title\] may be cited as the ‘Global Anti-Semitism Review Act of 2004’.”
+Pub. L. 108–332, §1, Oct. 16, 2004, 118 Stat. 1282, provided that: “This Act \[enacting section 2731 of thistitle, amending sections 2151n, 2304, and 6412 of this title, and enacting provisions set out as notes under sections 2151n and 2731 of this title\] may be cited as the ‘Global Anti-Semitism Review Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: “This A
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316,4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
+Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: “This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Years 1988 and 1989’.”
 
 #### Short Title of 1985 Amendment
 
@@ -58,7 +58,7 @@ Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \[enacting sections 276a–1, 1037 to 1037c, 2576, 2687, and 2688 of this title, amending sections 276, 276c, 295, 966, 991, 995, 1934, 2321d, 2551, 2562, 2585, 2589, 2590, 2601, 2666, 2679a, and 2791 of this title and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 1037a and 2679a of this title, amending provision set out as a note under section 287e, and repealing provision set out as a note under section 966 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1976’.”
+Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \[enacting sections 276a–1, 1037 to 1037c,2576, 2687, and 2688 of this title, amending sections 276, 276c, 295, 966, 991, 995, 1934, 2321d, 2551, 2562, 2585, 2589, 2590, 2601, 2666, 2679a, and 2791 of this title and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 1037a and 2679a of this title, amending provision set out as a note under section 287e, and repealing provision set out as a note under section 966 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1976’.”
 
 #### Short Title of 1974 Amendment
 
@@ -134,7 +134,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 
 
 &emsp;“(1)
 
-Appropriate congressional committees.—Except as otherwise provided in section 902(1) \[113 Stat. 1501A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Appropriate congressional committees.—Except as otherwise provided in section 902(1) \[113 Stat.1501A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 &emsp;“(2)
 

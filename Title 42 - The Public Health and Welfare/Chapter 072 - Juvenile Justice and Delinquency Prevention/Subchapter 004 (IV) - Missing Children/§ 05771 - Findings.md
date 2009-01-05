@@ -10,21 +10,35 @@ The Congress finds that—
 
 &emsp;(4) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
 
-&emsp;(5) the National Center for Missing and Exploited Children—
+&emsp;(5) growing numbers of children are the victims of child sexual exploitation, increasingly involving the use of new technology to access the Internet;
 
-&emsp;&emsp;(A) serves as the national resource center and clearinghouse;
+&emsp;(6) children may be separated from their parents or legal guardians as a result of national disasters such as hurricanes and floods;
 
-&emsp;&emsp;(B) works in partnership with the Department of Justice, the Federal Bureau of Investigation, the Department of the Treasury, the Department of State, and many other agencies in the effort to find missing children and prevent child victimization; and
+&emsp;(7) sex offenders pose a threat to children;
 
-&emsp;&emsp;(C) operates a national and increasingly worldwide network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing children to law enforcement across the United States and around the world instantly.
+&emsp;(8) the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children's organizations; and
 
-(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, §201, Oct. 10, 2003, 117 Stat. 1171.)
+&emsp;(9) a key component of such programs is the National Center for Missing and Exploited Children, which—
+
+&emsp;&emsp;(A) serves as a national resource center and clearinghouse;
+
+&emsp;&emsp;(B) works in partnership with the Department of Justice, the Federal Bureau of Investigation, the United States Marshals Service, the Department of the Treasury, the Department of State, the Bureau of Immigration and Customs Enforcement, the United States Secret Service, the United States Postal Inspection Service, and many other agencies in the effort to find missing children and prevent child victimization; and
+
+&emsp;&emsp;(C) operates a national network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with international organizations, including Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing and exploited children to law enforcement across the United States and around the world instantly.
+
+(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, §201, Oct. 10, 2003, 117 Stat. 1171; Pub. L. 110–240, §2, June 3, 2008, 122 Stat. 1560.)
+
+#### References in Text
+
+This chapter, referred to in par. (8), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and repealed section 3889 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+2008—Pub. L. 110–240 amended section generally. Prior to amendment, section consisted of pars. (1) to (5) stating findings of Congress concerning missing or abducted children and the role of the National Center for Missing and Exploited Children.
 
 2003—Pub. L. 108–96 amended section generally. Prior to amendment, section consisted of pars. (1) to (21) stating findings of Congress.
 

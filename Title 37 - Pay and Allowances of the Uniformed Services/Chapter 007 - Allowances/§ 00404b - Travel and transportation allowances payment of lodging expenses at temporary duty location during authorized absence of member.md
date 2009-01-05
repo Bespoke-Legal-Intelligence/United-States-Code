@@ -10,7 +10,7 @@ Covered Members.—Subsection (a) applies with respect to a member assigned to t
 
 &emsp;(1) immediately before the authorized absence, was performing the temporary duty at a location away from the home or permanent duty station of the member;
 
-&emsp;(2) was receiving a per diem allowance under section 404(a)(4) of this title to cover lodging and subsistence expenses incurred at the temporary duty location because quarters of the United States were not available for assignment to the member at that location; and
+&emsp;(2) was receiving a per diem allowance under section 404(a)(4) of this title to cover lodgingand subsistence expenses incurred at the temporary duty location because quarters of the United States were not available for assignment to the member at that location; and
 
 &emsp;(3) before the end of the authorized absence, returns to the duty location.
 

@@ -28,7 +28,7 @@ The Secretary shall require that surface transportation security inspectors have
 
 &emsp;&emsp;(A) In the case of a public transportation agency that is found to be in violation of a regulation or order issued by the Secretary, the Secretary shall seek correction of the violation through a written notice to the public transportation agency and shall give the public transportation agency reasonable opportunity to correct the violation or propose an alternative means of compliance acceptable to the Secretary.
 
-&emsp;&emsp;(B) If the public transportation agency does not correct the violation or propose an alternative means of compliance acceptable to the Secretary within a reasonable time period that is specified in the written notice, the Secretary may take any action authorized in section 114 of title 49.
+&emsp;&emsp;(B) If the public transportation agency does not correct the violation or propose analternative means of compliance acceptable to the Secretary within a reasonable time period that is specified in the written notice, the Secretary may take any action authorized in section 114 of title 49.
 
 #### (3) Limitation on Secretary
 
@@ -48,7 +48,7 @@ The Secretary shall employ up to a total of—
 
 #### (g) Coordination
 
-The Secretary shall ensure that the mission of the surface transportation security inspectors is consistent with any relevant risk assessments required by this Act or completed by the Department, the modal plans required under section 114(t) of title 49, the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding, and other relevant documents setting forth the Department's transportation security strategy, as appropriate.
+The Secretary shall ensure that the mission of the surface transportation security inspectors is consistent with any relevant risk assessments required by this Act or completed by the Department, the modal plans required under section 114(t) <sup>1</sup> of title 49, the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding, and other relevant documents setting forth the Department's transportation security strategy, as appropriate.
 
 #### (h) Consultation
 
@@ -81,4 +81,8 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 #### References in Text
 
 This Act, referred to in subsecs. (e)(3) and (g), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
+
+Section 114(t) of title 49, referred to in subsec. (g), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

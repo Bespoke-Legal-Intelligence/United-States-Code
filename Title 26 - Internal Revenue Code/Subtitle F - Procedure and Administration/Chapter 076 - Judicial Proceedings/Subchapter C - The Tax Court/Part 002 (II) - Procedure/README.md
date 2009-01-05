@@ -39,9 +39,11 @@
 
 1969—Pub. L. 91–172, title IX, §957(b), Dec. 30, 1969, 83 Stat. 733, added item 7463 and redesignated former item 7463 as 7464.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 91–172 without corresponding amendment of analysis.</i>
 

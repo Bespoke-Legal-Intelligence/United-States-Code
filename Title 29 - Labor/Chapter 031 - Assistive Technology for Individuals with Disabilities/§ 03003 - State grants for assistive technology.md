@@ -240,7 +240,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) support for the development of systems for the purchase, lease, or other acquisition of, or payment for, assistive technology devices and assistive technology services; or
 
-&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternativefinancing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, or collaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
+&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternative financing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, or collaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
 
 &emsp;&emsp;&emsp;&emsp;(I) a low-interest loan fund;
 
@@ -304,7 +304,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities to, develop and disseminate training materials, conduct training, facilitate access to assistive technology, and provide technical assistance, to assist—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C.1400 et seq.), that receive transition services; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) students with disabilities, within the meaning of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), that receive transition services; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) adults who are individuals with disabilities maintaining or transitioning to community living.
 

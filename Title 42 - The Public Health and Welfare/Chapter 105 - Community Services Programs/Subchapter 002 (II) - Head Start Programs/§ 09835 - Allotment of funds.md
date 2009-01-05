@@ -20,7 +20,7 @@
 
 &emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
-(C)(i) The Secretary shall reserve for each fiscal year an amount that is not less than 2.5 percent and not more than 3 percent of the sums appropriated pursuant to section 9834 of thistitle for that fiscal year, to fund training and technical assistance activities, from which reserved amount—
+(C)(i) The Secretary shall reserve for each fiscal year an amount that is not less than 2.5 percent and not more than 3 percent of the sums appropriated pursuant to section 9834 of this title for that fiscal year, to fund training and technical assistance activities, from which reserved amount—
 
 &emsp;(I) the Secretary shall set aside a portion, but not less than 20 percent, to be used to fund training and technical assistance activities for Early Head Start programs, in accordance with section 9840a(g)(2) of this title; and
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(bb) not less than 25 percent shall be available to the Secretary to support a State-based training and technical assistance system, or a national system, described in section 9843(e) of this title for supporting program quality; and
 
-&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title by carrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
+&emsp;&emsp;(cc) the remainder of the portion set aside under this subclause shall be available to the Secretary to assist Head Start agencies in meeting and exceeding the standards described in section 9836a(a)(1) of this title bycarrying out activities described in subsections (a), (b), (c), (f), and (g) of section 9843 of this title, including helping Head Start programs address weaknesses identified by monitoring activities conducted by the Secretary under section 9836a(c) of this title, except that not less than $3,000,000 of the remainder shall be made available to carry out activities described in section 9843(a)(3)(B)(ii) of this title.
 
 (ii) In determining the portion set aside under clause (i)(I) and the amount reserved under this subparagraph, the Secretary shall consider the number of Early Head Start programs newly funded for that fiscal year.
 
@@ -66,7 +66,7 @@
 
 &emsp;(iii) if the remaining amount is not sufficient to carry out clause (ii) for the fiscal year involved, use that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage of the cost of living increase described in clause (i).
 
-(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to inthis subsection as the “special expansion provisions”), to increase enrollment in the programs involved.
+(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the “special expansion provisions”), to increase enrollment in the programs involved.
 
 (ii)(I) Funds that are appropriated under section 9834 of this title for a fiscal year, and made available to Indian Head Start programs or migrant or seasonal Head Start programs under the special expansion provisions, shall remain available until the end of the following fiscal year.
 
@@ -184,7 +184,7 @@
 
 #### (b) Federal share
 
-Financial assistance extended under this subchapter for a Head Start program shall not exceed 80 percent of the approved costs of the assisted program or activities, except that the Secretary may approve assistance in excess of such percentage if the Secretary determines that such action is required in furtherance of the purposes of this subchapter. For the purpose of making such determination, the Secretaryshall take into consideration with respect to the Head Start program involved—
+Financial assistance extended under this subchapter for a Head Start program shall not exceed 80 percent of the approved costs of the assisted program or activities, except that the Secretary may approve assistance in excess of such percentage if the Secretary determines that such action is required in furtherance of the purposes of this subchapter. For the purpose of making such determination, the Secretary shall take into consideration with respect to the Head Start program involved—
 
 &emsp;(1) the lack of resources available in the community that may prevent the Head Start agency from providing all or a portion of the non-Federal contribution that may be required under this subsection;
 
@@ -236,7 +236,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 &emsp;(B) the applicant's capacity to expand services (including, in the case of Head Start programs in existence on the date of the allocation, whether the applicant accomplished any prior expansions in an effective and timely manner);
 
-&emsp;(C) the extent to which the applicant has undertaken a communitywide strategic planning and needs assessment involving other entities, including community organizations, and Federal, State, and local public agencies (including the local educational agency liaison designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42U.S.C. 11432(g)(1)(J)(ii))), that provide services to children and families, such as—
+&emsp;(C) the extent to which the applicant has undertaken a communitywide strategic planning and needs assessment involving other entities, including community organizations, and Federal, State, and local public agencies (including the local educational agency liaison designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii))), that provide services to children and families, such as—
 
 &emsp;&emsp;(i) family support services;
 
@@ -340,7 +340,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d), is 
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (m)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
-This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13,1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -414,7 +414,7 @@ Subsec. (a)(3)(B)(vi). Pub. L. 105–285, §106(a)(2)(B)(iv), inserted before pe
 
 Subsec. (a)(3)(B)(vii), (viii). Pub. L. 105–285, §106(a)(2)(B)(v), (vi), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and other staff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
+Subsec. (a)(3)(C)(i)(I). Pub. L. 105–285, §106(a)(2)(C)(i)(I), substituted “this paragraph” for “this subparagraph”, “of classroom teachers and otherstaff” for “of staff”, and “qualified staff, including recruitment and retention pursuant to achieving the requirements set forth in section 9843a(a) of this title” for “such staff”, and inserted at end “Preferences in awarding salary increases, in excess of cost-of-living allowances, with such funds shall be granted to classroom teachers and staff who obtain additional training or education related to their responsibilities as employees of a Head Start program.”
 
 Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted “this subparagraph” for “the subparagraph”.
 
@@ -480,7 +480,7 @@ Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including pay
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
-Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the quality improvement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
+Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A) as (C), substituted in introductory provisions “Quality improvement funds shall be used to carry out any or all of the following activities:” for “For any fiscal year for which the amount appropriated under section 9834(a) of this title exceeds the adjusted appropriation, the Secretary shall reserve the qualityimprovement funds for such fiscal year, for one or more of the following quality improvement activities:”, and added cl. (vii).
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
@@ -538,7 +538,7 @@ Subsec. (g). Pub. L. 102–401, §2(k)(1)(B), substituted “Price Index For All
 
 Subsec. (i). Pub. L. 102–401, §2(d), added subsec. (i).
 
-1991—Subsec. (d). Pub. L. 102–119 substituted “section 1401(a)(1) of title 20” for “paragraph (1) of section 1401 of title 20”. The references to section 1401 of title 20 include the substitution of “Individuals with DisabilitiesEducation Act” for “Education of the Handicapped Act” in the original.
+1991—Subsec. (d). Pub. L. 102–119 substituted “section 1401(a)(1) of title 20” for “paragraph (1) of section 1401 of title 20”. The references to section 1401 of title 20 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
 
 1990—Subsec. (a)(1). Pub. L. 101–501, §104(a)(1), substituted “through (5)” for “and (3)”.
 

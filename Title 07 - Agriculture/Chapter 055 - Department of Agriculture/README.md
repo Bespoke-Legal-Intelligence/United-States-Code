@@ -17,6 +17,7 @@
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
 | [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
+| [2206b.](%C2%A7%2002206b%20-%20Availability%20of%20excess%20and%20surplus%20computers%20in%20rural%20areas.md) | Availability of excess and surplus computers in rural areas. |
 | [2207\.](%C2%A7%2002207%20-%20Reports.md) | Reports. |
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
@@ -31,6 +32,7 @@
 | [2209g.](%C2%A7%2002209g%20-%20Availability%20of%20funds%20for%20uniforms%20or%20allowances.md) | Availability of funds for uniforms or allowances. |
 | [2209h.](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md) | Reimbursement of Office of the General Counsel. |
 | [2209i.](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md) | Funding for preparation of final agency decisions regarding discrimination complaints. |
+| [2209j.](%C2%A7%2002209j%20-%20Permanent%20debarment%20from%20participation%20in%20Department%20of%20Agriculture%20programs%20for%20fraud.md) | Permanent debarment from participation in Department of Agriculture programs for fraud. |
 | [2210\.](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md) | Deputy Secretary of Agriculture; appointment. |
 | [2211\.](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md) | Powers and duties of Deputy Secretary of Agriculture. |
 | 2211a to 2213. Omitted or Repealed. |  |
@@ -71,6 +73,7 @@
 | [2239\.](%C2%A7%2002239%20-%20Funds%20for%20printing%2C%20binding%2C%20and%20scientific%20and%20technical%20article%20reprint%20purchases.md) | Funds for printing, binding, and scientific and technical article reprint purchases. |
 | [2240\.](%C2%A7%2002240%20-%20Reimbursement%20of%20appropriation%20for%20salaries%20and%20compensation%20of%20employees%20in%20mechanical%20shops.md) | Reimbursement of appropriation for salaries and compensation of employees in mechanical shops. |
 | [2241\.](%C2%A7%2002241%20-%20Sale%20or%20exchange%20of%20animals%20or%20animal%20products.md) | Sale or exchange of animals or animal products. |
+| [2241a.](%C2%A7%2002241a%20-%20Exchange%20or%20sale%20authority.md) | Exchange or sale authority. |
 | [2242\.](%C2%A7%2002242%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%281%29%2C%20%282%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md) | Repealed. |
 | [2242a.](%C2%A7%2002242a%20-%20User%20fees%20for%20reports%2C%20publications%2C%20and%20software.md) | User fees for reports, publications, and software. |
 | [2242b.](%C2%A7%2002242b%20-%20Translation%20of%20publications%20into%20foreign%20languages.md) | Translation of publications into foreign languages. |
@@ -91,6 +94,7 @@
 | [2254b.](%C2%A7%2002254b%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products%3B%20exception.md) | Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception. |
 | [2255\.](%C2%A7%2002255%20-%20Membership%20in%20International%20Wheat%20Advisory%20Committee%2C%20International%20Sugar%20Council%2C%20etc.md) | Membership in International Wheat Advisory Committee, International Sugar Council, etc. |
 | [2255a.](%C2%A7%2002255a%20-%20Financial%20assistance%20to%20national%20and%20international%20conferences.md) | Financial assistance to national and international conferences. |
+| [2255b.](%C2%A7%2002255b%20-%20Department%20of%20Agriculture%20conference%20transparency.md) | Department of Agriculture conference transparency. |
 | [2256\.](%C2%A7%2002256%20-%20Inspections%2C%20analyses%2C%20and%20tests%20for%20other%20Government%20departments%20and%20agencies%3B%20reimbursement.md) | Inspections, analyses, and tests for other Government departments and agencies; reimbursement. |
 | [2257\.](%C2%A7%2002257%20-%20Interchangeability%20of%20funds%20for%20miscellaneous%20expenses%20and%20general%20expenses.md) | Interchangeability of funds for miscellaneous expenses and general expenses. |
 | [2258\.](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md) | Purchase of newspapers. |
@@ -123,8 +127,9 @@
 | [2278\.](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md) | Consistency with international obligations of United States. |
 | [2279\.](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md) | Outreach and assistance for socially disadvantaged farmers and ranchers. |
 | 2279–1. | Transparency and accountability for socially disadvantaged farmers and ranchers. |
+| 2279–2. | Report of civil rights complaints, resolutions, and actions. |
 | [2279a.](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md) | Fair and equitable treatment of socially disadvantaged producers. |
-| [2279b.](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md) | Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality. |
+| [2279b.](%C2%A7%2002279b%20-%20Department%20of%20Agriculture%20educational%2C%20training%2C%20and%20professional%20development%20activities.md) | Department of Agriculture educational, training, and professional development activities. |
 | [2279c.](%C2%A7%2002279c%20-%20Student%20internship%20programs.md) | Student internship programs. |
 | [2279d.](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md) | Compensatory damages in claims under Rehabilitation Act of 1973. |
 | [2279e.](%C2%A7%2002279e%20-%20Civil%20penalty.md) | Civil penalty. |
@@ -154,6 +159,7 @@
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
 - [&sect; 02206a - Conveyance of excess Federal personal property](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md)
+- [&sect; 02206b - Availability of excess and surplus computers in rural areas](%C2%A7%2002206b%20-%20Availability%20of%20excess%20and%20surplus%20computers%20in%20rural%20areas.md)
 - [&sect; 02207 - Reports](%C2%A7%2002207%20-%20Reports.md)
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
@@ -168,6 +174,7 @@
 - [&sect; 02209g - Availability of funds for uniforms or allowances](%C2%A7%2002209g%20-%20Availability%20of%20funds%20for%20uniforms%20or%20allowances.md)
 - [&sect; 02209h - Reimbursement of Office of the General Counsel](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md)
 - [&sect; 02209i - Funding for preparation of final agency decisions regarding discrimination complaints](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md)
+- [&sect; 02209j - Permanent debarment from participation in Department of Agriculture programs for fraud](%C2%A7%2002209j%20-%20Permanent%20debarment%20from%20participation%20in%20Department%20of%20Agriculture%20programs%20for%20fraud.md)
 - [&sect; 02210 - Deputy Secretary of Agriculture; appointment](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md)
 - [&sect; 02211 - Powers and duties of Deputy Secretary of Agriculture](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md)
 - [&sect; 02211a - Omitted](%C2%A7%2002211a%20-%20Omitted.md)
@@ -210,6 +217,7 @@
 - [&sect; 02239 - Funds for printing, binding, and scientific and technical article reprint purchases](%C2%A7%2002239%20-%20Funds%20for%20printing%2C%20binding%2C%20and%20scientific%20and%20technical%20article%20reprint%20purchases.md)
 - [&sect; 02240 - Reimbursement of appropriation for salaries and compensation of employees in mechanical shops](%C2%A7%2002240%20-%20Reimbursement%20of%20appropriation%20for%20salaries%20and%20compensation%20of%20employees%20in%20mechanical%20shops.md)
 - [&sect; 02241 - Sale or exchange of animals or animal products](%C2%A7%2002241%20-%20Sale%20or%20exchange%20of%20animals%20or%20animal%20products.md)
+- [&sect; 02241a - Exchange or sale authority](%C2%A7%2002241a%20-%20Exchange%20or%20sale%20authority.md)
 - [&sect; 02242 - Repealed. Pub. L. 101&#8211;624, title XVI, &sect;1606(b)(1), (2), Nov. 28, 1990, 104 Stat. 3715](%C2%A7%2002242%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71606%28b%29%281%29%2C%20%282%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203715.md)
 - [&sect; 02242a - User fees for reports, publications, and software](%C2%A7%2002242a%20-%20User%20fees%20for%20reports%2C%20publications%2C%20and%20software.md)
 - [&sect; 02242b - Translation of publications into foreign languages](%C2%A7%2002242b%20-%20Translation%20of%20publications%20into%20foreign%20languages.md)
@@ -230,6 +238,7 @@
 - [&sect; 02254b - Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception](%C2%A7%2002254b%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products%3B%20exception.md)
 - [&sect; 02255 - Membership in International Wheat Advisory Committee, International Sugar Council, etc](%C2%A7%2002255%20-%20Membership%20in%20International%20Wheat%20Advisory%20Committee%2C%20International%20Sugar%20Council%2C%20etc.md)
 - [&sect; 02255a - Financial assistance to national and international conferences](%C2%A7%2002255a%20-%20Financial%20assistance%20to%20national%20and%20international%20conferences.md)
+- [&sect; 02255b - Department of Agriculture conference transparency](%C2%A7%2002255b%20-%20Department%20of%20Agriculture%20conference%20transparency.md)
 - [&sect; 02256 - Inspections, analyses, and tests for other Government departments and agencies; reimbursement](%C2%A7%2002256%20-%20Inspections%2C%20analyses%2C%20and%20tests%20for%20other%20Government%20departments%20and%20agencies%3B%20reimbursement.md)
 - [&sect; 02257 - Interchangeability of funds for miscellaneous expenses and general expenses](%C2%A7%2002257%20-%20Interchangeability%20of%20funds%20for%20miscellaneous%20expenses%20and%20general%20expenses.md)
 - [&sect; 02258 - Purchase of newspapers](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md)
@@ -262,8 +271,9 @@
 - [&sect; 02278 - Consistency with international obligations of United States](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md)
 - [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
 - [&sect; 02279&#8211;1 - Transparency and accountability for socially disadvantaged farmers and ranchers](%C2%A7%2002279%E2%80%931%20-%20Transparency%20and%20accountability%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
+- [&sect; 02279&#8211;2 - Report of civil rights complaints, resolutions, and actions](%C2%A7%2002279%E2%80%932%20-%20Report%20of%20civil%20rights%20complaints%2C%20resolutions%2C%20and%20actions.md)
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)
-- [&sect; 02279b - Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md)
+- [&sect; 02279b - Department of Agriculture educational, training, and professional development activities](%C2%A7%2002279b%20-%20Department%20of%20Agriculture%20educational%2C%20training%2C%20and%20professional%20development%20activities.md)
 - [&sect; 02279c - Student internship programs](%C2%A7%2002279c%20-%20Student%20internship%20programs.md)
 - [&sect; 02279d - Compensatory damages in claims under Rehabilitation Act of 1973](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md)
 - [&sect; 02279e - Civil penalty](%C2%A7%2002279e%20-%20Civil%20penalty.md)

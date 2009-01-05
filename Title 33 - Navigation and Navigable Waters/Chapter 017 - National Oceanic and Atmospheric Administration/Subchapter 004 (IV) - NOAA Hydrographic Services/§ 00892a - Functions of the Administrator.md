@@ -2,9 +2,9 @@
 
 #### (a) Responsibilities
 
-To fulfill the data gathering and dissemination duties of the Administration under the Act of 1947, the Administrator shall—
+To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, the Administrator shall—
 
-&emsp;(1) acquire and disseminate hydrographic data;
+&emsp;(1) acquire and disseminate hydrographic data and provide hydrographic services;
 
 &emsp;(2) promulgate standards for hydrographic data used by the Administration in providing hydrographic services;
 
@@ -22,27 +22,39 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 #### (b) Authorities
 
-To fulfill the data gathering and dissemination duties of the Administration under the Act of 1947, and subject to the availability of appropriations, the Administrator—
+To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
 
 &emsp;(1) may procure, lease, evaluate, test, develop, and operate vessels, equipment, and technologies necessary to ensure safe navigation and maintain operational expertise in hydrographic data acquisition and hydrographic services;
 
-&emsp;(2) may enter into contracts and other agreements with qualified entities, consistent with subsection (a)(8) of this section, for the acquisition of hydrographic data and the provision of hydrographic services;
+&emsp;(2) shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency; and <sup>1</sup>
 
-&emsp;(3) shall award contracts for the acquisition of hydrographic data in accordance with title IX of the Federal Property and Administrative Services Act of 1949; <sup>1</sup> and
+&emsp;(3) where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, may acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources;
 
-&emsp;(4) shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency.
+&emsp;(4) where appropriate, may acquire hydrographic data and provide hydrographic services to save and protect life and property and support the resumption of commerce in response to emergencies, natural and man-made disasters, and homeland security and maritime domain awareness needs, including obtaining mission assignments (as defined in section 741 of title 6);
+
+&emsp;(5) may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
+
+&emsp;(6) notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.<sup>2</sup>
 
 #### (c) Conservation and management of coastal and ocean resources
 
 Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
-(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079.)
+(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
+
+Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of act June 30, 1949, to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–386, §3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–386, §3(2), substituted “data and provide hydrographic services;” for “data;”.
+
+Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
 
 2002—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
 
@@ -56,5 +68,7 @@ Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that:
 
 &emsp;“(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

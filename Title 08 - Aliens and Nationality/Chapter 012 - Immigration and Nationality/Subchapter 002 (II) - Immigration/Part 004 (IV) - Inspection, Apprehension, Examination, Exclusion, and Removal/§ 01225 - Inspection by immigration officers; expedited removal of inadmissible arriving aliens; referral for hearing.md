@@ -102,6 +102,10 @@
 
 &emsp;&emsp;Subparagraph (A) shall not apply to an alien who is a native or citizen of a country in the Western Hemisphere with whose government the United States does not have full diplomatic relations and who arrives by aircraft at a port of entry.
 
+#### (G) Commonwealth of the Northern Mariana Islands
+
+&emsp;&emsp;Nothing in this subsection shall be construed to authorize or require any person described in section 1158(e) of this title to be permitted to apply for asylum under section 1158 of this title at any time before January 1, 2014.
+
 #### (2) Inspection of other aliens
 
 #### (A) In general
@@ -180,9 +184,11 @@
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
 
 #### Amendments
+
+2008—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
 
 1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
@@ -194,9 +200,13 @@ Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follow
 
 1990—Subsec. (c). Pub. L. 101–649 substituted “subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title” for “paragraph (27), (28), or (29) of section 1182(a) of this title”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–229 effective on the transition program effective date described in section 1806 of Title 48, Territories and Insular Possessions, see section 705(b) of Pub. L. 110–229, set out as an Effective Date note under section 1806 of Title 48.
+
 #### Effective Date of 1996 Amendments
 
-Amendment by section 302(a) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 302(a) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 daysafter Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Section 308(d)(5) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as of Apr. 24, 1996. See Construction of 1996 Amendment note below.
 

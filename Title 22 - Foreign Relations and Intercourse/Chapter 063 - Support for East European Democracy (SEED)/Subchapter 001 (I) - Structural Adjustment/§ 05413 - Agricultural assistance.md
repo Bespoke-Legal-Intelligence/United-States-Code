@@ -28,7 +28,7 @@ Pursuant to section 5411(b)(3) of this title, the United States Government—
 
 #### (c) FY 1990 minimum level of agricultural assistance for Poland
 
-In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year 1990 under section 1431(b) of title 7, the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7 should not be less than $125,000,000. Such assistance—
+In carrying out subsection (b) of this section, the level of assistance for Poland for fiscal year 1990 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7 should not be less than $125,000,000. Such assistance—
 
 &emsp;(1) to the maximum extent practicable, shall be provided through nongovernmental organizations; and
 
@@ -38,11 +38,19 @@ In carrying out subsection (b) of this section, the level of assistance for Pola
 
 Subsection (c) of this section should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
 
-(Pub. L. 101–179, title I, §103, Nov. 28, 1989, 103 Stat. 1303.)
+(Pub. L. 101–179, title I, §103, Nov. 28, 1989, 103 Stat. 1303; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May 18, 1989, 103 Stat. 2450, which is not classified to the Code.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in introductory provisions.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

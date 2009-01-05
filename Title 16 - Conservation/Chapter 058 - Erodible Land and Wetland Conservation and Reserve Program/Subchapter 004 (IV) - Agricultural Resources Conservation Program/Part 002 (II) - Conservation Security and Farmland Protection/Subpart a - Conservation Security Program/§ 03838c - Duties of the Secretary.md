@@ -136,13 +136,5 @@ For each of fiscal years 2003 through 2007, the Secretary shall provide technica
 
 #### Prior Provisions
 
-Prior sections 3838c to 3838f were repealed by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
-
-Section 3838c, Pub. L. 99–198, title XII, §1238C, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3594, related to lands eligible for enrollment in water quality protection program.
-
-Section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3595, related to technical assistance for water quality protection.
-
-Section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs.
-
-Section 3838f, Pub. L. 99–198, title XII, §1238F, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to report to Congress.
+A prior section 3838c, Pub. L. 99–198, title XII, §1238C, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3594, related to lands eligible for enrollment in water quality protection program, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 

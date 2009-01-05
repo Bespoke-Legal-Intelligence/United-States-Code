@@ -2,7 +2,7 @@
 
 #### (a) Homosexuality and bisexuality
 
-For purposes of the definition of “disability” in section 12102(2) of this title, homosexuality and bisexuality are not impairments and as such are not disabilities under this chapter.
+For purposes of the definition of “disability” in section 12102(2) <sup>1</sup> of this title, homosexualityand bisexuality are not impairments and as such are not disabilities under this chapter.
 
 #### (b) Certain conditions
 
@@ -14,5 +14,17 @@ Under this chapter, the term “disability” shall not include—
 
 &emsp;(3) psychoactive substance use disorders resulting from current illegal use of drugs.
 
-(Pub. L. 101–336, title V, §511, July 26, 1990, 104 Stat. 376.)
+(Pub. L. 101–336, title V, §512, formerly §511, July 26, 1990, 104 Stat. 376; renumbered §512, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+Section 12102 of this title, referred to in subsec. (a), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, provisions formerly appearing in par. (2) are now contained in par. (1).
+
+#### Prior Provisions
+
+A prior section 512 of Pub. L. 101–336, which amended former section 706 of Title 29, Labor, was renumbered section 513.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

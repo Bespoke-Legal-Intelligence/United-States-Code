@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
 
-&emsp;(4) There is a national emergency resulting from the activities of international narcoticstraffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
+&emsp;(4) There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
 
 #### (b) Policy
 
@@ -30,5 +30,5 @@ Pub. L. 106–120, title VIII, §811, Dec. 3, 1999, 113 Stat. 1636, provided tha
 
 #### Short Title
 
-Pub. L. 106–120, title VIII, §801, Dec. 3, 1999, 113 Stat. 1626, provided that: “This title \[enacting this chapter and amending section 1182 of Title 8, Aliens and Nationality\] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
+Pub. L. 106–120, title VIII, §801, Dec. 3, 1999, 113 Stat. 1626, provided that: “This title \[enacting this chapterand amending section 1182 of Title 8, Aliens and Nationality\] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
 

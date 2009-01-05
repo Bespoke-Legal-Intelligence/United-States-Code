@@ -80,7 +80,7 @@ The Administrator, acting through the Program and subject to the availability of
 
 &emsp;&emsp;(A) review each marine debris project proposal to determine if it meets the grant criteria and supports the goals of this chapter;
 
-&emsp;&emsp;(B) after considering any written comments and recommendations based on the review, approve or disapprove the proposal; and
+&emsp;&emsp;(B) after considering any written comments and recommendations based on thereview, approve or disapprove the proposal; and
 
 &emsp;&emsp;(C) provide notification of that approval or disapproval to the person who submitted the proposal.
 
@@ -94,5 +94,5 @@ The Administrator, acting through the Program and subject to the availability of
 
 This chapter, referred to in subsec. (c)(3), (6)(A), was in the original “this Act”, meaning Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3333, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(5)(B), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16,Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(5)(B), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 

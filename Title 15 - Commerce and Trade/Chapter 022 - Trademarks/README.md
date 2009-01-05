@@ -65,7 +65,7 @@
 | [1126\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001126%20-%20International%20conventions.md) | International conventions. |
 | [1127\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001127%20-%20Construction%20and%20definitions%3B%20intent%20of%20chapter.md) | Construction and definitions; intent of chapter. |
 | [1128\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001128%20-%20National%20Intellectual%20Property%20Law%20Enforcement%20Coordination%20Council.md) | National Intellectual Property Law Enforcement Coordination Council. |
-| [1129\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001129%20-%20Cyberpiracy%20protections%20for%20individuals.md) | Cyberpiracy protections for individuals. |
+| [1129\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001129%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

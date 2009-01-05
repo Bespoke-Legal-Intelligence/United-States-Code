@@ -18,7 +18,7 @@
 
 #### (b) Notification to Congress
 
-Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury toprohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
+Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
 
 #### (c) Importation of fish products from offending country prohibited
 
@@ -74,7 +74,7 @@ As used in this section—
 
 &emsp;&emsp;(B) attempt to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect.
 
-(Aug. 27, 1954, ch. 1018, §8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, §2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, §3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, §8, Nov. 23,1988, 102 Stat. 4772; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, §201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, §1002(d), June 25, 1999, 113 Stat. 133.)
+(Aug. 27, 1954, ch. 1018, §8, as added Pub. L. 92–219, Dec. 23, 1971, 85 Stat. 786; amended Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–376, §2, Sept. 18, 1978, 92 Stat. 714; Pub. L. 96–61, §3(b), Aug. 15, 1979, 93 Stat. 408; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–711, §8, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–582, title II, §201, Nov. 2, 1992, 106 Stat. 4904; Pub. L. 106–36, title I, §1002(d), June 25, 1999, 113 Stat. 133.)
 
 #### References in Text
 

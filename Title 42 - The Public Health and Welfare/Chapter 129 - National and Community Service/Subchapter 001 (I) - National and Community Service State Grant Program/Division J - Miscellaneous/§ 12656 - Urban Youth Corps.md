@@ -4,7 +4,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The rehabilitation, reclamation, and beautification of urban public housing, recreational sites, youth and senior centers, and public roads and public works facilities through the efforts of young people in the United States in an Urban Youth Corps canbenefit these youths, while also benefiting their communities, by—
+&emsp;(1) The rehabilitation, reclamation, and beautification of urban public housing, recreational sites, youth and senior centers, and public roads and public works facilities through the efforts of young people in the United States in an Urban Youth Corps can benefit these youths, while also benefiting their communities, by—
 
 &emsp;&emsp;(A) providing them with education and work opportunities;
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### (3) Service projects
 
-&emsp;The Secretaries may each utilize the Corps or any qualified urban youth corps to carryout appropriate service projects that the Secretary involved is authorized to carry out under other authority of law involving public housing projects or public works resources or facilities.
+&emsp;The Secretaries may each utilize the Corps or any qualified urban youth corps to carry out appropriate service projects that the Secretary involved is authorized to carry out under other authority of law involving public housing projects or public works resources or facilities.
 
 #### (4) Preference for certain projects
 
@@ -120,7 +120,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (1) Projects by qualified urban youth corps
 
-&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
+&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of anyappropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
 
 #### (2) Donations
 

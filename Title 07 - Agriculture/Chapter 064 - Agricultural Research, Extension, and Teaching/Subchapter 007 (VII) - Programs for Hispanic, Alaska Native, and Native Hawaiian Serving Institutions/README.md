@@ -28,4 +28,5 @@ Section 3282, Pub. L. 95–113, title XIV, §1457, Sept. 29, 1977, 91 Stat. 1015
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03241 - Education grants programs for Hispanic-serving institutions](%C2%A7%2003241%20-%20Education%20grants%20programs%20for%20Hispanic-serving%20institutions.md)
-- [&sect; 03242 - Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions](%C2%A7%2003242%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md)
+- [&sect; 03242 - Transferred](%C2%A7%2003242%20-%20Transferred.md)
+- [&sect; 03243 - Hispanic-serving agricultural colleges and universities](%C2%A7%2003243%20-%20Hispanic-serving%20agricultural%20colleges%20and%20universities.md)

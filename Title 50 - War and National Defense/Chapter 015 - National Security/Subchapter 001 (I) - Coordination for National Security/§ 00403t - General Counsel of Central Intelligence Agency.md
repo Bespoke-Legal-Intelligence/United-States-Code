@@ -20,7 +20,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–458 struck out “of Central Intelligence” after “Director”.
 
 #### Effective Date of 2004 Amendment
 

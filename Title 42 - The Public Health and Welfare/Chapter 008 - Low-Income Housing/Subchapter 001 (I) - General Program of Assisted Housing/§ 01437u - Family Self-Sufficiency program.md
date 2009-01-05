@@ -36,7 +36,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;Subject to paragraph (4), each public housing agency required to carry out a local program under this section shall make the following housing assistance available under the program in each fiscal year:
 
-&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (<i>o</i>) of this title, inan amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
+&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (<i>o</i>) of this title, in an amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
 
 &emsp;&emsp;(B) Public housing dwelling units, in the number equal to the increase for such year in units made available by the agency (as compared to the preceding year).
 
@@ -212,7 +212,7 @@ In establishing and carrying out the self-sufficiency program under this section
 
 #### (2) HUD annual report
 
-&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1). The report under this paragraph shall also include any recommendations of the Secretary for improving the effectiveness of the self-sufficiency program under this section.
+&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1). The report under this paragraph shall also include any recommendations of the Secretaryfor improving the effectiveness of the self-sufficiency program under this section.
 
 #### (m) GAO report
 

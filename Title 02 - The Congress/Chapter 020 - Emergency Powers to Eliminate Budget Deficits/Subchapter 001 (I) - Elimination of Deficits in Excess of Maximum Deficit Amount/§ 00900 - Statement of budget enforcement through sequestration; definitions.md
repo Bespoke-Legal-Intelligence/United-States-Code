@@ -254,6 +254,10 @@ Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19)
 
 1990—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
 
+#### Change of Name
+
+References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
@@ -276,7 +280,7 @@ In General.—
 
 “(b)
 
-Expiration.—Sections 251, 253, 258B, and 271(b) of this Act \[sections 901, 903, and 907c of this title and provisions set out as a note below\], and sections 1105(f) and 1106(c) of title 31, United States Code, shall expire September 30, 2002. The remaining sections of part C of this title \[enacting this subchapter\] shall expire September 30, 2006.
+Expiration.—Sections 251, 253, 258B, and 271(b) of this Act \[sections 901, 903, and 907c of this title and provisions set out as a note below\], and sections 1105(f) and1106(c) of title 31, United States Code, shall expire September 30, 2002. The remaining sections of part C of this title \[enacting this subchapter\] shall expire September 30, 2006.
 
 “(c)
 
@@ -286,7 +290,7 @@ OASDI Trust Funds.—The amendments made by part D \[amending section 911 of Tit
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title \[enacting sections 645and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
+Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the ‘Budget Enforcement Act of 1997’.”
 
 #### Short Title of 1990 Amendment
 
@@ -330,13 +334,13 @@ Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended b
 
 #### Appeals of Rulings
 
-Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall berequired in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\].”
 
 \[For effective date of section 271(c) of Pub. L. 99–177, see section 275(a)(1) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note above.\]
 
 #### Exercise of Congressional Rulemaking Power
 
-Pub. L. 103–66, title XIV, §14004, Aug. 10, 1993, 107 Stat. 685, provided that: “The Congress enacts the provisions of this part \[probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this sectionand section 902 of this title, and amending provisions set out as notes under section 665 of this title\]—
+Pub. L. 103–66, title XIV, §14004, Aug. 10, 1993, 107 Stat. 685, provided that: “The Congress enacts the provisions of this part \[probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this section and section 902 of this title, and amending provisions set out as notes under section 665 of this title\]—
 
 &emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such these provisions shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -396,13 +400,13 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (c) <i>Status of Amounts in Fund</i>. (i) The amounts in the Deficit Reduction Fund shall be used exclusively to redeem maturing debt obligations of the Treasury of the United States held by foreign governments in the amounts specified in subsection (b).
 
-(ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
+(ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcementprocedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 
 (d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
-Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management andBudget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
+Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of the Office of Management and Budget shall each take such actions as may be necessary, within their respective authorities, promptly to carry out this order.
 
 Sec. 5. <i>Effective Date</i>. This order shall take effect upon enactment of the Omnibus Budget Reconciliation Act of 1993 \[Aug. 10, 1993\].
 

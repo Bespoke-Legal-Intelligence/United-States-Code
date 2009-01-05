@@ -24,7 +24,7 @@
 
 (3) Such assessment shall include specific examples and comparisons from each of the regions of the United States where Indian forest lands are located.
 
-(4) The initial assessment required by this subsection shall be completed no later than 36 months following November 28, 1990. Upon completion, the assessment shall be submitted to the Committee on Natural Resources of the United States House of Representatives and the Committee on Indian Affairs of the UnitedStates Senate and shall be made available to Indian tribes.
+(4) The initial assessment required by this subsection shall be completed no later than 36 months following November 28, 1990. Upon completion, the assessment shall be submitted to the Committee on Natural Resources of the United States House of Representatives and the Committee on Indian Affairs of the United States Senate and shall be made available to Indian tribes.
 
 #### (b) Periodic assessments
 

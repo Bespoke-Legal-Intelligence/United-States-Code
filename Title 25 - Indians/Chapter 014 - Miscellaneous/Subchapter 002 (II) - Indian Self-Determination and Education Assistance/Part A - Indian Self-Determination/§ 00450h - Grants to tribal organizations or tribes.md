@@ -16,7 +16,7 @@ The Secretary of Health and Human Services may, in accordance with regulations a
 
 &emsp;(1) the development, construction, operation, provision, or maintenance of adequate health facilities or services including the training of personnel for such work, from funds appropriated to the Indian Health Service for Indian health services or Indian health facilities; or
 
-&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity of a tribal organization to enter into a contract or contracts pursuant to section 450g <sup>2</sup> of this title.
+&emsp;(2) planning, training, evaluation or other activities designed to improve the capacity ofa tribal organization to enter into a contract or contracts pursuant to section 450g <sup>2</sup> of this title.
 
 #### (c) Use as matching shares for other similar Federal grant programs
 
@@ -36,7 +36,7 @@ The Secretary is directed, upon the request of any tribal organization and subje
 
 The Secretary is authorized, upon the request of an Indian tribe, to make a grant to any tribal organization for—
 
-&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessaryfor contract management, and the development of cost allocation plans for indirect cost rates; and
+&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessary for contract management, and the development of cost allocation plans for indirect cost rates; and
 
 &emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 

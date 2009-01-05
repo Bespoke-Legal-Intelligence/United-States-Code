@@ -8,15 +8,17 @@ Except as provided in subsection (b) of this section, any person having an inter
 
 &emsp;(2) against the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this chapter which is not discretionary with the Secretary;
 
-&emsp;(3) against the Secretary of the Treasury where there is alleged a failure of the Secretary of the Treasury to take action under section 1908(e) of this title.
+&emsp;(3) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary; or
+
+&emsp;(4) against the Secretary of the Treasury where there is alleged a failure of the Secretary of the Treasury to take action under section 1908(e) of this title.
 
 #### (b) Commencement conditions
 
 No action may be commenced under subsection (a) of this section—
 
-&emsp;(1) prior to 60 days after the plaintiff has given notice, in writing and under oath, to the alleged violator, the Secretary concerned, and the Attorney General; or
+&emsp;(1) prior to 60 days after the plaintiff has given notice, in writing and under oath, to the alleged violator, the Secretary concerned or the Administrator, and the Attorney General; or
 
-&emsp;(2) if the Secretary has commenced enforcement or penalty action with respect to the alleged violation and is conducting such procedures diligently.
+&emsp;(2) if the Secretary or the Administrator has commenced enforcement or penalty action with respect to the alleged violation and is conducting such procedures diligently.
 
 #### (c) Venue
 
@@ -38,5 +40,13 @@ The court, in issuing any final order in any action brought pursuant to this sec
 
 In any action brought under this section, if the Secretary or Attorney General are not parties of record, the United States, through the Attorney General, shall have the right to intervene.
 
-(Pub. L. 96–478, §11, Oct. 21, 1980, 94 Stat. 2302.)
+(Pub. L. 96–478, §11, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 110–280, §12, July 21, 2008, 122 Stat. 2615.)
+
+#### Amendments
+
+2008—Subsec. (a)(3), (4). Pub. L. 110–280, §12(1), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b)(1). Pub. L. 110–280, §12(2), substituted “concerned or the Administrator,” for “concerned,”.
+
+Subsec. (b)(2). Pub. L. 110–280, §12(3), inserted “or the Administrator” after “Secretary”.
 

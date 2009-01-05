@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(D) require such entity to utilize such strategies and activities; and
 
-&emsp;&emsp;(E) develop, in consultation with the entity, a plan to incorporate strategies andmethodologies, based on scientifically based research, to improve the specific program or method of instruction provided to limited English proficient children.
+&emsp;&emsp;(E) develop, in consultation with the entity, a plan to incorporate strategies and methodologies, based on scientifically based research, to improve the specific program or method of instruction provided to limited English proficient children.
 
 #### (4) Accountability
 

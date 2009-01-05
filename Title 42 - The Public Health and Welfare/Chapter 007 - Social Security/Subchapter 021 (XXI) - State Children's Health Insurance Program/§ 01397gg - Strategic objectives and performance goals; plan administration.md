@@ -34,7 +34,7 @@
 
 #### (1) Data collection, records, and reports
 
-&emsp;A State child health plan shall include an assurance that the State will collect the data, maintain the records, and furnish the reports to the Secretary, at the times and in the standardized format the Secretary may require in order to enable the Secretary to monitor State program administration and compliance and to evaluate and compare the effectiveness of State plans under this subchapter.
+&emsp;A State child health plan shall include an assurance that the State will collect the data,maintain the records, and furnish the reports to the Secretary, at the times and in the standardized format the Secretary may require in order to enable the Secretary to monitor State program administration and compliance and to evaluate and compare the effectiveness of State plans under this subchapter.
 
 #### (2) State assessment and study
 

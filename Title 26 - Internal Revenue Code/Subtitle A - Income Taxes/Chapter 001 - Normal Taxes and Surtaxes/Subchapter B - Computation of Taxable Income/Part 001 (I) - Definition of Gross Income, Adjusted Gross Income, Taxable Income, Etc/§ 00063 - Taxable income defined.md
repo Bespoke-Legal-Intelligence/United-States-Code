@@ -20,9 +20,13 @@ For purposes of this subtitle—
 
 &emsp;Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
 
-&emsp;&emsp;(A) the basic standard deduction, and
+&emsp;&emsp;(A) the basic standard deduction,
 
-&emsp;&emsp;(B) the additional standard deduction.
+&emsp;&emsp;(B) the additional standard deduction,
+
+&emsp;&emsp;(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction, and
+
+&emsp;&emsp;(D) the disaster loss deduction.
 
 #### (2) Basic standard deduction
 
@@ -75,6 +79,20 @@ For purposes of this subtitle—
 &emsp;&emsp;(D) an estate or trust, common trust fund, or partnership,
 
 > &emsp;the standard deduction shall be zero.
+
+#### (7) Real property tax deduction
+
+&emsp;For purposes of paragraph (1), the real property tax deduction is the lesser of—
+
+&emsp;&emsp;(A) the amount allowable as a deduction under this chapter for State and local taxes described in section 164(a)(1), or
+
+&emsp;&emsp;(B) $500 ($1,000 in the case of a joint return).
+
+> &emsp;Any taxes taken into account under section 62(a) shall not be taken into account under this paragraph.
+
+#### (8) Disaster loss deduction
+
+&emsp;For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
 
 #### (d) Itemized deductions
 
@@ -136,11 +154,11 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922.)
 
-#### Standard Deduction Adjustments for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional</i><i>amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2008, see section 3.11 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -151,6 +169,16 @@ For purposes of this section, marital status shall be determined under section 7
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2008—Subsec. (c)(1)(C). Pub. L. 110–343, §204(a), inserted “or 2009” after “2008”.
+
+Pub. L. 110–289, §3012(a), added subpar. (C).
+
+Subsec. (c)(1)(D). Pub. L. 110–343, §706(b)(1), added subpar. (D).
+
+Subsec. (c)(7). Pub. L. 110–289, §3012(b), added par. (7).
+
+Subsec. (c)(8). Pub. L. 110–343, §706(b)(2), added par. (8).
 
 2004—Subsec. (c)(2). Pub. L. 108–311, §§101(b)(1), 105, temporarily reenacted heading without change and amended text generally, substituting provisions relating to a specific percentage for provisions relating to applicable percentage in subpar. (A), redesignating subpar. (D) as (C), and deleting former subpar. (C) relating to married individuals filing separately. See Effective and Termination Dates of 2004 Amendment note below.
 
@@ -285,6 +313,14 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 1978—Pub. L. 95–600 substituted “$3,400” for “$3,200” in par. (1), “$2,300” for “$2,200” in par. (2), and “$1,700” for “$1,600” in par. (3).
 
 1977—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title II, §204(b), Oct. 3, 2008, 122 Stat. 3865, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+
+Amendment by section 706(b)(1), (2) of Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
+
+Pub. L. 110–289, div. C, title I, §3012(c), July 30, 2008, 122 Stat. 2892, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
 #### Effective and Termination Dates of 2004 Amendment
 

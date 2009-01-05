@@ -34,7 +34,7 @@ Benefits Not To Be Construed as Accruing.—(1) Authority provided to an officer
 
 (d)
 
-Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
+Limitation on Number of Officers Frocked to Specified Grades.—(1) The totalnumber of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
 
 (2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
@@ -68,5 +68,5 @@ Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, pro
 
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 
-Pub. L. 104–106, div. A, title V, §503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration offormer subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
+Pub. L. 104–106, div. A, title V, §503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
 

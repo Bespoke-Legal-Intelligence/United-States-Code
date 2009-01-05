@@ -1,6 +1,6 @@
 ### §1182. Boards of inquiry
 
-(a) The Secretary of the military department concerned shall convene boards of inquiry at such times and places as the Secretary may prescribe to receive evidence and make findings and recommendations as to whether an officer whois required under section 1181 of this title to show cause for retention on active duty should be retained on active duty. Each board of inquiry shall be composed of not less than three officers having the qualifications prescribed by section 1187 of this title.
+(a) The Secretary of the military department concerned shall convene boards of inquiry at such times and places as the Secretary may prescribe to receive evidence and make findings and recommendations as to whether an officer who is required under section 1181 of this title to show cause for retention on active duty should be retained on active duty. Each board of inquiry shall be composed of not less than three officers having the qualifications prescribed by section 1187 of this title.
 
 (b) A board of inquiry shall give a fair and impartial hearing to each officer required under section 1181 of this title to show cause for retention on active duty.
 

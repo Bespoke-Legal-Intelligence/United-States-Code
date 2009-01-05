@@ -28,7 +28,7 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 #### (1) In general
 
-&emsp;An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+&emsp;An appeal filed with a credit review committee under this section may include, as a partof the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
 #### (2) Arrangement and cost
 
@@ -62,7 +62,7 @@ Subsec. (d)(1). Pub. L. 100–399, §103(b), inserted “or (2)”.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Effective Date of 1985 Amendment
 

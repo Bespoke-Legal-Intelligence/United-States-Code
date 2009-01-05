@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have pooremployment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the “Secretary”) may establish an older American community service employment program.
+&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the “Secretary”) may establish an older American community service employment program.
 
 #### (2) Use of appropriated amounts
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B)(i) will provide community service employment and other authorized activities for eligible individuals in the community in which such individuals reside, or in nearby communities; or
 
-&emsp;&emsp;(ii) if such project is carried out by a tribal organization that receives a grant under this subsection or receives assistance from a State that receives a grant under this subsection, will provide community service employment and other authorized activities for such individuals, including those who are Indians residing on an Indian reservation, as defined in section 3501 of title 25;
+&emsp;&emsp;(ii) if such project is carried out by a tribal organization that receives a grant under thissubsection or receives assistance from a State that receives a grant under this subsection, will provide community service employment and other authorized activities for such individuals, including those who are Indians residing on an Indian reservation, as defined in section 3501 of title 25;
 
 &emsp;&emsp;(C) will comply with an average participation cap for eligible individuals (in the aggregate) of—
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) the prevailing rates of pay for individuals employed in similar public occupations by the same employer;
 
-&emsp;&emsp;(K) will be established or administered with the advice of persons competent in thefield of service in which community service employment or other authorized activities are being provided, and of persons who are knowledgeable about the needs of older individuals;
+&emsp;&emsp;(K) will be established or administered with the advice of persons competent in the field of service in which community service employment or other authorized activities are being provided, and of persons who are knowledgeable about the needs of older individuals;
 
 &emsp;&emsp;(L) will authorize payment for necessary supportive services costs (including transportation costs) of eligible individuals that may be incurred in training in any project funded under this subchapter, in accordance with rules issued by the Secretary;
 
@@ -112,7 +112,7 @@
 
 #### (3) Use of funds for administrative costs
 
-&emsp;Of the grant amount to be paid under this subsection by the Secretary for a project, notto exceed 13.5 percent shall be available for any fiscal year to pay the administrative costs of such project, except that—
+&emsp;Of the grant amount to be paid under this subsection by the Secretary for a project, not to exceed 13.5 percent shall be available for any fiscal year to pay the administrative costs of such project, except that—
 
 &emsp;&emsp;(A) the Secretary may increase the amount available to pay the administrative costs to an amount not to exceed 15 percent of the grant amount if the Secretary determines, based on information submitted by the grantee under subsection (b), that such increase is necessary to carry out such project; and
 
@@ -130,7 +130,7 @@
 
 &emsp;For purposes of this subchapter, administrative costs are the costs, both personnel-related and nonpersonnel-related and both direct and indirect, associated with the following:
 
-&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for the coordination of functions, such as the costs of—
+&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for thecoordination of functions, such as the costs of—
 
 &emsp;&emsp;&emsp;(i) accounting, budgeting, and financial and cash management;
 
@@ -266,7 +266,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§9201 et seq.) of Title 20, Education, and chapter 30 (§2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§9201 et seq.) of Title 20, Education, and chapter 30 (§2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act isclassified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 

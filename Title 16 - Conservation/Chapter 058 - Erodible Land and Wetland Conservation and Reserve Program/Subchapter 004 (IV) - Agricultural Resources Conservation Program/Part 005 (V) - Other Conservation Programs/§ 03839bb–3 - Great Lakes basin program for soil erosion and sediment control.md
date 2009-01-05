@@ -1,20 +1,42 @@
 ### §3839bb–3. Great Lakes basin program for soil erosion and sediment control
 
-#### (a) In general
+#### (a) Program authorized
 
-The Secretary, in consultation with the Great Lakes Commission created by Article IV of the Great Lakes Basin Compact (82 Stat. 415) and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army, may carry out the Great Lakes basin program for soil erosion and sediment control (referred to in this section as the “program”).
+The Secretary may carry out the Great Lakes basin program for soil erosion and sediment control (referred to in this section as the “program”), including providing assistance to implement the recommendations of the Great Lakes Regional Collaboration Strategy to Restore and Protect the Great Lakes.
 
-#### (b) Assistance
+#### (b) Consultation and cooperation
+
+The Secretary shall carry out the program in consultation with the Great Lakes Commission created by Article IV of the Great Lakes Basin Compact (82 Stat. 415) and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army.
+
+#### (c) Assistance
 
 In carrying out the program, the Secretary may—
 
-&emsp;(1) provide project demonstration grants, provide technical assistance, and carry out information and education programs to improve water quality in the Great Lakes basin by reducing soil erosion and improving sediment control; and
+&emsp;(1) provide project demonstration grants, provide technical assistance, and carry out information and educational programs to improve water quality in the Great Lakes basin by reducing soil erosion and improving sediment control; and
 
-&emsp;(2) provide a priority for projects and activities that directly reduce soil erosion or improve sediment control.
+&emsp;(2) establish a priority for projects and activities that—
 
-#### (c) Authorization of appropriations
+&emsp;&emsp;(A) directly reduce soil erosion or improve sediment control;
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2007.
+&emsp;&emsp;(B) reduce soil loss in degraded rural watersheds; or
 
-(Pub. L. 99–198, title XII, §1240P, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267.)
+&emsp;&emsp;(C) improve water quality for downstream watersheds.
+
+#### (d) Authorization of appropriations
+
+There is authorized to be appropriated to the Secretary to carry out the program $5,000,000 for each of fiscal years 2008 through 2012.
+
+(Pub. L. 99–198, title XII, §1240P, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2604, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2604, June 18, 2008, 122 Stat. 1664, 1796.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Pub. L. 110–246, §2604, amended section generally. Prior to amendment, section related to: in subsec. (a), authorization to carry out the Great Lakes basin program for soil erosion and sediment control in consultation with the Great Lakes Commission and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army; in subsec. (b), provision of assistance and prioritization of projects; and, in subsec. (c), appropriations for fiscal years 2002 through 2007.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

@@ -32,7 +32,7 @@ Scope.—The National ITS program plan shall—
 
 (b)
 
-Reporting.—The National ITS program plan shall be submitted and biennially updatedas part of the transportation research and development strategic plan developed under section 508.
+Reporting.—The National ITS program plan shall be submitted and biennially updated as part of the transportation research and development strategic plan developed under section 508.
 
 (Added Pub. L. 109–59, title V, §5301(a), Aug. 10, 2005, 119 Stat. 1804.)
 
@@ -330,7 +330,7 @@ Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1
 
 &emsp;&emsp;“(A) projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508 of title 23, United States Code; or
 
-&emsp;&emsp;“(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
+&emsp;&emsp;“(B) the upgrade or expansion of an intelligent transportation system in existence on the date ofenactment of this Act \[Aug. 10, 2005\] if the Secretary determines that the upgrade or expansion—
 
 &emsp;&emsp;&emsp;“(i) would not adversely affect the goals or purposes of this subtitle \[subtitle C (§§5301–5310) of title V of Pub. L. 109–59, enacting this section and section 513 of this title\];
 

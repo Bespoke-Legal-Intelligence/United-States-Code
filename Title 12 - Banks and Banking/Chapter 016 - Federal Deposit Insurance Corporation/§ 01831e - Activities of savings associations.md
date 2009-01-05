@@ -52,7 +52,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (2) Exception for securities held by qualified affiliate
 
-&emsp;Paragraph (1) shall not apply with respect to any corporate debt security not of investmentgrade which is acquired and retained by any qualified affiliate of a savings association.
+&emsp;Paragraph (1) shall not apply with respect to any corporate debt security not of investment grade which is acquired and retained by any qualified affiliate of a savings association.
 
 #### (3) Transition rule
 
@@ -62,7 +62,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (B) Treatment of noncompliance during divestment
 
-&emsp;&emsp;With respect to any corporate debt security not of investment grade held by any savings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
+&emsp;&emsp;With respect to any corporate debt security not of investment grade held by anysavings association or subsidiary on August 9, 1989, the savings association or subsidiary shall be deemed not to be in violation of the prohibition in paragraph (1) on retaining such investment so long as the association or subsidiary complies with any applicable requirement established by the Corporation pursuant to subparagraph (A) for divesting such securities.
 
 #### (4) Definitions
 
@@ -124,7 +124,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;&emsp;(ii) determined that the transfer represents a complete and effective divestiture of the corporate debt security not of investment grade and is in compliance with the provisions of this subsection; and
 
-&emsp;&emsp;(G) any gain on the sale of the corporate debt security not of investment grade is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on thenote in cash in excess of the fair market value of the transferred corporate debt security not of investment grade as carried on the accounts of the insured savings association immediately prior to the transfer.
+&emsp;&emsp;(G) any gain on the sale of the corporate debt security not of investment grade is recognized, and included for applicable regulatory capital requirements, by the insured savings association only at such time and to the extent that the insured savings association receives payment of principal on the note in cash in excess of the fair market value of the transferred corporate debt security not of investment grade as carried on the accounts of the insured savings association immediately prior to the transfer.
 
 #### (3) “Qualified note” defined
 

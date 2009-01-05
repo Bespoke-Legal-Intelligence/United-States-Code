@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, contracts awarded after us
 
 #### (b) Barred contracts; fee limitation; determination of use; advance notification
 
-The cost-plus-a-percentage-of-cost system of contracting shall not be used, and in the case of a cost-plus-a-fixed-fee contract the fee shall not exceed 10 percent of the estimated cost of the contract, exclusive of the fee, as determined by the agency head at the time of entering into such contract (except that a fee not in excess of15 percent of such estimated cost is authorized in any such contract for experimental, developmental, or research work and that a fee inclusive of the contractor's costs and not in excess of 6 percent of the estimated cost, exclusive of fees, as determined by the agency head at the time of entering into the contract, of the project to which such fee is applicable is authorized in contracts for architectural or engineering services relating to any public works or utility project). All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract thereunder on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract; and a procuring agency, through any authorized representative thereof, shall have the right to inspect the plans and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
+The cost-plus-a-percentage-of-cost system of contracting shall not be used, and in the case of a cost-plus-a-fixed-fee contract the fee shall not exceed 10 percent of the estimated cost of the contract, exclusive of the fee, as determined by the agency head at the time of entering into such contract (except that a fee not in excess of 15 percent of such estimated cost is authorized in any such contract for experimental, developmental, or research work and that a fee inclusive of the contractor's costs and not in excess of 6 percent of the estimated cost, exclusive of fees, as determined by the agency head at the time of entering into the contract, of the project to which such fee is applicable is authorized in contracts for architectural or engineering services relating to any public works or utility project). All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract thereunder on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract; and a procuring agency, through any authorized representative thereof, shall have the right to inspect the plans and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 
 (June 30, 1949, ch. 288, title III, §304, 63 Stat. 395; Oct. 31, 1951, ch. 652, 65 Stat. 700; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 89–607, §2, Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §§2712, 2714(a)(2), (3), July 18, 1984, 98 Stat. 1181, 1184; Pub. L. 103–355, title I, §§1071, 1251(a)(1), title II, §2251(b), title IV, §§4103(c), 4402(c), title VIII, §8204(b), title X, §10005(e), Oct. 13, 1994, 108 Stat. 3270, 3278, 3320, 3341, 3349, 3396, 3408.)
 
@@ -48,6 +48,58 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
+#### Regulations on the Use of Cost-Reimbursement Contracts
+
+Pub. L. 110–417, \[div. A\], title VIII, §864, Oct. 14, 2008, 122 Stat. 4549, provided that:
+
+“(a)
+
+In General.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be revised to address the use of cost-reimbursement contracts.
+
+“(b)
+
+Content.—The regulations promulgated under subsection (a) shall include, at a minimum, guidance regarding—
+
+&emsp;“(1) when and under what circumstances cost-reimbursement contracts are appropriate;
+
+&emsp;“(2) the acquisition plan findings necessary to support a decision to use cost-reimbursement contracts; and
+
+&emsp;“(3) the acquisition workforce resources necessary to award and manage cost-reimbursement contracts.
+
+“(c)
+
+Inspector General Review.—Not later than one year after the regulations required by subsection (a) are promulgated, the Inspector General for each executive agency shall review the use of cost-reimbursement contracts by such agency for compliance with such regulations and shall include the results of the review in the Inspector General's next semiannual report.
+
+“(d)
+
+Report.—Subject to subsection (f), the Director of the Office of Management and Budget shall submit an annual report to Congressional committees identified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies. The report shall be submitted no later than March 1 and shall cover the fiscal year ending September 30 of the prior year. The report shall include—
+
+&emsp;“(1) the total number and value of contracts awarded and orders issued during the covered fiscal year;
+
+&emsp;“(2) the total number and value of cost-reimbursement contracts awarded and orders issued during the covered fiscal year; and
+
+&emsp;“(3) an assessment of the effectiveness of the regulations promulgated pursuant to subsection (a) in ensuring the appropriate use of cost-reimbursement contracts.
+
+“(e)
+
+Congressional Committees Defined.—The report required by subsection (d) shall be submitted to the Committee on Oversight and Government Reform of the House of Representatives; the Committee on Homeland Security and Governmental Affairs of the Senate; the Committees on Appropriations of the House of Representatives and the Senate; and, in the case of the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and the House of Representatives.
+
+“(f)
+
+Requirements Limited to Certain Agencies and Years.—
+
+&emsp;“(1)
+
+Agencies.—The requirement in subsection (c) shall apply only to those executive agencies that awarded contracts or issued orders (under contracts previously awarded) in a total amount of at least $1,000,000,000 in the fiscal year proceeding the fiscal year in which the assessments and reports are submitted.
+
+&emsp;“(2)
+
+Years.—The report required by subsection (d) shall be submitted from March 1, 2009, until March 1, 2014.
+
+“(g)
+
+Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
 #### Exemption of Functions
 
 Functions authorized by Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
@@ -66,13 +118,13 @@ Ex. Ord. No. 13201, Feb. 17, 2001, 66 F.R. 11221, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
 
-Section 1. (a) This order is designed to promote economy and efficiency in Government procurement. When workers are better informed of their rights, including their rights under the Federal labor laws, their productivity is enhanced. The availability of such a workforce from which the United States may draw facilitates theefficient and economical completion of its procurement contracts.
+Section 1. (a) This order is designed to promote economy and efficiency in Government procurement. When workers are better informed of their rights, including their rights under the Federal labor laws, their productivity is enhanced. The availability of such a workforce from which the United States may draw facilitates the efficient and economical completion of its procurement contracts.
 
 (b) The Secretary of Labor (Secretary) shall be responsible for the administration and enforcement of this order. The Secretary shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to achieve the purposes of this order.
 
 Sec. 2. (a) Except in contracts exempted in accordance with section 3 of this order, all Government contracting departments and agencies shall, to the extent consistent with law, include the following provisions in every Government contract, other than collective bargaining agreements as defined in 5 U.S.C. 7103(a)(8) and purchases under the “Simplified Acquisition Threshold” as defined in the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
-“1. During the term of this contract, the contractor agrees to post a notice, of such size and in such form as the Secretary of Labor shall prescribe, in conspicuous places in and about its plants and offices, including all places where notices to employees are customarily posted. The notice shall include the following information (except that the last sentence shall not be included in notices posted in the plants or offices of carriers subject to the Railway Labor Act, as amended (45 U.S.C. 151-188)):
+“1. During the term of this contract, the contractor agrees to post a notice, of such size and in such formas the Secretary of Labor shall prescribe, in conspicuous places in and about its plants and offices, including all places where notices to employees are customarily posted. The notice shall include the following information (except that the last sentence shall not be included in notices posted in the plants or offices of carriers subject to the Railway Labor Act, as amended (45 U.S.C. 151-188)):
 
 “NOTICE TO EMPLOYEES
 

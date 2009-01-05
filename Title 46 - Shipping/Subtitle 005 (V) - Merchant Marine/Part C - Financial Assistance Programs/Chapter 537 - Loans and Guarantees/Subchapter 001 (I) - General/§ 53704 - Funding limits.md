@@ -22,7 +22,7 @@ Definition.—In this subsection, the term “cost” has the meaning given that
 
 &emsp;(2)
 
-System of risk categories.—The Secretary shall—
+System of risk categories.—The Secretary or Administrator shall—
 
 &emsp;&emsp;(A) establish, and update annually, a system of risk categories for obligations guaranteed under this chapter that categorizes the relative risk of guarantees based on the risk factors set forth in paragraph (4);
 
@@ -36,11 +36,11 @@ Use of system.—
 
 &emsp;&emsp;(A)
 
-Placing obligation in category.—Before making a guarantee under this chapter for an obligation, and annually for projects subject to a guarantee, the Secretary shall apply the risk factors specified in paragraph (4) to place the obligation in a risk category established under paragraph (2).
+Placing obligation in category.—Before making a guarantee under this chapter for an obligation, and annually for projects subject to a guarantee, the Secretary or Administrator shall apply the risk factors specified in paragraph (4) to place the obligation in a risk category established under paragraph (2).
 
 &emsp;&emsp;(B)
 
-Reduction of available amount.—The Secretary shall consider the total amount available to the Secretary for making guarantees under this chapter to be reduced by the amount determined by multiplying—
+Reduction of available amount.—The Secretary or Administrator shall consider the total amount available to the Secretary or Administrator for making guarantees under this chapter to be reduced by the amount determined by multiplying—
 
 &emsp;&emsp;&emsp;(i) the amount guaranteed under this chapter for an obligation; by
 
@@ -52,7 +52,7 @@ Estimated cost.—The estimated cost to the United States Government of a guaran
 
 &emsp;&emsp;(D)
 
-Restriction on further guarantees.—The Secretary may not guarantee obligations under this chapter after the total amount available to the Secretary under appropriations laws for the cost of loan guarantees is considered to be reduced to zero under subparagraph (B).
+Restriction on further guarantees.—The Secretary or Administrator may not guarantee obligations under this chapter after the total amount available to the Secretary or Administrator under appropriations laws for the cost of loan guarantees is considered to be reduced to zero under subparagraph (B).
 
 &emsp;(4)
 
@@ -80,11 +80,7 @@ Risk factors.—The risk factors referred to in this subsection are—
 
 &emsp;&emsp;(K) the concentration risk presented by an unduly large percentage of loans outstanding by any one borrower or group of affiliated borrowers.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1604; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsec. (c) of this section was derived from section 1273(h) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1273(h) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1604; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -111,4 +107,12 @@ June 29, 1936, ch. 858, title XI, §1103(f), as added June 23, 1938, ch. 600, §
 46 App.:1273(h).
 
 June 29, 1936, ch. 858, title XI, §1103(h), as added Pub. L. 104–239, §13(a), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, title XXXV, §3528(b), Nov. 24, 2003, 117 Stat. 1802.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.
+
+Subsec. (c). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(h) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3522(b).See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 

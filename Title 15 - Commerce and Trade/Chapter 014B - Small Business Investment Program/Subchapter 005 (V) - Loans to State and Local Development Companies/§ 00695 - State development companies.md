@@ -6,7 +6,7 @@ The Congress hereby finds and declares that the purpose of this subchapter is to
 
 #### (b) Loans; obligations of development companies
 
-The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shallbe in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
+The Administration is authorized to make loans to State development companies to assist in carrying out the purposes of this chapter. Any funds advanced under this subsection shall be in exchange for obligations of the development company which bear interest at such rate, and contain such other terms, as the Administration may fix, and funds may be so advanced without regard to the use and investment by the development company of funds secured by it from other sources.
 
 #### (c) Maximum loans to development companies
 
@@ -32,7 +32,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(E) expansion of small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, especially service-disabled veterans, as defined in such section 632(q) of this title,
 
-&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, plan retooling, conversion to robotics, or competition with imports,
+&emsp;&emsp;(F) enhanced economic competition, including the advancement of technology, planretooling, conversion to robotics, or competition with imports,
 
 &emsp;&emsp;(G) changes necessitated by Federal budget cutbacks, including defense related industries,
 

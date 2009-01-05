@@ -12,9 +12,15 @@
 
 (b) Subsection (a) does not apply to the conduct of a person who is or has been a victim of a severe form of trafficking in persons, as defined in section 103 of the Trafficking Victims Protection Act of 2000, if that conduct is caused by, or incident to, that trafficking.
 
-(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1488.)
+(c) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
+
+(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, §222(b)(6), Dec. 23, 2008, 122 Stat. 5070.)
 
 #### References in Text
 
 Section 103 of the Trafficking Victims Protection Act of 2000, referred to in subsecs. (a)(3) and (b), is classified to section 7102 of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 

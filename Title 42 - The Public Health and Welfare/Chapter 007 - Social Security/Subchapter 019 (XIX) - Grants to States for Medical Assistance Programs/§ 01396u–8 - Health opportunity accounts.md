@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans underthis subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a “State demonstration program”.
+&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans under this subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a “State demonstration program”.
 
 #### (2) Initial demonstration
 
@@ -148,7 +148,7 @@
 
 #### (5) Overriding cost sharing and comparability requirements for alternative benefits
 
-&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396<i>o</i> and 1396<i>o</i>–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. Theprovisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
+&emsp;The provisions of this subchapter relating to cost sharing for benefits (including sections 1396<i>o</i> and 1396<i>o</i>–1 of this title) shall not apply with respect to benefits to which the annual deductible under paragraph (1)(A) applies. The provisions of section 1396a(a)(10)(B) of this title (relating to comparability) shall not apply with respect to the provision of alternative benefits (as described in this subsection).
 
 #### (6) Treatment as medical assistance
 
@@ -206,7 +206,7 @@
 
 #### (ii) Indexing of dollar limitations
 
-&emsp;&emsp;&emsp;For each year after 2006, the dollar amounts specified in clause (i)(III) shall be annually increased by the Secretary by a percentage that reflects the annual percentage increase in the medical care component of the consumer price index for all urban consumers.
+&emsp;&emsp;&emsp;For each year after 2006, the dollar amounts specified in clause (i)(III) shall beannually increased by the Secretary by a percentage that reflects the annual percentage increase in the medical care component of the consumer price index for all urban consumers.
 
 #### (iii) Budget neutral adjustment
 

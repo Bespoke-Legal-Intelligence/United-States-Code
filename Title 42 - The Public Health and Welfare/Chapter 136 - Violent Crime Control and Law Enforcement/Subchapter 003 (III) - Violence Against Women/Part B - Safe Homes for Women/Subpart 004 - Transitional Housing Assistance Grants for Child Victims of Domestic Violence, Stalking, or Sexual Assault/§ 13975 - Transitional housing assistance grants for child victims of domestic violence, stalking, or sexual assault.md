@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting in consultation with the Director of the Violence Against Women Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the “recipient”) to carry out programs to provide assistance to minors, adults, and their dependents—
+The Attorney General, acting in consultation with the Director of the Violence AgainstWomen Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the “recipient”) to carry out programs to provide assistance to minors, adults, and their dependents—
 
 &emsp;(1) who are homeless, or in need of transitional housing or other housing assistance, as a result of fleeing a situation of domestic violence, dating violence, sexual assault, or stalking; and
 
@@ -86,7 +86,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(D) the type of support services provided to each minor, adult, or dependent, assisted under this section; and
 
-&emsp;&emsp;(E) the client population served and the number of individuals requesting services that the transitional housing program is unable to serve as a result of a lack of resources.
+&emsp;&emsp;(E) the client population served and the number of individuals requesting servicesthat the transitional housing program is unable to serve as a result of a lack of resources.
 
 #### (f) Report to Congress
 

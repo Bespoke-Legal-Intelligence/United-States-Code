@@ -26,17 +26,21 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act 
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–6, §1, Feb. 26, 2007, 121 Stat. 61, provided that: “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–237, title II, §201, June 22, 2004, 118 Stat. 665, provided that: “This title \[amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
+Pub. L. 108–237, title II, §201, June 22, 2004, 118 Stat. 665, provided that: “This title \[amending this sectionand sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title IV, §14101, Nov. 2, 2002, 116 Stat. 1921, provided that: “This title \[amending sections 3, 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of thistitle, enacting provisions set out as a note under section 3 of this title, amending provisions set out as notes under this section and section 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation\] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
+Pub. L. 107–273, div. C, title IV, §14101, Nov. 2, 2002, 116 Stat. 1921, provided that: “This title \[amending sections 3, 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 3 of this title, amending provisions set out as notes under this section and section 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation\] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
 
 #### Short Title of 2001 Amendment
 
@@ -134,7 +138,7 @@ Person.—The term ‘person’ has the meaning given it in subsection (a) of th
 
 “(a)
 
-In General.—Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of aclaimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
+In General.—Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
 
 “(b)
 
@@ -348,7 +352,7 @@ In general.—The Comptroller General shall conduct a study of the effect of the
 
 &emsp;“(2)
 
-Consultation.—The Comptroller General shall have final authority to determine the content of thestudy under paragraph (1), but in determining the content of the study, the Comptroller General shall consult with—
+Consultation.—The Comptroller General shall have final authority to determine the content of the study under paragraph (1), but in determining the content of the study, the Comptroller General shall consult with—
 
 &emsp;&emsp;“(A) the institutions of higher education participating under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) (referred to in this Act \[see Short Title of 2001 Amendment note above\] as the ‘participating institutions’);
 
@@ -430,7 +434,7 @@ In general.—For the purpose of completing the study under subsection (a)(1), a
 
 Non-participating institutions.—Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection.”
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648, provided that:
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566, provided that:
 
 “(a)
 
@@ -472,7 +476,7 @@ Definitions.—For purposes of this section—
 
 “(d)
 
-Expiration.—Subsection (a) shall expire on September 30, 2008.”
+Expiration.—Subsection (a) shall expire on September 30, 2015.”
 
 \[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997.”\]
 

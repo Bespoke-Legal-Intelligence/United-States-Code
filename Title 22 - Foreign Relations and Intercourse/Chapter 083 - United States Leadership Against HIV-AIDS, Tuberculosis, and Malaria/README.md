@@ -25,6 +25,8 @@
 | :--- | ---: |
 | [7621\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007621%20-%20Sense%20of%20Congress%20on%20public-private%20partnerships.md) | Sense of Congress on public-private partnerships. |
 | [7622\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007622%20-%20Participation%20in%20the%20Global%20Fund%20to%20Fight%20AIDS%2C%20Tuberculosis%20and%20Malaria.md) | Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria. |
+| [7623\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007623%20-%20Combating%20HIV-AIDS%2C%20tuberculosis%2C%20and%20malaria%20by%20strengthening%20health%20policies%20and%20health%20systems%20of%20partner%20countries.md) | Combating HIV/AIDS, tuberculosis, and malaria by strengthening health policies and health systems of partner countries. |
+| [7624\.](Subchapter%20002%20%28II%29%20-%20Support%20for%20Multilateral%20Funds%2C%20Programs%2C%20and%20Public-Private%20Partnerships/%C2%A7%2007624%20-%20Facilitating%20vaccine%20development.md) | Facilitating vaccine development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,9 +37,10 @@
 |  |  |
 | :--- | ---: |
 | [7631\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007631%20-%20Assistance%20to%20combat%20HIV-AIDS.md) | Assistance to combat HIV/AIDS. |
+| [7631a.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007631a%20-%20United%20States%20Agency%20for%20International%20Development.md) | United States Agency for International Development. |
 | [7632\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007632%20-%20Authorization%20of%20appropriations%20to%20combat%20tuberculosis.md) | Authorization of appropriations to combat tuberculosis. |
-| [7633\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007633%20-%20Authorization%20of%20appropriations%20to%20combat%20malaria.md) | Authorization of appropriations to combat malaria. |
-| [7634\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007634%20-%20Pilot%20program%20for%20the%20placement%20of%20health%20care%20professionals%20in%20overseas%20areas%20severely%20affected%20by%20HIV-AIDS%2C%20tuberculosis%2C%20and%20malaria.md) | Pilot program for the placement of health care professionals in overseas areas severely affected by HIV/AIDS, tuberculosis, and malaria. |
+| [7633\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007633%20-%20Assistance%20to%20combat%20malaria.md) | Assistance to combat malaria. |
+| [7634\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007634%20-%20Malaria%20response%20Coordinator.md) | Malaria response Coordinator. |
 | [7635\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007635%20-%20Report%20on%20treatment%20activities%20by%20relevant%20executive%20branch%20agencies.md) | Report on treatment activities by relevant executive branch agencies. |
 | [7636\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20A%20-%20General%20Assistance%20and%20Programs/%C2%A7%2007636%20-%20Study%20on%20illegal%20diversions%20of%20prescription%20drugs.md) | Study on illegal diversions of prescription drugs. |
 
@@ -47,11 +50,11 @@
 
 |  |  |
 | :--- | ---: |
-| [7651\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007651%20-%20Findings.md) | Findings. |
-| [7652\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007652%20-%20Policy%20and%20requirements.md) | Policy and requirements. |
-| [7653\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007653%20-%20Annual%20reports%20on%20prevention%20of%20mother-to-child%20transmission%20of%20the%20HIV%20infection.md) | Annual reports on prevention of mother-to-child transmission of the HIV infection. |
-| [7654\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007654%20-%20Pilot%20program%20of%20assistance%20for%20children%20and%20families%20affected%20by%20HIV-AIDS.md) | Pilot program of assistance for children and families affected by HIV/AIDS. |
-| [7655\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Children%20and%20Families/%C2%A7%2007655%20-%20Pilot%20program%20on%20family%20survival%20partnerships.md) | Pilot program on family survival partnerships. |
+| [7651\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Women%2C%20Children%2C%20and%20Families/%C2%A7%2007651%20-%20Findings.md) | Findings. |
+| [7652\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Women%2C%20Children%2C%20and%20Families/%C2%A7%2007652%20-%20Policy%20and%20requirements.md) | Policy and requirements. |
+| [7653\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Women%2C%20Children%2C%20and%20Families/%C2%A7%2007653%20-%20Annual%20reports%20on%20prevention%20of%20mother-to-child%20transmission%20of%20the%20HIV%20infection.md) | Annual reports on prevention of mother-to-child transmission of the HIV infection. |
+| [7654\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Women%2C%20Children%2C%20and%20Families/%C2%A7%2007654%20-%20Pilot%20program%20of%20assistance%20for%20children%20and%20families%20affected%20by%20HIV-AIDS.md) | Pilot program of assistance for children and families affected by HIV/AIDS. |
+| [7655\.](Subchapter%20003%20%28III%29%20-%20Bilateral%20Efforts/Part%20B%20-%20Assistance%20for%20Women%2C%20Children%2C%20and%20Families/%C2%A7%2007655%20-%20Pilot%20program%20on%20family%20survival%20partnerships.md) | Pilot program on family survival partnerships. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

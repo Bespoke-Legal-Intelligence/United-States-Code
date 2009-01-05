@@ -140,13 +140,19 @@ Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct
 
 Section 263(a), (b) of Pub. L. 93–415, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(<i>l</i>) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: “This Act \[enacting sections 5714–25 and 5732–1 of this title and amending sections 5701, 5711, 5712, 5714–2, 5714–23, 5714–41, 5732a, and 5751 of this title\] may be cited as the ‘Reconnecting Homeless Youth Act of 2008’.”
+
+Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: “This Act \[amending sections 5771, 5773, and 5777 of this title and repealing section 5776a of this title\] may be cited as the ‘Protecting Our Children Comes First Act of 2007’.”
+
 #### Short Title of 2003 Amendments
 
 Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title, amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–273, div. C, title II, §12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, enacting subchapter V of this chapter, parts C to E of subchapter II of this chapter, and sections 5677 to 5681 of this title, redesignating part J of subchapter II of this chapter as part F of subchapter II of this chapter,amending this section and sections 5602, 5603, 5612, 5614, 5616, 5617, 5631 to 5633, 5671, 5672, 5674, 5675, 5773, 13002, 13003, 13013, and 13023 of this title, repealing parts C to I of subchapter II of this chapter, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
+Pub. L. 107–273, div. C, title II, §12201, Nov. 2, 2002, 116 Stat. 1869, provided that: “This subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, enacting subchapter V of this chapter, parts C to E of subchapter II of this chapter, and sections 5677 to 5681 of this title, redesignating part J of subchapter II of this chapter as part F of subchapter II of this chapter, amending this section and sections 5602, 5603, 5612, 5614, 5616, 5617, 5631 to 5633, 5671, 5672, 5674, 5675, 5773, 13002, 13003, 13013, and 13023 of this title, repealing parts C to I of subchapter II of this chapter, and enacting provisions set out as notes under this section\] may be cited as the ‘Juvenile Justice and Delinquency Prevention Act of 2002’.”
 
 #### Short Title of 1999 Amendment
 
@@ -166,7 +172,7 @@ Section 610 of Pub. L. 98–473 provided that: “This Division \[division II (�
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632 to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
+Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617 of this title, amending this section and sections 5602, 5603, 5611, 5612, 5614 to 5616, 5632to 5634, 5637, 5638, 5651, 5654 to 5656, 5659 to 5661, 5671, 5672, 5711 to 5713, 5715, and 5751 of this title, repealing former section 5617 and sections 5618 and 5619 of this title, and enacting provisions set out as notes under this section and section 5633 of this title\] may be cited as the ‘Juvenile Justice Amendments of 1980’.”
 
 #### Short Title of 1977 Amendment
 

@@ -28,7 +28,7 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Amendments
 
-1986—Subsecs. (c), (d). Pub. L. 99–569 added subsecs. (c) and (d).
+<b>1986</b>—Subsecs. (c), (d). Pub. L. 99–569 added subsecs. (c) and (d).
 
 #### Change of Name
 

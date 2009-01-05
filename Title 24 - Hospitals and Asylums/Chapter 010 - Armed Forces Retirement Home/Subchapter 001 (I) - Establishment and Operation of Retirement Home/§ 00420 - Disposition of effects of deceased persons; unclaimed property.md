@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 104–316, §202(j)(2), substituted “Secretary of Defense
 
 &emsp;“(1) A will or other paper involving property rights shall be promptly delivered to the proper court of record.
 
-&emsp;“(2) If the heirs or legal representative of the deceased cannot sooner be ascertained, the Directors shall retain the remaining effects until three years after the death of the deceased, and then, if a right to the effects is established to the satisfaction of the Directors, shall deliver the effects to the living person highest on the following list who can be found:
+&emsp;“(2) If the heirs or legal representative of the deceased cannot sooner be ascertained, the Directorsshall retain the remaining effects until three years after the death of the deceased, and then, if a right to the effects is established to the satisfaction of the Directors, shall deliver the effects to the living person highest on the following list who can be found:
 
 &emsp;&emsp;“(A) The surviving spouse or legal representative.
 

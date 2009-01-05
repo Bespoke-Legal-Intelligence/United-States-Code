@@ -10,7 +10,7 @@
 
 &emsp;In addition to such other information as the Secretary of State may consider appropriate, the report under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) The number of persons residing in the United States who enjoy full immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
+&emsp;&emsp;(A) The number of persons residing in the United States who enjoy full immunity fromthe criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
 
 &emsp;&emsp;(B) Each case involving an alien described in subparagraph (A) in which an appropriate authority of a State, a political subdivision of a State, or the United States reported to the Department of State that the authority had reasonable cause to believe the alien committed a serious criminal offense within the United States, and any additional information provided to the Secretary relating to other serious criminal offenses that any such authority had reasonable cause to believe the alien committed before the period covered by the report. The Secretary may omit from such report any matter the provision of which the Secretary reasonably believes would compromise a criminal investigation or prosecution or which would directly compromise law enforcement or intelligence sources or methods.
 

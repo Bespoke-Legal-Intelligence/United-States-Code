@@ -36,7 +36,7 @@ For purposes of this section, the term “installment method” means a method u
 
 #### (2) Time and manner for making election
 
-&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect to a disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
+&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect toa disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
 
 #### (3) Election revocable only with consent
 
@@ -122,7 +122,7 @@ For purposes of this section, the term “installment method” means a method u
 
 #### (8) Extension of statute of limitations
 
-&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such assessment.
+&emsp;The period for assessing a deficiency with respect to a first disposition (to the extent such deficiency is attributable to the application of this subsection) shall not expire before the day which is 2 years after the date on which the person making the first disposition furnishes (in such manner as the Secretary may by regulations prescribe) a notice that there was a second disposition of the property to which this subsection may have applied. Such deficiency may be assessed notwithstanding theprovisions of any law or rule of law which would otherwise prevent such assessment.
 
 #### (f) Definitions and special rules
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the total contract price shall be reduced to take into account the amount of any property permitted to be received in such exchange without recognition of gain,
 
-&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account anyamount not recognized by reason of section 1031(b), and
+&emsp;&emsp;(B) the gross profit from such exchange shall be reduced to take into account any amount not recognized by reason of section 1031(b), and
 
 &emsp;&emsp;(C) the term “payment”, when used in any provision of this section other than subsection (b)(1), shall not include any property permitted to be received in such exchange without recognition of gain.
 
@@ -308,7 +308,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (B) Real property
 
-&emsp;&emsp;Any disposition of real property which is held by the taxpayer for sale to customers in the ordinary course of the taxpayer's trade or business.
+&emsp;&emsp;Any disposition of real property which is held by the taxpayer for sale to customers inthe ordinary course of the taxpayer's trade or business.
 
 #### (2) Exceptions
 
@@ -342,7 +342,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the taximposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
+&emsp;&emsp;In the case of any installment obligation to which paragraph (2)(B) applies, the tax imposed by this chapter for any taxable year for which payment is received on such obligation shall be increased by the amount of interest determined in the manner provided under subparagraph (B).
 
 #### (B) Computation of interest
 
@@ -372,7 +372,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### Prior Provisions
 
-A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
+A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, Pub. L. 85–866, title I, §27(a), 72 Stat. 1624; Oct. 16, 1962, Pub. L. 87–834, §13(f)(5), 76 Stat. 1035; Feb. 26, 1964, Pub. L. 88–272, title II, §§222(a), 231(b)(5), 78 Stat. 75, 105; Aug. 22, 1964, Pub. L. 88–484, §1(b)(2), 78 Stat. 597; Aug. 31, 1964, Pub. L. 88–539, §3(a), (b), 78 Stat. 746; Sept. 12, 1966, Pub. L. 89–570, §1(b)(5), 80 Stat. 762; Nov. 13, 1966, Pub. L. 89–809, title II, §202(c), 80 Stat. 1576; Dec. 30, 1969, Pub. L. 91–172, title II, §211(b)(5), title III, §301(b)(7), title IV, §412(a), title IX, §916(a), 83 Stat. 570, 585, 608, 723; Oct. 4, 1976, Pub. L. 94–455, title II, §205(c)(1)(E), title XIX, §§1901(a)(66), 1906(b)(13)(A), 1951(b)(7)(A), 90 Stat. 1535, 1775, 1834, 1838; Nov. 6, 1978, Pub. L. 95–600, title VII, §703(j)(3), 92 Stat. 2941; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(4)(H)(iv), 94 Stat. 217; Apr. 2, 1980, Pub. L. 96–223, title IV,§403(b)(2)(B), 94 Stat. 305; Oct. 19, 1980, Pub. L. 96–471, §2(c)(4), 94 Stat. 2254, related to installment method in general, installment method for dealers in personal property, and gain or loss dispositions of installment obligations, prior to repeal by Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247. See sections 453A and 453B of this title.
 
 #### Amendments
 

@@ -46,7 +46,7 @@
 
 &emsp;(C) any negotiations for the purpose of settlement of alleged violations not delay the commencement of a civil enforcement action; and
 
-&emsp;(D) the Department of Justice cooperate in ensuring that activities necessary, including the enforcement of subpoenas, to commence civil enforcement actions are carried out in a timely manner.
+&emsp;(D) the Department of Justice cooperate in ensuring that activities necessary, includingthe enforcement of subpoenas, to commence civil enforcement actions are carried out in a timely manner.
 
 (2) Any failure to comply with the time frames described in paragraph (1)(A) shall not be considered for any purpose in any administrative or judicial proceeding subsequently commenced.
 

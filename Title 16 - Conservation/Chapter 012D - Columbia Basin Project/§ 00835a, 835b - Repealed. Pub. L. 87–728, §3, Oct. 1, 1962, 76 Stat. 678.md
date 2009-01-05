@@ -6,7 +6,7 @@ Section 835b, acts May 27, 1937, ch. 269, §3, 50 Stat. 210; Mar. 10, 1943, ch. 
 
 #### Savings Provision
 
-Section 5(b) of Pub. L. 87–728 provided that: “The rights of any vendee or grantee as defined in section 3of the Columbia Basin Project Act of 1943 \[section 835b of this title\] are hereby preserved as to any transactions that were consummated by contract or deed prior to repeal of said section 3 by this Act.”
+Section 5(b) of Pub. L. 87–728 provided that: “The rights of any vendee or grantee as defined in section 3 of the Columbia Basin Project Act of 1943 \[section 835b of this title\] are hereby preserved as to any transactions that were consummated by contract or deed prior to repeal of said section 3 by this Act.”
 
 #### Amendatory Repayment Contract
 

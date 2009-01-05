@@ -38,7 +38,7 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188.)
+(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27,1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188.)
 
 #### References in Text
 

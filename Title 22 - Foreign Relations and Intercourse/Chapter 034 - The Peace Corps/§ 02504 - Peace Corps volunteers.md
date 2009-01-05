@@ -24,13 +24,13 @@ Volunteers shall receive such health care during their service, applicants for e
 
 &emsp;(A) for the purposes of section 816(a) of the Foreign Service Act of 1980 \[22 U.S.C. 4056(a)\] and every other Act establishing a retirement system for civilian employees of any United States Government agency; and
 
-&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Office of Personnel Management, the Foreign Service Act of 1980\[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period or completion of any service requirement for career appointment.
+&emsp;(B) except as otherwise determined by the President, for the purposes of determining seniority, reduction in force, and layoff rights, leave entitlement, and other rights and privileges based upon length of service under the laws administered by the Office of Personnel Management, the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and every other Act establishing or governing terms and conditions of service of civilian employees of the United States Government: <i>Provided</i>, That service of a volunteer shall not be credited toward completion of any probationary or trial period or completion of any service requirement for career appointment.
 
 (2) For the purposes of paragraph (1)(A) of this subsection, volunteers and volunteer leaders shall be deemed to be receiving compensation during their service at the respective rates of readjustment allowances payable under subsection (c) of this section and section 2505(1) of this title.
 
 #### (g) Assignment to other entities
 
-The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of section 2509(a) of this title on such terms and conditions as he may determine: <i>Provided</i>, That not to exceed two hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: <i>Provided, however</i>, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
+The President may detail or assign volunteers or otherwise make them available to any entity referred to in paragraph (1) of section 2509(a) of this title on such terms and conditions as he may determine: <i>Provided</i>, That not to exceedtwo hundred volunteers may be assigned to carry out secretarial or clerical duties on the staffs of the Peace Corps representatives abroad: <i>Provided, however</i>, That any volunteer so detailed or assigned shall continue to be entitled to the allowances, benefits and privileges of volunteers authorized under or pursuant to this chapter.
 
 #### (h) Tort claims; absentee voting; general average contributions for transportation of baggage; check cashing and currency exchange; claims for overpayment of pay; passport fees
 
@@ -78,7 +78,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified gen
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -150,7 +150,7 @@ Subsec. (k). Pub. L. 88–200, §2(f), added subsec. (k).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into,renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1985 Amendment
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Delegation of Functions
 
-Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions insubsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Evaluation of Health-Care Services Provided to Peace Corps Volunteers
 

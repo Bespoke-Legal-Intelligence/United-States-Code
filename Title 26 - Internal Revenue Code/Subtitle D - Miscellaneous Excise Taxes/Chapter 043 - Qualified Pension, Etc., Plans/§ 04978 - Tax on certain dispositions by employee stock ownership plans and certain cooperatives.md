@@ -44,7 +44,7 @@ The tax imposed by this subsection shall be paid by—
 
 #### (1) Certain distributions to employees
 
-&emsp;This section shall not apply with respect to any distribution of qualified securities (or saleof such securities) which is made by reason of—
+&emsp;This section shall not apply with respect to any distribution of qualified securities (or sale of such securities) which is made by reason of—
 
 &emsp;&emsp;(A) the death of the employee,
 
@@ -170,5 +170,5 @@ Section 545(c) of Pub. L. 98–369 provided that: “The amendments made by this
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

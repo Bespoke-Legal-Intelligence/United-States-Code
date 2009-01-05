@@ -36,7 +36,7 @@ All of the provisions of this section shall apply to individuals satisfying subs
 
 &emsp;(1) in the case of an individual who satisfies subsection (f) of this section by reason of entitlement to disability insurance benefits described in section 426(b) of this title, his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the 25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title) and upon attainment of age 65;
 
-&emsp;(2)(A) in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initialenrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurred in the third month of his initial enrollment period, and
+&emsp;(2)(A) in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initial enrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurred in the third month of his initial enrollment period, and
 
 &emsp;(B) in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
 
@@ -114,7 +114,7 @@ In applying this section in the case of an individual who is entitled to benefit
 
 &emsp;(B) demonstrates health insurance coverage while serving in the program.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Subsec. (i)(2)(B), (C). Pub. L. 103–432, §151(c)(2)(D), inserted “status”
 
 Subsec. (i)(3)(A). Pub. L. 103–432, §151(c)(2)(D), inserted “status” after “current employment”.
 
-Pub. L. 103–432, §147(f)(1)(A), substituted “including each month during any part of which the individual isenrolled” for “beginning with the first day of the first month in which the individual is no longer enrolled” and “ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled” for “and ending seven months later”.
+Pub. L. 103–432, §147(f)(1)(A), substituted “including each month during any part of which the individual is enrolled” for “beginning with the first day of the first month in which the individual is no longer enrolled” and “ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled” for “and ending seven months later”.
 
 Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted “in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual in a large group health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)”.
 
@@ -174,7 +174,7 @@ Subsec. (i)(2)(C), (D). Pub. L. 99–272, §9219(a)(2)(B), added subpar. (C) and
 
 Subsec. (i)(3). Pub. L. 99–509, §9319(c)(3), designated existing provisions as subpar. (A), inserted “the first sentences of” after “referred to in”, and added subpar. (B).
 
-Pub. L. 99–272, §9201(c)(1), amended par. (3) generally, striking out provision that special enrollment period could be period beginning with first day of third month before month in which the individual attains age of 70 and ending seven months later.
+Pub. L. 99–272, §9201(c)(1), amended par. (3) generally, striking out provision that special enrollment periodcould be period beginning with first day of third month before month in which the individual attains age of 70 and ending seven months later.
 
 1984—Subsec. (g)(1). Pub. L. 98–369, §2354(b)(10), substituted “section 426(b) of this title” for “section 426(a)(2)(B) of this title” and “section 1395r(d) of this title” for “section 1395(e) of this title”.
 
@@ -286,7 +286,7 @@ Pub. L. 108–173, title VI, §625(b), Dec. 8, 2003, 117 Stat. 2318, provided th
 
 “(1)
 
-In general.—In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8,2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[this part\] and is a covered beneficiary (as defined in section 1072(5) of title 10, United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
+In general.—In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8, 2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[this part\] and is a covered beneficiary (as defined in section 1072(5) of title 10, United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
 
 “(2)
 

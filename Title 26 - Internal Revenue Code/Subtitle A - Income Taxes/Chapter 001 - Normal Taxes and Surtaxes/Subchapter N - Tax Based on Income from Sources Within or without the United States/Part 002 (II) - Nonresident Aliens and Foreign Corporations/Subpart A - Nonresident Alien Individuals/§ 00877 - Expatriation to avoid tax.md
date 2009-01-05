@@ -146,7 +146,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
+&emsp;&emsp;&emsp;(ii) income derived from such property immediately before such contribution was from sources within the United States (or,if no income was so derived, would have been from such sources),
 
 > &emsp;&emsp;any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
 
@@ -178,13 +178,7 @@ For purposes of subsection (b)—
 
 #### (1) In general
 
-&emsp;Any long-term resident of the United States who—
-
-&emsp;&emsp;(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
-
-&emsp;&emsp;(B) commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country and who does not waive the benefits of such treaty applicable to residents of the foreign country,
-
-> &emsp;shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
+&emsp;Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
 
 #### (2) Long-term resident
 
@@ -210,13 +204,13 @@ For purposes of subsection (b)—
 
 #### (f) Burden of proof
 
-If the Secretary establishes that it is reasonable to believe that an individual's loss ofUnited States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
+If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
 
 #### (g) Physical presence
 
 #### (1) In general
 
-&emsp;This section shall not apply to any individual to whom this section would otherwise apply for any taxable year during the 10-year period referred to in subsection (a) in which such individual is physically present in the United States at any time on more than 30 days in the calendar year ending in such taxable year, and such individual shall be treated for purposes of this title as a citizen or resident of the United States, as the case may be, for such taxable year.
+&emsp;This section shall not apply to any individual to whom this section would otherwise apply for any taxable year during the 10-year period referred to in subsection (a) in which such individual is physically present in the United States at any time on more than 30 days in the calendar year ending in such taxable year, and such individual shall be treatedfor purposes of this title as a citizen or resident of the United States, as the case may be, for such taxable year.
 
 #### (2) Exception
 
@@ -248,17 +242,35 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 &emsp;&emsp;An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship or termination of residency, the individual was physically present in the United States for 30 days or less. The rule of section 7701(b)(3)(D) shall apply for purposes of this subparagraph.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628.)
+#### (h) Termination
 
-#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2008
+This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2008, see section 3.29 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–245, which was approved June 17, 2008.
 
 #### Prior Provisions
 
 A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
+
+2008—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
+
+&emsp;“(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
+
+&emsp;“(B) commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country and who does not waive the benefits of such treaty applicable to residents of the foreign country,
+
+> shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.”
+
+Subsec. (h). Pub. L. 110–245, §301(d), added subsec. (h).
 
 2005—Subsec. (g)(2)(C). Pub. L. 109–135 substituted “section 7701(b)(3)(D)” for “section 7701(b)(3)(D)(ii)”.
 
@@ -334,6 +346,10 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 1974—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 applicable to any individual whose expatriation date is on or after June 17, 2008, see section 301(g)(1) of Pub. L. 110–245, set out as an Effective Date note under section 2801 of this title.
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -356,7 +372,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 &emsp;“(A) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and
 
-&emsp;“(B) long-term residents of the United States with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after February 6, 1995.
+&emsp;“(B) long-term residents of the United States with respect to whom an event described in \[former\] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after February 6, 1995.
 
 “(2)
 

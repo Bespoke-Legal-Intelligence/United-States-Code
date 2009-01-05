@@ -74,7 +74,7 @@
 
 #### (A) Nonrecognition gain or loss
 
-&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property toa REMIC in exchange for regular or residual interests in such REMIC.
+&emsp;&emsp;No gain or loss shall be recognized to the transferor on the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC.
 
 #### (B) Adjusted bases of interests
 

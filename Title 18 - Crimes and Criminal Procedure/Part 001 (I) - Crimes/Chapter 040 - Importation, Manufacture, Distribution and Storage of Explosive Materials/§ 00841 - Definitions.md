@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(a) “Person” means any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 
-&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State andany place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
+&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
@@ -60,7 +60,7 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 2002—Subsec. (d). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
 
-Subsec. (j). Pub. L. 107–296, §1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for alawful purpose, who has obtained a user permit under the provisions of this chapter.”
+Subsec. (j). Pub. L. 107–296, §1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
 
 Subsec. (k). Pub. L. 107–296, §1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 
@@ -80,7 +80,7 @@ Amendment by section 1122(a) of Pub. L. 107–296 effective 180 days after Nov. 
 
 #### Effective Date of 1996 Amendment
 
-Section 607 of title VI of Pub. L. 104–132 provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this title and the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
+Section 607 of title VI of Pub. L. 104–132 provided that: “Except as otherwise provided in this title \[amending this section, sections 842, 844, and 845 of this title, and section 1595a of Title 19, Customs Duties, and enacting provisions set out as a note below\], this titleand the amendments made by this title shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date
 

@@ -42,7 +42,7 @@ The additional research, training, and technical assistance center established u
 
 &emsp;(7) studying the effectiveness of State-sponsored statewide and tribal youth suicide early intervention and prevention strategies on the overall wellness and health promotion strategies related to suicide attempts;
 
-&emsp;(8) promoting the sharing of data regarding youth suicide with Federal agencies involved with youth suicide early intervention and prevention, and State-sponsored statewide or tribal youth suicide early intervention andprevention strategies for the purpose of identifying previously unknown mental health causes and associated risk factors for suicide in youth;
+&emsp;(8) promoting the sharing of data regarding youth suicide with Federal agencies involved with youth suicide early intervention and prevention, and State-sponsored statewide or tribal youth suicide early intervention and prevention strategies for the purpose of identifying previously unknown mental health causes and associated risk factors for suicide in youth;
 
 &emsp;(9) evaluating and disseminating outcomes and best practices of mental and behavioral health services at institutions of higher education; and
 

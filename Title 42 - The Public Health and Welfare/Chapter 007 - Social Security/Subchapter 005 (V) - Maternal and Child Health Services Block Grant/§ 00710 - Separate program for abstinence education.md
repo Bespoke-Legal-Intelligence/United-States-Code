@@ -10,7 +10,7 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 #### (b) Purpose of allotment
 
-(1) The purpose of an allotment under subsection (a) of this section to a State is to enable the State to provide abstinence education, and at the option of the State, where appropriate, mentoring, counseling, and adult supervision to promote abstinence from sexual activity, with a focus on those groups which are most likely to bear children out-of-wedlock.
+(1) The purpose of an allotment under subsection (a) of this section to a State is to enablethe State to provide abstinence education, and at the option of the State, where appropriate, mentoring, counseling, and adult supervision to promote abstinence from sexual activity, with a focus on those groups which are most likely to bear children out-of-wedlock.
 
 (2) For purposes of this section, the term “abstinence education” means an educational or motivational program which—
 

@@ -16,7 +16,7 @@ No firearm may be transferred or made exempt from tax under this section unless 
 
 #### Prior Provisions
 
-A prior section 5853, act Aug. 16, 1954, ch. 736, 68A Stat. 728, related to importing firearms illegally, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(k) of this title and section 922(a) of Title 18, Crimes and Criminal Procedure.
+A prior section 5853, act Aug. 16, 1954, ch. 736, 68A Stat. 728, related to importing firearms illegally, priorto the general revision of this chapter by Pub. L. 90–618. See section 5861(k) of this title and section 922(a) of Title 18, Crimes and Criminal Procedure.
 
 Provisions similar to those comprising this section were contained in prior section 5821, act Aug. 16, 1954, ch. 736, 68A Stat. 724, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, §203(d), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
 

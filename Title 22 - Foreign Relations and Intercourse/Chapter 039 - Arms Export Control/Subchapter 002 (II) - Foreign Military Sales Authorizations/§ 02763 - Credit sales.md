@@ -2,7 +2,7 @@
 
 #### (a) Financing procurement of defense articles and services, and design and construction services
 
-The President is authorized to finance the procurement of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft having possible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
+The President is authorized to finance the procurement of defense articles, defense services, and design and construction services by friendly foreign countries and international organizations, on such terms and conditions as he may determine consistent with the requirements of this section. Notwithstanding any other provision of law, and subject to the regular notification requirements of the Committees on Appropriations, the authority of this section may be used to provide financing to Israel and Egypt for the procurement by leasing (including leasing with an option to purchase) of defense articles from United States commercial suppliers, not including Major Defense Equipment (other than helicopters and other types of aircraft havingpossible civilian application), if the President determines that there are compelling foreign policy or national security reasons for those defense articles being provided by commercial lease rather than by government-to-government sale under this chapter.
 
 #### (b) Repayment period
 
@@ -78,7 +78,7 @@ Section 208(b) of Pub. L. 94–329 provided that: “The amendment made by subse
 
 #### Delegation of Functions
 
-Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretaryof the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section and section 580 of Pub. L. 100–461, see Similar Provisions note below, except those functions relating to determinations of a rate of interest which is less than the market rate, delegated to Secretary of Defense, to be exercised in consultation with Secretary of State and Secretary of the Treasury, by section 1(e) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 #### Similar Provisions
 

@@ -8,7 +8,7 @@ Banks organized or operating under this chapter may merge with banks in other di
 
 &emsp;(2) the respective Boards of Directors of the banks involved;
 
-&emsp;(3) a majority vote of the stockholders of each bank voting, in person or by proxy, at a duly authorized stockholders’ meeting, witheach association having a number of votes equal to the number of such association's voting stockholders; and
+&emsp;(3) a majority vote of the stockholders of each bank voting, in person or by proxy, at a duly authorized stockholders’ meeting, with each association having a number of votes equal to the number of such association's voting stockholders; and
 
 &emsp;(4) in the case of a bank for cooperatives, a majority of the total equity interests in such merging bank for cooperatives (including allocated, but not unallocated, surplus and reserves) held by those stockholders or subscribers to the guaranty fund of the bank voting.
 
@@ -44,7 +44,7 @@ Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under
 
 &emsp;Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
 
-(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652; amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
+(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652;amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) such other matter as any of the committees referred to in section 1221 of this title may refer to it.
 
-(b) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Forceshall report the results of its study and review to each of the committees referred to in section 1221 of this title.
+(b) The Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall report the results of its study and review to each of the committees referred to in section 1221 of this title.
 
 (Pub. L. 93–406, title III, §3022, Sept. 2, 1974, 88 Stat. 999; Pub. L. 94–455, title VIII, §803(i)(1), (2)(A)(iii), Oct. 4, 1976, 90 Stat. 1590, 1591; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

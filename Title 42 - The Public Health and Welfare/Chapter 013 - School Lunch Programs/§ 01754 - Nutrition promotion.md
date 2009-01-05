@@ -72,7 +72,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642
 
 #### Prior Provisions
 
-A prior section 1754, acts June 4, 1946, ch. 281, §5, 60 Stat. 231; July 12, 1952, ch. 699, §1(b), 66 Stat. 591; Sept. 25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; Oct. 15, 1962, Pub. L. 87–823, §3(a), 76 Stat. 945; Nov. 10, 1977, Pub. L. 95–166, §3, 91 Stat. 1332, related to amount, apportionment, etc., for food service equipment assistance, prior to repeal by Pub. L. 97–35, title VIII, §§805(a), 820(a)(4), Aug. 13, 1981, 95 Stat. 527, 534, effective Oct. 1, 1981.
+A prior section 1754, acts June 4, 1946, ch. 281, §5, 60 Stat. 231; July 12, 1952, ch. 699, §1(b), 66 Stat. 591; Sept.25, 1962, Pub. L. 87–688, §3(a), 76 Stat. 587; Oct. 15, 1962, Pub. L. 87–823, §3(a), 76 Stat. 945; Nov. 10, 1977, Pub. L. 95–166, §3, 91 Stat. 1332, related to amount, apportionment, etc., for food service equipment assistance, prior to repeal by Pub. L. 97–35, title VIII, §§805(a), 820(a)(4), Aug. 13, 1981, 95 Stat. 527, 534, effective Oct. 1, 1981.
 
 #### Effective Date
 

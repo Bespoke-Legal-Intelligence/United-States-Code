@@ -18,11 +18,13 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 &emsp;&emsp;(B) $100,000,000 for fiscal year 2003; and
 
-&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2009.
+&emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2011.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594.)
 
 #### Amendments
+
+2008—Subsec. (b)(2)(C). Pub. L. 110–275 substituted “2011” for “2009”.
 
 2007—Subsec. (b)(2)(C). Pub. L. 110–173 substituted “2009” for “2008”.
 
@@ -42,13 +44,15 @@ Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and 
 
 #### Report on Diabetes Grant Programs
 
-Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694, provided that:
+Pub. L. 105–33, title IV, §4923, Aug. 5, 1997, 111 Stat. 574, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §931(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(c), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694; Pub. L. 110–275, title III, §303(c), July 15, 2008, 122 Stat. 2594, provided that:
 
 “(a)
 
 Evaluation.—The Secretary of Health and Human Services shall conduct an evaluation of the diabetes grant programs established under the amendments made by this chapter \[chapter 3 (§§4921–4923) of subtitle J of title IV of Pub. L. 105–33, enacting this section and section 254c–3 of this title\].
 
 “\[(b) Repealed. Pub. L. 109–482, title I, §104(b)(3)(C), Jan. 15, 2007, 120 Stat. 3694.\]”
+
+\[Pub. L. 110–275, §303(c), which directed amendment of section 4923(b) of Pub. L. 105–33 by substituting “a second interim report” for “a final report” in par. (2) and by adding par. (3) at end to read “a report on such evaluation not later than January 1, 2011.”, could not be executed because of prior repeal.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

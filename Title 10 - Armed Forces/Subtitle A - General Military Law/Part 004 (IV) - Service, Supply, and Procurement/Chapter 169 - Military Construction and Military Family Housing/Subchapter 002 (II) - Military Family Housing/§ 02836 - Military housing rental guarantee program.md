@@ -8,7 +8,7 @@ Authority.—Subject to subsection (b), the Secretary of a military department, 
 
 Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
 
-(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
+(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscalyear shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
 
 (c)
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Section 2809(c) of Pub. L. 102–190 provided that: “Section 2836 of title 10, United States Code, as added bysubsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
+Section 2809(c) of Pub. L. 102–190 provided that: “Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date.”
 

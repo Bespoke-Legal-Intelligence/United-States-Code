@@ -24,7 +24,7 @@
 
 &emsp;(2) An elementary or secondary school established pursuant to section 2164 of this title.
 
-(Added Pub. L. 99–661, div. A, title III, §314(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 103–337, div. A, title III, §353(a)–(c)(1), Oct. 5, 1994, 108 Stat. 2731.)
+(Added Pub. L. 99–661, div. A, title III, §314(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L.103–337, div. A, title III, §353(a)–(c)(1), Oct. 5, 1994, 108 Stat. 2731.)
 
 #### References in Text
 

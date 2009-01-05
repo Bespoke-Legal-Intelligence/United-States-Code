@@ -10,7 +10,7 @@
 
 (2) Each foreign country from which a midshipman is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Navy shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.
 
-(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a midshipman under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
+(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a midshipman under paragraph (2). In the case of apartial waiver, the Secretary shall establish the amount waived.
 
 (c)(1) Except as the Secretary of the Navy determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a midshipman at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States.
 
@@ -18,7 +18,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 6958(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat.658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, §534(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, §533(b)(1), (2), Dec. 28, 2001, 115 Stat. 1106.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, §534(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, §533(b)(1), (2), Dec. 28, 2001, 115 Stat. 1106.)
 
 Historical and Revision Notes
 

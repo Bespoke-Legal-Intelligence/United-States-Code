@@ -34,13 +34,13 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the “total sale price”, using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”,and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
 &emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
 
-&emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise, if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
+&emsp;(11) A statement indicating whether or not the consumer is entitled to a rebate of any finance charge upon refinancing or prepayment in full pursuant to acceleration or otherwise,if the obligation involves a precomputed finance charge. A statement indicating whether or not a penalty will be imposed in those same circumstances if the obligation involves a finance charge computed from time to time by application of a rate to the unpaid principal balance.
 
 &emsp;(12) A statement that the consumer should refer to the appropriate contract document for any information such document provides about nonpayment, default, the right to accelerate the maturity of the debt, and prepayment rebates and penalties.
 
@@ -72,13 +72,243 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
-(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208.)
+#### (e) Terms and disclosure with respect to private education loans
+
+#### (1) Disclosures required in private education loan applications and solicitations
+
+&emsp;In any application for a private education loan, or a solicitation for a private educationloan without requiring an application, the private educational lender shall disclose to the borrower, clearly and conspicuously—
+
+&emsp;&emsp;(A) the potential range of rates of interest applicable to the private education loan;
+
+&emsp;&emsp;(B) whether the rate of interest applicable to the private education loan is fixed or variable;
+
+&emsp;&emsp;(C) limitations on interest rate adjustments, both in terms of frequency and amount, or the lack thereof, if applicable;
+
+&emsp;&emsp;(D) requirements for a co-borrower, including any changes in the applicable interest rates without a co-borrower;
+
+&emsp;&emsp;(E) potential finance charges, late fees, penalties, and adjustments to principal, based on defaults or late payments of the borrower;
+
+&emsp;&emsp;(F) fees or range of fees applicable to the private education loan;
+
+&emsp;&emsp;(G) the term of the private education loan;
+
+&emsp;&emsp;(H) whether interest will accrue while the student to whom the private education loan relates is enrolled at a covered educational institution;
+
+&emsp;&emsp;(I) payment deferral options;
+
+&emsp;&emsp;(J) general eligibility criteria for the private education loan;
+
+&emsp;&emsp;(K) an example of the total cost of the private education loan over the life of the loan—
+
+&emsp;&emsp;&emsp;(i) which shall be calculated using the principal amount and the maximum rate of interest actually offered by the private educational lender; and
+
+&emsp;&emsp;&emsp;(ii) calculated both with and without capitalization of interest, if an option exists for postponing interest payments;
+
+&emsp;&emsp;(L) that a covered educational institution may have school-specific education loan benefits and terms not detailed on the disclosure form;
+
+&emsp;&emsp;(M) that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\], in lieu of, or in addition to, a loan from a non-Federal source;
+
+&emsp;&emsp;(N) the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\];
+
+&emsp;&emsp;(O) that, as provided in paragraph (6)—
+
+&emsp;&emsp;&emsp;(i) the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan; and
+
+&emsp;&emsp;&emsp;(ii) except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not be changed by the private educational lender during the period described in clause (i);
+
+&emsp;&emsp;(P) that, before a private education loan may be consummated, the borrower must obtain from the relevant institution of higher education the form required under paragraph (3), and complete, sign, and return such form to the private educational lender;
+
+&emsp;&emsp;(Q) that the consumer may obtain additional information concerning such Federal student financial assistance from their institution of higher education, or at the website of the Department of Education; and
+
+&emsp;&emsp;(R) such other information as the Board shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
+
+#### (2) Disclosures at the time of private education loan approval
+
+&emsp;Contemporaneously with the approval of a private education loan application, and before the loan transaction is consummated, the private educational lender shall disclose to the borrower, clearly and conspicuously—
+
+&emsp;&emsp;(A) the applicable rate of interest in effect on the date of approval;
+
+&emsp;&emsp;(B) whether the rate of interest applicable to the private education loan is fixed or variable;
+
+&emsp;&emsp;(C) limitations on interest rate adjustments, both in terms of frequency and amount, or the lack thereof, if applicable;
+
+&emsp;&emsp;(D) the initial approved principal amount;
+
+&emsp;&emsp;(E) applicable finance charges, late fees, penalties, and adjustments to principal, based on borrower defaults or late payments, including limitations on the discharge of a private education loan in bankruptcy;
+
+&emsp;&emsp;(F) fees or range of fees applicable to the private education loan;
+
+&emsp;&emsp;(G) the maximum term under the private education loan program;
+
+&emsp;&emsp;(H) an estimate of the total amount for repayment, at both the interest rate in effect on the date of approval and at the maximum possible rate of interest offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof;
+
+&emsp;&emsp;(I) any principal and interest payments required while the student for whom the private education loan is intended is enrolled at a covered educational institution and unpaid interest that will accrue during such enrollment;
+
+&emsp;&emsp;(J) payment deferral options applicable to the borrower;
+
+&emsp;&emsp;(K) whether monthly payments are graduated;
+
+&emsp;&emsp;(L) that, as provided in paragraph (6)—
+
+&emsp;&emsp;&emsp;(i) the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan; and
+
+&emsp;&emsp;&emsp;(ii) except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not bechanged by the private educational lender during the period described in clause (i);
+
+&emsp;&emsp;(M) that the borrower—
+
+&emsp;&emsp;&emsp;(i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\], in lieu of, or in addition to, a loan from a non-Federal source; and
+
+&emsp;&emsp;&emsp;(ii) may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
+
+&emsp;&emsp;(N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\];
+
+&emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
+
+&emsp;&emsp;(P) such other information as the Board shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
+
+#### (3) Self-certification of information
+
+#### (A) In general
+
+&emsp;&emsp;Before a private educational lender may consummate a private education loan with respect to a student attending an institution of higher education, the lender shall obtain from the applicant for the private education loan the form developed by the Secretary of Education under section 155 of the Higher Education Act of 1965 \[20 U.S.C. 1019d\], signed by the applicant, in written or electronic form.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;No other provision of this subsection shall be construed to require a private educational lender to perform any additional duty under this paragraph, other than collecting the form required under subparagraph (A).
+
+#### (4) Disclosures at the time of private education loan consummation
+
+&emsp;Contemporaneously with the consummation of a private education loan, a private educational lender shall make to the borrower each of the disclosures described in—
+
+&emsp;&emsp;(A) paragraph (2)(A) (adjusted, as necessary, for the rate of interest in effect on the date of consummation, based on the index used for the loan);
+
+&emsp;&emsp;(B) subparagraphs (B) through (K) and (M) through (P) of paragraph (2); and
+
+&emsp;&emsp;(C) paragraph (7).
+
+#### (5) Format of disclosures
+
+#### (A) Model form
+
+&emsp;&emsp;Not later than 2 years after August 14, 2008, the Board shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue model forms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
+
+#### (B) Format
+
+&emsp;&emsp;Model forms developed under this paragraph shall—
+
+&emsp;&emsp;&emsp;(i) be comprehensible to borrowers, with a clear format and design;
+
+&emsp;&emsp;&emsp;(ii) provide for clear and conspicuous disclosures;
+
+&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to compare such terms among private education loans; and
+
+&emsp;&emsp;&emsp;(iv) be succinct, and use an easily readable type font.
+
+#### (C) Safe harbor
+
+&emsp;&emsp;Any private educational lender that elects to provide a model form developed under this subsection that accurately reflects the practices of the private educational lender shall be deemed to be in compliance with the disclosures required under this subsection.
+
+#### (6) Effective period of approved rate of interest and loan terms
+
+#### (A) In general
+
+&emsp;&emsp;With respect to a private education loan, the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan, and the rates and terms of the loan may not be changed by the private educational lender during that period.
+
+#### (B) Prohibition on changes
+
+&emsp;&emsp;Except for changes based on adjustments to the index used for a loan, the rates and terms of the loan may not be changed by the private educational lender prior to the earlier of—
+
+&emsp;&emsp;&emsp;(i) the date of acceptance of the terms of the loan and consummation of the transaction by the borrower, as described in subparagraph (A); or
+
+&emsp;&emsp;&emsp;(ii) the expiration of the period described in subparagraph (A).
+
+#### (7) Right to cancel
+
+&emsp;With respect to a private education loan, the borrower may cancel the loan, without penalty to the borrower, at any time within 3 business days of the date on which the loan is consummated, and the private educational lender shall disclose such right to the borrower in accordance with paragraph (4).
+
+#### (8) Prohibition on disbursement
+
+&emsp;No funds may be disbursed with respect to a private education loan until the expiration of the 3-day period described in paragraph (7).
+
+#### (9) Board regulations
+
+&emsp;In issuing regulations under this subsection, the Board shall prevent, to the extent possible, duplicative disclosure requirements for private educational lenders that are otherwise required to make disclosures under this subchapter, except that in any case in which the disclosure requirements of this subsection differ or conflict with the disclosure requirements of any other provision of this subchapter, the requirements of this subsection shall be controlling.
+
+#### (10) Definitions
+
+&emsp;For purposes of this subsection, the terms “covered educational institution”, “private educational lender”, and “private education loan” have the same meanings as in section 1650 of this title.
+
+#### (11) Duties of lenders participating in preferred lender arrangements
+
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Board, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Board determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797.)
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 110–289, div. B, title V, §2502(a), (c), July 30, 2008, 122 Stat. 2855, 2857, provided that, effective 12 months after July 30, 2008, subsection (b)(2) of this section is amended as follows, except that subparagraph (C) of subsection (b)(2) of this section shall become effective on the earlier of either the compliance date established by the Board for such purpose, by regulation, or 30 months after July 30, 2008:</i>
+
+<i>(1) by inserting “(A)” before “In the”;</i>
+
+<i>(2) by striking “a residential mortgage transaction, as defined in section 1602(w) of this title” and inserting “any extension of credit that is secured by the dwelling of a consumer”;</i>
+
+<i>(3) by striking “before the credit is extended, or” and inserting “and”;</i>
+
+<i>(4) by inserting “, which shall be at least 7 business days before consummation of the transaction” after “written application”;</i>
+
+<i>(5) by striking “, whichever is earlier”; and</i>
+
+<i>(6) by striking “If the” and all that follows through the end of the paragraph and inserting the following:</i>
+
+<i>“(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A), shall be in addition to the other disclosures required by subsection (a), and shall—</i>
+
+&emsp;<i>“(i) state in conspicuous type size and format, the following: ‘You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.’; and</i>
+
+&emsp;<i>“(ii) be provided in the form of final disclosures at the time of consummation of the transaction, in the form and manner prescribed by this section.</i>
+
+<i>“(C) In the case of an extension of credit that is secured by the dwelling of a consumer, under which the annual rate of interest is variable, or with respect to which the regular payments may otherwise be variable, in addition to the other disclosures required by subsection (a), the disclosures provided under this subsection shall do the following:</i>
+
+&emsp;<i>“(i) Label the payment schedule as follows: ‘Payment Schedule: Payments Will Vary Based on Interest Rate Changes’.</i>
+
+&emsp;<i>“(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Board. Prior to issuing any rules pursuant to this clause, the Board shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.</i>
+
+<i>“(D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.</i>
+
+<i>“(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.</i>
+
+<i>“(F) WAIVER OF TIMELINESS OF DISCLOSURES.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—</i>
+
+&emsp;<i>“(i) the term ‘bona fide personal emergency’ may be further defined in regulations issued by the Board;</i>
+
+&emsp;<i>“(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of all consumers entitled to receive the disclosures required by this paragraph; and</i>
+
+&emsp;<i>“(iii) the creditor provides to the consumers at or before the time of such waiver or modification, the final disclosures required by paragraph (1).</i>
+
+<i>“(G) The requirements of subparagraphs (B), (C), (D) and (E) shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11.”.</i>
+
+<i>Pub. L. 110–343, div. A, title I, §130, Oct. 3, 2008, 122 Stat. 3797, provided that, effective as if included in the amendments made by section 2502 of Pub. L. 110–289, subsection (b)(2) of this section is amended:</i>
+
+<i>(1) in subparagraph (A), by striking “In the case” and inserting “Except as provided in subparagraph (G), in the case”; and</i>
+
+<i>(2) by amending subparagraph (G) to read as follows:</i>
+
+<i>“(G)(i) In the case of an extension of credit relating to a plan described in section 101(53D) of title 11—</i>
+
+&emsp;<i>“(I) the requirements of subparagraphs (A) through (E) shall not apply; and</i>
+
+&emsp;<i>“(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.</i>
+
+<i>“(ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.”.</i>
 
 #### References in Text
 
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–315 added subsec. (e).
 
 2005—Subsec. (a)(15). Pub. L. 109–8, §1302(b)(1)(A), added par. (15).
 
@@ -92,6 +322,34 @@ Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. 
 
 Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. A, title I, §130(b), Oct. 3, 2008, 122 Stat. 3797, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 2502 of the Mortgage Disclosure Improvement Act of 2008 (Public Law 110–289) \[amending this section and section 1640 of this title\].”
+
+Pub. L. 110–315, title X, §1003, Aug. 14, 2008, 122 Stat. 3478, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b) and as otherwise provided in this title \[see Short Title of 2008 Amendment note set out under section 1601 of this title\], this title and the amendments made by this title shall become effective on the date of enactment of this Act \[Aug. 14, 2008\].
+
+“(b)
+
+Effect Notwithstanding Regulations.—Paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, shall become effective on the earlier of the date on which regulations issued under section 1002 \[set out as a note below\] become effective or 18 months after the date of enactment of this Act \[Aug. 14, 2008\].”
+
+Pub. L. 110–289, div. B, title V, §2502(c), July 30, 2008, 122 Stat. 2857, provided that:
+
+“(1)
+
+General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
+
+“(2)
+
+Variable interest rates.—Subparagraph (C) of section 128(b)(2) of the Truth in Lending Act (15 U.S.C. 1638(b)(2)(C)), as added by subsection (a) of this section, shall become effective on the earlier of—
+
+&emsp;“(A) the compliance date established by the Board for such purpose, by regulation; or
+
+&emsp;“(B) 30 months after the date of enactment of this Act \[July 30, 2008\].”
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
@@ -99,4 +357,8 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+
+#### Regulations
+
+Pub. L. 110–315, title X, §1002, Aug. 14, 2008, 122 Stat. 3478, provided that: “Not later than 365 days after thedate of enactment of this Act \[Aug. 14, 2008\], the Board of Governors of the Federal Reserve System shall issue regulations in final form to implement paragraphs (1), (2), (3), (4), (6), (7), and (8) of section 128(e) \[15 U.S.C. 1638(e)\] and section 140(c) of the Truth in Lending Act \[15 U.S.C. 1650(c)\], as added by this title, which regulations shall become effective not later than 6 months after their date of issuance.”
 

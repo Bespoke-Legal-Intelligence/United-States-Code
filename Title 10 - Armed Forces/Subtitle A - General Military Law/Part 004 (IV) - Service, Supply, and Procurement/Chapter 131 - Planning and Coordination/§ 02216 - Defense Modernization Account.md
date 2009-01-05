@@ -20,7 +20,7 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 &emsp;(i) Unexpired funds in appropriations accounts that are available for procurement and that, as a result of economies, efficiencies, and other savings achieved in carrying out a particular procurement, are excess to the requirements of that procurement.
 
-&emsp;(ii) Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and other savings, are excess to the requirements for support of installations and facilities.
+&emsp;(ii) Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and othersavings, are excess to the requirements for support of installations and facilities.
 
 &emsp;(iii) Unexpired funds in appropriations accounts that are available for procurement or operation and maintenance of a system, if and to the extent that savings are achieved for such accounts through reductions in life cycle costs of such system that result from one or more projects undertaken with respect to such systems with funds made available from the Defense Modernization Account under subsection (b)(1).
 

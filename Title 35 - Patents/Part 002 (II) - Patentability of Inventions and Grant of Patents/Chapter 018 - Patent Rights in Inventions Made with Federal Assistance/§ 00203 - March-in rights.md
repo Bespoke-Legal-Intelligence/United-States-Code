@@ -16,7 +16,7 @@
 
 #### References in Text
 
-The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+The Contract Disputes Act of 1978, referred to in subsec. (b), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, asamended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
 
 #### Amendments
 

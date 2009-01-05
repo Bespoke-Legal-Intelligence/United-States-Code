@@ -6,11 +6,11 @@ As soon as practicable after seizure of property, notice in writing shall be giv
 
 #### (b) Notice of sale
 
-The Secretary shall as soon as practicable after the seizure of the property give notice tothe owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
+The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
 
 #### (c) Sale of indivisible property
 
-If any property liable to levy is not divisible, so as to enable the Secretary by sale of a part thereof to raise the whole amount of the tax and expenses, the whole of such property shall be sold.
+If any property liable to levy is not divisible, so as to enable the Secretary by sale of a partthereof to raise the whole amount of the tax and expenses, the whole of such property shall be sold.
 
 #### (d) Time and place of sale
 
@@ -76,7 +76,7 @@ The owner of any property seized by levy may request that the Secretary sell suc
 
 &emsp;&emsp;<b>For restrictions on sale of seized property pending Tax Court decision, see section 6863(b)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 785; Pub. L. 89–719, title I, §104(d), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1570(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title VI, §6236(g), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 105–206, title III, §3441(a), (b), July 22, 1998, 112 Stat. 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 785; Pub. L. 89–719, title I, §104(d), Nov. 2, 1966, 80 Stat. 1137;Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1570(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title VI, §6236(g), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 105–206, title III, §3441(a), (b), July 22, 1998, 112 Stat. 761.)
 
 #### Amendments
 

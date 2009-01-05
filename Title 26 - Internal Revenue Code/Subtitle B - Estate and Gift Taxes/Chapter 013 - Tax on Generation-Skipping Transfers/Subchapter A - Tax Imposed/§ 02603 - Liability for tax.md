@@ -20,7 +20,7 @@ Unless otherwise directed pursuant to the governing instrument by specific refer
 
 #### (c) Cross reference
 
-&emsp;&emsp;<b>For provisions making estate and gift tax provisions with respect to transferee liability, liens, and</b><b>related matters applicable to the tax imposed by section 2601, see section 2661.</b>
+&emsp;&emsp;<b>For provisions making estate and gift tax provisions with respect to transferee liability, liens, and related matters applicable to the tax imposed by section 2601, see section 2661.</b>
 
 (Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1881; amended Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718.)
 

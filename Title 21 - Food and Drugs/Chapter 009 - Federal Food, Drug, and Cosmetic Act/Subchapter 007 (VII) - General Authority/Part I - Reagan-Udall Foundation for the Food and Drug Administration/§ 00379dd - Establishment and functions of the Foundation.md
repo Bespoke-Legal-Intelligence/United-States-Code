@@ -22,7 +22,7 @@ The Foundation shall—
 
 &emsp;(5) recruit meeting participants and hold or sponsor (in whole or in part) meetings as appropriate to further the goals and priorities established under paragraph (2);
 
-&emsp;(6) release and publish information and data and, to the extent practicable, license, distribute, and release material, reagents, and techniques to maximize, promote, and coordinate the availability of such material, reagents, and techniques for use by the Food and Drug Administration, nonprofit organizations, and academic and industrial researchers to further the goals and priorities established under paragraph (2);
+&emsp;(6) release and publish information and data and, to the extent practicable, license, distribute, and release material, reagents, and techniques to maximize, promote, and coordinate the availability of such material, reagents,and techniques for use by the Food and Drug Administration, nonprofit organizations, and academic and industrial researchers to further the goals and priorities established under paragraph (2);
 
 &emsp;(7) ensure that—
 
@@ -212,7 +212,7 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;(7) enter into such other contracts, leases, cooperative agreements, and other transactions as the Board considers appropriate to conduct the activities of the Foundation;
 
-&emsp;(8) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this subchapter;
+&emsp;(8) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
 
 &emsp;(9) take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
 
@@ -228,7 +228,7 @@ The Executive Director may solicit and accept on behalf of the Foundation, any f
 
 #### (j) Service of Federal employees
 
-Federal Government employees may serve on committees advisory to the Foundation andotherwise cooperate with and assist the Foundation in carrying out its functions, so long as such employees do not direct or control Foundation activities.
+Federal Government employees may serve on committees advisory to the Foundation and otherwise cooperate with and assist the Foundation in carrying out its functions, so long as such employees do not direct or control Foundation activities.
 
 #### (k) Detail of Government employees; fellowships
 

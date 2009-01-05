@@ -58,7 +58,7 @@
 
 #### (d) Application; distributors; retailers
 
-Subsection (a) of this section does not apply to a distributor or a retailer of cigarettes who doesnot manufacture, package, or import cigarettes for sale or distribution within the United States.
+Subsection (a) of this section does not apply to a distributor or a retailer of cigarettes who does not manufacture, package, or import cigarettes for sale or distribution within the United States.
 
 (Pub. L. 89–92, §4, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 98–474, §4(a), Oct. 12, 1984, 98 Stat. 2201; Pub. L. 99–92, §11\[(a)\], Aug. 16, 1985, 99 Stat. 402; Pub. L. 99–117, §11(d), Oct. 7, 1985, 99 Stat. 495.)
 

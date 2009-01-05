@@ -30,7 +30,7 @@ If the permitting authority fails, within 90 days after the date of an objection
 
 #### (d) Waiver of notification requirements
 
-(1) The Administrator may waive the requirements of subsections (a) and (b) of this section at the time of approval of a permit programunder this subchapter for any category (including any class, type, or size within such category) of sources covered by the program other than major sources.
+(1) The Administrator may waive the requirements of subsections (a) and (b) of this section at the time of approval of a permit program under this subchapter for any category (including any class, type, or size within such category) of sources covered by the program other than major sources.
 
 (2) The Administrator may, by regulation, establish categories of sources (including any class, type, or size within such category) to which the requirements of subsections (a) and (b) of this section shall not apply. The preceding sentence shall not apply to major sources.
 

@@ -38,7 +38,7 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (e) Administrative, fiscal, and housekeeping services; implementation of relocation plan; reasonable assistance by Federal departments or agencies; report to Congress
 
-(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeepingservices of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibility for completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such department or agency shall provide reasonable assistance so requested.
+(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeeping services of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibility for completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such department or agency shall provide reasonable assistance so requested.
 
 (2) On failure of any agency to provide reasonable assistance as required under paragraph (1) of this subsection, the Commissioner shall report such failure to the Congress.
 

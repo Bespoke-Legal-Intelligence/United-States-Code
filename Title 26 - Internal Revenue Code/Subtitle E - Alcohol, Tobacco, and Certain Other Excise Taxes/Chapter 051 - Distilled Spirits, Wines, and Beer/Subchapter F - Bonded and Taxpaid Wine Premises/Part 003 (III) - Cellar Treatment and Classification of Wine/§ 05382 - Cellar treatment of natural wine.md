@@ -80,7 +80,7 @@ A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 
 2006—Subsec. (a)(1)(A). Pub. L. 109–432 substituted “correct or stabilize” for “stabilize”.
 
-2004—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
+2004—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized asa proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Section 4 of Pub. L. 88–653 provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins morethan 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
+Section 4 of Pub. L. 88–653 provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
 

@@ -36,7 +36,7 @@ Subsection (a) shall not apply to funds for purposes of conducting, or providing
 
 In this section:
 
-&emsp;(1) The term “life extension program” means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2, 2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile.
+&emsp;(1) The term “life extension program” means the program to repair or replace non-nuclear components, or to modify the pit or canned subassembly, of nuclear weapons that are in the nuclear weapons stockpile on December 2,2002, in order to assure that such nuclear weapons retain the ability to meet the military requirements applicable to such nuclear weapons when first placed in the nuclear weapons stockpile.
 
 &emsp;(2) The term “modified nuclear weapon” means a nuclear weapon that contains a pit or canned subassembly, either of which—
 

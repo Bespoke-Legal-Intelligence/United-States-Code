@@ -22,7 +22,7 @@ It is unlawful—
 
 &emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
 
-&emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
+&emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce,any whole live lobster of the species Homarus americanus, that—
 
 &emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
 
@@ -80,7 +80,7 @@ It is unlawful—
 
 > &emsp;unless such vessel is authorized to engage in fishing in the area in which the vessel is operating; and
 
-&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
+&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight inthe manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
 (Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607.)
 

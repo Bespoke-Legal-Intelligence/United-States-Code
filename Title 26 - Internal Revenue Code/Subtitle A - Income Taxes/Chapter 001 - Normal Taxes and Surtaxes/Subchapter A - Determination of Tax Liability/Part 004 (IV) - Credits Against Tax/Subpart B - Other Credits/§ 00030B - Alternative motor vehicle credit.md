@@ -166,7 +166,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &nbsp;2,500 lbs
 
-29\.0 mpg&nbsp;&nbsp;
+29\.0 mpg  
 
 &nbsp;2,750 lbs
 
@@ -232,7 +232,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehiclecredit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
+&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
 
 #### (2) Credit amount
 
@@ -406,7 +406,11 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (ii) Other motor vehicles
 
-&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence,the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+
+#### (D) Exclusion of plug-in vehicles
+
+&emsp;&emsp;Any vehicle with respect to which a credit is allowable under section 30D (determined without regard to subsection (d) thereof) shall not be taken into account under this section.
 
 #### (e) New qualified alternative fuel motor vehicle credit
 
@@ -618,11 +622,11 @@ This section shall not apply to any property purchased after—
 
 &emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838.)
 
 #### References in Text
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classifiedgenerally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and (h)(2), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
@@ -630,9 +634,15 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 #### Amendments
 
+2008—Subsec. (d)(3)(D). Pub. L. 110–343 added subpar. (D).
+
 2005—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
 #### Effective Date of 2005 Amendment
 

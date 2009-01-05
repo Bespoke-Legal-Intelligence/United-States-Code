@@ -8,7 +8,7 @@
 
 &emsp;(C) have not served previously as chief judge.
 
-(2)(A) In any case in which no district judge meets the qualifications of paragraph (1), theyoungest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge.
+(2)(A) In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge.
 
 (B) In any case under subparagraph (A) in which there is no district judge in regular active service who has served as a district judge for one year or more, the district judge in regular active service who is senior in commission and who has not served previously as chief judge shall act as the chief judge.
 

@@ -82,7 +82,7 @@ If a retired participant dies, any annuity accrued and unpaid shall be paid in a
 
 #### (g) Termination of survivor annuity
 
-An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
+An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death ofa survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
 
 &emsp;(1) To the duly appointed executor or administrator of the estate of the survivor annuitant.
 
@@ -96,11 +96,13 @@ A prior section 241 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049;
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–178, §202(a)(11)(A), substituted “A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section” for “A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–178, §202(a)(11)(A), substituted “A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section” for “A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title”.
 
 Subsecs. (f), (g). Pub. L. 103–178, §202(a)(11)(B), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+<i><sup>1</sup></i><i> So in original. The words “of this section 2121(d)” probably should be “of this section or by section 2121(d)”.</i>
 

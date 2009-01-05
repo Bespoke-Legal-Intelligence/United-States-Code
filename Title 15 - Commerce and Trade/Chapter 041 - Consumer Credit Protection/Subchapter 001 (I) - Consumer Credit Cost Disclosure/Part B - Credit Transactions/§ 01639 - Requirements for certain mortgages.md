@@ -76,7 +76,7 @@
 
 #### (d) Limitations after default
 
-A mortgage referred to in section 1602(aa) of this title may not provide for an interest rate applicable after default that is higher than the interest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>1</sup> 1602(aa) of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
+A mortgage referred to in section 1602(aa) of this title may not provide for an interest rate applicable after default that is higher than theinterest rate that applies before default. If the date of maturity of a mortgage referred to in subsection <sup>1</sup> 1602(aa) of this title is accelerated due to default and the consumer is entitled to a rebate of interest, that rebate shall be computed by any method that is not less favorable than the actuarial method (as that term is defined in section 1615(d) of this title).
 
 #### (e) No balloon payments
 

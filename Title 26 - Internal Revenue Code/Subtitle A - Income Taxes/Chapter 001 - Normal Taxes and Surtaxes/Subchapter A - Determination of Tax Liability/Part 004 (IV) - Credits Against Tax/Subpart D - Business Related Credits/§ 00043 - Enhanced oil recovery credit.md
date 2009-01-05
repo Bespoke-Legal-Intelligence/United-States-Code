@@ -130,11 +130,15 @@ For purposes of this section—
 
 (Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
 
+#### Inflation Adjusted Items for Certain Tax Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
+
 #### Prior Provisions
 
 A prior section 43 was renumbered section 32 of this title.
 
-Another prior section 43 was renumbered section 36 of this title.
+Another prior section 43 was renumbered section 37 of this title.
 
 #### Amendments
 
@@ -183,4 +187,34 @@ In general.—The amendments made by this section \[enacting this section and am
 “(2)
 
 Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990.”
+
+#### Inflation Adjusted Items for Certain Tax Years
+
+Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+2008—Internal Revenue Notice 2008–72.
+
+2007—Internal Revenue Notice 2007–64.
+
+2006—Internal Revenue Notice 2006–62.
+
+2005—Internal Revenue Notice 2005–56.
+
+2004—Internal Revenue Notice 2004–49.
+
+2003—Internal Revenue Notice 2003–43.
+
+2002—Internal Revenue Notice 2002–53.
+
+2001—Internal Revenue Notice 2001–54.
+
+2000—Internal Revenue Notice 2000–51.
+
+1999—Internal Revenue Notice 99–45.
+
+1998—Internal Revenue Notice 98–41.
+
+1997—Internal Revenue Notice 97–39.
+
+1996—Internal Revenue Notice 96–41.
 

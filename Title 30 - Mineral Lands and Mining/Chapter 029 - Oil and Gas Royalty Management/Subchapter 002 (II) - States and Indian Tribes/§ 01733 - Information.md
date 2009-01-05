@@ -14,7 +14,7 @@ Trade secrets, proprietary and other confidential information shall be made avai
 
 #### (b) Nonliability of United States for wrongful disclosure
 
-The United States shall not be liable for the wrongful disclosure by any individual, State, or Indian tribe of any information provided to such individual, State, or Indian tribe pursuant toany cooperative agreement or a delegation, authorized by this chapter.
+The United States shall not be liable for the wrongful disclosure by any individual, State, or Indian tribe of any information provided to such individual, State, or Indian tribe pursuant to any cooperative agreement or a delegation, authorized by this chapter.
 
 #### (c) Law governing disclosure
 

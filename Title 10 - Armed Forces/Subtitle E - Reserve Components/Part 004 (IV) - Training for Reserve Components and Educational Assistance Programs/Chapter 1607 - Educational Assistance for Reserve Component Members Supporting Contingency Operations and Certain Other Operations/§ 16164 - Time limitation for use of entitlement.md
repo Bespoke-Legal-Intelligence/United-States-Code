@@ -2,11 +2,15 @@
 
 (a)
 
-Duration of Entitlement.—Except as provided in subsection (b), a member remains entitled to educational assistance under this chapter while serving—
+Duration of Entitlement.—Except as provided in subsection (b), a member remains entitled to educational assistance under this chapter—
 
-&emsp;(1) in the Selected Reserve of the Ready Reserve, in the case of a member called or ordered to active service while serving in the Selected Reserve; or
+&emsp;(1) while the member is serving—
 
-&emsp;(2) in the Ready Reserve, in the case of a member ordered to active duty while serving in the Ready Reserve (other than the Selected Reserve).
+&emsp;&emsp;(A) in the Selected Reserve of the Ready Reserve, in the case of a member called or ordered to active service while serving in the Selected Reserve; or
+
+&emsp;&emsp;(B) in the Ready Reserve, in the case of a member ordered to active duty while serving in the Ready Reserve (other than the Selected Reserve); and
+
+&emsp;(2) in the case of a person who separates from the Selected Reserve of the Ready Reserve after completion of a period of active service described in section 16163 of this title and completion of a service contract under honorable conditions, during the 10-year period beginning on the date on which the person separates from the Selected Reserve.
 
 (b)
 
@@ -14,5 +18,25 @@ Duration of Entitlement for Disabled Members.—(1) In the case of a person who 
 
 (2) The provisions of subsections (d) and (f) of section 3031 of title 38 shall apply to the period of entitlement prescribed by paragraph (1).
 
-(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892.)
+(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892; Pub. L. 110–181, div. A, title V, §530(a)(1), Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–417, \[div. A\], title V, §546(a), Oct. 14, 2008, 122 Stat. 4466.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 substituted “this chapter—” and pars. (1) and (2) for “this chapter while serving—
+
+&emsp;“(1) in the Selected Reserve of the Ready Reserve, in the case of a member called or ordered to active service while serving in the Selected Reserve; or
+
+&emsp;“(2) in the Ready Reserve, in the case of a member ordered to active duty while serving in the Ready Reserve (other than the Selected Reserve).”
+
+Subsec. (a)(2). Pub. L. 110–417 substituted “honorable conditions” for “other than dishonorable conditions”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title V, §546(b), Oct. 14, 2008, 122 Stat. 4466, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 14, 2008\] and shall apply to a person described in section 16163 of title 10, United States Code, who—
+
+&emsp;“(1) separates from a reserve component on or after January 28, 2008, the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008 \[Pub. L. 110–181\]; and
+
+&emsp;“(2) as of the date of the enactment of this Act, has not used any of the person's entitlement to educational assistance under chapter 1607 of such title.”
+
+Pub. L. 110–181, div. A, title V, §530(c), Jan. 28, 2008, 122 Stat. 110, provided that: “The amendments made by this section \[amending this section and section 16165 of this title\] shall take effect as of October 28, 2004, as if included in the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375), to which such amendments relate.”
 

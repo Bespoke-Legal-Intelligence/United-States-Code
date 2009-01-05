@@ -22,7 +22,7 @@ The Administrator may revoke any experimental use permit, at any time, if the Ad
 
 #### (f) State issuance of permits
 
-Notwithstanding the foregoing provisions of this section, the Administrator shall, under such terms and conditions as the Administrator may by regulations prescribe, authorize any State to issue an experimental use permit for a pesticide. All provisions of section 136i of this title relating to State plans shall apply with equal force to a State plan for the issuance of experimental use permits under this section.
+Notwithstanding the foregoing provisions of this section, the Administrator shall, under such terms and conditions as the Administrator may by regulations prescribe, authorize any State to issue an experimental use permit for a pesticide. All provisions of section 136i of this title relating to State plans shall apply with equal forceto a State plan for the issuance of experimental use permits under this section.
 
 #### (g) Exemption for agricultural research agencies
 

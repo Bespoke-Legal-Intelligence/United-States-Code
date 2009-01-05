@@ -6,7 +6,7 @@ The Secretary shall ensure that any information submitted to, or collected by, t
 
 #### (b) Definition
 
-In this section, the term “personally identifiable information” has the meaning given suchterm under the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+In this section, the term “personally identifiable information” has the meaning given such term under the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
 
 (July 1, 1944, ch. 373, title XXVI, §2685, as added Pub. L. 109–415, title V, §501, Dec. 19, 2006, 120 Stat. 2814.)
 

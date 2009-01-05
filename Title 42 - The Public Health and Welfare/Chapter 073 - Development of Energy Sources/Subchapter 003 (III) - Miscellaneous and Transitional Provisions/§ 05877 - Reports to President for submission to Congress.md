@@ -18,7 +18,7 @@ The Commission shall, as soon as practicable after the end of each fiscal year, 
 
 &emsp;(3) safeguarding special nuclear materials at all stages of the nuclear fuel cycle;
 
-&emsp;(4) investigating suspected, attempted, or actual thefts of special nuclear materials in the licensed sector and developing contingency plans for dealing with such incidents;
+&emsp;(4) investigating suspected, attempted, or actual thefts of special nuclear materials inthe licensed sector and developing contingency plans for dealing with such incidents;
 
 &emsp;(5) insuring the safe, permanent disposal of high-level radioactive wastes through the licensing of nuclear activities and facilities;
 

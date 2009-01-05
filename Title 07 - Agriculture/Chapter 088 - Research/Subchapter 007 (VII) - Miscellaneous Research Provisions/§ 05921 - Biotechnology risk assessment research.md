@@ -56,11 +56,25 @@ The Secretary of Agriculture shall coordinate research funded under this section
 
 &emsp;Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c) of this section.
 
-(Pub. L. 101–624, title XVI, §1668, Nov. 28, 1990, 104 Stat. 3767; Pub. L. 102–237, title IV, §407(9), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 107–171, title VII, §7210, May 13, 2002, 116 Stat. 446.)
+(Pub. L. 101–624, title XVI, §1668, Nov. 28, 1990, 104 Stat. 3767; Pub. L. 102–237, title IV, §407(9), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 107–171, title VII, §7210, May 13, 2002, 116 Stat. 446; Pub. L. 110–234, title VII, §7511(c)(21), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(21), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), and (d) to (g), and substituting in subsec. (c), provisions relating to research priorities for provisions relating to types of research.
 
 1991—Subsec. (g)(2). Pub. L. 102–237 substituted “Withholdings” for “Witholdings” in heading.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(21) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

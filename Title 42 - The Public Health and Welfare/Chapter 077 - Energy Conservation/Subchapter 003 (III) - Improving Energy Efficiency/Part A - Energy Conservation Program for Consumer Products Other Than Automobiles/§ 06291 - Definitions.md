@@ -14,7 +14,7 @@ For purposes of this part:
 
 &emsp;(3) The term “energy” means electricity, or fossil fuels. The Secretary may, by rule, include other fuels within the meaning of the term “energy” if he determines that such inclusion is necessary or appropriate to carry out the purposes of this chapter.
 
-&emsp;(4) The term “energy use” means the quantity of energy directly consumed by a consumer product at point of use, determined inaccordance with test procedures under section 6293 of this title.
+&emsp;(4) The term “energy use” means the quantity of energy directly consumed by a consumer product at point of use, determined in accordance with test procedures under section 6293 of this title.
 
 &emsp;(5) The term “energy efficiency” means the ratio of the useful output of services from a consumer product to the energy use of such product, determined in accordance with test procedures under section 6293 of this title.
 
@@ -150,7 +150,7 @@ For purposes of this part:
 
 &emsp;(J) The term “power input” means the power consumption in watts of a ballast and fluorescent lamp or lamps, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
-&emsp;(K) The term “relative light output” means the light output delivered through the use of a ballast divided by the light output deliveredthrough the use of a reference ballast, expressed as a percent, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(K) The term “relative light output” means the light output delivered through the use of a ballast divided by the light output delivered through the use of a reference ballast, expressed as a percent, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(L) The term “residential building” means a structure or portion of a structure which provides facilities or shelter for human residency, except that such term does not include any multifamily residential structure of more than three stories above grade.
 
@@ -202,7 +202,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at leastpartially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
 
 &emsp;&emsp;(iii) Any general service incandescent lamp (commonly referred to as a high- or higher-wattage lamp) that has a rated wattage above 199 watts (above 205 watts for a high wattage reflector lamp).
 
@@ -442,7 +442,7 @@ Organic light-emitting diode; oled.—The terms “organic light-emitting diode�
 
 &emsp;(EE)
 
-Colored incandescent lamp.—The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
+Colored incandescent lamp.—The term “colored incandescent lamp” means anincandescent lamp designated and marketed as a colored lamp that has—
 
 &emsp;&emsp;(i) a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
 
@@ -788,7 +788,7 @@ Starting process.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov.9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591.)
 
 #### References in Text
 
@@ -868,7 +868,7 @@ Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 
 Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
-1978—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+1978—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaningAdministrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

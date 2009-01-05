@@ -30,7 +30,7 @@ The Congress finds the following:
 
 &emsp;(7) A proliferation of frivolous lawsuits relating to year 2000 computer date-change problems by opportunistic parties may further limit access to courts by straining the resources of the legal system and depriving deserving parties of their legitimate rights to relief.
 
-&emsp;(8) Congress encourages businesses to approach their disputes relating to year 2000computer date-change problems responsibly, and to avoid unnecessary, time-consuming, and costly litigation about Y2K failures, particularly those that are not material. Congress supports good faith negotiations between parties when there is such a dispute, and, if necessary, urges the parties to enter into voluntary, nonbinding mediation rather than litigation.
+&emsp;(8) Congress encourages businesses to approach their disputes relating to year 2000 computer date-change problems responsibly, and to avoid unnecessary, time-consuming, and costly litigation about Y2K failures, particularly those that are not material. Congress supports good faith negotiations between parties when there is such a dispute, and, if necessary, urges the parties to enter into voluntary, nonbinding mediation rather than litigation.
 
 #### (b) Purposes
 

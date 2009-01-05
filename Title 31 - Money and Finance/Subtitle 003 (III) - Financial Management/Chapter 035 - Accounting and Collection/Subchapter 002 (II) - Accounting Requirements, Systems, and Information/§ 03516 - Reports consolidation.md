@@ -1,6 +1,6 @@
 ### §3516. Reports consolidation
 
-(a)(1) With the concurrence of the Director of the Office of Management and Budget, the head of an executive agency may adjust the frequency and due dates of, and consolidate into an annual report to the President, the Director of the Office of Management and Budget, and Congress any statutorily required reports described in paragraph (2). Such a consolidated report shall be submitted to the President, the Director of the Office of Management and Budget, and to appropriate committees and subcommittees of Congress not later than 150 days after the end of the agency's fiscal year.
+(a)(1) With the concurrence of the Director of the Office of Management and Budget, the head of an executive agency may adjust the frequency and due dates of, and consolidate into an annual report to the President, the Director of the Office of Management and Budget, and Congress any statutorily required reports described inparagraph (2). Such a consolidated report shall be submitted to the President, the Director of the Office of Management and Budget, and to appropriate committees and subcommittees of Congress not later than 150 days after the end of the agency's fiscal year.
 
 (2) The following reports may be consolidated into the report referred to in paragraph (1):
 

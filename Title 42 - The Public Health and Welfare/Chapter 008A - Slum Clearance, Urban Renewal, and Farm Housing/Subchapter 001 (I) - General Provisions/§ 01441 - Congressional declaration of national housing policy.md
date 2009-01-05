@@ -34,5 +34,5 @@ Assistance provided for in Housing and Community Development Act of 1974 \[42 U.
 
 #### Equal Opportunity in Housing
 
-Executive order relating to equal opportunity in housing, see Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended, set out as a note under section 1982 of this title.
+Executive order relating to equal opportunity in housing, see Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R.11527, as amended, set out as a note under section 1982 of this title.
 

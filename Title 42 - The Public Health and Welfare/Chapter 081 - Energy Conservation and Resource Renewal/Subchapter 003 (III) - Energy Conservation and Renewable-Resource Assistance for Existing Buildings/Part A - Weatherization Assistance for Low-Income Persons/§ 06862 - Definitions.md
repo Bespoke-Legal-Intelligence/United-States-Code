@@ -96,7 +96,7 @@ Pars. (7), (9)(G). Pub. L. 96–294, §577(2), substituted “Secretary” for �
 
 1978—Par. (5). Pub. L. 95–602 substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
 
-Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
+Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provisionauthorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
 
 Par. (9). Pub. L. 95–619, §231(b)(2), substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Community Services Administration
 
-Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office ofCommunity Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

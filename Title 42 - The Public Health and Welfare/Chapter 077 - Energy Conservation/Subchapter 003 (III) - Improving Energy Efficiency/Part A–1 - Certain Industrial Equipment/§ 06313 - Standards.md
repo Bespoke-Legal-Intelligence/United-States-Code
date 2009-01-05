@@ -46,7 +46,7 @@
 
 &emsp;(D) The minimum combustion efficiency at the maximum rated capacity of oil-fired packaged boilers with capacity of 300,000 Btu per hour or more shall be 83 percent.
 
-(5) Each storage water heater, instantaneous water heater, and unfired water storage tank manufactured on or after January 1, 1994, shall meet the following standard levels:
+(5) Each storage water heater, instantaneous water heater, and unfired water storage tankmanufactured on or after January 1, 1994, shall meet the following standard levels:
 
 &emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be 0.30 + (27/Measured Storage Volume \[in gallons\]).
 
@@ -128,7 +128,7 @@ New determination.—Not later than 3 years after a determination under clause (
 
 &emsp;&emsp;(iv)
 
-Application to products.—An amendment prescribed under this subsection shall apply to products manufactured after a date that is the later of—
+Application to products.—An amendment prescribed under this subsection shallapply to products manufactured after a date that is the later of—
 
 &emsp;&emsp;&emsp;(I) the date that is 3 years after publication of the final rule establishing a new standard; or
 
@@ -140,7 +140,7 @@ Reports.—The Secretary shall promptly submit to the Committee on Energy and Co
 
 (D) A standard amended by the Secretary under this paragraph shall become effective for products manufactured—
 
-&emsp;(i) with respect to small commercial package air conditioning and heating equipment, packaged terminal air conditioners, packagedterminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, on or after a date which is two years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); and
+&emsp;(i) with respect to small commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, on or after a date which is two years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A); and
 
 &emsp;(ii) with respect to large commercial package air conditioning and heating equipment and very large commercial package air conditioning and heating equipment, on or after a date which is three years after the effective date of the applicable minimum energy efficiency requirement in the amended ASHRAE/IES standard referred to in subparagraph (A);
 
@@ -186,7 +186,7 @@ Reports.—The Secretary shall promptly submit to the Committee on Energy and Co
 
 &emsp;&emsp;(ii) 10.4 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
-&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
+&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central airconditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
 
 (9) Very large commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -273,7 +273,7 @@ Review.—Not later than 3 years after December 19, 2007, the Secretary shall re
 
 (C) Not later than two years after October 24, 1992, the Secretary shall rule on each petition for exemption submitted pursuant to subparagraph (B). In making such ruling, the Secretary shall afford an opportunity for public comment.
 
-(D) Manufacturers of types or classes of motors developed after October 24, 1992, to whichstandards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
+(D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
 (3)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
@@ -489,7 +489,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 110–140, title III, §313(b), Dec. 19, 2007, 121 Stat. 1568, provided that, effective on the date that is 3 years after Dec. 19, 2007, subsection (b) of this section is amended by redesig</i><i>nating paragraphs (2) and (3) as (3) and (4), respectively, and by adding a new paragraph (2) to read as follows:</i>
+<i>Pub. L. 110–140, title III, §313(b), Dec. 19, 2007, 121 Stat. 1568, provided that, effective on the date that is 3 years after Dec. 19, 2007, subsection (b) of this section is amended by redesignating paragraphs (2) and (3) as (3) and (4), respectively, and by adding a new paragraph (2) to read as follows:</i>
 
 <i>(2)</i>
 
@@ -547,7 +547,7 @@ Subsecs. (c) to (e). Pub. L. 109–58, §136(c)–(e), added subsecs. (c) to (e)
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on the date that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
+Pub. L. 110–140, title III, §313(b)(2), Dec. 19, 2007, 121 Stat. 1569, provided that: “The amendments made by paragraph (1) \[amending this section\] take effect on thedate that is 3 years after the date of enactment of this Act \[Dec. 19, 2007\].”
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

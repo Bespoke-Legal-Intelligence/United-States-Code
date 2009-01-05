@@ -6,7 +6,7 @@ The Secretary may not make a grant under subsection (a) of section 300d–41 of 
 
 &emsp;(1) the center will continue participation in the system described in subsection (b) of such section throughout the 3-year period beginning on the date that the center first receives payments under the grant; and
 
-&emsp;(2) if the agreement made pursuant to paragraph (1) is violated by the center, the centerwill be liable to the United States for an amount equal to the sum of—
+&emsp;(2) if the agreement made pursuant to paragraph (1) is violated by the center, the center will be liable to the United States for an amount equal to the sum of—
 
 &emsp;&emsp;(A) the amount of assistance provided to the center under subsection (a) of such section; and
 

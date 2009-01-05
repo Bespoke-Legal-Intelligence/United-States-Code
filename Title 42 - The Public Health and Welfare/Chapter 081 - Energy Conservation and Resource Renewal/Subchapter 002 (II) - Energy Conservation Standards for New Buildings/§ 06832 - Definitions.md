@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(11) The term “State” includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory and possession of the United States.
 
-&emsp;(12) The term “unit of general purpose local government” means any city, county, town, municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
+&emsp;(12) The term “unit of general purpose local government” means any city, county, town,municipality, or other political subdivision of a State (or any combination thereof), which has a building code or similar authority over a particular geographic area.
 
 &emsp;(13) The term “Federal building energy standards” means energy consumption objectives to be met without specification of the methods, materials, or equipment to be employed in achieving those objectives, but including statements of the requirements, criteria, and evaluation methods to be used, and any necessary commentary.
 
@@ -34,7 +34,7 @@ As used in this subchapter:
 
 &emsp;(16) The term “ASHRAE” means the American Society of Heating, Refrigerating, and Air-Conditioning Engineers.
 
-(Pub. L. 94–385, title III, §303, Aug. 14, 1976, 90 Stat. 1145; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–35, title X, §1041(a), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–242, title V, §570(c), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–486, title I,§101(a)(1), Oct. 24, 1992, 106 Stat. 2782; Pub. L. 110–140, title IV, §433(b), Dec. 19, 2007, 121 Stat. 1614.)
+(Pub. L. 94–385, title III, §303, Aug. 14, 1976, 90 Stat. 1145; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 97–35, title X, §1041(a), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–242, title V, §570(c), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 102–486, title I, §101(a)(1), Oct. 24, 1992, 106 Stat. 2782; Pub. L. 110–140, title IV, §433(b), Dec. 19, 2007, 121 Stat. 1614.)
 
 #### Codification
 

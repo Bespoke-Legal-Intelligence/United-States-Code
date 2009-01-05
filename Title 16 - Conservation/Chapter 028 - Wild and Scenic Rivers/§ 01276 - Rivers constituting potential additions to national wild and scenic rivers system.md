@@ -22,7 +22,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (9) Illinois, Oregon: The entire river.
 
-(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in thevicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
+(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
 
 (11) Little Miami, Ohio: That segment of the main stem of the river, exclusive of its tributaries, from a point at the Warren-Clermont County line at Loveland, Ohio, upstream to the sources of Little Miami including North Fork.
 
@@ -60,7 +60,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (28) American, California: The North Fork from the Cedars to the Auburn Reservoir.
 
-(29) Au Sable, Michigan: The segment downstream from Foot Dam to Oscoda, and upstream from Loud Reservoir to its source, including its principal tributaries and excluding Mio and Bamfield Reservoirs.
+(29) Au Sable, Michigan: The segment downstream from Foot Dam to Oscoda, and upstreamfrom Loud Reservoir to its source, including its principal tributaries and excluding Mio and Bamfield Reservoirs.
 
 (30) Big Thompson, Colorado: The segment from its source to the boundary of Rocky Mountain National Park.
 
@@ -140,7 +140,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (68) Cacapon, West Virginia: The entire river.
 
-(69) Escatawpa, Alabama and Mississippi: The segment upstream from a point approximately one mile downstream from the confluence of the Escatawpa River and Jackson Creek to a point where the Escatawpa River is joined by the Yellowhouse Branch in Washington County, Alabama, near the town of Deer Park, Alabama; and the segment of Brushy Creek upstream from its confluence with the Escatawpa to its confluence with Scarsborough Creek.
+(69) Escatawpa, Alabama and Mississippi: The segment upstream from a point approximately one mile downstream from the confluence of the Escatawpa River and Jackson Creek to a pointwhere the Escatawpa River is joined by the Yellowhouse Branch in Washington County, Alabama, near the town of Deer Park, Alabama; and the segment of Brushy Creek upstream from its confluence with the Escatawpa to its confluence with Scarsborough Creek.
 
 (70) Myakka, Florida: The segment south of the southern boundary of the Myakka River State Park.
 
@@ -240,7 +240,7 @@ Wallowa, Oregon.—The segment from its confluence with the Minam River to its c
 
 (106)
 
-Merrimack River, New Hampshire.—The segment from its origin at the confluence of the Pemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
+Merrimack River, New Hampshire.—The segment from its origin at the confluence of thePemigewasset and Winnipesaukee Rivers in Franklin, New Hampshire, to the backwater impoundment at Hooksett Dam, excluding the Garvins Falls Dam and its impoundment.
 
 (107)
 
@@ -334,7 +334,7 @@ Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
 (124)
 
-Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from its source in section 26, township 46 north, range 23 west, to County Road 444.
+Whitefish, Michigan.—The 26-mile segment of the West Branch Whitefish from itssource in section 26, township 46 north, range 23 west, to County Road 444.
 
 (125)
 
@@ -424,7 +424,7 @@ Lower Farmington River and Salmon Brook, Connecticut.—The segment of the Farmi
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of riversnamed in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -508,7 +508,7 @@ Subsec. (a)(137). Pub. L. 106–318, §3(2), added par. (137).
 
 Subsec. (b)(8), (10). Pub. L. 106–318, §4(1), redesignated par. (8) relating to study of St. Marys River, Florida and Georgia, as (10).
 
-Subsec. (b)(11) to (14). Pub. L. 106–318, §4(2)–(4), redesignated par. (11) relating to study of White Clay Creek, Delaware and Pennsylvania, as (12), par. (11) relating to study of segments of Brule, Carp, and other rivers in Michigan as (13), and par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey as (14).
+Subsec. (b)(11) to (14). Pub. L. 106–318, §4(2)–(4), redesignated par. (11) relating to study of White Clay Creek,Delaware and Pennsylvania, as (12), par. (11) relating to study of segments of Brule, Carp, and other rivers in Michigan as (13), and par. (11) relating to study of segments of Delaware River in Pennsylvania and New Jersey as (14).
 
 Subsec. (b)(15). Pub. L. 106–318, §4(5), designated unnumbered par. relating to study of Rio Grande, New Mexico, as par. (15).
 

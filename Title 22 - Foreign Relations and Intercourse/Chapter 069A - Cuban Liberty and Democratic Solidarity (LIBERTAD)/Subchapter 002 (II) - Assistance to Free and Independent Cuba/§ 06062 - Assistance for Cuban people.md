@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) assistance under chapter 1 of part I \[22 U.S.C. 2151 et seq.\] (relating to development assistance), and chapter 4 of part II \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), of the Foreign Assistance Act of 1961;
 
-&emsp;&emsp;&emsp;(ii) assistance under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\];
+&emsp;&emsp;&emsp;(ii) assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\];
 
 &emsp;&emsp;&emsp;(iii) financing, guarantees, and other forms of assistance provided by the Export-Import Bank of the United States;
 
@@ -104,19 +104,27 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### (2) Consultation
 
-&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy andnegotiating objectives and the legislative proposals described in paragraph (1).
+&emsp;The President shall consult with the Committee on Ways and Means of the House ofRepresentatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
-(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806.)
+(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
+
+#### Amendments
+
+2008—Subsec. (b)(2)(B)(ii). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

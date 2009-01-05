@@ -8,7 +8,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (1) In general
 
-&emsp;The Advisory Board shall consist of 31 members, appointed by the Secretary.
+&emsp;The Advisory Board shall consist of 25 members, appointed by the Secretary.
 
 #### (2) Selection of members
 
@@ -22,63 +22,51 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;&emsp;(B) 1 member representing farm cooperatives.
 
-&emsp;&emsp;(C) 1 member actively engaged in the production of a food animal commodity.
+&emsp;&emsp;(C) 1 member actively engaged in the production of a food animal commodity, recommended by a coalition of national livestock organizations.
 
-&emsp;&emsp;(D) 1 member actively engaged in the production of a plant commodity.
+&emsp;&emsp;(D) 1 member actively engaged in the production of a plant commodity, recommended by a coalition of national crop organizations.
 
-&emsp;&emsp;(E) 1 member representing a national animal commodity organization.
+&emsp;&emsp;(E) 1 member actively engaged in aquaculture, recommended by a coalition of national aquacultural organizations.
 
-&emsp;&emsp;(F) 1 member representing a national crop commodity organization.
+&emsp;&emsp;(F) 1 member representing a national food animal science society.
 
-&emsp;&emsp;(G) 1 member representing a national aquaculture association.
+&emsp;&emsp;(G) 1 member representing a national crop, soil, agronomy, horticulture, plant pathology, or weed science society.
 
-&emsp;&emsp;(H) 1 member representing a national food animal science society.
+&emsp;&emsp;(H) 1 member representing a national food science organization.
 
-&emsp;&emsp;(I) 1 member representing a national crop, soil, agronomy, horticulture, or weed science society.
+&emsp;&emsp;(I) 1 member representing a national human health association.
 
-&emsp;&emsp;(J) 1 member representing a national food science organization.
+&emsp;&emsp;(J) 1 member representing a national nutritional science society.
 
-&emsp;&emsp;(K) 1 member representing a national human health association.
+&emsp;&emsp;(K) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
 
-&emsp;&emsp;(L) 1 member representing a national nutritional science society.
+&emsp;&emsp;(L) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
 
-&emsp;&emsp;(M) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
+&emsp;&emsp;(M) 1 member representing the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
 
-&emsp;&emsp;(N) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
+&emsp;&emsp;(N) 1 member representing NLGCA Institutions.
 
-&emsp;&emsp;(O) 1 member representing the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note)).
+&emsp;&emsp;(O) 1 member representing Hispanic-serving institutions.
 
-&emsp;&emsp;(P) 1 member representing Hispanic-serving institutions.
+&emsp;&emsp;(P) 1 member representing the American Colleges of Veterinary Medicine.
 
-&emsp;&emsp;(Q) 1 member representing the American Colleges of Veterinary Medicine.
+&emsp;&emsp;(Q) 1 member engaged in the transportation of food and agricultural products to domestic and foreign markets.
 
-&emsp;&emsp;(R) 1 member representing a non-land grant college or university with a historic commitment to research in the food and agricultural sciences.
+&emsp;&emsp;(R) 1 member representing food retailing and marketing interests.
 
-&emsp;&emsp;(S) 1 member representing that portion of the scientific community not closely associated with agriculture.
+&emsp;&emsp;(S) 1 member representing food and fiber processors.
 
-&emsp;&emsp;(T) 1 member engaged in the transportation of food and agricultural products to domestic and foreign markets.
+&emsp;&emsp;(T) 1 member actively engaged in rural economic development.
 
-&emsp;&emsp;(U) 1 member representing food retailing and marketing interests.
+&emsp;&emsp;(U) 1 member representing a national consumer interest group.
 
-&emsp;&emsp;(V) 1 member representing food and fiber processors.
+&emsp;&emsp;(V) 1 member representing a national forestry group.
 
-&emsp;&emsp;(W) 1 member actively engaged in rural economic development.
+&emsp;&emsp;(W) 1 member representing a national conservation or natural resource group.
 
-&emsp;&emsp;(X) 1 member representing a national consumer interest group.
+&emsp;&emsp;(X) 1 member representing private sector organizations involved in international development.
 
-&emsp;&emsp;(Y) 1 member representing a national forestry group.
-
-&emsp;&emsp;(Z) 1 member representing a national conservation or natural resource group.
-
-&emsp;&emsp;(AA) 1 member representing private sector organizations involved in international development.
-
-&emsp;&emsp;(BB) 1 member representing an agency within the Department of Agriculture that lacks research capabilities.
-
-&emsp;&emsp;(CC) 1 member representing a research agency of the Federal Government (other than the Department of Agriculture).
-
-&emsp;&emsp;(DD) 1 member representing a national social science association.
-
-&emsp;&emsp;(EE) 1 member representing national organizations directly concerned with agricultural research, education, and extension.
+&emsp;&emsp;(Y) 1 member representing a national social science association.
 
 #### (4) Ex officio members
 
@@ -130,7 +118,7 @@ The Advisory Board shall—
 
 #### (e) Appointment
 
-A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3years. The members of the Advisory Board shall be appointed to serve staggered terms.
+A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3 years. The members of the Advisory Board shall be appointed to serve staggered terms.
 
 #### (f) Federal Advisory Committee Act
 
@@ -140,7 +128,7 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (1) Maximum amount
 
-&emsp;Not more than $350,000 may be used to cover the necessary expenses of the Advisory Board for each fiscal year.
+&emsp;Not more than $500,000 may be used to cover the necessary expenses of the Advisory Board for each fiscal year.
 
 #### (2) General limitation
 
@@ -148,21 +136,37 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (h) Termination
 
-The Advisory Board shall remain in existence until September 30, 2007.
+The Advisory Board shall remain in existence until September 30, 2012.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029.)
+
+#### Amendment of Subsection (b)(4)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2029, provided that, effective Oct. 1, 2009, subsection (b)(4) of this section is amended by substituting “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Cooperative State Research, Education, and Extension Service”.</i>
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (b)(3)(M), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (b)(3)(K), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly knownas the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (b)(3)(N), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (b)(3)(L), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 For definition of “this chapter”, referred to in subsec. (d)(2), see note set out under section 3102 of this title.
 
 Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–246, §7102(a)(1)(A), substituted “25” for “31”.
+
+Subsec. (b)(3). Pub. L. 110–246, §7102(a)(1)(B), added par. (3) and struck out former par. (3) which related to membership categories and directed that the Advisory Board consist of members from each of the categories listed in former subpars. (A) to (EE).
+
+Subsec. (g)(1). Pub. L. 110–246, §7102(a)(2), substituted “$500,000” for “$350,000”.
+
+Subsec. (h). Pub. L. 110–246, §7102(a)(3), substituted “2012” for “2007”.
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §7209(a)(1), substituted “31 members” for “30 members”.
 
@@ -204,7 +208,19 @@ Subsec. (f)(2)(E). Pub. L. 97–98, §1408(c)(1), substituted “July 1” for �
 
 Subsec. (f)(2)(F). Pub. L. 97–98, §1408(c)(2), substituted “February 20 of” for “March 1 of”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(8) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Effect of 2008 Amendment on Terms
+
+Pub. L. 110–234, title VII, §7102(b), May 22, 2008, 122 Stat. 1215, and Pub. L. 110–246, §4(a), title VII, §7102(b), June 18, 2008, 122 Stat. 1664, 1976, provided that: “Nothing in this section \[amending this section\] or any amendment made by this section affects the term of any member of the National Agricultural Research, Extension, Education, and Economics Advisory Board serving as of the date of enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

@@ -2,7 +2,7 @@
 
 Each person who is appointed as an officer of the National Guard shall subscribe to the following oath:
 
-&emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I willbear true faith and allegiance to the same; that I will obey the orders of the President of the United States and of the Governor of the State of \_\_\_\_\_\_\_\_\_\_\_\_, that I make this obligation freely, without any mental reservation or purpose of evasion, and that I will well and faithfully discharge the duties of the office of \_\_\_\_\_\_\_\_ in the National Guard of the State of \_\_\_\_\_\_\_\_\_\_\_\_ upon which I am about to enter, so help me God.”
+&emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and the Constitution of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I will obey the orders of the President of the United States and of the Governor of the State of \_\_\_\_\_\_\_\_\_\_\_\_, that I make this obligation freely, without any mental reservation or purpose of evasion, and that I will well and faithfully discharge the duties of the office of \_\_\_\_\_\_\_\_ in the National Guard of the State of \_\_\_\_\_\_\_\_\_\_\_\_ upon which I am about to enter, so help me God.”
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 603.)
 

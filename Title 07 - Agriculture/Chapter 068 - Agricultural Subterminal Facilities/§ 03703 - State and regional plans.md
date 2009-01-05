@@ -54,7 +54,7 @@ No State or region may receive a grant under this section unless—
 
 #### (e) Approved State plans; approved regional plans
 
-Whenever any State or region has submitted a State or regional plan under this section, the Secretary shall approve such plan only if it has been approved by a majority of the members of the appropriate plan review commission established pursuant to this chapter, and it meets the other conditions specified in this chapter and those prescribed in regulations issued by the Secretary to carry out this chapter. When a plan is approved by the Secretary, such plan shall be known as an “approved State plan” or an “approved regional plan”, as appropriate.
+Whenever any State or region has submitted a State or regional plan under this section, the Secretary shall approve such plan only if it has been approved by a majority of the members of the appropriate plan review commission established pursuant to this chapter, and it meets theother conditions specified in this chapter and those prescribed in regulations issued by the Secretary to carry out this chapter. When a plan is approved by the Secretary, such plan shall be known as an “approved State plan” or an “approved regional plan”, as appropriate.
 
 #### (f) Authorization of appropriations
 
@@ -64,7 +64,7 @@ To carry out the purposes of this section, there are authorized to be appropriat
 
 #### References in Text
 
-Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, and is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
+Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
 
 Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

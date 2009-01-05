@@ -10,7 +10,7 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 &emsp;(A) in the case of a nonresident alien individual, such individual is a citizen or resident of such foreign country or possession, or
 
-&emsp;(B) in the case of a foreign corporation, such corporation was created or organized under the law of such foreign country or possession or is domiciled for tax purposes in such country or possession.
+&emsp;(B) in the case of a foreign corporation, such corporation was created or organized underthe law of such foreign country or possession or is domiciled for tax purposes in such country or possession.
 
 (2) For purposes of subsection (a), in applying section 904 the taxpayer's taxable income shall be treated as consisting only of the taxable income effectively connected with the taxpayer's conduct of a trade or business within the United States.
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1241(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
-Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

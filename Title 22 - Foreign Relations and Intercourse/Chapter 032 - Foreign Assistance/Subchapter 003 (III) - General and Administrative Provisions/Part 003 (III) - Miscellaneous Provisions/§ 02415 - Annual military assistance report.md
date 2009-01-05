@@ -32,7 +32,7 @@ A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–22
 
 #### Amendments
 
-2002—Subsec. (b)(3). Pub. L. 107–228, §1205(c), inserted before period at end “, including, in the case of defensearticles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under section 922 of title 18, that were licensed for export during the period covered by the report”.
+2002—Subsec. (b)(3). Pub. L. 107–228, §1205(c), inserted before period at end “, including, in the case of defense articles that are firearms controlled under category I of the United States Munitions List, a statement of the aggregate dollar value and quantity of semiautomatic assault weapons, or spare parts for such weapons, the manufacture, transfer, or possession of which is unlawful under section 922 of title 18, that were licensed for export during the period covered by the report”.
 
 Subsecs. (c), (d). Pub. L. 107–228, §1262(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Each such report shall also include the total amount of military items manufactured outside the United States that were imported into the United States during the fiscal year covered by the report. For each country of origin the report shall show the type of item being imported and the total amount of the items.”
 

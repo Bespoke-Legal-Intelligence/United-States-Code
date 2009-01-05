@@ -58,7 +58,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 (1) The Secretary shall engage in a scientific investigation to determine whether California sea lions and Pacific harbor seals—
 
-&emsp;(A) are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), orwhich the Secretary finds are approaching such endangered species or threatened species status; or
+&emsp;(A) are having a significant negative impact on the recovery of salmonid fishery stocks which have been listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), or which the Secretary finds are approaching such endangered species or threatened species status; or
 
 &emsp;(B) are having broader impacts on the coastal ecosystems of Washington, Oregon, and California.
 

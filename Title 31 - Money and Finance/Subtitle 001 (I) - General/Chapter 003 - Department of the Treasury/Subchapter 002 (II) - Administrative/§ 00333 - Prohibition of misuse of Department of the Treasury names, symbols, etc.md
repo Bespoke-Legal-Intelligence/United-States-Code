@@ -60,7 +60,7 @@ In general.—If any person knowingly violates subsection (a), such person shall
 
 &emsp;(2)
 
-Time limitations.—No person may be prosecuted, tried, or punished under paragraph (1) for any violation of subsection (a) unless the indictment is found or the information instituted during the 3-year period beginning on the date of the violation.
+Time limitations.—No person may be prosecuted, tried, or punished under paragraph\(1) for any violation of subsection (a) unless the indictment is found or the information instituted during the 3-year period beginning on the date of the violation.
 
 &emsp;(3)
 
@@ -74,7 +74,7 @@ Section 312(m) of Pub. L. 103–296 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
 
 “(2)
 

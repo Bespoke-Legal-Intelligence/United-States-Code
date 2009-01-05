@@ -10,15 +10,19 @@
 
 (b) No correction may be made under subsection (a)(1) unless the claimant or his heir or legal representative files a request for the correction within three years after he discovers the error or injustice. However, a board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 
-(c) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee. If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
+(c)(1) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee.
 
-&emsp;(1) to the surviving spouse, heir, or beneficiaries, in the order prescribed by the law applicable to that kind of payment;
+(2) If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
 
-&emsp;(2) if there is no such law covering order of payment, in the order set forth in section 2771 of this title; or
+&emsp;(A) to the surviving spouse, heir, or beneficiaries, in the order prescribed by the law applicable to that kind of payment;
 
-&emsp;(3) as otherwise prescribed by the law applicable to that kind of payment.
+&emsp;(B) if there is no such law covering order of payment, in the order set forth in section 2771 of this title; or
 
-> A claimant's acceptance of a settlement under this section fully satisfies the claim concerned.This section does not authorize the payment of any claim compensated by private law before October 25, 1951.
+&emsp;(C) as otherwise prescribed by the law applicable to that kind of payment.
+
+(3) A claimant's acceptance of a settlement under this section fully satisfies the claim concerned. This section does not authorize the payment of any claim compensated by private law before October 25, 1951.
+
+(4) If the correction of military records under this section involves setting aside a conviction by court-martial, the payment of a claim under this subsection in connection with the correction of the records shall include interest at a rate to be determined by the Secretary concerned, unless the Secretary determines that the payment of interest is inappropriate under the circumstances. If the payment of the claim is to include interest, the interest shall be calculated on an annual basis, and compounded, using the amount of the lost pay, allowances, compensation, emoluments, or other pecuniary benefits involved, and the amount of any fine or forfeiture paid, beginning from the date of the conviction through the date on which the payment is made.
 
 (d) Applicable current appropriations are available to continue the pay, allowances, compensation, emoluments, and other pecuniary benefits of any person who was paid under subsection (c), and who, because of the correction of his military record, is entitled to those benefits, but for not longer than one year after the date when his record is corrected under this section if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate. Without regard to qualifications for reenlistment, or appointment or reappointment, the Secretary concerned may reenlist a person in, or appoint or reappoint him to, the grade to which payments under this section relate.
 
@@ -32,7 +36,7 @@
 
 (g) In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 373, 605, 607, 643, and 873 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475.)
 
 Historical and Revision Notes
 
@@ -106,6 +110,8 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–417 designated existing provisions as pars. (1) to (3), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (4).
+
 2002—Subsec. (a)(1). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1998—Subsec. (c). Pub. L. 105–261, §545(a), inserted “, or on account of his or another's service as a civilian employee” before period at end of first sentence.
@@ -129,6 +135,10 @@ Subsec. (c). Pub. L. 100–456, §1233(a)(2), substituted “The Secretary conce
 1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 1960—Subsec. (f). Pub. L. 86–533 repealed subsec. (f) which required reports to the Congress every six months with respect to claims paid under this section.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title V, §592(c), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sentence of a court-martial set aside by a Corrections Board on or after October 1, 2007, when the Corrections Board includes an order or recommendation for the payment of a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, that arose as a result of the conviction. In this subsection, the term ‘Corrections Board’ has the meaning given that term in section 1557 of title 10, United States Code.”
 
 #### Effective Date of 2002 Amendment
 

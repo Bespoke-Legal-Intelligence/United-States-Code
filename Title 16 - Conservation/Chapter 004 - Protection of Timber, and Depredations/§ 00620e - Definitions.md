@@ -54,7 +54,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(ii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, meeting current American Lumber Standards Grades or Pacific Lumber Inspection Bureau Export R or N list clear grades, sawn on 4 sides, not to exceed 12 inches in thickness.
 
-&emsp;&emsp;(iii) Lumber, construction timbers, or cants for remanufacture, except Western Red Cedar, that do not meet the grades referred to in clause (ii) and are sawn on 4 sides, with wane less than 1/4 of any face, not exceeding 83/4 inches in thickness.
+&emsp;&emsp;(iii) Lumber, construction timbers, or cants for remanufacture, except WesternRed Cedar, that do not meet the grades referred to in clause (ii) and are sawn on 4 sides, with wane less than 1/4 of any face, not exceeding 83/4 inches in thickness.
 
 &emsp;&emsp;(iv) Chips, pulp, or pulp products.
 
@@ -68,7 +68,7 @@ Northwestern private timber open market area.—The term “northwestern private
 
 &emsp;&emsp;(ix) Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs processed at domestic pulp mills, domestic chip plants, or other domestic operations for the primary purpose of conversion of the logs into chips, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities.
 
-&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling forexport, unprocessed timber originating from private lands within the same geographic and economic area.
+&emsp;(10) The acquisition of unprocessed timber from Federal lands west of the 100th meridian in the contiguous 48 States to be used in “substitution” for exported unprocessed timber originating from private lands means acquiring unprocessed timber from such Federal lands and engaging in exporting, or selling for export, unprocessed timber originating from private lands within the same geographic and economic area.
 
 &emsp;(11)
 

@@ -34,7 +34,7 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under section 355(b)(1) of this title for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(3)—
+&emsp;Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under section 355(b)(1) of this title for pediatric studies (which shall include a timeframe for completing such studies), the holder agreesto the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(3)—
 
 &emsp;&emsp;(A)(i)(I) the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
@@ -62,7 +62,7 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, after consultation with the sponsor of an application for an investigational new drug under section 355(i) of this title, the sponsor of an application for a new drug under section 355(b)(1) of this title, or the holder of an approved application for a drug under section 355(b)(1) of this title, issue to the sponsor or holder a writtenrequest for the conduct of pediatric studies for such drug. In issuing such request, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Such request to conduct pediatric studies shall be in writing and shall include a timeframe for such studies and a request to the sponsor or holder to propose pediatric labeling resulting from such studies.
+&emsp;&emsp;The Secretary may, after consultation with the sponsor of an application for an investigational new drug under section 355(i) of this title, the sponsor of an application for a new drug under section 355(b)(1) of this title, or the holder of an approved application for a drug under section 355(b)(1) of this title, issue to the sponsor or holder a written request for the conduct of pediatric studies for such drug. In issuing such request, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Such request to conduct pediatric studies shall be in writing and shall include a timeframe for such studies and a request to the sponsor or holder to propose pediatric labeling resulting from such studies.
 
 #### (B) Single written request
 
@@ -94,7 +94,7 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 #### (3) Meeting the studies requirement
 
-&emsp;Not later than 180 days after the submission of the reports of the studies, the Secretary shall accept or reject such reports and so notify the sponsor or holder. The Secretary's only responsibility in accepting or rejecting the reports shall be to determine, within the 180-day period, whether the studies fairly respond to the written request, have been conducted in accordance with commonly accepted scientific principles and protocols, and have been reported in accordance with the requirements of the Secretary for filing.
+&emsp;Not later than 180 days after the submission of the reports of the studies, the Secretaryshall accept or reject such reports and so notify the sponsor or holder. The Secretary's only responsibility in accepting or rejecting the reports shall be to determine, within the 180-day period, whether the studies fairly respond to the written request, have been conducted in accordance with commonly accepted scientific principles and protocols, and have been reported in accordance with the requirements of the Secretary for filing.
 
 #### (4) Effect of subsection
 
@@ -392,7 +392,7 @@ Subsec. (m). Pub. L. 107–109, §19(2), (3), redesignated subsec. (k) as (m). F
 
 Pub. L. 107–109, §9, added subsec. (m).
 
-Subsec. (n). Pub. L. 107–109, §19(4), which directed substitution of “subsection (b) or (c)” for “subsection (a) or (c)” in subsec. (m), was executed by making the substitution in introductory provisions of subsec. (n), to reflect the probable intent of Congress.
+Subsec. (n). Pub. L. 107–109, §19(4), which directed substitution of “subsection (b) or (c)” for “subsection (a) or (c)” in subsec. (m), was executed by making thesubstitution in introductory provisions of subsec. (n), to reflect the probable intent of Congress.
 
 Pub. L. 107–109, §19(2), (3), redesignated subsec. (j) as (n). Former subsec. (n) redesignated (k).
 

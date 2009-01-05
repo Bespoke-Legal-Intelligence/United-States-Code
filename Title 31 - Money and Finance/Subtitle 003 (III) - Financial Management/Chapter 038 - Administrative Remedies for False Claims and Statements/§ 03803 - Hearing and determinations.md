@@ -64,7 +64,7 @@
 
 &emsp;(vi) benefits under title XX of the Social Security Act;
 
-&emsp;(vii) benefits under the food stamp program (as defined in section 3(h) of the Food Stamp Act of 1977);
+&emsp;(vii) benefits under the supplemental nutrition assistance program (as defined in section 3(<i>l</i>) of the Food and Nutrition Act of 2008);
 
 &emsp;(viii) benefits under chapters 11, 13, 15, 17, and 21 of title 38;
 
@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of thenotice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 
@@ -172,19 +172,19 @@
 
 (ii) If, within the 30-day period described in clause (i) of this subparagraph, a person determined to be liable under this chapter requests the authority head for an extension of such 30-day period to file an appeal of a decision issued by the presiding officer under subsection (h) of this section, the authority head may extend such period if such person demonstrates good cause for such extension.
 
-(B) Any authority head reviewing under this section the decision, findings, and determinations of a presiding officer shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (f) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the authority head that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the authority head shall remand thematter to the presiding officer for consideration of such additional evidence.
+(B) Any authority head reviewing under this section the decision, findings, and determinations of a presiding officer shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (f) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the authority head that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the authority head shall remand the matter to the presiding officer for consideration of such additional evidence.
 
 (C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XVIII (§1395 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to section 1396a(a) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3(h) of the Food Stamp Act of 1977, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(h) of Title 7, Agriculture.
+Section 3(<i>l</i>) of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to section 2012(<i>l</i>) of Title 7, Agriculture.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(2)(C)(ix), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended, which is classified generally to subchapter IV (§901 et seq.) of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
@@ -196,17 +196,31 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(2)(C)(xii), is a
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub.L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(<i>l</i>)” for “section 3(h)”.
+
+Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1999—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 1996—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;”.
 
 1994—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by sections 4002(b)(1)(A), (B), (2)(S), and 4115(c)(2)(E) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1996 Amendment
 

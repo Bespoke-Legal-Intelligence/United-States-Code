@@ -26,7 +26,7 @@ The strategy developed under subsection (a) of this section shall have the follo
 
 &emsp;(3) Increase the value of United States high-value and value-added agricultural exports each year.
 
-&emsp;(4) Increase the value of United States high-value and value-added agricultural exportseach year at a faster rate than the rate of increase in the value of overall world export trade in high-value and value-added agricultural products.
+&emsp;(4) Increase the value of United States high-value and value-added agricultural exports each year at a faster rate than the rate of increase in the value of overall world export trade in high-value and value-added agricultural products.
 
 &emsp;(5) Ensure that to the extent practicable—
 

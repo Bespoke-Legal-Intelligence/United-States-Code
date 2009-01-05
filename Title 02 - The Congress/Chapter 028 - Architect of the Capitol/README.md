@@ -9,8 +9,7 @@
 | [1803\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001803%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to act in case of absence, disability, or vacancy. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol-Chief%20Operating%20Officer.md) | Deputy Architect of the Capitol/Chief Operating Officer. |
-| [1806\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001806%20-%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md) | Chief Executive Officer for Visitor Services. |
-| [1807\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001807%20-%20Assistant%20to%20the%20Chief%20Executive%20Officer%20for%20Visitor%20Services.md) | Assistant to the Chief Executive Officer for Visitor Services. |
+| 1806, 1807. Repealed. |  |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001808%20-%20Inspector%20General%20of%20the%20Architect%20of%20the%20Capitol.md) | Inspector General of the Architect of the Capitol. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +33,7 @@
 | [1822\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001822%20-%20Leasing%20of%20space.md) | Leasing of space. |
 | [1823\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001823%20-%20Acquisition%20of%20real%20property%20for%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20the%20Senate.md) | Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate. |
 | [1824\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001824%20-%20Energy%20and%20environmental%20measures%20in%20Capitol%20Complex%20Master%20Plan.md) | Energy and environmental measures in Capitol Complex Master Plan. |
-| [1825\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001825%20-%20CVC%20maintenance.md) | CVC maintenance. |
+| [1825\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001825%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93437%2C%20title%20V%2C%20%C2%A7501%28b%29%282%29%2C%20Oct.%2020%2C%202008%2C%20122%20Stat.%204997.md) | Repealed. |
 | [1826\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001826%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

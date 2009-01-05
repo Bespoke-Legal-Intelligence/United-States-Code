@@ -14,7 +14,7 @@ There is hereby created an account in the Treasury of the United States to be kn
 
 > Amounts appropriated to the Railroad Retirement Account shall be appropriately reduced to take into account the amounts appropriated under this paragraph to the Social Security Equivalent Benefit Account.
 
-(2) On and after October 1, 1984, any amount which (but for this section) would have beentransferred to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title shall be transferred to the Social Security Equivalent Benefit Account. On and after October 1, 1984, no transfer shall be made to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title.
+(2) On and after October 1, 1984, any amount which (but for this section) would have been transferred to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title shall be transferred to the Social Security Equivalent Benefit Account. On and after October 1, 1984, no transfer shall be made to the Railroad Retirement Account pursuant to paragraph (2) or (4) of section 231f(c) of this title.
 
 (3) To the extent that the authorization for appropriation contained in section 231n(b) of this title is attributable to the cost of social security equivalent benefits, on and after October 1, 1984, any reference in such section to the Railroad Retirement Account shall be treated as a reference to the Social Security Equivalent Benefit Account.
 

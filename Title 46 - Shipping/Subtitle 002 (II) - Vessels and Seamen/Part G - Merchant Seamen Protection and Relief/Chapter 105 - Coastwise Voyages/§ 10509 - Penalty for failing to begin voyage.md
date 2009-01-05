@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 46:576
 
-This section provides for a reduction in the wages of seamen who arrive late for voyages, if their late arrivalis noted in the official logbook. It does not apply to fishing vessels, whaling vessels or yachts.
+This section provides for a reduction in the wages of seamen who arrive late for voyages, if their late arrival is noted in the official logbook. It does not apply to fishing vessels, whaling vessels or yachts.
 

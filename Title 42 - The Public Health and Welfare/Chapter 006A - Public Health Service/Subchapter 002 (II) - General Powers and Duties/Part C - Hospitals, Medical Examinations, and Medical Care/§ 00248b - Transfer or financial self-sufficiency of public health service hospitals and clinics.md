@@ -18,7 +18,7 @@ The Secretary shall evaluate promptly each proposal submitted under subsection (
 
 &emsp;(3) has a reasonable expectation of financial viability and, in the case of a hospital or station that is not proposed to be transferred, of financial self-sufficiency.
 
-Paragraph (1) shall not apply in the case of a proposal for the transfer of a discrete, minor, freestanding part of a hospital or station to a local public entity for the purpose of continuing the provision of services to refugees.
+Paragraph (1) shall not apply in the case of a proposal for the transfer of a discrete, minor,freestanding part of a hospital or station to a local public entity for the purpose of continuing the provision of services to refugees.
 
 #### (d) Rejection or approval of proposal
 

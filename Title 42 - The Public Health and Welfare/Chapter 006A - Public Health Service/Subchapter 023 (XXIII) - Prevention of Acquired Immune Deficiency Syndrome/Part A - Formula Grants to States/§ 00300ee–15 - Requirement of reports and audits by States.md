@@ -6,7 +6,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 &emsp;(1) securing a record and a description of the purposes for which payments received by the State pursuant to such section were expended and of the recipients of such payments;
 
-&emsp;(2) determining whether the payments were expended in accordance with the needs withinthe State required to be identified pursuant to section 300ee–13(a)(2) of this title;
+&emsp;(2) determining whether the payments were expended in accordance with the needs within the State required to be identified pursuant to section 300ee–13(a)(2) of this title;
 
 &emsp;(3) determining whether the payments were expended in accordance with the purpose described in section 300ee–11(b) of this title; and
 

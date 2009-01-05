@@ -1,6 +1,6 @@
 # Printed pages - Title 13 - Census
 
-GPO's 2007 edition (laws in effect as of 2008-01-08), from its printed page marks. The exact position of
+GPO's 2008 edition (laws in effect as of 2009-01-05), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title13.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

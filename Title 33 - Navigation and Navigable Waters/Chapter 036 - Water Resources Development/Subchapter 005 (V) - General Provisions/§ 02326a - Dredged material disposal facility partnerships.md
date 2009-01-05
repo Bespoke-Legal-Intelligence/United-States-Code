@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42 with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
+&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
 
 #### (2) Performance
 

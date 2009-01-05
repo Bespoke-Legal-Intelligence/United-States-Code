@@ -14,7 +14,7 @@
 
 &emsp;(B) shall not be made with respect to any individual for months after the calendar month in which such individual becomes 65 years of age; and
 
-&emsp;(C) shall, in the case of any individual who elects coverage under subparagraph (B) of section 8706(b)(3) of this title, be equal to the amount which would apply under this subsection if such individual had instead electedcoverage under subparagraph (A) of such section.
+&emsp;(C) shall, in the case of any individual who elects coverage under subparagraph (B) of section 8706(b)(3) of this title, be equal to the amount which would apply under this subsection if such individual had instead elected coverage under subparagraph (A) of such section.
 
 (3) The United States Postal Service shall pay the contributions required under this subsection with respect to any individual who—
 

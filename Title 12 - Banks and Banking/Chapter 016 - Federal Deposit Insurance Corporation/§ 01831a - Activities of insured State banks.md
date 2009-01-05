@@ -44,7 +44,7 @@
 
 #### (A) Exception
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, an insured State bank mayinvest as a limited partner in a partnership, the sole purpose of which is direct or indirect investment in the acquisition, rehabilitation, or new construction of a qualified housing project.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, an insured State bank may invest as a limited partner in a partnership, the sole purpose of which is direct or indirect investment in the acquisition, rehabilitation, or new construction of a qualified housing project.
 
 #### (B) Limitation
 
@@ -134,7 +134,7 @@
 
 #### (ii) Authorized actions
 
-&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring themodification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
+&emsp;&emsp;&emsp;Actions the Corporation may take under this subparagraph include requiring the modification, suspension, or termination of insurance activities conducted by any insured bank if the Corporation finds that the activities pose a significant risk to any insured bank described in paragraph (1)(A) or to the Deposit Insurance Fund.
 
 #### (f) Common and preferred stock investment
 
@@ -144,7 +144,7 @@
 
 #### (2) Exception for banks in certain States
 
-&emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted by the Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
+&emsp;Notwithstanding paragraph (1), an insured State bank may, to the extent permitted bythe Corporation, acquire and retain ownership of securities described in paragraph (1) to the extent the aggregate amount of such investment does not exceed an amount equal to 100 percent of the bank's capital if such bank—
 
 &emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 
@@ -218,7 +218,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### (1) Application of host State law
 
-&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of anout-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
+&emsp;The laws of a host State, including laws regarding community reinvestment, consumer protection, fair lending, and establishment of intrastate branches, shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of an out-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.
 
 #### (2) Activities of branches
 

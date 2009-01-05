@@ -12,5 +12,5 @@ The Secretary of Energy may not use appropriated funds to establish a reserve fo
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(g)(19)(D), in introductory provisions, substituted “section 2623 of this title” for “section 3141” and “October 30, 2000” for “the date of the enactment of this Act”.
+<b>2003</b>—Pub. L. 108–136, §3141(g)(19)(D), in introductory provisions, substituted “section 2623 of this title” for“section 3141” and “October 30, 2000” for “the date of the enactment of this Act”.
 

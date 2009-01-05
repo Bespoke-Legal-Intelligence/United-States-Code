@@ -1,6 +1,6 @@
 ### §7508. Authorization and appropriations
 
-(a)(1) There are authorized to be appropriated $60,000,000 for each of the fiscal years 2003 through 2007 for the Secretary to make available to the States to pay for the direct and indirect costs of the States related to the processing, storage, transporting, and distributing to eligible recipient agencies of commodities provided by the Secretary under this chapter and commodities secured from other sources, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435)). Funds appropriated under this paragraph for any fiscal year shall be allocated to the States on an advance basis, dividing such funds among the States in the same proportions as the commodities distributed under this chapter for such fiscal year are divided among the States. If a State agency is unable to use all of the funds so allocated to it, the Secretary shall reallocate such unused funds among the other States.
+(a)(1) There are authorized to be appropriated $100,000,000 for fiscal year 2008 and each fiscal year thereafter for the Secretary to make available to the States to pay for the direct and indirect costs of the States related to the processing, storage, transporting, and distributing to eligible recipient agencies of commodities provided by the Secretary under this chapter and commodities secured from other sources, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435)) and donated wild game. Funds appropriated under this paragraph for any fiscal year shall be allocated to the States on an advance basis, dividing such funds among the States in the same proportions as the commodities distributed under this chapter for such fiscal year are divided among the States. If a State agency is unable to use all of the funds so allocated to it, the Secretary shall reallocate such unused funds among the other States.
 
 (2) Each State shall make available to emergency feeding organizations in the State not less than 40 per centum of the funds provided as authorized in paragraph (1) that it has been allocated for a fiscal year, as necessary to pay for, or provide advance payments to cover, the direct expenses of the emergency feeding organizations for distributing commodities to needy persons, but only to the extent such expenses are actually so incurred by such organizations. As used in this paragraph, the term “direct expenses” includes costs of transporting, storing, handling, repackaging, processing, and distributing commodities incurred after they are received by the organization; costs associated with determinations of eligibility, verification, and documentation; costs of providing information to persons receiving commodities under this chapter concerning the appropriate storage and preparation of such commodities; costs involved in publishing announcements of times and locations of distribution; and costs of recordkeeping, auditing, and other administrative procedures required for participation in the program under this chapter. If a State makes a payment, using State funds, to cover direct expenses of emergency feeding organizations, the amount of such payment shall be counted toward the amount a State must make available for direct expenses of emergency feeding organizations under this paragraph.
 
@@ -28,9 +28,17 @@
 
 (b) The value of the commodities made available under this chapter and the funds of the Corporation used to pay the costs of initial processing, packaging (including forms suitable for home use), and delivering commodities to the States shall not be charged against appropriations made or authorized under this section.
 
-(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330.)
+(Pub. L. 98–8, title II, §204, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(6), Sept. 2, 1983, 97 Stat. 610; Pub. L. 99–198, title XV, §1569, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–77, title VIII, §813, July 22, 1987, 101 Stat. 537; Pub. L. 100–435, title I, §§103(a)–(c), 105(a), Sept. 19, 1988, 102 Stat. 1647, 1650; Pub. L. 101–624, title XVII, §1772(c), (d), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 104–127, title IV, §403(a), Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, §871(c), (e)(2), Aug. 22, 1996, 110 Stat. 2345; Pub. L. 107–171, title IV, §4204, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, titleIV, §§4201(c), 4406(b)(1), May 22, 2008, 122 Stat. 1121, 1141; Pub. L. 110–246, §4(a), title IV, §§4201(c), 4406(b)(1), June 18, 2008, 122 Stat. 1664, 1882, 1902.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §4406(b)(1), in first sentence, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of the fiscal years 2003 through 2007”.
+
+Pub. L. 110–246, §4201(c), in first sentence, substituted “$100,000,000” for “$60,000,000” and inserted “and donated wild game” before period at end.
 
 2002—Subsec. (a)(1). Pub. L. 107–171, in first sentence, substituted “$60,000,000” for “$50,000,000” and “2003 through 2007” for “1991 through 2002”, struck out “administrative” before “costs of the States”, and inserted “storage,” after “processing,” and “, including commodities secured by gleaning (as defined in section 111(a) of the Hunger Prevention Act of 1988 (7 U.S.C. 612c note; Public Law 100–435))” after “sources”.
 
@@ -61,6 +69,12 @@ Subsec. (c)(2). Pub. L. 100–435, §103(b), (c), in first sentence, substituted
 1985—Subsecs. (c), (d). Pub. L. 99–198 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1983—Subsecs. (b), (c). Pub. L. 98–92 added subsec. (b), designated former last sentence of subsec. (a) as (c), and substituted therein “appropriations made or authorized under this section” for “this appropriation”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by sections 4201(c) and 4406(b)(1) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 

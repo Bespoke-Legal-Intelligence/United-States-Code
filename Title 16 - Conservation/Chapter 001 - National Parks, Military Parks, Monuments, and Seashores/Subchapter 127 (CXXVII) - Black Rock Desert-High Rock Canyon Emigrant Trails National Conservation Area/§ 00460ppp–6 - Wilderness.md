@@ -6,7 +6,7 @@ In furtherance of the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131 et 
 
 &emsp;(1) Certain lands in the Black Rock Desert Wilderness Study Area comprised of approximately 315,700 acres, as generally depicted on a map entitled “Black Rock Desert Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Black Rock Desert Wilderness.
 
-&emsp;(2) Certain lands in the Pahute Peak Wilderness Study Area comprised of approximately 57,400 acres, as generally depicted on a map entitled “Pahute Peak Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Pahute Peak Wilderness.
+&emsp;(2) Certain lands in the Pahute Peak Wilderness Study Area comprised of approximately57,400 acres, as generally depicted on a map entitled “Pahute Peak Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the Pahute Peak Wilderness.
 
 &emsp;(3) Certain lands in the North Black Rock Range Wilderness Study Area comprised of approximately 30,800 acres, as generally depicted on a map entitled “North Black Rock Range Wilderness—Proposed” and dated October 3, 2001, and which shall be known as the North Black Rock Range Wilderness.
 
@@ -26,7 +26,7 @@ In furtherance of the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131 et 
 
 #### (b) Administration of wilderness areas
 
-Subject to valid existing rights, each wilderness area designated by this subchapter shall be administered by the Secretary in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference toDecember 21, 2000, and any reference to the Secretary of Agriculture shall be deemed to be a reference to the Secretary of the Interior.
+Subject to valid existing rights, each wilderness area designated by this subchapter shall be administered by the Secretary in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], except that any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to December 21, 2000, and any reference to the Secretary of Agriculture shall be deemed to be a reference to the Secretary of the Interior.
 
 #### (c) Maps and legal description
 
@@ -58,7 +58,7 @@ Congress—
 
 &emsp;(2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 
-(Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), (c)–(e), Nov. 5, 2001, 115 Stat. 443.)
+(Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356;Pub. L. 107–63, title I, §135(a), (c)–(e), Nov. 5, 2001, 115 Stat. 443.)
 
 #### References in Text
 

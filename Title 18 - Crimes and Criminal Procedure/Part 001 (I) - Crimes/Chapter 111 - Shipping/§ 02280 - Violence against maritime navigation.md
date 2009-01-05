@@ -70,7 +70,7 @@ Definitions.—In this section—
 
 &emsp;“territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
 
-&emsp;“ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up.
+&emsp;“ship” means a vessel of any type whatsoever not permanently attached to the sea-bed,including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up.
 
 &emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 

@@ -8,7 +8,7 @@ The Commission shall—
 
 &emsp;(2) conduct such continuing studies and investigations of deaths, injuries, diseases, other health impairments, and economic losses resulting from accidents involving consumer products as it deems necessary;
 
-&emsp;(3) following publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
+&emsp;(3) following publication of a notice of proposed rulemaking for a product safety rule under any rulemaking authority administered by the Commission, assist public and private organizations or groups of manufacturers, administratively and technically, in the development of safety standards addressing the risk of injury identified in such notice; and
 
 &emsp;(4) to the extent practicable and appropriate (taking into account the resources and priorities of the Commission), assist public and private organizations or groups of manufacturers, administratively and technically, in the development of product safety standards and test methods.
 
@@ -28,11 +28,13 @@ In carrying out its functions under this section, the Commission may make grants
 
 #### (d) Availability to public of information
 
-Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
+Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights toall information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
-(Pub. L. 92–573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720.)
+(Pub. L. 92–573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720; Pub. L. 110–314, title II, §204(a)(2), Aug. 14, 2008, 122 Stat. 3041.)
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–314 struck out “an advance notice of proposed rulemaking or” after “following publication of”.
 
 1981—Subsec. (a)(3), (4). Pub. L. 97–35, §1209(a), added pars. (3) and (4).
 
@@ -116,7 +118,7 @@ Members.—The Technical Advisory Group shall consist of the same individuals ap
 
 “(a)
 
-In General.—Any information provided to the National Institute for Standards and Technology's Center for Fire Research, to the Consumer Product Safety Commission, or to the Technical Advisory Group under section 2 which is designated as trade secret or confidential information shall be treated as trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, and section 1905 of title 18, United States Code, and shall not be revealed, except as provided under subsection (b). No member or employee of the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group and no person assigned to or consulting with the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group, shall disclose any such information to any person who is not a member or employee of, assigned to, or consulting with, the Center for Fire Research, Consumer Product Safety Commission, or the Technical Advisory Group unless the person submitting such information specifically and in writing authorizes such disclosure.
+In General.—Any information provided to the National Institute for Standards and Technology's Center for Fire Research, to the Consumer Product Safety Commission, or to the Technical Advisory Group undersection 2 which is designated as trade secret or confidential information shall be treated as trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, and section 1905 of title 18, United States Code, and shall not be revealed, except as provided under subsection (b). No member or employee of the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group and no person assigned to or consulting with the Center for Fire Research, the Consumer Product Safety Commission, or the Technical Advisory Group, shall disclose any such information to any person who is not a member or employee of, assigned to, or consulting with, the Center for Fire Research, Consumer Product Safety Commission, or the Technical Advisory Group unless the person submitting such information specifically and in writing authorizes such disclosure.
 
 “(b)
 
@@ -160,7 +162,7 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 “Sec. 4. The Study Group shall undertake, subject to oversight and review by the Interagency Committee, such studies and other activities as it considers necessary and appropriate to determine the technical and commercial feasibility, economic impact, and other consequences of developing cigarettes and little cigars that will have a minimum propensity to ignite upholstered furniture or mattresses. Such activities include identification of the different physical characteristics of cigarettes and little cigars which have an impact on the ignition of upholstered furniture and mattresses, an analysis of the feasibility of altering any pertinent characteristics to reduce ignition propensity, and an analysis of the possible costs and benefits, both to the industry and the public, associated with any such product modification.
 
-“Sec. 5. The Interagency Committee shall submit one year after the date of enactment of this Act \[Oct. 30, 1984\] a status report to the Senate and the House of Representatives describing the activities undertaken under section 4 during the preceding year. The Interagency Committee shall submit a final technical report, prepared by the Study Group, to the Senate and the House of Representatives not later than thirty months after the date of enactment of this Act \[Oct. 30, 1984\]. The Interagency Committee shall provide to the Congress, within sixty days after the submission of the final technical report, any policy recommendations the Interagency Committee deems appropriate. The Interagency Committee and the Study Group shall terminate one month after submission of the policy recommendations prescribed by this section.
+“Sec. 5. The Interagency Committee shall submit one year after the date of enactment of this Act \[Oct. 30, 1984\] a status report to the Senate and the House of Representatives describing the activities undertaken under section 4 during the preceding year. The Interagency Committee shall submit a final technical report, prepared by the Study Group, to the Senate and the House of Representatives not later than thirty months after the date of enactment of this Act \[Oct. 30, 1984\]. The Interagency Committee shall provide to the Congress, within sixty days after the submission of thefinal technical report, any policy recommendations the Interagency Committee deems appropriate. The Interagency Committee and the Study Group shall terminate one month after submission of the policy recommendations prescribed by this section.
 
 “Sec. 6. (a) Any information provided to the Interagency Committee or to the Study Group under section 4 which is designated as trade secret or confidential information shall be treated as trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, and section 1905 of title 18, United States Code, and shall not be revealed, except as provided under subsection (b). No member of the Study Group or Interagency Committee, and no person assigned to or consulting with the Study Group, shall disclose any such information to any person who is not a member of, assigned to, or consulting with, the Study Group or Interagency Committee unless the person submitting such information specifically and in writing authorizes such disclosure.
 
@@ -168,5 +170,5 @@ Sec. 3. (a) There is established the Technical Study Group on Cigarette and Litt
 
 “(c) The Interagency Committee shall, on the vote of a majority of its members, adopt reasonable procedures to protect the confidentiality of trade secret and confidential information, as defined in this section.
 
-“Sec. 7. As used in this Act, the terms ‘cigarettes’ and ‘little cigars’ have the meanings given such termsby section 3 of the Federal Cigarette Labeling and Advertising Act \[15 U.S.C. 1332\].”
+“Sec. 7. As used in this Act, the terms ‘cigarettes’ and ‘little cigars’ have the meanings given such terms by section 3 of the Federal Cigarette Labeling and Advertising Act \[15 U.S.C. 1332\].”
 

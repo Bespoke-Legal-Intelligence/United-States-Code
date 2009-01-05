@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) each year millions of citizens of the United States depend on the availability of lifesaving or life-enhancing medical devices, many of which are permanently implantable within the human body;
+&emsp;(1) each year millions of citizens of the United States depend on the availability of lifesaving or life-enhancing medical devices,many of which are permanently implantable within the human body;
 
 &emsp;(2) a continued supply of raw materials and component parts is necessary for the invention, development, improvement, and maintenance of the supply of the devices;
 
@@ -62,7 +62,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 2
 
 #### Effective Date
 
-Pub. L. 105–230, §8, Aug. 13, 1998, 112 Stat. 1529, provided that: “This Act \[enacting this chapter\] shallapply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act \[Aug. 13, 1998\], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”
+Pub. L. 105–230, §8, Aug. 13, 1998, 112 Stat. 1529, provided that: “This Act \[enacting this chapter\] shall apply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act \[Aug. 13, 1998\], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”
 
 #### Short Title
 

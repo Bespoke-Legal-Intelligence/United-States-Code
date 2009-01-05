@@ -24,7 +24,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 Section 403(d)(2) of Pub. L. 99–641 provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
 
-Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) of Pub. L. 99–641 to section 606 of this title, see section 408 of Pub. L. 99–641, set out as a note under section 606 of this title.
+Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) of Pub. L. 99–641 to section 606 of this title, see section 408 of Pub. L. 99–641, set out as a note under section 609 of this title.
 
 #### Effective Date of 1967 Amendment
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Construction and Effect of Amendments by Pub. L. 99–641
 
-For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 606 of this title.
+For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
 

@@ -1,6 +1,6 @@
 ### SUBCHAPTER XXVII—LIFESPAN RESPITE CARE
 
-<i><sup>1</sup></i><i> So in original. Section 300hh–10(b)(3) of this title does not contain subpars.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 
 
 ---

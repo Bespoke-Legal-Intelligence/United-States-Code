@@ -74,7 +74,7 @@
 
 #### (d) Establishment of fees
 
-(1) The Secretary shall by regulation establish the level of any fees which are authorized to be charged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
+(1) The Secretary shall by regulation establish the level of any fees which are authorized to becharged pursuant to section 1853(b)(1) of this title. The Secretary may enter into a cooperative agreement with the States concerned under which the States administer the permit system and the agreement may provide that all or part of the fees collected under the system shall accrue to the States. The level of fees charged under this subsection shall not exceed the administrative costs incurred in issuing the permits.
 
 (2)(A) Notwithstanding paragraph (1), the Secretary is authorized and shall collect a fee to recover the actual costs directly related to the management, data collection, and enforcement of any—
 
@@ -178,7 +178,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 &emsp;&emsp;(A) conform to the time lines for review and approval of fishery management plans and plan amendments under this section; and
 
-&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that is useful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
+&emsp;&emsp;(B) integrate applicable environmental analytical procedures, including the time frames for public input, with the procedure for the preparation and dissemination of fishery management plans, plan amendments, and other actions taken or approved pursuant to this chapter in order to provide for timely, clear and concise analysis that isuseful to decision makers and the public, reduce extraneous paperwork, and effectively involve the public.
 
 #### (2) Usage
 
@@ -328,7 +328,7 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection\(b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
 Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
@@ -344,7 +344,7 @@ Pub. L. 109–479, title I, §104(d), Jan. 12, 2007, 120 Stat. 3585, provided th
 
 #### Effective Date of 1983 Amendment
 
-Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending thissection\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
 
 #### Transfer of Functions
 

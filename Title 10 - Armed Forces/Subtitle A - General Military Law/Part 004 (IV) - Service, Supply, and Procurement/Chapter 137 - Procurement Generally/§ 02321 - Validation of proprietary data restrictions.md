@@ -2,7 +2,7 @@
 
 (a)
 
-Contracts Covered by Section.—This section applies to any contract for supplies or services entered into by the Department of Defense that includes provisions for the delivery of technical data.
+Contracts Covered by Section.—This section applies to any contract for supplies or services entered into by the Department of Defensethat includes provisions for the delivery of technical data.
 
 (b)
 
@@ -62,7 +62,7 @@ Time for Contractors to Submit Justifications.—If a contractor or subcontracto
 
 Presumption of Development Exclusively at Private Expense.—(1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
-(2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (whether or not under a contract for commercial items) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
+(2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
 
 (g)
 
@@ -80,7 +80,7 @@ Rights and Liability Upon Final Disposition.—(1) If, upon final disposition, t
 
 &emsp;(A) the restriction shall be cancelled; and
 
-&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor orsubcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the United States in challenging the asserted restriction, unless special circumstances would make such payment unjust.
+&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the United States in challenging the asserted restriction, unless special circumstances would make such payment unjust.
 
 (2) If, upon final disposition, the contracting officer's challenge to the use or release restriction is not sustained—
 
@@ -96,7 +96,7 @@ Use or Release Restriction Defined.—In this section, the term “use or releas
 
 &emsp;(2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223.)
 
 #### References in Text
 
@@ -109,6 +109,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Another section 2321 of this title was contained in chapter 138 and was renumbered section 2341 of this title.
 
 #### Amendments
+
+2008—Subsec. (f)(2). Pub. L. 110–181 substituted “(other than technical data for a commercially available off-the-shelf item as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c)))” for “(whether or not under a contract for commercial items)”.
 
 2006—Subsec. (f). Pub. L. 109–364 substituted “Expense” for “Expense for Commercial Items Contracts” in heading, designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), in” for “In”, and added par. (2).
 
@@ -150,7 +152,7 @@ Subsec. (d)(4)(A). Pub. L. 99–180, §1231(6)(A), substituted “subsection” 
 
 Subsec. (e). Pub. L. 100–26, §7(a)(5)(A)(i), (B), redesignated former subsec. (c) as (e), inserted heading, and substituted “If a contractor or subcontractor asserting a use or release restriction” for “If a contractor or subcontractor asserting a restriction subject to this section”. Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 100–26, §7(a)(5)(A)(i), (C), redesignated former subsec. (d) as (f), inserted heading, andsubstituted “subsection (d)(3)” for “subsection (b)” in two places. Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 100–26, §7(a)(5)(A)(i), (C), redesignated former subsec. (d) as (f), inserted heading, and substituted “subsection (d)(3)” for “subsection (b)” in two places. Former subsec. (f) redesignated (h).
 
 Subsec. (g). Pub. L. 100–26, §7(a)(5)(A)(i), (D), redesignated former subsec. (e) as (g) and inserted heading.
 

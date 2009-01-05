@@ -6,7 +6,7 @@ Operation in Foreign Commerce.—A contractor for a vessel included in an operat
 
 (b)
 
-Other Restrictions.—The restrictions of section 55305(a) of this title concerning the building, rebuilding, or documentation of a vessel in a foreign country shall not apply to a vessel for any day the operator of that vessel is receiving payments for operation of that vessel under an operating agreement under this chapter.
+Other Restrictions.—The restrictions of section 55305(a) of this title concerning thebuilding, rebuilding, or documentation of a vessel in a foreign country shall not apply to a vessel for any day the operator of that vessel is receiving payments for operation of that vessel under an operating agreement under this chapter.
 
 (c)
 

@@ -14,7 +14,7 @@ No certificate, coupon, or other device purporting to be or to represent a ticke
 
 #### (d) Indecent or immoral material prohibited
 
-No indecent or immoral picture, print, or representation shall be contained in, attached to,or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
+No indecent or immoral picture, print, or representation shall be contained in, attached to, or stamped, marked, written, or printed on any package of tobacco products or cigarette papers or tubes.
 
 #### (e) Exceptions
 

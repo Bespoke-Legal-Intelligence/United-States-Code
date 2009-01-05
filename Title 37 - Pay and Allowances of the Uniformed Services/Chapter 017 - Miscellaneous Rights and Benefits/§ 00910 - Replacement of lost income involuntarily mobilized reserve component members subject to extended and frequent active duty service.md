@@ -2,17 +2,23 @@
 
 (a)
 
-Payment Required.—The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary. The payments shall be made on a monthly basis.
+Payment Required.—The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
 
 (b)
 
-Eligibility.—Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
+Eligibility.—(1) A member of a reserve component is entitled to a payment under this section for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
 
-&emsp;(1) completes 18 continuous months of service on active duty under such an order;
+&emsp;(A) completes 547 continuous days of service on active duty under an involuntary mobilization order;
 
-&emsp;(2) completes 24 months on active duty during the previous 60 months under such an order; or
+&emsp;(B) completes 730 cumulative days on active duty under an involuntary mobilization order during the previous 1,826 days; or
 
-&emsp;(3) is involuntarily mobilized for service on active duty for a period of 180 days or more within six months or less following the member's separation from a previous period of involuntary active duty for a period of 180 days or more.
+&emsp;(C) is involuntarily mobilized for service on active duty for a period of 180 days or more within 180 days after the date of the member's separation from a previous period of active duty for a period of 180 days or more.
+
+(2) The entitlement of a member of a reserve component to a payment under this section also shall commence or, if previously commenced under paragraph (1), shall continue if the member—
+
+&emsp;(A) satisfies the required number of days on active duty specified in subparagraph (A) or (B) of paragraph (1) or was involuntarily mobilized as provided in subparagraph (C) of such paragraph; and
+
+&emsp;(B) is retained on active duty under subparagraph (A) or (B) of section 12301(h)(1) of title 10 because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under section 310 of this title is available.
 
 (c)
 
@@ -46,9 +52,25 @@ Regulations.—This section shall be administered under regulations to be prescr
 
 (g)
 
-Termination of Authority.—No payment shall be made under this section after December 31, 2008.
+Termination.—No payment shall be made to a member under this section for months beginning after December 31, 2009, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292.)
+(Added Pub. L. 109–163, div. A, title VI, §614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, §604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §605, Oct. 14, 2008, 122 Stat. 4483.)
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
+
+Subsec. (b). Pub. L. 110–181, §604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
+
+&emsp;“(1) completes 18 continuous months of service on active duty under such an order;
+
+&emsp;“(2) completes 24 months on active duty during the previous 60 months under such an order; or
+
+&emsp;“(3) is involuntarily mobilized for service on active duty for a period of 180 days or more within six months or less following the member's separation from a previous period of involuntary active duty for a period of 180 days or more.”
+
+Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+
+Pub. L. 110–181, §604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
 
 #### Effective Date
 

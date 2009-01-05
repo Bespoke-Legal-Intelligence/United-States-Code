@@ -6,7 +6,7 @@ With the funds available to carry out this part for the benefit of Federal priso
 
 #### (b) General contracting authority
 
-In implementing this part,<sup>1</sup> the Attorney General may enter into contracts with appropriate public or private agencies to provide housing, sustenance, services, and supervision of inmates eligible for placement in community correctional facilities under this part.<sup>1</sup>
+In implementing this part,<sup>1</sup> the Attorney General may enter into contracts with appropriate public or private agencies to provide housing, sustenance, services, and supervision of inmateseligible for placement in community correctional facilities under this part.<sup>1</sup>
 
 #### (c) Use of State facilities
 

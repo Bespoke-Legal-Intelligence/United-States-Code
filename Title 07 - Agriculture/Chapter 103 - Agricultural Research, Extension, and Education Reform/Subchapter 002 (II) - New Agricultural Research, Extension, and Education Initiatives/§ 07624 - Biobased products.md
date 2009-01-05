@@ -20,7 +20,7 @@ The Secretary of Agriculture shall—
 
 #### (1) Agreements authorized
 
-&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of new biobased products to the point of practical application.
+&emsp;The Secretary may enter into cooperative agreements with private entities described in subsection (d) of this section, under which the facilities and technical expertise of the Agricultural Research Service may be made available to operate pilot plants and other large-scale preparation facilities for the purpose of bringing technologies necessary for the development and commercialization of newbiobased products to the point of practical application.
 
 #### (2) Description of cooperative activities
 
@@ -48,7 +48,7 @@ The Secretary, acting through the Agricultural Research Service, may establish a
 
 &emsp;(1) encourage innovative and collaborative science; and
 
-&emsp;(2) during each of fiscal years 1999 through 2007, develop biobased products with promising commercial potential.
+&emsp;(2) during each of fiscal years 1999 through 2012, develop biobased products with promising commercial potential.
 
 #### (f) Source of funds
 
@@ -70,19 +70,31 @@ For the purpose of determining the market potential for new biobased products pr
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
 
-(Pub. L. 105–185, title IV, §404, June 23, 1998, 112 Stat. 570; Pub. L. 107–171, title VI, §6201(d)(4), title VII, §7124, May 13, 2002, 116 Stat. 419, 434.)
+(Pub. L. 105–185, title IV, §404, June 23, 1998, 112 Stat. 570; Pub. L. 107–171, title VI, §6201(d)(4), title VII, §7124, May 13, 2002, 116 Stat. 419, 434; Pub. L. 110–234, title VII, §7304, May 22, 2008, 122 Stat. 1242; Pub. L. 110–246, §4(a), title VII, §7304, June 18, 2008, 122 Stat. 1664, 2003.)
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1)(B), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
-2002—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
+2008—Subsec. (e)(2). Pub. L. 110–246, §7304(a), substituted “2012” for “2007”.
+
+Subsec. (h). Pub. L. 110–246, §7304(b), substituted “2012” for “2007”.
+
+2002—Subsec. (d)(2) to (4). Pub. L. 107–171, §6201(d)(4), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “A recipient of funding from the Alternative Agricultural Research and Commercialization Corporation established under section 5902 of this title.”
 
 Subsec. (e)(2). Pub. L. 107–171, §7124(a), substituted “2007” for “2001”.
 
 Subsec. (h). Pub. L. 107–171, §7124(b), substituted “2007” for “2002”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

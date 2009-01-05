@@ -12,7 +12,7 @@ The Federal Communications Commission, in consultation with the Federal Trade Co
 
 &emsp;(2) allow recipients of mobile service commercial messages to indicate electronically a desire not to receive future mobile service commercial messages from the sender;
 
-&emsp;(3) take into consideration, in determining whether to subject providers of commercial mobile services to paragraph (1), the relationship that exists between providers of such services and their subscribers, but if the Commission determines that such providers should not be subject to paragraph (1), the rules shallrequire such providers, in addition to complying with the other provisions of this chapter, to allow subscribers to indicate a desire not to receive future mobile service commercial messages from the provider—
+&emsp;(3) take into consideration, in determining whether to subject providers of commercial mobile services to paragraph (1), the relationship that exists between providers of such services and their subscribers, but if the Commission determines that such providers should not be subject to paragraph (1), the rules shall require such providers, in addition to complying with the other provisions of this chapter, to allow subscribers to indicate a desire not to receive future mobile service commercial messages from the provider—
 
 &emsp;&emsp;(A) at the time of subscribing to such service; and
 

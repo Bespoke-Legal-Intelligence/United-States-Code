@@ -12,7 +12,7 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 
 Section was formerly classified to section 1099 of this title.
 
-Section was enacted as part of the Garn-St Germain Depository Institutions Act of 1982, and not as part oftitle IV of the Higher Education Act of 1965 which comprises this subchapter.
+Section was enacted as part of the Garn-St Germain Depository Institutions Act of 1982, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
 
 #### Effective Date
 

@@ -116,5 +116,5 @@ Effective Date.—This section shall apply to fiscal year 2005 and each fiscal y
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, provided: “That appropriations under this head \[“
 
-Capitol Power Plant”\] shall hereafter be available for maintenance, alterations, personal and other services, and for all other necessary expenses of the Government owned property, buildings and facilities located in Lot 803, Square 695, formerly known as the General Services Administration Coal Yard at 42 I Street, S.E., in the District of Columbia.”
+Capitol Power Plant”\] shall hereafter be available for maintenance, alterations, personal and other services, and forall other necessary expenses of the Government owned property, buildings and facilities located in Lot 803, Square 695, formerly known as the General Services Administration Coal Yard at 42 I Street, S.E., in the District of Columbia.”
 

@@ -14,7 +14,7 @@ Metal halide lamp fixtures.—
 
 &emsp;(i)
 
-In general.—The Commission shall issue labeling rules under this section applicable to the covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
+In general.—The Commission shall issue labeling rules under this section applicable tothe covered product specified in section 6292(a)(19) of this title and to which standards are applicable under section 6295 of this title.
 
 &emsp;(ii)
 
@@ -76,7 +76,7 @@ Labeling requirements.—
 
 &emsp;(i)
 
-In general.—Subject to clauses (ii) through (iv), not later than 18 months after the date of issuance of applicable Department of Energy testing procedures, the Commission, in consultation with the Secretary and the Administrator of the Environmental ProtectionAgency (acting through the Energy Star program), shall, by regulation, prescribe labeling or other disclosure requirements for the energy use of—
+In general.—Subject to clauses (ii) through (iv), not later than 18 months after the date of issuance of applicable Department of Energy testing procedures, the Commission, in consultation with the Secretary and the Administrator of the Environmental Protection Agency (acting through the Energy Star program), shall, by regulation, prescribe labeling or other disclosure requirements for the energy use of—
 
 &emsp;&emsp;(I) televisions;
 
@@ -148,7 +148,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 (4) A labeling rule prescribed under paragraph (3) shall take effect not later than 3 months after the date of prescription of such rule, except that such rules may take effect not later than 6 months after such date of prescription if the Commission determines that such extension is necessary to allow persons subject to such rules adequate time to come into compliance with such rules.
 
-(5) The Commission may delay the publication of a proposed labeling rule, or the prescriptionof a labeling rule, beyond the dates specified in paragraph (1) or (3), if it determines that it cannot publish proposed labeling rules or prescribe labeling rules which meet the requirements of this section on or prior to the date specified in the applicable paragraph and publishes such determination in the Federal Register, together with the reasons therefor. In any such case, it shall publish proposed labeling rules or prescribe labeling rules for covered products of such type (or class thereof) as soon as practicable unless it determines (A) that labeling in accordance with this section is not economically or technically feasible, or (B) in the case of a type specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, that labeling in accordance with this section is not likely to assist consumers in purchasing decisions. Any such determination shall be published in the Federal Register, together with the reasons therefor. This paragraph shall not apply to the prescription of a labeling rule with respect to covered products of a type specified in paragraph (19) <sup>1</sup> of section 6292(a) of this title.
+(5) The Commission may delay the publication of a proposed labeling rule, or the prescription of a labeling rule, beyond the dates specified in paragraph (1) or (3), if it determines that it cannot publish proposed labeling rules or prescribe labeling rules which meet the requirements of this section on or prior to the date specified in the applicable paragraph and publishes such determination in the Federal Register, together with the reasons therefor. In any such case, it shall publish proposed labeling rules or prescribe labeling rules for covered products of such type (or class thereof) as soon as practicable unless it determines (A) that labeling in accordance with this section is not economically or technically feasible, or (B) in the case of a type specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, that labeling in accordance with this section is not likely to assist consumers in purchasing decisions. Any such determination shall be published in the Federal Register, together with the reasons therefor. This paragraph shall not apply to the prescription of a labeling rule with respect to covered products of a type specified in paragraph (19) <sup>1</sup> of section 6292(a) of this title.
 
 #### (c) Content of label
 

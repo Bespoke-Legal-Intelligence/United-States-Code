@@ -2,7 +2,7 @@
 
 #### (a) Credit or refund
 
-Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made (without interest) to the manufacturer, importer, or export warehouse proprietor, on proofsatisfactory to the Secretary that the claimant manufacturer, importer, or export warehouse proprietor has paid the tax on tobacco products and cigarette papers and tubes withdrawn by him from the market; or on such articles lost (otherwise than by theft) or destroyed, by fire, casualty, or act of God, while in the possession of ownership of the claimant.
+Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made (without interest) to the manufacturer, importer, or export warehouse proprietor, on proof satisfactory to the Secretary that the claimant manufacturer, importer, or export warehouse proprietor has paid the tax on tobacco products and cigarette papers and tubes withdrawn by him from the market; or on such articles lost (otherwise than by theft) or destroyed, by fire, casualty, or act of God, while in the possession of ownership of the claimant.
 
 #### (b) Allowance
 
@@ -20,7 +20,7 @@ Any claim for credit or refund of tax under this section shall be filed within 6
 
 1965—Pub. L. 89–44, §808(c)(1), struck out “Refund or” and inserted in lieu thereof “Credit, refund, or” in section catchline.
 
-Subsec. (a). Pub. L. 89–44, §808(b)(1), substituted “Credit or refund” for “Refund” in heading and struck out “Refund of any tax imposed by this chapter shall be made”, replacing it with “Credit or refund of any tax imposed by this chapter or section 7652 shall be allowed or made”.
+Subsec. (a). Pub. L. 89–44, §808(b)(1), substituted “Credit or refund” for “Refund” in heading and struck out “Refund of any tax imposed by this chapter shall be made”, replacing it with “Credit or refund of anytax imposed by this chapter or section 7652 shall be allowed or made”.
 
 Subsec. (c). Pub. L. 89–44, §808(b)(2), inserted “credit or” before “refund”.
 

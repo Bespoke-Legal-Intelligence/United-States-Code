@@ -14,7 +14,7 @@ The Secretary of State may detail personnel of the Department of State to provid
 
 #### (d) Functions
 
-The Advisory Committee shall recommend grant policies for the advancement of the objectives of this chapter. In proposing recipients forgrants under this chapter, the Advisory Committee shall give the highest priority to national organizations with an interest and expertise in conducting research and training concerning the countries of Eastern Europe and the independent states of the former Soviet Union and in disseminating the results of such research. In making its recommendations, the Advisory Committee shall emphasize the development of a stable, long-term research program.
+The Advisory Committee shall recommend grant policies for the advancement of the objectives of this chapter. In proposing recipients for grants under this chapter, the Advisory Committee shall give the highest priority to national organizations with an interest and expertise in conducting research and training concerning the countries of Eastern Europe and the independent states of the former Soviet Union and in disseminating the results of such research. In making its recommendations, the Advisory Committee shall emphasize the development of a stable, long-term research program.
 
 (Pub. L. 98–164, title VIII, §804, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, §302(5), Dec. 17, 1993, 107 Stat. 2322.)
 

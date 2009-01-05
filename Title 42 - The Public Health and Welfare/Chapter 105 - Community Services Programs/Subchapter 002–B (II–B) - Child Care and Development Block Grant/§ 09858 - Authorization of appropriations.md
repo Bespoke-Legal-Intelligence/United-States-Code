@@ -24,7 +24,7 @@ Exception.—The amendment made by section 603(a) \[amending this section\] shal
 
 #### Short Title
 
-For short title of this subchapter as the Child Care and Development Block Grant Act of 1990, see section 658A(a) of Pub. L. 97–35, as amended, set out as a note under section 9801 of this title.
+For short title of this subchapter as the Child Care and Development Block Grant Act of 1990, see section658A(a) of Pub. L. 97–35, as amended, set out as a note under section 9801 of this title.
 
 #### Small Business Child Care Grant Program
 
@@ -162,7 +162,7 @@ Four-year study.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 4 years after the date on which the Secretary first awards grants under this section, the Secretary shall conduct a study to determine the number of child care facilities that are funded through covered entities that received assistance through a grant awarded under this section and that remain in operation, and the extent to which such facilities are meeting the child care needs of the individuals served by such facilities.
+In general.—Not later than 4 years after the date on which the Secretary first awards grants under this section, the Secretary shall conduct a study to determine the number of child care facilities that are funded through covered entities thatreceived assistance through a grant awarded under this section and that remain in operation, and the extent to which such facilities are meeting the child care needs of the individuals served by such facilities.
 
 &emsp;&emsp;“(B)
 

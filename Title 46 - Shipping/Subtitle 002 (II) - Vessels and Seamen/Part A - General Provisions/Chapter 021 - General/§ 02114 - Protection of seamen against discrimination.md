@@ -10,7 +10,7 @@
 
 (3) To qualify for protection against the seaman's employer under paragraph (1)(B), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
-(b) A seaman discharged or otherwise discriminated against in violation of this section maybring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
+(b) A seaman discharged or otherwise discriminated against in violation of this section may bring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
 
 &emsp;(1) restraining violations of this section;
 

@@ -58,7 +58,7 @@ The Administrator shall conduct biomedical studies to—
 
 #### (2) Training and education
 
-&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, including microbial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
+&emsp;The Director and Administrator shall jointly establish a national health care provider training and public education campaign to inform both the professional health care provider community and the general public about waterborne disease and the symptoms that may be caused by infectious agents, includingmicrobial contaminants. In developing such a campaign, they shall seek comment from interested groups and individuals, including scientists, physicians, State and local governments, environmental groups, public water systems, and vulnerable populations.
 
 #### (3) Funding
 

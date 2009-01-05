@@ -10,7 +10,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;(A) Relevant criminal history databases.
 
-&emsp;&emsp;(B) In the case of an alien (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))), the relevantdatabases to determine the status of the alien under the immigration laws of the United States.
+&emsp;&emsp;(B) In the case of an alien (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))), the relevant databases to determine the status of the alien under the immigration laws of the United States.
 
 &emsp;&emsp;(C) Other relevant information or databases, as determined by the Secretary.
 
@@ -50,7 +50,7 @@ A public transportation agency or a contractor or subcontractor of a public tran
 
 #### (f) Rights and responsibilities
 
-Nothing in this section shall be construed to abridge a public transportation agency's or a contractor or subcontractor of a public transportation agency's rights or responsibilities to make adverse employment decisions permittedby other Federal, State, or local laws. Nothing in the section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
+Nothing in this section shall be construed to abridge a public transportation agency's or a contractor or subcontractor of a public transportation agency's rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
 
 #### (g) No preemption of Federal or State law
 

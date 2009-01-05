@@ -2,7 +2,7 @@
 
 #### (a) Permitted uses
 
-Grants awarded under section 604 or 605 of this title may be used to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, through—
+The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, through—
 
 &emsp;(1) developing and enhancing homeland security, emergency management, or other relevant plans, assessments, or mutual aid agreements;
 
@@ -22,7 +22,7 @@ Grants awarded under section 604 or 605 of this title may be used to achieve tar
 
 &emsp;(9) supporting public safety answering points;
 
-&emsp;(10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+&emsp;(10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
 
 &emsp;(11) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
@@ -50,7 +50,21 @@ Grants awarded under section 604 or 605 of this title may be used to achieve tar
 
 &emsp;&emsp;At the request of the recipient of a grant under section 604 or 605 of this title, the Administrator may grant a waiver of the limitation under subparagraph (A).
 
-#### (3) Construction
+#### (3) Limitations on discretion
+
+#### (A) In general
+
+&emsp;&emsp;With respect to the use of amounts awarded to a grant recipient under section 604 or 605 of this title for personnel costs in accordance with paragraph (2) of this subsection, the Administrator may not—
+
+&emsp;&emsp;&emsp;(i) impose a limit on the amount of the award that may be used to pay for personnel, or personnel-related, costs that is higher or lower than the percent limit imposed in paragraph (2)(A); or
+
+&emsp;&emsp;&emsp;(ii) impose any additional limitation on the portion of the funds of a recipient that may be used for a specific type, purpose, or category of personnel, or personnel-related, costs.
+
+#### (B) Analysts
+
+&emsp;&emsp;If amounts awarded to a grant recipient under section 604 or 605 of this title are used for paying salary or benefits of a qualified intelligence analyst under subsection (a)(10), the Administrator shall make such amounts available without time limitations placed on the period of time that the analyst can serve under the grant.
+
+#### (4) Construction
 
 #### (A) In general
 
@@ -72,13 +86,13 @@ Grants awarded under section 604 or 605 of this title may be used to achieve tar
 
 &emsp;&emsp;&emsp;&emsp;(III) the amount allocated for purposes under clause (i) does not exceed the greater of $1,000,000 or 15 percent of the grant award.
 
-#### (4) Recreation
+#### (5) Recreation
 
 &emsp;Grants awarded under this part may not be used for recreational or social purposes.
 
 #### (c) Multiple-purpose funds
 
-Nothing in this part shall be construed to prohibit State, local, or tribal governments from using grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
+Nothing in this part shall be construed to prohibit State, local, or tribal governments fromusing grant funds under sections 604 and 605 of this title in a manner that enhances preparedness for disasters unrelated to acts of terrorism, if such use assists such governments in achieving target capabilities related to preventing, preparing for, protecting against, or responding to acts of terrorism.
 
 #### (d) Reimbursement of costs
 
@@ -98,9 +112,17 @@ Upon request by the recipient of a grant under section 604 or 605 of this title,
 
 If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
-(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283.)
+(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336.)
 
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–412, §2(1)(A), substituted “The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds” for “Grants awarded under section 604 or 605 of this title may be used” in introductory provisions.
+
+Subsec. (a)(10). Pub. L. 110–412, §2(1)(B), inserted “, regardless of whether such analysts are current or new full-time employees or contract employees” after “analysts”.
+
+Subsec. (b)(3) to (5). Pub. L. 110–412, §2(2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 

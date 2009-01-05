@@ -1,6 +1,6 @@
 ### §221. Future-years defense program: submission to Congress; consistency in budgeting
 
-(a) The Secretary of Defense shall submit to Congress each year, at or about the time thatthe President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
+(a) The Secretary of Defense shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years defense program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years defense program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years.
 
 (b)(1) The Secretary of Defense shall ensure that amounts described in subparagraph (A) of paragraph (2) for any fiscal year are consistent with amounts described in subparagraph (B) of paragraph (2) for that fiscal year.
 
@@ -28,9 +28,147 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Separate Procurement Line Items for Future Combat Systems Program
+
+Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, provided that: “Effective for the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2011 and for each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated procurement line item is designated for each of the following elements of the Future Combat Systems program (in this section referred to as ‘FCS’), to the extent the budget includes funding for such elements:
+
+&emsp;“(1) FCS Manned Ground Vehicles.
+
+&emsp;“(2) FCS Unmanned Ground Vehicles.
+
+&emsp;“(3) FCS Unmanned Aerial Systems.
+
+&emsp;“(4) FCS Unattended Ground Systems.
+
+&emsp;“(5) Other FCS elements.”
+
+#### Separate Procurement and Research, Development, Test, and Evaluation Line Items and Program Elements for Sky Warrior Unmanned Aerial Systems Project
+
+Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, provided that: “Effective for fiscal year 2010 and for each fiscal year thereafter, the Secretary of Defense shall ensure that, in the annual budget submission of the Department of Defense to the President, within both the account for procurement and the account for research, development, test, and evaluation, a separate, dedicated line item and program element is designated for the Sky Warrior Unmanned Aerial Systems project, to the extent such accounts include funding for such project.”
+
+#### Display of Annual Budget Requirements for Air Sovereignty Alert Mission
+
+Pub. L. 110–417, \[div. A\], title III, §354, Oct. 14, 2008, 122 Stat. 4426, provided that:
+
+“(a)
+
+Submission With Annual Budget Justification Documents.—For fiscal year 2010 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for consideration by the President for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a consolidated budget justification display that covers all programs and activities of the Air Sovereignty Alert mission of the Air Force.
+
+“(b)
+
+Requirements for Budget Display.—The budget display under subsection (a) for a fiscal year shall include for such fiscal year the following:
+
+&emsp;“(1) The funding requirements for the Air Sovereignty Alert mission, and the associated Command and Control mission, including such requirements for—
+
+&emsp;&emsp;“(A) military personnel costs;
+
+&emsp;&emsp;“(B) flying hours; and
+
+&emsp;&emsp;“(C) any other associated mission costs.
+
+&emsp;“(2) The amount in the budget for the Air Force for each of the items referred to in paragraph (1).
+
+&emsp;“(3) The amount in the budget for the Air National Guard for each such item.”
+
+#### Requirement for Separate Display of Budgets for Afghanistan and Iraq
+
+Pub. L. 110–417, \[div. A\], title XV, §1502, Oct. 14, 2008, 122 Stat. 4649, provided that:
+
+“(a)
+
+Operations in Iraq and Afghanistan.—In any annual or supplemental budget request for the Department of Defense that is submitted to Congress after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall set forth separately any funding requested in such budget request for—
+
+&emsp;“(1) operations of the Department of Defense in Afghanistan; and
+
+&emsp;“(2) operations of the Department of Defense in Iraq.
+
+“(b)
+
+Specificity of Display.—Each budget request covered by subsection (a) shall, for any funding requested for operations in Iraq or Afghanistan—
+
+&emsp;“(1) clearly display the amount of such funding at the appropriation account level and at the program, project, or activity level; and
+
+&emsp;“(2) include a detailed description of the assumptions underlying the funding for the period covered by the budget request, including the anticipated troop levels, the operations intended to be carried out, and the equipment reset requirements necessary to support such operations.”
+
+#### Report on Funding of the Department of Defense for Health Care
+
+Pub. L. 110–181, div. A, title VII, §718, Jan. 28, 2008, 122 Stat. 197, provided that:
+
+“(a)
+
+Report.—If the President submits to Congress the budget for a fiscal year under section 1105 of title 31, United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—
+
+&emsp;“(1) the reasons for the determination that inclusion of a lesser aggregate amount or allocation to any military department is in the national interest; and
+
+&emsp;“(2) the anticipated effects of the inclusion of such lesser aggregate amount or allocation to any military department on the access to and delivery of medical and support services to members of the Armed Forces and their family members.
+
+“(b)
+
+Termination.—The section shall not be in effect after December 31, 2017.”
+
+#### Specification of Amounts Requested for Procurement of Contract Services
+
+Pub. L. 110–181, div. A, title VIII, §806, Jan. 28, 2008, 122 Stat. 213, provided that:
+
+“(a)
+
+Specification of Amounts Requested.—The budget justification materials submitted to Congress in support of the budget of the Department of Defense for any fiscal year after fiscal year 2009 shall identify clearly and separately the amounts requested in each budget account for the procurement of contract services.
+
+“(b)
+
+Information Provided.—For each budget account, the materials submitted shall clearly identify—
+
+&emsp;“(1) the amount requested for each Department of Defense component, installation, or activity; and
+
+&emsp;“(2) the amount requested for each type of service to be provided.
+
+“(c)
+
+Contract Services Defined.—In this section, the term ‘contract services’—
+
+&emsp;“(1) means services from contractors; but
+
+&emsp;“(2) excludes services relating to research and development and services relating to military construction.”
+
+#### Report on Major Department of Defense Headquarters Activities Personnel
+
+Pub. L. 110–181, div. A, title IX, §901(b), (c), Jan. 28, 2008, 122 Stat. 272, provided that:
+
+“(b)
+
+Report Required.—The Secretary of Defense shall include a report with the defense budget materials for each fiscal year that includes the following information:
+
+&emsp;“(1) The average number of military personnel and civilian employees of the Department of Defense assigned to major Department of Defense headquarters activities for each component of the Department of Defense during the preceding fiscal year.
+
+&emsp;“(2) The total increase in personnel assigned to major headquarters activities, if any, during the preceding fiscal year—
+
+&emsp;&emsp;“(A) attributable to the replacement of contract personnel with military personnel or civilian employees of the Department of Defense, including the number of positions associated with the replacement of contract personnel performing inherently governmental functions; and
+
+&emsp;&emsp;“(B) attributable to reasons other than the replacement of contract personnel with military personnel or civilian employees of the Department, such as workload or operational demand increases.
+
+&emsp;“(3) An estimate of the cost savings, if any, associated with the elimination of contracts for the performance of major headquarters activities.
+
+&emsp;“(4) The number of military personnel and civilian employees of the Department of Defense assigned to major headquarters activities for each component of the Department of Defense as of October 1 of the preceding fiscal year.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Defense budget materials.—The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year that is submitted to Congress by the President under section 1105 of title 31, United States Code.
+
+&emsp;“(2)
+
+Contract personnel.—The term ‘contract personnel’ means persons hired under a contract withthe Department of Defense for the performance of major Department of Defense headquarters activities.”
+
 #### Major Force Program Category for Space
 
-Pub. L. 110–116, div. A, title VIII, §8111, Nov. 13, 2007, 121 Stat. 1339, provided that: “The Secretary of Defense shall create a major force program category for space for the Future Years Defense Program of the Department of Defense. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.”
+Pub. L. 110–329, div. C, title VIII, §8104, Sept. 30, 2008, 122 Stat. 3644, provided that: “The Secretary of Defense shall create a major force program category for space for the Future Years Defense Program of the Department of Defense. The Secretary of Defense shall designate an official in the Office of the Secretary of Defense to provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–116, div. A, title VIII, §8111, Nov. 13, 2007, 121 Stat. 1339.
 
 #### Request for Funds for Ongoing Military Operation Overseas
 
@@ -106,29 +244,19 @@ Display in budget justification materials.—As part of the budget justification
 
 #### Annual Submission of Information Regarding Information Technology Capital Assets
 
-Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, provided that:
+Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604, provided that:
 
 “(a)
 
 Requirement To Submit Information.—Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
 
-&emsp;“(1) Information technology capital assets not covered by paragraph (2) that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $10,000,000.
+&emsp;“(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $30,000,000 or an estimated total cost (as computed in fiscal year 2003 constant dollars) in excess of $120,000,000.
 
-&emsp;“(2) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $30,000,000 and an estimated total life cycle cost (as computed in fiscal year 2003 constant dollars) in excess of $120,000,000.
+&emsp;“(2) Information technology capital assets not covered by paragraph (1) that have been determined bythe Chief Information Officer of the Department of Defense to be significant investments.
 
 “(b)
 
-Required Information For Low-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
-
-&emsp;“(1) The name of the information technology capital asset.
-
-&emsp;“(2) The function of the asset.
-
-&emsp;“(3) The total cost of the asset for the fiscal year for which the budget is submitted, the current fiscal year, and the preceding fiscal year.
-
-“(c)
-
-Required Information For High-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(2), the Secretary of Defense shall include the following information:
+Required Information For High-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
 
 &emsp;“(1) The name and identifying acronym of the information technology capital asset.
 
@@ -148,9 +276,13 @@ Required Information For High-Threshold Assets.—With respect to each informati
 
 &emsp;“(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note under 31 U.S.C. 1101\] and the Clinger–Cohen Act of 1996 (divisions D and E of Public Law 104–106; 110 Stat. 642) \[§§5001–5703 and §§4001–4402, see Tables for classification\].
 
+“(c)
+
+Required Information for Significant Investments.—With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset.
+
 “(d)
 
-Total Cost Determinations.—In estimating the total cost for a fiscal year or total life cycle cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
+Total Cost Determinations.—In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
 
 “(e)
 
@@ -186,9 +318,11 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President forfiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 110–329, div. C, title VIII, §8086, Sept. 30, 2008, 122 Stat. 3641.
 
 Pub. L. 110–116, div. A, title VIII, §8091, Nov. 13, 2007, 121 Stat. 1335.
 

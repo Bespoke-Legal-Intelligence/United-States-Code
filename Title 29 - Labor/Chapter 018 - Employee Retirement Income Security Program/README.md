@@ -146,8 +146,9 @@ I74part 1—reporting and disclosure
 |  |  |
 | :--- | ---: |
 | [1185\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185%20-%20Standards%20relating%20to%20benefits%20for%20mothers%20and%20newborns.md) | Standards relating to benefits for mothers and newborns. |
-| [1185a.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185a%20-%20Parity%20in%20application%20of%20certain%20limits%20to%20mental%20health%20benefits.md) | Parity in application of certain limits to mental health benefits. |
+| [1185a.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185a%20-%20Parity%20in%20mental%20health%20and%20substance%20use%20disorder%20benefits.md) | Parity in mental health and substance use disorder benefits. |
 | [1185b.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185b%20-%20Required%20coverage%20for%20reconstructive%20surgery%20following%20mastectomies.md) | Required coverage for reconstructive surgery following mastectomies. |
+| [1185c.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20007%20-%20Group%20Health%20Plan%20Requirements/Subpart%20B%20-%20Other%20Requirements/%C2%A7%2001185c%20-%20Coverage%20of%20dependent%20students%20on%20medically%20necessary%20leave%20of%20absence.md) | Coverage of dependent students on medically necessary leave of absence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

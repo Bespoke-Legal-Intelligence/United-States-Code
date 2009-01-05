@@ -24,13 +24,13 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(11) title IV of the Civil Rights Act of 1964 \[42 U.S.C. 2000c et seq.\];
 
-&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally ControlledCollege or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
+&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
 
 &emsp;(13) part C of title IX of the Elementary and Secondary Education Act of 1965,<sup>1</sup> relating to Women's Educational Equity; and
 
 &emsp;(14) title VII of the Elementary and Secondary Education Act of 1965.<sup>1</sup>
 
-(Pub. L. 97–35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, §20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 97–35, title V, §528, Aug. 13, 1981, 95 Stat. 450; Pub. L. 98–211, §20, Dec. 8, 1983, 97 Stat. 1418; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(E), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, Jul
 
 The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in pars. (13) and (14), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Prior to the general amendment of that Act by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140, part C of title IX of the Act was classified generally to part C (§3341 et seq.) of subchapter IX of chapter 47 of this title, and title VII of the Act, known as the Bilingual Education Act, was classified generally to subchapter VII (§3281 et seq.) of chapter 47 of this title.
 
@@ -69,6 +69,8 @@ The Elementary and Secondary Education Act of 1965, referred to in pars. (13) an
 Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 and also as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the Department of Education Organization Act which comprises this chapter.
 
 #### Amendments
+
+2008—Par. (12). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 1998—Par. (12). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
 

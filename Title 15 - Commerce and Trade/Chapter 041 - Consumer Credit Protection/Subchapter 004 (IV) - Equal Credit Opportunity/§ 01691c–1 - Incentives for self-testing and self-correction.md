@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a credit transaction by a creditor, in order to determine the level or effectiveness of compliance with this subchapter by the creditor; and
 
-&emsp;&emsp;(B) has identified any possible violation of this subchapter by the creditor and has taken, or is taking, appropriate corrective action to address any such possible violation.
+&emsp;&emsp;(B) has identified any possible violation of this subchapter by the creditor and hastaken, or is taking, appropriate corrective action to address any such possible violation.
 
 #### (2) Privileged self-test
 

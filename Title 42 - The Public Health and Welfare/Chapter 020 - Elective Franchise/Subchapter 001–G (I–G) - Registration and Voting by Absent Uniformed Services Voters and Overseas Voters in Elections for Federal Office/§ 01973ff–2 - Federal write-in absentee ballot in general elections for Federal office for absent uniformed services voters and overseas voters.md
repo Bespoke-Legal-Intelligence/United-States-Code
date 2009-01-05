@@ -44,7 +44,7 @@ The Federal write-in absentee ballot shall not be valid for use in a general ele
 
 A State is not required to permit use of the Federal write-in absentee ballot, if, on and after August 28, 1986, the State has in effect a law providing that—
 
-&emsp;(1) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(A) of this title at least 90 days before the general election involved; and
+&emsp;(1) a State absentee ballot is required to be available to any voter described in section1973ff–6(5)(A) of this title at least 90 days before the general election involved; and
 
 &emsp;(2) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general election is complete.
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 108–375, §566(c)(2), inserted second sentence and struck
 
 &emsp;“(2) if the application of the overseas voter for a State absentee ballot is received by the appropriate State election official less than 30 days before the general election; or
 
-&emsp;“(3) if a State absentee ballot of the overseas voter is received by the appropriate State election officialnot later than the deadline for receipt of the State absentee ballot under State law.”
+&emsp;“(3) if a State absentee ballot of the overseas voter is received by the appropriate State election official not later than the deadline for receipt of the State absentee ballot under State law.”
 
 Subsec. (c)(1). Pub. L. 108–375, §566(c)(3), substituted “absent uniformed services voter or overseas voter” for “overseas voter”.
 

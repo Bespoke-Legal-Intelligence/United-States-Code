@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) developing and maintaining an agencywide information security program as required by subsection (b);
 
-&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued undersection 3533 of this title, and section 11331 of title 40;
+&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued under section 3533 of this title, and section 11331 of title 40;
 
 &emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities; and
 

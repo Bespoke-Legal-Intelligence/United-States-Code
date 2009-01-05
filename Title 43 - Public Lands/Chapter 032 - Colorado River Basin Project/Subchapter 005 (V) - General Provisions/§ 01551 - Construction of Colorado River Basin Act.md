@@ -2,7 +2,7 @@
 
 #### (a) Effect on other laws
 
-Nothing in this chapter shall be construed to alter, amend, repeal, modify, or be in conflict with the provisions of the Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), the Water Treaty of 1944 with the United Mexican States (Treaty Series 994; 59 Stat. 1219), the decree entered by the Supreme Court of the United States in Arizona against California and others (376 U.S. 340), or, except as otherwise provided herein, the Boulder Canyon Project Act (45 Stat. 1057) \[43 U.S.C. 617 et seq.\], the Boulder Canyon Project Adjustment Act (54 Stat. 774), \[43 U.S.C. 618 et seq.\], or the Colorado River Storage Project Act (70 Stat. 105) \[43 U.S.C. 620 et seq.\].
+Nothing in this chapter shall be construed to alter, amend, repeal, modify, or be in conflict with the provisions of the Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), the Water Treaty of 1944 with the United Mexican States (Treaty Series 994; 59 Stat. 1219), the decree entered by the Supreme Court of the United States in Arizona against California and others (376 U.S. 340), or, except as otherwise provided herein, the BoulderCanyon Project Act (45 Stat. 1057) \[43 U.S.C. 617 et seq.\], the Boulder Canyon Project Adjustment Act (54 Stat. 774), \[43 U.S.C. 618 et seq.\], or the Colorado River Storage Project Act (70 Stat. 105) \[43 U.S.C. 620 et seq.\].
 
 #### (b) Reports to Congress
 
@@ -20,7 +20,7 @@ All Federal officers and agencies are directed to comply with the applicable pro
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537,Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
 The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 

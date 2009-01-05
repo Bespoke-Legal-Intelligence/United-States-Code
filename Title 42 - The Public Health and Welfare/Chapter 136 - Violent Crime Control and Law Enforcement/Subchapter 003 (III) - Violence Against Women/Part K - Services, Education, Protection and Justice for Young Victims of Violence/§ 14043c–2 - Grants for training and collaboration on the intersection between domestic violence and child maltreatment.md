@@ -56,7 +56,7 @@ The programs and activities developed under this section shall—
 
 #### (1) Applications
 
-&emsp;Under this section, an entity shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, consistent with the requirements described herein. The application shall—
+&emsp;Under this section, an entity shall prepare and submit to the Secretary an application atsuch time, in such manner, and containing such information as the Secretary may require, consistent with the requirements described herein. The application shall—
 
 &emsp;&emsp;(A) ensure that communities impacted by these systems or organizations are adequately represented in the development of the application, the programs and activities to be undertaken, and that they have a significant role in evaluating the success of the project;
 

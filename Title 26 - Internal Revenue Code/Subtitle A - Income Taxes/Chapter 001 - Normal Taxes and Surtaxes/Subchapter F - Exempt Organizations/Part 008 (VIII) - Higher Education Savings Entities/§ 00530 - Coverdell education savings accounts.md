@@ -176,6 +176,24 @@ For purposes of this section—
 
 &emsp;In any case in which a distribution is required under subsection (b)(1)(E), any balance to the credit of a designated beneficiary as of the close of the 30-day period referred to in such subsection for making such distribution shall be deemed distributed at the close of such period.
 
+#### (9) Military death gratuity
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, the term “rollover contribution” includes a contribution to a Coverdell education savings account made before the end of the 1-year period beginning on the date on which the contributor receives an amount under section 1477 of title 10, United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
+
+&emsp;&emsp;&emsp;(i) the sum of the amounts received during such period by such contributor under such sections with respect to such person, reduced by
+
+&emsp;&emsp;&emsp;(ii) the amounts so received which were contributed to a Roth IRA under section 408A(e)(2) or to another Coverdell education savings account.
+
+#### (B) Annual limit on number of rollovers not to apply
+
+&emsp;&emsp;The last sentence of paragraph (5) shall not apply with respect to amounts treated as a rollover by the <sup>1</sup> subparagraph (A).
+
+#### (C) Application of section 72
+
+&emsp;&emsp;For purposes of applying section 72 in the case of a distribution which is includible in gross income under paragraph (1), the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
+
 #### (e) Tax treatment of accounts
 
 Rules similar to the rules of paragraphs (2) and (4) of section 408(e) shall apply to any Coverdell education savings account.
@@ -190,9 +208,9 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 #### (h) Reports
 
-The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as theSecretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
+The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639.)
+(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632.)
 
 #### Amendment of Section
 
@@ -203,6 +221,8 @@ The trustee of a Coverdell education savings account shall make such reports reg
 The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
 
 #### Amendments
+
+2008—Subsec. (d)(9). Pub. L. 110–245 added par. (9).
 
 2005—Subsec. (b)(2)(A)(ii). Pub. L. 109–135, §412(ff)(2), substituted “paragraph (3)” for “paragraph (4)”.
 
@@ -288,9 +308,13 @@ Subsec. (d)(7). Pub. L. 105–206, §6004(d)(2)(B), inserted at end “In applyi
 
 Subsec. (d)(8). Pub. L. 105–206, §6004(d)(2)(C), added par. (8).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 applicable with respect to deaths from injuries occurring on or after June 17, 2008, with provision for application of amendment to deaths from injuries occurring on or after Oct. 7, 2001, and before June 17, 2008, see section 109(d)(1), (2) of Pub. L. 110–245, set out as a note under section 408A of this title.
+
 #### Effective Date of 2004 Amendment
 
-Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub.L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 Amendment by section 406(b) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
@@ -302,7 +326,7 @@ Pub. L. 108–121, title I, §107(b), Nov. 11, 2003, 117 Stat. 1339, provided th
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
-#### Effective and Termination Dates of 2001 Amendments
+#### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 

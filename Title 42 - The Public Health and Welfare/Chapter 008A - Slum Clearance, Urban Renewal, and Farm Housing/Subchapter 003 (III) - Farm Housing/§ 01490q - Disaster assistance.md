@@ -8,7 +8,7 @@
 
 #### (2) Amount
 
-&emsp;Subject to the availability of amounts pursuant to appropriations Acts, assistance underparagraph (1) shall be made in an amount equal to the product of—
+&emsp;Subject to the availability of amounts pursuant to appropriations Acts, assistance under paragraph (1) shall be made in an amount equal to the product of—
 
 &emsp;&emsp;(A) the sum of the official State estimate of the number of dwelling units in the counties described in paragraph (1) within the eligible service area of the Farmers Home Administration (or otherwise if the Secretary provides for a waiver under subsection (d) of this section) that are destroyed or seriously damaged; and
 

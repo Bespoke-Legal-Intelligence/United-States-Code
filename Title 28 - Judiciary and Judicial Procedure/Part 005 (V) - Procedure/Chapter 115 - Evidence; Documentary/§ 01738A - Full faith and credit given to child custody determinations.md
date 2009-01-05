@@ -138,7 +138,7 @@ Section 8(c) of Pub. L. 96–611 provided that: “In furtherance of the purpose
 
 &emsp;“(2) award to the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, necessary travel expenses, attorneys’ fees, costs of private investigations, witness fees or expenses, and other expenses incurred in connection with such custody determination in any case in which—
 
-&emsp;&emsp;“(A) a contestant has, without the consent of the person entitled to custody or visitation pursuant toa custody determination which is consistent with the provisions of such section 1738A, (i) wrongfully removed the child from the physical custody of such person, or (ii) wrongfully retained the child after a visit or other temporary relinquishment of physical custody; or
+&emsp;&emsp;“(A) a contestant has, without the consent of the person entitled to custody or visitation pursuant to a custody determination which is consistent with the provisions of such section 1738A, (i) wrongfully removed the child from the physical custody of such person, or (ii) wrongfully retained the child after a visit or other temporary relinquishment of physical custody; or
 
 &emsp;&emsp;“(B) the court determines it is appropriate.”
 

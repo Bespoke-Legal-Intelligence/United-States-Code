@@ -96,7 +96,7 @@ The Commission's report under subsection (g) of this section shall include—
 
 (2) The provisions of paragraph (1) are enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such are deemed a part of the rules of the House, and they supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such are deemed a part of the rules of the House,and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 

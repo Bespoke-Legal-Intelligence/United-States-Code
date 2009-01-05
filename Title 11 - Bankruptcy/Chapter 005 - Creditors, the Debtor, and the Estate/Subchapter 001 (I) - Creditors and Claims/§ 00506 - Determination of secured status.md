@@ -36,7 +36,7 @@ Subsection (a) of this section separates an undersecured creditor's claim into t
 
 Subsection (b) codifies current law by entitling a creditor with an oversecured claim to any reasonable fees (including attorney's fees), costs, or charges provided under the agreement under which the claim arose. These fees, costs, and charges are secured claims to the extent that the value of the collateral exceeds the amount of the underlying claim.
 
-Subsection (c) also codifies current law by permitting the trustee to recover from property the value of whichis greater than the sum of the claims secured by a lien on that property the reasonable, necessary costs and expenses of preserving, or disposing of, the property. The recovery is limited to the extent of any benefit to the holder of such claim.
+Subsection (c) also codifies current law by permitting the trustee to recover from property the value of which is greater than the sum of the claims secured by a lien on that property the reasonable, necessary costs and expenses of preserving, or disposing of, the property. The recovery is limited to the extent of any benefit to the holder of such claim.
 
 Subsection (d) provides that to the extent a secured claim is not allowed, its lien is void unless the holder had neither actual notice nor knowledge of the case, the lien was not listed by the debtor in a chapter 9 or 11 case or such claim was disallowed only under section 502(e).
 

@@ -10,7 +10,7 @@ Contents.—Every patent shall contain a short title of the invention and a gran
 
 &emsp;(2)
 
-Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c) of this title, from the date on which the earliest such application was filed.
+Term.—Subject to the payment of fees under this title, such grant shall be for a termbeginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c) of this title, from the date on which the earliest such application was filed.
 
 &emsp;(3)
 
@@ -106,7 +106,7 @@ Procedures for patent term adjustment determination.—
 
 &emsp;&emsp;(C) The Director shall reinstate all or part of the cumulative period of time of an adjustment under paragraph (2)(C) if the applicant, prior to the issuance of the patent, makes a showing that, in spite of all due care, the applicant was unable to respond within the 3-month period, but in no case shall more than three additional months for each such response beyond the original 3-month period be reinstated.
 
-&emsp;&emsp;(D) The Director shall proceed to grant the patent after completion of the Director's determination of a patent term adjustmentunder the procedures established under this subsection, notwithstanding any appeal taken by the applicant of such determination.
+&emsp;&emsp;(D) The Director shall proceed to grant the patent after completion of the Director's determination of a patent term adjustment under the procedures established under this subsection, notwithstanding any appeal taken by the applicant of such determination.
 
 &emsp;(4)
 
@@ -184,7 +184,7 @@ The wording of the granting clause is changed to “the right to exclude others 
 
 #### References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), isthe date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see sec
 
 #### Regulations
 
-Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
+Section 532(a)(2) of Pub. L. 103–465 authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examinationof more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of section 154(a)(2) of this title, and to establish appropriate related fees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
 

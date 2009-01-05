@@ -44,29 +44,11 @@ Distribution throughout state.—Within a State, at least 20 percent of the call
 
 Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
 
-(d)
-
-Idling Reduction Facilities in Interstate Rights-of-Way.—
-
-&emsp;(1)
-
-In general.—Notwithstanding subsection (a), a State may—
-
-&emsp;&emsp;(A) permit electrification or other idling reduction facilities and equipment, for use by motor vehicles used for commercial purposes, to be placed in rest and recreation areas, and in safety rest areas, constructed or located on rights-of-way of the Interstate System in the State, so long as those idling reduction measures do not reduce the existing number of designated truck parking spaces at any given rest or recreation area; and
-
-&emsp;&emsp;(B) charge a fee, or permit the charging of a fee, for the use of those parking spaces actively providing power to a truck to reduce idling.
-
-&emsp;(2)
-
-Purpose.—The exclusive purpose of the facilities described in paragraph (1) (or similar technologies) shall be to enable operators of motor vehicles used for commercial purposes—
-
-&emsp;&emsp;(A) to reduce idling of a truck while parked in the rest or recreation area; and
-
-&emsp;&emsp;(B) to use installed or other equipment specifically designed to reduce idling of a truck, or provide alternative power for supporting driver comfort, while parked.
-
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87–61, title I, §104(a), June 29, 1961, 75 Stat. 122; Pub. L. 95–599, title I, §114, Nov. 6, 1978, 92 Stat. 2697; Pub. L. 100–17, title I, §110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104–59, title III, §306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1412, Aug. 10, 2005, 119 Stat. 1234.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87–61, title I, §104(a), June 29, 1961, 75 Stat. 122; Pub. L. 95–599, title I, §114, Nov. 6, 1978, 92 Stat. 2697; Pub. L. 100–17, title I, §110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104–59, title III, §306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1412, Aug. 10, 2005, 119 Stat. 1234; Pub. L. 110–244, title I, §104, June 6, 2008, 122 Stat. 1578.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–244 struck out subsec. (d) which related to idling reduction facilities in rights-of-way of Interstate System.
 
 2005—Subsec. (d). Pub. L. 109–59 added subsec. (d).
 

@@ -84,7 +84,7 @@ Certification requirements.—
 
 &emsp;&emsp;(A)
 
-Fund transfers.—A grant recipient under this section that transfers funds to a project funded under section 5336 in accordance with subsection (b)(2) shall certify that the project for which the funds are requestedhas been coordinated with private nonprofit providers of services under this section.
+Fund transfers.—A grant recipient under this section that transfers funds to a project funded under section 5336 in accordance with subsection (b)(2) shall certify that the project for which the funds are requested has been coordinated with private nonprofit providers of services under this section.
 
 &emsp;&emsp;(B)
 

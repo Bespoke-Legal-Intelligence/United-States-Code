@@ -26,7 +26,7 @@ Application of Other Laws.—Subsections (c) and (d) of section 4344 of this tit
 
 Regulations.—The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 
-(Added Pub. L. 105–85, div. A, title V, §542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, §535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, §531(a), Oct. 17, 2006, 120 Stat. 2198.)
+(Added Pub. L. 105–85, div. A, title V, §542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, §535(a), Oct. 5, 1999, 113Stat. 605; Pub. L. 109–364, div. A, title V, §531(a), Oct. 17, 2006, 120 Stat. 2198.)
 
 #### Prior Provisions
 

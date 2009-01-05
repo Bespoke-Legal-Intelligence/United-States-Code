@@ -36,7 +36,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 (2) Each report shall include the following:
 
-&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the reportis submitted, and the fiscal year following the fiscal year in which the report is submitted.
+&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the report is submitted, and the fiscal year following the fiscal year in which the report is submitted.
 
 &emsp;(B) For each of the major activities under the environmental quality programs:
 
@@ -48,7 +48,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 &emsp;(C) A summary of the major achievements of the environmental quality programs and of any major problems with the programs.
 
-&emsp;(D) A summary of fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental laws during the fiscal year in which the report is submitted and the four preceding fiscal years, which summary shall include—
+&emsp;(D) A summary of fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental lawsduring the fiscal year in which the report is submitted and the four preceding fiscal years, which summary shall include—
 
 &emsp;&emsp;(i) a trend analysis of such fines and penalties for military installations inside and outside the United States; and
 

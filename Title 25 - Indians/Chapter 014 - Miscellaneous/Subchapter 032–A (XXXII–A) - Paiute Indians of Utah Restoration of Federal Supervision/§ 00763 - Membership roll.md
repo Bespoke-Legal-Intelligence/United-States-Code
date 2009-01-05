@@ -32,7 +32,7 @@ The final membership roll is declared open. The Secretary, the Interim Council, 
 
 #### (d) Participation in elections and voting rights
 
-For purposes of section 764 and 765 of this title, a member who is eighteen years of age or older is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in, elections of members to the Interim Council and to other tribal councils.
+For purposes of section 764 and 765 of this title, a member who is eighteen years of age orolder is entitled and eligible to be given notice of, attend, participate in, and vote at, general council meetings and to nominate candidates for, to run for any office in, and to vote in, elections of members to the Interim Council and to other tribal councils.
 
 (Pub. L. 96–227, §4, Apr. 3, 1980, 94 Stat. 318; Pub. L. 109–126, §4, Dec. 7, 2005, 119 Stat. 2547.)
 

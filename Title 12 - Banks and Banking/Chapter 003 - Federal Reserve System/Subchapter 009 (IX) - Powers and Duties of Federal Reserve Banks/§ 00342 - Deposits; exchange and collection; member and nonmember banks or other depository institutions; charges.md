@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of the first par. of section 13 of act Dec. 23, 1913, as amended in 1916 (39 Stat. 752). Thesecond to eighth and tenth to fourteenth pars. of section 13 (as now constituted) are classified to sections 92, 343 to 347, 347c, 347d, 361, 372, and 373 of this title.
+Section is comprised of the first par. of section 13 of act Dec. 23, 1913, as amended in 1916 (39 Stat. 752). The second to eighth and tenth to fourteenth pars. of section 13 (as now constituted) are classified to sections 92, 343 to 347, 347c, 347d, 361, 372, and 373 of this title.
 
 For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. §5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. §5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see <i>United States National Bank of Oregon</i> v. <i>Independent Insurance Agents of America, Inc., et al</i>., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
 

@@ -20,7 +20,7 @@ The President, acting through the Administrator of the United States Agency for 
 
 #### (C) Other assistance
 
-&emsp;&emsp;Offering other relevant assistance as needed, such as helping government officials develop seismic micro-zonation maps or draft pertinent legislation, to implement buildingcodes and practices that will help improve the resistance of buildings and housing in the region to seismic activity and other natural disasters.
+&emsp;&emsp;Offering other relevant assistance as needed, such as helping government officials develop seismic micro-zonation maps or draft pertinent legislation, to implement building codes and practices that will help improve the resistance of buildings and housing in the region to seismic activity and other natural disasters.
 
 #### (2) Covered organizations
 

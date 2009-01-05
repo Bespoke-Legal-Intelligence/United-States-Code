@@ -28,13 +28,13 @@ Sections 1885 to 1885d of this title, referred to in subsec. (a), was in the ori
 
 #### Codification
 
-Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 
 1998—Subsec. (a). Pub. L. 105–207, §202(d)(2)(A), substituted “minorities, and persons with disabilities in scientific” for “minorities, and other groups currently underrepresented in scientific”.
 
-Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out “with the concurrence of the National Science Board” after “the Director” and substituted “In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee.” for “The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee.”
+Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out “with the concurrence of the National Science Board” after “the Director” and substituted “In addition, the Chairman of the National Science Board may designatea member of the Board as a member of the Committee.” for “The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee.”
 
 Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: “There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate.”
 

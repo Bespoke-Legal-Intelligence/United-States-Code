@@ -12,13 +12,13 @@
 
 &emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
-&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
+&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together withinterest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
 &emsp;(5) a period of service (other than any service under any other paragraph of this subsection, any military service, and any service performed in the employ of a Federal Reserve Bank) that was creditable under the Bank Plan (as defined in subsection (i)), if the employee waives credit for such service under the Bank Plan and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)); and
 
 &emsp;(6) service performed by any individual as an employee paid from nonappropriated funds of an instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) that is not otherwise creditable, if the individual elects (in accordance with regulations prescribed by the Office) to have such service credited under this paragraph.
 
-> Paragraph (5) shall not apply in the case of any employee as to whom subsection (g) (or, to theextent subchapter III of chapter 83 is involved, section 8332(n)) otherwise applies.
+> Paragraph (5) shall not apply in the case of any employee as to whom subsection (g) (or, to the extent subchapter III of chapter 83 is involved, section 8332(n)) otherwise applies.
 
 (c)(1) Except as provided in paragraphs (2), (3), and (5), an employee or Member shall be allowed credit for—
 
@@ -68,11 +68,11 @@
 
 (5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
-(d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
+(d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I ofchapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
 (e) Credit shall be allowed for periods of approved leave without pay granted an employee to serve as a full-time officer or employee of an organization composed primarily of employees (as defined by section 8331(1) or 8401(11)), subject to the employee arranging to pay, through the employee's employing agency, within 60 days after commencement of such leave without pay, amounts equal to the retirement deductions and agency contributions which would be applicable under sections 8422(a) and 8423(a), respectively, if the employee were in pay status. If the election and all payments provided by this subsection are not made, the employee may not receive credit for the periods of leave without pay, notwithstanding the third sentence of subsection (d).
 
-(f)(1) An employee or Member who has received a refund of retirement deductions under subchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A depositunder this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
+(f)(1) An employee or Member who has received a refund of retirement deductions under subchapter III of chapter 83 with respect to any service described in subsection (b)(2) or (b)(3) may not be allowed credit for such service under this chapter unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest. A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.
 
 (2) An employee or Member may not be allowed credit under this chapter for any service described in subsection (b)(3) for which retirement deductions under subchapter III of chapter 83 have not been made, unless such employee or Member deposits an amount equal to 1.3 percent of basic pay for such service, with interest.
 
@@ -116,7 +116,7 @@
 
 &emsp;(C) The offense is committed after the date of enactment of this subsection.
 
-(3) An individual convicted of an offense described in paragraph (2) shall not, after the dateof the final conviction, be eligible to participate in the retirement system under this chapter while serving as a Member.
+(3) An individual convicted of an offense described in paragraph (2) shall not, after the date of the final conviction, be eligible to participate in the retirement system under this chapter while serving as a Member.
 
 (4) The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
 
@@ -156,7 +156,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (h), is Pub. L. 88�
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (h), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
-The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended,which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
@@ -256,7 +256,7 @@ Retirement Credit for Certain Government Service Performed Abroad.—Subject to 
 
 &emsp;&emsp;“(B) the deposit requirements of section 8411(f) of such title 5 had been met with respect to such service;
 
-&emsp;“(4) such service would not otherwise be creditable under the Federal Employees’ Retirement System or any other retirement system for employees of the United States Government (disregarding title II of the Social Security Act \[42 U.S.C. 401 et seq.\]); and
+&emsp;“(4) such service would not otherwise be creditable under the Federal Employees’ Retirement System orany other retirement system for employees of the United States Government (disregarding title II of the Social Security Act \[42 U.S.C. 401 et seq.\]); and
 
 &emsp;“(5) the total amount of service performed by such individual (satisfying paragraphs (1) through (4)) is not less than 90 days.
 
@@ -386,7 +386,7 @@ Retroactive effect.—Any computation or recomputation of an annuity or survivor
 
 &emsp;&emsp;“(D)
 
-Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after theeffective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
 
 &emsp;&emsp;“(E)
 

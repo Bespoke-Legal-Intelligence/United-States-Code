@@ -18,5 +18,5 @@ Section 701 of title VII of Pub. L. 91–452 provided that: “The Congress find
 
 #### Applicability to Proceedings
 
-Section 703 of title VII of Pub. L. 91–452 provided that: “This title \[enacting this section and provisions set as notes under this section\] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establishinadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
+Section 703 of title VII of Pub. L. 91–452 provided that: “This title \[enacting this section and provisions set as notes under this section\] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
 

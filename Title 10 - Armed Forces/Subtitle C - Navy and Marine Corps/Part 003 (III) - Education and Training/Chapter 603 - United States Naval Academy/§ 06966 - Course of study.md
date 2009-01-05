@@ -26,5 +26,5 @@ Mar. 7, 1912, ch. 53 (1st 11 words), 37 Stat. 73.
 
 R.S. 1526.
 
-In subsection (b) the words “of studies and the order of recitations” are omitted as surplusage. The words“classes will not be held on Sunday” are substituted for the words “students in said institution shall not be required to pursue their studies on Sunday”.
+In subsection (b) the words “of studies and the order of recitations” are omitted as surplusage. The words “classes will not be held on Sunday” are substituted for the words “students in said institution shall not be required to pursue their studies on Sunday”.
 

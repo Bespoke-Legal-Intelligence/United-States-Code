@@ -12,6 +12,10 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 Preferential treatment under this chapter to expire after June 30, 2007, see section 3206 of this title.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–191, §1, Feb. 29, 2008, 122 Stat. 646, provided that: “This Act \[amending sections 58c, 3203, and 3206 of this title and enacting provisions set out as a note under section 6655 of Title 26, Internal Revenue Code\] may be cited as the ‘Andean Trade Preference Extension Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–432, div. D, title VII, §7001, Dec. 20, 2006, 120 Stat. 3194, provided that: “This title \[amending sections 3203 and 3206 of this title\] may be cited as the ‘Andean Trade Preferences Extension Act’.”
@@ -42,5 +46,5 @@ Pub. L. 107–210, div. C, title XXXI, §3102, Aug. 6, 2002, 116 Stat. 1023, pro
 
 &emsp;“(7) Each of the Andean beneficiary countries is committed to conclude negotiation of a Free Trade Area of the Americas by the year 2005, as a means of enhancing the economic security of the region.
 
-&emsp;“(8) Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth offree enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world.”
+&emsp;“(8) Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth of free enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world.”
 

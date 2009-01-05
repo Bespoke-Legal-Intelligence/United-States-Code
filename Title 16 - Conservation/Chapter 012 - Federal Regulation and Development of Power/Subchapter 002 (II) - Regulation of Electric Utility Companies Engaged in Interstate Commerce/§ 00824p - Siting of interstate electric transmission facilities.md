@@ -64,7 +64,7 @@ Except as provided in subsection (i) of this section, the Commission may, after 
 
 #### (d) Comments
 
-In any proceeding before the Commission under subsection (b) of this section, the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity topresent their views and recommendations with respect to the need for and impact of a facility covered by the permit.
+In any proceeding before the Commission under subsection (b) of this section, the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
 
 #### (e) Rights-of-way
 
@@ -118,7 +118,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (C) The document shall include consideration by the relevant agencies of any applicable criteria or other matters as required under applicable law.
 
-(6)(A) If any agency has denied a Federal authorization required for a transmission facility, or has failed to act by the deadline established by the Secretary pursuant to this section for deciding whether to issue the authorization, the applicant or any State in which the facility would be located may file an appeal with the President, who shall, in consultation with theaffected agency, review the denial or failure to take action on the pending application.
+(6)(A) If any agency has denied a Federal authorization required for a transmission facility, or has failed to act by the deadline established by the Secretary pursuant to this section for deciding whether to issue the authorization, the applicant or any State in which the facility would be located may file an appeal with the President, who shall, in consultation with the affected agency, review the denial or failure to take action on the pending application.
 
 (B) Based on the overall record and in consultation with the affected agency, the President may—
 
@@ -196,7 +196,7 @@ The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i),
 
 The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

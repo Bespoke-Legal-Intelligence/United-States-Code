@@ -2,7 +2,7 @@
 
 (a)
 
-Demands by Obligees.—Except as provided in subsection (c), if an obligor has continued in default for 30 days in the payment of principal or interest on an obligation guaranteed under this chapter, the obligee or the obligee's agent may demand that the Secretary pay the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. The demand must be made within the earlier of—
+Demands by Obligees.—Except as provided in subsection (c), if an obligor has continued in default for 30 days in the payment of principal or interest on an obligation guaranteed under this chapter, the obligee or the obligee's agent may demand that the Secretary or Administrator pay the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. The demand must be made within the earlier of—
 
 &emsp;(1) a period that may be specified in the guarantee or a related agreement; or
 
@@ -10,11 +10,11 @@ Demands by Obligees.—Except as provided in subsection (c), if an obligor has c
 
 (b)
 
-Payments by Secretary.—
+Payments by Secretary or Administrator.—
 
 &emsp;(1)
 
-In general.—If a demand is made under subsection (a), the Secretary shall pay to the obligee or the obligee's agent the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. Payment shall be made within the earlier of—
+In general.—If a demand is made under subsection (a), the Secretary or Administrator shall pay to the obligee or the obligee's agent the unpaid principal amount of the obligation and the unpaid interest on the obligation to the date of payment. Payment shall be made within the earlier of—
 
 &emsp;&emsp;(A) a period that may be specified in the guarantee or a related agreement; or
 
@@ -22,17 +22,13 @@ In general.—If a demand is made under subsection (a), the Secretary shall pay 
 
 &emsp;(2)
 
-If no existing default.—The Secretary is not required to make payment under this subsection if, within the appropriate period under paragraph (1), the Secretary finds that the obligor was not in default or that the default was remedied before the demand.
+If no existing default.—The Secretary or Administrator is not required to make payment under this subsection if, within the appropriate period under paragraph (1), the Secretary or Administrator finds that the obligor was not in default or that the default was remedied before the demand.
 
 (c)
 
-Assumption of Rights and Obligations Before Demand.—An obligee or the obligee's agent may not demand payment under this section if the Secretary, before the demand and on terms that may be provided in the obligation ora related agreement, has assumed the obligor's rights and duties under the obligation and any related agreement and made any payment in default. However, the guarantee of the obligation remains in effect after the Secretary's assumption.
+Assumption of Rights and Obligations Before Demand.—An obligee or the obligee's agent may not demand payment under this section if the Secretary or Administrator, before the demand and on terms that may be provided in the obligation or a related agreement, has assumed the obligor's rights and duties under the obligation and any related agreement and made any payment in default. However, the guarantee of the obligation remains in effect after the Secretary's or Administrator's assumption.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1617; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendments Not Shown in Text
-
-<i>This section was derived from sections 1273(e) (last sentence) and 1275(a) of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Those provisions of the former Appendix to this title were amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1617; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -67,4 +63,12 @@ June 29, 1936, ch. 858, title XI, §1103(e) (last sentence), as added Pub. L. 98
 &nbsp;
 
 46 App.:1275(a) (1st sentence parenthetical).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.
+
+Pub. L. 110–181, §3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163,§3507(a)(1)(C), (F), into this section by inserting “or Administrator” after “Secretary” wherever appearing and “or Administrator's” after “Secretary's” in subsec. (c). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), (F), which directed the amendment of sections 1273(e) and 1275(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

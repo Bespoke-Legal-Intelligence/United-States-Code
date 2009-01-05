@@ -30,7 +30,7 @@ Pub. L. 103–160, div. A, title V, §516, Nov. 30, 1993, 107 Stat. 1650, direct
 
 #### Army National Guard Combat Readiness Reform
 
-Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title V, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372, provided that:
+Pub. L. 102–484, div. A, title XI, Oct. 23, 1992, 106 Stat. 2536, as amended by Pub. L. 103–35, title II, §202(a)(11), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, titleV, §520, Nov. 30, 1993, 107 Stat. 1651; Pub. L. 103–337, div. A, title V, §516, Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title V, §§514, 515, title VII, §704(b), Feb. 10, 1996, 110 Stat. 307, 308, 372, provided that:
 
 #### “SEC. 1101. SHORT TITLE.
 
@@ -226,5 +226,5 @@ Use of Designators.—(1) The Secretary shall establish procedures to link the U
 
 #### “SEC. 1137. STUDY OF IMPLEMENTATION FOR ALL RESERVE COMPONENTS.
 
-“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisionsof this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
+“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisions of this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
 

@@ -44,7 +44,7 @@ Subsections (b) and (c) of this section shall not apply with respect to any agre
 
 &emsp;&emsp;(A) means—
 
-&emsp;&emsp;&emsp;(i) any written contract, written arrangement, or other written understanding that provides for cash payments, grants, or other consideration with a value in excess of $10,000, or for loans the aggregate amount of principal of which exceeds $50,000, annually (or the sum of all such agreements during a 12-month period with an aggregate value of cash payments, grants, or other consideration in excess of $10,000, or with an aggregate amount of loan principal in excess of $50,000); or
+&emsp;&emsp;&emsp;(i) any written contract, written arrangement, or other written understanding that provides for cash payments, grants, or other consideration with a value in excess of $10,000, or for loans the aggregate amount of principal of which exceeds $50,000, annually (or the sum of all such agreements during a 12-month period with an aggregate value of cash payments,grants, or other consideration in excess of $10,000, or with an aggregate amount of loan principal in excess of $50,000); or
 
 &emsp;&emsp;&emsp;(ii) a group of substantively related contracts with an aggregate value of cash payments, grants, or other consideration in excess of $10,000, or with an aggregate amount of loan principal in excess of $50,000, annually;
 
@@ -118,7 +118,7 @@ No provision of this section shall be construed as authorizing any appropriate F
 
 #### (4) Coordination, consistency, and comparability
 
-&emsp;In carrying out paragraph (1), each appropriate Federal banking agency shall consult and coordinate with the other such agencies for the purposes of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
+&emsp;In carrying out paragraph (1), each appropriate Federal banking agency shall consult and coordinate with the other such agencies for the purposes of assuring, to the extent possible, that the regulations prescribed by eachsuch agency are consistent and comparable with the regulations prescribed by the other such agencies.
 
 (Sept. 21, 1950, ch. 967, §2\[48\], as added Pub. L. 106–102, title VII, §711, Nov. 12, 1999, 113 Stat. 1465.)
 

@@ -1,0 +1,56 @@
+### §7123. Submission of project proposals
+
+#### (a) Submission of project proposals to Secretary concerned
+
+#### (1) Projects funded using project funds
+
+&emsp;Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2011, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
+
+#### (2) Projects funded using other funds
+
+&emsp;A resource advisory committee may submit to the Secretary concerned a description of any projects that the committee proposes the Secretary undertake using funds from State or local governments, or from the private sector, other than project funds and funds appropriated and otherwise available to do similar work.
+
+#### (3) Joint projects
+
+&emsp;Participating counties or other persons may propose to pool project funds or other funds, described in paragraph (2), and jointly propose a project or group of projects to a resource advisory committee established under section 7125 of this title.
+
+#### (b) Required description of projects
+
+In submitting proposed projects to the Secretary concerned under subsection (a), a resource advisory committee shall include in the description of each proposed project the following information:
+
+&emsp;(1) The purpose of the project and a description of how the project will meet the purposes of this subchapter.
+
+&emsp;(2) The anticipated duration of the project.
+
+&emsp;(3) The anticipated cost of the project.
+
+&emsp;(4) The proposed source of funding for the project, whether project funds or other funds.
+
+&emsp;(5)(A) Expected outcomes, including how the project will meet or exceed desired ecological conditions, maintenance objectives, or stewardship objectives.
+
+&emsp;(B) An estimate of the amount of any timber, forage, and other commodities and other economic activity, including jobs generated, if any, anticipated as part of the project.
+
+&emsp;(6) A detailed monitoring plan, including funding needs and sources, that—
+
+&emsp;&emsp;(A) tracks and identifies the positive or negative impacts of the project, implementation,<sup>1</sup> and provides for validation monitoring; and
+
+&emsp;&emsp;(B) includes an assessment of the following:
+
+&emsp;&emsp;&emsp;(i) Whether or not the project met or exceeded desired ecological conditions; created local employment or training opportunities, including summer youth jobs programs such as the Youth Conservation Corps where appropriate.
+
+&emsp;&emsp;&emsp;(ii) Whether the project improved the use of, or added value to, any products removed from land consistent with the purposes of this subchapter.
+
+&emsp;(7) An assessment that the project is to be in the public interest.
+
+#### (c) Authorized projects
+
+Projects proposed under subsection (a) shall be consistent with section 7101 of this title.
+
+(Pub. L. 106–393, title II, §203, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901.)
+
+#### Prior Provisions
+
+A prior section 203 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

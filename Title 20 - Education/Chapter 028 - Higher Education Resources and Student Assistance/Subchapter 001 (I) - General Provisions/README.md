@@ -13,3 +13,4 @@ Title I of the Higher Education Act of 1965, comprising this subchapter, was ori
 - [Part B - Additional General Provisions](Part%20B%20-%20Additional%20General%20Provisions/README.md)
 - [Part C - Cost of Higher Education](Part%20C%20-%20Cost%20of%20Higher%20Education/README.md)
 - [Part D - Administrative Provisions for Delivery of Student Financial Assistance](Part%20D%20-%20Administrative%20Provisions%20for%20Delivery%20of%20Student%20Financial%20Assistance/README.md)
+- [Part E - Lender and Institution Requirements Relating to Education Loans](Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/README.md)

@@ -12,7 +12,7 @@ International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89
 
 #### (c) Anzalduas diversion dam
 
-The Anzalduas diversion dam shall not be operated for irrigation or water supply purposes in the United States unless suitable arrangements have been made with the prospective water users for repayment to the Government of theUnited States for such portions of the dam as shall have been allocated to such purposes by the Secretary of State.
+The Anzalduas diversion dam shall not be operated for irrigation or water supply purposes in the United States unless suitable arrangements have been made with the prospective water users for repayment to the Government of the United States for such portions of the dam as shall have been allocated to such purposes by the Secretary of State.
 
 #### (d) Improvements to Rio Grande Canalization Project
 

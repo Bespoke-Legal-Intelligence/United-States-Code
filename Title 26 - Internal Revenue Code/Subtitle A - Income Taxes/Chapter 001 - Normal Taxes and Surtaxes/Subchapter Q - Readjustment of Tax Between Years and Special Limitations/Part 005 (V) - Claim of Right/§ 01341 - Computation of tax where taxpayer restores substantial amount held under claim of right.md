@@ -34,7 +34,7 @@ If—
 
 &emsp;(A) in any case where the deduction referred to in paragraph (4) of subsection (a) results in a net operating loss, such loss shall, for purposes of computing the tax for the taxable year under such paragraph (4), be carried back to the same extent and in the same manner as is provided under section 172; and
 
-&emsp;(B) in any case where the exclusion referred to in paragraph (5)(B) of subsection (a) results in a net operating loss or capital loss for the prior taxable year (or years), such loss shall, for purposes of computing the decrease in tax for the prior taxable year (or years) under such paragraph (5) (B), be carried back and carried over to the same extent and in the same manner as is provided under section 172 or section 1212, except that no carryover beyond the taxable year shall be taken into account.
+&emsp;(B) in any case where the exclusion referred to in paragraph (5)(B) of subsection (a) results in a net operating loss or capital loss for the prior taxable year (or years), such loss shall, for purposes of computing the decrease in taxfor the prior taxable year (or years) under such paragraph (5) (B), be carried back and carried over to the same extent and in the same manner as is provided under section 172 or section 1212, except that no carryover beyond the taxable year shall be taken into account.
 
 (5) For purposes of this chapter, the net operating loss described in paragraph (4)(A) of this subsection, or the net operating loss or capital loss described in paragraph (4)(B) of this subsection, as the case may be, shall (after the application of paragraph (4) or (5)(B) of subsection (a) for the taxable year) be taken into account under section 172 or 1212 for taxable years after the taxable year to the same extent and in the same manner as—
 
@@ -46,7 +46,7 @@ If—
 
 #### References in Text
 
-Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Chapter 1 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See alsosection 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Chapter 1 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761, and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 

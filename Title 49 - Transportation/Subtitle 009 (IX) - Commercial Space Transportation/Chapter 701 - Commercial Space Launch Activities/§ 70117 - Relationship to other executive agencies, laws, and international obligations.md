@@ -44,7 +44,7 @@ Nonapplication.—This chapter does not apply to—
 
 &emsp;(2) planning or policies related to the launch, reentry, operation, or activity.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat.3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850.)
 
 Historical and Revision Notes
 

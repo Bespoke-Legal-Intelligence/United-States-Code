@@ -16,3 +16,6 @@
 - [&sect; 02569 - Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide](%C2%A7%2002569%20-%20Acceleration%20of%20removal%20or%20security%20of%20fissile%20materials%2C%20radiological%20materials%2C%20and%20related%20equipment%20at%20vulnerable%20sites%20worldwide.md)
 - [&sect; 02570 - Silk Road Initiative](%C2%A7%2002570%20-%20Silk%20Road%20Initiative.md)
 - [&sect; 02571 - Nuclear Nonproliferation Fellowships for scientists employed by United States and Russian Federation](%C2%A7%2002571%20-%20Nuclear%20Nonproliferation%20Fellowships%20for%20scientists%20employed%20by%20United%20States%20and%20Russian%20Federation.md)
+- [&sect; 02572 - International agreements on nuclear weapons data](%C2%A7%2002572%20-%20International%20agreements%20on%20nuclear%20weapons%20data.md)
+- [&sect; 02573 - International agreements on information on radioactive materials](%C2%A7%2002573%20-%20International%20agreements%20on%20information%20on%20radioactive%20materials.md)
+- [&sect; 02574 - Enhancing nuclear forensics capabilities](%C2%A7%2002574%20-%20Enhancing%20nuclear%20forensics%20capabilities.md)

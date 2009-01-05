@@ -6,7 +6,7 @@
 
 &emsp;(B) the first fiscal year during which the Board would recommend suspension of the authority to borrow contained in section 360(d) of this title, in order to prevent depletion of the Railroad Retirement Account; and
 
-&emsp;(C) the amount, if any, of adjustments (stated in terms of percentage of taxable payroll), and any other changes such as cash flow adjustments, necessary to preserve the financial solvency of the Railroad Retirement Account,if such adjustments were effective at the beginning of the next succeeding fiscal year.
+&emsp;(C) the amount, if any, of adjustments (stated in terms of percentage of taxable payroll), and any other changes such as cash flow adjustments, necessary to preserve the financial solvency of the Railroad Retirement Account, if such adjustments were effective at the beginning of the next succeeding fiscal year.
 
 (2) Not less than 20 nor more than 30 days after the submission of a written report under this subsection which indicates that, in the absence of any adjustments, the Railroad Retirement Account will contain insufficient funds to pay the full amount of the benefits under this subchapter which are payable from that Account at some time during the five-year period covered by the report, the Board shall publish such report in the Federal Register.
 
@@ -32,7 +32,7 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
+2001—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or beforeMay 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
 
 1995—Subsec. (a)(1). Pub. L. 104–66 substituted “May 1” and “July 1” for “February 1” and “April 1”, respectively, in introductory provisions.
 

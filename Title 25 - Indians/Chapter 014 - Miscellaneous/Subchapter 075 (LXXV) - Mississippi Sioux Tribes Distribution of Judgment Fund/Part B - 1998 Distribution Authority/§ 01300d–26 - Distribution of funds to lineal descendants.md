@@ -20,7 +20,7 @@ Subject to section 1300d–27(e) of this title, the Secretary shall, in the mann
 
 #### (2) Distribution
 
-&emsp;If a reduction in the amount that otherwise would be distributed under subsection (a) of this section is made under paragraph (1), an amount equal to that reduction shall be added to the amount available for distribution under section 1300d–23(a)(1) of this title, for distribution in accordance with section 1300d–23(a)(2) of this title.
+&emsp;If a reduction in the amount that otherwise would be distributed under subsection (a) of this section is made under paragraph (1), anamount equal to that reduction shall be added to the amount available for distribution under section 1300d–23(a)(1) of this title, for distribution in accordance with section 1300d–23(a)(2) of this title.
 
 #### (c) Verification of ancestry
 

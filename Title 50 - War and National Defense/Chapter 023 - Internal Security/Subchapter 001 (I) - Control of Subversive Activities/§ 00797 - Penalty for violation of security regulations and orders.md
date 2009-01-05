@@ -50,5 +50,5 @@ Any regulation or order covered by subsection (a) of this section shall be poste
 
 #### Amendments
 
-2006—Pub. L. 109–163 amended section generally. Prior to amendment, section related to security regulations and orders and penalties for violations.
+<b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section related to security regulations and orders and penalties for violations.
 

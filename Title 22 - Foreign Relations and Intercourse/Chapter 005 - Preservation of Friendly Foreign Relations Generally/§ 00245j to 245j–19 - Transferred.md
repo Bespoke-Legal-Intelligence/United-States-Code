@@ -24,7 +24,7 @@ Section 245j–9, Joint Res. Nov. 4, 1939, ch. 2, §10, 54 Stat. 9, which relate
 
 Section 245j–10, Joint Res. Nov. 4, 1939, ch. 2, §11, 54 Stat. 9, which related to submarines and armed merchant vessels, was transferred to section 451 of this title.
 
-Section 245j–11, Joint Res. Nov. 4, 1939, ch. 2, §12, 54 Stat. 10, which related to National Munitions Control Board, was transferred to section 452 of this title andwas repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(12), 68 Stat. 861.
+Section 245j–11, Joint Res. Nov. 4, 1939, ch. 2, §12, 54 Stat. 10, which related to National Munitions Control Board, was transferred to section 452 of this title and was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(12), 68 Stat. 861.
 
 Section 245j–12, Joint Res. Nov. 4, 1939, ch. 2, §13, 54 Stat. 11, which related to regulations, was transferred to section 453 of this title.
 

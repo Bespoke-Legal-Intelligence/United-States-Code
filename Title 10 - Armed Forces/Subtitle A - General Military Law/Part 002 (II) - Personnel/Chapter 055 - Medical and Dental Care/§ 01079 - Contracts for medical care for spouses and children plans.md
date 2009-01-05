@@ -114,9 +114,9 @@
 
 (2) In the case of extended benefits provided under paragraph (3) or (4) of subsection (e) to a dependent of a member of the uniformed services—
 
-&emsp;(A) the Government's share of the total cost of providing such benefits in any month shall not exceed $2,500, except for costs that a member is exempt from paying under paragraph (3); and
+&emsp;(A) the Government's share of the total cost of providing such benefits in any year shall not exceed $36,000, prorated as determined by the Secretary of Defense, except for costs that a member is exempt from paying under paragraph (3); and
 
-&emsp;(B) the member shall pay (in addition to any amount payable under paragraph (1)) the amount, if any, by which the amount of such total cost for the month exceeds the Government's maximum share under subparagraph (A).
+&emsp;(B) the member shall pay (in addition to any amount payable under paragraph (1)) the amount, if any, by which the amount of such total cost for the year.<sup>1</sup> exceeds the Government's maximum share under subparagraph (A).
 
 (3) A member of the uniformed services who incurs expenses under paragraph (2) for a month for more than one dependent shall not be required to pay for the month under subparagraph (B) of that paragraph an amount greater than the amount the member would otherwise be required to pay under that subparagraph for the month if the member were incurring expenses under that subparagraph for only one dependent.
 
@@ -190,7 +190,7 @@
 
 (3) A contract for a plan covered by this section shall include a clause that prohibits each provider of services under the plan from billing any person covered by the plan for any balance of charges for services in excess of the amount paid for those services under the joint regulations referred to in paragraph (2), except for any unpaid amounts of deductibles or copayments that are payable directly to the provider by the person.
 
-(4) In this subsection, the term “provider of services” means a hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2))), or other institutional facility providing services for which payment may be made under a plan covered by this section.
+(4) In this subsection, the term “provider of services” means a hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, hospice program (as defined in section 1861(dd)(2) of the Social Security Act (42 U.S.C. 1395x(dd)(2))), or other institutional facility providing services for whichpayment may be made under a plan covered by this section.
 
 (k) A plan covered by this section may include provision of liver transplants (including the cost of acquisition and transportation of the donated liver) in accordance with this subsection. Such a liver transplant may be provided if—
 
@@ -234,9 +234,9 @@
 
 (5) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
 
-(q) Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unless the administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
+(q) Subject to subsection (a), a physician or other health care practitioner who is eligible to receive reimbursement for services provided under medicare (as defined in section 1086(d)(3)(C) of this title) shall be considered approved to provide medical care authorized under this section and section 1086 of this title unlessthe administering Secretaries have information indicating medicare, TRICARE, or other Federal health care program integrity violations by the physician or other health care practitioner.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L.98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511.)
 
 Historical and Revision Notes
 
@@ -306,9 +306,11 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8077\], Oct. 12, 1984, 98 S
 
 Pub. L. 98–212, title VII, §785, Dec. 8, 1983, 97 Stat. 1453.
 
-A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to establishment of right to vote, priorto repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Subsec. (f)(2). Pub. L. 110–417 substituted “year shall not exceed $36,000, prorated as determined by the Secretary of Defense,” for “month shall not exceed $2,500,” in subpar. (A) and “year.” for “month” in subpar. (B).
 
 2006—Subsec. (a)(1). Pub. L. 109–364, §702, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “With respect to dental care, only that care required as a necessary adjunct to medical or surgical treatment may be provided.”
 
@@ -318,7 +320,7 @@ Subsec. (a)(2)(B). Pub. L. 109–364, §703(b)(2), substituted “cervical and b
 
 Subsec. (a)(17). Pub. L. 109–364, §701, added par. (17).
 
-Subsec. (g). Pub. L. 109–163, §715(a), designated existing provisions as par. (1), struck out last sentencewhich read “In addition, when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the three-year period beginning on the date of the death of the member.”, and added pars. (2) to (5).
+Subsec. (g). Pub. L. 109–163, §715(a), designated existing provisions as par. (1), struck out last sentence which read “In addition, when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for such benefits during the three-year period beginning on the date of the death of the member.”, and added pars. (2) to (5).
 
 Subsec. (p)(4), (5). Pub. L. 109–163, §714, added par. (4) and redesignated former par. (4) as (5).
 
@@ -386,7 +388,7 @@ Subsec. (a)(2). Pub. L. 104–201, §731(b)(2), (3), capitalized first letter of
 
 Pub. L. 104–201, §701(b)(2), inserted “the schedule and method of colon and prostate cancer screenings,” after “pap smears and mammograms,” in introductory provisions and “or colon and prostate cancer screenings” after “pap smears and mammograms” in subpar. (B).
 
-Pub. L. 104–106, §701, added par. (2) and struck out former par. (2) which read as follows: “routine physical examinations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member's duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
+Pub. L. 104–106, §701, added par. (2) and struck out former par. (2) which read as follows: “routine physicalexaminations and immunizations of dependents over two years of age may only be provided when required in the case of dependents who are traveling outside the United States as a result of a member's duty assignment and such travel is being performed under orders issued by a uniformed service, except that pap smears and mammograms may be provided on a diagnostic or preventive basis;”.
 
 Subsec. (a)(3) to (12). Pub. L. 104–201, §731(b)(2), (3), capitalized first letter of first word and substituted a period for the semicolon at end.
 
@@ -672,6 +674,64 @@ Section 2 of Pub. L. 92–58 provided that: “This Act \[amending this section\
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
+#### Waiver of Copayments for Preventive Services for Certain TRICARE Beneficiaries
+
+Pub. L. 110–417, \[div. A\], title VII, §711, Oct. 14, 2008, 122 Stat. 4500, provided that:
+
+“(a)
+
+Waiver of Certain Copayments.—Subject to subsection (b) and under regulations prescribed by the Secretary of Defense, the Secretary shall—
+
+&emsp;“(1) waive all copayments under sections 1079(b) and 1086(b) of title 10, United States Code, for preventive services for all beneficiaries who would otherwise pay copayments; and
+
+&emsp;“(2) ensure that a beneficiary pays nothing for preventive services during a year even if the beneficiary has not paid the amount necessary to cover the beneficiary's deductible for the year.
+
+“(b)
+
+Exclusion for Medicare-Eligible Beneficiaries.—Subsection (a) shall not apply to a medicare-eligible beneficiary.
+
+“(c)
+
+Refund of Copayments.—
+
+&emsp;“(1)
+
+Authority.—Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary excluded by subsection (b), subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
+
+&emsp;&emsp;“(A) the amount the beneficiary pays for copayments for preventive services during fiscal year 2009; and
+
+&emsp;&emsp;“(B) the amount the beneficiary would have paid during such fiscal year if the copayments for preventive services had been waived pursuant to subsection (a) during that year.
+
+&emsp;“(2)
+
+Copayments covered.—The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Preventive services.—The term ‘preventive services’ includes, taking into consideration the age and gender of the beneficiary:
+
+&emsp;&emsp;“(A) Colorectal screening.
+
+&emsp;&emsp;“(B) Breast screening.
+
+&emsp;&emsp;“(C) Cervical screening.
+
+&emsp;&emsp;“(D) Prostate screening.
+
+&emsp;&emsp;“(E) Annual physical exam.
+
+&emsp;&emsp;“(F) Vaccinations.
+
+&emsp;&emsp;“(G) Other services as determined by the Secretary of Defense.
+
+&emsp;“(2)
+
+Medicare-eligible.—The term ‘medicare-eligible’ has the meaning provided by section 1111((b) \[sic\] of title 10, United States Code.”
+
 #### Plan for Providing Health Coverage Information to Members, Former Members, and Dependents Eligible for Certain Health Benefits
 
 Pub. L. 108–136, div. A, title VII, §724, Nov. 24, 2003, 117 Stat. 1534, provided that:
@@ -722,7 +782,7 @@ Submission of Plan.—Not later than March 31, 2004, the Secretary shall submit 
 
 #### Report on Actions To Establish Special Reimbursement Rates
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §757(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretary of Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §757(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199, directed the Secretaryof Defense, not later than Mar. 31, 2001, to submit to the Committees on Armed Services of the Senate and the House of Representatives and the General Accounting Office a report on actions taken to carry out sections 1079(h)(5) and 1097b of this title.
 
 #### Programs Relating to Sale of Pharmaceuticals
 
@@ -742,5 +802,7 @@ Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that th
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 
-For provision authorizing transitional health care, including health benefits contracted for under subsec.\(a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
+For provision authorizing transitional health care, including health benefits contracted for under subsec. (a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

@@ -4,9 +4,15 @@
 
 The Secretary shall carry out a program to be known as educational opportunity centers which shall be designed—
 
-&emsp;(1) to provide information with respect to financial and academic assistance available for individuals desiring to pursue a program of postsecondary education; and
+&emsp;(1) to provide information with respect to financial and academic assistance available for individuals desiring to pursue a program of postsecondary education;
 
-&emsp;(2) to provide assistance to such persons in applying for admission to institutions at which a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers.
+&emsp;(2) to provide assistance to such persons in applying for admission to institutions at which a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers; and
+
+&emsp;(3) to improve the financial literacy and economic literacy of students, including—
+
+&emsp;&emsp;(A) basic personal income, household money management, and financial planning skills; and
+
+&emsp;&emsp;(B) basic economic decisionmaking skills.
 
 #### (b) Permissible services
 
@@ -20,17 +26,19 @@ An educational opportunity center assisted under this section may provide servic
 
 &emsp;(4) assistance in preparing for college entrance examinations;
 
-&emsp;(5) guidance on secondary school reentry or entry to a general educational development (GED) program or other alternative education programs for secondary school dropouts;
+&emsp;(5) education or counseling services designed to improve the financial literacy and economic literacy of students;
 
-&emsp;(6) personal counseling;
+&emsp;(6) guidance on secondary school reentry or entry to a general educational development (GED) program or other alternative education programs for secondary school dropouts;
 
-&emsp;(7) tutorial services;
+&emsp;(7) individualized personal, career, and academic counseling;
 
-&emsp;(8) career workshops and counseling;
+&emsp;(8) tutorial services;
 
-&emsp;(9) mentoring programs involving elementary or secondary school teachers, faculty members at institutions of higher education, students, or any combination of such persons; and
+&emsp;(9) career workshops and counseling;
 
-&emsp;(10) programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.
+&emsp;(10) mentoring programs involving elementary or secondary school teachers, faculty members at institutions of higher education, students, or any combination of such persons; and
+
+&emsp;(11) programs and activities as described in paragraphs (1) through (10) that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (c) Requirements for approval of applications
 
@@ -42,5 +50,21 @@ In approving applications for educational opportunity centers under this section
 
 &emsp;(3) require an assurance that individuals participating in the project proposed in the application do not have access to services from another project funded under this section or under section 1070a–12 of this title.
 
-(Pub. L. 89–329, title IV, §402F, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 490.)
+(Pub. L. 89–329, title IV, §402F, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 490; amended Pub. L. 110–315, title IV, §403(f), Aug. 14, 2008, 122 Stat. 3203.)
+
+#### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–315, §403(f)(1), added par. (3).
+
+Subsec. (b)(5), (6). Pub. L. 110–315, §403(f)(2)(A), (B), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 110–315, §403(f)(2)(C), added par. (7) and struck out former par. (7) which read as follows: “personal counseling;”.
+
+Pub. L. 110–315, §403(f)(2)(A), redesignated former par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (b)(8) to (10). Pub. L. 110–315, §403(f)(2)(A), redesignated pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
+
+Subsec. (b)(11). Pub. L. 110–315, §403(f)(2)(D), added par. (11) and struck out former par. (11) which read as follows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
+
+Pub. L. 110–315, §403(f)(2)(A), redesignated par. (10) as (11).
 

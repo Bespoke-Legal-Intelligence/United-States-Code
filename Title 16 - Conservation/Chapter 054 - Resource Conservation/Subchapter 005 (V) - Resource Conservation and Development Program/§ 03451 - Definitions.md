@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Area plan
 
-&emsp;The term “area plan” means a resource conservation and use plan developed through a planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:
+&emsp;The term “area plan” means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:
 
 &emsp;&emsp;(A) A land conservation element, the purpose of which is to control erosion and sedimentation.
 
@@ -80,17 +80,17 @@ In this subchapter:
 
 &emsp;&emsp;(B) any local or regional special district or other limited political subdivision of aState, including any soil conservation district, school district, park authority, and water or sanitary district.
 
-#### (8) Nonprofit organization
+#### (8) Locally led planning process
+
+&emsp;The term “planning process” means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
+
+#### (9) Nonprofit organization
 
 &emsp;The term “nonprofit organization” means any organization that is—
 
 &emsp;&emsp;(A) described in section 501(c) of title 26; and
 
 &emsp;&emsp;(B) exempt from taxation under section 501(a) of title 26.
-
-#### (9) Planning process
-
-&emsp;The term “planning process” means actions taken by a council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
 
 #### (10) Project
 
@@ -118,13 +118,33 @@ In this subchapter:
 
 &emsp;&emsp;(B) providing maps, reports, and other documents associated with the services provided;
 
-&emsp;&emsp;(C) providing assistance for the long-term implementation of area plans; and
+&emsp;&emsp;(C) providing assistance for the implementation of area plans and projects; and
 
-&emsp;&emsp;(D) providing services of an agency of the Department of Agriculture to assist councils in developing and carrying out area plans.
+&emsp;&emsp;(D) providing services that involve the resources of Department of Agriculture programs in a local community, as defined in the locally led planning process.
 
-(Pub. L. 97–98, title XV, §1528, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 269.)
+(Pub. L. 97–98, title XV, §1528, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 269; Pub. L. 110–234, title II, §2805(a), (b), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, §4(a), title II, §2805(a), (b), June 18, 2008, 122 Stat. 1664, 1816.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 3451, Pub. L. 97–98, title XV, §1528, Dec. 22, 1981, 95 Stat. 1337, related to statement of purpose, prior to the general amendment of this subchapter by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Par. (1). Pub. L. 110–246, §2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
+
+Pars. (8), (9). Pub. L. 110–246, §2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
+
+Par. (13)(C), (D). Pub. L. 110–246, §2805(b), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
+
+“(C) providing assistance for the long-term implementation of area plans; and
+
+“(D) providing services of an agency of the Department of Agriculture to assist councils in developing and carrying out area plans.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

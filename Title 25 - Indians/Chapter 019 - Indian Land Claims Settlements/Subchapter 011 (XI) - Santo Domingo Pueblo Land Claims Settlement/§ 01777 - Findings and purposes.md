@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) The Pueblo of Santo Domingo has asserted a claim to another 25,000 acres of land based on the Pueblo's purchase in 1748 of the Diego Gallegos Grant. The Pueblo possesses the original deed reflecting the purchase under Spanish law but, after the United States assumed sovereignty over New Mexico, no action was taken to confirm the Pueblo's title to these lands. Later, many of these lands were treated as public domain, and are held today by Federal agencies, the State Land Commission, other Indian tribes, and private parties. The Pueblo's lawsuit asserting this claim, Pueblo of Santo Domingo v. Rael (Civil No. 83–1888 (D.N.M.)), is still pending.
 
-&emsp;(4) The Pueblo of Santo Domingo's claims against the United States in docket No. 355 under the Act of August 13, 1946 (60 Stat. 1049; commonly referred to as the Indian Claims Commission Act) have been pending since 1951. These claims include allegations of the Federal misappropriation and mismanagement of the Pueblo's aboriginal and Spanish grant lands.
+&emsp;(4) The Pueblo of Santo Domingo's claims against the United States in docket No. 355 under the Act of August 13, 1946 (60 Stat. 1049; commonly referred to as the Indian ClaimsCommission Act) have been pending since 1951. These claims include allegations of the Federal misappropriation and mismanagement of the Pueblo's aboriginal and Spanish grant lands.
 
 &emsp;(5) Litigation to resolve the land and trespass claims of the Pueblo of Santo Domingo would take many years, and the outcome of such litigation is unclear. The pendency of these claims has clouded private land titles and has created difficulties in the management of public lands within the claim area.
 

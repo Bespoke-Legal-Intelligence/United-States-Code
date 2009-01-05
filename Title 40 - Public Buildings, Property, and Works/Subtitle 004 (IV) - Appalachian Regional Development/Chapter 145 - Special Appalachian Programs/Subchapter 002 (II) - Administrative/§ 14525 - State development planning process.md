@@ -2,7 +2,7 @@
 
 (a)
 
-State Development Plan.—Pursuant to policies the Appalachian Regional Commissionestablishes, each state member shall submit a development plan for the area of the State within the Appalachian region. The plan shall—
+State Development Plan.—Pursuant to policies the Appalachian Regional Commission establishes, each state member shall submit a development plan for the area of the State within the Appalachian region. The plan shall—
 
 &emsp;(1) be submitted according to a schedule the Commission prescribes;
 

@@ -19,6 +19,7 @@
 | [406c.](%C2%A7%2000406c%20-%20Travel%20and%20transportation%20allowances%20members%20assigned%20to%20a%20vessel%20under%20construction.md) | Travel and transportation allowances: members assigned to a vessel under construction. |
 | [407\.](%C2%A7%2000407%20-%20Travel%20and%20transportation%20allowances%20dislocation%20allowance.md) | Travel and transportation allowances: dislocation allowance. |
 | [408\.](%C2%A7%2000408%20-%20Travel%20and%20transportation%20allowances%20travel%20within%20limits%20of%20duty%20station.md) | Travel and transportation allowances: travel within limits of duty station. |
+| [408a.](%C2%A7%2000408a%20-%20Travel%20and%20transportation%20allowances%20inactive%20duty%20training%20outside%20of%20normal%20commuting%20distances.md) | Travel and transportation allowances: inactive duty training outside of normal commuting distances. |
 | [409\.](%C2%A7%2000409%20-%20Travel%20and%20transportation%20allowances%20house%20trailers%20and%20mobile%20homes.md) | Travel and transportation allowances: house trailers and mobile homes. |
 | [410\.](%C2%A7%2000410%20-%20Travel%20and%20transportation%20allowances%20miscellaneous%20categories.md) | Travel and transportation allowances: miscellaneous categories. |
 | [411\.](%C2%A7%2000411%20-%20Travel%20and%20transportation%20allowances%20administrative%20provisions.md) | Travel and transportation allowances: administrative provisions. |
@@ -54,14 +55,20 @@
 | [431\.](%C2%A7%2000431%20-%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md) | Benefits for certain members assigned to the Defense Intelligence Agency. |
 | [432\.](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md) | Travel and transportation: members escorting certain dependents. |
 | [433\.](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md) | Allowance for muster duty. |
+| [433a.](%C2%A7%2000433a%20-%20Allowance%20for%20participation%20in%20Ready%20Reserve%20screening.md) | Allowance for participation in Ready Reserve screening. |
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
 | [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
 | [436\.](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md) | High-deployment allowance: lengthy or numerous deployments; frequent mobilizations. |
 | [437\.](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%20Operation%E2%80%A6.md) | Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom. |
+| [438\.](%C2%A7%2000438%20-%20Preventive%20health%20services%20allowance.md) | Preventive health care allowance.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title VII, §714(b), Oct. 14, 2008, 122 Stat. 4505, added item 438.
+
+Pub. L. 110–181, div. A, title VI, §§631(a)(2), 633(a)(2), Jan. 28, 2008, 122 Stat. 154, 155, added items 408a and 433a.
 
 2006—Pub. L. 109–364, div. A, title VI, §606(c), title X, §1071(c)(5), Oct. 17, 2006, 120 Stat. 2246, 2401, substituted “dislocation allowance” for “dislocation allowances” in item 407, inserted “Corps” after “United States Marine” in item 425, and struck out “portion of” before “monthly” in item 437.
 
@@ -137,6 +144,8 @@ Pub. L. 93–170, §1(2), Nov. 29, 1973, 87 Stat. 689, substituted “overhaulin
 
 Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -159,6 +168,7 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00406c - Travel and transportation allowances members assigned to a vessel under construction](%C2%A7%2000406c%20-%20Travel%20and%20transportation%20allowances%20members%20assigned%20to%20a%20vessel%20under%20construction.md)
 - [&sect; 00407 - Travel and transportation allowances dislocation allowance](%C2%A7%2000407%20-%20Travel%20and%20transportation%20allowances%20dislocation%20allowance.md)
 - [&sect; 00408 - Travel and transportation allowances travel within limits of duty station](%C2%A7%2000408%20-%20Travel%20and%20transportation%20allowances%20travel%20within%20limits%20of%20duty%20station.md)
+- [&sect; 00408a - Travel and transportation allowances inactive duty training outside of normal commuting distances](%C2%A7%2000408a%20-%20Travel%20and%20transportation%20allowances%20inactive%20duty%20training%20outside%20of%20normal%20commuting%20distances.md)
 - [&sect; 00409 - Travel and transportation allowances house trailers and mobile homes](%C2%A7%2000409%20-%20Travel%20and%20transportation%20allowances%20house%20trailers%20and%20mobile%20homes.md)
 - [&sect; 00410 - Travel and transportation allowances miscellaneous categories](%C2%A7%2000410%20-%20Travel%20and%20transportation%20allowances%20miscellaneous%20categories.md)
 - [&sect; 00411 - Travel and transportation allowances administrative provisions](%C2%A7%2000411%20-%20Travel%20and%20transportation%20allowances%20administrative%20provisions.md)
@@ -194,7 +204,9 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00431 - Benefits for certain members assigned to the Defense Intelligence Agency](%C2%A7%2000431%20-%20Benefits%20for%20certain%20members%20assigned%20to%20the%20Defense%20Intelligence%20Agency.md)
 - [&sect; 00432 - Travel and transportation members escorting certain dependents](%C2%A7%2000432%20-%20Travel%20and%20transportation%20members%20escorting%20certain%20dependents.md)
 - [&sect; 00433 - Allowance for muster duty](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md)
+- [&sect; 00433a - Allowance for participation in Ready Reserve screening](%C2%A7%2000433a%20-%20Allowance%20for%20participation%20in%20Ready%20Reserve%20screening.md)
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
 - [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
 - [&sect; 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md)
 - [&sect; 00437 - Allowance to cover monthly premium for Servicemembers&#8217; Group Life Insurance members serving in Operation Enduring Freedom or Operation&#8230;](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%20Operation%E2%80%A6.md)
+- [&sect; 00438 - Preventive health services allowance](%C2%A7%2000438%20-%20Preventive%20health%20services%20allowance.md)

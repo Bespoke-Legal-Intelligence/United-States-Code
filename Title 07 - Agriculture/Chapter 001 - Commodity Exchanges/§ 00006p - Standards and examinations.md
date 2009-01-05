@@ -8,7 +8,7 @@
 
 #### Codification
 
-Another section 4p of act Sept. 21, 1922, is classified to section 6<i>o</i>–1 of this title.
+Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is classified to section 6q of this title.
 
 #### Amendments
 

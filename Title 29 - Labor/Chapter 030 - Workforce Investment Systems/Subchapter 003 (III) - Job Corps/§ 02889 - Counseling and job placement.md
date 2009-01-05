@@ -6,7 +6,7 @@ The Secretary shall arrange for counseling and testing for each enrollee at regu
 
 #### (b) Placement
 
-The Secretary shall arrange for counseling and testing for enrollees prior to their scheduled graduations to determine their capabilities and, based on their capabilities, shall make every effort to arrange to place the enrollees in jobs in the vocations for which the enrollees are trained or to assist the enrollees in obtaining further activities described in this subchapter. In arranging for the placement of graduates in jobs,the Secretary shall utilize the one-stop delivery system to the fullest extent possible.
+The Secretary shall arrange for counseling and testing for enrollees prior to their scheduled graduations to determine their capabilities and, based on their capabilities, shall make every effort to arrange to place the enrollees in jobs in the vocations for which the enrollees are trained or to assist the enrollees in obtaining further activities described in this subchapter. In arranging for the placement of graduates in jobs, the Secretary shall utilize the one-stop delivery system to the fullest extent possible.
 
 #### (c) Status and progress
 

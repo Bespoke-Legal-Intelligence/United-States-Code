@@ -108,7 +108,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (4) Sales contracts
 
-&emsp;Sales contracts entered into under such program will contain provisions requiring repayment of any loan made under this section upon the sale or other transfer of the home involved, unless the Secretary approves a transfer of such home without repayment (in whichcase the second mortgage held by the Secretary on such home shall remain in force until such loan is fully repaid).
+&emsp;Sales contracts entered into under such program will contain provisions requiring repayment of any loan made under this section upon the sale or other transfer of the home involved, unless the Secretary approves a transfer of such home without repayment (in which case the second mortgage held by the Secretary on such home shall remain in force until such loan is fully repaid).
 
 #### (g) Program selection criteria
 

@@ -1,8 +1,8 @@
 ### §§1431 to 1440. Transferred
 
-Section 1431, act Mar. 4, 1925, ch. 563, 43 Stat. 1357, which related to sovereignty of United States extended over Swains Island, was transferred to section 1662 of this title.
+Section 1431, act Mar. 4, 1925, ch. 563, 43 Stat. 1357, which related to making Swains Island part of American Samoa, was transferred to section 1662 of this title.
 
-Section 1431a, acts Feb. 20, 1929, ch. 281, 45 Stat. 1253; May 22, 1929, ch. 6, 46 Stat. 4, which related to islands of Tutuila, Manua, and Eastern Samoa, was transferred to section 1661 of this title.
+Section 1431a, acts Feb. 20, 1929, ch. 281, 45 Stat. 1253; May 22, 1929, ch. 6, 46 Stat. 4, which related to islands of eastern Samoa, was transferred to section 1661 of this title.
 
 Section 1432, act June 28, 1906, ch. 3585, 34 Stat. 552, which related to acknowledgment of deeds in the islands of Samoa, was transferred to section 1663 of this title.
 

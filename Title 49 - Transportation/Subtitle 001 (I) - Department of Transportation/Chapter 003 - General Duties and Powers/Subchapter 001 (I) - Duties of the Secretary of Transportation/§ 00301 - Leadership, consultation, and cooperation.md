@@ -58,7 +58,7 @@ Pub. L. 109–364, div. C, title XXXV, §3504, Oct. 17, 2006, 120 Stat. 2516, pr
 
 #### Budget Justification
 
-Pub. L. 109–59, title I, §1926, Aug. 10, 2005, 119 Stat. 1483, provided that: “The Department of Transportation and each agency in the Department shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a budget justification concurrently with the President's annual budget submission to Congress under section 1105(a) of title 31, United States Code.”
+Pub. L. 109–59, title I, §1926, Aug. 10, 2005, 119 Stat. 1483, as amended by Pub. L. 110–244, title I, §108(a), June 6, 2008, 122 Stat. 1602, provided that: “Notwithstanding any other provision of law, the Department of Transportation and each agency in the Department shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a budget justification concurrently with the President's annual budget submission to Congress under section 1105(a) of title 31, United States Code.”
 
 #### Coordinated Transportation Services
 

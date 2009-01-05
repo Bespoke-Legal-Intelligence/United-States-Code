@@ -30,9 +30,9 @@ Subsec. (d). Pub. L. 103–337, §501(a), inserted “(except for a warrant offi
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginningafter Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 

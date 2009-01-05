@@ -14,11 +14,27 @@
 
 #### (1) Revised tables
 
-&emsp;For each academic year after academic year 1993–1994, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087<i>oo</i>(c)(4) and 1087qq(b)(4) of this title. Such revised table shall be developed by increasing each of the dollar amounts contained in the table in each such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10. For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in section 1087qq(b)(4) of this title by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent.
+#### (A) In general
+
+&emsp;&emsp;For each academic year after academic year 2008–2009, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087<i>oo</i>(c)(4) and 1087qq(b)(4) of this title, subject to subparagraphs (B) and (C).
+
+#### (B) Table for independent students
+
+#### (i) Academic years 2009–2010 through 2012–2013
+
+&emsp;&emsp;&emsp;For each of the academic years 2009–2010 through 2012–2013, the Secretary shall not develop a revised table of income protection allowances under section 1087qq(b)(4) of this title and the table specified for such academic year under subparagraphs (A) through (D) of such section shall apply.
+
+#### (ii) Other academic years
+
+&emsp;&emsp;&emsp;For each academic year after academic year 2012–2013, the Secretary shall develop the revised table of income protection allowances by increasing each of the dollar amounts contained in the table of income protection allowances under section 1087qq(b)(4)(D) of this title by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
+
+#### (C) Table for parents
+
+&emsp;&emsp;For each academic year after academic year 2008–2009, the Secretary shall develop the revised table of income protection allowances under section 1087<i>oo</i>(c)(4) of this title by increasing each of the dollar amounts contained in the table by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
 
 #### (2) Revised amounts
 
-&emsp;For each academic year after academic year 2007–2008, the Secretary shall publish in the Federal Register revised income protection allowances for the purpose of sections 1087<i>oo</i>(g)(2)(D) and 1087pp(b)(1)(A)(iv) of this title. Such revised allowances shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
+&emsp;For each academic year after academic year 2007–2008, the Secretary shall publish in the Federal Register revised income protection allowances for the purpose of sections 1087<i>oo</i>(g)(2)(D) and 1087pp(b)(1)(A)(iv) of this title. Such revised allowances shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.
 
 #### (c) Adjusted net worth of a farm or business
 
@@ -60,35 +76,11 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 (Pub. L. 89–329, title IV, §478, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1470; amended Pub. L. 100–50, §14(20)–(22), June 3, 1987, 101 Stat. 351, 352; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 602; Pub. L. 103–208, §2(g)(8), (9), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §476, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(d), (e), Feb. 8, 2006, 120 Stat. 173, 174; Pub. L. 110–84, title VI, §601(d), Sept. 27, 2007, 121 Stat. 803.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 110–84, title VI, §601(d), (e), Sept. 27, 2007, 121 Stat. 803, 804, provided that, effective July 1, 2009, subsection (b) of this section is amended as follows:</i>
-
-<i>(1) by striking paragraph (1) and inserting the following:</i>
-
-#### <i>“(1) Revised tables</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“For each academic year after academic year 2008–2009, the Secretary shall publish in the Federal Register a revised table of income protection allowances for the purpose of sections 1087oo</i>(c)(4) and 1087qq(b)(4) of this title, subject to subparagraphs (B) and (C).
-
-#### <i>“(B) Table for independent students</i>
-
-#### <i>“(i) Academic years 2009–2010 through 2012–2013</i>
-
-&emsp;&emsp;&emsp;<i>“For each of the academic years 2009–2010 through 2012–2013, the Secretary shall not develop a revised table of income protection allowances under section 1087qq(b)(4) of this title and the table specified for such academic year under subparagraphs (A) through (D) of such section shall apply.</i>
-
-#### <i>“(ii) Other academic years</i>
-
-&emsp;&emsp;&emsp;<i>“For each academic year after academic year 2012–2013, the Secretary shall develop the revised table of income protection allowances by increasing each of the dollar amounts contained in the table of income protection allowances under section 1087qq(b)(4)(D) of this title by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.</i>
-
-#### <i>“(C) Table for parents</i>
-
-&emsp;&emsp;<i>“For each academic year after academic year 2008–2009, the Secretary shall develop the revised table of income protection allowances under section 1087oo</i>(c)(4) of this title by increasing each of the dollar amounts contained in the table by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”; and
-
-<i>(2) in paragraph (2), by striking “shall be developed” and all that follows through the period at the end and inserting “shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the esti</i><i>mated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”</i>
-
 #### Amendments
+
+2007—Subsec. (b)(1). Pub. L. 110–84, §601(d)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) required the Secretary to publish in the Federal Register, for each academic year after academic year 1993–1994, a revised table of income protection allowances for the purpose of sections 1087<i>oo</i>(c)(4) and 1087qq(b)(4) of this title.
+
+Subsec. (b)(2). Pub. L. 110–84, §601(d)(2), substituted “shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.” for “shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”
 
 2006—Subsec. (b)(1). Pub. L. 109–171, §8017(d)(1), inserted at end “For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in section 1087qq(b)(4) of this title by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent.”
 

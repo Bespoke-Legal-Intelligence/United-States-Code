@@ -6,13 +6,13 @@ Gallaudet University and the National Technical Institute for the Deaf shall eac
 
 #### (b) Research reports
 
-The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, not later than January 10 of each year, that shall include—
+The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than January 10 of each year, that shall include—
 
 &emsp;(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a) of this section, and the University's and NTID's response to the input; and
 
 &emsp;(2) a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
 
-(Pub. L. 99–371, title II, §210, as added Pub. L. 105–244, title IX, §923, Oct. 7, 1998, 112 Stat. 1832.)
+(Pub. L. 99–371, title II, §210, as added Pub. L. 105–244, title IX, §923, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, §912, Aug. 14, 2008, 122 Stat. 3455.)
 
 #### Prior Provisions
 
@@ -20,11 +20,9 @@ A prior section 210 of Pub. L. 99–371 was renumbered section 209 and is classi
 
 Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, §410, Aug. 4, 1986, 100 Stat. 794; renumbered title II, §210, Pub. L. 102–241, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, repealed sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title and provisions set out as notes under sections 681 and 693 of this title, prior to repeal by Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163.
 
-#### Change of Name
+#### Amendments
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+2008—Subsec. (b). Pub. L. 110–315 substituted “Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate”.
 
 #### Effective Date
 

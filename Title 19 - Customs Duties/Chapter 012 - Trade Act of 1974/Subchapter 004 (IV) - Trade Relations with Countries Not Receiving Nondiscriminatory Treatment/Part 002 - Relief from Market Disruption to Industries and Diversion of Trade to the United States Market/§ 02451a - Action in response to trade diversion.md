@@ -6,7 +6,7 @@ In any case in which a WTO member other than the United States requests consulta
 
 #### (b) Initiation of investigation
 
-(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, uponthe request of the President or the Trade Representative, upon resolution of either of the Committees, or on its own motion, the Commission shall promptly make an investigation to determine whether an action described in subsection (c) of this section has caused, or threatens to cause, a significant diversion of trade into the domestic market of the United States.
+(1) Upon the filing of a petition by an entity described in section 2252(a) of this title, upon the request of the President or the Trade Representative, upon resolution of either of the Committees, or on its own motion, the Commission shall promptly make an investigation to determine whether an action described in subsection (c) of this section has caused, or threatens to cause, a significant diversion of trade into the domestic market of the United States.
 
 (2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties an opportunity to be present, to present evidence, to respond to the presentations of other parties, and otherwise to be heard.
 
@@ -26,7 +26,7 @@ An action is described in this subsection if it is an action—
 
 #### (d) Basis for determination of significant diversion
 
-(1) In determining whether significant diversion or the threat thereof exists for purposes of this section, the Commission shall take into account, to the extent such evidence is reasonably available—
+(1) In determining whether significant diversion or the threat thereof exists for purposes ofthis section, the Commission shall take into account, to the extent such evidence is reasonably available—
 
 &emsp;(A) the monitoring conducted under subsection (a) of this section;
 

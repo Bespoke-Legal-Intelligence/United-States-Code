@@ -110,7 +110,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (B) Such charge—
 
-&emsp;(i) shall consist of a short and plain statement of the facts upon which the Secretary has found reasonable cause to believe that adiscriminatory housing practice has occurred or is about to occur;
+&emsp;(i) shall consist of a short and plain statement of the facts upon which the Secretary has found reasonable cause to believe that a discriminatory housing practice has occurred or is about to occur;
 
 &emsp;(ii) shall be based on the final investigative report; and
 

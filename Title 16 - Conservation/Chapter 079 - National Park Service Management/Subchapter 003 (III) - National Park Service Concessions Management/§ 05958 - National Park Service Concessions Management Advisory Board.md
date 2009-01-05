@@ -10,7 +10,7 @@ There is hereby established a National Park Service Concessions Management Advis
 
 &emsp;The Advisory Board shall advise on each of the following:
 
-&emsp;&emsp;(A) Policies and procedures intended to assure that services and facilities provided by concessioners are necessary and appropriate, meet acceptable standards at reasonable rates with a minimum of impact on park resources and values, and provide the concessioners with a reasonable opportunity to make a profit.
+&emsp;&emsp;(A) Policies and procedures intended to assure that services and facilities provided by concessioners are necessary and appropriate, meet acceptable standards at reasonablerates with a minimum of impact on park resources and values, and provide the concessioners with a reasonable opportunity to make a profit.
 
 &emsp;&emsp;(B) Ways to make National Park Service concessions programs and procedures more cost effective, more process efficient, less burdensome, and timelier.
 
@@ -32,7 +32,7 @@ There is hereby established a National Park Service Concessions Management Advis
 
 #### (c) Advisory Board membership
 
-Members of the Advisory Board shall be appointed on a staggered basis by the Secretaryfor a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than seven individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a National Park Service concession. Of the seven members of the Advisory Board—
+Members of the Advisory Board shall be appointed on a staggered basis by the Secretary for a term not to exceed 4 years and shall serve at the pleasure of the Secretary. The Advisory Board shall be comprised of not more than seven individuals appointed from among citizens of the United States not in the employment of the Federal Government and not in the employment of or having an interest in a National Park Service concession. Of the seven members of the Advisory Board—
 
 &emsp;(1) one member shall be privately employed in the hospitality industry and have both broad knowledge of hotel or food service management and experience in the parks and recreation concessions business;
 

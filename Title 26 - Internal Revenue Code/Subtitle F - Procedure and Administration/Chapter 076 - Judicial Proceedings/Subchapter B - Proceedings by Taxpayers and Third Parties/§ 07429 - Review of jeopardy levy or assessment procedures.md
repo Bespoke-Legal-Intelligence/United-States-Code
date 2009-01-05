@@ -10,7 +10,7 @@
 
 #### (B) Information to taxpayer
 
-&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretaryshall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
+&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
 
 #### (2) Request for review
 
@@ -136,7 +136,7 @@ Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, §10713
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3434(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section \[amending this section\] shall apply to taxes assessed and levies made after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3434(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by thissection \[amending this section\] shall apply to taxes assessed and levies made after the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1988 Amendment
 

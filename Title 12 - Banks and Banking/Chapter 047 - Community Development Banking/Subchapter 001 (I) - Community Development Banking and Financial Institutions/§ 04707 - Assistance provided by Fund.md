@@ -20,7 +20,7 @@
 
 #### (A) Limitation on equity investments
 
-&emsp;&emsp;The Fund shall not own more than 50 percent of the equity of a community development financial institution and may not control the operations of such institution. The Fund may hold only transferable, nonvoting equity investments in the institution. Such equity investments may provide for convertibility to voting stock upon transfer by the Fund.
+&emsp;&emsp;The Fund shall not own more than 50 percent of the equity of a community development financial institution and may not control the operations of such institution. TheFund may hold only transferable, nonvoting equity investments in the institution. Such equity investments may provide for convertibility to voting stock upon transfer by the Fund.
 
 #### (B) Fund deemed not to control
 
@@ -66,7 +66,7 @@
 
 #### (2) Limitations
 
-&emsp;No assistance made available under this subchapter may be expended by a community development financial institution (or an organization receiving assistance under section 4712 of this title) to pay any person to influence or attempt to influence any agency, elected official, officer, or employee of a State or localgovernment in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan, or cooperative agreement (as such terms are defined in section 1352 of title 31).
+&emsp;No assistance made available under this subchapter may be expended by a community development financial institution (or an organization receiving assistance under section 4712 of this title) to pay any person to influence or attempt to influence any agency, elected official, officer, or employee of a State or local government in connection with the making, award, extension, continuation, renewal, amendment, or modification of any State or local government contract, grant, loan, or cooperative agreement (as such terms are defined in section 1352 of title 31).
 
 #### (c) Uses of technical assistance
 

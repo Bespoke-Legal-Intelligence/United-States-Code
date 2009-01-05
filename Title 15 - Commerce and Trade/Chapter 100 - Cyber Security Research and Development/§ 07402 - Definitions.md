@@ -14,5 +14,5 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116Stat. 2367, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

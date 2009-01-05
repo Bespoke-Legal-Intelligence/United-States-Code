@@ -8,13 +8,43 @@ This chapter shall apply—
 
 &emsp;(2) with respect to Annexes I and II to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters of the United States;
 
-&emsp;(3) with respect to the requirements of Annex V to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters or the exclusive economic zone of the United States; and
+&emsp;(3) with respect to the requirements of Annex V to the Convention, to a ship, other than a ship referred to in paragraph (1), while in the navigable waters or the exclusive economic zone of the United States;
 
-&emsp;(4) with respect to regulations prescribed under section 1905 of this title, any port or terminal in the United States.
+&emsp;(4) with respect to regulations prescribed under section 1905 of this title, any port or terminal in the United States; and
+
+&emsp;(5) with respect to Annex VI to the Convention, and other than with respect to a ship referred to in paragraph (1)—
+
+&emsp;&emsp;(A) to a ship that is in a port, shipyard, offshore terminal, or the internal waters of the United States;
+
+&emsp;&emsp;(B) to a ship that is bound for, or departing from, a port, shipyard, offshore terminal, or the internal waters of the United States, and is in—
+
+&emsp;&emsp;&emsp;(i) the navigable waters or the exclusive economic zone of the United States;
+
+&emsp;&emsp;&emsp;(ii) an emission control area designated pursuant to section 1903 of this title; or
+
+&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
+
+&emsp;&emsp;(C) to a ship that is entitled to fly the flag of, or operating under the authority of, a party to Annex VI, and is in—
+
+&emsp;&emsp;&emsp;(i) the navigable waters or the exclusive economic zone of the United States;
+
+&emsp;&emsp;&emsp;(ii) an emission control area designated under section 1903 of this title; or
+
+&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
+
+&emsp;&emsp;(D) to any other ship, to the extent that, and in the same manner as, such ship may be boarded by the Secretary to implement or enforce any other law of the United States or Annex I, II, or V of the Convention, and is in—
+
+&emsp;&emsp;&emsp;(i) the exclusive economic zone of the United States;
+
+&emsp;&emsp;&emsp;(ii) the navigable waters of the United States;
+
+&emsp;&emsp;&emsp;(iii) an emission control area designated under section 1903 of this title; or
+
+&emsp;&emsp;&emsp;(iv) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment.
 
 #### (b) Excluded vessels
 
-(1) Except as provided in paragraph (2), this chapter shall not apply to—
+(1) Except as provided in paragraphs (2) and (3), this chapter shall not apply to—
 
 &emsp;(A) a warship, naval auxiliary, or other ship owned or operated by the United States when engaged in noncommercial service; or
 
@@ -24,13 +54,19 @@ This chapter shall apply—
 
 &emsp;(i) After December 31, 1993, to all ships referred to in paragraph (1)(A) of this subsection other than those owned or operated by the Department of the Navy.
 
-&emsp;(ii) Except as provided in subsection (c) of this section, after December 31, 1998, to all ships referred to in paragraph (1)(A) of this subsection other than submersibles owned or operated by the Department of the Navy.
+&emsp;(ii) Except as provided in subsection (c) <sup>1</sup> of this section, after December 31, 1998, to all ships referred to in paragraph (1)(A) of this subsection other than submersibles owned or operated by the Department of the Navy.
 
-&emsp;(iii) Except as provided in subsection (c) of this section, after December 31, 2008, to all ships referred to in paragraph (1)(A) of this subsection.
+&emsp;(iii) Except as provided in subsection (c) <sup>1</sup> of this section, after December 31, 2008, to all ships referred to in paragraph (1)(A) of this subsection.
 
 (B) This paragraph shall not apply during time of war or a declared national emergency.
 
-#### (c) Discharges in special areas
+(3) With respect to Annex VI the Administrator, or the Secretary, as relevant to their authorities pursuant to this chapter, may determine that some or all of the requirements under this chapter shall apply to one or more classes of public vessels, except that such a determination by the Administrator shall have no effect unless the head of the Department or agency under which the vessels operate concurs in the determination. This paragraph does not apply during time of war or during a declared national emergency.
+
+#### (c) Application to other persons
+
+This chapter shall apply to all persons to the extent necessary to ensure compliance with Annex VI to the Convention.
+
+#### (d) Discharges in special areas
 
 (1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surface ships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
 
@@ -58,11 +94,11 @@ This chapter shall apply—
 
 (C) At the same time that the Secretary publishes standards under subparagraph (A), the Secretary shall publish in the Federal Register a list of the ships covered by subparagraph (B).
 
-#### (d) Regulations
+#### (e) Regulations
 
-The Secretary shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol, including regulations conforming to and giving effect to the requirements of Annex V as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
+The Secretary or the Administrator, consistent with section 1903 of this title, shall prescriberegulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
 
-#### (e) Compliance by excluded vessels
+#### (f) Compliance by excluded vessels
 
 (1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
 
@@ -82,21 +118,47 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 &emsp;(B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
 
-#### (f) Waiver authority
+#### (g) Waiver authority
 
-The President may waive the effective dates of the requirements set forth in subsection (c) of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
+The President may waive the effective dates of the requirements set forth in subsection (c) <sup>1</sup> of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
 
-#### (g) Noncommercial shipping standards
+#### (h) Noncommercial shipping standards
 
 The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
-(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965.)
+#### (i) Savings clause
+
+Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
+
+(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, §4, July 21, 2008, 122 Stat. 2611.)
 
 #### References in Text
 
-Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (e)(4)(B) and (f), is section 1003(e) of Pub. L. 103–160, which is set out below.
+Subsection (c) of this section, referred to in subsecs. (b)(2)(A)(ii), (iii), (f)(1), and (g), was redesignated subsection (d) by Pub. L. 110–280, §4(3), July 21, 2008, 122 Stat. 2613.
+
+Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (f)(4)(B) and (g), is section 1003(e) of Pub. L. 103–160, which is set out below.
 
 #### Amendments
+
+2008—Subsec. (a)(5). Pub. L. 110–280, §4(1), added par. (5).
+
+Subsec. (b)(1). Pub. L. 110–280, §4(2)(A), substituted “paragraphs (2) and (3),” for “paragraph (2),” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 110–280, §4(2)(B), added par. (3).
+
+Subsecs. (c), (d). Pub. L. 110–280, §4(3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–280, §4(4)(C), substituted “Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI” for “Protocol, including regulations conforming to and giving effect to the requirements of Annex V”.
+
+Pub. L. 110–280, §4(4)(B), made technical amendment to reference in original act which appears in text as reference to “of this section” requiring no change in text.
+
+Pub. L. 110–280, §4(4)(A), inserted “or the Administrator, consistent with section 1903 of this title,” after “Secretary”.
+
+Pub. L. 110–280, §4(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsecs. (f) to (h). Pub. L. 110–280, §4(3), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
+
+Subsec. (i). Pub. L. 110–280, §4(5), added subsec. (i).
 
 1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, §326(a)(1), added cl. (iii).
 
@@ -159,4 +221,6 @@ Section 1003(e) of Pub. L. 103–160 provided that:
 “(5) Not later than July 1, 1998, the Secretary shall complete the installation of plastics processors on board not less than 75 percent of the ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.
 
 “(6) Not later than December 31, 1998, the Secretary shall complete the installation of plastics processors on board all ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

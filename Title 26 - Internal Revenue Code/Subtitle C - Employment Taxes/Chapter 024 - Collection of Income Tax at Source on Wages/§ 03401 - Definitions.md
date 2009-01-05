@@ -30,9 +30,9 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(B) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico), if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services; or
 
-&emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believethat during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
+&emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
 
-&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
+&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States\(or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
 
 &emsp;(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order; or
 
@@ -72,9 +72,11 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); <sup>2</sup>
 
-&emsp;(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); or
+&emsp;(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); <sup>2</sup>
 
-&emsp;(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+&emsp;(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d); or
+
+&emsp;(23) for any benefit or payment which is excludable from the gross income of the employee under section 139B(b).
 
 > The term “wages” includes any amount includible in gross income of an employee under section 409A and payment of such amount shall be treated as having been made in the taxable year in which the amount is so includible.
 
@@ -90,7 +92,7 @@ For purposes of this chapter, the term “employee” includes an officer, emplo
 
 For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
 
-&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
+&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for suchservices, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.
 
@@ -106,13 +108,31 @@ For purposes of subsection (a), the term “wages” includes tips received by a
 
 Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640.)
+#### (h) Differential wage payments to active duty members of the uniformed services
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a), any differential wage payment shall be treated as a payment of wages by the employer to the employee.
+
+#### (2) Differential wage payment
+
+&emsp;For purposes of paragraph (1), the term “differential wage payment” means any payment which—
+
+&emsp;&emsp;(A) is made by an employer to an individual with respect to any period during which the individual is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code) while on active duty for a period of more than 30 days, and
+
+&emsp;&emsp;(B) represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–245, title I, §§105(a)(1), 115(c), June 17, 2008, 122 Stat. 1628, 1637.)
 
 #### References in Text
 
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2008—Subsec. (a)(23). Pub. L. 110–245, §115(c), added par. (23).
+
+Subsec. (h). Pub. L. 110–245, §105(a)(1), added subsec. (h).
 
 2005—Subsecs. (g), (h). Pub. L. 109–135 redesignated subsec. (h) as (g).
 
@@ -160,7 +180,7 @@ Subsec. (a)(20). Pub. L. 99–514, §122(e)(4), inserted reference to section 74
 
 1984—Subsec. (a). Pub. L. 98–369, §531(d)(4)(A), inserted “(including benefits)” in introductory provisions.
 
-Subsec. (a)(12). Pub. L. 98–369, §491(d)(38), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is aqualified bond purchase plan described in section 405(a);” and redesignated subpar. (D) as (C).
+Subsec. (a)(12). Pub. L. 98–369, §491(d)(38), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a);” and redesignated subpar. (D) as (C).
 
 Subsec. (a)(20). Pub. L. 98–369, §531(d)(4)(B), added par. (20).
 
@@ -210,6 +230,12 @@ Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–245, title I, §105(a)(2), June 17, 2008, 122 Stat. 1628, provided that: “The amendment made by this subsection \[amending this section\] shall apply to remuneration paid after December 31, 2008.”
+
+Amendment by section 115(c) of Pub. L. 110–245 effective as if included in section 5 of Pub. L. 110–142, see section 115(d) of Pub. L. 110–245, set out as a note under section 3121 of this title.
+
 #### Effective Date of 2004 Amendments
 
 Amendment by Pub. L. 108–375 applicable to travel benefits provided after Oct. 28, 2004, see section 585(b)(3) of Pub. L. 108–375, set out as a note under section 134 of this title.
@@ -232,7 +258,7 @@ Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, s
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 1996, see section 1(e) of Pub. L. 104–117, set out in a Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date note under section 112 of this title.
 
@@ -340,7 +366,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 
-Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024, provided that:
+Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024; Pub. L. 110–458, title I, §108(m), Dec. 23, 2008, 122 Stat. 5110, provided that:
 
 “(a)
 
@@ -442,7 +468,7 @@ Exception for other reasonable basis.—In the case of any issue involving wheth
 
 Preservation of prior period safe harbor.—If—
 
-&emsp;&emsp;“(A) an individual would (but for the treatment referred to in subparagraph (B)) be deemed not tobe an employee of the taxpayer under subsection (a) for any prior period, and
+&emsp;&emsp;“(A) an individual would (but for the treatment referred to in subparagraph (B)) be deemed not to be an employee of the taxpayer under subsection (a) for any prior period, and
 
 &emsp;&emsp;“(B) such individual is treated by the taxpayer as an employee for employment tax purposes for any subsequent period,
 

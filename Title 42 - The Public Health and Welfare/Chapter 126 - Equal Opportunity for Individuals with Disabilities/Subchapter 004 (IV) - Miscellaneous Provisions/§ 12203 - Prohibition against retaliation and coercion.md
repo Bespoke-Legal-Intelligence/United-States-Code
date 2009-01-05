@@ -10,7 +10,11 @@ It shall be unlawful to coerce, intimidate, threaten, or interfere with any indi
 
 #### (c) Remedies and procedures
 
-The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III of this chapter, respectively.
+The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III, respectively.
 
 (Pub. L. 101–336, title V, §503, July 26, 1990, 104 Stat. 370.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 

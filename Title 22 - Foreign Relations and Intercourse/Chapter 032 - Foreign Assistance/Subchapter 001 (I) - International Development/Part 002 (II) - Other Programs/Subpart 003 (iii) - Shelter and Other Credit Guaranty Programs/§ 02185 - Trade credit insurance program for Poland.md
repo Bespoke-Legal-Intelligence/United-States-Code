@@ -30,7 +30,7 @@ The agreement referred to in subsection (c) of this section shall also provide f
 
 #### (2) Crediting of subsequent payments
 
-&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paid out for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
+&emsp;To the extent that any of the funds made available pursuant to paragraph (1) are paidout for a claim arising out of liabilities guaranteed under subsection (a) of this section, amounts received after the date of such payment, with respect to such claim, shall be credited to the reserve fund established pursuant to subsection (d) of this section, shall be merged with the funds in such reserve, and shall be available for the purpose of payments by the Administrator to the Bank for guarantees under subsection (a) of this section.
 
 #### (f) Appropriations action required
 
@@ -48,7 +48,7 @@ The Bank shall provide, without reimbursement, such administrative and technical
 
 #### (j) Fees and premiums
 
-The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and therisks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
+The Bank is authorized to charge fees and premiums, in connection with guarantees or insurance guaranteed by the administering agency under subsection (a) of this section, that are commensurate (in the judgment of the Bank) with the Bank's administrative costs and the risks covered by the agency's guarantees. Any amounts received by the Bank in excess of the estimated costs incurred by the Bank in administering such guarantees or insurance—
 
 &emsp;(1) shall be credited to the reserve fund established pursuant to subsection (d) of this section,
 

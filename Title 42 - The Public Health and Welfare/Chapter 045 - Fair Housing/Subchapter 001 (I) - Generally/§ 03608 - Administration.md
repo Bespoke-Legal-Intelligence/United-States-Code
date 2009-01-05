@@ -78,7 +78,7 @@ This Act, referred to in subsec. (a), means Pub. L. 90–284, Apr. 11, 1968, 82 
 
 The Civil Rights Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975,78 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -128,7 +128,7 @@ Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
 
 “(a)
 
-Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
+Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and providesthat the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
 “(b)
 
@@ -162,7 +162,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
-3–301. There is hereby established an advisory council entitled the “President's Fair Housing Council” (“Council”). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, theAttorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
+3–301. There is hereby established an advisory council entitled the “President's Fair Housing Council” (“Council”). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 3–302. The President's Fair Housing Council shall review the design and delivery of Federal programs and activities to ensure that they support a coordinated strategy to affirmatively further fair housing. The Council shall propose revisions to existing programs or activities, develop pilot programs and activities, and propose new programs and activities to achieve its goals.
 
@@ -218,7 +218,7 @@ Sec. 5. <i>Administrative Enforcement.</i>
 
 5–503. Findings of any violation under section 5–502 of this order shall be promptly reported by the head of each executive agency to the Secretary of Housing and Urban Development and the Attorney General. The Secretary of Housing and Urban Development shall forward this information to all other executive agencies.
 
-5–504. Any executive agency shall also consider invoking appropriate sanctions against any person or entity where any other executive department or agency has initiated action against that person or entity pursuantto section 5–502 of this order, where the Secretary of Housing and Urban Development has issued a charge against such person or entity that has not been resolved, or where the Attorney General has filed a civil action in Federal Court against such person or entity.
+5–504. Any executive agency shall also consider invoking appropriate sanctions against any person or entity where any other executive department or agency has initiated action against that person or entity pursuant to section 5–502 of this order, where the Secretary of Housing and Urban Development has issued a charge against such person or entity that has not been resolved, or where the Attorney General has filed a civil action in Federal Court against such person or entity.
 
 5–505. Each executive agency shall consult with the Secretary of Housing and Urban Development, and the Attorney General where a civil action in Federal Court has been filed, regarding agency actions to invoke sanctions under the Act. The Department of Housing and Urban Development, the Department of Justice, and Federal banking agencies shall develop and coordinate appropriate policies and procedures for taking action under their respective authorities. Each decision to invoke sanctions and the reasons therefor shall be documented and shall be provided to the Secretary of Housing and Urban Development and, where appropriate, to the Attorney General in a timely manner.
 
@@ -236,7 +236,7 @@ Sec. 6. <i>General Provisions.</i>
 
 (c) Section 102 of Executive Order No. 11063 is revised by deleting the term “Housing and Home Finance Agency” and inserting in lieu thereof the term “Department of Housing and Urban Development.”
 
-6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage Disclosure Act (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
+6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage DisclosureAct (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
 
 6–606. Nothing in this order shall limit the authority of the Federal banking agencies to carry out their responsibilities under current law or regulations.
 
@@ -270,7 +270,7 @@ By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I 
 
 Through this Order, I am first expanding Executive Order No. 11063 to provide protection against discrimination in programs of Federal insurance or guaranty to persons who are disabled and to families with children.
 
-Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directinghim to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
+Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directing him to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
 
 Third, I ask the heads of departments and agencies, including the Federal banking agencies, to cooperate with the Secretary of Housing and Urban Development in identifying ways to structure agency programs and activities to affirmatively further fair housing and to promptly negotiate memoranda of understanding with him to accomplish that goal.
 

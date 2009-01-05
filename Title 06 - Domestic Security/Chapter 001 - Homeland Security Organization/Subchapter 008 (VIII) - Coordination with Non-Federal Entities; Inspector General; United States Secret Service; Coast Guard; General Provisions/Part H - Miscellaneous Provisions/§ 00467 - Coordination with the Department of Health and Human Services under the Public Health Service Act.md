@@ -12,7 +12,7 @@ The annual Federal response plan developed by the Department shall be consistent
 
 #### (2) Public health emergency
 
-&emsp;During the period in which the Secretary of Health and Human Services has declared theexistence of a public health emergency under section 319(a) of the Public Health Service Act (42 U.S.C. 247d(a)), the Secretary of Health and Human Services shall keep relevant agencies, including the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation, fully and currently informed.
+&emsp;During the period in which the Secretary of Health and Human Services has declared the existence of a public health emergency under section 319(a) of the Public Health Service Act (42 U.S.C. 247d(a)), the Secretary of Health and Human Services shall keep relevant agencies, including the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation, fully and currently informed.
 
 #### (3) Potential public health emergency
 

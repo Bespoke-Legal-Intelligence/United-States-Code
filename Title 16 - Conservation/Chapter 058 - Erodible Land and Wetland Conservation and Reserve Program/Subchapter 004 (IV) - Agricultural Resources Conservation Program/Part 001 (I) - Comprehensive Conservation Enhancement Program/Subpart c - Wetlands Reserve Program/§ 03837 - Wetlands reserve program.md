@@ -1,26 +1,46 @@
 ### §3837. Wetlands reserve program
 
-#### (a) Establishment
+#### (a) Establishment and purposes
 
-The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.
+#### (1) Establishment
+
+&emsp;The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.
+
+#### (2) Purposes
+
+&emsp;The purposes of the wetlands reserve program are to restore, protect, or enhance wetlands on private or tribal lands that are eligible under subsections (c) and (d).
 
 #### (b) Enrollment conditions
 
 #### (1) Maximum enrollment
 
-&emsp;The total number of acres enrolled in the wetlands reserve program shall not exceed 2,275,000 acres, of which, to the maximum extent practicable, the Secretary shall enroll 250,000 acres in each calendar year.
+&emsp;The total number of acres enrolled in the wetlands reserve program shall not exceed 3,041,200 acres.
 
 #### (2) Methods of enrollment
 
-&emsp;The Secretary shall enroll acreage into the wetlands reserve program through the use of permanent easements, 30-year easements, restoration cost share agreements, or any combination of those options.
+&emsp;Subject to paragraph (3), the Secretary shall enroll acreage into the wetlands reserve program through the use of permanent easements, 30-year easements, restoration cost share agreements, or any combination of those options.
+
+#### (3) Acreage owned by Indian tribes
+
+&emsp;In the case of acreage owned by an Indian tribe, the Secretary shall enroll acreage into the wetlands reserve program through the use of—
+
+&emsp;&emsp;(A) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
+
+&emsp;&emsp;(B) restoration cost-share agreements; or
+
+&emsp;&emsp;(C) any combination of the options described in subparagraphs (A) and (B).
 
 #### (c) Eligibility
 
-For purposes of enrolling land in the wetland reserve established under this subpart during the 1991 through 2007 calendar years, land shall be eligible to be placed into such reserve if the Secretary, in consultation with the Secretary of the Interior at the local level, determines that—
+For purposes of enrolling land in the wetland reserve established under this subpart during the 1991 through 2012 fiscal years, private or tribal land shall be eligible to be placed into such reserve if the Secretary, in consultation with the Secretary of the Interior at the local level, determines that—
 
 &emsp;(1) such land maximizes wildlife benefits and wetland values and functions;
 
-&emsp;(2) such land is farmed wetland or converted wetland, together with adjacent lands that are functionally dependent on such wetlands, except that converted wetlands where the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; and
+&emsp;(2) such land is—
+
+&emsp;&emsp;(A) farmed wetland or converted wetland, together with the adjacent land that is functionally dependent on the wetlands, except that converted wetland with respect to which the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; or
+
+&emsp;&emsp;(B) cropland or grassland that was used for agricultural production prior to flooding from the natural overflow of a closed basin lake or pothole, as determined by the Secretary, together (where practicable) with the adjacent land that is functionally dependent on the cropland or grassland; and
 
 &emsp;(3) the likelihood of the successful restoration of such land and the resultant wetland values merit inclusion of such land in the program taking into consideration the cost of such restoration.
 
@@ -46,9 +66,25 @@ The Secretary may not acquire easements on—
 
 The Secretary may terminate or modify an existing contract entered into under section 3831(a) of this title if eligible land that is subject to such contract is transferred into the program established by this subpart.
 
-(Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, §101(a) \[title VII, §752\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§2201, 2202, May 13, 2002, 116 Stat. 252.)
+(Pub. L. 99–198, title XII, §1237, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3584; amended Pub. L. 102–237, title II, §204(6), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 103–66, title I, §1402(c), Aug. 10, 1993, 107 Stat. 333; Pub. L. 104–127, title III, §333(a)–(c), Apr. 4, 1996, 110 Stat. 995; Pub. L. 105–277, div. A, §101(a) \[title VII, §752\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 107–171, title II, §§2201, 2202, May 13, 2002, 116 Stat. 252; Pub. L. 110–234, title II, §§2201–2203(a), May 22, 2008, 122 Stat. 1036, 1037; Pub. L. 110–246, §4(a), title II, §§2201–2203(a), June 18, 2008, 122 Stat. 1664, 1764, 1765.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §2201, amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish a wetlands reserve program to assist owners of eligible lands in restoring and protecting wetlands.”
+
+Subsec. (b)(1). Pub. L. 110–246, §2202(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The total number of acres enrolled in the wetlands reserve program shall not exceed 2,275,000 acres, of which, to the maximum extent practicable, the Secretary shall enroll 250,000 acres in each calendar year.”
+
+Subsec. (b)(2). Pub. L. 110–246, §2202(2), substituted “Subject to paragraph (3), the Secretary” for “The Secretary”.
+
+Subsec. (b)(3). Pub. L. 110–246, §2202(3), added par. (3).
+
+Subsec. (c). Pub. L. 110–246, §2203(a)(1), in introductory provisions, substituted “1991 through 2012 fiscal years” for “1991 through 2007 calendar years” and “private or tribal land shall be eligible” for “land shall be eligible”.
+
+Subsec. (c)(2). Pub. L. 110–246, §2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “such land is farmed wetland or converted wetland, together with adjacent lands that are functionally dependent on such wetlands, except that converted wetlands where the conversion was not commenced prior to December 23, 1985, shall not be eligible to be enrolled in the program under this section; and”.
 
 2002—Subsec. (b). Pub. L. 107–171, §2202(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
@@ -99,6 +135,10 @@ Number of Acres” which read as follows: “To the extent practicable, the Secr
 Subsec. (c). Pub. L. 103–66, §1402(c)(2), substituted “2000” for “1995”.
 
 1991—Subsec. (d). Pub. L. 102–237 substituted “subsection (c)” for “subsection (d)” in introductory provisions.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effect of 1996 Amendments on Existing Agreements
 

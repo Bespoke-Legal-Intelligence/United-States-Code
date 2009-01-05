@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of thedepartment in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -30,7 +30,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 #### (c) Issuance of citations
 
-If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordancewith regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (d) Jurisdiction of courts
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcementproceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds toassist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 #### Amendments
 

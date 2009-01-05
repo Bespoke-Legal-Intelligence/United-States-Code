@@ -4,17 +4,17 @@
 
 #### (1) In general
 
-&emsp;Not later than August 1 before the beginning of each of the 2002 through 2007 crop years, the Secretary shall estimate—
+&emsp;Not later than August 1 before the beginning of each of the 2008 through 2012 crop years for sugarcane and sugar beets, the Secretary shall estimate—
 
-&emsp;&emsp;(A) the quantity of sugar that will be consumed in the United States during the crop year;
+&emsp;&emsp;(A) the quantity of sugar that will be subject to human consumption in the United States during the crop year;
 
 &emsp;&emsp;(B) the quantity of sugar that would provide for reasonable carryover stocks;
 
-&emsp;&emsp;(C) the quantity of sugar that will be available from carry-in stocks for consumption in the United States during the crop year;
+&emsp;&emsp;(C) the quantity of sugar that will be available from carry-in stocks for human consumption in the United States during the crop year;
 
-&emsp;&emsp;(D) the quantity of sugar that will be available from the domestic processing of sugarcane and sugar beets; and
+&emsp;&emsp;(D) the quantity of sugar that will be available from the domestic processing of sugarcane, sugar beets, and in-process beet sugar; and
 
-&emsp;&emsp;(E) the quantity of sugars, syrups, and molasses that will be imported for human consumption or to be used for the extraction of sugar for human consumption in the United States during the crop year, whether such articles are under a tariff-rate quota or are in excess or outside of a tariff-rate quota.
+&emsp;&emsp;(E) the quantity of sugars, syrups, and molasses that will be imported for human consumption or to be used for the extraction of sugar for human consumption in the United States during the crop year, whether the articles are under a tariff-rate quota or are in excess or outside of a tariff-rate quota.
 
 #### (2) Exclusion
 
@@ -22,35 +22,75 @@
 
 #### (3) Reestimates
 
-&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, and imports for a crop year as necessary, but no later than the beginning of each of the second through fourth quarters of the crop year.
+&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, and imports for a crop year as necessary, but not later than the beginning of each of the second through fourth quarters of the crop year.
 
 #### (b) Sugar allotments
 
-#### (1) In general
+#### (1) Establishment
 
-&emsp;By the beginning of each crop year, the Secretary shall establish for that crop year appropriate allotments under section 1359cc of this title for the marketing by processors of sugar processed from sugar beets and from domestically produced sugarcane at a level that the Secretary estimates will result in no forfeitures of sugar to the Commodity Credit Corporation under the loan program for sugar established under section 7272 of this title.
+&emsp;By the beginning of each crop year, the Secretary shall establish for that crop year appropriate allotments under section 1359cc of this title for the marketing by processors of sugar processed from sugar cane or sugar beets or in-process beet sugar (whether the sugar beets or in-process beet sugar was produced domestically or imported) at a level that is—
+
+&emsp;&emsp;(A) sufficient to maintain raw and refined sugar prices above forfeiture levels so that there will be no forfeitures of sugar to the Commodity Credit Corporation under the loan program for sugar established under section 7272 of this title; but
+
+&emsp;&emsp;(B) not less than 85 percent of the estimated quantity of sugar for domestic human consumption for the crop year.
 
 #### (2) Products
 
-&emsp;The Secretary may include sugar products, whose majority content is sucrose for human consumption, derived from sugarcane, sugar beets, molasses, or sugar in the allotments under paragraph (1) if the Secretary determines it to be appropriate for purposes of this subpart.
+&emsp;The Secretary may include sugar products, the majority content of which is sucrose for human consumption, derived from sugar cane, sugar beets, molasses, or sugar in the allotments established under paragraph (1) if the Secretary determines it to be appropriate for purposes of this subpart.
 
-#### (c) Prohibitions
+#### (c) Coverage of allotments
 
 #### (1) In general
 
-&emsp;During any crop year or portion thereof for which marketing allotments have been established, no processor of sugar beets or sugarcane shall market a quantity of sugar in excess of the allocation established for such processor, except to enable another processor to fulfill an allocation established for such other processor or to facilitate the exportation of such sugar.
+&emsp;The marketing allotments under this subpart shall apply to the marketing by processors of sugar intended for domestic human consumption that has been processed from sugar cane, sugar beets, or in-process beet sugar, whether such sugar beets or in-process beet sugar was produced domestically or imported.
+
+#### (2) Exceptions
+
+&emsp;Consistent with the administration of marketing allotments for each of the 2002 through2007 crop years, the marketing allotments shall not apply to sugar sold—
+
+&emsp;&emsp;(A) to facilitate the exportation of the sugar to a foreign country, except that the exports of sugar shall not be eligible to receive credits under reexport programs for refined sugar or sugar containing products administered by the Secretary;
+
+&emsp;&emsp;(B) to enable another processor to fulfill an allocation established for that processor; or
+
+&emsp;&emsp;(C) for uses other than domestic human consumption, except for the sale of sugar for the production of ethanol or other bioenergy if the disposition of the sugar is administered by the Secretary under section 8110 of this title.
+
+#### (3) Requirement
+
+&emsp;The sale of sugar described in paragraph (2)(B) shall be—
+
+&emsp;&emsp;(A) made prior to May 1; and
+
+&emsp;&emsp;(B) reported to the Secretary.
+
+#### (d) Prohibitions
+
+#### (1) In general
+
+&emsp;During all or part of any crop year for which marketing allotments have been established, no processor of sugar beets or sugarcane shall market for domestic human consumption a quantity of sugar in excess of the allocation established for the processor, except—
+
+&emsp;&emsp;(A) to enable another processor to fulfill an allocation established for that other processor; or
+
+&emsp;&emsp;(B) to facilitate the exportation of the sugar.
 
 #### (2) Civil penalty
 
 &emsp;Any processor who knowingly violates paragraph (1) shall be liable to the Commodity Credit Corporation for a civil penalty in an amount equal to 3 times the United States market value, at the time of the commission of the violation, of that quantity of sugar involved in the violation.
 
-#### (3) Definition of market
+(Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, §1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, §4(a), title I, §1403(b), June 18, 2008, 122 Stat. 1664, 1710.)
 
-&emsp;For purposes of this subpart, the term “market” shall mean to sell or otherwise dispose of in commerce in the United States (including the forfeiture of sugar under the loan program for sugar under section 7272 of this title and, with respect to any integrated processor and refiner, the movement of raw cane sugar into the refining process).
+#### Codification
 
-(Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 188.)
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3480; amended Pub. L. 102–237, title I, §111(d), Dec. 13, 1991, 105 Stat. 1831; Pub. L. 103–66, title I, §1107(b), Aug. 10, 1993, 107 Stat. 324, related to marketing allotments for sugar and crystalline fructose, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -16,7 +16,7 @@ The Task Force shall—
 
 &emsp;(2) actively promote the programs and services of the Small Business Administration that serve small manufacturers; and
 
-&emsp;(3) identify and study the unique conditions facing small manufacturers and develop and propose policy initiatives to support and assist small manufacturers.
+&emsp;(3) identify and study the unique conditions facing small manufacturers and develop andpropose policy initiatives to support and assist small manufacturers.
 
 #### (d) Meetings
 

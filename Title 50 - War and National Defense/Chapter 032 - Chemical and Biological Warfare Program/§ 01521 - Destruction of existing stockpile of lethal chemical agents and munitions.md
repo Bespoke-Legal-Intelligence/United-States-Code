@@ -38,13 +38,17 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (C) In this paragraph, the term “tribal organization” has the meaning given that term in section 450b(<i>l</i>) of title 25.
 
-(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to thepublic health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
+(5)(A) In coordination with the Secretary of the Army and in accordance with agreements between the Secretary of the Army and the Administrator of the Federal Emergency Management Agency, the Administrator shall carry out a program to provide assistance to State and local governments in developing capabilities to respond to emergencies involving risks to the public health or safety within their jurisdictions that are identified by the Secretary as being risks resulting from—
 
 &emsp;(i) the storage of lethal chemical agents and munitions referred to in subsection (a) of this section at military installations in the continental United States; or
 
 &emsp;(ii) the destruction of such agents and munitions at facilities referred to in paragraph (1)(B).
 
-(B) No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.
+(B) Assistance may be provided under this paragraph for capabilities to respond to emergencies involving an installation or facility as described in subparagraph (A) until the earlier of the following:
+
+&emsp;(i) The date of the completion of all grants and cooperative agreements with respect to the installation or facility for purposes of this paragraph between the Federal Emergency Management Agency and the State and local governments concerned.
+
+&emsp;(ii) The date that is 180 days after the date of the completion of the destruction of lethal chemical agents and munitions at the installation or facility.
 
 (C) Not later than December 15 of each year, the Administrator shall transmit a report to Congress on the activities carried out under this paragraph during the fiscal year preceding the fiscal year in which the report is submitted.
 
@@ -70,11 +74,9 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 (3) The Secretary shall designate a general officer or civilian equivalent as the director of the management organization established under paragraph (1). Such officer shall have—
 
-&emsp;(A) experience in the acquisition, storage, and destruction of chemical agents and munitions;
+&emsp;(A) experience in the acquisition, storage, and destruction of chemical agents and munitions; and
 
-&emsp;(B) training in chemical warfare defense operations; and
-
-&emsp;(C) outstanding qualifications regarding safety in handling chemical agents and munitions.
+&emsp;(B) outstanding qualifications regarding safety in handling chemical agents and munitions.
 
 #### (f) Identification of funds
 
@@ -152,7 +154,7 @@ For purposes of this section:
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284.)
 
 #### Codification
 
@@ -162,15 +164,19 @@ Section was enacted as part of the Department of Defense Authorization Act, 1986
 
 #### Amendments
 
-2006—Subsec. (c)(4). Pub. L. 109–163 designated first two sentences as subpar. (A) and inserted “and to tribal organizations” after “to State and local governments” and “and tribal organizations” after “assist those governments”, designated third and fourth sentences as subpar. (B) and inserted “, and with tribal organizations,” after “with State and local governments”, and added subpar. (C). See Codification note above.
+<b>2008</b>—Subsec. (c)(5)(B). Pub. L. 110–181, §924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No assistance may be provided under this paragraph after the completion of the destruction of the United States’ stockpile of lethal chemical agents and munitions.”
 
-2004—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment, text required the Secretary of Defense to develop and submit to Congress by Mar. 15, 1986, a comprehensive plan to carry out this section.
+Subsec. (e)(3). Pub. L. 110–181, §923, inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “training in chemical warfare defense operations; and”.
 
-2001—Subsec. (g)(2)(C)(vii). Pub. L. 107–107 substituted “(c)(4)” for “(c)(3)”.
+<b>2006</b>—Subsec. (c)(4). Pub. L. 109–163 designated first two sentences as subpar. (A) and inserted “and to tribal organizations” after “to State and local governments” and “and tribal organizations” after “assist those governments”, designated third and fourth sentences as subpar. (B) and inserted “, and with tribal organizations,” after “with State and local governments”, and added subpar. (C). See Codification note above.
 
-1999—Subsec. (b)(4). Pub. L. 106–65, §1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 amended heading and text of subsec. (d) generally. Prior to amendment, text required the Secretary of Defense to develop and submit to Congress by Mar. 15, 1986, a comprehensive plan to carry out this section.
 
-Subsec. (c)(2). Pub. L. 106–65, §141(b)(1)(A), added par. (2) and struck out former par. (2) which read as follows:“Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilities shall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
+<b>2001</b>—Subsec. (g)(2)(C)(vii). Pub. L. 107–107 substituted “(c)(4)” for “(c)(3)”.
+
+<b>1999</b>—Subsec. (b)(4). Pub. L. 106–65, §1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+Subsec. (c)(2). Pub. L. 106–65, §141(b)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Facilities constructed to carry out this section may not be used for any purpose other than the destruction of lethal chemical weapons and munitions, and when no longer needed to carry out this section, such facilitiesshall be cleaned, dismantled, and disposed of in accordance with applicable laws and regulations.”
 
 Subsec. (c)(3) to (5). Pub. L. 106–65, §141(b)(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -180,7 +186,7 @@ Subsec. (g)(2)(B). Pub. L. 106–65, §141(b)(3), substituted “(c)(4)” for �
 
 Subsec. (k)(2). Pub. L. 106–65, §1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-1998—Subsec. (c)(4). Pub. L. 105–261, §141(a), added par. (4).
+<b>1998</b>—Subsec. (c)(4). Pub. L. 105–261, §141(a), added par. (4).
 
 Subsec. (f). Pub. L. 105–261, §141(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -190,9 +196,9 @@ Subsec. (g)(2)(B)(vii). Pub. L. 105–261, §141(c)(1), added cl. (vii).
 
 Subsec. (g)(2)(C), (D). Pub. L. 105–261, §141(c)(2), redesignated subpars. (B) and (C) as (C) and (D), respectively.
 
-1997—Subsec. (g)(3), (4). Pub. L. 105–85 struck out “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).” at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.”
+<b>1997</b>—Subsec. (g)(3), (4). Pub. L. 105–85 struck out “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).” at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.”
 
-1996—Subsec. (b)(4). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (e)(3). Pub. L. 104–106, §153(c), inserted “or civilian equivalent” after “general officer” in introductory provisions.
 
@@ -222,11 +228,11 @@ Pub. L. 104–106, §153(b)(3), redesignated par. (3) as (4).
 
 Subsec. (k)(2). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1994—Subsec. (f). Pub. L. 103–337 inserted “, including funds for military construction projects necessary to carry out this section,” after “carrying out this section” and struck out at end “Funds for military construction projects necessary to carry out this section may be set out in the annual military construction budget separately from other funds for such project.”
+<b>1994</b>—Subsec. (f). Pub. L. 103–337 inserted “, including funds for military construction projects necessary to carry out this section,” after “carrying out this section” and struck out at end “Funds for military construction projects necessary to carry out this section may be set out in the annual military construction budget separately from other funds for such project.”
 
-1993—Subsec. (c)(3). Pub. L. 103–160 substituted “processing, approving, and overseeing” for “processing and approving”.
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–160 substituted “processing, approving, and overseeing” for “processing and approving”.
 
-1992—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before “Notwithstanding” and struck out par. (2) which read as follows: “Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before “Notwithstanding” and struck out par. (2) which read as follows: “Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces.”
 
 Subsec. (b)(5). Pub. L. 102–484, §171, substituted “December 31, 2004” for “July 31, 1999”.
 
@@ -242,11 +248,11 @@ Subsec. (g)(2). Pub. L. 102–484, §179(3)(B), (C), redesignated par. (3) as (2
 
 Subsec. (g)(3), (4). Pub. L. 102–484, §179(3)(D), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-1991—Subsec. (b)(5). Pub. L. 102–190, §151(a), substituted “July 31, 1999” for “April 30, 1997”.
+<b>1991</b>—Subsec. (b)(5). Pub. L. 102–190, §151(a), substituted “July 31, 1999” for “April 30, 1997”.
 
 Subsec. (c)(3). Pub. L. 102–190, §151(b), inserted at end “Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.”
 
-1990—Subsec. (a)(1). Pub. L. 101–510, §171(b), substituted “November 8, 1985” for “the date of the enactment of this Act”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §171(b), substituted “November 8, 1985” for “the date of the enactment of this Act”.
 
 Subsec. (c)(3). Pub. L. 101–510, §172, added par. (3).
 
@@ -254,17 +260,17 @@ Subsec. (g)(3)(C). Pub. L. 101–510, §171(a), added subpar. (C).
 
 Subsec. (h)(1). Pub. L. 101–510, §171(b), substituted “November 8, 1985” for “the date of the enactment of this Act”.
 
-1988—Subsec. (b)(1), (3)(A). Pub. L. 100–456, §118(a)(1), substituted “the stockpile elimination deadline” for “September 30, 1994”.
+<b>1988</b>—Subsec. (b)(1), (3)(A). Pub. L. 100–456, §118(a)(1), substituted “the stockpile elimination deadline” for “September 30, 1994”.
 
 Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted “not later than the earlier of (A) 30 days after the date on which the decision to defer is made, or (B) 30 days before the stockpile elimination deadline” for “within 30 days after the date on which the determination to defer is made or by August 31, 1994, whichever is earlier”.
 
 Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
-Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read asfollows: “The provisions of this section shall take effect on October 1, 1985.”
+Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for “Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(5) and (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+“Administrator of the Federal Emergency Management Agency” and “Administrator” substituted for“Director of the Federal Emergency Management Agency” and “Director”, respectively, in subsecs. (c)(5) and (f)(2) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2006 Amendment
 
@@ -279,6 +285,66 @@ Pub. L. 109–163, div. A, title IX, §921(b), Jan. 6, 2006, 119 Stat. 3410, pro
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile
+
+Pub. L. 110–181, div. A, title IX, §922, Jan. 28, 2008, 122 Stat. 282, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, done at Paris on January 13, 1993 (commonly referred to as the ‘Chemical Weapons Convention’), requires that destruction of the entire United States chemical weapons stockpile be completed by not later than April 29, 2007.
+
+&emsp;“(2) In 2006, under the terms of the Chemical Weapons Convention, the United States requested and received a one-time, 5-year extension of its chemical weapons destruction deadline to April 29, 2012.
+
+&emsp;“(3) On April 10, 2006, the Secretary of Defense notified Congress that the United States would not meet even the extended deadline under the Chemical Weapons Convention for destruction of the United States chemical weapons stockpile, but would ‘continue working diligently to minimize the time to complete destruction without sacrificing safety and security’ and would also ‘continue requesting resources needed to complete destruction as close to April 2012 as practicable’.
+
+&emsp;“(4) The United States chemical demilitarization program has met its one percent, 20 percent, and extended 45 percent destruction deadlines under the Chemical Weapons Convention.
+
+&emsp;“(5) Destroying the remaining stockpile of United States chemical weapons is imperative for public safety and homeland security, and doing so by April 2012, in accordance with the current destruction deadline provided under the Chemical Weapons Convention, is required by United States law.
+
+&emsp;“(6) The elimination of chemical weapons anywhere they exist in the world, and the prevention of their proliferation, is of utmost importance to the national security of the United States.
+
+&emsp;“(7) Section 921(b)(3) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2359) contained a sense of Congress urging the Secretary of Defense to ensure the elimination of the United States chemical weapons stockpile in the shortest time possible, consistent with the requirement to protect public health, safety, and the environment.
+
+&emsp;“(8) Section 921(b)(4) of that Act contained a sense of Congress urging the Secretary of Defense to propose a credible treatment and disposal process with the support of affected communities. In this regard, any such process should provide for sufficient communication and consultation between representatives of the Department of Defense and representatives of affected States and communities.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the United States is, and must remain, committed to making every effort to safely dispose of its entire chemical weapons stockpile by April 2012, the current destruction deadline provided under the Chemical Weapons Convention, or as soon thereafter as possible, and must carry out all of its other obligations under the Convention; and
+
+&emsp;“(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budget of the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law.
+
+“(c)
+
+Reports Required.—
+
+&emsp;“(1)
+
+In general.—Not later than March 15, 2008, and every 180 days thereafter until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+
+&emsp;“(2)
+
+Elements.—Each report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) The anticipated schedule at the time of such report for the completion of destruction of chemical agents, munitions, and materiel at each chemical weapons demilitarization facility in the United States.
+
+&emsp;&emsp;“(B) A description of the options and alternatives for accelerating the completion of chemical weapons destruction at each such facility, particularly in time to meet the destruction deadline of April 29, 2012, currently provided by the Chemical Weapons Convention, and by December 31, 2017.
+
+&emsp;&emsp;“(C) A description of the funding required to achieve each of the options for destruction described under subparagraph (B), and a detailed life-cycle cost estimate for each of the affected facilities included in each such funding profile.
+
+&emsp;&emsp;“(D) A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current destruction deadline under the Chemical Weapons Convention of April 29, 2012, or as soon thereafter as possible.
+
+&emsp;“(3)
+
+Members and committees of congress.—The members and committees of Congress referred to in this paragraph are—
+
+&emsp;&emsp;“(A) the majority leader of the Senate, the minority leader of the Senate, and the Committees on Armed Services and Appropriations of the Senate; and
+
+&emsp;&emsp;“(B) the Speaker of the House of Representatives, the majority leader of the House of Representatives, the minority leader of the House of Representatives, and the Committees on Armed Services and Appropriations of the House of Representatives.”
 
 #### Deadline for Destruction of Stockpile of Lethal Chemical Agents and Munitions
 
@@ -508,7 +574,7 @@ In General.—The Secretary of Defense shall proceed with the program for destru
 
 “(b)
 
-Initiation of Demilitarization Operations.—The Secretary of Defense may not initiate destructionof the chemical munitions stockpile stored at a site until the following support measures are in place:
+Initiation of Demilitarization Operations.—The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
 
 &emsp;“(1) Support measures that are required by Department of Defense and Army chemical surety and security program regulations.
 
@@ -524,7 +590,7 @@ Assessment of Alternatives.—(1) The Secretary of Defense shall conduct an asse
 
 “(3) Based on the results of the assessment, the Secretary shall develop appropriate recommendations for revision of the chemical demilitarization program.
 
-“(4) Not later than March 1, 1996, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] an interim report assessing the current status of the chemical stockpile demilitarization program, including the results of the Army's analysis of the physical and chemical integrity of the stockpile and implications for the chemical demilitarization program, and providing recommendations for revisions to that program that have been included in the budget request of the Department of Defense for fiscal year 1997. The Secretary shall submit to the congressional defense committees with the submission of the budget request of the Department of Defense for fiscal year 1998 a final report on the assessment conducted in accordance with paragraph (1) and recommendations for revision to the program, including an assessment of alternative demilitarization technologies and processes to the baseline incineration process and potential reconfiguration of the stockpile that should be incorporated in the program.
+“(4) Not later than March 1, 1996, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and House of Representatives\] an interim report assessing the current status of the chemical stockpile demilitarization program, including the results of the Army's analysis of the physical and chemical integrity of the stockpile and implications for the chemical demilitarization program, and providing recommendations for revisions to that program thathave been included in the budget request of the Department of Defense for fiscal year 1997. The Secretary shall submit to the congressional defense committees with the submission of the budget request of the Department of Defense for fiscal year 1998 a final report on the assessment conducted in accordance with paragraph (1) and recommendations for revision to the program, including an assessment of alternative demilitarization technologies and processes to the baseline incineration process and potential reconfiguration of the stockpile that should be incorporated in the program.
 
 “(d)
 
@@ -560,7 +626,7 @@ Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.�
 
 #### Chemical Demilitarization Citizens Advisory Commissions
 
-Section 172 of Pub. L. 102–484, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Pub. L. 102–484, div. A, title I, §172, Oct. 23, 1992, 106 Stat. 2341, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 110–181, div. A, title IX, §921, Jan. 28, 2008, 122 Stat. 282; Pub. L. 110–417, \[div. A\], title IX, §921, Oct. 14, 2008, 122 Stat. 4573, provided that:
 
 “(a)
 
@@ -570,7 +636,7 @@ Establishment.—(1) The Secretary of the Army shall establish a citizens’ com
 
 “(b)
 
-Functions.—The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Research, Development and Acquisition) to meet with each commission under this section to receive citizen and State concerns regarding the ongoing program of the Army for the disposal of the lethal chemical agents and munitions in the stockpile referred to in section 1412(a)(1) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(a)(1)) at each of the sites with respect to which a commission is established pursuant to subsection (a).
+Functions.—The Secretary of the Army shall provide for a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) to meet with each commission under this section to receive citizen and State concerns regarding the ongoing program of the Army for the disposal of the lethal chemical agents and munitions in the stockpile referred to in section 1412(a)(1) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(a)(1)) at each of the sites with respect to which a commission is established pursuant to subsection (a).
 
 “(c)
 
@@ -592,15 +658,25 @@ Chairman.—The members of each commission shall designate the chairman of the c
 
 “(f)
 
-Meetings.—Each commission shall meet with a representative from the Office of the Assistant Secretary of the Army (Research, Development and Acquisition) upon joint agreement between the chairman of the commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
+Colorado and Kentucky Chemical Demilitarization Citizens’ Advisory Commissions.—(1) Notwithstanding subsections (b), (g), and (h), and consistent with section 142 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] (50 U.S.C. 1521 note) and section 8122 of the Department of Defense Appropriations Act, 2003 (Public Law 107–248; 116 Stat. 1566; 50 U.S.C. 1521 note), the Secretary of the Army shall transfer responsibilities for the Chemical Demilitarization Citizens’ Advisory Commissions in Colorado and Kentucky to the Program Manager for Assembled Chemical Weapons Alternatives.
+
+“(2) In carrying out the responsibilities transferred under paragraph (1), the Program Manager for Assembled Chemical Weapons Alternatives shall take appropriate actions to ensure that each Commission referred to in paragraph (1) retains the capacity to receive citizen and State concerns regarding the ongoing chemical demilitarization program in the State concerned.
+
+“(3) A representative of the Office of the Assistant to the Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall meet with each Commission referred to in paragraph (1) not less often than twice a year.
+
+“(4) Funds appropriated for the Assembled Chemical Weapons Alternatives Program shall be available for travel and associated travel costs for Commissioners on the Commissions referred to in paragraph (1) when such travel is conducted at the invitation of the Special Assistant for Chemical and Biological Defense and Chemical Demilitarization Programs of the Department of Defense.
 
 “(g)
 
-Pay and Expenses.—Members of each commission shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for Citizens’ Advisory Commissioners, when such travel is conducted at the invitation of the Assistant Secretary of the Army (Research, Development, and Acquisition).
+Meetings.—Each commission shall meet with a representative from the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology) upon joint agreement between the chairman of the commission and that representative. The two parties shall meet not less often than twice a year and may meet more often at their discretion.
 
 “(h)
 
-Termination of Commissions.—Each commission shall be terminated after the stockpile located in that commission's State has been destroyed.”
+Pay and Expenses.—Members of each commission shall receive no pay for their involvement in the activities of their commissions. Funds appropriated for the Chemical Stockpile Demilitarization Program may be used for travel and associated travel costs for Citizens’ Advisory Commissioners, when such travel is conducted at the invitation of the Assistant Secretary of the Army (Acquisition, Logistics, and Technology).
+
+“(h) \[(i)\]
+
+Termination of Commissions.—Each commission shall be terminated after the closure activities required pursuant to regulations promulgated by the Administrator of the Environmental Protection Agency pursuant to the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) have been completed for the chemical agent destruction facility in the commission's State, or upon the request of the Governor of the commission's State, whichever occurs first.”
 
 #### Alternative Disposal Process for Low-Volume Sites; Revised Disposal Concept Plan
 
@@ -648,7 +724,7 @@ Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress t
 
 #### “Low-Volume Site” Defined
 
-Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
+Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
 
 #### Revision of Chemical Demilitarization Program
 

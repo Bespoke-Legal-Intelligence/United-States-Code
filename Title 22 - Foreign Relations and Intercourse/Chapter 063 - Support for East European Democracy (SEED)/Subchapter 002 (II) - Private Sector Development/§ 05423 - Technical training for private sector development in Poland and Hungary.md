@@ -30,13 +30,21 @@ For purposes of implementing this section, there are authorized to be appropriat
 
 #### (e) Limitation with respect to Farmer-to-Farmer Program
 
-Any activities carried out pursuant to this chapter through the Farmer-to-Farmer Program under section 1736(a)(1) and (2) of title 7 shall be funded with funds authorized to be appropriated by this chapter and local currencies made available under section 5425 of this title, and shall not be funded with funds made available pursuant to section 1107 of the Food Security Act of 1985 (7 U.S.C. 1736 note) or a similar, subsequent provision of law.
+Any activities carried out pursuant to this chapter through the Farmer-to-Farmer Programunder section 1736(a)(1) and (2) of title 7 shall be funded with funds authorized to be appropriated by this chapter and local currencies made available under section 5425 of this title, and shall not be funded with funds made available pursuant to section 1107 of the Food Security Act of 1985 (7 U.S.C. 1736 note) or a similar, subsequent provision of law.
 
-(Pub. L. 101–179, title II, §203, Nov. 28, 1989, 103 Stat. 1309.)
+(Pub. L. 101–179, title II, §203, Nov. 28, 1989, 103 Stat. 1309; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 1107 of the Food Security Act of 1985, referred to in subsec. (e), is section 1107 of Pub. L. 99–198, which is set out as a note under section 1736 of Title 7, Agriculture.
+
+#### Amendments
+
+2008—Subsecs. (b)(2), (e). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1736(a)(1) and (2) of title 7.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

@@ -14,7 +14,7 @@ Reconstruction Finance Corporation was abolished and remaining functions transfe
 
 #### Eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1957, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### ABOLITION OF THE RECONSTRUCTION FINANCE CORPORATION
 
@@ -62,7 +62,7 @@ Each transferee may from time to time make such provisions as he shall deem appr
 
 #### Sec. 7. Effective Date
 
-The provisions of this reorganization plan shall take effect at the time determined under the provisions ofsection 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
+The provisions of this reorganization plan shall take effect at the time determined under the provisions of section 6(a) of the Reorganization Act of 1949, as amended \[see 5 U.S.C. 906(a)\] or at the close of June 30, 1957, whichever is later.
 
 #### Schedule A
 
@@ -107,7 +107,7 @@ Congress, in enacting the amendments to sections 603(a) and 604(f) of this title
 
 #### Continuation of Pending Proceedings
 
-Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: “No suit, action, or other proceeding lawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced.”
+Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: “No suit, action, or other proceedinglawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced.”
 
 #### Extension or Renewal of Loans
 

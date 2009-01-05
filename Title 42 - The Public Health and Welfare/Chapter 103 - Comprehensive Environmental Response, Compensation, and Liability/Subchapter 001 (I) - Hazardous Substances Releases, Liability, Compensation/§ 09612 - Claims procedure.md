@@ -24,7 +24,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (5) Finality and appeal
 
-&emsp;All administrative decisions hereunder shall be final, and any party to the proceeding mayappeal a decision within 30 days of notification of the award or decision. Any such appeal shall be made to the Federal district court for the district where the release or threat of release took place. In any such appeal, the decision shall be considered binding and conclusive, and shall not be overturned except for arbitrary or capricious abuse of discretion.
+&emsp;All administrative decisions hereunder shall be final, and any party to the proceeding may appeal a decision within 30 days of notification of the award or decision. Any such appeal shall be made to the Federal district court for the district where the release or threat of release took place. In any such appeal, the decision shall be considered binding and conclusive, and shall not be overturned except for arbitrary or capricious abuse of discretion.
 
 #### (6) Payment
 
@@ -36,7 +36,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 (2) Any person, including the Fund, who pays compensation pursuant to this chapter to any claimant for damages or costs resulting from a release of a hazardous substance shall be subrogated to all rights, claims, and causes of action for such damages and costs of removal that the claimant has under this chapter or any other law.
 
-(3) Upon request of the President, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this subchapter, and, without regard to any limitation of liability, all interest, administrative and adjudicative costs, and attorney's fees incurred by the Fund by reason of the claim. Such an action may be commenced against any owner, operator, or guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the damages or costs for which compensation was paid.
+(3) Upon request of the President, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this subchapter, and, without regard to any limitation of liability, all interest, administrative and adjudicative costs, and attorney's fees incurred by the Fund by reason of the claim. Such an action may be commenced against any owner, operator, or guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for thedamages or costs for which compensation was paid.
 
 #### (d) Statute of limitations
 
@@ -80,7 +80,7 @@ Pub. L. 99–499, §109(a)(3), substituted “in accordance with the applicable 
 
 Subsec. (b)(2) to (6). Pub. L. 99–499, §112(b), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to the settlement and arbitration of claims against liable persons and against the Fund.
 
-Subsec. (d). Pub. L. 99–499, §112(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: <i>Provided,</i><i>however</i>, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
+Subsec. (d). Pub. L. 99–499, §112(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No claim may be presented, nor may an action be commenced for damages under this subchapter, unless that claim is presented or action commenced within three years from the date of the discovery of the loss or December 11, 1980, whichever is later: <i>Provided, however</i>, That the time limitations contained herein shall not begin to run against a minor until he reaches eighteen years of age or a legal representative is duly appointed for him, nor against an incompetent person until his incompetency ends or a legal representative is duly appointed for him.”
 
 Subsec. (f). Pub. L. 99–499, §112(d), added subsec. (f).
 

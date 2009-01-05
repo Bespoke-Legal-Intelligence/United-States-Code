@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The Secretary shall promulgate regulations applicable to contracts described in subsection (c) to minimize the excessive use by contractorsof subcontractors or tiers of subcontractors to perform the principal work of the contract.
+The Secretary shall promulgate regulations applicable to contracts described in subsection (c) to minimize the excessive use by contractors of subcontractors or tiers of subcontractors to perform the principal work of the contract.
 
 #### (b) Specific requirement
 

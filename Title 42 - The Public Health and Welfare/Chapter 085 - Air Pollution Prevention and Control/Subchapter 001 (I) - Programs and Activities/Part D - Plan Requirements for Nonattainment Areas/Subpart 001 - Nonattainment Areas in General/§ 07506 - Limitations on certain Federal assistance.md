@@ -18,7 +18,7 @@
 
 > The determination of conformity shall be based on the most recent estimates of emissions, and such estimates shall be determined from the most recent population, employment, travel and congestion estimates as determined by the metropolitan planning organization or other agency authorized to make such estimates.
 
-(2) Any transportation plan or program developed pursuant to title 23 or chapter 53 of title 49 shall implement the transportation provisions of any applicable implementation plan approved under this chapter applicable to all or part ofthe area covered by such transportation plan or program. No Federal agency may approve, accept or fund any transportation plan, program or project unless such plan, program or project has been found to conform to any applicable implementation plan in effect under this chapter. In particular—
+(2) Any transportation plan or program developed pursuant to title 23 or chapter 53 of title 49 shall implement the transportation provisions of any applicable implementation plan approved under this chapter applicable to all or part of the area covered by such transportation plan or program. No Federal agency may approve, accept or fund any transportation plan, program or project unless such plan, program or project has been found to conform to any applicable implementation plan in effect under this chapter. In particular—
 
 &emsp;(A) no transportation plan or transportation improvement program may be adopted by a metropolitan planning organization designated under title 23 or chapter 53 of title 49, or be found to be in conformity by a metropolitan planning organization until a final determination has been made that emissions expected from implementation of such plans and programs are consistent with estimates of emissions from motor vehicles and necessary emissions reductions contained in the applicable implementation plan, and that the plan or program will conform to the requirements of paragraph (1)(B);
 
@@ -102,7 +102,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
-(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
+(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which anarea is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
 
 (7)
 
@@ -168,7 +168,7 @@ Adoption.—(i) Concurrence by the metropolitan planning organization, State air
 
 &emsp;(ii) Once adopted, the substitute or additional control measures become, by operation of law, part of the State implementation plan and become federally enforceable.
 
-&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan. Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
+&emsp;(iii) Within 90 days of its concurrence under subparagraph (A)(v), the State air pollution control agency shall submit the substitute or additional control measure to the Administrator for incorporation in the codification of the applicable implementation plan.Nothwithstanding <sup>3</sup> any other provision of this chapter, no additional State process shall be necessary to support such revision to the applicable plan.
 
 &emsp;(C)
 
@@ -202,7 +202,7 @@ Lapse.—In this subsection, the term “lapse” means that the conformity dete
 
 Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
-(July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749;amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–44; Pub. L. 109–59, title VI, §6011(a)–(f), Aug. 10, 2005, 119 Stat. 1878–1881.)
+(July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749; amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–44; Pub. L. 109–59, title VI, §6011(a)–(f), Aug. 10, 2005, 119 Stat. 1878–1881.)
 
 #### References in Text
 

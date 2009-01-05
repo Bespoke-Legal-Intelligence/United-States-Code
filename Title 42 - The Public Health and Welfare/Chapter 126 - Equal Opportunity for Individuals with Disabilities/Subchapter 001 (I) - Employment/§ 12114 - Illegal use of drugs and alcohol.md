@@ -2,7 +2,7 @@
 
 #### (a) Qualified individual with a disability
 
-For purposes of this subchapter, the term “qualified individual with a disability” shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
+For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
 
 #### (b) Rules of construction
 
@@ -32,7 +32,7 @@ A covered entity—
 
 &emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
 
-&emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
+&emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) thatapply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
 
 &emsp;&emsp;(C) employees comply with the standards established in such regulations of the Department of Transportation, if the employees of the covered entity are employed in a transportation industry subject to such regulations, including complying with such regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Transportation).
 
@@ -54,9 +54,19 @@ Nothing in this subchapter shall be construed to encourage, prohibit, restrict, 
 
 &emsp;(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c) of this section.
 
-(Pub. L. 101–336, title I, §104, July 26, 1990, 104 Stat. 334.)
+(Pub. L. 101–336, title I, §104, July 26, 1990, 104 Stat. 334; Pub. L. 110–325, §5(c)(2), Sept. 25, 2008, 122 Stat. 3557.)
 
 #### References in Text
 
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
 The Drug-Free Workplace Act of 1988, referred to in subsec. (c)(3), is subtitle D (§§5151–5160) of title V of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4304, which is classified generally to chapter 10 (§701 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 41 and Tables.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–325 substituted “a qualified individual with a disability shall” for “the term ‘qualified individual with a disability’ shall”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 

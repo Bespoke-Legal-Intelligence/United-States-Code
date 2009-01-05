@@ -14,7 +14,7 @@ Section 373, acts Mar. 16, 1906, ch. 951, §2, 34 Stat. 63; Feb. 24, 1925, ch. 3
 
 Section 374, acts Mar. 16, 1906, ch. 951, §3, 34 Stat. 63; Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, required the State to replace moneys misapplied. See section 361e of this title.
 
-Section 375, acts Mar. 16, 1906, ch. 951, §3, 34 Stat. 63; Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, permitted use of funds for purchase, repairs, etc., of buildings, or forpurchase or rental of lands. See section 361d of this title.
+Section 375, acts Mar. 16, 1906, ch. 951, §3, 34 Stat. 63; Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, permitted use of funds for purchase, repairs, etc., of buildings, or for purchase or rental of lands. See section 361d of this title.
 
 Section 376, acts Mar. 16, 1906, ch. 951, §4, 34 Stat. 64; Feb. 24, 1925, ch. 308, §4, 43 Stat. 971, provided for certification of amounts due States for agricultural experiment stations, for withholding certificate, and for redress by Congress. See section 361g of this title.
 

@@ -42,7 +42,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 #### (b) Income
 
-For purposes of this subpart and subparts B, C, and D, the term “income”, when not preceded bythe words “taxable”, “distributable net”, “undistributed net”, or “gross”, means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
+For purposes of this subpart and subparts B, C, and D, the term “income”, when not preceded by the words “taxable”, “distributable net”, “undistributed net”, or “gross”, means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
 
 #### (c) Beneficiary
 
@@ -184,7 +184,7 @@ For purposes of subparts B, C, and D—
 
 &emsp;If any loan is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) shall be disregarded for purposes of this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a), Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, title I, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat. 2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 217; Pub. L. 87–834, §7(a), Oct. 16, 1962, 76 Stat. 985; Pub. L. 94–455, title X, §1013(c), (e)(2), Oct. 4, 1976, 90 Stat. 1615, 1616; Pub. L. 96–223, title IV, §404(b)(4), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(4), (6)(B), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title III, §§302(b)(1), 308(a),Sept. 3, 1982, 96 Stat. 586, 591; Pub. L. 97–448, title I, §103(a)(3), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), July 18, 1984, 98 Stat. 597, 598, 975; Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), Oct. 22, 1986, 100 Stat. 2217, 2250, 2713, 2810, 2811; Pub. L. 100–647, title I, §1014(d)(3), (4), Nov. 10, 1988, 102 Stat. 3561; Pub. L. 101–239, title VII, §7811(b), (f)(1), Dec. 19, 1989, 103 Stat. 2406, 2409; Pub. L. 103–66, title XIII, §13113(d)(3), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), Aug. 20, 1996, 110 Stat. 1912, 1915.)
 
 #### Amendments
 
@@ -332,7 +332,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 301(b)(4) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, andamendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
+Amendment by section 301(b)(4) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, and amendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 

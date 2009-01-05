@@ -148,7 +148,7 @@ Amendment by Pub. L. 97–248 applicable to any target corporation with respect 
 
 #### Effective Date of 1964 Amendment
 
-Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment ofthis Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
+Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and sections 304, 382, 856, 958, and 6038 of this title\] shall take effect on the date of the enactment of this Act, \[Aug. 31, 1964\], except that, for purposes of sections 302 and 304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such amendments shall not apply with respect to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before the date of the enactment of this Act.”
 
 #### Effective Date of 1960 Amendment
 

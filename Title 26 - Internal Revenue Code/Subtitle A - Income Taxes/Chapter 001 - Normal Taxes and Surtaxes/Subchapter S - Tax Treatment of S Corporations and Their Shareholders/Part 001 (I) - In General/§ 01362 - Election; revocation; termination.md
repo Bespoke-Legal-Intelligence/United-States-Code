@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election was made the corporation did not meet the requirements of subsection (b) of section 1361, or
+&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election wasmade the corporation did not meet the requirements of subsection (b) of section 1361, or
 
 &emsp;&emsp;&emsp;(ii) 1 or more of the persons who held stock in the corporation during such taxable year and before the election was made did not consent to the election,
 
@@ -46,7 +46,7 @@
 
 #### (4) Taxable years of 21/2 months or less
 
-&emsp;For purposes of this subsection, an election for a taxable year made not later than 2months and 15 days after the first day of the taxable year shall be treated as timely made during such year.
+&emsp;For purposes of this subsection, an election for a taxable year made not later than 2 months and 15 days after the first day of the taxable year shall be treated as timely made during such year.
 
 #### (5) Authority to treat late elections, etc., as timely
 
@@ -132,7 +132,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, and annuities.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investmentincome” means gross receipts derived from royalties, rents, dividends, interest, and annuities.
 
 #### (ii) Exception for interest on notes from sales of inventory
 
@@ -144,7 +144,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (iv) Treatment of certain dividends
 
-&emsp;&emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements ofsection 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
+&emsp;&emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
 
 #### (v) Exception for banks, etc.
 
@@ -214,7 +214,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (B) Due date for S year
 
-&emsp;&emsp;The due date for filing the return for the short taxable year described in subparagraph (A) of paragraph (1) shall be the same as the due date for filing the return for the short taxable year described in subparagraph (B) of paragraph (1) (including extensions thereof).
+&emsp;&emsp;The due date for filing the return for the short taxable year described in subparagraph\(A) of paragraph (1) shall be the same as the due date for filing the return for the short taxable year described in subparagraph (B) of paragraph (1) (including extensions thereof).
 
 #### (C) Paragraph (2) not to apply to items resulting from section 338
 
@@ -230,7 +230,7 @@ If—
 
 &emsp;(1) an election under subsection (a) or section 1361(b)(3)(B)(ii) by any corporation—
 
-&emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regardto subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
+&emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
 
 &emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d) or section 1361(b)(3)(C),
 
@@ -274,7 +274,7 @@ Pub. L. 108–357, §231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” aft
 
 Subsec. (f)(3)(A). Pub. L. 108–357, §238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
 
-Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
+Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatmentof the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
 1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -372,7 +372,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Treatment of Certain Elections Under Prior Law
 
-Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
+Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1362(g) of the Internal Revenue Codeof 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
 #### Subchapter S Election
 

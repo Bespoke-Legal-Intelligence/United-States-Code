@@ -4,7 +4,7 @@ For purposes of this subchapter, the following terms apply:
 
 #### (1) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means the Committee on Commerce, Science, and Transportation, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;The term “appropriate congressional committees” means the Committee on Commerce, Science, and Transportation, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and theCommittee on Transportation and Infrastructure of the House of Representatives.
 
 #### (2) Department
 

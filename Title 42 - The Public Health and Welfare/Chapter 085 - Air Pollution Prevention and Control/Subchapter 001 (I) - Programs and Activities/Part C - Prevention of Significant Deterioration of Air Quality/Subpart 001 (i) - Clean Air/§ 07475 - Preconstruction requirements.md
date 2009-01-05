@@ -8,7 +8,7 @@ No major emitting facility on which construction is commenced after August 7, 19
 
 &emsp;(2) the proposed permit has been subject to a review in accordance with this section, the required analysis has been conducted in accordance with regulations promulgated by the Administrator, and a public hearing has been held with opportunity for interested persons including representatives of the Administrator to appear and submit written or oral presentations on the air quality impact of such source, alternatives thereto, control technology requirements, and other appropriate considerations;
 
-&emsp;(3) the owner or operator of such facility demonstrates, as required pursuant to section 7410(j) of this title, that emissions from construction or operation of such facility will not cause, or contribute to, air pollution in excess of any (A) maximum allowable increase or maximum allowable concentration for any pollutant in any area to which this part applies more than one time per year, (B) national ambient air quality standard in any air quality control region, or (C) any other applicable emission standard or standard of performance under this chapter;
+&emsp;(3) the owner or operator of such facility demonstrates, as required pursuant to section 7410(j) of this title, that emissions from construction or operation of such facility will notcause, or contribute to, air pollution in excess of any (A) maximum allowable increase or maximum allowable concentration for any pollutant in any area to which this part applies more than one time per year, (B) national ambient air quality standard in any air quality control region, or (C) any other applicable emission standard or standard of performance under this chapter;
 
 &emsp;(4) the proposed facility is subject to the best available control technology for each pollutant subject to regulation under this chapter emitted from, or which results from, such facility;
 
@@ -30,7 +30,7 @@ Any completed permit application under section 7410 of this title for a major em
 
 #### (d) Action taken on permit applications; notice; adverse impact on air quality related values; variance; emission limitations
 
-(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by suchState and provide notice to the Administrator of every action related to the consideration of such permit.
+(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by such State and provide notice to the Administrator of every action related to the consideration of such permit.
 
 (2)(A) The Administrator shall provide notice of the permit application to the Federal Land Manager and the Federal official charged with direct responsibility for management of any lands within a class I area which may be affected by emissions from the proposed facility.
 
@@ -107,7 +107,7 @@ MAXIMUM ALLOWABLE INCREASE<br>(In micrograms per cubic meter)
 
 > Any model or models designated under such regulations may be adjusted upon a determination, after notice and opportunity for public hearing, by the Administrator that such adjustment is necessary to take into account unique terrain or meteorological characteristics of an area potentially affected by emissions from a source applying for a permit required under this part.
 
-(July 14, 1955, ch. 360, title I, §165, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 735; amended Pub. L. 95–190, §14(a)(44)–(51), Nov. 16, 1977, 91 Stat. 1402.)
+(July 14, 1955, ch. 360, title I, §165, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 735;amended Pub. L. 95–190, §14(a)(44)–(51), Nov. 16, 1977, 91 Stat. 1402.)
 
 #### Amendments
 

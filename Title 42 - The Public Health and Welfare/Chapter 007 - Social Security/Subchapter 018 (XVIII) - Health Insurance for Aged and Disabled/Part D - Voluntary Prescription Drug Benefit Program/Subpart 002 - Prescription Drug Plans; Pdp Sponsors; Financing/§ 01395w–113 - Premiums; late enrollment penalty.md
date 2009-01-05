@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined inparagraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
+&emsp;&emsp;For each year (beginning with 2006) the Secretary shall compute a national average monthly bid amount equal to the average of the standardized bid amounts (as defined in paragraph (5)) for each prescription drug plan and for each MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title. Such average does not take into account the bids submitted for MSA plans, MA private fee-for-service plan, and specialized MA plans for special needs individuals, PACE programs under section 1395eee of this title (pursuant to section 1395w–131(f) of this title), and under reasonable cost reimbursement contracts under section 1395mm(h) of this title (pursuant to section 1395w–131(e) of this title).
 
 #### (B) Weighted average
 
@@ -200,6 +200,10 @@
 
 > &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (and each such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
 
+#### (8) Waiver of penalty for subsidy-eligible individuals
+
+&emsp;In no case shall a part D eligible individual who is determined to be a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title) be subject to an increase in the monthly beneficiary premium established under subsection (a).
+
 #### (c) Collection of monthly beneficiary premiums
 
 #### (1) In general
@@ -224,13 +228,21 @@
 
 &emsp;In applying this subsection in the case of a fallback prescription drug plan, paragraph (2) shall not apply and the monthly beneficiary premium shall be collected in the manner specified in section 1395w–24(d)(2)(A) of this title (or such other manner as may be provided under section 1395s of this title in the case of monthly premiums under section 1395r of this title).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506.)
 
 #### References in Text
 
 Part A of this subchapter, referred to in subsec. (b)(7)(B), is classified to section 1395c et seq. of this title.
 
 Part C of this subchapter, referred to in subsec. (c)(1), is classified to section 1395w–21 et seq. of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(8). Pub. L. 110–275 added par. (8).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §114(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section \[amending this section and section 1395w–114 of this title\] shall apply to subsidies for months beginning with January 2009.”
 
 <i><sup>1</sup></i><i> So in original. The word “of” probably should appear after “product”.</i>
 

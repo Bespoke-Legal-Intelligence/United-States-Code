@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistanceunder any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -66,11 +66,11 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under theprevious subsection within 30 days of any substantial change.
 
 #### (d) Limitation of assistance
 
-The Secretary shall certify that assistance within the jurisdiction of the Department to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
+The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
 
 #### (e) Administrative remedies
 
@@ -176,11 +176,19 @@ For the purpose of this section—
 
 This section shall take effect on the date specified in regulations implementing this section that are issued by the Secretary after notice and public comment.
 
-(Pub. L. 101–235, title I, §102, Dec. 15, 1989, 103 Stat. 1990.)
+(Pub. L. 101–235, title I, §102, Dec. 15, 1989, 103 Stat. 1990; Pub. L. 110–289, div. B, title VIII, §2834(a), July 30, 2008, 122 Stat. 2869.)
+
+#### References in Text
+
+The National Housing Act, referred to in subsec. (d), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Department of Housing and Urban Development Reform Act of 1989, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–289 inserted “, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)” after “Department” and “such” after “amount of”.
 
 #### Subsidy Layering Review
 
@@ -208,5 +216,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 “(d)
 
-Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
+Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing andUrban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

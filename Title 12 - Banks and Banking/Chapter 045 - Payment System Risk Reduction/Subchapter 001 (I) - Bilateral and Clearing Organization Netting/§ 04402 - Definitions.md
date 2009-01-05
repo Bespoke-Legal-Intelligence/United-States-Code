@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 &emsp;The term “broker or dealer” means—
 
-&emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting,or dealing in securities in the United States; and
+&emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and
 
 &emsp;&emsp;(B) to the extent consistent with this title,<sup>1</sup> as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.
 
@@ -78,7 +78,7 @@ For purposes of this subchapter—
 
 #### (9) Financial institution
 
-&emsp;The term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
+&emsp;The term “financial institution” means a broker or dealer, a depository institution, afutures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
 
 #### (10) Futures commission merchant
 

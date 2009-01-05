@@ -4,7 +4,7 @@
 
 Not later than 1 year after August 8, 2005, the United States Trade Representative shall (as appropriate and consistent with applicable bilateral, regional, and mutual trade agreements)—
 
-&emsp;(1) identify trade-relations barriers maintained by foreign countries to the export of greenhouse gas intensity reducing technologies and practices from the United States to the developing countries identified in thereport submitted under section 7902(a)(2)(A) of this title; and
+&emsp;(1) identify trade-relations barriers maintained by foreign countries to the export of greenhouse gas intensity reducing technologies and practices from the United States to the developing countries identified in the report submitted under section 7902(a)(2)(A) of this title; and
 
 &emsp;(2) negotiate with foreign countries for the removal of those barriers.
 

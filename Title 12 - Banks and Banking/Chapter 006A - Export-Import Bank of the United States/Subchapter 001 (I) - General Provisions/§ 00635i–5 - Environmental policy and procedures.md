@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Consistent with the objectives of section 635(b)(1)(A) of this title, the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in section 1905 of title 18. Such procedures shall apply to any transaction involving a project—
+&emsp;Consistent with the objectives of section 635(b)(1)(A) of this title, the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports.The preceding sentence shall not be interpreted to require the public disclosure of any information described in section 1905 of title 18. Such procedures shall apply to any transaction involving a project—
 
 &emsp;&emsp;(A) for which long-term support of $10,000,000 or more is requested from the Bank;
 

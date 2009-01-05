@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized to grant permits, subject to the provisions of section 607 of this title, to citizens of Bear Lake County, Idaho, to cut and remove timber on the unappropriated public domain in Lincoln County, Wyoming, for domestic use in Bear Lake County, Idaho: <i>Provided</i>, That no live standing timber shall be taken without compensation.
 
-(Mar. 3, 1891, ch. 561, §8 \[part\], as added Aug. 21, 1935, ch. 591, 49 Stat. 665.)
+(Mar. 3, 1891, ch. 561, §8 (part), as added Aug. 21, 1935, ch. 591, 49 Stat. 665.)
 
 #### Codification
 

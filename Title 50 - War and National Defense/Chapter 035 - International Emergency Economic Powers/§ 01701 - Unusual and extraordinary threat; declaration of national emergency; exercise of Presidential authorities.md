@@ -120,7 +120,7 @@ Person.—The term ‘person’ means—
 
 &emsp;“(10)
 
-Power production activities.—The term ‘power production activities’ means any business operation that involves a project commissioned by the National Electricity Corporation of Sudan or other similar entity of the Government of Sudan whosepurpose is to facilitate power generation and delivery, including establishing power-generating plants or hydroelectric dams, selling or installing components for the project, or providing service contracts related to the installation or maintenance of the project.
+Power production activities.—The term ‘power production activities’ means any business operation that involves a project commissioned by the National Electricity Corporation of Sudan or other similar entity of the Government of Sudan whose purpose is to facilitate power generation and delivery, including establishing power-generating plants or hydroelectric dams, selling or installing components for the project, or providing service contracts related to the installation or maintenance of the project.
 
 &emsp;“(11)
 
@@ -194,7 +194,7 @@ Applicability.—The measure shall not apply to a person that demonstrates to th
 
 &emsp;“(4)
 
-Sense of congress on avoiding erroneous targeting.—It is the sense of Congress that a State or local government should not adopt a measure under subsection (b) with respect to a person unless the State or local government has made every effort to avoid erroneously targeting the person and has verified that the person conducts or has direct investments in business operations described in subsection (d).
+Sense of congress on avoiding erroneous targeting.—It is the sense of Congress that a Stateor local government should not adopt a measure under subsection (b) with respect to a person unless the State or local government has made every effort to avoid erroneously targeting the person and has verified that the person conducts or has direct investments in business operations described in subsection (d).
 
 “(f)
 
@@ -446,7 +446,7 @@ Officials of the government of sudan.—The term ‘official of the Government o
 
 &emsp;“(9) On March 31, 2005, the United Nations Security Council passed Security Council Resolution 1593 (2005), referring the situation in Darfur since July 1, 2002, to the prosecutor of the International Criminal Court and calling on the Government of Sudan and all parties to the conflict to cooperate fully with the Court.
 
-&emsp;“(10) On July 30, 2005, Dr. John Garang de Mabior, the newly appointed Vice President of Sudan and the leader of the SPLM/A for the past 21 years, was killedin a tragic helicopter crash in Southern Sudan, sparking riots in Khartoum and challenging the commitment of all Sudanese to the Comprehensive Peace Agreement for Sudan.
+&emsp;“(10) On July 30, 2005, Dr. John Garang de Mabior, the newly appointed Vice President of Sudan and the leader of the SPLM/A for the past 21 years, was killed in a tragic helicopter crash in Southern Sudan, sparking riots in Khartoum and challenging the commitment of all Sudanese to the Comprehensive Peace Agreement for Sudan.
 
 &emsp;“(11) On January 12, 2006, the African Union Peace and Security Council issued a communique endorsing, in principle, a transition from AMIS to a United Nations peacekeeping operation and requested the Chairperson of the Council to initiate consultations with the United Nations and other stakeholders toward this end.
 
@@ -470,7 +470,7 @@ Officials of the government of sudan.—The term ‘official of the Government o
 
 &emsp;“(19) On August 30, 2006, the United Nations Security Council passed Security Council Resolution 1706 (2006), without dissent and with abstentions by China, Russian Federation, and Qatar, thereby asserting that the existing United Nations Mission in Sudan ‘shall take over from AMIS responsibility for supporting the implementation of the Darfur Peace Agreement upon the expiration of AMIS’ mandate but in any event no later than 31 December 2006’, and that UNMIS ‘shall be strengthened by up to 17,300 military personnel . . . 3,300 civilian police personnel and up to 16 Formed Police Units’, which ‘shall begin to be deployed \[to Darfur\] no later than 1 October 2006’.
 
-&emsp;“(20) Between August 30 and September 3, 2006, President Bashir and other senior members of his administration have publicly rejected United Nations Security Council Resolution 1706 (2006), calling it illegal and a western invasion of his country, despite the current presence of 10,000 United Nations peacekeepers under the UNMIS peacekeeping force.
+&emsp;“(20) Between August 30 and September 3, 2006, President Bashir and other senior members of his administration have publicly rejected United Nations Security Council Resolution 1706 (2006), calling it illegal and a western invasion of his country, despite thecurrent presence of 10,000 United Nations peacekeepers under the UNMIS peacekeeping force.
 
 &emsp;“(21) Since 1993, the Secretary of State has determined, pursuant to section 6(j) of the Export Administration Act of 1979 (50 App. U.S.C. 2405(j)), that Sudan is a country, the government of which has repeatedly provided support for acts of international terrorism, thereby restricting United States assistance, defense exports and sales, and financial and other transactions with the Government of Sudan.
 
@@ -494,7 +494,7 @@ Officials of the government of sudan.—The term ‘official of the Government o
 
 &emsp;“(8) the President should direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States to urge the adoption of a resolution by the United Nations Security Council that—
 
-&emsp;&emsp;“(A) extends the military embargo established by United Nations Security Resolutions 1556 (2004) and1591 (2005) to include a total ban on the sale or supply of offensive military equipment to the Government of Sudan, except for use in an internationally recognized demobilization program or for nonlethal assistance necessary to carry out elements of the Comprehensive Peace Agreement for Sudan or the Darfur Peace Agreement; and
+&emsp;&emsp;“(A) extends the military embargo established by United Nations Security Resolutions 1556 (2004) and 1591 (2005) to include a total ban on the sale or supply of offensive military equipment to the Government of Sudan, except for use in an internationally recognized demobilization program or for nonlethal assistance necessary to carry out elements of the Comprehensive Peace Agreement for Sudan or the Darfur Peace Agreement; and
 
 &emsp;&emsp;“(B) calls upon those member states of the United Nations that continue to undermine efforts to foster peace in Sudan by providing military assistance to the Government of Sudan, government supported militias, or any rebel group operating in Darfur in violation of the embargo on such assistance and equipment, as called for in United Nations Security Council Resolutions 1556 (2004) and 1591 (2005), to immediately cease and desist.
 
@@ -734,7 +734,495 @@ No Effect on Other Sanctions Relating to Support for Acts of International Terro
 
 #### Burmese Freedom and Democracy
 
-Pub. L. 108–61, July 28, 2003, 117 Stat. 864, as amended by Pub. L. 109–251, §1, Aug. 1, 2006, 120 Stat. 654, provided that:
+Pub. L. 110–286, July 29, 2008, 122 Stat. 2632, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) Beginning on August 19, 2007, hundreds of thousands of citizens of Burma, including thousands of Buddhist monks and students, participated in peaceful demonstrations against rapidly deteriorating living conditions and the violent and repressive policies of the State Peace and Development Council (SPDC), the ruling military regime in Burma—
+
+&emsp;&emsp;“(A) to demand the release of all political prisoners, including 1991 Nobel Peace Prize winner Aung San Suu Kyi; and
+
+&emsp;&emsp;“(B) to urge the regime to engage in meaningful dialogue to pursue national reconciliation.
+
+&emsp;“(2) The Burmese regime responded to these peaceful protests with a violent crackdown leading to the reported killing of approximately 200 people, including a Japanese photojournalist, and hundreds of injuries. Human rights groups further estimate that over 2,000 individuals have been detained, arrested, imprisoned, beaten, tortured, or otherwise intimidated as part of this crackdown. Burmese military, police, and their affiliates in the Union Solidarity Development Association (USDA) perpetrated almost all of these abuses. The Burmese regime continues to detain, torture, and otherwise intimidate those individuals whom \[sic\] it believes participated in or led the protests and it has closed down or otherwise limited access to several monasteries and temples that played key roles in the peaceful protests.
+
+&emsp;“(3) The Department of State's 2006 Country Reports on Human Rights Practices found that the SPDC—
+
+&emsp;&emsp;“(A) routinely restricts freedoms of speech, press, assembly, association, religion, and movement;
+
+&emsp;&emsp;“(B) traffics in persons;
+
+&emsp;&emsp;“(C) discriminates against women and ethnic minorities;
+
+&emsp;&emsp;“(D) forcibly recruits child soldiers and child labor; and
+
+&emsp;&emsp;“(E) commits other serious violations of human rights, including extrajudicial killings, custodial deaths, disappearances, rape, torture, abuse of prisoners and detainees, and the imprisonment of citizens arbitrarily for political motives.
+
+&emsp;“(4) Aung San Suu Kyi has been arbitrarily imprisoned or held under house arrest for more than 12 years.
+
+&emsp;“(5) In October 2007, President Bush announced a new Executive Order to tighten economic sanctions against Burma and block property and travel to the United States by certain senior leaders of the SPDC, individuals who provide financial backing for the SPDC, and individuals responsible for human rights violations and impeding democracy in Burma. Additional names were added in updates done on October 19, 2007, and February 5, 2008. However, only 38 discrete individuals and 13 discrete companies have been designated under those sanctions, once aliases and companies with similar names were removed. By contrast, the Australian Government identified more than 400 individuals and entities subject to its sanctions applied in the wake of the 2007 violence. The European Union's regulations to implement sanctions against Burma have identified more than 400 individuals among the leadership of government, the military, and the USDA, along with nearly 1300 state and military-run companies potentially subject to its sanctions.
+
+&emsp;“(6) The Burmese regime and its supporters finance their ongoing violations of human rights, undemocratic policies, and military activities in part through financial transactions, travel, and trade involving the United States, including the sale of petroleum products, gemstones and hardwoods.
+
+&emsp;“(7) In 2006, the Burmese regime earned more than $500 million from oil and gas projects, over $500 million from sale of hardwoods, and in excess of $300 million from the sale of rubies and jade. At least $500 million of the $2.16 billion earned in 2006 from Burma's two natural gas pipelines, one of which is 28 percent owned by a United States company, went to the Burmese regime. The regime has earned smaller amounts from oil and gas exploration and non-operational pipelines but United States investors are not involved in those transactions. Industry sources estimate that over $100 million annually in Burmese rubies and jade enters the United States. Burma's official statistics report that Burma exported $500 million in hardwoods in 2006 but NGOs estimate the true figure to exceed $900 million. Reliable statistics on the amount of hardwoods imported into the United States from Burma in the form of finished products are not available, in part due to widespread illegal logging and smuggling.
+
+&emsp;“(8) The SPDC seeks to evade the sanctions imposed in the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out below\]. Millions of dollars in gemstones that are exported from Burma ultimately enter the United States, but the Burmese regime attempts to conceal the origin of the gemstones in an effort to evade sanctions. For example, according to gem industry experts, over 90 percent of the world's ruby supply originates in Burma but only 3 percent of the rubies entering the United States are claimed to be of Burmese origin. The value of Burmese gemstones is predominantly based on their original quality and geological origin, rather than the labor involved in cutting and polishing the gemstones.
+
+&emsp;“(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than 1/4 of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, represent more than 11 percent of Burma's official foreign exchange earnings.
+
+&emsp;“(10) The SPDC owns a majority stake in virtually all enterprises responsible for the extraction and trade of Burmese natural resources, including all mining operations, the Myanmar Timber Enterprise, the Myanmar Gems Enterprise, the Myanmar Pearl Enterprise, and the Myanmar Oil and Gas Enterprise. Virtually all profits from these enterprises enrich the SPDC.
+
+&emsp;“(11) On October 11, 2007, the United Nations Security Council, with the consent of the People's Republic of China, issued a statement condemning the violence in Burma, urging the release of all political prisoners, and calling on the SPDC to enter into a United Nations-mediated dialogue with its political opposition.
+
+&emsp;“(12) The United Nations special envoy Ibrahim Gambari traveled to Burma from September 29, 2007, through October 2, 2007, holding meetings with SPDC leader General Than Shwe and democracy advocate Aung San Suu Kyi in an effort to promote dialogue between the SPDC and democracy advocates.
+
+&emsp;“(13) The leaders of the SPDC will have a greater incentive to cooperate with diplomatic efforts by the United Nations, the Association of Southeast Asian Nations, and the People's Republic of China if they come under targeted economic pressure that denies them access to personal wealth and sources of revenue.
+
+&emsp;“(14) On the night of May 2, 2008, through the morning of May 3, 2008, tropical cyclone Nargis struck the coast of Burma, resulting in the deaths of tens of thousands of Burmese.
+
+&emsp;“(15) The response to the cyclone by Burma's military leaders illustrates their fundamental lack of concern for the welfare of the Burmese people. The regime did little to warn citizens of the cyclone, did not provide adequate humanitarian assistance to address basic needs and prevent loss of life, and continues to fail to provide life-protecting and life-sustaining services to its people.
+
+&emsp;“(16) The international community responded immediately to the cyclone and attempted to provide humanitarian assistance. More than 30 disaster assessment teams from 18 different nations and the United Nations arrived in the region, but the Burmese regime denied them permission to enter the country. Eventually visas were granted to aid workers, but the regime continues to severely limit their ability to provide assistance in the affected areas.
+
+&emsp;“(17) Despite the devastation caused by Cyclone Nargis, the junta went ahead with its referendum on a constitution drafted by an illegitimate assembly, conducting voting in unaffected areas on May 10, 2008, and in portions of the affected Irrawaddy region and Rangoon on May 26, 2008.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Account; correspondent account; payable-through account.—The terms ‘account’, ‘correspondent account’, and ‘payable-through account’ have the meanings given the terms in section 5318A(e)(1) of title 31, United States Code.
+
+&emsp;“(2)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Foreign Relations of the Senate;
+
+&emsp;&emsp;“(B) the Committee on Finance of the Senate;
+
+&emsp;&emsp;“(C) the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;“(D) the Committee on Ways and Means of the House of Representatives.
+
+&emsp;“(3) ASEAN.—The term ‘ASEAN’ means the Association of Southeast Asian Nations.
+
+&emsp;“(4)
+
+Person.—The term ‘person’ means—
+
+&emsp;&emsp;“(A) an individual, corporation, company, business association, partnership, society, trust, any other nongovernmental entity, organization, or group; and
+
+&emsp;&emsp;“(B) any successor, subunit, or subsidiary of any person described in subparagraph (A).
+
+&emsp;“(5) SPDC.—The term ‘SPDC’ means the State Peace and Development Council, the ruling military regime in Burma.
+
+&emsp;“(6)
+
+United states person.—The term ‘United States person’ means any United States citizen, permanent resident alien, juridical person organized under the laws of the United States (including foreign branches), or any person in the United States.
+
+#### “SEC. 4. STATEMENT OF POLICY.
+
+“It is the policy of the United States to—
+
+&emsp;“(1) condemn the continued repression carried out by the SPDC;
+
+&emsp;“(2) work with the international community, especially the People's Republic of China, India, Thailand, and ASEAN, to foster support for the legitimate democratic aspirations of the people of Burma and to coordinate efforts to impose sanctions on those directly responsible for human rights abuses in Burma;
+
+&emsp;“(3) provide all appropriate support and assistance to aid a peaceful transition to constitutional democracy in Burma;
+
+&emsp;“(4) support international efforts to alleviate the suffering of Burmese refugees and address the urgent humanitarian needs of the Burmese people; and
+
+&emsp;“(5) identify individuals responsible for the repression of peaceful political activity in Burma and hold them accountable for their actions.
+
+#### “SEC. 5. SANCTIONS.
+
+“(a)
+
+Visa Ban.—
+
+&emsp;“(1)
+
+In general.—The following persons shall be ineligible for a visa to travel to the United States:
+
+&emsp;&emsp;“(A) Former and present leaders of the SPDC, the Burmese military, or the USDA.
+
+&emsp;&emsp;“(B) Officials of the SPDC, the Burmese military, or the USDA involved in the repression of peaceful political activity or in other gross violations of human rights in Burma or in the commission of other human rights abuses, including any current or former officials of the security services and judicial institutions of the SPDC.
+
+&emsp;&emsp;“(C) Any other Burmese persons who provide substantial economic and political support for the SPDC, the Burmese military, or the USDA.
+
+&emsp;&emsp;“(D) The immediate family members of any person described in subparagraphs (A) through (C).
+
+&emsp;“(2)
+
+Waiver.—The President may waive the visa ban described in paragraph (1) only if the President determines and certifies in writing to Congress that travel by the person seeking such a waiver is in the national interests of the United States.
+
+&emsp;“(3)
+
+Rule of construction.—Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 (Public Law 110–161) \[121 Stat. 2366\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burma now or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
+
+“(b)
+
+Financial Sanctions.—
+
+&emsp;“(1)
+
+Blocked property.—No property or interest in property belonging to a person described in subsection (a)(1) may be transferred, paid, exported, withdrawn, or otherwise dealt with if—
+
+&emsp;&emsp;“(A) the property is located in the United States or within the possession or control of a United States person, including the overseas branch of a United States person; or
+
+&emsp;&emsp;“(B) the property comes into the possession or control of a United States person after the date of the enactment of this Act \[July 29, 2008\].
+
+&emsp;“(2)
+
+Financial transactions.—Except with respect to transactions authorized under Executive Orders 13047 (May 20, 1997) and 13310 (July 28, 2003) \[listed in a table below\], no United States person may engage in a financial transaction with the SPDC or with a person described in subsection (a)(1).
+
+&emsp;“(3)
+
+Prohibited activities.—Activities prohibited by reason of the blocking of property and financial transactions under this subsection shall include the following:
+
+&emsp;&emsp;“(A) Payments or transfers of any property, or any transactions involving the transfer of anything of economic value by any United States person, including any United States financial institution and any branch or office of such financial institution that is located outside the United States, to the SPDC or to an individual described in subsection (a)(1).
+
+&emsp;&emsp;“(B) The export or reexport directly or indirectly, of any goods, technology, or services by a United States person to the SPDC, to an individual described in subsection (a)(1) or to any entity owned, controlled, or operated by the SPDC or by an individual described in such subsection.
+
+“(c)
+
+Authority for Additional Banking Sanctions.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Treasury, in consultation with the Secretary of State, the Attorney General of the United States, and the Chairman of the Board of Governors of the Federal Reserve System, may prohibit or impose conditions on the opening or maintaining in the United States of a correspondent account or payable-through account by any financial institution (as that term is defined in section 5312 of title 31, United States Code) or financial agency that is organized under the laws of a State, territory, or possession of the United States, for or on behalf of a foreign banking institution, if the Secretary determines that the account might be used—
+
+&emsp;&emsp;“(A) by a foreign banking institution that holds property or an interest in property belonging to the SPDC or a person described in subsection (a)(1); or
+
+&emsp;&emsp;“(B) to conduct a transaction on behalf of the SPDC or a person described in subsection (a)(1).
+
+&emsp;“(2)
+
+Authority to define terms.—The Secretary of the Treasury may, by regulation, further define the terms used in paragraph (1) for purposes of this section, as the Secretary considers appropriate.
+
+“(d)
+
+List of Sanctioned Officials.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[July 29, 2008\], the President shall transmit to the appropriate congressional committees a list of—
+
+&emsp;&emsp;“(A) former and present leaders of the SPDC, the Burmese military, and the USDA;
+
+&emsp;&emsp;“(B) officials of the SPDC, the Burmese military, or the USDA involved in the repression of peaceful political activity in Burma or in the commission of other human rights abuses, including any current or former officials of the security services and judicial institutions of the SPDC;
+
+&emsp;&emsp;“(C) any other Burmese persons or entities who provide substantial economic and political support for the SPDC, the Burmese military, or the USDA; and
+
+&emsp;&emsp;“(D) the immediate family members of any person described in subparagraphs (A) through (C) whom \[sic\] the President determines effectively controls property in the United States or has benefitted from a financial transaction with any United States person.
+
+&emsp;“(2)
+
+Consideration of other data.—In preparing the list required under paragraph (1), the President shall consider the data already obtained by other countries and entities that apply sanctions against Burma, such as the Australian Government and the European Union.
+
+&emsp;“(3)
+
+Updates.—The President shall transmit to the appropriate congressional committees updated lists of the persons described in paragraph (1) as new information becomes available.
+
+&emsp;“(4)
+
+Identification of information.—The Secretary of State and the Secretary of the Treasury shall devote sufficient resources to the identification of information concerning potential persons to be sanctioned to carry out the purposes described in this Act.
+
+“(e)
+
+Rule of Construction.—Nothing in this section may be construed to prohibit any contract or other financial transaction with any nongovernmental humanitarian organization in Burma.
+
+“(f)
+
+Exceptions.—
+
+&emsp;“(1)
+
+In general.—The prohibitions and restrictions described in subsections (b) and (c) shall not apply to medicine, medical equipment or supplies, food or feed, or any other form of humanitarian assistance provided to Burma.
+
+&emsp;“(2)
+
+Regulatory exceptions.—For the following purposes, the Secretary of State may, by regulation, authorize exceptions to the prohibition and restrictions described in subsection (a), and the Secretary of the Treasury may, by regulation, authorize exceptions to the prohibitions and restrictions described in subsections (b) and (c)—
+
+&emsp;&emsp;“(A) to permit the United States and Burma to operate their diplomatic missions, and to permit the United States to conduct other official United States Government business in Burma;
+
+&emsp;&emsp;“(B) to permit United States citizens to visit Burma; and
+
+&emsp;&emsp;“(C) to permit the United States to comply with the United Nations Headquarters Agreement and other applicable international agreements.
+
+“(g)
+
+Penalties.—Any person who violates any prohibition or restriction imposed pursuant to subsection (b) or (c) shall be subject to the penalties under section 6 \[probably means section 206\] of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as for a violation under that Act \[50 U.S.C. 1701 et seq.\].
+
+“(h)
+
+Termination of Sanctions.—The sanctions imposed under subsection (a), (b), or (c) shall apply until the President determines and certifies to the appropriate congressional committees that the SPDC has—
+
+&emsp;“(1) unconditionally released all political prisoners, including Aung San Suu Kyi and other members of the National League for Democracy;
+
+&emsp;“(2) entered into a substantive dialogue with democratic forces led by the National League for Democracy and the ethnic minorities of Burma on transitioning to democratic government under the rule of law; and
+
+&emsp;“(3) allowed humanitarian access to populations affected by armed conflict in all regions of Burma.
+
+“(i)
+
+Waiver.—The President may waive the sanctions described in subsections (b) and (c) if the President determines and certifies to the appropriate congressional committees that such waiver is in the national interest of the United States.
+
+#### “SEC. 6. AMENDMENTS TO THE BURMESE FREEDOM AND DEMOCRACY ACT OF 2003.
+
+“(a)
+
+In General.—\[Amended Pub. L. 108–61, set out below.\]
+
+“(b)
+
+Duration of Sanctions.—
+
+&emsp;“(1)
+
+Continuation of import sanctions.—\[Amended Pub. L. 108–61, set out below.\]
+
+&emsp;“(2)
+
+Renewal resolutions.—\[Amended Pub. L. 108–61, set out below.\]
+
+&emsp;“(3)
+
+Effective date.—
+
+&emsp;&emsp;“(A)
+
+In general.—The amendments made by this subsection take effect on the day after the date of the enactment of 5th \[sic\] renewal resolution enacted into law after the date of the enactment of the Burmese Freedom and Democracy Act of 2003 \[July 28, 2003\], or the date of the enactment of this Act \[July 29, 2008\], whichever occurs later.
+
+&emsp;&emsp;“(B)
+
+Renewal resolution defined.—In this paragraph, the term ‘renewal resolution’ means a renewal resolution described in section 9(c) of the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out below\] that is enacted into law in accordance with such section.
+
+“(c)
+
+Conforming Amendment.—\[Amended Pub. L. 108–61, set out below.\]
+
+#### “SEC. 7. SPECIAL REPRESENTATIVE AND POLICY COORDINATOR FOR BURMA.
+
+“(a)
+
+United States Special Representative and Policy Coordinator for Burma.—The President shall appoint a Special Representative and Policy Coordinator for Burma, by and with the advice and consent of the Senate.
+
+“(b)
+
+Rank.—The Special Representative and Policy Coordinator for Burma appointed under subsection (a) shall have the rank of ambassador and shall hold the office at the pleasure of the President. Except for the position of United States Ambassador to the Association of Southeast Asian Nations, the Special Representative and Policy Coordinator may not simultaneously hold a separate position within the executive branch, including the Assistant Secretary of State, the Deputy Assistant Secretary of State, the United States Ambassador to Burma, or the Charge d'affairs to Burma.
+
+“(c)
+
+Duties and Responsibilities.—The Special Representative and Policy Coordinator for Burma shall—
+
+&emsp;“(1) promote a comprehensive international effort, including multilateral sanctions, direct dialogue with the SPDC and democracy advocates, and support for nongovernmental organizations operating in Burma and neighboring countries, designed to restore civilian democratic rule to Burma and address the urgent humanitarian needs of the Burmese people;
+
+&emsp;“(2) consult broadly, including with the Governments of the People's Republic of China, India, Thailand, and Japan, and the member states of ASEAN and the European Union to coordinate policies toward Burma;
+
+&emsp;“(3) assist efforts by the United Nations Special Envoy to secure the release of all political prisoners in Burma and to promote dialogue between the SPDC and leaders of Burma's democracy movement, including Aung San Suu Kyi;
+
+&emsp;“(4) consult with Congress on policies relevant to Burma and the future and welfare of all the Burmese people, including refugees; and
+
+&emsp;“(5) coordinate the imposition of Burma sanctions within the United States Government and with the relevant international financial institutions.
+
+#### “SEC. 8. SUPPORT FOR CONSTITUTIONAL DEMOCRACY IN BURMA.
+
+“(a)
+
+In General.—The President is authorized to assist Burmese democracy activists who are dedicated to nonviolent opposition to the SPDC in their efforts to promote freedom, democracy, and human rights in Burma.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 to the Secretary of State for fiscal year 2008 to—
+
+&emsp;“(1) provide aid to democracy activists in Burma;
+
+&emsp;“(2) provide aid to individuals and groups conducting democracy programming outside of Burma targeted at a peaceful transition to constitutional democracy inside Burma; and
+
+&emsp;“(3) expand radio and television broadcasting into Burma.
+
+#### “SEC. 9. SUPPORT FOR NONGOVERNMENTAL ORGANIZATIONS ADDRESSING THE HUMANITARIAN NEEDS OF THE BURMESE PEOPLE.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that the international community should increase support for nongovernmental organizations attempting to meet the urgent humanitarian needs of the Burmese people.
+
+“(b)
+
+Licenses for Humanitarian or Religious Activities in Burma.—\[Amended Pub. L. 108–61, set out below.\]
+
+“(c)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, there are authorized to be appropriated $11,000,000 to the Secretary of State for fiscal year 2008 to support operations by nongovernmental organizations, subject to paragraph (2), designed to address the humanitarian needs of the Burmese people inside Burma and in refugee camps in neighboring countries.
+
+&emsp;“(2)
+
+Limitation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided under subparagraph (B), amounts appropriated pursuant to paragraph (1) may not be provided to—
+
+&emsp;&emsp;&emsp;“(i) SPDC-controlled entities;
+
+&emsp;&emsp;&emsp;“(ii) entities run by members of the SPDC or their families; or
+
+&emsp;&emsp;&emsp;“(iii) entities providing cash or resources to the SPDC, including organizations affiliated with the United Nations.
+
+&emsp;&emsp;“(B)
+
+Waiver.—The President may waive the funding restriction described in subparagraph (A) if—
+
+&emsp;&emsp;&emsp;“(i) the President determines and certifies to the appropriate congressional committees that such waiver is in the national interests of the United States;
+
+&emsp;&emsp;&emsp;“(ii) a description of the national interests need for the waiver is submitted to the appropriate congressional committees; and
+
+&emsp;&emsp;&emsp;“(iii) the description submitted under clause (ii) is posted on a publicly accessible Internet Web site of the Department of State.
+
+#### “SEC. 10. REPORT ON MILITARY AND INTELLIGENCE AID TO BURMA.
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing a list of countries, companies, and other entities that provide military or intelligence aid to the SPDC and describing such military or intelligence aid provided by each such country, company, and other entity.
+
+“(b)
+
+Military or Intelligence Aid Defined.—For the purpose of this section, the term ‘military or intelligence aid’ means, with respect to the SPDC—
+
+&emsp;“(1) the provision of weapons, weapons parts, military vehicles, or military aircraft;
+
+&emsp;“(2) the provision of military or intelligence training, including advice and assistance on subject matter expert exchanges;
+
+&emsp;“(3) the provision of weapons of mass destruction and related materials, capabilities, and technology, including nuclear, chemical, or dual-use capabilities;
+
+&emsp;“(4) conducting joint military exercises;
+
+&emsp;“(5) the provision of naval support, including ship development and naval construction;
+
+&emsp;“(6) the provision of technical support, including computer and software development and installations, networks, and infrastructure development and construction; or
+
+&emsp;“(7) the construction or expansion of airfields, including radar and anti-aircraft systems.
+
+“(c)
+
+Form.—The report required under subsection (a) shall be submitted in unclassified form but may include a classified annex and the unclassified form shall be placed on the Department of State's website.
+
+#### “SEC. 11. SENSE OF CONGRESS ON INTERNATIONAL ARMS SALES TO BURMA.
+
+“It is the sense of Congress that the United States should lead efforts in the United Nations Security Council to impose a mandatory international arms embargo on Burma, curtailing all sales of weapons, ammunition, military vehicles, and military aircraft to Burma until the SPDC releases all political prisoners, restores constitutional rule, takes steps toward inclusion of ethnic minorities in political reconciliation efforts, and holds free and fair elections to establish a new government.
+
+#### “SEC. 12. REDUCTION OF SPDC REVENUE FROM TIMBER.
+
+“(a)
+
+Report.—Not later than one year after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State, in consultation with the Secretary of Commerce, and other Federal officials, as appropriate, shall submit to the appropriate congressional committees a report on Burma's timber trade containing information on the following:
+
+&emsp;“(1) Products entering the United States made in whole or in part of wood grown and harvested in Burma, including measurements of annual value and volume and considering both legal and illegal timber trade.
+
+&emsp;“(2) Statistics about Burma's timber trade, including raw wood and wood products, in aggregate and broken down by country and timber species, including measurements of value and volume and considering both legal and illegal timber trade.
+
+&emsp;“(3) A description of the chains of custody of products described in paragraph (1), including direct trade streams from Burma to the United States and via manufacturing or transshipment in third countries.
+
+&emsp;“(4) Illegalities, abuses, or corruption in the Burmese timber sector.
+
+&emsp;“(5) A description of all common consumer and commercial applications unique to Burmese hardwoods, including the furniture and marine manufacturing industries.
+
+“(b)
+
+Recommendations.—The report required under subsection (a) shall include recommendations on the following:
+
+&emsp;“(1) Alternatives to Burmese hardwoods for the commercial applications described in paragraph (5) of subsection (a), including alternative species of timber that could provide the same applications.
+
+&emsp;“(2) Strategies for encouraging sustainable management of timber in locations with potential climate, soil, and other conditions to compete with Burmese hardwoods for the consumer and commercial applications described in paragraph (5) of subsection (a).
+
+&emsp;“(3) The appropriate United States and international customs documents and declarations that would need to be kept and compiled in order to establish the chain of custody concerning products described in paragraphs (1) and (3) of subsection (a).
+
+&emsp;“(4) Strategies for strengthening the capacity of Burmese civil society, including Burmese society inexile, to monitor and report on the SPDC's trade in timber and other extractive industries so that Burmese natural resources can be used to benefit the majority of Burma's population.
+
+#### “SEC. 13. REPORT ON FINANCIAL ASSETS HELD BY MEMBERS OF THE SPDC.
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of the Treasury, in consultation with the Secretary of State, shall submit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Ways and Means of the House of the \[sic\] Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Finance of the Senate a report containing a list of all countries and foreign banking institutions that hold assets on behalf of senior Burmese officials.
+
+“(b)
+
+Definitions.—For the purpose of this section:
+
+&emsp;“(1)
+
+Senior burmese officials.—The term ‘senior Burmese officials’ shall mean individuals covered under section 5(d)(1) of this Act.
+
+&emsp;“(2)
+
+Other terms.—Other terms shall be defined under the authority of and consistent with section 5(c)(2) of this Act.
+
+“(c)
+
+Form.—The report required under subsection (a) shall be submitted in unclassified form but may include a classified annex. The report shall also be posted on the Department of Treasury's website not later than 30 days of the submission to Congress of the report. To the extent possible, the report shall include the names of the senior Burmese officials and the approximate value of their holdings in the respective foreign banking institutions and any other pertinent information.
+
+#### “SEC. 14. UNOCAL PLAINTIFFS.
+
+“(a)
+
+Sense of Congress.—It is the Sense of Congress that the United States should work with the Royal Thai Government to ensure the safety in Thailand of the 15 plaintiffs in the Doe v. Unocal case, and should consider granting refugee status or humanitarian parole to these plaintiffs to enter the United States consistent with existing United States law.
+
+“(b)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[July 29, 2008\], the President shall submit to the appropriate Congressional committees a report on the status of the Doe vs. Unocal plaintiffs and whether the plaintiffs have been granted refugee status or humanitarian parole.
+
+#### “SEC. 15. SENSE OF CONGRESS WITH RESPECT TO INVESTMENTS IN BURMA'S OIL AND GAS INDUSTRY.
+
+“(a)
+
+Findings and Declarations.—Congress finds the following:
+
+&emsp;“(1) Currently United States, French, and Thai investors are engaged in the production and delivery of natural gas in the pipeline from the Yadana and Sein fields (Yadana pipeline) in the Andaman Sea, an enterprise which falls under the jurisdiction of the Burmese Government, and United States investment by Chevron represents approximately a 28 percent nonoperated, working interest in that pipeline.
+
+&emsp;“(2) The Congressional Research Service estimates that the Yadana pipeline provides at least $500,000,000 in annual revenue for the Burmese Government.
+
+&emsp;“(3) The natural gas that transits the Yadana pipeline is delivered primarily to Thailand, representing about 20 percent of Thailand's total gas supply.
+
+&emsp;“(4) The executive branch has in the past exempted investment in the Yadana pipeline from the sanctions regime against the Burmese Government.
+
+&emsp;“(5) Congress believes that United States companies ought to be held to a high standard of conduct overseas and should avoid as much as possible acting in a manner that supports repressive regimes such as the Burmese Government.
+
+&emsp;“(6) Congress recognizes the important symbolic value that divestment of United States holdings in Burma would have on the international sanctions effort, demonstrating that the United States will continue to lead by example.
+
+“(b)
+
+Statement of Policy.—
+
+&emsp;“(1) Congress urges Yadana investors to consider voluntary divestment over time if the Burmese Government fails to take meaningful steps to release political prisoners, restore civilian constitutional rule and promote national reconciliation.
+
+&emsp;“(2) Congress will remain concerned with the matter of continued investment in the Yadana pipeline in the years ahead.
+
+&emsp;“(3) Congress urges the executive branch to work with all firms invested in Burma's oil and gas sector to use their influence to promote the peaceful transition to civilian democratic rule in Burma.
+
+“(c)
+
+Sense of Congress.—It is the sense of Congress that so long as Yadana investors remain invested in Burma, such investors should—
+
+&emsp;“(1) communicate to the Burmese Government, military and business officials, at the highest levels, concern about the lack of genuine consultation between the Burmese Government and its people, the failure of the Burmese Government to use its natural resources to benefit the Burmese people, and the military's use of forced labor;
+
+&emsp;“(2) publicly disclose and deal with in a transparent manner, consistent with legal obligations, its role in any ongoing investment in Burma, including its financial involvement in any joint production agreement or other joint ventures and the amount of their direct or indirect support of the Burmese Government; and
+
+&emsp;“(3) work with project partners to ensure that forced labor is not used to construct, maintain, support, or defend the project facilities, including pipelines, offices, or other facilities.”
+
+Pub. L. 108–61, July 28, 2003, 117 Stat. 864, as amended by Pub. L. 109–251, §1, Aug. 1, 2006, 120 Stat. 654; Pub. L. 110–286, §§6(a)–(b)(2), (c), 9(b), July 29, 2008, 122 Stat. 2638, 2642–2644, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -766,7 +1254,7 @@ Pub. L. 108–61, July 28, 2003, 117 Stat. 864, as amended by Pub. L. 109–251,
 
 &emsp;“(11) The SPDC has integrated the Burmese military and its surrogates into all facets of the economy effectively destroying any free enterprise system.
 
-&emsp;“(12) Investment in Burmese companies and purchases from them serve to provide the SPDC withcurrency that is used to finance its instruments of terror and repression against the Burmese people.
+&emsp;“(12) Investment in Burmese companies and purchases from them serve to provide the SPDC with currency that is used to finance its instruments of terror and repression against the Burmese people.
 
 &emsp;“(13) On April 15, 2003, the American Apparel and Footwear Association expressed its ‘strong support for a full and immediate ban on U.S. textiles, apparel and footwear imports from Burma’ and called upon the United States Government to ‘impose an outright ban on U.S. imports’ of these items until Burma demonstrates respect for basic human and labor rights of its citizens.
 
@@ -826,7 +1314,179 @@ Appropriate congressional committees.—In this subsection, the term ‘appropri
 
 “(b)
 
-Waiver Authorities.—The President may waive the prohibitions described in this section for any or all articles that are a product of Burma if the President determines and notifies the Committees on Appropriations, Finance, and Foreign Relations of the Senate and the Committees on Appropriations, International Relations \[now Foreign Affairs\], and Ways and Means of the House of Representatives that to do so is in the national interest of the United States.
+Waiver Authorities.—The President may waive the restrictions described in this section or section 3A(b)(1) or (c)(1) for any or all articles that are subject to such restrictions if the President determines and notifies the Committees on Appropriations, Finance, and Foreign Relations of the Senate and the Committees on Appropriations, International Relations \[now Foreign Affairs\], and Ways and Means of the House of Representatives that to do so is in the national interest of the United States.
+
+#### “SEC. 3A. PROHIBITION ON IMPORTATION OF JADEITE AND RUBIES FROM BURMA AND ARTICLES OF JEWELRY CONTAINING JADEITE OR RUBIES FROM BURMA.
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Finance and the Committee on Foreign Relations of the Senate.
+
+&emsp;“(2)
+
+Burmese covered article.—The term ‘Burmese covered article’ means—
+
+&emsp;&emsp;“(A) jadeite mined or extracted from Burma;
+
+&emsp;&emsp;“(B) rubies mined or extracted from Burma; or
+
+&emsp;&emsp;“(C) articles of jewelry containing jadeite described in subparagraph (A) or rubies described in subparagraph (B).
+
+&emsp;“(3)
+
+Non-burmese covered article.—The term ‘non-Burmese covered article’ means—
+
+&emsp;&emsp;“(A) jadeite mined or extracted from a country other than Burma;
+
+&emsp;&emsp;“(B) rubies mined or extracted from a country other than Burma; or
+
+&emsp;&emsp;“(C) articles of jewelry containing jadeite described in subparagraph (A) or rubies described in subparagraph (B).
+
+&emsp;“(4)
+
+Jadeite; rubies; articles of jewelry containing jadeite or rubies.—
+
+&emsp;&emsp;“(A)
+
+Jadeite.—The term ‘jadeite’ means any jadeite classifiable under heading 7103 of the Harmonized Tariff Schedule of the United States (in this paragraph referred to as the ‘HTS’) \[see Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties\].
+
+&emsp;&emsp;“(B)
+
+Rubies.—The term ‘rubies’ means any rubies classifiable under heading 7103 of the HTS.
+
+&emsp;&emsp;“(C)
+
+Articles of jewelry containing jadeite or rubies.—The term ‘articles of jewelry containing jadeite or rubies’ means—
+
+&emsp;&emsp;&emsp;“(i) any article of jewelry classifiable under heading 7113 of the HTS that contains jadeite or rubies; or
+
+&emsp;&emsp;&emsp;“(ii) any article of jadeite or rubies classifiable under heading 7116 of the HTS.
+
+&emsp;“(5)
+
+United states.—The term ‘United States’, when used in the geographic sense, means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+“(b)
+
+Prohibition on Importation of Burmese Covered Articles.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, until such time as the President determines and certifies to the appropriate congressional committees that Burma has met the conditions described in section 3(a)(3), beginning 60 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall prohibit the importation into the United States of any Burmese covered article.
+
+&emsp;“(2)
+
+Regulatory authority.—The President is authorized to, and shall as necessary, issue such proclamations, regulations, licenses, and orders, and conduct such investigations, as may be necessary to implement the prohibition under paragraph (1).
+
+&emsp;“(3)
+
+Other actions.—Beginning on the date of the enactment of this Act \[July 28, 2003\], the President shall take all appropriate actions to seek the following:
+
+&emsp;&emsp;“(A) The issuance of a draft waiver decision by the Council for Trade in Goods of the World Trade Organization granting a waiver of the applicable obligations of the United States under the World Trade Organization with respect to the provisions of this section and any measures taken to implement this section.
+
+&emsp;&emsp;“(B) The adoption of a resolution by the United Nations General Assembly expressing the need to address trade in Burmese covered articles and calling for the creation and implementation of a workable certification scheme for non-Burmese covered articles to prevent the trade in Burmese covered articles.
+
+“(c)
+
+Requirements for Importation of Non-Burmese Covered Articles.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), until such time as the President determines and certifies to the appropriate congressional committees that Burma has met the conditions described in section 3(a)(3), beginning 60 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall require as a condition for the importation into the United States of any non-Burmese covered article that—
+
+&emsp;&emsp;“(A) the exporter of the non-Burmese covered article has implemented measures that have substantially the same effect and achieve the same goals as the measures described in clauses (i) through (iv) of paragraph (2)(B) (or their functional equivalent) to prevent the trade in Burmese covered articles; and
+
+&emsp;&emsp;“(B) the importer of the non-Burmese covered article agrees—
+
+&emsp;&emsp;&emsp;“(i) to maintain a full record of, in the form of reports or otherwise, complete information relating to any act or transaction related to the purchase, manufacture, or shipment of the non-Burmese covered article for a period of not less than 5 years from the date of entry of the non-Burmese covered article; and
+
+&emsp;&emsp;&emsp;“(ii) to provide the information described in clause (i) within the custody or control of such person to the relevant United States authorities upon request.
+
+&emsp;“(2)
+
+Exception.—
+
+&emsp;&emsp;“(A)
+
+In general.—The President may waive the requirements of paragraph (1) with respect to the importation of non-Burmese covered articles from any country with respect to which the President determines and certifies to the appropriate congressional committees has implemented the measures described in subparagraph (B) (or their functional equivalent) to prevent the trade in Burmese covered articles.
+
+&emsp;&emsp;“(B)
+
+Measures described.—The measures referred to in subparagraph (A) are the following:
+
+&emsp;&emsp;&emsp;“(i) With respect to exportation from the country of jadeite or rubies in rough form, a system of verifiable controls on the jadeite or rubies from mine to exportation demonstrating that the jadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted, total carat weight, and value of the jadeite or rubies.
+
+&emsp;&emsp;&emsp;“(ii) With respect to exportation from the country of finished jadeite or polished rubies, a system of verifiable controls on the jadeite or rubies from mine to the place of final finishing of the jadeite or rubies demonstrating that the jadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted.
+
+&emsp;&emsp;&emsp;“(iii) With respect to exportation from the country of articles of jewelry containing jadeite or rubies, a system of verifiable controls on the jadeite or rubies from mine to the place of final finishing of the article of jewelry containing jadeite or rubies demonstrating that the jadeite or rubies were not mined or extracted from Burma, and accompanied by officially-validated documentation certifying the country from which the jadeite or rubies were mined or extracted.
+
+&emsp;&emsp;&emsp;“(iv) Verifiable recordkeeping by all entities and individuals engaged in mining, importation, and exportation of non-Burmese covered articles in the country, and subject to inspection and verification by authorized authorities of the government of the country in accordance with applicable law.
+
+&emsp;&emsp;&emsp;“(v) Implementation by the government of the country of proportionate and dissuasive penalties against any persons who violate laws and regulations designed to prevent trade in Burmese covered articles.
+
+&emsp;&emsp;&emsp;“(vi) Full cooperation by the country with the United Nations or other official international organizations that seek to prevent trade in Burmese covered articles.
+
+&emsp;“(3)
+
+Regulatory authority.—The President is authorized to, and shall as necessary, issue such proclamations, regulations, licenses, and orders and conduct such investigations, as may be necessary to implement the provisions under paragraphs (1) and (2).
+
+“(d)
+
+Inapplicability.—
+
+&emsp;“(1)
+
+In general.—The requirements of subsection (b)(1) and subsection (c)(1) shall not apply to Burmese covered articles and non-Burmese covered articles, respectively, that were previously exported from the United States, including those that accompanied an individual outside the United States for personal use, if they are reimported into the United States by the same person, without having been advanced in value or improved in condition by any process or other means while outside the United States.
+
+&emsp;“(2)
+
+Additional provision.—The requirements of subsection (c)(1) shall not apply with respect to the importation of non-Burmese covered articles that are imported by or on behalf of an individual for personal use and accompanying an individual upon entry into the United States.
+
+“(e)
+
+Enforcement.—Burmese covered articles or non-Burmese covered articles that are imported into the United States in violation of any prohibition of this Act or any other provision law \[sic\] shall be subject to all applicable seizure and forfeiture laws and criminal and civil laws of the United States to the same extent as any other violation of the customs laws of the United States.
+
+“(f)
+
+Sense of Congress.—
+
+&emsp;“(1)
+
+In general.—It is the sense of Congress that the President should take the necessary steps to seek to negotiate an international arrangement—similar to the Kimberley Process Certification Scheme for conflict diamonds—to prevent the trade in Burmese covered articles. Such an international arrangement should create an effective global system of controls and should contain the measures described in subsection (c)(2)(B) (or their functional equivalent).
+
+&emsp;“(2)
+
+Kimberley process certification scheme defined.—In paragraph (1), the term ‘Kimberley Process Certification Scheme’ has the meaning given the term in section 3(6) of the Clean Diamond Trade Act (Public Law 108–19; 19 U.S.C. 3902(6)).
+
+“(g)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall transmit to the appropriate congressional committees a report describing what actions the United States has taken during the 60-day period beginning on the date of the enactment of such Act to seek—
+
+&emsp;&emsp;“(A) the issuance of a draft waiver decision by the Council for Trade in Goods of the World Trade Organization, as specified in subsection (b)(3)(A);
+
+&emsp;&emsp;“(B) the adoption of a resolution by the United Nations General Assembly, as specified in subsection (b)(3)(B); and
+
+&emsp;&emsp;“(C) the negotiation of an international arrangement, as specified in subsection (f)(1).
+
+&emsp;“(2)
+
+Update.—The President shall make continued efforts to seek the items specified in subparagraphs (A), (B), and (C) of paragraph (1) and shall promptly update the appropriate congressional committees on subsequent developments with respect to these efforts.
+
+“(h) GAO
+
+Report.—Not later than 14 months after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the effectiveness of the implementation of this section. The Comptroller General shall include in the report any recommendations for improving the administration of this Act.
 
 #### “SEC. 4. FREEZING ASSETS OF THE BURMESE REGIME IN THE UNITED STATES.
 
@@ -844,7 +1504,13 @@ Delegation.—The President may delegate the duties and authorities under this s
 
 #### “SEC. 5. LOANS AT INTERNATIONAL FINANCIAL INSTITUTIONS.
 
-“The Secretary of the Treasury shall instruct the United States executive director to each appropriate international financial institution in which the United States participates, to oppose, and vote against the extension by such institution of any loan or financial or technical assistance to Burma until such time as the conditions described in section 3(a)(3) are met.
+“(a)
+
+Opposition to Assistance to Burma.—The Secretary of the Treasury shall instruct the United States executive director to each appropriate international financial institution in which the United States participates, to oppose, and vote against the extension by such institution of any loan or financial or technical assistance to Burma until such time as the conditions described in section 3(a)(3) are met.
+
+“(b)
+
+Licenses for Humanitarian or Religious Activities in Burma.—Notwithstanding any other provision of law, the Secretary of the Treasury is authorized to issue multi-year licenses for humanitarian or religious activities in Burma.
 
 #### “SEC. 6. EXPANSION OF VISA BAN.
 
@@ -932,13 +1598,17 @@ Resolution by congress.—The import restrictions contained in section 3(a)(1) m
 
 Limitation.—The import restrictions contained in section 3(a)(1) may be renewed for a maximum of six years from the date of the enactment of this Act \[July 28, 2003\].
 
+&emsp;“(4)
+
+Rule of construction.—For purposes of this subsection, any reference to section 3(a)(1) shall be deemed to include a reference to section 3A(b)(1) and (c)(1).
+
 “(c)
 
 Renewal Resolutions.—
 
 &emsp;“(1)
 
-In general.—For purposes of this section, the term ‘renewal resolution’ means a joint resolution of the 2 Houses of Congress, the sole matter after the resolving clause of which is as follows: ‘That Congress approves the renewal of the import restrictions contained in section 3(a)(1) of the Burmese Freedom and Democracy Act of 2003.’.
+In general.—For purposes of this section, the term ‘renewal resolution’ means a joint resolution of the 2 Houses of Congress, the sole matter after the resolving clause of which is as follows: ‘That Congress approves the renewal of the import restrictions contained in section 3(a)(1) and section 3A(b)(1) and (c)(1) of the Burmese Freedom and Democracy Act of 2003.’.
 
 &emsp;“(2)
 
@@ -948,7 +1618,7 @@ Procedures.—
 
 In general.—A renewal resolution—
 
-&emsp;&emsp;&emsp;“(i) may be introduced in either House of Congress by any member of such House at any time within the 90-day period before the expiration of the import restrictions contained in section 3(a)(1); and
+&emsp;&emsp;&emsp;“(i) may be introduced in either House of Congress by any member of such House at any time within the 90-day period before the expiration of the import restrictions contained in section 3(a)(1) and section 3A(b)(1) and (c)(1); and
 
 &emsp;&emsp;&emsp;“(ii) the provisions of subparagraph (B) shall apply.
 
@@ -956,13 +1626,17 @@ In general.—A renewal resolution—
 
 Expedited consideration.—The provisions of section 152(b), (c), (d), (e), and (f) of the Trade Act of 1974 (19 U.S.C. 2192 (b), (c), (d), (e), and (f)) apply to a renewal resolution under this Act as if such resolution were a resolution described in section 152(a) of the Trade Act of 1974.”
 
+\[For effective date of amendment by Pub. L. 110–286, §6(b)(1), (2), see section 6(b)(3) of Pub. L. 110–286, set out above.\]
+
 \[Certain powers of President under section 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury by section 6 of Ex. Ord. No. 13448, Oct. 18, 2007, 72 F.R. 60225, listed in a table below.\]
 
 \[Pub. L. 109–251, §3, Aug. 1, 2006, 120 Stat. 654, provided that: “This Act \[enacting note below and amending Pub. L. 108–61 set out above\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first.”\]
 
+\[Proc. No. 8294, Sept. 26, 2008, 73 F.R. 57223, provided: in par. (2), that beginning on Sept. 27, 2008, importation of Burmese covered articles into the United States is prohibited, subject to certain exceptions; in par. (3), that beginning on Sept. 27, 2008, importation of non-Burmese covered articles into the United States is subject to certain conditions, with certain exceptions; in par. (4), that the Secretary of the Treasury and the Secretary of Homeland Security are authorized to issue regulations, licenses, and orders and to conduct necessary investigations to implement the prohibition on Burmese covered articles and the conditions for importation of non-Burmese covered articles set forth in section 3A(b), (c) of Pub. L. 108–61, set out above, and also to redelegate those functions as necessary; in par. (5), that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to perform the functions set forth in section 3A(c)(2)(A) of Pub. L. 108–61 relating to the issuance of waivers and may redelegate those functions; in par. (6), that the United States Trade Representative is authorized to perform the functions specified in section 3A(b)(3)(A) of Pub. L. 108–61; and, in pars. (7) to (9), that the Secretary of State is authorized to perform the functions specified in sections 3(b) and 3A(b)(3)(B) of Pub. L. 108–61, as well as the functions in section 3A(g) of that Act, in consultation with the United States Trade Representative.\]
+
 \[Certain powers of President under sections 3(a) and 4 of Pub. L. 108–61, set out above, delegated to Secretary of the Treasury and functions and authorities of President under section 3(b) of Pub. L. 108–61 delegated to Secretary of State by section 9 of Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44854, listed in a table below.\]
 
-Provisions similar to those contained in section 5 of Pub. L. 108–61, set out above, were contained in the following appropriation acts:
+Provisions similar to those contained in section 5(a) of Pub. L. 108–61, set out above, were contained in the following appropriation acts:
 
 Pub. L. 110–161, div. J, title VI, §638(b)(1), Dec. 26, 2007, 121 Stat. 2333.
 
@@ -972,17 +1646,19 @@ Pub. L. 108–447, div. D, title V, §531(a), Dec. 8, 2004, 118 Stat. 3004.
 
 Pub. L. 108–199, div. D, title V, §531(a), Jan. 23, 2004, 118 Stat. 180.
 
-Pub. L. 110–52, §§1, 4, Aug. 1, 2007, 121 Stat. 264, provided that:
+Pub. L. 110–287, §1, July 29, 2008, 122 Stat. 2649, provided that:
 
-#### “SECTION 1. RENEWAL OF IMPORT RESTRICTIONS UNDER BURMESE FREEDOM AND DEMOCRACY ACT OF 2003.
+“(a)
 
-“Congress approves the renewal of import restrictions contained in section 3(a)(1) of the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out above\].
+In General.—Congress approves the renewal of the import restrictions contained in section 3(a)(1) of the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out above\].
 
-#### “SEC. 4. RULE OF CONSTRUCTION.
+“(b)
 
-“This joint resolution shall be deemed to be a ‘renewal resolution’ for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.”
+Rule of Construction.—This joint resolution shall be deemed to be a ‘renewal resolution’ for purposes of section 9 of the Burmese Freedom and Democracy Act of 2003.”
 
 Prior similar provisions were contained in the following Acts:
+
+Pub. L. 110–52, §§1, 4, Aug. 1, 2007, 121 Stat. 264.
 
 Pub. L. 109–251, §2, Aug. 1, 2006, 120 Stat. 654.
 
@@ -1058,7 +1734,7 @@ Government of sudan.—The term ‘Government of Sudan’ means the National Con
 
 “(a)
 
-Sudan Peace Act.—It is the sense of Congress that the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C.1701 note) remains relevant and should be extended to include the Darfur region of Sudan.
+Sudan Peace Act.—It is the sense of Congress that the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C. 1701 note) remains relevant and should be extended to include the Darfur region of Sudan.
 
 “(b)
 
@@ -1134,7 +1810,7 @@ Waiver.—The President may waive the application of subsection (a) or (b) if th
 
 “(e)
 
-Continuation of Restrictions.—Restrictions against the Government of Sudan that were imposed pursuant to title III and sections 508, 512, and 527 of the Foreign Operations, Export Financing, and Related Programs Act, 2004 (division D of Public Law 108–199;118 Stat. 143 \[162, 169, 170, 177\]), or any other similar provision of law, shall remain in effect against the Government of Sudan and may not be lifted pursuant to such provisions of law unless the President transmits a certification to the appropriate congressional committees in accordance with paragraph (2) of section 12(a) of the Sudan Peace Act (as added by section 5(a)(1) of this Act).
+Continuation of Restrictions.—Restrictions against the Government of Sudan that were imposedpursuant to title III and sections 508, 512, and 527 of the Foreign Operations, Export Financing, and Related Programs Act, 2004 (division D of Public Law 108–199; 118 Stat. 143 \[162, 169, 170, 177\]), or any other similar provision of law, shall remain in effect against the Government of Sudan and may not be lifted pursuant to such provisions of law unless the President transmits a certification to the appropriate congressional committees in accordance with paragraph (2) of section 12(a) of the Sudan Peace Act (as added by section 5(a)(1) of this Act).
 
 “(f)
 
@@ -1492,7 +2168,7 @@ Pub. L. 106–570, title V, §501, Dec. 27, 2000, 114 Stat. 3050, authorized the
 
 #### Iran, North Korea, and Syria Nonproliferation
 
-Pub. L. 106–178, Mar. 14, 2000, 114 Stat. 38, as amended by Pub. L. 107–228, div. B, title XIII, §1306, Sept. 30, 2002, 116 Stat. 1438; Pub. L. 109–112, §§3–4(e)(1), Nov. 22, 2005, 119 Stat. 2368, 2369; Pub. L. 109–353, §3, Oct. 13, 2006, 120 Stat. 2015, provided that:
+Pub. L. 106–178, Mar. 14, 2000, 114 Stat. 38, as amended by Pub. L. 107–228, div. B, title XIII, §1306, Sept. 30, 2002, 116 Stat. 1438; Pub. L. 109–112, §§3–4(e)(1), Nov. 22, 2005, 119 Stat. 2368, 2369; Pub. L. 109–353, §3, Oct. 13, 2006, 120 Stat. 2015; Pub. L. 110–329, div. A, §125, Sept. 30, 2008, 122 Stat. 3577, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -1716,9 +2392,7 @@ Extraordinary payments in connection with the international space station.—The
 
 &emsp;&emsp;“(A) for work on the International Space Station which the Russian Government pledged at any time to provide at its expense; or
 
-&emsp;&emsp;“(B) for work on the International Space Station, or for the purchase of goods or services relating to human space flight, that are not required to be made under the terms of a contract or other agreement that was in effect on January 1, 1999, as those terms were in effect on such date,
-
-> &emsp;except that such term does not mean payments in cash or in kind made or to be made by the United States Government prior to January 1, 2012, for work to be performed or services to be rendered prior to that date necessary to meet United States obligations under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
+&emsp;&emsp;“(B) for work on the International Space Station, or for the purchase of goods or services relating to human space flight, that are not required to be made under the terms of a contract or other agreement that was in effect on January 1, 1999, as those terms were in effect on such date, except that such term does not mean payments in cash or in kind made or to be made by the United States Government prior to July 1, 2016, for work to be performed or services to be rendered prior to that date necessary to meet United States obligations under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto.
 
 &emsp;“(2)
 
@@ -3038,7 +3712,9 @@ Ex. Ord. No. 13298, May 6, 2003, 68 F.R. 24857.
 
 Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13405 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
+
+&emsp;Notice of President of the United States, dated June 6, 2008, 73 F.R. 32981.
 
 &emsp;Notice of President of the United States, dated June 14, 2007, 72 F.R. 33381.
 
@@ -3047,6 +3723,8 @@ Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 Ex. Ord. No. 13047, May 20, 1997, 62 F.R. 28301, sections 1 to 7 of which were revoked by Ex. Ord. No. 13310, §12, July 28, 2003, 68 F.R. 44855, to the extent inconsistent with Ex. Ord. No. 13310.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 16, 2008, 73 F.R. 29035.
 
 &emsp;Notice of President of the United States, dated May 17, 2007, 72 F.R. 28447.
 
@@ -3072,11 +3750,15 @@ Ex. Ord. No. 13310, July 28, 2003, 68 F.R. 44853.
 
 Ex. Ord. No. 13448, Oct. 18, 2007, 72 F.R. 60223.
 
+Ex. Ord. No. 13464, Apr. 30, 2008, 73 F.R. 24491.
+
 #### Colombia
 
 Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 13286, §22, Feb. 28, 2003, 68 F.R. 10624.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 16, 2008, 73 F.R. 62433.
 
 &emsp;Notice of President of the United States, dated Oct. 18, 2007, 72 F.R. 59473.
 
@@ -3106,7 +3788,9 @@ Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 132
 
 Ex. Ord. No. 13396, Feb. 7, 2006, 71 F.R. 7389.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13396 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13396 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Feb. 5, 2008, 73 F.R. 7185.
 
 &emsp;Notice of President of the United States, dated Feb. 5, 2007, 72 F.R. 5593.
 
@@ -3115,6 +3799,8 @@ Ex. Ord. No. 13396, Feb. 7, 2006, 71 F.R. 7389.
 Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 13099, §§1, 2, Aug. 20, 1998, 63 F.R. 45167; Ex. Ord. No. 13372, §2, Feb. 16, 2005, 70 F.R. 8499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Jan. 18, 2008, 73 F.R. 3859.
 
 &emsp;Notice of President of the United States, dated Jan. 18, 2007, 72 F.R. 2595.
 
@@ -3143,6 +3829,8 @@ Ex. Ord. No. 12947, Jan. 23, 1995, 60 F.R. 5079, as amended by Ex. Ord. No. 1309
 Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, as amended by Ex. Ord. No. 13268, §1, July 2, 2002, 67 F.R. 44751; Ex. Ord. No. 13284, §4, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13372, §1, Feb. 16, 2005, 70 F.R. 8499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Sept. 18, 2008, 73 F.R. 54489.
 
 &emsp;Notice of President of the United States, dated Sept. 20, 2007, 72 F.R. 54205.
 
@@ -3177,6 +3865,8 @@ Ex. Ord. No. 12930, Sept. 29, 1994, 59 F.R. 50475, revoked by Ex. Ord. No. 12938
 Ex. Ord. No. 12938, Nov. 14, 1994, 59 F.R. 59099, as amended by Ex. Ord. No. 13094, §1, July 28, 1998, 63 F.R. 40803; Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34704; Ex. Ord. No. 13382, §4, June 28, 2005, 70 F.R. 38568.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 10, 2008, 73 F.R. 67097.
 
 &emsp;Notice of President of the United States, dated Nov. 8, 2007, 72 F.R. 63963.
 
@@ -3254,6 +3944,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
 
+&emsp;Notice of President of the United States, dated July 23, 2008, 73 F.R. 43603.
+
 &emsp;Notice of President of the United States, dated Aug. 15, 2007, 72 F.R. 46137.
 
 &emsp;Notice of President of the United States, dated Aug. 3, 2006, 71 F.R. 44551.
@@ -3270,7 +3962,9 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025.
 
 Ex. Ord. No. 13413, Oct. 27, 2006, 71 F.R. 64105.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13413 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13413 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 22, 2008, 73 F.R. 63619.
 
 &emsp;Notice of President of the United States, dated Oct. 24, 2007, 72 F.R. 61045.
 
@@ -3307,6 +4001,8 @@ Ex. Ord. No. 12932, Oct. 14, 1994, 59 F.R. 52403.
 Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 10, 2008, 73 F.R. 67357.
 
 &emsp;Notice of President of the United States, dated Nov. 8, 2007, 72 F.R. 63965.
 
@@ -3390,6 +4086,8 @@ Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 11, 2008, 73 F.R. 13727.
+
 &emsp;Notice of President of the United States, dated Mar. 8, 2007, 72 F.R. 10883.
 
 &emsp;Notice of President of the United States, dated Mar. 13, 2006, 71 F.R. 13241.
@@ -3420,7 +4118,7 @@ Ex. Ord. No. 13059, Aug. 19, 1997, 62 F.R. 44531.
 
 #### Iraq
 
-Ex. Ord. No. 12722, Aug. 2, 1990, 55 F.R. 31803, revoked by Ex. Ord. No. 12724, §6, Aug. 9, 1990, 55 F.R. 33090, to the extent inconsistent with Ex. Ord. No. 12724, and by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055.
+Ex. Ord. No. 12722, Aug. 2, 1990, 55 F.R. 31803, revoked by Ex. Ord. No. 12724, §6, Aug. 9, 1990, 55 F.R. 33090, tothe extent inconsistent with Ex. Ord. No. 12724, and by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12722 were contained in the following:
 
@@ -3458,6 +4156,8 @@ Ex. Ord. No. 13303, May 22, 2003, 68 F.R. 31931, as amended by Ex. Ord. No. 1336
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 20, 2008, 73 F.R. 29683.
+
 &emsp;Notice of President of the United States, dated May 18, 2007, 72 F.R. 28581.
 
 &emsp;Notice of President of the United States, dated May 18, 2006, 71 F.R. 29237.
@@ -3486,6 +4186,10 @@ Ex. Ord. No. 12771, July 25, 1991, 56 F.R. 35993.
 
 Ex. Ord. No. 13441, Aug. 1, 2007, 72 F.R. 43499.
 
+&emsp;Continuation of national emergency declared by Ex. Ord. No. 13441 was contained in the following:
+
+&emsp;Notice of President of the United States, dated July 30, 2008, 73 F.R. 44895.
+
 #### Liberia
 
 Ex. Ord. No. 13213, May 22, 2001, 66 F.R. 28829, as amended by Ex. Ord. No. 13312, §3(d), July 29, 2003, 68 F.R. 45152, revoked by Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
@@ -3495,6 +4199,8 @@ Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 Ex. Ord. No. 13348, July 22, 2004, 69 F.R. 44885.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13348 were contained in the following:
+
+&emsp;Notice of President of the United States, dated July 16, 2008, 73 F.R. 42255.
 
 &emsp;Notice of President of the United States, dated July 19, 2007, 72 F.R. 40059.
 
@@ -3566,6 +4272,10 @@ Ex. Ord. No. 12513, May 1, 1985, 50 F.R. 18629, revoked by Ex. Ord. No. 12707, M
 
 Ex. Ord. No. 12707, Mar. 13, 1990, 55 F.R. 9707.
 
+#### North Korea
+
+Ex. Ord. No. 13466, June 26, 2008, 73 F.R. 36787.
+
 #### Panama
 
 Ex. Ord. No. 12635, Apr. 8, 1988, 53 F.R. 12134, revoked by Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
@@ -3581,6 +4291,8 @@ Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099.
 Ex. Ord. No. 13159, June 21, 2000, 65 F.R. 39279.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13159 were contained in the following:
+
+&emsp;Notice of President of the United States, dated June 18, 2008, 73 F.R. 35335.
 
 &emsp;Notice of President of the United States, dated June 19, 2007, 72 F.R. 34159.
 
@@ -3626,6 +4338,8 @@ Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13067 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Oct. 30, 2008, 73 F.R. 65239.
+
 &emsp;Notice of President of the United States, dated Nov. 1, 2007, 72 F.R. 62407.
 
 &emsp;Notice of President of the United States, dated Nov. 1, 2006, 71 F.R. 64629.
@@ -3652,9 +4366,11 @@ Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61369.
 
 #### Syria
 
-Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751.
+Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, as amended by Ex. Ord. No. 13460, §2, Feb. 13, 2008, 73 F.R. 8991.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 7, 2008, 73 F.R. 26939.
 
 &emsp;Notice of President of the United States, dated May 8, 2007, 72 F.R. 26707.
 
@@ -3663,6 +4379,8 @@ Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751.
 &emsp;Notice of President of the United States, dated May 5, 2005, 70 F.R. 24697.
 
 Ex. Ord. No. 13399, Apr. 25, 2006, 71 F.R. 25059.
+
+Ex. Ord. No. 13460, Feb. 13, 2008, 73 F.R. 8991.
 
 #### Western Balkans
 
@@ -3716,6 +4434,8 @@ Ex. Ord. No. 13219, June 26, 2001, 66 F.R. 34777, as amended by Ex. Ord. No. 133
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13219 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 24, 2008, 73 F.R. 36255.
+
 &emsp;Notice of President of the United States, dated June 22, 2007, 72 F.R. 34981.
 
 &emsp;Notice of President of the United States, dated June 22, 2006, 71 F.R. 36183.
@@ -3736,6 +4456,8 @@ Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 1339
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 4, 2008, 73 F.R. 12005.
+
 &emsp;Notice of President of the United States, dated Feb. 28, 2007, 72 F.R. 9645.
 
 &emsp;Notice of President of the United States, dated Feb. 27, 2006, 71 F.R. 10603.
@@ -3743,4 +4465,6 @@ Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 1339
 &emsp;Notice of President of the United States, dated Mar. 2, 2005, 70 F.R. 10859.
 
 &emsp;Notice of President of the United States, dated Mar. 2, 2004, 69 F.R. 10313.
+
+Ex. Ord. No. 13469, July 25, 2008, 73 F.R. 43841.
 

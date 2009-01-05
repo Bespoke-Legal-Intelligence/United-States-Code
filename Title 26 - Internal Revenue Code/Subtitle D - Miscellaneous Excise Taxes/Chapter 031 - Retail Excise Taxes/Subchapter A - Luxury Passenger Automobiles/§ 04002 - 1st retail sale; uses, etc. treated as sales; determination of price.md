@@ -8,7 +8,7 @@ For purposes of this subchapter, the term “1st retail sale” means the 1st sa
 
 #### (1) In general
 
-&emsp;If any person uses a passenger vehicle (including any use after importation) before the1st retail sale of such vehicle, then such person shall be liable for tax under this subchapter in the same manner as if such vehicle were sold at retail by him.
+&emsp;If any person uses a passenger vehicle (including any use after importation) before the 1st retail sale of such vehicle, then such person shall be liable for tax under this subchapter in the same manner as if such vehicle were sold at retail by him.
 
 #### (2) Exemption for further manufacture
 

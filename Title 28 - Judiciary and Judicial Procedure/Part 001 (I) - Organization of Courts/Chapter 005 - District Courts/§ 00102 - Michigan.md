@@ -22,7 +22,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
 
-&emsp;&emsp;(2) The Northern Division comprises the counties of Alger, Baraga, Chippewa, Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft.
+&emsp;&emsp;(2) The Northern Division comprises the counties of Alger, Baraga, Chippewa,Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft.
 
 &emsp;&emsp;Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 

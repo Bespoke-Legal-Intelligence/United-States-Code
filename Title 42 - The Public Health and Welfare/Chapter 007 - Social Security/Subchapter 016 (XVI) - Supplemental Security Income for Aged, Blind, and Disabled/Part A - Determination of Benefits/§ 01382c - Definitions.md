@@ -54,7 +54,7 @@
 
 (V) Subclause (III) shall not apply to the representative payee of any individual with respect to whom the Commissioner determines such application would be inappropriate or unnecessary. In making such determination, the Commissioner shall take into consideration the nature of the individual's impairment (or combination of impairments). Section 1383(c) of this title shall not apply to a finding by the Commissioner that the requirements of subclause (III) should not apply to an individual's representative payee.
 
-(VI) Subclause (I) shall not apply in the case of an individual described in that subclause who, at the time of the individual's initial disability determination, the Commissioner determineshas an impairment that is not expected to improve within 12 months after the birth of that individual, and who the Commissioner schedules for a continuing disability review at a date that is after the individual attains 1 year of age.
+(VI) Subclause (I) shall not apply in the case of an individual described in that subclause who, at the time of the individual's initial disability determination, the Commissioner determines has an impairment that is not expected to improve within 12 months after the birth of that individual, and who the Commissioner schedules for a continuing disability review at a date that is after the individual attains 1 year of age.
 
 (I) In making any determination under this subchapter with respect to the disability of an individual who has not attained the age of 18 years and to whom section 421(h) of this title does not apply, the Commissioner of Social Security shall make reasonable efforts to ensure that a qualified pediatrician or other individual who specializes in a field of medicine appropriate to the disability of the individual (as determined by the Commissioner of Social Security) evaluates the case of such individual.
 
@@ -96,7 +96,7 @@
 
 > Nothing in this paragraph shall be construed to require a determination that an individual receiving benefits based on disability under this subchapter is entitled to such benefits if the prior determination was fraudulently obtained or if the individual is engaged in substantial gainful activity, cannot be located, or fails, without good cause, to cooperate in a review of his or her entitlement or to follow prescribed treatment which would be expected (i) to restore his or her ability to engage in substantial gainful activity, or (ii) in the case of an individual under the age of 18, to eliminate or improve the individual's impairment or combination of impairments so that it no longer results in marked and severe functional limitations. Any determination under this paragraph shall be made on the basis of all the evidence available in the individual's case file, including new evidence concerning the individual's prior or current condition which is presented by the individual or secured by the Commissioner of Social Security. Any determination made under this paragraph shall be made on the basis of the weight of the evidence and on a neutral basis with regard to the individual's condition, without any initial inference as to the presence or absence of disability being drawn from the fact that the individual has previously been determined to be disabled.
 
-(b) For purposes of this subchapter, the term “eligible spouse” means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual, and who, in a month, is living with such aged, blind, or disabled individual on the first day of the month or, in any case in which either spousefiles an application for benefits, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests restoration of eligibility under this subchapter during the month, at the time the request is filed. If two aged, blind, or disabled individuals are husband and wife as described in the preceding sentence, only one of them may be an “eligible individual” within the meaning of section 1382(a) of this title.
+(b) For purposes of this subchapter, the term “eligible spouse” means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual, and who, in a month, is living with such aged, blind, or disabled individual on the first day of the month or, in any case in which either spouse files an application for benefits, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests restoration of eligibility under this subchapter during the month, at the time the request is filed. If two aged, blind, or disabled individuals are husband and wife as described in the preceding sentence, only one of them may be an “eligible individual” within the meaning of section 1382(a) of this title.
 
 (c) For purposes of this subchapter, the term “child” means an individual who is neither married nor (as determined by the Commissioner of Social Security) the head of a household, and who is (1) under the age of eighteen, or (2) under the age of twenty-two and (as determined by the Commissioner of Social Security) a student regularly attending a school, college, or university, or a course of vocational or technical training designed to prepare him for gainful employment.
 
@@ -144,7 +144,7 @@ Subsec. (a)(3)(H)(iv). Pub. L. 105–33, §5522(a)(2), substituted “Except as 
 
 Subsec. (a)(4). Pub. L. 105–33, §5522(d), made technical correction to directory language of Pub. L. 104–193, §211(c). See 1996 Amendment notes below.
 
-1996—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical or mental impairment of comparable severity)” before period at end.
+1996—Subsec. (a)(3)(A). Pub. L. 104–193, §211(a)(1), (2), substituted “Except as provided in subparagraph (C), an individual” for “An individual” and struck out “(or, in the case of an individual under the age of 18, if he suffers from any medically determinable physical ormental impairment of comparable severity)” before period at end.
 
 Subsec. (a)(3)(C). Pub. L. 104–193, §211(a)(4), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -310,7 +310,7 @@ Report.—The Commissioner of Social Security shall report to the Congress regar
 
 “(4)
 
-Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[this subchapter\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
+Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shallsubmit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[this subchapter\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 “(5)
 
@@ -388,11 +388,11 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Section 203(b) of Pub. L. 96–265 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on October 1, 1980; except that the amendment made by such subsection shall not apply, in the case of any child who, in September 1980, was 18 or over and received a supplemental security income benefit for such month, during any period for which such benefit would be greater without the application of such amendment.”
 
-Amendment by section 302(a)(2) of Pub. L. 96–265 applicable with respect to expenses incurred on or afterthe first day of the sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
+Amendment by section 302(a)(2) of Pub. L. 96–265 applicable with respect to expenses incurred on or after the first day of the sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
 
 Amendment by section 303(c)(1) of Pub. L. 96–265 effective on first day of sixth month which begins after June 9, 1980, and applicable with respect to any individual whose disability has not been determined to have ceased prior to such first day, see section 303(d) of Pub. L. 96–265, set out as a note under section 402 of this title.
 
-Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c) of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
+Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c)of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
 
 #### Effective Date
 

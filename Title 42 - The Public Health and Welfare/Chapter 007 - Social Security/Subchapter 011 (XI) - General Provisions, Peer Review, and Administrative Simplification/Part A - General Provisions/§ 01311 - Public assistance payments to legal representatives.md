@@ -16,5 +16,5 @@ Part A of subchapter IV of this chapter, referred to in text, is classified to s
 
 #### Effective Date
 
-Section 511(b) of Pub. L. 85–840 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be applicable in the case of payments to legal representatives by any State made after June 30, 1958; and to such payments by any State made after December 31, 1955, and prior to July 1, 1958, if certifications for payment to such State have been made bythe Secretary of Health, Education, and Welfare with respect thereto, or such State has presented to the Secretary a claim (and such other data as the Secretary may require) with respect thereto, prior to July 1, 1959.”
+Section 511(b) of Pub. L. 85–840 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be applicable in the case of payments to legal representatives by any State made after June 30, 1958; and to such payments by any State made after December 31, 1955, and prior to July 1, 1958, if certifications for payment to such State have been made by the Secretary of Health, Education, and Welfare with respect thereto, or such State has presented to the Secretary a claim (and such other data as the Secretary may require) with respect thereto, prior to July 1, 1959.”
 

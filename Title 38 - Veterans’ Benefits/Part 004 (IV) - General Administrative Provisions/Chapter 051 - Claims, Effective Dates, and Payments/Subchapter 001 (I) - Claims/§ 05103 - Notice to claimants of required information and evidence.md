@@ -2,7 +2,19 @@
 
 (a)
 
-Required Information and Evidence.—Upon receipt of a complete or substantially complete application, the Secretary shall notify the claimant and the claimant's representative, if any, of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
+Required Information and Evidence.—(1) Upon receipt of a complete or substantially complete application, the Secretary shall notify the claimant and the claimant's representative, if any, of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
+
+(2)(A) The Secretary shall prescribe in regulations requirements relating to the contents of notice to be provided under this subsection.
+
+(B) The regulations required by this paragraph—
+
+&emsp;(i) shall specify different contents for notice based on whether the claim concerned is an original claim, a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;
+
+&emsp;(ii) shall provide that the contents for such notice be appropriate to the type of benefits or services sought under the claim;
+
+&emsp;(iii) shall specify for each type of claim for benefits the general information and evidence required to substantiate the basic elements of such type of claim; and
+
+&emsp;(iv) shall specify the time period limitations required pursuant to subsection (b).
 
 (b)
 
@@ -12,7 +24,7 @@ Time Limitation.—(1) In the case of information or evidence that the claimant 
 
 (3) Nothing in paragraph (1) shall be construed to prohibit the Secretary from making a decision on a claim before the expiration of the period referred to in that subsection.
 
-(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670.)
+(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, §8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, §701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L. 110–389, title I, §101(a), Oct. 10, 2008, 122 Stat. 4147.)
 
 #### Prior Provisions
 
@@ -21,6 +33,8 @@ A prior section 5103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3003; Pu
 Another prior section 5103 was renumbered section 8303 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–389 designated existing provisions as par. (1) and added par. (2).
 
 2003—Subsec. (b)(1). Pub. L. 108–183, §701(b)(1), substituted “such information or evidence must be received by the Secretary within one year from the date such notice is sent” for “if such information or evidence is not received by the Secretary within one year from the date of such notification, no benefit may be paid or furnished by reason of the claimant's application”.
 
@@ -31,6 +45,10 @@ Subsec. (b)(3). Pub. L. 108–183, §701(b)(2), added par. (3).
 #### Effective Date of 2003 Amendment
 
 Amendment effective as if enacted Nov. 9, 2000, immediately after the enactment of the Veterans Claims Assistance Act of 2000, Pub. L. 106–475, see section 701(c) of Pub. L. 108–183, set out as a note under section 5102 of this title.
+
+#### Applicability of Regulations
+
+Pub. L. 110–389, title I, §101(b), Oct. 10, 2008, 122 Stat. 4148, provided that: “The regulations required by paragraph (2) of section 5103(a) of title 38, United States Code (as amended by subsection (a) of this section), shall apply with respect to notices provided to claimants on or after the effective date of such regulations.”
 
 #### Readjudication of Certain Claims; Notice
 

@@ -2,19 +2,7 @@
 
 #### (a) Repealed. Pub. L. 101–73, title VII, §712, Aug. 9, 1989, 103 Stat. 419
 
-#### (b) Assessments for administrative expenses
-
-#### (1) In general
-
-&emsp;The Board may impose a semiannual assessment on the Federal Home Loan Banks, the aggregate amount of which is sufficient to provide for the payment of the Board's estimated expenses for the period for which such assessment is made.
-
-#### (2) Deficiencies
-
-&emsp;If, at any time, amounts available from any assessment for any semiannual period are insufficient to cover the expenses of the Board incurred in carrying out the provisions of this chapter during such period, the Board may make an immediate assessment against the Banks to cover the amount of the deficiency for such semiannual period.
-
-#### (3) Surpluses
-
-&emsp;If, at the end of any semiannual period for which an assessment is made, any amount remains from such assessment, such amount will be deducted from the assessment on the Banks by the Board for the following semiannual period.
+#### (b) Repealed. Pub. L. 110–289, div. A , title II, §1204(2), July 30, 2008, 122 Stat. 2786
 
 #### (c) Quarters and facilities; advances of funds; obligations of United States; legal investments; approval of plans and designs; custody, management, and control; receipts; expense exclusions; property defined; budget preparation program; audit; zoning regulations; delegation of functions; limitation on obligations
 
@@ -36,11 +24,11 @@
 
 (5) Any proceeds (including advances) received by the Director of the Office of Thrift Supervision in connection with this subsection, and any proceeds from the sale or other disposition of real or other property acquired by the Director of the Office of Thrift Supervision under this subsection, shall be considered as receipts of the Director of the Office of Thrift Supervision, and obligations and expenditures of the Director of the Office of Thrift Supervision and such agencies in connection with this subsection shall not be considered as administrative expenses. As used in this subsection, the term “property” shall include interests in property.
 
-(6) With respect to its functions under this subsection the Director of the Office of Thrift Supervision shall (A) annually prepare and submit a budget program as provided in chapter 91 of title 31 with regard to wholly owned Government corporations, and for purposes of this sentence, the terms “wholly owned Government corporations” and “Government corporations,” wherever used in such chapter, shall include the Director of the Office of Thrift Supervision, and (B) maintain an integral set of accounts which shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions as provided in such title, and no other settlement or adjustment shall be required with respect to transactions under this subsection or with respect to claims, demands, or accounts by or against any person arising thereunder. The first budget program shall be for the first full fiscal year beginning on or after the date of the enactment of this subsection. Except as otherwise provided in this subsection or by the Director of the Office of Thrift Supervision, the provisions of this subsection and the functions thereby or thereunder subsisting shall be applicable and exercisable notwithstanding and without regard to the Act of June 20, 1938, except that the proviso of section 16 thereof shall apply to any building constructed under this subsection, and section 306 of the Act of July 30, 1947 (61 Stat. 584), or any other provision of law relating to the construction, alteration, repair, or furnishing of public or other buildings or structures or the obtaining of sites therefor, but any person or body in whom any such function is vested may provide for delegation or redelegation of the exercise of such function.
+(6) With respect to its functions under this subsection the Director of the Office of Thrift Supervision shall (A) annually prepare and submit a budget program as provided in chapter 91 of title 31 with regard to wholly owned Government corporations, and for purposes of this sentence, the terms “wholly owned Government corporations” and “Government corporations,” wherever used in such chapter, shall include the Director of the Office of Thrift Supervision, and (B) maintain an integral set of accounts which shall be audited by the Government Accountability Office in accordance with the principlesand procedures applicable to commercial corporate transactions as provided in such title, and no other settlement or adjustment shall be required with respect to transactions under this subsection or with respect to claims, demands, or accounts by or against any person arising thereunder. The first budget program shall be for the first full fiscal year beginning on or after the date of the enactment of this subsection. Except as otherwise provided in this subsection or by the Director of the Office of Thrift Supervision, the provisions of this subsection and the functions thereby or thereunder subsisting shall be applicable and exercisable notwithstanding and without regard to the Act of June 20, 1938, except that the proviso of section 16 thereof shall apply to any building constructed under this subsection, and section 306 of the Act of July 30, 1947 (61 Stat. 584), or any other provision of law relating to the construction, alteration, repair, or furnishing of public or other buildings or structures or the obtaining of sites therefor, but any person or body in whom any such function is vested may provide for delegation or redelegation of the exercise of such function.
 
 (7) No obligation shall be incurred and no expenditure, except in liquidation of obligation, shall be made pursuant to the first two subparagraphs of paragraph (1) of this subsection if the total amount of all obligations incurred pursuant thereto would thereupon exceed $13,200,000, or such greater amount as may be provided in an appropriation Act or other law.
 
-(July 22, 1932, ch. 522, §18, 47 Stat. 737; Pub. L. 89–754, title X, §1016(b), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 101–73, title VII, §§701(b)(2), (b)(3)(B), 711, 712, Aug. 9, 1989, 103 Stat. 412, 419; Pub. L. 104–66, title II, §2191, Dec. 21, 1995, 109 Stat. 732; Pub. L. 106–102, title VI, §606(h), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(July 22, 1932, ch. 522, §18, 47 Stat. 737; Pub. L. 89–754, title X, §1016(b), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 101–73, title VII, §§701(b)(2), (b)(3)(B), 711, 712, Aug. 9, 1989, 103 Stat. 412, 419; Pub. L. 104–66, title II, §2191, Dec. 21, 1995, 109 Stat. 732; Pub. L. 106–102, title VI, §606(h), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title II, §1204(2), July 30, 2008, 122 Stat. 2786.)
 
 #### References in Text
 
@@ -55,6 +43,8 @@ Section 306 of the Act of July 30, 1947, referred to in subsec. (c)(6), is secti
 In subsec. (c)(6), “chapter 91 of title 31” and “such chapter” substituted for “title I of the Government Corporation Control Act \[31 U.S.C. 846 et seq.\]” and “such title”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–289 struck out subsec. (b) which related to assessments for administrative expenses.
 
 2004—Subsec. (c)(6). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

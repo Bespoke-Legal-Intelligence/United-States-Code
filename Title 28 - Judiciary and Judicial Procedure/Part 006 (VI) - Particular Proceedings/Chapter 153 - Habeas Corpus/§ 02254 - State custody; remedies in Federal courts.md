@@ -1,6 +1,6 @@
 ### §2254. State custody; remedies in Federal courts
 
-(a) The Supreme Court, a Justice thereof, a circuit judge, or a district court shall entertain an application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States.
+(a) The Supreme Court, a Justice thereof, a circuit judge, or a district court shall entertainan application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States.
 
 (b)(1) An application for a writ of habeas corpus on behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that—
 
@@ -36,7 +36,7 @@
 
 (f) If the applicant challenges the sufficiency of the evidence adduced in such State court proceeding to support the State court's determination of a factual issue made therein, the applicant, if able, shall produce that part of the record pertinent to a determination of the sufficiency of the evidence to support such determination. If the applicant, because of indigency or other reason is unable to produce such part of the record, then the State shall produce such part of the record and the Federal court shall direct the State to do so by order directed to an appropriate State official. If the State cannot provide such pertinent part of the record, then the court shall determine under the existing facts and circumstances what weight shall be given to the State court's factual determination.
 
-(g) A copy of the official records of the State court, duly certified by the clerk of such courtto be a true and correct copy of a finding, judicial opinion, or other reliable written indicia showing such a factual determination by the State court shall be admissible in the Federal court proceeding.
+(g) A copy of the official records of the State court, duly certified by the clerk of such court to be a true and correct copy of a finding, judicial opinion, or other reliable written indicia showing such a factual determination by the State court shall be admissible in the Federal court proceeding.
 
 (h) Except as provided in section 408 of the Controlled Substances Act, in all proceedings brought under this section, and any subsequent proceedings on review, the court may appoint counsel for an applicant who is or becomes financially unable to afford counsel, except as provided by a rule promulgated by the Supreme Court pursuant to statutory authority. Appointment of counsel under this section shall be governed by section 3006A of title 18.
 
@@ -54,7 +54,7 @@ Senate amendment to this section, Senate Report No. 1559, amendment No. 47, has 
 
 “The first is to eliminate from the prohibition of the section applications in behalf of prisoners in custody under authority of a State officer but whose custody has not been directed by the judgment of a State court. If the section were applied to applications by persons detained solely under authority of a State officer it would unduly hamper Federal courts in the protection of Federal officers prosecuted for acts committed in the course of official duty.
 
-“The second purpose is to eliminate, as a ground of Federal jurisdiction to review by habeas corpus judgments of State courts, the proposition that the State court has denied a prisoner a ‘fair adjudication of the legality of his detention under the Constitution and laws of the United States.’ The Judicial Conference believes that this would be an undesirable ground for Federal jurisdiction in addition to exhaustion of State remedies or lack of adequate remedy in the State courts because it would permit proceedings in the Federal court on this ground before the petitioner had exhausted his State remedies. This ground would, of course, always be open to a petitioner to assert in the Federal court after he had exhausted his State remedies or if he had no adequate State remedy.
+“The second purpose is to eliminate, as a ground of Federal jurisdiction to review by habeas corpus judgments of State courts, the proposition that the State court has denied a prisoner a ‘fair adjudication of the legality of his detention under the Constitution and laws of the United States.’ The Judicial Conference believes that this would be an undesirable ground for Federal jurisdiction in addition to exhaustion of State remedies or lack of adequate remedy in the State courts because it would permit proceedings in the Federal court on this ground before the petitioner had exhausted his State remedies. This ground would, of course, always be open to a petitioner to assert in theFederal court after he had exhausted his State remedies or if he had no adequate State remedy.
 
 “The third purpose is to substitute detailed and specific language for the phrase ‘no adequate remedy available.’ That phrase is not sufficiently specific and precise, and its meaning should, therefore, be spelled out in more detail in the section as is done by the amendment.”
 
@@ -88,7 +88,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 8, 2008)</i>
+#### (<i>Effective February 1, 1977, as amended to January 5, 2009)</i>
 
 Rule
 
@@ -172,7 +172,7 @@ The basic scope of habeas corpus is prescribed by statute. 28 U.S.C. §2241(c) p
 
 In <i>Preiser v. Rodriguez, supra</i>, the court said: “It is clear . . . that the essence of habeas corpus is an attack by a person in custody upon the legality of that custody, and that the traditional function of the writ is to secure release from illegal custody.” 411 U.S. at 484.
 
-Initially the Supreme Court held that habeas corpus was appropriate only in those situations in which petitioner's claim would, if upheld, result in an immediate release from a present custody. <i>McNally v. Hill</i>, 293 U.S. 131 (1934). This was changed in <i>Peyton v. Rowe</i>, 391 U.S. 54 (1968), in which the court held that habeas corpus was a proper way to attack a consecutive sentence to be served in the future, expressing the view that consecutive sentences resulted in present custody under both judgments, not merely the one imposing the first sentence. This view was expanded in <i>Carafas v. LaVallee</i>, 391 U.S. 234 (1968), to recognize the propriety of habeas corpus in a case in which petitioner was in custody when the petition had been originally filed but had since been unconditionally released from custody.
+Initially the Supreme Court held that habeas corpus was appropriate only in those situations in which petitioner's claim would, if upheld, result in an immediate release from a present custody. <i>McNally v. Hill</i>, 293 U.S. 131 (1934). This was changed in <i>Peyton v. Rowe</i>, 391 U.S. 54 (1968), in which the court held that habeas corpus was a proper way to attack a consecutive sentence to be served in the future, expressing the view that consecutive sentences resulted in present custody under both judgments, not merely the one imposing the firstsentence. This view was expanded in <i>Carafas v. LaVallee</i>, 391 U.S. 234 (1968), to recognize the propriety of habeas corpus in a case in which petitioner was in custody when the petition had been originally filed but had since been unconditionally released from custody.
 
 See also <i>Preiser v. Rodriguez</i>, 411 U.S. at 486 et seq.
 
@@ -278,7 +278,7 @@ The requirement of a standard form benefits the petitioner as well. His assertio
 
 Some commentators have suggested that the use of forms is of little help because the questions usually are too general, amounting to little more than a restatement of the statute. They contend the blanks permit a prisoner to fill in the same ambiguous answers he would have offered without the aid of a form. See Comment, Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1177–1178 (1970). Certainly, as long as the statute requires factual pleading, the adequacy of a petition will continue to be affected largely by the petitioner's intelligence and the legal advice available to him. On balance, however, the use of forms has contributed enough to warrant mandating their use.
 
-Giving the petitioner a list of often-raised grounds may, it is said, encourage perjury. See Comment, Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1178 (1970). Most inmates are aware of, or have access to, some common constitutional grounds for relief. Thus, the risk of perjury is not likely to be substantially increased and the benefit of the list for some inmates seems sufficient to outweigh any slight risk that perjury will increase. There is a penalty for perjury, and this would seem the most appropriate way to try to discourage it.
+Giving the petitioner a list of often-raised grounds may, it is said, encourage perjury. See Comment, Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1178 (1970). Most inmates are aware of, or have access to, some common constitutional grounds for relief. Thus, the risk of perjury is not likely to be substantially increased and the benefit of the list for some inmates seems sufficient to outweigh any slightrisk that perjury will increase. There is a penalty for perjury, and this would seem the most appropriate way to try to discourage it.
 
 Legal assistance is increasingly available to inmates either through paraprofessional programs involving law students or special programs staffed by members of the bar. See Jacob and Sharma, Justice After Trial: Prisoners’ Need for Legal Services in the Criminal-Correctional Process, 18 Kan.L.Rev. 493 (1970). In these situations, the prescribed form can be filled out more competently, and it does serve to ensure a degree of uniformity in the manner in which habeas corpus claims are presented.
 
@@ -302,7 +302,7 @@ Subdivision (c). The amendment takes into account 28 U.S.C. §1746, enacted afte
 
 The language of Rule 2 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
 
-Revised Rule 2(c)(5) has been amended by removing the requirement that the petition be signed personally by the petitioner. As reflected in 28 U.S.C. §2242, an application for habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person. <i>See, e.g., Whitmore v. Arkansas</i>, 495 U.S. 149 (1990) (discussion of requisites for “next friend” standing in petition for habeas corpus). Thus, under the, \[sic\] amended rule the petition may be signed by petitioner personally or by someone acting on behalf of the petitioner, assuming that the person is authorized to do so, for example, an attorney for the petitioner.The Committee envisions that the courts will apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the petition on behalf of the petitioner.
+Revised Rule 2(c)(5) has been amended by removing the requirement that the petition be signed personally by the petitioner. As reflected in 28 U.S.C. §2242, an application for habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person. <i>See, e.g., Whitmore v. Arkansas</i>, 495 U.S. 149 (1990) (discussion of requisites for “next friend” standing in petition for habeas corpus). Thus, under the, \[sic\] amended rule the petition may be signed by petitioner personally or by someone acting on behalf of the petitioner, assuming that the person is authorized to do so, for example, an attorney for the petitioner. The Committee envisions that the courts will apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the petition on behalf of the petitioner.
 
 The language in new Rule 2(d) has been changed to reflect that a petitioner must substantially follow the standard form, which is appended to the rules, or a form provided by the court. The current rule, Rule 2(c), seems to indicate a preference for the standard “national” form. Under the amended rule, there is no stated preference. The Committee understood that current practice in some courts is that if the petitioner first files a petition using the national form, the courts may then ask the petitioner to supplement it with the local form.
 
@@ -314,7 +314,7 @@ Rule 2(c)(4) was modified to account for those cases where the petitioner prints
 
 #### Amendments by Public Law
 
-1976—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
+1976—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struckout requirement that the petition follow the prescribed form.
 
 Subd. (e). Pub. L. 94–426, §2(2), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
 
@@ -392,7 +392,7 @@ It has been suggested that an answer should be required in every habeas proceedi
 
 In the event an answer is ordered under rule 4, the court is accorded greater flexibility than under §2243 in determining within what time period an answer must be made. Under §2243, the respondent must make a return within three days after being so ordered, with additional time of up to forty days allowed under the Federal Rules of Civil Procedure, Rule 81(a)(2), for good cause. In view of the widespread state of work overload in prosecutors’ offices (see, <i>e.g., Allen</i>, 424 F.2d at 141), additional time is granted in some jurisdictions as a matter of course. Rule 4, which contains no fixed time requirement, gives the court the discretion to take into account various factors such as the respondent's workload and the availability of transcripts before determining a time within which an answer must be made.
 
-Rule 4 authorizes the judge to “take such other action as the judge deems appropriate.” This is designedto afford the judge flexibility in a case where either dismissal or an order to answer may be inappropriate. For example, the judge may want to authorize the respondent to make a motion to dismiss based upon information furnished by respondent, which may show that petitioner's claims have already been decided on the merits in a federal court; that petitioner has failed to exhaust state remedies; that the petitioner is not in custody within the meaning of 28 U.S.C. §2254; or that a decision in the matter is pending in state court. In these situations, a dismissal may be called for on procedural grounds, which may avoid burdening the respondent with the necessity of filing an answer on the substantive merits of the petition. In other situations, the judge may want to consider a motion from respondent to make the petition more certain. Or the judge may want to dismiss some allegations in the petition, requiring the respondent to answer only those claims which appear to have some arguable merit.
+Rule 4 authorizes the judge to “take such other action as the judge deems appropriate.” This is designed to afford the judge flexibility in a case where either dismissal or an order to answer may be inappropriate. For example, the judge may want to authorize the respondent to make a motion to dismiss based upon information furnished by respondent, which may show that petitioner's claims have already been decided on the merits in a federal court; that petitioner has failed to exhaust state remedies; that the petitioner is not in custody within the meaning of 28 U.S.C. §2254; or that a decision in the matter is pending in state court. In these situations, a dismissal may be called for on procedural grounds, which may avoid burdening the respondent with the necessity of filing an answer on the substantive merits of the petition. In other situations, the judge may want to consider a motion from respondent to make the petition more certain. Or the judge may want to dismiss some allegations in the petition, requiring the respondent to answer only those claims which appear to have some arguable merit.
 
 Rule 4 requires that a copy of the petition and any order be served by certified mail on the respondent and the attorney general of the state involved. See 28 U.S.C. §2252. Presently, the respondent often does not receive a copy of the petition unless the court directs an answer under 28 U.S.C. §2243. Although the attorney general is served, he is not required to answer if it is more appropriate for some other agency to do so. Although the rule does not specifically so provide, it is assumed that copies of the court orders to respondent will be mailed to petitioner by the court.
 
@@ -404,7 +404,7 @@ The amended rule reflects that the response to a habeas petition may be a motion
 
 The requirement that in every case the clerk must serve a copy of the petition on the respondent by certified mail has been deleted. In addition, the current requirement that the petition be sent to the Attorney General of the state has been modified to reflect practice in some jurisdictions that the appropriate state official may be someone other than the Attorney General, for example, the officer in charge of a local confinement facility. This comports with a similar provision in 28 U.S.C. §2252, which addresses notice of habeas corpus proceedings to the state's attorney general or other appropriate officer of the state.
 
-<i>Changes Made After Publication and Comments</i>. The Rule was modified slightly to reflect the view of some commentators that it is common practice in some districts for the government to file a pre-answer motion to dismiss. The Committee agreed with that recommendation and changed the word “pleading” in the rule to “response.” It also made several minor changes to the Committee Note.
+<i>Changes Made After Publication and Comments</i>. The Rule was modified slightly to reflect the view of somecommentators that it is common practice in some districts for the government to file a pre-answer motion to dismiss. The Committee agreed with that recommendation and changed the word “pleading” in the rule to “response.” It also made several minor changes to the Committee Note.
 
 ### Rule 5. The Answer and the Reply
 
@@ -448,7 +448,7 @@ The answer must respond to the allegations of the petition. While some districts
 
 The answer must also state whether the petitioner has exhausted his state remedies. This is a prerequisite to eligibility for the writ under 28 U.S.C. §2254(b) and applies to every ground the petitioner raises. Most form petitions now in use contain questions requiring information relevant to whether the petitioner has exhausted his remedies. However, the exhaustion requirement is often not understood by the unrepresented petitioner. The attorney general has both the legal expertise and access to the record and thus is in a much better position to inform the court on the matter of exhaustion of state remedies. An alleged failure to exhaust state remedies as to any ground in the petition may be raised by a motion by the attorney general, thus avoiding the necessity of a formal answer as to that ground.
 
-The rule requires the answer to indicate what transcripts are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guiltyplea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
+The rule requires the answer to indicate what transcripts are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guilty plea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
 
 Where transcripts are unavailable, the rule provides that a narrative summary of the evidence may be submitted.
 
@@ -498,7 +498,7 @@ Deposition Expenses. If the respondent is granted leave to take a deposition, th
 
 #### Advisory Committee Note
 
-This rule prescribes the procedures governing discovery in habeas corpus cases. Subdivision (a) providesthat any party may utilize the processes of discovery available under the Federal Rules of Civil Procedure (rules 26–37) if, and to the extent that, the judge allows. It also provides for the appointment of counsel for a petitioner who qualifies for this when counsel is necessary for effective utilization of discovery procedures permitted by the judge.
+This rule prescribes the procedures governing discovery in habeas corpus cases. Subdivision (a) provides that any party may utilize the processes of discovery available under the Federal Rules of Civil Procedure (rules 26–37) if, and to the extent that, the judge allows. It also provides for the appointment of counsel for a petitioner who qualifies for this when counsel is necessary for effective utilization of discovery procedures permitted by the judge.
 
 Subdivision (a) is consistent with <i>Harris v. Nelson</i>, 394 U.S. 286 (1969). In that case the court noted,
 
@@ -520,7 +520,7 @@ The court concluded that the issue of discovery in habeas corpus cases could bes
 
 Discovery may, in appropriate cases, aid in developing facts necessary to decide whether to order an evidentiary hearing or to grant the writ following an evidentiary hearing:
 
-> &emsp;We are aware that confinement sometimes induces fantasy which has its basis in the paranoia of prison rather than in fact. But where specific allegations before the court show reason to believe that the petitioner may, if the facts are fully developed, be able to demonstrate that he is confined illegally and is therefore entitled to relief, it is the duty of the court to provide the necessary facilities and procedures for an adequate inquiry. Obviously, in exercising this power, the court may utilize familiar procedures, as appropriate, whether these are found in the civil or criminal rules or elsewhere in the “usages and principles.”
+> &emsp;We are aware that confinement sometimes induces fantasy which has its basis in the paranoia of prison rather than in fact. But where specific allegations before the court show reason to believe that the petitioner may, if the facts are fully developed, be able to demonstrate that he is confined illegally and is therefore entitled to relief, it is the duty of the court to provide the necessary facilities and procedures foran adequate inquiry. Obviously, in exercising this power, the court may utilize familiar procedures, as appropriate, whether these are found in the civil or criminal rules or elsewhere in the “usages and principles.”
 
 Granting discovery is left to the discretion of the court, discretion to be exercised where there is a showing of good cause why discovery should be allowed. Several commentators have suggested that at least some discovery should be permitted without leave of court. It is argued that the courts will be burdened with weighing the propriety of requests to which the discovered party has no objection. Additionally, the availability of protective orders under Fed.R.Civ.R., Rules 30(b) and 31(d) will provide the necessary safeguards. See Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1186–87 (1970); Civil Discovery in Habeas Corpus, 67 Colum.L.Rev. 1296, 1310 (1967).
 
@@ -598,7 +598,7 @@ The language in current Rule 7(d), which deals with authentication of materials 
 
 (a)
 
-Determining Whether to Hold a Hearing. If the petition is not dismissed, the judge mustreview the answer, any transcripts and records of state-court proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
+Determining Whether to Hold a Hearing. If the petition is not dismissed, the judge must review the answer, any transcripts and records of state-court proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
 
 (b)
 
@@ -616,7 +616,7 @@ This rule outlines the procedure to be followed by the court immediately prior t
 
 The provisions are applicable if the petition has not been dismissed at a previous stage in the proceeding \[including a summary dismissal under rule 4; a dismissal pursuant to a motion by the respondent; a dismissal after the answer and petition are considered; or a dismissal after consideration of the pleadings and an expanded record\].
 
-If dismissal has not been ordered, the court must determine whether an evidentiary hearing is required. This determination is to be made upon a review of the answer, the transcript and record of state court proceedings, and if there is one, the expanded record. As the United States Supreme Court noted in <i>Townsend v. Sam</i>, 372 U.S. 293, 319 (1963):
+If dismissal has not been ordered, the court must determine whether an evidentiary hearing is required. This determination is to be made upon a review of the answer, the transcript and record of state court proceedings, and if there is one, the expanded record. Asthe United States Supreme Court noted in <i>Townsend v. Sam</i>, 372 U.S. 293, 319 (1963):
 
 > &emsp;Ordinarily \[the complete state-court\] record—including the transcript of testimony (or if unavailable some adequate substitute, such as a narrative record), the pleadings, court opinions, and other pertinent documents—is indispensable to determining whether the habeas applicant received a full and fair state-court evidentiary hearing resulting in reliable findings.
 
@@ -710,7 +710,7 @@ In <i>McMann v. Richardson</i>, 397 U.S. 759 (1970), the court made reference to
 
 #### 397 U.S. at 773
 
-The court refused to allow this, intimating its dislike of collateral attacks on sentences long since imposed which disrupt the state's interest in finality of convictions which were constitutionally valid when obtained.
+The court refused to allow this, intimating its dislike of collateral attacks on sentences long since imposedwhich disrupt the state's interest in finality of convictions which were constitutionally valid when obtained.
 
 Subdivision (a) is not a statute of limitations. Rather, the limitation is based on the equitable doctrine of laches. “Laches is such delay in enforcing one's rights as works disadvantage to another.” 30A C.J.S. Equity §112, p. 19. Also, the language of the subdivision, “a petition <i>may</i> be dismissed” \[emphasis added\], is permissive rather than mandatory. This clearly allows the court which is considering the petition to use discretion in assessing the equities of the particular situation.
 
@@ -764,7 +764,7 @@ Subdivision (b) is consistent with the important and well established purpose of
 
 #### 373 U.S. at 18
 
-> There are instances in which petitioner's failure to assert a ground in a prior petition is excusable. A retroactive change in the law and newly discovered evidence are examples. In rare instances, the court may feel a need to entertain a petition alleging grounds that have already been decided on the merits. <i>Sanders</i>, 373 U.S. at 1, 16. However, abusive use of the writ should be discouraged, and instances of abuse are frequent enough to require a means of dealing with them. For example, a successive application, already decided on the merits, may be submitted in the hope of getting before a different judge in multijudge courts. A known ground may be deliberately withheld in the hope of getting two or more hearings or in the hope that delay will result in witnesses and records being lost. There are instances in which a petitioner will have three or four petitions pending at the same time in the same court. There are many hundreds of cases where the application is at least the second one by the petitioner. This subdivision is aimed at screening out the abusive petitions from this large volume, so that the more meritorious petitions can get quicker and fuller consideration.
+> There are instances in which petitioner's failure to assert a ground in a prior petition is excusable. A retroactive change in the law and newly discovered evidence are examples. In rare instances, the court may feel a need to entertain a petition alleging grounds that have already been decided on the merits. <i>Sanders</i>, 373 U.S. at1, 16. However, abusive use of the writ should be discouraged, and instances of abuse are frequent enough to require a means of dealing with them. For example, a successive application, already decided on the merits, may be submitted in the hope of getting before a different judge in multijudge courts. A known ground may be deliberately withheld in the hope of getting two or more hearings or in the hope that delay will result in witnesses and records being lost. There are instances in which a petitioner will have three or four petitions pending at the same time in the same court. There are many hundreds of cases where the application is at least the second one by the petitioner. This subdivision is aimed at screening out the abusive petitions from this large volume, so that the more meritorious petitions can get quicker and fuller consideration.
 
 The form petition, supplied in accordance with rule 2(c), encourages the petitioner to raise all of his available grounds in one petition. It sets out the most common grounds asserted so that these may be brought to his attention.
 
@@ -798,7 +798,7 @@ Finally, the title of Rule 9 has been changed to reflect the fact that the only 
 
 #### Amendments by Public Law
 
-1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption ofprejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
@@ -818,7 +818,7 @@ Under 28 U.S.C. §636(b), any district court,
 
 > &emsp;by the concurrence of a majority of all the judges of such district court, may establish rules pursuant to which any full-time United States magistrate \* \* \* may be assigned within the territorial jurisdiction of such court such additional duties as are not inconsistent with the Constitution and laws of the United States.
 
-> The proposed rule recognizes the limitations imposed by 28 U.S.C. §636(b) upon the powers of magistrates to act in federal postconviction proceedings. These limitations are: (1) that the magistrate may act only pursuant to a rule passed by the majority of the judges in the district court in which the magistrate serves, and (2) that the duties performed by the magistrate pursuant to such rule be consistent with the Constitution and laws of the United States.
+> The proposed rule recognizes the limitations imposed by 28 U.S.C. §636(b) upon the powers of magistrates to act in federal postconviction proceedings. These limitations are: (1) that the magistrate may act only pursuant to a rule passed by the majority of the judges in the district court in which the magistrate serves, and (2)that the duties performed by the magistrate pursuant to such rule be consistent with the Constitution and laws of the United States.
 
 It has been suggested that magistrates be empowered by law to hold hearings and make final decisions in habeas proceedings. See Proposed Reformation of Federal Habeas Corpus Procedure: Use of Federal Magistrates, 54 Iowa L.Rev. 1147, 1158 (1969). However, the Federal Magistrates Act does not authorize such use of magistrates. <i>Wingo v. Wedding</i>, 418 U.S. 461 (1974). See advisory committee note to rule 8. While the use of magistrates can help alleviate the strain imposed on the district courts by the large number of unmeritorious habeas petitions, neither 28 U.S.C. §636(b) nor this rule contemplate the abdication by the court of its decision-making responsibility. See also Developments in the Law—Federal Habeas Corpus, 83 Harv. L.Rev. 1038, 1188 (1970)
 
@@ -854,7 +854,7 @@ Habeas corpus proceedings are characterized as civil in nature. See <i>e.g., Fis
 
 #### 394 U.S. at 290
 
-> The court then went on to consider the contention that the “conformity” provision of Rule 81(a)(2) should be rigidly applied so that the civil rules would be applicable only to the extent that habeas corpus practice hadconformed to the practice in civil actions at the time of the adoption of the Federal Rules of Civil Procedure on September 16, 1938. The court said:
+> The court then went on to consider the contention that the “conformity” provision of Rule 81(a)(2) should be rigidly applied so that the civil rules would be applicable only to the extent that habeas corpus practice had conformed to the practice in civil actions at the time of the adoption of the Federal Rules of Civil Procedure on September 16, 1938. The court said:
 
 > &emsp;Although there is little direct evidence, relevant to the present problem, of the purpose of the “conformity” provision of Rule 81(a)(2), the concern of the draftsmen, as a general matter, seems to have been to provide for the continuing applicability of the “civil” rules in their new form to those areas of practice in habeas corpus and other enumerated proceedings in which the “specified” proceedings had theretofore utilized the modes of civil practice. Otherwise, those proceedings were to be considered outside of the scope of the rules without prejudice, of course, to the use of particular rules by analogy or otherwise, where appropriate.
 

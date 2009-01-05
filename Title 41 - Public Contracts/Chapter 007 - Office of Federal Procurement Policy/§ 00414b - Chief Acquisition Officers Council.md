@@ -20,7 +20,7 @@ The members of the Council shall be as follows:
 
 #### (c) Leadership; support
 
-(1) The Administrator for Federal Procurement Policy shall lead the activities of theCouncil on behalf of the Deputy Director for Management.
+(1) The Administrator for Federal Procurement Policy shall lead the activities of the Council on behalf of the Deputy Director for Management.
 
 (2)(A) The Vice Chairman of the Council shall be selected by the Council from among its members.
 

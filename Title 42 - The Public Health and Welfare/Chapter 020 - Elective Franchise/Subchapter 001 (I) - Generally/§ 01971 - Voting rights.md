@@ -102,7 +102,7 @@ Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignate
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–246, §1, July 27, 2006, 120 Stat. 577, provided that: “This Act \[amending sections 1973a to 1973c, 1973f, 1973j to 1973<i>l</i>, and 1973aa–1a of this title, repealing sections 1973d, 1973e, and 1973g of this title, and enacting provisions set out as a note under section 1973 of this title\] may be cited as the ‘Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006’.”
+Pub. L. 109–246, §1, July 27, 2006, 120 Stat. 577, as amended by Pub. L. 110–258, §1, July 1, 2008, 122 Stat. 2428, provided that: “This Act \[amending sections 1973a to 1973c, 1973f, 1973j to 1973<i>l</i>, and 1973aa–1a of this title, repealing sections 1973d, 1973e, and 1973g of this title, and enacting provisions set out as a note under section 1973 of this title\] may be cited as the ‘Fannie Lou Hamer, Rosa Parks, Coretta Scott King, Ce�AE1sar E. Cha�AE1vez, Barbara C. Jordan, William C. Vela�AE1squez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006’.”
 
 #### Short Title of 1992 Amendment
 

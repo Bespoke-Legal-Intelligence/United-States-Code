@@ -24,7 +24,7 @@ This subchapter does not apply to the members of the Modoc Indian Tribe of Oklah
 
 #### References in Text
 
-Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, ch. 732, 68 Stat. 718, as amended, which is classified generally to subchapter XIII (§564 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, ch. 732, 68 Stat. 718, as amended,which is classified generally to subchapter XIII (§564 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Indian Tribal Government Tax Status Act (Sec. 7871, I.R.C. 1986), referred to in subsec. (c), probably means the Indian Tribal Governmental Tax Status Act of 1982, which is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, as amended, and is classified principally to subchapter C (§7871) of chapter 80 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under section 1 of Title 26 and Tables.
 

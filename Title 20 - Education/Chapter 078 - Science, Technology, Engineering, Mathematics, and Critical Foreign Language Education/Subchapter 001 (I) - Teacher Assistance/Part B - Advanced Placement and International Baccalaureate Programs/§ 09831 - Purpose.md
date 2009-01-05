@@ -2,7 +2,7 @@
 
 It is the purpose of this part—
 
-&emsp;(1) to raise academic achievement through Advanced Placement and International Baccalaureate programs by increasing, by 70,000, over a 4-year period beginning in 2008, the number of teachers serving high-need schools who are qualified to teach Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages;
+&emsp;(1) to raise academic achievement through Advanced Placement and International Baccalaureate programs by increasing, by 70,000,over a 4-year period beginning in 2008, the number of teachers serving high-need schools who are qualified to teach Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages;
 
 &emsp;(2) to increase, to 700,000 per year, the number of students attending high-need schools who—
 

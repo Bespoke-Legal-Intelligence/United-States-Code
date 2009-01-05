@@ -64,7 +64,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;If the repayment, within 30 days by a provider of services or supplier, of an overpayment under this subchapter would constitute a hardship (as described in subparagraph (B)), subject to subparagraph (C), upon request of the provider of services or supplier the Secretary shall enter into a plan with the provider of services or supplier for the repayment (through offset or otherwise) of such overpayment over a period of at least 6 months but not longer than 3 years (or not longer than 5 years in the case of extreme hardship, as determined by the Secretary). Interest shall accrue on the balance through the period of repayment. Such plan shall meet terms and conditions determined to be appropriate by the Secretary.
+&emsp;&emsp;If the repayment, within 30 days by a provider of services or supplier, of an overpayment under this subchapter would constitute a hardship (as described in subparagraph (B)), subject to subparagraph (C), upon request of the provider of services or supplier the Secretary shall enter into a plan with the provider of services or supplier for the repayment (through offset or otherwise) of such overpayment over a period of at least 6 months but not longer than 3 years (or not longer than 5 years in the case of extreme hardship, as determined by the Secretary).Interest shall accrue on the balance through the period of repayment. Such plan shall meet terms and conditions determined to be appropriate by the Secretary.
 
 #### (B) Hardship
 
@@ -208,7 +208,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;&emsp;(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
 
-&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through costavoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
 
 #### (B) Reporting requirements
 
@@ -236,7 +236,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (2) Disposition of remaining recoveries
 
-&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary underparagraph (1)(C) shall be applied to reduce expenditures under parts A and B.
+&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under parts A and B.
 
 #### (3) Nationwide coverage
 
@@ -280,7 +280,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### References in Text
 
-Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
 Parts A and B, referred to in subsec. (h)(1), (2), (4), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 

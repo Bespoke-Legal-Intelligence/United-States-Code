@@ -68,7 +68,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(B) the consumer received the offer of credit or insurance because the consumer satisfied the criteria for credit worthiness <sup>2</sup> or insurability under which the consumer was selected for the offer;
 
-&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumerresponds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
+&emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
@@ -80,7 +80,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(A) include the address and toll-free telephone number of the appropriate notification system established under section 1681b(e) of this title; and
 
-&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultation with the Federal banking agencies and the National Credit Union Administration.
+&emsp;&emsp;(B) be presented in such format and in such type size and manner as to be simple and easy to understand, as established by the Commission, by rule, in consultationwith the Federal banking agencies and the National Credit Union Administration.
 
 #### (3) Maintaining criteria on file
 
@@ -130,7 +130,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (2) Applicability
 
-&emsp;The prohibitions of this subsection shall apply to all persons collecting a debt describedin paragraph (1) after the date of a notification under paragraph (1).
+&emsp;The prohibitions of this subsection shall apply to all persons collecting a debt described in paragraph (1) after the date of a notification under paragraph (1).
 
 #### (3) Rule of construction
 
@@ -144,7 +144,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (g) Debt collector communications concerning identity theft
 
-If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
+If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulentor may be the result of identity theft, that person shall—
 
 &emsp;(1) notify the third party that the information may be fraudulent or may be the result of identity theft; and
 

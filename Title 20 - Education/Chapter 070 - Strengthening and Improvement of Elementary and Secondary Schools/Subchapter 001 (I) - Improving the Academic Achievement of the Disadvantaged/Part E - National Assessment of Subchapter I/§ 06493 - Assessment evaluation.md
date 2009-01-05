@@ -46,7 +46,7 @@ The study described in subsection (a) of this section shall examine—
 
 #### (e) Reporting
 
-Not later than 3 years after the contract described in subsection (b) of this section is awarded, the organization or entity conducting the study shall submit an interim report to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health, Education, Labor andPensions of the United States Senate, and to the President and the States, and shall make the report widely available to the public. The organization or entity shall submit a final report to the same recipients as soon as possible after the completion of the study. Additional reports may be periodically prepared and released as necessary.
+Not later than 3 years after the contract described in subsection (b) of this section is awarded, the organization or entity conducting the study shall submit an interim report to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health, Education, Labor and Pensions of the United States Senate, and to the President and the States, and shall make the report widely available to the public. The organization or entity shall submit a final report to the same recipients as soon as possible after the completion of the study. Additional reports may be periodically prepared and released as necessary.
 
 #### (f) Reservation of funds
 

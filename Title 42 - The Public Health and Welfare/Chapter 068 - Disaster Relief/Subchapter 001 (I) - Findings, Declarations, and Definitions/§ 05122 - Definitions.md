@@ -4,7 +4,7 @@ As used in this chapter—
 
 (1)
 
-Emergency.—“Emergency” means any occasion or instance for which, in the determination of the President, Federal assistance is needed to supplement State and local efforts and capabilities to save lives and to protect property and public health and safety, or to lessen oravert the threat of a catastrophe in any part of the United States.
+Emergency.—“Emergency” means any occasion or instance for which, in the determination of the President, Federal assistance is needed to supplement State and local efforts and capabilities to save lives and to protect property and public health and safety, or to lessen or avert the threat of a catastrophe in any part of the United States.
 
 (2)
 
@@ -80,7 +80,7 @@ Par. (9). Pub. L. 106–390, §302(3), inserted “irrigation,” after “utili
 
 1988—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Emergency’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster.”
 
-Par. (2). Pub. L. 100–707, §103(c), inserted heading and amended text generally. Prior to amendment, text readas follows: “ ‘Major disaster’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.”
+Par. (2). Pub. L. 100–707, §103(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “ ‘Major disaster’ means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.”
 
 Pars. (3), (4). Pub. L. 100–707, §103(d), struck out “the Canal Zone,” after “American Samoa,”.
 

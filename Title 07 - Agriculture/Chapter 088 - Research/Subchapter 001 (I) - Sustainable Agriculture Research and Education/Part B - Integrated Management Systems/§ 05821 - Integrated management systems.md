@@ -36,7 +36,11 @@ The Secretary shall, on a priority basis, develop programs to encourage livestoc
 
 There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the Extension Service.
 
-(Pub. L. 101–624, title XVI, §1627, Nov. 28, 1990, 104 Stat. 3739; Pub. L. 104–127, title VIII, §862(b)(2), Apr. 4, 1996, 110 Stat. 1174.)
+(Pub. L. 101–624, title XVI, §1627, Nov. 28, 1990, 104 Stat. 3739; Pub. L. 104–127, title VIII, §862(b)(2), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 110–234, title VII, §7511(c)(16), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(16), June 18, 2008, 122 Stat. 1664, 2030.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (d) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service”.</i>
 
 #### References in Text
 
@@ -44,9 +48,19 @@ This subchapter, referred to in subsec. (a)(3), was in the original “this subt
 
 Chapter 86 of this title, referred to in subsec. (a)(3), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
 1996—Subsec. (a)(3). Pub. L. 104–127 struck out “and section 5881 of this title” before “and other appropriate”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(16) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

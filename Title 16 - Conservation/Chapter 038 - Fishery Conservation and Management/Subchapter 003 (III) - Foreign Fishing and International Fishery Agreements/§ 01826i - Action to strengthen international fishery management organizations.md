@@ -10,7 +10,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(C) to seek international adoption of a centralized vessel monitoring system in order to monitor and document capacity in fleets of all nations involved in fishing in areas under an international fishery management organization's jurisdiction;
 
-&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance with conservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems; and
+&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance withconservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems; and
 
 &emsp;&emsp;(E) to seek adoption of stronger port state controls in all nations, particularly those nations in whose ports vessels engaged in illegal, unreported, or unregulated fishing land or transship fish;
 
@@ -28,5 +28,5 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 #### Codification
 
-Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part ofthe Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 

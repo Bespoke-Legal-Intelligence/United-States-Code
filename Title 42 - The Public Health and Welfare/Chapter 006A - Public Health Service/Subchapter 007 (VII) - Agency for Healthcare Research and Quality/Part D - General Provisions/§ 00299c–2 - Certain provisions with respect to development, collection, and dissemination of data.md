@@ -24,7 +24,7 @@ The Director shall—
 
 #### (c) Authority regarding certain requests
 
-Upon request of a public or private entity, the Director may conduct or support research or analyses otherwise authorized by this subchapter pursuant to arrangements under which such entity will pay the cost of the services provided. Amounts received by the Director under such arrangements shall be available to the Director for obligation until expended.
+Upon request of a public or private entity, the Director may conduct or support research or analyses otherwise authorized by this subchapter pursuant to arrangements under whichsuch entity will pay the cost of the services provided. Amounts received by the Director under such arrangements shall be available to the Director for obligation until expended.
 
 (July 1, 1944, ch. 373, title IX, §933, formerly §923, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1666; renumbered §933, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424.)
 

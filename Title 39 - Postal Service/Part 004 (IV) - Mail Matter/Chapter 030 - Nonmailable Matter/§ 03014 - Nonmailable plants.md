@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Act were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224,title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Act were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
 
@@ -34,7 +34,7 @@ In General.—This Act and the amendments made by this Act \[enacting this secti
 
 “(b)
 
-Regulations.—Nothing in this section shall prevent the United States Postal Service from taking anyaction which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
+Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

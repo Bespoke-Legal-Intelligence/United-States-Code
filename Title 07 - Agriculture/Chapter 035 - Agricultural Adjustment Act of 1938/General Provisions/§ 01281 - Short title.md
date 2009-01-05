@@ -50,7 +50,7 @@ Pub. L. 88–297, §1, Apr. 11, 1964, 78 Stat. 173, provided: “That this Act \
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title and section 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
+Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title andsection 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
 
 #### Short Title of 1962 Amendment
 

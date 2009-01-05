@@ -4,7 +4,7 @@
 
 (b) The purposes of the Endowment, as set forth in its articles of incorporation, are—
 
-&emsp;(1) to encourage free and democratic institutions throughout the world through private sector initiatives, including activities which promote the individual rights and freedoms\(including internationally recognized human rights) which are essential to the functioning of democratic institutions;
+&emsp;(1) to encourage free and democratic institutions throughout the world through private sector initiatives, including activities which promote the individual rights and freedoms (including internationally recognized human rights) which are essential to the functioning of democratic institutions;
 
 &emsp;(2) to facilitate exchanges between United States private sector groups (especially the two major American political parties, labor, and business) and democratic groups abroad;
 

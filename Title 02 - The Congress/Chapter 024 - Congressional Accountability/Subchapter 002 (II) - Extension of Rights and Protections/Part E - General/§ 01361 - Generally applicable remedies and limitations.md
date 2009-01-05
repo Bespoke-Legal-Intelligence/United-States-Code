@@ -6,7 +6,7 @@ If a covered employee, with respect to any claim under this chapter, or a qualif
 
 #### (b) Interest
 
-In any proceeding under section 1405, 1406, 1407, or 1408 of this title, the same interest to compensate for delay in payment shall be made available as would be appropriate if awarded under section 2000e–16(d) of title 42.
+In any proceeding under section 1405, 1406, 1407, or 1408 of this title, the same interest to compensate for delay in payment shall be madeavailable as would be appropriate if awarded under section 2000e–16(d) of title 42.
 
 #### (c) Civil penalties and punitive damages
 

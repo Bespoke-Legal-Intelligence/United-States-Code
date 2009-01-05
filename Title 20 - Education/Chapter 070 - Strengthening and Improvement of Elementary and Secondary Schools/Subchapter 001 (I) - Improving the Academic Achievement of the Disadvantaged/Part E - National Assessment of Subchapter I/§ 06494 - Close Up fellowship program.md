@@ -72,7 +72,7 @@
 
 #### (A) General authority
 
-&emsp;&emsp;In accordance with this subsection, the Secretary may make grants to the Close Up Foundation of Washington, District of Columbia, a nonpartisan, nonprofit foundation,for the purpose of assisting the Close Up Foundation in carrying out its programs of increasing civic responsibility and understanding of the Federal Government among economically disadvantaged middle school and secondary school recent immigrant students.
+&emsp;&emsp;In accordance with this subsection, the Secretary may make grants to the Close Up Foundation of Washington, District of Columbia, a nonpartisan, nonprofit foundation, for the purpose of assisting the Close Up Foundation in carrying out its programs of increasing civic responsibility and understanding of the Federal Government among economically disadvantaged middle school and secondary school recent immigrant students.
 
 #### (B) Definition
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) every effort shall be made to ensure the participation of recent immigrant students from rural, small town, and urban areas;
 
-&emsp;&emsp;&emsp;(iii) in awarding the fellowships to economically disadvantaged recent immigrant students, special consideration shall be given to the participation of those students with special educational needs, including students with disabilities, students with migrant parents, and ethnic minority students;
+&emsp;&emsp;&emsp;(iii) in awarding the fellowships to economically disadvantaged recent immigrant students, special consideration shall be given to the participation of those students with special educational needs, including students with disabilities, studentswith migrant parents, and ethnic minority students;
 
 &emsp;&emsp;&emsp;(iv) fully describe the activities to be carried out with the proceeds of the grant made under paragraph (1); and
 

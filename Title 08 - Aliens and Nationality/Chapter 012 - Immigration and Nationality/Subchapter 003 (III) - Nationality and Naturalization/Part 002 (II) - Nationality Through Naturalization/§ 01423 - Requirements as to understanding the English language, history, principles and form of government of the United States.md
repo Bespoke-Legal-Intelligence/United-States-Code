@@ -8,7 +8,7 @@
 
 (b)(1) The requirements of subsection (a) of this section shall not apply to any person who is unable because of physical or developmental disability or mental impairment to comply therewith.
 
-(2) The requirement of subsection (a)(1) of this section shall not apply to any person who, onthe date of the filing of the person's application for naturalization as provided in section 1445 of this title, either—
+(2) The requirement of subsection (a)(1) of this section shall not apply to any person who, on the date of the filing of the person's application for naturalization as provided in section 1445 of this title, either—
 
 &emsp;(A) is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence, or
 
@@ -26,7 +26,7 @@
 
 1990—Par. (1). Pub. L. 101–649 substituted “either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least 15 years subsequent to a lawful admission for permanent residence” for “is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”.
 
-1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence” for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
+1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
 
 #### Effective Date of 1994 Amendment
 

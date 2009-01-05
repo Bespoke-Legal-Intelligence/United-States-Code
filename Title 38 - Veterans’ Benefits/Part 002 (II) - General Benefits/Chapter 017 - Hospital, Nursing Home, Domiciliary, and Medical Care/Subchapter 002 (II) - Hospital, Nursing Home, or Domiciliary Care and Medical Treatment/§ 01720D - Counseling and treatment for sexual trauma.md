@@ -4,7 +4,7 @@
 
 (2) In furnishing counseling to a veteran under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
 
-(b)(1) The Secretary shall give priority to the establishment and operation of the program toprovide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
+(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
 (2) In establishing a program to provide counseling under subsection (a), the Secretary shall—
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) is made available through appropriate public information services; and
 
-&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from activemilitary, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
 (d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
@@ -92,7 +92,7 @@ Section 101(g)(2) to (5) of Pub. L. 103–452 provided that:
 
 #### Transition Period for Eligibility for Counseling
 
-Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
+Section 102(b) of Pub. L. 102–585, as amended by Pub. L. 103–210, §2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994,prior to repeal by Pub. L. 103–452, title I, §101(h), Nov. 2, 1994, 108 Stat. 4785.
 
 #### Commencement of Provision of Information on Services
 

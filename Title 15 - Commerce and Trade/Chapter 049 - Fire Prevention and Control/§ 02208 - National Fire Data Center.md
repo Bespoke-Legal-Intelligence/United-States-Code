@@ -26,7 +26,7 @@ In carrying out the program of the Data Center, the Administrator is authorized 
 
 &emsp;(1) develop standardized data reporting methods;
 
-&emsp;(2) encourage and assist State, local, and other agencies, public and private, in developing and reporting information; and
+&emsp;(2) encourage and assist Federal, State, local, and other agencies, public and private, in developing and reporting information; and
 
 &emsp;(3) make full use of existing data gathering and analysis organizations, both public and private.
 
@@ -34,7 +34,23 @@ In carrying out the program of the Data Center, the Administrator is authorized 
 
 The Administrator shall insure dissemination to the maximum extent possible of fire data collected and developed by the Data Center, and shall make such data, information, and analysis available in appropriate form to Federal agencies, State and local governments, private organizations, industry, business, and other interested persons.
 
-(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541.)
+#### (d) National Fire Incident Reporting System update
+
+#### (1) In general
+
+&emsp;The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
+
+#### (2) Limitation
+
+&emsp;Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of section 2216(g)(1) of this title, the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).
+
+(Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059.)
+
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–376, §5(b), substituted “assist Federal, State,” for “assist State,”.
+
+Subsec. (d). Pub. L. 110–376, §5(a), added subsec. (d).
 
 #### Transfer of Functions
 

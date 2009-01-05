@@ -32,7 +32,7 @@ In the computation of the 30-day period under subsection (b), there shall be exc
 
 #### (1) Total amount obligated
 
-&emsp;In no event may the total amount of funds obligated pursuant to a DOE national securityauthorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
+&emsp;In no event may the total amount of funds obligated pursuant to a DOE national security authorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
 
 #### (2) Prohibited items
 
@@ -46,5 +46,5 @@ Section was formerly classified to section 7386a of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(j)(2)(D)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to sections 2750 and 2751 of this title.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(j)(2)(D)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to sections 2750 and 2751 of this title.
 

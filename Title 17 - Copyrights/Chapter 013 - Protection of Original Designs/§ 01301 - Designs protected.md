@@ -10,7 +10,11 @@ In general.—The designer or other owner of an original design of a useful arti
 
 &emsp;(2)
 
-Vessel hulls.—The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).
+Vessel features.—The design of a vessel hull, deck, or combination of a hull and deck, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).
+
+&emsp;(3)
+
+Exceptions.—Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of section 2320 of title 10 or by the instrument under which the design was developed for the United States Government.
 
 (b)
 
@@ -18,7 +22,7 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(1) A design is “original” if it is the result of the designer's creative endeavor that provides a distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source.
 
-&emsp;(2) A “useful article” is a vessel hull, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.
+&emsp;(2) A “useful article” is a vessel hull or deck, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.
 
 &emsp;(3) A “vessel” is a craft—
 
@@ -26,15 +30,27 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;&emsp;(B) that is designed and capable of carrying and transporting one or more passengers.
 
-&emsp;(4) A “hull” is the frame or body of a vessel, including the deck of a vessel, exclusive of masts, sails, yards, and rigging.
+&emsp;(4) A “hull” is the exterior frame or body of a vessel, exclusive of the deck, superstructure, masts, sails, yards, rigging, hardware, fixtures, and other attachments.
 
 &emsp;(5) A “plug” means a device or model used to make a mold for the purpose of exact duplication, regardless of whether the device or model has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
 
 &emsp;(6) A “mold” means a matrix or form in which a substance for material is used, regardless of whether the matrix or form has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information.
 
-(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
+&emsp;(7) A “deck” is the horizontal surface of a vessel that covers the hull, including exteriorcabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
+
+(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, §1(b)–(d), Oct. 16, 2008, 122 Stat. 4972.)
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–434, §1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
+
+Subsec. (a)(3). Pub. L. 110–434, §1(c), added par. (3).
+
+Subsec. (b)(2). Pub. L. 110–434, §1(d)(1), substituted “vessel hull or deck, including a plug or mold,” for “vessel hull, including a plug or mold,”.
+
+Subsec. (b)(4). Pub. L. 110–434, §1(d)(2), added par. (4) and struck out former par. (4) which read as follows: “A ‘hull’ is the frame or body of a vessel, including the deck of a vessel, exclusive of masts, sails, yards, and rigging.”
+
+Subsec. (b)(7). Pub. L. 110–434, §1(d)(3), added par. (7).
 
 1999—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A ‘vessel’ is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.”
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) Federal instrumentalities insure or otherwise provide financial protection to banking and credit institutions whose assets include a substantial number of mortgage loans and other indebtedness secured by property exposed to loss and damage from floods and mudslides;
 
-&emsp;(5) the Nation cannot afford the tragic losses of life caused annually by flood occurrences, nor the increasing losses of property suffered by flood victims, most of whom are still inadequately compensated despite the provision of costly disaster relief benefits; and
+&emsp;(5) the Nation cannot afford the tragic losses of life caused annually by flood occurrences,nor the increasing losses of property suffered by flood victims, most of whom are still inadequately compensated despite the provision of costly disaster relief benefits; and
 
 &emsp;(6) it is in the public interest for persons already living in flood-prone areas to have both an opportunity to purchase flood insurance and access to more adequate limits of coverage, so that they will be indemnified, for their losses in the event of future flood disasters.
 

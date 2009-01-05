@@ -6,7 +6,7 @@ There is established within the Office the Counter-Drug Technology Assessment Ce
 
 #### (b) Chief Scientist
 
-There shall be at the head of the Center the Chief Scientist, who shall be appointed by the Director from among individuals qualified anddistinguished in the area of science, medicine, engineering, or technology.
+There shall be at the head of the Center the Chief Scientist, who shall be appointed by the Director from among individuals qualified and distinguished in the area of science, medicine, engineering, or technology.
 
 #### (c) Research and development responsibilities
 

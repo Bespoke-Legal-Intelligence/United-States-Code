@@ -44,17 +44,29 @@ Hazardous Safety or Security Conditions.—(1) A railroad carrier engaged in int
 
 &emsp;&emsp;(ii) the urgency of the situation does not allow sufficient time to eliminate the danger without such refusal; and
 
-&emsp;(C) the employee, where possible, has notified the railroad carrier of the existence of the hazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
+&emsp;(C) the employee, where possible, has notified the railroad carrier of the existence of thehazardous condition and the intention not to perform further work, or not to authorize the use of the hazardous equipment, track, or structures, unless the condition is corrected immediately or the equipment, track, or structures are repaired properly or replaced.
 
 (3) In this subsection, only paragraph (1)(A) shall apply to security personnel employed by a railroad carrier to protect individuals and property transported by railroad.
 
 (c)
 
+Prompt Medical Attention.—
+
+&emsp;(1)
+
+Prohibition.—A railroad carrier or person covered under this section may not deny, delay, or interfere with the medical or first aid treatment of an employee who is injured during the course of employment. If transportation to a hospital is requested by an employee who is injured during the course of employment, the railroad shall promptly arrange to have the injured employee transported to the nearest hospital where the employee can receive safe and appropriate medical care.
+
+&emsp;(2)
+
+Discipline.—A railroad carrier or person covered under this section may not discipline, or threaten discipline to, an employee for requesting medical or first aid treatment, or for following orders or a treatment plan of a treating physician, except that a railroad carrier's refusal to permit an employee to return to work following medical treatment shall not be considered a violation of this section if the refusal is pursuant to Federal Railroad Administration medical standards for fitness of duty or, if there are no pertinent Federal Railroad Administration standards, a carrier's medical standards for fitness for duty. For purposes of this paragraph, the term “discipline” means to bring charges against a person in a disciplinary proceeding, suspend, terminate, place on probation, or make note of reprimand on an employee's record.
+
+(d)
+
 Enforcement Action.—
 
 &emsp;(1)
 
-In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a) or (b) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
+In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
 
 &emsp;(2)
 
@@ -66,11 +78,11 @@ In general.—Any action under paragraph (1) shall be governed under the rules a
 
 &emsp;&emsp;&emsp;(i)
 
-Burdens of proof.—Any action brought under (c)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
+Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
 
 &emsp;&emsp;&emsp;(ii)
 
-Statute of limitations.—An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a) or (b) of this section occurs.
+Statute of limitations.—An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a), (b), or (c) of this section occurs.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -88,17 +100,17 @@ De novo review.—With respect to a complaint under paragraph (1), if the Secret
 
 Appeals.—Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),<sup>3</sup> may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 
-(d)
+(e)
 
 Remedies.—
 
 &emsp;(1)
 
-In general.—An employee prevailing in any action under subsection (c) shall be entitled to all relief necessary to make the employee whole.
+In general.—An employee prevailing in any action under subsection (d) shall be entitled to all relief necessary to make the employee whole.
 
 &emsp;(2)
 
-Damages.—Relief in an action under subsection (c) (including an action described in subsection (c)(3)) shall include—
+Damages.—Relief in an action under subsection (d) (including an action described in subsection (d)(3)) shall include—
 
 &emsp;&emsp;(A) reinstatement with the same seniority status that the employee would have had, but for the discrimination;
 
@@ -108,21 +120,21 @@ Damages.—Relief in an action under subsection (c) (including an action describ
 
 &emsp;(3)
 
-Possible relief.—Relief in any action under subsection (c) may include punitive damages in an amount not to exceed $250,000.
-
-(e)
-
-Election of Remedies.—An employee may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the railroad carrier.
+Possible relief.—Relief in any action under subsection (d) may include punitive damages in an amount not to exceed $250,000.
 
 (f)
 
-No Preemption.—Nothing in this section preempts or diminishes any other safeguardsagainst discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
+Election of Remedies.—An employee may not seek protection under both this section and another provision of law for the same allegedly unlawful act of the railroad carrier.
 
 (g)
 
-Rights Retained by Employee.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+No Preemption.—Nothing in this section preempts or diminishes any other safeguards against discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
 
 (h)
+
+Rights Retained by Employee.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+
+(i)
 
 Disclosure of Identity.—
 
@@ -130,7 +142,7 @@ Disclosure of Identity.—
 
 &emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosures shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 
-(i)
+(j)
 
 Process for Reporting Security Problems to the Department of Homeland Security.—
 
@@ -146,7 +158,7 @@ Acknowledgment of receipt.—If a report submitted under paragraph (1) identifie
 
 Steps to address problem.—The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867; Pub. L. 110–53, title XV, §1521, Aug. 3, 2007, 121 Stat. 444.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867; Pub. L. 110–53, title XV, §1521, Aug. 3, 2007, 121 Stat. 444; Pub. L. 110–432, div. A, title IV, §419, Oct. 16, 2008, 122 Stat. 4892.)
 
 Historical and Revision Notes
 
@@ -218,7 +230,51 @@ The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–432, §419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 110–432, §419(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 110–432, §419(b)(1)(A), substituted “(a), (b), or (c)” for “(a) or (b)”.
+
+Subsec. (d)(2)(A)(i). Pub. L. 110–432, §419(b)(1)(B), substituted “(d)(1)” for “(c)(1)”.
+
+Subsec. (d)(2)(A)(ii). Pub. L. 110–432, §419(b)(1)(C), substituted “(a), (b), or (c)” for “(a) or (b)”.
+
+Subsec. (e). Pub. L. 110–432, §419(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1). Pub. L. 110–432, §419(b)(2)(A), substituted “(d)” for “(c)”.
+
+Subsec. (e)(2). Pub. L. 110–432, §419(b)(2)(B), (C), substituted “(d)” for “(c)” and “(d)(3)” for “(c)(3)” in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted “(d)” for “(c)”.
+
+Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
+
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
+
+#### Critical Incident Stress Plan
+
+Pub. L. 110–432, div. A, title IV, §410, Oct. 16, 2008, 122 Stat. 4887, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, as appropriate, shall require each Class I railroad carrier, each intercity passenger railroad carrier, and each commuter railroad carrier to develop and submit for approval to the Secretary a critical incident stress plan that provides for debriefing, counseling, guidance, and other appropriate support services to be offered to an employee affected by a critical incident.
+
+“(b)
+
+Plan Requirements.—Each such plan shall include provisions for—
+
+&emsp;“(1) relieving an employee who was involved in a critical incident of his or her duties for the balance of the duty tour, following any actions necessary for the safety of persons and contemporaneous documentation of the incident;
+
+&emsp;“(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or her duties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
+
+&emsp;“(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
+
+“(c)
+
+Secretary To Define What Constitutes A Critical Incident.—Within 30 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall initiate a rulemaking proceeding to define the term ‘critical incident’ for the purposes of this section.”
+
+\[For definitions of “railroad carrier” and “Secretary”, as used in section 410 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
 

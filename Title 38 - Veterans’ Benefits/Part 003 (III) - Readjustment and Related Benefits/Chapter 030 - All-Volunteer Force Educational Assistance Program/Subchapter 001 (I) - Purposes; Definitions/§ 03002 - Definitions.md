@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 (5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
+(6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
 (7) The term “active duty” includes full-time National Guard duty first performed after June 30, 1985, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
 
@@ -60,7 +60,7 @@ Par. (3). Pub. L. 102–83, §5(c)(1), substituted “3452(b)” for “1652(b)�
 
 1990—Par. (7). Pub. L. 101–510 added par. (7).
 
-1989—Par. (5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘Secretary’ means the Secretary of Defense with respect to members of the Armed Forces under the jurisdiction of the Secretary of a military department and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.”
+1989—Par. (5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Theterm ‘Secretary’ means the Secretary of Defense with respect to members of the Armed Forces under the jurisdiction of the Secretary of a military department and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.”
 
 1988—Par. (3)(B). Pub. L. 100–689, §111(a)(1), substituted “in the case of an individual who is not serving on active duty, includes” for “includes”.
 
@@ -98,7 +98,7 @@ Section 107(b) of Pub. L. 104–275 provided that:
 
 &emsp;“(A) the basic pay of an individual who, while a member of the Armed Forces, makes an election under paragraph (1) shall be reduced (in a manner determined by the Secretary of Defense) until the total amount by which such basic pay is reduced is $1,200; or
 
-&emsp;“(B) to the extent that basic pay is not so reduced before the individual's discharge or release from active duty, the Secretary of Veterans Affairs shall collect from an individual who makes such an election an amount equal to the difference between $1,200 andthe total amount of reductions under subparagraph (A), which amount shall be paid into the Treasury as miscellaneous receipts.
+&emsp;“(B) to the extent that basic pay is not so reduced before the individual's discharge or release from active duty, the Secretary of Veterans Affairs shall collect from an individual who makes such an election an amount equal to the difference between $1,200 and the total amount of reductions under subparagraph (A), which amount shall be paid into the Treasury as miscellaneous receipts.
 
 “(3) In the case of any individual making an election under paragraph (1), the 10-year period referred to in section 3031 of such title shall begin on the later of—
 

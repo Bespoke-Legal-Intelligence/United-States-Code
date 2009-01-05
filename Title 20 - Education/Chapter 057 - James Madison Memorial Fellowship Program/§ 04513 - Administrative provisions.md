@@ -10,7 +10,7 @@ The Foundation is authorized—
 
 &emsp;(3) to prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
-&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used forthe purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 

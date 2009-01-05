@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 &emsp;(1) The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-&emsp;(2) The term “person” means an individual, corporation, partnership, or association, and\(except as provided in sections 4910(e) and 4911(a) of this title) includes any officer, employee, department, agency, or instrumentality of the United States, a State, or any political subdivision of a State.
+&emsp;(2) The term “person” means an individual, corporation, partnership, or association, and (except as provided in sections 4910(e) and 4911(a) of this title) includes any officer, employee, department, agency, or instrumentality of the United States, a State, or any political subdivision of a State.
 
 &emsp;(3) The term “product” means any manufactured article or goods or component thereof; except that such term does not include—
 

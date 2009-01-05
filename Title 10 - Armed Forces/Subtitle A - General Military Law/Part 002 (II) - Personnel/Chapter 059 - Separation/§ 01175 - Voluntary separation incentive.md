@@ -64,7 +64,7 @@
 
 (3) All voluntary separation incentive payments made by the Secretary of Defense after December 31, 1992, under this section shall be paid out of the Fund. To the extent provided in appropriation Acts, the assets of the Fund shall be available to the Secretary to pay voluntary separation incentives under this section.
 
-(4) The Department of Defense Retirement Board of Actuaries (hereinafter in this subsection referred to as the “Board”) shall perform the same functions regarding the Fund, as provided in this subsection, as such Board performs regarding the Department of Defense Military Retirement Fund.
+(4) The Department of Defense Board of Actuaries (hereinafter in this subsection referred to as the “Board”) shall perform the same functions regarding the Fund, as provided in this subsection, as such Board performs regarding the Department of Defense Military Retirement Fund.
 
 (5) Not later than January 1, 1993, the Board shall determine the amount that is the present value, as of that date, of the future benefits payable under this section in the case of persons who are separated pursuant to this section before that date. The amount so determined is the original unfunded liability of the Fund. The Board shall determine an appropriate amortization period and schedule for liquidation of the original unfunded liability. The Secretary shall make deposits to the Fund in accordance with that amortization schedule.
 
@@ -80,7 +80,7 @@
 
 &emsp;(ii) determine the period over which that unfunded liability should be liquidated; and
 
-&emsp;(iii) determine for the following fiscal year, the total amount, and the monthly amount, ofthe Department of Defense contributions that must be made to the Fund during that fiscal year in order to fund the unfunded liabilities of the Fund over the applicable amortization periods.
+&emsp;(iii) determine for the following fiscal year, the total amount, and the monthly amount, of the Department of Defense contributions that must be made to the Fund during that fiscal year in order to fund the unfunded liabilities of the Fund over the applicable amortization periods.
 
 (B) The Board shall carry out its responsibilities for each fiscal year in sufficient time for the amounts referred to in subparagraph (A)(iii) to be included in budget requests for that fiscal year.
 
@@ -94,9 +94,11 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277.)
 
 #### Amendments
+
+2008—Subsec. (h)(4). Pub. L. 110–181 struck out “Retirement” before “Board of Actuaries”.
 
 2002—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -152,7 +154,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §572(b)\], Oct. 30, 2000, 114 Sta
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United StatesCode (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

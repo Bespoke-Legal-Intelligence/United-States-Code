@@ -50,7 +50,7 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 #### (B) Amount
 
-&emsp;&emsp;The amount of funds retained under subparagraph (A) shall equal the value of anyoverpayment made to the local educational agency or school food authority as a result of an erroneous claim during the time period described in subparagraph (C).
+&emsp;&emsp;The amount of funds retained under subparagraph (A) shall equal the value of any overpayment made to the local educational agency or school food authority as a result of an erroneous claim during the time period described in subparagraph (C).
 
 #### (C) Time period
 

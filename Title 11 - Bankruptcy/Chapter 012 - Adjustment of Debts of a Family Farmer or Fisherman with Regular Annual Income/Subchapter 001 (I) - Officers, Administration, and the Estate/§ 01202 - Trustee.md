@@ -104,7 +104,7 @@ Amendment by section 219(c) of Pub. L. 109–8 effective 180 days after Apr. 20,
 
 Section effective 30 days after Oct. 27, 1986, and before the amendment by section 227 of Pub. L. 99–554, see section 302(c)(2) of Pub. L. 99–554, set out as an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicialdistrict involved, see section 302(d), (e) of Pub. L. 99–554.
+Effective date and applicability of amendment by section 227 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554.
 
 #### References in Subsection (a) Temporarily Deemed To Be References to Other Provisions
 

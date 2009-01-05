@@ -1,0 +1,136 @@
+### §7632. Specialty crop research initiative
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Initiative
+
+&emsp;The term “Initiative” means the specialty crop research and extension initiative established by subsection (b).
+
+#### (2) Specialty crop
+
+&emsp;The term “specialty crop” has the meaning given that term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
+
+#### (b) Establishment
+
+There is established within the Department a specialty crop research and extension initiative to address the critical needs of the specialty crop industry by developing and disseminating science-based tools to address needs of specific crops and their regions, including—
+
+&emsp;(1) research in plant breeding, genetics, and genomics to improve crop characteristics, such as—
+
+&emsp;&emsp;(A) product, taste, quality, and appearance;
+
+&emsp;&emsp;(B) environmental responses and tolerances;
+
+&emsp;&emsp;(C) nutrient management, including plant nutrient uptake efficiency;
+
+&emsp;&emsp;(D) pest and disease management, including resistance to pests and diseases resulting in reduced application management strategies; and
+
+&emsp;&emsp;(E) enhanced phytonutrient content;
+
+&emsp;(2) efforts to identify and address threats from pests and diseases, including threats to specialty crop pollinators;
+
+&emsp;(3) efforts to improve production efficiency, productivity, and profitability over the long term (including specialty crop policy and marketing);
+
+&emsp;(4) new innovations and technology, including improved mechanization and technologies that delay or inhibit ripening; and
+
+&emsp;(5) methods to prevent, detect, monitor, control, and respond to potential food safety hazards in the production and processing of specialty crops, including fresh produce.
+
+#### (c) Eligible entities
+
+The Secretary may carry out the Initiative through—
+
+&emsp;(1) Federal agencies;
+
+&emsp;(2) national laboratories;
+
+&emsp;(3) colleges and universities;
+
+&emsp;(4) research institutions and organizations;
+
+&emsp;(5) private organizations or corporations;
+
+&emsp;(6) State agricultural experiment stations;
+
+&emsp;(7) individuals; or
+
+&emsp;(8) groups consisting of 2 or more entities described in paragraphs (1) through (7).
+
+#### (d) Research projects
+
+In carrying out this section, the Secretary shall award grants on a competitive basis.
+
+#### (e) Administration
+
+#### (1) In general
+
+&emsp;With respect to grants awarded under subsection (d), the Secretary shall—
+
+&emsp;&emsp;(A) seek and accept proposals for grants;
+
+&emsp;&emsp;(B) determine the relevance and merit of proposals through a system of peer and merit review in accordance with section 7613 of this title; and
+
+&emsp;&emsp;(C) award grants on the basis of merit, quality, and relevance.
+
+#### (2) Term
+
+&emsp;The term of a grant under this section may not exceed 10 years.
+
+#### (3) Matching funds required
+
+&emsp;The Secretary shall require the recipient of a grant under this section to provide funds or in-kind support from non-Federal sources in an amount that is at least equal to the amount provided by the Federal Government.
+
+#### (4) Other conditions
+
+&emsp;The Secretary may set such other conditions on the award of a grant under this section as the Secretary determines to be appropriate.
+
+#### (f) Priorities
+
+In making grants under this section, the Secretary shall provide a higher priority to projects that—
+
+&emsp;(1) are multistate, multi-institutional, or multidisciplinary; and
+
+&emsp;(2) include explicit mechanisms to communicate results to producers and the public.
+
+#### (g) Buildings and facilities
+
+Funds made available under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement, and architect fees).
+
+#### (h) Funding
+
+#### (1) In general
+
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $30,000,000 for fiscal year 2008 and $50,000,000 for each of fiscal years 2009 through 2012, from which activities under each of paragraphs (1) through (5) of subsection (b) shall be allocated not less than 10 percent.
+
+#### (2) Authorization of appropriations
+
+&emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2008 through 2012.
+
+#### (3) Transfer
+
+&emsp;Of the funds made available to the Secretary under paragraph (1) for fiscal year 2008 and authorized for use for payment of administrative expenses under section 3315(a)(3) of this title, the Secretary shall transfer, upon the date of enactment of this section, $200,000 to the Office of Prevention, Pesticides, and Toxic Substances of the Environmental Protection Agency for use in conducting a meta-analysis relating to methyl bromide.
+
+#### (4) Availability
+
+&emsp;Funds made available pursuant to this subsection for a fiscal year shall remain available until expended to pay for obligations incurred in that fiscal year.
+
+(Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004.)
+
+#### References in Text
+
+The date of enactment of this section, referred to in subsec. (h)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+
+#### Coordination of Projects and Activities
+
+Pub. L. 110–234, title VII, §7311(b), May 22, 2008, 122 Stat. 1245, and Pub. L. 110–246, §4(a), title VII, §7311(b), June 18, 2008, 122 Stat. 1664, 2006, provided that: “In carrying out the amendment made by this section \[enacting this section\], the Secretary \[of Agriculture\] shall ensure that the Division Chief of the applicable Research, Education, and Extension Office established under section 251 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971) coordinates projects and activities under this section to ensure, to the maximum extent practicable, that unnecessary duplication of effort is eliminated or minimized.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+

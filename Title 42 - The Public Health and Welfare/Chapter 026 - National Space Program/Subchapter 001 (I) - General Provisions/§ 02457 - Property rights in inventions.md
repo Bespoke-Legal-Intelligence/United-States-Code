@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 98–622, §205(c)(2), substituted “the Board of Patent A
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1984 Amendment
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulatio
 
 #### Emergency Relief From Postal Situation Affecting National Space Program Cases
 
-Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see Pub. L. 92–34, June 30, 1971, 85Stat. 87, set out as a note under section 111 of Title 35, Patents.
+Excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see Pub. L. 92–34, June 30, 1971, 85 Stat. 87, set out as a note under section 111 of Title 35, Patents.
 

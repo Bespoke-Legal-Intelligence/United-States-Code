@@ -22,5 +22,5 @@ The discovery of additional helium reserves shall not affect the duty of the Sec
 
 #### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section related to condemnation proceedings under Federal helium refining program.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to condemnation proceedings under Federal helium refining program.
 

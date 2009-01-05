@@ -8,7 +8,7 @@ The Secretary shall establish an Office of Dietary Supplements within the Nation
 
 The purposes of the Office are—
 
-&emsp;(1) to explore more fully the potential role of dietary supplements as a significant part of the efforts of the United States to improve health care; and
+&emsp;(1) to explore more fully the potential role of dietary supplements as a significant part ofthe efforts of the United States to improve health care; and
 
 &emsp;(2) to promote scientific study of the benefits of dietary supplements in maintaining health and preventing chronic disease and other health-related conditions.
 

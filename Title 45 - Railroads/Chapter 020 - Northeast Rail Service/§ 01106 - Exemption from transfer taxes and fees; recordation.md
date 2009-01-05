@@ -4,7 +4,7 @@
 
 (2) This section shall not apply to Federal income tax laws.
 
-(b) Transfer of designated real property (including any interest in real property) authorized by the amendments made by part 2 of this subtitle shall have the same effect for purposes of rights and priorities with respect to such property as recordation on the transfer date of appropriate deeds, or other appropriate instruments, in offices appointed under State law for such recordation, except that acquiring rail carriers and other entities shall proffer such deedsor other instruments for recordation within 36 months after the transfer date as a condition of preserving such rights and priorities beyond the expiration of that period. Conrail shall cooperate in effecting the timely preparation, execution, and proffering for recordation of such deeds and other instruments.
+(b) Transfer of designated real property (including any interest in real property) authorized by the amendments made by part 2 of this subtitle shall have the same effect for purposes of rights and priorities with respect to such property as recordation on the transfer date of appropriate deeds, or other appropriate instruments, in offices appointed under State law for such recordation, except that acquiring rail carriers and other entities shall proffer such deeds or other instruments for recordation within 36 months after the transfer date as a condition of preserving such rights and priorities beyond the expiration of that period. Conrail shall cooperate in effecting the timely preparation, execution, and proffering for recordation of such deeds and other instruments.
 
 (Pub. L. 97–35, title XI, §1153, Aug. 13, 1981, 95 Stat. 677.)
 

@@ -12,7 +12,7 @@
 
 (d) The Department has 2 Under Secretaries, an Under Secretary for Enforcement, 2 Deputy Under Secretaries, and a Treasurer of the United States, appointed by the President, by and with the advice and consent of the Senate. The Department also has a Fiscal Assistant Secretary appointed by the Secretary. They shall carry out duties and powers prescribed by the Secretary. The President may designate one Under Secretary as Counselor. When appointing each Deputy Under Secretary, the President may designate the Deputy Under Secretary as an Assistant Secretary.
 
-(e) The Department has 9 Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretaries shall carry out duties and powers prescribed by the Secretary. The Assistant Secretaries appointed under this subsection are in addition to the Assistant Secretaries appointed under subsection (d) of this section.
+(e) The Department has 10 Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretaries shall carry out duties and powers prescribed by the Secretary. The Assistant Secretaries appointed under this subsection are in addition to the Assistant Secretaries appointed under subsection (d) of this section.
 
 (f)(1) The Department has a General Counsel appointed by the President, by and with the advice and consent of the Senate. The General Counsel is the chief law officer of the Department. Without regard to those provisions of title 5 governing appointment in the competitive service, the Secretary may appoint not more than 5 Assistant General Counsels. The Secretary may designate one of the Assistant General Counsels to act as the General Counsel when the General Counsel is absent or unable to serve or when the office of General Counsel is vacant. The General Counsel and Assistant General Counsels shall carry out duties and powers prescribed by the Secretary.
 
@@ -20,7 +20,7 @@
 
 (g) The Department shall have a seal.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, §1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, §141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, §2003(a), Feb. 12, 1994, 108 Stat. 24; Pub. L. 108–177, title I, §105(d)(2), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 110–49, §11(a), July 26, 2007, 121 Stat. 260.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, §1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, §141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, §2003(a), Feb. 12, 1994, 108 Stat. 24; Pub. L. 108–177, title I, §105(d)(2), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 110–49, §11(a), July 26, 2007, 121 Stat. 260; Pub. L. 110–343, div. A, title I, §101(a)(3)(B)(ii), Oct. 3, 2008, 122 Stat. 3768.)
 
 Historical and Revision Notes
 
@@ -157,6 +157,8 @@ In subsection (g), the words “The General Counsel . . . shall have charge”
 The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–343 substituted “10” for “9”.
 
 2007—Subsec. (e). Pub. L. 110–49 substituted “9 Assistant” for “8 Assistant”.
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, permits and leases for dom
 
 #### (b) Terms of lesser duration
 
-Permits or leases may be issued by the Secretary concerned for a period shorter than ten years where the Secretary concerned determines that—
+Permits or leases may be issued by the Secretary concerned for a period shorter than tenyears where the Secretary concerned determines that—
 
 &emsp;(1) the land is pending disposal; or
 
@@ -20,7 +20,7 @@ So long as (1) the lands for which the permit or lease is issued remain availabl
 
 #### (d) Allotment management plan requirements
 
-All permits and leases for domestic livestock grazing issued pursuant to this section may incorporate an allotment management plan developed by the Secretary concerned. However, nothing in this subsection shall be construed to supersede any requirement for completion of court ordered environmental impact statements prior to development and incorporation of allotment management plans. If the Secretary concerned elects to develop an allotment management plan for a given area, he shall do so in careful and considered consultation, cooperation and coordination with the lessees, permittees, and landowners involved, the district grazing advisory boards established pursuant to section 1753 of this title, and any State or States having lands within the area to be covered by such allotment management plan. Allotment management plans shall be tailored to the specific range condition of the area to be covered by such plan, and shall be reviewed on a periodic basis to determine whether they have been effective in improving the range condition of the lands involved or whether such lands can be better managed under the provisions of subsection (e) of this section. The Secretary concerned may revise or terminate such plans or develop new plans from time to time after such review and careful and considered consultation, cooperation and coordination with the parties involved. Asused in this subsection, the terms “court ordered environmental impact statement” and “range condition” shall be defined as in the “Public Rangelands Improvement Act of 1978 \[43 U.S.C. 1901 et seq.\]”.
+All permits and leases for domestic livestock grazing issued pursuant to this section may incorporate an allotment management plan developed by the Secretary concerned. However, nothing in this subsection shall be construed to supersede any requirement for completion of court ordered environmental impact statements prior to development and incorporation of allotment management plans. If the Secretary concerned elects to develop an allotment management plan for a given area, he shall do so in careful and considered consultation, cooperation and coordination with the lessees, permittees, and landowners involved, the district grazing advisory boards established pursuant to section 1753 of this title, and any State or States having lands within the area to be covered by such allotment management plan. Allotment management plans shall be tailored to the specific range condition of the area to be covered by such plan, and shall be reviewed on a periodic basis to determine whether they have been effective in improving the range condition of the lands involved or whether such lands can be better managed under the provisions of subsection (e) of this section. The Secretary concerned may revise or terminate such plans or develop new plans from time to time after such review and careful and considered consultation, cooperation and coordination with the parties involved. As used in this subsection, the terms “court ordered environmental impact statement” and “range condition” shall be defined as in the “Public Rangelands Improvement Act of 1978 \[43 U.S.C. 1901 et seq.\]”.
 
 #### (e) Omission of allotment management plan requirements and incorporation of appropriate terms and conditions; reexamination of range conditions
 
@@ -36,19 +36,19 @@ Whenever a permit or lease for grazing domestic livestock is canceled in whole o
 
 #### (h) Applicability of provisions to rights, etc., in or to public lands or lands in National Forests
 
-Nothing in this Act shall be construed as modifying in any way law existing on October 21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
+Nothing in this Act shall be construed as modifying in any way law existing on October21, 1976, with respect to the creation of right, title, interest or estate in or to public lands or lands in National Forests by issuance of grazing permits and leases.
 
 (Pub. L. 94–579, title IV, §402, Oct. 21, 1976, 90 Stat. 2772, 2773; Pub. L. 95–514, §§7, 8, Oct. 25, 1978, 92 Stat. 1807.)
 
 #### References in Text
 
-Act of June 28, 1934, referred to in subsec. (a), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, known as the Taylor Grazing Act, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 315 of this title and Tables.
+Act of June 28, 1934, referred to in subsec. (a), is act June 28, 1934, ch. 865, 48 Stat. 1269, known as the Taylor Grazing Act, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 315 of this title and Tables.
 
-Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, as amended, which enacted sections 1181a to 1181f of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by Act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
+Act of August 28, 1937 (50 Stat. 874; 43 U.S.C. 1181a–1181j), referred to in subsec. (a), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which is classified principally to section 1181a et seq. of this title. Sections 1181f–1 to 1181f–4, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753. Sections 1181g to 1181j, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270. Section 1181c, also included within the parenthetical reference to sections 1181a to 1181j, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of these Acts to the Code, see Tables.
 
 The Public Rangelands Improvement Act of 1978, referred to in subsec. (d), is Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which is classified principally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-This Act, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 95–514, §8(b), substituted introductory word “In” fo
 
 #### Grazing Permit Renewals
 
-Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: “That beginning in November2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazing permits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries’ budget proposals”.
+Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: “That beginning in November 2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazing permits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries’ budget proposals”.
 
 #### Appeals of Reductions in Grazing Allotments on Public Rangeland; Time; Effective Date of Reductions; Suspension Pending Final Action on Appeal
 

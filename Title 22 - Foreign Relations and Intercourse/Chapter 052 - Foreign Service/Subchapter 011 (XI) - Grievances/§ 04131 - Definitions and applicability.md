@@ -1,6 +1,6 @@
 ### §4131. Definitions and applicability
 
-(a)(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, theterm “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under section 3951 of this title who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
+(a)(1) Except as provided in subsection (b) of this section, for purposes of this subchapter, the term “grievance” means any act, omission, or condition subject to the control of the Secretary which is alleged to deprive a member of the Service who is a citizen of the United States (other than a United States citizen employed under section 3951 of this title who is not a family member) of a right or benefit authorized by law or regulation or which is otherwise a source of concern or dissatisfaction to the member, including—
 
 &emsp;(A) separation of the member allegedly contrary to laws or regulations, or predicated upon alleged inaccuracy, omission, error, or falsely prejudicial character of information in any part of the official personnel record of the member;
 
@@ -58,7 +58,7 @@ Subsec. (b)(3). Pub. L. 103–236, §181(a)(4), made technical amendment to refe
 
 1991—Subsec. (a)(1)(H). Pub. L. 102–138, §153(a)(1), added subpar. (H).
 
-Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.”
+Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violateany law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) of this section from such term.”
 
 #### Change of Name
 

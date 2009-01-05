@@ -24,7 +24,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) State flexibility
 
-&emsp;&emsp;A State that provides early intervention services in accordance with subchapter III toa child who is eligible for services under section 1419 of this title, is not required to provide such child with a free appropriate public education.
+&emsp;&emsp;A State that provides early intervention services in accordance with subchapter III to a child who is eligible for services under section 1419 of this title, is not required to provide such child with a free appropriate public education.
 
 #### (2) Full educational opportunity goal
 
@@ -58,7 +58,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Assurance
 
-&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance with clause (i), the State shall provide the Secretary an assurance that the State will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
+&emsp;&emsp;&emsp;If the State does not have policies and procedures to ensure compliance withclause (i), the State shall provide the Secretary an assurance that the State will revise the funding mechanism as soon as feasible to ensure that such mechanism does not result in such placements.
 
 #### (6) Procedural safeguards
 
@@ -88,7 +88,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary schools and secondary schools in the school district served by a local educational agency, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless theSecretary has arranged for services to those children under subsection (f):
+&emsp;&emsp;&emsp;To the extent consistent with the number and location of children with disabilities in the State who are enrolled by their parents in private elementary schools and secondary schools in the school district served by a local educational agency, provision is made for the participation of those children in the program assisted or carried out under this subchapter by providing for such children special education and related services in accordance with the following requirements, unless the Secretary has arranged for services to those children under subsection (f):
 
 &emsp;&emsp;&emsp;&emsp;(I) Amounts to be expended for the provision of those services (including direct services to parentally placed private school children) by the local educational agency shall be equal to a proportionate amount of Federal funds made available under this subchapter.
 
@@ -120,7 +120,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (V) Completion period
 
-&emsp;&emsp;&emsp;&emsp;Such child find process shall be completed in a time period comparable to that for other students attending public schools in the local educational agency.
+&emsp;&emsp;&emsp;&emsp;Such child find process shall be completed in a time period comparable tothat for other students attending public schools in the local educational agency.
 
 #### (iii) Consultation
 
@@ -138,7 +138,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iv) Written affirmation
 
-&emsp;&emsp;&emsp;When timely and meaningful consultation as required by clause (iii) has occurred, the local educational agency shall obtain a written affirmation signed by the representatives of participating private schools, and if such representatives do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation ofthe consultation process to the State educational agency.
+&emsp;&emsp;&emsp;When timely and meaningful consultation as required by clause (iii) has occurred, the local educational agency shall obtain a written affirmation signed by the representatives of participating private schools, and if such representatives do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation of the consultation process to the State educational agency.
 
 #### (v) Compliance
 
@@ -172,7 +172,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements of this subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
+&emsp;&emsp;&emsp;Children with disabilities in private schools and facilities are provided special education and related services, in accordance with an individualized education program, at no cost to their parents, if such children are placed in, or referred to, such schools or facilities by the State or appropriate local educational agency as the means of carrying out the requirements ofthis subchapter or any other applicable law requiring the provision of special education and related services to all children with disabilities within such State.
 
 #### (ii) Standards
 
@@ -198,7 +198,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in item (aa);
 
-&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents’ removal of the child from the public school, the public agency informed the parents,through the notice requirements described in section 1415(b)(3) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
+&emsp;&emsp;&emsp;&emsp;(II) if, prior to the parents’ removal of the child from the public school, the public agency informed the parents, through the notice requirements described in section 1415(b)(3) of this title, of its intent to evaluate the child (including a statement of the purpose of the evaluation that was appropriate and reasonable), but the parents did not make the child available for such evaluation; or
 
 &emsp;&emsp;&emsp;&emsp;(III) upon a judicial finding of unreasonableness with respect to actions taken by the parents.
 
@@ -366,7 +366,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (D) Reports
 
-&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the localeducational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
 &emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
 
@@ -398,7 +398,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;The State does not reduce the amount of State financial support for special educationand related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
+&emsp;&emsp;The State does not reduce the amount of State financial support for special education and related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
 
 #### (B) Reduction of funds for failure to maintain support
 
@@ -432,7 +432,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Membership
 
-&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
+&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any otherofficial authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) parents of children with disabilities (ages birth through 26);
 
@@ -616,7 +616,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (C) Review of findings of fact
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall beconclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (D) Jurisdiction of court of appeals; review by United States Supreme Court
 

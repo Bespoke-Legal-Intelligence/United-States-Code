@@ -72,7 +72,7 @@ Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see secti
 
 Section 4 of Pub. L. 98–186, as amended by Pub. L. 104–66, title II, §2211(a), Dec. 21, 1995, 109 Stat. 732, provided that:
 
-“(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop andcarry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
+“(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
 “(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
 

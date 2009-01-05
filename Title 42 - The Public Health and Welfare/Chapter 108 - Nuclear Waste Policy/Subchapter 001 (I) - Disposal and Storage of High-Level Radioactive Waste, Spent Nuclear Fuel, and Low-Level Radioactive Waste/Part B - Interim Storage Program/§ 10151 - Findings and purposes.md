@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) the persons owning and operating civilian nuclear power reactors have the primary responsibility for providing interim storage of spent nuclear fuel from such reactors, by maximizing, to the extent practical, the effective use of existing storage facilities at the site of each civilian nuclear power reactor,and by adding new onsite storage capacity in a timely manner where practical;
+&emsp;(1) the persons owning and operating civilian nuclear power reactors have the primary responsibility for providing interim storage of spent nuclear fuel from such reactors, by maximizing, to the extent practical, the effective use of existing storage facilities at the site of each civilian nuclear power reactor, and by adding new onsite storage capacity in a timely manner where practical;
 
 &emsp;(2) the Federal Government has the responsibility to encourage and expedite the effective use of existing storage facilities and the addition of needed new storage capacity at the site of each civilian nuclear power reactor; and
 

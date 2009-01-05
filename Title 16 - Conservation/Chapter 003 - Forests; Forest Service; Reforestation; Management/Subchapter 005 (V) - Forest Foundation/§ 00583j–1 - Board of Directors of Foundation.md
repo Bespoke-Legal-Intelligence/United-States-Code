@@ -6,7 +6,7 @@ The Foundation shall have a governing Board of Directors (hereinafter referred t
 
 #### (b) Appointment and terms
 
-Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
+Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred toas the “Secretary”) shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
 
 #### (c) Chairman
 
@@ -18,7 +18,7 @@ A majority of the current voting membership of the Board shall constitute a quor
 
 #### (e) Meetings
 
-The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings,that individual may be removed from the Board by majority vote of the Board of Directors and that vacancy filled in accordance with subsection (b) of this section.
+The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board by majority vote of the Board of Directors and that vacancy filled in accordance with subsection (b) of this section.
 
 #### (f) Reimbursement of expenses
 

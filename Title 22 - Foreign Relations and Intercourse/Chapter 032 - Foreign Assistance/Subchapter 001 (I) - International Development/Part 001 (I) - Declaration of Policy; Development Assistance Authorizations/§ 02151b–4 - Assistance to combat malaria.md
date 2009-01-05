@@ -6,7 +6,7 @@ Congress finds that malaria kills more people annually than any other communicab
 
 #### (b) Policy
 
-It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, control, and cure of malaria.
+It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, control, treatment, and cure of malaria.
 
 #### (c) Authorization
 
@@ -16,7 +16,11 @@ To carry out this section and consistent with section 2151b(c) of this title, th
 
 In carrying out this section, the President shall coordinate with the World Health Organization, the Global Fund to Fight AIDS, Tuberculosis, and Malaria, the Department of Health and Human Services (the Centers for Disease Control and Prevention and the National Institutes of Health), and other organizations with respect to the development and implementation of a comprehensive malaria control program.
 
-(Pub. L. 87–195, pt. I, §104C, as added Pub. L. 108–25, title III, §303(a), May 27, 2003, 117 Stat. 736.)
+(Pub. L. 87–195, pt. I, §104C, as added Pub. L. 108–25, title III, §303(a), May 27, 2003, 117 Stat. 736; amended Pub. L. 110–293, title III, §303(a), July 30, 2008, 122 Stat. 2960.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–293 inserted “treatment,” after “control,”.
 
 #### Delegation of Functions
 

@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;The term of office of a member of an advisory council appointed under subsection (b) of this section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
+&emsp;The term of office of a member of an advisory council appointed under subsection (b) ofthis section shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
 
 #### (2) Reappointments
 
@@ -98,7 +98,7 @@ Section was formerly classified to section 290aa–3a of this title prior to ren
 
 #### Prior Provisions
 
-A prior section 290aa–1, act July 1, 1944, ch. 373, title V, §502, formerly Pub. L. 91–616, title I, §101, Dec. 31, 1970, 84 Stat. 1848, as amended Pub. L. 93–282, title II, §203(a), May 14, 1974, 88 Stat. 135; Pub. L. 96–180, §3, Jan. 2, 1980, 93 Stat. 1302; Pub. L. 97–35, title IX, §966(a), Aug. 13, 1981, 95 Stat. 595; renumbered §502 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(3), 97 Stat. 177; Oct. 19, 1984, Pub. L. 98–509, title II, §205(b)(2), 98 Stat. 2361; Oct. 27, 1986, Pub. L. 99–570, title IV,§4005(b)(1), 100 Stat. 3207–114, related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by Pub. L. 102–321, title I, §101(b), July 10, 1992, 106 Stat. 331. See section 285n of this title.
+A prior section 290aa–1, act July 1, 1944, ch. 373, title V, §502, formerly Pub. L. 91–616, title I, §101, Dec. 31, 1970, 84 Stat. 1848, as amended Pub. L. 93–282, title II, §203(a), May 14, 1974, 88 Stat. 135; Pub. L. 96–180, §3, Jan. 2, 1980, 93 Stat. 1302; Pub. L. 97–35, title IX, §966(a), Aug. 13, 1981, 95 Stat. 595; renumbered §502 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(3), 97 Stat. 177; Oct. 19, 1984, Pub. L. 98–509, title II, §205(b)(2), 98 Stat. 2361; Oct. 27, 1986, Pub. L. 99–570, title IV, §4005(b)(1), 100 Stat. 3207–114, related to National Institute on Alcohol Abuse and Alcoholism, prior to repeal by Pub. L. 102–321, title I, §101(b), July 10, 1992, 106 Stat. 331. See section 285n of this title.
 
 A prior section 502 of act July 1, 1944, which was classified to section 220 of this title, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 

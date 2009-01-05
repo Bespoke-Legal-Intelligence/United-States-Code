@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporationand any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transaction from the related party (or transferred by such corporation in such transaction to the related party),
 
-> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
+> &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from suchinformation as the Secretary may obtain through testimony or otherwise.
 
 #### (4) Judicial proceedings
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(<i>l</i>), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(<i>l</i>), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
 
 #### Amendments
 
@@ -228,7 +228,7 @@ General Rule.—The amendments made by section 7403 of the Revenue Reconciliatio
 
 &emsp;“(2) any requirement under such section 6038A(a) to maintain records which were in existence on or after March 20, 1990,
 
-&emsp;“(3) any requirement to authorize a corporation to act as a limited agent under section 6038A(e)(1) ofsuch Code (as so amended) if the time for authorizing such action is after the date of the enactment of this Act, and
+&emsp;“(3) any requirement to authorize a corporation to act as a limited agent under section 6038A(e)(1) of such Code (as so amended) if the time for authorizing such action is after the date of the enactment of this Act, and
 
 &emsp;“(4) any summons issued after such date of enactment,
 

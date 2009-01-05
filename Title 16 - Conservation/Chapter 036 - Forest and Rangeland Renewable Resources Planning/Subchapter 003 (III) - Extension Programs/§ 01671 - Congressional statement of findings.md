@@ -16,7 +16,7 @@ Congress finds that—
 
 #### Effective and Termination Dates
 
-Pub. L. 95–306, §8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, §2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, §8101(b)(2), May 13, 2002, 116 Stat. 475, provided that: “The provisions of this Act \[enacting this subchapter and provision set out as a note under section 1600 of this title\] shall be effective for the period beginning October 1, 1978, and ending September 30, 2007.”
+Pub. L. 95–306, §8, June 30, 1978, 92 Stat. 352, as amended by Pub. L. 100–231, §2(2), Jan. 5, 1988, 101 Stat. 1565; Pub. L. 107–171, title VIII, §8101(b)(2), May 13, 2002, 116 Stat. 475; Pub. L. 110–234, title VII, §7413(b), May 22, 2008, 110 Stat. 1256; Pub. L. 110–246, §4(a), title VII, §7413(b), June 18, 2008, 122 Stat. 1664, 2017, provided that: “The provisions of this Act \[enacting this subchapter and provision set out as a note under section 1600 of this title\] shall be effective for the period beginning October 1, 1978, and ending September 30, 2012.”
 
 #### Short Title
 

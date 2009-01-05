@@ -62,7 +62,19 @@ No tax shall be imposed by section 4051 on any of the following articles:
 
 &emsp;&emsp;(C) which, by reason of such special design, could not, without substantial structural modification, be used as a component of a vehicle designed to perform a function of transporting any load other than that particular machinery or equipment or similar machinery or equipment requiring such a specially designed chassis.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981; Pub. L. 108–357, title VIII, §851(a)(1), Oct. 22, 2004, 118 Stat. 1607.)
+#### (9) Idling reduction device
+
+&emsp;Any device or system of devices which—
+
+&emsp;&emsp;(A) is designed to provide to a vehicle those services (such as heat, air conditioning, or electricity) that would otherwise require the operation of the main drive engine while the vehicle is temporarily parked or remains stationary using one or more devices affixed to a tractor, and
+
+&emsp;&emsp;(B) is determined by the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Energy and the Secretary of Transportation, to reduce idling of such vehicle at a motor vehicle rest stop or other location where such vehicles are temporarily parked or remain stationary.
+
+#### (10) Advanced insulation
+
+&emsp;Any insulation that has an R value of not less than R35 per inch.
+
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981; Pub. L. 108–357, title VIII, §851(a)(1), Oct. 22, 2004, 118 Stat. 1607; Pub. L. 110–343, div. B, title II, §206(a), Oct. 3, 2008, 122 Stat. 3839.)
 
 #### Prior Provisions
 
@@ -72,9 +84,15 @@ For provisions of prior sections 4054 to 4058 of this title, see Prior Provision
 
 #### Amendments
 
+2008—Pars. (9), (10). Pub. L. 110–343 added pars. (9) and (10).
+
 2004—Par. (8). Pub. L. 108–357 added par. (8).
 
 1984—Pub. L. 98–369 amended section generally, substituting provisions listing articles on which no tax under section 4051 shall be imposed for former provisions which stated that no tax be imposed under section 4051 on any article specified in subsection (a) of section 4063 and that the exemptions provided by section 4221(a) extended to the tax imposed by section 4051.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title II, §206(b), Oct. 3, 2008, 122 Stat. 3839, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 2004 Amendment
 

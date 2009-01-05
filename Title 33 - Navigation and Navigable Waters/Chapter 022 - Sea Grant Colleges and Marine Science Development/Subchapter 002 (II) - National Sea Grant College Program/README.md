@@ -13,7 +13,7 @@
 - [&sect; 01125 - Repealed. Pub. L. 102&#8211;186, &sect;4(a), Dec. 4, 1991, 105 Stat. 1283](%C2%A7%2001125%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A74%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md)
 - [&sect; 01126 - Sea grant colleges and sea grant institutes](%C2%A7%2001126%20-%20Sea%20grant%20colleges%20and%20sea%20grant%20institutes.md)
 - [&sect; 01127 - Fellowships](%C2%A7%2001127%20-%20Fellowships.md)
-- [&sect; 01128 - Sea grant review panel](%C2%A7%2001128%20-%20Sea%20grant%20review%20panel.md)
+- [&sect; 01128 - National Sea Grant Advisory Board](%C2%A7%2001128%20-%20National%20Sea%20Grant%20Advisory%20Board.md)
 - [&sect; 01129 - Interagency cooperation](%C2%A7%2001129%20-%20Interagency%20cooperation.md)
 - [&sect; 01130 - Repealed. Pub. L. 102&#8211;186, &sect;5(a), Dec. 4, 1991, 105 Stat. 1283](%C2%A7%2001130%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A75%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md)
 - [&sect; 01131 - Authorization of appropriations](%C2%A7%2001131%20-%20Authorization%20of%20appropriations.md)

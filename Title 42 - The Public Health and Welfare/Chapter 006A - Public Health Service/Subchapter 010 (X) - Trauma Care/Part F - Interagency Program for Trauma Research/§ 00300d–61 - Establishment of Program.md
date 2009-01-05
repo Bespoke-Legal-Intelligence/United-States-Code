@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institutes of Health (in this sectionreferred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the “Director”), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the “Program”). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
 
 #### (b) Plan for Program
 
@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the National Institutes of Health 
 
 #### (2) Submission to Congress
 
-&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1) to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
+&emsp;Not later than December 1, 1993, the Director shall submit the plan required in paragraph (1) to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Health, Education, Labor, and Pensions of the Senate, together with an estimate of the funds needed for each of the fiscal years 1994 through 1996 to implement the plan.
 
 #### (c) Participating agencies; coordination and collaboration
 
@@ -42,7 +42,7 @@ The Program shall include—
 
 &emsp;&emsp;(C) the development of research on a continuum of care from acute care through rehabilitation, designed, to the extent practicable, to integrate rehabilitation and long-term outcome evaluation with acute care research;
 
-&emsp;&emsp;(D) the development of programs that increase the participation of academic centers of excellence in head brain <sup>1</sup> injury treatment and rehabilitation research and training; and
+&emsp;&emsp;(D) the development of programs that increase the participation of academic centers of excellence in brain injury treatment and rehabilitation research and training; and
 
 &emsp;&emsp;(E) carrying out subparagraphs (A) through (D) with respect to cognitive disorders and neurobehavioral consequences arising from traumatic brain injury, including the development, modification, and evaluation of therapies and programs of rehabilitation toward reaching or restoring normal capabilities in areas such as reading, comprehension, speech, reasoning, and deduction.
 
@@ -86,15 +86,21 @@ For purposes of this section:
 
 #### (i) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
-(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138.)
+(July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716.)
 
 #### Amendments
 
+2008—Subsec. (b)(2). Pub. L. 110–206, §5(1), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
+
+Subsec. (d)(4)(D). Pub. L. 110–206, §5(2), substituted “brain injury” for “head brain injury”.
+
+Subsec. (i). Pub. L. 110–206, §5(3), inserted “, and such sums as may be necessary for each of the fiscal years 2009 through 2012” before period at end.
+
 2000—Subsec. (d)(4)(A). Pub. L. 106–310, §1303(a)(1), substituted “degree of brain injury” for “degree of injury”.
 
-Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not be executed because the phrase “acute injury” does not appear in text.
+Subsec. (d)(4)(B). Pub. L. 106–310, §1303(a)(2), which directed amendment of subpar. (B) by substituting “acute brain injury” for “acute injury”, could not beexecuted because the phrase “acute injury” does not appear in text.
 
 Subsec. (d)(4)(C). Pub. L. 106–310, §1303(c)(1), struck out “and” after semicolon at end.
 
@@ -111,8 +117,6 @@ Subsec. (i). Pub. L. 106–310, §1303(d), added subsec. (i).
 Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
 
 #### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -12,7 +12,7 @@ The Disability Coordinator shall be responsible for—
 
 &emsp;(2) interacting with the staff of the Agency, the National Council on Disabilities, the Interagency Coordinating Council on Preparedness and Individuals with Disabilities established under Executive Order No. 13347, other agencies of the Federal Government, and State, local, and tribal government authorities regarding the needs of individuals with disabilities in emergency planning requirements and relief efforts in the event of a natural disaster, act of terrorism, or other man-made disaster;
 
-&emsp;(3) consulting with organizations that represent the interests and rights of individuals with disabilities about the needs of individuals with disabilities in emergency planning requirements and relief efforts in the event of a natural disaster, act of terrorism, or other man-made disaster;
+&emsp;(3) consulting with organizations that represent the interests and rights of individuals with disabilities about the needs of individualswith disabilities in emergency planning requirements and relief efforts in the event of a natural disaster, act of terrorism, or other man-made disaster;
 
 &emsp;(4) ensuring the coordination and dissemination of best practices and model evacuation plans for individuals with disabilities;
 

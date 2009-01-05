@@ -2,7 +2,7 @@
 
 #### (a) Rates and sources; deposits in Fund
 
-(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received byeach participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
+(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
@@ -86,7 +86,7 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2),405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384.)
 
 #### Amendment of Section
 
@@ -148,7 +148,7 @@ Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) \[amending this section\] and\(b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
+Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) \[amending this section\] and (b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
 
 #### Effective Date of 2000 Amendment
 

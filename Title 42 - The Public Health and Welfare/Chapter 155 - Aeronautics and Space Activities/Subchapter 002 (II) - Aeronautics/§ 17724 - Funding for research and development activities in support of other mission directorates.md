@@ -1,0 +1,6 @@
+### §17724. Funding for research and development activities in support of other mission directorates
+
+Research and development activities performed by the Aeronautics Research Mission Directorate with the primary objective of assisting in the development of a flight project in another Mission Directorate shall be funded by the Mission Directorate seeking assistance.
+
+(Pub. L. 110–422, title III, §307, Oct. 15, 2008, 122 Stat. 4788.)
+

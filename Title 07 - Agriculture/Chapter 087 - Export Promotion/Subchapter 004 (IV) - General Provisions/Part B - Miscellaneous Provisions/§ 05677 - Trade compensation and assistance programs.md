@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Except as provided in subsection (f) of this section, notwithstanding any other provision of law, if, after April 4, 1996, the President or any other member of the executive branch causes exports from the United States to any country to be unilaterally suspended for reasons of national security or foreign policy, and if within 90 days after the date on which the suspension is imposed on United States exports no other country with an agricultural economic interest agrees to participate in the suspension, the Secretary shall carry out a trade compensation assistance program in accordance with this section (referred to in this section as a “program”).
+Except as provided in subsection (f) of this section, notwithstanding any other provision of law, if, after April 4, 1996, the President or any other member of the executive branch causes exports from the United States to any country to be unilaterally suspended for reasons of national security or foreign policy, and if within 90 daysafter the date on which the suspension is imposed on United States exports no other country with an agricultural economic interest agrees to participate in the suspension, the Secretary shall carry out a trade compensation assistance program in accordance with this section (referred to in this section as a “program”).
 
 #### (b) Compensation or provision of funds
 
-Under a program, the Secretary shall, based on an evaluation by the Secretary of the methodmost likely to produce the greatest compensatory benefit for producers of the commodity involved in the suspension—
+Under a program, the Secretary shall, based on an evaluation by the Secretary of the method most likely to produce the greatest compensatory benefit for producers of the commodity involved in the suspension—
 
 &emsp;(1) compensate producers of the commodity by making payments available to producers, as provided by subsection (c)(1) of this section; or
 

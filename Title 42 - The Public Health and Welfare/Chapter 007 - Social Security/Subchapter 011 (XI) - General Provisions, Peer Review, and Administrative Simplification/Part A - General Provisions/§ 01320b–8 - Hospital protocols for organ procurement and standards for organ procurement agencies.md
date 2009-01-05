@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(iii) require that such hospital's designated organ procurement agency (as defined in paragraph (3)(B)) is notified of potential organ donors;
 
-&emsp;(B) in the case of a hospital in which organ transplants are performed, the hospital is a member of, and abides by the rules and requirements of, the Organ Procurement andTransplantation Network established pursuant to section 274 of this title (in this section referred to as the “Network”); and
+&emsp;(B) in the case of a hospital in which organ transplants are performed, the hospital is a member of, and abides by the rules and requirements of, the Organ Procurement and Transplantation Network established pursuant to section 274 of this title (in this section referred to as the “Network”); and
 
 &emsp;(C) the hospital or critical access hospital has an agreement (as defined in paragraph (3)(A)) only with such hospital's designated organ procurement agency.
 
@@ -62,7 +62,7 @@
 
 &emsp;(F) is designated by the Secretary as an organ procurement organization payments to which may be treated as organ procurement costs for purposes of reimbursement under such subchapter.
 
-(2) The Secretary may not designate more than one organ procurement organization for each service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
+(2) The Secretary may not designate more than one organ procurement organization foreach service area (described in section 273(b)(1)(E) <sup>1</sup> of this title) under paragraph (1)(F).
 
 (Aug. 14, 1935, ch. 531, title XI, §1138, as added Pub. L. 99–509, title IX, §9318(a), Oct. 21, 1986, 100 Stat. 2009; amended Pub. L. 100–203, title IV, §4039(h)(2), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; amended Pub. L. 101–239, title VI, §6003(g)(3)(D)(iv), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 103–432, title I, §155(a)(1), Oct. 31, 1994, 108 Stat. 4438; Pub. L. 105–33, title IV, §§4201(c)(1), 4642, Aug. 5, 1997, 111 Stat. 373, 487.)
 
@@ -76,7 +76,7 @@ Section 273(b)(1)(E) of this title, referred to in subsec. (b)(2), was redesigna
 
 Subsec. (b)(1)(A)(ii). Pub. L. 105–33, §4642, substituted “2 years (4 years if the Secretary determines appropriate for an organization on the basis of its past practices)” for “two years”.
 
-1994—Subsec. (a)(1)(A)(iii). Pub. L. 103–432, §155(a)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “require that an organ procurement agency designated by the Secretarypursuant to subsection (b)(1)(F) of this section be notified of potential organ donors; and”.
+1994—Subsec. (a)(1)(A)(iii). Pub. L. 103–432, §155(a)(1)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “require that an organ procurement agency designated by the Secretary pursuant to subsection (b)(1)(F) of this section be notified of potential organ donors; and”.
 
 Subsec. (a)(1)(C). Pub. L. 103–432, §155(a)(1)(B), added subpar. (C).
 

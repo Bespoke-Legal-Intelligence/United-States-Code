@@ -1,6 +1,6 @@
 ### §598. Coercion by means of relief appropriations
 
-Whoever uses any part of any appropriation made by Congress for work relief, relief, or for increasing employment by providing loans and grants for public-works projects, or exercises or administers any authority conferred by any Appropriation Act for the purpose of interferingwith, restraining, or coercing any individual in the exercise of his right to vote at any election, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever uses any part of any appropriation made by Congress for work relief, relief, or for increasing employment by providing loans and grants for public-works projects, or exercises or administers any authority conferred by any Appropriation Act for the purpose of interfering with, restraining, or coercing any individual in the exercise of his right to vote at any election, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 721; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 

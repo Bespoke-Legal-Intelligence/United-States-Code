@@ -50,9 +50,9 @@ Notice to Department of the Interior.—Copies of instruments granting easements
 
 (e)
 
-Disposition of Consideration.—Subsections (c) and (d) <sup>1</sup> of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
+Disposition of Consideration.—Subsections (c) and (e) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475; Pub. L. 110–181, div. A, title X, §1063(a)(14), Jan. 28, 2008, 122 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -94,11 +94,9 @@ In subsections (b) and (c), the word “easement” is substituted for the word 
 
 In subsection (c), the word “terminate” is substituted for the words “annulled and forfeited”. The words “and conditions” are omitted as covered by the word “terms”. The words “two-year period” are substituted for the words “a period of two consecutive years”. The words “of rights granted under authority hereof” are omitted as surplusage.
 
-#### References in Text
-
-Subsection (d) of section 2667 of this title, referred to in subsec. (e), was redesignated subsec. (e) and a new subsec. (d) was added by Pub. L. 109–364, div. A, title VI, §662(b), Oct. 17, 2006, 120 Stat. 2263.
-
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–181 substituted “and (e)” for “and (d)”.
 
 2006—Subsec. (a). Pub. L. 109–364, §2822(a)(1), (b)(1), inserted heading and, in introductory provisions, substituted “the Secretary may” for “he may”, “the Secretary considers” for “he considers”, and “the Secretary's control” for “his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession,”.
 
@@ -123,6 +121,4 @@ Subsec. (a)(10) to (12). Pub. L. 104–201, §2861(a)(3), added pars. (10) to (1
 Subsec. (a)(13). Pub. L. 104–201, §2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 (43 U.S.C. 961)” after “2669 of this title”.
 
 1984—Subsec. (a)(10). Pub. L. 98–525 substituted “the Act of March 4, 1911 (43 U.S.C. 961)” for “section 961 of title 43”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

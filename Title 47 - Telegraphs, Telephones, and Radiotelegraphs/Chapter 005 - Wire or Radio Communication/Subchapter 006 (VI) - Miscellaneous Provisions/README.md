@@ -19,5 +19,6 @@
 - [&sect; 00613 - Video programming accessibility](%C2%A7%2000613%20-%20Video%20programming%20accessibility.md)
 - [&sect; 00614 - Telecommunications Development Fund](%C2%A7%2000614%20-%20Telecommunications%20Development%20Fund.md)
 - [&sect; 00615 - Support for universal emergency telephone number](%C2%A7%2000615%20-%20Support%20for%20universal%20emergency%20telephone%20number.md)
-- [&sect; 00615a - Parity of protection for provision or use of wireless service](%C2%A7%2000615a%20-%20Parity%20of%20protection%20for%20provision%20or%20use%20of%20wireless%20service.md)
+- [&sect; 00615a - Service provider parity of protection](%C2%A7%2000615a%20-%20Service%20provider%20parity%20of%20protection.md)
+- [&sect; 00615a&#8211;1 - Duty to provide 9&#8211;1&#8211;1 and enhanced 9&#8211;1&#8211;1 service](%C2%A7%2000615a%E2%80%931%20-%20Duty%20to%20provide%209%E2%80%931%E2%80%931%20and%20enhanced%209%E2%80%931%E2%80%931%20service.md)
 - [&sect; 00615b - Definitions](%C2%A7%2000615b%20-%20Definitions.md)

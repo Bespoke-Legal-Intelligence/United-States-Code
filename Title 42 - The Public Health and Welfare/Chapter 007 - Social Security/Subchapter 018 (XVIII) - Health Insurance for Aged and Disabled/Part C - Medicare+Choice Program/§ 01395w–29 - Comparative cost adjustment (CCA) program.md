@@ -32,7 +32,7 @@
 
 #### (B) MSA defined
 
-&emsp;&emsp;For purposes of this section, the term “MSA” means a Metropolitan StatisticalArea (or such similar area as the Secretary recognizes).
+&emsp;&emsp;For purposes of this section, the term “MSA” means a Metropolitan Statistical Area (or such similar area as the Secretary recognizes).
 
 #### (2) Requirements for CCA areas
 
@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In applying this section for a year before 2013, paragraph (1)(A) shall be applied as if the phase-in fraction under subparagraph (B) of the CCA non-drug monthly benchmark amount for the year were substituted for such fraction of the MA area-specific non-drug monthly benchmark amount.
+&emsp;&emsp;In applying this section for a year before 2013, paragraph (1)(A) shall be applied as ifthe phase-in fraction under subparagraph (B) of the CCA non-drug monthly benchmark amount for the year were substituted for such fraction of the MA area-specific non-drug monthly benchmark amount.
 
 #### (B) Phase-in fraction
 
@@ -198,7 +198,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(B)(i) and subsection (f)(2)(A) of this section, subject to subparagraph (C), the term “fee-for-service area-specific non-drug amount” means, for a CCA area and a year, the adjusted average per capita cost for such area and year involved, determined under section1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment for benefits under the original medicare fee-for-service program option for individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter who are not enrolled in an MA plan for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
+&emsp;&emsp;For purposes of paragraph (2)(B)(i) and subsection (f)(2)(A) of this section, subject to subparagraph (C), the term “fee-for-servicearea-specific non-drug amount” means, for a CCA area and a year, the adjusted average per capita cost for such area and year involved, determined under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment for benefits under the original medicare fee-for-service program option for individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter who are not enrolled in an MA plan for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
 
 #### (B) Use of full risk adjustment to standardize fee-for-service costs to typical beneficiary
 

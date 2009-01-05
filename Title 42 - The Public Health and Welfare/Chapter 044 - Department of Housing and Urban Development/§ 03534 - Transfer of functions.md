@@ -10,13 +10,9 @@ The Government National Mortgage Association, together with its functions, power
 
 #### (c) Studies of organization of housing and urban development functions and programs and recommendations regarding transfer of such functions and programs to or from Department
 
-The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or other functions carried out by the Bureau of Outdoor Recreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
+The President shall undertake studies of the organization of housing and urban development functions and programs within the Federal Government, and he shall provide the Congress with the findings and conclusions of such studies, together with his recommendations regarding the transfer of such functions and programs to or from the Department. Notwithstanding any other provision of this chapter, none of the functions of the Secretary of the Interior authorized under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–4 et seq.\] or other functions carried out by the Bureau of OutdoorRecreation shall be transferred from the Department of the Interior or in any way be limited geographically unless specifically provided for by reorganization plan pursuant to provisions of chapter 9 of title 5, or by statute.
 
-#### (d) Prohibition of merger of Office
-
-Notwithstanding any other provision of this chapter, the Secretary may not merge or consolidate the Office of Federal Housing Enterprise Oversight of the Department, or any of the functions or responsibilities of such Office, with any function or program administered by the Secretary.
-
-(Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–448, title VIII, §807(c), Aug. 1, 1968, 82 Stat. 544; Pub. L. 102–550, title XIII, §1352, Oct. 28, 1992, 106 Stat. 3969.)
+(Pub. L. 89–174, §5, Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–448, title VIII, §807(c), Aug. 1, 1968, 82 Stat. 544; Pub. L. 102–550, title XIII, §1352, Oct. 28, 1992, 106 Stat. 3969; Pub. L. 110–289, div. A, title I, §1161(f), July 30, 2008, 122 Stat. 2780.)
 
 #### References in Text
 
@@ -29,6 +25,8 @@ In subsec. (c) “chapter 9 of title 5” substituted for “the Reorganization 
 Section was formerly classified to section 624c of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–289 struck out subsec. (d) which read as follows: “Notwithstanding any other provision of this chapter, the Secretary may not merge or consolidate the Office of Federal Housing Enterprise Oversight of the Department, or any of the functions or responsibilities of such Office, with any function or program administered by the Secretary.”
 
 1992—Subsec. (d). Pub. L. 102–550 added subsec. (d).
 

@@ -14,9 +14,9 @@ A prior section 583, Pub. L. 91–518, title V, §503, Oct. 30, 1970, 84 Stat. 1
 
 Section 584, Pub. L. 91–518, title V, §504, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 648, related to commuter services provided by Amtrak Commuter Services Corporation. See sections 24501, 24504, and 24505 of Title 49, Transportation.
 
-Section 585, Pub. L. 91–518, title V, §505, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 650; amended Pub. L. 97–468, title V, §508, Jan. 14, 1983, 96 Stat. 2554, related to duties and composition of Northeast Corridor Coordination Board. See section 24905 of Title 49.
+Section 585, Pub. L. 91–518, title V, §505, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 650; amended Pub. L. 97–468, title V, §508, Jan. 14, 1983, 96 Stat. 2554, related to duties and composition of Northeast Corridor Coordination Board.
 
-Section 586, Pub. L. 91–518, title V, §506, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 650, related to transfers of property and commuter service to Amtrak Commuter Services Corporation and commuter authorities. See section 24506 of Title 49.
+Section 586, Pub. L. 91–518, title V, §506, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 650, related to transfers of property and commuter service to Amtrak Commuter Services Corporation and commuter authorities. See section 24506 of Title 49, Transportation.
 
 Section 587, Pub. L. 91–518, title V, §507, as added Pub. L. 97–35, title XI, §1137, Aug. 13, 1981, 95 Stat. 652, exempted transfers of property and assumptions of service responsibilities pursuant to section 586 of this title from judicial review.
 

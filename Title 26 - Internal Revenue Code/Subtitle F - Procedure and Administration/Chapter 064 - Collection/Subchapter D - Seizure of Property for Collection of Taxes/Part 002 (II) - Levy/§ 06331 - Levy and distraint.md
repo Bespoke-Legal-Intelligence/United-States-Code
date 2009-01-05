@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person oron which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) of such officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
+If any person liable to pay any tax neglects or refuses to pay the same within 10 days after notice and demand, it shall be lawful for the Secretary to collect such tax (and such further sum as shall be sufficient to cover the expenses of the levy) by levy upon all property and rights to property (except such property as is exempt under section 6334) belonging to such person or on which there is a lien provided in this chapter for the payment of such tax. Levy may be made upon the accrued salary or wages of any officer, employee, or elected official, of the United States, the District of Columbia, or any agency or instrumentality of the United States or the District of Columbia, by serving a notice of levy on the employer (as defined in section 3401(d)) ofsuch officer, employee, or elected official. If the Secretary makes a finding that the collection of such tax is in jeopardy, notice and demand for immediate payment of such tax may be made by the Secretary and, upon failure or refusal to pay such tax, collection thereof by levy shall be lawful without regard to the 10-day period provided in this section.
 
 #### (b) Seizure and sale of property
 
@@ -92,7 +92,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (1) In general
 
-&emsp;No levy may be made under subsection (a) on the property or rights to property of any person with respect to any unpaid divisible tax during the pendency of any proceeding brought by such person in a proper Federal trial court for the recovery of any portion of such divisible tax which was paid by such person if—
+&emsp;No levy may be made under subsection (a) on the property or rights to property of any person with respect to any unpaid divisible tax during the pendency of any proceedingbrought by such person in a proper Federal trial court for the recovery of any portion of such divisible tax which was paid by such person if—
 
 &emsp;&emsp;(A) the decision in such proceeding would be res judicata with respect to such unpaid tax; or
 
@@ -290,7 +290,7 @@ Pub. L. 105–206, title III, §3462(e), July 22, 1998, 112 Stat. 766, provided 
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 6159 and 7122of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
+In general.—The amendments made by this section \[amending this section and sections 6159 and 7122 of this title\] shall apply to proposed offers-in-compromise and installment agreements submitted after the date of the enactment of this Act \[July 22, 1998\].
 
 “(2)
 

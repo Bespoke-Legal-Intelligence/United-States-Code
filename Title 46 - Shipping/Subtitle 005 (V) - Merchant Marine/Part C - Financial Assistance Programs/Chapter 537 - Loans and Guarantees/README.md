@@ -30,8 +30,8 @@
 |  |  |
 | :--- | ---: |
 | [53721\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053721%20-%20Rights%20of%20obligee.md) | Rights of obligee. |
-| [53722\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053722%20-%20Actions%20by%20Secretary.md) | Actions by Secretary. |
-| [53723\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053723%20-%20Payments%20by%20Secretary%20and%20issuance%20of%20obligations.md) | Payments by Secretary and issuance of obligations. |
+| [53722\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053722%20-%20Actions%20by%20Secretary%20or%20Administrator.md) | Actions by Secretary or Administrator. |
+| [53723\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053723%20-%20Payments%20by%20Secretary%20or%20Administrator%20and%20issuance%20of%20obligations.md) | Payments by Secretary or Administrator and issuance of obligations. |
 | [53724\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053724%20-%20Rights%20to%20secured%20property.md) | Rights to secured property. |
 | [53725\.](Subchapter%20002%20%28II%29%20-%20Default%20Provisions/%C2%A7%2053725%20-%20Actions%20against%20obligor.md) | Actions against obligor. |
 
@@ -48,6 +48,10 @@
 | [53735\.](Subchapter%20003%20%28III%29%20-%20Particular%20Projects/%C2%A7%2053735%20-%20Fisheries%20financing%20and%20capacity%20reduction.md) | Fisheries financing and capacity reduction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2008—Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(A), Jan. 28, 2008, 122 Stat. 598, inserted “or Administrator” after “Secretary” in items 53722 and 53723.
 
 
 ---

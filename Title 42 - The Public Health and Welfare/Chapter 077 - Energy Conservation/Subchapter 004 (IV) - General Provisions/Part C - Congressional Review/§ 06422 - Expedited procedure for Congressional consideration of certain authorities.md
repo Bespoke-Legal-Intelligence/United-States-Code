@@ -24,7 +24,7 @@ For the purpose of subsection (b) of this section—
 
 (1) This subsection is enacted by Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively,but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
@@ -58,7 +58,7 @@ For the purpose of subsection (b) of this section—
 
 &emsp;&emsp;(i) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph (2)(B)(i) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolution described in paragraph (2)(B)(ii) with respect to the same such plan, or
 
-&emsp;&emsp;(ii) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph (2)(B)(ii) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolution described in paragraph (2)(B)(i) with respect to the same such plan.
+&emsp;&emsp;(ii) consisting of a motion to discharge such committee from further consideration of a resolution described in paragraph\(2)(B)(ii) with respect to any rationing contingency plan, if the discharge motion sought to be amended relates to a resolution described in paragraph (2)(B)(i) with respect to the same such plan.
 
 > &emsp;An amendment described in this subparagraph shall not be amendable. Debate on such an amendment shall be limited to not more than 1 hour, which shall be divided equally between those favoring and those opposing the amendment.
 
@@ -78,7 +78,7 @@ For the purpose of subsection (b) of this section—
 
 &emsp;&emsp;&emsp;(I) the procedure with respect to that or other resolutions of such House with respect to such plan shall be the same as if no resolution from the other House with respect to such plan had been received; but
 
-&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the otherHouse with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
+&emsp;&emsp;&emsp;(II) on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the other House with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
 
 &emsp;(D) Notwithstanding any of the preceding provisions of this subsection, if a House has approved a resolution with respect to a rationing contingency plan, then it shall not be in order to consider in that House any other resolution under this section with respect to the approval of such plan.
 

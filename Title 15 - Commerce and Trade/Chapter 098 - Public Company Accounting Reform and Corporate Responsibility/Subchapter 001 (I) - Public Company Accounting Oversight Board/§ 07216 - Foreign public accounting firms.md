@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner and to the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
+&emsp;Any foreign public accounting firm that prepares or furnishes an audit report with respect to any issuer, shall be subject to this Act and the rules of the Board and the Commission issued under this Act, in the same manner andto the same extent as a public accounting firm that is organized and operates under the laws of the United States or any State, except that registration pursuant to section 7212 of this title shall not by itself provide a basis for subjecting such a foreign public accounting firm to the jurisdiction of the Federal or State courts, other than with respect to controversies between such firms and the Board.
 
 #### (2) Board authority
 

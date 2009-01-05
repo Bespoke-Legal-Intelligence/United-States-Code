@@ -16,7 +16,7 @@ The Secretary may make grants on a competitive basis for—
 
 &emsp;(4) planning and development assistance for increasing the energy efficiency of buildings and facilities; and
 
-&emsp;(5) technical and financial assistance to local government and private entities on developing new renewable and distributedsources of power or combined heat and power generation.
+&emsp;(5) technical and financial assistance to local government and private entities on developing new renewable and distributed sources of power or combined heat and power generation.
 
 #### (c) Definition
 

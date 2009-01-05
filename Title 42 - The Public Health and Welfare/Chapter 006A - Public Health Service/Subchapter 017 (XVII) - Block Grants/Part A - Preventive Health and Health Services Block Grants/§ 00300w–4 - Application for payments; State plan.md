@@ -10,7 +10,7 @@ The Secretary may make payments under section 300w–2 of this title to a State 
 
 &emsp;(3) the application contains the certification described in subsection (c) of this section;
 
-&emsp;(4) the application contains such assurances as the Secretary may require regarding the compliance of the State with the requirements of this part (including assurances regarding compliance with the agreements described in subsection (c) of this section); and
+&emsp;(4) the application contains such assurances as the Secretary may require regarding thecompliance of the State with the requirements of this part (including assurances regarding compliance with the agreements described in subsection (c) of this section); and
 
 &emsp;(5) the application is in such form and is submitted by such date as the Secretary may require.
 
@@ -78,7 +78,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(A) participate in the development of any plan by the State relating to emergency medical services, as such plan relates to highway safety; and
 
-&emsp;&emsp;(B) review and comment on any proposal by any State agency to use any Federal grant or Federal payment received by the State for the provision of emergency medical services as such proposal relates to highway safety.
+&emsp;&emsp;(B) review and comment on any proposal by any State agency to use any Federalgrant or Federal payment received by the State for the provision of emergency medical services as such proposal relates to highway safety.
 
 #### (d) State Advisory Committee
 

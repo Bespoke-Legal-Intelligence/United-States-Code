@@ -7,6 +7,7 @@
 | [153\.](%C2%A7%2000153%20-%20Chairman%20functions.md) | Chairman: functions. |
 | [154\.](%C2%A7%2000154%20-%20Vice%20Chairman.md) | Vice Chairman. |
 | [155\.](%C2%A7%2000155%20-%20Joint%20Staff.md) | Joint Staff. |
+| [156\.](%C2%A7%2000156%20-%20Legal%20Counsel%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md) | Legal Counsel to the Chairman of the Joint Chiefs of Staff. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,6 +23,10 @@ Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85
 
 #### Amendments
 
+2008—Pub. L. 110–417, \[div. A\], title X, §1061(a)(2), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 156.
+
+Pub. L. 110–181, div. A, title V, §543(e)(2), Jan. 28, 2008, 122 Stat. 115, added item 156.
+
 1987—Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(B), Dec. 4, 1987, 101 Stat. 1175, substituted “grade and rank” for “rank” in item 152.
 
 1986—Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005, amended chapter 5 heading and analysis generally, substituting items 151–155 for items 141–143.
@@ -36,3 +41,4 @@ Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85
 - [&sect; 00153 - Chairman functions](%C2%A7%2000153%20-%20Chairman%20functions.md)
 - [&sect; 00154 - Vice Chairman](%C2%A7%2000154%20-%20Vice%20Chairman.md)
 - [&sect; 00155 - Joint Staff](%C2%A7%2000155%20-%20Joint%20Staff.md)
+- [&sect; 00156 - Legal Counsel to the Chairman of the Joint Chiefs of Staff](%C2%A7%2000156%20-%20Legal%20Counsel%20to%20the%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md)

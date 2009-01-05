@@ -126,7 +126,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Nonmotorized Transportation Pilot Program
 
-Pub. L. 109–59, title I, §1807, Aug. 10, 2005, 119 Stat. 1460, provided that:
+Pub. L. 109–59, title I, §1807, Aug. 10, 2005, 119 Stat. 1460, as amended by Pub. L. 110–244, title I, §106, June 6, 2008, 122 Stat. 1602, provided that:
 
 “(a)
 
@@ -136,7 +136,7 @@ Establishment.—The Secretary \[of Transportation\] shall establish and carry o
 
 &emsp;“(2) Marin County, California.
 
-&emsp;“(3) Minneapolis-St. Paul, Minnesota.
+&emsp;“(3) Minneapolis, Minnesota.
 
 &emsp;“(4) Sheboygan County, Wisconsin.
 

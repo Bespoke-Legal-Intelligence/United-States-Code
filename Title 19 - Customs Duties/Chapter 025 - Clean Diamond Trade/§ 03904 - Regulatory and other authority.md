@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The President is authorized to and shall as necessary issue such proclamations, regulations, licenses, and orders, and conduct such investigations, as may be necessary to carry out this chapter.
+The President is authorized to and shall as necessary issue such proclamations, regulations,licenses, and orders, and conduct such investigations, as may be necessary to carry out this chapter.
 
 #### (b) Recordkeeping
 
-Any United States person seeking to export from or import into the United States any rough diamonds shall keep a full record of, in the form of reports or otherwise, complete information relating to any act or transaction to which any prohibition imposed under section 3903(a) of this title applies. The President may require such person to furnish such information under oath,including the production of books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
+Any United States person seeking to export from or import into the United States any rough diamonds shall keep a full record of, in the form of reports or otherwise, complete information relating to any act or transaction to which any prohibition imposed under section 3903(a) of this title applies. The President may require such person to furnish such information under oath, including the production of books of account, records, contracts, letters, memoranda, or other papers, in the custody or control of such person.
 
 #### (c) Oversight
 

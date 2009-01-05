@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 106–65, §1067(1), substituted “and the Committee on Ar
 
 Pub. L. 106–65, §578(c)(1), redesignated subsec. (e) as (g).
 
-Subsec. (h). Pub. L. 106–65, §578(e), amended heading and text of subsec. (h) generally. Prior to amendment,text read as follows: “In this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38.”
+Subsec. (h). Pub. L. 106–65, §578(e), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “In this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38.”
 
 Pub. L. 106–65, §578(c)(1), redesignated subsec. (f) as (h).
 

@@ -10,6 +10,8 @@ Part A—Sex Offender Registration and Notification
 - [&sect; 16913 - Registry requirements for sex offenders](%C2%A7%2016913%20-%20Registry%20requirements%20for%20sex%20offenders.md)
 - [&sect; 16914 - Information required in registration](%C2%A7%2016914%20-%20Information%20required%20in%20registration.md)
 - [&sect; 16915 - Duration of registration requirement](%C2%A7%2016915%20-%20Duration%20of%20registration%20requirement.md)
+- [&sect; 16915a - Direction to the Attorney General](%C2%A7%2016915a%20-%20Direction%20to%20the%20Attorney%20General.md)
+- [&sect; 16915b - Checking system for social networking websites](%C2%A7%2016915b%20-%20Checking%20system%20for%20social%20networking%20websites.md)
 - [&sect; 16916 - Periodic in person verification](%C2%A7%2016916%20-%20Periodic%20in%20person%20verification.md)
 - [&sect; 16917 - Duty to notify sex offenders of registration requirements and to register](%C2%A7%2016917%20-%20Duty%20to%20notify%20sex%20offenders%20of%20registration%20requirements%20and%20to%20register.md)
 - [&sect; 16918 - Public access to sex offender information through the Internet](%C2%A7%2016918%20-%20Public%20access%20to%20sex%20offender%20information%20through%20the%20Internet.md)

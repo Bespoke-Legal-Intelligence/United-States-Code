@@ -114,7 +114,7 @@ Funds Available to United States Coast Guard.—
 
 &emsp;&emsp;(B) pay for equipment for any vessel, vehicle, equipment, or aircraft available for official use by a State or local law enforcement agency to enable the vessel, vehicle, or aircraft to assist in law enforcement functions if the vessel, vehicle, or aircraft will be used in joint law enforcement operations with the United States Coast Guard;
 
-&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Coast Guard;
+&emsp;&emsp;(C) pay for overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officersthat are incurred in joint law enforcement operations with the United States Coast Guard;
 
 &emsp;&emsp;(D) pay for expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
 
@@ -196,7 +196,7 @@ Appropriations.—
 
 &emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.<sup>7</sup>
 
-&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
+&emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligatedamounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
 &emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>8</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>9</sup> shall also be carried forward.
 
@@ -210,7 +210,7 @@ Appropriations.—
 
 Retention or Transfer of Property.—
 
-&emsp;(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal RevenueCode of 1986) enforced or administered by the Department of the Treasury—
+&emsp;(1) The Secretary may, with respect to any property forfeited under any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury—
 
 &emsp;&emsp;(A) retain any of the property for official use; or
 

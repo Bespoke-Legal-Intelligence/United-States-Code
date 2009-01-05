@@ -12,7 +12,7 @@
 
 &emsp;(5) an oceanographic research vessel with respect to scientific personnel;
 
-&emsp;(6) a fish processing vessel entered into service before January 1, 1988, and not more than1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products; and
+&emsp;(6) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products; and
 
 &emsp;(7) a fish processing vessel (except a vessel to which clause (6) of this subsection applies) with respect to individuals on board primarily employed in the preparation of fish or fish products or in a support position not related to navigation.
 

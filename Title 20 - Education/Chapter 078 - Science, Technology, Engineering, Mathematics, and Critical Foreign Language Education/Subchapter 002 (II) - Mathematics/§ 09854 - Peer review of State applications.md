@@ -50,7 +50,7 @@ The Secretary shall establish peer review panels to review State educational age
 
 &emsp;Such procedures shall, at a minimum—
 
-&emsp;&emsp;(A) create a transparent process through which review panels provide clear, consistent, and publicly available documentation and explanations in support of all recommendations, including the final reviews of the individual reviewers, except that a finalreview shall not reveal any personally identifiable information about the reviewer;
+&emsp;&emsp;(A) create a transparent process through which review panels provide clear, consistent, and publicly available documentation and explanations in support of all recommendations, including the final reviews of the individual reviewers, except that a final review shall not reveal any personally identifiable information about the reviewer;
 
 &emsp;&emsp;(B) ensure that a State educational agency has the opportunity for direct interaction with any review panel that reviewed the agency's application under section 9851 or 9853 of this title when revising that application as a result of feedback from the panel, including the disclosure of the identities of the reviewers;
 

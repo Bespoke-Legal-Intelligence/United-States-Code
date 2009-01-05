@@ -359,6 +359,7 @@ I74subpart 1—transfers by federal land banks to federal land bank associations
 |  |  |
 | :--- | ---: |
 | [2279b.](Subchapter%20007%20%28VII%29%20-%20Restructuring%20of%20System%20Institutions/Part%20B%20-%20Mergers%2C%20Transfers%20of%20Assets%2C%20and%20Powers%20of%20Associations%20Within%20a%20District/Subpart%20001%20-%20Transfers%20by%20Federal%20Land%20Banks%20to%20Federal%20Land%20Bank%20Associations/%C2%A7%2002279b%20-%20Transfer%20of%20lending%20authority.md) | Transfer of lending authority. |
+| [2279c.](Subchapter%20007%20%28VII%29%20-%20Restructuring%20of%20System%20Institutions/Part%20B%20-%20Mergers%2C%20Transfers%20of%20Assets%2C%20and%20Powers%20of%20Associations%20Within%20a%20District/Subpart%20001%20-%20Transfers%20by%20Federal%20Land%20Banks%20to%20Federal%20Land%20Bank%20Associations/%C2%A7%2002279c%20-%20Equalization%20of%20loan-making%20powers%20of%20certain%20district%20associations.md) | Equalization of loan-making powers of certain district associations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -366,7 +367,6 @@ I74subpart 1—transfers by federal land banks to federal land bank associations
 
 |  |  |
 | :--- | ---: |
-| [2279c.](Subchapter%20007%20%28VII%29%20-%20Restructuring%20of%20System%20Institutions/Part%20B%20-%20Mergers%2C%20Transfers%20of%20Assets%2C%20and%20Powers%20of%20Associations%20Within%20a%20District/Subpart%20002%20-%20Merger%20of%20Like%20and%20Unlike%20Associations/%C2%A7%2002279c%20-%20Transferred.md) | Transferred. |
 | 2279c–1. | Merger of associations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

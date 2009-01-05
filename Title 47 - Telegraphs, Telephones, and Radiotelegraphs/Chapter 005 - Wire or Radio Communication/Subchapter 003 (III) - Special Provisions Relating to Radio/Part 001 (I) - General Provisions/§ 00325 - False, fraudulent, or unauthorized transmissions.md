@@ -40,7 +40,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;(E) during the 6-month period beginning on November 29, 1999, to the retransmission of the signal of a television broadcast station within the station's local market by a satellite carrier directly to its subscribers under the statutory license of section 122 of title 17.
 
-> For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
+> For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, insection 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
 
 (3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
@@ -104,7 +104,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (A) Exclusive defenses
 
-&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellitecarrier against which a complaint under this subsection is filed.
+&emsp;&emsp;The defenses under this paragraph are the exclusive defenses available to a satellite carrier against which a complaint under this subsection is filed.
 
 #### (B) Defenses
 
@@ -136,7 +136,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Within 45 days after the filing of a complaint, the Commission shall issue a final determination in any proceeding brought under this subsection. The Commission's final determination shall specify the number of violations committed by the satellite carrier. The Commission shall hear witnesses only if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the preceding sentence, the Commission may issue a final ruling based on written filings by the parties.
+&emsp;&emsp;&emsp;Within 45 days after the filing of a complaint, the Commission shall issue a final determination in any proceeding brought under this subsection. The Commission's final determination shall specify the number of violations committed by the satellite carrier. The Commission shall hear witnesses only if it clearly appears, based on written filings by the parties, that there is a genuine dispute about material facts. Except as provided in the precedingsentence, the Commission may issue a final ruling based on written filings by the parties.
 
 #### (ii) Discovery
 

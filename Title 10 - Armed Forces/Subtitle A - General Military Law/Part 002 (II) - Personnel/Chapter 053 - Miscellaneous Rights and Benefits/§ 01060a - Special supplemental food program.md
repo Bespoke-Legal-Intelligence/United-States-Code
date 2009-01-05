@@ -32,7 +32,7 @@ Rebate Agreements With Food Producers.—(1) In the administration of the progra
 
 (2) The Secretary of Defense shall use competitive procedures under chapter 137 of this title to enter into contracts under this subsection.
 
-(3) The period covered by a contract entered into under this subsection, including any periodof extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
+(3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
 (4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
@@ -62,7 +62,7 @@ Definitions.—In this section:
 
 &emsp;(4) The terms “nutrition education” and “supplemental foods” have the meanings given the terms in section 17(b) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)).
 
-(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title VI, §662\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, §334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, §324, Dec. 2, 2002, 116 Stat. 2511.)
+(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L.106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title VI, §662\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, §334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, §324, Dec. 2, 2002, 116 Stat. 2511.)
 
 #### References in Text
 

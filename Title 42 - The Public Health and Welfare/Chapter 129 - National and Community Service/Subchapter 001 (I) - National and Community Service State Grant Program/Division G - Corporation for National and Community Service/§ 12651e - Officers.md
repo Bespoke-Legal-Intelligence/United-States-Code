@@ -24,10 +24,6 @@
 
 &emsp;The Office shall be headed by an Inspector General, appointed in accordance with the Inspector General Act of 1978 \[5 U.S.C. App.\].
 
-#### (3) Compensation
-
-&emsp;The Inspector General shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
-
 #### (c) Chief Financial Officer
 
 #### (1) Office
@@ -70,7 +66,7 @@
 
 &emsp;Each Assistant Director appointed pursuant to paragraph (1) may exercise the authority assigned to each such Director only after the effective date of section 203(c)(2) of the National and Community Service Trust Act of 1993.
 
-(Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882.)
+(Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304.)
 
 #### References in Text
 
@@ -79,6 +75,10 @@ The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95�
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. Parts A and B of title I of the Act are classified generally to parts A (§4951 et seq.) and B (§4971 et seq.), respectively, of subchapter I of chapter 66 of this title. Parts A, B, and C of title II of the Act are classified generally to parts A (§5001 et seq.), B (§5011 et seq.), and C (§5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (d)(2), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–409 struck out par. (3). Text read as follows: “The Inspector General shall becompensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
 
 #### Effective Date
 

@@ -128,7 +128,7 @@ Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Manageme
 
 Ex. Ord. No. 13450, Nov. 13, 2007, 72 F.R. 64519, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 305 and 306 of title 5, sections 1115, 1116, and 9703 of title 31, and chapter 28 of title 39, United States Code, and to improve the effectiveness and efficiency of the Federal Government andpromote greater accountability of that Government to the American people, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 305 and 306 of title 5, sections 1115, 1116, and 9703 of title 31, and chapter 28 of title 39, United States Code, and to improve the effectiveness and efficiency of the Federal Government and promote greater accountability of that Government to the American people, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend taxpayer dollars effectively, and more effectively each year. Agencies shall apply taxpayer resources efficiently in a manner that maximizes the effectiveness of Government programs in serving the American people.
 

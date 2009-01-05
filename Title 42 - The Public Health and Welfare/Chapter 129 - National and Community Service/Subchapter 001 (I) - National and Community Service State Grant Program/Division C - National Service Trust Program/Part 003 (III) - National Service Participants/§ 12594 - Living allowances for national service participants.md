@@ -74,11 +74,11 @@ A professional corps program described in section 12572(a)(8) of this title that
 
 #### (f) Individualized support services
 
-A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title).
+A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) <sup>2</sup> of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title).
 
 #### (g) Waiver of limitation on Federal share
 
-The Corporation may waive in whole or in part the limitation on the Federal share specified in this section with respect to a particular national service program in any fiscal year if the Corporation determines that such a waiver would be equitable due to a lack of available financial resources at the local level.
+The Corporation may waive in whole or in part the limitation on the Federal share specified inthis section with respect to a particular national service program in any fiscal year if the Corporation determines that such a waiver would be equitable due to a lack of available financial resources at the local level.
 
 #### (h) Limitation on number of terms of service for federally subsidized living allowance
 
@@ -86,9 +86,15 @@ No national service program may use assistance provided under section 12571 of t
 
 (Pub. L. 101–610, title I, §140, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 811.)
 
+#### References in Text
+
+Section 12102 of this title, referred to in subsec. (f), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, no longer defines “auxiliary aids and services”. However, such term is defined in section 12103(1) of this title.
+
 #### Prior Provisions
 
 A prior section 140 of Pub. L. 101–610 was set out as a note under section 12501 of this title, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “subsistence allowance”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

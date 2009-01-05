@@ -1,6 +1,6 @@
 ### §8012. Department of the Air Force: seal
 
-The Secretary of the Air Force shall have a seal for the Department of the Air Force. Thedesign of the seal must be approved by the President. Judicial notice shall be taken of the seal.
+The Secretary of the Air Force shall have a seal for the Department of the Air Force. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 488, §8011; renumbered §8012, Pub. L. 99–433, title V, §521(a)(1), Oct. 1, 1986, 100 Stat. 1055.)
 

@@ -8,7 +8,7 @@
 
 (2) Any other rule prescribed by a court other than the Supreme Court under subsection (a) shall remain in effect unless modified or abrogated by the Judicial Conference.
 
-(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
+(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Courtunder subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
 
 (e) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
 
@@ -36,7 +36,7 @@ For rule-making power of the Supreme Court in copyright infringement actions, se
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1111 ofTitle 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1111 of Title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 

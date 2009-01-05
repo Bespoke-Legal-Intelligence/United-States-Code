@@ -8,7 +8,7 @@ For purposes of this part, the term “policyholder dividend” means any divide
 
 For purposes of this part, the term “policyholder dividend” includes—
 
-&emsp;(1) any amount paid or credited (including as an increase in benefits) where the amount is not fixed in the contract but depends on the experience of the company or the discretion of the management,
+&emsp;(1) any amount paid or credited (including as an increase in benefits) where the amount isnot fixed in the contract but depends on the experience of the company or the discretion of the management,
 
 &emsp;(2) excess interest,
 

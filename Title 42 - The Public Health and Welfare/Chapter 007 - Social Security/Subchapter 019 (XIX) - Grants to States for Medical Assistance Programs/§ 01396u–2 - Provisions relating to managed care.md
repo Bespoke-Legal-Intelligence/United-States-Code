@@ -298,7 +298,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed careorganization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
+&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed care organization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
 
 #### (ii) Qualifications of reviewer
 
@@ -370,7 +370,7 @@
 
 #### (B) Service market
 
-&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire servicearea of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
+&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
 
 #### (C) Prohibition of tie-ins
 
@@ -548,7 +548,7 @@ Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(3)(A)\], Dec. 21, 2000, 114 S
 
 #### Effective Date
 
-Section effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, except that, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, subsec. (c)(1) effective Jan. 1, 1999, and subsec. (e) applicable to contracts entered into or renewed on or after Apr. 1, 1998, see section 4710(a), (b)(3), (5) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1396b of this title.
+Section effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997,except that, subject to provisions relating to extension of effective date for State law amendments, and to nonapplication to waivers, subsec. (c)(1) effective Jan. 1, 1999, and subsec. (e) applicable to contracts entered into or renewed on or after Apr. 1, 1998, see section 4710(a), (b)(3), (5) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1396b of this title.
 
 #### Studies and Reports
 

@@ -160,7 +160,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time oftheir enactment, Oct. 4, 1976, see section 701(<i>l</i>)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
+Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time of their enactment, Oct. 4, 1976, see section 701(<i>l</i>)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
 
 #### Effective Date
 

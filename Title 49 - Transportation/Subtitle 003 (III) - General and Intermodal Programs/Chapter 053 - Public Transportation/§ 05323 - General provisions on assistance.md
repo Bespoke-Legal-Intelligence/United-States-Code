@@ -168,7 +168,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (3)
 
-Written justification for public interest waiver.—When issuing a waiver based on a public interest determination under paragraph (2)(A), the Secretary shall issue a detailed written justification as to why the waiver is in the public interest. The Secretary shall publish such justification in the Federal Register and provide the public with a reasonable period of time for notice and comment.
+Written justification for public interest waiver.—When issuing a waiver based on a public interest determination under paragraph (2)(A), the Secretary shall issue a detailed written justification as to why the waiver is in the public interest. The Secretary shall publish suchjustification in the Federal Register and provide the public with a reasonable period of time for notice and comment.
 
 (4) In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
 
@@ -188,7 +188,7 @@ Written justification for public interest waiver.—When issuing a waiver based 
 
 (8)
 
-Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufactureror supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
 (9)
 
@@ -212,7 +212,7 @@ Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of 
 
 (n)
 
-Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2).<sup>1</sup>
+Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(d)(2).
 
 (<i>o</i>)
 
@@ -230,7 +230,7 @@ Alternative Fueling Facilities.—A recipient of assistance under this chapter m
 
 &emsp;(4) private entities pay all applicable excise taxes on fuel.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -370,7 +370,7 @@ In subsection (d)(2), the words “alleged”, “take appropriate action to”,
 
 In subsection (e), the words “This subsection shall apply to” and “which is acquiring such buses” are omitted as surplus. The words “occurring on or after November 6, 1978” are omitted as executed. The words “In the case of” are omitted as surplus. The words “may include” are substituted for “the Secretary shall permit . . . to provide in advertising for bids for” to eliminate unnecessary words.
 
-In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall have first entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
+In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall havefirst entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
 
 Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
 
@@ -414,15 +414,15 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Public Transportation Act of 2005, referred to in subsec. (j)(6), is title III of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1544. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
 
-Subsec. (e) of section 5336, referred to in subsec. (n), was redesignated subsec. (d) by Pub. L. 109–59, title III, §3034(a)(2), Aug. 10, 2005, 119 Stat. 1627.
-
 #### Amendments
+
+2008—Subsec. (n). Pub. L. 110–244 substituted “section 5336(d)(2)” for “section 5336(e)(2)”.
 
 2005—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
 
@@ -523,6 +523,4 @@ In General.—All buses manufactured on or after September 1, 1999, that are pur
 “(b)
 
 Rule of Construction.—For purposes of this section, a bus shall be considered to be manufactured on or after September 1, 1999, if the manufacturing process for that bus is not completed on or before August 31, 1999.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

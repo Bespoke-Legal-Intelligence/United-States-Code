@@ -14,7 +14,7 @@ For a period of five years after the publication of the Federal Register notice 
 
 #### (d) Border crossing, living and working rights
 
-Notwithstanding the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], all members of the Band shall be entitled to freely pass and repass the borders of the United States and to live and work in the United States.
+Notwithstanding the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], all members ofthe Band shall be entitled to freely pass and repass the borders of the United States and to live and work in the United States.
 
 (Pub. L. 97–429, §4, Jan. 8, 1983, 96 Stat. 2269.)
 

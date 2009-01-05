@@ -34,7 +34,7 @@ For the purpose of this title–
 
 &emsp;&emsp;&emsp;(ii) she is widowed, divorced, or separated from the father and has not remarried; or
 
-&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
 
 &emsp;&emsp;(G) the mother of a service-connected permanently and totally disabled veteran, if—
 
@@ -42,7 +42,9 @@ For the purpose of this title–
 
 &emsp;&emsp;&emsp;(ii) she is widowed, divorced, or separated from the father and has not remarried; or
 
-&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
+&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+
+&emsp;&emsp;(H) a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10);
 
 > &emsp;but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
@@ -54,7 +56,7 @@ For the purpose of this title–
 
 &emsp;(5) “retired member of the armed forces” means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, §8, Aug. 29, 2008, 122 Stat. 3529.)
 
 Historical and Revision Notes<br>1966
 
@@ -114,6 +116,8 @@ Mar. 3, 1966, Pub. L. 89–358, §11, 80 Stat. 28.
 
 #### Amendments
 
+2008—Par. (3)(H). Pub. L. 110–317 added subpar. (H).
+
 2006—Par. (1). Pub. L. 109–163, §1112(a), in concluding provisions, substituted “discharged or released from active duty in” for “separated from”.
 
 Par. (1)(B). Pub. L. 109–163, §515(f)(1), substituted “Navy Reserve” for “Naval Reserve”.
@@ -157,6 +161,30 @@ Par. (5). Pub. L. 95–454, §401(d), inserted “; but does not include applic
 Par. (3)(E). Pub. L. 92–187 inserted “or husband” after “the wife”.
 
 1968—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–317, §10, Aug. 29, 2008, 122 Stat. 3530, provided that:
+
+“(a)
+
+Retroactive Effective Date.—Except as provided in subsection (b) and section 9 \[amending section 685 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 685 of Title 26\], this Act \[amending this section, section 8521 of this title, sections 1145, 1146, and 1174 of Title 10, Armed Forces, section 685 of Title 26, section 303a of Title 37, Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under section 101 of Title 10 and section 685 of Title 26\] and the amendments made by this Act shall apply with respect to any sole survivorship discharge granted after September 11, 2001.
+
+“(b)
+
+Date of Enactment Effective Date for Certain Amendments.—The amendments made by sections 4, 7, and 8 \[amending this section and section 8521 of this title and section 1145 of Title 10\] shall apply with respect to any sole survivorship discharge granted after the date of the enactment of this Act \[Aug. 29, 2008\].
+
+“(c)
+
+Sole Survivorship Discharge Defined.—In this section, the term ‘sole survivorship discharge’ means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+
+&emsp;“(1) the father or mother or one or more siblings—
+
+&emsp;&emsp;“(A) served in the Armed Forces; and
+
+&emsp;&emsp;“(B) was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+
+&emsp;“(2) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.”
 
 #### Effective Date of 1981 Amendment
 

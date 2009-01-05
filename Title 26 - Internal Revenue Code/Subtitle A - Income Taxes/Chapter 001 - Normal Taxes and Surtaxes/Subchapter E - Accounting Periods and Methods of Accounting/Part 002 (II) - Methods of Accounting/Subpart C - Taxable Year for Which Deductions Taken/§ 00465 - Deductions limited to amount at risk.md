@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in the case of an activity ofholding real property, a taxpayer shall be considered at risk with respect to the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in the case of an activity of holding real property, a taxpayer shall be considered at risk with respect to the taxpayer's share of any qualified nonrecourse financing which is secured by real property used in such activity.
 
 #### (B) Qualified nonrecourse financing
 
@@ -342,7 +342,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) gross income shall be determined without regard to the exclusion of interest from gross income under section 103, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts under section 163 or 591.
+&emsp;&emsp;&emsp;&emsp;(II) in addition to the deductions described in such clause, there shall also be taken into account the amount of the deductions which are allowable for amounts paid or credited to the accounts of depositors or holders of accounts as dividends or interest on their deposits orwithdrawable accounts under section 163 or 591.
 
 #### (v) Special rule for life insurance companies
 
@@ -494,7 +494,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures werepreviously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -520,7 +520,7 @@ Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1984 Amendment
 
-Section 432(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by thissection) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
+Section 432(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments.”
 
 Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 

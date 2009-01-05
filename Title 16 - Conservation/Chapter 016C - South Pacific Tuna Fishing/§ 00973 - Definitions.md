@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term “Administrator” means the individual or organization designated by the Pacific Island Parties to act on their behalf under the Treaty and notified to the United States Government.
 
-&emsp;(2) The term “Authorized Officer” means any officer who is authorized by the Secretary, or the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an enforcement agreement with the Secretary under section 973h(a) of this title.
+&emsp;(2) The term “Authorized Officer” means any officer who is authorized by the Secretary,or the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an enforcement agreement with the Secretary under section 973h(a) of this title.
 
 &emsp;(3) The term “Authorized Party Officer” means any officer authorized by a Pacific Island Party to enforce the provisions of the Treaty.
 

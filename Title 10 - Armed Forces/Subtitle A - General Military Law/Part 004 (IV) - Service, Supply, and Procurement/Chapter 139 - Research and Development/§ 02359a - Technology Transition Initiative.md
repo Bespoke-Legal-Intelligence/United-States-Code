@@ -44,7 +44,7 @@ Implementation of Projects.—For each project selected under subsection (d)(2),
 
 Funding of Projects.—(1) From funds made available to the Manager for the Initiative, the Manager shall, subject to paragraphs (2) and (3), provide funds for each project selected under subsection (d)(2) in an amount determined by mutual agreement between the Manager and the acquisition executive of the military department or Defense Agency concerned.
 
-(2) The amount of funds provided to a project under paragraph (1) shall be not less than the amount equal to 50 percent of the total cost of the project.
+(2) The amount of funds provided to a project under paragraph (1) by the military department or Defense Agency concerned shall be the appropriate share of the military department or Defense Agency, as the case may be, of the cost of the project, as determined by the Manager.
 
 (3) A project shall not be provided funds under this subsection for more than four fiscal years.
 
@@ -64,15 +64,15 @@ Technology Transition Council.—(1) There is a Technology Transition Council in
 
 (h)
 
-Report.—Not later than March 31 of each year, the Under Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on the activities carried out by the Initiative during the preceding fiscal year.
-
-(i)
-
 Definition.—In this section, the term “acquisition executive”, with respect to a military department or Defense Agency, means the official designated as the senior procurement executive for that military department or Defense Agency for the purposes of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)).
 
-(Added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 116 Stat. 2494; amended Pub. L. 109–163, div. A, title II, §255(a), Jan. 6, 2006, 119 Stat. 3180; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 116 Stat. 2494; amended Pub. L. 109–163, div. A, title II, §255(a), Jan. 6, 2006, 119 Stat. 3180; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title II, §233, Jan. 28, 2008, 122 Stat. 46; Pub. L. 110–417, \[div. A\], title II, §253(b), Oct. 14, 2008, 122 Stat. 4402.)
 
 #### Amendments
+
+2008—Subsec. (f)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of funds provided to a project under paragraph (1) shall be not less than the amount equal to 50 percent of the total cost of the project.”
+
+Subsecs. (h), (i). Pub. L. 110–417 redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than March 31 of each year, the Under Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on the activities carried out by the Initiative during the preceding fiscal year.”
 
 2006—Subsec. (g)(2). Pub. L. 109–163 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The duty of the Council shall be to provide advice and assistance to the Manager under this section.”
 

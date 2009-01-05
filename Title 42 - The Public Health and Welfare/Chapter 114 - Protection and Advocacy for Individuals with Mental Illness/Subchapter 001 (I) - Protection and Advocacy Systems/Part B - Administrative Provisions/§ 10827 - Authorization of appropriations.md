@@ -1,6 +1,6 @@
 ### §10827. Authorization of appropriations
 
-There are authorized to be appropriated for allotments under this subchapter, $19,500,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2003.
+There are authorized to be appropriated for allotments under this subchapter, $19,500,000 forfiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2003.
 
 (Pub. L. 99–319, title I, §117, May 23, 1986, 100 Stat. 485; Pub. L. 100–509, §7(f), Oct. 20, 1988, 102 Stat. 2546; Pub. L. 102–173, §8, Nov. 27, 1991, 105 Stat. 1219; Pub. L. 106–310, div. B, title XXXII, §3206(f), Oct. 17, 2000, 114 Stat. 1195.)
 
@@ -8,7 +8,7 @@ There are authorized to be appropriated for allotments under this subchapter, $1
 
 2000—Pub. L. 106–310 substituted “2003” for “1995”.
 
-1991—Pub. L. 102–173 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $14,300,000 for fiscal year 1989, and such sumsas may be necessary for fiscal year 1990 and fiscal year 1991.”
+1991—Pub. L. 102–173 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $14,300,000 for fiscal year 1989, and such sums as may be necessary for fiscal year 1990 and fiscal year 1991.”
 
 1988—Pub. L. 100–509 amended section generally. Prior to amendment, section read as follows: “For allotments under this subchapter, there are authorized to be appropriated $10,000,000 for fiscal year 1986, $10,500,000 for fiscal year 1987, and $11,025,000 for fiscal year 1988.”
 

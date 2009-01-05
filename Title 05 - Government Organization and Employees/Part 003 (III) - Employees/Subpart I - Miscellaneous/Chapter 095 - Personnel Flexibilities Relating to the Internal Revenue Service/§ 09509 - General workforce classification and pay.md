@@ -8,7 +8,7 @@
 
 (2) The Office of Personnel Management may require the Secretary of the Treasury to submit information relating to broad-banded systems at the Internal Revenue Service.
 
-(3) Except as otherwise provided under this section, employees under a broad-banded system shall continue to be subject to the laws and regulations covering employees under the pay system that otherwise would apply to such employees.
+(3) Except as otherwise provided under this section, employees under a broad-banded systemshall continue to be subject to the laws and regulations covering employees under the pay system that otherwise would apply to such employees.
 
 (4) The criteria to be prescribed by the Office of Personnel Management shall, at a minimum—
 

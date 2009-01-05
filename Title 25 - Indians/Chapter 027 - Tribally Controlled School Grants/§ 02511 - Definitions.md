@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Local educational agency
 
-&emsp;The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State or such combination of school districts or counties as are recognized in a State as an administrative agency for the State's public elementary schools or secondary schools. Such term includes any other public institution or agency having administrative control and direction of a public elementary school or secondary school.
+&emsp;The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State or such combination of school districts or counties asare recognized in a State as an administrative agency for the State's public elementary schools or secondary schools. Such term includes any other public institution or agency having administrative control and direction of a public elementary school or secondary school.
 
 #### (6) Secretary
 
@@ -46,7 +46,7 @@ In this chapter:
 
 #### (B) Authorization
 
-&emsp;&emsp;In any case in which a grant is provided under this chapter to an organization to provide services through a tribally controlled school benefiting more than one Indian tribe, the approval of the governing bodies of Indian tribes representing 80 percent of the students attending the tribally controlledschool shall be considered a sufficient tribal authorization for such grant.
+&emsp;&emsp;In any case in which a grant is provided under this chapter to an organization to provide services through a tribally controlled school benefiting more than one Indian tribe, the approval of the governing bodies of Indian tribes representing 80 percent of the students attending the tribally controlled school shall be considered a sufficient tribal authorization for such grant.
 
 #### (9) Tribally controlled school
 

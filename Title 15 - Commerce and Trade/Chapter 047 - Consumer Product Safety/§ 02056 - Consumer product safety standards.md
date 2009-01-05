@@ -12,7 +12,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (b) Reliance of Commission upon voluntary standards
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather thanpromulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -70,11 +70,51 @@ Subsec. (d)(2). Pub. L. 94–284, §8(a), inserted provision which permits the C
 
 Subsec. (e). Pub. L. 94–284, §7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safetystandard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Children's Gasoline Burn Prevention
+
+Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Children's Gasoline Burn Prevention Act’.
+
+#### “SEC. 2. CHILD-RESISTANT PORTABLE GASOLINE CONTAINERS.
+
+“(a)
+
+Consumer Product Safety Rule.—The provision of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
+
+“(b)
+
+Requirements.—Effective 6 months after the date of enactment of this Act \[July 17, 2008\], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
+
+“(c)
+
+Definition.—As used in this Act, the term ‘portable gasoline container’ means any portable gasoline container intended for use by consumers.
+
+“(d)
+
+Revision of Rule.—If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b).
+
+“(e)
+
+Implementing Regulations.—Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act \[15 U.S.C. 2056, 2058\] shall not apply to such issuance.
+
+“(f)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[July 17, 2008\], the Consumer Product Safety Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
+
+&emsp;“(1) the degree of industry compliance with the standard promulgated under subsection (a);
+
+&emsp;“(2) any enforcement actions brought by the Commission to enforce such standard; and
+
+&emsp;“(3) incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard promulgated under subsection (a)).”
 
 #### Automatic Garage Door Openers
 
@@ -108,7 +148,7 @@ Notification.—Effective on and after July 1, 1991, all manufacturers of automa
 
 “(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associatedwith automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 “(g)
 

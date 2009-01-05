@@ -28,6 +28,28 @@
 
 &emsp;For each fiscal year after the initial submission of an annual plan under this subsection by a public housing agency, the public housing agency may comply with requirements for submission of a plan under this subsection by submitting an update of the plan for the fiscal year.
 
+#### (3) Exemption of certain PHAS from filing requirement
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding paragraph (1) or any other provision of this chapter—
+
+&emsp;&emsp;&emsp;(i) the requirement under paragraph (1) shall not apply to any qualified public housing agency; and
+
+&emsp;&emsp;&emsp;(ii) except as provided in subsection (e)(4)(B), any reference in this section or any other provision of law to a “public housing agency” shall not be considered to refer to any qualified public housing agency, to the extent such reference applies to the requirement to submit an annual public housing agency plan under this subsection.
+
+#### (B) Civil rights certification
+
+&emsp;&emsp;Notwithstanding that qualified public housing agencies are exempt under subparagraph (A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall, on an annual basis, make the certification described in paragraph (16) of subsection (d), except that for purposes of such qualified public housing agencies, such paragraph shall be applied by substituting “the public housing program of the agency” for “the public housing agency plan”.
+
+#### (C) Definition
+
+&emsp;&emsp;For purposes of this section, the term “qualified public housing agency” means a public housing agency that meets the following requirements:
+
+&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(<i>o</i>) of this title administered by the agency, is 550 or fewer.
+
+&emsp;&emsp;&emsp;(ii) The agency is not designated under section 1437d(j)(2) of this title as a troubled public housing agency, and does not have a failing score under the section 8 \[42 U.S.C. 1437f\] Management Assessment Program during the prior 12 months.
+
 #### (c) Procedures
 
 #### (1) In general
@@ -182,7 +204,17 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;(B) have the ability to perform the functions described in paragraph (2).
 
-#### (f) <sup>1</sup> Notice and hearing
+#### (4) Qualified public housing agencies
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed toexempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
+
+#### (B) Applicability of waiver authority
+
+&emsp;&emsp;Paragraph (3) shall apply to qualified public housing agencies, except that for purposes of such qualified public housing agencies, subparagraph (B) of such paragraph shall be applied by substituting “the functions described in the second sentence of paragraph (4)(A)” for “the functions described in paragraph (2)”.
+
+#### (f) Public hearings
 
 #### (1) In general
 
@@ -196,9 +228,9 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;(B) publish a notice informing the public that—
 
-&emsp;&emsp;&emsp;(i) that the information is available as required under subparagraph (A); and
+&emsp;&emsp;&emsp;(i) that <sup>1</sup> the information is available as required under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) that a public hearing under paragraph (1) will be conducted.
+&emsp;&emsp;&emsp;(ii) that <sup>1</sup> a public hearing under paragraph (1) will be conducted.
 
 #### (3) Adoption of plan
 
@@ -213,6 +245,28 @@ An annual public housing agency plan under subsection (b) of this section for a 
 #### (4) Advisory board consultation enforcement
 
 &emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+
+#### (5) Qualified public housing agencies
+
+#### (A) Requirement
+
+&emsp;&emsp;Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to conduct a public hearing regarding the annual public housing plan of the agency, each qualified public housing agency shall annually conduct a public hearing—
+
+&emsp;&emsp;&emsp;(i) to discuss any changes to the goals, objectives, and policies of the agency; and
+
+&emsp;&emsp;&emsp;(ii) to invite public comment regarding such changes.
+
+#### (B) Availability of information and notice
+
+&emsp;&emsp;Not later than 45 days before the date of any hearing described in subparagraph (A), a qualified public housing agency shall—
+
+&emsp;&emsp;&emsp;(i) make all information relevant to the hearing and any determinations of the agency regarding changes to the goals, objectives, and policies of the agency to be considered at the hearing available for inspection by the public at the principal office of the public housing agency during normal business hours; and
+
+&emsp;&emsp;&emsp;(ii) publish a notice informing the public that—
+
+&emsp;&emsp;&emsp;&emsp;(I) the information is available as required under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a public hearing under subparagraph (A) will be conducted.
 
 #### (g) Amendments and modifications to plans
 
@@ -236,7 +290,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) Initial submission
 
-&emsp;Each public housing agency shall submit the initial plan required by this section, and anyamendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
+&emsp;Each public housing agency shall submit the initial plan required by this section, and any amendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
 
 #### (2) Annual submission
 
@@ -300,7 +354,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### (1) In general
 
-&emsp;In providing assistance under this subchapter, a public housing agency shall comply with the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
+&emsp;In providing assistance under this subchapter, a public housing agency shall complywith the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
 
 #### (2) Investigation and enforcement
 
@@ -310,7 +364,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 &emsp;&emsp;(B) if the Secretary determines, based on a finding of the Secretary or other information available to the Secretary, that a public housing agency is not complying with the applicable public housing agency plan, take such actions as the Secretary determines to be appropriate to ensure such compliance.
 
-(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040.)
+(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
 
 #### References in Text
 
@@ -323,6 +377,14 @@ The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 9
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–289, §2702(a), added par. (3).
+
+Subsec. (e)(4). Pub. L. 110–289, §2702(b)(1), added par. (4).
+
+Subsec. (f). Pub. L. 110–289, §2702(b)(1), inserted subsec. designation and heading.
+
+Subsec. (f)(5). Pub. L. 110–289, §2702(b)(2), added par. (5).
 
 2006—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
 
@@ -382,5 +444,5 @@ Report.—Not later than 2 years after the date on which public housing agency p
 
 &emsp;“(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section).”
 
-<i><sup>1</sup></i><i> Subsection designation editorially supplied.</i>
+<i><sup>1</sup></i><i> So in original. The word “that” probably should not appear.</i>
 

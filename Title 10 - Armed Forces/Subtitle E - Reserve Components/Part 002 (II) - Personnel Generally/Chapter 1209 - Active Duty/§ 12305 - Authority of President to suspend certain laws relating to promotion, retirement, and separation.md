@@ -32,5 +32,5 @@ Section 1. The Secretary of Defense, and the Secretary of Homeland Security with
 
 Sec. 2. The authority delegated to the Secretary of Defense and the Secretary of Homeland Security by this order may be redelegated and further subdelegated to subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
-Sec. 3. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 3. This order is intended only to improve the internal management of the executive branch and is notintended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

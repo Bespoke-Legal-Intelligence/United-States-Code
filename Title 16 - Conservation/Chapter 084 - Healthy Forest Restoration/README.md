@@ -63,7 +63,7 @@
 | [6575\.](Subchapter%20005%20%28V%29%20-%20Healthy%20Forests%20Reserve%20Program/%C2%A7%2006575%20-%20Technical%20assistance.md) | Technical assistance. |
 | [6576\.](Subchapter%20005%20%28V%29%20-%20Healthy%20Forests%20Reserve%20Program/%C2%A7%2006576%20-%20Protections%20and%20measures.md) | Protections and measures. |
 | [6577\.](Subchapter%20005%20%28V%29%20-%20Healthy%20Forests%20Reserve%20Program/%C2%A7%2006577%20-%20Involvement%20by%20other%20agencies%20and%20organizations.md) | Involvement by other agencies and organizations. |
-| [6578\.](Subchapter%20005%20%28V%29%20-%20Healthy%20Forests%20Reserve%20Program/%C2%A7%2006578%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6578\.](Subchapter%20005%20%28V%29%20-%20Healthy%20Forests%20Reserve%20Program/%C2%A7%2006578%20-%20Funding.md) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

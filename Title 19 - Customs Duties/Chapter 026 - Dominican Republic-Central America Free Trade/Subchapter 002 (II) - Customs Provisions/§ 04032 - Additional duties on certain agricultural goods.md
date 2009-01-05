@@ -42,13 +42,13 @@
 
 #### (7) Notice
 
-&emsp;Not later than 60 days after the Secretary of the Treasury first assesses an additional duty in a calendar year on a good under subsection (b), the Secretary shall notify the country whose good is subject to the additional duty in writing of such action and shall provide to that country data supporting the assessment of the additional duty.
+&emsp;Not later than 60 days after the Secretary of the Treasury first assesses an additional dutyin a calendar year on a good under subsection (b), the Secretary shall notify the country whose good is subject to the additional duty in writing of such action and shall provide to that country data supporting the assessment of the additional duty.
 
 #### (b) Additional duties on safeguard goods
 
 #### (1) In general
 
-&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of this title, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendaryear if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
+&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of this title, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
 
 #### (2) Calculation of additional duty
 

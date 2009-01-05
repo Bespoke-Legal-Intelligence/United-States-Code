@@ -6,7 +6,7 @@ Section 6377, acts Aug. 10, 1956, ch. 1041, 70A Stat. 402; Aug. 21, 1957, Pub. L
 
 Section 6378, acts Aug. 10, 1956, ch. 1041, 70A Stat. 403; Aug. 21, 1957, Pub. L. 85–155, title II, §201(16), 71 Stat. 384; Aug. 3, 1961, Pub. L. 87–123, §5(29), 75 Stat. 267; Dec. 8, 1967, Pub. L. 90–179, §12, 81 Stat. 549, related to consideration for continuation on active list of Regular Navy line captains restricted in performance of duty, staff corps captains, and Nurse Corps commanders. See section 637 of this title.
 
-Section 6379, acts Aug. 10, 1956, ch. 1041, 70A Stat. 404; Aug. 21, 1957, Pub. L. 85–155, title II, §201(17), 71 Stat. 384; Nov. 8, 1967, Pub. L. 90–130, §1(24)(D), 81 Stat. 380, related to retirement for length of service and for failures of selection for promotion of Regular Navy commanders and Regular Marine Corps lieutenant colonels. See section 633 of this title.
+Section 6379, acts Aug. 10, 1956, ch. 1041, 70A Stat. 404; Aug. 21, 1957, Pub. L. 85–155, title II, §201(17), 71 Stat. 384; Nov. 8, 1967, Pub. L. 90–130, §1(24)(D), 81 Stat. 380,related to retirement for length of service and for failures of selection for promotion of Regular Navy commanders and Regular Marine Corps lieutenant colonels. See section 633 of this title.
 
 Section 6380, act Aug. 10, 1956, ch. 1041, 70A Stat. 404, related to retirement for length of service and for failures of selection for promotion of Regular Navy lieutenant commanders and Regular Marine Corps majors. See section 632 of this title.
 

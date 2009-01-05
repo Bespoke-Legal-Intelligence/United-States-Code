@@ -2,7 +2,7 @@
 
 #### (a) Hearings and evidence
 
-A Commission or, on the authority of the Commission, any subcommittee or memberthereof, may, for the purpose of carrying out this subchapter—
+A Commission or, on the authority of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out this subchapter—
 
 &emsp;(1) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths; and
 
@@ -28,7 +28,7 @@ A Commission may, to such extent and in such amounts as are provided in appropri
 
 #### (1) General Services Administration
 
-&emsp;The Administrator of General Services shall provide to a Commission on a reimbursable basis administrative support and other services for the performance of the Commission's tasks.
+&emsp;The Administrator of General Services shall provide to a Commission on a reimbursablebasis administrative support and other services for the performance of the Commission's tasks.
 
 #### (2) Other departments and agencies
 

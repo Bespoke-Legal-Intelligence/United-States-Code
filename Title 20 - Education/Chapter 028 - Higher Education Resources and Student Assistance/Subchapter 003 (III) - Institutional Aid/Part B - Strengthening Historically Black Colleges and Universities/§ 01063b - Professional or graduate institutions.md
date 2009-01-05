@@ -8,7 +8,7 @@
 
 #### (b) Duration
 
-Grants shall be made for a period not to exceed 5 years.
+Grants shall be made for a period not to exceed 5 years. Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.
 
 #### (c) Uses of funds
 
@@ -22,11 +22,25 @@ A grant under this section may be used for—
 
 &emsp;(4) scholarships, fellowships, and other financial assistance for needy graduate and professional students to permit the enrollment of the students in and completion of the doctoral degree in medicine, dentistry, pharmacy, veterinary medicine, law, and the doctorate degree in the physical or natural sciences, engineering, mathematics, or other scientific disciplines in which African Americans are underrepresented;
 
-&emsp;(5) establish or improve a development office to strengthen and increase contributions from alumni and the private sector;
+&emsp;(5) establishing or improving a development office to strengthen and increase contributions from alumni and the private sector;
 
-&emsp;(6) assist in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title; and
+&emsp;(6) assisting in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to section 1065 of this title;
 
-&emsp;(7) funds and administrative management, and the acquisition of equipment, including software, for use in strengthening funds management and management information systems.
+&emsp;(7) funds and administrative management, and the acquisition of equipment, including software, for use in strengthening funds management and management information systems;
+
+&emsp;(8) acquisition of real property that is adjacent to the campus in connection with the construction, renovation, or addition to or improvement of campus facilities;
+
+&emsp;(9) education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+
+&emsp;(10) services necessary for the implementation of projects or activities that are described in the grant application and that are approved, in advance, by the Secretary, except that not more than two percent of the grant amount may be used for this purpose;
+
+&emsp;(11) tutoring, counseling, and student service programs designed to improve academic success; and
+
+&emsp;(12) other activities proposed in the application submitted under subsection (d) that—
+
+&emsp;&emsp;(A) contribute to carrying out the purposes of this part; and
+
+&emsp;&emsp;(B) are approved by the Secretary as part of the review and acceptance of such application.
 
 #### (d) Application
 
@@ -40,7 +54,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 #### (1) In general
 
-&emsp;Independent professional or graduate institutions and programs eligible for grants under subsection (a) of this section are the following <sup>1</sup>
+&emsp;Independent professional or graduate institutions and programs eligible for grants under subsection (a) of this section are the following:
 
 &emsp;&emsp;(A) Morehouse School of Medicine;
 
@@ -74,23 +88,35 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 &emsp;&emsp;(P) Jackson State University qualified graduate program;
 
-&emsp;&emsp;(Q) Norfolk State University qualified graduate programs; and
+&emsp;&emsp;(Q) Norfolk State University qualified graduate programs;
 
-&emsp;&emsp;(R) Tennessee State University qualified graduate programs.
+&emsp;&emsp;(R) Tennessee State University qualified graduate programs;
+
+&emsp;&emsp;(S) Alabama State University qualified graduate programs;
+
+&emsp;&emsp;(T) Prairie View A\&M University qualified graduate programs;
+
+&emsp;&emsp;(U) Delaware State University qualified graduate programs;
+
+&emsp;&emsp;(V) Langston University qualified graduate programs;
+
+&emsp;&emsp;(W) Bowie State University qualified graduate programs; and
+
+&emsp;&emsp;(X) University of the District of Columbia David A. Clarke School of Law.
 
 #### (2) Qualified graduate program
 
-&emsp;(A) For the purposes of this section, the term “qualified graduate program” means a graduate or professional program that provides a program of instruction in the physical or natural sciences, engineering, mathematics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
+&emsp;(A) For the purposes of this section, the term “qualified graduate program” means a graduate or professional program that provides a program of instruction in law or in the physical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
 
 &emsp;(B) Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified graduate program.
 
 #### (3) Special rule
 
-&emsp;Institutions that were awarded grants under this section prior to October 1, 1998, shall continue to receive such grants, subject to the availability of appropriated funds, regardless of the eligibility of the institutions described in subparagraphs (Q) and (R) of paragraph (1).
+&emsp;Institutions that were awarded grants under this section prior to October 1, 2008, shall continue to receive such grants, subject to the availability of appropriated funds, regardless of the eligibility of the institutions described in subparagraphs (S) through (X) of paragraph (1).
 
 #### (4) One grant per institution
 
-&emsp;The Secretary shall not award more than 1 grant under this section in any fiscal year to any institution of higher education or university system.
+&emsp;The Secretary shall not award more than 1 grant under this section in any fiscal year to any institution of higher education.
 
 #### (5) Institutional choice
 
@@ -100,11 +126,11 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 Subject to subsection (g) of this section, of the amount appropriated to carry out this section for any fiscal year—
 
-&emsp;(1) the first $26,600,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section;
+&emsp;(1) the first $56,900,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (R) of subsection (e)(1) of this section;
 
-&emsp;(2) any amount in excess of $26,600,000, but not in excess of $28,600,000, shall be available for the purpose of making grants to institutions or programs described in subparagraphs (Q) and (R) of subsection (e)(1) of this section; and
+&emsp;(2) any amount in excess of $56,900,000, but not in excess of $62,900,000, shall be available for the purpose of making grants to institutions or programs described in subparagraphs (S) through (X) of subsection (e)(1) of this section; and
 
-&emsp;(3) any amount in excess of $28,600,000, shall be made available to each of the institutions or programs identified in subparagraphs (A) through (R) <sup>2</sup> pursuant to a formula developed by the Secretary that uses the following elements:
+&emsp;(3) any amount in excess of $62,900,000, shall be made available to each of the institutions or programs identified in subparagraphs (A) through (X) <sup>1</sup> pursuant to a formula developed by the Secretary that uses the following elements:
 
 &emsp;&emsp;(A) The ability of the institution to match Federal funds with non-Federal funds.
 
@@ -118,11 +144,43 @@ Subject to subsection (g) of this section, of the amount appropriated to carry o
 
 #### (g) Hold harmless rule
 
-Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 1998 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 1998, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
+Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
-(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328; Pub. L. 105–244, title III, §304(b), Oct. 7, 1998, 112 Stat. 1643.)
+#### (h) Interaction with other grant programs
+
+No institution that is eligible for and receives an award under section 1102a, 1136a, or 1136b of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
+
+(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328; Pub. L. 105–244, title III, §304(b), Oct. 7, 1998, 112 Stat. 1643; Pub. L. 110–315, title III, §311, Aug. 14, 2008, 122 Stat. 3178.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §311(a), inserted at end “Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.”
+
+Subsec. (c)(5). Pub. L. 110–315, §311(b)(1), substituted “establishing or improving” for “establish or improve”.
+
+Subsec. (c)(6). Pub. L. 110–315, §311(b)(2), substituted “assisting” for “assist” and struck out “and” after semicolon.
+
+Subsec. (c)(8) to (12). Pub. L. 110–315, §311(b)(3), (4), added pars. (8) to (12).
+
+Subsec. (e)(1). Pub. L. 110–315, §311(c)(1)(A), inserted a colon after “the following” in introductory provisions.
+
+Subsec. (e)(1)(S) to (X). Pub. L. 110–315, §311(c)(1)(B)–(D), added subpars. (S) to (X).
+
+Subsec. (e)(2)(A). Pub. L. 110–315, §311(c)(3), inserted “in law or” after “instruction” and substituted “mathematics, psychometrics, or” for “mathematics, or”.
+
+Subsec. (e)(3). Pub. L. 110–315, §311(c)(2), substituted “2008” for “1998” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
+
+Subsec. (e)(4). Pub. L. 110–315, §311(c)(4), struck out “or university system” after “higher education”.
+
+Subsec. (f)(1). Pub. L. 110–315, §311(d)(1), substituted “$56,900,000” for “$26,600,000” and “through (R)” for “through (P)”.
+
+Subsec. (f)(2). Pub. L. 110–315, §311(d)(2), substituted “$56,900,000, but not in excess of $62,900,000” for “$26,600,000, but not in excess of $28,600,000” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
+
+Subsec. (f)(3). Pub. L. 110–315, §311(d)(3), in introductory provisions, substituted “$62,900,000” for “$28,600,000” and “through (X)” for “through (R)”.
+
+Subsec. (g). Pub. L. 110–315, §311(e), substituted “2008” for “1998” in two places.
+
+Subsec. (h). Pub. L. 110–315, §311(f), added subsec. (h).
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
 
@@ -218,7 +276,5 @@ Section 1 of Pub. L. 104–141 provided that: “The Congress finds the followin
 
 &emsp;“(4) The survival of these schools will contribute to the improved health status of disadvantaged persons, and of all Americans.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraphs (A) to (R) of subsection (e)(1) of this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs (A) to (X) of subsection (e)(1) of this section”.</i>
 

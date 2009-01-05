@@ -2,7 +2,7 @@
 
 (a) One or more rail carriers providing transportation subject to the jurisdiction of the Board under this part may enter into a contract with one or more purchasers of rail services to provide specified services under specified rates and conditions.
 
-(b) A party to a contract entered into under this section shall have no duty in connection with services provided under such contract other than those duties specified by the terms of the contract.
+(b) A party to a contract entered into under this section shall have no duty in connectionwith services provided under such contract other than those duties specified by the terms of the contract.
 
 (c)(1) A contract that is authorized by this section, and transportation under such contract, shall not be subject to this part, and may not be subsequently challenged before the Board or in any court on the grounds that such contract violates a provision of this part.
 
@@ -38,7 +38,7 @@
 
 (B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 
-(h)(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier's owned or leasedequipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
+(h)(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier's owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
 
 (2) The Board may, on request of a rail carrier or other party or on its own initiative, grant such relief from the limitations of paragraph (1) of this subsection as the Board considers appropriate, if it appears that additional equipment may be made available without impairing the rail carrier's ability to meet its common carrier obligations under section 11101 of this title.
 

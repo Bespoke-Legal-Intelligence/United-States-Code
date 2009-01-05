@@ -94,7 +94,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (4) Authority upon dismissal or other disposition
 
-&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+&emsp;A finding of not guilty or other disposition of charges described in paragraph (1) shall notpreclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
 
 #### (e) Notification to licensees
 
@@ -140,7 +140,7 @@ Copies of each notice required to be served on a management official under this 
 
 &emsp;&emsp;Upon the filing of a petition under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the court shall have jurisdiction, which, upon the filing of the record under subparagraph (C), shall be exclusive, to affirm, modify, terminate, or set aside, inwhole or in part, the order of the Administrator, except as provided in the last sentence of paragraph (3)(B);
+&emsp;&emsp;&emsp;(i) the court shall have jurisdiction, which, upon the filing of the record under subparagraph (C), shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Administrator, except as provided in the last sentence of paragraph (3)(B);
 
 &emsp;&emsp;&emsp;(ii) review of such proceedings shall be had as provided in chapter 7 of title 5; and
 

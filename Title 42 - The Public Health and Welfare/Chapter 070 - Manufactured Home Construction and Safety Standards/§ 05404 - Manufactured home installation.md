@@ -40,7 +40,7 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 #### (1) Protection of manufactured housing residents during initial period
 
-&emsp;During the 5-year period beginning on December 27, 2000, no State or manufacturer mayestablish or implement any installation standards that, in the determination of the Secretary, provide less protection to the residents of manufactured homes than the protection provided by the installation standards in effect with respect to the State or manufacturer, as applicable, on December 27, 2000.
+&emsp;During the 5-year period beginning on December 27, 2000, no State or manufacturer may establish or implement any installation standards that, in the determination of the Secretary, provide less protection to the residents of manufactured homes than the protection provided by the installation standards in effect with respect to the State or manufacturer, as applicable, on December 27, 2000.
 
 #### (2) Installation standards
 

@@ -28,7 +28,7 @@
 
 &emsp;If a claim by an employee of the Architect of the Capitol arises under section 1311 or 1312 of this title after the effective date of those provisions, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the employee may satisfy the requirements for counseling and mediation by exhausting the requirements prescribed by the Architect of the Capitol in accordance with section 1831(e)(3) <sup>1</sup> of this title. If, after exhaustion of those requirements the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-&emsp;&emsp;(A) to file a charge with the General Accounting Office Personnel Appeals Board <sup>2</sup> pursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until thecompletion of all proceedings in relation to the charge, or
+&emsp;&emsp;(A) to file a charge with the General Accounting Office Personnel Appeals Board <sup>2</sup> pursuant to section 1831(e)(3) <sup>1</sup> of this title, and thereafter proceed exclusively under section 1831(e) <sup>1</sup> of this title, the provisions of which shall remain in effect until the completion of all proceedings in relation to the charge, or
 
 &emsp;&emsp;(B) to commence a civil action under section 1408 of this title.
 
@@ -46,7 +46,7 @@ Rule LI of the Rules of the House of Representatives, referred to in subsec. (a)
 
 The Family and Medical Leave Act of 1993, referred to in subsec. (a)(1), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title V of the Act was classified generally to sections 60m and 60n of this title prior to repeal, except as provided by this section, by Pub. L. 104–1, title V, §504(b), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29, Labor, and Tables.
 
-The Government Employees Rights Act of 1991, referred to in subsec. (a)(1), (2), probably means the Government Employee Rights Act of 1991, which is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, as amended, and is classified generally to sections 2000e–16a to 2000e–16c of Title 42, The Public Health and Welfare. Sections 305 and 307 of the Act were classified to sections 1205 and 1207, respectively, of this title prior to repeal, except as provided in this section, by Pub. L. 104–1, title V, §504(a)(2), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
+The Government Employees Rights Act of 1991, referred to in subsec. (a)(1), (2), probably means the Government Employee Rights Act of 1991, which is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, as amended, and is classified generally to sections 2000e–16a to 2000e–16c of Title 42, The Public Health and Welfare.Sections 305 and 307 of the Act were classified to sections 1205 and 1207, respectively, of this title prior to repeal, except as provided in this section, by Pub. L. 104–1, title V, §504(a)(2), Jan. 23, 1995, 109 Stat. 41. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
 
 Section 1207a of this title, referred to in subsec. (a)(3), was repealed, except as provided in this section, by Pub. L. 104–1, title V, §504(a)(5), Jan. 23, 1995, 109 Stat. 41.
 

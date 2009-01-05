@@ -20,15 +20,17 @@ The Secretary may enter into contracts for—
 
 &emsp;(1) the alternative origination of loans to students attending institutions of higher education with agreements to participate in the program under this part (or their parents), if such institutions do not have agreements with the Secretary under section 1087d(b) of this title;
 
-&emsp;(2) the servicing and collection of loans made under this part;
+&emsp;(2) the servicing and collection of loans made or purchased under this part;
 
-&emsp;(3) the establishment and operation of 1 or more data systems for the maintenance of records on all loans made under this part; and
+&emsp;(3) the establishment and operation of 1 or more data systems for the maintenance of records on all loans made or purchased under this part; and
 
 &emsp;(4) such other aspects of the direct student loan program as the Secretary determines are necessary to ensure the successful operation of the program.
 
-(Pub. L. 89–329, title IV, §456, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352; Pub. L. 105–244, title IV, §453, Oct. 7, 1998, 112 Stat. 1717.)
+(Pub. L. 89–329, title IV, §456, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352; Pub. L. 105–244, title IV, §453, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 110–227, §7(c), May 7, 2008, 122 Stat. 747.)
 
 #### Amendments
+
+2008—Subsec. (b)(2), (3). Pub. L. 110–227 inserted “or purchased” after “loans made”.
 
 1998—Subsec. (b)(3). Pub. L. 105–244, §453(1), inserted “and” after semicolon.
 

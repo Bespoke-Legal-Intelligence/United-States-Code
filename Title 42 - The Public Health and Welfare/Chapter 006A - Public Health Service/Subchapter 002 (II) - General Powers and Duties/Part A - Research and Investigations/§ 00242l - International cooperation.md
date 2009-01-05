@@ -1,8 +1,12 @@
 ### §242<i>l</i>. International cooperation
 
-#### (a) Cooperative endeavors; statement of purpose
+#### (a) Cooperative endeavors
 
-For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.
+The Secretary may participate with other countries in cooperative endeavors in—
+
+&emsp;(1) biomedical research, health care technology, and the health services research and statistical analysis authorized under section 242k of this title and subchapter VII; and
+
+&emsp;(2) biomedical research, health care services, health care research, or other related activities in furtherance of the activities, objectives or goals authorized under the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008.
 
 #### (b) Authority of Secretary; building construction prohibition
 
@@ -20,27 +24,31 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 &emsp;(6) facilitate the interchange between the United States and participating foreign countries, and among participating foreign countries, of research scientists and experts who are engaged in experiments or programs of biomedical research, health services research, health statistical activities, or health care technology activities, and in carrying out such purpose may pay per diem compensation, subsistence, and travel for such scientists and experts when away from their places of residence at rates not to exceed those provided in section 5703(b) <sup>1</sup> of title 5 for persons in the Government service employed intermittently;
 
-&emsp;(7) procure, in accordance with section 3109 of title 5, the temporary or intermittent services of experts or consultants; and
+&emsp;(7) procure, in accordance with section 3109 of title 5, the temporary or intermittent services of experts or consultants;
 
-&emsp;(8) enter into contracts with individuals for the provision of services (as defined in section 104 of part 37 of title 48, Code of Federal Regulations (48 CFR 37.104)) in participating foreign countries, which individuals may not be deemed employees of the United States for any purpose.
+&emsp;(8) enter into contracts with individuals for the provision of services (as defined in section 104 of part 37 of title 48, Code of Federal Regulations (48 CFR 37.104)) in participating foreign countries, which individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management;
 
-> The Secretary may not, in the exercise of his authority under this section, provide financial assistance for the construction of any facility in any foreign country.
+&emsp;(9) provide such funds by advance or reimbursement to the Secretary of State, as maybe necessary, to pay the costs of acquisition, lease, construction, alteration, equipping, furnishing or management of facilities outside of the United States; and
+
+&emsp;(10) in consultation with the Secretary of State, through grant or cooperative agreement, make funds available to public or nonprofit private institutions or agencies in foreign countries in which the Secretary is participating in activities described under subsection (a) to acquire, lease, construct, alter, or renovate facilities in those countries.
 
 #### (c) Benefits for overseas assignees
 
-The Secretary may provide to personnel appointed or assigned by the Secretary to serveabroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 to individuals serving in the Foreign Service.
+The Secretary may provide to personnel appointed or assigned by the Secretary to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 or section 903 of the Foreign Service Act of 1980 (22 U.S.C. 4083) to individuals serving in the Foreign Service.
 
 #### (d) Strategies to improve injection safety
 
 In carrying out immunization programs and other programs in developing countries for the prevention, treatment, and control of infectious diseases, including HIV/AIDS, tuberculosis, and malaria, the Director of the Centers for Disease Control and Prevention, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Institutes of Health, national and local government, and other organizations, such as the World Health Organization and the United Nations Children's Fund, shall develop and implement effective strategies to improve injection safety, including eliminating unnecessary injections, promoting sterile injection practices and technologies, strengthening the procedures for proper needle and syringe disposal, and improving the education and information provided to the public and to health professionals.
 
-(July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739.)
+(July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739; Pub. L. 110–293, title II, §205, July 30, 2008, 122 Stat. 2943.)
 
 #### References in Text
 
+The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, referred to in subsec. (a)(2), is Pub. L. 110–293, July 30, 2008, 122 Stat. 2918. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 7601 of Title 22, Foreign Relations and Intercourse, and Tables.
+
 Section 5703 of title 5, referred to in subsec. (b)(6), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-The Foreign Service Act of 1990, referred to in subsec. (c), probably means the Foreign Service Act of 1980, which is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Act is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -51,6 +59,16 @@ Section was formerly classified to section 242f of this title.
 A prior section 307 of act July 1, 1944, was classified to section 242e of this title, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–293, §205(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For the purpose of advancing the status of the health sciences in the United States (and thereby the health of the American people), the Secretary may participate with other countries in cooperative endeavors in biomedical research, health care technology, and the health services research and statistical activities authorized by section 242k of this title and by subchapter VII of this chapter.”
+
+Subsec. (b). Pub. L. 110–293, §205(2)(B), struck out concluding provisions which read as follows: “The Secretary may not, in the exercise of his authority under this section, provide financial assistance for the construction of any facility in any foreign country.”
+
+Subsec. (b)(8). Pub. L. 110–293, §205(2)(C), substituted “for the purpose of any law administered by the Office of Personnel Management;” for “for any purpose.”
+
+Subsec. (b)(9), (10). Pub. L. 110–293, §205(2)(A), (D), added pars. (9) and (10).
+
+Subsec. (c). Pub. L. 110–293, §205(3), substituted “1980” for “1990” and inserted “or section 903 of the Foreign Service Act of 1980 (22 U.S.C. 4083)” after “title 5”.
 
 2003—Subsec. (d). Pub. L. 108–25 added subsec. (d).
 

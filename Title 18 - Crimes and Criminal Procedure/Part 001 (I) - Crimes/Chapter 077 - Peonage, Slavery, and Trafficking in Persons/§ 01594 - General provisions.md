@@ -2,13 +2,17 @@
 
 (a) Whoever attempts to violate section 1581, 1583, 1584, 1589, 1590, or 1591 shall be punishable in the same manner as a completed violation of that section.
 
-(b) The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
+(b) Whoever conspires with another to violate section 1581, 1583, 1589, 1590, or 1592 shall be punished in the same manner as a completed violation of such section.
+
+(c) Whoever conspires with another to violate section 1591 shall be fined under this title, imprisoned for any term of years or for life, or both.
+
+(d) The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
 &emsp;(1) such person's interest in any property, real or personal, that was used or intended to be used to commit or to facilitate the commission of such violation; and
 
 &emsp;(2) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation.
 
-(c)(1) The following shall be subject to forfeiture to the United States and no property right shall exist in them:
+(e)(1) The following shall be subject to forfeiture to the United States and no property right shall exist in them:
 
 &emsp;(A) Any property, real or personal, used or intended to be used to commit or to facilitate the commission of any violation of this chapter.
 
@@ -16,9 +20,13 @@
 
 (2) The provisions of chapter 46 of this title relating to civil forfeitures shall extend to any seizure or civil forfeiture under this subsection.
 
-(d)
+(f)
 
 Witness Protection.—Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 
-(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1489.)
+(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1489; amended Pub. L. 110–457, title II, §222(c), Dec. 23, 2008, 122 Stat. 5070.)
+
+#### Amendments
+
+2008—Subsecs. (b) to (f). Pub. L. 110–457 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 

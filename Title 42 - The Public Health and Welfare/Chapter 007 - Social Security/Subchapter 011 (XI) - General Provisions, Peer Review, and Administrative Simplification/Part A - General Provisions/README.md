@@ -49,6 +49,7 @@ Part A—General Provisions
 - [&sect; 01320a&#8211;7d - Guidance regarding application of health care fraud and abuse sanctions](%C2%A7%2001320a%E2%80%937d%20-%20Guidance%20regarding%20application%20of%20health%20care%20fraud%20and%20abuse%20sanctions.md)
 - [&sect; 01320a&#8211;7e - Health care fraud and abuse data collection program](%C2%A7%2001320a%E2%80%937e%20-%20Health%20care%20fraud%20and%20abuse%20data%20collection%20program.md)
 - [&sect; 01320a&#8211;7f - Coordination of medicare and medicaid surety bond provisions](%C2%A7%2001320a%E2%80%937f%20-%20Coordination%20of%20medicare%20and%20medicaid%20surety%20bond%20provisions.md)
+- [&sect; 01320a&#8211;7g - Funds to reduce medicaid fraud and abuse](%C2%A7%2001320a%E2%80%937g%20-%20Funds%20to%20reduce%20medicaid%20fraud%20and%20abuse.md)
 - [&sect; 01320a&#8211;8 - Civil monetary penalties and assessments for subchapters II, VIII and XVI](%C2%A7%2001320a%E2%80%938%20-%20Civil%20monetary%20penalties%20and%20assessments%20for%20subchapters%20II%2C%20VIII%20and%20XVI.md)
 - [&sect; 01320a&#8211;8a - Administrative procedure for imposing penalties for false or misleading statements](%C2%A7%2001320a%E2%80%938a%20-%20Administrative%20procedure%20for%20imposing%20penalties%20for%20false%20or%20misleading%20statements.md)
 - [&sect; 01320a&#8211;8b - Attempts to interfere with administration of this chapter](%C2%A7%2001320a%E2%80%938b%20-%20Attempts%20to%20interfere%20with%20administration%20of%20this%20chapter.md)

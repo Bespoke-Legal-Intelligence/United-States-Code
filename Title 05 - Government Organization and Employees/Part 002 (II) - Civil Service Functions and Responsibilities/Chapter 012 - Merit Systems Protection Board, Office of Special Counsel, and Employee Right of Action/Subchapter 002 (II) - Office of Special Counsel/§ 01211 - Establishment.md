@@ -16,6 +16,34 @@
 
 Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
+#### Allegations of Wrongdoing Against Special Counsel or Deputy Special Counsel
+
+Pub. L. 110–409, §7(b), Oct. 14, 2008, 122 Stat. 4312, provided that:
+
+“(1)
+
+Definitions.—In this section \[enacting section 11 of Pub. L. 95–452, set out in the Appendix to this title, amending sections 2, 4, and 8G of Pub. L. 95–452 and section 1105 of Title 31, Money and Finance, renumbering sections 11 and 12 of Pub. L. 95–452 as 12 and 13, respectively, of Pub. L. 95–452, enacting provisions set out as a note under section 11 of Pub. L. 95–452, and amending provisions set out as notes under section 3 of Pub. L. 95–452 and section 501 of Title 31\]—
+
+&emsp;“(A) the term ‘Integrity Committee’ means the Integrity Committee established under section 11(d) of the Inspector General Act of 1978 (5 U.S.C. App), as amended by this Act; and
+
+&emsp;“(B) the term ‘Special Counsel’ refers to the Special Counsel appointed under section 1211(b) of title 5, United States Code.
+
+“(2)
+
+Authority of integrity committee.—
+
+&emsp;“(A)
+
+In general.—An allegation of wrongdoing against the Special Counsel or the Deputy Special Counsel may be received, reviewed, and referred for investigation by the Integrity Committee to the same extent and in the same manner as in the case of an allegation against an Inspector General (or a member of the staff of an Office of Inspector General), subject to the requirement that the Special Counsel recuse himself or herself from the consideration of any allegation brought under this paragraph.
+
+&emsp;“(B)
+
+Coordination with existing provisions of law.—This subsection does not eliminate access to the Merit Systems Protection Board for review under section 7701 of title 5, United States Code. To the extent that an allegation brought under this subsection involves section 2302(b)(8) of that title, a failure to obtain corrective action within 120 days after the date on which that allegation is received by the Integrity Committee shall, for purposes of section 1221 of such title, be considered to satisfy section 1214(a)(3)(B) of that title.
+
+“(3)
+
+Regulations.—The Integrity Committee may prescribe any rules or regulations necessary to carry out this subsection, subject to such consultation or other requirements as might otherwise apply.”
+
 #### Transfer of Funds
 
 Section 8(c) of Pub. L. 101–12 provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”

@@ -36,7 +36,7 @@ Any change in information previously submitted in a statement of organization sh
 
 &emsp;(C) the termination of an insolvent political committee after such liquidation and application of assets.
 
-(Pub. L. 92–225, title III, §303, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§203, 208(c)(3),Oct. 15, 1974, 88 Stat. 1276, 1286; Pub. L. 96–187, title I, §103, Jan. 8, 1980, 93 Stat. 1347.)
+(Pub. L. 92–225, title III, §303, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§203, 208(c)(3), Oct. 15, 1974, 88 Stat. 1276, 1286; Pub. L. 96–187, title I, §103, Jan. 8, 1980, 93 Stat. 1347.)
 
 #### Amendments
 

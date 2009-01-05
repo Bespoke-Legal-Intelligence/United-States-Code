@@ -18,7 +18,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 &emsp;(B) to any amendment, change, or termination in any agreement that may be concluded at any time between the Government of the United States and the Government of Palau regarding friendship, cooperation and mutual security concluded pursuant to sections 321 and 323 of the Compact referred to in section 462(h);
 
-&emsp;(C) to any amendment, change, or termination of the agreements concluded pursuant to Compact sections 175 and 221(a)(4), the terms of which are incorporated by reference into the Compact; and
+&emsp;(C) to any amendment, change, or termination of the agreements concluded pursuantto Compact sections 175 and 221(a)(4), the terms of which are incorporated by reference into the Compact; and
 
 &emsp;(D) to the following subsidiary agreements, or portions thereof:
 
@@ -84,7 +84,7 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 
 #### Regulations Regarding Habitual Residence
 
-Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of “habitual residence” in United States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, formerly set out as a note under section 1901 of this title.
+Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of “habitual residence” inUnited States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, formerly set out as a note under section 1901 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -160,7 +160,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 123
 
-“In recognition of the authority and responsibility of the Government of the United States under Title Three, the Government of Palau shall consult with the Government of the United States. The Government of the United States, in the conduct of its foreign affairs, shall consult with the Government of Palau on matters which the Government of the United States regards as relating to or affecting the Government of Palau, and shall provide, on a regular basis, information on regional foreign policy matters.
+“In recognition of the authority and responsibility of the Government of the United States under TitleThree, the Government of Palau shall consult with the Government of the United States. The Government of the United States, in the conduct of its foreign affairs, shall consult with the Government of Palau on matters which the Government of the United States regards as relating to or affecting the Government of Palau, and shall provide, on a regular basis, information on regional foreign policy matters.
 
 #### “Section 124
 
@@ -228,7 +228,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 142
 
-“(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and reside in Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
+“(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and residein Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
 
 “(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizens and nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
 
@@ -294,7 +294,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(d) Disputes arising under this Article, except for Section 163(e), shall be resolved exclusively in accordance with Article II of Title Four.
 
-“(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure whichmay be applicable under this Article if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the Government of Palau shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the Government of Palau.
+“(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under this Article if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the Government of Palau shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the Government of Palau.
 
 #### “Article VII
 
@@ -342,13 +342,13 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 177
 
-“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tort claims arising in Palau from the activities of such agencies or from the acts or omissions of the employees of such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
+“(a) Federal agencies of the Government of the United States which provide services and related programs in Palau are authorized to settle and pay tort claims arising in Palau from the activities of such agencies or from the acts or omissions of the employeesof such agencies. Except as provided in Section 177(b), the provisions of 28 U.S.C. 2672 and 31 U.S.C. 1304 shall apply exclusively to such administrative settlements and payments.
 
 “(b) Claims under Section 177(a) which cannot be settled under Section 177(a) shall be disposed of exclusively in accordance with Article II of Title Four. Arbitration awards rendered pursuant to this subsection shall be paid out of funds under 31 U.S.C. 1304.
 
 “(c) The Government of the United States and the Government of Palau shall provide for:
 
-&emsp;“(1) the administrative settlement of claims referred to in Section 177(a), including designation of local agents in Palau, such agents to be empowered to accept, investigate and settle such claims, in atimely manner, as provided in such related agreements; and
+&emsp;“(1) the administrative settlement of claims referred to in Section 177(a), including designation of local agents in Palau, such agents to be empowered to accept, investigate and settle such claims, in a timely manner, as provided in such related agreements; and
 
 &emsp;“(2) arbitration, referred to in Section 177(b), in a timely manner, at a site convenient to the claimant, in the event a claim is not otherwise settled pursuant to Section 177(a).
 
@@ -468,7 +468,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) Funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands, in his official capacity, as of the effective date of this Compact shall remain available as trust funds to their designated beneficiaries. The Government of the United States, in consultation with the Government of Palau, shall appoint a new trustee who shall exercise the functions formerly exercised by the High Commissioner of the Trust Territory of the Pacific Islands.
 
-“(b) To provide for the continuity of administration, and to assure the Governments \[sic\] of Palau that the purposes of the laws of the United States are carried out and that the funds of any other trust fund in which the High Commissioner of the Trust Territory of the Pacific Islands has authority of a statutory or customary nature shall remain available as trust funds to their designated beneficiaries, the Government of the United States agrees to assume the authority formerly vested in the High Commissioner of the Trust Territory of the Pacific Islands.
+“(b) To provide for the continuity of administration, and to assure the Governments \[sic\] of Palau that thepurposes of the laws of the United States are carried out and that the funds of any other trust fund in which the High Commissioner of the Trust Territory of the Pacific Islands has authority of a statutory or customary nature shall remain available as trust funds to their designated beneficiaries, the Government of the United States agrees to assume the authority formerly vested in the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### “Section 236
 
@@ -536,9 +536,9 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) For purposes of section 936 of the Internal Revenue Code of 1954 Palau shall be treated as if it was a possession of the United States.
 
-“(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement of the kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
+“(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement ofthe kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
 
-“(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegateshall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
+“(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
 
 “(d) For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1954, the term ‘North American area’ shall include Palau.
 
@@ -702,7 +702,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 431
 
-“The provisions of this Compact may be amended at any time by mutual agreement of the Government ofthe United States and the Government of Palau in accordance with their respective constitutional processes.
+“The provisions of this Compact may be amended at any time by mutual agreement of the Government of the United States and the Government of Palau in accordance with their respective constitutional processes.
 
 #### “Section 432
 
@@ -788,7 +788,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(2) public and private sector projects identified in the official overall economic development plan.
 
-“(i) ‘Current Account’ means, for each year of the Compact, those portions of the total grant assistanceprovided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
+“(i) ‘Current Account’ means, for each year of the Compact, those portions of the total grant assistance provided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
 
 “(j) ‘Official National Development Plan’ means the documented program of annual development which identifies the specific policy and project activities necessary to achieve a specified set of economic goals and objectives during the period of free association, consistent with the economic assistance authority in Title Two. Such a document should include an analysis of population trends, manpower requirements, social needs, gross national product estimates, resource utilization, infrastructure needs and expenditures, and the specific private sector projects required to develop the local economy of Palau. Project identification should include initial cost estimates, with project purposes related to specific development goals and objectives.
 
@@ -856,7 +856,7 @@ I74“of \_\_\_\_, one thousand nine hundred eighty-fiveI74“for the government
 
 Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, provided:
 
-Since July 18, 1947, the United States has administered the United Nations Trust Territory of the Pacific Islands (“Trust Territory”), which has included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau.
+Since July 18, 1947, the United States has administered the United Nations Trust Territory of the PacificIslands (“Trust Territory”), which has included the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, and Palau.
 
 On November 3, 1986, a Covenant between the United States and the Northern Mariana Islands \[48 U.S.C. 1801 note\] came into force. This Covenant established the Commonwealth of the Northern Mariana Islands as a self-governing Commonwealth in political union with and under the sovereignty of the United States.
 

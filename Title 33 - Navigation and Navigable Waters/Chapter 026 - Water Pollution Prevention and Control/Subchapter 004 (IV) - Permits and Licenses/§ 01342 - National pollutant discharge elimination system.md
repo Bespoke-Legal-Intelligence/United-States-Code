@@ -8,7 +8,7 @@
 
 (3) The permit program of the Administrator under paragraph (1) of this subsection, and permits issued thereunder, shall be subject to the same terms, conditions, and requirements as apply to a State permit program and permits issued thereunder under subsection (b) of this section.
 
-(4) All permits for discharges into the navigable waters issued pursuant to section 407 of this title shall be deemed to be permits issued under this subchapter, and permits issued under this subchapter shall be deemed to be permits issued under section 407 of this title, and shall continue in force and effect for their term unless revoked, modified, or suspended in accordance with the provisions of this chapter.
+(4) All permits for discharges into the navigable waters issued pursuant to section 407 of this title shall be deemed to be permits issued under this subchapter, and permits issued underthis subchapter shall be deemed to be permits issued under section 407 of this title, and shall continue in force and effect for their term unless revoked, modified, or suspended in accordance with the provisions of this chapter.
 
 (5) No permit for a discharge into the navigable waters shall be issued under section 407 of this title after October 18, 1972. Each application for a permit under section 407 of this title, pending on October 18, 1972, shall be deemed to be an application for a permit under this section. The Administrator shall authorize a State, which he determines has the capability of administering a permit program which will carry out the objectives of this chapter to issue permits for discharges into the navigable waters within the jurisdiction of such State. The Administrator may exercise the authority granted him by the preceding sentence only during the period which begins on October 18, 1972, and ends either on the ninetieth day after the date of the first promulgation of guidelines required by section 1314(i)(2) of this title, or the date of approval by the Administrator of a permit program for such State under subsection (b) of this section, whichever date first occurs, and no such authorization to a State shall extend beyond the last day of such period. Each such permit shall be subject to such conditions as the Administrator determines are necessary to carry out the provisions of this chapter. No such permit shall issue if the Administrator objects to such issuance.
 
@@ -116,7 +116,7 @@ Compliance with a permit issued pursuant to this section shall be deemed complia
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
-To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title,relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
+To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 
 #### (n) Partial permit program
 
@@ -206,7 +206,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;&emsp;(ii) shall include a requirement to effectively prohibit non-stormwater discharges into the storm sewers; and
 
-&emsp;&emsp;&emsp;(iii) shall require controls to reduce the discharge of pollutants to the maximum extent practicable, including management practices, control techniques and system, design and engineering methods, and such other provisions as the Administrator or the State determines appropriate for the control of such pollutants.
+&emsp;&emsp;&emsp;(iii) shall require controls to reduce the discharge of pollutants to the maximumextent practicable, including management practices, control techniques and system, design and engineering methods, and such other provisions as the Administrator or the State determines appropriate for the control of such pollutants.
 
 #### (4) Permit application requirements
 
@@ -238,7 +238,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed bythe Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
 
 #### (2) Water quality and designated use review guidance
 
@@ -248,9 +248,15 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;Not later than September 1, 2001, the Administrator shall transmit to Congress a report on the progress made by the Environmental Protection Agency, States, and municipalities in implementing and enforcing the CSO control policy.
 
-(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224.)
+#### (r) Discharges incidental to the normal operation of recreational vessels
+
+No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
+
+(June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650.)
 
 #### Amendments
+
+2008—Subsec. (r). Pub. L. 110–288 added subsec. (r).
 
 2000—Subsec. (q). Pub. L. 106–554 added subsec. (q).
 
@@ -289,6 +295,66 @@ Subsec. (<i>l</i>). Pub. L. 95–217, §33(c), added subsec. (<i>l</i>).
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+
+#### Permit Requirements for Discharges From Certain Vessels
+
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, provided that:
+
+#### “SECTION 1. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+
+&emsp;“(2)
+
+Covered vessel.—The term ‘covered vessel’ means a vessel that is—
+
+&emsp;&emsp;“(A) less than 79 feet in length; or
+
+&emsp;&emsp;“(B) a fishing vessel (as defined in section 2101 of title 46, United States Code), regardless of the length of the vessel.
+
+&emsp;“(3)
+
+Other terms.—The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, and ‘State’ have the meanings given the terms in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
+
+#### “SEC. 2. DISCHARGES INCIDENTAL TO NORMAL OPERATION OF VESSELS.
+
+“(a)
+
+No Permit Requirement.—Except as provided in subsection (b), during the 2-year period beginning on the date of enactment of this Act \[July 31, 2008\], the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
+
+&emsp;“(1) any discharge of effluent from properly functioning marine engines;
+
+&emsp;“(2) any discharge of laundry, shower, and galley sink wastes; or
+
+&emsp;“(3) any other discharge incidental to the normal operation of a covered vessel.
+
+“(b)
+
+Exceptions.—Subsection (a) shall not apply with respect to—
+
+&emsp;“(1) rubbish, trash, garbage, or other such materials discharged overboard;
+
+&emsp;“(2) other discharges when the vessel is operating in a capacity other than as a means of transportation, such as when—
+
+&emsp;&emsp;“(A) used as an energy or mining facility;
+
+&emsp;&emsp;“(B) used as a storage facility or a seafood processing facility;
+
+&emsp;&emsp;“(C) secured to a storage facility or a seafood processing facility; or
+
+&emsp;&emsp;“(D) secured to the bed of the ocean, the contiguous zone, or waters of the United States for the purpose of mineral or oil exploration or development;
+
+&emsp;“(3) any discharge of ballast water; or
+
+&emsp;“(4) any discharge in a case in which the Administrator or State, as appropriate, determines that the discharge—
+
+&emsp;&emsp;“(A) contributes to a violation of a water quality standard; or
+
+&emsp;&emsp;“(B) poses an unacceptable risk to human health or the environment.”
 
 #### Stormwater Permit Requirements
 

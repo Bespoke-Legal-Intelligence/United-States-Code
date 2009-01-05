@@ -1,6 +1,6 @@
 ### §3458. Limitation on assistance
 
-In carrying out this subchapter, the Secretary shall provide technical assistance and financialassistance with respect to not more than 450 active designated areas.
+In carrying out this subchapter, the Secretary shall provide technical assistance and financial assistance with respect to not more than 450 active designated areas.
 
 (Pub. L. 97–98, title XV, §1535, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 274.)
 

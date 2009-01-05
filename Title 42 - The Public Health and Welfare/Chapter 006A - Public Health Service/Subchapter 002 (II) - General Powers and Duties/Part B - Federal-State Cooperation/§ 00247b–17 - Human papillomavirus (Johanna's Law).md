@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
 
-&emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
+&emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health andHuman Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
 
 &emsp;&emsp;&emsp;(iii) For each activity described pursuant to clause (i) or (ii), a description of the following:
 

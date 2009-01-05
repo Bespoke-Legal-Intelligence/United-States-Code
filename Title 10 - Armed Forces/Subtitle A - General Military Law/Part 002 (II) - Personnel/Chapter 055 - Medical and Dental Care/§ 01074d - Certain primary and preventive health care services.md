@@ -122,7 +122,7 @@ Activities for Fiscal Year 1994.—During fiscal year 1994, the Center may addre
 
 “(f)
 
-Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[107 Stat. 1583\],$20,000,000 shall be available for the establishment of the Center or for medical research at existing Department of Defense medical centers into matters relating to service by women in the military.
+Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[107 Stat. 1583\], $20,000,000 shall be available for the establishment of the Center or for medical research at existing Department of Defense medical centers into matters relating to service by women in the military.
 
 “(g)
 

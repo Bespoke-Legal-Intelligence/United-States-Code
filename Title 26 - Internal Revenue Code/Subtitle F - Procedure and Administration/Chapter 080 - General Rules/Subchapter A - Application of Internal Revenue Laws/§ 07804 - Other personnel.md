@@ -94,7 +94,7 @@ Discretion.—The exercise of authority under paragraph (1) shall be at the sole
 
 &emsp;“(3)
 
-No appeal.—Any determination of the Commissioner of Internal Revenue under this subsectionmay not be appealed in any administrative or judicial proceeding.
+No appeal.—Any determination of the Commissioner of Internal Revenue under this subsection may not be appealed in any administrative or judicial proceeding.
 
 “(d)
 
@@ -224,7 +224,7 @@ Pub. L. 100–203, title X, §10622, Dec. 22, 1987, 101 Stat. 1330–452, provid
 
 Findings.—The Congress hereby finds that—
 
-&emsp;“(1) the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed theamount of taxes collected for such year by $100 billion;
+&emsp;“(1) the Internal Revenue Service estimates that the amount of taxes owed for 1986 will exceed the amount of taxes collected for such year by $100 billion;
 
 &emsp;“(2) the current taxpayer compliance rate stands at 81.5 percent;
 
@@ -234,7 +234,7 @@ Findings.—The Congress hereby finds that—
 
 “(b) It is the sense of the Congress that:
 
-&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989 and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
+&emsp;“(1) The Congress increase outlays for the Internal Revenue Service in fiscal year 1989 and fiscal year 1990 in the areas of taxpayer assistance and enforcement by $.7 billion in fiscal year 1989 for a revenue total of $3.2 billion and by $.8 billion in fiscal year 1990 for a revenue total of $4.4 billion. The net revenue increase would be $2.5 billion in fiscal year 1989and $3.6 billion in fiscal year 1990, or a net revenue increase over the House Appropriations Committee recommendations of $.4 billion in fiscal year 1989 and $1.3 billion in fiscal year 1990.
 
 &emsp;“(2) The Internal Revenue Service offer improved taxpayer assistance and enforcement efforts by using the aforementioned outlays in areas recommended by, or consistent with the recommendations of, the ‘Dorgan Task Force Report’. Taxpayer assistance efforts would include providing expanded taxpayer education programs, instituting pilot programs of taxmobiles in rural areas, and upgrading the quality of telephone assistance. Taxpayer enforcement efforts would include raising the audit rate from 1.1 percent toward 2.5 percent, restoring resources to criminal investigations, and the collection of delinquent accounts.
 

@@ -86,3 +86,53 @@ Subsec. (b). Pub. L. 103–440, §208(1), substituted “September 1, 1995” fo
 
 Subsec. (d). Pub. L. 103–440, §208(3), added subsec. (d).
 
+#### Track Inspection Time Study
+
+Pub. L. 110–432, div. A, title IV, §403, Oct. 16, 2008, 122 Stat. 4884, provided that:
+
+“(a)
+
+Study.—Not later that \[sic\] 2 years after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of a study to determine whether—
+
+&emsp;“(1) the required intervals of track inspections for each class of track should be amended;
+
+&emsp;“(2) track remedial action requirements should be amended;
+
+&emsp;“(3) different track inspection and repair priorities or methods should be required; and
+
+&emsp;“(4) the speed at which railroad track inspection vehicles operate and the scope of the territory they generally cover allow for proper inspection of the track and whether such speed and appropriate scope should be regulated by the Secretary.
+
+“(b)
+
+Considerations.—In conducting the study the Secretary shall consider—
+
+&emsp;“(1) the most current rail flaw, rail defect growth, rail fatigue, and other relevant track- or rail-related research and studies;
+
+&emsp;“(2) the availability and feasibility of developing and implementing new or novel rail inspection technology for routine track inspections;
+
+&emsp;“(3) information from National Transportation Safety Board or Federal Railroad Administration accident investigations where track defects were the cause or a contributing cause; and
+
+&emsp;“(4) other relevant information, as determined by the Secretary.
+
+“(c)
+
+Update of Regulations.—Not later than 2 years after the completion of the study required by subsection (a), the Secretary shall prescribe regulations based on the results of the study conducted under subsection (a).
+
+“(d)
+
+Concrete Cross Ties.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall promulgate regulations for concrete cross ties. In developing the regulations for class 1 through 5 track, the Secretary may address, as appropriate—
+
+&emsp;“(1) limits for rail seat abrasion;
+
+&emsp;“(2) concrete cross tie pad wear limits;
+
+&emsp;“(3) missing or broken rail fasteners;
+
+&emsp;“(4) loss of appropriate toeload pressure;
+
+&emsp;“(5) improper fastener configurations; and
+
+&emsp;“(6) excessive lateral rail movement.”
+
+\[For definitions of “Secretary” and “railroad”, as used in section 403 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+

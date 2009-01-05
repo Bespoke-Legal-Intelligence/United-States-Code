@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B) the nature and extent of management participation in any offense involved, whether corporate policies and practices encouraged the offense, including whether inadequate institutional controls contributed to the offense,
 
-&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public of any offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and any other actions taken to substantially limit potential or actual adverse effects on the public health,
+&emsp;&emsp;(C) the nature and extent of voluntary steps to mitigate the impact on the public ofany offense involved, including the recall or the discontinuation of the distribution of suspect drugs, full cooperation with any investigations (including the extent of disclosure to appropriate authorities of all wrongdoing), the relinquishing of profits on drug approvals fraudulently obtained, and any other actions taken to substantially limit potential or actual adverse effects on the public health,
 
 &emsp;&emsp;(D) whether the extent to which changes in ownership, management, or operations have corrected the causes of any offense involved and provide reasonable assurances that the offense will not occur in the future,
 
@@ -156,7 +156,7 @@
 
 #### (ii) Application
 
-&emsp;&emsp;&emsp;Upon application submitted under paragraph (1), the Secretary shall terminatethe debarment of a person if the Secretary finds that—
+&emsp;&emsp;&emsp;Upon application submitted under paragraph (1), the Secretary shall terminate the debarment of a person if the Secretary finds that—
 
 &emsp;&emsp;&emsp;&emsp;(I) changes in ownership, management, or operations have fully corrected the causes of the offense involved and provide reasonable assurances that the offense will not occur in the future, and
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(ii) all individuals who were involved in the commission of the offense or who knew or should have known of the offense have been removed from employment involving the development or approval of any drug subject to sections <sup>1</sup> 355 of this title,
 
-&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed all wrongdoing to the appropriate authorities, and
+&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed allwrongdoing to the appropriate authorities, and
 
 &emsp;&emsp;&emsp;(iv) the person acted to mitigate any impact on the public of any offense involved, including the recall, or the discontinuation of the distribution, of any drug with respect to which the Secretary requested a recall or discontinuation of distribution due to concerns about the safety or efficacy of the drug.
 
@@ -218,7 +218,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (1) In general
 
-&emsp;The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (3), refuse by order, for the period prescribed by paragraph (2), toapprove any abbreviated drug application submitted by any person—
+&emsp;The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (3), refuse by order, for the period prescribed by paragraph (2), to approve any abbreviated drug application submitted by any person—
 
 &emsp;&emsp;(A) if such person is under an active Federal criminal investigation in connection with an action described in subparagraph (B),
 
@@ -252,7 +252,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (3) Informal hearing
 
-&emsp;Within 10 days of the date an order is issued under paragraph (1), the Secretary shall provide such person with an opportunity for an informal hearing, to be held within such 10 days, on the decision of the Secretary to refuse approval of an abbreviated drug application. Within 60 days of the date on which such hearing is held, the Secretary shall notify the person given such hearing whether the Secretary's refusal of approval will be continued, terminated, or otherwise modified. Such notification shall be final agency action.
+&emsp;Within 10 days of the date an order is issued under paragraph (1), the Secretary shall provide such person with an opportunity for an informal hearing, to be held within such 10 days, on the decision of the Secretary to refuse approval of an abbreviated drug application. Within 60 days of the date on which such hearing is held, the Secretary shall notify the person given such hearing whether the Secretary's refusal of approval will be continued,terminated, or otherwise modified. Such notification shall be final agency action.
 
 #### (g) Suspension authority
 
@@ -276,7 +276,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (2) Public health waiver
 
-&emsp;The Secretary shall, on the Secretary's own initiative or in response to a petition, waive the suspension under paragraph (1) (involving an action described in paragraph (1)(A)(i)) with respect to any drug if the Secretary finds that such waiver is necessary to protect the public health because sufficient quantities of the drug would not otherwise be available. The Secretary shall act on any petition seeking action under this paragraph within 180 days ofthe date the petition is submitted to the Secretary.
+&emsp;The Secretary shall, on the Secretary's own initiative or in response to a petition, waive the suspension under paragraph (1) (involving an action described in paragraph (1)(A)(i)) with respect to any drug if the Secretary finds that such waiver is necessary to protect the public health because sufficient quantities of the drug would not otherwise be available. The Secretary shall act on any petition seeking action under this paragraph within 180 days of the date the petition is submitted to the Secretary.
 
 #### (h) Termination of suspension
 

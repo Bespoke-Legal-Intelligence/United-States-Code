@@ -54,7 +54,7 @@ No gain or loss shall be realized by the common trust fund by the admission or w
 
 #### (f) Different taxable years of common trust fund and participant
 
-If the taxable year of the common trust fund is different from that of a participant, the inclusions with respect to the taxable income of the common trust fund, in computing the taxable income of the participant for its taxable year, shall be based upon the taxable income of thecommon trust fund for any taxable year of the common trust fund ending within or with the taxable year of the participant.
+If the taxable year of the common trust fund is different from that of a participant, the inclusions with respect to the taxable income of the common trust fund, in computing the taxable income of the participant for its taxable year, shall be based upon the taxable income of the common trust fund for any taxable year of the common trust fund ending within or with the taxable year of the participant.
 
 #### (g) Net operating loss deduction
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 301(b)(3) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, andamendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
+Amendment by section 301(b)(3) of Pub. L. 97–34 applicable to taxable years ending after Sept. 30, 1981, and amendment by section 301(b)(6)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 301(d) of Pub. L. 97–34, set out as a note under section 265 of this title.
 
 #### Effective and Termination Dates of 1980 Amendment
 

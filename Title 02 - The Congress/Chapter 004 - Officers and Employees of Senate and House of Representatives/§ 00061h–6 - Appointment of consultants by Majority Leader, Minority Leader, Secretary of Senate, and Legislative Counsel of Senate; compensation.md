@@ -10,9 +10,9 @@ Any or all appointments under this section may be at an annual rate of compensat
 
 #### (C) <sup>1</sup> Title of position
 
-Each appointing authority under subsection (a) of this section may designate the title of the position of any individual appointed under that subsection.
+Each appointing authority under subsection (a) of this section may designate the title of theposition of any individual appointed under that subsection.
 
-(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90,title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350.)
+(Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350.)
 
 #### Codification
 

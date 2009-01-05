@@ -6,7 +6,7 @@ An exercise of a general power of appointment created on or before October 21, 1
 
 &emsp;(1) such partial release occurred before November 1, 1951, or
 
-&emsp;(2) the donee of such power was under a legal disability to release such power on October 21, 1942, and such partial release occurred not later than six months after the termination of such legal disability.
+&emsp;(2) the donee of such power was under a legal disability to release such power on October 21,1942, and such partial release occurred not later than six months after the termination of such legal disability.
 
 #### (b) Powers created after October 21, 1942
 

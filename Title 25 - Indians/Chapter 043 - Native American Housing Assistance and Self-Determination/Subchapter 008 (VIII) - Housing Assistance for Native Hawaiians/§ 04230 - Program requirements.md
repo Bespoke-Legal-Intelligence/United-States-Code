@@ -8,7 +8,7 @@
 
 #### (2) Maximum rent
 
-&emsp;In the case of any low-income family residing in a dwelling unit assisted with grantamounts under this subchapter, the monthly rent or homebuyer payment (as applicable) for that dwelling unit may not exceed 30 percent of the monthly adjusted income of that family.
+&emsp;In the case of any low-income family residing in a dwelling unit assisted with grant amounts under this subchapter, the monthly rent or homebuyer payment (as applicable) for that dwelling unit may not exceed 30 percent of the monthly adjusted income of that family.
 
 #### (b) Maintenance and efficient operation
 

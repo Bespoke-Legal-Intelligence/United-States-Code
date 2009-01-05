@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-The President having terminated governmental relations between the United States andthe governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, the Congress finds that the enactment of this chapter is necessary—
+The President having terminated governmental relations between the United States and the governing authorities on Taiwan recognized by the United States as the Republic of China prior to January 1, 1979, the Congress finds that the enactment of this chapter is necessary—
 
 &emsp;(1) to help maintain peace, security, and stability in the Western Pacific; and
 
@@ -12,7 +12,7 @@ The President having terminated governmental relations between the United States
 
 It is the policy of the United States—
 
-&emsp;(1) to preserve and promote extensive, close, and friendly commercial, cultural, and other relations between the people of the United States and the people on Taiwan, as well as the people on the China mainland and all other peoples of the Western Pacific area;
+&emsp;(1) to preserve and promote extensive, close, and friendly commercial, cultural, and otherrelations between the people of the United States and the people on Taiwan, as well as the people on the China mainland and all other peoples of the Western Pacific area;
 
 &emsp;(2) to declare that peace and stability in the area are in the political, security, and economic interests of the United States, and are matters of international concern;
 
@@ -82,7 +82,7 @@ Sec. 2. <i>Specification of Laws and Determinations.</i>
 
 (b) With respect to contracts heretofore or hereafter made under the Act, other than those described in subsection (a) of this section, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights that may have accrued under the contract or the amendments or modifications thereof, if the Secretary determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 
-2–203. Pursuant to section 10(a) of the Act \[22 U.S.C. 3309(a)\], the Taipei Economic and Cultural Representative Office in the United States (“TECRO”), formerly the Coordination Council for North America Affairs (“CCNAA”), is determined to be the instrumentality established by the people on Taiwan having the necessary authority under the laws applied by the people on Taiwan to provide assurances and take other actions on behalf of Taiwan in accordance with the Act. Nothing contained in this determination or order shall affect, or be construed to affect, the continued validity of agreements, contracts, or other undertakings, of whatever kind or nature, entered into previously by CCNAA.
+2–203. Pursuant to section 10(a) of the Act \[22 U.S.C. 3309(a)\], the Taipei Economic and Cultural Representative Office in the United States (“TECRO”), formerly the Coordination Council for North America Affairs (“CCNAA”), is determined to be the instrumentality established by the people on Taiwan having the necessary authority under the laws applied by the peopleon Taiwan to provide assurances and take other actions on behalf of Taiwan in accordance with the Act. Nothing contained in this determination or order shall affect, or be construed to affect, the continued validity of agreements, contracts, or other undertakings, of whatever kind or nature, entered into previously by CCNAA.
 
 Sec. 3. <i>President's Memorandum of December 30, 1978.</i>
 

@@ -62,7 +62,7 @@ The Council shall be composed of 16 members as follows:
 
 #### (d) Terms of membership
 
-Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that ofthe members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member's term until a successor has taken office.
+Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member's term until a successor has taken office.
 
 #### (e) Vacancies
 
@@ -132,5 +132,5 @@ Section 263(f) of Pub. L. 103–160 provided that: “The first meeting of the S
 
 #### References to Terminated Council
 
-Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
+Section 263(g) of Pub. L. 103–160 provided that: “A reference in any provision of law to the Advisory Councilon Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[15 U.S.C. 4603\], as amended by subsection (b).”
 

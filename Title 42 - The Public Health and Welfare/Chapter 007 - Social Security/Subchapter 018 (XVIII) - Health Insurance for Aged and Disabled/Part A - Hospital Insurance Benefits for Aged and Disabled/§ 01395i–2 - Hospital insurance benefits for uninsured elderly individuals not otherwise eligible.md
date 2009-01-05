@@ -106,7 +106,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iv) is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if at such time the individual had at least 30 quarters of coverage under such subchapter.
 
-(5)(A) The amount of the monthly premium shall be zero in the case of an individual who is a person described in subparagraph (B) for a month, if—
+(5)(A) The amount of the monthly premium shall be zero in the case of an individual who isa person described in subparagraph (B) for a month, if—
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
@@ -120,7 +120,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
-&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of thedivorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
+&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
 
 (C) For purposes of subparagraph (B)(i)(I), the term “qualified State or local government retirement system” means a retirement system that—
 
@@ -152,7 +152,7 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (1) The Secretary shall, at the request of a State made after 1989, enter into a modification of an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
 
-(2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
+(2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the sameextent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b)”.
 

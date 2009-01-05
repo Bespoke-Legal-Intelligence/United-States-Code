@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) “chop shop” means a building, lot, facility, or other structure or premise at which at least one person engages in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing a passenger motor vehicle or passenger motor vehicle part that has been unlawfully obtained—
 
-&emsp;&emsp;(A) to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or removethe identity of the vehicle or part, including the vehicle identification number or a derivative of that number; and
+&emsp;&emsp;(A) to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity of the vehicle or part, including the vehicle identification number or a derivative of that number; and
 
 &emsp;&emsp;(B) to distribute, sell, or dispose of the vehicle or part in interstate or foreign commerce.
 
@@ -56,7 +56,7 @@ In this chapter—
 
 &emsp;(11) “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat. 4383; Pub. L. 104–287, §6(d)(1)(B), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat.4383; Pub. L. 104–287, §6(d)(1)(B), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 

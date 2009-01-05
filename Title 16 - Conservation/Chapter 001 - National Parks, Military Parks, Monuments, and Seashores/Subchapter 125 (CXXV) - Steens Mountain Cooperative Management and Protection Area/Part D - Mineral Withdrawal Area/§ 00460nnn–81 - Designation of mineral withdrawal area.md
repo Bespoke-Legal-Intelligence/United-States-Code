@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Subject to valid existing rights, the Federal lands and interests in lands included within the withdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
+Subject to valid existing rights, the Federal lands and interests in lands included within thewithdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
 
 &emsp;(1) location, entry and patent under the mining laws; and
 

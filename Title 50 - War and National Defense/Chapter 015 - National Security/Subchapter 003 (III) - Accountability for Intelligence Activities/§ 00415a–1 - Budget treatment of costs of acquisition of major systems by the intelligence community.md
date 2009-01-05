@@ -36,7 +36,7 @@
 
 &emsp;(B) a description of the importance of the major system to the national security;
 
-&emsp;(C) an assessment of the consequences for the funding of all programs of the National Foreign Intelligence Program in future fiscal years if the most current independent cost estimate for the major system is accurate andadditional appropriations are required in future fiscal years to ensure the continued development or procurement of the major system, including the consequences of such funding shortfalls on the major system and all other programs of the National Foreign Intelligence Program; and
+&emsp;(C) an assessment of the consequences for the funding of all programs of the National Foreign Intelligence Program in future fiscal years if the most current independent cost estimate for the major system is accurate and additional appropriations are required in future fiscal years to ensure the continued development or procurement of the major system, including the consequences of such funding shortfalls on the major system and all other programs of the National Foreign Intelligence Program; and
 
 &emsp;(D) such other information on the funding of the major system as the President considers appropriate.
 
@@ -58,7 +58,7 @@ In this section:
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(BB), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(BB), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (b)(1). Pub. L. 108–458, §1072(a)(6), substituted “Office of the Director of National Intelligence” for “Office of the Deputy Director of Central Intelligence”.
 
@@ -96,7 +96,7 @@ Pub. L. 108–177, title III, §312(d), Dec. 13, 2003, 117 Stat. 2609, provided 
 
 “(B) Subparagraph (A) shall not affect any contract for procurement or acquisition that was entered into before the date of the enactment of this Act \[Dec. 13, 2003\].
 
-“(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, UnitedStates Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirements of section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 415a–1\] with respect to such major system.
+“(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, United States Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirementsof section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 415a–1\] with respect to such major system.
 
 “(3) In this subsection, the terms ‘independent cost estimate’ and ‘major system’ have the meaning given such terms in subsection (e) of section 506A of the National Security Act of 1947 (as so added) \[50 U.S.C. 415a–1(e)\].”
 

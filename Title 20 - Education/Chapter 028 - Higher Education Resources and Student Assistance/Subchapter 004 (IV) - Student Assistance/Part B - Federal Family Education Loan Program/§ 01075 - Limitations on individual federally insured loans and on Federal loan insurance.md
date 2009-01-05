@@ -28,7 +28,7 @@
 
 &emsp;(B) The annual insurable limits contained in subparagraph (A) shall not apply in cases where the Secretary determines, pursuant to regulations, that a higher amount is warranted in order to carry out the purpose of this part with respect to students engaged in specialized training requiring exceptionally high costs of education. The annual insurable limit per student shall not be deemed to be exceeded by a line of credit under which actual payments by the lender to the borrower will not be made in any year in excess of the annual limit.
 
-&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completedin a program of undergraduate education shall include any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
+&emsp;(C) For the purpose of subparagraph (A), the number of years that a student has completed in a program of undergraduate education shall include any prior enrollment in an eligible program of undergraduate education for which the student was awarded an associate or baccalaureate degree, if such degree is required by the institution for admission to the program in which the student is enrolled.
 
 #### (2) Aggregate limits
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) Except as provided in subparagraph (B), the insurance liability on any loan insured by the Secretary under this part shall be 100 percent of the unpaid balance of the principal amount of the loan plus interest, except that—
 
-&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this title by the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured by the Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
+&emsp;&emsp;(i) if, for any fiscal year, the total amount of payments under section 1080 of this title by the Secretary to any eligible lender as described in section 1085(d)(1)(D) of this title exceeds 5 percent of the sum of the loans made by such lender which are insured bythe Secretary and which were in repayment at the end of the preceding fiscal year, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 90 percent of the amount of such portion; or
 
 &emsp;&emsp;(ii) if, for any fiscal year, the total amount of such payments to such a lender exceeds 9 percent of such sum, the insurance liability under this subsection for that portion of such excess which represents loans insured after the applicable date with respect to such loans, as determined under subparagraph (C), shall be equal to 80 percent of the amount of such portion.
 

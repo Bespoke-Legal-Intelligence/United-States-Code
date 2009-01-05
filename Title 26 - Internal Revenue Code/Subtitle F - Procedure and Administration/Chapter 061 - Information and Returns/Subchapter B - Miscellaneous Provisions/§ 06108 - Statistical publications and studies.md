@@ -10,7 +10,7 @@ The Secretary may, upon written request by any party or parties, make special st
 
 #### (c) Anonymous form
 
-No publication or other disclosure of statistics or other information required or authorized bysubsection (a) or special statistical study authorized by subsection (b) shall in any manner permit the statistics, study, or any information so published, furnished, or otherwise disclosed to be associated with, or otherwise identify, directly or indirectly, a particular taxpayer.
+No publication or other disclosure of statistics or other information required or authorized by subsection (a) or special statistical study authorized by subsection (b) shall in any manner permit the statistics, study, or any information so published, furnished, or otherwise disclosed to be associated with, or otherwise identify, directly or indirectly, a particular taxpayer.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 756; Pub. L. 94–455, title XII, §1202(b), Oct. 4, 1976, 90 Stat. 1685.)
 

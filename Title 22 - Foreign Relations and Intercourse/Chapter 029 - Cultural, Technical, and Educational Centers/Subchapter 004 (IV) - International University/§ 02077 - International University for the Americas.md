@@ -14,7 +14,7 @@ The Secretary of State, in consultation with other governments in the Western He
 
 &emsp;&emsp;(A) has demonstrated a commitment to economic integration and democratic values though <sup>1</sup> its policies and programs; and
 
-&emsp;&emsp;(B) has expressed an interest in that location being chosen as a site and has agreed tocontribute some amount of assistance, either in cash or kind, toward the costs of developing the institution.
+&emsp;&emsp;(B) has expressed an interest in that location being chosen as a site and has agreed to contribute some amount of assistance, either in cash or kind, toward the costs of developing the institution.
 
 #### (c) Faculty, students, and curriculum
 
@@ -28,9 +28,17 @@ The annual reports submitted pursuant to section 1738m of title 7 shall include 
 
 Of the funds that are allocated for assistance for Latin America and the Caribbean under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] (relating to development assistance) and chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the economic support fund), $500,000 may be made available to carry out the site location and design phase of the International University for the Americas.
 
-(Pub. L. 102–549, title VI, §604, Oct. 28, 1992, 106 Stat. 3669.)
+(Pub. L. 102–549, title VI, §604, Oct. 28, 1992, 106 Stat. 3669; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(O), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

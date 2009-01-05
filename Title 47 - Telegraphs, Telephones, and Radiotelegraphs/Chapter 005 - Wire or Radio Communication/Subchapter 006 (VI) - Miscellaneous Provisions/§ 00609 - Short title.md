@@ -8,6 +8,12 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–295, §1, July 30, 2008, 122 Stat. 2972, provided that: “This Act \[amending provisions set out as a note under section 309 of this title\] may be cited as the ‘DTV Transition Assistance Act’.”
+
+Pub. L. 110–283, §1, July 23, 2008, 122 Stat. 2620, provided that: “This Act \[enacting section 615a–1 of thistitle and amending sections 222, 615a, 615b, and 942 of this title\] may be cited as the ‘New and Emerging Technologies 911 Improvement Act of 2008’ or the ‘NET 911 Improvement Act of 2008’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–108, §1, Oct. 31, 2007, 121 Stat. 1024, provided that: “This Act \[enacting and amending provisions set out as notes under section 151 of this title\] may be cited as the ‘Internet Tax Freedom Act Amendments Act of 2007’.”
@@ -50,7 +56,7 @@ Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–73
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–104, §1(a), Feb. 8, 1996, 110 Stat. 56, provided that: “This Act \[enacting sections 160, 161, 222, 230, 251 to 261, 271 to 276, 336, 363, 549, 560, 561, 571 to 573, 613, and 614 of this title and section 79z–5c of Title 15, Commerce and Trade, amending sections 151, 153 to 155, 204, 208, 214, 220, 221, 223 to 225, 228, 302a, 303, 305, 307 to 310, 312, 319, 330, 332, 360, 382, 385, 402, 522, 531 to 534, 537, 541 to 544a, 548, 552, 556, 557, 559, and 605 of this title, sections 18, 79, 79z–6, and 5714 of Title 15, and sections1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 151 to 153, 156, 157, 204, 214, 223, 228, 303, 308, 332, 534, 543, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Telecommunications Act of 1996’.”
+Pub. L. 104–104, §1(a), Feb. 8, 1996, 110 Stat. 56, provided that: “This Act \[enacting sections 160, 161, 222, 230, 251 to 261, 271 to 276, 336, 363, 549, 560, 561, 571 to 573, 613, and 614 of this title and section 79z–5c of Title 15, Commerce and Trade, amending sections 151, 153 to 155, 204, 208, 214, 220, 221, 223 to 225, 228, 302a, 303, 305, 307 to 310, 312, 319, 330, 332, 360, 382, 385, 402, 522, 531 to 534, 537, 541 to 544a, 548, 552, 556, 557, 559, and 605 of this title, sections 18, 79, 79z–6, and 5714 of Title 15, and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 151 to 153, 156, 157, 204, 214, 223, 228, 303, 308, 332, 534, 543, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Telecommunications Act of 1996’.”
 
 Pub. L. 104–104, title V, §501, Feb. 8, 1996, 110 Stat. 133, provided that: “This title \[enacting sections 230, 560, and 561 of this title, amending sections 223, 303, 330, 531, 532, and 559 of this title and sections 1462, 1465, and 2422 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 223, 303, and 561 of this title and section 1462 of Title 18\] may be cited as the ‘Communications Decency Act of 1996’.”
 
@@ -108,7 +114,7 @@ Pub. L. 97–35, title XII, §1221, Aug. 13, 1981, 95 Stat. 725, provided that: 
 
 Pub. L. 95–567, §1, Nov. 2, 1978, 92 Stat. 2405, provided: “That this Act \[enacting section 395 of this title, amending sections 390 to 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under sections 390, 392, and 396 of this title and section 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Public Telecommunications Financing Act of 1978’.”
 
-Pub. L. 95–234, §1, Feb. 21, 1978, 92 Stat. 33, provided: “That this Act \[enacting section 224 of this title, amending sections 152, 503, and 504 of this title, repealing section 510 of this title, and enacting provisions setout as a note under section 152 of this title\] may be cited as the ‘Communications Act Amendments of 1978’.”
+Pub. L. 95–234, §1, Feb. 21, 1978, 92 Stat. 33, provided: “That this Act \[enacting section 224 of this title, amending sections 152, 503, and 504 of this title, repealing section 510 of this title, and enacting provisions set out as a note under section 152 of this title\] may be cited as the ‘Communications Act Amendments of 1978’.”
 
 #### Short Title of 1976 Amendment
 

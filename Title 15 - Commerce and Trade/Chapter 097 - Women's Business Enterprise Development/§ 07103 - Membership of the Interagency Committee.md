@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the head of each department and agency listed in paragraph (1) shall, not later than 45 days after December 2, 1997, designate a representative who shall be a policymaking official within the department or agency, andwho shall report directly to the head of the agency on the status of the activities of the Interagency Committee.
+&emsp;&emsp;Except as provided in subparagraph (B), the head of each department and agency listed in paragraph (1) shall, not later than 45 days after December 2, 1997, designate a representative who shall be a policymaking official within the department or agency, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee.
 
 #### (B) Small Business Administration
 

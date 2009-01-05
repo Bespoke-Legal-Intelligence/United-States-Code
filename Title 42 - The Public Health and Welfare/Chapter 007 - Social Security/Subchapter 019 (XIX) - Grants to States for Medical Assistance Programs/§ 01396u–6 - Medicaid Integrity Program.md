@@ -20,7 +20,7 @@ Activities described in this subsection are as follows:
 
 &emsp;(3) Identification of overpayments to individuals or entities receiving Federal funds under this subchapter.
 
-&emsp;(4) Education of providers of services, managed care entities, beneficiaries, and other individuals with respect to payment integrity and quality of care.
+&emsp;(4) Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter, providers of services, managed care entities, beneficiaries, and other individuals with respect to payment integrity and quality of care.
 
 #### (c) Eligible entity and contracting requirements
 
@@ -54,7 +54,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;&emsp;(iii) at any other time considered appropriate by the Secretary.
 
-&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
+&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed without regard to any provision of law requiringcompetition if the contractor has met or exceeded the performance requirements established in the current contract.
 
 > &emsp;The Secretary may enter into such contracts without regard to final rules having been promulgated.
 
@@ -84,9 +84,25 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(C) for each fiscal year thereafter, $75,000,000.
 
-#### (2) Availability
+#### (2) Availability; authority for use of funds
 
-&emsp;Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+#### (A) Availability
+
+&emsp;&emsp;Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
+
+#### (B) Authority for use of funds for transportation and travel expenses for attendees at education, training, or consultative activities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may use amounts appropriated pursuant to paragraph (1) to pay for transportation and the travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business, of individuals described in subsection (b)(4) who attend education, training, or consultative activities conducted under the authority of that subsection.
+
+#### (ii) Public disclosure
+
+&emsp;&emsp;&emsp;The Secretary shall make available on a website of the Centers for Medicare \& Medicaid Services that is accessible to the public—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of funds expended for each conference conducted under the authority of subsection (b)(4); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of funds expended for each such conference that were for transportation and for travel expenses.
 
 #### (3) Increase in cms staffing devoted to protecting Medicaid program integrity
 
@@ -100,7 +116,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74.)
+(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078.)
 
 #### References in Text
 
@@ -109,4 +125,18 @@ Section 202(b) of the Health Insurance Portability and Accountability Act of 199
 #### Prior Provisions
 
 A prior section 1936 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–379, §5(a)(1)(A), substituted “Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter,” for “Education of”.
+
+Subsec. (e)(2). Pub. L. 110–379, §5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Amounts appropriated pursuant to paragraph (1) shall remain available until expended.”
+
+Subsec. (e)(2)(B)(ii). Pub. L. 110–379, §5(b)(1), added cl. (ii).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–379, §5(a)(2), Oct. 8, 2008, 122 Stat. 4078, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if includedin the enactment of section 1936 of the Social Security Act \[42 U.S.C. 1396u–6\], as added by section 6034(a) of the Deficit Reduction Act of 2005 (Public Law 109–171).”
+
+Pub. L. 110–379, §5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to conferences conducted under the authority of section 1936(b)(4) of the Social Security Act (42 U.S.C. 1396u–6(b)(4)) after the date of enactment of this Act \[Oct. 8, 2008\].”
 

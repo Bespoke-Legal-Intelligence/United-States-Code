@@ -6,8 +6,6 @@ Title V of the Juvenile Justice and Delinquency Prevention Act of 1974, comprisi
 
 Another title V of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, enacted chapter 319 and sections 5038 to 5042 of Title 18, Crimes and Criminal Procedure, and sections 3772 to 3774 of this title, and amended sections 5031 to 5038 of Title 18 and sections 3701, 3723, 3733, 3768 of this title. For complete classification of that title V to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
 
 ---
 

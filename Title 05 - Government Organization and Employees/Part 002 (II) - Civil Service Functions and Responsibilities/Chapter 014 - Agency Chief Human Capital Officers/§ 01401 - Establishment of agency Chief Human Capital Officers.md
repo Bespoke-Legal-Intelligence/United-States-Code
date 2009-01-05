@@ -34,7 +34,7 @@ Functions.—The Chief Human Capital Officers Council shall meet periodically to
 
 “(c)
 
-Employee Labor Organizations at Meetings.—The Chief Human Capital Officers Council shall ensure that representatives of Federal employee labor organizations are present at a minimum of 1 meeting of the Council each year. Such representatives shall not be members of the Council.
+Employee Labor Organizations at Meetings.—The Chief Human Capital Officers Council shall ensurethat representatives of Federal employee labor organizations are present at a minimum of 1 meeting of the Council each year. Such representatives shall not be members of the Council.
 
 “(d)
 

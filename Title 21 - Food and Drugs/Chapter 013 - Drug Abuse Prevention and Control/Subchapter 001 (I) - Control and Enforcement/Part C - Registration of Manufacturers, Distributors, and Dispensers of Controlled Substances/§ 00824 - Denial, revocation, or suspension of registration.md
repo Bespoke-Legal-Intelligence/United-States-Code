@@ -18,7 +18,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 #### (b) Limits of revocation or suspension
 
-The Attorney General may limit revocation or suspension of a registration to the particularcontrolled substance or list I chemical with respect to which grounds for revocation or suspension exist.
+The Attorney General may limit revocation or suspension of a registration to the particular controlled substance or list I chemical with respect to which grounds for revocation or suspension exist.
 
 #### (c) Service of show cause order; proceedings
 

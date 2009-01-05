@@ -19,6 +19,7 @@
 | [1074i.](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md) | Reimbursement for certain travel expenses. |
 | [1074j.](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md) | Sub-acute care program. |
 | [1074k.](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md) | Long-term care insurance. |
+| 1074<i>l.</i> | Notification to Congress of hospitalization of combat wounded members. |
 | \[1075. | Repealed.\] |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
@@ -81,11 +82,13 @@
 
 #### Amendments
 
+2008—Pub. L. 110–181, div. A, title XVI, §1617(b), Jan. 28, 2008, 122 Stat. 449, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(14), Oct. 14, 2008, 122 Stat. 4613, added item 1074<i>l</i>.
+
 2006—Pub. L. 109–364, div. A, title VII, §707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
 
 Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” and substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” in item 1076d, effective Oct. 1, 2007.
 
-Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
+Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve componentswho commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
 
 2004—Pub. L. 108–375, div. A, title V, §555(a)(2), title VI, §607(a)(2), title VII, §§701(a)(2), 733(a)(2), 739(a)(2), title X, §1084(d)(7), Oct. 28, 2004, 118 Stat. 1914, 1946, 1981, 1998, 2002, 2061, added items 1073b, 1074b, 1076d, and 1092a, reenacted item 1076b without change, and struck out item 1075 “Officers and certain enlisted members: subsistence charges”.
 
@@ -129,7 +132,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 1985—Pub. L. 99–145, title VI, §§651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
-1984—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a “Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty” for “Medicaland dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” and added items 1074b and 1093.
+1984—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a “Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty” for “Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training” and added items 1074b and 1093.
 
 1983—Pub. L. 98–94, title IX, §§932(a)(2), 933(a)(2), title X, §1012(a)(2), title XII, §1268(5)(B), Sept. 24, 1983, 97 Stat. 650, 651, 665, 706, added items 1074a, 1091, and 1092, and struck out “; reports” at end of item 1081.
 
@@ -169,6 +172,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01074i - Reimbursement for certain travel expenses](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md)
 - [&sect; 01074j - Sub-acute care program](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md)
 - [&sect; 01074k - Long-term care insurance](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md)
+- [&sect; 01074l - Notification to Congress of hospitalization of combat wounded members](%C2%A7%2001074l%20-%20Notification%20to%20Congress%20of%20hospitalization%20of%20combat%20wounded%20members.md)
 - [&sect; 01075 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;607(a)(1), Oct. 28, 2004, 118 Stat. 1946](%C2%A7%2001075%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7607%28a%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201946.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)

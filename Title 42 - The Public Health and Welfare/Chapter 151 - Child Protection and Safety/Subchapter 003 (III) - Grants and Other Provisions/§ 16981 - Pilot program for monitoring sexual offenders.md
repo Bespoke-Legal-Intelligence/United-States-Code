@@ -20,13 +20,9 @@
 
 &emsp;&emsp;The electronic monitoring units used in the pilot program shall at a minimum—
 
-&emsp;&emsp;&emsp;(i) provide a single-unit tracking device for each offender that—
+&emsp;&emsp;&emsp;(i) provide a tracking device for each offender that contains a central processing unit with global positioning system; and
 
-&emsp;&emsp;&emsp;&emsp;(I) contains a central processing unit with global positioning system and cellular technology in a single unit; and
-
-&emsp;&emsp;&emsp;&emsp;(II) provides two- and three-way voice communication; and
-
-&emsp;&emsp;&emsp;(ii) permit active, real-time, and continuous monitoring of offenders 24 hours a day.
+&emsp;&emsp;&emsp;(ii) permit continuous monitoring of offenders 24 hours a day.
 
 #### (2) Application
 
@@ -62,5 +58,13 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 &emsp;&emsp;(C) making recommendations for continuing funding and the appropriate levels for such funding.
 
-(Pub. L. 109–248, title VI, §621, July 27, 2006, 120 Stat. 633.)
+(Pub. L. 109–248, title VI, §621, July 27, 2006, 120 Stat. 633; Pub. L. 110–400, §4(a), Oct. 13, 2008, 122 Stat. 4227.)
+
+#### Amendments
+
+2008—Subsec. (a)(1)(C). Pub. L. 110–400, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–400, §4(b), Oct. 13, 2008, 122 Stat. 4228, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to grants provided on or after the date of the enactment of this Act \[Oct. 13, 2008\].”
 

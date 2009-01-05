@@ -32,7 +32,7 @@ The authority in subsection (a) to obligate and expend funds for a project or ac
 
 Except as otherwise provided in subsections (a) and (b), the exercise of the authority in subsection (a) shall be subject to any requirement or limitation under another provision of law as follows:
 
-&emsp;(1) Any requirement for prior notice or other reports to Congress on the use of internationalnuclear materials protection and cooperation program funds or on international nuclear materials protection and cooperation program projects or activities.
+&emsp;(1) Any requirement for prior notice or other reports to Congress on the use of international nuclear materials protection and cooperation program funds or on international nuclear materials protection and cooperation program projects or activities.
 
 &emsp;(2) Any limitation on the obligation or expenditure of international nuclear materials protection and cooperation program funds.
 
@@ -50,7 +50,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–375, §3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375, §3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
 
 Subsec. (c). Pub. L. 108–375, §3131(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) may not exceed $50,000,000.”
 

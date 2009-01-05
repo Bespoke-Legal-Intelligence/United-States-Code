@@ -26,7 +26,7 @@ No State may establish or enforce any law which prevents a health maintenance or
 
 #### (c) Digest of State laws, regulations, and practices; legal consultative assistance
 
-The Secretary shall, within 6 months after October 8, 1976, develop a digest of State laws, regulations, and practices pertaining to development, establishment, and operation of health maintenance organizations which shall be updated at least annually and relevant sections of which shall be provided to the Governor of each State annually. Such digest shall indicate which State laws, regulations, and practices appear tobe inconsistent with the operation of this section. The Secretary shall also insure that appropriate legal consultative assistance is available to the States for the purpose of complying with the provisions of this section.
+The Secretary shall, within 6 months after October 8, 1976, develop a digest of State laws, regulations, and practices pertaining to development, establishment, and operation of health maintenance organizations which shall be updated at least annually and relevant sections of which shall be provided to the Governor of each State annually. Such digest shall indicate which State laws, regulations, and practices appear to be inconsistent with the operation of this section. The Secretary shall also insure that appropriate legal consultative assistance is available to the States for the purpose of complying with the provisions of this section.
 
 (July 1, 1944, ch. 373, title XIII, §1311, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 931; amended Pub. L. 94–460, title I, §114, Oct. 8, 1976, 90 Stat. 1954; Pub. L. 99–660, title VIII, §809, Nov. 14, 1986, 100 Stat. 3801; Pub. L. 100–517, §8, Oct. 24, 1988, 102 Stat. 2583.)
 

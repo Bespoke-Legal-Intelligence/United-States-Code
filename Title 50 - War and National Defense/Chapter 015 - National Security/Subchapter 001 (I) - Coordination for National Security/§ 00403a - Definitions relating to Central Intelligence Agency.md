@@ -16,9 +16,9 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2004—Pub. L. 108–458 redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Director’ means the Director of Central Intelligence;”.
+<b>2004</b>—Pub. L. 108–458 redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Director’ means the Director of Central Intelligence;”.
 
-1960—Subsec. (c). Pub. L. 86–707, §511(c)(1), substituted “Government.” for “Government; and”.
+<b>1960</b>—Subsec. (c). Pub. L. 86–707, §511(c)(1), substituted “Government.” for “Government; and”.
 
 Subsec. (d). Pub. L. 86–707, §511(a)(3), repealed subsec. (d) which defined “continental United States”. See section 5921 of Title 5, Government Organization and Employees.
 

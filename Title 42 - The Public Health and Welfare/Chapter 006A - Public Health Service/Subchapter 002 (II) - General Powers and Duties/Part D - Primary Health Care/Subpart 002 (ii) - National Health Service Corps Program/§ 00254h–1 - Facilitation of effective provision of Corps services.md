@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated serviceunder the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 
@@ -24,9 +24,27 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
 
-#### (d) Assistance in establishing local professional relationships
+#### (d) Professional development and training
 
-The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, with area health education centers under section 295g–1 <sup>1</sup> of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+#### (1) In general
+
+&emsp;The Secretary shall assist Corps members in establishing and maintaining professional relationships and development opportunities, including by—
+
+&emsp;&emsp;(A) establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned;
+
+&emsp;&emsp;(B) establishing professional development, training, and mentorship linkages between the Corps member involved and the larger health professions community, including through distance learning, direct mentorship, and development and implementation of training modules designed to meet the educational needs of offsite Corps members;
+
+&emsp;&emsp;(C) establishing professional networks among Corps members; or
+
+&emsp;&emsp;(D) engaging in other professional development, mentorship, and training activities for Corps members, at the discretion of the Secretary.
+
+#### (2) Assistance in establishing professional relationships
+
+&emsp;In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centers under section 294a of this title, with health education and training centers under section 294b of this title, and with border health education and training centers under such section 294b of this title. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+
+#### (3) Supplement not supplant
+
+&emsp;Such efforts under this subsection shall supplement, not supplant, non-government efforts by professional health provider societies to establish and maintain professional relationships and development opportunities.
 
 #### (e) Temporary relief from Corps duties
 
@@ -70,11 +88,7 @@ In carrying out subsection (a) of this section and sections 254<i>l</i>(d) and 2
 
 &emsp;(3) the appropriate conditions for the assignment and utilization in health manpower shortage areas of certified nurse practitioners, certified nurse midwives, and physician assistants.
 
-(July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §307(a), Oct. 26, 2002, 116 Stat. 1649.)
-
-#### References in Text
-
-Section 295g–1 of this title, referred to in subsec. (d), was in the original a reference to section 781 of act July 1, 1944. Section 781 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
+(July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §307(a), Oct. 26, 2002, 116 Stat. 1649; Pub. L. 110–355, §3(d), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### Prior Provisions
 
@@ -82,17 +96,17 @@ A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 
 
 #### Amendments
 
+2008—Subsec. (d). Pub. L. 110–355 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall assist Corps members in establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned, including such relationships with hospitals, with health professions schools, with area health education centers under section 295g–1 of this title, with health education and training centers under such section, and with border health education and training centers under such section. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.”
+
 2002—Subsecs. (c), (f)(1). Pub. L. 107–251 substituted “health professional shortage areas” for “health manpower shortage areas”.
 
 1990—Pub. L. 101–597, §107, amended section generally. Prior to amendment, section read as follows:
 
-“(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectivelyprovide health services in the health manpower shortage area to which they are assigned.
+“(a) The Secretary may make grants to and enter into contracts with public and private nonprofit entities for the conduct of programs which are designed to prepare individuals subject to a service obligation under the National Health Service Corps Scholarship Program or Loan Repayment Program to effectively provide health services in the health manpower shortage area to which they are assigned.
 
 “(b) No grant may be made or contract entered into under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. Such an application shall be in such form, submitted in such manner, and contain such information, as the Secretary shall by regulation prescribe.”
 
 Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
 
 1987—Subsec. (a). Pub. L. 100–177 substituted “Scholarship Program or Loan Repayment Program” for “scholarship program”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

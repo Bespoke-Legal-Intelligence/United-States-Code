@@ -20,7 +20,7 @@ For each kind of tobacco held by an association, the association shall be respon
 
 #### (2) Reimbursement
 
-&emsp;As required by section 518e(b)(1)(B) of this title, the Secretary shall transfer from the Tobacco Trust Fund to the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of an association established under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C.1445–1, 1445–2) such amounts as the Secretary determines will be adequate to reimburse the Commodity Credit Corporation for any net losses that the Corporation may sustain under its loan agreements with the association.
+&emsp;As required by section 518e(b)(1)(B) of this title, the Secretary shall transfer from the Tobacco Trust Fund to the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of an association established under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) such amounts as the Secretary determines will be adequate to reimburse the Commodity Credit Corporation for any net losses that the Corporation may sustain under its loan agreements with the association.
 
 #### (d) Transfer of remaining no net cost funds
 

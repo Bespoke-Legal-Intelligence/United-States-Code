@@ -54,7 +54,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (ii) Conversion as equivalent payments
 
-&emsp;&emsp;&emsp;Amounts allocated under subparagraph (A) or (B) of section 1232(g)(1) of this title shall be reallocated to the allocation established in section 1232(g)(5) of this title in amounts equivalent to payments made to States or Indian tribes under this paragraph.
+&emsp;&emsp;&emsp;Amounts allocated under subparagraph (A) or (B) of section 1232(g)(1) of this title shall be reallocated to the allocation established in section 1232(g)(5) of this titlein amounts equivalent to payments made to States or Indian tribes under this paragraph.
 
 #### (B) Amount due
 

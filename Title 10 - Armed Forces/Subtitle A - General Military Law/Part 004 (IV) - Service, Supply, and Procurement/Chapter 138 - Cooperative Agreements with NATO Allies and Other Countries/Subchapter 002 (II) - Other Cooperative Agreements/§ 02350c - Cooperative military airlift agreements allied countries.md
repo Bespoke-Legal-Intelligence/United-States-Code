@@ -30,7 +30,7 @@
 
 #### References in Text
 
-The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classificationof this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 #### Amendments
 
@@ -47,4 +47,72 @@ Subsec. (d). Pub. L. 101–189, §931(b)(2), substituted “subchapter I” for 
 1987—Subsec. (e). Pub. L. 100–26 inserted “The term” after each par. designation and substituted “allied” for “Allied” in par. (1).
 
 1985—Subsec. (e)(2). Pub. L. 99–145 substituted “section 2350” for “section 2331”.
+
+#### Department of Defense Participation in Strategic Airlift Capability Partnership
+
+Pub. L. 110–181, div. A, title X, §1032, Jan. 28, 2008, 122 Stat. 306, provided that:
+
+“(a)
+
+Authority To Participate in Partnership.—
+
+&emsp;“(1)
+
+Memorandum of understanding.—The Secretary of Defense may enter into a multilateral memorandum of understanding authorizing the Strategic Airlift Capability Partnership to conduct activities necessary to accomplish its purpose, including—
+
+&emsp;&emsp;“(A) the acquisition, equipping, ownership, and operation of strategic airlift aircraft; and
+
+&emsp;&emsp;“(B) the acquisition or transfer of airlift and airlift-related services and supplies among members of the Strategic Airlift Capability Partnership, or between the Partnership and non-member countries or international organizations, on a reimbursable basis or by replacement-in-kind or exchange of airlift or airlift-related services of an equal value.
+
+&emsp;“(2)
+
+Payments.—From funds available to the Department of Defense for such purpose, the Secretary of Defense may pay the United States equitable share of the recurring and non-recurring costs of the activities and operations of the Strategic Airlift Capability Partnership, including costs associated with procurement of aircraft components and spare parts, maintenance, facilities, and training, and the costs of claims.
+
+“(b)
+
+Authorities Under Partnership.—In carrying out the memorandum of understanding entered into under subsection (a), the Secretary of Defense may do the following:
+
+&emsp;“(1) Waive reimbursement of the United States for the cost of the following functions performed by Department of Defense personnel with respect to the Strategic Airlift Capability Partnership:
+
+&emsp;&emsp;“(A) Auditing.
+
+&emsp;&emsp;“(B) Quality assurance.
+
+&emsp;&emsp;“(C) Inspection.
+
+&emsp;&emsp;“(D) Contract administration.
+
+&emsp;&emsp;“(E) Acceptance testing.
+
+&emsp;&emsp;“(F) Certification services.
+
+&emsp;&emsp;“(G) Planning, programming, and management services.
+
+&emsp;“(2) Waive the imposition of any surcharge for administrative services provided by the United States that would otherwise be chargeable against the Strategic Airlift Capability Partnership.
+
+&emsp;“(3) Pay the salaries, travel, lodging, and subsistence expenses of Department of Defense personnel assigned for duty to the Strategic Airlift Capability Partnership without seeking reimbursement or cost-sharing for such expenses.
+
+“(c)
+
+Crediting of Receipts.—Any amount received by the United States in carrying out the memorandum of understanding entered into under subsection (a) shall be credited, as elected by the Secretary of Defense, to the following:
+
+&emsp;“(1) The appropriation, fund, or account used in incurring the obligation for which such amount is received.
+
+&emsp;“(2) An appropriation, fund, or account currently providing funds for the purposes for which such obligation was made.
+
+“(d)
+
+Authority To Transfer Aircraft.—
+
+&emsp;“(1)
+
+Transfer authority.—The Secretary of Defense may transfer one strategic airlift aircraft to the Strategic Airlift Capability Partnership in accordance with the terms and conditions of the memorandum of understanding entered into under subsection (a).
+
+&emsp;“(2)
+
+Report.—Not later than 30 days before the date on which the Secretary transfers a strategic airlift aircraft under paragraph (1), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the strategic airlift aircraft to be transferred, including the type of strategic airlift aircraft to be transferred and the tail registration or serial number of such aircraft.
+
+“(e)
+
+Strategic Airlift Capability Partnership Defined.—In this section the term ‘Strategic Airlift Capability Partnership’ means the strategic airlift capability consortium established by the United States and other participating countries.”
 

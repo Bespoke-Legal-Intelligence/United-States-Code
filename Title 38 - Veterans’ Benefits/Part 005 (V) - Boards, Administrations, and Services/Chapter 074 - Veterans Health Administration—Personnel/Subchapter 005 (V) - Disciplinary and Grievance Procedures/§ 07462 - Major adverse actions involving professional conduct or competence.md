@@ -26,7 +26,7 @@
 
 (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within 30 days after the date of service of the written decision on the employee.
 
-(c)(1) When a Disciplinary Appeals Board convenes to consider an appeal in a case under this section, the board, before proceeding to consider the merits of the appeal, shall determine whether the case is properly before it.
+(c)(1) When a Disciplinary Appeals Board convenes to consider an appeal in a case under thissection, the board, before proceeding to consider the merits of the appeal, shall determine whether the case is properly before it.
 
 (2) Upon hearing such an appeal, the board shall, with respect to each charge appealed to the board, sustain the charge, dismiss the charge, or sustain the charge in part and dismiss the charge in part. If the deciding official is sustained (in whole or in part) with respect to any such charge, the board shall—
 

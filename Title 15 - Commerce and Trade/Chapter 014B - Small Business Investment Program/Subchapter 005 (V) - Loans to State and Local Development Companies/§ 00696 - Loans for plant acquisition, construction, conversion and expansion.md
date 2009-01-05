@@ -38,7 +38,7 @@ Criteria for assistance.—
 
 &emsp;(A)
 
-In general.—Any development company assisted under this section or section 697 of this title must meet the criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration.
+In general.—Any development company assisted under this section or section 697 ofthis title must meet the criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration.
 
 &emsp;(B)
 
@@ -96,7 +96,7 @@ Appraisals.—With respect to commercial real property provided by the small bus
 
 (5)
 
-Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted smallbusiness to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
+Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted small business to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
 
 (6)
 

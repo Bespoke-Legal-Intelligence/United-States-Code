@@ -12,7 +12,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
-&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
+&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, andhomeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
 
 &emsp;(4) that the chief elected official of the eligible area will satisfy all requirements under section 300ff–14(c) of this title;
 
@@ -100,7 +100,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;&emsp;&emsp;(ii) will impose the charge according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent ofsuch poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
@@ -152,7 +152,7 @@ Subsec. (a)(10). Pub. L. 109–415, §106(c)(2), added par. (10).
 
 Subsec. (b)(5), (6). Pub. L. 109–415, §106(c)(3), added pars. (5) and (6).
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section 300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–345, §122(b)(1)(A), substituted “services as described in section300ff–14(b)(1) of this title” for “services to individuals with HIV disease”.
 
 Subsec. (a)(1)(B). Pub. L. 106–345, §122(b)(1)(B), substituted “services as described in section 300ff–14(b)(1) of this title” for “services for individuals with HIV disease”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; functions; review and recommendations
 
-(1) Within 180 days after November 10, 1978, the Consumer Product Safety Commission (hereinafter in this section referred to as the “Commission”) shall establish, in accordance with subsection (b) of this section, a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
+(1) Within 180 days after November 10, 1978, the Commission shall establish, in accordance with subsection (b) of this section, a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
 
 &emsp;(A) proper labeling under sections 1261(p)(1) and 1262(b) of this title, with special attention to—
 
@@ -26,17 +26,21 @@
 
 (4) The Board shall meet at such times and places as may be designated by the Commission in consultation with the Chairman, but not less than two times each year.
 
-(5) Members of the Board who are not officers or employees of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate fixed by the Commission, not exceeding the daily equivalent of the annual  rate  of  basic  pay  payable  for  grade GS–18 of the General Schedule under section 5332 of title 5. While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence,in the same manner as persons employed intermittently in the Government service are allowed under section 5703(b) <sup>1</sup> of such title. Individuals serving as members on the Board shall not be considered officers or employees of the United States by reason of receiving payments under this paragraph.
+(5) Members of the Board who are not officers or employees of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate fixed by the Commission, not exceeding the daily equivalent of the annual  rate  of  basic  pay  payable  for  grade GS–18 of the General Schedule under section 5332 of title 5. While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed under section 5703(b) <sup>1</sup> of such title. Individuals serving as members on the Board shall not be considered officers or employees of the United States by reason of receiving payments under this paragraph.
 
 #### (c) Termination
 
 The Board shall terminate on the date six years after the date it is established under this section.
 
-(Pub. L. 86–613, §20, as added Pub. L. 95–631, §10, Nov. 10, 1978, 92 Stat. 3747.)
+(Pub. L. 86–613, §20, as added Pub. L. 95–631, §10, Nov. 10, 1978, 92 Stat. 3747; amended Pub. L. 110–314, title II, §204(b)(4)(H), (I), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–314 substituted “Commission” for “Consumer Product Safety Commission” after “November 10, 1978, the” and struck out “(hereinafter in this section referred to as the ‘Commission’)” immediately thereafter.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in sections 1590(a) a
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Department of Defense and the military departments” and “of the Department” for “of those components and departments”.
+2000—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Department of Defense and the military departments” and “of theDepartment” for “of those components and departments”.
 
 #### Effective Date
 

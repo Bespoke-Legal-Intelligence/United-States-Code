@@ -52,7 +52,7 @@ July 9, 1964, Pub. L. 88–365, §13, 78 Stat. 307; Sept. 8, 1966, Pub. L. 89–
 
 In subsection (a), the words “take such action as may be necessary to”, “the performance of”, “the assistance of”, and “at rates” are omitted as surplus. The word “same” is added for clarity. The words “duties and powers” are substituted for “authority and functions” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, anddemonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
+In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, and demonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
 
 In subsection (b)(2), before clause (A), the words “without being limited to” are omitted as being included in “include”. The words “such provisions as may be necessary for” are omitted as surplus. In clause (C), the word “individual” is omitted as surplus.
 

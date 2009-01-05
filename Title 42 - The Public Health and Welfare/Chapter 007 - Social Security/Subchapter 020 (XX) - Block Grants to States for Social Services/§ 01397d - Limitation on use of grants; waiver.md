@@ -4,7 +4,7 @@
 
 &emsp;(1) for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than minor remodeling) of any building or other facility;
 
-&emsp;(2) for the provision of cash payments for costs of subsistence or for the provision of room and board (other than costs of subsistence during rehabilitation, room and boardprovided for a short term as an integral but subordinate part of a social service, or temporary emergency shelter provided as a protective service);
+&emsp;(2) for the provision of cash payments for costs of subsistence or for the provision of room and board (other than costs of subsistence during rehabilitation, room and board provided for a short term as an integral but subordinate part of a social service, or temporary emergency shelter provided as a protective service);
 
 &emsp;(3) for payment of the wages of any individual as a social service (other than payment of the wages of welfare recipients employed in the provision of child day care services);
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

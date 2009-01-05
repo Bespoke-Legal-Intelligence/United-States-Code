@@ -38,7 +38,7 @@ In general.—A State agency may restrict use of the HOV facility by motorcycles
 
 &emsp;&emsp;&emsp;(ii)
 
-Acceptance of certification.—The Secretary may accept a certification underthis subparagraph only after the Secretary publishes notice of the certification in the Federal Register and provides an opportunity for public comment.
+Acceptance of certification.—The Secretary may accept a certification under this subparagraph only after the Secretary publishes notice of the certification in the Federal Register and provides an opportunity for public comment.
 
 &emsp;(3)
 
@@ -80,7 +80,7 @@ Other low emission and energy-efficient vehicles.—Before September 30, 2009, t
 
 &emsp;&emsp;(C)
 
-Amount of tolls.—Under subparagraph (B), a State agency may charge no toll or may charge a toll that is less than tolls charged under paragraph (3).<sup>1</sup>
+Amount of tolls.—Under subparagraph (B), a State agency may charge no toll or may charge a toll that is less than tolls charged under paragraph (4).
 
 (c)
 
@@ -134,7 +134,7 @@ Management of low emission and energy-efficient vehicles.—In managing the use 
 
 (e)
 
-Certification of Low Emission and Energy-Efficient Vehicles.—Not later than 180days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—
+Certification of Low Emission and Energy-Efficient Vehicles.—Not later than 180 days after the date of enactment of this section, the Administrator of the Environmental Protection Agency shall—
 
 &emsp;(1) issue a final rule establishing requirements for certification of vehicles as low emission and energy-efficient vehicles for purposes of this section and requirements for the labeling of the vehicles; and
 
@@ -204,11 +204,13 @@ In general.—The term “State agency”, as used with respect to a HOV facilit
 
 Inclusion.—The term “State agency” includes a State transportation department.
 
-(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192.)
+(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(4)”.</i>
+#### Amendments
+
+2008—Subsec. (b)(5)(C). Pub. L. 110–244 substituted “paragraph (4)” for “paragraph (3)”.
 

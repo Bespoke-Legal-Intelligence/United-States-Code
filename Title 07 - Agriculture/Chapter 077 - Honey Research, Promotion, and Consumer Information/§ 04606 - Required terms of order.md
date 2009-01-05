@@ -160,7 +160,7 @@ Finality.—An eligibility determination of the Secretary under this paragraph s
 
 &emsp;(D)
 
-Basis for certification.—Certification of an organization under this paragraph shallbe based on, in addition to other available information, a factual report submitted by the organization that contains information considered relevant by the Secretary, including—
+Basis for certification.—Certification of an organization under this paragraph shall be based on, in addition to other available information, a factual report submitted by the organization that contains information considered relevant by the Secretary, including—
 
 &emsp;&emsp;(i) the geographic territory covered by the active membership of the organization;
 
@@ -212,6 +212,44 @@ Minimum percentage of honey producers.—Notwithstanding any other provision of 
 
 &emsp;(E) employ a manager and staff.
 
+(12)
+
+Referendum requirement.—
+
+&emsp;(A)
+
+Definition of existing honey board.—The term “existing Honey Board” means the Honey Board in effect on the date of enactment of this paragraph.
+
+&emsp;(B)
+
+Conduct of referenda.—Notwithstanding any other provision of law, subject to subparagraph (C), the order providing for the establishment and operation of the existing Honey Board shall continue in force, until the Secretary first conducts, at the earliest practicable date, but not later than 180 days after the date of enactment of this paragraph, referenda on orders to establish a honey packer-importer board or a United States honey producer board.
+
+&emsp;(C)
+
+Requirements.—In conducting referenda under subparagraph (B), and in exercising fiduciary responsibilities in any transition to any 1 or more successor boards, the Secretary shall—
+
+&emsp;&emsp;(i) conduct a referendum of eligible United States honey producers for the establishment of a marketing board solely for United States honey producers;
+
+&emsp;&emsp;(ii) conduct a referendum of eligible packers, importers, and handlers of honey for the establishment of a marketing board for packers, importers, and handlers of honey;
+
+&emsp;&emsp;(iii) notwithstanding the timing of the referenda required under clauses (i) and (ii) or of the establishment of any 1 or more successor boards pursuant to those referenda,ensure that the rights and interests of honey producers, importers, packers, and handlers of honey are equitably protected in any disposition of the assets, facilities, intellectual property, and programs of the existing Honey Board and in the transition to any 1 or more new successor marketing boards;
+
+&emsp;&emsp;(iv) ensure that the existing Honey Board continues in operation until such time as the Secretary determines that—
+
+&emsp;&emsp;&emsp;(I) any 1 or more successor boards, if approved, are operational; and
+
+&emsp;&emsp;&emsp;(II) the interests of producers, importers, packers, and handlers of honey can be equitably protected during any remaining period in which a referendum on a successor board or the establishment of such a board is pending; and
+
+&emsp;&emsp;(v) discontinue collection of assessments under the order establishing the existing Honey Board on the date the Secretary requires that collections commence pursuant to an order approved in a referendum by eligible producers or processors and importers of honey.
+
+&emsp;(D)
+
+Honey board referendum.—If 1 or more orders are approved pursuant to paragraph (C)—
+
+&emsp;&emsp;(i) the Secretary shall not be required to conduct a continuation referendum on the order in existence on the date of enactment of this paragraph; and
+
+&emsp;&emsp;(ii) that order shall be terminated pursuant to the provisions of the order.
+
 #### (d) Budget; administration of order
 
 The Honey Board shall prepare and submit to the Secretary, for the Secretary's approval, a budget (on a fiscal period basis) of its anticipated expenses and disbursements in the administration of the order, including probable costs of research, promotion, and consumer information.
@@ -248,7 +286,7 @@ Alternative rate approved in referendum.—If approved in a referendum conducted
 
 &emsp;&emsp;&emsp;(II) producer-packers on all honey and honey products handled by the producer-packers, including honey produced by the producer-packers); and
 
-&emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which$0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
+&emsp;(B) in the case of honey and honey products imported into the United States, $0.015 per pound payable by honey importers, of which $0.0075 per pound represents the assessment due from the handler to be paid by the importer on behalf of the handler.
 
 (4)(A) Honey that is consumed at home by the producer or importer or donated by the producer or importer to a nonprofit, government, or other entity, as determined appropriate by the Secretary, rather than sold shall be exempt from assessment under the order, except that donated honey that later is sold in a commercial outlet by a donee or a donee's assignee shall be subject to assessment on such sale.
 
@@ -274,7 +312,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 #### (1) Use
 
-&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning ofthe Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
 #### (2) Research projects
 
@@ -310,11 +348,21 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
-(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, §10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, §4(a), title X, §10401, June 18, 2008, 122 Stat. 1664, 2109.)
+
+#### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (c)(12), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to theCommittee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
+2008—Subsec. (c)(12). Pub. L. 110–246, §10401, added par. (12).
+
+1998—Subsec. (b)(2). Pub. L. 105–185, §605(f)(1)(A), substituted “except that the term of appointments to the Committee may be staggered periodically, as determined by the Secretary” for “except that the initial appointments to the Committee shall be staggered with an equal number of members appointed, to the maximum extent possible, to one-year, two-year, and three-year terms”.
 
 Subsec. (b)(5). Pub. L. 105–185, §605(f)(1)(B), struck out “after the first annual meeting” after “except that” in second sentence and substituted “percent” for “per centum” in third sentence.
 
@@ -375,6 +423,10 @@ Subsec. (e)(1). Pub. L. 101–624, §1984(a)(1), substituted new second sentence
 Subsec. (e)(2), (3). Pub. L. 101–624, §1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed.”
 
 Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -84,7 +84,7 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 
 1966—Pub. L. 89–571 removed the United States District Court for District of Puerto Rico from list of courts to which the provisions of section are applicable.
 
-1959—Pub. L. 86–3 struck out references to judges of United States District Court for District of Hawaii and to justices of Supreme Court of Territory of Hawaii. See section 91 of this title and notes thereunder.
+1959—Pub. L. 86–3 struck out references to judges of United States District Court for District of Hawaii andto justices of Supreme Court of Territory of Hawaii. See section 91 of this title and notes thereunder.
 
 1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notesset out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Election, Recall, Status, Compensation, Conduct, and Termination of Senior Judges
 

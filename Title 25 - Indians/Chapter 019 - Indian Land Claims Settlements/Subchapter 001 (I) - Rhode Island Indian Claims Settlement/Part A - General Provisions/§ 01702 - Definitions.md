@@ -6,7 +6,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(b) “land or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resource, including but not limited to, minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish;
 
-&emsp;(c) “lawsuits” means the actions entitled “Narragansett Tribe of Indians v. SouthernRhode Island Land Development Co., et al., C.A. No. 75–0006 (D.R.I.)” and “Narragansett Tribe of Indians v. Rhode Island Director of Environmental Management, C.A. No. 75–0005 (D.R.I.)”;
+&emsp;(c) “lawsuits” means the actions entitled “Narragansett Tribe of Indians v. Southern Rhode Island Land Development Co., et al., C.A. No. 75–0006 (D.R.I.)” and “Narragansett Tribe of Indians v. Rhode Island Director of Environmental Management, C.A. No. 75–0005 (D.R.I.)”;
 
 &emsp;(d) “private settlement lands” means approximately nine hundred acres of privately held land outlined in red in the map marked “Exhibit A” attached to the Settlement Agreement that are to be acquired by the Secretary from certain private landowners pursuant to sections 1704 and 1707 of this title;
 

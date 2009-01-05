@@ -28,7 +28,7 @@
 
 &emsp;The Secretary shall determine the amount of all taxes imposed by, and collected under the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
-&emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement of each fiscal year as set forth in section 4(c)(2) of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved August 18, 1978 (48 U.S.C. 1645), as in effect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
+&emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement ofeach fiscal year as set forth in section 4(c)(2) of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved August 18, 1978 (48 U.S.C. 1645), as in effect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
@@ -94,7 +94,7 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2008), or
+&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2010), or
 
 &emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -102,9 +102,9 @@ For purposes of this section, with respect to taxes imposed under section 5001 o
 
 In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
 
-&emsp;(1) subpart F of part II of subchapter A of chapter 51 shall be applied as if—
+&emsp;(1) subpart B of part II of subchapter A of chapter 51 shall be applied as if—
 
-&emsp;&emsp;(A) the use and tax determination described in section 5131(a) had occurred in the United States by a United States person at the time the article is brought into the United States, and
+&emsp;&emsp;(A) the use and tax determination described in section 5111 had occurred in the United States by a United States person at the time the article is brought into the United States, and
 
 &emsp;&emsp;(B) the rate of tax were the rate applicable under subsection (f) of this section, and
 
@@ -118,11 +118,7 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940.)
-
-#### Amendment of Subsection (g)(1)
-
-<i>Pub. L. 109–59, title XI, §11125(b)(22), (c), Aug. 10, 2005, 119 Stat. 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (g)(1) of this section is amended by substituting “subpart B” for “subpart F” and “section 5111” for “section 5131(a)”.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869.)
 
 #### References in Text
 
@@ -134,7 +130,13 @@ The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred t
 
 #### Amendments
 
+2008—Subsec. (f)(1). Pub. L. 110–343 substituted “January 1, 2010” for “January 1, 2008”.
+
 2006—Subsec. (f)(1). Pub. L. 109–432 substituted “2008” for “2006”.
+
+2005—Subsec. (g)(1). Pub. L. 109–59, §11125(b)(22)(A), substituted “subpart B” for “subpart F” in introductory provisions.
+
+Subsec. (g)(1)(A). Pub. L. 109–59, §11125(b)(22)(B), substituted “section 5111” for “section 5131(a)”.
 
 2004—Subsec. (f)(1). Pub. L. 108–311 substituted “January 1, 2006” for “January 1, 2004”.
 
@@ -176,13 +178,17 @@ Subsec. (b)(3)(A). Pub. L. 94–455, §1906(a)(55)(D), as added by Pub. L. 98–
 
 Subsec. (b)(3)(B), (C). Pub. L. 94–455, §1906(a)(55)(A), redesignated subpar. (C) as (B). Former subpar. (B) relating to disposition of internal revenue collections in Virgin Islands for fiscal years ending June 30, 1955 and 1956 was struck out.
 
-Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and quarterly” for “fiscal year ending June 30, 1954, and annually” and “quarter” for “fiscal year” in provisions preceding subpar. (A), substituted “paid over, as soon as practicable after the close of the quarter,” for “paid over” and “quarter” for “fiscal year” in subpar. (A), and substituted “with respect to the four calendar quarters immediately preceding the beginning” for “at the beginning” in provisions following subpar. (C).
+Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and quarterly” for “fiscal year ending June 30, 1954, and annually” and “quarter” for “fiscal year” in provisions preceding subpar. (A), substituted “paid over, as soon as practicable after theclose of the quarter,” for “paid over” and “quarter” for “fiscal year” in subpar. (A), and substituted “with respect to the four calendar quarters immediately preceding the beginning” for “at the beginning” in provisions following subpar. (C).
 
 1965—Subsec. (a)(3). Pub. L. 89–44 inserted “(less the estimated amount necessary for payment of refunds and drawbacks)” after “transported to the United States”.
 
 1958—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title III, §308(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendment made by this section \[amending this section\] shall apply to distilled spirits brought into the United States after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
@@ -342,7 +348,7 @@ Second transfer of incremental increase in cover over attributable to periods be
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes
 

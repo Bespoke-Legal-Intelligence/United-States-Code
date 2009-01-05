@@ -36,7 +36,7 @@
 
 A prior section 2904, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, contained provisions similar to those comprising pars. (1) and (2) of this section, prior to repeal by Pub. L. 94–575, §2(a)(2).
 
-Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296, prior to repeal by Pub. L. 94–575, §2(a)(1).
+Provisions similar to those comprising pars. (8) to (10) of this section were contained in section 2902, Pub.L. 90–620, Oct. 22, 1968, 82 Stat. 1296, prior to repeal by Pub. L. 94–575, §2(a)(1).
 
 #### Amendments
 

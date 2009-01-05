@@ -14,17 +14,47 @@ Consideration of Information and Standards.—In prescribing regulations and iss
 
 (d)
 
-Waivers.—The Secretary may waive compliance with any part of a regulation prescribed or order issued under this chapter if the waiver is in the public interest and consistent with railroad safety. The Secretary shall make public the reasons for granting the waiver.
+Nonemergency Waivers.—The Secretary may waive compliance with any part of a regulation prescribed or order issued under this chapter if the waiver is in the public interest and consistent with railroad safety. The Secretary shall make public the reasons for granting the waiver.
 
 (e)
 
-Hearings.—The Secretary shall conduct a hearing as provided by section 553 of title 5 when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.
+Hearings.—The Secretary shall conduct a hearing as provided by section 553 of title 5 when prescribing a regulation or issuing an order under this part, including a regulation or order establishing, amending, or providing a waiver, described in subsection (d), of compliance with a railroad safety regulation prescribed or order issued under this part. An opportunity for an oral presentation shall be provided.
 
 (f)
 
 Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319.)
+(g)
+
+Emergency Waivers.—
+
+&emsp;(1)
+
+In general.—The Secretary may waive compliance with any part of a regulation prescribed or order issued under this part without prior notice and comment if the Secretary determines that—
+
+&emsp;&emsp;(A) it is in the public interest to grant the waiver;
+
+&emsp;&emsp;(B) the waiver is not inconsistent with railroad safety; and
+
+&emsp;&emsp;(C) the waiver is necessary to address an actual or impending emergency situation or emergency event.
+
+&emsp;(2)
+
+Period of waiver.—A waiver under this subsection may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this part.
+
+&emsp;(3)
+
+Statement of reasons.—The Secretary shall state in the decision issued under this subsection the reasons for granting the waiver.
+
+&emsp;(4)
+
+Consultation.—In granting a waiver under this subsection, the Secretary shall consult and coordinate with other Federal agencies, as appropriate, for matters that may impact such agencies.
+
+&emsp;(5)
+
+Emergency situation; emergency event.—In this subsection, the terms “emergency situation” and “emergency event” mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 110–432, div. A, title III, §308, Oct. 16, 2008, 122 Stat. 4881.)
 
 Historical and Revision Notes
 
@@ -69,6 +99,12 @@ In subsection (b), the words “within 180 days after July 8, 1976” are omitte
 In subsection (d), the words “after hearing in accordance with subsection (b) of this section” are omitted as surplus because of the language restated in subsection (e) of this section.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–432, §308(1), substituted “Nonemergency Waivers” for “Waivers” in heading.
+
+Subsec. (e). Pub. L. 110–432, §308(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “The Secretary shall conduct ahearing as provided by section 553 of title 5 when prescribing a regulation or issuing an order under this chapter, including a regulation or order establishing, amending, or waiving compliance with a railroad safety regulation prescribed or order issued under this chapter. An opportunity for an oral presentation shall be provided.”
+
+Subsec. (g). Pub. L. 110–432, §308(3), added subsec. (g).
 
 2002—Subsec. (a). Pub. L. 107–296 inserted at end “When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.”
 
@@ -119,4 +155,82 @@ Supporting Research and Analysis.—In support of the proceeding required under 
 “(3)
 
 Report.—If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision.”
+
+#### Locomotive Cab Studies
+
+Pub. L. 110–432, div. A, title IV, §405, Oct. 16, 2008, 122 Stat. 4885, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance of such employees’ duties. The study shall consider the prevalence of the use of such devices.
+
+“(b)
+
+Locomotive Cab Environment.—The Secretary may also study other elements of the locomotive cab environment and their effect on an employee's health and safety.
+
+“(c)
+
+Report.—Not later than 6 months after the completion of any study under this section, the Secretary shall issue a report on the study to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
+
+“(d)
+
+Authority.—Based on the conclusions of the study required under (a), the Secretary of Transportation may prohibit the use of personal electronic devices, such as cell phones, video games, or other electronic devices that may distract employees from safely performing their duties, unless those devices are being used according to railroad operating rules or for other work purposes. Based on the conclusions of other studies conducted under subsection (b), the Secretary may prescribe regulations to improve elements of the cab environment to protect an employee's health and safety.”
+
+\[For definitions of “Secretary” and “railroad”, as used in section 405 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+
+#### Tunnel Information
+
+Pub. L. 110–432, div. A, title IV, §414, Oct. 16, 2008, 122 Stat. 4889, provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 16, 2008\], each railroad carrier shall, with respect to each of its tunnels which—
+
+&emsp;“(1) are longer than 1000 feet and located under a city with a population of 400,000 or greater; or
+
+&emsp;“(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in parts \[probably should be “sections”\] 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year,
+
+> maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in part \[probably should be “section”\] 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests.”
+
+\[For definition of “railroad carrier”, as used in section 414 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+
+#### Railroad Bridge Safety Assurance
+
+Pub. L. 110–432, div. A, title IV, §417, Oct. 16, 2008, 122 Stat. 4890, provided that:
+
+“(a)
+
+In General.—Not later than 12 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall promulgate a regulation requiring owners of track carried on one or more railroad bridges to adopt a bridge safety management program to prevent the deterioration of railroad bridges and reduce the risk of human casualties, environmental damage, and disruption to the Nation's railroad transportation system that would result from a catastrophic bridge failure.
+
+“(b)
+
+Requirements.—The regulations shall, at a minimum, require each track owner to \[sic\]—
+
+&emsp;“(1) to develop and maintain an accurate inventory of its railroad bridges, which shall identify the location of each bridge, its configuration, type of construction, number of spans, span lengths, and all other information necessary to provide for the safe management of the bridges;
+
+&emsp;“(2) to ensure that a professional engineer competent in the field of railroad bridge engineering, or a qualified person under the supervision of the track owner, determines bridge capacity;
+
+&emsp;“(3) to maintain, and update as appropriate, a record of the safe capacity of each bridge which carries its track and, if available, maintain the original design documents of each bridge and a documentation of all repairs, modifications, and inspections of the bridge;
+
+&emsp;“(4) to develop, maintain, and enforce a written procedure that will ensure that its bridges are not loaded beyond their capacities;
+
+&emsp;“(5) to conduct regular comprehensive inspections of each bridge, at least once every year, and maintain records of those inspections that include the date on which the inspection was performed, the precise identification of the bridge inspected, the items inspected, an accurate description of the condition of those items, and a narrative of any inspection item that is found by the inspector to be a potential problem;
+
+&emsp;“(6) to ensure that the level of detail and the inspection procedures are appropriate to the configuration of the bridge, conditions found during previous inspections, and the nature of the railroad traffic moved over the bridge, including car weights, train frequency and length, levels of passenger and hazardous materials traffic, and vulnerability of the bridge to damage;
+
+&emsp;“(7) to ensure that an engineer who is competent in the field of railroad bridge engineering—
+
+&emsp;&emsp;“(A) is responsible for the development of all inspection procedures;
+
+&emsp;&emsp;“(B) reviews all inspection reports; and
+
+&emsp;&emsp;“(C) determines whether bridges are being inspected according to the applicable procedures and frequency, and reviews any items noted by an inspector as exceptions; and
+
+&emsp;“(8) to designate qualified bridge inspectors or maintenance personnel to authorize the operation of trains on bridges following repairs, damage, or indications of potential structural problems.
+
+“(c)
+
+Use of Bridge Management Programs Required.—The Secretary shall instruct bridge experts to obtain copies of the most recent bridge management programs of each railroad within the expert's areas of responsibility, and require that experts use those programs when conducting bridge observations.
+
+“(d)
+
+Review of Data.—The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.”
+
+\[For definitions of “Secretary”, “railroad”, and “railroad carrier”, as used in section 417 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

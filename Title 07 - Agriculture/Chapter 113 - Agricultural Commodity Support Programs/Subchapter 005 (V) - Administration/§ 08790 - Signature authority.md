@@ -1,0 +1,32 @@
+### §8790. Signature authority
+
+#### (a) In general
+
+In carrying out this title and title II and amendments made by those titles, if the Secretary approves a document, the Secretary shall not subsequently determine the document is inadequate or invalid because of the lack of authority of any person signing the document on behalf of the applicant or any other individual, entity, general partnership, or joint venture, or the documents relied upon were determined inadequate or invalid, unless the person signingthe program document knowingly and willfully falsified the evidence of signature authority or a signature.
+
+#### (b) Affirmation
+
+#### (1) In general
+
+&emsp;Nothing in this section prohibits the Secretary from asking a proper party to affirm any document that otherwise would be considered approved under subsection (a).
+
+#### (2) No retroactive effect
+
+&emsp;A denial of benefits based on a lack of affirmation under paragraph (1) shall not be retroactive with respect to third-party producers who were not the subject of the erroneous representation of authority, if the third-party producers—
+
+&emsp;&emsp;(A) relied on the prior approval by the Secretary of the documents in good faith; and
+
+&emsp;&emsp;(B) substantively complied with all program requirements <sup>1</sup>
+
+(Pub. L. 110–234, title I, §1617, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, §4(a), title I, §1617, June 18, 2008, 122 Stat. 1664, 1750.)
+
+#### References in Text
+
+This title and title II, referred to in subsec. (a), are titles I and II of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, 1753, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of titles I and II to the Code, see Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+

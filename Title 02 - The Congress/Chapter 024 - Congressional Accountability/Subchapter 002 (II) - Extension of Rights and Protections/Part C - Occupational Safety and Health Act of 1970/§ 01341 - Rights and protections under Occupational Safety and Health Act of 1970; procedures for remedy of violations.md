@@ -70,7 +70,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (1) Periodic inspections
 
-&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Capitol Guide Service, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a) of this section.
+&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a) of this section.
 
 #### (2) Report
 
@@ -86,7 +86,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (4) Detailed personnel
 
-&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Officesuch personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
+&emsp;The Secretary of Labor may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 
 #### (f) Initial period for study and corrective action
 
@@ -102,7 +102,7 @@ The period from January 23, 1995, until December 31, 1996, shall be available to
 
 &emsp;This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–1, title II, §215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, §422(b)(4), Oct. 20, 2008, 122 Stat. 4996.)
 
 #### References in Text
 
@@ -110,7 +110,13 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), i
 
 #### Amendments
 
+2008—Subsec. (e)(1). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services,” for “the Capitol Guide Service,”.
+
 2004—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (g)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
 

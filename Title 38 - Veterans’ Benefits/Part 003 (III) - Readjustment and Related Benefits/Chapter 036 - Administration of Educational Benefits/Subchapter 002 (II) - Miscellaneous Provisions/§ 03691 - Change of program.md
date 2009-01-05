@@ -10,23 +10,29 @@
 
 (c) The Secretary may also approve additional changes in program if the Secretary finds such changes are necessitated by circumstances beyond the control of the eligible veteran or eligible person.
 
-(d) For the purposes of this section, the term “change of program of education” shall not be deemed to include a change by a veteran or eligible person from the pursuit of one program to the pursuit of another program if—
+(d)(1) For the purposes of this section, the term “change of program of education” shall not be deemed to include a change by a veteranor eligible person from the pursuit of one program to the pursuit of another program if—
 
-&emsp;(1) the veteran or eligible person has successfully completed the former program;
+&emsp;(A) the veteran or eligible person has successfully completed the former program;
 
-&emsp;(2) the program leads to a vocational, educational, or professional objective in the same general field as the former program;
+&emsp;(B) the program leads to a vocational, educational, or professional objective in the same general field as the former program;
 
-&emsp;(3) the former program is a prerequisite to, or generally required for, pursuit of the subsequent program; or
+&emsp;(C) the former program is a prerequisite to, or generally required for, pursuit of the subsequent program;
 
-&emsp;(4) in the case of a change from the pursuit of a subsequent program to the pursuit of a former program, the veteran or eligible person resumes pursuit of the former program without loss of credit or standing in the former program.
+&emsp;(D) in the case of a change from the pursuit of a subsequent program to the pursuit of a former program, the veteran or eligible person resumes pursuit of the former program without loss of credit or standing in the former program; or
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334.)
+&emsp;(E) the change from the program to another program is at the same educational institution and such educational institution determines that the new program is suitable to the aptitudes, interests, and abilities of the veteran or eligible person and certifies to the Secretary the enrollment of the veteran or eligible person in the new program.
+
+(2) A veteran or eligible person undergoing a change from one program of education to another program of education as described in paragraph (1)(E) shall not be required to apply to the Secretary for approval of such change.
+
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1089, §1791; amended Pub. L. 94–502, title V, §513(a)(20), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–366, title II, §208(a), Aug. 15, 1990, 104 Stat. 443; renumbered §3691, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §317, Oct. 29, 1992, 106 Stat. 4334; Pub. L. 110–389, title III, §324, Oct. 10, 2008, 122 Stat. 4168.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 1672, as added by Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15; and former section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, prior to repeal by sections 401(6) and 402(2) of Pub. L. 92–540, respectively.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–389 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D) of par. (1), respectively, and added subpar. (E) of par. (1) and par. (2).
 
 1992—Subsec. (d). Pub. L. 102–568 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section the term ‘change of program of education’ shall not be deemed to include a change from the pursuit of one program to pursuit of another where the first program is prerequisite to, or generally required for, entrance into pursuit of the second.”
 

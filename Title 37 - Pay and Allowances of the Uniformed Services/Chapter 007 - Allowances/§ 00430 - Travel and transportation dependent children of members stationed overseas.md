@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “postsecondary vocational institution” has the meaning given that term in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)).
 
-(Added Pub. L. 98–94, title IX, §910(a)(1), Sept. 24, 1983, 97 Stat. 638; amended Pub. L. 101–189, div. A, title VI, §625(a), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 101–510, div. A, title XIV, §1484(e)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §634, Oct. 17, 1998, 112 Stat. 2044; Pub. L. 106–398, §1 \[\[div. A\], title VI, §646\], Oct. 30, 2000, 114 Stat. 1654, 1654A–162; Pub. L. 107–107, div. A, title VI, §639(a)–(c), title IX, §931(c), Dec. 28, 2001, 115 Stat. 1148, 1200; Pub. L. 107–314, div. A, title VI, §654(b)(6), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §633, Nov. 24, 2003, 117 Stat. 1509; Pub. L. 108–375, div. A, title VI, §633, Oct. 28, 2004, 118 Stat. 1957.)
+(Added Pub. L. 98–94, title IX, §910(a)(1), Sept. 24, 1983, 97 Stat. 638; amended Pub. L. 101–189, div. A, title VI, §625(a), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 101–510, div. A, title XIV, §1484(e)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §634, Oct. 17,1998, 112 Stat. 2044; Pub. L. 106–398, §1 \[\[div. A\], title VI, §646\], Oct. 30, 2000, 114 Stat. 1654, 1654A–162; Pub. L. 107–107, div. A, title VI, §639(a)–(c), title IX, §931(c), Dec. 28, 2001, 115 Stat. 1148, 1200; Pub. L. 107–314, div. A, title VI, §654(b)(6), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §633, Nov. 24, 2003, 117 Stat. 1509; Pub. L. 108–375, div. A, title VI, §633, Oct. 28, 2004, 118 Stat. 1957.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Section 910(b) of Pub. L. 98–94 provided that: “Section 430 of title 37, Uni
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145,set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
 
 Pub. L. 98–212, title VII, §799B, Dec. 8, 1983, 97 Stat. 1456, as amended by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1378, provided in part that: “After August 31, 1984, none of the funds appropriated to the Department of Defense for the travel and transportation of dependent students of military personnel stationed overseas shall be obligated for a transportation allowance for travel within or between the contiguous United States.”
 

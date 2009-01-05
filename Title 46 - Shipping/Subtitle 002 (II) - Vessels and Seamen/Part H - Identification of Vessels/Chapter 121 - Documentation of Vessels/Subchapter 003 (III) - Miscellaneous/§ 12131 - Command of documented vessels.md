@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), a documented vessel may be placed under the commmand <sup>1</sup> only of a citizen of the United States.
+In General.—Except as provided in subsection (b), a documented vessel may be placed under the command only of a citizen of the United States.
 
 (b)
 
@@ -12,7 +12,7 @@ Exceptions.—Subsection (a) does not apply to—
 
 &emsp;(2) an unmanned barge operating outside of the territorial waters of the United States.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1505.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1505; Pub. L. 110–181, div. C, title XXXV, §3529(a)(3), Jan. 28, 2008, 122 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -28,5 +28,7 @@ Historical and Revision Notes
 
 46:12110(d).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “command”.</i>
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 substituted “command” for “commmand”.
 

@@ -1,6 +1,6 @@
 ### §5705. Confidentiality of medical quality-assurance records
 
-(a) Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to anyperson or entity except as provided in subsection (b) of this section.
+(a) Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
 
 (b)(1) Subject to paragraph (2) of this subsection, a record or document described in subsection (a) of this section shall, upon request, be disclosed as follows:
 
@@ -12,7 +12,7 @@
 
 &emsp;(D) To health-care personnel, to the extent necessary to meet a medical emergency affecting the health or safety of any individual.
 
-(2) The name of and other identifying information regarding any individual patient or employee of the Department, or any other individual associated with the Department for purposes of a medical quality-assurance program, contained in a record or document described in subsection (a) of this section shall be deleted from any record or document before any disclosure made under this subsection if disclosure of such name and identifying information would constitute a clearly unwarranted invasion of personal privacy.
+(2) The name of and other identifying information regarding any individual patient or employee of the Department, or any other individual associated with the Department for purposes of a medical quality-assurance program, contained in a record or document described in subsection (a) of this section shall be deleted from any record or document before any disclosuremade under this subsection if disclosure of such name and identifying information would constitute a clearly unwarranted invasion of personal privacy.
 
 (3) No person or entity to whom a record or document has been disclosed under this subsection shall make further disclosure of such record or document except for a purpose provided in this subsection.
 

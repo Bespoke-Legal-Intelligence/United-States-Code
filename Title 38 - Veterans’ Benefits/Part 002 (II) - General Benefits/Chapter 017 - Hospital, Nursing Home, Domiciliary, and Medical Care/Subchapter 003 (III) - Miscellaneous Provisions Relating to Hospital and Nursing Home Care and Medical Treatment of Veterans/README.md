@@ -20,5 +20,5 @@
 - [&sect; 01728 - Reimbursement of certain medical expenses](%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md)
 - [&sect; 01729 - Recovery by the United States of the cost of certain care and services](%C2%A7%2001729%20-%20Recovery%20by%20the%20United%20States%20of%20the%20cost%20of%20certain%20care%20and%20services.md)
 - [&sect; 01729A - Department of Veterans Affairs Medical Care Collections Fund](%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md)
-- [&sect; 01729B - Repealed. Pub. L. 108&#8211;7, div. K, title I, &sect;113(a)(1), Feb. 20, 2003, 117 Stat. 482](%C2%A7%2001729B%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20K%2C%20title%20I%2C%20%C2%A7113%28a%29%281%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20482.md)
+- [&sect; 01729B - Consolidated patient accounting centers](%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md)
 - [&sect; 01730 - Community residential care](%C2%A7%2001730%20-%20Community%20residential%20care.md)

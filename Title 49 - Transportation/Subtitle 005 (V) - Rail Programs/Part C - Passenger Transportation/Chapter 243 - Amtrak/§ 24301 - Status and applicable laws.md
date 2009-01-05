@@ -4,7 +4,7 @@
 
 Status.—Amtrak—
 
-&emsp;(1) is a railroad carrier under section 20102(2) and chapters 261 and 281 of this title;
+&emsp;(1) is a railroad carrier under section 20102(2) <sup>1</sup> and chapters 261 and 281 of this title;
 
 &emsp;(2) shall be operated and managed as a for-profit corporation; and
 
@@ -16,7 +16,7 @@ Principal Office and Place of Business.—The principal office and place of busi
 
 (c)
 
-Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, exceptfor sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
+Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
 (d)
 
@@ -80,7 +80,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contractair program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee,or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
 (<i>o</i>)
 
@@ -248,6 +248,8 @@ In subsection (n), the words “uniformed services” are substituted for “Arm
 
 #### References in Text
 
+Section 20102(2), referred to in subsec. (a)(1), was redesignated section 20102(3) by Pub. L. 110–432, div. A, §2(b)(1), Oct. 16, 2008, 122 Stat. 4850.
+
 The Railroad Retirement Act of 1974, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
@@ -326,5 +328,7 @@ Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided tha
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 
-Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National RailroadPassenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,6 +12,8 @@ Notwithstanding the amendments made by this subchapter, any obligation of the Se
 
 #### References in Text
 
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in text, is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title IV of the Act was classified generally to part C (§12899 et seq.) of subchapter IV of chapter 130 of Title 42 prior to repeal by Pub. L. 109–281, §2(e), Sept. 22, 2006, 120 Stat. 1181. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
@@ -33,4 +35,6 @@ The date of the effectiveness of the amendments made by this subchapter, referre
 #### Effective Date
 
 Section effective Oct. 26, 1996, see section 508 of Pub. L. 104–330, set out as a note under section 4181 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

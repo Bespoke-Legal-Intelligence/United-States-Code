@@ -28,5 +28,5 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(A)(i), 
 
 #### Effective Date
 
-Pub. L. 109–8, title IV, §434(b), Apr. 20, 2005, 119 Stat. 111, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect 60 days after the date on which rules are prescribed under section 2075 of title 28, United States Code, to establish forms to be used to comply with section 308 of title 11, United States Code, as added by subsection (a).”
+Pub. L. 109–8, title IV, §434(b), Apr. 20, 2005, 119 Stat. 111, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect 60 days after the date on which rules are prescribed under section 2075 of title 28, United States Code, to establish forms to be used to comply with section 308 of title 11, United States Code, as added by subsection (a) \[See Bankruptcy Form No. 25C, eff. Dec. 1, 2008, set out in the Appendix to this title\].”
 

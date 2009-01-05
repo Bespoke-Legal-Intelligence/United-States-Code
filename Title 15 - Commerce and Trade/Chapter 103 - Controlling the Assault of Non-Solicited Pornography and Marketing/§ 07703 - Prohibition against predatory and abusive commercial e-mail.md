@@ -6,7 +6,7 @@
 
 #### (1) Directive
 
-&emsp;Pursuant to its authority under section 994(p) of title 28 and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the sentencing guidelines and policy statements to provide appropriate penalties for violations of section 1037 of title 18, as added by this section, and other offenses thatmay be facilitated by the sending of large quantities of unsolicited electronic mail.
+&emsp;Pursuant to its authority under section 994(p) of title 28 and in accordance with this section, the United States Sentencing Commission shall review and, as appropriate, amend the sentencing guidelines and policy statements to provide appropriate penalties for violations of section 1037 of title 18, as added by this section, and other offenses that may be facilitated by the sending of large quantities of unsolicited electronic mail.
 
 #### (2) Requirements
 

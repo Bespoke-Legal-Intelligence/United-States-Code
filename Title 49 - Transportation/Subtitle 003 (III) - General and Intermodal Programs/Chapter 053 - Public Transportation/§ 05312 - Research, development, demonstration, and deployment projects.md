@@ -24,7 +24,7 @@ Joint Partnership Program for Deployment of Innovation.—
 
 Definition of consortium.—In this subsection, the term “consortium”—
 
-&emsp;&emsp;(A) means 1 or more public or private organizations located in the United States that provide public transportation service to the public and 1 or more businesses, includingsmall- and medium-sized businesses, incorporated in a State, offering goods or services or willing to offer goods and services to public transportation operators; and
+&emsp;&emsp;(A) means 1 or more public or private organizations located in the United States that provide public transportation service to the public and 1 or more businesses, including small- and medium-sized businesses, incorporated in a State, offering goods or services or willing to offer goods and services to public transportation operators; and
 
 &emsp;&emsp;(B) may include, as additional members, public or private research organizations located in the United States, or State or local governmental authorities.
 
@@ -46,7 +46,7 @@ Use of revenues.—The Secretary shall accept, to the maximum extent practicable
 
 (c)
 
-International Mass <sup>1</sup> Transportation Program.—
+International Public Transportation Program.—
 
 &emsp;(1)
 
@@ -68,9 +68,9 @@ Cooperation.—The Secretary may carry out activities under this subsection in c
 
 &emsp;(3)
 
-Funding.—The funds available to carry out this subsection shall include revenues paid to the Secretary by any cooperating organization or person. Such revenues shall be available to the Secretary to carry out activities under this subsection, including promotional materials, travel, reception, and representation expenses necessary to carry out such activities. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation. Not later than January 1 of each fiscal year, the Secretary shall publish a report on the activities under this paragraph funded from the account.
+Funding.—The funds available to carry out this subsection shall include revenues paid to the Secretary by any cooperating organization or person. Such revenues shall be available to the Secretary to carry out activities under this subsection, including promotional materials, travel, reception, and representation expenses necessary to carry out such activities. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not besubject to any obligation limitation. Not later than January 1 of each fiscal year, the Secretary shall publish a report on the activities under this paragraph funded from the account.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597; Pub. L. 110–244, title II, §201(f), June 6, 2008, 122 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -138,6 +138,8 @@ In subsection (c)(3), before clause (A), the words “public or private training
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–244 substituted “Public Transportation” for “Mass Transportation” in heading.
+
 2005—Pub. L. 109–59, §3014(e)(1), substituted “deployment” for “training” in section catchline.
 
 Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
@@ -159,6 +161,4 @@ Subsec. (e). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c).
 Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
 
 1998—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Public”.</i>
 

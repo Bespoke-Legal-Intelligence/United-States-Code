@@ -48,7 +48,7 @@
 
 Subsec. (d)(7), (8). Pub. L. 103–160, §1143(b), added pars. (7) and (8).
 
-1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “Theterm” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
 1983—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
 

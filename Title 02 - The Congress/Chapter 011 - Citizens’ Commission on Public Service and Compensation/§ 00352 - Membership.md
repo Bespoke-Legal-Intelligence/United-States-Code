@@ -20,7 +20,7 @@
 
 &emsp;(C) a parent, sibling, spouse, child, or dependent relative, of anyone under subparagraph (A) or (B).
 
-(3) The persons appointed under subparagraphs (A) through (D) of paragraph (1) shall be selectedwithout regard to political affiliation, and should be selected from among persons who have experience or expertise in such areas as government, personnel management, or public administration.
+(3) The persons appointed under subparagraphs (A) through (D) of paragraph (1) shall be selected without regard to political affiliation, and should be selected from among persons who have experience or expertise in such areas as government, personnel management, or public administration.
 
 (4) The Administrator of General Services shall by regulation establish procedures under which persons shall be selected for appointment under paragraph (1)(E). Such procedures—
 

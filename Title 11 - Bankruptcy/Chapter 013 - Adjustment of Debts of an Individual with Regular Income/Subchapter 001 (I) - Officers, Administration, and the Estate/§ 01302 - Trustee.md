@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) modification of the plan after confirmation;
 
-&emsp;(3) dispose of, under regulations issued by the Director of the Administrative Office of the United States Courts, moneys received or to be received in a case under chapter XIII of the Bankruptcy Act;
+&emsp;(3) dispose of, under regulations issued by the Director of the Administrative Office ofthe United States Courts, moneys received or to be received in a case under chapter XIII of the Bankruptcy Act;
 
 &emsp;(4) advise, other than on legal matters, and assist the debtor in performance under the plan;
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
 
 1994—Subsec. (b)(3). Pub. L. 103–394 struck out “and” at end.
 
-1986—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
+1986—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the court has appointed an individual under subsection (d) of this section to serve as standingtrustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case.”
 
 Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: “If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter.”
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

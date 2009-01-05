@@ -38,11 +38,13 @@
 
 &emsp;(E) A description of the steps taken, plans made (and a timetable for their execution), and resources to be applied toward improving the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
 
-(2) Not later than June 1 of each year through 2008, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
+(2) Not later than June 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
 
-(Added Pub. L. 104–262, title III, §335(a), Oct. 9, 1996, 110 Stat. 3204; amended Pub. L. 106–419, title IV, §402(f), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, §405(c), Dec. 6, 2003, 117 Stat. 2063.)
+(Added Pub. L. 104–262, title III, §335(a), Oct. 9, 1996, 110 Stat. 3204; amended Pub. L. 106–419, title IV, §402(f), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, §405(c), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, title VIII, §807, Oct. 10, 2008, 122 Stat. 4141.)
 
 #### Amendments
+
+2008—Subsec. (d)(2). Pub. L. 110–387 substituted “through 2012” for “through 2008”.
 
 2003—Subsec. (d)(2). Pub. L. 108–170 substituted “June 1 of each year through 2008” for “February 1, 1998, and February 1 of each of the six following years”.
 

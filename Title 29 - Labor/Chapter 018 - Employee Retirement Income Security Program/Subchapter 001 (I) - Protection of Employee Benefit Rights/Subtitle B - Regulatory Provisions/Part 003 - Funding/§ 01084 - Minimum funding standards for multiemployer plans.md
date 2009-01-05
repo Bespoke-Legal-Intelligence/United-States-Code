@@ -12,7 +12,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (1) Account required
 
-&emsp;Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
+&emsp;Each multiemployer plan to which this part applies shall establish and maintain a fundingstandard account. Such account shall be credited and charged solely as provided in this section.
 
 #### (2) Charges to account
 
@@ -52,7 +52,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;(C) the amount of the waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for the plan year, and
 
-&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard under section 1085 of this title (as in effect on the day before August 17, 2006), the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debitbalance in the alternative minimum funding standard account.
+&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard under section 1085 of this title (as in effect on the day before August 17, 2006), the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
 
 #### (4) Special rule for amounts first amortized in plan years before 2008
 
@@ -76,7 +76,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (A) Withdrawal liability
 
-&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of the Treasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
+&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of theTreasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
 
 #### (B) Adjustments when a multiemployer plan leaves reorganization
 
@@ -208,7 +208,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (I) Commissioners’ standard table
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed bythe Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on January 1, 1993.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26) used to determine reserves for group annuity contracts issued on January 1, 1993.
 
 #### (II) Secretarial authority
 
@@ -228,7 +228,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraphand shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -352,7 +352,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare.Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d)(2)(B)(i), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -366,7 +366,7 @@ Section applicable to plan years beginning after 2007, with special rule for cer
 
 #### Shortfall Funding Method
 
-Pub. L. 109–280, title II, §201(b), Aug. 17, 2006, 120 Stat. 867, provided that:
+Pub. L. 109–280, title II, §201(b), Aug. 17, 2006, 120 Stat. 867, as amended by Pub. L. 110–458, title I, §102(a), Dec. 23, 2008, 122 Stat. 5100, provided that:
 
 “(1)
 
@@ -376,7 +376,7 @@ In general.—A multiemployer plan meeting the criteria of paragraph (2) may ado
 
 Criteria.—A multiemployer pension plan meets the criteria of this clause if—
 
-&emsp;“(A) the plan has not used the shortfall funding method during the 5-year period ending on the day before the date the plan is to use the method under paragraph (1); and
+&emsp;“(A) the plan has not adopted, or ceased using, the shortfall funding method during the 5-year period ending on the day before the date the plan is to use the method under paragraph (1); and
 
 &emsp;“(B) the plan is not operating under an amortization period extension under section 304(d) of such Act \[29 U.S.C. 1084(d)\] and did not operate under such an extension during such 5-year period.
 

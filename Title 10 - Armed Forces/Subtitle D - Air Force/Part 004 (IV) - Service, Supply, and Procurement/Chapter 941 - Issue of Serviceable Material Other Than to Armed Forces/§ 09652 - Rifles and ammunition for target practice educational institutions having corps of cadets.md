@@ -4,7 +4,7 @@
 
 (b) The institutions to which property is lent under subsection (a) shall use it for target practice, take proper care of it, and return it when required.
 
-(c) The Secretary shall prescribe regulations to carry out this section, containing such other requirements as he considers necessary to safeguard the interests of the United States.
+(c) The Secretary shall prescribe regulations to carry out this section, containing such otherrequirements as he considers necessary to safeguard the interests of the United States.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 582.)
 

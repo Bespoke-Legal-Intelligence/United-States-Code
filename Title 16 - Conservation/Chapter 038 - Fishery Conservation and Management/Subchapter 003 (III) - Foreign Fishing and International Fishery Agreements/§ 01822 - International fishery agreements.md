@@ -24,7 +24,7 @@ The Secretary of State, in cooperation with the Secretary, shall initiate, promp
 
 #### (c) International fishery agreements
 
-No international fishery agreement (other than a treaty) which pertains to foreign fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area—
+No international fishery agreement (other than a treaty) which pertains to foreign fishingwithin the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area—
 
 &emsp;(1) which is in effect on June 1, 1976, may thereafter be renewed, extended, or amended; or
 
@@ -88,7 +88,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 &emsp;(A) Russia will give United States fishing vessels the opportunity to conduct traditional fisheries within waters claimed by the United States prior to the conclusion of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, west of the maritime boundary, including the western special area described in Article 3(2) of the Agreement;
 
-&emsp;(B) the United States will give fishing vessels of Russia the opportunity to conduct traditional fisheries within waters claimed by the Union of Soviet Socialist Republics prior to the conclusion of the Agreement referred to in subparagraph (A), east of the maritime boundary, including the eastern special areas described in Article 3(1) of the Agreement;
+&emsp;(B) the United States will give fishing vessels of Russia the opportunity to conduct traditional fisheries within waters claimed by theUnion of Soviet Socialist Republics prior to the conclusion of the Agreement referred to in subparagraph (A), east of the maritime boundary, including the eastern special areas described in Article 3(1) of the Agreement;
 
 &emsp;(C) catch data shall be made available to the government of the country exercising fisheries jurisdiction over the waters in which the catch occurred; and
 
@@ -286,7 +286,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 “The Congress finds that—
 
-&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement anddeath of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
+&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
 
 &emsp;“(2) there is a pressing need for detailed and reliable information on the number of marine resources that become entangled and die in actively fished driftnets and in driftnets that are lost, abandoned, or discarded; and
 
@@ -368,7 +368,7 @@ Information From Foreign Governments.—The Secretary, through the Secretary of 
 
 “(a)
 
-Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
+Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department inwhich the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
 
 &emsp;“(1) the effective monitoring and detection of violations;
 
@@ -394,7 +394,7 @@ Alternative Driftnet Materials.—The Secretary, in consultation with such other
 
 “(c)
 
-Driftnet Bounty System.—The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of and develop appropriate recommendations for the implementation of a driftnet bounty system to pay persons who retrieve from the exclusive economic zone and deposit with theSecretary lost, abandoned, and discarded driftnet and other plastic fishing material.
+Driftnet Bounty System.—The Secretary, in consultation with such other persons as may be appropriate, shall evaluate the feasibility of and develop appropriate recommendations for the implementation of a driftnet bounty system to pay persons who retrieve from the exclusive economic zone and deposit with the Secretary lost, abandoned, and discarded driftnet and other plastic fishing material.
 
 “(d)
 

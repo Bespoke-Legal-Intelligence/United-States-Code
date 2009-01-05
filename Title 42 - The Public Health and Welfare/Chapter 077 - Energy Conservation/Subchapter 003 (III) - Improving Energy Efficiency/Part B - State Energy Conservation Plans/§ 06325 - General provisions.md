@@ -10,7 +10,7 @@ In carrying out the provisions of sections 6322 and 6324 of this title and subse
 
 #### (c) Annual report
 
-The Secretary shall, as part of the report required under section 7267 of this title, report to the President and the Congress, and shall furnish copies of such report to the Governor of each State, on the operation of the program under this part. Such report shall include an estimate of the energy conservation achieved, the degree of State participation and achievement, a description of innovative conservation programs undertaken by individual States, and the recommendations of the Secretary, if any, for additional legislation.
+The Secretary shall, as part of the report required under section 7267 of this title, report to the President and the Congress, and shall furnish copies of such report to the Governor of each State, on the operation of the program under this part. Such report shall include an estimate of the energy conservation achieved, thedegree of State participation and achievement, a description of innovative conservation programs undertaken by individual States, and the recommendations of the Secretary, if any, for additional legislation.
 
 #### (d) Duty of Federal Trade Commission to prevent unfair or deceptive practices or acts relating to implementation of energy measures
 
@@ -62,7 +62,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (9) The Board shall continue until terminated by law.
 
-(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617; Pub. L. 110–140, title V, §531, Dec. 19, 2007, 121 Stat. 1665.)
+(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L.109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617; Pub. L. 110–140, title V, §531, Dec. 19, 2007, 121 Stat. 1665.)
 
 #### References in Text
 

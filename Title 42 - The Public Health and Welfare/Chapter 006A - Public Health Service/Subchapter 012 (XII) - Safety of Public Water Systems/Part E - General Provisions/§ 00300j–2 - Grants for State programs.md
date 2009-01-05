@@ -14,7 +14,7 @@
 
 (3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of the grant recipient's costs (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, a public water system supervision program.
 
-(4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided</i>, That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And provided further</i>, That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
+(4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided</i>, That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And pro</i><i>vided further</i>, That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
 
 (5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibition may only be waived if, in the judgment of the Administrator—
 
@@ -109,7 +109,7 @@ For purposes of this section:
 
 2004—Subsec. (d)(4). Pub. L. 108–328 substituted “2003 through 2010” for “1997 through 2003”.
 
-1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to beappropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
 “Fiscal year:
 

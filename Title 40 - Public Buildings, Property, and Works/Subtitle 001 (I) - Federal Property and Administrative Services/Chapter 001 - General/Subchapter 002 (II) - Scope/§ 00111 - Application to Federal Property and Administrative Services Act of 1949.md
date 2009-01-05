@@ -70,7 +70,7 @@ Historical and Revision Notes
 
 (no source).
 
-This section is added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. In the positive law codification of title 40, most of the Federal Property and Administrative Services Act of 1949 is restated as subtitle I of title 40. However, title III of the Act, which is outside the scope of the positive law codification, remains classified to the United States Code as 41 U.S.C. 251 et seq. Where the words “this Act” are restated, substituting the words “this subtitle” does not yield an accurate literal translation because “this subtitle” does not include title III of the Act. This section does not subject any provision of law to title III of the Act if that provision was not subject to title III prior to the positive law codification of title 40.
+This section is added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. In the positive law codification of title 40, most of the Federal Property and Administrative Services Act of 1949 is restated as subtitle I of title 40. However, title III of the Act, which is outside the scope of the positive law codification, remains classified to the United States Code as 41 U.S.C. 251 et seq. Where the words “this Act” are restated, substituting the words “this subtitle” does not yield an accurate literal translation because “this subtitle” does not include title III of the Act. This section does not subject any provision of lawto title III of the Act if that provision was not subject to title III prior to the positive law codification of title 40.
 
 #### References in Text
 

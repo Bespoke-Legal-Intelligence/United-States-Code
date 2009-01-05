@@ -6,25 +6,27 @@ The Farm Credit Banks may provide technical assistance to borrowers, members, an
 
 #### (b) Authority to pass along cost of insurance premiums
 
-Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under section 2279b of this title, and other financing institution described in section 2015(b)(1)(B) of this title in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V of this chapter. The assessment on any such association or other financing institution for any calendar year shall be computed on the same basis as is used to compute the premium payment and shall not exceed the sum of—
+#### (1) In general
 
-&emsp;(1) the annual average principal outstanding for such year on loans made by the association, or on loans made by the other financing institution and funded by or discounted with the Farm Credit Bank, that are in accrual status, excluding the guaranteed portions of government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) provided for in paragraph (3) and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title) provided for in paragraph (4), multiplied by 0.0015;
+&emsp;Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under section 2279b of this title, and other financing institution described in section 2015(b)(1)(B) of this title in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V of this chapter.
 
-&emsp;(2) the annual average principal outstanding for such year on loans made by the association, or on loans made by the other financing institution and funded by or discounted with the Farm Credit Bank, that are in nonaccrual status, multiplied by 0.0025;
+#### (2) Computation
 
-&emsp;(3)(A) the annual average principal outstanding for such year on the guaranteed portions of Federal government-guaranteed loans (as so defined) made by the association, or by the other financing institution and funded by or discounted with the Farm Credit Bank, that are in accrual status, multiplied by 0.00015; and
+&emsp;The assessment on any association or other financing institution described in paragraph (1) for any period shall be computed in an equitable manner, as determined by the Corporation.
 
-&emsp;(B) the annual average principal outstanding for such year on the guaranteed portions of State government-guaranteed loans (as so defined) made by the association, or by the other financing institution and funded by or discounted with the Farm Credit Bank, that are in accrual status, multiplied by 0.0003; and
+(Pub. L. 92–181, title I, §1.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1628; amended Pub. L. 100–399, title IV, §401(k), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–220, §6(b)(1), (2), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 104–105, title II, §215(a)(2)(C), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, §5403(a)(2)(A), May 13, 2002, 116 Stat. 350; Pub. L. 110–234, title V, §5401(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5401(a), June 18, 2008, 122 Stat. 1664, 1915.)
 
-&emsp;(4) the annual average principal outstanding for such year on the guaranteed portions of Government Sponsored Enterprise-guaranteed loans (as so defined) made by the association, or by the other financing institution and funded by or discounted with the Farm Credit Bank, that are in accrual status, multiplied by a factor, not to exceed 0.0015, determined by the Corporation for the purpose of setting the premium for such guaranteed portions of loans under section 2277a–4(a)(1)(D) of this title.
+#### Codification
 
-(Pub. L. 92–181, title I, §1.12, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1628; amended Pub. L. 100–399, title IV, §401(k), Aug. 17, 1988, 102 Stat. 996; Pub. L. 101–220, §6(b)(1), (2), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 104–105, title II, §215(a)(2)(C), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, §5403(a)(2)(A), May 13, 2002, 116 Stat. 350.)
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 2020, Pub. L. 92–181, title I, §1.12, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, §109, Dec. 24, 1980, 94 Stat. 3439, related to loans through associations or agents, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §5401(a), designated first sentence as par. (1), inserted heading, added par. (2), and struck out former second sentence which related to computation of the assessment on the same basis as is used to compute the premium payment and provided formula to calculate a maximum amount.
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §5403(a)(2)(A)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title) provided for in paragraph (4)” after “government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) provided for in paragraph (3)”.
 
@@ -45,6 +47,10 @@ Subsec. (b)(2). Pub. L. 101–220, §6(b)(2)(B), inserted “funded by or” bef
 Subsec. (b)(3). Pub. L. 101–220, §6(b)(2)(C), added par. (3).
 
 1988—Subsec. (a). Pub. L. 100–399 designated existing provision as subsec. (a), inserted heading, substituted “directors of the bank” for “directors of each district bank”, and added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 2002 Amendment
 

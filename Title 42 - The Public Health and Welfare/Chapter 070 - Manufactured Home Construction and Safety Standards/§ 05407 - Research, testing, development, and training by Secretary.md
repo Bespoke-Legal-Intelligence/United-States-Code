@@ -12,7 +12,7 @@ The Secretary shall conduct research, testing, development, and training necessa
 
 &emsp;(4) encouraging the government-sponsored housing entities to actively develop and implement secondary market securitization programs for the FHA manufactured home loans and those of other loan programs, as appropriate, thereby promoting the availability of affordable manufactured homes to increase homeownership for all people in the United States; and
 
-&emsp;(5) reviewing the programs for FHA manufactured home loans and developing anychanges to such programs to promote the affordability of manufactured homes, including changes in loan terms, amortization periods, regulations, and procedures.
+&emsp;(5) reviewing the programs for FHA manufactured home loans and developing any changes to such programs to promote the affordability of manufactured homes, including changes in loan terms, amortization periods, regulations, and procedures.
 
 #### (b) Contracts and grants with States, interstate agencies, and independent institutions
 
@@ -42,7 +42,7 @@ The National Housing Act, referred to in subsec. (c)(2), is act June 27, 1934, c
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in subsec. (a)(1) to (3), changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to “mobile homes”, wherever appearing in subsec. (a)(1) to (3), changed to “manufactured homes”in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
 
 #### Amendments
 

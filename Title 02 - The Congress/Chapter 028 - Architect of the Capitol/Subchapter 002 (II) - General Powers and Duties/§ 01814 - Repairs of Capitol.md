@@ -8,7 +8,7 @@ All improvements, alterations, additions, and repairs of the Capitol Building sh
 
 Section was classified to section 166 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-R.S. §1816 derived from Res. Apr. 16, 1862, No. 28, 12 Stat. 617; acts Mar. 30, 1867, ch. 24, §2, 15 Stat. 13; July 20, 1868, ch. 177, §1, 15 Stat. 115; Mar. 3, 1869, ch. 121, §1, 15 Stat. 283, 284; Mar. 3, 1871, ch. 114, §1, 16 Stat. 500; Aug. 15, 1876, ch. 287, 19 Stat. 147.
+R.S. §1816 derived from Res. Apr. 16, 1862, No. 28, 12 Stat. 617; acts Mar. 30, 1867, ch. 24, §2, 15 Stat. 13; July20, 1868, ch. 177, §1, 15 Stat. 115; Mar. 3, 1869, ch. 121, §1, 15 Stat. 283, 284; Mar. 3, 1871, ch. 114, §1, 16 Stat. 500; Aug. 15, 1876, ch. 287, 19 Stat. 147.
 
 Provision of R.S. §1816 relating to purchase of furniture or carpets for House or Senate is classified to section 2184 of this title.
 
@@ -46,7 +46,7 @@ Pub. L. 102–392, title III, §305, Oct. 6, 1992, 106 Stat. 1721, as amended by
 
 “(b) As used in this section—
 
-&emsp;“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, theBotanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
+&emsp;“(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
 
 &emsp;“(2) the term ‘telecommunications system’ means an electronic system for voice, data, or image communication, including any associated cable and switching equipment.
 

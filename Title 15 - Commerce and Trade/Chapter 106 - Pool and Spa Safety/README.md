@@ -9,6 +9,7 @@
 | [8005\.](%C2%A7%2008005%20-%20Minimum%20State%20law%20requirements.md) | Minimum State law requirements. |
 | [8006\.](%C2%A7%2008006%20-%20Education%20program.md) | Education program. |
 | [8007\.](%C2%A7%2008007%20-%20CPSC%20report.md) | CPSC report. |
+| [8008\.](%C2%A7%2008008%20-%20Applicability.md) | Applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,3 +25,4 @@
 - [&sect; 08005 - Minimum State law requirements](%C2%A7%2008005%20-%20Minimum%20State%20law%20requirements.md)
 - [&sect; 08006 - Education program](%C2%A7%2008006%20-%20Education%20program.md)
 - [&sect; 08007 - CPSC report](%C2%A7%2008007%20-%20CPSC%20report.md)
+- [&sect; 08008 - Applicability](%C2%A7%2008008%20-%20Applicability.md)

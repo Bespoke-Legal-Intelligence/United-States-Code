@@ -134,7 +134,7 @@
 
 #### (1) In general
 
-&emsp;Any portion of an individual's GST exemption which has not been allocated within thetime prescribed by subsection (a) shall be deemed to be allocated as follows—
+&emsp;Any portion of an individual's GST exemption which has not been allocated within the time prescribed by subsection (a) shall be deemed to be allocated as follows—
 
 &emsp;&emsp;(A) first, to property which is the subject of a direct skip occurring at such individual's death, and
 
@@ -160,7 +160,7 @@
 
 2001—Subsec. (b)(2). Pub. L. 107–16, §§561(b), 901, temporarily substituted “or subsection (c)(1)” for “with respect to a prior direct skip”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignated former subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
+Subsecs. (c) to (e). Pub. L. 107–16, §§561(a), 901, temporarily added subsecs. (c) and (d) and redesignatedformer subsec. (c) as (e). See Effective and Termination Dates of 2001 Amendment note below.
 
 1988—Subsec. (b)(2). Pub. L. 100–647 substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 

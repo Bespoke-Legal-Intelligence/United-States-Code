@@ -36,7 +36,7 @@ The funds appropriated by the Act of July 9, 1968 (82 Stat. 307), to pay the jud
 
 (2) The lands withdrawn by the Secretary pursuant to paragraph (1) of this subsection shall be located in the southeastern Alaska region and shall be of similar character and comparable value, to the extent possible, to those of the Chilkat Valley surrounding the village of Klukwan. Such withdrawal shall be made within six months of October 4, 1976, and the Village Corporation for the village of Klukwan shall select, within one year from the time that the withdrawal is made, and be conveyed, twenty-three thousand and forty acres. None of the lands withdrawn by the Secretary for selection by the Village Corporation for the village of Klukwan shall have been selected by, or be subject to an outstanding nomination for selection by, any other Native Corporation organized pursuant to this chapter, or located on Admiralty Island.
 
-(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150; Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
+(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150;Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ The United States Court of Claims, referred to in subsec. (c), and the United St
 
 Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which enacted section 1211 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
 
-Act of June 18, 1934, as amended by the Act of May 1, 1936, referred to in subsec. (d)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended by act May 1, 1936, ch. 254, §1, 49 Stat. 1250, popularly known as the Indian Reorganization Act, is classified generally to subchapter V\(§461 et seq.) of chapter 14 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934, as amended by the Act of May 1, 1936, referred to in subsec. (d)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended by act May 1, 1936, ch. 254, §1, 49 Stat. 1250, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
 Act of September 2, 1957, referred to in subsec. (d)(1), is Pub. L. 85–271, Sept. 2, 1957, 71 Stat. 596, which is not classified to the Code.
 

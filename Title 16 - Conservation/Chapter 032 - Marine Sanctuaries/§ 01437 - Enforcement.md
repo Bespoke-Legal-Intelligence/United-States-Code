@@ -64,7 +64,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) In general
 
-&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the UnitedStates pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
+&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
 
 #### (2) Application of the customs laws
 
@@ -96,7 +96,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (2) Liability for costs
 
-&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
+&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation orpermit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 
 #### (g) Subpoenas
 

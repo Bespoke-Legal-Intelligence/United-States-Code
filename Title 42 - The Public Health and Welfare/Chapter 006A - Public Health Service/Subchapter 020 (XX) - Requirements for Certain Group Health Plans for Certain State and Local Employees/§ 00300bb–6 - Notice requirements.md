@@ -2,7 +2,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section\[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
+Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

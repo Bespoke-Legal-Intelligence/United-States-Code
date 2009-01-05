@@ -100,6 +100,10 @@
 
 &emsp;&emsp;This paragraph shall apply only to owner-financing provided after the date of the enactment of this paragraph and before January 1, 2011.
 
+#### (8) Inclusion of certain counties
+
+&emsp;For purposes of this subsection, the Gulf Opportunity Zone includes Colbert County, Alabama and Dallas County, Alabama.
+
 #### (b) Advance refundings of certain tax-exempt bonds
 
 #### (1) In general
@@ -156,7 +160,7 @@
 
 #### (B) Gulf Opportunity housing amount
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “Gulf Opportunity housing amount” means, for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
+&emsp;&emsp;For purposes of subparagraph (A), the term “Gulf Opportunity housing amount” means,for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
 
 #### (C) Allocations treated as made first from additional allocation amount for purposes of determining carryover
 
@@ -172,7 +176,7 @@
 
 &emsp;&emsp;For purposes of section 42, in the case of property placed in service during the period beginning on January 1, 2006, and ending on December 31, 2010, the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
 
-&emsp;&emsp;&emsp;(i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii), and
+&emsp;&emsp;&emsp;(i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii),<sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) shall not be taken into account for purposes of applying the limitation under subclause (II) of such section.
 
@@ -192,7 +196,7 @@
 
 &emsp;&emsp;(B) in the Gulf Opportunity Zone, and
 
-&emsp;&emsp;(C) in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)),
+&emsp;&emsp;(C) in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)),<sup>1</sup>
 
 > &emsp;section 42 shall be applied by substituting “national nonmetropolitan median gross income (determined under rules similar to the rules of section 142(d)(2)(B))” for “area median gross income” in subparagraphs (A) and (B) of section 42(g)(1).
 
@@ -202,7 +206,7 @@
 
 #### (6) Community development block grants not taken into account in determining if buildings are federally subsidized
 
-&emsp;For purpose of applying section 42(i)(2)(D) to any building which is placed in service in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone during the period beginning on January 1, 2006, and ending on December 31, 2010, a loan shall not be treated as a below market Federal loan solely by reason of any assistance provided under section 106, 107, or 108 of the Housing and Community Development Act of 1974 by reason of section 122 of such Act or any provision of the Department of Defense Appropriations Act, 2006, or the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006.
+&emsp;For purpose of applying section 42(i)(2)(D) <sup>1</sup> to any building which is placed in service in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone during the period beginning on January 1, 2006, and ending on December 31, 2010, a loan shall not be treated as a below market Federal loan solely by reason of any assistance provided under section 106, 107, or 108 of the Housing and Community Development Act of 1974 by reason of section 122 of such Act or any provision of the Department of Defense Appropriations Act, 2006, or the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006.
 
 #### (7) Definitions
 
@@ -260,9 +264,9 @@
 
 &emsp;For purposes of this subsection, rules similar to the rules of subparagraph (E) of section 168(k)(2) shall apply, except that such subparagraph shall be applied—
 
-&emsp;&emsp;(A) by substituting “August 27, 2005” for “September 10, 2001” each place it appears therein,
+&emsp;&emsp;(A) by substituting “August 27, 2005” for “December 31, 2007” each place it appears therein,
 
-&emsp;&emsp;(B) by substituting “January 1, 2008” for “January 1, 2005” in clause (i) thereof, and
+&emsp;&emsp;(B) without regard to “and before January 1, 2009” in clause (i) thereof, and
 
 &emsp;&emsp;(C) by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
 
@@ -299,6 +303,10 @@
 #### (D) Only pre-January 1, 2010, basis of real property eligible for additional allowance
 
 &emsp;&emsp;In the case of property which is qualified Gulf Opportunity Zone property solely by reason of subparagraph (B)(ii)(I), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2010.
+
+#### (E) Exception for bonus depreciation property under section 168(k)
+
+&emsp;&emsp;The term “specified Gulf Opportunity Zone extension property” shall not include any property to which section 168(k) applies.
 
 #### (e) Increase in expensing under section 179
 
@@ -368,7 +376,7 @@ With respect to any qualified environmental remediation expenditure (as defined 
 
 #### (h) Increase in rehabilitation credit
 
-In the case of qualified rehabilitation expenditures (as defined in section 47(c)) paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2008, with respect to any qualified rehabilitated building or certified historic structure (as defined in section 47(c)) located in the Gulf Opportunity Zone, subsection (a) of section 47 (relating to rehabilitation credit) shall be applied—
+In the case of qualified rehabilitation expenditures (as defined in section 47(c)) paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2009, with respect to any qualified rehabilitated building or certified historic structure (as defined in section 47(c)) located in the Gulf Opportunity Zone, subsection (a) of section 47 (relating to rehabilitation credit) shall be applied—
 
 &emsp;(1) by substituting “13 percent” for “10 percent” in paragraph (1) thereof, and
 
@@ -580,7 +588,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under part IV of subchapter A (other than subpart C and this subsection).
+&emsp;&emsp;(B) the sum of the credits allowable under part IV of subchapter A (other than subparts C and I and this subsection).
 
 #### (4) Gulf tax credit bond
 
@@ -666,7 +674,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
+&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g)shall apply with respect to the credit allowable under paragraph (1).
 
 #### (ii) No basis adjustment
 
@@ -766,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873.)
 
 #### References in Text
 
@@ -774,13 +782,35 @@ The date of the enactment of this section, referred to in subsecs. (a)(2)(D), (b
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(7)(C), is the date of enactment of Pub. L. 110–28, which was approved May 25, 2007.
 
+Subpar. (C) of section 42(d)(5), referred to in subsec. (c)(3)(A)(i), (4)(C), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
+
+Subpar. (D) of section 42(i)(2), referred to in subsec. (c)(6), was repealed by Pub. L. 110–289, div. C, title I, §3002(b)(2)(C), July 30, 2008, 122 Stat. 2880.
+
 Sections 106, 107, 108, and 122 of the Housing and Community Development Act of 1974, referred to in subsec. (c)(6), are classified to sections 5306, 5307, 5308, and 5321, respectively, of Title 42, The Public Health and Welfare.
 
 The Department of Defense Appropriations Act, 2006, referred to in subsec. (c)(6), is div. A of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2680. For complete classification of this Act to the Code, see Tables.
 
 The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is Pub. L. 109–234, June 15, 2006, 120 Stat. 418. For complete classification of this Act to the Code, see Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(8). Pub. L. 110–289, §3082(c)(1), added par. (8).
+
+Subsec. (d)(3)(A). Pub. L. 110–185, §103(c)(9)(A), substituted “December 31, 2007” for “September 10, 2001”.
+
+Subsec. (d)(3)(B). Pub. L. 110–289, §3082(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “by substituting ‘January 1, 2008’ for ‘January 1, 2009’ in clause (i) thereof, and”.
+
+Pub. L. 110–185, §103(c)(9)(B), substituted “January 1, 2009” for “January 1, 2005”.
+
+Subsec. (d)(6)(E). Pub. L. 110–185, §103(c)(10), added subpar. (E).
+
+Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008” in introductory provisions.
+
+Subsec. (<i>l</i>)(3)(B). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
 
 2007—Subsec. (a)(7). Pub. L. 110–28, §8223, added par. (7).
 
@@ -804,9 +834,23 @@ Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted “without regard to subse
 
 Subsec. (<i>l</i>)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted “1397E(<i>l</i>)” for “1397E(i)”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
+Pub. L. 110–289, div. C, title III, §3082(b)(2), July 30, 2008, 122 Stat. 2907, provided that: “The amendment made by this subsection \[amending this section\] shall apply to property placed in service after December 31, 2007.”
+
+Pub. L. 110–289, div. C, title III, §3082(c)(2), July 30, 2008, 122 Stat. 2908, provided that: ‘The amendment made by this subsection \[amending this section\] shall take effect as if included in the provisions of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\] to which it relates.”
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15316(c)(1) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of this title.
+
+Amendment by Pub. L. 110–185 applicable to property placed in service after December 31, 2007, in taxable years ending after such date, see section 103(d) of Pub. L. 110–185, set out as a note under section 168 of this title.
+
 #### Effective Date of 2006 Amendment
 
-Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section 107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
+Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
 
 Pub. L. 109–432, div. A, title I, §120(c), Dec. 20, 2006, 120 Stat. 2943, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 101 of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\].”
 
@@ -821,6 +865,8 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 “(2)
 
 Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

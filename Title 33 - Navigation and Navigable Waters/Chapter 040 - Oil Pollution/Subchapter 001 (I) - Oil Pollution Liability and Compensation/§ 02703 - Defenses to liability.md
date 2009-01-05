@@ -38,7 +38,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
-&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
+&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) ofparagraph (2) is established by the responsible party by a preponderance of the evidence; and
 
 &emsp;&emsp;(C) the responsible party complies with paragraph (3).
 
@@ -144,7 +144,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (6) Limitation on defense
 
-&emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threatof discharge of oil which is the subject of the action relating to the facility.
+&emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
 (Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072.)
 

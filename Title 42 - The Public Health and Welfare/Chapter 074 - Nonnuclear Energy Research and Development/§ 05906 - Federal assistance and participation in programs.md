@@ -22,7 +22,7 @@ In carrying out the objectives of this chapter, the Secretary may utilize variou
 
 Joint Federal-industry corporations proposed for congressional authorization pursuant to this chapter shall be subject to the provisions of section 5908 of this title and shall conform to the following guidelines except as otherwise authorized by Congress:
 
-&emsp;(1) Each such corporation may design, construct, operate, and maintain one or moreexperimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, as may be necessary for the design of the full-scale facility.
+&emsp;(1) Each such corporation may design, construct, operate, and maintain one or more experimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, as may be necessary for the design of the full-scale facility.
 
 &emsp;(2) Each corporation shall have—
 
@@ -38,7 +38,7 @@ Joint Federal-industry corporations proposed for congressional authorization pur
 
 &emsp;(5) The estimated Federal share of the construction, operation, and maintenance cost over the life of each corporation shall be determined in order to facilitate a single congressional authorization of the full amount at the time of establishment of the corporation.
 
-&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such other factors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
+&emsp;(6) The Federal share of the cost of each such corporation shall reflect (A) the technical and economic risk of the venture, (B) the probability of any financial return to the non-Federal participants arising from the venture, (C) the financial capability of the potential non-Federal participants, and (D) such otherfactors as the Secretary may set forth in proposing the corporation: <i>Provided</i>, That in no instance shall the Federal share exceed 90 per centum of the cost.
 
 &emsp;(7) No such corporation shall be established unless previously authorized by specific legislation enacted by the Congress.
 

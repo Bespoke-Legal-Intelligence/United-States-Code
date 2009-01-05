@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Administration a Center for Mental Health Services (hereafter in this section referred to as the “Center”). The Center shall be headed by a Director (hereafter in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience or academic qualifications in the provision of mental health services or in the evaluation of mental health service systems.
+There is established in the Administration a Center for Mental Health Services (hereafter inthis section referred to as the “Center”). The Center shall be headed by a Director (hereafter in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience or academic qualifications in the provision of mental health services or in the evaluation of mental health service systems.
 
 #### (b) Duties
 
@@ -36,7 +36,7 @@ The Director of the Center shall—
 
 &emsp;(12) provide technical assistance to public and private entities that are providers of mental health services;
 
-&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental HealthCenters Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
 
 &emsp;(14) conduct surveys with respect to mental health, such as the National Reporting Program; and
 
@@ -74,7 +74,7 @@ Subsec. (b)(10) to (15). Pub. L. 106–310, §3112(c)(1), redesignated pars. (9)
 
 #### Effective Date
 
-Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c),\(d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Mental Health Services for Individuals in Correctional Facilities
 

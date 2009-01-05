@@ -36,7 +36,7 @@ Duties.—A Reserve on active duty under subsection (a) may perform the followin
 
 (c)
 
-Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving any of the following:
+Operations Relating to Defense Against Weapons of Mass Destruction and TerroristAttacks.—(1) Notwithstanding subsection (b), a Reserve on active duty as described in subsection (a), or a Reserve who is a member of the National Guard serving on full-time National Guard duty under section 502(f) of title 32 in connection with functions referred to in subsection (a), may, subject to paragraph (3), perform duties in support of emergency preparedness programs to prepare for or to respond to any emergency involving any of the following:
 
 &emsp;(A) The use or threatened use of a weapon of mass destruction (as defined in section 12304(i)(2) <sup>1</sup> of this title) in the United States.
 

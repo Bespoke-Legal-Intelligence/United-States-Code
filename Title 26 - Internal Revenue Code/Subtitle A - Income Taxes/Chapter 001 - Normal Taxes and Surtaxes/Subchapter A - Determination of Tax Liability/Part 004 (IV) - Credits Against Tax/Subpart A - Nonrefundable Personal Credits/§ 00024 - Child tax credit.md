@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer an amount equal to $1,000.
+There shall be allowed as a credit against the tax imposed by this chapter for the taxable year with respect to each qualifying child of the taxpayer for which the taxpayer is allowed a deduction under section 151 an amount equal to $1,000.
 
 #### (b) Limitations
 
@@ -28,7 +28,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 &emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 23 and 25B) and section 27 for the taxable year.
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section and sections 23, 25B, 25D, and 30D) and section 27 for the taxable year.
 
 #### (c) Qualifying child
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Coordination with special refund of social security taxes
 
-&emsp;&emsp;The term “social security taxes” shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section 6413(c).
+&emsp;&emsp;The term “social security taxes” shall not include any taxes to the extent the taxpayeris entitled to a special refund of such taxes under section 6413(c).
 
 #### (C) Special rule
 
@@ -94,6 +94,10 @@ For purposes of this section—
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
+#### (4) Special rule for 2008
+
+&emsp;Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500.
+
 #### (e) Identification requirement
 
 No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
@@ -102,13 +106,15 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979.)
 
-#### Child Tax Credit Adjustment for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of value in subsection (d)(1)(B)(i) of this section used in determining refundable amount for taxable years beginning in 2008, see section 3.04 of Revenue Pro</i><i>cedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by sections 106(f)(3) and 205(f) of Pub. L. 110–343, see Effective and Termination Dates of 2008 Amendment notes below.</i>
 
 <i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
@@ -123,6 +129,14 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–351 inserted “for which the taxpayer is allowed a deduction under section 151” after “of the taxpayer”.
+
+Subsec. (b)(3)(B). Pub. L. 110–343, §205(d)(1)(A), (f), temporarily substituted “25D, and 30D” for “and 25D”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Pub. L. 110–343, §106(e)(2)(B), (f)(3), temporarily substituted “, 25B, and 25D” for “and 25B”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Subsec. (d)(4). Pub. L. 110–343, §501(a), added par. (4).
 
 2007—Subsec. (d)(1)(B). Pub. L. 110–172, §11(c)(1)(A), substituted “the greater of” for “the excess (if any) of” in introductory provisions.
 
@@ -235,6 +249,24 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective and Termination Dates of 2008 Amendment
+
+Pub. L. 110–351, title V, §501(d), Oct. 7, 2008, 122 Stat. 3980, provided that: “The amendments made by this section \[amending this section and section 152 of this title\] shall apply to taxable years beginning after December 31, 2008.”
+
+Amendment by section 106(e)(2)(B) of title I of div. B of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, and subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 106(f)(1), (3) of Pub. L. 110–343, set out as a note under section 23 of this title.
+
+Pub. L. 110–343, div. B, title II, §205(e), (f), Oct. 3, 2008, 122 Stat. 3839, provided that:
+
+“(e)
+
+Effective Date.—The amendments made by this section \[enacting section 30D of this title and amending this section and sections 25, 25B, 26, 30B, 38, 1016, 1400C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 2008.
+
+“(f)
+
+Application of EGTRRA Sunset.—The amendment made by subsection (d)(1)(A) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates.”
+
+Pub. L. 110–343, div. C, title V, §501(b), Oct. 3, 2008, 122 Stat. 3876, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
 #### Effective Date of 2007 Amendment
 

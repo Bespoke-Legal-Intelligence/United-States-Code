@@ -16,7 +16,7 @@ No credit or refund of any amount to which subsection (a) applies shall be allow
 
 #### (c) Application of section
 
-This section shall apply only if the credit or refund is claimed on the grounds that anamount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
+This section shall apply only if the credit or refund is claimed on the grounds that an amount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
 
 &emsp;(1) any claim for drawback, and
 

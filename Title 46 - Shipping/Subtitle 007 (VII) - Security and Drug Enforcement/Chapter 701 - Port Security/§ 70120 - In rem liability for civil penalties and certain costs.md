@@ -20,15 +20,21 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(B) required handling of cargo or other items on board the vessel.
 
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705.)
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(<i>l</i>)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### Amendments
 
-2006—Pub. L. 109–304, §15(33)(B), directed renumbering identical to that made by Pub. L. 109–241, §901(<i>l</i>)(2). See below.
+2008—Pub. L. 110–181 repealed Pub. L. 109–304, §15(33)(B), (C). See 2006 Amendment notes below.
+
+2006—Pub. L. 109–304, §15(33)(B), which directed renumbering identical to that made by Pub. L. 109–241, §901(<i>l</i>)(2), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
 Pub. L. 109–241, §901(<i>l</i>)(2), renumbered section 70117 of this title, as added by Pub. L. 108–293, §802(a)(2), as this section.
 
-Subsec. (a). Pub. L. 109–304, §15(33)(C), directed amendment identical to that made by Pub. L. 109–241, §901(<i>l</i>)(3). See below.
+Subsec. (a). Pub. L. 109–304, §15(33)(C), which directed amendment identical to that made by Pub. L. 109–241, §901(<i>l</i>)(3), was repealed by Pub. L. 110–181. See Amendment note and Construction of 2006 Amendment note below.
 
 Pub. L. 109–241, §901(<i>l</i>)(3), substituted “section 70119” for “section 70120”.
+
+#### Construction of 2006 Amendment
+
+Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–181 to be treated as if never enacted, see section 3529(c)(2) of Pub. L. 110–181, set out as a note under section 9504 of Title 26, Internal Revenue Code.
 

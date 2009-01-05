@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-During fiscal years 1996 through 2002, the Secretary of Agriculture (referred to in this sectionas the “Secretary”) may enter into a contract with a producer on a farm who has contract acreage under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that is frequently flooded.
+During fiscal years 1996 through 2002, the Secretary of Agriculture (referred to in this section as the “Secretary”) may enter into a contract with a producer on a farm who has contract acreage under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] that is frequently flooded.
 
 #### (b) Duties of producers
 
@@ -28,7 +28,7 @@ In return for a contract entered into by a producer under this section, the Secr
 
 #### (d) Commodity Credit Corporation
 
-The Secretary shall carry out the program authorized by this section (other than subsection (e) of this section) through the Commodity Credit Corporation.
+The Secretary shall carry out the program authorized by this section (other than subsection\(e) of this section) through the Commodity Credit Corporation.
 
 #### (e) Additional payments
 

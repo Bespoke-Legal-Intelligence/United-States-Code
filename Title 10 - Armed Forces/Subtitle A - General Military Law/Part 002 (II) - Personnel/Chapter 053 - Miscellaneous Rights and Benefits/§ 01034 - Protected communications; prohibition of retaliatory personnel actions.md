@@ -24,7 +24,7 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 &emsp;&emsp;(v) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications.
 
-(2) Any action prohibited by paragraph (1) (including the threat to take any action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
+(2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
 
 (c)
 
@@ -42,7 +42,7 @@ Inspector General Investigation of Allegations of Prohibited Personnel Actions.�
 
 (C) If an allegation under paragraph (1) is submitted to an Inspector General within a military department and if the determination of that Inspector General under subparagraph (A) is that there is not sufficient evidence to warrant an investigation of the allegation, that Inspector General shall forward the matter to the Inspector General of the Department of Defense for review.
 
-(D) Upon determining that an investigation of an allegation under paragraph (1) is warranted,the Inspector General making the determination shall expeditiously investigate the allegation. In the case of a determination made by the Inspector General of the Department of Defense, that Inspector General may delegate responsibility for the investigation to an appropriate Inspector General within a military department.
+(D) Upon determining that an investigation of an allegation under paragraph (1) is warranted, the Inspector General making the determination shall expeditiously investigate the allegation. In the case of a determination made by the Inspector General of the Department of Defense, that Inspector General may delegate responsibility for the investigation to an appropriate Inspector General within a military department.
 
 (E) In the case of an investigation under subparagraph (D) within the Department of Defense, the results of the investigation shall be determined by, or approved by, the Inspector General of the Department of Defense (regardless of whether the investigation itself is conducted by the Inspector General of the Department of Defense or by an Inspector General within a military department).
 
@@ -84,7 +84,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;(A) may be provided with representation by a judge advocate if—
 
-&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there isprobable cause to believe that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in subsection (c)(2);
+&emsp;&emsp;(i) the Inspector General, in the report under subsection (e)(1), finds that there is probable cause to believe that a personnel action prohibited by subsection (b) has beentaken (or threatened) against the member with respect to a communication described in subsection (c)(2);
 
 &emsp;&emsp;(ii) the Judge Advocate General concerned determines that the case is unusually complex or otherwise requires judge advocate assistance to ensure proper presentation of the legal issues in the case; and
 
@@ -122,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933; Pub. L. 110–181, div. A, title X, §1063(a)(8), Jan. 28, 2008, 122 Stat. 322.)
 
 Historical and Revision Notes
 
@@ -145,6 +145,8 @@ The words “prevented”, “directly or indirectly”, “concerning any subje
 The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–181 inserted “unfavorable” before “action and the withholding”.
 
 2004—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications.”
 

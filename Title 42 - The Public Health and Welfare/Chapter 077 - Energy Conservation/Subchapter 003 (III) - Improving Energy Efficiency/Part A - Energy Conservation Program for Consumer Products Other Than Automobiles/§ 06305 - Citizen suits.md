@@ -36,7 +36,7 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Preservation of other relief
 
-Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of this part or any rule thereunder, or to seek any other relief (including relief against the Secretary or the Commission).
+Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of this part or any rule thereunder, or to seek any other relief (including relief against the Secretary or the Commission).
 
 #### (f) Compliance in good faith
 

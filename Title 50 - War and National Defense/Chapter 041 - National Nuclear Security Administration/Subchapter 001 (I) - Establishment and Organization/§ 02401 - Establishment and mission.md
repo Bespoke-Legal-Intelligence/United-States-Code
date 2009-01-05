@@ -40,7 +40,7 @@ In General.—Except as provided in subsection (b), the provisions of this title
 
 “(b)
 
-Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and 2483 of this title and sections 7144a to 7144c of Title 42, amending section 7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
+Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 2451 and 2483 of this title and sections 7144a to 7144c of Title 42, amending section7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
 “(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
 
@@ -116,7 +116,7 @@ Definition of Funds-In Agreement.—For the purposes of this section, the term �
 
 “(c)
 
-Submission to Congress.—Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report,along with the Secretary's recommendations for action and proposals for legislation to implement the recommendations.”
+Submission to Congress.—Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report, along with the Secretary's recommendations for action and proposals for legislation to implement the recommendations.”
 
 #### Definitions for Purposes of Pub. L. 106–398
 

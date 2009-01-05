@@ -22,7 +22,7 @@
 
 #### (1) Limitation relating to appropriate units
 
-&emsp;Each unit which is recognized as an appropriate unit for purposes of chapter 71 of title 5 as of the day before the effective date of thischapter (and any subdivision of any such unit) shall, if such unit (or subdivision) is transferred to the Department pursuant to this chapter, continue to be so recognized for such purposes, unless—
+&emsp;Each unit which is recognized as an appropriate unit for purposes of chapter 71 of title 5 as of the day before the effective date of this chapter (and any subdivision of any such unit) shall, if such unit (or subdivision) is transferred to the Department pursuant to this chapter, continue to be so recognized for such purposes, unless—
 
 &emsp;&emsp;(A) the mission and responsibilities of such unit (or subdivision) materially change; and
 

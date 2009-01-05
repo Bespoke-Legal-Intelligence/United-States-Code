@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in section 1779b of this title (referred to in this section and section 1779g of this title as a “claimant tribe”) in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with section 177 of title 25;
 
-&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to theDisclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
+&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
 
 &emsp;&emsp;(C) the documents described in section 1779c(b)(1)(D) of this title shall serve to identify the geographic scope of the interests extinguished by subparagraph (A).
 

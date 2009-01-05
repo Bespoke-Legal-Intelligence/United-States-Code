@@ -24,7 +24,7 @@ Six-Month Deadline.—Not later than six months after the effective date of this
 
 “(b)
 
-Regulations.—The Secretary concerned shall prescribe regulations for the establishment of relative seniority. The Secretary of the Army and the Secretary of the Air Force shall, in prescribing such regulations, provide for the consideration of both promotion service established under section 3360(b) or 8360(e) of title 10, United States Code, as in effect on the day before the effective date of this title, and total commissionedservice established under section 3360(c) or 8366(e) of such title, as in effect on the day before the effective date of this title. An officer placed on a reserve active-status list in accordance with this section shall be considered to have been on the list as of the effective date of this title.”
+Regulations.—The Secretary concerned shall prescribe regulations for the establishment of relative seniority. The Secretary of the Army and the Secretary of the Air Force shall, in prescribing such regulations, provide for the consideration of both promotion service established under section 3360(b) or 8360(e) of title 10, United States Code, as in effect on the day before the effective date of this title, and total commissioned service established under section 3360(c) or 8366(e) of such title, as in effect on the day before the effective date of this title. An officer placed on a reserve active-status list in accordance with this section shall be considered to have been on the list as of the effective date of this title.”
 
 #### Preservation of Relative Seniority Under Initial Establishment of Reserve Active-Status List
 

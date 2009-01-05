@@ -26,7 +26,7 @@
 
 (d) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1), the Secretary of the military department concerned may authorize qualified institutions to employ, as administrators and instructors in the program, retired officers and noncommissioned officers who are in receipt of retired pay, and members of the Fleet Reserve and Fleet Marine Corps Reserve, whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
-&emsp;(1) A retired member so employed is entitled to receive the member's retired or retainer pay without reduction by reason of any additional amount paid to the member by the institution concerned. In the case of payment of any such additional amount by the institution concerned, the Secretary of the military department concerned shall pay to that institution the amount equal to one-half of the amount paid to the retired member by the institution for any period, up to a maximum of one-half of the difference between the member's retired or retainer pay for that period and the active duty pay and allowances whichthe member would have received for that period if on active duty. Notwithstanding the limitation in the preceding sentence, the Secretary concerned may pay to the institution more than one-half of the additional amount paid to the retired member by the institution if (as determined by the Secretary) the institution is in an educationally and economically deprived area and the Secretary determines that such action is in the national interest. Payments by the Secretary concerned under this paragraph shall be made from funds appropriated for that purpose.
+&emsp;(1) A retired member so employed is entitled to receive the member's retired or retainer pay without reduction by reason of any additional amount paid to the member by the institution concerned. In the case of payment of any such additional amount by the institution concerned, the Secretary of the military department concerned shall pay to that institution the amount equal to one-half of the amount paid to the retired member by the institution for any period, up to a maximum of one-half of the difference between the member's retired or retainer pay for that period and the active duty pay and allowances which the member would have received for that period if on active duty. Notwithstanding the limitation in the preceding sentence, the Secretary concerned may pay to the institution more than one-half of the additional amount paid to the retired member by the institution if (as determined by the Secretary) the institution is in an educationally and economically deprived area and the Secretary determines that such action is in the national interest. Payments by the Secretary concerned under this paragraph shall be made from funds appropriated for that purpose.
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
@@ -50,9 +50,21 @@
 
 &emsp;(5) Notwithstanding any other provision of law, a member employed by a qualified institution pursuant to an authorization under this subsection is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211.)
+(f)(1) When determined by the Secretary of the military department concerned to be in the national interest and agreed upon by the institution concerned, the institution may reimburse a Junior Reserve Officers’ Training Corps instructor for moving expenses incurred by the instructor to accept employment at the institution in a position that the Secretary concerned determines is hard-to-fill for geographic or economic reasons.
+
+(2) As a condition on providing reimbursement under paragraph (1), the institution shall require the instructor to execute a written agreement to serve a minimum of two years of employment at the institution in the hard-to-fill position.
+
+(3) Any reimbursement provided to an instructor under paragraph (1) is in addition to the minimum instructor pay otherwise payable to the instructor.
+
+(4) The Secretary concerned shall reimburse an institution providing reimbursement to an instructor under paragraph (1) in an amount equal to the amount of the reimbursement paid by the institution under that paragraph. Any reimbursement provided by the Secretary concerned shall be provided from funds appropriated for that purpose.
+
+(5) The provision of reimbursement under paragraph (1) or (4) shall be subject to regulations prescribed by the Secretary of Defense for purposes of this subsection.
+
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, §635, Jan. 28, 2008, 122 Stat. 155.)
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
 2006—Subsec. (d). Pub. L. 109–364, §540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
 
@@ -103,6 +115,46 @@ Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (
 #### Savings Clause
 
 Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
+
+#### Increase in Number of Units of Junior Reserve Officers’ Training Corps
+
+Pub. L. 110–417, \[div. A\], title V, §548, Oct. 14, 2008, 122 Stat. 4466, provided that:
+
+“(a)
+
+Plan for Increase.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a plan to establish and support, not later than September 30, 2020, not less than 3,700 units of the Junior Reserve Officers’ Training Corps.
+
+“(b)
+
+Exceptions.—The requirement imposed in subsection (a) shall not apply—
+
+&emsp;“(1) if the Secretary fails to receive an adequate number or requests for Junior Reserve Officers’ Training Corps units by public and private secondary educational institutions; or
+
+&emsp;“(2) during a time of national emergency when the Secretaries of the military departments determine that funding must be allocated elsewhere.
+
+“(c)
+
+Cooperation.—The Secretary of Defense, as part of the plan to establish and support additional Junior Reserve Officers’ Training Corps units, shall work with local educational agencies to increase the employment in Junior Reserve Officers’ Training Corps units of retired members of the Armed Forces who are retired under chapter 61 of title 10, United States Code, especially members who were wounded or injured while deployed in a contingency operation.
+
+“(d)
+
+Report on Plan.—Upon completion of the plan, the Secretary of Defense shall provide a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
+
+&emsp;“(1) A description of how the Secretaries of the military departments expect to achieve the number of units of the Junior Reserve Officers’ Training Corps specified in subsection (a), including how many units will be established per year by each service.
+
+&emsp;“(2) The annual funding necessary to support the increase in units, including the personnel costs associated.
+
+&emsp;“(3) The number of qualified private and public schools, if any, who have requested a Junior Reserve Officers’ Training Corps unit that are on a waiting list.
+
+&emsp;“(4) Efforts to improve the increased distribution of units geographically across the United States.
+
+&emsp;“(5) Efforts to increase distribution of units in educationally and economically deprived areas.
+
+&emsp;“(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation.
+
+“(e)
+
+Time for Submission.—The plan required under subsection (a), along with the report required by subsection (d), shall be submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than March 31, 2009. The Secretary of Defense shall submit an up-dated \[sic\] report annually thereafter until the minimum number of units of the Junior Reserve Officers’ Training Corps specified in subsection (a) is achieved.”
 
 #### Expansion of Junior Reserve Officers’ Training Corps Program
 

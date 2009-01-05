@@ -102,7 +102,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(J) how the eligible agency will facilitate and coordinate communication on best practices among successful recipients of tech prep program grants under subchapter II and eligible recipients to improve program quality and student achievement;
 
-&emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at the postsecondary level in a manner that increases student academic and career and technical achievement; and
+&emsp;&emsp;(K) how funds will be used effectively to link academic and career and technical education at the secondary level and at thepostsecondary level in a manner that increases student academic and career and technical achievement; and
 
 &emsp;&emsp;(L) how the eligible agency will report on the integration of coherent and rigorous content aligned with challenging academic standards in career and technical education programs in order to adequately evaluate the extent of such integration;
 
@@ -150,7 +150,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(C) ensure that students who participate in such career and technical education programs are taught to the same challenging academic proficiencies as are taught to all other students;
 
-&emsp;(8) describes how the eligible agency will annually evaluate the effectiveness of such career and technical education programs, anddescribe, to the extent practicable, how the eligible agency is coordinating such programs to ensure nonduplication with other Federal programs;
+&emsp;(8) describes how the eligible agency will annually evaluate the effectiveness of such career and technical education programs, and describe, to the extent practicable, how the eligible agency is coordinating such programs to ensure nonduplication with other Federal programs;
 
 &emsp;(9) describes the eligible agency's program strategies for special populations, including a description of how individuals who are members of the special populations—
 
@@ -164,7 +164,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(A) the eligible agency's efforts to ensure that eligible recipients are given the opportunity to provide input in determining the State adjusted levels of performance described in section 2323 of this title; and
 
-&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does not accept the State adjusted levels of performance under section 2323(b)(3) of this title;
+&emsp;&emsp;(B) how the eligible agency, in consultation with eligible recipients, will develop a process for the negotiation of local adjusted levels of performance under section 2323(b)(4) of this title if an eligible recipient does notaccept the State adjusted levels of performance under section 2323(b)(3) of this title;
 
 &emsp;(11) provides assurances that the eligible agency will comply with the requirements of this chapter and the provisions of the State plan, including the provision of a financial audit of funds received under this chapter which may be included as part of an audit of other Federal or State programs;
 
@@ -212,7 +212,7 @@ The State plan shall include information that—
 
 #### (3) Consultation
 
-&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, tech prep education, and secondary career and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, and the State agency responsible for secondary education. Ifa State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
+&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult career and technical education, postsecondary career and technical education, tech prep education, and secondary career and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary career and technical education, and the State agency responsible for secondary education. If a State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
 
 #### (4) Timeframe
 
@@ -228,7 +228,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(2)(G), is Pub. L. 8
 
 #### Prior Provisions
 
-A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3102, related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2342, Pub. L. 88–210, title I, §122, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3102,related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2342, Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 

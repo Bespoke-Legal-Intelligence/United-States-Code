@@ -2,7 +2,7 @@
 
 Any person denied a firearm pursuant to subsection (s) or (t) of section 922—
 
-&emsp;(1) due to the provision of erroneous information relating to the person by any State orpolitical subdivision thereof, or by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act; or
+&emsp;(1) due to the provision of erroneous information relating to the person by any State or political subdivision thereof, or by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act; or
 
 &emsp;(2) who was not prohibited from receipt of a firearm pursuant to subsection (g) or (n) of section 922,
 

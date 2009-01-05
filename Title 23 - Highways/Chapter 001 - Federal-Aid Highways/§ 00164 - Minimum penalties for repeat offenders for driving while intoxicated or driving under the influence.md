@@ -24,9 +24,13 @@ Motor vehicle.—The term “motor vehicle” means a vehicle driven or drawn by
 
 Repeat intoxicated driver law.—The term “repeat intoxicated driver law” means a State law that provides, as a minimum penalty, that an individual convicted of a second or subsequent offense for driving while intoxicated or driving under the influence after a previous conviction for that offense shall—
 
-&emsp;&emsp;(A) receive a driver's license suspension for not less than 1 year;
+&emsp;&emsp;(A) receive—
 
-&emsp;&emsp;(B) be subject to the impoundment or immobilization of each of the individual's motor vehicles or the installation of an ignition interlock system on each of the motor vehicles;
+&emsp;&emsp;&emsp;(i) a driver's license suspension for not less than 1 year; or
+
+&emsp;&emsp;&emsp;(ii) a combination of suspension of all driving privileges for the first 45 days of the suspension period followed by a reinstatement of limited driving privileges for the purpose of getting to and from work, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual;
+
+&emsp;&emsp;(B) be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;
 
 &emsp;&emsp;(C) receive an assessment of the individual's degree of abuse of alcohol and treatment as appropriate; and
 
@@ -94,7 +98,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;(ii) the ratio that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to theState for Federal-aid highways and highway safety construction programs, bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
@@ -102,9 +106,15 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225.)
+(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606.)
 
 #### Amendments
+
+2008—Subsec. (a)(5)(A), (B). Pub. L. 110–244 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) receive a driver's license suspension for not less than 1 year;
+
+“(B) be subject to the impoundment or immobilization of each of the individual's motor vehicles or the installation of an ignition interlock system on each of the motor vehicles;”.
 
 2005—Subsec. (b)(3). Pub. L. 109–59 substituted “148” for “152”.
 

@@ -8,7 +8,7 @@ The Secretary may make competitive grants to colleges and universities in order 
 
 Grants under this section shall be directed to agricultural research, extension, and teaching activities that will—
 
-&emsp;(1) enhance the international content of the curricula in colleges and universities so as toensure that United States students acquire an understanding of the international dimensions and trade implications of their studies;
+&emsp;(1) enhance the international content of the curricula in colleges and universities so as to ensure that United States students acquire an understanding of the international dimensions and trade implications of their studies;
 
 &emsp;(2) ensure that United States scientists, extension agents, and educators involved in agricultural research and development activities outside of the United States have the opportunity to convey the implications of their activities and findings to their peers and students in the United States and to the users of agricultural research, extension, and teaching;
 
@@ -20,11 +20,21 @@ Grants under this section shall be directed to agricultural research, extension,
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2012.
 
-(Pub. L. 95–113, title XIV, §1459A, as added Pub. L. 105–185, title II, §229, June 23, 1998, 112 Stat. 545; amended Pub. L. 107–171, title VII, §7112, May 13, 2002, 116 Stat. 433.)
+(Pub. L. 95–113, title XIV, §1459A, as added Pub. L. 105–185, title II, §229, June 23, 1998, 112 Stat.545; amended Pub. L. 107–171, title VII, §7112, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7131, May 22, 2008, 122 Stat. 1228; Pub. L. 110–246, §4(a), title VII, §7131, June 18, 2008, 122 Stat. 1664, 1989.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–246, §7131, substituted “2012” for “2007”.
+
 2002—Subsec. (c). Pub. L. 107–171 substituted “2007” for “2002”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

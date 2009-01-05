@@ -1,0 +1,64 @@
+### §373. Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met
+
+(a)
+
+Repayment and Termination.—Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member's satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portion of the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service or eligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
+
+(b)
+
+Exceptions.—
+
+&emsp;(1)
+
+Discretion to provide exception to termination and repayment requirements.—Pursuant to the regulations prescribed to administer this section, the Secretary concerned may grant an exception to the repayment requirement and requirement to terminate the payment of unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that the imposition of the repayment and termination requirements with regard to a member of the uniformed services would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+
+&emsp;(2)
+
+Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts.—(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
+
+&emsp;&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
+
+&emsp;&emsp;(ii) shall require the payment to the member or the member's estate of the remainder of any bonus, incentive pay, or similar benefit that was not yet paid to the member, but to which the member was entitled immediately before the death, retirement, or separation of the member, and would be paid if not for the death, retirement, or separation of the member.
+
+&emsp;(B) Subparagraph (A) does not apply if the death or disability of the member is the result the member's misconduct.
+
+&emsp;(C) The amount to be paid under subparagraph (A)(ii) shall be equal to the full amount specified by the agreement or contract applicable to the bonus, incentive pay, or similar benefit as if the member continued to be entitled to the bonus, incentive pay, or similar benefit following the death, retirement, or separation.
+
+&emsp;(D) Amounts to be paid to a member or the member's estate under subparagraph (A)(ii) shall be paid in a lump sum not later than 90 days after the date of the death, retirement, or separation of the member, whichever applies.
+
+&emsp;(E) In this paragraph, the term “combat-related disability” has the meaning given that term in section 1413a(e) of title 10.
+
+(c)
+
+Effect of Bankruptcy.—An obligation to repay the United States under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after—
+
+&emsp;(1) the date of the termination of the agreement or contract on which the debt is based; or
+
+&emsp;(2) in the absence of such an agreement or contract, the date of the termination of the service on which the debt is based.
+
+(d)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
+
+&emsp;(2) The term “service”, as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
+
+&emsp;&emsp;(A) to a member in a regular or reserve component who remains on active duty or in an active status;
+
+&emsp;&emsp;(B) to perform duty in a specified skill, with or without a specified qualification or credential;
+
+&emsp;&emsp;(C) to perform duty in a specified assignment, location or unit; or
+
+&emsp;&emsp;(D) to perform duty for a specified period of time.
+
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 177; amended Pub. L. 110–417, \[div. A\], title VI, §651(c)(1), (2)(A), Oct. 14, 2008, 122 Stat. 4496, 4497.)
+
+#### Amendments
+
+2008—Pub. L. 110–417, §651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
+
+Subsec. (a). Pub. L. 110–417, §651(c)(1)(A), inserted “and Termination” after “Repayment” in heading and “, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement” in text before period at end.
+
+Subsec. (b). Pub. L. 110–417, §651(c)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The regulations prescribed to administer this section may specify procedures for determining the circumstances under which an exception to the required repayment may be granted.”
+

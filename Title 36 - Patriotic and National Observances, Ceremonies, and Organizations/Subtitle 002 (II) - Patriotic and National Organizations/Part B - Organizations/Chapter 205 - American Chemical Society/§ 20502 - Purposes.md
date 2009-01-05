@@ -6,7 +6,7 @@ The purposes of the corporation are—
 
 &emsp;(2) to promote research in chemical science and industry;
 
-&emsp;(3) to improve the qualifications and usefulness of chemists through high standards ofprofessional ethics, education, and attainments;
+&emsp;(3) to improve the qualifications and usefulness of chemists through high standards of professional ethics, education, and attainments;
 
 &emsp;(4) to increase and diffuse chemical knowledge; and
 

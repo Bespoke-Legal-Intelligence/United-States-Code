@@ -22,7 +22,7 @@ The Standards Board and the Board of Advisors may each secure directly from any 
 
 #### (c) Postal services
 
-The Standards Board and the Board of Advisors may use the United States mails in the same manner and under the same conditions as a department or agency of the Federal Government.
+The Standards Board and the Board of Advisors may use the United States mails in thesame manner and under the same conditions as a department or agency of the Federal Government.
 
 #### (d) Administrative support services
 

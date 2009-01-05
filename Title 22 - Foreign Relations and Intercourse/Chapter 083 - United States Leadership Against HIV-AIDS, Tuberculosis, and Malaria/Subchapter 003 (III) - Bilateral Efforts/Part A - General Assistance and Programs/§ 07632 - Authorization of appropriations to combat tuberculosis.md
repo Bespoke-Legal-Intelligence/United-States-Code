@@ -2,7 +2,7 @@
 
 #### (1) In general
 
-In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, such sums as may be necessary for each of the fiscal years 2004 through 2008 to carry out section 104B of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–3\].
+In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under anyother provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.<sup>1</sup> to carry out section 104B of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–3\].
 
 #### (2) Availability of funds
 
@@ -10,11 +10,19 @@ Amounts appropriated pursuant to the authorization of appropriations under parag
 
 #### (3) Transfer of prior year funds
 
-Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c)(7) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)(7) (as in effect immediately before May 27, 2003) shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2004 through 2008 under paragraph (1).
+Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c)(7) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)(7) (as in effect immediately before May 27, 2003) shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013.<sup>1</sup> under paragraph (1).
 
-(Pub. L. 108–25, title III, §302(b), May 27, 2003, 117 Stat. 736.)
+(Pub. L. 108–25, title III, §302(b), May 27, 2003, 117 Stat. 736; Pub. L. 110–293, title III, §302(f), July 30, 2008, 122 Stat. 2959.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in par. (1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Amendments
+
+2008—Par. (1). Pub. L. 110–293, §302(f)(1), substituted “a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.” for “such sums as may be necessary for each of the fiscal years 2004 through 2008”.
+
+Par. (3). Pub. L. 110–293, §302(f)(2), substituted “fiscal years 2009 through 2013.” for “fiscal years 2004 through 2008”.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

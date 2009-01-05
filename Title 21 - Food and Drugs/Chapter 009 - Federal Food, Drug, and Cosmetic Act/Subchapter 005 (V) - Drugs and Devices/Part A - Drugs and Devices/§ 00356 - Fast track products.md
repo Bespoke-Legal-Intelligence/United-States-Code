@@ -8,7 +8,7 @@
 
 #### (2) Request for designation
 
-&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 262(a)(3) of title 42.
+&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may bemade concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 262(a)(3) of title 42.
 
 #### (3) Designation
 

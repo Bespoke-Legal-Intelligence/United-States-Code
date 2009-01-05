@@ -28,11 +28,15 @@ The Federal share of a grant made under this section may not exceed 75 percent o
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General to carry out this section $25,000,000 for each of the fiscal years 2006 and 2007.
+There are authorized to be appropriated to the Attorney General to carry out this section $20,000,000 for each of the fiscal years 2008 through 2011.
 
-(Pub. L. 109–164, title II, §204, Jan. 10, 2006, 119 Stat. 3571.)
+(Pub. L. 109–164, title II, §204, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title III, §302(5), Dec. 23, 2008, 122 Stat. 5087.)
 
 #### Codification
 
 Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–457 substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
 

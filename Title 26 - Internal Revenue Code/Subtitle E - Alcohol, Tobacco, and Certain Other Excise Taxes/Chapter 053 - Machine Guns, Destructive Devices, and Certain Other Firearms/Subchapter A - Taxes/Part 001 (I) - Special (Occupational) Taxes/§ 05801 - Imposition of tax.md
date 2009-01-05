@@ -26,7 +26,7 @@ On 1st engaging in business and thereafter on or before July 1 of each year, eve
 
 #### Prior Provisions
 
-A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958, Pub. L. 85–859, title II, §203(a),72 Stat. 1427; June 1, 1960, Pub. L. 86–478, §1, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
+A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958, Pub. L. 85–859, title II, §203(a), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, §1, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of Pub. L. 100–203, set out as an Effective Date note under section 5081 of this title.
+Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of Pub. L. 100–203, set out as a note under section 5111 of this title.
 
 #### Effective Date
 

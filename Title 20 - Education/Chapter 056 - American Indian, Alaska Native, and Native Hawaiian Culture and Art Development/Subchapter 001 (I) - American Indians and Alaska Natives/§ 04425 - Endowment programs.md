@@ -30,7 +30,7 @@
 
 (3) Funds deposited by the Institute as a match for Federal contributions under paragraph (5) shall remain in the capital endowment fund for a period of not less than two years. If at any time the Institute withdraws any capital contribution to the capital endowment fund before the funds have been deposited for this two-year period, an equal amount of the Federal contribution shall be withdrawn from the capital endowment fund and returned to the Treasury as miscellaneous receipts. At the end of the two-year period, the entire principal and interest of the funds deposited for this period, including the Federal matching portion, shall accrue, without reservation, to the Institute and may be withdrawn, in whole or in part, to defray expenses associated with capital acquisition and improvement of the Institute referred to in paragraph (1).
 
-(4) For the purpose of complying with the contribution requirement of paragraph (2), the Institute may use funds which are available from any private, non-Federal governmental, or tribal source.
+(4) For the purpose of complying with the contribution requirement of paragraph (2), the Institute may use funds which are available fromany private, non-Federal governmental, or tribal source.
 
 (5) Subject to paragraph (3), amounts appropriated under section 4451(a) of this title for use under this subsection shall be paid by the Secretary of the Treasury to the Institute as a Federal capital contribution equal to the amount which the Institute demonstrates has been placed within the control of, or irrevocably committed to the use of, the Institute and is available for deposit as a capital contribution of the Institute in accordance with this subsection.
 

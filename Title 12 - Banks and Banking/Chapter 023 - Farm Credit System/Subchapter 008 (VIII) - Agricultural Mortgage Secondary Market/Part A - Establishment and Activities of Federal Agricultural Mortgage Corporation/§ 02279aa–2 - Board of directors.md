@@ -4,7 +4,7 @@
 
 #### (1) Number and appointment
 
-&emsp;Until the permanent board of directors established in subsection (b) of this section firstmeets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
+&emsp;Until the permanent board of directors established in subsection (b) of this section first meets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
 
 &emsp;&emsp;(A) 3 members appointed from among persons who are representatives of banks, other financial institutions or entities, and insurance companies.
 

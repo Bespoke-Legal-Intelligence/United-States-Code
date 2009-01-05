@@ -14,7 +14,7 @@ The Secretary may establish cost limitations on eligible activities under this s
 
 #### (d) Annual contributions
 
-Notwithstanding the purchase of a public housing project under this section, or the purchase of a unit in a public housing project by an eligible family, the Secretary shall continue topay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
+Notwithstanding the purchase of a public housing project under this section, or the purchase of a unit in a public housing project by an eligible family, the Secretary shall continue to pay annual contributions with respect to the project. Such contributions may not exceed the maximum contributions authorized in section 1437c(a) of this title.
 
 #### (e) Amounts from Operating Fund allocation
 
@@ -22,7 +22,7 @@ Amounts from an allocation from the Operating Fund under section 1437g of this t
 
 #### (f) Use of proceeds from sales to eligible families
 
-The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary.
+The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additionalhomeownership opportunities, and other activities approved by the Secretary.
 
 #### (g) Restrictions on resale by homeowners
 
@@ -66,11 +66,11 @@ The requirements under this subchapter regarding quality standards, resale, or t
 
 #### (i) Dollar limitation on economic development activities
 
-Not more than an aggregate of $250,000 from amounts made available under sections1437aaa–1 and 1437aaa–2 of this title may be used for economic development activities under sections 1437aaa–1(b)(6) <sup>1</sup> and 1437aaa–2(b)(9) <sup>1</sup> of this title for any project.
+Not more than an aggregate of $250,000 from amounts made available under sections 1437aaa–1 and 1437aaa–2 of this title may be used for economic development activities under sections 1437aaa–1(b)(6) <sup>1</sup> and 1437aaa–2(b)(9) <sup>1</sup> of this title for any project.
 
 #### (j) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are consistent with the public housing program and that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. Therecipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (k) Capability of resident management corporations and resident councils
 

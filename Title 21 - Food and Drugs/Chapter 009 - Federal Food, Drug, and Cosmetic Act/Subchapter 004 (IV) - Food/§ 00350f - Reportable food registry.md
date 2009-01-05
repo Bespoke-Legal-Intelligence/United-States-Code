@@ -190,7 +190,7 @@ If, after receiving a report under subsection (d), the Secretary believes such f
 
 #### Effective Date
 
-Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
+Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C.350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\].”
 
 #### Findings
 

@@ -2,7 +2,7 @@
 
 #### (a) Preparation and development
 
-The Administrator shall, after careful investigation, and in cooperation with other Federal agencies, State water pollution control agencies, interstate agencies, and the municipalities and industries involved, prepare or develop comprehensive programs for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters. In the development of such comprehensive programs due regard shall be given to the improvements which are necessary to conservesuch waters for the protection and propagation of fish and aquatic life and wildlife, recreational purposes, and the withdrawal of such waters for public water supply, agricultural, industrial, and other purposes. For the purpose of this section, the Administrator is authorized to make joint investigations with any such agencies of the condition of any waters in any State or States, and of the discharges of any sewage, industrial wastes, or substance which may adversely affect such waters.
+The Administrator shall, after careful investigation, and in cooperation with other Federal agencies, State water pollution control agencies, interstate agencies, and the municipalities and industries involved, prepare or develop comprehensive programs for preventing, reducing, or eliminating the pollution of the navigable waters and ground waters and improving the sanitary condition of surface and underground waters. In the development of such comprehensive programs due regard shall be given to the improvements which are necessary to conserve such waters for the protection and propagation of fish and aquatic life and wildlife, recreational purposes, and the withdrawal of such waters for public water supply, agricultural, industrial, and other purposes. For the purpose of this section, the Administrator is authorized to make joint investigations with any such agencies of the condition of any waters in any State or States, and of the discharges of any sewage, industrial wastes, or substance which may adversely affect such waters.
 
 #### (b) Planning for reservoirs; storage for regulation of streamflow
 
@@ -48,5 +48,5 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 #### Executive Order No. 10014
 
-Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation of Federal and State agencies to prevent pollution of surface and underground waters,was superseded by Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483.
+Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation of Federal and State agencies to prevent pollution of surface and underground waters, was superseded by Ex. Ord. No. 11258, Nov. 17, 1965, 30 F.R. 14483.
 

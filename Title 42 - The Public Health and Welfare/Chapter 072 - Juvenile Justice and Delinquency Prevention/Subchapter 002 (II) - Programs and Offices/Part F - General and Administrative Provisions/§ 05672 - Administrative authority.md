@@ -34,7 +34,7 @@ If a State requires by law compliance with the requirements described in paragra
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 107–273, §12214(2), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
-Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support andcoordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
+Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support and coordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
 
 Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsecs. (c) and (d).
 

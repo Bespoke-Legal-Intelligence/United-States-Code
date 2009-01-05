@@ -32,9 +32,11 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;&emsp;(C) is not a dependent of the member or former member under subparagraph (F) or (G) of section 1072(2) of this title or ends a one-year period of dependency under subparagraph (H) of such section.
 
+&emsp;(4) Any other person specified in regulations prescribed by the Secretary of Defense for purposes of this paragraph who loses entitlement to health care services under this chapter or section 1145 of this title, subject to such terms and conditions as the Secretary shall prescribe in the regulations.
+
 (c)
 
-Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations toprovide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
+Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) tobe notified of eligibility to receive health benefits under this section.
 
 (2) In the case of a member who becomes (or will become) eligible for continued coverage under subsection (b)(1), the regulations shall provide for the Secretary concerned to notify the member of the member's rights under this section as part of preseparation counseling conducted under section 1142 of this title or any other provision of other law.
 
@@ -72,6 +74,8 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;&emsp;(B) such other date as the Secretary of Defense may prescribe.
 
+&emsp;(4) In the case of a person described in subsection (b)(4), by such date as the Secretary shall prescribe in the regulations required for purposes of that subsection.
+
 (e)
 
 Coverage of Dependents.—A person eligible under subsection (b)(1) to elect to receive coverage may elect coverage either as an individual or, if appropriate, for self and dependents. A person eligible under subsection (b)(2) or subsection (b)(3) may elect only individual coverage.
@@ -92,13 +96,15 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(A) in the case of a member described in subsection (b)(1), the date which is 18 months after the date the member ceases to be entitled to care under section 1074(a) of this title and any transitional care under section 1145 of this title, as the case may be;
 
-&emsp;(B) in the case of a person described in subsection (b)(2), the date which is 36 months after the date on which the person first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; and
+&emsp;(B) in the case of a person described in subsection (b)(2), the date which is 36 months after the date on which the person first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title;
 
 &emsp;(C) in the case of a person described in subsection (b)(3), except as provided in paragraph (4), the date which is 36 months after the later of—
 
 &emsp;&emsp;(i) the date on which the final decree of divorce, dissolution, or annulment occurs; and
 
-&emsp;&emsp;(ii) if applicable, the date the one-year extension of dependency under section 1072(2)(H) of this title expires.
+&emsp;&emsp;(ii) if applicable, the date the one-year extension of dependency under section 1072(2)(H) of this title expires; and
+
+&emsp;(D) in the case of a person described in subsection (b)(4), the date that is 36 months after the date on which the person loses entitlement to health care services as described in that subsection.
 
 (2) Notwithstanding paragraph (1)(B), if a dependent of a member becomes eligible for continued coverage under subsection (b)(2) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
@@ -116,9 +122,15 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title VII, §705, Jan. 28, 2008, 122 Stat. 189.)
 
 #### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–181, §705(a), added par. (4).
+
+Subsec. (d)(4). Pub. L. 110–181, §705(b), added par. (4).
+
+Subsec. (g)(1)(D). Pub. L. 110–181, §705(c), added subpar. (D).
 
 2003—Subsec. (b)(1), (2)(A), (3)(A). Pub. L. 108–136 substituted “uniformed services” for “armed forces”.
 

@@ -24,11 +24,11 @@
 
 #### (3) Grants
 
-&emsp;To carry out the program under this section, the Secretary, acting through the Director,may award grants or enter into other appropriate arrangements with Indian tribes, tribal organizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
+&emsp;To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian tribes, tribal organizations, intertribal consortia, or other tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
 
 #### (4) Locations
 
-&emsp;In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through the Director, shall provide for a demonstration project to be conducted—
+&emsp;In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through theDirector, shall provide for a demonstration project to be conducted—
 
 &emsp;&emsp;(A) for Indians of the Four Corners area located in the area adjacent to the border between Arizona, Utah, Colorado, and New Mexico;
 

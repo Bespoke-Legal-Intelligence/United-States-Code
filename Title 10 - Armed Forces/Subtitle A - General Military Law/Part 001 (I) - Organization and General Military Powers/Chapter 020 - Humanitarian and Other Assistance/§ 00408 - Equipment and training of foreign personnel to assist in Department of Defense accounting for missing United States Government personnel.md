@@ -1,0 +1,42 @@
+### §408. Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel
+
+(a)
+
+In General.—The Secretary of Defense may provide assistance to any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
+
+(b)
+
+Types of Assistance.—The assistance provided under subsection (a) may include the following:
+
+&emsp;(1) Equipment.
+
+&emsp;(2) Supplies.
+
+&emsp;(3) Services.
+
+&emsp;(4) Training of personnel.
+
+(c)
+
+Approval by Secretary of State.—Assistance may not be provided under this section to any foreign nation unless the Secretary of State specifically approves the provision of such assistance.
+
+(d)
+
+Limitation.—The amount of assistance provided under this section in any fiscal year may not exceed $1,000,000.
+
+(e)
+
+Construction With Other Assistance.—The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations under law.
+
+(f)
+
+Annual Reports.—(1) Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the fiscal year ending in such year.
+
+(2) Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
+
+&emsp;(A) A listing of each foreign nation provided assistance under this section.
+
+&emsp;(B) For each nation so provided assistance, a description of the type and amount of such assistance.
+
+(Added Pub. L. 110–181, div. A, title XII, §1207(a), Jan. 28, 2008, 122 Stat. 367.)
+

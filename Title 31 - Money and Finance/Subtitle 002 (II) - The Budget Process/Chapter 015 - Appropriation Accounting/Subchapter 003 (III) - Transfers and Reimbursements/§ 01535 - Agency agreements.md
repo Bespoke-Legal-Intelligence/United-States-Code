@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -118,7 +118,67 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
-Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling theorder might be able to provide or procure by contract, was struck out.
+Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+
+#### Preventing Abuse of Interagency Contracts
+
+Pub. L. 110–417, \[div. A\], title VIII, §865, Oct. 14, 2008, 122 Stat. 4550, provided that:
+
+“(a)
+
+Office of Management and Budget Policy Guidance.—
+
+&emsp;“(1)
+
+Report and guidelines.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget shall—
+
+&emsp;&emsp;“(A) submit to Congress a comprehensive report on interagency acquisitions, including their frequency of use, management controls, cost-effectiveness, and savings generated; and
+
+&emsp;&emsp;“(B) issue guidelines to assist the heads of executive agencies in improving the management of interagency acquisitions.
+
+&emsp;“(2)
+
+Matters covered by guidelines.—For purposes of paragraph (1)(B), the Director shall include guidelines on the following matters:
+
+&emsp;&emsp;“(A) Procedures for the use of interagency acquisitions to maximize competition, deliver best value to executive agencies, and minimize waste, fraud, and abuse.
+
+&emsp;&emsp;“(B) Categories of contracting inappropriate for interagency acquisition.
+
+&emsp;&emsp;“(C) Requirements for training acquisition workforce personnel in the proper use of interagency acquisitions.
+
+“(b)
+
+Regulations Required.—
+
+&emsp;“(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be revised to require that all interagency acquisitions—
+
+&emsp;&emsp;“(A) include a written agreement between the requesting agency and the servicing agency assigning responsibility for the administration and management of the contract;
+
+&emsp;&emsp;“(B) include a determination that an interagency acquisition is the best procurement alternative; and
+
+&emsp;&emsp;“(C) include sufficient documentation to ensure an adequate audit.
+
+&emsp;“(2)
+
+Multi-agency contracts.—Not later than one year after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to require any multi-agency contract entered into by an executive agency after the effective date of such regulations to be supported by a business case analysis detailing the administration of such contract, including an analysis of all direct and indirect costs to the Federal Government of awarding and administering such contract and the impact such contract will have on the ability of the Federal Government to leverage its purchasing power.
+
+“(c)
+
+Agency Reporting Requirement.—The senior procurement executive for each executive agency shall, as directed by the Director of the Office of Management and Budget, submit to the Director annual reports on the actions taken by the executive agency pursuant to the guidelines issued under subsection (a).
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)), except that, in the case of a military department, it means the Department of Defense.
+
+&emsp;“(2) The term ‘head of executive agency’ means the head of an executive agency except that, in the case of a military department, the term means the Secretary of Defense.
+
+&emsp;“(3) The term ‘interagency acquisition’ means a procedure by which an executive agency needing supplies or services (the requesting agency) obtains them from another executive agency (the servicing agency). The term includes acquisitions under section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’), Federal Supply Schedules above $500,000, and Governmentwide acquisition contracts.
+
+&emsp;“(4) The term ‘multi-agency contract’ means a task or delivery order contract established for use by more than one executive agency to obtain supplies and services, consistent with section 1535 of title 31, United States Code (commonly referred to as the ‘Economy Act’).”
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
@@ -158,7 +218,7 @@ Delayed Implementation.—The modifications described in the report prepared und
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 
-Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: “Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
+Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: “Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same mannerand to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
 
 #### Economy Act Purchases
 

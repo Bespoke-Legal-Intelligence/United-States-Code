@@ -12,7 +12,7 @@ Except for the vessel designs identified under subsection (b) of this section, t
 
 The Secretary shall—
 
-&emsp;(1) report to Congress identifying any existing vessel design or design proposal that meets the requirements of the Plan within 30 days after October 29, 1992, and shall promptly advise the Congress of any modification of these designs; and
+&emsp;(1) report to Congress identifying any existing vessel design or design proposal that meetsthe requirements of the Plan within 30 days after October 29, 1992, and shall promptly advise the Congress of any modification of these designs; and
 
 &emsp;(2) submit to Congress as part of the annual update of the Plan required in section 891b of this title, any subsequent existing vessel design or design proposals that meet the requirements of the Plan.
 

@@ -50,7 +50,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(A) whose license to provide health care has been revoked or suspended by any State licensing authority, or who otherwise lost such a license or the right to apply for or renew such a license, for reasons bearing on the individual's or entity's professional competence, professional performance, or financial integrity, or
 
-&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceeding concerned the individual's or entity's professional competence, professional performance, or financial integrity.
+&emsp;&emsp;(B) who surrendered such a license while a formal disciplinary proceeding was pending before such an authority and the proceedingconcerned the individual's or entity's professional competence, professional performance, or financial integrity.
 
 #### (5) Exclusion or suspension under Federal or State health care program
 
@@ -150,7 +150,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(i) that has been convicted of any offense described in subsection (a) of this section or in paragraph (1), (2), or (3) of this subsection; or
 
-&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapterXVIII of this chapter or under a State health care program.
+&emsp;&emsp;(ii) that has been excluded from participation under a program under subchapter XVIII of this chapter or under a State health care program.
 
 #### (c) Notice, effective date, and period of exclusion
 
@@ -168,7 +168,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
 
-(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
+(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waivethe exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
 
 (C) In the case of an exclusion of an individual under subsection (b)(12) of this section, the period of the exclusion shall be equal to the sum of—
 
@@ -220,7 +220,7 @@ The Secretary shall—
 
 (2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
 
-(3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
+(3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respectto subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
 #### (g) Application for termination of exclusion
 
@@ -288,7 +288,7 @@ Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (c)(3)
 
 2003—Subsec. (c)(3)(B). Pub. L. 108–173 amended first sentence generally. Prior to amendment, first sentence read as follows: “Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of a State, the Secretary may waive the exclusion under subsection (a)(1) of this section in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community.”
 
-1997—Subsec. (a). Pub. L. 105–33, §4331(c)(1), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section)” in introductory provisions.
+1997—Subsec. (a). Pub. L. 105–33, §4331(c)(1), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any programunder subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section)” in introductory provisions.
 
 Subsec. (b). Pub. L. 105–33, §4331(c)(2), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and may direct that the following individuals and entities be excluded from participation in any State health care program” in introductory provisions.
 
@@ -348,7 +348,7 @@ Subsec. (d)(3)(B). Pub. L. 100–203, §4118(e)(2), designated existing provisio
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(5)(A), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “an individual or entity” for “a physician or other individual” in introductory provisions.
 
-Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity”for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
+Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity” for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
@@ -420,7 +420,7 @@ Clarification of Medicaid Moratorium.—The amendments made by section 9 of this
 
 “(f)
 
-Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participationunder a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
+Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
 
 #### Effective Date of 1986 Amendment
 

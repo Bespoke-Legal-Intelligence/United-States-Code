@@ -58,11 +58,11 @@ The Secretary of Transportation may not make amounts available to Amtrak for obl
 
 #### (2) Incomplete or deficient plan
 
-&emsp;If the Secretary of Transportation determines that a plan is incomplete or deficient, the Secretary of Transportation shall notify Amtrak of the incomplete items or deficiencies and Amtrak shall, within 30 daysafter receiving the Secretary of Transportation's notification, submit a modified plan for the Secretary of Transportation's review.
+&emsp;If the Secretary of Transportation determines that a plan is incomplete or deficient, the Secretary of Transportation shall notify Amtrak of the incomplete items or deficiencies and Amtrak shall, within 30 days after receiving the Secretary of Transportation's notification, submit a modified plan for the Secretary of Transportation's review.
 
 #### (3) Approval of plan
 
-&emsp;Within 15 days after receiving additional information on items previously included in the plan, and within 45 days after receiving items newly included in a modified plan, the Secretary of Transportation shall either approve the modified plan, or if the Secretary of Transportation finds the plan is still incomplete or deficient, the Secretary of Transportation shall—
+&emsp;Within 15 days after receiving additional information on items previously included in the plan, and within 45 days after receiving items newly included in a modified plan, the Secretary of Transportation shall either approve the modified plan, or if the Secretary ofTransportation finds the plan is still incomplete or deficient, the Secretary of Transportation shall—
 
 &emsp;&emsp;(A) identify in writing to the appropriate congressional committees the portions of the plan the Secretary finds incomplete or deficient;
 

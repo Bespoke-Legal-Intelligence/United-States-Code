@@ -22,13 +22,13 @@ Not more than eight voting members of the Board (including members described in 
 
 #### (d) Qualifications
 
-(1) Each individual appointed to the Board under subsection (b)(5) of this section shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
+(1) Each individual appointed to the Board under subsection (b)(4) of this section shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
 
-(2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(5) of this section.
+(2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(4) of this section.
 
 #### (e) Term of office: commencement and termination, interim and remainder service, limitation
 
-(1) Members of the Board appointed under subsection (b)(5) of this section shall be appointed to four year terms, except that—
+(1) Members of the Board appointed under subsection (b)(4) of this section shall be appointed to four year terms, except that—
 
 &emsp;(A) the term of six of the members initially appointed shall be two years, as designated by the President at the time of their nomination;
 
@@ -36,15 +36,17 @@ Not more than eight voting members of the Board (including members described in 
 
 &emsp;(C) a member appointed to replace a member whose term has not expired shall be appointed to serve the remainder of that term.
 
-(2) The terms of the members of the Board initially appointed under subsection (b)(5) of this section shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
+(2) The terms of the members of the Board initially appointed under subsection (b)(4) of this section shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
 
-(3) The President may not nominate an individual for appointment to the Board under subsection (b)(5) of this section prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(5) of this section not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
+(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) of this section prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(4) of this section not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
 
-(4) An individual appointed as a member of the Board under subsection (b)(5) of this section may not be appointed to more than two terms on the Board.
+(4) An individual appointed as a member of the Board under subsection (b)(4) of this section may not be appointed to more than two terms on the Board.
+
+(5) The term of a member of the Board shall not commence until the member is confirmed by the Senate and sworn in as a member of the Board.
 
 #### (f) Removal from office
 
-A member of the Board appointed under subsection (b)(5) of this section may be removed by the President—
+A member of the Board appointed under subsection (b)(4) of this section may be removed by the President—
 
 &emsp;(1) in consultation with the Board, for conviction of a felony, malfeasance in office, persistent neglect of duties, or inability to discharge duties;
 
@@ -62,7 +64,7 @@ No member of the Board may participate in any decision, action, or recommendatio
 
 Meetings of the Board shall be conducted as follows:
 
-&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(5) of this section and may elect a Vice Chairman if so provided by the Institute's bylaws.
+&emsp;(1) The President shall stipulate by name the nominee who shall be the first Chairman of the Board. The first Chairman shall serve for a term of three years. Thereafter, the Board shall elect a Chairman every three years from among the directors appointed by the President under subsection (b)(4) of thissection and may elect a Vice Chairman if so provided by the Institute's bylaws.
 
 &emsp;(2) The Board shall meet at least semiannually, at any time pursuant to the call of the Chairman or as requested in writing to the Chairman by at least five members of the Board. A majority of the members of the Board shall constitute a quorum for any Board meeting.
 
@@ -70,19 +72,23 @@ Meetings of the Board shall be conducted as follows:
 
 #### (i) Compensation
 
-A director appointed by the President under subsection (b)(5) of this section shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5 for each day during which the director is engaged in the performance of duties as a member of the Board.
+A director appointed by the President under subsection (b)(4) of this section shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5 for each day during which the director is engaged in the performance of duties as a member of the Board.
 
 #### (j) Travel expenses
 
 While away from his home or regular place of business in the performance of duties for the Institute, a director shall be allowed travel expenses, including a per diem in lieu of subsistence, not to exceed the expenses allowed persons employed intermittently in Government service under section 5703(b) <sup>1</sup> of title 5.
 
-(Pub. L. 98–525, title XVII, §1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 98–525, title XVII, §1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 110–315, title IX, §921(b)(1), Aug. 14, 2008, 122 Stat. 3456.)
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 #### Amendments
+
+2008—Pub. L. 110–315, §921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
+
+Subsec. (e)(5). Pub. L. 110–315, §921(b)(1)(B), added par. (5).
 
 1998—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
 
@@ -91,6 +97,10 @@ Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date.”
 
 #### Effective Date of 1998 Amendment
 

@@ -48,7 +48,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) of this section a
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraphshall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 

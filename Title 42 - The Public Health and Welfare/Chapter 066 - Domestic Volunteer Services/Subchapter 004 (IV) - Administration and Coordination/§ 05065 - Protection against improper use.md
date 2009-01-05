@@ -6,7 +6,7 @@ Whoever falsely—
 
 &emsp;(2) publishes or displays any sign, symbol, or advertisement, reasonably calculated to convey the impression,
 
-> that an entity is affiliated with, funded by, or operating under the authority of the Corporation, VISTA, or any of the programs of the National Senior Volunteer Corps may be enjoined under an action filed by the Attorney General, on a complaint by the Director.
+> that an entity is affiliated with, funded by, or operating under the authority of the Corporation, VISTA, or any of the programs of the National Senior Volunteer Corps may be enjoinedunder an action filed by the Attorney General, on a complaint by the Director.
 
 (Pub. L. 93–113, title IV, §425, as added and amended Pub. L. 103–82, title III, §370, title IV, §405(a)(11), Sept. 21, 1993, 107 Stat. 909, 921.)
 

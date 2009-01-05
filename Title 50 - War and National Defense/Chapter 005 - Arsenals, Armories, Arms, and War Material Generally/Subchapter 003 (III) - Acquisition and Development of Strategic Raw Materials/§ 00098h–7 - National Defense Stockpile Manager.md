@@ -20,15 +20,15 @@ Section was classified to section 98e–1 of this title prior to its renumbering
 
 #### Amendments
 
-1991—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: “During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) of this section or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title.”
+<b>1991</b>—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: “During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) of this section or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title.”
 
-1989—Subsec. (a). Pub. L. 101–189, §3313(b)(1), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §3313(b)(1), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4”.
 
-Subsec. (c). Pub. L. 101–189, §3313(b)(1), (2), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and inserted at end “The President may notdelegate functions of the President under sections 98f and 98h–4 of this title.” after “Executive order.”
+Subsec. (c). Pub. L. 101–189, §3313(b)(1), (2), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and inserted at end “The President may not delegate functions of the President under sections 98f and 98h–4 of this title.” after “Executive order.”
 
 Subsec. (d). Pub. L. 101–189, §3313(b)(1), (3), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4” and “section 98e(a)(6)” for “section 98e(b) or 98e(d)”.
 
-1987—Pub. L. 100–180 amended section generally, revising and restating provisions of subsecs. (a) and (b) and adding subsecs. (c) and (d).
+<b>1987</b>—Pub. L. 100–180 amended section generally, revising and restating provisions of subsecs. (a) and (b) and adding subsecs. (c) and (d).
 
 #### Savings Provision
 

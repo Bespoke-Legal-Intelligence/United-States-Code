@@ -84,7 +84,7 @@ The conditions of participation that a home health agency is required to meet un
 
 #### (b) Duty of Secretary
 
-It is the duty and responsibility of the Secretary to assure that the conditions of participation and requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section and the enforcement of such conditions and requirements are adequate to protect the health and safety of individuals underthe care of a home health agency and to promote the effective and efficient use of public moneys.
+It is the duty and responsibility of the Secretary to assure that the conditions of participation and requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section and the enforcement of such conditions and requirements are adequate to protect the health and safety of individuals under the care of a home health agency and to promote the effective and efficient use of public moneys.
 
 #### (c) Surveys of home health agencies
 
@@ -134,7 +134,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (B) The Secretary shall periodically update the evaluation conducted under subparagraph (A), report the results of such update to Congress, and, based on such update, make such modifications in the assessment process as the Secretary determines are appropriate.
 
-(3) The Secretary shall provide for the comprehensive training of State and Federal surveyorsin matters relating to the performance of standard and extended surveys under this section, including the use of any assessment instrument (or instruments) designated under paragraph (1).
+(3) The Secretary shall provide for the comprehensive training of State and Federal surveyors in matters relating to the performance of standard and extended surveys under this section, including the use of any assessment instrument (or instruments) designated under paragraph (1).
 
 #### (e) Enforcement
 
@@ -176,7 +176,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section.
 
-(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity ofeach of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 
 #### (g) Payment on basis of location of service
 
@@ -244,7 +244,7 @@ Section 4207(i)(2), formerly 4027(i)(2), of Pub. L. 101–508, as renumbered and
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included inthe enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

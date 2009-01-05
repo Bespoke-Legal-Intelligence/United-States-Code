@@ -18,17 +18,13 @@ Standards for incineration equipment.—Incineration equipment on a vessel descr
 
 &emsp;(3)
 
-Inspection.—A vessel described in paragraph (1) shall be inspected by the Coast Guard, regardless of whether inspected by the nation in which it is registered. The inspection shall be the same as would be required of a vessel of the United States, including drydock inspection and internal examination of tanks and void spaces. The inspection may be made concurrently with an inspection by that nation or within one year after the initial issuance or next scheduled issuance of the Safety of Life at Sea Safety Construction Certificate. In making the inspection, the Coast Guard shall refer to the condition of the hull and superstructure established by the initial foreign certification as the basis for evaluating the current condition of the hull and superstructure. The Coast Guard shall allow the substitution of fittings, material, apparatus, equipment, and appliances different from those required for vessels of the United States if satisfied they are equivalent and at least as effective as those required for vessels of the United States. A satisfactory inspection under this paragraph shall be certified in writing by the Secretary of the department in which the Coast Guard is operating.
+Inspection.—A vessel described in paragraph (1) shall be inspected by the Coast Guard, regardless of whether inspected by the nation in which it is registered. The inspection shall be the same as would be required of a vessel of the United States, including drydock inspection and internal examination of tanks and void spaces. The inspection may be made concurrently with an inspection by that nation or within one year after the initial issuance or next scheduled issuance of the Safety of Life at Sea Safety Construction Certificate. In making the inspection, the Coast Guard shall refer to the condition of the hull and superstructure established by the initial foreign certification as the basis for evaluating the current condition of the hull and superstructure. The Coast Guard shall allow the substitution of fittings, material, apparatus, equipment, and appliances different from those required for vessels of the United States if satisfied they are equivalent and at least as effective as those required for vessels of the United States. A satisfactory inspection under this paragraph shall be certified in writing by the Secretary of Homeland Security.
 
 (c)
 
 Effective Date.—Subsection (a) is not effective until an appropriate vessel has been built and documented under chapter 121 of this title.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1634; Pub. L. 109–241, title IX, §902(<i>o</i>), July 11, 2006, 120 Stat. 569.)
-
-#### Amendment Not Shown in Text
-
-<i>The last sentence of subsection (b)(3) of this section was derived from the fifth sentence of section 883 of the former Appendix to this title, which was amended by Pub. L. 109–241, title IX, §902(o), July 11, 2006, 120 Stat. 569. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. That amendment struck out “Satisfactory inspection shall be certified in writing by the Secretary of Transportation” and inserted “Satisfactory inspection shall be certified, in writing, by the Secretary of Homeland Security.”</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1634; Pub. L. 109–241, title IX, §902(<i>o</i>), July 11, 2006, 120 Stat. 569; Pub. L. 110–181, div. C, title XXXV, §3525(a)(4), (b), Jan. 28, 2008, 122 Stat. 601.)
 
 Historical and Revision Notes
 
@@ -55,4 +51,12 @@ Subsection (c) is substituted for “or after such time as an appropriate vessel
 #### References in Text
 
 Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6903(5)), referred to in subsec. (a), probably means section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), as added by section 2 of the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §902(<i>o</i>). See 2006 Amendment note below.
+
+Subsec. (b)(3). Pub. L. 110–181, §3525(a)(4), incorporated the substance of the amendment by Pub. L. 109–241, §902(<i>o</i>), into this section by substituting “Secretary of Homeland Security” for “Secretary of the department in which the Coast Guard is operating”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–241, §902(<i>o</i>), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
 

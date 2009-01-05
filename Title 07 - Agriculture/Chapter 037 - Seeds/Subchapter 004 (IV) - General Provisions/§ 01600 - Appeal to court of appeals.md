@@ -12,7 +12,7 @@ The court may affirm, modify, or set aside the order of the Secretary.
 
 If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
 
-If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
+If the court of appeals affirms or modifies the order of the Secretary, its decree shall operateas an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
 (Aug. 9, 1939, ch. 615, title IV, §410, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, §402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
 

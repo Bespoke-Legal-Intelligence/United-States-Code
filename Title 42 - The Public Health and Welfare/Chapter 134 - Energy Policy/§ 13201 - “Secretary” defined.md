@@ -30,7 +30,7 @@ Sec. 2. <i>Preparation of a Statement of Energy Effects</i>. (a) To the extent p
 
 (c) The Administrator of the Office of Information and Regulatory Affairs shall provide guidance to the agencies on the implementation of this order and shall consult with other agencies as appropriate in the implementation of this order.
 
-Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Informationand Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
+Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
 
 (b) Agencies shall publish their Statements of Energy Effects, or a summary thereof, in each related Notice of Proposed Rulemaking and in any resulting Final Rule.
 
@@ -80,7 +80,7 @@ Sec. 3. <i>Interagency Task Force</i>. (a) There is established, within the Depa
 
 (c) The Chairman of the Council on Environmental Quality shall chair the Task Force.
 
-(d) Consultation in the implementation of this order with State and local officials and other persons who are not full-time or permanent part-time employees of the Federal Government shall be conducted in a manner that elicits fully the individual views of each official or other person consulted, without deliberations or efforts to achieve consensus on advice or recommendations.
+(d) Consultation in the implementation of this order with State and local officials and other persons who are not full-time or permanent part-time employees of theFederal Government shall be conducted in a manner that elicits fully the individual views of each official or other person consulted, without deliberations or efforts to achieve consensus on advice or recommendations.
 
 (e) This order shall be implemented in a manner consistent with the President's constitutional authority to supervise the unitary executive branch.
 

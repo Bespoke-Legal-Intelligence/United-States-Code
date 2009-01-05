@@ -180,7 +180,7 @@
 |  |  |
 | :--- | ---: |
 | [6341\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006341%20-%20Definitions.md) | Definitions. |
-| [6342\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006342%20-%20Survey%20and%20registry.md) | Survey and registry. |
+| [6342\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006342%20-%20Survey%20and%20Registry.md) | Survey and Registry. |
 | [6343\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006343%20-%20Waste%20energy%20recovery%20incentive%20grant%20program.md) | Waste energy recovery incentive grant program. |
 | [6344\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006344%20-%20Additional%20incentives%20for%20recovery%2C%20use%2C%20and%20prevention%20of%20industrial%20waste%20energy.md) | Additional incentives for recovery, use, and prevention of industrial waste energy. |
 | [6345\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006345%20-%20Clean%20Energy%20Application%20Centers.md) | Clean Energy Application Centers. |

@@ -16,7 +16,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (1) Limited, excepted benefits
 
-&emsp;The requirements of this chapter shall not apply to any group health plan in relation toits provision of excepted benefits described in section 9832(c)(2) if the benefits—
+&emsp;The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(2) if the benefits—
 
 &emsp;&emsp;(A) are provided under a separate policy, certificate, or contract of insurance; or
 

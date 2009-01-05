@@ -56,13 +56,35 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(D) submit evidence of such employment in the form of a certification by the chief administrative officer of the school upon completion of each year of such service; and
 
-&emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title; and
+&emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title;
 
-&emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder.
+&emsp;(2) in the event that the applicant is determined to have failed or refused to carry outsuch service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
+
+&emsp;(3) contains, or is accompanied by, a plain-language disclosure form developed by the Secretary that clearly describes the nature of the TEACH Grant award, the service obligation, and the loan repayment requirements that are the consequence of the failure to complete the service obligation.
 
 #### (c) Repayment for failure to complete service
 
 In the event that any recipient of a grant under this subpart fails or refuses to comply with the service obligation in the agreement under subsection (b), the sum of the amounts of any TEACH Grants received by such recipient shall, upon a determination of such a failure or refusal in such service obligation, be treated as a Federal Direct Unsubsidized Stafford Loan under part C, and shall be subject to repayment, together with interest thereon accruing from the date of the grant award, in accordance with terms and conditions specified by the Secretary in regulations under this subpart.
 
-(Pub. L. 89–329, title IV, §420N, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 788.)
+#### (d) Additional administrative provisions
+
+#### (1) Change of high-need designation
+
+&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, or expertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
+
+#### (2) Extenuating circumstances
+
+&emsp;The Secretary shall establish, by regulation, categories of extenuating circumstances under which a recipient of a grant under this subpart who is unable to fulfill all or part of the recipient's service obligation may be excused from fulfilling that portion of the service obligation.
+
+(Pub. L. 89–329, title IV, §420N, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 788; amended Pub. L. 110–315, title IV, §412(a)(1), Aug. 14, 2008, 122 Stat. 3226.)
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–315, §412(a)(1)(A), added par. (3).
+
+Subsec. (d). Pub. L. 110–315, §412(a)(1)(B), added subsec. (d).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §412(b), Aug. 14, 2008, 122 Stat. 3227, provided that: “The amendments made by subsection (a)(1) \[amending this section\] shall take effect on July 1, 2010.”
 

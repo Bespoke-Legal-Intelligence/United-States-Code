@@ -6,17 +6,17 @@ The cost of inspection rendered on and after July 1, 1948, under the requirement
 
 #### References in Text
 
-Section 2219a of title 7, referred to in text, was in the original “section 10703 of the Farm Security and Rural Investment Act of 2002”, meaning section 10703 of Pub. L. 107–171, which enacted section 2219a of Title 7, Agriculture, amended this section, section 468 of this title, and section 5549 of Title 5, Government Organization and Employees, and repealed section 394 of Title 7.
+Section 2219a of title 7, referred to in text, was in the original “section 10703 of the Farm Security and Rural Investment Act of 2002”, meaning section 10703 of Pub.L. 107–171, which enacted section 2219a of Title 7, Agriculture, amended this section, section 468 of this title, and section 5549 of Title 5, Government Organization and Employees, and repealed section 394 of Title 7.
 
 #### Codification
 
-Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was formerly classified to section 98 of this title.
+
+Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
 #### Amendments
 
 2002—Pub. L. 107–171 substituted “overtime and holiday pay paid pursuant to section 2219a of title 7.” for “overtime pursuant to section 394 of title 7.”
-
-Section was formerly classified to section 98 of this title.
 
 &nbsp;
 

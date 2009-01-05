@@ -14,7 +14,7 @@ Whenever the Government intends to enter into evidence or otherwise use or discl
 
 #### (d) Notification by States or political subdivisions
 
-Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivision thereof, against an aggrieved person any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court or other authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
+Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivision thereof, against an aggrieved person any information obtained or derived from an electronic surveillance of that aggrieved person pursuantto the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court or other authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
 
 #### (e) Motion to suppress
 
@@ -40,11 +40,11 @@ Orders granting motions or requests under subsection (g) of this section, decisi
 
 #### (i) Destruction of unintentionally acquired information
 
-In circumstances involving the unintentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States, such contents shall be destroyed upon recognition, unless the Attorney General determines that the contents indicate a threat of death or serious bodily harm to any person.
+In circumstances involving the unintentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States, such contents shall be destroyed upon recognition, unless the Attorney General determines that the contents indicate a threat of death or serious bodily harm to any person.
 
 #### (j) Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination
 
-If an emergency employment of electronic surveillance is authorized under section 1805(e) <sup>1</sup> of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
 &emsp;(1) the fact of the application;
 
@@ -56,29 +56,37 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 #### (k) Coordination with law enforcement on national security matters
 
-(1) Federal officers who conduct electronic surveillance to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision) to coordinate efforts to investigate or protect against—
+(1) Federal officers who conduct electronic surveillance to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chieflaw enforcement officer of that State or political subdivision) to coordinate efforts to investigate or protect against—
 
 &emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
-&emsp;(B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+&emsp;(B) sabotage, international terrorism, or the international proliferation of weapons of mass destruction by a foreign power or an agent of a foreign power; or
 
 &emsp;(C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power.
 
-(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B) of this title or the entry of an order under section 1805 of this title.
+(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B) <sup>1</sup> of this title or the entry of an order under section 1805 of this title.
 
-(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258.)
+(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§106, 110(b)(1), July 10, 2008, 122 Stat. 2462, 2466.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 1805(e) of this title, referred to in subsec. (j), was redesignated section 1805(f) of this title by Pub. L. 106–567, title VI, §602(b)(1), Dec. 27, 2000, 114 Stat. 2851.
+Section 1804(a)(7)(B) of this title, referred to in subsec. (k)(2), was redesignated section 1804(a)(6)(B) of this title by Pub. L. 110–261, title I, §104(1)(B), July 10, 2008, 122 Stat. 2461.
 
 #### Amendments
 
-2002—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+<b>2008</b>—Subsec. (i). Pub. L. 110–261, §106, substituted “communication” for “radio communication”.
 
-2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(1), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+
+<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+
+<b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2002 Amendment
 

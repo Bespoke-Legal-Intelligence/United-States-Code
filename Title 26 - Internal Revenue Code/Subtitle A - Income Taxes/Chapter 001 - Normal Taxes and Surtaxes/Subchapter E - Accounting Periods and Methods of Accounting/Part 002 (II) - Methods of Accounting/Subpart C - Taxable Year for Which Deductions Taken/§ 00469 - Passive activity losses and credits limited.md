@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability ofthe taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) interest expense properly allocable to such gross income, and
 
-&emsp;&emsp;&emsp;(ii) gain or loss not derived in the ordinary course of a trade or business which isattributable to the disposition of property—
+&emsp;&emsp;&emsp;(ii) gain or loss not derived in the ordinary course of a trade or business which is attributable to the disposition of property—
 
 &emsp;&emsp;&emsp;&emsp;(I) producing income of a type described in clause (i), or
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (g) Dispositions of entire interest in passive activity
 
-If during the taxable year a taxpayer disposes of his entire interest in any passive activity (or former passive activity), the following rules shall apply:
+If during the taxable year a taxpayer disposes of his entire interest in any passive activity (orformer passive activity), the following rules shall apply:
 
 #### (1) Fully taxable transaction
 
@@ -412,7 +412,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) by substituting “any” for “50 percent or more in value” in section 318(a)(2)(C).
 
-> &emsp;A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence).
+> &emsp;A corporation shall not be treated as a personal service corporation unless more than 10percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence).
 
 #### (3) Regular tax liability
 
@@ -527,7 +527,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
 
-&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year\(without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
+&emsp;&emsp;&emsp;(ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
 
 #### (B) Pre-enactment interest
 
@@ -583,7 +583,7 @@ Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
 &emsp;“(iv) then to the portion of such credit to which subparagraph (C) applies.”
 
-Subsec. (i)(6)(B). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(B)\], substituted “, rehabilitation credit, or commercial revitalization deduction” for “or rehabilitation credit” in heading.
+Subsec. (i)(6)(B). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(B)\], substituted “, rehabilitation credit, orcommercial revitalization deduction” for “or rehabilitation credit” in heading.
 
 Subsec. (i)(6)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(A)\], added cl. (iii).
 

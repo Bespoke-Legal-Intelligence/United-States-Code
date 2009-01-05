@@ -6,7 +6,7 @@ Commercial Motor Vehicle Safety Programs and Enforcement.—The Secretary of Tra
 
 (b)
 
-Other Activities.—The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities authorized by section 31104(f)(2).
+Other Activities.—The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities authorized by section 31104(f)(2).<sup>1</sup>
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–178, title IV, §4003(d), June 9, 1998, 112 Stat. 397; Pub. L. 109–59, title IV, §4307(a), Aug. 10, 2005, 119 Stat. 1774.)
 
@@ -28,6 +28,10 @@ Jan. 6, 1983, Pub. L. 97–424, §403, 96 Stat. 2156; Dec. 18, 1991, Pub. L. 102
 
 The word “rules” is omitted as being synonymous with “regulations”.
 
+#### References in Text
+
+Section 31104(f)(2), referred to in subsec. (b), was struck out by Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616.
+
 #### Amendments
 
 2005—Subsec. (a). Pub. L. 109–59 substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States.”
@@ -37,4 +41,6 @@ The word “rules” is omitted as being synonymous with “regulations”.
 #### Relationship to Other Laws
 
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

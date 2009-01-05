@@ -1,5 +1,9 @@
 Part B—Cane River National Heritage Area
 
+<i><sup>1</sup></i><i> So in original. Probably should be “Cane River National Heritage Area Commission,”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Heritage Area Commission,”.</i>
+
 
 ---
 

@@ -10,7 +10,7 @@ To be eligible to receive a grant under this section a State or political subdiv
 
 &emsp;(1) how the applicant proposes to develop a comprehensive program of school- and community-based approaches to encourage and promote good nutrition and appropriate levels of physical activity with respect to children or adolescents in local communities;
 
-&emsp;(2) the manner in which the applicant shall coordinate with appropriate State and local authorities, such as State and local school departments, State departments of health, chronic disease directors, State directors of programs under section 1786 of this title, 5-a-day coordinators, governors councils for physical activity and good nutrition, and State and local parks and recreation departments; and
+&emsp;(2) the manner in which the applicant shall coordinate with appropriate State and localauthorities, such as State and local school departments, State departments of health, chronic disease directors, State directors of programs under section 1786 of this title, 5-a-day coordinators, governors councils for physical activity and good nutrition, and State and local parks and recreation departments; and
 
 &emsp;(3) the manner in which the applicant will evaluate the effectiveness of the program carried out under this section.
 

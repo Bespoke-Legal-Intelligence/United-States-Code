@@ -20,7 +20,7 @@ For purposes of carrying out the duties of the Secretary under sections 698u to 
 
 #### (2) Liability of landowners
 
-&emsp;(A) The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) of this section an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: <i>Provided however</i>, That indemnification shall not exceed $3 million per claimant per occurrence.
+&emsp;(A) The Secretary of the Interior is authorized, under such terms and conditions as he deems appropriate, to include in any cooperative agreement entered into in accordance with subsection (f)(1) of this section an indemnification provision by which the United States agrees to hold harmless, defend and indemnify the landowner in full from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising outof any claim of personal injury or property damage that occurs in connection with the operation of the Preserve under the agreement: <i>Provided however</i>, That indemnification shall not exceed $3 million per claimant per occurrence.
 
 &emsp;(B) The indemnification provision authorized by subparagraph (A) shall not include claims for personal injury or property damage proximately caused by the wanton or willful misconduct of the landowner.
 
@@ -90,7 +90,7 @@ The Federal Tort Claims Act, referred to in subsec. (d)(1), is title IV of act A
 
 #### Amendments
 
-2000—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
+2000—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act whichappears in text as reference to sections 698u to 698u–7 of this title.
 
 Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted “the tallgrass prairie” for “the tall grass prairie”.
 

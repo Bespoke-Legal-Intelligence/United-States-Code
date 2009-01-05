@@ -12,7 +12,7 @@ In General.—A person may not act as an ocean transportation intermediary unles
 
 Scope of Financial Responsibility.—A bond, insurance, or other surety obtained under this section—
 
-&emsp;(1) shall be available to pay any penalty assessed under section 41109 of this title or any order for reparation issued under section 41305 of this title;
+&emsp;(1) shall be available to pay any penalty assessed under section 41109 of this title or anyorder for reparation issued under section 41305 of this title;
 
 &emsp;(2) may be available to pay any claim against an ocean transportation intermediary arising from its transportation-related activities—
 

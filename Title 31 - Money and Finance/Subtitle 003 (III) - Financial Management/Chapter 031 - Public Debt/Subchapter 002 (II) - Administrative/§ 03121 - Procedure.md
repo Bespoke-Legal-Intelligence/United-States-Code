@@ -56,7 +56,7 @@
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
-(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union Administration Board, whether its rules and standards adequately meet the purposes of regulations to bepromulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
+(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union Administration Board, whether its rules and standards adequately meet the purposes of regulations to be promulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
 
 (5) As used in this subsection—
 
@@ -198,7 +198,7 @@ Clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act, refe
 
 The International Banking Act of 1978, referred to in subsec. (h)(5)(A), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of Title 12, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
-Section 3(a)(43), (44), (34)(G), of the Securities Exchange Act of 1934, referred to in subsec. (h)(5)(B) to\(D), is classified to section 78c(a)(43), (44), (34)(G) of Title 15, Commerce and Trade.
+Section 3(a)(43), (44), (34)(G), of the Securities Exchange Act of 1934, referred to in subsec. (h)(5)(B) to (D), is classified to section 78c(a)(43), (44), (34)(G) of Title 15, Commerce and Trade.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Establishment.—There is on the books of the Treasury an account known as the D
 
 Credits to Account.—The account shall be administered as a single account. There shall be transferred into the account—
 
-&emsp;(1) appropriations made for the purpose of, or which are available for, the payment of costs arising in connection with the construction, acquisition, leasing, relocation, operation and maintenance, and disposal of military family housing, including the cost of principal and interest charges, and insurance premiums, arising in connection with the acquisition of such housing, and mortgage insurance premiums payable under section 222(c) of the National Housing Act (12 U.S.C. 1715m(c));
+&emsp;(1) appropriations made for the purpose of, or which are available for, the payment of costs arising in connection with the construction, acquisition, leasing, relocation, operation and maintenance, and disposal of military family housing, including the cost of principal and interest charges, and insurance premiums, arising in connection with the acquisition of such housing, and mortgage insurance premiums payable under section 222(c) <sup>1</sup> of the National Housing Act (12 U.S.C. 1715m(c));
 
 &emsp;(2) proceeds from the rental of family housing and mobile home facilities under the control of a military department, reimbursements from the occupants of such facilities for services rendered (including utility costs), funds obtained from individuals as a result of losses, damages, or destruction to such facilities caused by the abuse or negligence of such individuals, and reimbursements from other Government agencies for expenditures from the account; and
 
@@ -52,6 +52,10 @@ Notice and Wait Requirement.—(1) Except as provided in paragraphs (2) and (3),
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 107–217, §3(b)(19), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–375, div. B, title XXVIII, §2802(a), (b), Oct. 28, 2004, 118 Stat. 2119, 2120; Pub. L. 109–364, div. A, title X, §1071(a)(26), div. B, title XXVIII, §2805, Oct. 17, 2006, 120 Stat. 2399, 2467.)
 
+#### References in Text
+
+Section 222(c) of the National Housing Act (12 U.S.C. 1715m(c)), referred to in subsec. (b)(1), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(5), July 30, 2008, 122 Stat. 2835.
+
 #### Amendments
 
 2006—Subsecs. (a) to (d). Pub. L. 109–364, §2805(b)(1)–(4), inserted subsec. headings.
@@ -71,4 +75,6 @@ Subsec. (f)(2). Pub. L. 109–364, §1071(a)(26), substituted “environmental�
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

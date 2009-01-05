@@ -62,7 +62,7 @@ In order for any State which makes supplementary payments of the type described 
 
 > &emsp;is not less than—
 
-&emsp;&emsp;(B) the combined level of such supplementary payments and the amounts payable to or on behalf of such recipients under section 1382(e)(1)(B) of this title for October 1987 (or, if no such supplementary payments weremade for that month, the combined level for the first subsequent month for which such payments were made), increased—
+&emsp;&emsp;(B) the combined level of such supplementary payments and the amounts payableto or on behalf of such recipients under section 1382(e)(1)(B) of this title for October 1987 (or, if no such supplementary payments were made for that month, the combined level for the first subsequent month for which such payments were made), increased—
 
 &emsp;&emsp;&emsp;(i) in a case to which clause (i) of such section 1382(e)(1)(B) of this title applies or (with respect to the individual or spouse who is in the hospital, home, or facility involved) to which clause (ii) of such section applies, by $5, and
 

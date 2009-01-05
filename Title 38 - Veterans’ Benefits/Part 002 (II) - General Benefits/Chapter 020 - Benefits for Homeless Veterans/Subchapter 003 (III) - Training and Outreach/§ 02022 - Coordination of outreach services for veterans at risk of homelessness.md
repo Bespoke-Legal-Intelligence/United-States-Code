@@ -54,7 +54,7 @@ Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the
 
 &emsp;(B) A description of the implementation and operation of the outreach program under subsection (e).
 
-&emsp;(C) A description of the implementation and operation of the demonstration program under section 2023 of this title.
+&emsp;(C) A description of the implementation and operation of the program under section 2023 of this title.
 
 (3) Not later than July 1, 2007, the Secretary shall submit to the committees referred to in paragraph (1) a final report on outreach activities carried out by the Secretary with respect to homeless veterans. The report shall include the following:
 
@@ -66,9 +66,13 @@ Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the
 
 &emsp;(D) Recommendations, if any, regarding an extension or modification of such outreach plan, such outreach program, and such demonstration program.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 910.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 910; amended Pub. L. 110–387, title VI, §602(d)(3), Oct. 10, 2008, 122 Stat. 4132.)
 
 #### Prior Provisions
 
 A prior section 2022 was renumbered section 4302 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
+
+#### Amendments
+
+2008—Subsec. (f)(2)(C). Pub. L. 110–387 struck out “demonstration” before “program”.
 

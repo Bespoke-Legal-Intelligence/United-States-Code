@@ -2,7 +2,7 @@
 
 #### (a) Department of Energy program
 
-(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with thecooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
+(1) Beginning in the fiscal year ending September 30, 1990, the Secretary shall ensure, with the cooperation of other appropriate agencies and consistent with other Federal law, that the maximum number practicable of the vehicles acquired annually for use by the Federal Government shall be alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.
 
 (2) In any determination of whether the acquisition of a vehicle is practicable under paragraph (1), the initial cost of such vehicle to the United States shall not be considered as a factor unless the initial cost of such vehicle exceeds the initial cost of a comparable gasoline or diesel fueled vehicle by at least 5 percent.
 
@@ -168,7 +168,7 @@ Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prio
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

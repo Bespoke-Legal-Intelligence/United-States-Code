@@ -12,7 +12,7 @@
 
 (2) Except as provided in paragraphs (3) and (4) of this subsection, the following fish tender vessels are exempt from section 3301(1), (6), (7), (11), and (12) of this title:
 
-&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 &emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 
@@ -88,7 +88,7 @@
 
 (3) A permit may be issued for a specific voyage or for not more than one year. The permit may impose specific requirements about the amount or type of cargo to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters. The duration of the permit and restrictions contained in the permit shall be at the sole discretion of the Secretary.
 
-(4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable stepsto safeguard life and the environment, including directing the vessel to a port or other refuge.
+(4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
 
 (5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
@@ -150,7 +150,7 @@ Historical and Revision Notes
 
 46:442
 
-Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
+Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vesselssubject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
 
@@ -230,7 +230,7 @@ Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided 
 
 #### Exemption of Certain Fishing and Fish Processing Vessels
 
-Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
+Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat.68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
 
 “(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 
@@ -240,5 +240,5 @@ Pub. L. 98–364, title IV, §403, July 17, 1984, 98 Stat. 450, as amended by Pu
 
 #### Offshore Supply Vessels; Transition Period for Compliance With Vessel Inspection Provisions
 
-Pub. L. 98–89, §2(i), Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes\[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
+Pub. L. 98–89, §2(i), Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
 

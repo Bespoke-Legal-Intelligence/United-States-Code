@@ -62,7 +62,7 @@ A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 S
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments madeby subsections (a) and (b) \[amending this section and section 690 of this title\] shall apply with respect to officers serving on active duty as a defense attache�AE1 or service attache�AE1 on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 690 of this title\] shall apply with respect to officers serving on active duty as a defense attache�AE1 or service attache�AE1 on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date
 

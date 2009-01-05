@@ -100,7 +100,7 @@ Section 3(b) of Pub. L. 96–18 provided that the amendment made by that section
 
 #### Expiration of 1942 Amendment
 
-Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: <i>“Provided</i>, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
+Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed bysection 645 of Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: <i>“Provided</i>, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

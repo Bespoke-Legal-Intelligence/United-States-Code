@@ -18,7 +18,7 @@
 
 #### (B) Additional amounts
 
-&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate forthe State's controlled substance monitoring program.
+&emsp;&emsp;In making payments under a grant under paragraph (1) for a fiscal year, the Secretary shall allocate to each State with an application approved under this section an additional amount which bears the same ratio to the amount appropriated to carry out this section for that fiscal year and remaining after amounts are made available under subparagraph (A) as the number of pharmacies of the State bears to the number of pharmacies of all States with applications approved under this section (as determined by the Secretary), except that the Secretary may adjust the amount allocated to a State under this subparagraph after taking into consideration the budget cost estimate for the State's controlled substance monitoring program.
 
 #### (3) Term of grants
 
@@ -84,7 +84,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 #### (d) Reporting requirements
 
-In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection\(a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
+In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B) of this section submit to the Secretary for approval a statement of why such compliance is not feasible or is contrary to the best interests of public health in such State, with the following:
 
 &emsp;(1) The State shall require dispensers to report to such State each dispensing in the State of a controlled substance to an ultimate user not later than 1 week after the date of such dispensing.
 
@@ -118,7 +118,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;&emsp;(J) Such other information as may be required by State law to be reported under this subsection.
 
-&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to an individual dispenser that is unable to submit such information by electronic means.
+&emsp;(4) The State shall require dispensers to report information under this section in accordance with the electronic format specified by the Secretary under subsection (h) of this section, except that the State may waive the requirement of such format with respect to anindividual dispenser that is unable to submit such information by electronic means.
 
 #### (e) Database
 
@@ -156,7 +156,7 @@ In implementing or improving a controlled substance monitoring program under thi
 
 &emsp;In consultation with practitioners, dispensers, and other relevant and interested stakeholders, a State receiving a grant under subsection (a) of this section—
 
-&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of informationthat will help identify and prevent the unlawful diversion or misuse of controlled substances; and
+&emsp;&emsp;(A) shall establish a program to notify practitioners and dispensers of information that will help identify and prevent the unlawful diversion or misuse of controlled substances; and
 
 &emsp;&emsp;(B) may, to the extent permitted under State law, notify the appropriate authorities responsible for carrying out drug diversion investigations if the State determines that information in the database maintained by the State under subsection (e) of this section indicates an unlawful diversion or abuse of a controlled substance.
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 &emsp;(4) The term “dispenser” means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
-&emsp;(5) The term “interoperability” with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
+&emsp;(5) The term “interoperability” with respect to a State controlled substance monitoringprogram means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
 
 &emsp;(6) The term “nonidentifiable information” means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
 

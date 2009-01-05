@@ -16,7 +16,7 @@ Disclosure Requirements.—Under regulations prescribed by the Secretary of Tran
 
 (B) For purposes of subparagraph (A), the term “new motor vehicle” means any motor vehicle driven with no more than the limited use necessary in moving, transporting, or road testing such vehicle prior to delivery from the vehicle manufacturer to a dealer, but in no event shall the odometer reading of such vehicle exceed 300 miles.
 
-(5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until such time as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
+(5) The Secretary may exempt such classes or categories of vehicles as the Secretary deems appropriate from these requirements. Until suchtime as the Secretary amends or modifies the regulations set forth in 49 CFR 580.6, such regulations shall have full force and effect.
 
 (b)
 
@@ -88,7 +88,7 @@ Auction Sales.—If a motor vehicle is sold at an auction, the auction company c
 
 Application and Revision of State Law.—(1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
 
-(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
+(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, onrequest of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467.)
 
@@ -214,5 +214,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Regulations
 
-Section 4(q) of Pub. L. 103–272 provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
+Section 4(q) of Pub. L. 103–272 provided that: “The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C.1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991.”
 

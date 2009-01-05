@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States a Bonneville Po
 
 #### (b) Authorized purposes of expenditures
 
-The Administrator may make expenditures from the fund, which shall have been included inhis annual budget submitted to Congress, without further appropriation and without fiscal year limitation, but within such specific directives or limitations as may be included in appropriation acts, for any purpose necessary or appropriate to carry out the duties imposed upon the Administrator pursuant to law, including but not limited to—
+The Administrator may make expenditures from the fund, which shall have been included in his annual budget submitted to Congress, without further appropriation and without fiscal year limitation, but within such specific directives or limitations as may be included in appropriation acts, for any purpose necessary or appropriate to carry out the duties imposed upon the Administrator pursuant to law, including but not limited to—
 
 &emsp;(1) construction, acquisition, and replacement of (i) the transmission system, including facilities and structures appurtenant thereto, and (ii) additions, improvements, and betterments thereto (hereinafter in this chapter referred to as “transmission system”);
 

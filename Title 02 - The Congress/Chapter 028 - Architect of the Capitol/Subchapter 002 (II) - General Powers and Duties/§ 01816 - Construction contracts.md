@@ -26,7 +26,7 @@ The amount of payment required under a liquidated damages provision described in
 
 #### (2) Adjustment in rate permitted
 
-&emsp;Notwithstanding paragraph (1), the daily liquidated damage payment rate may be adjusted by the contracting officer involved to a rate greater or lesser than the rate described in such paragraph if the contracting officer makes a written determination that the rate described does not accurately reflect the anticipated damages which will be suffered by the United States as a result of the delay in the completion of the contract.
+&emsp;Notwithstanding paragraph (1), the daily liquidated damage payment rate may be adjustedby the contracting officer involved to a rate greater or lesser than the rate described in such paragraph if the contracting officer makes a written determination that the rate described does not accurately reflect the anticipated damages which will be suffered by the United States as a result of the delay in the completion of the contract.
 
 #### (d) Effective date
 

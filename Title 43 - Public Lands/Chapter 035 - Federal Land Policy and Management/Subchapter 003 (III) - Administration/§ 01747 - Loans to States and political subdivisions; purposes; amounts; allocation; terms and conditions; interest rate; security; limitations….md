@@ -16,7 +16,7 @@
 
 (8) Nothing in this section shall be construed to preclude any forebearance <sup>1</sup> for the benefit of the borrower including loan restructuring, which may be determined by the Secretary as justified by the failure of anticipated mineral development or related revenues to materialize as expected when the loan was made pursuant to this section.
 
-(9) Recipients of loans made pursuant to this section shall keep such records as the Secretary shall prescribe by regulation, including records which fully disclose the disposition of the proceeds of such assistance and such other records as the Secretary may require to facilitate an effective audit. The Secretary and the Comptroller General of the United States or their duly authorized representatives shall have access, for the purpose of audit, to such records.
+(9) Recipients of loans made pursuant to this section shall keep such records as the Secretaryshall prescribe by regulation, including records which fully disclose the disposition of the proceeds of such assistance and such other records as the Secretary may require to facilitate an effective audit. The Secretary and the Comptroller General of the United States or their duly authorized representatives shall have access, for the purpose of audit, to such records.
 
 (10) No person in the United States shall, on the grounds of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or part with funds made available under this section.
 

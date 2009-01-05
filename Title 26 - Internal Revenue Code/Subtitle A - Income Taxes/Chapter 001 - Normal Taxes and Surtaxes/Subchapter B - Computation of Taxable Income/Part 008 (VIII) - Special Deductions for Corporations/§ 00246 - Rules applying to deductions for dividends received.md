@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The deductions allowed by sections 243, 244, and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from taxunder section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
+&emsp;The deductions allowed by sections 243, 244, and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
 
 #### (2) Subsection not to apply to certain dividends of Federal Home Loan Banks
 
@@ -138,7 +138,7 @@ Subsec. (c)(4). Pub. L. 108–357, §888(d), inserted “, other than a qualifi
 
 1997—Subsec. (c)(1)(A). Pub. L. 105–34, §1015(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is held by the taxpayer for 45 days or less, or”.
 
-Subsec. (c)(2). Pub. L. 105–34, §1015(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of any stock having preference in dividends, the holding period specified in paragraph (1)(A) shall be 90 days in lieu of 45 days if the taxpayer receives dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days.”
+Subsec. (c)(2). Pub. L. 105–34, §1015(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of any stockhaving preference in dividends, the holding period specified in paragraph (1)(A) shall be 90 days in lieu of 45 days if the taxpayer receives dividends with respect to such stock which are attributable to a period or periods aggregating in excess of 366 days.”
 
 Subsec. (c)(3). Pub. L. 105–34, §1015(b)(2), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “there shall not be taken into account any day which is more than 45 days (or 90 days in the case of stock to which paragraph (2) applies) after the date on which such share becomes ex-dividend, and”.
 
@@ -262,7 +262,7 @@ Amendment by section 1812(d)(1) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 53(d)(2) of Pub. L. 98–369 applicable to distributions after Mar. 1, 1984, in taxable years ending after such date, and amendment of subsec. (c) of this section by section 53(b) of Pub. L. 98–369, applicable to stock acquired after July 18, 1984, in taxable years ending after such date, see section 53(e)(1), (2) ofPub. L. 98–369, set out as an Effective Date note under section 1059 of this title.
+Amendment by section 53(d)(2) of Pub. L. 98–369 applicable to distributions after Mar. 1, 1984, in taxable years ending after such date, and amendment of subsec. (c) of this section by section 53(b) of Pub. L. 98–369, applicable to stock acquired after July 18, 1984, in taxable years ending after such date, see section 53(e)(1), (2) of Pub. L. 98–369, set out as an Effective Date note under section 1059 of this title.
 
 Amendment by section 177(b) of Pub. L. 98–369, effective Jan. 1, 1985, see section 177(d) of Pub. L. 98–369, set out as a note under section 172 of this title.
 

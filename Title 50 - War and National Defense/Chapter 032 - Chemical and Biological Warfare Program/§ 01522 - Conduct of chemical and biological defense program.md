@@ -60,7 +60,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
+<b>1996</b>—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
 

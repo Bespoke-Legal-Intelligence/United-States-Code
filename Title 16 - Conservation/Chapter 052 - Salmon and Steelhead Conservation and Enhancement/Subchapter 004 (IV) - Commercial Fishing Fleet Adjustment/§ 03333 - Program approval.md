@@ -34,7 +34,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(10) the State maintains a moratorium, or similar program, to preclude the issuance of new commercial or charter salmon fishing licenses; and
 
-&emsp;(11) the State has established a revolving fund for the operation of the fleet reduction program that includes an individual account for each category of fishing license (based on type of fishing gear used) and that any moneys received by the State or its agents from the resale of any fishing vessel or gear purchased under the program (A) shall be placed in such revolving fund, (B) shall, for at least 2 years from the date of the program's inception, be placed in the appropriate individual account, and (C) shall be used exclusively to purchasecommercial fishing and charter vessels and licenses in accordance with the provisions of this subchapter.
+&emsp;(11) the State has established a revolving fund for the operation of the fleet reduction program that includes an individual account for each category of fishing license (based on type of fishing gear used) and that any moneys received by the State or its agents from the resale of any fishing vessel or gear purchased under the program (A) shall be placed in such revolving fund, (B) shall, for at least 2 years from the date of the program's inception, be placed in the appropriate individual account, and (C) shall be used exclusively to purchase commercial fishing and charter vessels and licenses in accordance with the provisions of this subchapter.
 
 #### (c) Secretarial action
 

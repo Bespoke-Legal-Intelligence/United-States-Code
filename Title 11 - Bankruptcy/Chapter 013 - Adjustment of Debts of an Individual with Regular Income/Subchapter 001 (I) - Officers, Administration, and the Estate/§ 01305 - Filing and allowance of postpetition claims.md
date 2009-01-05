@@ -20,7 +20,7 @@ Section 1305(a)(2) of the House amendment modifies similar provisions contained 
 
 Section 1305(b) of the House amendment represents a technical modification of similar provisions contained in the House bill and Senate amendment.
 
-The House amendment deletes section 1305(d) of the Senate amendment as unnecessary. Section 502(b)(1) issufficient to disallow any claim to the extent the claim represents the usurious interest or any other charge forbidden by applicable law. It is anticipated that the Rules of Bankruptcy Procedure may require a creditor filing a proof of claim in a case under chapter 13 to include an affirmative statement as contemplated by section 1305(d) of the Senate amendment.
+The House amendment deletes section 1305(d) of the Senate amendment as unnecessary. Section 502(b)(1) is sufficient to disallow any claim to the extent the claim represents the usurious interest or any other charge forbidden by applicable law. It is anticipated that the Rules of Bankruptcy Procedure may require a creditor filing a proof of claim in a case under chapter 13 to include an affirmative statement as contemplated by section 1305(d) of the Senate amendment.
 
 #### senate report no. 95–989
 

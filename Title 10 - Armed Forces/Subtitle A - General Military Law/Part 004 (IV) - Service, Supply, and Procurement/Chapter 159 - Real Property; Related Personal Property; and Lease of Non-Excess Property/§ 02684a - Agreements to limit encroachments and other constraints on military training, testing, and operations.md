@@ -34,13 +34,29 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 (2) Property or interests may not be acquired pursuant to the agreement unless the owner of the property or interests consents to the acquisition.
 
-(3)(A) The Secretary concerned shall determine the appropriate portion of the acquisition costs to be borne by the United States in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B).
+(3) An agreement with an eligible entity under this section may provide for the management of natural resources on real property in which the Secretary concerned acquires any right, title, or interest in accordance with this subsection and for the payment by the United States of all or a portion of the costs of such natural resource management if the Secretary concerned determines that there is a demonstrated need to preserve or restore habitat for the purpose described in subsection (a)(2).
+
+(4)(A) The Secretary concerned shall determine the appropriate portion of the acquisition costs to be borne by the United States in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B).
 
 (B) In lieu of or in addition to making a monetary contribution toward the cost of acquiring a parcel of real property, or an interest therein, pursuant to an agreement under this section, the Secretary concerned may convey, using the authority provided by section 2869 of this title, real property described in paragraph (2) of subsection (a) of such section, subject to the limitation in paragraph (3) of such subsection.
 
-(C) The portion of acquisition costs borne by the United States under subparagraph (A), either through the contribution of funds or excess real property, or both, may not exceed an amount equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).
+(C) The portion of acquisition costs borne by the United States under subparagraph (A), either through the contribution of funds or excess real property, or both, may not exceed an amount equal to, at the discretion of the Secretary concerned—
 
-(D) The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
+&emsp;(i) the fair market value of any property or interest in property to be transferred to the United States upon the request of the Secretary concerned under paragraph (5); or
+
+&emsp;(ii) the cumulative fair market value of all properties or interests to be transferred to the United States under paragraph (5) pursuant to an agreement under subsection (a).
+
+(D) The portion of acquisition costs borne by the United States under subparagraph (A) may exceed the amount determined under subparagraph (C), but only if—
+
+&emsp;(i) the Secretary concerned provides written notice to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives containing—
+
+&emsp;&emsp;(I) a certification by the Secretary that the military value to the United States of the property or interest to be acquired justifies a payment in excess of the fair market value of the property or interest; and
+
+&emsp;&emsp;(II) a description of the military value to be obtained; and
+
+&emsp;(ii) the contribution toward the acquisition costs of the property or interest is not made until at least 14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.
+
+(E) The contribution of an entity or entities to the acquisition costs of real property, or an interest in real property, under paragraph (1)(B) may include, with the approval of the Secretary concerned, the following or any combination of the following:
 
 &emsp;(i) The provision of funds, including funds received by such entity or entities from a Federal agency outside the Department of Defense or a State or local government in connection with a Federal, State, or local program.
 
@@ -48,11 +64,11 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(iii) The exchange or donation of real property or any interest in real property.
 
-(4) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+(5) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
 
-(5) The Secretary concerned may accept on behalf of the United States any property or interest to be transferred to the United States under the agreement.
+(6) The Secretary concerned may accept on behalf of the United States any property or interest to be transferred to the United States under the agreement.
 
-(6) For purposes of the acceptance of property or interests under the agreement, the Secretary concerned may accept an appraisal or title documents prepared or adopted by a non-Federal entity as satisfying the applicable requirements of section 301 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4651) or section 3111 of title 40, if the Secretary concerned finds that the appraisal or title documents substantially comply with the requirements.
+(7) For purposes of the acceptance of property or interests under the agreement, the Secretary concerned may accept an appraisal or title documents prepared or adopted by a non-Federal entity as satisfying the applicable requirements of section 301 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4651) or section 3111 of title 40, if the Secretary concerned finds that the appraisal or title documents substantially comply with the requirements.
 
 (e)
 
@@ -92,9 +108,17 @@ Definitions.—In this section:
 
 &emsp;(2) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545.)
 
 #### Amendments
+
+2008—Subsec. (d)(3), (4). Pub. L. 110–181, §2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (d)(4)(C). Pub. L. 110–181, §2825(b)(2), substituted “equal to, at the discretion of the Secretary concerned—” and cls. (i) and (ii) for “equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).”
+
+Subsec. (d)(4)(D), (E). Pub. L. 110–181, §2825(b)(1), (3), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (d)(5) to (7). Pub. L. 110–181, §2825(a)(1), redesignated pars. (4) to (6) as (5) to (7), respectively.
 
 2006—Subsec. (a). Pub. L. 109–163, §2822(a)(1), in introductory provisions, inserted “or entities” after “entity” and substituted “in the vicinity of, or ecologically related to, a military installation or military airspace” for “in the vicinity of a military installation”.
 

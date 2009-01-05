@@ -32,7 +32,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;&emsp;(A) for the payment of removal costs and other costs, expenses, claims, and damages referred to in section 1012 of such Act,
 
-&emsp;&emsp;(B) to carry out sections 5 and 7 of the Intervention on the High Seas Act relatingto oil pollution or the substantial threat of oil pollution,
+&emsp;&emsp;(B) to carry out sections 5 and 7 of the Intervention on the High Seas Act relating to oil pollution or the substantial threat of oil pollution,
 
 &emsp;&emsp;(C) for the payment of liabilities incurred by the revolving fund established by section 311(k) of the Federal Water Pollution Control Act,
 
@@ -100,7 +100,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (f) References to Oil Pollution Act of 1990
 
-Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
+Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to ina subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
 (Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573.)
 
@@ -182,7 +182,7 @@ Pub. L. 107–295, title III, §322(a), Nov. 25, 2002, 116 Stat. 2103, provided 
 
 Pub. L. 104–66, title I, §1122(a), Dec. 21, 1995, 109 Stat. 724, provided that: “The quarterly report regarding the Oil Spill Liability Trust Fund required to be submitted to the House and Senate Committees on Appropriations under House Report 101–892, accompanying the appropriations for the Coast Guard in the Department of Transportation and Related Agencies Appropriations Act, 1991 \[Pub. L. 101–516\], shall be submitted not later than 30 days after the end of the fiscal year in which this Act is enacted and annually thereafter.”
 
-\[House Report 101–892, 101st Congress, 2d Session, provided that: “The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and SenateCommittees on Appropriations as to the format for these reports.”\]
+\[House Report 101–892, 101st Congress, 2d Session, provided that: “The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and Senate Committees on Appropriations as to the format for these reports.”\]
 
 #### Deepwater Port Liability Fund
 

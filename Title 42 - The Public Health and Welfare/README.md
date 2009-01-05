@@ -1,11 +1,11 @@
 
-42 U.S.C.<br>United States Code, 2007 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2008 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>1.</b>](Chapter%20001%20-%20The%20Public%20Health%20Service/README.md) | <b>The Public Health Service \[Repealed or Omitted, See Chapter 6A\]</b> | <b>1</b> |
+| [<b>1.</b>](Chapter%20001%20-%20The%20Public%20Health%20Service/README.md) | <b>The Public Health Service \[Mostly Repealed or Omitted, See Chapter 6A\]</b> | <b>1</b> |
 | [<b>1A.</b>](Chapter%20001A%20-%20The%20Public%20Health%20Service%3B%20Supplemental%20Provisions/README.md) | <b>The Public Health Service; Supplemental Provisions \[Transferred or Omitted\]</b> | <b>71</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Sanitation%20and%20Quarantine/README.md) | <b>Sanitation and Quarantine</b> | <b>81</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Leprosy/README.md) | <b>Leprosy \[Repealed\]</b> | <b>121</b> |
@@ -46,6 +46,7 @@
 | [<b>21C.</b>](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md) | <b>Protection of Religious Exercise in Land Use and by Institutionalized Persons</b> | <b>2000cc</b> |
 | [<b>21D.</b>](Chapter%20021D%20-%20Detainee%20Treatment/README.md) | <b>Detainee Treatment</b> | <b>2000dd</b> |
 | [<b>21E.</b>](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md) | <b>Privacy and Civil Liberties Protection and Oversight</b> | <b>2000ee</b> |
+| [<b>21F.</b>](Chapter%20021F%20-%20Prohibiting%20Employment%20Discrimination%20on%20the%20Basis%20of%20Genetic%20Information/README.md) | <b>Prohibiting Employment Discrimination on the Basis of Genetic Information</b> | <b>2000ff</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md) | <b>Indian Hospitals and Health Facilities</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
@@ -177,6 +178,7 @@
 | [<b>143.</b>](Chapter%20143%20-%20Intercountry%20Adoptions/README.md) | <b>Intercountry Adoptions</b> | <b>14901</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor%20and%20Tributes/README.md) | <b>Public Safety Officer Medal of Valor and Tributes</b> | <b>15201</b> |
+| [<b>145A.</b>](Chapter%20145A%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery</b> | <b>15231</b> |
 | [<b>146.</b>](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md) | <b>Election Administration Improvement</b> | <b>15301</b> |
 | [<b>147.</b>](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md) | <b>Prison Rape Elimination</b> | <b>15601</b> |
 | [<b>148.</b>](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md) | <b>Windstorm Impact Reduction</b> | <b>15701</b> |
@@ -184,6 +186,9 @@
 | [<b>150.</b>](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md) | <b>National Aeronautics and Space Programs, 2005</b> | <b>16601</b> |
 | [<b>151.</b>](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md) | <b>Child Protection and Safety</b> | <b>16901</b> |
 | [<b>152.</b>](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md) | <b>Energy Independence and Security</b> | <b>17001</b> |
+| [<b>153.</b>](Chapter%20153%20-%20Community%20Safety%20Through%20Recidivism%20Prevention/README.md) | <b>Community Safety Through Recidivism Prevention</b> | <b>17501</b> |
+| [<b>154.</b>](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md) | <b>Combating Child Exploitation</b> | <b>17601</b> |
+| [<b>155.</b>](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md) | <b>Aeronautics and Space Activities</b> | <b>17701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -233,6 +238,7 @@
 - [Chapter 021C - Protection of Religious Exercise in Land Use and by Institutionalized Persons](Chapter%20021C%20-%20Protection%20of%20Religious%20Exercise%20in%20Land%20Use%20and%20by%20Institutionalized%20Persons/README.md)
 - [Chapter 021D - Detainee Treatment](Chapter%20021D%20-%20Detainee%20Treatment/README.md)
 - [Chapter 021E - Privacy and Civil Liberties Protection and Oversight](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md)
+- [Chapter 021F - Prohibiting Employment Discrimination on the Basis of Genetic Information](Chapter%20021F%20-%20Prohibiting%20Employment%20Discrimination%20on%20the%20Basis%20of%20Genetic%20Information/README.md)
 - [Chapter 022 - Indian Hospitals and Health Facilities](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md)
 - [Chapter 023 - Development and Control of Atomic Energy](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md)
 - [Chapter 024 - Disposal of Atomic Energy Communities](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md)
@@ -364,11 +370,14 @@
 - [Chapter 143 - Intercountry Adoptions](Chapter%20143%20-%20Intercountry%20Adoptions/README.md)
 - [Chapter 144 - Developmental Disabilities Assistance and Bill of Rights](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md)
 - [Chapter 145 - Public Safety Officer Medal of Valor and Tributes](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor%20and%20Tributes/README.md)
+- [Chapter 145A - Law Enforcement Congressional Badge of Bravery](Chapter%20145A%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md)
 - [Chapter 146 - Election Administration Improvement](Chapter%20146%20-%20Election%20Administration%20Improvement/README.md)
 - [Chapter 147 - Prison Rape Elimination](Chapter%20147%20-%20Prison%20Rape%20Elimination/README.md)
 - [Chapter 148 - Windstorm Impact Reduction](Chapter%20148%20-%20Windstorm%20Impact%20Reduction/README.md)
 - [Chapter 149 - National Energy Policy and Programs](Chapter%20149%20-%20National%20Energy%20Policy%20and%20Programs/README.md)
-- [Subchapter 015 (XV) - Incentives for Innovative Technologies](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/README.md)
 - [Chapter 150 - National Aeronautics and Space Programs, 2005](Chapter%20150%20-%20National%20Aeronautics%20and%20Space%20Programs%2C%202005/README.md)
 - [Chapter 151 - Child Protection and Safety](Chapter%20151%20-%20Child%20Protection%20and%20Safety/README.md)
 - [Chapter 152 - Energy Independence and Security](Chapter%20152%20-%20Energy%20Independence%20and%20Security/README.md)
+- [Chapter 153 - Community Safety Through Recidivism Prevention](Chapter%20153%20-%20Community%20Safety%20Through%20Recidivism%20Prevention/README.md)
+- [Chapter 154 - Combating Child Exploitation](Chapter%20154%20-%20Combating%20Child%20Exploitation/README.md)
+- [Chapter 155 - Aeronautics and Space Activities](Chapter%20155%20-%20Aeronautics%20and%20Space%20Activities/README.md)

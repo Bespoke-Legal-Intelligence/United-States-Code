@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(3) the <sup>2</sup> term “director of a sea grant college” means a person designated by his or her institution to direct a sea grant college or sea grant institute.
 
-&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field, including marine affairs, resource management, technology, education, or science, which is concerned with or likely to improve the understanding, assessment, development, utilization, or conservation of ocean, coastal, or Great Lakes resources.
+&emsp;(4) The term “field related to ocean, coastal, and Great Lakes resources” means any discipline or field, including marine affairs, resource management, technology, education, or science, which is concerned with or likely to improve the understanding, assessment, development, management, utilization, or conservation of ocean, coastal, or Great Lakes resources.
 
 &emsp;(5) The term “institution” means any public or private institution of higher education, institute, laboratory, or State or local agency.
 
@@ -40,11 +40,11 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) man-made, tangible, intangible, actual, or potential resources.
 
-&emsp;(9) The term “panel” means the sea grant review panel established under section 1128 of this title.
+&emsp;(9) The term “Board” means the National Sea Grant Advisory Board established under section 1128 of this title.
 
 &emsp;(10) The term “person” means any individual; any public or private corporation, partnership, or other association or entity (including any sea grant college, sea grant institute or other institution); or any State, political subdivision of a State, or agency or officer thereof.
 
-&emsp;(11) The term “project” means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or advisory services administered by a person with expertise in such a field.
+&emsp;(11) The term “project” means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
 
 &emsp;(12) The term “sea grant college” means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
@@ -56,25 +56,23 @@ As used in this subchapter—
 
 &emsp;(16) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
-(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title II, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99.)
-
-#### Amendment of Section
-
-<i>Pub. L. 102–251, title III, §§307(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (6) of this section is amended:</i>
-
-<i>(1) by striking “and” at the end of subparagraph (E);</i>
-
-<i>(2) by redesignating subparagraph (F) as subparagraph (G); and</i>
-
-<i>(3) by inserting immediately after subparagraph (E) the following new subparagraph:</i>
-
-(F) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured; and
+(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title II, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
 
 #### References in Text
 
 Section 1123 of this title, referred to in par. (2), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to appointment of the Director of the National Sea Grant College Program, which formerly appeared in subsec. (b), are contained in subsec. (d).
 
 #### Amendments
+
+2008—Par. (4). Pub. L. 110–394, §4(a)(1), inserted “management,” after “development,”.
+
+Par. (6)(F), (G). Pub. L. 110–394, §4(b), repealed section 307(a) of Pub. L. 102–251. See 1992 Amendment note below.
+
+Par. (9). Pub. L. 110–394, §9(a)(4)(B), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘panel’ means the sea grant review panel established under section 1128 of this title.”
+
+Par. (11). Pub. L. 110–394, §4(a)(2), substituted “extension services” for “advisory services”.
+
+Pars. (12), (13). Pub. L. 110–394, §4(a)(3), made technical amendment to reference in original act which appears in text as reference to “section 1126 of this title”, requiring no change in text.
 
 1998—Par. (3). Pub. L. 105–160, §4(a)(1), substituted “his or her” for “their university or” and “college or sea grant institute” for “college, programs, or regional consortium”.
 
@@ -106,13 +104,15 @@ Pub. L. 105–160, §4(a)(5), added pars. (12) to (17) and struck out former par
 
 Pub. L. 105–160, §4(a)(3), redesignated pars. (10) to (15) as (12) to (17), respectively.
 
+1992—Par. (6)(F), (G). Pub. L. 102–251, §307(a), which directed addition of subpar. (F) and redesignation of former subpar. (F) as (G), was repealed by section 4(b)of Pub. L. 110–394. See Effective Date of 1992 Amendment note below.
+
 1991—Par. (4). Pub. L. 102–186 inserted “marine affairs and resource management,” after “education,”.
 
 1987—Pars. (2), (3). Pub. L. 100–220, §3104(a)(1), (2), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.”
 
 Par. (4). Pub. L. 100–220, §3104(b)(1)(C), substituted “ocean, coastal, and Great Lakes resources” for “ocean and coastal resources” in two places.
 
-Par. (6). Pub. L. 100–220, §3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil,and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
+Par. (6). Pub. L. 100–220, §3104(a)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘marine environment’ means the coastal zone, as defined in section 1453(1) of title 16; the seabed, subsoil, and waters of the Great Lakes and the territorial sea of the United States; the waters of any zone over which the United States asserts exclusive fishery management authority; the waters of the high seas; and the seabed and subsoil of and beyond the outer Continental Shelf.”
 
 Par. (7). Pub. L. 100–220, §3104(a)(3), added par. (7) and struck out former par. (7) which read as follows: “The term ‘ocean and coastal resource’ means any resource (whether living, nonliving, manmade, tangible, intangible, actual, or potential) which is located in, derived from, or traceable to, the marine environment. Such term includes the habitat of any such living resource, the coastal space, the ecosystems, the nutrient-rich areas, and the other components of the marine environment which contribute to or provide (or which are capable of contributing to or providing) recreational, scenic, esthetic, biological, habitational, commercial, economic, or conservation values. Living resources include natural and cultured plant life, fish, shellfish, marine mammals, and wildlife. Nonliving resources include energy sources, minerals, and chemical substances.”
 

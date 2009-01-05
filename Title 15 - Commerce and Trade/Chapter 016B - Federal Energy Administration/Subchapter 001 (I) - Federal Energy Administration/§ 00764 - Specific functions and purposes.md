@@ -22,7 +22,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(4) develop plans and programs for dealing with energy production shortages;
 
-&emsp;(5) promote stability in energy prices to the consumer, promote free and open competition in all aspects of the energy field, prevent unreasonable profits within the various segments of the energy industry, and promote free enterprise;
+&emsp;(5) promote stability in energy prices to the consumer, promote free and open competition in all aspects of the energy field, prevent unreasonable profits within the various segmentsof the energy industry, and promote free enterprise;
 
 &emsp;(6) assure that energy programs are designed and implemented in a fair and efficient manner so as to minimize hardship and inequity while assuring that the priority needs of the Nation are met;
 

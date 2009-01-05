@@ -78,7 +78,7 @@ Biennial Report to Congress.—(1) Not later than April 1 of each even-numbered 
 
 &emsp;“(D) An analysis by the Director of Central Intelligence of the involvement of military specialists, weapons specialists, and intelligence specialists of the People's Republic of China in the activities of the Joint Commission established under the Agreement and in other activities conducted under the Agreement.
 
-&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced the military and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
+&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced themilitary and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
 
 &emsp;“(F) An assessment by the Inspector General of the Department of Commerce of—
 

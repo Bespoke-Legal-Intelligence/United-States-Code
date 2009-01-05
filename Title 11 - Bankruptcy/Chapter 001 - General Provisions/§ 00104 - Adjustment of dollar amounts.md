@@ -1,18 +1,16 @@
 ### §104. Adjustment of dollar amounts
 
-(a) The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.
+(a) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
 
-(b)(1) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
+&emsp;(1) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
 
-&emsp;(A) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
+&emsp;(2) to round to the nearest $25 the dollar amount that represents such change.
 
-&emsp;(B) to round to the nearest $25 the dollar amount that represents such change.
+(b) Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28.
 
-(2) Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28.
+(c) Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(3) Adjustments made in accordance with paragraph (1) shall not apply with respect to cases commenced before the date of such adjustments.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 
@@ -32,7 +30,9 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 #### Amendments
 
-2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
+2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.”
+
+2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and“541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
 
 Pub. L. 109–8, §1002, inserted “101(18),” after “101(3),” in introductory provisions.
 
@@ -70,13 +70,9 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendm
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (a) of this section is listed on page 12), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
 #### Adjustment of Dollar Amounts
 
-By notice dated Feb. 14, 2007, 72 F.R. 7082, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (b) of this section, effective Apr. 1, 2007, as follows:
+By notice dated Feb. 14, 2007, 72 F.R. 7082, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in former subsec. (b) of this section, effective Apr. 1, 2007, as follows:
 
 &nbsp;
 
@@ -138,7 +134,7 @@ By notice dated Feb. 14, 2007, 72 F.R. 7082, the Judicial Conference of the Unit
 
 <sup>1</sup> Each time it appears.
 
-Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (b) of this section, were contained in the following:
+Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in former subsec. (b) of this section, were contained in the following:
 
 Feb. 18, 2004, 69 F.R. 8482, effective Apr. 1, 2004.
 

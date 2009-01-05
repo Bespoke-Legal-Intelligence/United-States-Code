@@ -28,9 +28,9 @@ For the purpose of this subchapter—
 
 &emsp;(2) “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists,optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
+&emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regularfull-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -86,7 +86,7 @@ For the purpose of this subchapter—
 
 &emsp;(18) “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
-&emsp;(19) “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
+&emsp;(19) “organ” means a part of the body that performs a special function, and for purposesof this subchapter excludes the brain, heart, and back; and
 
 &emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 

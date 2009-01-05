@@ -44,7 +44,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company which—
 
-&emsp;&emsp;(A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error—
+&emsp;&emsp;(A) maintains procedures reasonably adapted to avoid any inadvertent error and,unintentionally and as a result of such an error—
 
 &emsp;&emsp;&emsp;(i) fails to make, submit, or publish such reports or information as may be required under this chapter or under regulations prescribed by the Board pursuant to this chapter, within the period of time specified by the Board; or
 
@@ -66,7 +66,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (3) Third tier
 
-&emsp;Notwithstanding paragraph (2), if any company knowingly or with reckless disregard forthe accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board may, in its discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such company, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
+&emsp;Notwithstanding paragraph (2), if any company knowingly or with reckless disregard for the accuracy of any information or report described in paragraph (2) submits or publishes any false or misleading report or information, the Board may, in its discretion, assess a penalty of not more than $1,000,000 or 1 percent of total assets of such company, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected.
 
 #### (4) Assessment; etc.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(j) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 mayapply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 Amendment by section 911(e) of Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

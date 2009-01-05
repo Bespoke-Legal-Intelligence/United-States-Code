@@ -4,5 +4,5 @@ Section, Pub. L. 91–119, §6, Nov. 18, 1969, 83 Stat. 199; Pub. L. 91–303, �
 
 #### Report by Administrator of National Aeronautics and Space Administration on Administration Policy Regarding Conflicts of Interest, Standards of Conduct, and Financial Disclosure
 
-Pub. L. 95–401, §8, Sept. 30, 1978, 92 Stat. 860, provided that the Administrator of the National Aeronauticsand Space Administration report to the House Committee on Science and Technology and the Senate Committee on Commerce, Science, and Transportation no later than December 31, 1978, on the Administration policy regarding conflicts of interest, standards of conduct and financial disclosure and the implementation of that policy.
+Pub. L. 95–401, §8, Sept. 30, 1978, 92 Stat. 860, provided that the Administrator of the National Aeronautics and Space Administration report to the House Committee on Science and Technology and the Senate Committee on Commerce, Science, and Transportation no later than December 31, 1978, on the Administration policy regarding conflicts of interest, standards of conduct and financial disclosure and the implementation of that policy.
 

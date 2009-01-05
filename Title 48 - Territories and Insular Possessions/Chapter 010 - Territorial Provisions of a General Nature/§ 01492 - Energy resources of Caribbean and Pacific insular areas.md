@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) these insular areas are endowed with a variety of renewable sources of energy which, if developed, would alleviate their dependence on imported sources of energy, relieve the fiscal burden on local governments imposed by the costs of imported fuel, and strengthen the base for political, social, and economic development;
 
-&emsp;(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources;
+&emsp;(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequatelydeveloped to meet the energy demands of these areas from renewable energy resources;
 
 &emsp;(5) electric power transmission and distribution lines in insular areas are inadequate to withstand damage caused by the hurricanes and typhoons which frequently occur in insular areas and such damage often costs millions of dollars to repair; and
 
@@ -88,7 +88,7 @@ The Secretary of Energy or any administrative official who may succeed him, with
 
 &emsp;(D) fuel substitution and minimization with indigenous biofuels, such as coconut oil.
 
-(3) In carrying out this subsection, for each insular area with a significant need for distributed generation, the Secretary of Energy shall identify and evaluate the most promising strategies and projects described in subparagraphs (C) and (D) of paragraph (2) for meeting that need.
+(3) In carrying out this subsection, for each insular area with a significant need for distributedgeneration, the Secretary of Energy shall identify and evaluate the most promising strategies and projects described in subparagraphs (C) and (D) of paragraph (2) for meeting that need.
 
 (4) In assessing the potential of any strategy or project under paragraphs (2) and (3), the Secretary of Energy shall consider—
 
@@ -170,7 +170,7 @@ Treatment of funds for certain purposes.—Grants provided under this paragraph 
 
 &emsp;(F)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
+Authorization of appropriations.—There are authorized to be appropriated tocarry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
 
 (5) For the purposes of this subsection—
 

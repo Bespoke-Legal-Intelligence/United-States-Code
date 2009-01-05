@@ -60,7 +60,7 @@ References.—Any reference to the Veterans Health Services and Research Adminis
 
 #### Department of Veterans Affairs Act
 
-Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642, 2644, 2645, 2648, as amended by Pub. L. 101–94, title IV, §401, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–576,title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–83, §3, Aug. 6, 1991, 105 Stat. 402, provided that:
+Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642, 2644, 2645, 2648, as amended by Pub. L. 101–94, title IV, §401, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–83, §3, Aug. 6, 1991, 105 Stat. 402, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -108,7 +108,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 &emsp;“(4) to the Chief Medical Director of the Veterans’ Administration shall be deemed to refer to the Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs;
 
-&emsp;“(5) to the Department of Medicine and Surgery of the Veterans’ Administration shall be deemed to refer to the Veterans Health Services and Research Administration of the Department of Veterans Affairs;
+&emsp;“(5) to the Department of Medicine and Surgery of the Veterans’ Administration shall be deemed torefer to the Veterans Health Services and Research Administration of the Department of Veterans Affairs;
 
 &emsp;“(6) to the Chief Benefits Director of the Veterans’ Administration shall be deemed to refer to the Chief Benefits Director \[now Under Secretary for Benefits\] of the Department of Veterans Affairs;
 

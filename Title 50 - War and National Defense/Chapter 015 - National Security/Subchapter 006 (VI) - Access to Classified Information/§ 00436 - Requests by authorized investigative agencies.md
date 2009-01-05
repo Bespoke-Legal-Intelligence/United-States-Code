@@ -74,7 +74,7 @@ The Fair Credit Reporting Act, referred to in subsec. (f), is title VI of Pub. L
 
 #### Amendments
 
-2006—Subsec. (b). Pub. L. 109–177 amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.”
+<b>2006</b>—Subsec. (b). Pub. L. 109–177 amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.”
 
 Subsec. (b)(4). Pub. L. 109–178 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized investigative agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized investigative agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 

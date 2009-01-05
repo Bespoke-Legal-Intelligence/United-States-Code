@@ -3,9 +3,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [1781\.](%C2%A7%2001781%20-%20Office%20of%20Family%20Policy.md) | Office of Family Policy. |
+| [1781a.](%C2%A7%2001781a%20-%20Department%20of%20Defense%20Military%20Family%20Readiness%20Council.md) | Department of Defense Military Family Readiness Council. |
+| [1781b.](%C2%A7%2001781b%20-%20Department%20of%20Defense%20policy%20and%20plans%20for%20military%20family%20readiness.md) | Department of Defense policy and plans for military family readiness. |
 | [1782\.](%C2%A7%2001782%20-%20Surveys%20of%20military%20families.md) | Surveys of military families. |
 | [1783\.](%C2%A7%2001783%20-%20Family%20members%20serving%20on%20advisory%20committees.md) | Family members serving on advisory committees. |
 | [1784\.](%C2%A7%2001784%20-%20Employment%20opportunities%20for%20military%20spouses.md) | Employment opportunities for military spouses. |
+| [1784a.](%C2%A7%2001784a%20-%20Education%20and%20training%20opportunities%20for%20military%20spouses%20to%20expand%20employment%20and%20portable%20career%20opportunities.md) | Education and training opportunities for military spouses to expand employment and portable career opportunities. |
 | [1785\.](%C2%A7%2001785%20-%20Youth%20sponsorship%20program.md) | Youth sponsorship program. |
 | [1786\.](%C2%A7%2001786%20-%20Dependent%20student%20travel%20within%20the%20United%20States.md) | Dependent student travel within the United States. |
 | [1787\.](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md) | Reporting of child abuse. |
@@ -15,6 +18,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
+
+Pub. L. 110–181, div. A, title V, §581(d), Jan. 28, 2008, 122 Stat. 122, added items 1781a and 1781b.
 
 2003—Pub. L. 108–136, div. A, title V, §582(a)(2), Nov. 24, 2003, 117 Stat. 1490, added item 1789.
 
@@ -26,9 +33,12 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01781 - Office of Family Policy](%C2%A7%2001781%20-%20Office%20of%20Family%20Policy.md)
+- [&sect; 01781a - Department of Defense Military Family Readiness Council](%C2%A7%2001781a%20-%20Department%20of%20Defense%20Military%20Family%20Readiness%20Council.md)
+- [&sect; 01781b - Department of Defense policy and plans for military family readiness](%C2%A7%2001781b%20-%20Department%20of%20Defense%20policy%20and%20plans%20for%20military%20family%20readiness.md)
 - [&sect; 01782 - Surveys of military families](%C2%A7%2001782%20-%20Surveys%20of%20military%20families.md)
 - [&sect; 01783 - Family members serving on advisory committees](%C2%A7%2001783%20-%20Family%20members%20serving%20on%20advisory%20committees.md)
 - [&sect; 01784 - Employment opportunities for military spouses](%C2%A7%2001784%20-%20Employment%20opportunities%20for%20military%20spouses.md)
+- [&sect; 01784a - Education and training opportunities for military spouses to expand employment and portable career opportunities](%C2%A7%2001784a%20-%20Education%20and%20training%20opportunities%20for%20military%20spouses%20to%20expand%20employment%20and%20portable%20career%20opportunities.md)
 - [&sect; 01785 - Youth sponsorship program](%C2%A7%2001785%20-%20Youth%20sponsorship%20program.md)
 - [&sect; 01786 - Dependent student travel within the United States](%C2%A7%2001786%20-%20Dependent%20student%20travel%20within%20the%20United%20States.md)
 - [&sect; 01787 - Reporting of child abuse](%C2%A7%2001787%20-%20Reporting%20of%20child%20abuse.md)

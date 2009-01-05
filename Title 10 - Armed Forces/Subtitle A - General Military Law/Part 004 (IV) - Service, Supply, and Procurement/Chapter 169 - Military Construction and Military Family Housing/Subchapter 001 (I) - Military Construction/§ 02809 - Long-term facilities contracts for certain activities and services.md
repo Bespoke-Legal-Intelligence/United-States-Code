@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 101–189, §2803(3), substituted “1991” for “1989”
 
 Subsec. (c). Pub. L. 100–180, §2302(b), substituted “1989” for “1987”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determinesthat the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
+1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
 
 Pub. L. 99–661, §1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
 

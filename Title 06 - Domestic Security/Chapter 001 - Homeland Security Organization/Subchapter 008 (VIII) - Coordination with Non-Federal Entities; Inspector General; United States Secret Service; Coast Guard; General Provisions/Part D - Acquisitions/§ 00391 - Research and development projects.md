@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-Until September 30, 2008, the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2009 <sup>1</sup> and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
@@ -28,19 +28,37 @@ The Secretary may—
 
 &emsp;(2) whenever necessary due to an urgent homeland security need, procure temporary (not to exceed 1 year) or intermittent personal services, including the services of experts or consultants (or organizations thereof), without regard to the pay limitations of such section 3109.
 
-#### (d) Definition of nontraditional Government contractor
+#### (d) Additional requirements
+
+#### (1) In general
+
+&emsp;The authority of the Secretary under this section shall terminate September 30, 2009, unless before that date the Secretary—
+
+&emsp;&emsp;(A) issues policy guidance detailing the appropriate use of that authority; and
+
+&emsp;&emsp;(B) provides training to each employee that is authorized to exercise that authority.
+
+#### (2) Report
+
+&emsp;The Secretary shall provide an annual report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for its use, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
+
+#### (e) Definition of nontraditional Government contractor
 
 In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687.)
 
 #### References in Text
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (e), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
 
 The effective date of this chapter, referred to in subsec. (b), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–329, §537(1), substituted “Until September 30, 2009 and subject to subsection (d),” for “Until September 30, 2008,” in introductory provisions.
+
+Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2007—Subsec. (a). Pub. L. 110–161 substituted “Until September 30, 2008” for “During the 5-year period following the effective date of this chapter” in introductory provisions.
 
@@ -49,4 +67,6 @@ The effective date of this chapter, referred to in subsec. (b), is 60 days after
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

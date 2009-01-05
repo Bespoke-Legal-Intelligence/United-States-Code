@@ -4,11 +4,11 @@
 
 #### (1) Venue and record
 
-&emsp;Any hearing under section 4631 or 4636(c) of this title shall be held on the record and in the District of Columbia.
+&emsp;Any hearing under section 4631, 4636(c), or 4636a of this title shall be held on the record and in the District of Columbia.
 
 #### (2) Timing
 
-&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4631 of this title or determination to impose a penalty under section 4636 of this title, unless an earlier or a later date is set by the hearing officer at the request of the party served.
+&emsp;Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 daysafter service of the notice of charges under section 4631 or 4636a of this title or determination to impose a penalty under section 4636 of this title, unless an earlier or a later date is set by the hearing officer at the request of the party served.
 
 #### (3) Procedure
 
@@ -16,7 +16,7 @@
 
 #### (4) Failure to appear
 
-&emsp;If the party served fails to appear at the hearing through a duly authorized representative, such party shall be deemed to have consented to the issuance of the cease-and-desist order or the imposition of the penalty for which the hearing is held.
+&emsp;If the party served fails to appear at the hearing through a duly authorized representative, such party shall be deemed to have consented to the issuance of the cease-and-desist or removal or prohibition order or the imposition of the penalty for which the hearing is held.
 
 #### (b) Issuance of order
 
@@ -28,5 +28,13 @@
 
 &emsp;Judicial review of any such order shall be exclusively as provided in section 4634 of this title. Unless such a petition for review is timely filed as provided in section 4634 of this title, and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
 
-(Pub. L. 102–550, title XIII, §1373, Oct. 28, 1992, 106 Stat. 3989.)
+(Pub. L. 102–550, title XIII, §1373, Oct. 28, 1992, 106 Stat. 3989; Pub. L. 110–289, div. A, title I, §1153(b)(1)(B), July 30, 2008, 122 Stat. 2774.)
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–289, §1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
+
+Subsec. (a)(2). Pub. L. 110–289, §1153(b)(1)(B)(ii), inserted “or 4636a” after “section 4631”.
+
+Subsec. (a)(4). Pub. L. 110–289, §1153(b)(1)(B)(iii), which directed amendment of par. (4) by inserting “or removal or prohibition” after “cease and desist”, was executed by making the insertion after “cease-and-desist” to reflect the probable intent of Congress.
 

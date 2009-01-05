@@ -14,7 +14,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(3) consider the available facilities and expertise at all National Laboratories and emphasize investments which complement rather than duplicate capabilities; and
 
-&emsp;(4) develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuringthat Department programs under this part will be generally recognized to be among the best in the world.
+&emsp;(4) develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
 
 #### (c) Plan
 

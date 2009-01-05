@@ -34,7 +34,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (d)
 
-Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce,Science, and Transportation of the Senate a report containing—
+Staffing Report.—The Administrator of the Federal Aviation Administration shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
 &emsp;(1) the staffing standards used to determine the number of air traffic controllers needed to operate the air traffic control system of the United States;
 

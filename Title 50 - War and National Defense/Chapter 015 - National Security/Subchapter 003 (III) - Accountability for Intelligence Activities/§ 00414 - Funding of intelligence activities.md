@@ -54,15 +54,15 @@ As used in this section—
 
 #### Amendments
 
-2004—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458, §1071(a)(5), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 Subsec. (a)(3)(C). Pub. L. 108–458, §1071(a)(1)(Z), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 Subsec. (d)(2). Pub. L. 108–458, §1071(a)(1)(AA), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2002—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
 
-1991—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
 
 Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
@@ -102,7 +102,7 @@ Pub. L. 102–172, title VIII, §8089, Nov. 26, 1991, 105 Stat. 1193, provided t
 
 #### Enhanced Security Countermeasures Capabilities; Application of Section
 
-Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
+Pub. L. 99–169, title IV, §401(c), Dec. 4, 1985, 99 Stat. 1006, provided that the amendment made by section 401(a) of Pub. L. 99–169, enacting this section, would not apply with respect to funds appropriated to the Director of Central Intelligence under the heading “
 
 enhanced security countermeasures capabilities” in the Supplemental Appropriations Act, 1985, Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 311.
 

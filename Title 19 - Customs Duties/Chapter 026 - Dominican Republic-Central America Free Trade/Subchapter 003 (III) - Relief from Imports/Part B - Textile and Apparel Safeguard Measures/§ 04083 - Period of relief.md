@@ -6,7 +6,7 @@ Subject to subsection (b), any import relief that the President provides under s
 
 #### (b) Extension
 
-If the initial period for any import relief provided under section 4082 of this title is less than 3 years, the President may extend the effective period of any import relief provided under that section, subject to the limitation set forth in subsection (a), if the President determines that—
+If the initial period for any import relief provided under section 4082 of this title is less than3 years, the President may extend the effective period of any import relief provided under that section, subject to the limitation set forth in subsection (a), if the President determines that—
 
 &emsp;(1) the import relief continues to be necessary to remedy or prevent serious damage and to facilitate adjustment by the domestic industry to import competition; and
 

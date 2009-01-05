@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;If—
 
-&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deductionunder paragraphs (1) and (2) of subsection (g), exceeds
+&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deduction under paragraphs (1) and (2) of subsection (g), exceeds
 
 &emsp;&emsp;(B) the amount allowable as a deduction under subsection (a) (determined without regard to subsection (d)),
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a qualified reserve plan, the amount properly taken into account for the taxable year is the reasonable addition for such year to a reserve for the taxpayer's liability under the plan. Unless otherwise required or permitted in regulations prescribed by the Secretary, the reserve for the taxpayer's liability shall be determined under the unit credit method modified to reflect the requirements of paragraphs (3) and (4). All benefits paid under the plan shall be charged to the reserve.
+&emsp;In the case of a qualified reserve plan, the amount properly taken into account for the taxable year is the reasonable addition forsuch year to a reserve for the taxpayer's liability under the plan. Unless otherwise required or permitted in regulations prescribed by the Secretary, the reserve for the taxpayer's liability shall be determined under the unit credit method modified to reflect the requirements of paragraphs (3) and (4). All benefits paid under the plan shall be charged to the reserve.
 
 #### (2) Income item
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Qualified reserve plan
 
-&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which anelection made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
+&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which an election made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
 
 #### (g) Other special rules
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;No deduction shall be allowed under this section with respect to any plan for any taxable year unless the taxpayer furnishes to the Secretary with respect to such plan (at such time as the Secretary may by regulations prescribe)—
+&emsp;&emsp;No deduction shall be allowed under this section with respect to any plan for any taxable year unless the taxpayer furnishes to the Secretary with respect to such plan (atsuch time as the Secretary may by regulations prescribe)—
 
 &emsp;&emsp;&emsp;(i) a statement from the foreign tax authorities specifying the amount of the deduction allowed in computing taxable income under foreign law for such year with respect to such plan,
 
@@ -214,7 +214,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 1986—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2).
 
-Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compensated employee (within themeaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
 
 #### Effective Date of 2006 Amendment
 

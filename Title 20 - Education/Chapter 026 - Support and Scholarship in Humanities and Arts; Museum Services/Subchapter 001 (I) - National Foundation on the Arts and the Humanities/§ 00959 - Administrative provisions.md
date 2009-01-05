@@ -76,7 +76,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 &emsp;(iii) if practicable, as determined by the Chairperson, a copy of such project, production, or program.
 
-(B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if the recipient shows good cause why such an extension should be granted.
+(B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if therecipient shows good cause why such an extension should be granted.
 
 (3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
@@ -110,7 +110,7 @@ Subsec. (b). Pub. L. 101–512, §318 \[title I, §109(9)\], which directed amen
 
 Pub. L. 101–512, §318 \[title I, §109(8)\], which directed amendment of the fifth sentence of this section by making the substitution for “For the purpose”, was executed by substituting “(4) For the purposes” for “For the purposes” to reflect the probable intent of Congress.
 
-Pub. L. 101–512, §318 \[title I, §109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out“(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
+Pub. L. 101–512, §318 \[title I, §109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out “(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
 
 Subsecs. (c) to (e). Pub. L. 101–512, §318 \[title I, §109(3), (4), (9)\], added subsec. (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and struck out former subsec. (e) which related to studies and reports on the state and quality of arts and humanities education in public elementary and secondary schools. Former subsec. (d) redesignated (f).
 

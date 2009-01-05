@@ -30,7 +30,7 @@
 
 Within 180 days after the filing of an application pursuant to subsection (a) of this section, or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either—
 
-&emsp;(1) issue an order, effective for one year, conditionally approving the application if the Secretary finds that none of the grounds for denying conditional approval, specified in subsection (c) of this section applies and publisha Federal Register notice of the conditional approval, or
+&emsp;(1) issue an order, effective for one year, conditionally approving the application if the Secretary finds that none of the grounds for denying conditional approval, specified in subsection (c) of this section applies and publish a Federal Register notice of the conditional approval, or
 
 &emsp;(2) give the applicant notice of an opportunity for an informal hearing on the question whether such application can be conditionally approved.
 
@@ -70,7 +70,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 #### (e) Withdrawal of conditional approval
 
-(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
+(1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section ifthe Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
 
 (2) The Secretary shall, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that—
 
@@ -78,7 +78,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;(B) on the basis of new information before the Secretary with respect to such drug, evaluated together with the evidence available to the Secretary when the application was conditionally approved, that there is not a reasonable expectation that such drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling thereof.
 
-(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretaryfinds that any of the provisions of section 360b(e)(2) of this title are applicable.
+(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that any of the provisions of section 360b(e)(2) of this title are applicable.
 
 #### (f) Labeling
 
@@ -132,7 +132,7 @@ Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that
 
 #### Regulations
 
-Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: “On the date of enactment of this Act \[Aug. 2, 2004\], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360ccc, 360ccc–2\] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) \[21 U.S.C. 360ccc–1\], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) \[no subsection (i) of section 102 has been enacted\] are not in fact appropriated.”
+Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: “On the date of enactment ofthis Act \[Aug. 2, 2004\], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360ccc, 360ccc–2\] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) \[21 U.S.C. 360ccc–1\], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) \[no subsection (i) of section 102 has been enacted\] are not in fact appropriated.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this subsection,”.</i>
 

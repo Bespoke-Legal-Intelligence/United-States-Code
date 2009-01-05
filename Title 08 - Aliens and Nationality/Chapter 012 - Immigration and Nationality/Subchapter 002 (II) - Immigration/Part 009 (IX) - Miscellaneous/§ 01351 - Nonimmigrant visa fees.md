@@ -28,7 +28,35 @@ Section 2(b) of Pub. L. 105–54 provided that: “The amendment made by subsect
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
-#### Surcharge for Processing Machine Readable Nonimmigrant Visas
+#### Surcharge for Processing Machine-Readable Nonimmigrant Visas
+
+Pub. L. 110–457, title II, §239, Dec. 23, 2008, 122 Stat. 5085, provided that:
+
+“(a)
+
+Increase in Fee.—Notwithstanding any other provision of law, not later than October 1, 2009, the Secretary of State shall increase by $1 the fee or surcharge assessed under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note) for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
+
+“(b)
+
+Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), the additional amount collected pursuant \[to\] the fee increase under subsection (a) shall be deposited in the Treasury.
+
+“(c)
+
+Duration of Increase.—The fee increase authorized under subsection (a) shall terminate on the date that is 3 years after the first date on which such increased fee is collected.”
+
+Pub. L. 110–293, title V, §501, July 30, 2008, 122 Stat. 2968, provided that:
+
+“(a)
+
+Fee Increase.—Notwithstanding any other provision of law—
+
+&emsp;“(1) not later than October 1, 2010, the Secretary of State shall increase by $1 the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note) for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas; and
+
+&emsp;“(2) not later than October 1, 2013, the Secretary shall increase the fee or surcharge described in paragraph (1) by an additional $1.
+
+“(b)
+
+Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), fees collected under the authority of subsection (a) shall be deposited in the Treasury.”
 
 Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, which provided in part that notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of Pub. L. 103–236 \[below\], fees could be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1), and that all fees so collected would be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs under section 140(a)(2) and would remain available until expended, was from the Department of State and Related Agency Appropriations Act, 2002, and was not repeated in subsequent appropriation acts.
 

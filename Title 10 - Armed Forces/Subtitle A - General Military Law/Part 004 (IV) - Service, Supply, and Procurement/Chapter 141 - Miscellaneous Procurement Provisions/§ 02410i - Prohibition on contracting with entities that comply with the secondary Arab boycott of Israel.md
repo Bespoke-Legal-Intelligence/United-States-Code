@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United Statesto oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
 (b)
 
@@ -18,7 +18,7 @@ Waiver Authority.—The Secretary of Defense may waive the prohibition in subsec
 
 Exceptions.—Subsection (b) does not apply—
 
-&emsp;(1) to contracts for consumable supplies, provisions, or services that are intended to beused for the support of United States forces or of allied forces in a foreign country; or
+&emsp;(1) to contracts for consumable supplies, provisions, or services that are intended to be used for the support of United States forces or of allied forces in a foreign country; or
 
 &emsp;(2) to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.
 

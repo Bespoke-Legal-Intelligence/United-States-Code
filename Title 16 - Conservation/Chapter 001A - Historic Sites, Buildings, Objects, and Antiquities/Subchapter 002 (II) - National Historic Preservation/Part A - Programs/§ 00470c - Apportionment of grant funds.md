@@ -12,7 +12,7 @@ The Secretary shall notify each State of its apportionment under this subsection
 
 #### (c) Transfer of funds to local governments
 
-A minimum of 10 per centum of the annual apportionment distributed by the Secretary to each State for the purposes of carrying out this subchapter shall be transferred by the State, pursuant to the requirements of this subchapter, to local governments which are certified undersection 470a(c) of this title for historic preservation projects or programs of such local governments. In any year in which the total annual apportionment to the States exceeds $65,000,000, one half of the excess shall also be transferred by the States to local governments certified pursuant to section 470a(c) of this title.
+A minimum of 10 per centum of the annual apportionment distributed by the Secretary to each State for the purposes of carrying out this subchapter shall be transferred by the State, pursuant to the requirements of this subchapter, to local governments which are certified under section 470a(c) of this title for historic preservation projects or programs of such local governments. In any year in which the total annual apportionment to the States exceeds $65,000,000, one half of the excess shall also be transferred by the States to local governments certified pursuant to section 470a(c) of this title.
 
 #### (d) Guidelines for use and distribution of funds to local governments
 

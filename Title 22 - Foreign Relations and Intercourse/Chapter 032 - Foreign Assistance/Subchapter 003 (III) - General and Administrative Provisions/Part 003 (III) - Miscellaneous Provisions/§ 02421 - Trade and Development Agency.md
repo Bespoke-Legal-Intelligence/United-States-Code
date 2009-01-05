@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance auditof the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 61/2 months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -72,7 +72,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (4) Availability of information
 
-&emsp;All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Trade and Development Agency and the accountant who conducts the audit under paragraph (2), which are necessaryfor purposes of this subsection, shall be made available to the representatives of the Government Accountability Office designated by the Comptroller General.
+&emsp;All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Trade and Development Agency and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the Government Accountability Office designated by the Comptroller General.
 
 #### (f) Funding
 

@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 “(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available inconnection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 “(7)
 
@@ -124,7 +124,7 @@ Savings provisions.—
 
 Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
-&emsp;&emsp;“(i) that have been issued, made, granted, or allowed to become effective by the President, anyFederal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under this subsection; and
+&emsp;&emsp;“(i) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions that are transferred under this subsection; and
 
 &emsp;&emsp;“(ii) that are in effect at the time this subsection takes effect \[see Effective Date of 1993 Amendment note above\], or were final before the effective date of this subsection and are to become effective on or after the effective date of this subsection,
 
@@ -176,7 +176,7 @@ In general.—The Corporation for National and Community Service (referred to in
 
 &emsp;“(2)
 
-Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—
+Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1),continuity of a session of the Congress shall be considered to be broken only by—
 
 &emsp;&emsp;“(A) an adjournment of the Congress sine die; and
 
@@ -292,13 +292,15 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13285. President's Council on Service and Civic Participation
 
-Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 13371, Jan. 27, 2005, 70 F.R. 5041; Ex. Ord. No. 13424, Jan. 26, 2007, 72 F.R. 4409, provided:
+Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 13371, Jan. 27, 2005, 70 F.R. 5041; Ex. Ord. No. 13424, Jan. 26, 2007, 72 F.R. 4409; Ex. Ord. No. 13471, Aug. 28, 2008, 73 F.R. 51209, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the recognition of volunteer service and civic participation by all Americans, and especially America's youth, it is hereby ordered as follows:
 
 Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within the Corporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
 
 (b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subject to the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
+
+(c) To conduct and vote on official business during meetings, the Council must convene a quorum of at least 10 Council members.
 
 Sec. 2. <i>Mission and Functions of the Council.</i>
 
@@ -340,7 +342,9 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
-(b) Unless further extended by the President, this order shall expire on November 30, 2008.
+(b) Unless further extended by the President, this order shall expire on June 30, 2009.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

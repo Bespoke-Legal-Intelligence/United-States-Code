@@ -4,7 +4,7 @@
 
 For purposes of this title—
 
-&emsp;(1) except as provided in subsection (b), no summons may be issued under this title, and the Secretary may not begin any action under section 7604 to enforce any summons toproduce or analyze any tax-related computer software source code; and
+&emsp;(1) except as provided in subsection (b), no summons may be issued under this title, and the Secretary may not begin any action under section 7604 to enforce any summons to produce or analyze any tax-related computer software source code; and
 
 &emsp;(2) any software and related materials which are provided to the Secretary under this title shall be subject to the safeguards under subsection (c).
 
@@ -76,7 +76,7 @@ For purposes of this title—
 
 &emsp;&emsp;(F) the software may not be decompiled or disassembled;
 
-&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee ofthe United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
+&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee of the United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
 
 &emsp;&emsp;&emsp;(i) disclose such software to any person other than persons to whom such information could be disclosed for tax administration purposes under section 6103; or
 

@@ -1,6 +1,6 @@
 ### §7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments
 
-(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ,without regard to civil service or classification laws, rules, or regulations, personnel as follows:
+(a) The Secretary, upon the recommendation of the Under Secretary for Health, may employ, without regard to civil service or classification laws, rules, or regulations, personnel as follows:
 
 &emsp;(1) On a temporary full-time basis, part-time basis, or without compensation basis, persons in the following positions:
 
@@ -72,7 +72,7 @@ Subsec. (a)(2)(B). Pub. L. 108–170, §301(c)(1)(B), added subpar. (B) and stru
 
 Subsec. (c)(1). Pub. L. 108–170, §301(c)(2), substituted “paragraphs (1) and (3) of section 7401” for “section 7401(1)”.
 
-2000—Subsec. (c)(2). Pub. L. 106–419, §204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title in a recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
+2000—Subsec. (c)(2). Pub. L. 106–419, §204(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Temporary full-time appointments of persons who have successfully completed a full course of nursing in a recognized school of nursing, approved by the Secretary, or who have successfully completed a full course of training for any category of personnel described in paragraph (3) of section 7401 of this title ina recognized education or training institution approved by the Secretary, and who are pending registration or licensure in a State, or certification by a national board recognized by the Secretary, shall not exceed two years.”
 
 Subsec. (c)(3), (4). Pub. L. 106–419, §204(b), added par. (3) and redesignated former par. (3) as (4).
 

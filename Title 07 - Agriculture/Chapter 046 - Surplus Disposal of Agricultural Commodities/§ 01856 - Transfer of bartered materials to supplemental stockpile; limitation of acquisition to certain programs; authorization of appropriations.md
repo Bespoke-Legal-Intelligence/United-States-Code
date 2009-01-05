@@ -6,7 +6,7 @@
 
 (c) In order to reimburse the Commodity Credit Corporation for materials transferred to the supplemental stockpile there are hereby authorized to be appropriated amounts equal to the value of any materials so transferred. The value of any such material for the purpose of this subsection, shall be the lower of the domestic market price or the Commodity Credit Corporation's investment therein as of the date of such transfer as determined by the Secretary of Agriculture.
 
-(May 28, 1956, ch. 327, title II, §206, 70 Stat. 200; Pub. L. 85–931, §7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, §204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78.)
+(May 28, 1956, ch. 327, title II, §206, 70 Stat. 200; Pub. L. 85–931, §7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, §204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(I), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
@@ -16,11 +16,17 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of this title.
+
 1962—Subsec. (b). Pub. L. 87–456 repealed subsec. (b) which permitted strategic materials acquired by Commodity Credit Corporation as a result of barter or exchange of agricultural commodities or products to be entered, or withdrawn from warehouse, free of duty.
 
 1959—Subsec. (a). Pub. L. 86–341 authorized acquisition of strategic and critical materials for national stockpile to meet requirements of Government agencies.
 
 1958—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1962 Amendment
 

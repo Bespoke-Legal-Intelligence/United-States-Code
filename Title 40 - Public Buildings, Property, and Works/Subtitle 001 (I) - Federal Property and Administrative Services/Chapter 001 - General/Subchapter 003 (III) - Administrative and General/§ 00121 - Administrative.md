@@ -88,7 +88,7 @@ Between agencies.—If the Administrator transfers a function from one executive
 
 (f)
 
-Advisory Committees.—The Administrator may establish advisory committees to provideadvice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
+Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
 
 (g)
 
@@ -212,7 +212,7 @@ Space Acquisition
 
 (a) Availability of existing Federally controlled facilities.
 
-(b) Utilization of buildings of historic, architectural, or cultural significance within the meaning of section105 of the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2507, 40 U.S.C. 612a) \[now 40 U.S.C. 3306\].
+(b) Utilization of buildings of historic, architectural, or cultural significance within the meaning of section 105 of the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2507, 40 U.S.C. 612a) \[now 40 U.S.C. 3306\].
 
 (c) Acquisition or utilization of existing privately owned facilities.
 
@@ -420,7 +420,7 @@ Sec. 2. <i>Definition and Scope</i>. (a) For the purpose of this executive order
 
 Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Officer</i>. (a) The heads of all executive branch departments and agencies cited in sections 901(b)(1) and (b)(2) of title 31, United States Code, and the Secretary of Homeland Security, shall designate among their senior management officials, a Senior Real Property Officer. Such officer shall have the education, training, and experience required to administer the necessary functions of the position for the particular agency.
 
-(b) The Senior Real Property Officer shall develop and implement an agency asset management planning process that meets the form, content, and other requirements established by the Federal Real Property Council established in section 4 of this order. The initial agency asset management plan will be submitted to the Office of Management and Budget on a date determined by the Director of the Office of Management and Budget. In developing this plan, the Senior Real Property Officer shall:
+(b) The Senior Real Property Officer shall develop and implement an agency asset management planning process that meets the form, content, and other requirements established by the Federal Real PropertyCouncil established in section 4 of this order. The initial agency asset management plan will be submitted to the Office of Management and Budget on a date determined by the Director of the Office of Management and Budget. In developing this plan, the Senior Real Property Officer shall:
 
 (i) identify and categorize all real property owned, leased, or otherwise managed by the agency, including, where applicable, those properties outside the United States in which the lease agreements and arrangements reflect the host country currency or involve alternative lease plans or rental agreements;
 
@@ -484,7 +484,7 @@ Sec. 5. <i>Role of the General Services Administration</i>. (a) The Administrato
 
 (c) The Administrator of General Services, in consultation with the Federal Real Property Council, shall establish and maintain a single, comprehensive, and descriptive database of all real property under the custody and control of all executive branch agencies, except when otherwise required for reasons of national security. The Administrator shall collect from each executive branch agency such descriptive information, except for classified information, as the Administrator considers will best describe the nature, use, and extent of the real property holdings of the Federal Government.
 
-(d) The Administrator of General Services, in consultation with the Federal Real Property Council, may establish data and other information technology (IT) standards for use by Federal agencies in developing or upgrading Federal agency real property information systems in order to facilitate reporting on a uniform basis. Those agencies with particular IT standards and systems in place and in use shall be allowed to continue with such use to the extent that they are compatible with the standards issued by the Administrator.
+(d) The Administrator of General Services, in consultation with the Federal Real Property Council, may establish data and other information technology (IT) standards for use by Federal agencies in developing or upgrading Federal agency real property information systems in order to facilitate reporting on a uniformbasis. Those agencies with particular IT standards and systems in place and in use shall be allowed to continue with such use to the extent that they are compatible with the standards issued by the Administrator.
 
 Sec. 6. <i>General Provisions</i>. (a) The Director of the Office of Management and Budget shall review, through the management and budget review processes, the efforts of departments and agencies in implementing their asset management plans and achieving the Government-wide property management policies established pursuant to this order.
 

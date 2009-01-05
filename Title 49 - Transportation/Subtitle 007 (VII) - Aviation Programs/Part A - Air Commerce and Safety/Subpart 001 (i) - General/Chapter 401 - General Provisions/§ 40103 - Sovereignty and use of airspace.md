@@ -38,7 +38,7 @@ Aircraft of Armed Forces of Foreign Countries.—Aircraft of the armed forces of
 
 (e)
 
-No Exclusive Rights at Certain Facilities.—A person does not have an exclusive right to use an air navigation facility on which Government money has been expended. However, providing services at an airport by only onefixed-based operator is not an exclusive right if—
+No Exclusive Rights at Certain Facilities.—A person does not have an exclusive right to use an air navigation facility on which Government money has been expended. However, providing services at an airport by only one fixed-based operator is not an exclusive right if—
 
 &emsp;(1) it is unreasonably costly, burdensome, or impractical for more than one fixed-based operator to provide the services; and
 

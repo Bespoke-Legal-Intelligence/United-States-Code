@@ -10,7 +10,7 @@ The Chief Executive Officer shall be compensated at the rate provided for level 
 
 #### (c) Regulations
 
-The Chief Executive Officer shall prescribe such rules and regulations as are necessary orappropriate to carry out the national service laws.
+The Chief Executive Officer shall prescribe such rules and regulations as are necessary or appropriate to carry out the national service laws.
 
 (Pub. L. 101–610, title I, §193, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 877, 891.)
 

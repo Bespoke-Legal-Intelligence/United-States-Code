@@ -8,7 +8,7 @@
 | [3002\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003002%20-%20Definitions.md) | Definitions. |
 | [3003\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003003%20-%20Authorized%20number%20on%20the%20active%20list.md) | Authorized number on the active list. |
 | [3004\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003004%20-%20Strength%20and%20distribution%20in%20grade.md) | Strength and distribution in grade. |
-| [3005\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003005%20-%20Authorized%20number%20for%20fiscal%20years%202003%20through%202005.md) | Authorized number for fiscal years 2003 through 2005. |
+| [3005\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003005%20-%20Number%20of%20authorized%20commissioned%20officers.md) | Number of authorized commissioned officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

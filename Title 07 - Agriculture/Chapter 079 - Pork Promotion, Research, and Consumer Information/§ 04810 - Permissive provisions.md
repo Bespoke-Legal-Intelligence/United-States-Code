@@ -38,7 +38,7 @@ On the recommendation of the Board, and with the approval of the Secretary, an o
 
 &emsp;(i) the issuance of a general statement based on the reports of a number of persons subject to an order, or statistical data collected therefrom, if such statement or data does not identify the information furnished by any person; or
 
-&emsp;(ii) the publication, by direction of the Secretary, of the name of a person violating an order, together with a statement of the particular provisions of the order violated by such person.
+&emsp;(ii) the publication, by direction of the Secretary, of the name of a person violating anorder, together with a statement of the particular provisions of the order violated by such person.
 
 #### (c) Penalty for willful violations
 

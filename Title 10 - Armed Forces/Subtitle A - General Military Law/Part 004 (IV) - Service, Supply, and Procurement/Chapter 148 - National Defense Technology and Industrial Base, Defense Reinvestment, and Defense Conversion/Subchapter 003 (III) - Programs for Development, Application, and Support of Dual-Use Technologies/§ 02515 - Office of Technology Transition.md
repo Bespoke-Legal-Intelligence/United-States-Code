@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish within the Office of t
 
 (b)
 
-Purpose.—The purpose of the office shall be to ensure, to the maximum extent practicable, that technology developed for national security purposes is integrated into the private sector of the United States in order to enhance national technology and industrial base, reinvestment, and conversion activities consistent with the objectives set forth in section 2501(a) of this title.
+Purpose.—The purpose of the office shall be to ensure, to the maximum extent practicable, that technology developed for nationalsecurity purposes is integrated into the private sector of the United States in order to enhance national technology and industrial base, reinvestment, and conversion activities consistent with the objectives set forth in section 2501(a) of this title.
 
 (c)
 
@@ -20,7 +20,7 @@ Duties.—The head of the office shall ensure that the office—
 
 &emsp;(4) conducts its activities in consultation and coordination with the Department of Energy and the Department of Commerce; and
 
-&emsp;(5) provides private firms with assistance to resolve problems associated with securityclearances, proprietary rights, and other legal considerations involved in such a transition of technology.
+&emsp;(5) provides private firms with assistance to resolve problems associated with security clearances, proprietary rights, and other legal considerations involved in such a transition of technology.
 
 (d)
 

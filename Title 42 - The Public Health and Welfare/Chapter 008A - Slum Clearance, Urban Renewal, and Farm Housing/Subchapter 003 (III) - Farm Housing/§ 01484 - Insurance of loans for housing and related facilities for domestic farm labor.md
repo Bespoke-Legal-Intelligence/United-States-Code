@@ -42,7 +42,7 @@ As used in this section—
 
 &emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
 
-&emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities or the handling of such commodities in the unprocessed stage, without respect to the source of employment, except that—
+&emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities, without respect to the source of employment, except that—
 
 &emsp;&emsp;(A) such person shall be a citizen of the United States or a person legally admitted for permanent residence;
 
@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and theinterest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -76,7 +76,7 @@ Housing and related facilities constructed with loans under this section may be 
 
 &emsp;(2) the need for such housing in the area has diminished to the extent that the purpose of the loan, providing housing for domestic farm labor, can no longer be met.
 
-(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §510, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018.)
+(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title V, §510, Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018; Pub. L. 110–234, title VI, §6205, May 22, 2008, 122 Stat. 1209; Pub. L. 110–246, §4(a), title VI, §6205, June 18, 2008, 122 Stat. 1664, 1971.)
 
 #### References in Text
 
@@ -84,9 +84,13 @@ Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b)
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Another section 801(b) of Pub. L. 91–609 amended section 1460(c)(1) of this title.
 
 #### Amendments
+
+2008—Subsec. (f)(3). Pub. L. 110–246, §6205, substituted “, the handling of agricultural or aquacultural commodities in the unprocessed stage, or the processing of agricultural or aquacultural commodities” for “or the handling of such commodities in the unprocessed stage” in introductory provisions.
 
 2000—Subsec. (a). Pub. L. 106–569, §703, substituted “limited partnership” for “nonprofit limited partnership” in first sentence of introductory provisions.
 
@@ -123,6 +127,10 @@ Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (incl
 1968—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of “related facilities”.
 
 1964—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

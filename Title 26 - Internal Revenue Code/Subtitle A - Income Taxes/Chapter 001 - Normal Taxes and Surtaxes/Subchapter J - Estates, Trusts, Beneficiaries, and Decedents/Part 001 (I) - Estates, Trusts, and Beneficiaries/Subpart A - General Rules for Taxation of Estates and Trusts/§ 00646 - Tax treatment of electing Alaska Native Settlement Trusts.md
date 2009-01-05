@@ -80,7 +80,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;&emsp;&emsp;(iii) the distributable net income of such trust shall be increased by the current or accumulated earnings and profits of the sponsoring Native Corporation as of the close of such taxable year after proper adjustment is made for all distributions made by the sponsoring Native Corporation during such taxable year.
 
-> &emsp;In no event shall the increase under clause (iii) exceed the fair market value of the trust's assets as of the date the beneficial interest of the trust first becomes so disposable. The earnings and profits of the sponsoring Native Corporation shall be adjusted as of the last day of such taxable year by the amount of earnings and profits so included in the distributable net income of the trust.
+> &emsp;In no event shall the increase under clause (iii) exceed the fair market value of the trust's assets as of the date the beneficial interest of the trust first becomes so disposable. Theearnings and profits of the sponsoring Native Corporation shall be adjusted as of the last day of such taxable year by the amount of earnings and profits so included in the distributable net income of the trust.
 
 #### (2) Stock in corporation
 

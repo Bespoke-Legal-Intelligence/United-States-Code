@@ -16,7 +16,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (3) Reviewability
 
-&emsp;The action of any officer, employee, or agent of the Secretary in carrying out this section (including determining the amount of and making any payment authorized to be made under this chapter) shall not be subject to review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;The action of any officer, employee, or agent of the Secretary in carrying out this section (including determining the amount of and making any payment authorized to be made under this chapter) shall not be subject to review by any officer or employee of the FederalGovernment other than the Secretary or the designee of the Secretary.
 
 #### (c) Use of funds
 
@@ -24,9 +24,21 @@ In carrying out this chapter, the Secretary may use funds made available to carr
 
 &emsp;(1) the employment of civilian nationals in foreign countries; and
 
-&emsp;(2) the construction and operation of research laboratories, quarantine stations, andother buildings and facilities for special purposes.
+&emsp;(2) the construction and operation of research laboratories, quarantine stations, and other buildings and facilities for special purposes.
 
-(Pub. L. 107–171, title X, §10417, May 13, 2002, 116 Stat. 507.)
+(Pub. L. 107–171, title X, §10417, May 13, 2002, 116 Stat. 507; Pub. L. 110–234, title XI, §11011(3), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(3), June 18, 2008, 122 Stat. 1664, 2122.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–246, §11011(3), struck out “of longer than 60 days” after “review”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

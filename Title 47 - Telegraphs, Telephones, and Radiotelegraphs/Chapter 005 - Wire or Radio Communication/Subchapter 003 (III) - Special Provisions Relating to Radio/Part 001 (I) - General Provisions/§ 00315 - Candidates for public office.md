@@ -28,7 +28,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled to receive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate\(and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
+&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled to receive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
 
 #### (B) Limitation on charges
 
@@ -112,7 +112,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 Subsec. (e). Pub. L. 107–155, §504, which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
 
-1974—Subsec. (c). Pub. L. 93–443, §402, struck out provisions respecting station use charges upon certification of nonviolation of Federal limitations of expenditures for use of communications media; redesignated former subsec. (f) as (c); incorporated former par. (1)(A) and (B) provisions in clauses designated (1) and (2) and struck out subpar. (C) definition of “Federal electiveoffice” and par. (2) definition of “legally qualified candidate”.
+1974—Subsec. (c). Pub. L. 93–443, §402, struck out provisions respecting station use charges upon certification of nonviolation of Federal limitations of expenditures for use of communications media; redesignated former subsec. (f) as (c); incorporated former par. (1)(A) and (B) provisions in clauses designated (1) and (2) and struck out subpar. (C) definition of “Federal elective office” and par. (2) definition of “legally qualified candidate”.
 
 Subsec. (d). Pub. L. 93–443, §402(a), struck out provisions respecting station use charges upon certification of nonviolation of State limitations of expenditures for use of communications media and conditions for application of State limitations and redesignated former subsec. (g) as (d).
 

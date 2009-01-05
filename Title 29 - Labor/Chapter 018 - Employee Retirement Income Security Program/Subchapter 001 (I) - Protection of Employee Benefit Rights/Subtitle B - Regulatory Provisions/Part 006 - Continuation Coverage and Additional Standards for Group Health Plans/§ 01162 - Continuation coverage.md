@@ -40,7 +40,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (C) Failure to pay premium
 
-&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the lastsentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
 
 #### (D) Group health plan coverage or medicare entitlement
 
@@ -70,7 +70,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 #### (5) Conversion option
 
-&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires underparagraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 (Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435; Pub. L. 104–188, title I, §1704(g)(1)(B), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(b)(1), Aug. 21, 1996, 110 Stat. 2088.)
 

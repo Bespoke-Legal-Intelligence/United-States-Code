@@ -24,7 +24,7 @@ In this section:
 
 Notwithstanding section 837a of this title, subsections (a), (b), and (c) of section 837b of this title, and section 837f of this title, and section 839f(c) of this title, the Administrator may, as permitted by otherwise applicable law, sell or otherwise dispose of excess Federal power—
 
-&emsp;(1) outside the Pacific Northwest on a firm basis for a contract term of not to exceed 7years, if the excess Federal power is first offered for a reasonable period of time and under the same essential rate, terms and conditions to those Pacific Northwest public body, cooperative and investor-owned utilities and those direct service industrial customers identified in subsection (b) or (d)(1)(A) of section 839c of this title; and
+&emsp;(1) outside the Pacific Northwest on a firm basis for a contract term of not to exceed 7 years, if the excess Federal power is first offered for a reasonable period of time and under the same essential rate, terms and conditions to those Pacific Northwest public body, cooperative and investor-owned utilities and those direct service industrial customers identified in subsection (b) or (d)(1)(A) of section 839c of this title; and
 
 &emsp;(2) in any region without the prohibition on resale established by the second sentence of section 832d(a) of this title.
 
@@ -56,5 +56,5 @@ Section was enacted as part of the Energy and Water Development Appropriations A
 
 #### Voluntary Separation Incentives to Employees
 
-Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
+Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that:“The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
 

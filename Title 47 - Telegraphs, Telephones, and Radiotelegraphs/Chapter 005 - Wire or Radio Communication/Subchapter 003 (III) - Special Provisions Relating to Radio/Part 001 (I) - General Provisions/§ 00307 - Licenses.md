@@ -6,7 +6,7 @@ The Commission, if public convenience, interest, or necessity will be served the
 
 #### (b) Allocation of facilities
 
-In considering applications for licenses, and modifications and renewals thereof, when and insofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.
+In considering applications for licenses, and modifications and renewals thereof, when andinsofar as there is demand for the same, the Commission shall make such distribution of licenses, frequencies, hours of operation, and of power among the several States and communities as to provide a fair, efficient, and equitable distribution of radio service to each of the same.
 
 #### (c) Terms of licenses
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, (1) any holder of a broadcast licens
 
 #### Amendments
 
-2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for“any hearing” and inserted “or section 402” after “section 405”.
+2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
 
 Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 

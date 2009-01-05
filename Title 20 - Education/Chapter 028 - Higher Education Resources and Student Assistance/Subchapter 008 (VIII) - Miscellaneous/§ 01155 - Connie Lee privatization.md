@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or thecomparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -74,7 +74,7 @@
 
 #### (4) Articles of incorporation
 
-&emsp;The Corporation shall amend the Corporation's articles of incorporation without delay to reflect that one of the purposes of the Corporation shall be to guarantee, insure, and reinsure bonds, leases, and other evidences of debt of educational institutions, including Historically Black Colleges and Universities and other academic institutions which are ranked in the lower investment grade category using a nationally recognized credit rating system.
+&emsp;The Corporation shall amend the Corporation's articles of incorporation without delay to reflect that one of the purposes of the Corporation shall be to guarantee, insure, and reinsure bonds, leases, and other evidences of debt of educational institutions, includingHistorically Black Colleges and Universities and other academic institutions which are ranked in the lower investment grade category using a nationally recognized credit rating system.
 
 #### (5) Requirements until stock sale
 
@@ -144,7 +144,7 @@
 
 #### (ii) Administration
 
-&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
+&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if thecommittee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
 
 #### (C) Other grants
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) obtaining financing to acquire interests in real property (including by purchase, lease, or donation), including financing to cover planning, development, and other incidental costs;
 
-&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property orfacilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
+&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property or facilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
 
 &emsp;&emsp;&emsp;&emsp;(III) enhancing the availability of loans (including mortgages) and bonds; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Procedures for Transfer.—The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary of the Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
+Procedures for Transfer.—The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary ofthe Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
 
 (b)
 

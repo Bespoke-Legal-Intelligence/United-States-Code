@@ -10,6 +10,8 @@
 
 (2) The requirement under paragraph (1)(A)(ii) shall not apply with respect to a training establishment operated by the United States or by a State or local government.
 
+(3) The requirement for certification under paragraph (1) shall not apply to training described in section 3452(e)(2) of this title.
+
 (c) As a condition for approving a program of training on the job (other than a program of apprenticeship) the State approving agency must find upon investigation that the following criteria are met:
 
 &emsp;(1) The training content of the course is adequate to qualify the eligible veteran or person for appointment to the job for which the veteran or person is to be trained.
@@ -32,13 +34,15 @@
 
 (d)(1) The Secretary may conduct a pilot program under which the Secretary operates a program of training on the job under this section for a period (notwithstanding subsection (c)(2)) of up to three years in duration to train employees of the Department to become qualified adjudicators of claims for compensation, dependency and indemnity compensation, and pension.
 
-(2)(A) Not later than three years after the implementation of the pilot project, the Secretary shall submit to Congress an initial report on thepilot project. The report shall include an assessment of the usefulness of the program in recruiting and retaining of personnel of the Department as well as an assessment of the value of the program as a training program.
+(2)(A) Not later than three years after the implementation of the pilot project, the Secretary shall submit to Congress an initial report on the pilot project. The report shall include an assessment of the usefulness of the program in recruiting and retaining of personnel of the Department as well as an assessment of the value of the program as a training program.
 
 (B) Not later than 18 months after the date on which the initial report under subparagraph (A) is submitted, the Secretary shall submit to Congress a final report on the pilot project. The final report shall include recommendations of the Secretary with respect to continuation of the pilot project and with respect to expansion of the types of claims for which the extended period of on the job training is available to train such employees.
 
-(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §205(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 108–454, title I, §108, Dec. 10, 2004, 118 Stat. 3604.)
+(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title II, §205(a), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 108–454, title I, §108, Dec. 10, 2004, 118 Stat. 3604; Pub. L. 110–389, title III, §325, Oct. 10, 2008, 122 Stat. 4169.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–389 added par. (3).
 
 2004—Subsec. (d). Pub. L. 108–454 added subsec. (d).
 

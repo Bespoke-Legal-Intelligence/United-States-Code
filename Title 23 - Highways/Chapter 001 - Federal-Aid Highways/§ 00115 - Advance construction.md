@@ -16,17 +16,15 @@ In General.—The Secretary may authorize a State to proceed with a project auth
 
 Obligation of Federal Share.—The Secretary, on the request of a State and execution of a project agreement, may obligate all or a portion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
 
-\[(c)
-
-Redesignated (d).\]
-
-(d)
+(c)
 
 Inclusion in Transportation Improvement Program.—The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(f).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(<i>l</i>)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(<i>l</i>)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110–244, title I, §101(j), June 6, 2008, 122 Stat. 1574.)
 
 #### Amendments
+
+2008—Subsecs. (c), (d). Pub. L. 110–244 redesignated subsec. (d) as (c).
 
 2005—Subsecs. (a), (b). Pub. L. 109–59, §1501(a)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to payment of the Federal share of the cost of congestion mitigation and air quality improvement, surface transportation, bridge, planning, and research projects and Interstate and National Highway System projects which have been subject to advance construction by a State.
 

@@ -2,15 +2,11 @@
 
 (a)
 
-General.—(1) In paragraph (2)(C) of this subsection, “24-hour period” means the period beginning when a signal employee reports for duty immediately after 8 consecutive hours off duty or, when required under paragraph (2)(B) of this subsection, after 10 consecutive hours off duty.
+In General.—Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow its signal employees to remain or go on duty and a contractor or subcontractor to a railroad carrier and its officers and agents may not require or allow its signal employees to remain or go on duty—
 
-(2) Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a signal employee to remain or go on duty—
+&emsp;(1) for a period in excess of 12 consecutive hours; or
 
-&emsp;(A) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours;
-
-&emsp;(B) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty; or
-
-&emsp;(C) after that employee has been on duty a total of 12 hours during a 24-hour period, or after the end of that 24-hour period, whichever occurs first, until that employee has had at least 8 consecutive hours off duty.
+&emsp;(2) unless that employee has had at least 10 consecutive hours off duty during the prior 24 hours.
 
 (b)
 
@@ -20,7 +16,7 @@ Determining Time on Duty.—In determining under subsection (a) of this section 
 
 &emsp;(2) Time spent performing any other service for the railroad carrier during a 24-hour period in which the employee is engaged in installing, repairing, or maintaining signal systems is time on duty.
 
-&emsp;(3) Time spent returning from a trouble call, whether the employee goes directly to the employee's residence or by way of the employee's headquarters, is neither time on duty nor time off duty, except that up to one hour of that time spent returning from the final trouble call of a period of continuous or broken service is time off duty.
+&emsp;(3) Time spent returning from a trouble call, whether the employee goes directly to the employee's residence or by way of the employee's headquarters, is neither time on duty nor time off duty.
 
 &emsp;(4) If, at the end of scheduled duty hours, an employee has not completed the trip from the final outlying worksite of the duty period to the employee's headquarters or directly to the employee's residence, the time after the scheduled duty hours necessarily spent in completing the trip to the residence or headquarters is neither time on duty nor time off duty.
 
@@ -32,9 +28,17 @@ Determining Time on Duty.—In determining under subsection (a) of this section 
 
 (c)
 
-Emergencies.—A signal employee may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of that employee is related to the emergency. In this subsection, an emergency ends when the signal system is restored to service.
+Emergencies.—A signal employee may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of that employee is related to the emergency. In this subsection, an emergency ends when the signal system is restored to service. A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 889.)
+(d)
+
+Communication During Time Off Duty.—During a signal employee's minimum off-duty period of 10 consecutive hours, as provided under subsection (a), a railroad carrier or a contractor or subcontractor to a railroad carrier, and its officers and agents, shall not communicate with the signal employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee's rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary.
+
+(e)
+
+Exclusivity.—The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 889; Pub. L. 110–432, div. A, title I, §108(c), Oct. 16, 2008, 122 Stat. 4862.)
 
 Historical and Revision Notes
 
@@ -78,9 +82,23 @@ In this section, the words “signal employee” are substituted for “an indiv
 
 Subsection (a)(1) is substituted for 45:63a(a) (last sentence) for clarity and because of the restatement.
 
-In subsection (a)(2), before clause (A), the words “Except as provided in subsection (c) of this section” are added to alert the reader to the exception restated in subsection (c). The text of 45:63a(a) (2d sentence) is omitted as surplus.
+In subsection (a)(2), before clause (A), the words “Except as provided in subsection (c) of this section” areadded to alert the reader to the exception restated in subsection (c). The text of 45:63a(a) (2d sentence) is omitted as surplus.
 
 In subsection (b), the words before paragraph (1) are added as related to 45:63a(c) and substituted for “In determining for the purposes of subsection (a) of this section the number of hours an individual is on duty” for clarity. In paragraph (2), the word “actually” is omitted as surplus.
 
 In subsection (c), the word “actual” is omitted as surplus.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–432, §108(c)(1), added subsec. (a) and struck out former subsec. (a) which limited the amount of time spent on duty by signal employees.
+
+Subsec. (b)(3). Pub. L. 110–432, §108(c)(2), substituted “duty.” for “duty, except that up to one hour of that time spent returning from the final trouble call of a period of continuous or broken service is time off duty.”
+
+Subsec. (c). Pub. L. 110–432, §108(c)(3), inserted at end “A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems.”
+
+Subsecs. (d), (e). Pub. L. 110–432, §108(c)(4), added subsecs. (d) and (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–432 effective 9 months after Oct. 16, 2008, see section 108(g) of Pub. L. 110–432, set out as a note under section 21101 of this title.
 

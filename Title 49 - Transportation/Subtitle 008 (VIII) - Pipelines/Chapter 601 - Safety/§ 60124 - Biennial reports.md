@@ -36,7 +36,7 @@ Submission and Contents.—Not later than August 15, 1997, and every 2 years the
 
 &emsp;&emsp;(B) ended in any part by the Secretary and a summary of the reasons for ending each agreement.
 
-&emsp;(11) a description of the number and qualifications of State pipeline safety inspectors ineach State for which a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect and the number and qualifications of inspectors the Secretary recommends for that State.
+&emsp;(11) a description of the number and qualifications of State pipeline safety inspectors in each State for which a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect and the number and qualifications of inspectors the Secretary recommends for that State.
 
 &emsp;(12) recommendations for legislation the Secretary considers necessary—
 

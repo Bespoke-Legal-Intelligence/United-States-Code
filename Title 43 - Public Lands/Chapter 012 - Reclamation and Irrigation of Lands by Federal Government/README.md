@@ -12,6 +12,7 @@
 | [373b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373b%20-%20Law%20enforcement%20authority%20at%20Bureau%20of%20Reclamation%20facilities.md) | Law enforcement authority at Bureau of Reclamation facilities. |
 | [373c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373c%20-%20Definitions.md) | Definitions. |
 | [373d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373d%20-%20Grants%20and%20cooperative%20agreements%20with%20Indian%20tribes%20and%20organizations.md) | Grants and cooperative agreements with Indian tribes and organizations. |
+| [373e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373e%20-%20Bureau%20of%20Reclamation%20site%20security.md) | Bureau of Reclamation site security. |
 | [374\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000374%20-%20Sale%20of%20lands%20acquired%20in%20connection%20with%20irrigation%20project.md) | Sale of lands acquired in connection with irrigation project. |
 | [375\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000375%20-%20Sale%20of%20land%20improved%20at%20expense%20of%20reclamation%20fund.md) | Sale of land improved at expense of reclamation fund. |
 | [375a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000375a%20-%20Sale%20under%20sections%20374%20and%20375%20of%20lands%20appraised%20at%20not%20exceeding%20%24300.md) | Sale under sections 374 and 375 of lands appraised at not exceeding $300. |
@@ -93,6 +94,14 @@
 | 390h–21. | Inland Empire regional water recycling project. |
 | 390h–22. | Cucamonga Valley water recycling project. |
 | 390h–23. | Southern California desert region integrated water and economic sustainability plan. |
+| 390h–24. | Eastern Municipal Water District recycled water system pressurization and expansion project, California. |
+| 390h–25. | Mountain View, Moffett Area reclaimed water pipeline project. |
+| 390h–26. | Pittsburg recycled water project. |
+| 390h–27. | Antioch recycled water project. |
+| 390h–28. | North Coast County Water District recycled water project. |
+| 390h–29. | Redwood City recycled water project. |
+| 390h–30. | South Santa Clara County recycled water project. |
+| 390h–31. | South Bay advanced recycled water treatment facility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

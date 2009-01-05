@@ -1,0 +1,80 @@
+### §5220. Assistance to homeowners
+
+#### (a) Definitions
+
+As used in this section—
+
+&emsp;(1) the term “Federal property manager” means—
+
+&emsp;&emsp;(A) the Federal Housing Finance Agency, in its capacity as conservator of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation;
+
+&emsp;&emsp;(B) the Corporation, with respect to residential mortgage loans and mortgage-backed securities held by any bridge depository institution pursuant to section 1821(n) of this title; and
+
+&emsp;&emsp;(C) the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,<sup>1</sup> or as collateral for an advance or discount that is not in default;
+
+&emsp;(2) the term “consumer” has the same meaning as in section 1602 of title 15;
+
+&emsp;(3) the term “insured depository institution” has the same meaning as in section 1813 of this title; and
+
+&emsp;(4) the term “servicer” has the same meaning as in section 2605(i)(2) of this title.
+
+#### (b) Homeowner assistance by agencies
+
+#### (1) In general
+
+&emsp;To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed <sup>2</sup> securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 <sup>1</sup> of this title or other available programs to minimize foreclosures.
+
+#### (2) Modifications
+
+&emsp;In the case of a residential mortgage loan, modifications made under paragraph (1) may include—
+
+&emsp;&emsp;(A) reduction in interest rates;
+
+&emsp;&emsp;(B) reduction of loan principal; and
+
+&emsp;&emsp;(C) other similar modifications.
+
+#### (3) Tenant protections
+
+&emsp;In the case of mortgages on residential rental properties, modifications made under paragraph (1) shall ensure—
+
+&emsp;&emsp;(A) the continuation of any existing Federal, State, and local rental subsidies and protections; and
+
+&emsp;&emsp;(B) that modifications take into account the need for operating funds to maintain decent and safe conditions at the property.
+
+#### (4) Timing
+
+&emsp;Each Federal property manager shall develop and begin implementation of the plan required by this subsection not later than 60 days after October 3, 2008.
+
+#### (5) Reports to Congress
+
+&emsp;Each Federal property manager shall, 60 days after October 3, 2008, and every 30 days thereafter, report to Congress specific information on the number and types of loan modifications made and the number of actual foreclosures occurring during the reporting period in accordance with this section.
+
+#### (6) Consultation
+
+&emsp;In developing the plan required by this subsection, the Federal property managers shall consult with one another and, to the extent possible, utilize consistent approaches to implement the requirements of this subsection.
+
+#### (c) Actions with respect to servicers
+
+In any case in which a Federal property manager is not the owner of a residential mortgage loan, but holds an interest in obligations or pools of obligations secured by residential mortgage loans, the Federal property manager shall—
+
+&emsp;(1) encourage implementation by the loan servicers of loan modifications developed under subsection (b); and
+
+&emsp;(2) assist in facilitating any such modifications, to the extent possible.
+
+#### (d) Limitation
+
+The requirements of this section shall not supersede any other duty or requirement imposed on the Federal property managers under otherwise applicable law.
+
+(Pub. L. 110–343, div. A, title I, §110, Oct. 3, 2008, 122 Stat. 3775.)
+
+#### References in Text
+
+Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), was in the original a reference to “section 14 of the Federal Reserve Act (12 U.S.C. 353)”. For classification of section 14 to the Code, see Codification note set out under section 353 of this title.
+
+Section 1715z–23 of this title, referred to in subsec. (b)(1), was in the original “section 257 of the National Housing Act”, and was translated as meaning the section 257 of the National Housing Act as added by Pub. L. 110–289, div. A, title IV, §1402, July 30, 2008, 122 Stat. 2800, relating to HOPE for Homeowners Program, to reflect the probable intent of Congress. Another section 257 of the National Housing Act, relating to pilot program for automated process for borrowers without sufficient credit history, is classified to section 1715z–24 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “mortgage-backed”.</i>
+

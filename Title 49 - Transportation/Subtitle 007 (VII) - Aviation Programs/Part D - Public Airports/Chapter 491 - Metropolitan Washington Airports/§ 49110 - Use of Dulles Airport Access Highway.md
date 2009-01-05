@@ -1,6 +1,6 @@
 ### §49110. Use of Dulles Airport Access Highway
 
-The Metropolitan Washington Airports Authority shall continue in effect and enforce section 4.2(1) and (2) of the Metropolitan Washington Airports Regulations, as in effect on February 1, 1995. The district courts of the United States have jurisdiction to compel the Airports Authority and its officers and employees to comply with this section. The Attorney General or an aggrieved party may bring an action on behalf of the United States Government.
+The Metropolitan Washington Airports Authority shall continue in effect and enforce section 4.2(1) and (2) of the Metropolitan Washington Airports Regulations, as in effect on February 1, 1995. The district courts of the United States have jurisdiction to compel the AirportsAuthority and its officers and employees to comply with this section. The Attorney General or an aggrieved party may bring an action on behalf of the United States Government.
 
 (Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213.)
 

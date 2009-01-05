@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) the process for reclassifying ineligible facilities as eligible for delivery, deposit, or acceptance of a regulated substance;
 
-&emsp;&emsp;(D) one or more processes for providing adequate notice to underground storage tank owners and operators and supplier industries that an underground storage tank has been determined to be ineligible for delivery, deposit, or acceptance of a regulated substance; and
+&emsp;&emsp;(D) one or more processes for providing adequate notice to underground storage tank owners and operators and supplier industries that an underground storage tankhas been determined to be ineligible for delivery, deposit, or acceptance of a regulated substance; and
 
 &emsp;&emsp;(E) a delineation of, or a process for determining, the specified geographic areas subject to paragraph (4).
 
@@ -42,7 +42,7 @@ Nothing in this section shall affect or preempt the authority of a State to proh
 
 A person shall not be in violation of subsection (a)(1) of this section if the person has not been provided with notice pursuant to subsection (a)(2)(D) of this section of the ineligibility of a facility for delivery, deposit, or acceptance of a regulated substance as determined by the Administrator or a State, as appropriate, under this section.
 
-(Pub. L. 89–272, title II, §9012, as added Pub. L. 109–58, title XV, §1527(a), Aug. 8, 2005, 119 Stat.1098; amended Pub. L. 109–168, §1(a)(1), Jan. 10, 2006, 119 Stat. 3580.)
+(Pub. L. 89–272, title II, §9012, as added Pub. L. 109–58, title XV, §1527(a), Aug. 8, 2005, 119 Stat. 1098; amended Pub. L. 109–168, §1(a)(1), Jan. 10, 2006, 119 Stat. 3580.)
 
 #### Amendments
 

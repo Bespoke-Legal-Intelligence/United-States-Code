@@ -8,7 +8,7 @@
 
 (b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
-(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall beequal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
+(2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
 (3) Amounts in the savings fund credited to a member shall be considered as pay and allowances for purposes of section 553(c) of this title and shall otherwise be subject to withdrawal under procedures which the Secretary of the Treasury shall establish.
 
@@ -20,7 +20,7 @@
 
 (5) An allotment under this subsection may be made without regard to section 553(c) of this title.
 
-(c)(1) Except as provided in paragraph (3), the President shall make a cash payment to any person who is a former captive. Such payment shall be made before the end of the one-year period beginning on the date on which the captive status of such person terminates.
+(c)(1) Except as provided in paragraph (3), the President shall make a cash payment to anyperson who is a former captive. Such payment shall be made before the end of the one-year period beginning on the date on which the captive status of such person terminates.
 
 (2) Except as provided in section 802 of the Victims of Terrorism Compensation Act (5 U.S.C. 5569 note), the amount of such payment shall be determined by the President under the provisions of section 5569(d)(2) of title 5.
 
@@ -94,13 +94,21 @@ Section 806(a)(3) of Pub. L. 99–399 provided that:
 
 Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
+#### Recalculation of Previous Payments
+
+Pub. L. 110–181, div. A, title VI, §675(b), Jan. 28, 2008, 122 Stat. 187, provided that: “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Pub. L. 106–398, §1 \[\[div. A\], title VI, §667\], set out below\] before the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of the Navy shall—
+
+&emsp;“(1) recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) \[amending Pub. L. 106–398, §1 \[\[div. A\], title VI, §667\], set out below\]; and
+
+&emsp;“(2) if the amount of back pay, as so recalculated, exceeds the amount of back pay so paid, pay the person, or the surviving spouse of the person, an amount equal to the excess.”
+
 #### Back Pay for Members of the Navy and Marine Corps Selected for Promotion While Interned as Prisoners of War During World War II
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §667\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §667\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, as amended by Pub. L. 110–181, div. A, title VI, §675(a), Jan. 28, 2008, 122 Stat. 186, provided that:
 
 “(a)
 
-Entitlement of Former Prisoners of War.—Upon receipt of a claim made in accordance with this section, the Secretary of the Navy shall pay, from any appropriation currently available to the Secretary, back pay to any person who, by reason of being interned as a prisoner of war while serving as a member of the Navy or the Marine Corps during World War II, was not available to accept a promotion for which the person had been selected.
+Entitlement of Former Prisoners of War.—Upon receipt of a claim made in accordance with this section, the Secretary of the Navy shall pay, from any appropriation currently available to the Secretary, back pay to any person who, by reason of being interned as a prisoner of war while serving as a memberof the Navy or the Marine Corps during World War II, was not available to accept a promotion for which the person had been selected.
 
 “(b)
 
@@ -125,6 +133,8 @@ Amount of Back Pay.—(1) The amount of back pay payable to or for a person desc
 &emsp;&emsp;“(ii) the date on which the person's promotion to that grade in fact became effective for pay purposes; and
 
 &emsp;&emsp;“(iii) the end of World War II.
+
+“(3) The amount determined for a person under paragraph (1) shall be increased to reflect increases in cost of living since the basic pay referred to in paragraph (1)(B) was paid to or for that person, calculated on the basis of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics.
 
 “(d)
 

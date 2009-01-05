@@ -7,7 +7,7 @@ Part B—Additional General Provisions
 
 - [&sect; 01011 - Antidiscrimination](%C2%A7%2001011%20-%20Antidiscrimination.md)
 - [&sect; 01011a - Protection of student speech and association rights](%C2%A7%2001011a%20-%20Protection%20of%20student%20speech%20and%20association%20rights.md)
-- [&sect; 01011b - Treatment of territories and territorial student assistance](%C2%A7%2001011b%20-%20Treatment%20of%20territories%20and%20territorial%20student%20assistance.md)
+- [&sect; 01011b - Territorial waiver authority](%C2%A7%2001011b%20-%20Territorial%20waiver%20authority.md)
 - [&sect; 01011c - National Advisory Committee on Institutional Quality and Integrity](%C2%A7%2001011c%20-%20National%20Advisory%20Committee%20on%20Institutional%20Quality%20and%20Integrity.md)
 - [&sect; 01011d - Student representation](%C2%A7%2001011d%20-%20Student%20representation.md)
 - [&sect; 01011e - Financial responsibility of foreign students](%C2%A7%2001011e%20-%20Financial%20responsibility%20of%20foreign%20students.md)
@@ -17,3 +17,5 @@ Part B—Additional General Provisions
 - [&sect; 01011i - Drug and alcohol abuse prevention](%C2%A7%2001011i%20-%20Drug%20and%20alcohol%20abuse%20prevention.md)
 - [&sect; 01011j - Prior rights and obligations](%C2%A7%2001011j%20-%20Prior%20rights%20and%20obligations.md)
 - [&sect; 01011k - Recovery of payments](%C2%A7%2001011k%20-%20Recovery%20of%20payments.md)
+- [&sect; 01011l - Diploma mills](%C2%A7%2001011l%20-%20Diploma%20mills.md)
+- [&sect; 01011m - Certification regarding the use of certain Federal funds](%C2%A7%2001011m%20-%20Certification%20regarding%20the%20use%20of%20certain%20Federal%20funds.md)

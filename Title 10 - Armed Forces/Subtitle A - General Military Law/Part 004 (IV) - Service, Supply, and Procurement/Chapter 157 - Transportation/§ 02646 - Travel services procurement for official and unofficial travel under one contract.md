@@ -12,7 +12,7 @@ Credits, Discounts, Commissions, Fees.—(1) A contract entered into under this 
 
 (3) Commissions or fees received by the Department of Defense as a result of travel-related sales made under a contract entered into under this section shall be distributed as follows:
 
-&emsp;(A) For amounts relating to sales for official travel, credit to appropriations available forofficial travel for the fiscal year in which the amounts were charged.
+&emsp;(A) For amounts relating to sales for official travel, credit to appropriations available for official travel for the fiscal year in which the amounts were charged.
 
 &emsp;(B) For amounts relating to sales for unofficial travel, deposit in nonappropriated fund accounts available for morale, welfare, and recreation programs.
 

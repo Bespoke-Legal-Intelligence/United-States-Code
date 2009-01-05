@@ -10,7 +10,7 @@ Amount.—
 
 &emsp;(1)
 
-Determination of monthly amount.—Subject to paragraphs (2) and (3), the monthly amount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.
+Determination of monthly amount.—Subject to paragraphs (2) and (3), the monthlyamount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.
 
 &emsp;(2)
 
@@ -20,13 +20,21 @@ Maximum amount.—The amount paid to an eligible combat-related disabled uniform
 
 Special rules for chapter 61
 
-disability retirees.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+disability retirees.—
+
+&emsp;&emsp;(A)
+
+General rule.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
+
+&emsp;&emsp;(B)
+
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member's retired pay under chapter 61 of this title exceeds the amount equal to 21/2 percent of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 
-Eligible Retirees.—For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services entitled to retired pay who—
+Eligible Retirees.—For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
 
-&emsp;(1) has completed at least 20 years of service in the uniformed services that are creditable for purposes of computing the amount of retired pay to which the member is entitled or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title); and
+&emsp;(1) is entitled to retired pay (other than by reason of section 12731b of this title); and
 
 &emsp;(2) has a combat-related disability.
 
@@ -70,9 +78,17 @@ Other Definitions.—In this section:
 
 &emsp;(2) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517.)
+(Added Pub. L. 107–314, div. A, title VI, §636(a)(1), Dec. 2, 2002, 116 Stat. 2574; amended Pub. L. 108–136, div. A, title VI, §§641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, 117 Stat. 1514, 1516, 1517; Pub. L. 110–181, div. A, title VI, §641(a), (b), Jan. 28, 2008, 122 Stat. 156.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–181, §641(b), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (c). Pub. L. 110–181, §641(a), substituted “who—” for “entitled to retired pay who—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) has completed at least 20 years of service in the uniformed services that are creditable for purposes of computing the amount of retired pay to which the member is entitled or is entitled to retired pay under section 12731 of this title (other than by reason of section 12731b of this title); and
+
+“(2) has a combat-related disability.”
 
 2003—Pub. L. 108–136, §642(e)(1), substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in section catchline.
 
@@ -99,6 +115,10 @@ Election of source.—An individual who is eligible for special compensation und
 Regulations.—The Secretary of Defense shall prescribe in regulations the manner and form of an election under this subsection.”
 
 Subsec. (h). Pub. L. 108–136, §641(c)(1), inserted first sentence and inserted “for any other member” before “for any fiscal year”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2008, and shall apply to payments for months beginning on or after that date.”
 
 #### Effective Date of 2003 Amendment
 

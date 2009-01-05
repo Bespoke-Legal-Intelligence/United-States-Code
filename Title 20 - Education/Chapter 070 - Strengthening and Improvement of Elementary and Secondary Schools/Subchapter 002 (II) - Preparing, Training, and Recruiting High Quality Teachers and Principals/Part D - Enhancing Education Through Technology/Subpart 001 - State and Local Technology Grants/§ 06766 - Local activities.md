@@ -44,7 +44,7 @@ In addition to the activities described in subsection (a) of this section, a rec
 
 &emsp;(8) Using technology to collect, manage, and analyze data to inform and enhance teaching and school improvement efforts.
 
-&emsp;(9) Implementing performance measurement systems to determine the effectiveness of education technology programs funded under thissubpart, particularly in determining the extent to which activities funded under this subpart are effective in integrating technology into curricula and instruction, increasing the ability of teachers to teach, and enabling students to meet challenging State academic content and student academic achievement standards.
+&emsp;(9) Implementing performance measurement systems to determine the effectiveness of education technology programs funded under this subpart, particularly in determining the extent to which activities funded under this subpart are effective in integrating technology into curricula and instruction, increasing the ability of teachers to teach, and enabling students to meet challenging State academic content and student academic achievement standards.
 
 &emsp;(10) Developing, enhancing, or implementing information technology courses.
 

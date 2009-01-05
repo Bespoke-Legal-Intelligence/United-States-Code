@@ -15,7 +15,7 @@
 - [&sect; 00638 - Participation by Tribal Councils; recommendations](%C2%A7%2000638%20-%20Participation%20by%20Tribal%20Councils%3B%20recommendations.md)
 - [&sect; 00639 - Repealed. Pub. L. 104&#8211;193, title I, &sect;110(u), Aug. 22, 1996, 110 Stat. 2175](%C2%A7%2000639%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20I%2C%20%C2%A7110%28u%29%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202175.md)
 - [&sect; 00640 - Repealed. Pub. L. 93&#8211;531, &sect;26, Dec. 22, 1974, 88 Stat. 1723](%C2%A7%2000640%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93531%2C%20%C2%A726%2C%20Dec.%2022%2C%201974%2C%2088%20Stat.%201723.md)
-- [&sect; 00640a - Navajo Community College; purpose](%C2%A7%2000640a%20-%20Navajo%20Community%20College%3B%20purpose.md)
+- [&sect; 00640a - Dine&#65533;AE1 College; purpose](%C2%A7%2000640a%20-%20Dine%EF%BF%BDAE1%20College%3B%20purpose.md)
 - [&sect; 00640b - Grants](%C2%A7%2000640b%20-%20Grants.md)
 - [&sect; 00640c - Study of facilities needs](%C2%A7%2000640c%20-%20Study%20of%20facilities%20needs.md)
 - [&sect; 00640c&#8211;1 - Authorization of appropriations](%C2%A7%2000640c%E2%80%931%20-%20Authorization%20of%20appropriations.md)

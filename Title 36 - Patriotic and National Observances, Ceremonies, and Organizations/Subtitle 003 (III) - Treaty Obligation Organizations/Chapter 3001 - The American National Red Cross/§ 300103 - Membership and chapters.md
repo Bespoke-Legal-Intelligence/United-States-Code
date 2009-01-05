@@ -2,7 +2,7 @@
 
 (a)
 
-Membership.—Membership in the corporation is open to all the people of the UnitedStates and its territories and possessions, on payment of an amount specified, or as otherwise provided, in the bylaws.
+Membership.—Membership in the corporation is open to all the people of the United States and its territories and possessions, on payment of an amount specified, or as otherwise provided, in the bylaws.
 
 (b)
 

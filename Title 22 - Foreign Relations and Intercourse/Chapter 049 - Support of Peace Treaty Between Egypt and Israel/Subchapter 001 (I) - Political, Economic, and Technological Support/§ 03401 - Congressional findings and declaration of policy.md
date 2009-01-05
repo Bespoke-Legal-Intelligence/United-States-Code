@@ -16,7 +16,7 @@ The peace treaty between Egypt and Israel having been ratified, the Congress fin
 
 #### (c) Other agreements, understandings, or commitments
 
-The authorities contained in this subchapter to implement certain arrangements in support of the peace treaty between Egypt and Israel do not signify approval by the Congress of any other agreement, understanding, or commitment made by the executive branch.
+The authorities contained in this subchapter to implement certain arrangements in supportof the peace treaty between Egypt and Israel do not signify approval by the Congress of any other agreement, understanding, or commitment made by the executive branch.
 
 (Pub. L. 96–35, §2, July 20, 1979, 93 Stat. 89.)
 

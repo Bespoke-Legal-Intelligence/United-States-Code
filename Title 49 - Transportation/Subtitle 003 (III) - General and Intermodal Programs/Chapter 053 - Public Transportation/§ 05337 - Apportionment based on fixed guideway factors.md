@@ -2,7 +2,7 @@
 
 (a)
 
-Distribution.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for each of fiscal years 1998 through 2003 as follows:
+Distribution.—The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for each of fiscal years 2005 through 2009 as follows:
 
 &emsp;(1) The first $497,700,000 shall be apportioned in the following urbanized areas as follows:
 
@@ -96,7 +96,7 @@ Other standards.—Amounts apportioned under paragraphs (5) through (7) of subse
 
 Adjustment.—For purposes of this section, an urbanized area with a population of 55,997, according to the most recent decennial census, shall be treated as an urbanized area eligible for assistance under section 5336(b)(2)(A) to which amounts were apportioned under this section for fiscal year 1997. For the purposes of subsection (e)(1), the number of fixed guideway revenue vehicle miles of service and number of fixed guideway route miles for that urbanized area as of the date of enactment of the Federal Public Transportation Act of 2005 shall be considered to have been used to determine apportionments for fiscal year 1997.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -145,6 +145,8 @@ This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (f), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–244 substituted “for each of fiscal years 2005 through 2009” for “for each of fiscal years 1998 through 2003” in introductory provisions.
 
 2005—Pub. L. 109–59, §3035(a)(1), substituted “Apportionment based on fixed guideway factors” for “Apportionment of appropriations for fixed guideway modernization” in section catchline.
 

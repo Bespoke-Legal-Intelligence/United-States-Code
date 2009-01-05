@@ -214,7 +214,7 @@ Except as provided in regulations—
 
 &emsp;&emsp;(A) if such property is includible in the gross estate of the transferor (other than by reason of section 2035), its value for purposes of chapter 11, or
 
-&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on atimely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
+&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on a timely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
 
 #### (3) Estate tax inclusion period
 
@@ -244,7 +244,7 @@ Except as provided in regulations—
 
 &emsp;&emsp;&emsp;(ii) an election under subsection (b)(3) or (c)(5) of section 2632.
 
-> &emsp;&emsp;Such regulations shall include procedures for requesting comparable relief with respect to transfers made before the date of the enactment of this paragraph.
+> &emsp;&emsp;Such regulations shall include procedures for requesting comparable relief with respectto transfers made before the date of the enactment of this paragraph.
 
 #### (B) Basis for determinations
 

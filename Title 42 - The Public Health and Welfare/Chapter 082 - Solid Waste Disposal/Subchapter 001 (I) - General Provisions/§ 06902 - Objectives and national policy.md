@@ -10,7 +10,7 @@ The objectives of this chapter are to promote the protection of health and the e
 
 &emsp;(3) prohibiting future open dumping on the land and requiring the conversion of existing open dumps to facilities which do not pose a danger to the environment or to health;
 
-&emsp;(4) assuring that hazardous waste management practices are conducted in a manner which protects human health and the environment;
+&emsp;(4) assuring that hazardous waste management practices are conducted in a mannerwhich protects human health and the environment;
 
 &emsp;(5) requiring that hazardous waste be properly managed in the first instance thereby reducing the need for corrective action at a future date;
 

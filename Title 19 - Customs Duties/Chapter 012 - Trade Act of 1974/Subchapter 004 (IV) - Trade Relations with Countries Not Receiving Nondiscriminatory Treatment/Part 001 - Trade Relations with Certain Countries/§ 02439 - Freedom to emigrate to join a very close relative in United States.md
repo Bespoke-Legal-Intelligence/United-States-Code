@@ -4,7 +4,7 @@
 
 To assure the continued dedication of the United States to the fundamental human rights and welfare of its own citizens, and notwithstanding any other provision of law, on or after January 3, 1975, no nonmarket economy country shall participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
 
-&emsp;(1) denies its citizens the right or opportunity to join permanently through emigration, a very close relative in the United State,<sup>1</sup> such as a spouse, parent, child, brother, or sister;
+&emsp;(1) denies its citizens the right or opportunity to join permanently through emigration, a very close relative in the UnitedState,<sup>1</sup> such as a spouse, parent, child, brother, or sister;
 
 &emsp;(2) imposes more than a nominal tax on the visas or other documents required for emigration described in paragraph (1); or
 

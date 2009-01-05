@@ -1,6 +1,6 @@
 ### §8440a. Justices and judges
 
-(a)(1) A justice or judge of the United States as defined by section 451 of title 28 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund. Basic pay does not include an annuity or salary received by a justice or judge who has retired under section 371(a) or (b) or section 372(a) of title 28, United States Code.
+(a)(1) A justice or judge of the United States as defined by section 451 of title 28 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund. Basic pay doesnot include an annuity or salary received by a justice or judge who has retired under section 371(a) or (b) or section 372(a) of title 28, United States Code.
 
 (2) An election may be made under paragraph (1) as provided under section 8432(b) for individuals subject to this chapter.
 

@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business during the startup period if—
 
-&emsp;&emsp;&emsp;&emsp;(I) as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zonebusiness (as defined in section 1397C as modified by this paragraph) at the end of such period, and
+&emsp;&emsp;&emsp;&emsp;(I) as of the beginning of the startup period, it is reasonably expected that such business will be an enterprise zone business (as defined in section 1397C as modified by this paragraph) at the end of such period, and
 
 &emsp;&emsp;&emsp;&emsp;(II) such business makes bona fide efforts to be such a business.
 

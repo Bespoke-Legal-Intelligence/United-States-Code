@@ -44,7 +44,7 @@ In subsection (a)(1), the word “because” is substituted for the words “by 
 
 In subsection (a)(2), the words “for any other reason” are substituted for the words “for reasons other than that prescribed in paragraph (1)”. The words “dismissed or discharged” are inserted for clarity. The words “at least” are substituted for the word “duration”. The words “is convicted and sentenced \* \* \* and the sentence has become final” are substituted for the words “final conviction and sentence”. The words “from active duty” are omitted as surplusage.
 
-In subsection (b), the words “before the end of” are substituted for the words “prior to the expiration of the period of service under”. The words “computed by multiplying \* \* \* and fractions of a year of his unexpired period of service under the agreement by the sum of one month's \* \* \* pay, and allowances” are substituted for the words “equal to one month's pay and allowances multiplied by \* \* \* (including any pro rata part thereof) remaining as the unexpired period of his agreement for active duty”. The words “basic \* \* \* special pay \* \* \* to which he is entitled on the day of his release” are substituted for 50:963(b) (2d sentence). The third sentence is substituted for 50:963(b) (last sentence). The last sentence is substituted for 50:963(b) (words within 1st parentheses).
+In subsection (b), the words “before the end of” are substituted for the words “prior to the expiration of the period of service under”. The words “computed bymultiplying \* \* \* and fractions of a year of his unexpired period of service under the agreement by the sum of one month's \* \* \* pay, and allowances” are substituted for the words “equal to one month's pay and allowances multiplied by \* \* \* (including any pro rata part thereof) remaining as the unexpired period of his agreement for active duty”. The words “basic \* \* \* special pay \* \* \* to which he is entitled on the day of his release” are substituted for 50:963(b) (2d sentence). The third sentence is substituted for 50:963(b) (last sentence). The last sentence is substituted for 50:963(b) (words within 1st parentheses).
 
 In subsection (b)(2), the words “because of” are substituted for the words “when such release is due to”.
 
@@ -64,5 +64,5 @@ Subsec. (b)(3). Pub. L. 98–525, §533(b), inserted “, separation pay,” af
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

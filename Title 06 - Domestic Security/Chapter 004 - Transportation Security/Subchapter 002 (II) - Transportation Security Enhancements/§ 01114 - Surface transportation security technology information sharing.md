@@ -22,7 +22,7 @@ The Secretary shall ensure that the program established under this section makes
 
 #### References in Text
 
-The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (a)(2), is subtitle G (§§861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§441 et seq.) of subchapter VIII of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (a)(2), is subtitle G (§§861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§441 etseq.) of subchapter VIII of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 This Act, referred to in subsecs. (b), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 

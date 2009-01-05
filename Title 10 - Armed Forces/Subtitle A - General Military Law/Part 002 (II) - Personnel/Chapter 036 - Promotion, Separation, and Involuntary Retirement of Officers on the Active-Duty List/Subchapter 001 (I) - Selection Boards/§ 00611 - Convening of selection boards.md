@@ -10,7 +10,7 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require,the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
+2001—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,” and inserted at end “The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.”
 
 Subsec. (b). Pub. L. 107–107, §505(a)(3)(B), substituted “Whenever the needs of the service require, the Secretary of the military department concerned” for “Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,”.
 
@@ -64,7 +64,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “reserve officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
 
-“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of the Army or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
+“Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of theArmy or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
 
 &emsp;“(A) is serving in a temporary grade below lieutenant general that is higher than his reserve grade; or
 
@@ -218,7 +218,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 #### “regular officers whose retirement has been deferred
 
-“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
+“Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act\[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
 
 &emsp;“(1) under a provision of such chapter; or
 
@@ -456,7 +456,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 I74“establishment of initial active-duty lists
 
-“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officer placed on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
+“Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officerplaced on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
 
 “(2) Regulations prescribed under section 620 of title 10, United States Code, as added by this Act, shall be applicable to the placement of officers on the active-duty list under paragraph (1).
 
@@ -506,7 +506,7 @@ I74“establishment of initial active-duty lists
 
 “Sec. 626. (a) For the purpose of computing the years of service for pay and allowances of an officer of the Army, Navy, Air Force, or Marine Corps, including retired pay, severance pay, readjustment pay, separation pay, and basic pay, the total years of service of such officer shall be computed by adding to that service so creditable on the day before the effective date of this Act \[Sept. 15, 1981\] all subsequent service as computed under title 10, United States Code, as amended by this Act.
 
-“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amount equal to not less than 50 percent of the basic pay upon which his retired pay is based.
+“(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amountequal to not less than 50 percent of the basic pay upon which his retired pay is based.
 
 “(c) The service that an officer of the Army, Navy, Air Force, or Marine Corps has in a particular grade is the sum of—
 
@@ -516,7 +516,7 @@ I74“establishment of initial active-duty lists
 
 #### “transition to officer grade-strength tables during fiscal year 1981
 
-“Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armedforce serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
+“Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armed force serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
 
 #### “right of commissioned officers with permanent enlisted or warrant officer status to retire in highest enlisted or warrant officer grade held
 
@@ -578,7 +578,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 &emsp;“(1) was selected for participation in a postbaccalaureate educational program leading to an appointment as a commissioned officer or had completed a postbaccalaureate program and was selected for appointment as a commissioned officer of the Army, Navy, Air Force, or Marine Corps;
 
-&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12, 1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
+&emsp;“(2) under regulations of the Secretary of the military department concerned in effect on December 12,1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
 
 &emsp;“(3) had not been so appointed and ordered to active duty,
 

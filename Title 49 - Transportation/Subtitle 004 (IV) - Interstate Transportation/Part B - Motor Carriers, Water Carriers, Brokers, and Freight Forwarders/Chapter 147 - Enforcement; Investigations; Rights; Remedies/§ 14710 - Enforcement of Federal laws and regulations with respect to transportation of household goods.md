@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement by States.—Notwithstanding any other provision of this title, a State authority may enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, andare related to the delivery and transportation of household goods in interstate commerce. Any fine or penalty imposed on a carrier in a proceeding under this subsection shall be paid, notwithstanding any other provision of law, to and retained by the State.
+Enforcement by States.—Notwithstanding any other provision of this title, a State authority may enforce the consumer protection provisions of this title that apply to individual shippers, as determined by the Secretary, and are related to the delivery and transportation of household goods in interstate commerce. Any fine or penalty imposed on a carrier in a proceeding under this subsection shall be paid, notwithstanding any other provision of law, to and retained by the State.
 
 (b)
 
@@ -14,7 +14,7 @@ Enforcement Assistance Outreach Plan.—The Federal Motor Carrier Safety Adminis
 
 (d)
 
-State Authority Defined.—In this section, the term “State authority” means an agency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
+State Authority Defined.—In this section, the term “State authority” means anagency of a State that has authority under the laws of the State to regulate the intrastate movement of household goods.
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1754; amended Pub. L. 109–115, div. A, title I, §173(a), (b), Nov. 30, 2005, 119 Stat. 2426.)
 

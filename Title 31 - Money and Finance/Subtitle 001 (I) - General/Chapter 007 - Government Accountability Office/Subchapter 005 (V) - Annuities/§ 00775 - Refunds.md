@@ -2,7 +2,7 @@
 
 (a) A Comptroller General separated from office before becoming entitled to receive an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted from pay or deposited as a contribution under section 772, plus 3 percent interest on the amount compounded every December 31.
 
-(b) A Comptroller General making an election under section 773 of this title who is separated from office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
+(b) A Comptroller General making an election under section 773 of this title who is separatedfrom office before becoming entitled to an annuity under section 772 of this title is entitled to a lump-sum refund of the amount deducted under section 773 of this title, plus 4 percent interest before January 1, 1948, and 3 percent interest after December 31, 1947, compounded every December 31 until the separation date.
 
 (c) A lump-sum refund of the amounts deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, shall be paid under subsection (d) of this section if—
 
@@ -12,7 +12,7 @@
 
 (d) If a Comptroller General or retired Comptroller General dies before a refund is made under this section, the refund shall be paid in the following order of precedence:
 
-&emsp;(1) to a beneficiary the Comptroller General or retired Comptroller General designated inwriting if the designation was received by the Government Accountability Office before the death of the Comptroller General or retired Comptroller General.
+&emsp;(1) to a beneficiary the Comptroller General or retired Comptroller General designated in writing if the designation was received by the Government Accountability Office before the death of the Comptroller General or retired Comptroller General.
 
 &emsp;(2) to a surviving spouse.
 

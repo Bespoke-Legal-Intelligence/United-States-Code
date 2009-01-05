@@ -10,7 +10,7 @@ South Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Southern Division shall be held at Sioux Falls.
 
-&emsp;&emsp;(3) The central division comprises the counties of Buffalo, Dewey, Faulk, Gregory, Haakon, Hand, Hughes, Hyde, Jerauld, Jones, Lyman, Mellette, Potter, Stanley, Sully, Todd, Tripp, and Ziebach.
+&emsp;&emsp;(3) The central division comprises the counties of Buffalo, Dewey, Faulk, Gregory,Haakon, Hand, Hughes, Hyde, Jerauld, Jones, Lyman, Mellette, Potter, Stanley, Sully, Todd, Tripp, and Ziebach.
 
 &emsp;&emsp;Court for the Central Division shall be held at Pierre.
 

@@ -118,7 +118,7 @@ Section 652(a)(3) of Pub. L. 103–337 provided that: “The amendments made by 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravatean injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 #### Requirement for Deploying Military Medical Personnel To Be Trained in Preservation of Remains Under Combat or Combat-Related Conditions
 

@@ -164,7 +164,7 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 &emsp;(5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
-(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374.)
+(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, \[div. A\], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 
@@ -178,9 +178,11 @@ Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section
 
 #### Amendments
 
+2008—Subsec. (f)(2)(E). Pub. L. 110–417, which directed substitution of “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in subsec. (e)(2), was executed by making the substitution in subsec. (f)(2)(E) to reflect the probable intent of Congress, because the language to be stricken did not appear in subsec. (e)(2).
+
 2007—Pub. L. 110–53, §531(a)(1), substituted “Information and” for “Directorate for Information” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 110–53, §531(a)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to, in subsec. (a), establishment and responsibilities of Directorate for Information Analysis and Infrastructure Protection, in subsec. (b), positions of Assistant Secretary for Information Analysis andAssistant Secretary for Infrastructure Protection, and, in subsec. (c), Secretary's duty to ensure that responsibilities regarding information analysis and infrastructure protection would be carried out through the Under Secretary for Information Analysis and Infrastructure Protection.
+Subsecs. (a) to (c). Pub. L. 110–53, §531(a)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to, in subsec. (a), establishment and responsibilities of Directorate for Information Analysis and Infrastructure Protection, in subsec. (b), positions of Assistant Secretary for Information Analysis and Assistant Secretary for Infrastructure Protection, and, in subsec. (c), Secretary's duty to ensure that responsibilities regarding information analysis and infrastructure protection would be carried out through the Under Secretary for Information Analysis and Infrastructure Protection.
 
 Subsec. (d). Pub. L. 110–53, §531(a)(3), substituted “Secretary relating to intelligence and analysis and infrastructure protection” for “Under Secretary” in heading and “The responsibilities of the Secretary relating to intelligence and analysis and infrastructure protection” for “Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
@@ -227,8 +229,6 @@ Subsec. (e)(1). Pub. L. 110–53, §531(a)(4), substituted “provide the Office
 Subsec. (f)(1). Pub. L. 110–53, §531(a)(5), substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Directorate”.
 
 Subsec. (g). Pub. L. 110–53, §531(a)(6), substituted “Office of Intelligence and Analysis and the Office of Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
-
-2003—Subsec. (f)(2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 #### Regulations
 
@@ -362,7 +362,7 @@ Term of the National Infrastructure Advisory Council extended until Sept. 30, 20
 
 Ex. Ord. No. 13284, Jan. 23, 2003, 68 F.R. 4075, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\], andthe National Security Act of 1947, as amended (50 U.S.C. 401 <i>et seq</i>.), and in order to reflect responsibilities vested in the Secretary of Homeland Security and take other actions in connection with the establishment of the Department of Homeland Security, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\], and the National Security Act of 1947, as amended (50 U.S.C. 401 <i>et seq</i>.), and in order to reflect responsibilities vested in the Secretary of Homeland Security and take other actions in connection with the establishment of the Department of Homeland Security, it is hereby ordered as follows:
 
 Section 1. \[Amended Ex. Ord. No. 13234.\]
 

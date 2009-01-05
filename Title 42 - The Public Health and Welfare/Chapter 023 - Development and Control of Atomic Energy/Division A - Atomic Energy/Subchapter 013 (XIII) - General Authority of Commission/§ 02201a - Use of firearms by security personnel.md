@@ -6,7 +6,7 @@ In this section, the terms “handgun”, “rifle”, “shotgun”, “firearm
 
 #### (b) Authorization
 
-Notwithstanding subsections (a)(4), (a)(5), (b)(2), (b)(4), and (<i>o</i>) of section 922 of title 18, section 925(d)(3) of title 18, section 5844 of title 26, and any law (including regulations) of a State or a political subdivision of a State that prohibits the transfer, receipt, possession, transportation, importation, or use of a handgun, a rifle, a shotgun, a short-barreled shotgun, a short-barreled rifle, a machinegun, a semiautomatic assault weapon, ammunition for any such gun or weapon, or a large capacity ammunition feeding device, in carrying out the duties of the Commission, the Commission may authorize the security personnel of any licensee or certificate holder of the Commission (including an employee of a contractor of such a licensee or certificate holder) to transfer, receive, possess, transport, import, and use 1 or more such guns, weapons, ammunition, or devices, if the Commission determines that—
+Notwithstanding subsections (a)(4), (a)(5), (b)(2), (b)(4), and (<i>o</i>) of section 922 of title 18, section 925(d)(3) of title 18, section 5844 of title 26,and any law (including regulations) of a State or a political subdivision of a State that prohibits the transfer, receipt, possession, transportation, importation, or use of a handgun, a rifle, a shotgun, a short-barreled shotgun, a short-barreled rifle, a machinegun, a semiautomatic assault weapon, ammunition for any such gun or weapon, or a large capacity ammunition feeding device, in carrying out the duties of the Commission, the Commission may authorize the security personnel of any licensee or certificate holder of the Commission (including an employee of a contractor of such a licensee or certificate holder) to transfer, receive, possess, transport, import, and use 1 or more such guns, weapons, ammunition, or devices, if the Commission determines that—
 
 &emsp;(1) the authorization is necessary to the discharge of the official duties of the security personnel; and
 
@@ -33,4 +33,8 @@ A person that receives, possesses, transports, imports, or uses a weapon, ammuni
 This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.
 
 (Aug. 1, 1946, ch. 724, title I, §161A, as added Pub. L. 109–58, title VI, §653, Aug. 8, 2005, 119 Stat. 811.)
+
+#### References in Text
+
+Guidelines to carry out this section, referred to in subsec. (d), were issued effective Sept. 11, 2009, see 74 F.R. 46800.
 

@@ -56,7 +56,7 @@ Aug. 7, 1947, ch. 512, §405 (1st sentence), 61 Stat. 872.
 
 July 24, 1941, ch. 320, §6 (1st sentence), 55 Stat. 604; Apr. 9, 1943, ch. 38, §1, 57 Stat. 59; Oct. 12, 1949, ch. 681, §531(b)(28), 63 Stat. 839.
 
-The Act of July 24, 1941, ch. 320, as amended (34 U.S.C. 350 et seq.), and §413 of the Officer Personnel Act of 1947 (34 U.S.C. 211d) provide for the temporary appointment of officers to grades up to and including admiral. Staff corps officers, women officers, and reserve officers are not excluded from the operation of the provisions of the 1941 Act. Since authority exists for the appointment of officers of any category in any grade in the Navy, the existence of every grade in the several staff corps and in the Naval Reserve is recognized, and the restriction of these grades to the active list of the line is removed.
+The Act of July 24, 1941, ch. 320, as amended (34 U.S.C. 350 et seq.), and §413 of the Officer Personnel Act of 1947 (34 U.S.C. 211d) provide for the temporary appointment of officers to grades up to and including admiral. Staff corps officers, women officers, and reserve officers are not excluded from the operation of the provisions of the 1941 Act. Since authority exists for the appointment of officers of any category in any grade in the Navy, the existence of every grade in the several staff corps andin the Naval Reserve is recognized, and the restriction of these grades to the active list of the line is removed.
 
 The grade of Fleet Admiral is omitted inasmuch as the law authorizing appointments in this grade was limited.
 

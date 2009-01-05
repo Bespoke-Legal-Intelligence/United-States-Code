@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### Amendments
 
-2003—Par. (1). Pub. L. 108–36, §129(a), substituted “given the term ‘child with a disability’ in section 1401(3) or ‘infant or toddler with a disability’ in section 1432(5) of title 20” for “given such term in section 1401(a)(2) of title 20”.
+2003—Par. (1). Pub. L. 108–36, §129(a), substituted “given the term ‘child with a disability’ in section 1401(3) or ‘infant or toddler with a disability’ in section1432(5) of title 20” for “given such term in section 1401(a)(2) of title 20”.
 
 Pars. (3), (4). Pub. L. 108–36, §129(b), added par. (3) and struck out former pars. (3) and (4), which related, respectively, to family resource and support programs and outreach services.
 

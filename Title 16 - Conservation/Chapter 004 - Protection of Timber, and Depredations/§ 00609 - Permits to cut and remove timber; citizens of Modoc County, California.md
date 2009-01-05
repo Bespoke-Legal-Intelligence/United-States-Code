@@ -2,7 +2,7 @@
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title, to citizens of Modoc County, California, to cut timber in the State of Nevada for agricultural, mining, or other domestic purposes, and to remove the timber so cut to Modoc County, State of California.
 
-(Mar. 3, 1891, ch. 561, §8 \[part\], as added Mar. 3, 1919, ch. 115, 40 Stat. 1322.)
+(Mar. 3, 1891, ch. 561, §8 (part), as added Mar. 3, 1919, ch. 115, 40 Stat. 1322.)
 
 #### Codification
 

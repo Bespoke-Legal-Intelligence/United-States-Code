@@ -36,7 +36,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall prescribe proc
 
 #### (e) Return of misspent grant funds
 
-As part of the grant agreement under subsection (c), the Secretary shall require grant applicants to return any misspent grant funds received under this subchapter that the Secretary considers to have been spent for a purpose other than those specified in the grant award. TheSecretary shall take all necessary actions to recover such funds.
+As part of the grant agreement under subsection (c), the Secretary shall require grant applicants to return any misspent grant funds received under this subchapter that the Secretary considers to have been spent for a purpose other than those specified in the grant award. The Secretary shall take all necessary actions to recover such funds.
 
 #### (f) Congressional notification
 

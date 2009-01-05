@@ -88,7 +88,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 &emsp;&emsp;(A) bases such amount on the Secretary's estimate of the amount of such payments that would be payable if the plan were an MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title and the previous provisions of this subsection did not apply; and
 
-&emsp;&emsp;(B) takes into account the average reinsurance payments made under section 1395w–115(b) of this title for populations ofsimilar risk under MA–PD plans described in such section.
+&emsp;&emsp;(B) takes into account the average reinsurance payments made under section 1395w–115(b) of this title for populations of similar risk under MA–PD plans described in such section.
 
 #### (5) Exemption from risk corridor provisions
 

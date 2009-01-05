@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The Commission, through the authority of the members referred to in section 9702(c) of this title, shall take such actions as it deems necessary to streamline, improve, or augment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
+&emsp;The Commission, through the authority of the members referred to in section 9702(c) of this title, shall take such actions as it deems necessary to streamline, improve, or augmentthe financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
 
 #### (2) Areas of emphasis
 
 &emsp;To improve financial literacy and education, the Commission shall emphasize, among other elements, basic personal income and household money management and planning skills, including how to—
 
-&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investmentdecisions for education, retirement, home ownership, wealth building, or other savings goals;
+&emsp;&emsp;(A) create household budgets, initiate savings plans, and make strategic investment decisions for education, retirement, home ownership, wealth building, or other savings goals;
 
 &emsp;&emsp;(B) manage spending, credit, and debt, including credit card debt, effectively;
 

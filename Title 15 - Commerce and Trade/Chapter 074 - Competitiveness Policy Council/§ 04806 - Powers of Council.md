@@ -32,7 +32,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (1) The Council may establish, for such period of time as the Council determines appropriate, subcouncils of public and private leaders to analyze specific competitive issues.
 
-(2) Any such subcouncil shall include representatives of business, labor, government, and other individuals or representatives of groups whose participation is considered by the Council to be important to developing a full understanding of the subject with which the subcouncil is concerned.
+(2) Any such subcouncil shall include representatives of business, labor, government, andother individuals or representatives of groups whose participation is considered by the Council to be important to developing a full understanding of the subject with which the subcouncil is concerned.
 
 (3) Any such subcouncil shall include a representative of the Federal Government.
 
@@ -50,7 +50,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
 
-(7) Any subcouncil shall terminate 30 days after making recommendations, unless theCouncil specifically requests that the subcouncil continue in operation.
+(7) Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
 
 #### (h) Applicability of Advisory Committee Act
 

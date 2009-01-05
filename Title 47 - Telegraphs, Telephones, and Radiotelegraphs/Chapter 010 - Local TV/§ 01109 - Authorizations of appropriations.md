@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the release date is the date that is the earlier of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date the Secretary determines that at least 75 percent of the designated market areas (as defined in section 122(j) of title 17) not in the top 40 designated market areas described in section 1103(e)(1)(C)(i) of this title have access to local television broadcast signals for virtually all households (as determined by the Secretary); or
+&emsp;&emsp;&emsp;&emsp;(I) the date the Secretary determines that at least 75 percent of the designated market areas (as defined in section 122(j) of title 17) not in the top 40 designatedmarket areas described in section 1103(e)(1)(C)(i) of this title have access to local television broadcast signals for virtually all households (as determined by the Secretary); or
 
 &emsp;&emsp;&emsp;&emsp;(II) December 31, 2006.
 

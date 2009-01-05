@@ -308,7 +308,7 @@ Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (
 
 1992—Subsec. (b)(1)(N) to (P). Pub. L. 102–321 added subpars. (N) to (P).
 
-1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar.\(J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
+1988—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out “and Communicative” after “Neurological” in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
 
 #### Effective Date of 2007 Amendment
 

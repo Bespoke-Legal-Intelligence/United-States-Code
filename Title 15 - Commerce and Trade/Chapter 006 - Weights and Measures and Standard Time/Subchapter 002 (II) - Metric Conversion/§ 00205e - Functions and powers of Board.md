@@ -14,7 +14,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(6) consult and cooperate with foreign governments, and intergovernmental organizations, in collaboration with the Department of State, and, through appropriate member bodies, with private international organizations, which are or become concerned with the encouragement and coordination of increased use of metric measurement units or engineering standards based on such units, or both. Such consultation shall include efforts, where appropriate, to gain international recognition for metric standards proposed by the United States, and, during the United States conversion, to encourage retention of equivalent customary units, usually by way of dual dimensions, in international standards or recommendations;
 
-&emsp;(7) assist the public through information and education programs, to become familiar with the meaning and applicability of metric terms and measures in daily life. Such programs shall include—
+&emsp;(7) assist the public through information and education programs, to become familiar withthe meaning and applicability of metric terms and measures in daily life. Such programs shall include—
 
 &emsp;&emsp;(A) public information programs conducted by the Board, through the use of newspapers, magazines, radio, television, and other media, and through talks before appropriate citizens’ groups, and trade and public organizations;
 

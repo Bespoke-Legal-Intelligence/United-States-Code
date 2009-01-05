@@ -64,7 +64,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (B) Special rule where more than 1 qualified beneficiary
 
-&emsp;&emsp;If there is more than 1 qualified beneficiary with respect to the same qualifying event, the maximum amount of tax imposed by subsection (a) on all failures on any day during the noncompliance period with respect to such qualified beneficiaries shall be $200.
+&emsp;&emsp;If there is more than 1 qualified beneficiary with respect to the same qualifyingevent, the maximum amount of tax imposed by subsection (a) on all failures on any day during the noncompliance period with respect to such qualified beneficiaries shall be $200.
 
 #### (4) Overall limitation for unintentional failures
 
@@ -188,7 +188,7 @@ This section shall not apply to—
 
 #### (V) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date thecovered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 &emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
 
@@ -206,7 +206,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act), or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified beneficiary other than a qualified beneficiary described in subsection (g)(1)(D) entitled to benefits under title XVIII of the Social Security Act.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualified beneficiary other than a qualified beneficiarydescribed in subsection (g)(1)(D) entitled to benefits under title XVIII of the Social Security Act.
 
 #### (v) Termination of extended coverage for disability
 
@@ -246,7 +246,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(F) A proceeding in a case under title 11, United States Code, commencing on or after July 1, 1986, with respect to the employer from whose employment the covered employee retired at any time.
 
-> &emsp;In the case of an event described in subparagraph (F), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in subsection (g)(1)(D) within one year before orafter the date of commencement of the proceeding.
+> &emsp;In the case of an event described in subparagraph (F), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in subsection (g)(1)(D) within one year before or after the date of commencement of the proceeding.
 
 #### (4) Applicable premium
 
@@ -278,7 +278,7 @@ This section shall not apply to—
 
 #### (iii) Clause (ii) not to apply where significant change
 
-&emsp;&emsp;&emsp;A plan administrator may not elect to have clause (ii) apply in any case in which there is any significant difference between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination period shall be made at the same time as the determination under subparagraph (C).
+&emsp;&emsp;&emsp;A plan administrator may not elect to have clause (ii) apply in any case in which there is any significant difference between the determination period and the preceding determination period, in coverage under, or in employees covered by, the plan. The determination under the preceding sentence for any determination periodshall be made at the same time as the determination under subparagraph (C).
 
 #### (C) Determination period
 
@@ -354,7 +354,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(B) The employer of an employee under a plan must notify the plan administrator of a qualifying event described in subparagraph (A), (B), (D), or (F) of paragraph (3) with respect to such employee within 30 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date of the qualifying event.
 
-&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled.
+&emsp;&emsp;(C) Each covered employee or qualified beneficiary is responsible for notifying the plan administrator of the occurrence of any qualifying event described in subparagraph (C) or (E) of paragraph (3) within 60 days after the date of the qualifying event and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title ortitles that the qualified beneficiary is no longer disabled.
 
 &emsp;&emsp;(D) The plan administrator shall notify—
 
@@ -520,7 +520,7 @@ Section 6701(d) of Pub. L. 101–239 provided that: “The amendments made by th
 
 Section 7862(c)(2)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1167 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
 
-Amendment by section 7862(c)(3)(C) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988,the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of this title.
+Amendment by section 7862(c)(3)(C) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
 Section 7862(c)(4)(C) of Pub. L. 101–239 provided that: “The amendments made by this paragraph \[amending this section and section 1162 of Title 29, Labor\] shall apply to plan years beginning after December 31, 1989.”
 

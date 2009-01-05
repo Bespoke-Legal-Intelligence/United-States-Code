@@ -16,7 +16,7 @@ Section was formerly classified to section 1325 of Title 31 prior to the general
 
 1987—Subsec. (c). Pub. L. 100–119 added subsec. (c).
 
-1985—Pub. L. 99–177, in amending section generally, inserted “Permissible” before “revisions” in sectioncatchline, designated existing provisions as subsec. (a), struck out “first” after “after the”, and added subsec. (b).
+1985—Pub. L. 99–177, in amending section generally, inserted “Permissible” before “revisions” in section catchline, designated existing provisions as subsec. (a), struck out “first” after “after the”, and added subsec. (b).
 
 #### Effective Date of 1985 Amendment
 

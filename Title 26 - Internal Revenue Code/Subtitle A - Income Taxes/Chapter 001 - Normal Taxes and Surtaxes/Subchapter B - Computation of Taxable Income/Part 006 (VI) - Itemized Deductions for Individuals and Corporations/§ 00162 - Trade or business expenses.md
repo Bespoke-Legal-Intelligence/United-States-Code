@@ -24,7 +24,7 @@ No deduction shall be allowed under subsection (a) for any contribution or gift 
 
 #### (2) Other illegal payments
 
-&emsp;No deduction shall be allowed under subsection (a) for any payment (other than a payment described in paragraph (1)) made, directly or indirectly, to any person, if the payment constitutes an illegal bribe, illegal kickback, or other illegal payment under any law of the United States, or under any law of a State (but only if such State law is generallyenforced), which subjects the payor to a criminal penalty or the loss of license or privilege to engage in a trade or business. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer. The burden of proof in respect of the issue, for purposes of this paragraph, as to whether a payment constitutes an illegal bribe, illegal kickback, or other illegal payment shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
+&emsp;No deduction shall be allowed under subsection (a) for any payment (other than a payment described in paragraph (1)) made, directly or indirectly, to any person, if the payment constitutes an illegal bribe, illegal kickback, or other illegal payment under any law of the United States, or under any law of a State (but only if such State law is generally enforced), which subjects the payor to a criminal penalty or the loss of license or privilege to engage in a trade or business. For purposes of this paragraph, a kickback includes a payment in consideration of the referral of a client, patient, or customer. The burden of proof in respect of the issue, for purposes of this paragraph, as to whether a payment constitutes an illegal bribe, illegal kickback, or other illegal payment shall be upon the Secretary to the same extent as he bears the burden of proof under section 7454 (concerning the burden of proof when the issue relates to fraud).
 
 #### (3) Kickbacks, rebates, and bribes under medicare and medicaid
 
@@ -72,7 +72,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (A) In general
 
-&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
+&emsp;&emsp;The term “influencing legislation” means any attempt to influence any legislationthrough communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
 
 #### (B) Legislation
 
@@ -148,7 +148,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) the amount generally allowable with respect to such day to employees of the State of which he is a legislator for per diem while away from home, to the extent such amount does not exceed 110 percent of the amount described in clause (ii) with respect to such day, or
 
-&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States, and
+&emsp;&emsp;&emsp;(ii) the amount generally allowable with respect to such day to employees of the executive branch of the Federal Governmentfor per diem while away from home but serving in the United States, and
 
 &emsp;&emsp;(C) he shall be deemed to be away from home in the pursuit of a trade or business on each legislative day.
 
@@ -262,7 +262,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;In the case of any publicly held corporation, no deduction shall be allowed under this chapter for applicable employee remuneration withrespect to any covered employee to the extent that the amount of such remuneration for the taxable year with respect to such employee exceeds $1,000,000.
+&emsp;In the case of any publicly held corporation, no deduction shall be allowed under this chapter for applicable employee remuneration with respect to any covered employee to the extent that the amount of such remuneration for the taxable year with respect to such employee exceeds $1,000,000.
 
 #### (2) Publicly held corporation
 
@@ -320,6 +320,88 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;The dollar limitation contained in paragraph (1) with respect to any covered employee shall be reduced (but not below zero) by the amount of any payment (with respect to such employee) of the tax imposed by section 4985 directly or indirectly by the expatriated corporation (as defined in such section) or by any member of the expanded affiliated group (as defined in such section) which includes such corporation.
 
+#### (5) Special rule for application to employers participating in the Troubled Assets Relief Program
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an applicable employer, no deduction shall be allowed under this chapter—
+
+&emsp;&emsp;&emsp;(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
+
+&emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable year for services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the executive remuneration for such applicable taxable year, plus
+
+&emsp;&emsp;&emsp;&emsp;(II) the portion of the deferred deduction executive remuneration for such services which was taken into account under this clause in a preceding taxable year.
+
+#### (B) Applicable employer
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable employer” means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
+
+#### (ii) Disregard of certain assets sold through direct purchase
+
+&emsp;&emsp;&emsp;If the only sales of troubled assets by an employer under the program described in clause (i) are through 1 or more direct purchases (within the meaning of section 113(c) of the Emergency Economic Stabilization Act of 2008), such assets shall not be taken into account under clause (i) in determining whether the employer is an applicable employer for purposes of this paragraph.
+
+#### (iii) Aggregation rules
+
+&emsp;&emsp;&emsp;Two or more persons who are treated as a single employer under subsection (b) or (c) of section 414 shall be treated as a single employer, except that in applying section 1563(a) for purposes of either such subsection, paragraphs (2) and (3) thereof shall be disregarded.
+
+#### (C) Applicable taxable year
+
+&emsp;&emsp;For purposes of this paragraph, the term “applicable taxable year” means, with respect to any employer—
+
+&emsp;&emsp;&emsp;(i) the first taxable year of the employer—
+
+&emsp;&emsp;&emsp;&emsp;(I) which includes any portion of the period during which the authorities under section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 thereof), and
+
+&emsp;&emsp;&emsp;&emsp;(II) in which the aggregate amount of troubled assets acquired from the employer during the taxable year pursuant to such authorities (other than assets to which subparagraph (B)(ii) applies), when added to the aggregate amount so acquired for all preceding taxable years, exceeds $300,000,000, and
+
+&emsp;&emsp;&emsp;(ii) any subsequent taxable year which includes any portion of such period.
+
+#### (D) Covered executive
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “covered executive” means, with respect to any applicable taxable year, any employee—
+
+&emsp;&emsp;&emsp;&emsp;(I) who, at any time during the portion of the taxable year during which the authorities under section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 thereof), is the chief executive officer of the applicable employer or the chief financial officer of the applicable employer, or an individual acting in either such capacity, or
+
+&emsp;&emsp;&emsp;&emsp;(II) who is described in clause (ii).
+
+#### (ii) Highest compensated employees
+
+&emsp;&emsp;&emsp;An employee is described in this clause if the employee is 1 of the 3 highest compensated officers of the applicable employer for the taxable year (other than an individual described in clause (i)(I)), determined—
+
+&emsp;&emsp;&emsp;&emsp;(I) on the basis of the shareholder disclosure rules for compensation under the Securities Exchange Act of 1934 (without regard to whether those rules apply to the employer), and
+
+&emsp;&emsp;&emsp;&emsp;(II) by only taking into account employees employed during the portion of the taxable year described in clause (i)(I).
+
+#### (iii) Employee remains covered executive
+
+&emsp;&emsp;&emsp;If an employee is a covered executive with respect to an applicable employer for any applicable taxable year, such employee shall be treated as a covered executive with respect to such employer for all subsequent applicable taxable years andfor all subsequent taxable years in which deferred deduction executive remuneration with respect to services performed in all such applicable taxable years would (but for this paragraph) be deductible.
+
+#### (E) Executive remuneration
+
+&emsp;&emsp;For purposes of this paragraph, the term “executive remuneration” means the applicable employee remuneration of the covered executive, as determined under paragraph (4) without regard to subparagraphs (B), (C), and (D) thereof. Such term shall not include any deferred deduction executive remuneration with respect to services performed in a prior applicable taxable year.
+
+#### (F) Deferred deduction executive remuneration
+
+&emsp;&emsp;For purposes of this paragraph, the term “deferred deduction executive remuneration” means remuneration which would be executive remuneration for services performed in an applicable taxable year but for the fact that the deduction under this chapter (determined without regard to this paragraph) for such remuneration is allowable in a subsequent taxable year.
+
+#### (G) Coordination
+
+&emsp;&emsp;Rules similar to the rules of subparagraphs (F) and (G) of paragraph (4) shall apply for purposes of this paragraph.
+
+#### (H) Regulatory authority
+
+&emsp;&emsp;The Secretary may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this paragraph and the Emergency Economic Stabilization Act of 2008, including the extent to which this paragraph applies in the case of any acquisition, merger, or reorganization of an applicable employer.
+
 #### (n) Special rule for certain group health plans
 
 #### (1) In general
@@ -374,7 +456,7 @@ For purposes of subsection (a)(2), in the case of an individual who performs ser
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457,469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803.)
 
 #### References in Text
 
@@ -382,11 +464,15 @@ The Foreign Corrupt Practices Act of 1977, referred to in subsec. (c)(1), is tit
 
 The Social Security Act, referred to in subsec. (c)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 4 of the Clayton Act, referred to in subsec. (g)(1), is classified to section 15 of Title 15.
+Section 4 of the Clayton Act, referred to in subsec. (g)(1), is classified to section 15 of Title 15, Commerce and Trade.
 
-The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. Section 12 of the Act is classified to section 78<i>l</i> of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (m)(2), (3)(B), (5)(D)(ii)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 12 of the Act is classified to section 78<i>l</i> of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (m)(5), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 101(a) of the Act enacted section 5211(a) of Title 12 and amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance. Section 113(c) of the Act is classified to section 5223(c) of Title 12. Section 120 of the Act is classified to section 5230 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+2008—Subsec. (m)(5). Pub. L. 110–343 added par. (5).
 
 2004—Subsec. (m)(4)(G). Pub. L. 108–357, §802(b)(2), added subpar. (G).
 
@@ -412,7 +498,7 @@ Subsec. (<i>l</i>)(1)(B). Pub. L. 105–277 amended table in subpar. (B) general
 | &nbsp;&nbsp;&nbsp;2006 | 90&nbsp; |
 | &nbsp;&nbsp;&nbsp;2007 and thereafter | 100\.” |
 
-1997—Subsec. (a). Pub. L. 105–34, §1204(a), inserted at end of concluding provisions “The preceding sentence shall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate, or provide support services for the investigation of, a Federal crime.”
+1997—Subsec. (a). Pub. L. 105–34, §1204(a), inserted at end of concluding provisions “The preceding sentenceshall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate, or provide support services for the investigation of, a Federal crime.”
 
 Subsec. (<i>l</i>)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to amendment, table read as follows:
 
@@ -473,7 +559,7 @@ Pub. L. 103–66, §13211(a), redesignated subsec. (m) as (n).
 
 Subsec. (<i>o</i>). Pub. L. 103–66, §13442(a), redesignated subsec. (n) as (<i>o</i>).
 
-1992—Subsec. (a). Pub. L. 102–486 inserted at end “For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home duringany period of employment if such period exceeds 1 year.”
+1992—Subsec. (a). Pub. L. 102–486 inserted at end “For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home during any period of employment if such period exceeds 1 year.”
 
 1991—Subsec. (<i>l</i>)(6). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
@@ -627,6 +713,10 @@ Subsecs. (d), (e). Pub. L. 86–779, §8(a), added subsec. (d) and redesignated 
 
 1958—Subsecs. (c), (d). Pub. L. 85–866, §5(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. A, title III, §302(c)(1), Oct. 3, 2008, 122 Stat. 3806, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title III, §318(c), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2003.”
@@ -769,7 +859,7 @@ Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), se
 
 “(3)
 
-Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 and section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
+Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 andsection 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
 
 “(4)
 
@@ -811,7 +901,7 @@ Section 310(b) of Pub. L. 92–178 provided that: “The amendments made by subs
 
 #### Effective Date of 1969 Amendment
 
-Section 902(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
+Section 902(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Section 162(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to all taxable years to which such Code applies. Section 162(g) of such Code (as added by subsection (a)) shall apply with respect to amounts paid or incurred after December 31, 1969. Section 162(c)(1) of such Code (as amended by subsection (b)) shall apply to all taxable years to which such Code applies. Sections 162(c)(2) and (3) of such Code (as amended by subsection (b)) shall apply with respect to payments made after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
 Amendment by section 516(c)(2)(A) of Pub. L. 91–172 applicable to transfers after Dec. 31, 1969, see section 516(d)(3) of Pub. L. 91–172, set out as a note under section 1001 of this title.
 
@@ -863,7 +953,7 @@ General.—For purposes of section 162(a) of the Internal Revenue Code of 1986 \
 
 &emsp;“(1) the place of residence of such individual within the legislative district which he represented shall be considered his home, and
 
-&emsp;“(2) he shall be deemed to have expended for living expenses (in connection with his trade or business as a legislator) an amount equal to the sum of the amounts determined by multiplying each legislative day of such individual during the taxable year by theamount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
+&emsp;“(2) he shall be deemed to have expended for living expenses (in connection with his trade or business as a legislator) an amount equal to the sum of the amounts determined by multiplying each legislative day of such individual during the taxable year by the amount generally allowable with respect to such day to employees of the executive branch of the Federal Government for per diem while away from home but serving in the United States.
 
 “(b)
 
@@ -877,7 +967,7 @@ Limitation.—The amount taken into account as living expenses attributable to a
 
 Making and Effect of Election.—An election under this section shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall by regulations prescribe.”
 
-\[Amendment by section 604 of Pub. L. 94–455 by section 1 of Pub. L. 96–178, which purported to substitute “January 1, 1979” for “January 1, 1978”, was not executed because of the prior amendment by section 3(a)(2), (b) of Pub. L. 96–167 which substituted “January 1, 1981” for “January 1, 1978” in subsec. (a) and which struck out the last sentence of subsec. (d).\]
+\[Amendment of section 604 of Pub. L. 94–455 by section 1 of Pub. L. 96–178, which purported to substitute “January 1, 1979” for “January 1, 1978”, was not executed because of the prior amendment by section 3(a)(2), (b) of Pub. L. 96–167 which substituted “January 1, 1981” for “January 1, 1978” in subsec. (a) and which struck out the last sentence of subsec. (d).\]
 
 #### Denial of Deduction for Amounts Paid or Incurred on Judgments in Suits Brought To Recover Price Increases in Purchase of New Principal Residence
 

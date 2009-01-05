@@ -22,5 +22,5 @@ The Secretary of Energy shall carry out a program, to be known as the Reliable R
 
 The Secretary of Energy shall carry out the Reliable Replacement Warhead program in consultation with the Secretary of Defense.
 
-(Pub. L. 107–314, div. D, title XLII, §4204a, as added Pub. L. 109–163, div. C, title XXXI, §3111(a), Jan. 6, 2006, 119 Stat. 3539.)
+(Pub. L. 107–314, div. D, title XLII, §4204A, formerly §4204a, as added Pub. L. 109–163, div. C, title XXXI, §3111(a), Jan. 6, 2006, 119 Stat. 3539, renumbered §4204A, Pub. L. 110–181, div. C, title XXXI, §3117(1), Jan. 28, 2008, 122 Stat. 578.)
 

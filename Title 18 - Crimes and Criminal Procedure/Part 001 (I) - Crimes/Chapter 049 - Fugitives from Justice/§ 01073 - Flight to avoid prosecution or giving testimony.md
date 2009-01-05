@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §408e (May 18, 1934, ch. 302, 48 Stat. 782
 
 Said section 408e was rewritten and the phrase “offenses as they are defined either at common law or by the laws of the place from which the fugitive flees” were inserted to remove the ambiguity discussed in the opinion of the Circuit Court of Appeals, Third Circuit, in <i>Brandenburg</i> v. <i>U.S</i>., decided September 6, 1944, not yet reported \[144 F2d 656\], reversing the conviction of the appellant. The court held that Congress intended the enumerated offenses to mean those as defined at common law. The effect of the rewritten section is to make the statute applicable whether the offense committed is one defined at common law or by the law of the state from which the fugitive flees.
 
-The words “offense punishable by imprisonment in a penitentiary” were substituted for “felony” to make the statute uniformly applicable and to include crimes of the grade of felony even where, as in New Jersey, they are denominated as misdemeanor, high misdemeanor or otherwise.
+The words “offense punishable by imprisonment in a penitentiary” were substituted for “felony” to make the statute uniformly applicable and to include crimes of the grade of felony even where, as in New Jersey,they are denominated as misdemeanor, high misdemeanor or otherwise.
 
 Words “from any State, Territory, or possession of the United States or the District of Columbia” were omitted in view of definitive section 10 of this title.
 

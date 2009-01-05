@@ -136,7 +136,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (A) Required reallocation
 
-&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and thatcan be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
 
 #### (B) Permitted reallocation
 
@@ -188,7 +188,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (4) Notice to Commission of estimated relocation costs
 
-&emsp;(A) The Commission shall notify the NTIA at least 18 months prior to the commencement of any auction of eligible frequencies defined in paragraph (2). At least 6 months prior to thecommencement of any such auction, the NTIA, on behalf of the Federal entities and after review by the Office of Management and Budget, shall notify the Commission of estimated relocation costs and timelines for such relocation.
+&emsp;(A) The Commission shall notify the NTIA at least 18 months prior to the commencement of any auction of eligible frequencies defined in paragraph (2). At least 6 months prior to the commencement of any such auction, the NTIA, on behalf of the Federal entities and after review by the Office of Management and Budget, shall notify the Commission of estimated relocation costs and timelines for such relocation.
 
 &emsp;(B) Upon timely request of a Federal entity, the NTIA shall provide such entity with information regarding an alternative frequency assignment or assignments to which their radiocommunications operations could be relocated for purposes of calculating the estimated relocation costs and timelines to be submitted to the Commission pursuant to subparagraph (A).
 
@@ -240,7 +240,7 @@ Subsecs. (f) to (i). Pub. L. 105–33, §3002(d)(1), added subsecs. (f) to (i).
 
 #### Spectrum Management Authority Retained
 
-Pub. L. 108–494, title II, §208(a), Dec. 23, 2004, 118 Stat. 3996, provided that: “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications andInformation Administration Organization Act (47 U.S.C. 923(g)(2)(A)) as amended by this title, nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] or the amendments made by this title shall be construed as limiting the Federal Communications Commission's authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
+Pub. L. 108–494, title II, §208(a), Dec. 23, 2004, 118 Stat. 3996, provided that: “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(2)(A)) as amended by this title, nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] or the amendments made by this title shall be construed as limiting the Federal Communications Commission's authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
 
 #### Reports on Costs of Relocations
 

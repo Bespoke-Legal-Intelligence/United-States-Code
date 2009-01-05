@@ -294,7 +294,7 @@
 
 #### (2) Potential current beneficiary
 
-&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to anypower of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
+&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
 
 #### (3) Election
 
@@ -448,7 +448,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Special rule for treatment as second class of stock.—In the case of any taxable year beginning after December 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
+Special rule for treatment as second class of stock.—In the case of any taxable year beginning afterDecember 31, 1996, restricted bank director stock (as defined in section 1361(f) of the Internal Revenue Code of 1986, as added by this section) shall not be taken into account in determining whether an S corporation has more than 1 class of stock.”
 
 Pub. L. 110–28, title VIII, §8233(b), May 25, 2007, 121 Stat. 198, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -544,7 +544,7 @@ Amendment made by subsection (t).—If—
 
 &emsp;“(A) on or before the date of the enactment of this Act \[July 18, 1984\] 50 percent or more of the stock of an S corporation has been sold or exchanged in 1 or more transactions, and
 
-&emsp;“(B) the person (or persons) acquiring such stock establish by clear and convincing evidence that such acquisitions were negotiated on the contemplation that paragraph (2) of section 1362(e) of the Internal Revenue Code of 1986 would apply to the S termination year in which such sales or exchanges occur,
+&emsp;“(B) the person (or persons) acquiring such stock establish by clear and convincing evidence that such acquisitions were negotiated on the contemplation that paragraph (2) of section 1362(e) of the InternalRevenue Code of 1986 would apply to the S termination year in which such sales or exchanges occur,
 
 > then the amendment made by subsection (t) \[amending section 1362 of this title\] shall not apply to such S termination year.”
 
@@ -662,7 +662,7 @@ Special rules for paragraph (2).—
 
 &emsp;&emsp;&emsp;“(i) Paragraph (2) shall also cease to apply with respect to any corporation after the corporation ceases to be described in section 831(a) of such Code.
 
-&emsp;&emsp;&emsp;“(ii) For purposes of determining under subparagraph (A)(ii) whether paragraph (2) ceases to apply to any corporation, section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]) shall be applied by substituting ‘December 31, 1984’ for ‘December 31, 1982’ each place it appears therein.
+&emsp;&emsp;&emsp;“(ii) For purposes of determining under subparagraph (A)(ii) whether paragraph (2) ceases toapply to any corporation, section 1378(c)(2) of such Code (as amended by this Act \[Pub. L. 97–354\]) shall be applied by substituting ‘December 31, 1984’ for ‘December 31, 1982’ each place it appears therein.
 
 “(d)
 
@@ -684,7 +684,7 @@ Requirements.—This subsection shall cease to apply with respect to any corpora
 
 &emsp;“(3)
 
-Existing fringe benefit.—For purposes of this subsection, the term ‘existing fringe benefit’ meansany employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
+Existing fringe benefit.—For purposes of this subsection, the term ‘existing fringe benefit’ means any employee fringe benefit of a type which the corporation provided to its employees as of September 28, 1982.
 
 “(e)
 

@@ -36,5 +36,5 @@ June 29, 1936, ch. 858, title V, §510(i), as added Pub. L. 86–575, July 5, 19
 
 In subsection (b), the words “vessel sold from the Fleet” are substituted for “traded-out vessel” for clarity and consistency.
 
-In subsection (d), the words “without obtaining additional separate approval from the Secretary to transferthe vessel to a person not a citizen of the United States” are substituted for “Notwithstanding the provisions of sections 808 and 835 of this Appendix” for clarity and to avoid the cross references.
+In subsection (d), the words “without obtaining additional separate approval from the Secretary to transfer the vessel to a person not a citizen of the United States” are substituted for “Notwithstanding the provisions of sections 808 and 835 of this Appendix” for clarity and to avoid the cross references.
 

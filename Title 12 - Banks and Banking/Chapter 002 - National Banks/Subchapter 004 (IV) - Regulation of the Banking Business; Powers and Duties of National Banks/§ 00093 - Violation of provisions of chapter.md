@@ -12,7 +12,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (2) Second tier
 
-&emsp;Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— <sup>1</sup>
+&emsp;Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning ofsection 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— <sup>1</sup>
 
 &emsp;&emsp;(A)(i) commits any violation described in any <sup>2</sup> paragraph (1);
 
@@ -94,11 +94,11 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (ii) Notice of termination; pretermination hearing
 
-&emsp;&emsp;&emsp;After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+&emsp;&emsp;&emsp;After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights,privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
 #### (B) Conviction of title 31 offenses
 
-&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31,after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
 #### (C) Judicial review
 

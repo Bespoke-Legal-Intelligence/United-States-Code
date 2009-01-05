@@ -10,7 +10,7 @@ Fees.—
 
 &emsp;(1)
 
-In general.—The Secretary may collect and spend fees, contingent upon authoritybeing provided in appropriations Acts, at a level that is sufficient to cover—
+In general.—The Secretary may collect and spend fees, contingent upon authority being provided in appropriations Acts, at a level that is sufficient to cover—
 
 &emsp;&emsp;(A) the costs of services of expert firms retained pursuant to subsection (d); and
 

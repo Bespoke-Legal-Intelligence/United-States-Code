@@ -6,7 +6,7 @@ Authority To Use Funds.—Under regulations prescribed by the Secretary of Defen
 
 (b)
 
-Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $25,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 
 (c)
 
@@ -24,9 +24,11 @@ Annual Report.—Not later than December 1 of each year, the Secretary of Defens
 
 &emsp;(4) A discussion of any actions being taken to improve the program.
 
-(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651; amended Pub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415.)
+(Added Pub. L. 108–136, div. A, title XII, §1221(a)(1), Nov. 24, 2003, 117 Stat. 1651; amended Pub. L. 109–364, div. A, title XII, §1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, \[div. A\], title XII, §1209(a), Oct. 14, 2008, 122 Stat. 4627.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
 
 2006—Pub. L. 109–364, §1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
 
@@ -35,6 +37,10 @@ Subsec. (a). Pub. L. 109–364, §1204(a), substituted “the education and trai
 Subsec. (b). Pub. L. 109–364, §1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
 
 Subsec. (c)(3). Pub. L. 109–364, §1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title XII, §1209(b), Oct. 14, 2008, 122 Stat. 4627, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
 
 #### Regulations
 

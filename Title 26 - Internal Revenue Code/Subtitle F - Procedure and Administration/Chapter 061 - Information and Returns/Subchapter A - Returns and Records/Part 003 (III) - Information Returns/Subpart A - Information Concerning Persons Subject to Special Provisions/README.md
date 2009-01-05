@@ -29,11 +29,14 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | [6039G.](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md) | Information on individuals losing United States citizenship. |
 | [6039H.](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md) | Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations. |
 | [6039I.](%C2%A7%2006039I%20-%20Returns%20and%20records%20with%20respect%20to%20employer-owned%20life%20insurance%20contracts.md) | Returns and records with respect to employer-owned life insurance contracts. |
+| [6039J.](%C2%A7%2006039J%20-%20Information%20reporting%20with%20respect%20to%20Commodity%20Credit%20Corporation%20transactions.md) | Information reporting with respect to Commodity Credit Corporation transactions. |
 | [6040\.](%C2%A7%2006040%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–234, title XV, §15353(b), May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, title XV, §15353(b), June 18, 2008, 122 Stat. 2289, made identical amendments, adding item 6039J. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 2006—Pub. L. 109–432, div. A, title IV, §403(c)(3), Dec. 20, 2006, 120 Stat. 2955, substituted “Returns” for “Information” in item 6039.
 
@@ -110,4 +113,5 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06039G - Information on individuals losing United States citizenship](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md)
 - [&sect; 06039H - Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md)
 - [&sect; 06039I - Returns and records with respect to employer-owned life insurance contracts](%C2%A7%2006039I%20-%20Returns%20and%20records%20with%20respect%20to%20employer-owned%20life%20insurance%20contracts.md)
+- [&sect; 06039J - Information reporting with respect to Commodity Credit Corporation transactions](%C2%A7%2006039J%20-%20Information%20reporting%20with%20respect%20to%20Commodity%20Credit%20Corporation%20transactions.md)
 - [&sect; 06040 - Cross references](%C2%A7%2006040%20-%20Cross%20references.md)

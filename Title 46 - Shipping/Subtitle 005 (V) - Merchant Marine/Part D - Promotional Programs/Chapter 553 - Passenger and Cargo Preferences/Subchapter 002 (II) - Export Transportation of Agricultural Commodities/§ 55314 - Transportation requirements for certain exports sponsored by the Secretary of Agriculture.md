@@ -6,7 +6,7 @@ Minimum Tonnage.—
 
 &emsp;(1)
 
-In general.—In addition to the requirement under section 55305 of this title for the transportation of a percentage of gross tonnage on commercial vessels of the United States, 25 percent of the gross tonnage of agricultural commodities or their products specified in subsection (b) shall be transported each calendar year on commercial vessels of the United States that—
+In general.—In addition to the requirement under section 55305 of this title for the transportation of a percentage of gross tonnage on commercial vessels of the United States, 25 percent of the gross tonnage of agricultural commodities or their products specified in subsection (b) shall be transported each fiscal year on commercial vessels of the United States that—
 
 &emsp;&emsp;(A) are necessary for national security; and
 
@@ -14,13 +14,13 @@ In general.—In addition to the requirement under section 55305 of this title f
 
 &emsp;(2)
 
-Calendar year.—To provide for effective and equitable administration of the cargo preference laws, the calendar year for the purpose of compliance with minimum percentage requirements is the 12-month period beginning October 1 of each year.
+Fiscal year.—To provide for effective and equitable administration of the cargo preference laws, the fiscal year for the purpose of compliance with minimum percentage requirements is the 12-month period beginning October 1 of each year.
 
 (b)
 
 Applicable Export Activity.—This section applies to export activity (except inspection or weighing activities, other activities carried out for health or safety, or technical assistance provided in the handling of commercial transactions) of the Secretary of Agriculture or the Commodity Credit Corporation—
 
-&emsp;(1) carried out under the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.);
+&emsp;(1) carried out under the Food for Peace Act (7 U.S.C. 1691 et seq.);
 
 &emsp;(2) carried out under section 416 of the Agricultural Act of 1949 (7 U.S.C. 1431);
 
@@ -48,7 +48,7 @@ Application of section 55305.—The requirement for transportation on vessels of
 
 &emsp;(2)
 
-Allocation of commodities.—Subject to paragraph (3), in carrying out this section and section 55305 of this title, the Corporation shall take steps necessary and practicable, and consistent with this section and section 55305, without detriment to any port range to allocate, on the principle of lowest landed cost without regard to the country of registry of the vessel, 25 percent of the bagged, processed, or fortified commodities provided under title II of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1721 et seq.).
+Allocation of commodities.—Subject to paragraph (3), in carrying out this section and section 55305 of this title, the Corporation shall take steps necessary and practicable, and consistent with this section and section 55305, without detriment to any port range to allocate, on the principle of lowest landed cost without regard to the country of registry of the vessel, 25 percent of the bagged, processed, or fortified commodities provided under title II of the Food for Peace Act (7 U.S.C. 1721 et seq.).
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Awarding contracts.—In awarding a contract for the transportation by vessel of
 
 Nonavailability of vessels.—A determination of nonavailability of vessels of the United States resulting from the application of this subsection may not reduce the gross tonnage of commodities required by this section and section 55305 of this title to be transported on vessels of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1645; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 110–417, div. C, title XXXV, §3511(d), Oct. 14, 2008, 122 Stat. 4770.)
 
 Historical and Revision Notes
 
@@ -112,7 +112,17 @@ In subsection (c)(4), before subparagraph (A), the words “or instrumentality�
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (b)(1) and (c)(2), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsecs. (b)(1) and (c)(2), is act July 10, 1954, ch. 469, 68 Stat. 454, whichis classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Shipping Act of 1984, referred to in subsec. (c)(4)(B), is Pub. L. 98–237, Mar. 20, 1984, 98 Stat. 67, which was classified principally to chapter 36 (§1701 et seq.) of the former Appendix to this title. The Act was primarily repealed and restated in part A of subtitle IV of this title by Pub. L. 109–304, §§7, 19, Oct. 6, 2006, 120 Stat. 1523, 1710. For complete classification of Pub. L. 98–237 to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding section 101 of this title.
+
+#### Amendments
+
+2008—Subsec. (a)(1), (2). Pub. L. 110–417, which directed amendment of subsec. (a) by substituting “fiscal” for “calendar” each place it appears, was executed by substituting “fiscal” for “calendar” in pars. (1) and (2) and “Fiscal” for “Calendar” in the heading for par. (2), to reflect the probable intent of Congress.
+
+Subsecs. (b)(1), (c)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

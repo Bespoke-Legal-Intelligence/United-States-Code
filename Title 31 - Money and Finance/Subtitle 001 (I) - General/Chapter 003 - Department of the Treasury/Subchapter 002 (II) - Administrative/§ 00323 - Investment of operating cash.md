@@ -1,20 +1,22 @@
 ### §323. Investment of operating cash
 
-(a) To manage United States cash, the Secretary of the Treasury may invest any part of the operating cash of the Treasury for not more than 90 days. Investments may be made in obligations of—
+(a) To manage United States cash, the Secretary of the Treasury may invest any part of the operating cash of the Treasury for not more than 90 days. The Secretary may invest the operating cash of the Treasury in—
 
-&emsp;(1) depositaries maintaining Treasury tax and loan accounts secured by pledged collateral acceptable to the Secretary; and
+&emsp;(1) obligations of depositories maintaining Treasury tax and loan accounts secured by pledged collateral acceptable to the Secretary;
 
-&emsp;(2) the United States Government.
+&emsp;(2) obligations of the United States Government; and
 
-(b) Subsection (a) of this section does not—
+&emsp;(3) repurchase agreements with parties acceptable to the Secretary.
 
-&emsp;(1) require the Secretary to invest a cash balance held in a particular account; or
-
-&emsp;(2) permit the Secretary to require the sale of obligations by a particular person, dealer, or financial institution.
+(b) Subsection (a) of this section does not require the Secretary to invest a cash balance held in a particular account.
 
 (c) The Secretary shall consider the prevailing market in prescribing rates of interest for investments under subsection (a)(1) of this section.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882.)
+(d)(1) The Secretary of the Treasury shall submit each fiscal year to the appropriate committees a report detailing the investment of operating cash under subsection (a) for the preceding fiscal year. The report shall describe the Secretary's consideration of risks associated with investments and the actions taken to manage such risks.
+
+(2) For purposes of paragraph (1), the term “appropriate committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 882; Pub. L. 110–351, title V, §502, Oct. 7, 2008, 122 Stat. 3980.)
 
 Historical and Revision Notes
 
@@ -41,4 +43,8 @@ Oct. 28, 1977, Pub. L. 95–147, §1, 91 Stat. 1227.
 In subsection (a), before clause (1), the words “To manage United States cash” are substituted for “for cash management purposes” for clarity. In clause (1), the words “as security for tax and loan accounts” are omitted as unnecessary. In clause (2), the words “agencies of the United States” are omitted as being included in “the Government”.
 
 In subsection (c), the words “Investments in obligations of depositaries maintaining such accounts” and “rates of interest” (the 2d time they appear) are omitted as unnecessary because of the restatement.
+
+#### Amendments
+
+2008—Pub. L. 110–351 amended section generally. Prior to amendment, section related to investment of operating cash.
 

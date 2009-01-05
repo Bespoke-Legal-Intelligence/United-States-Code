@@ -28,11 +28,15 @@ For purposes of this section, the term “eligible entity” includes—
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated $30,000,000 for each of fiscal years 2005 through 2009 to carry out this section.
+There are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2014 to carry out this section.
 
-(Pub. L. 108–405, title III, §304, Oct. 30, 2004, 118 Stat. 2273.)
+(Pub. L. 108–405, title III, §304, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, §4, Oct. 8, 2008, 122 Stat. 4009.)
 
 #### Codification
 
 Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
 

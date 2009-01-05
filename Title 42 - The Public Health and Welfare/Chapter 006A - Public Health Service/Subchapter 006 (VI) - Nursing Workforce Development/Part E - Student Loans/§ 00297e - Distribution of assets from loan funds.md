@@ -58,7 +58,7 @@ Subsec. (a)(1). Pub. L. 96–76, §109(c)(2), substituted “1983” for “1980
 
 Subsec. (b). Pub. L. 96–76, §109(c)(3), substituted “1983” for “1980” wherever appearing.
 
-1975—Subsec. (a). Pub. L. 94–63, §§936(d), 941(h)(2), (i)(5), substituted “September 30, 1980” for “June 30, 1977” wherever appearing, struck out “of Health, Education, and Welfare” after “Secretary”, and substituted references to section 835 of the Act for references to section 822, which had previously been translated as section 297a of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
+1975—Subsec. (a). Pub. L. 94–63, §§936(d), 941(h)(2), (i)(5), substituted “September 30, 1980” for “June 30,1977” wherever appearing, struck out “of Health, Education, and Welfare” after “Secretary”, and substituted references to section 835 of the Act for references to section 822, which had previously been translated as section 297a of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
 
 Subsec. (b). Pub. L. 94–63, §§936(d), 941(h)(1), (4)(B), substituted “subpart” for “part”, “September 30, 1980” for “June 30, 1977”, and “December 31, 1980” for “September 30, 1977” and struck out provisions relating to payments from revolving fund established by section 297f(d) of this title.
 

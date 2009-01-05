@@ -30,7 +30,7 @@ Space-Available Use of Facilities for Spouse Training Purposes.—Under regulati
 
 (e)
 
-Employment by Other Federal Agencies.—The Secretary of Defense shall work with the Director of the Office of Personnel Management and the heads of other Federal departments and agencies to expand and facilitate the use of existing Federal programs and resources in support of military spouse employment.
+Employment by Other Federal Agencies.—The Secretary of Defense shall work with the Director of the Office of Personnel Management and the heads of other Federal departments and agencies to expand and facilitate theuse of existing Federal programs and resources in support of military spouse employment.
 
 (f)
 

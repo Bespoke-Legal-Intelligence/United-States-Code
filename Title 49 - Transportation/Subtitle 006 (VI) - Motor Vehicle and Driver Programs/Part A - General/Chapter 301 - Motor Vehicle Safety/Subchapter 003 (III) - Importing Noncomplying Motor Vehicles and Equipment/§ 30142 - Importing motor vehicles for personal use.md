@@ -26,7 +26,7 @@ Exemptions.—(1) To receive an exemption under subsection (a) of this section, 
 
 &emsp;&emsp;(i) will be brought into compliance with those standards within a reasonable time (specified by the Secretary of Transportation) after the vehicle is imported; or
 
-&emsp;&emsp;(ii) will be exported (at no cost to the United States Government) by the Secretary of the Treasury or abandoned to the Government.
+&emsp;&emsp;(ii) will be exported (at no cost to the United States Government) by the Secretaryof the Treasury or abandoned to the Government.
 
 (2) For good cause shown, the Secretary of Transportation may allow an individual additional time, but not more than 30 days after the day on which the motor vehicle is offered for import, to comply with paragraph (1)(A)(ii) of this subsection.
 

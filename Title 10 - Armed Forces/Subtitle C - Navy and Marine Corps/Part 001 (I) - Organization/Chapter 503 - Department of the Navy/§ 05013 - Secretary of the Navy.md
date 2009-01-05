@@ -4,7 +4,7 @@
 
 (2) A person may not be appointed as Secretary of the Navy within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
-(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs ofthe Department of the Navy, including the following functions:
+(b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Navy is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Navy, including the following functions:
 
 &emsp;(1) Recruiting.
 
@@ -96,17 +96,23 @@ Authorized Consideration.—(1) As consideration for the acquisition of a revers
 
 Prohibited Consideration.—Cash payments are not authorized to be made as consideration for the acquisition of a reversionary interest under subsection (a).”
 
-#### Naval Aviation Depots Multi-Trades Demonstration Project
+#### Multi-Trades Demonstration Project
 
-Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, provided that:
+Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, as amended by Pub. L. 110–181, div. A, title III, §329, Jan. 28, 2008, 122 Stat. 67, provided that:
 
 “(a)
 
-Demonstration Project Required.—In accordance with section 4703 of title 5, United States Code, the Secretary of the Navy shall carry out a demonstration project under which three Naval Aviation Depots are given the flexibility to promote by one grade level workers who are certified at the journey level as able to perform multiple trades.
+Demonstration Project Authorized.—In accordance with section 4703 of title 5, United States Code, the Secretary of a military department may carry out a demonstration project under which workers who are certified at the journey level as able to perform multiple trades may be promoted by one grade level. A demonstration project under this subsection may be carried out as follows:
+
+&emsp;“(1) In the case of the Secretary of the Army, at one Army depot.
+
+&emsp;“(2) In the case of the Secretary of the Navy, at one Navy Fleet Readiness Center.
+
+&emsp;“(3) In the case of the Secretary of the Air Force, at one Air Force Logistics Center.
 
 “(b)
 
-Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of a Naval Aviation Depot shall submit to the Secretary a business case analysis and concept plan—
+Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air LogisticsCenter, Navy Fleet Readiness Center, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
 
 &emsp;“(1) that, on the basis of the results of analysis of work processes, demonstrate that process improvements would result from the trade combinations proposed to be implemented under the demonstration project; and
 
@@ -120,19 +126,15 @@ Participating Workers.—(1) Actual worker participation in the demonstration pr
 
 “(d)
 
-Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selected to participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
+Duration.—The demonstration project shall be conducted during fiscal years 2008 through 2013.
 
 “(e)
 
-Duration.—The demonstration project shall be conducted during fiscal years 2004 through 2006.
+Report.—Not later than January 15, 2014, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary's recommendation on whether permanent multi-trade authority should be authorized.
 
-“(f)
+“(f) GAO
 
-Report.—Not later than January 15, 2007, the Secretary shall submit a report to Congress describing the results of the demonstration project.
-
-“(g) GAO
-
-Evaluation.—The Secretary shall transmit a copy of the report to the Comptroller General. Within 90 days after receiving the report, the Comptroller General shall submit to Congress an evaluation of the report.”
+Evaluation.—Each Secretary who submits a report under subsection (e) shall transmit a copy of the report to the Comptroller General. Within 90 days after receiving a report, the Comptroller General shall submit to Congress an evaluation of that report.”
 
 #### Navy Higher Education Pilot Program Regarding Administration of Business Relationships Between Government and Private Sector
 

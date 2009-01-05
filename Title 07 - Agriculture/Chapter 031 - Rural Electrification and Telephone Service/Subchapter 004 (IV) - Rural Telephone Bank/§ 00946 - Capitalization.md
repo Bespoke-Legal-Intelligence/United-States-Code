@@ -6,7 +6,7 @@ The telephone bank's capital shall consist of capital subscribed by the United S
 
 #### (b) Stock classification; voting stock; one vote rule
 
-The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified, not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
+The capital stock of the telephone bank shall consist of three classes, class A, class B, and class C, the rights, powers, privileges, and preferences of the separate classes to be as specified,not inconsistent with law, in the bylaws of the telephone bank. Class B and class C stock shall be voting stock, but no holder of said stock shall be entitled to more than one vote, nor shall class B and class C stockholders, regardless of their number, which are owned or controlled by the same person, group of persons, firm, association, or corporation, be entitled in any event to more than one vote.
 
 #### (c) Class A stock; issuance to Secretary of Agriculture and redemption; cumulative return
 

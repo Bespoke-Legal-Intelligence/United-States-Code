@@ -28,7 +28,7 @@ The report and order of the Office under this section shall become the final age
 
 The Secretary may enforce a final order of the Office under this section which becomes final agency action by—
 
-&emsp;(1) withholding from the recipient any portion of the amount payable to it, including the amount payable for administrative costs, under the applicable program; or
+&emsp;(1) withholding from the recipient any portion of the amount payable to it, including theamount payable for administrative costs, under the applicable program; or
 
 &emsp;(2) certifying the facts to the Attorney General who shall cause an appropriate proceeding to be brought for the enforcement of the order.
 

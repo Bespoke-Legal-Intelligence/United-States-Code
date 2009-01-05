@@ -162,7 +162,7 @@ Section 215 of title 42 shall not apply to individuals during their period of ob
 
 The Secretary, in assigning individuals to serve in Indian health programs pursuant to contracts entered into under this section, shall—
 
-&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receive consideration on an equal basis with programs that are administered directly by the Service; and
+&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receiveconsideration on an equal basis with programs that are administered directly by the Service; and
 
 &emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
@@ -178,7 +178,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;&emsp;(iii) is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) is enrolled in a graduate training program, fails to complete such training program,and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
+&emsp;(B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
 
 > shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual's behalf under the contract.
 
@@ -244,7 +244,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a referenceto section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
+Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
 
 Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignated section 254d(j)(4) of title 42 by Pub. L. 107–251, title III, §310(b)(1), Oct. 26, 2002, 116 Stat. 1643.
 

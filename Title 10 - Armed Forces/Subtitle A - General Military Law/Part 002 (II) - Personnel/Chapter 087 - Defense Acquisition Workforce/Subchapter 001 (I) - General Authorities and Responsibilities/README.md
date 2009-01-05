@@ -6,11 +6,14 @@
 | [1702\.](%C2%A7%2001702%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics%20authorities%20and%20responsibilities.md) | Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities. |
 | \[1703. | Repealed.\] |
 | [1704\.](%C2%A7%2001704%20-%20Service%20acquisition%20executives%20authorities%20and%20responsibilities.md) | Service acquisition executives: authorities and responsibilities. |
-| \[1705 to 1707. Repealed.\] |  |
+| [1705\.](%C2%A7%2001705%20-%20Department%20of%20Defense%20Acquisition%20Workforce%20Development%20Fund.md) | Department of Defense Acquisition Workforce Development Fund. |
+| \[1706, 1707. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title VIII, §852(a)(2), Jan. 28, 2008, 122 Stat. 250, added item 1705.
 
 2003—Pub. L. 108–136, div. A, title VIII, §836(1), Nov. 24, 2003, 117 Stat. 1551, struck out items 1703 “Director of Acquisition Education, Training, and Career Development”, 1705 “Directors of Acquisition Career Management in the military departments”, 1706 “Acquisition career program boards”, and 1707 “Personnel in the Office of the Secretary of Defense and in the Defense Agencies”.
 
@@ -27,4 +30,5 @@
 - [&sect; 01702 - Under Secretary of Defense for Acquisition, Technology, and Logistics authorities and responsibilities](%C2%A7%2001702%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%2C%20Technology%2C%20and%20Logistics%20authorities%20and%20responsibilities.md)
 - [&sect; 01703 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001703%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)
 - [&sect; 01704 - Service acquisition executives authorities and responsibilities](%C2%A7%2001704%20-%20Service%20acquisition%20executives%20authorities%20and%20responsibilities.md)
-- [&sect; 01705 to 1707 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001705%20to%201707%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)
+- [&sect; 01705 - Department of Defense Acquisition Workforce Development Fund](%C2%A7%2001705%20-%20Department%20of%20Defense%20Acquisition%20Workforce%20Development%20Fund.md)
+- [&sect; 01706, 1707 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;831(a), Nov. 24, 2003, 117 Stat. 1549](%C2%A7%2001706%2C%201707%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7831%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201549.md)

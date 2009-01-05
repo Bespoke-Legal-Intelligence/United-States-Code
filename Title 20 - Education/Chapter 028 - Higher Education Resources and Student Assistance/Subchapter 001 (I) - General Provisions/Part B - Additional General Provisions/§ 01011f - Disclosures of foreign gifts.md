@@ -72,7 +72,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(A) is legally authorized within such State to provide a program of education beyond secondary school;
 
-&emsp;&emsp;(B) provides a program for which the institution awards a bachelor's degree (or provides not less than a 2-year program which is acceptable for full credit toward such a degree) or more advanced degrees; and
+&emsp;&emsp;(B) provides a program for which the institution awards a bachelor's degree (or provides not less than a 2-year program which isacceptable for full credit toward such a degree) or more advanced degrees; and
 
 &emsp;&emsp;(C) is accredited by a nationally recognized accrediting agency or association and to which institution Federal financial assistance is extended (directly or indirectly through another entity or person), or which institution receives support from the extension of Federal financial assistance to any of the institution's subunits; and
 

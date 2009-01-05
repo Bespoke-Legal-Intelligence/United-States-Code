@@ -14,5 +14,5 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 #### Transfer of Functions
 
-For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

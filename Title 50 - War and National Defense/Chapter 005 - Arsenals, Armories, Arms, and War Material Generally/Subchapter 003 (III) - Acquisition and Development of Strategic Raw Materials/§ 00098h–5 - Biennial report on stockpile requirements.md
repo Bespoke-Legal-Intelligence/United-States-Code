@@ -42,11 +42,11 @@ The President shall submit with each report under this section a statement of th
 
 #### Amendments
 
-1996—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section.
+<b>1996</b>—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), andstruck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section.
 
-1993—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence “, based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years” and inserted after first sentence “Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence “, based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years” and inserted after first sentence “Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States.”
 
-1991—Pub. L. 102–190, §3313(b)(2), substituted “Biennial” for “Annual” in section catchline.
+<b>1991</b>—Pub. L. 102–190, §3313(b)(2), substituted “Biennial” for “Annual” in section catchline.
 
 Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substituted “Not later than January 15 of every other year, the Secretary” for “The Secretary” and “a report” for “an annual report” and struck out “shall be submitted with the annual report submitted under section 98h–2(b) of this title and” before “shall include”.
 

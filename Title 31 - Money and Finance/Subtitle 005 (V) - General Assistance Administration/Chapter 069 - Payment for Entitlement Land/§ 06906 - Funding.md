@@ -1,0 +1,30 @@
+### §6906. Funding
+
+For each of fiscal years 2008 through 2012—
+
+&emsp;(1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
+
+&emsp;(2) sums shall be made available to the Secretary of the Interior for obligation or expenditure in accordance with this chapter.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 110–343, div. C, title VI, §601(c)(1), Oct. 3, 2008, 122 Stat. 3911.)
+
+Historical and Revision Notes
+
+<i>Revised Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6906
+
+31:1607.
+
+Oct. 20, 1976, Pub. L. 94–565, §7, 90 Stat. 2665.
+
+The words “to the Secretary of the Interior” are added for clarity. The words “<i>Provided</i>, That, notwithstanding any other provision of this chapter” and “in advance” are omitted as unnecessary.
+
+#### Amendments
+
+2008—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
+

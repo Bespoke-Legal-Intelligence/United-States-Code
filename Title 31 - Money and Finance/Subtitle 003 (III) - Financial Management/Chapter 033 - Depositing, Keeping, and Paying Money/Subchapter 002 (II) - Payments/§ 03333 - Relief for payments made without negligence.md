@@ -38,7 +38,7 @@ In subsection (a)(1), before clause (A), the words “Secretary of the Treasury�
 
 In subsection (a)(2), the words “of the United States” are omitted as unnecessary. The words “of the Treasury or the depositary” are substituted for “Treasurer's” because of the restatement.
 
-In subsection (b), the words “another individual” are substituted for “any person, other than the Treasurerof the United States” to eliminate unnecessary words. The words “now existing or which may hereafter exist” are omitted as unnecessary.
+In subsection (b), the words “another individual” are substituted for “any person, other than the Treasurer of the United States” to eliminate unnecessary words. The words “now existing or which may hereafter exist” are omitted as unnecessary.
 
 #### Amendments
 

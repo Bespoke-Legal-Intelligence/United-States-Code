@@ -2,7 +2,7 @@
 
 #### (a) Whistle signals
 
-When power-driven vessels are in sight of one another and meeting or crossing at a distance within half a mile of each other, each vessel underway, when maneuvering as authorized or required by these Rules:
+When power-driven vessels are in sight of one another and meeting or crossing at a distancewithin half a mile of each other, each vessel underway, when maneuvering as authorized or required by these Rules:
 
 &emsp;(i) shall indicate that maneuver by the following signals on her whistle: one short blast to mean “I intend to leave you on my port side”; two short blasts to mean “I intend to leave you on my starboard side”; and three short blasts to mean “I am operating astern propulsion”.
 

@@ -18,7 +18,7 @@
 
 &emsp;(A) provide in writing a description of any proposed program and the reasons for it;
 
-&emsp;(B) give the organization at least 60 days (unless extraordinary circumstances requireearlier action) to review and make recommendations with respect to the program; and
+&emsp;(B) give the organization at least 60 days (unless extraordinary circumstances require earlier action) to review and make recommendations with respect to the program; and
 
 &emsp;(C) give any recommendation from the organization full and fair consideration in deciding whether or how to proceed with the program.
 
@@ -68,7 +68,7 @@
 
 (i) For purposes of this section—
 
-&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors;
+&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Serviceunder subsection (b) of this section as representing a majority of supervisors;
 
 &emsp;(2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
 

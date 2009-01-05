@@ -50,17 +50,27 @@
 
 #### (4) Carryover of appropriations
 
-&emsp;Funds appropriated pursuant to this section during any fiscal year shall remain available until expended.
+&emsp;Funds appropriated pursuant to this section during any fiscal year shall remain available until expended. Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may <sup>2</sup> provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### (5) Matching funds
 
 &emsp;The Federal share of a grant received under this part may not exceed 90 percent of the costs of a proposal as described in an application approved under this part.
 
-(Pub. L. 103–322, title II, §20108, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–19; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–322, title II, §20108, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–19; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 110–199, title I, §104(b), Apr. 9, 2008, 122 Stat. 669.)
 
 #### Prior Provisions
 
 A prior section 13708, Pub. L. 103–322, title II, §20108, Sept. 13, 1994, 108 Stat. 1818, defined terms in this part prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–199 inserted at end “Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.”
+
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
 

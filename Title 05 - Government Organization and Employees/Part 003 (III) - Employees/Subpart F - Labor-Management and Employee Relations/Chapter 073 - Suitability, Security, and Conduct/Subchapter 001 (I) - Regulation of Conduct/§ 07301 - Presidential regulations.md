@@ -80,7 +80,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Display in Federal Buildings of Code of Ethics for Government Service
 
-Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed by Administrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
+Pub. L. 96–303, July 3, 1980, 94 Stat. 855, which provided that each agency, under regulations prescribed byAdministrator of General Services Administration, display in appropriate areas of Federal buildings copies of the Code of Ethics for Government Service, authorized publication and distribution of such Code, and set forth text of the Code of Ethics for Government Service, was repealed by Pub. L. 104–179, §4(a), Aug. 6, 1996, 110 Stat. 1566.
 
 #### Agency Acceptance of Donations for Federal Employees
 
@@ -226,7 +226,7 @@ Federal employees who use illegal drugs, on or off duty, tend to be less product
 
 The use of illegal drugs, on or off duty, by Federal employees impairs the efficiency of Federal departments and agencies, undermines public confidence in them, and makes it more difficult for other employees who do not use illegal drugs to perform their jobs effectively. The use of illegal drugs, on or off duty, by Federal employees also can pose a serious health and safety threat to members of the public and to other Federal employees;
 
-The use of illegal drugs, on or off duty, by Federal employees in certain positions evidences less than the complete reliability, stability, and good judgment thatis consistent with access to sensitive information and creates the possibility of coercion, influence, and irresponsible action under pressure that may pose a serious risk to national security, the public safety, and the effective enforcement of the law; and
+The use of illegal drugs, on or off duty, by Federal employees in certain positions evidences less than the complete reliability, stability, and good judgment that is consistent with access to sensitive information and creates the possibility of coercion, influence, and irresponsible action under pressure that may pose a serious risk to national security, the public safety, and the effective enforcement of the law; and
 
 Federal employees who use illegal drugs must themselves be primarily responsible for changing their behavior and, if necessary, begin the process of rehabilitating themselves.
 
@@ -314,7 +314,7 @@ Sec. 6. <i>Coordination of Agency Programs</i>. (a) The Director of the Office o
 
 (b) The Attorney General shall render legal advice regarding the implementation of this Order and shall be consulted with regard to all guidelines, regulations, and policies proposed to be adopted pursuant to this Order.
 
-(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligence under the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
+(c) Nothing in this Order shall be deemed to limit the authorities of the Director of Central Intelligenceunder the National Security Act of 1947, as amended \[50 U.S.C. 401 et seq.\], or the statutory authorities of the National Security Agency or the Defense Intelligence Agency. Implementation of this Order within the Intelligence Community, as defined in Executive Order No. 12333 \[50 U.S.C. 401 note\], shall be subject to the approval of the head of the affected agency.
 
 Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Executive Branch.
 
@@ -386,7 +386,7 @@ Sec. 102. <i>Limitations on Outside Earned Income.</i>
 
 (a) No employee who is appointed by the President to a full-time noncareer position in the executive branch (including full-time noncareer employees in the White House Office, the Office of Policy Development, and the Office of Cabinet Affairs), shall receive any earned income for any outside employment or activity performed during that Presidential appointment.
 
-(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paid for GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
+(b) The prohibition set forth in subsection (a) shall not apply to any full-time noncareer employees employed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a) at salaries below the minimum rate of basic pay then paidfor GS–9 of the General Schedule. Any outside employment must comply with relevant agency standards of conduct, including any requirements for approval of outside employment.
 
 #### Part II—Office of Government Ethics Authority
 
@@ -440,7 +440,7 @@ Sec. 501. <i>Revocations</i>. The following Executive orders are hereby revoked:
 
 Sec. 502. <i>Savings Provision.</i>
 
-(a) All actions already taken by the President or by his delegates concerning matters affected by this order and in force when this order is issued, including any regulations issued under Executive Order 11222, Executive Order 12565, or statutory authority, shall, except as they are irreconcilable with the provisions of this order or terminate by operation of law or by Presidential action, remain in effect until properly amended, modified, or revoked pursuant to the authority conferred bythis order or any regulations promulgated under this order. Notwithstanding anything in section 102 of this order, employees may carry out preexisting contractual obligations entered into before April 12, 1989.
+(a) All actions already taken by the President or by his delegates concerning matters affected by this order and in force when this order is issued, including any regulations issued under Executive Order 11222, Executive Order 12565, or statutory authority, shall, except as they are irreconcilable with the provisions of this order or terminate by operation of law or by Presidential action, remain in effect until properly amended, modified, or revoked pursuant to the authority conferred by this order or any regulations promulgated under this order. Notwithstanding anything in section 102 of this order, employees may carry out preexisting contractual obligations entered into before April 12, 1989.
 
 (b) Financial reports filed in confidence (pursuant to the authority of Executive Order No. 11222, 5 C.F.R. Part 735, and individual agency regulations) shall continue to be held in confidence.
 
@@ -456,7 +456,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (e) “Special Government employee” means a special Government employee as defined in 18 U.S.C. 202(a).
 
-Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 504. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 #### Executive Order No. 12820
 

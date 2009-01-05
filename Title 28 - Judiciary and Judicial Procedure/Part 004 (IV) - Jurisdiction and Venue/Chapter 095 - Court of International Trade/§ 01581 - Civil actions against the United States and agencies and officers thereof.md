@@ -52,7 +52,7 @@ The predecessor of the United States Customs Court was the Board of General Appr
 
 From 1890 to 1926, the Board of General Appraisers had jurisdiction over all protests from decisions of the collectors of customs and appeals for reappraisement under sections 13 and 14 of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 136.
 
-The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
+The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch.497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
 
 #### References in Text
 

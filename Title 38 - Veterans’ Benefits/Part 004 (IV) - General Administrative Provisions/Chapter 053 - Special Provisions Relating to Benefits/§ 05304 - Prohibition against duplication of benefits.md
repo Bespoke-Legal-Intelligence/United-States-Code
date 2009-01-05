@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 99–576, §701(71)(C), substituted “any person's” for 
 
 1964—Subsec. (a). Pub. L. 88–664 inserted “or concurrently to any person based on the service of any other person” after “own service”.
 
-1960—Subsec. (b)(2). Pub. L. 86–495 substituted provisions prohibiting the payment or furnishing of benefits other than insurance to or on account of any child by reason of the death of more than one parent in the same parental line, and permitting the child to elect one or more times to receive benefits by reason of the death of any one of such parents, for provisions which prohibited the payment of dependency and indemnity compensation to or on account of a child by reason ofthe death of another parent where the child receives or there is paid by the Veterans’ Administration on account of a child dependency and indemnity compensation, or death compensation, by reason of the death of a parent.
+1960—Subsec. (b)(2). Pub. L. 86–495 substituted provisions prohibiting the payment or furnishing of benefits other than insurance to or on account of any child by reason of the death of more than one parent in the same parental line, and permitting the child to elect one or more times to receive benefits by reason of the death of any one of such parents, for provisions which prohibited the payment of dependency and indemnity compensation to or on account of a child by reason of the death of another parent where the child receives or there is paid by the Veterans’ Administration on account of a child dependency and indemnity compensation, or death compensation, by reason of the death of a parent.
 
 #### Effective Date of 1980 Amendment
 

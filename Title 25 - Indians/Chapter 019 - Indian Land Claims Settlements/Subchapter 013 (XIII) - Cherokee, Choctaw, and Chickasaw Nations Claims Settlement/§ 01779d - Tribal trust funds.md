@@ -16,7 +16,7 @@
 
 #### (A) Trust land status pursuant to regulations
 
-&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with anyinterest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
+&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with any interest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
 
 #### (B) Required trust land status
 
@@ -42,7 +42,7 @@
 
 #### (C) Use of principal funds
 
-&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be made available to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
+&emsp;&emsp;The principal amounts of said funds and any amounts earned thereon shall be madeavailable to the Indian Nation for which the account was established for expenditure for purposes which may include construction or repair of health care facilities, law enforcement, cultural or other educational activities, economic development, social services, and land acquisition. Land acquisition using such funds shall be subject to the provisions of subsections (b) and (d).<sup>2</sup>
 
 #### (3) Disbursement of funds
 

@@ -48,7 +48,7 @@
 
 #### (3) Source of funding
 
-&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 11 of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (exceptwith respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
+&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 11 of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
 
 #### (4) Requirements
 
@@ -158,19 +158,19 @@ Response action contractors and subcontractors for program management, construct
 
 (5) This subsection shall not apply to bonds executed before October 17, 1990.
 
-(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
+(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
 
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
+Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates to grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
-In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

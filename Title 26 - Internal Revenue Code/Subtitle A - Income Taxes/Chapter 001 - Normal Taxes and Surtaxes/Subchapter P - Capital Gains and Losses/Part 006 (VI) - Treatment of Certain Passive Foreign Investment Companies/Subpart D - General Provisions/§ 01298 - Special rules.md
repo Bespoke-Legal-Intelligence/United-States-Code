@@ -10,7 +10,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) shall apply to the extent that the effect is to treat stock of a passive foreign investment company as owned by a United States person, and
 
-&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection) by a United States person as owned by any other person.
+&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection)by a United States person as owned by any other person.
 
 #### (2) Corporations
 
@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (4) Options
 
-&emsp;To the extent provided in regulations, if any person has an option to acquire stock, suchstock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;To the extent provided in regulations, if any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (5) Successive application
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or whichwould have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 

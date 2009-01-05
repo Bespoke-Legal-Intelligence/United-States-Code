@@ -50,17 +50,15 @@ An application for any payment under this subchapter shall be made and filed in 
 
 > For purposes of the payment of benefits under this subchapter, the death of an individual shall be presumed based on such individual's unexplained absence of not less than seven years, except that whenever the death of an individual is so established, such individual shall be deemed to have died in the month in which such individual disappeared.
 
-#### (d) Annuities to surviving former spouses under section 231b(b) of this title
-
-Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree.
-
-(Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418; Pub. L. 107–90, title I, §103(f), Dec. 21, 2001, 115 Stat. 881; Pub. L. 109–280, title X, §1003(a), Aug. 17, 2006, 120 Stat. 1053.)
+(Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418; Pub. L. 107–90, title I, §103(f), Dec. 21, 2001, 115 Stat. 881; Pub. L. 109–280, title X, §1003(a), Aug. 17, 2006, 120 Stat. 1053; Pub. L. 110–458, title I, §110(a)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–458, which directed repeal of subsec. (d) of section 5 of the Railroad Retirement Act, was executed by striking out subsec. (d) of this section, which is section 5 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. Text read as follows: “Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree.”
 
 2006—Subsec. (d). Pub. L. 109–280 added subsec. (d).
 
@@ -90,6 +88,10 @@ Subsec. (c)(3). Pub. L. 97–35, §1120(c), inserted provision that entitlement 
 
 Subsec. (c)(9). Pub. L. 97–35, §1120(d), added subdiv. (9).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–458, title I, §110(b)(2), Dec. 23, 2008, 122 Stat. 5112, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect upon the date of the enactment of this Act \[Dec. 23, 2008\].”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title X, §1003(b), Aug. 17, 2006, 120 Stat. 1053, provided that: “The amendment made by this section \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Aug. 17, 2006\].”
@@ -104,11 +106,11 @@ Section 103(b) of Pub. L. 98–76 provided that: “The amendments made by this 
 
 Amendment by section 104(c) of Pub. L. 98–76 effective with respect to annuities accruing for months after Aug. 1983, with certain exceptions, see section 104(d) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
-Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicable to certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
+Amendment by section 106(i), (j) of Pub. L. 98–76 effective Aug. 12, 1983, except such amendment inapplicableto certain annuity amounts, see section 106(k) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 1120(a), (d) of Pub. L. 97–35 effective Jan. 1, 1975, amendment by section 1120(b) ofPub. L. 97–35 effective Oct. 1, 1981, and amendment by other provisions of section 1120 of Pub. L. 97–35 effective Oct. 1, 1981, and applicable only with respect to annuities awarded on or after Oct. 1, 1981, see section 1129 of Pub. L. 97–35, set out as a note under section 231 of this title.
+Amendment by section 1120(a), (d) of Pub. L. 97–35 effective Jan. 1, 1975, amendment by section 1120(b) of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by other provisions of section 1120 of Pub. L. 97–35 effective Oct. 1, 1981, and applicable only with respect to annuities awarded on or after Oct. 1, 1981, see section 1129 of Pub. L. 97–35, set out as a note under section 231 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

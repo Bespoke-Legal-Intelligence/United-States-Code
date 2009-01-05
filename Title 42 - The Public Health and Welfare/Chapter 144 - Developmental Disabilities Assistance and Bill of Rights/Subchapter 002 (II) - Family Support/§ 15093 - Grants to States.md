@@ -14,7 +14,7 @@ No grant shall be awarded under this section for a period of more than 3 years. 
 
 #### (A) Federal matching share
 
-&emsp;&emsp;From amounts appropriated under section 15101(a) of this title, the Secretary shall payto each State that has an application approved under section 15094 of this title, for each year of the grant period, an amount that is—
+&emsp;&emsp;From amounts appropriated under section 15101(a) of this title, the Secretary shall pay to each State that has an application approved under section 15094 of this title, for each year of the grant period, an amount that is—
 
 &emsp;&emsp;&emsp;(i) equal to not more than 75 percent of the cost of the systems change activities to be carried out by the State; and
 

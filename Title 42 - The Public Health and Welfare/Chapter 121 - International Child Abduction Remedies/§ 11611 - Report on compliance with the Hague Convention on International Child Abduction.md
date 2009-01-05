@@ -6,7 +6,7 @@ Beginning 6 months after October 21, 1998, and every 12 months thereafter, the S
 
 &emsp;(1) The number of applications for the return of children submitted by applicants in the United States to the Central Authority for the United States that remain unresolved more than 18 months after the date of filing.
 
-&emsp;(2) A list of the countries to which children in unresolved applications described in paragraph (1) are alleged to have been abducted, are being wrongfully retained in violation of United States court orders, or which have failed to comply with any of their obligations under such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States.
+&emsp;(2) A list of the countries to which children in unresolved applications described in paragraph (1) are alleged to have been abducted, are being wrongfully retained in violation of United States court orders, or which havefailed to comply with any of their obligations under such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States.
 
 &emsp;(3) A list of the countries that have demonstrated a pattern of noncompliance with the obligations of the Convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States to the Central Authority for the United States.
 
@@ -20,7 +20,7 @@ Beginning 6 months after October 21, 1998, and every 12 months thereafter, the S
 
 #### (b) Definition
 
-In this section, the term “Central Authority for the United States” has the meaning giventhe term in Article 6 of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980.
+In this section, the term “Central Authority for the United States” has the meaning given the term in Article 6 of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980.
 
 (Pub. L. 105–277, div. G, title XXVIII, §2803, Oct. 21, 1998, 112 Stat. 2681–846; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §202\], Nov. 29, 1999, 113 Stat. 1536, 1501A–420; Pub. L. 107–228, div. A, title II, §212, Sept. 30, 2002, 116 Stat. 1365.)
 

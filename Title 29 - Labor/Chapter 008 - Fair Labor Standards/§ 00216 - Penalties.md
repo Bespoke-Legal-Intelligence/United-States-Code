@@ -6,7 +6,7 @@ Any person who willfully violates any of the provisions of section 215 of this t
 
 #### (b) Damages; right of action; attorney's fees and costs; termination of right of action
 
-Any employer who violates the provisions of section 206 or section 207 of this title shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of section 215(a)(3) of this title shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of section 215(a)(3) of this title, including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. An action to recover the liability prescribed in either of the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney's fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in an action under section 217 of this title in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or section 207 of this title by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of section 215(a)(3) of this title.
+Any employer who violates the provisions of section 206 or section 207 of this title shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of section 215(a)(3) of this title shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of section 215(a)(3) of this title, including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. An action to recover the liability prescribed in either of the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney's fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in anaction under section 217 of this title in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or section 207 of this title by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of section 215(a)(3) of this title.
 
 #### (c) Payment of wages and compensation; waiver of claims; actions by the Secretary; limitation of actions
 
@@ -18,17 +18,35 @@ In any action or proceeding commenced prior to, on, or after August 8, 1956, no 
 
 #### (e) Civil penalties for child labor violations
 
-Any person who violates the provisions of section 212 of this title or section 213(c)(5) of this title, relating to child labor, or any regulation issued under section 212 of this title or section 213(c)(5) of this title, shall be subject to a civil penalty of not to exceed $10,000 for each employee who was the subject of such a violation. Any person who repeatedly or willfully violates section 206 or 207 of this title shall be subject to a civil penalty of not to exceed $1,000 for each such violation. In determining the amount of any penalty under this subsection, the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered. The amount of any penalty under this subsection, when finally determined, may be—
+(1)(A) Any person who violates the provisions of sections <sup>2</sup> 212 or 213(c) of this title, relating to child labor, or any regulation issued pursuant to such sections, shall be subject to a civil penalty not to exceed—
 
-&emsp;(1) deducted from any sums owing by the United States to the person charged;
+&emsp;(i) $11,000 for each employee who was the subject of such a violation; or
 
-&emsp;(2) recovered in a civil action brought by the Secretary in any court of competent jurisdiction, in which litigation the Secretary shall be represented by the Solicitor of Labor; or
+&emsp;(ii) $50,000 with regard to each such violation that causes the death or serious injury of any employee under the age of 18 years, which penalty may be doubled where the violation is a repeated or willful violation.
 
-&emsp;(3) ordered by the court, in an action brought for a violation of section 215(a)(4) of this title or a repeated or willful violation of section 215(a)(2) of this title, to be paid to the Secretary.
+(B) For purposes of subparagraph (A), the term “serious injury” means—
 
-> Any administrative determination by the Secretary of the amount of any penalty under this subsection shall be final, unless within fifteen days after receipt of notice thereof by certified mail the person charged with the violation takes exception to the determination that the violations for which the penalty is imposed occurred, in which event final determination of the penalty shall be made in an administrative proceeding after opportunity for hearing in accordance with section 554 of title 5, and regulations to be promulgated by the Secretary. Except for civil penalties collected for violations of section 212 of this title, sums collected as penalties pursuant to this section shall be applied toward reimbursement of the costs of determining the violations and assessing and collecting such penalties, in accordance with the provisions of section 9a of this title. Civil penalties collected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.
+&emsp;(i) permanent loss or substantial impairment of one of the senses (sight, hearing, taste, smell, tactile sensation);
 
-(June 25, 1938, ch. 676, §16, 52 Stat. 1069; May 14, 1947, ch. 52, §5(a), 61 Stat. 87; Oct. 26, 1949, ch. 736, §14, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, 15 F.R. 3174, 64 Stat. 1263; Aug. 8, 1956, ch. 1035, §4, 70 Stat. 1118; Pub. L. 85–231, §1(2), Aug. 30, 1957, 71 Stat. 514; Pub. L. 87–30, §12(a), May 5, 1961, 75 Stat. 74; Pub. L. 89–601, title VI, §601(a), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, 88 Stat. 61, 72, 73; Pub. L. 95–151, §10, Nov. 1, 1977, 91 Stat. 1252; Pub. L. 101–157, §9, Nov. 17, 1989, 103 Stat. 945; Pub. L. 101–508, title III, §3103, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 104–174, §2, Aug. 6, 1996, 110 Stat. 1554.)
+&emsp;(ii) permanent loss or substantial impairment of the function of a bodily member, organ, or mental faculty, including the loss of all or part of an arm, leg, foot, hand or other body part; or
+
+&emsp;(iii) permanent paralysis or substantial impairment that causes loss of movement or mobility of an arm, leg, foot, hand or other body part.
+
+(2) Any person who repeatedly or willfully violates section 206 or 207 of this title, relating to wages, shall be subject to a civil penalty not to exceed $1,100 for each such violation.
+
+(3) In determining the amount of any penalty under this subsection, the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered. The amount of any penalty under this subsection, when finally determined, may be—
+
+&emsp;(A) deducted from any sums owing by the United States to the person charged;
+
+&emsp;(B) recovered in a civil action brought by the Secretary in any court of competent jurisdiction, in which litigation the Secretary shall be represented by the Solicitor of Labor; or
+
+&emsp;(C) ordered by the court, in an action brought for a violation of section 215(a)(4) of this title or a repeated or willful violation of section 215(a)(2) of this title, to be paid to the Secretary.
+
+(4) Any administrative determination by the Secretary of the amount of any penalty under this subsection shall be final, unless within 15 days after receipt of notice thereof by certifiedmail the person charged with the violation takes exception to the determination that the violations for which the penalty is imposed occurred, in which event final determination of the penalty shall be made in an administrative proceeding after opportunity for hearing in accordance with section 554 of title 5 and regulations to be promulgated by the Secretary.
+
+(5) Except for civil penalties collected for violations of section 212 of this title, sums collected as penalties pursuant to this section shall be applied toward reimbursement of the costs of determining the violations and assessing and collecting such penalties, in accordance with the provision of section 9a of this title. Civil penalties collected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.
+
+(June 25, 1938, ch. 676, §16, 52 Stat. 1069; May 14, 1947, ch. 52, §5(a), 61 Stat. 87; Oct. 26, 1949, ch. 736, §14, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, 15 F.R. 3174, 64 Stat. 1263; Aug. 8, 1956, ch. 1035, §4, 70 Stat. 1118; Pub. L. 85–231, §1(2), Aug. 30, 1957, 71 Stat. 514; Pub. L. 87–30, §12(a), May 5, 1961, 75 Stat. 74; Pub. L. 89–601, title VI, §601(a), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, 88 Stat. 61, 72, 73; Pub. L. 95–151, §10, Nov. 1, 1977, 91 Stat. 1252; Pub. L. 101–157, §9, Nov. 17, 1989, 103 Stat. 945; Pub. L. 101–508, title III, §3103, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 104–174, §2, Aug. 6, 1996, 110 Stat. 1554; Pub. L. 110–233, title III, §302(a), May 21, 2008, 122 Stat. 920.)
 
 #### References in Text
 
@@ -39,6 +57,8 @@ The effective date of this amendment of subsection (d), referred to in subsec. (
 Section 206(a)(3) of this title, referred to in subsec. (d)(3), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for child labor violations.
 
 1996—Subsec. (e). Pub. L. 104–174 in first sentence substituted “of section 212 of this title or section 213(c)(5) of this title” for “of section 212 of this title” and “under section 212 of this title or section 213(c)(5) of this title” for “under that section”.
 
@@ -67,6 +87,10 @@ Subsec. (e). Pub. L. 93–259, §25(c), added subsec. (e).
 1949—Subsec. (c). Act Oct. 26, 1949, added subsec. (c).
 
 1947—Subsec. (b). Act May 14, 1947, struck out provisions relating to the designation by employee or employees of an agent or representative to maintain an action under this section for and on behalf of all employees similarly situated and inserted provisions relating to the requirement that no employee shall be a party plaintiff unless he gives his consent in writing and such consent is filed with the court.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–233, title III, §302(b), May 21, 2008, 122 Stat. 922, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[May 21, 2008\].”
 
 #### Effective Date of 1977 Amendment
 
@@ -123,4 +147,6 @@ Section 16(b) of act Oct. 26, 1949, provided that: “Except as provided in sect
 Section 16(d) of act Oct. 26, 1949, provided that actions based upon acts or omissions occurring prior to the effective date of act Oct. 26, 1949, which was to be effective ninety days after Oct. 26, 1949, were not prevented by the amendments made to sections 202 to 208, and 211 to 217 of this title by such act, so long as such actions were instituted within two years from such effective date.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

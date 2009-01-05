@@ -2,7 +2,7 @@
 
 #### (a) Plans excepted from applicability of this part
 
-This part shall apply to any employee pension benefit plan described in section 1003(a) of this title, (and not exempted under section 1003(b) of this title), other than—
+This part shall apply to any employee pension benefit plan described in section 1003(a) of thistitle, (and not exempted under section 1003(b) of this title), other than—
 
 &emsp;(1) an employee welfare benefit plan;
 
@@ -48,7 +48,7 @@ For the purposes of paragraph (2) of subsection (a) of this section a plan is an
 
 This part applies, with respect to a terminated multiemployer plan to which section 1321 of this title applies, until the last day of the plan year in which the plan terminates, within the meaning of section 1341a(a)(2) of this title.
 
-(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L.101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
+(Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
 
 #### References in Text
 

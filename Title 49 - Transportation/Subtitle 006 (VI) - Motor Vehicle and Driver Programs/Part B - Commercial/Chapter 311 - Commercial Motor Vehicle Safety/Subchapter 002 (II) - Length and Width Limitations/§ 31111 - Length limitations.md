@@ -22,19 +22,19 @@ Truck tractor.—The term “truck tractor” means—
 
 &emsp;(4)
 
-Drive-away saddlemount with fullmount vehicle transporter combination.—The term “drive-away saddlemount with fullmount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it.
+Driveaway saddlemount vehicle transporter combination.—The term “driveaway saddlemount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
 
 (b)
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, onany segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
 &emsp;(C) has the effect of prohibiting the use of a semitrailer or trailer of the same dimensions as those that were in actual and lawful use in that State on December 1, 1982;
 
-&emsp;(D) imposes a vehicle length limitation of not less than or more than 97 feet on a driveaway saddlemount with fullmount vehicle transporter combinations;
+&emsp;(D) imposes a vehicle length limitation of not less than or more than 97 feet on all driveaway saddlemount vehicle transporter combinations;
 
 &emsp;(E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
 
@@ -72,7 +72,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141, Aug. 10, 2005, 119 Stat. 1746.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141, Aug. 10, 2005, 119 Stat. 1746; Pub. L. 110–244, title III, §301(r), June 6, 2008, 122 Stat. 1617.)
 
 Historical and Revision Notes
 
@@ -159,6 +159,10 @@ In subsection (f)(4)(C), the reference to regulations prescribed under subsectio
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–244, §301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
+
+Subsec. (b)(1)(D). Pub. L. 110–244, §301(r)(2), substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
 
 2005—Subsec. (a)(4). Pub. L. 109–59, §4141(a), added par. (4).
 

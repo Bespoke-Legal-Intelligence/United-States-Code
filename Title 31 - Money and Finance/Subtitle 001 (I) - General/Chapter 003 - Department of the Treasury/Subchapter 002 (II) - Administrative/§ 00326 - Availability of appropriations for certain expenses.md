@@ -36,5 +36,5 @@ In subsection (b), the words “On and after September 29, 1969,” are omitted 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–234 effective (1) on the effective date of regulations to be promulgated not laterthan 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–234 effective (1) on the effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
 

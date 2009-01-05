@@ -38,7 +38,7 @@ Exemption of accumulated disc income from tax.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISCor former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, the term ‘actual distribution’ includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
+In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISC or former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, the term ‘actual distribution’ includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
 
 &emsp;“(B)
 
@@ -100,7 +100,7 @@ In general.—If, before January 1, 1985, any export trade corporation—
 
 &emsp;“(B) elects not to be treated as an export trade corporation with respect to taxable years beginning after December 31, 1984,
 
-> rules similar to the rules of paragraphs (2) and (4) of subsection (b) \[section 805(b)(2) and (4) of Pub. L. 98–369, set out as a note above\] shall apply to such export trade corporation.
+> rules similar to the rules of paragraphs (2) and (4) of subsection (b) \[section 805(b)(2) and (4) of Pub. L. 98–369,set out as a note above\] shall apply to such export trade corporation.
 
 “(2)
 

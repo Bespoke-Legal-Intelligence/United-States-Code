@@ -12,7 +12,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 &emsp;(2) Lands within the State of California under the jurisdiction of the Secretary that the Secretary determines to be suitable for disposal for exchange, identified in the following priority—
 
-&emsp;&emsp;(A) lands with mineral interests, including geothermal, which have the potential for commercial development but which are not currently under mineral lease or producing Federal mineral revenues;
+&emsp;&emsp;(A) lands with mineral interests, including geothermal, which have the potential for commercial development but which are notcurrently under mineral lease or producing Federal mineral revenues;
 
 &emsp;&emsp;(B) Federal claims in California managed by the Bureau of Reclamation that the Secretary determines are not needed for any Bureau of Reclamation project; and
 
@@ -24,7 +24,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 #### (c) Disposal of surplus Federal property
 
-(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph\(b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
+(1) Effective upon October 31, 1994, and until all State School lands identified in paragraph (b)(1) of this section are acquired, no Federal lands or interests therein within the State of California may be disposed of from Federal ownership unless—
 
 &emsp;(A) the Secretary is notified of the availability of such lands or interest therein;
 

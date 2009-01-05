@@ -56,7 +56,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(J) homeownership activities, including programs under section 1437z–4 of this title;
 
-&emsp;&emsp;(K) improvement of energy and water-use efficiency by installing fixtures and fittings that conform to the American Society ofMechanical Engineers/American National Standards Institute standards A112.19.2–1998 and A112.18.1–2000, or any revision thereto, applicable at the time of installation, and by increasing energy efficiency and water conservation by such other means as the Secretary determines are appropriate; and
+&emsp;&emsp;(K) improvement of energy and water-use efficiency by installing fixtures and fittings that conform to the American Society of Mechanical Engineers/American National Standards Institute standards A112.19.2–1998 and A112.18.1–2000, or any revision thereto, applicable at the time of installation, and by increasing energy efficiency and water conservation by such other means as the Secretary determines are appropriate; and
 
 &emsp;&emsp;(L) integrated utility management and capital planning to maximize energy conservation and efficiency measures.
 
@@ -64,7 +64,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;The Secretary shall develop a formula for determining the amount of assistance provided to public housing agencies from the Capital Fund for a fiscal year, which shall include a mechanism to reward performance. The formula may take into account such factors as—
 
-&emsp;&emsp;(A) the number of public housing dwelling units owned, assisted, or operated by the public housing agency, the characteristics and locations of the projects, and the characteristics of the families served and to be served (including the incomes of the families);
+&emsp;&emsp;(A) the number of public housing dwelling units owned, assisted, or operated by thepublic housing agency, the characteristics and locations of the projects, and the characteristics of the families served and to be served (including the incomes of the families);
 
 &emsp;&emsp;(B) the need of the public housing agency to carry out rehabilitation and modernization activities, replacement housing, and reconstruction, construction, and demolition activities related to public housing dwelling units owned, assisted, or operated by the public housing agency, including backlog and projected future needs of the agency;
 
@@ -176,7 +176,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (2) Full flexibility for small PHAs
 
-&emsp;Of any amounts allocated for any fiscal year for any public housing agency that owns or operates less than 250 public housing dwelling units, is not designated pursuant to section 1437d(j)(2) of this title as a troubled public housing agency, and (in the determination of the Secretary) is operating and maintaining its public housing in a safe, clean, and healthycondition, the agency may use any such amounts for any eligible activities under subsections (d)(1) and (e)(1) of this section, regardless of the fund from which the amounts were allocated and provided. This subsection shall take effect on October 21, 1998.
+&emsp;Of any amounts allocated for any fiscal year for any public housing agency that owns or operates less than 250 public housing dwelling units, is not designated pursuant to section 1437d(j)(2) of this title as a troubled public housing agency, and (in the determination of the Secretary) is operating and maintaining its public housing in a safe, clean, and healthy condition, the agency may use any such amounts for any eligible activities under subsections (d)(1) and (e)(1) of this section, regardless of the fund from which the amounts were allocated and provided. This subsection shall take effect on October 21, 1998.
 
 #### (3) Limitation on new construction
 
@@ -186,7 +186,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (B) Exception regarding use of assistance
 
-&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the Capital Fund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) of this section shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
+&emsp;&emsp;A public housing agency may use amounts allocated for the agency from the CapitalFund or Operating Fund for the construction and operation of housing units that are available and affordable to low-income families in excess of the limitations on new construction set forth in subparagraph (A), but the formulas established under subsections (d)(2) and (e)(2) of this section shall not provide additional funding for the specific purpose of allowing construction and operation of housing in excess of those limitations (except to the extent provided in subparagraph (C)).
 
 #### (C) Exception regarding formulas
 
@@ -262,7 +262,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;&emsp;&emsp;(ii) the complexity of capital program of the public housing agency;
 
-&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
+&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from theCapital Fund in a timely manner as a result of State or local law; or
 
 &emsp;&emsp;&emsp;(iv) such other factors as the Secretary determines to be relevant.
 
@@ -304,41 +304,11 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;Any obligation entered into by a public housing agency shall be subject to the right of the Secretary to recapture the obligated amounts for violation by the public housing agency of the requirements of this subsection.
 
-#### (k) Emergency reserve and use of amounts
-
-#### (1) Set-asides
-
-&emsp;In each fiscal year after fiscal year 1999, the Secretary shall set aside, for use in accordance with this subsection, not more than 2 percent of the total amount made available to carry out this section for such fiscal year. In addition to amounts set aside under the preceding sentence, in each fiscal year the Secretary may set from the total amount made available to carry out this section for such fiscal year not more than $20,000,000 for the Operation Safe Home program administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.
-
-#### (2) Use of funds
-
-&emsp;Amounts set aside under paragraph (1) shall be available to the Secretary for use for assistance, as provided in paragraph (3), in connection with—
-
-&emsp;&emsp;(A) emergencies and other disasters; and
-
-&emsp;&emsp;(C) <sup>2</sup> housing needs resulting from any settlement of litigation; and
-
-#### (3) Eligible uses
-
-&emsp;In carrying out this subsection, the Secretary may use amounts set aside under this subsection to provide—
-
-&emsp;&emsp;(A) assistance for any eligible use under the Operating Fund or the Capital Fund established by this section; or
-
-&emsp;&emsp;(B) tenant-based assistance in accordance with section 1437f of this title.
-
-#### (4) Limitation
-
-&emsp;With respect to any fiscal year, the Secretary may carry over not more than a total of $25,000,000 in unobligated amounts set aside under this subsection for use in connection with the activities described in paragraph (2) during the succeeding fiscal year.
-
-#### (5) Publication
-
-&emsp;The Secretary shall publish the use of any amounts allocated under this subsection relating to emergencies (other than disasters and housing needs resulting from any settlement of litigation) in the Federal Register.
-
-#### (<i>l</i>) Treatment of nonrental income
+#### (k) Treatment of nonrental income
 
 A public housing agency that receives income from nonrental sources (as determined by the Secretary) may retain and use such amounts without any decrease in the amounts received under this section from the Capital or Operating Fund. Any such nonrental amounts retained shall be used only for low-income housing or to benefit the residents assisted by the public housing agency.
 
-#### (m) Provision of only capital or operating assistance
+#### (<i>l</i>) Provision of only capital or operating assistance
 
 #### (1) Authority
 
@@ -348,23 +318,23 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3) of this section, as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 \[42 U.S.C. 1437f\] requirements applicable, as appropriate, by regulation.
 
-#### (n) Treatment of public housing
+#### (m) Treatment of public housing
 
 #### (1) Repealed. Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>2</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one ormore developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648; Pub. L. 110–161, div. K, title II, §229, Dec. 26, 2007, 121 Stat. 2438; Pub. L. 110–289, div. B, title VIII, §2804, July 30, 2008, 122 Stat. 2866.)
 
 #### References in Text
 
@@ -377,6 +347,8 @@ Section 1437<i>l</i> of this title, referred to in subsecs. (a) and (d)(3)(A), (
 A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
+
+2008—Subsecs. (k) to (n). Pub. L. 110–289 redesignated subsecs. (<i>l</i>) to (n) as (k) to (m), respectively, and struck out former subsec. (k), which related to emergency reserve and use of amounts.
 
 2007—Subsec. (e)(2)(C)(iv). Pub. L. 110–161 added cl. (iv).
 
@@ -552,7 +524,7 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 488.
 
 #### Funding of Covered Locally Developed Public Housing Units Prohibited
 
-Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided that: “Notwithstanding any other provision of law, no funds in this Act or in any other Act in any fiscal year, including all future and prior fiscal years, may be used hereafter by the Secretary of Housing and Urban Development to provide any assistance or other funds for housing units defined in section 9(n) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(n)\] (as in effect immediately before the enactment of this Act \[Feb. 20, 2003\]) as ‘covered locally developed public housing units’. The States of New York and Massachusetts shall reimburse any funds already made available under any appropriations Act for these units to the Secretary of Housing and Urban Development for reallocation to public housing agencies: <i>Provided</i>, That, if either State fails to make such reimbursement within 12 months, the Secretary shall recapture such funds through reductions from the amounts allocated to each State under section 106 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5306\].”
+Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided that: “Notwithstanding any other provision of law, no funds in this Act or in any other Act in any fiscal year, including all future and prior fiscal years, may be used hereafter by the Secretary of Housing and Urban Development to provide any assistance or other funds for housing units defined in section 9(n) \[now 9(m)\] of the United States Housing Act of 1937 \[42 U.S.C. 1437g(m)\] (as in effect immediately before the enactment of this Act \[Feb. 20, 2003\]) as ‘covered locally developed public housing units’. The States of New York and Massachusetts shall reimburse any funds already made available under any appropriations Act for these units to the Secretary of Housing and Urban Development for reallocation to public housing agencies: <i>Provided</i>, That, if either State fails to make such reimbursement within 12 months, the Secretary shall recapture such funds through reductions from the amounts allocated to each State under section 106 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5306\].”
 
 #### Applicability of Penalties for Slow Expenditure of Capital Funds
 
@@ -570,7 +542,5 @@ Section 523 of Pub. L. 101–625, which directed Secretary of Housing and Urban 
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
 
-<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

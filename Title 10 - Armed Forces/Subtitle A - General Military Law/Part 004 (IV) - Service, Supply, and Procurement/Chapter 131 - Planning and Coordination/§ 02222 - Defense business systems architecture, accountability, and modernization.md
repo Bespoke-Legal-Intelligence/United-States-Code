@@ -62,7 +62,7 @@ Approval Authorities and Accountability for Defense Business Systems.—The Secr
 
 &emsp;(2) The Under Secretary of Defense (Comptroller) shall be responsible and accountable for any defense business system the primary purpose of which is to support financial management activities or strategic planning and budgeting activities of the Department of Defense.
 
-&emsp;(3) The Under Secretary of Defense for Personnel and Readiness shall be responsible and accountable for any defense business system the primary purpose of which is to support human resource management activities of the Department of Defense.
+&emsp;(3) The Under Secretary of Defense for Personnel and Readiness shall be responsible and accountable for any defense business system the primary purpose of which is to supporthuman resource management activities of the Department of Defense.
 
 &emsp;(4) The Assistant Secretary of Defense for Networks and Information Integration and the Chief Information Officer of the Department of Defense shall be responsible and accountable for any defense business system the primary purpose of which is to support information technology infrastructure or information assurance activities of the Department of Defense.
 
@@ -104,7 +104,7 @@ Budget Information.—In the materials that the Secretary submits to Congress in
 
 (i)
 
-Congressional Reports.—Not later than March 15 of each year from 2005 through 2009, the Secretary of Defense shall submit to the congressional defense committees a report on Department of Defense compliance with the requirements of this section. The first report shall define plans and commitments for meeting the requirements of subsection (a), including specific milestones and performance measures. Subsequent reports shall—
+Congressional Reports.—Not later than March 15 of each year from 2005 through 2013, the Secretary of Defense shall submit to the congressional defense committees a report on Department of Defense compliance with the requirements of this section. The first report shall define plans and commitments for meeting the requirements of subsection (a), including specific milestones and performance measures. Subsequent reports shall—
 
 &emsp;(1) describe actions taken and planned for meeting the requirements of subsection (a), including—
 
@@ -138,7 +138,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425.)
 
 #### Prior Provisions
 
@@ -146,7 +146,169 @@ A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov
 
 #### Amendments
 
+2008—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
+
 2006—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+
+#### Business Transformation Initiatives for the Military Departments
+
+Pub. L. 110–417, \[div. A\], title IX, §908, Oct. 14, 2008, 122 Stat. 4569, provided that:
+
+“(a)
+
+In General.—The Secretary of each military department shall, acting through the Chief Management Officer of such military department, carry out an initiative for the business transformation of such military department.
+
+“(b)
+
+Objectives.—The objectives of the business transformation initiative of a military department under this section shall include, at a minimum, the following:
+
+&emsp;“(1) The development of a comprehensive business transformation plan, with measurable performance goals and objectives, to achieve an integrated management system for the business operations of the military department.
+
+&emsp;“(2) The development of a well-defined enterprise-wide business systems architecture and transition plan encompassing end-to-end business processes and capable of providing accurately and timely information in support of business decisions of the military department.
+
+&emsp;“(3) The implementation of the business transformation plan developed pursuant to paragraph (1) and the business systems architecture and transition plan developed pursuant to paragraph (2).
+
+“(c)
+
+Business Transformation Offices.—
+
+&emsp;“(1)
+
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of each military department shall establish within such military department an office (to be known as the ‘Office of Business Transformation’ of such military department) to assist the Chief Management Officer of such military department in carrying out the initiative required by this section for such military department.
+
+&emsp;“(2)
+
+Head.—The Office of Business Transformation of a military department under this subsection shall be headed by a Director of Business Transformation, who shall be appointed by the Chief Management Officer of the military department, in consultation with the Director of the Business Transformation Agency of the Department of Defense, from among individuals with significant experience managing large-scale organizations or business transformation efforts.
+
+&emsp;“(3)
+
+Supervision.—The Director of Business Transformation of a military department under paragraph (2) shall report directly to the Chief Management Officer of the military department, subject to policy guidance from the Director of the Business Transformation Agency of the Department of Defense.
+
+&emsp;“(4)
+
+Authority.—In carrying out the initiative required by this section for a military department, the Director of Business Transformation of the military department under paragraph (2) shall have the authority to require elements of the military department to carry out actions that are within the purpose and scope of the initiative.
+
+“(d)
+
+Responsibilities of Business Transformation Offices.—The Office of Business Transformation of a military department established pursuant to subsection (b) may be responsible for the following:
+
+&emsp;“(1) Transforming the budget, finance, accounting, and human resource operations of the military department in a manner that is consistent with the business transformation plan developed pursuant to subsection (b)(1).
+
+&emsp;“(2) Eliminating or replacing financial management systems of the military department that are inconsistent with the business systems architecture and transition plan developed pursuant to subsection (b)(2).
+
+&emsp;“(3) Ensuring that the business transformation plan and the business systems architecture and transition plan are implemented in a manner that is aggressive, realistic, and accurately measured.
+
+&emsp;“(4) Such other responsibilities as the Secretary of that military department determines are appropriate.
+
+“(e)
+
+Required Elements.—In carrying out the initiative required by this section for a military department, the Chief Management Officer and the Director of Business Transformation of the military department shall ensure that each element of the initiative is consistent with—
+
+&emsp;“(1) the requirements of the Business Enterprise Architecture and Transition Plan developed by the Secretary of Defense pursuant to section 2222 of title 10, United States Code;
+
+&emsp;“(2) the Standard Financial Information Structure of the Department of Defense;
+
+&emsp;“(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
+
+&emsp;“(4) other applicable requirements of law and regulation.
+
+“(f)
+
+Reports on Implementation.—
+
+&emsp;“(1)
+
+Initial reports.—Not later than nine months after the date of the enactment of this Act \[Oct. 14, 2008\], the Chief Management Officer of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken, and on the actions planned to be taken, by such military department to implement the requirements of this section.
+
+&emsp;“(2)
+
+Updates.—Not later than March 1 of each of 2010, 2011, and 2012, the Chief Management Officer of each military department shall submit to the congressional defense committees a current update of the report submitted by such Chief Management Officer under paragraph (1).”
+
+#### Financial Management Transformation Initiative for the Defense Agencies
+
+Pub. L. 110–181, div. A, title X, §1005, Jan. 28, 2008, 122 Stat. 301, provided that:
+
+“(a)
+
+Financial Management Transformation Initiative.—
+
+&emsp;“(1)
+
+In general.—The Director of the Business Transformation Agency of the Department of Defense shall carry out an initiative for financial management transformation in the Defense Agencies. The initiative shall be known as the ‘Defense Agencies Initiative’ (in this section referred to as the ‘Initiative’).
+
+&emsp;“(2)
+
+Scope of authority.—In carrying out the Initiative, the Director of the Business Transformation Agency may require the heads of the Defense Agencies to carry out actions that are within the purpose and scope of the Initiative.
+
+“(b)
+
+Purposes.—The purposes of Initiative shall be as follows:
+
+&emsp;“(1) To eliminate or replace financial management systems of the Defense Agencies that are duplicative, redundant, or fail to comply with the standards set forth in subsection (d).
+
+&emsp;“(2) To transform the budget, finance, and accounting operations of the Defense Agencies to enable the Defense Agencies to achieve accurate and reliable financial information needed to support financial accountability and effective and efficient management decisions.
+
+“(c)
+
+Required Elements.—The Initiative shall include, to the maximum extent practicable—
+
+&emsp;“(1) the utilization of commercial, off-the-shelf technologies and web-based solutions;
+
+&emsp;“(2) a standardized technical environment and an open and accessible architecture; and
+
+&emsp;“(3) the implementation of common business processes, shared services, and common data structures.
+
+“(d)
+
+Standards.—In carrying out the Initiative, the Director of the Business Transformation Agency shall ensure that the Initiative is consistent with—
+
+&emsp;“(1) the requirements of the Business Enterprise Architecture and Transition Plan developed pursuant to section 2222 of title 10, United States Code;
+
+&emsp;“(2) the Standard Financial Information Structure of the Department of Defense;
+
+&emsp;“(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
+
+&emsp;“(4) other applicable requirements of law and regulation.
+
+“(e)
+
+Scope.—The Initiative shall be designed to provide, at a minimum, capabilities in the major process areas for both general fund and working capital fund operations of the Defense Agencies as follows:
+
+&emsp;“(1) Budget formulation.
+
+&emsp;“(2) Budget to report, including general ledger and trial balance.
+
+&emsp;“(3) Procure to pay, including commitments, obligations, and accounts payable.
+
+&emsp;“(4) Order to fulfill, including billing and accounts receivable.
+
+&emsp;“(5) Cost accounting.
+
+&emsp;“(6) Acquire to retire (account management).
+
+&emsp;“(7) Time and attendance and employee entitlement.
+
+&emsp;“(8) Grants financial management.
+
+“(f)
+
+Consultation.—In carrying out subsections (d) and (e), the Director of the Business Transformation Agency shall consult with the Comptroller of the Department of Defense to ensure that any financial management systems developed for the Defense Agencies, and any changes to the budget, finance, and accounting operations of the Defense Agencies, are consistent with the financial standards and requirements of the Department of Defense.
+
+“(g)
+
+Program Control.—In carrying out the Initiative, the Director of the Business Transformation Agency shall establish—
+
+&emsp;“(1) a board (to be known as the ‘Configuration Control Board’) to manage scope and cost changes to the Initiative; and
+
+&emsp;“(2) a program management office (to be known as the ‘Program Management Office’) to control and enforce assumptions made in the acquisition plan, the cost estimate, and the system integration contract for the Initiative, as directed by the Configuration Control Board.
+
+“(h)
+
+Plan on Development and Implementation of Initiative.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Director of the Business Transformation Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the development and implementation of the Initiative. The plan shall provide for the implementation of an initial capability under the Initiative as follows:
+
+&emsp;“(1) In at least one Defense Agency by not later than eight months after the date of the enactment of this Act.
+
+&emsp;“(2) In not less than five Defense Agencies by not later than 18 months after the date of the enactment of this Act.”
 
 #### Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense
 
@@ -178,7 +340,7 @@ Initial Operational Capability Limitation.—If an information system described 
 
 “(c)
 
-Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not a national security system, as defined in 3542(b)(2) of title 44, United States Code.
+Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not anational security system, as defined in 3542(b)(2) of title 44, United States Code.
 
 “(d)
 

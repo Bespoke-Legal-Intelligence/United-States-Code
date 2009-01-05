@@ -4,7 +4,7 @@
 
 #### (1) Classifications
 
-&emsp;(A) On or after the date the Administrator promulgates the designation of an area as a nonattainment area pursuant to section 7407(d) of this title with respect to any national ambient air quality standard (or any revised standard, including a revision of any standard in effect on November 15, 1990), the Administrator may classify the area for the purpose of applying an attainment date pursuant to paragraph (2), and for other purposes. In determining the appropriate classification, if any, for a nonattainment area, the Administrator may consider such factors as the severity of nonattainment in such area and the availability and feasibility of the pollution control measures that the Administrator believes may be necessary to provide for attainment of such standard in such area.
+&emsp;(A) On or after the date the Administrator promulgates the designation of an area as a nonattainment area pursuant to section 7407(d) of this title with respect to any national ambient air quality standard (or any revised standard, including a revision of any standard in effect on November 15, 1990), the Administrator may classify the area for the purpose of applying an attainment date pursuant to paragraph (2), and for other purposes. In determining the appropriate classification, if any, for a nonattainment area, the Administrator may consider such factors as the severity of nonattainment in such area and theavailability and feasibility of the pollution control measures that the Administrator believes may be necessary to provide for attainment of such standard in such area.
 
 &emsp;(B) The Administrator shall publish a notice in the Federal Register announcing each classification under subparagraph (A), except the Administrator shall provide an opportunity for at least 30 days for written comment. Such classification shall not be subject to the provisions of sections 553 through 557 of title 5 (concerning notice and comment) and shall not be subject to judicial review until the Administrator takes final action under subsection (k) or (<i>l</i>) of section 7410 of this title (concerning action on plan submissions) or section 7509 of this title (concerning sanctions) with respect to any plan submissions required by virtue of such classification.
 
@@ -78,7 +78,7 @@ Any plan revision for a nonattainment area which is required to be submitted in 
 
 If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990, the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
 
-(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746;amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
+(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746; amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
 
 #### Amendments
 

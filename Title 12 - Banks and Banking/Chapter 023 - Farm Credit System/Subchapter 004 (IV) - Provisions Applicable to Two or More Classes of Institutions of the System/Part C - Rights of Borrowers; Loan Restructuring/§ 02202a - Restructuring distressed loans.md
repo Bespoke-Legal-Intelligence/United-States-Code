@@ -30,7 +30,7 @@ As used in this part:
 
 #### (3) Distressed loan
 
-&emsp;The term “distressed loan” means a loan that the borrower does not have the financial capacity to pay according to its terms and that exhibits one or more of the following characteristics:
+&emsp;The term “distressed loan” means a loan that the borrower does not have the financialcapacity to pay according to its terms and that exhibits one or more of the following characteristics:
 
 &emsp;&emsp;(A) The borrower is demonstrating adverse financial and repayment trends.
 
@@ -78,7 +78,7 @@ As used in this part:
 
 #### (7) Restructure and restructuring
 
-&emsp;The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probablethat the operations of the borrower will become financially viable.
+&emsp;The terms “restructure” and “restructuring” include rescheduling, reamortization, renewal, deferral of principal or interest, monetary concessions, and the taking of any other action to modify the terms of, or forbear on, a loan in any way that will make it probable that the operations of the borrower will become financially viable.
 
 #### (b) Notice
 
@@ -190,7 +190,7 @@ The time limitation prescribed in subsection (b)(2) of this section, and the req
 
 Each Farm Credit Bank, on request of any production credit association, may assist the association in restructuring loans under this section.
 
-(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574; amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
+(Pub. L. 92–181, title IV, §4.14A, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1574;amended Pub. L. 100–399, title I, §102(a)–(f), Aug. 17, 1988, 102 Stat. 990; Pub. L. 104–105, title II, §208(a), Feb. 10, 1996, 110 Stat. 173.)
 
 #### Amendments
 

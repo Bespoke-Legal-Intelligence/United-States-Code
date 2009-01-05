@@ -16,11 +16,15 @@ Assistance provided under subsection (a) should be used to provide—
 
 #### (1) In general
 
-&emsp;In addition to funds otherwise available for such purposes, there are authorized to be appropriated to the President $20,000,000 for each of the fiscal years 2005 through 2008 to carry out this section.
+&emsp;In addition to funds otherwise available for such purposes, there are authorized to be appropriated to the President $20,000,000 for each of the fiscal years 2005 through 2012 to carry out this section.
 
 #### (2) Availability
 
 &emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–333, title II, §203, Oct. 18, 2004, 118 Stat. 1294.)
+(Pub. L. 108–333, title II, §203, Oct. 18, 2004, 118 Stat. 1294; Pub. L. 110–346, §10, Oct. 7, 2008, 122 Stat. 3942.)
+
+#### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–346 substituted “2012” for “2008”.
 

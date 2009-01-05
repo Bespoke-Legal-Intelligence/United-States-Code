@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iv) contacts any alleged offender referred to in subparagraph (A) for purposes of participating in a program referred to in such paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) only as a result of any determination by the State or district attorney that probable cause of a bad check violation under State penal law exists, and that contact with the alleged offender for purposes of participation in the program is appropriate; and
+&emsp;&emsp;&emsp;&emsp;(I) only as a result of any determination by the State or district attorney that probable cause of a bad check violation under State penal law exists, andthat contact with the alleged offender for purposes of participation in the program is appropriate; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the alleged offender has failed to pay the bad check after demand for payment, pursuant to State law, is made for payment of the check amount;
 

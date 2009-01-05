@@ -28,7 +28,7 @@
 
 &emsp;(1) to approach the negotiations with a sincere resolve to reach a collective bargaining agreement;
 
-&emsp;(2) to be represented at the negotiations by duly authorized representatives prepared todiscuss and negotiate on any condition of employment;
+&emsp;(2) to be represented at the negotiations by duly authorized representatives prepared to discuss and negotiate on any condition of employment;
 
 &emsp;(3) to meet at reasonable times and convenient places as frequently as may be necessary, and to avoid unnecessary delays;
 

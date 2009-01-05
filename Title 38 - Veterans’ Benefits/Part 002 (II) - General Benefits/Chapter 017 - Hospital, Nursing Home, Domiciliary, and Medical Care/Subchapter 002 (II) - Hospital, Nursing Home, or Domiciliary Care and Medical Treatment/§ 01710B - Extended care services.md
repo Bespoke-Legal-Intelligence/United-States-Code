@@ -10,7 +10,7 @@
 
 &emsp;(4) Adult day health care under section 1720(f) of this title.
 
-&emsp;(5) Such other noninstitutional alternatives to nursing home care as the Secretary may furnish as medical services under section 1701(10) of this title.
+&emsp;(5) Such other noninstitutional alternatives to nursing home care as the Secretary may furnish as medical services under section 1701(10) <sup>1</sup> of this title.
 
 &emsp;(6) Respite care under section 1720B of this title.
 
@@ -41,6 +41,10 @@
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
 (Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382.)
+
+#### References in Text
+
+Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–387, title VIII, §801(1), Oct. 10, 2008, 122 Stat. 4140.
 
 #### Amendments
 
@@ -76,7 +80,7 @@ Pub. L. 106–117, title I, §101(h), Nov. 30, 1999, 113 Stat. 1550, provided th
 
 #### Pilot Program on Improvement of Caregiver Assistance Services
 
-Pub. L. 109–461, title II, §214, Dec. 22, 2006, 120 Stat. 3423, provided that:
+Pub. L. 109–461, title II, §214, Dec. 22, 2006, 120 Stat. 3423, as amended by Pub. L. 110–387, §809, Oct. 10, 2008, 122 Stat. 4142, provided that:
 
 “(a)
 
@@ -84,7 +88,7 @@ In General.—Commencing not later than 120 days after the date of the enactment
 
 “(b)
 
-Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
+Duration of Pilot Program.—The pilot program required by subsection (a) shall be carried out during the three-year period beginning on the date of the commencement of the pilot program.
 
 “(c)
 
@@ -108,11 +112,11 @@ Caregiver Assistance Services.—For purposes of this section, the term ‘careg
 
 “(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Veterans Affairs $5,000,000 for each of fiscal years 2007 and 2008 to carry out the pilot program authorized by this section.
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Veterans Affairs $5,000,000 for each of fiscal years 2007 through 2009 to carry out the pilot program authorized by this section.
 
 “(e)
 
-Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the supportof the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
+Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
 
 “(f)
 
@@ -265,4 +269,6 @@ Definition.—For purposes of this section, the term ‘assisted living services
 “(h)
 
 Standards.—The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulations prescribed under section 1730 of title 38, United States Code.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

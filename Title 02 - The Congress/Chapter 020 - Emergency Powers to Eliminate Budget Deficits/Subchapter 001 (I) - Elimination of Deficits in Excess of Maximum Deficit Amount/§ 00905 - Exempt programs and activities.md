@@ -64,7 +64,7 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 
 #### (2) Limitation
 
-&emsp;The President may not use the authority provided by paragraph (1) unless the Presidentnotifies the Congress of the manner in which such authority will be exercised on or before the date specified in section 904(a) of this title for the budget year.
+&emsp;The President may not use the authority provided by paragraph (1) unless the President notifies the Congress of the manner in which such authority will be exercised on or before the date specified in section 904(a) of this title for the budget year.
 
 #### (g) Other programs and activities
 
@@ -300,7 +300,7 @@ The following programs shall be exempt from reduction under any order issued und
 
 For purposes of subsections (b), (g), and (h) of this section, each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 1998–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9.)
+(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9.)
 
 #### Termination of Section
 
@@ -386,7 +386,7 @@ Pub. L. 105–33, §10207(c)(1)(F), substituted “808” for “806” in item 
 
 Pub. L. 105–33, §10207(c)(1)(E), struck out “Claims, defense (97-0102-0-1-051);” after second item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, §10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, §10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds,tribal trust funds” in second item relating to Bureau of Indian Affairs.
 
 Pub. L. 105–33, §10207(c)(1)(C), inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
 
@@ -477,6 +477,10 @@ Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
+
+#### Change of Name
+
+References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date of 2006 Amendment
 

@@ -4,7 +4,7 @@
 
 No person shall—
 
-&emsp;(1) with intent to defraud the United States, purchase, receive, possess, offer for sale, orsell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes—
+&emsp;(1) with intent to defraud the United States, purchase, receive, possess, offer for sale, or sell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes—
 
 &emsp;&emsp;(A) upon which the tax has not been paid or determined in the manner and at the time prescribed by this chapter or regulations thereunder; or
 

@@ -18,7 +18,7 @@
 
 > for grants to States (and where appropriate to regional, local, and interstate agencies) to implement programs requiring compliance by solid waste management facilities with the criteria promulgated under section 6944(a) of this title and section 6907(a)(3) of this title and with the provisions of section 6945 of this title. To the extent practicable, such programs shall require such compliance not later than thirty-six months after November 8, 1984.
 
-(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>4</sup> of this title.No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
+(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>4</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
 
 (B) Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) <sup>4</sup> of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
 
@@ -48,13 +48,13 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 #### (e) Special communities
 
-(1) The Administrator, in cooperation with State and local officials, shall identify local governments within the United States (A) having a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan, and (B) which are located over an aquifer which is the source of drinking water for any person or public water system and which has serious environmental problems resulting from the disposal of such solid waste, including possible methane migration.
+(1) The Administrator, in cooperation with State and local officials, shall identify local governments within the United States (A) having a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan, and (B)which are located over an aquifer which is the source of drinking water for any person or public water system and which has serious environmental problems resulting from the disposal of such solid waste, including possible methane migration.
 
 (2) There is authorized to be appropriated to the Administrator $2,500,000 for the fiscal year 1980 and $1,500,000 for each of the fiscal years 1981 and 1982 to make grants to be used for containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1). Not more than one community in any State shall be eligible for grants under this paragraph and not more than one project in any State shall be eligible for such grants. No unit of local government shall be eligible for grants under this paragraph with respect to any site which exceeds 65 acres in size.
 
 #### (f) Assistance to States for discretionary program for recycled oil
 
-(1) The Administrator may make grants to States, which have a State plan approved undersection 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
+(1) The Administrator may make grants to States, which have a State plan approved under section 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
 (2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b) of this section.
 
@@ -102,7 +102,7 @@ Subsec. (g). Pub. L. 98–616, §502(e), redesignated second subsec. (f), relati
 
 1980—Subsec. (a)(1). Pub. L. 96–482, §31(c), authorized appropriations of $20,000,000, $15,000,000, and $20,000,000 for fiscal years, 1980, 1981, and 1982, respectively, and substituted provision making appropriation available for financial assistance to States, and local, regional, and interstate authorities for development and implementation of plans approved by the Administrator, except plans referred to in section 6943(b) of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery for provision making appropriations available to State for development and implementation of State plans.
 
-Subsec. (a)(2)(B). Pub. L. 96–482, §32(e)(1), provided that applicants for technical and financial assistance shall not preclude or foreclose consideration of programs for recovery of recyclable materials through source separation or other resource recovery techniques.
+Subsec. (a)(2)(B). Pub. L. 96–482, §32(e)(1), provided that applicants for technical and financial assistanceshall not preclude or foreclose consideration of programs for recovery of recyclable materials through source separation or other resource recovery techniques.
 
 Subsec. (a)(2)(C). Pub. L. 96–482, §31(d), authorized appropriation of $10,000,000 for each fiscal year 1980, 1981, and 1982.
 

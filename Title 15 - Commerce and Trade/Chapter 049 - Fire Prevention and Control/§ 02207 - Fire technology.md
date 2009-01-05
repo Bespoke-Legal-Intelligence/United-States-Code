@@ -30,15 +30,21 @@ The Administration shall not engage in the manufacture or sale of any equipment 
 
 (1) The Administrator is authorized to conduct, directly or through contracts or grants, studies of the operations and management aspects of fire services, utilizing quantitative techniques, such as operations research, management economics, cost effectiveness studies, and such other techniques and methods as may be applicable and useful. Such studies shall include, but need not be limited to, the allocation of resources, the optimum location of fire stations, the optimum geographical area for an integrated fire service, the manner of responding to alarms, the operation of citywide and regional fire dispatch centers, firefighting under conditions of civil disturbance, and the effectiveness, frequency, and methods of building inspections.
 
-(2) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accuracy measuring and analyzing the foregoing.
+(2) The Administrator is authorized to conduct, directly or through contracts or grants, studies of the operations and management aspects of fire service-based emergency medical services and coordination between emergency medical services and fire services. Such studies may include the optimum protocols for on-scene care, the allocation of resources, and the training requirements for fire service-based emergency medical services.
 
-(3) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testingand demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
+(3) The Administrator is authorized to conduct, directly or through contracts or grants, research concerning the productivity and efficiency of fire service personnel, the job categories and skills required by fire services under varying conditions, the reduction of injuries to fire service personnel, the most effective fire prevention programs and activities, and techniques for accuracy measuring and analyzing the foregoing.
 
-(4) The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to measure and evaluate, on a cost-benefit basis, the effectiveness of the programs and activities of each fire service and the predictable consequences on the applicable local fire services of coordination or combination, in whole or in part, in a regional, metropolitan, or statewide fire service.
+(4) The Administrator is authorized to conduct, directly or through contracts, grants, or other forms of assistance, development, testing and demonstration projects to the extent deemed necessary to introduce and to encourage the acceptance of new technology, standards, operating methods, command techniques, and management systems for utilization by the fire services.
 
-#### (d) Rural assistance
+(5) The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to measure and evaluate, on a cost-benefit basis, the effectiveness of the programs and activities of each fire service and the predictable consequences on the applicable local fire services of coordination or combination, in whole or in part, in a regional, metropolitan, or statewide fire service.
 
-The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.
+#### (d) Rural and wildland-urban interface assistance
+
+The Administrator may, in coordination with the Secretary of Agriculture, the Secretary of the Interior, and the Wildland Fire Leadership Council, assist the fire services of the United States, directly or through contracts, grants, or other forms of assistance, in sponsoring and encouraging research into approaches, techniques, systems, equipment, and land-use policies to improve fire prevention and control in—
+
+&emsp;(1) the rural and remote areas of the United States; and
+
+&emsp;(2) the wildland-urban interface.
 
 #### (e) Assistance to other Federal agencies
 
@@ -74,7 +80,7 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 &emsp;(A) The Administrator shall, by regulation, require that new equipment or systems purchased through the assistance program established by section 2229 of this title meet or exceed applicable voluntary consensus standards for such equipment or systems for which applicable voluntary consensus standards have been established. The Administrator may waive the requirement under this subparagraph with respect to specific standards.
 
-&emsp;(B) If an applicant for a grant under section 2229 of this title proposes to purchase, with assistance provided under the grant, new equipment or systems that do not meet or exceed applicable voluntary consensus standards, the applicant shall include in the application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that do meet or exceed such standards.
+&emsp;(B) If an applicant for a grant under section 2229 of this title proposes to purchase, with assistance provided under the grant, new equipment or systems that do not meet or exceed applicable voluntary consensus standards, the applicant shall include in the application an explanation of why such equipment or systems will serve the needs of the applicant betterthan equipment or systems that do meet or exceed such standards.
 
 &emsp;(C) In making a determination whether or not to waive the requirement under subparagraph (A) with respect to a specific standard, the Administrator shall, to the greatest extent practicable—
 
@@ -90,9 +96,43 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 In establishing and conducting programs under this section, the Administrator shall take full advantage of applicable technological developments made by other departments and agencies of the Federal Government, by State and local governments, and by business, industry, and nonprofit associations.
 
-(Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, §202, Dec. 6, 2003, 117 Stat. 2037.)
+#### (h) Publication of research results
+
+#### (1) In general
+
+&emsp;For each fire-related research program funded by the Administration, the Administrator shall make available to the public on the Internet website of the Administration the following:
+
+&emsp;&emsp;(A) A description of such research program, including the scope, methodology, and goals thereof.
+
+&emsp;&emsp;(B) Information that identifies the individuals or institutions conducting the research program.
+
+&emsp;&emsp;(C) The amount of funding provided by the Administration for such program.
+
+&emsp;&emsp;(D) The results or findings of the research program.
+
+#### (2) Deadlines
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the information required by paragraph (1) shall be published with respect to a research program as follows:
+
+&emsp;&emsp;&emsp;(i) The information described in subparagraphs (A), (B), and (C) of paragraph (1) with respect to such research program shall be made available under paragraph (1) not later than 30 days after the Administrator has awarded the funding for such research program.
+
+&emsp;&emsp;&emsp;(ii) The information described in subparagraph (D) of paragraph (1) with respect to a research program shall be made available under paragraph (1) not later than 60 days after the date such research program has been completed.
+
+#### (B) Exception
+
+&emsp;&emsp;No information shall be required to be published under this subsection before the date that is 1 year after October 8, 2008.
+
+(Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, §202, Dec. 6, 2003, 117 Stat. 2037; Pub. L. 110–376, §§6, 9(b), Oct. 8, 2008, 122 Stat. 4059, 4061.)
 
 #### Amendments
+
+2008—Subsec. (c)(2) to (5). Pub. L. 110–376, §9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (d). Pub. L. 110–376, §6(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
+
+Subsec. (h). Pub. L. 110–376, §6(b), added subsec. (h).
 
 2003—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 

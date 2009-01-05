@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the administration of the programs established under sections 5621, 5622, 5623, and 5651 of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
+&emsp;In the administration of the programs established under sections 5621, 5622, and 5623 of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
 
 #### (2) Confidentiality
 
@@ -30,9 +30,15 @@ The Commodity Credit Corporation may suspend or debar for 1 or more years any ex
 
 The provisions of section 1001 of title 18 shall apply to any false certifications issued under this chapter.
 
-(Pub. L. 95–501, title IV, §402, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3681; amended Pub. L. 104–127, title II, §247, Apr. 4, 1996, 110 Stat. 969.)
+(Pub. L. 95–501, title IV, §402, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3681; amended Pub. L. 104–127, title II, §247, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, §3103(b)(5), June 18, 2008, 122 Stat. 1833.)
 
 #### Amendments
 
+2008—Subsec. (a)(1). Pub. L. 110–246 substituted “sections 5621, 5622, and 5623” for “sections 5621, 5622, 5623, and 5651”.
+
 1996—Subsec. (a)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary may require by regulation an exporter or other participant in the programs to make records available to the Secretary with respect to non-program transactions if such records would pertain directly to the review of program-related transactions undertaken by such exporter or participant, as determined by the Secretary.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -48,7 +48,7 @@ Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determinedunder subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer or dental officer for service in the Ready Reserve;
 
@@ -100,7 +100,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend of $100 per month for the period or the remainder of the period of the baccalaureate program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title for the period or the remainder of the period of the baccalaureate program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before enlistment in the Ready Reserve;
 
@@ -116,9 +116,11 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486.)
 
 #### Amendments
+
+2008—Subsec. (e)(2)(A). Pub. L. 110–417, which directed amendment of section 16201(e)(2)(A), without specifying the Code title to be amended, by substituting “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”, was executed to this section, to reflect the probable intent of Congress.
 
 2006—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 

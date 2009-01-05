@@ -46,9 +46,11 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 &emsp;&emsp;&emsp;(i) borrowers who are farmers, ranchers, or producers or harvesters of aquatic products, and cooperative associations eligible to borrow from System institutions under this chapter;
 
-&emsp;&emsp;&emsp;(ii) in the case of a Central Bank for Cooperatives, other banks for cooperatives; and
+&emsp;&emsp;&emsp;(ii) persons and entities eligible to borrow from the banks for cooperatives, as described in section 2124(c)(ii) of this title;
 
-&emsp;&emsp;&emsp;(iii) in the case of banks other than banks for cooperatives, System associations;
+&emsp;&emsp;&emsp;(iii) in the case of a Central Bank for Cooperatives, other banks for cooperatives; and
+
+&emsp;&emsp;&emsp;(iv) in the case of banks other than banks for cooperatives, System associations;
 
 &emsp;&emsp;(E) shall require that—
 
@@ -102,7 +104,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section,if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
 #### (B) Retirement
 
@@ -116,9 +118,15 @@ This section shall not be construed to affect the provisions of this chapter tha
 
 To the extent that any provision of this section is inconsistent with any other provision of this chapter (other than section 2162 of this title), the provision of this section shall control.
 
-(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173.)
+(Pub. L. 92–181, title IV, §4.3A, as added Pub. L. 100–233, title III, §301(b), Jan. 6, 1988, 101 Stat. 1608; amended Pub. L. 100–399, title III, §301(b)–(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–552, title I, §101, Oct. 28, 1992, 106 Stat. 4103; Pub. L. 104–105, title II, §206, Feb. 10, 1996, 110 Stat. 173; Pub. L. 110–234, title V, §5403(b), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §5403(b), June 18, 2008, 122 Stat. 1664, 1916.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (c)(1)(D)(ii) to (iv). Pub. L. 110–246, §5403(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
 1996—Subsecs. (f) to (h). Pub. L. 104–105 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
@@ -139,6 +147,10 @@ Subsec. (c)(1)(H). Pub. L. 100–399, §301(d), inserted “, except as otherwi
 Subsec. (c)(1)(I). Pub. L. 100–399, §301(e), struck out “standards issued under” after “established under”.
 
 Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out “and in section 2162 of this title” after “paragraph (2)” and “or allocated equities” after “retirement of stock”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

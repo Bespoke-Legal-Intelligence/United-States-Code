@@ -54,34 +54,6 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 Prior section 545 of this title, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 434. See section 1543 of this title.
 
-Prior sections 560 to 562 were renumbered sections 1560 to 1562 of this title, respectively.
-
-Prior sections 601 to 603 and 610 to 613 were renumbered sections 1701 to 1703 and 1710 to 1713 of this title, respectively.
-
-Another prior section 613, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, related to fitting and training in use of prosthetic appliances, prior to repeal by section 103(b) of Pub. L. 93–82. See section 1714(a) of this title.
-
-Prior sections 614 to 620C were renumbered sections 1714 to 1720C of this title, respectively.
-
-Another prior section 620C, added Pub. L. 100–6, §2(a), Feb. 12, 1987, 101 Stat. 92, related to community-based psychiatric residential treatment for chronically mentally ill veterans, prior to repeal by Pub. L. 100–322, title I, §115(g)(1), May 20, 1988, 102 Stat. 502. See section 115(a)–(f) of Pub. L. 100–322, set out as a note under section 1712 of this title.
-
-Prior sections 621 to 624 were renumbered sections 1721 to 1724 of this title, respectively.
-
-Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, §6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliary reservations, prior to repeal by Pub. L. 93–43, §§4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
-
-Prior sections 626 to 631 were renumbered sections 1726 to 1731 of this title, respectively.
-
-Another prior section 631, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1145; Pub. L. 91–24, §6(b), June 11, 1969, 83 Stat. 34, related to grants to the Republic of the Philippines, prior to repeal by section 107(a) of Pub. L. 93–82.
-
-Prior section 632 was renumbered section 1732 of this title.
-
-Another prior section 632, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146; Pub. L. 88–40, June 13, 1963, 77 Stat. 66; Pub. L. 89–612, §2, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–24, §6(c), June 11, 1969, 83 Stat. 34, related to modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948, prior to repeal by section 107(a) of Pub. L. 93–82.
-
-Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 and 1741 to 1743 of this title, respectively.
-
-Prior section 644, added Pub. L. 91–178, §2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, §403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
-
-Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
-
 #### Amendments
 
 2001—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
@@ -98,7 +70,7 @@ Establishment.—There is established a commission to be known as the Commission
 
 “(b)
 
-Membership.—(1) The Commission shall be composed of 12 members appointed from among privateUnited States citizens with appropriate and diverse experiences, expertise, and historical perspectives on veterans, military, organizational, and management matters. The members shall be appointed as follows:
+Membership.—(1) The Commission shall be composed of 12 members appointed from among private United States citizens with appropriate and diverse experiences, expertise, and historical perspectives on veterans, military, organizational, and management matters. The members shall be appointed as follows:
 
 &emsp;“(A) Four shall be appointed jointly by the chairman and ranking minority member of the Committee on Veterans’ Affairs of the House of Representatives.
 

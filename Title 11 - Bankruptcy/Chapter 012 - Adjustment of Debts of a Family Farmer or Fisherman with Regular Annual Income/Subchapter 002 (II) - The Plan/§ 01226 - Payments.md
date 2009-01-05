@@ -1,6 +1,6 @@
 ### §1226. Payments
 
-(a) Payments and funds received by the trustee shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distributeany such payment in accordance with the plan. If a plan is not confirmed, the trustee shall return any such payments to the debtor, after deducting—
+(a) Payments and funds received by the trustee shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan. If a plan is not confirmed, the trustee shall return any such payments to the debtor, after deducting—
 
 &emsp;(1) any unpaid claim allowed under section 503(b) of this title; and
 
@@ -36,7 +36,7 @@ Amendment by section 1502(a)(9) of Pub. L. 109–8 effective 180 days after Apr.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 ofPub. L. 103–394, set out as a note under section 101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

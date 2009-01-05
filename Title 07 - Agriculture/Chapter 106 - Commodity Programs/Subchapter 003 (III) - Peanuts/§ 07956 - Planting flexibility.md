@@ -30,7 +30,7 @@ Paragraphs (1) and (2) of subsection (b) of this section shall not limit the pla
 
 &emsp;(1) in any region in which there is a history of double-cropping of peanuts with agricultural commodities specified in subsection (b)(3) of this section, as determined by the Secretary, in which case the double-cropping shall be permitted;
 
-&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on the base acres for peanuts, exceptthat direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) of this section on the base acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
 
 &emsp;(3) by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3) of this section, except that—
 

@@ -52,7 +52,7 @@ The coordinated review process developed under this section may be incorporated 
 
 #### (3) Report to Congress
 
-&emsp;Not later than 30 days after the date of receipt of a report under paragraph (2), the Secretary shall compile and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Council on Environmental Quality, describing any deadlines identified in paragraph (1), and any information provided to the Secretary by the Federal, State, or local government agency, Indian tribe, or non-Federal interest involved under paragraph (2).
+&emsp;Not later than 30 days after the date of receipt of a report under paragraph (2), the Secretary shall compile and submit a report to the Committee on Transportation and Infrastructure of the House of Representatives, theCommittee on Environment and Public Works of the Senate, and the Council on Environmental Quality, describing any deadlines identified in paragraph (1), and any information provided to the Secretary by the Federal, State, or local government agency, Indian tribe, or non-Federal interest involved under paragraph (2).
 
 #### (i) Limitations
 

@@ -22,7 +22,7 @@ The report shall contain the following information for grants, cooperative agree
 
 Section 4(a), referred to in subsec. (a), is section 4(a) of Pub. L. 109–95, which is set out as a note under section 2152f of this title.
 
-This Act, referred to in subsec. (a), is Pub. L. 109–95, Nov. 8, 2005, 119 Stat. 2111, known as the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, which enacted this section and section 2152f of this title and enacted provisions set out as notes under this section and sections 2151 and 2152f of this title. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 2151 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 109–95, Nov. 8, 2005, 119 Stat. 2111, known as the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, which enacted this section and section 2152f of this title and enacted provisions set out as notes under this section and sections 2151 and 2152f of this title. For complete classification of this Act tothe Code, see Short Title of 2005 Amendment note set out under section 2151 of this title and Tables.
 
 #### Codification
 

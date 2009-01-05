@@ -12,3 +12,4 @@
 - [&sect; 07285 - Practice and registration fees](%C2%A7%2007285%20-%20Practice%20and%20registration%20fees.md)
 - [&sect; 07286 - Judicial Conference of the Court](%C2%A7%2007286%20-%20Judicial%20Conference%20of%20the%20Court.md)
 - [&sect; 07287 - Administration](%C2%A7%2007287%20-%20Administration.md)
+- [&sect; 07288 - Annual report](%C2%A7%2007288%20-%20Annual%20report.md)

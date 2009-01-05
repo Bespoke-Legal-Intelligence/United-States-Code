@@ -12,7 +12,7 @@ Requirement for Office.—(1) There is in the Veterans Health Administration an 
 
 (b)
 
-Director.—(1) The head of the Office shall be a Director, who shall report directly to theUnder Secretary for Health (without delegation).
+Director.—(1) The head of the Office shall be a Director, who shall report directly to the Under Secretary for Health (without delegation).
 
 (2) Any person appointed as Director shall be—
 
@@ -32,7 +32,7 @@ Functions.—(1) The Director shall report to the Under Secretary for Health on 
 
 (d)
 
-General Functions.—(1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Such inspections and reviews shall include review of required documented assurances.
+General Functions.—(1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Suchinspections and reviews shall include review of required documented assurances.
 
 (2) The Director shall observe external accreditation activities conducted for accreditation of medical research programs conducted in facilities of the Department.
 

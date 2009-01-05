@@ -1,5 +1,5 @@
 
-2 U.S.C.<br>United States Code, 2007 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
+2 U.S.C.<br>United States Code, 2008 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 2—THE CONGRESS
 
@@ -46,6 +46,7 @@
 | [<b>28.</b>](Chapter%20028%20-%20Architect%20of%20the%20Capitol/README.md) | <b>Architect of the Capitol</b> | <b>1801</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Capitol%20Police/README.md) | <b>Capitol Police</b> | <b>1901</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Operation%20and%20Maintenance%20of%20Capitol%20Complex/README.md) | <b>Operation and Maintenance of Capitol Complex</b> | <b>2001</b> |
+| [<b>31.</b>](Chapter%20031%20-%20Capitol%20Visitor%20Center/README.md) | <b>Capitol Visitor Center</b> | <b>2201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,3 +96,4 @@
 - [Chapter 028 - Architect of the Capitol](Chapter%20028%20-%20Architect%20of%20the%20Capitol/README.md)
 - [Chapter 029 - Capitol Police](Chapter%20029%20-%20Capitol%20Police/README.md)
 - [Chapter 030 - Operation and Maintenance of Capitol Complex](Chapter%20030%20-%20Operation%20and%20Maintenance%20of%20Capitol%20Complex/README.md)
+- [Chapter 031 - Capitol Visitor Center](Chapter%20031%20-%20Capitol%20Visitor%20Center/README.md)

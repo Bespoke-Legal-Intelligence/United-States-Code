@@ -10,7 +10,7 @@ No part of any grant made under section 6702, 6703, or 6704 of this title shall 
 
 #### (c) Maintenance costs
 
-Nothing in this chapter shall be construed to authorize the payment of maintenance costs in connection with any projects constructed (in whole or in part) with Federal financial assistance under this chapter.
+Nothing in this chapter shall be construed to authorize the payment of maintenance costs in connection with any projects constructed (inwhole or in part) with Federal financial assistance under this chapter.
 
 #### (d) Commencement of on-site labor within 90 days of project approval as prerequisite
 
@@ -42,7 +42,7 @@ The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 
 
 Act of August 12, 1968, entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, referred to in subsec. (g), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§4151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Amendments
 

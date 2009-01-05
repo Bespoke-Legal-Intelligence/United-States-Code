@@ -36,7 +36,7 @@
 
 #### (C) Clarification
 
-&emsp;&emsp;The certification of a unit under paragraph (1) shall not, for purposes of the last sentence of section 7111(b) of title 5 or section 7111(f)(4) of such title, be treated as if it had occurred pursuant to an election.
+&emsp;&emsp;The certification of a unit under paragraph (1) shall not, for purposes of the lastsentence of section 7111(b) of title 5 or section 7111(f)(4) of such title, be treated as if it had occurred pursuant to an election.
 
 #### (3) Delegation
 

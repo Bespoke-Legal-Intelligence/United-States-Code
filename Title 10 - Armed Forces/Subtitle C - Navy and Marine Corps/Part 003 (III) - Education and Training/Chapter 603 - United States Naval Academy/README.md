@@ -11,6 +11,7 @@
 | [6956\.](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md) | Midshipmen: nomination and selection to fill vacancies. |
 | [6957\.](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
 | [6957a.](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
+| [6957b.](%C2%A7%2006957b%20-%20Foreign%20and%20cultural%20exchange%20activities.md) | Foreign and cultural exchange activities. |
 | [6958\.](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md) | Midshipmen: qualifications for admission. |
 | [6959\.](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md) | Midshipmen: agreement for length of service. |
 | [6960\.](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md) | Midshipmen: clothing and equipment; uniform allowance. |
@@ -23,7 +24,8 @@
 | [6967\.](%C2%A7%2006967%20-%20Degree%20on%20graduation.md) | Degree on graduation. |
 | [6968\.](%C2%A7%2006968%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [6969\.](%C2%A7%2006969%20-%20Band%20composition.md) | Band: composition. |
-| [6970\.](%C2%A7%2006970%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md) | Permanent professors: retirement for years of service; authority for deferral. |
+| [6970\.](%C2%A7%2006970%20-%20Permanent%20professors%20promotion.md) | Permanent professors: promotion. |
+| [6970a.](%C2%A7%2006970a%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md) | Permanent professors: retirement for years of service; authority for deferral. |
 | [6971\.](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md) | Midshipmen's store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts. |
 | [6972\.](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md) | Chapel: crypt and window spaces. |
 | [6973\.](%C2%A7%2006973%20-%20Gifts%2C%20bequests%2C%20and%20loans%20of%20property%20acceptance%20for%20benefit%20and%20use%20of%20Naval%20Academy.md) | Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy. |
@@ -38,6 +40,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §541(b)(2), Oct. 14, 2008, 122 Stat. 4455, added item 6957b.
+
+Pub. L. 110–181, div. A, title V, §508(a)(2), Jan. 28, 2008, 122 Stat. 97, added items 6970 and 6970a and struck out former item 6970 “Permanent professors: retirement for years of service; authority for deferral”.
 
 2006—Pub. L. 109–364, div. A, title X, §1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, §544(b)(2). See 2004 Amendment note below.
 
@@ -77,6 +83,7 @@ Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 06956 - Midshipmen nomination and selection to fill vacancies](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md)
 - [&sect; 06957 - Selection of persons from foreign countries](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
 - [&sect; 06957a - Exchange program with foreign military academies](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
+- [&sect; 06957b - Foreign and cultural exchange activities](%C2%A7%2006957b%20-%20Foreign%20and%20cultural%20exchange%20activities.md)
 - [&sect; 06958 - Midshipmen qualifications for admission](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md)
 - [&sect; 06959 - Midshipmen agreement for length of service](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md)
 - [&sect; 06960 - Midshipmen clothing and equipment; uniform allowance](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md)
@@ -89,7 +96,8 @@ Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 06967 - Degree on graduation](%C2%A7%2006967%20-%20Degree%20on%20graduation.md)
 - [&sect; 06968 - Board of Visitors](%C2%A7%2006968%20-%20Board%20of%20Visitors.md)
 - [&sect; 06969 - Band composition](%C2%A7%2006969%20-%20Band%20composition.md)
-- [&sect; 06970 - Permanent professors retirement for years of service; authority for deferral](%C2%A7%2006970%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md)
+- [&sect; 06970 - Permanent professors promotion](%C2%A7%2006970%20-%20Permanent%20professors%20promotion.md)
+- [&sect; 06970a - Permanent professors retirement for years of service; authority for deferral](%C2%A7%2006970a%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md)
 - [&sect; 06971 - Midshipmen's store, trade shops, dairy, and laundry nonappropriated fund instrumentality and accounts](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md)
 - [&sect; 06972 - Chapel crypt and window spaces](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md)
 - [&sect; 06973 - Gifts, bequests, and loans of property acceptance for benefit and use of Naval Academy](%C2%A7%2006973%20-%20Gifts%2C%20bequests%2C%20and%20loans%20of%20property%20acceptance%20for%20benefit%20and%20use%20of%20Naval%20Academy.md)

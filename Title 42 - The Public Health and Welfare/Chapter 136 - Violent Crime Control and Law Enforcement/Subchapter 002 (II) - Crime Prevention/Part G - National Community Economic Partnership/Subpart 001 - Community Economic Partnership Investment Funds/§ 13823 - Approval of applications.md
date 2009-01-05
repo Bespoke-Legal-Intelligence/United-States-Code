@@ -6,7 +6,7 @@ In evaluating applications submitted under section 13822(b)(2)(B) of this title,
 
 &emsp;(1) the residents of the target area to be served (as identified under the strategic development plan) would have an income that is less than the median income for the area (as determined by the Secretary);
 
-&emsp;(2) the applicant community development corporation possesses the technical and managerial capability necessary to administer a revolving loan fund and has past experience in the development and management of housing, community and economic development programs;
+&emsp;(2) the applicant community development corporation possesses the technical and managerial capability necessary to administer a revolving loan fund and has past experience inthe development and management of housing, community and economic development programs;
 
 &emsp;(3) the applicant community development corporation has provided sufficient evidence of the existence of good working relationships with—
 

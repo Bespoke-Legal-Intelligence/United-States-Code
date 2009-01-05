@@ -2,7 +2,7 @@
 
 #### (a) Principal Deputy Director of National Intelligence
 
-(1) There is a Principal Deputy Director of National Intelligence who shall be appointed bythe President, by and with the advice and consent of the Senate.
+(1) There is a Principal Deputy Director of National Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) In the event of a vacancy in the position of Principal Deputy Director of National Intelligence, the Director of National Intelligence shall recommend to the President an individual for appointment as Principal Deputy Director of National Intelligence.
 

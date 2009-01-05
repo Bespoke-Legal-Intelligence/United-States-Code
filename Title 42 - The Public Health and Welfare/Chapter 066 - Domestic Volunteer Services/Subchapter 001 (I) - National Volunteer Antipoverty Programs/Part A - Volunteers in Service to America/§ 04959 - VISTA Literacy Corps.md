@@ -10,7 +10,7 @@ The Director shall assign volunteers to projects and programs that meet the anti
 
 #### (c) Assignment of volunteers to projects and programs utilizing volunteers to address needs of illiterate individuals; administration of programs by public or private nonprofit organizations; considerations governing assignment of volunteers
 
-(1) The Director shall assign volunteers under this subsection to projects and programs thatutilize volunteers to address the needs of illiterate individuals.
+(1) The Director shall assign volunteers under this subsection to projects and programs that utilize volunteers to address the needs of illiterate individuals.
 
 (2) Programs and projects under this subsection may be administered by public or private nonprofit agencies and organizations including local, State, and national literacy councils and organizations; community-based nonprofit organizations; local and State education agencies; local and State agencies administering adult basic education programs; educational institutions; libraries; antipoverty organizations; local, municipal, and State governmental entities, and eligible providers of employment and training activities under subtitle B of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2811 et seq.\].
 
@@ -54,7 +54,7 @@ In any fiscal year in which the services provided under this part are reduced, t
 
 (2) To the extent practicable and without undue delay, the Director shall ensure that a volunteer under this section is assigned to the vacancy created within the relevant literacy project or program established under this section.
 
-(Pub. L. 93–113, title I, §109, as added Pub. L. 99–551, §4(a), Oct. 27, 1986, 100 Stat. 3072; amended Pub. L. 101–204, title VI, §601, Dec. 7, 1989, 103 Stat. 1819; Pub. L. 103–82, title III, §327, Sept. 21, 1993, 107 Stat. 902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(B), (f)(28)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+(Pub. L. 93–113, title I, §109, as added Pub. L. 99–551, §4(a), Oct. 27, 1986, 100 Stat. 3072; amendedPub. L. 101–204, title VI, §601, Dec. 7, 1989, 103 Stat. 1819; Pub. L. 103–82, title III, §327, Sept. 21, 1993, 107 Stat. 902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(B), (f)(28)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ The Workforce Investment Act of 1998, referred to in subsecs. (c)(2) and (d)(2),
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(B)\], substituted “administrative entities designated to administer job training plans under the Job Training Partnership Act and eligible providers of employment and training activities under subtitle B of title I of the Workforce Investment Act of 1998” for “administrative entities designated to administer job training plans under the Job Training Partnership Act”.
 
-1993—Subsec. (g). Pub. L. 103–82, §327(1), struck out par. (1) and struck out par. (2) designation before “In any fiscal”. Prior to amendment, par. (1) read as follows: “Funds made available under section 5081(a) of this title for the purposes of this section shall be used to supplement and not supplant the level of services provided under this part in fiscal year 1986 to addressthe problem of illiteracy. The Director shall ensure that records are maintained to indicate the degree of compliance with this requirement.”
+1993—Subsec. (g). Pub. L. 103–82, §327(1), struck out par. (1) and struck out par. (2) designation before “In any fiscal”. Prior to amendment, par. (1) read as follows: “Funds made available under section 5081(a) of this title for the purposes of this section shall be used to supplement and not supplant the level of services provided under this part in fiscal year 1986 to address the problem of illiteracy. The Director shall ensure that records are maintained to indicate the degree of compliance with this requirement.”
 
 Subsec. (h)(1), (3). Pub. L. 103–82, §327(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1) and struck out par. (3) which read as follows: “Nothing in this subsection shall diminish or otherwise affect the requirement in subsection (g)(1) of this section that funds made available for this section shall be used to supplement and not to supplant the 1986 level of literacy services provided under this part.”
 

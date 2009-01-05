@@ -4,7 +4,7 @@
 
 Relief Required.—(1) Except as provided in paragraph (2), each member of the Army National Guard of the United States or the Air National Guard of the United States who is ordered to active duty is relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, as the case may be, from the effective date of his order to active duty until he is relieved from that duty.
 
-(2) An officer of the Army National Guard of the United States or the Air National Guard of the United States is not relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, under paragraph (1) while serving on active duty in command of a National Guard unit if—
+(2) An officer of the Army National Guard of the United States or the Air National Guard of the United States is not relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, under paragraph (1) while serving on active duty if—
 
 &emsp;(A) the President authorizes such service in both duty statuses; and
 
@@ -12,9 +12,13 @@ Relief Required.—(1) Except as provided in paragraph (2), each member of the A
 
 (b)
 
+Advance Authorization and Consent.—The President and the Governor of a State or Territory, or of the Commonwealth of Puerto Rico, or the commanding general of the District of Columbia National Guard, as applicable, may give the authorization or consent required by subsection (a)(2) with respect to an officer in advance for the purpose of establishing the succession of command of a unit.
+
+(c)
+
 Return to State Status.—So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 108–136, div. A, title V, §516, Nov. 24, 2003, 117 Stat. 1461; Pub. L. 109–163, div. A, title X, §1057(b)(6), Jan. 6, 2006, 119 Stat. 3442.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 108–136, div. A, title V, §516, Nov. 24, 2003, 117 Stat. 1461; Pub. L. 109–163, div. A, title X, §1057(b)(6), Jan. 6, 2006, 119 Stat. 3442; Pub. L. 110–417, \[div. A\], title V, §517, Oct. 14, 2008, 122 Stat. 4442.)
 
 Historical and Revision Notes
 
@@ -40,6 +44,10 @@ In subsection (b), the words “upon relief from that duty” are substituted fo
 
 #### Amendments
 
+2008—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
+
+Subsecs. (b), (c). Pub. L. 110–417, §517(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 2006—Subsec. (a). Pub. L. 109–163 substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
 
 2003—Subsec. (a). Pub. L. 108–136, §516(a), substituted “(a)
@@ -58,7 +66,7 @@ Memorandum for the Secretary of Defense
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority of the President contained in section 325 of title 32, United States Code, with respect to activities related to the 2004 Democratic and Republican National Conventions, and other appropriate events as you determine from time to time in consultation with the Assistant to the President for Homeland Security.
 
-You are further authorized and directed to make necessary arrangements to fund this activity from the proper appropriations and to publish this memorandum in the Federal Register.
+You are further authorized and directed to make necessary arrangements to fund this activity from theproper appropriations and to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

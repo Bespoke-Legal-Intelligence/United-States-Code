@@ -14,9 +14,11 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (d) Minimum allotment
 
-(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
+Notwithstanding subsections (a) through (c), and subject to subsection (h), if the amount of an award under this section for a part B institution, based on the data provided by the part B institution and the formula under subsections (a) through (c), would be—
 
-(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) <sup>1</sup> of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).
+&emsp;(1) an amount that is greater than $250,000 but less than $500,000, the Secretary shall award the part B institution an allotment in the amount of $500,000; and
+
+&emsp;(2) an amount that is equal to or less than $250,000, the Secretary shall award the part B institution an allotment in the amount of $250,000.
 
 #### (e) Reallotment
 
@@ -32,11 +34,31 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
 
-(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
+#### (h) Conditions for allotments
+
+#### (1) Student requirements for allotment
+
+&emsp;Notwithstanding any other provision of this section, a part B institution that would otherwise be eligible for funds under this part shall not receive an allotment under this part for a fiscal year, including the minimum allotment under subsection (d), if the part B institution, in the academic year preceding such fiscal year—
+
+&emsp;&emsp;(A) did not have any enrolled students who were Pell Grant recipients;
+
+&emsp;&emsp;(B) did not graduate any students; or
+
+&emsp;&emsp;(C) where appropriate, did not have any students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented.
+
+#### (2) Data requirements for allotments
+
+&emsp;Notwithstanding any other provision of this section, a part B institution shall not receive an allotment under this part for a fiscal year, including the minimum allotment under subsection (d), unless the institution provides the Secretary with the data required by the Secretary and for purposes of the formula described in subsections (a) through (c), including—
+
+&emsp;&emsp;(A) the number of Pell Grant recipients enrolled in the part B institution in the academic year preceding such fiscal year;
+
+&emsp;&emsp;(B) the number of students who earned an associate or baccalaureate degree from the part B institution in the academic year preceding such fiscal year; and
+
+&emsp;&emsp;(C) where appropriate, the percentage of students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented in the academic year preceding such fiscal year.
+
+(Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14, 2008, 122 Stat. 3177.)
 
 #### References in Text
-
-Section 1069f(a)(2)(A) of this title, referred to in subsec. (d)(2), was in the original a reference to section 360(a)(2)(A) of Pub. L. 89–329. Section 360 of Pub. L. 89–329 was renumbered section 399 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and was transferred to section 1068h of this title.
 
 The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the Code, see Tables.
 
@@ -47,6 +69,14 @@ A prior section 1063, Pub. L. 89–329, title III, §324, as added Pub. L. 96–
 Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 Stat. 1233, related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
+
+“(2) If the amount appropriated pursuant to section 1069f(a)(2)(A) of this title for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).”
+
+Subsec. (h). Pub. L. 110–315, §310(b), added subsec. (h).
 
 1997—Subsec. (g). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
@@ -64,11 +94,9 @@ Subsecs. (f), (g). Pub. L. 99–509, §7007(1), redesignated subsecs. (e) and (f
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L.105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 | :--- | ---: |
 | [1011\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011%20-%20Antidiscrimination.md) | Antidiscrimination. |
 | [1011a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011a%20-%20Protection%20of%20student%20speech%20and%20association%20rights.md) | Protection of student speech and association rights. |
-| [1011b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011b%20-%20Treatment%20of%20territories%20and%20territorial%20student%20assistance.md) | Treatment of territories and territorial student assistance. |
+| [1011b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011b%20-%20Territorial%20waiver%20authority.md) | Territorial waiver authority. |
 | [1011c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011c%20-%20National%20Advisory%20Committee%20on%20Institutional%20Quality%20and%20Integrity.md) | National Advisory Committee on Institutional Quality and Integrity. |
 | [1011d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011d%20-%20Student%20representation.md) | Student representation. |
 | [1011e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011e%20-%20Financial%20responsibility%20of%20foreign%20students.md) | Financial responsibility of foreign students. |
@@ -28,6 +28,8 @@
 | [1011i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011i%20-%20Drug%20and%20alcohol%20abuse%20prevention.md) | Drug and alcohol abuse prevention. |
 | [1011j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011j%20-%20Prior%20rights%20and%20obligations.md) | Prior rights and obligations. |
 | [1011k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011k%20-%20Recovery%20of%20payments.md) | Recovery of payments. |
+| 1011<i>l</i>. | Diploma mills. |
+| [1011m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20B%20-%20Additional%20General%20Provisions/%C2%A7%2001011m%20-%20Certification%20regarding%20the%20use%20of%20certain%20Federal%20funds.md) | Certification regarding the use of certain Federal funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,6 +38,12 @@
 |  |  |
 | :--- | ---: |
 | [1015\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015%20-%20Improvements%20in%20market%20information%20and%20public%20accountability%20in%20higher%20education.md) | Improvements in market information and public accountability in higher education. |
+| [1015a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015a%20-%20Transparency%20in%20college%20tuition%20for%20consumers.md) | Transparency in college tuition for consumers. |
+| [1015b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015b%20-%20Textbook%20information.md) | Textbook information. |
+| [1015c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015c%20-%20Database%20of%20student%20information%20prohibited.md) | Database of student information prohibited. |
+| [1015d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015d%20-%20In-State%20tuition%20rates%20for%20members%20of%20the%20armed%20forces%20on%20active%20duty%2C%20spouses%2C%20and%20dependent%20children.md) | In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children. |
+| [1015e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015e%20-%20State%20higher%20education%20information%20system%20pilot%20program.md) | State higher education information system pilot program. |
+| [1015f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20C%20-%20Cost%20of%20Higher%20Education/%C2%A7%2001015f%20-%20State%20commitment%20to%20affordable%20college%20education.md) | State commitment to affordable college education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,33 +57,99 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—TEACHER QUALITY ENHANCEMENT
-
-#### Part A—Teacher Quality Enhancement Grants for States and Partnerships
+#### Part E—Lender and Institution Requirements Relating to Education Loans
 
 |  |  |
 | :--- | ---: |
-| [1021\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001021%20-%20Purposes%3B%20definitions.md) | Purposes; definitions. |
-| [1022\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001022%20-%20State%20grants.md) | State grants. |
-| [1023\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001023%20-%20Partnership%20grants.md) | Partnership grants. |
-| [1024\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001024%20-%20Teacher%20recruitment%20grants.md) | Teacher recruitment grants. |
-| [1025\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001025%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| [1026\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001026%20-%20Accountability%20and%20evaluation.md) | Accountability and evaluation. |
-| [1027\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001027%20-%20Accountability%20for%20programs%20that%20prepare%20teachers.md) | Accountability for programs that prepare teachers. |
-| [1028\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001028%20-%20State%20functions.md) | State functions. |
-| [1029\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001029%20-%20General%20provisions.md) | General provisions. |
-| [1030\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001030%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1019\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/%C2%A7%2001019%20-%20Definitions.md) | Definitions. |
+| [1019a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/%C2%A7%2001019a%20-%20Responsibilities%20of%20covered%20institutions%2C%20institution-affiliated%20organizations%2C%20and%20lenders.md) | Responsibilities of covered institutions, institution-affiliated organizations, and lenders. |
+| [1019b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/%C2%A7%2001019b%20-%20Loan%20information%20to%20be%20disclosed%20and%20model%20disclosure%20form%20for%20covered%20institutions%2C%20institution-affiliated%20organizations%2C%20and%20lenders%E2%80%A6.md) | Loan information to be disclosed and model disclosure form for covered institutions, institution-affiliated organizations, and lenders participating in preferred lender arrangements. |
+| [1019c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/%C2%A7%2001019c%20-%20Loan%20information%20to%20be%20disclosed%20and%20model%20disclosure%20form%20for%20institutions%20participating%20in%20the%20William%20D.%20Ford%20Federal%20Direct%20Loan%E2%80%A6.md) | Loan information to be disclosed and model disclosure form for institutions participating in the William D. Ford Federal Direct Loan Program. |
+| [1019d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/Part%20E%20-%20Lender%20and%20Institution%20Requirements%20Relating%20to%20Education%20Loans/%C2%A7%2001019d%20-%20Self-certification%20form%20for%20private%20education%20loans.md) | Self-certification form for private education loans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Preparing Tomorrow's Teachers To Use Technology
+#### SUBCHAPTER II—TEACHER QUALITY ENHANCEMENT
 
 |  |  |
 | :--- | ---: |
-| [1041\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001041%20-%20Purpose%20and%20program%20authority.md) | Purpose and program authority. |
-| [1042\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001042%20-%20Eligibility.md) | Eligibility. |
-| [1043\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001043%20-%20Use%20of%20funds.md) | Use of funds. |
-| [1044\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001044%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1021\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/%C2%A7%2001021%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Teacher Quality Partnership Grants
+
+|  |  |
+| :--- | ---: |
+| [1022\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022%20-%20Purposes.md) | Purposes. |
+| [1022a.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022a%20-%20Partnership%20grants.md) | Partnership grants. |
+| [1022b.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022b%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [1022c.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022c%20-%20Accountability%20and%20evaluation.md) | Accountability and evaluation. |
+| [1022d.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022d%20-%20Accountability%20for%20programs%20that%20prepare%20teachers.md) | Accountability for programs that prepare teachers. |
+| [1022e.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022e%20-%20Teacher%20development.md) | Teacher development. |
+| [1022f.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022f%20-%20State%20functions.md) | State functions. |
+| [1022g.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022g%20-%20General%20provisions.md) | General provisions. |
+| [1022h.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Partnership%20Grants/%C2%A7%2001022h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Enhancing Teacher Education
+
+|  |  |
+| :--- | ---: |
+| [1031\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/%C2%A7%2001031%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 1—preparing teachers for digital age learners
+
+|  |  |
+| :--- | ---: |
+| [1032\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20001%20-%20Preparing%20Teachers%20for%20Digital%20Age%20Learners/%C2%A7%2001032%20-%20Program%20authorized.md) | Program authorized. |
+| [1032a.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20001%20-%20Preparing%20Teachers%20for%20Digital%20Age%20Learners/%C2%A7%2001032a%20-%20Uses%20of%20funds.md) | Uses of funds. |
+| [1032b.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20001%20-%20Preparing%20Teachers%20for%20Digital%20Age%20Learners/%C2%A7%2001032b%20-%20Application%20requirements.md) | Application requirements. |
+| [1032c.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20001%20-%20Preparing%20Teachers%20for%20Digital%20Age%20Learners/%C2%A7%2001032c%20-%20Evaluation.md) | Evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—honorable augustus f. hawkins centers of excellence
+
+|  |  |
+| :--- | ---: |
+| [1033\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20002%20-%20Honorable%20Augustus%20F.%20Hawkins%20Centers%20of%20Excellence/%C2%A7%2001033%20-%20Definitions.md) | Definitions. |
+| [1033a.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20002%20-%20Honorable%20Augustus%20F.%20Hawkins%20Centers%20of%20Excellence/%C2%A7%2001033a%20-%20Augustus%20F.%20Hawkins%20centers%20of%20excellence.md) | Augustus F. Hawkins centers of excellence. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—preparing general education teachers to more effectively educate students with disabilities
+
+|  |  |
+| :--- | ---: |
+| [1034\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20003%20-%20Preparing%20General%20Education%20Teachers%20to%20More%20Effectively%20Educate%20Students%20with%20Disabilities/%C2%A7%2001034%20-%20Teach%20to%20reach%20grants.md) | Teach to reach grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 4—adjunct teacher corps
+
+|  |  |
+| :--- | ---: |
+| [1035\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20004%20-%20Adjunct%20Teacher%20Corps/%C2%A7%2001035%20-%20Adjunct%20teacher%20corps.md) | Adjunct teacher corps. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 5—graduate fellowships to prepare faculty in high-need areas at colleges of education
+
+|  |  |
+| :--- | ---: |
+| [1036\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Enhancing%20Teacher%20Education/Subpart%20005%20-%20Graduate%20Fellowships%20to%20Prepare%20Faculty%20in%20High-Need%20Areas%20at%20Colleges%20of%20Education/%C2%A7%2001036%20-%20Graduate%20fellowships%20to%20prepare%20faculty%20in%20high-need%20areas%20at%20colleges%20of%20education.md) | Graduate fellowships to prepare faculty in high-need areas at colleges of education.s |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [1041\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20C%20-%20General%20Provisions/%C2%A7%2001041%20-%20Limitations.md) | Limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -98,6 +172,9 @@
 | [1059b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059b%20-%20Goals%20for%20financial%20management%20and%20academic%20program.md) | Goals for financial management and academic program. |
 | [1059c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059c%20-%20American%20Indian%20tribally%20controlled%20colleges%20and%20universities.md) | American Indian tribally controlled colleges and universities. |
 | [1059d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059d%20-%20Alaska%20Native%20and%20Native%20Hawaiian-serving%20institutions.md) | Alaska Native and Native Hawaiian-serving institutions. |
+| [1059e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059e%20-%20Predominantly%20Black%20Institutions.md) | Predominantly Black Institutions. |
+| [1059f.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059f%20-%20Native%20American-serving%2C%20nontribal%20institutions.md) | Native American-serving, nontribal institutions. |
+| [1059g.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20A%20-%20Strengthening%20Institutions/%C2%A7%2001059g%20-%20Asian%20American%20and%20Native%20American%20Pacific%20Islander-serving%20institutions.md) | Asian American and Native American Pacific Islander-serving institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -153,32 +230,50 @@ I74subpart 1—minority science and engineering improvement program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 2—administrative and general provisions
+#### subpart 2—programs in stem fields
 
 |  |  |
 | :--- | ---: |
-| [1067g.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067g%20-%20Eligibility%20for%20grants.md) | Eligibility for grants. |
-| [1067h.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067h%20-%20Grant%20application.md) | Grant application. |
-| [1067i.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067i%20-%20Cross%20program%20and%20cross%20agency%20cooperation.md) | Cross program and cross agency cooperation. |
-| [1067j.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067j%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| [1067k.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067k%20-%20Definitions.md) | Definitions. |
+| [1067e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20002%20-%20Programs%20in%20STEM%20Fields/%C2%A7%2001067e%20-%20YES%20partnerships%20grant%20program.md) | YES partnerships grant program. |
+| 1067e–1. | Promotion of entry into STEM fields. |
+| 1067e–2. | Evaluation and accountability plan. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—administrative and general provisions
+
+|  |  |
+| :--- | ---: |
+| [1067g.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067g%20-%20Eligibility%20for%20grants.md) | Eligibility for grants. |
+| [1067h.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067h%20-%20Grant%20application.md) | Grant application. |
+| [1067i.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067i%20-%20Cross%20program%20and%20cross%20agency%20cooperation.md) | Cross program and cross agency cooperation. |
+| [1067j.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067j%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [1067k.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20E%20-%20Minority%20Science%20and%20Engineering%20Improvement%20Program/Subpart%20003%20-%20Administrative%20and%20General%20Provisions/%C2%A7%2001067k%20-%20Definitions.md) | Definitions. |
 | 1067<i>l</i>. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—General Provisions
+#### Part F—Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions
 
 |  |  |
 | :--- | ---: |
-| [1068\.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068%20-%20Applications%20for%20assistance.md) | Applications for assistance. |
-| [1068a.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068a%20-%20Waiver%20authority%20and%20reporting%20requirement.md) | Waiver authority and reporting requirement. |
-| [1068b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068b%20-%20Application%20review%20process.md) | Application review process. |
-| [1068c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068c%20-%20Cooperative%20arrangements.md) | Cooperative arrangements. |
-| [1068d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068d%20-%20Assistance%20to%20institutions%20under%20other%20programs.md) | Assistance to institutions under other programs. |
-| [1068e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068e%20-%20Limitations.md) | Limitations. |
-| [1068f.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068f%20-%20Penalties.md) | Penalties. |
-| [1068g.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068g%20-%20Continuation%20awards.md) | Continuation awards. |
-| [1068h.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20General%20Provisions/%C2%A7%2001068h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1067q.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20F%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities%20and%20Other%20Minority-Serving%20Institutions/%C2%A7%2001067q%20-%20Investment%20in%20historically%20Black%20colleges%20and%20universities%20and%20other%20minority-serving%20institutions.md) | Investment in historically Black colleges and universities and other minority-serving institutions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [1068\.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068%20-%20Applications%20for%20assistance.md) | Applications for assistance. |
+| [1068a.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068a%20-%20Waiver%20authority%20and%20reporting%20requirement.md) | Waiver authority and reporting requirement. |
+| [1068b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068b%20-%20Application%20review%20process.md) | Application review process. |
+| [1068c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068c%20-%20Cooperative%20arrangements.md) | Cooperative arrangements. |
+| [1068d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068d%20-%20Assistance%20to%20institutions%20under%20other%20programs.md) | Assistance to institutions under other programs. |
+| [1068e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068e%20-%20Limitations.md) | Limitations. |
+| [1068f.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068f%20-%20Penalties.md) | Penalties. |
+| [1068g.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068g%20-%20Continuation%20awards.md) | Continuation awards. |
+| [1068h.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20G%20-%20General%20Provisions/%C2%A7%2001068h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -215,7 +310,7 @@ I74subpart 1—minority science and engineering improvement program
 | 1070a–15. | Postbaccalaureate achievement program authority. |
 | 1070a–16. | Educational opportunity centers. |
 | 1070a–17. | Staff development activities. |
-| 1070a–18. | Evaluations and grants for project improvement and dissemination partnership projects. |
+| 1070a–18. | Reports, evaluations, and grants for project improvement and dissemination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -225,8 +320,8 @@ I74subpart 1—minority science and engineering improvement program
 | :--- | ---: |
 | 1070a–21. | Early intervention and college awareness program authorized. |
 | 1070a–22. | Requirements. |
-| 1070a–23. | Eligible entity plans. |
-| 1070a–24. | Early intervention. |
+| 1070a–23. | Applications. |
+| 1070a–24. | Activities. |
 | 1070a–25. | Scholarship component. |
 | 1070a–26. | 21st Century Scholar Certificates. |
 | 1070a–27. | Evaluation and report. |
@@ -236,13 +331,9 @@ I74subpart 1—minority science and engineering improvement program
 
 #### Division 3—Academic Achievement Incentive Scholarships
 
-|  |  |
-| :--- | ---: |
-| 1070a–31. | Scholarships authorized. |
-| 1070a–32. | Scholarship program requirements. |
-| 1070a–33. | Eligibility of scholars. |
-| 1070a–34. | Student requirements. |
-| 1070a–35. | Authorization of appropriations. |
+|  |
+| :--- |
+| 1070a–31 to 1070a–35. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -306,7 +397,7 @@ I74subpart 1—minority science and engineering improvement program
 | 1070c–1. | Allotment among States. |
 | 1070c–2. | Applications for leveraging educational assistance partnership programs. |
 | 1070c–3. | Administration of State programs; judicial review. |
-| 1070c–3a. | Special leveraging educational assistance partnership program. |
+| 1070c–3a. | Grants for access and persistence. |
 | 1070c–4. | “Community service” defined. |
 | 1070d to 1070d–1d. Repealed. |  |
 
@@ -348,15 +439,9 @@ I74subpart 1—minority science and engineering improvement program
 
 #### subpart 8—learning anytime anywhere partnerships
 
-|  |  |
-| :--- | ---: |
-| [1070f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20A%20-%20Grants%20to%20Students%20in%20Attendance%20at%20Institutions%20of%20Higher%20Education/Subpart%20008%20-%20Learning%20Anytime%20Anywhere%20Partnerships/%C2%A7%2001070f%20-%20Findings.md) | Findings. |
-| 1070f–1. | Purpose; program authorized. |
-| 1070f–2. | Application. |
-| 1070f–3. | Authorized activities. |
-| 1070f–4. | Matching requirement. |
-| 1070f–5. | Peer review. |
-| 1070f–6. | Authorization of appropriations. |
+|  |
+| :--- |
+| 1070f to 1070f–6. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -368,6 +453,7 @@ I74subpart 1—minority science and engineering improvement program
 | 1070g–1. | Program established. |
 | 1070g–2. | Applications; eligibility. |
 | 1070g–3. | Program period and funding. |
+| 1070g–4. | Program report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -396,13 +482,15 @@ I74subpart 1—minority science and engineering improvement program
 | 1078–8. | Unsubsidized Stafford loans for middle-income borrowers. |
 | 1078–9. | Repealed. |
 | 1078–10. | Loan forgiveness for teachers. |
-| 1078–11. | Loan forgiveness for child care providers. |
+| 1078–11. | Loan forgiveness for service in areas of national need. |
+| 1078–12. | Loan repayment for civil legal assistance attorneys. |
 | [1079\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001079%20-%20Certificate%20of%20Federal%20loan%20insurance%E2%80%94effective%20date%20of%20insurance.md) | Certificate of Federal loan insurance—effective date of insurance. |
 | [1080\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001080%20-%20Default%20of%20student%20under%20Federal%20loan%20insurance%20program.md) | Default of student under Federal loan insurance program. |
-| [1080a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001080a%20-%20Reports%20to%20credit%20bureaus%20and%20institutions%20of%20higher%20education.md) | Reports to credit bureaus and institutions of higher education. |
+| [1080a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001080a%20-%20Reports%20to%20consumer%20reporting%20agencies%20and%20institutions%20of%20higher%20education.md) | Reports to consumer reporting agencies and institutions of higher education. |
 | [1081\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001081%20-%20Insurance%20fund.md) | Insurance fund. |
 | [1082\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001082%20-%20Legal%20powers%20and%20responsibilities.md) | Legal powers and responsibilities. |
 | [1083\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001083%20-%20Student%20loan%20information%20by%20eligible%20lenders.md) | Student loan information by eligible lenders. |
+| [1083a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001083a%20-%20Consumer%20education%20information.md) | Consumer education information. |
 | [1084\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001084%20-%20Participation%20by%20Federal%20credit%20unions%20in%20Federal%2C%20State%2C%20and%20private%20student%20loan%20insurance%20programs.md) | Participation by Federal credit unions in Federal, State, and private student loan insurance programs. |
 | [1085\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001085%20-%20Definitions%20for%20student%20loan%20insurance%20program.md) | Definitions for student loan insurance program. |
 | [1086\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001086%20-%20Delegation%20of%20functions.md) | Delegation of functions. |
@@ -428,6 +516,7 @@ I74subpart 1—minority science and engineering improvement program
 | [1087g.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087g%20-%20Regulatory%20activities.md) | Regulatory activities. |
 | [1087h.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md) | Funds for administrative expenses. |
 | [1087i.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md) | Authority to sell loans. |
+| 1087i–1. | Temporary authority to purchase student loans. |
 | [1087j.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md) | Loan cancellation for teachers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -480,13 +569,16 @@ I74subpart 1—minority science and engineering improvement program
 | [1091\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091%20-%20Student%20eligibility.md) | Student eligibility. |
 | [1091a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091a%20-%20Statute%20of%20limitations%2C%20and%20State%20court%20judgments.md) | Statute of limitations, and State court judgments. |
 | [1091b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091b%20-%20Institutional%20refunds.md) | Institutional refunds. |
+| [1091c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001091c%20-%20Readmission%20requirements%20for%20servicemembers.md) | Readmission requirements for servicemembers. |
 | [1092\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092%20-%20Institutional%20and%20financial%20assistance%20information%20for%20students.md) | Institutional and financial assistance information for students. |
 | [1092a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092a%20-%20Combined%20payment%20plan.md) | Combined payment plan. |
 | [1092b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092b%20-%20National%20Student%20Loan%20Data%20System.md) | National Student Loan Data System. |
 | [1092c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092c%20-%20Simplification%20of%20lending%20process%20for%20borrowers.md) | Simplification of lending process for borrowers. |
 | [1092d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092d%20-%20Scholarship%20fraud%20assessment%20and%20awareness%20activities.md) | Scholarship fraud assessment and awareness activities. |
 | [1092e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092e%20-%20College%20access%20initiative.md) | College access initiative. |
+| [1092f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001092f%20-%20Early%20awareness%20of%20financial%20aid%20eligibility.md) | Early awareness of financial aid eligibility. |
 | [1093\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093%20-%20Distance%20education%20demonstration%20programs.md) | Distance education demonstration programs. |
+| [1093a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001093a%20-%20Articulation%20agreements.md) | Articulation agreements. |
 | [1094\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094%20-%20Program%20participation%20agreements.md) | Program participation agreements. |
 | [1094a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094a%20-%20Regulatory%20relief%20and%20improvement.md) | Regulatory relief and improvement. |
 | [1094b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001094b%20-%20Assignment%20of%20identification%20numbers.md) | Assignment of identification numbers. |
@@ -499,7 +591,7 @@ I74subpart 1—minority science and engineering improvement program
 | [1098\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098%20-%20Advisory%20Committee%20on%20Student%20Financial%20Assistance.md) | Advisory Committee on Student Financial Assistance. |
 | [1098a.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098a%20-%20Regional%20meetings%20and%20negotiated%20rulemaking.md) | Regional meetings and negotiated rulemaking. |
 | [1098b.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098b%20-%20Authorization%20of%20appropriations%20for%20administrative%20expenses.md) | Authorization of appropriations for administrative expenses. |
-| [1098c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098c%20-%20Year%202000%20requirements%20at%20the%20Department.md) | Year 2000 requirements at the Department. |
+| [1098c.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098c%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93315%2C%20title%20IV%2C%20%C2%A7494E%2C%20Aug.%2014%2C%202008%2C%20122%20Stat.%203324.md) | Repealed. |
 | [1098d.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098d%20-%20Procedures%20for%20cancellations%20and%20deferments%20for%20eligible%20disabled%20veterans.md) | Procedures for cancellations and deferments for eligible disabled veterans. |
 | [1098e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098e%20-%20Income-based%20repayment.md) | Income-based repayment. |
 | [1098f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%20-%20General%20Provisions%20Relating%20to%20Student%20Assistance%20Programs/%C2%A7%2001098f%20-%20Deferral%20of%20loan%20repayment%20following%20active%20duty.md) | Deferral of loan repayment following active duty. |
@@ -512,10 +604,10 @@ I74subpart 1—minority science and engineering improvement program
 |  |  |
 | :--- | ---: |
 | [1098aa.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098aa%20-%20Short%20title%3B%20findings%3B%20reference.md) | Short title; findings; reference. |
-| [1098bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098bb.%20Waiver%20authority%20for%20response%20to%20military%20contingencies%20and%20national%20emergencies.md) | Waiver authority for response to military contingencies and national emergencies. |
-| [1098cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098cc.%20Tuition%20refunds%20or%20credits%20for%20members%20of%20armed%20forces.md) | Tuition refunds or credits for members of armed forces. |
-| [1098dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098dd.%20Use%20of%20professional%20judgment.md) | Use of professional judgment. |
-| [1098ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/1098ee.%20Definitions.md) | Definitions. |
+| [1098bb.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098bb%20-%20Waiver%20authority%20for%20response%20to%20military%20contingencies%20and%20national%20emergencies.md) | Waiver authority for response to military contingencies and national emergencies. |
+| [1098cc.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098cc%20-%20Tuition%20refunds%20or%20credits%20for%20members%20of%20armed%20forces.md) | Tuition refunds or credits for members of armed forces. |
+| [1098dd.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098dd%20-%20Use%20of%20professional%20judgment.md) | Use of professional judgment. |
+| [1098ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001098ee%20-%20Definitions.md) | Definitions. |
 | [1099\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20F%E2%80%931%20-%20Higher%20Education%20Relief%20Opportunities%20for%20Students/%C2%A7%2001099%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -556,11 +648,11 @@ I74subpart 1—state role
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part I—Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions
+#### Part I—Transferred
 
 |  |  |
 | :--- | ---: |
-| [1099e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20I%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities%20and%20Other%20Minority-Serving%20Institutions/%C2%A7%2001099e%20-%20Investment%20in%20historically%20Black%20colleges%20and%20universities%20and%20other%20minority-serving%20institutions.md) | Investment in historically Black colleges and universities and other minority-serving institutions. |
+| [1099e.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20I%20-%20Transferred/%C2%A7%2001099e%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -578,18 +670,29 @@ I74subpart 1—state role
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—General Provisions
+#### Part B—Promoting Postbaccalaureate Opportunities for Hispanic Americans
 
 |  |  |
 | :--- | ---: |
-| [1103\.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103%20-%20Eligibility%3B%20applications.md) | Eligibility; applications. |
-| [1103a.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103a%20-%20Waiver%20authority%20and%20reporting%20requirement.md) | Waiver authority and reporting requirement. |
-| [1103b.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103b%20-%20Application%20review%20process.md) | Application review process. |
-| [1103c.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103c%20-%20Cooperative%20arrangements.md) | Cooperative arrangements. |
-| [1103d.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103d%20-%20Assistance%20to%20institutions%20under%20other%20programs.md) | Assistance to institutions under other programs. |
-| [1103e.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103e%20-%20Limitations.md) | Limitations. |
-| [1103f.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103f%20-%20Penalties.md) | Penalties. |
-| [1103g.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20General%20Provisions/%C2%A7%2001103g%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
+| [1102\.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20Promoting%20Postbaccalaureate%20Opportunities%20for%20Hispanic%20Americans/%C2%A7%2001102%20-%20Purposes.md) | Purposes. |
+| [1102a.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20Promoting%20Postbaccalaureate%20Opportunities%20for%20Hispanic%20Americans/%C2%A7%2001102a%20-%20Program%20authority%20and%20eligibility.md) | Program authority and eligibility. |
+| [1102b.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20Promoting%20Postbaccalaureate%20Opportunities%20for%20Hispanic%20Americans/%C2%A7%2001102b%20-%20Authorized%20activities.md) | Authorized activities. |
+| [1102c.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20B%20-%20Promoting%20Postbaccalaureate%20Opportunities%20for%20Hispanic%20Americans/%C2%A7%2001102c%20-%20Application%20and%20duration.md) | Application and duration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [1103\.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103%20-%20Eligibility%3B%20applications.md) | Eligibility; applications. |
+| [1103a.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103a%20-%20Waiver%20authority%20and%20reporting%20requirement.md) | Waiver authority and reporting requirement. |
+| [1103b.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103b%20-%20Application%20review%20process.md) | Application review process. |
+| [1103c.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103c%20-%20Cooperative%20arrangements.md) | Cooperative arrangements. |
+| [1103d.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103d%20-%20Assistance%20to%20institutions%20under%20other%20programs.md) | Assistance to institutions under other programs. |
+| [1103e.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103e%20-%20Limitations.md) | Limitations. |
+| [1103f.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103f%20-%20Penalties.md) | Penalties. |
+| [1103g.](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/Part%20C%20-%20General%20Provisions/%C2%A7%2001103g%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -599,7 +702,7 @@ I74subpart 1—state role
 
 |  |  |
 | :--- | ---: |
-| [1121\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20A%20-%20International%20and%20Foreign%20Language%20Studies/%C2%A7%2001121%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
+| [1121\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20A%20-%20International%20and%20Foreign%20Language%20Studies/%C2%A7%2001121%20-%20Findings%3B%20purposes%3B%20consultation%3B%20survey.md) | Findings; purposes; consultation; survey. |
 | [1122\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20A%20-%20International%20and%20Foreign%20Language%20Studies/%C2%A7%2001122%20-%20Graduate%20and%20undergraduate%20language%20and%20area%20centers%20and%20programs.md) | Graduate and undergraduate language and area centers and programs. |
 | [1123\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20A%20-%20International%20and%20Foreign%20Language%20Studies/%C2%A7%2001123%20-%20Language%20resource%20centers.md) | Language resource centers. |
 | [1124\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20A%20-%20International%20and%20Foreign%20Language%20Studies/%C2%A7%2001124%20-%20Undergraduate%20international%20studies%20and%20foreign%20language%20programs.md) | Undergraduate international studies and foreign language programs. |
@@ -630,8 +733,9 @@ I74subpart 1—state role
 | [1131\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131%20-%20Minority%20foreign%20service%20professional%20development%20program.md) | Minority foreign service professional development program. |
 | 1131–1. | Institutional development. |
 | [1131a.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131a%20-%20Study%20abroad%20program.md) | Study abroad program. |
-| [1131b.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131b%20-%20Masters%20degree%20in%20international%20relations.md) | Masters degree in international relations. |
+| [1131b.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131b%20-%20Advanced%20degree%20in%20international%20relations.md) | Advanced degree in international relations. |
 | [1131c.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131c%20-%20Internships.md) | Internships. |
+| 1131c–1. | Financial assistance. |
 | [1131d.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131d%20-%20Report.md) | Report. |
 | [1131e.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131e%20-%20Gifts%20and%20donations.md) | Gifts and donations. |
 | [1131f.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20C%20-%20Institute%20for%20International%20Public%20Policy/%C2%A7%2001131f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -643,7 +747,13 @@ I74subpart 1—state role
 |  |  |
 | :--- | ---: |
 | [1132\.](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/Part%20D%20-%20General%20Provisions/%C2%A7%2001132%20-%20Definitions.md) | Definitions. |
-| 1132–1. | Repealed. |
+| 1132–1. | Special rule. |
+| 1132–2. | Rule of construction. |
+| 1132–3. | Assessment. |
+| 1132–4. | Evaluation, outreach, and information. |
+| 1132–5. | Report. |
+| 1132–6. | Science and technology advanced foreign language education grant program. |
+| 1132–7. | Reporting by institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -690,11 +800,21 @@ I74subpart 1—jacob k. javits fellowship program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart 4—general provisions
+#### subpart 4—masters degree programs at historically black colleges and universities and predominantly black institutions
 
 |  |  |
 | :--- | ---: |
-| [1137\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20A%20-%20Graduate%20Education%20Programs/Subpart%20004%20-%20General%20Provisions/%C2%A7%2001137%20-%20Administrative%20provisions%20for%20subparts%201%2C%202%2C%20and%203.md) | Administrative provisions for subparts 1, 2, and 3. |
+| [1136a.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20A%20-%20Graduate%20Education%20Programs/Subpart%20004%20-%20Masters%20Degree%20Programs%20at%20Historically%20Black%20Colleges%20and%20Universities%20and%20Predominantly%20Black%20Institutions/%C2%A7%2001136a%20-%20Masters%20degree%20programs%20at%20historically%20Black%20colleges%20and%20universities.md) | Masters degree programs at historically Black colleges and universities. |
+| [1136b.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20A%20-%20Graduate%20Education%20Programs/Subpart%20004%20-%20Masters%20Degree%20Programs%20at%20Historically%20Black%20Colleges%20and%20Universities%20and%20Predominantly%20Black%20Institutions/%C2%A7%2001136b%20-%20Masters%20degree%20programs%20at%20predominantly%20Black%20institutions.md) | Masters degree programs at predominantly Black institutions. |
+| [1136c.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20A%20-%20Graduate%20Education%20Programs/Subpart%20004%20-%20Masters%20Degree%20Programs%20at%20Historically%20Black%20Colleges%20and%20Universities%20and%20Predominantly%20Black%20Institutions/%C2%A7%2001136c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 5—general provisions
+
+|  |  |
+| :--- | ---: |
+| [1137\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20A%20-%20Graduate%20Education%20Programs/Subpart%20005%20-%20General%20Provisions/%C2%A7%2001137%20-%20Administrative%20provisions%20for%20subparts%201%20through%204.md) | Administrative provisions for subparts 1 through 4. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -712,29 +832,62 @@ I74subpart 1—jacob k. javits fellowship program
 
 #### Part C—Urban Community Service
 
-|  |  |
-| :--- | ---: |
-| [1139\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139%20-%20Findings.md) | Findings. |
-| [1139a.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139a%20-%20Purpose%3B%20program%20authorized.md) | Purpose; program authorized. |
-| [1139b.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139b%20-%20Application%20for%20urban%20community%20service%20grants.md) | Application for urban community service grants. |
-| [1139c.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139c%20-%20Allowable%20activities.md) | Allowable activities. |
-| [1139d.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139d%20-%20Peer%20review.md) | Peer review. |
-| [1139e.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139e%20-%20Disbursement%20of%20funds.md) | Disbursement of funds. |
-| [1139f.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139f%20-%20Designation%20of%20Urban%20Grant%20Institutions.md) | Designation of Urban Grant Institutions. |
-| [1139g.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139g%20-%20Definitions.md) | Definitions. |
-| [1139h.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20C%20-%20Urban%20Community%20Service/%C2%A7%2001139h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 1139 to 1139h. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Demonstration Projects To Ensure Students With Disabilities Receive a Quality Higher Education
+#### Part D—Programs To Provide Students With Disabilities With a Quality Higher Education
 
 |  |  |
 | :--- | ---: |
-| [1140\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140%20-%20Purposes.md) | Purposes. |
-| [1140a.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140a%20-%20Grants%20authorized.md) | Grants authorized. |
-| [1140b.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140b%20-%20Applications.md) | Applications. |
-| [1140c.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140c%20-%20Rule%20of%20construction.md) | Rule of construction. |
-| [1140d.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Demonstration%20Projects%20to%20Ensure%20Students%20with%20Disabilities%20Receive%20a%20Quality%20Higher%20Education/%C2%A7%2001140d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1140\.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/%C2%A7%2001140%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 1—demonstration projects to support postsecondary faculty, staff, and administrators in educating students with disabilities
+
+|  |  |
+| :--- | ---: |
+| [1140a.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20001%20-%20Demonstration%20Projects%20to%20Support%20Postsecondary%20Faculty%2C%20Staff%2C%20and%20Administrators%20in%20Educating%20Students%20with%20Disabilities/%C2%A7%2001140a%20-%20Purpose.md) | Purpose. |
+| [1140b.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20001%20-%20Demonstration%20Projects%20to%20Support%20Postsecondary%20Faculty%2C%20Staff%2C%20and%20Administrators%20in%20Educating%20Students%20with%20Disabilities/%C2%A7%2001140b%20-%20Grants%2C%20contracts%2C%20and%20cooperative%20agreements%20authorized.md) | Grants, contracts, and cooperative agreements authorized. |
+| [1140c.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20001%20-%20Demonstration%20Projects%20to%20Support%20Postsecondary%20Faculty%2C%20Staff%2C%20and%20Administrators%20in%20Educating%20Students%20with%20Disabilities/%C2%A7%2001140c%20-%20Applications.md) | Applications. |
+| [1140d.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20001%20-%20Demonstration%20Projects%20to%20Support%20Postsecondary%20Faculty%2C%20Staff%2C%20and%20Administrators%20in%20Educating%20Students%20with%20Disabilities/%C2%A7%2001140d%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| [1140e.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20001%20-%20Demonstration%20Projects%20to%20Support%20Postsecondary%20Faculty%2C%20Staff%2C%20and%20Administrators%20in%20Educating%20Students%20with%20Disabilities/%C2%A7%2001140e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—transition programs for students with intellectual disabilities into higher education
+
+|  |  |
+| :--- | ---: |
+| [1140f.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20002%20-%20Transition%20Programs%20for%20Students%20with%20Intellectual%20Disabilities%20into%20Higher%20Education/%C2%A7%2001140f%20-%20Purpose.md) | Purpose. |
+| [1140g.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20002%20-%20Transition%20Programs%20for%20Students%20with%20Intellectual%20Disabilities%20into%20Higher%20Education/%C2%A7%2001140g%20-%20Model%20comprehensive%20transition%20and%20postsecondary%20programs%20for%20students%20with%20intellectual%20disabilities.md) | Model comprehensive transition and postsecondary programs for students with intellectual disabilities. |
+| [1140h.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20002%20-%20Transition%20Programs%20for%20Students%20with%20Intellectual%20Disabilities%20into%20Higher%20Education/%C2%A7%2001140h%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| [1140i.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20002%20-%20Transition%20Programs%20for%20Students%20with%20Intellectual%20Disabilities%20into%20Higher%20Education/%C2%A7%2001140i%20-%20Authorization%20of%20appropriations%20and%20reservation.md) | Authorization of appropriations and reservation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—commission on accessible materials; programs to support improved access to materials
+
+|  |  |
+| :--- | ---: |
+| [1140k.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20003%20-%20Commission%20on%20Accessible%20Materials%3B%20Programs%20to%20Support%20Improved%20Access%20to%20Materials/%C2%A7%2001140k%20-%20Definition%20of%20student%20with%20a%20print%20disability.md) | Definition of student with a print disability. |
+| 1140<i>l.</i> | Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities. |
+| [1140m.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20003%20-%20Commission%20on%20Accessible%20Materials%3B%20Programs%20to%20Support%20Improved%20Access%20to%20Materials/%C2%A7%2001140m%20-%20Model%20demonstration%20programs%20to%20support%20improved%20access%20to%20postsecondary%20instructional%20materials%20for%20students%20with%20print%20disabilities.md) | Model demonstration programs to support improved access to postsecondary instructional materials for students with print disabilities. |
+| [1140n.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20003%20-%20Commission%20on%20Accessible%20Materials%3B%20Programs%20to%20Support%20Improved%20Access%20to%20Materials/%C2%A7%2001140n%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| 1140<i>o.</i> | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 4—national technical assistance center; coordinating center
+
+|  |  |
+| :--- | ---: |
+| [1140p.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20004%20-%20National%20Technical%20Assistance%20Center%3B%20Coordinating%20Center/%C2%A7%2001140p%20-%20Purpose.md) | Purpose. |
+| [1140q.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20004%20-%20National%20Technical%20Assistance%20Center%3B%20Coordinating%20Center/%C2%A7%2001140q%20-%20National%20technical%20assistance%20center%3B%20coordinating%20center.md) | National technical assistance center; coordinating center. |
+| [1140r.](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/Part%20D%20-%20Programs%20to%20Provide%20Students%20with%20Disabilities%20with%20a%20Quality%20Higher%20Education/Subpart%20004%20-%20National%20Technical%20Assistance%20Center%3B%20Coordinating%20Center/%C2%A7%2001140r%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -750,11 +903,246 @@ I74subpart 1—jacob k. javits fellowship program
 
 |  |  |
 | :--- | ---: |
-| [1151\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001151%20-%20Grants%20to%20States%20for%20workplace%20and%20community%20transition%20training%20for%20incarcerated%20youth%20offenders.md) | Grants to States for workplace and community transition training for incarcerated youth offenders. |
+| [1151\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001151%20-%20Grants%20to%20States%20for%20workplace%20and%20community%20transition%20training%20for%20incarcerated%20individuals.md) | Grants to States for workplace and community transition training for incarcerated individuals. |
 | [1152\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001152%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20III%2C%20%C2%A7304%28f%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203016.md) | Repealed. |
 | [1153\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001153%20-%20Underground%20Railroad%20educational%20and%20cultural%20program.md) | Underground Railroad educational and cultural program. |
 | [1154\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001154%20-%20Contract%20authority.md) | Contract authority. |
 | [1155\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001155%20-%20Connie%20Lee%20privatization.md) | Connie Lee privatization. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IX—ADDITIONAL PROGRAMS
+
+#### Part A—Project Grad
+
+|  |  |
+| :--- | ---: |
+| [1161a.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20A%20-%20Project%20GRAD/%C2%A7%2001161a%20-%20Project%20GRAD.md) | Project GRAD. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Mathematics and Science Scholars Program
+
+|  |  |
+| :--- | ---: |
+| [1161b.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20B%20-%20Mathematics%20and%20Science%20Scholars%20Program/%C2%A7%2001161b%20-%20Mathematics%20and%20science%20scholars%20program.md) | Mathematics and science scholars program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Business Workforce Partnerships for Job Skill Training in High-Growth Occupations or Industries
+
+|  |  |
+| :--- | ---: |
+| [1161c.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20C%20-%20Business%20Workforce%20Partnerships%20for%20Job%20Skill%20Training%20in%20High-Growth%20Occupations%20or%20Industries/%C2%A7%2001161c%20-%20Business%20workforce%20partnerships%20for%20job%20skill%20training%20in%20high-growth%20occupations%20or%20industries.md) | Business workforce partnerships for job skill training in high-growth occupations or industries. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—Capacity for Nursing Students and Faculty
+
+|  |  |
+| :--- | ---: |
+| [1161d.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20D%20-%20Capacity%20for%20Nursing%20Students%20and%20Faculty/%C2%A7%2001161d%20-%20Capacity%20for%20nursing%20students%20and%20faculty.md) | Capacity for nursing students and faculty. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—American History for Freedom
+
+|  |  |
+| :--- | ---: |
+| [1161e.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20E%20-%20American%20History%20for%20Freedom/%C2%A7%2001161e%20-%20American%20history%20for%20freedom.md) | American history for freedom. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—Teach For America
+
+|  |  |
+| :--- | ---: |
+| [1161f.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20F%20-%20Teach%20for%20America/%C2%A7%2001161f%20-%20Teach%20For%20America.md) | Teach For America. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Patsy T. Mink Fellowship Program
+
+|  |  |
+| :--- | ---: |
+| [1161g.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20G%20-%20Patsy%20T.%20Mink%20Fellowship%20Program/%C2%A7%2001161g%20-%20Patsy%20T.%20Mink%20fellowship%20program.md) | Patsy T. Mink fellowship program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—Improving College Enrollment By Secondary Schools
+
+|  |  |
+| :--- | ---: |
+| [1161h.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20H%20-%20Improving%20College%20Enrollment%20by%20Secondary%20Schools/%C2%A7%2001161h%20-%20Improving%20college%20enrollment%20by%20secondary%20schools.md) | Improving college enrollment by secondary schools. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—Early Childhood Education Professional Development and Career Task Force
+
+|  |  |
+| :--- | ---: |
+| [1161i.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20I%20-%20Early%20Childhood%20Education%20Professional%20Development%20and%20Career%20Task%20Force/%C2%A7%2001161i%20-%20Purpose.md) | Purpose. |
+| 1161i–1. | Definition of early childhood education program. |
+| 1161i–2. | Grants authorized. |
+| 1161i–3. | State Task Force establishment. |
+| 1161i–4. | State Task Force activities. |
+| 1161i–5. | State application and report. |
+| 1161i–6. | Evaluations. |
+| 1161i–7. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part J—Improving Science, Technology, Engineering, and Mathematics Education With a Focus on Alaska Native and Native Hawaiian Students
+
+|  |  |
+| :--- | ---: |
+| [1161j.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20J%20-%20Improving%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20Education%20with%20a%20Focus%20on%20Alaska%20Native%20and%20Native%20Hawaiian%20Students/%C2%A7%2001161j%20-%20Improving%20science%2C%20technology%2C%20engineering%2C%20and%20mathematics%20education%20with%20a%20focus%20on%20Alaska%20Native%20and%20Native%20Hawaiian%20students.md) | Improving science, technology, engineering, and mathematics education with a focus on Alaska Native and Native Hawaiian students. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part K—Pilot Programs To Increase College Persistence and Success
+
+|  |  |
+| :--- | ---: |
+| [1161k.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20K%20-%20Pilot%20Programs%20to%20Increase%20College%20Persistence%20and%20Success/%C2%A7%2001161k%20-%20Pilot%20programs%20to%20increase%20college%20persistence%20and%20success.md) | Pilot programs to increase college persistence and success. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part L—Student Safety and Campus Emergency Management
+
+|  |  |
+| :--- | ---: |
+| 1161<i>l.</i> | Student safety and campus emergency management. |
+| 1161<i>l</i>–1. | Model emergency response policies, procedures, and practices. |
+| 1161<i>l</i>–2. | Preparation for future disasters plan by the Secretary. |
+| 1161<i>l</i>–3. | Education Disaster and Emergency Relief Loan Program. |
+| 1161<i>l</i>–4. | Guidance on mental health disclosures for student safety. |
+| 1161<i>l</i>–5. | Rule of construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part M—Low Tuition
+
+|  |  |
+| :--- | ---: |
+| [1161m.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20M%20-%20Low%20Tuition/%C2%A7%2001161m%20-%20Incentives%20and%20rewards%20for%20low%20tuition.md) | Incentives and rewards for low tuition. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part N—Cooperative Education
+
+|  |  |
+| :--- | ---: |
+| [1161n.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20N%20-%20Cooperative%20Education/%C2%A7%2001161n%20-%20Statement%20of%20purpose%3B%20definition.md) | Statement of purpose; definition. |
+| 1161n–1. | Reservations. |
+| 1161n–2. | Grants for cooperative education. |
+| 1161n–3. | Demonstration and innovation projects; training and resource centers; and research. |
+| 1161n–4. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part O—College Partnership Grants
+
+|  |  |
+| :--- | ---: |
+| 1161<i>o.</i> | College partnership grants authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part P—Jobs to Careers
+
+|  |  |
+| :--- | ---: |
+| [1161p.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20P%20-%20Jobs%20to%20Careers/%C2%A7%2001161p%20-%20Grants%20to%20create%20bridges%20from%20jobs%20to%20careers.md) | Grants to create bridges from jobs to careers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part Q—Rural Development Grants for Rural-Serving Colleges and Universities
+
+|  |  |
+| :--- | ---: |
+| [1161q.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20Q%20-%20Rural%20Development%20Grants%20for%20Rural-Serving%20Colleges%20and%20Universities/%C2%A7%2001161q%20-%20Grants%20to%20rural-serving%20institutions%20of%20higher%20education.md) | Grants to rural-serving institutions of higher education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part R—Campus-Based Digital Theft Prevention
+
+|  |  |
+| :--- | ---: |
+| [1161r.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20R%20-%20Campus-Based%20Digital%20Theft%20Prevention/%C2%A7%2001161r%20-%20Campus-based%20digital%20theft%20prevention.md) | Campus-based digital theft prevention. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part S—Training for Realtime Writers
+
+|  |  |
+| :--- | ---: |
+| [1161s.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20S%20-%20Training%20for%20Realtime%20Writers/%C2%A7%2001161s%20-%20Program%20to%20promote%20training%20and%20job%20placement%20of%20realtime%20writers.md) | Program to promote training and job placement of realtime writers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part T—Centers of Excellence for Veteran Student Success
+
+|  |  |
+| :--- | ---: |
+| [1161t.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20T%20-%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success/%C2%A7%2001161t%20-%20Model%20programs%20for%20Centers%20of%20Excellence%20for%20Veteran%20Student%20Success.md) | Model programs for centers of excellence for veteran student success. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part U—University Sustainability Programs
+
+|  |  |
+| :--- | ---: |
+| [1161u.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20U%20-%20University%20Sustainability%20Programs/%C2%A7%2001161u%20-%20Sustainability%20planning%20grants%20authorized.md) | Sustainability planning grants authorized. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part V—Modeling and Simulation Programs
+
+|  |  |
+| :--- | ---: |
+| [1161v.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20V%20-%20Modeling%20and%20Simulation%20Programs/%C2%A7%2001161v%20-%20Modeling%20and%20simulation.md) | Modeling and simulation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part W—Path to Success
+
+|  |  |
+| :--- | ---: |
+| [1161w.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20W%20-%20Path%20to%20Success/%C2%A7%2001161w%20-%20Path%20to%20success.md) | Path to success. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part X—School of Veterinary Medicine Competitive Grant Program
+
+|  |  |
+| :--- | ---: |
+| [1161x.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20X%20-%20School%20of%20Veterinary%20Medicine%20Competitive%20Grant%20Program/%C2%A7%2001161x%20-%20School%20of%20veterinary%20medicine%20competitive%20grant%20program.md) | School of veterinary medicine competitive grant program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part Y—Early Federal Pell Grant Commitment Demonstration Program
+
+|  |  |
+| :--- | ---: |
+| [1161y.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20Y%20-%20Early%20Federal%20Pell%20Grant%20Commitment%20Demonstration%20Program/%C2%A7%2001161y%20-%20Early%20Federal%20Pell%20Grant%20Commitment%20Demonstration%20Program.md) | Early Federal Pell Grant Commitment Demonstration Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part Z—Henry Kuualoha Giugni Kupuna Memorial Archives
+
+|  |  |
+| :--- | ---: |
+| [1161z.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20Z%20-%20Henry%20Kuualoha%20Giugni%20Kupuna%20Memorial%20Archives/%C2%A7%2001161z%20-%20Henry%20Kuualoha%20Giugni%20Kupuna%20Memorial%20Archives.md) | Henry Kuualoha Giugni Kupuna Memorial Archives. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part AA—Masters and Postbaccalaureate Program
+
+|  |  |
+| :--- | ---: |
+| [1161aa.](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/Part%20AA%20-%20Masters%20and%20Postbaccalaureate%20Programs/%C2%A7%2001161aa%20-%20Masters%20degree%20programs.md) | Masters degree programs. |
+| 1161aa–1. | Postbaccalaureate programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -771,3 +1159,4 @@ I74subpart 1—jacob k. javits fellowship program
 - [Subchapter 006 (VI) - International Education Programs](Subchapter%20006%20%28VI%29%20-%20International%20Education%20Programs/README.md)
 - [Subchapter 007 (VII) - Graduate and Postsecondary Improvement Programs](Subchapter%20007%20%28VII%29%20-%20Graduate%20and%20Postsecondary%20Improvement%20Programs/README.md)
 - [Subchapter 008 (VIII) - Miscellaneous](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/README.md)
+- [Subchapter 009 (IX) - Additional Programs](Subchapter%20009%20%28IX%29%20-%20Additional%20Programs/README.md)

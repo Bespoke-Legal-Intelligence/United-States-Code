@@ -14,7 +14,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
-> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
+> &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extentnot previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
 #### (2) Look-back method
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interestsin such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -194,13 +194,13 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (2) Costs identified under cost-plus and certain Federal contracts
 
-&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
+&emsp;In the case of a cost-plus long-term contract or a Federal long-term contract, any cost notallocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract.
 
 #### (3) Allocation of production period interest to contract
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costsare allocated to property produced by the taxpayer under section 263A(f).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costs are allocated to property produced by the taxpayer under section 263A(f).
 
 #### (B) Production period
 
@@ -290,11 +290,11 @@ For purposes of this section—
 
 #### (4) Construction contract
 
-&emsp;For purposes of this subsection, the term “construction contract” means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+&emsp;For purposes of this subsection, the term “construction contract” means any contractfor the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
 
 #### (5) Special rule for residential construction contracts which are not home construction contracts
 
-&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shallapply except that such subsection shall be applied—
+&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
 
 &emsp;&emsp;(A) by substituting “70 percent” for “90 percent” each place it appears, and
 
@@ -352,7 +352,7 @@ For purposes of this section, the term “contract commencement date” means, w
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; (As amended Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999.)
 
 #### References in Text
 
@@ -386,7 +386,7 @@ In general.—In the case of any long-term contract—
 
 percent look-back method to apply.—Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract.”
 
-Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when suchamount is so properly taken into account)” after “any long-term contract”.
+Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)” after “any long-term contract”.
 
 Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted “paragraph (3)” for “paragraph (4)”.
 
@@ -486,7 +486,7 @@ Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as other
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicableto any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -620,7 +620,7 @@ Acceptance date.—The term ‘acceptance date’ means the date 1 year after th
 
 &emsp;“(3)
 
-Construction commencement date.—The term ‘construction commencement date’ means the date on which the physical fabrication of any section orcomponent of the ship or submarine begins in the taxpayer's shipyard.
+Construction commencement date.—The term ‘construction commencement date’ means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer's shipyard.
 
 “(d)
 

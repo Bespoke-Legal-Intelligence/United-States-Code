@@ -4,7 +4,7 @@
 
 #### (1) Emergency uses
 
-&emsp;Notwithstanding sections 355, 360(k), and 360e of this title and section 262 of title 42, and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an “emergency use”).
+&emsp;Notwithstanding sections 355, 360(k), and 360e of this title and section 262 of title 42, andsubject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an “emergency use”).
 
 #### (2) Approval status of product
 
@@ -78,7 +78,7 @@
 
 The Secretary may issue an authorization under this section with respect to the emergency use of a product only if, after consultation with the Director of the National Institutes of Health and the Director of the Centers for Disease Control and Prevention (to the extent feasible and appropriate given the circumstances of the emergency involved), the Secretary concludes—
 
-&emsp;(1) that an agent specified in a declaration under subsection (b) of this section can cause a serious or life-threatening disease or condition;
+&emsp;(1) that an agent specified in a declaration under subsection (b) of this section can causea serious or life-threatening disease or condition;
 
 &emsp;(2) that, based on the totality of scientific evidence available to the Secretary, including data from adequate and well-controlled clinical trials, if available, it is reasonable to believe that—
 
@@ -148,13 +148,13 @@ An authorization of a product under this section shall state—
 
 &emsp;With respect to the emergency use of a product that is an unapproved use of an approved product:
 
-&emsp;&emsp;(A) For a manufacturer of the product who carries out any activity for which the authorization is issued, the Secretary shall, to the extent practicable given the circumstances of the emergency, establish conditions described in clauses (i) and (ii) of paragraph (1)(A), and may establish conditions described in clauses (iii) and (iv) of such paragraph.
+&emsp;&emsp;(A) For a manufacturer of the product who carries out any activity for which the authorization is issued, the Secretary shall, tothe extent practicable given the circumstances of the emergency, establish conditions described in clauses (i) and (ii) of paragraph (1)(A), and may establish conditions described in clauses (iii) and (iv) of such paragraph.
 
 &emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
 &emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
-&emsp;&emsp;(C) The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to thedistribution and administration of the product for the approved use.
+&emsp;&emsp;(C) The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.
 
 #### (3) Good manufacturing practice
 
@@ -210,7 +210,7 @@ The following applies with respect to this section:
 
 &emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, including the armed forces, under other provisions of Federal law.
 
-&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 247d–6b of title 42).
+&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities ofa product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 247d–6b of title 42).
 
 #### (k) Relation to other provisions
 

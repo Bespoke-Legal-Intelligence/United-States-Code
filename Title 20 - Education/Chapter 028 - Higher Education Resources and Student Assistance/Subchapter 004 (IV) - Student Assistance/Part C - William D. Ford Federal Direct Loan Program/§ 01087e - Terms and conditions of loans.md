@@ -4,7 +4,7 @@
 
 #### (1) Parallel terms, conditions, benefits, and amounts
 
-&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall have the same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
+&emsp;Unless otherwise specified in this part, loans made to borrowers under this part shall havethe same terms, conditions, and benefits, and be available in the same amounts, as loans made to borrowers under sections 1078, 1078–2, 1078–3, and 1078–8 of this title.
 
 #### (2) Designation of loans
 
@@ -174,9 +174,9 @@
 
 #### (C) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaidprincipal balance of the loan that is equal to the lesser of—
 
-&emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded tothe nearest higher one-eighth of one percent; or
+&emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
 &emsp;&emsp;&emsp;(ii) 8.25 percent.
 
@@ -202,7 +202,7 @@
 
 #### (B) Accountability
 
-&emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not less than 60 days prior to the publication of regulations proposing such reductions.
+&emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the authorizing committees not less than 60 days prior to the publication of regulations proposing such reductions.
 
 #### (9) Publication
 
@@ -238,9 +238,11 @@
 
 &emsp;&emsp;(B) a graduated repayment plan, consistent with section 1078(b)(9)(A)(ii) of this title;
 
-&emsp;&emsp;(C) an extended repayment plan, consistent with section 1078(b)(9)(A)(v) of this title, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title; and
+&emsp;&emsp;(C) an extended repayment plan, consistent with section 1078(b)(9)(A)(v) of this title, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
-&emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan.
+&emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
+
+&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
 
 #### (2) Selection by Secretary
 
@@ -290,7 +292,7 @@
 
 &emsp;&emsp;(A) that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26; and
 
-&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, in accordance with criteria established by the Secretary.
+&emsp;&emsp;(B) that if a borrower considers that special circumstances, such as a loss of employment by the borrower or the borrower's spouse, warrant an adjustment in the borrower's loan repayment as determined using the information described in subparagraph (A), or the alternative documentation described in paragraph (3), the borrower may contact the Secretary, who shall determine whether such adjustment is appropriate, inaccordance with criteria established by the Secretary.
 
 #### (7) Maximum repayment period
 
@@ -356,7 +358,7 @@
 
 #### (g) Federal Direct Consolidation Loans
 
-A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(F) of this title.
+A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title. The Secretary, upon application for such a loan, shall comply with the requirements applicable to a lender under section 1078–3(b)(1)(G) of this title.
 
 #### (h) Borrower defenses
 
@@ -438,15 +440,47 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;&emsp;The term “public service job” means—
 
-&emsp;&emsp;&emsp;(i) a full-time job in emergency management, government, military service, public safety, law enforcement, public health, public education (including early childhood education), social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy in low-income communities at a nonprofit organization), public child care, public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
+&emsp;&emsp;&emsp;(i) a full-time job in emergency management, government (excluding time served as a member of Congress), military service, public safety, law enforcement, public health (including nurses, nurse practitioners, nurses in a clinical setting, and full-time professionals engaged in health care practitioner occupations and health care support occupations, as such terms are defined by the Bureau of Labor Statistics), public education, social work in a public child or family service agency, public interest law services (including prosecutionor public defense or legal advocacy on behalf of low-income communities at a nonprofit organization), early childhood education (including licensed or regulated childcare, Head Start, and State funded prekindergarten), public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
 
-&emsp;&emsp;&emsp;(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs areas, as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs subject areas or areas of shortage (including nurse faculty, foreign language faculty, and part-time faculty at community colleges), as determined by the Secretary.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21,2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800.)
+#### (4) Ineligibility for double benefits
 
-#### Amendment of Subsection (d)(1)(D)
+&emsp;No borrower may, for the same service, receive a reduction of loan obligations under both this subsection and section 1078–10, 1078–11, 1078–12, or 1087j of this title.
 
-<i>Pub. L. 110–84, §203(b)(3), (c)(1), Sept. 27, 2007, 121 Stat. 795, provided that, effective July 1, 2009, subsection (d)(1)(D) of this section is amended by inserting “made on behalf of a dependent student” after “PLUS loan”.</i>
+#### (n) Identity fraud protection
+
+The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications of the Department do not contain more than four digits of the Social Security number of any individual.
+
+#### (<i>o</i>) No accrual of interest for active duty service members
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+
+#### (2) Consolidation loans
+
+&emsp;In the case of any consolidation loan made under this part that is disbursed on or after October 1, 2008, interest shall not accrue pursuant to this subsection only on such portion of such loan as was used to repay a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+
+#### (3) Eligible military borrower
+
+&emsp;In this subsection, the term “eligible military borrower” means an individual who—
+
+&emsp;&emsp;(A)(i) is serving on active duty during a war or other military operation or national emergency; or
+
+&emsp;&emsp;(ii) is performing qualifying National Guard duty during a war or other military operation or national emergency; and
+
+&emsp;&emsp;(B) is serving in an area of hostilities in which service qualifies for special pay under section 310 of title 37.
+
+#### (4) Limitation
+
+&emsp;An individual who qualifies as an eligible military borrower under this subsection may receive the benefit of this subsection for not more than 60 months.
+
+#### (p) Disclosures
+
+Each institution of higher education with which the Secretary has an agreement under section 1087c of this title, and each contractor with which the Secretary has a contract under section 1087f of this title, shall, with respect to loans under this part and in accordance with such regulations as the Secretary shall prescribe, comply with each of the requirements under section 1083 of this title that apply to a lender with respect to a loan under part B.
+
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261.)
 
 #### References in Text
 
@@ -454,7 +488,29 @@ Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in 
 
 #### Amendments
 
+2008—Subsec. (b)(8)(B). Pub. L. 110–315, §103(b)(8), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
+Subsec. (d)(1)(E). Pub. L. 110–315, §451(a), added subpar. (E).
+
+Subsec. (g). Pub. L. 110–315, §425(b)(3), substituted “section 1078–3(b)(1)(G)” for “section 1078–3(b)(1)(F)”.
+
+Subsec. (m)(3)(B). Pub. L. 110–315, §451(b)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘public service job’ means—
+
+&emsp;“(i) a full-time job in emergency management, government, military service, public safety, law enforcement, public health, public education (including early childhood education), social work in a public child or family service agency, public interest law services (including prosecution or public defense or legal advocacy in low-income communities at a nonprofit organization), public child care, public service for individuals with disabilities, public service for the elderly, public library sciences, school-based library sciences and other school-based services, or at an organization that is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; or
+
+&emsp;“(ii) teaching as a full-time faculty member at a Tribal College or University as defined in section 1059c(b) of this title and other faculty teaching in high-needs areas, as determined by the Secretary.”
+
+Subsec. (m)(4). Pub. L. 110–315, §451(b)(2), added par. (4).
+
+Subsec. (n). Pub. L. 110–315, §451(c), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 110–315, §451(d), added subsec. (<i>o</i>).
+
+Subsec. (p). Pub. L. 110–315, §451(e), added subsec. (p).
+
 2007—Subsec. (b)(7)(D). Pub. L. 110–84, §201(b), added subpar. (D).
+
+Subsec. (d)(1)(D). Pub. L. 110–84, §203(b)(3), inserted “made on behalf of a dependent student” after “PLUS loan”.
 
 Subsec. (e)(7). Pub. L. 110–84, §205, added par. (7).
 
@@ -515,12 +571,6 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2007 Amendment
 

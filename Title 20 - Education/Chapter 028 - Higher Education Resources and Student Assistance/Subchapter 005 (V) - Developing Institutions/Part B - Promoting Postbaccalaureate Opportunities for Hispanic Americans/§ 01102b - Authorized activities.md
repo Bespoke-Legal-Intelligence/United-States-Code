@@ -1,0 +1,38 @@
+### §1102b. Authorized activities
+
+Grants awarded under this part shall be used for one or more of the following activities:
+
+&emsp;(1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes.
+
+&emsp;(2) Construction, maintenance, renovation, and improvement of classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services.
+
+&emsp;(3) Purchase of library books, periodicals, technical and other scientific journals, microfilm, microfiche, and other educational materials, including telecommunications program materials.
+
+&emsp;(4) Support for low-income postbaccalaureate students including outreach, academic support services, mentoring, scholarships, fellowships, and other financial assistance to permit the enrollment of such students in postbaccalaureate certificate and postbaccalaureate degree granting programs.
+
+&emsp;(5) Support of faculty exchanges, faculty development, faculty research, curriculum development, and academic instruction.
+
+&emsp;(6) Creating or improving facilities for Internet or other distance education technologies, including purchase or rental of telecommunications technology equipment or services.
+
+&emsp;(7) Collaboration with other institutions of higher education to expand postbaccalaureate certificate and postbaccalaureate degree offerings.
+
+&emsp;(8) Other activities proposed in the application submitted pursuant to section 1102c of this title that—
+
+&emsp;&emsp;(A) contribute to carrying out the purposes of this part; and
+
+&emsp;&emsp;(B) are approved by the Secretary as part of the review and acceptance of such application.
+
+(Pub. L. 89–329, title V, §513, as added Pub. L. 110–315, title V, §502(a)(3), Aug. 14, 2008, 122 Stat. 3332.)
+
+#### Prior Provisions
+
+A prior section 1102b, Pub. L. 89–329, title V, §503, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 658, related to local applications and use of funds, prior to the general amendment of this subchapter by Pub. L. 105–244.
+
+A prior section 513 of Pub. L. 89–329 was renumbered section 523, and is classified to section 1103b of this title.
+
+Another prior section 513 of Pub. L. 89–329 was classified to section 1103b of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
+
+Another prior section 513 of Pub. L. 89–329 was classified to section 1103b of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+
+Another prior section 513 of Pub. L. 89–329 was classified to section 1103 of this title, prior to repeal by Pub. L. 97–35.
+

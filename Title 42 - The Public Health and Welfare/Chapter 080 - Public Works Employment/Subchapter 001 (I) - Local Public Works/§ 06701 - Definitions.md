@@ -36,5 +36,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Public Works Investment Study; Preliminary Report; Final Report Within 18 Months After May 13, 1977
 
-Section 110 of Pub. L. 95–28 directed Secretary of Commerce to study public works investment in UnitedStates and implications for future of recent trends in such investment and submit a report with respect to its findings and recommendations no later than 18 months after May 13, 1977.
+Section 110 of Pub. L. 95–28 directed Secretary of Commerce to study public works investment in United States and implications for future of recent trends in such investment and submit a report with respect to its findings and recommendations no later than 18 months after May 13, 1977.
 

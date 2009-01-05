@@ -32,7 +32,7 @@ Section 2415, Pub. L. 88–210, title IV, §415, as added Pub. L. 101–392, tit
 
 Another prior section 2415, Pub. L. 88–210, title IV, §415, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2471, related to establishment by Secretary of demonstration centers for retraining of dislocated workers, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
-Section 2416, Pub. L. 88–210, title IV, §416, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 818, related to development of business and education standards.
+Section 2416, Pub. L. 88–210, title IV, §416, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat.818, related to development of business and education standards.
 
 Section 2417, Pub. L. 88–210, title IV, §417, as added Pub. L. 101–392, title IV, §406(a), Sept. 25, 1990, 104 Stat. 818, related to educational programs for Federal correctional institutions.
 
@@ -96,7 +96,7 @@ Section 2468b, Pub. L. 88–210, title V, §513, as added Pub. L. 101–392, tit
 
 Section 2468c, Pub. L. 88–210, title V, §514, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, prohibited use of funds to induce out-of-State relocation of businesses. See section 2412 of this title.
 
-Section 2468d, Pub. L. 88–210, title V, §515, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104Stat. 833, related to State administrative costs. See section 2413 of this title.
+Section 2468d, Pub. L. 88–210, title V, §515, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to State administrative costs. See section 2413 of this title.
 
 Section 2468e, Pub. L. 88–210, title V, §516, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 833, contained additional administrative provisions.
 

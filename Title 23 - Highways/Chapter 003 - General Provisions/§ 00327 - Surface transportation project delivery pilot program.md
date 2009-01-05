@@ -14,7 +14,7 @@ Assumption of responsibility.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to the other provisions of this section, with the writtenagreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+In general.—Subject to the other provisions of this section, with the written agreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -82,7 +82,7 @@ Selection criteria.—The Secretary may approve the application of a State under
 
 &emsp;(5)
 
-Other federal agency views.—If a State applies to assume a responsibility of the Secretary that would have required the Secretary to consult with another Federal agency, the Secretary shall solicit the views of the Federal agency before approving the application.
+Other federal agency views.—If a State applies to assume a responsibility of the Secretary that would have required the Secretaryto consult with another Federal agency, the Secretary shall solicit the views of the Federal agency before approving the application.
 
 (c)
 
@@ -116,7 +116,7 @@ In general.—The United States district courts shall have exclusive jurisdictio
 
 &emsp;(2)
 
-Legal standards and requirements.—A civil action under paragraph (1) shall be governed by the legal standards and requirements that would apply in such a civil action againstthe Secretary had the Secretary taken the actions in question.
+Legal standards and requirements.—A civil action under paragraph (1) shall be governed by the legal standards and requirements that would apply in such a civil action against the Secretary had the Secretary taken the actions in question.
 
 &emsp;(3)
 

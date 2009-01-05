@@ -18,19 +18,27 @@ The Congress finds that—
 
 &emsp;(5) providing affordable homes in safe and healthy environments is an essential element in the special role of the United States in helping tribes and their members to improve their housing conditions and socioeconomic status;
 
-&emsp;(6) the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government should work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
+&emsp;(6) the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
 
-&emsp;(7) Federal assistance to meet these responsibilities should be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 (25 U.S.C. 450 et seq.).
+&emsp;(7) Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 (25 U.S.C. 450 et seq.).
 
-(Pub. L. 104–330, §2, Oct. 26, 1996, 110 Stat. 4017.)
+(Pub. L. 104–330, §2, Oct. 26, 1996, 110 Stat. 4017; Pub. L. 110–411, §2, Oct. 14, 2008, 122 Stat. 4320.)
 
 #### References in Text
 
 Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
+#### Amendments
+
+2008—Pars. (6), (7). Pub. L. 110–411 substituted “shall” for “should”.
+
 #### Effective Date
 
 Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–411, §1(a), Oct. 14, 2008, 122 Stat. 4319, provided that: “This Act \[enacting part B of subchapter II and sections 4184 and 4196 of this title and amending this section and sections 4103, 4111 to 4114, 4116, 4117, 4131 to 4133, 4135, 4138, 4152, 4161, 4163, 4164, 4195, and 4212 of this title\] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2008’.”
 
 #### Short Title of 2005 Amendment
 
@@ -86,7 +94,7 @@ Pub. L. 109–136, §2, Dec. 22, 2005, 119 Stat. 2643, provided that: “Congres
 
 &emsp;“(C) the Department of Agriculture has been a significant funding source for housing for Indian tribes;
 
-&emsp;“(D) to allow assistance provided under the Act and assistance provided by the Secretary of Agriculture under other law to be combined to meet the severe housing needs of Indian tribes, the Housing Act of 1949 (42 U.S.C. 1471 \[1441\] et seq.) should be amended to allow for the preference referred to in subparagraph (A) by granting an exemption from title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.); and
+&emsp;“(D) to allow assistance provided under the Act and assistance provided by the Secretary of Agriculture under other law to be combined to meet the severehousing needs of Indian tribes, the Housing Act of 1949 (42 U.S.C. 1471 \[1441\] et seq.) should be amended to allow for the preference referred to in subparagraph (A) by granting an exemption from title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.); and
 
 &emsp;“(E) federally recognized Indian tribes exercising powers of self-government are governed by the Indian Civil Rights Act (25 U.S.C. 1301 et seq.); and
 

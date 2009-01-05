@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is that such agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the Statefor the 2-year period preceding the fiscal year for which the State is applying for the grant.
+With respect to the principal agency of a State for carrying out authorized activities, a funding agreement for a grant under section 300x–21 of this title for the State for a fiscal year is that such agency will for such year maintain aggregate State expenditures for authorized activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying for the grant.
 
 #### (b) Exclusion of certain funds
 
@@ -26,7 +26,7 @@ The Secretary may exclude from the aggregate State expenditures under subsection
 
 #### (1) In general
 
-&emsp;In making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with any agreement made under subsection (a) of this section. If the Secretary determines that a State has failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x–21 of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
+&emsp;In making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary shall make a determination of whether, for the previous fiscal year, the State maintained material compliance with any agreement made under subsection (a) of this section. If the Secretary determines that a Statehas failed to maintain such compliance, the Secretary shall reduce the amount of the allotment under section 300x–21 of this title for the State for the fiscal year for which the grant is being made by an amount equal to the amount constituting such failure for the previous fiscal year.
 
 #### (2) Submission of information to Secretary
 

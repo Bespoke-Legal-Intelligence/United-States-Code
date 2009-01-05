@@ -8,7 +8,7 @@ Congress makes the following declarations:
 
 &emsp;(3) By promoting peace and security in Afghanistan and preventing a return to conflict, the United States and the international community can help ensure that Afghanistan does not again become a source for international terrorism.
 
-&emsp;(4) The United States should support the objectives agreed to on December 5, 2001, in Bonn, Germany, regarding the provisional arrangement for Afghanistan as it moves toward the establishment of permanent institutions and, in particular, should work intensively toward ensuring the future neutrality of Afghanistan, establishing the principle that neighboring countries and other countries in the region do not threaten or interfere in one another's sovereignty, territorial integrity, or political independence, including supporting diplomatic initiatives to support this goal.
+&emsp;(4) The United States should support the objectives agreed to on December 5, 2001, in Bonn, Germany, regarding the provisional arrangement for Afghanistan as it moves toward the establishment of permanent institutions and, in particular, should work intensively toward ensuring the future neutrality of Afghanistan, establishing the principle that neighboring countries and other countries in the regiondo not threaten or interfere in one another's sovereignty, territorial integrity, or political independence, including supporting diplomatic initiatives to support this goal.
 
 &emsp;(5) The special emergency situation in Afghanistan, which from the perspective of the American people combines security, humanitarian, political, law enforcement, and development imperatives, requires that the President should receive maximum flexibility in designing, coordinating, and administering efforts with respect to assistance for Afghanistan and that a temporary special program of such assistance should be established for this purpose.
 
@@ -90,7 +90,7 @@ Assistance authorized.—The President shall make increased efforts, on an urgen
 
 &emsp;“(3)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\].”
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by theAfghanistan Freedom Support Act of 2002 \[22 U.S.C. 7501 et seq.\].”
 
 \[For definition of “appropriate congressional committees” as used in section 2041 of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
 
@@ -132,7 +132,7 @@ Sense of congress.—It is the sense of Congress that the United States Governme
 
 &emsp;“(B) Use the voice and vote of the United States in relevant international organizations, including the North Atlantic Treaty Organization and the United Nations Security Council, to strengthen international commitments to assist the Government of Afghanistan in enhancing security, building national police and military forces, increasing counter-narcotics efforts, and expanding infrastructure and public services throughout the country.
 
-&emsp;“(C) Take appropriate steps to increase the assistance provided under programs of the Department ofState and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance.”
+&emsp;“(C) Take appropriate steps to increase the assistance provided under programs of the Department of State and the United States Agency for International Development throughout Afghanistan and to increase the number of personnel of those agencies in Afghanistan as necessary to support the increased assistance.”
 
 #### Declarations of General Policy
 

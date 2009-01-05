@@ -28,7 +28,7 @@ Activities.—Activities undertaken by an institute may include—
 
 (c)
 
-Application for Designation.—An institution seeking designation as a National MaritimeEnhancement Institute shall submit an application under regulations prescribed by the Secretary.
+Application for Designation.—An institution seeking designation as a National Maritime Enhancement Institute shall submit an application under regulations prescribed by the Secretary.
 
 (d)
 

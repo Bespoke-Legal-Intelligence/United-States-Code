@@ -30,7 +30,7 @@ A local educational agency and a private elementary or secondary school shall no
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in any case in which an eligible employee employed principally in an instructional capacity by any such educational agency or school requests leave under subparagraph (C) or (D) of section 2612(a)(1) of this title that is foreseeable based on planned medical treatment and the employee would be on leave for greater than 20 percent of the total number of working days in the period during which the leave would extend, the agency or school may require that such employee elect either—
+&emsp;Subject to paragraph (2), in any case in which an eligible employee employed principally in an instructional capacity by any such educational agency or school requests leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title that is foreseeable based on planned medical treatment and the employee would be on leave for greater than 20 percent of the total number of working days in the period during which the leave would extend, the agency or school may require that such employee elect either—
 
 &emsp;&emsp;(A) to take leave for periods of a particular duration, not to exceed the duration of the planned medical treatment; or
 
@@ -58,7 +58,7 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (2) Leave less than 5 weeks prior to end of term
 
-&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title during the period that commences 5 weeks prior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
+&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title during the period that commences 5 weeks prior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
 
 &emsp;&emsp;(A) the leave is of greater than 2 weeks duration; and
 
@@ -66,7 +66,7 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (3) Leave less than 3 weeks prior to end of term
 
-&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title during the period that commences 3 weeks prior to the end of the academic term and the duration of the leave is greater than 5 working days, the agency or school may require the employee to continue to take leave until the end of such term.
+&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title during the period that commences 3 weeks prior to the end of the academic term and the duration of the leave is greater than 5 working days, the agency or school may require the employee to continue to take leave until the end of such term.
 
 #### (e) Restoration to equivalent employment position
 
@@ -76,7 +76,7 @@ For purposes of determinations under section 2614(a)(1)(B) of this title (relati
 
 If a local educational agency or a private elementary or secondary school that has violated this subchapter proves to the satisfaction of the court that the agency, school, or department had reasonable grounds for believing that the underlying act or omission was not a violation of this subchapter, such court may, in the discretion of the court, reduce the amount of the liability provided for under section 2617(a)(1)(A) of this title to the amount and interest determined under clauses (i) and (ii), respectively, of such section.
 
-(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093.)
+(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, §585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b), is 
 The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsecs. (c)(1), (d)(2), (3). Pub. L. 110–181 inserted “or under section 2612(a)(3) of this title” after “section 2612(a)(1) of this title”.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 

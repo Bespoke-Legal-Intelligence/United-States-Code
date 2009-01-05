@@ -58,5 +58,5 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–174 effective upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11(a) of Pub. L. 89–174 set out as an Effective Date note under section 3531 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 89–174 effective upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executiveorder, see section 11(a) of Pub. L. 89–174 set out as an Effective Date note under section 3531 of Title 42, The Public Health and Welfare.
 

@@ -2,7 +2,7 @@
 
 #### (a) Ascertainment of amount of adjustment
 
-In computing the amount of an adjustment under this part there shall first be ascertained the tax previously determined for the taxable year with respect to which the error was made. The amount of the tax previously determined shall be the excess of—
+In computing the amount of an adjustment under this part there shall first be ascertainedthe tax previously determined for the taxable year with respect to which the error was made. The amount of the tax previously determined shall be the excess of—
 
 &emsp;(1) the sum of—
 

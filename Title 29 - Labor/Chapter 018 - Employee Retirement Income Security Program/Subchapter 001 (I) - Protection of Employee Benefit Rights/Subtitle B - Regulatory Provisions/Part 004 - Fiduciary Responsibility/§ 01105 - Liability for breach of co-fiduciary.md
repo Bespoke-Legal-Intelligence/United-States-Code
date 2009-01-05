@@ -8,7 +8,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;(2) if, by his failure to comply with section 1104(a)(1) of this title in the administration of his specific responsibilities which give rise to his status as a fiduciary, he has enabled such other fiduciary to commit a breach; or
 
-&emsp;(3) if he has knowledge of a breach by such other fiduciary, unless he makes reasonable efforts under the circumstances to remedy the breach.
+&emsp;(3) if he has knowledge of a breach by such other fiduciary, unless he makes reasonableefforts under the circumstances to remedy the breach.
 
 #### (b) Assets held by two or more trustees
 
@@ -28,7 +28,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 (1) The instrument under which a plan is maintained may expressly provide for procedures (A) for allocating fiduciary responsibilities (other than trustee responsibilities) among named fiduciaries, and (B) for named fiduciaries to designate persons other than named fiduciaries to carry out fiduciary responsibilities (other than trustee responsibilities) under the plan.
 
-(2) If a plan expressly provides for a procedure described in paragraph (1), and pursuant to suchprocedure any fiduciary responsibility of a named fiduciary is allocated to any person, or a person is designated to carry out any such responsibility, then such named fiduciary shall not be liable for an act or omission of such person in carrying out such responsibility except to the extent that—
+(2) If a plan expressly provides for a procedure described in paragraph (1), and pursuant to such procedure any fiduciary responsibility of a named fiduciary is allocated to any person, or a person is designated to carry out any such responsibility, then such named fiduciary shall not be liable for an act or omission of such person in carrying out such responsibility except to the extent that—
 
 &emsp;(A) the named fiduciary violated section 1104(a)(1) of this title—
 

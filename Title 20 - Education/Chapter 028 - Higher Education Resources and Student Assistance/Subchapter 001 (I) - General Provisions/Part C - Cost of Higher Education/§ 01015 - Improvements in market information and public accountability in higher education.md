@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(iv) number of students receiving financial assistance described in each of subclauses (I), (II), and (III) of clause (iii);
 
-&emsp;&emsp;(B) not later than 90 days after October 7, 1998, report the definitions to each institution of higher education and within a reasonable period of time thereafter inform the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives of those definitions; and
+&emsp;&emsp;(B) not later than 90 days after October 7, 1998, report the definitions to each institution of higher education and within a reasonable period of time thereafter inform the authorizing committees of those definitions; and
 
 &emsp;&emsp;(C) collect information regarding the data elements described in subparagraph (A) with respect to at least all institutions of higher education participating in programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, beginning with the information from academic year 2000–2001 and annually thereafter.
 
@@ -80,23 +80,151 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 &emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing to provide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
 
-#### (d) Student aid recipient survey
+#### (d) Promotion of the Department of Education Federal student financial aid website
 
-(1) The Secretary shall survey student aid recipients on a regular cycle, but not less than once every 3 years—
+The Secretary shall display a link to the Federal student financial aid website of the Department in a prominent place on the homepage of the Department's website.
 
-&emsp;(A) to identify the population of students receiving Federal student aid;
+#### (e) Enhanced student financial aid information
 
-&emsp;(B) to determine the income distribution and other socioeconomic characteristics of federally aided students;
+#### (1) Implementation
 
-&emsp;(C) to describe the combinations of aid from State, Federal, and private sources received by students from all income groups;
+&emsp;The Secretary shall continue to improve the usefulness and accessibility of the information provided by the Department on college planning and student financial aid.
 
-&emsp;(D) to describe the debt burden of loan recipients and their capacity to repay their education debts; and
+#### (2) Dissemination
 
-&emsp;(E) to disseminate such information in both published and machine readable form.
+&emsp;The Secretary shall continue to make the availability of the information on the Federal student financial aid website of the Department widely known, through a major media campaign and other forms of communication.
 
-(2) The survey shall be representative of full-time and part-time, undergraduate, graduate, and professional and current and former students in all types of institutions, and should be designed and administered in consultation with the Congress and the postsecondary education community.
+#### (3) Coordination
 
-(Pub. L. 89–329, title I, §131, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1602.)
+&emsp;As a part of the efforts required under this subsection, the Secretary shall create one website accessible from the Department's website that fulfills the requirements under subsections (b), (f), and (g).
+
+#### (f) Improved availability and coordination of information concerning student financial aid programs for military members and veterans
+
+#### (1) Coordination
+
+&emsp;The Secretary, in coordination with the Secretary of Defense and the Secretary of Veterans Affairs, shall create a searchable website that—
+
+&emsp;&emsp;(A) contains information, in simple and understandable terms, about all Federal and State student financial assistance, readmission requirements under section 1091c of this title, and other student services, for which members of the Armed Forces (including members of the National Guard and Reserves), veterans, and the dependents of such members or veterans may be eligible; and
+
+&emsp;&emsp;(B) is easily accessible through the website described in subsection (e)(3).
+
+#### (2) Implementation
+
+&emsp;Not later than one year after August 14, 2008, the Secretary shall make publicly available the Armed Forces information website described in paragraph (1).
+
+#### (3) Dissemination
+
+&emsp;The Secretary, in coordination with the Secretary of Defense and the Secretary of Veterans Affairs, shall make the availability of the Armed Forces information website described in paragraph (1) widely known to members of the Armed Forces (including members of the National Guard and Reserves), veterans, the dependents of such members or veterans, States, institutions of higher education, and the general public.
+
+#### (4) Definition
+
+&emsp;In this subsection, the term “Federal and State student financial assistance” means any grant, loan, work assistance, tuition assistance, scholarship, fellowship, or other form of financial aid for pursuing a postsecondary education that is—
+
+&emsp;&emsp;(A) administered, sponsored, or supported by the Department of Education, the Department of Defense, the Department of Veterans Affairs, or a State; and
+
+&emsp;&emsp;(B) available to members of the Armed Forces (including members of the NationalGuard and Reserves), veterans, or the dependents of such members or veterans.
+
+#### (g) Promotion of availability of information concerning other student financial aid programs
+
+#### (1) Definition
+
+&emsp;For purposes of this subsection, the term “nondepartmental student financial assistance program” means any grant, loan, scholarship, fellowship, or other form of financial aid for students pursuing a postsecondary education that is—
+
+&emsp;&emsp;(A) distributed directly to the student or to the student's account at an institution of higher education; and
+
+&emsp;&emsp;(B) operated, sponsored, or supported by a Federal department or agency other than the Department of Education.
+
+#### (2) Availability of other student financial aid information
+
+&emsp;The Secretary shall ensure that—
+
+&emsp;&emsp;(A) not later than 90 days after the Secretary receives the information required under paragraph (3), the eligibility requirements, application procedures, financial terms and conditions, and other relevant information for each nondepartmental student financial assistance program are searchable and accessible through the Federal student financial aid website in a manner that is simple and understandable for students and the students’ families; and
+
+&emsp;&emsp;(B) the website displaying the information described in subparagraph (A) includes a link to the National Database on Financial Assistance for the Study of Science, Technology, Engineering, and Mathematics pursuant to paragraph (4), and the information on military benefits under subsection (f), once such Database and information are available.
+
+#### (3) Nondepartmental student financial assistance programs
+
+&emsp;The Secretary shall request all Federal departments and agencies to provide the information described in paragraph (2)(A), and each Federal department or agency shall—
+
+&emsp;&emsp;(A) promptly respond to surveys or other requests from the Secretary for the information described in such paragraph; and
+
+&emsp;&emsp;(B) identify for the Secretary any nondepartmental student financial assistance program operated, sponsored, or supported by such Federal department or agency.
+
+#### (4) National STEM Database
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall establish and maintain, on the website described in subsection (e)(3), a National Database on Financial Assistance for the Study of Science, Technology, Engineering, and Mathematics (in this paragraph referred to as the “STEM Database”). The STEM Database shall consist of information on scholarships, fellowships, and other programs of Federal, State, local, and, to the maximum extent practicable, private financial assistance available for the study of science, technology, engineering, or mathematics at the postsecondary and postbaccalaureate levels.
+
+#### (B) Database contents
+
+&emsp;&emsp;The information maintained on the STEM Database shall be displayed on the website in the following manner:
+
+#### (i) Separate information
+
+&emsp;&emsp;&emsp;The STEM Database shall provide separate information for each of the fields of science, technology, engineering, and mathematics, and for postsecondary and postbaccalaureate programs of financial assistance.
+
+#### (ii) Information on targeted assistance
+
+&emsp;&emsp;&emsp;The STEM Database shall provide specific information on any program of financial assistance that is targeted to individuals based on financial need, merit, or student characteristics.
+
+#### (iii) Contact and website information
+
+&emsp;&emsp;&emsp;The STEM Database shall provide—
+
+&emsp;&emsp;&emsp;&emsp;(I) standard contact information that an interested person may use to contact a sponsor of any program of financial assistance included in the STEM Database; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if such sponsor maintains a public website, a link to the website.
+
+#### (iv) Search and match capabilities
+
+&emsp;&emsp;&emsp;The STEM Database shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) have a search capability that permits an individual to search for information on the basis of each category of the information provided through the STEM Database and on the basis of combinations of categories of the information provided, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) whether the financial assistance is need- or merit-based; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) by relevant academic majors; and
+
+&emsp;&emsp;&emsp;&emsp;(II) have a match capability that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) searches the STEM Database for all financial assistance opportunities for which an individual may be qualified to apply, based on the student characteristics provided by such individual; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) provides information to an individual for only those opportunities for which such individual is qualified, based on the student characteristics provided by such individual.
+
+#### (v) Recommendation and disclaimer
+
+&emsp;&emsp;&emsp;The STEM Database shall provide, to the users of the STEM Database—
+
+&emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
+
+#### (C) Compilation of financial assistance information
+
+&emsp;&emsp;In carrying out this paragraph, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) consult with public and private sources of scholarships, fellowships, and other programs of student financial assistance; and
+
+&emsp;&emsp;&emsp;(ii) make easily available a process for such entities to provide regular and updated information about the scholarships, fellowships, or other programs of student financial assistance.
+
+#### (D) Contract authorized
+
+&emsp;&emsp;In carrying out the requirements of this paragraph, the Secretary is authorized to enter into a contract with a private entity with demonstrated expertise in creating and maintaining databases such as the one required under this paragraph, under which contract the entity shall furnish, and regularly update, all of the information required to be maintained on the STEM Database.
+
+#### (5) Dissemination of information
+
+&emsp;The Secretary shall take such actions, on an ongoing basis, as may be necessary to disseminate information under this subsection and to encourage the use of the information by interested parties, including sending notices to secondary schools and institutions of higher education.
+
+#### (h) No user fees for Department financial aid websites
+
+No fee shall be charged to any individual to access—
+
+&emsp;(1) a database or website of the Department that provides information about higher education programs or student financial assistance, including the College Navigator website (or successor website) and the websites and databases described in this section and section 1015a of this title; or
+
+&emsp;(2) information about higher education programs or student financial assistance available through a database or website of the Department.
+
+(Pub. L. 89–329, title I, §131, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1602; amended Pub. L. 110–315, title I, §§103(b)(1), 110, Aug. 14, 2008, 122 Stat. 3088, 3094.)
 
 #### References in Text
 
@@ -114,29 +242,15 @@ Another prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 9
 
 A prior section 131 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, related to National Advisory Council on Continuing Education and was classified to section 1017 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-A prior section 1015a, Pub. L. 89–329, title I, §132, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 465, related to grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
+#### Amendments
 
-Another prior section 1015a, Pub. L. 89–329, title I, §132, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087, set out scope of lifelong learning program, prior to the general amendment of this subchapter by Pub. L. 96–374.
+2008—Subsec. (a)(3)(B). Pub. L. 110–315, §103(b)(1), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-A prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, related to activities for which grants could be used, prior to the general amendment of this subchapter by Pub. L. 105–244.
+Subsecs. (d), (e). Pub. L. 110–315, §110(a), added subsecs. (d) and (e) and struck out former subsec. (d), which required the Secretary to survey student aid recipients on a regular cycle, but not less than once every 3 years.
 
-Another prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087; amended Pub. L. 95–43, §1(a)(4), June 15, 1977, 91 Stat. 213, related to implementation of lifelong learning program by Assistant Secretary, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Subsecs. (f), (g). Pub. L. 110–315, §110(b), added subsecs. (f) and (g).
 
-A prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, defined “public broadcasting entity” for purposes of former part C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 105–244.
-
-Another prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2089, related to annual reports by Assistant Secretary and content of these reports, prior to the general amendment of this subchapter by Pub. L. 96–374.
-
-A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
-
-A prior section 1016, Pub. L. 89–329, title I, §121, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to adult learning research, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-Another prior section 1016, Pub. L. 89–329, title I, §116, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1381, provided for Federal discretionary grants, prior to the general amendment of this subchapter by Pub. L. 99–498.
-
-A prior section 1016a, Pub. L. 89–329, title I, §122, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, limited funds authorized to be appropriated, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-A prior section 1017, Pub. L. 89–329, title I, §131, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286; Pub. L. 102–54, §13(g)(1)(A), June 13, 1991, 105 Stat. 275, related to National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 102–325.
-
-Another prior section 1017, Pub. L. 89–329, title I, §117, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382; amended Pub. L. 99–386, title I, §103(a), Aug. 22, 1986, 100 Stat. 821, related to establishment and administration of the National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Subsec. (h). Pub. L. 110–315, §110(c), added subsec. (h).
 
 #### Change of Name
 
@@ -144,43 +258,9 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Student Related Debt Study Required
+#### Student-Related Debt Study Required
 
-Pub. L. 105–244, title VIII, §803, Oct. 7, 1998, 112 Stat. 1805, provided that:
+Pub. L. 105–244, title VIII, §803, Oct. 7, 1998, 112 Stat. 1805, which required the Secretary of Education to conduct a study to analyze the distribution and increase in student-related debt, submit a report to congressional committees, and include certain information as part of the comparative information provided to families about the costs of higher education, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
 
-“(a)
-
-In General.—The Secretary of Education shall conduct a study that analyzes the distribution and increase in student-related debt in terms of—
-
-&emsp;“(1) demographic characteristics, such as race or ethnicity, and family income;
-
-&emsp;“(2) type of institution and whether the institution is a public or private institution;
-
-&emsp;“(3) loan source, such as Federal, State, institutional or other, and, if the loan source is Federal, whether the loan is or is not subsidized;
-
-&emsp;“(4) academic field of study;
-
-&emsp;“(5) parent loans, and whether the parent loans are federally guaranteed, private, or property-secured such as home equity loans; and
-
-&emsp;“(6) relation of student debt or anticipated debt to—
-
-&emsp;&emsp;“(A) students’ decisions about whether and where to enroll in college and whether or how much to borrow in order to attend college;
-
-&emsp;&emsp;“(B) the length of time it takes students to earn baccalaureate degrees;
-
-&emsp;&emsp;“(C) students’ decisions about whether and where to attend graduate school;
-
-&emsp;&emsp;“(D) graduates’ employment decisions;
-
-&emsp;&emsp;“(E) graduates’ burden of repayment as reflected by the graduates’ ability to save for retirement or invest in a home; and
-
-&emsp;&emsp;“(F) students’ future earnings.
-
-“(b)
-
-Report.—After conclusion of the study required by subsection (a), the Secretary of Education shall submit a final report regarding the findings of the study to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives not later than 18 months after the date of enactment of the Higher Education Amendments of 1998 \[Oct. 7, 1998\].
-
-“(c)
-
-Information.—After the study and report under this section are concluded, the Secretary of Education shall determine which information described in subsection (a) would be useful for families to know and shall include such information as part of the comparative information provided to families about the costs of higher education under the provisions of part C of title I \[probably means part C of title I of Pub. L. 89–329, which is classified generally to this part\].”
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

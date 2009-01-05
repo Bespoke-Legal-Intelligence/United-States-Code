@@ -44,7 +44,7 @@ Maximum Period.—An exemption or renewal under subsection (b)(3)(B)(i) of this 
 
 (f)
 
-Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secretor other confidential information not relevant to the application.
+Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 
 (g)
 
@@ -52,7 +52,7 @@ Notice of Decision.—The Secretary shall publish in the Federal Register a noti
 
 (h)
 
-Permanent Label Requirement.—The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this title from which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
+Permanent Label Requirement.—The Secretary shall require a permanent label to be fixed to a motor vehicle granted an exemption under this section. The label shall either name or describe each motor vehicle safety standard prescribed under this chapter or bumper standard prescribed under chapter 325 of this titlefrom which the vehicle is exempt. The Secretary may require that written notice of an exemption be delivered by appropriate means to the dealer and the first purchaser of the vehicle other than for resale.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 105–277, div. A, §101(g) \[title III, §351(a)\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–475.)
 

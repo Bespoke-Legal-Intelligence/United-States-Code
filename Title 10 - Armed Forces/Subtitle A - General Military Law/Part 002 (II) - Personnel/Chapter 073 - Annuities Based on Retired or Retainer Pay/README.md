@@ -4,15 +4,13 @@
 | :--- | :---: | ---: |
 | [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Retired%20Serviceman%27s%20Family%20Protection%20Plan/README.md) | <b>Retired Serviceman's Family Protection Plan</b> | <b>1431</b> |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Survivor%20Benefit%20Plan/README.md) | <b>Survivor Benefit Plan</b> | <b>1447</b> |
-| [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Supplemental%20Survivor%20Benefit%20Plan/README.md) | <b>Supplemental Survivor Benefit Plan</b> | <b>1456</b> |
+| <b>\[III.</b> | <b>Repealed\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, the table of subchapters is amended by striking out the item for subchapter III.</i>
-
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, struck out item for subchapter III “Supplemental Survivor Benefit Plan”, effective Apr. 1, 2008.
 
 1990—Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(<i>l</i>)(4)(A), Nov. 5, 1990, 104 Stat. 1580, 1719, amended Pub. L. 101–189, §1404(a)(2), see 1989 Amendment note below.
 
@@ -31,4 +29,4 @@
 
 - [Subchapter 001 (I) - Retired Serviceman's Family Protection Plan](Subchapter%20001%20%28I%29%20-%20Retired%20Serviceman%27s%20Family%20Protection%20Plan/README.md)
 - [Subchapter 002 (II) - Survivor Benefit Plan](Subchapter%20002%20%28II%29%20-%20Survivor%20Benefit%20Plan/README.md)
-- [Subchapter 003 (III) - Supplemental Survivor Benefit Plan](Subchapter%20003%20%28III%29%20-%20Supplemental%20Survivor%20Benefit%20Plan/README.md)
+- [Subchapter 003 (III) - Repealed](Subchapter%20003%20%28III%29%20-%20Repealed/README.md)

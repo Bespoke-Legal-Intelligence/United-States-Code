@@ -48,7 +48,7 @@ Pub. L. 107–296, title XIII, §1313(a)(2), Nov. 25, 2002, 116 Stat. 2294, prov
 
 #### Continuation of Other Authority
 
-Pub. L. 107–296, title XIII, §1313(a)(3), Nov. 25, 2002, 116 Stat. 2294, provided that: “Any agency exercising anyvoluntary separation incentive authority in effect on the effective date of this subsection \[see Effective Date note above\] may continue to offer voluntary separation incentives consistent with that authority until that authority expires.”
+Pub. L. 107–296, title XIII, §1313(a)(3), Nov. 25, 2002, 116 Stat. 2294, provided that: “Any agency exercising any voluntary separation incentive authority in effect on the effective date of this subsection \[see Effective Date note above\] may continue to offer voluntary separation incentives consistent with that authority until that authority expires.”
 
 #### Sense of Congress
 

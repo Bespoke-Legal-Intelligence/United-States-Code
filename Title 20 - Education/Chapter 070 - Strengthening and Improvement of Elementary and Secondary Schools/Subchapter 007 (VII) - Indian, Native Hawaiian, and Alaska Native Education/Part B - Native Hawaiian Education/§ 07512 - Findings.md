@@ -116,7 +116,7 @@ Congress finds the following:
 
 Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 1993, 107 Stat. 1510, which is not classified to the Code.
 
-Joint Resolution to provide for annexing the Hawaiian Islands to the United States, approved July 7, 1898, referred to in par. (6), is act July 7, 1898, No. 55, 30 Stat. 750, known as the Newlands Resolution. For complete classification of this Act to the Code, see Tables.
+Joint Resolution to provide for annexing the Hawaiian Islands to the United States, approved July 7, 1898, referred to in par. (6), is act July 7, 1898, No. 55, 30 Stat. 750, known as the Newlands Resolution. For complete classification of this joint resolution to the Code, see Tables.
 
 The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), and (11), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 201 of the Act was classified to section 692 of Title 48.
 

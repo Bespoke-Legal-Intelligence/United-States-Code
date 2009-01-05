@@ -68,7 +68,7 @@
 
 #### (B) Special rule for identified straddles
 
-&emsp;&emsp;For purposes of paragraph (2)(A)(ii), the unrecognized gain with respect to any offsetting position shall be the excess of the fair market value of the position at the time of the determination over the fair market value of the position at the time the taxpayer identified the position as a position in an identified straddle.
+&emsp;&emsp;For purposes of paragraph (2)(A)(ii), the unrecognized gain with respect to any offsetting position shall be the excess of the fairmarket value of the position at the time of the determination over the fair market value of the position at the time the taxpayer identified the position as a position in an identified straddle.
 
 #### (C) Reporting of gain
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the positions are in the same personal property, even though such property may be in a substantially altered form,
 
-&emsp;&emsp;&emsp;(iii) the positions are in debt instruments of a similar maturity or other debt instruments described in regulations prescribed by the Secretary,
+&emsp;&emsp;&emsp;(iii) the positions are in debt instruments of a similar maturity or other debtinstruments described in regulations prescribed by the Secretary,
 
 &emsp;&emsp;&emsp;(iv) the positions are sold or marketed as offsetting positions (whether or not such positions are called a straddle, spread, butterfly, or any similar name),
 
@@ -352,7 +352,7 @@ This section shall not apply in the case of any hedging transaction (as defined 
 
 #### (f) Treatment of gain or loss and suspension of holding period where taxpayer grantor of qualified covered call option
 
-If a taxpayer holds any stock and grants a qualified covered call option to purchase such stock with a strike price less than the applicable stock price—
+If a taxpayer holds any stock and grants a qualified covered call option to purchase suchstock with a strike price less than the applicable stock price—
 
 #### (1) Treatment of loss
 
@@ -524,7 +524,7 @@ Subsection (c).—The amendment made by subsection (c) \[amending this section\]
 
 Subsection (d).—The amendment made by subsection (d) \[amending this section\] shall apply to positions established after the date of the enactment of this Act in taxable years ending after such date.”
 
-Amendment by section 102(e)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
+Amendment by section 102(e)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, intaxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
 Section 103(b), (c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

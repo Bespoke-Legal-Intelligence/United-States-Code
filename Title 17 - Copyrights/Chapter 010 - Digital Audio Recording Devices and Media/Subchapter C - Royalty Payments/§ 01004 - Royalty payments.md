@@ -6,7 +6,7 @@ Digital Audio Recording Devices.—
 
 &emsp;(1)
 
-Amount of payment.—The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States,shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device.
+Amount of payment.—The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device.
 
 &emsp;(2)
 

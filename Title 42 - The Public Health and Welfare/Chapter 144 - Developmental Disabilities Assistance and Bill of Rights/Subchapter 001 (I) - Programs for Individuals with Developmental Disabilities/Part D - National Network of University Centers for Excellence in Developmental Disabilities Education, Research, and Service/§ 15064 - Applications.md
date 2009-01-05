@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) are developed in collaboration with the consumer advisory committee established pursuant to subparagraph (E);
 
-&emsp;&emsp;&emsp;(ii) are consistent with, and to the extent feasible complement and further, the Council goals contained in the State plansubmitted under section 15024 of this title and the system goals established under section 15043 of this title; and
+&emsp;&emsp;&emsp;(ii) are consistent with, and to the extent feasible complement and further, the Council goals contained in the State plan submitted under section 15024 of this title and the system goals established under section 15043 of this title; and
 
 &emsp;&emsp;&emsp;(iii) will be reviewed and revised annually as necessary to address emerging trends and needs;
 

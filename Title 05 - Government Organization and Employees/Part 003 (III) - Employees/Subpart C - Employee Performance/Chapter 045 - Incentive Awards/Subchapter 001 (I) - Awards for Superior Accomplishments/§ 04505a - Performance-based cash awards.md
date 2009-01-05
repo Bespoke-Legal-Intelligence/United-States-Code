@@ -2,7 +2,7 @@
 
 (a)(1) An employee whose most recent performance rating was at the fully successful level or higher (or the equivalent thereof) may be paid a cash award under this section.
 
-(2) A cash award under this section shall be equal to an amount determined appropriate bythe head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if the agency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
+(2) A cash award under this section shall be equal to an amount determined appropriate by the head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if the agency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
 
 (b)(1) A cash award under this section shall be paid as a lump sum, and may not be considered to be part of the basic pay of an employee.
 

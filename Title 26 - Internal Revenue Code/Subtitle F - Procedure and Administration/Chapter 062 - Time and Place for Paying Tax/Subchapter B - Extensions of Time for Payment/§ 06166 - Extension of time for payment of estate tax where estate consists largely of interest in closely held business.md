@@ -16,7 +16,7 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or beforethe date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -180,7 +180,7 @@
 
 #### (i) Stock in qualifying lending and finance business treated as stock in an active trade or business company
 
-&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and financebusiness shall be treated as an asset which is used in carrying on a trade or business.
+&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and finance business shall be treated as an asset which is used in carrying on a trade or business.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -308,7 +308,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) the amount of tax imposed for the taxable year on the estate under chapter 1; and
 
-&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid bythe executor during the taxable year (other than any amount paid pursuant to this paragraph).
+&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid by the executor during the taxable year (other than any amount paid pursuant to this paragraph).
 
 &emsp;&emsp;(C) For purposes of this paragraph, if any stock in a corporation is treated as stock in another corporation by reason of subsection (b)(8)(A), any dividends paid by such other corporation to the corporation shall be treated as paid to the estate of the decedent to the extent attributable to the stock qualifying under subsection (a)(1).
 
@@ -470,7 +470,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule incase of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -502,7 +502,7 @@ In general.—At the election of the executor, if—
 
 &emsp;“(B)
 
-Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
+Effect of election.—Any executor who elects the application of this paragraph shall be treated ashaving made the election under paragraph (8) of section 6166(b) of such Code.”
 
 #### Effective Date of 1983 Amendment
 

@@ -610,7 +610,7 @@ Sec. 4. \[Armed Forces; amendment.\] (a) Title 10, United States Code, section 1
 
 “
 
-Sec. 5. \[Home Loan Bank Board.\] (a) Paragraph (3) of section 2 of the Federal Home Loan Bank Act, as amended, is further amended by striking out the words ‘the Virgin Islands of the United States, and the Territory of Hawaii’ and by inserting in lieu thereof the words ‘and the Virgin Islands of the United States’.
+Sec. 5. \[Home Loan Bank Board.\] (a) Paragraph (3) \[now (2)\] of section 2 of the Federal Home Loan Bank Act, as amended, is further amended by striking out the words ‘the Virgin Islands of the United States, and the Territory of Hawaii’ and by inserting in lieu thereof the words ‘and the Virgin Islands of the United States’.
 
 “(b) Section 7 of the Home Owners’ Loan Act of 1933, as amended, is further amended by striking out the words ‘Territory of Hawaii’ and inserting in lieu thereof the words ‘State of Hawaii’.
 
@@ -640,7 +640,7 @@ Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 19
 
 “
 
-Sec. 10. \[Wildlife Restoration.\] Section 2 of the Act of September 2, 1937 (50 Stat. 917), as amended, is further amended by striking out the words ‘; and the term“State” shall be construed to mean and include the several States and the Territory of Hawaii’.
+Sec. 10. \[Wildlife Restoration.\] Section 2 of the Act of September 2, 1937 (50 Stat. 917), as amended, is further amended by striking out the words ‘; and the term “State” shall be construed to mean and include the several States and the Territory of Hawaii’.
 
 “
 
@@ -724,7 +724,7 @@ Sec. 17. \[Highways.\] (a) The definition of the term ‘State’ in title 23, U
 
 “(c) Section 103(d) of title 23, United States Code, is amended to read as follows:
 
-“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to serve the national defense and, to the greatest extent possible, to connect at suitable border points with routesof continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
+“ ‘(d) The Interstate System shall be designated within the United States, including the District of Columbia, and it shall not exceed forty-one thousand miles in total extent. It shall be so located as to connect by routes, as direct as practicable, the principal metropolitan areas, cities, and industrial centers, to servethe national defense and, to the greatest extent possible, to connect at suitable border points with routes of continental importance in the Dominion of Canada and the Republic of Mexico. The routes of this system, to the greatest extent possible, shall be selected by joint action of the State highway departments of each State and the adjoining States, subject to the approval by the Secretary as provided in subsection (e) of this section. All highways or routes included in the Interstate System as finally approved, if not already coincident with the primary system, shall be added to said system without regard to the mileage limitation set forth in subsection (b) of this section. This system may be located both in rural and urban areas.’
 
 “(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
 
@@ -874,7 +874,7 @@ Sec. 30. \[Social Security Act; amendment.\] (a)(1) Paragraph (8) of subsection 
 
 “ ‘(d) For purposes of this section, the term “United States” means the fifty States and the District of Columbia.
 
-“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and, for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available fromthe Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
+“ ‘(e) Promulgations made before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska shall prescribe a Federal share for Alaska of 50 per centum and,for purposes of such promulgations, Alaska shall not be included as part of the “United States”. Promulgations made thereafter but before per capita income data for Alaska for a full three-year period are available from the Department of Commerce shall be based on satisfactory data available therefrom for Alaska for such one full year or, when such data are available for a two-year period, for such two years.’
 
 “(c)(1) The last sentence of subsection (i) of section 202 of the Social Security Act is amended by striking out ‘forty-nine’ and inserting in lieu thereof ‘fifty’.
 
@@ -964,7 +964,7 @@ Sec. 46. \[Federal Maritime Board.\] Section 18(a) of the Act of March 18, 1959 
 
 Sec. 47. \[Effective Dates.\] (a) The amendments made by section 14(a)(2)(A), by section 23(a), by paragraphs (1), (2), and (3) of section 29(d), by subsection (b), and paragraphs (1) and (3) of subsection (a), of section 30, and, except as provided in subsection (g) of this section, by section 20(b) shall be applicable in the case of promulgations or computations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after August 21, 1959.
 
-“(b) The amendments made by paragraph (2) of section 30(a) shall be effective with the beginning of thecalendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act, promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act, such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.
+“(b) The amendments made by paragraph (2) of section 30(a) shall be effective with the beginning of the calendar quarter in which this Act is enacted. The Secretary of Health, Education, and Welfare shall, as soon as possible after enactment of this Act, promulgate a Federal percentage for Hawaii determined in accordance with the provisions of subparagraph (B) of section 1101(a)(8) of the Social Security Act, such promulgation to be effective for the period beginning with the beginning of the calendar quarter in which this Act is enacted and ending with the close of June 30, 1961.
 
 “(c) The amendment made by paragraphs (1) and (2) of subsection (b) and paragraphs (1), (2), and (3) of subsection (d) of section 14 shall be applicable in the case of fiscal years beginning after June 30, 1960.
 
@@ -1010,7 +1010,7 @@ Sec. 2. \[Public trust; terms and conditions.\] Any lands, property, improvement
 
 Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, provided:
 
-WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set out above\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on anequal footing with the other States upon compliance with certain procedural requirements specified in that act; and
+WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set outabove\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on an equal footing with the other States upon compliance with certain procedural requirements specified in that act; and
 
 WHEREAS it appears from the information before me that a majority of the legal votes cast at an election on June 27, 1959, were in favor of each of the propositions required to be submitted to the people of Hawaii by section 7(b) of the act of March 18, 1959 \[set out above\]; and
 

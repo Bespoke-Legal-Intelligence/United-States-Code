@@ -17,7 +17,8 @@
 | [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [139a.](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md) | Director of Defense Research and Engineering. |
-| \[139b, 139c. Renumbered.\] |  |
+| [139b.](%C2%A7%2000139b%20-%20Director%20of%20Operational%20Energy%20Plans%20and%20Programs.md) | Director of Operational Energy Plans and Programs. |
+| \[139c. | Renumbered.\] |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | \[140a to 140c. Renumbered.\] |  |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
@@ -28,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title IX, §902(b), Oct. 14, 2008, 122 Stat. 4566, added item 139b.
 
 2006—Pub. L. 109–163, div. A, title IX, §904(b)(2), Jan. 6, 2006, 119 Stat. 3400, added item 144.
 
@@ -103,7 +106,7 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 - [&sect; 00138 - Assistant Secretaries of Defense](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
 - [&sect; 00139a - Director of Defense Research and Engineering](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md)
-- [&sect; 00139b - Renumbered &sect;2433](%C2%A7%2000139b%20-%20Renumbered%20%C2%A72433.md)
+- [&sect; 00139b - Director of Operational Energy Plans and Programs](%C2%A7%2000139b%20-%20Director%20of%20Operational%20Energy%20Plans%20and%20Programs.md)
 - [&sect; 00139c - Renumbered &sect;2434](%C2%A7%2000139c%20-%20Renumbered%20%C2%A72434.md)
 - [&sect; 00140 - General Counsel](%C2%A7%2000140%20-%20General%20Counsel.md)
 - [&sect; 00140a - Renumbered &sect;422](%C2%A7%2000140a%20-%20Renumbered%20%C2%A7422.md)

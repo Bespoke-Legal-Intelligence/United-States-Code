@@ -10,7 +10,7 @@
 
 (d) This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V,§512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### References in Text
 
@@ -42,5 +42,5 @@ Pub. L. 106–65, div. A, title V, §572(b), Oct. 5, 1999, 113 Stat. 623, provid
 
 #### Army College First Pilot Program
 
-Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, §542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, §535, title X, §1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the “Army College First” program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
+Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V,§542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111; Pub. L. 107–314, div. A, title V, §535, title X, §1062(j)(1), Dec. 2, 2002, 116 Stat. 2548, 2651, directed the Secretary of the Army to establish a pilot program, known as the “Army College First” program, to be in effect from Oct. 1, 1999, to Sept. 30, 2004, to assess whether the Army could increase the number and qualifications of persons entering the Army as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004. See section 511 of this title and section 551(b) of Pub. L. 108–375, set out as a note under section 511 of this title.
 

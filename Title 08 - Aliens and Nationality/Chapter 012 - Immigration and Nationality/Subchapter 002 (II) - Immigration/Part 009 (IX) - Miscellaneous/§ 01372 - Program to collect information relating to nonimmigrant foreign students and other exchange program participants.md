@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) the admission into the United States of the foreign student or exchange visitor program participant;
 
-&emsp;&emsp;(E) the notification to an approved institution of higher education, other approved educational institution, or exchange visitor program sponsor that the foreign student or exchange visitor participant has been admitted into the United States;
+&emsp;&emsp;(E) the notification to an approved institution of higher education, other approved educational institution, or exchange visitorprogram sponsor that the foreign student or exchange visitor participant has been admitted into the United States;
 
 &emsp;&emsp;(F) the registration and enrollment of that foreign student in such approved institution of higher education or other approved educational institution, or the participation of that exchange visitor in such designated exchange visitor program, as the case may be; and
 
@@ -92,7 +92,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(A) in the case of an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the continued approval of the institution under subparagraph (F) or (M) of section 1101(a)(15) of this title; and
 
-&emsp;&emsp;(B) in the case of an approved institution of higher education or a designated exchange visitor program, the granting of authority to issue documents to an alien demonstrating the alien's eligibility for a visa under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
+&emsp;&emsp;(B) in the case of an approved institution of higher education or a designated exchange visitor program, the granting of authority to issue documents to an alien demonstratingthe alien's eligibility for a visa under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
 
 #### (2) Effect of failure to provide information
 
@@ -120,7 +120,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (B) Use
 
-&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expendedfor the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
+&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expended for the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
 
 #### (5) Proof of payment
 

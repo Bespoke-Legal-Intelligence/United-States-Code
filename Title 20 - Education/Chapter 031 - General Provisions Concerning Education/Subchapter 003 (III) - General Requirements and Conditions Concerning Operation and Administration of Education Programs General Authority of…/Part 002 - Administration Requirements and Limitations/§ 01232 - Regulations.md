@@ -44,7 +44,7 @@ Another prior section 437 of Pub. L. 90–247 was renumbered section 447, and wa
 
 #### Amendments
 
-1994—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for“Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
+1994—Pub. L. 103–437, which directed that section 431(b)(2)(B), (d)(2), and (g) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Labor and Public Welfare”, could not be executed because this section, which was section 431 of Pub. L. 90–247, was renumbered section 437 and amended generally by Pub. L. 103–382.
 
 Pub. L. 103–382, §247, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to promulgation of regulations by Secretary, and their publication, application, disapproval by Congress, and modification subsequent to disapproval.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 Section 8 of Pub. L. 94–142 provided that:
 
-“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
+“(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c)\[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
 “(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 

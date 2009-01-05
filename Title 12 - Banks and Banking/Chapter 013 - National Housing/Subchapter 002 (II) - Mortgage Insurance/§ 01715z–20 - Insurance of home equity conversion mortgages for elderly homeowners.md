@@ -6,7 +6,7 @@ The purpose of this section is to authorize the Secretary to carry out a program
 
 &emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion of accumulated home equity into liquid assets; and
 
-&emsp;(2) to encourage and increase the involvement of mortgagees and participants in the mortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
+&emsp;(2) to encourage and increase the involvement of mortgagees and participants in themortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
 
 #### (b) Definitions
 
@@ -14,13 +14,13 @@ For purposes of this section:
 
 &emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, or whose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
 
-&emsp;(2) The terms “mortgagee”, “mortgagor”, and “State” have the meanings given such terms in section 1707 of this title.
+&emsp;(2) The terms “mortgagee”, “mortgagor”, “real estate,” <sup>1</sup> and “State” have the meanings given such terms in section 1707 of this title.
 
 &emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
 
 &emsp;(4)
 
-Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, on all stock allocated to a dwelling in a residential cooperative housing corporation, or on a leasehold—
+Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, a first or subordinate mortgage or lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a first mortgage or first lien on a leasehold—
 
 &emsp;&emsp;(A) under a lease for not less than 99 years that is renewable; or
 
@@ -28,7 +28,7 @@ Mortgage.—The term “mortgage” means a first mortgage or first lien on real
 
 &emsp;(5)
 
-First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
+First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
 #### (c) Insurance authority
 
@@ -44,13 +44,19 @@ The Secretary may, upon application by a mortgagee, insure any home equity conve
 
 To be eligible for insurance under this section, a mortgage shall—
 
-&emsp;(1) have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;
+&emsp;(1) have been originated by a mortgagee approved by the Secretary;
 
 &emsp;(2) have been executed by a mortgagor who—
 
 &emsp;&emsp;(A) qualifies as an elderly homeowner;
 
-&emsp;&emsp;(B) has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;
+&emsp;&emsp;(B) has received adequate counseling, as provided in subsection (f), by an independent third party that is not, either directly or indirectly, associated with or compensated by a party involved in—
+
+&emsp;&emsp;&emsp;(i) originating or servicing the mortgage;
+
+&emsp;&emsp;&emsp;(ii) funding the loan underlying the mortgage; or
+
+&emsp;&emsp;&emsp;(iii) the sale of annuities, investments, long-term care insurance, or any other type of financial or insurance product;
 
 &emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
 
@@ -106,9 +112,9 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;&emsp;(B) the cost for a loan term equaling the actuarial life expectancy of the mortgagor.
 
-#### (f) Information services for mortgagors
+#### (f) Counseling services and information for mortgagors
 
-The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—
+The Secretary shall provide or cause to be provided adequate counseling for the mortgagor, as described in subsection (d)(2)(B). Such counseling shall be provided by counselors that meet qualification standards and follow uniform counseling protocols. The qualification standards and counseling protocols shall be established by the Secretary within 12 months of July 30, 2008. The protocols shall require a qualified counselor to discuss with each mortgagor information which shall include—
 
 &emsp;(1) options other than a home equity conversion mortgage that are available to the homeowner, including other housing, social service, health, and financial options;
 
@@ -124,7 +130,7 @@ The Secretary shall provide or cause to be provided by entities other than the l
 
 #### (g) Limitation on insurance authority
 
-The aggregate number of mortgages insured under this section may not exceed 275,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located.
+The aggregate number of mortgages insured under this section may not exceed 275,000. In no case may the benefits of insurance under this section exceed the maximum dollar amount limitation established under section 1454(a)(2) of this title for a 1-family residence.
 
 #### (h) Administrative authority
 
@@ -146,7 +152,7 @@ The Secretary may—
 
 (2) Actions under paragraph (1) may include—
 
-&emsp;(A) disbursing funds to the mortgagor or mortgagee from the General Insurance Fund;
+&emsp;(A) disbursing funds to the mortgagor or mortgagee from the Mutual Mortgage Insurance Fund;
 
 &emsp;(B) accepting an assignment of the insured mortgage notwithstanding that the mortgagor is not in default under its terms, and calculating the amount and making the payment of the insurance claim on such assigned mortgage;
 
@@ -164,7 +170,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (1) In general
 
-&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing homeequity conversion mortgage insured under this section.
+&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing home equity conversion mortgage insured under this section.
 
 #### (2) Anti-churning disclosure
 
@@ -198,39 +204,93 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 &emsp;The Secretary may establish a limit on the origination fee that may be charged to a mortgagor under a mortgage insured under this subsection, except that such limitation shall provide that the origination fee may be fully financed with the mortgage and shall include any fees paid to correspondent mortgagees approved by the Secretary.
 
-#### (<i>l</i>) Waiver of up-front premiums for mortgages to fund long-term care insurance
+#### (<i>l</i>) Funding for counseling
+
+The Secretary may use a portion of the mortgage insurance premiums collected under the program under this section to adequately fund the counseling and disclosure activities required under subsection (f), including counseling for those homeowners who elect not to take out a home equity conversion mortgage, provided that the use of such funds is based upon accepted actuarial principles.
+
+#### (m) Authority to insure home purchase mortgage
 
 #### (1) In general
 
-&emsp;In the case of any mortgage insured under this section under which the total amount (except as provided in paragraph (2)) of all future payments described in subsection (b)(3) of this section will be used only for costs of a qualified long-term care insurance contract that covers the mortgagor or members of the household residing in the property that is subject to the mortgage, notwithstanding section 1709(c)(2) of this title, the Secretary shall not charge or collect the single premium payment otherwise required under subparagraph (A) of such section to be paid at the time of insurance.
+&emsp;Notwithstanding any other provision of this section, the Secretary may insure, upon application by a mortgagee, a home equity conversion mortgage upon such terms and conditions as the Secretary may prescribe, when the home equity conversion mortgage will be usedto purchase a 1- to 4-family dwelling unit, one unit of which the mortgagor will occupy as a primary residence, and to provide for any future payments to the mortgagor, based on available equity, as authorized under subsection (d)(9).
 
-#### (2) Authority to refinance existing mortgage and finance closing costs
+#### (2) Limitation on principal obligation
 
-&emsp;A mortgage described in paragraph (1) may provide financing of amounts that are used to satisfy outstanding mortgage obligations (in accordance with such limitations as the Secretary shall prescribe) and any amounts used for initial service charges, appraisal, inspection, and other fees (as approved by the Secretary) in connection with such mortgage, and the amount of future payments described in subsection (b)(3) of this section under the mortgage shall be reduced accordingly.
+&emsp;A home equity conversion mortgage insured pursuant to paragraph (1) shall involve a principal obligation that does not exceed the dollar amount limitation determined under section 1454(a)(2) of this title for a 1-family residence.
 
-#### (3) Definition
+#### (n) Requirements on mortgage originators
 
-&emsp;For purposes of this subsection, the term “qualified long-term care insurance contract” has the meaning given such term in section 7702B of title 26, except that such contract shall also meet the requirements of—
+#### (1) In general
 
-&emsp;&emsp;(A) sections 9 (relating to disclosure), 24 (relating to suitability), and 26 (relating to contingent nonforfeiture) of the long-term care insurance model regulation promulgated by the National Association of Insurance Commissioners (as adopted as of September 2000); and
+&emsp;The mortgagee and any other party that participates in the origination of a mortgage to be insured under this section shall—
 
-&emsp;&emsp;(B) section 8 (relating to contingent nonforfeiture) of the long-term care insurance model Act promulgated by the National Association of Insurance Commissioners (as adopted as of September 2000).
+&emsp;&emsp;(A) not participate in, be associated with, or employ any party that participates in or is associated with any other financial or insurance activity; or
 
-#### (m) Funding for counseling and consumer education and outreach
+&emsp;&emsp;(B) demonstrate to the Secretary that the mortgagee or other party maintains, or will maintain, firewalls and other safeguards designed to ensure that—
 
-Of any amounts made available for any of fiscal years 2000 through 2003 for housing counseling under section 1701x of this title, up to a total of $1,000,000 shall be available to the Secretary in each such fiscal year, in such amounts as the Secretary determines appropriate, for the following purposes in connection with home equity conversion mortgages insured under this section:
+&emsp;&emsp;&emsp;(i) individuals participating in the origination of the mortgage shall have no involvement with, or incentive to provide the mortgagor with, any other financial or insurance product; and
 
-#### (1) Counseling
+&emsp;&emsp;&emsp;(ii) the mortgagor shall not be required, directly or indirectly, as a condition of obtaining a mortgage under this section, to purchase any other financial or insurance product.
 
-&emsp;For housing counseling authorized by section 1701x of this title.
+#### (2) Approval of other parties
 
-#### (2) Consumer education
+&emsp;All parties that participate in the origination of a mortgage to be insured under this section shall be approved by the Secretary.
 
-&emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
+#### (<i>o</i>) Prohibition against requirements to purchase additional products
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316.)
+The mortgagor or any other party shall not be required by the mortgagee or any other party to purchase an insurance, annuity, or other similar product as a requirement or condition of eligibility for insurance under subsection (c), except for title insurance, hazard, flood, or other peril insurance, or other such products that are customary and normal under subsection (c), as determined by the Secretary.
+
+#### (p) Study to determine consumer protections and underwriting standards
+
+The Secretary shall conduct a study to examine and determine appropriate consumer protections and underwriting standards to ensure that the purchase of products referred to in subsection (<i>o</i>) is appropriate for the consumer. In conducting such study, the Secretary shall consult with consumer advocates (including recognized experts in consumer protection), industry representatives, representatives of counseling organizations, and other interested parties.
+
+#### (r) <sup>2</sup> Limitation on origination fees
+
+The Secretary shall establish limits on the origination fee that may be charged to a mortgagor under a mortgage insured under this section, which limitations shall—
+
+&emsp;(1) be equal to 2.0 percent of the maximum claim amount of the mortgage, up to a maximum claim amount of $200,000 plus 1 percent of any portion of the maximum claim amount that is greater than $200,000, unless adjusted thereafter on the basis of an analysis of—
+
+&emsp;&emsp;(A) the costs to mortgagors; and
+
+&emsp;&emsp;(B) the impact on the reverse mortgage market;
+
+&emsp;(2) be subject to a minimum allowable amount;
+
+&emsp;(3) provide that the origination fee may be fully financed with the mortgage;
+
+&emsp;(4) include any fees paid to correspondent mortgagees approved by the Secretary;
+
+&emsp;(5) have the same effective date as subsection (m)(2) regarding the limitation on principal obligation; and
+
+&emsp;(6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
+
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838.)
 
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–289, §2122(a)(1), inserted “ ‘real estate,’ ” after “ ‘mortgagor’, ”.
+
+Subsec. (b)(4). Pub. L. 110–289, §2122(b)(1), in introductory provisions, inserted “a first or subordinate mortgage or lien” before “on all stock”, “unit” before “in a residential”, and “a first mortgage or first lien” before “on a leasehold”.
+
+Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted “a first or subordinate lien on” before “all stock”.
+
+Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;”.
+
+Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;”.
+
+Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted “Counseling services and information for mortgagors”for “Information services for mortgagors” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—”.
+
+Subsec. (g). Pub. L. 110–289, §2122(a)(5), substituted “limitation established under section 1454(a)(2) of this title for a 1-family residence” for “established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located”.
+
+Subsec. (i)(2)(A). Pub. L. 110–289, §2118(b)(2), substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund”.
+
+Subsec. (<i>l</i>). Pub. L. 110–289, §2122(a)(8), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) related to funding for counseling and consumer education and outreach.
+
+Pub. L. 110–289, §2122(a)(6), (7), redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to waiver of up-front premiums for mortgages to fund long-term care insurance.
+
+Subsecs. (m) to (p). Pub. L. 110–289, §2122(a)(9), added subsecs. (m) to (p). Former subsec. (m) redesignated (<i>l</i>).
+
+Subsec. (r). Pub. L. 110–289, §2122(c), added subsec. (r).
 
 2006—Subsec. (g). Pub. L. 109–289 substituted “275,000” for “250,000”.
 
@@ -294,7 +354,7 @@ Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out “and that has a value
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(<i>l</i>) of the National Housing Act \[12 U.S.C.1715z–20(<i>l</i>)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
+Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(<i>l</i>) of the National Housing Act \[former 12 U.S.C. 1715z–20(<i>l</i>)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
 
 #### Effective Date of 1998 Amendment
 
@@ -306,7 +366,7 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection\[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issue any final regulations necessary to implement theamendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 Section 417(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 
@@ -321,4 +381,8 @@ Notice.—The Secretary of Housing and Urban Development shall, by interim notic
 “(B)
 
 Regulations.—The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issued only after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section).”
+
+<i><sup>1</sup></i><i> So in original. The comma probably should follow the closed quotes.</i>
+
+<i><sup>2</sup></i><i> So in original. No subsec. (q) has been enacted.</i>
 

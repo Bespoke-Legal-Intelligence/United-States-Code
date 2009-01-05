@@ -6,5 +6,5 @@ Section 853u, act June 3, 1948, ch. 390, §24, as added Pub. L. 98–498, title 
 
 Section 853v, act June 3, 1948, ch. 390, §25, as added Pub. L. 106–65, div. A, title VI, §652(c), Oct. 5, 1999, 113 Stat. 665, related to presentation of flag upon retirement. See section 3076 of this title.
 
-Section 854, acts May 22, 1917, ch. 20, §16, 40 Stat. 88; June 21, 1955, ch. 172, §2(a), 69 Stat. 169, required mental and physical examination prior to appointment or promotion. See section 3027 of this title.
+Section 854, acts May 22, 1917, ch. 20, §16, 40 Stat. 88; June 21, 1955, ch. 172, §2(a), 69 Stat. 169, required mentaland physical examination prior to appointment or promotion. See section 3027 of this title.
 

@@ -6,7 +6,7 @@ Cap on Headquarters Management Personnel.—The total number of members of the a
 
 (b)
 
-Cap on Other Personnel.—The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned to management headquarters activities or management headquarterssupport activities, may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
+Cap on Other Personnel.—The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned to management headquarters activities or management headquarters support activities, may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
 
 (c)
 
@@ -35,6 +35,10 @@ Definitions.—In this section, the terms “management headquarters activities�
 1989—Subsecs. (a), (b). Pub. L. 101–189 substituted “The” for “After September 30, 1989, the”.
 
 1987—Subsec. (e)(2). Pub. L. 100–180 inserted “the President or” after “declared by”.
+
+#### Exceptions and Adjustments to Limitations on Personnel
+
+Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and for four fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 
 #### Reductions in Defense Intelligence Agency Personnel
 
@@ -70,7 +74,7 @@ Defense Agencies and DOD Field Activities.—(1)(A) Not later than September 30,
 
 “(C) If the number of members and employees reduced under subparagraph (A) or (B) is in excess of the reduction required to be made by that subparagraph, such excess number may be applied to the number required to be reduced under paragraph (2).
 
-“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+“(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the DefenseAgencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(B) Not later than September 30, 1989, the Secretary shall carry out an additional reduction in such members and employees of not less than 5 percent of the number of such members and employees assigned or detailed to such duty on September 30, 1988.
 
@@ -84,7 +88,7 @@ Prohibition Against Certain Actions To Achieve Reductions.—Compliance with the
 
 “(d)
 
-Allocations To Be Made by Secretary of Defense.—(1) The Secretary of Defense shall allocate the reductions required to comply with the limitations in subsections (a) and (b) in a manner consistent with the efficient operation of the Department of Defense. If the Secretary determines that national security requirements dictate that a reduction (or any portion of a reduction) required by subsection (b) not be made fromthe Defense Agencies and Department of Defense Field Activities, the Secretary may allocate such reduction (or any portion of such reduction) (A) to personnel assigned or detailed to permanent duty in management headquarters activities or management headquarters support activities, or (B) to personnel assigned or detailed to permanent duty in other than management headquarters activities or management headquarters support activities, as the case may be, of the Department of Defense other than the Defense Agencies and Department of Defense Field Activities.
+Allocations To Be Made by Secretary of Defense.—(1) The Secretary of Defense shall allocate the reductions required to comply with the limitations in subsections (a) and (b) in a manner consistent with the efficient operation of the Department of Defense. If the Secretary determines that national security requirements dictate that a reduction (or any portion of a reduction) required by subsection (b) not be made from the Defense Agencies and Department of Defense Field Activities, the Secretary may allocate such reduction (or any portion of such reduction) (A) to personnel assigned or detailed to permanent duty in management headquarters activities or management headquarters support activities, or (B) to personnel assigned or detailed to permanent duty in other than management headquarters activities or management headquarters support activities, as the case may be, of the Department of Defense other than the Defense Agencies and Department of Defense Field Activities.
 
 “(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), the Secretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
 

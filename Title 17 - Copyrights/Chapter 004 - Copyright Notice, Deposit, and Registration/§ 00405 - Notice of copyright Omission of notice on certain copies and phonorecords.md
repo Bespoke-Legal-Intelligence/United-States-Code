@@ -18,7 +18,7 @@ Effect of Omission on Innocent Infringers.—Any person who innocently infringes
 
 Removal of Notice.—Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat.2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 

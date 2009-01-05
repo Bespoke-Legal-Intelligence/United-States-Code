@@ -64,7 +64,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (B) Formula
 
-&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount thatbears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
+&emsp;&emsp;The amount described in this subparagraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in subparagraph (A) of this paragraph for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) for such a grant.
 
 #### (2) Grants for improved data collection and training
 
@@ -112,7 +112,7 @@ A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this 
 
 Subsec. (a)(3), (4). Pub. L. 109–171, §7401(a)(1), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 109–239, §8(b), which directed amendment of subsec. (b) by inserting “shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and” after “highest State court”, was executed by making the insertion after “highest State court” in introductory provisions of par. (1), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–239, §8(b), which directed amendment of subsec. (b) by inserting “shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and” after “highest State court”,was executed by making the insertion after “highest State court” in introductory provisions of par. (1), to reflect the probable intent of Congress.
 
 Pub. L. 109–171, §7401(a)(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require.”
 
@@ -130,7 +130,7 @@ Subsec. (a)(1)(A). Pub. L. 107–133, §107(d)(1)(B), made technical amendment t
 
 Subsec. (a)(2). Pub. L. 107–133, §107(a)(1), added par. (2) and struck out former par. (2) which read as follows: “to implement changes deemed necessary as a result of the assessments.”
 
-Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant tosection 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
+Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
 
 &emsp;“(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
 

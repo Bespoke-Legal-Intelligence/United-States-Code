@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(v) Any election official in the State, including any local election official, may obtain immediate electronic access to the information contained in the computerized list.
 
-&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official inthe State shall be electronically entered into the computerized list on an expedited basis at the time the information is provided to the local official.
+&emsp;&emsp;&emsp;(vi) All voter registration information obtained by any local election official in the State shall be electronically entered into the computerized list on an expedited basis at the time the information is provided to the local official.
 
 &emsp;&emsp;&emsp;(vii) The chief State election official shall provide such support as may be required so that local election officials are able to enter information as described in clause (vi).
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) under section 8(a)(3)(B) of such Act (42 U.S.C. 1973gg–6(a)(3)(B)), the State shall coordinate the computerized list with State agency records on felony status; and
 
-&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), the State shall coordinate the computerized list with State agency records on death.
+&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)), theState shall coordinate the computerized list with State agency records on death.
 
 &emsp;&emsp;&emsp;(iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)), that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B)(i) the individual has not previously voted in an election for Federal office in the State; or
 
-&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction and the jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
+&emsp;&emsp;(ii) the individual has not previously voted in such an election in the jurisdiction andthe jurisdiction is located in a State that does not have a computerized list that complies with the requirements of subsection (a) of this section.
 
 #### (2) Requirements
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(i) The question “Are you a citizen of the United States of America?” and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
-&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxesfor the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
+&emsp;&emsp;&emsp;(ii) The question “Will you be 18 years of age on or before election day?” and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 
 &emsp;&emsp;&emsp;(iii) The statement “If you checked ‘no’ in response to either of these questions, do not complete this form.”.
 

@@ -10,7 +10,7 @@ Base closure law.—The term “base closure law” has the meaning given that t
 
 &emsp;(2)
 
-State.—The term “State” includes the District of Columbia, Puerto Rico, Guam,American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
+State.—The term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
 
 (b)
 

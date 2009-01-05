@@ -20,7 +20,7 @@ No participant shall be entitled to receive an annuity under this part and compe
 
 #### (e) Lump sum disability payments
 
-Notwithstanding any other law, the right of any individual entitled to an annuity under this part shall not be affected because such person has received an award of compensation in a lump sum under section 8135 of title 5, except that where such annuity is payable on account of the same disability for which compensation under such section has been paid, so much of such compensation as has been paid for any period extended beyond the date such annuity becomes effective, as determined by the Secretary of Labor, shall be refunded to the Department of Labor, to be paid into the Federal Employees’ Compensation Fund. Before such individual receives such annuity, he or she shall—
+Notwithstanding any other law, the right of any individual entitled to an annuity under this part shall not be affected because such person has received an award of compensation in alump sum under section 8135 of title 5, except that where such annuity is payable on account of the same disability for which compensation under such section has been paid, so much of such compensation as has been paid for any period extended beyond the date such annuity becomes effective, as determined by the Secretary of Labor, shall be refunded to the Department of Labor, to be paid into the Federal Employees’ Compensation Fund. Before such individual receives such annuity, he or she shall—
 
 &emsp;(1) refund to the Department of Labor the amount representing such commuted payments for such extended period, or
 

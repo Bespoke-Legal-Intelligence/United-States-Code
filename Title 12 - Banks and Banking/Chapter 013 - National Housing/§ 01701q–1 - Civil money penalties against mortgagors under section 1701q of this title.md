@@ -38,7 +38,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(I) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
-&emsp;&emsp;(J) Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared in accordance with requirements prescribed by the Secretary, and prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
+&emsp;&emsp;(J) Failure to furnish the Secretary, by the expiration of the 60-day period beginning onthe 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared in accordance with requirements prescribed by the Secretary, and prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
 
 &emsp;&emsp;(K) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information is sought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
 
@@ -82,7 +82,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -94,7 +94,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (f) Action to collect penalty
 
-If a mortgagor fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If a mortgagor fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (b) or (c) of this section, after the determination or order is no longer subject to review as provided by subsections (d)(1) and (e) of this section, the Secretary may request the Attorney General of theUnited States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagor and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (g) Settlement by Secretary
 

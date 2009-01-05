@@ -38,7 +38,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law 
 
 &emsp;(B) the term “protection order” includes—
 
-&emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against,sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+&emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -93,6 +93,44 @@ Subsec. (a)(4). Pub. L. 107–273, §11004, added par. (4) and struck out former
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+
+#### Regulations
+
+Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
+
+#### Additional Reporting on Crime
+
+Pub. L. 110–457, title II, §237(a), (b), Dec. 23, 2008, 122 Stat. 5083, provided that:
+
+“(a)
+
+Trafficking Offense Classification.—The Director of the Federal Bureau of Investigation shall—
+
+&emsp;“(1) classify the offense of human trafficking as a Part I crime in the Uniform Crime Reports;
+
+&emsp;“(2) to the extent feasible, establish subcategories for State sex crimes that involve—
+
+&emsp;&emsp;“(A) a person who is younger than 18 years of age;
+
+&emsp;&emsp;“(B) the use of force, fraud or coercion; or
+
+&emsp;&emsp;“(C) neither of the elements described in subparagraphs (A) and (B); and
+
+&emsp;“(3) classify the offense of human trafficking as a Group A offense for purpose of the National Incident-Based Reporting System.
+
+“(b)
+
+Additional Information.—The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reporting System \[probably should be “Program”\] and the National Incident-Based Reporting System to distinguish between reports of—
+
+&emsp;“(1) incidents of assisting or promoting prostitution, which shall include crimes committed by persons who—
+
+&emsp;&emsp;“(A) do not directly engage in commercial sex acts; and
+
+&emsp;&emsp;“(B) direct, manage, or profit from such acts, such as State pimping and pandering crimes;
+
+&emsp;“(2) incidents of purchasing prostitution, which shall include crimes committed by persons who purchase or attempt to purchase or trade anything of value for commercial sex acts; and
+
+&emsp;“(3) incidents of prostitution, which shall include crimes committed by persons providing or attempting to provide commercial sex acts.”
 
 #### Tribal Registry
 
@@ -284,7 +322,7 @@ Terms.—In the case of—
 
 &emsp;&emsp;“(E)
 
-Frequency of requests.—An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
+Frequency of requests.—An authorized employer may request a criminal history record information search for an employee only once every 12months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
 
 &emsp;“(2)
 
@@ -363,10 +401,6 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
 Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
-
-#### Rulemaking Relating to Access to Federal Criminal Information Databases
-
-Section 40601(b) of Pub. L. 103–322 provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
 
 #### National Crime Information Center Project 2000
 
@@ -460,7 +494,7 @@ In general.—The Attorney General shall acquire, collect, classify, and preserv
 
 &emsp;“(2)
 
-Reporting by federal agencies.—All departments and agencies within the Federal government\(including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+Reporting by federal agencies.—All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
 &emsp;“(3)
 

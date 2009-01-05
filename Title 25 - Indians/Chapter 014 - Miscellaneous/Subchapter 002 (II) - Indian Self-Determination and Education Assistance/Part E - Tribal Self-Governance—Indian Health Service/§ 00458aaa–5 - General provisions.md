@@ -54,7 +54,7 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 
 #### (B) Effective date
 
-&emsp;&emsp;The withdrawal referred to in subparagraph (A) shall become effective within the timeframe specified in the resolution whichauthorizes transfer to the participating tribal organization or inter-tribal consortium. In the absence of a specific timeframe set forth in the resolution, such withdrawal shall become effective on—
+&emsp;&emsp;The withdrawal referred to in subparagraph (A) shall become effective within the timeframe specified in the resolution which authorizes transfer to the participating tribal organization or inter-tribal consortium. In the absence of a specific timeframe set forth in the resolution, such withdrawal shall become effective on—
 
 &emsp;&emsp;&emsp;(i) the earlier of—
 

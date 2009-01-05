@@ -46,9 +46,21 @@ Eligible Projects.—The Secretary may approve a grant under this section to a S
 
 (f)
 
-Sunset.—This section shall not be in effect after September 30, 2007.
+Sunset.—This section shall not be in effect after March 31, 2009.
 
-(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511.)
+(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718.)
+
+#### Amendments
+
+2008—Subsec. (f). Pub. L. 110–330 substituted “March 31, 2009” for “September 30, 2008”.
+
+Pub. L. 110–253 substituted “September 30, 2008” for “September 30, 2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

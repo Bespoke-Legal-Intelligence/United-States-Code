@@ -332,7 +332,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (g) Inapplicability to certain programs
 
-The provisions of this section shall not apply to the National Intelligence Program, the Joint Military Intelligence Program, and Tactical and Related Activities, unless such program or anelement of such program is designated as a National Drug Control Program—
+The provisions of this section shall not apply to the National Intelligence Program, the Joint Military Intelligence Program, and Tactical and Related Activities, unless such program or an element of such program is designated as a National Drug Control Program—
 
 &emsp;(1) by the President; or
 
@@ -354,7 +354,7 @@ Nothing in this chapter shall be construed as derogating the authorities and res
 
 #### References in Text
 
-Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and (e)(2)(C), are set out in sections 5314 and 5315, respectively, of Title 5, Government Organization and Employees.
+Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and (e)(2)(C), are set out in sections5314 and 5315, respectively, of Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
@@ -426,7 +426,7 @@ Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. P
 
 #### Report on Streamlining Federal Prevention and Treatment Efforts
 
-Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
+Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that effortsof the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
 
 #### Ex. Ord. No. 12880. National Drug Control Program
 

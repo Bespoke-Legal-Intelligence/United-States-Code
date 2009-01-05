@@ -36,7 +36,7 @@
 
 #### (2) Dredged material disposal facilities
 
-&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996, shall be determined in accordance with subsection (a) of this section. The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
+&emsp;The Federal share of the cost of constructing land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for the operation and maintenance of a project and for which a contract for construction has not been awarded on or before October 12, 1996,shall be determined in accordance with subsection (a) of this section. The Federal share of operating and maintaining such facilities shall be determined in accordance with paragraph (1).
 
 #### (c) Erosion or shoaling attributable to Federal navigation works
 

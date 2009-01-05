@@ -74,7 +74,7 @@
 
 &emsp;(iii) took place on or after January 1, 1983.
 
-(B) The population growth rate of all metropolitan cities referred to in section 5302(a)(12) of this title shall be based on the population of (i) metropolitan cities other than consolidated governments the grant for which is determined under this paragraph; and (ii) cities that were metropolitan cities before their incorporation into consolidated governments. For purposes of calculating the entitlement share for the balance of the consolidated government under this paragraph, the entire balance shall be considered to have been an urban county.
+(B) The population growth rate of all metropolitan cities referred to in section 5302(a)(12) of this title shall be based on the population of (i) metropolitan cities other than consolidated governments the grant for which is determined under this paragraph; and (ii) cities that were metropolitan cities before their incorporationinto consolidated governments. For purposes of calculating the entitlement share for the balance of the consolidated government under this paragraph, the entire balance shall be considered to have been an urban county.
 
 #### (c) Reallocation of undistributed funds within same metropolitan area as original allocation; amount and calculation of reallocation grant; disaster relief
 
@@ -168,7 +168,7 @@
 
 &emsp;(B) technical assistance under paragraph (5).
 
-(7) No amount may be distributed by any State or the Secretary under this subsection to any unit of general local government located ina nonentitlement area unless such unit of general local government certifies that—
+(7) No amount may be distributed by any State or the Secretary under this subsection to any unit of general local government located in a nonentitlement area unless such unit of general local government certifies that—
 
 &emsp;(A) it will minimize displacement of persons as a result of activities assisted with such amounts;
 
@@ -186,7 +186,7 @@ The Secretary may fix such qualification or submission dates as he determines ar
 
 #### (f) Pro rata adjustment of entitlement amounts
 
-If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b) of this section, and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b) of this section. If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban counties would be entitled under subsection (b) of this section, the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b) of this section.
+If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section is insufficient to provide the amounts to which metropolitan cities and urban counties would be entitled under subsection (b) of this section, and funds are not otherwise appropriated to meet the deficiency, the Secretary shall meet the deficiency through a pro rata reduction of all amounts determined under subsection (b) of this section. If the total amount available for distribution in any fiscal year to metropolitan cities and urban counties under this section exceeds the amounts to which metropolitan cities and urban countieswould be entitled under subsection (b) of this section, the Secretary shall distribute the excess through a pro rata increase of all amounts determined under subsection (b) of this section.
 
 (Pub. L. 93–383, title I, §106, Aug. 22, 1974, 88 Stat. 642; Pub. L. 95–128, title I, §106, Oct. 12, 1977, 91 Stat. 1117; Pub. L. 96–153, title I, §103(d), (e), Dec. 21, 1979, 93 Stat. 1102; Pub. L. 96–399, title I, §§102, 103, 111(d)–(g), 112, Oct. 8, 1980, 94 Stat. 1615, 1621, 1622; Pub. L. 97–35, title III, §§304, 309(h), Aug. 13, 1981, 95 Stat. 388, 396; Pub. L. 98–181, title I, §106, Nov. 30, 1983, 97 Stat. 1164; Pub. L. 98–479, title I, §101(a)(10)–(12), Oct. 17, 1984, 98 Stat. 2219, 2220; Pub. L. 100–242, title V, §§512, 513, 517(b)(1), Feb. 5, 1988, 101 Stat. 1930, 1936; Pub. L. 100–628, title X, §1082(b), (c), Nov. 7, 1988, 102 Stat. 3277; Pub. L. 101–235, title VII, §702(b), Dec. 15, 1989, 103 Stat. 2056; Pub. L. 101–625, title IX, §§913(b), 933, Nov. 28, 1990, 104 Stat. 4392, 4403; Pub. L. 102–550, title VIII, §§802(b), 808, 811, title XII, §1204(i), Oct. 28, 1992, 106 Stat. 3845, 3850, 3940; Pub. L. 108–186, title V, §501(d), (e), Dec. 16, 2003, 117 Stat. 2697; Pub. L. 108–199, div. G, title IV, §423, Jan. 23, 2004, 118 Stat. 416.)
 
@@ -252,7 +252,7 @@ Subsec. (b)(7). Pub. L. 101–625, §913(b)(1)(A), struck out par. (7), which re
 
 “(A) For each fiscal year, the Secretary shall reserve for grants to Indian tribes, from amounts approved in appropriation Acts under section 5303 of this title for grants for the year under subsection (a) of this section, not more than 1 percent of the amounts appropriated under such section.
 
-“(B) The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+“(B) The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specificcriteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
 Subsec. (c)(1). Pub. L. 101–625, §933(1), substituted “paragraphs (2) and (4)” for “paragraph (2)” in introductory provisions.
 
@@ -300,7 +300,7 @@ Subsec. (c)(1)(B). Pub. L. 98–181, §106(b), substituted “a city or county a
 
 Subsec. (c)(3). Pub. L. 98–181, §106(c), added par. (3).
 
-Subsec. (d)(2)(A). Pub. L. 98–181, §106(d)(1), substituted “a State that has elected, in such manner andat such time as the Secretary shall prescribe” for “the State” in provisions preceding cl. (i), and inserted, following cl. (ii), “Any election to distribute funds made after the close of fiscal year 1984 is permanent and final.”
+Subsec. (d)(2)(A). Pub. L. 98–181, §106(d)(1), substituted “a State that has elected, in such manner and at such time as the Secretary shall prescribe” for “the State” in provisions preceding cl. (i), and inserted, following cl. (ii), “Any election to distribute funds made after the close of fiscal year 1984 is permanent and final.”
 
 Subsec. (d)(2)(B). Pub. L. 98–181, §106(d)(2), substituted provisions requiring the Secretary to distribute amounts allocated under par. (1) if the State has not elected to distribute such amounts, for provisions which required the Secretary to distribute such amounts where the State had elected, in such manner and before such time as prescribed by the Secretary, not to distribute such amounts, or the State had failed to submit the certifications described in subpar. (C).
 
@@ -336,7 +336,7 @@ Subsec. (c). Pub. L. 96–399, §111(d), (f), redesignated former subsec. (d) as
 
 Subsec. (d). Pub. L. 96–399, §§111(d), 112, redesignated former subsec. (e) as (d) and inserted provisions relating to preferences for units of general local government in the same metropolitan area. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 96–399, §111(d), (g), redesignated former subsec. (f) as (e) and in par. (1) struck out “allocated by the Secretary—(A) first, for grants to units of general local government outside of metropolitan areasto meet their hold-harmless needs as determined under subsection (h) of this section; and (B) second, any portion of such amount which remains after applying the provisions of subparagraph (A) shall be” after “20 per centum shall be”, redesignated former cls. (1)(B)(i) and (ii) as (1)(A) and (B), respectively, redesignated former subcls. (1)(B)(i)(I) to (III) and (1)(B)(ii)(I) to (III) as (1)(A)(i) to (iii) and (1)(B)(i) to (iii), respectively, substituted “subparagraph (A)” for “clause (i) of subparagraph (B)” and “subparagraph (B)” for “clause (ii) of subparagraph (B)”, substituted “allocated under this paragraph” for “allocated under subparagraph (B)”, substituted “such paragraph” for “such subparagraph” wherever appearing, in par. (2) struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs, which are subject to the provisions of subsection (h)(2) of this section, before making new commitments.” after “availability of appropriations.”, substituted “paragraph (1)” for “paragraph (1)(B)” wherever appearing, struck out “units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section and” after “shall be excluded”, and in par. (3) substituted “paragraph (1)” for “paragraph (1)(B)”. Former subsec. (e) was redesignated as (d).
+Subsec. (e). Pub. L. 96–399, §111(d), (g), redesignated former subsec. (f) as (e) and in par. (1) struck out “allocated by the Secretary—(A) first, for grants to units of general local government outside of metropolitan areas to meet their hold-harmless needs as determined under subsection (h) of this section; and (B) second, any portion of such amount which remains after applying the provisions of subparagraph (A) shall be” after “20 per centum shall be”, redesignated former cls. (1)(B)(i) and (ii) as (1)(A) and (B), respectively, redesignated former subcls. (1)(B)(i)(I) to (III) and (1)(B)(ii)(I) to (III) as (1)(A)(i) to (iii) and (1)(B)(i) to (iii), respectively, substituted “subparagraph (A)” for “clause (i) of subparagraph (B)” and “subparagraph (B)” for “clause (ii) of subparagraph (B)”, substituted “allocated under this paragraph” for “allocated under subparagraph (B)”, substituted “such paragraph” for “such subparagraph” wherever appearing, in par. (2) struck out “In determining whether to make such a commitment to a unit of general local government, the Secretary shall give special consideration to those communities presently carrying out comprehensive community development programs, which are subject to the provisions of subsection (h)(2) of this section, before making new commitments.” after “availability of appropriations.”, substituted “paragraph (1)” for “paragraph (1)(B)” wherever appearing, struck out “units of general local government which are entitled to hold-harmless grants pursuant to subsection (h) of this section and” after “shall be excluded”, and in par. (3) substituted “paragraph (1)” for “paragraph (1)(B)”. Former subsec. (e) was redesignated as (d).
 
 Subsec. (f). Pub. L. 96–399, §111(d), redesignated subsec. (k) as (f). Former subsec. (f) redesignated (e).
 
@@ -398,7 +398,7 @@ Subsec. (d). Pub. L. 95–128, §106(e), incorporated existing introductory text
 
 &emsp;“(B) the extent of poverty in that metropolitan area and the extent of poverty in all metropolitan areas, and
 
-&emsp;“(C) the extent of housing overcrowding in that metropolitan area and the extent of housing overcrowding in all metropolitan areas.” and declaring that “In determining the average of ratios under paragraph (2), the ratio involving the extent of poverty shall be counted twice”; struck out end clause providing that “in computing amounts under such paragraph there shall be excluded any metropolitancities, urban counties, and units of general local government which receive hold–harmless grants pursuant to subsection (h) of this section”, now constituting last sentence of par. (3); and added par. (3) provisions.
+&emsp;“(C) the extent of housing overcrowding in that metropolitan area and the extent of housing overcrowding in all metropolitan areas.” and declaring that “In determining the average of ratios under paragraph (2), the ratio involving the extent of poverty shall be counted twice”; struck out end clause providing that “in computing amounts under such paragraph there shall be excluded any metropolitan cities, urban counties, and units of general local government which receive hold–harmless grants pursuant to subsection (h) of this section”, now constituting last sentence of par. (3); and added par. (3) provisions.
 
 Subsec. (e). Pub. L. 95–128, §106(f), in first sentence, substituted “within a reasonable time” for “during such program period” and struck out “during the same period” after “shall be reallocated”.
 
@@ -428,7 +428,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Grants in fiscal year 1990.—The Secretary of Housing and Urban Development may make grants to Indian tribes pursuant to the amendments made by this section with any amounts approved in any appropriation Act under section 103 for fiscal year 1990 for grants to Indian tribes, and the first sentence of section 106(a)(1) of the Housing and Community Development Act of 1974 \[subsec. (a)(1) of this section\] (as amended by this Act) shall not apply to such grants.”
+Grants in fiscal year 1990.—The Secretary of Housing and Urban Development may make grants toIndian tribes pursuant to the amendments made by this section with any amounts approved in any appropriation Act under section 103 for fiscal year 1990 for grants to Indian tribes, and the first sentence of section 106(a)(1) of the Housing and Community Development Act of 1974 \[subsec. (a)(1) of this section\] (as amended by this Act) shall not apply to such grants.”
 
 #### Effective Date of 1989 Amendment
 
@@ -464,7 +464,7 @@ Section 307 of Pub. L. 97–35 provided that:
 
 &emsp;“(3) funds authorized for use under section 106(c) or (e) of such Act \[subsec. (c) or (e) of this section\] before October 1, 1981, shall be available for use as provided by section 106(d)(2)(A) of such Act as amended by this Act \[subsec. (d)(2)(A) of this section\].
 
-“(b) Any grant or loan which, prior to the effective date of any provision of this part \[see Effective Date note set out under section 3701 of Title 12, Banks and Banking\], was obligated and governed by any authority amended by any provision of this part \[Pub. L. 97–35, title III, §§301–315, Aug. 13, 1981, 95 Stat. 384–398\] shallcontinue to be governed by the provisions of such authority as they existed immediately before such effective date.”
+“(b) Any grant or loan which, prior to the effective date of any provision of this part \[see Effective Date note set out under section 3701 of Title 12, Banks and Banking\], was obligated and governed by any authority amended by any provision of this part \[Pub. L. 97–35, title III, §§301–315, Aug. 13, 1981, 95 Stat. 384–398\] shall continue to be governed by the provisions of such authority as they existed immediately before such effective date.”
 
 #### CDBG Assistance for United States-Mexico Border Region
 

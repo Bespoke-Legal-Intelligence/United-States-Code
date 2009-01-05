@@ -36,7 +36,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### (1) Interim reports
 
-&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
+&emsp;On or before June 9 of each year, the Commissioner shall submit to the Committee onWays and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
 
 #### (2) Termination and final report
 
@@ -72,7 +72,7 @@ In general.—The demonstration projects developed under subsection (a) shall be
 
 &emsp;&emsp;“(C) the savings that accrue to the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and other Federal programs under the project being tested.
 
-> &emsp;The Commissioner shall take into account advice provided by the Ticket to Work and Work IncentivesAdvisory Panel pursuant to section 101(f)(2)(B)(ii) of this Act \[set out as a note under section 1320b–19 of this title\].
+> &emsp;The Commissioner shall take into account advice provided by the Ticket to Work and Work Incentives Advisory Panel pursuant to section 101(f)(2)(B)(ii) of this Act \[set out as a note under section 1320b–19 of this title\].
 
 &emsp;“(2)
 
@@ -100,7 +100,7 @@ Final Report.—The Commissioner of Social Security shall submit to the Congress
 
 “(f)
 
-Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by the Secretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
+Expenditures.—Administrative expenses for demonstration projects under this section shall be paid from funds available for the administration of title II or XVIII of the Social Security Act \[subchapters II and XVIII of this chapter\], as appropriate. Benefits payable to or on behalf of individuals by reason of participation in projects under this section shall be made from the Federal Disability Insurance Trust Fund and the Federal Old-Age and Survivors Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund, as determined appropriate by theSecretary of Health and Human Services, from funds available for benefits under such title II or XVIII.”
 
 #### Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work
 

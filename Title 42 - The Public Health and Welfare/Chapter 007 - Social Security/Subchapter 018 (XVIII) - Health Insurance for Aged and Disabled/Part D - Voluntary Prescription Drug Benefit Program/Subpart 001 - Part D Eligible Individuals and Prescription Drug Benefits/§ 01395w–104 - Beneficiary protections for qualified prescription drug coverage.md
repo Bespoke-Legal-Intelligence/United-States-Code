@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) Access to specific covered part D drugs, including access through pharmacy networks.
 
-&emsp;&emsp;&emsp;(ii) How any formulary (including any tiered formulary structure) used by the sponsor functions, including a descriptionof how a part D eligible individual may obtain information on the formulary consistent with paragraph (3).
+&emsp;&emsp;&emsp;(ii) How any formulary (including any tiered formulary structure) used by the sponsor functions, including a description of how a part D eligible individual may obtain information on the formulary consistent with paragraph (3).
 
 &emsp;&emsp;&emsp;(iii) Beneficiary cost-sharing requirements and how a part D eligible individual may obtain information on such requirements, including tiered or other copayment level applicable to each drug (or class of drugs), consistent with paragraph (3).
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) the annual out-of-pocket threshold for the current year.
 
-> &emsp;&emsp;Notices under subparagraph (B) need not be provided more often than as specified by the Secretary and notices under subparagraph (B)(ii) shall take into account the application of section 1395w–102(b)(4)(C) of this title to the extent practicable, as specified by the Secretary.
+> &emsp;&emsp;Notices under subparagraph (B) need not be provided more often than as specified by theSecretary and notices under subparagraph (B)(ii) shall take into account the application of section 1395w–102(b)(4)(C) of this title to the extent practicable, as specified by the Secretary.
 
 #### (b) Access to covered part D drugs
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;In developing and reviewing the formulary, the committee shall—
 
-&emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomized clinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
+&emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomizedclinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
 
 &emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugs has therapeutic advantages in terms of safety and efficacy.
 
@@ -136,7 +136,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The formulary must include drugs within each therapeutic category and class of covered part D drugs, although not necessarily all drugs within such categories and classes.
+&emsp;&emsp;&emsp;Subject to subparagraph (G), the formulary must include drugs within each therapeutic category and class of covered part D drugs, although not necessarily all drugs within such categories and classes.
 
 #### (ii) Model guidelines
 
@@ -157,6 +157,28 @@
 #### (F) Periodic evaluation of protocols
 
 &emsp;&emsp;In connection with the formulary, the sponsor of a prescription drug plan shall provide for the periodic evaluation and analysis of treatment protocols and procedures.
+
+#### (G) Required inclusion of drugs in certain categories and classes
+
+#### (i) Identification of drugs in certain categories and classes
+
+&emsp;&emsp;&emsp;Beginning with plan year 2010, the Secretary shall identify, as appropriate, categories and classes of drugs for which both of the following criteria are met:
+
+&emsp;&emsp;&emsp;&emsp;(I) Restricted access to drugs in the category or class would have major or life threatening clinical consequences for individuals who have a disease or disorder treated by the drugs in such category or class.
+
+&emsp;&emsp;&emsp;&emsp;(II) There is significant clinical need for such individuals to have access to multiple drugs within a category or class due to unique chemical actions and pharmacological effects of the drugs within the category or class, such as drugs used in the treatment of cancer.
+
+#### (ii) Formulary requirements
+
+&emsp;&emsp;&emsp;Subject to clause (iii), PDP sponsors offering prescription drug plans shall be required to include all covered part D drugs in the categories and classes identified by the Secretary under clause (i).
+
+#### (iii) Exceptions
+
+&emsp;&emsp;&emsp;The Secretary may establish exceptions that permits <sup>1</sup> a PDP sponsor of a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under clause (ii) (or to otherwise limit access to such a drug, including through prior authorization or utilization management). Any exceptions established under the preceding sentence shall be provided under a process that—
+
+&emsp;&emsp;&emsp;&emsp;(I) ensures that any exception to such requirement is based upon scientific evidence and medical standards of practice (and, in the case of antiretroviral medications, is consistent with the Department of Health and Human Services Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents); and
+
+&emsp;&emsp;&emsp;&emsp;(II) includes a public notice and comment period.
 
 > &emsp;The requirements of this paragraph may be met by a PDP sponsor directly or through arrangements with another entity.
 
@@ -304,7 +326,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;The National Committee on Vital and Health Statistics shall develop recommendations for uniform standards relating to such requirements in consultation with the following:
 
-&emsp;&emsp;&emsp;(i) Standard setting organizations (as defined in section 1320d(8) of this title) <sup>1</sup>
+&emsp;&emsp;&emsp;(i) Standard setting organizations (as defined in section 1320d(8) of this title) <sup>2</sup>
 
 &emsp;&emsp;&emsp;(ii) Practicing physicians.
 
@@ -336,7 +358,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (iii) Voluntary participation of physicians and pharmacies
 
-&emsp;&emsp;&emsp;In order to conduct the pilot project under clause (i), the Secretary shall enter into agreements with physicians, physician groups, pharmacies, hospitals, PDP sponsors, MA organizations, and other appropriate entities under which health care professionals electronically transmit prescriptions to dispensing pharmacies and pharmacists in accordance with such standards.
+&emsp;&emsp;&emsp;In order to conduct the pilot project under clause (i), the Secretary shall enterinto agreements with physicians, physician groups, pharmacies, hospitals, PDP sponsors, MA organizations, and other appropriate entities under which health care professionals electronically transmit prescriptions to dispensing pharmacies and pharmacists in accordance with such standards.
 
 #### (iv) Evaluation and report
 
@@ -392,7 +414,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Limitation in cases on nonformulary determinations
 
-&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDPsponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformulary drug, would have adverse effects for the individual, or both.
+&emsp;A part D eligible individual who is enrolled in a prescription drug plan offered by a PDP sponsor may appeal under paragraph (1) a determination not to provide for coverage of a covered part D drug that is not on the formulary under the plan only if the prescribing physician determines that all covered part D drugs on any tier of the formulary for treatment of the same condition would not be as effective for the individual as the nonformularydrug, would have adverse effects for the individual, or both.
 
 #### (3) Treatment of nonformulary determinations
 
@@ -428,7 +450,19 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 &emsp;&emsp;The Secretary may waive subparagraph (A) in such circumstances as the Secretary may specify.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082.)
+#### (<i>l</i>) Requirements with respect to sales and marketing activities
+
+The following provisions shall apply to a PDP sponsor (and the agents, brokers, and other third parties representing such sponsor) in the same manner as such provisions apply to a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization):
+
+&emsp;(1) The prohibition under section 1395w–21(h)(4)(C) of this title on conducting activities described in section 1395w–21(j)(1) of this title.
+
+&emsp;(2) The requirement under section 1395w–21(h)(4)(D) of this title to conduct activities described in section 1395w–21(j)(2) of this title in accordance with the limitations established under such subsection.
+
+&emsp;(3) The inclusion of the plan type in the plan name under section 1395w–21(h)(6) of this title.
+
+&emsp;(4) The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581.)
 
 #### References in Text
 
@@ -437,6 +471,28 @@ Part C of subchapter XI of this chapter, referred to in subsecs. (b)(2)(B)(i) an
 Part C of this subchapter, referred to in subsecs. (d), (g)(1), and (h)(1), is classified to section 1395w–21 et seq. of this title.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(3)(C)(i). Pub. L. 110–275, §176(1), substituted “Subject to subparagraph (G), the formulary” for “The formulary”.
+
+Subsec. (b)(3)(G). Pub. L. 110–275, §176(2), added subpar. (G).
+
+Subsec. (<i>l</i>). Pub. L. 110–275, §103(a)(2), added subsec. (<i>l</i>).
+
+Subsec. (<i>l</i>)(2). Pub. L. 110–275, §103(b)(2), added par. (2).
+
+Subsec. (<i>l</i>)(3). Pub. L. 110–275, §103(c)(2), added par. (3).
+
+Subsec. (<i>l</i>)(4). Pub. L. 110–275, §103(d)(2), added par. (4).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 103(a)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(a)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+
+Amendment by section 103(b)(2) of Pub. L. 110–275 effective on a date specified by the Secretary (but in no case later than Nov. 15, 2008), see section 103(b)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
+
+Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 103(d)(3) of Pub. L. 110–275, set out as a note under section 1395w–21 of this title.
 
 #### Grants to Physicians To Implement Electronic Prescription Drug Programs
 

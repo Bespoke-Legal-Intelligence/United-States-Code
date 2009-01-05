@@ -22,7 +22,21 @@ The amount of any grant under this section shall not exceed 75 per centum of the
 
 There are authorized to be appropriated $25,000,000 for each of the fiscal years 1978 and 1979 to carry out this section. There are authorized to be appropriated $10,000,000 for the fiscal year 1980 and $15,000,000 for each of the fiscal years 1981 and 1982 to carry out this section.
 
-(Pub. L. 89–272, title II, §4009, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2819; amended Pub. L. 96–482, §31(e), Oct. 21, 1980, 94 Stat. 2353.)
+#### (e) Additional appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated to carry out this section for the Denali Commission to provide assistance to municipalities in the State of Alaska $1,500,000 for each of fiscal years 2008 through 2012.
+
+#### (2) Administration
+
+&emsp;For the purpose of carrying out this subsection, the Denali Commission shall—
+
+&emsp;&emsp;(A) be considered a State; and
+
+&emsp;&emsp;(B) comply with all other requirements and limitations of this section.
+
+(Pub. L. 89–272, title II, §4009, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2819; amended Pub. L. 96–482, §31(e), Oct. 21, 1980, 94 Stat. 2353; Pub. L. 110–234, title VI, §6009(b), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(b), June 18, 2008, 122 Stat. 1664, 1924.)
 
 #### References in Text
 
@@ -30,9 +44,19 @@ The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69
 
 The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short title note set out under section 1251 of title 33 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
 
+2008—Subsec. (e). Pub. L. 110–246, §6009(b), added subsec. (e).
+
 1980—Subsec. (d). Pub. L. 96–482 authorized appropriation of $10,000,000, $15,000,000, and $15,000,000 for fiscal years 1980, 1981, 1982, respectively.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

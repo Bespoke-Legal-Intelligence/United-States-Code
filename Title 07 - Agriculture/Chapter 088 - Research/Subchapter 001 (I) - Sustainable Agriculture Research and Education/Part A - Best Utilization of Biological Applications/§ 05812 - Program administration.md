@@ -58,7 +58,17 @@ The Secretary shall—
 
 &emsp;A member of the Regional Administrative Council or a technical committee may not participate in the discussion or recommendation of proposed projects if the member has or had a professional or business interest in, including the provision of consultancy services, the organization whose grant application is under review.
 
-(Pub. L. 101–624, title XVI, §1622, Nov. 28, 1990, 104 Stat. 3736; Pub. L. 104–127, title VIII, §860(a), (b), Apr. 4, 1996, 110 Stat. 1173.)
+(Pub. L. 101–624, title XVI, §1622, Nov. 28, 1990, 104 Stat. 3736; Pub. L. 104–127, title VIII, §860(a), (b), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7511(c)(15), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(15), June 18, 2008, 122 Stat. 1664, 2030.)
+
+#### Amendment of Subsections (a)(1) and (b)(1)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (a)(1) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research Service in close cooperation with the Extension Service” and subsection (b)(1) of this section is amended by striking out subpars. (B) and (C), redesignating subpars. (D) to (L) as (C) to (K), respectively, and adding a new subpar. (B) to read as follows:</i>
+
+&emsp;&emsp;<i>“(B) the National Institute of Food and Agriculture;”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -69,4 +79,10 @@ Subsec. (b). Pub. L. 104–127, §860(a), (b)(3), redesignated subsec. (e) as (b
 Subsec. (b)(2). Pub. L. 104–127, §860(b)(4), redesignated subpars. (B) to (F) as (A) to (E), respectively, and struck out former subpar. (A) which read as follows: “make recommendations to the Advisory Council concerning research and extension projects that merit funding under sections 5811 and 5813 of this title;”.
 
 Subsecs. (c) to (e). Pub. L. 104–127, §860(b)(2), (3), redesignated subsec. (e) as (b) and struck out subsec. (c) which provided for membership of the National Sustainable Agriculture Advisory Council and subsec. (d) which set forth responsibilities of Advisory Council.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(15) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

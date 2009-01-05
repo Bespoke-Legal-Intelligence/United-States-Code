@@ -22,7 +22,7 @@ For purposes of this subtitle, the term “personal holding company” means any
 
 &emsp;Paragraph (1) shall not apply to an affiliated group of corporations if—
 
-&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parentcorporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
+&emsp;&emsp;(A) any member of the affiliated group of corporations (including the common parent corporation) derived 10 percent or more of its adjusted ordinary gross income for the taxable year from sources outside the affiliated group, and
 
 &emsp;&emsp;(B) 80 percent or more of the amount described in subparagraph (A) consists of personal holding company income (as defined in section 543).
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) ofPub. L. 89–809, set out as a note under section 11 of this title.
+Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 #### Effective Date of 1964 Amendment
 

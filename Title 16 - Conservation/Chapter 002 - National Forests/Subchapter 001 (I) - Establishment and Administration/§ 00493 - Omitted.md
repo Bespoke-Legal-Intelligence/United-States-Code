@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act May 11, 1926, ch. 286, 44 Stat. 514, which authorized the Secretary of Agriculture to furnish young trees free from the Nebraska National Forest to homestead settlers, was from the Department of Agriculture Appropriation Act, 1927, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, act May 11, 1926, ch. 286, 44 Stat. 514, which authorized the Secretary of Agriculture to furnishyoung trees free from the Nebraska National Forest to homestead settlers, was from the Department of Agriculture Appropriation Act, 1927, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 &emsp;Feb. 10, 1925, ch. 200, 43 Stat. 835.
 

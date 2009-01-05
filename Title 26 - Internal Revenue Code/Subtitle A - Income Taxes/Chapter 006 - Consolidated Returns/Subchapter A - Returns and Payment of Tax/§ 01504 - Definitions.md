@@ -124,7 +124,7 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 #### References in Text
 
-Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
+Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
 
 #### Amendments
 

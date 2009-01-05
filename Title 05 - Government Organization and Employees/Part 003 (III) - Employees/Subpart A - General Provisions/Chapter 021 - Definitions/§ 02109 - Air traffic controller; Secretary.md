@@ -28,7 +28,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–347 provided that: “This Act \[amending this section and sections 3307, 3381 to 3385, and 8335 of this title and enacting provisions set out as a note under section 8335 of this title\] shall take effect on the later of—
+Section 3 of Pub. L. 96–347 provided that: “This Act \[amending this section and sections 3307, 3381 to 3385,and 8335 of this title and enacting provisions set out as a note under section 8335 of this title\] shall take effect on the later of—
 
 &emsp;“(1) October 1, 1980, or
 

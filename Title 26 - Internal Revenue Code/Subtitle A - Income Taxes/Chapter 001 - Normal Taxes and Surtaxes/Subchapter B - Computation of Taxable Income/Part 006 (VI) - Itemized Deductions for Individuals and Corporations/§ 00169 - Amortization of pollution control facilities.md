@@ -10,7 +10,7 @@ The election of the taxpayer to take the amortization deduction and to begin the
 
 #### (c) Termination of amortization deduction
 
-A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
+A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginningwith the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
 
 #### (d) Definitions and special rules
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (2) State certifying authority
 
-&emsp;The term “State certifying authority” means, in the case of water pollution, theState water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
+&emsp;The term “State certifying authority” means, in the case of water pollution, the State water pollution control agency as defined in section 13(a) of the Federal Water Pollution Control Act and, in the case of air pollution, the air pollution control agency as defined in section 302(b) of the Clean Air Act. The term “State certifying authority” includes any interstate agency authorized to act in place of a certifying authority of the State.
 
 #### (3) Federal certifying authority
 
@@ -74,7 +74,7 @@ The Federal certifying authority shall not certify any property under subsection
 
 #### (2) Special rules
 
-&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjustedbasis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
 
 &emsp;&emsp;(B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
 
@@ -96,7 +96,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### References in Text
 
-The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2),is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

@@ -1,6 +1,6 @@
 ### §304. Participation by small business enterprises
 
-It is declared to be in the national interest to encourage and develop the actual and potential capacity of small business and to utilize this important segment of our economy to the fullest practicable extent in construction of the Federal-aid highway systems, including the Interstate System. In order to carry out that intentand encourage full and free competition, the Secretary should assist, insofar as feasible, small business enterprises in obtaining contracts in connection with the prosecution of the highway program.
+It is declared to be in the national interest to encourage and develop the actual and potentialcapacity of small business and to utilize this important segment of our economy to the fullest practicable extent in construction of the Federal-aid highway systems, including the Interstate System. In order to carry out that intent and encourage full and free competition, the Secretary should assist, insofar as feasible, small business enterprises in obtaining contracts in connection with the prosecution of the highway program.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913.)
 

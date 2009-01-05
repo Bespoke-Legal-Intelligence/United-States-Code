@@ -1,0 +1,16 @@
+### §24406. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary of Transportation for capital grants under this chapter the following amounts:
+
+&emsp;(1) For fiscal year 2009, $100,000,000.
+
+&emsp;(2) For fiscal year 2010, $300,000,000.
+
+&emsp;(3) For fiscal year 2011, $400,000,000.
+
+&emsp;(4) For fiscal year 2012, $500,000,000.
+
+&emsp;(5) For fiscal year 2013, $600,000,000.
+
+(Added Pub. L. 110–432, div. B, title III, §301(a), Oct. 16, 2008, 122 Stat. 4946.)
+

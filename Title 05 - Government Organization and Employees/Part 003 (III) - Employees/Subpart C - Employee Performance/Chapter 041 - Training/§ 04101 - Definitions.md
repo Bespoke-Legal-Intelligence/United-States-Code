@@ -30,7 +30,7 @@ For the purpose of this chapter—
 
 &emsp;(6) “non-Government facility” means—
 
-&emsp;&emsp;(A) the government of a State or of a territory or possession of the United States including the Commonwealth of Puerto Rico, and an interstate governmental organization, or a unit, subdivision, or instrumentality of any of the foregoing;
+&emsp;&emsp;(A) the government of a State or of a territory or possession of the United States including the Commonwealth of Puerto Rico,and an interstate governmental organization, or a unit, subdivision, or instrumentality of any of the foregoing;
 
 &emsp;&emsp;(B) a foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this chapter;
 

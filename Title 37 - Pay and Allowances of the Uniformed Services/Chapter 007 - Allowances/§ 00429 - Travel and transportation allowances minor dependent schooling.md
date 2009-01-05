@@ -6,7 +6,7 @@ Under regulations to be prescribed by the Secretary of Defense, a member of a un
 
 #### References in Text
 
-The Defense Dependents’ Education Act of 1978, referred to in text, is Pub. L. 95–561, title XIV, Nov. 1,1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in text, is Pub. L. 95–561, title XIV, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 
@@ -22,7 +22,7 @@ All functions of the Secretary of Defense and the Department of Defense under th
 
 #### Dependent Student Travel Within United States
 
-For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
+For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas fortransportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
 
 #### Authority Under the Defense Department Overseas Teachers Pay and Personnel Practices Act Available to Secretary of Education
 

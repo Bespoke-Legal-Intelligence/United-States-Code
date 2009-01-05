@@ -24,7 +24,7 @@
 
 #### (B) Multiple types of assistance
 
-&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs ofindividuals and households in the particular disaster situation.
+&emsp;&emsp;One or more types of housing assistance may be made available under this section, based on the suitability and availability of the types of assistance, to meet the needs of individuals and households in the particular disaster situation.
 
 #### (c) Types of housing assistance
 
@@ -164,7 +164,7 @@
 
 #### (2) Access to records
 
-&emsp;In providing assistance to individuals and households under this section, the President shall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
+&emsp;In providing assistance to individuals and households under this section, the Presidentshall provide for the substantial and ongoing involvement of the States in which the individuals and households are located, including by providing to the States access to the electronic records of individuals and households receiving assistance under this section in order for the States to make available any additional State and local assistance to the individuals and households.
 
 #### (g) Cost sharing
 
@@ -208,7 +208,7 @@ In carrying out this section, the President shall develop a system, including an
 
 The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
 
-(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat.4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461.)
+(Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461.)
 
 #### Prior Provisions
 

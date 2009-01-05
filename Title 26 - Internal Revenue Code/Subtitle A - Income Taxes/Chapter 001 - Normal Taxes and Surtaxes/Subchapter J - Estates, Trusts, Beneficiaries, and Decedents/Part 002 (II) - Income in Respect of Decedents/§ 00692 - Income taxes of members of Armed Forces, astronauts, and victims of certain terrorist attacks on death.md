@@ -56,7 +56,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 &emsp;&emsp;(A) deferred compensation which would have been payable after death if the individual had died other than as a specified terrorist victim, or
 
-&emsp;&emsp;(B) amounts payable in the taxable year which would not have been payable in suchtaxable year but for an action taken after September 11, 2001.
+&emsp;&emsp;(B) amounts payable in the taxable year which would not have been payable in such taxable year but for an action taken after September 11, 2001.
 
 #### (4) Specified terrorist victim
 
@@ -148,7 +148,7 @@ Section 1(b) of Pub. L. 98–259 as amended by Pub. L. 98–369, div. A, title V
 
 “(1)
 
-In general.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years (whether beginning before,on, or after the date of enactment of this Act \[Apr. 10, 1984\]) of individuals dying after November 17, 1978, as a result of wounds or injuries incurred after such date.
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to all taxable years (whether beginning before, on, or after the date of enactment of this Act \[Apr. 10, 1984\]) of individuals dying after November 17, 1978, as a result of wounds or injuries incurred after such date.
 
 “(2)
 

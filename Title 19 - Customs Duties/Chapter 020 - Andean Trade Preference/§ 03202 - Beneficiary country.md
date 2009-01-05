@@ -54,7 +54,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
+&emsp;(4) if such country affords preferential treatment to the products of a developed country,other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
 
 &emsp;&emsp;(A) has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and
 
@@ -132,7 +132,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (1) In general
 
-&emsp;Not later than April 30, 2003, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
+&emsp;Not later than April 30, 2003, and every 2 years thereafter during the period this chapteris in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
 &emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
@@ -148,7 +148,7 @@ In determining whether to designate any country a beneficiary country under this
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions toformer subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
+Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -174,6 +174,8 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Delegation of Authority
 
+Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposal to suspend designation of Bolivia as beneficiary country, were delegated to United States Trade Representative by Memorandum of the President of the United States, Sept. 25, 2008, 73 F.R. 56701.
+
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
 Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
@@ -196,7 +198,7 @@ Content of regulations.—The regulations shall be similar to the regulations re
 
 The following countries were designated as beneficiary countries for purposes of this chapter:
 
-Bolivia, Proc. No. 6456, July 2, 1992, 57 F.R. 30097.
+Bolivia, Proc. No. 6456, July 2, 1992, 57 F.R. 30097; designation suspended by Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, effective Dec. 15, 2008.
 
 Colombia, Proc. No. 6455, July 2, 1992, 57 F.R. 30069.
 

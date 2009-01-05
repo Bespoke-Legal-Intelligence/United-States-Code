@@ -40,7 +40,7 @@
 
 For definition of Secretary, referred to in subsec. (a), see section 2109 of this title.
 
-Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), were struck out, and subsecs. (c) and (d) of section 4107 were redesignated (a) and (b), respectively, by Pub. L. 103–226, §2(a)(5)(B), Mar. 30, 1994, 108 Stat. 112. Subsequently, section 4107 was amended generally by Pub. L. 107–296, title XIII, §1331(a), Nov. 25, 2002, 116 Stat. 2298.
+Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), were struck out, and subsecs. (c) and (d) of section 4107 were redesignated (a) and (b), respectively, by Pub. L. 103–226, §2(a)(5)(B), Mar. 30, 1994,108 Stat. 112. Subsequently, section 4107 was amended generally by Pub. L. 107–296, title XIII, §1331(a), Nov. 25, 2002, 116 Stat. 2298.
 
 #### Amendments
 

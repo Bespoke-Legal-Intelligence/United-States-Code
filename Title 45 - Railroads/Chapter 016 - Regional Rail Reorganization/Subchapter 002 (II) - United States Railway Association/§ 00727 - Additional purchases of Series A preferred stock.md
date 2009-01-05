@@ -2,7 +2,7 @@
 
 #### (a) Federal investment
 
-In addition to the authority provided under section 726 of this title, the Association shall purchase shares of Series A preferred stock and accounts receivable of the Corporation after August 13, 1981, in amounts not to exceed a total of $137,000,000.
+In addition to the authority provided under section 726 of this title, the Association shallpurchase shares of Series A preferred stock and accounts receivable of the Corporation after August 13, 1981, in amounts not to exceed a total of $137,000,000.
 
 #### (b) Accounts receivable
 

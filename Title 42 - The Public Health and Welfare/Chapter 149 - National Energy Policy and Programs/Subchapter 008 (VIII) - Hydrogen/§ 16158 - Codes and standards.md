@@ -6,7 +6,7 @@ The Secretary, in cooperation with the Task Force, shall provide grants to, or o
 
 #### (b) Educational efforts
 
-The Secretary shall support educational efforts by organizations and agencies described insubsection (a) to share information, including information relating to best practices, among those organizations and agencies.
+The Secretary shall support educational efforts by organizations and agencies described in subsection (a) to share information, including information relating to best practices, among those organizations and agencies.
 
 #### (c) Authorization of appropriations
 

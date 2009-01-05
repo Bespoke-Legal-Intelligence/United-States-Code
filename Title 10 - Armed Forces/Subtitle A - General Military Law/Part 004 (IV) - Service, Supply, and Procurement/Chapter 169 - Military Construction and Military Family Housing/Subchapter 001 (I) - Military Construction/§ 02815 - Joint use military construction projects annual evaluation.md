@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Use Military Construction Project Defined.—In this section, the term “joint usemilitary construction project” means a military construction project for a facility intended to be used by—
+Joint Use Military Construction Project Defined.—In this section, the term “joint use military construction project” means a military construction project for a facility intended to be used by—
 
 &emsp;(1) both the active and a reserve component of a single armed force; or
 

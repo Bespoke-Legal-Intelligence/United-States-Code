@@ -1,6 +1,6 @@
 ### §8432a. Payment of lost earnings
 
-(a)(1) The Executive Director shall prescribe regulations under which an employing agencyshall be required to pay to the Thrift Savings Fund amounts representing lost earnings resulting from errors (including errors of omission) made by such agency in carrying out this subchapter, subject to paragraph (2).
+(a)(1) The Executive Director shall prescribe regulations under which an employing agency shall be required to pay to the Thrift Savings Fund amounts representing lost earnings resulting from errors (including errors of omission) made by such agency in carrying out this subchapter, subject to paragraph (2).
 
 (2) If the error involves an employing agency's failure to deduct from basic pay contributions (in whole or in part) on behalf of an individual in accordance with section 8432(a), the regulations shall not provide for the payment of any lost earnings which would be attributable to—
 

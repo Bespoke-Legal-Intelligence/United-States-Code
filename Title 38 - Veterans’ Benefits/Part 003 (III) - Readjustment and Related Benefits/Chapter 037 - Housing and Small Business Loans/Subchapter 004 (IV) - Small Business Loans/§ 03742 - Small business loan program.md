@@ -4,7 +4,7 @@
 
 (2) Subject to paragraph (3)(A) of this subsection, financial assistance under this section may be provided in the form of (A) loan guaranties, or (B) direct loans.
 
-(3) The Secretary shall specify in regulations the criteria to be met for a business concern to qualify as a veterans’ small business concern for the purposes of this subchapter. Such regulations shall include requirements—
+(3) The Secretary shall specify in regulations the criteria to be met for a business concern toqualify as a veterans’ small business concern for the purposes of this subchapter. Such regulations shall include requirements—
 
 &emsp;(A) that at least 51 percent of a business concern must be owned by individuals who are veterans of the Vietnam era or disabled veterans in order for such concern to qualify for a loan guaranty and that at least 51 percent of a business concern must be owned by disabled veterans in order for such concern to qualify for a direct loan; and
 
@@ -24,7 +24,7 @@
 
 (d)(1) Except as provided in paragraph (2) of this subsection, the Secretary may not make or guarantee a loan under this subchapter to a veterans’ small business concern in which an ownership interest is held by a veteran who also has an ownership interest in another small business concern if such ownership interest was considered in qualifying that other concern for an outstanding loan made or guaranteed under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
 
-(2) Paragraph (1) of this subsection shall not apply if 51 percent or more of the business concern seeking a direct or guaranteed loan under this subchapter is owned by veterans of the Vietnam era or disabled veterans without including the ownership interest of the veteran whose ownership interest in another small business concern was previously considered in qualifying that other concern for an outstandingguaranteed or direct business loan under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
+(2) Paragraph (1) of this subsection shall not apply if 51 percent or more of the business concern seeking a direct or guaranteed loan under this subchapter is owned by veterans of the Vietnam era or disabled veterans without including the ownership interest of the veteran whose ownership interest in another small business concern was previously considered in qualifying that other concern for an outstanding guaranteed or direct business loan under this subchapter or the Small Business Act (15 U.S.C. 631 et seq.).
 
 (e)(1) In order to protect the interest of the United States, upon application by a veterans’ small business concern which is the recipient of a loan guaranteed under this subchapter, the Secretary (subject to the provisions of this subsection) may undertake the veterans’ small business concern's obligation to make payments under such loan or, if the loan was a direct loan made by the Secretary, may suspend such obligation. While such payments are being made by the Secretary pursuant to the undertaking of such obligation or while such obligation is suspended, no such payment with respect to the loan may be required from the concern.
 

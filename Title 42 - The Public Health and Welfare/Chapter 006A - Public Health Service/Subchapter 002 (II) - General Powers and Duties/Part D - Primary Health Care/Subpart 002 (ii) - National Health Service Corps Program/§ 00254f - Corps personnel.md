@@ -18,15 +18,17 @@
 
 &emsp;&emsp;(III) there is general community support for the assignment of Corps members to the entity;
 
-&emsp;&emsp;(IV) the area has made unsuccessful efforts to secure health manpower for the area; and
+&emsp;&emsp;(IV) the area has made unsuccessful efforts to secure health manpower for the area;
 
-&emsp;&emsp;(V) there is a reasonable prospect of sound fiscal management, including efficient collection of fee-for-service, third-party, and other appropriate funds, by the entity with respect to Corps members assigned to such entity.
+&emsp;&emsp;(V) there is a reasonable prospect of sound fiscal management, including efficient collection of fee-for-service, third-party, and other appropriate funds, by the entity with respect to Corps members assigned to such entity; and
+
+&emsp;&emsp;(VI) the entity demonstrates willingness to support or facilitate mentorship, professional development, and training opportunities for Corps members.
 
 > An application for assignment of a Corps member to a health professional shortage area shall include a demonstration by the applicant that the area or population group to be served by the applicant has a shortage of personal health services and that the Corps member will be located so that the member will provide services to the greatest number of persons residing in such area or included in such population group. Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under section 254e(b) of this title and on additional criteria which the Secretary shall prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services.
 
 (2) Corps members may be assigned to a Federal health care facility, but only upon the request of the head of the department or agency of which such facility is a part.
 
-(3) In approving applications for assignment of members of the Corps the Secretary shall not discriminate against applications from entities which are not receiving Federal financial assistance under this chapter. In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.
+(3) In approving applications for assignment of members of the Corps the Secretary shall notdiscriminate against applications from entities which are not receiving Federal financial assistance under this chapter. In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.
 
 #### (b) Corps member income assurances; grants respecting sufficiency of financial resources
 
@@ -76,9 +78,11 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
 
 #### Amendments
+
+2008—Subsec. (a)(1)(D)(ii)(VI). Pub. L. 110–355 added subcl. (VI).
 
 2003—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
 

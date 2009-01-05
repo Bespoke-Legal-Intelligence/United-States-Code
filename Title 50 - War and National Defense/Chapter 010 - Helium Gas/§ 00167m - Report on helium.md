@@ -6,11 +6,11 @@ Not later than three years before the date on which the Secretary commences offe
 
 #### (b) Transmission to Congress
 
-Not later than 18 months before the date on which the Secretary commences offering for sale crude helium under section 167f of this title, the Secretary shall transmit to the Congress—
+Not later than 18 months before the date on which the Secretary commences offering for salecrude helium under section 167f of this title, the Secretary shall transmit to the Congress—
 
 &emsp;(1) the report of the National Academy under subsection (a) of this section;
 
-&emsp;(2) the findings of the Secretary, after consideration of the conclusions of the NationalAcademy under subsection (a) of this section and after consultation with the United States helium industry and with heads of affected Federal agencies, as to whether the disposal of the helium reserve under section 167f of this title will have a substantial adverse effect on the United States helium industry, United States,<sup>1</sup> helium market or United States,<sup>1</sup> scientific, technological, biomedical, or national security interests; and
+&emsp;(2) the findings of the Secretary, after consideration of the conclusions of the National Academy under subsection (a) of this section and after consultation with the United States helium industry and with heads of affected Federal agencies, as to whether the disposal of the helium reserve under section 167f of this title will have a substantial adverse effect on the United States helium industry, United States,<sup>1</sup> helium market or United States,<sup>1</sup> scientific, technological, biomedical, or national security interests; and
 
 &emsp;(3) if the Secretary determines that selling the crude helium reserves under the formula established in section 167f of this title will have a substantial adverse effect on the United States helium industry, the United States helium market or United States scientific, technological, biomedical, or national security interest, the Secretary shall make recommendations, including recommendations for proposed legislation, as may be necessary to avoid such adverse effects.
 
@@ -18,7 +18,7 @@ Not later than 18 months before the date on which the Secretary commences offeri
 
 #### Amendments
 
-1996—Pub. L. 104–273 amended section generally. Prior to amendment, section related to individual enterprise in developing helium.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to individual enterprise in developing helium.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

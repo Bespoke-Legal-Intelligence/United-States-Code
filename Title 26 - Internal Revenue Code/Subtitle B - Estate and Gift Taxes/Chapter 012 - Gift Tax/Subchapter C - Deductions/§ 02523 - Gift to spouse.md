@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse, there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
+Where a donor transfers during the calendar year by gift an interest in property to a donee who at the time of the gift is the donor's spouse,there shall be allowed as a deduction in computing taxable gifts for the calendar year an amount with respect to such interest equal to its value.
 
 #### (b) Life estate or other terminable interest
 
@@ -118,13 +118,13 @@ If the spouse of the donor is not a citizen of the United States—
 
 &emsp;(3) the principles of sections 2515 and 2515A (as such sections were in effect before their repeal by the Economic Recovery Tax Act of 1981) shall apply, except that the provisions of such section 2515 providing for an election shall not apply.
 
-> This subsection shall not apply to any transfer resulting from the acquisition of rights under ajoint and survivor annuity described in subsection (f)(6).
+> This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, §102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, §1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, §11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, §1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, §1604(g)(4), Aug. 5, 1997, 111 Stat. 1099.)
 
-#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2008 to Spouse Who is Not United States Citizen
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under subsection (i)(2) of this section for calendar year 2008, see section 3.32(2) of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -190,7 +190,7 @@ Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherw
 
 Section 5033(d)(2) of Pub. L. 100–647 provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988.”
 
-Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire beforesuch date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
+Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -218,7 +218,7 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Certain Transfers in October 1984
 

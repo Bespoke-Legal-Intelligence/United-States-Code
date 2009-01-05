@@ -12,13 +12,13 @@
 
 > &emsp;not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.
 
-#### (2) Authorization for administrative costs beginning in fiscal years 2007 through 2011
+#### (2) Authorization for administrative costs beginning in fiscal years 2007 through 2014
 
-&emsp;For each of the fiscal years 2007 through 2011, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
+&emsp;For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
 
 #### (3) Continuing mandatory funds for account maintenance fees
 
-&emsp;For each of the fiscal years 2007 through 2011, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+&emsp;For each of the fiscal years 2007 through 2014, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
 
 #### (4) Account maintenance fees
 
@@ -36,9 +36,13 @@ Account maintenance fees payable to guaranty agencies under subsection (a)(3) sh
 
 No funds may be expended under this section unless the Secretary includes in the Department of Education's annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
 
-(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat.1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800.)
+(Pub. L. 89–329, title IV, §458, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, §601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, §6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(<i>l</i>), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, §8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, §5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, §306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, §452, Aug. 14, 2008, 122 Stat. 3263.)
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–315, §452(1), substituted “2014” for “2011” in heading and text.
+
+Subsec. (a)(3). Pub. L. 110–315, §452(2), substituted “2014” for “2011”.
 
 2007—Subsec. (b). Pub. L. 110–84 substituted “0.06 percent” for “0.10 percent”.
 

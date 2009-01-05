@@ -100,7 +100,7 @@ Pub. L. 105–236, Sept. 20, 1998, 112 Stat. 1542, provided that:
 
 “(a)
 
-Consent of Congress.—In accordance with section 4(a)(2) of the Low-Level Radioactive Waste PolicyAct (42 U.S.C. 2021d(a)(2)), the consent of Congress is given to the States of Texas, Maine, and Vermont to enter into the compact set forth in subsection (b).
+Consent of Congress.—In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)), the consent of Congress is given to the States of Texas, Maine, and Vermont to enter into the compact set forth in subsection (b).
 
 “(b)
 
@@ -206,7 +206,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that:
 
 #### “SEC. 223. SOUTHEAST INTERSTATE LOW-LEVEL RADIOACTIVE WASTE MANAGEMENT COMPACT.
 
-“In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)), the consent of the Congress is hereby given to the States of Alabama, Florida, Georgia, Mississippi, NorthCarolina, South Carolina, Tennessee, and Virginia to enter into the Southeast Interstate Low-Level Radioactive Waste Management Compact. Such compact is substantially as follows: \[Text of compact appears at 99 Stat. 1871; 103 Stat. 1289.\]
+“In accordance with section 4(a)(2) of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021d(a)(2)), the consent of the Congress is hereby given to the States of Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, Tennessee, and Virginia to enter into the Southeast Interstate Low-Level Radioactive Waste Management Compact. Such compact is substantially as follows: \[Text of compact appears at 99 Stat. 1871; 103 Stat. 1289.\]
 
 #### “SEC. 224. CENTRAL MIDWEST INTERSTATE LOW-LEVEL RADIOACTIVE WASTE COMPACT.
 

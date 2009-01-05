@@ -20,7 +20,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
-(June 25, 1948, ch. 646, 62 Stat. 888; Pub. L. 91–272, §6, June 2, 1970, 84 Stat. 297; Pub. L. 95–573, §4,Nov. 2, 1978, 92 Stat. 2458; Pub. L. 102–396, title IX, §9161, Oct. 6, 1992, 106 Stat. 1947; Pub. L. 105–277, div. A, §101(b) \[title VI, §624(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–116.)
+(June 25, 1948, ch. 646, 62 Stat. 888; Pub. L. 91–272, §6, June 2, 1970, 84 Stat. 297; Pub. L. 95–573, §4, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 102–396, title IX, §9161, Oct. 6, 1992, 106 Stat. 1947; Pub. L. 105–277, div. A, §101(b) \[title VI, §624(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–116.)
 
 #### Historical and Revision Notes
 

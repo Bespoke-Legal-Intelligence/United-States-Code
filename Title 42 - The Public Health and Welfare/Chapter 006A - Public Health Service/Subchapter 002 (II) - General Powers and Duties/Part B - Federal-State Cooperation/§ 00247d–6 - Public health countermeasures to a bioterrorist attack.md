@@ -110,7 +110,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive an award under this subsection to establish a Center, an accreditedschool of public health shall agree to conduct activities consistent with the requirements of this subsection.
+&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
 
 #### (3) Core curricula
 
@@ -278,7 +278,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;“(C) the characteristics that may render a rural community uniquely vulnerable to a biological attack, including distance, lack of emergency transport, hospital or laboratory capacity, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
 
-&emsp;“(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[section 254b of this title\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration of Federal or State public health networks, workforce deficits, or other relevant characteristics;
+&emsp;“(D) the characteristics that may render areas or populations designated as medically underserved populations (as defined in section 330 of such Act \[section 254b of this title\]) uniquely vulnerable to a biological attack, including significant numbers of low-income or uninsured individuals, lack of affordable and accessible health care services, insufficient public and primary health care resources, lack of integration ofFederal or State public health networks, workforce deficits, or other relevant characteristics;
 
 &emsp;“(E) the recommendations of the Secretary with respect to additional legislative authority that the Secretary determines is necessary to effectively strengthen rural communities, or medically underserved populations (as defined in section 330 of such Act); and
 

@@ -20,7 +20,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
+Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
 
 Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in section 1292 of this title.
 
@@ -46,7 +46,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However,no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 

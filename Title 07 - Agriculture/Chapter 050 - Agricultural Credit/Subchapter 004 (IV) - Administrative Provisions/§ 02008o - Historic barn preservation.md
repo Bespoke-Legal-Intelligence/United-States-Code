@@ -64,29 +64,49 @@ The Secretary shall establish a historic barn preservation program—
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreements with, eligible applicants to carry out an eligible project under paragraph (2).
+&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreementswith, eligible applicants to carry out an eligible project under paragraph (2).
 
 #### (2) Eligible projects
 
 &emsp;A grant under this subsection may be made to an eligible applicant for a project—
 
-&emsp;&emsp;(A) to rehabilitate or repair a historic barn;
+&emsp;&emsp;(A) to rehabilitate or repair historic barns;
 
-&emsp;&emsp;(B) to preserve a historic barn through—
+&emsp;&emsp;(B) to preserve historic barns through—
 
 &emsp;&emsp;&emsp;(i) the installation of a fire protection system, including fireproofing or fire detection system and sprinklers; and
 
 &emsp;&emsp;&emsp;(ii) the installation of a system to prevent vandalism; and
 
-&emsp;&emsp;(C) to identify, document, and conduct research on a historic barn to develop and evaluate appropriate techniques or best practices for protecting historic barns.
+&emsp;&emsp;(C) to identify, document, and conduct research on historic barns (including surveys) to develop and evaluate appropriate techniques or best practices for protecting historic barns.
 
-#### (3) Requirements
+#### (3) Priority
+
+&emsp;In making grants under this subsection, the Secretary shall give the highest priority to funding projects described in paragraph (2)(C).
+
+#### (4) Requirements
 
 &emsp;An eligible applicant that receives a grant for a project under this subsection shall comply with any standards established by the Secretary of the Interior for historic preservation projects.
 
-#### (4) Authorization of appropriations
+#### (5) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.
 
-(Pub. L. 87–128, title III, §379A, as added Pub. L. 107–171, title VI, §6023, May 13, 2002, 116 Stat. 370.)
+(Pub. L. 87–128, title III, §379A, as added Pub. L. 107–171, title VI, §6023, May 13, 2002, 116 Stat. 370; amended Pub. L. 110–234, title VI, §6020, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6020, June 18, 2008, 122 Stat. 1664, 1934.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (c)(2)(A), (B). Pub. L. 110–246, §6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
+
+Subsec. (c)(2)(C). Pub. L. 110–246, §6020(a)(1)(B), substituted “on historic barns (including surveys)” for “on a historic barn”.
+
+Subsec. (c)(3) to (5). Pub. L. 110–246, §6020(a)(2), (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted “2008 through 2012” for “2002 through 2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

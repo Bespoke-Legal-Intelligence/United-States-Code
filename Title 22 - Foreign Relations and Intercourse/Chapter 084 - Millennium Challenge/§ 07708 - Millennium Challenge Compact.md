@@ -30,7 +30,7 @@ The Board, acting through the Chief Executive Officer of the Corporation, may pr
 
 &emsp;&emsp;(J) the strategy of the eligible country to sustain progress made toward achieving such objectives after expiration of the Compact; and
 
-&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, and monitoring of programs and activities funded under the Compact.
+&emsp;&emsp;(K) a description of the role of the United States Agency for International Development in any design, implementation, andmonitoring of programs and activities funded under the Compact.
 
 #### (2) Lower middle income countries
 

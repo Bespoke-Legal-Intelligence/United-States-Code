@@ -14,7 +14,7 @@ The Secretary is authorized—
 
 &emsp;(1) to provide tenant-based rental assistance to eligible persons with disabilities, in accordance with subsection (d)(4) of this section; and
 
-&emsp;(2) to provide assistance to private, nonprofit organizations to expand the supply ofsupportive housing for persons with disabilities, which shall be provided as—
+&emsp;(2) to provide assistance to private, nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which shall be provided as—
 
 &emsp;&emsp;(A) capital advances in accordance with subsection (d)(1) of this section, and
 
@@ -62,7 +62,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (C) Allocation of assistance
 
-&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shall consider the needs and capabilities of the organization or agency, in the case of a publichousing agency, as described in the plan for the agency under section 1437e of this title.
+&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shall consider the needs and capabilities of the organization or agency, in the case of a public housing agency, as described in the plan for the agency under section 1437e of this title.
 
 #### (e) Term of commitment
 
@@ -196,13 +196,13 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (5) Notice of appeal
 
-&emsp;The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section. During the 30-day period following the receipt of a notice under the preceding sentence, an owner may appeal the proposed cancellation. Such appeal, including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
+&emsp;The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section. During the 30-day period following the receipt of a notice under the preceding sentence, anowner may appeal the proposed cancellation. Such appeal, including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
 
 #### (6) Labor standards
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborersand mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
+&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 #### (B) Exemption
 
@@ -260,7 +260,7 @@ As used in this section—
 
 #### (1) Allocation
 
-&emsp;Of any amount made available for assistance under this section in any fiscal year, anamount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.
+&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.
 
 #### (2) Capital advances
 

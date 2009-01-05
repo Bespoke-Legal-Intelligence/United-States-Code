@@ -52,5 +52,5 @@ Pub. L. 91–524, title IV, §404(2), Nov. 30, 1970, 84 Stat. 1366, as amended b
 
 #### 1965 Crop Acreage Allotment
 
-Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
+Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequatesupply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
 

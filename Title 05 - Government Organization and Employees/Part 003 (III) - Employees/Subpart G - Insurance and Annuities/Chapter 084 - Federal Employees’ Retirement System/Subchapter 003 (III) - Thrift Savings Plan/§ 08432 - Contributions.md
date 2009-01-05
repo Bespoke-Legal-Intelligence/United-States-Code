@@ -1,6 +1,6 @@
 ### §8432. Contributions
 
-(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay forsuch pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
+(a)(1) An employee or Member may contribute to the Thrift Savings Fund in any pay period, pursuant to an election under subsection (b), an amount not to exceed the maximum percentage of such employee's or Member's basic pay for such pay period allowable under paragraph (2). Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director.
 
 (2) The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
@@ -78,7 +78,7 @@
 
 &emsp;(E) Nothing in this paragraph shall affect paragraph (3).
 
-(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the ThriftSavings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
+(c)(1)(A) At the time prescribed by the Executive Director, but no later than 12 days after the end of the pay period that includes the first date on which an employee or Member may make contributions under subsection (a) (without regard to whether the employee or Member has elected to make such contributions during such pay period), and within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period), the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the basic pay of such employee or Member for such pay period.
 
 (B) In the case of each employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, the employing agency shall contribute to the Thrift Savings Fund for the benefit of such employee or Member the amount equal to 1 percent of the total basic pay paid to such employee or Member for that period of service.
 
@@ -180,7 +180,7 @@
 
 (3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8,1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891.)
 
 #### References in Text
 
@@ -284,7 +284,7 @@ Pub. L. 106–361, §2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “N
 
 #### Eligibility of Certain Individuals To Participate in Thrift Savings Plan
 
-Section 125 of Pub. L. 100–238, as amended by Pub. L. 107–347, title II, §209(g)(3), Dec. 17, 2002, 116 Stat. 2932, provided that:
+Pub. L. 100–238, title I, §125, Jan. 8, 1988. 101 Stat. 1756, as amended by Pub. L. 107–347, title II, §209(g)(3), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 110–234, title VII, §7101(b)(6), May 22, 2008, 122 Stat. 1214; Pub. L. 110–246, §4(a), title VII, §7101(b)(6), June 18, 2008, 122 Stat. 1664, 1975, provided that:
 
 “(a)
 
@@ -320,7 +320,7 @@ Applicability.—This section applies with respect to—
 
 &emsp;&emsp;“(B) an individual assigned from a Federal agency to a State or local government under subchapter VI of chapter 33 of title 5, United States Code;
 
-&emsp;&emsp;“(C) an individual appointed or otherwise assigned to one of the cooperative extension services, as defined by section 1404(5) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103(5)); or
+&emsp;&emsp;“(C) an individual appointed or otherwise assigned to one of the cooperative extension services, as defined by section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103); or
 
 &emsp;&emsp;“(D) an individual assigned from a Federal agency to a private sector organization under chapter 37 of title 5, United States Code; and
 
@@ -340,7 +340,7 @@ Exception.—The regulations prescribed under this section shall, with respect t
 
 #### Contributions to Thrift Savings Fund
 
-Section 6001(a)(3) of Pub. L. 99–509 directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+Section 6001(a)(3) of Pub. L. 99–509 directed that contributions made to Thrift Savings Fund under 5 U.S.C.8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
 #### Inapplicability of Limitation on Number of Elections Within a Six-Month Period
 

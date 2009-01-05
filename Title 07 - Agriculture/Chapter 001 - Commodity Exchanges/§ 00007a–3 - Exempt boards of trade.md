@@ -38,7 +38,7 @@ A board of trade that is designated as a contract market or registered as a deri
 
 #### (g) Misrepresentation of status
 
-An exempt board of trade that meets the requirements of subsection (b) of this section shallnot represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
+An exempt board of trade that meets the requirements of subsection (b) of this section shall not represent to any person that the board of trade is registered with, or designated, recognized, licensed, or approved by the Commission.
 
 (Sept. 21, 1922, ch. 369, §5d, as added Pub. L. 106–554, §1(a)(5) \[title I, §114\], Dec. 21, 2000, 114 Stat. 2763, 2763A–401.)
 

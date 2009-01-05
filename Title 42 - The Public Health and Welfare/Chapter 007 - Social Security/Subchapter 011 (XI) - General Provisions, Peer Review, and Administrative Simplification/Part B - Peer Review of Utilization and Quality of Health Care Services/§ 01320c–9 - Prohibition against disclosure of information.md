@@ -24,7 +24,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;&emsp;&emsp;(ii) upon a finding by, or the reasonable belief of, the peer review organization that there may be a substantial risk to the public health;
 
-&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the peer review organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such dataand information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
+&emsp;&emsp;(C) to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners or to assist national accreditation bodies acting pursuant to section 1395bb of this title in accrediting providers for purposes of meeting the conditions described in subchapter XVIII of this chapter, which data and information shall be provided by the peer review organization to any such agency or body at the request of such agency or body relating to a specific case or to a possible pattern of substandard care, but only to the extent that such data and information are required by the agency or body to carry out its respective function which is within the jurisdiction of the agency or body under State law or under section 1395bb of this title; and
 
 &emsp;&emsp;(D) to provide notice in accordance with section 1320c–3(a)(9)(B) of this title;
 
@@ -38,7 +38,7 @@ It shall be unlawful for any person to disclose any such information described i
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
-No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
+No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except thatsuch an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
 
 #### (e) Organizations with contracts
 

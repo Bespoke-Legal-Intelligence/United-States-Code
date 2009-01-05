@@ -42,7 +42,7 @@ For purposes of this section, the term “Medicare Advantage MSA” means an Arc
 
 &emsp;&emsp;&emsp;&emsp;(I) the fair market value of the assets in such MSA as of the close of the calendar year preceding the calendar year in which the taxable year begins, over
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount equal to 60 percent of the deductible under the Medicare Advantage MSA plan covering the account holder as of January 1 of the calendar year in which the taxable year begins.
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to 60 percent of the deductible under the Medicare Advantage MSA plan covering the accountholder as of January 1 of the calendar year in which the taxable year begins.
 
 > &emsp;&emsp;Section 220(f)(4) shall not apply to any payment or distribution from a Medicare Advantage MSA.
 

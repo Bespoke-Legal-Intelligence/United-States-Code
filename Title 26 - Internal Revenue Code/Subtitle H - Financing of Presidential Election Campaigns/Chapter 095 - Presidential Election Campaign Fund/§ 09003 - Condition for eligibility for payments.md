@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to be eligible to receive any payments under section 9006, the candidates of a political party in a presidential election shall, in writing—
+In order to be eligible to receive any payments under section 9006, the candidates of a politicalparty in a presidential election shall, in writing—
 
 &emsp;(1) agree to obtain and furnish to the Commission such evidence as it may request of the qualified campaign expenses of such candidates,
 
@@ -52,7 +52,7 @@ No candidate for the office of President or Vice President may receive amounts f
 
 Pub. L. 94–283 added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck outpar. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
+1974—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
 
 Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted “Commission” for “Comptroller General” wherever appearing.
 

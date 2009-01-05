@@ -18,7 +18,7 @@
 
 #### (A) Agreement
 
-&emsp;&emsp;Each consortium described in paragraph (1) shall be formed and operated in accordance with a consortium agreement, and shall be subject to the requirements of a jointpublic housing agency plan, which shall be submitted by the consortium in accordance with section 1437c–1 of this title.
+&emsp;&emsp;Each consortium described in paragraph (1) shall be formed and operated in accordance with a consortium agreement, and shall be subject to the requirements of a joint public housing agency plan, which shall be submitted by the consortium in accordance with section 1437c–1 of this title.
 
 #### (B) Minimum requirements
 
@@ -58,7 +58,7 @@ A prior section 13 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, enum
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section catchline and text of section generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, require that newly constructed and substantially rehabilitated projects assisted under this chapter with authority provided on or after October 1, 1979, shall be equipped with heating and cooling systems selected on the basis of criteria which include a life-cycle cost analysis of such systems.”
+1998—Pub. L. 105–276 amended section catchline and text of section generally. Prior to amendment, textread as follows: “The Secretary shall, to the maximum extent practicable, require that newly constructed and substantially rehabilitated projects assisted under this chapter with authority provided on or after October 1, 1979, shall be equipped with heating and cooling systems selected on the basis of criteria which include a life-cycle cost analysis of such systems.”
 
 1980—Pub. L. 96–399 struck out subsec. (a) which related to consideration by the Secretary, in utilizing contract authority, of projects which will be modernized to a substantial extent with weatherization materials as defined in section 6862(9) of this title, and redesignated former subsec. (b) as entire section.
 

@@ -78,9 +78,9 @@ Implementation.—The Secretary shall implement the plan developed under subsect
 
 (f)
 
-Funding.—At the Secretary's discretion, a State may use the funds made available to the State under section 31318 <sup>2</sup> to modernize its commercial driver's license information system to be compatible with the modernized information system under this section.
+Funding.—At the Secretary's discretion, a State may use the funds made available to the State under section 31313 to modernize its commercial driver's license information system to be compatible with the modernized information system under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(d), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §§4122(2)(E), 4123(a), Aug. 10, 2005, 119 Stat. 1734.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(d), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §§4122(2)(E), 4123(a), Aug. 10, 2005, 119 Stat. 1734; Pub. L. 110–244, title III, §301(h), June 6, 2008, 122 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -143,6 +143,8 @@ Par. (2) of section 31308, referred to in subsec. (b)(2), was redesignated par. 
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–244 substituted “31313” for “31318”.
 
 2005—Subsec. (b)(1)(D) to (F), (2). Pub. L. 109–59, §4122(2)(E), inserted “or learner's permit” after “license”.
 
@@ -224,7 +226,7 @@ Initial date of availability.—Amounts authorized to be appropriated from the H
 
 &emsp;“(3)
 
-Contract authority.—Approval by the Secretary of a grant with funds made available under subsection (d) imposes upon the United States a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.”
+Contract authority.—Approval by the Secretary of a grant with funds made available undersubsection (d) imposes upon the United States a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.”
 
 #### Improved Flow of Driver History Pilot Program
 
@@ -257,6 +259,4 @@ Completion date.—The pilot program shall end on the last day of the 18-month p
 Rulemaking.—After completion of the pilot program, the Secretary shall initiate, if appropriate, a rulemaking to revise the information system under section 31309 of title 49, United States Code, to take into account the results of the pilot program.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “31313”.</i>
 

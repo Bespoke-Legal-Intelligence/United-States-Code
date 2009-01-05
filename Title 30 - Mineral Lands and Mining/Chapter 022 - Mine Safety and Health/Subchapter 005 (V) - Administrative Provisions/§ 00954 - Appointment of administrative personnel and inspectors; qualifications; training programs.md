@@ -8,6 +8,8 @@ The Secretary may, subject to the civil service laws, appoint such employees as 
 
 The civil service laws, referred to in text, are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5, Government Organization and Employees.
 
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
 Section 201 of the Revenue and Expenditure Control Act of 1968 (82 Stat. 251, 270), referred to in text, is section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which was set out as a note under section 3101 of Title 5 and was repealed by Pub. L. 91–47, title V, §503, July 22, 1969, 83 Stat. 83.
 
 #### Amendments

@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the ownership of a substantial portion of the assets of the corporation, and
 
-&emsp;&emsp;&emsp;(ii) the aggregate present value of the payments in the nature of compensation to (or for the benefit of) such individual which are contingent on such changeequals or exceeds an amount equal to 3 times the base amount.
+&emsp;&emsp;&emsp;(ii) the aggregate present value of the payments in the nature of compensation to (or for the benefit of) such individual which are contingent on such change equals or exceeds an amount equal to 3 times the base amount.
 
 > &emsp;&emsp;For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.
 
@@ -146,13 +146,65 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in regulations, all members of the same affiliated group (as defined in section 1504, determined without regard to section 1504(b)) shall be treated as 1 corporation for purposes of this section. Any person who is an officer of any member of such group shall be treated as an officer of such 1 corporation.
 
-#### (e) Regulations
+#### (e) Special rule for application to employers participating in the Troubled Assets Relief Program
+
+#### (1) In general
+
+&emsp;In the case of the severance from employment of a covered executive of an applicable employer during the period during which the authorities under section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 of such Act), this section shall be applied to payments to such executive with the following modifications:
+
+&emsp;&emsp;(A) Any reference to a disqualified individual (other than in subsection (c)) shall be treated as a reference to a covered executive.
+
+&emsp;&emsp;(B) Any reference to a change described in subsection (b)(2)(A)(i) shall be treated as a reference to an applicable severance from employment of a covered executive, and any reference to a payment contingent on such a change shall be treated as a reference to any payment made during an applicable taxable year of the employer on account of such applicable severance from employment.
+
+&emsp;&emsp;(C) Any reference to a corporation shall be treated as a reference to an applicable employer.
+
+&emsp;&emsp;(D) The provisions of subsections (b)(2)(C), (b)(4), (b)(5), and (d)(5) shall not apply.
+
+#### (2) Definitions and special rules
+
+&emsp;For purposes of this subsection:
+
+#### (A) Definitions
+
+&emsp;&emsp;Any term used in this subsection which is also used in section 162(m)(5) shall have the meaning given such term by such section.
+
+#### (B) Applicable severance from employment
+
+&emsp;&emsp;The term “applicable severance from employment” means any severance from employment of a covered executive—
+
+&emsp;&emsp;&emsp;(i) by reason of an involuntary termination of the executive by the employer, or
+
+&emsp;&emsp;&emsp;(ii) in connection with any bankruptcy, liquidation, or receivership of the employer.
+
+#### (C) Coordination and other rules
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If a payment which is treated as a parachute payment by reason of this subsection is also a parachute payment determined without regard to this subsection, this subsection shall not apply to such payment.
+
+#### (ii) Regulatory authority
+
+&emsp;&emsp;&emsp;The Secretary may prescribe such guidance, rules, or regulations as are necessary—
+
+&emsp;&emsp;&emsp;&emsp;(I) to carry out the purposes of this subsection and the Emergency Economic Stabilization Act of 2008, including the extent to which this subsection applies in the case of any acquisition, merger, or reorganization of an applicable employer,
+
+&emsp;&emsp;&emsp;&emsp;(II) to apply this section and section 4999 in cases where one or more payments with respect to any individual are treated as parachute payments by reason of this subsection, and other payments with respect to such individual are treated as parachute payments under this section without regard to this subsection, and
+
+&emsp;&emsp;&emsp;&emsp;(III) to prevent the avoidance of the application of this section through the mischaracterization of a severance from employment as other than an applicable severance from employment.
+
+#### (f) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section (including regulations for the application of this section in the case of related corporations and in the case of personal service corporations).
 
-(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798.)
+(Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 110–343, div. A, title III, §302(b), Oct. 3, 2008, 122 Stat. 3805.)
+
+#### References in Text
+
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1), (2)(C)(ii)(I), is Pub. L. 110–343, div. A, Oct. 3, 2008, 122 Stat. 3765. Section 101(a) of the Act enacted section 5211(a) of Title 12, Banks and Banking, and amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance. Section 120 of the Act is classified to section 5230 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
+
+2008—Subsecs. (e), (f). Pub. L. 110–343 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1996—Subsec. (b)(6)(D). Pub. L. 104–188 added subpar. (D).
 
@@ -166,7 +218,7 @@ Subsec. (d)(5). Pub. L. 100–647, §1018(d)(8), substituted “officer of any m
 
 Subsec. (b)(2)(B). Pub. L. 99–514, §1804(j)(7), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘parachute payment’ shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations.”
 
-Subsec. (b)(4). Pub. L. 99–514, §1804(j)(2), substituted “Treatment of amounts which taxpayer establishes as reasonable compensation” for “Excess parachute payments reduced to extent taxpayer establishes reasonable compensation” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount.”
+Subsec. (b)(4). Pub. L. 99–514, §1804(j)(2), substituted “Treatment of amounts which taxpayer establishes asreasonable compensation” for “Excess parachute payments reduced to extent taxpayer establishes reasonable compensation” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount.”
 
 Subsec. (b)(5). Pub. L. 99–514, §1804(j)(1), added par. (5).
 
@@ -177,6 +229,10 @@ Subsec. (c). Pub. L. 99–514, §1804(j)(5), inserted provision defining “high
 Subsec. (d)(2). Pub. L. 99–514, §1804(j)(8), substituted “performed personal services for the corporation” for “was an employee of the corporation”.
 
 Subsec. (d)(5). Pub. L. 99–514, §1804(j)(4), added par. (5).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. A, title III, §302(c)(2), Oct. 3, 2008, 122 Stat. 3806, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to payments with respect to severances occurring during the period during which the authorities under section 101(a) of this Act \[enacting section 5211(a) of Title 12, Banks and Banking, and amending section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance\] are in effect (determined under section 120 of this Act \[12 U.S.C. 5230\]).”
 
 #### Effective Date of 1996 Amendment
 

@@ -45,11 +45,14 @@
 | [2410m.](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md) | Retention of amounts collected from contractor during the pendency of contract dispute. |
 | [2410n.](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md) | Products of Federal Prison Industries: procedural requirements. |
 | 2410<i>o.</i> | Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products. |
-| [2410p.](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md) | Contracts: limitations on lead system integrators <sup>1</sup> |
+| [2410p.](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md) | Contracts: limitations on lead system integrators. |
+| [2410q.](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md) | Multiyear contracts: purchase of electricity from renewable energy sources. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title VIII, §828(b), title X, §1063(a)(11), Jan. 28, 2008, 122 Stat. 229, 322, inserted period at end of item 2410p and added item 2410q.
 
 2006—Pub. L. 109–364, div. A, title VIII, §807(a)(2), div. B, title XXVIII, §2851(c)(2), Oct. 17, 2006, 120 Stat. 2315, 2495, added item 2410p and struck out items 2388 “Liquid fuels and natural gas: contracts for storage, handling, or distribution”, 2394 “Contracts for energy or fuel for military installations”, 2394a “Procurement of energy systems using renewable forms of energy”, 2398 “Procurement of gasohol as motor vehicle fuel”, 2398a “Procurement of fuel derived from coal, oil shale, and tar sands”, 2404 “Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority”, and 2410c “Preference for energy efficient electric equipment”.
 
@@ -69,7 +72,7 @@ Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382
 
 1997—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted “public utility services,” after “tuition,” in item 2396, struck out items 2403 “Major weapon systems: contractor guarantees” and 2405 “Limitation on adjustment of shipbuilding contracts”, substituted “Severable service contracts for periods crossing fiscal years” for “Appropriated funds: availability for certain contracts for 12 months” in item 2410a, and added item 2410m.
 
-1996—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 “Procurement of critical aircraft and ship spare parts: quality control”, 2397 “Employees or former employees of defense contractors: reports”, 2397a “Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors”, 2397b “Certain former Department of Defenseprocurement officials: limitations on employment by contractors”, and 2397c “Defense contractors: requirements concerning former Department of Defense officials” and substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” in item 2401a.
+1996—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 “Procurement of critical aircraft and ship spare parts: quality control”, 2397 “Employees or former employees of defense contractors: reports”, 2397a “Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors”, 2397b “Certain former Department of Defense procurement officials: limitations on employment by contractors”, and 2397c “Defense contractors: requirements concerning former Department of Defense officials” and substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” in item 2401a.
 
 1994—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 “Contract profit controls during emergency periods”, 2406 “Availability of cost and pricing records”, 2409a “Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions”, and 2410e “Contract claims: certification regulations”, and substituted in item 2410 “Requests for equitable adjustment or other relief: certification” for “Contract claims: certification”.
 
@@ -124,8 +127,6 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 1966—Pub. L. 89–696, §1(2), Oct. 19, 1966, 80 Stat. 1057, added item 2389.
 
 1958—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -183,3 +184,4 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 - [&sect; 02410n - Products of Federal Prison Industries procedural requirements](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md)
 - [&sect; 02410o - Multiyear procurement authority purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products](%C2%A7%2002410o%20-%20Multiyear%20procurement%20authority%20purchase%20of%20dinitrogen%20tetroxide%2C%20hydrazine%2C%20and%20hydrazine-related%20products.md)
 - [&sect; 02410p - Contracts limitations on lead system integrators](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md)
+- [&sect; 02410q - Multiyear contracts purchase of electricity from renewable energy sources](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md)

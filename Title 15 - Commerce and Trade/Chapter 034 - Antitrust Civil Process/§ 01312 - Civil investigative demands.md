@@ -20,7 +20,7 @@ Each such demand shall—
 
 &emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
 
-&emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of timewithin which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
+&emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
 &emsp;&emsp;(C) identify the custodian to whom such material shall be made available; or
 
@@ -98,7 +98,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (6) Upon payment of reasonable charges therefor, the antitrust investigator shall furnish a copy of the transcript to the witness only, except that the Assistant Attorney General in charge of the Antitrust Division may for good cause limit such witness to inspection of the official transcript of his testimony.
 
-(7)(A) Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel's own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
+(7)(A) Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel's own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitledto refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
 
 (B) If such person refuses to answer any question on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of Part V of title 18.
 
@@ -110,7 +110,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, §14102(f), Nov. 2, 2002, 116 Stat. 1922.
 

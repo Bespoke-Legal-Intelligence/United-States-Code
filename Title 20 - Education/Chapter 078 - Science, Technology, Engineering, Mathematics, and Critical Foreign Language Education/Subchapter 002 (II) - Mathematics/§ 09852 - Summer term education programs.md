@@ -102,7 +102,7 @@ In this section:
 
 #### (A) Dissemination of information
 
-&emsp;&emsp;A State educational agency that receives a grant under subsection (c) shall disseminateinformation about summer learning opportunities and summer learning grants to the families of eligible students in the State.
+&emsp;&emsp;A State educational agency that receives a grant under subsection (c) shall disseminate information about summer learning opportunities and summer learning grants to the families of eligible students in the State.
 
 #### (B) Application
 
@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;(B) the alignment of the summer learning opportunity with State standards; and
 
-&emsp;&emsp;(C) data from assessments of student mathematics and problem-solving skills forthe summer scholars and on the attendance of the scholars, disaggregated by the subgroups described in subsection (d)(4)(A)(ii)(IV).
+&emsp;&emsp;(C) data from assessments of student mathematics and problem-solving skills for the summer scholars and on the attendance of the scholars, disaggregated by the subgroups described in subsection (d)(4)(A)(ii)(IV).
 
 #### (2) Report
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (3) Summer learning grants website
 
-&emsp;The Secretary shall make accessible, on the Department of Education website, information for parents and school personnel on successful programs and curricula, and best practices, for summer learning opportunities.
+&emsp;The Secretary shall make accessible, on the Department of Education website, informationfor parents and school personnel on successful programs and curricula, and best practices, for summer learning opportunities.
 
 #### (f) Authorization of appropriations
 

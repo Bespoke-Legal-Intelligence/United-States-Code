@@ -2,7 +2,7 @@
 
 #### (a) Consent of United States; force and effect of criminal laws
 
-The consent of the United States is hereby given to any State not having jurisdiction overcriminal offenses committed by or against Indians in the areas of Indian country situated within such State to assume, with the consent of the Indian tribe occupying the particular Indian country or part thereof which could be affected by such assumption, such measure of jurisdiction over any or all of such offenses committed within such Indian country or any part thereof as may be determined by such State to the same extent that such State has jurisdiction over any such offense committed elsewhere within the State, and the criminal laws of such State shall have the same force and effect within such Indian country or part thereof as they have elsewhere within that State.
+The consent of the United States is hereby given to any State not having jurisdiction over criminal offenses committed by or against Indians in the areas of Indian country situated within such State to assume, with the consent of the Indian tribe occupying the particular Indian country or part thereof which could be affected by such assumption, such measure of jurisdiction over any or all of such offenses committed within such Indian country or any part thereof as may be determined by such State to the same extent that such State has jurisdiction over any such offense committed elsewhere within the State, and the criminal laws of such State shall have the same force and effect within such Indian country or part thereof as they have elsewhere within that State.
 
 #### (b) Alienation, encumbrance, taxation, and use of property; hunting, trapping, or fishing
 

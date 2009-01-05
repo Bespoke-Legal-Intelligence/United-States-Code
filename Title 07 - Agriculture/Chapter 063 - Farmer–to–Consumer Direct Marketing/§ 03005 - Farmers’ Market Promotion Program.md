@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall carry out a program, to be known as the “Farmers’ Market Promotion Program” (referred to in this section as the “Program”), to make grants to eligible entities for projects to establish, expand, and promote farmers’ markets.
+The Secretary shall carry out a program, to be known as the “Farmers’ Market Promotion Program” (referred to in this section as the “Program”), to make grants to eligible entities for projects to establish, expand, and promote farmers’ markets and to promote direct producer-to-consumer marketing.
 
 #### (b) Program purposes
 
@@ -10,9 +10,9 @@ The Secretary shall carry out a program, to be known as the “Farmers’ Market
 
 &emsp;The purposes of the Program are—
 
-&emsp;&emsp;(A) to increase domestic consumption of agricultural commodities by improving and expanding, or assisting in the improvement and expansion of, domestic farmers’ markets, roadside stands, community-supported agriculture programs, and other direct producer-to-consumer market opportunities; and
+&emsp;&emsp;(A) to increase domestic consumption of agricultural commodities by improving and expanding, or assisting in the improvement and expansion of, domestic farmers’ markets, roadside stands, community-supported agriculture programs, agri-tourism activities, and other direct producer-to-consumer market opportunities; and
 
-&emsp;&emsp;(B) to develop, or aid in the development of, new farmers’ markets, roadside stands, community-supported agriculture programs, and other direct producer-to-consumer infrastructure.
+&emsp;&emsp;(B) to develop, or aid in the development of, new farmers’ markets, roadside stands, community-supported agriculture programs, agri-tourism activities, and other direct producer-to-consumer marketing opportunities.
 
 #### (2) Limitations
 
@@ -22,7 +22,7 @@ The Secretary shall carry out a program, to be known as the “Farmers’ Market
 
 An entity shall be eligible to receive a grant under the Program if the entity is—
 
-&emsp;(1) an agricultural cooperative;
+&emsp;(1) an agricultural cooperative or a producer network or association;
 
 &emsp;(2) a local government;
 
@@ -40,13 +40,57 @@ An entity shall be eligible to receive a grant under the Program if the entity i
 
 The Secretary shall establish criteria and guidelines for the submission, evaluation, and funding of proposed projects under the Program.
 
-#### (e) Authorization of appropriations
+#### (e) Funding
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.
+#### (1) In general
 
-(Pub. L. 94–463, §6, as added Pub. L. 107–171, title X, §10605(a), May 13, 2002, 116 Stat. 513.)
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
+
+&emsp;&emsp;(A) $3,000,000 for fiscal year 2008;
+
+&emsp;&emsp;(B) $5,000,000 for each of fiscal years 2009 through 2010; and
+
+&emsp;&emsp;(C) $10,000,000 for each of fiscal years 2011 and 2012.
+
+#### (2) Use of funds
+
+&emsp;Not less than 10 percent of the funds used to carry out this section in a fiscal year under paragraph (1) shall be used to support the use of electronic benefits transfers for Federal nutrition programs at farmers’ markets.
+
+#### (3) Interdepartmental coordination
+
+&emsp;In carrying out this subsection, the Secretary shall ensure coordination between the various agencies to the maximum extent practicable.
+
+#### (4) Limitation
+
+&emsp;Funds described in paragraph (2)—
+
+&emsp;&emsp;(A) may not be used for the ongoing cost of carrying out any project; and
+
+&emsp;&emsp;(B) shall only be provided to eligible entities that demonstrate a plan to continue to provide EBT card access at 1 or more farmers’ markets following the receipt of the grant.
+
+(Pub. L. 94–463, §6, as added Pub. L. 107–171, title X, §10605(a), May 13, 2002, 116 Stat. 513; amended Pub. L. 110–234, title X, §10106, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, §4(a), title X, §10106, June 18, 2008, 122 Stat. 1664, 2098.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 3005, Pub. L. 94–463, §6, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 103–437, §4(a)(8), Nov. 2, 1994, 108 Stat. 4582, related to review of activities by Secretary and annual report to Congress, prior to repeal by Pub. L. 105–362, title I, §101(d)(1), Nov. 10, 1998, 112 Stat. 3281.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §10106(1), inserted “and to promote direct producer-to-consumer marketing” before period at end.
+
+Subsec. (b)(1)(A). Pub. L. 110–246, §10106(2)(A), inserted “agri-tourism activities,” after “programs,”.
+
+Subsec. (b)(1)(B). Pub. L. 110–246, §10106(2)(B), inserted “agri-tourism activities,” after “programs,” and substituted “marketing opportunities” for “infrastructure”.
+
+Subsec. (c)(1). Pub. L. 110–246, §10106(3), inserted “or a producer network or association” after “cooperative”.
+
+Subsec. (e). Pub. L. 110–246, §10106(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -40,7 +40,7 @@ Armed Forces Workplace and Gender Relations Surveys.—The Armed Forces Workplac
 
 (d)
 
-Surveys To Be Conducted in Different Years.—Each of the four quadrennial surveys conducted under this section shall be conductedin a different year from any other survey conducted under this section, so that one such survey is conducted during each year.
+Surveys To Be Conducted in Different Years.—Each of the four quadrennial surveys conducted under this section shall be conducted in a different year from any other survey conducted under this section, so that one such survey is conducted during each year.
 
 (e)
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) increase the costs to the plan, or
 
-&emsp;&emsp;(B) impose unreasonable administrative burdens with respect to the operation of the plan, having regard to the particular characteristics of the plan or the type of plan involved; and
+&emsp;&emsp;(B) impose unreasonable administrative burdens with respect to the operation of theplan, having regard to the particular characteristics of the plan or the type of plan involved; and
 
 &emsp;(3) that the application of this part would be adverse to the interests of plan participants in the aggregate.
 

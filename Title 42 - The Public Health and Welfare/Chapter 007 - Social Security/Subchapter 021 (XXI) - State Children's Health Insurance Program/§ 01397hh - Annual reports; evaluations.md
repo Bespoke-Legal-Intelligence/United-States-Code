@@ -84,7 +84,7 @@ The State shall—
 
 #### (1) Audit
 
-&emsp;Beginning with fiscal year 2000, and every third fiscal year thereafter, the Secretary, through the Inspector General of the Department of Health and Human Services, shall audit a sample from among the States described in paragraph (2) in order to—
+&emsp;Beginning with fiscal year 2000, and every third fiscal year thereafter, the Secretary, through the Inspector General of the Department of Health and Human Services, shallaudit a sample from among the States described in paragraph (2) in order to—
 
 &emsp;&emsp;(A) determine the number, if any, of enrollees under the plan under this subchapter who are eligible for medical assistance under subchapter XIX of this chapter (other than as optional targeted low-income children under section 1396a(a)(10)(A)(ii)(XIV) of this title); and
 
@@ -96,7 +96,7 @@ The State shall—
 
 #### (3) Monitoring and report from GAO
 
-&emsp;The Comptroller General of the United States shall monitor the audits conducted under this subsection and, not later than March 1 of each fiscal year after a fiscal yearin which an audit is conducted under this subsection, shall submit a report to Congress on the results of the audit conducted during the prior fiscal year.
+&emsp;The Comptroller General of the United States shall monitor the audits conducted under this subsection and, not later than March 1 of each fiscal year after a fiscal year in which an audit is conducted under this subsection, shall submit a report to Congress on the results of the audit conducted during the prior fiscal year.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401.)
 

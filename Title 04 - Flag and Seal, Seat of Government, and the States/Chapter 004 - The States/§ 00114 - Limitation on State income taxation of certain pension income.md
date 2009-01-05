@@ -54,7 +54,7 @@ Section 514 of the Employee Retirement Income Security Act of 1974, referred to 
 
 #### Amendments
 
-2006—Subsec. (b)(1)(I). Pub. L. 109–264, §1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include income described in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
+2006—Subsec. (b)(1)(I). Pub. L. 109–264, §1(a)(1)–(3), inserted “(or any plan, program, or arrangement that is in writing, that provides for retirement payments in recognition of prior service to be made to a retired partner, and that is in effect immediately before retirement begins)” after “section 3121(v)(2)(C) of such Code” in introductory provisions, “which may include incomedescribed in subparagraphs (A) through (H)” after “(not less frequently than annually” in cl. (i), and concluding provisions at end.
 
 Subsec. (b)(4). Pub. L. 109–264, §1(a)(4), which directed the addition of par. (4) at end of subsec. (b)(1)(I), was executed by adding par. (4) at end of subsec. (b) to reflect the probable intent of Congress.
 

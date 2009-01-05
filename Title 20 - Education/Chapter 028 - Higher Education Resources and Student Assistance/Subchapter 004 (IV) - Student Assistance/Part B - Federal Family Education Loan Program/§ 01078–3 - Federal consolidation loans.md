@@ -42,9 +42,11 @@
 
 &emsp;&emsp;(V) an individual may obtain a subsequent consolidation loan under section 1087e(g) of this title only—
 
-&emsp;&emsp;&emsp;(aa) for the purposes of obtaining an income contingent repayment plan, and only if the loan has been submitted to the guaranty agency for default aversion; or
+&emsp;&emsp;&emsp;(aa) for the purposes of obtaining income contingent repayment or income-based repayment, and only if the loan has been submitted to the guaranty agency for default aversion or if the loan is already in default;
 
-&emsp;&emsp;&emsp;(bb) for the purposes of using the public service loan forgiveness program under section 1087e(m) of this title.
+&emsp;&emsp;&emsp;(bb) for the purposes of using the public service loan forgiveness program under section 1087e(m) of this title; or
+
+&emsp;&emsp;&emsp;(cc) for the purpose of using the no accrual of interest for active duty service members benefit offered under section 1087e(<i>o</i>) of this title.
 
 #### (4) “Eligible student loans” defined
 
@@ -74,9 +76,37 @@
 
 &emsp;&emsp;(D) that the proceeds of each consolidation loan will be paid by the lender to the holder or holders of the loans so selected to discharge the liability on such loans;
 
-&emsp;&emsp;(E) that the lender shall offer an income-sensitive repayment schedule, established by the lender in accordance with the regulations promulgated by the Secretary, to the borrower of any consolidation loan made by the lender on or after July 1, 1994; and
+&emsp;&emsp;(E) that the lender shall offer an income-sensitive repayment schedule, established by the lender in accordance with the regulations promulgated by the Secretary, to the borrower of any consolidation loan made by the lender on or after July 1, 1994;
 
-&emsp;&emsp;(F) such other terms and conditions as the Secretary or the guaranty agency may specifically require of the lender to carry out this section.
+&emsp;&emsp;(F) that the lender shall disclose to a prospective borrower, in simple and understandable terms, at the time the lender provides an application for a consolidation loan—
+
+&emsp;&emsp;&emsp;(i) whether consolidation would result in a loss of loan benefits under this part or part C, including loan forgiveness, cancellation, and deferment;
+
+&emsp;&emsp;&emsp;(ii) with respect to Federal Perkins Loans under part D—
+
+&emsp;&emsp;&emsp;&emsp;(I) that if a borrower includes a Federal Perkins Loan under part D in the consolidation loan, the borrower will lose all interest-free periods that would have been available for the Federal Perkins Loan, such as—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the periods during which no interest accrues on such loan while the borrower is enrolled in school at least half-time;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the grace period under section 1087dd(c)(1)(A) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the periods during which the borrower's student loan repayments are deferred under section 1087dd(c)(2) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) that if a borrower includes a Federal Perkins Loan in the consolidation loan, the borrower will no longer be eligible for cancellation of part or all of the Federal Perkins Loan under section 1087ee(a) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the occupations listed in section 1087ee of this title that qualify for Federal Perkins Loan cancellation under section 1087ee(a) of this title;
+
+&emsp;&emsp;&emsp;(iii) the repayment plans that are available to the borrower;
+
+&emsp;&emsp;&emsp;(iv) the options of the borrower to prepay the consolidation loan, to pay such loan on a shorter schedule, and to change repayment plans;
+
+&emsp;&emsp;&emsp;(v) that borrower benefit programs for a consolidation loan may vary among different lenders;
+
+&emsp;&emsp;&emsp;(vi) the consequences of default on the consolidation loan; and
+
+&emsp;&emsp;&emsp;(vii) that by applying for a consolidation loan, the borrower is not obligated to agree to take the consolidation loan; and
+
+&emsp;&emsp;(G) such other terms and conditions as the Secretary or the guaranty agency may specifically require of the lender to carry out this section.
 
 #### (2) Issuance of certificate of comprehensive insurance coverage
 
@@ -128,11 +158,11 @@
 
 &emsp;&emsp;(D) entitles the borrower to accelerate without penalty repayment of the whole or any part of the loan; and
 
-&emsp;&emsp;(E)(i) contains a notice of the system of disclosure concerning such loan to credit bureau organizations under section 1080a of this title, and (ii) provides that the lenderon request of the borrower will provide information on the repayment status of the note to such organizations.
+&emsp;&emsp;(E)(i) contains a notice of the system of disclosure concerning such loan to consumer reporting agencies under section 1080a of this title, and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies.
 
 #### (5) Direct loans
 
-&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of using the public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. Such direct consolidation loan shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
+&emsp;In the event that a borrower is unable to obtain a consolidation loan from a lender with an agreement under subsection (a)(1), or is unable to obtain a consolidation loan with income-sensitive repayment terms or income-based repayment terms acceptable to the borrower from such a lender, or chooses to obtain a consolidation loan for the purposes of usingthe public service loan forgiveness program offered under section 1087e(m) of this title, the Secretary shall offer any such borrower who applies for it, a Federal Direct Consolidation loan. In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(<i>o</i>) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program. A direct consolidation loan offered under this paragraph shall, as requested by the borrower, be repaid either pursuant to income contingent repayment under part C of this subchapter, pursuant to income-based repayment under section 1098e of this title, or pursuant to any other repayment provision under this section, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title. The Secretary shall not offer such loans if, in the Secretary's judgment, the Department of Education does not have the necessary origination and servicing arrangements in place for such loans.
 
 #### (6) Nondiscrimination in loan consolidation
 
@@ -168,7 +198,7 @@
 
 #### (2) Repayment schedules
 
-&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2)(F) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated or income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
+&emsp;(A) Notwithstanding any other provision of this part, to the extent authorized by its certificate of insurance under subsection (b)(2)(F) of this section and approved by the issuer of such certificate, the lender of a consolidation loan shall establish repayment terms as will promote the objectives of this section, which shall include the establishment of graduated income-sensitive, or income-based repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive or income-based repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms shall require that if the sum of the consolidation loan and the amount outstanding on other student loans to the individual—
 
 &emsp;&emsp;(i) is less than $7,500, then such consolidation loan shall be repaid in not more than 10 years;
 
@@ -188,9 +218,11 @@
 
 &emsp;Notwithstanding paragraph (2)—
 
-&emsp;&emsp;(A) a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment be an amount equal to not less than the accrued unpaid interest; and
+&emsp;&emsp;(A) except in the case of an income-based repayment schedule under section 1098e ofthis title <sup>2</sup> a repayment schedule established with respect to a consolidation loan shall require that the minimum installment payment be an amount equal to not less than the accrued unpaid interest;
 
-&emsp;&emsp;(B) except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, the lender of a consolidation loan may, with respect to repayment on the loan, when the amount of a monthly or other similar payment on the loan is not a multiple of $5, round the payment to the next highest whole dollar amount that is a multiple of $5.
+&emsp;&emsp;(B) except as required by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, the lender of a consolidation loan may, with respect to repayment on the loan, when the amount of a monthly or other similar payment on the loan is not a multiple of $5, round the payment to the next highest whole dollar amount that is a multiple of $5; and
+
+&emsp;&emsp;(C) an income-based repayment schedule under section 1098e of this title shall not be available to a consolidation loan borrower who used the proceeds of the loan to discharge the liability on a loan under section 1078–2 of this title, or a Federal Direct PLUS loan, made on behalf of a dependent student.
 
 #### (4) Commencement of repayment
 
@@ -258,7 +290,7 @@
 
 #### (e) Termination of authority
 
-The authority to make loans under this section expires at the close of September 30, 2012. Nothing in this section shall be construed to authorize the Secretary to promulgate rules or regulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
+The authority to make loans under this section expires at the close of September 30, 2014. Nothing in this section shall be construed to authorize the Secretary to promulgate rules orregulations governing the terms or conditions of the agreements and certificates under subsection (b) of this section. Loans made under this section which are insured by the Secretary shall be considered to be new loans made to students for the purpose of section 1074(a) of this title.
 
 #### (f) Interest payment rebate fee
 
@@ -274,15 +306,7 @@ The authority to make loans under this section expires at the close of September
 
 &emsp;The Secretary shall deposit all fees collected pursuant to subsection (a) of this section into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795.)
-
-#### Amendment of Section
-
-<i>Pub. L. 110–84, §203(b)(2), (c)(1), Sept. 27, 2007, 121 Stat. 795, provided that, effective July 1, 2009, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(3)(B)(i)(V)(aa), by striking “an income contingent repayment plan,” and inserting “income contingent repayment or income-based repayment,” and by inserting “or if the loan is already in default” before the semicolon; and</i>
-
-<i>(2) in subsection (b)(5), by inserting “or income-based repayment terms” after “income-sensitive repayment terms” in the first sentence and by inserting “, pursuant to income-based repayment under section 1098e of this title,” after “part C of this subchapter” in the second sentence.</i>
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246.)
 
 #### References in Text
 
@@ -300,9 +324,33 @@ A prior section 1078–3, Pub. L. 89–329, title IV, §428C, as added Pub. L. 9
 
 #### Amendments
 
+2008—Subsec. (a)(3)(B)(i)(V)(cc). Pub. L. 110–315, §425(a), added item (cc).
+
+Subsec. (b)(1)(F), (G). Pub. L. 110–315, §425(b)(1), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (b)(4)(E)(i). Pub. L. 110–315, §432(b)(3)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
+
+Subsec. (b)(4)(E)(ii). Pub. L. 110–315, §432(b)(3)(B), substituted “consumer reporting agencies” for “organizations”.
+
+Subsec. (b)(5). Pub. L. 110–315, §425(c), made technical correction to directory language of Pub. L. 110–84, §203(b)(2)(C). See 2007 Amendment note below.
+
+Pub. L. 110–315, §425(b)(2), substituted “A direct consolidation loan offered under this paragraph” for “Such direct consolidation loan” and inserted after first sentence “In addition, in the event that a borrower chooses to obtain a consolidation loan for the purposes of using the no accrual of interest for active duty service members program offered under section 1087e(<i>o</i>) of this title, the Secretary shall offer a Federal Direct Consolidation loan to any such borrower who applies for participation in such program.”
+
+Subsec. (c)(2)(A). Pub. L. 110–315, §425(d)(1)(A), in introductory provisions, substituted “income-sensitive, or income-based” for “or income-sensitive” and inserted “or income-based” after “such income-sensitive”.
+
+Subsec. (c)(3). Pub. L. 110–315, §425(d)(1)(B), inserted “except in the case of an income-based repayment schedule under section 1098e of this title” before “a repayment schedule” in subpar. (A) and added subpar. (C).
+
+Subsec. (e). Pub. L. 110–315, §425(e), substituted “2014” for “2012”.
+
 2007—Subsec. (a)(3)(B)(i)(V). Pub. L. 110–84, §203(b)(1)(A), amended subcl. (V) generally. Prior to amendment, subcl. (V) read as follows: “an individual may obtain a subsequent consolidation loan under section 1087e(g) of this title only for the purposes of obtaining an income contingent repayment plan, and only if the loan has been submitted to the guaranty agency for default aversion.”
 
-Subsec. (b)(5). Pub. L. 110–84, §203(b)(1)(B), (C), inserted “or chooses to obtain a consolidation loan for the purposes of using the public service loan forgiveness program offered under section 1087e(m) of this title,” after “from such a lender,” in first sentence and “, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title” before period at end of second sentence.
+Subsec. (a)(3)(B)(i)(V)(aa). Pub. L. 110–84, §203(b)(2)(A), substituted “income contingent repayment or income-based repayment,” for “an income contingent repayment plan,” and inserted “or if the loan is already in default” before semicolon.
+
+Subsec. (b)(5). Pub. L. 110–84, §203(b)(2)(C), as amended by Pub. L. 110–315, §425(c), inserted “, pursuant to income-based repayment under section 1098e of this title,” after “part C of this subchapter” in third sentence.
+
+Pub. L. 110–84, §203(b)(2)(B), inserted “or income-based repayment terms” after “income-sensitive repayment terms” in first sentence.
+
+Pub. L. 110–84, §203(b)(1)(B), (C), inserted “or chooses to obtain a consolidation loan for the purposes of using the public service loan forgiveness program offered under section 1087e(m) of this title,” after “from such a lender,” in first sentence and “, except that if a borrower intends to be eligible to use the public service loan forgiveness program under section 1087e(m) of this title, such loan shall be repaid using one of the repayment options described in section 1087e(m)(1)(A) of this title” before period at end of second sentence.
 
 2006—Subsec. (a)(3)(A)(ii)(I). Pub. L. 109–171, §8009(b)(2), inserted “as determined under section 1078(b)(7)(A) of this title” after “repayment status”.
 
@@ -360,7 +408,7 @@ Subsec. (c)(1)(D). Pub. L. 105–78, §609(e)(2), added subpar. (D).
 
 Subsec. (e). Pub. L. 105–33 substituted “September 30, 2002.” for “September 30, 1998.”
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208 inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the Holding Company, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–208 inserted “or the Holding Company of the Student Loan Marketing Association, including any subsidiary of the HoldingCompany, created pursuant to section 1087–3 of this title” after “Student Loan Marketing Association”.
 
 1994—Subsec. (a)(4)(D). Pub. L. 103–382 added subpar. (D).
 
@@ -452,6 +500,10 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–50, §10(s)(6), substituted “equal to or g
 
 Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted “, but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan” before period at end.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §425(d)(2), Aug. 14, 2008, 122 Stat. 3235, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on July 1, 2009.”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–84, title II, §203(c), Sept. 27, 2007, 121 Stat. 795, provided that:
@@ -502,7 +554,9 @@ Section 609(f) of Pub. L. 105–78 provided that: “The consolidation loans aut
 
 #### Cost Evaluation Report
 
-Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Education shall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
+Pub. L. 99–272, title XVI, §16017(d), Apr. 7, 1986, 100 Stat. 348, provided that: “The Secretary of Educationshall evaluate the cost, efficiency, and impact of the consolidation loan program established by the amendments made by this section \[enacting former section 1078–3 of this title and amending former sections 1077, 1085, 1087–1, and 1087–2 of this title\] and shall report to the Congress not later than June 30, 1988, on the findings and recommendations required by this subsection.”
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

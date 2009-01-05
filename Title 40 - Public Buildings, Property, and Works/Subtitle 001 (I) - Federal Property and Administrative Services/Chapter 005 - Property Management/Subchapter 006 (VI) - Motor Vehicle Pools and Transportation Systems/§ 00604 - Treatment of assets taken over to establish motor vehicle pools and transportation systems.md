@@ -6,7 +6,7 @@ Reimbursement.—
 
 &emsp;(1)
 
-Requirement.—When the Administrator of General Services takes over motor vehicles or related equipment or supplies under section602 of this title, reimbursement is required if the property is taken over from—
+Requirement.—When the Administrator of General Services takes over motor vehicles or related equipment or supplies under section 602 of this title, reimbursement is required if the property is taken over from—
 
 &emsp;&emsp;(A) a Government corporation; or
 

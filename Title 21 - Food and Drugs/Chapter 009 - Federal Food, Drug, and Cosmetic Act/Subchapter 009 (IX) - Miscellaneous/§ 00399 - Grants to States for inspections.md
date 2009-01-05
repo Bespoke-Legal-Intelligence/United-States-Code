@@ -10,7 +10,7 @@ The Secretary may make grants to the States for the purpose of assisting the Sta
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$10,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2006.
+For the purpose of carrying out this section, there are authorized to be appropriated $10,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2006.
 
 (June 25, 1938, ch. 675, §909, as added Pub. L. 107–188, title III, §311, June 12, 2002, 116 Stat. 673.)
 

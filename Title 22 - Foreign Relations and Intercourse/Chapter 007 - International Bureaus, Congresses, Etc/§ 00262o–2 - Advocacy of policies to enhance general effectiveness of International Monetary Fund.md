@@ -40,7 +40,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors and private creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
 
-&emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contribution by the private creditors, investors, and banks which had extended such credits.
+&emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contributionby the private creditors, investors, and banks which had extended such credits.
 
 &emsp;(6) Vigorously promote policies that would make the International Monetary Fund a more effective mechanism, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), for promoting good governance principles within recipient countries by fostering structural reforms, including procurement reform, that reduce opportunities for corruption and bribery, and drug-related money laundering.
 
@@ -60,7 +60,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(11) Vigorously promote recognition by the International Monetary Fund that macroeconomic developments and policies can affect and be affected by environmental conditions and policies, and urge the International Monetary Fund to encourage member countries to pursue macroeconomic stability while promoting environmental protection.
 
-&emsp;(12) Facilitate greater International Monetary Fund transparency, including by enhancing accessibility of the International Monetary Fund and its staff, fostering a more open release policy toward working papers, pastevaluations, and other International Monetary Fund documents, seeking to publish all Letters of Intent to the International Monetary Fund and Policy Framework Papers, and establishing a more open release policy regarding Article IV consultations.
+&emsp;(12) Facilitate greater International Monetary Fund transparency, including by enhancing accessibility of the International Monetary Fund and its staff, fostering a more open release policy toward working papers, past evaluations, and other International Monetary Fund documents, seeking to publish all Letters of Intent to the International Monetary Fund and Policy Framework Papers, and establishing a more open release policy regarding Article IV consultations.
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
@@ -90,7 +90,7 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 #### Additional Provisions Relating to International Monetary Fund
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, as amended by Pub. L. 110–161, div. H, title I, §1502(a), Dec. 26, 2007, 121 Stat. 2250, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–317, as amended by Pub. L.110–161, div. H, title I, §1502(a), Dec. 26, 2007, 121 Stat. 2250, provided that:
 
 “(a)
 

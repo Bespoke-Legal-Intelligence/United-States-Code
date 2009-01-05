@@ -90,7 +90,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: “This Ac
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Corporation Improvement Act of 1991’.”
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: “This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the ‘Bank Enterprise Act of 1991’.”
 
@@ -520,7 +520,7 @@ In General.—The Comptroller General of the United States shall conduct a study
 
 “(b)
 
-Consultation and Cooperation With Other Agencies.—The Comptroller General shall determinethe structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
+Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
 
 “(c)
 

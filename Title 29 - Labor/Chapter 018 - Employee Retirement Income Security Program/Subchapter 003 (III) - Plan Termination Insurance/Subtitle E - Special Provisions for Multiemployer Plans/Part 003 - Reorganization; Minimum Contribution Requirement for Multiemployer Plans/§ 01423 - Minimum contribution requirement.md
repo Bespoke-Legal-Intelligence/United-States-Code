@@ -6,7 +6,7 @@
 
 &emsp;(A) the plan shall continue to maintain its funding standard account while it is in reorganization, and
 
-&emsp;(B) the plan's accumulated funding deficiency under section 1084(a) of this title forsuch plan year shall be equal to the excess (if any) of—
+&emsp;(B) the plan's accumulated funding deficiency under section 1084(a) of this title for such plan year shall be equal to the excess (if any) of—
 
 &emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1084(a) of this title if the plan was not in reorganization), over
 

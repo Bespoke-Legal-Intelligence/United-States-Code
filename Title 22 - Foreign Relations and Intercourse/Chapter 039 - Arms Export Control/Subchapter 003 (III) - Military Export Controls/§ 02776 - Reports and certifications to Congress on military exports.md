@@ -26,7 +26,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;(8) a listing of each sale under section 2769 of this title during the quarter for which such report is made, specifying (A) the purchaser, (B) the United States Government department or agency responsible for implementing the sale, (C) an estimate of the dollar amount of the sale, and (D) a general description of the real property facilities to be constructed pursuant to such sale;
 
-&emsp;(9) a listing of the consents to third-party transfers of defense articles or defense services which were granted, during the quarter for which such report is submitted, for purposes of section 2753(a)(2) of this title, the regulations issued under section 2778 of this title, or section 2314(a)(1)(B) of this title, if the value (in terms of original acquisition cost) of the defense articles or defense services to be transferred is $1,000,000 or more;
+&emsp;(9) a listing of the consents to third-party transfers of defense articles or defense serviceswhich were granted, during the quarter for which such report is submitted, for purposes of section 2753(a)(2) of this title, the regulations issued under section 2778 of this title, or section 2314(a)(1)(B) of this title, if the value (in terms of original acquisition cost) of the defense articles or defense services to be transferred is $1,000,000 or more;
 
 &emsp;(10) a listing of all munitions items (as defined in section 2780(<i>l</i>)(1) of this title) which were sold, leased, or otherwise transferred by the Department of Defense to any other department, agency, or other entity of the United States Government during the quarter for which such report is submitted (including the name of the recipient Government entity and a discussion of what that entity will do with those munitions items) if—
 
@@ -54,7 +54,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (1) Subject to paragraph (6), in the case of any letter of offer to sell any defense articles or services under this chapter for $50,000,000 or more, any design and construction services for $200,000,000 or more, or any major defense equipment for $14,000,000 or more, before such letter of offer is issued, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a numbered certification with respect to such offer to sell containing the information specified in clauses (i) through (iv) of subsection (a) of this section, or (in the case of a sale of design and construction services) the information specified in clauses (A) through (D) of paragraph (9) <sup>1</sup> of subsection (a) of this section, and a description, containing the information specified in paragraph (8) <sup>1</sup> of subsection (a) of this section, of any contribution, gift, commission, or fee paid or offered or agreed to be paid in order to solicit, promote, or otherwise to secure such letter of offer. Such numbered certifications shall also contain an item, classified if necessary, identifying the sensitivity of technology contained in the defense articles, defense services, or design and construction services, proposed to be sold, and a detailed justification of the reasons necessitating the sale of such articles or services in view of the sensitivity of such technology. In a case in which such articles or services listed on the Missile Technology Control Regime Annex are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. Each such numbered certification shall contain an item indicating whether any offset agreement is proposed to be entered into in connection with such letter of offer to sell (if known on the date of transmittal of such certification). In addition, the President shall, upon the request of such committee or the Committee on Foreign Affairs of the House of Representatives, transmit promptly to both such committees a statement setting forth, to the extent specified in such request—
 
-&emsp;(A) a detailed description of the defense articles, defense services, or design and construction services to be offered, including a brief description of the capabilities of any defense article to be offered;
+&emsp;(A) a detailed description of the defense articles, defense services, or design and construction services to be offered, including a briefdescription of the capabilities of any defense article to be offered;
 
 &emsp;(B) an estimate of the number of officers and employees of the United States Government and of United States civilian contract personnel expected to be needed in such country to carry out the proposed sale;
 
@@ -72,7 +72,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;&emsp;(v) adversely affect the arms control policy of the United States;
 
-&emsp;(E) the reasons why the foreign country or international organization to which the sale isproposed to be made needs the defense articles, defense services, or design and construction services which are the subject of such sale and a description of how such country or organization intends to use such defense articles, defense services, or design and construction services;
+&emsp;(E) the reasons why the foreign country or international organization to which the sale is proposed to be made needs the defense articles, defense services, or design and construction services which are the subject of such sale and a description of how such country or organization intends to use such defense articles, defense services, or design and construction services;
 
 &emsp;(F) an analysis by the President of the impact of the proposed sale on the military stocks and the military preparedness of the United States;
 
@@ -96,9 +96,9 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 &emsp;(P) an analysis of the relationship of the proposed sale to projected procurements of the same item.
 
-> A certification transmitted pursuant to this subsection shall be unclassified, except that the information specified in clause (ii) and the details of the description specified in clause (iii) of subsection (a) of this section may be classified if the public disclosure thereof would be clearly detrimental to the security of the United States, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information. The letter of offer shall not be issued, with respect to a proposed sale to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand, if the Congress, within fifteen calendar days after receiving such certification, or with respect to a proposed sale to any other country or organization, if the Congress within thirty calendar days after receiving such certification, enacts a joint resolution prohibiting the proposed sale, unless the President states in his certification that an emergency exists which requires such sale in the national security interests of the United States. If the President states in his certification that an emergency exists which requires the proposed sale in the national security interest of the United States, thus waiving the congressional review requirements of this subsection, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate the immediate issuance of the letter of offer and a discussion of the national security interests involved.
+> A certification transmitted pursuant to this subsection shall be unclassified, except that the information specified in clause (ii) and the details of the description specified in clause (iii) of subsection (a) of this section may be classified if the public disclosure thereof would be clearly detrimental to the security of the United States, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information. The letter of offer shall not be issued, with respect to a proposed sale to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, the Republic of Korea, or New Zealand, if the Congress, within fifteen calendar days after receiving such certification, or with respect to a proposed sale to any other country or organization, if the Congress within thirty calendar days after receiving such certification, enacts a joint resolution prohibiting the proposed sale, unless the President states in his certification that an emergency exists which requires such sale in the national security interests of the United States. If the President states in his certification that an emergency exists which requires the proposed sale in the national security interest of the United States, thus waiving the congressional review requirements of this subsection, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate the immediate issuance of the letter of offer and a discussion of the national security interests involved.
 
-(2) Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, except that for purposes of consideration of any joint resolution with respect to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand, it shall be in order in the Senate to move to discharge a committee to which such joint resolution was referred if such committee has not reported such joint resolution at the end of five calendar days after its introduction.
+(2) Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, except that for purposes of consideration of any joint resolution with respect to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, the Republic of Korea, or New Zealand, it shall be in order in the Senate to move to discharge a committee to which such joint resolution was referred if such committee has not reported such joint resolution at the end of five calendar days after its introduction.
 
 (3) For the purpose of expediting the consideration and enactment of joint resolutions under this subsection, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
@@ -116,7 +116,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (D) For the purposes of subparagraph (A), the term “major defense article” shall be construed to include electronic devices, which if upgraded, would enhance the mission capability of a weapons system.
 
-(6) The limitation in paragraph (1) and the requirement in paragraph (5)(C) shall apply in the case of a letter of offer to sell to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries only if the letter of offer involves—
+(6) The limitation in paragraph (1) and the requirement in paragraph (5)(C) shall apply in the case of a letter of offer to sell to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, the Republic of Korea, or New Zealand that does not authorize a new sales territory that includes any country other than such countries only if the letter of offer involves—
 
 &emsp;(A) the sale of major defense equipment under this chapter for, or the enhancement or upgrade of major defense equipment at a cost of, $25,000,000 or more, as the case may be; and
 
@@ -126,11 +126,11 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 #### (c) Application for export license; submission of numbered Presidential certification and statement to Congress; contents; emergency circumstances; joint resolution; exception; notification of upgrades
 
-(1) Subject to paragraph (5), in the case of an application by a person (other than with regard to a sale under section 2761 or section 2762 of this title) for a license for the export of any major defense equipment sold under a contract in the amount of $14,000,000 or more or of defense articles or defense services sold under a contract in the amount of $50,000,000 or more (or, in the case of a defense article that is a firearm controlled under category I of the United States Munitions List, $1,000,000 or more), before issuing such license the President shall transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate an unclassified numbered certification with respect to such application specifying (A) the foreign country or international organization to which such export will be made, (B) the dollar amount of the items to be exported, and (C) a description of the items to be exported. Each such numbered certification shall also contain an item indicating whether any offset agreement is proposed to be entered into in connection with such export and a description of any such offset agreement. In addition, the President shall, upon the request of such committee or the Committee on Foreign Affairs of the House of Representatives, transmit promptly to both such committees a statement setting forth, to the extent specified in such request, a description of the capabilities of the items to be exported, an estimate of the total number of United States personnel expected to be needed in the foreign country concerned in connection with the items to be exported and an analysis of the arms control impact pertinent to such application, prepared in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement). In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. A certification transmitted pursuant to this subsection shall be unclassified, except that the information specified in clause (B) and the details of the description specified in clause (C) may be classified if the public disclosure thereof wouldbe clearly detrimental to the security of the United States, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information.
+(1) Subject to paragraph (5), in the case of an application by a person (other than with regard to a sale under section 2761 or section 2762 of this title) for a license for the export of any major defense equipment sold under a contract in the amount of $14,000,000 or more or of defense articles or defense services sold under a contract in the amount of $50,000,000 or more (or, in the case of a defense article that is a firearm controlled under category I of the United States Munitions List, $1,000,000 or more), before issuing such license the President shall transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate an unclassified numbered certification with respect to such application specifying (A) the foreign country or international organization to which such export will be made, (B) the dollar amount of the items to be exported, and (C) a description of the items to be exported. Each such numbered certification shall also contain an item indicating whether any offset agreement is proposed to be entered into in connection with such export and a description of any such offset agreement. In addition, the President shall, upon the request of such committee or the Committee on Foreign Affairs of the House of Representatives, transmit promptly to both such committees a statement setting forth, to the extent specified in such request, a description of the capabilities of the items to be exported, an estimate of the total number of United States personnel expected to be needed in the foreign country concerned in connection with the items to be exported and an analysis of the arms control impact pertinent to such application, prepared in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement). In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. A certification transmitted pursuant to this subsection shall be unclassified, except that the information specified in clause (B) and the details of the description specified in clause (C) may be classified if the public disclosure thereof would be clearly detrimental to the security of the United States, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information.
 
 (2) Unless the President states in his certification that an emergency exists which requires the proposed export in the national security interests of the United States, a license for export described in paragraph (1)—
 
-&emsp;(A) in the case of a license for an export to the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, or New Zealand, shall not be issued until at least 15 calendar days after the Congress receives such certification, and shall not be issued then if the Congress, within that 15-day period, enacts a joint resolution prohibiting the proposed export;
+&emsp;(A) in the case of a license for an export to the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, or New Zealand, shall not be issued until at least 15 calendar days after the Congress receives such certification, and shall not be issued then if the Congress, within that 15-day period, enacts a joint resolution prohibiting the proposed export;
 
 &emsp;(B) in the case of a license for an export of a commercial communications satellite for launch from, and by nationals of, the Russian Federation, Ukraine, or Kazakhstan, shall not be issued until at least 15 calendar days after the Congress receives such certification, and shall not be issued then if the Congress, within that 15-day period, enacts a joint resolution prohibiting the proposed export; and
 
@@ -144,7 +144,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (4) The provisions of subsection (b)(5) of this section shall apply to any equipment, article, or service for which a numbered certification has been transmitted to Congress pursuant to paragraph (1) in the same manner and to the same extent as that subsection applies to any equipment, article, or service for which a numbered certification has been transmitted to Congress pursuant to subsection (b)(1) of this section. For purposes of such application, any reference in subsection (b)(5) of this section to “a letter of offer” or “an offer” shall be deemed to be a reference to “a contract”.
 
-(5) In the case of an application by a person (other than with regard to a sale under section 2761 or 2762 of this title) for a license for the export to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on the issuance of the license set forth in paragraph (1) shall apply only if the license is for export of—
+(5) In the case of an application by a person (other than with regard to a sale under section 2761 or 2762 of this title) for a license for the export to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, the Republic of Korea, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on the issuance of the license set forth in paragraph (1) shall apply only if the license is for export of—
 
 &emsp;(A) major defense equipment sold under a contract in the amount of $25,000,000 or more; or
 
@@ -156,7 +156,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (2) A certification under this subsection shall be submitted—
 
-&emsp;(A) at least 15 days before approval is given in the case of an agreement for or in a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
+&emsp;(A) at least 15 days before approval is given in the case of an agreement for or in a countrywhich is a member of the North Atlantic Treaty Organization or Australia, Japan, the Republic of Korea, or New Zealand; and
 
 &emsp;(B) at least 30 days before approval is given in the case of an agreement for or in any other country;
 
@@ -166,7 +166,7 @@ The President shall transmit to the Speaker of the House of Representatives and 
 
 (4) Approval for an agreement subject to paragraph (1) may not be given under section 2778 of this title if the Congress, within the 15-day or 30-day period specified in paragraph (2)(A) or (B), as the case may be, enacts a joint resolution prohibiting such approval.
 
-(5)(A) Any joint resolution under paragraph (4) shall be considered in the Senate in accordancewith the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+(5)(A) Any joint resolution under paragraph (4) shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (B) For the purpose of expediting the consideration and enactment of joint resolutions under paragraph (4), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
@@ -200,7 +200,17 @@ The President shall cause to be published in a timely manner in the Federal Regi
 
 Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) of this section and the second sentence of subsection (c)(1) of this section shall be treated as confidential information in accordance with section 2411(c) of the Appendix to title 50.
 
-(Pub. L. 90–629, ch. 3, §36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, §45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, §211(a), title VI, §604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, §21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§117, 118, title XII, §1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, §1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, §1045(a), Sept. 23, 1996, 110 Stat. 2644; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1224, 1245, title XIII, §§1301, 1302(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498, 1501A–502, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(c)(1), Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §§1205(a), 1262(c), title XIV, §1405(a)(2), Sept. 30, 2002, 116 Stat. 1427, 1434, 1457.)
+#### (h) Certification requirement relating to Israel's qualitative military edge
+
+#### (1) In general
+
+&emsp;Any certification relating to a proposed sale or export of defense articles or defense services under this section to any country in the Middle East other than Israel shall include a determination that the sale or export of the defense articles or defense services will not adversely affect Israel's qualitative military edge over military threats to Israel.
+
+#### (2) Qualitative military edge defined
+
+&emsp;In this subsection, the term “qualitative military edge” means the ability to counter and defeat any credible conventional military threat from any individual state or possible coalition of states or from non-state actors, while sustaining minimal damages and casualties, through the use of superior military means, possessed in sufficient quantity, including weapons, command, control, communication, intelligence, surveillance, and reconnaissance capabilities that in their technical characteristics are superior in capability to those of such other individual or possible coalition of states or non-state actors.
+
+(Pub. L. 90–629, ch. 3, §36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, §25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, §45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, §211(a), title VI, §604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, §21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§117, 118, title XII, §1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, §1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, §1045(a), Sept. 23, 1996, 110 Stat. 2644; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(1),Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1224, 1245, title XIII, §§1301, 1302(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498, 1501A–502, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(c)(1), Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §§1205(a), 1262(c), title XIV, §1405(a)(2), Sept. 30, 2002, 116 Stat. 1427, 1434, 1457; Pub. L. 110–429, title II, §§201(d), 203(b)(1), Oct. 15, 2008, 122 Stat. 4843, 4845.)
 
 #### References in Text
 
@@ -213,6 +223,10 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 Section 2768 of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 104–106, div. A, title X, §1064(a), Feb. 10, 1996, 110 Stat. 445.
 
 #### Amendments
+
+2008—Subsecs. (b), (c), (d)(2)(A). Pub. L. 110–429, §203(b)(1), inserted “the Republic of Korea,” before “or New Zealand” wherever appearing.
+
+Subsec. (h). Pub. L. 110–429, §201(d), added subsec. (h).
 
 2002—Subsec. (a)(7) to (13). Pub. L. 107–228, §1262(c), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7) which read as follows: “an estimate of—
 
@@ -385,6 +399,46 @@ Section 604(c) of Pub. L. 94–329 provided that: “The amendments made by this
 Functions of President under subsecs. (a) and (b)(1) of this section, except with respect to certification of an emergency under subsec. (b)(1), delegated to Secretary of Defense, with Secretary of Defense required to consult with other specific agencies in implementing certain delegated functions, by section 1(j) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 Functions of President under subsecs. (c) and (d) of this section delegated to Secretary of State, and functions of President under subsec. (e) of this section with respect to transmittals pursuant to subsec. (b) of this section delegated to Secretary of Defense and with respect to transmittals pursuant to subsec. (c) of this section delegated to Secretary of State, by section 1(k) of Ex. Ord. No. 11958.
+
+#### Assessment of Israel's Qualitative Military Edge Over Military Threats
+
+Pub. L. 110–429, title II, §201, Oct. 15, 2008, 122 Stat. 4843, provided that:
+
+“(a)
+
+Assessment Required.—The President shall carry out an empirical and qualitative assessment on an ongoing basis of the extent to which Israel possesses a qualitative military edge over military threats to Israel. The assessment required under this subsection shall be sufficiently robust so as to facilitate comparability of data over concurrent years.
+
+“(b)
+
+Use of Assessment.—The President shall ensure that the assessment required under subsection (a) is used to inform the review by the United States of applications to sell defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.) to countries in the Middle East.
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+Initial report.—Not later than June 30, 2009, the President shall transmit to the appropriate congressional committees a report on the initial assessment required under subsection (a).
+
+&emsp;“(2)
+
+Quadrennial report.—Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter, the President shall transmit to the appropriate congressional committees a report on the most recent assessment required under subsection (a).
+
+“(d)
+
+Certification.—\[Amended this section.\]
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+&emsp;“(2)
+
+Qualitative military edge.—The term ‘qualitative military edge’ has the meaning given the term in section 36(h) of the Arms Export Control Act, as added by subsection (d) of this section \[22 U.S.C. 2776(h)\].”
 
 #### National Disclosure Policy for Sensitive Weapons Technology; Report to Congress
 

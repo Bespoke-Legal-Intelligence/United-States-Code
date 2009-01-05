@@ -28,7 +28,7 @@ The Council shall (1) advise the Chairperson with respect to policies, programs,
 
 #### Amendments
 
-1985—Subsec. (b). Pub. L. 99–194, §108(1), substituted “Chairperson” for “Chairman” in two places, substituted “individuals who (1) are selected from among private citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of” for “selected on the basis of”, and inserted provision that in making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
+1985—Subsec. (b). Pub. L. 99–194, §108(1), substituted “Chairperson” for “Chairman” in two places, substituted “individuals who (1) are selected from amongprivate citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of” for “selected on the basis of”, and inserted provision that in making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
 
 Subsec. (c). Pub. L. 99–194, §108(2), substituted “such member's” for “his” wherever appearing.
 

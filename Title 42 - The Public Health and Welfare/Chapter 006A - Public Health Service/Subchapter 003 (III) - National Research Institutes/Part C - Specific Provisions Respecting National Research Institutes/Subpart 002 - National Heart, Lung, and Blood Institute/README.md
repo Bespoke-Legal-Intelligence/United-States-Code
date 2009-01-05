@@ -15,4 +15,5 @@ subpart 2—national heart, lung, and blood institute
 - [&sect; 00285b&#8211;7 - National Center on Sleep Disorders Research](%C2%A7%2000285b%E2%80%937%20-%20National%20Center%20on%20Sleep%20Disorders%20Research.md)
 - [&sect; 00285b&#8211;7a - Heart attack, stroke, and other cardiovascular diseases in women](%C2%A7%2000285b%E2%80%937a%20-%20Heart%20attack%2C%20stroke%2C%20and%20other%20cardiovascular%20diseases%20in%20women.md)
 - [&sect; 00285b&#8211;7b - Coordination of Federal asthma activities](%C2%A7%2000285b%E2%80%937b%20-%20Coordination%20of%20Federal%20asthma%20activities.md)
+- [&sect; 00285b&#8211;7c - Tuberculosis](%C2%A7%2000285b%E2%80%937c%20-%20Tuberculosis.md)
 - [&sect; 00285b&#8211;8 - Repealed. Pub. L. 109&#8211;482, title I, &sect;103(b)(20), Jan. 15, 2007, 120 Stat. 3688](%C2%A7%2000285b%E2%80%938%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93482%2C%20title%20I%2C%20%C2%A7103%28b%29%2820%29%2C%20Jan.%2015%2C%202007%2C%20120%20Stat.%203688.md)

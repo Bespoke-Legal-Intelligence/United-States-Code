@@ -8,9 +8,15 @@ Subject to the authority of the Secretary, the Chief Operating Officer of a PBO 
 
 Except as provided in this section, the PBO shall abide by all applicable Federal procurement laws and regulations when procuring property and services. The PBO shall—
 
-&emsp;(1) enter into contracts for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 to carry out the functions set forth in section 1018(b)(2) of this title; and
+&emsp;(1) enter into contracts to carry out the functions set forth in section 1018(b)(2) of this title;
 
-&emsp;(2) obtain the services of experts and consultants without regard to section 3109 of title 5 and set pay in accordance with such section.
+&emsp;(2) obtain the services of experts and consultants without regard to section 3109 of title 5 and set pay in accordance with such section; and
+
+&emsp;(3) through the Chief Operating Officer—
+
+&emsp;&emsp;(A) to the maximum extent practicable, utilize procurement systems that streamline operations, improve internal controls, and enhance management; and
+
+&emsp;&emsp;(B) assess the efficiency of such systems and assess such systems’ ability to meet PBO requirements.
 
 #### (c) Service contracts
 
@@ -20,7 +26,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (2) Fee for service arrangements
 
-&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer.
+&emsp;The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the functions set forth in section 1018(b)(2) of this title from any entity that has the capability and capacity to meet the requirements set by the PBO. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides services that meet the requirements of the PBO, as determined by the Chief Operating Officer.
 
 #### (d) Two-phase source-selection procedures
 
@@ -46,7 +52,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (B) Information submitted by offerors
 
-&emsp;&emsp;Each offeror for the procurement shall submit basic information, such as information on the offeror's qualifications, the proposed conceptual approach, costs likely to be associated with the proposed conceptual approach, and past performance of the offeror on Federal Government contracts, together with any additional information that is requested by the contracting officer.
+&emsp;&emsp;Each offeror for the procurement shall submit basic information, such as information on the offeror's qualifications, the proposed conceptual approach, costs likely to be associated with the proposed conceptual approach, and past performance of the offeror, together with any additional information that is requested by the contracting officer.
 
 #### (C) Selection for second phase
 
@@ -124,9 +130,9 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 &emsp;If the procurement of the first module for a system meets the requirements set forth in paragraph (3), the PBO may award a contract for the procurement of an additional module for the system using any of the following procedures:
 
-#### (A) Sole source
+#### (A) Single-source basis
 
-&emsp;&emsp;Award of the contract on a sole-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
+&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
 
 #### (B) Adequate competition
 
@@ -148,7 +154,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (B) Exception
 
-&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
+&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use ofprocedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
 
 #### (C) Content of notice
 
@@ -160,7 +166,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (7) Simplified source-selection procedures
 
-&emsp;The PBO may award a contract under any other simplified procedures prescribed by the PBO for the selection of sources for the procurement of modules for a system, after the first module, that are not to be procured under a contract awarded on a sole-source basis.
+&emsp;The PBO may award a contract under any other simplified procedures prescribed by the PBO for the selection of sources for the procurement of modules for a system, after the first module, that are not to be procured under a contract awarded on a single-source basis.
 
 #### (h) Use of simplified procedures for small business set-asides for services other than commercial items
 
@@ -178,7 +184,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 &emsp;The authority set forth in paragraph (1) may not be used for—
 
-&emsp;&emsp;(A) an award of a contract on a sole-source basis; or
+&emsp;&emsp;(A) an award of a contract on a single-source basis; or
 
 &emsp;&emsp;(B) a contract for construction.
 
@@ -216,9 +222,9 @@ In this section:
 
 &emsp;The term “competitive procedures” has the meaning given the term in section 259(b) of title 41.
 
-#### (3) Sole-source basis
+#### (3) Single-source basis
 
-&emsp;The term “sole-source basis”, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.
+&emsp;The term “single-source basis”, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only such source (although such source is not the only source in the marketplace capable of meeting the need) because such source is the most advantageous source for purposes of the award.
 
 #### (4) Special rules for commercial items
 
@@ -228,13 +234,31 @@ In this section:
 
 &emsp;The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to section 253(g)(1)(B) of title 41 and section 427(a)(1) of title 41.
 
-(Pub. L. 89–329, title I, §142, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1611.)
+(Pub. L. 89–329, title I, §142, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1611; amended Pub. L. 110–315, title I, §118, Aug. 14, 2008, 122 Stat. 3116.)
 
 #### References in Text
 
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L.104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Prior Provisions
 
 A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–418, title VI, §6201, Aug. 23, 1988, 102 Stat. 1515, related to grants for literacy corps programs, prior to the general amendment of this subchapter by Pub. L. 102–325.
+
+#### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–315, §118(1)(A), struck out “for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” after “enter into contracts” and “and” after semicolon.
+
+Subsec. (b)(2), (3). Pub. L. 110–315, §118(1)(B), (C), substituted “; and” for period at end of par. (2) and added par. (3).
+
+Subsec. (c)(2). Pub. L. 110–315, §118(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer.”
+
+Subsec. (d)(2)(B). Pub. L. 110–315, §118(3), struck out “on Federal Government contracts” after “performance of the offeror”.
+
+Subsec. (g)(4)(A). Pub. L. 110–315, §118(4)(A), substituted “Single-source basis” for “Sole source” in heading and “single-source” for “sole-source” in text.
+
+Subsec. (g)(7). Pub. L. 110–315, §118(4)(B), substituted “single-source” for “sole-source”.
+
+Subsec. (h)(2)(A). Pub. L. 110–315, §118(5), substituted “single-source” for “sole-source”.
+
+Subsec. (<i>l</i>)(3). Pub. L. 110–315, §118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
 

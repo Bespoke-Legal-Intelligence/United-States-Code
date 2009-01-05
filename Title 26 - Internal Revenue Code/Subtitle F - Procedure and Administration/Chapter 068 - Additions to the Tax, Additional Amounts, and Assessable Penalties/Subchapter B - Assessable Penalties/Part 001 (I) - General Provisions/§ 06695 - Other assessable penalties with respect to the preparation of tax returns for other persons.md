@@ -14,7 +14,7 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 #### (d) Failure to retain copy or list
 
-Any person who is a tax return preparer with respect to any return or claim for refund whofails to comply with section 6107(b) with respect to such return or claim shall pay a penalty of $50 for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to any return period shall not exceed $25,000.
+Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with section 6107(b) with respect to such return or claim shall pay a penalty of $50 for each such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to any return period shall not exceed $25,000.
 
 #### (e) Failure to file correct information returns
 
@@ -28,7 +28,7 @@ Any person required to make a return under section 6060 who fails to comply with
 
 #### (f) Negotiation of check
 
-Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
+Any person who is a tax return preparer who endorses or otherwise negotiates (directly orthrough an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
 #### (g) Failure to be diligent in determining eligibility for earned income credit
 

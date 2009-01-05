@@ -1,6 +1,6 @@
 ### §2306. Vessel reporting requirements
 
-(a)(1) An owner, charterer, managing operator, or agent of a vessel of the United States, havingreason to believe (because of lack of communication with or nonappearance of a vessel or any other incident) that the vessel may have been lost or imperiled, immediately shall—
+(a)(1) An owner, charterer, managing operator, or agent of a vessel of the United States, having reason to believe (because of lack of communication with or nonappearance of a vessel or any other incident) that the vessel may have been lost or imperiled, immediately shall—
 
 &emsp;(A) notify the Coast Guard; and
 

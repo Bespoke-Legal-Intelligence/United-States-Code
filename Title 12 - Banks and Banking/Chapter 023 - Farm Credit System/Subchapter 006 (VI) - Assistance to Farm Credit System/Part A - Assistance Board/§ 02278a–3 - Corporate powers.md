@@ -8,7 +8,7 @@ The Assistance Board shall be a body corporate that shall have the power to—
 
 &emsp;(2) adopt, alter, and use a corporate seal, which shall be judicially noted;
 
-&emsp;(3) provide for one or more vice presidents, a secretary, a treasurer, and such other officers, employees, and agents, as may be necessary, define their duties, and require surety bondsor make other provisions against losses occasioned by acts of such persons;
+&emsp;(3) provide for one or more vice presidents, a secretary, a treasurer, and such other officers, employees, and agents, as may be necessary, define their duties, and require surety bonds or make other provisions against losses occasioned by acts of such persons;
 
 &emsp;(4) hire, promote, compensate, and discharge officers and employees of the Assistance Board, without regard to title 5, except that no such officer or employee shall receive an annual rate of basic pay in excess of the rate prescribed for Level III of the Executive Schedule under section 5314 of title 5;
 

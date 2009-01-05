@@ -60,7 +60,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 > &emsp;&emsp;except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under section 434 of this title;
 
-&emsp;&emsp;(F) the name of each Presidential library foundation, and each Presidential inauguralcommittee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
+&emsp;&emsp;(F) the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and
 
 &emsp;&emsp;(G) a certification by the person or organization filing the report that the person or organization—
 
@@ -76,7 +76,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747.)
+(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39;Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@
 
 &emsp;In the case of any taxpayer who—
 
-&emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) didnot pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
+&emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) did not pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
 
 &emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions or amounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
 
@@ -50,7 +50,7 @@
 
 #### (3) Distributions of income previously taxed in years beginning before October 1, 1993
 
-&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income under section 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
+&emsp;If the taxpayer receives a distribution or amount in a taxable year beginning after September 30, 1993, which is excluded from gross income under section 959(a) and is attributable to any amount included in gross income undersection 951(a) for a taxable year beginning before October 1, 1993, the limitation under section 904 for the taxable year in which such amount or distribution is received shall be increased by the amount determined under this subsection as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>1</sup> Act of 1993.
 
 #### (4) Cases in which taxes not to be allowed as deduction
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out “applicable” in par.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable, with special rule, to taxes of foreign corporations for taxable years of such corporations beginning after Aug. 5, 1997, see section 1113(c) of Pub. L. 105–34, set out as a note under section 902 of this title.
+Amendment by Pub. L. 105–34 applicable, with special rule, to taxes of foreign corporations for taxable yearsof such corporations beginning after Aug. 5, 1997, see section 1113(c) of Pub. L. 105–34, set out as a note under section 902 of this title.
 
 #### Effective Date of 1993 Amendment
 

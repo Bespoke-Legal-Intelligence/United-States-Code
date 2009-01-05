@@ -62,7 +62,7 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 &emsp;“(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license, $12;
 
-&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of ananonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;
+&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;
 
 &emsp;“(7) for the issuance, under section 706, of an additional certificate of registration, $8;
 

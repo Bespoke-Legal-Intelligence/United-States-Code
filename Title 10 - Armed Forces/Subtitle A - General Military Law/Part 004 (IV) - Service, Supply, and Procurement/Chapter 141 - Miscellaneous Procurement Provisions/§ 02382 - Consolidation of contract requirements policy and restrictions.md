@@ -30,7 +30,7 @@ Limitation on Use of Acquisition Strategies Involving Consolidation.—(1) An of
 
 Definitions.—In this section:
 
-&emsp;(1) The terms “consolidation of contract requirements” and “consolidation”, with respect to contract requirements of a military department, Defense Agency, or Department of Defense Field Activity, mean a use of a solicitation to obtain offers for a single contractor a multiple award contract to satisfy two or more requirements of that department, agency, or activity for goods or services that have previously been provided to, or performed for, that department, agency, or activity under two or more separate contracts smaller in cost than the total cost of the contract for which the offers are solicited.
+&emsp;(1) The terms “consolidation of contract requirements” and “consolidation”, with respect to contract requirements of a military department, Defense Agency, or Department of Defense Field Activity, mean a use of a solicitation to obtain offers for a single contract or a multiple award contract to satisfy two or more requirements of that department, agency, or activity for goods or services that have previously been provided to, or performed for, that department, agency, or activity under two or more separate contracts smaller in cost than the total cost of the contract for which the offers are solicited.
 
 &emsp;(2) The term “multiple award contract” means—
 

@@ -38,13 +38,29 @@ The Secretary of Agriculture shall establish specific programs under subsection 
 
 #### (2) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2004 through 2008.
+&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2012.
 
-(Pub. L. 101–624, title XXIII, §2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, §202, Dec. 3, 2003, 117 Stat. 1902.)
+(Pub. L. 101–624, title XXIII, §2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, §202, Dec. 3, 2003, 117 Stat. 1902; Pub. L. 110–234, title VII, §7511(c)(25), title VIII, §8201, May 22, 2008, 122 Stat. 1269, 1290; Pub. L. 110–246, §4(a), title VII, §7511(c)(25), title VIII, §8201, June 18, 2008, 122 Stat. 1664, 2031, 2051.)
+
+#### Amendment of Subsections (a) and (c)(3)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Extension Service” and subsection (c)(3) of this section is amended by substituting “System” for “Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (d)(2). Pub. L. 110–246, §8201, substituted “2008 through 2012” for “2004 through 2008”.
+
 2003—Subsec. (d). Pub. L. 108–148 added subsec. (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(25) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 #### Short Title
 

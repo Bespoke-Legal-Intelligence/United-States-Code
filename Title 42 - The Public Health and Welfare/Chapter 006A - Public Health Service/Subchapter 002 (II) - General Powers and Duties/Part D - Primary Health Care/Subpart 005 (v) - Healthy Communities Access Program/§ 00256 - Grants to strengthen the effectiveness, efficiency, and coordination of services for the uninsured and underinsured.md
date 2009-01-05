@@ -120,7 +120,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;Except as provided in paragraphs (2) and (3), a grantee may use amounts provided under this section only for—
 
-&emsp;&emsp;&emsp;(i) direct expenses associated with achieving the greater integration of a health care delivery system so that thesystem either directly provides or ensures the provision of a broad range of culturally competent services, as appropriate, including primary, secondary, and tertiary services, as well as substance abuse treatment and mental health services; and
+&emsp;&emsp;&emsp;(i) direct expenses associated with achieving the greater integration of a health care delivery system so that the system either directly provides or ensures the provision of a broad range of culturally competent services, as appropriate, including primary, secondary, and tertiary services, as well as substance abuse treatment and mental health services; and
 
 &emsp;&emsp;&emsp;(ii) direct patient care and service expansions to fill identified or documented gaps within an integrated delivery system.
 

@@ -30,9 +30,23 @@ Notwithstanding subsection (a) of this section and section 12211(b)(3) of this t
 
 &emsp;The term “drug” means a controlled substance, as defined in schedules I through V of section 202 of the Controlled Substances Act \[21 U.S.C. 812\].
 
-(Pub. L. 101–336, title V, §510, July 26, 1990, 104 Stat. 375.)
+(Pub. L. 101–336, title V, §511, formerly §510, July 26, 1990, 104 Stat. 375; renumbered §511 and amended Pub. L. 110–325, §6(a)(2), (3), Sept. 25, 2008, 122 Stat. 3558.)
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
 The Controlled Substances Act, referred to in subsec. (d)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+#### Prior Provisions
+
+A prior section 511 of Pub. L. 101–336 was renumbered section 512 and is classified to section 12211 of this title.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–325, §6(a)(3), made technical amendment to reference in original act which appears in text as reference to section 12211(b)(3) of this title.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 

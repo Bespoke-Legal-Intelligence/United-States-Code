@@ -60,21 +60,25 @@ For purposes of this subchapter—
 
 &emsp;For purposes of paragraph (1), the temporary increase termination date is the earlier of—
 
-&emsp;&emsp;(A) January 1, 2014, or
+&emsp;&emsp;(A) December 31, 2018, or
 
-&emsp;&emsp;(B) the first January 1 after 1981 as of which there is—
+&emsp;&emsp;(B) the first December 31 after 2007 as of which there is—
 
 &emsp;&emsp;&emsp;(i) no balance of repayable advances made to the Black Lung Disability Trust Fund, and
 
 &emsp;&emsp;&emsp;(ii) no unpaid interest on such advances.
 
-(Added Pub. L. 95–227, §2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, §102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, §13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, §1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, §10503, Dec. 22, 1987, 101 Stat. 1330–446.)
+(Added Pub. L. 95–227, §2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, §102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, §13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, §1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, §10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, §113(a), Oct. 3, 2008, 122 Stat. 3824.)
 
 #### Prior Provisions
 
 For prior section 4121, see Prior Provisions note set out preceding this section.
 
 #### Amendments
+
+2008—Subsec. (e)(2)(A). Pub. L. 110–343, §113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
+
+Subsec. (e)(2)(B). Pub. L. 110–343, §113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
 
 1987—Subsec. (e)(2)(A). Pub. L. 100–203 substituted “2014” for “1996”.
 
@@ -121,6 +125,134 @@ Section 5 of Pub. L. 95–227 provided that: “Notwithstanding any other provis
 #### Short Title of 1978 Amendment
 
 For short title of Pub. L. 95–227, Feb. 10, 1978, 92 Stat. 11, as the “Black Lung Benefits Revenue Act of 1977”, see Short Title of 1978 Amendments note set out under section 1 of this title.
+
+#### Special Rules for Refund of the Coal Excise Tax to Certain Coal Producers and Exporters
+
+Pub. L. 110–343, div. B, title I, §114, Oct. 3, 2008, 122 Stat. 3826, provided that:
+
+“(a)
+
+Refund.—
+
+&emsp;“(1)
+
+Coal producers.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, if—
+
+&emsp;&emsp;&emsp;“(i) a coal producer establishes that such coal producer, or a party related to such coal producer, exported coal produced by such coal producer to a foreign country or shipped coal produced by such coal producer to a possession of the United States, or caused such coal to be exported or shipped, the export or shipment of which was other than through an exporter who meets the requirements of paragraph (2),
+
+&emsp;&emsp;&emsp;“(ii) such coal producer filed an excise tax return on or after October 1, 1990, and on or before the date of the enactment of this Act \[Oct. 3, 2008\], and
+
+&emsp;&emsp;&emsp;“(iii) such coal producer files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
+
+&nbsp;&nbsp;then the Secretary shall pay to such coal producer an amount equal to the tax paid under section 4121 of such Code on such coal exported or shipped by the coal producer or a party related to such coal producer, or caused by the coal producer or a party related to such coal producer to be exported or shipped.
+
+&emsp;&emsp;“(B)
+
+Special rules for certain taxpayers.—For purposes of this section—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—If a coal producer or a party related to a coal producer has received a judgment described in clause (iii), such coal producer shall be deemed to have established the export of coal to a foreign country or shipment of coal to a possession of the United States under subparagraph (A)(i).
+
+&emsp;&emsp;&emsp;“(ii)
+
+Amount of payment.—If a taxpayer described in clause (i) is entitled to a payment under subparagraph (A), the amount of such payment shall be reduced by any amount paid pursuant to the judgment described in clause (iii).
+
+&emsp;&emsp;&emsp;“(iii)
+
+Judgment described.—A judgment is described in this subparagraph if such judgment—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is made by a court of competent jurisdiction within the United States,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) relates to the constitutionality of any tax paid on exported coal under section 4121 of the Internal Revenue Code of 1986, and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) is in favor of the coal producer or the party related to the coal producer.
+
+&emsp;“(2)
+
+Exporters.—Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, and a judgment described in paragraph (1)(B)(iii) of this subsection, if—
+
+&emsp;&emsp;“(A) an exporter establishes that such exporter exported coal to a foreign country or shipped coal to a possession of the United States, or caused such coal to be so exported or shipped,
+
+&emsp;&emsp;“(B) such exporter filed a tax return on or after October 1, 1990, and on or before the date of the enactment of this Act \[Oct. 3, 2008\], and
+
+&emsp;&emsp;“(C) such exporter files a claim for refund with the Secretary not later than the close of the 30-day period beginning on the date of the enactment of this Act,
+
+&nbsp;&nbsp;then the Secretary shall pay to such exporter an amount equal to $0.825 per ton of such coal exported by the exporter or caused to be exported or shipped, or caused to be exported or shipped, \[sic\] by the exporter.
+
+“(b)
+
+Limitations.—Subsection (a) shall not apply with respect to exported coal if a settlement with the Federal Government has been made with and accepted by, the coal producer, a party related to such coal producer, or the exporter, of such coal, as of the date that the claim is filed under this section with respect to such exported coal. For purposes of this subsection, the term ‘settlement with the Federal Government’ shall not include any settlement or stipulation entered into as of the date of the enactment of this Act \[Oct. 3, 2008\], the terms of which contemplate a judgment concerning which any party has reserved the right to file an appeal, or has filed an appeal.
+
+“(c)
+
+Subsequent Refund Prohibited.—No refund shall be made under this section to the extent that a credit or refund of such tax on such exported or shipped coal has been paid to any person.
+
+“(d)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1)
+
+Coal producer.—The term ‘coal producer’ means the person in whom is vested ownership of the coal immediately after the coal is severed from the ground, without regard to the existence of any contractual arrangement for the sale or other disposition of the coal or the payment of any royalties between the producer and third parties. The term includes any person who extracts coal from coal waste refuse piles or from the silt waste product which results from the wet washing (or similar processing) of coal.
+
+&emsp;“(2)
+
+Exporter.—The term ‘exporter’ means a person, other than a coal producer, who does not have a contract, fee arrangement, or any other agreement with a producer or seller of such coal to export or ship such coal to a third party on behalf of the producer or seller of such coal and—
+
+&emsp;&emsp;“(A) is indicated in the shipper's export declaration or other documentation as the exporter of record, or
+
+&emsp;&emsp;“(B) actually exported such coal to a foreign country or shipped such coal to a possession of the United States, or caused such coal to be so exported or shipped.
+
+&emsp;“(3)
+
+Related party.—The term ‘a party related to such coal producer’ means a person who—
+
+&emsp;&emsp;“(A) is related to such coal producer through any degree of common management, stock ownership, or voting control,
+
+&emsp;&emsp;“(B) is related (within the meaning of section 144(a)(3) of the Internal Revenue Code of 1986) to such coal producer, or
+
+&emsp;&emsp;“(C) has a contract, fee arrangement, or any other agreement with such coal producer to sell such coal to a third party on behalf of such coal producer.
+
+&emsp;“(4)
+
+Secretary.—The term ‘Secretary’ means the Secretary of \[the\] Treasury or the Secretary's designee.
+
+“(e)
+
+Timing of Refund.—With respect to any claim for refund filed pursuant to this section, the Secretary shall determine whether the requirements of this section are met not later than 180 days after such claim is filed. If the Secretary determines that the requirements of this section are met, the claim for refund shall be paid not later than 180 days after the Secretary makes such determination.
+
+“(f)
+
+Interest.—Any refund paid pursuant to this section shall be paid by the Secretary with interest from the date of overpayment determined by using the overpayment rate and method under section 6621 of the Internal Revenue Code of 1986.
+
+“(g)
+
+Denial of Double Benefit.—The payment under subsection (a) with respect to any coal shall not exceed—
+
+&emsp;“(1) in the case of a payment to a coal producer, the amount of tax paid under section 4121 of the Internal Revenue Code of 1986 with respect to such coal by such coal producer or a party related to such coal producer, and
+
+&emsp;“(2) in the case of a payment to an exporter, an amount equal to $0.825 per ton with respect to such coal exported by the exporter or caused to be exported by the exporter.
+
+“(h)
+
+Application of Section.—This section applies only to claims on coal exported or shipped on or after October 1, 1990, through the date of the enactment of this Act \[Oct. 3, 2008\].
+
+“(i)
+
+Standing Not Conferred.—
+
+&emsp;“(1)
+
+Exporters.—With respect to exporters, this section shall not confer standing upon an exporter to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by a coal producer of any Federal or State tax, fee, or royalty paid by the coal producer.
+
+&emsp;“(2)
+
+Coal producers.—With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax,fee, or royalty paid by the producer and alleged to have been passed on to an exporter.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

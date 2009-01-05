@@ -7,15 +7,20 @@
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | [483\.](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md) | Reports on transfers from high-priority readiness appropriations. |
 | [484\.](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md) | Annual report on aircraft inventory. |
-| [485\.](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md) | Joint warfighting experimentation. |
+| [485\.](%C2%A7%2000485%20-%20Joint%20and%20service%20concept%20development%20and%20experimentation.md) | Joint and service concept development and experimentation. |
 | [486\.](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md) | Quadrennial report on emerging operational concepts. |
 | [487\.](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md) | Unit operations tempo and personnel tempo: annual report. |
 | [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md) | Management of electromagnetic spectrum: biennial strategic plan. |
 | [489\.](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md) | Annual report on Department of Defense operation and financial support for military museums. |
+| [490\.](%C2%A7%2000490%20-%20Space%20cadre%20management%20biennial%20report.md) | Space cadre management: biennial report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title II, §241(b), Oct. 14, 2008, 122 Stat. 4398, added item 485 and struck out former item 485 “Joint warfighting experimentation”.
+
+Pub. L. 110–181, div. A, title IX, §912(b), Jan. 28, 2008, 122 Stat. 281, added item 490.
 
 2004—Pub. L. 108–375, div. A, title X, §1033(b), Oct. 28, 2004, 118 Stat. 2048, added item 489.
 
@@ -47,8 +52,9 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Reports on transfers from high-priority readiness appropriations](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md)
 - [&sect; 00484 - Annual report on aircraft inventory](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md)
-- [&sect; 00485 - Joint warfighting experimentation](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md)
+- [&sect; 00485 - Joint and service concept development and experimentation](%C2%A7%2000485%20-%20Joint%20and%20service%20concept%20development%20and%20experimentation.md)
 - [&sect; 00486 - Quadrennial report on emerging operational concepts](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md)
 - [&sect; 00487 - Unit operations tempo and personnel tempo annual report](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md)
 - [&sect; 00488 - Management of electromagnetic spectrum biennial strategic plan](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md)
 - [&sect; 00489 - Annual report on Department of Defense operation and financial support for military museums](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md)
+- [&sect; 00490 - Space cadre management biennial report](%C2%A7%2000490%20-%20Space%20cadre%20management%20biennial%20report.md)

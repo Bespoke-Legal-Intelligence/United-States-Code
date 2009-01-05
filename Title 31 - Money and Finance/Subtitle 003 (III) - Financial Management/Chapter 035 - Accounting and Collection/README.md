@@ -62,7 +62,7 @@
 | [3554\.](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/%C2%A7%2003554%20-%20Decisions%20on%20protests.md) | Decisions on protests. |
 | [3555\.](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/%C2%A7%2003555%20-%20Regulations%3B%20authority%20of%20Comptroller%20General%20to%20verify%20assertions.md) | Regulations; authority of Comptroller General to verify assertions. |
 | [3556\.](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/%C2%A7%2003556%20-%20Nonexclusivity%20of%20remedies%3B%20matters%20included%20in%20agency%20record.md) | Nonexclusivity of remedies; matters included in agency record. |
-| [3557\.](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/%C2%A7%2003557%20-%20Expedited%20action%20in%20protests%20for%20public-private%20competitions.md) | Expedited action in protests for public-private competitions. |
+| [3557\.](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/%C2%A7%2003557%20-%20Expedited%20action%20in%20protests%20of%20public-private%20competitions.md) | Expedited action in protests of public-private competitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -81,6 +81,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title X, §1061(c)(3), Oct. 14, 2008, 122 Stat. 4613, struck out item 3557 “Expedited action in protests for public-private competitions”, as added by Pub. L. 110–161.
+
+Pub. L. 110–181, div. A, title III, §326(b)(2), Jan. 28, 2008, 122 Stat. 63, added item 3557 “Expedited action in protests of public-private competitions”.
 
 2007—Pub. L. 110–161, div. D, title VII, §739(c)(1)(B)(ii), Dec. 26, 2007, 121 Stat. 2031, added item 3557.
 

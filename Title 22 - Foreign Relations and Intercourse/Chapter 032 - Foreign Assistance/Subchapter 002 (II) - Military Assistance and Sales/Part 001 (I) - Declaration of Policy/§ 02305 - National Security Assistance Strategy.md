@@ -22,7 +22,7 @@ The National Security Assistance Strategy should—
 
 &emsp;(7) identify, on a country-by-country basis, how specific resources will be allocated to accomplish both primary and secondary objectives;
 
-&emsp;(8) discuss how specific types of assistance, such as foreign military financing and international military education and training, will be combined at the country level to achieve United States objectives; and
+&emsp;(8) discuss how specific types of assistance, such as foreign military financing and international military education and training, willbe combined at the country level to achieve United States objectives; and
 
 &emsp;(9) detail, with respect to each of the paragraphs (1) through (8), how specific types of assistance provided pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] and the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] are coordinated with United States assistance programs managed by the Department of Defense and other agencies.
 
@@ -40,7 +40,7 @@ The National Security Assistance Strategy should cover assistance provided under
 
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (b)(9), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(9), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (b)(9) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

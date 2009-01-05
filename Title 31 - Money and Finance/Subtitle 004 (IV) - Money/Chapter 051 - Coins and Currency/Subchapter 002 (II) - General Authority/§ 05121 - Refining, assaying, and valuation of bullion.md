@@ -12,7 +12,7 @@
 
 (b) A person owning gold or silver bullion may deposit the bullion with the Secretary to be cast into fine, standard fineness, or unrefined bars weighing at least 5 troy ounces. When practicable, the Secretary shall weigh the bullion in front of the depositor. The Secretary shall give the depositor a receipt for the bullion stating the description and weight of the bullion. When the Secretary has to melt the bullion or remove base metals before the value of the bullion can be determined, the weight is the weight after the melting or removal of the metals. The Secretary may refuse a deposit of gold bullion if the deposit is less than $100 in value or the bullion is so base that it is unsuitable for the operations of the Bureau of the Mint.
 
-(c) When the gold and silver are combined in bullion that is deposited and either the gold or silver is so little that it cannot be separated economically, the Secretary may not pay thedepositor for the gold or silver that cannot be separated.
+(c) When the gold and silver are combined in bullion that is deposited and either the gold or silver is so little that it cannot be separated economically, the Secretary may not pay the depositor for the gold or silver that cannot be separated.
 
 (d)(1) Under conditions prescribed by the Secretary, a person may exchange unrefined bullion for fine bars when—
 
@@ -124,7 +124,7 @@ In subsection (a), clause (1) is added to provide a complete list of the duties 
 
 In subsections (b) and (d), the word “unrefined” is substituted for “unparted” for consistency in the revised chapter.
 
-In subsection (b), the words “At the option of the owner” and “as he may prefer” in 31:325 and “for his benefit” in 31:327 are omitted as unnecessary because of the restatement. The words “weighing at least” are substituted for “and no such bars shall be issued of a less weight than” in 31:325 to eliminate unnecessary words. The word “troy” is added for clarity. The words “into coin” in section 3519 of the Revised Statutes are omitted because the coinage of gold was discontinued by 31:315b. The text of 31:329(last sentence) is omitted because of the source provisions restated in section 321(c) of the revised title. The words “and no deposit of silver for other coinage shall be received” in 31:328(1st sentence) are omitted as unnecessary because of the restatement.
+In subsection (b), the words “At the option of the owner” and “as he may prefer” in 31:325 and “for his benefit” in 31:327 are omitted as unnecessary because of the restatement. The words “weighing at least” are substituted for “and no such bars shall be issued of a less weight than” in 31:325 to eliminate unnecessary words. The word “troy” is added for clarity. The words “into coin” in section 3519 of the Revised Statutes are omitted because the coinage of gold was discontinuedby 31:315b. The text of 31:329(last sentence) is omitted because of the source provisions restated in section 321(c) of the revised title. The words “and no deposit of silver for other coinage shall be received” in 31:328(1st sentence) are omitted as unnecessary because of the restatement.
 
 In subsection (c), the word “economically” is substituted for “advantageously” in 31:327(last sentence) for consistency in the section. The text of 31:328(last sentence) is omitted as unnecessary because of the source provisions restated in section 5121(a) of the revised title.
 

@@ -22,7 +22,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(ii) the right to be informed, if he or she does not have legal assistance, of the right set forth in clause (i);
 
-&emsp;&emsp;&emsp;(iii) the right to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
+&emsp;&emsp;&emsp;(iii) the right to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in anysuch case if he or she does not have sufficient means to pay for it;
 
 &emsp;&emsp;&emsp;(iv) the right to a fair and public hearing by a competent, independent, and impartial tribunal established by the law;
 

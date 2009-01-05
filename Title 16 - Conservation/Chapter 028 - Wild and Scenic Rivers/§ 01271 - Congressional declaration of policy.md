@@ -28,7 +28,7 @@ Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–418, §1, Nov. 1, 2000, 114 Stat. 1817, provided that: “This Act \[amending section 1274 of thistitle and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Delaware Wild and Scenic Rivers Act’.”
+Pub. L. 106–418, §1, Nov. 1, 2000, 114 Stat. 1817, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Delaware Wild and Scenic Rivers Act’.”
 
 Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘White Clay Creek Wild and Scenic Rivers System Act’.”
 

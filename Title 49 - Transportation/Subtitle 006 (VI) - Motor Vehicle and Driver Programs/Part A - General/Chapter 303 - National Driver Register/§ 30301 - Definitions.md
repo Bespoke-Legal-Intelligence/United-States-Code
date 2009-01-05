@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;(7) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-&emsp;(8) “State of record” means a State that has given the Secretary a report under section30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title.
+&emsp;(8) “State of record” means a State that has given the Secretary a report under section 30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 973.)
 
@@ -286,7 +286,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 “(a)
 
-Participation of Secretary of Transportation and States.—All authority to issue regulations, setstandards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
+Participation of Secretary of Transportation and States.—All authority to issue regulations, set standards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
 
 “(b)
 

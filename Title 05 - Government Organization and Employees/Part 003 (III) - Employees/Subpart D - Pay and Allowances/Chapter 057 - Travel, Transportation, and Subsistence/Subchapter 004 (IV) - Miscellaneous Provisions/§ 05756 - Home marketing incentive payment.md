@@ -10,7 +10,7 @@
 
 (b)(1) The Administrator of General Services shall prescribe regulations to carry out this section.
 
-(2) The regulations shall include a limitation on the maximum amount payable with respectto an employee's residence. The Administrator shall establish the limitation in consultation with the Director of the Office of Management and Budget. For fiscal years 1997 and 1998, the maximum amount shall be the amount equal to five percent of the sale price of the residence.
+(2) The regulations shall include a limitation on the maximum amount payable with respect to an employee's residence. The Administrator shall establish the limitation in consultation with the Director of the Office of Management and Budget. For fiscal years 1997 and 1998, the maximum amount shall be the amount equal to five percent of the sale price of the residence.
 
 (Added Pub. L. 104–201, div. A, title XVII, §1717, Sept. 23, 1996, 110 Stat. 2757.)
 

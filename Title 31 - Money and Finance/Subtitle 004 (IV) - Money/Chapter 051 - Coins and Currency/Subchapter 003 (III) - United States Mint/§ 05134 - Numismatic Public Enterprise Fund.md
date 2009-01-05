@@ -30,7 +30,7 @@ Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
 (b)
 
-Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup>under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
+Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
 (c)
 
@@ -232,7 +232,7 @@ Responsibility of organization to account for expenditures of surcharges.—Each
 
 &emsp;&emsp;(D)
 
-Submission of audit report.—Not later than 90 days after the end of any fiscalyear of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
+Submission of audit report.—Not later than 90 days after the end of any fiscal year of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
 
 &emsp;&emsp;&emsp;(i) submit a copy of the report to the Secretary of the Treasury; and
 
@@ -292,7 +292,7 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 &emsp;&emsp;(D) a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
 
-(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, §3, Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §103(d)(2), title II, §201(a), Apr. 23, 2003, 117 Stat. 619.)
+(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div.A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, §3, Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §103(d)(2), title II, §201(a), Apr. 23, 2003, 117 Stat. 619.)
 
 #### References in Text
 

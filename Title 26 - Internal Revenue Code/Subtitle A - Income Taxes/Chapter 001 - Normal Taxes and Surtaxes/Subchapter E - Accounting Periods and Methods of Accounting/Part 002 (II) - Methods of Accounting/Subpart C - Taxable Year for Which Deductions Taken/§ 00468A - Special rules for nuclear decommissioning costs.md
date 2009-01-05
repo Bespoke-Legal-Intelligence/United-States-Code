@@ -6,7 +6,7 @@ If the taxpayer elects the application of this section, there shall be allowed a
 
 #### (b) Limitation on amounts paid into Fund
 
-The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the ruling amount applicable to such taxable year.
+The amount which a taxpayer may pay into the Fund for any taxable year shall not exceedthe ruling amount applicable to such taxable year.
 
 #### (c) Income and deductions of the taxpayer
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (7) Termination upon completion
 
-&emsp;Upon substantial completion of the nuclear decommissioning of the nuclear powerplant with respect to which a Fund relates, the taxpayer shall terminate such Fund.
+&emsp;Upon substantial completion of the nuclear decommissioning of the nuclear powerplantwith respect to which a Fund relates, the taxpayer shall terminate such Fund.
 
 #### (f) Transfers into qualified funds
 

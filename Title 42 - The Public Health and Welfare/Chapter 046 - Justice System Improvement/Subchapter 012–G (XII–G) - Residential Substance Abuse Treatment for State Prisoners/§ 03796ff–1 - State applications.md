@@ -16,19 +16,19 @@ To be eligible to receive funds under this subchapter, a State must agree to imp
 
 &emsp;(2) of an individual released from a residential substance abuse treatment program if the individual remains in the custody of the State.
 
-#### (c) Aftercare services requirement
+#### (c) Requirement for Aftercare Component
 
-(1) To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care <sup>2</sup> services.
+(1) To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with aftercare services, which may include case management services and a full continuum of support services that ensure providers furnishing services under that program are approved by the appropriate State or local agency, and licensed, if necessary, to provide medical treatment or other health services.
 
 (2) State aftercare services must involve the coordination of the correctional facility treatment program with other human service and rehabilitation programs, such as educational and job training programs, parole supervision programs, half-way house programs, and participation in self-help and peer group programs, that may aid in the rehabilitation of individuals in the substance abuse treatment program.
 
 (3) To qualify as an aftercare program, the head of the substance abuse treatment program, in conjunction with State and local authorities and organizations involved in substance abuse treatment, shall assist in placement of substance abuse treatment program participants with appropriate community substance abuse treatment facilities when such individuals leave the correctional facility at the end of a sentence or on parole.
 
-(4) After care <sup>3</sup> services required by this subsection shall be funded through funds provided for this subchapter.
+(4) After care <sup>2</sup> services required by this subsection shall be funded through funds provided for this subchapter.
 
 #### (d) Coordination of Federal assistance
 
-Each application submitted for a grant under this section shall include a description of how the funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Healthand Human Services’ Substance Abuse and Mental Health Services Administration.
+Each application submitted for a grant under this section shall include a description of how the funds made available under this section will be coordinated with Federal assistance for substance abuse treatment and aftercare services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.
 
 #### (e) State office
 
@@ -42,9 +42,11 @@ The office responsible for the trust fund required by section 3757 of this title
 
 A State may use amounts received under this subchapter to provide nonresidential substance abuse treatment aftercare services for inmates or former inmates that meet the requirements of subsection (c) of this section, if the chief executive officer of the State certifies to the Attorney General that the State is providing, and will continue to provide, an adequate level of residential treatment services.
 
-(Pub. L. 90–351, title I, §1902, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §2102(2), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §§1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, 119 Stat. 3102, 3111.)
+(Pub. L. 90–351, title I, §1902, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §2102(2), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §§1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, 119 Stat. 3102, 3111; Pub. L. 110–199, title I, §102(a), Apr. 9, 2008, 122 Stat. 668.)
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–199 substituted “Requirement for Aftercare Component” for “Aftercare services requirement” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services.”
 
 2006—Subsec. (b). Pub. L. 109–162, §1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State.”
 
@@ -64,9 +66,11 @@ Amendment by section 1111(c)(2)(J) of Pub. L. 109–162 applicable with respect 
 
 Pub. L. 109–162, title XI, §1147, as added by Pub. L. 109–271, §8(n)(2)(A), Aug. 12, 2006, 120 Stat. 767, provided that: “The amendments made by sections 1144 and 1145 \[amending this section and sections 3796ff–2 and 3796ff–3 of this title\] shall take effect on October 1, 2006.”
 
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “aftercare”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “Aftercare”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Aftercare”.</i>
 

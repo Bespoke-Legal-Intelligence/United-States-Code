@@ -110,7 +110,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(10) families of children with developmental disabilities need to have access to and use of safe and appropriate child care and before-school and after-school programs, in the most integrated settings, in order to enrich the participation of the children in community life;
 
-&emsp;(11) individuals with developmental disabilities need to have access to and use of public transportation, in order to be independent and directly contribute to and participate in all facets of community life; and
+&emsp;(11) individuals with developmental disabilities need to have access to and use of public transportation, in order to be independent anddirectly contribute to and participate in all facets of community life; and
 
 &emsp;(12) individuals with developmental disabilities need to have access to and use of recreational, leisure, and social opportunities in the most integrated settings, in order to enrich their participation in community life.
 
@@ -300,7 +300,7 @@ Sec. 3. <i>Functions of the Committee</i>. (a) Consistent with subsection (c) of
 
 (F) increasing access to assistive and universally designed technologies.
 
-(b) The Committee shall provide an annual report to the President through the Secretary of Health andHuman Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
+(b) The Committee shall provide an annual report to the President through the Secretary of Health and Human Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
 
 (c) The members shall advise the President and carry out their advisory role consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 

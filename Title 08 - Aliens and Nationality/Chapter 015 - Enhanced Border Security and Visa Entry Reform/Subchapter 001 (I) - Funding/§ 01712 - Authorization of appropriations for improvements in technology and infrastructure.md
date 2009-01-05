@@ -50,7 +50,7 @@ Additional Requirements.—
 
 &emsp;“(1)
 
-In general.—The pilot program shall include the utilization of a variety of ground surveillance technologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
+In general.—The pilot program shall include the utilization of a variety of ground surveillancetechnologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
 
 &emsp;&emsp;“(A) the significance of previous experiences with such technologies in homeland security or critical infrastructure protection for the utilization of such technologies for border security;
 
@@ -74,7 +74,7 @@ Implementation.—The Under Secretary of Homeland Security for Border and Transp
 
 “(d)
 
-Report.—Not later than 1 year after implementing the pilot program under subsection (a), the UnderSecretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
+Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science \[now Committee on Science and Technology\], the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
 
 #### Advanced Technology Northern Border Security Pilot Program
 

@@ -8,7 +8,7 @@ Elements of the contingency plans prepared pursuant to section 2222 of this titl
 
 &emsp;(2) Appropriate water conservation actions.
 
-&emsp;(3) Water transfers to serve users inside or outside authorized Federal Reclamationproject service areas in order to mitigate the effects of drought.
+&emsp;(3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
 
 &emsp;(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
 

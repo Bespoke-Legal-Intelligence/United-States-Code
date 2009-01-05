@@ -16,7 +16,7 @@
 
 &emsp;(2) if application for waiver is received in his office after the expiration of five years immediately following the date on which the erroneous payment was discovered.
 
-(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that department for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
+(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the department concerned at the time of the erroneous payment, of the amount repaid to the United States, if he applies to thatdepartment for that refund within two years following the effective date of the waiver. The Secretary concerned shall pay from current applicable appropriations that refund in accordance with this section.
 
 (d) In the audit and settlement of accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 

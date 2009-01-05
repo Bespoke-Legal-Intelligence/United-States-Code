@@ -78,7 +78,7 @@
 
 #### (v) Guaranteed issue and renewal
 
-&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section andclause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
+&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section and clause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
 
 #### (vi) Marketing material and application forms
 
@@ -148,7 +148,7 @@
 
 #### (i) Provision of information
 
-&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to the extent necessary to carry out such subparagraph.
+&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to theextent necessary to carry out such subparagraph.
 
 #### (ii) Use of information
 
@@ -240,7 +240,7 @@ Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided tha
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefitunder this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
 
 #### State Pharmaceutical Assistance Transition Commission
 

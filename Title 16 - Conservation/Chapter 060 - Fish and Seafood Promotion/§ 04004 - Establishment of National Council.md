@@ -34,11 +34,11 @@ The National Council shall be comprised of regional representation from the Nort
 
 #### (e) Term of office
 
-Members of the National Council shall be appointed for a term of 4 years. A vacancy in the National Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
+Members of the National Council shall be appointed for a term of 4 years. A vacancy in theNational Council shall not affect its ability to function. The Secretary shall appoint a new member within sixty days to fill a vacancy in an unexpired term. Any member may remain on the National Council beyond that member's term until a successor is appointed.
 
 #### (f) Chairman
 
-The National Council shall annually elect a Chairman by a majority of those voting, if aquorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
+The National Council shall annually elect a Chairman by a majority of those voting, if a quorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
 
 #### (g) First meeting
 

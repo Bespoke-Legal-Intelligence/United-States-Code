@@ -12,7 +12,7 @@ Each Secretary or the head of any Federal land managing agency may assist volunt
 
 &emsp;(1) planning, developing, maintaining, or managing (A) trails which are components of the national trails system, or (B) trails which, if so developed and maintained, could qualify for designation as components of the national trails system; or
 
-&emsp;(2) operating programs to organize and supervise volunteer trail building efforts with respect to the trails referred to in paragraph (1), conducting trail-related research projects, or providing education and training to volunteers on methods of trails planning, construction, and maintenance.
+&emsp;(2) operating programs to organize and supervise volunteer trail building efforts with respect to the trails referred to in paragraph\(1), conducting trail-related research projects, or providing education and training to volunteers on methods of trails planning, construction, and maintenance.
 
 #### (c) Use of Federal facilities, equipment, tools, and technical assistance
 
@@ -24,5 +24,5 @@ The appropriate Secretary or the head of any Federal land managing agency may ut
 
 The Volunteers in the Parks Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, as amended, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18g of this title and Tables.
 
-The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in theNational Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
+The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to the United Nations when the assistance is designed to facilitate or assist in carrying out an assessed peacekeeping operation;
 
-&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regularbudget assessment of the United Nations members; or
+&emsp;&emsp;(B) for any United Nations peacekeeping operation that is authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping or regular budget assessment of the United Nations members; or
 
 &emsp;&emsp;(C) to any country participating in any operation authorized by the United Nations Security Council under Chapter VI or Chapter VII of the United Nations Charter and paid for by peacekeeping assessments of United Nations members when the assistance is designed to facilitate or assist the participation of that country in the operation.
 
@@ -50,7 +50,7 @@
 
 #### (2) Availability
 
-&emsp;Amounts credited under paragraph (1) shall be merged with the appropriations, or with appropriations in the fund or account, to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged.
+&emsp;Amounts credited under paragraph (1) shall be merged with the appropriations, or with appropriations in the fund or account, to which credited and shall be available for the same purposes, and subject to the same conditionsand limitations, as the appropriations with which merged.
 
 #### (c) Covered assistance
 

@@ -12,7 +12,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to require the maintenance of appropriate types ofrecords by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 #### (b) Recordkeeping regulations
 
@@ -150,7 +150,7 @@ Willful violation of regulations under this section punishable by fine of not mo
 
 #### Administrative Procedure
 
-Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 and chapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
+Administrative procedure and judicial review provisions of subchapter II (§551 et seq.) of chapter 5 andchapter 7 (§701 et seq.) of Title 5, Government Organization and Employees, applicable to all proceedings under this section, see section 1959 of this title.
 
 #### Responsibility for Compliance
 

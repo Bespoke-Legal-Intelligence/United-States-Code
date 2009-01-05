@@ -8,7 +8,7 @@
 
 (2) Federal wage, salary, or retirement payments shall be paid to any recipient granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
-(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of thissection for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
+(c)(1) The Secretary of the Treasury may waive the requirements of subsection (a) of this section for any group of recipients upon request by the head of an agency under standards prescribed by the Secretary of the Treasury.
 
 (2) Federal wage, salary, or retirement payments shall be paid to any member of a group granted a waiver under paragraph (1) of this subsection by any method determined appropriate by the Secretary of the Treasury.
 
@@ -124,7 +124,7 @@ R.S. §3620(d); added Aug. 7, 1972, Pub. L. 92–366, 86 Stat. 506.
 
 31:492(note).
 
-In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. Thewords “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
+In subsection (a), the definition of “agency” is omitted because of section 101 of the revised title. The words “and the municipal government of the District of Columbia” are omitted because of section 448 of the Act of December 24, 1973 (Pub. L. 93–198, 87 Stat. 801). The text of section 1(b)(1st sentence) and (c)(1st sentence) of the Act of July 19, 1975, is omitted as executed. In clause (2), the words “savings bank” are omitted as surplus.
 
 In subsections (b)–(f), the words “officer or employee” are substituted for “employee” for consistency in the revised title and with other titles of the United States Code.
 
@@ -161,4 +161,22 @@ Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which r
 #### Savings Provision
 
 Any waiver in effect on Oct. 5, 1999, under subsec. (f)(2)(A)(i) of this section to remain in effect until otherwise provided by the Secretary of Defense under section 2786 of Title 10, Armed Forces, see section 1008(a)(3) of Pub. L. 106–65, set out as a note under section 2786 of Title 10.
+
+#### Electronic Pay Stubs
+
+Pub. L. 110–423, §1, Oct. 15, 2008, 122 Stat. 4818, provided that:
+
+“(a)
+
+In General.—The Office of Personnel Management shall take such measures as may be appropriate to ensure that all employees who receive their pay by electronic funds transfer shall be given the option of receiving their pay stubs electronically.
+
+“(b)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘electronic funds transfer’ has the meaning given such term by section 3332 of title 31, United States Code;
+
+&emsp;“(2) the term ‘employee’ means an individual employed in or under an Executive agency; and
+
+&emsp;“(3) the term ‘Executive agency’ has the meaning given such term by section 105 of title 5, United States Code.”
 

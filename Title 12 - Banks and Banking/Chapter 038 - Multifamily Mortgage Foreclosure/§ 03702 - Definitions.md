@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
+&emsp;(1) “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement,or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
 
 &emsp;(2) “multifamily mortgage” means a mortgage held by the Secretary pursuant to—
 
@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;&emsp;(E) section 811 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8013\].
 
-&emsp;(3) “mortgage agreement” means the note or debt instrument and the mortgage instrument,deed of trust instrument, trust deed, or instrument or instruments creating the mortgage, including any instrument incorporated by reference therein (including any applicable regulatory agreement), and any instrument or agreement amending or modifying any of the foregoing;
+&emsp;(3) “mortgage agreement” means the note or debt instrument and the mortgage instrument, deed of trust instrument, trust deed, or instrument or instruments creating the mortgage, including any instrument incorporated by reference therein (including any applicable regulatory agreement), and any instrument or agreement amending or modifying any of the foregoing;
 
 &emsp;(4) “mortgagor” means the obligor, grantor, or trustor named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not personally liable on the mortgage debt;
 

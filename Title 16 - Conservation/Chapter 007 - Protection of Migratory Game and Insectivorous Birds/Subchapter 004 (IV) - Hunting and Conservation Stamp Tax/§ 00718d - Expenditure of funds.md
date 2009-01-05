@@ -36,7 +36,7 @@ All funds received into the fund are appropriated for the following purposes, to
 
 &emsp;The Secretary shall include in each annual report of the Commission under section 715b <sup>1</sup> of this title a description of activities conducted under this subsection in the year covered by the report.
 
-(Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, §10(e), Aug. 3, 2006, 120 Stat. 676.)
+(Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub.L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, §10(e), Aug. 3, 2006, 120 Stat. 676.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Subsec. (b)(2). Pub. L. 109–266, §10(e)(4)(B), inserted “(16 U.S.C. 715 et 
 
 Pub. L. 109–266, §10(e)(4)(A), which directed amendment of par. (2) by substituting heading “Areas for refuges” and text “Except as provided in paragraph (3) and subsection (c)” for “Except as provided in subsections (c) and (d) of this section”, was executed by making the substitution for “Except as authorized in subsections (c) and (d) of this section” to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary ofthe Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
+Subsec. (b)(3). Pub. L. 109–266, §10(e)(5), inserted heading, inserted “(16 U.S.C. 715 et seq.)” after “Migratory Bird Conservation Act”, and substituted “The Secretary may use funds made available under paragraph (2) for the purposes of that paragraph, and such other funds as may be appropriated for the purposes of that paragraph or this paragraph,” for “The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection,” and “pursuant to this paragraph” for “pursuant to this subsection”.
 
 Subsec. (c). Pub. L. 109–266, §10(e)(6), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b)(3).
 

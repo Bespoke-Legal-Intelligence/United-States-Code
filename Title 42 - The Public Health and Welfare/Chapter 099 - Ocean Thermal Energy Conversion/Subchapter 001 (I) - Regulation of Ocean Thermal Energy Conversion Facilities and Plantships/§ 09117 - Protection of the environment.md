@@ -2,7 +2,7 @@
 
 #### (a) Environmental assessment program
 
-The Administrator shall initiate a program to assess the effects on the environment of oceanthermal energy conversion facilities and plantships. The program shall include baseline studies of locations where ocean thermal energy conversion facilities or plantships are likely to be sited or operated; and research; and monitoring of the effects of ocean thermal energy conversion facilities and plantships in actual operation. The purpose of the program shall be to assess the environmental effects of individual ocean thermal energy facilities and plantships, and to assess the magnitude of any cumulative environmental effects of large numbers of ocean thermal energy facilities and plantships.
+The Administrator shall initiate a program to assess the effects on the environment of ocean thermal energy conversion facilities and plantships. The program shall include baseline studies of locations where ocean thermal energy conversion facilities or plantships are likely to be sited or operated; and research; and monitoring of the effects of ocean thermal energy conversion facilities and plantships in actual operation. The purpose of the program shall be to assess the environmental effects of individual ocean thermal energy facilities and plantships, and to assess the magnitude of any cumulative environmental effects of large numbers of ocean thermal energy facilities and plantships.
 
 #### (b) Program purposes
 
@@ -18,7 +18,7 @@ The program shall be designed to determine, among other things—
 
 #### (c) Plan submittal to Congress
 
-Within 180 days after August 3, 1980, the Administrator shall prepare a plan to carry out the program described in subsections (a) and (b) of this section, including necessary funding levels for the next 5 fiscal years, and submit the plan to the Congress.
+Within 180 days after August 3, 1980, the Administrator shall prepare a plan to carry out theprogram described in subsections (a) and (b) of this section, including necessary funding levels for the next 5 fiscal years, and submit the plan to the Congress.
 
 #### (d) Reduction of program to minimum necessary level
 

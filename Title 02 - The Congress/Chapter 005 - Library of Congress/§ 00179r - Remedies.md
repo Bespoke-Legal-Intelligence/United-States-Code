@@ -16,7 +16,3 @@ The several district courts of the United States shall have jurisdiction, for ca
 
 (Pub. L. 104–285, title I, §108, Oct. 11, 1996, 110 Stat. 3381.)
 
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
-

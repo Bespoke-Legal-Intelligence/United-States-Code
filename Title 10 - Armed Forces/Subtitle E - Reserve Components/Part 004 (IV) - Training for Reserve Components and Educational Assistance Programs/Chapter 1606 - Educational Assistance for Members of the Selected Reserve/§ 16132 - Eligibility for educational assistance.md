@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) is appointed as, or is serving as, a reserve officer and agrees to serve in the Selected Reserve for a period of not less than six years in addition to any other period of obligated service in the Selected Reserve to which the person may be subject; and
 
-&emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or an equivalency certificate);
+&emsp;(2) before applying for benefits under this section, has completed the requirements of asecondary school diploma (or an equivalency certificate);
 
 > is entitled to educational assistance under section 16131 of this title.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 100–689, §111(b)(4), amended subsec. (d) generally. Prio
 
 1980—Pub. L. 96–513 inserted “of this title” after “section 2131” wherever appearing.
 
-1978—Subsec. (b)(1). Pub. L. 95–485 substituted “not less than six years” for “automatically extended bytwo years” and “last day of the term” for “eighth anniversary”.
+1978—Subsec. (b)(1). Pub. L. 95–485 substituted “not less than six years” for “automatically extended by two years” and “last day of the term” for “eighth anniversary”.
 
 #### Effective Date of 1996 Amendment
 

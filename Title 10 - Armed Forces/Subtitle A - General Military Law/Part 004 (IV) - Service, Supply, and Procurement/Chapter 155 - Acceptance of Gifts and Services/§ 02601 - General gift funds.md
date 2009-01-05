@@ -20,8 +20,6 @@ Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and
 
 (3) The Secretary of Defense shall prescribe regulations specifying the conditions that may be attached to a gift, devise, or bequest accepted under this subsection.
 
-(4) The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.
-
 (c)
 
 Gift Funds.—Gifts and bequests of money, and the proceeds of the sale of property, received under subsection (a) or (b) shall be deposited in the Treasury in the following accounts:
@@ -38,7 +36,7 @@ Gift Funds.—Gifts and bequests of money, and the proceeds of the sale of prope
 
 (d)
 
-Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
+Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and moneyaccepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
 
 (2) Property and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection (b)—
 
@@ -76,7 +74,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “services” includes activities that benefit the morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138.)
 
 Historical and Revision Notes
 
@@ -114,6 +112,8 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 #### Amendments
 
+2008—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
+
 2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to general gift funds.
 
 2002—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
@@ -127,4 +127,8 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Limitation on Solicitation of Gifts
+
+Pub. L. 110–181, div. A, title V, §593(b), Jan. 28, 2008, 122 Stat. 138, provided that: “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Before the expiration date, if any, of a quantitative restriction agreement accepted under section 1671c(a)(2) or 1671c(c)(3) of this title (ifsuspension of the related investigation is still in effect)—
+Before the expiration date, if any, of a quantitative restriction agreement accepted under section 1671c(a)(2) or 1671c(c)(3) of this title (if suspension of the related investigation is still in effect)—
 
 &emsp;(1) the administering authority shall, at the direction of the President, initiate a proceeding to determine whether any countervailable subsidy is being provided with respect to the subject merchandise and, if being so provided, the net countervailable subsidy; and
 

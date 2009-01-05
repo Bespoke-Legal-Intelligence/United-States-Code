@@ -146,7 +146,7 @@
 
 &emsp;(58) Increase to at least 65 percent the proportion of parents and caregivers who use feeding practices that prevent baby bottle tooth decay.
 
-&emsp;(59) Increase to at least 75 percent the proportion of mothers who breast feed their babies in the early postpartum period, and to at least 50 percent the proportion who continuebreast feeding until their babies are 5 to 6 months old.
+&emsp;(59) Increase to at least 75 percent the proportion of mothers who breast feed their babies in the early postpartum period, and to at least 50 percent the proportion who continue breast feeding until their babies are 5 to 6 months old.
 
 &emsp;(60) Increase to at least 90 percent the proportion of pregnant women who receive prenatal care in the first trimester of pregnancy.
 

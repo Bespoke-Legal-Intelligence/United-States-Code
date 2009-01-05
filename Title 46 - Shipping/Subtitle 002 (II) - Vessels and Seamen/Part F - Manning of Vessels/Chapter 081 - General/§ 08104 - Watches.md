@@ -56,7 +56,7 @@
 
 (<i>o</i>)(1) Except as provided in paragraph (2) of this subsection, on a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 3 watches.
 
-(2) On a fish tender vessel of not more than 500 gross tons as measured under section 14502 ofthis title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 2 watches, if the vessel—
+(2) On a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title engaged in the Aleutian trade, the licensed individuals and crewmembers shall be divided, when at sea, into at least 2 watches, if the vessel—
 
 &emsp;(A) before September 8, 1990, operated in that trade; or
 
@@ -108,7 +108,7 @@ Subsections (i) and (j) prescribe penalties for violations of the provisions of 
 
 1996—Subsec. (b). Pub. L. 104–324, §728(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons”.
 
-Subsec. (c). Pub. L. 104–324, §1114(a), struck out “or permitted” after “required” and inserted “or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period” after “day”.
+Subsec. (c). Pub. L. 104–324, §1114(a), struck out “or permitted” after “required” and inserted “or permittedto work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period” after “day”.
 
 Subsec. (d). Pub. L. 104–324, §728(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” and after “5,000 gross tons”.
 

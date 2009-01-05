@@ -1,0 +1,36 @@
+### §1022e. Teacher development
+
+#### (a) Annual goals
+
+Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, including mathematics, science, special education, and instruction of limited English proficient students.
+
+#### (b) Assurances
+
+Each institution described in subsection (a) shall provide assurances to the Secretary that—
+
+&emsp;(1) training provided to prospective teachers responds to the identified needs of the local educational agencies or States where the institution's graduates are likely to teach, based on past hiring and recruitment trends;
+
+&emsp;(2) training provided to prospective teachers is closely linked with the needs of schools and the instructional decisions new teachers face in the classroom;
+
+&emsp;(3) prospective special education teachers receive course work in core academic subjects and receive training in providing instruction in core academic subjects;
+
+&emsp;(4) general education teachers receive training in providing instruction to diverse populations, including children with disabilities, limited English proficient students, and children from low-income families; and
+
+&emsp;(5) prospective teachers receive training on how to effectively teach in urban and rural schools, as applicable.
+
+#### (c) Rule of construction
+
+Nothing in this section shall be construed to require an institution to create a new teacher preparation area of concentration or degree program or adopt a specific curriculum in complying with this section.
+
+(Pub. L. 89–329, title II, §206, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3152.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 206 of Pub. L. 89–329 was classified to section 1026 of this title, prior to repeal by Pub. L. 110–315.
+
+Another prior section 1026 of Pub. L. 89–329 was classified to section 1026 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+

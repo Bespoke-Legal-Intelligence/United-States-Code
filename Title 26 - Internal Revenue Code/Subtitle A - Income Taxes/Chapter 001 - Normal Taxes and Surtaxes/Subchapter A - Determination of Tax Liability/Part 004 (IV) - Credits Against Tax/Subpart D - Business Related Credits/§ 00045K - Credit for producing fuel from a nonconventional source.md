@@ -202,7 +202,7 @@ Notwithstanding subsection (e)—
 
 #### (A) Daily limit
 
-&emsp;&emsp;The amount of qualified fuels sold during any taxable year which may be taken intoaccount by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average.
+&emsp;&emsp;The amount of qualified fuels sold during any taxable year which may be taken into account by reason of this subsection with respect to any facility shall not exceed an average barrel-of-oil equivalent of 4,000 barrels per day. Days before the date the facility is placed in service shall not be taken into account in determining such average.
 
 #### (B) Extension period to commence with unadjusted credit amount
 
@@ -216,7 +216,15 @@ Notwithstanding subsection (e)—
 
 &emsp;&emsp;Subsection (b)(1) shall not apply.
 
-(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(<i>l</i>), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948.)
+#### (E) Coordination with section 45
+
+&emsp;&emsp;No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45.
+
+(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(<i>l</i>), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821.)
+
+#### Inflation Adjusted Items for Certain Tax Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
 
 #### References in Text
 
@@ -227,6 +235,8 @@ Section 2(18) of the Natural Gas Policy Act of 1978, referred to in subsec. (c)(
 The date of the enactment of this clause, and such date of enactment, referred to in subsec. (c)(2)(B), probably mean the date of enactment of Pub. L. 101–508, which amended subsec. (c)(2)(B) of this section generally, and which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2008—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
 
 2006—Subsec. (g)(1). Pub. L. 109–432, §211(b), inserted “(other than from petroleum based products)” after “producing coke or coke gas” in introductory provisions.
 
@@ -288,7 +298,7 @@ Subsec. (c)(4). Pub. L. 101–508, §11816(b)(1), struck out par. (4) “Qualify
 
 “(A)
 
-In general.—The term ‘qualifying processed wood fuel’ means any processed solid wood fuel (otherthan charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
+In general.—The term ‘qualifying processed wood fuel’ means any processed solid wood fuel (other than charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
 
 “(B)
 
@@ -341,6 +351,10 @@ Pub. L. 98–369, §474(h), amended par. (5) generally, substituting “shall no
 1982—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 1981—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to fuel produced and sold after Sept. 30, 2008, see section 108(e) of Pub. L. 110–343, set out as a note under section 45 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -402,7 +416,7 @@ Section 1879(c)(2) of Pub. L. 99–514 provided that: “The amendment made by p
 
 Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
+Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984,on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
 Section 722(d)(3) of Pub. L. 98–369 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 1979.”
 
@@ -445,4 +459,14 @@ For applicability of amendment by section 701(c)(3) of Pub. L. 99–514 notwiths
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Inflation Adjusted Items for Certain Tax Years
+
+Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+2008—Internal Revenue Notice 2009–32.
+
+2007—Internal Revenue Notice 2008–44.
+
+2006—Internal Revenue Notice 2007–38.
 

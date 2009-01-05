@@ -1,8 +1,8 @@
 ### §4515. Personnel
 
-#### (a) Office personnel
+#### (a) In general
 
-The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and the Office. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
+Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation of such officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
 #### (b) Comparability of compensation with Federal banking agencies
 
@@ -10,27 +10,31 @@ In fixing and directing compensation under subsection (a) of this section, the D
 
 #### (c) Personnel of other Federal agencies
 
-In carrying out the duties of the Office, the Director may use information, services, staff, and facilities of any executive agency, independent agency, or department on a reimbursable basis, with the consent of such agency or department.
+In carrying out the duties of the Agency, the Director may use information, services, staff, and facilities of any executive agency, independent agency, or department on a reimbursable basis, with the consent of such agency or department.
 
-#### (d) Reimbursement of HUD
+#### (d) Outside experts and consultants
 
-The Director shall reimburse the Department of Housing and Urban Development for reasonable costs incurred by the Department that are directly related to the operations of the Office.
+Notwithstanding any provision of law limiting pay or compensation, the Director may appoint and compensate such outside experts and consultants as the Director determines necessary to assist the work of the Agency.
 
-#### (e) Outside experts and consultants
+(Pub. L. 102–550, title XIII, §1315, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 110–289, div. A, title I, §1161(a)(1), July 30, 2008, 122 Stat. 2778.)
 
-Notwithstanding any provision of law limiting pay or compensation, the Director may appoint and compensate such outside experts and consultants as the Director determines necessary to assist the work of the Office.
+#### References in Text
 
-#### (f) Equal opportunity report
+The Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (a), is div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2659. Title III of div. A of the Pub. L. 110–289 is set out as a note under section 4511 of this title. For complete classification of Pub. L. 110–289 to the Code, see Short Title note under section 4501 of this title and Tables.
 
-Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
+#### Amendments
 
-&emsp;(1) a complete description of the equal opportunity, affirmative action, and minority business enterprise utilization programs of the Office; and
+2008—Subsec. (a). Pub. L. 110–289, §1161(a)(1)(A), substituted “In General” for “Office personnel” in heading, “Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the” for “The”, and “the Agency” for “the Office” in two places.
 
-&emsp;(2) such recommendations for administrative and legislative action as the Director determines appropriate to carry out such programs.
+Subsec. (c). Pub. L. 110–289, §1161(a)(1)(B), substituted “the Agency” for “the Office”.
 
-(Pub. L. 102–550, title XIII, §1315, Oct. 28, 1992, 106 Stat. 3947.)
+Subsec. (d). Pub. L. 110–289, §1161(a)(1)(D), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Director shall reimburse the Department of Housing and Urban Development for reasonable costs incurred by the Department that are directly related to the operations of the Office.”
 
-#### Change of Name
+Subsec. (e). Pub. L. 110–289, §1161(a)(1)(C), (D), substituted “the Agency” for “the Office” and redesignated subsec. (e) as (d).
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Subsec. (f). Pub. L. 110–289, §1161(a)(1)(E), struck out subsec. (f). Text read as follows: “Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
+
+&emsp;“(1) a complete description of the equal opportunity, affirmative action, and minority business enterprise utilization programs of the Office; and
+
+&emsp;“(2) such recommendations for administrative and legislative action as the Director determines appropriate to carry out such programs.”
 

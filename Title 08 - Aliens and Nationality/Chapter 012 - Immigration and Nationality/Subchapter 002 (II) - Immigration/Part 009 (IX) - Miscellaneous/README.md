@@ -39,6 +39,8 @@ Part IX—Miscellaneous
 - [&sect; 01374 - Information regarding female genital mutilation](%C2%A7%2001374%20-%20Information%20regarding%20female%20genital%20mutilation.md)
 - [&sect; 01375 - Repealed. Pub. L. 109&#8211;162, title VIII, &sect;833(g), Jan. 5, 2006, 119 Stat. 3077](%C2%A7%2001375%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20VIII%2C%20%C2%A7833%28g%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203077.md)
 - [&sect; 01375a - Domestic violence information and resources for immigrants and regulation of international marriage brokers](%C2%A7%2001375a%20-%20Domestic%20violence%20information%20and%20resources%20for%20immigrants%20and%20regulation%20of%20international%20marriage%20brokers.md)
+- [&sect; 01375b - Protections for domestic workers and other nonimmigrants](%C2%A7%2001375b%20-%20Protections%20for%20domestic%20workers%20and%20other%20nonimmigrants.md)
+- [&sect; 01375c - Protections, remedies, and limitations on issuance for A&#8211;3 and G&#8211;5 visas](%C2%A7%2001375c%20-%20Protections%2C%20remedies%2C%20and%20limitations%20on%20issuance%20for%20A%E2%80%933%20and%20G%E2%80%935%20visas.md)
 - [&sect; 01376 - Data on nonimmigrant overstay rates](%C2%A7%2001376%20-%20Data%20on%20nonimmigrant%20overstay%20rates.md)
 - [&sect; 01377 - Collection of data on detained asylum seekers](%C2%A7%2001377%20-%20Collection%20of%20data%20on%20detained%20asylum%20seekers.md)
 - [&sect; 01378 - Collection of data on other detained aliens](%C2%A7%2001378%20-%20Collection%20of%20data%20on%20other%20detained%20aliens.md)

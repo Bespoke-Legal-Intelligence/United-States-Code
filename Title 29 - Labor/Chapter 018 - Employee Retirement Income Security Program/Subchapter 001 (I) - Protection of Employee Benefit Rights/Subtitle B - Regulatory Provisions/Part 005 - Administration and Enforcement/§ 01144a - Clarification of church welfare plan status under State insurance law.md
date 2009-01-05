@@ -34,7 +34,7 @@ For purposes of this section:
 
 #### (d) Enforcement authority
 
-Notwithstanding any other provision of this section, for purposes of enforcing provisions of State insurance laws that apply to a church plan that is a welfare plan, the church plan shall be subject to State enforcement as if the church plan were an insurer licensed by the State.
+Notwithstanding any other provision of this section, for purposes of enforcing provisions ofState insurance laws that apply to a church plan that is a welfare plan, the church plan shall be subject to State enforcement as if the church plan were an insurer licensed by the State.
 
 #### (e) Application of section
 

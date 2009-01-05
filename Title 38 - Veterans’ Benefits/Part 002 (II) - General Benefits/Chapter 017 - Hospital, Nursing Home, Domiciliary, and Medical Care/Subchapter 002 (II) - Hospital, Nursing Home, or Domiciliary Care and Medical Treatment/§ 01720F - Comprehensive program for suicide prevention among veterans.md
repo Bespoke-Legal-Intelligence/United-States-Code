@@ -66,7 +66,7 @@ Outreach and Education for Veterans and Families.—In carrying out the comprehe
 
 (j)
 
-Peer Support Counseling Program.—(1) In carrying out the comprehensive program, the Secretary may establish and carry out a peer support counseling program, under which veterans shall be permitted to volunteer as peer counselors—
+Peer Support Counseling Program.—(1) In carrying out the comprehensive program, theSecretary may establish and carry out a peer support counseling program, under which veterans shall be permitted to volunteer as peer counselors—
 
 &emsp;(A) to assist other veterans with issues related to mental health and readjustment; and
 

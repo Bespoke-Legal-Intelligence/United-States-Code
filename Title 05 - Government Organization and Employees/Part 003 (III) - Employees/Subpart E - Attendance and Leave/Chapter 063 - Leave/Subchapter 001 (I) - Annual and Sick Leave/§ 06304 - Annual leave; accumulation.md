@@ -40,7 +40,7 @@
 
 (2) Annual leave restored under paragraph (1) of this subsection, or under clause (2) of section 5562(a) of this title, which is in excess of the maximum leave accumulation permitted by law shall be credited to a separate leave account for the employee and shall be available for use by the employee within the time limits prescribed by regulations of the Office of Personnel Management. Leave credited under this paragraph but unused and still available to the employee under the regulations prescribed by the Office shall be included in the lump-sum payment under section 5551 or 5552(1) of this title but may not be retained to the credit of the employee under section 5552(2) of this title.
 
-(3)(A) For the purpose of this subsection, the closure of, and any realignment with respect to, an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977, and the closure of any other installation of the Department of Defense, during the period beginning on October 1, 1992, and ending on December 31, 1997, shall be deemed to create an exigency of the public business and any leave that is lost by an employee of such installation by operation of this section (regardless of whether such leave was scheduled) shall be restored to the employee and shall be credited and available in accordance with paragraph (2).
+(3)(A) For the purpose of this subsection, the closure of, and any realignment with respect to, an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977, and the closure of any other installation of the Department of Defense, during the period beginning on October 1, 1992, and ending on December 31, 1997, shall be deemed to create an exigency of the public business and any leave that is lost by an employee of such installationby operation of this section (regardless of whether such leave was scheduled) shall be restored to the employee and shall be credited and available in accordance with paragraph (2).
 
 (B) For the purpose of subparagraph (A), the term “realignment” means a base realignment (as defined in subsection (e)(3) of section 2687 of title 10) that meets the requirements of subsection (a)(2) of such section.
 
@@ -54,17 +54,21 @@
 
 (e) Annual leave otherwise accruable after June 30, 1960, which is lost by operation of this section because of administrative error and which is not credited under subsection (d)(2) of this section because the employee is separated before the error is discovered, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of discovery of the error. Payment shall be made by the agency of employment when the lump-sum payment provisions of section 5551 of this title last became applicable to the employee at the rate of basic pay in effect on the date the lump-sum provisions became applicable.
 
-(f)(1) This subsection applies with respect to annual leave accrued by an individual while serving in a position in—
+(f)(1) This subsection applies with respect to annual leave accrued by an individual while serving in—
 
-&emsp;(A) the Senior Executive Service;
+&emsp;(A) a position in the Senior Executive Service;
 
-&emsp;(B) the Senior Foreign Service;
+&emsp;(B) a position in the Senior Foreign Service;
 
-&emsp;(C) the Defense Intelligence Senior Executive Service;
+&emsp;(C) a position in the Defense Intelligence Senior Executive Service;
 
-&emsp;(D) the Senior Cryptologic Executive Service; or
+&emsp;(D) a position in the Senior Cryptologic Executive Service;
 
-&emsp;(E) the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+&emsp;(E) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
+
+&emsp;(F) a position to which section 5376 applies; or
+
+&emsp;(G) a position designated under section 1607(a) of title 10 as an Intelligence Senior Level position.
 
 (2) For purposes of applying any limitation on accumulation under this section with respect to any annual leave described in paragraph (1)—
 
@@ -72,7 +76,7 @@
 
 &emsp;(B) “45 days” in subsection (b) shall be deemed to read “90 days”.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 519; Pub. L. 93–181, §3, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–454, title IV, §410, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(39), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–465, title II, §2312(b), Oct. 17, 1980, 94 Stat. 2166; Pub. L. 97–89, title VIII, §802, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(k), May 30, 1988, 102 Stat. 582; Pub. L. 102–378, §2(53), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–484, div. D, title XLIV, §4434, Oct. 23, 1992, 106 Stat. 2722; Pub. L. 103–337, div. A, title III, §341(c), div. B, title XXVIII, §2816(a), Oct. 5, 1994, 108 Stat. 2720, 3056; Pub. L. 103–356, title II, §201(a), Oct. 13, 1994, 108 Stat. 3411; Pub. L. 105–261, div. A, title XI, §1105, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 106–65, div. A, title XI, §1103(a), Oct. 5, 1999, 113 Stat. 776; Pub. L. 110–181, div. A, title XI, §1112, Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes
 
@@ -128,13 +132,15 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
+2008—Subsec. (f)(1). Pub. L. 110–181 substituted “in—” for “in a position in—” in introductory provisions, inserted “a position in” before “the” in subpars. (A) to (E), struck out “or” at end of subpar. (D), substituted semicolon for period at end of subpar. (E), and added subpars. (F) and (G).
+
 1999—Subsec. (d)(4). Pub. L. 106–65 added par. (4).
 
 1998—Subsec. (d)(3)(A). Pub. L. 105–261 inserted “the closure of an installation of the Department of Defense in the Republic of Panama in accordance with the Panama Canal Treaty of 1977,” after “2687 note) during any period,”.
 
 1994—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted “closure of, and any realignment with respect to,” for “closure of”, and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
+Pub. L. 103–337, §341(c), substituted “the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation” for “the closure of an installation”.
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -226,7 +232,7 @@ Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendm
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 
-Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post OfficeDepartment or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
 
 Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
 

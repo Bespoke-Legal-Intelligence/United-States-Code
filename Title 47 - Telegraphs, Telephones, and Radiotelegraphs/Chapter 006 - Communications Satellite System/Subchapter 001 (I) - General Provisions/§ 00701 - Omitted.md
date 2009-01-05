@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 87–624, title I, §102, Aug. 31, 1962, 76 Stat. 419, which related to Congressional declaration ofpolicy and purpose, ceased to be effective Apr. 15, 2005, pursuant to section 765d(4) of this title.
+Section, Pub. L. 87–624, title I, §102, Aug. 31, 1962, 76 Stat. 419, which related to Congressional declaration of policy and purpose, ceased to be effective Apr. 15, 2005, pursuant to section 765d(4) of this title.
 
 #### Short Title of 2003 Amendment
 

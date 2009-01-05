@@ -62,7 +62,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
 &emsp;“(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990's.
 
-&emsp;“(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage.
+&emsp;“(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning inother industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage.
 
 &emsp;“(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge.
 

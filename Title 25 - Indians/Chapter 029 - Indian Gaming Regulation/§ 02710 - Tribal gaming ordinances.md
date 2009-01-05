@@ -180,7 +180,7 @@
 
 (4) Except for any assessments that may be agreed to under paragraph (3)(C)(iii) of this subsection, nothing in this section shall be interpreted as conferring upon a State or any of its political subdivisions authority to impose any tax, fee, charge, or other assessment upon an Indian tribe or upon any other person or entity authorized by an Indian tribe to engage in a class III activity. No State may refuse to enter into the negotiations described in paragraph (3)(A) based upon the lack of authority in such State, or its political subdivisions, to impose such a tax, fee, charge, or other assessment.
 
-(5) Nothing in this subsection shall impair the right of an Indian tribe to regulate class III gaming on its Indian lands concurrently with the State, except to the extent that such regulation is inconsistent with, or less stringent than, the State laws and regulations made applicable by any Tribal-State compact entered into by the Indian tribe under paragraph (3) that is in effect.
+(5) Nothing in this subsection shall impair the right of an Indian tribe to regulate class IIIgaming on its Indian lands concurrently with the State, except to the extent that such regulation is inconsistent with, or less stringent than, the State laws and regulations made applicable by any Tribal-State compact entered into by the Indian tribe under paragraph (3) that is in effect.
 
 (6) The provisions of section 1175 of title 15 shall not apply to any gaming conducted under a Tribal-State compact that—
 
@@ -242,7 +242,7 @@
 
 #### (e) Approval of ordinances
 
-For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
+For purposes of this section, by not later than the date that is 90 days after the date on whichany tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
 (Pub. L. 100–497, §11, Oct. 17, 1988, 102 Stat. 2472.)
 

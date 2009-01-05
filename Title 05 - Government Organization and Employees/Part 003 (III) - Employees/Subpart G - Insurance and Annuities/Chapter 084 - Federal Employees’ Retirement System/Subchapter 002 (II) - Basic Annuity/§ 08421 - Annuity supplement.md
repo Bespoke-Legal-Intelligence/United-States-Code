@@ -32,7 +32,7 @@
 
 (3) The fraction under this paragraph for any annuitant is a fraction—
 
-&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with 1/2being rounded to the next higher number), not to exceed the number under subparagraph (B); and
+&emsp;(A) the numerator of which is the annuitant's total years of service (rounding a fraction to the nearest whole number, with 1/2 being rounded to the next higher number), not to exceed the number under subparagraph (B); and
 
 &emsp;(B) the denominator of which is 40.
 

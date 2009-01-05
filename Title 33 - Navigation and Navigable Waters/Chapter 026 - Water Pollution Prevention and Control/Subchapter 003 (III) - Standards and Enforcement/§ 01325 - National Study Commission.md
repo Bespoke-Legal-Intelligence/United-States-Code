@@ -6,7 +6,7 @@ There is established a National Study Commission, which shall make a full and co
 
 #### (b) Membership; chairman
 
-Such Commission shall be composed of fifteen members, including five members of the Senate, who are members of the Environment and Public Works committee, appointed by the President of the Senate, five members of the House, who are members of the Public Works and Transportation committee, appointed by the Speaker of the House, and five members of the public appointed by the President. The Chairman of such Commission shall be elected from among its members.
+Such Commission shall be composed of fifteen members, including five members of the Senate,who are members of the Environment and Public Works committee, appointed by the President of the Senate, five members of the House, who are members of the Public Works and Transportation committee, appointed by the Speaker of the House, and five members of the public appointed by the President. The Chairman of such Commission shall be elected from among its members.
 
 #### (c) Contract authority
 
@@ -32,7 +32,7 @@ In addition to authority to appoint personnel subject to the provisions of title
 
 There is authorized to be appropriated, for use in carrying out this section, not to exceed $17,250,000.
 
-(June 30, 1948, ch. 758, title III, §315, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875;amended Pub. L. 93–207, §1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
+(June 30, 1948, ch. 758, title III, §315, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 93–207, §1(5), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §5, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 94–238, Mar. 23, 1976, 90 Stat. 250; H. Res. 988, Oct. 8, 1974; S. Res. 4, Feb. 4, 1977.)
 
 #### References in Text
 

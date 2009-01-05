@@ -4,7 +4,7 @@
 
 The Secretary may make grants to, or enter into contracts with, any public or nonprofit private hospital, school of medicine or osteopathic medicine, or to or with a public or private nonprofit entity (which the Secretary has determined is capable of carrying out such grant or contract)—
 
-&emsp;(1) to plan, develop, and operate, or participate in, an approved professional training program (including an approved residency or internship program) in the field of family medicine, internal medicine, or pediatrics for medical (M.D. and D.O.) students, interns (including interns in internships in osteopathic medicine), residents, or practicing physicians thatemphasizes training for the practice of family medicine, general internal medicine, or general pediatrics (as defined by the Secretary);
+&emsp;(1) to plan, develop, and operate, or participate in, an approved professional training program (including an approved residency or internship program) in the field of family medicine, internal medicine, or pediatrics for medical (M.D. and D.O.) students, interns (including interns in internships in osteopathic medicine), residents, or practicing physicians that emphasizes training for the practice of family medicine, general internal medicine, or general pediatrics (as defined by the Secretary);
 
 &emsp;(2) to provide financial assistance (in the form of traineeships and fellowships) to medical (M.D. and D.O.) students, interns (including interns in internships in osteopathic medicine), residents, practicing physicians, or other medical personnel, who are in need thereof, who are participants in any such program, and who plan to specialize or work in the practice of family medicine, general internal medicine, or general pediatrics;
 
@@ -22,7 +22,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may be departments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
+&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may bedepartments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
 
 #### (2) Preference in making awards
 
@@ -68,7 +68,7 @@ The period during which payments are made to an entity from an award of a grant 
 
 &emsp;&emsp;&emsp;(i) not less than $49,300,000 for awards of grants and contracts under subsection (a) of this section to programs of family medicine, of which not less than $8,600,000 shall be made available for awards of grants and contracts under subsection (b) of this section for family medicine academic administrative units;
 
-&emsp;&emsp;&emsp;(ii) not less than $17,700,000 for awards of grants and contracts under subsection (a)of this section to programs of general internal medicine and general pediatrics;
+&emsp;&emsp;&emsp;(ii) not less than $17,700,000 for awards of grants and contracts under subsection (a) of this section to programs of general internal medicine and general pediatrics;
 
 &emsp;&emsp;&emsp;(iii) not less than $6,800,000 for awards of grants and contracts under subsection (a) of this section to programs relating to physician assistants; and
 

@@ -6,7 +6,7 @@ Until such time as the Secretary of the Interior publishes a tribal membership r
 
 #### (b) Preparation of membership roll by Secretary; individuals to be included
 
-Within three hundred and sixty-five days after October 26, 1987, the Secretary shall prepare inaccordance with the regulations contained in part 61 of title 25 of the Code of Federal Regulations a tribal membership roll of the Cow Creek Band of Umpqua Tribe of Indians. Such roll shall include all Cow Creek descendants or other Indian individuals who were not members of any other federally recognized Indian tribe on July 30, 1987 and who—
+Within three hundred and sixty-five days after October 26, 1987, the Secretary shall prepare in accordance with the regulations contained in part 61 of title 25 of the Code of Federal Regulations a tribal membership roll of the Cow Creek Band of Umpqua Tribe of Indians. Such roll shall include all Cow Creek descendants or other Indian individuals who were not members of any other federally recognized Indian tribe on July 30, 1987 and who—
 
 &emsp;(1) are listed on the tribal roll referred to in subsection (a) of this section;
 

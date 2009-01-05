@@ -80,7 +80,7 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 #### (A) Medicare beneficiary
 
-&emsp;&emsp;The term “medicare beneficiary” means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
+&emsp;&emsp;The term “medicare beneficiary” means an individual who is entitled to benefitsunder part A of this subchapter or enrolled under part B of this subchapter.
 
 #### (B) Physician
 

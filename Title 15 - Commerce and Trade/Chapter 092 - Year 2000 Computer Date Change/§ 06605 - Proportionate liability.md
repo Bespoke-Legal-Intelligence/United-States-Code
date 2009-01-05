@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
+Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative andproportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
 #### (b) Proportionate liability
 
@@ -86,7 +86,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (B) Overall limit
 
-&emsp;&emsp;The total payments required under subparagraph (A) from all defendants may not exceed the amount of the uncollectible share.
+&emsp;&emsp;The total payments required under subparagraph (A) from all defendants may notexceed the amount of the uncollectible share.
 
 #### (C) Subject to contribution
 

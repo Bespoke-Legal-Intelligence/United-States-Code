@@ -100,3 +100,5 @@ Subsec. (c). Pub. L. 108–173, §923(a), added subsec. (c).
 
 Pub. L. 108–173, title IX, §923(b), Dec. 8, 2003, 117 Stat. 2394, provided that: “By not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall appoint the Medicare Beneficiary Ombudsman under section 1808(c) of the Social Security Act \[subsec. (c) of this section\], as added by subsection (a).”
 
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
+

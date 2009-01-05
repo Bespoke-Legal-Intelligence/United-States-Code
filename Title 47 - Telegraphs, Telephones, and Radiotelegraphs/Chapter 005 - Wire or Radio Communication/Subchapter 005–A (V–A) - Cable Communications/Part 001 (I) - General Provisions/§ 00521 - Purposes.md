@@ -44,7 +44,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(6) There is a substantial governmental and First Amendment interest in promoting a diversity of views provided through multiple technology media.
 
-&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educational stations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934 \[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
+&emsp;“(7) There is a substantial governmental and First Amendment interest in ensuring that cable subscribers have access to local noncommercial educational stations which Congress has authorized, as expressed in section 396(a)(5) of the Communications Act of 1934\[47 U.S.C. 396(a)(5)\]. The distribution of unique noncommercial, educational programming services advances that interest.
 
 &emsp;“(8) The Federal Government has a substantial interest in making all nonduplicative local public television services available on cable systems because—
 
@@ -72,7 +72,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(16) As a result of the economic incentive that cable systems have to delete, reposition, or not carry local broadcast signals, coupled with the absence of a requirement that such systems carry local broadcast signals, the economic viability of free local broadcast television and its ability to originate quality local programming will be seriously jeopardized.
 
-&emsp;“(17) Consumers who subscribe to cable television often do so to obtain local broadcast signals which they otherwise would not be able to receive, or to obtain improved signals. Most subscribers to cable television systems do not or cannot maintain antennasto receive broadcast television services, do not have input selector switches to convert from a cable to antenna reception system, or cannot otherwise receive broadcast television services. The regulatory system created by the Cable Communications Policy Act of 1984 was premised upon the continued existence of mandatory carriage obligations for cable systems, ensuring that local stations would be protected from anticompetitive conduct by cable systems.
+&emsp;“(17) Consumers who subscribe to cable television often do so to obtain local broadcast signals which they otherwise would not be able to receive, or to obtain improved signals. Most subscribers to cable television systems do not or cannot maintain antennas to receive broadcast television services, do not have input selector switches to convert from a cable to antenna reception system, or cannot otherwise receive broadcast television services. The regulatory system created by the Cable Communications Policy Act of 1984 was premised upon the continued existence of mandatory carriage obligations for cable systems, ensuring that local stations would be protected from anticompetitive conduct by cable systems.
 
 &emsp;“(18) Cable television systems often are the single most efficient distribution system for television programming. A Government mandate for a substantial societal investment in alternative distribution systems for cable subscribers, such as the ‘A/B’ input selector antenna system, is not an enduring or feasible method of distribution and is not in the public interest.
 

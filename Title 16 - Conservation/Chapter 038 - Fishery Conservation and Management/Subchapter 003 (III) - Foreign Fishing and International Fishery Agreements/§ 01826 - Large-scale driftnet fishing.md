@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
 
-&emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, areneeded to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
+&emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, are needed to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
 
 &emsp;(5) the nations of the world have agreed in the United Nations, through General Assembly Resolution Numbered 44–225, approved December 22, 1989, by the General Assembly, that a moratorium should be imposed by June 30, 1992, on the use of large-scale driftnets beyond the exclusive economic zone of any nation;
 
@@ -110,5 +110,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on MerchantMarine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -112,7 +112,7 @@ The submission of any adverse event report in compliance with this section shall
 
 &emsp;&emsp;&emsp;(i) be made publicly available pursuant to any State or other law requiring disclosure of information or records; or
 
-&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consentof the Secretary and the person submitting such information to the Secretary.
+&emsp;&emsp;&emsp;(ii) otherwise be disclosed or distributed to any party without the written consent of the Secretary and the person submitting such information to the Secretary.
 
 #### (C) Use of safety reports
 

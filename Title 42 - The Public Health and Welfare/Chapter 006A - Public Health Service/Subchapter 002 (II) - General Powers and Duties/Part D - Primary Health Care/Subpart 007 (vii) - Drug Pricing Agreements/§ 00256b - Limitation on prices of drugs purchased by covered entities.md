@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into an agreement with each manufacturer of covered drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2).
+&emsp;The Secretary shall enter into an agreement with each manufacturer of covered drugs under which the amount required to be paid\(taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2).
 
 #### (2) “Rebate percentage” defined
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(I) An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
-&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but onlyif the entity is certified by the Secretary pursuant to paragraph (7).
+&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
 &emsp;&emsp;(K) An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) <sup>1</sup> of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
@@ -136,7 +136,7 @@ Any reference in this section to a provision of the Social Security Act \[42 U.S
 
 #### (d) Compliance with requirements
 
-A manufacturer is deemed to meet the requirements of subsection (a) of this section if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.
+A manufacturer is deemed to meet the requirements of subsection (a) of this section ifthe manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.
 
 (July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212.)
 

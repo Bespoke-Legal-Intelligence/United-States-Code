@@ -12,15 +12,15 @@
 
 > Full-time training, or other full-time duty for a period of more than 29 days, performed under section 316, 502, 503, 504, or 505 of title 32 by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
 
-(b) Except as provided in subsection (f) and subsection (g), a member may not accumulate more than 60 days’ leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
+(b) Except as provided in subsections (d), (f), and (g), a member may not accumulate more than 60 days’ leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
 
 (c) A member who retired after August 9, 1946, who is continued on, or is recalled to active duty, may have his leave which accumulated during his service before retirement carried over to his period of service after retirement.
 
-\[(d) Repealed. Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586.\]
+(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through December 31, 2010, a member may accumulate up to 75 days of leave.
 
 (e) Leave taken before discharge is considered to be active service.
 
-(f)(1)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize a member described in subparagraph (B) who, except for this paragraph, would lose any accumulated leave in excess of 60 days at the end of the fiscal year, to retain an accumulated total of 120 days leave.
+(f)(1)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize a member described in subparagraph (B) who, except for this paragraph, would lose at the end of the fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), to retain an accumulated total of 120 days leave.
 
 (B) This subsection applies to a member who—
 
@@ -30,15 +30,11 @@
 
 &emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense as qualifying duty for purposes of this subsection.
 
-(C) Except as provided in paragraph (2), leave in excess of 60 days accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
+(C) Except as provided in paragraph (2), leave in excess of the days of leave authorized to be accumulated under subsection (b) or (d) that are accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year (or fourth fiscal year, if accumulated while subsection (d) is in effect) after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
 
-(2) Under the uniform regulations referred to in paragraph (1), a member of an armed force who serves on active duty in a duty assignment in support of a contingency operation during a fiscal year and who, except for this paragraph—
+(2) Under the uniform regulations referred to in paragraph (1), a member of an armed force who serves on active duty in a duty assignment in support of a contingency operation during a fiscal year and who, except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated.
 
-&emsp;(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
-
-&emsp;(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (other than by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year.
-
-(g) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the 60-day limitation in subsection (b) and the 90-day limitation in subsection (f). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
+(g) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the limitations in subsections (b), (d), and (f). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
 
 &emsp;(1) the Secretary concerned receives evidence that the member is dead; or
 
@@ -46,7 +42,7 @@
 
 > Leave accumulated while in missing status shall be accounted for separately. It may not be taken, but shall be paid for under section 501(h) of title 37. However, a member whose death is prescribed or determined under section 555 or 556 of title 37 may, in addition to leave accrued before entering a missing status, accrue not more than 150 days’ leave during the period he is in a missing status, unless his actual death occurs on a date when, had he lived, he would have accrued leave in excess of 150 days, in which event settlement will be made for the number of days accrued to the actual date of death. Leave so accrued in a missing status shall be accounted for separately and paid for under the provisions of section 501 of title 37.
 
-(h) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for thepurpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
+(h) A member who has taken leave in excess of that authorized by this section and who is beingdischarged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 
 (i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
 
@@ -56,7 +52,11 @@
 
 (4) Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321.)
+(j)(1) Under regulations prescribed by the Secretary concerned, a married member of the armed forces on active duty whose wife gives birth to a child shall receive 10 days of leave to be used in connection with the birth of the child.
+
+(2) Leave under paragraph (1) is in addition to other leave authorized under this section.
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449.)
 
 Historical and Revision Notes
 
@@ -100,6 +100,24 @@ In subsection (e), the words “before or after August 9, 1946” and section 31
 
 #### Amendments
 
+2008—Subsec. (b). Pub. L. 110–181, §551(a)(1), substituted “subsections (d), (f), and (g)” for “subsection (f) and subsection (g)”.
+
+Subsec. (d). Pub. L. 110–181, §551(a)(2), added subsec. (d).
+
+Subsec. (f)(1)(A). Pub. L. 110–181, §551(b)(1), substituted “at the end of the fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d)” for “any accumulated leave in excess of 60 days at the end of the fiscal year”.
+
+Subsec. (f)(1)(C). Pub. L. 110–181, §551(b)(2), substituted “the days of leave authorized to be accumulated under subsection (b) or (d) that are” for “60 days” and inserted “(or fourth fiscal year, if accumulated while subsection (d) is in effect)” after “third fiscal year”.
+
+Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted “except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated” for “except for this paragraph—
+
+&emsp;“(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
+
+&emsp;“(B) would lose any accumulated leave in excess of 60 days at the end of the succeeding fiscal year (other than by reason of subparagraph (A)), shall be permitted to retain such leave (not to exceed 90 days) until the end of the next succeeding fiscal year.”
+
+Subsec. (g). Pub. L. 110–181, §551(c), substituted “limitations in subsections (b), (d), and (f)” for “60-day limitation in subsection (b) and the 90-day limitation in subsection (f)” in introductory provisions.
+
+Subsec. (j). Pub. L. 110–417 added subsec. (j).
+
 2006—Subsec. (f)(1)(B). Pub. L. 109–163, §682, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
 
 &emsp;“(i) in an area in which the member is entitled to special pay under section 310(a) of title 37; or
@@ -110,7 +128,7 @@ Subsec. (i). Pub. L. 109–163, §593(a), added subsec. (i).
 
 2003—Subsec. (f)(1). Pub. L. 108–136 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under section 310(a) of title 37 or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
 
-1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
+1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
 
 1986—Subsec. (h). Pub. L. 99–661 added subsec. (h).
 
@@ -136,6 +154,10 @@ Subsec. (f). Pub. L. 90–245, §1(2), added subsec. (f).
 
 1965—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title V, §532(b), Oct. 14, 2008, 122 Stat. 4449, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 14, 2008\] and applies only with respect to children born on or after that date.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title V, §593(b), Jan. 6, 2006, 119 Stat. 3281, provided that: “Subsection (i) of section 701 of title 10, United States Code (as added by subsection (a)), shall take effect on January 1, 2006, and shall apply only with respect to adoptions completed on or after that date.”
@@ -150,7 +172,7 @@ Section 1031(b)(1), (2) of Pub. L. 98–94 provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to leave accumulated under section 701(f) of such title \[this title\] after September 30, 1980.
 
-“(2) A member of the Armed Forces who was authorized under section 701(f) of such title to accumulate 90days’ leave during fiscal year 1980, 1981, or 1982 and lost any leave at the end of fiscal year 1981, 1982, or 1983, respectively, because of the provisions of the last sentence of such section, as in effect on the day before the date of the enactment of this Act, shall be credited with the amount of the leave lost and may retain leave in excess of 60 days until (A) September 30, 1984, or (B) the end of the third fiscal year after the year in which such leave was accumulated, whichever is later, but in no case may such a member accumulate leave in excess of 90 days.”
+“(2) A member of the Armed Forces who was authorized under section 701(f) of such title to accumulate 90 days’ leave during fiscal year 1980, 1981, or 1982 and lost any leave at the end of fiscal year 1981, 1982, or 1983, respectively, because of the provisions of the last sentence of such section, as in effect on the day before the date of the enactment of this Act, shall be credited with the amount of the leave lost and may retain leave in excess of 60 days until (A) September 30, 1984, or (B) the end of the third fiscal year after the year in which such leave was accumulated, whichever is later, but in no case may such a member accumulate leave in excess of 90 days.”
 
 #### Effective Date of 1981 Amendment
 

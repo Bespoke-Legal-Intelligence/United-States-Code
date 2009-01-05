@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year ofa shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -14,7 +14,7 @@
 
 #### (2) Nonseparately computed income or loss defined
 
-&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter,determined by excluding all items described in paragraph (1)(A).
+&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
 
 #### (b) Character passed thru
 
@@ -164,5 +164,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 towhich such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

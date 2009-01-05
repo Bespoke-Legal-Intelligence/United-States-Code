@@ -40,7 +40,7 @@ Subsec. (b)(2). Pub. L. 102–573, §102(b)(3), amended par. (2) generally. Prio
 
 Subsec. (c). Pub. L. 102–573, §102(b)(4), struck out “full time” after “while attending school”.
 
-Subsec. (e). Pub. L. 102–573, §102(b)(5), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
+Subsec. (e). Pub. L. 102–573, §102(b)(5), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
 
 &emsp;“(1) $3,000,000 for fiscal year 1989,
 

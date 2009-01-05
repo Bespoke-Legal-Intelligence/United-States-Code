@@ -20,7 +20,7 @@ The Fund shall, to the extent approved in appropriations Acts, be available to t
 
 #### (d) Investment of excess amounts
 
-Any amounts in the Fund determined by the Trust to be in excess of the amounts currentlyrequired to carry out the provisions of this subchapter shall be invested by the Trust in obligations of, or obligations guaranteed as to both principal and interest by, the United States or any agency of the United States.
+Any amounts in the Fund determined by the Trust to be in excess of the amounts currently required to carry out the provisions of this subchapter shall be invested by the Trust in obligations of, or obligations guaranteed as to both principal and interest by, the United States or any agency of the United States.
 
 #### (e) Demonstration programs
 

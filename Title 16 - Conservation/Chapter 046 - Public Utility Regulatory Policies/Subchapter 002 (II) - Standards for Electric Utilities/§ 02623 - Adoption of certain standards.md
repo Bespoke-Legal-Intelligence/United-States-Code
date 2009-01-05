@@ -16,7 +16,7 @@ The following Federal standards are hereby established:
 
 #### (1) Master metering
 
-&emsp;To the extent determined appropriate under section 2625(d) of this title, master metering of electric service in the case of new buildings shall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
+&emsp;To the extent determined appropriate under section 2625(d) of this title, master metering of electric service in the case of new buildingsshall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.
 
 #### (2) Automatic adjustment clauses
 
@@ -39,4 +39,8 @@ The following Federal standards are hereby established:
 Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a) of this section, shall (1) adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
 (Pub. L. 95–617, title I, §113, Nov. 9, 1978, 92 Stat. 3123.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 

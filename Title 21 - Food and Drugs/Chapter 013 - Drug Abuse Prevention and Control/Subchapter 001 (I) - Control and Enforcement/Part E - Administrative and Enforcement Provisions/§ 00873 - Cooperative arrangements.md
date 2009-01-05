@@ -18,7 +18,7 @@ The Attorney General shall cooperate with local, State, and Federal agencies con
 
 &emsp;&emsp;(A) making periodic assessments of the capabilities of State and local governments to adequately control the diversion of controlled substances;
 
-&emsp;&emsp;(B) providing advice and counsel to State and local governments on the methods by which such governments may strengthen their controls against diversion; and
+&emsp;&emsp;(B) providing advice and counsel to State and local governments on the methods bywhich such governments may strengthen their controls against diversion; and
 
 &emsp;&emsp;(C) establishing cooperative investigative efforts to control diversion; and
 

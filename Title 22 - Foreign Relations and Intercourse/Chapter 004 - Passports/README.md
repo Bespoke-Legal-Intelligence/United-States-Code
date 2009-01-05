@@ -5,6 +5,7 @@
 | [211\.](%C2%A7%2000211%20-%20Repealed.%20July%203%2C%201926%2C%20ch.%20772%2C%20%C2%A74%2C%2044%20Stat.%20887.md) | Repealed. |
 | [211a.](%C2%A7%2000211a%20-%20Authority%20to%20grant%2C%20issue%2C%20and%20verify%20passports.md) | Authority to grant, issue, and verify passports. |
 | [212\.](%C2%A7%2000212%20-%20Persons%20entitled%20to%20passport.md) | Persons entitled to passport. |
+| [212a.](%C2%A7%2000212a%20-%20Restriction%20of%20passports%20for%20sex%20tourism.md) | Restriction of passports for sex tourism. |
 | [213\.](%C2%A7%2000213%20-%20Application%20for%20passport%3B%20verification%20by%20oath%20of%20initial%20passport.md) | Application for passport; verification by oath of initial passport. |
 | [214\.](%C2%A7%2000214%20-%20Fees%20for%20execution%20and%20issuance%20of%20passports%3B%20persons%20excused%20from%20payment.md) | Fees for execution and issuance of passports; persons excused from payment. |
 | [214a.](%C2%A7%2000214a%20-%20Fees%20erroneously%20charged%20and%20paid%3B%20refund.md) | Fees erroneously charged and paid; refund. |
@@ -23,6 +24,7 @@
 - [&sect; 00211 - Repealed. July 3, 1926, ch. 772, &sect;4, 44 Stat. 887](%C2%A7%2000211%20-%20Repealed.%20July%203%2C%201926%2C%20ch.%20772%2C%20%C2%A74%2C%2044%20Stat.%20887.md)
 - [&sect; 00211a - Authority to grant, issue, and verify passports](%C2%A7%2000211a%20-%20Authority%20to%20grant%2C%20issue%2C%20and%20verify%20passports.md)
 - [&sect; 00212 - Persons entitled to passport](%C2%A7%2000212%20-%20Persons%20entitled%20to%20passport.md)
+- [&sect; 00212a - Restriction of passports for sex tourism](%C2%A7%2000212a%20-%20Restriction%20of%20passports%20for%20sex%20tourism.md)
 - [&sect; 00213 - Application for passport; verification by oath of initial passport](%C2%A7%2000213%20-%20Application%20for%20passport%3B%20verification%20by%20oath%20of%20initial%20passport.md)
 - [&sect; 00214 - Fees for execution and issuance of passports; persons excused from payment](%C2%A7%2000214%20-%20Fees%20for%20execution%20and%20issuance%20of%20passports%3B%20persons%20excused%20from%20payment.md)
 - [&sect; 00214a - Fees erroneously charged and paid; refund](%C2%A7%2000214a%20-%20Fees%20erroneously%20charged%20and%20paid%3B%20refund.md)

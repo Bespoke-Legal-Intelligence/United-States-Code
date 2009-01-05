@@ -8,7 +8,7 @@ It is the intention of the Congress that the Board of Governors of the Federal R
 
 #### (1) Information of the Board
 
-&emsp;Upon the request of the appropriate insurance regulator of any State, the Board may provide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
+&emsp;Upon the request of the appropriate insurance regulator of any State, the Board mayprovide any information of the Board regarding the financial condition, risk management policies, and operations of any financial holding company that controls a company that is engaged in insurance activities and is regulated by such State insurance regulator, and regarding any transaction or relationship between such an insurance company and any affiliated depository institution. The Board may provide any other information to the appropriate State insurance regulator that the Board believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
 
 #### (2) Banking agency information
 

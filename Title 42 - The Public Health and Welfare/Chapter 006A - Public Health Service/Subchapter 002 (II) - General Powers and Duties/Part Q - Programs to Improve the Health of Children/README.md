@@ -1,6 +1,6 @@
 Part Q—Programs To Improve the Health of Children
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(C)”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

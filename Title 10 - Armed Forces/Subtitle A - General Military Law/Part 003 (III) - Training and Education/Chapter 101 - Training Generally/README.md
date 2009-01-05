@@ -53,6 +53,30 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 1965—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces
+
+Pub. L. 110–417, \[div. A\], title V, §550, Oct. 14, 2008, 122 Stat. 4468, provided that:
+
+“(a)
+
+Authority.—The Secretary of a military department may enter into one or more education partnership agreements with educational institutions in the United States for the purpose of—
+
+&emsp;“(1) developing plans to improve the accessibility and flexibility of college courses available to eligible members of the Armed Forces;
+
+&emsp;“(2) improving the application process for the Armed Forces tuition assistance programs and raising awareness regarding educational opportunities available to such members;
+
+&emsp;“(3) developing curriculum, distance education programs, and career counseling designed to meet the professional, financial, academic, and social needs of such members; and
+
+&emsp;“(4) assessing how resources may be applied more effectively to meet the educational needs of such members.
+
+“(b)
+
+Cost.—Except as provided in this section, execution of an education partnership agreement with an educational institution shall be at no cost to the Government.
+
+“(c)
+
+Educational Institution Defined.—In this section, the term ‘educational institution’ means an accredited college, university, or technical school in the United States.”
+
 
 ---
 

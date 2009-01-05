@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(D) An unmarried person—
 
-&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placementagency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
+&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
@@ -80,7 +80,9 @@ In this chapter:
 
 &emsp;&emsp;(B) members of the patient's family are unwilling to provide the care.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440.)
+&emsp;(10) The term “health care” includes mental health care.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, §708(a), Jan. 28, 2008, 122 Stat. 190.)
 
 Historical and Revision Notes
 
@@ -111,6 +113,8 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2008—Par. (10). Pub. L. 110–181 added par. (10).
 
 2006—Par. (2)(I)(i). Pub. L. 109–163, §1057(a)(2), struck out “or a Territory” before “or possession”.
 
@@ -156,7 +160,7 @@ Par. (3). Pub. L. 98–557, §19(1)(B), added par. (3).
 
 Par. (1). Pub. L. 96–513, §511(35), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member atthe time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted “spouse” for “wife” in cl. (A), struck out cl. (C) “the husband, if he is in fact dependent on the member or former member for over one-half of his support;”, redesignated cls. (D), (E), and (F) as (C), (D), and (E), respectively, in cl. (C) as so redesignated, struck out “, if, because of mental or physical incapacity he was in fact dependent on the member or former member at the time of her death for over one-half of his support” after “the unremarried widower”, and in cl. (D)(iii) as so redesignated, substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
 1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in clause (1).
 
@@ -228,5 +232,5 @@ Section 731(e) of Pub. L. 101–189 provided that:
 
 #### Dependent; Qualification as; Effective Date
 
-Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of\(1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
+Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
 

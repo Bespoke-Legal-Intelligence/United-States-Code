@@ -2,7 +2,7 @@
 
 (a) No compensation shall be paid to the surviving spouse of a veteran under this chapter unless such surviving spouse was married to such veteran—
 
-&emsp;(1) before the expiration of fifteen years after the termination of the period of service in which the injury or disease causing the death of the veteran was incurred or aggravated; or
+&emsp;(1) before the expiration of fifteen years after the termination of the period of servicein which the injury or disease causing the death of the veteran was incurred or aggravated; or
 
 &emsp;(2) for one year or more; or
 

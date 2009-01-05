@@ -42,7 +42,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 &emsp;(A) any State law or regulation in effect in a State pursuant to subsection (f) of this section,
 
-&emsp;(B) the provisions of section 210, 211, or 212 of the Federal Power Act \[16 U.S.C. 824i, 824j, or824k\] or the necessary authorities for enforcement of any such provision under the Federal Power Act \[16 U.S.C. 791a et seq.\], or
+&emsp;(B) the provisions of section 210, 211, or 212 of the Federal Power Act \[16 U.S.C. 824i, 824j, or 824k\] or the necessary authorities for enforcement of any such provision under the Federal Power Act \[16 U.S.C. 791a et seq.\], or
 
 &emsp;(C) any license or permit requirement under part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] any provision under such Act related to such a license or permit requirement, or the necessary authorities for enforcement of any such requirement.
 
@@ -62,7 +62,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act \[16 U.S.C. 824 et seq.\], such rule shall be treated as a rule under the Federal Power Act \[16 U.S.C. 791a et seq.\]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
-(2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
+(2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of anysuch enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
 &emsp;(i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) of this section <sup>3</sup> or
 
@@ -80,7 +80,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (1) No substantial adverse effects
 
-&emsp;At the time of issuance of the license or exemption for the project, the Commission finds that the project will not have substantial adverse effects on the environment, including recreation and water quality. Such finding shall be made by the Commission after taking into consideration terms and conditions imposed under either paragraph (3) of this subsection or section 10 of the Federal Power Act \[16 U.S.C. 803\] (whichever is appropriate as required by that Act \[16 U.S.C. 791a et seq.\] or the Electric Consumers Protection Act of 1986)and compliance with other environmental requirements applicable to the project.
+&emsp;At the time of issuance of the license or exemption for the project, the Commission finds that the project will not have substantial adverse effects on the environment, including recreation and water quality. Such finding shall be made by the Commission after taking into consideration terms and conditions imposed under either paragraph (3) of this subsection or section 10 of the Federal Power Act \[16 U.S.C. 803\] (whichever is appropriate as required by that Act \[16 U.S.C. 791a et seq.\] or the Electric Consumers Protection Act of 1986) and compliance with other environmental requirements applicable to the project.
 
 #### (2) Protected rivers
 
@@ -110,7 +110,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 &emsp;&emsp;(A)(i) independently administered, auction-based day ahead and real time wholesale markets for the sale of electric energy; and (ii) wholesale markets for long-term sales of capacity and electric energy; or
 
-&emsp;&emsp;(B)(i) transmission and interconnection services that are provided by a Commission-approved regional transmission entity and administered pursuant to an open access transmission tariff that affords nondiscriminatory treatment to all customers; and (ii) competitive wholesale markets that provide a meaningful opportunity to sell capacity, including long-term and short-term sales, and electric energy, including long-term, short-term and real-time sales, to buyers other than the utility to which the qualifying facility is interconnected. In determining whether a meaningful opportunity to sell exists, the Commission shall consider, among other factors, evidence of transactions within the relevant market; or
+&emsp;&emsp;(B)(i) transmission and interconnection services that are provided by a Commission-approved regional transmission entity andadministered pursuant to an open access transmission tariff that affords nondiscriminatory treatment to all customers; and (ii) competitive wholesale markets that provide a meaningful opportunity to sell capacity, including long-term and short-term sales, and electric energy, including long-term, short-term and real-time sales, to buyers other than the utility to which the qualifying facility is interconnected. In determining whether a meaningful opportunity to sell exists, the Commission shall consider, among other factors, evidence of transactions within the relevant market; or
 
 &emsp;&emsp;(C) wholesale markets for the sale of capacity and electric energy that are, at a minimum, of comparable competitive quality as markets described in subparagraphs (A) and (B).
 
@@ -130,7 +130,7 @@ For purposes of this section, the terms “small power production facility”, �
 
 #### (4) Reinstatement of obligation to purchase
 
-&emsp;At any time after the Commission makes a finding under paragraph (3) relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation topurchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in subparagraphs (A), (B) or (C) of paragraph (1) which relieved the obligation to purchase, are no longer met.
+&emsp;At any time after the Commission makes a finding under paragraph (3) relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation to purchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in subparagraphs (A), (B) or (C) of paragraph (1) which relieved the obligation to purchase, are no longer met.
 
 #### (5) Obligation to sell
 
@@ -182,7 +182,7 @@ This Act, referred to in subsecs. (m)(6) and (n)(1)(B), is Pub. L. 95–617, Nov
 
 #### Codification
 
-Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of theFederal Power Act which generally comprises this chapter.
+Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
 
 August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsecs. (m) and (n) of this section, to reflect the probable intent of Congress.
 
@@ -212,7 +212,7 @@ Section 8(b) of Pub. L. 99–495 provided that:
 
 “(4)(A) Paragraph (3) of subsection (j) shall not apply for projects where the license or exemption application was filed after enactment of this Act \[Oct. 16, 1986\] if, based on a petition filed by the applicant for such project within 18 months after such enactment, the Commission determines (after public notice and opportunity for public comment of at least 45 days) that the applicant has demonstrated that he had committed (prior to the enactment of this Act) substantial monetary resources directly related to the development of the project and to the diligent and timely completion of all requirements of the Commission for filing an acceptable application for license or exemption. Such petition shall be publicly available and shall be filed in such form as the Commission shall require by rule issued within 120 days after the enactment of this Act. The public notice required under this subparagraph shall include written notice by the petitioner to affected Federal and State agencies.
 
-“(B) In the case of any petition referred to in subparagraph (A), if the applicant had a preliminary permit and had completed environmental consultations (required by Commission regulations and procedures in effect on January 1, 1986) prior to enactment, there shall be a rebuttable presumption that such applicant had committed substantial monetary resources prior to enactment.
+“(B) In the case of any petition referred to in subparagraph (A), if the applicant had a preliminary permit and had completed environmental consultations (required by Commission regulations and procedures in effect on January 1, 1986) prior to enactment, there shall be a rebuttable presumption that such applicanthad committed substantial monetary resources prior to enactment.
 
 “(C) The applicant for a license or exemption for a project described in subparagraph (A) may petition the Commission for an initial determination under paragraph (1) of section 210(j) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3(j)(1)\] prior to the time the license or exemption is issued. If the Commission initially finds that the project will have substantial adverse effects on the environment within the meaning of such paragraph (1), prior to making a final finding under that paragraph the Commission shall afford the applicant a reasonable opportunity to provide for mitigation of such adverse effects. The Commission shall make a final finding under such paragraph (1) at the time the license or exemption is issued. If the Federal Energy Regulatory Commission has notified the State of its initial finding and the State has not taken any action described in paragraph (2) of section 210(j) before such final finding, the failure to take such action shall be the basis for a rebuttable presumption that there is not a substantial adverse effect on the environment related to natural, recreational, cultural, or scenic attributes for purposes of such finding.
 
@@ -256,7 +256,7 @@ Section 8(d) of Pub. L. 99–495 provided that:
 
 Section 8(e) of Pub. L. 99–495 provided that: “Notwithstanding the amendments made by subsection (a) of this section \[amending section 824a–3 of this title\], in the case of a project for which a license or exemption is issued after the enactment of this Act \[Oct. 16, 1986\], section 210 of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3\] shall not apply during the moratorium period if the project utilizes a new dam or diversion (as defined in section 210(k) of such Act) unless the project is either—
 
-&emsp;“(1) a project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16 U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, or
+&emsp;“(1) a project located at a Government dam (as defined in section 3(10) of the Federal Power Act \[16U.S.C. 796(10)\]) at which non-Federal hydroelectric development is permissible, or
 
 &emsp;“(2) a project described in paragraphs (2), (3), or (4) of subsection (b) \[set out as a note above\].
 

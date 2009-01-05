@@ -1,6 +1,6 @@
 ### §982. Criminal forfeiture
 
-(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 1956, 1957, or 1960 of this title, shall order that the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property.
+(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 1956, 1957, or 1960 of this title, shall orderthat the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property.
 
 (2) The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate—
 
@@ -54,7 +54,7 @@
 
 (B) The court, in imposing sentence on a person described in subparagraph (A), shall order that the person forfeit to the United States all property described in that subparagraph.
 
-(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directlyor indirectly, from gross proceeds traceable to the commission of the offense.
+(7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
 
 (8) The court, in sentencing a defendant convicted of an offense under section 1028, 1029, 1341, 1342, 1343, or 1344, or of a conspiracy to commit such an offense, if the offense involves telemarketing (as that term is defined in section 2325), shall order that the defendant forfeit to the United States any real or personal property—
 
@@ -112,7 +112,7 @@ Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted “or (a)(6)” after �
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
 
-Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of aviolation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
+Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subs
 
 1988—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
-Subsec. (b). Pub. L. 100–690, §6464, substituted “(p)” for “(<i>o</i>)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
+Subsec. (b). Pub. L. 100–690, §6464, substituted “(p)” for “(<i>o</i>)” in two places and inserted at end “However, the substitution of assets provisions of subsection413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
 
 #### Effective Date of 2000 Amendment
 

@@ -14,15 +14,23 @@ The Secretary shall prescribe standards for the evaluation described in subsecti
 
 #### (c) Federal evaluation
 
-In order to evaluate and improve the impact of the activities assisted under this division, the Secretary shall, from not more than 0.75 percent of the funds appropriated under section 1070a–28 of this title for a fiscal year, award one or more grants, contracts, or cooperative agreements to or with public and private institutions and organizations, to enable the institutions and organizations to evaluate the effectiveness of the program and, as appropriate, disseminate the results of the evaluation.
+In order to evaluate and improve the impact of the activities assisted under this division, the Secretary shall, from not more than 0.75 percent of the funds appropriated under section 1070a–28 of this title for a fiscal year, award one or more grants, contracts, or cooperative agreements to or with public and private institutions and organizations, to enable the institutions and organizations to evaluate the effectiveness of the program and, as appropriate, disseminate the results of the evaluation. Such evaluation shall include a separate analysis of—
+
+&emsp;(1) the implementation of the scholarship component described in section 1070a–25 of this title; and
+
+&emsp;(2) the use of methods for complying with matching requirements described in paragraphs (1) and (2) of section 1070a–23(c) of this title.
 
 #### (d) Report
 
 The Secretary shall biennially report to Congress regarding the activities assisted under this division and the evaluations conducted pursuant to this section.
 
-(Pub. L. 89–329, title IV, §404G, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1662.)
+(Pub. L. 89–329, title IV, §404G, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1662; amended Pub. L. 110–315, title IV, §404(g), Aug. 14, 2008, 122 Stat. 3215.)
 
 #### Prior Provisions
 
 A prior section 1070a–27, Pub. L. 89–329, title IV, §404G, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 496; amended Pub. L. 103–208, §2(b)(23), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 103–382, title III, §354, Oct. 20, 1994, 108 Stat. 3967, authorized appropriations for grants under this division, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–28 of this title.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–315 inserted at end “Such evaluation shall include a separate analysis of—” and pars. (1) and (2).
 

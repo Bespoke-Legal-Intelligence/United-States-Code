@@ -2,11 +2,11 @@
 
 (a)
 
-Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.
+Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
 
 (b)
 
-Concurrence in Appointment.—(1) Before submitting a recommendation to the President regarding the appointment of an individual to a position referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director's concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.
+Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 403–6(b)).
 
 (2) Paragraph (1) applies to the following positions:
 
@@ -18,7 +18,7 @@ Concurrence in Appointment.—(1) Before submitting a recommendation to the Pres
 
 (c)
 
-Performance Evaluations.—(1) The Director of Central Intelligence shall provide annually to the Secretary of Defense, for the Secretary's consideration, an evaluation of the performance of the individuals holding the positions referred to in paragraph (2) in fulfilling their respective responsibilities with regard to the National Foreign Intelligence Program.
+Performance Evaluations.—(1) The Director of National Intelligence shall provide annually to the Secretary of Defense, for the Secretary's consideration, an evaluation of the performance of the individuals holding the positions referred to in paragraph (2) in fulfilling their respective responsibilities with regard to the National Intelligence Program.
 
 (2) The positions referred to in paragraph (1) are the following:
 
@@ -28,7 +28,7 @@ Performance Evaluations.—(1) The Director of Central Intelligence shall provid
 
 &emsp;(C) The Director of the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569.)
+(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576.)
 
 #### Prior Provisions
 
@@ -36,13 +36,19 @@ A prior section 201 was renumbered section 202 of this title and subsequently re
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–181, §931(a)(4), and Pub. L. 110–417, §932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (b)(1). Pub. L. 110–417, §932(a)(4), which directed amendment of par. (1) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the intervening amendment by Pub. L. 110–181, §931(c)(2)(A). See below.
+
+Pub. L. 110–181, §931(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to a position referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director's concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.”
+
+Subsec. (c)(1). Pub. L. 110–181, §931(c)(2)(B), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+
+Pub. L. 110–181, §931(a)(5), and Pub. L. 110–417, §932(a)(5), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2003—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Pub. L. 104–201 substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.”
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1996 Amendment
 

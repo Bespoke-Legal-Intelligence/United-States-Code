@@ -32,6 +32,7 @@
 | [<b>535.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20535%20-%20Capital%20Construction%20Funds/README.md) | <b>Capital Construction Funds</b> | <b>53501</b> |
 | [<b>537.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20537%20-%20Loans%20and%20Guarantees/README.md) | <b>Loans and Guarantees</b> | <b>53701</b> |
 | [<b>539.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20539%20-%20War%20Risk%20Insurance/README.md) | <b>War Risk Insurance</b> | <b>53901</b> |
+| [<b>541.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20541%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>54101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
 
 2007—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 

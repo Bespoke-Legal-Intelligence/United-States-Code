@@ -48,7 +48,7 @@ The President is not required to provide import relief under this section if the
 
 &emsp;&emsp;(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
-&emsp;&emsp;(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action under subsection (a) is to terminate, unless the President specifies a different date.
+&emsp;&emsp;(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action undersubsection (a) is to terminate, unless the President specifies a different date.
 
 #### (e) Rate after termination of import relief
 

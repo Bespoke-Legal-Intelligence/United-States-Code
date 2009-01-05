@@ -24,7 +24,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (D) Certain expenses of elementary and secondary school teachers
 
-&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, or 2007, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, 2005, 2006, 2007, 2008, or2009, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
@@ -102,7 +102,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (21) Attorneys fees relating to awards to whistleblowers
 
-&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
+&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or onbehalf of, the taxpayer in connection with any award under section 7623(b) (relating to awards to whistleblowers). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
 
 > Nothing in this section shall permit the same item to be deducted more than once.
 
@@ -214,7 +214,7 @@ For purposes of subsection (a)(20), the term “unlawful discrimination” means
 
 &emsp;&emsp;(ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864.)
 
 #### Amendment of Section
 
@@ -235,6 +235,8 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(D). Pub. L. 110–343 substituted “2007, 2008, or 2009” for “or 2007”.
 
 2006—Subsec. (a)(2)(D). Pub. L. 109–432, §108(a), substituted “2005, 2006, or 2007” for “or 2005”.
 
@@ -342,6 +344,10 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 1962—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
@@ -358,7 +364,7 @@ Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: “The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003.”
 
-Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
+Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section \[amending this section and section 162 of thistitle\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
 
 #### Effective Date of 2002 Amendment
 

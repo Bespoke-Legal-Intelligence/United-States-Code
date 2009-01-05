@@ -2,7 +2,7 @@
 
 #### (a) Authorization to President to furnish assistance; appropriations
 
-(1) In recognition of the fact that the great majority of the people of developing countries live in rural areas and are dependent on agriculture and agricultural-related pursuits fortheir livelihood, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for agriculture, rural development, and nutrition—
+(1) In recognition of the fact that the great majority of the people of developing countries live in rural areas and are dependent on agriculture and agricultural-related pursuits for their livelihood, the President is authorized to furnish assistance, on such terms and conditions as he may determine, for agriculture, rural development, and nutrition—
 
 &emsp;(A) to alleviate starvation, hunger, and malnutrition;
 
@@ -36,11 +36,11 @@ Assistance provided under this section shall also be used in coordination with p
 
 #### (e) Use of local currency proceeds from sales of commodities
 
-Local currency proceeds from sales of commodities provided under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] which are owned by foreign governments shall be used whenever practicable to carry out the provisions of this section.
+Local currency proceeds from sales of commodities provided under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] which are owned by foreign governments shall be used whenever practicable to carry out the provisions of this section.
 
 #### (f) National food security policies and programs; bilateral and multilateral assistance
 
-The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
+The Congress finds that the efforts of developing countries to enhance their national food security deserves encouragement as a matter of United States development assistance policy. Measures complementary to assistance for expanding food production in developing countries are needed to help assure that food becomes increasingly available on a regular basis to the poor in such countries. Therefore, United States bilateral assistance under this chapter and the Food for Peace Act \[7 U.S.C. 1691 et seq.\], and United States participation in multilateral institutions, shall emphasize policies and programs which assist developing countries to increase their national food security by improving their food policies and management and by strengthening national food reserves, with particular concern for the needs of the poor, through measures encouraging domestic production, building national food reserves, expanding available storage facilities, reducing postharvest food losses, and improving food distribution.
 
 #### (g) International Fund for Agricultural Development; participation and contributions; availability of appropriations
 
@@ -48,21 +48,23 @@ The Congress finds that the efforts of developing countries to enhance their nat
 
 (2) Of the aggregate amount authorized to be appropriated to carry out subchapter I of this chapter, up to $50,000,000 for fiscal year 1986 and up to $50,000,000 for fiscal year 1987 may be made available, by appropriation or by transfer, for United States contributions to the second replenishment of the International Fund for Agricultural Development.
 
-(Pub. L. 87–195, pt. I, §103, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §2, Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §302, Dec. 20, 1975, 89 Stat. 856; Pub. L. 95–88, title I, §102, Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §103(a), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §101, Aug. 14, 1979, 93 Stat. 359; Pub. L. 96–533, title III, §301, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §301(a), (c), Dec. 29, 1981, 95 Stat. 1531, 1532; Pub. L. 99–83, title III, §302, title X, §1001, Aug. 8, 1985, 99 Stat. 214, 270; Pub. L. 99–399, title XIII, §1304, Aug. 27, 1986, 100 Stat. 898.)
+(Pub. L. 87–195, pt. I, §103, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §2, Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §302, Dec. 20, 1975, 89 Stat. 856; Pub. L. 95–88, title I, §102, Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §103(a), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §101, Aug. 14, 1979, 93 Stat. 359; Pub. L. 96–533, title III, §301, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §301(a), (c), Dec. 29, 1981, 95 Stat. 1531, 1532; Pub. L. 99–83, title III, §302, title X, §1001, Aug. 8, 1985, 99 Stat. 214, 270; Pub. L. 99–399, title XIII, §1304, Aug. 27, 1986, 100 Stat. 898; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 Section 316 of the International Security and Development Cooperation Act of 1980, referred to in subsec. (a)(2), is section 316 of Pub. L. 96–533, title III, Dec. 16, 1980, 94 Stat. 3149, set out as a note below.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsecs. (e) and (f), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
 References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
+
+2008—Subsecs. (e), (f). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 1986—Subsec. (a)(3). Pub. L. 99–399 added par. (3).
 
@@ -95,6 +97,10 @@ Subsecs. (c) to (g). Pub. L. 94–161, §302(2), added subsecs. (c) to (g).
 1974—Subsec. (a). Pub. L. 93–559, §2(1), (2), designated existing provisions as subsec. (a) and increased appropriations authorization for fiscal year 1975 to $500,000,000 from $291,000,000.
 
 Subsec. (b). Pub. L. 93–559, §2(3), added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1985 Amendment
 

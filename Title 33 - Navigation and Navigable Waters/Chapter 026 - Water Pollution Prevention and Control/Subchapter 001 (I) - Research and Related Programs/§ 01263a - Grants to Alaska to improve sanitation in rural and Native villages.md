@@ -18,7 +18,7 @@ The State of Alaska may use an amount not to exceed 4 percent of any grant made 
 
 #### (d) Consultation with State of Alaska
 
-The Administrator shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
+The Administrator shall consult with the State of Alaska on a method of prioritizing theallocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
 
 #### (e) Authorization of appropriations
 
@@ -32,7 +32,7 @@ Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, a
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–457 substituted “to carry out this section $40,000,000 for each of fiscal years2001 through 2005” for “$15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section”.
+2000—Subsec. (e). Pub. L. 106–457 substituted “to carry out this section $40,000,000 for each of fiscal years 2001 through 2005” for “$15,000,000 for each of the fiscal years 1997 through 2000 to carry out this section”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -22,7 +22,7 @@ The powers conferred by this chapter shall be exercised by the Secretary of Hous
 
 1951—Act Sept. 1, 1951, inserted references to subchapter X of this chapter.
 
-1950—Act Apr. 20, 1950, made technical amendments to section to reflect change in title of Administrator toCommissioner and to omit provisions relating to tenure and compensation of Commissioner.
+1950—Act Apr. 20, 1950, made technical amendments to section to reflect change in title of Administrator to Commissioner and to omit provisions relating to tenure and compensation of Commissioner.
 
 1949—Joint Res. Oct. 25, 1949, inserted proviso at end of fourth sentence.
 

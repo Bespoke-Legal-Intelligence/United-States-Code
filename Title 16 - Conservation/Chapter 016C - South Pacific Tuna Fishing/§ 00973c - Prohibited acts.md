@@ -18,7 +18,7 @@
 
 &emsp;(8) to refuse to permit any Authorized Officer or Authorized Party Officer to board a fishing vessel for purposes of conducting a search or inspection in connection with the enforcement of this chapter or the Treaty;
 
-&emsp;(9) to refuse to comply with the instructions of an Authorized Officer or Authorized PartyOfficer relating to fishing activities under the Treaty;
+&emsp;(9) to refuse to comply with the instructions of an Authorized Officer or Authorized Party Officer relating to fishing activities under the Treaty;
 
 &emsp;(10) to forcibly assault, resist, oppose, impede, intimidate, or interfere with—
 

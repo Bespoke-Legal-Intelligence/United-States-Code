@@ -44,7 +44,7 @@ Publication of the summary plan descriptions and annual reports shall be made to
 
 (2) The administrator shall make copies of the latest updated summary plan description and the latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in such other places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribe by regulations).
 
-(3) Within 210 days after the close of the fiscal year of the plan, the administrator (other than an administrator of a defined benefit plan to which the requirements of section 1023(f) of this title applies) <sup>1</sup> shall furnish to each participant, and to each beneficiary receiving benefits under the plan, a copy of the statements and schedules, for such fiscal year, described in subparagraphs (A) and (B) of section 1023(b)(3) of this title and such other material (including the percentage determined under section 1023(d)(11) of this title) as is necessary to fairly summarize the latest annual report.
+(3) Within 210 days after the close of the fiscal year of the plan, the administrator (other than an administrator of a defined benefit plan to which the requirements of section 1021(f) of this title applies) <sup>1</sup> shall furnish to each participant, and to each beneficiary receiving benefits under the plan, a copy of the statements and schedules, for such fiscal year, described in subparagraphs (A) and (B) of section 1023(b)(3) of this title and such other material (including the percentage determined under section 1023(d)(11) of this title) as is necessary to fairly summarize the latest annual report.
 
 (4) The administrator shall, upon written request of any participant or beneficiary, furnish a copy of the latest updated summary,<sup>2</sup> plan description, and the latest annual report, any terminal report, the bargaining agreement, trust agreement, contract, or other instruments under which the plan is established or operated. The administrator may make a reasonable charge to cover the cost of furnishing such complete copies. The Secretary may by regulation prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
@@ -72,7 +72,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;&emsp;(i) a list of the actions taken by the plan to improve its funding status; and
 
-&emsp;&emsp;&emsp;(ii) a statement describing how a person may obtain a copy of the plan's improvement or rehabilitation plan, as applicable, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement;
+&emsp;&emsp;&emsp;(ii) a statement describing how a person may obtain a copy of the plan's funding improvement or rehabilitation plan, as applicable, adopted under section 1085 of this title and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement;
 
 &emsp;&emsp;(F) the number of employers that withdrew from the plan during the preceding plan year and the aggregate amount of withdrawal liability assessed, or estimated to be assessed, against such withdrawn employers, as reported on the annual report for the plan year to which the report under this subsection relates;
 
@@ -98,9 +98,15 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;<b>For regulations respecting coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 109–280, title V, §§503(c)(1), (d), 504(a), Aug. 17, 2006, 120 Stat. 943–945.)
+(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 109–280, title V, §§503(c)(1), (d), 504(a), Aug. 17, 2006, 120 Stat. 943–945; Pub. L. 110–458, title I, §105(c)(1), Dec. 23, 2008, 122 Stat. 5105.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–458, §105(c)(1)(A)(ii), which directed substitution of “the administrator” for “the administrators” in par. (3), could not be executed because the words “the administrators” did not appear.
+
+Pub. L. 110–458, §105(c)(1)(A)(i), substituted “section 1021(f)” for “section 1023(f)”.
+
+Subsec. (d)(1)(E)(ii). Pub. L. 110–458, §105(c)(1)(B), inserted “funding” after “plan's”.
 
 2006—Pub. L. 109–280, §503(d)(1), substituted “participants and certain employers” for “participants” in section catchline.
 
@@ -132,6 +138,10 @@ Subsec. (b)(1). Pub. L. 101–239, §7894(b)(4), struck out comma after “summa
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–272 struck out provision permitting the Secretary to waive or modify the requirements of section 1023(d)(6) of this title if he found that the interests of the plan participants were not harmed and the expense of compliance was not justified by the needs of the participants, the Pension Benefit Guaranty Corporation, and the Department of Labor for some portion or all of the information otherwise required under section 1023(d)(6) of this title.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 503(c)(1), (d) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 503(f) of Pub. L. 109–280, set out as a note under section 1021 of this title.
@@ -160,7 +170,11 @@ Amendment by Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, s
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “apply”.</i>
+#### Model Notices and Forms
+
+For provisions requiring the Secretary of Labor to publish a model form for providing the statements, schedules, and other material required to be provided under subsec. (d) of this section, see section 503(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “apply)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Comma probably should not appear.</i>
 

@@ -184,7 +184,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) The taxable estate of the transferor in the case of a taxable event described in paragraph (3)(A)(i).
 
-&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable event occurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
+&emsp;&emsp;(B) The taxable gifts of the transferor for the calendar year in which the taxable eventoccurs in the case of a taxable event described in paragraph (3)(A)(ii) or (iii).
 
 #### (2) Amount of increase
 

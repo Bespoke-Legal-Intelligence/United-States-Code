@@ -4,7 +4,7 @@
 
 Whenever the Secretary of Agriculture has reason to believe that:
 
-&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of suchcommodity during the current or next succeeding marketing year is normally marketed, and
+&emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
 
@@ -14,7 +14,7 @@ Whenever the Secretary of Agriculture has reason to believe that:
 
 Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,
 
-&emsp;(a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, will tend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
+&emsp;(a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, willtend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
 
 &emsp;(b) For rental or benefit payments in connection with such agreements or methods in such amounts as he finds, upon the basis of such investigation, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter, and to make such program practicable to operate and administer, to be paid out of any moneys available for such payments or, subject to the consent of the producer, to be made in quantities of one or more basic agricultural commodities acquired by the Secretary pursuant to this chapter.
 
@@ -56,7 +56,7 @@ In the case of rice, the Secretary of Agriculture, in exercising the power confe
 
 #### (9) Advances of payments on stored nonperishable commodity
 
-Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made from the amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
+Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made fromthe amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
 
 (May 12, 1933, ch. 25, title I, §8, 48 Stat. 34; Apr. 7, 1934, ch. 103, §7, 48 Stat. 528; May 9, 1934, ch. 263, §14, 48 Stat. 676; Mar. 18, 1935, ch. 32, §7, 49 Stat. 46; Aug. 24, 1935, ch. 641, §§2, 4–7, 49 Stat. 751, 753–762.)
 

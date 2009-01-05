@@ -2,17 +2,21 @@
 
 (a)
 
-National Guard Bureau.—There is in the Department of Defense the National Guard Bureau, which is a joint bureau of the Department of the Army and the Department of the Air Force.
+National Guard Bureau.—There is in the Department of Defense the National Guard Bureau, which is a joint activity of the Department of Defense.
 
 (b)
 
 Purposes.—The National Guard Bureau is the channel of communications on all matters pertaining to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States between (1) the Department of the Army and Department of the Air Force, and (2) the several States.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824;Pub. L. 110–181, div. A, title XVIII, §1812(a), Jan. 28, 2008, 122 Stat. 497.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3040(a) of this title, prior to repeal by Pub. L. 103–337, §904(b)(1).
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 substituted “joint activity of the Department of Defense” for “joint bureau of the Department of the Army and the Department of the Air Force”.
 
 #### Effective Date
 

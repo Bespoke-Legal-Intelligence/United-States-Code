@@ -12,9 +12,9 @@ For each intelligence component of the Department, the Secretary shall designate
 
 #### (1) Establishment of business processes
 
-&emsp;The Secretary, acting through the Under Secretary for Intelligence and Analysis or the Assistant Secretary for Infrastructure Protection, as appropriate, shall—
+&emsp;The Secretary, acting through the Under Secretary for Intelligence and Analysis or theAssistant Secretary for Infrastructure Protection, as appropriate, shall—
 
-&emsp;&emsp;(A) establish Department-wide procedures for the review and analysis of informationprovided by State, local, and tribal governments and the private sector;
+&emsp;&emsp;(A) establish Department-wide procedures for the review and analysis of information provided by State, local, and tribal governments and the private sector;
 
 &emsp;&emsp;(B) as appropriate, integrate such information into the information gathered by the Department and other departments and agencies of the Federal Government; and
 

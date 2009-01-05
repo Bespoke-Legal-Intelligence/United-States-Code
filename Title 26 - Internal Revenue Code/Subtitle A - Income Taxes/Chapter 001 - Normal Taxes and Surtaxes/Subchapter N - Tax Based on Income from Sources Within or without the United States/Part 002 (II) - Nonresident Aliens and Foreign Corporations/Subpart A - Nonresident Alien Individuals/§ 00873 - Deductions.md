@@ -54,7 +54,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–580 applicable to taxable years beginning after Dec. 31, 1971, see section 1(c) ofPub. L. 92–580, set out as a note under section 152 of this title.
+Amendment by Pub. L. 92–580 applicable to taxable years beginning after Dec. 31, 1971, see section 1(c) of Pub. L. 92–580, set out as a note under section 152 of this title.
 
 #### Effective Date of 1966 Amendment
 

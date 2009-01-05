@@ -108,7 +108,7 @@ Appointment of initial commissioner of social security.—The President shall no
 
 &emsp;“(2)
 
-Assumption of office of initial commissioner before effective date of new agency.—If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social Security Act \[section 902 of this title\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
+Assumption of office of initial commissioner before effective date of new agency.—If the appointment of the initial Commissioner of Social Security pursuant to section 702 of the Social SecurityAct \[section 902 of this title\] (as amended by this Act) is confirmed by the Senate pursuant to such section 702 before March 31, 1995, the individual shall take office as Commissioner immediately upon confirmation, and, until March 31, 1995, such Commissioner shall perform the functions of the Commissioner of Social Security in the Department of Health and Human Services.
 
 &emsp;“(3)
 
@@ -136,7 +136,7 @@ Abolishment of office of commissioner of social security in the department of he
 
 “(b)
 
-Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, determinations,rules, regulations, permits, contracts, collective bargaining agreements (and ongoing negotiations relating to such collective bargaining agreements), recognitions of labor organizations, certificates, licenses, and privileges—
+Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, determinations, rules, regulations, permits, contracts, collective bargaining agreements (and ongoing negotiations relating to such collective bargaining agreements), recognitions of labor organizations, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, promulgated, granted, or allowed to become effective, in the exercise of functions (A) which were exercised by the Secretary of Health and Human Services (or the Secretary's delegate), and (B) which relate to functions which, by reason of this title, the amendments made thereby, and regulations prescribed thereunder, are vested in the Commissioner of Social Security; and
 
@@ -156,7 +156,7 @@ Continuation of Suits.—Except as provided in this subsection—
 
 &emsp;“(2) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this title had not been enacted.
 
-> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in such officer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that of a party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
+> No cause of action, and no suit, action, or other proceeding commenced by or against any officer in such officer's official capacity as an officer of the Department of Health and Human Services, shall abate by reason of the enactment of this title. In any suit, action, or other proceeding pending immediately before March 31, 1995, the court or hearing officer may at any time, on the motion of the court or hearing officer or that ofa party, enter an order which will give effect to the provisions of this subsection (including, where appropriate, an order for substitution of parties).
 
 “(e)
 

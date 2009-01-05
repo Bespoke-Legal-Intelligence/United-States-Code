@@ -62,7 +62,7 @@ The definition of “Secretary” is omitted for consistency in the chapter.
 
 #### Prior Provisions
 
-A prior section 12121, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65v(2) of former Title 46, Shipping, related to the authority of the Secretary to prescribe regulations to carry out thischapter, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
+A prior section 12121, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65v(2) of former Title 46, Shipping, related to the authority of the Secretary to prescribe regulations to carry out this chapter, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
 
 A prior section 12122, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446; Pub. L. 104–324, title III, §301(a), (b), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 105–277, div. C, title II, §203(f), Oct. 21, 1998, 112 Stat. 2681–620; Pub. L. 106–31, title III, §3027(b), May 21, 1999, 113 Stat. 101; Pub. L. 108–293, title IV, §404(b), Aug. 9, 2004, 118 Stat. 1043, originally derived from sections 65n and 65u(a) of former Title 46, Shipping, related to penalties, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12151 of this title.
 

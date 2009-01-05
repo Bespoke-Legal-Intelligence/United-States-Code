@@ -22,7 +22,7 @@ A taxpayer may elect to treat 50 percent of the cost of any qualified refinery p
 
 &emsp;&emsp;(A) the original use of which commences with the taxpayer,
 
-&emsp;&emsp;(B) which is placed in service by the taxpayer after the date of the enactment of this section and before January 1, 2012,
+&emsp;&emsp;(B) which is placed in service by the taxpayer after the date of the enactment of this section and before January 1, 2014,
 
 &emsp;&emsp;(C) in the case any portion of a qualified refinery (other than a qualified refinery which is separate from any existing refinery), which meets the requirements of subsection (e),
 
@@ -30,11 +30,11 @@ A taxpayer may elect to treat 50 percent of the cost of any qualified refinery p
 
 &emsp;&emsp;(E) no written binding contract for the construction of which was in effect on or before June 14, 2005, and
 
-&emsp;&emsp;(F)(i) the construction of which is subject to a written binding construction contract entered into before January 1, 2008,
+&emsp;&emsp;(F)(i) the construction of which is subject to a written binding construction contract entered into before January 1, 2010,
 
-&emsp;&emsp;(ii) which is placed in service before January 1, 2008, or
+&emsp;&emsp;(ii) which is placed in service before January 1, 2010, or
 
-&emsp;&emsp;(iii) in the case of self-constructed property, the construction of which began after June 14, 2005, and before January 1, 2008.
+&emsp;&emsp;(iii) in the case of self-constructed property, the construction of which began after June 14, 2005, and before January 1, 2010.
 
 #### (2) Special rule for sale-leasebacks
 
@@ -52,7 +52,7 @@ A taxpayer may elect to treat 50 percent of the cost of any qualified refinery p
 
 #### (d) Qualified refinery
 
-For purposes of this section, the term “qualified refinery” means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)).
+For purposes of this section, the term “qualified refinery” means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
 
 #### (e) Production capacity
 
@@ -60,7 +60,7 @@ The requirements of this subsection are met if the portion of the qualified refi
 
 &emsp;(1) enables the existing qualified refinery to increase total volume output (determined without regard to asphalt or lube oil) by 5 percent or more on an average daily basis, or
 
-&emsp;(2) enables the existing qualified refinery to process qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the total throughput of such qualified refinery on an average daily basis.
+&emsp;(2) enables the existing qualified refinery to process shale, tar sands, or qualified fuels (as defined in section 45K(c)) at a rate which is equal to or greater than 25 percent of the total throughput of such qualified refinery on an average daily basis.
 
 #### (f) Ineligible refinery property
 
@@ -94,7 +94,7 @@ No deduction shall be allowed under subsection (a) for any qualified refinery pr
 
 No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the refineries of the taxpayer as the Secretary shall require.
 
-(Added Pub. L. 109–58, title XIII, §1323(a), Aug. 8, 2005, 119 Stat. 1013.)
+(Added Pub. L. 109–58, title XIII, §1323(a), Aug. 8, 2005, 119 Stat. 1013; amended Pub. L. 110–343, div. B, title II, §209(a), (b), Oct. 3, 2008, 122 Stat. 3840.)
 
 #### References in Text
 
@@ -102,7 +102,21 @@ The date of the enactment of this section, referred to in subsec. (c)(1)(B), (2)
 
 The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
+#### Amendments
+
+2008—Subsec. (c)(1)(B). Pub. L. 110–343, §209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
+
+Subsec. (c)(1)(F). Pub. L. 110–343, §209(a)(2), substituted “January 1, 2010” for “January 1, 2008” wherever appearing.
+
+Subsec. (d). Pub. L. 110–343, §209(b)(1), inserted “, or directly from shale or tar sands” after “(as defined in section 45K(c))”.
+
+Subsec. (e)(2). Pub. L. 110–343, §209(b)(2), inserted “shale, tar sands, or” before “qualified fuels”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title II, §209(c), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\].”
+
 #### Effective Date
 
-Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendments made bythis section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to properties placed in service after the date of the enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendments made by this section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to properties placed in service after the date of the enactment of this Act \[Aug. 8, 2005\].”
 

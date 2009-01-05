@@ -32,7 +32,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;(8) In the case of decedents dying after December 31, 1950, and before January 1, 1954, property which represents the survivor's interest in a joint and survivor's annuity if the value of any part of such interest was required to be included in determining the value of decedent's gross estate under section 811 of the Internal Revenue Code of 1939;
 
-&emsp;(9) In the case of decedents dying after December 31, 1953, property acquired from the decedent by reason of death, form of ownership, or other conditions (including property acquired through the exercise or non-exercise of a power of appointment), if by reason thereofthe property is required to be included in determining the value of the decedent's gross estate under chapter 11 of subtitle B or under the Internal Revenue Code of 1939. In such case, if the property is acquired before the death of the decedent, the basis shall be the amount determined under subsection (a) reduced by the amount allowed to the taxpayer as deductions in computing taxable income under this subtitle or prior income tax laws for exhaustion, wear and tear, obsolescence, amortization, and depletion on such property before the death of the decedent. Such basis shall be applicable to the property commencing on the death of the decedent. This paragraph shall not apply to—
+&emsp;(9) In the case of decedents dying after December 31, 1953, property acquired from the decedent by reason of death, form of ownership, or other conditions (including property acquired through the exercise or non-exercise of a power of appointment), if by reason thereof the property is required to be included in determining the value of the decedent's gross estate under chapter 11 of subtitle B or under the Internal Revenue Code of 1939. In such case, if the property is acquired before the death of the decedent, the basis shall be the amount determined under subsection (a) reduced by the amount allowed to the taxpayer as deductions in computing taxable income under this subtitle or prior income tax laws for exhaustion, wear and tear, obsolescence, amortization, and depletion on such property before the death of the decedent. Such basis shall be applicable to the property commencing on the death of the decedent. This paragraph shall not apply to—
 
 &emsp;&emsp;(A) annuities described in section 72;
 
@@ -86,13 +86,13 @@ This section shall not apply with respect to decedents dying after December 31, 
 
 #### References in Text
 
-Section 811 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (b)(6), (8), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Section 811 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (b)(6), (8), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Chapter 3 of the Internal Revenue Code of 1939, referred to in subsec. (b)(7), was comprised of sections 800 to 951 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(a)(2)(A) of this title for applicability of chapter 3 of former title 26. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Revenue Act of 1948, referred to in subsec. (b)(7), is act Apr. 2, 1948, ch. 168, 62 Stat. 110. For complete classification of this Act to the Code, see Tables.
 
-The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, asamended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 85–320 applicable with respect to taxable years ending af
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(1), cited as a credit to this section, and the amendment made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(1). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(1), cited as a credit to this section, and the amendment made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resultingin the text of this section reading as it read prior to enactment of section 2005(a)(1). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Election of Carryover Basis Rules by Certain Estates
 

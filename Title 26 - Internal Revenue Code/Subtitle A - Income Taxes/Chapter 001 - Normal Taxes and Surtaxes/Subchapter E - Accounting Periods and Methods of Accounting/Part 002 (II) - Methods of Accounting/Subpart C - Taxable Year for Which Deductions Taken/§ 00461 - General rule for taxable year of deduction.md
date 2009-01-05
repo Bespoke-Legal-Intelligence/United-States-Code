@@ -196,9 +196,107 @@ If—
 
 &emsp;For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638.)
+#### (j) Limitation on excess farm losses of certain taxpayers
+
+#### (1) Limitation
+
+&emsp;If a taxpayer other than a C corporation receives any applicable subsidy for any taxable year, any excess farm loss of the taxpayer for the taxable year shall not be allowed.
+
+#### (2) Disallowed loss carried to next taxable year
+
+&emsp;Any loss which is disallowed under paragraph (1) shall be treated as a deduction of the taxpayer attributable to farming businesses in the next taxable year.
+
+#### (3) Applicable subsidy
+
+&emsp;For purposes of this subsection, the term “applicable subsidy” means—
+
+&emsp;&emsp;(A) any direct or counter-cyclical payment under title I of the Food, Conservation, and Energy Act of 2008, or any payment elected to be received in lieu of any such payment, or
+
+&emsp;&emsp;(B) any Commodity Credit Corporation loan.
+
+#### (4) Excess farm loss
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “excess farm loss” means the excess of—
+
+&emsp;&emsp;&emsp;(i) the aggregate deductions of the taxpayer for the taxable year which are attributable to farming businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+
+&emsp;&emsp;&emsp;(ii) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate gross income or gain of such taxpayer for the taxable year which is attributable to such farming businesses, plus
+
+&emsp;&emsp;&emsp;&emsp;(II) the threshold amount for the taxable year.
+
+#### (B) Threshold amount
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “threshold amount” means, with respect to any taxable year, the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) $300,000 ($150,000 in the case of married individuals filing separately), or
+
+&emsp;&emsp;&emsp;&emsp;(II) the excess (if any) of the aggregate amounts described in subparagraph (A)(ii)(I) for the 5-consecutive taxable year period preceding the taxable year over the aggregate amounts described in subparagraph (A)(i) for such period.
+
+#### (ii) Special rules for determining aggregate amounts
+
+&emsp;&emsp;&emsp;For purposes of clause (i)(II)—
+
+&emsp;&emsp;&emsp;&emsp;(I) notwithstanding the disregard in subparagraph (A)(i) of any disallowance under paragraph (1), in the case of any loss which is carried forward under paragraph (2) from any taxable year, such loss (or any portion thereof) shall be taken into account for the first taxable year in which a deduction for such loss (or portion) is not disallowed by reason of this subsection, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary shall prescribe rules for the computation of the aggregate amounts described in such clause in cases where the filing status of the taxpayer is not the same for the taxable year and each of the taxable years in the period described in such clause.
+
+#### (C) Farming business
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “farming business” has the meaning given such term in section 263A(e)(4).
+
+#### (ii) Certain trades and businesses included
+
+&emsp;&emsp;&emsp;If, without regard to this clause, a taxpayer is engaged in a farming business with respect to any agricultural or horticultural commodity—
+
+&emsp;&emsp;&emsp;&emsp;(I) the term “farming business” shall include any trade or business of the taxpayer of the processing of such commodity (without regard to whether the processing is incidental to the growing, raising, or harvesting of such commodity), and
+
+&emsp;&emsp;&emsp;&emsp;(II) if the taxpayer is a member of a cooperative to which subchapter T applies, any trade or business of the cooperative described in subclause (I) shall be treated as the trade or business of the taxpayer.
+
+#### (D) Certain losses disregarded
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), there shall not be taken into account any deduction for any loss arising by reason of fire, storm, or other casualty, or by reason of disease or drought, involving any farming business.
+
+#### (5) Application of subsection in case of partnerships and S corporations
+
+&emsp;In the case of a partnership or S corporation—
+
+&emsp;&emsp;(A) this subsection shall be applied at the partner or shareholder level, and
+
+&emsp;&emsp;(B) each partner's or shareholder's proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporation during the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
+
+> &emsp;The Secretary may provide rules for the application of this paragraph to any other pass-thru entity to the extent necessary to carry out the provisions of this subsection.
+
+#### (6) Additional reporting
+
+&emsp;The Secretary may prescribe such additional reporting requirements as the Secretary determines appropriate to carry out the purposes of this subsection.
+
+#### (7) Coordination with section 469
+
+&emsp;This subsection shall be applied before the application of section 469.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285.)
+
+#### References in Text
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (j)(3)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j).
 
 2005—Subsec. (i)(3)(C). Pub. L. 109–135 substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
 
@@ -266,9 +364,17 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 
 1960—Subsec. (d). Pub. L. 86–781 added subsec. (d).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XV, §15351(b), May 22, 2008, 122 Stat. 1525, and Pub. L. 110–246, §4(a), title XV, §15351(b), June 18, 2008, 122 Stat. 1664, 2287, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
 #### Effective Date of 1989 Amendment
 
-Section 7721(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Section 7721(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -300,7 +406,7 @@ Effective Dates.—
 
 In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
-&emsp;&emsp;“(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments)applies, the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;&emsp;“(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;&emsp;“(B) in the case of amounts to which section 461(i) of such Code (as so added) applies, after March 31, 1984.
 
@@ -388,7 +494,7 @@ In general.—In the case of any taxpayer—
 
 &emsp;&emsp;“(B) who elects the application of section 463 of such Code for the first taxable year ending after the date of the enactment of this Act,
 
-> &emsp;then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to any vested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
+> &emsp;then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to anyvested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
 
 &emsp;“(2)
 
@@ -426,7 +532,7 @@ Section 6(b) of Pub. L. 86–781 provided that: “The amendment made by subsect
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Certain Amounts
 

@@ -10,7 +10,7 @@ Departments, agencies, independent commissions, and other units of the Federal G
 
 #### (c) Availability of restorative, etc., information
 
-The Department of Agriculture may make available to States, units of local government, individuals, organizations, and other units of the Federal Government information useful inrestoring, maintaining, and improving the quantity and quality of farmland.
+The Department of Agriculture may make available to States, units of local government, individuals, organizations, and other units of the Federal Government information useful in restoring, maintaining, and improving the quantity and quality of farmland.
 
 (Pub. L. 97–98, title XV, §1541, Dec. 22, 1981, 95 Stat. 1342; Pub. L. 101–624, title XIV, §1454, Nov. 28, 1990, 104 Stat. 3614.)
 

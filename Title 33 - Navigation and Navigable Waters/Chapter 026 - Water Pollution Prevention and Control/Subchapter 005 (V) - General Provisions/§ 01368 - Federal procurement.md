@@ -2,7 +2,7 @@
 
 #### (a) Contracts with violators prohibited
 
-No Federal agency may enter into any contract with any person, who has been convicted of any offense under section 1319(c) of this title, for the procurement of goods, materials, and services if such contract is to be performed at any facility at which the violation which gave rise to such conviction occurred, and if such facility is owned, leased, or supervised by such person. The prohibition in the preceding sentence shall continue until the Administrator certifies that the condition giving rise to such conviction has been corrected.
+No Federal agency may enter into any contract with any person, who has been convicted of any offense under section 1319(c) of this title, for the procurement of goods, materials, and services if such contract is to be performed at any facility at which the violation which gave rise to such conviction occurred, and if such facility is owned, leased, or supervised by such person. The prohibition in the preceding sentence shallcontinue until the Administrator certifies that the condition giving rise to such conviction has been corrected.
 
 #### (b) Notification of agencies
 
@@ -16,7 +16,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 #### (e) Annual report to Congress
 
-The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including,but not limited to, the progress and problems associated with such compliance.
+The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including, but not limited to, the progress and problems associated with such compliance.
 
 #### (f) Contractor certification or contract clause in acquisition of commercial items
 

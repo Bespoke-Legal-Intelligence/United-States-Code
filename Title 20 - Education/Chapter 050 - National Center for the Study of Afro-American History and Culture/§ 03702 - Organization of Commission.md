@@ -14,7 +14,7 @@ The Commission shall be composed of fifteen members as follows:
 
 &emsp;(5) The presidents of Wilberforce University and Central State University in Ohio.
 
-&emsp;(6) Nine members appointed by the President, who are especially qualified to serve onthe Commission by reason of their background and experience. No more than two members appointed under this paragraph shall be from any one State.
+&emsp;(6) Nine members appointed by the President, who are especially qualified to serve on the Commission by reason of their background and experience. No more than two members appointed under this paragraph shall be from any one State.
 
 #### (b) Terms of office
 

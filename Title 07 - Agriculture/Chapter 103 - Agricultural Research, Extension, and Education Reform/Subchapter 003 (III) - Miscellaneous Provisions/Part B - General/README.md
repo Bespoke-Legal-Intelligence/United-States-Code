@@ -10,5 +10,6 @@ Part B—General
 - [&sect; 07653 - Office of Pest Management Policy](%C2%A7%2007653%20-%20Office%20of%20Pest%20Management%20Policy.md)
 - [&sect; 07654 - Food Safety Research Information Office](%C2%A7%2007654%20-%20Food%20Safety%20Research%20Information%20Office.md)
 - [&sect; 07655 - Safe food handling education](%C2%A7%2007655%20-%20Safe%20food%20handling%20education.md)
+- [&sect; 07655a - Food safety education initiatives](%C2%A7%2007655a%20-%20Food%20safety%20education%20initiatives.md)
 - [&sect; 07656 - Designation of Crisis Management Team within Department](%C2%A7%2007656%20-%20Designation%20of%20Crisis%20Management%20Team%20within%20Department.md)
 - [&sect; 07657 - Senior Scientific Research Service](%C2%A7%2007657%20-%20Senior%20Scientific%20Research%20Service.md)

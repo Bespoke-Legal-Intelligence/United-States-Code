@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 98–369, §911(d)(2)(A), substituted “6427(j)” for “
 
 1983—Pub. L. 97–424, §515(b)(6)(C), substituted “and special fuels” for “, special fuels, and lubricating oil” after “gasoline” in section catchline.
 
-Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxableyear for certain nontaxable purposes (determined without regard to section 6424(f)).
+Subsec. (a)(2) to (4). Pub. L. 97–424, §515(b)(6)(A), inserted “and” at end of par. (2), redesignated par. (4) as (3), and struck out former (3) which referred to amounts payable to the taxpayer under section 6424 with respect to lubricating oil used during the taxable year for certain nontaxable purposes (determined without regard to section 6424(f)).
 
 Subsec. (b). Pub. L. 97–424, §515(b)(6)(B)(i), substituted “6421 or 6427” for “6421, 6424, or 6427” after “amount payable under”.
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 91–258, §207(c)(3), (4), inserted references to sections
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6023(32), July 22, 1998, 112 Stat. 826, provided that: “The amendments made by this section \[amending this section and sections 45A, 59, 72, 142, 501, 512, 543, 871, 1017, 1250, 3121, 3401, 4092, 4221, 4222, 4973, 4975, 6039, 6050R, 6103, 6416, 6421, 6427, 6501, 7434, 7702B, 7872, and 9502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title VI, §6023(32), July 22, 1998, 112 Stat. 826, provided that: “The amendments made bythis section \[amending this section and sections 45A, 59, 72, 142, 501, 512, 543, 871, 1017, 1250, 3121, 3401, 4092, 4221, 4222, 4973, 4975, 6039, 6050R, 6103, 6416, 6421, 6427, 6501, 7434, 7702B, 7872, and 9502 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1996 Amendment
 

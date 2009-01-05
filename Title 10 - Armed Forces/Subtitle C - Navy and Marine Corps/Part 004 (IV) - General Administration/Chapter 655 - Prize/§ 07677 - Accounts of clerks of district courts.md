@@ -12,7 +12,7 @@
 
 &emsp;(1) copies of final decrees in prize causes; and
 
-&emsp;(2) a semi-annual statement of the amounts allowed by the court, and ordered to be paid,within the preceding six months to the prize commissioners and special prize commissioners for their services.
+&emsp;(2) a semi-annual statement of the amounts allowed by the court, and ordered to be paid, within the preceding six months to the prize commissioners and special prize commissioners for their services.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 482.)
 

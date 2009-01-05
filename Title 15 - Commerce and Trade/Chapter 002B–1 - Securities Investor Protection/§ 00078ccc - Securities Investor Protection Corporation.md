@@ -28,7 +28,7 @@
 
 #### (C) Additional members
 
-&emsp;&emsp;SIPC shall provide by rule that persons excluded from membership in SIPC under subparagraph (A)(i) may become members of SIPC under such conditions and upon suchterms as SIPC shall require by rule, taking into account such matters as the availability of assets and the ability to conduct a liquidation if necessary.
+&emsp;&emsp;SIPC shall provide by rule that persons excluded from membership in SIPC under subparagraph (A)(i) may become members of SIPC under such conditions and upon such terms as SIPC shall require by rule, taking into account such matters as the availability of assets and the ability to conduct a liquidation if necessary.
 
 #### (D) Disclosure
 
@@ -102,7 +102,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;&emsp;(iii) three shall hold office for a term expiring on December 31, 1973,
 
-> &emsp;&emsp;as designated by the President at the time they take office. Such designation shall bemade in a manner which will assure that no two persons appointed under the authority of the same clause of paragraph (2)(C) shall have terms which expire simultaneously.
+> &emsp;&emsp;as designated by the President at the time they take office. Such designation shall be made in a manner which will assure that no two persons appointed under the authority of the same clause of paragraph (2)(C) shall have terms which expire simultaneously.
 
 &emsp;&emsp;(C) A vacancy in the Board shall be filled in the same manner as the original appointment was made. Any director appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A director may serve after the expiration of his term until his successor has taken office.
 
@@ -150,7 +150,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;&emsp;Notwithstanding any other provision of this paragraph, a proposed rule change may take effect—
 
-&emsp;&emsp;&emsp;(i) upon the date of filing with the Commission, if such proposed rule change is designated by SIPC as relating solely to matters which the Commission, consistent with the public interest and the purposes of this subsection, determines by rule donot require the procedures set forth in this paragraph; or
+&emsp;&emsp;&emsp;(i) upon the date of filing with the Commission, if such proposed rule change is designated by SIPC as relating solely to matters which the Commission, consistent with the public interest and the purposes of this subsection, determines by rule do not require the procedures set forth in this paragraph; or
 
 &emsp;&emsp;&emsp;(ii) upon such date as the Commission shall for good cause determine. Any proposed rule change which takes effect under this clause shall be filed promptly thereafter and reviewed in accordance with the provisions of subparagraph (A).
 

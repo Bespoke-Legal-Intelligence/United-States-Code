@@ -2,7 +2,7 @@
 
 #### (a) Annual assessments required
 
-For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability, performance, or military effectiveness (as the case may be) of that nuclear weapon type.
+For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability,performance, or military effectiveness (as the case may be) of that nuclear weapon type.
 
 #### (b) Covered officials
 
@@ -94,7 +94,7 @@ Section was formerly classified to section 7274s of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
+<b>2003</b>—Subsec. (d)(3)(B). Pub. L. 108–136, §3141(e)(6)(D), substituted “section 2532 of this title” for “section 3137 of the National Defense Authorization Act for Fiscal Year 1996 (42 U.S.C. 2121 note)”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

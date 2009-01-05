@@ -24,7 +24,7 @@
 
 #### (C) Expected levels of performance
 
-&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
+&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels ofperformance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
 
 #### (D) Adjustment
 
@@ -108,7 +108,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after July 1, 2007, the Secretary shall determine if a granteeunder this subchapter has, for program year 2006—
+&emsp;&emsp;As soon as practicable after July 1, 2007, the Secretary shall determine if a grantee under this subchapter has, for program year 2006—
 
 &emsp;&emsp;&emsp;(i) met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subparagraphs (A), (C), (D), and (E) of subsection (b)(1); and
 
@@ -184,5 +184,5 @@ The Social Security Act, referred to in subsec. (a)(2)(D)(i), is act Aug. 14, 19
 
 #### Prior Provisions
 
-A prior section 3056k, Pub. L. 89–73, title V, §513, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2281, related to performance measures, prior tothe general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056k, Pub. L. 89–73, title V, §513, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2281, related to performance measures, prior to the general amendment of this subchapter by Pub. L. 109–365.
 

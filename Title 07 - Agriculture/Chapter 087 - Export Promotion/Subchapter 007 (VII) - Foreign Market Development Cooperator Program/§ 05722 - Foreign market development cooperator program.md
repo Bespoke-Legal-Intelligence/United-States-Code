@@ -14,17 +14,19 @@ Funds made available to carry out this subchapter shall be used only to provide�
 
 #### (c) Report to Congress
 
-The Secretary shall annually submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on activities under this section describing the amount of funding provided, the types of programs funded, the value-added products that have been targeted, and the foreign markets for those products that have been developed.
+The Secretary shall annually submit to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on activities under this section describing the amount of funding provided, the types of programs funded, the value-added products that have been targeted, and the foreign markets for those products that have been developed.
 
-(Pub. L. 95–501, title VII, §702, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, §3105(a), May 13, 2002, 116 Stat. 290.)
+(Pub. L. 95–501, title VII, §702, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, §3105(a), May 13, 2002, 116 Stat. 290; Pub. L. 110–246, title III, §3104(a), June 18, 2008, 122 Stat. 1833.)
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
 2002—Subsec. (a). Pub. L. 107–171, §3105(a)(1), inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
 
 Subsec. (c). Pub. L. 107–171, §3105(a)(2), added subsec. (c).
 
-#### Change of Name
+#### Effective Date of 2008 Amendment
 
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

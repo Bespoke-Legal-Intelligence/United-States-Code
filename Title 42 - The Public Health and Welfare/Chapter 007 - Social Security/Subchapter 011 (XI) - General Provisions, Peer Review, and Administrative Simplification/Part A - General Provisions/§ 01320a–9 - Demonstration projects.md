@@ -36,7 +36,7 @@ The Secretary may waive compliance with any requirement of part B or E of subcha
 
 #### (c) Treatment as program expenditures
 
-For purposes of parts B and E of subchapter IV of this chapter, the Secretary shall consider theexpenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
+For purposes of parts B and E of subchapter IV of this chapter, the Secretary shall consider the expenditures of any State to conduct a demonstration project under this section to be expenditures under subpart 1 or 2 of such part B, or under such part E, as the State may elect.
 
 #### (d) Duration of demonstration
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 #### Construction of 1997 Amendment
 
-Section 301(b) of Pub. L. 105–89 provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act (42 U.S.C. 1320a–9) before the date of the enactment of this Act \[Nov. 19, 1997\].”
+Section 301(b) of Pub. L. 105–89 provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] shall be construed as affecting the terms and conditions of any demonstration project approved under section 1130 of the Social Security Act (42U.S.C. 1320a–9) before the date of the enactment of this Act \[Nov. 19, 1997\].”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

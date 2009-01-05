@@ -20,7 +20,7 @@ Any health and safety training provided under subsection (a) of this section sha
 
 #### (c) Certificate
 
-Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator's employ, he shall be entitled to a copy of hishealth and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
+Upon completion of each training program, each operator shall certify, on a form approved by the Secretary, that the miner has received the specified training in each subject area of the approved health and safety training plan. A certificate for each miner shall be maintained by the operator, and shall be available for inspection at the mine site, and a copy thereof shall be given to each miner at the completion of such training. When a miner leaves the operator's employ, he shall be entitled to a copy of his health and safety training certificates. False certification by an operator that training was given shall be punishable under section 820(a) and (f) of this title; and each health and safety training certificate shall indicate on its face, in bold letters, printed in a conspicuous manner the fact that such false certification is so punishable.
 
 #### (d) Standards
 
@@ -99,6 +99,8 @@ The Secretary shall promulgate appropriate standards for safety and health train
 #### References in Text
 
 For the effective date of the Federal Mine Safety and Health Amendments Act of 1977, referred to in subsecs. (a) and (e)(1), see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
+
+This chapter, referred to in subsec. (a)(1), (2), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

@@ -60,7 +60,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) $100 limitation per casualty
 
-&emsp;Any loss of an individual described in subsection (c)(3) shall be allowed only to the extent that the amount of the loss to such individual arising from each casualty, or from each theft, exceeds $100.
+&emsp;Any loss of an individual described in subsection (c)(3) shall be allowed only to the extent that the amount of the loss to such individual arising from each casualty, or from each theft, exceeds $500 ($100 for taxable years beginning after December 31, 2009).
 
 #### (2) Net casualty loss allowed only to the extent it exceeds 10 percent of adjusted gross income
 
@@ -80,19 +80,53 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;&emsp;(ii) all such losses shall be treated as losses from sales or exchanges of capital assets.
 
-#### (3) Definitions of personal casualty gain and personal casualty loss
+#### (3) Special rule for losses in federally declared disasters
+
+#### (A) In general
+
+&emsp;&emsp;If an individual has a net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
+
+&emsp;&emsp;&emsp;(i) such net disaster loss, and
+
+&emsp;&emsp;&emsp;(ii) so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
+
+#### (B) Net disaster loss
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “net disaster loss” means the excess of—
+
+&emsp;&emsp;&emsp;(i) the personal casualty losses—
+
+&emsp;&emsp;&emsp;&emsp;(I) attributable to a federally declared disaster occurring before January 1, 2010, and
+
+&emsp;&emsp;&emsp;&emsp;(II) occurring in a disaster area, over
+
+&emsp;&emsp;&emsp;(ii) personal casualty gains.
+
+#### (C) Federally declared disaster
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Federally declared disaster
+
+&emsp;&emsp;&emsp;The term “federally declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+#### (ii) Disaster area
+
+&emsp;&emsp;&emsp;The term “disaster area” means the area so determined to warrant such assistance.
+
+#### (4) Definitions of personal casualty gain and personal casualty loss
 
 &emsp;For purposes of this subsection—
 
 #### (A) Personal casualty gain
 
-&emsp;&emsp;The term “personal casualty gain” means the recognized gain from any involuntary conversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
+&emsp;&emsp;The term “personal casualty gain” means the recognized gain from any involuntaryconversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
 
 #### (B) Personal casualty loss
 
-&emsp;&emsp;The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraph (2), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
+&emsp;&emsp;The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraphs (2) and (3), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
 
-#### (4) Special rules
+#### (5) Special rules
 
 #### (A) Personal casualty losses allowable in computing adjusted gross income to the extent of personal casualty gains
 
@@ -118,7 +152,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) Election to take deduction for preceding year
 
-&emsp;Notwithstanding the provisions of subsection (a), any loss attributable to a disaster occurring in an area subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
+&emsp;Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area (as defined by clause (ii) of subsection (h)(3)(C)) and attributable to a federally declared disaster (as defined by clause (i) of such subsection) may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
 
 #### (2) Year of loss
 
@@ -130,7 +164,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (4) Use of disaster loan appraisals to establish amount of loss
 
-&emsp;Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a Presidentially declared disaster (as defined by section 1033(h)(3)) may be used to establish the amount of any loss described in paragraph (1) or (2).
+&emsp;Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster (as defined by subsection (h)(3)(C)(i) <sup>1</sup> may be used to establish the amount of any loss described in paragraph (1) or (2).
 
 #### (j) Denial of deduction for losses on certain obligations not in registered form
 
@@ -162,7 +196,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(D) such person promptly surrenders the obligation to the issuer for the issuance of a new obligation in registered form,
 
-> &emsp;but only if such obligations are held under arrangements provided in regulations or otherwise which are designed to assure that such obligations are not delivered to any United States person other than a person described in subparagraph (A), (B), or (C).
+> &emsp;but only if such obligations are held under arrangements provided in regulations or otherwise which are designed to assure that such obligations are not delivered to any UnitedStates person other than a person described in subparagraph (A), (B), or (C).
 
 #### (k) Treatment as disaster loss where taxpayer ordered to demolish or relocate residence in disaster area because of disaster
 
@@ -254,13 +288,27 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L.91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071;Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (i)(1) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (h)(3)(C)(i) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (h)(1). Pub. L. 110–343, §706(c), substituted “$500 ($100 for taxable years beginning after December 31, 2009)” for “$100”.
+
+Subsec. (h)(3). Pub. L. 110–343, §706(a)(1), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (h)(4). Pub. L. 110–343, §706(a)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (h)(4)(B). Pub. L. 110–343, §706(a)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (h)(5). Pub. L. 110–343, §706(a)(1), redesignated par. (4) as (5).
+
+Subsec. (i)(1). Pub. L. 110–343, §706(a)(2)(B), substituted “loss occurring in a disaster area (as defined by clause (ii) of subsection (h)(3)(C)) and attributable to a federally declared disaster (as defined by clause (i) of such subsection)” for “loss attributable to a disaster occurring in an area subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act”.
+
+Subsec. (i)(4). Pub. L. 110–343, §706(a)(2)(C), substituted “federally declared disaster (as defined by subsection (h)(3)(C)(i)” for “Presidentially declared disaster (as defined by section 1033(h)(3))”.
 
 2004—Subsecs. (i)(1), (k). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
@@ -312,7 +360,7 @@ Subsec. (k). Pub. L. 97–248, §310(b)(5), redesignated former subsec. (j), set
 
 1974—Subsec. (h). Pub. L. 93–288 substituted “Disaster Relief Act of 1974” for “Disaster Relief Act of 1970”.
 
-1972—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable yearand on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
+1972—Subsec. (h). Pub. L. 92–418 struck out par. (1) provisions relating to losses attributable to a disaster occurring during period following close of taxable year and on or before time prescribed by law for filing the income tax return for the taxable year without regard to any extension of time, struck out par. (2) designation, and inserted “attributable to a disaster” before “occurring in an area”, and at end of second sentence, inserted “based on facts existing at the date the taxpayer claims the loss”.
 
 Subsec. (h)(1). Pub. L. 92–336 substituted provisions relating to losses attributable to a disaster which occurs during the period after the close of the taxable year and on or before the last day of the 6th calendar month beginning after the close of the taxable year, for provisions relating to losses attributable to a disaster which occurs during the period following the close of the taxable year and on or before the time prescribed by law for filing the income tax return for the taxable year, determined without regard to any extension of time.
 
@@ -342,6 +390,12 @@ Subsec. (h)(3), (4). Pub. L. 85–866, §57(c)(1), added pars. (3) and (4).
 
 Subsec. (h)(5). Pub. L. 85–866, §202(a), added par. (5).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 706(a)(1), (2)(A)–(C) of Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
+
+Amendment by section 706(c) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 706(d)(2) of Pub. L. 110–343, set out as a note under section 56 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
@@ -368,7 +422,7 @@ Amendment by section 711(c)(1) of Pub. L. 98–369 effective as if included in t
 
 Section 711(c)(2)(A)(v) of Pub. L. 98–369 provided that: “The amendments made by this subparagraph \[amending this section and sections 873, 931, and 1231 of this title\] shall apply to taxable years beginning after December 31, 1983.”
 
-Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Government under the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
+Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1981, with respect to residences in areas determined by the President of the United States, after such date, to warrant assistance by the Federal Governmentunder the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -386,7 +440,7 @@ Amendment by Pub. L. 93–288 effective Apr. 1, 1974, see section 605 of Pub. L.
 
 #### Effective Date of 1972 Amendments
 
-Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
+Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
 Section 2(b) of Pub. L. 92–336 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 1971, in taxable years ending after such date.”
 
@@ -442,7 +496,7 @@ General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986�
 
 “(b)
 
-FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domestic building and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
+FSLIC Assistance.—For purposes of this section, the term ‘FSLIC assistance’ means any assistance (or right to assistance) with respect to a domesticbuilding and loan association (as defined in section 7701(a)(19) of such Code without regard to subparagraph (C) thereof) under section 406(f) of the National Housing Act \[former 12 U.S.C. 1729(f)\] or section 21A of the Federal Home Loan Bank Act \[12 U.S.C. 1441a\] (or under any similar provision of law).
 
 “(c)
 
@@ -462,7 +516,7 @@ Exceptions.—The provisions of this section shall not apply to any assistance t
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
-Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\]\(or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
+Section 1009(d)(4) of Pub. L. 100–647 provided that: “If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time before the date 1 year after such date of enactment) credit or refund of any overpayment of tax attributable to amendments made by section 905 of the Reform Act \[section 905 of Pub. L. 99–514, amending this section and section 451 of this title\] or by this subsection \[amending this section and section 451 of this title and provisions set out as a note under section 451 of this title\] (or the assessment of any underpayment of tax so attributable) is barred by any law or rule of law—
 
 &emsp;“(A) credit or refund of any such overpayment may nevertheless be made if claim therefore \[sic\] is filed before the date 1 year after such date of enactment, and
 
@@ -558,7 +612,7 @@ Freight forwarder operating authority.—Subsection (b) shall apply to taxable y
 
 #### Deduction for Motor Carrier Operating Authority
 
-Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §266, Aug. 13, 1981, 95 Stat. 265, as amended by Pub. L. 97–424, title V, §517(a), Jan. 6,1983, 96 Stat. 2183; Pub. L. 97–448, title I, §102(n), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -648,7 +702,7 @@ Income Taken Into Account.—For purposes of this section, the income taken into
 
 &emsp;“(1) in the case of an individual described in subsection (a)(2)(A), the amount of income (not in excess of $5,000) attributable to the cancellation of a disaster loan under section 7 of the Small Business Act or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act received by reason of the disaster described in subsection (a)(1), or
 
-&emsp;“(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not in excess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
+&emsp;“(2) in the case of an individual described in subsection (a)(2)(B), the amount of compensation (not inexcess of $5,000) for the loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster described in subsection (a)(1).
 
 “(d)
 
@@ -661,4 +715,6 @@ Statute of Limitations.—If refund or credit of any overpayment of income tax r
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 
 Section 1(b)(2) of Pub. L. 91–677 authorized refund or credit of overpayment attributable to the amendments made by subsec. (a) to subsec. (i) of this section if claim therefor was filed after Jan. 12, 1971, and before July 1, 1971, without interest for any period before Jan. 1, 1972.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

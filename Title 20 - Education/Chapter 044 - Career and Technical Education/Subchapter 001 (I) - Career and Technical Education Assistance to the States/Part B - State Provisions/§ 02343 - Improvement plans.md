@@ -42,7 +42,7 @@
 
 #### (3) Technical assistance
 
-&emsp;If the eligible agency determines that an eligible recipient is not properly implementingthe eligible recipient's responsibilities under section 2354 of this title, or is not making substantial progress in meeting the purposes of this chapter, based on the local adjusted levels of performance, the eligible agency shall work with the eligible recipient to implement improvement activities consistent with the requirements of this chapter.
+&emsp;If the eligible agency determines that an eligible recipient is not properly implementing the eligible recipient's responsibilities under section 2354 of this title, or is not making substantial progress in meeting the purposes of this chapter, based on the local adjusted levels of performance, the eligible agency shall work with the eligible recipient to implement improvement activities consistent with the requirements of this chapter.
 
 #### (4) Subsequent action
 

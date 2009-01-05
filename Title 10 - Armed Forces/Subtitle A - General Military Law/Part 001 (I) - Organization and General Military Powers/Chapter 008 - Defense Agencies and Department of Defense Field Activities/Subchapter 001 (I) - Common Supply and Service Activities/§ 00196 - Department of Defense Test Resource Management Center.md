@@ -18,7 +18,7 @@ Duties of Director.—The Director shall have the following duties:
 
 &emsp;&emsp;(A) the test and evaluation facilities and resources of the Major Range and Test Facility Base of the Department of Defense; and
 
-&emsp;&emsp;(B) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) of this title.
+&emsp;&emsp;(B) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) <sup>1</sup> of this title.
 
 &emsp;(2) To complete and maintain the strategic plan required by subsection (d).
 
@@ -28,7 +28,7 @@ Duties of Director.—The Director shall have the following duties:
 
 (d)
 
-Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.
+Strategic Plan for Department of Defense Test and Evaluation Resources.—(1)Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.
 
 (2) The strategic plan shall include the following:
 
@@ -76,6 +76,10 @@ Definition.—In this section, the term “Major Range and Test Facility Base”
 
 (Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397.)
 
+#### References in Text
+
+Section 139(i) of this title, referred to in subsec. (c)(1)(B), was redesignated as section 139(j) of this title by Pub. L. 110–181, title II, §221, Jan. 28, 2008, 122 Stat. 37.
+
 #### Amendments
 
 2006—Subsec. (b)(1). Pub. L. 109–163, §902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
@@ -93,4 +97,6 @@ Subsec. (e)(1). Pub. L. 108–136, §212(b)(2), struck out “, the Director of
 #### Administration of Programs To Begin After First Strategic Plan
 
 Pub. L. 107–314, div. A, title II, §231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

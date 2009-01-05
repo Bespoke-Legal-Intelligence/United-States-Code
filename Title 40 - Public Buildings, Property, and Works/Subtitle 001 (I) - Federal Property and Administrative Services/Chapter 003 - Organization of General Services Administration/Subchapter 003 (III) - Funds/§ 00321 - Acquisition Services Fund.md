@@ -46,7 +46,7 @@ In general.—The Fund is available for use by or under the direction and contro
 
 &emsp;&emsp;&emsp;(iii) personal services related to the provision of information technology (as defined in section 11101(6) of this title);
 
-&emsp;&emsp;(B) paying the purchase price, cost of transportation of personal property andservices, and cost of personal services employed directly in the repair, rehabilitation, and conversion of personal property; and
+&emsp;&emsp;(B) paying the purchase price, cost of transportation of personal property and services, and cost of personal services employed directly in the repair, rehabilitation, and conversion of personal property; and
 
 &emsp;&emsp;(C) paying other direct costs of, and indirect costs that are reasonably related to, contracting, procurement, inspection, storage, management, distribution, and accountability of property and nonpersonal services provided by the General Services Administration or by special order through the Administration.
 
@@ -114,7 +114,7 @@ Reimbursement for Equipment Purchased for Congress.—The Administrator may acce
 
 (f)
 
-Transfer of Uncommitted Balances.—Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+Transfer of Uncommitted Balances.—Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needsreflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
 (g)
 

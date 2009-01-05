@@ -1,6 +1,6 @@
 ### §3622. Temporary release of a prisoner
 
-The Bureau of Prisons may release a prisoner from the place of his imprisonment for a limitedperiod if such release appears to be consistent with the purpose for which the sentence was imposed and any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2), if such release otherwise appears to be consistent with the public interest and if there is reasonable cause to believe that a prisoner will honor the trust to be imposed in him, by authorizing him, under prescribed conditions, to—
+The Bureau of Prisons may release a prisoner from the place of his imprisonment for a limited period if such release appears to be consistent with the purpose for which the sentence was imposed and any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2), if such release otherwise appearsto be consistent with the public interest and if there is reasonable cause to believe that a prisoner will honor the trust to be imposed in him, by authorizing him, under prescribed conditions, to—
 
 &emsp;(a) visit a designated place for a period not to exceed thirty days, and then return to the same or another facility, for the purpose of—
 

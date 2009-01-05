@@ -36,7 +36,7 @@ Federal financial institution regulatory agency.—The term “Federal financial
 
 &emsp;&emsp;(D) the Federal Deposit Insurance Corporation;
 
-&emsp;&emsp;(E) the Federal Housing Finance Board;
+&emsp;&emsp;(E) the Federal Housing Finance Agency;
 
 &emsp;&emsp;(F) the Farm Credit Administration;
 
@@ -54,17 +54,21 @@ Loan.—The term “loan” does not include any credit card account established
 
 &emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
 
-&emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstances under open end consumer credit plans or for residential real property loans; and
+&emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstancesunder open end consumer credit plans or for residential real property loans; and
 
 &emsp;&emsp;(C) with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
 
-(Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899.)
+(Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792.)
 
 #### Prior Provisions
 
 A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly §217; Pub. L. 85–699, title VII, §701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; renumbered §212, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, §962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, §2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899.
 
 Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
+
+#### Amendments
+
+2008—Subsec. (c)(2)(E). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

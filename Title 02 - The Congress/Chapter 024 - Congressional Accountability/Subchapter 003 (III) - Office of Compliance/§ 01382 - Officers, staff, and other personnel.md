@@ -120,7 +120,7 @@
 
 #### (B) Statement of reasons for removal
 
-&emsp;&emsp;In removing the General Counsel, the Speaker of the House of Representatives andthe President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
+&emsp;&emsp;In removing the General Counsel, the Speaker of the House of Representatives and the President pro tempore of the Senate shall state in writing to the General Counsel the specific reasons for the removal.
 
 #### (d) Other staff
 

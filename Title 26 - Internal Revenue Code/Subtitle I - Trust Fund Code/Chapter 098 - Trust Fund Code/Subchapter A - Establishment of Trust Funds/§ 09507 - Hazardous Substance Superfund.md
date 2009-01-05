@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the“Hazardous Substance Superfund” (hereinafter in this section referred to as the “Superfund”), consisting of such amounts as may be—
+There is established in the Treasury of the United States a trust fund to be known as the “Hazardous Substance Superfund” (hereinafter in this section referred to as the “Superfund”), consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Superfund as provided in this section,
 
@@ -114,7 +114,7 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 #### Effective Date
 
@@ -152,7 +152,7 @@ Section 517(b) of Pub. L. 99–499, as amended by Pub. L. 101–508, title XI, �
 
 > plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
 
-\[Section 11231(d) of Pub. L. 101–508 directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
+\[Section 11231(d) of Pub. L. 101–508 directed that section 517(b) of Pub. L. 99–499, set out above, be “amendedby striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

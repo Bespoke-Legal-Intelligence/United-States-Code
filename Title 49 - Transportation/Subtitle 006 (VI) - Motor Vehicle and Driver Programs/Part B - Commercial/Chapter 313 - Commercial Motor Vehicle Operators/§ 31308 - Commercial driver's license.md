@@ -20,7 +20,7 @@ After consultation with the States, the Secretary of Transportation shall prescr
 
 &emsp;&emsp;(E) the dates between which the license or learner's permit is valid.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(c)(1), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §4122(2), Aug. 10, 2005, 119 Stat. 1734.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(c)(1), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §4122(2), Aug. 10, 2005, 119 Stat. 1734; Pub. L. 110–244, title III, §301(g), June 6, 2008, 122 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -42,15 +42,21 @@ The words “Not later than July 15, 1988” are omitted as obsolete.
 
 #### Amendments
 
+2008—Pub. L. 110–244 amended Pub. L. 109–59, §4122(2)(A). See 2005 Amendment note below.
+
 2005—Pub. L. 109–59, §4122(2)(B), substituted “the licenses and permits” for “the licenses” in introductory provisions.
 
-Pub. L. 109–59, §4122(2)(A), which directed amendment of this section by inserting “and learner's permits” after “license” the first place it appeared, was executed by making the insertion after “licenses” the first place it appeared, to reflect the probable intent of Congress.
+Pub. L. 109–59, §4122(2)(A), as amended by Pub. L. 110–244, inserted “and learner's permits” after “licenses” in introductory provisions.
 
 Par. (2). Pub. L. 109–59, §4122(2)(D), added par. (2). Former par. (2) redesignated (3).
 
 Pars. (3), (4). Pub. L. 109–59, §4122(2)(C), (E), redesignated pars. (2) and (3) as (3) and (4), respectively, and inserted “or learner's permit” after “license” wherever appearing.
 
 1998—Par. (2). Pub. L. 105–178 inserted before semicolon “and each license issued after January 1, 2001, include unique identifiers (which may include biometric identifiers) to minimize fraud and duplication”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
 
 #### Deadline for Issuance of Regulations
 

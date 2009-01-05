@@ -66,7 +66,7 @@ The Commission shall periodically review the regulations established pursuant to
 
 #### (g) Recovery of reasonable and prudent costs
 
-Any common carrier or connecting carrier may provide specialized terminal equipment needed by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
+Any common carrier or connecting carrier may provide specialized terminal equipmentneeded by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
 
 #### (h) State enforcement
 

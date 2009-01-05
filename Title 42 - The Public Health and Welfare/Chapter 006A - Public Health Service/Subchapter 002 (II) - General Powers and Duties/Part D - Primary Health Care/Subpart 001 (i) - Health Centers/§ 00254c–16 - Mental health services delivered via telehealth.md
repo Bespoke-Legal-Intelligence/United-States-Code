@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(B) for the populations described in subsection (a)(3)(B) of this section—
 
-&emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mentalillness, in long-term care facilities as delivered remotely by qualified mental health professionals using telehealth; and
+&emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mental illness, in long-term care facilities as delivered remotely by qualified mental health professionals using telehealth; and
 
 &emsp;&emsp;&emsp;(ii) to collaborate with local public health entities to provide the mental health services.
 

@@ -50,7 +50,7 @@ Subsec. (a)(2)(C). Pub. L. 101–508, §11201(c)(2), added subpar. (C).
 
 1978—Subsec. (c). Pub. L. 95–458 added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportionedamong the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
+1976—Subsec. (a). Pub. L. 94–529 reduced the excise tax on beer for small brewers to $7 per barrel on the first 60,000 barrels produced in the United States and removed for sale or consumption or sale during the calendar year, the reduced rate to be applicable only to brewers producing no more than 2 million barrels of beer in a calendar year, and inserted provision that if several brewers are members of a controlled group, the 2–million barrel limit is to be applied to the controlled group and the 60,000–barrel limit is to be apportioned among the members of the controlled group in accordance with Treasury Department regulations promulgated by the Secretary or his delegate.
 
 1965—Subsec. (a). Pub. L. 89–44 struck out sentence providing for the imposition on and after July 1, 1965, of a tax of $8 in lieu of the tax imposed by the section.
 

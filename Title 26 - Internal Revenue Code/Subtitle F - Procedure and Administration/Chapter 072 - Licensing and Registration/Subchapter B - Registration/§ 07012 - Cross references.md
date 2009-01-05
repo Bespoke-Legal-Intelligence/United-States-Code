@@ -6,19 +6,17 @@
 
 &emsp;&emsp;<b>(3) For provisions relating to registration in relation to the taxes on gasoline and diesel fuel, see section 4101.</b>
 
-&emsp;&emsp;<b>(4) For penalty for failure to register, see section 7272.</b>
+&emsp;&emsp;<b>(4) For provisions relating to registration by dealers in distilled spirits, wines, and beer, see section 5124.</b>
 
-&emsp;&emsp;<b>(5) For other penalties for failure to register with respect to wagering, see section 7262.</b>
+&emsp;&emsp;<b>(5) For penalty for failure to register, see section 7272.</b>
+
+&emsp;&emsp;<b>(6) For other penalties for failure to register with respect to wagering, see section 7262.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 846; Pub. L. 85–475, §4(b)(7), June 30, 1958, 72 Stat. 260; Pub. L. 89–44, title VI, §601(g), June 21, 1965, 79 Stat. 155; Pub. L. 91–513, title III, §1102(d), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §§1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, 90 Stat. 1816, 1830; Pub. L. 104–188, title I, §1702(b)(4), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 109–59, title XI, §11125(b)(9), Aug. 10, 2005, 119 Stat. 1955.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–59, title XI, §11125(b)(9), (c), Aug. 10, 2005, 119 Stat. 1955, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is amended by redesignating pars. (4) and (5) as (5) and (6), respectively, and enacting a new par. (4) to read as follows:</i>
-
-&emsp;&emsp;<i>(4) For provisions relating to registration by dealers in distilled spirits, wines, and beer, see section 5124.</i>
-
 #### Amendments
+
+2005—Pars. (4) to (6). Pub. L. 109–59 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 1996—Par. (3). Pub. L. 104–188, §1702(b)(4)(A), substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
 
@@ -54,5 +52,5 @@ For effective date of amendment by Pub. L. 85–475, see section 4(c) of Pub. L.
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedingscommenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
 

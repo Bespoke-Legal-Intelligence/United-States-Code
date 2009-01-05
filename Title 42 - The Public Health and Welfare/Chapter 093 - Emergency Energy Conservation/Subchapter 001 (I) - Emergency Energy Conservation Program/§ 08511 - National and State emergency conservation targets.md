@@ -32,7 +32,7 @@ The President shall notify the Governor of each State of each target established
 
 #### (c) Establishment of targets for Federal agencies
 
-In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the FederalGovernment, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
 
 &emsp;(1) by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
 
@@ -42,7 +42,7 @@ In connection with the establishment of any national target under subsection (a)
 
 (1) From time to time, the President shall review and, consistent with subsection (a) of this section, modify to the extent the President considers appropriate the national and State energy conservation targets established under this subsection.
 
-(2) Any modification under this paragraph shall be accompanied by such information and analysis as is necessary to provide the basistherefor and shall be available to the Congress and the public.
+(2) Any modification under this paragraph shall be accompanied by such information and analysis as is necessary to provide the basis therefor and shall be available to the Congress and the public.
 
 (3)(A) Before the end of the 12th month following the establishment of any conservation target under this section, and annually thereafter while such target is in effect, the President shall determine, for the energy source for which that target was established, whether a severe energy supply interruption exists or is imminent or that actions to restrain domestic energy demand are required in order to fulfill the obligations of the United States under the international energy program. The President shall transmit to the Congress and make public the information and other data on which any determination under this subparagraph is based.
 

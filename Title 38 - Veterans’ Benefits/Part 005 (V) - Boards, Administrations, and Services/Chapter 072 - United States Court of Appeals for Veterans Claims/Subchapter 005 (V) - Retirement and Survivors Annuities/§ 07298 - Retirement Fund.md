@@ -50,5 +50,5 @@ Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, §402(d)(1), substituted “7296(i) 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 512(a)(1), (2)(C) of Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by section 512(a)(1), (2)(C) of Pub. L. 105–368 effective on first day of first month beginningmore than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

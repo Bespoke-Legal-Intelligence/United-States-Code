@@ -180,7 +180,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent to leasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
 
-“(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\]and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
+“(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\] and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
 
 “(g) Except as provided herein, nothing contained in this section shall affect or modify the authorities or responsibilities of the Secretary under the Geothermal Steam Act of 1970, as amended, or any other provision of law.
 

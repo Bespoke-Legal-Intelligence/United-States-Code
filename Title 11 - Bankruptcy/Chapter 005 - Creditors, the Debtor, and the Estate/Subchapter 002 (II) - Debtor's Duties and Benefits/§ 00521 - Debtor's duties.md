@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) within thirty days after the date of the filing of a petition under chapter 7 of this title or on or before the date of the meeting of creditors, whichever is earlier, or within such additional time as the court, for cause, within such period fixes, the debtor shall file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property;
 
-&emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, the debtor shall perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph; and
+&emsp;&emsp;(B) within 30 days after the first date set for the meeting of creditors under section 341(a), or within such additional time as the court, for cause, within such 30-day period fixes, the debtor shall perform his intentionwith respect to such property, as specified by subparagraph (A) of this paragraph; and
 
 &emsp;&emsp;(C) nothing in subparagraphs (A) and (B) of this paragraph shall alter the debtor's or the trustee's rights with regard to such property under this title, except as provided in section 362(h);
 
@@ -80,7 +80,7 @@
 
 &emsp;(1) at the same time filed with the taxing authority, a copy of each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) with respect to each tax year of the debtor ending while the case is pending under such chapter;
 
-&emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority asof the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
+&emsp;(2) at the same time filed with the taxing authority, each Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such tax return) that had not been filed with such authority as of the date of the commencement of the case and that was subsequently filed for any tax year of the debtor ending in the 3-year period ending on the date of the commencement of the case;
 
 &emsp;(3) a copy of each amendment to any Federal income tax return or transcript filed with the court under paragraph (1) or (2); and
 
@@ -130,9 +130,9 @@ Section 521 of the House amendment modifies a comparable provision contained in 
 
 #### senate report no. 95–989
 
-This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate with the trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
+This section lists three duties of the debtor in a bankruptcy case. The Rules of Bankruptcy Procedure will specify the means of carrying out these duties. The first duty is to file with the court a list of creditors and, unless the court orders otherwise, a schedule of assets and liabilities and a statement of his financial affairs. Second, the debtor is required to cooperate withthe trustee as necessary to enable the trustee to perform the trustee's duties. Finally, the debtor must surrender to the trustee all property of the estate, and any recorded information, including books, documents, records, and papers, relating to property of the estate. This phrase “recorded information, including books, documents, records, and papers,” has been used here and throughout the bill as a more general term, and includes such other forms of recorded information as  data  in  computer  storage  or  in  other  machine readable forms.
 
-The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such asthe duty to attend any hearing on discharge, Rule 402(2).
+The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
 
 #### References in Text
 

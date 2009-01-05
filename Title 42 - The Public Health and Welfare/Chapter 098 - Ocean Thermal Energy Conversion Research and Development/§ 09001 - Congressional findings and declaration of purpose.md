@@ -14,7 +14,7 @@
 
 &emsp;(6) a strong and innovative domestic industry committed to the commercialization of ocean thermal energy conversion must be established, and many competent domestic industrial groups are already involved in ocean thermal energy conversion research and development activity; and
 
-&emsp;(7) consistent with the findings of the Domestic Policy Review on Solar Energy, oceanthermal energy conversion energy can potentially contribute at least one-tenth of quad of energy per year by the year 2000.
+&emsp;(7) consistent with the findings of the Domestic Policy Review on Solar Energy, ocean thermal energy conversion energy can potentially contribute at least one-tenth of quad of energy per year by the year 2000.
 
 (b) Therefore, the purpose of this chapter is to accelerate ocean thermal energy conversion technology development to provide a technical base for meeting the following goals:
 

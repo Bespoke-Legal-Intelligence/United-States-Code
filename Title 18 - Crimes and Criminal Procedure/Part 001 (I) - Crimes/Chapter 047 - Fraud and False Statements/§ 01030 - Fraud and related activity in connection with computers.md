@@ -10,41 +10,35 @@
 
 &emsp;&emsp;(B) information from any department or agency of the United States; or
 
-&emsp;&emsp;(C) information from any protected computer if the conduct involved an interstate or foreign communication;
+&emsp;&emsp;(C) information from any protected computer;
 
 &emsp;(3) intentionally, without authorization to access any nonpublic computer of a department or agency of the United States, accesses such a computer of that department or agency that is exclusively for the use of the Government of the United States or, in the case of a computer not exclusively for such use, is used by or for the Government of the United States and such conduct affects that use by or for the Government of the United States;
 
 &emsp;(4) knowingly and with intent to defraud, accesses a protected computer without authorization, or exceeds authorized access, and by means of such conduct furthers the intended fraud and obtains anything of value, unless the object of the fraud and the thing obtained consists only of the use of the computer and the value of such use is not more than $5,000 in any 1-year period;
 
-&emsp;(5)(A)(i) knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization, to a protected computer;
+&emsp;(5)(A) knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization, to a protected computer;
 
-&emsp;(ii) intentionally accesses a protected computer without authorization, and as a result of such conduct, recklessly causes damage; or
+&emsp;(B) intentionally accesses a protected computer without authorization, and as a result of such conduct, recklessly causes damage; or
 
-&emsp;(iii) intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage; and
-
-&emsp;(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
-
-&emsp;&emsp;(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
-
-&emsp;&emsp;(ii) the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;
-
-&emsp;&emsp;(iii) physical injury to any person;
-
-&emsp;&emsp;(iv) a threat to public health or safety; or
-
-&emsp;&emsp;(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;
+&emsp;(C) intentionally accesses a protected computer without authorization, and as a result of such conduct, causes damage and loss.<sup>1</sup>
 
 &emsp;(6) knowingly and with intent to defraud traffics (as defined in section 1029) in any password or similar information through which a computer may be accessed without authorization, if—
 
 &emsp;&emsp;(A) such trafficking affects interstate or foreign commerce; or
 
-&emsp;&emsp;(B) such computer is used by or for the Government of the United States; <sup>1</sup>
+&emsp;&emsp;(B) such computer is used by or for the Government of the United States; <sup>2</sup>
 
-&emsp;(7) with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;
+&emsp;(7) with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any—
+
+&emsp;&emsp;(A) threat to cause damage to a protected computer;
+
+&emsp;&emsp;(B) threat to obtain information from a protected computer without authorization or in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
+
+&emsp;&emsp;(C) demand or request for money or other thing of value in relation to damage to a protected computer, where such damage was caused to facilitate the extortion;
 
 > shall be punished as provided in subsection (c) of this section.
 
-(b) Whoever attempts to commit an offense under subsection (a) of this section shall be punished as provided in subsection (c) of this section.
+(b) Whoever conspires to commit or attempts to commit an offense under subsection (a) of this section shall be punished as provided in subsection (c) of this section.
 
 (c) The punishment for an offense under subsection (a) or (b) of this section is—
 
@@ -52,7 +46,7 @@
 
 &emsp;(B) a fine under this title or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a)(1) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(2)(A) except as provided in subparagraph (B), a fine under this title or imprisonment for not more than one year, or both, in the case of an offense under subsection (a)(2), (a)(3), (a)(5)(A)(iii), or (a)(6) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(2)(A) except as provided in subparagraph (B), a fine under this title or imprisonment for not more than one year, or both, in the case of an offense under subsection (a)(2), (a)(3), or (a)(6) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
 &emsp;(B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under subsection (a)(2), or an attempt to commit an offense punishable under this subparagraph, if—
 
@@ -66,17 +60,53 @@
 
 &emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4) or (a)(7) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
-&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4), (a)(5)(A)(iii), or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4),<sup>3</sup> or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(4)(A) except as provided in paragraph (5), a fine under this title, imprisonment for notmore than 10 years, or both, in the case of an offense under subsection (a)(5)(A)(i), or an attempt to commit an offense punishable under that subsection;
+&emsp;(4)(A) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 5 years, or both, in the case of—
 
-&emsp;(B) a fine under this title, imprisonment for not more than 5 years, or both, in the case of an offense under subsection (a)(5)(A)(ii), or an attempt to commit an offense punishable under that subsection;
+&emsp;&emsp;(i) an offense under subsection (a)(5)(B), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
-&emsp;(C) except as provided in paragraph (5), a fine under this title, imprisonment for not more than 20 years, or both, in the case of an offense under subsection (a)(5)(A)(i) or (a)(5)(A)(ii), or an attempt to commit an offense punishable under either subsection, that occurs after a conviction for another offense under this section; and
+&emsp;&emsp;&emsp;(I) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
 
-&emsp;(5)(A) if the offender knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a)(5)(A)(i), a fine under this title or imprisonment for not more than 20 years, or both; and
+&emsp;&emsp;&emsp;(II) the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;
 
-&emsp;(B) if the offender knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a)(5)(A)(i), a fine under this title or imprisonment for any term of years or for life, or both.
+&emsp;&emsp;&emsp;(III) physical injury to any person;
+
+&emsp;&emsp;&emsp;(IV) a threat to public health or safety;
+
+&emsp;&emsp;&emsp;(V) damage affecting a computer used by or for an entity of the United States Government in furtherance of the administration of justice, national defense, or national security; or
+
+&emsp;&emsp;&emsp;(VI) damage affecting 10 or more protected computers during any 1-year period; or
+
+&emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
+
+&emsp;(B) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
+
+&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) aharm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
+
+&emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
+
+&emsp;(C) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 20 years, or both, in the case of—
+
+&emsp;&emsp;(i) an offense or an attempt to commit an offense under subparagraphs (A) or (B) of subsection (a)(5) that occurs after a conviction for another offense under this section; or
+
+&emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
+
+&emsp;(D) a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
+
+&emsp;&emsp;(i) an offense or an attempt to commit an offense under subsection (a)(5)(C) that occurs after a conviction for another offense under this section; or
+
+&emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
+
+&emsp;(E) if the offender attempts to cause or knowingly or recklessly causes serious bodily injury from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for not more than 20 years, or both;
+
+&emsp;(F) if the offender attempts to cause or knowingly or recklessly causes death from conduct in violation of subsection (a)(5)(A), a fine under this title, imprisonment for any term of years or for life, or both; or
+
+&emsp;(G) a fine under this title, imprisonment for not more than 1 year, or both, for—
+
+&emsp;&emsp;(i) any other offense under subsection (a)(5); or
+
+&emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph.
 
 (d)(1) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section.
 
@@ -92,7 +122,7 @@
 
 &emsp;&emsp;(A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government; or
 
-&emsp;&emsp;(B) which is used in interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States;
+&emsp;&emsp;(B) which is used in or affecting interstate or foreign commerce or communication, including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States;
 
 &emsp;(3) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States;
 
@@ -114,7 +144,7 @@
 
 &emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
 
-&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>2</sup> of the Federal Reserve Act;
+&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>4</sup> of the Federal Reserve Act;
 
 &emsp;(5) the term “financial record” means information derived from any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
@@ -134,11 +164,25 @@
 
 (f) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
-(g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
+(g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
 (h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158.)
+(i)(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
+
+&emsp;(A) such person's interest in any personal property that was used or intended to be used to commit or to facilitate the commission of such violation; and
+
+&emsp;(B) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation.
+
+(2) The criminal forfeiture of property under this subsection, any seizure and disposition thereof, and any judicial proceeding in relation thereto, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except subsection (d) of that section.
+
+(j) For purposes of subsection (i), the following shall be subject to forfeiture to the United States and no property right shall exist in them:
+
+&emsp;(1) Any personal property used or intended to be used to commit or to facilitate the commission of any violation of this section, or a conspiracy to violate this section.
+
+&emsp;(2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section <sup>6</sup>
+
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563.)
 
 #### References in Text
 
@@ -157,6 +201,42 @@ Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is clas
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(C). Pub. L. 110–326, §203, struck out “if the conduct involved an interstate or foreign communication” after “computer”.
+
+Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, substituted “damage and loss.” for “damage; and” in subpar. (C), and struck out former subpar. (B) which read as follows:
+
+“(B) by conduct described in clause (i), (ii), or (iii) of subparagraph (A), caused (or, in the case of an attempted offense, would, if completed, have caused)—
+
+&emsp;“(i) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
+
+&emsp;“(ii) the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;
+
+&emsp;“(iii) physical injury to any person;
+
+&emsp;“(iv) a threat to public health or safety; or
+
+&emsp;“(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;”.
+
+Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;”.
+
+Subsec. (b). Pub. L. 110–326, §206, inserted “conspires to commit or” after “Whoever”.
+
+Subsec. (c)(2)(A). Pub. L. 110–326, §204(a)(2)(A), struck out “(a)(5)(A)(iii),” after “(a)(3),”.
+
+Subsec. (c)(3)(B). Pub. L. 110–326, §204(a)(2)(B), struck out “(a)(5)(A)(iii),” after “(a)(4),”.
+
+Subsec. (c)(4). Pub. L. 110–326, §204(a)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) related to fines and imprisonment for intentionally or recklessly causing damage to a protected computer without authorization.
+
+Subsec. (c)(5). Pub. L. 110–326, §204(a)(2)(D), struck out par. (5) which related to fine or imprisonment for knowingly or recklessly causing or attempting to cause serious bodily injury or death from certain conduct damaging a protected computer.
+
+Subsec. (e)(2)(B). Pub. L. 110–326, §207, inserted “or affecting” after “which is used in”.
+
+Subsec. (g). Pub. L. 110–326, §204(a)(3)(B), in the third sentence, substituted “subsection (c)(4)(A)(i)(I)” for “subsection (a)(5)(B)(i)”.
+
+Pub. L. 110–326, §204(a)(3)(A), which directed substitution of “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)” for “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” in the second sentence, was executed by making the substitution for “in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” to reflect the probable intent of Congress.
+
+Subsecs. (i), (j). Pub. L. 110–326, §208, added subsecs. (i) and (j).
 
 2002—Subsec. (a)(5)(B). Pub. L. 107–273, §4005(a)(3), realigned margins.
 
@@ -328,7 +408,15 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Section 2103 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “subclause”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be followed by a period.</i>
 

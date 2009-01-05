@@ -2,7 +2,7 @@
 
 #### (a) Authorization to award competitive grants; covered institutions, businesses, etc.; purposes
 
-The Foundation is authorized, in accordance with the provisions of this subchapter, to award competitive grants to institutions of higher education, businesses, nonprofit private organizations, local education agencies, professional engineering and scientific associations, museums,libraries, public broadcasting entities (as defined in section 397(11) of title 47), and appropriate State agencies—
+The Foundation is authorized, in accordance with the provisions of this subchapter, to award competitive grants to institutions of higher education, businesses, nonprofit private organizations, local education agencies, professional engineering and scientific associations, museums, libraries, public broadcasting entities (as defined in section 397(11) of title 47), and appropriate State agencies—
 
 &emsp;(1) for instructional curriculum improvement and faculty development in mathematics, science, and engineering;
 

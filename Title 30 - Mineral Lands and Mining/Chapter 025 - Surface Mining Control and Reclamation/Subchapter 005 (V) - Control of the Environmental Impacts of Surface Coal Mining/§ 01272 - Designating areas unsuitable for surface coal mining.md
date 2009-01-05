@@ -4,7 +4,7 @@
 
 (1) To be eligible to assume primary regulatory authority pursuant to section 1253 of this title, each State shall establish a planning process enabling objective decisions based upon competent and scientifically sound data and information as to which, if any, land areas of a State are unsuitable for all or certain types of surface coal mining operations pursuant to the standards set forth in paragraphs (2) and (3) of this subsection but such designation shall not prevent the mineral exploration pursuant to the chapter of any area so designated.
 
-(2) Upon petition pursuant to subsection (c) of this section, the State regulatory authority shall designate an area as unsuitable for all or certain types of surface coal mining operations if the State regulatory authority determines that reclamation pursuant to the requirements of this chapter is not technologically and economically feasible.
+(2) Upon petition pursuant to subsection (c) of this section, the State regulatory authority shall designate an area as unsuitable for all or certain types of surface coal mining operationsif the State regulatory authority determines that reclamation pursuant to the requirements of this chapter is not technologically and economically feasible.
 
 (3) Upon petition pursuant to subsection (c) of this section, a surface area may be designated unsuitable for certain types of surface coal mining operations if such operations will—
 
@@ -36,7 +36,7 @@ The Secretary shall conduct a review of the Federal lands to determine, pursuant
 
 #### (c) Petition; intervention; decision
 
-Any person having an interest which is or may be adversely affected shall have the right to petition the regulatory authority to have an area designated as unsuitable for surface coal mining operations, or to have such a designation terminated. Such a petition shall contain allegations of facts with supporting evidence which wouldtend to establish the allegations. Within ten months after receipt of the petition the regulatory authority shall hold a public hearing in the locality of the affected area, after appropriate notice and publication of the date, time, and location of such hearing. After a person having an interest which is or may be adversely affected has filed a petition and before the hearing, as required by this subsection, any person may intervene by filing allegations of facts with supporting evidence which would tend to establish the allegations. Within sixty days after such hearing, the regulatory authority shall issue and furnish to the petitioner and any other party to the hearing, a written decision regarding the petition, and the reasons therefore.<sup>1</sup> In the event that all the petitioners stipulate agreement prior to the requested hearing, and withdraw their request, such hearing need not be held.
+Any person having an interest which is or may be adversely affected shall have the right to petition the regulatory authority to have an area designated as unsuitable for surface coal mining operations, or to have such a designation terminated. Such a petition shall contain allegations of facts with supporting evidence which would tend to establish the allegations. Within ten months after receipt of the petition the regulatory authority shall hold a public hearing in the locality of the affected area, after appropriate notice and publication of the date, time, and location of such hearing. After a person having an interest which is or may be adversely affected has filed a petition and before the hearing, as required by this subsection, any person may intervene by filing allegations of facts with supporting evidence which would tend to establish the allegations. Within sixty days after such hearing, the regulatory authority shall issue and furnish to the petitioner and any other party to the hearing, a written decision regarding the petition, and the reasons therefore.<sup>1</sup> In the event that all the petitioners stipulate agreement prior to the requested hearing, and withdraw their request, such hearing need not be held.
 
 #### (d) Statement
 
@@ -48,7 +48,7 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;(1) on any lands within the boundaries of units of the National Park System, the National Wildlife Refuge Systems, the National System of Trails, the National Wilderness Preservation System, the Wild and Scenic Rivers System, including study rivers designated under section 1276(a) of title 16 and National Recreation Areas designated by Act of Congress;
 
-&emsp;(2) on any Federal lands within the boundaries of any national forest: <i>Provided, however</i>, That surface coal mining operations may be permitted on such lands if the Secretary finds that there are no significant recreational, timber, economic, or other values which may be incompatible with such surface mining operations and—
+&emsp;(2) on any Federal lands within the boundaries of any national forest: <i>Provided, however</i>, That surface coal mining operations may bepermitted on such lands if the Secretary finds that there are no significant recreational, timber, economic, or other values which may be incompatible with such surface mining operations and—
 
 &emsp;&emsp;(A) surface operations and impacts are incident to an underground coal mine; or
 

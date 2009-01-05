@@ -50,7 +50,7 @@
 
 (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(<i>o</i>), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L.96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 483; Pub. L. 90–57, §105(h), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, §214(<i>o</i>), Dec. 16, 1967. 81 Stat. 637; Pub. L. 91–510, title IV, §477(d), Oct. 26, 1970, 84 Stat. 1195; Pub. L. 93–140, §23, Oct. 26, 1973, 87 Stat. 508; Pub. L. 93–145, §101, Nov. 1, 1973, 87 Stat. 532; Pub. L. 94–183, §2(21), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 94–440, title I, §103, Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–186, title II, §215(7), Aug. 20, 1996, 110 Stat. 1745.)
 
 Historical and Revision Notes
 
@@ -136,13 +136,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
+2009—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2009, to the figure “$32,515”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, set out as a note under section 60a–1 of Title 2, The Congress.
+
 2008—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2008, to the figure “$31,906”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, set out as a note under section 60a–1 of Title 2, The Congress.
 
 2007—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2007, to the figure “$30,827”, see section 9 of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under section 60a–1 of Title 2.
 
 2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, formerly set out as a note under section 60a–1 of Title 2.
 
-2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to thefigure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under section 60a–1 of Title 2.
+2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under section 60a–1 of Title 2.
 
 2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -202,7 +204,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under section 60a–1 of Title 2.
 
-1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to thefigure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of Title 2.
+1968—The figure “6,256” in subsection (c)(1)(A) of this section deemed to refer, on and after July 1, 1968, to the figure “6,622”, see section 1(i) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of Title 2.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

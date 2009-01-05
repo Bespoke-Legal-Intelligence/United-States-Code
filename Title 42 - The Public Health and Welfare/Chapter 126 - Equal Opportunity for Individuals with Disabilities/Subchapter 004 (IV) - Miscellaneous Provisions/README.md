@@ -10,6 +10,7 @@
 - [&sect; 12203 - Prohibition against retaliation and coercion](%C2%A7%2012203%20-%20Prohibition%20against%20retaliation%20and%20coercion.md)
 - [&sect; 12204 - Regulations by Architectural and Transportation Barriers Compliance Board](%C2%A7%2012204%20-%20Regulations%20by%20Architectural%20and%20Transportation%20Barriers%20Compliance%20Board.md)
 - [&sect; 12205 - Attorney's fees](%C2%A7%2012205%20-%20Attorney%27s%20fees.md)
+- [&sect; 12205a - Rule of construction regarding regulatory authority](%C2%A7%2012205a%20-%20Rule%20of%20construction%20regarding%20regulatory%20authority.md)
 - [&sect; 12206 - Technical assistance](%C2%A7%2012206%20-%20Technical%20assistance.md)
 - [&sect; 12207 - Federal wilderness areas](%C2%A7%2012207%20-%20Federal%20wilderness%20areas.md)
 - [&sect; 12208 - Transvestites](%C2%A7%2012208%20-%20Transvestites.md)

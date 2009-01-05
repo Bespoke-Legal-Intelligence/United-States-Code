@@ -46,7 +46,7 @@
 | Three-quarter time | 228 | 266 | 303 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 |
 | Half-time | 152 | 178 | 202 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 |
 
-(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
+(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has “already qualified,” aveteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
 
 (2) A veteran pursuing refresher training under this subsection shall be paid an educational assistance allowance based upon the rate prescribed in the table in subsection (a)(1) or in subsection (c)(2) of this section, whichever is applicable.
 
@@ -70,7 +70,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, which was classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, whichwas classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Subsec. (c)(2). Pub. L. 90–631, §3(a), substituted provisions charging the pe
 
 Subsec. (d). Pub. L. 90–631, §3(b)(2), inserted requirement that the “farm cooperative” program consist of institutional agricultural courses prescheduled to fall within 44 weeks of any period of 12 consecutive months, inserted provisions making veterans pursuing programs of 6 or 9 clock hours per week eligible to receive an educational assistance allowance, and substituted provisions that the appropriate rate for such allowance shall be as provided in the table set out in subsec. (d)(2) of this section for provisions that the appropriate rate shall be as provided in the table set out in subsec. (a)(1) of this section opposite the word “Cooperative” under Column I of such table.
 
-1967—Subsec. (a)(1). Pub. L. 90–77, §301(a), (b), included in text preceding the table references to subsec. (d) of this section, sections 1677 and 1683 of this title, and column V; and, increased the monthly educational assistance allowance in column II from $100, $75, $50, and $80 to $130, $95, $60, and $105; in column III from$125, $95, $65, and $100 to $155, $115, $75, and $125; in column IV from $150, $115, $75, and $120 to $175, $135, $85, and $145 (restricting column IV to two dependents), and added column V (formerly covered in former column IV), respectively.
+1967—Subsec. (a)(1). Pub. L. 90–77, §301(a), (b), included in text preceding the table references to subsec. (d) of this section, sections 1677 and 1683 of this title, and column V; and, increased the monthly educational assistance allowance in column II from $100, $75, $50, and $80 to $130, $95, $60, and $105; in column III from $125, $95, $65, and $100 to $155, $115, $75, and $125; in column IV from $150, $115, $75, and $120 to $175, $135, $85, and $145 (restricting column IV to two dependents), and added column V (formerly covered in former column IV), respectively.
 
 Subsec. (b)(2)(B). Pub. L. 90–77, §301(c), substituted “$130” for “$100”.
 
@@ -206,7 +206,7 @@ Section 802(b) of Pub. L. 96–466 provided that:
 
 Amendment by sections 308 to 310 of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
-Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except asotherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1977 Amendment
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) to broaden the spectrum of toxicology information that is obtained on selected chemicals;
 
-&emsp;(3) to develop and validate assays and protocols, including alternative methods that canreduce or eliminate the use of animals in acute or chronic safety testing;
+&emsp;(3) to develop and validate assays and protocols, including alternative methods that can reduce or eliminate the use of animals in acute or chronic safety testing;
 
 &emsp;(4) to establish criteria for the validation and regulatory acceptance of alternative testing and to recommend a process through which scientifically validated alternative methods can be accepted for regulatory use;
 

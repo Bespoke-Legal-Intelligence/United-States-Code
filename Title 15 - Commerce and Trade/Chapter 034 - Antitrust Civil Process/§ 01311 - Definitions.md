@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(d) The term “antitrust violation” means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
 
-&emsp;(e) The term “antitrust investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any antitrust law;
+&emsp;(e) The term “antitrust investigator” means any attorney or investigator employed by the Department of Justice who is charged with theduty of enforcing or carrying into effect any antitrust law;
 
 &emsp;(f) The term “person” means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law;
 

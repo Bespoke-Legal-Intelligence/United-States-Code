@@ -2,7 +2,7 @@
 
 #### (a) Technical assistance
 
-The Secretary may provide training and technical assistance to States with respect to the planning, development, and operation of anyprogram or service carried out pursuant to this part. The Secretary may provide such technical assistance directly or through grants or contracts.
+The Secretary may provide training and technical assistance to States with respect to the planning, development, and operation of any program or service carried out pursuant to this part. The Secretary may provide such technical assistance directly or through grants or contracts.
 
 #### (b) Provision by Secretary of supplies and services in lieu of grant funds
 

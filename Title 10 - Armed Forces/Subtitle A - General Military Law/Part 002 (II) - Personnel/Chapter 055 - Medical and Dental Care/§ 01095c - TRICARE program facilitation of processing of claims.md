@@ -14,7 +14,7 @@ Reduction of Processing Time.—(1) With respect to claims for payment for medic
 
 (b)
 
-Requirement to Provide Start-Up Time For Certain Contractors.—(1) Except as provided in paragraph (3), the Secretary of Defense shall not require that a contractor described in paragraph (2) begin to provide managed caresupport pursuant to a contract to provide such support under the TRICARE program until at least nine months after the date of the award of the contract, but in no case later than one year after the date of such award.
+Requirement to Provide Start-Up Time For Certain Contractors.—(1) Except as provided in paragraph (3), the Secretary of Defense shall not require that a contractor described in paragraph (2) begin to provide managed care support pursuant to a contract to provide such support under the TRICARE program until at least nine months after the date of the award of the contract, but in no case later than one year after the date of such award.
 
 (2) A contractor under this paragraph is a contractor who is awarded a contract to provide managed care support under the TRICARE program—
 

@@ -8,7 +8,7 @@ There is authorized to be appropriated to the Fund and to the Secretary a total 
 
 Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 100–478, title II, §2306, Oct. 7, 1988, 102 Stat. 2323; Pub. L. 102–440, title III, §302, Oct. 23,1992, 106 Stat. 2234; Pub. L. 105–217, §2, Aug. 5, 1998, 112 Stat. 911; Pub. L. 107–111, §§2, 3, Jan. 8, 2002, 115 Stat. 2095; Pub. L. 107–141, §5(b)(2)(B), Feb. 12, 2002, 116 Stat. 14; Pub. L. 110–132, §2(b), (c), Dec. 6, 2007, 121 Stat. 1360.)
+(Pub. L. 100–478, title II, §2306, Oct. 7, 1988, 102 Stat. 2323; Pub. L. 102–440, title III, §302, Oct. 23, 1992, 106 Stat. 2234; Pub. L. 105–217, §2, Aug. 5, 1998, 112 Stat. 911; Pub. L. 107–111, §§2, 3, Jan. 8, 2002, 115 Stat. 2095; Pub. L. 107–141, §5(b)(2)(B), Feb. 12, 2002, 116 Stat. 14; Pub. L. 110–132, §2(b), (c), Dec. 6, 2007, 121 Stat. 1360.)
 
 #### Amendments
 

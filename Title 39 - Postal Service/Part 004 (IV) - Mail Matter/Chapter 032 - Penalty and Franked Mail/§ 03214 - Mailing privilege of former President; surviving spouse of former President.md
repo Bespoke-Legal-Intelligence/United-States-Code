@@ -2,7 +2,7 @@
 
 A former President and the surviving spouse of a former President may send nonpolitical mail within the United States and its territories and possessions as franked mail. Such mail of a former President and of the surviving spouse of a former President marked “Postage and Fees Paid” in the manner prescribed by the Postal Service shall be accepted by the Postal Service for transmission in the international mails.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L.103–123, title IV, §6(b), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 105–61, title IV, §409(b), Oct. 10, 1997, 111 Stat. 1299.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L. 103–123, title IV, §6(b), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 105–61, title IV, §409(b), Oct. 10, 1997, 111 Stat. 1299.)
 
 #### Amendments
 

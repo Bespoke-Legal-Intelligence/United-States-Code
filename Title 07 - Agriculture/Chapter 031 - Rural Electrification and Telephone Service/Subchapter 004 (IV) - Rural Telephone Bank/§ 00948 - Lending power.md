@@ -24,9 +24,9 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(C) The rate determined under this subparagraph shall be—
 
-&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made, the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
+&emsp;&emsp;(i) for the period beginning on the date the advance is made and ending at the close of the fiscal year in which the advance is made,the average yield (on the date of the advance) on outstanding marketable obligations of the United States having a final maturity comparable to the final maturity of the advance; and
 
-&emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate forsuch fiscal year, as determined under subparagraph (D).
+&emsp;&emsp;(ii) after the fiscal year in which the advance is made, the cost of money rate for such fiscal year, as determined under subparagraph (D).
 
 &emsp;(D) Within 30 days after the end of each fiscal year, the Governor shall determine to the nearest 0.01 percent the cost of money rate for the fiscal year, by calculating the sum of the results of the following calculations:
 

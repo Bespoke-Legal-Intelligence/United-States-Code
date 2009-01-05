@@ -120,7 +120,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 &emsp;&emsp;&emsp;(ii) the reason the exception was invoked; and
 
-&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, theavailability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board.
+&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board.
 
 #### (2) Time for notice
 

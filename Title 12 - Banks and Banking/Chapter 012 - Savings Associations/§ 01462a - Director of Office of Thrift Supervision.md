@@ -26,7 +26,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (1) Appointment
 
-&emsp;The Director shall be appointed by the President, by and with the advice and consentof the Senate, from among individuals who are citizens of the United States.
+&emsp;The Director shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States.
 
 #### (2) Term
 

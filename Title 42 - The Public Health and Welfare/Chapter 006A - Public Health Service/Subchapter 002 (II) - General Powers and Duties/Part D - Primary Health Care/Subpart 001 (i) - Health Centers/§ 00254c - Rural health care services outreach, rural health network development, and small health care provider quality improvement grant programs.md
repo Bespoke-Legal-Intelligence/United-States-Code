@@ -180,7 +180,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (4) Expenditures for small health care provider quality improvement grants
 
-&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds made available through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
+&emsp;In awarding a grant under this subsection, the Director shall ensure that the funds madeavailable through the grant will be used to provide services to residents of rural areas. The Director shall award not less than 50 percent of the funds made available under this subsection to providers located in and serving rural areas.
 
 #### (h) General requirements
 
@@ -210,15 +210,17 @@ Not later than September 30, 2005, the Secretary shall prepare and submit to the
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+There are authorized to be appropriated to carry out this section $45,000,000 for each of fiscal years 2008 through 2012.
 
-(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021.)
+(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §4, Oct. 8, 2008, 122 Stat. 3994.)
 
 #### Prior Provisions
 
 A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 #### Amendments
+
+2008—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
 2003—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”.
 

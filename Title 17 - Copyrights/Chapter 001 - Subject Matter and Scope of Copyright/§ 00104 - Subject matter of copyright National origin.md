@@ -52,7 +52,7 @@ The third of these conditions represents a treaty obligation of the United State
 
 1998—Subsec. (b). Pub. L. 105–304, §102(b)(1)(G), inserted concluding provisions.
 
-Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
+Subsec. (b)(1). Pub. L. 105–304, §102(b)(1)(A), substituted “treaty party” for “foreign nation that is aparty to a copyright treaty to which the United States is also a party”.
 
 Subsec. (b)(2). Pub. L. 105–304, §102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
 

@@ -44,7 +44,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 “(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. The Federal AdvisoryCommittee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 “(b)
 
@@ -52,7 +52,7 @@ Membership.—
 
 &emsp;“(1)
 
-Appointment.—The Commission shall be composed of 16 members appointed by the President from among individuals described in paragraph (2) who areknowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
+Appointment.—The Commission shall be composed of 16 members appointed by the President from among individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
 
 &emsp;“(2)
 

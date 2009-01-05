@@ -16,7 +16,7 @@ The principal office of the Commission shall be in the District of Columbia. Whe
 
 #### (e) Functions and duties of Chairman; appointment and compensation of administrative law judges and other employees
 
-The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission and shall appoint such administrative law judges and other employees as he deems necessary to assist in the performance of the Commission's functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification andGeneral Schedule pay rates: <i>Provided</i>, That assignment, removal and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
+The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission and shall appoint such administrative law judges and other employees as he deems necessary to assist in the performance of the Commission's functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
 
 #### (f) Quorum; official action
 
@@ -24,7 +24,7 @@ For the purpose of carrying out its functions under this chapter, two members of
 
 #### (g) Hearings and records open to public; promulgation of rules; applicability of Federal Rules of Civil Procedure
 
-Every official act of the Commission shall be entered of record, and its hearings and records shall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
+Every official act of the Commission shall be entered of record, and its hearings and recordsshall be open to the public. The Commission is authorized to make such rules as are necessary for the orderly transaction of its proceedings. Unless the Commission has adopted a different rule, its proceedings shall be in accordance with the Federal Rules of Civil Procedure.
 
 #### (h) Depositions and production of documentary evidence; fees
 

@@ -68,7 +68,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 (a) to balances of third countries and their nationals accumulated before this paragraph (ii) becomes effective; or
 
-(b) to restrictions imposed in conformity with the Articles of Agreement of the International Monetary Fund, provided that the Governments of the United Kingdom and the United States will not continue to invoke the provisions of Article XIV, Section 2 of those Articles after this paragraph (ii) becomes effective, unless in exceptional cases after consultation they agree otherwise; or
+(b) to restrictions imposed in conformity with the Articles of Agreement of the International Monetary Fund, provided that the Governments of the United Kingdom and the United States will not continue to invoke the provisions of Article XIV, Section 2 of thoseArticles after this paragraph (ii) becomes effective, unless in exceptional cases after consultation they agree otherwise; or
 
 (c) to restrictions imposed in connection with measures designed to uncover and dispose of assets of Germany and Japan.
 

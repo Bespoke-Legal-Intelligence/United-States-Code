@@ -112,7 +112,7 @@
 
 &emsp;The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 450b of title 25.
 
-(July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXIII, §3304, Oct. 17, 2000, 114 Stat. 1212.)
+(July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXIII, §3304, Oct. 17, 2000, 114 Stat. 1212.)
 
 #### References in Text
 

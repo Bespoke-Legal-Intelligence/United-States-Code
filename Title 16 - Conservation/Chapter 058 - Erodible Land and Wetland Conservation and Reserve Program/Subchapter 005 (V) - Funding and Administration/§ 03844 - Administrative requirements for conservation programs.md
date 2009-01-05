@@ -1,12 +1,26 @@
 ### §3844. Administrative requirements for conservation programs
 
-#### (a) Beginning farmers and ranchers and Indian tribes
+#### (a) Incentives for certain farmers and ranchers and Indian tribes
 
-In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers andIndian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+#### (1) Incentives authorized
 
-&emsp;(1) foster new farming and ranching opportunities; and
+&emsp;In carrying out any conservation program administered by the Secretary, the Secretary may provide to a person or entity specified in paragraph (2) incentives to participate in the conservation program—
 
-&emsp;(2) enhance environmental stewardship over the long term.
+&emsp;&emsp;(A) to foster new farming and ranching opportunities; and
+
+&emsp;&emsp;(B) to enhance long-term environmental goals.
+
+#### (2) Covered persons
+
+&emsp;Incentives authorized by paragraph (1) may be provided to the following:
+
+&emsp;&emsp;(A) Beginning farmers or ranchers.
+
+&emsp;&emsp;(B) Socially disadvantaged farmers or ranchers.
+
+&emsp;&emsp;(C) Limited resource farmers or ranchers.
+
+&emsp;&emsp;(D) Indian tribes.
 
 #### (b) Privacy of personal information relating to natural resources conservation programs
 
@@ -24,7 +38,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 &emsp;&emsp;The information referred to in subparagraph (A) is information—
 
-&emsp;&emsp;&emsp;(i) provided to the Secretary or a contractor of the Secretary (including information provided under subchapter IV of this chapter) for the purpose of providing technical or financial assistance to an owner, operator, or producer with respect to any natural resources conservation program administered by the Natural Resources Conservation Service or the Farm Service Agency; and
+&emsp;&emsp;&emsp;(i) provided to the Secretary or a contractor of the Secretary (including information provided under subchapter IV) for the purpose of providing technical or financial assistance to an owner, operator, or producer with respect to any natural resources conservation program administered by the Natural Resources Conservation Service or the Farm Service Agency; and
 
 &emsp;&emsp;&emsp;(ii) that is proprietary (within the meaning of section 552(b)(4) of title 5) to the agricultural operation or land that is a part of an agricultural operation of the owner, operator, or producer.
 
@@ -80,27 +94,147 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 &emsp;&emsp;(A) affects any procedure for data collection or disclosure through the National Resources Inventory; or
 
-&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to review information collected or disclosed under this subsection.
+&emsp;&emsp;(B) limits the authority of Congress or the Government Accountability Office to reviewinformation collected or disclosed under this subsection.
 
-(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+#### (c) Plans
+
+The Secretary shall, to the extent practicable, avoid duplication in—
+
+&emsp;(1) the conservation plans required for—
+
+&emsp;&emsp;(A) highly erodible land conservation under subchapter II;
+
+&emsp;&emsp;(B) the conservation reserve program established under subpart B of part I of subchapter IV; and
+
+&emsp;&emsp;(C) the wetlands reserve program established under subpart C of part I of subchapter IV; and
+
+&emsp;(2) the environmental quality incentives program established under part IV of subchapter IV.
+
+#### (d) Tenant protection
+
+Except for a person who is a tenant on land that is subject to a conservation reserve contract that has been extended by the Secretary, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing, on a fair and equitable basis, in payments under the programs established under subchapters II through IV.
+
+#### (e) Provision of technical assistance by other sources
+
+In the preparation and application of a conservation compliance plan under subchapter II or similar plan required as a condition for assistance from the Department of Agriculture, the Secretary shall permit persons to secure technical assistance from approved sources, as determined by the Secretary, other than the Natural Resources Conservation Service. If the Secretary rejects a technical determination made by such a source, the basis of the Secretary's determination must be supported by documented evidence.
+
+#### (f) Acreage limitations
+
+#### (1) Limitations
+
+#### (A) Enrollments
+
+&emsp;&emsp;The Secretary shall not enroll more than 25 percent of the cropland in any county in the programs administered under subparts B and C of part I of subchapter IV.
+
+#### (B) Easements
+
+&emsp;&emsp;Not more than 10 percent of the cropland in a country <sup>1</sup> may be subject to an easement acquired under subpart C of part I of subchapter IV.
+
+#### (2) Exceptions
+
+&emsp;The Secretary may exceed the limitation in paragraph (1)(A), if the Secretary determines that—
+
+&emsp;&emsp;(A) the action would not adversely affect the local economy of a county; and
+
+&emsp;&emsp;(B) operators in the county are having difficulties complying with conservation plans implemented under section 3812 of this title.
+
+#### (3) Waiver to exclude certain acreage
+
+&emsp;The Secretary may grant a waiver to exclude acreage enrolled under subsection (c)(2)(B) or (f)(4) of section 3834 of this title from the limitations in paragraph (1)(A) with the concurrence of the county government of the county involved.
+
+#### (4) Shelterbelts and windbreaks
+
+&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart C of part I of subchapter IV <sup>2</sup> that is used for the establishment of shelterbelts and windbreaks.
+
+#### (g) Compliance and performance
+
+For each conservation program under subchapter IV, the Secretary shall develop procedures—
+
+&emsp;(1) to monitor compliance with program requirements;
+
+&emsp;(2) to measure program performance;
+
+&emsp;(3) to demonstrate whether the long-term conservation benefits of the program are being achieved;
+
+&emsp;(4) to track participation by crop and livestock types; and
+
+&emsp;(5) to coordinate activities described in this subsection with the national conservation program authorized under section 2004 of this title.
+
+#### (h) Encouragement of pollinator habitat development and protection
+
+In carrying out any conservation program administered by the Secretary, the Secretary may, as appropriate, encourage—
+
+&emsp;(1) the development of habitat for native and managed pollinators; and
+
+&emsp;(2) the use of conservation practices that benefit native and managed pollinators.
+
+#### (i) Streamlined application process
+
+#### (1) In general
+
+&emsp;In carrying out each conservation program under this chapter, the Secretary shall ensure that the application process used by producers and landowners is streamlined to minimize complexity and eliminate redundancy.
+
+#### (2) Review and streamlining
+
+#### (A) Review
+
+&emsp;&emsp;The Secretary shall carry out a review of the application forms and processes for each conservation program covered by this subsection.
+
+#### (B) Streamlining
+
+&emsp;&emsp;On completion of the review the Secretary shall revise application forms and processes, as necessary, to ensure that—
+
+&emsp;&emsp;&emsp;(i) all required application information is essential for the efficient, effective, and accountable implementation of conservation programs;
+
+&emsp;&emsp;&emsp;(ii) conservation program applicants are not required to provide information that is readily available to the Secretary through existing information systems of the Department of Agriculture;
+
+&emsp;&emsp;&emsp;(iii) information provided by the applicant is managed and delivered efficiently for use in all stages of the application process, or for multiple applications; and
+
+&emsp;&emsp;&emsp;(iv) information technology is used effectively to minimize data and information input requirements.
+
+#### (3) Implementation and notification
+
+&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+
+(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title II, §§2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, §4(a), title II, §§2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(D)(ii), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (b)(2)(D)(ii) and (i)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
+Subpart C of part I of subchapter IV, referred to in subsec. (f)(4), was in the original “subchapter C of chapter 1”, and was translated as meaning “subchapter C of chapter 1 of subtitle D” to reflect the probable intent of Congress.
+
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+The text of section 3843(a), (c), and (d) of this title, which was transferred to this section and redesignated as subsecs. (c), (d), and (e), respectively, by Pub. L. 110–246, §2707(a), was based on Pub. L. 99–198, title XII, §1243(a), (c), (d), as added Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008, 1009.
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
-Prior sections 3844 and 3845 were omitted in the general amendment of this subchapter by Pub. L. 104–127.
-
-Section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Stat. 1515, related to issuance of regulations to carry out subchapters I to V of this chapter.
-
-Section 3845, Pub. L. 99–198, title XII, §1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, §1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, §516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations.
-
-A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
-
-A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
+A prior section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Stat. 1515, related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–246, §2708(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “In carrying out any conservation program administered by the Secretary, the Secretary may provide to beginning farmers and ranchers and Indian tribes (as those terms are defined in section 3838 of this title) and limited resource agricultural producers incentives to participate in the conservation program to—
+
+&emsp;“(1) foster new farming and ranching opportunities; and
+
+&emsp;“(2) enhance environmental stewardship over the long term.”
+
+Subsecs. (c) to (e). Pub. L. 110–246, §2707(a), transferred subsecs. (a), (c), and (d) of section 3843 of this title and redesignated them as subsecs. (c) to (e), respectively, of this section. See Codification note above.
+
+Subsecs. (f) to (i). Pub. L. 110–246, §2708(2), added subsecs. (f) to (i).
+
 2004—Subsec. (b)(4)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “county”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

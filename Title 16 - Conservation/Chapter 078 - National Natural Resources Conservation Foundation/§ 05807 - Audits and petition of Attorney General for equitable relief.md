@@ -10,7 +10,7 @@
 
 #### (b) Relief with respect to certain Foundation acts or failure to act
 
-The Attorney General may petition in the United States District Court for the District ofColumbia for such equitable relief as may be necessary or appropriate, if the Foundation—
+The Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate, if the Foundation—
 
 &emsp;(1) engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with this chapter; or
 

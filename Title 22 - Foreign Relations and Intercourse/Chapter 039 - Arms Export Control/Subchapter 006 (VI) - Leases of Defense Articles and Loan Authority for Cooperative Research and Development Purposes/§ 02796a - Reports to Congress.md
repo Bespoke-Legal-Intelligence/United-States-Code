@@ -20,17 +20,19 @@ The President may waive the requirements of this section (and in the case of an 
 
 The certification required by subsection (a) of this section shall be transmitted—
 
-&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, or New Zealand; and
+&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, the Republic of Korea, or New Zealand; and
 
 &emsp;(2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432.)
+(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
 
 1996—Subsec. (a). Pub. L. 104–164, §141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
 

@@ -20,7 +20,7 @@ Within 180 days after the date on which the Commercial Mobile Service Alert Advi
 
 #### (A) In general
 
-&emsp;&emsp;Within 30 days after the Commission issues its order under paragraph (1), each licensee providing commercial mobile service shall file an election with the Commission with respect to whether or not it intends to transmit emergency alerts.
+&emsp;&emsp;Within 30 days after the Commission issues its order under paragraph (1), each licenseeproviding commercial mobile service shall file an election with the Commission with respect to whether or not it intends to transmit emergency alerts.
 
 #### (B) Transmission standards; notification
 

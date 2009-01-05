@@ -6,7 +6,7 @@ This subchapter does not apply to the following:
 
 &emsp;(2) Transactions in securities or commodities accounts by a broker-dealer registered with the Securities and Exchange Commission.
 
-&emsp;(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer, in which the total amount financed exceeds $25,000.
+&emsp;(3) Credit transactions, other than those in which a security interest is or will be acquired in real property, or in personal property used or expected to be used as the principal dwelling of the consumer and other than private education loans (as that term is defined in section 1650(a) of this title), in which the total amount financed exceeds $25,000.
 
 &emsp;(4) Transactions under public utility tariffs, if the Board determines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
 
@@ -16,13 +16,15 @@ This subchapter does not apply to the following:
 
 &emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398.)
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488.)
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) ofchapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+2008—Par. (3). Pub. L. 110–315 inserted “and other than private education loans (as that term is defined in section 1650(a) of this title)” after “consumer”.
 
 1996—Pars. (5) to (7). Pub. L. 104–208 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 

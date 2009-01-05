@@ -10,7 +10,7 @@
 
 &emsp;(B) Any member of a uniformed service on active duty for training or inactive duty training scheduled in advance by competent authority.
 
-&emsp;(C) In the case of any member of the Ready Reserve of a uniformed service who meets the qualifications set forth in section 1965(5)(B) of this title—
+&emsp;(C) In the case of any member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title—
 
 &emsp;&emsp;(i) the member; and
 
@@ -42,7 +42,7 @@
 
 &emsp;(B) The beginning of a period of inactive duty training scheduled in advance by competent authority.
 
-&emsp;(C) The first day a member of the Ready Reserve meets the qualifications set forth in section 1965(5)(B) of this title.
+&emsp;(C) The first day a member of the Ready Reserve meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title.
 
 &emsp;(D) The date certified by the Secretary to the Secretary concerned as the date Servicemembers’ Group Life Insurance under this subchapter for the class or group concerned takes effect.
 
@@ -56,11 +56,11 @@
 
 &emsp;(2) who is rendered uninsurable at standard premium rates according to the good health standards approved by the Secretary, or dies within one hundred and twenty days thereafter, from a disability, or aggravation of a preexisting disability, incurred by such member while proceeding directly to or returning directly from such active duty, active duty for training, or inactive duty training as the case may be;
 
-> shall be deemed to have been on active duty, active duty for training, or inactive duty training, as the case may be, and to have been insured under this subchapter at the time such disability was incurred or aggravated, and if death occurs within one hundred and twenty days thereafter as a result of such disability to have been insured at the time of death. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such member was rendered uninsurable or died within one hundred and twenty days thereafter from a disability so incurred or aggravated, there shall be taken into accountthe call or order to duty, the orders and authorizations of competent authority, the hour on which the member began to so proceed or to return, the hour on which such member was scheduled to arrive for, or on which such member ceased to perform such duty; the method of travel employed; such member's itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+> shall be deemed to have been on active duty, active duty for training, or inactive duty training, as the case may be, and to have been insured under this subchapter at the time such disability was incurred or aggravated, and if death occurs within one hundred and twenty days thereafter as a result of such disability to have been insured at the time of death. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such member was rendered uninsurable or died within one hundred and twenty days thereafter from a disability so incurred or aggravated, there shall be taken into account the call or order to duty, the orders and authorizations of competent authority, the hour on which the member began to so proceed or to return, the hour on which such member was scheduled to arrive for, or on which such member ceased to perform such duty; the method of travel employed; such member's itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
 
 (c) If a person eligible for insurance under this subchapter is not so insured, or is insured for less than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans’ Group Life Insurance who again becomes eligible for Servicemembers’ Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans’ Group Life Insurance in effect shall upon termination of coverage under Veterans’ Group Life Insurance be automatically insured under Servicemembers’ Group Life Insurance, if otherwise eligible therefor.
 
-(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
+(d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member generalinformation concerning life insurance. Such information shall include—
 
 &emsp;(1) the purpose and role of life insurance in financial planning;
 
@@ -84,9 +84,11 @@
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### Amendments
+
+2008—Subsec. (a)(1)(C), (5)(C). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
 
 2005—Subsec. (a)(2)(A). Pub. L. 109–13, §1012(d), which directed insertion of “, except with respect to insurance provided under paragraph (3)(A)(i)(III)” before period at end, was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
@@ -245,6 +247,10 @@ Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members w
 Subsec. (b). Pub. L. 91–291 added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and inserted provisions reflecting the increase from $10,000 to $15,000 in maximum available insurance for members of uniformed services.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendments made by subsection (a) \[amending this section and section 1969 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 10, 2008\].”
 
 #### Effective and Termination Dates of 2005 Amendments
 

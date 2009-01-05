@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availabilityof primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -92,13 +92,13 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (h) “State” defined
 
-For purposes of this section, the term “State” means each of the several States.
+For purposes of this section, the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (i) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.
+&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
 
 #### (2) Availability
 
@@ -126,7 +126,7 @@ For purposes of this section, the term “State” means each of the several Sta
 
 &emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
-(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849.)
+(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
 
 #### References in Text
 
@@ -137,6 +137,10 @@ Section 254c of this title, referred to in subsec. (d)(1)(A), was in the origina
 A prior section 338I of act July 1, 1944, was classified to section 254r of this title prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 #### Amendments
+
+2008—Subsec. (h). Pub. L. 110–355, §3(e)(1), substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
+
+Subsec. (i)(1). Pub. L. 110–355, §3(e)(2), substituted “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.” for “2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
 2006—Subsec. (j). Pub. L. 109–417 added subsec. (j).
 

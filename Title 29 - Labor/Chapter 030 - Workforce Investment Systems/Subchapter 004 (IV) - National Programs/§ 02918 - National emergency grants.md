@@ -66,7 +66,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and RealignmentAct of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
 
 #### (d) Disaster relief employment assistance requirements
 
@@ -300,7 +300,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;In the case of an eligible alternative TAA recipient (as defined in section 35(c)(3) of title 26), such individual is either—
 
-&emsp;&emsp;&emsp;&emsp;(I) eligible for coverage under any qualified health insurance (other than insurance described in clause (i), (ii), or (vi) of paragraph (2)(A)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4) of such title) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or
+&emsp;&emsp;&emsp;&emsp;(I) eligible for coverage under any qualified health insurance (other than insurance described in clause (i), (ii), or (vi) of paragraph (2)(A)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4) ofsuch title) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or
 
 &emsp;&emsp;&emsp;&emsp;(II) covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse.
 
@@ -332,7 +332,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (2) Income support
 
-&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effecton the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
+&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
 
 #### (3) Health insurance coverage
 
@@ -368,7 +368,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 Section 1602 of this title, referred to in subsec. (e)(2)(A)(i), (3)(A), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(7)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare.Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002), referred to in subsec. (g)(2), (5), is chapter 2 of title II of Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, as in effect on the day before the effective date of Pub. L. 107–210. Chapter 2 of title II of Pub. L. 93–618 is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For effective date provisions applicable to certain amendments by Pub. L. 107–210 to chapter 2 of title II of Pub. L. 93–618, see Effective Date of 2002 Amendment note set out preceding section 2271 of Title 19. For complete classification of Pub. L. 93–618 to the Code, see section 2101 of Title 19 and Tables.
 

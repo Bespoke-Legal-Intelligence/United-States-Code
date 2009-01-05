@@ -20,7 +20,7 @@ Before taking any action with respect to an application submitted under this cha
 
 #### Environmental Best Management Practices for Preparing Vessels for Use as Artificial Reefs
 
-Pub. L. 107–314, div. C, title XXXV, §3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div. C, title XXXV, §3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
+Pub. L. 107–314, div. C, title XXXV, §3504(b), Dec. 2, 2002, 116 Stat. 2754, as amended by Pub. L. 108–136, div.C, title XXXV, §3516, Nov. 24, 2003, 117 Stat. 1795, provided that:
 
 “(1) Not later than March 31, 2004, the Secretary of Transportation, acting through the Maritime Administration, and the Administrator of the Environmental Protection Agency shall jointly develop guidance recommending environmental best management practices to be used in the preparation of vessels for use as artificial reefs.
 

@@ -18,7 +18,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) pay or compensation which may not be diminished under section 1 of Article III of the Constitution of the United States;
 
-&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 which would be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
+&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 whichwould be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
 
 &emsp;&emsp;(D) monthly annuity awarded under section 228b or 228e of title 45 before September 26, 1961, whether or not computed under section 228c(e) of title 45;
 

@@ -14,7 +14,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 &emsp;(1) register public accounting firms that prepare audit reports for issuers, in accordance with section 7212 of this title;
 
-&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation of audit reports for issuers, in accordance with section 7213 of this title;
+&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, andother standards relating to the preparation of audit reports for issuers, in accordance with section 7213 of this title;
 
 &emsp;(3) conduct inspections of registered public accounting firms, in accordance with section 7214 of this title and the rules of the Board;
 
@@ -78,7 +78,7 @@ In addition to any authority granted to the Board otherwise in this Act, the Boa
 
 &emsp;(1) to sue and be sued, complain and defend, in its corporate name and through its own counsel, with the approval of the Commission, in any Federal, State, or other court;
 
-&emsp;(2) to conduct its operations and maintain offices, and to exercise all other rights and powers authorized by this Act, in any State, without regard to any qualification, licensing, or other provision of law in effect in such State (or a political subdivision thereof);
+&emsp;(2) to conduct its operations and maintain offices, and to exercise all other rights andpowers authorized by this Act, in any State, without regard to any qualification, licensing, or other provision of law in effect in such State (or a political subdivision thereof);
 
 &emsp;(3) to lease, purchase, accept gifts or donations of or otherwise acquire, improve, use, sell, exchange, or convey, all of or an interest in any property, wherever situated;
 

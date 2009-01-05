@@ -46,9 +46,13 @@
 
 (e) For purposes of this section, the National Railroad Passenger Corporation and any entity providing commuter rail passenger transportation shall be considered rail carriers subject to the Board's jurisdiction.
 
-(f) For purposes of this section, the term “commuter rail passenger transportation” has the meaning given that term in section 24102(4).
+(f) For purposes of this section, the term “commuter rail passenger transportation” has the meaning given that term in section 24102(4).<sup>1</sup>
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 833; amended Pub. L. 108–199, div. F, title I, §150(1), Jan. 23, 2004, 118 Stat. 302.)
+
+#### References in Text
+
+Section 24102 of this title, referred to in subsec. (f), was subsequently amended, and section 24102(4) no longer defines “commuter rail passenger transportation”. However, such term is defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -65,4 +69,6 @@ Subsec. (b)(3). Pub. L. 108–199, §150(1)(B), designated existing provisions a
 Subsec. (c)(4). Pub. L. 108–199, §150(1)(C), added par. (4).
 
 Subsecs. (e), (f). Pub. L. 108–199, §150(1)(D), added subsecs. (e) and (f).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

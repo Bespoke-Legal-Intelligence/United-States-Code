@@ -2,7 +2,7 @@
 
 #### (a) Purposes of subgrants
 
-A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. In carrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
+A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. Incarrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
 
 &emsp;(1) Developing and implementing new language instruction educational programs and academic content instruction programs for such children, and such children and youth, including programs of early childhood education, elementary school programs, and secondary school programs.
 

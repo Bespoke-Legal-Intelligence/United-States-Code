@@ -24,3 +24,4 @@
 - [&sect; 08116 - Nursing home revolving fund](%C2%A7%2008116%20-%20Nursing%20home%20revolving%20fund.md)
 - [&sect; 08117 - Emergency preparedness](%C2%A7%2008117%20-%20Emergency%20preparedness.md)
 - [&sect; 08118 - Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund](%C2%A7%2008118%20-%20Authority%20for%20transfer%20of%20real%20property%3B%20Department%20of%20Veterans%20Affairs%20Capital%20Asset%20Fund.md)
+- [&sect; 08119 - Annual report on outpatient clinics](%C2%A7%2008119%20-%20Annual%20report%20on%20outpatient%20clinics.md)

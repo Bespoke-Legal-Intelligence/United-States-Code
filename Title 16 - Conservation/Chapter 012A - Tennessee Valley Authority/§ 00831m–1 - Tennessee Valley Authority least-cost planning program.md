@@ -30,7 +30,7 @@ The Tennessee Valley Authority shall conduct a least-cost planning program in ac
 
 &emsp;In conducting a least-cost planning program under subsection (a) of this section, the Tennessee Valley Authority shall—
 
-&emsp;&emsp;(A) provide an opportunity for distributors of the Tennessee Valley Authority to recommend cost-effective energy efficiency opportunities, rate structure incentives, andrenewable energy proposals for inclusion in such program; and
+&emsp;&emsp;(A) provide an opportunity for distributors of the Tennessee Valley Authority to recommend cost-effective energy efficiency opportunities, rate structure incentives, and renewable energy proposals for inclusion in such program; and
 
 &emsp;&emsp;(B) encourage and assist such distributors in the planning and implementation of cost-effective energy efficiency options.
 

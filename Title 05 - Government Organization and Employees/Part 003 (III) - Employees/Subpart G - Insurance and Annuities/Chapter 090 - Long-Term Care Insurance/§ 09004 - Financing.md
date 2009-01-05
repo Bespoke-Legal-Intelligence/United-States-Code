@@ -18,7 +18,7 @@ In general.—The amount necessary to pay the premiums for enrollment may—
 
 &emsp;&emsp;(C) in the case of a member of the uniformed services described in section 9001(3), be withheld from the pay of such member; and
 
-&emsp;&emsp;(D) in the case of a retired member of the uniformed services described in section 9001(4), be withheld from the retired pay or retainer pay payable to such member.
+&emsp;&emsp;(D) in the case of a retired member of the uniformed services described in section9001(4), be withheld from the retired pay or retainer pay payable to such member.
 
 &emsp;(2)
 

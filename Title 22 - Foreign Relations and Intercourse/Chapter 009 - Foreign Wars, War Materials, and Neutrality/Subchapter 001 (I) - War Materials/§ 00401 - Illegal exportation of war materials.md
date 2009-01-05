@@ -36,7 +36,7 @@ By virtue of the authority vested in me by section 1 of Title VI of the act of J
 
 Section 1. The Attorney General is hereby designated under section 1 of Title VI of the act of June 15, 1917, as amended by section 1 of the act of August 13, 1953 \[this section\], as a person duly authorized to seize and detain arms or munitions of war or other articles, and to seize and detain any vessel, vehicle, or aircraft containing such items or which has been, or is being, used in exporting or attempting to export such arms or munitions of war or other articles, whenever an attempt is made to export or ship from or take out of the United States such arms or munitions of war or other articles in violation of law, or whenever it is known, or there is probable cause to believe, that such arms or munitions of war or other articles are intended to be, or are being or have been, exported or removed from the United States in violation of law.
 
-Sec. 2. The authority conferred upon the Attorney General by section 1 of this order may be exercised by any officer of the Department of Justice designated for such purpose by the Attorney General.
+Sec. 2. The authority conferred upon the Attorney General by section 1 of this order may be exercised byany officer of the Department of Justice designated for such purpose by the Attorney General.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

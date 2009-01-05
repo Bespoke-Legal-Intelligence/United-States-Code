@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulationsthe Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
+&emsp;The procedures applicable to the regulations of the Board issued for the implementation of this chapter, which shall include regulations the Board is required to issue under subchapter II of this chapter (including regulations on the appropriate application of exemptions under the laws made applicable in subchapter II of this chapter) are as prescribed in this section.
 
 #### (2) Rulemaking procedure
 
@@ -26,7 +26,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (1) Proposal
 
-&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) of title 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
+&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) of title 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the CongressionalRecord on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i) of this section, the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii) of this section, and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii) of this section.
 
 #### (2) Comment
 

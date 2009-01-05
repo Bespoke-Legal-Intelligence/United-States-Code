@@ -18,7 +18,7 @@ Standards for Private Screening Companies.—The Under Secretary may enter into 
 
 &emsp;(1) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter; and
 
-&emsp;(2) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
+&emsp;(2) the private screening company is owned and controlled by a citizen of the UnitedStates, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
 
 (e)
 

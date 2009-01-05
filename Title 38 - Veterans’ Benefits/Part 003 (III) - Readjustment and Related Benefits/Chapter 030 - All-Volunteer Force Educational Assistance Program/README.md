@@ -26,7 +26,7 @@
 | [3018B.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018B%20-%20Opportunity%20for%20certain%20persons%20to%20enroll.md) | Opportunity for certain persons to enroll. |
 | [3018C.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018C%20-%20Opportunity%20for%20certain%20VEAP%20participants%20to%20enroll.md) | Opportunity for certain VEAP participants to enroll. |
 | [3019\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003019%20-%20Tutorial%20assistance.md) | Tutorial assistance. |
-| [3020\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003020%20-%20Transfer%20of%20entitlement%20to%20basic%20educational%20assistance%20members%20of%20the%20Armed%20Forces%20with%20critical%20military%20skills.md) | Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills. |
+| [3020\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003020%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members%20for%20career%20service%20members.md) | Authority to transfer unused education benefits to family members of career service members.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,6 +54,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–252, title V, §5006(e)(1), June 30, 2008, 122 Stat. 2386, added item 3020 and struck out former item 3020 “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills.”
 
 2002—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting “in high technology occupation in high technology industry” for “in high technology industry”.
 

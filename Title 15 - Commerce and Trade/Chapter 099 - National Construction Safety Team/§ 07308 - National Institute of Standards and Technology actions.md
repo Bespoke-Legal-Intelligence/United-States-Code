@@ -4,7 +4,7 @@ After the issuance of a public report under section 7307 of this title, the Nati
 
 &emsp;(1) conduct, or enable or encourage the conducting of, appropriate research recommended by the Team; and
 
-&emsp;(2) promote (consistent with existing procedures for the establishment of building standards, codes, and practices) the appropriate adoption by the Federal Government, and encourage the appropriate adoption by other agencies and organizations, of the recommendations of the Team with respect to—
+&emsp;(2) promote (consistent with existing procedures for the establishment of building standards, codes, and practices) the appropriateadoption by the Federal Government, and encourage the appropriate adoption by other agencies and organizations, of the recommendations of the Team with respect to—
 
 &emsp;&emsp;(A) technical aspects of evacuation and emergency response procedures;
 

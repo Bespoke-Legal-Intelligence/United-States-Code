@@ -38,6 +38,7 @@
 | [1637a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001637a%20-%20Disclosure%20requirements%20for%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Disclosure requirements for open end consumer credit plans secured by consumer's principal dwelling. |
 | [1638\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001638%20-%20Transactions%20other%20than%20under%20an%20open%20end%20credit%20plan.md) | Transactions other than under an open end credit plan. |
 | [1639\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639%20-%20Requirements%20for%20certain%20mortgages.md) | Requirements for certain mortgages. |
+| [1639a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001639a%20-%20Fiduciary%20duty%20of%20servicers%20of%20pooled%20residential%20mortgages.md) | Fiduciary duty of servicers of pooled residential mortgages. |
 | [1640\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001640%20-%20Civil%20liability.md) | Civil liability. |
 | [1641\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001641%20-%20Liability%20of%20assignees.md) | Liability of assignees. |
 | [1642\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001642%20-%20Issuance%20of%20credit%20cards.md) | Issuance of credit cards. |
@@ -48,6 +49,7 @@
 | [1647\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001647%20-%20Home%20equity%20plans.md) | Home equity plans. |
 | [1648\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001648%20-%20Reverse%20mortgages.md) | Reverse mortgages. |
 | [1649\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001649%20-%20Certain%20limitations%20on%20liability.md) | Certain limitations on liability. |
+| [1650\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001650%20-%20Preventing%20unfair%20and%20deceptive%20private%20educational%20lending%20practices%20and%20eliminating%20conflicts%20of%20interest.md) | Preventing unfair and deceptive private educational lending practices and eliminating conflicts of interest. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

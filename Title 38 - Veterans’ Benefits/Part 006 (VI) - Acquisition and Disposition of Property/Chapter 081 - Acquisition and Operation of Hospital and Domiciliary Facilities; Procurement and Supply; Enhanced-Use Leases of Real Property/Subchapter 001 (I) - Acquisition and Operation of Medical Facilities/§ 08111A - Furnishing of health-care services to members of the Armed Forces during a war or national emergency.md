@@ -2,7 +2,7 @@
 
 (a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
-(2)(A) During and immediately following a disaster or emergency referred to in subparagraph\(B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
+(2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
 
 (B) A disaster or emergency referred to in this subparagraph is any disaster or emergency as follows:
 

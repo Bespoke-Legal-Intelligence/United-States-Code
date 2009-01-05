@@ -28,7 +28,7 @@ Forest service” in the Act of March 4, 1913 (16 U.S.C. 501).
 
 &emsp;(8) Section 715s of this title.
 
-&emsp;(9) The Secure Rural Schools and Community Self-Determination Act of 2000 (Public Law 106–393; 16 U.S.C. 500 note), except that the exception made for such Act by this subsection is unique and is not intended to be construed as precedent for amounts collected from the use of Federal lands under any other provision of law.
+&emsp;(9) The Secure Rural Schools and Community Self-Determination Act of 2000 (Public Law 106–393; 16 U.S.C. 500 note),<sup>1</sup> except that the exception made for such Act by this subsection is unique and is not intended to be construed as precedent for amounts collected from the use of Federal lands under any other provision of law.
 
 &emsp;(10) Section 618a of title 43.
 
@@ -71,6 +71,8 @@ Section 6805 of this title, referred to in subsec. (b), was in the original a re
 The Act of August 8, 1937, referred to in subsec. (b)(5), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, as amended. Title II of the Act enacted section 1181f of Title 43, Public Lands, and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch. 144, 53 Stat. 753, which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43. For complete classification of this Act to the Code, see Tables.
+
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. Sections 1 to 3 and titles I to IV of the Act were set out as notes under section 500 of this title prior to the repeal and reenactment of sections 1 to 403 of the Act by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893–3910. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of this title and Tables.
 

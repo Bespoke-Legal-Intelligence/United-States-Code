@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
+&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to supportcooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
 
 #### (2) Eligible services
 
@@ -44,15 +44,21 @@ The Secretary of Agriculture shall award a competitive grant to a national priva
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2007.
+&emsp;Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2012.
 
 #### (2) National grant
 
 &emsp;Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.
 
-(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444.)
+(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444; Pub. L. 110–234, title VII, §7210, May 22, 2008, 122 Stat. 1241; Pub. L. 110–246, §4(a), title VII, §7210, June 18, 2008, 122 Stat. 1664, 2003.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–246, §7210, substituted “2012” for “2007”.
 
 2002—Subsec. (a)(6). Pub. L. 107–171, §7208(c), added par. (6).
 
@@ -69,4 +75,8 @@ Subsec. (b). Pub. L. 105–185, §246(2), struck out par. (1) designation and he
 Subsec. (c). Pub. L. 105–185, §246(3), added subsec. (c).
 
 1996—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted “1997” for “1996”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -6,7 +6,7 @@ Every person engaged in distilled spirits operations who fails to post the sign 
 
 #### (b) Posting or displaying false sign
 
-Every person, other than a distiller, warehouseman, or processor of distilled spirits who has received notice of registration of his plant under the provisions of section 5171(c), or other than a wholesale dealer in liquors who has paid the special tax (or who is exempt from payment of such special tax by reason of the provisions of section 5113(a)), who puts up or keeps up any sign indicating that he may lawfully carry on the business of a distiller, warehouseman, or processor of distilled spirits, or wholesale dealer in liquors, as the case may be, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+Every person, other than a distiller, warehouseman, or processor of distilled spirits who has received notice of registration of his plant under the provisions of section 5171(c), or other than a wholesale dealer in liquors who has paid the special tax (or who is exempt from payment of such special tax by reason of the provisions of section 5113(a)),<sup>1</sup> who puts up or keeps up any sign indicating that he may lawfully carry on the business of a distiller, warehouseman, or processor of distilled spirits, or wholesale dealer in liquors, as the case may be, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 #### (c) Premises where no sign is placed or kept
 
@@ -17,6 +17,10 @@ Every person who works in any distilled spirits plant on which no sign required 
 Whenever on trial for violation of subsection (c) by working in a distilled spirits plant on which no sign required by section 5180(a) is placed or kept, the defendant is shown to have been present at such premises, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, §807(a)(58), July 26, 1979, 93 Stat. 289; Pub. L. 105–34, title XIV, §1415(b)(1), (2), Aug. 5, 1997, 111 Stat. 1047.)
+
+#### References in Text
+
+Section 5113, referred to in subsec. (b), was repealed by Pub. L. 109–59, title XI, §11125(a)(1)(C), Aug. 10, 2005, 119 Stat. 1953.
 
 #### Prior Provisions
 
@@ -47,4 +51,6 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 #### Effective Date
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

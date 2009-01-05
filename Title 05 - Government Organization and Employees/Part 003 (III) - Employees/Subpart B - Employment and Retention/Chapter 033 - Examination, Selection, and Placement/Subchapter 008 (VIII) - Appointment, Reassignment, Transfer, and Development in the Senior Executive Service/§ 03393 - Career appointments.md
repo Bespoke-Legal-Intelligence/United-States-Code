@@ -6,13 +6,13 @@
 
 &emsp;(2) all groups of qualified individuals whether or not within the civil service.
 
-(b) Each agency shall establish one or more executive resources boards, as appropriate, the members of which shall be appointed by the head of the agency from among employees of the agency or commissioned officers of the uniformed services serving on active duty in such agency. The boards shall, in accordance with merit staffing requirements established by the Office, conduct the merit staffing process for career appointees, including—
+(b) Each agency shall establish one or more executive resources boards, as appropriate, the members of which shall be appointed by the head of the agency from among employees of the agency or commissioned officers of the uniformed services serving on active duty in such agency. The boards shall, in accordance withmerit staffing requirements established by the Office, conduct the merit staffing process for career appointees, including—
 
 &emsp;(1) reviewing the executive qualifications of each candidate for a position to be filled by a career appointee; and
 
 &emsp;(2) making written recommendations to the appropriate appointing authority concerning such candidates.
 
-(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of themembers of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
+(c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of the members of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
 
 (2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
 

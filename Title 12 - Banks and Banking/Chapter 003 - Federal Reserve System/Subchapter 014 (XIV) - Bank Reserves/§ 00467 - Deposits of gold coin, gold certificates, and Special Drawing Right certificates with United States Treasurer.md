@@ -4,29 +4,31 @@ The Secretary of the Treasury is authorized and directed to receive deposits of 
 
 The expenses necessarily incurred in carrying out these provisions, including the cost of the certificates or receipts issued for deposits received, and all expenses incident to the handling of such deposits shall be paid by the Board of Governors of the Federal Reserve System and included in its assessments against the several Federal Reserve banks.
 
-Nothing in this section shall be construed as amending section 6 of Act March 14, 1900, as amended by Acts Mar. 4, 1907, Mar. 2, 1911, June 12, 1916, nor shall the provisions of this section be construed to apply to the deposits made or to the receipts or certificates issued under that section.
+Nothing in this section <sup>1</sup> shall be construed as amending section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, nor shall the provisions of this section <sup>1</sup> be construed to apply to the deposits made or to the receipts or certificates issued under those Acts.
 
-(Dec. 23, 1913, ch. 6, §16 (pars.), as added June 21, 1917, ch. 32, §8, 40 Stat. 238; amended May 29, 1920, ch. 214, §1, 41 Stat. 654; Jan. 30, 1934, ch. 6, §2(b)(7), (8), 48 Stat. 339; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 89–3, §2, Mar. 3, 1965, 79 Stat. 5; Pub. L. 90–269, §7, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, §5(d), June 19, 1968, 82 Stat. 189.)
+(Dec. 23, 1913, ch. 6, §16 (pars.), as added June 21, 1917, ch. 32, §8, 40 Stat. 238; amended May 29, 1920, ch. 214, §1, 41 Stat. 654; Jan. 30, 1934, ch. 6, §2(b)(7), (8), 48 Stat. 339, 340; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 89–3, §2, Mar. 3, 1965, 79 Stat. 5; Pub. L. 90–269, §7, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, §5(d), June 19, 1968, 82 Stat. 189.)
 
 #### References in Text
 
 Words “this section”, referred to in last par., mean section 16 of act Dec. 23, 1913. For classification to this title of section 16, see Codification note set out under section 411 of this title.
 
-Section 6 of Act Mar. 14, 1900, as amended by Acts Mar. 7, 1907, Mar. 2, 1911, June 12, 1916, referred to in the last par., which was classified to section 429 of former Title 31, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, referred to in text, which was classified to section 429 of former Title 31, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 #### Codification
 
-Section is comprised of fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, as added June 21, 1917. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of the fourteenth to sixteenth pars. of section 16 of act Dec. 23, 1913. Section was formerly comprised of the fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, before repeal of the sixth and seventeenth pars. of section 16 by Pub. L. 90–269,see 1968 Amendment notes set out under this section and section 415 of this title. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+
+On authority of act May 29, 1920, which abolished offices of Assistant Treasurers and distributed their functions, the 1926 ed. of the Code omitted two references to Assistant Treasurers; those references were restored by act January 30, 1934.
 
 #### Amendments
 
-1968—Pub. L. 90–349 inserted references to Special Drawing Right certificates so as to allow them to be deposited with the Treasury in the same manner as gold certificates.
+1968—Pub. L. 90–349, which directed amendment of “\[t\]he fifteenth paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 467),” by inserting “or of Special Drawing Right certificates” after “gold certificates” in the first sentence and substituting “Deposits so made shall be held subject to the orders of the Board of Governors of the Federal Reserve System and deposits of gold or gold certificates shall be payable in gold certificates, and deposits of Special Drawing Right certificates shall be payable in Special Drawing Right certificates, on the order of the Board of Governors of the Federal Reserve System to any Federal Reserve bank or Federal Reserve agent at the Treasury or at the subtreasury of the United States nearest the place of business of such Federal Reserve bank or such Federal Reserve agent.” for the third sentence, was executed to the first par. of this section to reflect the probable intent of Congress.
 
-Pub. L. 90–269 repealed third par. (eighteenth par. of section 16 of Act Dec. 23, 1913) which provided that deposits standing to the credit of any Federal Reserve bank with the Board of Governors shall, at the option of said bank, be counted as part of the lawful reserve which it is required to maintain against outstanding Federal Reserve notes.
+Pub. L. 90–269, which directed striking out of “\[t\]he paragraph which, prior to the amendments made by this Act \[amending sections 248, 391, and 413 to 416 of this title and sections 405b, 408a, 408b, and 821 of Title 31, Money and Finance, and repealing section 408 of Title 31\], was the eighteenth paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 467)”, was executed, to reflect the probable intent of Congress (see H.R. Rept. No. 1095, 90th Cong., pp. 1–7 (purpose of legislation), 10 (Ramseyer version) (1968)), by striking out the third par. of this section (seventeenth par. of section 16 of act Dec. 23, 1913), which read as follows: “Deposits made under this section standing to the credit of any Federal Reserve bank with the Board of Governors of the Federal Reserve System shall, at the option of said bank, be counted as part of the lawful reserve which it is required to maintain against outstanding Federal Reserve notes.”
 
-1965—Pub. L. 89–3 removed from list of purposes for which deposits made under this section could be counted, reference to the reserve in gold certificates which each Federal Reserve bank was required to maintain against deposit liabilities.
+1965—Pub. L. 89–3, which directed amendment of “\[t\]he eighteenth paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 467), \* \* \* by substituting a period for the comma after the word ‘notes’ and striking out the remainder of the paragraph”, was executed to the third par. of this section (seventeenth par. of section 16 of act Dec. 23, 1913) to reflect the probable intent of Congress.
 
-1934—Act Jan. 30, 1934, amended third sentence in first par. and third par.
+1934—Act Jan. 30, 1934, which directed general amendment of the sixteenth and eighteenth pars. of act Dec. 23, 1913, was executed to the first and third pars. of this section (fifteenth and seventeenth pars. of section 16 of act Dec. 23, 1913, respectively) to reflect the probable intent of Congress. Prior to amendment, the first par. of this section authorized and directed the Secretary of the Treasury to receive deposits of gold coin or gold certificates and to prescribe by regulation the form of a receipt to be issued to the Federal reserve bank or agent; the third par. of this section provided that a Federal reserve bank's gold deposits could count towards its reserve requirement.
 
 #### Change of Name
 

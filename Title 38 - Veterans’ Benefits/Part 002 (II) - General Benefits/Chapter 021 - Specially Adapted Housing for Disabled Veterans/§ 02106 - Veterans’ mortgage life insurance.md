@@ -1,36 +1,48 @@
 ### §2106. Veterans’ mortgage life insurance
 
-(a) The United States shall automatically insure any eligible veteran age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the veteran unless the veteran (1) submits to the Secretary in writing the veterans’ election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
+(a) The United States shall automatically insure any eligible individual age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the individual unless the individual (1) submits to the Secretary in writing the individual's election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
 
-(b) The amount of insurance provided a veteran under this section may not exceed the lesser of $90,000 or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at any time exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible veteran elects not to be insured under this section, the veteran may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
+(b) The amount of insurance provided an individual under this section may not exceed the lesser of $90,000 or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at any time exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible individual elects not to be insured under this section, the individual may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
 
-(c) The premiums charged a veteran for insurance under this section shall be paid at such time and in such manner as the Secretary prescribes. The rates for such premiums shall be based on such mortality data as the Secretary considers appropriate to cover only the mortality cost of insuring standard lives. In the case of a veteran receiving compensation or other cash benefits paid to the veteran by the Secretary, the Secretary shall deduct from such compensation or other benefits the premiums charged the veteran under this section.
+(c) The premiums charged an individual for insurance under this section shall be paid at such time and in such manner as the Secretary prescribes. The rates for such premiums shall be based on such mortality data as the Secretary considers appropriate to cover only the mortality cost of insuring standard lives. In the case of an individual receiving compensation or other cash benefits paid to the individual by the Secretary, the Secretary shall deduct from such compensation or other benefits the premiums charged the individual under this section.
 
 (d)(1) The United States shall bear the costs of insurance under this section to the extent that such costs exceed premiums established by the Secretary. Premiums collected on insurance under this section shall be credited to the “Veterans Insurance and Indemnities” appropriation account, and all disbursements of insurance proceeds under this section shall be made from that account.
 
 (2) There are authorized to be appropriated to the Secretary for such account such amounts as may be necessary to carry out this section.
 
-(e) Any amount of insurance in force under this section on the date of the death of an eligible veteran insured under this section shall be paid to the holder of the mortgage loan, for payment of which the insurance was granted, for credit on the loan indebtedness. Any liability of the United States under such insurance shall be satisfied when such payment is made. If the Secretary is the holder of the mortgage loan, the insurance proceeds shall be credited to the loan indebtedness and deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title.
+(e) Any amount of insurance in force under this section on the date of the death of an individual insured under this section shall be paid to the holder of the mortgage loan, for payment of which the insurance was granted, for credit on the loan indebtedness. Any liability of the United States under such insurance shall be satisfied when such payment is made. If the Secretary is the holder of the mortgage loan, the insurance proceeds shall be credited to the loan indebtedness and deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title.
 
 (f) The Secretary may prescribe such regulations relating to eligibility for insurance under this section, the maximum amount of insurance, the effective date of insurance, the maximum duration of insurance, and other pertinent matters not specifically provided for in this section as the Secretary determines are in the best interest of veterans or the United States.
 
 (g) The amount of the insurance in force at any time shall be the amount necessary to pay the mortgage indebtedness in full, except as otherwise limited by subsection (b) of this section or regulations prescribed by the Secretary under this section.
 
-(h) The Secretary shall issue to each veteran insured under this section a certificate setting forth the benefits to which the veteran is entitled under the insurance.
+(h) The Secretary shall issue to each individual insured under this section a certificate setting forth the benefits to which the individual is entitled under the insurance.
 
 (i) Insurance under this section shall terminate upon whichever of the following events first occurs:
 
-&emsp;(1) Satisfaction of the veteran's indebtedness under the loan upon which the insurance is based.
+&emsp;(1) Satisfaction of the individual's indebtedness under the loan upon which the insurance is based.
 
-&emsp;(2) Termination of the veteran's ownership of the property securing the loan.
+&emsp;(2) Termination of the individual's ownership of the property securing the loan.
 
-&emsp;(3) Discontinuance of payment of premiums by the veteran.
+&emsp;(3) Discontinuance of payment of premiums by the individual.
 
 (j) Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824.)
+(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–289, div. B, title VI, §2602(b)(6), July 30, 2008, 122 Stat. 2860.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–289, §2602(b)(6)(A), (F), substituted “any eligible individual” for “any eligible veteran” and “the individual's” for “the veterans’ ” and substituted “the individual” for “the veteran” in two places.
+
+Subsec. (b). Pub. L. 110–289, §2602(b)(6)(B), (F), (G), substituted “an individual” for “a veteran”, “an eligible individual” for “an eligible veteran”, and “the individual” for “the veteran”.
+
+Subsec. (c). Pub. L. 110–289, §2602(b)(6)(F), (G), substituted “the individual” for “the veteran” and “an individual” for “a veteran” in two places each.
+
+Subsec. (e). Pub. L. 110–289, §2602(b)(6)(C), substituted “an individual” for “an eligible veteran”.
+
+Subsec. (h). Pub. L. 110–289, §2602(b)(6)(D), (F), substituted “each individual” for “each veteran” and “the individual” for “the veteran”.
+
+Subsec. (i). Pub. L. 110–289, §2602(b)(6)(E), (F), substituted “the individual” for “the veteran” and substituted “the individual's” for “the veteran's” in two places.
 
 2002—Subsec. (a). Pub. L. 107–330, §302(1), inserted “age 69 or younger” after “any eligible veteran”.
 

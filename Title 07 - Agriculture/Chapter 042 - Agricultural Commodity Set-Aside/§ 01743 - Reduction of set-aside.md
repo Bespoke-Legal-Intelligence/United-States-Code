@@ -2,7 +2,7 @@
 
 (a) Such commodity set-aside shall be reduced by disposals made in accordance with the directions of the President as follows:
 
-&emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside the United States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
+&emsp;(1) Donation, sale, or other disposition for disaster or other relief purposes outside theUnited States pursuant to and subject to the limitations of subchapter III of chapter 41 of this title;
 
 &emsp;(2) Sale or barter (including barter for strategic materials) to develop new or expanded markets for American agricultural commodities, including but not limited to disposition pursuant to and subject to the limitations of subchapter II of chapter 41 of this title;
 
@@ -20,7 +20,7 @@ The President shall prescribe such terms and conditions for the disposal of comm
 
 (b) The quantity of any commodity in the commodity set-aside shall be reduced to the extent that the Commodity Credit Corporation inventory of such commodity is reduced, by natural or other cause beyond the control of the Corporation, below the quantity then charged to the commodity set-aside.
 
-(Aug. 28, 1954, ch. 1041, title I, §103, 68 Stat. 897; Pub. L. 96–41, §3(a)(1), July 30, 1979, 93 Stat. 324.)
+(Aug. 28, 1954, ch. 1041, title I, §103, 68 Stat. 897; Pub. L. 96–41, §3(a)(1), July 30, 1979, 93 Stat. 324; Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821.)
 
 #### References in Text
 
@@ -29,6 +29,10 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 #### Amendments
 
 1979—Subsec. (a). Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” in par. (4), and in the provisions following par. (7) substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act” for “the national stockpile established pursuant to the Act of June 7, 1939, as amended,” and “funds appropriated for the purposes of that Act” for “funds appropriated pursuant to section 8 of such Act of June 7, 1939”.
+
+#### Change of Name
+
+Technical change in meaning of reference in original act which appears in subsec. (a)(1) as reference to subchapter III of chapter 41 of this title and in subsec. (a)(2) as reference to subchapter II of chapter 41 of this title was directed by section 3001(c) of Pub. L. 110–246, set out as a note under section 1691 of this title.
 
 #### Executive Order No. 10601
 

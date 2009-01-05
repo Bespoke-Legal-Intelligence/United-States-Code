@@ -108,7 +108,7 @@ In addition to amounts appropriated to carry out this section, the Secretary and
 
 #### (C) Classes
 
-&emsp;&emsp;The original members of the TIP Advisory Board shall be appointed to 3 classes. Oneclass of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
+&emsp;&emsp;The original members of the TIP Advisory Board shall be appointed to 3 classes. One class of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
 
 #### (D) Vacancies
 

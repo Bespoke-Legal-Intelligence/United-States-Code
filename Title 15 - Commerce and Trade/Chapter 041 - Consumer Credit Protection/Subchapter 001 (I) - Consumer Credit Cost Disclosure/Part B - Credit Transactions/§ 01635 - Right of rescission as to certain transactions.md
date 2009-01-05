@@ -30,7 +30,7 @@ This section does not apply to—
 
 #### (f) Time limit for exercise of right
 
-An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
+An obligor's right of rescission shall expire three years after the date of consummation ofthe transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
 
 #### (g) Additional relief
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 96–221, §612(a)(5), inserted “information, forms, and�
 
 Subsec. (e). Pub. L. 96–221, §612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescissionwhere the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+Subsec. (f). Pub. L. 96–221, §612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
 Subsec. (g). Pub. L. 96–221, §612(a)(6), added subsec. (g).
 

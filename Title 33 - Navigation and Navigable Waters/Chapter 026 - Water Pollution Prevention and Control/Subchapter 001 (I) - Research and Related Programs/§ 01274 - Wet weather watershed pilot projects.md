@@ -10,7 +10,7 @@ The Administrator, in coordination with the States, may provide technical assist
 
 #### (2) Stormwater best management practices
 
-&emsp;The control of pollutants from municipal separate storm sewer systems for the purpose of demonstrating and determining controls that are cost-effective and that use innovativetechnologies in reducing such pollutants from stormwater discharges.
+&emsp;The control of pollutants from municipal separate storm sewer systems for the purpose of demonstrating and determining controls that are cost-effective and that use innovative technologies in reducing such pollutants from stormwater discharges.
 
 #### (b) Administration
 

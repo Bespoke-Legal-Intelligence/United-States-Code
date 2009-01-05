@@ -29,12 +29,14 @@
 | \[1599. | Renumbered.\] |
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
-| [1599c.](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md) | Appointment in excepted service of certain health care professionals. |
+| [1599c.](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md) | Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces. |
 | [1599d.](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md) | Professional accounting positions: authority to prescribe certification and credential standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XVI, §1636(b), Jan. 28, 2008, 122 Stat. 464, added item 1599c and struck outformer item 1599c “Appointment in excepted service of certain health care professionals”.
 
 2004—Pub. L. 108–375, div. A, title XI, §1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
 
@@ -94,7 +96,121 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
+
+Pub. L. 110–417, \[div. A\], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense may appoint qualified candidates possessing an advanced degree to positions described in subsection (b) without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
+
+“(b)
+
+Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory identified in section 9902(c)(2) of title 5, United States Code.
+
+“(c)
+
+Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 2 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+“(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
+
+“(d)
+
+Employee Defined.—As used in this section, the term ‘employee’ has the meaning given such term by section 2105 of title 5, United States Code.
+
+“(e)
+
+Termination.—The authority to make appointments under this section shall not be available after December 31, 2013.”
+
+#### Employment for Resettled Iraqis
+
+Pub. L. 110–417, \[div. A\], title XII, §1235, Oct. 14, 2008, 122 Stat. 4641, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except forpurposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
+
+“(b)
+
+Eligibility.—Individuals referred to in subsection (a) are Iraqi nationals who—
+
+&emsp;“(1) have received a special immigrant visa issued pursuant to section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[8 U.S.C. 1101 note\] or section 1244 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181) \[8 U.S.C. 1157 note\]; and
+
+&emsp;“(2) are lawfully present in the United States.
+
+“(c)
+
+Funding.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the program established under subsection (a) shall be funded from the annual general operating budget of the Department of Defense.
+
+&emsp;“(2)
+
+Exception.—The Secretary of State shall reimburse the Department of Defense for any costs associated with individuals described in subsection (b) whose work is for or on behalf of the Department of State.
+
+“(d)
+
+Rule of Construction Regarding Access to Classified Information.—Nothing in this section may be construed as affecting in any manner practices and procedures regarding the handling of or access to classified information.
+
+“(e)
+
+Information Sharing.—The Secretary of Defense and the Secretary of State shall work with the Secretary of Homeland Security and the Office of Refugee Resettlement of the Department of Health and Human Services to ensure that individuals described in subsection (b) are informed of the program established under subsection (a).
+
+“(f)
+
+Regulation.—The Secretary of Defense, jointly with the Secretary of State and with the concurrence of the Director of the Office of Personnel Management, shall prescribe such regulations as are necessary to carry out the program established under subsection (a), including ensuring the suitability for employment described in subsection (a) of individuals described in subsection (b), determining the number of positions, and establishing pay scales and hiring procedures.
+
+“(g)
+
+Termination.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the program established under subsection (a) shall terminate on December 31, 2014.
+
+&emsp;“(2)
+
+Earlier termination.—If the Secretary of Defense, jointly with the Secretary of State, determines that the program established under subsection (a) should terminate before the date specified in paragraph (1), the Secretaries may terminate the program if the Secretaries notify Congress in writing of such termination at least 180 days before such termination.”
+
 #### Strategic Human Capital Plan for Civilian Employees of the Department of Defense
+
+Pub. L. 110–181, div. A, title VIII, §851, Jan. 28, 2008, 122 Stat. 247, provided that:
+
+“(a)
+
+In General.—In the update of the strategic human capital plan for 2008, and in each subsequent update, the Secretary of Defense shall include a separate section focused on the defense acquisition workforce, including both military and civilian personnel.
+
+“(b)
+
+Funding.—The section shall contain—
+
+&emsp;“(1) an identification of the funding programmed for defense acquisition workforce improvements, including a specific identification of funding provided in the Department of Defense Acquisition Workforce Fund established under section 1705 of title 10, United States Code (as added by section 852 of this Act);
+
+&emsp;“(2) an identification of the funding programmed for defense acquisition workforce training in the future-years defense program, including a specific identification of funding provided by the acquisition workforce training fund established under section 37(h)(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3));
+
+&emsp;“(3) a description of how the funding identified pursuant to paragraphs (1) and (2) will be implemented during the fiscal year concerned to address the areas of need identified in accordance with subsection (c);
+
+&emsp;“(4) a statement of whether the funding identified under paragraphs (1) and (2) is being fully used; and
+
+&emsp;“(5) a description of any continuing shortfall in funding available for the defense acquisition workforce.
+
+“(c)
+
+Areas of Need.—The section also shall identify any areas of need in the defense acquisition workforce, including—
+
+&emsp;“(1) gaps in the skills and competencies of the current or projected defense acquisition workforce;
+
+&emsp;“(2) changes to the types of skills needed in the current or projected defense acquisition workforce;
+
+&emsp;“(3) incentives to retain in the defense acquisition workforce qualified, experienced defense acquisition workforce personnel; and
+
+&emsp;“(4) incentives for attracting new, high-quality personnel to the defense acquisition workforce.
+
+“(d)
+
+Strategic Human Capital Plan Defined.—In this section, the term ‘strategic human capital plan’ means the strategic human capital plan required under section 1122 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3452; 10 U.S.C. prec. 1580 note).”
 
 Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, provided that:
 
@@ -170,5 +286,5 @@ Comptroller General Review.—Not later than 90 days after the Secretary submits
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
-- [&sect; 01599c - Appointment in excepted service of certain health care professionals](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md)
+- [&sect; 01599c - Health care professionals enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured&#8230;](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md)
 - [&sect; 01599d - Professional accounting positions authority to prescribe certification and credential standards](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md)

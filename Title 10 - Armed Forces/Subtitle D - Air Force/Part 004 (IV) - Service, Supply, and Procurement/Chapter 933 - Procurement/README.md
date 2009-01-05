@@ -18,6 +18,12 @@
 
 1982—Pub. L. 97–258, §2(b)(13)(A), Sept. 13, 1982, 96 Stat. 1058, added item 9541.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
 
 ---
 

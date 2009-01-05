@@ -94,7 +94,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(C) the extent to which the applicant (and participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
-&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in their schools, in addition to their regular classroom duties, including serving as mentor ormaster teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
+&emsp;&emsp;(D) the degree to which the proposed programming will enable participants to become highly effective mathematics and science teachers and prepare such participants to assume leadership roles in their schools, in addition to their regular classroom duties, including serving as mentor or master teachers, developing curriculum, and assisting in the development and implementation of professional development activities;
 
 &emsp;&emsp;(E) the number and quality of the individuals that will be served by the program; and
 
@@ -168,7 +168,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### (2) Amount of repayment
 
-&emsp;If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this titleoccurs after the completion of 1 year of a service obligation under this section—
+&emsp;If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this title occurs after the completion of 1 year of a service obligation under this section—
 
 &emsp;&emsp;(A) for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master's degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title; and
 

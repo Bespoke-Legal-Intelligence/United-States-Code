@@ -6,7 +6,7 @@
 
 Of the House documents and reports, unbound—to the Senate document room, one hundred and fifty copies; to the office of the Secretary of the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the office of the Clerk of the House of Representatives, twenty copies; to the Library of Congress, ten copies, as provided by section 1718 of this title.
 
-Of the Senate documents and reports, unbound—to the Senate document room, two hundred and twenty copies; office of the Secretary of the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the Clerk's office of the House of Representatives, ten copies; to the Library of Congress, ten copies, as provided by section 1718 of this title.
+Of the Senate documents and reports, unbound—to the Senate document room, two hundred and twenty copies; office of the Secretaryof the Senate, ten copies; to the House document room, not to exceed five hundred copies; to the Clerk's office of the House of Representatives, ten copies; to the Library of Congress, ten copies, as provided by section 1718 of this title.
 
 (c) Of the number printed, the Public Printer shall bind a sufficient number of copies for distribution as follows:
 

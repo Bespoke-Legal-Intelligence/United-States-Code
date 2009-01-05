@@ -106,7 +106,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (A) In general
 
-&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section 4975(e)(7) shall not be considered to have failed to meet the requirements of section401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
+&emsp;&emsp;A plan which otherwise meets the requirements of this subsection or of section 4975(e)(7) shall not be considered to have failed to meet the requirements of section 401(a) merely because under the plan the benefits may be distributed in cash or in the form of employer securities.
 
 #### (B) Exception for certain plans restricted from distributing securities
 
@@ -174,7 +174,7 @@ A plan which otherwise meets the requirements of this section shall not be treat
 
 #### (j) Conditional contributions to the plan
 
-A plan which otherwise meets the requirements of this section shall not be treated as failing to satisfy such requirements (or as failing to satisfy the requirements of section 401(a) of this title or of section 403(c)(1) of the Employee Retirement Income Security Act of 1974) merelybecause of the return of a contribution (or a provision permitting such a return) if—
+A plan which otherwise meets the requirements of this section shall not be treated as failing to satisfy such requirements (or as failing to satisfy the requirements of section 401(a) of this title or of section 403(c)(1) of the Employee Retirement Income Security Act of 1974) merely because of the return of a contribution (or a provision permitting such a return) if—
 
 &emsp;(1) the contribution to the plan is conditioned on a determination by the Secretary that such plan meets the requirements of this section,
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (3) Preferred stock may be issued in certain cases
 
-&emsp;Noncallable preferred stock shall be treated as employer securities if such stock is convertible at any time into stock which meets the requirements of paragraph (1) or (2) (whichever is applicable) and if such conversion is at a conversion price which (as of the date of the acquisition by the tax credit employee stock ownership plan) is reasonable. For purposes of the preceding sentence, under regulations prescribed by the Secretary, preferred stock shall be treated as noncallable if after the call there will be a reasonable opportunity for a conversion which meets the requirements of the preceding sentence.
+&emsp;Noncallable preferred stock shall be treated as employer securities if such stock is convertible at any time into stock which meets the requirements of paragraph (1) or (2) (whichever is applicable) and if such conversion is at a conversion price which (as of the date of the acquisition by the tax credit employee stock ownership plan) is reasonable. For purposes of the preceding sentence, underregulations prescribed by the Secretary, preferred stock shall be treated as noncallable if after the call there will be a reasonable opportunity for a conversion which meets the requirements of the preceding sentence.
 
 #### (4) Application to controlled group of corporations
 
@@ -320,7 +320,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;(i) 5 years, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a participant with an account balance in excess of $800,000, 5years plus 1 additional year (but not more than 5 additional years) for each $160,000 or fraction thereof by which such balance exceeds $800,000.
+&emsp;&emsp;&emsp;(ii) in the case of a participant with an account balance in excess of $800,000, 5 years plus 1 additional year (but not more than 5 additional years) for each $160,000 or fraction thereof by which such balance exceeds $800,000.
 
 #### (2) Cost-of-living adjustment
 
@@ -370,7 +370,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;&emsp;Notwithstanding the employee trust exception in section 318(a)(2)(B)(i), an individual shall be treated as owning deemed-owned shares of the individual.
 
-> &emsp;&emsp;Solely for purposes of applying paragraph (5), this subparagraph shall be applied after the attribution rules of paragraph (5) have been applied.
+> &emsp;&emsp;Solely for purposes of applying paragraph (5), this subparagraph shall be applied afterthe attribution rules of paragraph (5) have been applied.
 
 #### (4) Disqualified person
 
@@ -418,7 +418,7 @@ A plan meets the requirements of this subsection if—
 
 #### (5) Treatment of synthetic equity
 
-&emsp;For purposes of paragraphs (3) and (4), in the case of a person who owns synthetic equity inthe S corporation, except to the extent provided in regulations, the shares of stock in such corporation on which such synthetic equity is based shall be treated as outstanding stock in such corporation and deemed-owned shares of such person if such treatment of synthetic equity of 1 or more such persons results in—
+&emsp;For purposes of paragraphs (3) and (4), in the case of a person who owns synthetic equity in the S corporation, except to the extent provided in regulations, the shares of stock in such corporation on which such synthetic equity is based shall be treated as outstanding stock in such corporation and deemed-owned shares of such person if such treatment of synthetic equity of 1 or more such persons results in—
 
 &emsp;&emsp;(A) the treatment of any person as a disqualified person, or
 
@@ -461,6 +461,10 @@ A plan meets the requirements of this subsection if—
 &emsp;&emsp;<b>(3) For requirements for allowance of an employee stock ownership credit, see section 41.</b><b><sup>6</sup></b>
 
 (Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -660,7 +664,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section 1172(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting section 2057 of this title and amending this section and section 4979A of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\] with respect to which an election is made by the executor of an estate who is required to file the return of the tax imposed by the Internal Revenue Code of 1986 on a date (including extensions) after the date of the enactment of this Act.”
 
-Section 1174(a)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(i)(2), Nov. 10, 1988, 102Stat. 3492, provided that: “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 1984.”
+Section 1174(a)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(i)(2), Nov. 10, 1988, 102 Stat. 3492, provided that: “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 1984.”
 
 Section 1174(b)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986.”
 
@@ -694,7 +698,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, see section 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
+Amendment by section 331(c)(1) of Pub. L. 97–34 applicable to taxable years ending after Dec. 31, 1982, seesection 331(f)(2) of Pub. L. 97–34, set out as a note under section 404 of this title.
 
 Section 337(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions described in section 409A(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or any corresponding provision of prior law) made after March 29, 1975.”
 

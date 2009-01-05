@@ -40,7 +40,7 @@ Functions.—The Under Secretary shall be responsible for security in all modes 
 
 Screening Operations.—The Under Secretary shall—
 
-&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger airtransportation and intrastate air transportation under sections 44901 and 44935;
+&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger air transportation and intrastate air transportation under sections 44901 and 44935;
 
 &emsp;(2) develop standards for the hiring and retention of security screening personnel;
 
@@ -124,7 +124,7 @@ Management of Security Information.—In consultation with the Transportation Se
 
 (i)
 
-View of NTSB.—In taking any action under this section that could affect safety, the UnderSecretary shall give great weight to the timely views of the National Transportation Safety Board.
+View of NTSB.—In taking any action under this section that could affect safety, the Under Secretary shall give great weight to the timely views of the National Transportation Safety Board.
 
 (j)
 
@@ -290,7 +290,7 @@ Contents of national strategy for transportation security.—The National Strate
 
 &emsp;&emsp;(E) A comprehensive delineation of prevention, response, and recovery responsibilities and issues regarding threatened and executed acts of terrorism within the United States and threatened and executed acts of terrorism outside the United States to the extent such acts affect United States transportation systems.
 
-&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construedto require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+&emsp;&emsp;(F) A prioritization of research and development objectives that support transportation security needs, giving a higher priority to research and development directed toward protecting vital transportation assets. Transportation security research and development projects shall be based, to the extent practicable, on such prioritization. Nothing in the preceding sentence shall be construed to require the termination of any research or development project initiated by the Secretary of Homeland Security or the Secretary of Transportation before the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
 &emsp;&emsp;(G) A 3- and 10-year budget for Federal transportation security programs that will achieve the priorities of the National Strategy for Transportation Security.
 
@@ -550,7 +550,7 @@ Notice and opportunity to request hearing.—Before imposing a penalty under thi
 
 &emsp;&emsp;&emsp;(i) written notice of the proposed penalty; and
 
-&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 daysafter the date on which the person receives notice.
+&emsp;&emsp;&emsp;(ii) the opportunity to request a hearing on the proposed penalty, if the Secretary receives the request not later than 30 days after the date on which the person receives notice.
 
 &emsp;(4)
 

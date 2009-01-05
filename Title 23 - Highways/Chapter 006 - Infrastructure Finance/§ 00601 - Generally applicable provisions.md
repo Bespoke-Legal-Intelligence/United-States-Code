@@ -20,7 +20,7 @@ Federal credit instrument.—The term “Federal credit instrument” means a se
 
 &emsp;(3)
 
-Investment-grade rating.—The term “investment-grade rating” means a rating of BBB minus, Baa3, or higher assigned by a rating agency to project obligations.
+Investment-grade rating.—The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
 
 &emsp;(4)
 
@@ -98,11 +98,11 @@ Substantial completion.—The term “substantial completion” means the openin
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(4), is set out in Title 26, Internal Revenue Code.
 
@@ -111,6 +111,8 @@ Section 3(a) of the Securities and Exchange Act of 1934, referred to in subsec. 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–244 inserted “bbb minus, BBB (low),” after “Baa3,”.
 
 2006—Subsec. (a)(10). Pub. L. 109–291, which directed amendment of section 181(11) of this title by substituting “registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934” for “identified by the Securities and Exchange Commission as a nationally recognized statistical rating organization”, was executed to subsec. (a)(10) of this section by making the substitution for “identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization” to reflect the probable intent of Congress and the amendment by Pub. L. 109–59. See 2005 Amendment notes below.
 
@@ -206,7 +208,7 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4) of section 104(b) and section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
+&emsp;&emsp;“(A)(i) the total amount of funds apportioned to the State under each of paragraphs (1), (3), and (4)of section 104(b) and section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of section 133(d) of such title; and
 
 &emsp;&emsp;“(ii) the total amount of funds allocated to the State under section 105 of such title;
 
@@ -326,7 +328,7 @@ United States Not Obligated.—
 
 &emsp;“(1)
 
-In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have any right against the United States for payment solely by virtue of the contribution.
+In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have any rightagainst the United States for payment solely by virtue of the contribution.
 
 &emsp;“(2)
 
@@ -390,7 +392,7 @@ Special rule for urbanized areas of over 200,000.—Funds that are apportioned o
 
 “(c)
 
-Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other assistance provided for such project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a projectfrom Federal funds contributed to an infrastructure bank under this section may not be made in the form of a grant.
+Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other assistance to a public or private entity in an amount equal to all or part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other assistance provided for such project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds contributed to an infrastructure bank under this section may not be made in the form of a grant.
 
 “(d)
 

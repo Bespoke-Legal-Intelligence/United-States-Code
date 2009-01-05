@@ -42,7 +42,7 @@ Pub. L. 97–267, §1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act
 
 #### Short Title
 
-Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 3146 to 3152 of this title, amendingsections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Bail Reform Act of 1966’.”
+Section 1 of Pub. L. 89–465 provided: “That this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Bail Reform Act of 1966’.”
 
 #### Purpose of Bail Reform Act of 1966
 

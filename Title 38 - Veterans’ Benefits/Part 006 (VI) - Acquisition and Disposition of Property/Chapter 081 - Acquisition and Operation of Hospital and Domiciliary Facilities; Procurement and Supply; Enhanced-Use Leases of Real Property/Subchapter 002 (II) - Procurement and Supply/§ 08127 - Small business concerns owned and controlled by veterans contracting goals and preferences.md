@@ -90,6 +90,12 @@ Priority for Contracting Preferences.—Preferences for awarding contracts to sm
 
 (j)
 
+Applicability of Requirements to Contracts.—(1) If after December 31, 2008, the Secretary enters into a contract, memorandum of understanding, agreement, or other arrangement with any governmental entity to acquire goods or services, the Secretary shall include in such contract, memorandum, agreement, or other arrangement a requirement that the entity will comply, to the maximum extent feasible, with the provisions of this section in acquiring such goods or services.
+
+(2) Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided under the Small Business Act (15 U.S.C. 631 et seq.).
+
+(k)
+
 Annual Reports.—Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contracting during the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) The percentage of the total amount of all contracts awarded by the Department during that fiscal year that were awarded to small business concerns owned and controlled by veterans.
@@ -100,7 +106,7 @@ Annual Reports.—Not later than December 31 each year, the Secretary shall subm
 
 &emsp;(4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-(k)
+(<i>l</i>)
 
 Definitions.—In this section:
 
@@ -114,7 +120,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189.)
+
+#### References in Text
+
+The Small Business Act, referred to in subsec. (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+
+#### Amendments
+
+2008—Subsecs. (j) to (<i>l</i>). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
 #### Effective Date
 

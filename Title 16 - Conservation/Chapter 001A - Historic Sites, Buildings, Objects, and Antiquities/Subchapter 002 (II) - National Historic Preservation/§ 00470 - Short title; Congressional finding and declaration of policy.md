@@ -26,7 +26,7 @@
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–453, §1(a), Dec. 22, 2006, 120 Stat. 3367, provided that: “This Act \[enacting section 470v–2 of this title and amending sections 470h, 470i, 470m, and 470t ofthis title\] may be cited as the ‘National Historic Preservation Act Amendments Act of 2006’.”
+Pub. L. 109–453, §1(a), Dec. 22, 2006, 120 Stat. 3367, provided that: “This Act \[enacting section 470v–2 of this title and amending sections 470h, 470i, 470m, and 470t of this title\] may be cited as the ‘National Historic Preservation Act Amendments Act of 2006’.”
 
 #### Short Title of 2000 Amendments
 

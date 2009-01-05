@@ -12,7 +12,7 @@
 
 &emsp;(A) any organization which provides an activity described in subsection (a) with assistance from the Secretary; and
 
-&emsp;(B) any individual or entity from which the Secretary accepts a significant contribution under subsection (b) or an offer of such a contribution.
+&emsp;(B) any individual or entity from which the Secretary accepts a significant contributionunder subsection (b) or an offer of such a contribution.
 
 (2) The use of such seal or name of any official symbol of the Department in an advertisement may be authorized by the Secretary under this subsection only if—
 

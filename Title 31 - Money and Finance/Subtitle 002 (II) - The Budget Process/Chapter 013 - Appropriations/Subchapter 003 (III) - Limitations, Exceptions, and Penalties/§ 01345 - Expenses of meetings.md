@@ -28,7 +28,7 @@ Feb. 2, 1935, ch. 4, 49 Stat. 19.
 
 June 17, 1935, ch. 271, 49 Stat. 387.
 
-In the section, before clause (1), the word “appropriation” is substituted for “no moneys from funds appropriated for any purpose” in 31:551 for consistency in the revised title. The words “travel, transportation, and subsistence expenses for a meeting” are substituted for “the purpose of lodging, feeding, conveying, or furnishing transportation to, any conventions or other form of assemblage or gathering” to eliminate unnecessary words. The words “to be held in the District of Columbia or elsewhere” are omitted as unnecessary.
+In the section, before clause (1), the word “appropriation” is substituted for “no moneys from funds appropriated for any purpose” in 31:551 for consistency in therevised title. The words “travel, transportation, and subsistence expenses for a meeting” are substituted for “the purpose of lodging, feeding, conveying, or furnishing transportation to, any conventions or other form of assemblage or gathering” to eliminate unnecessary words. The words “to be held in the District of Columbia or elsewhere” are omitted as unnecessary.
 
 In clause (1), the words “agency from paying” are substituted for “the payment of” for clarity and because of section 101 of the revised title.
 

@@ -74,7 +74,7 @@ Limited to eligible projects.—Any funds transferred pursuant to this paragraph
 
 &emsp;&emsp;(C)
 
-Consultation.—A State may make a transfer of an amount under this subsection only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was awarded under subsection (d)(4).
+Consultation.—A State may make a transfer of an amount under this subsection only after consulting with responsible localofficials and publicly owned operators of public transportation in each area for which the amount originally was awarded under subsection (d)(4).
 
 (d)
 

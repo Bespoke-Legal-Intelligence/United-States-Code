@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incursthe full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.
+&emsp;A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, unit of local government, or another governmental entity incurs the full out-of-pocket cost of forensic medical exams described in subsection (b) of this section for victims of sexual assault.
 
 #### (2) Redistribution
 

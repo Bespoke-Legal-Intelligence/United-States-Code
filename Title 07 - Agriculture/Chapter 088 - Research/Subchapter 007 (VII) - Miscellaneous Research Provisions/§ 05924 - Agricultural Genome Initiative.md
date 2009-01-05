@@ -50,7 +50,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 #### (d) Administration
 
-Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply withrespect to the making of a grant or cooperative agreement under this section.
+Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
 
 #### (e) Matching of funds
 
@@ -70,9 +70,15 @@ Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this tit
 
 The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
-(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547; Pub. L. 107–171, title VII, §7208(a), May 13, 2002, 116 Stat. 442.)
+(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547; Pub. L. 107–171, title VII, §7208(a), May 13, 2002, 116 Stat. 442; Pub. L. 110–234, title VII, §7406(d)(2), May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7406(d)(2), June 18, 2008, 122 Stat. 1664, 2013.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §7406(d)(2), substituted “Paragraphs (4), (7), (8), and (11)(B)” for “Paragraphs (1), (6), (7), and (11)”.
 
 2002—Subsec. (b)(3). Pub. L. 107–171, §7208(a)(1), inserted “pathogens and” before “diseases causing economic hardship”.
 
@@ -83,4 +89,10 @@ Subsec. (b)(7), (8). Pub. L. 107–171, §7208(a)(2)–(4), added par. (7) and r
 1996—Subsec. (g). Pub. L. 104–127 inserted “for fiscal years 1996 and 1997” after “appropriated”.
 
 1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7406(d)(2) of Pub. L. 110–246 inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as a note under section 450i of this title.
 

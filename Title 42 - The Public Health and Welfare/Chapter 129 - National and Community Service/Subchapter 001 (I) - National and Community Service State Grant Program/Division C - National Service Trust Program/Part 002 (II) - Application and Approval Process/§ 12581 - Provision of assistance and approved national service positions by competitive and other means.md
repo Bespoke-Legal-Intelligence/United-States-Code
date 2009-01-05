@@ -62,7 +62,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 &emsp;&emsp;&emsp;&emsp;(I) receive a grant to carry out a national service program under paragraph (1) or (2);
 
-&emsp;&emsp;&emsp;&emsp;(II) demonstrate that the entity has received a substantial number of applications for placement in the national service program of persons who are individuals with a disability and who require a reasonable accommodation (as defined in section 12111(9) of this title), or auxiliary aids and services (as defined in section 12102(1) of this title), in order to perform national service; and
+&emsp;&emsp;&emsp;&emsp;(II) demonstrate that the entity has received a substantial number of applications for placement in the national service program of persons who are individuals with a disability and who require a reasonable accommodation (as defined in section 12111(9) of this title), or auxiliary aids and services (as defined in section 12102(1) <sup>1</sup> of this title), in order to perform national service; and
 
 &emsp;&emsp;&emsp;&emsp;(III) demonstrate that additional funding would assist the national service program in placing a substantial number of such individuals with a disability as participants in projects carried out through the program.
 
@@ -76,7 +76,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 &emsp;&emsp;&emsp;From the portion of the funds reserved under subparagraph (A) that is not used to make grants under subparagraph (B), the Chief Executive Officer shall make grants to public or private nonprofit organizations to pay for the Federal share described in section 12571(e) of this title of—
 
-&emsp;&emsp;&emsp;&emsp;(I) providing information about the programs specified in section 12651d(d)(10) <sup>1</sup> of this title to such individuals with a disability who desire to perform national service; and
+&emsp;&emsp;&emsp;&emsp;(I) providing information about the programs specified in section 12651d(d)(10) <sup>2</sup> of this title to such individuals with a disability who desire to perform national service; and
 
 &emsp;&emsp;&emsp;&emsp;(II) enabling the individuals to participate in activities carried out through such programs, which may include assisting the placement of the individuals in approved national service positions.
 
@@ -110,9 +110,13 @@ For ratification of Compact of Free Association with Palau, referred to in subse
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
+Section 12102 of this title, referred to in subsec. (d)(5)(B)(i)(II), was amended generally by Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, no longer defines “auxiliary aids and services”. However, such term is defined in section 12103(1) of this title.
+
 #### Prior Provisions
 
 A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is classified to section 12655h of this title.
 
-<i><sup>1</sup></i><i> So in original. Section 12651d(d) of this title does not contain a par. (10).</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Section 12651d(d) of this title does not contain a par. (10).</i>
 

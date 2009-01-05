@@ -16,11 +16,11 @@ The period of limitations on collection after assessment prescribed in section 6
 
 #### (c) Taxpayer outside United States
 
-The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer's return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return,such period shall not expire before the expiration of such 6 months.
+The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer's return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months.
 
 #### (d) Extensions of time for payment of estate tax
 
-The running of the period of limitation for collection of any tax imposed by chapter 11 shall be suspended for the period of any extension of time for payment granted under the provisions of section 6161(a)(2) or (b)(2) or under the provisions of section 6163 or 6166.
+The running of the period of limitation for collection of any tax imposed by chapter 11 shall besuspended for the period of any extension of time for payment granted under the provisions of section 6161(a)(2) or (b)(2) or under the provisions of section 6163 or 6166.
 
 #### (e) Extensions of time for payment of tax attributable to recoveries of foreign expropriation losses
 
@@ -234,7 +234,7 @@ Subsec. (h). Pub. L. 89–719, §106(c), redesignated former subsec. (g) as (h).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub.L. 110–28, set out as a note under section 6060 of this title.
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
 
 #### Effective Date of 1997 Amendment
 

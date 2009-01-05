@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 96–417, §102(b), redesignated the Customs Court as the C
 
 1958—Pub. L. 85–755 substituted “Judges of other courts” for “Circuit or district judges to court of customs and patent appeals” in section catchline.
 
-Subsec. (a). Pub. L. 85–755 added subsec. (a). It incorporates provisions of former sections 291(a), (b) and 292(e) of this title respecting assignment of any judge of the Court of Claims to serve as circuit judge in any circuit, assignment of judges of the Court of Customs and Patent Appeals to serve as judges of the Court of Appeals or the District Court of Appeals or the District Court for the District of Columbia, and assignment of judges of the Court of Claims to district courts, respectively.
+Subsec. (a). Pub. L. 85–755 added subsec. (a). It incorporates provisions of former sections 291(a), (b) and 292(e) of this title respecting assignment of any judge of the Court of Claims to serve as circuit judge in any circuit, assignment of judges of the Court of Customs andPatent Appeals to serve as judges of the Court of Appeals or the District Court of Appeals or the District Court for the District of Columbia, and assignment of judges of the Court of Claims to district courts, respectively.
 
 Subsec. (b). Pub. L. 85–755 designated existing second par. as subsec. (b).
 

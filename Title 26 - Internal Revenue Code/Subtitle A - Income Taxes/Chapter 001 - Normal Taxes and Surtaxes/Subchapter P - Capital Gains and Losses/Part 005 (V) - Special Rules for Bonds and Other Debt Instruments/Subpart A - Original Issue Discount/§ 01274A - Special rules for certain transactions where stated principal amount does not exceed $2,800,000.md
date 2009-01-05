@@ -82,6 +82,10 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 99–121, title I, §102(a), Oct. 11, 1985, 99 Stat. 506; amended Pub. L. 101–508, title XI, §11813(b)(22), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1704(t)(62), Aug. 20, 1996, 110 Stat. 1890.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below.</i>
+
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -103,4 +107,36 @@ Section applicable to sales and exchanges after June 30, 1985, in taxable years 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Inflation Adjusted Items for Certain Years
+
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2009—Revenue Ruling 2008–52.
+
+2008—Revenue Ruling 2008–3.
+
+2007—Revenue Ruling 2007–4.
+
+2006—Revenue Ruling 2005–76.
+
+2005—Revenue Ruling 2004–107.
+
+2004—Revenue Ruling 2003–119.
+
+2003—Revenue Ruling 2002–79.
+
+2002—Revenue Ruling 2001–65.
+
+2001—Revenue Ruling 2000–55.
+
+2000—Revenue Ruling 99–50.
+
+1999—Revenue Ruling 98–58.
+
+1998—Revenue Ruling 97–56.
+
+1997—Revenue Ruling 96–63.
+
+1996—Revenue Ruling 96–4.
 

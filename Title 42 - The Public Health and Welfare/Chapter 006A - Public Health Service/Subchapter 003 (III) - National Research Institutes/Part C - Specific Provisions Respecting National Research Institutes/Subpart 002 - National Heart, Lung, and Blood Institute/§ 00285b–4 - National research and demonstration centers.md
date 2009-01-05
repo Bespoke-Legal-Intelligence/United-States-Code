@@ -4,7 +4,7 @@
 
 (1) The Director of the Institute may provide, in accordance with subsection (c) of this section, for the development of—
 
-&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for heart and blood vessel diseases;
+&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (includingmethods of providing emergency medical services) for heart and blood vessel diseases;
 
 &emsp;(B) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for lung diseases (including bronchitis, emphysema, asthma, cystic fibrosis, and other lung diseases of children);
 

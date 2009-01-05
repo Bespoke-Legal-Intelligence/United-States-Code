@@ -36,5 +36,5 @@ Section was formerly classified to section 7386e of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (a)(3)(B). Pub. L. 108–136, §3141(j)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2747 of this title.
+<b>2003</b>—Subsec. (a)(3)(B). Pub. L. 108–136, §3141(j)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2747 of this title.
 

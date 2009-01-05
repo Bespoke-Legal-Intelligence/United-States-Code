@@ -50,7 +50,7 @@ Subsec. (c)(3). Pub. L. 100–26, §7(a)(7)(A)(iii), substituted “section 552(
 
 #### Effective Date of 1987 Amendment
 
-Section 12(d)(2) of Pub. L. 100–26 provided that: “The amendment to section 2328 of such title made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b)of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\].”
+Section 12(d)(2) of Pub. L. 100–26 provided that: “The amendment to section 2328 of such title made by section 7(a)(7)(A)(i)(II) shall take effect on the same date and in the same manner as provided in section 1804(b) of Public Law 99–570 \[set out as an Effective Date of 1986 Amendment note under section 552 of Title 5, Government Organization and Employees\] for the amendment made by section 1803 of that Public Law to section 552a of title 5, United States Code \[probably means amendment by section 1803 of Pub. L. 99–570 to section 552(a) of Title 5\].”
 
 #### Effective Date
 

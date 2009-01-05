@@ -36,7 +36,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
-(3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom,or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
+(3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
 #### (c) Volunteer services; incidental expenses; Federal employee status; authorization of appropriations
 
@@ -70,7 +70,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate and enter into a cooperative agreement with a partner organization, academic institution, State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
+&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary of the Interior may negotiate and enter into a cooperative agreement with a partner organization, academic institution,State or local government agency, or other person to implement one or more projects or programs for a refuge or complex of geographically related refuges in accordance with the purposes of this subsection and in compliance with the policies of other relevant authorities, regulations, and policy guidance.
 
 #### (B) Projects and programs
 
@@ -128,7 +128,7 @@ There is authorized to be appropriated to the Secretary of the Interior to carry
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 The National Wildlife Refuge Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), probably means the National Wildlife Refuge System Administration Act of 1966, which consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 

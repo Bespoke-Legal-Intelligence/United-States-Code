@@ -34,7 +34,7 @@
 
 (d) Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, §1219(d), Aug. 17, 2006, 120 Stat. 1085.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 884; Pub. L. 98–369, div. A, title I, §156(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–357, title VIII, §822(a)(1), (b), Oct. 22, 2004, 118 Stat. 1586, 1587; Pub. L. 109–280, title XII, §1219(d), Aug. 17, 2006, 120 Stat. 1085.)
 
 Historical and Revision Notes
 

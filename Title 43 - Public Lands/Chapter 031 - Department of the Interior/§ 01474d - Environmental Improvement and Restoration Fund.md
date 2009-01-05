@@ -82,7 +82,7 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 (5) All decisions of the Board, including grant recommendations, shall be by majority vote of the members listed in paragraphs (3)(A), (3)(F), (3)(G), (3)(J), and (3)(N), in consultation with the other members. The five voting members may act on behalf of the Board in all matters of administration, including the disposition of research funds not made available by this section, at any time on or after October 1, 2000.
 
-(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) \[title III, §331\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §352(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–209; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 108–7, div. F, title III, §334, Feb. 20, 2003, 117 Stat. 277.)
+(Pub. L. 105–83, title IV, §401, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 105–277, div. A, §101(e) \[titleIII, §331\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–293; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §352(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–209; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 108–7, div. F, title III, §334, Feb. 20, 2003, 117 Stat. 277.)
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

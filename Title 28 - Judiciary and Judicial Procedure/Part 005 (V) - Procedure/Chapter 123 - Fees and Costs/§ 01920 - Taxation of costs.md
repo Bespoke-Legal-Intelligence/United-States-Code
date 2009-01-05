@@ -4,11 +4,11 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
 &emsp;(1) Fees of the clerk and marshal;
 
-&emsp;(2) Fees of the court reporter for all or any part of the stenographic transcript necessarily obtained for use in the case;
+&emsp;(2) Fees for printed or electronically recorded transcripts necessarily obtained for use in the case;
 
 &emsp;(3) Fees and disbursements for printing and witnesses;
 
-&emsp;(4) Fees for exemplification and copies of papers necessarily obtained for use in the case;
+&emsp;(4) Fees for exemplification and the costs of making copies of any materials where the copies are necessarily obtained for use in the case;
 
 &emsp;(5) Docket fees under section 1923 of this title;
 
@@ -16,7 +16,7 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
 A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
-(June 25, 1948, ch. 646, 62 Stat. 955; Pub. L. 95–539, §7, Oct. 28, 1978, 92 Stat. 2044.)
+(June 25, 1948, ch. 646, 62 Stat. 955; Pub. L. 95–539, §7, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 110–406, §6, Oct. 13, 2008, 122 Stat. 4292.)
 
 #### Historical and Revision Notes
 
@@ -29,6 +29,10 @@ Word “may” was substituted for “shall” before “tax as costs,” in vie
 Changes were made in phraseology.
 
 #### Amendments
+
+2008—Par. (2). Pub. L. 110–406, §6(1), substituted “for printed or electronically recorded transcripts” for “of the court reporter for all or any part of the stenographic transcript”.
+
+Par. (4). Pub. L. 110–406, §6(2), substituted “the costs of making copies of any materials where the copies are” for “copies of papers”.
 
 1978—Par. (6). Pub. L. 95–539 added par. (6).
 

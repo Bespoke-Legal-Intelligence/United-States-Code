@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent of the owner, or from an heir during probate in accordance with section 2206(p) <sup>1</sup> of this title and at fair market value, any fractional interest in trust or restricted lands.
+&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent of the owner, or from an heir during probate in accordance with section 2206(<i>o</i>) of this title and at fair market value, any fractional interest in trust or restricted lands.
 
 #### (2) Authority of Secretary
 
@@ -20,7 +20,7 @@ In implementing subsection (a) of this section, the Secretary—
 
 &emsp;(1) shall promote the policies provided for in section 102 of the Indian Land Consolidation Act Amendments of 2000;
 
-&emsp;(2) may give priority to the acquisition of fractional interests representing 2 percent or less of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court's decision in Babbitt v. Youpee (117 S <sup>2</sup> Ct. 727 (1997));
+&emsp;(2) may give priority to the acquisition of fractional interests representing 2 percent or less of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court's decision in Babbitt v. Youpee (117 S <sup>1</sup> Ct. 727 (1997));
 
 &emsp;(3) to the extent practicable—
 
@@ -70,11 +70,9 @@ In implementing subsection (a) of this section, the Secretary—
 
 There is authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2005, $95,000,000 for fiscal year 2006, and $145,000,000 for each of fiscal years 2007 through 2010.
 
-(Pub. L. 97–459, title II, §213, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 1999; amended Pub. L. 108–374, §6(a)(5), Oct. 27, 2004, 118 Stat. 1800; Pub. L. 109–157, §5, Dec. 30, 2005, 119 Stat. 2952.)
+(Pub. L. 97–459, title II, §213, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 1999; amended Pub. L. 108–374, §6(a)(5), Oct. 27, 2004, 118 Stat. 1800; Pub. L. 109–157, §5, Dec. 30, 2005, 119 Stat. 2952; Pub. L. 110–453, title II, §207(d), Dec. 2, 2008, 122 Stat. 5033.)
 
 #### References in Text
-
-Section 2206(p) of this title, referred to in subsec. (a)(1), was redesignated section 2206(<i>o</i>) of this title by Pub. L. 109–157, §4(a)(1), Dec. 30, 2005, 119 Stat. 2950.
 
 This chapter, referred to in subsec. (a)(3), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
@@ -83,6 +81,8 @@ Section 102 of the Indian Land Consolidation Act Amendments of 2000, referred to
 The Indian Self-Determination and Education Assistance Act of 1974, referred to in subsec. (b)(3)(C), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(<i>o</i>)” for “section 2206(p)”.
 
 2005—Pub. L. 109–157, §5(1), amended section catchline generally making technical correction to section designation.
 
@@ -110,7 +110,5 @@ Subsec. (d). Pub. L. 108–374, §6(a)(5)(E), added subsec. (d).
 
 Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

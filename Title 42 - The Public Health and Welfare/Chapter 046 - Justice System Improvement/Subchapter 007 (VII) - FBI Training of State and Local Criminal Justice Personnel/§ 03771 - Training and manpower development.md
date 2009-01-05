@@ -6,7 +6,7 @@ The Director of the Federal Bureau of Investigation is authorized to—
 
 &emsp;(1) establish and conduct training programs at the Federal Bureau of Investigation National Academy at Quantico, Virginia, to provide, at the request of a State, unit of local government, or rail carrier, training for State and local criminal justice personnel, including railroad police officers;
 
-&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devicesto improve and strengthen criminal justice; and
+&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devices to improve and strengthen criminal justice; and
 
 &emsp;(3) assist in conducting, at the request of a State, unit of local government, or rail carrier, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, railroad police officer,<sup>1</sup> and other persons as the State, unit of local government, or rail carrier may nominate for police training while such persons are actually employed as officers of such State, unit of local government, or rail carrier.
 
@@ -74,13 +74,13 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 ofTitle 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Employment of Annuitants by Federal Law Enforcement Training Center
 
-Pub. L. 107–206, title I, §1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068, provided that:
+Pub. L. 107–206, title I, §1202, Aug. 2, 2002, 116 Stat. 887, as amended by Pub. L. 109–295, title IV, Oct. 4, 2006, 120 Stat. 1374; Pub. L. 110–161, div. E, title IV, Dec. 26, 2007, 121 Stat. 2068; Pub. L. 110–329, div. D, title IV, Sept. 30, 2008, 122 Stat. 3677, provided that:
 
-“(a) The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2010, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply.
+“(a) The Federal Law Enforcement Training Center may, for a period ending not later than December 31, 2011, appoint and maintain a cadre of up to 350 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply.
 
 “(b) No appointment under this section may be made which would result in the displacement of any employee.
 

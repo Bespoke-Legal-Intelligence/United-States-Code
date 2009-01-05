@@ -16,7 +16,7 @@ For purposes of this title, the term “private activity bond” means any bond 
 
 #### (1) Private business use test
 
-&emsp;Except as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceedsof the issue are to be used for any private business use.
+&emsp;Except as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceeds of the issue are to be used for any private business use.
 
 #### (2) Private security or payment test
 
@@ -70,7 +70,7 @@ For purposes of this title, the term “private activity bond” means any bond 
 
 &emsp;&emsp;(A) exceeds $15,000,000, but
 
-&emsp;&emsp;(B) does not exceed the amount which would cause a bond which is part of such issue to be treated as a private activity bond without regard to this paragraph,
+&emsp;&emsp;(B) does not exceed the amount which would cause a bond which is part of suchissue to be treated as a private activity bond without regard to this paragraph,
 
 > &emsp;such bond shall nonetheless be treated as a private activity bond unless the issuer allocates a portion of its volume cap under section 146 to such issue in an amount equal to the excess of such nonqualified amount over $15,000,000.
 
@@ -318,7 +318,7 @@ Rebate Requirement for Qualified Scholarship Funding Bonds.—Section 150(d) of 
 
 “(f)
 
-Section 1303.—The amendments made by section 1303 \[amending sections 172, 1016, and 3402 of this titleand repealing sections 1391 to 1397 and 6039B of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
+Section 1303.—The amendments made by section 1303 \[amending sections 172, 1016, and 3402 of this title and repealing sections 1391 to 1397 and 6039B of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
 
 #### “SEC. 1312. TRANSITIONAL RULES FOR CONSTRUCTION OR BINDING AGREEMENTS AND CERTAIN GOVERNMENT BONDS ISSUED AFTER AUGUST 15, 1986.
 
@@ -516,7 +516,7 @@ Special rule for certain government bonds issued after august 15, 1986.—In the
 
 &emsp;“(5)
 
-Certain refunding bonds subject to volume cap.—Any refunding bond described in paragraph (1) the proceeds of which are used to refund a bond issued as part of an issue 5 percent or more of the net proceeds of which are or will be used to provide an output facility (within the meaning of section 141(b)(4) of the 1986 Code) shall be treated as a private activity bond for purposes of section 146 of the 1986 Code (to the extent of the nongovernmental use of such issue, under rules similar to the rules of section 146(m)(2) of such Code). For purposes of the preceding sentence, use by a 501(c)(3) organization with respect to its activities which do not constitute unrelated trades or businesses (determined by applying section 513(a) of the 1986 Code) shall not be taken into account.
+Certain refunding bonds subject to volume cap.—Any refunding bond described in paragraph (1) the proceeds of which are used to refund a bond issued as part of an issue 5 percent or more of the net proceeds of which are or will be used to provide anoutput facility (within the meaning of section 141(b)(4) of the 1986 Code) shall be treated as a private activity bond for purposes of section 146 of the 1986 Code (to the extent of the nongovernmental use of such issue, under rules similar to the rules of section 146(m)(2) of such Code). For purposes of the preceding sentence, use by a 501(c)(3) organization with respect to its activities which do not constitute unrelated trades or businesses (determined by applying section 513(a) of the 1986 Code) shall not be taken into account.
 
 “(c)
 
@@ -664,7 +664,7 @@ Section To Override Other Rules.—Except as otherwise expressly provided by ref
 
 “(a)
 
-In General.—Except as otherwise provided in this section, section 146(f) of the 1986 Code shall notapply with respect to an issuing authority's volume cap under section 103(n) of the 1954 Code, and no carryforward under such section 103(n) shall be recognized for bonds issued after August 15, 1986.
+In General.—Except as otherwise provided in this section, section 146(f) of the 1986 Code shall not apply with respect to an issuing authority's volume cap under section 103(n) of the 1954 Code, and no carryforward under such section 103(n) shall be recognized for bonds issued after August 15, 1986.
 
 “(b)
 
@@ -854,7 +854,7 @@ Treatment of Bonds Subject to Transitional Rules Under Tax Reform Act of 1984.�
 
 &emsp;“(B) If a bond issued as part of an issue substantially all of the proceeds of which are used to provide the convention center to which such paragraph (3) applies, such bond shall be treated as an exempt facility bond as defined in section 142(a) of the 1986 Code.
 
-&emsp;“(C) If a bond which is issued as part of an issue substantially all of the proceeds of which are used to provide the resource recovery project to which such paragraph (3) applies, such bond shall be treated as an exempt facility bond as defined in section 142(a) of the 1986 Code and section 149(b) of such Code shall not apply.
+&emsp;“(C) If a bond which is issued as part of an issue substantially all of the proceeds of which are used to provide the resource recovery project to which such paragraph (3) applies, such bond shall be treated as an exempt facility bond as defined in section 142(a) ofthe 1986 Code and section 149(b) of such Code shall not apply.
 
 &emsp;“(3) The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to bonds issued to finance any property described in section 631(d)(4) of the Tax Reform Act of 1984 \[section 631(d)(4) of Pub. L. 98–369, set out as a note under section 103 of this title\].
 
@@ -1160,7 +1160,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;“(i) it is to consist of 1 or 2 stadiums appropriate for football games and baseball games with related structures and facilities,
 
-&emsp;&emsp;“(ii) governmental action was taken on August 7, 1985, by the county commission, and on December 19, 1985, by the city council, concerning such facility, and
+&emsp;&emsp;“(ii) governmental action was taken on August 7, 1985, by the county commission, and on December19, 1985, by the city council, concerning such facility, and
 
 &emsp;&emsp;“(iii) such facility is located in a city having a National League baseball team.
 
@@ -1434,7 +1434,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;“(i) a feasibility consultant and a design consultant were hired on April 3, 1985, with respect to such facility, and
 
-&emsp;&emsp;“(ii) a draft feasibility report with respect to such facility was presented on November 3, 1985, to the Mayor of the city in which such facility is to be located.
+&emsp;&emsp;“(ii) a draft feasibility report with respect to such facility was presented on November 3, 1985, to theMayor of the city in which such facility is to be located.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $190,000,000. For purposes of this subparagraph, not more than $20,000,000 of bonds issued to advance refund existing convention facility bonds sold on May 12, 1978, shall be treated as bonds described in this subparagraph and section 149(d)(2) of the 1986 Code shall not apply to bonds so treated.
 
@@ -1474,7 +1474,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $75,000,000.
 
-&emsp;“(F) A facility is described in this subparagraph if it is an international trade center which is part ofthe 125th Street redevelopment project in New York, New York. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $165,000,000.
+&emsp;“(F) A facility is described in this subparagraph if it is an international trade center which is part of the 125th Street redevelopment project in New York, New York. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $165,000,000.
 
 &emsp;“(G) A facility is described in this subparagraph if—
 
@@ -1542,7 +1542,7 @@ Sports or convention facilities.—A bond issued as a part of an issue 95 percen
 
 &emsp;&emsp;“(i) bonds for the expansion, acquisition, or construction of such combined facility are payable from a tax and are issued under a plan initially approved by the voters of the taxing authority on April 25, 1978, and
 
-&emsp;&emsp;“(ii) such bonds were authorized for expanding a convention center, for acquiring an arena site, and for building an arena or any of the foregoing pursuant to a resolution adopted by the governing body of the bond issuer on March 17, 1986, and superseded by a resolution adopted by such governing body on May 27, 1986.
+&emsp;&emsp;“(ii) such bonds were authorized for expanding a convention center, for acquiring an arena site, and for building an arena or any of the foregoing pursuant to a resolution adopted by the governing bodyof the bond issuer on March 17, 1986, and superseded by a resolution adopted by such governing body on May 27, 1986.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $160,000,000.
 
@@ -1808,7 +1808,7 @@ Residential rental property projects.—A bond issued as part of an issue 95 per
 
 &emsp;&emsp;“(ii) such project is located in the same State as the projects described in subparagraphs (E), (F), (G), and (H).
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed an amountwhich, together with the amounts allowed under subparagraphs (E), (F), (G), and (H), does not exceed $250,000,000.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed an amount which, together with the amounts allowed under subparagraphs (E), (F), (G), and (H), does not exceed $250,000,000.
 
 &emsp;“(J) A residential rental property project is described in this subparagraph if it is a multifamily residential development located in Arrowhead Springs, within the county of San Bernardino, California, and a portion of the site of which currently is owned by the Campus Crusade for Christ. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $350,000,000.
 
@@ -1918,7 +1918,7 @@ Residential rental property projects.—A bond issued as part of an issue 95 per
 
 &emsp;“(Y) A project or projects are described in this subparagraph if they are financed with bonds issued by the Tulare, California, County Housing Authority. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $8,000,000.
 
-&emsp;“(Z) A residential rental project is described in this subparagraph if such project is a multifamily mixed-use housing project located in a city described in paragraph (3)(C), the zoning for which was changed to residential-business planned development on November 26, 1985, and with respect to which both the cityon December 4, 1985, and the state housing finance agency on December 20, 1985, adopted inducement resolutions. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $90,000,000.
+&emsp;“(Z) A residential rental project is described in this subparagraph if such project is a multifamily mixed-use housing project located in a city described in paragraph (3)(C), the zoning for which was changed to residential-business planned development on November 26, 1985, and with respect to which both the city on December 4, 1985, and the state housing finance agency on December 20, 1985, adopted inducement resolutions. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $90,000,000.
 
 &emsp;“(AA) A residential rental property project is described in this subparagraph if it is the Carriage Trace residential rental project in Clinton, Tennessee. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $10,000,000.
 
@@ -1994,7 +1994,7 @@ Refunding of bond anticipation notes.—There shall not be taken into account un
 
 “(18)
 
-Certain airports.—The amendments made by section 1301 \[for classification see section 1311(a) of this note\] shall not apply to a bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any airport (within the meaning of section 103(b)(4)(D) of the 1954 Code) if such airport is a mid-field airport terminal and accompanying facilities at a major air carrier airport which during April 1980 opened a new precision instrument approach runway 10R28L. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $425,000,000.
+Certain airports.—The amendments made by section 1301 \[for classification see section 1311(a) of thisnote\] shall not apply to a bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide any airport (within the meaning of section 103(b)(4)(D) of the 1954 Code) if such airport is a mid-field airport terminal and accompanying facilities at a major air carrier airport which during April 1980 opened a new precision instrument approach runway 10R28L. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $425,000,000.
 
 “(19)
 
@@ -2028,7 +2028,7 @@ Mass commuting facilities.—A bond issued as a part of an issue 95 percent or m
 
 &emsp;&emsp;“(ii) such facility is part of a system connector described in a resolution adopted by the board of directors of the authority on March 27, 1986.
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $400,000,000.Notwithstanding the last paragraph of this subsection, this subparagraph shall apply to bonds issued before January 1, 1996.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $400,000,000. Notwithstanding the last paragraph of this subsection, this subparagraph shall apply to bonds issued before January 1, 1996.
 
 &emsp;“(D) A facility is described in this subparagraph if—
 
@@ -2220,7 +2220,7 @@ Certain private business use not taken into account.—
 
 &emsp;“(C) The nonqualified amount to which this paragraph applies shall not exceed $150,000,000.
 
-&emsp;“(D) For purposes of this paragraph, the term ‘nonqualified amount’ has the meaning given such termby section 141(b)(8) of the 1986 Code, except that such term shall include the amount of the proceeds of an issue which is to be used (directly or indirectly) to make or finance loans (other than loans described in section 141(c)(2) of the 1986 Code) to persons other than governmental units.
+&emsp;“(D) For purposes of this paragraph, the term ‘nonqualified amount’ has the meaning given such term by section 141(b)(8) of the 1986 Code, except that such term shall include the amount of the proceeds of an issue which is to be used (directly or indirectly) to make or finance loans (other than loans described in section 141(c)(2) of the 1986 Code) to persons other than governmental units.
 
 “(30)
 
@@ -2384,7 +2384,7 @@ Qualified mortgage bonds.—A bond issued as part of either of 2 issues no later
 
 “(38)
 
-Exempt facility bonds.—A bond shall be treated as an exempt facility bond within the meaning of section 142(a) of the 1986 Code if it is issued to fund residential, office, retail, light industrial, recreational and parking development known as Tobacco Row. Such bond shall be subject to section 146 of the 1986 Code. The aggregate face amount of bonds to which this paragraph applies shall not exceed $100,000,000.
+Exempt facility bonds.—A bond shall be treated as an exempt facility bond within the meaning of section 142(a) of the 1986 Code if it is issued to fund residential, office, retail, light industrial, recreational andparking development known as Tobacco Row. Such bond shall be subject to section 146 of the 1986 Code. The aggregate face amount of bonds to which this paragraph applies shall not exceed $100,000,000.
 
 “(39)
 

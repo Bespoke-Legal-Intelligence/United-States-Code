@@ -42,7 +42,7 @@ The Federal Trade Commission shall issue regulations requiring each label statem
 
 #### (d) Plan
 
-(1) Each manufacturer, packager, or importer of a smokeless tobacco product shall submit a plan to the Federal Trade Commission which specifies the method such manufacturer, packager, or importer will use to rotate, display, and distribute the statements required by subsection (a) of this section in accordance with the requirements of subsections (b) and (c) of this section.
+(1) Each manufacturer, packager, or importer of a smokeless tobacco product shall submit a plan to the Federal Trade Commission whichspecifies the method such manufacturer, packager, or importer will use to rotate, display, and distribute the statements required by subsection (a) of this section in accordance with the requirements of subsections (b) and (c) of this section.
 
 (2) The Federal Trade Commission shall approve a plan submitted by a manufacturer, packager, or importer of a smokeless tobacco product under paragraph (1) if such plan provides for the rotation, display, and distribution on smokeless tobacco product packages and advertisements of the statements required by subsection (a) of this section in a manner which complies with this section and the regulations promulgated pursuant to this section.
 

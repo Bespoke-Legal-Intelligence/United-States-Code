@@ -2,11 +2,11 @@
 
 #### (a) Limit on amount
 
-At no time shall the aggregate principal amount of outstanding bonds insured under this part together with any accrued unpaid interest thereon exceed $375,000,000, of which—
+At no time shall the aggregate principal amount of outstanding bonds insured under this part together with any accrued unpaid interest thereon exceed $1,100,000,000, of which—
 
-&emsp;(1) not more than $250,000,000 shall be used for loans to eligible institutions that are private historically Black colleges and universities; and
+&emsp;(1) not more than $733,333,333 shall be used for loans to eligible institutions that are private historically Black colleges and universities; and
 
-&emsp;(2) not more than $125,000,000 shall be used for loans to eligible institutions which are historically Black public colleges and universities.
+&emsp;(2) not more than $366,666,667 shall be used for loans to eligible institutions which are historically Black public colleges and universities.
 
 > For purposes of paragraphs (1) and (2), Lincoln University of Pennsylvania is an historically Black public institution. No institution of higher education that has received assistance under section 123 of this title shall be eligible to receive assistance under this part.
 
@@ -20,9 +20,9 @@ No loan may be made under this part for any educational program, activity or ser
 
 #### (d) Discrimination prohibition
 
-No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), or disabling condition; except that the prohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
+No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of theEducation Amendments of 1972 \[20 U.S.C. 1681 et seq.\]), or disabling condition; except that the prohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
 
-(Pub. L. 89–329, title III, §344, formerly title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; renumbered title III, §344, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636.)
+(Pub. L. 89–329, title III, §344, formerly title VII, §724, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; renumbered title III, §344, Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636; Pub. L. 110–315, title III, §314(c), Aug. 14, 2008, 122 Stat. 3181.)
 
 #### References in Text
 
@@ -35,4 +35,12 @@ Section was formerly classified to section 1132c–3 of this title prior to renu
 #### Prior Provisions
 
 A prior section 344 of Pub. L. 89–329 was classified to section 1069 of this title prior to the general amendment of this subchapter by Pub. L. 99–498.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §314(c)(1), substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–315, §314(c)(2), substituted “$733,333,333” for “$250,000,000”.
+
+Subsec. (a)(2). Pub. L. 110–315, §314(c)(3), substituted “$366,666,667” for “$125,000,000”.
 

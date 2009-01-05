@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) merger or consolidation of the debtor with one or more persons;
 
-&emsp;&emsp;(D) sale of all or any part of the property of the estate, either subject to or free of anylien, or the distribution of all or any part of the property of the estate among those having an interest in such property of the estate;
+&emsp;&emsp;(D) sale of all or any part of the property of the estate, either subject to or free of any lien, or the distribution of all or any part of the property of the estate among those having an interest in such property of the estate;
 
 &emsp;&emsp;(E) satisfaction or modification of any lien;
 
@@ -52,7 +52,7 @@
 
 &emsp;(4) provide for the sale of all or substantially all of the property of the estate, and the distribution of the proceeds of such sale among holders of claims or interests;
 
-&emsp;(5) modify the rights of holders of secured claims, other than a claim secured only by a security interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims; and
+&emsp;(5) modify the rights of holders of secured claims, other than a claim secured only by asecurity interest in real property that is the debtor's principal residence, or of holders of unsecured claims, or leave unaffected the rights of holders of any class of claims; and
 
 &emsp;(6) include any other appropriate provision not inconsistent with the applicable provisions of this title.
 
@@ -76,7 +76,7 @@ Subsection (a) specifies what a plan of reorganization must contain. The plan mu
 
 Paragraph (3) applies to claims, not creditors. Thus, if a creditor is undersecured, and thus has a secured claim and an unsecured claim, this paragraph will be applied independently to each of his claims.
 
-Paragraph (4) of subsection (a) is derived from section 216 of chapter X \[section 616 of former title 11\] with some modifications. It requires the plan to provide adequate means for the plans execution. These means may include retention by the debtor of all or any part of the property of the estate, transfer of all or any part of the property of the estate to one or more entities, whetherorganized pre- or postconfirmation, merger or consolidation of the debtor with one or more persons, sale and distribution of all or any part of the property of the estate, satisfaction or modification of any lien, cancellation or modification of any indenture or similar instrument, curing or waiving of any default, extension of maturity dates or change in interest rates of securities, amendment of the debtor's charter, and issuance of securities.
+Paragraph (4) of subsection (a) is derived from section 216 of chapter X \[section 616 of former title 11\] with some modifications. It requires the plan to provide adequate means for the plans execution. These means may include retention by the debtor of all or any part of the property of the estate, transfer of all or any part of the property of the estate to one or more entities, whether organized pre- or postconfirmation, merger or consolidation of the debtor with one or more persons, sale and distribution of all or any part of the property of the estate, satisfaction or modification of any lien, cancellation or modification of any indenture or similar instrument, curing or waiving of any default, extension of maturity dates or change in interest rates of securities, amendment of the debtor's charter, and issuance of securities.
 
 Subparagraph (C), as it applies in railroad cases, has the effect of overruling <i>St. Joe Paper Co. v. Atlantic Coast Line R. R</i>., 347 U.S. 298 (1954). It will allow the trustee or creditors to propose a plan of merger with another railroad without the consent of the debtor, and the debtor will be bound under proposed 11 U.S.C. 1141(a). See Hearings, pt. 3, at 1616. “Similar instrument” referred to in subparagraph (F) might include a deposit with an agent for distribution, other than an indenture trustee, such as an agent under an agreement in a railroad conditional sale or lease financing agreement.
 

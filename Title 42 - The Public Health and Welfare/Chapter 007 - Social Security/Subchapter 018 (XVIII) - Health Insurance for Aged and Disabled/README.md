@@ -17,6 +17,7 @@
 - [&sect; 01395b&#8211;7 - Explanation of medicare benefits](%C2%A7%2001395b%E2%80%937%20-%20Explanation%20of%20medicare%20benefits.md)
 - [&sect; 01395b&#8211;8 - Chronic care improvement](%C2%A7%2001395b%E2%80%938%20-%20Chronic%20care%20improvement.md)
 - [&sect; 01395b&#8211;9 - Provisions relating to administration](%C2%A7%2001395b%E2%80%939%20-%20Provisions%20relating%20to%20administration.md)
+- [&sect; 01395b&#8211;10 - Addressing health care disparities](%C2%A7%2001395b%E2%80%9310%20-%20Addressing%20health%20care%20disparities.md)
 - [Part A - Hospital Insurance Benefits for Aged and Disabled](Part%20A%20-%20Hospital%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/README.md)
 - [Part B - Supplementary Medical Insurance Benefits for Aged and Disabled](Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/README.md)
 - [Part C - Medicare+Choice Program](Part%20C%20-%20Medicare%2BChoice%20Program/README.md)

@@ -100,9 +100,69 @@ Section 103(d)(1) of Pub. L. 97–119, as amended by Pub. L. 99–514, §2, Oct.
 
 Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section \[enacting this section and sections 9500, 9601, 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 \[former section 934a of Title 30\]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
 
+#### Restructuring of Trust Fund Debt
+
+Pub. L. 110–343, div. B, title I, §113(b), Oct. 3, 2008, 122 Stat. 3825, provided that:
+
+“(1)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;“(A)
+
+Market value of the outstanding repayable advances, plus accrued interest.—The term ‘market value of the outstanding repayable advances, plus accrued interest’ means the present value (determined by the Secretary of the Treasury as of the refinancing date and using the Treasury rate as the discount rate) of the stream of principal and interest payments derived assuming that each repayable advance that is outstanding on the refinancing date is due on the 30th anniversary of the end of the fiscal year in which the advance was made to the Trust Fund, and that all such principal and interest payments are made on September 30 of the applicable fiscal year.
+
+&emsp;“(B)
+
+Refinancing date.—The term ‘refinancing date’ means the date occurring 2 days after the enactment of this Act \[Oct. 3, 2008\].
+
+&emsp;“(C)
+
+Repayable advance.—The term ‘repayable advance’ means an amount that has been appropriated to the Trust Fund in order to make benefit payments and other expenditures that are authorized under section 9501 of the Internal Revenue Code of 1986 and are required to be repaid when the Secretary of the Treasury determines that monies are available in the Trust Fund for such purpose.
+
+&emsp;“(D)
+
+Treasury rate.—The term ‘Treasury rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+
+&emsp;“(E)
+
+Treasury 1-year rate.—The term ‘Treasury 1-year rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B).
+
+“(2)
+
+Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—
+
+&emsp;“(A)
+
+Transfer to general fund.—On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:
+
+&emsp;&emsp;“(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such other terms and conditions, including maturity, as the Secretary of the Treasury shall prescribe.
+
+&emsp;&emsp;“(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph.
+
+&emsp;“(B)
+
+Repayment of obligations.—In the event that the Trust Fund is unable to repay the obligations that it has issued to the Secretary of the Treasury under subparagraph (A)(i) and this subparagraph, or is unable to make benefit payments and other authorized expenditures, the Trust Fund shall issue obligations to the Secretary of the Treasury in such amounts as may be necessary to make such repayments, payments, and expenditures, with a maturity of 1 year, and bearing interest at the Treasury 1-year rate. These obligations shall be in such forms and denominations and be subject to such other terms and conditions as the Secretary of the Treasury shall prescribe.
+
+&emsp;“(C)
+
+Authority to issue obligations.—The Trust Fund is authorized to issue obligations to the Secretary of the Treasury under subparagraphs (A)(i) and (B). The Secretary of the Treasury is authorized to purchase such obligations of the Trust Fund. For the purposes of making such purchases, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such Trust Fund obligations under this subparagraph.
+
+“(3)
+
+One-time appropriation.—There is hereby appropriated to the Trust Fund an amount sufficient to pay to the general fund of the Treasury the difference between—
+
+&emsp;“(A) the market value of the outstanding repayable advances, plus accrued interest; and
+
+&emsp;“(B) the proceeds from the obligations issued by the Trust Fund to the Secretary of the Treasury under paragraph (2)(A)(i).
+
+“(4)
+
+Prepayment of trust fund obligations.—The Trust Fund is authorized to repay any obligation issued to the Secretary of the Treasury under subparagraphs (A)(i) and (B) of paragraph (2) prior to its maturity date by paying a prepayment price that would, if the obligation being prepaid (including all unpaid interest accrued thereon through the date of prepayment) were purchased by a third party and held to the maturity date of such obligation, produce a yield to the third-party purchaser for the period from the date of purchase to the maturity date of such obligation substantially equal to the Treasury yield on outstanding marketable obligations of the United States having a comparable maturity to this period.”
+
 #### Funds to Remain Available
 
-Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2162, provided in part that: “In fiscal year 2008 andthereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+Pub. L. 110–161, div. G, title I, Dec. 26, 2007, 121 Stat. 2162, provided in part that: “In fiscal year 2008 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

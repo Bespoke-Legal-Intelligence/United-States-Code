@@ -46,3 +46,4 @@
 - [&sect; 01437z&#8211;5 - Required conversion of distressed public housing to tenant-based assistance](%C2%A7%2001437z%E2%80%935%20-%20Required%20conversion%20of%20distressed%20public%20housing%20to%20tenant-based%20assistance.md)
 - [&sect; 01437z&#8211;6 - Services for public and Indian housing residents](%C2%A7%2001437z%E2%80%936%20-%20Services%20for%20public%20and%20Indian%20housing%20residents.md)
 - [&sect; 01437z&#8211;7 - Mixed-finance public housing](%C2%A7%2001437z%E2%80%937%20-%20Mixed-finance%20public%20housing.md)
+- [&sect; 01437z&#8211;8 - Collection of information on tenants in tax credit projects](%C2%A7%2001437z%E2%80%938%20-%20Collection%20of%20information%20on%20tenants%20in%20tax%20credit%20projects.md)

@@ -33,6 +33,8 @@ Subpart E—Rules for Computing Investment Credit
 
 1962—Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 963, added subpart B.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “seams”.</i>
+
 
 ---
 

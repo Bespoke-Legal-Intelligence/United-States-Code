@@ -66,7 +66,7 @@ Reenactment.—
 
 &emsp;“(1)
 
-In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[set out as a note below\], and as in effect on June 30, 2005, is hereby reenacted.
+In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277)\[set out as a note below\], and as in effect on June 30, 2005, is hereby reenacted.
 
 &emsp;“(2)
 

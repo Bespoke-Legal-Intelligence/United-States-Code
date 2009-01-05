@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) information for the previous 10 years regarding the number and type of seizures of drugs by each National Drug Control Program agency conducting drug interdiction activities, as well as statistical information on the geographic areas of such seizures; and
 
-&emsp;&emsp;&emsp;(iii) information for the previous 10 years regarding the number of air and maritime patrol hours undertaken by each National Drug Control Program agency conducting drug interdiction activities, as well as statistical information on the geographic areas in which such patrol hours took place.
+&emsp;&emsp;&emsp;(iii) information for the previous 10 years regarding the number of air and maritime patrol hours undertaken by each National Drug Control Program agency conducting drug interdiction activities, aswell as statistical information on the geographic areas in which such patrol hours took place.
 
 #### (E) Treatment of classified or law enforcement sensitive information
 

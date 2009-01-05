@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact of structural adjustment lending on the poor; and
 
-&emsp;(6) availability of such indicators will also facilitate the measurement of progress in the alleviation of poverty by other donor agencies, public and private.
+&emsp;(6) availability of such indicators will also facilitate the measurement of progress in thealleviation of poverty by other donor agencies, public and private.
 
 #### (b) Assistance to countries to develop statistical assessment of well-being of poor
 

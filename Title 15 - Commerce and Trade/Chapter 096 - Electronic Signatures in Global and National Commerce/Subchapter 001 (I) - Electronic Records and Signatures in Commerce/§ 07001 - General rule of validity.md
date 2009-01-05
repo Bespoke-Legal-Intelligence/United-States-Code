@@ -54,7 +54,7 @@ This subchapter does not—
 
 #### (B) Verification or acknowledgment
 
-&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to beprovided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
 
 #### (3) Effect of failure to obtain electronic consent or confirmation of consent
 
@@ -76,7 +76,7 @@ This subchapter does not—
 
 #### (1) Accuracy and accessibility
 
-&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstateor foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
+&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
 
 &emsp;&emsp;(A) accurately reflects the information set forth in the contract or other record; and
 
@@ -116,7 +116,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 #### (j) Insurance agents and brokers
 
-An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+An insurance agent or broker acting under the direction of a party that enters into a contractby means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
 &emsp;(1) the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
 

@@ -30,7 +30,7 @@
 
 &emsp;A tribe may, through cooperative agreements with such a jurisdiction or jurisdictions—
 
-&emsp;&emsp;(A) arrange for the tribe to carry out any function of such a jurisdiction under thispart with respect to sex offenders subject to the tribe's jurisdiction; and
+&emsp;&emsp;(A) arrange for the tribe to carry out any function of such a jurisdiction under this part with respect to sex offenders subject to the tribe's jurisdiction; and
 
 &emsp;&emsp;(B) arrange for such a jurisdiction to carry out any function of the tribe under this part with respect to sex offenders subject to the tribe's jurisdiction.
 

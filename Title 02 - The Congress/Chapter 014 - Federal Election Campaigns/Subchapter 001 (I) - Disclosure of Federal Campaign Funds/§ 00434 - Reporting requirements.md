@@ -8,7 +8,7 @@
 
 &emsp;(A) in any calendar year during which there is <sup>1</sup> regularly scheduled election for which such candidate is seeking election, or nomination for election, the treasurer shall file the following reports:
 
-&emsp;&emsp;(i) a pre-election report, which shall be filed no later than the 12th day before (or posted by any of the following: registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, or delivered to an overnight delivery service with an on-line tracking system, if posted or delivered no later than the 15th day before) any election in which such candidate is seeking election, or nomination for election, and which shall be complete as of the 20th day before such election;
+&emsp;&emsp;(i) a pre-election report, which shall be filed no later than the 12th day before (or posted by any of the following: registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, or delivered to an overnight delivery service with an on-line tracking system, if posted or delivered nolater than the 15th day before) any election in which such candidate is seeking election, or nomination for election, and which shall be complete as of the 20th day before such election;
 
 &emsp;&emsp;(ii) a post-general election report, which shall be filed no later than the 30th day after any general election in which such candidate has sought election, and which shall be complete as of the 20th day after such general election; and
 
@@ -20,7 +20,7 @@
 
 &emsp;(A) in any calendar year during which a general election is held to fill such office—
 
-&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of such year, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordancewith paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
+&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of such year, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
 
 &emsp;&emsp;(ii) the treasurer of the other principal campaign committees of a candidate for the office of President shall file a pre-election report or reports in accordance with paragraph (2)(A)(i), a post-general election report in accordance with paragraph (2)(A)(ii), and quarterly reports in accordance with paragraph (2)(A)(iii); and
 
@@ -46,7 +46,7 @@
 
 > Notwithstanding the preceding sentence, a national committee of a political party shall file the reports required under subparagraph (B).
 
-(5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii) or subsection (g)(1) of this section) is sent by registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, the United States postmark shall be considered the date of filing the designation, report or statement. If a designation, report or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii), or subsection (g)(1) of this section) is sent by an overnight delivery service with an on-line tracking system, the date on the proof of delivery to the delivery service shall be considered the date of filing of the designation, report, or statement.
+(5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii) or subsection (g)(1) of this section) is sent by registered mail, certified mail, priority mail having a delivery confirmation, or express mail having a delivery confirmation, the United States postmark shall be considered the date of filing the designation, report or statement. If a designation, report or statement filed pursuant to this Act (other thanunder paragraph (2)(A)(i) or (4)(A)(ii), or subsection (g)(1) of this section) is sent by an overnight delivery service with an on-line tracking system, the date on the proof of delivery to the delivery service shall be considered the date of filing of the designation, report, or statement.
 
 (6)(A) The principal campaign committee of a candidate shall notify the Secretary or the Commission, and the Secretary of State, as appropriate, in writing, of any contribution of $1,000 or more received by any authorized committee of such candidate after the 20th day, but more than 48 hours before, any election. This notification shall be made within 48 hours after the receipt of such contribution and shall include the name of the candidate and the office sought by the candidate, the identification of the contributor, and the date of receipt and amount of the contribution.
 
@@ -144,7 +144,7 @@ In general.—The Commission shall—
 
 &emsp;&emsp;&emsp;(III) allows the Commission to post the information on the Internet immediately upon receipt; and
 
-&emsp;&emsp;(ii) make a copy of software that meets the standards promulgated under clause (i) available to each person required to file adesignation, statement, or report in electronic form under this Act.
+&emsp;&emsp;(ii) make a copy of software that meets the standards promulgated under clause (i) available to each person required to file a designation, statement, or report in electronic form under this Act.
 
 &emsp;(B)
 
@@ -200,7 +200,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(E) person who makes a loan to the reporting committee during the reporting period, together with the identification of any endorser or guarantor of such loan, and the date and amount or value of such loan;
 
-&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures to the reporting committee in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of such receipt; and
+&emsp;&emsp;(F) person who provides a rebate, refund, or other offset to operating expenditures to the reporting committee in an aggregateamount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of such receipt; and
 
 &emsp;&emsp;(G) person who provides any dividend, interest, or other receipt to the reporting committee in an aggregate value or amount in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), together with the date and amount of any such receipt;
 
@@ -260,7 +260,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(v) person who has received any disbursement not otherwise disclosed in this paragraph or paragraph (5) in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), from the reporting committee within the reporting period, together with the date, amount, and purpose of any such disbursement;
 
-&emsp;(7) the total sum of all contributions to such political committee, together with the total contributions less offsets to contributions and the total sum of all operating expenditures made by such political committee, together with total operating expenditures less offsets to operating expenditures, for both the reporting period and the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office); and
+&emsp;(7) the total sum of all contributions to such political committee, together with the totalcontributions less offsets to contributions and the total sum of all operating expenditures made by such political committee, together with total operating expenditures less offsets to operating expenditures, for both the reporting period and the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office); and
 
 &emsp;(8) the amount and nature of outstanding debts and obligations owed by or to such political committee; and where such debts and obligations are settled for less than their reported amount or value, a statement as to the circumstances and conditions under which such debts or obligations were extinguished and the consideration therefor.
 
@@ -276,7 +276,7 @@ Each report under this section shall disclose—
 
 &emsp;(C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 
-(3) The Commission shall be responsible for expeditiously preparing indices which set forth, ona candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
+(3) The Commission shall be responsible for expeditiously preparing indices which set forth, on a candidate-by-candidate basis, all independent expenditures separately, including those reported under subsection (b)(6)(B)(iii) of this section, made by or for each candidate, as reported under this subsection, and for periodically publishing such indices on a timely pre-election basis.
 
 #### (d) Filing by facsimile device or electronic mail
 
@@ -318,7 +318,7 @@ Each report under this section shall disclose—
 
 #### (2) Contents of statement
 
-&emsp;Each statement required to be filed under this subsection shall be made under penalty of perjury and shall contain the following information:
+&emsp;Each statement required to be filed under this subsection shall be made under penalty ofperjury and shall contain the following information:
 
 &emsp;&emsp;(A) The identification of the person making the disbursement, of any person sharing or exercising direction or control over the activities of such person, and of the custodian of the books and accounts of the person making the disbursement.
 
@@ -460,7 +460,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 &emsp;The Commission shall ensure that, to the greatest extent practicable—
 
-&emsp;&emsp;(A) information required to be disclosed under this subsection is publicly available through the Commission website in a manner that is searchable, sortable, and downloadable; and
+&emsp;&emsp;(A) information required to be disclosed under this subsection is publicly availablethrough the Commission website in a manner that is searchable, sortable, and downloadable; and
 
 &emsp;&emsp;(B) the Commission's public database containing information disclosed under this subsection is linked electronically to the websites maintained by the Secretary of the Senate and the Clerk of the House of Representatives containing information filed pursuant to the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1601 et seq.\].
 

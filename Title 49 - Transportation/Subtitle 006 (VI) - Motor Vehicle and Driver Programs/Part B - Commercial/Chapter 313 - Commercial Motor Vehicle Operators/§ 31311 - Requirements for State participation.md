@@ -6,7 +6,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(1) The State shall adopt and carry out a program for testing and ensuring the fitness of individuals to operate commercial motor vehicles consistent with the minimum standards prescribed by the Secretary of Transportation under section 31305(a) of this title.
 
-&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for theoperation of a commercial motor vehicle that comply with the minimum standards.
+&emsp;(2) The State may issue a commercial driver's license to an individual only if the individual passes written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards.
 
 &emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 

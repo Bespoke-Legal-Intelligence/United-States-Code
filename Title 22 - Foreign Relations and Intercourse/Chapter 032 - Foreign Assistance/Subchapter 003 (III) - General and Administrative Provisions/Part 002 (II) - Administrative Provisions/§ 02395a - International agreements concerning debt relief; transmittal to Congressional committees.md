@@ -16,7 +16,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiationswith foreign governments regarding any debts owing to the United States.
+1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
 
 #### Effective Date
 
@@ -40,7 +40,7 @@ Provisions of Law.—The provisions of law referred to in subsection (a) are the
 
 &emsp;“(3) Section 5(f) of the Commodity Credit Corporation Charter Act \[15 U.S.C. 714c(f)\], section 201 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621), or section 202 of such Act (7 U.S.C. 5622), or predecessor provisions under the Food for Peace Act of 1966.
 
-&emsp;“(4) Title I of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1701 et seq.).
+&emsp;“(4) Title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] (7 U.S.C. 1701 et seq.).
 
 &emsp;“(5) The Act of March 11, 1941 (chapter 11; 55 Stat. 31; 22 U.S.C. 411 et seq.; commonly known as the ‘Lend-Lease Act’).
 

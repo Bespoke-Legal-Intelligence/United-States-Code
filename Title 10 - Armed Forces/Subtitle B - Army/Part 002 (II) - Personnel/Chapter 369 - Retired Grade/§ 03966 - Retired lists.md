@@ -48,7 +48,7 @@ In subsection (a), the words “Effective upon June 29, 1948” are omitted as e
 
 Subsection (b)(1) is substituted for the words “all commissioned officers and former commissioned officers of the Army of the United States \* \* \* other than those of the Regular Army \* \* \* heretofore or hereafter granted retirement pay under sections 456, 456a, and 1036a of this title, or any law hereafter enacted to provide retirement pay for commissioned officers other than those of the Regular Army”.
 
-In subsection (b)(2), the words “who is advanced to a commissioned grade” are substituted for the words“heretofore or hereafter retired under any provision of law who, by reason of service in temporary commissioned grades in the Army of the United States \* \* \* or in any of the respective components thereof, are entitled to be retired with commissioned rank or grade”.
+In subsection (b)(2), the words “who is advanced to a commissioned grade” are substituted for the words “heretofore or hereafter retired under any provision of law who, by reason of service in temporary commissioned grades in the Army of the United States \* \* \* or in any of the respective components thereof, are entitled to be retired with commissioned rank or grade”.
 
 Subsections (c) and (d) are inserted, since sections 3964 and 3965 of this title refer to service on the retired list as a warrant officer or enlisted member.
 

@@ -16,7 +16,7 @@ Recitation in this section as originally enacted of the fact that Sieur de Monts
 
 #### Permanent Boundary for Acadia National Park
 
-Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
+Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 110–229, title III, §314(a), (b)(1), (c), (d), May 8, 2008, 122 Stat. 775, provided that:
 
 #### “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.
 
@@ -46,9 +46,9 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
 
-“(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretarymay accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
+“(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
 
-“(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection which is not exchanged within 10 years after enactment of this Act \[Sept. 25, 1986\], shall be conveyed to the towns in which the property is located without emcumbrance \[encumbrance\] and without monetary consideration, except that no town shall be eligible to receive such lands unless, within 10 years after enactment of this Act, lands within the Park boundary and owned by the town have been acquired by the Secretary.
+“(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary.
 
 “(e) Notwithstanding any other provision of this section, lands depicted on the map referenced in section 101 and identified as 10DBH and 11DBH known as the ‘Bar Harbor Sewage Treatment Plant’; 14DBH known as the ‘New Park Street Ballfield’; and 15DBH known as the ‘Former Park Headquarters’; shall be conveyed by the Secretary, without monetary consideration, to the town of Bar Harbor, Maine, within 180 days following the enactment of this Act \[Sept. 25, 1986\]. The real property conveyed pursuant to this subsection shall be used and retained by the town for municipal and public purposes. Title to the properties conveyed pursuant to this subsection shall revert to the United States if such property or any portion thereof is conveyed by the town to another party or used for purposes other than those specified in this subsection.
 
@@ -130,7 +130,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 &emsp;“(2) Termination of rights of use and occupancy.
 
-“(f) The Commission established under this section shall terminate 20 years after the enactment of this Act \[Sept. 25, 1986\].
+“(f) The Commission established under this section shall terminate 40 years after the enactment of this Act \[Sept. 25, 1986\].
 
 #### “SEC. 104. BEAR ISLAND.
 
@@ -140,7 +140,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 #### “SEC. 105. TOWN OF ISLE AU HAUT.
 
-“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 \[set out as a note below\].
+“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governedby the provisions of Public Law 97–335 \[set out as a note below\].
 
 #### “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -148,13 +148,49 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460<i>l</i>–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
+“(c)
+
+Additional Funding.—In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein.
+
 #### “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.
 
 “(a) Notwithstanding the limitation in subsection 3(d) of the Act of October 20, 1976 (90 Stat. 2662) payments in the manner provided in section 3 of that Act \[see 31 U.S.C. 6904(b)\] shall be made to the appropriate units of local government having jurisdiction over lands with the boundary of the Park. Such payments shall be made only for a period of 12 years.
 
 “(b) Payments received by the units of local government pursuant to this section shall be used only for fire protection, police protection, solid waste management, and road maintenance and improvement.
 
-“(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled.”
+“(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled.
+
+#### “SEC. 108. INTERMODAL TRANSPORTATION CENTER.
+
+“(a)
+
+In General.—The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park.
+
+“(b)
+
+Agreements.—To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—
+
+&emsp;“(1) to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance;
+
+&emsp;“(2) to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system or any successor transit system;
+
+&emsp;“(3) to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and
+
+&emsp;“(4) to assist with the operation and maintenance of the intermodal transportation center.
+
+“(c)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center).
+
+&emsp;“(2)
+
+Operations and maintenance.—There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center.”
+
+\[Pub. L. 110–229, title III, §314(b)(2), May 8, 2008, 122 Stat. 775, provided that: “The amendment made by paragraph (1) \[amending section 103(f) of Public Law 99–420, set out above\] shall take effect on September 25, 2006.”\]
 
 #### Acadia National Park Lands Lying Within Boundaries of Town of Isle au Haut, Maine
 
@@ -172,7 +208,7 @@ Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, as amended by Pub. L. 104–333,
 
 “(b) Notwithstanding any other provisions of this Act \[this note\], the Secretary is also authorized to accept by donation, as a coholder for enforcement purposes only, a limited enforcement interest in conservation easements on lands outside the boundary established by section 2 hereof and within the town of Isle au Haut which may from time to time be donated to the Isle au Haut Land Conservation Trust, a trust established under the laws of the State of Maine. The Superintendent of Acadia National Park is hereby authorized to serve as an ex officio trustee of such trust.
 
-“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and conditionas possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
+“Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact onsuch resources, to conserve the character of the town and to protect the quality of the visitor experience.
 
 “\[(b), (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196.\]
 

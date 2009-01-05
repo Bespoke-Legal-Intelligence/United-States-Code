@@ -4,7 +4,7 @@
 
 #### (1) Prohibition of false or misleading transmission information
 
-&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, that contains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
+&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, thatcontains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
 
 &emsp;&emsp;(A) header information that is technically accurate but includes an originating electronic mail address, domain name, or Internet Protocol address the access to which for purposes of initiating the message was obtained by means of false or fraudulent pretenses or representations shall be considered materially misleading;
 
@@ -28,7 +28,7 @@
 
 #### (B) More detailed options possible
 
-&emsp;&emsp;The person initiating a commercial electronic mail message may comply with subparagraph (A)(i) by providing the recipient a list or menu from which the recipient may choose the specific types of commercial electronic mail messages the recipient wants to receive or does not want to receive from the sender, if the list or menu includes an option under which the recipient may choose not toreceive any commercial electronic mail messages from the sender.
+&emsp;&emsp;The person initiating a commercial electronic mail message may comply with subparagraph (A)(i) by providing the recipient a list or menu from which the recipient may choose the specific types of commercial electronic mail messages the recipient wants to receive or does not want to receive from the sender, if the list or menu includes an option under which the recipient may choose not to receive any commercial electronic mail messages from the sender.
 
 #### (C) Temporary inability to receive messages or process requests
 
@@ -86,7 +86,7 @@
 
 #### (2) Automated creation of multiple electronic mail accounts
 
-&emsp;It is unlawful for any person to use scripts or other automated means to register for multiple electronic mail accounts or online useraccounts from which to transmit to a protected computer, or enable another person to transmit to a protected computer, a commercial electronic mail message that is unlawful under subsection (a).
+&emsp;It is unlawful for any person to use scripts or other automated means to register for multiple electronic mail accounts or online user accounts from which to transmit to a protected computer, or enable another person to transmit to a protected computer, a commercial electronic mail message that is unlawful under subsection (a).
 
 #### (3) Relay or retransmission through unauthorized access
 
@@ -128,7 +128,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### (3) Prescription of marks and notices
 
-&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with the Attorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
+&emsp;Not later than 120 days after December 16, 2003, the Commission in consultation with theAttorney General shall prescribe clearly identifiable marks or notices to be included in or associated with commercial electronic mail that contains sexually oriented material, in order to inform the recipient of that fact and to facilitate filtering of such electronic mail. The Commission shall publish in the Federal Register and provide notice to the public of the marks or notices prescribed under this paragraph.
 
 #### (4) Definition
 

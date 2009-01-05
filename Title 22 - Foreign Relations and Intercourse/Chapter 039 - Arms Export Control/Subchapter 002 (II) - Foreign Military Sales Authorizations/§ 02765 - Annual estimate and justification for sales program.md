@@ -24,7 +24,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(6) an analysis and description of the services performed during the preceding fiscal year by officers and employees of the United States Government carrying out functions on a full-time basis under this chapter for which reimbursement is provided under section 2792(b) of this title or section 2761(a) of this title, including the number of personnel involved in performing such services;
 
-&emsp;(7) the total amount of funds in the reserve under section 2764(c) of this title at the end of the fiscal year immediately preceding the fiscal year in which a report under this section is made, together with an assessment of the adequacy of such total amount of funds as a reserve for the payment of claims under guarantees issued pursuant to section 2764 of this title in view of the current debt servicing capacity of borrowing countries, as reported to the Congress pursuant to section 634(a)(5) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394(a)(5)\];
+&emsp;(7) the total amount of funds in the reserve under section 2764(c) of this title at the end of the fiscal year immediately preceding the fiscal year in which a report under this section is made, together with an assessment of the adequacy of such total amount of funds as a reserve for the payment of claims under guarantees issued pursuant to section 2764 of thistitle in view of the current debt servicing capacity of borrowing countries, as reported to the Congress pursuant to section 634(a)(5) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394(a)(5)\];
 
 &emsp;(8) a list of all countries with respect to which findings made by the President pursuant to section 2753(a)(1) of this title are in effect on the date of such transmission;
 
@@ -32,7 +32,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
 
-&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, orany Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
+&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 99–83, §112(b), added subsec. (d) defining “cash flow 
 
 Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of information to Congress.
 
-1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no laterthan Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
+1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no later than Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
 
 Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of this section. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) compel the disclosure, transfer, or licensing of intellectual property to any third party (such as patents, copyrights, trademarks, trade secrets, and proprietary information); or
 
-&emsp;(3) obtain information from a person that provides (or seeks to provide) any product, and then offer any postal service that uses or is based in whole or in part on such information, without the consent of the person providing that information, unless substantially the same information is obtained (or obtainable) from an independent source or is otherwise obtained (or obtainable).
+&emsp;(3) obtain information from a person that provides (or seeks to provide) any product, andthen offer any postal service that uses or is based in whole or in part on such information, without the consent of the person providing that information, unless substantially the same information is obtained (or obtainable) from an independent source or is otherwise obtained (or obtainable).
 
 (b) The Postal Regulatory Commission shall prescribe regulations to carry out this section.
 

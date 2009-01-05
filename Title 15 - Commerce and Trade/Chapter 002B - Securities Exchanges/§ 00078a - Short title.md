@@ -6,7 +6,7 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, 78ee to 78hh, and 78mm of this title. Sections 78kk, 78<i>ll</i>, and 78nn of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, 78ee to 78hh, and 78mm of this title. Sections 78kk, 78<i>ll</i>, 78nn, and 78<i>oo</i> of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2006 Amendment
 
@@ -30,7 +30,7 @@ Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm,and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
+Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
 
 Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: “This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78<i>o</i>, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and 77r of this title\] may be cited as the ‘Capital Markets Efficiency Act of 1996’.”
 
@@ -84,7 +84,7 @@ Pub. L. 99–571, §1(a), Oct. 28, 1986, 100 Stat. 3208, provided that: “This 
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: “This Act \[amending section 78n of this title andenacting a provision set out as a note under section 78n of this title\] may be cited as the ‘Shareholder Communications Act of 1985’.”
+Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: “This Act \[amending section 78n of this title and enacting a provision set out as a note under section 78n of this title\] may be cited as the ‘Shareholder Communications Act of 1985’.”
 
 #### Short Title of 1984 Amendment
 

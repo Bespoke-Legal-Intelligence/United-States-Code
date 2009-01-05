@@ -18,4 +18,5 @@ This part was, in the original, part D of title IV of Pub. L. 89–329, the High
 - [&sect; 01087g - Regulatory activities](%C2%A7%2001087g%20-%20Regulatory%20activities.md)
 - [&sect; 01087h - Funds for administrative expenses](%C2%A7%2001087h%20-%20Funds%20for%20administrative%20expenses.md)
 - [&sect; 01087i - Authority to sell loans](%C2%A7%2001087i%20-%20Authority%20to%20sell%20loans.md)
+- [&sect; 01087i&#8211;1 - Temporary authority to purchase student loans](%C2%A7%2001087i%E2%80%931%20-%20Temporary%20authority%20to%20purchase%20student%20loans.md)
 - [&sect; 01087j - Loan cancellation for teachers](%C2%A7%2001087j%20-%20Loan%20cancellation%20for%20teachers.md)

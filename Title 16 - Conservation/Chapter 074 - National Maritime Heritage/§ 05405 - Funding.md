@@ -48,9 +48,13 @@
 
 #### (1) Requirement
 
-&emsp;The Secretary of Transportation shall dispose of all vessels described in paragraph (2)—
+&emsp;The Secretary of Transportation shall dispose (either by sale or purchase of disposal services) of all vessels described in paragraph (2)—
 
-&emsp;&emsp;(A) by September 30, 2006;
+&emsp;&emsp;(A) in accordance with a priority system for disposing of vessels, as determined by the Secretary, which shall include provisions requiring the Maritime Administration to—
+
+&emsp;&emsp;&emsp;(i) dispose of all deteriorated high priority ships that are available for disposal, within 12 months of their designation as such; and
+
+&emsp;&emsp;&emsp;(ii) give priority to the disposition of those vessels that pose the most significant danger to the environment or cost the most to maintain;
 
 &emsp;&emsp;(B) in the manner that provides the best value to the Government, except in any case in which obtaining the best value would require towing a vessel and such towing poses a serious threat to the environment; and
 
@@ -68,13 +72,17 @@
 
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490.)
+(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594.)
 
 #### Codification
 
 “Section 50301(a) of title 46” substituted in subsec. (a)(1) for “Act of June 2, 1951 (46 App. U.S.C. 1241a),”, “section 57102, 57103, or 57104 of title 46” substituted in subsec. (a)(1) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158 or 1160(i))” and in subsec. (b)(2) for “section 508 or 510(i) of the Merchant Marine Act, 1936 (46 U.S.C. 1158 or 1160(i))”, and “sections 57102 to 57104 of title 46” substituted in subsec. (c)(1)(C) for “sections 508 and 510(i) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1158, 1160(i))”, on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 50301 and 57102 to 57104 of Title 46, Shipping.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–181, §3514(1), inserted “(either by sale or purchase of disposal services)” after “shall dispose” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 110–181, §3514(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “by September 30, 2006;”.
 
 2000—Subsec. (c)(1)(A). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(1)\], substituted “2006” for “2001”.
 
@@ -118,7 +126,7 @@ Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(
 
 “(d)
 
-Construction.—Nothing in this section shall be construed to establish a preference for the reefing orexport of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
+Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
 
 #### Scrapping of National Defense Reserve Fleet Vessels
 

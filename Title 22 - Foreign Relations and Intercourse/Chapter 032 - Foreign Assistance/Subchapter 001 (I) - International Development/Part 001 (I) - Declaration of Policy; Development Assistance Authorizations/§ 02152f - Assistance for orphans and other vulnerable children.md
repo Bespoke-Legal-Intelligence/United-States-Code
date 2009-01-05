@@ -28,7 +28,7 @@ In this section:
 
 #### (1) AIDS
 
-&emsp;The term “AIDS” has the meaning given the term in section 2151b–2(g)(1) of this title.
+&emsp;The term “AIDS” has the meaning given the term in section 2151b–2(g)(1) <sup>2</sup> of this title.
 
 #### (2) Children
 
@@ -36,7 +36,7 @@ In this section:
 
 #### (3) HIV/AIDS
 
-&emsp;The term “HIV/AIDS” has the meaning given the term in section 2151b–2(g)(3) of this title.
+&emsp;The term “HIV/AIDS” has the meaning given the term in section 2151b–2(g)(3) <sup>2</sup> of this title.
 
 #### (4) Orphan
 
@@ -54,7 +54,7 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;(2) for school food programs, including the purchase of local or regional foodstuffs where appropriate;
 
-&emsp;(3) to increase primary school enrollment through the elimination of school fees, where appropriate, or other barriers to educationwhile ensuring that adequate resources exist for teacher training and infrastructure;
+&emsp;(3) to increase primary school enrollment through the elimination of school fees, where appropriate, or other barriers to education while ensuring that adequate resources exist for teacher training and infrastructure;
 
 &emsp;(4) to provide employment training and related services for orphans and other vulnerable children who are of legal working age;
 
@@ -74,7 +74,7 @@ The President is authorized to provide assistance, including providing such assi
 
 &emsp;The monitoring and evaluation system shall—
 
-&emsp;&emsp;(A) establish performance goals for the assistance and expresses <sup>2</sup> such goals in an objective and quantifiable form, to the extent feasible;
+&emsp;&emsp;(A) establish performance goals for the assistance and expresses <sup>3</sup> such goals in an objective and quantifiable form, to the extent feasible;
 
 &emsp;&emsp;(B) establish performance indicators to be used in measuring or assessing the achievement of the performance goals described in subparagraph (A); and
 
@@ -126,7 +126,9 @@ The President is authorized to provide assistance, including providing such assi
 
 #### References in Text
 
-Section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of2005, referred to in subsecs. (d)(1) and (e)(2)(B), (C), is section 4 of Pub. L. 109–95, which is set out as a note under this section.
+Section 2151b–2(g) of this title, referred to in subsec. (b)(1), (3), was redesignated section 2151b–2(h) of this title by Pub. L. 110–293, title III, §301(d)(1), July 30, 2008, 122 Stat. 2951.
+
+Section 4 of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, referred to in subsecs. (d)(1) and (e)(2)(B), (C), is section 4 of Pub. L. 109–95, which is set out as a note under this section.
 
 This chapter, referred to in subsec. (e)(2)(B), (C), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -164,7 +166,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: “Congress 
 
 &emsp;“(12) The HIV/AIDS pandemic is placing huge burdens on communities and is leaving many orphans with little support. Alternatives to traditional orphanages, such as community-based resource centers, continue to evolve in response to the massive number of orphans that has resulted from the pandemic.
 
-&emsp;“(13) The AIDS orphans crisis in sub-Saharan Africa has implications for political stability, human welfare, and development that extend far beyond the region, affecting governments and people worldwide, and this crisis requires an accelerated response from the international community.
+&emsp;“(13) The AIDS orphans crisis in sub-Saharan Africa has implications for political stability, human welfare, and development that extend far beyond the region, affecting governments and people worldwide,and this crisis requires an accelerated response from the international community.
 
 &emsp;“(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
@@ -216,5 +218,7 @@ Content.—The strategy required by subsection (a) shall include—
 
 <i><sup>1</sup></i><i> So in original. Probably should be “living in”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “express”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “express”.</i>
 

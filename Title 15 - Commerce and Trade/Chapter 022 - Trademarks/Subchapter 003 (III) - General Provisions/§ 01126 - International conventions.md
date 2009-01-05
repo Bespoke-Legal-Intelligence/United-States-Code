@@ -108,7 +108,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Effective Date of 1961 Amendment
 
-Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
+Section 3 of Pub. L. 87–333 provided that: “This Act \[amending this section and section 119 of Title 35, Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in theUnited States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
 
 #### Repeal and Effect on Existing Rights
 

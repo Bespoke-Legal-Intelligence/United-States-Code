@@ -62,7 +62,7 @@ Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any f
 
 1968—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler's checks bearing forged countersignatures.
 
-1961—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourth par., and “fraudulent State tax stamps,” in section catchline.
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourthpar., and “fraudulent State tax stamps,” in section catchline.
 
 1956—Act July 9, 1956, inserted par. relating to interstate transportation of persons in schemes to defraud.
 

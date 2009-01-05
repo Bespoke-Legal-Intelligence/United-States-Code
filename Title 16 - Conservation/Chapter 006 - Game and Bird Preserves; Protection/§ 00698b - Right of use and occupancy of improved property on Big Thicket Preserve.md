@@ -2,7 +2,7 @@
 
 #### (a) Election of right of use and occupancy; payment of fair market value; termination of right
 
-The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term of not more than twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of sections 698 to 698e of this title, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.
+The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use and occupancy of the improved property for noncommercial residential purposes for a definite term of not more than twenty-five years or, inlieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of sections 698 to 698e of this title, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.
 
 #### (b) “Improved property” defined
 
@@ -10,7 +10,7 @@ As used in sections 698 to 698e of this title, the term “improved property” 
 
 #### (c) Waiver of right to relocation assistance by election of right of use and occupancy
 
-Whenever an owner of property elects to retain a right of use and occupancy as provided inthis section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
+Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
 (Pub. L. 93–439, §3, Oct. 11, 1974, 88 Stat. 1256; Pub. L. 94–578, title III, §322, Oct. 21, 1976, 90 Stat. 2742.)
 

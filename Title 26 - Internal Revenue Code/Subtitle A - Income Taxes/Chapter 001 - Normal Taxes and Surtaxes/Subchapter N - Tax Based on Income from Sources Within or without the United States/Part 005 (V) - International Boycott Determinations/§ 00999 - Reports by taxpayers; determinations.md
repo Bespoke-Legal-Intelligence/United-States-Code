@@ -14,7 +14,7 @@
 
 #### (2) Participation and cooperation; request therefor
 
-&emsp;A taxpayer shall report whether he, a foreign corporation of which he is a UnitedStates shareholder, or any member of a controlled group which includes the taxpayer or such foreign corporation has participated in or cooperated with an international boycott at any time during the taxable year, or has been requested to participate in or cooperate with such a boycott, and, if so, the nature of any operation in connection with which there was participation in or cooperation with such boycott (or there was a request to participate or cooperate).
+&emsp;A taxpayer shall report whether he, a foreign corporation of which he is a United States shareholder, or any member of a controlled group which includes the taxpayer or such foreign corporation has participated in or cooperated with an international boycott at any time during the taxable year, or has been requested to participate in or cooperate with such a boycott, and, if so, the nature of any operation in connection with which there was participation in or cooperation with such boycott (or there was a request to participate or cooperate).
 
 #### (3) List to be maintained
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, s
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relatingto existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
 
 #### Effective Date of 1986 Amendment
 

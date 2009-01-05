@@ -18,7 +18,7 @@ Definition.—As used in this section the term “war crime” means any conduct
 
 &emsp;(3) which constitutes a grave breach of common Article 3 (as defined in subsection (d)) when committed in the context of and in association with an armed conflict not of an international character; or
 
-&emsp;(4) of a person who, in relation to an armed conflict and contrary to the provisions of the Protocol on Prohibitions or Restrictions onthe Use of Mines, Booby-Traps and Other Devices as amended at Geneva on 3 May 1996 (Protocol II as amended on 3 May 1996), when the United States is a party to such Protocol, willfully kills or causes serious injury to civilians.
+&emsp;(4) of a person who, in relation to an armed conflict and contrary to the provisions of the Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices as amended at Geneva on 3 May 1996 (Protocol II as amended on 3 May 1996), when the United States is a party to such Protocol, willfully kills or causes serious injury to civilians.
 
 (d)
 
@@ -36,7 +36,7 @@ Torture.—The act of a person who commits, or conspires or attempts to commit, 
 
 &emsp;&emsp;(B)
 
-Cruel or inhuman treatment.—The act of a person who commits, or conspires or attempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
+Cruel or inhuman treatment.—The act of a person who commits, or conspires orattempts to commit, an act intended to inflict severe or serious physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions), including serious physical abuse, upon another within his custody or control.
 
 &emsp;&emsp;(C)
 
@@ -94,7 +94,7 @@ Definitions.—In the case of an offense under subsection (a) by reason of subse
 
 &emsp;(3)
 
-Inapplicability of certain provisions with respect to collateral damage or incident of lawful attack.—The intent specified for the conduct stated in subparagraphs (D),\(E), and (F) or paragraph (1) precludes the applicability of those subparagraphs to an offense under subsection (a) by reasons of subsection (c)(3) with respect to—
+Inapplicability of certain provisions with respect to collateral damage or incident of lawful attack.—The intent specified for the conduct stated in subparagraphs (D), (E), and (F) or paragraph (1) precludes the applicability of those subparagraphs to an offense under subsection (a) by reasons of subsection (c)(3) with respect to—
 
 &emsp;&emsp;(A) collateral damage; or
 
@@ -266,7 +266,7 @@ Sec. 4. <i>Assignment of Function</i>. With respect to the program addressed in 
 
 Sec. 5. <i>General Provisions</i>. (a) Subject to subsection (b) of this section, this order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
-(b) Nothing in this order shall be construed to prevent or limit reliance upon this order in a civil, criminal, or administrative proceeding, or otherwise, by theCentral Intelligence Agency or by any individual acting on behalf of the Central Intelligence Agency in connection with the program addressed in this order.
+(b) Nothing in this order shall be construed to prevent or limit reliance upon this order in a civil, criminal, or administrative proceeding, or otherwise, by the Central Intelligence Agency or by any individual acting on behalf of the Central Intelligence Agency in connection with the program addressed in this order.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

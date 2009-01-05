@@ -72,7 +72,7 @@
 
 (1) The cash payment made pursuant to subsection (a) of this section or the principal amount of a note issued pursuant to subsection (d) of this section to a dissenting shareholder shall be reduced by the amount of dividends paid to such shareholder with respect to his or her Settlement Common Stock after the date of the vote described in subsection (a)(1) of this section.
 
-(2) Upon receipt of a cash payment pursuant to subsection (a) of this section or a note pursuant to subsection (d) of this section, a dissentingshareholder shall no longer have an interest in the shares of Settlement Common Stock or in the Native Corporation.
+(2) Upon receipt of a cash payment pursuant to subsection (a) of this section or a note pursuant to subsection (d) of this section, a dissenting shareholder shall no longer have an interest in the shares of Settlement Common Stock or in the Native Corporation.
 
 (Pub. L. 92–203, §38, as added Pub. L. 100–241, §9, Feb. 3, 1988, 101 Stat. 1802.)
 

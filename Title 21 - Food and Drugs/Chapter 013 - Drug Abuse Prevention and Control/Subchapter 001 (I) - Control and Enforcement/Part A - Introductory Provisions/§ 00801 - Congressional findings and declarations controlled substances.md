@@ -6,7 +6,7 @@ The Congress makes the following findings and declarations:
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
-(3) A major portion of the traffic in controlled substances flows through interstate and foreign commerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantialand direct effect upon interstate commerce because—
+(3) A major portion of the traffic in controlled substances flows through interstate and foreign commerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantial and direct effect upon interstate commerce because—
 
 &emsp;(A) after manufacture, many controlled substances are transported in interstate commerce,
 
@@ -38,6 +38,12 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–425, §1, Oct. 15, 2008, 122 Stat. 4820, provided that: “This Act \[enacting section 831 of this title, amending sections 802, 823, 827, 829, 841, 843, 882, and 960 of this title, and enacting provisions set out as notes under section 802 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Ryan Haight Online Pharmacy Consumer Protection Act of 2008’.”
+
+Pub. L. 110–415, §1, Oct. 14, 2008, 122 Stat. 4349, provided that: “This Act \[amending section 830 of this title\] may be cited as the ‘Methamphetamine Production Prevention Act of 2008’.”
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–177, title VII, §701, Mar. 9, 2006, 120 Stat. 256, provided that: “This title \[see Tables for classification\] may be cited as the ‘Combat Methamphetamine Epidemic Act of 2005’.”
@@ -48,7 +54,7 @@ Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: “This Ac
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–358, §1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act \[enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of this title\] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
+Pub. L. 108–358, §1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act \[enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of thistitle\] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
 
 #### Short Title of 2003 Amendment
 
@@ -72,7 +78,7 @@ Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided th
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–305, §1, Oct. 13, 1996, 110 Stat. 3807, provided that: “This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may becited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
+Pub. L. 104–305, §1, Oct. 13, 1996, 110 Stat. 3807, provided that: “This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
 
 Pub. L. 104–237, §1(a), Oct. 3, 1996, 110 Stat. 3099, provided that: “This Act \[enacting section 872a of this title, amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and section 1607 of Title 19, Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and section 290aa–4 of Title 42, The Public Health and Welfare\] may be cited as the ‘Comprehensive Methamphetamine Control Act of 1996’.”
 
@@ -132,7 +138,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: “That this Act \[
 
 #### Short Title
 
-Pub. L. 91–513, in the provisions preceding section 1 immediately following the enacting clause, provided: “That this Act \[enacting this chapter and sections 257a, 2688<i>l</i>–1, 2688n–1, and 3509 of Title 42, The Public Healthand Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688<i>l</i>, 2688m, 2688n, 2688<i>o</i>, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
+Pub. L. 91–513, in the provisions preceding section 1 immediately following the enacting clause, provided: “That this Act \[enacting this chapter and sections 257a, 2688<i>l</i>–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688<i>l</i>, 2688m, 2688n, 2688<i>o</i>, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
 
 Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 

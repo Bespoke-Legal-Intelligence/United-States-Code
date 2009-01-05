@@ -78,7 +78,7 @@ The text of section 363(b) of Pub. L. 104–193, which was set out as a note und
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–375, §1084(k)(1)–(3), transferred section 363(b) of Pub. L. 104–193 to the end of this section and redesignated it as subsec. (c). See Codification note above.
+2004—Subsec. (c). Pub. L. 108–375, §1084(k)(1)–(3), transferred section 363(b) of Pub. L. 104–193 to the endof this section and redesignated it as subsec. (c). See Codification note above.
 
 Subsec. (c)(1). Pub. L. 108–375, §1084(k)(4)(A), (B)(i), in introductory provisions, substituted “Secretary concerned” for “Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy,” and “armed forces” for “Armed Forces”.
 

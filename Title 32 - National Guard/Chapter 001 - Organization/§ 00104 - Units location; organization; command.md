@@ -80,6 +80,10 @@ Subsec. (d). Pub. L. 109–163, §1057(b)(3), substituted “State, the Commonwe
 
 Subsecs. (c), (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
+#### Council of Governors
+
+Pub. L. 110–181, div. A, title XVIII, §1822, Jan. 28, 2008, 122 Stat. 500, provided that: “The President shall establish a bipartisan Council of Governors to advise the Secretary of Defense, the Secretary of Homeland Security, and the White House Homeland Security Council on matters related to the National Guard and civil support missions.”
+
 #### Comptroller General Assessments of National Guard Management
 
 Pub. L. 107–314, div. A, title V, §511(a), Dec. 2, 2002, 116 Stat. 2536, provided that: “Not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\], the Comptroller General shall submit to Congress a report on management of the National Guard. The report shall include the following:
@@ -90,7 +94,7 @@ Pub. L. 107–314, div. A, title V, §511(a), Dec. 2, 2002, 116 Stat. 2536, prov
 
 &emsp;“(3) The Comptroller General's assessment of the process for, and the nature and extent of, the administrative or judicial corrective action taken by the Secretary of Defense, the Secretary of the Army, and the Secretary of the Air Force as a result of Inspector General investigations or other investigations in which allegations against senior National Guard officers are substantiated in whole or in part.
 
-&emsp;“(4) The Comptroller General's determination of the effectiveness of the Federal protections providedfor members or employees of the National Guard who report allegations of waste, fraud, abuse, or mismanagement and the nature and extent to which corrective action is taken against those in the National Guard who retaliate against such members or employees.”
+&emsp;“(4) The Comptroller General's determination of the effectiveness of the Federal protections provided for members or employees of the National Guard who report allegations of waste, fraud, abuse, or mismanagement and the nature and extent to which corrective action is taken against those in the National Guard who retaliate against such members or employees.”
 
 #### Study of State and Federal Missions of National Guard
 

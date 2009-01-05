@@ -1,6 +1,6 @@
 ### §6963. Composition of Task Force
 
-The Secretary of the Treasury, the Secretary of Commerce, the Secretary of Labor, the Secretary of State, the Commissioner of Customs, and the heads of other executive branch agencies, as appropriate, acting through their respective designees at or above the level of Deputy Assistant Secretary, or in the case of the Customs Service, at or above the level of Assistant Commissioner, shall compose the Task Force. The designee of the Secretary of the Treasury shall chair the Task Force.
+The Secretary of the Treasury, the Secretary of Commerce, the Secretary of Labor, the Secretary of State, the Commissioner of Customs, and the heads of other executive branch agencies, as appropriate, acting through their respective designees at or above the level of Deputy Assistant Secretary, or in the case of the Customs Service, at or above the level of AssistantCommissioner, shall compose the Task Force. The designee of the Secretary of the Treasury shall chair the Task Force.
 
 (Pub. L. 106–286, div. B, title V, §503, Oct. 10, 2000, 114 Stat. 904.)
 

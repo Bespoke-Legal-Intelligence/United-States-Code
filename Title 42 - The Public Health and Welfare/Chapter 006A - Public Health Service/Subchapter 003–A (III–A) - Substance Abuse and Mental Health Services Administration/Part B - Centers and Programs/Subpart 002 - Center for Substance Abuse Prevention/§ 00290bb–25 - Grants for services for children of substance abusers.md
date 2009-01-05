@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) the entity will identify children who may be eligible for medical assistance under a State program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
 
-&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) <sup>1</sup> regarding the provision of services under paragraph (1), the requirement established in suchsubparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) <sup>1</sup> regarding the provision of services under paragraph (1), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 &emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
@@ -68,7 +68,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (c) Services for affected families
 
-The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
+The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements withother entities) each of the following services, as applicable to the family member involved:
 
 &emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
@@ -144,7 +144,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(2) to make cash payments to intended recipients of services;
 
-&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or purchase major medical equipment;
+&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (otherthan minor remodeling) any building or other facility, or purchase major medical equipment;
 
 &emsp;(4) to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
 
@@ -356,7 +356,7 @@ Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars
 
 Subsec. (m)(4). Pub. L. 106–310, §3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 
-Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
+Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting“(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
 
 Pub. L. 106–310, §3106(h)(3), struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
 

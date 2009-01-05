@@ -6,11 +6,11 @@ Federal recognition is hereby extended to the Tribe, and its members shall be el
 
 #### (b) Restoration of rights and privileges
 
-Except as provided in subscription <sup>1</sup> (c) of this section, all rights and privileges of the Tribe and of members of the Tribe under any Federal treaty, Executive order, agreement or statute, or under any other authority, which were diminished or lost under the Act of August 13, 1954 (25 U.S.C. 691, et seq.), are hereby restored and the provisions of that Act are inapplicable to the Tribe and to members of the Tribe on October 17, 1984.
+Except as provided in subscription <sup>1</sup> (c) of this section, all rights and privileges of the Tribeand of members of the Tribe under any Federal treaty, Executive order, agreement or statute, or under any other authority, which were diminished or lost under the Act of August 13, 1954 (25 U.S.C. 691, et seq.), are hereby restored and the provisions of that Act are inapplicable to the Tribe and to members of the Tribe on October 17, 1984.
 
 #### (c) Hunting, fishing, or trapping rights not granted or restored
 
-This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to any member of the Tribe, norshall any presumption be created by this subchapter as to the existence or nonexistence of such rights.
+This subchapter shall not grant or restore any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, to any member of the Tribe, nor shall any presumption be created by this subchapter as to the existence or nonexistence of such rights.
 
 #### (d) Effect on property rights and other obligations
 

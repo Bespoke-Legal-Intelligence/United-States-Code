@@ -10,7 +10,7 @@ No deduction shall be allowed for any interest paid or incurred by a corporation
 
 #### (b) Corporate acquisition indebtedness
 
-For purposes of this section, the term “corporate acquisition indebtedness” means any obligation evidenced by a bond, debenture, note, orcertificate or other evidence of indebtedness issued after October 9, 1969, by a corporation (hereinafter in this section referred to as “issuing corporation”) if—
+For purposes of this section, the term “corporate acquisition indebtedness” means any obligation evidenced by a bond, debenture, note, or certificate or other evidence of indebtedness issued after October 9, 1969, by a corporation (hereinafter in this section referred to as “issuing corporation”) if—
 
 &emsp;(1) such obligation is issued to provide consideration for the acquisition of—
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (i) Certain obligations issued after October 9, 1969
 
-For purposes of this section, an obligation shall not be corporate acquisition indebtednessif issued after October 9, 1969, to provide consideration for the acquisition of—
+For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
 
 &emsp;(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
 

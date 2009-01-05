@@ -26,7 +26,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;(C) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
 
-&emsp;&emsp;(D) after either spouse has entered into a closing agreement under section 7121 with respect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
+&emsp;&emsp;(D) after either spouse has entered into a closing agreement under section 7121 withrespect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
 
 #### (3) When return deemed filed
 
@@ -40,7 +40,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had gross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additionalstandard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
+> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additional standard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
 
 #### (B) Credit or refund
 
@@ -98,7 +98,7 @@ For purposes of this section and subtitle A—
 
 &emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for any taxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
 
-> &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year. With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
+> &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year.With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
 
 #### (2) Effect of election
 
@@ -184,7 +184,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If—
 
-&emsp;&emsp;(A) any individual is a nonresident alien individual at the beginning of any taxable year but is a resident of the United States at the close of such taxable year,
+&emsp;&emsp;(A) any individual is a nonresident alien individual at the beginning of any taxableyear but is a resident of the United States at the close of such taxable year,
 
 &emsp;&emsp;(B) at the close of such taxable year, such individual is married to a citizen or resident of the United States, and
 
@@ -196,7 +196,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I,§104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
@@ -228,7 +228,7 @@ Subsec. (e). Pub. L. 98–369, §424(a), in amending subsec. (e) generally, reen
 
 Subsec. (f)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
 
-1982—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and by striking out “of wages”, and subsec. (h)(1) is amended by substituting “(relating to withholding on wages, interest, dividends, and patronage dividends)” for “(relating to wage withholding)” and bystriking out “of wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1981—Subsec. (b)(3)(A). Pub. L. 97–34 substituted “the exemption amount” for “$1,000” and “twice the exemption amount” for “$2,000” in cls. (ii) and (iii) and inserted provision following cl. (iii) defining “exemption amount”.
 
@@ -318,7 +318,7 @@ Transitional rule.—If—
 
 &emsp;“(C) the amount of such disallowed deductions exceeds the taxable income shown on such return,
 
-&emsp;“(D) without regard to any determination before October 21, 1988, the other spouse establishes that in signing the return he or she did not know, and had no reason to know, that there was such an understatement, and
+&emsp;“(D) without regard to any determination before October 21, 1988, the other spouse establishes that insigning the return he or she did not know, and had no reason to know, that there was such an understatement, and
 
 &emsp;“(E) the marriage between such spouses terminated and immediately after such termination the net worth of the other spouse was less than $10,000,
 
@@ -338,7 +338,7 @@ Section 701(u)(15)(E) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, 
 
 &emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
 
-&emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid onor after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
+&emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid on or after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
 Section 701(u)(16)(B) of Pub. L. 95–600 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 

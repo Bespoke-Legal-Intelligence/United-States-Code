@@ -12,7 +12,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(C) contains assurances that the State—
 
-&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis of the interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
+&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis of the interim review will revise the statementof goals in the plan, if necessary, to reflect changed circumstances; and
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
@@ -64,7 +64,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general
 
-&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limitedfamily reunification, and adoption promotion and support services).
+&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
 
 #### (2) Plans of Indian tribes or tribal consortia
 
@@ -74,7 +74,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (B) Special rule
 
-&emsp;&emsp;Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe or tribal consortium under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made under section 629c(a) of this title to all Indian tribes and tribal consortia with plans approved under this subpart with the same or larger numbers of children.
+&emsp;&emsp;Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe or tribal consortium under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made undersection 629c(a) of this title to all Indian tribes and tribal consortia with plans approved under this subpart with the same or larger numbers of children.
 
 #### (c) Annual submission of State reports to Congress
 

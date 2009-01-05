@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to promote the goal of economic and social self-sufficiency for American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives.
 
-(Pub. L. 88–452, title VIII, §802, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 100–175, title V, §§504(b)(1), 506(c)(1), Nov. 29, 1987, 101 Stat. 975, 978; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 103–171, §5(1), Dec. 2, 1993, 107 Stat. 1991.)
+(Pub. L. 88–452, title VIII, §802, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amendedPub. L. 100–175, title V, §§504(b)(1), 506(c)(1), Nov. 29, 1987, 101 Stat. 975, 978; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 103–171, §5(1), Dec. 2, 1993, 107 Stat. 1991.)
 
 #### Prior Provisions
 
@@ -38,7 +38,7 @@ Pub. L. 104–270, Oct. 9, 1996, 110 Stat. 3301, provided that:
 
 &emsp;“(4) The Alaska Natives Commission found that due to the high rate of unemployment and lack of economic opportunities for Alaska Natives, government programs for the poor have become the foundation of many village economies. Displacing traditional Alaska Native social safety nets, these well-meaning programs have undermined the healthy interdependence and self-sufficiency of Native tribes and families and have put Native tribes and families at risk of becoming permanent dependencies of Government.
 
-&emsp;“(5) Despite these seemingly insurmountable problems, the Alaska Natives Commission found thatAlaska Natives, building on the Alaska Native Claims Settlement Act, had begun a unique process of critical self-examination which, if supported by the United States Congress through innovative legislation, and effective public administration at all levels including traditional Native governance, could provide the basis for an Alaska Native social, cultural, economic, and spiritual renewal.
+&emsp;“(5) Despite these seemingly insurmountable problems, the Alaska Natives Commission found that Alaska Natives, building on the Alaska Native Claims Settlement Act, had begun a unique process of critical self-examination which, if supported by the United States Congress through innovative legislation, and effective public administration at all levels including traditional Native governance, could provide the basis for an Alaska Native social, cultural, economic, and spiritual renewal.
 
 &emsp;“(6) The Alaska Natives Commission recognized that the key to the future well-being of Alaska Natives lay in—
 

@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish a Court of Military Co
 
 (b)
 
-Appellate Military Judges.—The Secretary shall assign appellate military judges to a Court of Military Commission Review. Each appellate military judge shall meet the qualifications for military judges prescribed by section 948j(b) of this title or shall be a civilian with comparable qualifications. No person may be serve as an appellate military judge in any case in which that person acted as a military judge, counsel, or reviewing official.
+Appellate Military Judges.—The Secretary shall assign appellate military judges to a Court of Military Commission Review. Each appellate military judge shall meet the qualifications for military judges prescribed by section 948j(b) of this title or shall be a civilian with comparable qualifications. No person may serve as an appellate military judge in any case in which that person acted as a military judge, counsel, or reviewing official.
 
 (c)
 
@@ -16,5 +16,9 @@ Cases To Be Reviewed.—The Court of Military Commission Review, in accordance w
 
 Scope of Review.—In a case reviewed by the Court of Military Commission Review under this section, the Court may act only with respect to matters of law.
 
-(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2621.)
+(Added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, §1063(a)(6), Jan. 28, 2008, 122 Stat. 322.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–181 substituted “No person may serve” for “No person may be serve”.
 

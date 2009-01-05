@@ -52,5 +52,5 @@ The Secretary may waive the application of subsection (a) if an eligible agency 
 
 A prior section 2352, Pub. L. 88–210, title I, §132, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3112, related to distribution of funds for postsecondary vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2352, Pub. L. 88–210, title III, §302, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, §301, Sept. 25,1990, 104 Stat. 786, related to use of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2352, Pub. L. 88–210, title III, §302, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, §301, Sept. 25, 1990, 104 Stat. 786, related to use of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 

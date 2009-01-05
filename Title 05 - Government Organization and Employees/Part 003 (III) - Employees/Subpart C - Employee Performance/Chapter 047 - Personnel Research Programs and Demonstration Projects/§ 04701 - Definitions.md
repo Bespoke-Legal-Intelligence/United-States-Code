@@ -20,13 +20,13 @@
 
 (b) This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (28 U.S.C. 509 note; 90 Stat. 2425).
 
-(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, §2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, §5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, §501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### Amendments
 
-2004—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+2008—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2003—Subsec. (a)(1)(B). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2004—Subsec. (a)(1)(C). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 

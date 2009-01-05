@@ -8,7 +8,7 @@
 
 (b) The court to which such report is submitted shall examine it and the minutes of the special grand jury and, except as otherwise provided in subsections (c) and (d) of this section, shall make an order accepting and filing such report as a public record only if the court is satisfied that it complies with the provisions of subsection (a) of this section and that—
 
-&emsp;(1) the report is based upon facts revealed in the course of an investigation authorized by subsection (a) of section 3332 and is supported by the preponderance of the evidence; and
+&emsp;(1) the report is based upon facts revealed in the course of an investigation authorized bysubsection (a) of section 3332 and is supported by the preponderance of the evidence; and
 
 &emsp;(2) when the report is submitted pursuant to paragraph (1) of subsection (a) of this section, each person named therein and any reasonable number of witnesses in his behalf as designated by him to the foreman of the grand jury were afforded an opportunity to testify before the grand jury prior to the filing of such report, and when the report is submitted pursuant to paragraph (2) of subsection (a) of this section, it is not critical of an identified person.
 

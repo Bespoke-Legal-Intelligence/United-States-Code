@@ -20,7 +20,7 @@
 
 (C) The court shall resolve any dispute arising out of an election described in subparagraph (A).
 
-(c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee,and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
+(c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
 
 &emsp;(1) such appointment is in the interests of creditors, any equity security holders, and other interests of the estate; or
 
@@ -42,7 +42,7 @@ Section 1104 of the House amendment represents a compromise between the House bi
 
 Subsection (a) provides for the mandatory appointment of a disinterested trustee in the case of a public company, as defined in section 1101(3), within 10 days of the order for relief, or of a successor, in the event of a vacancy, as soon as practicable.
 
-Section 156 of chapter X (\[former\] 11 U.S.C. 516 \[556\]) requires the appointment of a disinterested trustee if the debtor's liabilities are $250,000 or over. Section 1104(a) marks a substantial change. The appointment of a trustee is mandatory only for a public company, which under section 1101(3), has $5 million in liabilities, excluding tax and trade obligations, and 1,000 security holders. In view of past experience, cases involving public companies will under normal circumstances probably be relatively few in number but of vast importance in terms of public investor interest.
+Section 156 of chapter X (\[former\] 11 U.S.C. 516 \[556\]) requires the appointment of a disinterested trustee ifthe debtor's liabilities are $250,000 or over. Section 1104(a) marks a substantial change. The appointment of a trustee is mandatory only for a public company, which under section 1101(3), has $5 million in liabilities, excluding tax and trade obligations, and 1,000 security holders. In view of past experience, cases involving public companies will under normal circumstances probably be relatively few in number but of vast importance in terms of public investor interest.
 
 In case of a nonpublic company, the appointment or election of a trustee is discretionary if the interests of the estate and its security holders would be served thereby. A test based on probable costs and benefits of a trusteeship is not practical. The appointment may be made at any time prior to confirmation of the plan.
 
@@ -60,7 +60,7 @@ Subsection (b) permits the court, at any time after the commencement of the case
 
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
-Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel ofprivate trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
+Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel of private trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
 
 #### Amendments
 

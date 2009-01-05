@@ -36,7 +36,7 @@
 
 #### Amendments
 
-2004—Subsec. (a)(3), (4)(B). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a)(3), (4)(B). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Ex. Ord. No. 12139. Exercise of Certain Authority Respecting Electronic Surveillance
 
-Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, as amended by Ex. Ord. No. 13383, §1, July 15, 2005, 70 F.R. 41933, provided:
+Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, as amended by Ex. Ord. No. 13383, §1, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, §1, Oct. 7, 2008, 73 F.R. 60095, provided:
 
 By the authority vested in me as President by Sections 102 and 104 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1802 and 1804), in order to provide as set forth in that Act \[this chapter\] for the authorization of electronic surveillance for foreign intelligence purposes, it is hereby ordered as follows:
 
@@ -54,7 +54,7 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 
 1–102. Pursuant to Section 102(b) of the Foreign Intelligence Act of 1978 (50 U.S.C. 1802(b)), the Attorney General is authorized to approve applications to the court having jurisdiction under Section 103 of that Act \[50 U.S.C. 1803\] to obtain orders for electronic surveillance for the purpose of obtaining foreign intelligence information.
 
-1–103. Pursuant to Section 104(a)(7) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1804(a)(7)), the following officials, each of whom is employed in the area of national security or defense, is designated to make the certifications required by Section 104(a)(7) of the Act in support of applications to conduct electronic surveillance:
+1–103. Pursuant to Section 104(a)(6) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1804(a)(6)), the following officials, each of whom is employed in the area of national security or defense, is designated to make the certifications required by Section 104(a)(6) of the Act in support of applications to conduct electronic surveillance:
 
 &emsp;(a) Secretary of State.
 
@@ -72,7 +72,9 @@ By the authority vested in me as President by Sections 102 and 104 of the Foreig
 
 &emsp;(h) Principal Deputy Director of National Intelligence.
 
-> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President with the advice and consent of the Senate.
+&emsp;(i) Deputy Director of the Federal Bureau of Investigation.
+
+> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
 1–104. Section 2–202 of Executive Order No. 12036 \[set out under section 401 of this title\] is amended by inserting the following at the end of that section: “Any electronic surveillance, as defined in the Foreign Intelligence Surveillance Act of 1978, shall be conducted in accordance with that Act as well as this Order.”.
 

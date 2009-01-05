@@ -22,7 +22,7 @@ Authorization.—(1)(A) In any investigation of—
 
 &emsp;(ii) requiring a custodian of the records of that provider to give testimony concerning the production and authentication of such records or information.
 
-(D) As used in this paragraph, the term “Federal offense involving the sexual exploitation or abuse of children” means an offense under section 1201, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years.
+(D) As used in this paragraph, the term “Federal offense involving the sexual exploitation or abuse of children” means an offense under section 1201, 1591, 2241(c), 2242, 2243, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, or 2423, in which the victim is an individual who has not attained the age of 18 years.
 
 (2) A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
 
@@ -32,7 +32,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (5) At any time before the return date specified in the summons, the person or entity summoned may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the summons, or a prohibition of disclosure ordered by a court under paragraph (6).
 
-(6)(A) A United State <sup>2</sup> district court for the district in which the summons is or will be served, upon application of the United States, may issue an ex parte order that no person or entity disclose to any other person or entity (other than to an attorney in order to obtain legal advice) the existence of such summons for a period of up to 90 days.
+(6)(A) A United State <sup>2</sup> district court for the district in which the summons is or will be served, upon application of the United States, may issue an ex parte order that no person or entity disclose to any other person or entity (other than to an attorney in order to obtainlegal advice) the existence of such summons for a period of up to 90 days.
 
 (B) Such order may be issued on a showing that the things being sought may be relevant to the investigation and there is reason to believe that such disclosure may result in—
 
@@ -56,7 +56,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (b)
 
-Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law toreceive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
+Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
 
 (c)
 
@@ -74,7 +74,7 @@ Limitation on Use.—(1) Health information about an individual that is disclose
 
 (3) Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-(Added Pub. L. 104–191, title II, §248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, §101(b) \[title I, §122\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, §606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, §5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718; Pub. L. 108–21, title V, §509, Apr. 30, 2003, 117 Stat. 684.)
+(Added Pub. L. 104–191, title II, §248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, §101(b) \[title I, §122\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, §606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, §5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718; Pub. L. 108–21, title V, §509, Apr. 30, 2003, 117 Stat. 684; Pub. L. 110–457, title II, §224(b), Dec. 23, 2008, 122 Stat. 5072.)
 
 #### Prior Provisions
 
@@ -82,11 +82,13 @@ A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, 
 
 #### Amendments
 
+2008—Subsec. (a)(1)(D). Pub. L. 110–457 inserted “1591,” after “1201,”.
+
 2003—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
 
 2000—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
+Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or anyact or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
 &emsp;“(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 

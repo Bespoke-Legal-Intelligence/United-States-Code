@@ -16,5 +16,6 @@ subpart i—general requirements
 - [&sect; 11403e&#8211;3 - Administrative fees](%C2%A7%2011403e%E2%80%933%20-%20Administrative%20fees.md)
 - [&sect; 11403e&#8211;4 - Occupancy](%C2%A7%2011403e%E2%80%934%20-%20Occupancy.md)
 - [&sect; 11403f - Termination of assistance](%C2%A7%2011403f%20-%20Termination%20of%20assistance.md)
+- [&sect; 11403f&#8211;1 - Term of contract with owner or lessor](%C2%A7%2011403f%E2%80%931%20-%20Term%20of%20contract%20with%20owner%20or%20lessor.md)
 - [&sect; 11403g - Definitions](%C2%A7%2011403g%20-%20Definitions.md)
 - [&sect; 11403h - Authorization of appropriations](%C2%A7%2011403h%20-%20Authorization%20of%20appropriations.md)

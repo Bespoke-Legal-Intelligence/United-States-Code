@@ -48,7 +48,7 @@ To assure adequate notification and timely delivery of student aid funds under t
 
 #### (b) Timing for reallocations
 
-With respect to any funds reallocated under section 1070b–3(e) <sup>1</sup> of this title, section 2752(e) <sup>1</sup> of title 42, or section 1087bb(j) <sup>1</sup> of this title, the Secretary shall reallocate such funds at any time during the course of the year that will best meet the purpose of the programs under subpart 3 of part A of this subchapter, part C of subchapter I of chapter 34 of title 42, and part D of this subchapter, respectively. However, such reallocation shall occur at least once each year, not later than September 30 of that year.
+With respect to any funds reallocated under section 1070b–3(e) <sup>1</sup> of this title, section 2752(e) <sup>1</sup> of title 42, or section 1087bb(j) <sup>1</sup> of this title, the Secretary shall reallocate such funds at any time during the course of the year that will best meet the purpose of the programs under subpart3 of part A of this subchapter, part C of subchapter I of chapter 34 of title 42, and part D of this subchapter, respectively. However, such reallocation shall occur at least once each year, not later than September 30 of that year.
 
 #### (c) Delay of effective date of late publications
 
@@ -60,9 +60,33 @@ With respect to any funds reallocated under section 1070b–3(e) <sup>1</sup> o
 
 #### (d) Notice to Congress
 
-The Secretary shall notify the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives when a deadline included in the calendar described in subsection (a) of this section is not met. Nothing in this section shall be interpreted to penalize institutions or deny them the specified times allotted to enable them to return information to the Secretary based on the failure of the Secretary to adhere to the dates specified in this section.
+The Secretary shall notify the authorizing committees when a deadline included in the calendar described in subsection (a) of this section is not met. Nothing in this section shall be interpreted to penalize institutions or deny them the specified times allotted to enable them to return information to the Secretary based on the failure of the Secretary to adhere to the dates specified in this section.
 
-(Pub. L. 89–329, title IV, §482, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1477; amended Pub. L. 100–50, §15(2), June 3, 1987, 101 Stat. 355; Pub. L. 102–325, title IV, §482, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(7), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 104–66, title I, §1042(b), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–244, title IV, §481, Oct. 7, 1998, 112 Stat. 1732.)
+#### (e) Compliance calendar
+
+Prior to the beginning of each award year, the Secretary shall provide to institutions of higher education a list of all the reports and disclosures required under this chapter. The list shall include—
+
+&emsp;(1) the date each report or disclosure is required to be completed and to be submitted, made available, or disseminated;
+
+&emsp;(2) the required recipients of each report or disclosure;
+
+&emsp;(3) any required method for transmittal or dissemination of each report or disclosure;
+
+&emsp;(4) a description of the content of each report or disclosure sufficient to allow the institution to identify the appropriate individuals to be assigned the responsibility for such report or disclosure;
+
+&emsp;(5) references to the statutory authority, applicable regulations, and current guidance issued by the Secretary regarding each report or disclosure; and
+
+&emsp;(6) any other information which is pertinent to the content or distribution of the report or disclosure.
+
+(Pub. L. 89–329, title IV, §482, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1477; amended Pub. L. 100–50, §15(2), June 3, 1987, 101 Stat. 355; Pub. L. 102–325, title IV, §482, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(7), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 104–66, title I, §1042(b), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–244, title IV, §481, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 110–315, title I, §103(b)(9), title IV, §482(a), Aug. 14, 2008, 122 Stat. 3089, 3271.)
+
+#### Amendment of Subsection (a)(1)(B), (C)
+
+<i>Pub. L. 110–315, title IV, §482(a)(1), (b), Aug. 14, 2008, 122 Stat. 3271, 3272, provided that, effective July 1, 2010, subsection (a)(1) is amended by striking subparagraphs (B) and (C) and inserting the following:</i>
+
+&emsp;&emsp;<i>“(B) by March 1: proposed modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;</i>
+
+&emsp;&emsp;<i>“(C) by June 1: final modifications, updates, and notices pursuant to sections 1087rr and 1090(a)(5) of this title published in the Federal Register;”.</i>
 
 #### References in Text
 
@@ -72,6 +96,8 @@ Section 2752 of title 42, referred to in subsec. (b), was amended by Pub. L. 105
 
 Section 1087bb(j) of this title, referred to in subsec. (b), was redesignated section 1087bb(i) by Pub. L. 105–244, title IV, §462(a)(2)(H), Oct. 7, 1998, 112 Stat. 1721.
 
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
@@ -80,9 +106,13 @@ Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, a
 
 #### Amendments
 
+2008—Subsec. (d). Pub. L. 110–315, §103(b)(9), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives”.
+
+Subsec. (e). Pub. L. 110–315, §482(a)(2), added subsec. (e).
+
 1998—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
+Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter and part C of subchapter I of chapter 34of title 42 that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting this part and parts B and G of this subchapter that are published in final form by May 1, 1994.”
 
 1995—Subsec. (d). Pub. L. 104–66, in first sentence substituted “a deadline included in the calendar described in subsection (a) of this section is not met” for “the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice” and after first sentence struck out “When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met.”
 
@@ -96,9 +126,9 @@ Subsec. (c). Pub. L. 102–325, §482(a), amended subsec. (c) generally. Prior t
 
 1987—Subsec. (b). Pub. L. 100–50 inserted reference to section 1087bb(j) of this title and part D of this subchapter.
 
-#### Change of Name
+#### Effective Date of 2008 Amendment
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Pub. L. 110–315, title IV, §482(b), Aug. 14, 2008, 122 Stat. 3272, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect on July 1, 2010.”
 
 #### Effective Date of 1998 Amendment
 
@@ -111,6 +141,14 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+
+#### Inapplicability of Master Calendar and Negotiated Rulemaking Requirements
+
+Pub. L. 110–315, title IV, §402(b), Aug. 14, 2008, 122 Stat. 3191, provided that: “Sections 482 and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089, 1098a) shall not apply to the amendments made by subsection (a) \[amending section 1070a–1 of this title\], or to any regulations promulgated under those amendments.”
+
+Pub. L. 110–227, §11, May 7, 2008, 122 Stat. 752, as amended by Pub. L. 110–315, title IV, §402(c)(1), Aug. 14, 2008, 122 Stat. 3191, provided that: “Sections 482 and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089, 1098a) shall not apply to amendments made by this Act \[see Tables for classification\], or to any regulations promulgated under such amendments.”
+
+\[Pub. L. 110–315, title IV, §402(c)(2), Aug. 14, 2008, 122 Stat. 3191, provided that: “The amendment made by paragraph (1) \[amending section 11 of Pub. L. 110–227, set out above\] shall take effect as if enacted as part of the Ensuring Continued Access to Student Loans Act of 2008 \[Pub. L. 110–227\].”\]
 
 #### Establishment of Separate Systems of Need Analysis for Academic Years 1983–1984 Through 1987–1988
 

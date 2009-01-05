@@ -46,9 +46,9 @@ As used in this subchapter:
 
 &emsp;The terms “person”, “labor organization”, “employment agency”, “commerce”, and “industry affecting commerce”, shall have the same meaning given such terms in section 2000e of this title.
 
-#### (8) Qualified individual with a disability
+#### (8) Qualified individual
 
-&emsp;The term “qualified individual with a disability” means an individual with a disability who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires. For the purposes of this subchapter, consideration shall be given to the employer's judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.
+&emsp;The term “qualified individual” means an individual who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires. For the purposes of this subchapter, consideration shall be given to the employer's judgment as to what functions of a job are essential, and if an employer has prepared a written description before advertising or interviewing applicants for the job, this description shall be considered evidence of the essential functions of the job.
 
 #### (9) Reasonable accommodation
 
@@ -76,7 +76,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(iv) the type of operation or operations of the covered entity, including the composition, structure, and functions of the workforce of such entity; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the covered entity.
 
-(Pub. L. 101–336, title I, §101, July 26, 1990, 104 Stat. 330; Pub. L. 102–166, title I, §109(a), Nov. 21, 1991, 105 Stat. 1077.)
+(Pub. L. 101–336, title I, §101, July 26, 1990, 104 Stat. 330; Pub. L. 102–166, title I, §109(a), Nov. 21, 1991, 105 Stat. 1077; Pub. L. 110–325, §5(c)(1), Sept. 25, 2008, 122 Stat. 3557.)
 
 #### References in Text
 
@@ -88,11 +88,17 @@ This chapter, referred to in par. (10)(B)(i), was in the original “this Act”
 
 #### Amendments
 
-1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
+2008—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
+
+1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such termincludes an individual who is a citizen of the United States.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21, 1991, see section 109(c) ofPub. L. 102–166, set out as a note under section 2000e of this title.
+Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21, 1991, see section 109(c) of Pub. L. 102–166, set out as a note under section 2000e of this title.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 #### Codification
 
-In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31U.S.C., sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C., sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 In subsec. (g), “section 501 of title 44” substituted for “section 87 of the Act of January 12, 1895 (28 Stat. 622), and section 11 of the Act of March 1, 1919 (40 Stat. 1270; 44 U.S.C., sec. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 

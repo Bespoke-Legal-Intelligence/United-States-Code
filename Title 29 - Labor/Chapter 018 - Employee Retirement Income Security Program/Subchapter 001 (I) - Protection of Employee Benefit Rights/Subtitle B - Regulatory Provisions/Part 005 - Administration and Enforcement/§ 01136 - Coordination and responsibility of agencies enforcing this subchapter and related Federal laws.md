@@ -10,7 +10,7 @@ The Secretary shall have the responsibility and authority to detect and investig
 
 #### (c) Coordination of enforcement with States with respect to certain arrangements
 
-A State may enter into an agreement with the Secretary for delegation to the State of some orall of the Secretary's authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title), which are not group health plans.
+A State may enter into an agreement with the Secretary for delegation to the State of some or all of the Secretary's authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title), which are not group health plans.
 
 (Pub. L. 93–406, title I, §506, Sept. 2, 1974, 88 Stat. 894; Pub. L. 98–473, title II, §805, Oct. 12, 1984, 98 Stat. 2134; Pub. L. 104–191, title I, §101(e)(3), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(F), Sept. 26, 1996, 110 Stat. 2938.)
 

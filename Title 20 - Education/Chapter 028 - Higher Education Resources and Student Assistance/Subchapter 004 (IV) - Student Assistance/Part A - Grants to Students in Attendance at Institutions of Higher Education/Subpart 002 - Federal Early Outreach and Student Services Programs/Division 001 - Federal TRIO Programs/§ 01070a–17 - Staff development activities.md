@@ -16,13 +16,17 @@ Such training shall include conferences, internships, seminars, workshops, and t
 
 &emsp;(4) The use of appropriate educational technology in the operation of projects assisted under this division.
 
+&emsp;(5) Strategies for recruiting and serving hard to reach populations, including students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+
 #### (c) Consultation
 
 Grants for the purposes of this section shall be made only after consultation with regional and State professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
 
-(Pub. L. 89–329, title IV, §402G, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(f), Oct. 7, 1998, 112 Stat. 1655.)
+(Pub. L. 89–329, title IV, §402G, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(f), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(g), Aug. 14, 2008, 122 Stat. 3204.)
 
 #### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–315 added par. (5).
 
 1998—Subsec. (a). Pub. L. 105–244, §402(f)(1), inserted “participating in,” after “leadership personnel employed in,”.
 

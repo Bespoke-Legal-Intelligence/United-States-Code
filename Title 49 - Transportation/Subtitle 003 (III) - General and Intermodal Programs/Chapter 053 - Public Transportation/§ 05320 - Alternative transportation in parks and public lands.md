@@ -2,6 +2,10 @@
 
 (a)
 
+Program Name.—The program authorized by this section shall be known as the Paul S. Sarbanes Transit in Parks Program.
+
+(b)
+
 In General.—
 
 &emsp;(1)
@@ -10,7 +14,7 @@ Authorization.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary, in consultation with the Secretary of the Interior, may award a grant or enter into a contract, cooperative agreement, interagency agreement, intra-agency agreement, or other agreement to carry out a qualified project under this section to enhance the protection of national parks and public lands and increase the enjoyment of those visiting the parks and public lands by—
+In general.—The Secretary, in consultation with the Secretary of the Interior, may award a grant or enter into a contract, cooperative agreement, interagency agreement, intraagency agreement, or other agreement to carry out a qualified project under this section to enhance the protection of national parks and public lands and increase the enjoyment of those visiting the parks and public lands by—
 
 &emsp;&emsp;&emsp;(i) ensuring access to all, including persons with disabilities;
 
@@ -30,7 +34,7 @@ Use of funds.—A grant, cooperative agreement, interagency agreement, intra-age
 
 Alternative transportation facilities and services.—Projects receiving assistance under this section shall provide alternative transportation facilities and services that complement and enhance existing transportation services in national parks and public lands in a manner that is consistent with Department of Interior and other public land management policies regarding private automobile access to and in such parks and lands.
 
-(b)
+(c)
 
 Definitions.—In this section, the following definitions apply:
 
@@ -68,7 +72,7 @@ Qualified participant.—The term “qualified participant” means—
 
 Qualified project.—The term “qualified project” means a planning or capital project in or in the vicinity of an eligible area that—
 
-&emsp;&emsp;(A) is an activity described in section 5302(a)(1)(A), 5303, 5304, 5305, or 5309(b);
+&emsp;&emsp;(A) is an activity described in section 5302(a)(1), 5303, 5304, 5305, or 5309(b);
 
 &emsp;&emsp;(B) involves—
 
@@ -96,7 +100,7 @@ Qualified project.—The term “qualified project” means a planning or capita
 
 &emsp;&emsp;&emsp;(vi) conserves a natural, historical, or cultural resource (excluding rehabilitation or restoration of a non-transportation facility).
 
-(c)
+(d)
 
 Federal Agency Cooperative Arrangements.—The Secretary shall develop cooperative arrangements with the Secretary of the Interior that provide for—
 
@@ -104,15 +108,15 @@ Federal Agency Cooperative Arrangements.—The Secretary shall develop cooperati
 
 &emsp;(2) interagency and multidisciplinary teams to develop Federal land management agency alternative transportation policy, procedures, and coordination; and
 
-&emsp;(3) the development of procedures and criteria relating to the planning, selection, and funding of qualified projects and the implementation and oversight of the program of projects in accordance with this section.
+&emsp;(3) the development of procedures and criteria relating to the planning, selection, andfunding of qualified projects and the implementation and oversight of the program of projects in accordance with this section.
 
-(d)
+(e)
 
 Limitation on Use of Available Amounts.—
 
 &emsp;(1)
 
-In general.—The Secretary, in consultation with the Secretary of the Interior, may use not more than 10 percent of the amount made available for a fiscal year under section 5338(b)(2)(J) to carry out planning, research, and technical assistance under this section, including the development of technology appropriate for use in a qualified project.
+In general.—The Secretary, in consultation with the Secretary of the Interior, may use not more than 10 percent of the amount made available for a fiscal year under section 5338(b)(2)(J) to administer this section and to carry out planning, research, and technical assistance under this section, including the development of technology appropriate for use in a qualified project.
 
 &emsp;(2)
 
@@ -122,7 +126,11 @@ Additional amounts.—Amounts made available under this subsection are in additi
 
 Maximum amount.—No qualified project shall receive more than 25 percent of the total amount made available to carry out this section under section 5338(b)(2)(J) for any fiscal year.
 
-(e)
+&emsp;(4)
+
+Transfers to land management agencies.—The Secretary may transfer amounts available under paragraph (1) to the appropriate Federal land management agency to pay necessary costs of the agency for such activities described in paragraph (1) in connection with activities being carried out under this section.
+
+(f)
 
 Planning Process.—In undertaking a qualified project under this section—
 
@@ -148,7 +156,7 @@ Planning Process.—In undertaking a qualified project under this section—
 
 &emsp;&emsp;(D) consult with the appropriate Federal land management agency during the planning process.
 
-(f)
+(g)
 
 Cost Sharing.—
 
@@ -174,7 +182,7 @@ Considerations.—In establishing the Government's share of the net project cost
 
 Special rule.—Notwithstanding any other provision of law, funds appropriated to any Federal land management agency may be counted toward the remainder of the net project cost.
 
-(g)
+(h)
 
 Selection of Qualified Projects.—
 
@@ -218,7 +226,7 @@ Considerations.—In determining whether to include a project in the annual prog
 
 &emsp;&emsp;&emsp;(iii) coordination with gateway communities.
 
-(h)
+(i)
 
 Qualified Projects Carried Out in Advance.—
 
@@ -238,7 +246,7 @@ Financing costs.—
 
 &emsp;&emsp;(A)
 
-In general.—The cost of carrying out part of a qualified project under paragraph (1) includes the amount of interest earned and payable on bonds issued by a State or local governmental authority, to the extentthat proceeds of the bond are expended in carrying out that part.
+In general.—The cost of carrying out part of a qualified project under paragraph (1) includes the amount of interest earned and payable on bonds issued by a State or local governmental authority, to the extent that proceeds of the bond are expended in carrying out that part.
 
 &emsp;&emsp;(B)
 
@@ -248,7 +256,7 @@ Limitation on amount of interest.—The rate of interest under this paragraph ma
 
 Certification.—The qualified participant shall certify, in a manner satisfactory to the Secretary, that the qualified participant has exercised reasonable diligence in seeking the most favorable interest rate.
 
-(i)
+(j)
 
 Relationship to Other Laws.—
 
@@ -268,11 +276,11 @@ Project management plan.—If the amount of assistance anticipated to be require
 
 &emsp;&emsp;(B) the qualified participant shall prepare a project management plan in accordance with section 5327(a).
 
-(j)
+(k)
 
 Asset Management.—The Secretary, in consultation with the Secretary of the Interior, may transfer the interest of the Department of Transportation in, and control over, all facilities and equipment acquired under this section to a qualified participant for use and disposition in accordance with any property management regulations that the Secretary determines to be appropriate.
 
-(k)
+(<i>l</i>)
 
 Coordination of Research and Deployment of New Technologies.—
 
@@ -294,13 +302,13 @@ Information.—The Secretary may request and receive appropriate information fro
 
 &emsp;(3)
 
-Funding.—Grants, cooperative agreements, contracts, and other agreements under paragraph (1) shall be awarded from amounts allocated under subsection (d)(1).
+Funding.—Grants, cooperative agreements, contracts, and other agreements under paragraph (1) shall be awarded from amounts allocated under subsection (e)(1).
 
-(<i>l</i>)
+(m)
 
 Innovative Financing.—A qualified project receiving financial assistance under this section shall be eligible for funding through a State infrastructure bank or other innovative financing mechanism available to finance an eligible project under this chapter.
 
-(m)
+(n)
 
 Reports.—
 
@@ -318,15 +326,41 @@ In general.—The Secretary, in consultation with the Secretary of the Interior,
 
 Annual reports.—The report required under paragraph (1) shall be included in the report submitted under section 5309(k)(1).
 
-(Added Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.)
+(Added Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608; amended Pub. L. 110–244, title II, §201(i), June 6, 2008, 122 Stat. 1610.)
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (b)(5)(B)(i), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (c)(5)(B)(i), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Prior Provisions
 
-A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+A prior section 5320, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, §6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, §3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, §9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of asuspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, §3021(a), Aug. 10, 2005, 119 Stat. 1608.
+
+#### Amendments
+
+Subsec. (a). Pub. L. 110–244, §201(i)(7), added subsec. (a). Former subsec. (a) redesignated (b).
+
+Subsec. (a)(1)(A). Pub. L. 110–244, §201(i)(1), substituted “intraagency” for “intra-agency” in introductory provisions.
+
+Subsec. (b). Pub. L. 110–244, §201(i)(6), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+
+Subsec. (b)(5)(A). Pub. L. 110–244, §201(i)(2), substituted “5302(a)(1)” for “5302(a)(1)(A)”.
+
+Subsec. (c). Pub. L. 110–244, §201(i)(6), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 110–244, §201(i)(6), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 110–244, §201(i)(3), inserted “to administer this section and” after “5338(b)(2)(J)”.
+
+Subsec. (d)(4). Pub. L. 110–244, §201(i)(4), added par. (4).
+
+Subsecs. (e) to (j). Pub. L. 110–244, §201(i)(6), redesignated subsecs. (d) to (i) as (e) to (j), respectively. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 110–244, §201(i)(6), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
+
+Subsec. (k)(3). Pub. L. 110–244, §201(i)(5), substituted “subsection (e)(1)” for “subsection (d)(1)”.
+
+Subsecs. (<i>l</i>) to (n). Pub. L. 110–244, §201(i)(6), redesignated subsecs. (k) to (m) as (<i>l</i>) to (n), respectively.
 
 #### Change of Name
 

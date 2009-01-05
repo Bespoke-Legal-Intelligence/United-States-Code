@@ -22,9 +22,23 @@ To the extent the Secretary elects to carry out the program, the Secretary shall
 
 The Secretary may use the funds, facilities, and technical expertise of the Agricultural Research Service and the Cooperative State Research, Education, and Extension Service and other funds available to the Secretary (other than funds of the Commodity Credit Corporation) to carry out this section.
 
-(Pub. L. 105–185, title IV, §407, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §7207(c), May 13, 2002, 116 Stat. 440.)
+(Pub. L. 105–185, title IV, §407, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §7207(c), May 13, 2002, 116 Stat. 440; Pub. L. 110–234, title VII, §7511(c)(31), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(31), June 18, 2008, 122 Stat. 1664, 2032.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2032, provided that, effective Oct. 1, 2009, subsection (c) of this section is amended by substituting “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 2002—Subsec. (b)(3). Pub. L. 107–171 inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(31) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

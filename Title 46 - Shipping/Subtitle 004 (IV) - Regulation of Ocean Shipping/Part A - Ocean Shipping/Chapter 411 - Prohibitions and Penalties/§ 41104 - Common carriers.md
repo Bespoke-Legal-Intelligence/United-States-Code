@@ -36,7 +36,7 @@ A common carrier, either alone or in conjunction with any other person, directly
 
 &emsp;(10) unreasonably refuse to deal or negotiate;
 
-&emsp;(11) knowingly and willfully accept cargo from or transport cargo for the account of anocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title; or
+&emsp;(11) knowingly and willfully accept cargo from or transport cargo for the account of an ocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title; or
 
 &emsp;(12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by section 40501 of this title and a bond, insurance, or other surety as required by section 40902 of this title, or with an affiliate of such an ocean transportation intermediary.
 

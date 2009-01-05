@@ -24,7 +24,7 @@ Pub. L. 104–273, §1, Oct. 9, 1996, 110 Stat. 3315, provided that: “This Act
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–777 provided that: “This Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as notes below\] may be cited as the ‘Helium Act Amendments of 1960’.”
+Section 1 of Pub. L. 86–777 provided that: “This Act \[enacting this section, sections 167a to 167n of thistitle, and provisions set out as notes below\] may be cited as the ‘Helium Act Amendments of 1960’.”
 
 #### Short Title
 
@@ -32,7 +32,7 @@ Section 1 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that:
 
 #### Separability
 
-Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act\[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Section 17 of act Mar. 3, 1925, as added by Pub. L. 86–777, §2, provided that: “If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Severance Package for Helium Operations Employees
 

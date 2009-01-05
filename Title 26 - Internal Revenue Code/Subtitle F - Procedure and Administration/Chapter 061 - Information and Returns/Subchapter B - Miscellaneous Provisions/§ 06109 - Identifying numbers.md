@@ -38,17 +38,17 @@ The social security account number issued to an individual for purposes of secti
 
 #### \[(e) Repealed. Pub. L. 104–188, title I, §1615(a)(2)(A), Aug. 20, 1996, 110 Stat. 1853\]
 
-#### (f) Access to employer identification numbers by Secretary of Agriculture for purposes of Food Stamp Act of 1977
+#### (f) Access to employer identification numbers by Secretary of Agriculture for purposes of Food and Nutrition Act of 2008 of 1977 <sup>1</sup>
 
 #### (1) In general
 
-&emsp;In the administration of section 9 of the Food Stamp Act of 1977 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
+&emsp;In the administration of section 9 of the Food and Nutrition Act of 2008 (7 U.S.C. 2018) involving the determination of the qualifications of applicants under such Act, the Secretary of Agriculture may, subject to this subsection, require each applicant retail store or wholesale food concern to furnish to the Secretary of Agriculture the employer identification number assigned to the store or concern pursuant to this section. The Secretary of Agriculture shall not have access to any such number for any purpose other than the establishment and maintenance of a list of the names and employer identification numbers of the stores and concerns for use in determining those applicants who have been previously sanctioned or convicted under section 12 or 15 of such Act (7 U.S.C. 2021 or 2024).
 
 #### (2) Sharing of information and safeguards
 
 #### (A) Sharing of information
 
-&emsp;&emsp;The Secretary of Agriculture may share any information contained in any list referred to in paragraph (1) with any other agency or instrumentality of the United States which otherwise has access to employer identification numbers in accordance with this section or other applicable Federal law, except that the Secretary of Agriculture may share such information only to the extent that such Secretary determines such sharing would assist in verifying and matching such information against information maintained by such other agency or instrumentality. Any such information shared pursuant to this subparagraph may be used by such other agency or instrumentality only for the purpose of effective administration and enforcement of the Food Stamp Act of 1977 or for the purpose of investigation of violations of other Federal laws or enforcement of such laws.
+&emsp;&emsp;The Secretary of Agriculture may share any information contained in any list referred to in paragraph (1) with any other agency or instrumentality of the United States which otherwise has access to employer identification numbers in accordance with this section or other applicable Federal law, except that the Secretary of Agriculture may share such information only to the extent that such Secretary determines such sharing would assist in verifying and matching such information against information maintained by such other agency or instrumentality. Any such information shared pursuant to this subparagraph may be used by such other agency or instrumentality only for the purpose of effective administration and enforcement of the Food and Nutrition Act of 2008 or for the purpose of investigation of violations of other Federal laws or enforcement of such laws.
 
 #### (B) Safeguards
 
@@ -60,7 +60,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (4) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as suchparagraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
@@ -80,7 +80,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) Payor
 
-&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest onany seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
+&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest on any seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
 
 #### (2) Recipient
 
@@ -94,21 +94,29 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 Section 205 of the Social Security Act, referred to in subsec. (d), is classified to section 405 of Title 42, The Public Health and Welfare.
 
-The Food Stamp Act of 1977, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.)of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (g), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of Title 7, Agriculture. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 6109 was renumbered section 6116 of this title.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–246, §4002(b)(1)(G), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
+
+Subsec. (f)(1), (2)(A). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 2007—Subsec. (a)(4). Pub. L. 110–28, §8246(a)(2)(D)(ii), which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
 
@@ -156,6 +164,12 @@ Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted “age of 2” for “a
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (G), (2)(O) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
@@ -195,4 +209,6 @@ Section 1524(c) of Pub. L. 99–514 provided that: “The amendments made by thi
 #### Effective Date
 
 Section 1(d) of Pub. L. 87–397, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
+
+<i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
 

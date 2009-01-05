@@ -4,13 +4,9 @@
 
 &emsp;(1) for an approved program of education pursued on a full-time basis, at the monthly rate of—
 
-&emsp;&emsp;(A) for months beginning on or after January 1, 2002, $800;
+&emsp;&emsp;(A) for months occurring during the period beginning on August 1, 2008, and ending on the last day of fiscal year 2009, $1,321; and
 
-&emsp;&emsp;(B) for months occurring during fiscal year 2003, $900;
-
-&emsp;&emsp;(C) for months occurring during fiscal year 2004, $985; and
-
-&emsp;&emsp;(D) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
+&emsp;&emsp;(B) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
 
 &emsp;(2) at an appropriately reduced rate, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
@@ -18,13 +14,9 @@
 
 &emsp;(1) for an approved program of education pursued on a full-time basis, at the monthly rate of—
 
-&emsp;&emsp;(A) for months beginning on or after January 1, 2002, $650;
+&emsp;&emsp;(A) for months occurring during the period beginning on August 1, 2008, and ending on the last day of fiscal year 2009, $1,073; and
 
-&emsp;&emsp;(B) for months occurring during fiscal year 2003, $732;
-
-&emsp;&emsp;(C) for months occurring during fiscal year 2004, $800; and
-
-&emsp;&emsp;(D) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
+&emsp;&emsp;(B) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
 
 &emsp;(2) at an appropriately reduced rate, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
@@ -58,13 +50,13 @@
 
 (h)(1) With respect to any fiscal year, the Secretary shall provide a percentage increase in the rates payable under subsections (a)(1) and (b)(1) equal to the percentage by which—
 
-&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+&emsp;(A) the average cost of undergraduate tuition in the United States, as determined by the National Center for Education Statistics, for the last academic year preceding the beginning of the fiscal year for which the increase is made, exceeds
 
-&emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
+&emsp;(B) the average cost of undergraduate tuition in the United States, as so determined, for the academic year preceding the academic year described in subparagraph (A).
 
 (2) Any increase under paragraph (1) in a rate with respect to a fiscal year after fiscal year 2004 and before fiscal year 2014 shall be rounded down to the next lower whole dollar amount. Any such increase with respect to a fiscal year after fiscal year 2013 shall be rounded to the nearest whole dollar amount.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977; Pub. L. 108–183, title III, §304(a), Dec. 16, 2003, 117 Stat. 2659.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977; Pub. L. 108–183, title III, §304(a), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 110–252, title V, §5004(a)–(c), June 30, 2008, 122 Stat. 2379.)
 
 #### References in Text
 
@@ -73,6 +65,28 @@ Sections 308a and 308f of title 37, referred to in subsec. (d)(2), were repealed
 The date of the enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–252, §5004(a), added subpar. (A), redesignated subpar. (D) as (B), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) for months beginning on or after January 1, 2002, $800;
+
+“(B) for months occurring during fiscal year 2003, $900;
+
+“(C) for months occurring during fiscal year 2004, $985; and”.
+
+Subsec. (b)(1). Pub. L. 110–252, §5004(b), added subpar. (A), redesignated subpar. (D) as (B), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) for months beginning on or after January 1, 2002, $650;
+
+“(B) for months occurring during fiscal year 2003, $732;
+
+“(C) for months occurring during fiscal year 2004, $800; and”.
+
+Subsec. (h)(1). Pub. L. 110–252, §5004(c), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+
+“(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).”
 
 2003—Subsec. (h). Pub. L. 108–183, §304(a)(1), (2), (5), inserted “(1)” after “(h)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -150,7 +164,7 @@ Subsec. (e)(1)(B). Pub. L. 105–114, §401(b)(2), added subpar. (B).
 
 1993—Subsecs. (c) to (g). Pub. L. 103–66, §12009(d)(1), (2), made technical amendments to directory language of Pub. L. 102–568, §§301(c), 307(a). See 1992 Amendment note below.
 
-Subsec. (g). Pub. L. 103–66, §12009(a), struck out par. (1) and par. (2) designation, redesignated subpars. (A)and (B) of former par. (2) as pars. (1) and (2), respectively, and substituted “paragraph (1)” for “subparagraph (A)” in par. (2). Prior to amendment, par. (1) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subsections (a)(1) and (b)(1) of this section equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
+Subsec. (g). Pub. L. 103–66, §12009(a), struck out par. (1) and par. (2) designation, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and substituted “paragraph (1)” for “subparagraph (A)” in par. (2). Prior to amendment, par. (1) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subsections (a)(1) and (b)(1) of this section equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
 1992—Subsec. (a). Pub. L. 102–568, §307(b)(1), substituted “(f), and (g)” for “and (f)” in introductory provisions.
 
@@ -200,6 +214,18 @@ Pub. L. 101–189 inserted “, in the case of an individual who first became a
 
 Subsec. (b). Pub. L. 100–689, §103(b)(3), inserted reference to section 1418 of this title.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–252, title V, §5004(d), June 30, 2008, 122 Stat. 2379, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall take effect on August 1, 2008.
+
+“(2)
+
+No cost-of-living adjustment for fiscal year 2009.—The adjustment required by subsection (h) of section 3015 of title 38, United States Code (as amended by this section), in rates of basic educational assistance payable under subsections (a) and (b) of such section (as so amended) shall not be made for fiscal year 2009.”
+
 #### Effective Date of 2001 Amendment
 
 Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
@@ -224,7 +250,7 @@ Section 12009(d)(3) of Pub. L. 103–66 provided that: “The amendments made by
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993, but not to be construed to change account from which payment is made for certain portion of payments made under this chapter or chapter 106 of Title 10, Armed Services, see section 301(e) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
+Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993, but not to be construed tochange account from which payment is made for certain portion of payments made under this chapter or chapter 106 of Title 10, Armed Services, see section 301(e) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
 
 Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after September 1, 1993.”
 

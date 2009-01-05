@@ -200,7 +200,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (4) Reports
 
-&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for thefiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
+&emsp;(A) Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report describing the activities of the Foundation during the preceding fiscal year. Each such report shall include for the fiscal year involved a comprehensive statement of the operations, activities, financial condition, and accomplishments of the Foundation, including an accounting of the use of amounts transferred under subsection (<i>l</i>).
 
 &emsp;(B) With respect to the financial condition of the Foundation, each report under subparagraph (A) shall include the source, and a description of, all gifts or grants to the Foundation of real or personal property, and the source and amount of all gifts or grants to the Foundation of money. Each such report shall include a specification of any restrictions on the purposes for which gifts or grants to the Foundation may be used.
 
@@ -226,7 +226,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
 
 #### (9) Limitation of activities
 
@@ -268,7 +268,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, hasbeen executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -294,7 +294,7 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments
 
-2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
+2007—Subsec. (c)(1)(C). Pub. L. 110–85 substituted “and studies for which the Secretary issues a certification inthe affirmative under section 355a(n)(1)(A) of title 21” for “and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21”. Amendment was executed as the probable intent of Congress, notwithstanding errors in the directory language in quoting the text in the original to be stricken out.
 
 Subsec. (d)(1)(D)(ii). Pub. L. 109–482, §107(1)(A)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Upon the appointment of the members of the Board under clause (i)(II), the terms of service of the ex officio members of the Board as members of the Board shall terminate.”
 
@@ -350,7 +350,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) a
 
 1998—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
-Subsec. (k)(10). Pub. L. 105–392, §418(2)(B), struck out “not” after “may” and inserted at end “Any fundstransferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
+Subsec. (k)(10). Pub. L. 105–392, §418(2)(B), struck out “not” after “may” and inserted at end “Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.”
 
 Subsec. (m)(1). Pub. L. 105–392, §418(2)(C), substituted “$500,000 for each fiscal year” for “$200,000 for the fiscal years 1994 and 1995”.
 
@@ -392,7 +392,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted “part” for “subtitle”. Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a process for the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted “establish a processfor the selection of candidates for positions under subsection (c) of this section” for “establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program”.
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 

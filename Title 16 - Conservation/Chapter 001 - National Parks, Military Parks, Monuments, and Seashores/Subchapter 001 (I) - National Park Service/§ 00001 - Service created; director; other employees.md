@@ -22,9 +22,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Section 814(e)(2) of div. I of Pub. L. 104–333 provided that: “The amendment made by subsection (a) \[probably should be “paragraph (1)”, which amended this section\] shall take effect on February 1, 1997, and shall apply with respect to the individual (if any) serving as the Director of the National Park Service on that date.”
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–229, §1(a), May 8, 2008, 122 Stat. 754, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Consolidated Natural Resources Act of 2008’.”
+
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: “This Act \[amending sections 1a–6, 392c, 410ggg, 410ggg–1, 430h–11, 460kkk, 470h–2, 698u–4, 1244, 1249, and 1274 of this title, enacting provisions set out as notes under this section and section 502 of Title 40, Public Buildings, Property, and Works, and amending provisions listed in a table of National Historic Sites and a table of National Heritage Areas set out under section 461 of this title and a table of Commemorative Works set out under section 8903 of Title 40\] may be cited as the ‘National Park System Laws Technical Amendments Act of 2004’.”
+Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: “This Act \[amending sections 1a–6, 392c, 410ggg, 410ggg–1, 430h–11, 460kkk, 470h–2, 698u–4, 1244, 1249, and 1274 of this title, enacting provisions set out as notes under this section and section 502 of Title 40,Public Buildings, Property, and Works, and amending provisions listed in a table of National Historic Sites and a table of National Heritage Areas set out under section 461 of this title and a table of Commemorative Works set out under section 8903 of Title 40\] may be cited as the ‘National Park System Laws Technical Amendments Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -82,7 +86,7 @@ Pub. L. 99–570, title V, subtitle B (§§5051, 5052), Oct. 27, 1986, 100 Stat.
 
 #### “SEC. 5052. NATIONAL PARK AUTHORIZATION.
 
-“In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and trainingof officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 (16 U.S.C. 1a–6), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
+“In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and training of officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 (16 U.S.C. 1a–6), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
 
 #### Codification of Laws Relating to United States Park Police; Feasibility Study and Report by Secretary of the Interior
 

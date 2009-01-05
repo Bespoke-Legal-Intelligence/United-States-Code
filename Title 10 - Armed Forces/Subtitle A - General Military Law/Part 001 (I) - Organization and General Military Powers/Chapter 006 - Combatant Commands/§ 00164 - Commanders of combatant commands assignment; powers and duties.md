@@ -36,7 +36,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 &emsp;(F) coordinating and approving those aspects of administration and support (including control of resources and equipment, internal organization, and training) and discipline necessary to carry out missions assigned to the command; and
 
-&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selectingcombatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
+&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selecting combatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
 
 (2)(A) The Secretary of Defense shall ensure that a commander of a combatant command has sufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
 
@@ -58,7 +58,7 @@ Authority Over Subordinate Commanders.—Unless otherwise directed by the Presid
 
 (e)
 
-Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may be recommended to the President for assignment to that position, only—
+Selection of Subordinate Commanders.—(1) An officer may be assigned to a position as the commander of a command directly subordinate to the commander of a combatant command or, in the case of such a position that is designated under section 601 of this title as a position of importance and responsibility, may berecommended to the President for assignment to that position, only—
 
 &emsp;(A) with the concurrence of the commander of the combatant command; and
 
@@ -71,6 +71,8 @@ Selection of Subordinate Commanders.—(1) An officer may be assigned to a posit
 &emsp;(A) evaluate the duty performance of each commander of a command directly subordinate to the commander of such combatant command; and
 
 &emsp;(B) submit the evaluation to the Secretary of the military department concerned and the Chairman of the Joint Chiefs of Staff.
+
+(4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of the National Guard who is eligible for promotion to the grade of O–9, unless a National Guard officer is serving as commander of that combatant command.
 
 (f)
 
@@ -88,15 +90,21 @@ Combatant Command Staff.—(1) Each unified and specified combatant command shal
 
 Authority to Suspend Subordinates.—In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501.)
 
 #### Amendments
+
+2008—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
 1988—Subsec. (a)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
 
 #### Effective Date
 
-Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, UnitedStates Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\], or on such earlier date as may be prescribed by the Secretary of Defense.”
+
+#### Sense of Congress
+
+Pub. L. 110–181, div. A, title XVIII, §1824(a), Jan. 28, 2008, 122 Stat. 501, provided that: “It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade.”
 
 #### Waiver of Qualifications for Assignment as Combatant Commander
 

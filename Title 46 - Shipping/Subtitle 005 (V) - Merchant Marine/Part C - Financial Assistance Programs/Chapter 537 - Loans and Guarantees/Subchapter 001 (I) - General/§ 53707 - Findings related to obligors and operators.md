@@ -2,11 +2,11 @@
 
 (a)
 
-Responsible Obligor.—The Secretary may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary finds that the obligor is responsible and has the ability, experience, financial resources, and other qualifications necessary for the adequate operation and maintenance of each vessel that will serve as security for the guarantee.
+Responsible Obligor.—The Secretary or Administrator may not guarantee or make a commitment to guarantee an obligation under this chapter unless the Secretary or Administrator finds that the obligor is responsible and has the ability, experience, financial resources, and other qualifications necessary for the adequate operation and maintenance of each vessel that will serve as security for the guarantee.
 
 (b)
 
-Operators of Liner Vessels.—The Secretary of Transportation may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a liner vessel under this chapter unless the Chairman of the Federal Maritime Commission certifies that the operator of the vessel has not been found by the Commission to have committed, within the previous 5 years—
+Operators of Liner Vessels.—The Administrator may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a liner vessel under this chapter unless the Chairman of the Federal Maritime Commission certifies that the operator of the vessel has not been found by the Commission to have committed, within the previous 5 years—
 
 &emsp;(1) a violation of part A of subtitle IV of this title that involves unjust or unfair discriminatory treatment or undue or unreasonable prejudice or disadvantage with respect to a United States shipper, ocean transportation intermediary, ocean common carrier, or port; or
 
@@ -14,7 +14,7 @@ Operators of Liner Vessels.—The Secretary of Transportation may not guarantee 
 
 (c)
 
-Operators of Fishing Vessels.—The Secretary of Commerce may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishing vessel under this chapter if the operator of the vessel has been—
+Operators of Fishing Vessels.—The Secretary may not guarantee or make a commitment to guarantee a loan for the construction, reconstruction, or reconditioning of a fishing vessel under this chapter if the operator of the vessel has been—
 
 &emsp;(1) held liable, or the vessel has been held liable in rem, for a civil penalty under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858) and the operator has not paid the penalty;
 
@@ -26,23 +26,13 @@ Operators of Fishing Vessels.—The Secretary of Commerce may not guarantee or m
 
 (d)
 
-Waivers Concerning Financial Condition.—The Secretary shall prescribe regulations concerning circumstances under which waivers of, or exceptions to, otherwise applicable regulatory requirements concerning financial condition can be made. The regulations shall require that—
+Waivers Concerning Financial Condition.—The Secretary or Administrator shall prescribe regulations concerning circumstances under which waivers of, or exceptions to, otherwise applicable regulatory requirements concerning financial condition can be made. The regulations shall require that—
 
 &emsp;(1) the economic soundness requirements in section 53708(a) of this title are met after the waiver of the financial condition requirement; and
 
-&emsp;(2) the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for the increased risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
+&emsp;(2) if the Secretary or Administrator considers necessary, the waiver shall provide for the imposition of other requirements on the obligor designed to compensate for any significant increase in risk associated with the obligor's failure to meet regulatory requirements applicable to financial condition.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1607; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), Jan. 6, 2006, 119 Stat. 3555, 3556.)
-
-#### Amendments Not Shown in Text
-
-<i>Subsec. (a) of this section was derived from section 1274(b)(1) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. Section 1274(b)(1) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
-
-<i>Subsec. (b) of this section was derived from section 1273a(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(c)(1), Jan. 6, 2006, 119 Stat. 3556. Section 1273a(a) of the former Appendix to this title was amended by striking “Secretary of Transportation” and inserting “Administrator of the Maritime Administration”.</i>
-
-<i>Subsec. (d)(2) of this section was derived from section 1274(d)(4)(B) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(b)(3)(B), (C), Jan. 6, 2006, 119 Stat. 3556. Section 1274(d)(4)(B) of the former Appendix to this title was amended by striking “the waiver” and inserting “if deemed necessary by the Secretary or Administrator, the waiver” and by striking “the increased” and inserting “any significant increase in”.</i>
-
-<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1607; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(3), (b), Jan. 28, 2008, 122 Stat. 597, 598.)
 
 Historical and Revision Notes
 
@@ -75,4 +65,18 @@ Pub. L. 105–258, title IV, §401, Oct. 14, 1998, 112 Stat. 1916.
 46 App.:1274(d)(4).
 
 June 29, 1936, ch. 858, title XI, §1104A(d)(4), as added Pub. L. 108–136, title XXXV, §3522, Nov. 24, 2003, 117 Stat. 1800.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 110–181, §3522(a)(3)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (b). Pub. L. 110–181, §3522(a)(3)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(c)(1), into this section by substituting “Administrator” for “Secretary of Transportation”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (c). Pub. L. 110–181, §3522(a)(3)(C), struck out “of Commerce” after “The Secretary” in introductory provisions.
+
+Subsec. (d). Pub. L. 110–181, §3522(a)(3)(A), (D), incorporated the substance of the amendment by Pub. L. 109–163, §3507(b)(3)(B), (C), into this section by inserting “or Administrator” after “Secretary” in introductory provisions and in par. (2) by inserting “if the Secretary or Administrator considers necessary,” before “the waiver” and substituting “any significant increase in” for “the increased”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1), which directed the amendment of sections 1273a(a) and 1274(b)(1), (d)(4)(B) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes for subsecs. (a), (b), and (d) and Historical and Revision notes above.
 

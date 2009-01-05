@@ -44,7 +44,7 @@ Section 501(d)(3) of Pub. L. 102–237 provided that:
 
 “(A)
 
-In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall become effective on the date of publication of the interim regulations issued pursuant to paragraph (2)(A) \[set out below\].
+In general.—Except as provided in subparagraph (B), the amendment made by paragraph (1)\[amending this section\] shall become effective on the date of publication of the interim regulations issued pursuant to paragraph (2)(A) \[set out below\].
 
 “(B)
 

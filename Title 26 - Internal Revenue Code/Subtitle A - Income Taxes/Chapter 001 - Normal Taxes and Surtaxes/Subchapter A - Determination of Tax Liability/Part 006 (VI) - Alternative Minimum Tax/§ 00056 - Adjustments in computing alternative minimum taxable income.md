@@ -92,7 +92,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (B) Medical expenses
 
-&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) ofsection 213 shall be applied by substituting “10 percent” for “7.5 percent”.
+&emsp;&emsp;In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied by substituting “10 percent” for “7.5 percent”.
 
 #### (C) Interest
 
@@ -114,7 +114,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (E) Standard deduction and deduction for personal exemptions not allowed
 
-&emsp;&emsp;The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
+&emsp;&emsp;The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under section 63(c)(1)(D).
 
 #### (F) Section 68 not applicable
 
@@ -124,7 +124,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (A) In general
 
-&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
+&emsp;&emsp;The amount allowable as a deduction under section 173 or 174(a) in computing theregular tax for amounts paid or incurred after December 31, 1986, shall be capitalized and—
 
 &emsp;&emsp;&emsp;(i) in the case of circulation expenditures described in section 173, shall be amortized ratably over the 3-year period beginning with the taxable year in which the expenditures were made, or
 
@@ -218,6 +218,10 @@ In determining the amount of the alternative minimum taxable income of a corpora
 
 &emsp;&emsp;In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.
 
+#### (3) Net operating loss attributable to federally declared disasters
+
+&emsp;In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss.
+
 #### (e) Qualified housing interest
 
 For purposes of this part—
@@ -274,7 +278,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year,shall be reduced by 75 percent of the excess (if any) of—
+&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year, shall be reduced by 75 percent of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount referred to in subparagraph (B) of paragraph (1), over
 
@@ -304,7 +308,7 @@ For purposes of this part—
 
 #### (i) Property placed in service after 1989
 
-&emsp;&emsp;&emsp;The depreciation deduction with respect to any property placed in service in a taxable year beginning after 1989 shall be determined under the alternative system of section 168(g). The preceding sentence shall not apply to any property placed in service after December 31, 1993, and the depreciation deduction with respect to such property shall be determined under the rules of subsection (a)(1)(A).
+&emsp;&emsp;&emsp;The depreciation deduction with respect to any property placed in service in a taxable year beginning after 1989 shall be determined under the alternative system ofsection 168(g). The preceding sentence shall not apply to any property placed in service after December 31, 1993, and the depreciation deduction with respect to such property shall be determined under the rules of subsection (a)(1)(A).
 
 #### (ii) Property to which new ACRS system applies
 
@@ -350,11 +354,15 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) there shall be allowed as a deduction that portion of any premium which is attributable to insurance coverage.
 
+#### (iii) Tax exempt interest on certain housing bonds
+
+&emsp;&emsp;&emsp;Clause (i) shall not apply in the case of any interest on a bond to which section 57(a)(5)(C)(iii) applies.
+
 #### (C) Disallowance of items not deductible in computing earnings and profits
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductiblefor any taxable year for purposes of computing earnings and profits.
+&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductible for any taxable year for purposes of computing earnings and profits.
 
 #### (ii) Special rule for certain dividends
 
@@ -420,7 +428,7 @@ For purposes of this part—
 
 #### (iv) Installment sales
 
-&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31, 1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The precedingsentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
+&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31, 1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The preceding sentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
 
 #### (E) Disallowance of loss on exchange of debt pools
 
@@ -470,7 +478,7 @@ For purposes of this part—
 
 &emsp;This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925.)
 
 #### References in Text
 
@@ -487,6 +495,12 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+2008—Subsec. (b)(1)(E). Pub. L. 110–343, §706(b)(3), inserted at end “The preceding sentence shall not apply to so much of the standard deduction as is determined under section 63(c)(1)(D).”
+
+Subsec. (d)(3). Pub. L. 110–343, §708(c), added par. (3).
+
+Subsec. (g)(4)(B)(iii). Pub. L. 110–289 added cl. (iii).
 
 2007—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, §11(g)(1), substituted “921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “921”.
 
@@ -566,7 +580,7 @@ Subsec. (g)(4)(C)(iii)(IV), (V). Pub. L. 103–66, §13227(c)(2), added subcls. 
 
 Subsec. (g)(4)(J). Pub. L. 103–66, §13171(b), added subpar. (J).
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–486, §1915(c)(2), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: “the amount of such deduction shall not exceed the excess (if any) of—
+1992—Subsec. (d)(1)(A). Pub. L. 102–486, §1915(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of such deduction shall not exceed the excess (if any) of—
 
 &emsp;“(i) 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under subsection (h), over
 
@@ -749,6 +763,22 @@ Subsec. (g)(4)(I). Pub. L. 100–647, §1007(b)(18), added subpar. (I).
 > income from such disposition shall be determined without regard to the installment method under section 453 or 453A and all payments to be received for the disposition shall be deemed received in the taxable year of the disposition. This paragraph shall not apply to any disposition with respect to which an election is in effect under section 453C(e)(4).”
 
 Subsec. (f)(2)(H), (I). Pub. L. 100–203, §10243(a), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title VII, §706(d), Oct. 3, 2008, 122 Stat. 3923, provided that:
+
+“(1)
+
+In general.—Except as provided by paragraph (2), the amendments made by this section \[amendingthis section and sections 63, 139, 165, 172, 1033, and 7508A of this title\] shall apply to disasters declared in taxable years beginning after December 31, 2007.
+
+“(2)
+
+Increase in limitation on individual loss per casualty.—The amendment made by subsection (c) \[amending section 165 of this title\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 110–343, div. C, title VII, §708(e), Oct. 3, 2008, 122 Stat. 3925, provided that: “The amendments made by this section \[amending this section and section 172 of this title\] shall apply to losses arising in taxable years beginning after December 31, 2007, in connection with disasters declared after such date.”
+
+Pub. L. 110–289, div. C, title I, §3022(d)(1), July 30, 2008, 122 Stat. 2894, provided that: “The amendments made by subsection (a) \[amending this section and section 57 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[July 30, 2008\].”
 
 #### Effective Date of 2005 Amendments
 
@@ -1035,6 +1065,10 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 #### Savings Provision
 
 For provisions that nothing in amendment by sections 11801 and 11812 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Coordination With Heartland Disaster Relief
+
+Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, provided that: “The amendments made by this subtitle \[subtitle B (§§706–712) of title VII of div. C of Pub. L. 110–343, enacting section 198A of this title and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title\], other than the amendments made by sections 706(a)(2) \[amending sections 139, 165, 172, 1033, and 7508A of this title\], 710 \[amending section 168 of this title\], and 711 \[amending section 179 of this title\], shall not apply to any disaster described in section 702(c)(1)(A) \[section 702(c)(1) has no subpar. (A)\], or to any expenditure or loss resulting from such disaster.”
 
 #### Application of Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992
 

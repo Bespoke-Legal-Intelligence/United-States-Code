@@ -12,7 +12,7 @@ Except as otherwise provided, in this subchapter:
 
 #### (3) Community college
 
-&emsp;The term “community college” means an institution of higher education as defined in section 1001 of this title that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;The term “community college” means an institution of higher education as defined in section 1001 of this title that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (4) Director
 
@@ -102,15 +102,19 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;&emsp;(ii) approved by the Secretary for the purpose of carrying out programs under subpart 1 of part A of this subchapter for individuals served by a school described in section 6822(a) of this title.
 
-(Pub. L. 89–10, title III, §3301, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1729.)
+(Pub. L. 89–10, title III, §3301, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1729; amended Pub. L. 110–315, title IX, §941(k)(2)(F)(i), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (3), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (3), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 
 A prior section 3301 of Pub. L. 89–10 was classified to section 6921 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+2008—Par. (3). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

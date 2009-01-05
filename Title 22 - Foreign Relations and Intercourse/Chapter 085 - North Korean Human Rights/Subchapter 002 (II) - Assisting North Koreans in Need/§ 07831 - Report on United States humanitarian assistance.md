@@ -2,7 +2,7 @@
 
 #### (a) Report
 
-Not later than 180 days after October 18, 2004, and in each of the 2 years thereafter, the Administrator of the United States Agency for International Development, in conjunction with the Secretary of State, shall submit to the appropriate congressional committees a report that describes—
+Not later than 180 days after October 18, 2004, and annually thereafter through 2012, the Administrator of the United States Agency for International Development, in conjunction with the Secretary of State, shall submit to the appropriate congressional committees a report that describes—
 
 &emsp;(1) all activities to provide humanitarian assistance inside North Korea, and to North Koreans outside of North Korea, that receive United States funding;
 
@@ -14,9 +14,11 @@ Not later than 180 days after October 18, 2004, and in each of the 2 years there
 
 The information required by subsection (a)(1) may be provided in classified form if necessary.
 
-(Pub. L. 108–333, title II, §201, Oct. 18, 2004, 118 Stat. 1293; Pub. L. 108–447, div. D, title V, §534(j), Dec. 8, 2004, 118 Stat. 3007.)
+(Pub. L. 108–333, title II, §201, Oct. 18, 2004, 118 Stat. 1293; Pub. L. 108–447, div. D, title V, §534(j), Dec. 8, 2004, 118 Stat. 3007; Pub. L. 110–346, §9, Oct. 7, 2008, 122 Stat. 3942.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–346 substituted “annually thereafter through 2012” for “in each of the 2 years thereafter” in introductory provisions.
 
 2004—Subsec. (a)(2). Pub. L. 108–447 substituted “subparagraphs (A) through (D) of section 7832(b)(1) of this title” for “paragraphs (1) through (4) of section 7832(b) of this title”.
 

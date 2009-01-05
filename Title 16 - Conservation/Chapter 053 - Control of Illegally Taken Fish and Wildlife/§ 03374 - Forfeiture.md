@@ -8,19 +8,37 @@
 
 #### (b) Application of customs laws
 
-All provisions of law relating to the seizure, forfeiture, and condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter, except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department may, for the purposes of this chapter, also be exercised or performed by the Secretary or by such persons as he may designate: <i>Provided</i>, That any warrant for search or seizure shall be issued in accordance with rule 41 of the Federal Rules of Criminal Procedure.
+All provisions of law relating to the seizure, forfeiture, and condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the salethereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter, except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Treasury Department may, for the purposes of this chapter, also be exercised or performed by the Secretary or by such persons as he may designate: <i>Provided</i>, That any warrant for search or seizure shall be issued in accordance with rule 41 of the Federal Rules of Criminal Procedure.
 
 #### (c) Storage cost
 
 Any person convicted of an offense, or assessed a civil penalty, under section 3373 of this title shall be liable for the costs incurred in the storage, care, and maintenance of any fish or wildlife or plant seized in connection with the violation concerned.
 
-(Pub. L. 97–79, §5, Nov. 16, 1981, 95 Stat. 1076.)
+#### (d) Civil forfeitures
+
+Civil forfeitures under this section shall be governed by the provisions of chapter 46 of title 18.
+
+(Pub. L. 97–79, §5, Nov. 16, 1981, 95 Stat. 1076; Pub. L. 110–234, title VIII, §8204(d), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(d), June 18, 2008, 122 Stat. 1664, 2056.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (b), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 The customs laws, referred to in subsec. (b), are classified generally to Title 19, Customs Duties.
 
 Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §8204(d), added subsec. (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

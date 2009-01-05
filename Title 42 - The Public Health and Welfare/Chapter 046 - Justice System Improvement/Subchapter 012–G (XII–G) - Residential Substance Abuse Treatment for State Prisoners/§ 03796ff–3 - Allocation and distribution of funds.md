@@ -10,25 +10,21 @@ Of the total amount appropriated under this subchapter in any fiscal year—
 
 #### (b) Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of thetotal costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
 
 #### (c) Local allocation
 
 At least 10 percent of the total amount made available to a State under subsection (a) of this section for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-based substance abuse treatment programs that are effective and science-based established by those local correctional facilities.
 
-#### (d) Definition
+#### (d) Residential substance abuse treatment program defined
 
-In this section, the term “residential substance abuse treatment program” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
+In this subchapter, the term “residential substance abuse treatment program” means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).
 
-&emsp;(1) directed at the substance abuse problems of the prisoners;
-
-&emsp;(2) intended to develop the prisoner's cognitive, behavioral, social, vocational and other skills so as to solve the prisoner's substance abuse and other problems; and
-
-&emsp;(3) which may include the use of pharmacotherapies, where appropriate, that may extend beyond the treatment period.
-
-(Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, §2102(3), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §1144, Jan. 5, 2006, 119 Stat. 3111.)
+(Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, §2102(3), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §1144, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 110–199, title I, §102(b), Apr. 9, 2008, 122 Stat. 668.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–199 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined “residential substance abuse treatment program”.
 
 2006—Subsec. (d). Pub. L. 109–162 added subsec. (d).
 
@@ -37,4 +33,8 @@ In this section, the term “residential substance abuse treatment program” me
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–162 effective Oct. 1, 2006, see section 1147 of Pub. L. 109–162, set out as a note under section 3796ff–1 of this title.
+
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of this title.
 

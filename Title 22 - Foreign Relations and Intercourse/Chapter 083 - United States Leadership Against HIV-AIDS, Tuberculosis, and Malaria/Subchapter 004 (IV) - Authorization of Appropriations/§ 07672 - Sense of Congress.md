@@ -12,15 +12,19 @@ It is a sense of the Congress that an urgent priority of United States assistanc
 
 #### (b) Effective distribution of HIV/AIDS funds
 
-It is the sense of Congress that, of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, an effective distribution of such amounts would be—
+It is the sense of Congress that, of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, 10 percent should be used for orphans and vulnerable children.
 
-&emsp;(1) 55 percent of such amounts for treatment of individuals with HIV/AIDS;
+(Pub. L. 108–25, title IV, §402, May 27, 2003, 117 Stat. 745; Pub. L. 110–293, title IV, §402, July 30, 2008, 122 Stat. 2966.)
 
-&emsp;(2) 15 percent of such amounts for palliative care of individuals with HIV/AIDS;
+#### Amendments
 
-&emsp;(3) 20 percent of such amounts for HIV/AIDS prevention consistent with section 2151b–2(d) of this title, of which such amount at least 33 percent should be expended for abstinence-until-marriage programs; and
+2008—Subsec. (b). Pub. L. 110–293 substituted “10 percent should be used” for “an effective distribution of such amounts would be—
 
-&emsp;(4) 10 percent of such amounts for orphans and vulnerable children.
+&emsp;“(1) 55 percent of such amounts for treatment of individuals with HIV/AIDS;
 
-(Pub. L. 108–25, title IV, §402, May 27, 2003, 117 Stat. 745.)
+&emsp;“(2) 15 percent of such amounts for palliative care of individuals with HIV/AIDS;
+
+&emsp;“(3) 20 percent of such amounts for HIV/AIDS prevention consistent with section 2151b–2(d) of this title, of which such amount at least 33 percent should be expended for abstinence-until-marriage programs; and
+
+&emsp;“(4) 10 percent of such amounts”.
 

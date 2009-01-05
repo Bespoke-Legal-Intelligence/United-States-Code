@@ -170,7 +170,7 @@ Security clearances.—Pursuant to existing procedures and requirements, the Sec
 
 &emsp;&emsp;&emsp;(iii)
 
-Unclassified summaries of classified evidence.—As part of a review conducted under this paragraph and upon the request of the individual adversely affected by the decision of the Secretary not to grant a waiver, the Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under clause (i), an unclassified summary of any classified information upon which the decision of the Secretary was based.
+Unclassified summaries of classified evidence.—As part of a review conducted under this paragraph and upon the request of the individual adversely affected by the decision of the Secretary notto grant a waiver, the Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under clause (i), an unclassified summary of any classified information upon which the decision of the Secretary was based.
 
 &emsp;&emsp;(E)
 
@@ -326,7 +326,7 @@ Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
 #### Deadline for Section 70105 Regulations
 
-Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: “Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a checkagainst the consolidated and integrated terrorist watch list maintained by the Federal Government.”
+Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: “Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government.”
 
 #### Prohibition of Issuance of Transportation Security Cards to Persons Convicted of Certain Felonies
 

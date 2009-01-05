@@ -14,7 +14,7 @@ As a requirement for project approval, local governments applying for assistance
 
 &emsp;(5) the relationship of the park and recreation recovery program to overall community development and urban revitalization efforts.
 
-> Where appropriate, the Secretary may encourage local governments to meet action programrequirements through a continuing planning process which includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
+> Where appropriate, the Secretary may encourage local governments to meet action program requirements through a continuing planning process which includes periodic improvements and updates in action program submissions to eliminate identified gaps in program information and policy development.
 
 #### (b) Recovery action program special considerations
 

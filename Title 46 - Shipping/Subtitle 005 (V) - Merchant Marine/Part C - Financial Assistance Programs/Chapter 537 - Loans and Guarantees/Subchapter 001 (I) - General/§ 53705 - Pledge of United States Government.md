@@ -8,11 +8,7 @@ Full Faith and Credit.—The full faith and credit of the United States Governme
 
 Incontestability.—A guarantee or commitment to guarantee made under this chapter is conclusive evidence of the eligibility of the obligation for the guarantee. The validity of a guarantee or commitment to guarantee made under this chapter is incontestable.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>Subsec. (b) of this section was derived from section 1273(e) (1st sentence) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1273(e) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1606; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -33,4 +29,10 @@ June 29, 1936, ch. 858, title XI, §1103(d), (e) (1st sentence), as added June 2
 53705(b)
 
 46 App.:1273(e) (1st sentence).
+
+#### Amendments
+
+2008—Pub. L. 110–181 repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(e) of the former Appendix to this title from which this section was derived in part by striking “Secretary” each place it appears and inserting “Secretary or Administrator”, was repealed by Pub. L. 110–181. See Historical and Revision notes above.
 

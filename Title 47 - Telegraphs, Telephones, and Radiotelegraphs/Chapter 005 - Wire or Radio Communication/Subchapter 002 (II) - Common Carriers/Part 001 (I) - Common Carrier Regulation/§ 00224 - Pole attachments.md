@@ -46,7 +46,7 @@ As used in this section:
 
 (2) As used in this subsection, the term “usable space” means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
 
-(3) This subsection shall apply to the rate for any pole attachment used by a cable televisionsystem solely to provide cable service. Until the effective date of the regulations required under subsection (e) of this section, this subsection shall also apply to the rate for any pole attachment used by a cable system or any telecommunications carrier (to the extent such carrier is not a party to a pole attachment agreement) to provide any telecommunications service.
+(3) This subsection shall apply to the rate for any pole attachment used by a cable television system solely to provide cable service. Until the effective date of the regulations required under subsection (e) of this section, this subsection shall also apply to the rate for any pole attachment used by a cable system or any telecommunications carrier (to the extent such carrier is not a party to a pole attachment agreement) to provide any telecommunications service.
 
 #### (e) Regulations governing charges; apportionment of costs of providing space
 

@@ -6,7 +6,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;(1) the State shall require, as a condition of eligibility for benefits under any program listed in subsection (b) of this section, that each applicant for or recipient of benefits under that program furnish to the State his social security account number (or numbers, if he has more than one such number), and the State shall utilize such account numbers in the administration of that program so as to enable the association of the records pertaining to the applicant or recipient with his account number;
 
-&emsp;(2) wage information from agencies administering State unemployment compensation laws available pursuant to section 3304(a)(16) of the Internal Revenue Code of 1986, wage information reported pursuant to paragraph (3) of this subsection, and wage, income, and other information from the Social Security Administration and the Internal Revenue Service available pursuant to section 6103(<i>l</i>)(7) of such Code, shall be requested and utilized to the extent that such information may be useful in verifying eligibility for, and the amount of, benefits available under any program listed in subsection (b) of this section, as determined by the Secretary of Health and Human Services (or, in the case of the unemployment compensation program, by the Secretary of Labor, or, in the case of the food stamp program, by the Secretary of Agriculture);
+&emsp;(2) wage information from agencies administering State unemployment compensation laws available pursuant to section 3304(a)(16) of the Internal Revenue Code of 1986, wage information reported pursuant to paragraph (3) of this subsection, and wage, income, and other information from the Social Security Administration and the Internal Revenue Service available pursuant to section 6103(<i>l</i>)(7) of such Code, shall be requested and utilized to the extent that such information may be useful in verifying eligibility for, and the amount of, benefits available under any program listed in subsection (b) of this section, as determined by the Secretary of Health and Human Services (or, in the case of the unemployment compensation program, by the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, by the Secretary of Agriculture);
 
 &emsp;(3) employers (as defined in section 653a(a)(2)(B) of this title) (including State and local governmental entities and labor organizations) in such State are required, effective September 30, 1988, to make quarterly wage reports to a State agency (which may be the agency administering the State's unemployment compensation law) except that the Secretary of Labor (in consultation with the Secretary of Health and Human Services and the Secretary of Agriculture) may waive the provisions of this paragraph if he determines that the State has in effect an alternative system which is as effective and timely for purposes of providing employment related income and eligibility data for the purposes described in paragraph (2), and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission, and except that in the case of wage reports with respect to domestic service employment, a State may permit employers (as so defined) that make returns with respect to such employment on a calendar year basis pursuant to section 3510 of the Internal Revenue Code of 1986 to make such reports on an annual basis;
 
@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(<i>l</i>); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the foodstamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the supplemental nutrition assistance program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -38,7 +38,7 @@ The programs which must participate in the income and eligibility verification s
 
 &emsp;(3) the unemployment compensation program under section 3304 of the Internal Revenue Code of 1986;
 
-&emsp;(4) the food stamp program under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; and
+&emsp;(4) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\]; and
 
 &emsp;(5) any State program under a plan approved under subchapter I, X, XIV, or XVI of this chapter.
 
@@ -126,7 +126,7 @@ Each Federal agency responsible for administration of a program described in sub
 
 Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under section 1396b(v)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911.)
+(Aug. 14, 1935, ch. 531, title XI, §1137, as added Pub. L. 98–369, div. B, title VI, §2651(a), July 18, 1984, 98 Stat. 1147; amended Pub. L. 99–509, title IX, §9101, Oct. 21, 1986, 100 Stat. 1972; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–603, title I, §121(a)(1), Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–360, title IV, §411(k)(15)(A), July 1, 1988, 102 Stat. 799; Pub. L. 103–432, title II, §231, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–193, title I, §108(g)(8), title III, §313(c), Aug. 22, 1996, 110 Stat. 2168, 2212; Pub. L. 104–208, div. C, title V, §507(a), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 106–169, title IV, §401(p), Dec. 14, 1999, 113 Stat. 1859; Pub. L. 106–170, title IV, §405(a), (b), Dec. 17, 1999, 113 Stat. 1911; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
@@ -134,9 +134,17 @@ Parts A and D of subchapter IV of this chapter, referred to in subsecs. (a)(4)(B
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (3), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
 
-The Food Stamp Act of 1977, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(2), (5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
+
+Subsec. (b)(4). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1999—Subsec. (a)(3). Pub. L. 106–170, §405(b)(2), inserted “(as defined in section 653a(a)(2)(B) of this title)” after “employers”.
 
@@ -150,7 +158,7 @@ Pub. L. 106–169, substituted “653a(a)(2)(B)(ii) of this title))” for “65
 
 Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: “the aid to families with dependent children program under part A of subchapter IV of this chapter;”.
 
-Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted “In this subsection, in” for “In this subsection—”, struck out “(ii) in” before “the case of theprogram described in subsection (b)(4)”, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: “in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,”.
+Subsec. (d)(1)(B). Pub. L. 104–193, §108(g)(8)(B), substituted “In this subsection, in” for “In this subsection—”, struck out “(ii) in” before “the case of the program described in subsection (b)(4)”, redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively, realigned margins, and struck out former cl. (i) which read as follows: “in the case of the program described in subsection (b)(1) of this section, any reference to an individual's eligibility for benefits under the program shall be considered a reference to the individual's being considered a dependent child or to the individual's being treated as a caretaker relative or other person whose needs are to be taken into account in making the determination under section 602(a)(7) of this title,”.
 
 Subsec. (d)(4)(B)(i). Pub. L. 104–208 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the State shall transmit to the Immigration and Naturalization Service photostatic or other similar copies of such documents for official verification,”.
 
@@ -172,6 +180,16 @@ Subsecs. (b)(3), (c)(1). Pub. L. 99–514 substituted “Internal Revenue Code o
 
 Subsecs. (d), (e). Pub. L. 99–603, §121(a)(1)(C), added subsecs. (d) and (e).
 
+#### Change of Name
+
+References to the food stamp program established under the Food and Nutrition Act of 2008 \[see Effective Date of 1986 Amendment note and Effective Date note below\] considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 1999 Amendments
 
 Pub. L. 106–170, title IV, §405(c), Dec. 17, 1999, 113 Stat. 1911, provided that: “The amendments made by this section \[amending this section\] shall apply to wage reports required to be submitted on and after the date of the enactment of this Act \[Dec. 17, 1999\].”
@@ -190,7 +208,7 @@ Section 411(k)(15)(B) of Pub. L. 100–360 provided that: “The amendment made 
 
 #### Effective Date of 1986 Amendment; Use of Verification System
 
-Section 121(c)(3), (4) of Pub. L. 99–603 provided that:
+Pub. L. 99–603, title I, §121(c)(3), (4), Nov. 6, 1986, 100 Stat. 3391, 3392, provided that:
 
 “(3)
 
@@ -212,7 +230,7 @@ Report to respective congressional committees.—With respect to each covered pr
 
 &emsp;“(B)
 
-Waiver in certain cases.—If, with respect to a covered program, the appropriate Secretary determines, on the Secretary's own initiative or upon an application by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
+Waiver in certain cases.—If, with respect to a covered program, the appropriate Secretary determines, on the Secretary's own initiative or upon anapplication by an administering entity and based on such information as the Secretary deems persuasive (which may include the results of the report required under subsection (d)(1) \[set out as a note below\] and information contained in such an application), that—
 
 &emsp;&emsp;“(i) the appropriate Secretary or the administering entity has in effect an alternative system of immigration status verification which—
 
@@ -234,7 +252,7 @@ Basis for determination.—A determination under subparagraph (B)(ii) shall be b
 
 &emsp;&emsp;“(iii) the labor and nonlabor costs of administration of the verification system,
 
-> &emsp;the degree to which the Immigration and Naturalization Service is capable of providing timely and accurate information to the administering entity in orderto permit a reliable determination of immigration status, and such other factors as such Secretary deems relevant.
+> &emsp;the degree to which the Immigration and Naturalization Service is capable of providing timely and accurate information to the administering entity in order to permit a reliable determination of immigration status, and such other factors as such Secretary deems relevant.
 
 &emsp;“(D)
 
@@ -250,7 +268,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;“(IV) The unemployment compensation program under section 3304 of the Internal Revenue Code of 1954 \[now 1986; 26 U.S.C. 3304\].
 
-&emsp;&emsp;&emsp;“(V) The food stamp program under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\].
+&emsp;&emsp;&emsp;“(V) The food stamp program under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\].
 
 &emsp;&emsp;&emsp;“(VI) The programs of financial assistance for housing subject to section 214 of the Housing and Community Development Act of 1980 \[42 U.S.C. 1436a\].
 

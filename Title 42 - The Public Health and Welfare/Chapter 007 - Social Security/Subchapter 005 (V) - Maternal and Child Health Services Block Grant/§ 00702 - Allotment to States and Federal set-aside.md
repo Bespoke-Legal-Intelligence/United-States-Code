@@ -20,7 +20,7 @@
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 
-(B) In carrying out activities described in section 701(a)(3)(D) of this title, the Secretary shall not provide for developing or expanding a maternal and child health center unless the Secretary has received satisfactory assurances that there will be applied, towards the costs of such development or expansion, non-Federal funds in an amount at least equal to the amount of funds provided under this subchapter toward such development or expansion.
+(B) In carrying out activities described in section 701(a)(3)(D) of this title, the Secretary shallnot provide for developing or expanding a maternal and child health center unless the Secretary has received satisfactory assurances that there will be applied, towards the costs of such development or expansion, non-Federal funds in an amount at least equal to the amount of funds provided under this subchapter toward such development or expansion.
 
 #### (c) Allotments to States
 
@@ -76,7 +76,7 @@ Subsec. (c)(2). Pub. L. 101–239, §6502(a)(4)(B), amended par. (2) generally, 
 
 Subsec. (d)(1). Pub. L. 101–239, §6503(c)(4), substituted “705(a)” for “705” in two places.
 
-1986—Subsec. (a)(1). Pub. L. 99–509, §9441(b)(1), substituted “amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under section 701(a) of this title”.
+1986—Subsec. (a)(1). Pub. L. 99–509, §9441(b)(1), substituted “amounts appropriated under section 701(a) ofthis title for a fiscal year that are not in excess of $478,000,000” for “amount appropriated under section 701(a) of this title”.
 
 Subsec. (a)(2)(B). Pub. L. 99–272 substituted “programs for children with special health care needs” for “crippled children's programs” and “services for children with special health care needs” for “crippled children's services”.
 

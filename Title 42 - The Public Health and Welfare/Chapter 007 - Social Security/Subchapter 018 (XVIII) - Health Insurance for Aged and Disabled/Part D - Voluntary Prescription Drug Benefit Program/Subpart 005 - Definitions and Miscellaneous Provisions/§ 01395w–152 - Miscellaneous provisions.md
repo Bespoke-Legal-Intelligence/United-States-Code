@@ -6,7 +6,7 @@ The Secretary may waive such requirements of this part, including section 1395w�
 
 #### (b) Application of demonstration authority
 
-The provisions of section 402 of the Social Security Amendments of 1967 (Public Law 90–248) shall apply with respect to this part and part C of this subchapter in the same manner it applies with respect to parts A and B of this subchapter, except that any reference with respect to a Trust Fund in relation to an experiment or demonstration project relating to prescription drugcoverage under this part shall be deemed a reference to the Medicare Prescription Drug Account within the Federal Supplementary Medical Insurance Trust Fund.
+The provisions of section 402 of the Social Security Amendments of 1967 (Public Law 90–248) shall apply with respect to this part and part C of this subchapter in the same manner it applies with respect to parts A and B of this subchapter, except that any reference with respect to a Trust Fund in relation to an experiment or demonstration project relating to prescription drug coverage under this part shall be deemed a reference to the Medicare Prescription Drug Account within the Federal Supplementary Medical Insurance Trust Fund.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–42, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2149.)
 

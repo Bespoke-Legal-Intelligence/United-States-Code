@@ -10,10 +10,13 @@
 | [2125\.](%C2%A7%2002125%20-%20Members%20of%20the%20program%20exclusion%20from%20authorized%20strengths.md) | Members of the program: exclusion from authorized strengths. |
 | [2126\.](%C2%A7%2002126%20-%20Members%20of%20the%20program%20service%20credit.md) | Members of the program: service credit. |
 | [2127\.](%C2%A7%2002127%20-%20Scholarships%20and%20financial%20assistance%20payments.md) | Scholarships and financial assistance: payments. |
+| [2128\.](%C2%A7%2002128%20-%20Accession%20bonus%20for%20members%20of%20the%20program.md) | Accession bonus for members of the program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title VI, §623(b), Jan. 28, 2008, 122 Stat. 152, added item 2128.
 
 1989—Pub. L. 101–189, div. A, title VII, §725(d)(3), (h)(2), Nov. 29, 1989, 103 Stat. 1479, 1480, substituted “AND FINANCIAL ASSISTANCE PROGRAM” for “PROGRAM” in subchapter heading and “Scholarships and financial assistance” for “Contracts for scholarships” in item 2127.
 
@@ -34,3 +37,4 @@
 - [&sect; 02125 - Members of the program exclusion from authorized strengths](%C2%A7%2002125%20-%20Members%20of%20the%20program%20exclusion%20from%20authorized%20strengths.md)
 - [&sect; 02126 - Members of the program service credit](%C2%A7%2002126%20-%20Members%20of%20the%20program%20service%20credit.md)
 - [&sect; 02127 - Scholarships and financial assistance payments](%C2%A7%2002127%20-%20Scholarships%20and%20financial%20assistance%20payments.md)
+- [&sect; 02128 - Accession bonus for members of the program](%C2%A7%2002128%20-%20Accession%20bonus%20for%20members%20of%20the%20program.md)

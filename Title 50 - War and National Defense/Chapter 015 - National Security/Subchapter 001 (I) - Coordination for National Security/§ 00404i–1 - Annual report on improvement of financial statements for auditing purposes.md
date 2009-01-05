@@ -6,9 +6,9 @@ Not later each year than the date provided in section 415b of this title, the Di
 
 #### Amendments
 
-2004—Pub. L. 108–458 substituted “Director of National Intelligence, the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+<b>2004</b>—Pub. L. 108–458 substituted “Director of National Intelligence, the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
-2003—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 #### Effective Date of 2004 Amendment
 

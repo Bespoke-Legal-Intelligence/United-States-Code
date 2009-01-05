@@ -6,5 +6,5 @@ The Secretary shall make available to the public, in a form and manner specified
 
 #### Effective Date
 
-Section 4321(d)(2) of Pub. L. 105–33 provided that: “The Secretary of Health and Human Services shall issue regulations by not later than the date which is 1 year after the date of the enactment of this Act \[Aug. 5, 1997\] to carry out the amendments made by subsections (b) and (c) \[enacting this section and amending section 1395cc of this title\] and such amendments shall take effect as of such date (on or after the issuance of such regulations) as the Secretary specifies in such regulations.”
+Section 4321(d)(2) of Pub. L. 105–33 provided that: “The Secretary of Health and Human Services shall issue regulations by not later than the date which is 1 year after the date of the enactment of this Act \[Aug.5, 1997\] to carry out the amendments made by subsections (b) and (c) \[enacting this section and amending section 1395cc of this title\] and such amendments shall take effect as of such date (on or after the issuance of such regulations) as the Secretary specifies in such regulations.”
 

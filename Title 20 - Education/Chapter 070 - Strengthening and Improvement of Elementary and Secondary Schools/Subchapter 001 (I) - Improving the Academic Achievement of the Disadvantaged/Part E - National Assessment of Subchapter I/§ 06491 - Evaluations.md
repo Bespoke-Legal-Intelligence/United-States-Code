@@ -10,7 +10,7 @@
 
 &emsp;In conducting the assessment under this subsection, the Secretary shall examine, at a minimum, the following:
 
-&emsp;&emsp;(A) The implementation of programs assisted under this subchapter and the impact of such implementation on increasing student academic achievement (particularly in schools with high concentrations of children living in poverty), relative to the goal of all students reaching the proficient level of achievement based on State academic assessments, challenging State academic content standards, and challenging State student academic achievement standards under section 6311 of this title.
+&emsp;&emsp;(A) The implementation of programs assisted under this subchapter and the impact of such implementation on increasing student academic achievement (particularly in schools with high concentrations of children living in poverty), relative to the goal of allstudents reaching the proficient level of achievement based on State academic assessments, challenging State academic content standards, and challenging State student academic achievement standards under section 6311 of this title.
 
 &emsp;&emsp;(B) The types of programs and services that have demonstrated the greatest likelihood of helping students reach the proficient and advanced levels of achievement based on State student academic achievement standards and State academic content standards.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(L) The extent to which the assistance made available under this subchapter, including funds under section 6302 of this title, is targeted to disadvantaged students, schools, and local educational agencies with the greatest need.
 
-&emsp;&emsp;(M) The effectiveness of Federal administration assistance made available under this subchapter, including monitoring and technical assistance.
+&emsp;&emsp;(M) The effectiveness of Federal administration assistance made available under thissubchapter, including monitoring and technical assistance.
 
 &emsp;&emsp;(N) The academic achievement of the groups of students described in section 6311(b)(2)(C)(v)(II) of this title.
 

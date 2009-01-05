@@ -166,7 +166,7 @@ Subsec. (c)(7). Pub. L. 97–34, §211(a)(1), added par. (7).
 
 Subsec. (c)(8). Pub. L. 97–34, §211(f)(1), added par. (8).
 
-Subsec. (c)(8)(D)(i)(I). Pub. L. 97–34, §302(c)(3), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, subsection (c)(8)(D)(i)(I) of this section (relating to limitation to amount at risk) is amended by striking out “clause (i), (ii), or (iii) of subparagraph (A) or subparagraph (B) of section 128(c)(2)” and inserting in lieu thereof “subparagraph (A) or (B)of section 128(c)(1)”. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+Subsec. (c)(8)(D)(i)(I). Pub. L. 97–34, §302(c)(3), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, subsection (c)(8)(D)(i)(I) of this section (relating to limitation to amount at risk) is amended by striking out “clause (i), (ii), or (iii) of subparagraph (A) or subparagraph (B) of section 128(c)(2)” and inserting in lieu thereof “subparagraph (A) or (B) of section 128(c)(1)”. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 Subsec. (c)(9). Pub. L. 97–34, §211(f)(1), added par. (9).
 
@@ -562,7 +562,7 @@ Special rule.—In the case of the rehabilitation of the Willard Hotel in Washin
 
 Section 421(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to periods beginning after December 31, 1985, under rules similar to rules under section 48(m) of the Internal Revenue Code of 1986.”
 
-Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(6), (8), 1844(a), (b)(3), (5), 1847(b)(11), 1848(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, towhich such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -838,7 +838,7 @@ Section 106(d) of Pub. L. 92–178 provided that: “The amendments made by subs
 
 Section 107(a)(2) of Pub. L. 92–178 provided that: “The repeals made by paragraph (1) \[amending this section and section 47 of this title\] shall apply to casualties and thefts occurring after August 15, 1971.”
 
-Section 108(d) of Pub. L. 92–178 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 48 of this title\] shall apply to leases entered into after September 22, 1971. Theamendment made by subsection (c) \[amending section 48 of this title\] shall apply to leases entered into after November 8, 1971.”
+Section 108(d) of Pub. L. 92–178 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 48 of this title\] shall apply to leases entered into after September 22, 1971. The amendment made by subsection (c) \[amending section 48 of this title\] shall apply to leases entered into after November 8, 1971.”
 
 #### Effective Date of 1969 Amendment
 

@@ -18,4 +18,4 @@
 - [&sect; 03018B - Opportunity for certain persons to enroll](%C2%A7%2003018B%20-%20Opportunity%20for%20certain%20persons%20to%20enroll.md)
 - [&sect; 03018C - Opportunity for certain VEAP participants to enroll](%C2%A7%2003018C%20-%20Opportunity%20for%20certain%20VEAP%20participants%20to%20enroll.md)
 - [&sect; 03019 - Tutorial assistance](%C2%A7%2003019%20-%20Tutorial%20assistance.md)
-- [&sect; 03020 - Transfer of entitlement to basic educational assistance members of the Armed Forces with critical military skills](%C2%A7%2003020%20-%20Transfer%20of%20entitlement%20to%20basic%20educational%20assistance%20members%20of%20the%20Armed%20Forces%20with%20critical%20military%20skills.md)
+- [&sect; 03020 - Authority to transfer unused education benefits to family members for career service members](%C2%A7%2003020%20-%20Authority%20to%20transfer%20unused%20education%20benefits%20to%20family%20members%20for%20career%20service%20members.md)

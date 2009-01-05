@@ -32,7 +32,7 @@
 
 &emsp;A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
 
-&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001,under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
+&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
 
 &emsp;&emsp;(B) certifications that the State will continue to comply with the laws described in section 15545 of this title;
 

@@ -6,11 +6,11 @@ For purposes of this section, the term “resolution of repository siting approv
 
 #### (b) State or Indian tribe petitions
 
-The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
+The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under section 10134 of this title, unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice ofdisapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c) of this section.
 
 #### (c) Congressional review of petitions
 
-If any notice of disapproval of a repository site designation has been submitted to the Congress under section 10136 or 10138 of this title after a recommendation for approval of such siteis made by the President under section 10134 of this title, such site shall be disapproved unless, during the first period of 90 calendar days of continuous session of the Congress after the date of the receipt by the Congress of such notice of disapproval, the Congress passes a resolution of repository siting approval in accordance with this subsection approving such site, and such resolution thereafter becomes law.
+If any notice of disapproval of a repository site designation has been submitted to the Congress under section 10136 or 10138 of this title after a recommendation for approval of such site is made by the President under section 10134 of this title, such site shall be disapproved unless, during the first period of 90 calendar days of continuous session of the Congress after the date of the receipt by the Congress of such notice of disapproval, the Congress passes a resolution of repository siting approval in accordance with this subsection approving such site, and such resolution thereafter becomes law.
 
 #### (d) Procedures applicable to Senate
 
@@ -46,11 +46,11 @@ If any notice of disapproval of a repository site designation has been submitted
 
 #### (e) Procedures applicable to House of Representatives
 
-(1) The provisions of this section are enacted by the Congress—
+(1) The provisions of this section <sup>1</sup> are enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such they are deemed a part of the rules of the House, but applicable only with respect to the procedure to be followed in the House in the case of resolutions of repository siting approval, and such provisions supersede other rules of the House only to the extent that they are inconsistent with such other rules; and
+&emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as suchthey are deemed a part of the rules of the House, but applicable only with respect to the procedure to be followed in the House in the case of resolutions of repository siting approval, and such provisions supersede other rules of the House only to the extent that they are inconsistent with such other rules; and
 
-&emsp;(B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of theHouse) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
+&emsp;(B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
 (2) Resolutions of repository siting approval shall upon introduction, be immediately referred by the Speaker of the House to the appropriate committee or committees of the House. Any such resolution received from the Senate shall be held at the Speaker's table.
 
@@ -85,4 +85,6 @@ In considering any notice of disapproval submitted to the Congress under section
 #### Yucca Mountain, Nevada Repository Site
 
 Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby is approved the site at Yucca Mountain, Nevada, for a repository, with respect to which a notice of disapproval was submitted by the Governor of the State of Nevada on April 8, 2002.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -24,6 +24,7 @@
 | [1789\.](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | [1790\.](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md) | Breastfeeding promotion program. |
 | [1791\.](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md) | Bill Emerson Good Samaritan Food Donation Act. |
+| [1792\.](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md) | Promoting Federal food donation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,3 +55,4 @@
 - [&sect; 01789 - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001789%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 01790 - Breastfeeding promotion program](%C2%A7%2001790%20-%20Breastfeeding%20promotion%20program.md)
 - [&sect; 01791 - Bill Emerson Good Samaritan Food Donation Act](%C2%A7%2001791%20-%20Bill%20Emerson%20Good%20Samaritan%20Food%20Donation%20Act.md)
+- [&sect; 01792 - Promoting Federal food donation](%C2%A7%2001792%20-%20Promoting%20Federal%20food%20donation.md)

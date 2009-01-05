@@ -22,7 +22,7 @@ Each funding agreement shall—
 
 &emsp;(4) prohibit the inclusion of funds provided—
 
-&emsp;&emsp;(A) pursuant to the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
+&emsp;&emsp;(A) pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.);
 
 &emsp;&emsp;(B) for elementary and secondary schools under the formula developed pursuant to section 2008 of this title; and
 
@@ -110,25 +110,27 @@ Nothing in this section is intended or shall be construed to expand or alter exi
 
 At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered into under title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
 
-(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, §812(b), Dec. 27, 2000, 114 Stat. 2917.)
+(Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, §812(b), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 110–315, title IX, §941(k)(2)(H), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 
-Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
+Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
+The Office of Federal Procurement Policy Act, referred to in subsec. (e)(1), is Pub. L. 93–400, Aug. 30, 1974,88 Stat. 796, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-Title III of this Act, referred to in subsecs. (g)(2) and (<i>l</i>), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+Title III of this Act, referred to in subsecs. (g)(2) and (<i>l</i>), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
-The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enactedsection 82a of this title and provisions set out as a note under section 82a of this title.
+The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
 Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(4)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 2000—Subsec. (h)(2). Pub. L. 106–568 struck out “and” before “section 476 of this title” and substituted “and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply” for “shall not apply”.
 

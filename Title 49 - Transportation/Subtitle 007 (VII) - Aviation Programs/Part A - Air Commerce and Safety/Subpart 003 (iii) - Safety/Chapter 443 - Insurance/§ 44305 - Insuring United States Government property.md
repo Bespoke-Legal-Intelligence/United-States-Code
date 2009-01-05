@@ -42,7 +42,7 @@ In subsection (b), the words “or the head of a department, agency, or instrume
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–217 substituted “sections 17302 and 17303 of title 40” for “sections 1 and 2 of the Government Losses in Shipment Act (40 U.S.C. 721, 722)”.
+2002—Subsec. (a)(1). Pub. L. 107–217 substituted “sections 17302 and 17303 of title 40” for “sections 1 and 2 ofthe Government Losses in Shipment Act (40 U.S.C. 721, 722)”.
 
 2001—Subsec. (b). Pub. L. 107–42 substituted “44302(c)” for “44302(b)”.
 

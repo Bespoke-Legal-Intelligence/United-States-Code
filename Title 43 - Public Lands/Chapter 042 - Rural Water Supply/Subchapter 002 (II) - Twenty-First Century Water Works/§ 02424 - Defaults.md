@@ -40,7 +40,7 @@ With respect to any obligation guaranteed under this section, the Secretary may 
 
 &emsp;(2) the amount of the payment that the Secretary is authorized to pay shall be no greater than the amount of principal and interest that the non-Federal borrower is obligated to pay under the agreement being guaranteed; and
 
-&emsp;(3) the borrower agrees to reimburse the Secretary for the payment (including interest) on terms and conditions that are satisfactory to the Secretary.
+&emsp;(3) the borrower agrees to reimburse the Secretary for the payment (including interest) onterms and conditions that are satisfactory to the Secretary.
 
 #### (d) Action by Attorney General
 

@@ -102,7 +102,7 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 &emsp;&emsp;(E) to provide effective transitions between Head Start programs and elementary schools and to facilitate ongoing communication between Head Start and elementary school teachers concerning children receiving Head Start services to improve the teachers’ ability to work effectively with low-income, at-risk children and their families;
 
-&emsp;&emsp;(F) to develop or maintain partnerships with institutions of higher education andnonprofit organizations, including community-based organizations, that recruit, train, place, and support college students to serve as mentors and reading partners to preschool children in Head Start programs; and
+&emsp;&emsp;(F) to develop or maintain partnerships with institutions of higher education and nonprofit organizations, including community-based organizations, that recruit, train, place, and support college students to serve as mentors and reading partners to preschool children in Head Start programs; and
 
 &emsp;&emsp;(G) to carry out other activities determined by the center to improve the overall quality of the Head Start program carried out by the agency and the program carried out under the bonus grant involved.
 

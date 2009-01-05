@@ -4,7 +4,7 @@
 
 #### (1) Sale of loan
 
-&emsp;(A) Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon securing 9 payments made within 20 days of the due date during 10 consecutive months of amounts owed on a loan for which the Secretary has made a payment under paragraph (1) of section 1078(c) of this title, the guaranty agency (pursuant to an agreement with the Secretary) or the Secretary shall, if practicable, sell the loan to an eligible lender. Such loan shall not be sold to an eligible lender who has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part. Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts referred to in this paragraph more than is reasonable and affordable based upon the borrower's total financial circumstances.
+&emsp;(A) Each guaranty agency shall enter into an agreement with the Secretary which shall provide that upon securing 9 payments made within 20 days of the due date during 10 consecutive months of amounts owed on a loan for which the Secretary has made a payment under paragraph (1) of section 1078(c) of this title, the guaranty agency (pursuant to an agreement with the Secretary) or the Secretary shall, if practicable, sell the loan to an eligible lender. Such loan shall not be sold to an eligible lender who has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part. Neither the guaranty agency nor the Secretary shall demand from a borrower as monthly payment amounts referred to in this paragraph more than is reasonable and affordable based upon the borrower's total financial circumstances. Upon the sale of the loan to an eligible lender, the guaranty agency or other holder of the loan shall request any consumer reporting agency to which the guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of default from the borrower's credit history.
 
 &emsp;(B) An agreement between the guaranty agency and the Secretary for purposes of this paragraph shall provide—
 
@@ -28,17 +28,31 @@
 
 &emsp;A loan which is sold under paragraph (1) of this subsection shall, so long as the borrower continues to make scheduled repayments thereon, be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
 
+#### (5) Limitation
+
+&emsp;A borrower may obtain the benefits available under this subsection with respect to rehabilitating a loan only one time per loan.
+
 #### (b) Satisfactory repayment arrangements to renew eligibility
 
-Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
+Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable basedupon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
 
-(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171.)
+#### (c) Financial and economic literacy
+
+Each program described in subsection (b) shall include making available financial and economic education materials for a borrower who has rehabilitated a loan.
+
+(Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title IV, §426, Aug. 14, 2008, 122 Stat. 3235.)
 
 #### References in Text
 
 Title IV, referred to in subsec. (b), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(A). Pub. L. 110–315, §426(1)(A), inserted at end “Upon the sale of the loan to an eligible lender, the guaranty agency or other holder of the loan shall request any consumer reporting agency to which the guaranty agency or holder, as applicable, reported the default of the loan, to remove the record of default from the borrower's credit history.”
+
+Subsec. (a)(5). Pub. L. 110–315, §426(1)(B), added par. (5).
+
+Subsec. (c). Pub. L. 110–315, §426(2), added subsec. (c).
 
 2006—Subsec. (a)(1)(A). Pub. L. 109–171, §8014(h)(1), substituted “9 payments made within 20 days of the due date during 10 consecutive months” for “consecutive payments for 12 months”.
 

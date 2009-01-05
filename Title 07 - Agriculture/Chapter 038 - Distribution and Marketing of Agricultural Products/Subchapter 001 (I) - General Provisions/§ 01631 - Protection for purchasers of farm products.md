@@ -36,7 +36,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
 
 &emsp;&emsp;&emsp;&emsp;(III) geographically by county or parish; and
 
@@ -52,15 +52,27 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in subparagraph (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest except that—
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;&emsp;(i) the distribution of the portion of the master list may be in electronic, written, or printed form; and
+
+&emsp;&emsp;&emsp;(ii) if social security or taxpayer identification numbers on the master list are encrypted, the Secretary of State may distribute the master list only—
+
+&emsp;&emsp;&emsp;&emsp;(I) by compact disc or other electronic media that contains—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the recorded list of debtor names; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an encryption program that enables the buyer, commission merchant, and selling agent to enter a social security number for matching against the recorded list of encrypted social security or taxpayer identification numbers; and
+
+&emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
+
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>1</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
 &emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
 &emsp;(4) The term “effective financing statement” means a statement that—
 
-&emsp;&emsp;(A) is an original or reproduced copy of the statement, or, in the case of a State which\(under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
+&emsp;&emsp;(A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
 
 &emsp;&emsp;(B) other than in the case of an electronically reproduced copy of the statement, is signed, authorized, or otherwise authenticated by the debtor, and filed with the Secretary of State of a State by the secured party;
 
@@ -74,7 +86,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
 
-&emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
+&emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, orotherwise authenticated by the debtor and filed, to reflect material changes;
 
 &emsp;&emsp;(E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
 
@@ -84,7 +96,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
-&emsp;(5) <sup>3</sup> The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
+&emsp;(5) <sup>2</sup> The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
 &emsp;(6) The term “knows” or “knowledge” means actual knowledge.
 
@@ -98,7 +110,7 @@ For the purposes of this section—
 
 &emsp;(11) The term “Secretary of State” means the Secretary of State or the designee of the State.
 
-&emsp;(5) <sup>4</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
+&emsp;(5) <sup>3</sup> The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
 #### (d) Purchases free of security interest
 
@@ -124,7 +136,7 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
 
-&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission ofa notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
+&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
 
 &emsp;&emsp;(v) contains any payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
 
@@ -140,7 +152,7 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;(A) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
 
-&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
+&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from thesecured party by performing any payment obligation or otherwise.
 
 #### (f) Law governing “receipt”
 
@@ -208,13 +220,19 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849.)
+(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X,§10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, §14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, §4(a), title XIV, §14215, June 18, 2008, 122 Stat. 1664, 2228.)
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
+
+Subsec. (c)(2)(E). Pub. L. 110–246, §14215(2), substituted “subparagraph (C)” for “paragraph (C)”, inserted “except that—” after “an interest”, and added cls. (i) and (ii) before semicolon at end.
 
 2004—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, §776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
@@ -272,15 +290,17 @@ Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” 
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “pursuant to subparagraph (D)”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “pursuant to subparagraph (D)”.</i>
+<i><sup>2</sup></i><i> So in original. Another par. (5) follows par. (11).</i>
 
-<i><sup>3</sup></i><i> So in original. Another par. (5) follows par. (11).</i>
-
-<i><sup>4</sup></i><i> So in original. Another par. (5) follows par. (4).</i>
+<i><sup>3</sup></i><i> So in original. Another par. (5) follows par. (4).</i>
 

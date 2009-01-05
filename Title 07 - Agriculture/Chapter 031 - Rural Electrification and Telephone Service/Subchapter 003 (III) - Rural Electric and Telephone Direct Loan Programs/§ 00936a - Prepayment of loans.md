@@ -18,7 +18,7 @@ No sums in addition to the payment of the outstanding principal balance due on t
 
 (1) A borrower will not qualify for prepayment under this section if, in the opinion of the Secretary of the Treasury, to prepay in such borrower's case would adversely affect the operation of the Federal Financing Bank.
 
-(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all such prepayments made during such year to exceed $2,017,500,000.
+(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all suchprepayments made during such year to exceed $2,017,500,000.
 
 #### (d) Amount of permissible prepayments; establishment of eligibility criteria
 
@@ -38,7 +38,7 @@ Any guarantee of a loan prepaid under this section shall be fully assignable und
 
 #### References in Text
 
-Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment ofloans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I, §1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
+Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I, §1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

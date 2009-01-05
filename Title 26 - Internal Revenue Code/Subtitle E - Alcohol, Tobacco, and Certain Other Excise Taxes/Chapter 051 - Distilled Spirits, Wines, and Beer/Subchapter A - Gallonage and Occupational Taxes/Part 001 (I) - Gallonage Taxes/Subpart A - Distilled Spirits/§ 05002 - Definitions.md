@@ -98,19 +98,15 @@ For purposes of this chapter—
 
 &emsp;&emsp;<b>(1) For definition of manufacturer of stills, see section 5102.</b>
 
-&emsp;&emsp;<b>(2) For definition of dealer, see section 5112(a).</b>
+&emsp;&emsp;<b>(2) For definition of dealer, see section 5121(c)(3).</b>
 
-&emsp;&emsp;<b>(3) For definitions of wholesale dealers, see section 5112.</b>
+&emsp;&emsp;<b>(3) For definitions of wholesale dealers, see section 5121(c).</b>
 
-&emsp;&emsp;<b>(4) For definitions of retail dealers, see section 5122.</b>
+&emsp;&emsp;<b>(4) For definitions of retail dealers, see section 5122(c).</b>
 
 &emsp;&emsp;<b>(5) For definitions of general application to this title, see chapter 79.</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 109–59, title XI, §11125(b)(13), Aug. 10, 2005, 119 Stat. 1956.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 109–59, title XI, §11125(b)(13), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (b) of this section is amended by substituting “section 5121(c)(3)” for “section 5112(a)”, “section 5121(c)” for “section 5112”, and “section 5122(c)” for “section 5122”.</i>
 
 #### Prior Provisions
 
@@ -119,6 +115,12 @@ A prior section 5002, act Aug. 16, 1954, ch. 736, 68A Stat. 597, consisted of pr
 Provisions similar to those comprising subsec. (a)(6), (9), and (11) of this section were contained in prior sections 5213(a)(1) and 5319(1), (2), and (7), act Aug. 16, 1954, ch. 736, 68A Stat. 639, 661, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+2005—Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
+
+Subsec. (b)(3). Pub. L. 109–59, §11125(b)(13)(B), substituted “section 5121(c)” for “section 5112”.
+
+Subsec. (b)(4). Pub. L. 109–59, §11125(b)(13)(C), substituted “section 5122(c)” for “section 5122”.
 
 1994—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of “wine gallon”.
 

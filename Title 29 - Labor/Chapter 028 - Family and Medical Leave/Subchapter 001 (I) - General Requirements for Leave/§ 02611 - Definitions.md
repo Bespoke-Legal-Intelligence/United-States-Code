@@ -102,9 +102,39 @@ As used in this subchapter:
 
 &emsp;The term “spouse” means a husband or wife, as the case may be.
 
-(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+#### (14) Active duty
+
+&emsp;The term “active duty” means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
+
+#### (15) Contingency operation
+
+&emsp;The term “contingency operation” has the same meaning given such term in section 101(a)(13) of title 10.
+
+#### (16) Covered servicemember
+
+&emsp;The term “covered servicemember” means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.
+
+#### (17) Outpatient status
+
+&emsp;The term “outpatient status”, with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
+
+&emsp;&emsp;(A) a military medical treatment facility as an outpatient; or
+
+&emsp;&emsp;(B) a unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as outpatients.
+
+#### (18) Next of kin
+
+&emsp;The term “next of kin”, used with respect to an individual, means the nearest blood relative of that individual.
+
+#### (19) Serious injury or illness
+
+&emsp;The term “serious injury or illness”, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.
+
+(Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(1), Jan. 28, 2008, 122 Stat. 128.)
 
 #### Amendments
+
+2008—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
 
 2004—Par. (4)(A)(iv). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 

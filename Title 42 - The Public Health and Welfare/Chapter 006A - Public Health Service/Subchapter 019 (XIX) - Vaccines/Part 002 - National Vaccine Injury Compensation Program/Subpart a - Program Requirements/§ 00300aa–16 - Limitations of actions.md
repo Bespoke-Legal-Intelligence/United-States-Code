@@ -40,7 +40,7 @@ A prior section 2116 of act July 1, 1944, was successively renumbered by subsequ
 
 1990—Subsec. (a)(1). Pub. L. 101–502, §5(e)(1), substituted “28 months” for “24 months” and inserted before comma at end “and no such petition may be filed if the first symptom or manifestation of onset or of the significant aggravation of such injury occurred more than 36 months after the date of administration of the vaccine”.
 
-Subsec. (c). Pub. L. 101–502, §5(e)(2), substituted “and ending on the date (1) an election is made under section300aa–21(a) of this title to file the civil action, (2) an election is made under section 300aa–21(b) of this title to withdraw the petition, or (3) the petition is considered withdrawn under section 300aa–21(b) of this title” for “and ending on the date a final judgment is entered on the petition”.
+Subsec. (c). Pub. L. 101–502, §5(e)(2), substituted “and ending on the date (1) an election is made under section 300aa–21(a) of this title to file the civil action, (2) an election is made under section 300aa–21(b) of this title to withdraw the petition, or (3) the petition is considered withdrawn under section 300aa–21(b) of this title” for “and ending on the date a final judgment is entered on the petition”.
 
 1989—Subsec. (c). Pub. L. 101–239 substituted “300aa–11 of this title” for “300aa–11(b) of this title”.
 

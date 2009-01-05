@@ -22,7 +22,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (c) Additional requirements and limitations respecting funds appropriated for operating expenses
 
-(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
+(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act wouldbe inconsistent with the policies established by Congress for the Administration.
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 

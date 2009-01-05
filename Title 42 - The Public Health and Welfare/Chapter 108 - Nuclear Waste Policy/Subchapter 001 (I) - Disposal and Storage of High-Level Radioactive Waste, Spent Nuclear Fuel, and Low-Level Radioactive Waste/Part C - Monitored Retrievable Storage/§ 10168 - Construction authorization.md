@@ -18,7 +18,7 @@ Any monitored retrievable storage facility authorized pursuant to section 10162(
 
 Any license issued by the Commission for a monitored retrievable storage facility under this section shall provide that—
 
-&emsp;(1) construction of such facility may not begin until the Commission has issued a license for the construction of a repository under section 10135(d) of this title;
+&emsp;(1) construction of such facility may not begin until the Commission has issued a license for the construction of a repository under section 10135(d) <sup>1</sup> of this title;
 
 &emsp;(2) construction of such facility or acceptance of spent nuclear fuel or high-level radioactive waste shall be prohibited during such time as the repository license is revoked by the Commission or construction of the repository ceases;
 
@@ -35,4 +35,6 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+<i><sup>1</sup></i><i> So in original. Section 10135(d) of this title does not relate to Commission issuance of license.</i>
 

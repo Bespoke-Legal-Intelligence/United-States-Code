@@ -16,7 +16,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
-(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination or reduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
+(4)(A) Notwithstanding paragraph (2), a trade agreement that provides for the elimination orreduction of any duty imposed by the United States may be entered into under paragraph (1) with any country other than Israel if—
 
 &emsp;(i) such country requested the negotiation of such an agreement, and
 
@@ -382,7 +382,7 @@ Determination.—By no later than 120 days (180 days if critical circumstances h
 
 “(b)
 
-Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect toimports of an article is affirmative, the Commission shall find, and recommend to the President in the report required under subsection (c), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 213(c).
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, the Commission shall find, and recommend to the President in the report required under subsection (c), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 213(c).
 
 “(c)
 
@@ -566,7 +566,7 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
 
 #### “SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -666,7 +666,7 @@ Initial Implementing Regulations.—Initial regulations necessary or appropriate
 
 “(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill toimplement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### “SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -704,7 +704,7 @@ Definition.—As used in this Act, the term ‘Harmonized System’ means the no
 
 Interim Application of TSUS.—The following apply if the International Convention, and the protocol thereto, referred to in subsection (a) are not implemented under United States law before the Agreement enters into force:
 
-&emsp;“(1) The President, subject to subsection (c), shall proclaim such modifications to the Tariff Schedules of the United States (19 U.S.C. 1202) as may be necessary to give effect, until such time as such Convention and protocol are so implemented, to the rules of origin, schedule of rate reductions, and other provisions that would, but for the absence of such implementation, be proclaimed under the authority of thisAct to, or in terms of, the Harmonized System to implement the obligations of the United States under the Agreement.
+&emsp;“(1) The President, subject to subsection (c), shall proclaim such modifications to the Tariff Schedules of the United States (19 U.S.C. 1202) as may be necessary to give effect, until such time as such Convention and protocol are so implemented, to the rules of origin, schedule of rate reductions, and other provisions that would, but for the absence of such implementation, be proclaimed under the authority of this Act to, or in terms of, the Harmonized System to implement the obligations of the United States under the Agreement.
 
 &emsp;“(2) Until such time as such Convention and protocol are so implemented, any reference in this Act to the nomenclature of such Convention and protocol shall be treated as a reference to the corresponding nomenclature of the Tariff Schedules of the United States as modified under paragraph (1).
 
@@ -1090,7 +1090,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;“(3) In determining whether to recommend the imposition of a temporary duty to the President under paragraph (1), the Secretary shall consider whether the conditions in subparagraphs (A) and (B) of such paragraph have led to a distortion in trade between the United States and Canada of the fresh fruit or vegetable and, if so, whether the imposition of the duty is appropriate, including consideration of whether it would significantly correct this distortion.
 
-&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, but such duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
+&emsp;“(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, butsuch duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
 
 &emsp;“(5) A temporary duty imposed under paragraph (4) shall cease to apply with respect to articles that are entered on or after the earlier of—
 
@@ -1130,7 +1130,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;&emsp;&emsp;“(xiii) 08.10 (relating to other fruit (excluding cranberries and blueberries), fresh).
 
-&emsp;&emsp;“(B) The term ‘corresponding 5-year average monthly import price’ for a particular day means the average import price of a Canadian fresh fruit or vegetable, for the calendar month in which thatday occurs, for that month in each of the preceding 5 years, excluding the years with the highest and lowest monthly averages.
+&emsp;&emsp;“(B) The term ‘corresponding 5-year average monthly import price’ for a particular day means the average import price of a Canadian fresh fruit or vegetable, for the calendar month in which that day occurs, for that month in each of the preceding 5 years, excluding the years with the highest and lowest monthly averages.
 
 &emsp;&emsp;“(C) The term ‘import price’ has the meaning given such term in article 711 of the Agreement.
 
@@ -1204,7 +1204,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;“(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;“(E)(i) By no later than the date that is 30 days after the date on which a determination is madeunder subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;“(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1622,7 +1622,7 @@ Panels and Committees.—
 
 &emsp;“(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;“(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### “SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1718,7 +1718,7 @@ Identification of Industries Facing Subsidized Imports.—
 
 &emsp;&emsp;“(A) compile and make available to the industry information under section 308 of the Trade Act of 1974 \[19 U.S.C. 2418\],
 
-&emsp;&emsp;“(B) recommend to the President that an investigation by the United States International TradeCommission be requested under section 332 of the Tariff Act of 1930 \[19 U.S.C. 1332\], or
+&emsp;&emsp;“(B) recommend to the President that an investigation by the United States International Trade Commission be requested under section 332 of the Tariff Act of 1930 \[19 U.S.C. 1332\], or
 
 &emsp;&emsp;“(C) take actions described in both subparagraphs (A) and (B).
 
@@ -1976,7 +1976,7 @@ Cost or value of materials.—(A) For purposes of this section, the cost or valu
 
 &emsp;&emsp;“(i) the manufacturer's actual cost for the materials;
 
-&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+&emsp;&emsp;“(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance,packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
 
 &emsp;&emsp;“(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
 
@@ -2008,7 +2008,7 @@ Direct costs of processing operations.—(A) For purposes of this section, the �
 
 &emsp;&emsp;“(i) profit; and
 
-&emsp;&emsp;“(ii) general expenses of doing business which are either not allocable to the article or are not relatedto the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
+&emsp;&emsp;“(ii) general expenses of doing business which are either not allocable to the article or are not related to the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
 
 &emsp;“(5)
 
@@ -2096,7 +2096,7 @@ Pub. L. 98–573, title IV, §§402–405, formerly §§402–404, 406, Oct. 30,
 
 “(b) As used in this section, the phrase ‘direct costs of processing operations’ includes, but is not limited to—
 
-&emsp;“(1) all actual labor costs involved in the growth, production, manufacture, or assembly of the specificmerchandise, including fringe benefits, on-the-job training and the cost of engineering, supervisory, quality control, and similar personnel; and
+&emsp;“(1) all actual labor costs involved in the growth, production, manufacture, or assembly of the specific merchandise, including fringe benefits, on-the-job training and the cost of engineering, supervisory, quality control, and similar personnel; and
 
 &emsp;“(2) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 

@@ -72,7 +72,7 @@ For purposes of subsection (a)(1)(I) and section 4941, the term “government of
 
 &emsp;(4) a position under the House of Representatives or the Senate of the United States held by an individual receiving gross compensation at an annual rate of $15,000 or more,
 
-&emsp;(5) an elective or appointive public office in the executive, legislative, or judicial branch of the government of a State, possession of the United States, or political subdivision or other area of any of the foregoing, or of the District of Columbia, held by an individual receiving gross compensation at an annual rate of $20,000 or more,
+&emsp;(5) an elective or appointive public office in the executive, legislative, or judicial branch of the government of a State, possession of theUnited States, or political subdivision or other area of any of the foregoing, or of the District of Columbia, held by an individual receiving gross compensation at an annual rate of $20,000 or more,
 
 &emsp;(6) a position as personal or executive assistant or secretary to any of the foregoing, or
 

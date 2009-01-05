@@ -52,7 +52,7 @@
 
 #### (F) Existing standards
 
-&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section,any standard adopted under this part before or after January 8, 2002.
+&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section, any standard adopted under this part before or after January 8, 2002.
 
 #### (2) Accountability
 
@@ -112,7 +112,7 @@
 
 #### (E) Starting point
 
-&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient levelof academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
+&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient level of academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
 
 &emsp;&emsp;&emsp;(i) the State's lowest achieving group of students described in subparagraph (C)(v)(II); or
 
@@ -222,9 +222,9 @@
 
 &emsp;&emsp;&emsp;(x) notwithstanding subclause (III), the academic assessment (using tests written in English) of reading or language arts of any student who has attended school in the United States (not including Puerto Rico) for three or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed two additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
-&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students whohave attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
+&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students who have attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
 
-&emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals, as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
+&emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals,as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
 &emsp;&emsp;&emsp;(xiii) enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status, by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged, except that, in the case of a local educational agency or a school, such disaggregation shall not be required in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student;
 
@@ -266,13 +266,13 @@
 
 #### (7) Academic assessments of English language proficiency
 
-&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the Stateeducational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
+&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the State educational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
 
 #### (8) Requirement
 
 &emsp;Each State plan shall describe—
 
-&emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to develop the capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
+&emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to developthe capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
 
 &emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provide additional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
 
@@ -376,7 +376,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (2) Additional information
 
-&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearlyprogress, such information shall be submitted to the Secretary.
+&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearly progress, such information shall be submitted to the Secretary.
 
 #### (g) Penalties
 
@@ -508,7 +508,7 @@ Each State plan shall describe how the State educational agency will support the
 
 &emsp;&emsp;(F) the number of students and schools that participated in public school choice and supplemental service programs and activities under this subchapter; and
 
-&emsp;&emsp;(G) beginning not later than the 2002–2003 school year, information on the quality of teachers and the percentage of classes being taught by highly qualified teachers in the State, local educational agency, and school.
+&emsp;&emsp;(G) beginning not later than the 2002–2003 school year, information on the quality ofteachers and the percentage of classes being taught by highly qualified teachers in the State, local educational agency, and school.
 
 #### (5) Report to Congress
 

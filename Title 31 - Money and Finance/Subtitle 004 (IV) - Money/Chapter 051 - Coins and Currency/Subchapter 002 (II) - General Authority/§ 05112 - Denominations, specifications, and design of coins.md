@@ -68,7 +68,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (h) The coins issued under this title shall be legal tender as provided in section 5103 of this title.
 
-(i)(1) Notwithstanding section 5111(a)(1) of this title, the Secretary shall mint and issue the gold coins described in paragraphs (7), (8), (9), and (10) of subsection (a) of this section, in quantities sufficient to meet public demand, and such gold coins shall—
+(i)(1) Notwithstanding section 5111(a)(1) of this title, the Secretary shall mint and issue thegold coins described in paragraphs (7), (8), (9), and (10) of subsection (a) of this section, in quantities sufficient to meet public demand, and such gold coins shall—
 
 &emsp;(A) have a design determined by the Secretary, except that the fifty dollar gold coin shall have—
 
@@ -356,7 +356,7 @@ First Spouse Bullion Coin Program.—
 
 &emsp;(1)
 
-In general.—During the same period described in subsection (n), the Secretary shallissue bullion coins under this subsection that are emblematic of the spouse of each such President.
+In general.—During the same period described in subsection (n), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President.
 
 &emsp;(2)
 
@@ -490,7 +490,7 @@ Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all a
 
 &emsp;(2)
 
-Publicity.—The Director of the United States Mint,<sup>2</sup> shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
+Publicity.—The Director of the United States Mint,<sup>2</sup> shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) toensure that consumers know of the availability of the coin.
 
 &emsp;(3)
 
@@ -584,7 +584,7 @@ Source of gold bullion.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
+In general.—The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the UnitedStates, within 1 year after the month in which the ore from which it is derived was mined.
 
 &emsp;&emsp;(B)
 
@@ -782,7 +782,7 @@ Participation.—The Secretary may include participation by District or territor
 
 &emsp;&emsp;(D)
 
-Standards.—Because it is important that the Nation's coinage and currency bear dignified designs of which the citizens of theUnited States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
+Standards.—Because it is important that the Nation's coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
 
 &emsp;&emsp;(E)
 
@@ -814,7 +814,7 @@ Other provisions.—
 
 &emsp;&emsp;(A)
 
-Application in event of admission as a state.—If the District of Columbia or any territory becomes a State before the end of the 10-year period referred to in subsection (<i>l</i>)(1), subsection (<i>l</i>)(7) shall apply, and this subsection shall not apply, with respect to such State.
+Application in event of admission as a state.—If the District of Columbia or anyterritory becomes a State before the end of the 10-year period referred to in subsection (<i>l</i>)(1), subsection (<i>l</i>)(7) shall apply, and this subsection shall not apply, with respect to such State.
 
 &emsp;&emsp;(B)
 
@@ -824,7 +824,193 @@ Application in event of independence.—If any territory becomes independent or 
 
 Territory defined.—For purposes of this subsection, the term “territory” means the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018.)
+(t) <sup>4</sup>
+
+Redesign and Issuance of Quarter Dollars Emblematic of National Sites in Each State, the District of Columbia, and Each Territory.—
+
+&emsp;(1)
+
+Redesign beginning upon completion of prior program.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverse selected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
+
+&emsp;&emsp;(B)
+
+Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars referred to in subparagraph (A) in which—
+
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollars; and
+
+&emsp;&emsp;&emsp;(ii) any inscription described in the third sentence of subsection (d)(1) or the designation of the value of the coin appears on the obverse side of any such quarter dollars.
+
+&emsp;&emsp;(C)
+
+Inclusion of district of columbia, and territories.—For purposes of this subsection, the term “State” has the same meaning as in section 3(a)(3) of the Federal Deposit Insurance Act.
+
+&emsp;(2)
+
+Single site in each state.—The design on the reverse side of each quarter dollar issued during the period of issuance under this subsection shall be emblematic of 1 national site in each State.
+
+&emsp;(3)
+
+Selection of site and design.—
+
+&emsp;&emsp;(A)
+
+Site.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The selection of a national park or other national site in each State to be honored with a coin under this subsection shall be made by the Secretary of the Treasury, after consultation with the Secretary of the Interior and the governor or other chief executive of each State with respect to which a coin is to be issued under this subsection, and after giving full and thoughtful consideration to national sites that are not under the jurisdiction of the Secretary of the Interior so that the national site chosen for each State shall be the most appropriate in terms of natural or historic significance.
+
+&emsp;&emsp;&emsp;(ii)
+
+Timing.—The selection process under clause (i) shall be completed before the end of the 270-day period beginning on the date of the enactment of the America's Beautiful National Parks Quarter Dollar Coin Act of 2008.
+
+&emsp;&emsp;(B)
+
+Design.—Each of the designs required under this subsection for quarter dollars shall be—
+
+&emsp;&emsp;&emsp;(i) selected by the Secretary after consultation with—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary of the Interior; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Commission of Fine Arts; and
+
+&emsp;&emsp;&emsp;(ii) reviewed by the Citizens Coinage Advisory Committee.
+
+&emsp;&emsp;(C)
+
+Selection and approval process.—Recommendations for site selections and designs for quarter dollars may be submitted in accordance with the site and design selection and approval process developed by the Secretary in the sole discretion of the Secretary.
+
+&emsp;&emsp;(D)
+
+Participation in design.—The Secretary may include participation by officials of the State, artists from the State, engravers of the United States Mint, and members of the general public.
+
+&emsp;&emsp;(E)
+
+Standards.—Because it is important that the Nation's coinage and currency bear dignified designs of which the citizens of the United States can be proud, the Secretary shall not select any frivolous or inappropriate design for any quarter dollar minted under this subsection.
+
+&emsp;&emsp;(F)
+
+Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, no portrait of a living person, and no outline or map of a State may be included in the design on the reverse of any quarter dollar under this subsection.
+
+&emsp;(4)
+
+Issuance of coins.—
+
+&emsp;&emsp;(A)
+
+Order of issuance.—The quarter dollar coins issued under this subsection bearing designs of national sites shall be issued in the order in which the sites selected under paragraph (3) were first established as a national site.
+
+&emsp;&emsp;(B)
+
+Rate of issuance.—The quarter dollar coins bearing designs of national sites under this subsection shall be issued at the rate of 5 new designs during each year of the period of issuance under this subsection.
+
+&emsp;&emsp;(C)
+
+Number of each of 5 coin designs in each year.—Of the quarter dollar coins issued during each year of the period of issuance, the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollars which shall be issued with each of the designs selected for such year.
+
+&emsp;(5)
+
+Treatment as numismatic items.—For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+
+&emsp;(6)
+
+Issuance.—
+
+&emsp;&emsp;(A)
+
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+&emsp;&emsp;(B)
+
+Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+
+&emsp;(7)
+
+Period of issuance.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to paragraph (2), the program established under this subsection shall continue in effect until a national site in each State has been honored.
+
+&emsp;&emsp;(B)
+
+Second round at discretion of secretary.—
+
+&emsp;&emsp;&emsp;(i)
+
+Determination.—The Secretary may make a determination before the end of the 9-year period beginning when the first quarter dollar is issued under this subsection to continue the period of issuance until a second national site in each State, the District of Columbia, and each territory referred to in this subsection has been honored with a design on a quarter dollar.
+
+&emsp;&emsp;&emsp;(ii)
+
+Notice and report.—Within 30 days after making a determination under clause (i), the Secretary shall submit a written report on such determination to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+&emsp;&emsp;&emsp;(iii)
+
+Applicability of provisions.—If the Secretary makes a determination under clause (i), the provisions of this subsection applicable to site and design selection and approval, the order, timing, and conditions of issuance shall apply in like manner as the initial issuance of quarter dollars under this subsection, except that the issuance of quarter dollars pursuant to such determination bearing the first design shall commence in order immediately following the last issuance of quarter dollars under the first round.
+
+&emsp;&emsp;&emsp;(iv)
+
+Continuation until all states are honored.—If the Secretary makes a determination under clause (i), the program under this subsection shall continue until a second site in each State has been so honored.
+
+&emsp;(8)
+
+Designs after end of program.—Upon the completion of the coin program under this subsection, the design on—
+
+&emsp;&emsp;(A) the obverse of the quarter dollar shall revert to the same design containing an image of President Washington in effect for the quarter dollar before the institution of the 50-State quarter dollar program; and
+
+&emsp;&emsp;(B) notwithstanding the fourth sentence of subsection (d)(1), the reverse of the quarter dollar shall contain an image of General Washington crossing the Delaware River prior to the Battle of Trenton.
+
+&emsp;(9)
+
+National site.—For purposes of this subsection, the term “national site” means any site under the supervision, management, or conservancy of the National Park Service, the United States Forest Service, the United States Fish and Wildlife Service, or any similar department or agency of the Federal Government, including any national park, national monument, national battlefield, national military park, national historical park, national historic site, national lakeshore, seashore, recreation area, parkway, scenic river, or trail and any site in the National Wildlife Refuge System.
+
+&emsp;(10)
+
+Application in event of independence.—If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
+
+(u)
+
+Silver Bullion Investment Product.—
+
+&emsp;(1)
+
+In general.—The Secretary shall strike and make available for sale such number of bullion coins as the Secretary determines to be appropriate that are exact duplicates of the quarter dollars issued under subsection (t), each of which shall—
+
+&emsp;&emsp;(A) have a diameter of 3.0 inches and weigh 5.0 ounces;
+
+&emsp;&emsp;(B) contain .999 fine silver;
+
+&emsp;&emsp;(C) have incused into the edge the fineness and weight of the bullion coin;
+
+&emsp;&emsp;(D) bear an inscription of the denomination of such coin, which shall be “quarter dollar”; and
+
+&emsp;&emsp;(E) not be minted or issued by the United States Mint as so-called “fractional” bullion coins or in any size other than the size described in paragraph (A).
+
+&emsp;(2)
+
+Availability for sale.—Bullion coins minted under paragraph (1)—
+
+&emsp;&emsp;(A) shall become available for sale no sooner than the first day of the calendar year in which the circulating quarter dollar of which such bullion coin is a duplicate is issued; and
+
+&emsp;&emsp;(B) may only be available for sale during the year in which such circulating quarter dollar is issued.
+
+&emsp;(3)
+
+Distribution.—
+
+&emsp;&emsp;(A)
+
+In general.—In addition to the authorized dealers utilized by the Secretary in distributing bullion coins and solely for purposes of distributing bullion coins issued under this subsection, the Director of the National Park Service, or the designee of the Director, may purchase numismatic items issued under this subsection, but only in units of no fewer than 1,000 at a time, and the Director, or the Director's designee, may resell or repackage such numismatic items as the Director determines to be appropriate.
+
+&emsp;&emsp;(B)
+
+Resale.—The Director of the National Park Service, or the designee of the Director, may resell, at cost and without repackaging, numismatic items acquired by the Director or such designee under subparagraph (A) to any party affiliated with any national site honored by a quarter dollar under subsection (t) for repackaging and resale by such party in the same manner and to the same extent as such party would be authorized to engage in such activities under subparagraph (A) if the party were acting as the designee of the Director under such subparagraph.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, §102, title II, §201, Dec. 23, 2008, 122 Stat. 5039, 5042.)
 
 Historical and Revision Notes<br>1982
 
@@ -928,13 +1114,13 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, §109; added Dec. 23, 1981, Pub. L
 
 In subsection (a), the words before clause (1) are added because of the restatement. In clause (5), the words “that is 0.835 inch in diameter” are added because the Secretary of the Treasury has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “5 grams” are substituted for “seventy-seven and sixteen-hundredths grains troy” for consistency in the revised chapter. In clause (6), the words “that is 0.75 inch in diameter” are added because the Secretary has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “except as provided under subsection (c) of this section” are added for clarity and because of the restatement. The words “3.11 grams” are substituted for “forty-eight grains” for consistency in the revised chapter.
 
-In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency inthe revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
+In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
 
 In subsection (c), the words “a different weight and alloy of copper and zinc” are substituted for “such action” for clarity.
 
 In subsection (d)(1), the words “an impression emblematic of liberty” in 31:324 are omitted as obsolete. The words “The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle” are substituted for “and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted”, and the words “The emblem on the obverse side of the dollar is” are substituted for “The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side” in 31:324b–1, to eliminate unnecessary words. The words “Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964” in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
 
-In subsection (d)(2), the word “Secretary” is substituted for “engraver”, “Director of the Mint”, and “Director of the Mint . . . with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The word “dies” is substituted for “from the original dies already authorized all the working dies required for use in the coinage of the several mints” and “original dies” to eliminate unnecessary words. The word “inscription” is substituted for “legend” for consistency in the section. The words “<i>Provided</i>, That no change be made in the diameter of any coin” are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words “procure services under section 3109 of title 5 in carrying out this paragraph” are substituted for “engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art” to eliminate unnecessary words. The words “who shall be paid for such service from the contingent appropriation for the mint at Philadelphia” are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
+In subsection (d)(2), the word “Secretary” is substituted for “engraver”, “Director of the Mint”, and “Director of the Mint . . . with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The word “dies” is substituted for “from the original dies already authorized all the working dies required for use in the coinage of the several mints” and “original dies” to eliminate unnecessary words. The word “inscription” is substituted for “legend” for consistency in the section. The words “<i>Provided</i>, That no change be made in the diameter of any coin” are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words “procureservices under section 3109 of title 5 in carrying out this paragraph” are substituted for “engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art” to eliminate unnecessary words. The words “who shall be paid for such service from the contingent appropriation for the mint at Philadelphia” are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
 
 In subsection (e)(2), the words “80 percent” are substituted for “eight hundred parts” in 31:391(d), and the words “20 percent” are substituted for “two hundred parts”, for consistency in the revised title and with other titles of the Code. The words “that are metallurgically bonded to” are added for clarity and consistency with subsection (b). In clause (4), the words “the late President of the United States” in 31:324b are omitted as unnecessary. Clause (6) is added because 31:324 applies to coins minted under this subsection.
 
@@ -960,7 +1146,15 @@ The date of enactment of the Presidential $1 Coin Act of 2005, referred to in su
 
 The date of the enactment of the Native American $1 Coin Act, referred to in subsec. (r)(1)(B), is the date of enactment of Pub. L. 110–82, which was approved Sept. 20, 2007.
 
+Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (t)(1)(C), is classified to section 1813 of Title 12, Banks and Banking.
+
+The date of the enactment of the America's Beautiful National Parks Quarter Dollar Coin Act of 2008, referred to in subsec. (t)(3)(A)(ii), is the date of enactment of Pub. L. 110–456, which was approved Dec. 23, 2008.
+
 #### Amendments
+
+2008—Subsec. (t). Pub. L. 110–456, §102, added subsec. (t).
+
+Subsec. (u). Pub. L. 110–456, §201, added subsec. (u).
 
 2007—Subsec. (n)(1). Pub. L. 110–82, §3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
 
@@ -986,7 +1180,7 @@ Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
 
 Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
-2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness ofThomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
+2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
 
 Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
 
@@ -1055,6 +1249,50 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+
+#### Savings Provision
+
+Pub. L. 110–192, Feb. 29, 2008, 122 Stat. 648, provided: “That clause (i) of section 5112(n)(1)(B) of title 31, United States Code (as in effect on the day before the date of the enactment of Public Law 110–82 \[Sept. 20, 2007\]) shall continue in effect, notwithstanding the amendment made by section 3 of Public Law 110–82 \[amending this section\], until the effective date of the amendment made by section 2 of such Public Law \[amending this section\].”
+
+#### Findings of 2008 Amendment
+
+Pub. L. 110–456, title I, §101, Dec. 23, 2008, 122 Stat. 5038, provided that: “The Congress finds as follows:
+
+&emsp;“(1) Yellowstone National Park was established by an Act signed by President Ulysses S. Grant on March 1, 1872, as the Nation's first national park.
+
+&emsp;“(2) The summer and autumn of 1890 saw the establishment of a number of national sites:
+
+&emsp;&emsp;“(A) August 19: Chickamauga and Chattanooga established as national military parks in Georgia and Tennessee.
+
+&emsp;&emsp;“(B) August 30: Antietam established as a national battlefield site in Maryland.
+
+&emsp;&emsp;“(C) September 25: Sequoia National Park established in California.
+
+&emsp;&emsp;“(D) September 27: Rock Creek Park established in the District of Columbia.
+
+&emsp;&emsp;“(E) October 1: General Grant National Park established in California (and subsequently incorporated in Kings Canyon National Park).
+
+&emsp;&emsp;“(F) October 1: Yosemite National Park established in California.
+
+&emsp;“(3) Theodore Roosevelt was this nation's 26th President and is considered by many to be our ‘Conservationist President’.
+
+&emsp;“(4) As a frequent visitor to the West, Theodore Roosevelt witnessed the virtual destruction of some big game species and the overgrazing that destroyed the grasslands and with them the habitats for small mammals and songbirds and conservation increasingly became one of his major concerns.
+
+&emsp;“(5) When he became President in 1901, Roosevelt pursued this interest in conservation by establishing the first 51 Bird Reserves, 4 Game Preserves, and 150 National Forests.
+
+&emsp;“(6) He also established the United States Forest Service, signed into law the creation of 5 National Parks, and signed the Act for the Preservation of American Antiquities in 1906 under which he proclaimed 18 national monuments.
+
+&emsp;“(7) Approximately 230,000,000 acres of area within the United States was placed under public protection by Theodore Roosevelt.
+
+&emsp;“(8) Theodore Roosevelt said that nothing short of defending this country in wartime ‘compares in importance with the great central task of leaving this land even a better land for our descendants than it is for us’.
+
+&emsp;“(9) The National Park Service was created by an Act signed by President Woodrow Wilson on August 25, 1916.
+
+&emsp;“(10) The National Park System comprises 391 areas covering more than 84,000,000 acres in every State (except Delaware), the District of Columbia, American Samoa, Guam, Puerto Rico, and the Virgin Islands.
+
+&emsp;“(11) The sites or areas within the National Park System vary widely in size and type from vast natural wilderness to birthplaces of Presidents to world heritage archaeology sites to an African burialground memorial in Manhattan and include national parks, monuments, battlefields, military parks, historical parks, historic sites, lakeshores, seashores, recreation areas, scenic rivers and trails, and the White House.
+
+&emsp;“(12) In addition to the sites within the National Park System, the United States has placed numerous other types of sites under various forms of conservancy, such as the national forests and sites within the National Wildlife Refuge System and on the National Register of Historic Places.”
 
 #### Removal of Barriers to Circulation of $1 Coin
 
@@ -1228,7 +1466,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[July 2
 
 &emsp;“(B) the Committee on Financial Services of the House of Representatives.”
 
-#### Findings
+#### Findings of 1997 Amendment
 
 Pub. L. 105–124, §2, Dec. 1, 1997, 111 Stat. 2534, provided that: “The Congress finds that—
 
@@ -1408,6 +1646,16 @@ Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all 
 
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 110–451, Dec. 2, 2008, 122 Stat. 5021.—Civil Rights Act of 1964.
+
+Pub. L. 110–450, Dec. 1, 2008, 122 Stat. 5017.—United States Army.
+
+Pub. L. 110–363, Oct. 8, 2008, 122 Stat. 4015.—Boy Scouts of America Centennial.
+
+Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998.—National Infantry Museum and Soldier Center.
+
+Pub. L. 110–277, July 17, 2008, 122 Stat. 2599.—American Veterans Disabled for Life.
+
 Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215.—Abraham Lincoln.
 
 Pub. L. 109–247, July 27, 2006, 120 Stat. 582.—Louis Braille Bicentennial—Braille Literacy.
@@ -1498,11 +1746,13 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
 
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked byEx. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. Two subsecs. (r) have been enacted.</i>
+
+<i><sup>4</sup></i><i> So in original. No subsec. (s) has been enacted.</i>
 

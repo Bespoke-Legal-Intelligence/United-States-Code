@@ -28,7 +28,7 @@ Section 460<i>l</i>–9(a)(2) of this title shall not apply to costs allocated t
 
 #### (h) Deposits in Treasury as miscellaneous receipts; deposits of revenue from conveyance of certain lands in Land and Water Conservation Fund
 
-All payments and repayment by non-Federal public bodies under the provisions of this part shall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460<i>l</i>–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
+All payments and repayment by non-Federal public bodies under the provisions of this partshall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460<i>l</i>–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
 
 (Pub. L. 89–72, §6, July 9, 1965, 79 Stat. 216; Pub. L. 94–576, Oct. 21, 1976, 90 Stat. 2728.)
 
@@ -36,7 +36,7 @@ All payments and repayment by non-Federal public bodies under the provisions of 
 
 This part, referred to in subsecs. (a), (d), (f), and (h), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460<i>l</i>–12 to 460<i>l</i>–21 of this title and amended sections 460<i>l</i>–5(a) and 662(d) of this title.
 
-The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, asamended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see section 422k of Title 43 and Tables.
+The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see section 422k of Title 43 and Tables.
 
 The Watershed Protection and Flood Prevention Act, referred to in subsec. (d), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified generally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

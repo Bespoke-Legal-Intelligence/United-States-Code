@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any applicable entity which discharges (in whole or in part) the indebtedness of any person during any calendar year shall make a return (at such time and in such form as the Secretary may by regulations prescribe) setting forth—
+Any applicable entity which discharges (in whole or in part) the indebtedness of any person during any calendar year shall make a return\(at such time and in such form as the Secretary may by regulations prescribe) setting forth—
 
 &emsp;(1) the name, address, and TIN of each person whose indebtedness was discharged during such calendar year,
 

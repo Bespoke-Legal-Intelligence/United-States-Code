@@ -10,7 +10,7 @@
 
 &emsp;(4) a description of the projected reporting, recordkeeping and other compliance requirements of the rule, including an estimate of the classes of small entities which will be subject to the requirement and the type of professional skills necessary for preparation of the report or record; and
 
-&emsp;(5) a description of the steps the agency has taken to minimize the significant economicimpact on small entities consistent with the stated objectives of applicable statutes, including a statement of the factual, policy, and legal reasons for selecting the alternative adopted in the final rule and why each one of the other significant alternatives to the rule considered by the agency which affect the impact on small entities was rejected.
+&emsp;(5) a description of the steps the agency has taken to minimize the significant economic impact on small entities consistent with the stated objectives of applicable statutes, including a statement of the factual, policy, and legal reasons for selecting the alternative adopted in the final rule and why each one of the other significant alternatives to the rule considered by the agency which affect the impact on small entities was rejected.
 
 (b) The agency shall make copies of the final regulatory flexibility analysis available to members of the public and shall publish in the Federal Register such analysis or a summary thereof.
 

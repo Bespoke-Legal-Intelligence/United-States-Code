@@ -40,7 +40,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 (3) If a primary dislocation allowance is paid under this subsection to a member described in subparagraph (C) or (D)(ii) of paragraph (2), the member is not entitled to another dislocation allowance as a member described in subparagraph (A) or (E) of such paragraph in connection with the same move.
 
-(4) If a primary dislocation allowance is payable to two members described in paragraph (2)(G) who are married to each other, theamount of the allowance payable to such members shall be the amount otherwise payable under this subsection to the member in the higher pay grade, or to either member if both members are in the same pay grade. The allowance shall be paid jointly to both members.
+(4) If a primary dislocation allowance is payable to two members described in paragraph (2)(G) who are married to each other, the amount of the allowance payable to such members shall be the amount otherwise payable under this subsection to the member in the higher pay grade, or to either member if both members are in the same pay grade. The allowance shall be paid jointly to both members.
 
 (b)
 

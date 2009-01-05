@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 109–351, §901(c)(2), (3), substituted “eligible obliga
 
 2002—Subsec. (d). Pub. L. 107–217, §3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
 
-Subsec. (d)(1). Pub. L. 107–217, §3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
+Subsec. (d)(1). Pub. L. 107–217, §3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C.270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
 
 Subsec. (e)(2)(A). Pub. L. 107–217, §3(h)(9)(C), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)”.
 

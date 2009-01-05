@@ -4,7 +4,7 @@
 
 (1) There is established within the Department of Education an Asbestos Hazards Control Loan Program (hereinafter in this chapter referred to as the “Loan Program”), which shall be administered by the Secretary in accordance with this section.
 
-(2) The Secretary may make loans under this section to local educational agencies in anamount equal to 50 percent of the costs of carrying out projects for—
+(2) The Secretary may make loans under this section to local educational agencies in an amount equal to 50 percent of the costs of carrying out projects for—
 
 &emsp;(A) the containment or removal of any materials containing asbestos in school buildings in which such materials pose an imminent hazard to the health and safety of children or employees;
 

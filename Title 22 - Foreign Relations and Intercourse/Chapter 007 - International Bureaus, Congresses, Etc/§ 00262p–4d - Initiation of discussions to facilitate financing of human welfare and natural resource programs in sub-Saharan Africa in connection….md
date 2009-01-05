@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the heavy burden of debt borne by sub-Saharan governments undermines efforts by such governments to finance projects and programs designed to promote charitable, educational, and scientific purposes, including education, human welfare, health, agricultural research and development, and conservation, restoration and enhancement of the natural resource base; and
 
-&emsp;(2) the financing of programs to promote such charitable, educational, and scientific purposes should be facilitated in the context of reducing and converting sovereign debt of sub-Saharan governments, as encouraged in the final communique of the June 1988 economic summit conference in Toronto, Canada, through such means as—
+&emsp;(2) the financing of programs to promote such charitable, educational, and scientific purposes should be facilitated in the context of reducing and converting sovereign debt of sub-Saharan governments, as encouraged inthe final communique of the June 1988 economic summit conference in Toronto, Canada, through such means as—
 
 &emsp;&emsp;(A) concessional interest rates;
 

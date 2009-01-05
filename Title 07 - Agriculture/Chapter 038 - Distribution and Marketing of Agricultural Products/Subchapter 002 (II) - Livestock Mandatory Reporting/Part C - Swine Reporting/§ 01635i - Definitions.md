@@ -14,7 +14,7 @@ In this part:
 
 #### (2) Applicable reporting period
 
-&emsp;The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.
+&emsp;The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and theafternoon report, as required under section 1635j(c) of this title.
 
 #### (3) Barrow
 
@@ -104,7 +104,7 @@ In this part:
 
 #### (17) Purchase data
 
-&emsp;The term “purchase data” means all of the applicable data, including weight (if purchasedlive), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
+&emsp;The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
 
 &emsp;&emsp;(A) hog class;
 

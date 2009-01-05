@@ -74,7 +74,7 @@ Pub. L. 105–277, §110(f)(1), which directed amendment of subchapter I of chap
 
 #### Amendments
 
-2000—Pub. L. 106–181 renumbered section 41716 of this title as this section.
+2000—Pub. L. 106–181, §231(b)(1), renumbered section 41716 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 106–181, §709, substituted “an agreement between two or more major air carriers” for “an agreement entered into by a major air carrier”.
 

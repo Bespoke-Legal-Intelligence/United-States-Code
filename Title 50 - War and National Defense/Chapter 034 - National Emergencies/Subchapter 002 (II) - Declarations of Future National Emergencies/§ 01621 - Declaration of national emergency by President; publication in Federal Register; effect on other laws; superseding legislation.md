@@ -24,17 +24,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 12, 2007, 72 F.R. 52465, provided:
+Notice of President of the United States, dated Aug. 28, 2008, 73 F.R. 51211, provided:
 
 Consistent with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency I declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks at the World Trade Center, New York, New York, the Pentagon, and aboard United Airlines flight 93, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, last extended on September 5, 2006, and the powers and authorities adopted to deal with that emergency, must continue in effect beyond September 14, 2007. Therefore, I am continuing in effect for an additional year the national emergency I declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency, must continue in effect beyond September 14, 2008. Therefore, I am continuing in effect for an additional year the national emergency I declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 12, 2007, 72 F.R. 52465.
 
 Notice of President of the United States, dated Sept. 5, 2006, 71 F.R. 52733.
 

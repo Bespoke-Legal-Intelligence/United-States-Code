@@ -18,13 +18,13 @@
 
 &emsp;&emsp;(D) such letter mail or sound- or video-recorded communication is mailed by the member—
 
-&emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
+&emsp;&emsp;&emsp;(i) at an Armed Forces post office established in an overseas area, as designatedby the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, or serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent; or
 
 &emsp;&emsp;&emsp;(ii) while hospitalized in a facility under the jurisdiction of the Armed Forces of the United States as a result of disease or injury incurred as a result of services in an overseas area designated by the President under clause (D)(i) of this paragraph; and
 
 &emsp;&emsp;(E) the nation in whose armed forces the sender is a member has agreed to assume all international postal transportation charges incurred.
 
-(b) There shall be transported by air, between Armed Forces post offices which are located outside the 48 contiguous States of the United States or between any such Armed Forces post office and the point of embarkation or debarkation within the United States, the territories and possessions of the United States in the Pacific area, the Commonwealth of Puerto Rico, or the Virgin Islands, on a space available basis, onscheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers, the following categories of mail matter:
+(b) There shall be transported by air, between Armed Forces post offices which are located outside the 48 contiguous States of the United States or between any such Armed Forces post office and the point of embarkation or debarkation within the United States, the territories and possessions of the United States in the Pacific area, the Commonwealth of Puerto Rico, or the Virgin Islands, on a space available basis, on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, the following categories of mail matter:
 
 &emsp;(1)(A) letter mail or sound- or video-recorded communications having the character of personal correspondence;
 
@@ -38,9 +38,7 @@
 
 &emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding the maximum size allowed by the Postal Service for fourth class parcel post (known as “Standard Mail (B)”), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
 
-> Whenever adequate service by scheduled United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than scheduled United States air carriers and military aircraft.
-
-(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air. If adequate service by scheduled United States air carriers and military aircraft is not available, any such parcel may be transported by other than scheduled United States air carriers and military aircraft.
+(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air.
 
 (d) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, the equivalent amount of postage due, as determined by the Postal Service, for matter sent in the mails under authority of subsection (a) of this section.
 
@@ -54,9 +52,17 @@
 
 &emsp;(2) The term “United States air carrier” has the meaning given the term “air carrier” in section 40102 of title 49.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, §1 \[\[div. A\], title X, §1088\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, §1071, Oct. 28, 2004, 118 Stat. 2056.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, §1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, §9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, §631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, §1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, §1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, §364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, §5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, §1 \[\[div. A\], title X, §1088\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, §1071, Oct. 28, 2004, 118 Stat. 2056; Pub. L. 110–405, §2(b)(10), Oct. 13, 2008, 122 Stat. 4290.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–405, §2(b)(10)(D), struck out concluding provisions which read as follows: “Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft.”
+
+Pub. L. 110–405, §2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
+
+Subsec. (c). Pub. L. 110–405, §2(b)(10)(D), struck out at end “If adequate service by certificated United States air carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.”.
+
+Pub. L. 110–405, §2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
 
 2004—Subsec. (b). Pub. L. 108–375, §1071(a)(1), substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” in introductory provisions and “carriers and military aircraft” for “carriers” in two places in concluding provisions.
 
@@ -68,7 +74,7 @@ Subsec. (g). Pub. L. 108–375, §1071(b), added subsec. (g).
 
 1994—Subsecs. (b), (c). Pub. L. 103–272 substituted “section 41901” for “section 1376”.
 
-1993—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized touse postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
+1993—Subsec. (a)(1). Pub. L. 103–160, in introductory provisions, inserted “an individual who is” before “a member” and “or a civilian, otherwise authorized to use postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander,” after “section 101 of title 10,” and, in subpars. (A) and (B), substituted “such individual” for “the member”.
 
 1992—Subsec. (a)(1). Pub. L. 102–484 substituted “section 101 of title 10,” for “section 101(4) and (22) of title 10,” in introductory provisions.
 
@@ -93,6 +99,10 @@ Subsec. (b)(2). Pub. L. 92–469, §1, added subsec. (b)(2). Former subsec. (b)(
 Subsec. (b)(3). Pub. L. 92–469, §1, substituted “15” for “5” after “pounds”.
 
 Subsecs. (c) to (f). Pub. L. 92–469, §2, added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -122,7 +132,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>Delegation of Functions</i>. The function conferred upon the President by section 3401(a) of title 39 of the United States Code, of designating an area for free mailing privileges, is delegated to the Secretary of Defense.
 
-Sec. 2. <i>Interagency Consultation</i>. In performing the function delegated by this Order, the Secretary of Defense shall consult with the Secretary of State and the United States Postal Service, and with the heads of other Executive agencies as appropriate. The Secretary of Defense shall provide timely notice to the United States Postal Service of any designations or terminations of designations made under this Order.
+Sec. 2. <i>Interagency Consultation</i>. In performing the function delegated by this Order, the Secretary of Defense shall consult with the Secretary of State and the United States Postal Service, and with the heads of other Executive agencies as appropriate. The Secretaryof Defense shall provide timely notice to the United States Postal Service of any designations or terminations of designations made under this Order.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

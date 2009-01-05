@@ -40,6 +40,176 @@ Section 101 of Pub. L. 98–242 provided that: “This Act \[enacting this chapt
 
 Rules and regulations issued prior to Mar. 22, 1984, under Pub. L. 95–467 \[chapter 87 of this title\] to remain in full force and effect under this chapter until superseded by new rules and regulations promulgated under this chapter, see section 110(b) of Pub. L. 98–242, set out as a note under section 7801 of this title.
 
+#### More Water, More Energy, and Less Waste
+
+Pub. L. 110–229, title V, §514, May 8, 2008, 122 Stat. 844, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) development of energy resources, including oil, natural gas, coalbed methane, and geothermal resources, frequently results in bringing to the surface water extracted from underground sources;
+
+&emsp;“(2) some of that produced water is used for irrigation or other purposes, but most of the water is returned to the subsurface or otherwise disposed of as waste;
+
+&emsp;“(3) reducing the quantity of produced water returned to the subsurface and increasing the quantity of produced water that is made available for irrigation and other uses—
+
+&emsp;&emsp;“(A) would augment water supplies;
+
+&emsp;&emsp;“(B) could reduce the costs to energy developers for disposing of the water; and
+
+&emsp;&emsp;“(C) in some cases, could increase the efficiency of energy development activities; and
+
+&emsp;“(4) it is in the national interest—
+
+&emsp;&emsp;“(A) to limit the quantity of produced water disposed of as waste;
+
+&emsp;&emsp;“(B) to optimize the production of energy resources; and
+
+&emsp;&emsp;“(C) to remove or reduce obstacles to use of produced water for irrigation or other purposes in ways that will not adversely affect water quality or the environment.
+
+“(b)
+
+Purposes.—The purposes of this section are—
+
+&emsp;“(1) to optimize the production of energy resources—
+
+&emsp;&emsp;“(A) by minimizing the quantity of produced water; and
+
+&emsp;&emsp;“(B) by facilitating the use of produced water for irrigation and other purposes without adversely affecting water quality or the environment; and
+
+&emsp;“(2) to demonstrate means of accomplishing those results.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Lower basin state.—The term ‘Lower Basin State’ means any of the States of—
+
+&emsp;&emsp;“(A) Arizona;
+
+&emsp;&emsp;“(B) California; and
+
+&emsp;&emsp;“(C) Nevada.
+
+&emsp;“(2)
+
+Produced water.—The term ‘produced water’ means water from an underground source that is brought to the surface as part of the process of exploration for, or development of—
+
+&emsp;&emsp;“(A) oil;
+
+&emsp;&emsp;“(B) natural gas;
+
+&emsp;&emsp;“(C) coalbed methane; or
+
+&emsp;&emsp;“(D) any other substance to be used as an energy source.
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(4)
+
+Upper basin state.—The term ‘Upper Basin State’ means any of the States of—
+
+&emsp;&emsp;“(A) Colorado;
+
+&emsp;&emsp;“(B) New Mexico;
+
+&emsp;&emsp;“(C) Utah; and
+
+&emsp;&emsp;“(D) Wyoming.
+
+“(d)
+
+Identification of Problems and Solutions.—
+
+&emsp;“(1)
+
+Study.—The Secretary shall conduct a study to identify—
+
+&emsp;&emsp;“(A) the technical, economic, environmental, and other obstacles to reducing the quantity of produced water;
+
+&emsp;&emsp;“(B) the technical, economic, environmental, legal, and other obstacles to increasing the extent to which produced water can be used for irrigation and other purposes without adversely affecting water quality, public health, or the environment;
+
+&emsp;&emsp;“(C) the legislative, administrative, and other actions that could reduce or eliminate the obstacles identified in subparagraphs (A) and (B); and
+
+&emsp;&emsp;“(D) the costs and benefits associated with reducing or eliminating the obstacles identified in subparagraphs (A) and (B).
+
+&emsp;“(2)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[May 8, 2008\], the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the study under paragraph (1).
+
+“(e)
+
+Implementation.—
+
+&emsp;“(1)
+
+Grants.—Subject to the availability of appropriations, the Secretary shall provide financial assistance for the development of facilities, technologies, and processes to demonstrate the feasibility, effectiveness, and safety of—
+
+&emsp;&emsp;“(A) optimizing energy resource production by reducing the quantity of produced water generated; or
+
+&emsp;&emsp;“(B) increasing the extent to which produced water may be recovered and made suitable for use for irrigation, municipal, or industrial uses, or other purposes without adversely affecting water quality or the environment.
+
+&emsp;“(2)
+
+Limitations.—Assistance under this subsection—
+
+&emsp;&emsp;“(A) shall be provided for—
+
+&emsp;&emsp;&emsp;“(i) at least 1 project in each of the Upper Basin States; and
+
+&emsp;&emsp;&emsp;“(ii) at least 1 project in at least 1 of the Lower Basin States;
+
+&emsp;&emsp;“(B) shall not exceed $1,000,000 for any project;
+
+&emsp;&emsp;“(C) shall be used to pay not more than 50 percent of the total cost of a project;
+
+&emsp;&emsp;“(D) shall not be used for the operation or maintenance of any facility; and
+
+&emsp;&emsp;“(E) may be in addition to assistance provided by the Federal Government pursuant to other provisions of law.
+
+“(f)
+
+Consultation, Advice, and Comments.—In carrying out this section, including in preparing the report under subsection (d)(2) and establishing criteria to be used in connection with an award of financial assistance under subsection (e), the Secretary shall—
+
+&emsp;“(1) consult with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and appropriate Governors and local officials;
+
+&emsp;“(2)(A) review any relevant information developed in connection with research carried out by others, including research carried out pursuant to subtitle J of title IX of the Energy Policy Act of 2005 (42 U.S.C. 16371 et seq.); and
+
+&emsp;“(B) to the extent the Secretary determines to be advisable, include that information in the report under subsection (d)(2);
+
+&emsp;“(3) seek the advice of—
+
+&emsp;&emsp;“(A) individuals with relevant professional or academic expertise; and
+
+&emsp;&emsp;“(B) individuals or representatives of entities with industrial experience, particularly experience relating to production of oil, natural gas, coalbed methane, or other energy resources (including geothermal resources); and
+
+&emsp;“(4) solicit comments and suggestions from the public.
+
+“(g)
+
+Relation to Other Laws.—Nothing in this section supersedes, modifies, abrogates, or limits—
+
+&emsp;“(1) the effect of any State law or any interstate authority or compact relating to—
+
+&emsp;&emsp;“(A) any use of water; or
+
+&emsp;&emsp;“(B) the regulation of water quantity or quality; or
+
+&emsp;“(2) the applicability or effect of any Federal law (including regulations).
+
+“(h)
+
+Authorization of Appropriations.—There are authorized to be appropriated—
+
+&emsp;“(1) $1,000,000 to carry out subsection (d); and
+
+&emsp;“(2) $7,500,000 to carry out subsection (e).”
+
 #### Desalination Research, Studies, and Demonstration Projects
 
 Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19, provided that:
@@ -94,7 +264,7 @@ In General.—In order to determine the most cost-effective and technologically 
 
 “(b)
 
-Project Recommendations and Reports to the Congress.—As soon as practicable and within three years after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary shall recommend to Congress desalination demonstration projects or full-scale desalination projects to carry out the purposes of this Act and to further evaluate and implement the results of research and studies conducted under the authority of this section. Recommendations for projects shall be accompanied by reports on the engineering and economicfeasibility of proposed projects and their environmental impacts.
+Project Recommendations and Reports to the Congress.—As soon as practicable and within three years after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary shall recommend to Congress desalination demonstration projects or full-scale desalination projects to carry out the purposes of this Act and to further evaluate and implement the results of research and studies conducted under the authority of this section. Recommendations for projects shall be accompanied by reports on the engineering and economic feasibility of proposed projects and their environmental impacts.
 
 “(c)
 
@@ -196,7 +366,7 @@ Sec. 301. (a) There is hereby established the High Plains Study Council composed
 
 &emsp;“(1) review research work being performed by each State committee established under section 302 of this Act; and
 
-&emsp;“(2) coordinate such research efforts to avoid duplication of research and to assist in the development ofresearch plans within each State of the High Plains region that will benefit the research needs of the entire region.
+&emsp;“(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
 
 “
 

@@ -78,7 +78,7 @@
 
 &emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) of title 14;
 
-&emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions havingtrade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
+&emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
 
 &emsp;(8) officers and members of crews of vessels;
 
@@ -92,7 +92,7 @@
 
 &emsp;(13) employees who serve without pay or at nominal rates of pay;
 
-&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title), except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
+&emsp;(14) employees whose pay is not wholly from appropriated funds of the United States (other than employees of the Federal Retirement Thrift Investment Management System appointed under section 8474(c)(2) of this title),except that with respect to the Veterans’ Canteen Service, Department of Veterans Affairs this paragraph applies only to employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 7802 of title 38;
 
 &emsp;(15) employees whose pay is fixed under a cooperative agreement between the United States and—
 
@@ -134,7 +134,7 @@
 
 (e) Except as may be specifically provided, this chapter does not apply for pay purposes to any employee of the government of the District of Columbia during fiscal year 2006 or any succeeding fiscal year.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L.96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 Historical and Revision Notes<br>1966
 
@@ -248,7 +248,7 @@ In subsection (c)(11), the words “the United States” are substituted for “
 
 In subsection (c)(14), the words “employees necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots whose employment is authorized by section 4202 of title 38” are substituted for the reference in former section 1082(23) to “positions which are exempt from this chapter, pursuant to section 4202 of title 38”.
 
-In subsection (c)(16), the reference to “section 4114 of title 38” is substituted for the reference in former section 1082(25) to “section 4114(b) of title 38” to reflectthe pay fixing authority contained in subsection (a)(1) of section 4114.
+In subsection (c)(16), the reference to “section 4114 of title 38” is substituted for the reference in former section 1082(25) to “section 4114(b) of title 38” to reflect the pay fixing authority contained in subsection (a)(1) of section 4114.
 
 In subsection (c)(22), the words “as defined by section 901 of title 20” are substituted for “as defined in the Defense Department Overseas Teachers Pay and Personnel Practices Act” on authority of former section 2351, which is scheduled for transfer to section 901 of title 20.
 
@@ -288,6 +288,8 @@ Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), 
 
 #### Amendments
 
+2008—Subsec. (a)(1)(x). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+
 2006—Subsec. (e). Pub. L. 109–356 added subsec. (e).
 
 2004—Subsec. (a)(1)(vii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -295,8 +297,6 @@ Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), 
 Subsec. (b). Pub. L. 108–375, §557(b)(5)(B), which directed amendment of subsec. (b) by substituting “Provost and Academic Dean” for “Academic Dean”, could not be executed because the words “Academic Dean” did not appear.
 
 Subsec. (c)(10). Pub. L. 108–375, §557(b)(5)(A), substituted “Provost and Academic Dean of the Naval Postgraduate School” for “Academic Dean of the Postgraduate School of the Naval Academy”.
-
-2003—Subsec. (a)(1)(x). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1999—Subsec. (c)(23). Pub. L. 106–113 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;”.
 
@@ -348,7 +348,7 @@ Subsec. (c)(29), (30). Pub. L. 101–509, §529 \[title I, §104(d)(1)\], added 
 
 1984—Subsec. (a)(1)(viii) to (x). Pub. L. 98–618 struck out “or” at end of cl. (viii), inserted “or” at end of cl. (ix), and added cl. (x).
 
-1983—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the AlaskaRailroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
+1983—Subsec. (a)(1)(iii) to (ix). Pub. L. 97–468, eff. Jan. 5, 1985, struck out cl. (iii) which excluded the Alaska Railroad and redesignated cls. (iv) to (ix) as (iii) to (viii), respectively. See Effective Date of 1983 Amendment note below.
 
 1980—Subsec. (a)(1)(ix). Pub. L. 96–191 added cl. (ix).
 
@@ -438,7 +438,7 @@ Amendment by Pub. L. 91–358 effective first day of seventh calendar month whic
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30,1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of this title.
+Amendment by Pub. L. 91–34 effective at beginning of first pay period which commences on or after June 30, 1969, see section 3(a) of Pub. L. 91–34, set out as an Effective Date note under section 5375 of this title.
 
 #### Effective Date of 1968 Amendment
 

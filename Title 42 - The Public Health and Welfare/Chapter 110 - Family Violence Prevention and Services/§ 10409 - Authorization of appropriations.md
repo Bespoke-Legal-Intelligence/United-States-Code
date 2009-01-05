@@ -30,7 +30,7 @@ Federal funds made available to a State under this chapter shall be used to supp
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–36, §406(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $175,000,000 for each of fiscal years 2001 through 2005.”
+2003—Subsec. (a). Pub. L. 108–36, §406(a), reenacted heading without change and amended text of subsec. (a)generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this chapter $175,000,000 for each of fiscal years 2001 through 2005.”
 
 Subsecs. (b) to (d). Pub. L. 108–36, §406(b), inserted “(and not reserved under subsection (a)(2) of this section)” after “each fiscal year”.
 
@@ -50,7 +50,7 @@ Subsecs. (b) to (d). Pub. L. 108–36, §406(b), inserted “(and not reserved u
 
 Subsecs. (d), (e). Pub. L. 104–235, §203(2), added subsecs. (d) and (e).
 
-1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: “There are authorized to be appropriated to carry out the provisions of sections 10402 through 10408 of this title and section 10413 of this title, $60,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
+1994—Subsec. (a). Pub. L. 103–322 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of sections 10402 through 10408 of this title and section 10413 of this title, $60,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
 
 1992—Pub. L. 102–295 amended section generally. Prior to amendment, section read as follows:
 

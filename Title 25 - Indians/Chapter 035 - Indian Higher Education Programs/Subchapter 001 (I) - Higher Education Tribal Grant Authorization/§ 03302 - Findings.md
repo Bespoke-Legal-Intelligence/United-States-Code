@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) the contracting process under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] has provided a mechanism for the majority of the tribes to assume control over this program from the Bureau of Indian Affairs;
 
-&emsp;(5) however, inherent limitations in the contracting philosophy and mechanism, coupled with cumbersome administrative proceduresdeveloped by the Bureau of Indian Affairs have effectively limited the efficiency and effectiveness of these programs;
+&emsp;(5) however, inherent limitations in the contracting philosophy and mechanism, coupled with cumbersome administrative procedures developed by the Bureau of Indian Affairs have effectively limited the efficiency and effectiveness of these programs;
 
 &emsp;(6) the provision of these services in the most effective and efficient form possible is necessary for tribes, the country, and the individuals to be served; and
 

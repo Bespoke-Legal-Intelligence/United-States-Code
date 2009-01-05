@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the Natchitoches area along Cane River, established in 1714, is the oldest permanentsettlement in the Louisiana Purchase territory;
+&emsp;(1) the Natchitoches area along Cane River, established in 1714, is the oldest permanent settlement in the Louisiana Purchase territory;
 
 &emsp;(2) the Cane River area is the locale of the development of Creole culture, from French-Spanish interactions of the early 18th century of today's living communities;
 

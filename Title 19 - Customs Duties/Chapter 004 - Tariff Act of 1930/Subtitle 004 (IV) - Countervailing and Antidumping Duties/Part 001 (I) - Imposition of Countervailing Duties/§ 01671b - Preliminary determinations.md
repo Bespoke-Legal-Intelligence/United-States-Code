@@ -142,7 +142,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (2) Suspension of liquidation
 
-&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended toapply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
 &emsp;&emsp;(A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -196,7 +196,7 @@ Pub. L. 103–465, §233(a)(5)(B), (6)(A)(iii), substituted “initiated” for 
 
 Pub. L. 103–465, §212(b)(1)(C)(i)(II), (III), substituted “based upon the information” for “based upon the best information” and struck out at end “If the determination of the administering authority under this subsection is affirmative, the determination shall include an estimate of the net subsidy.”
 
-Pub. L. 103–465, §212(b)(1)(C)(i)(I), as amended by Pub. L. 104–295, substituted “65 days after the date on which the administering authority initiates an investigation under section 1671a(c) of this title” for “85 days after the date on which a petition is filed under section 1671a(b) of this title”.
+Pub. L. 103–465, §212(b)(1)(C)(i)(I), as amended by Pub. L. 104–295, substituted “65 days after the date on which the administering authority initiates an investigationunder section 1671a(c) of this title” for “85 days after the date on which a petition is filed under section 1671a(b) of this title”.
 
 Subsec. (b)(2). Pub. L. 103–465, §270(a)(1)(C), substituted “countervailable subsidy” for “subsidy”.
 
@@ -208,7 +208,7 @@ Subsec. (b)(4). Pub. L. 103–465, §263(a), added par. (4).
 
 Subsec. (b)(5). Pub. L. 103–465, §283(a), added par. (5).
 
-Subsec. (c)(1). Pub. L. 103–465, §§212(b)(1)(D), 233(a)(6)(A)(iv), in concluding provisions, substituted “130th day after the date on which the administeringauthority initiates an investigation under section 1671a(c) of this title” for “150th day after the date on which a petition is filed under section 1671a(b) of this title” and “initiated” for “commenced”.
+Subsec. (c)(1). Pub. L. 103–465, §§212(b)(1)(D), 233(a)(6)(A)(iv), in concluding provisions, substituted “130th day after the date on which the administering authority initiates an investigation under section 1671a(c) of this title” for “150th day after the date on which a petition is filed under section 1671a(b) of this title” and “initiated” for “commenced”.
 
 Subsec. (c)(1)(B)(i). Pub. L. 103–465, §270(a)(1)(D), (b)(1)(B), substituted “countervailable subsidy” for “subsidy” in subcl. (I) and “countervailable subsidies” for “subsidies” in subcl. (III).
 

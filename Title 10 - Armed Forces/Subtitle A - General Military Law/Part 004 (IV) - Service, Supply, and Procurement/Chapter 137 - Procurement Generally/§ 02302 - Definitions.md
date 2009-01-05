@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;(5) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property. A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a “major system” by the head of the agency responsible for the system.
 
-&emsp;(6) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1)).
+&emsp;(6) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 25(c)(1) of theOffice of Federal Procurement Policy Act (41 U.S.C. 421(c)(1)).
 
 &emsp;(7) The term “simplified acquisition threshold” has the meaning provided that term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4 of such Act.
 
@@ -108,7 +108,7 @@ Par. (2)(A). Pub. L. 107–217 substituted “chapter 11 of title 40” for “t
 
 Par. (5). Pub. L. 104–201, §805(a)(1), substituted “A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” for “A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a ‘major system’ established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled ‘Major Systems Acquisitions’, whichever is greater; or (C) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
 
-Par. (7). Pub. L. 104–201, §807(a), designated existing provisions as subpar. (A), inserted “or a humanitarianor peacekeeping operation” after “contingency operation”, and added subpar. (B).
+Par. (7). Pub. L. 104–201, §807(a), designated existing provisions as subpar. (A), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added subpar. (B).
 
 1994—Par. (3). Pub. L. 103–355, §1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
 
@@ -172,6 +172,666 @@ Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: �
 
 Section 1201 of title XII of Pub. L. 98–525 provided that: “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
 
+#### Trusted Defense Systems
+
+Pub. L. 110–417, \[div. A\], title II, §254, Oct. 14, 2008, 122 Stat. 4402, provided that:
+
+“(a)
+
+Vulnerability Assessment Required.—The Secretary of Defense shall conduct an assessment of selected covered acquisition programs to identify vulnerabilities in the supply chain of each program's electronics and information processing systems that potentially compromise the level of trust in the systems. Such assessment shall—
+
+&emsp;“(1) identify vulnerabilities at multiple levels of the electronics and information processing systems of the selected programs, including microcircuits, software, and firmware;
+
+&emsp;“(2) prioritize the potential vulnerabilities and effects of the various elements and stages of the system supply chain to identify the most effective balance of investments to minimize the effects of compromise;
+
+&emsp;“(3) provide recommendations regarding ways of managing supply chain risk for covered acquisition programs; and
+
+&emsp;“(4) identify the appropriate lead person, and supporting elements, within the Department of Defense for the development of an integrated strategy for managing risk in the supply chain for covered acquisition programs.
+
+“(b)
+
+Assessment of Methods for Verifying the Trust of Semiconductors Procured From Commercial Sources.—The Under Secretary of Defense for Acquisition, Technology, and Logistics, in consultation with appropriate elements of the Department of Defense, the intelligence community, private industry, and academia, shall conduct an assessment of various methods of verifying the trust of semiconductors procured by the Department of Defense from commercial sources for use in mission-critical components of potentially vulnerable defense systems. The assessment shall include the following:
+
+&emsp;“(1) An identification of various methods of verifying the trust of semiconductors, including methods under development at the Defense Agencies, government laboratories, institutions of higher education, and in the private sector.
+
+&emsp;“(2) A determination of the methods identified under paragraph (1) that are most suitable for the Department of Defense.
+
+&emsp;“(3) An assessment of the additional research and technology development needed to develop methods of verifying the trust of semiconductors that meet the needs of the Department of Defense.
+
+&emsp;“(4) Any other matters that the Under Secretary considers appropriate.
+
+“(c)
+
+Strategy Required.—
+
+&emsp;“(1)
+
+In general.—The lead person identified under subsection (a)(4), in cooperation with the supporting elements also identified under such subsection, shall develop an integrated strategy—
+
+&emsp;&emsp;“(A) for managing risk—
+
+&emsp;&emsp;&emsp;“(i) in the supply chain of electronics and information processing systems for covered acquisition programs; and
+
+&emsp;&emsp;&emsp;“(ii) in the procurement of semiconductors; and
+
+&emsp;&emsp;“(B) that ensures dependable, continuous, long-term access and trust for all mission-critical semiconductors procured from both foreign and domestic sources.
+
+&emsp;“(2)
+
+Requirements.—At a minimum, the strategy shall—
+
+&emsp;&emsp;“(A) address the vulnerabilities identified by the assessment under subsection (a);
+
+&emsp;&emsp;“(B) reflect the priorities identified by such assessment;
+
+&emsp;&emsp;“(C) provide guidance for the planning, programming, budgeting, and execution process in order to ensure that covered acquisition programs have the necessary resources to implement all appropriate elements of the strategy;
+
+&emsp;&emsp;“(D) promote the use of verification tools, as appropriate, for ensuring trust of commercially acquired systems;
+
+&emsp;&emsp;“(E) increase use of trusted foundry services, as appropriate; and
+
+&emsp;&emsp;“(F) ensure sufficient oversight in implementation of the plan.
+
+“(d)
+
+Policies and Actions for Assuring Trust in Integrated Circuits.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall—
+
+&emsp;“(1) develop policy requiring that trust assurance be a high priority for covered acquisition programs in all phases of the electronic component supply chain and integrated circuit development and production process, including design and design tools, fabrication of the semiconductors, packaging, final assembly, and test;
+
+&emsp;“(2) develop policy requiring that programs whose electronics and information systems are determined to be vital to operational readiness or mission effectiveness are to employ trusted foundry services to fabricate their custom designed integrated circuits, unless the Secretary specifically authorizes otherwise;
+
+&emsp;“(3) incorporate the strategies and policies of the Department of Defense regarding development and use of trusted integrated circuits into all relevant Department directives and instructions related to the acquisition of integrated circuits and programs that use such circuits; and
+
+&emsp;“(4) take actions to promote the use and development of tools that verify the trust in all phases of the integrated circuit development and production process of mission-critical parts acquired from non-trusted sources.
+
+“(e)
+
+Submission to Congress.—Not later than 12 months after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
+
+&emsp;“(1) the assessments required by subsections (a) and (b);
+
+&emsp;“(2) the strategy required by subsection (c); and
+
+&emsp;“(3) a description of the policies developed and actions taken under subsection (d).
+
+“(f)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘covered acquisition programs’ means an acquisition program of the Department of Defense that is a major system for purposes of section 2302(5) of title 10, United States Code.
+
+&emsp;“(2) The terms ‘trust’ and ‘trusted’ refer, with respect to electronic and information processing systems, to the ability of the Department of Defense to have confidence that the systems function as intended and are free of exploitable vulnerabilities, either intentionally or unintentionally designed or inserted as part of the system at any time during its life cycle.
+
+&emsp;“(3) The term ‘trusted foundry services’ means the program of the National Security Agency and the Department of Defense, or any similar program approved by the Secretary of Defense, for the development and manufacture of integrated circuits for critical defense systems in secure industrial environments.”
+
+#### Increase of Domestic Breeding of Military Working Dogs Used by the Department of Defense
+
+Pub. L. 110–417, \[div. A\], title III, §358, Oct. 14, 2008, 122 Stat. 4427, provided that:
+
+“(a)
+
+Increased Capacity.—The Secretary of Defense, acting through the Executive Agent for Military Working Dogs (hereinafter in this section referred to as the ‘Executive Agent’), shall—
+
+&emsp;“(1) identify the number of military working dogs required to fulfill the various missions of the Department of Defense for which such dogs are used, including force protection, facility and check point security, and explosives and drug detection;
+
+&emsp;“(2) take such steps as are practicable to ensure an adequate number of military working dog teams are available to meet and sustain the mission requirements identified in paragraph (1);
+
+&emsp;“(3) ensure that the Department's needs and performance standards with respect to military working dogs are readily available to dog breeders and trainers; and
+
+&emsp;“(4) coordinate with other Federal, State, or local agencies, nonprofit organizations, universities, or private sector entities, as appropriate, to increase the training capacity for military working dog teams.
+
+“(b)
+
+Military Working Dog Procurement.—The Secretary, acting through the Executive Agent\[,\] shall work to ensure that military working dogs are procured as efficiently as possible and at the best value to the Government, while maintaining the necessary level of quality and encouraging increased domestic breeding.
+
+“(c)
+
+Military Working Dog Defined.—For purposes of this section, the term ‘military working dog’ means a dog used in any official military capacity, as defined by the Secretary of Defense.”
+
+#### Comprehensive Audit of Spare Parts Purchases and Depot Overhaul and Maintenance of Equipment for Operations in Iraq and Afghanistan
+
+Pub. L. 110–417, \[div. A\], title VIII, §852, Oct. 14, 2008, 122 Stat. 4543, provided that:
+
+“(a)
+
+Audits Required.—The Army Audit Agency, the Navy Audit Service, and the Air Force Audit Agency shall each conduct thorough audits to identify potential waste, fraud, and abuse in the performance of the following:
+
+&emsp;“(1) Department of Defense contracts, subcontracts, and task and delivery orders for—
+
+&emsp;&emsp;“(A) depot overhaul and maintenance of equipment for the military in Iraq and Afghanistan; and
+
+&emsp;&emsp;“(B) spare parts for military equipment used in Iraq and Afghanistan; and
+
+&emsp;“(2) Department of Defense in-house overhaul and maintenance of military equipment used in Iraq and Afghanistan.
+
+“(b)
+
+Comprehensive Audit Plan.—
+
+&emsp;“(1)
+
+Plans.—The Army Audit Agency, the Navy Audit Service, and the Air Force Audit Agency shall, in coordination with the Inspector General of the Department of Defense, develop a comprehensive plan for a series of audits to discharge the requirements of subsection (a).
+
+&emsp;“(2)
+
+Incorporation into required audit plan.—The plan developed under paragraph (1) shall be submitted to the Inspector General of the Department of Defense for incorporation into the audit plan required by section 842(b)(1) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 234; 10 U.S.C. 2302 note).
+
+“(c)
+
+Independent Conduct of Audit Functions.—All audit functions performed under this section, including audit planning and coordination, shall be performed in an independent manner.
+
+“(d)
+
+Availability of Results.—All audit reports resulting from audits under this section shall be made available to the Commission on Wartime Contracting in Iraq and Afghanistan established pursuant to section 841 of the National Defense Authorization Act for Fiscal Year 2008 \[Pub. L. 110–181\] (122 Stat. 230).
+
+“(e)
+
+Construction.—Nothing in this section shall be construed to require any agency of the Federal Government to duplicate audit work that an agency of the Federal Government has already performed.”
+
+#### Motor Carrier Fuel Surcharges
+
+Pub. L. 110–417, \[div. A\], title VIII, §884, Oct. 14, 2008, 122 Stat. 4560, provided that:
+
+“(a)
+
+Pass Through to Cost Bearer.—The Secretary of Defense shall take appropriate actions to ensure that, to the maximum extent practicable, in all carriage contracts in which a fuel-related adjustment is provided for, any fuel-related adjustment is passed through to the person who bears the cost of the fuel that the adjustment relates to.
+
+“(b)
+
+Use of Contract Clause.—The actions taken by the Secretary under subsection (a) shall include the insertion of a contract clause, with appropriate flow-down requirements, into all contracts with motor carriers, brokers, or freight forwarders providing or arranging truck transportation or services in which a fuel-related adjustment is provided for.
+
+“(c)
+
+Disclosure.—The Secretary shall publicly disclose any decision by the Department of Defense to pay fuel-related adjustments under contracts (or a category of contracts) covered by this section.
+
+“(d)
+
+Report.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the actions taken in accordance with the requirements of subsection (a).”
+
+#### Sales of Commercial Items to Nongovernmental Entities
+
+Pub. L. 110–181, div. A, title VIII, §815(b), Jan. 28, 2008, 122 Stat. 223, provided that: “Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall modify the regulations of the Department of Defense on the procurement of commercial items in order to clarify that the terms ‘general public’ and ‘nongovernmental entities’ in such regulations do not include the Federal Government or a State, local, or foreign government.”
+
+#### Investigation of Waste, Fraud, and Abuse in Wartime Contracts and Contracting Processes in Iraq and Afghanistan
+
+Pub. L. 110–181, div. A, title VIII, §842, Jan. 28, 2008, 122 Stat. 234, provided that:
+
+“(a)
+
+Audits Required.—Thorough audits shall be performed in accordance with this section to identify potential waste, fraud, and abuse in the performance of—
+
+&emsp;“(1) Department of Defense contracts, subcontracts, and task and delivery orders for the logistical support of coalition forces in Iraq and Afghanistan; and
+
+&emsp;“(2) Federal agency contracts, subcontracts, and task and delivery orders for the performance of security and reconstruction functions in Iraq and Afghanistan.
+
+“(b)
+
+Audit Plans.—
+
+&emsp;“(1) The Department of Defense Inspector General shall develop a comprehensive plan for a series of audits of contracts, subcontracts, and task and delivery orders covered by subsection (a)(1), consistent with the requirements of subsection (g), in consultation with other Inspectors General specified in subsection (c) with regard to any contracts, subcontracts, or task or delivery orders over which such Inspectors General have jurisdiction.
+
+&emsp;“(2) The Special Inspector General for Iraq Reconstruction shall develop a comprehensive plan for a series of audits of contracts, subcontracts, and task and delivery orders covered by subsection (a)(2) relating to Iraq, consistent with the requirements of subsection (h), in consultation with other Inspectors General specified in subsection (c) with regard to any contracts, subcontracts, or task or delivery orders over which such Inspectors General have jurisdiction.
+
+&emsp;“(3) The Special Inspector General for Afghanistan Reconstruction shall develop a comprehensive plan for a series of audits of contracts, subcontracts, and task and delivery orders covered by subsection (a)(2) relating to Afghanistan, consistent with the requirements of subsection (h), in consultation with other Inspectors General specified in subsection (c) with regard to any contracts, subcontracts, or task or delivery orders over which such Inspectors General have jurisdiction.
+
+“(c)
+
+Performance of Audits by Certain Inspectors General.—The Special Inspector General for Iraq Reconstruction, during such period as such office exists, the Special Inspector General for Afghanistan Reconstruction, during such period as such office exists, the Inspector General of the Department of Defense, the Inspector General of the Department of State, and the Inspector General of the United States Agency for International Development shall perform such audits as required by subsection (a) and identified in the audit plans developed pursuant to subsection (b) as fall within the respective scope of their duties as specified in law.
+
+“(d)
+
+Coordination of Audits.—The Inspectors General specified in subsection (c) shall work to coordinate the performance of the audits required by subsection (a) and identified in the audit plans developed under subsection (b) including through councils and working groups composed of such Inspectors General.
+
+“(e)
+
+Joint Audits.—If one or more audits required by subsection (a) and identified in an audit plan developed under subsection (b) falls within the scope of the duties of more than one of the Inspectors General specified in subsection (c), and such Inspectors General agree that such audit or audits are best pursued jointly, such Inspectors General shall enter into a memorandum of understanding relating to the performance of such audit or audits.
+
+“(f)
+
+Separate Audits.—If one or more audits required by subsection (a) and identified in an audit plan developed under subsection (b) falls within the scope of the duties of more than one of the Inspectors General specified in subsection (c), and such Inspectors General do not agree that such audit or audits are best pursued jointly, such audit or audits shall be separately performed by one or more of the Inspectors General concerned.
+
+“(g)
+
+Scope of Audits of Contracts.—Audits conducted pursuant to subsection (a)(1) shall examine, at a minimum, one or more of the following issues:
+
+&emsp;“(1) The manner in which contract requirements were developed.
+
+&emsp;“(2) The procedures under which contracts or task or delivery orders were awarded.
+
+&emsp;“(3) The terms and conditions of contracts or task or delivery orders.
+
+&emsp;“(4) The staffing and method of performance of contractors, including cost controls.
+
+&emsp;“(5) The efficacy of Department of Defense management and oversight, including the adequacy of staffing and training of officials responsible for such management and oversight.
+
+&emsp;“(6) The flow of information from contractors to officials responsible for contract management and oversight.
+
+“(h)
+
+Scope of Audits of Other Contracts.—Audits conducted pursuant to subsection (a)(2) shall examine, at a minimum, one or more of the following issues:
+
+&emsp;“(1) The manner in which contract requirements were developed and contracts or task and delivery orders were awarded.
+
+&emsp;“(2) The manner in which the Federal agency exercised control over the performance of contractors.
+
+&emsp;“(3) The extent to which operational field commanders were able to coordinate or direct the performance of contractors in an area of combat operations.
+
+&emsp;“(4) The degree to which contractor employees were properly screened, selected, trained, and equipped for the functions to be performed.
+
+&emsp;“(5) The nature and extent of any incidents of misconduct or unlawful activity by contractor employees.
+
+&emsp;“(6) The nature and extent of any activity by contractor employees that was inconsistent with the objectives of operational field commanders.
+
+&emsp;“(7) The extent to which any incidents of misconduct or unlawful activity were reported, documented, investigated, and (where appropriate) prosecuted.
+
+“(i)
+
+Independent Conduct of Audit Functions.—All audit functions under this section, including audit planning and coordination, shall be performed by the relevant Inspectors General in an independent manner, without consultation with the Commission established pursuant to section 841 of this Act \[122 Stat. 230\]. All audit reports resulting from such audits shall be available to the Commission.”
+
+#### Contracts in Iraq and Afghanistan
+
+Pub. L. 110–417, \[div. A\], title VIII, §854(b), Oct. 14, 2008, 122 Stat. 4545, provided that:
+
+“(1)
+
+Through memorandum of understanding.—The memorandum of understanding required by section 861(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 253; 10 U.S.C. 2302 note) shall be modified to address the requirements under the amendment made by subsection (a) \[amending Pub. L. 110–181, §861(b), set out below\] not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+
+“(2)
+
+As condition of current and future contracts.—The requirements under the amendment made by subsection (a) shall be included in each contract in Iraq or Afghanistan (as defined in section 864(a)(2) of Public Law 110–181; \[10 U.S.C.\] 2302 note) awarded on or after the date that is 180 days after the date of the enactment of this Act \[Oct. 14, 2008\]. Federal agencies shall make best efforts to provide for the inclusion of such requirements in covered contracts awarded before such date.”
+
+Pub. L. 110–417, \[div. A\], title VIII, §854(c), Oct. 14, 2008, 122 Stat. 4545, provided that: “Beginning not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in section 861(b)(6) of Public Law 110–181 \[set out below\] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually.”
+
+Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253, as amended by Pub. L. 110–417, \[div. A\], title VIII, §§853, 854(a), (d), Oct. 14, 2008, 122 Stat. 4544, 4545, provided that:
+
+#### “SEC. 861. MEMORANDUM OF UNDERSTANDING ON MATTERS RELATING TO CONTRACTING.
+
+“(a)
+
+Memorandum of Understanding Required.—The Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall, not later than July 1, 2008, enter into a memorandum of understanding regarding matters relating to contracting for contracts in Iraq or Afghanistan.
+
+“(b)
+
+Matters Covered.—The memorandum of understanding required by subsection (a) shall address, at a minimum, the following:
+
+&emsp;“(1) Identification of the major categories of contracts in Iraq or Afghanistan being awarded by the Department of Defense, the Department of State, or the United States Agency for International Development.
+
+&emsp;“(2) Identification of the roles and responsibilities of each department or agency for matters relating to contracting for contracts in Iraq or Afghanistan.
+
+&emsp;“(3) Responsibility for establishing procedures for, and the coordination of, movement of contractor personnel in Iraq or Afghanistan.
+
+&emsp;“(4) Identification of common databases that will serve as repositories of information on contracts in Iraq or Afghanistan and contractor personnel in Iraq or Afghanistan, including agreement on the elements to be included in the databases, including, at a minimum—
+
+&emsp;&emsp;“(A) with respect to each contract—
+
+&emsp;&emsp;&emsp;“(i) a brief description of the contract (to the extent consistent with security considerations);
+
+&emsp;&emsp;&emsp;“(ii) the total value of the contract; and
+
+&emsp;&emsp;&emsp;“(iii) whether the contract was awarded competitively; and
+
+&emsp;&emsp;“(B) with respect to contractor personnel—
+
+&emsp;&emsp;&emsp;“(i) the total number of personnel employed on contracts in Iraq or Afghanistan;
+
+&emsp;&emsp;&emsp;“(ii) the total number of personnel performing security functions under contracts in Iraq or Afghanistan; and
+
+&emsp;&emsp;&emsp;“(iii) the total number of personnel working under contracts in Iraq or Afghanistan who have been killed or wounded.
+
+&emsp;“(5) Responsibility for maintaining and updating information in the common databases identified under paragraph (4).
+
+&emsp;“(6) Responsibility for the collection and referral to the appropriate Government agency of any information relating to offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice) or chapter 212 of title 18, United States Code (commonly referred to as the Military Extraterritorial Jurisdiction Act), including a clarification of responsibilities under section 802(a)(10) of title 10, United States Code (article 2(a) of the Uniform Code of Military Justice), as amended by section 552 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364).
+
+&emsp;“(7) Mechanisms for ensuring that contractors are required to report offenses described in paragraph (6) that are alleged to have been committed by or against contractor personnel to appropriate investigative authorities.
+
+&emsp;“(8) Responsibility for providing victim and witness protection and assistance to contractor personnel in connection with alleged offenses described in paragraph (6).
+
+&emsp;“(9) Development of a requirement that a contractor shall provide to all contractor personnel who will perform work on a contract in Iraq or Afghanistan, before beginning such work, information on the following:
+
+&emsp;&emsp;“(A) How and where to report an alleged offense described in paragraph (6).
+
+&emsp;&emsp;“(B) Where to seek the assistance required by paragraph (8).
+
+“(c)
+
+Implementation of Memorandum of Understanding.—Not later than 120 days after the memorandum of understanding required by subsection (a) is signed, the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such policies or guidance and prescribe such regulations as are necessary to implement the memorandum of understanding for the relevant matters pertaining to their respective agencies.
+
+“(d)
+
+Copies Provided to Congress.—
+
+&emsp;“(1)
+
+Memorandum of understanding.—Copies of the memorandum of understanding required by subsection (a) shall be provided to the relevant committees of Congress within 30 days after the memorandum is signed.
+
+&emsp;“(2)
+
+Report on implementation.—Not later than 180 days after the memorandum of understanding required by subsection (a) is signed, the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall each provide a report to the relevant committees of Congress on the implementation of the memorandum of understanding.
+
+&emsp;“(3)
+
+Databases.—The Secretary of Defense, the Secretary of State, or the Administrator of the United States Agency for International Development shall provide access to the common databases identified under subsection (b)(4) to the relevant committees of Congress.
+
+&emsp;“(4)
+
+Contracts.—Effective on the date of the enactment of this Act \[Jan. 28, 2008\], copies of any contracts in Iraq or Afghanistan awarded after December 1, 2007, shall be provided to any of the relevant committees of Congress within 15 days after the submission of a request for such contract or contracts from such committee to the department or agency managing the contract.
+
+#### “SEC. 862. CONTRACTORS PERFORMING PRIVATE SECURITY FUNCTIONS IN AREAS OF COMBAT OPERATIONS.
+
+“(a)
+
+Regulations on Contractors Performing Private Security Functions.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in coordination with the Secretary of State, shall prescribe regulations on the selection, training, equipping, and conduct of personnel performing private security functions under a covered contract in an area of combat operations.
+
+&emsp;“(2)
+
+Elements.—The regulations prescribed under subsection (a) shall, at a minimum, establish—
+
+&emsp;&emsp;“(A) a process for registering, processing, accounting for, and keeping appropriate records of personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(B) a process for authorizing and accounting for weapons to be carried by, or available to be used by, personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(C) a process for the registration and identification of armored vehicles, helicopters, and other military vehicles operated by contractors performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(D) a process under which contractors are required to report all incidents, and persons other than contractors are permitted to report incidents, in which—
+
+&emsp;&emsp;&emsp;“(i) a weapon is discharged by personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;&emsp;“(ii) personnel performing private security functions in an area of combat operations are killed or injured;
+
+&emsp;&emsp;&emsp;“(iii) persons are killed or injured, or property is destroyed, as a result of conduct by contractor personnel;
+
+&emsp;&emsp;&emsp;“(iv) a weapon is discharged against personnel performing private security functions in an area of combat operations or personnel performing such functions believe a weapon was so discharged; or
+
+&emsp;&emsp;&emsp;“(v) active, non-lethal countermeasures (other than the discharge of a weapon) are employed by the personnel performing private security functions in an area of combat operations in response to a perceived immediate threat to such personnel;
+
+&emsp;&emsp;“(E) a process for the independent review and, if practicable, investigation of—
+
+&emsp;&emsp;&emsp;“(i) incidents reported pursuant to subparagraph (D); and
+
+&emsp;&emsp;&emsp;“(ii) incidents of alleged misconduct by personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(F) requirements for qualification, training, screening (including, if practicable, through background checks), and security for personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(G) guidance to the commanders of the combatant commands on the issuance of—
+
+&emsp;&emsp;&emsp;“(i) orders, directives, and instructions to contractors performing private security functions relating to equipment, force protection, security, health, safety, or relations and interaction with locals;
+
+&emsp;&emsp;&emsp;“(ii) predeployment training requirements for personnel performing private security functions in an area of combat operations, addressing the requirements of this section, resources and assistance available to contractor personnel, country information and cultural training, and guidance on working with host country nationals and military; and
+
+&emsp;&emsp;&emsp;“(iii) rules on the use of force for personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;“(H) a process by which a commander of a combatant command may request an action described in subsection (b)(3); and
+
+&emsp;&emsp;“(I) a process by which the training requirements referred to in subparagraph (G)(ii) shall be implemented.
+
+&emsp;“(3)
+
+Availability of orders, directives, and instructions.—The regulations prescribed under subsection (a) shall include mechanisms to ensure the provision and availability of the orders, directives, and instructions referred to in paragraph (2)(G)(i) to contractors referred to in that paragraph, including through the maintenance of a single location (including an Internet website, to the extent consistent with security considerations) at or through which such contractors may access such orders, directives, and instructions.
+
+“(b)
+
+Contract Clause on Contractors Performing Private Security Functions.—
+
+&emsp;“(1)
+
+Requirement under far.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Federal Acquisition Regulation issued in accordance with section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) shall be revised to require the insertion into each covered contract (or, in the case of a task order, the contract under which the task order is issued) of a contract clause addressing the selection, training, equipping, and conduct of personnel performing private security functions under such contract.
+
+&emsp;“(2)
+
+Clause requirement.—The contract clause required by paragraph (1) shall require, at a minimum, that the contractor concerned shall—
+
+&emsp;&emsp;“(A) comply with regulations prescribed under subsection (a), including any revisions or updates to such regulations, and follow the procedures established in such regulations for—
+
+&emsp;&emsp;&emsp;“(i) registering, processing, accounting for, and keeping appropriate records of personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;&emsp;“(ii) authorizing and accounting of weapons to be carried by, or available to be used by, personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;&emsp;“(iii) registration and identification of armored vehicles, helicopters, and other military vehicles operated by contractors and subcontractors performing private security functions in an area of combat operations; and
+
+&emsp;&emsp;&emsp;“(iv) the reporting of incidents in which—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a weapon is discharged by personnel performing private security functions in an area of combat operations;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) personnel performing private security functions in an area of combat operations are killed or injured; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) persons are killed or injured, or property is destroyed, as a result of conduct by contractor personnel;
+
+&emsp;&emsp;“(B) comply with and ensure that all personnel performing private security functions under such contract are briefed on and understand their obligation to act in accordance with—
+
+&emsp;&emsp;&emsp;“(i) qualification, training, screening (including, if practicable, through background checks), and security requirements established by the Secretary of Defense for personnel performing private security functions in an area of combat operations;
+
+&emsp;&emsp;&emsp;“(ii) applicable laws and regulations of the United States and the host country, and applicable treaties and international agreements, regarding the performance of the functions of the contractor;
+
+&emsp;&emsp;&emsp;“(iii) orders, directives, and instructions issued by the applicable commander of a combatant command relating to equipment, force protection, security, health, safety, or relations and interaction with locals; and
+
+&emsp;&emsp;&emsp;“(iv) rules on the use of force issued by the applicable commander of a combatant command for personnel performing private security functions in an area of combat operations; and
+
+&emsp;&emsp;“(C) cooperate with any investigation conducted by the Department of Defense pursuant to subsection (a)(2)(E) by providing access to employees of the contractor and relevant information in the possession of the contractor regarding the incident concerned.
+
+&emsp;“(3)
+
+Noncompliance of personnel with clause.—The contracting officer for a covered contract may direct the contractor, at its own expense, to remove or replace any personnel performing private security functions in an area of combat operations who violate or fail to comply with applicable requirements of the clause required by this subsection. If the violation or failure to comply is a gross violation or failure or is repeated, the contract may be terminated for default.
+
+&emsp;“(4)
+
+Applicability.—The contract clause required by this subsection shall be included in all covered contracts awarded on or after the date that is 180 days after the date of the enactment of this Act \[Jan. 28, 2008\]. Federal agencies shall make best efforts to provide for the inclusion of the contract clause required by this subsection in covered contracts awarded before such date.
+
+&emsp;“(5)
+
+Inspector general report on pilot program on imposition of fines for noncompliance of personnel with clause.—Not later than March 30, 2008, the Inspector General of the Department of Defense shall submit to Congress a report assessing the feasibility and advisability of carrying out a pilot program for the imposition of fines on contractors for personnel who violate or fail to comply with applicable requirements of the clause required by this section as a mechanism for enhancing the compliance of such personnel with the clause. The report shall include—
+
+&emsp;&emsp;“(A) an assessment of the feasibility and advisability of carrying out the pilot program; and
+
+&emsp;&emsp;“(B) if the Inspector General determines that carrying out the pilot program is feasible and advisable—
+
+&emsp;&emsp;&emsp;“(i) recommendations on the range of contracts and subcontracts to which the pilot program should apply; and
+
+&emsp;&emsp;&emsp;“(ii) a schedule of fines to be imposed under the pilot program for various types of personnel actions or failures.
+
+“(c)
+
+Areas of Combat Operations.—
+
+&emsp;“(1)
+
+Designation.—The Secretary of Defense shall designate the areas constituting an area of combat operations for purposes of this section by not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\].
+
+&emsp;“(2)
+
+Particular areas.—Iraq and Afghanistan shall be included in the areas designated as an area of combat operations under paragraph (1).
+
+&emsp;“(3)
+
+Additional areas.—The Secretary may designate any additional area as an area constituting an area of combat operations for purposes of this section if the Secretary determines that the presence or potential of combat operations in such area warrants designation of such area as an area of combat operations for purposes of this section.
+
+&emsp;“(4)
+
+Modification or elimination of designation.—The Secretary may modify or cease the designation of an area under this subsection as an area of combat operations if the Secretary determines that combat operations are no longer ongoing in such area.
+
+“(d)
+
+Exception.—The requirements of this section shall not apply to contracts entered into by elements of the intelligence community in support of intelligence activities.
+
+#### “SEC. 863. COMPTROLLER GENERAL REVIEWS AND REPORTS ON CONTRACTING IN IRAQ AND AFGHANISTAN.
+
+“(a)
+
+Reviews and Reports Required.—
+
+&emsp;“(1)
+
+In general.—Every 12 months, the Comptroller General shall review contracts in Iraq or Afghanistan and submit to the relevant committees of Congress a report on such review.
+
+&emsp;“(2)
+
+Matters covered.—A report under this subsection shall cover the following with respect to the contracts in Iraq or Afghanistan reviewed for the report:
+
+&emsp;&emsp;“(A) Total number of contracts and task orders awarded during the period covered by the report.
+
+&emsp;&emsp;“(B) Total number of active contracts and task orders.
+
+&emsp;&emsp;“(C) Total value of all contracts and task orders awarded during the reporting period.
+
+&emsp;&emsp;“(D) Total value of active contracts and task orders.
+
+&emsp;&emsp;“(E) The extent to which such contracts have used competitive procedures.
+
+&emsp;&emsp;“(F) Total number of contractor personnel working on contracts during the reporting period.
+
+&emsp;&emsp;“(G) Total number of contractor personnel, on average, who are performing security functions during the reporting period.
+
+&emsp;&emsp;“(H) The number of contractor personnel killed or wounded during the reporting period.
+
+&emsp;&emsp;“(I) Information on any specific contract or class of contracts that the Comptroller General determines raises issues of significant concern.
+
+&emsp;“(3)
+
+Submission of reports.—The Comptroller General shall submit an initial report under this subsection not later than October 1, 2008, and shall submit an updated report every year thereafter until October 1, 2010.
+
+“(b)
+
+Access to Databases on Contracts.—The Secretary of Defense and the Secretary of State shall provide full access to the databases described in section 861(b)(4) to the Comptroller General for purposes of the reviews carried out under this section.
+
+#### “SEC. 864. DEFINITIONS AND OTHER GENERAL PROVISIONS.
+
+“(a)
+
+Definitions.—In this subtitle:
+
+&emsp;“(1)
+
+Matters relating to contracting.—The term ‘matters relating to contracting’, with respect to contracts in Iraq and Afghanistan, means all matters relating to awarding, funding, managing, tracking, monitoring, and providing oversight to contracts and contractor personnel.
+
+&emsp;“(2)
+
+Contract in iraq or afghanistan.—The term ‘contract in Iraq or Afghanistan’ means a contract with the Department of Defense, the Department of State, or the United States Agency for International Development, a subcontract at any tier issued under such a contract, or a task order or delivery order at any tier issued under such a contract (including a contract, subcontract, or task order or delivery order issued by another Government agency for the Department of Defense, the Department of State, or the United States Agency for International Development), if the contract, subcontract, or task order ordelivery order involves worked performed in Iraq or Afghanistan for a period longer than 14 days.
+
+&emsp;“(3)
+
+Covered contract.—The term ‘covered contract’ means—
+
+&emsp;&emsp;“(A) a contract of a Federal agency for the performance of services in an area of combat operations, as designated by the Secretary of Defense under subsection (c) of section 862;
+
+&emsp;&emsp;“(B) a subcontract at any tier under such a contract; or
+
+&emsp;&emsp;“(C) a task order or delivery order issued under such a contract or subcontract.
+
+&emsp;“(4)
+
+Contractor.—The term ‘contractor’, with respect to a covered contract, means the contractor or subcontractor carrying out the covered contract.
+
+&emsp;“(5)
+
+Contractor personnel.—The term ‘contractor personnel’ means any person performing work under contract for the Department of Defense, the Department of State, or the United States Agency for International Development, in Iraq or Afghanistan, including individuals and subcontractors at any tier.
+
+&emsp;“(6)
+
+Private security functions.—The term ‘private security functions’ means activities engaged in by a contractor under a covered contract as follows:
+
+&emsp;&emsp;“(A) Guarding of personnel, facilities, or property of a Federal agency, the contractor or subcontractor, or a third party.
+
+&emsp;&emsp;“(B) Any other activity for which personnel are required to carry weapons in the performance of their duties.
+
+&emsp;“(7)
+
+Relevant committees of congress.—The term ‘relevant committees of Congress’ means each of the following committees:
+
+&emsp;&emsp;“(A) The Committees on Armed Services of the Senate and the House of Representatives.
+
+&emsp;&emsp;“(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+
+&emsp;&emsp;“(C) The Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;&emsp;“(D) For purposes of contracts relating to the National Foreign Intelligence Program, the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+“(b)
+
+Classified Information.—Nothing in this subtitle shall be interpreted to require the handling of classified information or information relating to intelligence sources and methods in a manner inconsistent with any law, regulation, executive order, or rule of the House of Representatives or of the Senate relating to the handling or protection of such information.”
+
+#### Enhanced Authority To Acquire Products and Services Produced in Iraq and Afghanistan
+
+Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, provided that:
+
+“(a)
+
+In General.—In the case of a product or service to be acquired in support of military operations or stability operations in Iraq or Afghanistan (including security, transition, reconstruction, and humanitarian relief activities) for which the Secretary of Defense makes a determination described in subsection (b), the Secretary may conduct a procurement in which—
+
+&emsp;“(1) competition is limited to products or services that are from Iraq or Afghanistan;
+
+&emsp;“(2) procedures other than competitive procedures are used to award a contract to a particular source or sources from Iraq or Afghanistan; or
+
+&emsp;“(3) a preference is provided for products or services that are from Iraq or Afghanistan.
+
+“(b)
+
+Determination.—A determination described in this subsection is a determination by the Secretary that—
+
+&emsp;“(1) the product or service concerned is to be used only by the military forces, police, or other security personnel of Iraq or Afghanistan; or
+
+&emsp;“(2) it is in the national security interest of the United States to limit competition, use procedures other than competitive procedures, or provide a preference as described in subsection (a) because—
+
+&emsp;&emsp;“(A) such limitation, procedure, or preference is necessary to provide a stable source of jobs in Iraq or Afghanistan; and
+
+&emsp;&emsp;“(B) such limitation, procedure, or preference will not adversely affect—
+
+&emsp;&emsp;&emsp;“(i) military operations or stability operations in Iraq or Afghanistan; or
+
+&emsp;&emsp;&emsp;“(ii) the United States industrial base.
+
+“(c)
+
+Products, Services, and Sources From Iraq or Afghanistan.—For the purposes of this section:
+
+&emsp;“(1) A product is from Iraq or Afghanistan if it is mined, produced, or manufactured in Iraq or Afghanistan.
+
+&emsp;“(2) A service is from Iraq or Afghanistan if it is performed in Iraq or Afghanistan by citizens or permanent resident aliens of Iraq or Afghanistan.
+
+&emsp;“(3) A source is from Iraq or Afghanistan if it—
+
+&emsp;&emsp;“(A) is located in Iraq or Afghanistan; and
+
+&emsp;&emsp;“(B) offers products or services that are from Iraq or Afghanistan.”
+
+#### Prevention of Export Control Violations
+
+Pub. L. 110–181, div. A, title VIII, §890, Jan. 28, 2008, 122 Stat. 269, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(6), Oct. 14, 2008, 122 Stat. 4613, provided that:
+
+“(a)
+
+Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration \[Act\] of 1979 \[50 U.S.C. App. 2401 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods and technology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
+
+“(b)
+
+Training on Export Controls.—The Secretary of Defense shall ensure that any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act or the Export Administration \[Act\] of 1979 (as continued in effect under the International Emergency Economic Powers Act) is made aware of any relevant resources made available by the Department of State and the Department of Commerce to assist in compliance with the requirement established by subsection (a) and the need for a corporate compliance plan and periodic internal audits of corporate performance under such plan.
+
+“(c)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report assessing the utility of—
+
+&emsp;“(1) requiring defense contractors (or subcontractors at any tier) to periodically report on measures taken to ensure compliance with the International Traffic in Arms Regulations and the Export Administration Regulations;
+
+&emsp;“(2) requiring periodic audits of defense contractors (or subcontractors at any tier) to ensure compliance with all provisions of the International Traffic in Arms Regulations and the Export Administration Regulations;
+
+&emsp;“(3) requiring defense contractors to maintain a corporate training plan to disseminate information to appropriate contractor personnel regarding the applicability of the Arms Export Control Act and the Export Administration Act of 1979; and
+
+&emsp;“(4) requiring a designated corporate liaison, available for training provided by the United States Government, whose primary responsibility would be contractor compliance with the Arms Export Control Act and the Export Administration Act of 1979.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Export administration regulations.—The term ‘Export Administration Regulations’ means those regulations contained in sections \[probably should be “parts”\] 730 through 774 of title 15, Code of Federal Regulations (or successor regulations).
+
+&emsp;“(2)
+
+International traffic in arms regulations.—The term ‘International Traffic in Arms Regulations’ means those regulations contained in parts 120 through 130 of title 22, Code of Federal Regulations (or successor regulations).”
+
 #### Quality Control in Procurement of Ship Critical Safety Items and Related Services
 
 Pub. L. 109–364, div. A, title I, §130(a)–(c), Oct. 17, 2006, 120 Stat. 2110, provided that:
@@ -200,7 +860,7 @@ Definitions.—In this section, the terms ‘ship critical safety item’ and �
 
 #### Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems
 
-Pub. L. 109–364, div. A, title VIII, §812, Oct. 17, 2006, 120 Stat. 2317, provided that:
+Pub. L. 109–364, div. A, title VIII, §812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, \[div. A\], title VIII, §813(d)(3), Oct. 14, 2008, 122 Stat. 4527, provided that:
 
 “(a)
 
@@ -236,7 +896,7 @@ In general.—The Secretary of Defense may include a major weapon system in the 
 
 Criteria.—For purposes of paragraph (1) a major weapon system meets the criteria under this paragraph only if the Milestone Decision Authority determines, in consultation with the service acquisition executive for the military department carrying out the acquisition program for the system and one or more combatant commanders responsible for fielding the system, that—
 
-&emsp;&emsp;“(A) the certification requirements of section 2366a of title 10, United States Code (as amended by section 805 of this Act), have been met, and no waivers have been granted from such requirements;
+&emsp;&emsp;“(A) the certification requirements of section 2366b of title 10, United States Code (as amended by section 805 of this Act), have been met, and no waivers have been granted from such requirements;
 
 &emsp;&emsp;“(B) a preliminary design has been reviewed using systems engineering, and the system, as so designed, will meet battlefield needs identified by the relevant combatant commanders after appropriate requirements analysis;
 
@@ -296,7 +956,7 @@ Availability of funds.—Funds in the special reserve account may be used, in ac
 
 &emsp;“(4)
 
-Reports on use of funds.—Not later than 30 days after the use of funds in the special reserve account for the purpose specified in paragraph (3)(C), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of funds in the account for such purpose. The report shall set forththe purposes for which the funds were used and the reasons for the use of the funds for such purposes.
+Reports on use of funds.—Not later than 30 days after the use of funds in the special reserve account for the purpose specified in paragraph (3)(C), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of funds in the account for such purpose. The report shall set forth the purposes for which the funds were used and the reasons for the use of the funds for such purposes.
 
 &emsp;“(5)
 
@@ -352,7 +1012,11 @@ Elements.—Each report under this subsection shall include—
 
 Major Weapon System Defined.—In this section, the term ‘major weapon system’ means a weapon system that is treatable as a major system under section 2302(5) of title 10, United States Code.”
 
+\[Pub. L. 110–417, \[div. A\], title VIII, §813(d)(3), Oct. 14, 2008, 122 Stat. 4527, which directed the substitution of “2366b” for “2366a” in subsecs. (c)(2)(A) and (d)(2) of section 812 of Pub L. 109–364, set out above, could not be executed to subsec. (d)(2).\]
+
 #### Linking of Award and Incentive Fees to Acquisition Outcomes
+
+Pub. L. 110–329, div. C, title VIII, §8105, Sept. 30, 2008, 122 Stat. 3644, provided that: “During the current fiscal year and hereafter, none of the funds appropriated or otherwise available to the Department of Defense may be obligated or expended to provide award fees to any defense contractor contrary to the provisions of section 814 of the National Defense Authorization Act, Fiscal Year 2007 (Public Law 109–364) \[set out below\].”
 
 Pub. L. 109–364, div. A, title VIII, §814, Oct. 17, 2006, 120 Stat. 2321, provided that:
 
@@ -386,7 +1050,7 @@ Elements.—The guidance under subsection (a) shall—
 
 &emsp;“(9) include performance measures to evaluate the effectiveness of award and incentive fees as a tool for improving contractor performance and achieving desired program outcomes; and
 
-&emsp;“(10) provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials.
+&emsp;“(10) provide mechanisms for sharing proven incentive strategies for the acquisition of different types ofproducts and services among contracting and program management officials.
 
 “(c)
 
@@ -410,7 +1074,7 @@ Report.—The Secretary shall submit to the congressional defense committees \[C
 
 #### Limitation on Contracts for the Acquisition of Certain Services
 
-Pub. L. 109–364, div. A, title VIII, §832, Oct. 17, 2006, 120 Stat. 2331, provided that:
+Pub. L. 109–364, div. A, title VIII, §832, Oct. 17, 2006, 120 Stat. 2331, as amended by Pub. L. 110–181, div. A, title VIII, §883, Jan. 28, 2008, 122 Stat. 264; Pub. L. 110–417, \[div. A\], title X, §1061(b)(5), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
 “(a)
 
@@ -420,7 +1084,7 @@ Limitation.—Except as provided in subsection (b), the Secretary of Defense may
 
 Waiver.—The Secretary of Defense may waive subsection (a) with respect to a contract if the Secretary—
 
-&emsp;“(1) determines that a waiver is necessary for national security purposes; and
+&emsp;“(1) determines that a waiver is in the national interest; and
 
 &emsp;“(2) provides to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an economic analysis as described in subsection (c) at least 30 days before the waiver takes effect.
 
@@ -448,7 +1112,17 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘service contract’ means any contract entered into by the Department of Defense the principal purpose of which is to furnish services in the United States through the use of service employees.
 
-&emsp;“(3) The term ‘service employees’ has the meaning provided in section 8(b) of the Service Contract Act of 1965 (41 U.S.C. 357(b)).”
+&emsp;“(3) The term ‘service employees’ has the meaning provided in section 8(b) of the Service Contract Act of 1965 (41 U.S.C. 357(b)).
+
+“(e)
+
+Effect on Existing Contracts.—The limitation in subsection (a) does not apply to any service contract of a military department to acquire a military flight simulator, or to any renewal or extension of, or follow-on contract to, such a contract, if—
+
+&emsp;“(1) the contract was in effect as of October 17, 2006;
+
+&emsp;“(2) the number of flight simulators to be acquired under the contract (or renewal, extension, or follow-on) will not result in the total number of flight simulators acquired by the military department concerned through service contracts to exceed the total number of flight simulators to be acquired under all service contracts of such department for such simulators in effect as of October 17, 2006; and
+
+&emsp;“(3) in the case of a renewal or extension of, or follow-on contract to, the contract, the Secretary of the military department concerned provides to the congressional defense committees a written notice of the decision to exercise an option to renew or extend the contract, or to issue a solicitation for bids or proposals using competitive procedures for a follow-on contract, and an economic analysis as described in subsection (c) supporting the decision, at least 30 days before carrying out such decision.”
 
 #### Congressional Notification of Cancellation of Major Automated Information Systems
 
@@ -656,7 +1330,7 @@ Compliance With Defense Procurement Requirements.—For the purposes of this sec
 
 “(c)
 
-Limitations on Procurements Through GSA Client Support Centers.—(1) After March 15, 2005, and before March 16, 2006, no official of the Department of Defense may, except as provided in subsection (d) or\(e), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through any GSA Client Support Center for which a determination described in paragraph (1)(B)(iii) of subsection (a) has been made under that subsection.
+Limitations on Procurements Through GSA Client Support Centers.—(1) After March 15, 2005, and before March 16, 2006, no official of the Department of Defense may, except as provided in subsection (d) or (e), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through any GSA Client Support Center for which a determination described in paragraph (1)(B)(iii) of subsection (a) has been made under that subsection.
 
 “(2) After March 15, 2006, no official of the Department of Defense may, except as provided in subsection (d) or (e), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through any GSA Client Support Center that has not been determined under this section as being compliant with defense procurement requirements.
 
@@ -706,7 +1380,7 @@ Pub. L. 108–136, div. A, title VIII, §853, Nov. 24, 2003, 117 Stat. 1557, as 
 
 “(a)
 
-Authority.—The Secretary of Defense may carry out a demonstration project by entering into one or more contracts with an eligible contractor for the purpose of providing defense contracting opportunities for severely disabled individuals.
+Authority.—The Secretary of Defense may carry out a demonstration project by entering into one ormore contracts with an eligible contractor for the purpose of providing defense contracting opportunities for severely disabled individuals.
 
 “(b)
 
@@ -736,7 +1410,7 @@ Severely disabled individual.—The term ‘severely disabled individual’ mean
 
 #### Procurement of Defense Biomedical Countermeasures
 
-Pub. L. 108–136, div. A, title XVI, §1602, Nov. 24, 2003, 117 Stat. 1682, provided that:
+Pub. L. 108–136, div. A, title XVI, §1602, Nov. 24, 2003, 117 Stat. 1682, as amended by Pub. L. 110–181, div. A, title X, §1063(g)(3), Jan. 28, 2008, 122 Stat. 324, provided that:
 
 “(a)
 
@@ -754,7 +1428,7 @@ Determination of Material Threats.—(1) The Secretary of Defense (in this secti
 
 “(b)
 
-Assessment of Availability and Appropriateness of Countermeasures.—The Secretary shall on anongoing basis assess the availability and appropriateness of specific countermeasures to address specific threats identified under subsection (a).
+Assessment of Availability and Appropriateness of Countermeasures.—The Secretary shall on an ongoing basis assess the availability and appropriateness of specific countermeasures to address specific threats identified under subsection (a).
 
 “(c)
 
@@ -788,7 +1462,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;“(B) used to treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug or biological product that is used as described in subparagraph (A).
 
-&emsp;“(3) The term ‘Strategic National Stockpile’ means the stockpile established under section 121(a) of the Public Health \[Security\] and Bioterrorism Preparedness and Response Act of 2002 (42 U.S.C. 300hh–12(a)).
+&emsp;“(3) The term ‘Strategic National Stockpile’ means the stockpile established under section 121(a) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (42 U.S.C. 300hh–12(a)).
 
 “(f)
 
@@ -1148,7 +1822,7 @@ Authority To Conduct Defense Facility-Wide Pilot Program.—The Secretary of Def
 
 “(b)
 
-Designation of Participating Facilities.—(1) Subject to paragraph (2), the Secretary may designate up to two facilities as participants in the defense facility-wide pilot program.
+Designation of Participating Facilities.—(1) Subject to paragraph (2), the Secretary may designateup to two facilities as participants in the defense facility-wide pilot program.
 
 “(2) The Secretary may designate for participation in the pilot program only those facilities that are authorized to be so designated in a law authorizing appropriations for national defense programs that is enacted after the date of the enactment of this Act \[Feb. 10, 1996\].
 
@@ -1248,7 +1922,7 @@ Applicability.—(1) Subsections (f) and (g) apply to the following contracts, i
 
 “(i)
 
-Commercial Practices Encouraged.—With respect to contracts and subcontracts within the scope of the defense facility-wide pilot program, the Secretary of Defense may, to the extent the Secretary determines appropriate and in accordance with applicable law, adopt commercial practices in the administration of contracts and subcontracts. Such commercial practices may include the following:
+Commercial Practices Encouraged.—With respect to contracts and subcontracts within the scope of the defense facility-wide pilot program, the Secretary of Defense may, to the extent the Secretary determines appropriate and in accordance with applicable law, adopt commercial practices in the administration ofcontracts and subcontracts. Such commercial practices may include the following:
 
 &emsp;“(1) Substitution of commercial oversight and inspection procedures for Government audit and access to records.
 
@@ -1280,7 +1954,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 “(iii) A contract under evaluation under clause (i) may not be further modified, amended, or extended until the evaluation described in that clause is complete.
 
-“(B) If the acquisition official (or designee) determines that an economically feasible substitute substance or alternative technology is available for use ina contract under evaluation, the appropriate contracting officer shall enter into negotiations to modify the contract to require the use of the substitute substance or alternative technology.
+“(B) If the acquisition official (or designee) determines that an economically feasible substitute substance or alternative technology is available for use in a contract under evaluation, the appropriate contracting officer shall enter into negotiations to modify the contract to require the use of the substitute substance or alternative technology.
 
 “(C) A determination that a substitute substance or technology is not available for use in a contract under evaluation shall be made in writing by the senior acquisition official (or designee).
 
@@ -1436,7 +2110,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 “(3) The report required by paragraph (1) shall include a description of the results of the assessment carried out pursuant to paragraph (2) and may include recommendations pertaining to any of the following:
 
-&emsp;“(A) Statutory and regulatory changes providing payment protections for subcontractors and suppliers (other than a construction prime contractor subjectto the provisions of sections 3903(b) and 3905 of title 31, United States Code) that the Comptroller General believes to be desirable and feasible.
+&emsp;“(A) Statutory and regulatory changes providing payment protections for subcontractors and suppliers (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) that the Comptroller General believes to be desirable and feasible.
 
 &emsp;“(B) Proposals to assess the desirability and utility of a specific payment protection on a test basis.
 
@@ -1480,7 +2154,7 @@ Program Participants.—(1) A business concern meeting the eligibility requireme
 
 “(2) A disadvantaged small business concern eligible for the award of Federal contracts may obtain assistance from a mentor firm upon entering into an agreement with the mentor firm as provided in subsection (e). A disadvantaged small business concern may not be a party to more than one agreement to receive such assistance at any time. A disadvantaged small business concern receiving such assistance shall be known, for the purposes of the program, as a ‘protege firm’.
 
-“(3) In entering into an agreement pursuant to subsection (e), a mentor firm may rely in good faith on a written representation of a business concern that such business concern is a disadvantaged small business concern. The Small Business Administration shall determine the status of such business concern as a disadvantaged small business concern in the event of a protestregarding the status of such business concern. If at any time the business concern is determined by the Small Business Administration not to be a disadvantaged small business concern, assistance furnished such business concern by the mentor firm after the date of the determination may not be considered assistance furnished under the program.
+“(3) In entering into an agreement pursuant to subsection (e), a mentor firm may rely in good faith on a written representation of a business concern that such business concern is a disadvantaged small business concern. The Small Business Administration shall determine the status of such business concern as a disadvantaged small business concern in the event of a protest regarding the status of such business concern. If at any time the business concern is determined by the Small Business Administration not to be a disadvantaged small business concern, assistance furnished such business concern by the mentor firm after the date of the determination may not be considered assistance furnished under the program.
 
 “(d)
 
@@ -1560,7 +2234,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense may provide to a men
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 etseq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -1636,7 +2310,7 @@ Definitions.—In this section:
 
 &emsp;“(5) The term ‘minority institution of higher education’ means an institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)(3), (4), and (5)).
 
-&emsp;“(6) The term ‘subcontracting participation goal’, with respect to a Department of Defense contract,means a goal for the extent of the participation by disadvantaged small business concerns in the subcontracts awarded under such contract, as established pursuant to section 2323 of title 10, United States Code, and section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+&emsp;“(6) The term ‘subcontracting participation goal’, with respect to a Department of Defense contract, means a goal for the extent of the participation by disadvantaged small business concerns in the subcontracts awarded under such contract, as established pursuant to section 2323 of title 10, United States Code, and section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
 &emsp;“(7) The term ‘qualified organization employing the severely disabled’ means a business entity operated on a for-profit or nonprofit basis that—
 
@@ -1668,7 +2342,7 @@ Pub. L. 101–165, title IX, §9004, Nov. 21, 1989, 103 Stat. 1129, provided tha
 
 #### Requirement for Substantial Progress on Minority and Small Business Contract Awards
 
-Pub. L. 100–180, div. A, title VIII, §806(a)–(c), Dec. 4, 1987, 101 Stat. 1126, 1127, directed Secretary of Defense to issue regulations to ensure that substantial progress was made in increasing awards of Department of Defense contracts to small business concerns, historically Black colleges and universities, and minority institutions described in section 1207(a) of Pub. L. 99–661 \[formerly set out below\], prior to repeal by Pub. L. 102–484, div. A, title VIII, §801(h)(7), Oct. 23, 1992, 106 Stat. 2446.
+Pub. L. 100–180, div. A, title VIII, §806(a)–(c), Dec. 4, 1987, 101 Stat. 1126, 1127, directed Secretary of Defenseto issue regulations to ensure that substantial progress was made in increasing awards of Department of Defense contracts to small business concerns, historically Black colleges and universities, and minority institutions described in section 1207(a) of Pub. L. 99–661 \[formerly set out below\], prior to repeal by Pub. L. 102–484, div. A, title VIII, §801(h)(7), Oct. 23, 1992, 106 Stat. 2446.
 
 #### Definitions; Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 

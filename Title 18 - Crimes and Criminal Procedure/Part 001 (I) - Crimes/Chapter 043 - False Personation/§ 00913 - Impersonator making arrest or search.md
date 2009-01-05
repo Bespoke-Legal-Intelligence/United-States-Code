@@ -1,6 +1,6 @@
 ### §913. Impersonator making arrest or search
 
-Whoever falsely represents himself to be an officer, agent, or employee of the United States,and in such assumed character arrests or detains any person or in any manner searches the person, buildings, or other property of any person, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever falsely represents himself to be an officer, agent, or employee of the United States, and in such assumed character arrests or detains any person or in any manner searches the person, buildings, or other property of any person, shall be fined under this title or imprisoned not more than three years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 742; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 

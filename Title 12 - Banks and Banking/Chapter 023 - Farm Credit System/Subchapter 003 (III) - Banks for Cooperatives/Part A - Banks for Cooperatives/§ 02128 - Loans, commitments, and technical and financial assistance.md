@@ -14,7 +14,7 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 &emsp;&emsp;(I) are made to finance the export of commodities, products, or supplies that are not originally sourced from a cooperative, and
 
-&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishment of the United States or a corporation wholly-owned directly or indirectly by the United States,
+&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of theamount loaned, by a department, agency, bureau, board, commission, or establishment of the United States or a corporation wholly-owned directly or indirectly by the United States,
 
 > &emsp;exceeds an amount that is equal to 50 percent of the bank's capital, then a sufficient interest in the loans shall be sold by the bank for cooperatives to commercial banks and other non-System lenders to reduce the total amount of such outstanding balances to an amount not greater than an amount equal to 50 percent of the bank's capital; and
 

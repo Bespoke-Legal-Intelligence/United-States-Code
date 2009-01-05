@@ -68,7 +68,7 @@ In general.—In this chapter, the term “vessel without nationality” include
 
 &emsp;(2)
 
-Verification or denial.—A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee.
+Response to claim of registry.—The response of a foreign nation to a claim of registry under paragraph (1)(A) or (C) may be made by radio, telephone, or similar oral or electronic means, and is proved conclusively by certification of the Secretary of State or the Secretary's designee.
 
 (e)
 
@@ -80,11 +80,19 @@ Claim of Nationality or Registry.—A claim of nationality or registry under thi
 
 &emsp;(3) a verbal claim of nationality or registry by the master or individual in charge of the vessel.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527.)
+(f)
 
-#### Amendment Not Shown in Text
+Semi-submersible Vessel; Submersible Vessel.—In this chapter:
 
-<i>Subsection (d) of this section was derived from section 1903(c)(2) of the former Appendix to this title, which was amended by Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1903(c)(2) of the former Appendix to this title was amended by striking the last two sentences and inserting the following: “The response of a foreign nation to a claim of registry under subparagraph (A) or (C) \[now subpar. (A) or (C) of par. (1) of subsec. (d) of this section\] may be made by radio, telephone, or similar oral or elec</i><i>tronic means, and is conclusively proved by certification of the Secretary of State or the Secretary's designee.”</i>
+&emsp;(1)
+
+Semi-submersible vessel.—The term “semi-submersible vessel” means any watercraft constructed or adapted to be capable of operating with most of its hull and bulk under the surface of the water, including both manned and unmanned watercraft.
+
+&emsp;(2)
+
+Submersible vessel.—The term “submersible vessel” means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
+
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
 
 Historical and Revision Notes
 
@@ -123,4 +131,14 @@ In subsection (b)(2), before subparagraph (A), the words “individual who is a 
 In subsection (b)(3), the words “placed under foreign registry, or operated under the authority of a foreign nation” are substituted for “placed under foreign registry or foreign flag” because of the definition of “foreign vessel” in chapter 1 of the revised title.
 
 In subsection (d)(1)(B), the word “authorized” is substituted for “empowered” for consistency with subsection (b)(2)(B).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §303. See 2006 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 110–181, §3525(a)(6), incorporated the substance of the amendment by Pub. L. 109–241, §303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary's designee.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsec. (f). Pub. L. 110–407 added subsec. (f).
+
+2006—Pub. L. 109–241, §303, which directed the amendment of section 1903(c)(2) of the former Appendix to this title from which subsec. (d) of this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (d)(2) and Historical and Revision notes above.
 

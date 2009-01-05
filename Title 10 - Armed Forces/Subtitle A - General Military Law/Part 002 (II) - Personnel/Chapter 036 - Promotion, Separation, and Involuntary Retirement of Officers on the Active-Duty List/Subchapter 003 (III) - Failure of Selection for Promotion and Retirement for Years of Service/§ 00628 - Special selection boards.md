@@ -6,7 +6,7 @@ Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If
 
 (2) A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record would have appeared to the board that should have considered him. That record shall be compared with a sampling of the records of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that should have considered him.
 
-(3) If a special selection board convened under paragraph (1) does not recommend for promotiona person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person shall be considered to have failed of selection for promotion.
+(3) If a special selection board convened under paragraph (1) does not recommend for promotion a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person shall be considered to have failed of selection for promotion.
 
 (b)
 
@@ -30,7 +30,7 @@ Reports of Boards.—(1) Each special selection board convened under this sectio
 
 Appointment of Persons Selected by Boards.—(1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of section 624 of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of section 578(c) of this title (rather than subsections (b), (c), and (d) of section 624 of this title).
 
-(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
+(2) A person who is appointed to the next higher grade as the result of the recommendation ofa special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
 (e)
 
@@ -126,7 +126,7 @@ Subsecs. (g) to (k). Pub. L. 107–107, §503(b), added subsecs. (g) to (j) and 
 
 Subsec. (a)(2). Pub. L. 105–261, §501(a)(2), substituted “the person whose name was referred to it for consideration as that record” for “the officer as his record”.
 
-Subsec. (a)(3). Pub. L. 105–261, §501(a)(3), substituted “a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person”for “an officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain whose name was referred to it for consideration, the officer”.
+Subsec. (a)(3). Pub. L. 105–261, §501(a)(3), substituted “a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person” for “an officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain whose name was referred to it for consideration, the officer”.
 
 Subsec. (b). Pub. L. 105–261, §501(b)(1), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In the case of an officer who is eligible for promotion who was considered for selection for promotion by a selection board but was not selected, the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, may convene a special selection board under this subsection (composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned) to determine whether such officer should be recommended for promotion if the Secretary concerned determines that—
 
@@ -168,7 +168,7 @@ Pub. L. 109–364, div. A, title V, §514(c), Oct. 17, 2006, 120 Stat. 2185, pro
 
 Pub. L. 107–107, div. A, title V, §503(c), Dec. 28, 2001, 115 Stat. 1084, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 1558 of this title and amending this section\] shall apply with respect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 1558 of this title and amending this section\] shall apply withrespect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
 
 “(2) The amendments made by this section shall not apply with respect to any action commenced in a court of the United States before the date of the enactment of this Act.”
 

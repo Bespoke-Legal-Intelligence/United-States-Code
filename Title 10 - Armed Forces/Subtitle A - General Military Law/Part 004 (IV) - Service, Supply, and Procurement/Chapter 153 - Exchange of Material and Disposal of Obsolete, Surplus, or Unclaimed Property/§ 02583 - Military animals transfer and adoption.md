@@ -12,7 +12,7 @@ Availability for Adoption.—The Secretary of the military department concerned 
 
 (b)
 
-Suitability for Adoption.—The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
+Suitability for Adoption.—The decision whether a particular military animal is suitableor unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit's veterinarian in making the decision regarding the adoptability of the animal.
 
 (c)
 
@@ -40,9 +40,15 @@ Military Animal Defined.—In this section, the term “military animal” means
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322.)
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–181 substituted “
+
+Animals” for “
+
+Dogs” in heading.
 
 2006—Pub. L. 109–364, §352(a)(1), substituted “animals” for “working dogs” in section catchline.
 
@@ -58,11 +64,7 @@ Subsec. (c). Pub. L. 109–364, §352(a)(2), (3), substituted “animals” for 
 
 Subsec. (d). Pub. L. 109–364, §352(a)(2), (3), substituted “animal” for “dog” and struck out “working” after “military”.
 
-Subsec. (e). Pub. L. 109–364, §352(a)(3), which directed amendment of this section by substituting “animals” for “dogs” and “animal” for “dog” wherever appearing, was executed in subsec. (e) by substituting “
-
-Animals” for “
-
-Dogs” in the heading as the probable intent of Congress and “animal” for “dog” wherever appearing in text.
+2006—Subsec. (e). Pub. L. 109–364, §352(a)(3), substituted “animal” for “dog” wherever appearing in text.
 
 Pub. L. 109–364, §352(a)(2), struck out “working” after “military” wherever appearing.
 

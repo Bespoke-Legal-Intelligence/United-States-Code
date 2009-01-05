@@ -2,9 +2,9 @@
 
 #### (a) Civil penalties
 
-(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates section 3372(d) of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
+(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d) or (f) of section 3372 of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
 
-(2) Any person who violates section 3372(b) of this title may be assessed a civil penalty by the Secretary of not more than $250.
+(2) Any person who violates subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1), may be assessed a civil penalty by the Secretary of not more than $250.
 
 (3) For purposes of paragraphs (1) and (2), any reference to a provision of this chapter or to a section of this chapter shall be treated as including any regulation issued to carry out any such provision or section.
 
@@ -26,15 +26,15 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 (1) Any person who—
 
-&emsp;(A) knowingly imports or exports any fish or wildlife or plants in violation of any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title), or
+&emsp;(A) knowingly imports or exports any fish or wildlife or plants in violation of any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title), or
 
-&emsp;(B) violates any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) by knowingly engaging in conduct that involves the sale or purchase of, the offer of sale or purchase of, or the intent to sell or purchase, fish or wildlife or plants with a market value in excess of $350,
+&emsp;(B) violates any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) by knowingly engaging in conduct that involves the sale or purchase of, the offer of sale or purchase of, or the intent to sell or purchase, fish or wildlife or plants with a market value in excess of $350,
 
 > knowing that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation, shall be fined not more than $20,000, or imprisoned for not more than five years, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
+(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(3) Any person who knowingly violates section 3372(d) of this title—
+(3) Any person who knowingly violates section subsection (d) or (f) of section 3372 of this title—
 
 &emsp;(A) shall be fined under title 18 or imprisoned for not more than 5 years, or both, if the offense involves—
 
@@ -46,27 +46,53 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 #### (e) Permit sanctions
 
-The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
+The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of thischapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
 
-(Pub. L. 97–79, §4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826.)
+(Pub. L. 97–79, §4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826; Pub. L. 110–234, title VII, §8204(c), (f), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(c), (f), June 18, 2008, 122 Stat. 1664, 2055, 2056.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
-“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to theFishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–653, §102(a), (c), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than section 3372(b) of this title)” and inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulations,”.
+2008—Subsec. (a)(1). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
+
+Pub. L. 110–246, §8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
+
+Subsec. (a)(2). Pub. L. 110–246, §8204(c)(3), substituted “subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1),” for “subsection 3372(b)”.
+
+Subsec. (d)(1), (2). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
+
+Pub. L. 110–246, §8204(c)(1), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
+
+Subsec. (d)(3). Pub. L. 110–246, §8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
+
+1988—Subsec. (a)(1). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
+
+Pub. L. 100–653, §102(a), inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulation,”.
 
 Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
 
-Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than section 3372(b) of this title)” in pars. (1)(A), (B), and (2).
+Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)” in pars. (1)(A), (B), and (2).
 
 Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title VIII, §8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, §4(a), title VIII, §8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Transfer of Functions
 

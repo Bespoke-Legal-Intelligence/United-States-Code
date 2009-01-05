@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe motor vehicle safety standards. Each standard shall be practicable, meet the need for motor vehicle safety, and be stated in objective terms.
+General Requirements.—The Secretary of Transportation shall prescribe motor vehiclesafety standards. Each standard shall be practicable, meet the need for motor vehicle safety, and be stated in objective terms.
 
 (b)
 
@@ -85,6 +85,134 @@ In subsection (e), the words “duties and powers” are substituted for “resp
 #### References in Text
 
 Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former section 313 of Title 23, Highways.
+
+#### Child Safety Standards for Motor Vehicles
+
+Pub. L. 110–189, Feb. 28, 2008, 122 Stat. 639, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Cameron Gulbransen Kids Transportation Safety Act of 2007’ or the ‘K.T. Safety Act of 2007’.
+
+#### “SEC. 2. RULEMAKING REGARDING CHILD SAFETY.
+
+“(a)
+
+Power Window Safety.—
+
+&emsp;“(1)
+
+Consideration of rule.—Not later than 18 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary of Transportation (referred to in this Act as the ‘Secretary’) shall initiate a rulemaking to consider prescribing or amending Federal motor vehicle safety standards to require power windows and panels on motor vehicles to automatically reverse direction when such power windows and panels detect an obstruction to prevent children and others from being trapped, injured, or killed.
+
+&emsp;“(2)
+
+Deadline for decision.—If the Secretary determines such safety standards are reasonable, practicable, and appropriate, the Secretary shall prescribe, under section 30111 of title 49, United States Code, the safety standards described in paragraph (1) not later than 30 months after the date of enactment of this Act. If the Secretary determines that no additional safety standards are reasonable, practicable, and appropriate, the Secretary shall—
+
+&emsp;&emsp;“(A) not later than 30 months after the date of enactment of this Act, transmit a report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the reasons such standards were not prescribed; and
+
+&emsp;&emsp;“(B) publish and otherwise make available to the public through the Internet and other means (such as the ‘Buying a Safer Car’ brochure) information regarding which vehicles are or are not equipped with power windows and panels that automatically reverse direction when an obstruction is detected.
+
+“(b)
+
+Rearward Visibility.—Not later than 12 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary shall initiate a rulemaking to revise Federal Motor Vehicle Safety Standard 111 (FMVSS 111) to expand the required field of view to enable the driver of a motor vehicle to detect areas behind the motor vehicle to reduce death and injury resulting from backing incidents, particularly incidents involving small children and disabled persons. The Secretary may prescribe different requirements for different types of motor vehicles to expand the required field of view to enable the driver of a motor vehicle to detect areas behind the motor vehicle to reduce death and injury resulting from backing incidents, particularly incidents involving small children and disabled persons. Such standard may be met by the provision of additional mirrors, sensors, cameras, or other technology to expand the driver's field of view. The Secretary shall prescribe final standards pursuant to this subsection not later than 36 months after the date of enactment of this Act.
+
+“(c)
+
+Phase-In Period.—
+
+&emsp;“(1)
+
+Phase-in period required.—The safety standards prescribed pursuant to subsections (a) and (b) shall establish a phase-in period for compliance, as determined by the Secretary, and require full compliance with the safety standards not later than 48 months after the date on which the final rule is issued.
+
+&emsp;“(2)
+
+Phase-in priorities.—In establishing the phase-in period of the rearward visibility safety standards required under subsection (b), the Secretary shall consider whether to require the phase-in according to different types of motor vehicles based on data demonstrating the frequency by which various types of motor vehicles have been involved in backing incidents resulting in injury or death. If the Secretary determines that any type of motor vehicle should be given priority, the Secretary shall issue regulations that specify—
+
+&emsp;&emsp;“(A) which type or types of motor vehicles shall be phased-in first; and
+
+&emsp;&emsp;“(B) the percentages by which such motor vehicles shall be phased-in.
+
+“(d)
+
+Preventing Motor Vehicles From Rolling Away.—
+
+&emsp;“(1)
+
+Requirement.—Each motor vehicle with an automatic transmission that includes a ‘park’ position manufactured for sale after September 1, 2010, shall be equipped with a system that requires the service brake to be depressed before the transmission can be shifted out of ‘park’. This system shall function in any starting system key position in which the transmission can be shifted out of ‘park’.
+
+&emsp;“(2)
+
+Treatment as motor vehicle safety standard.—A violation of paragraph (1) shall be treated as a violation of a motor vehicle safety standard prescribed under section 30111 of title 49, United States Code, and shall be subject to enforcement by the Secretary under chapter 301 of such title.
+
+&emsp;“(3)
+
+Publication of noncompliant vehicles.—
+
+&emsp;&emsp;“(A)
+
+Information submission.—Not later than 60 days after the date of the enactment of this Act \[Feb. 28, 2008\], for the current model year and annually thereafter through 2010, each motor vehicle manufacturer shall transmit to the Secretary the make and model of motor vehicles with automatic transmissions that include a ‘park’ position that do not comply with the requirements of paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Publication.—Not later than 30 days after receiving the information submitted under subparagraph (A), the Secretary shall publish and otherwise make available to the public through the Internet and other means the make and model of the applicable motor vehicles that do not comply with the requirements of paragraph (1). Any motor vehicle not included in the publication under this subparagraph shall be presumed to comply with such requirements.
+
+“(e)
+
+Definition of Motor Vehicle.—As used in this Act and for purposes of the motor vehicle safety standards described in subsections (a) and (b), the term ‘motor vehicle’ has the meaning given such term in section 30102(a)(6) of title 49, United States Code, except that such term shall not include—
+
+&emsp;“(1) a motorcycle or trailer (as such terms are defined in section 571.3 of title 49, Code of Federal Regulations); or
+
+&emsp;“(2) any motor vehicle that is rated at more than 10,000 pounds gross vehicular weight.
+
+“(f)
+
+Database on Injuries and Deaths in Nontraffic, Noncrash Events.—
+
+&emsp;“(1)
+
+In general.—Not later than 12 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary shall establish and maintain a database of injuries and deaths in nontraffic, noncrash events involving motor vehicles.
+
+&emsp;“(2)
+
+Contents.—The database established pursuant to paragraph (1) shall include information regarding—
+
+&emsp;&emsp;“(A) the number, types, and causes of injuries and deaths resulting from the events described in paragraph (1);
+
+&emsp;&emsp;“(B) the make, model, and model year of motor vehicles involved in such events, when practicable; and
+
+&emsp;&emsp;“(C) other variables that the Secretary determines will enhance the value of the database.
+
+&emsp;“(3)
+
+Availability.—The Secretary shall make the information contained in the database established pursuant to paragraph (1) available to the public through the Internet and other means.
+
+#### “SEC. 3. CHILD SAFETY INFORMATION PROGRAM.
+
+“(a)
+
+In General.—Not later than 9 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary shall provide information about hazards to children in nontraffic, noncrash incident situations by—
+
+&emsp;“(1) supplementing an existing consumer information program relating to child safety; or
+
+&emsp;“(2) creating a new consumer information program relating to child safety.
+
+“(b)
+
+Program Requirements.—In carrying out the program under subsection (a), the Secretary shall—
+
+&emsp;“(1) utilize information collected pursuant to section 2(f) regarding nontraffic, noncrash injuries, and other relevant data the Secretary considers appropriate, to establish priorities for the program;
+
+&emsp;“(2) address ways in which parents and caregivers can reduce risks to small children arising from back over incidents, hyperthermia in closed motor vehicles, accidental actuation of power windows, and any other risks the Secretary determines should be addressed; and
+
+&emsp;“(3) make information related to the program available to the public through the Internet and other means.
+
+#### “SEC. 4. DEADLINES.
+
+“If the Secretary determines that the deadlines applicable under this Act cannot be met, the Secretary shall—
+
+&emsp;“(1) establish new deadlines; and
+
+&emsp;“(2) notify the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the new deadlines and describing thereasons the deadlines specified under this Act could not be met.”
 
 #### Improving Criteria Used in a Recall
 

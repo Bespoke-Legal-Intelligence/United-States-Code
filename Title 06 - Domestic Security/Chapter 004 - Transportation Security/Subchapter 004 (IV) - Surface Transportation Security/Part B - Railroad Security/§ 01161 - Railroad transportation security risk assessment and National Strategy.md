@@ -24,7 +24,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 #### (1) Requirement
 
-&emsp;Not later than 9 months after August 3, 2007, and based upon the assessment conducted under subsection (a), the Secretary, consistent with and as required by section 114(t) of title 49, shall develop and implement the modal plan for railroad transportation, entitled the “National Strategy for Railroad Transportation Security”.
+&emsp;Not later than 9 months after August 3, 2007, and based upon the assessment conducted under subsection (a), the Secretary, consistent with and as required by section 114(t) <sup>1</sup> of title 49, shall develop and implement the modal plan for railroad transportation, entitled the “National Strategy for Railroad Transportation Security”.
 
 #### (2) Contents
 
@@ -32,7 +32,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measure might have on the provision of railroad service or on operations served or otherwise affected by railroad service;
 
-&emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including thoseposed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
+&emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including those posed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
 
 &emsp;&emsp;(C) consistent with section 1167 of this title, training railroad employees in terrorism prevention, preparedness, passenger evacuation, and response activities;
 
@@ -74,7 +74,7 @@ In developing the National Strategy required under this section, the Secretary s
 
 #### (d) Adequacy of existing plans and strategies
 
-In developing the risk assessment and National Strategy required under this section, the Secretary shall utilize relevant existing plans, strategies, and risk assessments developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) of title 49 or Homeland Security Presidential Directive–7, and, as appropriate, assessments developed by other public and private stakeholders.
+In developing the risk assessment and National Strategy required under this section, the Secretary shall utilize relevant existing plans, strategies, and risk assessments developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7, and, as appropriate, assessments developed by other public and private stakeholders.
 
 #### (e) Report
 
@@ -92,7 +92,7 @@ In developing the risk assessment and National Strategy required under this sect
 
 #### (f) Annual updates
 
-Consistent with the requirements of section 114(t) of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
+Consistent with the requirements of section 114(t) <sup>1</sup> of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
 
 #### (g) Funding
 
@@ -102,5 +102,9 @@ Out of funds appropriated pursuant to section 114(w) of title 49, there shall be
 
 #### References in Text
 
+Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
+
 Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under section 1101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

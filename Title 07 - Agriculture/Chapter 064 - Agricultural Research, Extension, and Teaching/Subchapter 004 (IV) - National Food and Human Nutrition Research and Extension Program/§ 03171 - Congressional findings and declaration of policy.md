@@ -16,7 +16,7 @@ Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out
 
 #### Nutrition Information and Awareness Pilot Program
 
-Pub. L. 107–171, title IV, §4403, May 13, 2002, 116 Stat. 334, provided that:
+Pub. L. 107–171, title IV, §4403, May 13, 2002, 116 Stat. 334, as amended by Pub. L. 110–234, title IV, §4406(c)(2), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, §4(a), title IV, §4406(c)(2), June 18, 2008, 122 Stat. 1664, 1903, provided that:
 
 “(a)
 
@@ -74,5 +74,5 @@ Federal Share.—The Federal share of the cost of any project or activity carrie
 
 “(f)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2002 through 2007.”
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2002 through 2012.”
 

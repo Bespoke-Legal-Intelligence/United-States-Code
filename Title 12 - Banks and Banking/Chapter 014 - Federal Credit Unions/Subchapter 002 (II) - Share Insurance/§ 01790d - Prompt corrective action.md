@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of section 1831<i>o</i>(c) of this title, the Federal banking agencies increase or decrease the required minimum level for the leverage limit (as those terms are used in section 1831<i>o</i> of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
+&emsp;&emsp;If, for purposes of section 1831<i>o</i>(c) of this title, the Federal banking agencies increaseor decrease the required minimum level for the leverage limit (as those terms are used in section 1831<i>o</i> of this title), the Board may, by regulation, and subject to subparagraph (B) of this paragraph, correspondingly increase or decrease 1 or more of the net worth ratios specified in subparagraphs (A) through (D) of paragraph (1) of this subsection in an amount that is equal to not more than the difference between the required minimum level most recently established by the Federal banking agencies and 4 percent of total assets (with respect to institutions regulated by those agencies).
 
 #### (B) Determinations required
 
@@ -192,7 +192,7 @@
 
 #### (5) Accepting plan
 
-&emsp;The Board may accept a net worth restoration plan only if the Board determines thatthe plan is based on realistic assumptions and is likely to succeed in restoring the net worth of the credit union.
+&emsp;The Board may accept a net worth restoration plan only if the Board determines that the plan is based on realistic assumptions and is likely to succeed in restoring the net worth of the credit union.
 
 #### (g) Restrictions on undercapitalized credit unions
 
@@ -382,7 +382,7 @@ Pub. L. 105–219, title III, §301(d), Aug. 7, 1998, 112 Stat. 930, provided th
 
 In general.—Except as provided in paragraph (2), the Board shall—
 
-&emsp;“(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal CreditUnion Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
+&emsp;“(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
 
 &emsp;“(B) promulgate final regulations to implement section 216 not later than 18 months after the date of enactment of this Act.
 

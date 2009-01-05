@@ -76,7 +76,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (A) Commercial purposes
 
-&emsp;&emsp;A person shall be considered to make a communication for commercial purposes only if such person is engaged in the business of making such communications.
+&emsp;&emsp;A person shall be considered to make a communication for commercial purposesonly if such person is engaged in the business of making such communications.
 
 #### (B) Engaged in the business
 
@@ -130,7 +130,7 @@ Pub. L. 105–277, div. C, title XIV, §1402, Oct. 21, 1998, 112 Stat. 2681–73
 
 #### Study by Commission on Online Child Protection
 
-Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B,§1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, provided that:
+Pub. L. 105–277, div. C, title XIV, §1405, Oct. 21, 1998, 112 Stat. 2681–739, as amended by Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5001(b)–(f), Nov. 29, 1999, 113 Stat. 1536, 1501A–591, 1501–592; Pub. L. 106–229, title IV, §401, June 30, 2000, 114 Stat. 476, provided that:
 
 “(a)
 
@@ -158,7 +158,7 @@ Industry members.—The Commission shall include 16 members who shall consist of
 
 &emsp;&emsp;“(G) providers that make content available over the Internet.
 
-> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by the Speaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
+> &emsp;Of the members of the Commission by reason of this paragraph, an equal number shall be appointed by theSpeaker of the House of Representatives and by the Majority Leader of the Senate. Members of the Commission appointed on or before October 31, 1999, shall remain members.
 
 &emsp;“(2)
 

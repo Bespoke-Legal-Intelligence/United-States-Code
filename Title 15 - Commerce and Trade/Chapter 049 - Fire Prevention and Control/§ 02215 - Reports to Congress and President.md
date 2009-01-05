@@ -1,6 +1,6 @@
 ### §2215. Reports to Congress and President
 
-The Director shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control, and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
+The Director shall report to the Congress and the President not later than ninety calendar days following the year ending September 30, 1980 and similarly each year thereafter on all activities relating to fire prevention and control,and all measures taken to implement and carry out this chapter during the preceding calendar year. Such report shall include, but need not be limited to—
 
 &emsp;(a) a thorough appraisal, including statistical analysis, estimates, and long-term projections of the human and economic losses due to fire;
 

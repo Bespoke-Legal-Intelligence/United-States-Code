@@ -40,7 +40,7 @@ Members of the advisory council shall serve without compensation, if not otherwi
 
 #### (1) Term
 
-&emsp;The term of office of a member appointed under subsection (c) of this section is four years, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
+&emsp;The term of office of a member appointed under subsection (c) of this section is fouryears, except that any member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of such member was appointed shall be appointed only for the remainder of such term.
 
 #### (2) Initial appointment
 
@@ -64,7 +64,7 @@ The advisory council shall meet at the call of the chair or on the request of th
 
 #### (h) Staff
 
-The Director shall make available to the advisory council such staff, information, and otherassistance as it may require to carry out its functions.
+The Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions.
 
 #### (i) Orientation and training
 

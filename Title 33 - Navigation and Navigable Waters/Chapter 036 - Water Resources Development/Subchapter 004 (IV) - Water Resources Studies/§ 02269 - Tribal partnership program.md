@@ -44,7 +44,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (A) In general
 
-&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall besubject to the ability of the non-Federal interest to pay.
+&emsp;&emsp;Any cost-sharing agreement for a study under subsection (b) of this section shall be subject to the ability of the non-Federal interest to pay.
 
 #### (B) Use of procedures
 

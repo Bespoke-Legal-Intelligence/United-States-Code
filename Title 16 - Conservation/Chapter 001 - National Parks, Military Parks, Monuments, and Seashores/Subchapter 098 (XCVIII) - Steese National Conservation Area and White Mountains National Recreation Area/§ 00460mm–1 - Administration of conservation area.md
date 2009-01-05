@@ -10,7 +10,7 @@ No public lands within the national conservation area shall be transferred out o
 
 #### (c) Regulation of mining activities
 
-Subject to valid existing rights, all mining claims located within any such unit shall besubject to such reasonable regulations as the Secretary may prescribe to assure that mining will, to the maximum extent practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the area and any patent issued after December 2, 1980, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations as the Secretary may prescribe as aforesaid.
+Subject to valid existing rights, all mining claims located within any such unit shall be subject to such reasonable regulations as the Secretary may prescribe to assure that mining will, to the maximum extent practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the area and any patent issued after December 2, 1980, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations as the Secretary may prescribe as aforesaid.
 
 (Pub. L. 96–487, title IV, §402, Dec. 2, 1980, 94 Stat. 2396.)
 

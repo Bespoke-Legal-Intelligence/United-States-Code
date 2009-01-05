@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-None of the funds made available to carry out this Act, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be provided to a government or any agency or instrumentality thereof, if the government of such country (other than a country described if <sup>1</sup> subsection (d) of this section)—
+None of the funds made available to carry out this Act, the Foreign Assistance Act of 1961 \[22U.S.C. 2151 et seq.\], or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be provided to a government or any agency or instrumentality thereof, if the government of such country (other than a country described if <sup>1</sup> subsection (d) of this section)—
 
 &emsp;(1) has on or after January 1, 1956—
 
@@ -80,7 +80,7 @@ For the purpose of this section, the term “United States person” means a Uni
 
 &emsp;&emsp;(ii) the Embassy of the United States of America to Nicaragua.
 
-(3) The date to which paragraph (2) refers is a date after December 8, 2004, that is specified by the Secretary of State, in the Secretary's discretion, in a notice published in the Federal Register.
+(3) The date to which paragraph (2) refers is a date after December 8, 2004, that is specified bythe Secretary of State, in the Secretary's discretion, in a notice published in the Federal Register.
 
 (Pub. L. 103–236, title V, §527, Apr. 30, 1994, 108 Stat. 475; Pub. L. 108–447, div. D, title V, §584(c), Dec. 8, 2004, 118 Stat. 3032.)
 

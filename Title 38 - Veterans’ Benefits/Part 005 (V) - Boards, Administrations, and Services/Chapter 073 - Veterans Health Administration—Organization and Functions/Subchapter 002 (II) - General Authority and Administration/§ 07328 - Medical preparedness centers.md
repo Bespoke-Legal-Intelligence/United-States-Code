@@ -68,9 +68,9 @@ Detail of Employees From Other Agencies.—Upon approval by the Secretary, the D
 
 Funding.—(1) There are authorized to be appropriated for the centers under this section $10,000,000 for each of fiscal years 2005 through 2007.
 
-(2) In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical care account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
+(2) In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
 
-(Added Pub. L. 108–422, title III, §303(c)(1), Nov. 30, 2004, 118 Stat. 2386.)
+(Added Pub. L. 108–422, title III, §303(c)(1), Nov. 30, 2004, 118 Stat. 2386; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### References in Text
 
@@ -80,11 +80,15 @@ Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2),
 
 The text of subsecs. (a) to (h) of this section consists of the text of section 7325(a) to (h) of this title, as duplicated in this section by Pub. L. 108–422, §303(c)(1)(B), which was based on Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024.
 
+#### Amendments
+
+2008—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to theSecretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enhancement of Medical Preparedness of Department of Veterans Affairs
 

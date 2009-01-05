@@ -6,6 +6,7 @@
 | :--- | ---: |
 | [8101\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008101%20-%20Definitions.md) | Definitions. |
 | [8102\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008102%20-%20Compensation%20for%20disability%20or%20death%20of%20employee.md) | Compensation for disability or death of employee. |
+| [8102a.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008102a%20-%20Death%20gratuity%20for%20injuries%20incurred%20in%20connection%20with%20employee%27s%20service%20with%20an%20Armed%20Force.md) | Death gratuity for injuries incurred in connection with employee's service with an Armed Force. |
 | [8103\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008103%20-%20Medical%20services%20and%20initial%20medical%20and%20other%20benefits.md) | Medical services and initial medical and other benefits. |
 | [8104\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008104%20-%20Vocational%20rehabilitation.md) | Vocational rehabilitation. |
 | [8105\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008105%20-%20Total%20disability.md) | Total disability. |
@@ -87,6 +88,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
 
 1995—Pub. L. 104–66, title I, §1102(b)(3)(B), Dec. 21, 1995, 109 Stat. 723, added item 8152.
 

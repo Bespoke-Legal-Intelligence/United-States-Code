@@ -16,5 +16,5 @@
 
 #### Effective Date
 
-Section 205 of title II of Pub. L. 102–568 provided that: “The amendments made by this title \[enacting thissection and amending sections 1967, 1977, and 2106 of this title\] shall take effect on December 1, 1992.”
+Section 205 of title II of Pub. L. 102–568 provided that: “The amendments made by this title \[enacting this section and amending sections 1967, 1977, and 2106 of this title\] shall take effect on December 1, 1992.”
 

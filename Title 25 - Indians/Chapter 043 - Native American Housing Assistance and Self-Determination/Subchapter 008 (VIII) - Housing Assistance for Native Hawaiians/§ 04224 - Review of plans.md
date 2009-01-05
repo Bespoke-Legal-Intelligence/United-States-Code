@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after receiving a plan under section 4223 of this title, the Secretary shall notify the Director of the Department of Hawaiian Home Lands whether the plan complies with the requirements under that section.
+&emsp;&emsp;Not later than 60 days after receiving a plan under section 4223 of this title, the Secretary shall notify the Director of the Department of Hawaiian Home Lands whetherthe plan complies with the requirements under that section.
 
 #### (B) Effect of failure of Secretary to take action
 
@@ -65,6 +65,10 @@ If the Secretary determines that a plan submitted under section 4223 of this tit
 This section and section 4223 of this title shall take effect on the date provided by the Secretary pursuant to section 4227(a) <sup>1</sup> of this title to provide for timely submission and review of the housing plan as necessary for the provision of assistance under this subchapter for fiscal year 2001.
 
 (Pub. L. 104–330, title VIII, §804, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2881, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2975.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c)(1)(C), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Codification
 

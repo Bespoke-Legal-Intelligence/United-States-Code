@@ -12,7 +12,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 &emsp;(B) such other information as the Secretaries may jointly by regulation prescribe.
 
-(2) The Secretaries may approve applications which they determine (A) to meet the requirements of paragraph (1), and (B) are for projectswhich will further the development, preservation, or maintenance of non-Federal public lands or waters within the jurisdiction of the applicant.
+(2) The Secretaries may approve applications which they determine (A) to meet the requirements of paragraph (1), and (B) are for projects which will further the development, preservation, or maintenance of non-Federal public lands or waters within the jurisdiction of the applicant.
 
 #### (c) Limitation on the amount of grant
 

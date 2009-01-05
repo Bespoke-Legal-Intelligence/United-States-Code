@@ -1,74 +1,94 @@
 ### §4631. Cease-and-desist proceedings
 
-#### (a) Grounds for issuance against adequately capitalized enterprises
+#### (a) Issuance for unsafe or unsound practices and violations
 
-The Director may issue and serve a notice of charges under this section upon an enterprise that is classified (for purposes of subchapter II of this chapter) as adequately capitalized or upon any executive officer or director of such an enterprise, if in the determination of the Director, the enterprise, executive officer, or director is engaging or has engaged, or the Director has reasonable cause to believe that the enterprise, executive officer, or director is about to engage, in—
+#### (1) Authority of Director
 
-&emsp;(1) any conduct that threatens to cause a significant depletion of the core capital of the enterprise;
+&emsp;If, in the opinion of the Director, a regulated entity or any entity-affiliated party is engaging or has engaged, or the Director has reasonable cause to believe that the regulated entity or any entity-affiliated party is about to engage, in an unsafe or unsound practice in conducting the business of the regulated entity or the Office of Finance, or is violating or has violated, or the Director has reasonable cause to believe is about to violate, a law, rule, regulation, or order, or any condition imposed in writing by the Director in connection with the granting of any application or other request by the regulated entity or the Office of Finance or any written agreement entered into with the Director, the Director may issue and serve upon the regulated entity or entity-affiliated party a notice of charges in respect thereof.
 
-&emsp;(2) any conduct or violation that may result in the issuance of an order described in subsection (d)(1) of this section; or
+#### (2) Limitation
 
-&emsp;(3) any conduct that violates—
+&emsp;The Director may not, pursuant to this section, enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, with subsection (m) or (n) of section 1723a of this title, with subsection (e) or (f) of section 1456 of this title, or with paragraph (5) of section 1430(j) of this title.
 
-&emsp;&emsp;(A) any provision of this chapter, the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\], the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\], or any order, rule, or regulation under any such chapter or Act, except that the Director may not enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\]; or
+#### (b) Issuance for unsatisfactory rating
 
-&emsp;&emsp;(B) any written agreement entered into by the enterprise with the Director.
-
-#### (b) Grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises
-
-The Director may issue and serve a notice of charges under this section upon an enterprise classified (for purposes of subchapter II of this chapter) as undercapitalized, significantly undercapitalized, or critically undercapitalized, or any executive officer or director of any such enterprise, if in the determination of the Director the enterprise, executive officer, or director is engaging or has engaged, or the Director has reasonable cause to believe that the enterprise, executive officer, or director is about to engage, in—
-
-&emsp;(1) any conduct likely to result in a material depletion of the core capital of the enterprise, or
-
-&emsp;(2) any conduct or violation described in paragraph (2) or (3) of subsection (a) of this section,
-
-> except that the Director may not enforce compliance with any housing goal established under subpart 2 of part B of subchapter I of this chapter, with section 4566 or 4567 of this title, or with subsection (m) or (n) of section 309 of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1723a(m), (n)\] or subsection (e) or (f) of section 307 of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1456(e), (f)\].
+If a regulated entity receives, in its most recent report of examination, a less-than-satisfactory rating for asset quality, management, earnings, or liquidity, the Director may (if the deficiency is not corrected) deem the regulated entity to be engaging in an unsafe or unsound practice for purposes of subsection (a).
 
 #### (c) Procedure
 
 #### (1) Notice of charges
 
-&emsp;Each notice of charges under this section shall contain a statement of the facts constituting the alleged conduct or violation and shall fix a time and place at which a hearing will be held to determine on the record whether an order to cease and desist from such conduct or violation should issue.
+&emsp;Each notice of charges under this section shall contain a statement of the facts constituting the alleged practice or violation and shall fix a time and place at which a hearing will be held to determine on the record whether an order to cease and desist from such practice or violation should issue, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order.
 
 #### (2) Issuance of order
 
-&emsp;If the Director finds on the record made at such hearing that any conduct or violation specified in the notice of charges has been established (or the enterprise consents pursuant to section 4633(a)(4) of this title), the Director may issue and serve upon the enterprise, executive officer, or director an order requiring such party to cease and desist from any such conduct or violation and to take affirmative action to correct or remedy the conditions resulting from any such conduct or violation.
+&emsp;If the Director finds on the record made at such hearing that any practice or violation specified in the notice of charges has been established (or the regulated entity or entity-affiliated party consents pursuant to section 4633(a)(4) of this title), the Director may issue and serve upon the regulated entity, executive officer, director, or entity-affiliated party an order requiring such party to cease and desist from any such practice or violation and to take affirmative action to correct or remedy the conditions resulting from any such practice or violation.
 
 #### (d) Affirmative action to correct conditions resulting from violations or activities
 
-The authority under this section and section 4632 of this title to issue any order requiring an enterprise, executive officer, or director to take affirmative action to correct or remedy any condition resulting from any conduct or violation with respect to which such order is issued includes the authority—
+The authority under this section and section 4632 of this title to issue any order requiring a regulated entity, executive officer, director, or entity-affiliated party to take affirmative action to correct or remedy any condition resulting from any practice or violation with respect to which such order is issued includes the authority to require a regulated entity or entity-affiliated party—
 
-&emsp;(1) to require an executive officer or a director to make restitution to, or provide reimbursement, indemnification, or guarantee against loss to the enterprise to the extent that such person—
+&emsp;(1) make <sup>1</sup> restitution to, or provide reimbursement, indemnification, or guarantee against loss, if—
 
-&emsp;&emsp;(A) was unjustly enriched in connection with such conduct or violation; or
+&emsp;&emsp;(A) such entity or party or finance facility was unjustly enriched in connection with such practice or violation; or
 
-&emsp;&emsp;(B) engaged in conduct or a violation that would subject such person to a civil penalty pursuant to section 4636(b)(3) of this title;
+&emsp;&emsp;(B) the violation or practice involved a reckless disregard for the law or any applicable regulations or prior order of the Director;
 
-&emsp;(2) to require an enterprise to seek restitution, or to obtain reimbursement, indemnification, or guarantee against loss;
+&emsp;(2) to require a regulated entity to seek restitution, or to obtain reimbursement, indemnification, or guarantee against loss;
 
-&emsp;(3) to restrict the growth of the enterprise;
+&emsp;(3) to restrict the growth of the regulated entity;
 
-&emsp;(4) to require the enterprise to dispose of any asset involved;
+&emsp;(4) to require the regulated entity to dispose of any loan or asset involved;
 
-&emsp;(5) to require the enterprise to rescind agreements or contracts;
+&emsp;(5) to require the regulated entity to rescind agreements or contracts;
 
-&emsp;(6) to require the enterprise to employ qualified officers or employees (who may be subject to approval by the Director at the direction of the Director); and
+&emsp;(6) to require the regulated entity to employ qualified officers or employees (who may be subject to approval by the Director at the direction of the Director); and
 
-&emsp;(7) to require the enterprise to take such other action as the Director determines appropriate.
+&emsp;(7) to require the regulated entity to take such other action as the Director determines appropriate.
 
 #### (e) Authority to limit activities
 
-The authority to issue an order under this section or section 4632 of this title includes the authority to place limitations on the activities or functions of the enterprise or any executive officer or director of the enterprise.
+The authority to issue an order under this section or section 4632 of this title includes the authority to place limitations on the activities or functions of the regulated entity or entity-affiliated party or any executive officer or director of the regulated entity or entity-affiliated party.
 
 #### (f) Effective date
 
-An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the enterprise, executive officer, or director concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
+An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,,<sup>2</sup> executive officer, director, or entity-affiliated party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
 
-(Pub. L. 102–550, title XIII, §1371, Oct. 28, 1992, 106 Stat. 3986.)
+(Pub. L. 102–550, title XIII, §1371, Oct. 28, 1992, 106 Stat. 3986; Pub. L. 110–289, div. A, title I, §1151, July 30, 2008, 122 Stat. 2767.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (a)(3)(A), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, as amended, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+#### Amendments
+
+2008—Subsecs. (a), (b). Pub. L. 110–289, §1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
+
+Subsec. (c)(1). Pub. L. 110–289, §1151(2)(A), (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
+
+Subsec. (c)(2). Pub. L. 110–289, §1151(2)(B), (3)(A), (C), inserted “or entity-affiliated party” before “consents” and substituted “director, or entity-affiliated party” for “or director”, “the regulated entity” for “the enterprise” in two places, and “practice” for “conduct” wherever appearing.
+
+Subsec. (d). Pub. L. 110–289, §1151(3)(B), (C), (4)(A), in introductory provisions, substituted “a regulated entity” for “an enterprise”, “director, or entity-affiliated party” for “or director”, and “practice” for “conduct”, and inserted “to require a regulated entity or entity-affiliated party” after “includes the authority”.
+
+Subsec. (d)(1). Pub. L. 110–289, §1151(4)(B)(i), (ii), in introductory provisions, struck out “to require an executive officer or a director to” before “make restitution” and substituted “loss, if” for “loss to the enterprise to the extent that such person”.
+
+Subsec. (d)(1)(A). Pub. L. 110–289, §1151(3)(C), (4)(B)(iii), inserted “such entity or party or finance facility” before “was unjustly” and substituted “practice” for “conduct”.
+
+Subsec. (d)(1)(B). Pub. L. 110–289, §1151(4)(B)(iv), added subpar. (B) and struck out former subpar. (B) which read as follows: “engaged in conduct or a violation that would subject such person to a civil penalty pursuant to section 4636(b)(3) of this title;”.
+
+Subsec. (d)(2). Pub. L. 110–289, §1151(3)(B), substituted “a regulated entity” for “an enterprise”.
+
+Subsec. (d)(3). Pub. L. 110–289, §1151(3)(A), substituted “the regulated entity” for “the enterprise”.
+
+Subsec. (d)(4). Pub. L. 110–289, §1151(3)(A), (4)(C), substituted “the regulated entity” for “the enterprise” and inserted “loan or” before “asset”.
+
+Subsec. (d)(5) to (7). Pub. L. 110–289, §1151(3)(A), substituted “the regulated entity” for “the enterprise”.
+
+Subsec. (e). Pub. L. 110–289, §1151(3)(A), (5), substituted “the regulated entity” for “the enterprise” in two places and inserted “or entity-affiliated party” before “or any executive” and before period at end.
+
+Subsec. (f). Pub. L. 110–289, §1151(6), substituted “regulated entity, finance facility,” for “enterprise” and “director, or entity-affiliated party” for “or director”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “to make”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

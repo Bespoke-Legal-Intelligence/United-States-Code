@@ -32,7 +32,7 @@ Criteria for the award of funds to any institution for a project under the Progr
 
 &emsp;(3) the congruence of the institution's research and training activities with the future research needs of the Nation and the research mission of the Foundation;
 
-&emsp;(4) the contribution that the project will make toward meeting national, regional, andinstitutional research and related training needs;
+&emsp;(4) the contribution that the project will make toward meeting national, regional, and institutional research and related training needs;
 
 &emsp;(5) in the case of an institution that historically has received relatively little Federal research and development funding, the contribution the proposed project will make to improving the institution's academic scientific and engineering infrastructure and broadening the Nation's science and engineering base; and
 

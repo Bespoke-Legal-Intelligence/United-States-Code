@@ -118,7 +118,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;“(vii) a single implementation date for sea and land borders has been established; and
 
-&emsp;&emsp;&emsp;“(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+&emsp;&emsp;&emsp;“(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit theindividual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
 &emsp;&emsp;“(C)
 

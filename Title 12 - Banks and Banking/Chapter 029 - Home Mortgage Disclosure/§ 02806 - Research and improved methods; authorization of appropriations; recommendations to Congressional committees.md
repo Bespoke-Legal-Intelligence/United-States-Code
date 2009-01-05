@@ -1,6 +1,6 @@
 ### §2806. Research and improved methods; authorization of appropriations; recommendations to Congressional committees
 
-(a)(1) The Director of the Office of Thrift Supervision, with the assistance of the Secretary, the Director of the Bureau of the Census, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Director of the Office of Thrift Supervision deems appropriate, shall develop, or assist in the improvement of, methodsof matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
+(a)(1) The Director of the Office of Thrift Supervision, with the assistance of the Secretary, the Director of the Bureau of the Census, the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Director of the Office of Thrift Supervision deems appropriate, shall develop, or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
 
 (2) There is authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
@@ -18,5 +18,5 @@
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services ofHouse of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

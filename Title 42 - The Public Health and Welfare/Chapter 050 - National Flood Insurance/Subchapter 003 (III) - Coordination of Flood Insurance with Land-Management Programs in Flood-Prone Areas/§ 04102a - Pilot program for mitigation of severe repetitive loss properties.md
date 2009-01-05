@@ -80,7 +80,7 @@ The program under this section for providing assistance for eligible activities 
 
 #### (1) Priority
 
-&emsp;In determining the properties for which to provide assistance for eligible activities under subsection (c) of this section, the Director shall provide assistance for properties in the order that will result in the greatest amount of savings to the National Flood Insurance Fund in the shortest period of time, in a manner consistent with the allocation formula under paragraph (5).
+&emsp;In determining the properties for which to provide assistance for eligible activities undersubsection (c) of this section, the Director shall provide assistance for properties in the order that will result in the greatest amount of savings to the National Flood Insurance Fund in the shortest period of time, in a manner consistent with the allocation formula under paragraph (5).
 
 #### (2) Offers
 
@@ -154,7 +154,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 #### (2) Increased premiums upon subsequent flood damage
 
-&emsp;Notwithstanding subsections (a) through (c) of section 4015 of this title, if the owner of a severe repetitive loss property does not accept an offer to take action under paragraph (1) or (2) of subsection (c) of this section with respect to such property and a claim payment exceeding $1,500 is made under flood insurance coverage under this chapter for damage to the property caused by a flood event occurring after such offer is made, thereafter the chargeable premium rate with respect to the property shall be the amount equal to 150 percent of the chargeable rate for the property at the time of such flood event, as adjusted by any other premium adjustments otherwise applicable to the property and any subsequent increases pursuant to this paragraph and subject to the limitation under paragraph (3).
+&emsp;Notwithstanding subsections (a) through (c) of section 4015 of this title, if the owner of asevere repetitive loss property does not accept an offer to take action under paragraph (1) or (2) of subsection (c) of this section with respect to such property and a claim payment exceeding $1,500 is made under flood insurance coverage under this chapter for damage to the property caused by a flood event occurring after such offer is made, thereafter the chargeable premium rate with respect to the property shall be the amount equal to 150 percent of the chargeable rate for the property at the time of such flood event, as adjusted by any other premium adjustments otherwise applicable to the property and any subsequent increases pursuant to this paragraph and subject to the limitation under paragraph (3).
 
 #### (3) Limitation on increased premiums
 
@@ -202,7 +202,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 &emsp;&emsp;If the third party hearing an appeal under this paragraph is compensated for such service, the costs of such compensation shall be borne—
 
-&emsp;&emsp;&emsp;(i) by the owner of the property requesting the appeal, if the final determination in the appeal is that the grounds under subparagraph (A) do not exist; and
+&emsp;&emsp;&emsp;(i) by the owner of the property requesting the appeal, if the final determinationin the appeal is that the grounds under subparagraph (A) do not exist; and
 
 &emsp;&emsp;&emsp;(ii) by the National Flood Insurance Fund, if such final determination is that the grounds under subparagraph (A) do exist.
 

@@ -17,5 +17,5 @@ Part A of title IV of the Higher Education Act of 1965, comprising this part, wa
 - [Subpart 005 - Special Programs for Students Whose Families Are Engaged in Migrant and Seasonal Farmwork](Subpart%20005%20-%20Special%20Programs%20for%20Students%20Whose%20Families%20Are%20Engaged%20in%20Migrant%20and%20Seasonal%20Farmwork/README.md)
 - [Subpart 006 - Robert C. Byrd Honors Scholarship Program](Subpart%20006%20-%20Robert%20C.%20Byrd%20Honors%20Scholarship%20Program/README.md)
 - [Subpart 007 - Child Care Access Means Parents in School](Subpart%20007%20-%20Child%20Care%20Access%20Means%20Parents%20in%20School/README.md)
-- [Subpart 008 - Learning Anytime Anywhere Partnerships](Subpart%20008%20-%20Learning%20Anytime%20Anywhere%20Partnerships/README.md)
+- [Subpart 008 - \[Repealed](Subpart%20008%20-%20%5BRepealed/README.md)
 - [Subpart 009 - Teach Grants](Subpart%20009%20-%20Teach%20Grants/README.md)

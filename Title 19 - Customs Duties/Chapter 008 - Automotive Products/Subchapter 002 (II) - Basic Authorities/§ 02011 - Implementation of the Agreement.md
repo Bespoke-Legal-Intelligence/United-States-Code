@@ -72,7 +72,7 @@ NOW, THEREFORE, I, LYNDON, B. JOHNSON, under the authority vested in me by the C
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 
-DONE at the City of Washington this eighth day of September in the year of our Lord nineteen hundred and sixty-six, and of the Independence of the United States of America the one hundred and ninety-first.
+DONE at the City of Washington this eighth day of September in the year of our Lord nineteen hundredand sixty-six, and of the Independence of the United States of America the one hundred and ninety-first.
 
 > \[
 

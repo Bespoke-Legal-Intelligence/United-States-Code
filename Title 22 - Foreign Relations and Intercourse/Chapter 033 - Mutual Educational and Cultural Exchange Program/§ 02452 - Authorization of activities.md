@@ -28,7 +28,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 In furtherance of the purposes of this chapter, the President is further authorized to provide for—
 
-&emsp;(1) interchanges between the United States and other countries of handicrafts, scientific, technical, and scholarly books, books of literature, periodicals, and Government publications, and the reproduction and translation of such writings, and the preparation, distribution, and interchange of other educational and research materials, including laboratory and technical equipment for education and research;
+&emsp;(1) interchanges between the United States and other countries of handicrafts, scientific, technical, and scholarly books, books of literature, periodicals, and Government publications, and the reproduction and translation of such writings, and the preparation, distribution, and interchange of other educational andresearch materials, including laboratory and technical equipment for education and research;
 
 &emsp;(2) establishing and operating in the United States and abroad centers for cultural and technical interchanges to promote better relations and understanding between the United States and other nations through cooperative study, training, and research;
 
@@ -148,7 +148,7 @@ Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized sch
 
 Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
-Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
+Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B,title XXII, §2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 
 Pub. L. 102–138, title II, §229, Oct. 28, 1991, 105 Stat. 702, authorized scholarships for Vietnamese residents qualified to study in United States.
 

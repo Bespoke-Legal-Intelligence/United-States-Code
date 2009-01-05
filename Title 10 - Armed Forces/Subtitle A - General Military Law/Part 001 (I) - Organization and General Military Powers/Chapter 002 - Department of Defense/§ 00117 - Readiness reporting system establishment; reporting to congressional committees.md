@@ -16,7 +16,7 @@ Readiness Reporting System Characteristics.—In establishing the readiness repo
 
 &emsp;(1) that the readiness reporting system is applied uniformly throughout the Department of Defense;
 
-&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
+&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element ofdefense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
 
 &emsp;(3) that sufficient resources are provided to establish and maintain the system so as to allow reporting of changes in readiness status as required by this section.
 
@@ -56,7 +56,7 @@ Submission to Congressional Committees.—The Secretary shall each quarter submi
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000,114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595.)
 
 #### Prior Provisions
 
@@ -73,6 +73,128 @@ A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted “an annual” for “a quarterly”.
 
 Subsec. (e). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+
+#### Defense Materiel Readiness Board
+
+Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, provided that:
+
+#### “SEC. 871. ESTABLISHMENT OF DEFENSE MATERIEL READINESS BOARD.
+
+“(a)
+
+Establishment.—Not later than 6 months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall establish a Defense Materiel Readiness Board (in this subtitle referred to as the ‘Board’) within the Office of the Secretary of Defense.
+
+“(b)
+
+Membership.—The Secretary shall appoint the chairman and the members of the Board from among officers of the Armed Forces with expertise in matters relevant to the function of the Board to assess materiel readiness and evaluate plans and policies relating to materiel readiness. At a minimum, the Board shall include representatives of the Joint Chiefs of Staff, each of the Armed Forces, and each of the reserve components of the Armed Forces.
+
+“(c)
+
+Staff.—The Secretary of Defense shall assign staff, and request the Secretaries of the military departments to assign staff, as necessary to assist the Board in carrying out its duties.
+
+“(d)
+
+Functions.—The Board shall provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to the Secretary of Defense and the Congress. To carry out such functions, the Board shall—
+
+&emsp;“(1) monitor and assess the materiel readiness of the Armed Forces;
+
+&emsp;“(2) assist the Secretary of Defense in the identification of deficiencies in the materiel readiness of the Armed Forces caused by shortfalls in weapons systems, equipment, and supplies;
+
+&emsp;“(3) identify shortfalls in materiel readiness, including critical materiel readiness shortfalls, for purposes of the Secretary's designations under section 872 and the funding needed to address such shortfalls;
+
+&emsp;“(4) assess the adequacy of current Department of Defense plans, policies, and programs to address shortfalls in materiel readiness, including critical materiel readiness shortfalls (as designated by the Secretary under section 872), and to sustain and improve materiel readiness;
+
+&emsp;“(5) assist the Secretary of Defense in determining whether the industrial capacity of the Department of Defense and of the defense industrial base is being best utilized to support the materiel readiness needs of the Armed Forces;
+
+&emsp;“(6) review and assess Department of Defense systems for measuring the status of current materiel readiness of the Armed Forces; and
+
+&emsp;“(7) make recommendations with respect to materiel readiness funding, measurement techniques, plans, policies, and programs.
+
+“(e)
+
+Reports.—The Board shall submit to the Secretary of Defense a report summarizing its findings and recommendations not less than once every six months. Within 30 days after receiving a report from the Board, the Secretary shall forward the report in its entirety, together with his comments, to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. The report shall be submitted in unclassified form. To the extent necessary, the report may be accompanied by a classified annex.
+
+#### “SEC. 872. CRITICAL MATERIEL READINESS SHORTFALLS.
+
+“(a)
+
+Designation of Critical Materiel Readiness Shortfalls.—
+
+&emsp;“(1)
+
+Designation.—The Secretary of Defense may designate any requirement of the Armed Forces for equipment or supplies as a critical materiel readiness shortfall if there is a shortfall in the required equipment or supplies that materially reduces readiness of the Armed Forces and that—
+
+&emsp;&emsp;“(A) cannot be adequately addressed by identifying acceptable substitute capabilities or cross leveling of equipment that does not unacceptably reduce the readiness of other Armed Forces; and
+
+&emsp;&emsp;“(B) that is likely to persist for more than two years based on currently projected budgets and schedules for deliveries of equipment and supplies.
+
+&emsp;“(2)
+
+Consideration of board findings and recommendations.—In making any such designation, the Secretary shall take into consideration the findings and recommendations of the Defense Materiel Readiness Board.
+
+“(b)
+
+Measures to Address Critical Materiel Readiness Shortfalls.—The Secretary of Defense shall ensure that critical materiel readiness shortfalls designated pursuant to subsection (a)(1) are transmitted to the relevant officials of the Department of Defense responsible for requirements, budgets, and acquisition, and that such officials prioritize and address such shortfalls in the shortest time frame practicable.
+
+“(c)
+
+Transfer Authority.—
+
+&emsp;“(1)
+
+In general.—The amounts of authorizations that the Secretary may transfer under the authority of section 1001 of this Act \[122 Stat. 299\] is hereby increased by $2,000,000,000.
+
+&emsp;“(2)
+
+Limitations.—The additional transfer authority provided by this section—
+
+&emsp;&emsp;“(A) may be made only from authorizations to the Department of Defense for fiscal year 2008;
+
+&emsp;&emsp;“(B) may be exercised solely for the purpose of addressing critical materiel readiness shortfalls as designated by the Secretary of Defense under subsection (a); and
+
+&emsp;&emsp;“(C) is subject to the same terms, conditions, and procedures as other transfer authority under section 1001 of this Act \[122 Stat. 299\].
+
+“(d)
+
+Strategic Readiness Fund.—
+
+&emsp;“(1)
+
+Establishment.—There is established on the books of the Treasury a fund to be known as the Department of Defense Strategic Readiness Fund (in this subsection referred to as the ‘Fund’), which shall be administered by the Secretary of the Treasury.
+
+&emsp;“(2)
+
+Purposes.—The Fund shall be used to address critical materiel readiness shortfalls as designated by the Secretary of Defense under subsection (a).
+
+&emsp;“(3)
+
+Assets of fund.—There shall be deposited into the Fund any amount appropriated to the Fund, which shall constitute the assets of the Fund.
+
+&emsp;“(4)
+
+Limitation.—The procurement unit cost (as defined in section 2432(a) of title 10, United States Code) of any item purchased using assets of the Fund, whether such assets are in the Fund or after such assets have been transferred from the Fund using the authority provided in subsection (c), shall not exceed $30,000,000.
+
+“(e)
+
+Multiyear Contract Notification.—
+
+&emsp;“(1)
+
+Notification.—If the Secretary of a military department makes the determination described in paragraph (2) with respect to the use of a multiyear contract, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days of the determination and provide a detailed description of the proposed multiyear contract.
+
+&emsp;“(2)
+
+Determination.—The determination referred to in paragraph (1) is a determination by the Secretary of a military department that the use of a multiyear contract to procure an item to address a critical materiel readiness shortfall—
+
+&emsp;&emsp;“(A) will significantly accelerate efforts to address a critical materiel readiness shortfall;
+
+&emsp;&emsp;“(B) will provide savings compared to the total anticipated costs of carrying out the contract through annual contracts; and
+
+&emsp;&emsp;“(C) will serve the interest of national security.
+
+“(f)
+
+Definition.—In this section, the term ‘critical materiel readiness shortfall’ means a critical materiel readiness shortfall designated by the Secretary of Defense under this section.”
 
 #### Implementation
 

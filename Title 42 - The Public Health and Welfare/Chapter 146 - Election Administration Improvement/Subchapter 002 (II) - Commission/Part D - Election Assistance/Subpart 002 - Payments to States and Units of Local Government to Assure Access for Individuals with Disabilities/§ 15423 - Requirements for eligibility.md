@@ -16,7 +16,7 @@ Each application submitted under subsection (a) of this section shall—
 
 #### (1) In general
 
-&emsp;No action may be brought under this chapter against a State or unit of local government onthe basis of any information contained in the application submitted under subsection (a) of this section.
+&emsp;No action may be brought under this chapter against a State or unit of local government on the basis of any information contained in the application submitted under subsection (a) of this section.
 
 #### (2) Exception for criminal acts
 

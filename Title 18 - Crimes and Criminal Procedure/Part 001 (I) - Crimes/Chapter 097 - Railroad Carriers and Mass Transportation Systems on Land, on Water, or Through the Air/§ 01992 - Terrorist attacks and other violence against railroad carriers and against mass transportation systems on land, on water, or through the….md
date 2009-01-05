@@ -24,7 +24,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(8) surveils, photographs, videotapes, diagrams, or otherwise collects information with the intent to plan or assist in planning any of the acts described in paragraphs (1) through (6);
 
-&emsp;(9) conveys false information, knowing the information to be false, concerning an attemptor alleged attempt to engage in a violation of this subsection; or
+&emsp;(9) conveys false information, knowing the information to be false, concerning an attempt or alleged attempt to engage in a violation of this subsection; or
 
 &emsp;(10) attempts, threatens, or conspires to engage in any violation of any of paragraphs (1) through (9),
 

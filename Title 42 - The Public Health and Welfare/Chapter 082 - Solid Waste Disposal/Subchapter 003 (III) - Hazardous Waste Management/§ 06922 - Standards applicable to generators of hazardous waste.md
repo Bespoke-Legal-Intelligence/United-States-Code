@@ -22,7 +22,7 @@ Not later than eighteen months after October 21, 1976, and after notice and oppo
 
 &emsp;&emsp;(C) the efforts undertaken during the year to reduce the volume and toxicity of waste generated; and
 
-&emsp;&emsp;(D) the changes in volume and toxicity of waste actually achieved during the year in question in comparison with previous years, to the extent such information is available for years prior to November 8, 1984.
+&emsp;&emsp;(D) the changes in volume and toxicity of waste actually achieved during the year inquestion in comparison with previous years, to the extent such information is available for years prior to November 8, 1984.
 
 #### (b) Waste minimization
 
@@ -36,7 +36,7 @@ Effective September 1, 1985, the manifest required by subsection (a)(5) of this 
 
 #### References in Text
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means theMarine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Amendments
 

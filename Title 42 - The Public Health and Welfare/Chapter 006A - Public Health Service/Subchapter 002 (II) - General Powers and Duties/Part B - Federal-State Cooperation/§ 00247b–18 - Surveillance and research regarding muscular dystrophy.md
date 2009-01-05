@@ -10,13 +10,37 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Coordination with centers of excellence
 
-The Secretary shall ensure that epidemiological information under subsections (a) and (b) of this section is made available to centers of excellence supported under section 283g(b) of this title by the Director of the National Institutes of Health.
+The Secretary shall ensure that epidemiological information under subsections (a) and (b) ofthis section is made available to centers of excellence supported under section 283g(b) of this title by the Director of the National Institutes of Health.
 
-#### (d) Authorization of appropriations
+#### (d) Data
+
+In carrying out this section, the Secretary may ensure that any data on patients that is collected as part of the Muscular Dystrophy STARnet (under a grant under this section) is regularly updated to reflect changes in patient condition over time.
+
+#### (e) Reports and study
+
+#### (1) Annual report
+
+&emsp;Not later than 18 months after October 8, 2008, and annually thereafter, the Director of the Centers for Disease Control and Prevention shall submit to the appropriate committees of the Congress a report—
+
+&emsp;&emsp;(A) concerning the activities carried out by MD STARnet site <sup>1</sup> funded under this section during the year for which the report is prepared;
+
+&emsp;&emsp;(B) containing the data collected and findings derived from the MD STARnet sites each fiscal year (as funded under a grant under this section during fiscal years 2008 through 2012); and
+
+&emsp;&emsp;(C) that every 2 years outlines prospective data collection objectives and strategies.
+
+#### (2) Tracking health outcomes
+
+&emsp;The Secretary may provide health outcome data on the health and survival of people with muscular dystrophy.
+
+#### (f) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828.)
+(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
+
+#### Amendments
+
+2008—Subsecs. (d) to (f). Pub. L. 110–361 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 #### Findings
 
@@ -26,7 +50,7 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 
 &emsp;“(2) Duchenne muscular dystrophy is genetically inherited, and mothers are the carriers in approximately 70 percent of all cases.
 
-&emsp;“(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her maleoffspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
+&emsp;“(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her male offspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
 
 &emsp;“(4) Duchenne is the most common lethal genetic disorder of childhood worldwide, affecting approximately 1 in every 3,500 boys worldwide.
 
@@ -57,4 +81,6 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress 
 #### Report to Congress
 
 Pub. L. 107–84, §6, Dec. 18, 2001, 115 Stat. 829, which directed the Secretary of Health and Human Services to prepare and submit to appropriate committees of Congress a report concerning the implementation of Pub. L. 107–84 not later than Jan. 1, 2003, and each Jan. 1 thereafter, was repealed by Pub. L. 109–482, title I, §104(b)(3)(H), Jan. 15, 2007, 120 Stat. 3694.
+
+<i><sup>1</sup></i><i> So in original. Probably should be plural.</i>
 

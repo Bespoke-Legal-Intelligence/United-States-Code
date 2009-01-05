@@ -126,7 +126,7 @@
 
 #### (20) Employee
 
-&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.
+&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered anemployee if his services were performed during 1951.
 
 #### (21) Levy
 
@@ -186,7 +186,7 @@
 
 #### (A) Foreign estate
 
-&emsp;&emsp;The term “foreign estate” means an estate the income of which, from sources withoutthe United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
+&emsp;&emsp;The term “foreign estate” means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
 
 #### (B) Foreign trust
 
@@ -274,7 +274,7 @@
 
 #### (39) Persons residing outside United States
 
-&emsp;If any citizen or resident of the United States does not reside in (and is not found in) any United States judicial district, such citizen or resident shall be treated as residing in the District of Columbia for purposes of any provision of this title relating to—
+&emsp;If any citizen or resident of the United States does not reside in (and is not found in)any United States judicial district, such citizen or resident shall be treated as residing in the District of Columbia for purposes of any provision of this title relating to—
 
 &emsp;&emsp;(A) jurisdiction of courts, or
 
@@ -353,6 +353,16 @@
 &emsp;&emsp;(C) registered with the Secretary for purposes of excise tax exemptions, and
 
 &emsp;&emsp;(D) registered by the Food and Drug Administration to collect blood.
+
+#### (50) Termination of United States citizenship
+
+#### (A) In general
+
+&emsp;&emsp;An individual shall not cease to be treated as a United States citizen before the date onwhich the individual's citizenship is treated as relinquished under section 877A(g)(4).
+
+#### (B) Dual citizens
+
+&emsp;&emsp;Under regulations prescribed by the Secretary, subparagraph (A) shall not apply to an individual who became at birth a citizen of the United States and a citizen of another country.
 
 #### (b) Definition of resident alien and nonresident alien
 
@@ -566,6 +576,8 @@
 
 &emsp;&emsp;(B) such status has not been revoked (and has not been administratively or judicially determined to have been abandoned).
 
+> &emsp;An individual shall cease to be treated as a lawful permanent resident of the United States if such individual commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country, does not waive the benefits of such treaty applicable to residents of the foreign country, and notifies the Secretary of the commencement of such treatment.
+
 #### (7) Presence in the United States
 
 &emsp;For purposes of this subsection—
@@ -676,7 +688,7 @@ For purposes of chapter 1—
 
 #### (C) Cogeneration facility
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facilitywhich uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
+&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facility which uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
 
 #### (D) Alternative energy facility
 
@@ -696,7 +708,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;&emsp;(ii) the service recipient (or a related entity) bears any significant financial burden if there is nonperformance under the contract or arrangement (other than for reasons beyond the control of the service provider),
 
-&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financial benefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
+&emsp;&emsp;&emsp;(iii) the service recipient (or a related entity) receives any significant financialbenefit if the operating costs of such facility are less than the standards of performance or operation under the contract or arrangement, or
 
 &emsp;&emsp;&emsp;(iv) the service recipient (or a related entity) has an option to purchase, or may be required to purchase, all or a part of such facility at a fixed and determinable price (other than for fair market value).
 
@@ -778,7 +790,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 &emsp;&emsp;An agreement meets the requirements of this subparagraph if such agreement contains a separate written statement separately signed by the lessee—
 
-&emsp;&emsp;&emsp;(i) under which the lessee certifies, under penalty of perjury, that it intends that more than 50 percent of the use of the property subject to such agreement is to be in a trade or business of the lessee, and
+&emsp;&emsp;&emsp;(i) under which the lessee certifies, under penalty of perjury, that it intends that more than 50 percent of the use of theproperty subject to such agreement is to be in a trade or business of the lessee, and
 
 &emsp;&emsp;&emsp;(ii) which clearly and legibly states that the lessee has been advised that it will not be treated as the owner of the property subject to the agreement for Federal income tax purposes.
 
@@ -884,31 +896,11 @@ The Secretary may prescribe regulations recharacterizing any multiple-party fina
 
 Any designation by the Commodity Futures Trading Commission of a contract market which could not have been made under the law in effect on the day before the date of the enactment of the Commodity Futures Modernization Act of 2000 shall apply for purposes of this title except to the extent provided in regulations prescribed by the Secretary.
 
-#### (n) Special rules for determining when an individual is no longer a United States citizen or long-term resident
-
-For purposes of this chapter—
-
-#### (1) United States citizens
-
-&emsp;An individual who would (but for this paragraph) cease to be treated as a citizen of the United States shall continue to be treated as a citizen of the United States until such individual—
-
-&emsp;&emsp;(A) gives notice of an expatriating act (with the requisite intent to relinquish citizenship) to the Secretary of State, and
-
-&emsp;&emsp;(B) provides a statement in accordance with section 6039G (if such a statement is otherwise required).
-
-#### (2) Long-term residents
-
-&emsp;A long-term resident (as defined in section 877(e)(2)) who would (but for this paragraph) be described in section 877(e)(1) shall be treated as a lawful permanent resident of the United States and as not described in section 877(e)(1) until such individual—
-
-&emsp;&emsp;(A) gives notice of termination of residency (with the requisite intent to terminate residency) to the Secretary of Homeland Security, and
-
-&emsp;&emsp;(B) provides a statement in accordance with section 6039G (if such a statement is otherwise required).
-
-#### (<i>o</i>) Convention or association of churches
+#### (n) Convention or association of churches
 
 For purposes of this title, any organization which is otherwise a convention or association of churches shall not fail to so qualify merely because the membership of such organization includes individuals as well as churches or because individuals have voting rights in such organization.
 
-#### (p) Cross references
+#### (<i>o</i>) Cross references
 
 #### (1) Other definitions
 
@@ -936,7 +928,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4,2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646.)
 
 #### Amendment of Section
 
@@ -973,6 +965,12 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+2008—Subsec. (a)(50). Pub. L. 110–245, §301(c)(1), added par. (50).
+
+Subsec. (b)(6). Pub. L. 110–245, §301(c)(2)(B), inserted concluding provisions.
+
+Subsecs. (n) to (p). Pub. L. 110–245, §301(c)(2)(C), redesignated subsecs. (<i>o</i>) and (p) as (n) and (<i>o</i>), respectively, and struck out former subsec. (n) which related to special rules for determining when an individual is no longer a United States citizen or long-term resident.
 
 2007—Subsec. (a)(36). Pub. L. 110–28, §8246(a)(1)(A), which directed the striking out of “income” in heading, was executed by substituting “Tax” for “Income tax” to reflect the probable intent of Congress.
 
@@ -1196,7 +1194,7 @@ Subsec. (a)(32). Pub. L. 91–172, §432(d), struck out references to subpars. (
 
 1968—Subsec. (a)(34)(B). Pub. L. 90–364 substituted “section 6154(c)” for “section 6016(b)”.
 
-1966—Subsec. (a)(31). Pub. L. 89–809 substituted “, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States,” for “from sources without the United States”.
+1966—Subsec. (a)(31). Pub. L. 89–809 substituted “, from sources without the United States which is noteffectively connected with the conduct of a trade or business within the United States,” for “from sources without the United States”.
 
 Pub. L. 89–368 added par. (34).
 
@@ -1217,6 +1215,10 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 1959—Subsec. (a)(9). Pub. L. 86–70, §22(g), substituted “the Territory of Hawaii” for “the Territories of Alaska and Hawaii”.
 
 Subsec. (a)(10). Pub. L. 86–70, §22(h), substituted “Territory of Hawaii” for “Territories”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 applicable to any individual whose expatriation date is on or after June 17, 2008, see section 301(g)(1) of Pub. L. 110–245, set out as an Effective Date note under section 2801 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -1256,7 +1258,7 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 #### Effective Date of 1997 Amendment
 
-Section 1151(b) of Pub. L. 105–34 provided that: “Any regulations issued with respect to the amendmentmade by subsection (a) \[amending this section\] shall apply to partnerships created or organized after the date determined under section 7805(b) of the Internal Revenue Code of 1986 (without regard to paragraph (2) thereof) with respect to such regulations.”
+Section 1151(b) of Pub. L. 105–34 provided that: “Any regulations issued with respect to the amendment made by subsection (a) \[amending this section\] shall apply to partnerships created or organized after the date determined under section 7805(b) of the Internal Revenue Code of 1986 (without regard to paragraph (2) thereof) with respect to such regulations.”
 
 Section 1174(c) of Pub. L. 105–34 provided that:
 
@@ -1362,7 +1364,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Transitional rule for applying substantial presence test.—
 
-&emsp;“(A) If an alien individual was not a resident of the United States as of the close of calendar year 1984, the determination of whether such individual meets the substantial presence test of section 7701(b)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be made by only taking into account presence after 1984.
+&emsp;“(A) If an alien individual was not a resident of the United States as of the close of calendar year 1984, the determination of whether such individual meetsthe substantial presence test of section 7701(b)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be made by only taking into account presence after 1984.
 
 &emsp;“(B) If an alien individual was a resident of the United States as of the close of calendar year 1984, but was not a resident of the United States as of the close of calendar year 1983, the determination of whether such individual meets such substantial presence test shall be made by only taking into account presence in the United States after 1983.
 

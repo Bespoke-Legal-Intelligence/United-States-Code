@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;All Tennessee Valley Authority property associated with the administration of the Recreation Area, including any property purchased with Federal funds appropriated for the management of the Tennessee Valley Authority land, shall be available for transfer to the Secretary.
+&emsp;&emsp;All Tennessee Valley Authority property associated with the administration of theRecreation Area, including any property purchased with Federal funds appropriated for the management of the Tennessee Valley Authority land, shall be available for transfer to the Secretary.
 
 #### (B) Property included
 
@@ -46,7 +46,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except fortitle III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

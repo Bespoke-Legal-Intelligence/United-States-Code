@@ -56,7 +56,7 @@ Reallocation by secretary.—The Secretary shall allocate, for purposes of admin
 
 (6)
 
-Use of administrative funds.—Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1)) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) without regard to the basis on which the funds were earned and allocated.
+Use of administrative funds.—Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1))may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) without regard to the basis on which the funds were earned and allocated.
 
 (7) Where the Secretary is responsible for the administration of programs under this chapter or the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be retained by the Secretary for the Secretary's use in the administration of such programs.
 
@@ -186,7 +186,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (B) Infrastructure development plan
 
-&emsp;&emsp;To be eligible to receive a grant under this paragraph, a school or school food authority shall submit to the State a plan to purchase or upgrade technology and information management systems that addresses potential cost savings and methods to improve program integrity, including—
+&emsp;&emsp;To be eligible to receive a grant under this paragraph, a school or school food authorityshall submit to the State a plan to purchase or upgrade technology and information management systems that addresses potential cost savings and methods to improve program integrity, including—
 
 &emsp;&emsp;&emsp;(i) processing and verification of applications for free and reduced price meals;
 
@@ -252,7 +252,7 @@ Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read a
 
 Subsec. (i). Pub. L. 104–193, §724(a)(2), redesignated subsec. (i) as (g).
 
-1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
+1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B ofthe National School Lunch Act” for “projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
 
 Subsec. (a)(9). Pub. L. 103–448, §202(a), added par. (9).
 

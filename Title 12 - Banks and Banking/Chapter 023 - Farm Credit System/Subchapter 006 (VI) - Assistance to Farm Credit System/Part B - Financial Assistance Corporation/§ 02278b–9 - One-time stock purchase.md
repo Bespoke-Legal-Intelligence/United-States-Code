@@ -26,7 +26,7 @@
 
 &emsp;(B) The program shall provide, with respect to each issuance of debt obligations under section 2278b–6(a) of this title, that each System institution originally required to purchase stock under paragraph (1), or the successor thereto, shall purchase Corporation stock in an amount determined by multiplying the amount of stock such institution was originally required to purchase under that paragraph by a percentage equal to the percentage which the amount of the issuance bears to $4,000,000,000.
 
-&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or\(2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
+&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
 
 #### (b) Computations
 

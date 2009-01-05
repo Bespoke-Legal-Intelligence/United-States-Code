@@ -64,5 +64,7 @@ Regulations.—The Secretary shall issue such regulations as may be necessary to
 
 #### Effective Date
 
-Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\].”
+Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 110–244, title III, §301(d), June 6, 2008, 122 Stat. 1616, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 31136 of this title\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\].”
+
+\[Amendment by Pub. L. 110–244 to section 4116(f) of Pub. L. 109–59, set out above, effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to betreated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as an Effective Date of 2008 note under section 101 of Title 23, Highways.\]
 

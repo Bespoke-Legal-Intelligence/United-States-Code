@@ -26,7 +26,7 @@ Except as provided in subsection (b), no gain or loss shall be recognized to a c
 
 #### (3) Special rule for certain distributions of partnership or trust interests
 
-&emsp;If the property distributed consists of an interest in a partnership or trust, the Secretary may by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
+&emsp;If the property distributed consists of an interest in a partnership or trust, the Secretarymay by regulations provide that the amount of the gain recognized under paragraph (1) shall be computed without regard to any loss attributable to property contributed to the partnership or trust for the principal purpose of recognizing such loss on the distribution.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, §905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, §2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, §1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, §703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, §2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, §223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, §54(a), title VII, §712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, §631(c), Oct. 22, 1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
 
@@ -42,7 +42,7 @@ Subsec. (b)(3). Pub. L. 100–647, §1006(e)(8)(B), added par. (3).
 
 1984—Subsec. (d). Pub. L. 98–369, §54(a)(3), substituted “Distributions of appreciated property” for “Appreciated property used to redeem stock” in heading.
 
-Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applicationsof subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
+Subsec. (d)(1). Pub. L. 98–369, §54(a)(1), substituted “This subsection shall be applied after the applications of subsections (b) and (c)” for “Subsections (b) and (c) shall not apply to any distribution to which this subsection applies” in provisions following subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 98–369, §54(a)(1), struck out “of part or all of his stock in such corporation” before “and”.
 
@@ -90,7 +90,7 @@ Section 54(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XV
 
 “(1)
 
-Subsection (a).—Except as otherwise provided in this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to distributions declared on or after June 14, 1984, in taxable years ending after such date.
+Subsection (a).—Except as otherwise provided in this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to distributionsdeclared on or after June 14, 1984, in taxable years ending after such date.
 
 “(2)
 
@@ -122,7 +122,7 @@ Special rule for certain distributions before january 1, 1988.—
 
 &emsp;&emsp;“(i)
 
-In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248,1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
+In general.—In the case of a transaction to which this subparagraph applies, subparagraph (A) shall be applied by substituting ‘1988’ for ‘1985’ and the amendments made by subtitle D of title VI of the Tax Reform Act of 1986 \[sections 631 to 634 of Pub. L. 99–514, enacting sections 336 and 337 of this title, amending this section and sections 26, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, repealing sections 333, 336, and 337 of this title, and enacting provisions set out as a note under section 301 of this title\] shall not apply.
 
 &emsp;&emsp;“(ii)
 

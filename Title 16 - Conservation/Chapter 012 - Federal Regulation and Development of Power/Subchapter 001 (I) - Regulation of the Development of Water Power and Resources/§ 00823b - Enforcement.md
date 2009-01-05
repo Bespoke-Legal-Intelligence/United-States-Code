@@ -8,7 +8,7 @@ The Commission shall monitor and investigate compliance with each license and pe
 
 After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where any licensee or exemptee is found by the Commission:
 
-&emsp;(1) to have knowingly violated a final order issued under subsection (a) of this sectionafter completion of judicial review (or the opportunity for judicial review); and
+&emsp;(1) to have knowingly violated a final order issued under subsection (a) of this section after completion of judicial review (or the opportunity for judicial review); and
 
 &emsp;(2) to have been given reasonable time to comply fully with such order prior to commencing any revocation proceeding.
 
@@ -24,7 +24,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 (2)(A) In the case of the violation of a final order issued under subsection (a) of this section, or unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Commission shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
-(B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Commission assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in Part,<sup>1</sup> the order of the Commission, or the court may remand the proceeding to the Commission for such further action as the court may direct.
+(B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Commission assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in Part,<sup>1</sup> the order of theCommission, or the court may remand the proceeding to the Commission for such further action as the court may direct.
 
 (3)(A) In the case of any civil penalty with respect to which the procedures of this paragraph have been elected, the Commission shall promptly assess such penalty, by order, after the date of the receipt of the notice under paragraph (1) of the proposed penalty.
 
@@ -44,7 +44,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 #### Effective Date
 
-Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 ofPub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
+Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

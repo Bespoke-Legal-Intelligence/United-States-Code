@@ -2,7 +2,7 @@
 
 #### (a) Detention of aliens
 
-For the purpose of determining whether aliens (including alien crewmen) arriving at ports ofthe United States belong to any of the classes inadmissible under this chapter, by reason of being afflicted with any of the diseases or mental or physical defects or disabilities set forth in section 1182(a) of this title, or whenever the Attorney General has received information showing that any aliens are coming from a country or have embarked at a place where any of such diseases are prevalent or epidemic, such aliens shall be detained by the Attorney General for a sufficient time to enable the immigration officers and medical officers to subject such aliens to observation and an examination sufficient to determine whether or not they belong to inadmissible classes.
+For the purpose of determining whether aliens (including alien crewmen) arriving at ports of the United States belong to any of the classes inadmissible under this chapter, by reason of being afflicted with any of the diseases or mental or physical defects or disabilities set forth in section 1182(a) of this title, or whenever the Attorney General has received information showing that any aliens are coming from a country or have embarked at a place where any of such diseases are prevalent or epidemic, such aliens shall be detained by the Attorney General for a sufficient time to enable the immigration officers and medical officers to subject such aliens to observation and an examination sufficient to determine whether or not they belong to inadmissible classes.
 
 #### (b) Physical and mental examination
 
@@ -16,7 +16,7 @@ If an examining medical officer determines that an alien arriving in the United 
 
 #### Codification
 
-The text of section 1224 of this title, which was transferred to subsec. (b) of this section by Pub. L. 104–208, §308(b)(3)(C), was based on acts June 27, 1952, ch. 477, title II, ch. 4, §234, 66 Stat. 198; Oct. 24, 1988, Pub. L. 100–525, §9(k), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(10), 104 Stat. 5083; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(b)(3)(A), (B), (d)(3)(A), 371(b)(3), 110 Stat. 3009–615, 3009–617, 3009–645.
+The text of section 1224 of this title, which was transferred to subsec. (b) of this section by Pub. L. 104–208,§308(b)(3)(C), was based on acts June 27, 1952, ch. 477, title II, ch. 4, §234, 66 Stat. 198; Oct. 24, 1988, Pub. L. 100–525, §9(k), 102 Stat. 2620; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(10), 104 Stat. 5083; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(b)(3)(A), (B), (d)(3)(A), 371(b)(3), 110 Stat. 3009–615, 3009–617, 3009–645.
 
 #### Amendments
 
@@ -50,5 +50,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Designation of United States Military Physicians as Civil Surgeons
 
-Pub. L. 102–484, div. A, title X, §1079, Oct. 23, 1992, 106 Stat. 2514, as amended by Pub. L. 104–208, div. C, titleIII, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding any other provision of law, United States military physicians with not less than four years professional experience shall be considered to be civil surgeons for the purpose of the performance of physical examinations required under section 232(b) of the Immigration and Nationality Act (8 U.S.C. 1224 \[8 U.S.C. 1222(b)\]) of special immigrants described in section 101(a)(27)(K) of such Act (8 U.S.C. 1101(a)(27)(K)).”
+Pub. L. 102–484, div. A, title X, §1079, Oct. 23, 1992, 106 Stat. 2514, as amended by Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding any other provision of law, United States military physicians with not less than four years professional experience shall be considered to be civil surgeons for the purpose of the performance of physical examinations required under section 232(b) of the Immigration and Nationality Act (8 U.S.C. 1224 \[8 U.S.C. 1222(b)\]) of special immigrants described in section 101(a)(27)(K) of such Act (8 U.S.C. 1101(a)(27)(K)).”
 

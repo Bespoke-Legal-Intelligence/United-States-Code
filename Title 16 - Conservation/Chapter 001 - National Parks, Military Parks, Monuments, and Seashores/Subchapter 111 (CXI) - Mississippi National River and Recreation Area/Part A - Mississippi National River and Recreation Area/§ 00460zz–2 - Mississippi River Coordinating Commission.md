@@ -76,7 +76,7 @@ As a coordinator and advisory organization, the Commission shall assist the Secr
 
 &emsp;(3) Policies and programs for the conservation and protection of the scenic, historical, cultural, natural and scientific values of the Area.
 
-&emsp;(4) Policies and programs for the commercial utilization of the Area and its related natural resources, consistent with the protection of the values for which the Area is established as the Mississippi National River and Recreation Area.
+&emsp;(4) Policies and programs for the commercial utilization of the Area and its related natural resources, consistent with the protection of the values for which the Area is established asthe Mississippi National River and Recreation Area.
 
 #### (h) Staff
 
@@ -132,7 +132,7 @@ The Commission shall submit the plan to the Secretary and the Governor of Minnes
 
 #### (<i>l</i>) Interim program
 
-Prior to the adoption of the Commission's plan, the Secretary and the Commission shall monitor all land and water use activities within the Area to ensure that said activities are in keeping with the purposes of this part, and shall advise and cooperate with the appropriate Federal, State, and local governmental entities to minimize adverse impacts on the values for which the Area is established.
+Prior to the adoption of the Commission's plan, the Secretary and the Commission shallmonitor all land and water use activities within the Area to ensure that said activities are in keeping with the purposes of this part, and shall advise and cooperate with the appropriate Federal, State, and local governmental entities to minimize adverse impacts on the values for which the Area is established.
 
 #### (m) Commission review
 

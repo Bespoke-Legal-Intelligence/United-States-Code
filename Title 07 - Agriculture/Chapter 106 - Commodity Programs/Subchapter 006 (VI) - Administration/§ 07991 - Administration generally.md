@@ -32,9 +32,11 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public <sup>2</sup> 106–170 (113 Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
 
-&emsp;(1) the advance payment of direct payments and counter-cyclical payments under subchapter I and subchapter III of this chapter; and
+&emsp;(1) the advance payment of direct payments and counter-cyclical payments under subchapter I and subchapter III of this chapter;
 
-&emsp;(2) the single payment of compensation for eligible peanut quota holders under section 7960 of this title.
+&emsp;(2) the single payment of compensation for eligible peanut quota holders under section 7960 of this title; and
+
+&emsp;(3) the advance payment of direct payments and counter-cyclical payments under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
 
 #### (e) Adjustment authority related to Uruguay Round compliance
 
@@ -46,7 +48,7 @@ The protection that was afforded producers that had an option to elect to accele
 
 &emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
-(Pub. L. 107–171, title I, §1601, May 13, 2002, 116 Stat. 211.)
+(Pub. L. 107–171, title I, §1601, May 13, 2002, 116 Stat. 211; Pub. L. 110–234, title I, §1601(e), May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, §4(a), title I, §1601(e), June 18, 2008, 122 Stat. 1664, 1729.)
 
 #### References in Text
 
@@ -54,9 +56,23 @@ For definition of “this chapter”, referred to in subsecs. (a) to (c), see Re
 
 The Federal Agriculture Improvement and Reform Act of 1996, referred to in subsec. (d), is Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-Subchapter III of this chapter, referred to in subsecs. (d)(1), was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III of this chapter, referred to in subsec. (d)(1), was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 Subchapter V of this chapter, referred to in subsec. (e)(1), was in the original “subtitle E”, meaning subtitle E (§§1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 450<i>l</i>, 1637a, 4501–4504, 4507, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–246, §1601(e), added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “known”.</i>
 

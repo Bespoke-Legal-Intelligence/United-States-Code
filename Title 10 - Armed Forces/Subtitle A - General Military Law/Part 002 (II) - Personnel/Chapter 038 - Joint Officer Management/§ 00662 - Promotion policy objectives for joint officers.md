@@ -6,15 +6,21 @@ Qualifications.—The Secretary of Defense shall ensure that the qualifications 
 
 &emsp;(1) officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
 
-&emsp;(2) officers who are serving in or have served in joint duty assignments are expected, as a group, to be promoted to the next higher gradeat a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
+&emsp;(2) officers in the grade of major (or in the case of the Navy, lieutenant commander) or above who have been designated as a joint qualified officer are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
 
 (b)
 
-Annual Report.—Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments, especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1), (2), and (3) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
+Annual Report.—Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments or on the Joint Staff, and officers who have been designated as a joint qualified officer in the grades of major (or in the case of the Navy, lieutenant commander) through colonel (or in the case of the Navy, captain), especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1) and (2) of subsection (a). If such promotion rates fail to meet such objectives for any fiscalyear, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 107–107, div. A, title V, §521(b), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title X, §1062(a)(4), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §535, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §517, Oct. 17, 2006, 120 Stat. 2190.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 107–107, div. A, title V, §521(b), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title X, §1062(a)(4), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §535, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §517, Oct. 17, 2006, 120 Stat. 2190; Pub. L. 110–181, div. A, title X, §1063(a)(3), Jan. 28, 2008, 122 Stat. 321; Pub. L. 110–417, \[div. A\], title V, §523, Oct. 14, 2008, 122 Stat. 4446.)
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–417, §523(1), which directed substitution of “officers in the grade of major (or in the case of the Navy, lieutenant commander) or above who have been designated as a joint qualified officer” for “officers who are serving or have served in joint duty assignments”, was executed by making the substitution for “officers who are serving in or have served in joint duty assignments” to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 110–417, §523(2), inserted “or on the Joint Staff, and officers who have been designated as a joint qualified officer in the grades of major (or in the case of the Navy, lieutenant commander) through colonel (or in the case of the Navy, captain)” after “joint duty assignments”.
+
+Pub. L. 110–181 substituted “paragraphs (1) and (2) of subsection (a)” for “paragraphs (1), (2), and (3) of subsection (a)”.
 
 2006—Subsec. (a). Pub. L. 109–364 inserted “and” at end of par. (1), added par. (2), and struck out former pars. (2) and (3) which read as follows:
 

@@ -8,7 +8,7 @@
 
 #### (2) Director
 
-&emsp;The Secretary shall appoint a Director to manage the activities of the AgriculturalWeather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
+&emsp;The Secretary shall appoint a Director to manage the activities of the Agricultural Weather Office and to advise the Secretary on scientific and programmatic coordination for climate, weather, and remote sensing.
 
 #### (b) Authority
 
@@ -54,9 +54,23 @@ In selecting among applications for grants under subsection (c) of this section,
 
 &emsp;(3) the impact of weather on economic and environmental costs in agricultural production.
 
-(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6), Dec. 13, 1991, 105 Stat. 1865.)
+(Pub. L. 101–624, title XVI, §1638, Nov. 28, 1990, 104 Stat. 3748; Pub. L. 102–237, title IV, §407(6),Dec. 13, 1991, 105 Stat. 1865; Pub. L. 110–234, title VII, §7511(c)(18), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(18), June 18, 2008, 122 Stat. 1664, 2030.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2030, provided that, effective Oct. 1, 2009, subsection (b) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research Service” in paragraphs (3) and (5).</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 1991—Subsec. (b)(5). Pub. L. 102–237 substituted “National Science Foundation” for “National Sciences Foundation”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(18) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and a territory or possession of the United States; and
 
-&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph (A) of this paragraph (1) and a Federal-State authority or instrumentality;
+&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph\(A) of this paragraph (1) and a Federal-State authority or instrumentality;
 
 &emsp;(2) “local government” means—
 
@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
 
-&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, includingany Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
+&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
 &emsp;(3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 

@@ -4,7 +4,7 @@ Subpart D—Business Related Credits
 | :--- | ---: |
 | [38\.](%C2%A7%2000038%20-%20General%20business%20credit.md) | General business credit. |
 | [39\.](%C2%A7%2000039%20-%20Carryback%20and%20carryforward%20of%20unused%20credits.md) | Carryback and carryforward of unused credits. |
-| [40\.](%C2%A7%2000040%20-%20Alcohol%20used%20as%20fuel.md) | Alcohol used as fuel. |
+| [40\.](%C2%A7%2000040%20-%20Alcohol%2C%20etc.%2C%20used%20as%20fuel.md) | Alcohol, etc., used as fuel. |
 | [40A.](%C2%A7%2000040A%20-%20Biodiesel%20and%20renewable%20diesel%20used%20as%20fuel.md) | Biodiesel and renewable diesel used as fuel. |
 | [41\.](%C2%A7%2000041%20-%20Credit%20for%20increasing%20research%20activities.md) | Credit for increasing research activities. |
 | 41\.<sup>1</sup> | Employee stock ownership credit. |
@@ -37,10 +37,19 @@ Subpart D—Business Related Credits
 | [45L.](%C2%A7%2000045L%20-%20New%20energy%20efficient%20home%20credit.md) | New energy efficient home credit. |
 | [45M.](%C2%A7%2000045M%20-%20Energy%20efficient%20appliance%20credit.md) | Energy efficient appliance credit. |
 | [45N.](%C2%A7%2000045N%20-%20Mine%20rescue%20team%20training%20credit.md) | Mine rescue team training credit. |
+| [45O.](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md) | Agricultural chemicals security credit. |
+| [45P.](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md) | Employer wage credit for employees who are active duty members of the uniformed services. |
+| [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–343, div. B, title I, §115(c), Oct. 3, 2008, 122 Stat. 3831, which directed amendment of table of sections for subpart B by adding item 45Q at end, was executed by adding item 45Q at end of table of sections for this subpart to reflect the probable intent of Congress.
+
+Pub. L. 110–245, title I, §111(d), June 17, 2008, 122 Stat. 1635, added item 45P.
+
+Pub. L. 110–234, title XV, §§15321(b)(3)(B), 15343(d), May 22, 2008, 122 Stat. 1513, 1520, and Pub. L. 110–246, title XV, §§15321(b)(3)(B), 15343(d), June 18, 2008, 122 Stat. 2275, 2282, made identical amendments, inserting “, etc.,” after “Alcohol” in item 40 and adding item 45O. The amendments by Pub. L. 110–234 were repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 2006—Pub. L. 109–432, div. A, title IV, §405(d), Dec. 20, 2006, 120 Stat. 2958, added item 45N.
 
@@ -79,7 +88,7 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 
 - [&sect; 00038 - General business credit](%C2%A7%2000038%20-%20General%20business%20credit.md)
 - [&sect; 00039 - Carryback and carryforward of unused credits](%C2%A7%2000039%20-%20Carryback%20and%20carryforward%20of%20unused%20credits.md)
-- [&sect; 00040 - Alcohol used as fuel](%C2%A7%2000040%20-%20Alcohol%20used%20as%20fuel.md)
+- [&sect; 00040 - Alcohol, etc., used as fuel](%C2%A7%2000040%20-%20Alcohol%2C%20etc.%2C%20used%20as%20fuel.md)
 - [&sect; 00040A - Biodiesel and renewable diesel used as fuel](%C2%A7%2000040A%20-%20Biodiesel%20and%20renewable%20diesel%20used%20as%20fuel.md)
 - [&sect; 00041 - Credit for increasing research activities](%C2%A7%2000041%20-%20Credit%20for%20increasing%20research%20activities.md)
 - [&sect; 00042 - Low-income housing credit](%C2%A7%2000042%20-%20Low-income%20housing%20credit.md)
@@ -108,3 +117,6 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045L - New energy efficient home credit](%C2%A7%2000045L%20-%20New%20energy%20efficient%20home%20credit.md)
 - [&sect; 00045M - Energy efficient appliance credit](%C2%A7%2000045M%20-%20Energy%20efficient%20appliance%20credit.md)
 - [&sect; 00045N - Mine rescue team training credit](%C2%A7%2000045N%20-%20Mine%20rescue%20team%20training%20credit.md)
+- [&sect; 00045O - Agricultural chemicals security credit](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md)
+- [&sect; 00045P - Employer wage credit for employees who are active duty members of the uniformed services](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md)
+- [&sect; 00045Q - Credit for carbon dioxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md)

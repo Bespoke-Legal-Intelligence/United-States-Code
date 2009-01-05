@@ -10,7 +10,7 @@ Summons or other process in any such suit shall be served upon the Attorney Gene
 
 #### (c) Joinder in suits involving use of interstate streams by State
 
-Nothing in this section shall be construed as authorizing the joinder of the United States in any suit or controversy in the Supreme Court ofthe United States involving the right of States to the use of the water of any interstate stream.
+Nothing in this section shall be construed as authorizing the joinder of the United States in any suit or controversy in the Supreme Court of the United States involving the right of States to the use of the water of any interstate stream.
 
 (July 10, 1952, ch. 651, title II, §208(a)–(c), 66 Stat. 560.)
 

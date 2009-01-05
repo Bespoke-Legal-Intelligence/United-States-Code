@@ -6,7 +6,7 @@ The Congress makes the following statements concerning national policy with resp
 
 &emsp;(2) It continues to be the immigration policy of the United States that—
 
-&emsp;&emsp;(A) aliens within the Nation's borders not depend on public resources to meet their needs, but rather rely on their own capabilities and the resources of their families, their sponsors, and private organizations, and
+&emsp;&emsp;(A) aliens within the Nation's borders not depend on public resources to meet theirneeds, but rather rely on their own capabilities and the resources of their families, their sponsors, and private organizations, and
 
 &emsp;&emsp;(B) the availability of public benefits not constitute an incentive for immigration to the United States.
 
@@ -25,4 +25,8 @@ The Congress makes the following statements concerning national policy with resp
 #### References in Text
 
 This chapter, referred to in par. (7), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, as amended, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–328, §1, Sept. 30, 2008, 122 Stat. 3567, provided that: “This Act \[amending section 1612 of this title and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3304 of Title 26\] may be cited as the ‘SSI Extension for Elderly and Disabled Refugees Act’.”
 

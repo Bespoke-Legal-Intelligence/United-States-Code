@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “civilian nautical school” means a school operated in the United States (except the United States Merchant Marine Academy, a State maritime academy, or another school operated by the United States Government) that offers instruction to individuals quartered on a vessel primarily to train them for service in the merchant marine.
+Definition.—In this section, the term “civilian nautical school” means a school operatedin the United States (except the United States Merchant Marine Academy, a State maritime academy, or another school operated by the United States Government) that offers instruction to individuals quartered on a vessel primarily to train them for service in the merchant marine.
 
 (b)
 

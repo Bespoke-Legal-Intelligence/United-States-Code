@@ -32,7 +32,7 @@ To be eligible for insurance under this section, a mortgage to provide housing f
 
 &emsp;(6) bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee; and
 
-&emsp;(7) cover a property or project which is approved for mortgage insurance prior to the beginning of construction or rehabilitation, with 50 per centum or more of the units therein specially designed for the use and occupancy of elderly persons in accordance with standards established by the Secretary, and which may include such commercial and special facilitiesas the Secretary deems adequate to serve the occupants.
+&emsp;(7) cover a property or project which is approved for mortgage insurance prior to the beginning of construction or rehabilitation, with 50 per centum or more of the units therein specially designed for the use and occupancy of elderly persons in accordance with standards established by the Secretary, and which may include such commercial and special facilities as the Secretary deems adequate to serve the occupants.
 
 #### (d) Release of part of mortgaged property or project from lien; preferences and priorities in rental of dwellings
 
@@ -44,7 +44,7 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (<i>l</i>), and
 
 #### (f) Handicapped family units and facilities; rental preference or priority
 
-Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any person or family qualifying as a handicapped family as defined in section 1701q <sup>2</sup> of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.
+Notwithstanding any of the provisions of this section, the housing provided under this section may include family units which are specially designed for the use and occupancy of any personor family qualifying as a handicapped family as defined in section 1701q <sup>2</sup> of this title, and such special facilities as the Secretary deems adequate to serve handicapped families (as so defined). The Secretary may also prescribe procedures to secure to such families preference or priority of opportunity to rent the living units specially designed for their use and occupancy.
 
 (June 27, 1934, ch. 847, title II, §231, as added Pub. L. 86–372, title II, §201(a), Sept. 23, 1959, 73 Stat. 665; amended Pub. L. 87–70, title VI, §612(m), June 30, 1961, 75 Stat. 183; Pub. L. 88–560, title I, §107(e), title II, §203(c), Sept. 2, 1964, 78 Stat. 776, 784; Pub. L. 89–117, title II, §207(e), title XI, §1108(<i>l</i>), Aug. 10, 1965, 79 Stat. 467, 505; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17; Pub. L. 90–301, §3(d), May 7, 1968, 82 Stat. 114; Pub. L. 91–152, title I, §113(g), Dec. 24, 1969, 83 Stat. 384; Pub. L. 93–383, title III, §§303(f), 304(f), Aug. 22, 1974, 88 Stat. 677, 678; Pub. L. 94–173, §3, Dec. 23, 1975, 89 Stat. 1027; Pub. L. 94–375, §8(a), (b)(6), Aug. 3, 1976, 90 Stat. 1071, 1072; Pub. L. 96–153, title III, §314, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(e), Oct. 8, 1980, 94 Stat. 1642; Pub. L. 97–35, title III, §339B(a), Aug. 13, 1981, 95 Stat. 417; Pub. L. 97–377, title I, §101(g), Dec. 21, 1982, 96 Stat. 1908; Pub. L. 98–181, title IV, §§404(b)(9), 446(e), Nov. 30, 1983, 97 Stat. 1209, 1228; Pub. L. 100–242, title IV, §426(f), (h), Feb. 5, 1988, 101 Stat. 1916; Pub. L. 102–550, title V, §509(f), Oct. 28, 1992, 106 Stat. 3783; Pub. L. 107–73, title II, §213(f), Nov. 26, 2001, 115 Stat. 677; Pub. L. 107–326, §5(b)(6), Dec. 4, 2002, 116 Stat. 2795; Pub. L. 108–186, title III, §302(b), Dec. 16, 2003, 117 Stat. 2692; Pub. L. 110–161, div. K, title II, §221(1), Dec. 26, 2007, 121 Stat. 2436.)
 
@@ -84,7 +84,7 @@ Subsec. (c)(6). Pub. L. 98–181, §404(b)(9), substituted provision that the in
 
 1979—Subsec. (c)(2). Pub. L. 96–153 substituted “75 per centum” for “50 per centum” and inserted exception that the dollar amount limitations may be exceeded by not be exceed 90 per centum where the Secretary determines it to be necessary.
 
-1976—Subsec. (c)(2). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”, “$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640” for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
+1976—Subsec. (c)(2). Pub. L. 94–375 substituted “50 per centum in any geographical area” for “75 per centum in any geographical area”, “$18,450” for “$12,300”, “$20,625” for “$17,188”, “$24,630” for “$20,525”, “$29,640”for “$24,700”, “$34,846” for “$29,038”, “$20,962” for “$13,975”, “$24,030” for “$20,025”, “$29,220” for “$24,350”, “$37,800” for “$31,500”, and “$41,494” for “$34,578”.
 
 1975—Subsec. (c)(2). Pub. L. 94–173 raised from 45 per centum to 75 per centum the amount by which any dollar limitation may, by regulation, be increased.
 

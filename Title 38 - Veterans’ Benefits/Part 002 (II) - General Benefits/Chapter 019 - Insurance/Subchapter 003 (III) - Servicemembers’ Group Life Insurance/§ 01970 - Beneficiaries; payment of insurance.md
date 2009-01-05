@@ -14,7 +14,7 @@ Fifth, if none of the above, to the duly appointed executor or administrator of 
 
 Sixth, if none of the above, to other next of kin of such member or former member entitled under the laws of domicile of such member or former member at the time of the insured's death.
 
-(b) If any person otherwise entitled to payment under this section does not make claim therefor within one year after the death of the member or former member, or if payment to such person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if such person had predeceased the member or former member, and any such payment shall be a bar to recovery by any other person.
+(b) If any person otherwise entitled to payment under this section does not make claim therefor within one year after the death of themember or former member, or if payment to such person within that period is prohibited by Federal statute or regulation, payment may be made in the order of precedence as if such person had predeceased the member or former member, and any such payment shall be a bar to recovery by any other person.
 
 (c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled under the order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any such claim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
 

@@ -148,7 +148,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 749, §307(b) (3d, last sentences); ad
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1118; added Dec. 19, 1985, Pub. L. 99–190, §328(a), 99 Stat. 1289.
 
-In subsection (a)(1), the word “Administrator” in section 307(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750) is retained on authority of49:106(g). The words “within the limits of available appropriations made by the Congress” are omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “existing agencies of the Government” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the word “Administrator” in section 307(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750) is retained on authority of 49:106(g). The words “within the limits of available appropriations made by the Congress” are omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “existing agencies of the Government” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), before clause (1), the words “Notwithstanding the provisions of section 1341 of title 31 or any other provision of law” are omitted as surplus.
 
@@ -228,7 +228,7 @@ Substitution or Addition of Parties to Judicial Actions.—If, on the date of tr
 
 “(e)
 
-Continued Jurisdiction Over Actions Transferred.—Orders and actions of the Administrator ofthe Federal Aviation Administration in the exercise of functions transferred by this title shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Department of Commerce or the National Oceanic and Atmospheric Administration, or any office or officer of such Department or Administration, in the exercise of such functions immediately preceding their transfer.
+Continued Jurisdiction Over Actions Transferred.—Orders and actions of the Administrator of the Federal Aviation Administration in the exercise of functions transferred by this title shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Department of Commerce or the National Oceanic and Atmospheric Administration, or any office or officer of such Department or Administration, in the exercise of such functions immediately preceding their transfer.
 
 “(f)
 

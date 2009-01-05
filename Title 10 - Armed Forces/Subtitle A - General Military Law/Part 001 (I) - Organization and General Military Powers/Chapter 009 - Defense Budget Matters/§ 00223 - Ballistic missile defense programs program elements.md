@@ -76,6 +76,108 @@ Subsec. (c). Pub. L. 108–136, §221(b)(1), substituted “for a fiscal year fo
 
 Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.”
 
+#### Budget and Acquisition Requirements for Missile Defense Agency Activities
+
+Pub. L. 110–181, div. A, title II, §223, Jan. 28, 2008, 122 Stat. 39, provided that:
+
+“(a)
+
+Revised Budget Structure.—The budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2009 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) shall set forth separately amounts requested for the Missile Defense Agency for each of the following:
+
+&emsp;“(1) Research, development, test, and evaluation.
+
+&emsp;“(2) Procurement.
+
+&emsp;“(3) Operation and maintenance.
+
+&emsp;“(4) Military construction.
+
+“(b)
+
+Revised Budget Structure for Fiscal Year 2009.—The budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2009 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) shall—
+
+&emsp;“(1) identify all known and estimated operation and support costs; and
+
+&emsp;“(2) set forth separately amounts requested for the Missile Defense Agency for each of the following:
+
+&emsp;&emsp;“(A) Research, development, test, and evaluation.
+
+&emsp;&emsp;“(B) Procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+
+&emsp;&emsp;“(C) Military construction.
+
+“(c)
+
+Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
+
+&emsp;“(1) may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and
+
+&emsp;“(2) may not be used for—
+
+&emsp;&emsp;“(A) military construction activities; or
+
+&emsp;&emsp;“(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+
+“(d)
+
+Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009
+
+and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an ‘incremental’ basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a ‘full funding’ basis.
+
+“(e)
+
+Relationship to Other Law.—Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1837; 10 U.S.C. 2431 note).
+
+“(f)
+
+Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.
+
+“(g)
+
+Objectives for Acquisition Activities.—
+
+&emsp;“(1)
+
+In general.—Commencing as soon as practicable, but not later than the submittal to Congress of the budget for the President for fiscal year 2009 under section 1105(a) of title 31, United States Code, the Missile Defense Agency shall take appropriate actions to achieve the following objectives in its acquisition activities:
+
+&emsp;&emsp;“(A) Improved transparency.
+
+&emsp;&emsp;“(B) Improved accountability.
+
+&emsp;&emsp;“(C) Enhanced oversight.
+
+&emsp;“(2)
+
+Required actions.—In order to achieve the objectives specified in paragraph (1), the Missile Defense Agency shall, at a minimum, take actions as follows:
+
+&emsp;&emsp;“(A) Establish acquisition cost, schedule, and performance baselines for each ballistic missile defense system element that—
+
+&emsp;&emsp;&emsp;“(i) has entered the equivalent of the systems development and demonstration phase of acquisition; or
+
+&emsp;&emsp;&emsp;“(ii) is being produced and acquired for operational fielding.
+
+&emsp;&emsp;“(B) Provide unit cost reporting data for each ballistic missile defense system element covered by subparagraph (A), and secure independent estimation and verification of such cost reporting data.
+
+&emsp;&emsp;“(C) Include, in the budget justification materials described in subsection (a), a description of actions being taken in the fiscal year in which such materials are submitted, and the actions to be taken in the fiscal year covered by such materials, to achieve such objectives.
+
+&emsp;“(3)
+
+Specification of ballistic missile defense system elements.—The ballistic missile defense system elements that, as of October 2007, are ballistic missile defense system elements covered by paragraph (2)(A) are the following elements:
+
+&emsp;&emsp;“(A) Ground-based Midcourse Defense.
+
+&emsp;&emsp;“(B) Aegis Ballistic Missile Defense.
+
+&emsp;&emsp;“(C) Terminal High Altitude Area Defense.
+
+&emsp;&emsp;“(D) Forward-Based X-band radar-Transportable (AN/TPY–2).
+
+&emsp;&emsp;“(E) Command, Control, Battle Management, and Communications.
+
+&emsp;&emsp;“(F) Sea-Based X-band radar.
+
+&emsp;&emsp;“(G) Upgraded Early Warning radars.”
+
 #### References to New Name for Ballistic Missile Defense Organization
 
 Pub. L. 107–314, div. A, title II, §225(a), Dec. 2, 2002, 116 Stat. 2486, provided that: “Any reference to the Ballistic Missile Defense Organization in any provision of law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Missile Defense Agency.”

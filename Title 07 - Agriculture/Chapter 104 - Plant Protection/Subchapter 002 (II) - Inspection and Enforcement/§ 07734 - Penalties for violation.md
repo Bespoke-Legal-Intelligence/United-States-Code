@@ -22,7 +22,7 @@
 
 &emsp;Any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
-&emsp;&emsp;(A) $50,000 in the case of any individual (except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain), $250,000 in the case of any other person for each violation, and $500,000 for all violations adjudicated in a single proceeding; or
+&emsp;&emsp;(A) $50,000 in the case of any individual (except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain), $250,000 in the case of any other person for each violation, $500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation; or
 
 &emsp;&emsp;(B) twice the gross gain or gross loss for any violation, forgery, counterfeiting, unauthorized use, defacing, or destruction of a certificate, permit, or other document provided for in this chapter that results in the person deriving pecuniary gain or causing pecuniary loss to another.
 
@@ -56,11 +56,21 @@ When construing and enforcing this chapter, the act, omission, or failure of any
 
 The Secretary shall coordinate with the Attorney General to establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-(Pub. L. 106–224, title IV, §424, June 20, 2000, 114 Stat. 450; Pub. L. 107–171, title X, §10810, May 13, 2002, 116 Stat. 531.)
+(Pub. L. 106–224, title IV, §424, June 20, 2000, 114 Stat. 450; Pub. L. 107–171, title X, §10810, May 13, 2002, 116 Stat. 531; Pub. L. 110–234, title X, §10203(d), May 22, 2008, 122 Stat. 1343; Pub. L. 110–246, §4(a), title X, §10203(d), June 18, 2008, 122 Stat. 1664, 2105.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (b)(1)(A). Pub. L. 110–246, §10203(d), substituted “$500,000 for all violations adjudicated in a single proceeding if the violations do not include a willful violation, and $1,000,000 for all violations adjudicated in a single proceeding if the violations include a willful violation” for “and $500,000 for all violations adjudicated in a single proceeding”.
+
 2002—Subsec. (a). Pub. L. 107–171 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

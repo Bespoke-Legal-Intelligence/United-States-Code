@@ -44,7 +44,7 @@
 
 #### Effective Date
 
-Section 1631 of Pub. L. 99–198 provided that: “This subtitle \[subtitle B (§§1611–1631) of title XVI of Pub. L. 99–198, enacting this chapter\] shall become effective on January 1, 1986.”
+Section 1631 of Pub. L. 99–198 provided that: “This subtitle \[subtitle B (§§1611–1631) of title XVI of Pub. L.99–198, enacting this chapter\] shall become effective on January 1, 1986.”
 
 #### Short Title
 

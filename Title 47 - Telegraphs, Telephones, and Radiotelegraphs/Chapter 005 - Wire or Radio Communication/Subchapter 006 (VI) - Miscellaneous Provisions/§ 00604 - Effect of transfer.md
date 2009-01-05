@@ -2,7 +2,7 @@
 
 #### (a) Orders, determinations, rules, regulations, permits, contracts, licenses, and privileges
 
-All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amendedby this chapter or in the exercise of duties, powers, or functions transferred to the Commission by this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
+All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amended by this chapter or in the exercise of duties, powers, or functions transferred to the Commission by this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
 
 #### (b) Availability of records
 
@@ -22,7 +22,7 @@ Subsec. (d). Pub. L. 103–414, §303(a)(14)(A), struck out subsec. (d) which re
 
 #### Transfer of Functions
 
-Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and functions, powers, and duties ofPostmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

@@ -14,7 +14,3 @@ As used in sections 179<i>l</i> to 179w of this title—
 
 (Pub. L. 104–285, title I, §111, Oct. 11, 1996, 110 Stat. 3382.)
 
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
-

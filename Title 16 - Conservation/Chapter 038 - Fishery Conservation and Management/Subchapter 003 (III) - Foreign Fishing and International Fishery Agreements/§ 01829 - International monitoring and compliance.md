@@ -20,7 +20,7 @@ In carrying out subsection (a), the Secretary may—
 
 &emsp;(6) provide technical or other assistance to developing countries to improve their monitoring, control, and surveillance capabilities; and
 
-&emsp;(7) support coordinated international efforts to ensure that all large-scale fishing vessels operating on the high seas are required by their flag State to be fitted with vessel monitoring systems no later than December 31, 2008, or earlier if so decided by the relevant flag State or any relevant international fishery management organization.
+&emsp;(7) support coordinated international efforts to ensure that all large-scale fishing vessels operating on the high seas are required bytheir flag State to be fitted with vessel monitoring systems no later than December 31, 2008, or earlier if so decided by the relevant flag State or any relevant international fishery management organization.
 
 (Pub. L. 94–265, title II, §207, as added Pub. L. 109–479, title IV, §401, Jan. 12, 2007, 120 Stat. 3625.)
 

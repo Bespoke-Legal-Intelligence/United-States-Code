@@ -1,4 +1,0 @@
-### §5714–25. Repealed. Pub. L. 108–96, title I, §115, Oct. 10, 2003, 117 Stat. 1170
-
-Section, Pub. L. 93–415, title III, §345, as added Pub. L. 106–71, §3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused.
-

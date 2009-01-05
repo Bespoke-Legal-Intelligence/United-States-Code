@@ -6,9 +6,17 @@
 
 (2) After the decision of the Court in a proceeding becomes final, the Court may, upon motion of the appellant or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, submitted to the Court or the Court may, on its own motion, make such other disposition thereof as it considers advisable.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4068; renumbered §7268, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §8(2), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(c)(1) The Court shall prescribe rules, in accordance with section 7264(a) of this title, to protect privacy and security concerns relating to all filing of documents and the public availability under this subsection of documents retained by the Court or filed electronically with the Court.
+
+(2) The rules prescribed under paragraph (1) shall be consistent to the extent practicable with rules addressing privacy and security issues throughout the Federal courts.
+
+(3) The rules prescribed under paragraph (1) shall take into consideration best practices in Federal and State courts to protect private information or otherwise maintain necessary information security.
+
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4068; renumbered §7268, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §8(2), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 110–389, title VI, §602, Oct. 10, 2008, 122 Stat. 4177.)
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–389 added subsec. (c).
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 

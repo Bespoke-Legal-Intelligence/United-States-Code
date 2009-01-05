@@ -10,5 +10,5 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 
 #### Change of Name
 
-Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant toPub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521, which is classified to section 241g of this title.
+Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant to Pub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521, which is classified to section 241g of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized to conduct a study to assess the feasibility of a comprehensive water reclamation and reuse system for Southern California. For the purpose of sections 390h to 390h–23 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino,<sup>1</sup> Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
+The Secretary is authorized to conduct a study to assess the feasibility of a comprehensive water reclamation and reuse system for Southern California. For the purpose of sections 390h to 390h–31 of this title, the term “Southern California” means those portions of the counties of Imperial, Los Angeles, Orange, San Bernadino,<sup>1</sup> Riverside, San Diego, and Ventura within the south coast and Colorado River hydrologic regions as defined by the California Department of Water Resources.
 
 #### (b) Cooperation with State; Federal share
 
@@ -10,7 +10,7 @@ The Secretary shall conduct the study authorized by this section in cooperation 
 
 #### (c) Report
 
-The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–23 of this title.
+The Secretary shall submit the report authorized by this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives not later than six years after appropriation of funds authorized by sections 390h to 390h–31 of this title.
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
@@ -24,7 +24,7 @@ Pub. L. 102–580, title II, §217, Oct. 31, 1992, 106 Stat. 4833, provided that
 
 “(a)
 
-In General.—The Secretary is authorized to provide assistance to non-Federal interests for carrying out projects described in subsection (c) for the beneficial reuse of waste water. Such assistance may be in the form of technical and planning and design assistance. If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretaryto provide such assistance, unless the Secretary finds that—
+In General.—The Secretary is authorized to provide assistance to non-Federal interests for carrying out projects described in subsection (c) for the beneficial reuse of waste water. Such assistance may be in the form of technical and planning and design assistance. If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretary to provide such assistance, unless the Secretary finds that—
 
 &emsp;“(1) the service would require the use of a new technology unavailable in the private sector; or
 

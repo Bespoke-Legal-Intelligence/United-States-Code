@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcoholdistribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -60,7 +60,7 @@ It is the sense of the Congress that:
 
 #### (E) Consultations
 
-&emsp;&emsp;The Committee shall actively seek the input of and shall consult with all appropriate and interested parties, includingStates, public health research and interest groups, foundations, and alcohol beverage industry trade associations and companies.
+&emsp;&emsp;The Committee shall actively seek the input of and shall consult with all appropriate and interested parties, including States, public health research and interest groups, foundations, and alcohol beverage industry trade associations and companies.
 
 #### (F) Annual report
 
@@ -132,7 +132,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) community-based, school-based, and higher-education-based programs to prevent underage drinking;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) underage drinking prevention programs that target youth within thejuvenile justice and child welfare systems; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) underage drinking prevention programs that target youth within the juvenile justice and child welfare systems; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) other State efforts or programs as deemed appropriate.
 

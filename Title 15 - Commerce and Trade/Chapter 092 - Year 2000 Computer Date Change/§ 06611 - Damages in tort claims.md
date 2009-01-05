@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A party to a Y2K action making a tort claim, other than a claim of intentional tort arising independent of a contract, may not recover damages for economic loss unless—
+A party to a Y2K action making a tort claim, other than a claim of intentional tort arisingindependent of a contract, may not recover damages for economic loss unless—
 
 &emsp;(1) the recovery of such losses is provided for in a contract to which the party seeking to recover such losses is a party; or
 

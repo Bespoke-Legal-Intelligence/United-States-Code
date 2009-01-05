@@ -2,69 +2,47 @@
 
 #### (a) In general
 
-Each Committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter. Such information, analysis, and recommendations shall be provided in a manner that will assist the Department of Agriculture in determining matters of fact, technical merit, or scientific question. Data, analysis, and recommendations shall be provided in writing and shall reflect the best professional information and judgment of the Committee. The Secretary shall coordinate activities conducted under this section with those conducted under section 5831 of title 7. Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.
+Each State technical committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter.
 
-#### (b) Wetland and wildlife habitat protection guidelines
+#### (b) Public notice and attendance
 
-#### (1) Development of technical guides
+Each State technical committee shall provide public notice of, and permit public attendance at, meetings considering issues of concern related to carrying out this chapter.
 
-&emsp;Not later than one year after November 28, 1990, each State technical committee shall develop technical guides for the implementation of the wetland preservation and wildlife habitat improvement options of the agricultural water quality protection program under section 3838b <sup>1</sup> of this title. Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.
+#### (c) Role
 
-#### (2) Content of guides
+#### (1) In general
 
-#### (A) In general
+&emsp;The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
 
-&emsp;&emsp;The technical guides required under this subsection shall include detailed information on the selection of crops and crop-plant varieties, cover crops, rotation practices, tillage systems, nutrient management, biological control practices (including biologically intensive integrated pest management practices), soil, water, and natural resource conservation, and other practices useful in developing practices pursuant to such option.
+#### (2) Advisory role in establishing program priorities and criteria
 
-#### (B) Standards and instructions
+&emsp;Each State technical committee shall advise the Secretary in establishing priorities and criteria for the programs in this chapter, including the review of whether local working groups are addressing those priorities.
 
-&emsp;&emsp;The technical guides required under subsection (a) of this section shall providestandards and practical instructions for implementation of wetland protection and wildlife habitat improvement practices based on existing scientific and technical knowledge.
+#### (d) FACA requirements
 
-#### (C) Contracts
+#### (1) Exemption
 
-&emsp;&emsp;The Secretary may enter into contracts to assist in the development and periodic revision of the technical guides described in this subsection.
+&emsp;Each State technical committee shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
 
-#### (c) Other duties
+#### (2) Local working groups
 
-Each technical committee shall provide assistance and offer recommendations with respect to the technical aspects of—
+&emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
 
-&emsp;(1) wetland protection, restoration, and mitigation requirements;
-
-&emsp;(2) criteria to be used in evaluating bids for enrollment of environmentally-sensitive lands in the conservation reserve program;
-
-&emsp;(3) guidelines for haying or grazing and the control of weeds to protect nesting wildlife on set-aside acreage;
-
-&emsp;(4) highly erodible lands exemptions and appeals;
-
-&emsp;(5) wetland and conservation compliance exemptions and appeals;
-
-&emsp;(6) addressing common weed and pest problems and programs to control weeds and pests found on acreage enrolled in the conservation reserve program;
-
-&emsp;(7) guidelines for planting perennial cover for water quality and wildlife habitat improvement on set-aside lands;
-
-&emsp;(8) establishing criteria and priorities for State initiatives under the environmental quality incentives program under part IV of subchapter IV of this chapter; and
-
-&emsp;(9) other matters determined appropriate by the Secretary.
-
-#### (d) Authority
-
-Each Committee established under section 3861 of this title is advisory and shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such Committees in administering the programs under this chapter, and to the factual, technical, or scientific findings and recommendations under the Committee's responsibility.
-
-#### (e) FACA requirements
-
-The committees established under section 3861 of this title shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
-
-(Pub. L. 99–198, title XII, §1262, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, §246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, §342(b), Apr. 4, 1996, 110 Stat. 1009.)
+(Pub. L. 99–198, title XII, §1262, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, §246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, §342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, §2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, §4(a), title II, §2711, June 18, 2008, 122 Stat. 1664, 1812.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) to (c), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-Section 3838b of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Pub. L. 110–246, §2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
 
 1996—Subsec. (a). Pub. L. 104–127, §342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
 
@@ -73,6 +51,10 @@ Subsec. (b)(1). Pub. L. 104–127, §342(b)(2), inserted at end “Each State te
 Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out “and” at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
 
 1994—Subsec. (e). Pub. L. 103–354 added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Public Notice and Comment for Revisions to Certain State Technical Guides
 

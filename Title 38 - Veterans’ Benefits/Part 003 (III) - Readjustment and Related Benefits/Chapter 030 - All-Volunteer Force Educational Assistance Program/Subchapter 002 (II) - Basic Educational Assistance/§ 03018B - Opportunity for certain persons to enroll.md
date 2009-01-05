@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
 
-&emsp;&emsp;(E) before such separation elects to receive assistance under this section pursuant toprocedures referred to in subparagraph (C) of this paragraph; or
+&emsp;&emsp;(E) before such separation elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph; or
 
 &emsp;(2) the Secretary, in consultation with the Secretary of Defense, shall, subject to the availability of appropriations, allow an individual who—
 

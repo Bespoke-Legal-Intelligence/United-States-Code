@@ -20,7 +20,7 @@ Each bank shall have on hand at the time of issuance of any note, bond, debentur
 
 #### Amendments
 
-1988—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
+1988—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B)which read as follows: “Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final.”
 
 Subsec. (c). Pub. L. 100–233, §805(q), which directed the amendment of subsec. (c) by substituting “direct or fully guaranteed” for “direct of fully guaranteed” was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
@@ -50,7 +50,7 @@ In general.—
 
 &emsp;“(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulationsunder section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;“(B)
 

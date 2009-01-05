@@ -120,7 +120,7 @@ Powers of members and agents.—Any member or agent of the Commission may, if au
 
 &emsp;“(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enableit to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;“(4)
 
@@ -150,7 +150,7 @@ Termination.—The Commission shall terminate on June 30, 2002. Section 14(a)(2)
 
 Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided in part: “That $1,000,000 shall be for necessary expenses of the commission established under section 525 of the Preserving Affordable Housing for Senior Citizens and Families in the 21st Century Act \[Pub. L. 106–74, set out below\], with the final report due no later than June 30, 2002 and a termination date of September 30, 2002, notwithstanding section 525(f) and (g) of Public Law 106–74”.
 
-Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, as amended by Pub. L. 106–377, §1(a)(1) \[title II,§230\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31, provided that:
+Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, as amended by Pub. L. 106–377, §1(a)(1) \[title II, §230\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31, provided that:
 
 “(a)
 

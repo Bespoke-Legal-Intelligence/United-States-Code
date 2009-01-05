@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) Recommendations on how the United States can facilitate full implementation of the recommendations contained in the White Paper.
 
-&emsp;&emsp;(C) A description of the work done by the CAFTA–DR countries with the InternationalLabor Organization to implement the recommendations contained in the White Paper, and the efforts of the CAFTA–DR countries with international organizations, through the Labor Cooperation and Capacity Building Mechanism referred to in subparagraph (A), to advance common commitments regarding labor matters.
+&emsp;&emsp;(C) A description of the work done by the CAFTA–DR countries with the International Labor Organization to implement the recommendations contained in the White Paper, and the efforts of the CAFTA–DR countries with international organizations, through the Labor Cooperation and Capacity Building Mechanism referred to in subparagraph (A), to advance common commitments regarding labor matters.
 
 &emsp;&emsp;(D) A summary of public comments received on—
 
@@ -63,4 +63,8 @@
 #### Effective and Termination Dates
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+
+#### Delegation of Functions
+
+Proc. No. 8272, June 30, 2008, 73 F.R. 38300, provided in pars. (17) and (18) that the reporting function under subsecs. (a) and (b)(2) of this section and the solicitation of public comments under subsec. (a)(4) of this section were delegated to the Secretary of Labor, in consultation with the United States Trade Representative.
 

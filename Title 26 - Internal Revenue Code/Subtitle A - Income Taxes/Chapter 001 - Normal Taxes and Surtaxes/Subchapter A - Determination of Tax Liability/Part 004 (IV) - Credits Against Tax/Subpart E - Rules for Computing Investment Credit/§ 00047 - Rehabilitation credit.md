@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h)).
+&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h), except that “50 percent” shall be substituted for “35 percent” in paragraph (1)(B)(iii) thereof).
 
 #### (II) Clause not to apply for purposes of paragraph (1)(C)
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (vi) Expenditures of lessee
 
-&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease (determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
+&emsp;&emsp;&emsp;Any expenditure of a lessee of a building if, on the date the rehabilitation is completed, the remaining term of the lease\(determined without regard to any renewal periods) is less than the recovery period determined under section 168(c).
 
 #### (C) Certified rehabilitation
 
@@ -244,13 +244,15 @@ For purposes of this section—
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(<i>o</i>)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
 
 #### Amendments
 
+2008—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted “section 168(h), except that ‘50 percent’ shall be substituted for ‘35 percent’ in paragraph (1)(B)(iii) thereof” for “section 168(h)”.
+
 1990—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Certain dispositions, etc., of section 38 property” and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
 
-Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case ofa transfer of section 38 property related to exchanges under final system plan for ConRail.
+Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
 
 1988—Subsec. (a)(5)(D). Pub. L. 100–647, §1002(a)(26)(B), struck out at end “If, prior to a disposition to which this subsection applies, any portion of any credit is not allowable with respect to any property by reason of section 168(i)(3), such portion shall be treated (for purposes of this subparagraph) as not having been used to reduce tax liability.”
 
@@ -268,7 +270,7 @@ Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class lif
 
 1986—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
-Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessation rules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
+Subsec. (d)(1). Pub. L. 99–514, §1844(b)(1), substituted “reducing the credit base (as defined in section 48(c)(8)(C))” for “reducing the qualified investment” and inserted “For purposes of determining the amount of credit subject to the early disposition or cessationrules of subsection (a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base (and correspondingly reducing the qualified investment in the property) in the year in which the property was first placed in service.”
 
 Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1844(b)(4), inserted “reduced by the sum of the credit recapture amounts with respect to such property for all preceding years”.
 
@@ -335,6 +337,10 @@ Subsec. (a)(6). Pub. L. 91–676 added par. (6).
 1969—Subsec. (a)(5). Pub. L. 91–172, §703(c)(2), added par. (5).
 
 Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars. (B) and (C) inapplicable to any casualty or theft occurring after April 18, 1969.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. C, title I, §3025(b), July 30, 2008, 122 Stat. 2897, provided that: “The amendments made by this section \[amending this section\] shall apply to expenditures properly taken into account for periods after December 31, 2007.”
 
 #### Effective Date of 1990 Amendment
 

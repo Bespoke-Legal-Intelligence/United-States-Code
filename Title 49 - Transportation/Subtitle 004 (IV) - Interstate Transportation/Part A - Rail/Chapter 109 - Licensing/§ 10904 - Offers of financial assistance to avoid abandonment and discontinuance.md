@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) if a rail carrier is not in reorganization, the cost of capital to the rail carrier, as determined by the Board; and
 
-&emsp;&emsp;(B) if a rail carrier is in reorganization, the mean cost of capital of rail carriers notin reorganization, as determined by the Board.
+&emsp;&emsp;(B) if a rail carrier is in reorganization, the mean cost of capital of rail carriers not in reorganization, as determined by the Board.
 
 (b) Any rail carrier which has filed an application for abandonment or discontinuance shall provide promptly to a party considering an offer of financial assistance and shall provide concurrently to the Board—
 

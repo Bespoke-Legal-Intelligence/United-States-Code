@@ -118,7 +118,7 @@
 
 #### (4) Traineeship amount
 
-&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 per year, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
+&emsp;Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 peryear, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.
 
 #### (5) Selection process
 
@@ -166,7 +166,7 @@ Computer and network security shall be included among the fields of specializati
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs toenable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
+&emsp;The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs to enable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.
 
 #### (2) Merit review; competition
 

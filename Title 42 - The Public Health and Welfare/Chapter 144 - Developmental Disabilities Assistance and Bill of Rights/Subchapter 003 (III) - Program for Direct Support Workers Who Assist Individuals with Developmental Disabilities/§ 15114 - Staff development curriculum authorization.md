@@ -46,7 +46,7 @@ To be eligible to receive an award under this section, an entity shall submit to
 
 &emsp;&emsp;&emsp;(iii) evaluating the proficiency of the participants with respect to the content of the curriculum;
 
-&emsp;&emsp;&emsp;(iv) providing necessary support to the participants to assure that the participants have access to, and proficiency in using, a computer in order to participate in the development, testing, and validation process;
+&emsp;&emsp;&emsp;(iv) providing necessary support to the participants to assure that the participants have access to, and proficiency in using, a computer in order to participatein the development, testing, and validation process;
 
 &emsp;&emsp;&emsp;(v) providing necessary technical and instructional support to trainers and mentors for the participants in conjunction with the development, testing, and validation process;
 

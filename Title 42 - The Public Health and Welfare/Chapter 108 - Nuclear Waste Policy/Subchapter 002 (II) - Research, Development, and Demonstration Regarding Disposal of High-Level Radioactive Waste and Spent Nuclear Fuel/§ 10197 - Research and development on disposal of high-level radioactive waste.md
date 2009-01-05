@@ -8,7 +8,7 @@ Not later than 64 months after January 7, 1983, the Secretary is authorized to, 
 
 &emsp;(2) to provide the conditions under which known technological components can be integrated to demonstrate a functioning repository-like system;
 
-&emsp;(3) to provide a means of identifying, evaluating, and resolving potential repository licensing issues that could not be resolved during the siting research program conducted under section 10192 of this title;
+&emsp;(3) to provide a means of identifying, evaluating, and resolving potential repository licensing issues that could not be resolved during the siting research program conducted under section 10192 <sup>1</sup> of this title;
 
 &emsp;(4) to validate, under actual conditions, the scientific models used in the design of a repository;
 
@@ -66,7 +66,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 #### (f) Role of Commission
 
-(1)(A) Not later than 1 year after January 7, 1983, the Secretary and the Commission shall reach a written understanding establishing the procedures for review, consultation, and coordination in the planning, construction, and operation of the test and evaluation facility under this section. Such understanding shall establish a schedule, consistent with the deadlines set forth in this subchapter,<sup>1</sup> for submission by the Secretary of, and review by the Commission of and necessary action on—
+(1)(A) Not later than 1 year after January 7, 1983, the Secretary and the Commission shall reach a written understanding establishing the procedures for review, consultation, and coordination in the planning, construction, and operation of the test and evaluation facility under this section. Such understanding shall establish a schedule, consistent with the deadlines set forth in this subchapter,<sup>2</sup> for submission by the Secretary of, and review by the Commission of and necessary action on—
 
 &emsp;(i) the mission plan prepared under section 10221 of this title; and
 
@@ -74,11 +74,11 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (B) Such understanding shall also establish the conditions under which the Commission may have access to the test and evaluation facility for the purpose of assessing any public health and safety concerns that it may have. No shafts may be excavated for the test and evaluation until the Secretary and the Commission enter into such understanding.
 
-(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
+(2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, anddemonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
 (3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
 
-(B) The Commission shall report to the President, the Secretary, and the Congress as theCommission considers appropriate with respect to the conduct of activities under this section.
+(B) The Commission shall report to the President, the Secretary, and the Congress as the Commission considers appropriate with respect to the conduct of activities under this section.
 
 #### (g) Environmental review
 
@@ -108,5 +108,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, 
 
 This subchapter, referred to in subsec. (f)(1)(A), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “10194”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

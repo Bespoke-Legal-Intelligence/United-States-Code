@@ -40,5 +40,5 @@ The National Historic Preservation Act, referred to in subsec. (a)(2), is Pub. L
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The Native American Graves Protection and Repatriation Act, referred to in subsec. (a)(2), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in subsec. (a)(2), is Pub. L.101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
 

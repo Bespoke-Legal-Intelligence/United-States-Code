@@ -50,7 +50,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 (3) The amount reserved by the Secretary on the basis of a determination under this subsection shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
-(4) In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary a plan for such fiscal year whichmeets such criteria as the Secretary may prescribe.
+(4) In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary a plan for such fiscal year which meets such criteria as the Secretary may prescribe.
 
 (5) The terms “Indian tribe” and “tribal organization” have the same meaning given such terms in section 450b(b) and (c) <sup>2</sup> of title 25.
 

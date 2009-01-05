@@ -84,7 +84,19 @@ Actions To Ensure Access.—Amtrak may act to ensure access to intercity transpo
 
 &emsp;“(5) providing special assistance to elderly and handicapped individuals when getting on and off trains and in terminal areas.”
 
-#### Americans With Disabilities Act of 1990
+#### Accessibility by Individuals With Disabilities
+
+Pub. L. 110–432, div. B, title II, §219, Oct. 16, 2008, 122 Stat. 4931, provided that:
+
+“(a)
+
+In General.—Amtrak, in consultation with station owners and other railroads operating service through the existing stations that it serves, shall evaluate the improvements necessary to make these stations readily accessible to and usable by individuals with disabilities, as required by such section 242(e)(2) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12162(e)(2)). The evaluation shall include, for each applicable station, improvements required to bring it into compliance with the applicable parts of such section 242(e)(2), any potential barriers to achieving compliance, including issues related to passenger rail station platforms, the estimated cost of the improvements necessary, the identification of the responsible person (as defined in section 241(5) of that Act (42 U.S.C. 12161(5))), and the earliest practicable date when such improvements can be made. The evaluation shall also include a detailed plan and schedule for bringing all applicable stations into compliance with the applicable parts of section 242(e)(2) by the 2010 statutory deadline for station accessibility. Amtrak shall submit the evaluation to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; the Department of Transportation; and the National Council on Disability by February 1, 2009, along with recommendations for funding the necessary improvements. Should the Department of Transportation issue any rule related to transportation for individuals with disabilities by intercity passenger rail after Amtrak submits its evaluation, Amtrak shall, within 120 days after the date that such rule is published, submit to the above parties a supplemental evaluation on any impact of the rule on its cost and schedule for achieving full compliance.
+
+“(b)
+
+Accessibility Improvements and Barrier Removal for People With Disabilities.—There are authorized to be appropriated to the Secretary \[of Transportation\] for the use of Amtrak such sums as may be necessary to improve the accessibility of facilities, including rail platforms, and services.”
+
+Pub. L. 110–432, div. B, title II, §220, Oct. 16, 2008, 122 Stat. 4931, provided that: “Using the funds authorized by section 103 of this division \[122 Stat. 4909\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak's compliance with applicable sections of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, 29 U.S.C. 701 et seq.\] to ensure that Amtrak's services and facilities are accessible to individuals with disabilities to the extent required by law.”
 
 Pub. L. 105–134, title IV, §406(a), Dec. 2, 1997, 111 Stat. 2586, provided that:
 

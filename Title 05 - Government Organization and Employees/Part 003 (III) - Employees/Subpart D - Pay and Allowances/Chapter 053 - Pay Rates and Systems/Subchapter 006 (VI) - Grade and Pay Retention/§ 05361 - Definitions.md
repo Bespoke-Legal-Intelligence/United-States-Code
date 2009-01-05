@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) “agency” has the meaning given it by section 5102 of this title;
 
-&emsp;(3) “retained grade” means the grade used for determining benefits to which an employeeto whom section 5362 of this title applies is entitled;
+&emsp;(3) “retained grade” means the grade used for determining benefits to which an employee to whom section 5362 of this title applies is entitled;
 
 &emsp;(4) “rate of basic pay” means—
 

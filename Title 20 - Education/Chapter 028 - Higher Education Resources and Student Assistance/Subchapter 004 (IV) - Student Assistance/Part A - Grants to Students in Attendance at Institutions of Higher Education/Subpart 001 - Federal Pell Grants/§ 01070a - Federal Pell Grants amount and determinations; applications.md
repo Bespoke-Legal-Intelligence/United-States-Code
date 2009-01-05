@@ -2,7 +2,7 @@
 
 #### (a) Program authority and method of distribution
 
-(1) For each fiscal year through fiscal year 2017, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b) of this section. Notless than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner,,<sup>1</sup> except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
+(1) For each fiscal year through fiscal year 2017, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b) of this section. Not less than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner,,<sup>1</sup> except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
 
 (2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directly to students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
 
@@ -14,35 +14,37 @@
 
 (2)(A) The amount of the Federal Pell Grant for a student eligible under this part shall be—
 
-&emsp;(i) $4,500 for academic year 1999–2000;
+&emsp;(i) $6,000 for academic year 2009–2010;
 
-&emsp;(ii) $4,800 for academic year 2000–2001;
+&emsp;(ii) $6,400 for academic year 2010–2011;
 
-&emsp;(iii) $5,100 for academic year 2001–2002;
+&emsp;(iii) $6,800 for academic year 2011–2012;
 
-&emsp;(iv) $5,400 for academic year 2002–2003; and
+&emsp;(iv) $7,200 for academic year 2012–2013;
 
-&emsp;(v) $5,800 for academic year 2003–2004,
+&emsp;(v) $7,600 for academic year 2013–2014; and
+
+&emsp;(vi) $8,000 for academic year 2014–2015,
 
 > less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
 (B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
 
-(3) No Federal Pell Grant under this subpart shall exceed the difference between the expected family contribution for a student and the cost of attendance (as defined in section 1087<i>ll</i> of this title) at the institution at which that student is in attendance. If, with respect to any student, it is determined that the amount of a Federal Pell Grant plus the amount of the expected family contribution for that student exceeds the cost of attendance for that year, the amount of the Federal Pell Grant shall be reduced until the combination of expected family contribution and the amount of the Federal Pell Grant does not exceed the cost of attendance at such institution.
+(3) No Federal Pell Grant under this subpart shall exceed the difference between the expectedfamily contribution for a student and the cost of attendance (as defined in section 1087<i>ll</i> of this title) at the institution at which that student is in attendance. If, with respect to any student, it is determined that the amount of a Federal Pell Grant plus the amount of the expected family contribution for that student exceeds the cost of attendance for that year, the amount of the Federal Pell Grant shall be reduced until the combination of expected family contribution and the amount of the Federal Pell Grant does not exceed the cost of attendance at such institution.
 
-(4) No Federal Pell Grant shall be awarded to a student under this subpart if the amount of that grant for that student as determined under this subsection for any academic year is less than $400, except that a student who is eligible for a Federal Pell Grant that is equal to or greater than $200 but less than $400 shall be awarded a Federal Pell Grant of $400.
+(4) No Federal Pell Grant shall be awarded to a student under this subpart if the amount of that grant for that student as determined under this subsection for any academic year is less than ten percent of the maximum basic grant level specified in the appropriate appropriation Act for such academic year, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such level but less than ten percent of such level shall be awarded a Federal Pell grant in the amount of ten percent of such level.
 
-(5)(A) The Secretary may allow, on a case-by-case basis, a student to receive 2 Pell grants during a single award year, if—
+(5)(A) The Secretary shall award a student not more than two Federal Pell Grants during a single award year to permit such student to accelerate the student's progress toward a degree or certificate if the student is enrolled—
 
-&emsp;(i) the student is enrolled full-time in an associate or baccalaureate degree program of study that is 2 years or longer at an eligible institution that is computed in credit hours; and
+&emsp;(i) on at least a half-time basis for a period of more than one academic year, or more than two semesters or an equivalent period of time, during a single award year; and
 
-&emsp;(ii) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
+&emsp;(ii) in a program of instruction at an institution of higher education for which the institution awards an associate or baccalaureate degree or a certificate.
 
-(B) The Secretary shall promulgate regulations implementing this paragraph.
+(B) In the case of a student receiving more than one Federal Pell Grant in a single award year under subparagraph (A), the total amount of Federal Pell Grants awarded to such student for the award year may exceed the maximum basic grant level specified in the appropriate appropriations Act for such award year.
 
 (6) Notwithstanding any other provision of this subpart, the Secretary shall allow the amount of the Federal Pell Grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such Federal Pell Grant in any fiscal year shall not exceed the grant level specified in the appropriate Appropriation Act for this subpart for such year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
 
-(7) No Federal Pell Grant shall be awarded under this subpart to any individual who is incarcerated in any Federal or State penal institution.
+(7) No Federal Pell Grant shall be awarded under this subpart to any individual who is incarcerated in any Federal or State penal institution or who is subject to an involuntary civil commitment upon completion of a period of incarceration for a forcible or nonforcible sexual offense (as determined in accordance with the Federal Bureau of Investigation's Uniform Crime Reporting Program).
 
 (8)
 
@@ -88,7 +90,7 @@ Eligibility.—The Secretary shall only award an increased amount of a Federal P
 
 &emsp;(D)
 
-Formula otherwise unaffected.—Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements of this section, or authorize the imposition of additional requirements, for the determination and allocation of Federal Pell Grants under this section.
+Program requirements and operations otherwise unaffected.—Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements and operations of the Federal Pell Grant Program as authorized under this section, or authorize the imposition of additional requirements or operations for the determination and allocation of Federal Pell Grants under this section.
 
 &emsp;(E)
 
@@ -96,11 +98,11 @@ Ratable increases and decreases.—The amounts specified in subparagraph (B) sha
 
 &emsp;(F)
 
-Use of fiscal year funds for award years.—The amounts made available by subparagraph (A) for any fiscal year shall be available and remain available for use under subparagraph (B) for the award year that begins in such fiscal year.
+Availability of funds.—The amounts made available by subparagraph (A) for any fiscal year shall be available beginning on October 1 of that fiscal year, and shall remain available through September 30 of the succeeding fiscal year.
 
 #### (c) Period of eligibility for grants
 
-(1) The period during which a student may receive Federal Pell Grants shall be the period required for the completion of the first undergraduate baccalaureate course of study being pursued by that student at the institution at which the student is in attendance except that any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.
+(1) The period during which a student may receive Federal Pell Grants shall be the period required for the completion of the first undergraduate baccalaureate course of study being pursued by that student at the institution at which the student is in attendance except thatany period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.
 
 (2) Nothing in this section shall exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language instruction) which are determined by the institution to be necessary to help the student be prepared for the pursuit of a first undergraduate baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the student to utilize already existing knowledge, training, or skills. Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.
 
@@ -113,6 +115,8 @@ Use of fiscal year funds for award years.—The amounts made available by subpar
 &emsp;(B) is enrolled or accepted for enrollment in a postbaccalaureate program that does not lead to a graduate degree, and in courses required by a State in order for the student to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State,
 
 > except that this paragraph shall not apply to a student who is enrolled in an institution of higher education that offers a baccalaureate degree in education.
+
+(5) The period during which a student may receive Federal Pell Grants shall not exceed 18 semesters, or the equivalent of 18 semesters, as determined by the Secretary by regulation. Such regulations shall provide, with respect to a student who received a Federal Pell Grant for a term but was enrolled at a fraction of full-time, that only that same fraction of such semester or equivalent shall count towards such duration limits. The provisions of this paragraph shall apply only to a student who receives a Federal Pell Grant for the first time on or after July 1, 2008.
 
 #### (d) Applications for grants
 
@@ -138,7 +142,17 @@ Payments under this section shall be made in accordance with regulations promulg
 
 (2) Whenever a student receives an award under this subpart that, due to recalculation errors by the institution of higher education, is in excess of the amount which the student is entitled to receive under this subpart, such institution of higher education shall pay to the Secretary the amount of such excess unless such excess can be resolved in a subsequent disbursement to the institution.
 
-(3) Each contractor processing applications for awards under this subpart shall for each academic year after academic year 1986–1987 prepare and submit a report to the Secretary on the correctness of the computations of amount of the expected family contribution, and on the accuracy of the questions on the application form under this subpart for the previous academic year for which the contractor is responsible. The Secretary shall transmit the report, together with the comments and recommendations of the Secretary, to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives.
+(3) Each contractor processing applications for awards under this subpart shall for each academic year after academic year 1986–1987 prepare and submit a report to the Secretary on the correctness of the computations of amount of the expected family contribution, and on the accuracy of the questions on the application form under this subpart for the previous academic year for which the contractor is responsible. The Secretary shall transmit the report, together with the comments and recommendations of the Secretary, to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the authorizing committees.
+
+(4)(A) Notwithstanding paragraph (1) or any other provision of this section, the expected family contribution of each student described in subparagraph (B) shall be deemed to be zero for the period during which each such student is eligible to receive a Federal Pell Grant under subsection (c).
+
+(B) Subparagraph (A) shall apply to any student at an institution of higher education—
+
+&emsp;(i) whose parent or guardian was a member of the Armed Forces of the United States whodied as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and
+
+&emsp;(ii) who was less than 24 years of age, or was enrolled as a full-time or part-time student at an institution of higher education, as of the time of the parent or guardian's death.
+
+(C) Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of subparagraph (B).
 
 #### (g) Insufficient appropriations
 
@@ -164,7 +178,7 @@ Any institution of higher education which enters into an agreement with the Secr
 
 &emsp;No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution's default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C of this subchapter, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C of this subchapter on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784.)
+(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189.)
 
 #### References in Text
 
@@ -181,6 +195,40 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §401(a)(1)(B), which directed amendment of subsec. (b) by designating thepars. following par. (2), in the order in which such pars. appear, as pars. (3) through (8), was a technical correction to sequence of amendments by Pub. L. 110–84 and required no change in text. See 2007 Amendment notes below.
+
+Subsec. (b)(2)(A). Pub. L. 110–315, §401(a)(1)(A), amended subpar. (A) generally, substituting Pell Grant amounts for academic years 2009 to 2015 for amounts for academic years 1999 to 2004.
+
+Subsec. (b)(4). Pub. L. 110–315, §401(a)(1)(C), substituted “ten percent of the maximum basic grant level specified in the appropriate appropriation Act for such academic year, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such level but less than ten percent of such level shall be awarded a Federal Pell grant in the amount of ten percent of such level” for “$400, except that a student who is eligible for a Federal Pell Grant that is equal to or greater than $200 but less than $400 shall be awarded a Federal Pell Grant of $400”.
+
+Subsec. (b)(5). Pub. L. 110–315, §401(a)(1)(D), added par. (5) and struck out former par. (5) which read: “The Secretary may allow, on a case-by-case basis, a student to receive 2 Pell grants during a single award year, if—
+
+&emsp;“(i) the student is enrolled full-time in an associate or baccalaureate degree program of study that is 2 years or longer at an eligible institution that is computed in credit hours; and
+
+&emsp;“(ii) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
+
+“(B) The Secretary shall promulgate regulations implementing this paragraph.”
+
+Subsec. (b)(7). Pub. L. 110–315, §401(a)(1)(E), inserted before period at end “or who is subject to an involuntary civil commitment upon completion of a period of incarceration for a forcible or nonforcible sexual offense (as determined in accordance with the Federal Bureau of Investigation's Uniform Crime Reporting Program)”.
+
+Subsec. (b)(8)(D). Pub. L. 110–315, §401(a)(1)(F)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows:
+
+“(D)
+
+Formula otherwise unaffected.—Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements of this section, or authorize the imposition of additional requirements, for the determination and allocation of Federal Pell Grants under this section.”
+
+Subsec. (b)(8)(F). Pub. L. 110–315, §401(a)(1)(F)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows:
+
+“(F)
+
+Use of fiscal year funds for award years.—The amounts made available by subparagraph (A) for any fiscal year shall be available and remain available for use under subparagraph (B) for the award year that begins in such fiscal year.”
+
+Subsec. (c)(5). Pub. L. 110–315, §401(b), added par. (5).
+
+Subsec. (f)(3). Pub. L. 110–315, §103(b)(3), substituted “to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the authorizing committees” for “to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives”.
+
+Subsec. (f)(4). Pub. L. 110–315, §401(c)(1), added par. (4).
 
 2007—Subsec. (a)(1). Pub. L. 110–84, §102(a), substituted “fiscal year 2017” for “fiscal year 2004”.
 
@@ -332,11 +380,19 @@ Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutio
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
 
-#### Change of Name
+#### Effective Date of 2008 Amendment
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Pub. L. 110–315, title IV, §401(a)(2), Aug. 14, 2008, 122 Stat. 3189, provided that:
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009.
+
+“(B)
+
+Special rule.—The amendments made by subparagraph (F) of paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug 14, 2008\].”
+
+Pub. L. 110–315, title IV, §401(c)(2), Aug. 14, 2008, 122 Stat. 3190, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009.”
 
 #### Effective Date of 2007 Amendment
 

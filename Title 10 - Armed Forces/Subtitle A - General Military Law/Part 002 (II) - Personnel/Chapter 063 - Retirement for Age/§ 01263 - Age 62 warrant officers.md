@@ -48,6 +48,10 @@ In subsection (a), the words “has at least” are substituted for the words �
 
 In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
+#### References in Text
+
+Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
+
 #### Amendments
 
 1992—Subsec. (a). Pub. L. 102–484 substituted “580 note” for “564 note”.

@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, any material that (1) is under the c
 
 (2) The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under this subsection, are suitable for disposal through the stockpile, and are uncontaminated.
 
-(June 7, 1939, ch. 190, §4, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 320; amended Pub. L. 99–661, div. C, title II, §3207(a)(1), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 104–106, div. C, title XXXIII, §3311, Feb. 10, 1996, 110 Stat. 630.)
+(June 7, 1939, ch. 190, §4, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 320; amended Pub. L. 99–661, div. C, title II, §3207(a)(1), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 104–106, div. C, title XXXIII, §3311, Feb. 10, 1996, 110 Stat. 630; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Z), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
@@ -46,11 +46,17 @@ A prior section 98c, acts June 7, 1939, ch. 190, §4, 53 Stat. 811; July 23, 194
 
 #### Amendments
 
-1996—Subsec. (a)(10). Pub. L. 104–106, §3311(b), added par. (10).
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1704(b) of title 7.
+
+<b>1996</b>—Subsec. (a)(10). Pub. L. 104–106, §3311(b), added par. (10).
 
 Subsec. (c). Pub. L. 104–106, §3311(a), added subsec. (c).
 
-1986—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
+<b>1986</b>—Pub. L. 99–661 substituted “on July 29, 1979” for “on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in pars. (1) and (3), and “after July 29, 1979” for “on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979” in par. (2).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Clarification of Stockpile Status of Certain Materials
 

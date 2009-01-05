@@ -8,7 +8,7 @@
 
 &emsp;(2) the concentration or contamination levels, half-lives, and identities of the radionuclides present.
 
-> Such standards and procedures shall provide that, upon receipt of a petition to exempt a specific radioactive waste stream from regulation by the Commission, the Commission shall determine in an expeditious manner whether the concentration or quantity of radionuclides present in such waste stream requires regulation by the Commission in order to protect the publichealth and safety. Where the Commission determines that regulation of a radioactive waste stream is not necessary to protect the public health and safety, the Commission shall take such steps as may be necessary, in an expeditious manner, to exempt the disposal of such radioactive waste from regulation by the Commission.
+> Such standards and procedures shall provide that, upon receipt of a petition to exempt a specific radioactive waste stream from regulation by the Commission, the Commission shall determine in an expeditious manner whether the concentration or quantity of radionuclides present in such waste stream requires regulation by the Commission in order to protect the public health and safety. Where the Commission determines that regulation of a radioactive waste stream is not necessary to protect the public health and safety, the Commission shall take such steps as may be necessary, in an expeditious manner, to exempt the disposal of such radioactive waste from regulation by the Commission.
 
 (Pub. L. 96–573, §10, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1859.)
 

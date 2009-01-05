@@ -18,7 +18,7 @@ Lease Authority.—(1) Subject to paragraph (2), to the extent that the terminat
 
 (c)
 
-Lease Proceeds.—All money received from a lease entered into under subsection (b) shall be retained by the Superintendent of the NavalAcademy and shall be available to cover expenses related to the property described in subsection (a), including reimbursing nonappropriated fund instrumentalities of the Naval Academy.
+Lease Proceeds.—All money received from a lease entered into under subsection (b) shall be retained by the Superintendent of the Naval Academy and shall be available to cover expenses related to the property described in subsection (a), including reimbursing nonappropriated fund instrumentalities of the Naval Academy.
 
 (d)
 

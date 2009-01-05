@@ -30,6 +30,10 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–376, §1, Oct. 8, 2008, 122 Stat. 4056, provided that: “This subtitle \[probably should be “This Act”, enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–375, div. C, title XXXVI, §3601, Oct. 28, 2004, 118 Stat. 2195, provided that: “This title \[amending section 2229 of this title\] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
@@ -97,6 +101,22 @@ Pub. L. 103–254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress 
 &emsp;“(8) improved training of arson investigators will increase the ability of fire departments to identify suspicious and incendiary fires, and will result in increased and more effective prosecution of arson offenses.”
 
 #### Congressional Findings and Purpose
+
+Pub. L. 110–376, §2, Oct. 8, 2008, 122 Stat. 4056, provided that: “Congress makes the following findings:
+
+&emsp;“(1) The number of lives lost each year because of fire has dropped significantly over the last 25 years in the United States. However, the United States still has one of the highest fire death rates in the industrialized world. In 2006, the National Fire Protection Association reported 3,245 civilian fire deaths, 16,400 civilian fire injuries, and $11,307,000,000 in direct losses due to fire.
+
+&emsp;“(2) Every year, more than 100 firefighters die in the line of duty. The United States Fire Administration should continue its leadership to help local fire agencies dramatically reduce these fatalities.
+
+&emsp;“(3) The Federal Government should continue to work with State and local governments and the fire service community to further the promotion of national voluntary consensus standards that increase firefighter safety.
+
+&emsp;“(4) The United States Fire Administration provides crucial support to the 30,300 fire departments of the United States through training, emergency incident data collection, fire awareness and education, and support of research and development activities for fire prevention, control, and suppression technologies.
+
+&emsp;“(5) The collection of data on fire and other emergency incidents is a vital tool both for policy makers and emergency responders to identify and develop responses to emerging hazards. Improving the data collection capabilities of the United States Fire Administration is essential for accurately tracking and responding to the magnitude and nature of the fire problems of the United States.
+
+&emsp;“(6) The research and development performed by the National Institute of Standards and Technology, the United States Fire Administration, other government agencies, and nongovernmental organizations on fire technologies, techniques, and tools advance the capabilities of the fire service of the United States to suppress and prevent fires.
+
+&emsp;“(7) Because of the essential role of the United States Fire Administration and the fire service community in preparing for and responding to national \[probably should be “natural”\] and man-made disasters, the United States Fire Administration should have a prominent place within the Federal Emergency Management Agency and the Department of Homeland Security.”
 
 Pub. L. 101–391, §2, Sept. 25, 1990, 104 Stat. 747, provided that:
 
@@ -176,7 +196,7 @@ There are hereby transferred to the Director all functions concerning the Emerge
 
 #### Sec. 301. Transfer and Abolishment of Agencies and Officers
 
-The National Fire Prevention and Control Administration and the National Academy for Fire Prevention and Control and the positions of Administrator of said Administration and Superintendent of said Academy are hereby transferred to the Agency. The position of Deputy Administrator of said Administration (established by 15 U.S.C. 2204(c)) is hereby abolished.
+The National Fire Prevention and Control Administration and the National Academy for Fire Prevention and Control and the positions of Administrator of said Administration and Superintendent of said Academy are hereby transferred to the Agency. The position ofDeputy Administrator of said Administration (established by 15 U.S.C. 2204(c)) is hereby abolished.
 
 #### Sec. 302. Incidental Transfers
 
@@ -258,7 +278,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 

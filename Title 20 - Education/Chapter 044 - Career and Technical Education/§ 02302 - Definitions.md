@@ -18,7 +18,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing career and technical education in not fewer than 5 different occupational fields to individuals who are available for study in preparation for entering the labor market;
 
-&emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who havecompleted secondary school and individuals who have left secondary school; or
+&emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
 &emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
@@ -60,7 +60,7 @@ Unless otherwise specified, in this chapter:
 
 #### (B) State and national units
 
-&emsp;&emsp;An organization described in subparagraph (A) may have State and national units that aggregate the work and purposes of instruction in career and technical education at the local level.
+&emsp;&emsp;An organization described in subparagraph (A) may have State and national units thataggregate the work and purposes of instruction in career and technical education at the local level.
 
 #### (7) Career guidance and academic counseling
 
@@ -100,7 +100,7 @@ Unless otherwise specified, in this chapter:
 
 #### (12) Eligible agency
 
-&emsp;The term “eligible agency” means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technicaleducation in the State or for the supervision of the administration of career and technical education in the State.
+&emsp;The term “eligible agency” means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.
 
 #### (13) Eligible institution
 
@@ -252,7 +252,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(G) enrolls the full-time equivalent of not less than 100 students, of whom a majority are Indians.
 
-(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685.)
+(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
@@ -267,4 +267,8 @@ Act of April 16, 1934, referred to in par. (13)(D), is act Apr. 16, 1934, ch. 14
 A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+2008—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
 

@@ -1,6 +1,6 @@
 ### §7403. Period of appointments; promotions
 
-(a)(1) Appointments under this chapter of health-care professionals to whom this section applies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
+(a)(1) Appointments under this chapter of health-care professionals to whom this sectionapplies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
 
 (2) This section applies to the following persons appointed under this chapter:
 
@@ -62,7 +62,7 @@
 
 &emsp;(A) notify the congressional veterans’ affairs committees of the recommendations and of the portion of the recommendations that the Secretary has determined not to accept;
 
-&emsp;(B) meet and confer with such exclusive employee representatives, for a period not less than 30 days, for purposes of attempting toreach an agreement on whether and how to proceed with the portion of the recommendations that the Secretary has determined not to accept;
+&emsp;(B) meet and confer with such exclusive employee representatives, for a period not less than 30 days, for purposes of attempting to reach an agreement on whether and how to proceed with the portion of the recommendations that the Secretary has determined not to accept;
 
 &emsp;(C) at the election of the Secretary, or of a majority of such exclusive employee representatives who are participating in negotiations on such matter, employ the services of the Federal Mediation and Conciliation Service during the period referred to in subparagraph (B) for purposes of reaching such agreement; and
 

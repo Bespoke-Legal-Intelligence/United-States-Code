@@ -1,6 +1,6 @@
 ### §24. Subpoenas, witnesses
 
-The clerk of any United States court for the district wherein testimony is to be taken for use in any contested case in the Patent and Trademark Office, shall, upon the application of any party thereto, issue a subpoena for any witness residing or being within such district, commanding him to appear and testify before an officer in such district authorized to take depositions and affidavits, at the time and place stated in the subpoena. The provisions of the Federal Rules of Civil Procedure relating to the attendance of witnesses and to the production of documents and things shall apply to contested cases in the Patent and Trademark Office.
+The clerk of any United States court for the district wherein testimony is to be taken for usein any contested case in the Patent and Trademark Office, shall, upon the application of any party thereto, issue a subpoena for any witness residing or being within such district, commanding him to appear and testify before an officer in such district authorized to take depositions and affidavits, at the time and place stated in the subpoena. The provisions of the Federal Rules of Civil Procedure relating to the attendance of witnesses and to the production of documents and things shall apply to contested cases in the Patent and Trademark Office.
 
 Every witness subpoenaed and in attendance shall be allowed the fees and traveling expenses allowed to witnesses attending the United States district courts.
 

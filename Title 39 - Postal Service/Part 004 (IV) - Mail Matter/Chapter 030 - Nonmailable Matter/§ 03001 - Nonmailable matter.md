@@ -184,17 +184,23 @@
 
 (<i>o</i>) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, and renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259.)
 
 #### References in Text
 
 Section 1738 of title 18, referred to in subsec. (a), was repealed by Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076.
 
-Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26(a)–(h)(1) of Pub. L. 89–544 as added by Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421, which is classified to section 2156 of Title 7, Agriculture.
+Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26 of Pub. L. 89–544, which is classified to section 2156 of Title 7, Agriculture.
 
 Section 2 of the Poison Prevention Packaging Act of 1970, referred to in subsec. (f), is classified to section 1471 of Title 15, Commerce and Trade.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89–544 included in the credit of this section. The amendment by Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Pub. L. 110–246, §14207(a)(8), renumbered Pub. L. 89–544, §26(h)(2), as §26(i)(2). See 1976 Amendment note below.
 
 2006—Subsecs. (n), (<i>o</i>). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
@@ -236,11 +242,15 @@ Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
 1982—Subsec. (a). Pub. L. 97–398 substituted “, 1718, or 1738” for “or 1718”.
 
-1976—Subsec. (a). Pub. L. 94–279 inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
+1976—Subsec. (a). Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, and renumbered §26(i)(2) by Pub. L. 110–246, §14207(a)(8), inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
 
 1971—Subsecs. (e), (f). Pub. L. 91–662, §6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1999 Amendment
 
@@ -294,7 +304,7 @@ Section 4 of Pub. L. 101–524 provided that: “The United States Postal Servic
 
 #### Notice With Respect to Obscene Matter Distributed by Mail and Detention Thereof
 
-Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and the general public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribesuch regulations as he may deem appropriate to carry out the purposes of this section.”
+Pub. L. 87–793, §307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and thegeneral public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribe such regulations as he may deem appropriate to carry out the purposes of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

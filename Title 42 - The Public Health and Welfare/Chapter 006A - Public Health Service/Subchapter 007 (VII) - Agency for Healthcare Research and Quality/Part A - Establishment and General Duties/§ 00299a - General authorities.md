@@ -26,7 +26,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (1) In general
 
-&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
+&emsp;The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoralfellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
 
 #### (2) Requirements
 

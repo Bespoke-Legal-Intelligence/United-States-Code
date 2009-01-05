@@ -52,7 +52,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Exclusion From Coverage
 
-Amendment by Pub. L. 100–259 not to be construed to extend application of Age Discrimination Act of 1975 (this chapter) to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar.22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+Amendment by Pub. L. 100–259 not to be construed to extend application of Age Discrimination Act of 1975 (this chapter) to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
 
 #### Abortion Neutrality
 

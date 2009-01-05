@@ -24,7 +24,7 @@
 
 &emsp;(11) report at least once each year to the President and the Congress on the overall activities and accomplishments of the Office, pursuant to section 6615 of this title;
 
-&emsp;(12) periodically survey the nature and needs of national science and technology policy and make recommendations to the President, for review and transmission to the Congress, for the timely and appropriate revision of such policy in accordance with section 6602(a)(6) of this title; and
+&emsp;(12) periodically survey the nature and needs of national science and technology policy and make recommendations to the President, forreview and transmission to the Congress, for the timely and appropriate revision of such policy in accordance with section 6602(a)(6) of this title; and
 
 &emsp;(13) perform such other duties and functions and make and furnish such studies and reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
 
@@ -36,7 +36,7 @@
 
 (B) The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
 
-(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5, includingtraveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) <sup>2</sup> of title 5 for persons in government service employed intermittently.
+(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under section 5332 of title 5, including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) <sup>2</sup> of title 5 for persons in government service employed intermittently.
 
 (Pub. L. 94–282, title II, §205, May 11, 1976, 90 Stat. 464; Pub. L. 97–375, title II, §215(2), (4), Dec. 21, 1982, 96 Stat. 1826, 1827.)
 

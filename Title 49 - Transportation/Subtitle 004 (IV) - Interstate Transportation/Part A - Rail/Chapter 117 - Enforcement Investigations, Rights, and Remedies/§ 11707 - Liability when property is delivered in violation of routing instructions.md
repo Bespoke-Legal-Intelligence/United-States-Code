@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 11710 of t
 
 Prior sections 11707 to 11712 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-Section 11707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1453; Pub. L. 96–258, §1(14), June 3, 1980, 94 Stat. 427; Pub. L. 96–296, §26(b), July 1, 1980, 94 Stat. 818; Pub. L. 96–448, title II, §211(c), Oct. 14, 1980, 94 Stat. 1911; Pub.L. 99–521, §12(d), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 100–690, title IX, §9114, Nov. 18, 1988, 102 Stat. 4535, related to liability of common carriers under receipts and bills of lading. See sections 11706, 14706, and 15906 of this title.
+Section 11707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1453; Pub. L. 96–258, §1(14), June 3, 1980, 94 Stat. 427; Pub. L. 96–296, §26(b), July 1, 1980, 94 Stat. 818; Pub. L. 96–448, title II, §211(c), Oct. 14, 1980, 94 Stat. 1911; Pub. L. 99–521, §12(d), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 100–690, title IX, §9114, Nov. 18, 1988, 102 Stat. 4535, related to liability of common carriers under receipts and bills of lading. See sections 11706, 14706, and 15906 of this title.
 
 Section 11708, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1454; Pub. L. 99–521, §12(e)(1), (2), Oct. 22, 1986, 100 Stat. 2998, related to private enforcement of motor carrier and household goods freight forwarder licensing requirements. See section 14707 of this title.
 

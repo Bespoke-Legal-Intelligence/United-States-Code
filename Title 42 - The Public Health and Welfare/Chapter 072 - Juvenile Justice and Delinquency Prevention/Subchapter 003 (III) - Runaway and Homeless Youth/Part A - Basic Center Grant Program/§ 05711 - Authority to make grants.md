@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) shall include—
 
-&emsp;&emsp;&emsp;(i) safe and appropriate shelter; and
+&emsp;&emsp;&emsp;(i) safe and appropriate shelter provided for not to exceed 21 days; and
 
 &emsp;&emsp;&emsp;(ii) individual, family, and group counseling, as appropriate; and
 
@@ -32,13 +32,21 @@
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this subchapter, funds for grants under subsection (a) of this section shall be allotted annually with respect to the States on the basis of their relative population of individuals who are less than 18 years of age.
 
-(2) The amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $100,000, except that the amount allotted to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $45,000 each.
+(2)(A) Except as provided in subparagraph (B), the amount allotted under paragraph (1) with respect to each State for a fiscal year shall be not less than $200,000, except that the amount allotted to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $70,000 each.
+
+(B) For fiscal years 2009 and 2010, the amount allotted under paragraph (1) with respect to a State for a fiscal year shall be not less than the amount allotted under paragraph (1) with respect to such State for fiscal year 2008.
+
+(C) Whenever the Secretary determines that any part of the amount allotted under paragraph (1) to a State for a fiscal year will not be obligated before the end of the fiscal year, the Secretary shall reallot such part to the remaining States for obligation for the fiscal year.
 
 (3) In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to private entities that have experience in providing the services described in such subsection.
 
-(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§103, 104, Oct. 10, 2003, 117 Stat. 1168.)
+(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, §3(a), Oct. 8, 2008, 122 Stat. 4068.)
 
 #### Amendments
+
+2008—Subsec. (a)(2)(B)(i). Pub. L. 110–378, §3(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “safe and appropriate shelter; and”.
+
+Subsec. (b)(2). Pub. L. 110–378, §3(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, “$200,000” for “$100,000”, and “$70,000” for “$45,000”, and added subpars. (B) and (C).
 
 2003—Subsec. (a)(2)(C)(iv). Pub. L. 108–96, §103, added cl. (iv).
 
@@ -62,7 +70,7 @@ Subsecs. (c), (d). Pub. L. 102–586, §3(b)(3), added subsecs. (c) and (d) and 
 
 1988—Pub. L. 100–690, §7271(a), substituted “Authority to make grants” for “Grants and technical assistance” in section catchline.
 
-Subsec. (a). Pub. L. 100–690, §7271(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants and to provide technical assistance and short-term training to States, localities and private entities and coordinated networks of such entities in accordance with the provisions of this part and assistance to their families. Grants under this part shall be made equitably among the States based upon their respective populations of youth under 18 years of age for the purpose of developing local facilities to deal primarily with the immediate needs of runaway youth or otherwise homeless youth, and their families, in a manner which is outside the law enforcement structure and juvenile justice system. The size of such grant shall be determined by the number of such youth in the community and the existing availability of services. Grants also may be made for the provision of a national communications system for the purpose of assisting runaway and homeless youth in communicating with their families and with service providers. Among applicants priority shall be given to private organizations or institutions which have had past experience in dealing with such youth.”
+Subsec. (a). Pub. L. 100–690, §7271(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants and to provide technical assistance and short-term training to States, localities and private entities and coordinated networks of such entities in accordance with the provisions of this part and assistance to their families. Grants under this part shall be made equitably among the States based upon their respective populations of youth under 18 years of age for the purpose of developing local facilities to deal primarily with the immediate needs of runaway youth or otherwise homeless youth, and their families, in a manner which is outside the law enforcement structure and juvenile justice system. The size of such grant shall be determined by the number of such youth in the community and the existing availability of services. Grants also may be made for the provision of a national communications system for the purpose of assisting runaway and homeless youth in communicating with their families and with service providers. Among applicantspriority shall be given to private organizations or institutions which have had past experience in dealing with such youth.”
 
 Subsec. (b). Pub. L. 100–690, §7271(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary is authorized to provide supplemental grants to runaway centers which are developing, in cooperation with local juvenile court and social service agency personnel, model programs designed to provide assistance to juveniles who have repeatedly left and remained away from their homes or from any facilities in which they have been placed as the result of an adjudication and to the families of such juveniles.”
 

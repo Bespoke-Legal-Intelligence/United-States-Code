@@ -17,12 +17,8 @@
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md) | Coordination and communication of defense research activities. |
 | [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
-| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20or%20Key%20Decision%20Point%20B%20approval.md) | Major defense acquisition programs: certification required before Milestone B approval or Key Decision Point B approval.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20or%20Key%20Decision%20Point%20A%20approval.md) | Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval. |
+| [2366b.](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20or%20Key%20Decision%20Point%20B%20approval.md) | Major defense acquisition programs: certification required before Milestone B or Key Decision Point B approval. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
 | \[2368 to 2370a. Repealed.\] |  |
 | [2371\.](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects: transactions other than contracts and grants. |
@@ -36,6 +32,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title VIII, §813(c), Oct. 14, 2008, 122 Stat. 4527, added items 2366a and 2366b and struck out former items 2366a “Major defense acquisition programs: certification required before Milestone B approval or Key Decision Point B approval” and 2366b “Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval”.
+
+Pub. L. 110–181, div. A, title IX, §943(a)(2), Jan. 28, 2008, 122 Stat. 289, added item 2366b.
 
 2006—Pub. L. 109–163, div. A, title VIII, §801(b), Jan. 6, 2006, 119 Stat. 3367, added item 2366a.
 
@@ -79,7 +79,7 @@ Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, made technical amendm
 
 1986—Pub. L. 99–661, div. A, title II, §234(c)(2), Nov. 14, 1986, 100 Stat. 3849, as amended by Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, added item 2364.
 
-Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumberedtitle IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
+Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
 
 1985—Pub. L. 99–145, title I, §123(a)(2), title XIV, §1457(b), Nov. 8, 1985, 99 Stat. 601, 763, added items 2362 and 2363.
 
@@ -92,8 +92,6 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 1962—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
 1958—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 “Policy, plans, and coordination”.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -118,7 +116,8 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02364 - Coordination and communication of defense research activities](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md)
 - [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)
-- [&sect; 02366a - Major defense acquisition programs certification required before Milestone B or Key Decision Point B approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20or%20Key%20Decision%20Point%20B%20approval.md)
+- [&sect; 02366a - Major defense acquisition programs certification required before Milestone A or Key Decision Point A approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20or%20Key%20Decision%20Point%20A%20approval.md)
+- [&sect; 02366b - Major defense acquisition programs certification required before Milestone B or Key Decision Point B approval](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20or%20Key%20Decision%20Point%20B%20approval.md)
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02368 - Repealed. Pub. L. 102&#8211;190, div. A, title VIII, &sect;821(c)(1), Dec. 5, 1991, 105 Stat. 1431](%C2%A7%2002368%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93190%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Dec.%205%2C%201991%2C%20105%20Stat.%201431.md)
 - [&sect; 02369 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3062(a), Oct. 13, 1994, 108 Stat. 3336](%C2%A7%2002369%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73062%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203336.md)

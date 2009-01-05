@@ -16,7 +16,7 @@ Amounts paid to a State or county under subsection (a) of this section shall be 
 
 #### Amendments
 
-2005—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text readas follows: “Subject to the provisions of section 191(b) of this title, all moneys received from the sales, bonuses, royalties and rentals under the provisions of this chapter, including the payments referred to in section 1005(i) of this title, shall be disposed of in the same manner as such moneys received pursuant to section 191 of this title or pursuant to section 355 of this title, as the case may be.”
+2005—Pub. L. 109–58 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Subject to the provisions of section 191(b) of this title, all moneys received from the sales, bonuses, royalties and rentals under the provisions of this chapter, including the payments referred to in section 1005(i) of this title, shall be disposed of in the same manner as such moneys received pursuant to section 191 of this title or pursuant to section 355 of this title, as the case may be.”
 
 1993—Pub. L. 103–66 substituted “Subject to the provisions of section 191(b) of this title, all moneys” for “All moneys”.
 

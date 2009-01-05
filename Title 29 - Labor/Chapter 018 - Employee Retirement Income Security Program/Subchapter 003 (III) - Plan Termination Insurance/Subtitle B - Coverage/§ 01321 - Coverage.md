@@ -46,15 +46,13 @@ This section does not apply to any plan—
 
 &emsp;(11) maintained solely for the purpose of complying with applicable workmen's compensation laws or unemployment compensation or disability insurance laws;
 
-&emsp;(12) which is a defined benefit plan, to the extent that it is treated as an individual account plan under paragraph (35)(B) of section 1002 of this title;
+&emsp;(12) which is a defined benefit plan, to the extent that it is treated as an individual account plan under paragraph (35)(B) of section 1002 of this title; or
 
-&emsp;(13) established and maintained by a professional service employer which does not at any time after September 2, 1974, have more than 25 active participants in the plan; or
-
-&emsp;(14) established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
+&emsp;(13) established and maintained by a professional service employer which does not at any time after September 2, 1974, have more than 25 active participants in the plan.
 
 #### (c) Definitions
 
-(1) For purposes of subsection (b)(1) of this section, the term “individual account plan” does not include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
+(1) For purposes of subsection (b)(1) of this section, the term “individual account plan” doesnot include a plan under which a fixed benefit is promised if the employer or his representative participated in the determination of that benefit.
 
 (2) For purposes of this paragraph and for purposes of subsection (b)(13) of this section—
 
@@ -76,7 +74,7 @@ For purposes of subsection (b)(9), the term “substantial owner” means an ind
 
 > For purposes of paragraph (3), the constructive ownership rules of section 1563(e) of title 26 (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under section 414(c) of title 26.
 
-(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052.)
+(Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052; Pub. L. 110–458, title I, §109(d)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
 #### References in Text
 
@@ -85,6 +83,8 @@ The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), mean
 The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(14). Pub. L. 110–458 struck out par. (14) which read as follows: “established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
 
 2006—Subsec. (b)(2). Pub. L. 109–280, §906(a)(2)(B), inserted “or which is described in the last sentence of section 1002(32) of this title” at end.
 
@@ -99,6 +99,10 @@ Subsec. (d). Pub. L. 109–280, §407(c)(1)(B), added subsec. (d).
 Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1980—Subsec. (a). Pub. L. 96–364 inserted “unless otherwise specifically indicated in this subchapter,” after “For this purpose,”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 
@@ -120,7 +124,7 @@ Amendment by section 906(a)(2)(B), (b)(2) of Pub. L. 109–280 applicable to any
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(g)(3)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -14,7 +14,7 @@
 
 #### (C) Improper payments
 
-&emsp;&emsp;Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note), for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
+&emsp;&emsp;Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note),for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
 
 &emsp;&emsp;&emsp;(i) identifying activities funded under any such grant program that are susceptible to significant improper payments; and
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribeshall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
+&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribe shall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
 
 #### (B) Contents
 

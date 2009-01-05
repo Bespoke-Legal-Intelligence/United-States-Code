@@ -278,7 +278,7 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 
 “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) \[subsec. (b)(2) of this section\] not later than one hundred and eighty days after the date of the enactment of this Act \[Dec. 8, 1983\].
 
-“(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
+“(d) The Commission shall act on all complaints alleging violation of section 223 of the CommunicationsAct of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

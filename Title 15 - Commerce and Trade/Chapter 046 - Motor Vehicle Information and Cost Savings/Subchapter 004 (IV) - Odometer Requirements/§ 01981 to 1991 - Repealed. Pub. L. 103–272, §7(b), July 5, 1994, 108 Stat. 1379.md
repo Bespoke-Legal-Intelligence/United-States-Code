@@ -28,7 +28,7 @@ Section 1990c, Pub. L. 92–513, title IV, §413, as added Pub. L. 94–364, tit
 
 Section 1990d, Pub. L. 92–513, title IV, §414, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 985, related to inspections and investigations to enforce this subchapter. See sections 32706 and 32708 of Title 49.
 
-Section 1990e, Pub. L. 92–513, title IV, §415, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 987; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, related to administrative warrant for entry or inspection under section 1990d of this title. See section 32707 of Title 49.
+Section 1990e, Pub. L. 92–513, title IV, §415, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat.987; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, related to administrative warrant for entry or inspection under section 1990d of this title. See section 32707 of Title 49.
 
 Section 1990f, Pub. L. 92–513, title IV, §416, as added Pub. L. 94–364, title IV, §408(2), July 14, 1976, 90 Stat. 988, related to compliance with inspection and investigation requirements under section 1990d of this title. See section 32706 of Title 49.
 

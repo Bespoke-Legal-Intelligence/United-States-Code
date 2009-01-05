@@ -18,7 +18,7 @@ The Secretary of the Treasury shall invest in full the amount in the Fund that i
 
 #### (d) Authority to sell obligations
 
-Any obligation acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligation acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold by the Secretary of the Treasury at the market price, and such specialobligations may be redeemed at par plus accrued interest.
 
 #### (e) Amounts credited to Fund
 
@@ -32,9 +32,9 @@ Any obligation acquired by the Fund (except special obligations issued exclusive
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–160, §375(b), struck out “(1)” before “Sums in the Fund”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §375(b), struck out “(1)” before “Sums in the Fund”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law.”
 
 Subsec. (e)(3). Pub. L. 103–160, §375(a), added par. (3).
 
-1992—Subsec. (c). Pub. L. 102–496 substituted “expenditure” for “obligation” in first sentence.
+<b>1992</b>—Subsec. (c). Pub. L. 102–496 substituted “expenditure” for “obligation” in first sentence.
 

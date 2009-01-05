@@ -2,7 +2,7 @@
 
 The members of the Hopi Tribe shall have perpetual use of Cliff Spring as shown on USGS 71/2 minute Quad named Toh Ne Zhonnie Spring, Arizona, Navajo County, dated 1968; and located 1,250 feet west and 200 feet south of the intersection of 36 degrees, 17 minutes, 30 seconds north latitude and 110 degrees, 9 minutes west longitude, as a shrine for religious ceremonial purposes, together with the right to gather branches of fir trees growing within a 2–mile radius of said spring for use in such religious ceremonies, and the further right of ingress, egress, and regress between the Hopi Reservation and said spring. The Hopi Tribe is hereby authorized to fence said spring upon the boundary line as follows:
 
-&emsp;Beginning at a point on the 36 degrees, 17 minutes, 30 seconds north latitude 500 feetwest of its intersection with 110 degrees, 9 minutes west longitude, the point of beginning;
+&emsp;Beginning at a point on the 36 degrees, 17 minutes, 30 seconds north latitude 500 feet west of its intersection with 110 degrees, 9 minutes west longitude, the point of beginning;
 
 &emsp;thence north 46 degrees west, 500 feet to a point on the rim top at elevation 6,900 feet;
 

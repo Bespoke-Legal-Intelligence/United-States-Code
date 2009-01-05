@@ -64,7 +64,7 @@ The Secretary shall, on the basis of reports submitted by the designated State a
 
 &emsp;In carrying out paragraph (2), the Secretary may contract with an appropriate agent to implement the dispute resolution program established under paragraph (2), except that such agent shall not be a person or entity other than a government, nor an affiliate or subsidiary of such a person or entity, that has entered into a contract with the Secretary to implement any other regulatory program under this chapter.
 
-(Pub. L. 93–383, title VI, §623, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–399, title III, §308(c)(4), Oct.8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §§603(b)(5), 605(b), 610, Dec. 27, 2000, 114 Stat. 2999, 3008, 3011.)
+(Pub. L. 93–383, title VI, §623, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §§603(b)(5), 605(b), 610, Dec. 27, 2000, 114 Stat. 2999, 3008, 3011.)
 
 #### Codification
 

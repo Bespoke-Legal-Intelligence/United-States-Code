@@ -106,7 +106,11 @@ In lieu of compliance with the contract market designation requirements of secti
 
 &emsp;The board of trade shall monitor trading in the contracts of the facility to ensure orderly trading in the contract and to maintain an orderly market while providing any necessary trading information to the Commission to allow the Commission to discharge the responsibilities of the Commission under the <sup>1</sup> chapter.
 
-#### (4) Disclosure of general information
+#### (4) Position limitations or accountability
+
+&emsp;To reduce the potential threat of market manipulation or congestion, especially during trading in the delivery month, the derivatives transaction execution facility shall adopt position limits or position accountability for speculators, where necessary and appropriate for a contract, agreement or transaction with an underlying commodity that has a physically deliverable supply.
+
+#### (5) Disclosure of general information
 
 &emsp;The board of trade shall disclose publicly and to the Commission information concerning—
 
@@ -118,23 +122,23 @@ In lieu of compliance with the contract market designation requirements of secti
 
 &emsp;&emsp;(D) other information relevant to participation in trading on the facility.
 
-#### (5) Daily publication of trading information
+#### (6) Daily publication of trading information
 
 &emsp;The board of trade shall make public daily information on settlement prices, volume, open interest, and opening and closing ranges for contracts traded on the facility if the Commission determines that the contracts perform a significant price discovery function for transactions in the cash market for the commodity underlying the contracts.
 
-#### (6) Fitness standards
+#### (7) Fitness standards
 
 &emsp;The board of trade shall establish and enforce appropriate fitness standards for directors, members of any disciplinary committee, members, and any other persons with direct access to the facility, including any parties affiliated with any of the persons described in this paragraph.
 
-#### (7) Conflicts of interest
+#### (8) Conflicts of interest
 
 &emsp;The board of trade shall establish and enforce rules to minimize conflicts of interest in the decision making process of the derivatives transaction execution facility and establish a process for resolving such conflicts of interest.
 
-#### (8) Recordkeeping
+#### (9) Recordkeeping
 
 &emsp;The board of trade shall maintain records of all activities related to the business of the derivatives transaction execution facility in a form and manner acceptable to the Commission for a period of 5 years.
 
-#### (9) Antitrust considerations
+#### (10) Antitrust considerations
 
 &emsp;Unless necessary or appropriate to achieve the purposes of this chapter, the board of trade shall endeavor to avoid—
 
@@ -178,15 +182,29 @@ Not later than 180 days after December 21, 2000, consistent with regulations ado
 
 &emsp;The Commission shall have exclusive jurisdiction over agreements, contracts, or transactions described in paragraph (1) to the extent that the agreements, contracts, or transactions are traded on a derivatives transaction execution facility.
 
-(Sept. 21, 1922, ch. 369, §5a, as added Pub. L. 106–554, §1(a)(5) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2763, 2763A–387.)
+(Sept. 21, 1922, ch. 369, §5a, as added Pub. L. 106–554, §1(a)(5) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2763, 2763A–387; amended Pub. L. 110–234, title XIII, §13203(h), May 22, 2008, 122 Stat. 1440; Pub. L. 110–246, §4(a), title XIII, §13203(h), June 18, 2008, 122 Stat. 1664, 2202.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(D)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Prior Provisions
 
 A prior section 7a, act Sept. 21, 1922, ch. 369, §5a, as added June 15, 1936, ch. 545, §7, 49 Stat. 1497; amended Pub. L. 90–258, §12, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (e), (f), title II, §§208–210, title IV, §§406, 407, Oct. 23, 1974, 88 Stat. 1392, 1400, 1401, 1413; Pub. L. 95–405, §§11, 12, Sept. 30, 1978, 92 Stat. 870, 871; Pub. L. 97–444, title II, §§216, 217(a), Jan. 11, 1983, 96 Stat. 2306, 2307; Pub. L. 99–641, title I, §110(2), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title I, §103, title II, §§201(a), 206(a)(1), 213(a), 217, 222(a), Oct. 28, 1992, 106 Stat. 3594, 3595, 3601, 3609, 3611, 3615, related to duties of contract markets prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
+
+#### Amendments
+
+2008—Subsec. (d)(4) to (10). Pub. L. 110–246, §13203(h), added par. (4) and redesignated former pars. (4) to (9) as (5) to (10), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 13203(h) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

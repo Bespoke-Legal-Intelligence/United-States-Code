@@ -16,17 +16,25 @@ The uses of local currencies generated under this section should emphasize the d
 
 #### (c) Commodities subject to requirements
 
-Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and1992 under section 1431(b) of title 7, the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7.
+Subsection (a) of this section applies with respect to agricultural commodities made available for Poland for fiscal years 1990, 1991, and 1992 under section 1431(b) of title 7, the Food for Peace Act (7 U.S.C. 1691 and following), and section 1736<i>o</i> of title 7.
 
 #### (d) Other uses not precluded
 
 The uses of agricultural commodities and local currencies specified in subsection (a) of this section are in addition to other uses authorized by law.
 
-(Pub. L. 101–179, title II, §205, Nov. 28, 1989, 103 Stat. 1310.)
+(Pub. L. 101–179, title II, §205, Nov. 28, 1989, 103 Stat. 1310; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (a)(2), is section 2226 of Pub. L. 100–418, which is set out as a note under section 1431 of Title 7, Agriculture.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

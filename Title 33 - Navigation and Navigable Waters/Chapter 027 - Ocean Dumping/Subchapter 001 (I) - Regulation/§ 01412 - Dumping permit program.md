@@ -46,7 +46,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (3) Dredged material disposal sites
 
-&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
+&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant tothis section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
 
 &emsp;&emsp;(A) a baseline assessment of conditions at the site;
 
@@ -56,7 +56,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 &emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, and the presence, nature, and bioavailability of the contaminants in the material;
 
-&emsp;&emsp;(E) consideration of the anticipated use of the site over the long term, including theanticipated closure date for the site, if applicable, and any need for management of the site after the closure of the site; and
+&emsp;&emsp;(E) consideration of the anticipated use of the site over the long term, including the anticipated closure date for the site, if applicable, and any need for management of the site after the closure of the site; and
 
 &emsp;&emsp;(F) a schedule for review and revision of the plan (which shall not be reviewed and revised less frequently than 10 years after adoption of the plan, and every 10 years thereafter).
 
@@ -104,5 +104,5 @@ Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 
 Section 2 of Pub. L. 93–254 provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act \[enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section\] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” \[The Convention entered into force for the United States Aug. 30, 1975.\]
 
-Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974,see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
+Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 

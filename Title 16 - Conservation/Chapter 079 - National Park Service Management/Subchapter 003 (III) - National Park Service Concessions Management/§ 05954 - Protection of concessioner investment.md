@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### (2) Capital improvement
 
-&emsp;The term “capital improvement” means a structure, fixture, or nonremovable equipmentprovided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
+&emsp;The term “capital improvement” means a structure, fixture, or nonremovable equipment provided by a concessioner pursuant to the terms of a concessions contract and located on lands of the United States within a unit of the National Park System.
 
 #### (f) Special reporting requirement
 

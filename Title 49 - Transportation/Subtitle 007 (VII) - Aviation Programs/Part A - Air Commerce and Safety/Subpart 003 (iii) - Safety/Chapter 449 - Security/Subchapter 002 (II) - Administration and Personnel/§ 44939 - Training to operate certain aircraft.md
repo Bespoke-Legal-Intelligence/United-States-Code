@@ -22,7 +22,7 @@ Waiting Period.—A person operating as a flight instructor, pilot school, or av
 
 (b)
 
-Interruption of Training.—If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a)from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
+Interruption of Training.—If the Secretary of Homeland Security, more than 30 daysafter receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
 
 (c)
 

@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(d) the term “private entities” means any person, such as any organization incorporated under State law, for profit or not-for-profit, or a consortium of such organizations, but does not include public entities;
 
-&emsp;(e) the term “vehicle” means any truck, van, station wagon, bus, or car used on public roads or highways as well as off-road agricultural equipment, such as tractors, harvesters,and so forth, which presently burn gasoline or diesel fuel; and
+&emsp;(e) the term “vehicle” means any truck, van, station wagon, bus, or car used on public roads or highways as well as off-road agricultural equipment, such as tractors, harvesters, and so forth, which presently burn gasoline or diesel fuel; and
 
 &emsp;(f) the terms “facilities for the transmission and storage of methane”, “methane transmission, storage and dispensing facilities”, and any variant thereof means such facilities which are (1) directly necessary for the conduct of a demonstration, (2) for the exclusive use of a demonstration and (3) reasonably incidental to a demonstration.
 

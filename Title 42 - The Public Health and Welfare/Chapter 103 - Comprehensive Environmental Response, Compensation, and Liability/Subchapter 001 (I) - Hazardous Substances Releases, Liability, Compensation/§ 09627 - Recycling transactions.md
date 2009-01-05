@@ -48,7 +48,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 (2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as “sweating”).
 
-(3) For purposes of this subsection, the term “scrap metal” means bits and pieces of metalparts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
+(3) For purposes of this subsection, the term “scrap metal” means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
 
 #### (e) Transactions involving batteries
 
@@ -58,7 +58,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;(2)(A) with respect to transactions involving lead-acid batteries, the person was in compliance with applicable Federal environmental regulations or standards, and any amendments thereto, regarding the storage, transport, management, or other activities associated with the recycling of spent lead-acid batteries;
 
-&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto; or
+&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries,and the person was in compliance with applicable regulations or standards or any amendments thereto; or
 
 &emsp;(C) with respect to transactions involving other spent batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of such batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto.
 

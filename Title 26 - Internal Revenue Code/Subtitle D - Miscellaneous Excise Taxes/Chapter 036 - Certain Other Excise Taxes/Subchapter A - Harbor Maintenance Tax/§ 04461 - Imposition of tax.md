@@ -42,7 +42,7 @@ Subsec. (c)(2). Pub. L. 109–59, §11116(b)(2), substituted “imposed” for �
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11116(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made bythis section \[amending this section and section 4462 of this title\] shall take effect before, on, and after the date of the enactment of this Act \[Aug. 10, 2005\].”
+Pub. L. 109–59, title XI, §11116(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section \[amending this section and section 4462 of this title\] shall take effect before, on, and after the date of the enactment of this Act \[Aug. 10, 2005\].”
 
 #### Effective Date of 1990 Amendment
 

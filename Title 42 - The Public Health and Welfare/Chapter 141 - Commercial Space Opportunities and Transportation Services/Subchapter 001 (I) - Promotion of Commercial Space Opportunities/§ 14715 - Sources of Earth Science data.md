@@ -6,7 +6,7 @@ The Administrator shall, to the extent possible and while satisfying the scienti
 
 #### (b) Treatment as commercial item under acquisition laws
 
-Acquisitions by the Administrator of the data, services, distribution, and applications referredto in subsection (a) of this section shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) of this section shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 #### (c) Study
 

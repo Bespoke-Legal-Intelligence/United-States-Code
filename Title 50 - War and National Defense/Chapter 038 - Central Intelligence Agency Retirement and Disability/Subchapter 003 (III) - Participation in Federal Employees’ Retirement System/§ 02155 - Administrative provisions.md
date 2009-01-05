@@ -12,5 +12,5 @@ Notwithstanding subsection (a) of this section, section 8461(e) of title 5 shall
 
 #### Prior Provisions
 
-A prior section 305 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 627, related to administrative provisions and was set out as a note under section 403 of this title prior to the generalamendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 305 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 627, related to administrative provisions and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 

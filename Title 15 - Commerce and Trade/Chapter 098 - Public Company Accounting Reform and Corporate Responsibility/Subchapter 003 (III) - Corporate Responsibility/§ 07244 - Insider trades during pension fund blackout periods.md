@@ -14,7 +14,7 @@
 
 #### (B) Actions to recover profits
 
-&emsp;&emsp;An action to recover profits in accordance with this subsection may be instituted atlaw or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer fails or refuses to bring such action within 60 days after the date of request, or fails diligently to prosecute the action thereafter, except that no such suit shall be brought more than 2 years after the date on which such profit was realized.
+&emsp;&emsp;An action to recover profits in accordance with this subsection may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer fails or refuses to bring such action within 60 days after the date of request, or fails diligently to prosecute the action thereafter, except that no such suit shall be brought more than 2 years after the date on which such profit was realized.
 
 #### (3) Rulemaking authorized
 

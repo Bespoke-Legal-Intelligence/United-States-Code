@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) the Committee on Rules and Administration of the Senate, in the case of a claim of a Senator or an officer or employee whose pay is disbursed by the Secretary of the Senate; or
 
-&emsp;&emsp;&emsp;(ii) the Committee on House Administration of the House of Representatives, in the case of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or an officer or employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives.
+&emsp;&emsp;&emsp;(ii) the Committee on House Administration of the House of Representatives, inthe case of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or an officer or employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives.
 
 #### (3) Head of agency
 

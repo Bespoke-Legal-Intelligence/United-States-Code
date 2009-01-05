@@ -26,7 +26,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (A) In general
 
-&emsp;&emsp;An application for the registration of a pesticide covered by this subchapter that is received by the Administrator on or afterthe effective date of the Pesticide Registration Improvement Act of 2003 shall be subject to a registration service fee under this section.
+&emsp;&emsp;An application for the registration of a pesticide covered by this subchapter that is received by the Administrator on or after the effective date of the Pesticide Registration Improvement Act of 2003 shall be subject to a registration service fee under this section.
 
 #### (B) Existing applications
 
@@ -114,7 +114,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (A) In general
 
-&emsp;&emsp;Effective for a covered pesticide registration application received during the periodbeginning on October 1, 2008, and ending on September 30, 2010, the Administrator shall increase by 5 percent the registration service fee payable for the application under paragraph (3).
+&emsp;&emsp;Effective for a covered pesticide registration application received during the period beginning on October 1, 2008, and ending on September 30, 2010, the Administrator shall increase by 5 percent the registration service fee payable for the application under paragraph (3).
 
 #### (B) Additional adjustment
 
@@ -160,19 +160,19 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.
+&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration service fee for an application for minor uses for a pesticide.
 
 #### (ii) Supporting documentation
 
-&emsp;&emsp;&emsp;An applicant requesting a waiver under this subparagraph shall provide supporting documentation that demonstrates, to the satisfaction of the Administrator, that anticipated revenues from the uses that are the subject of the application would be insufficient to justify imposition of the full application fee.
+&emsp;&emsp;&emsp;An applicant requesting a waiver or exemption under this subparagraph shall provide supporting documentation that demonstrates, to the satisfaction of the Administrator, that anticipated revenues from the uses that are the subject of the application would be insufficient to justify imposition of the full application fee.
 
-#### (E) IR–4 waiver
+#### (E) IR–4 exemption
 
-&emsp;&emsp;The Administrator shall waive the registration service fee for an application if the Administrator determines that—
+&emsp;&emsp;The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
 
 &emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
 
-&emsp;&emsp;&emsp;(ii) the waiver is in the public interest.
+&emsp;&emsp;&emsp;(ii) the exemption is in the public interest.
 
 #### (F) Small businesses
 
@@ -450,7 +450,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (B) Meeting with Administrator
 
-&emsp;&emsp;To be eligible to seek judicial review under this subsection, a person seeking the review shall first request in writing, at least 120 days before filing the complaint for judicialreview, a decision review meeting with the Administrator.
+&emsp;&emsp;To be eligible to seek judicial review under this subsection, a person seeking the review shall first request in writing, at least 120 days before filing the complaint for judicial review, a decision review meeting with the Administrator.
 
 #### (4) Remedies
 
@@ -580,11 +580,11 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### (A) Fiscal year 2013
 
-&emsp;&emsp;During fiscal year 2013, the requirement to pay and collect registration service fees applies, except that the level of registration service fees payable under this section shall be reduced 40 percent below the level in effect on September 30, 2008.
+&emsp;&emsp;During fiscal year 2013, the requirement to pay and collect registration service fees applies, except that the level of registration service fees payable under this section shall be reduced 40 percent below the level in effect on September 30, 2012.
 
 #### (B) Fiscal year 2014
 
-&emsp;&emsp;During fiscal year 2014, the requirement to pay and collect registration service fees applies, except that the level of registration service fees payable under this section shall be reduced 70 percent below the level in effect on September 30, 2008.
+&emsp;&emsp;During fiscal year 2014, the requirement to pay and collect registration service fees applies, except that the level of registration service fees payable under this section shall be reduced 70 percent below the level in effect on September 30, 2012.
 
 #### (C) September 30, 2014
 
@@ -600,7 +600,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 &emsp;&emsp;&emsp;In the case of an application received under this section on or after September 30, 2012, subsection (f) of this section shall not apply to the application.
 
-(June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002.)
+(June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649.)
 
 #### References in Text
 
@@ -620,11 +620,23 @@ A prior section 33 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 
 #### Amendments
 
+2008—Subsec. (b)(7)(D)(i). Pub. L. 110–193, §1(a)(1)(A)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “The Administrator may waive or reduce a registration service fee for an application for minor uses for a pesticide.”
+
+Subsec. (b)(7)(D)(ii). Pub. L. 110–193, §1(a)(1)(A)(ii), inserted “or exemption” after “waiver”.
+
+Subsec. (b)(7)(E). Pub. L. 110–193, §1(a)(1)(B)(ii), substituted “exempt an application from the registration service fee” for “waive the registration service fee for an application” in introductory provisions.
+
+Pub. L. 110–193, §1(a)(1)(B)(i), substituted “exemption” for “waiver” in heading.
+
+Subsec. (b)(7)(E)(ii). Pub. L. 110–193, §1(a)(1)(B)(iii), substituted “exemption” for “waiver”.
+
+Subsec. (m)(2)(A), (B). Pub. L. 110–193, §1(a)(2), substituted “2012” for “2008”.
+
 2007—Subsec. (b)(2)(C)(ii). Pub. L. 110–94, §5(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “a request for a waiver from or reduction of the registration service fee.”
 
 Subsec. (b)(2)(D) to (H). Pub. L. 110–94, §5(a)(2), added subpars. (D) to (H).
 
-Subsec. (b)(3)(A). Pub. L. 110–94, §5(b)(1)(A), substituted “Pesticide Registration Improvement RenewalAct” for “Pesticide Registration Improvement Act of 2003”.
+Subsec. (b)(3)(A). Pub. L. 110–94, §5(b)(1)(A), substituted “Pesticide Registration Improvement Renewal Act” for “Pesticide Registration Improvement Act of 2003”.
 
 Subsec. (b)(3)(B). Pub. L. 110–94, §5(b)(1)(B), substituted “S10409 through S10411, dated July 31, 2007.” for “S11631 through S11633, dated September 17, 2003.”
 
@@ -673,6 +685,10 @@ Subsec. (m)(2)(A). Pub. L. 110–94, §5(i)(2)(A), substituted “2013” for �
 Subsec. (m)(2)(B), (C). Pub. L. 110–94, §5(i)(2)(B), substituted “2014” for “2010” in headings and text.
 
 Subsec. (m)(2)(D). Pub. L. 110–94, §5(i)(2)(C), substituted “2012” for “2008” in two places.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–193, §1(b), Mar. 6, 2008, 122 Stat. 650, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on October 1, 2007.”
 
 #### Effective Date of 2007 Amendment
 

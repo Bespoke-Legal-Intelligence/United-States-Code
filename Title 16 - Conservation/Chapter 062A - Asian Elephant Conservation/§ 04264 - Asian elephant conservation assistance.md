@@ -40,7 +40,7 @@ Any relevant wildlife management authority of a nation within the range of Asian
 
 #### (d) Criteria for approval
 
-The Secretary may approve a final project proposal under this section if the project willenhance programs for conservation of Asian elephants by assisting efforts to—
+The Secretary may approve a final project proposal under this section if the project will enhance programs for conservation of Asian elephants by assisting efforts to—
 
 &emsp;(1) implement conservation programs;
 

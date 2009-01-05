@@ -2,7 +2,7 @@
 
 (a) As used in this chapter:
 
-&emsp;(1) The term “farmer” includes a person who is engaged in, or who, with assistance afforded under this chapter, intends to engage in, fish farming.
+&emsp;(1) The term “farmer” includes a person who is engaged in, or who, with assistance affordedunder this chapter, intends to engage in, fish farming.
 
 &emsp;(2) The term “farming” shall be deemed to include fish farming.
 
@@ -66,7 +66,7 @@ Debt forgiveness.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating a farmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
+In general.—Except as provided in subparagraph (B), the term “debt forgiveness” means reducing or terminating afarmer program loan made or guaranteed under this chapter, in a manner that results in a loss to the Secretary, through—
 
 &emsp;&emsp;&emsp;(i) writing down or writing off a loan under section 2001 of this title;
 
@@ -90,11 +90,11 @@ Rural and rural area.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as otherwise provided in this paragraph, the terms “rural” and “rural area” mean any area other than—
+In general.—Subject to subparagraphs (B) through (G), the terms “rural” and “rural area” mean any area other than—
 
 &emsp;&emsp;&emsp;(i) a city or town that has a population of greater than 50,000 inhabitants; and
 
-&emsp;&emsp;&emsp;(ii) the urbanized area contiguous and adjacent to such a city or town.
+&emsp;&emsp;&emsp;(ii) any urbanized area contiguous and adjacent to a city or town described in clause (i).
 
 &emsp;&emsp;(B)
 
@@ -102,23 +102,83 @@ Water and waste disposal grants and direct and guaranteed loans.—For the purpo
 
 &emsp;&emsp;(C)
 
-Community facility loans and grants.—For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of not more than 20,000 inhabitants.
+Community facility loans and grants.—For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
 
 &emsp;&emsp;(D)
 
-Multijurisdictional regional planning organizations; national rural development partnership.—In sections 1926(a)(23) and 2008m of this title, the term “rural area” means—
+Areas rural in character.—
 
-&emsp;&emsp;&emsp;(i) all the territory of a State that is not within the boundary of any standard metropolitan statistical area; and
+&emsp;&emsp;&emsp;(i)
 
-&emsp;&emsp;&emsp;(ii) all territory within any standard metropolitan statistical area within a census tract having a population density of less than 20 persons per square mile, as determined by the Secretary according to the most recent census of the United States as of any date.
+Application.—This subparagraph applies to—
+
+&emsp;&emsp;&emsp;&emsp;(I) an urbanized area described in subparagraphs (A)(ii) and (F) that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has 2 points on its boundary that are at least 40 miles apart; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not contiguous or adjacent to a city or town that has a population of greater than 150,000 inhabitants or an urbanized area of such city or town; and
+
+&emsp;&emsp;&emsp;&emsp;(II) an area within an urbanized area described in subparagraphs (A)(ii) and (F) that is within 1/4-mile of a rural area described in subparagraph (A).
+
+&emsp;&emsp;&emsp;(ii)
+
+Determination.—Notwithstanding any other provision of this paragraph, on the petition of a unit of local government in an area described in clause (i) or on the initiative of the Under Secretary for Rural Development, the Under Secretary may determine that a part of an area described in clause (i) is a rural area for the purposes of this paragraph, if the Under Secretary finds that the part is rural in character, as determined by the Under Secretary.
+
+&emsp;&emsp;&emsp;(iii)
+
+Administration.—In carrying out this subparagraph, the Under Secretary for Rural Development shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) not delegate the authority to carry out this subparagraph;
+
+&emsp;&emsp;&emsp;&emsp;(II) consult with the applicable rural development State or regional director of the Department of Agriculture and the governor of the respective State;
+
+&emsp;&emsp;&emsp;&emsp;(III) provide to the petitioner an opportunity to appeal to the Under Secretary a determination made under this subparagraph;
+
+&emsp;&emsp;&emsp;&emsp;(IV) release to the public notice of a petition filed or initiative of the Under Secretary under this subparagraph not later than 30 days after receipt of the petition or the commencement of the initiative, as appropriate;
+
+&emsp;&emsp;&emsp;&emsp;(V) make a determination under this subparagraph not less than 15 days, and not more than 60 days, after the release of the notice under subclause (IV);
+
+&emsp;&emsp;&emsp;&emsp;(VI) submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report on actions taken to carry out this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) terminate a determination under this subparagraph that part of an area is a rural area on the date that data is available for the next decennial census conducted under section 141(a) of title 13.
 
 &emsp;&emsp;(E)
 
-Rural business investment program.—In subchapter VIII of this chapter, the term “rural area” means an area that is located—
+Exclusions.—Notwithstanding any other provision of this paragraph, in determining which census blocks in an urbanized area are not in a rural area (as defined in this paragraph), the Secretary shall exclude any cluster of census blocks that would otherwise be considered not in a rural area only because the cluster is adjacent to not more than 2 census blocks that are otherwise considered not in a rural area under this paragraph.
 
-&emsp;&emsp;&emsp;(i) outside a standard metropolitan statistical area; or
+&emsp;&emsp;(F)
 
-&emsp;&emsp;&emsp;(ii) within a community that has a population of 50,000 inhabitants or less.
+Urban area growth.—
+
+&emsp;&emsp;&emsp;(i)
+
+Application.—This subparagraph applies to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any area that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is a collection of census blocks that are contiguous to each other;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) has a housing density that the Secretary estimates is greater than 200 housing units per square mile; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) is contiguous or adjacent to an existing boundary of a rural area; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any urbanized area contiguous and adjacent to a city or town described in subparagraph (A)(i).
+
+&emsp;&emsp;&emsp;(ii)
+
+Adjustments.—The Secretary may, by regulation only, consider—
+
+&emsp;&emsp;&emsp;&emsp;(I) an area described in clause (i)(I) not to be a rural area for purposes of subparagraphs (A) and (C); and
+
+&emsp;&emsp;&emsp;&emsp;(II) an area described in clause (i)(II) not to be a rural area for purposes of subparagraph (C).
+
+&emsp;&emsp;&emsp;(iii)
+
+Appeals.—A program applicant may appeal an estimate made under clause (i)(I) based on appropriate data for an area, as determined by the Secretary.
+
+&emsp;&emsp;(G)
+
+Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
 (b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
@@ -140,7 +200,7 @@ Rural business investment program.—In subchapter VIII of this chapter, the ter
 
 Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931.)
 
 #### References in Text
 
@@ -152,7 +212,13 @@ The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably m
 
 Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, §608, set out as a note under section 1981 of this title.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+Subsec. (a)(13). Pub. L. 110–246, §6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
 2002—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
 
@@ -201,6 +267,10 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 1972—Pub. L. 92–419 added cls. (4) and (5).
 
 1966—Pub. L. 89–586 struck out “and” before “(2)” and inserted cl. (3) defining “owner-operator”. See Effective and Termination Date of 1966 Amendment note below.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1997 Amendment
 

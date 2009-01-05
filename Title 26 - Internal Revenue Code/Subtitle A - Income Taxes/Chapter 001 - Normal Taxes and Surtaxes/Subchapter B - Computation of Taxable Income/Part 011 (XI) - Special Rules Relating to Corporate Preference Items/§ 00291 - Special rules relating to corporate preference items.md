@@ -12,7 +12,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 &emsp;&emsp;(B) the amount treated as ordinary income under section 1250 (determined without regard to this paragraph),
 
-> &emsp;shall be treated as gain which is ordinary income under section 1250 and shall be recognized notwithstanding any other provision ofthis title. Under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
+> &emsp;shall be treated as gain which is ordinary income under section 1250 and shall be recognized notwithstanding any other provision of this title. Under regulations prescribed by the Secretary, the provisions of this paragraph shall not apply to the disposition of any property to the extent section 1250(a) does not apply to such disposition by reason of section 1250(d).
 
 #### (2) Reduction in percentage depletion
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (ii) Determination of interest allocable to indebtedness on tax-exempt obligations
 
-&emsp;&emsp;&emsp;Unless the taxpayer (under regulations prescribed by the Secretary) establishesotherwise, the amount determined under clause (i) shall be an amount which bears the same ratio to the aggregate amount allowable (determined without regard to this section and section 265(b)) to the taxpayer as a deduction for interest for the taxable year as—
+&emsp;&emsp;&emsp;Unless the taxpayer (under regulations prescribed by the Secretary) establishes otherwise, the amount determined under clause (i) shall be an amount which bears the same ratio to the aggregate amount allowable (determined without regard to this section and section 265(b)) to the taxpayer as a deduction for interest for the taxable year as—
 
 &emsp;&emsp;&emsp;&emsp;(I) the taxpayer's average adjusted basis (within the meaning of section 1016) of obligations described in clause (i), bears to
 
@@ -240,7 +240,7 @@ Amendment by section 901(b)(4), (d)(4)(C) of Pub. L. 99–514 applicable to taxa
 
 Amendment by section 902(c) of Pub. L. 99–514 applicable to taxable years ending after Dec. 31, 1986, with certain exceptions and qualifications, see section 902(f) of Pub. L. 99–514, set out as a note under section 265 of this title.
 
-Section 1804(k)(1) of Pub. L. 99–514 provided that amendment made by section 1804(k)(1) of Pub. L. 99–514 is effective with respect to taxable years beginning after Dec. 31, 1982.
+Section 1804(k)(1) of Pub. L. 99–514 provided that amendment made by section 1804(k)(1) of Pub. L. 99–514is effective with respect to taxable years beginning after Dec. 31, 1982.
 
 Amendment by sections 1804(k)(3)(A), 1854(c)(1), and 1876(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

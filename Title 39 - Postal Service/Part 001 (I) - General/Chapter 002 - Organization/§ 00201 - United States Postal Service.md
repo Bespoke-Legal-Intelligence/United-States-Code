@@ -40,7 +40,7 @@ Provisions relating to personnel.—
 
 &emsp;&emsp;“(i)
 
-Consultation.—Decisions concerning which personnel are to be transferred pursuant to subparagraph (A) shall be made by the Governors\(within the meaning of section 102(3) of title 39, United States Code) in consultation with the Inspector General appointed under paragraph (1).
+Consultation.—Decisions concerning which personnel are to be transferred pursuant to subparagraph (A) shall be made by the Governors (within the meaning of section 102(3) of title 39, United States Code) in consultation with the Inspector General appointed under paragraph (1).
 
 &emsp;&emsp;“(ii)
 

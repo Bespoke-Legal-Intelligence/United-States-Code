@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 July 26, 1947, ch. 343, §208(b), 61 Stat. 503; Sept. 19, 1951, ch. 407, §402, 65 Stat. 333.
 
-5:626c(b) (1st sentence) is omitted as superseded by sections 8031(a)(1) and 8034(a) of this title. 5:626c(b) (2d sentence) is omitted as covered by section 8034(d) of this title. 5:626c(b) (3d and 4th sentences) is omitted as executed. 5:626c(b) (5th sentence) is omitted as covered by section 8034(b) of this title. 5:626c(b) (proviso of last sentence) is omitted as executed, since the incumbents to whom it is applied no longer hold the offices mentioned. The exception as to the Chairman of the Joint Chiefs of Staff is included because of section 142(c) of this title. The words “and the Marine Corps” are inserted, since under section 5081 of this title the Chief ofNaval Operations takes precedence over all other officers of the naval service.
+5:626c(b) (1st sentence) is omitted as superseded by sections 8031(a)(1) and 8034(a) of this title. 5:626c(b) (2d sentence) is omitted as covered by section 8034(d) of this title. 5:626c(b) (3d and 4th sentences) is omitted as executed. 5:626c(b) (5th sentence) is omitted as covered by section 8034(b) of this title. 5:626c(b) (proviso of last sentence) is omitted as executed, since the incumbents to whom it is applied no longer hold the offices mentioned. The exception as to the Chairman of the Joint Chiefs of Staff is included because of section 142(c) of this title. The words “and the Marine Corps” are inserted, since under section 5081 of this title the Chief of Naval Operations takes precedence over all other officers of the naval service.
 
 #### Amendments
 

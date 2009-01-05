@@ -80,7 +80,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities since January 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
 
-&emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdiction of aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
+&emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdictionof aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
 
 &emsp;(I) Has that government made necessary changes in legal codes in order to enable law enforcement officials to move more effectively against narcotics traffickers, such as new conspiracy laws and new asset seizure laws?
 

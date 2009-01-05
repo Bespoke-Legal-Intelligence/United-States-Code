@@ -38,7 +38,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Prior Provisions
 
-A prior section 1105, act Aug. 14, 1935, ch. 531, title IX, §905, 49 Stat. 641, related to administration, refunds and penalties. For further details, see Prior Law note set out preceding section 1101 of this title.
+A prior section 1105, act Aug. 14, 1935, ch. 531, title IX, §905, 49 Stat. 641, related to administration, refunds andpenalties. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 #### Amendments
 

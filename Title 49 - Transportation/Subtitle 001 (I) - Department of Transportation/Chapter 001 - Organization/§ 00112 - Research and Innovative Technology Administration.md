@@ -68,7 +68,7 @@ Pub. L. 108–426, §4(b), Nov. 30, 2004, 118 Stat. 2425, provided that:
 
 “(1)
 
-In general.—Nothing in this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\] shall grant any authority to the Research and Innovative Technology Administration over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration.
+In general.—Nothing in this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\] shall grant any authority to the Researchand Innovative Technology Administration over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration.
 
 “(2)
 

@@ -122,7 +122,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (3) Funding
 
-&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with, a range of stakeholders including the public, private, and academic sectors.
+&emsp;For activities carried out under this subsection, in addition to funding activities at National Laboratories, the Secretary shall award funds to, and coordinate activities with,a range of stakeholders including the public, private, and academic sectors.
 
 #### (g) Applied research program
 

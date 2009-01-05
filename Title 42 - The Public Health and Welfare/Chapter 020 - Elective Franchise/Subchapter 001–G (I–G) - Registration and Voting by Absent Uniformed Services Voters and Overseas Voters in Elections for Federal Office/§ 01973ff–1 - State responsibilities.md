@@ -32,7 +32,7 @@ Not later than 90 days after the date of each regularly scheduled general electi
 
 With respect to each absent uniformed services voter and each overseas voter who submits a voter registration application or an absentee ballot request, if the State rejects the application or request, the State shall provide the voter with the reasons for the rejection.
 
-(Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI, §1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L. 107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725; Pub. L. 108–375, div. A, title V, §566(b), Oct. 28, 2004, 118 Stat. 1919.)
+(Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI, §1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L.107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725; Pub. L. 108–375, div. A, title V, §566(b), Oct. 28, 2004, 118 Stat. 1919.)
 
 #### References in Text
 

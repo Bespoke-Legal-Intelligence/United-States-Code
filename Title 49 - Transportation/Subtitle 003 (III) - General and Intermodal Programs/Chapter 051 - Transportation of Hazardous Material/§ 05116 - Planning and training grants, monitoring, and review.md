@@ -14,7 +14,7 @@ Planning Grants.—(1) The Secretary shall make grants to States and Indian trib
 
 &emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
 
-(3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
+(3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergencyplanning conducted by adjacent States and Indian tribes.
 
 (b)
 
@@ -94,7 +94,7 @@ Delegation of Authority.—To minimize administrative costs and to coordinate Fe
 
 (h)
 
-Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportation, Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
+Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportation,Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
 
 (i)
 
@@ -116,7 +116,7 @@ Supplemental Training Grants.—
 
 &emsp;(2) For the purposes of this subsection the Secretary, after consultation with interested organizations, shall—
 
-&emsp;&emsp;(A) identify regions or locations in which fire departments or other organizationswhich provide emergency response to hazardous materials transportation accidents and incidents are in need of hazardous materials training; and
+&emsp;&emsp;(A) identify regions or locations in which fire departments or other organizations which provide emergency response to hazardous materials transportation accidents and incidents are in need of hazardous materials training; and
 
 &emsp;&emsp;(B) prioritize such needs and develop a means for identifying additional specific training needs.
 

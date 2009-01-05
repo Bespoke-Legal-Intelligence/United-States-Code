@@ -24,7 +24,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(B) The organization or entity is licensed, chartered, or incorporated in a State and has offered such test, or a test to certify or license in a similar or related occupation, for a minimum of two years before the date on which the organization or entity first submits to the Secretary an application for approval under this section.
 
-&emsp;(C) The organization or entity employs, or consults with, individuals with expertise or substantial experience with respect to all areas of knowledge or skill that are measured by the test and that are required for the license or certificate issued.
+&emsp;(C) The organization or entity employs, or consults with, individuals with expertise orsubstantial experience with respect to all areas of knowledge or skill that are measured by the test and that are required for the license or certificate issued.
 
 &emsp;(D) The organization or entity has no direct financial interest in—
 
@@ -44,7 +44,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;&emsp;(i) A description of the licensing or certification test offered by the organization or entity, including the purpose of the test, the vocational, professional, governmental, and other entities that recognize the test, and the license or certificate issued upon successful completion of the test.
 
-&emsp;&emsp;(ii) The requirements to take the test, including the amount of the fee charged forthe test and any prerequisite education, training, skills, or other certification.
+&emsp;&emsp;(ii) The requirements to take the test, including the amount of the fee charged for the test and any prerequisite education, training, skills, or other certification.
 
 &emsp;&emsp;(iii) The period for which the license or certificate awarded upon successful completion of the test is valid, and the requirements for maintaining or renewing the license or certificate.
 
@@ -78,7 +78,11 @@ Professional Certification and Licensure Advisory Committee.—(1) There is esta
 
 (5) The Committee shall terminate December 31, 2006.
 
-(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828.)
+(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), June 30, 2008, 122 Stat. 2375.)
+
+#### Amendment of Section
+
+<i>Pub. L. 110–252, title V, §5003(b)(2)(A)(iii), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsections (a)(1), (c)(1), (c)(1)(G), (d), and (e)(2) of this section are amended by inserting “33,” after “32,”.</i>
 
 #### Prior Provisions
 
@@ -87,6 +91,10 @@ A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972
 #### Amendments
 
 2002—Subsec. (c)(1)(B). Pub. L. 107–330 substituted “such test, or a test to certify or license in a similar or related occupation,” for “the test”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–252 effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as a note under section 16163 of Title 10, Armed Forces.
 
 #### Effective Date
 

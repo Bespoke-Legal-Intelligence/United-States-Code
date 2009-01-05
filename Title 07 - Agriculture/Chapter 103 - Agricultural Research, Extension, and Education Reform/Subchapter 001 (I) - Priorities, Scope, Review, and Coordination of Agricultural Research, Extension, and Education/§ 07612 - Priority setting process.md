@@ -8,11 +8,11 @@ Consistent with section 3101 of this title, the Secretary shall establish priori
 
 In establishing priorities for agricultural research, extension, and education activities conducted or funded by the Department, the Secretary shall solicit and consider input and recommendations from persons who conduct or use agricultural research, extension, or education.
 
-#### (c) Responsibilities of 1862, 1890, and 1994 Institutions
+#### (c) Responsibilities of 1862, 1890, and 1994 Institutions and Hispanic-serving agricultural colleges and universities
 
 #### (1) Process
 
-&emsp;Effective October 1, 1999, to obtain agricultural research, extension, or education formula funds from the Secretary, each 1862 Institution, 1890 Institution, and 1994 Institution shall establish and implement a process for obtaining input from persons who conduct or use agricultural research, extension, or education concerning the use of the funds.
+&emsp;Effective October 1, 1999, to obtain agricultural research, extension, or education formula funds from the Secretary, each 1862 Institution, 1890 Institution, 1994 Institution, and Hispanic-serving agricultural college and university shall establish and implement a process for obtaining input from persons who conduct or use agricultural research, extension, or education concerning the use of the funds.
 
 #### (2) Regulations
 
@@ -32,5 +32,17 @@ To the maximum extent practicable, the Secretary shall ensure that federally sup
 
 &emsp;(3) achieves agricultural research, extension, and education objectives through multi-institutional and multifunctional approaches and by conducting research at facilities and institutions best equipped to achieve those objectives.
 
-(Pub. L. 105–185, title I, §102, June 23, 1998, 112 Stat. 526.)
+(Pub. L. 105–185, title I, §102, June 23, 1998, 112 Stat. 526; Pub. L. 110–234, title VII, §7129(c)(2), May 22, 2008, 122 Stat. 1227; Pub. L. 110–246, §4(a), title VII, §7129(c)(2), June 18, 2008, 122 Stat. 1664, 1988.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–246, §7129(c)(2), inserted “and Hispanic-serving agricultural colleges and universities” after “Institutions” in heading and substituted “1994 Institution, and Hispanic-serving agricultural college and university” for “and 1994 Institution” in par. (1).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

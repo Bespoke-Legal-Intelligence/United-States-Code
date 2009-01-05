@@ -20,7 +20,7 @@
 
 &emsp;(4) reproducers or parts thereof, for sound reproductions; and
 
-&emsp;(5) braille writers, typewriters, educational or other materials or devices, or parts thereof, used for writing by, or specifically designed oradapted for use of, a blind person or a person having a physical impairment as described in subsection (a)(1) of this section.
+&emsp;(5) braille writers, typewriters, educational or other materials or devices, or parts thereof, used for writing by, or specifically designed or adapted for use of, a blind person or a person having a physical impairment as described in subsection (a)(1) of this section.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 757.)
 

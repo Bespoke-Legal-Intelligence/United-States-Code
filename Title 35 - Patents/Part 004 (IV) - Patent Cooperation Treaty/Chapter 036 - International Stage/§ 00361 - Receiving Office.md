@@ -2,7 +2,7 @@
 
 (a) The Patent and Trademark Office shall act as a Receiving Office for international applications filed by nationals or residents of the United States. In accordance with any agreement made between the United States and another country, the Patent and Trademark Office may also act as a Receiving Office for international applications filed by residents or nationals of such country who are entitled to file international applications.
 
-(b) The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, including the collection of international fees and their transmittal to the International Bureau.
+(b) The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, includingthe collection of international fees and their transmittal to the International Bureau.
 
 (c) International applications filed in the Patent and Trademark Office shall be in the English language.
 
@@ -16,7 +16,7 @@
 
 1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee,and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
+1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
 
 1984—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 

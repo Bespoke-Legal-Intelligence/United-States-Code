@@ -108,9 +108,9 @@ Section 19(h) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 “(1)
 
-Dividends and interest.—The amendments made by this section \[enacting sections 6049 and 6678 ofthis title and amending this section and sections 6041, 6044, and 6052 of this title\] shall apply to payments of dividends and interest made on or after January 1, 1963.
+Dividends and interest.—The amendments made by this section \[enacting sections 6049 and 6678 of this title and amending this section and sections 6041, 6044, and 6052 of this title\] shall apply to payments of dividends and interest made on or after January 1, 1963.
 
 “(2)
 
-Patronage dividends.—The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
+Patronage dividends.—The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
 

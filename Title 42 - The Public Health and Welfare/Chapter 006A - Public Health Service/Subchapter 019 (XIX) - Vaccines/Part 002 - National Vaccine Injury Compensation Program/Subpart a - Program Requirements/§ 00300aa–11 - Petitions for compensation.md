@@ -64,7 +64,7 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;(II) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table the first symptom or manifestation of the onset or significant aggravation of which did not occur within the time period set forth in the Table but which was caused by a vaccine referred to in subparagraph (A),
 
-&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii) died from the administration of the vaccine,or (iii) suffered such illness, disability, injury, or condition from the vaccine which resulted in inpatient hospitalization and surgical intervention, and
+&emsp;&emsp;(D)(i) suffered the residual effects or complications of such illness, disability, injury, or condition for more than 6 months after the administration of the vaccine, or (ii) died from the administration of the vaccine, or (iii) suffered such illness, disability, injury, or condition from the vaccine which resulted in inpatient hospitalization and surgical intervention, and
 
 &emsp;&emsp;(E) has not previously collected an award or settlement of a civil action for damages for such vaccine-related injury or death,
 

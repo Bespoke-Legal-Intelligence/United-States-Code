@@ -68,15 +68,19 @@ Detail of Employees From Other Agencies.—Upon approval by the Secretary, the D
 
 Funding.—(1) Amounts appropriated for the activities of the centers under this section shall be appropriated separately from amounts appropriated for the Department for medical care.
 
-(2) In addition to funds appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department medical care account and the Department medical and prosthetics research account such amounts as the Under Secretary determines appropriate to carry out the purposes of this section. Any determination by the Under Secretary under the preceding sentence shall be made in consultation with the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions.
+(2) In addition to funds appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetics research account such amounts as the Under Secretary determines appropriate to carry out the purposes of this section. Any determination by the Under Secretary under the preceding sentence shall be made in consultation with the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions.
 
 (3) There are authorized to be appropriated for the centers under this section $20,000,000 for each of fiscal years 2003 through 2007.
 
-(Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024.)
+(Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### References in Text
 
 Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, §102(a)(2), title III, §301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+2008—Subsec. (i)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Transfer of Functions
 

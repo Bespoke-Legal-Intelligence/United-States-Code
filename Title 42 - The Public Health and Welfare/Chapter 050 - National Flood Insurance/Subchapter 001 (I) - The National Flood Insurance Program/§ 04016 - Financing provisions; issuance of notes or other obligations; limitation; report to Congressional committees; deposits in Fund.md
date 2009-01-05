@@ -44,11 +44,11 @@ Pub. L. 108–3 substituted “December 31, 2003” for “December 31, 2002”.
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
-1973—Subsec. (a). Pub. L. 93–234 substituted provisions respecting issuance of notes and obligation for $500,000,000 without approval of President and for $1,000,000,000 with approval of President, for former provision prescribing a $250,000,000 limitation, struck out provision rescinding authority of Secretary to issue notes and obligations under section 2414(e) of this title, and provided for report to Congressional Committees when the approval of the President is requested.
+1973—Subsec. (a). Pub. L. 93–234 substituted provisions respecting issuance of notes and obligation for $500,000,000 without approval of President and for $1,000,000,000 with approval of President, for former provision prescribing a $250,000,000 limitation, struck outprovision rescinding authority of Secretary to issue notes and obligations under section 2414(e) of this title, and provided for report to Congressional Committees when the approval of the President is requested.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House ofRepresentatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2004 Amendment
 

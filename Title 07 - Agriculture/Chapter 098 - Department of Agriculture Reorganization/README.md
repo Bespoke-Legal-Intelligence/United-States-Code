@@ -30,7 +30,9 @@
 | :--- | ---: |
 | [6931\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006931%20-%20Under%20Secretary%20of%20Agriculture%20for%20Farm%20and%20Foreign%20Agricultural%20Services.md) | Under Secretary of Agriculture for Farm and Foreign Agricultural Services. |
 | [6932\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006932%20-%20Consolidated%20Farm%20Service%20Agency.md) | Consolidated Farm Service Agency. |
+| [6932a.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006932a%20-%20Prohibition%20on%20closure%20or%20relocation%20of%20county%20offices%20for%20the%20Farm%20Service%20Agency.md) | Prohibition on closure or relocation of county offices for the Farm Service Agency. |
 | [6933\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006933%20-%20Office%20of%20Risk%20Management.md) | Office of Risk Management. |
+| [6934\.](Subchapter%20002%20%28II%29%20-%20Farm%20and%20Foreign%20Agricultural%20Services/%C2%A7%2006934%20-%20Office%20of%20Advocacy%20and%20Outreach.md) | Office of Advocacy and Outreach. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,9 +41,11 @@
 |  |  |
 | :--- | ---: |
 | [6941\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006941%20-%20Under%20Secretary%20of%20Agriculture%20for%20Rural%20Development.md) | Under Secretary of Agriculture for Rural Development. |
+| [6941a.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006941a%20-%20Coordinator%20for%20Chronically%20Underserved%20Rural%20Areas.md) | Coordinator for Chronically Underserved Rural Areas. |
 | [6942\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006942%20-%20Rural%20Utilities%20Service.md) | Rural Utilities Service. |
 | [6943\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006943%20-%20Rural%20Housing%20and%20Community%20Development%20Service.md) | Rural Housing and Community Development Service. |
 | [6944\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006944%20-%20Rural%20Business%20and%20Cooperative%20Development%20Service.md) | Rural Business and Cooperative Development Service. |
+| [6945\.](Subchapter%20003%20%28III%29%20-%20Rural%20Economic%20and%20Community%20Development/%C2%A7%2006945%20-%20Rural%20Development%20Disaster%20Assistance%20Fund.md) | Rural Development Disaster Assistance Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

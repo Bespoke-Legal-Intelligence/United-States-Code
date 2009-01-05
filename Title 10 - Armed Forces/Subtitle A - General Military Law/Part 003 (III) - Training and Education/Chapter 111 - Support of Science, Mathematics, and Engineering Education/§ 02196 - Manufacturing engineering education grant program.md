@@ -32,7 +32,7 @@ Geographical Distribution of Grants.—In awarding grants under this subsection,
 
 (e)
 
-Coordination of Grant Program With the National Science Foundation.—The Secretary of Defense and the Director of the National Science Foundation shall enter into an agreement for carrying out the grant program established pursuant to this section. The agreement shall include procedures to ensure that the grant program is fully coordinated with similar existing programs of the National Science Foundation.
+Coordination of Grant Program With the National Science Foundation.—The Secretaryof Defense and the Director of the National Science Foundation shall enter into an agreement for carrying out the grant program established pursuant to this section. The agreement shall include procedures to ensure that the grant program is fully coordinated with similar existing programs of the National Science Foundation.
 
 (f)
 

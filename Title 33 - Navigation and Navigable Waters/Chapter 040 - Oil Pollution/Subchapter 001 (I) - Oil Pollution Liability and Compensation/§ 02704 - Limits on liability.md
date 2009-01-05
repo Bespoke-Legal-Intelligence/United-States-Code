@@ -32,7 +32,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (1) Treated first as tank vessel
 
-&emsp;For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantial threat of a discharge, of oil on or above the surface of the water.
+&emsp;For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantialthreat of a discharge, of oil on or above the surface of the water.
 
 #### (2) Treated as facility for excess liability
 
@@ -100,7 +100,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995,109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554.)
 
 #### References in Text
 

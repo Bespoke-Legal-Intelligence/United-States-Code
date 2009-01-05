@@ -40,7 +40,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(ii) repayable less frequently than monthly and in default for at least 180 days;
 
-&emsp;(C) the term “grace period” means the period of nine months beginning on the date onwhich the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
+&emsp;(C) the term “grace period” means the period of nine months beginning on the date on which the borrower ceases to pursue a full-time or half-time course of study at a school of nursing; and
 
 &emsp;(D) the term “matured loans” means the total principal amount of all loans made by a school of nursing under this part <sup>1</sup> minus the total principal amount of loans made by such school to students who are—
 

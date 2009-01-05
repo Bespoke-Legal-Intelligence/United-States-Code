@@ -15,15 +15,17 @@
 | [2880\.](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md) | Unit size and type. |
 | [2881\.](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md) | Ancillary supporting facilities. |
 | [2881a.](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md) | Pilot projects for acquisition or construction of military unaccompanied housing. |
-| [2882\.](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md) | Assignment of members of the armed forces to housing units. |
+| [2882\.](%C2%A7%2002882%20-%20Effect%20of%20assignment%20of%20members%20to%20housing%20units%20acquired%20or%20constructed%20under%20alternative%20authority.md) | Effect of assignment of members to housing units acquired or constructed under alternative authority. |
 | [2883\.](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md) | Department of Defense Housing Funds. |
 | [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
 | [2884\.](%C2%A7%2002884%20-%20Reports.md) | Reports. |
-| \[2885. | Repealed.\] |
+| [2885\.](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md) | Oversight and accountability for privatization projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, div. B, title XXVIII, §2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 “Assignment of members of the armed forces to housing units”.
 
 2004—Pub. L. 108–375, div. B, title XXVIII, §2805(b)(2), Oct. 28, 2004, 118 Stat. 2122, struck out item 2885 “Expiration of authority”.
 
@@ -53,8 +55,8 @@
 - [&sect; 02880 - Unit size and type](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md)
 - [&sect; 02881 - Ancillary supporting facilities](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md)
 - [&sect; 02881a - Pilot projects for acquisition or construction of military unaccompanied housing](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md)
-- [&sect; 02882 - Assignment of members of the armed forces to housing units](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md)
+- [&sect; 02882 - Effect of assignment of members to housing units acquired or constructed under alternative authority](%C2%A7%2002882%20-%20Effect%20of%20assignment%20of%20members%20to%20housing%20units%20acquired%20or%20constructed%20under%20alternative%20authority.md)
 - [&sect; 02883 - Department of Defense Housing Funds](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md)
 - [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)
 - [&sect; 02884 - Reports](%C2%A7%2002884%20-%20Reports.md)
-- [&sect; 02885 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2805(b)(1), Oct. 28, 2004, 118 Stat. 2122](%C2%A7%2002885%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72805%28b%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202122.md)
+- [&sect; 02885 - Oversight and accountability for privatization projects](%C2%A7%2002885%20-%20Oversight%20and%20accountability%20for%20privatization%20projects.md)

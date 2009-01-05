@@ -14,15 +14,17 @@ The corporation shall have common stock, without par value, which shall be veste
 
 (1) Except as provided in paragraph (2), the corporation may make such capital distributions (as such term is defined in section 4502 of this title) as may be declared by the board of directors. All capital distributions shall be charged against the general surplus account of the corporation.
 
-(2) The corporation may not make any capital distribution that would decrease the total capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the risk-based capital level for the corporation established under section 4611 of this title or that would decrease the core capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the minimum capital level for the corporation established under section 4612 of this title, without prior written approval of the distribution by the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development.
+(2) The corporation may not make any capital distribution that would decrease the total capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the risk-based capital level for the corporation established under section 4611 of this title or that would decrease the core capital of the corporation (as such term is defined in section 4502 of this title) to an amount less than the minimum capital level for the corporation established under section 4612 of this title, without prior written approval of the distribution by the Director of the Federal Housing Finance Agency.
 
 #### (d) Institutions eligible to purchase stock
 
 Notwithstanding any other provision of law, any institution, including a national bank or State member bank of the Federal Reserve System or any member of the Federal Deposit Insurance Corporation, trust company, or other banking organization, organized under any law of the United States, including the laws relating to the District of Columbia, shall be authorized to purchase shares of common stock of the corporation and to hold or dispose of such stock, subject to the provisions of this subchapter.
 
-(June 27, 1934, ch. 847, title III, §303, 48 Stat. 1254; Feb. 3, 1938, ch. 13, §7, 52 Stat. 24; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §202, 70 Stat. 1096; Pub. L. 85–10, §1(a), (b), Mar. 27, 1957, 71 Stat. 7; Pub. L. 85–104, title II, §§201, 202, July 12, 1957, 71 Stat. 298; Pub. L. 87–70, title VI, §603(b), (c), June 30, 1961, 75 Stat. 176; Pub. L. 89–117, title X, §1004(b), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–566, §2, Sept. 10, 1966, 80 Stat. 738; Pub. L. 90–19, §1(j)(2), (<i>l</i>), May 25, 1967, 81 Stat. 18; Pub. L. 90–448, title VIII, §802 (i)–(n), (s), Aug. 1, 1968, 82 Stat. 537, 538; Pub. L. 91–609, title IX, §902, Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §806(g)–(i), Aug. 22, 1974, 88 Stat. 727, 728; Pub. L. 97–320, title VII, §707(a), Oct. 15, 1982, 96 Stat. 1540; Pub. L. 100–242, title IV, §442, Feb. 5, 1988, 101 Stat. 1921; Pub. L. 102–550, title XIII, §1381(d), Oct. 28, 1992, 106 Stat. 3995.)
+(June 27, 1934, ch. 847, title III, §303, 48 Stat. 1254; Feb. 3, 1938, ch. 13, §7, 52 Stat. 24; July 1, 1948,ch. 784, §1, 62 Stat. 1206; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §202, 70 Stat. 1096; Pub. L. 85–10, §1(a), (b), Mar. 27, 1957, 71 Stat. 7; Pub. L. 85–104, title II, §§201, 202, July 12, 1957, 71 Stat. 298; Pub. L. 87–70, title VI, §603(b), (c), June 30, 1961, 75 Stat. 176; Pub. L. 89–117, title X, §1004(b), Aug. 10, 1965, 79 Stat. 501; Pub. L. 89–566, §2, Sept. 10, 1966, 80 Stat. 738; Pub. L. 90–19, §1(j)(2), (<i>l</i>), May 25, 1967, 81 Stat. 18; Pub. L. 90–448, title VIII, §802 (i)–(n), (s), Aug. 1, 1968, 82 Stat. 537, 538; Pub. L. 91–609, title IX, §902, Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §806(g)–(i), Aug. 22, 1974, 88 Stat. 727, 728; Pub. L. 97–320, title VII, §707(a), Oct. 15, 1982, 96 Stat. 1540; Pub. L. 100–242, title IV, §442, Feb. 5, 1988, 101 Stat. 1921; Pub. L. 102–550, title XIII, §1381(d), Oct. 28, 1992, 106 Stat. 3995; Pub. L. 110–289, div. A, title I, §1161(b)(1), July 30, 2008, 122 Stat. 2779.)
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
 
 1992—Subsec. (a). Pub. L. 102–550, §1381(d)(1), inserted at end “The corporation may issue shares of common stock in return for appropriate payments into capital or capital and surplus.”
 
@@ -32,7 +34,7 @@ Subsecs. (d), (f). Pub. L. 102–550, §1381(d)(3), (4), redesignated subsec. (f
 
 1988—Subsec. (a). Pub. L. 100–242 inserted after first sentence “The corporation may eliminate such rights of cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered.”
 
-1982—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferredstock on such terms and conditions as the board of directors shall prescribe.
+1982—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferred stock on such terms and conditions as the board of directors shall prescribe.
 
 Pub. L. 97–320, §707(a)(2), struck out “common” before “stock at all times”.
 
@@ -64,7 +66,7 @@ Subsec. (g). Pub. L. 90–448, §802(n), repealed subsec. (g) which directed Sec
 
 Subsec. (g). Pub. L. 90–19, §1(<i>l</i>), substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator”.
 
-1966—Subsec. (d). Pub. L. 89–566, §2(a), raised from $115,000,000 to $225,000,000 the amount of the par value of the preferred stock of the Association which the Secretary of the Treasury is authorized and directed to accept in addition to the original $21,000,000.
+1966—Subsec. (d). Pub. L. 89–566, §2(a), raised from $115,000,000 to $225,000,000 the amount of the par value ofthe preferred stock of the Association which the Secretary of the Treasury is authorized and directed to accept in addition to the original $21,000,000.
 
 Subsec. (e). Pub. L. 89–566, §2(b), substituted “$225,000,000” for “$115,000,000” in second sentence.
 

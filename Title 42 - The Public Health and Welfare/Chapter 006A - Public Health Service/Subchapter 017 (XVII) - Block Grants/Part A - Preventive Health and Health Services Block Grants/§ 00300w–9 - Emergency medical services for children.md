@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (d) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years,$3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2005.
+To carry out this section, there are authorized to be appropriated $2,000,000 for fiscal year 1985 and for each of the two succeeding fiscal years, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for each of the fiscal years 1991 and 1992, and such sums as may be necessary for each of the fiscal years 1993 through 2005.
 
 (July 1, 1944, ch. 373, title XIX, §1910, as added Pub. L. 98–555, §7, Oct. 30, 1984, 98 Stat. 2856; amended Pub. L. 99–272, title XVII, §17004, Apr. 7, 1986, 100 Stat. 360; Pub. L. 100–607, title III, §302, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §5, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–410, §11, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 105–392, title IV, §415, Nov. 13, 1998, 112 Stat. 3590.)
 

@@ -14,5 +14,5 @@ Any plan approved by the Federal Savings and Loan Insurance Corporation under fo
 
 #### Transfer of Functions
 
-For provisions relating to abolition of Federal Savings and Loan Insurance Corporation and Federal HomeLoan Bank Board and transfer of functions, personnel, and property of such agencies, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+For provisions relating to abolition of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board and transfer of functions, personnel, and property of such agencies, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 

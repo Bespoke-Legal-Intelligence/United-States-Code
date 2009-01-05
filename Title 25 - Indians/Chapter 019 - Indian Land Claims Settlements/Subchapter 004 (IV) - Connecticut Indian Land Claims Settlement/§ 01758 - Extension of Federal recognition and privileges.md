@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, Federal recognition is extended to t
 
 #### (b) Filing of organic governing document and amendments
 
-The Tribe shall file with the Secretary a copy of its organic governing document and any amendments thereto. Such instrument must be consistent with the terms of this subchapter and the Act to Implement the Settlement of the Mashantucket Pequot Indian Land Claim as enacted by the State of Connecticut and approved June 9, 1982.
+The Tribe shall file with the Secretary a copy of its organic governing document and any amendments thereto. Such instrument must be consistent with the terms of this subchapter and the Act to Implement the Settlement of theMashantucket Pequot Indian Land Claim as enacted by the State of Connecticut and approved June 9, 1982.
 
 #### (c) Eligibility for services and benefits
 

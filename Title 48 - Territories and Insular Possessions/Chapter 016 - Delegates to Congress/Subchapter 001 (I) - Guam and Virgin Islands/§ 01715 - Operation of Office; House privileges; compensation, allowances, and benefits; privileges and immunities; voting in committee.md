@@ -6,5 +6,5 @@ The Delegate from Guam and the Delegate from the Virgin Islands shall have such 
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out last two provisos which read as follows: “<i>Provided further</i>, That the clerk hire allowance of each Delegate shall be a single per annum gross rate that is 60 per centum of the clerk hire allowance of a Member: <i>Provided further</i>, That the transportation expenses of each Delegate that are subject to reimbursement under section 43b of title 2 shall not exceed the cost of four round trips each year.”
+1996—Pub. L. 104–186 struck out last two provisos which read as follows: “<i>Provided further</i>, That the clerkhire allowance of each Delegate shall be a single per annum gross rate that is 60 per centum of the clerk hire allowance of a Member: <i>Provided further</i>, That the transportation expenses of each Delegate that are subject to reimbursement under section 43b of title 2 shall not exceed the cost of four round trips each year.”
 

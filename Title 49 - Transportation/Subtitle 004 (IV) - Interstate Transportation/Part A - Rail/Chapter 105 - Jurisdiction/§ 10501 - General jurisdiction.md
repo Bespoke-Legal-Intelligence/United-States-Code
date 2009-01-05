@@ -38,7 +38,11 @@
 
 &emsp;(B) the term “mass transportation” means transportation services described in section 5302(a) of this title that are provided by rail.
 
-(2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.
+(2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
+
+&emsp;(A) mass transportation provided by a local government authority; or
+
+&emsp;(B) a solid waste rail transfer facility as defined in section 10908 of this title, except as provided under sections 10908 and 10909 of this title.
 
 (3)(A) Notwithstanding paragraph (2) of this subsection, a local governmental authority, described in paragraph (2), is subject to applicable laws of the United States related to—
 
@@ -50,7 +54,7 @@
 
 (B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before January 1, 1996. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807; amended Pub. L. 104–287, §5(21), Oct. 11, 1996, 110 Stat. 3390.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807; amended Pub. L. 104–287, §5(21), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 110–432, div. A, title VI, §602, Oct. 16, 2008, 122 Stat. 4900.)
 
 #### References in Text
 
@@ -62,7 +66,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(B), is act Au
 
 The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 #### Prior Provisions
 
@@ -71,6 +75,8 @@ Provisions similar to those in this section were contained in sections 10501 and
 A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 96–448, title II, §214(c)(3)–(5), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272, §4(j)(15), July 5, 1994, 108 Stat. 1369, related to jurisdiction of the Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 10501 and 15301 of this title.
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.”
 
 1996—Subsec. (c)(3)(B). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 

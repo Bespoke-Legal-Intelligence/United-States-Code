@@ -60,7 +60,7 @@ Regulations.—
 
 &emsp;(1)
 
-In general.—Except as provided in subsection (c), the Postal Service shall prescribeany regulations necessary to carry out this section, including provisions relating to—
+In general.—Except as provided in subsection (c), the Postal Service shall prescribe any regulations necessary to carry out this section, including provisions relating to—
 
 &emsp;&emsp;(A) which office or other authority within the Postal Service shall be responsible for making the decisions described in subsection (d)(2);
 

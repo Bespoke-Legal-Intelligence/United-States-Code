@@ -6,7 +6,7 @@ In General.—The provisions of subchapter II of chapter 35 of title 44 shall co
 
 (b)
 
-Responsibilities.—In administering the provisions of subchapter II of chapter 35 of title 44 with respect to the Department of Defense after the expiration of authority under section 3536 <sup>1</sup> of such title, the Secretary of Defense shall perform the duties set forth in that subchapter for the Director of the Office of Management and Budget.
+Responsibilities.—In administering the provisions of subchapter II of chapter 35 of title44 with respect to the Department of Defense after the expiration of authority under section 3536 <sup>1</sup> of such title, the Secretary of Defense shall perform the duties set forth in that subchapter for the Director of the Office of Management and Budget.
 
 (Added Pub. L. 107–314, div. A, title X, §1052(b)(1), Dec. 2, 2002, 116 Stat. 2648.)
 

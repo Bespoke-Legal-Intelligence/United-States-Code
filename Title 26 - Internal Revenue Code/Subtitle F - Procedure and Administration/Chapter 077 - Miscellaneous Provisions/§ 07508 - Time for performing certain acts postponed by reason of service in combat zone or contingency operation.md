@@ -94,7 +94,7 @@ For purposes of subsection (a), the term “qualified hospitalization” means�
 
 2003—Pub. L. 108–121, §104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
 
-Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”,“or operation” after “such an area”, and “or operation” after “such area”.
+Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
 
 Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted “or contingency operation” after “area”.
 
@@ -162,7 +162,7 @@ Section 5(b) of Pub. L. 93–597 provided that: “The amendments made by subsec
 
 #### Transfer of Functions
 
-Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties ofPostmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
 #### Ex. Ord. No. 12750. Designation of Arabian Peninsula Areas, Airspace, and Adjacent Waters as Persian Gulf Desert Shield Area
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 03 - The President
 
-GPO's 2007 edition (laws in effect as of 2008-01-08), from its printed page marks. The exact position of
+GPO's 2008 edition (laws in effect as of 2009-01-05), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title3.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -25,9 +25,9 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00015 - Counting electoral votes in Congress](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000015%20-%20Counting%20electoral%20votes%20in%20Congress.md) | 4–5 |
 | [&sect; 00016 - Same; seats for officers and Members of two Houses in joint meeting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000016%20-%20Same%3B%20seats%20for%20officers%20and%20Members%20of%20two%20Houses%20in%20joint%20meeting.md) | 5 |
 | [&sect; 00017 - Same; limit of debate in each House](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000017%20-%20Same%3B%20limit%20of%20debate%20in%20each%20House.md) | 5 |
-| [&sect; 00018 - Same; parliamentary procedure at joint meeting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000018%20-%20Same%3B%20parliamentary%20procedure%20at%20joint%20meeting.md) | 5 |
-| [&sect; 00019 - Vacancy in offices of both President and Vice President; officers eligible to act](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000019%20-%20Vacancy%20in%20offices%20of%20both%20President%20and%20Vice%20President%3B%20officers%20eligible%20to%20act.md) | 5–6 |
-| [&sect; 00020 - Resignation or refusal of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000020%20-%20Resignation%20or%20refusal%20of%20office.md) | 6–7 |
+| [&sect; 00018 - Same; parliamentary procedure at joint meeting](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000018%20-%20Same%3B%20parliamentary%20procedure%20at%20joint%20meeting.md) | 5–6 |
+| [&sect; 00019 - Vacancy in offices of both President and Vice President; officers eligible to act](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000019%20-%20Vacancy%20in%20offices%20of%20both%20President%20and%20Vice%20President%3B%20officers%20eligible%20to%20act.md) | 6–7 |
+| [&sect; 00020 - Resignation or refusal of office](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000020%20-%20Resignation%20or%20refusal%20of%20office.md) | 7 |
 | [&sect; 00021 - Definitions](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/%C2%A7%2000021%20-%20Definitions.md) | 7 |
 | [Chapter 002 - Office and Compensation of President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md) | 7–13 |
 | [&sect; 00101 - Commencement of term of office](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000101%20-%20Commencement%20of%20term%20of%20office.md) | 13–14 |
@@ -35,8 +35,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00103 - Traveling expenses](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 18 |
 | [&sect; 00104 - Salary of the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 18–19 |
 | [&sect; 00105 - Assistance and services for the President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000105%20-%20Assistance%20and%20services%20for%20the%20President.md) | 19–21 |
-| [&sect; 00106 - Assistance and services for the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 21–22 |
-| [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 22–23 |
+| [&sect; 00106 - Assistance and services for the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 21–23 |
+| [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 23 |
 | [&sect; 00108 - Assistance to the President for unanticipated needs](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000108%20-%20Assistance%20to%20the%20President%20for%20unanticipated%20needs.md) | 23–24 |
 | [&sect; 00109 - Public property in and belonging to the Executive Residence at the White House](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000109%20-%20Public%20property%20in%20and%20belonging%20to%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 24 |
 | [&sect; 00110 - Furniture for the Executive Residence at the White House](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000110%20-%20Furniture%20for%20the%20Executive%20Residence%20at%20the%20White%20House.md) | 24–26 |

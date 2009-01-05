@@ -6,7 +6,7 @@ Compensation Guidelines.—(1) The Secretary of Transportation shall prescribe g
 
 &emsp;(A) provide for a reduction in compensation when an air carrier does not provide service or transportation agreed to be provided;
 
-&emsp;(B) consider amounts needed by an air carrier to promote public use of the service ortransportation for which compensation is being paid; and
+&emsp;(B) consider amounts needed by an air carrier to promote public use of the service or transportation for which compensation is being paid; and
 
 &emsp;(C) include expense elements based on representative costs of air carriers providing scheduled air transportation of passengers, property, and mail on aircraft of the type the Secretary decides is appropriate for providing the service or transportation for which compensation is being provided.
 

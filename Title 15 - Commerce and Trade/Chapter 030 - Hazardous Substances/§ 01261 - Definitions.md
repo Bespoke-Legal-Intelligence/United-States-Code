@@ -6,9 +6,9 @@ For the purposes of this chapter—
 
 (b) The term “interstate commerce” means (1) commerce between any State or territory and any place outside thereof, and (2) commerce within the District of Columbia or within any territory not organized with a legislative body.
 
-(c) Omitted
+(c) The term “Commission” means the Consumer Product Safety Commission.
 
-(d) The term “Commission” means the Consumer Product Safety Commission.
+(d) Repealed. Pub. L. 110–314, title II, §204(b)(4)(A), Aug. 14, 2008, 122 Stat. 3041
 
 (e) The term “person” includes an individual, partnership, corporation, and association.
 
@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(E) Any solder which has a lead content in excess of 0.2 percent.
 
-&emsp;(2) The term “hazardous substance” shall not apply to pesticides subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], nor to foods, drugs and cosmetics subject to the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], nor to substances intended for use as fuels when stored in containers and used in the heating, cooking, or refrigeration system of a house, nor to tobacco and tobacco products, but such term shall apply to any article which is not itself a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazardous substance within the meaning of paragraph (1) of this subsection by reason of bearing or containing such a pesticide.
+&emsp;(2) The term “hazardous substance” shall not apply to pesticides subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], nor to foods, drugs and cosmetics subject to the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], nor to substances intended for use as fuels when stored in containers and used in the heating, cooking, or refrigeration system of a house, nor to tobacco and tobacco products, but such term shall apply to any article which is not itself a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazardous substance within the meaning of subparagraph (1) of this paragraph by reason of bearing or containing such a pesticide.
 
 &emsp;(3) The term “hazardous substance” shall not include any source material, special nuclear material, or byproduct material as defined in the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and regulations issued pursuant thereto by the Atomic Energy Commission.
 
@@ -34,7 +34,7 @@ For the purposes of this chapter—
 
 (2) If the Commission finds that available data on human experience with any substance indicate results different from those obtained on animals in the above-named dosages or concentrations, the human data shall take precedence.
 
-(i) The term “corrosive” means any substance which in contact with living tissue will causedestruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
+(i) The term “corrosive” means any substance which in contact with living tissue will cause destruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
 
 (j) The term “irritant” means any substance not corrosive within the meaning of subparagraph (i) of this section which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.
 
@@ -60,11 +60,11 @@ For the purposes of this chapter—
 
 &emsp;(2) on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 
-> The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(d) of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
+> The term “misbranded hazardous substance” also includes a household substance as definedin section 1471(2)(d) of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
 (q)(1) The term “banned hazardous substance” means (A) any toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted; or (B) any hazardous substance intended, or packaged in a form suitable, for use in the household, which the Commission by regulation classifies as a “banned hazardous substance” on the basis of a finding that, notwithstanding such cautionary labeling as is or may be required under this chapter for that substance, the degree or nature of the hazard involved in the presence or use of such substance in households is such that the objective of the protection of the public health and safety can be adequately served only by keeping such substance, when so intended or packaged, out of the channels of interstate commerce: <i>Provided</i>, That the Commission, by regulation, (i) shall exempt from clause (A) of this paragraph articles, such as chemical sets, which by reason of their functional purpose require the inclusion of the hazardous substance involved or necessarily present an electrical, mechanical, or thermal hazard, and which bear labeling giving adequate directions and warnings for safe use and are intended for use by children who have attained sufficient maturity, and may reasonably be expected, to read and heed such directions and warnings, and (ii) shall exempt from clause (A), and provide for the labeling of, common fireworks (including toy paper caps, cone fountains, cylinder fountains, whistles without report, and sparklers) to the extent that it determines that such articles can be adequately labeled to protect the purchasers and users thereof.
 
-(2) Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: <i>Provided</i>, That if the Commission finds that the distribution for household use of the hazardous substance involved presents an imminent hazard to the public health, it may by order published in the Federal Register give notice of such finding, and thereupon such substance when intended or offered for household use, or when so packaged as to be suitable for such use, shall be deemed to be a “banned hazardous substance” pending the completion of proceedings relating to the issuance of such regulations.
+(2) Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of section 1262 of this title, except that if the Commission finds that the distribution for household use of the hazardous substance involved presents an imminent hazard to the public health, it may by order published in the Federal Register give notice of such finding, and thereupon such substance when intended or offered for household use, or when so packaged as to be suitable for such use, shall be deemed to be a “banned hazardous substance” pending the completion of proceedings relating to the issuance of such regulations.
 
 (r) An article may be determined to present an electrical hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture may cause personal injury or illness by electric shock.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
+(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, §204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 #### References in Text
 
@@ -86,11 +86,17 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act 
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-#### Codification
-
-Subsec. (c), which read “The term ‘Department’ means the Department of Health, Education, and Welfare” has been omitted from the Code in view of the transfer of functions of the Secretary of Health, Education, and Welfare under this chapter to the Consumer Product Safety Commission pursuant to section 30(a) of Pub. L. 92–573 which is classified to section 2079(a) of this title.
-
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–314, §204(b)(4)(A), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
+
+Subsec. (d). Pub. L. 110–314, §204(b)(4)(A), struck out subsec. (d) which read as follows: “The term ‘Secretary’ means the Secretary of Health, Education, and Welfare.”
+
+Subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
+
+Subsec. (q). Pub. L. 110–314, §204(b)(4)(B), (D), substituted “Commission” for “Secretary” wherever appearing and “it” for “he” in two places.
+
+Subsec. (q)(2). Pub. L. 110–314, §204(b)(2), substituted “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of section 1262 of this title, except that if” for “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: <i>Provided</i>, That if”.
 
 1986—Subsec. (f)(1)(E). Pub. L. 99–339 added subpar. (E).
 
@@ -140,11 +146,11 @@ Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act 
 
 #### Effective Date
 
-Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
+Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, and amended by Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that: “This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
 
 &emsp;“(a) prior to the expiration of the sixth calendar month after the month in which this Act is enacted \[July 1960\], or
 
-&emsp;“(b) prior to the expiration of such additional period or periods, ending not more than eighteen months after the month of enactment of this Act \[July 1960\], as the Secretary may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Secretary may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof.”
+&emsp;“(b) prior to the expiration of such additional period or periods, ending not more than eighteen months after the month of enactment of this Act \[July 1960\], as the Commission may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Commission may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof.”
 
 #### Short Title of 1994 Amendment
 
@@ -168,17 +174,15 @@ Section 1 of Pub. L. 86–613, as amended by section 5 of Pub. L. 89–756, prov
 
 #### Separability
 
-Pub. L. 86–613, §16, formerly §15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “If any provision of this Act \[enacting this chapter and repealing sections 401 to 411 of this title\] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of theAct and the applicability thereof to other persons and circumstances shall not be affected thereby.”
+Pub. L. 86–613, §16, formerly §15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “If any provision of this Act \[enacting this chapter and repealing sections 401 to 411 of this title\] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
 
 #### Transfer of Functions
-
-In subsec. (d), “Commission” substituted for “Secretary” and “Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” and in subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1), and (q), “Commission” substituted for “Secretary” and “it” substituted for “he” wherever appearing pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
 #### Effect Upon Federal and State Law
 
-Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510, provided that:
+Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, §204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
 
 “(a) Nothing in this act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall be construed to modify or affect the provisions of the Flammable Fabrics Act, as amended (15 U.S.C. 1191 to 1200) \[sections 1191 to 1204 of this title\], or any regulations promulgated thereunder; or of chapter 39, title 18, United States Code, as amended (18 U.S.C. 831 et seq.), or any regulations promulgated thereunder or under sections 204(a)(2) and 204(a)(3) of the Interstate Commerce Act, as amended \[section 31502 of Title 49, Transportation\] (relating to the transportation of dangerous substances and explosives by surface carriers); or of section 1716, title 18, United States Code, or any regulations promulgated thereunder (relating to mailing of dangerous substances); or of section 902 \[section 1472 of former Title 49\] or regulations promulgated under section 601 of the Federal Aviation Act of 1958 \[section 1421 of former Title 49\] (relating to transportation of dangerous substances and explosives in aircraft); or of the Federal Food, Drug, and Cosmetic Act \[chapter 9 of Title 21, Food and Drugs\]; or of the Public Health Service Act \[chapter 6A of Title 42, The Public Health and Welfare\]; or of the Federal Insecticide, Fungicide, and Rodenticide Act \[section 136 et seq. of Title 7, Agriculture\]; or of the Dangerous Drug Act for the District of Columbia (70 Stat. 612), or the Act entitled ‘An Act to regulate the practice of pharmacy and the sale of poisons in the District of Columbia, and for other purposes’, approved May 7, 1906 (34 Stat. 175), as amended; or of any other Act of Congress, except as specified in section 19 \[set out as a note under sections 401 to 411 of this title\].
 
@@ -196,11 +200,11 @@ Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended b
 
 > In determining the burden, if any, of a State or political subdivision requirement on interstate commerce the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such requirement, the cost of complying with such requirement, the geographic distribution of the substance to which the requirement would apply, the probability of other States or political subdivisions applying for an exemption under this paragraph for a similar requirement, and the need for a national, uniform requirement under this Act \[this chapter\] for such substance (or its packaging).
 
-“(B) A regulation under subparagraph (A) granting an exemption for a requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5, United States Code, notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
+“(B) A regulation under subparagraph (A) granting an exemption for a requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with section 553(b) of title 5, United States Code, notice with respect to the promulgation of the regulation and hasprovided opportunity for the oral presentation of views respecting its promulgation.
 
-“(4) Paragraph (1)(B) does not prohibit a State or a political subdivision of a State from establishing or continuing in effect a requirement which is designed to protect against a risk of illness or injury associated with fireworks devices or components thereof and which provides a higher degree of protection from such risk of illness or injury than a requirement in effect under a regulation of the Commission described in such paragraph.
+“(4) Paragraph (1)(B) does not prohibit a State or a political subdivision of a State from establishing or continuing in effect a requirement which is designed to protect against a risk of illness or injury associated with fireworks devices or components thereof and which provides a higher degree of protection from such risk of illness or injury than a requirement in effect under a regulation of the Commission described in such paragraph.”
 
-“(5) As used in this subsection, the term ‘Commission’ means the Consumer Product Safety Commission.”
+\[The provisions of section 18 of Pub. L. 86–613, set out above, establishing the extent to which the Federal Hazardous Substances Act \[see Short Title note above\] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Federal Hazardous Substances Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under section 2051 of this title.\]
 
 #### Small Balls as Banned Hazardous Substances
 

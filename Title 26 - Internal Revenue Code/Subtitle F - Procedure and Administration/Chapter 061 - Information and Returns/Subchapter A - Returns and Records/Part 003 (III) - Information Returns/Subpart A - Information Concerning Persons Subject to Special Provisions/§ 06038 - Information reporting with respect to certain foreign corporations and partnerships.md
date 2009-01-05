@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
 
-> &emsp;The Secretary may also require the furnishing of any other information which is similar or related in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
+> &emsp;The Secretary may also require the furnishing of any other information which is similar orrelated in nature to that specified in the preceding sentence or which the Secretary determines to be appropriate to carry out the provisions of this title.
 
 #### (2) Period for which information is to be furnished, etc.
 
@@ -54,7 +54,7 @@
 
 #### (2) Increase in penalty where failure continues after notification
 
-&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in anypenalty under this paragraph shall not exceed $50,000.
+&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
 
 #### (c) Penalty of reducing foreign tax credit
 
@@ -196,7 +196,7 @@ Subsec. (c)(4)(C). Pub. L. 99–514, §1202(c)(2), substituted “post-1986 undi
 
 Subsec. (b). Pub. L. 97–248, §338(a), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 97–248, §338(a), (b), (c)(1), (3), redesignated former subsec. (b) as (c), substituted “Penalty of reducing foreign tax credit” for “Effect of failure to furnish information” in heading, inserted “of such failure” after “90 days or more after notice” in par. (1), added par. (3), redesignated former par. (3) as\(4), and in par. (4) inserted reference to subsection (b) in subpar. (B). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 97–248, §338(a), (b), (c)(1), (3), redesignated former subsec. (b) as (c), substituted “Penalty of reducing foreign tax credit” for “Effect of failure to furnish information” in heading, inserted “of such failure” after “90 days or more after notice” in par. (1), added par. (3), redesignated former par. (3) as (4), and in par. (4) inserted reference to subsection (b) in subpar. (B). Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 97–248, §338(a), redesignated former subsec. (c) as (d). Former subsec. (d), relating to definitions, redesignated (e).
 
@@ -216,7 +216,7 @@ Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign 
 
 Subsec. (b). Pub. L. 87–834, among other changes, substituted “If a United States person fails to furnish” for “If a domestic corporation fails to furnish” in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
-Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
+Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relatingto control are now contained in subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 
@@ -258,5 +258,5 @@ Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by su
 
 #### Effective Date
 
-Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shallapply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
+Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
 

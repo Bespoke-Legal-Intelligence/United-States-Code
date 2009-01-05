@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-(1) The Board shall prescribe regulations to carry out the purposes of this subchapter. Theseregulations may contain but are not limited to such classifications, differentiation, or other provision, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate or substantiate compliance therewith.
+(1) The Board shall prescribe regulations to carry out the purposes of this subchapter. These regulations may contain but are not limited to such classifications, differentiation, or other provision, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate or substantiate compliance therewith.
 
 (2) Such regulations may exempt from the provisions of this subchapter any class of transactions that are not primarily for personal, family, or household purposes, or business or commercial loans made available by a financial institution, except that a particular type within a class of such transactions may be exempted if the Board determines, after making an express finding that the application of this subchapter or of any provision of this subchapter of such transaction would not contribute substantially to effecting the purposes of this subchapter.
 

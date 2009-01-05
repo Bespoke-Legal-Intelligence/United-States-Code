@@ -54,7 +54,7 @@
 
 &emsp;A funding agreement for a grant under subsection (a) of this section is that the public entity involved will, with respect to the costs to be incurred by the entity in carrying out the purpose described in such subsection, make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
-&emsp;&emsp;(A) for the first fiscal year for which the entity receives payments from a grant undersuch subsection, is not less than $1 for each $3 of Federal funds provided in the grant;
+&emsp;&emsp;(A) for the first fiscal year for which the entity receives payments from a grant under such subsection, is not less than $1 for each $3 of Federal funds provided in the grant;
 
 &emsp;&emsp;(B) for any second or third such fiscal year, is not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -74,7 +74,7 @@
 
 Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in section 450b of Title 25, Indians.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

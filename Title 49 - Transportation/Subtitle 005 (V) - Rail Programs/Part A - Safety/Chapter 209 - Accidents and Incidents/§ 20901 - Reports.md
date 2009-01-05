@@ -60,3 +60,9 @@ In this section, the words “accident” and “incident” are used, and the w
 
 In subsection (b), the words “or incident” are added for consistency. The text of section 15(c) of the Rail Safety Enforcement and Review Act (Pub. L. 102–365, 106 Stat. 981) is omitted as executed.
 
+#### Accident and Incident Reporting
+
+Pub. L. 110–432, div. A, title II, §209, Oct. 16, 2008, 122 Stat. 4876, provided that: “The Federal Railroad Administration shall conduct an audit of each Class I railroad at least once every 2 years and conduct an audit of each non-Class I railroad at least once every 5 years to ensure that all grade crossing collisions and fatalities are reported to any Federal national accident database.”
+
+\[For definitions of “railroad” and “crossing”, as used in section 209 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+

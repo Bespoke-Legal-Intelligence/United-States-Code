@@ -58,11 +58,11 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (C) of section 1359cc(e)(3) of thistitle, to accommodate an allocation under clause (i) to a new processor located in a new entrant mainland State, the Secretary shall provide the new entrant mainland State with an allotment.
+&emsp;&emsp;&emsp;&emsp;Notwithstanding subparagraphs (A) and (C) of section 1359cc(e)(3) of this title, to accommodate an allocation under clause (i) to a new processor located in a new entrant mainland State, the Secretary shall provide the new entrant mainland State with an allotment.
 
 #### (II) Effect on other allotments
 
-&emsp;&emsp;&emsp;&emsp;The allotment to any new entrant mainland State shall be subtracted, on a pro rata basis, from the allotments otherwise allotted to each mainland State under section 1359cc(e)(3) of this title.
+&emsp;&emsp;&emsp;&emsp;The allotment to any new entrant mainland State shall be subtracted, on apro rata basis, from the allotments otherwise allotted to each mainland State under section 1359cc(e)(3) of this title.
 
 #### (v) Adverse effects
 
@@ -78,7 +78,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (F) Transfer of ownership
 
-&emsp;&emsp;Except as otherwise provided in section 1359ff(c)(8) of this title, if a sugarcane processor is sold or otherwise transferred to another owner or is closed as part of an affiliated corporate group processing consolidation, the Secretary shall transfer the allotment allocation for the processor to the purchaser, new owner, successor in interest, or any remaining processor of an affiliated entity, as applicable, of the processor.
+&emsp;&emsp;If a sugarcane processor is sold or otherwise transferred to another owner or is closed as part of an affiliated corporate group processing consolidation, the Secretary shall transfer the allotment allocation for the processor to the purchaser, new owner, successor in interest, or any remaining processor of an affiliated entity, as applicable, of the processor.
 
 #### (2) Beet sugar
 
@@ -120,9 +120,9 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processorsduring the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted averagequantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on stored sugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
 
@@ -140,57 +140,89 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (G) Sale of factories of a processor to another processor
 
-#### (i) In general
+#### (i) Effect of sale
 
-&emsp;&emsp;&emsp;Subject to subparagraphs (E) and (F), if 1 or more factories of a processor of beet sugar (but not all of the assets of the processor) are sold to another processor of beet sugar during a crop year, the Secretary shall assign a pro rata portion of the allocation of the seller to the allocation of the buyer to reflect the historical contribution of the production of the sold factory or factories to the total allocation of the seller.
+&emsp;&emsp;&emsp;Subject to subparagraphs (E) and (F), if 1 or more factories of a processor of beet sugar (but not all of the assets of the processor) are sold to another processor of beet sugar during a crop year, the Secretary shall assign a pro rata portion of the allocation of the seller to the allocation of the buyer to reflect the historical contribution of the production of the sold 1 or more factories to the total allocation of the seller, unless the buyer and the seller have agreed upon the transfer of a different portion of the allocation of the seller, in which case, the Secretary shall transfer that portion agreed upon by the buyer and seller.
 
 #### (ii) Application of allocation
 
 &emsp;&emsp;&emsp;The assignment of the allocation under clause (i) shall apply—
 
-&emsp;&emsp;&emsp;&emsp;(I) during the remainder of the crop year during which the sale described in clause (i) occurs (referred to in this subparagraph as the “initial crop year”); and
+&emsp;&emsp;&emsp;&emsp;(I) during the remainder of the crop year for which the sale described in clause (i) occurs; and
 
-&emsp;&emsp;&emsp;&emsp;(II) each subsequent crop year (referred in this subparagraph as a “subsequent crop year”), subject to clause (iii).
+&emsp;&emsp;&emsp;&emsp;(II) during each subsequent crop year.
 
-#### (iii) Subsequent crop years
+#### (iii) Use of other factories to fill allocation
+
+&emsp;&emsp;&emsp;If the assignment of the allocation under clause (i) to the buyer for the 1 or more purchased factories cannot be filled by the production of the 1 or more purchased factories, the remainder of the allocation may be filled by beet sugar produced by the buyer from other factories of the buyer.
+
+#### (H) New entrants starting production, reopening, or acquiring an existing factory with production history
+
+#### (i) Definition of new entrant
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The assignment of the allocation under clause (i) shall apply during each subsequent crop year unless the acquired factory or factories continue in operation for less than the initial crop year and the first subsequent crop year.
+&emsp;&emsp;&emsp;&emsp;In this subparagraph, the term “new entrant” means an individual, corporation, or other entity that—
 
-#### (II) Reassignment
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) does not have an allocation of the beet sugar allotment under this subpart;
 
-&emsp;&emsp;&emsp;&emsp;If the acquired factory or factories do not continue in operation for the complete initial crop year and the first subsequent crop year, the Secretary shall reassign the temporary allocation to other processors of beet sugar on a pro rata basis.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not affiliated with any other individual, corporation, or entity that has an allocation of beet sugar under this subpart (referred to in this clause as a “third party”); and
 
-#### (iv) Use of other factories to fill allocation
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) will process sugar beets produced by sugar beet growers under contract with the new entrant for the production of sugar at the new or re-opened factory that is the basis for the new entrant allocation.
 
-&emsp;&emsp;&emsp;If the transferred allocation to the buyer for the purchased factory or factories cannot be filled by the production of the purchased factory or factories for the initial crop year or a subsequent crop year, the remainder of the transferred allocation may be filled by beet sugar produced by the buyer from other factories of the buyer.
+#### (II) Affiliation
 
-#### (H) New entrants starting production or reopening factories
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I)(bb), a new entrant and a third party shall be considered to be affiliated if—
 
-#### (i) In general
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the third party has an ownership interest in the new entrant;
 
-&emsp;&emsp;&emsp;Except as provided by clause (ii), if an individual or entity that does not have an allocation of beet sugar under this subpart (referred to in this paragraph as a “new entrant”) starts processing sugar beets after May 13, 2002, or acquires and reopens a factory that produced beet sugar during previous crop years that (at the time of acquisition) has no allocation associated with the factory under this subpart, the Secretary shall—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the new entrant and the third party have owners in common;
 
-&emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that provides a fair and equitable distribution of the allocations for beet sugar; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the third party has the ability to exercise control over the new entrant by organizational rights, contractual rights, or any other means;
 
-&emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a pro rata basis to reflect the new allocation.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the third party has a contractual relationship with the new entrant by which the new entrant will make use of the facilities or assets of the third party; or
 
-#### (ii) Exception
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) there are any other similar circumstances by which the Secretary determines that the new entrant and the third party are affiliated.
 
-&emsp;&emsp;&emsp;If a new entrant acquires and reopens a factory that previously produced beet sugar from sugar beets and from sugar beet molasses but the factory last processed sugar beets during the 1997 crop year and the new entrant starts to process sugar beets at such factory after May 13, 2002, the Secretary shall—
+#### (ii) Allocation for a new entrant that has constructed a new factory or reopened a factory that was not operated since before 1998
 
-&emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that is not less than the greater of 1.67 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years as determined under subsection (b)(2)(C) of this section, or 1,500,000 hundredweights; and
+&emsp;&emsp;&emsp;If a new entrant constructs a new sugar beet processing factory, or acquires and reopens a sugar beet processing factory that last processed sugar beets prior to the 1998 crop year and there is no allocation currently associated with the factory, the Secretary shall—
 
-&emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a pro rata basis to reflect the new allocation.
+&emsp;&emsp;&emsp;&emsp;(I) assign an allocation for beet sugar to the new entrant that provides a fair and equitable distribution of the allocations for beet sugar so as to enable the new entrant to achieve a factory utilization rate comparable to the factory utilization rates of other similarly-situated processors; and
 
-#### (I) New entrants acquiring ongoing factories with production history
+&emsp;&emsp;&emsp;&emsp;(II) reduce the allocations for beet sugar of all other processors on a prorata basis to reflect the allocation to the new entrant.
 
-&emsp;&emsp;If a new entrant acquires a factory that has production history during the period of the 1998 through 2000 crop years and that is producing beet sugar at the time the allocations are made from a processor that has an allocation of beet sugar, the Secretary shall transfer a portion of the allocation of the seller to the new entrant to reflect the historical contribution of the production of the sold factory to the total allocation of the seller.
+#### (iii) Allocation for a new entrant that has acquired an existing factory with a production history
 
-(Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 191.)
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a new entrant acquires an existing factory that has processed sugar beets from the 1998 or subsequent crop year and has a production history, on the mutual agreement of the new entrant and the company currently holding the allocation associated with the factory, the Secretary shall transfer to the new entrant a portion of the allocation of the current allocation holder to reflect the historical contribution of the production of the 1 or more sold factories to the total allocation of the current allocation holder, unless the new entrant and current allocation holder have agreed upon the transfer of a different portion of the allocation of the current allocation holder, in which case, the Secretary shall transfer that portion agreed upon by the new entrant and the current allocation holder.
+
+#### (II) Prohibition
+
+&emsp;&emsp;&emsp;&emsp;In the absence of a mutual agreement described in subclause (I), the new entrant shall be ineligible for a beet sugar allocation.
+
+#### (iv) Appeals
+
+&emsp;&emsp;&emsp;Any decision made under this subsection may be appealed to the Secretary in accordance with section 1359ii of this title.
+
+(Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 191; amended Pub. L. 110–234, title I, §1403(d), May 22, 2008, 122 Stat. 984; Pub. L. 110–246, §4(a), title I, §1403(d), June 18, 2008, 122 Stat. 1664, 1712.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3483; amended Pub. L. 102–237, title I, §111(f), Dec. 13, 1991, 105 Stat. 1833, related to allocation of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
+
+Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

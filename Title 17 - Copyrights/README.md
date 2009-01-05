@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 2007 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 2008 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -12,7 +12,7 @@
 | [<b>3.</b>](Chapter%20003%20-%20Duration%20of%20Copyright/README.md) | <b>Duration of Copyright</b> | <b>301</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/README.md) | <b>Copyright Notice, Deposit, and Registration</b> | <b>401</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md) | <b>Copyright Infringement and Remedies</b> | <b>501</b> |
-| [<b>6.</b>](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md) | <b>Manufacturing Requirements and Importation</b> | <b>601</b> |
+| [<b>6.</b>](Chapter%20006%20-%20Manufacturing%20Requirements%2C%20Importation%2C%20and%20Exportation/README.md) | <b>Manufacturing Requirements, Importation, and Exportation</b> | <b>601</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Copyright%20Office/README.md) | <b>Copyright Office</b> | <b>701</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/README.md) | <b>Proceedings by Copyright Royalty Judges</b> | <b>801</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | <b>Protection of Semiconductor Chip Products</b> | <b>901</b> |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–403, title I, §105(c)(3), Oct. 13, 2008, 122 Stat. 4260, substituted “Manufacturing Requirements, Importation, and Exportation” for “Manufacturing Requirements and Importation” in item relating to chapter 6.
 
 2004—Pub. L. 108–419, §3(b), Nov. 30, 2004, 118 Stat. 2361, substituted “Proceedings by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panels” in item relating to chapter 8.
 
@@ -601,7 +603,7 @@ Section 103 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2599, provided that: �
 - [Chapter 003 - Duration of Copyright](Chapter%20003%20-%20Duration%20of%20Copyright/README.md)
 - [Chapter 004 - Copyright Notice, Deposit, and Registration](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/README.md)
 - [Chapter 005 - Copyright Infringement and Remedies](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md)
-- [Chapter 006 - Manufacturing Requirements and Importation](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md)
+- [Chapter 006 - Manufacturing Requirements, Importation, and Exportation](Chapter%20006%20-%20Manufacturing%20Requirements%2C%20Importation%2C%20and%20Exportation/README.md)
 - [Chapter 007 - Copyright Office](Chapter%20007%20-%20Copyright%20Office/README.md)
 - [Chapter 008 - Proceedings by Copyright Royalty Judges](Chapter%20008%20-%20Proceedings%20by%20Copyright%20Royalty%20Judges/README.md)
 - [Chapter 009 - Protection of Semiconductor Chip Products](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md)

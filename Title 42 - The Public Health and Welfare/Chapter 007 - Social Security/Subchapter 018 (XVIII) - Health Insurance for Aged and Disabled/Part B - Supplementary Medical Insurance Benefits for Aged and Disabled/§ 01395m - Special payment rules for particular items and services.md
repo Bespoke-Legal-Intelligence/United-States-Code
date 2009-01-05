@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the payment amount recognized under paragraphs (2) through (7) of this subsection for the item;
 
-> &emsp;&emsp;except that clause (i) shall not apply if the covered item is furnished by a public homehealth agency (or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low income) free of charge or at nominal charges to the public.
+> &emsp;&emsp;except that clause (i) shall not apply if the covered item is furnished by a public home health agency (or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low income) free of charge or at nominal charges to the public.
 
 #### (C) Exclusive payment rule
 
@@ -34,7 +34,7 @@
 
 #### (ii) Requirements
 
-&emsp;&emsp;&emsp;The standards established under clause (i) shall include the specification of types or classes of covered items that require, as a condition of payment under this subsection, a face-to-face examination of the individual by a physician (as defined in section 1395x(r)(1) of this title), a physician assistant, nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) and a prescription for the item.
+&emsp;&emsp;&emsp;The standards established under clause (i) shall include the specification of types or classes of covered items that require, as a condition of payment under this subsection, a face-to-face examination of the individual by a physician (as defined in section 1395x(r) of this title), a physician assistant, nurse practitioner, or a clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title) and a prescription for the item.
 
 #### (iii) Priority of establishment of standards
 
@@ -50,11 +50,15 @@
 
 #### (F) Application of competitive acquisition; limitation of inherent reasonableness authority
 
-&emsp;&emsp;In the case of covered items furnished on or after January 1, 2009, that are included in a competitive acquisition program in a competitive acquisition area under section 1395w–3(a) of this title—
+&emsp;&emsp;In the case of covered items furnished on or after January 1, 2011, subject to subparagraph (G), that are included in a competitive acquisition program in a competitive acquisition area under section 1395w–3(a) of this title—
 
 &emsp;&emsp;&emsp;(i) the payment basis under this subsection for such items and services furnished in such area shall be the payment basis determined under such competitive acquisition program; and
 
 &emsp;&emsp;&emsp;(ii) the Secretary may use information on the payment determined under such competitive acquisition programs to adjust the payment amount otherwise recognized under subparagraph (B)(ii) for an area that is not a competitive acquisition area under section 1395w–3 of this title and in the case of such adjustment, paragraph (10)(B) shall not be applied.
+
+#### (G) Use of information on competitive bid rates
+
+&emsp;&emsp;The Secretary shall specify by regulation the methodology to be used in applying the provisions of subparagraph (F)(ii) and subsection (h)(1)(H)(ii). In promulgating such regulation, the Secretary shall consider the costs of items and services in areas in which such provisions would be applied compared to the payment rates for such items and services in competitive acquisition areas.
 
 #### (2) Payment for inexpensive and other routinely purchased durable medical equipment
 
@@ -170,25 +174,21 @@
 
 &emsp;&emsp;In the case of a patient receiving home oxygen therapy services who, at the time such services are initiated, has an initial arterial blood gas value at or above a partial pressure of 56 or an arterial oxygen saturation at or above 89 percent (or such other values, pressures, or criteria as the Secretary may specify) no payment may be made under this part for such services after the expiration of the 90-day period that begins on the date the patient first receives such services unless the patient's attending physician certifies that, on the basis of a follow-up test of the patient's arterial blood gas value or arterial oxygen saturation conducted during the final 30 days of such 90-day period, there is a medical need for the patient to continue to receive such services.
 
-#### (F) Ownership of equipment
+#### (F) Rental cap
 
 #### (i) In general
 
 &emsp;&emsp;&emsp;Payment for oxygen equipment (including portable oxygen equipment) under this paragraph may not extend over a period of continuous use (as determined by the Secretary) of longer than 36 months.
 
-#### (ii) Ownership
+#### (ii) Payments and rules after rental cap
 
-#### (I) Transfer of title
+&emsp;&emsp;&emsp;After the 36th continuous month during which payment is made for the equipment under this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;On the first day that begins after the 36th continuous month during which payment is made for the equipment under this paragraph, the supplier of the equipment shall transfer title to the equipment to the individual.
+&emsp;&emsp;&emsp;&emsp;(I) the supplier furnishing such equipment under this subsection shall continue to furnish the equipment during any period of medical need for the remainder of the reasonable useful lifetime of the equipment, as determined by the Secretary;
 
-#### (II) Payments for oxygen and maintenance and servicing
+&emsp;&emsp;&emsp;&emsp;(II) payments for oxygen shall continue to be made in the amount recognized for oxygen under paragraph (9) for the period of medical need; and
 
-&emsp;&emsp;&emsp;&emsp;After the supplier transfers title to the equipment under subclause (I)—
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) payments for oxygen shall continue to be made in the amount recognized for oxygen under paragraph (9) for the period of medical need; and
-
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) maintenance and servicing payments shall, if the Secretary determines such payments are reasonable and necessary, be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the equipment), and such payments shall be in an amount determined to be appropriate by the Secretary.
+&emsp;&emsp;&emsp;&emsp;(III) maintenance and servicing payments shall, if the Secretary determines such payments are reasonable and necessary, be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the equipment), and such payments shall be in an amount determined to be appropriate by the Secretary.
 
 #### (6) Payment for other covered items (other than durable medical equipment)
 
@@ -408,15 +408,29 @@
 
 &emsp;&emsp;&emsp;(i) subject to clause (ii), in the case of class III medical devices described in section 360c(a)(1)(C) of title 21, the percentage change determined by the Secretary to be appropriate taking into account recommendations contained in the report of the Comptroller General of the United States under section 302(c)(1)(B) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
 
-&emsp;&emsp;&emsp;(ii) in the case of covered items not described in clause (i), 0 percentage points; and
+&emsp;&emsp;&emsp;(ii) in the case of covered items not described in clause (i), 0 percentage points;
 
 &emsp;&emsp;(I) for 2008—
 
 &emsp;&emsp;&emsp;(i) subject to clause (ii), in the case of class III medical devices described in section 360c(a)(1)(C) of title 21, the percentage increase described in subparagraph (B) (as applied to the payment amount for 2007 determined after the application of the percentage change under subparagraph (H)(i)); and
 
-&emsp;&emsp;&emsp;(ii) in the case of covered items not described in clause (i), 0 percentage points; and
+&emsp;&emsp;&emsp;(ii) in the case of covered items not described in clause (i), 0 percentage points;
 
-&emsp;&emsp;(J) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.
+&emsp;&emsp;(J) for 2009—
+
+&emsp;&emsp;&emsp;(i) in the case of items and services furnished in any geographic area, if such items or services were selected for competitive acquisition in any area under the competitive acquisition program under section 1395w–3(a)(1)(B)(i)(I) of this title before July 1, 2008, including related accessories but only if furnished with such items and services selected for such competition and diabetic supplies but only if furnished through mail order, - 9.5 percent; or
+
+&emsp;&emsp;&emsp;(ii) in the case of other items and services, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2008;
+
+&emsp;&emsp;(K) for 2010, 2011, 2012, and 2013, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year;
+
+&emsp;&emsp;(L) for 2014—
+
+&emsp;&emsp;&emsp;(i) in the case of items and services described in subparagraph (J)(i) for which a payment adjustment has not been made under subsection (a)(1)(F)(ii) in any previous year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013, plus 2.0 percentage points; or
+
+&emsp;&emsp;&emsp;(ii) in the case of other items and services, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June 2013; and
+
+&emsp;&emsp;(M) for a subsequent year, the percentage increase in the consumer price index for all urban consumers (U.S. urban average) for the 12-month period ending with June of the previous year.
 
 #### (15) Advance determinations of coverage for certain items
 
@@ -434,7 +448,7 @@
 
 #### (C) Determinations of coverage in advance
 
-&emsp;&emsp;A carrier shall determine in advance of delivery of an item whether payment for the item may not be made because the item is not covered or because of the application of section 1395y(a)(1) of this title if—
+&emsp;&emsp;A carrier shall determine in advance of delivery of an item whether payment for theitem may not be made because the item is not covered or because of the application of section 1395y(a)(1) of this title if—
 
 &emsp;&emsp;&emsp;(i) the item is included on the list developed by the Secretary under subparagraph (A);
 
@@ -544,7 +558,7 @@
 
 #### (B) Designation of independent accreditation organizations
 
-&emsp;&emsp;Not later than the date that is 1 year after the date on which the Secretary implements the quality standards under subparagraph (A), notwithstanding section 1395bb(b) of this title, the Secretary shall designate and approve one or more independent accreditation organizations for purposes of such subparagraph.
+&emsp;&emsp;Not later than the date that is 1 year after the date on which the Secretary implements the quality standards under subparagraph (A), notwithstanding section 1395bb(a) of this title, the Secretary shall designate and approve one or more independent accreditation organizations for purposes of such subparagraph.
 
 #### (C) Quality standards
 
@@ -562,7 +576,19 @@
 
 #### (E) Implementation
 
-&emsp;&emsp;The Secretary may establish by program instruction or otherwise the quality standards under this paragraph, after consultation with representatives of relevant parties. Such standards shall be applied prospectively and shall be published on the Internet website of the Centers for Medicare \& Medicaid Services.
+&emsp;&emsp;The Secretary may establish by program instruction or otherwise the quality standards under this paragraph, including subparagraph (F), after consultation with representatives of relevant parties. Such standards shall be applied prospectively and shall be published on the Internet website of the Centers for Medicare \& Medicaid Services.
+
+#### (F) Application of accreditation requirement
+
+&emsp;&emsp;In implementing quality standards under this paragraph—
+
+&emsp;&emsp;&emsp;(i) subject to clause (ii), the Secretary shall require suppliers furnishing items and services described in subparagraph (D) on or after October 1, 2009, directly or as a subcontractor for another entity, to have submitted to the Secretary evidence of accreditation by an accreditation organization designated under subparagraph (B) as meeting applicable quality standards; and
+
+&emsp;&emsp;&emsp;(ii) in applying such standards and the accreditation requirement of clause (i) with respect to eligible professionals (as defined in section 1395w–4(k)(3)(B) of this title), and including such other persons, such as orthotists and prosthetists, as specified by the Secretary, furnishing such items and services—
+
+&emsp;&emsp;&emsp;&emsp;(I) such standards and accreditation requirement shall not apply to such professionals and persons unless the Secretary determines that the standards being applied are designed specifically to be applied to such professionals and persons; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary may exempt such professionals and persons from such standards and requirement if the Secretary determines that licensing, accreditation, or other mandatory quality requirements apply to such professionals and persons with respect to the furnishing of such items and services.
 
 #### (21) Special payment rule for specified items and supplies
 
@@ -658,7 +684,7 @@
 
 #### (E) Rule for certain scanning services
 
-&emsp;&emsp;In the case of the technical components of magnetic resonance imaging (MRI) services and computer assisted tomography (CAT)services furnished after December 31, 1990, the amount otherwise payable shall be reduced by 10 percent.
+&emsp;&emsp;In the case of the technical components of magnetic resonance imaging (MRI) services and computer assisted tomography (CAT) services furnished after December 31, 1990, the amount otherwise payable shall be reduced by 10 percent.
 
 #### (F) Subsequent updating
 
@@ -818,7 +844,89 @@
 
 &emsp;&emsp;No payment may be made under this part for a colorectal cancer screening test consisting of a screening colonoscopy for individuals at high risk for colorectal cancer if the procedure is performed within the 23 months after a previous screening colonoscopy or for other individuals if the procedure is performed within the 119 months after a previous screening colonoscopy or within 47 months after a previous screening flexible sigmoidoscopy.
 
-#### (e) Repealed. Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981
+#### (e) Accreditation requirement for advanced diagnostic imaging services
+
+#### (1) In general
+
+#### (A) In general
+
+&emsp;&emsp;Beginning with January 1, 2012, with respect to the technical component of advanced diagnostic imaging services for which payment is made under the fee schedule established under section 1395w–4(b) of this title and that are furnished by a supplier, payment may only be made if such supplier is accredited by an accreditation organization designated by the Secretary under paragraph (2)(B)(i).<sup>2</sup>
+
+#### (B) Advanced diagnostic imaging services defined
+
+&emsp;&emsp;In this subsection, the term “advanced diagnostic imaging services” includes—
+
+&emsp;&emsp;&emsp;(i) diagnostic magnetic resonance imaging, computed tomography, and nuclear medicine (including positron emission tomography); and
+
+&emsp;&emsp;&emsp;(ii) such other diagnostic imaging services, including services described in section 1395w–4(b)(4)(B) of this title (excluding X-ray, ultrasound, and fluoroscopy), as specified by the Secretary in consultation with physician specialty organizations and other stakeholders.
+
+#### (C) Supplier defined
+
+&emsp;&emsp;In this subsection, the term “supplier” has the meaning given such term in section 1395x(d) of this title.
+
+#### (2) Accreditation organizations
+
+#### (A) Factors for designation of accreditation organizations
+
+&emsp;&emsp;The Secretary shall consider the following factors in designating accreditation organizations under subparagraph (B)(i) <sup>2</sup> and in reviewing and modifying the list of accreditation organizations designated pursuant to subparagraph (C):
+
+&emsp;&emsp;&emsp;(i) The ability of the organization to conduct timely reviews of accreditation applications.
+
+&emsp;&emsp;&emsp;(ii) Whether the organization has established a process for the timely integration of new advanced diagnostic imaging services into the organization's accreditation program.
+
+&emsp;&emsp;&emsp;(iii) Whether the organization uses random site visits, site audits, or other strategies for ensuring accredited suppliers maintain adherence to the criteria described in paragraph (3).
+
+&emsp;&emsp;&emsp;(iv) The ability of the organization to take into account the capacities of suppliers located in a rural area (as defined in section 1395ww(d)(2)(D) of this title).
+
+&emsp;&emsp;&emsp;(v) Whether the organization has established reasonable fees to be charged to suppliers applying for accreditation.
+
+&emsp;&emsp;&emsp;(vi) Such other factors as the Secretary determines appropriate.
+
+#### (B) Designation
+
+&emsp;&emsp;Not later than January 1, 2010, the Secretary shall designate organizations to accredit suppliers furnishing the technical component of advanced diagnostic imaging services. The list of accreditation organizations so designated may be modified pursuant to subparagraph (C).
+
+#### (C) Review and modification of list of accreditation organizations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall review the list of accreditation organizations designated under subparagraph (B) taking into account the factors under subparagraph (A). Taking into account the results of such review, the Secretary may, by regulation, modify the list of accreditation organizations designated under subparagraph (B).
+
+#### (ii) Special rule for accreditations done prior to removal from list of designated accreditation organizations
+
+&emsp;&emsp;&emsp;In the case where the Secretary removes an organization from the list of accreditation organizations designated under subparagraph (B), any supplier that is accredited by the organization during the period beginning on the date on which the organization is designated as an accreditation organization under subparagraph (B) and ending on the date on which the organization is removed from such list shall be considered to have been accredited by an organization designated by the Secretary under subparagraph (B) for the remaining period such accreditation is in effect.
+
+#### (3) Criteria for accreditation
+
+&emsp;The Secretary shall establish procedures to ensure that the criteria used by an accreditation organization designated under paragraph (2)(B) to evaluate a supplier that furnishes the technical component of advanced diagnostic imaging services for the purpose of accreditation of such supplier is specific to each imaging modality. Such criteria shall include—
+
+&emsp;&emsp;(A) standards for qualifications of medical personnel who are not physicians and who furnish the technical component of advanced diagnostic imaging services;
+
+&emsp;&emsp;(B) standards for qualifications and responsibilities of medical directors and supervising physicians, including standards that recognize the considerations described in paragraph (4);
+
+&emsp;&emsp;(C) procedures to ensure that equipment used in furnishing the technical component of advanced diagnostic imaging services meets performance specifications;
+
+&emsp;&emsp;(D) standards that require the supplier have procedures in place to ensure the safety of persons who furnish the technical component of advanced diagnostic imaging services and individuals to whom such services are furnished;
+
+&emsp;&emsp;(E) standards that require the establishment and maintenance of a quality assurance and quality control program by the supplier that is adequate and appropriate to ensure the reliability, clarity, and accuracy of the technical quality of diagnostic images produced by such supplier; and
+
+&emsp;&emsp;(F) any other standards or procedures the Secretary determines appropriate.
+
+#### (4) Recognition in standards for the evaluation of medical directors and supervising physicians
+
+&emsp;The standards described in paragraph (3)(B) shall recognize whether a medical director or supervising physician—
+
+&emsp;&emsp;(A) in a particular specialty receives training in advanced diagnostic imaging services in a residency program;
+
+&emsp;&emsp;(B) has attained, through experience, the necessary expertise to be a medical director or a supervising physician;
+
+&emsp;&emsp;(C) has completed any continuing medical education courses relating to such services; or
+
+&emsp;&emsp;(D) has met such other standards as the Secretary determines appropriate.
+
+#### (5) Rule for accreditations made prior to designation
+
+&emsp;In the case of a supplier that is accredited before January 1, 2010, by an accreditation organization designated by the Secretary under paragraph (2)(B) as of January 1, 2010, such supplier shall be considered to have been accredited by an organization designated by the Secretary under such paragraph as of January 1, 2012, for the remaining period such accreditation is in effect.
 
 #### (f) Reduction in payments for physician pathology services during 1991
 
@@ -828,7 +936,7 @@
 
 #### (2) Limitation
 
-&emsp;The prevailing charge for the technical and professional components of an <sup>2</sup> physician pathology service furnished by a physician through an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
+&emsp;The prevailing charge for the technical and professional components of an <sup>3</sup> physician pathology service furnished by a physician through an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
 
 #### (g) Payment for outpatient critical access hospital services
 
@@ -854,9 +962,9 @@
 
 &emsp;The payment amounts under this subsection shall be determined without regard to the amount of the customary or other charge.
 
-#### (4) No beneficiary cost-sharing for clinical diagnostic laboratory services
+#### (4) Treatment of clinical diagnostic laboratory services
 
-&emsp;No coinsurance, deductible, copayment, or other cost-sharing otherwise applicable under this part shall apply with respect to clinical diagnostic laboratory services furnished as an outpatient critical access hospital service. Nothing in this subchapter shall be construed as providing for payment for clinical diagnostic laboratory services furnished as part of outpatient critical access hospital services, other than on the basis described in this subsection.
+&emsp;No coinsurance, deductible, copayment, or other cost-sharing otherwise applicable under this part shall apply with respect to clinical diagnostic laboratory services furnished as an outpatient critical access hospital service. Nothing in this subchapter shall be construed as providing for payment for clinical diagnostic laboratory services furnished as part of outpatient critical access hospital services, other than on the basis described in this subsection. For purposes of the preceding sentence and section 1395x(mm)(3) of this title, clinical diagnostic laboratory services furnished by a critical access hospital shall be treated as being furnished as part of outpatient critical access services without regard to whether the individual with respect to whom such services are furnished is physically present in the critical access hospital, or in a skilled nursing facility or a clinic (including a rural health clinic) that is operated by a critical access hospital, at the time the specimen is collected.
 
 #### (5) Coverage of costs for certain emergency room on-call providers
 
@@ -880,7 +988,7 @@
 
 #### (C) Exception for certain public home health agencies
 
-&emsp;&emsp;Subparagraph (B)(i) shall not apply to an item furnished by a public home healthagency (or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low income) free of charge or at nominal charges to the public.
+&emsp;&emsp;Subparagraph (B)(i) shall not apply to an item furnished by a public home health agency (or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low income) free of charge or at nominal charges to the public.
 
 #### (D) Exclusive payment rule
 
@@ -948,7 +1056,7 @@
 
 #### (H) Application of competitive acquisition to orthotics; limitation of inherent reasonableness authority
 
-&emsp;&emsp;In the case of orthotics described in paragraph (2)(C) of section 1395w–3(a) of this titlefurnished on or after January 1, 2009, that are included in a competitive acquisition program in a competitive acquisition area under such section—
+&emsp;&emsp;In the case of orthotics described in paragraph (2)(C) of section 1395w–3(a) of this title furnished on or after January 1, 2011, subject to subsection (a)(1)(G), that are included in a competitive acquisition program in a competitive acquisition area under such section—
 
 &emsp;&emsp;&emsp;(i) the payment basis under this subsection for such orthotics furnished in such area shall be the payment basis determined under such competitive acquisition program; and
 
@@ -1112,7 +1220,7 @@
 
 #### (B) “Certificate of medical necessity” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means a form or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means aform or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
 
 #### (3) Coverage and review criteria
 
@@ -1200,7 +1308,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider or under arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
+&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider orunder arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
 
 #### (2) Considerations
 
@@ -1258,7 +1366,7 @@
 
 &emsp;In carrying out the phase-in under paragraph (2)(E) for each level of ground service furnished in a year, the portion of the payment amount that is based on the fee schedule shall be the greater of the amount determined under such fee schedule (without regard to this paragraph) or the following blended rate of the fee schedule under paragraph (1) and of a regional fee schedule for the region involved:
 
-&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall be based 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
+&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall bebased 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
 
 &emsp;&emsp;(B) For 2005, the blended rate shall be based 40 percent on the fee schedule under paragraph (1) and 60 percent on the regional fee schedule.
 
@@ -1306,15 +1414,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;After computing the rates with respect to ground ambulance services under the otherapplicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, for which the transportation originates in—
+&emsp;&emsp;After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before January 1, 2010 <sup>4</sup> for which the transportation originates in—
 
-&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent; and
+&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010); and
 
-&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent.
+&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010).
 
-#### (B) Application of increased payments after 2006
+#### (B) Application of increased payments after applicable period
 
-&emsp;&emsp;The increased payments under subparagraph (A) shall not be taken into account in calculating payments for services furnished after the period specified in such subparagraph.
+&emsp;&emsp;The increased payments under subparagraph (A) shall not be taken into account incalculating payments for services furnished after the applicable period specified in such subparagraph.
 
 #### (14) Providing appropriate coverage of rural air ambulance services
 
@@ -1330,7 +1438,7 @@
 
 &emsp;&emsp;The requirement of subparagraph (A)(i) is deemed to be met for a rural air ambulance service if—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (D), such service is requested by a physician or other qualified medical personnel (as specified by the Secretary) who reasonably determines or certifies that the individual's condition is such that the time needed to transport the individual by land or the instability of transportation by land poses a threat to the individual's survival or seriously endangers the individual's health; or
+&emsp;&emsp;&emsp;(i) subject to subparagraph (D), such service is requested by a physician or other qualified medical personnel (as specified by the Secretary) who certifies or reasonably determines that the individual's condition is such that the time needed to transport the individual by land or the instability of transportation by land poses a threat to the individual's survival or seriously endangers the individual's health; or
 
 &emsp;&emsp;&emsp;(ii) such service is furnished pursuant to a protocol that is established by a State or regional emergency medical service (EMS) agency and recognized or approved by the Secretary under which the use of an air ambulance is recommended, if such agency does not have an ownership interest in the entity furnishing such service.
 
@@ -1362,7 +1470,7 @@
 
 #### (B) Facility fee for originating site
 
-&emsp;&emsp;With respect to a telehealth service, subject to section 1395<i>l</i>(a)(1)(U) of this title,there shall be paid to the originating site a facility fee equal to—
+&emsp;&emsp;With respect to a telehealth service, subject to section 1395<i>l</i>(a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
 
 &emsp;&emsp;&emsp;(i) for the period beginning on October 1, 2001, and ending on December 31, 2001, and for 2002, $20; and
 
@@ -1420,6 +1528,12 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) A hospital (as defined in section 1395x(e) of this title).
 
+&emsp;&emsp;&emsp;&emsp;(VI) A hospital-based or critical access hospital-based renal dialysis center (including satellites).
+
+&emsp;&emsp;&emsp;&emsp;(VII) A skilled nursing facility (as defined in section 1395i–3(a) of this title).
+
+&emsp;&emsp;&emsp;&emsp;(VIII) A community mental health center (as defined in section 1395x(ff)(3)(B) of this title).
+
 #### (D) Physician
 
 &emsp;&emsp;The term “physician” has the meaning given that term in section 1395x(r) of this title.
@@ -1438,7 +1552,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2),4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421, 4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III,§302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44; Pub. L. 110–275, title I, §§125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, 122 Stat. 2519, 2532, 2547–2549, 2563, 2564, 2567.)
 
 #### References in Text
 
@@ -1457,6 +1571,36 @@ Amendment of subsec. (a)(4) by Pub. L. 101–508, §4152(c)(4)(B)(i), did not be
 A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, §930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(E)(ii). Pub. L. 110–275, §154(d)(2), substituted “1395x(r)” for “1395x(r)(1)”.
+
+Subsec. (a)(1)(F). Pub. L. 110–275, §154(a)(3), (4)(A)(i), in introductory provisions, substituted “January 1, 2011” for “January 1, 2009” and inserted “subject to subparagraph (G),” before “that are included”.
+
+Subsec. (a)(1)(G). Pub. L. 110–275, §154(a)(4)(A)(ii), added subpar. (G).
+
+Subsec. (a)(5)(F). Pub. L. 110–275, §144(b)(1), substituted “Rental cap” for “Ownership of equipment” in heading, added cl. (ii), and struck out former cl. (ii) which related to transfer of title to equipment and payments for oxygen and maintenance and servicing.
+
+Subsec. (a)(14)(J) to (M). Pub. L. 110–275, §154(a)(2)(A), added subpars. (J) to (L) and redesignated former subpar. (J) as (M).
+
+Subsec. (a)(20)(B). Pub. L. 110–275, §125(b)(5), substituted “section 1395bb(a)” for “section 1395bb(b)”.
+
+Subsec. (a)(20)(E). Pub. L. 110–275, §154(b)(1)(A)(i), inserted “including subparagraph (F),” after “under this paragraph,”.
+
+Subsec. (a)(20)(F). Pub. L. 110–275, §154(b)(1)(A)(ii), added subpar. (F).
+
+Subsec. (e). Pub. L. 110–275, §135(a)(1), added subsec. (e).
+
+Subsec. (g)(4). Pub. L. 110–275, §148(a), substituted “Treatment of” for “No beneficiary cost-sharing for” in heading and inserted at end “For purposes of the preceding sentence and section 1395x(mm)(3) of this title, clinical diagnostic laboratory services furnished by a critical access hospital shall be treated as being furnished as part of outpatient critical access services without regard to whether the individual with respect to whom such services are furnished is physically present in the critical access hospital, or in a skilled nursing facility or a clinic (including a rural health clinic) that is operated by a critical access hospital, at the time the specimen is collected.”
+
+Subsec. (h)(1)(H). Pub. L. 110–275, §154(a)(3), (4)(B), in introductory provisions, substituted “January 1, 2011” for “January 1, 2009” and inserted “subject to subsection (a)(1)(G),” before “that are included”.
+
+Subsec. (<i>l</i>)(13)(A). Pub. L. 110–275, §146(a)(1), inserted “and for such services furnished on or after July 1, 2008, and before January 1, 2010” after “2007,” in introductory provisions, “(or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010)” after “2 percent” in cl. (i), and “(or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010)” after “1 percent” in cl. (ii).
+
+Subsec. (<i>l</i>)(13)(B). Pub. L. 110–275, §146(a)(2), substituted “applicable period” for “2006” in heading and inserted “applicable” before “period” in text.
+
+Subsec. (<i>l</i>)(14)(B)(i). Pub. L. 110–275, §146(b)(2)(A), substituted “certifies or reasonably determines” for “reasonably determines or certifies”.
+
+Subsec. (m)(4)(C)(ii)(VI) to (VIII). Pub. L. 110–275, §149(a), added subcls. (VI) to (VIII).
 
 2006—Subsec. (a)(5)(A). Pub. L. 109–171, §5101(b)(1)(A), substituted “(E), and (F)” for “and (E)”.
 
@@ -1494,7 +1638,7 @@ Subsec. (g)(1). Pub. L. 108–173, §405(a)(1), inserted “equal to 101 percent
 
 Subsec. (g)(2). Pub. L. 108–173, §405(d)(1), inserted concluding provisions.
 
-Subsec. (g)(5). Pub. L. 108–173, §405(b)(1), in heading, inserted “certain” before “emergency” and substituted “providers” for “physicians”, and, in text, substituted “physicians, physician assistants, nurse practitioners, and clinical nurse specialists who are on-call (as defined by the Secretary) to provide emergency services” for “emergency room physicians who are on-call (as defined by the Secretary)” and “services covered under this subchapter” for “physicians’ services”.
+Subsec. (g)(5). Pub. L. 108–173, §405(b)(1), in heading, inserted “certain” before “emergency” and substituted “providers” for “physicians”, and, in text, substituted “physicians, physician assistants, nurse practitioners, and clinical nurse specialists who are on-call (as defined by the Secretary) to provide emergency services”for “emergency room physicians who are on-call (as defined by the Secretary)” and “services covered under this subchapter” for “physicians’ services”.
 
 Subsec. (h)(1)(B). Pub. L. 108–173, §302(d)(2)(A), substituted “, (E), and (H)(i)” for “and (E)” in introductory provisions.
 
@@ -1914,7 +2058,7 @@ Subsec. (a)(11)(A). Pub. L. 100–360, §411(g)(1) (B)(vii), (xiv), inserted “
 
 Subsec. (a)(12). Pub. L. 100–360, §411(g)(1)(B)(xv), as amended by Pub. L. 100–485, §608(d)(22)(A)(ii), substituted “one or more entire regions defined for purposes of paragraphs (8)(B) and (9)(B)” for “each region (as defined in section 1395ww(d)(2)(D) of this title)”.
 
-Subsec. (a)(14). Pub. L. 100–360, §411(g)(1)(B)(xvi), struck out par. (14) which read as follows: “In this subsection, any reference to the term ‘carrier’ includes a reference, with respect to durable medical equipment furnished by a home health agency as part of home health services, to a fiscal intermediary.”
+Subsec. (a)(14). Pub. L. 100–360, §411(g)(1)(B)(xvi), struck out par. (14) which read as follows: “In this subsection, any reference to the term ‘carrier’ includes a reference, with respect to durable medical equipmentfurnished by a home health agency as part of home health services, to a fiscal intermediary.”
 
 Subsec. (b). Pub. L. 100–360, §411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), amended Pub. L. 100–203, §4049(a)(2), see 1987 Amendment note below.
 
@@ -1941,6 +2085,20 @@ Subsec. (d). Pub. L. 100–360, §203(c)(1)(F), added subsec. (d) relating to ho
 Subsec. (e). Pub. L. 100–360, §204(b)(2), added subsec. (e) relating to payments and standards for screening mammography.
 
 1987—Subsec. (b). Pub. L. 100–203, §4049(a)(2), as amended by Pub. L. 100–360, §411(a)(3)(A), (B)(ii), (f)(8)(B)(ii), added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 125(b)(5) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) of Pub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
+
+Pub. L. 110–275, title I, §144(b)(2), July 15, 2008, 122 Stat. 2547, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 2009.”
+
+Pub. L. 110–275, title I, §146(b)(2)(B), July 15, 2008, 122 Stat. 2548, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[July 15, 2008\].”
+
+Pub. L. 110–275, title I, §148(b), July 15, 2008, 122 Stat. 2549, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to services furnished on or after July 1, 2009.”
+
+Pub. L. 110–275, title I, §149(c), July 15, 2008, 122 Stat. 2549, provided that: “The amendments made by this section \[amending this section and section 1395yy of this title\] shall apply to services furnished on or after January 1, 2009.”
+
+Pub. L. 110–275, title I, §154(e), July 15, 2008, 122 Stat. 2568, provided that: “The amendments made by this section \[amending this section, sections 1395u and 1395w–3 of this title, and provisions set out as notes under section 1395w–3 of this title\] shall take effect as of June 30, 2008.”
 
 #### Effective Date of 2006 Amendment
 
@@ -2024,7 +2182,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Testing strips.—The amendment made by subsection (b)(2) \[amending this section\] shall apply with respect to blood glucose testing strips furnished on or after January 1, 1998.”
 
-Amendment by section 4201(c)(5) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(5) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 Section 4312(f)(1) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to suppliers of durable medical equipment with respect to such equipment furnished on or after January 1, 1998.”
 
@@ -2066,7 +2224,7 @@ Section 135(b)(1) of Pub. L. 103–432 provided that the amendment made by that 
 
 Section 135(b)(3) of Pub. L. 103–432 provided that the amendment made by that section is effective Oct. 31, 1994.
 
-Section 135(d)(2) of Pub. L. 103–432 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective on the date of the enactment of this Act \[Oct. 31, 1994\].”
+Section 135(d)(2) of Pub. L. 103–432 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall be effective on the date of the enactment of this Act \[Oct. 31, 1994\].”
 
 Section 135(e)(8) of Pub. L. 103–432 provided that: “The amendments made by this subsection \[amending this section and provisions set out as notes under this section and section 1395cc of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].”
 
@@ -2098,7 +2256,7 @@ Amendment by section 4104(a) of Pub. L. 101–508 applicable to services furnish
 
 Section 4152(a)(3) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, §135(e)(1), Oct. 31, 1994, 108 Stat. 4424, provided that: “The amendments made by this subsection \[amending this section and section 1395x of this title\] shall apply to items furnished on or after January 1, 1991.”
 
-Section 4152(c)(4)(B)(ii) of Pub. L. 101–508 provided that: “The amendment made by clause (i) \[amending this section\] shall apply to items furnished on or after January 1, 1992, unless the Secretary develops specific criteria before that date for the treatment of wheelchairs as customized items for purposes of section 1834(a)(4) of the Social Security Act \[subsec. (a)(4) ofthis section\] (in which case the amendment made by such clause shall not become effective).” \[Criteria established by Secretary Nov. 1, 1991, see 56 F.R. 65995, Dec. 20, 1991, 42 CFR §414.224.\]
+Section 4152(c)(4)(B)(ii) of Pub. L. 101–508 provided that: “The amendment made by clause (i) \[amending this section\] shall apply to items furnished on or after January 1, 1992, unless the Secretary develops specific criteria before that date for the treatment of wheelchairs as customized items for purposes of section 1834(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\] (in which case the amendment made by such clause shall not become effective).” \[Criteria established by Secretary Nov. 1, 1991, see 56 F.R. 65995, Dec. 20, 1991, 42 CFR §414.224.\]
 
 Section 4152(f)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to forms and documents distributed on or after January 1, 1991.”
 
@@ -2146,9 +2304,241 @@ Subsection (a) of this section applicable to covered items (other than oxygen an
 
 Pub. L. 106–554, §1(a)(6) \[title IV, §427(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–521, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall promulgate revised regulations to carry out the amendment made by subsection (a) \[amending this section\] using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, United States Code.”
 
+#### Construction of 2008 Amendment
+
+Pub. L. 110–275, title I, §154(b)(1)(B), July 15, 2008, 122 Stat. 2565, provided that: “Section 1834(a)(20)(F)(ii) of the Social Security Act \[42 U.S.C. 1395m(a)(20)(F)(ii)\], as added by subparagraph (A), shall not be construed as preventing the Secretary of Health and Human Services from implementing the first round of competition under section 1847 of such Act \[42 U.S.C. 1395w–3\] on a timely basis.”
+
 #### Transfer of Functions
 
 Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose, any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
+
+#### Demonstration Project To Assess the Appropriate Use of Imaging Services
+
+Pub. L. 110–275, title I, §135(b), July 15, 2008, 122 Stat. 2535, provided that:
+
+“(1)
+
+Conduct of demonstration project.—
+
+&emsp;“(A)
+
+In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a demonstration project using the models described in paragraph (2)(E) to collect data regarding physician compliance with appropriateness criteria selected under paragraph (2)(D) in order to determine the appropriateness of advanced diagnostic imaging services furnished to Medicare beneficiaries.
+
+&emsp;“(B)
+
+Advanced diagnostic imaging services.—In this subsection, the term ‘advanced diagnostic imaging services’ has the meaning given such term in section 1834(e)(1)(B) of the Social Security Act \[42 U.S.C. 1395m(e)(1)(B)\], as added by subsection (a).
+
+&emsp;“(C)
+
+Authority to focus demonstration project.—The Secretary may focus the demonstration project with respect to certain advanced diagnostic imaging services, such as services that account for a large amount of expenditures under the Medicare program, services that have recently experienced a high rate of growth, or services for which appropriateness criteria exists.
+
+“(2)
+
+Implementation and design of demonstration project.—
+
+&emsp;“(A)
+
+Implementation and duration.—
+
+&emsp;&emsp;“(i)
+
+Implementation.—The Secretary shall implement the demonstration project under this subsection not later than January 1, 2010.
+
+&emsp;&emsp;“(ii)
+
+Duration.—The Secretary shall conduct the demonstration project under this subsection for a 2-year period.
+
+&emsp;“(B)
+
+Application and selection of participating physicians.—
+
+&emsp;&emsp;“(i)
+
+Application.—Each physician that desires to participate in the demonstration project under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;&emsp;“(ii)
+
+Selection.—The Secretary shall select physicians to participate in the demonstration project under this subsection from among physicians submitting applications under clause (i). The Secretary shall ensure that the physicians selected—
+
+&emsp;&emsp;&emsp;“(I) represent a wide range of geographic areas, demographic characteristics (such as urban, rural, and suburban), and practice settings (such as private and academic practices); and
+
+&emsp;&emsp;&emsp;“(II) have the capability to submit data to the Secretary (or an entity under a subcontract with the Secretary) in an electronic format in accordance with standards established by the Secretary.
+
+&emsp;“(C)
+
+Administrative costs and incentives.—The Secretary shall—
+
+&emsp;&emsp;“(i) reimburse physicians for reasonable administrative costs incurred in participating in the demonstration project under this subsection; and
+
+&emsp;&emsp;“(ii) provide reasonable incentives to physicians to encourage participation in the demonstration project under this subsection.
+
+&emsp;“(D)
+
+Use of appropriateness criteria.—
+
+&emsp;&emsp;“(i)
+
+In general.—The Secretary, in consultation with medical specialty societies and other stakeholders, shall select criteria with respect to the clinical appropriateness of advanced diagnostic imaging services for use in the demonstration project under this subsection.
+
+&emsp;&emsp;“(ii)
+
+Criteria selected.—Any criteria selected under clause (i) shall—
+
+&emsp;&emsp;&emsp;“(I) be developed or endorsed by a medical specialty society; and
+
+&emsp;&emsp;&emsp;“(II) be developed in adherence to appropriateness principles developed by a consensus organization, such as the AQA alliance.
+
+&emsp;“(E)
+
+Models for collecting data regarding physician compliance with selected criteria.—Subject to subparagraph (H), in carrying out the demonstration project under this subsection, the Secretary shall use each of the following models for collecting data regarding physician compliance with appropriateness criteria selected under subparagraph (D):
+
+&emsp;&emsp;“(i) A model described in subparagraph (F).
+
+&emsp;&emsp;“(ii) A model described in subparagraph (G).
+
+&emsp;&emsp;“(iii) Any other model that the Secretary determines to be useful in evaluating the use of appropriateness criteria for advanced diagnostic imaging services.
+
+&emsp;“(F)
+
+Point of service model described.—A model described in this subparagraph is a model that—
+
+&emsp;&emsp;“(i) uses an electronic or paper intake form that—
+
+&emsp;&emsp;&emsp;“(I) contains a certification by the physician furnishing the imaging service that the data on the intake form was confirmed with the Medicare beneficiary before the service was furnished;
+
+&emsp;&emsp;&emsp;“(II) contains standardized data elements for diagnosis, service ordered, service furnished, and such other information determined by the Secretary, in consultation with medical specialty societies and other stakeholders, to be germane to evaluating the effectiveness of the use of appropriateness criteria selected under subparagraph (D); and
+
+&emsp;&emsp;&emsp;“(III) is accessible to physicians participating in the demonstration project under this subsection in a format that allows for the electronic submission of such form; and
+
+&emsp;&emsp;“(ii) provides for feedback reports in accordance with paragraph (3)(B).
+
+&emsp;“(G)
+
+Point of order model described.—A model described in this subparagraph is a model that—
+
+&emsp;&emsp;“(i) uses a computerized order-entry system that requires the transmittal of relevant supporting information at the time of referral for advanced diagnostic imaging services and provides automated decision-support feedback to the referring physician regarding the appropriateness of furnishing such imaging services; and
+
+&emsp;&emsp;“(ii) provides for feedback reports in accordance with paragraph (3)(B).
+
+&emsp;“(H)
+
+Limitation.—In no case may the Secretary use prior authorization—
+
+&emsp;&emsp;“(i) as a model for collecting data regarding physician compliance with appropriateness criteria selected under subparagraph (D) under the demonstration project under this subsection; or
+
+&emsp;&emsp;“(ii) under any model used for collecting such data under the demonstration project.
+
+&emsp;“(I)
+
+Required contracts and performance standards for certain entities.—
+
+&emsp;&emsp;“(i)
+
+In general.—The Secretary shall enter into contracts with entities to carry out the model described in subparagraph (G).
+
+&emsp;&emsp;“(ii)
+
+Performance standards.—The Secretary shall establish and enforce performance standards for such entities under the contracts entered into under clause (i), including performance standards with respect to—
+
+&emsp;&emsp;&emsp;“(I) the satisfaction of Medicare beneficiaries who are furnished advanced diagnostic imaging services by a physician participating in the demonstration project;
+
+&emsp;&emsp;&emsp;“(II) the satisfaction of physicians participating in the demonstration project;
+
+&emsp;&emsp;&emsp;“(III) if applicable, timelines for the provision of feedback reports under paragraph (3)(B); and
+
+&emsp;&emsp;&emsp;“(IV) any other areas determined appropriate by the Secretary.
+
+“(3)
+
+Comparison of utilization of advanced diagnostic imaging services and feedback reports.—
+
+&emsp;“(A)
+
+Comparison of utilization of advanced diagnostic imaging services.—The Secretary shall consult with medical specialty societies and other stakeholders to develop mechanisms for comparing the utilization of advanced diagnostic imaging services by physicians participating in the demonstration project under this subsection against—
+
+&emsp;&emsp;“(i) the appropriateness criteria selected under paragraph (2)(D); and
+
+&emsp;&emsp;“(ii) to the extent feasible, the utilization of such services by physicians not participating in the demonstration project.
+
+&emsp;“(B)
+
+Feedback reports.—The Secretary shall, in consultation with medical specialty societies and other stakeholders, develop mechanisms to provide feedback reports to physicians participating in the demonstration project under this subsection. Such feedback reports shall include—
+
+&emsp;&emsp;“(i) a profile of the rate of compliance by the physician with appropriateness criteria selected under paragraph (2)(D), including a comparison of—
+
+&emsp;&emsp;&emsp;“(I) the rate of compliance by the physician with such criteria; and
+
+&emsp;&emsp;&emsp;“(II) the rate of compliance by the physician's peers (as defined by the Secretary) with such criteria; and
+
+&emsp;&emsp;“(ii) to the extent feasible, a comparison of—
+
+&emsp;&emsp;&emsp;“(I) the rate of utilization of advanced diagnostic imaging services by the physician; and
+
+&emsp;&emsp;&emsp;“(II) the rate of utilization of such services by the physician's peers (as defined by the Secretary) who are not participating in the demonstration project.
+
+“(4)
+
+Conduct of demonstration project and waiver.—
+
+&emsp;“(A)
+
+Conduct of demonstration project.—Chapter 35 of title 44, United States Code, shall not apply to the conduct of the demonstration project under this subsection.
+
+&emsp;“(B)
+
+Waiver.—The Secretary may waive such provisions of titles XI and XVIII of the Social Security Act (42 U.S.C. 1301 et seq.; 1395 et seq.) as may be necessary to carry out the demonstration project under this subsection.
+
+“(5)
+
+Evaluation and report.—
+
+&emsp;“(A)
+
+Evaluation.—The Secretary shall evaluate the demonstration project under this subsection to—
+
+&emsp;&emsp;“(i) assess the timeliness and efficacy of the demonstration project;
+
+&emsp;&emsp;“(ii) assess the performance of entities under a contract entered into under paragraph (2)(I)(i);
+
+&emsp;&emsp;“(iii) analyze data—
+
+&emsp;&emsp;&emsp;“(I) on the rates of appropriate, uncertain, and inappropriate advanced diagnostic imaging services furnished by physicians participating in the demonstration project;
+
+&emsp;&emsp;&emsp;“(II) on patterns and trends in the appropriateness and inappropriateness of such services furnished by such physicians;
+
+&emsp;&emsp;&emsp;“(III) on patterns and trends in national and regional variations of care with respect to the furnishing of such services; and
+
+&emsp;&emsp;&emsp;“(IV) on the correlation between the appropriateness of the services furnished and image results; and
+
+&emsp;&emsp;“(iv) address—
+
+&emsp;&emsp;&emsp;“(I) the thresholds used under the demonstration project to identify acceptable and outlier levels of performance with respect to the appropriateness of advanced diagnostic imaging services furnished;
+
+&emsp;&emsp;&emsp;“(II) whether prospective use of appropriateness criteria could have an effect on the volume of such services furnished;
+
+&emsp;&emsp;&emsp;“(III) whether expansion of the use of appropriateness criteria with respect to such services to a broader population of Medicare beneficiaries would be advisable;
+
+&emsp;&emsp;&emsp;“(IV) whether, under such an expansion, physicians who demonstrate consistent compliance with such appropriateness criteria should be exempted from certain requirements;
+
+&emsp;&emsp;&emsp;“(V) the use of incident-specific versus practice-specific outlier information in formulating future recommendations with respect to the use of appropriateness criteria for such services under the Medicare program; and
+
+&emsp;&emsp;&emsp;“(VI) the potential for using methods (including financial incentives), in addition to those used under the models under the demonstration project, to ensure compliance with such criteria.
+
+&emsp;“(B)
+
+Report.—Not later than 1 year after the completion of the demonstration project under this subsection, the Secretary shall submit to Congress a report containing the results of the evaluation of the demonstration project conducted under subparagraph (A), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
+
+“(6)
+
+Funding.—The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act (42 U.S.C. 1395t) of $10,000,000, for carrying out the demonstration project under this subsection (including costs associated with administering the demonstration project, reimbursing physicians for administrative costs and providing incentives to encourage participation under paragraph (2)(C), entering into contracts under paragraph (2)(I), and evaluating the demonstration project under paragraph (5)).”
+
+#### Air Ambulance Payment Improvements
+
+Pub. L. 110–275, title I, §146(b)(1), July 15, 2008, 122 Stat. 2548, provided that: “Notwithstanding any other provision of law, for purposes of making paymentsunder section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)) for air ambulance services furnished during the period beginning on July 1, 2008, and ending on December 31, 2009, any area that was designated as a rural area for purposes of making payments under such section for air ambulance services furnished on December 31, 2006, shall be treated as a rural area for purposes of making payments under such section for air ambulance services furnished during such period.”
+
+#### Evaluation of Certain Code
+
+Pub. L. 110–275, title I, §154(c)(3), July 15, 2008, 122 Stat. 2566, provided that: “The Secretary of Health and Human Services shall evaluate the existing Health Care Common Procedure Coding System (HCPCS) codes for negative pressure wound therapy to ensure accurate reporting and billing for items and services under such codes. In carrying out such evaluation, the Secretary shall use an existing process, administered by the Durable Medical Equipment Medicare Administrative Contractors, for the consideration of coding changes and consider all relevant studies and information furnished pursuant to such process.”
 
 #### GAO Report on Class III Medical Devices
 
@@ -2160,7 +2550,7 @@ Pub. L. 108–173, title IV, §414(c)(2), Dec. 8, 2003, 117 Stat. 2280, provided
 
 #### Implementation of 2003 Amendment
 
-Pub. L. 108–173, title IV, §414(e), Dec. 8, 2003, 117 Stat. 2280, provided that: “The Secretary \[of Health and Human Services\] may implement the amendments made by this section \[amending this section, section 1395x of this title, and provisions set out as a note under this section\], and revise the conversion factor applicable under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)) for purposes of implementing suchamendments, on an interim final basis, or by program instruction.”
+Pub. L. 108–173, title IV, §414(e), Dec. 8, 2003, 117 Stat. 2280, provided that: “The Secretary \[of Health and Human Services\] may implement the amendments made by this section \[amending this section, section 1395x of this title, and provisions set out as a note under this section\], and revise the conversion factor applicable under section 1834(<i>l</i>) of the Social Security Act (42 U.S.C. 1395m(<i>l</i>)) for purposes of implementing such amendments, on an interim final basis, or by program instruction.”
 
 #### GAO Report on Costs and Access
 
@@ -2212,7 +2602,7 @@ Implementation of provision.—The Secretary of Health and Human Services may im
 
 “(2)
 
-Consideration of new hcpcs code for new technologies after 2001.—The Secretary shall determine, for such mammographies performed after 2001, whether the assignment of a new HCPCS code is appropriate for mammography that uses a new technology. If the Secretary determines that a new code is appropriate for such mammography, the Secretary shall provide for such new code for such tests furnished after 2001.
+Consideration of new hcpcs code for new technologies after 2001.—The Secretary shall determine,for such mammographies performed after 2001, whether the assignment of a new HCPCS code is appropriate for mammography that uses a new technology. If the Secretary determines that a new code is appropriate for such mammography, the Secretary shall provide for such new code for such tests furnished after 2001.
 
 “(3)
 
@@ -2334,7 +2724,7 @@ Report.—Not later than 18 months after the date of the enactment of this Act \
 
 #### Treatment of Temporary Payment Increases After Calendar Year 2001
 
-Pub. L. 106–554, §1(a)(6) \[title V, §547(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that: “The paymentincrease provided under the following sections shall not apply after calendar year 2001 and shall not be taken into account in calculating the payment amounts applicable for items and services furnished after such year:
+Pub. L. 106–554, §1(a)(6) \[title V, §547(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that: “The payment increase provided under the following sections shall not apply after calendar year 2001 and shall not be taken into account in calculating the payment amounts applicable for items and services furnished after such year:
 
 &emsp;“(1) Section 401(c)(2) \[set out as a note under section 1395<i>l</i> of this title\] (relating to covered OPD services).
 
@@ -2434,7 +2824,7 @@ Report.—Not later than January 1, 2000, the Secretary shall submit a report to
 
 \[References to Medicare+Choice deemed to refer to Medicare Advantage, see section 201(b) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.\]
 
-\[Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, provided that the amendment made by that section to section 4532 ofPub. L. 105–33, set out above, is effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33.\]
+\[Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–353, provided that the amendment made by that section to section 4532 of Pub. L. 105–33, set out above, is effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33.\]
 
 #### Payment Freeze for Parenteral and Enteral Nutrients, Supplies, and Equipment
 
@@ -2490,7 +2880,7 @@ Section 4102(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 “(1)
 
-In general.—In applying part B of title XVIII of the Social Security Act \[this part\], the prevailing charge for physicians’ services, furnished during 1991, which are radiology services may not exceed the fee schedule amount established under section 1834(b) of such Act \[subsec. (b) of this section\] with respect to such services.
+In general.—In applying part B of title XVIII of the Social Security Act \[this part\], the prevailing charge for physicians’ services, furnished during 1991,which are radiology services may not exceed the fee schedule amount established under section 1834(b) of such Act \[subsec. (b) of this section\] with respect to such services.
 
 “(2)
 
@@ -2512,7 +2902,7 @@ Section 4153(c) of Pub. L. 101–508, as amended by Pub. L. 103–432, title I, 
 
 #### Special Rule for Nuclear Medicine Physicians
 
-Section 6105(b) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4102(g)(1), Nov. 5, 1990, 104 Stat. 1388–57, provided that: “In applying section 1834(b) of the Social Security Act \[subsec. (b) of this section\] with respect to nuclear medicine services furnished by a physician for whom nuclear medicine services account for at least 80 percent of the total amount of charges made under part B of title XVIII of the Social Security Act \[this part\] beginning April 1, 1990, and ending December 31, 1991, there shall be substituted for the fee schedule otherwise applicable a fee schedulebased 1/3 on the fee schedule computed under such section (without regard to this subsection) and 2/3 on 101 percent of the 1988 prevailing charge for such services.”
+Section 6105(b) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4102(g)(1), Nov. 5, 1990, 104 Stat. 1388–57, provided that: “In applying section 1834(b) of the Social Security Act \[subsec. (b) of this section\] with respect to nuclear medicine services furnished by a physician for whom nuclear medicine services account for at least 80 percent of the total amount of charges made under part B of title XVIII of the Social Security Act \[this part\] beginning April 1, 1990, and ending December 31, 1991, there shall be substituted for the fee schedule otherwise applicable a fee schedule based 1/3 on the fee schedule computed under such section (without regard to this subsection) and 2/3 on 101 percent of the 1988 prevailing charge for such services.”
 
 #### Special Rule for Interventional Radiologists; “Split Billing”
 
@@ -2582,5 +2972,9 @@ Section 4062(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>2</sup></i><i> So in original. Subpar. (B) of par. (2) does not contain clauses.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

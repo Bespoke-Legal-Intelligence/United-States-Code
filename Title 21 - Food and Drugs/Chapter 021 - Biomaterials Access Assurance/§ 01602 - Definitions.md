@@ -104,7 +104,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) to register with the Secretary pursuant to section 360 of this title and the regulations issued under such section; and
 
-&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant tosection 360(j) of this title and the regulations issued under such section.
+&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section.
 
 #### (7) Medical device
 
@@ -126,7 +126,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “seller” means a person who, in the course of a business conducted for that purpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
+&emsp;&emsp;The term “seller” means a person who, in the course of a business conducted for thatpurpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
 
 #### (B) Exclusions
 

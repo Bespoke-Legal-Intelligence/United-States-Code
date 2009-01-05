@@ -44,7 +44,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
-> &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
+> &emsp;and the uniform percent applicable to all other programs under this subsection shall beincreased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
 
 &emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 
@@ -98,7 +98,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Initial estimates
 
-&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, andcontinuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
+&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
 
 #### (2) Reestimates
 

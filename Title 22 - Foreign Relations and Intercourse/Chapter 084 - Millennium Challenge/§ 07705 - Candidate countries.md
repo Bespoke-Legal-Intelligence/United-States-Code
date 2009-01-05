@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;In addition to countries described in subsection (a), a country shall be a candidatecountry for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
+&emsp;In addition to countries described in subsection (a), a country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2006 or a subsequent fiscal year if the country—
 
 &emsp;&emsp;(A) is classified as a lower middle income country in the then most recent edition of the World Development Report for Reconstruction and Development published by the International Bank for Reconstruction and Development and has an income greater than the historical ceiling for International Development Association eligibility for the fiscal year involved; and
 

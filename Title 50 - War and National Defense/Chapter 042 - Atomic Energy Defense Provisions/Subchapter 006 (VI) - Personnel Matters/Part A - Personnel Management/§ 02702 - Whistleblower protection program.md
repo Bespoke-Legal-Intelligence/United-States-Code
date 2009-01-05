@@ -126,7 +126,7 @@ Section was formerly classified to section 7239 of Title 42, The Public Health a
 
 #### Amendments
 
-2003—Subsec. (n). Pub. L. 108–136, §3141(i)(3)(D), substituted “December 5, 1999,” for “60 days after October 5, 1999,”.
+<b>2003</b>—Subsec. (n). Pub. L. 108–136, §3141(i)(3)(D), substituted “December 5, 1999,” for “60 days after October 5, 1999,”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

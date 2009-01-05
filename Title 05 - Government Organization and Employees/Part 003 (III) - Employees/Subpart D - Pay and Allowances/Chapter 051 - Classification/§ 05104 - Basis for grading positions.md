@@ -10,7 +10,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;(2) Grade GS–2 includes those classes of positions the duties of which are—
 
-&emsp;&emsp;(A) to perform, under immediate supervision, with limited latitude for the exerciseof independent judgment, routine work in office, business, or fiscal operations, or comparable subordinate technical work of limited scope in a professional, scientific, or technical field, requiring some training or experience; or
+&emsp;&emsp;(A) to perform, under immediate supervision, with limited latitude for the exercise of independent judgment, routine work in office, business, or fiscal operations, or comparable subordinate technical work of limited scope in a professional, scientific, or technical field, requiring some training or experience; or
 
 &emsp;&emsp;(B) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -32,7 +32,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;&emsp;(i) a moderate amount of training and minor supervisory or other experience;
 
-&emsp;&emsp;&emsp;(ii) good working knowledge of a special subject matter or a limited field of office, laboratory, engineering, scientific, or other procedure and practice; and
+&emsp;&emsp;&emsp;(ii) good working knowledge of a special subject matter or a limited field of office,laboratory, engineering, scientific, or other procedure and practice; and
 
 &emsp;&emsp;&emsp;(iii) the exercise of independent judgment in accordance with well-established policies, procedures, and techniques; or
 
@@ -250,7 +250,7 @@ Sec. 101. The Congress hereby finds that—
 
 Sec. 201. It is the sense of Congress that—
 
-&emsp;“(1) the executive branch shall, in the interest of equity, efficiency, and good administration, operateunder a coordinated job evaluation and ranking system for all civilian positions, to the greatest extent practicable;
+&emsp;“(1) the executive branch shall, in the interest of equity, efficiency, and good administration, operate under a coordinated job evaluation and ranking system for all civilian positions, to the greatest extent practicable;
 
 &emsp;“(2) the system shall be designed so as to utilize such methods of job evaluation and ranking as are appropriate for use in the executive branch, taking into account the various occupational categories of positions therein; and
 

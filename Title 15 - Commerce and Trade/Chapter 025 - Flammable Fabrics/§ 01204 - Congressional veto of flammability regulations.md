@@ -2,7 +2,7 @@
 
 #### (a) Transmission to Congress
 
-The Consumer Product Safety Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any flammability regulation promulgated by the Commission under section 1193 of this title.
+The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any flammability regulation promulgated by the Commission under section 1193 of this title.
 
 #### (b) Disapproval by concurrent resolution
 
@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
 
-(June 30, 1953, ch. 164, §17, as added Pub. L. 97–35, title XII, §1207(d), Aug. 13, 1981, 95 Stat. 719.)
+(June 30, 1953, ch. 164, §17, as added Pub. L. 97–35, title XII, §1207(d), Aug. 13, 1981, 95 Stat. 719; amended Pub. L. 110–314, title II, §204(c)(2)(C), (H), Aug. 14, 2008, 122 Stat. 3042, 3043.)
 
 #### References in Text
 
@@ -33,6 +33,12 @@ The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch.
 #### Prior Provisions
 
 A prior section 1204, act June 30, 1953, ch. 164, §17, as added Dec. 14, 1967, Pub. L. 90–189, §10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, §19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, §1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.
+
+#### Amendments
+
+2008—Pub. L. 110–314, §204(c)(2)(H), which directed substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a) before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
+
+Subsec. (a). Pub. L. 110–314, §204(c)(2)(C), which directed substitution of “Commission” for “Secretary” wherever appearing in the Flammable Fabrics Act, classified to this chapter, was not executed in subsec. (a) of this section, where “Secretary” precedes “of the Senate”, to reflect the probable intent of Congress. Amendment was part of a series of conforming amendments to change references to the “Secretary” of Commerce to “Commission”.
 
 #### Effective Date
 

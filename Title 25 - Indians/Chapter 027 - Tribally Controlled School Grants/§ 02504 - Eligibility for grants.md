@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) was a Bureau-operated school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] and has met the requirements of subsection (b) of this section;
 
-&emsp;&emsp;(C) is a school for which the Bureau has not provided funds, but which has met therequirements of subsection (c) of this section; or
+&emsp;&emsp;(C) is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c) of this section; or
 
 &emsp;&emsp;(D) is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b) of this section.
 
@@ -68,7 +68,7 @@
 
 &emsp;A school which is not a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] meets the requirements of this subsection if—
 
-&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
+&emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, theschool submits to the Secretary an application requesting a determination by the Secretary as to whether the school is eligible for assistance under this chapter; and
 
 &emsp;&emsp;(B) the Secretary makes a determination that a school is eligible for assistance under this chapter.
 

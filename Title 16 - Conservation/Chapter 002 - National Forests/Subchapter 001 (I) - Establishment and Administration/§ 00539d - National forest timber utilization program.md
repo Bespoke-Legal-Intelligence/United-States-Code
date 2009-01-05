@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 101–626, §105(b), added subsec. (f).
 
 #### Short Title of 1990 Amendment
 
-Section 1(a) of Pub. L. 101–626 provided that: “This Act \[amending this section and sections 472a and 539e ofthis title, enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the ‘Tongass Timber Reform Act’.”
+Section 1(a) of Pub. L. 101–626 provided that: “This Act \[amending this section and sections 472a and 539e of this title, enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the ‘Tongass Timber Reform Act’.”
 
 #### Study Containing Recommendations on Need To Standardize Riparian Management Practices in Tongass National Forest
 

@@ -66,7 +66,7 @@ Part D of this subchapter, referred to in par. (1), probably should be a referen
 
 #### Short Title
 
-Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: “This Act \[enacting this subchapter andprovisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title\] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
+Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: “This Act \[enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title\] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
 
 #### Purposes
 

@@ -20,7 +20,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) the submission of information for the purpose of enabling the Secretary to evaluate the safety or effectiveness of an animal drug application or supplemental animal drug application in the event of their filing.
 
-&emsp;(6) The term “animal drug sponsor” means either an applicant named in an animal drug application, except for an approved application for which all subject products have been removed from listing under section 360 of this title, or a person who has submitted an investigational animal drug submission that has not been terminated or otherwise rendered inactive by the Secretary.
+&emsp;(6) The term “animal drug sponsor” means either an applicant named in an animal drug application that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational animal drug submission that has not been terminatedor otherwise rendered inactive by the Secretary.
 
 &emsp;(7) The term “final dosage form” means, with respect to an animal drug product, a finished dosage form which is approved for administration to an animal without substantial further manufacturing. Such term includes animal drug products intended for mixing in animal feeds.
 
@@ -40,7 +40,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(G) Meetings between the agency and the animal drug sponsor.
 
-&emsp;&emsp;(H) Review of advertising and labeling prior to approval of an animal drug application or supplemental animal drug application, but not such activities after an animal drug has been approved.
+&emsp;&emsp;(H) Review of advertising and labeling prior to approval of an animal drug application or supplemental animal drug application, but not after such application has been approved.
 
 &emsp;(9) The term “costs of resources allocated for the process for the review of animal drug applications” means the expenses incurred in connection with the process for the review of animal drug applications for—
 
@@ -52,21 +52,51 @@ For purposes of this subpart:
 
 &emsp;&emsp;(D) collecting fees under section 379j–12 of this title and accounting for resources allocated for the review of animal drug applications, supplemental animal drug applications, and investigational animal drug submissions.
 
-&emsp;(10) The term “adjustment factor” applicable to a fiscal year refers to the formula set forth in section 379g(8) of this title with the base or comparator year being 2003.
+&emsp;(10) The term “adjustment factor” applicable to a fiscal year refers to the formula set forth in section 379g(8) of this title with the base or comparator month being October 2002.
 
-&emsp;(11) The term “affiliate” refers to the definition set forth in section 379g(11) of this title.
+&emsp;(11) The term “person” includes an affiliate thereof.
 
-(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361; amended Pub. L. 110–85, title I, §109, Sept. 27, 2007, 121 Stat. 842.)
+&emsp;(12) The term “affiliate” refers to the definition set forth in section 379g(11) of this title.
+
+(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361; amended Pub. L. 110–85, title I, §109, Sept. 27, 2007, 121 Stat. 842; Pub. L. 110–316, title I, §102, Aug. 14, 2008, 122 Stat. 3510.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 108(a) of Pub. L. 110–316, see Effective and Termination Dates of 2008 Amendment note below.</i>
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 108–130, see Termination Date note below.</i>
 
+<i>For savings provisions, see section 106 of Pub. L. 110–316, set out as a note below.</i>
+
 #### Amendments
+
+2008—Par. (6). Pub. L. 110–316, §§102(1), 108(a), temporarily substituted “that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary” for “, except for an approved application for which all subject products have been removed from listing under section 360 of this title”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Par. (8)(H). Pub. L. 110–316, §§102(2), 108(a), temporarily substituted “but not after such application has been approved” for “but not such activities after an animal drug has been approved”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Par. (10). Pub. L. 110–316, §§102(3), 108(a), temporarily substituted “month being October 2002” for “year being 2003”. See Effective and Termination Dates of 2008 Amendment note below.
+
+Pars. (11), (12). Pub. L. 110–316, §§102(4), (5), 108(a), temporarily added par. (11) and redesignated former par. (11) as (12). See Effective and Termination Dates of 2008 Amendment note below.
 
 2007—Pub. L. 110–85, §109(a), substituted “subpart” for “part” in introductory provisions.
 
 Par. (11). Pub. L. 110–85, §109(b), substituted “379g(11)” for “379g(9)”.
+
+#### Effective and Termination Dates of 2008 Amendment
+
+Pub. L. 110–316, title I, §107, Aug. 14, 2008, 122 Stat. 3514, provided that: “The amendments made by sections 102, 103, and 104 \[enacting section 379j–13 of this title and amending this section and section 379j–12 of this title\] shall take effect on October 1, 2008, and fees under part 4 of subchapter C of chapter VII of the FederalFood, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after such date, regardless of the date of the enactment of this title \[Aug. 14, 2008\].”
+
+Pub. L. 110–316, title I, §108, Aug. 14, 2008, 122 Stat. 3515, provided that:
+
+“(a)
+
+Authorization.—The amendments made by sections 102 and 103 \[amending this section and section 379j–12 of this title\] cease to be effective October 1, 2013.
+
+“(b)
+
+Reporting Requirements.—The amendment made by section 104 \[enacting section 379j–13 of this title\] ceases to be effective January 31, 2014.”
 
 #### Effective Date of 2007 Amendment
 
@@ -76,7 +106,13 @@ Amendment by Pub. L. 110–85 effective Oct. 1, 2007, see section 107 of Pub. L.
 
 Pub. L. 108–130, §5, Nov. 18, 2003, 117 Stat. 1371, provided that: “The amendments made by section 3 \[enacting this subpart\] shall not be in effect after October 1, 2008, and section 4 \[enacting provisions set out as a note below\] shall not be in effect after 120 days after such date.”
 
+#### Savings Provisions
+
+Pub. L. 110–316, title I, §106, Aug. 14, 2008, 122 Stat. 3514, provided that: “Notwithstanding section 5 of the Animal Drug User Fee Act of 2003 \[Pub. L. 108–130\] (21 U.S.C. 379j–11 note), and notwithstanding the amendments made by this title \[enacting section 379j–13 of this title and amending this section and sections 360b and 379j–12 of this title\], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.), as in effect on the day before the date of the enactment of this title \[Aug. 14, 2008\], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after September 1, 2003, but before October 1, 2008, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2009.”
+
 #### Findings
+
+Pub. L. 110–316, title I, §101(b), Aug. 14, 2008, 122 Stat. 3509, provided that: “Congress finds that the fees authorized by the amendments made in this title \[enacting section 379j–13 of this title and amending this section and sections 360b and 379j–12 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.”
 
 Pub. L. 108–130, §2, Nov. 18, 2003, 117 Stat. 1361, provided that: “Congress finds as follows:
 
@@ -88,33 +124,5 @@ Pub. L. 108–130, §2, Nov. 18, 2003, 117 Stat. 1361, provided that: “Congres
 
 #### Accountability and Reports
 
-Pub. L. 108–130, §4, Nov. 18, 2003, 117 Stat. 1370, provided that:
-
-“(a)
-
-Public Accountability.—
-
-&emsp;“(1)
-
-Consultation.—In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[42 U.S.C. 379j–11, 379j–12\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
-
-&emsp;“(2)
-
-Recommendations.—The Secretary shall—
-
-&emsp;&emsp;“(A) publish in the Federal Register recommendations under paragraph (1), after negotiations with the regulated industry;
-
-&emsp;&emsp;“(B) present the recommendations to the Committees referred to in that paragraph;
-
-&emsp;&emsp;“(C) hold a meeting at which the public may comment on the recommendations; and
-
-&emsp;&emsp;“(D) provide for a period of 30 days for the public to provide written comments on the recommendations.
-
-“(b)
-
-Performance Reports.—Beginning with fiscal year 2004, not later than 60 days after the end of each fiscal year during which fees are collected under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 2(3) of this Act \[set out as a note above\] toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
-
-“(c)
-
-Fiscal Report.—Beginning with fiscal year 2004, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
+Pub. L. 108–130, §4, Nov. 18, 2003, 117 Stat. 1370, which required the Secretary of Health and Human Services, after certain consultations, to develop recommendations relating to the review of animal drug applications after fiscal year 2008, to submit to congressional committees a report each fiscal year concerning the progress of the Food and Drug Administration in achieving certain goals toward expediting the animal drug development process and the review of the animal drug applications and investigational animal drug submissions, and to submit a report for each fiscal year to congressional committees on the implementation of the authority for the fees collected under this subpart during the fiscal year and the use, by the Food and Drug Administration, of the fees collected, ceased to be effective 120 days after Oct. 1, 2008. See Termination Date note above.
 

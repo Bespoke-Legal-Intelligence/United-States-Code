@@ -58,7 +58,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 &emsp;If the property was acquired as the result of a compulsory or involuntary conversion described in subsection (a)(1), the basis shall be the same as in the case of the property so converted—
 
-&emsp;&emsp;(A) decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and
+&emsp;&emsp;(A) decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions oflaw (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and
 
 &emsp;&emsp;(B) increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made.
 
@@ -128,7 +128,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (1) Special rule
 
-&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
+&emsp;For purposes of subsection (a), if real property (not including stock in trade or otherproperty held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
 
 #### (2) Limitations
 
@@ -156,11 +156,11 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 &emsp;In the case of a compulsory or involuntary conversion described in paragraph (1), subsection (a)(2)(B)(i) shall be applied by substituting “3 years” for “2 years”.
 
-#### (h) Special rules for property damaged by Presidentially declared disasters
+#### (h) Special rules for property damaged by federally declared disasters
 
 #### (1) Principal residences
 
-&emsp;If the taxpayer's principal residence or any of its contents is compulsorily or involuntarily converted as a result of a Presidentially declared disaster—
+&emsp;If the taxpayer's principal residence or any of its contents is located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster—
 
 #### (A) Treatment of insurance proceeds
 
@@ -182,11 +182,11 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (2) Trade or business and investment property
 
-&emsp;If a taxpayer's property held for productive use in a trade or business or for investment is compulsorily or involuntarily converted as a result of a Presidentially declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
+&emsp;If a taxpayer's property held for productive use in a trade or business or for investment <sup>1</sup> located in a disaster area and compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
 
-#### (3) Presidentially declared disaster
+#### (3) Federally declared disaster; disaster area
 
-&emsp;For purposes of this subsection, the term “Presidentially declared disaster” means any disaster which, with respect to the area in which the property is located, resulted in a subsequent determination by the President that such area warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+&emsp;The terms “federally declared disaster” and “disaster area” shall have the respective meaning given such terms by section 165(h)(3)(C).
 
 #### (4) Principal residence
 
@@ -236,11 +236,11 @@ For purposes of this subtitle, if property is sold or otherwise transferred to t
 
 &emsp;&emsp;<b>(3) For exclusion from gross income of gain from involuntary conversion of principal residence, see section 121.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959; Pub. L. 108–311, title IV, §408(a)(7)(C), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §311(a), (b), Oct. 22, 2004, 118 Stat. 1466, 1467; Pub. L. 109–7, §1(b), Apr. 15, 2005, 119 Stat. 22.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959; Pub. L. 108–311, title IV, §408(a)(7)(C), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §311(a), (b), Oct. 22, 2004, 118 Stat. 1466, 1467; Pub. L. 109–7, §1(b), Apr. 15, 2005, 119 Stat. 22; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(i)–(iii), Oct. 3, 2008, 122 Stat. 3922.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (h)(3) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
@@ -248,11 +248,19 @@ The National Flood Insurance Act, referred to in subsec. (k), probably means the
 
 #### Amendments
 
+2008—Subsec. (h). Pub. L. 110–343, §706(a)(2)(D)(i), amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
+
+Subsec. (h)(1). Pub. L. 110–343, §706(a)(2)(D)(i), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the taxpayer's principal residence or any of its contents is compulsorily or involuntarily converted as a result of a Presidentially declared disaster—”.
+
+Subsec. (h)(2). Pub. L. 110–343, §706(a)(2)(D)(ii), substituted “investment located in a disaster area and compulsorily or involuntarily converted as a result of a federally declared disaster” for “investment is compulsorily or involuntarily converted as a result of a Presidentially declared disaster”.
+
+Subsec. (h)(3). Pub. L. 110–343, §706(a)(2)(D)(iii), amended par. (3) generally. Prior to amendment, par. (3) defined “Presidentially declared disaster” for purposes of subsec. (h).
+
 2005—Subsecs. (k), (<i>l</i>). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 2004—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted “drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
+Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted“drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
 
 Subsec. (h)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
@@ -302,7 +310,7 @@ Subsec. (k). Pub. L. 104–7, §3(b)(1), redesignated subsec. (j) as (k).
 
 1990—Subsec. (g)(3)(A). Pub. L. 101–508 struck out “with respect to which the investment credit determined under section 46(a) is or has been claimed or” after “to any property”.
 
-1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for“the credit allowed by section 38 (relating to investment in certain depreciable property)”.
+1984—Subsec. (g)(3)(A). Pub. L. 98–369 substituted “the investment credit determined under section 46(a)” for “the credit allowed by section 38 (relating to investment in certain depreciable property)”.
 
 1981—Subsec. (g)(3)(A). Pub. L. 97–34 substituted “(relating to election to expense certain depreciable business assets)” for “(relating to additional first-year depreciation allowance for small business)”.
 
@@ -331,6 +339,10 @@ Subsecs. (g), (h). Pub. L. 94–455, §1901(a)(128)(C), redesignated subsec. (h)
 Subsecs. (g), (h). Pub. L. 85–866, §46(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -386,7 +398,7 @@ Amendment by section 703(j)(5) of Pub. L. 95–600 effective on Oct. 4, 1976, se
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(128) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Section 2127(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 
@@ -411,4 +423,6 @@ Section 5(b) of act June 29, 1956, provided that: “The amendment made by this 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “is”.</i>
 

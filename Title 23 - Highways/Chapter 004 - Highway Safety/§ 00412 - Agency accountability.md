@@ -14,7 +14,7 @@ State Program Review.—The Secretary shall—
 
 &emsp;(1) conduct a program improvement review of a highway safety program under this chapter of a State that does not make substantial progress over a 3-year period in meeting its priority program goals; and
 
-&emsp;(2) provide technical assistance and safety program requirements to be incorporated inthe State highway safety program for any goal not achieved.
+&emsp;(2) provide technical assistance and safety program requirements to be incorporated in the State highway safety program for any goal not achieved.
 
 (d)
 

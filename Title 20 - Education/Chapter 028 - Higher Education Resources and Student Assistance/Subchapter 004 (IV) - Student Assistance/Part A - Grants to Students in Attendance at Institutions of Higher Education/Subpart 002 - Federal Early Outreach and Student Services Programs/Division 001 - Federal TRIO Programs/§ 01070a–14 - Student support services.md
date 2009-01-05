@@ -6,39 +6,59 @@ The Secretary shall carry out a program to be known as student support services 
 
 &emsp;(1) to increase college retention and graduation rates for eligible students;
 
-&emsp;(2) to increase the transfer rates of eligible students from 2-year to 4-year institutions; and
+&emsp;(2) to increase the transfer rates of eligible students from 2-year to 4-year institutions;
 
-&emsp;(3) to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities.
+&emsp;(3) to foster an institutional climate supportive of the success of students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students; and
 
-#### (b) Permissible services
+&emsp;(4) to improve the financial literacy and economic literacy of students, including—
 
-A student support services project assisted under this division may provide services such as—
+&emsp;&emsp;(A) basic personal income, household money management, and financial planning skills; and
 
-&emsp;(1) instruction in reading, writing, study skills, mathematics, and other subjects necessary for success beyond secondary school;
+&emsp;&emsp;(B) basic economic decisionmaking skills.
 
-&emsp;(2) personal counseling;
+#### (b) Required services
 
-&emsp;(3) academic advice and assistance in course selection;
+A project assisted under this section shall provide—
 
-&emsp;(4) tutorial services and counseling and peer counseling;
+&emsp;(1) academic tutoring, directly or through other services provided by the institution, to enable students to complete postsecondary courses, which may include instruction in reading, writing, study skills, mathematics, science, and other subjects;
 
-&emsp;(5) exposure to cultural events and academic programs not usually available to disadvantaged students;
+&emsp;(2) advice and assistance in postsecondary course selection;
 
-&emsp;(6) activities designed to acquaint students participating in the project with the range of career options available to them;
+&emsp;(3)(A) information on both the full range of Federal student financial aid programs and benefits (including Federal Pell Grant awards and loan forgiveness) and resources for locating public and private scholarships; and
 
-&emsp;(7) activities designed to assist students participating in the project in securing admission and financial assistance for enrollment in graduate and professional programs;
+&emsp;(B) assistance in completing financial aid applications, including the Free Application for Federal Student Aid described in section 1090(a) of this title;
 
-&emsp;(8) activities designed to assist students currently enrolled in 2-year institutions in securing admission and financial assistance for enrollment in a four-year program of postsecondary education;
+&emsp;(4) education or counseling services designed to improve the financial literacy and economic literacy of students, including financial planning for postsecondary education;
 
-&emsp;(9) mentoring programs involving faculty or upper class students, or a combination thereof; and
+&emsp;(5) activities designed to assist students participating in the project in applying for admission to, and obtaining financial assistance for enrollment in, graduate and professional programs; and
 
-&emsp;(10) programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.
+&emsp;(6) activities designed to assist students enrolled in two-year institutions of higher education in applying for admission to, and obtaining financial assistance for enrollment in, a four-year program of postsecondary education.
 
-#### (c) Special rule
+#### (c) Permissible services
+
+A project assisted under this section may provide services such as—
+
+&emsp;(1) individualized counseling for personal, career, and academic matters provided by assigned counselors;
+
+&emsp;(2) information, activities, and instruction designed to acquaint students participating in the project with the range of career options available to the students;
+
+&emsp;(3) exposure to cultural events and academic programs not usually available to disadvantaged students;
+
+&emsp;(4) mentoring programs involving faculty or upper class students, or a combination thereof;
+
+&emsp;(5) securing temporary housing during breaks in the academic year for—
+
+&emsp;&emsp;(A) students who are homeless children and youths (as such term is defined in section 11434a of title 42) or were formerly homeless children and youths; and
+
+&emsp;&emsp;(B) students who are in foster care or are aging out of the foster care system; and
+
+&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+
+#### (d) Special rule
 
 #### (1) Use for student aid
 
-&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
+&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (c) may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
 
 #### (2) Eligible students
 
@@ -68,9 +88,9 @@ A student support services project assisted under this division may provide serv
 
 &emsp;Funds received by a grant recipient that are used under this subsection shall be used to supplement, and not supplant, non-Federal funds expended for student support services programs.
 
-#### (d) Requirements for approval of applications
+#### (e) Requirements for approval of applications
 
-In approving applications for student support services projects under this division for any fiscal year, the Secretary shall—
+In approving applications for projects under this section for any fiscal year, the Secretary shall—
 
 &emsp;(1) require an assurance that not less than two-thirds of the persons participating in the project proposed to be carried out under any application—
 
@@ -80,7 +100,7 @@ In approving applications for student support services projects under this divis
 
 &emsp;(2) require an assurance that the remaining students participating in the project proposed to be carried out under any application be low-income individuals, first generation college students, or individuals with disabilities;
 
-&emsp;(3) require an assurance that not less than one-third of the individuals with disabilitiesparticipating in the project be low-income individuals;
+&emsp;(3) require an assurance that not less than one-third of the individuals with disabilities participating in the project be low-income individuals;
 
 &emsp;(4) require that there be a determination by the institution, with respect to each participant in such project, that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
 
@@ -92,9 +112,19 @@ In approving applications for student support services projects under this divis
 
 &emsp;&emsp;(B) maintaining the loan burden of each such student at a manageable level.
 
-(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 106–554, §1(a)(1) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–48.)
+(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 106–554, §1(a)(1) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–48; Pub. L. 110–315, title IV, §403(d), Aug. 14, 2008, 122 Stat. 3201.)
 
 #### Amendments
+
+2008—Subsec. (a)(3), (4). Pub. L. 110–315, §403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities.”
+
+Subsec. (b). Pub. L. 110–315, §403(d)(3), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
+
+Subsecs. (c), (d). Pub. L. 110–315, §403(d)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 110–315, §403(d)(4), substituted “subsection (c)” for “subsection (b)”.
+
+Subsec. (e). Pub. L. 110–315, §403(d)(2), (5), redesignated subsec. (d) as (e) and substituted “projects under this section” for “student support services projects under this division” in introductory provisions.
 
 2000—Subsecs. (c), (d). Pub. L. 106–554 added subsec. (c) and redesignated former subsec. (c) as (d).
 

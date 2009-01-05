@@ -36,7 +36,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (6) Importer
 
-&emsp;The term “importer” means any person who imports an agricultural commodity from outside the United States for sale in the United States as a principal or as an agent, broker, or consignee of any person.
+&emsp;The term “importer” means any person who imports an agricultural commodity from outside the United States for sale in the UnitedStates as a principal or as an agent, broker, or consignee of any person.
 
 #### (7) Information
 

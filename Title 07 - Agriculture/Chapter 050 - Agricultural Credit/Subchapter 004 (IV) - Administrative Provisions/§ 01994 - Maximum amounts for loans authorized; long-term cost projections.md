@@ -8,13 +8,13 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
+&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $4,226,000,000 for each of fiscal years 2008 through 2012, of which, for each fiscal year—
 
-&emsp;&emsp;(A) $770,000,000 shall be for direct loans, of which—
+&emsp;&emsp;(A) $1,200,000,000 shall be for direct loans, of which—
 
-&emsp;&emsp;&emsp;(i) $205,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
+&emsp;&emsp;&emsp;(i) $350,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
 
-&emsp;&emsp;&emsp;(ii) $565,000,000 shall be for operating loans under subchapter II of this chapter; and
+&emsp;&emsp;&emsp;(ii) $850,000,000 shall be for operating loans under subchapter II of this chapter; and
 
 &emsp;&emsp;(B) $3,026,000,000 shall be for guaranteed loans, of which—
 
@@ -30,11 +30,11 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for direct farm ownership loans, the Secretary shall reserve 70 percent for qualified beginning farmers and ranchers.
+&emsp;&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for direct farm ownership loans, the Secretary shall reserve an amount that is not less than 75 percent of the total amount for qualified beginning farmers and ranchers.
 
-#### (II) Down payment loans
+#### (II) Down payment loans; joint financing arrangements
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
+&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve an amount not less than 2/3 of the amount for the down payment loan program under section 1935 of this title and joint financing arrangements under section 1927(a)(3)(D) of this title until April 1 of the fiscal year.
 
 #### (ii) Operating loans
 
@@ -44,7 +44,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;&emsp;(II) for fiscal year 1999, 30 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2003 through 2007, 35 percent.
+&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2008 through 2012, an amount that is not less than 50 percent of the total amount.
 
 #### (iii) Funds reserved until September 1
 
@@ -54,7 +54,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (i) Farm ownership loans
 
-&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of farm ownership loans, the Secretary shall reserve 25 percent for qualified beginning farmers and ranchers.
+&emsp;&emsp;&emsp;Of the amounts made available under paragraph (1) for guarantees of farm ownership loans, the Secretary shall reserve an amount that is not less than 40 percent of the total amount for qualified beginning farmers and ranchers.
 
 #### (ii) Operating loans
 
@@ -66,7 +66,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (C) Reserved funds for all qualified beginning farmers and ranchers
 
-&emsp;&emsp;If a qualified beginning farmer or rancher meets the eligibility criteria for receiving a direct or guaranteed loan under section 1922, 1935, or 1941 of this title, the Secretary shall make or guarantee the loan if sufficient funds reserved under this paragraph are available to make or guarantee the loan.
+&emsp;&emsp;If a qualified beginning farmer or rancher meets the eligibility criteria for receiving adirect or guaranteed loan under section 1922, 1935, or 1941 of this title, the Secretary shall make or guarantee the loan if sufficient funds reserved under this paragraph are available to make or guarantee the loan.
 
 #### (3) Transfer for down payment loans
 
@@ -106,13 +106,27 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
-(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347.)
+(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see note set out under section 1921 of this title.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–246, §5303(1), substituted “$4,226,000,000 for each of fiscal years 2008through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, substituted “$1,200,000,000” for “$770,000,000”, in cl. (i), substituted “$350,000,000” for “$205,000,000”, and, in cl. (ii), substituted “$850,000,000” for “$565,000,000”.
+
+Subsec. (b)(2)(A)(i). Pub. L. 110–246, §5302(b)(1)(A), in subcl. (I), substituted “an amount that is not less than 75 percent of the total amount” for “70 percent” and, in subcl. (II), inserted “; joint financing arrangements” at end of heading and, in text, substituted “an amount not less than 2/3 of the amount” for “60 percent” and inserted “and joint financing arrangements under section 1927(a)(3)(D) of this title” after “section 1935 of this title”.
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted “2008 through 2012, an amount that is not less than 50 percent of the total amount” for “2003 through 2007, 35 percent”.
+
+Subsec. (b)(2)(B)(i). Pub. L. 110–246, §5302(b)(2), substituted “an amount that is not less than 40 percent of the total amount” for “25 percent”.
 
 2002—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
 
@@ -145,6 +159,10 @@ Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which author
 1981—Subsec. (d). Pub. L. 97–35 added subsec. (d).
 
 1980—Pub. L. 96–438 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1991 Amendment
 

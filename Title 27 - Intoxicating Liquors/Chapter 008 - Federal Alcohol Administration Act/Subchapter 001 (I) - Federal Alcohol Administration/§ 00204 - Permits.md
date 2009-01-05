@@ -64,5 +64,5 @@ Subsec. (d). Pub. L. 100–690, §8001(b)(3), made technical amendment to refere
 
 #### Applicability of Administrative Procedure Act
 
-Section 35 of Pub. L. 85–791 provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees\].”
+Section 35 of Pub. L. 85–791 provided that: “This Act shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[see Short Title note preceding section 551 of Title 5, Government Organization and Employees\].”
 

@@ -6,7 +6,11 @@ The Secretary may make grants to nonprofit private agencies for the purpose of p
 
 #### (b) Priority
 
-In selecting applicants to receive grants under subsection (a) of this section, the Secretary shall give priority to nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.
+In selecting applicants to receive grants under subsection (a) of this section, the Secretary shall give priority to public and nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.
 
-(Pub. L. 93–415, title III, §351, as added Pub. L. 106–71, §3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040.)
+(Pub. L. 93–415, title III, §351, as added Pub. L. 106–71, §3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040; amended Pub. L. 110–378, §7, Oct. 8, 2008, 122 Stat. 4071.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–378 inserted “public and” after “priority to”.
 

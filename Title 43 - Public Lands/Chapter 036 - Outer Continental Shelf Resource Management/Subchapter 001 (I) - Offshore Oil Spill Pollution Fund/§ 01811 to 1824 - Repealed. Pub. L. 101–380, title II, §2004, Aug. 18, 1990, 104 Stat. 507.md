@@ -34,7 +34,7 @@ Repeal applicable to incidents occurring after Aug. 18, 1990, see section 1020 o
 
 #### Effective Date
 
-Pub. L. 95–372, title III, §315, Sept. 18, 1978, 92 Stat. 685, which provided that such section, section 1814(e) of this title, section 1815(d) of this title, and all provisions of this subchapter authorizing the delegation of authority or the promulgation of regulations were to be effective Sept. 18, 1978, and that all other provisions of this subchapter, and rules and regulations promulgated pursuant to such provisions, were to be effective on the one hundred and eightieth day after Sept. 18, 1978, wasrepealed by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
+Pub. L. 95–372, title III, §315, Sept. 18, 1978, 92 Stat. 685, which provided that such section, section 1814(e) of this title, section 1815(d) of this title, and all provisions of this subchapter authorizing the delegation of authority or the promulgation of regulations were to be effective Sept. 18, 1978, and that all other provisions of this subchapter, and rules and regulations promulgated pursuant to such provisions, were to be effective on the one hundred and eightieth day after Sept. 18, 1978, was repealed by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
 
 #### Offshore Oil Pollution Compensation Fund
 

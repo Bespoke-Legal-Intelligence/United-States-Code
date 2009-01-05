@@ -24,9 +24,41 @@ The remedies provided for in this section shall be in addition to and not in lie
 
 For purposes of this section and sections 2072(a) and 2073 of this title, a reasonable attorney's fee is a fee (1) which is based upon (A) the actual time expended by an attorney in providing advice and other legal services in connection with representing a person in an action brought under this section, and (B) such reasonable expenses as may be incurred by the attorney in the provision of such services, and (2) which is computed at the rate prevailing for the provision of similar services with respect to actions brought in the court which is awarding such fee.
 
-(Pub. L. 92–573, §11, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 94–284, §§10(b), 11(a), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, §1211(h)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(2), Jan. 4, 1983, 96 Stat. 2064.)
+#### (g) Expedited judicial review
+
+#### (1) Application
+
+&emsp;This subsection applies, in lieu of the preceding subsections of this section, to judicial review of—
+
+&emsp;&emsp;(A) any consumer product safety rule promulgated by the Commission pursuant to section 2064(j) of this title (relating to identification of substantial hazards);
+
+&emsp;&emsp;(B) any consumer product safety standard promulgated by the Commission pursuant to section 2089 of this title (relating to all-terrain vehicles);
+
+&emsp;&emsp;(C) any standard promulgated by the Commission under section 2056a of this title (relating to durable infant and toddler products); and
+
+&emsp;&emsp;(D) any consumer product safety standard promulgated by the Commission under section 2056b of this title (relating to mandatory toy safety standards).
+
+#### (2) In general
+
+&emsp;Not later than 60 days after the promulgation, by the Commission, of a rule or standard to which this subsection applies, any person adversely affected by such rule or standard may file a petition with the United States Court of Appeals for the District of Columbia Circuit for judicial review of such rule. Copies of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose and to the Attorney General. The record of the proceedings on which the Commission based its rule shall be filed in the court as provided for in section 2112 of title 28.
+
+#### (3) Review
+
+&emsp;Upon the filing of the petition under paragraph (2) of this subsection, the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter.
+
+#### (4) Conclusiveness of judgment
+
+&emsp;The judgment of the court affirming or setting aside, in whole or in part, any final rule under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+
+#### (5) Further review
+
+&emsp;A rule or standard with respect to which this subsection applies shall not be subject to judicial review in proceedings under section 2066 of this title (relating to imported products) or in civil or criminal proceedings for enforcement.
+
+(Pub. L. 92–573, §11, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 94–284, §§10(b), 11(a), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, §1211(h)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(2), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 110–314, title II, §236(a), Aug. 14, 2008, 122 Stat. 3075.)
 
 #### Amendments
+
+2008—Subsec. (g). Pub. L. 110–314 added subsec. (g).
 
 1983—Subsec. (c). Pub. L. 97–414 substituted “subsection (f) of this section” for “section 2059(e)(4) of this title”.
 
@@ -43,6 +75,10 @@ Subsec. (c). Pub. L. 94–284, §10(b), inserted provision permitting the court 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
+
+#### Pending Actions Unaffected
+
+Pub. L. 110–314, title II, §236(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to any petition filed before the date of enactment of this Act \[Aug. 14, 2008\] for judicial review of any action by the Consumer Product Safety Commission.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

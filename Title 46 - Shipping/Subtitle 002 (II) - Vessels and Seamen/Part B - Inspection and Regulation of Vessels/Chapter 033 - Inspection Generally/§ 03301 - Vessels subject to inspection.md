@@ -92,7 +92,7 @@ Section 3301 lists all classes of vessels that are subject to inspection and cer
 
 It is important to note that while the classes of vessels are now limited to ten, there is no prohibition against developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
 
-It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined insection 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
+It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined in section 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
 
 #### Amendments
 

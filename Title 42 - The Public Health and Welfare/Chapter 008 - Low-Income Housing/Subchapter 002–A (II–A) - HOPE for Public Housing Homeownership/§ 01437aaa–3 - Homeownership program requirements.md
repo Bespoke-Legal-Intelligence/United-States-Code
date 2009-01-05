@@ -66,7 +66,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (2) Replacement assistance
 
-&emsp;If the tenant decides not to purchase a unit, or is not qualified to do so, the recipient shall, during the term of any operating assistance under the implementation grant, permit each otherwise qualified tenant to continue to reside in the project at rents that do not exceed levels consistent with section 1437a(a) of this title or, if an otherwise qualified tenant chooses to move (at any time during the term of such operating assistance contract), the public housing agency shall, to the extent approved in appropriations Acts, offer such tenant (A) a unit in another public housing project, or (B) section 8 \[42 U.S.C. 1437f\] assistance for use in other housing.
+&emsp;If the tenant decides not to purchase a unit, or is not qualified to do so, the recipient shall,during the term of any operating assistance under the implementation grant, permit each otherwise qualified tenant to continue to reside in the project at rents that do not exceed levels consistent with section 1437a(a) of this title or, if an otherwise qualified tenant chooses to move (at any time during the term of such operating assistance contract), the public housing agency shall, to the extent approved in appropriations Acts, offer such tenant (A) a unit in another public housing project, or (B) section 8 \[42 U.S.C. 1437f\] assistance for use in other housing.
 
 #### (3) Relocation assistance
 

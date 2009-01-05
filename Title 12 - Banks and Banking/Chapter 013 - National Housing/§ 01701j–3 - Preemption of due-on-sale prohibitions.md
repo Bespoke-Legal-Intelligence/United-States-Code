@@ -20,7 +20,7 @@ For the purpose of this section—
 
 (2) Except as otherwise provided in subsection (d) of this section, the exercise by the lender of its option pursuant to such a clause shall be exclusively governed by the terms of the loan contract, and all rights and remedies of the lender and the borrower shall be fixed and governed by the contract.
 
-(3) In the exercise of its option under a due-on-sale clause, a lender is encouraged to permit an assumption of a real property loan at the existing contract rate or at a rate which is at or below the average between the contract and market rates, and nothing in this section shall be interpreted to prohibit any such assumption.
+(3) In the exercise of its option under a due-on-sale clause, a lender is encouraged to permit anassumption of a real property loan at the existing contract rate or at a rate which is at or below the average between the contract and market rates, and nothing in this section shall be interpreted to prohibit any such assumption.
 
 #### (c) State prohibitions applicable for prescribed period; subsection (b) provisions applicable upon expiration of such period; loans subject to State and Federal regulation or subsection (b) provisions when authorized by State laws or Federal regulations
 

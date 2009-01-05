@@ -18,7 +18,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (A) In general
 
-&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information supplied by the Technical Secretariat to the United States National Authority concerning—
+&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information suppliedby the Technical Secretariat to the United States National Authority concerning—
 
 &emsp;&emsp;&emsp;(i) the type of inspection;
 
@@ -30,7 +30,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (B) Special rule for challenge inspections
 
-&emsp;&emsp;In the case of a challenge inspection pursuant to Article IX of the Convention, thenotice shall also include all appropriate evidence or reasons provided by the requesting state party to the Convention for seeking the inspection.
+&emsp;&emsp;In the case of a challenge inspection pursuant to Article IX of the Convention, the notice shall also include all appropriate evidence or reasons provided by the requesting state party to the Convention for seeking the inspection.
 
 #### (4) Separate notices required
 

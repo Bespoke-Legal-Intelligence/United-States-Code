@@ -86,7 +86,7 @@ As used in this subchapter:
 
 #### (16) Inmarsat Convention
 
-&emsp;The term “Inmarsat Convention” means the Convention on the International Maritime Satellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
+&emsp;The term “Inmarsat Convention” means the Convention on the International MaritimeSatellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
 
 #### (17) National corporation
 

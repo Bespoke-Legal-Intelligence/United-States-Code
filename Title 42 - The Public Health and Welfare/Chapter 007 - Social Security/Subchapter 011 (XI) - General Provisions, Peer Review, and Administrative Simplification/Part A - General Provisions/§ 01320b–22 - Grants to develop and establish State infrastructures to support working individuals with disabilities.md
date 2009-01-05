@@ -76,7 +76,7 @@
 
 #### (II) Other States
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall determine, consistent with the limit described in subclause (I), a maximum award limit for a grant for a fiscal year for a State that has an application that has been approved under this section but that hasnot elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall determine, consistent with the limit described in subclause (I), a maximum award limit for a grant for a fiscal year for a State that has an application that has been approved under this section but that has not elected to provide medical assistance under subchapter XIX of this chapter to individuals described in section 1396a(a)(10)(A)(ii)(XIII) of this title.
 
 #### (c) Availability of funds
 
@@ -116,7 +116,7 @@ A State that is awarded a grant under this section shall submit an annual report
 
 #### (f) Recommendation
 
-Not later than October 1, 2010, the Secretary, in consultation with the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of this Act, shall submit a recommendation to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate regarding whether the grant program established under this section should be continued after fiscal year 2011.
+Not later than October 1, 2010, the Secretary, in consultation with the Ticket to Work and Work Incentives Advisory Panel established bysection 101(f) of this Act, shall submit a recommendation to the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate regarding whether the grant program established under this section should be continued after fiscal year 2011.
 
 (Pub. L. 106–170, title II, §203, Dec. 17, 1999, 113 Stat. 1894.)
 

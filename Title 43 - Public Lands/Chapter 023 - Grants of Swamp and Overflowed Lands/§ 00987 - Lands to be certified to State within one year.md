@@ -8,7 +8,7 @@ In segregating large bodies of land, notoriously and obviously swamp and overflo
 
 In case such State surveys are found not to be in accordance with the system of United States surveys, and in such other townships as no survey has been made by the United States, the commissioner shall direct the Supervisor of Surveys to make segregation surveys, upon application by the governor of said State, within one year of such application, of all the swamp and overflowed land in such townships, and to report the same to the General Land Office, representing and describing what land was swamp and overflowed, under the grant, according to the best evidence he can obtain.
 
-If the authorities of said State, shall claim as swamp and overflowed, any land not represented as such upon the map or in the returns of the surveyors, the character of such land at the date of the grant September 28, 1850, and the right to the same shall be determined by testimony, to be taken before the Supervisor of Surveys, who shall decide the same, subject to the approval of the Commissioner of the General Land Office.
+If the authorities of said State, shall claim as swamp and overflowed, any land not represented as such upon the map or in the returns of thesurveyors, the character of such land at the date of the grant September 28, 1850, and the right to the same shall be determined by testimony, to be taken before the Supervisor of Surveys, who shall decide the same, subject to the approval of the Commissioner of the General Land Office.
 
 (R.S. §2488; Mar. 3, 1925, ch. 462, 43 Stat. 1144.)
 

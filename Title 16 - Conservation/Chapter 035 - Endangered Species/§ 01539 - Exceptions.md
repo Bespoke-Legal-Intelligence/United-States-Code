@@ -12,7 +12,7 @@
 
 &emsp;(i) the impact which will likely result from such taking;
 
-&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and the funding that will be available to implement such steps;
+&emsp;(ii) what steps the applicant will take to minimize and mitigate such impacts, and thefunding that will be available to implement such steps;
 
 &emsp;(iii) what alternative actions to such taking the applicant considered and the reasons why such alternatives are not being utilized; and
 
@@ -86,7 +86,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;&emsp;(ii) any finished scrimshaw product, if such product or the raw material for such product was lawfully held within the United States on December 28, 1973, in the course of a commercial activity.
 
-&emsp;(B) The term “scrimshaw product” means any art form which involves the substantialetching or engraving of designs upon, or the substantial carving of figures, patterns, or designs from, any bone or tooth of any marine mammal of the order Cetacea. For purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+&emsp;(B) The term “scrimshaw product” means any art form which involves the substantial etching or engraving of designs upon, or the substantial carving of figures, patterns, or designs from, any bone or tooth of any marine mammal of the order Cetacea. For purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 (2) The Secretary, pursuant to the provisions of this subsection, may exempt, if such exemption is not in violation of the Convention, any pre-Act endangered species part from one or more of the following prohibitions:
 
@@ -142,7 +142,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 #### (g) Burden of proof
 
-In connection with any action alleging a violation of section 1538 of this title, any personclaiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable, has been granted, and was valid and in force at the time of the alleged violation.
+In connection with any action alleging a violation of section 1538 of this title, any person claiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable, has been granted, and was valid and in force at the time of the alleged violation.
 
 #### (h) Certain antique articles; importation; port designation; application for return of articles
 
@@ -232,7 +232,7 @@ Subsec. (f)(9). Pub. L. 100–478, §1011(d), struck out par. (9) which provided
 
 Subsec. (d). Pub. L. 97–304, §6(2), substituted “subsections (a)(1)(A) and (b) of this section” for “subsections (a) and (b) of this section”.
 
-Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, or the carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
+Subsec. (f)(1)(B). Pub. L. 97–304, §6(3)(A), substituted “involves the substantial etching or engraving of designs upon, or the substantial carving of figures” for “involves the etching or engraving of designs upon, orthe carving of figures” and inserted provision that, for purposes of this subsection, polishing or the adding of minor superficial markings does not constitute substantial etching, engraving, or carving.
 
 Subsec. (f)(9). Pub. L. 97–304, §6(3)(B), added par. (9).
 

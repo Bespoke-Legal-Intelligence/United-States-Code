@@ -2,7 +2,7 @@
 
 #### (a) Registration statement; contents
 
-In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which it is the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
+In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which itis the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
 
 &emsp;(1) such copies of the registration statement filed by such company under this subchapter, and of such reports filed by such company pursuant to section 80a–29 of this title or such copies of portions of such registration statement and reports, as the Commission shall designate by rules and regulations; and
 
@@ -24,7 +24,7 @@ In addition to the powers relative to prospectuses granted the Commission by sec
 
 #### (d) Application of other provisions to securities of investment companies, face-amount certificate companies, and open-end companies or unit investment trust
 
-The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) of the Securities Act of1933 \[15 U.S.C. 77d(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
+The exemption provided by paragraph (8) of section 3(a) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(8)\] shall not apply to any security of which an investment company is the issuer. The exemption provided by paragraph (11) of said section 3(a) \[15 U.S.C. 77c(a)(11)\] shall not apply to any security of which a registered investment company is the issuer. The exemption provided by section 4(3) of the Securities Act of 1933 \[15 U.S.C. 77d(3)\] shall not apply to any transaction in a security issued by a face-amount certificate company or in a redeemable security issued by an open-end management company or unit investment trust if any other security of the same class is currently being offered or sold by the issuer or by or through an underwriter in a distribution which is not exempted from section 5 of said Act \[15 U.S.C. 77e\], except to such extent and subject to such terms and conditions as the Commission, having due regard for the public interest and the protection of investors, may prescribe by rules or regulations with respect to any class of persons, securities, or transactions.
 
 #### (e) Amendment of registration statements relating to securities issued by face-amount certificate companies, open-end management companies or unit investment trusts
 
@@ -104,5 +104,5 @@ Amendment by act Aug. 10, 1954, effective sixty days after Aug. 10, 1954, see no
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -4,6 +4,10 @@
 
 2001—Pub. L. 107–95, §5(d)(1), (2)(A), Dec. 21, 2001, 115 Stat. 918, redesignated subchapter VI of chapter 37 of this title as this subchapter and struck out “FOR HOMELESS VETERANS” after “HOUSING” in subchapter heading.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
+
 
 ---
 

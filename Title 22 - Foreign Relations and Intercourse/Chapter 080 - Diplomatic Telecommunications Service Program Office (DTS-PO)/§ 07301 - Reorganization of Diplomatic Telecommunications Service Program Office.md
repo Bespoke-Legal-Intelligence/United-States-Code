@@ -50,5 +50,5 @@ Funding of DTS-PO.—Funds appropriated for allocation to DTS-PO shall be made a
 
 “(e)
 
-Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligenceof the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.”
 

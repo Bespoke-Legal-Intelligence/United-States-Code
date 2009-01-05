@@ -58,7 +58,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(17) obtain from—
 
-&emsp;&emsp;(A) the Department of Agriculture information explaining the requirements for eligibility to receive benefits under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; and
+&emsp;&emsp;(A) the Department of Agriculture information explaining the requirements for eligibility to receive benefits under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\]; and
 
 &emsp;&emsp;(B) the Social Security Administration information explaining the requirements for eligibility to receive supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] (or assistance under a State plan program under title XVI of that Act);
 
@@ -90,7 +90,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;&emsp;(ii) medical assistance under title XIX of such Act (42 U.S.C. 1396 et seq.);
 
-&emsp;&emsp;(iii) benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.); or
+&emsp;&emsp;(iii) benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.); or
 
 &emsp;&emsp;(iv) benefits under any other applicable program; and
 
@@ -162,7 +162,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;&emsp;(ii) as appropriate, for a person who was appointed by the individual, or is legally acting on the individual's behalf, in order to represent or advise the individual in financial or service coordination matters (referred to in this paragraph as a “representative” of the individual), to direct and control the receipt of those services; and
 
-&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) todevelop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
+&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
 
 &emsp;(5) provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
 
@@ -190,7 +190,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(D) to help individuals to plan ahead for their future long-term care needs; and
 
-&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 ofthis title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
 
 &emsp;(9) establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
 
@@ -254,7 +254,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and fundingsources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -302,7 +302,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;(D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528.)
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -312,11 +312,17 @@ The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12)
 
 The National Housing Act, referred to in subsec. (a)(12)(B)(iii), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(8)(E), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(17(A), (20)(A)(iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 2006—Subsec. (a)(5). Pub. L. 109–365, §202(1)(A), inserted “assistive technology,” after “housing,”.
 
@@ -378,7 +384,7 @@ Subsec. (a)(24). Pub. L. 106–501, §201(1)(G), added par. (24) and struck out 
 
 “(24)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
 
-“(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
+“(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter,using the most recent estimates of the population of older individuals; and
 
 “(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;”.
 
@@ -527,6 +533,12 @@ Subsec. (a)(8). Pub. L. 94–135, §114(c), struck out “and” after “aged a
 1973—Subsec. (a). Pub. L. 93–29, §201(b)(1)–(3), in par. (4), substituted “research” for “research and demonstration programs” and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
 
 Subsec. (b). Pub. L. 93–29, §201(b)(3), added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(BB) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1993 Amendment
 

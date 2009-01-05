@@ -26,7 +26,7 @@ Attorney's fees paid by claimants to counsel representing them may not exceed 5 
 
 #### (g) Availability of documents, records, and writings to court
 
-All agencies and departments of the United States Government shall, upon request, deliverto the court any documents, records, and writings which are pertinent to any claim under review.
+All agencies and departments of the United States Government shall, upon request, deliver to the court any documents, records, and writings which are pertinent to any claim under review.
 
 (Pub. L. 95–134, title II, §204, Oct. 15, 1977, 91 Stat. 1162; Pub. L. 96–205, title III, §301(a), Mar. 12, 1980, 94 Stat. 87.)
 
@@ -48,5 +48,5 @@ Pub. L. 100–647, title VI, §6140, Nov. 10, 1988, 102 Stat. 3724, provided tha
 
 #### Commencement of Civil Actions Before April 1, 1982
 
-Section 301(b) of Pub. L. 96–205 provided that: “Any civil action under section 204 of the Omnibus Territories Act of 1977 (91 Stat. 1162) \[this section\] shall be barred unless it is commenced not later than April 1, 1982.”
+Section 301(b) of Pub. L. 96–205 provided that: “Any civil action under section 204 of the Omnibus Territories Act of 1977 (91 Stat. 1162) \[this section\] shall bebarred unless it is commenced not later than April 1, 1982.”
 

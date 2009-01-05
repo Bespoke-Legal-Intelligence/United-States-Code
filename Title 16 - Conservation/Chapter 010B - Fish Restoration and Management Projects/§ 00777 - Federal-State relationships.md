@@ -148,7 +148,7 @@ In general.—Non-Federal participation in the Program shall be voluntary.
 
 &emsp;“(2)
 
-Federal action.—The Secretary shall take no action that would result in any non-Federal entitybeing held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
+Federal action.—The Secretary shall take no action that would result in any non-Federal entity being held financially responsible for any action under the Program, unless the entity applies to participate in the Program.
 
 “(b)
 

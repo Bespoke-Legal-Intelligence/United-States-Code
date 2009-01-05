@@ -6,7 +6,7 @@ General.—The board of directors is the governing body of the corporation.
 
 (b)
 
-Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency ManagementAgency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
+Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
 
 (2) The board consists of the following 12 voting members:
 

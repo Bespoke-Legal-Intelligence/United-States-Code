@@ -162,7 +162,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (2) Student participation
 
-&emsp;Parents of children selected to participate in any assessment authorized under this section shall be informed before the administration ofany authorized assessment, that their child may be excused from participation for any reason, is not required to finish any authorized assessment, and is not required to answer any test question.
+&emsp;Parents of children selected to participate in any assessment authorized under this section shall be informed before the administration of any authorized assessment, that their child may be excused from participation for any reason, is not required to finish any authorized assessment, and is not required to answer any test question.
 
 #### (3) State participation
 
@@ -232,7 +232,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;Such continuing review shall address—
 
-&emsp;&emsp;&emsp;(i) whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State (other than data comparing participating States to each other and the Nation);
+&emsp;&emsp;&emsp;(i) whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State\(other than data comparing participating States to each other and the Nation);
 
 &emsp;&emsp;&emsp;(ii) whether student achievement levels are reasonable, valid, reliable, and informative to the public;– <sup>2</sup>
 
@@ -244,7 +244,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (2) Report
 
-&emsp;The Secretary shall report to the Committee on Education and the Workforce of the Houseof Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the President, and the Nation on the findings and recommendations of such reviews.
+&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, the President, and the Nation on the findings and recommendations of such reviews.
 
 #### (3) Use of findings and recommendations
 

@@ -100,5 +100,3 @@ Section is comprised of section 19 of Pub. L. 108–100. Subsec. (d) of section 
 
 Pub. L. 108–199, div. F, title II, §218, Jan. 23, 2004, 118 Stat. 321, provided that: “For fiscal year 2004 and each fiscal year thereafter, there are appropriated to the Secretary of the Treasury such sums as may be necessary to reimburse financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or the Secretary's designee, to be performed by such financial institutions on behalf of the Department of the Treasury or other Federal agencies, including services rendered prior to fiscal year 2004.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-

@@ -10,7 +10,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 &emsp;(1) the Secretary shall cancel that unobligated balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State; and
 
-&emsp;(2) the funds involved shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that the balance is required under paragraph (1) to be canceled, except that the availability of the funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year.
+&emsp;(2) the funds involved shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title for the first fiscal year beginning after the fiscal year in which the Secretary obtainsthe information necessary for determining that the balance is required under paragraph (1) to be canceled, except that the availability of the funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year.
 
 #### (c) Formula grants; cancellation of unobligated balance of grant award; waiver permitting carryover
 

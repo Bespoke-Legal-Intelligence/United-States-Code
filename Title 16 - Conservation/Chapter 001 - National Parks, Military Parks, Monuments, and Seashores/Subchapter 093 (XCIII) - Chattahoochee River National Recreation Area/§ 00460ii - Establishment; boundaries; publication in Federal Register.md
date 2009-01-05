@@ -34,7 +34,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) the population of the metropolitan Atlanta area continues to expand northward, leaving dwindling opportunities to protect the scenic, recreational, natural, and historical values of the 2,000-foot-wide corridor adjacent to each bank of the Chattahoochee River and its impoundments in the 48-mile segment known as the ‘area of national concern’;
 
-&emsp;“(4) the State of Georgia has enacted the Metropolitan River Protection Act to ensure protection of the corridor located within 2,000 feet of each bank of theChattahoochee River, or the corridor located within the 100-year floodplain, whichever is larger;
+&emsp;“(4) the State of Georgia has enacted the Metropolitan River Protection Act to ensure protection of the corridor located within 2,000 feet of each bank of the Chattahoochee River, or the corridor located within the 100-year floodplain, whichever is larger;
 
 &emsp;“(5) the corridor located within the 100-year floodplain includes the area of national concern;
 

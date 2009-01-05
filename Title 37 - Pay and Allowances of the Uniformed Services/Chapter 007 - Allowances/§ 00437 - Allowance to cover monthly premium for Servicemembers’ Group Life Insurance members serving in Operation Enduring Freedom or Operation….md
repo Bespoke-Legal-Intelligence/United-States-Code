@@ -12,19 +12,25 @@ Notice of Availability of Allowance.—To the maximum extent practicable, in adv
 
 &emsp;(2) The ability of members who elected not to be insured under Servicemembers’ Group Life Insurance, or elected less than the maximum coverage amount available for such insurance, to obtain insurance, or to obtain additional coverage, as the case may be, under the authority provided in section 1967(c) of title 38.
 
-(Added Pub. L. 109–163, div. A, title VI, §613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, §606(a)–(c), Oct. 17, 2006, 120 Stat. 2246.)
+(Added Pub. L. 109–163, div. A, title VI, §613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, §606(a)–(c), Oct. 17, 2006, 120 Stat. 2246; Pub. L. 110–181, div. A, title X, §1063(c)(5), Jan. 28, 2008, 122 Stat. 322.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §606(b)(1)(A). See 2006 Amendment note below.
 
 2006—Pub. L. 109–364, §606(c), struck out “portion of” before “monthly premium” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §606(b)(1)(B), struck out par. (2) which read as follows: “If a member described in paragraph (1) elected to be insured in an amount less than the coverage amount specified in paragraph (1) or in effect pursuant to subsection (b), the amount of the allowance under this section for a month shall be equal to the amount of the deduction made for that month under subsection (a)(1) of section 1969 of title 38 from the basic pay of the member for the amount of Servicemembers’ Group Life Insurance coverage actually held by the member under section 1967 of such title.”
 
-Pub. L. 109–364, §606(b)(1)(A), which directed amendment of subsec. (a) by striking out “(1)” before “in the case of”, was executed by striking out “(1)” before “In the case of”, to reflect the probable intent of Congress.
+Pub. L. 109–364, §606(b)(1)(A), as amended by Pub. L. 110–181, struck out “(1)” before “In the case of”.
 
 Subsec. (a)(1). Pub. L. 109–364, §606(a), substituted “for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title” for “for the first $150,000 of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title”.
 
 Subsecs. (b), (c). Pub. L. 109–364, §606(b)(2), (3), redesignated subsec. (c) as (b), in par. (2) substituted “maximum coverage amount available for such insurance,” for “coverage amount specified in subsection (a)(1) or in effect pursuant to subsection (b),”, and struck out former subsec. (b). Text read as follows: “For purposes of subsection (a), the Secretary of Defense is authorized to increase the coverage amount specified in paragraph (1) of such subsection to permit the reimbursement of all or an additional amount of the deduction made under section 1969(a)(1) of title 38 for levels of coverage in excess of $150,000 for members under the Servicemembers’ Group Life Insurance program.”
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(5) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 #### Effective Date of 2006 Amendment
 

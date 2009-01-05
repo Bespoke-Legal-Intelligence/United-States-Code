@@ -18,11 +18,15 @@ Each operator of a coal or other mine subject to this chapter shall file with th
 
 (Pub. L. 91–173, title I, §109, Dec. 30, 1969, 83 Stat. 756; Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1310.)
 
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
 #### Amendments
 
 1977—Pub. L. 95–164 substituted provisions relating to the posting of orders and decisions for provisions setting out an enumeration of penalties, which provisions, as revised, were transferred to section 820 of this title.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 

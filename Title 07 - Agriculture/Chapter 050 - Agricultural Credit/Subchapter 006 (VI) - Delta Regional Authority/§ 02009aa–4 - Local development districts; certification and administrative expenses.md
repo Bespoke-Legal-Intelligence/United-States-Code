@@ -52,7 +52,7 @@ In this section, the term “local development district” means an entity that�
 
 #### (C) Local share
 
-&emsp;&emsp;The contributions of a local development district for administrative expenses may bein cash or in kind, fairly evaluated, including space, equipment, and services.
+&emsp;&emsp;The contributions of a local development district for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services.
 
 #### (c) Duties of local development districts
 

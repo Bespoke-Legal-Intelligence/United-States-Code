@@ -47,9 +47,9 @@ Each report required by this section shall be submitted, in the case of CBO, to 
 
 &emsp;&emsp;(A) The maximum deficit amount, the estimated deficit calculated under section 903(b) of this title, the excess deficit, and the margin.
 
-&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions have been made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
+&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions havebeen made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
 
-&emsp;&emsp;(C) The sequestration percentage necessary to achieve the required reduction indefense accounts under section 903(d) of this title.
+&emsp;&emsp;(C) The sequestration percentage necessary to achieve the required reduction in defense accounts under section 903(d) of this title.
 
 &emsp;&emsp;(D) The reductions required under sections 903(e)(1) and 903(e)(2) of this title.
 
@@ -189,7 +189,7 @@ Amounts Restored.—Any action taken to implement the orders referred to in subs
 
 Furloughed Employees.—(1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[Pub. L. 101–412, which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
-“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
+“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintainingthe essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
 
 Pub. L. 101–467, §105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
@@ -257,7 +257,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 35133, which provided emergency deficit control measures for fiscal year 1991, was superseded by Final Order of the President, Oct. 15, 1990, 55 F.R. 41977, set out above.
 
-1990—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of suchAct \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+1990—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
 Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
 
@@ -301,7 +301,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 (2) The following are sequestered as provided in section 252 of the Act and section 11002 of OBRA: new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; spending authority as defined in section 401(c)(2) of the Congressional Budget Act of 1974, as amended \[2 U.S.C. 651(c)(2)\]; and obligation limitations.
 
-(3) For accounts making payments otherwise required by substantive law, the head of each department oragency is directed to modify the calculation of each such payment to the extent necessary to reduce the estimate of total required payments for the fiscal year by the amount specified by the Director of the Office of Management and Budget in his report of December 27, 1989.
+(3) For accounts making payments otherwise required by substantive law, the head of each department or agency is directed to modify the calculation of each such payment to the extent necessary to reduce the estimate of total required payments for the fiscal year by the amount specified by the Director of the Office of Management and Budget in his report of December 27, 1989.
 
 (4) For accounts making commitments for guaranteed loans or obligations for direct loans as authorized by substantive law, the head of each department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act and by OBRA and specified by the Director of the Office of Management and Budget in his report of December 27, 1989.
 

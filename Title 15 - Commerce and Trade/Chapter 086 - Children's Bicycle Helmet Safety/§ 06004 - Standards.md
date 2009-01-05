@@ -32,7 +32,7 @@ Not later than 60 days after June 16, 1994, the Commission shall begin a proceed
 
 &emsp;(4) include additional provisions as appropriate.
 
-> Sections 7, 9, and 30(d) of the Consumer Product Safety Act (15 U.S.C. 2056, 2058, 2079(d)) shall not apply to the proceeding under this subsection and section 11 of such Act (15 U.S.C. 2060) shall not apply with respect to any standard issued under such proceeding. The final standard shall take effect 1 year from the date it is issued.
+> Sections 7, 9, and 30(d) <sup>1</sup> of the Consumer Product Safety Act (15 U.S.C. 2056, 2058, 2079(d)) shall not apply to the proceeding under this subsection and section 11 of such Act (15 U.S.C. 2060) shall not apply with respect to any standard issued under such proceeding. The final standard shall take effect 1 year from the date it is issued.
 
 #### (d) Failure to meet standards
 
@@ -48,5 +48,9 @@ Not later than 60 days after June 16, 1994, the Commission shall begin a proceed
 
 #### References in Text
 
+Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to section 2079(d)of this title prior to repeal by Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.
+
 The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

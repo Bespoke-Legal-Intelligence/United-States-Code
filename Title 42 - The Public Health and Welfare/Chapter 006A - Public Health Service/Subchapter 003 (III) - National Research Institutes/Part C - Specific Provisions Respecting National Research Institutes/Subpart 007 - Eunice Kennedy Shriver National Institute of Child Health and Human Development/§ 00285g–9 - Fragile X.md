@@ -14,7 +14,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out paragraph (1), the Director of the Institute shall, to the extent that amounts are appropriated, and subject to subparagraph (B), provide for the establishment of at least three fragile X research centers.
+&emsp;&emsp;In carrying out paragraph (1), the Director of the Institute shall, to the extent thatamounts are appropriated, and subject to subparagraph (B), provide for the establishment of at least three fragile X research centers.
 
 #### (B) Peer review requirement
 

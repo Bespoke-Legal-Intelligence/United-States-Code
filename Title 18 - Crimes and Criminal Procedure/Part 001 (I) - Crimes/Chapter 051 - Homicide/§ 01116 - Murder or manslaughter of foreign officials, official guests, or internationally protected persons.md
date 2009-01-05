@@ -10,7 +10,7 @@
 
 &emsp;(3) “Foreign official” means—
 
-&emsp;&emsp;(A) a Chief of State or the political equivalent, President, Vice President, Prime Minister, Ambassador, Foreign Minister, or other officer of Cabinet rank or above of a foreign government or the chief executive officer of an international organization, or any person who has previously served in such capacity, and any member of his family, while in the United States; and
+&emsp;&emsp;(A) a Chief of State or the political equivalent, President, Vice President, Prime Minister, Ambassador, Foreign Minister, or other officer of Cabinet rank or above of a foreign government or the chief executive officer of an international organization, or any person who has previously served insuch capacity, and any member of his family, while in the United States; and
 
 &emsp;&emsp;(B) any person of a foreign nationality who is duly notified to the United States as an officer or employee of a foreign government or international organization, and who is in the United States on official business, and any member of his family whose presence in the United States is in connection with the presence of such officer or employee.
 

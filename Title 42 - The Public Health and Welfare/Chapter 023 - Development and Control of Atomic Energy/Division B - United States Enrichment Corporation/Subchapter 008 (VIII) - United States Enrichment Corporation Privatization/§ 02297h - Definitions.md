@@ -1,6 +1,6 @@
 ### §2297h. Definitions
 
-For purposes of this subchapter:
+Except as provided in section 2297h–10a of this title, for purposes of this subchapter:
 
 &emsp;(1) The term “AVLIS” means atomic vapor laser isotope separation technology.
 
@@ -30,7 +30,7 @@ For purposes of this subchapter:
 
 &emsp;(14) The term “uranium enrichment” means the separation of uranium of a given isotopic content into 2 components, 1 having a higher percentage of a fissile isotope and 1 having a lower percentage.
 
-(Pub. L. 104–134, title III, §3102, Apr. 26, 1996, 110 Stat. 1321–335.)
+(Pub. L. 104–134, title III, §3102, Apr. 26, 1996, 110 Stat. 1321–335; Pub. L. 110–329, div. C, title VIII, §8118(1), Sept. 30, 2008, 122 Stat. 3647.)
 
 #### References in Text
 
@@ -39,6 +39,10 @@ This subchapter, referred to in text, means subchapter A of chapter 1 of title I
 #### Codification
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+2008—Pub. L. 110–329 substituted “Except as provided in section 2297h–10a of this title, for purposes” for “For purposes” in introductory provisions.
 
 #### Ex. Ord. No. 13085. Establishment of Enrichment Oversight Committee
 
@@ -102,7 +106,7 @@ Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze i
 
 (e) coordinate with relevant agencies in monitoring the levels of natural and enriched uranium and enrichment services imported into the United States.
 
-Sec. 7. <i>Coordination with the Nuclear Regulatory Commission</i>. Upon notification by the NRC that it seeks the views of other agencies of the executive branch regarding determinations necessary for the issuance, reissuance, or renewal of a certificate of compliance or license to the privatized USEC, the EOC shall convey the relevant views of these other agencies of the executive branch, including whether the applicant's performance as the United States agent for the HEU Agreement is acceptable, on a schedule consistent with the NRC's need for timely action on such regulatory decisions.
+Sec. 7. <i>Coordination with the Nuclear Regulatory Commission</i>. Upon notification by the NRC that it seeks theviews of other agencies of the executive branch regarding determinations necessary for the issuance, reissuance, or renewal of a certificate of compliance or license to the privatized USEC, the EOC shall convey the relevant views of these other agencies of the executive branch, including whether the applicant's performance as the United States agent for the HEU Agreement is acceptable, on a schedule consistent with the NRC's need for timely action on such regulatory decisions.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -144,7 +144,7 @@ Not later than February 1 of each year, the Secretary shall submit to the Commit
 
 #### (f) Periodic review of guidance
 
-Not less than once every 5 years, the Secretary shall review guidance of the Food andDrug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary.
+Not less than once every 5 years, the Secretary shall review guidance of the Food and Drug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary.
 
 (June 25, 1938, ch. 675, §712, as added Pub. L. 110–85, title VII, §701(a), Sept. 27, 2007, 121 Stat. 900.)
 

@@ -28,5 +28,5 @@ Section 1 of Pub. L. 100–89 provided that: “This Act \[enacting this subchap
 
 #### Regulations
 
-Section 2 of Pub. L. 100–89 provided that: “The Secretary of the Interior or his designated representative may promulgate such regulations as may be necessary to carry out the provisions of this Act \[see Short Title note above\].”
+Section 2 of Pub. L. 100–89 provided that: “The Secretary of the Interior or his designated representative may promulgate such regulations as may be necessaryto carry out the provisions of this Act \[see Short Title note above\].”
 

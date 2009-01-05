@@ -92,7 +92,7 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 (f)
 
-Financial Plan.—A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
+Financial Plan.—A recipient of financial assistance for a project under this chapter withan estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3024, June 9, 1998, 112 Stat. 364; Pub. L. 109–59, title III, §3026, Aug. 10, 2005, 119 Stat. 1622.)
 
@@ -160,7 +160,7 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The National Capital Transportation Act of 1969, referred to in subsecs. (a) and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+The National Capital Transportation Act of 1969, referred to in subsecs. (a) and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

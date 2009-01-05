@@ -10,7 +10,7 @@ Standards, Procedures, and Regulations.—The head of a Federal agency shall car
 
 (c)
 
-Waiver.—Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 (5 U.S.C. 7301 note), the report of a drug test of an employee may be released under this section without the prior written consent of the employee.
+Waiver.—Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 (5U.S.C. 7301 note), the report of a drug test of an employee may be released under this section without the prior written consent of the employee.
 
 (Added Pub. L. 108–293, title IV, §414(a), Aug. 9, 2004, 118 Stat. 1046.)
 

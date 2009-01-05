@@ -2,7 +2,7 @@
 
 (a)
 
-Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop and acquire equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
+Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
 
 (b)
 
@@ -34,11 +34,21 @@ Internal Audits and Inspections.—The commander referred to in subsection (b) s
 
 (f)
 
-Termination.—The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2008, and any authority so delegated shall not be in effect after September 30, 2008.
+Limitation on Authority To Maintain Equipment.—The authority delegated under subsection (a) to maintain equipment is subject to the availability of funds authorized and appropriated specifically for that purpose.
 
-(Added Pub. L. 108–136, div. A, title VIII, §848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, §846(a), Jan. 6, 2006, 119 Stat. 3391.)
+(g)
+
+Termination.—The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2010, and any authority so delegated shall not be in effect after September 30, 2010.
+
+(Added Pub. L. 108–136, div. A, title VIII, §848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, §846(a), Jan. 6, 2006, 119 Stat. 3391; Pub. L. 110–181, div. A, title VIII, §825, Jan. 28, 2008, 122 Stat. 227.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §825(a)(1), substituted “, acquire, and maintain” for “and acquire”.
+
+Subsec. (f). Pub. L. 110–181, §825(a)(3), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 110–181, §825(a)(2), (b), redesignated subsec. (f) as (g) and substituted “through 2010” for “through 2008” and “September 30, 2010” for “September 30, 2008”.
 
 2006—Subsec. (f). Pub. L. 109–163 substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
 

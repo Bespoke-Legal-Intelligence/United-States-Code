@@ -104,7 +104,7 @@ The following Federal standards are hereby established:
 
 #### (12) Fuel sources
 
-&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and toensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
+&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
 
 #### (13) Fossil fuel generation efficiency
 
@@ -234,13 +234,13 @@ The following Federal standards are hereby established:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted this chapter and amended sections 6801 to 6808 of Title 42, The Public Health and Welfare. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
 
-2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
+2007—Subsec. (d)(16), (17). Pub. L. 110–140, §1307(a), added pars. (16) and (17) relating to consideration ofsmart grid investments and smart grid information, respectively.
 
 Pub. L. 110–140, §532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
@@ -258,7 +258,7 @@ Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### State Authorities; Construction
 

@@ -74,7 +74,7 @@ The General Schedule, referred to in subsec. (b)(2)(B), is set out under section
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
+<b>2004</b>—Pub. L. 108–458, §1071(a)(7), substituted “Additional annual reports from the Director of National Intelligence” for “Additional annual reports from the Director of Central Intelligence” in section catchline.
 
 Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(N), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(O), substituted “Director of N
 
 Subsec. (c)(1). Pub. L. 108–458, §1071(a)(3)(A), substituted “Director of National Intelligence” for “Director”.
 
-2003—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
+<b>2003</b>—Subsec. (a). Pub. L. 108–177, §361(c), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to annual reports on intelligence community cooperation with Federal law enforcement agencies.
 
 Subsecs. (b), (c). Pub. L. 108–177, §361(c)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b) redesignated (a).
 
@@ -96,7 +96,7 @@ Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e). Former subsec. 
 
 Subsec. (f). Pub. L. 108–177, §361(c)(2), redesignated subsec. (f) as (e).
 
-2002—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(D)(i)(I), struck out “the congressional intelligence committees and” before “the congressional leadership”.
 
 Subsec. (a)(2) to (4). Pub. L. 107–306, §811(b)(1)(D)(i)(II), (III), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

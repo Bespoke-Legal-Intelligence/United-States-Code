@@ -14,7 +14,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;The Administration may designate a certified development company as a premier certified lender—
 
-&emsp;&emsp;(A) if the company is an active certified development company in good standing and has been an active participant in the accredited lenders program during the entire 12-month period preceding the date on which the company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
+&emsp;&emsp;(A) if the company is an active certified development company in good standing andhas been an active participant in the accredited lenders program during the entire 12-month period preceding the date on which the company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
 &emsp;&emsp;(B) if the company has a history of—
 
@@ -88,7 +88,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (ii) Based on loss
 
-&emsp;&emsp;&emsp;A qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to any calendar quarter shall, before the last day of such quarter, make such contributions to its loss reserve as are necessary to ensure that the amount of the loss reserve of the PCL is—
+&emsp;&emsp;&emsp;A qualified high loss reserve PCL that makes the election described in subparagraph (A) with respect to any calendar quarter shall, before the last day of such quarter, make such contributions to itsloss reserve as are necessary to ensure that the amount of the loss reserve of the PCL is—
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than $100,000; and
 

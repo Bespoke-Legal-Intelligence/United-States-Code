@@ -34,7 +34,7 @@ In the event a search warrant is sought pursuant to paragraph (4)(B) of subsecti
 
 1996—Subsec. (a)(1). Pub. L. 104–208, §101(a) \[title I, §121\[6(1)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
 
-Subsec. (b)(1). Pub. L. 104–208, §101(a) \[title I, §121\[6(2)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchaseof children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
+Subsec. (b)(1). Pub. L. 104–208, §101(a) \[title I, §121\[6(2)\]\], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
 
 #### Effective Date
 

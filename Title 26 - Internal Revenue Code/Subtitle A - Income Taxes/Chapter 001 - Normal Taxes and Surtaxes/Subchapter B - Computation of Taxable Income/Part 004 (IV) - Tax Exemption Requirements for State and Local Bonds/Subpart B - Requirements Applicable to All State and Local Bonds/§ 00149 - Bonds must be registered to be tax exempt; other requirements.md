@@ -52,11 +52,13 @@
 
 &emsp;&emsp;A bond shall not be treated as federally guaranteed by reason of—
 
-&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
+&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan MortgageCorporation, or the Government National Mortgage Association,
 
-&emsp;&emsp;&emsp;(ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans, or
+&emsp;&emsp;&emsp;(ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans,
 
-&emsp;&emsp;&emsp;(iii) any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act (16 U.S.C. 839d) as in effect on the date of the enactment of the Tax Reform Act of 1984.
+&emsp;&emsp;&emsp;(iii) any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act (16 U.S.C. 839d) as in effect on the date of the enactment of the Tax Reform Act of 1984, or
+
+&emsp;&emsp;&emsp;(iv) subject to subparagraph (E), any guarantee by a Federal home loan bank made in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).
 
 #### (B) Debt service, etc.
 
@@ -92,6 +94,10 @@
 
 &emsp;&emsp;Except as provided in paragraph (2)(B)(ii), a bond which is issued as part of an issue shall not be treated as federally guaranteed merely by reason of the fact that the proceeds of such issue are used in making loans to a financial institution or there is a guarantee by a financial institution unless such guarantee constitutes a federally insured deposit or account.
 
+#### (E) Safety and soundness requirements for Federal home loan banks
+
+&emsp;&emsp;Clause (iv) of subparagraph (A) shall not apply to any guarantee by a Federal home loan bank unless such bank meets safety and soundness collateral requirements for such guarantees which are at least as stringent as such requirements which apply under regulations applicable to such guarantees by Federal home loan banks as in effect on April 9, 2008.
+
 #### (4) Definitions
 
 &emsp;For purposes of this subsection—
@@ -126,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(i) such bond is issued pursuant to the Northwest Power Act (16 U.S.C. 839d), as in effect on July 18, 1984;
 
-&emsp;&emsp;&emsp;(ii) such bond is issued pursuant to section 608(a)(6)(A) of Public Law 97–468, as in effect on the date of the enactment of the Tax Reform Act of 1986; or
+&emsp;&emsp;&emsp;(ii) such bond is issued pursuant to section 608(a)(6)(A) of Public Law 97–468, as ineffect on the date of the enactment of the Tax Reform Act of 1986; or
 
 &emsp;&emsp;&emsp;(iii) such bond is issued before June 19, 1984 under section 11(b) of the United States Housing Act of 1937.
 
@@ -210,7 +216,7 @@
 
 &emsp;&emsp;(A) the name and address of the issuer,
 
-&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interest rate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
+&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interestrate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
 
 &emsp;&emsp;(C) where required, the name of the applicable elected representative who approved the issue, or a description of the voter referendum by which the issue was approved,
 
@@ -416,13 +422,15 @@
 
 &emsp;The Secretary may prescribe regulations to prevent the avoidance of the rules of this subsection, including through the aggregation of projects within a single issue.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895.)
 
 #### References in Text
 
 The Northwest Power Act, referred to in subsecs. (b)(3)(A)(iii) and (c)(2)(C)(i), probably means the Pacific Northwest Electric Power Planning and Conservation Act, Pub. L. 96–501, Dec. 5, 1980, 94 Stat 2697, which is classified principally to chapter 12H (§839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
 
 The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. (b)(3)(A)(iii), is the date of enactment of Pub. L. 98–369, div. A, which was approved July 18, 1984.
+
+The date of the enactment of this clause, referred to in subsec. (b)(3)(A)(iv), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
 
 Section 11(b) of the United States Housing Act of 1937, referred to in subsecs. (b)(3)(C)(i)(I) and (c)(2)(C)(iii), is classified to section 1473i(b) of Title 42, The Public Health and Welfare.
 
@@ -433,6 +441,10 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 The date of the enactment of this subsection, referred to in subsec. (d)(6), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+2008—Subsec. (b)(3)(A)(iv). Pub. L. 110–289, §3023(a), added cl. (iv).
+
+Subsec. (b)(3)(E). Pub. L. 110–289, §3023(b), added subpar. (E).
 
 2006—Subsec. (f)(1). Pub. L. 109–222, §508(d)(1), substituted “paragraphs (2), (3), (4), and (5)” for “paragraphs (2) and (3)”.
 
@@ -461,6 +473,10 @@ Subsec. (f). Pub. L. 100–647, §5051(a), added subsec. (f).
 #### Change of Name
 
 Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. C, title I, §3023(c), July 30, 2008, 122 Stat. 2895, provided that: “The amendments made by this section \[amending this section\] shall apply to guarantees made after the date of the enactment of this Act \[July 30, 2008\].”
 
 #### Effective Date of 2006 Amendment
 

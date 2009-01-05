@@ -24,7 +24,7 @@ Definition.—For purposes of this section—
 
 &emsp;(1) the term “claim” means a claim made—
 
-&emsp;&emsp;(A) against Amtrak, any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State; or
+&emsp;&emsp;(A) against Amtrak, any high-speed railroad authority or operator, any commuterauthority or operator, any rail carrier, or any State; or
 
 &emsp;&emsp;(B) against an officer, employee, affiliate engaged in railroad operations, or agent, of Amtrak, any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State;
 

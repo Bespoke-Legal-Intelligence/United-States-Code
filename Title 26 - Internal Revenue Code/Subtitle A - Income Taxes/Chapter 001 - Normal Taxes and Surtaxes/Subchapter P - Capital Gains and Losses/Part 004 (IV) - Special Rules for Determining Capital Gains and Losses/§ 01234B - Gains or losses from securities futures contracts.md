@@ -48,7 +48,7 @@ Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], which directed amendment of
 
 #### Amendments
 
-2004—Subsec. (c). Pub. L. 108–311 inserted at end “The Secretary may prescribe regulations regarding the status of contracts the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as defined for purposes of section 1256(g)(6)).”
+2004—Subsec. (c). Pub. L. 108–311 inserted at end “The Secretary may prescribe regulations regarding the status of contracts the values of which are determineddirectly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as defined for purposes of section 1256(g)(6)).”
 
 2002—Subsec. (a)(1). Pub. L. 107–147, §412(d)(1)(B)(i), substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
 

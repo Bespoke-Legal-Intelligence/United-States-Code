@@ -16,7 +16,7 @@ Annual Report on Health Protection Quality.—(1) The Secretary of Defense shall
 
 (b)
 
-Annual Report on Recording of Health Assessment Data in Military Health Records.—The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with section 1074f(c) of this title. The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
+Annual Report on Recording of Health Assessment Data in Military Health Records.—The Secretary of Defense shall issue each year a report on the compliance by themilitary departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with section 1074f(c) of this title. The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
 
 (Added Pub. L. 108–375, div. A, title VII, §739(a)(1), Oct. 28, 2004, 118 Stat. 2001.)
 

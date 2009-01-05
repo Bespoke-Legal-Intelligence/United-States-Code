@@ -8,7 +8,7 @@
 
 (B) A share-in-savings contract may be awarded for a period greater than five years, but not more than 10 years, if the head of the agency determines in writing prior to award of the contract that—
 
-&emsp;(i) the level of risk to be assumed and the investment to be undertaken by the contractor is likely to inhibit the government from obtaining the needed information technologycompetitively at a fair and reasonable price if the contract is limited in duration to a period of five years or less; and
+&emsp;(i) the level of risk to be assumed and the investment to be undertaken by the contractor is likely to inhibit the government from obtaining the needed information technology competitively at a fair and reasonable price if the contract is limited in duration to a period of five years or less; and
 
 &emsp;(ii) usage of the information technology to be acquired is likely to continue for a period of time sufficient to generate reasonable benefit for the government.
 

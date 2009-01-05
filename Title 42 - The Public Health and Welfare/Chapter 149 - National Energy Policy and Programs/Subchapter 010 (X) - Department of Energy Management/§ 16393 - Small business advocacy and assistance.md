@@ -2,7 +2,7 @@
 
 #### (a) Small business advocate
 
-The Secretary shall require the Director of each National Laboratory, and may require theDirector of a single-purpose research facility, to designate a small business advocate to—
+The Secretary shall require the Director of each National Laboratory, and may require the Director of a single-purpose research facility, to designate a small business advocate to—
 
 &emsp;(1) increase the participation of small business concerns, including socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), in procurement, collaborative research, technology licensing, and technology transfer activities conducted by the National Laboratory or single-purpose research facility;
 

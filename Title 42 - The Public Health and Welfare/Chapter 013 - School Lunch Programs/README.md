@@ -7,9 +7,11 @@
 | [1753\.](%C2%A7%2001753%20-%20Apportionments%20to%20States.md) | Apportionments to States. |
 | [1754\.](%C2%A7%2001754%20-%20Nutrition%20promotion.md) | Nutrition promotion. |
 | [1755\.](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md) | Direct expenditures for agricultural commodities and other foods. |
+| [1755a.](%C2%A7%2001755a%20-%20Whole%20grain%20products.md) | Whole grain products. |
 | [1756\.](%C2%A7%2001756%20-%20Payments%20to%20States.md) | Payments to States. |
 | [1757\.](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md) | State disbursement to schools. |
 | [1758\.](%C2%A7%2001758%20-%20Program%20requirements.md) | Program requirements. |
+| [1758a.](%C2%A7%2001758a%20-%20State%20performance%20on%20enrolling%20children%20receiving%20program%20benefits%20for%20free%20school%20meals.md) | State performance on enrolling children receiving program benefits for free school meals. |
 | [1759\.](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md) | Direct disbursement to schools by Secretary. |
 | [1759a.](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md) | Special assistance funds. |
 | [1760\.](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
@@ -22,7 +24,7 @@
 | [1766a.](%C2%A7%2001766a%20-%20Meal%20supplements%20for%20children%20in%20afterschool%20care.md) | Meal supplements for children in afterschool care. |
 | 1766b to 1768. Repealed. |  |
 | [1769\.](%C2%A7%2001769%20-%20Pilot%20projects.md) | Pilot projects. |
-| [1769a.](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md) | Repealed. |
+| [1769a.](%C2%A7%2001769a%20-%20Fresh%20fruit%20and%20vegetable%20program.md) | Fresh fruit and vegetable program. |
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | 1769b–1. | Training, technical assistance, and food service management institute. |
 | [1769c.](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md) | Compliance and accountability. |
@@ -44,9 +46,11 @@
 - [&sect; 01753 - Apportionments to States](%C2%A7%2001753%20-%20Apportionments%20to%20States.md)
 - [&sect; 01754 - Nutrition promotion](%C2%A7%2001754%20-%20Nutrition%20promotion.md)
 - [&sect; 01755 - Direct expenditures for agricultural commodities and other foods](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md)
+- [&sect; 01755a - Whole grain products](%C2%A7%2001755a%20-%20Whole%20grain%20products.md)
 - [&sect; 01756 - Payments to States](%C2%A7%2001756%20-%20Payments%20to%20States.md)
 - [&sect; 01757 - State disbursement to schools](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md)
 - [&sect; 01758 - Program requirements](%C2%A7%2001758%20-%20Program%20requirements.md)
+- [&sect; 01758a - State performance on enrolling children receiving program benefits for free school meals](%C2%A7%2001758a%20-%20State%20performance%20on%20enrolling%20children%20receiving%20program%20benefits%20for%20free%20school%20meals.md)
 - [&sect; 01759 - Direct disbursement to schools by Secretary](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md)
 - [&sect; 01759a - Special assistance funds](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md)
 - [&sect; 01760 - Miscellaneous provisions](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md)
@@ -61,7 +65,7 @@
 - [&sect; 01766b - Repealed. Pub. L. 105&#8211;336, title I, &sect;107(j)(2)(C)(i), Oct. 31, 1998, 112 Stat. 3153](%C2%A7%2001766b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93336%2C%20title%20I%2C%20%C2%A7107%28j%29%282%29%28C%29%28i%29%2C%20Oct.%2031%2C%201998%2C%20112%20Stat.%203153.md)
 - [&sect; 01767, 1768 - Repealed. Pub. L. 99&#8211;500, title III, &sect;371(a)(1), Oct. 18, 1986, 100 Stat. 1783&#8211;368, and Pub. L. 99&#8211;591, title III&#8230;](%C2%A7%2001767%2C%201768%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93500%2C%20title%20III%2C%20%C2%A7371%28a%29%281%29%2C%20Oct.%2018%2C%201986%2C%20100%20Stat.%201783%E2%80%93368%2C%20and%20Pub.%20L.%2099%E2%80%93591%2C%20title%20III%E2%80%A6.md)
 - [&sect; 01769 - Pilot projects](%C2%A7%2001769%20-%20Pilot%20projects.md)
-- [&sect; 01769a - Repealed. Pub. L. 104&#8211;193, title VII, &sect;710, Aug. 22, 1996, 110 Stat. 2301](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md)
+- [&sect; 01769a - Fresh fruit and vegetable program](%C2%A7%2001769a%20-%20Fresh%20fruit%20and%20vegetable%20program.md)
 - [&sect; 01769b - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
 - [&sect; 01769b&#8211;1 - Training, technical assistance, and food service management institute](%C2%A7%2001769b%E2%80%931%20-%20Training%2C%20technical%20assistance%2C%20and%20food%20service%20management%20institute.md)
 - [&sect; 01769c - Compliance and accountability](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md)

@@ -128,7 +128,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
+Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of thistitle\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

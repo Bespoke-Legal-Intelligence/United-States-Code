@@ -2,9 +2,9 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2161\.](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md) | Joint Military Intelligence College: academic degrees. |
+| [2161\.](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Defense%20Intelligence%20College.md) | Degree granting authority for National Defense Intelligence College. |
 | [2162\.](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md) | Preparation of budget requests for operation of professional military education schools. |
-| [2163\.](%C2%A7%2002163%20-%20National%20Defense%20University%20master%20of%20science%20degrees.md) | National Defense University: master of science degrees. |
+| [2163\.](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md) | Degree granting authority for National Defense University. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 | [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
@@ -14,6 +14,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
+
+Pub. L. 110–181, div. A, title V, §526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
 
 2006—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
 
@@ -71,7 +75,7 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war collegesafter Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667.
 
@@ -88,9 +92,9 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02161 - Joint Military Intelligence College academic degrees](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md)
+- [&sect; 02161 - Degree granting authority for National Defense Intelligence College](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Defense%20Intelligence%20College.md)
 - [&sect; 02162 - Preparation of budget requests for operation of professional military education schools](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md)
-- [&sect; 02163 - National Defense University master of science degrees](%C2%A7%2002163%20-%20National%20Defense%20University%20master%20of%20science%20degrees.md)
+- [&sect; 02163 - Degree granting authority for National Defense University](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
 - [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)

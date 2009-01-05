@@ -6,7 +6,7 @@ Nothing in this chapter shall limit or prevent the Administrator from establishi
 
 #### (b) State laws
 
-Nothing in this chapter shall preclude or deny any State or political subdivision thereof the right to adopt or enforce any requirement regarding antifouling paint or any other substance containing organotin. Compliance with the requirements of any State or political subdivisionthereof respecting antifouling paint or any other substance containing organotin shall not relieve any person of the obligation to comply with the provisions of this chapter.
+Nothing in this chapter shall preclude or deny any State or political subdivision thereof the right to adopt or enforce any requirement regarding antifouling paint or any other substance containing organotin. Compliance with the requirements of any State or political subdivision thereof respecting antifouling paint or any other substance containing organotin shall not relieve any person of the obligation to comply with the provisions of this chapter.
 
 (Pub. L. 100–333, §11, June 16, 1988, 102 Stat. 608.)
 

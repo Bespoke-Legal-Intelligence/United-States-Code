@@ -40,7 +40,7 @@ Beginning in 2004, the Secretary shall establish a regional advisory committee f
 
 #### (A) Total number
 
-&emsp;&emsp;The total number of members on each committee who are selected under subparagraphs (A), (C), and (D) of paragraph (2), collectively, shall exceed the total number of members who are selected under paragraph\(1)(C) and subparagraphs (B), (E), and (F) of paragraph (2), collectively.
+&emsp;&emsp;The total number of members on each committee who are selected under subparagraphs (A), (C), and (D) of paragraph (2), collectively, shall exceed the total number of members who are selected under paragraph (1)(C) and subparagraphs (B), (E), and (F) of paragraph (2), collectively.
 
 #### (B) Dissolution
 

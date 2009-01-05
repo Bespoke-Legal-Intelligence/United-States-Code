@@ -50,7 +50,7 @@ Alternative Uses of Funds.—
 
 &emsp;(1)
 
-Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for that use under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with 1 or more of the purposes described in section 6701(a)(2).
+Alternative uses authorized.—In lieu of, or in addition to, use for an activity described in subsection (a) and notice for that use under subsection (a), an eligible unit of general local government may use assistance under this chapter, and shall provide notice of that use to the Secretary under subsection (a), for any other activity that is consistent with1 or more of the purposes described in section 6701(a)(2).
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ The Head Start Act, referred to in subsec. (a)(8), is subchapter B (§§635–65
 
 The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part A of title IV of the Act is classified generally to part A (§1070 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The National Literacy Act of 1991, referred to in subsec. (a)(11), was Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
@@ -164,7 +164,7 @@ Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\]
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(c)(3), (d)(27)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(19)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(c)(3), (d)(27)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(19)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f)\[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

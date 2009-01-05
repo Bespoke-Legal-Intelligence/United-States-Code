@@ -40,5 +40,5 @@ Section 1 of Pub. L. 94–294 provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Section 19 of Pub. L. 94–294, which provided that if any provision of this Act \[enacting this chapter and provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, §1601(b), Dec. 28, 1985, 99 Stat. 1597.
+Section 19 of Pub. L. 94–294, which provided that if any provision of this Act \[enacting this chapter andprovisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby, was omitted in the general revision of sections 2 through 20 of Pub. L. 94–294 by Pub. L. 99–198, title XVI, §1601(b), Dec. 28, 1985, 99 Stat. 1597.
 

@@ -6,7 +6,7 @@ In General.—Except to the extent expressly prohibited by another provision of 
 
 (b)
 
-Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section 2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
+Procurements For or With Other Agencies.—Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in section2303 of this title for any other agency, and to facilitate joint procurement by those agencies—
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 
@@ -58,7 +58,7 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 Pub. L. 98–525 designated existing provisions as subsec. (a) and added subsec. (b).
 
-Pub. L. 98–369 inserted provision relating to the exception provided in section 2304(d)(2) of this title and struck out provision that the power to make determinations and decisions under cls. (11)–(16) of section2304(a) of this title could not be delegated, but that the power to make a determination or decision under section 2304(a)(11) of this title could be delegated to any other officer of official of that agency who was responsible for procurement, and only for contracts requiring the expenditure of not more than $5,000,000.
+Pub. L. 98–369 inserted provision relating to the exception provided in section 2304(d)(2) of this title and struck out provision that the power to make determinations and decisions under cls. (11)–(16) of section 2304(a) of this title could not be delegated, but that the power to make a determination or decision under section 2304(a)(11) of this title could be delegated to any other officer of official of that agency who was responsible for procurement, and only for contracts requiring the expenditure of not more than $5,000,000.
 
 1981—Pub. L. 97–86 struck out in first sentence cl. (1) designation and cl. (2) relating to authorizing of contracts in excess of three years under section 2306(g) of this title, and in second sentence substituted “$5,000,000” for “$100,000”.
 

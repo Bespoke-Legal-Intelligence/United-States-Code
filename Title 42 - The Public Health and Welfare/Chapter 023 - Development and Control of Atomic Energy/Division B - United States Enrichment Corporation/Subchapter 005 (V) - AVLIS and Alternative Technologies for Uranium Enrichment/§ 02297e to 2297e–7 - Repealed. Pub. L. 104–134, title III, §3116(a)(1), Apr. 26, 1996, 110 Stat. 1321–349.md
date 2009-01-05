@@ -1,6 +1,6 @@
 ### §§2297e to 2297e–7. Repealed. Pub. L. 104–134, title III, §3116(a)(1), Apr. 26, 1996, 110 Stat. 1321–349
 
-Section 2297e, act Aug. 1, 1946, ch. 724, title II, §1601, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2939, related to assessment by United States Enrichment Corporation of viability of commercialization of AVLIS (atomic vapor laser isotope separation technology) and alternative uranium enrichment technologies.
+Section 2297e, act Aug. 1, 1946, ch. 724, title II, §1601, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106Stat. 2939, related to assessment by United States Enrichment Corporation of viability of commercialization of AVLIS (atomic vapor laser isotope separation technology) and alternative uranium enrichment technologies.
 
 Section 2297e–1, act Aug. 1, 1946, ch. 724, title II, §1602, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2939, related to transfer of rights and property to Corporation.
 

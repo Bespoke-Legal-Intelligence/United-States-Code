@@ -1,5 +1,7 @@
 ### §469. Fees for credentialing and background investigations in transportation
 
+#### (a) Fees
+
 For fiscal year 2004 and thereafter, the Secretary of Homeland Security shall charge reasonable fees for providing credentialing and background investigations in the field of transportation: <i>Provided</i>, That the establishment and collection of fees shall be subject to the following requirements:
 
 &emsp;(1) such fees, in the aggregate, shall not exceed the costs incurred by the Department of Homeland Security associated with providing the credential or performing the background record checks;
@@ -10,9 +12,27 @@ For fiscal year 2004 and thereafter, the Secretary of Homeland Security shall ch
 
 &emsp;(4) any fee collected shall be available for expenditure only to pay the costs incurred in providing services in connection with the activity or item for which the fee is charged and shall remain available until expended.
 
-(Pub. L. 108–90, title V, §520, Oct. 1, 2003, 117 Stat. 1156.)
+#### (b) Recurrent training of aliens in operation of aircraft
+
+#### (1) Process for reviewing threat assessments
+
+&emsp;Notwithstanding section 44939(e) of title 49, the Secretary shall establish a process to ensure that an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)) applying for recurrent training in the operation of any aircraft is properly identified and has not, since the time of any prior threat assessment conducted pursuant to section 44939(a) of such title, become a risk to aviation or national security.
+
+#### (2) Interruption of training
+
+&emsp;If the Secretary determines, in carrying out the process established under paragraph (1), that an alien is a present risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall not provide the training or if such training has commenced that person shall immediately terminate the training.
+
+#### (3) Fees
+
+&emsp;The Secretary may charge reasonable fees under subsection (a) for providing credentialing and background investigations for aliens in connection with the process for recurrent training established under paragraph (1). Such fees shall be promulgated by notice in the Federal Register.
+
+(Pub. L. 108–90, title V, §520, Oct. 1, 2003, 117 Stat. 1156; Pub. L. 110–329, div. D, title V, §543, Sept. 30, 2008, 122 Stat. 3689.)
 
 #### Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### Amendments
+
+2008—Pub. L. 110–329 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -24,10 +24,13 @@
 | [3119\.](%C2%A7%2003119%20-%20Rehabilitation%20research%20and%20special%20projects.md) | Rehabilitation research and special projects. |
 | [3120\.](%C2%A7%2003120%20-%20Program%20of%20independent%20living%20services%20and%20assistance.md) | Program of independent living services and assistance. |
 | [3121\.](%C2%A7%2003121%20-%20Veterans%E2%80%99%20Advisory%20Committee%20on%20Rehabilitation.md) | Veterans’ Advisory Committee on Rehabilitation. |
+| [3122\.](%C2%A7%2003122%20-%20Longitudinal%20study%20of%20vocational%20rehabilitation%20programs.md) | Longitudinal study of vocational rehabilitation programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title III, §334(b), Oct. 10, 2008, 122 Stat. 4173, added item 3122.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1500 to 1521 as 3100 to 3121, respectively.
 
@@ -66,3 +69,4 @@
 - [&sect; 03119 - Rehabilitation research and special projects](%C2%A7%2003119%20-%20Rehabilitation%20research%20and%20special%20projects.md)
 - [&sect; 03120 - Program of independent living services and assistance](%C2%A7%2003120%20-%20Program%20of%20independent%20living%20services%20and%20assistance.md)
 - [&sect; 03121 - Veterans&#8217; Advisory Committee on Rehabilitation](%C2%A7%2003121%20-%20Veterans%E2%80%99%20Advisory%20Committee%20on%20Rehabilitation.md)
+- [&sect; 03122 - Longitudinal study of vocational rehabilitation programs](%C2%A7%2003122%20-%20Longitudinal%20study%20of%20vocational%20rehabilitation%20programs.md)

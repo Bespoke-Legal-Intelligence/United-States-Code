@@ -26,7 +26,7 @@
 
 (d) The Secretary shall also include in each such report, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
 
-&emsp;(1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
+&emsp;(1) The number of positions that require warrant officers or commissioned officers servingon active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
 
 &emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
@@ -80,7 +80,7 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 ofeach fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
+1998—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
 
 1997—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
 

@@ -4,9 +4,9 @@
 
 To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
 
-&emsp;(1) to provide, directly or indirectly, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and services (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
+&emsp;(1) to provide, by grant, agreement, or contract, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and provide, by grant, agreement, or contract, services,<sup>1</sup> (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
 
-&emsp;(2) to provide such shelter and such services to individual homeless youth throughout a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;
+&emsp;(2) to provide such shelter and such services to individual homeless youth throughout a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;
 
 &emsp;(3) to provide, directly or indirectly, on-site supervision at each shelter facility that is not a family home;
 
@@ -26,23 +26,29 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 &emsp;(11) to submit to the Secretary an annual budget that estimates the itemized costs to be incurred in the year for which the applicant requests a grant under this part;
 
-&emsp;(12) to keep adequate statistical records profiling homeless youth which it serves and notto disclose the identity of individual homeless youth in reports or other documents based on such statistical records;
+&emsp;(12) to keep adequate statistical records profiling homeless youth which it serves and not to disclose the identity of individual homeless youth in reports or other documents based on such statistical records;
 
 &emsp;(13) not to disclose records maintained on individual homeless youth without the informed consent of the individual youth to anyone other than an agency compiling statistical records;
 
-&emsp;(14) to provide to the Secretary such other information as the Secretary may reasonably require; and
+&emsp;(14) to provide to the Secretary such other information as the Secretary may reasonably require;
 
-&emsp;(15) to coordinate services with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\].
+&emsp;(15) to coordinate services with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\]; and
+
+&emsp;(16) to develop an adequate emergency preparedness and management plan.
 
 #### (b) Priority
 
-In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
+In selecting eligible applicants to receive grants under this part, the Secretary shall givepriority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
 
 #### (c) Definition
 
-In this part, the term “maternity group home” means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children.
+In this part—
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169.)
+&emsp;(1) the term “maternity group home” means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children; and
+
+&emsp;(2) the term “exceptional circumstances” means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
+
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069.)
 
 #### References in Text
 
@@ -53,6 +59,14 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
+
+Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted “a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;” for “a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;”.
+
+Subsec. (a)(16). Pub. L. 110–378, §4(a)(3)–(5), added par. (16).
+
+Subsec. (c). Pub. L. 110–378, §4(b), substituted “part—” for “part,”, inserted par. (1) designation before “the term”, substituted “; and” for period at end, and added par. (2).
 
 2003—Subsec. (a)(1). Pub. L. 108–96, §107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
 

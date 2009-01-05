@@ -4,10 +4,6 @@ The Librarian of Congress (hereafter in sections 179<i>l</i> to 179w of this tit
 
 (Pub. L. 104–285, title I, §102, Oct. 11, 1996, 110 Stat. 3377.)
 
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
-
 #### References in Text
 
 Sections 179<i>l</i> to 179w of the title, referred to in text, was in the original “this Act” the first place appearing and “this title” the second place appearing, both of which were translated as meaning title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to sections 179<i>l</i> to 179w of this title. For complete classification of title I to the Code, see Short Title note below and Tables.
@@ -19,6 +15,10 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 #### Prior Provisions
 
 Prior provisions similar to sections 179<i>l</i> to 179w of this title were contained in former section 179 et seq. of this title.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–336, §1, Oct. 2, 2008, 122 Stat. 3726, provided that: “This Act \[amending sections 179m, 179n, 179v, 179w, 1722, and 1743 of this title and sections 151702, 151703, 151711, 152403, 152405, 152406, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under sections 179v and 1743 of this title and section 152411 of Title 36\] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008’.”
 
 #### Short Title of 2005 Amendment
 

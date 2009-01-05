@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(3) for the collection of a penalty by the United States Government (and associated costs and interest) against any Federal agency that fails, by the date that is 18 months after the effective date of a final order to pay a penalty assessed by the Administrator under section 300h–8(b) <sup>1</sup> of this title, to pay the penalty.
 
-> No action may be brought under paragraph (1) against a public water system for a violation of a requirement prescribed by or under this subchapter which occurred within the 27-month period beginning on the first day of the month in which this subchapter is enacted. The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce in an action brought under this subsection any requirement prescribed by or under this subchapter or to order the Administrator to perform an act or duty described in paragraph (2), as the case may be.
+> No action may be brought under paragraph (1) against a public water system for a violation of a requirement prescribed by or under this subchapter which occurred within the 27-month period beginning on the first day of the month in which this subchapter is enacted. The United States district courts shall have jurisdiction,without regard to the amount in controversy or the citizenship of the parties, to enforce in an action brought under this subsection any requirement prescribed by or under this subchapter or to order the Administrator to perform an act or duty described in paragraph (2), as the case may be.
 
 #### (b) Conditions for commencement of civil action; notice
 
@@ -46,7 +46,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 > against any agency of the United States under State or local law to enforce any requirement respecting the provision of safe drinking water or respecting any underground injection control program. Nothing in this section shall be construed to authorize judicial review of regulations or orders of the Administrator under this subchapter, except as provided in section 300j–7 of this title. For provisions providing for application of certain requirements to such agencies in the same manner as to nongovernmental entities, see section 300j–6 of this title.
 
-(July 1, 1944, ch. 373, title XIV, §1449, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1690;amended Pub. L. 95–190, §8(c), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 104–182, title I, §129(b), Aug. 6, 1996, 110 Stat. 1662.)
+(July 1, 1944, ch. 373, title XIV, §1449, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1690; amended Pub. L. 95–190, §8(c), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 104–182, title I, §129(b), Aug. 6, 1996, 110 Stat. 1662.)
 
 #### References in Text
 

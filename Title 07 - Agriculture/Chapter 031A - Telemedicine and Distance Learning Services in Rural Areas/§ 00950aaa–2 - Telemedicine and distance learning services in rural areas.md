@@ -20,9 +20,11 @@ The Secretary may provide financial assistance for the purpose of financing the 
 
 &emsp;The Secretary may provide financial assistance under this chapter to—
 
-&emsp;&emsp;(A) entities using telemedicine services or distance learning services; and
+&emsp;&emsp;(A) entities using telemedicine services or distance learning services;
 
-&emsp;&emsp;(B) entities providing or proposing to provide telemedicine service or distance learning service to other persons at rates calculated to ensure that the benefit of the financial assistance is passed through to the other persons.
+&emsp;&emsp;(B) entities providing or proposing to provide telemedicine service or distance learning service to other persons at rates calculated to ensure that the benefit of the financial assistance is passed through to the other persons; <sup>1</sup>
+
+&emsp;&emsp;(C) libraries.
 
 #### (2) Electric or telecommunications borrowers
 
@@ -84,7 +86,7 @@ The Secretary shall establish procedures to prioritize financial assistance unde
 
 #### (e) Maximum amount of assistance to individual recipients
 
-The Secretary may establish the maximum amount of financial assistance to be made available to an individual recipient for each fiscal year under this chapter, by publishing notice ofthe maximum amount in the Federal Register not more than 45 days after funds are made available for the fiscal year to carry out this chapter.
+The Secretary may establish the maximum amount of financial assistance to be made available to an individual recipient for each fiscal year under this chapter, by publishing notice of the maximum amount in the Federal Register not more than 45 days after funds are made available for the fiscal year to carry out this chapter.
 
 #### (f) Use of funds
 
@@ -126,7 +128,7 @@ Notwithstanding subsection (f) of this section, financial assistance provided un
 
 &emsp;&emsp;(B) make the applications available for inspection.
 
-(Pub. L. 101–624, title XXIII, §2333, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1109.)
+(Pub. L. 101–624, title XXIII, §2333, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1109; amended Pub. L. 110–234, title VI, §6201(a), May 22, 2008, 122 Stat. 1205; Pub. L. 110–246, §4(a), title VI, §6201(a), June 18, 2008, 122 Stat. 1664, 1967.)
 
 #### Termination of Section
 
@@ -136,7 +138,21 @@ Notwithstanding subsection (f) of this section, financial assistance provided un
 
 The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Prior Provisions
 
 A prior section 950aaa–2, Pub. L. 101–624, title XXIII, §2333, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 103–354, title II, §235(b)(4)(A), (C), Oct. 13, 1994, 108 Stat. 3221, 3222, provided definitions for chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
+
+#### Amendments
+
+2008—Subsec. (c)(1)(C). Pub. L. 110–246, §6201(a), added subpar. (C).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

@@ -100,7 +100,7 @@ Sensitive personal information.—The term “sensitive personal information”,
 
 &emsp;(20)
 
-Subordinate plan.—The term “subordinate plan”, also referred to as a “system security plan”, means a subordinate plan defines <sup>1</sup> the security controls that are either planned or implemented for networks, facilities, systems, or groups of systems, as appropriate, within a specific accreditation boundary.
+Subordinate plan.—The term “subordinate plan”, also referred to as a “system security plan”, means a subordinate plan defines <sup>1</sup> the security controls that are either plannedor implemented for networks, facilities, systems, or groups of systems, as appropriate, within a specific accreditation boundary.
 
 &emsp;(21)
 

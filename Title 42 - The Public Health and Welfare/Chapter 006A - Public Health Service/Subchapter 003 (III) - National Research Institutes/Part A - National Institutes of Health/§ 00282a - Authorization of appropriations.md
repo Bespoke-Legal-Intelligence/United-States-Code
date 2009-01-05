@@ -38,7 +38,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 &emsp;&emsp;&emsp;(i) An estimate of the amounts determined by the Director of NIH to be appropriate for maximizing the potential of such research.
 
-&emsp;&emsp;&emsp;(ii) An estimate of the amounts determined by the Director of NIH to be sufficient only for continuing to fund research activities previously identified by the Division of Program Coordination, Planning, and Strategic Initiatives.
+&emsp;&emsp;&emsp;(ii) An estimate of the amounts determined by the Director of NIH to be sufficient only for continuing to fund researchactivities previously identified by the Division of Program Coordination, Planning, and Strategic Initiatives.
 
 &emsp;&emsp;&emsp;(iii) An estimate of the amounts determined by the Director of NIH to be necessary to fund research described in section 282(b)(7)(A)(i) of this title—
 
@@ -48,7 +48,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (D) Evaluation
 
-&emsp;&emsp;During the 6-month period following the end of the first fiscal year for which thetotal amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
+&emsp;&emsp;During the 6-month period following the end of the first fiscal year for which the total amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
 
 #### (2) Trans-NIH research reporting
 

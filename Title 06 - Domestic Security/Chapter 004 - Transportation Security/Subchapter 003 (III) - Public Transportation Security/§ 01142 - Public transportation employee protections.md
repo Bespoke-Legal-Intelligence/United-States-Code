@@ -4,7 +4,7 @@
 
 A public transportation agency, a contractor or a subcontractor of such agency, or an officer or employee of such agency, shall not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
-&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federallaw, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
+&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
 &emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452); <sup>1</sup>
 
@@ -54,13 +54,13 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify, in writing, the complainant and the person alleged to have committed a violation of subsection (a) or (b) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is a reasonable cause to believe that a violation of subsection (a) or (b) has occurred, the Secretary of Labor shall accompany the Secretary of Labor's findings with a preliminary order providing the relief prescribed byparagraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+&emsp;&emsp;Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify, in writing, the complainant and the person alleged to have committed a violation of subsection (a) or (b) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is a reasonable cause to believe that a violation of subsection (a) or (b) has occurred, the Secretary of Labor shall accompany the Secretary of Labor's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 30 days after the date of notification of findings under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 #### (B) Requirements
 
 #### (i) Required showing by complainant
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributingfactor in the unfavorable personnel action alleged in the complaint.
 
 #### (ii) Showing by employer
 
@@ -114,7 +114,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (A) Commencement of action
 
-&emsp;&emsp;A person on whose behalf an order was issued under paragraph (3) may commence a civil action against the person to whom suchorder was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+&emsp;&emsp;A person on whose behalf an order was issued under paragraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 #### (B) Attorney fees
 
@@ -122,7 +122,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (7) De novo review
 
-&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
+&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate districtcourt of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 #### (d) Remedies
 

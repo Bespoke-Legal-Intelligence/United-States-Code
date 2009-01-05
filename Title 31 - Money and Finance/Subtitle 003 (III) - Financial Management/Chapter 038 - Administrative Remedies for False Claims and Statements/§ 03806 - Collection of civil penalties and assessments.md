@@ -10,7 +10,7 @@
 
 (e) The United States Court of Federal Claims shall have jurisdiction of any action under subsection (b) of this section to recover any penalty or assessment if the cause of action is asserted by the United States as a counterclaim in a matter pending in such court.
 
-(f) The Attorney General shall have exclusive authority to compromise or settle any penalty or assessment the determination of which is the subject of a pending petition pursuant to section3805 of this title or a pending action to recover such penalty or assessment pursuant to this section.
+(f) The Attorney General shall have exclusive authority to compromise or settle any penalty or assessment the determination of which is the subject of a pending petition pursuant to section 3805 of this title or a pending action to recover such penalty or assessment pursuant to this section.
 
 (g)(1) Except as provided in paragraph (2) of this subsection, any amount of penalty or assessment collected under this chapter shall be deposited as miscellaneous receipts in the Treasury of the United States.
 
@@ -28,7 +28,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§401 et seq.) and parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(2)(B) to (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II and parts A and B of title XVIII of the Social Security Act are classified generally to subchapter II (§401 et seq.) and parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII, respectively, ofchapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

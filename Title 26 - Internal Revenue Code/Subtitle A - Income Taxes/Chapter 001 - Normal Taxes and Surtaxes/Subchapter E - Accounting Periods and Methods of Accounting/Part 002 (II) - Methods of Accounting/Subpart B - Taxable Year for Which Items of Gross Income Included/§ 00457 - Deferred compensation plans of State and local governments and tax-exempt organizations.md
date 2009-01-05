@@ -16,7 +16,7 @@
 
 #### (3) Special rule for health and long-term care insurance
 
-&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extentprovided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
+&emsp;In the case of a plan of an eligible employer described in subsection (e)(1)(A), to the extent provided in section 402(<i>l</i>), paragraph (1) shall not apply to amounts otherwise includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 #### (c) Limitation
 
-The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
+The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall notexceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
 #### (d) Distribution requirements
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (10) Transfers between plans
 
-&emsp;A participant shall not be required to include in gross income any portion of the entire amount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
+&emsp;A participant shall not be required to include in gross income any portion of the entireamount payable to such participant solely by reason of the transfer of such portion from 1 eligible deferred compensation plan to another eligible deferred compensation plan.
 
 #### (11) Certain plans excluded
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) such payments or supplements are made in coordination with a defined benefit plan which is described in section 401(a) and includes a trust exempt from tax under section 501(a) and which is maintained by an eligible employer described in paragraph (1)(A) or by an education association described in clause (ii)(II),
 
-&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect tosuch payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
+&emsp;&emsp;&nbsp;such applicable plan shall be treated for purposes of subparagraph (A)(i) as a bona fide severance pay plan with respect to such payments or supplements to the extent such payments or supplements could otherwise have been provided under such defined benefit plan (determined as if section 411 applied to such defined benefit plan).
 
 #### (ii) Applicable voluntary early retirement incentive plan
 
@@ -360,7 +360,7 @@ $15,000.
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year in which such portion is paid or otherwise made available to the participant.
+&emsp;&emsp;&emsp;Paragraph (2)(F) shall only apply to the portion of the plan described in subparagraph (A) for years preceding the year inwhich such portion is paid or otherwise made available to the participant.
 
 #### (ii) Treatment
 
@@ -400,9 +400,19 @@ $15,000.
 
 &emsp;For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct.22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(<i>o</i>)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059.)
+#### (4) Death benefits under USERRA-qualified active military service
+
+&emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
+
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(<i>o</i>)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
+
+2008—Subsec. (g)(4). Pub. L. 110–245 added par. (4).
 
 2006—Subsec. (a)(3). Pub. L. 109–280, §845(b)(3), added par. (3).
 
@@ -486,7 +496,7 @@ Subsec. (g). Pub. L. 104–188, §1448(a), added subsec. (g).
 
 Subsec. (d)(2)(B)(i)(I). Pub. L. 101–239, §7811(g)(5), inserted “and” at end.
 
-Subsec. (e)(13). Pub. L. 101–239, §7816(j), substituted “Special rule for churches” for “Exception for church plans” in heading and amended text generally. Prior toamendment, text read as follows: “The term ‘eligible deferred compensation plan’ shall not include a plan maintained by a church for church employees. For purposes of this paragraph, the term ‘church’ has the meaning given such term by section 3121(w)(3)(A), including a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
+Subsec. (e)(13). Pub. L. 101–239, §7816(j), substituted “Special rule for churches” for “Exception for church plans” in heading and amended text generally. Prior to amendment, text read as follows: “The term ‘eligible deferred compensation plan’ shall not include a plan maintained by a church for church employees. For purposes of this paragraph, the term ‘church’ has the meaning given such term by section 3121(w)(3)(A), including a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
 
 1988—Subsec. (c)(2). Pub. L. 100–647, §1011(e)(1), struck out “and paragraphs (2) and (3) of subsection (b)” after “of this subsection”.
 
@@ -520,11 +530,15 @@ Subsec. (e)(12). Pub. L. 100–647, §6064(b)(1), added par. (12).
 
 Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
-1986—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to service for State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
+1986—Pub. L. 99–514 amended section generally, substituting “Deferred compensation plans of State and local governments and tax-exempt organizations” for “Deferred compensation plans with respect to servicefor State and local governments” as section catchline and revising and restating as subsecs. (a) to (c), (e), and (f) provisions formerly contained in subsecs. (a) to (e) and adding provisions comprising subsec. (d).
 
 1984—Subsec. (e)(2). Pub. L. 98–369, §491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
 1980—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or after Jan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under section 401 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -532,11 +546,11 @@ Amendment by section 829(a)(4) of Pub. L. 109–280 applicable to distributions 
 
 Amendment by section 845(b)(3) of Pub. L. 109–280 applicable to distributions in taxable years beginning after Dec. 31, 2006, see section 845(c) of Pub. L. 109–280, set out as a note under section 402 of this title.
 
-Pub. L. 109–280, title XI, §1104(d), Aug. 17, 2006, 120 Stat. 1060, provided that:
+Pub. L. 109–280, title XI, §1104(d), Aug. 17, 2006, 120 Stat. 1060, as amended by Pub. L. 110–458, title I, §111(a), Dec. 23, 2008, 122 Stat. 5113, provided that:
 
 “(1)
 
-In general.—The amendments made by this Act \[probably should be “this section”, amending this section and sections 623 and 1002 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
+In general.—The amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
 
 “(2)
 
@@ -574,7 +588,7 @@ Pub. L. 107–16, title VI, §649(c), June 7, 2001, 115 Stat. 128, provided that
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub.L. 105–34, set out as a note under section 411 of this title.
+Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -688,7 +702,7 @@ Existing deferrals and arrangements.—Section 457 of such Code shall not apply 
 
 &emsp;&emsp;&emsp;“(I) was in writing on August 16, 1986,
 
-&emsp;&emsp;&emsp;“(II) on such date provides for a deferral for each taxable year covered by the agreement of afixed amount or of an amount determined pursuant to a fixed formula.
+&emsp;&emsp;&emsp;“(II) on such date provides for a deferral for each taxable year covered by the agreement of a fixed amount or of an amount determined pursuant to a fixed formula.
 
 > &emsp;Clause (ii) shall not apply to any taxable year ending after the date on which any modification to the amount or formula described in subclause (II) is effective. Amounts described in the first sentence shall be taken into account for applying section 457 to other amounts deferred under any deferred compensation plan. This subparagraph shall only apply to individuals who were covered under the plan and agreement on August 16, 1986.
 

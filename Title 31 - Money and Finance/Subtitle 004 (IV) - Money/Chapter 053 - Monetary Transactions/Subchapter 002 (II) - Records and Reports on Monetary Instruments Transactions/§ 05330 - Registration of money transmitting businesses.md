@@ -126,7 +126,7 @@ Findings.—The Congress hereby finds the following:
 
 “(2)
 
-Purpose.—It is the purpose of this section \[enacting this section and amending section 1960 of Title 18, Crimes and Criminal Procedure\] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers’ checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such moneytransmitting businesses from engaging in illegal activities.”
+Purpose.—It is the purpose of this section \[enacting this section and amending section 1960 of Title 18, Crimes and Criminal Procedure\] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers’ checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

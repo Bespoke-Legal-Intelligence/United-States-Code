@@ -10,7 +10,7 @@
 
 (3)(A) The Board shall allow any agency which would be subject to a stay under this subsection to comment to the Board on such stay request.
 
-(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remain in effect for such period as the Board determines to be appropriate.
+(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remainin effect for such period as the Board determines to be appropriate.
 
 (C) The Board may modify or dissolve a stay under this subsection at any time, if the Board determines that such a modification or dissolution is appropriate.
 
@@ -50,7 +50,7 @@
 
 (i) Subsections (a) through (h) shall apply in any proceeding brought under section 7513(d) if, or to the extent that, a prohibited personnel practice as defined in section 2302(b)(8) is alleged.
 
-(j) In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirementsystem established under a Federal statute nor any election made by such individual under any such system may be taken into account.
+(j) In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §§4, 8(b), Oct. 29, 1994, 108 Stat. 4363, 4365.)
 

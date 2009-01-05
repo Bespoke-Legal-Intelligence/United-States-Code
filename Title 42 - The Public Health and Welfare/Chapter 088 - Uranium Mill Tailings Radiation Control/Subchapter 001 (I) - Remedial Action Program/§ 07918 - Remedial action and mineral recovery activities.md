@@ -6,7 +6,7 @@
 
 (2) The Secretary shall use technology in performing such remedial action as will insure compliance with the general standards promulgated by the Administrator under section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\] and will assure the safe and environmentally sound stabilization of residual radioactive materials, consistent with existing law.
 
-(3) Notwithstanding paragraphs (1) and (2) of this subsection, after October 31, 1982, if the Administrator has not promulgated standards under section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\] in final form by such date,remedial action taken by the Secretary under this subchapter shall comply with the standards proposed by the Administrator under such section 275 a. until such time as the Administrator promulgates the standards in final form.
+(3) Notwithstanding paragraphs (1) and (2) of this subsection, after October 31, 1982, if the Administrator has not promulgated standards under section 275 a. of the Atomic Energy Act of 1954 \[42 U.S.C. 2022(a)\] in final form by such date, remedial action taken by the Secretary under this subchapter shall comply with the standards proposed by the Administrator under such section 275 a. until such time as the Administrator promulgates the standards in final form.
 
 #### (b) Mineral concentration evaluation; terms and conditions for mineral recovery; payment of Federal and State share of net profits; recovery costs; licenses
 

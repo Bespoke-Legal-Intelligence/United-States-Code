@@ -44,7 +44,7 @@ Interest shall be allowed and paid at the overpayment rate established under sec
 
 &emsp;(1) in a case described in subsection (b)(2), from the date the Secretary receives the money to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days, or
 
-&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to adate (to be determined by the Secretary) preceding the date of return by not more than 30 days.
+&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days.
 
 #### (d) Return of property in certain cases
 
@@ -60,7 +60,7 @@ If—
 
 &emsp;&emsp;(C) the return of such property will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the return of such property would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States,
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the return ofsuch property would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States,
 
 > the provisions of subsection (b) shall apply in the same manner as if such property had been wrongly levied upon, except that no interest shall be allowed under subsection (c).
 

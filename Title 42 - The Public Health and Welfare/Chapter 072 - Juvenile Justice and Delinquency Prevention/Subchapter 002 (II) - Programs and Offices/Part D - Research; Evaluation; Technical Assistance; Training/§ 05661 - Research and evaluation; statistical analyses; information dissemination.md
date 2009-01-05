@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(viii) reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups;
 
-&emsp;&emsp;(ix) evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
+&emsp;&emsp;(ix) evaluating services, treatment, and aftercare placement of juveniles who wereunder the care of the State child protection system before their placement in the juvenile justice system;
 
 &emsp;&emsp;(x) determining—
 

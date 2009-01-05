@@ -24,7 +24,7 @@ It is the purpose of this section—
 
 #### (2) Waivers
 
-&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087<i>ll</i>(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(<i>l</i>)(1) of this title, or one or more of the regulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
+&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087<i>ll</i>(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(<i>l</i>)(1) of this title, or one or more of theregulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
 
 #### (3) Eligible applicants
 
@@ -42,7 +42,7 @@ It is the purpose of this section—
 
 #### (D) Requirement
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to the waivers described in paragraph (2), the Secretary may waive the provisions of subchapter I of this chapter and this part and part G of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristicsof such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, Western Governors University shall be considered eligible to participate in the demonstration program authorized under this section. In addition to the waivers described in paragraph (2), the Secretary may waive the provisions of subchapter I of this chapter and this part and part G of this subchapter for such university that the Secretary determines to be appropriate because of the unique characteristics of such university. In carrying out the preceding sentence, the Secretary shall ensure that adequate program integrity and accountability measures apply to such university's participation in the demonstration program authorized under this section.
 
 #### (c) Application
 
@@ -92,7 +92,7 @@ It is the purpose of this section—
 
 #### (e) Notification
 
-The Secretary shall make available to the public and to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives a list of institutions, systems or consortia selected to participate in the demonstration program authorized by this section. Such notice shall include a listing of the specific statutory and regulatory requirements being waived for each institution, system or consortium and a description of the distance education courses to be offered.
+The Secretary shall make available to the public and to the authorizing committees a list of institutions, systems or consortia selected to participate in the demonstration program authorized by this section. Such notice shall include a listing of the specific statutory and regulatory requirements being waived for each institution, system or consortium and a description of the distance education courses to be offered.
 
 #### (f) Evaluations and reports
 
@@ -114,23 +114,13 @@ The Secretary shall make available to the public and to the Committee on Labor a
 
 &emsp;The Secretary shall review current policies and identify those policies that present impediments to the development and use of distance education and other nontraditional methods of expanding access to education.
 
-#### (3) Reports
+#### (3) Annual reports
 
-#### (A) In general
+&emsp;The Secretary shall provide reports to the authorizing committees on an annual basis regarding—
 
-&emsp;&emsp;Within 18 months of the initiation of the demonstration program, the Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives with respect to—
+&emsp;&emsp;(A) the demonstration programs authorized under this section; and
 
-&emsp;&emsp;&emsp;(i) the evaluations of the demonstration programs authorized under this section; and
-
-&emsp;&emsp;&emsp;(ii) any proposed statutory changes designed to enhance the use of distance education.
-
-#### (B) Additional reports
-
-&emsp;&emsp;The Secretary shall provide additional reports to the Committee on Labor and HumanResources of the Senate and the Committee on Education and the Workforce of the House of Representatives on an annual basis regarding—
-
-&emsp;&emsp;&emsp;(i) the demonstration programs authorized under this section; and
-
-&emsp;&emsp;&emsp;(ii) the number and types of students receiving assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for instruction leading to a recognized certificate, as provided for in section 1091(<i>l</i>)(1) of this title, including the progress of such students toward recognized certificates and the degree to which participation in such programs leading to such certificates increased.
+&emsp;&emsp;(B) the number and types of students receiving assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 for instruction leading to a recognized certificate, as provided for in section 1091(<i>l</i>)(1) of this title, including the progress of such students toward recognized certificates and the degree to which participation in such programs leading to such certificates increased.
 
 #### (g) Oversight
 
@@ -156,7 +146,7 @@ For the purpose of this section, the term “distance education” means an educ
 
 &emsp;(4) correspondence.
 
-(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746.)
+(Pub. L. 89–329, title IV, §486, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1487; amended Pub. L. 102–325, title IV, §489, July 23, 1992, 106 Stat. 624; Pub. L. 105–244, title IV, §488, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title I, §103(b)(12), title IV, §491, Aug. 14, 2008, 122 Stat. 3090, 3307.)
 
 #### References in Text
 
@@ -168,15 +158,13 @@ A prior section 1093, Pub. L. 89–329, title IV, §486, as added Pub. L. 96–3
 
 #### Amendments
 
+2008—Subsec. (e). Pub. L. 110–315, §103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
+Subsec. (f)(3). Pub. L. 110–315, §491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
+
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to make grants to nonprofit private organizations to provide training for student financial aid administrators and TRIO personnel.
 
 1992—Pub. L. 102–325 struck out “and student support” after “aid” in section catchline and amended text generally, substituting present provisions for former subsec. (a) relating to program authority, subsec. (b) relating to use of funds, and subsec. (c) relating to authorization of appropriations.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

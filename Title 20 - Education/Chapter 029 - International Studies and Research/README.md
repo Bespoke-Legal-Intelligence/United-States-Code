@@ -1,7 +1,5 @@
 ### <b>CHAPTER 29—INTERNATIONAL STUDIES AND RESEARCH</b>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section.”</i>
-
 
 ---
 

@@ -18,7 +18,13 @@ The Secretary may issue trust certificates representing ownership of all or a fr
 
 #### (A) In general
 
-&emsp;&emsp;In the event a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest the prepaid debenture represents in the trust or pool.
+#### (i) Authority to prepay
+
+&emsp;&emsp;&emsp;A debenture may be prepaid at any time without penalty.
+
+#### (ii) Reduction of guarantee
+
+&emsp;&emsp;&emsp;Subject to clause (i), if a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest the prepaid debenture represents in the trust or pool.
 
 #### (B) Interest
 
@@ -68,5 +74,17 @@ Section 2009g(i) of this title shall apply to any guarantee of a trust certifica
 
 &emsp;Nothing in this subsection prohibits the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-(Pub. L. 87–128, title III, §384F, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 393.)
+(Pub. L. 87–128, title III, §384F, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 393;amended Pub. L. 110–234, title VI, §6027(a), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, §4(a), title VI, §6027(a), June 18, 2008, 122 Stat. 1664, 1943.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(3)(A). Pub. L. 110–246, §6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

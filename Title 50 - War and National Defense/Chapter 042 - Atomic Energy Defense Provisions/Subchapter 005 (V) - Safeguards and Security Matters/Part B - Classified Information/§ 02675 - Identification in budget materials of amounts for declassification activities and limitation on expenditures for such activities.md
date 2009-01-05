@@ -6,7 +6,7 @@ The Secretary of Energy shall include in the budget justification materials subm
 
 #### (b) Certification required with respect to automatic declassification of records
 
-No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automaticdeclassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
+No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
 
 #### (c) Report on automatic declassification of Department of Energy records
 
@@ -26,5 +26,5 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(15)(D), substituted “October 5, 1999,” for “the date of the enactment of this Act”.
 

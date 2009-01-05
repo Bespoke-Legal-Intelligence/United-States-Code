@@ -42,7 +42,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (e) Permanent exemption for emergency purposes
 
-After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection withrespect to natural gas or petroleum, if he finds that the petitioner has demonstrated that such powerplant will be maintained and operated only for emergency purposes (as defined by rule by the Secretary).
 
 #### (f) Permanent exemption for powerplants necessary to maintain reliability of service
 
@@ -56,7 +56,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### Amendments
 
-1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted “from” for “or installation from one ormore of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” wherever appearing in subpar. (A), and struck out “or installation” after “powerplant” in subpars. (B) and (D).
+1987—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” wherever appearing in subpar. (A), and struck out “or installation” after “powerplant” in subpars. (B) and (D).
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(1)(D), struck out “—
 

@@ -6,7 +6,7 @@
 
 &emsp;(B) pay advance wages of the seaman to another person; or
 
-&emsp;(C) make to another person an order, note, or other evidence of indebtedness of the wages, or pay another person, for the engagement ofseamen when payment is deducted or to be deducted from the seaman's wage.
+&emsp;(C) make to another person an order, note, or other evidence of indebtedness of the wages, or pay another person, for the engagement of seamen when payment is deducted or to be deducted from the seaman's wage.
 
 (2) A person violating this subsection is liable to the United States Government for a civil penalty of not more than $500. A payment made in violation of this subsection does not relieve the vessel or the master from the duty to pay all wages after they have been earned.
 

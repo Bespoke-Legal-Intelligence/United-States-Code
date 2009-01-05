@@ -42,7 +42,7 @@ Project sponsor.—The term “project sponsor” means the agency or other enti
 
 &emsp;(8)
 
-State transportation department.—The term “State transportation department” means any statewide agency of a State withresponsibility for one or more modes of transportation.
+State transportation department.—The term “State transportation department” means any statewide agency of a State with responsibility for one or more modes of transportation.
 
 (b)
 
@@ -136,7 +136,7 @@ Concurrent reviews.—Each Federal agency shall, to the maximum extent practicab
 
 (e)
 
-Project Initiation.—The project sponsor shall notify the Secretary of the type of work,termini, length and general location of the proposed project, together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
+Project Initiation.—The project sponsor shall notify the Secretary of the type of work, termini, length and general location of the proposed project, together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
 
 (f)
 
@@ -230,7 +230,7 @@ Modification.—The lead agency may—
 
 Dissemination.—A copy of a schedule under subparagraph (B), and of any modifications to the schedule, shall be—
 
-&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project is located (and, if the State is not the project sponsor, to the project sponsor); and
+&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project islocated (and, if the State is not the project sponsor, to the project sponsor); and
 
 &emsp;&emsp;&emsp;(ii) made available to the public.
 

@@ -2,7 +2,7 @@
 
 #### (a) Approval as condition to commencing business
 
-No individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such a business, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
+No individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such abusiness, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
 
 #### (b) Disapproval
 
@@ -14,7 +14,7 @@ The Secretary of the Treasury or any officer designated by him may disapprove an
 
 #### (c) Appeal from disapproval
 
-In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals,and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
+In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, §§1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(51), July 26, 1979, 93 Stat. 288.)
 

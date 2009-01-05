@@ -56,7 +56,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (C) Election
 
-&emsp;&emsp;An election under this paragraph shall be made by the common parent of the affiliated group and at such time and in such manner as the Secretary shall by regulations prescribe. Any such election shall be binding on all members of such group and may be revoked only with the consent of the Secretary.
+&emsp;&emsp;An election under this paragraph shall be made by the common parent of the affiliatedgroup and at such time and in such manner as the Secretary shall by regulations prescribe. Any such election shall be binding on all members of such group and may be revoked only with the consent of the Secretary.
 
 #### (c) Retention of 80-percent dividends received deduction for dividends from 20-percent owned corporations
 
@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 94–455, §1051(f)(1), inserted “either” at end of 
 
 Subsec. (b)(2), (3), (4). Pub. L. 94–455, title XIX, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out “(except that in the case of a taxable year of a member beginning in 1963 and ending in 1964, if the election is effective for the taxable year of the common parent corporation which includes the last day of such taxable year of such member, such election shall be effective for such taxable year of such member, if such member consents to such election with respect to such taxable year)” after “with respect to which the election is made”.
+Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out “(except that in the case of a taxable year of a member beginning in 1963 and ending in 1964, if theelection is effective for the taxable year of the common parent corporation which includes the last day of such taxable year of such member, such election shall be effective for such taxable year of such member, if such member consents to such election with respect to such taxable year)” after “with respect to which the election is made”.
 
 Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted “election under section 901(a) (relating to allowance of foreign tax credit)” for “elections under section 901(a) (relating to allowance of foreign tax credit) and section 904(b)(1) (relating to election of overall limitation)”.
 

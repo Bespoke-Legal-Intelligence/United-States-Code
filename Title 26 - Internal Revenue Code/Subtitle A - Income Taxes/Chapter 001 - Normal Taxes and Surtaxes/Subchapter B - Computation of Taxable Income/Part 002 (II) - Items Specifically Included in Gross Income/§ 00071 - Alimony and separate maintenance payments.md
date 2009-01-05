@@ -144,7 +144,7 @@ Subsec. (f). Pub. L. 99–514, §1843(c)(1), amended subsec. (f) generally, subs
 
 Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
-1984—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
+1984—Pub. L. 98–369 amended section generally, substituting present provisions for provisions which haddeclared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
 
 #### Effective Date of 1986 Amendment; Transitional Rule
 

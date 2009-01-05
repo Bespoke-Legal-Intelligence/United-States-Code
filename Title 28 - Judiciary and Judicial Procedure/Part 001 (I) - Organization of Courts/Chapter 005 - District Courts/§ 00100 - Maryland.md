@@ -8,7 +8,7 @@ Maryland constitutes one judicial district comprising two divisions.
 
 &emsp;&emsp;(2) The Southern Division comprises the counties of Calvert, Charles, Montgomery, Prince George's, and St. Mary's.
 
-&emsp;&emsp;Court for the Southern Division shall be held at a suitable site in Montgomery orPrince George's County not more than five miles from the boundary of Montgomery and Prince George's Counties.
+&emsp;&emsp;Court for the Southern Division shall be held at a suitable site in Montgomery or Prince George's County not more than five miles from the boundary of Montgomery and Prince George's Counties.
 
 (June 25, 1948, ch. 646, 62 Stat. 882; Pub. L. 91–546, §4, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 100–487, §1, Oct. 14, 1988, 102 Stat. 2431.)
 

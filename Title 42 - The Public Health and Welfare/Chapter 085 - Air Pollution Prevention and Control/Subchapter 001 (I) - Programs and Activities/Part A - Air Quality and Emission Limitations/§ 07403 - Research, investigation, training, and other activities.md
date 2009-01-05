@@ -48,7 +48,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;&emsp;(A) improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
 
-&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenic and biogenic volatile organic compounds react to form ozone and other oxidants; and
+&emsp;&emsp;(B) improve the understanding of the mechanism through which anthropogenicand biogenic volatile organic compounds react to form ozone and other oxidants; and
 
 &emsp;&emsp;(C) improve the ability to identify and evaluate region-specific prevention and control options for ozone pollution.
 
@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -176,7 +176,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -294,7 +294,7 @@ Section 901(e) of Pub. L. 101–549 directed Administrator of Environmental Prot
 
 Section 901(g) of Pub. L. 101–549 provided that:
 
-“(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research andsubmit to Congress annual and periodic assessment reports on—
+“(1) The Administrator of the Environmental Protection Agency shall sponsor monitoring and research and submit to Congress annual and periodic assessment reports on—
 
 &emsp;“(A) the occurrence and effects of acid deposition on surface waters located in that part of the United States west of the Mississippi River;
 

@@ -45,6 +45,7 @@
 | [5735\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005735%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20employees%20transferring%20to%20the%20United%20States%20Postal%20Service.md) | Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service. |
 | [5736\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005736%20-%20Travel%2C%20transportation%2C%20and%20relocation%20expenses%20of%20certain%20nonappropriated%20fund%20employees.md) | Travel, transportation, and relocation expenses of certain nonappropriated fund employees. |
 | [5737\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005737%20-%20Relocation%20expenses%20of%20an%20employee%20who%20is%20performing%20an%20extended%20assignment.md) | Relocation expenses of an employee who is performing an extended assignment. |
+| [5737a.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005737a%20-%20Employees%20temporarily%20deployed%20in%20contingency%20operations.md) | Employees temporarily deployed in contingency operations. |
 | [5738\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005738%20-%20Regulations.md) | Regulations. |
 | [5739\.](Subchapter%20002%20%28II%29%20-%20Travel%20and%20Transportation%20Expenses%3B%20New%20Appointees%2C%20Student%20Trainees%2C%20and%20Transferred%20Employees/%C2%A7%2005739%20-%20Authority%20for%20relocation%20expenses%20test%20programs.md) | Authority for relocation expenses test programs. |
 
@@ -82,6 +83,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XI, §1104(b), Jan. 28, 2008, 122 Stat. 347, added item 5737a.
 
 2006—Pub. L. 109–163, div. A, title XI, §1121(b), Jan. 6, 2006, 119 Stat. 3452, added item 5760.
 

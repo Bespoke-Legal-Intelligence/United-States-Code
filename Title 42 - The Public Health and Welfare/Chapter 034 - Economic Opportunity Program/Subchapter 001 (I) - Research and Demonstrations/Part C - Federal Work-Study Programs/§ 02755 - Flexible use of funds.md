@@ -16,7 +16,35 @@
 
 An eligible institution may, upon the request of a student, make payments to the student under this part by crediting the student's account at the institution or by making a direct deposit to the student's account at a depository institution. An eligible institution may only credit the student's account at the institution for (1) tuition and fees, (2) in the case of institutionally owned housing, room and board, and (3) other institutionally provided goods and services.
 
-(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714.)
+#### (d) Flexibility in the event of a major disaster
+
+#### (1) In general
+
+&emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period of time (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students’ work-study obligations as described in paragraph (2)(A)(iii), as follows:
+
+&emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wages such students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
+
+&emsp;&emsp;(B) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under this part prior to the occurrence of the major disaster.
+
+&emsp;&emsp;(C) Any payments made to disaster-affected students under this subsection shall meet the matching requirements of section 2753 of this title, unless such matching requirements are waived by the Secretary.
+
+#### (2) Definitions
+
+&emsp;In this subsection:
+
+&emsp;&emsp;(A) The term “disaster-affected student” means a student enrolled at an eligible institution who—
+
+&emsp;&emsp;&emsp;(i) received a work-study award under this section for the academic year during which a major disaster occurred;
+
+&emsp;&emsp;&emsp;(ii) earned Federal work-study wages from such eligible institution for such academic year;
+
+&emsp;&emsp;&emsp;(iii) was prevented from fulfilling the student's work-study obligation for all or part of such academic year due to such major disaster; and
+
+&emsp;&emsp;&emsp;(iv) was unable to be reassigned to another work-study job.
+
+&emsp;&emsp;(B) The term “major disaster” has the meaning given such term in section 5122(2) of this title.
+
+(Pub. L. 89–329, title IV, §445, formerly title I, §145, as added and renumbered Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028; amended Pub. L. 99–498, title IV, §403(a), Oct. 17,1986, 100 Stat. 1435; Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714; Pub. L. 110–315, title IV, §444, Aug. 14, 2008, 122 Stat. 3259.)
 
 #### Codification
 
@@ -25,6 +53,8 @@ Section was originally enacted as section 125 of the Economic Opportunity Act of
 Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(6) of Pub. L. 89–329 has not been struck out.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–315 added subsec. (d).
 
 1998—Subsec. (c). Pub. L. 105–244 added subsec. (c).
 

@@ -54,13 +54,13 @@ The Secretary shall establish a rural electronic commerce extension program to e
 
 &emsp;The selection criteria established for grants awarded under paragraph (1)(B) shall include—
 
-&emsp;&emsp;(A) the ability of an applicant to provide training and education on best practices, technology transfer, adoption, and use of electronic commerce in rural communities by small businesses and microenterprises;
+&emsp;&emsp;(A) the ability of an applicant to provide training and education on best practices,technology transfer, adoption, and use of electronic commerce in rural communities by small businesses and microenterprises;
 
 &emsp;&emsp;(B) the extent and geographic diversity of the area served by the proposed project or activity under the extension program;
 
 &emsp;&emsp;(C) in the case of a land-grant college or university, the extent of participation of the land-grant college or university in the extension program (including any economic benefits that would result from that participation);
 
-&emsp;&emsp;(D) the percentage of funding and in-kind commitments from non-Federal sources thatwould be needed by and available for a proposed project or activity under the extension program; and
+&emsp;&emsp;(D) the percentage of funding and in-kind commitments from non-Federal sources that would be needed by and available for a proposed project or activity under the extension program; and
 
 &emsp;&emsp;(E) the extent of participation of low-income and minority businesses or microenterprises in a proposed project or activity under the extension program.
 
@@ -88,11 +88,25 @@ Not later than 2 years after May 13, 2002, the Secretary shall submit to the Com
 
 There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2007, of which not less than 1/3 of the amount made available for each fiscal year shall be used to carry out activities under subsection (c)(1)(A) of this section.
 
-(Pub. L. 101–624, title XVI, §1670, as added Pub. L. 107–171, title VI, §6202, May 13, 2002, 116 Stat. 419.)
+(Pub. L. 101–624, title XVI, §1670, as added Pub. L. 107–171, title VI, §6202, May 13, 2002, 116 Stat. 419; amended Pub. L. 110–234, title VII, §7511(c)(22), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(22), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a)(4) of this section is amended by substituting “the Director of the National Institute of Food and Agriculture” for “the Administrator of the Cooperative State Research, Education, and Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV, §407(10), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §834, Apr. 4, 1996, 110 Stat. 1169, authorized establishment of livestock product safety and inspection program, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(22) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

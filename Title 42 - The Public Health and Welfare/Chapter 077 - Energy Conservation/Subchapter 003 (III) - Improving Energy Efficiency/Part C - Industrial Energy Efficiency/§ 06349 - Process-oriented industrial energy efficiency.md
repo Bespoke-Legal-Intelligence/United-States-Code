@@ -86,7 +86,7 @@ For the purposes of this section—
 
 #### (4) Meetings
 
-&emsp;In order to further the purposes of this section, the Secretary shall convene annualmeetings of parties interested in process-oriented industrial assessments, including representatives of State government, public utility commissions, utilities, and affected process-oriented industries.
+&emsp;In order to further the purposes of this section, the Secretary shall convene annual meetings of parties interested in process-oriented industrial assessments, including representatives of State government, public utility commissions, utilities, and affected process-oriented industries.
 
 #### (d) Authorization of appropriations
 

@@ -1,8 +1,12 @@
 ### §822. Representation of Secretary in civil litigation by Solicitor of Labor
 
-Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
+Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigationbrought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
 
 (Pub. L. 91–173, title I, §112, as added Pub. L. 95–164, title II, §201, Nov. 9, 1977, 91 Stat. 1313.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the sum of the amounts excluded under section 954(b)(2) from the foreign base company income of such corporation for all prior taxable years beginning before 1987, reduced by
 
-&emsp;&emsp;(B) the sum of the amounts of previously excluded subpart F income withdrawn frominvestment in foreign base company shipping operations of such corporation determined under this subsection for all prior taxable years.
+&emsp;&emsp;(B) the sum of the amounts of previously excluded subpart F income withdrawn from investment in foreign base company shipping operations of such corporation determined under this subsection for all prior taxable years.
 
 #### (2) Decrease in qualified investments
 
@@ -38,7 +38,7 @@
 
 #### (2) Qualified investments by related persons
 
-&emsp;For purposes of determining the amount of qualified investments in foreign based company shipping operations, an investment (or a decrease in investment) in such operations by one or more controlled foreign corporations may, under regulations prescribed by the Secretary, be treated as an investment (or a decrease in investment) by another corporation which is a controlled foreign corporation and is a related person (as defined in section 954(d)(3) with respect to the corporation actually making or withdrawing the investment.
+&emsp;For purposes of determining the amount of qualified investments in foreign based company shipping operations, an investment (or a decrease in investment) in such operations by one or more controlled foreign corporationsmay, under regulations prescribed by the Secretary, be treated as an investment (or a decrease in investment) by another corporation which is a controlled foreign corporation and is a related person (as defined in section 954(d)(3) with respect to the corporation actually making or withdrawing the investment.
 
 #### (3) Special rule
 
@@ -58,7 +58,7 @@
 
 Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, and as in effect from 1962 until the repeal of that section and the enactment of this section by Pub. L. 94–12.
 
-The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. Forcomplete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
+The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
 #### Prior Provisions
 

@@ -22,7 +22,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds ofwhich, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -214,7 +214,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable undersubsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
+&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable under subsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
 
 &emsp;&emsp;&emsp;(i) as of the date on which the return of the tax imposed by this chapter is made, or
 
@@ -260,7 +260,7 @@ Subsec. (d)(4), (5). Pub. L. 101–508, §11701(<i>l</i>)(1), redesignated par. 
 
 1989—Subsec. (b)(7)(C). Pub. L. 101–239, §7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §7815(d)(4)(A), substituted “Special rule” for “Property passing outside of probate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent's probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
+Subsec. (d)(2)(B). Pub. L. 101–239, §7815(d)(4)(A), substituted “Special rule” for “Property passing outside ofprobate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent's probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
 
 Subsec. (d)(3). Pub. L. 101–239, §7815(d)(6), substituted “this chapter” for “section 2001” in subpar. (C) and inserted “and without regard to subsection (d)(3) of such section” after “first decedent died” in concluding provisions.
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out “Territory,�
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if theperson does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -382,7 +382,7 @@ Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §10
 
 &emsp;“(A) the decedent dies after December 31, 1981,
 
-&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing thatthe spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
+&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
 
 &emsp;“(C) the formula referred to in subparagraph (B) was not amended to refer specifically to an unlimited marital deduction at any time after the date which is 30 days after the date of enactment of this Act \[Aug. 13, 1981\], and before the death of the decedent, and
 

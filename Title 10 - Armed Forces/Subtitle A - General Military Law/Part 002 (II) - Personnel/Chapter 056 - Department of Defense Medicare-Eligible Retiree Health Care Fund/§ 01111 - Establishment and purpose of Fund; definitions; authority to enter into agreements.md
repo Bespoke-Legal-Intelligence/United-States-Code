@@ -1,6 +1,6 @@
 ### §1111. Establishment and purpose of Fund; definitions; authority to enter into agreements
 
-(a) There is established on the books of the Treasury a fund to be known as the Departmentof Defense Medicare-Eligible Retiree Health Care Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the uniformed services under uniformed services retiree health care programs for medicare-eligible beneficiaries.
+(a) There is established on the books of the Treasury a fund to be known as the Department of Defense Medicare-Eligible Retiree Health Care Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the uniformed services under uniformed services retiree health care programs for medicare-eligible beneficiaries.
 
 (b) In this chapter:
 
@@ -62,5 +62,5 @@ Pub. L. 107–107, div. A, title VII, §711(f), Dec. 28, 2001, 115 Stat. 1167, p
 
 #### Payment of Contributions for the Uniformed Service of the Public Health Service
 
-Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That notwithstanding any other provision of law, contributions authorized by 10 U.S.C. 1111 for the Uniformed Service of the Public Health Service shall be paid in fiscal year 2003 and thereafterfrom the Department of Health and Human Services’ Retirement Pay and Medical Benefits for Commissioned Officers account without charges billed to the Indian Health Service”.
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That notwithstanding any other provision of law, contributions authorized by 10 U.S.C. 1111 for the Uniformed Service of the Public Health Service shall be paid in fiscal year 2003 and thereafter from the Department of Health and Human Services’ Retirement Pay and Medical Benefits for Commissioned Officers account without charges billed to the Indian Health Service”.
 

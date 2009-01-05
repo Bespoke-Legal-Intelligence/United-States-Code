@@ -36,6 +36,7 @@
 | [1647\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001647%20-%20Other%20Federal%20programs.md) | Other Federal programs. |
 | [1648\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001648%20-%20Recycling%20research.md) | Recycling research. |
 | [1649\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001649%20-%20Forestry%20Student%20Grant%20Program.md) | Forestry Student Grant Program. |
+| [1649a.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001649a%20-%20Hispanic-serving%20institution%20agricultural%20land%20national%20resources%20leadership%20program.md) | Hispanic-serving institution agricultural land national resources leadership program. |
 | [1650\.](Subchapter%20002%20%28II%29%20-%20Research/%C2%A7%2001650%20-%20Hardwood%20technology%20transfer%20and%20applied%20research.md) | Hardwood technology transfer and applied research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

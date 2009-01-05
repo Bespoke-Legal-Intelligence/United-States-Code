@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
+&emsp;&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(b)(2)(A)(ii)of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death.
 
 #### (B) Transfer
 

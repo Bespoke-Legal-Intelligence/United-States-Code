@@ -68,7 +68,7 @@ Application Requirement.—An entity seeking a grant for a project under this se
 
 (f)
 
-Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant in the application for the grant agrees to each of the following requirements:
+Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant inthe application for the grant agrees to each of the following requirements:
 
 &emsp;(1) To provide the services for which the grant is made at locations accessible to homeless veterans.
 
@@ -88,7 +88,7 @@ Service Center Requirements.—In addition to criteria and requirements establis
 
 &emsp;(2) That space at such center be made available, as mutually agreeable, for use by staff of the Department of Veterans Affairs, the Department of Labor, and other appropriate agencies and organizations in assisting homeless veterans served by such center.
 
-&emsp;(3) That such center be equipped and staffed to provide or to assist in providing healthcare, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
+&emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
 
 &emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 

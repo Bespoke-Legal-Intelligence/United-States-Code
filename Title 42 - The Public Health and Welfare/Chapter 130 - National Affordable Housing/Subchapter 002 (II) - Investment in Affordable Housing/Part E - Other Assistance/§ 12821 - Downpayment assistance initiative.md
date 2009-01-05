@@ -14,7 +14,7 @@ In this section:
 
 &emsp;&emsp;(A) are identified in an appraisal or home inspection completed in conjunction with a home purchase; or
 
-&emsp;&emsp;(B) are completed within 1 year of the purchase of a home, and are necessary to bringthe housing into compliance with health and safety housing codes of the unit of general local government in which the housing is located, including the remediation of lead paint or other home health hazards.
+&emsp;&emsp;(B) are completed within 1 year of the purchase of a home, and are necessary to bring the housing into compliance with health and safety housing codes of the unit of general local government in which the housing is located, including the remediation of lead paint or other home health hazards.
 
 #### (3) Participating jurisdiction
 
@@ -64,7 +64,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the State under paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
+&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the Stateunder paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
 
 #### (B) Limitation
 
@@ -98,7 +98,7 @@ If any amounts allocated to a participating jurisdiction under this section beco
 
 &emsp;In applying the requirements of part A of this subchapter referred to in paragraph (2)—
 
-&emsp;&emsp;(A) any references to funds under part A of this subchapter shall be considered to referto amounts made available for assistance under this section; and
+&emsp;&emsp;(A) any references to funds under part A of this subchapter shall be considered to refer to amounts made available for assistance under this section; and
 
 &emsp;&emsp;(B) any references to funds allocated or reallocated under section 12747 or 12747(d) of this title shall be considered to refer to amounts allocated or reallocated under subsection (d) or (e) of this section, respectively.
 

@@ -12,7 +12,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;(2) any animal or progeny of any animal, article, or means of conveyance that is moving or is being handled, or has moved or has been handled, in interstate commerce in violation of this chapter;
 
-&emsp;(3) any animal or progeny of any animal, article, or means of conveyance that has been imported, and is moving or is being handled or has moved or has been handled, in violation of this chapter; or
+&emsp;(3) any animal or progeny of any animal, article, or means of conveyance that has beenimported, and is moving or is being handled or has moved or has been handled, in violation of this chapter; or
 
 &emsp;(4) any animal or progeny of any animal, article, or means of conveyance that the Secretary finds is not being maintained, or has not been maintained, in accordance with any post-importation quarantine, post-importation condition, post-movement quarantine, or post-movement condition in accordance with this chapter.
 
@@ -92,7 +92,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (C) Reviewability
 
-&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsection shall be final and not subject to judicial review or review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;&emsp;The determination by the Secretary of the amount to be paid under this subsection shall be final and not subject to judicial review or review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 #### (3) Exceptions
 
@@ -106,7 +106,19 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;&emsp;(D) any animal, article, facility, or means of conveyance that becomes or has become affected with or exposed to any pest or disease of livestock because of a violation of an agreement for the control and eradication of diseases or pests or a violation of this chapter by the owner.
 
-(Pub. L. 107–171, title X, §10407, May 13, 2002, 116 Stat. 498.)
+(Pub. L. 107–171, title X, §10407, May 13, 2002, 116 Stat. 498; Pub. L. 110–234, title XI, §11011(1), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(1), June 18, 2008, 122 Stat. 1664, 2121.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (d)(2)(C). Pub. L. 110–246, §11011(1), struck out “of longer than 60 days” after “or review”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

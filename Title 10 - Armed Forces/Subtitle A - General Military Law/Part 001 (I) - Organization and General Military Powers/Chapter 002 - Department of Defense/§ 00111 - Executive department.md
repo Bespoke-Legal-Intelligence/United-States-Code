@@ -28,7 +28,7 @@
 
 (c) If the President establishes or designates an office, agency, activity, or command in the Department of Defense of a kind other than those described in paragraphs (1) through (9) of subsection (b), the President shall notify Congress not later than 60 days thereafter.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §131; renumbered §111 and amendedPub. L. 99–433, title I, §101(a)(2), (b), Oct. 1, 1986, 100 Stat. 994, 995.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §131; renumbered §111 and amended Pub. L. 99–433, title I, §101(a)(2), (b), Oct. 1, 1986, 100 Stat. 994, 995.)
 
 Historical and Revision Notes
 
@@ -72,6 +72,68 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Interagency Policy Coordination
+
+Pub. L. 110–181, div. A, title IX, §952, Jan. 28, 2008, 122 Stat. 291, provided that:
+
+“(a)
+
+Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall develop and submit to Congress a plan to improve and reform the Department of Defense's participation in and contribution to the interagency coordination process on national security issues.
+
+“(b)
+
+Elements.—The elements of the plan shall include the following:
+
+&emsp;“(1) Assigning either the Under Secretary of Defense for Policy or another official to be the lead policy official for improving and reforming the interagency coordination process on national security issues for the Department of Defense, with an explanation of any decision to name an official other than the Under Secretary and the relative advantages and disadvantages of such decision.
+
+&emsp;“(2) Giving the official assigned under paragraph (1) the following responsibilities:
+
+&emsp;&emsp;“(A) To be the lead person at the Department of Defense for the development of policy affecting the national security interagency process.
+
+&emsp;&emsp;“(B) To serve, or designate a person to serve, as the representative of the Department of Defense in Federal Government forums established to address interagency policy, planning, or reforms.
+
+&emsp;&emsp;“(C) To advocate, on behalf of the Secretary, for greater interagency coordination and contributions in the execution of the National Security Strategy and particularly specific operational objectives undertaken pursuant to that strategy.
+
+&emsp;&emsp;“(D) To make recommendations to the Secretary of Defense on changes to existing Department of Defense regulations or laws to improve the interagency process.
+
+&emsp;&emsp;“(E) To serve as the coordinator for all planning and training assistance that is—
+
+&emsp;&emsp;&emsp;“(i) designed to improve the interagency process or the capabilities of other agencies to work with the Department of Defense; and
+
+&emsp;&emsp;&emsp;“(ii) provided by the Department of Defense at the request of other agencies.
+
+&emsp;&emsp;“(F) To serve as the lead official in Department of Defense for the development of deployable joint interagency task forces.
+
+“(c)
+
+Factors To Be Considered.—In drafting the plan, the Secretary of Defense shall also consider the following factors:
+
+&emsp;“(1) How the official assigned under subsection (b)(1) shall provide input to the Secretary of Defense on an ongoing basis on how to incorporate the need to coordinate with other agencies into the establishment and reform of combatant commands.
+
+&emsp;“(2) How such official shall develop and make recommendations to the Secretary of Defense on a regular or an ongoing basis on changes to military and civilian personnel to improve interagency coordination.
+
+&emsp;“(3) How such official shall work with the combatant command that has the mission for joint warfighting experimentation and other interested agencies to develop exercises to test and validate interagency planning and capabilities.
+
+&emsp;“(4) How such official shall lead, coordinate, or participate in after-action reviews of operations, tests, and exercises to capture lessons learned regarding the functioning of the interagency process and how those lessons learned will be disseminated.
+
+&emsp;“(5) The role of such official in ensuring that future defense planning guidance takes into account the capabilities and needs of other agencies.
+
+“(d)
+
+Recommendation on Changes in Law.—The Secretary of Defense may submit with the plan or with any future budget submissions recommendations for any changes to law that are required to enhance the ability of the official assigned under subsection (b)(1) in the Department of Defense to coordinate defense interagency efforts or to improve the ability of the Department of Defense to work with other agencies.
+
+“(e)
+
+Annual Report.—If an official is named by the Secretary of Defense under subsection (b)(1), the official shall annually submit to Congress a report, beginning in the fiscal year following the naming of the official, on those actions taken by the Department of Defense to enhance national security interagency coordination, the views of the Department of Defense on efforts and challenges in improving the ability of agencies to work together, and suggestions on changes needed to laws or regulations that would enhance the coordination of efforts of agencies.
+
+“(f)
+
+Definition.—In this section, the term ‘interagency coordination’, within the context of Department of Defense involvement, means the coordination that occurs between elements of the Department of Defense and engaged Federal Government agencies for the purpose of achieving an objective.
+
+“(g)
+
+Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section.”
+
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
 Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
@@ -110,7 +172,7 @@ Pub. L. 105–85, div. A, title X, §1081, Nov. 18, 1997, 111 Stat. 1916, provid
 
 “(a)
 
-Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission orpanel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
+Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission or panel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
 
 “(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
 
@@ -180,7 +242,7 @@ Pub. L. 101–510, div. A, title XIII, §1321, Nov. 5, 1990, 104 Stat. 1670, pro
 
 #### Restoration of Certain Reporting Requirements of Title 10 Terminated by Goldwater-Nichols Act
 
-Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated bysection 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
+Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, restored effectiveness of following report and notification provisions previously terminated by section 602(c) of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, formerly set out below: (1) the quarterly report required by section 127(c) of this title relating to emergency and extraordinary expenses, (2) the notifications required by section 2672a(b) of this title relating to urgent acquisitions of interests in land, (3) the notifications required by section 7308(c) of this title relating to the transfer or gift of obsolete, condemned, or captured vessels, and (4) the notifications required by section 7309(b) of this title relating to construction or repair of vessels in foreign shipyards.
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 
@@ -190,7 +252,7 @@ Section 3 of Pub. L. 99–433 provided that: “In enacting this Act \[see Short
 
 &emsp;“(2) to improve the military advice provided to the President, the National Security Council, and the Secretary of Defense;
 
-&emsp;“(3) to place clear responsibility on the commanders of the unified and specified combatant commands for the accomplishment of missions assigned to those commands;
+&emsp;“(3) to place clear responsibility on the commanders of the unified and specified combatant commandsfor the accomplishment of missions assigned to those commands;
 
 &emsp;“(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility of those commanders for the accomplishment of missions assigned to their commands;
 
@@ -264,7 +326,7 @@ I74Section 1. Transfers of Functions
 
 #### Sec. 6. Miscellaneous Provisions
 
-(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defense of any of the records, property, and personnel affected by this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
+(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defenseof any of the records, property, and personnel affected by this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
 
 (b) Nothing herein shall affect the compensation of the Chairman of the Military Liaison Committee (63 Stat. 762).
 

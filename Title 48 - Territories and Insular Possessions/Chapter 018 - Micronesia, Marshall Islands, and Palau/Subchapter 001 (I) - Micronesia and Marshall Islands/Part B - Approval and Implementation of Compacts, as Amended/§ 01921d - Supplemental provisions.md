@@ -6,13 +6,13 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 #### (b) Relations with the Federated States of Micronesia and the Republic of the Marshall Islands
 
-(1) Appropriations made pursuant to Article I of Title Two and subsection (a)(2) of section 221 of article II of Title Two of the U.S.-FSM Compact and the U.S.-RMI Compact shall be made to the Secretary of the Interior, who shall have the authority necessary to fulfill his responsibilities for monitoring and managing the funds so appropriated consistent with the U.S.-FSM Compact and the U.S.-RMI Compact, including the agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and U.S.-RMI Compact (relating to Fiscal Procedures) and the agreements referred to in section 462(b)(5) of the U.S.-FSM Compact and the U.S.-RMI Compact (regarding the Trust Fund).
+(1) Appropriations made pursuant to Article I of Title Two and subsection (a)(2) of section 221 of article II of Title Two of the U.S.-FSM Compact and the U.S.-RMI Compact shall be made to the Secretary of the Interior, who shall have the authority necessary to fulfill his responsibilities for monitoring and managing the funds so appropriated consistent with the U.S.-FSM Compact and the U.S.-RMI Compact, including the agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and U.S.-RMI Compact (relating to Fiscal Procedures) and the agreements referred to in section 462(b)(5) of the U.S.-FSM Compact and the U.S.-RMI Compact (regarding the Trust Funds).
 
 (2) Appropriations made pursuant to subsections (a)(1) and (a)(3) through (6) of section 221 of Article II of Title Two of the U.S.-FSM Compact and subsection (a)(1) and (a)(3) through (5) of the U.S.-RMI Compact shall be made directly to the agencies named in those subsections.
 
 (3) Appropriations for services and programs referred to in subsection (b) of section 221 of Article II of Title Two of the U.S.-FSM Compact or U.S.-RMI Compact and appropriations for services and programs referred to in subsection (f) of this section and section 1921g(a) of this title shall be made to the relevant agencies in accordance with the terms of the appropriations for such services and programs.
 
-(4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programsand services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
+(4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
 (5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
 
@@ -70,7 +70,7 @@ Oversight and coordination.—It is the sense of Congress that the Secretary of 
 
 (9) The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact and referred to in section 462(b)(5) of the U.S.-FSM Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact and referred to in section 462(b)(5) of the U.S.-RMI Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. It is the sense of Congress that the appointees should be designated from the Department of State, the Department of the Interior, and the Department of the Treasury.
 
-(10) The Trust Fund Committee provided for in Article 7 of the U.S.-FSM Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact shall be a nonprofit corporation incorporated under the laws of the District of Columbia. To the extent that any law, rule, regulation or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Trust Fund Committee is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Trust Fund Committee pursuant to this joint resolution, such law, rule, regulation, or ordinance shall be deemed to be preempted bythis joint resolution. The Trust Fund Committee provided for in Article 7 of the U.S.-RMI Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact shall be a non-profit corporation incorporated under the laws of the District of Columbia. To the extent that any law, rule, regulation or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Trust Fund Committee is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Trust Fund Committee pursuant to this joint resolution, such law, rule, regulation, or ordinance shall be deemed to be preempted by this joint resolution.
+(10) The Trust Fund Committee provided for in Article 7 of the U.S.-FSM Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact shall be a nonprofit corporation incorporated under the laws of the District of Columbia. To the extent that any law, rule, regulation or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Trust Fund Committee is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Trust Fund Committee pursuant to this joint resolution, such law, rule, regulation, or ordinance shall be deemed to be preempted by this joint resolution. The Trust Fund Committee provided for in Article 7 of the U.S.-RMI Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact shall be a non-profit corporation incorporated under the laws of the District of Columbia. To the extent that any law, rule, regulation or ordinance of the District of Columbia, or of any State or political subdivision thereof in which the Trust Fund Committee is incorporated or doing business, impedes or otherwise interferes with the performance of the functions of the Trust Fund Committee pursuant to this joint resolution, such law, rule, regulation, or ordinance shall be deemed to be preempted by this joint resolution.
 
 #### (c) Continuing Trust Territory authorization
 
@@ -94,21 +94,15 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;In addition to the programs and services set forth in section 221 of the Compact, and pursuant to section 222 of the Compact, the programs and services of the following agencies shall be made available to the Federated States of Micronesia and to the Republic of the Marshall Islands:
 
-#### (A) Continuation of the programs and services of the Federal Emergency Management Agency
+#### (A) Emergency and disaster assistance
 
-&emsp;&emsp;Except as provided in clauses (ii) and (iii), the programs and services of the Department of Homeland Security, Federal Emergency Management Agency shall continue to be available to the Federated States of Micronesia and the Republic of the Marshall Islands to the same extent as such programs and services were available in fiscal year 2003.
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) Paragraph (a)(6) of section 221 of the U.S.-FSM Compact and paragraph (a)(5) of the U.S.-RMI Compact shall each be construed as though the paragraph reads as follows: “the Department of Homeland Security, United States Federal Emergency Management Agency.”.
+&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively, provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term “United States Agency for International Development, Office of Foreign Disaster Assistance” shall be construed to mean “the United States Agency for International Development”.
 
-&emsp;&emsp;&emsp;(ii) Subsection (d) of section 211 of the U.S.-FSM Compact and subsection (e) of section 211 of the U.S.-RMI Compact shall each be construed as though the subsection reads as follows: “Not more than $200,000 (as adjusted for inflation pursuant to section 217 of the U.S.-FSM Compact and section 218 of the U.S.-RMI Compact) shall be made available by the Secretary of the Interior to the Department of Homeland Security, Federal Emergency Management Agency to facilitate the activities of the Federal Emergency Management Agency in accordance with and to the extent provided in the Federal Programs and Services Agreement.”.
+#### (ii) Definition of will provide funding
 
-&emsp;&emsp;&emsp;(iii) The Secretary of State, in consultation with the Department of Homeland Security and the Federal Emergency Management Agency, shall immediately undertake negotiations with the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands regarding disaster assistance and shall report to the appropriate committees of Congress no later than June 30, 2004, on the outcome of such negotiations, including recommendations for changes to law regarding disaster assistance under the U.S.-FSM Compact and the U.S.-RMI Compact, and including subsidiary agreements as needed to implement such changes to law. If an agreement is not concluded, and legislation enactedwhich reflects such agreement, before the date which is five years after December 17, 2003, the following provisions shall apply:
-
-&emsp;&emsp;&emsp;“Paragraph (a)(6) of section 221 of the U.S.-FSM Compact and paragraph (a)(5) of section 221 of the U.S.-RMI Compact shall each be construed and applied as if each provision reads as follows:
-
-&emsp;&emsp;&emsp;“The U.S. Agency for International Development shall be responsible for the provision of emergency and disaster relief assistance in accordance with its statutory authorities, regulations and policies. The Republic of the Marshall Islands and the Federated States of Micronesia may additionally request that the President make an emergency or major disaster declaration. If the President declares an emergency or major disaster, the Department of Homeland Security (DHS), the Federal Emergency Management Agency (FEMA) and the U.S. Agency for International Development shall jointly (a) assess the damage caused by the emergency or disaster and (b) prepare a reconstruction plan including an estimate of the total amount of Federal resources that are needed for reconstruction. Pursuant to an interagency agreement, FEMA shall transfer funds from the Disaster Relief Fund in the amount of the estimate, together with an amount to be determined for administrative expenses, to the U.S. Agency for International Development, which shall carry out reconstruction activities in the Republic of the Marshall Islands and the Federated States of Micronesia in accordance with the reconstruction plan. For purposes of Disaster Relief Fund appropriations, the funding of the activities to be carried out pursuant to this paragraph shall be deemed to be necessary expenses in carrying out the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
-
-&emsp;&emsp;&emsp;“DHS may provide to the Republic of the Marshall Islands and the Federated States of Micronesia preparedness grants to the extent that such assistance is available to the States of the United States. Funding for this assistance may be made available from appropriations made to DHS for preparedness activities.”.
+&emsp;&emsp;&emsp;In the second sentence of paragraph 12 of each of the Agreements described in clause (i), the term “will provide funding” means will provide funding through a transfer of funds using Standard Form 1151 or a similar document or through an interagency, reimbursable agreement.
 
 #### (B) Treatment of additional programs
 
@@ -122,7 +116,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;&emsp;(I) shall continue to make available to the Federated States of Micronesia and the Republic of the Marshall Islands for fiscal years 2004 through 2023, the services to individuals eligible for such services under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to the extent that such services continue to be available to individuals in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall continue to make available to eligible institutions in the Federated States of Micronesia and the Republic of the Marshall Islands, and to students enrolled in such institutions, and in institutions in the United States and its territories, for fiscal years 2004 through 2023, grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et seq.) to the extent that such grants continue to be available to institutions and students in the United States.
+&emsp;&emsp;&emsp;&emsp;(II) shall continue to make available to eligible institutions in the Federated States of Micronesia and the Republic of the Marshall Islands, and to students enrolled in such institutions, and in institutions in the United States, its territories, and the Republic of Palau, for fiscal years 2004 through 2023, grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et seq.) to the extent that such grants continue to be available to institutions and students in the United States.
 
 #### (iii) Supplemental education grants
 
@@ -132,11 +126,11 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;&emsp;(II) $6,100,000 for the Republic of the Marshall Islands for fiscal year 2005 and an equivalent amount, as adjusted for inflation under section 218 of the U.S.-RMI Compact, for each of fiscal years 2005 through 2023,
 
-&emsp;&emsp;&nbsp;except that citizens of the Federated States of Micronesia and the Republic of the Marshall Islands who attend an institution of higher education in the United States or its territories, the Federated States of Micronesia, or the Republic of the Marshall Islands on December 17, 2003, may continue to receive assistance under such subpart 3 of part A or part C, for not more than 4 academic years after such date to enable such citizens to complete their program of study.
+&emsp;&emsp;&nbsp;except that citizens of the Federated States of Micronesia and the Republic of the Marshall Islands who attend an institution of higher education in the United States or its territories, the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau on December 17, 2003, may continue to receive assistance under such subpart 3 of part A or part C, for not more than 4 academic years after such date to enable such citizens to complete their program of study.
 
 #### (iv) Fiscal procedures
 
-&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
+&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to insection 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
 
 #### (v) Formula education grants
 
@@ -158,7 +152,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;&emsp;The government, institutions, and people of Palau shall remain eligible for appropriations and to receive grants under the provisions of law specified in clauses (ii) and (iii) until the end of fiscal year 2009, to the extent the government, institutions, and people of Palau were so eligible under such provisions in fiscal year 2003.
 
-&emsp;&emsp;(C) The Legal Services Corporation.
+&emsp;&emsp;(C) The Legal Services Corporation, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions).
 
 &emsp;&emsp;(D) The Public Health Service.
 
@@ -236,7 +230,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(<i>l</i>), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121.)
+(Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(<i>l</i>), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871.)
 
 #### References in Text
 
@@ -247,8 +241,6 @@ Section 3927 of title 22, referred to in subsec. (b)(5), was in the original “
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
 The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
-
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -266,11 +258,23 @@ The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 8
 
 #### Amendments
 
+2008—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted “Trust Funds)” for “Trust Fund)”.
+
+Subsec. (f)(1)(A). Pub. L. 110–229, §803(a), amended subpar. (A) generally. Prior to amendment, subpar. (A)related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
+
+Subsec. (f)(1)(B)(ii)(II). Pub. L. 110–229, §804(1), substituted “, its territories, and the Republic of Palau” for “and its territories”.
+
+Subsec. (f)(1)(B)(iii). Pub. L. 110–229, §804(2), which directed the substitution of “, the Republic of the Marshall Islands, or the Republic of Palau” for “, or the Republic of the Marshall Islands”, in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
+
+Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution of “government, institutions, and people” for “Republic” in two places and substitution of “2009” for “2007” and “were” for “was”, could not be executed because of the prior identical amendments by Pub. L. 110–161. See 2007 Amendment note below.
+
+Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end “, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)”.
+
 2007—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted “government, institutions, and people” for “Republic” in two places, “2009” for “2007”, and “were” for “was”.
 
 2006—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-#### Transfer of Functions
+#### Effective Date of 2008 Amendment
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
 

@@ -2,7 +2,7 @@
 
 #### (a) Deferred annuity
 
-A participant who separates from the Agency may, upon separation or at any time before thecommencement of an annuity under this subchapter, elect—
+A participant who separates from the Agency may, upon separation or at any time before the commencement of an annuity under this subchapter, elect—
 
 &emsp;(1) to have the participant's contributions to the fund returned to the participant in accordance with section 2071(a) of this title; or
 
@@ -16,11 +16,11 @@ If a participant who qualifies under subsection (a) of this section to receive a
 
 #### Prior Provisions
 
-A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048; Pub. L. 97–269, title VI, §608, Sept. 27, 1982, 96 Stat. 1152; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to discontinued service benefits and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048; Pub. L. 97–269, title VI, §608, Sept. 27, 1982, 96 Stat. 1152; Pub. L. 99–335, title V, §501(2), June6, 1986, 100 Stat. 622, related to discontinued service benefits and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
-1993—Subsec. (b). Pub. L. 103–178 substituted “section 2071” for “sections 2071 and 2121”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–178 substituted “section 2071” for “sections 2071 and 2121”.
 
 #### Effective Date of 1993 Amendment
 

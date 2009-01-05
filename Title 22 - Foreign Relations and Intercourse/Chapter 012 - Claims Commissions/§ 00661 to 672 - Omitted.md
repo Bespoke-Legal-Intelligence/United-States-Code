@@ -4,7 +4,7 @@
 
 Sections 661 to 672, which established the American Mexican Claims Commission in 1942 for the settlement of certain claims, expired pursuant to the provisions of section 661(d), which provided that the authority of the Commission shall terminate at the expiration of four years after the date on which a majority of its members first appointed took office.
 
-Section 661, acts Dec. 18, 1942, ch. 766, §2, 56 Stat. 1058; Apr. 3, 1945, ch. 52, §5, 59 Stat. 50; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972, established American Mexican Claims Commission, prescribed its composition, provided for compensation of its members, and specified its termination date. Acts Dec. 18, 1942, ch. 766, §2, 56 Stat. 1058; Apr. 3, 1945, ch. 52, §5, 59 Stat. 50,were subsequently repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 651, 652.
+Section 661, acts Dec. 18, 1942, ch. 766, §2, 56 Stat. 1058; Apr. 3, 1945, ch. 52, §5, 59 Stat. 50; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972, established American Mexican Claims Commission, prescribed its composition, provided for compensation of its members, and specified its termination date. Acts Dec. 18, 1942, ch. 766, §2, 56 Stat. 1058; Apr. 3, 1945, ch. 52, §5, 59 Stat. 50, were subsequently repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 651, 652.
 
 Section 662, acts Dec. 18, 1942, ch. 766, §3, 56 Stat. 1058; Mar. 28, 1947, ch. 23, 61 Stat. 24, related to jurisdiction of Commission and to presentation of claims.
 

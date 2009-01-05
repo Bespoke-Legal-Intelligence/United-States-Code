@@ -6,7 +6,7 @@ The Secretary shall provide leadership within the Executive branch for, and assu
 
 #### (b) Duties
 
-The working group shall establish policy for, coordinate, make recommendations with respect to, and evaluate the performance of, all Federal rural development efforts.
+The working group shall establish policy for, coordinate, make recommendations with respectto, and evaluate the performance of, all Federal rural development efforts.
 
 (Pub. L. 87–128, title III, §381L, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1146.)
 

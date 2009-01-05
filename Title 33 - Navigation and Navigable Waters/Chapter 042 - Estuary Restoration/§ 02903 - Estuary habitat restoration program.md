@@ -52,7 +52,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
-&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technology or approach having the potential for improved cost-effectiveness in estuary habitat restoration.
+&emsp;&emsp;(B) the project includes pilot testing of or a demonstration of an innovative technologyor approach having the potential for improved cost-effectiveness in estuary habitat restoration.
 
 #### (d) Cost sharing
 

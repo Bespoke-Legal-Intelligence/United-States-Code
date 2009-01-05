@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) after the close of the testing period and before the date of issuance of the issue, the utility owned by a governmental unit enters into a contract to supply natural gas (other than for resale) for a business use at a property within the service area of such utility, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the utility did not supply natural gas to such property during the testing period or the ratable amount of natural gas to be supplied under the contract is significantly greater than the ratable amount of gas supplied to such property during the testing period,
+&emsp;&emsp;&emsp;&emsp;(II) the utility did not supply natural gas to such property during the testing period or the ratable amount of natural gas to be supplied under the contract is significantly greater than the ratableamount of gas supplied to such property during the testing period,
 
 &emsp;&emsp;&nbsp;then a contract shall not fail to be treated as a qualified natural gas supply contract by reason of supplying the additional natural gas under the contract referred to in subclause (I).
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an electric utility, electricity distribution services,
 
-&emsp;&emsp;&emsp;(ii) any area within a county contiguous to the area described in clause (i) in whichretail customers of such utility are located if such area is not also served by another utility providing natural gas or electricity services, as the case may be, and
+&emsp;&emsp;&emsp;(ii) any area within a county contiguous to the area described in clause (i) in which retail customers of such utility are located if such area is not also served by another utility providing natural gas or electricity services, as the case may be, and
 
 &emsp;&emsp;&emsp;(iii) any area recognized as the service area of such utility under State or Federal law.
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely by reason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
+&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely byreason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
@@ -192,7 +192,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (3) Due date of payments under paragraph (2)
 
-&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe)shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
+&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
 
 #### (4) Special rules for applying paragraph (2)
 
@@ -434,7 +434,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (iii) Certain refunding bonds not taken into account in determining small issuer status
 
-&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
+&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amountof the refunding bond does not exceed the outstanding amount of the refunded bond.
 
 #### (iv) Certain issues issued by subordinate governmental units, etc., exempt from rebate requirement
 

@@ -18,7 +18,7 @@ The minimum standards of character that are to be prescribed under this section 
 
 Each Indian tribe or tribal organization that receives funds under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] or the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\] shall—
 
-&emsp;(1) conduct an investigation of the character of each individual who is employed, or is beingconsidered for employment, by such tribe or tribal organization in a position that involves regular contact with, or control over, Indian children, and
+&emsp;(1) conduct an investigation of the character of each individual who is employed, or is being considered for employment, by such tribe or tribal organization in a position that involves regular contact with, or control over, Indian children, and
 
 &emsp;(2) employ individuals in those positions only if the individuals meet standards of character, no less stringent than those prescribed under subsection (a) of this section, as the Indian tribe or tribal organization shall establish.
 

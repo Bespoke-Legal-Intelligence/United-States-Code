@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Labor shall establish a program to award competitive grants for educationand training, to be known as Brookwood-Sago Mine Safety Grants, to carry out the purposes of this section.
+The Secretary of Labor shall establish a program to award competitive grants for education and training, to be known as Brookwood-Sago Mine Safety Grants, to carry out the purposes of this section.
 
 #### (b) Purposes
 
@@ -36,7 +36,7 @@ Amounts received under a grant under this section shall be used to establish and
 
 #### (f) Evaluation
 
-The Secretary of Labor shall use not less than 1 percent of the funds made available to carry out this section in a fiscal year to conduct evaluations of the projects funded under grants under this section.
+The Secretary of Labor shall use not less than 1 percent of the funds made available to carryout this section in a fiscal year to conduct evaluations of the projects funded under grants under this section.
 
 #### (g) Authorization of appropriations
 

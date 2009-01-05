@@ -36,7 +36,7 @@
 
 #### (3) Review
 
-&emsp;Procurements made under the authority of this subsection shall be subject to review by a designated supervisor on not less than a monthly basis. The supervisor responsible for the review shall be responsible for no more than 7 employees making procurements under this subsection.
+&emsp;Procurements made under the authority of this subsection shall be subject to review by adesignated supervisor on not less than a monthly basis. The supervisor responsible for the review shall be responsible for no more than 7 employees making procurements under this subsection.
 
 #### (c) Simplified acquisition procedures
 
@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a) of this section, the Secretarymay deem any item or service to be a commercial item for the purpose of Federal procurement laws.
+&emsp;With respect to a procurement described in subsection (a) of this section, the Secretary may deem any item or service to be a commercial item for the purpose of Federal procurement laws.
 
 #### (2) Limitation
 

@@ -30,7 +30,7 @@
 
 &emsp;(B) his existing rate of basic pay, if that rate is the higher.
 
-> If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (orsimilar provision of law) are considered to be basic pay in applying this subsection.
+> If an employee's rate after promotion or transfer is greater than the maximum rate of basic pay for the employee's grade, that rate shall be treated as a retained rate under section 5363. The Office of Personnel Management shall prescribe by regulation the circumstances under which and the extent to which special rates under section 5305 (or similar provision of law) or locality-adjusted rates under section 5304 (or similar provision of law) are considered to be basic pay in applying this subsection.
 
 (c) An employee in the legislative branch who is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, and who has completed two or more years of service as such an employee, and a Member of the Senate or House of Representatives who has completed two or more years of service as such a Member, may, on appointment to a position to which this subchapter applies, have his initial rate of pay fixed—
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) at a step of the appropriate grade that does not exceed the highest previous rate of pay received by him during that service in the legislative branch.
 
-(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
+(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay isincreased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
 
 (e) An employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) may, on appointment to a position subject to this subchapter, have the initial rate of basic pay of the employee fixed at—
 
@@ -48,7 +48,15 @@
 
 &emsp;(3) the lowest step of the Federal grade for which the rate of basic pay is equal to or greater than the highest previous rate of pay of the employee, if the Federal Civil Service position under this subchapter is at a lower grade than the last grade the employee had while an employee of the county committee.
 
-(f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
+(f)(1) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed—
+
+&emsp;(A) if the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c) is equal to a rate of the appropriate grade, such rate of the appropriate grade;
+
+&emsp;(B) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) is between two rates of the appropriate grade, the higher of those two rates; or
+
+&emsp;(C) if the employee's highest previous rate of basic pay (as described in subparagraph (A)) exceeds the maximum rate of the appropriate grade, the maximum rate of the appropriate grade.
+
+(2) In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
 (g) In the case of an employee who—
 
@@ -62,7 +70,7 @@
 
 &emsp;(B) then, by applying the provisions of this section that would otherwise apply (if any), treating the rate determined under subparagraph (A) as if it were the rate last received by the employee before the rate adjustment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515; Pub. L. 108–178, §4(a), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 108–411, title III, §301(a)(3), Oct. 30, 2004, 118 Stat. 2315; Pub. L. 110–181, div. A, title XI, §1114, Jan. 28, 2008, 122 Stat. 360.)
 
 Historical and Revision Notes
 
@@ -104,11 +112,13 @@ July 17, 1959, Pub. L. 86–91. §9, 73 Stat. 216.
 
 In subsection (b), the words “under any provision of law” are omitted from the second sentence as unnecessary.
 
-In subsection (e), the words “as defined by section 901 of title 20” are added on authority of former section2351, which section is scheduled for transfer to section 901 of title 20.
+In subsection (e), the words “as defined by section 901 of title 20” are added on authority of former section 2351, which section is scheduled for transfer to section 901 of title 20.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted “does not exceed—” for “does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).”, added subpars. (A) to (C), and designated second sentence as par. (2).
 
 2004—Subsec. (b). Pub. L. 108–411, §301(a)(3)(A), inserted concluding provisions.
 
@@ -188,7 +198,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions beforesuch day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 

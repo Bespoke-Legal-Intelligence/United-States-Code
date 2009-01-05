@@ -26,7 +26,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 #### (1) In general
 
-&emsp;The Director shall assist the Council in developing a departmental and agency-specific environmental quality policy statement and implementation plan and an annual agricultural environmental quality report, as specified in section 5403 of this title. The Director shall coordinate and monitor the activities of the Department regarding initiatives and programs related to environmental quality and the interpretation of departmental policies affecting environmental quality. The Director shall serve as a member of the Council and as its Executive Director.
+&emsp;The Director shall assist the Council in developing a departmental and agency-specific environmental quality policy statement and implementation plan and an annual agricultural environmental quality report, as specified in section 5403 of this title. The Director shall coordinate and monitor the activities of the Department regarding initiatives and programs related to environmental quality andthe interpretation of departmental policies affecting environmental quality. The Director shall serve as a member of the Council and as its Executive Director.
 
 #### (2) Additional duties
 
@@ -36,7 +36,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 &emsp;&emsp;(B) providing advice to the Council on the development, implementation, and review of activities of agencies of the Department to ensure consistency with the Department's environmental protection goals;
 
-&emsp;&emsp;(C) coordinating environmental policy within the Department through the programmanagers, and between the Department and other Federal agencies, regional authorities, State and local governments, land-grant and other colleges and universities, and nonprofit and commercial organizations, regarding programs and actions relating to environmental quality;
+&emsp;&emsp;(C) coordinating environmental policy within the Department through the program managers, and between the Department and other Federal agencies, regional authorities, State and local governments, land-grant and other colleges and universities, and nonprofit and commercial organizations, regarding programs and actions relating to environmental quality;
 
 &emsp;&emsp;(D) serving as a coordinator for the Department's data, information, programs, and initiatives dealing with environmental quality;
 

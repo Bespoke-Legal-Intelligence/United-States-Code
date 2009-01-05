@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Notwithstanding any other provision of this chapter, the Secretary, on terms the Secretary may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation that aids in financing or refinancing (including reimbursement of an obligor for expenditures previously made for) a contract for the construction or reconstruction of a vessel if—
+General Authority.—Notwithstanding any other provision of this chapter, the Secretary or Administrator, on terms the Secretary or Administrator may prescribe, may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation that aids in financing or refinancing (including reimbursement of an obligor for expenditures previously made for) a contract for the construction or reconstruction of a vessel if—
 
 &emsp;(1) the vessel is designed and to be used for commercial use in coastwise, intercoastal, or foreign trade;
 
@@ -12,11 +12,11 @@ General Authority.—Notwithstanding any other provision of this chapter, the Se
 
 &emsp;(4) the capacity of the vessels to be constructed or reconstructed under this section will not increase the cargo carrying capacity of the vessels being replaced;
 
-&emsp;(5) the Secretary has not determined that the market demand for the vessel over its useful life will diminish so as to make granting the guarantee fiduciarily imprudent;
+&emsp;(5) the Secretary or Administrator has not determined that the market demand for the vessel over its useful life will diminish so as to make granting the guarantee fiduciarily imprudent;
 
 &emsp;(6) the vessel, if to be reconstructed, will have a useful life of at least 15 years after the reconstruction; and
 
-&emsp;(7) the Secretary has considered the criteria specified in section 53708(a)(3)–(5) of this title.
+&emsp;(7) the Secretary or Administrator has considered the criteria specified in section 53708(a)(3)–(5) of this title.
 
 (b)
 
@@ -28,7 +28,7 @@ Term.—The term of an obligation guaranteed under this section may not exceed 2
 
 &emsp;(2)
 
-Amount.—The amount of an obligation guaranteed under this section may not exceed 87.5 percent of the actual cost or depreciated actual cost to the applicant for the construction or reconstruction of the vessel. The Secretary may not establish a percentage under this paragraph that is to be applied uniformly to all guarantees or commitments to guarantee made under this section.
+Amount.—The amount of an obligation guaranteed under this section may not exceed 87.5 percent of the actual cost or depreciated actual cost to the applicant for the construction or reconstruction of the vessel. The Secretary or Administrator may not establish a percentage under this paragraph that is to be applied uniformly to all guarantees or commitments to guarantee made under this section.
 
 (c)
 
@@ -36,21 +36,17 @@ Applicability of Other Provisions.—A guarantee or commitment to guarantee unde
 
 (d)
 
-Security Against Default.—The Secretary shall require by regulation that an applicant under this section provide adequate security against default.
+Security Against Default.—The Secretary or Administrator shall require by regulation that an applicant under this section provide adequate security against default.
 
 (e)
 
-Guarantee Fees.—The Secretary may establish a fee for the guarantee of an obligation under this section that is in addition to the fee established under section 53714 of this title. The fee may be—
+Guarantee Fees.—The Secretary or Administrator may establish a fee for the guarantee of an obligation under this section that is in addition to the fee established under section 53714 of this title. The fee may be—
 
 &emsp;(1) an annual fee of not more than an additional 1 percent added to the fee established under section 53714 of this title; or
 
 &emsp;(2) a fee based on the amount of the obligation versus the percentage of the obligor's fleet being replaced by vessels constructed or reconstructed under this section.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1624; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(E), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived from section 1274a of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(E), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1274a of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1624; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(E), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -89,4 +85,12 @@ In subsection (a), in paragraph (1), the words “as defined in section 1244 of 
 In subsection (b)(2), the words “by rule, regulation, or procedure” are omitted as unnecessary and for consistency with section 53709(d) of the revised title.
 
 In subsections (c) and (e), the language concerning the Vessel Replacement Guarantee Fund and the Federal Ship Financing Fund is omitted as obsolete. See the explanation for section 53717.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(E). See 2006 Amendment note below.
+
+Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(E), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(E), which directed the amendment of section 1274a of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

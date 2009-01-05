@@ -82,7 +82,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 (4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
 
-&emsp;(A) A description of the measures taken, or planned to be taken, to implement the healthresources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
+&emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
 &emsp;(B) A description of the use of the waiver authority provided by section 722(d)(1) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including—
 
@@ -114,7 +114,7 @@ Definitions.—For the purposes of this section:
 
 #### References in Text
 
-The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
+The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under thissection. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -202,7 +202,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1983—Subsec. (f). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
 
-1982—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
+1982—Pub. L. 97–174, §3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defensehealth-care resources” for “Use of Armed Forces facilities” in section catchline.
 
 Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
 
@@ -211,6 +211,28 @@ Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: “The amendments made by this section \[amending this section and section 1104 of Title 10, Armed Forces\] shall take effect on October 1, 2003.”
+
+#### Guidelines for Combined Medical Facilities of the Department of Defense and the Department of Veterans Affairs
+
+Pub. L. 110–417, \[div. A\], title VII, §706, Oct. 14, 2008, 122 Stat. 4500, provided that: “Before a facility may be designated a combined Federal medical facility of the Department of Defense and the Department of Veterans Affairs, the Secretary of Defense and the Secretary of Veterans Affairs shall execute a signed agreement that specifies, at a minimum, a binding operational agreement on the following areas:
+
+&emsp;“(1) Governance.
+
+&emsp;“(2) Patient priority categories.
+
+&emsp;“(3) Budgeting.
+
+&emsp;“(4) Staffing and training.
+
+&emsp;“(5) Construction.
+
+&emsp;“(6) Physical plant management.
+
+&emsp;“(7) Contingency planning.
+
+&emsp;“(8) Quality assurance.
+
+&emsp;“(9) Information technology.”
 
 #### Consideration of Combination of Military Medical Treatment Facilities and Health Care Facilities of Department of Veterans Affairs
 
@@ -390,7 +412,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 “(a)
 
-Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Departmentof Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
+Authority.—The Secretary of Veterans Affairs may enter into an agreement with the Secretary of Defense under this section to expand the availability of health-care sharing arrangements with the Department of Defense under section 8111(c) of title 38, United States Code. Under such an agreement—
 
 &emsp;“(1) the head of a Department of Veterans Affairs medical facility may enter into agreements under section 8111(d) of that title with (A) the head of a Department of Defense medical facility, (B) with any other official of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility, or (C) with a contractor of the Department of Defense responsible for the provision of care under chapter 55 of title 10, United States Code, to persons who are covered beneficiaries under that chapter, in the region of the Department of Veterans Affairs medical facility; and
 
@@ -448,7 +470,7 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 “(a)
 
-Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
+Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnishedby a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
 
 “(b)
 

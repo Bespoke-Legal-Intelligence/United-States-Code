@@ -2,7 +2,7 @@
 
 #### (a) Prohibitions on assistance to countries involved in transfer of nuclear reprocessing equipment, materials, or technology; exceptions; procedures applicable
 
-(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
+(1) Except as provided in paragraph (2) of this subsection, no funds made available to carry out the Foreign Assistance Act of 1961 \[22 U.S.C. 2151et seq.\] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act \[22 U.S.C. 2348 et seq.\], or extending military credits or making guarantees, to any country which the President determines—
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(iii) to any credit, credit guarantee, or financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity.
 
-&emsp;(E) The United States Government shall oppose, in accordance with section 262d of this title, the extension of any loan or financial or technical assistance to that country by any international financial institution.
+&emsp;(E) The United States Government shall oppose, in accordance with section 262d of thistitle, the extension of any loan or financial or technical assistance to that country by any international financial institution.
 
 &emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
@@ -86,7 +86,7 @@
 
 #### (c) “Non-nuclear-weapon state” defined
 
-As used in this section, the term “non-nuclear-weapon state” means any country whichis not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
+As used in this section, the term “non-nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
 (Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
 
@@ -121,6 +121,108 @@ Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: “The a
 #### Delegation of Functions
 
 Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+
+#### Waiver of Certain Sanctions Against North Korea
+
+Pub. L. 110–252, title I, §1405, June 30, 2008, 122 Stat. 2337, provided that:
+
+“(a)
+
+Waiver Authority.—
+
+&emsp;“(1)
+
+In general.—Except as provided in subsection (b), the President may waive in whole or in part, with respect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export Control Act (22 U.S.C. 2799aa–1(b)\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
+
+&emsp;&emsp;“(A) the implementation and verification of the compliance by North Korea with its commitment, undertaken in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula; and
+
+&emsp;&emsp;“(B) the elimination of the capability of North Korea to develop, deploy, transfer, or maintain weapons of mass destruction and their delivery systems.
+
+&emsp;“(2)
+
+Limitation.—The authority under paragraph (1) shall expire 5 years after the date of enactment of this Act \[June 30, 2008\].
+
+“(b)
+
+Exceptions.—
+
+&emsp;“(1)
+
+Limited exception related to certain sanctions and prohibitions.—The authority under subsection (a) shall not apply with respect to a sanction or prohibition under subparagraph (B) or (G) of section 102(b)(2) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b) \[(2)(B), (G)\], unless the President determines and certifies to the appropriate congressional committees that—
+
+&emsp;&emsp;“(A) all reasonable steps will be taken to assure that the articles or services exported or otherwise provided will not be used to improve the military capabilities of the armed forces of North Korea; and
+
+&emsp;&emsp;“(B) such waiver is in the national security interests of the United States.
+
+&emsp;“(2)
+
+Limited exception related to certain activities.—Unless the President determines and certifies to the appropriate congressional committees that using the authority under subsection (a) is vital to the national security interests of the United States, such authority shall not apply with respect to—
+
+&emsp;&emsp;“(A) an activity described in subparagraph (A) of section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)(A)\] that occurs after September 19, 2005, and before the date of the enactment of this Act \[June 30, 2008\];
+
+&emsp;&emsp;“(B) an activity described in subparagraph (C) of such section that occurs after September 19, 2005; or
+
+&emsp;&emsp;“(C) an activity described in subparagraph (D) of such section that occurs after the date of enactment of this Act.
+
+&emsp;“(3)
+
+Exception related to certain activities occurring after date of enactment.—The authority under subsection (a) shall not apply with respect to an activity described in subparagraph (A) or (B) of section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)(A), (B)\] that occurs after the date of the enactment of this Act.
+
+&emsp;“(4)
+
+Limited exception related to lethal weapons.—The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(2)\].
+
+“(c)
+
+Notifications and Reports.—
+
+&emsp;“(1)
+
+Congressional notification.—The President shall notify the appropriate congressional committees in writing not later than 15 days before exercising the waiver authority under subsection (a).
+
+&emsp;“(2)
+
+Annual report.—Not later than January 31, 2009, and annually thereafter, the President shall submit to the appropriate congressional committees a report that—
+
+&emsp;&emsp;“(A) lists all waivers issued under subsection (a) during the preceding year;
+
+&emsp;&emsp;“(B) describes in detail the progress that is being made in the implementation of the commitment undertaken by North Korea, in the Joint Statement of September 19, 2005, to abandon all nuclear weapons and existing nuclear programs as part of the verifiable denuclearization of the Korean Peninsula;
+
+&emsp;&emsp;“(C) discusses specifically any shortcomings in the implementation by North Korea of that commitment; and
+
+&emsp;&emsp;“(D) lists and describes the progress and shortcomings, in the preceding year, of all other programs promoting the elimination of the capability of North Korea to develop, deploy, transfer, or maintain weapons of mass destruction or their delivery systems.
+
+&emsp;“(3)
+
+Report on verification measures relating to north korea's nuclear programs.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than 15 days after the date of enactment of this Act \[June 30, 2008\], the Secretary of State shall submit to the appropriate congressional committees a report on verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement of February 13, 2007, with specific focus on how such verification measures are defined under the Six-Party Talks Agreement and understood by the United States Government.
+
+&emsp;&emsp;“(B)
+
+Matters to be included.—The report required under subsection (A) shall include, among other elements, a description of—
+
+&emsp;&emsp;&emsp;“(i) how the United States will confirm that North Korea has ‘provided a complete and correct declaration of all of its nuclear programs’;
+
+&emsp;&emsp;&emsp;“(ii) how the United States will maintain a high and ongoing level of confidence that North Korea has fully met the terms of the Six-Party Talks Agreement relating to its nuclear programs;
+
+&emsp;&emsp;&emsp;“(iii) any diplomatic agreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement (other than implementing arrangements made during on-site operations); and
+
+&emsp;&emsp;&emsp;“(iv) any significant and continuing disagreement with North Korea regarding verification measures relating to North Korea's nuclear programs under the Six-Party Talks Agreement.
+
+&emsp;&emsp;“(C)
+
+Form.—The report required under subsection (A) shall be submitted in unclassified form, but may include a classified annex.
+
+“(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—
+
+&emsp;“(1) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+
+&emsp;“(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.”
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 

@@ -22,7 +22,7 @@
 
 (2) An officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, rear admiral (lower half), major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active duty by the Secretary concerned. An officer subject to retirement under section 635 or 636 of this title who is serving in a grade above major general or rear admiral may have his retirement deferred and be continued on active duty by the President.
 
-(3) Any deferral of retirement and continuation on active duty under this subsection shall be for a period not to exceed five years, but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday.
+(3) Any deferral of retirement and continuation on active duty under this subsection shall be for a period not to exceed five years, except as provided under section 1251 or 1253 of this title.
 
 (c) Continuation of an officer on active duty under this section pursuant to the action of a selection board convened under section 611(b) of this title is subject to the approval of the Secretary of the military department concerned. The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.
 
@@ -30,9 +30,11 @@
 
 (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 110–181, div. A, title V, §504, Jan. 28, 2008, 122 Stat. 95.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–181 substituted “except as provided under section 1251 or 1253 of this title” for “but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday”.
 
 1990—Subsec. (c). Pub. L. 101–510, §521(b)(1)(A), inserted at end “The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.”
 

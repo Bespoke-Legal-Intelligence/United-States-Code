@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General is authorized to make grants to institutions of higher education, foruse by such institutions or consortia consisting of campus personnel, student organizations, campus administrators, security personnel, and regional crisis centers affiliated with the institution, to develop and strengthen effective security and investigation strategies to combat domestic violence, dating violence, sexual assault, and stalking on campuses, and to develop and strengthen victim services in cases involving such crimes against women on campuses, which may include partnerships with local criminal justice authorities and community-based victim services agencies.
+&emsp;The Attorney General is authorized to make grants to institutions of higher education, for use by such institutions or consortia consisting of campus personnel, student organizations, campus administrators, security personnel, and regional crisis centers affiliated with the institution, to develop and strengthen effective security and investigation strategies to combat domestic violence, dating violence, sexual assault, and stalking on campuses, and to develop and strengthen victim services in cases involving such crimes against women on campuses, which may include partnerships with local criminal justice authorities and community-based victim services agencies.
 
 #### (2) Award basis
 
@@ -118,7 +118,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–271, §4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
+2006—Subsec. (b)(2). Pub. L. 109–271, §4(b), inserted first sentence and struck out former first sentencewhich read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
 
 Subsec. (d)(2)(A). Pub. L. 109–271, §4(d), struck out “biennial” before “performance report”.
 

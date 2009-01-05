@@ -12,7 +12,7 @@
 
 &emsp;(4) with respect to which a notice is filed with the Secretary of Labor and received by him not later than 10 days after September 2, 1974, except that, for reasonable cause shown, such notice may be filed with the Secretary of Labor and received by him not later than October 31, 1974, stating that the plan is a plan described in paragraphs (1), (2), and (3).
 
-> The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D of this subchapter if the plan terminated on or after September 2, 1974. The provisions of subtitle D of this subchapter do not apply in the case of such a plan which terminates before September 2, 1974. For purposes ofdetermining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
+> The corporation shall not pay benefits guaranteed under this subchapter with respect to a plan described in the preceding sentence unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter or for the purpose of avoiding the liability which might be imposed under subtitle D of this subchapter if the plan terminated on or after September 2, 1974. The provisions of subtitle D of this subchapter do not apply in the case of such a plan which terminates before September 2, 1974. For purposes of determining whether a plan is a plan described in paragraph (2), the provisions of section 1348 of this title shall not apply, but the corporation shall make the determination on the basis of the date on which benefits ceased to accrue or on any other reasonable basis consistent with the purposes of this subsection.
 
 (c)(1) Except as provided in paragraphs (2), (3), and (4), the corporation shall not pay benefits guaranteed under this subchapter with respect to a multiemployer plan which terminates before August 1, 1980. Whenever the corporation exercises the authority granted under paragraph (2) or (3), the corporation shall notify the Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives, and the Committee on Labor and Public Welfare and the Committee on Finance of the Senate.
 
@@ -48,7 +48,7 @@
 
 (B) For purposes of determining withdrawal liability under part 1 of subtitle E of this subchapter, an employer who has withdrawn from a plan shall be considered to have withdrawn from a multiemployer plan if, at the time of the withdrawal, the plan was a multiemployer plan as defined in section 1301(a)(3) of this title as in effect at the time of the withdrawal.
 
-(3) Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+(3) Sections 1421 through 1426 of this title, relating to multiemployer plan reorganization, shall take effect, with respect to each plan, onthe first day of the first plan year beginning on or after the earlier of—
 
 &emsp;(A) the date on which the last collective bargaining agreement providing for employer contributions under the plan, which was in effect on September 26, 1980, expires, without regard to extensions agreed to on or after September 26, 1980, or
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) the employer is liable to the corporation under such section,
 
-> the corporation shall retain the amount of liability paid to it or furnished in the form of a bond and shall pay such liability to the plan in the event the plan terminates in accordance with section 1341a(a)(2) of this title before the earlier of September 26, 1985, or the day after the5-year period commencing on the date of such withdrawal.
+> the corporation shall retain the amount of liability paid to it or furnished in the form of a bond and shall pay such liability to the plan in the event the plan terminates in accordance with section 1341a(a)(2) of this title before the earlier of September 26, 1985, or the day after the 5-year period commencing on the date of such withdrawal.
 
 (2) In any case in which the plan is not so terminated within the period described in paragraph (1), the liability of the employer is abated and any payment held in escrow shall be refunded without interest to the employer or the employer's bond shall be cancelled.
 

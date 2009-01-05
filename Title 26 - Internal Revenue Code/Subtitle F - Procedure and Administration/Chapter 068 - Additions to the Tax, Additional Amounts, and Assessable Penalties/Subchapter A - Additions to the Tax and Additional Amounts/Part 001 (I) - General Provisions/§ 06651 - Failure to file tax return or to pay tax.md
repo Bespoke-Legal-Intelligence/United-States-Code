@@ -10,7 +10,7 @@ In case of failure—
 
 &emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
-> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
+> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $135 or 100 percent of the amount required to be shown as tax on such return.
 
 #### (b) Penalty imposed on net amount due
 
@@ -70,9 +70,11 @@ In the case of any return made by the Secretary under section 6020(b)—
 
 In the case of an individual who files a return of tax on or before the due date for the return (including extensions), paragraphs (2) and (3) of subsection (a) shall each be applied by substituting “0.25” for “0.5” each place it appears for purposes of determining the addition to tax for any month during which an installment agreement under section 6159 is in effect for the payment of such tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–245 substituted “$135” for “$100” in concluding provisions.
 
 1998—Subsec. (h). Pub. L. 105–206 added subsec. (h).
 
@@ -108,6 +110,10 @@ Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subse
 
 1968—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–245, title III, §303(b), June 17, 2008, 122 Stat. 1649, provided that: “The amendment made by this section \[amending this section\] shall apply to returns required to be filed after December 31, 2008.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3303(b), July 22, 1998, 112 Stat. 742, provided that: “The amendment made by this section \[amending this section\] shall apply for purposes of determining additions to the tax for months beginning after December 31, 1999.”
@@ -124,7 +130,7 @@ Section 7741(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c)of Pub. L. 100–203, set out as a note under section 585 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as a note under section 585 of this title.
 
 #### Effective Date of 1986 Amendment
 

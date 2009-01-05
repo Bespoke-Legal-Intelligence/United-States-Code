@@ -54,7 +54,7 @@ For Oct. 1, 1994, as the date the Compact of Free Association with the Governmen
 
 2004—Subsec. (a)(9). Pub. L. 108–446 substituted “section 1401” for “section 1401(a)(17)”.
 
-1996—Subsec. (a)(7) to (14). Pub. L. 104–134 redesignated pars. (8) to (14) as (7) to (13), respectively, and struck out former par. (7) which read as follows: “the term ‘opportunity-to-learn standards’ means the criteria for, and the basis of, assessing the sufficiency or quality of the resources, practices, and conditions necessary at each level of the education system (schools, local educational agencies, and States) to provide all students with an opportunity to learn the material involuntary national content standards or State content standards;”.
+1996—Subsec. (a)(7) to (14). Pub. L. 104–134 redesignated pars. (8) to (14) as (7) to (13), respectively, and struck out former par. (7) which read as follows: “the term ‘opportunity-to-learn standards’ means the criteria for, and the basis of, assessing the sufficiency or quality of the resources, practices, and conditions necessary at each level of the education system (schools, local educational agencies, and States) to provide all students with an opportunity to learn the material in voluntary national content standards or State content standards;”.
 
 1994—Subsec. (a)(6). Pub. L. 103–382, §394(f)(1)(A)(i), substituted “section 8801” for “section 2891”.
 

@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001701%20-%20Definitions.md) | Definitions. |
-| [1702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001702%20-%20Presumption%20relating%20to%20psychosis.md) | Presumption relating to psychosis. |
+| [1702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001702%20-%20Presumptions%20psychosis%20after%20service%20in%20World%20War%20II%20and%20following%20periods%20of%20war%3B%20mental%20illness%20after%20service%20in%20the%20Persian%20Gulf%20War.md) | Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War. |
 | [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md) | Contracts for hospital care and medical services in non-Department facilities. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
@@ -22,6 +22,14 @@
 | [1710\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710%20-%20Eligibility%20for%20hospital%2C%20nursing%20home%2C%20and%20domiciliary%20care.md) | Eligibility for hospital, nursing home, and domiciliary care. |
 | [1710A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710A%20-%20Required%20nursing%20home%20care.md) | Required nursing home care. |
 | [1710B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710B%20-%20Extended%20care%20services.md) | Extended care services. |
+| [1710C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710C%20-%20Traumatic%20brain%20injury%20plans%20for%20rehabilitation%20and%20reintegration%20into%20the%20community.md) | Traumatic brain injury: plans for rehabilitation and reintegration into the community. |
+| [1710D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710D%20-%20Traumatic%20brain%20injury%20comprehensive%20program%20for%20long-term%20rehabilitation.md) | Traumatic brain injury: comprehensive plan for long-term rehabilitation.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [1710E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001710E%20-%20Traumatic%20brain%20injury%20use%20of%20non-Department%20facilities%20for%20rehabilitation.md) | Traumatic brain injury: use of non-Departmental facilities for rehabilitation.<sup>1</sup> |
 | [1711\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001711%20-%20Care%20during%20examinations%20and%20in%20emergencies.md) | Care during examinations and in emergencies. |
 | [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md) | Dental care; drugs and medicines for certain disabled veterans; vaccines. |
 | [1712A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md) | Eligibility for readjustment counseling and related mental health services. |
@@ -58,7 +66,7 @@
 | [1728\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md) | Reimbursement of certain medical expenses. |
 | [1729\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729%20-%20Recovery%20by%20the%20United%20States%20of%20the%20cost%20of%20certain%20care%20and%20services.md) | Recovery by the United States of the cost of certain care and services. |
 | [1729A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md) | Department of Veterans Affairs Medical Care Collections Fund. |
-| \[1729B. | Repealed.\] |
+| [1729B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md) | Consolidated patient accounting centers. |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -120,6 +128,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–387, title IV, §406(b), Oct. 10, 2008, 122 Stat. 4130, added item 1729B.
+
+Pub. L. 110–181, div. A, title XVII, §§1702(b), 1703(b), 1708(a)(3), Jan. 28, 2008, 122 Stat. 489, 490, 494, substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War” for “Presumption relating to psychosis” in item 1702 and added items 1710C to 1710E.
 
 2007—Pub. L. 110–110, §3(a)(2), Nov. 5, 2007, 121 Stat. 1033, which directed amendment of the analysis for this chapter by adding item 1720F at the end, was executed by adding item 1720F after item 1720E, to reflect the probable intent of Congress.
 

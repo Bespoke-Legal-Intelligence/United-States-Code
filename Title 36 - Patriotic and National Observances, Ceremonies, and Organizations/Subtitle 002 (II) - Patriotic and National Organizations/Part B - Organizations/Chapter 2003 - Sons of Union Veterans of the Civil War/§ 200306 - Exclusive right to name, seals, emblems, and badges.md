@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 20, 1954, ch. 774, §17, 68 Stat. 752.
 
-The words “sole” and “or refuse” are omitted as unnecessary. The words “corporation adopts” are substituted for “as it may legally adopt” for consistency in the revised title and to eliminate unnecessary words.The words “and such emblems, seals, and badges as have heretofore been used by the Illinois corporation described in section 548 of this title and the right to which may be lawfully transferred to the corporation” are omitted as executed and obsolete.
+The words “sole” and “or refuse” are omitted as unnecessary. The words “corporation adopts” are substituted for “as it may legally adopt” for consistency in the revised title and to eliminate unnecessary words. The words “and such emblems, seals, and badges as have heretofore been used by the Illinois corporation described in section 548 of this title and the right to which may be lawfully transferred to the corporation” are omitted as executed and obsolete.
 

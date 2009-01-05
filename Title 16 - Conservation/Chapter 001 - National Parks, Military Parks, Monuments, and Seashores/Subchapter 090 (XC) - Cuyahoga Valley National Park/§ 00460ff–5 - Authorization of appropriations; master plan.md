@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### (b) Development of plan; consultation with State; transmittal to Congressional committees; contents
 
-For the development of the park, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000. Within one year from the date of establishment of the park pursuant to this subchapter, the Secretary shall, after consulting with the Governor of the State of Ohio, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the development of the park consistent with the objectives of this subchapter, indicating:
+For the development of the park, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000. Within one year from the date of establishment ofthe park pursuant to this subchapter, the Secretary shall, after consulting with the Governor of the State of Ohio, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a final master plan for the development of the park consistent with the objectives of this subchapter, indicating:
 
 &emsp;(1) the facilities needed to accommodate the health, safety, and recreation needs of the visiting public;
 
@@ -44,5 +44,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Expenditure of Funds To Commence October 1, 1977
 
-Section 323(c) of Pub. L. 94–578 provided that: “No funds authorized by this section \[amending sections460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originally enacted\], shall be available for expenditure before October 1, 1977.”
+Section 323(c) of Pub. L. 94–578 provided that: “No funds authorized by this section \[amending sections 460ff–1(a) and 460ff–5 of this title\] in excess of those sums previously authorized by the Act of December 27, 1974, \[this section as originally enacted\], shall be available for expenditure before October 1, 1977.”
 

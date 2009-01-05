@@ -4,7 +4,7 @@
 
 The Administrator may make grants to, and enter into contracts and cooperative agreements with, public and nonprofit private entities to enable such entities—
 
-&emsp;(1) to carry out school-based programs concerning the dangers of the abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other drugs commonly referred to as “club drugs” using methods that are effective and science-based, including initiatives that give students the responsibilityto create their own anti-drug abuse education programs for their schools; and
+&emsp;(1) to carry out school-based programs concerning the dangers of the abuse of and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other drugs commonly referred to as “club drugs” using methods that are effective and science-based, including initiatives that give students the responsibility to create their own anti-drug abuse education programs for their schools; and
 
 &emsp;(2) to carry out community-based abuse and addiction prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs that are effective and science-based.
 
@@ -34,7 +34,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 #### (2) Priority
 
-&emsp;The Administrator shall give priority in awarding grants under this section to rural and urban areas that are experiencing a high rate or rapid increases in abuse and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
+&emsp;The Administrator shall give priority in awarding grants under this section to ruraland urban areas that are experiencing a high rate or rapid increases in abuse and addiction to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
 
 #### (d) Allocation and report
 
@@ -68,7 +68,7 @@ Pub. L. 106–310, div. B, title XXXVI, §3662, Oct. 17, 2000, 114 Stat. 1241, p
 
 &emsp;“(2) Use of Ecstasy can cause long-lasting, and perhaps permanent, damage to the serotonin system of the brain, which is fundamental to the integration of information and emotion, and this damage can cause long-term problems with learning and memory.
 
-&emsp;“(3) Due to the popularity and marketability of Ecstasy, there are numerous Internet websites with information on the effects of Ecstasy, the production of Ecstasy, and the locations of Ecstasy use (often referred to as ‘raves’). The availability of this information targets the primary users of Ecstasy, who are most often college students, young professionals, andother young people from middle- to high-income families.
+&emsp;“(3) Due to the popularity and marketability of Ecstasy, there are numerous Internet websites with information on the effects of Ecstasy, the production of Ecstasy, and the locations of Ecstasy use (often referred to as ‘raves’). The availability of this information targets the primary users of Ecstasy, who are most often college students, young professionals, and other young people from middle- to high-income families.
 
 &emsp;“(4) Greater emphasis needs to be placed on—
 

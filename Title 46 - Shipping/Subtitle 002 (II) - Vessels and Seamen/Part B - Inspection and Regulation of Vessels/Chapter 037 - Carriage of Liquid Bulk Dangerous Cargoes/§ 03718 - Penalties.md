@@ -6,7 +6,7 @@
 
 (b) A person willfully and knowingly violating this chapter or a regulation prescribed under this chapter commits a class D felony.
 
-(c) Instead of the penalties provided by subsection (b) of this section, a person willfully and knowingly violating this chapter or a regulation prescribed under this chapter, and using a dangerous weapon, or engaging in conduct that causes bodily injury or fear of imminent bodily injury to an official authorized to enforce thischapter or a regulation prescribed under this chapter, commits a class C felony.
+(c) Instead of the penalties provided by subsection (b) of this section, a person willfully and knowingly violating this chapter or a regulation prescribed under this chapter, and using a dangerous weapon, or engaging in conduct that causes bodily injury or fear of imminent bodily injury to an official authorized to enforce this chapter or a regulation prescribed under this chapter, commits a class C felony.
 
 (d) The district courts of the United States have jurisdiction to restrain a violation of this chapter or a regulation prescribed under this chapter.
 

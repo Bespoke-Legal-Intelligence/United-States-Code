@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) A violation of the requirements of section 9603(d)(2) of this title (relating to destruction of records, etc.).
 
-&emsp;&emsp;(C) A violation of the requirements of section 9608 of this title (relating to financialresponsibility, etc.), the regulations issued under section 9608 of this title, or with any denial or detention order under section 9608 of this title.
+&emsp;&emsp;(C) A violation of the requirements of section 9608 of this title (relating to financial responsibility, etc.), the regulations issued under section 9608 of this title, or with any denial or detention order under section 9608 of this title.
 
 &emsp;&emsp;(D) A violation of an order under section 9622(d)(3) of this title (relating to settlement agreements for action under section 9604(b) of this title).
 
@@ -58,7 +58,7 @@ The President may bring an action in the United States district court for the ap
 
 &emsp;(3) A violation of the requirements of section 9608 of this title (relating to financial responsibility, etc.), the regulations issued under section 9608 of this title, or with any denial or detention order under section 9608 of this title.
 
-&emsp;(4) A violation of an order under section 9622(d)(3) of this title (relating to settlementagreements for action under section 9604(b) of this title).
+&emsp;(4) A violation of an order under section 9622(d)(3) of this title (relating to settlement agreements for action under section 9604(b) of this title).
 
 &emsp;(5) Any failure or refusal referred to in section 9622(<i>l</i>) of this title (relating to violations of administrative orders, consent decrees, or agreements under section 9620 of this title).
 

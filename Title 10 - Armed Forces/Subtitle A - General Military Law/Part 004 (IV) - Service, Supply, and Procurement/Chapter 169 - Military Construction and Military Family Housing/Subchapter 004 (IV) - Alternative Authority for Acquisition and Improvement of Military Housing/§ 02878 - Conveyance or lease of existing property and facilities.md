@@ -10,11 +10,15 @@ Inapplicability to Property at Installation Approved for Closure.—The authorit
 
 (c)
 
+Competitive Process.—The Secretary concerned shall ensure that the time, method, and terms and conditions of the reconveyance or lease of property or facilities under this section from the eligible entity permit full and free competition consistent with the value and nature of the property or facilities involved.
+
+(d)
+
 Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
 
 (2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
 
-(d)
+(e)
 
 Inapplicability of Certain Property Management Laws.—The conveyance or lease of property or facilities under this section shall not be subject to the following provisions of law:
 
@@ -26,13 +30,15 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(4) Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(2), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsecs. (c) to (e). Pub. L. 110–417 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 2002—Subsec. (d)(2). Pub. L. 107–217, §3(b)(23)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 

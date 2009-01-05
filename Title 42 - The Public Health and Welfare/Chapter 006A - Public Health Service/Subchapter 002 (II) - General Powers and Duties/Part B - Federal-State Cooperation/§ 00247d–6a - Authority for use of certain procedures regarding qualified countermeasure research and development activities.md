@@ -54,7 +54,7 @@
 
 #### (B) Application of certain provisions
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred to in such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
+&emsp;&emsp;Notwithstanding subparagraph (A) and the provision of law and regulations referred toin such subparagraph, each of the following provisions shall apply to procurements described in this paragraph to the same extent that such provisions would apply to such procurements in the absence of subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Chapter 37 of title 40 (relating to contract work hours and safety standards).
 
@@ -104,7 +104,7 @@
 
 #### (C) Exception to preference for purchase card mechanism
 
-&emsp;&emsp;No provision of law establishing a preference for using a Government purchasecard method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
+&emsp;&emsp;No provision of law establishing a preference for using a Government purchase card method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
 
 #### (4) Review
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether aperson, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
+&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether a person, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
 
 #### (B) Determination of employee status to be final
 
@@ -242,7 +242,7 @@ Meetings and consultations to discuss security countermeasures, qualified counte
 
 &emsp;&emsp;“(A)
 
-Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as definedin section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
+Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
 
 &emsp;&emsp;“(B)
 
@@ -264,7 +264,7 @@ Limitation.—The Secretary may not require participants to disclose confidentia
 
 &emsp;&emsp;“(D)
 
-Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
+Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting orconsultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
 
 &emsp;&emsp;“(E)
 
@@ -354,7 +354,7 @@ Covered activities.—
 
 &emsp;&emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the term ‘covered activities’ includes anyactivity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
+In general.—Except as provided in subparagraph (B), the term ‘covered activities’ includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
 
 &emsp;&emsp;“(B)
 

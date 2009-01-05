@@ -42,7 +42,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Core indicators of performance for career and technical education students at the postsecondary level
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performancefor career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
+&emsp;&emsp;Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
 &emsp;&emsp;&emsp;(i) Student attainment of challenging career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -76,7 +76,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in the State plan submitted under section 2342 of this title, levels of performance for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;Each eligible agency, with input from eligible recipients, shall establish in theState plan submitted under section 2342 of this title, levels of performance for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in a percentage or numerical form, so as to be objective, quantifiable, and measurable; and
 

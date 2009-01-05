@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury may subscribe on behalf of the United States to notmore than 7,011,270 shares of the capital stock of the Bank.
+&emsp;The Secretary of the Treasury may subscribe on behalf of the United States to not more than 7,011,270 shares of the capital stock of the Bank.
 
 #### (2) Effectiveness of subscription commitment
 

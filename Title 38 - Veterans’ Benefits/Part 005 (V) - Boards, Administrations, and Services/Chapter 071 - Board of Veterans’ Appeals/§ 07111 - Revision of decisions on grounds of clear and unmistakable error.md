@@ -1,6 +1,6 @@
 ### §7111. Revision of decisions on grounds of clear and unmistakable error
 
-(a) A decision by the Board is subject to revision on the grounds of clear and unmistakable error. If evidence establishes the error, the prior decision shall be reversed or revised.
+(a) A decision by the Board is subject to revision on the grounds of clear and unmistakableerror. If evidence establishes the error, the prior decision shall be reversed or revised.
 
 (b) For the purposes of authorizing benefits, a rating or other adjudicative decision of the Board that constitutes a reversal or revision of a prior decision of the Board on the grounds of clear and unmistakable error has the same effect as if the decision had been made on the date of the prior decision.
 

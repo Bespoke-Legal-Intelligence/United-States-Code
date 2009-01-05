@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 102–240, §2003(a), added subsec. (b) and struck out form
 
 Subsec. (c). Pub. L. 102–240, §2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
+Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows:“In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
 
 1973—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
 
@@ -126,7 +126,7 @@ Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, provided that
 
 “(a)
 
-Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I throughV of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
+Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I through V of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
 
 “(b)
 
@@ -320,7 +320,7 @@ State Selection Process.—The Secretary shall ensure that the selection made pu
 
 “(d)
 
-Length of Program.—The pilot program authorized by this section shall continue for a period of 1 year. The Secretary shall consider alternative methodologies for implementing a system of random testing of such individuals.
+Length of Program.—The pilot program authorized by this section shall continue for a period of 1year. The Secretary shall consider alternative methodologies for implementing a system of random testing of such individuals.
 
 “(e)
 

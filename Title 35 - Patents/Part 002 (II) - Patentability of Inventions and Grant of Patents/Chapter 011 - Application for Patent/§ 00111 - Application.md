@@ -20,7 +20,7 @@ Contents.—Such application shall include—
 
 &emsp;(3)
 
-Fee and oath.—The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
+Fee and oath.—The application must be accompanied by the fee required by law. Thefee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Director.
 
 &emsp;(4)
 
@@ -92,7 +92,7 @@ Subsec. (b)(6). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], 
 
 1994—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: “Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.”
 
-1982—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
+1982—Pub. L. 97–247 inserted “, or authorized to be made,” after “shall be made”, struck out the colon after “shall include”, struck out “signed by the applicant and” after “The application”, and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit thefee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
 
 #### Effective Date of 1999 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, setout as an Effective Date note under section 294 of this title.
+Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
 
 #### Emergency Relief From Postal Situation Affecting Patent, Trademark, and Other Federal Cases
 

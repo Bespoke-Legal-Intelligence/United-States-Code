@@ -6,7 +6,7 @@ Any member bank which, and any institution-affiliated party (within the meaning 
 
 #### (2) Second tier
 
-Notwithstanding paragraph (1), any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who—
+Notwithstanding paragraph (1), any member bank which, and any institution-affiliated party\(within the meaning of section 1813(u) of this title) with respect to such member bank who—
 
 &emsp;(A)(i) commits any violation described in paragraph (1);
 

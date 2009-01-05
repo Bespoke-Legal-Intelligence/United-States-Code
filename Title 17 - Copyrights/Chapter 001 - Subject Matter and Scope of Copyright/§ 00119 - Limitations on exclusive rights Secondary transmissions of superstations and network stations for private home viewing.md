@@ -58,7 +58,7 @@ States with single full-power network station.—In a State in which there is li
 
 &emsp;&emsp;&emsp;(ii)
 
-States with all network stations and superstations in same local market.—In a State in which all network stations and superstations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass allcounties of that State, the statutory license provided under subparagraph (A) shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47 of the Code of Federal Regulations).
+States with all network stations and superstations in same local market.—In a State in which all network stations and superstations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass all counties of that State, the statutory license provided under subparagraph (A) shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47 of the Code of Federal Regulations).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -98,7 +98,7 @@ Initial lists.—A satellite carrier that makes secondary transmissions of a pri
 
 Monthly lists.—After the submission of the initial lists under clause (i), on the 15th of each month, the satellite carrier shall submit to the network—
 
-&emsp;&emsp;&emsp;&emsp;(I) a list identifying (by name and address, including street or rural route number, city, State, and zip code) any persons who have been added or dropped as subscribers under clause (i)(I) since the last submission under clause (i); and
+&emsp;&emsp;&emsp;&emsp;(I) a list identifying (by name and address, including street or rural route number, city, State, and zip code) any persons who have been added or droppedas subscribers under clause (i)(I) since the last submission under clause (i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) a separate list, aggregated by designated market area (by name and street address, including street or rural route number, city, State, and zip code), identifying those subscribers whose service pursuant to paragraph (3), relating to significantly viewed stations, has been added or dropped.
 
@@ -120,7 +120,7 @@ In general.—Notwithstanding the provisions of paragraph (2)(B), and subject to
 
 &emsp;&emsp;(B)
 
-Limitation.—Subparagraph (A) shall apply only to secondary transmissions of the primary transmissions of network stations and superstations to subscribers who receive secondary transmissions from a satellitecarrier pursuant to the statutory license under section 122.
+Limitation.—Subparagraph (A) shall apply only to secondary transmissions of the primary transmissions of network stations and superstations to subscribers who receive secondary transmissions from a satellite carrier pursuant to the statutory license under section 122.
 
 &emsp;&emsp;(C)
 
@@ -156,7 +156,7 @@ For those receiving distant analog signals.—In the case of a subscriber of a s
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) identifies that subscriber by name and address (street or rural route number, city, State, and zip code) and specifies the distant analog signals received by the subscriber; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) states, to the best of the satellite carrier's knowledge and belief, after having made diligent and good faith inquiries, that the subscriber is eligible under subsection (e) to receive the distant analog signals.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) states, to the best of the satellite carrier's knowledge and belief,after having made diligent and good faith inquiries, that the subscriber is eligible under subsection (e) to receive the distant analog signals.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -192,7 +192,7 @@ Other provisions not affected.—This paragraph shall not affect the applicabili
 
 &emsp;&emsp;(F)
 
-Waiver.—A subscriber who is denied the secondary transmission of a network station under subparagraph (C) or (D) may request a waiver from such denial by submitting a request, through the subscriber's satellite carrier, to the network station in the local market affiliated with the same network where the subscriber is located. The network station shall accept or reject the subscriber's request for a waiver within 30 days after receipt of the request. If the network station fails to accept or reject the subscriber's request for a waiver within that 30-day period, that network station shall be deemed to agree to the waiver request. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934 shall not constitute a waiver for purposes of this subparagraph.
+Waiver.—A subscriber who is denied the secondary transmission of a network station under subparagraph (C) or (D) may request a waiver from such denial by submitting a request, through the subscriber's satellite carrier, to the network station in the local market affiliated with the same network where the subscriber is located. The network station shall accept or reject the subscriber's request for a waiver within 30 days after receipt of the request. If the network station fails to accept or reject the subscriber's request for a waiver within that 30-day period, that network station shall be deemed to agree to the waiver request. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Actof 2004 under section 339(c)(2) of the Communications Act of 1934 shall not constitute a waiver for purposes of this subparagraph.
 
 &emsp;&emsp;(G)
 
@@ -204,7 +204,7 @@ Noncompliance with reporting and payment requirements.—Notwithstanding the pro
 
 &emsp;(6)
 
-Willful alterations.—Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a superstation or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and sections 509 and 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
+Willful alterations.—Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a superstation or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
 
 &emsp;(7)
 
@@ -212,7 +212,7 @@ Violation of territorial restrictions on statutory license for network stations.
 
 &emsp;&emsp;(A)
 
-Individual violations.—The willful or repeated secondary transmission by a satellite carrier of a primary transmission made by a network station and embodying aperformance or display of a work to a subscriber who is not eligible to receive the transmission under this section is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506 and 509, except that—
+Individual violations.—The willful or repeated secondary transmission by a satellite carrier of a primary transmission made by a network station and embodying a performance or display of a work to a subscriber who is not eligible to receive the transmission under this section is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
 
 &emsp;&emsp;&emsp;(i) no damages shall be awarded for such act of infringement if the satellite carrier took corrective action by promptly withdrawing service from the ineligible subscriber, and
 
@@ -246,7 +246,7 @@ Exception.—The secondary transmission by a satellite carrier of a performance 
 
 &emsp;(8)
 
-Discrimination by a satellite carrier.—Notwithstanding the provisions of paragraph (1), the willful or repeated secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a superstation or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, if the satellite carrier unlawfully discriminates against a distributor.
+Discrimination by a satellite carrier.—Notwithstanding the provisions of paragraph (1), the willful or repeated secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a superstation or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the satellite carrier unlawfully discriminates against a distributor.
 
 &emsp;(9)
 
@@ -314,11 +314,11 @@ Updated documentation requirements.—If a satellite carrier wishes to continue 
 
 &emsp;(13)
 
-Statutory license contingent on compliance with fcc rules and remedial steps.—Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, if, at the time of such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
+Statutory license contingent on compliance with fcc rules and remedial steps.—Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if, at the time of such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
 
 &emsp;(14)
 
-Waivers.—A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber's satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph
+Waivers.—A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber's satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber's request for a waiverwithin 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph
 
 &emsp;(15)
 
@@ -346,7 +346,7 @@ Superstations.—With respect to superstations, secondary transmissions provided
 
 &emsp;&emsp;(C)
 
-No applicability to repeaters and translators.—Secondary transmissionsprovided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day.
+No applicability to repeaters and translators.—Secondary transmissions provided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day.
 
 &emsp;&emsp;(D)
 
@@ -378,7 +378,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;&emsp;(A) a statement of account, covering the preceding 6-month period, specifying the names and locations of all superstations and network stations whose signals were retransmitted, at any time during that period, to subscribers as described in subsections (a)(1) and (a)(2), the total number of subscribers that received such retransmissions, and such other data as the Register of Copyrights may from time to time prescribe by regulation; and
 
-&emsp;&emsp;(B) a royalty fee for that 6-month period, computed by multiplying the total number of subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section.
+&emsp;&emsp;(B) a royalty fee for that 6-month period, computed by multiplying the total numberof subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section.
 
 > &emsp;Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.
 
@@ -432,7 +432,7 @@ Agreements binding on parties; filing of agreements; public notice.—(i) Volunt
 
 &emsp;&emsp;(ii)(I) Within 10 days after publication in the Federal Register of a notice of the initiation of voluntary negotiation proceedings, parties who have reached a voluntary agreement may request that the royalty fees in that agreement be applied to all satellite carriers, distributors, and copyright owners without convening an arbitration proceeding pursuant to subparagraph (E).
 
-&emsp;&emsp;(II) Upon receiving a request under subclause (I), the Librarian of Congress shall immediately provide public notice of the royalty fees from the voluntary agreement and afford parties an opportunity to state that they object to those fees.
+&emsp;&emsp;(II) Upon receiving a request under subclause (I), the Librarian of Congress shall immediately provide public notice of theroyalty fees from the voluntary agreement and afford parties an opportunity to state that they object to those fees.
 
 &emsp;&emsp;(III) The Librarian shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening an arbitration proceeding unless a party with an intent to participate in the arbitration proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
 
@@ -484,7 +484,7 @@ Applicability and determination of royalty fees for digital signals.—The proce
 
 &emsp;&emsp;(B) the notice of initiation of arbitration proceedings required in paragraph (1)(F)(i) shall be published on or before December 31, 2005; and
 
-&emsp;&emsp;(C) the royalty fees that are established for the secondary transmission of the primary digital transmission of network stations and superstations in accordance with to <sup>3</sup> the procedures set forth in paragraph (1)(F)(iii) and are payable under subsection (b)(1)(B)—
+&emsp;&emsp;(C) the royalty fees that are established for the secondary transmission of the primary digital transmission of network stations and superstations in accordance with to <sup>3</sup> the procedures set forth in paragraph\(1)(F)(iii) and are payable under subsection (b)(1)(B)—
 
 &emsp;&emsp;&emsp;(i) shall be reduced by 22.5 percent; and
 
@@ -518,7 +518,7 @@ Primary transmission.—The term “primary transmission” has the meaning give
 
 &emsp;(5)
 
-Private home viewing.—The term “private home viewing” means the viewing, for private use in a household by means of satellite reception equipment which is operatedby an individual in that household and which serves only such household, of a secondary transmission delivered by a satellite carrier of a primary transmission of a television station licensed by the Federal Communications Commission.
+Private home viewing.—The term “private home viewing” means the viewing, for private use in a household by means of satellite reception equipment which is operated by an individual in that household and which serves only such household, of a secondary transmission delivered by a satellite carrier of a primary transmission of a television station licensed by the Federal Communications Commission.
 
 &emsp;(6)
 
@@ -586,7 +586,7 @@ Definition.—For purposes of this subsection, the term “antitrust laws”—
 
 &emsp;&emsp;(B) includes any State law similar to the laws referred to in paragraph (1).
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, §209(a)(4), Oct. 13, 2008, 122 Stat. 4264.)
 
 #### Termination of Section
 
@@ -602,6 +602,12 @@ The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1
 
 #### Amendments
 
+2008—Subsec. (a)(6). Pub. L. 110–403, §209(a)(4)(A), substituted “section 510” for “sections 509 and 510”.
+
+Subsec. (a)(7)(A). Pub. L. 110–403, §209(a)(4)(B), struck out “and 509” after “506” in introductory provisions.
+
+Subsec. (a)(8), (13). Pub. L. 110–403, §209(a)(4)(C), (D), struck out “and 509” after “506”.
+
 2006—Subsec. (b)(4)(B). Pub. L. 109–303, §4(e)(1)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian of Congress shall, after deducting reasonable administrative costs under this paragraph, distribute such fees to the copyright owners entitled to receive them, or to their designated agents.”
 
 Subsec. (b)(4)(C). Pub. L. 109–303, §4(e)(1)(B), amended subpar. (C) generally. Prior to amendment, text of subpar. (C) read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have the discretion to proceed to distribute any amounts that are not in controversy.”
@@ -612,7 +618,7 @@ Subsec. (c)(1)(F)(i). Pub. L. 109–303, §4(e)(2), substituted “arbitration�
 
 2004—Subsec. (a)(1). Pub. L. 108–447, §107(a)(1), inserted “or for viewing in a commercial establishment” after “for private home viewing” in two places and substituted “subscriber” for “household”.
 
-Pub. L. 108–447, §102(1), struck out “and pbs satellite feed” after “Superstations” in heading, substituted “paragraphs (5), (6), and (8)” for “paragraphs (3), (4), and (6)” and struck out “or by the Public Broadcasting Service satellite feed” after “primary transmission made by a superstation” in first sentence, and struck out at end “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.”
+Pub. L. 108–447, §102(1), struck out “and pbs satellite feed” after “Superstations” in heading, substituted “paragraphs (5), (6), and (8)” for “paragraphs (3), (4), and (6)” and struck out “or by the Public BroadcastingService satellite feed” after “primary transmission made by a superstation” in first sentence, and struck out at end “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.”
 
 Subsec. (a)(2)(A). Pub. L. 108–447, §102(2)(A), substituted “paragraphs (5), (6), (7), and (8)” for “paragraphs (3), (4), (5), and (6)”.
 
@@ -716,7 +722,7 @@ Subsec. (b)(1)(B)(ii). Pub. L. 107–273, §13209(2), made technical correction 
 
 Pub. L. 106–113, §1000(a)(9) \[title I, §1007(1)\], inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
 
-Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)\], as amended by Pub. L. 107–273, §13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, §13209(3)(A)(ii), which repealedPub. L. 106–113, §1000(a)(9) \[title I, §1006(a)(2)\], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
+Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)\], as amended by Pub. L. 107–273, §13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, §13209(3)(A)(ii), which repealed Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)(2)\], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(A). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(A)\], substituted “a performance or display of a work embodied in a primary transmission made by a network station” for “programming contained in a primary transmission made by a network station and embodying a performance or display of a work”.
 
@@ -752,7 +758,7 @@ Subsec. (d)(10). Pub. L. 106–113, §1000(a)(9) \[title I, §1005(a)(1)\], adde
 
 &emsp;“(B) has not, within 90 days before the date on which that household subscribes, either initially or on renewal, to receive secondary transmissions by a satellite carrier of a network station affiliated with that network, subscribed to a cable system that provides the signal of a primary network station affiliated with that network.”
 
-Subsec. (d)(11). Pub. L. 106–113, §1000(a)(9) \[title I, §1005(e)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘local market’ means the area encompassed within a network station's predicted Grade B contour as that contour is defined by the Federal Communications Commission.”
+Subsec. (d)(11). Pub. L. 106–113, §1000(a)(9) \[title I, §1005(e)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘local market’ means the area encompassed within a network station's predicted GradeB contour as that contour is defined by the Federal Communications Commission.”
 
 Subsec. (d)(12). Pub. L. 106–113, §1000(a)(9) \[title I, §1006(c)(2)\], added par. (12).
 
@@ -906,7 +912,7 @@ Pub. L. 109–303, §4(g), Oct. 6, 2006, 120 Stat. 1483, provided that: “The a
 
 #### Effect on Certain Proceedings
 
-Pub. L. 108–447, div. J, title IX \[title I, §106\], Dec. 8, 2004, 118 Stat. 3406, provided that: “Nothing in this title \[see Short Title of 2004 Amendment note set out under section 101 of this title\] shall modify any remedy imposed on a party that is required by the judgment of a court in any action that was brought before May 1, 2004, against that party for a violation of section 119 of title 17, United States Code.”
+Pub. L. 108–447, div. J, title IX \[title I, §106\], Dec. 8, 2004, 118 Stat. 3406, provided that: “Nothing in this title \[see Short Title of 2004 Amendment note set out under section 101 of this title\] shall modify any remedy imposed on a party that is required by the judgment of acourt in any action that was brought before May 1, 2004, against that party for a violation of section 119 of title 17, United States Code.”
 
 #### Applicability of 1994 Amendment
 

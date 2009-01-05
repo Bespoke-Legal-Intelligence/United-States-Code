@@ -8,7 +8,7 @@ Every person procuring or using distilled spirits withdrawn under section 5214(a
 
 A prior section 5275, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to cross references, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5179(2) and 5181 of this title.
 
-Provisions similar to those comprising this section were contained in prior sections 5305, 5313(b), and 5331(a)(3), act Aug. 16, 1954, ch. 736, 68A Stat. 657, 659, 662, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising this section were contained in prior sections 5305, 5313(b), and5331(a)(3), act Aug. 16, 1954, ch. 736, 68A Stat. 657, 659, 662, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

@@ -22,7 +22,7 @@
 
 #### (3) Requirement of status as medicaid provider
 
-&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under suchparagraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
+&emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
 &emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -82,7 +82,7 @@ For purposes of subsection (a)(1) of this section, a pregnant woman shall be con
 
 #### (1) Case management model
 
-&emsp;Home visiting services provided under this section shall be delivered according to a case management model, and a registered nurse, licensed social worker, or other licensed health care professional with experience and expertise in providing health and related social services in home and community settingsshall be assigned as the case manager for individual cases under such model.
+&emsp;Home visiting services provided under this section shall be delivered according to a case management model, and a registered nurse, licensed social worker, or other licensed health care professional with experience and expertise in providing health and related social services in home and community settings shall be assigned as the case manager for individual cases under such model.
 
 #### (2) Case manager
 
@@ -164,7 +164,7 @@ To be eligible to receive a grant under this section, an entity must agree that 
 
 #### (m) Reports to Secretary
 
-To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under this section to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
+To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under thissection to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
 
 &emsp;(1) the characteristics of the families and children receiving services under this section;
 

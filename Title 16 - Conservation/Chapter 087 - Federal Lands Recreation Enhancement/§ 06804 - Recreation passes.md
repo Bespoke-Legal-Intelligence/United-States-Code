@@ -80,7 +80,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 #### (1) Existing passports
 
-&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
+&emsp;A passport issued under section 460<i>l</i>–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 (Public Law 105–391; 16 U.S.C. 5991–5995), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to theextent practicable, and remain in effect until expired, lost, or stolen.
 
 #### (2) Permits
 

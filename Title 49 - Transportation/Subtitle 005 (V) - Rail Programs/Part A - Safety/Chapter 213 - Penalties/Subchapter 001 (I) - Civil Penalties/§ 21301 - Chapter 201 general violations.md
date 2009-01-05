@@ -2,9 +2,9 @@
 
 (a)
 
-Penalty.—(1) A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title. Subject to section 21304 of this title, a person violating a regulation prescribed or order issued by the Secretary under chapter 201 is liable to the United States Government for a civil penalty. The Secretary shall impose the penalty applicable under paragraph (2) of this subsection. A separate violation occurs for each day the violation continues.
+Penalty.—(1) A person may not fail to comply with section 20160 or with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title. Subject to section 21304 of this title, a person violating section 20160 of this title or a regulation prescribed or order issued by the Secretary under chapter 201 is liable to the United States Government for a civil penalty. The Secretary shall impose the penalty applicable under paragraph (2) of this subsection. A separate violation occurs for each day the violation continues.
 
-(2) The Secretary shall include in, or make applicable to, each regulation prescribed and order issued under chapter 201 of this title a civil penalty for a violation. The amount of the penalty shall be at least $500 but not more than $10,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $20,000.
+(2) The Secretary shall include in, or make applicable to, each regulation prescribed and order issued under chapter 201 of this title a civil penalty for a violation. The Secretary shall impose a civil penalty for a violation of section 20160 of this title. The amount of the penalty shall be at least $500 but not more than $25,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $100,000.
 
 (3) The Secretary may compromise the amount of a civil penalty imposed under this subsection to not less than $500 before referring the matter to the Attorney General for collection. In determining the amount of a compromise, the Secretary shall consider—
 
@@ -22,7 +22,7 @@ Setoff.—The Government may deduct the amount of a civil penalty imposed or com
 
 Deposit in Treasury.—A civil penalty collected under this section or section 20113(b) of this title shall be deposited in the Treasury as miscellaneous receipts.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891; Pub. L. 104–287, §5(53), Oct. 11, 1996, 110 Stat. 3393.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 891; Pub. L. 104–287, §5(53), Oct. 11, 1996, 110 Stat. 3393; Pub. L. 110–432, div. A, title II, §204(d), title III, §302(a), Oct. 16, 2008, 122 Stat. 4871, 4878.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,7 @@ Oct. 16, 1970, Pub. L. 91–458, §209(b) (related to rules, regulations, orders
 
 In subsection (a), the words “impose” and “imposed” are substituted for “assessed”, for consistency in the revised title.
 
-In subsection (a)(1), the first 2 sentences are substituted for 45:438(a) and (c) (1st sentence) for consistency in the revised title and to eliminate unnecessary words. The words “(including but not limited to a railroad; any manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer,lessor, or lessee of railroad equipment, track, or facilities; any independent contractor providing goods or services to a railroad; and any employee of such owner, manufacturer, lessor, lessee, or independent contractor)” are omitted as surplus because of the definition of “person” in 1:1 and because the provision being violated indicates to whom it applies. The word “shall” in 45:438(c) (1st sentence) is retained from the source provisions. For a discussion of whether the authority of the Secretary of Transportation to impose a penalty is mandatory or permissive, see <i>Railway Labor Executives’ Ass'n</i> v. <i>Dole</i>, 760 F.2d 1021, 1024, 1025 (9th Cir. 1985); H.R. Conf. Rept. No. 100–637, 100th Cong., 2d Sess., p. 20; 134 Cong. Rec. H3470, May 23, 1988 (daily ed.); 134 Cong. Rec. S7510, June 9, 1988 (daily ed.). See also 134 Cong. Rec. E1946, June 10, 1988 (daily ed.). For an extended discussion of FRA's prosecutorial discretion, see <i>Nationwide Rail Safety: Hearing Before the Subcommittee on Transportation, Tourism, and Hazardous Materials of the House Energy and Commerce Committee</i>, 100th Cong., 1st Sess., pp. 54–65 (1987). See also section 6 of this bill that provides that this bill restates, without substantive change, the provisions of law replaced by this bill, and that this bill may not be construed as making a substantive change in the law restated. Therefore, the word “shall” in this subsection has the same meaning it has under existing law. The words “A separate violation” are substituted for “a separate offense” for consistency.
+In subsection (a)(1), the first 2 sentences are substituted for 45:438(a) and (c) (1st sentence) for consistency in the revised title and to eliminate unnecessary words. The words “(including but not limited to a railroad; any manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any independent contractor providing goods or services to a railroad; and any employee of such owner, manufacturer, lessor, lessee, or independent contractor)” are omitted as surplus because of the definition of “person” in 1:1 and because the provision being violated indicates to whom it applies. The word “shall” in 45:438(c) (1st sentence) is retained from the source provisions. For a discussion of whether the authority of the Secretary of Transportation to impose a penalty is mandatory or permissive, see <i>Railway Labor Executives’ Ass'n</i> v. <i>Dole</i>, 760 F.2d 1021, 1024, 1025 (9th Cir. 1985); H.R. Conf. Rept. No. 100–637, 100th Cong., 2d Sess., p. 20; 134 Cong. Rec. H3470, May 23, 1988 (daily ed.); 134 Cong. Rec. S7510, June 9, 1988 (daily ed.). See also 134 Cong. Rec. E1946, June 10, 1988 (daily ed.). For an extended discussion of FRA's prosecutorial discretion, see <i>Nationwide Rail Safety: Hearing Before the Subcommittee on Transportation, Tourism, and Hazardous Materials of the House Energy and Commerce Committee</i>, 100th Cong., 1st Sess., pp. 54–65 (1987). See also section 6 of this bill that provides that this bill restates, without substantive change, the provisions of law replaced by this bill, and that this bill may not be construed as making a substantive change in the law restated. Therefore, the word “shall” in this subsection has the same meaning it has under existinglaw. The words “A separate violation” are substituted for “a separate offense” for consistency.
 
 In subsection (a)(3), the words “may compromise the amount . . . to not less than $500” are substituted for “may, however, be compromised . . . for any amount, but in no event for an amount less than the minimum provided in subsection (b) of this section” for clarity and to eliminate unnecessary words. In clause (B), the words “prior or subsequent” are omitted as unnecessary.
 
@@ -79,6 +79,12 @@ In subsection (c), the words “deposited in” are substituted for “covered i
 This amends 49:21301(a)(1) to clarify the restatement of 45:438(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 891).
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–432, §204(d)(1), inserted “with section 20160 or” after “comply” and “section 20160 of this title or” after “violating”.
+
+Subsec. (a)(2). Pub. L. 110–432, §302(a), substituted “$25,000.” for “$10,000.” and “$100,000.” for “$20,000.”
+
+Pub. L. 110–432, §204(d)(2), inserted “The Secretary shall impose a civil penalty for a violation of section 20160 of this title.” after first sentence.
 
 1996—Subsec. (a)(1). Pub. L. 104–287, §5(53)(B), substituted “Secretary under chapter 201 is liable” for “Secretary of Transportation under chapter 201 of this title is liable”.
 

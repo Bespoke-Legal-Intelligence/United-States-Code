@@ -28,7 +28,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;(2) Excellence in undergraduate education in mathematics and science.
 
-> The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
+> The centers shall serve as national and regional clearinghouses and models for the benefit ofboth colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.
 
 #### (c) Articulation partnerships
 
@@ -64,7 +64,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;The Director shall—
 
-&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and enteringhigher-paying technical jobs in those fields; and
+&emsp;&emsp;(A) establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
 
 &emsp;&emsp;(B) make grants available to associate-degree-granting colleges to carry out the program identified in subsection <sup>2</sup> (A).
 
@@ -88,7 +88,7 @@ In carrying out sections 1862h to 1862j of this title, the Director shall—
 
 &emsp;(4) establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
 
-&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
+&emsp;(5) designate an officer of the National Science Foundation to serve as a liaison withassociate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
 
 #### (g) Definitions
 

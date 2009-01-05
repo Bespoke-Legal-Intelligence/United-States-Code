@@ -60,7 +60,7 @@ From amounts appropriated under subsection (<i>o</i>) for a fiscal year, the Sec
 
 #### (1) Competitive grants to State educational agencies
 
-&emsp;From amounts appropriated under subsection (<i>o</i>) and not reserved under subsection\(d), the Secretary shall award grants, on a competitive basis, to State educational agencies to enable the State educational agencies to provide subgrants to eligible local educational agencies to establish mathematics programs for the purpose of improving overall mathematics performance among students in secondary school in the State.
+&emsp;From amounts appropriated under subsection (<i>o</i>) and not reserved under subsection (d), the Secretary shall award grants, on a competitive basis, to State educational agencies to enable the State educational agencies to provide subgrants to eligible local educational agencies to establish mathematics programs for the purpose of improving overall mathematics performance among students in secondary school in the State.
 
 #### (2) Minimum grant
 
@@ -214,7 +214,7 @@ Each State educational agency receiving a grant under this section shall use the
 
 &emsp;&emsp;&emsp;(iv) to work with classroom teachers to diagnose and remediate mathematics difficulties of the lowest-performing students, so that those teachers can provide intensive, research-based instruction, including during after-school and summer sessions, geared toward ensuring that those students can access and be successful in rigorous academic coursework; and
 
-&emsp;&emsp;&emsp;(v) to assess and organize student data on mathematics and communicate thatdata to school administrators to inform school reform efforts.
+&emsp;&emsp;&emsp;(v) to assess and organize student data on mathematics and communicate that data to school administrators to inform school reform efforts.
 
 &emsp;&emsp;(B) Reviewing, analyzing, developing, and, where possible, adapting curricula to make sure mathematics skills are taught within other core academic subjects.
 
@@ -362,7 +362,7 @@ Each State educational agency receiving a grant under this section shall use the
 
 &emsp;&emsp;&emsp;&emsp;(I) significantly increased the number of students achieving at the proficient or advanced level on the State student academic achievement standards in mathematics under section 1111(b)(1)(D)(ii) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(1)(D)(ii));
 
-&emsp;&emsp;&emsp;&emsp;(II) significantly increased the percentages of students described in section 1111(b)(2)(C)(v)(II) of the Elementary andSecondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)) who are achieving proficiency or advanced levels on such State academic content standards in mathematics;
+&emsp;&emsp;&emsp;&emsp;(II) significantly increased the percentages of students described in section 1111(b)(2)(C)(v)(II) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(C)(v)(II)) who are achieving proficiency or advanced levels on such State academic content standards in mathematics;
 
 &emsp;&emsp;&emsp;&emsp;(III) significantly increased the number of students making significant progress toward meeting such State academic content and achievement standards in mathematics; and
 
@@ -370,7 +370,7 @@ Each State educational agency receiving a grant under this section shall use the
 
 &emsp;&emsp;(B) the percentage of students in the schools served by the eligible local educational agency who enroll in advanced mathematics courses in grades 9 through 12, including the percentage of such students who pass such courses; and
 
-&emsp;&emsp;(C) the progress made in increasing the quality and accessibility of professional development and leadership activities in mathematics, especially activities resulting in greater content knowledge and expertise of teachers, administrators, and other school staff, except that the Secretary shall not require such information until after the third year of a grant awarded under this section.
+&emsp;&emsp;(C) the progress made in increasing the quality and accessibility of professional development and leadership activities in mathematics, especially activities resulting in greater content knowledge and expertise ofteachers, administrators, and other school staff, except that the Secretary shall not require such information until after the third year of a grant awarded under this section.
 
 #### (2) Reporting and disaggregation
 

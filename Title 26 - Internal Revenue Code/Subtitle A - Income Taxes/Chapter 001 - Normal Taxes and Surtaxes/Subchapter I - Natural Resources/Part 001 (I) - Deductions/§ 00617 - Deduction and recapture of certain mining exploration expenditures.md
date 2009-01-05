@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
+&emsp;At the election of the taxpayer, expenditures paid or incurred during the taxable year forthe purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral, and paid or incurred before the beginning of the development stage of the mine, shall be allowed as a deduction in computing taxable income. This subsection shall apply only with respect to the amount of such expenditures which, but for this subsection, would not be allowable as a deduction for the taxable year. This subsection shall not apply to expenditures for the acquisition or improvement of property of a character which is subject to the allowance for depreciation provided in section 167, but allowances for depreciation shall be considered, for purposes of this subsection, as expenditures paid or incurred. In no case shall this subsection apply with respect to amounts paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of oil or gas or of any mineral with respect to which a deduction for percentage depletion is not allowable under section 613.
 
 #### (2) Elections
 
@@ -112,7 +112,7 @@ For purposes of this section
 
 #### (3) Disposal of coal or domestic iron ore with a retained economic interest
 
-&emsp;A transaction which constitutes a disposal of coal or iron ore under section 631(c) shall betreated as a disposition. In such a case, the excess referred to in subsection (d)(1)(B) shall be treated as equal to the gain (if any) referred to in section 631(c).
+&emsp;A transaction which constitutes a disposal of coal or iron ore under section 631(c) shall be treated as a disposition. In such a case, the excess referred to in subsection (d)(1)(B) shall be treated as equal to the gain (if any) referred to in section 631(c).
 
 #### (g) Special rules relating to partnership property
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 411(b)(2)(B) of Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31, 1986,in taxable years ending after such date, with transition rule, see section 411(c) of Pub. L. 99–514 set out as a note under section 263 of this title.
+Amendment by section 411(b)(2)(B) of Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31, 1986, in taxable years ending after such date, with transition rule, see section 411(c) of Pub. L. 99–514 set out as a note under section 263 of this title.
 
 Amendment by section 413(b) of Pub. L. 99–514 applicable to any disposition of property placed in service by taxpayer after Dec. 31, 1986, but inapplicable if such property was acquired pursuant to written contract entered into before Sept. 26, 1985, and binding at all times thereafter, see section 413(c) of Pub. L. 99–514, set out as a note under section 1254 of this title.
 

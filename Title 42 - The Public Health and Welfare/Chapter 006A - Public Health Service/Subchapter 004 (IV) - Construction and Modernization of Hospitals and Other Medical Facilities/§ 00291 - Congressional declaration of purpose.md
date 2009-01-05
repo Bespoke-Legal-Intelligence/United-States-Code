@@ -6,7 +6,7 @@ The purpose of this subchapter is—
 
 &emsp;(b) to stimulate the development of new or improved types of physical facilities for medical, diagnostic, preventive, treatment, or rehabilitative services; and
 
-&emsp;(c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research,experiments, and demonstrations and the useful application of their results.
+&emsp;(c) to promote research, experiments, and demonstrations relating to the effective development and utilization of hospital, clinic, or similar services, facilities, and resources, and to promote the coordination of such research, experiments, and demonstrations and the useful application of their results.
 
 (July 1, 1944, ch. 373, title VI, §600, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 447.)
 
@@ -28,7 +28,7 @@ Section 3(b) of Pub. L. 88–443, as amended by Pub. L. 91–296, title I, §120
 
 &emsp;“(4) the provisions of the fourth sentence of section 636(a) of the Public Health Service Act \[former section 291n of this title\], as in effect prior to the enactment of this Act, shall apply in lieu of the fourth sentence of section 624(a) of the Public Health Service Act \[section 291n(a) of this title\], as amended by this Act, in the case of any project for construction of a facility or for acquisition of equipment with respect to which a grant for any part thereof or for planning such construction or equipment was made prior to the enactment of this Act;
 
-&emsp;“(5) no application with respect to a project for modernization of any facility in any State may be approved by the Surgeon General, for purposes of receiving funds from an allotment under section 602(a)(2) of the Public Health Service Act, as amended by this Act \[section 291b(a)(2) of this title\], before July 1, 1965, or before such State has had a State plan approved by the Surgeon General as meeting the requirements of section 604(a)(4)(E) \[section 291d(a)(4)(E) of this title\] as well as the other requirements of section 604 of such Act as so amended \[section 291d of this title\];
+&emsp;“(5) no application with respect to a project for modernization of any facility in any State may be approved by the Surgeon General, for purposes of receiving funds from an allotment under section 602(a)(2) of the Public Health Service Act, as amended by this Act \[section 291b(a)(2) of this title\], before July 1, 1965, or before such State has had a State planapproved by the Surgeon General as meeting the requirements of section 604(a)(4)(E) \[section 291d(a)(4)(E) of this title\] as well as the other requirements of section 604 of such Act as so amended \[section 291d of this title\];
 
 &emsp;“(6) the provisions of clause (b) of section 609 of the Public Health Service Act \[section 291i of this title\], as amended by this Act, shall apply with respect to any project whether it was approved, and whether the event specified in such clause occurred, before, on, or after the date of enactment of this Act \[June 30, 1970\], except that it shall not apply in the case of any project with respect to which recovery under title VI of such Act \[this subchapter\] has been made prior to the enactment of this paragraph.”
 

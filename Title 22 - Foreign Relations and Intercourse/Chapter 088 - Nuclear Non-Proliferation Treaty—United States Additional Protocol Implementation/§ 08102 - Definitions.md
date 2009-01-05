@@ -40,7 +40,7 @@ In this chapter:
 
 #### (10) Nuclear-weapon State Party and non-nuclear-weapon State Party
 
-&emsp;The terms “nuclear-weapon State Party” and “non-nuclear-weapon State Party” have the meanings given such terms in the Nuclear Non-Proliferation Treaty.
+&emsp;The terms “nuclear-weapon State Party” and “non-nuclear-weapon State Party” havethe meanings given such terms in the Nuclear Non-Proliferation Treaty.
 
 #### (11) Person
 

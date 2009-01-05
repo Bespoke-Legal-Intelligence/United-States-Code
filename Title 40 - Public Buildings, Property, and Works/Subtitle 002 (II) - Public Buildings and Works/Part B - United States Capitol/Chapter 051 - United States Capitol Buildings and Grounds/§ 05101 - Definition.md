@@ -6,7 +6,7 @@ In this chapter, the term “Capitol Buildings” means the United States Capito
 
 #### Amendment of Section
 
-<i>Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), (4), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110–178, §4(b)(1)(A), (d), Jan. 7, 2008, 121 Stat. 2551, 2552, provided that, effective Oct. 1, 2009, this section is amended by inserting “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.</i>
+<i>Pub. L. 110–161, div. H, title I, §1004(d)(2)(A)(i), (4), Dec. 26, 2007, 121 Stat.</i><i>2233, 2234, and Pub. L. 110–178, §4(b)(1)(A), (d), Jan. 7, 2008, 121 Stat. 2551, 2552, provided that, effective Oct. 1, 2009, this section is amended by inserting “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”.</i>
 
 Historical and Revision Notes
 

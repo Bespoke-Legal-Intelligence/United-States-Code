@@ -40,7 +40,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (3) Requests for proposals
 
-&emsp;If the Commissioner of Food and Drugs does not receive a response to a written request issued under paragraph (2) not later than 30 days after the date on which a request was issued, the Secretary, acting through the Director ofthe National Institutes of Health and in consultation with the Commissioner of Food and Drugs, shall publish a request for proposals to conduct the pediatric studies described in the written request in accordance with subsection (b).
+&emsp;If the Commissioner of Food and Drugs does not receive a response to a written request issued under paragraph (2) not later than 30 days after the date on which a request was issued, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs, shall publish a request for proposals to conduct the pediatric studies described in the written request in accordance with subsection (b).
 
 #### (4) Disqualification
 
@@ -92,7 +92,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (9) FDA determination
 
-&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
+&emsp;Not later than 30 days after receiving a recommendation from the Pediatric AdvisoryCommittee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
 
 #### (10) Failure to agree
 

@@ -54,7 +54,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
+Amendment by Pub. L. 108–357 applicable to transactions with respect to which material aid, assistance,or advice referred to in section 6111(b)(1)(A)(i) of this title is provided after Oct. 22, 2004, see section 815(c) of Pub. L. 108–357, set out as a note under section 6111 of this title.
 
 #### Effective Date
 

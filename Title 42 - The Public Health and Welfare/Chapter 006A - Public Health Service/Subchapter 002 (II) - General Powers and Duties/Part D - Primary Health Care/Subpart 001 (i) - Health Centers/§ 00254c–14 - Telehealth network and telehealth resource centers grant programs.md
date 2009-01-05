@@ -296,7 +296,7 @@ The Secretary shall coordinate activities carried out under grant programs descr
 
 #### (<i>o</i>) Outreach activities
 
-The Secretary shall establish and implement procedures to carry out outreach activities toadvise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
+The Secretary shall establish and implement procedures to carry out outreach activities to advise potential end users of telehealth services in rural areas, frontier communities, medically underserved areas, and medically underserved populations in each State about the grant programs described in subsection (b) of this section.
 
 #### (p) Telehealth
 

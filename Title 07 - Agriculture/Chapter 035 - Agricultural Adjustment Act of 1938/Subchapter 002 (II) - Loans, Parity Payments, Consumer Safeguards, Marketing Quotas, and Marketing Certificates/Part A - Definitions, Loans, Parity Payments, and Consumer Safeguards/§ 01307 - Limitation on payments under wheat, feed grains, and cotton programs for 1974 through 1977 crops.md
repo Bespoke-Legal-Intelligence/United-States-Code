@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law—
 
-(1) The total amount of payments which a person shall be entitled to receive under one or more of the annual programs established bytitles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop of the commodities shall not exceed $20,000.
+(1) The total amount of payments which a person shall be entitled to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop of the commodities shall not exceed $20,000.
 
 (2) The term “payments” as used in this section shall not include loans or purchases, or any part of any payment which is determined by the Secretary to represent compensation for resource adjustment or public access for recreation.
 

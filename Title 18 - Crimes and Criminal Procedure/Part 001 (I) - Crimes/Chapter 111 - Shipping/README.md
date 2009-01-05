@@ -22,10 +22,13 @@
 | [2282B.](%C2%A7%2002282B%20-%20Violence%20against%20aids%20to%20maritime%20navigation.md) | Violence against aids to maritime navigation. |
 | [2283\.](%C2%A7%2002283%20-%20Transportation%20of%20explosive%2C%20biological%2C%20chemical%2C%20or%20radioactive%20or%20nuclear%20materials.md) | Transportation of explosive, chemical, biological, or radioactive or nuclear materials.<sup>1</sup> |
 | [2284\.](%C2%A7%2002284%20-%20Transportation%20of%20terrorists.md) | Transportation of terrorists. |
+| [2285\.](%C2%A7%2002285%20-%20Operation%20of%20submersible%20vessel%20or%20semi-submersible%20vessel%20without%20nationality.md) | Operation of submersible vessel or semi-submersible vessel without nationality <sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–407, title I, §102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
 
 2006—Pub. L. 109–177, title III, §§304(b)(2), 305(b), Mar. 9, 2006, 120 Stat. 235, 237, added items 2282B, 2283, and 2284.
 
@@ -38,6 +41,8 @@ Pub. L. 109–177, title III, §304(a)(2), Mar. 9, 2006, 120 Stat. 235, which di
 <i><sup>1</sup></i><i> So in original. The period probably should be “; and”.</i>
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -59,3 +64,4 @@ Pub. L. 109–177, title III, §304(a)(2), Mar. 9, 2006, 120 Stat. 235, which di
 - [&sect; 02282B - Violence against aids to maritime navigation](%C2%A7%2002282B%20-%20Violence%20against%20aids%20to%20maritime%20navigation.md)
 - [&sect; 02283 - Transportation of explosive, biological, chemical, or radioactive or nuclear materials](%C2%A7%2002283%20-%20Transportation%20of%20explosive%2C%20biological%2C%20chemical%2C%20or%20radioactive%20or%20nuclear%20materials.md)
 - [&sect; 02284 - Transportation of terrorists](%C2%A7%2002284%20-%20Transportation%20of%20terrorists.md)
+- [&sect; 02285 - Operation of submersible vessel or semi-submersible vessel without nationality](%C2%A7%2002285%20-%20Operation%20of%20submersible%20vessel%20or%20semi-submersible%20vessel%20without%20nationality.md)

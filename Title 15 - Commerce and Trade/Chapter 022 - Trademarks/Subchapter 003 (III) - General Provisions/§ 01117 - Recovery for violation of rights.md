@@ -6,15 +6,21 @@ When a violation of any right of the registrant of a mark registered in the Pate
 
 #### (b) Treble damages for use of counterfeit mark
 
-In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.
+In assessing damages under subsection (a) for any violation of section 1114(1)(a) of this title or section 220506 of title 36, in a case involving use of a counterfeit mark or designation (as defined in section 1116(d) of this title), the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever amount is greater, together with a reasonable attorney's fee, if the violation consists of—
+
+&emsp;(1) intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services; or
+
+&emsp;(2) providing goods or services necessary to the commission of a violation specified in paragraph (1), with the intent that the recipient of the goods or services would put the goods or services to use in committing the violation.
+
+> In such a case, the court may award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, beginning on the date of the service of the claimant's pleadings setting forth the claim for such entry of judgment and ending on the date such entry is made, or for such shorter time as the court considers appropriate.
 
 #### (c) Statutory damages for use of counterfeit marks
 
 In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
 
-&emsp;(1) not less than $500 or more than $100,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
+&emsp;(1) not less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
 
-&emsp;(2) if the court finds that the use of the counterfeit mark was willful, not more than $1,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just.
+&emsp;(2) if the court finds that the use of the counterfeit mark was willful, not more than $2,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just.
 
 #### (d) Statutory damages for violation of section 1125(d)(1)
 
@@ -24,13 +30,19 @@ In a case involving a violation of section 1125(d)(1) of this title, the plainti
 
 In the case of a violation referred to in this section, it shall be a rebuttable presumption that the violation is willful for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation. Nothing in this subsection limits what may be considered a willful violation under this section.
 
-(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, §202, Dec. 23, 2004, 118 Stat. 3916.)
+(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, §202, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 110–403, title I, §§103, 104, Oct. 13, 2008, 122 Stat. 4259.)
 
 #### Prior Provisions
 
 Acts Feb. 20, 1905, ch. 592, §§16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 104, §4, 41 Stat. 534.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–403, §103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
+
+Subsec. (c)(1). Pub. L. 110–403, §104(1), substituted “$1,000” for “$500” and “$200,000” for “$100,000”.
+
+Subsec. (c)(2). Pub. L. 110–403, §104(2), substituted “$2,000,000” for “$1,000,000”.
 
 2004—Subsec. (e). Pub. L. 108–482 added subsec. (e).
 
@@ -94,5 +106,5 @@ Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this tit
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

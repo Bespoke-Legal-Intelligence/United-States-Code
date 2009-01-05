@@ -24,7 +24,7 @@
 
 1965—Subsec. (a). Pub. L. 89–321, §701, removed references to county and local committees as the agent for measuring commodity or land use acreage, substituted a general reference to any agricultural commodity or land use on farms requiring ascertainment of acreage for specific reference to corn, wheat, cotton, peanuts, or rice, and substituted provisions requiring ascertainment of commodity and land use prior to harvesting and allowing a reasonable time for adjustment of acreage requirements for provisions requiring the filing of a written report by the local committee with the state committee in the event of planting in excess of farm acreage allotment.
 
-Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to any basic agricultural commodity on the farm is in excess of the farm acreage allotment.
+Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to anybasic agricultural commodity on the farm is in excess of the farm acreage allotment.
 
 1960—Subsec. (b). Pub. L. 86–553, §1, struck out second sentence which read as follows: “The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeasurement if the planted acreage is found to be in excess of the allotted acreage” which is now covered by subsec. (c) of this section.
 

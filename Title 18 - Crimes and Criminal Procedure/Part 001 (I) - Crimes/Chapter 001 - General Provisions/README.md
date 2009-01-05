@@ -68,7 +68,7 @@ Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, established
 
 #### National Commission on Reform of Federal Criminal Laws
 
-Pub. L. 89–801, Nov. 8, 1966, 80 Stat. 1516, as amended by Pub. L. 91–39, July 8, 1969, 83 Stat. 44, provided for the establishment of the National Commission on Reform of Federal Criminal Laws, its membership, duties, compensation of the members, the Director, and the staff of the Commission, established the Advisory Committee on Reform of Federal Criminal Laws, required the Commission to submit interim reports to the President and the Congress and to submit a final report within four years from Nov. 8, 1966, and further provided that the Commission shall cease to exist sixty days after the submission of the final report.
+Pub. L. 89–801, Nov. 8, 1966, 80 Stat. 1516, as amended by Pub. L. 91–39, July 8, 1969, 83 Stat. 44, provided for the establishment of the National Commission on Reform of Federal Criminal Laws, its membership, duties, compensation of the members, the Director, and thestaff of the Commission, established the Advisory Committee on Reform of Federal Criminal Laws, required the Commission to submit interim reports to the President and the Congress and to submit a final report within four years from Nov. 8, 1966, and further provided that the Commission shall cease to exist sixty days after the submission of the final report.
 
 #### Ex. Ord. No. 11396. Coordination By Attorney General of Federal Law Enforcement and Crime Prevention Programs
 
@@ -100,7 +100,9 @@ Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Co
 
 <i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 86–710 without corresponding amendment of part analysis.</i>
 
-<i><sup>3</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
+<i><sup>3</sup></i><i> Chapter heading amended by Pub. L. 110–457 without corresponding amendment of part analysis.</i>
+
+<i><sup>4</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
 
 
 ---

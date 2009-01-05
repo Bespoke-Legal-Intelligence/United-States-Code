@@ -12,7 +12,7 @@ There shall be included in the gross income of an employee for the taxable year 
 
 Subsection (a) shall not apply to—
 
-&emsp;(1) the cost of group-term life insurance on the life of an individual which is providedunder a policy carried directly or indirectly by an employer after such individual has terminated his employment with such employer and is disabled (within the meaning of section 72(m)(7)),
+&emsp;(1) the cost of group-term life insurance on the life of an individual which is provided under a policy carried directly or indirectly by an employer after such individual has terminated his employment with such employer and is disabled (within the meaning of section 72(m)(7)),
 
 &emsp;(2) the cost of any portion of the group-term life insurance on the life of an employee provided during part or all of the taxable year of the employee under which—
 
@@ -106,7 +106,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 &emsp;&emsp;&emsp;&emsp;(II) an organization described in section 170(b)(1)(A)(iii), and
 
-&emsp;&emsp;&emsp;&emsp;(III) an organization described in section 501(c)(3), the basis of the exemption for which is substantially similar to thebasis for exemption of an organization described in subclause (II).
+&emsp;&emsp;&emsp;&emsp;(III) an organization described in section 501(c)(3), the basis of the exemption for which is substantially similar to the basis for exemption of an organization described in subclause (II).
 
 #### (8) Treatment of former employees
 
@@ -116,7 +116,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 For purposes of this section, the term “employee” includes a former employee.
 
-(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517.)
+(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII,§1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517.)
 
 #### Amendments
 
@@ -190,7 +190,7 @@ Special rule for collective bargaining plan.—In the case of a plan maintained 
 
 “(3)
 
-Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 \[section 232(d)(2)of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below\], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
+Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 \[section 232(d)(2) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below\], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
 
 “(4)
 

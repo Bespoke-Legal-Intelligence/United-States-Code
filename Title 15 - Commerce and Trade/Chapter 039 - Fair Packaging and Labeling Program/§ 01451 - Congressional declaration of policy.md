@@ -6,7 +6,7 @@ Informed consumers are essential to the fair and efficient functioning of a free
 
 #### Effective Date
 
-Section 13 of Pub. L. 89–755 provided that: “This Act \[enacting this chapter\] shall take effect on July 1, 1967: <i>Provided</i>, That the Secretary (with respect to any consumer commodity which is a food, drug, device, or cosmetic, as those terms are defined by the Federal Food, Drug, and Cosmetic Act) \[section 301 et seq. of Title 21, Food and Drugs\], and the Commission (with respect to any other consumer commodity) may by regulation postpone, for an additional twelve-month period, the effective date of this Act \[this chapter\] with respect to any class or type of consumer commodity on the basis of a finding that such a postponement would be in the public interest.”
+Section 13 of Pub. L. 89–755 provided that: “This Act \[enacting this chapter\] shall take effect on July 1, 1967:<i>Provided</i>, That the Secretary (with respect to any consumer commodity which is a food, drug, device, or cosmetic, as those terms are defined by the Federal Food, Drug, and Cosmetic Act) \[section 301 et seq. of Title 21, Food and Drugs\], and the Commission (with respect to any other consumer commodity) may by regulation postpone, for an additional twelve-month period, the effective date of this Act \[this chapter\] with respect to any class or type of consumer commodity on the basis of a finding that such a postponement would be in the public interest.”
 
 #### Short Title
 

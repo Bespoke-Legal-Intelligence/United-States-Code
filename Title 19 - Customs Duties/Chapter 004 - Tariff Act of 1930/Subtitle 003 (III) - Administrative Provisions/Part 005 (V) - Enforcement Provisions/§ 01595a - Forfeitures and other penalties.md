@@ -28,7 +28,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;&emsp;(B) its importation or entry requires a license, permit or other authorization of an agency of the United States Government and the merchandise is not accompanied by such license, permit, or authorization;
 
-&emsp;&emsp;(C) it is merchandise or packaging in which copyright, trademark, or trade name protection violations are involved (including, but not limited to, violations of section 1124, 1125, or 1127 of title 15, section 506 or 509 of title 17, or section 2318 or 2320 of title 18);
+&emsp;&emsp;(C) it is merchandise or packaging in which copyright, trademark, or trade name protection violations are involved (including, but not limited to, violations of section 1124, 1125, or 1127 of title 15, section 506 of title 17, or section 2318 or 2320 of title 18);
 
 &emsp;&emsp;(D) it is trade dress merchandise involved in the violation of a court order citing section 1125 of title 15;
 
@@ -50,7 +50,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 Merchandise exported or sent from the United States or attempted to be exported or sent from the United States contrary to law, or the proceeds or value thereof, and property used to facilitate the exporting or sending of such merchandise, the attempted exporting or sending of such merchandise, or the receipt, purchase, transportation, concealment, or sale of such merchandise prior to exportation shall be seized and forfeited to the United States.
 
-(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Pub. L. 99–570, title III, §3123, Oct. 27, 1986, 100 Stat. 3207–87; Pub. L. 103–182, title VI, §624, Dec. 8, 1993, 107 Stat. 2187; Pub. L. 104–132, title VI, §606, Apr. 24, 1996, 110 Stat. 1290; Pub. L. 109–177, title III, §311(d), Mar. 9, 2006, 120 Stat. 242.)
+(June 17, 1930, ch. 497, title IV, §596, as added Sept. 1, 1954, ch. 1213, title V, §502, 68 Stat. 1140; amended Pub. L. 99–570, title III, §3123, Oct. 27, 1986, 100 Stat. 3207–87; Pub. L. 103–182, title VI, §624, Dec. 8, 1993, 107 Stat. 2187; Pub. L. 104–132, title VI, §606, Apr. 24, 1996, 110 Stat. 1290; Pub. L. 109–177, title III, §311(d), Mar. 9, 2006, 120 Stat. 242; Pub. L. 110–403, title II, §209(b), Oct. 13, 2008, 122 Stat. 4264.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of 
 In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+2008—Subsec. (c)(2)(C). Pub. L. 110–403, which directed amendment of section 596(c)(2)(c) of the Tariff Act of 1950 by striking out “or 509”, was executed by striking out “or 509” after “506” in subsec. (c)(2)(C) of this section, which is section 596 of the Tariff Act of 1930, to reflect the probable intent of Congress.
 
 2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
 

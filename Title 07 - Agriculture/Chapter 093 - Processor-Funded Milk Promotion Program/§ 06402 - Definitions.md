@@ -36,7 +36,7 @@ As used in this chapter:
 
 #### (8) United States
 
-&emsp;The term “United States”, except as used in sections 6410 through 6412 of this title, meansthe 48 contiguous States in the continental United States and the District of Columbia.
+&emsp;The term “United States”, except as used in sections 6410 through 6412 of this title, means the 48 contiguous States in the continental United States and the District of Columbia.
 
 (Pub. L. 101–624, title XIX, §1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, §2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, §146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, §1506(a), (b), May 13, 2002, 116 Stat. 210.)
 

@@ -12,7 +12,7 @@ In order to assist and strengthen the advancement of ongoing efforts to have the
 
 #### (1) In general
 
-&emsp;The United States Executive Director of the International Bank for Reconstruction and Development shall submit 3 reports to the Congress on—
+&emsp;The United States Executive Director of the International Bank for Reconstruction andDevelopment shall submit 3 reports to the Congress on—
 
 &emsp;&emsp;(A) the progress made in transforming government-owned enterprises into privately owned enterprises as described in subsection (b) of this section;
 

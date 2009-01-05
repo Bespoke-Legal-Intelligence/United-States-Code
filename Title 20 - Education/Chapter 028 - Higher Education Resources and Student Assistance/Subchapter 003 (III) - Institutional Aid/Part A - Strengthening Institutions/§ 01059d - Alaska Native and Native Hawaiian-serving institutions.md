@@ -28,7 +28,7 @@ For the purpose of this section—
 
 #### (1) Types of activities authorized
 
-&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutions and Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Alaska Natives or Native Hawaiians.
+&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutionsand Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Alaska Natives or Native Hawaiians.
 
 #### (2) Examples of authorized activities
 
@@ -46,9 +46,11 @@ For the purpose of this section—
 
 &emsp;&emsp;(F) funds and administrative management, and acquisition of equipment for use in strengthening funds management;
 
-&emsp;&emsp;(G) joint use of facilities such as laboratories and libraries; and
+&emsp;&emsp;(G) joint use of facilities such as laboratories and libraries;
 
-&emsp;&emsp;(H) academic tutoring and counseling programs and student support services.
+&emsp;&emsp;(H) academic tutoring and counseling programs and student support services; and
+
+&emsp;&emsp;(I) education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ families.
 
 #### (d) Application process
 
@@ -78,9 +80,11 @@ For the purpose of this section—
 
 &emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
 
-(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641; amended Pub. L. 106–211, §1(a), (b)(2), May 26, 2000, 114 Stat. 330; Pub. L. 107–110, title VII, §702(a), Jan. 8, 2002, 115 Stat. 1946.)
+(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641; amended Pub. L. 106–211, §1(a), (b)(2), May 26, 2000, 114 Stat. 330; Pub. L. 107–110, title VII, §702(a), Jan. 8, 2002, 115 Stat. 1946; Pub. L. 110–315, title III, §304, Aug. 14, 2008, 122 Stat. 3169.)
 
 #### Amendments
+
+2008—Subsec. (c)(2)(I). Pub. L. 110–315 added subpar. (I).
 
 2002—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted “section 7546” for “section 7938”.
 

@@ -40,5 +40,5 @@ In subsec. (b)(5), (6), “section 5703 of title 5” and “section 3109 of tit
 
 #### Transfer of Functions
 
-For transfer of functions and offices relating to the Rehabilitation Act of 1973 \[see References in Text note above\] of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441 and 3508 of Title 20, Education.
+For transfer of functions and offices relating to the Rehabilitation Act of 1973 \[see References in Text noteabove\] of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441 and 3508 of Title 20, Education.
 

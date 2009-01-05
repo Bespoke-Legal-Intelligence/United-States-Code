@@ -42,7 +42,7 @@
 
 #### (e) Investment and expenditure flexibility
 
-The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscal years following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.
+The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscalyears following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.
 
 #### (f) Recovery of payments
 
@@ -68,9 +68,9 @@ As used in this section:
 
 #### (h) Authorization of appropriations
 
-(1) In the case of the University, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1998 through 2003.
+(1) In the case of the University, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 2009 through 2014.
 
-(2) In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1998 through 2003.
+(2) In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 2009 through 2014.
 
 (3) Amounts appropriated under paragraph (1) or (2) shall remain available until expended.
 
@@ -78,13 +78,15 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Prior Provisions
 
 A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, §207, Pub. L. 102–421, title I, §101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.
 
 #### Amendments
+
+2008—Subsec. (h)(1), (2). Pub. L. 110–315 substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
 1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
 

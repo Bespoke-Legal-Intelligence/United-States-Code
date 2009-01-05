@@ -22,7 +22,7 @@ Place of Imprisonment.—The Bureau of Prisons shall designate the place of the 
 
 &emsp;(5) any pertinent policy statement issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28.
 
-> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.
+> In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status. The Bureau may at any time, having regard for the same matters, direct the transfer of a prisoner from one penal or correctional facility to another. The Bureau shall make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse. Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.
 
 (c)
 
@@ -76,13 +76,7 @@ Authorization of appropriations.—There are authorized to carry out this subsec
 
 Definitions.—As used in this subsection—
 
-&emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
-
-&emsp;&emsp;&emsp;(i) directed at the substance abuse problems of the prisoner;
-
-&emsp;&emsp;&emsp;(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems; and
-
-&emsp;&emsp;&emsp;(iii) which may include the use of pharmacoptherapies <sup>1</sup>, if appropriate, that may extend beyond the treatment period;
+&emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies,<sup>1</sup> where appropriate, that may extend beyond the 6-month period);
 
 &emsp;&emsp;(B) the term “eligible prisoner” means a prisoner who is—
 
@@ -94,7 +88,7 @@ Definitions.—As used in this subsection—
 
 &emsp;(6)
 
-Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
+Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Servicesconcerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
 (f)
 
@@ -120,13 +114,41 @@ Regions.—At least 1 sex offender management program under paragraph (1)(A), an
 
 Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634.)
+(g)
+
+Continued Access to Medical Care.—
+
+&emsp;(1)
+
+In general.—In order to ensure a minimum standard of health and habitability, the Bureau of Prisons should ensure that each prisoner in a community confinement facility has access to necessary medical care, mental health care, and medicine through partnerships with local health service providers and transition planning.
+
+&emsp;(2)
+
+Definition.—In this subsection, the term “community confinement” has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693.)
+
+#### References in Text
+
+The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
 
 #### Prior Provisions
 
 For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–199, §251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
+
+Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
+
+&emsp;“(i) directed at the substance abuse problems of the prisoner;
+
+&emsp;“(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems; and
+
+&emsp;“(iii) which may include the use of pharmacoptherapies, if appropriate, that may extend beyond the treatment period;”.
+
+Subsec. (g). Pub. L. 110–199, §231(f), added subsec. (g).
 
 2006—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
 
@@ -156,5 +178,9 @@ Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “pharmacotherapies”.</i>
+#### Construction of 2008 Amendment
+
+For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “pharmacotherapies,”.</i>
 

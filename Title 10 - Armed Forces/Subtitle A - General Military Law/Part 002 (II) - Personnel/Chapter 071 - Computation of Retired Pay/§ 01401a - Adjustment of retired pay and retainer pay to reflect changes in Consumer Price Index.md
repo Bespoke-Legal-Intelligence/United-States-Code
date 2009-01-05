@@ -22,7 +22,7 @@ Percentage increase.—Except as otherwise provided in this subsection, the Secr
 
 &emsp;(3)
 
-Reduced percentage for certain post-august 1, 1986 members.—If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after August 1, 1986, and has elected to receive a bonus under section 322 of title 37, by the difference between—
+Reduced percentage for certain post-august 1, 1986 members.—If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after August 1, 1986, and has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, by the difference between—
 
 &emsp;&emsp;(A) the percent determined under paragraph (2); and
 
@@ -30,7 +30,7 @@ Reduced percentage for certain post-august 1, 1986 members.—If the percent det
 
 &emsp;(4)
 
-Special rule for paragraph (3).—If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other thanany provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
+Special rule for paragraph (3).—If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
 
 &emsp;(5)
 
@@ -62,7 +62,7 @@ Members covered.—Paragraphs (1) and (2) apply to a member or former member of 
 
 (d)
 
-First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 of title 37 and whose retired pay base is determined under section 1407 of this title shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
+First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37 and whose retired pay base is determined under section 1407 of this title shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
 
 &emsp;(1) the price index for the base quarter of that year, exceeds
 
@@ -70,7 +70,7 @@ First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—
 
 (e)
 
-Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
+Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
 
 &emsp;(1) the percent by which—
 
@@ -92,7 +92,7 @@ Prevention of retired pay inversions.—Notwithstanding any other provision of l
 
 &emsp;(2)
 
-Prevention of cola inversions.—The percentage of the first adjustment under thissection in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
+Prevention of cola inversions.—The percentage of the first adjustment under this section in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
 
 (g)
 
@@ -110,9 +110,15 @@ Definitions.—In this section:
 
 Price Index for a Quarter.—For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572.)
+(Added Pub. L. 88–132, §5(g)(1), Oct. 2, 1963, 77 Stat. 213; amended Pub. L. 89–132, §5(b), Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §2(a)(1), Dec. 16, 1967, 81 Stat. 652; Pub. L. 91–179, §1, Dec. 30, 1969, 83 Stat. 837; Pub. L. 94–106, title VIII, §806, Oct. 7, 1975, 89 Stat. 538; Pub. L. 94–361, title VIII, §801(a), July 14, 1976, 90 Stat. 929; Pub. L. 94–440, title XIII, §1306(d)(1), Oct. 1, 1976, 90 Stat. 1462; Pub. L. 96–342, title VIII, §812(b)(1), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 98–94, title IX, §§921(a)(1), (b), 922(a)(2), Sept. 24, 1983, 97 Stat. 640, 641; Pub. L. 98–525, title XIV, §1405(26), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–348, title I, §102, July 1, 1986, 100 Stat. 683; Pub. L. 100–180, div. A, title XII, §1231(21), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–224, §1, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 100–456, div. A, title VI, §622(a), Sept. 29, 1988, 102 Stat. 1983; Pub. L. 101–189, div. A, title VI, §651(b)(1), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–66, title II, §2001, Aug. 10, 1993, 107 Stat. 335; Pub. L. 103–160, div. A, title XI, §1182(e), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–335, title VIII, §8114A(b)(1), Sept. 30, 1994, 108 Stat. 2648; Pub. L. 103–337, div. A, title VI, §633(a), Oct. 5, 1994, 108 Stat. 2787; Pub. L. 104–106, div. A, title VI, §631(a), (c), Feb. 10, 1996, 110 Stat. 364, 365; Pub. L. 104–201, div. A, title VI, §§631(a), 632(a), Sept. 23, 1996, 110 Stat. 2549; Pub. L. 106–65, div. A, title VI, §§641(b), 643(b)(1), title X, §1066(a)(10), Oct. 5, 1999, 113 Stat. 662, 663, 771; Pub. L. 107–314, div. A, title VI, §633, Dec. 2, 2002, 116 Stat. 2572; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178.)
+
+#### References in Text
+
+Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsecs. (b)(3), (d), and (e), means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+
+2008—Subsecs. (b)(3), (d), (e). Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
 2002—Subsec. (c)(1). Pub. L. 107–314, §633(a)(1), inserted “but subject to subsection (f)(2)” after “Notwithstanding subsection (b)” in introductory provisions.
 
@@ -148,7 +154,7 @@ Percentage increase” for “
 
 Pre-august 1, 1986 members” in heading.
 
-Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986,”.
+Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member whofirst became a member of a uniformed service before August 1, 1986,”.
 
 Subsec. (b)(3). Pub. L. 106–65, §643(b)(1)(C), substituted “
 
@@ -300,7 +306,7 @@ Subsecs. (c) to (e). Pub. L. 90–207 added subsecs. (c) to (e).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made by sections 641, 642, and 643 \[enacting section 322 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 1409, 1410, 1451, and 1452 of this title\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §644, Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made bysections 641, 642, and 643 \[enacting section 322 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 1409, 1410, 1451, and 1452 of this title\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1996 Amendment
 
@@ -320,7 +326,7 @@ Section 921(a)(2) of Pub. L. 98–94 provided that:
 
 “(A) Notwithstanding the repeal of such subsection \[subsec. (e) of this section\], the provisions of such subsection shall apply in the case of any member or former member of the Armed Forces eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] for a period of three years after such date in the same manner such provisions would have applied had they not been repealed.
 
-“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces whowas eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
+“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces who was eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
 
 Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
 
@@ -518,7 +524,7 @@ Section 801(c) of Pub. L. 94–361 provided that:
 
 “(3) The provisions of paragraphs (1) and (2) relating to any change in the method of computing the cost-of-living adjustment of the retired pay or retainer pay of members and former members of the Armed Forces shall be applicable to the computation of cost-of-living adjustments of the retired pay of commissioned officers of the National Oceanic and Atmospheric Administration and the retired pay of commissioned officers of the Public Health Service.”
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 94–361, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, isknown as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 #### Increase in Certain Armed Force Members’ Pay and Allowances Not Otherwise Tied to Consumer Price Index
 

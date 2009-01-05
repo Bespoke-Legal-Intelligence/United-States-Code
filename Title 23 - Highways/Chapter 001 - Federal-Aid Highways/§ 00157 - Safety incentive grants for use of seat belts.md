@@ -140,7 +140,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 &emsp;(2)
 
-Proportionate adjustment.—If the total amounts to be allocated under subsection (c)for any fiscal year would exceed the amounts authorized for the fiscal year under paragraph (1), the allocation to each State under subsection (c) shall be reduced proportionately.
+Proportionate adjustment.—If the total amounts to be allocated under subsection (c) for any fiscal year would exceed the amounts authorized for the fiscal year under paragraph (1), the allocation to each State under subsection (c) shall be reduced proportionately.
 
 &emsp;(3)
 
@@ -164,7 +164,7 @@ Fiscal years 2000 through 2005.—To the extent that the amounts made available 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 

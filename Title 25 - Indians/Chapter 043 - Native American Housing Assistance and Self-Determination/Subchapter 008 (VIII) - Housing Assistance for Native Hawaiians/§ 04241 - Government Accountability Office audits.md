@@ -2,7 +2,7 @@
 
 To the extent that the financial transactions of the Department of Hawaiian Home Lands involving grant amounts under this subchapter relate to amounts provided under this subchapter, those transactions may be audited by the Comptroller General of the United States under such regulations as may be prescribed by the Comptroller General. The Comptroller General of the United States shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by the Department of Hawaiian Home Lands pertaining to such financial transactions and necessary to facilitate the audit.
 
-(Pub. L. 104–330, title VIII, §822, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2895,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2989; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–330, title VIII, §822, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2989; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Codification
 

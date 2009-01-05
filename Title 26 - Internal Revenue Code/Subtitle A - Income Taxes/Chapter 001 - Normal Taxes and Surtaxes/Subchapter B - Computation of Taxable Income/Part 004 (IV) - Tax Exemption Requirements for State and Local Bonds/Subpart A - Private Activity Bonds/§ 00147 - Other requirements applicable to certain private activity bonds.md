@@ -86,7 +86,7 @@
 
 &emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond if—
 
-&emsp;&emsp;(A) it is issued as part of an issue and 25 percent or more of the net proceeds of suchissue are to be used (directly or indirectly) for the acquisition of land (or an interest therein), or
+&emsp;&emsp;(A) it is issued as part of an issue and 25 percent or more of the net proceeds of such issue are to be used (directly or indirectly) for the acquisition of land (or an interest therein), or
 
 &emsp;&emsp;(B) any portion of the proceeds of such issue is to be used (directly or indirectly) for the acquisition of land (or an interest therein) to be used for farming purposes.
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the requirements of subparagraph (B) are met with respect to any land, paragraph (1) shall not apply to such land, and subsection (d) shall not apply to property to be used thereon for farming purposes, but only to the extent of expenditures (financed with the proceeds of the issue) not in excess of $250,000.
+&emsp;&emsp;If the requirements of subparagraph (B) are met with respect to any land, paragraph (1) shall not apply to such land, and subsection (d) shall not apply to property to be used thereon for farming purposes, but only to the extent of expenditures (financed with the proceeds of the issue) not in excess of $450,000.
 
 #### (B) Acquisition by first-time farmers
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) has not at any time had any direct or indirect ownership interest in substantial farmland in the operation of which such individual materially participated, and
 
-&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds $250,000.
+&emsp;&emsp;&emsp;&emsp;(II) has not received financing under this paragraph in an amount which, when added to the financing to be provided under this paragraph, exceeds the amount in effect under subparagraph (A).
 
 #### (ii) Aggregation rules
 
@@ -130,11 +130,7 @@
 
 #### (E) Substantial farmland
 
-&emsp;&emsp;For purposes of this paragraph, the term “substantial farmland” means any parcel of land unless—
-
-&emsp;&emsp;&emsp;(i) such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located, and
-
-&emsp;&emsp;&emsp;(ii) the fair market value of the land does not at any time while held by the individual exceed $125,000.
+&emsp;&emsp;For purposes of this paragraph, the term “substantial farmland” means any parcel of land unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.
 
 #### (F) Used equipment limitation
 
@@ -155,6 +151,16 @@
 &emsp;&emsp;&emsp;(i) the acquisition price is for the fair market value of such land or property, and
 
 &emsp;&emsp;&emsp;(ii) subsequent to such acquisition, the related person does not have a financial interest in the farming operation with respect to which the bond proceeds are to be used.
+
+#### (H) Adjustments for inflation
+
+&emsp;&emsp;In the case of any calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+
+> &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $100, suchamount shall be rounded to the nearest multiple of $100.
 
 #### (3) Exception for certain land acquired for environmental purposes, etc.
 
@@ -260,7 +266,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) the chief elected executive officer, the chief elected State legal officer of the executive branch, or any other elected official of such unit designated for purposes of this paragraph by such chief elected executive officer or by State law.
 
-&emsp;&emsp;&nbsp;If the office of any elected official described in subclause (II) is vacated and an individual is appointed by the chief elected executive officer of the governmental unitand confirmed by the elected legislative body of such unit (if any) to serve the remaining term of the elected official, the individual so appointed shall be treated as the elected official for such remaining term.
+&emsp;&emsp;&nbsp;If the office of any elected official described in subclause (II) is vacated and an individual is appointed by the chief elected executive officer of the governmental unit and confirmed by the elected legislative body of such unit (if any) to serve the remaining term of the elected official, the individual so appointed shall be treated as the elected official for such remaining term.
 
 #### (ii) No applicable elected representative
 
@@ -314,7 +320,11 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3),Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -324,7 +334,23 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted “$450,000” for “$250,000”.
+
+Subsec. (c)(2)(C)(i)(II). Pub. L. 110–246, §15341(d), substituted “the amount in effect under subparagraph (A)” for “$250,000”.
+
+Subsec. (c)(2)(E). Pub. L. 110–246, §15341(c), substituted “unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.” for “unless—
+
+&emsp;“(i) such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located, and
+
+&emsp;“(ii) the fair market value of the land does not at any time while held by the individual exceed $125,000.”
+
+Subsec. (c)(2)(H). Pub. L. 110–246, §15341(b), added subpar. (H).
 
 2001—Subsec. (h). Pub. L. 107–16, §§422(e), 901, temporarily substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -354,6 +380,14 @@ Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted “proceeds” 
 
 Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted “proceeds” for “aggregate authorized face amount” and “do” for “does”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XV, §15341(e), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15341(e), June 18, 2008, 122 Stat. 1664, 2279, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
@@ -374,7 +408,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
+Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amendingthis section\] shall apply to bonds issued after June 30, 1987.”
 
 Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

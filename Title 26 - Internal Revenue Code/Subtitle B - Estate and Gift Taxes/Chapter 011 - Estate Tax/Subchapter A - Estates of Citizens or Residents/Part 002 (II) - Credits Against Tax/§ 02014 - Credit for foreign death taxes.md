@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicableunder subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
+The tax imposed by section 2001 shall be credited with the amount of any estate, inheritance, legacy, or succession taxes actually paid to any foreign country in respect of any property situated within such foreign country and included in the gross estate (not including any such taxes paid with respect to the estate of a person other than the decedent). The determination of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States.
 
 #### (b) Limitations on credit
 
@@ -50,7 +50,7 @@ The credit provided in this section shall be allowed only if the taxpayer establ
 
 The credit provided in this section shall be allowed only for such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
 
-&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
+&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), thenwithin such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
 
 &emsp;(2) If, under section 6161, an extension of time has been granted for payment of the tax shown on the return, or of a deficiency, then within such 4-year period or before the date of the expiration of the period of the extension.
 

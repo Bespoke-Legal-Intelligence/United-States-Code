@@ -6,11 +6,11 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### (b) Purpose of payments
 
-(1) The sums paid to institutions under this part are for the sole purpose of offsetting the administrative costs of the programs described in subsection (a) of this section.
+(1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a) of this section.
 
 (2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
-(Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486.)
+(Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486; Pub. L. 110–315, title IV, §494B, Aug. 14, 2008, 122 Stat. 3319.)
 
 #### References in Text
 
@@ -23,6 +23,8 @@ Section 1091(h) of this title, referred to in subsec. (a), was redesignated sect
 A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–315 substituted “administering” for “offsetting the administrative costs of”.
 
 1993—Subsec. (a). Pub. L. 103–208, §2(k)(6), repealed Pub. L. 102–325, §446(c). See 1992 Amendment note below.
 

@@ -106,7 +106,7 @@ Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104�
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources andocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
+&emsp;“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources and ocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
 
 &emsp;“(2) The cumulative effects of large-scale driftnet fishing pose a significant threat to the marine ecosystem, and slow-reproducing species like marine mammals, sharks, and seabirds may require many years to recover.
 

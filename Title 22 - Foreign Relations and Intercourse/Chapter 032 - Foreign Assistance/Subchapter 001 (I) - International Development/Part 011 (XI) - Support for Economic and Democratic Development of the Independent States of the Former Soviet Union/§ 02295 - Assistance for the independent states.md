@@ -98,7 +98,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Enhancing the human and natural environment and conserving environmental resources, including through—
 
-&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies, environmental restoration, and sustainable use of natural resources;
+&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies,environmental restoration, and sustainable use of natural resources;
 
 &emsp;&emsp;(B) promotion of the provision of environmental technology, education, and training by United States businesses, not-for-profit organizations, and institutions of higher education; and
 

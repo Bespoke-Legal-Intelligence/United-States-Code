@@ -18,7 +18,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(7) Planning for the use of ocean resources.
 
-&emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energy facilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
+&emsp;(8) Adoption of procedures and enforceable policies to help facilitate the siting of energyfacilities and Government facilities and energy-related activities and Government activities which may be of greater than local significance.
 
 &emsp;(9) Adoption of procedures and policies to evaluate and facilitate the siting of public and private aquaculture facilities in the coastal zone, which will enable States to formulate, administer, and implement strategic plans for marine aquaculture.
 

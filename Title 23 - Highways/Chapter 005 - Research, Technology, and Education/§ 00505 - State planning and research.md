@@ -6,7 +6,7 @@ General Rule.—Two percent of the sums apportioned to a State for fiscal year 1
 
 &emsp;(1) Engineering and economic surveys and investigations.
 
-&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programsand systems, including metropolitan and statewide planning under sections 134 and 135.
+&emsp;(2) The planning of future highway programs and local public transportation systems and the planning of the financing of such programs and systems, including metropolitan and statewide planning under sections 134 and 135.
 
 &emsp;(3) Development and implementation of management systems under section 303.
 
@@ -36,7 +36,7 @@ Nonapplicability of assessment.—Funds expended under paragraph (1) shall not b
 
 (c)
 
-Federal Share.—The Federal share of the cost of a project carried out using funds subject to subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
+Federal Share.—The Federal share of the cost of a project carried out using funds subjectto subsection (a) shall be 80 percent unless the Secretary determines that the interests of the Federal-aid highway program would be best served by decreasing or eliminating the non-Federal share.
 
 (d)
 

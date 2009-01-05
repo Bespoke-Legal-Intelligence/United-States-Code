@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To natural wine made from berries or fruit other than grapes, pure dry sugar or liquid sugar may be added to the juice in the fermenter, or to the wine after fermentation; but only if such wine has not more than 14 percent alcohol by volume after complete fermentation, or after complete fermentation and sweetening, and a total solids content not in excess of 21 percent by weight; and except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
+To natural wine made from berries or fruit other than grapes, pure dry sugar or liquid sugar may be added to the juice in the fermenter, orto the wine after fermentation; but only if such wine has not more than 14 percent alcohol by volume after complete fermentation, or after complete fermentation and sweetening, and a total solids content not in excess of 21 percent by weight; and except that the use under this subsection of liquid sugar shall be limited so that the resultant volume will not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
 
 #### (b) Ameliorated fruit and berry wines
 
@@ -10,7 +10,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 (2) Pure dry sugar or liquid sugar may be used in the production of wines under this subsection for the purpose of correcting natural deficiencies, but not to such an extent as would reduce the natural fixed acid in the corrected juice or wine to five parts per thousand. The quantity of sugar so used shall not exceed the quantity which would have been required to adjust the juice, prior to fermentation, to a total solids content of 25 degrees (Brix). Such sugar shall be added prior to the completion of fermentation of the wine. After such addition of the sugar, the wine or juice shall be treated and accounted for as provided in section 5383(b), covering the production of high acid grape wines, except that—
 
-&emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid forother fruit and berry wines, instead of tartaric acid;
+&emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid for other fruit and berry wines, instead of tartaric acid;
 
 &emsp;(B) Juice adjusted with pure dry sugar or liquid sugar as provided in this paragraph shall be treated in the same manner as original natural juice under the provisions of section 5383(b); except that if liquid sugar is used, the volume of water contained therein must be deducted from the volume of ameliorating material authorized;
 
@@ -28,7 +28,7 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 1997—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
 
-1968—Subsec. (a). Pub. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
+1968—Subsec. (a). Pub. L. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 
 1965—Subsec. (a). Pub. L. 89–44, §806(b)(2)(A), authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
 
@@ -50,7 +50,7 @@ Section 1417(b) of Pub. L. 105–34 provided that: “The amendment made by this
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
 #### Effective Date of 1965 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) <sup>1</sup> Establishment
 
-(1)(A) There is established a Monitored Retrievable Storage Review Commission (hereinafter in this section referred to as the “MRS Commission”), that shall consist of 3 memberswho shall be appointed by and serve at the pleasure of the President pro tempore of the Senate and the Speaker of the House of Representatives.
+(1)(A) There is established a Monitored Retrievable Storage Review Commission (hereinafter in this section referred to as the “MRS Commission”), that shall consist of 3 members who shall be appointed by and serve at the pleasure of the President pro tempore of the Senate and the Speaker of the House of Representatives.
 
 (B) Members of the MRS Commission shall be appointed not later than 30 days after December 22, 1987, from among persons who as a result of training, experience and attainments are exceptionally well qualified to evaluate the need for a monitored retrievable storage facility as a part of the Nation's nuclear waste management system.
 
@@ -60,11 +60,11 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 #### Amendments
 
-1988—Subsec. (a)(3). Pub. L. 100–507 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The report under this subsection, together with the recommendation of the MRS Commission, shall be transmitted to Congress on June 1, 1989.”
+1988—Subsec. (a)(3). Pub. L. 100–507 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The report under this subsection, together with therecommendation of the MRS Commission, shall be transmitted to Congress on June 1, 1989.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

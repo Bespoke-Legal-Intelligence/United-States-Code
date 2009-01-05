@@ -60,7 +60,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;(D) The Copyright Royalty Judges and any other officer or employee acting in good faith in distributing funds under subparagraph (C) shall not be held liable for the payment of any excess fees under subparagraph (C). The Copyright Royalty Judges shall, at the time the final determination is made, calculate any such excess amounts.
 
-&emsp;(4) To accept or reject royalty claims filed under sections 111, 119, and 1007, on the basis oftimeliness or the failure to establish the basis for a claim.
+&emsp;(4) To accept or reject royalty claims filed under sections 111, 119, and 1007, on the basis of timeliness or the failure to establish the basis for a claim.
 
 &emsp;(5) To accept or reject rate adjustment petitions as provided in section 804 and petitions to participate as provided in section 803(b) (1) and (2).
 
@@ -148,5 +148,5 @@ Interim proceedings.—Notwithstanding subsection (a), as soon as practicable af
 
 “(c)
 
-Existing Appropriations.—Any funds made available in an appropriations Act to carry out chapter 8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
+Existing Appropriations.—Any funds made available in an appropriations Act to carry out chapter8 of title 17, United States Code, shall be available to the extent necessary to carry out this section.”
 

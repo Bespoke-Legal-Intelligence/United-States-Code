@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2007-title4",
+ "package": "USCODE-2008-title4",
  "pieces": [
   {
    "id": "4_",
@@ -135,21 +135,17 @@
    "id": "4_7",
    "marks": [
     [
-     "I",
+     "L",
      18,
-     [
-      [
-       290,
-       "[Page 7]"
-      ]
-     ]
+     "[Page 7]",
+     true
     ],
     [
      "I",
      60,
      [
       [
-       898,
+       520,
        "[Page 8]"
       ]
      ]
@@ -165,14 +161,10 @@
    "id": "4_8",
    "marks": [
     [
-     "I",
+     "L",
      22,
-     [
-      [
-       234,
-       "[Page 9]"
-      ]
-     ]
+     "[Page 9]",
+     true
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00008 - Respect for flag.md",
@@ -192,11 +184,18 @@
   },
   {
    "id": "4_10",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 10]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - The Flag/§ 00010 - Modification of rules and customs by President.md",
    "printed_pages": [
     9,
-    9
+    10
    ]
   },
   {
@@ -204,8 +203,8 @@
    "marks": [],
    "path": "Chapter 002 - The Seal/README.md",
    "printed_pages": [
-    9,
-    9
+    10,
+    10
    ]
   },
   {
@@ -213,23 +212,16 @@
    "marks": [],
    "path": "Chapter 002 - The Seal/§ 00041 - Seal of the United States.md",
    "printed_pages": [
-    9,
-    9
+    10,
+    10
    ]
   },
   {
    "id": "4_42",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 10]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - The Seal/§ 00042 - Same; custody and use of.md",
    "printed_pages": [
-    9,
+    10,
     10
    ]
   },
@@ -271,11 +263,18 @@
   },
   {
    "id": "4_-ch4",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     55,
+     "[Page 11]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/README.md",
    "printed_pages": [
     10,
-    10
+    11
    ]
   },
   {
@@ -283,27 +282,16 @@
    "marks": [],
    "path": "Chapter 004 - The States/§ 00101 - Oath by members of legislatures and officers.md",
    "printed_pages": [
-    10,
-    10
+    11,
+    11
    ]
   },
   {
    "id": "4_102",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 11]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00102 - Same; by whom administered.md",
    "printed_pages": [
-    10,
+    11,
     11
    ]
   },
@@ -327,30 +315,30 @@
   },
   {
    "id": "4_105",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
-   "printed_pages": [
-    11,
-    11
-   ]
-  },
-  {
-   "id": "4_106",
    "marks": [
     [
      "I",
-     2,
+     12,
      [
       [
-       92,
+       215,
        "[Page 12]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00106 - Same; income tax.md",
+   "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
    "printed_pages": [
     11,
+    12
+   ]
+  },
+  {
+   "id": "4_106",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00106 - Same; income tax.md",
+   "printed_pages": [
+    12,
     12
    ]
   },
@@ -394,10 +382,14 @@
    "id": "4_111",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 13]",
-     true
+     "I",
+     4,
+     [
+      [
+       133,
+       "[Page 13]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00111 - Same; taxation affecting Federal employees; income tax.md",
@@ -419,14 +411,10 @@
    "id": "4_113",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       107,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 004 - The States/§ 00113 - Residence of Members of Congress for State income tax laws.md",
@@ -437,30 +425,30 @@
   },
   {
    "id": "4_114",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00114 - Limitation on State income taxation of certain pension income.md",
-   "printed_pages": [
-    14,
-    14
-   ]
-  },
-  {
-   "id": "4_115",
    "marks": [
     [
      "I",
-     8,
+     56,
      [
       [
-       108,
+       383,
        "[Page 15]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.md",
+   "path": "Chapter 004 - The States/§ 00114 - Limitation on State income taxation of certain pension income.md",
    "printed_pages": [
     14,
+    15
+   ]
+  },
+  {
+   "id": "4_115",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky.md",
+   "printed_pages": [
+    15,
     15
    ]
   },
@@ -475,26 +463,30 @@
   },
   {
    "id": "4_117",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       86,
+       "[Page 16]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00117 - Sourcing rules.md",
    "printed_pages": [
     15,
-    15
+    16
    ]
   },
   {
    "id": "4_118",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 16]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00118 - Limitations.md",
    "printed_pages": [
-    15,
+    16,
     16
    ]
   },
@@ -512,10 +504,10 @@
    "marks": [
     [
      "I",
-     24,
+     4,
      [
       [
-       110,
+       1186,
        "[Page 17]"
       ]
      ]
@@ -538,30 +530,30 @@
   },
   {
    "id": "4_122",
-   "marks": [],
-   "path": "Chapter 004 - The States/§ 00122 - Determination of place of primary use.md",
-   "printed_pages": [
-    17,
-    17
-   ]
-  },
-  {
-   "id": "4_123",
    "marks": [
     [
      "I",
-     12,
+     22,
      [
       [
-       493,
+       165,
        "[Page 18]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 004 - The States/§ 00123 - Scope; special rules.md",
+   "path": "Chapter 004 - The States/§ 00122 - Determination of place of primary use.md",
    "printed_pages": [
     17,
+    18
+   ]
+  },
+  {
+   "id": "4_123",
+   "marks": [],
+   "path": "Chapter 004 - The States/§ 00123 - Scope; special rules.md",
+   "printed_pages": [
+    18,
     18
    ]
   },
@@ -569,10 +561,14 @@
    "id": "4_124",
    "marks": [
     [
-     "L",
-     80,
-     "[Page 19]",
-     true
+     "I",
+     60,
+     [
+      [
+       125,
+       "[Page 19]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00124 - Definitions.md",
@@ -601,11 +597,18 @@
   },
   {
    "id": "4_-ch5",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     21,
+     "[Page 20]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/README.md",
    "printed_pages": [
     19,
-    19
+    20
    ]
   },
   {
@@ -613,27 +616,16 @@
    "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00141 - Collection, preparation and publication.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
    "id": "4_142",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       95,
-       "[Page 20]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00142 - Appointment of experts.md",
    "printed_pages": [
-    19,
+    20,
     20
    ]
   },
@@ -659,10 +651,14 @@
    "id": "4_145",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 21]",
-     true
+     "I",
+     4,
+     [
+      [
+       234,
+       "[Page 21]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00145 - Printing and distribution.md",
@@ -681,6 +677,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2007-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2008-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

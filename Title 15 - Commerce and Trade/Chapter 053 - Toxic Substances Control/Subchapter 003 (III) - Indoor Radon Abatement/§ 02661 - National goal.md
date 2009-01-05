@@ -56,7 +56,7 @@ Coordination.—In developing the policy, the Secretary shall coordinate the eff
 
 &emsp;“(5)
 
-Report.—The Secretary shall submit a report to the Congress within 1 year after the date of the enactment of this Act \[Nov. 7, 1988\] that describes the Secretary's recommended policy for dealing with radon contamination and the Secretary's reasons for recommending such policy. The report shall include an estimate of the housing covered by this section that is likely to have hazardous levels of radon.
+Report.—The Secretary shall submit a report to the Congress within 1 year after the date of the enactment of this Act \[Nov. 7, 1988\] that describes the Secretary's recommended policy for dealing with radon contamination and the Secretary's reasons for recommending such policy. The report shall includean estimate of the housing covered by this section that is likely to have hazardous levels of radon.
 
 “(c)
 

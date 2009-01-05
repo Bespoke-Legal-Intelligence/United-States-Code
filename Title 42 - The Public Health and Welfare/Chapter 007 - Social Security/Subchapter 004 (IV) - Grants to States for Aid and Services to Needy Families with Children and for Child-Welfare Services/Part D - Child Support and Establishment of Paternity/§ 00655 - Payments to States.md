@@ -22,7 +22,7 @@
 
 &emsp;(C) 66 percent for fiscal year 1990 and each fiscal year thereafter.
 
-(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
+(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirementsspecified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
 (B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
@@ -66,7 +66,7 @@
 
 (ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
-(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause,would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
+(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
 (D) The Secretary may not impose a penalty under this paragraph against a State with respect to a failure to comply with section 654(24)(B) of this title for a fiscal year if the Secretary is required to impose a penalty under this paragraph against the State with respect to a failure to comply with section 654(24)(A) of this title for the fiscal year.
 
@@ -76,7 +76,7 @@
 
 &emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwisepayable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements of section 654B of this title shall be considered a single failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during the fiscal year for purposes of this paragraph.
 
@@ -114,7 +114,7 @@
 
 #### (d) State reports
 
-Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection\(a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
+Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
 
 #### (e) Special project grants for interstate enforcement; appropriations
 

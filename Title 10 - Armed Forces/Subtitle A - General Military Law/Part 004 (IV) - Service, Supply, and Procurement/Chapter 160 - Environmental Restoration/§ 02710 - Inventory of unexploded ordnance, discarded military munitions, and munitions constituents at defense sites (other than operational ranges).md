@@ -8,7 +8,7 @@ Inventory Required.—(1) The Secretary of Defense shall develop and maintain an
 
 &emsp;(A) A unique identifier for the defense site.
 
-&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defensesite, including identification of the State and political subdivisions of the State in which the defense site is located and any Tribal lands encompassed by the defense site.
+&emsp;(B) An appropriate record showing the location, boundaries, and extent of the defense site, including identification of the State and political subdivisions of the State in which the defense site is located and any Tribal lands encompassed by the defense site.
 
 &emsp;(C) Known persons and entities, other than a military department, with any current ownership interest or control of lands encompassed by the defense site.
 
@@ -83,6 +83,34 @@ Definitions.—In this section:
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Expedited Use of Appropriate Technology Related to Unexploded Ordnance Detection
+
+Pub. L. 110–417, \[div. A\], title III, §314, Oct. 14, 2008, 122 Stat. 4410, provided that:
+
+“(a)
+
+Expedited Use of Appropriate Technologies.—The Secretary shall expedite the use of appropriate unexploded ordnance detection instrument technology developed through research funded by the Department of Defense or developed by entities other than the Department of Defense.
+
+“(b)
+
+Report.—Not later than October 1, 2009, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing and evaluating the following:
+
+&emsp;“(1) The amounts allocated for research, development, test, and evaluation for unexploded ordnance detection technologies.
+
+&emsp;“(2) The amounts allocated for transition of new unexploded ordnance detection technologies.
+
+&emsp;“(3) Activities undertaken by the Department to transition such technologies and train operators on emerging detection instrument technologies.
+
+&emsp;“(4) Any impediments to the transition of new unexploded ordnance detection instrument technologies to regular operation in remediation programs.
+
+&emsp;“(5) The transfer of such technologies to private sector entities involved in the detection of unexploded ordnance.
+
+&emsp;“(6) Activities undertaken by the Department to raise public awareness regarding unexploded ordnance.
+
+“(c)
+
+Unexploded Ordnance Defined.—In this section, the term ‘unexploded ordnance’ has the meaning given such term in section 101(e)(5) of title 10, United States Code.”
 
 #### Response Plan for Remediation of Unexploded Ordnance, Discarded Military Munitions, and Munitions Constituents
 
@@ -172,7 +200,7 @@ Identification of Navigational and Safety Hazards.—
 
 &emsp;“(1)
 
-Identification of hazards.—The Secretary of Defense shall provide available information to the Secretary of Commerce to assist the National Oceanic and Atmospheric Administration in preparing nautical charts and other navigational materials forcoastal waters that identify known or potential hazards posed by disposed military munitions to private activities, including commercial shipping and fishing operations.
+Identification of hazards.—The Secretary of Defense shall provide available information to the Secretary of Commerce to assist the National Oceanic and Atmospheric Administration in preparing nautical charts and other navigational materials for coastal waters that identify known or potential hazards posed by disposed military munitions to private activities, including commercial shipping and fishing operations.
 
 &emsp;“(2)
 

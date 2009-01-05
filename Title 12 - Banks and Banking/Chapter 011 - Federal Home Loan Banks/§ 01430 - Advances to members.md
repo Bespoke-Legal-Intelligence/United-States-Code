@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) providing funds to any member for residential housing finance; and
 
-&emsp;&emsp;(B) providing funds to any community financial institution for small businesses, small farms, and small agri-businesses.
+&emsp;&emsp;(B) providing funds to any community financial institution for small businesses, small farms, small agri-businesses, and community development activities.
 
 #### (3) Collateral
 
@@ -26,23 +26,23 @@
 
 &emsp;&emsp;(D) Other real estate related collateral acceptable to the Bank if such collateral has a readily ascertainable value and the Bank can perfect its interest in the collateral.
 
-&emsp;&emsp;(E) Secured loans for small business, agriculture, or securities representing a whole interest in such secured loans, in the case of any community financial institution.
+&emsp;&emsp;(E) Secured loans for small business, agriculture, or community development activities or securities representing a whole interest in such secured loans, in the case of any community financial institution.
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989,matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
-&emsp;The Board may review the collateral standards applicable to each Federal home loan bank for the classes of collateral described in subparagraphs (D) and (E) of paragraph (3), and may, if necessary for safety and soundness purposes, require an increase in the collateral standards for any or all of those classes of collateral.
+&emsp;The Director may review the collateral standards applicable to each Federal home loan bank for the classes of collateral described in subparagraphs (D) and (E) of paragraph (3), and may, if necessary for safety and soundness purposes, require an increase in the collateral standards for any or all of those classes of collateral.
 
 #### (6) Definitions
 
-&emsp;For purposes of this subsection, the terms “small business”, “agriculture”, “small farm”, and “small agri-business” shall have the meanings given those terms by regulation of the Finance Board.
+&emsp;For purposes of this subsection, the terms “small business”, “agriculture”, “small farm”, “small agri-business”, and “community development activities” shall have the meanings given those terms by regulation of the Director.
 
-#### (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by formal Board resolution
+#### (b) Appraisals and other investigations; acceptance of home mortgages as collateral security only by approval of Director
 
-For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Board has specifically approved by formal resolution such acceptance.
+For the purposes of this section, each Home Loan Bank shall have power to make, or to cause or require to be made, such appraisals and other investigations as it may deem necessary. No home mortgage otherwise eligible to be accepted as collateral security for an advance by a Home Loan Bank shall be accepted if any director, officer, employee, attorney or agent of the Home Loan Bank or of the borrowing institution is personally liable thereon, unless the Director has specifically approved such acceptance.
 
 #### (c) Notes of borrowing members; interest rate; lien on stock
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
+&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Director shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
 
 #### (2) Factors to be included
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bankshall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
+&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
 
 #### (2) Community-oriented mortgage lending
 
@@ -106,15 +106,17 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Pursuant to regulations promulgated by the Board, each Bank shall establish an Affordable Housing Program to subsidize the interest rate on advances to members engaged in lending for long term, low- and moderate-income, owner-occupied and affordable rental housing at subsidized interest rates.
+&emsp;Pursuant to regulations promulgated by the Director, each Bank shall establish an Affordable Housing Program to subsidize the interest rate on advances to members engaged in lending for long term, low- and moderate-income, owner-occupied and affordable rental housing at subsidized interest rates.
 
 #### (2) Standards
 
-&emsp;The Board's regulations shall permit Bank members to use subsidized advances received from the Banks to—
+&emsp;The Board's <sup>2</sup> regulations shall permit Bank members to use subsidized advances received from the Banks to—
 
-&emsp;&emsp;(A) finance homeownership by families with incomes at or below 80 percent of the median income for the area; or
+&emsp;&emsp;(A) finance homeownership by families with incomes at or below 80 percent of the median income for the area;
 
-&emsp;&emsp;(B) finance the purchase, construction, or rehabilitation of rental housing, at least 20 percent of the units of which will be occupied by and affordable for very low-income households for the remaining useful life of such housing or the mortgage term.
+&emsp;&emsp;(B) finance the purchase, construction, or rehabilitation of rental housing, at least 20 percent of the units of which will be occupied by and affordable for very low-income households for the remaining useful life of such housing or the mortgage term; or
+
+&emsp;&emsp;(C) during the 2-year period beginning on July 30, 2008, use such percentage as the Director may by regulation establish of any subsidized advances set aside to finance homeownership under subparagraph (A) to refinance loans that are secured by a first mortgage on a primary residence of any family having an income at or below 80 percent of the median income for the area.
 
 #### (3) Priorities for making advances
 
@@ -144,31 +146,31 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (A) In general
 
-&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it may apply to the Federal Housing Finance Board for a temporary suspension of such payments.
+&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it may apply to the Director for a temporary suspension of such payments.
 
 #### (B) Financial instability
 
-&emsp;&emsp;In determining the financial instability of a Bank, the Federal Housing Finance Board shall consider such factors as (i) whether the Bank's earnings are severely depressed, (ii) whether there has been a substantial decline in membership capital, and (iii) whether there has been a substantial reduction in advances outstanding.
+&emsp;&emsp;In determining the financial instability of a Bank, the Director shall consider such factors as (i) whether the Bank's earnings are severely depressed, (ii) whether there has been a substantial decline in membership capital, and (iii) whether there has been a substantial reduction in advances outstanding.
 
 #### (C) Review
 
-&emsp;&emsp;The Board shall review the application and any supporting financial data and issue a written decision approving or disapproving such application. The Board's decision shall be accompanied by specific findings and reasons for its action.
+&emsp;&emsp;The Director shall review the application and any supporting financial data and issue a written decision approving or disapproving such application. The Board's <sup>2</sup> decision shall be accompanied by specific findings and reasons for its action.
 
 #### (D) Monitoring suspension
 
-&emsp;&emsp;If the Board grants a suspension, it shall specify the period of time such suspension shall remain in effect and shall continue to monitor the Bank's financial condition during such suspension.
+&emsp;&emsp;If the Director grants a suspension, it shall specify the period of time such suspensionshall remain in effect and shall continue to monitor the Bank's financial condition during such suspension.
 
 #### (E) Limitations on grounds for suspension
 
-&emsp;&emsp;The Board shall not suspend payments to the Affordable Housing Program if the Bank's reduction in earnings is a result of (i) a change in the terms for advances to members which is not justified by market conditions, (ii) inordinate operating and administrative expenses, or (iii) mismanagement.
+&emsp;&emsp;The Director shall not suspend payments to the Affordable Housing Program if the Bank's reduction in earnings is a result of (i) a change in the terms for advances to members which is not justified by market conditions, (ii) inordinate operating and administrative expenses, or (iii) mismanagement.
 
 #### (F) Congressional notification and action
 
-&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
+&emsp;&emsp;The Director shall notify the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
 
 #### (7) Failure to use amounts for affordable housing
 
-&emsp;If any Bank fails to utilize or commit the full amount provided in this subsection in any year, 90 percent of the amount that has not been utilized or committed in that year shall be deposited by the Bank in an Affordable Housing Reserve Fund administered by the Board. The 10 percent of the unutilized and uncommitted amount retained by a Bank should be fully utilized or committed by that Bank during the following year and any remaining portion must be deposited in the Affordable Housing Reserve Fund. Under regulations established by the Board, funds from the Affordable Housing Reserve Fund may be made available to any Bank to meet additional affordable housing needs in such Bank's district pursuant to this section.
+&emsp;If any Bank fails to utilize or commit the full amount provided in this subsection in any year, 90 percent of the amount that has not been utilized or committed in that year shall be deposited by the Bank in an Affordable Housing Reserve Fund administered by the Director. The 10 percent of the unutilized and uncommitted amount retained by a Bank should be fully utilized or committed by that Bank during the following year and any remaining portion must be deposited in the Affordable Housing Reserve Fund. Under regulations established by the Director, funds from the Affordable Housing Reserve Fund may be made available to any Bank to meet additional affordable housing needs in such Bank's district pursuant to this section.
 
 #### (8) Net earnings
 
@@ -180,7 +182,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (9) Regulations
 
-&emsp;The Federal Housing Finance Board shall promulgate regulations to implement this subsection. Such regulations shall, at a minimum—
+&emsp;The Director shall promulgate regulations to implement this subsection. Such regulations shall, at a minimum—
 
 &emsp;&emsp;(A) specify activities eligible to receive subsidized advances from the Banks under this program;
 
@@ -202,15 +204,21 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (11) Advisory Council
 
-&emsp;Each Bank shall appoint an Advisory Council of 7 to 15 persons drawn from community and nonprofit organizations actively involved in providing or promoting low- and moderate-income housing in its district. The Advisory Council shall meet with representatives of the board of directors of the Bank quarterly to advise the Bank on low- and moderate-income housing programs and needs in the district and on the utilization of the advances for these purposes. Each Advisory Council established under this paragraph shall submit to the Board at least annually its analysis of the low-income housing activity of the Bank by which it is appointed.
+&emsp;Each Bank shall appoint an Advisory Council of 7 to 15 persons drawn from community and nonprofit organizations actively involved in providing or promoting low- and moderate-income housing in its district. The Advisory Council shall meet with representatives of the board of directors of the Bank quarterly to advise the Bank on low- and moderate-income housing programs and needs in the district and on the utilization of the advances for these purposes. Each Advisory Council established under this paragraph shall submit to the Director at least annually its analysis of the low-income housing activity of the Bank by which it is appointed.
 
 #### (12) Reports to Congress
 
-&emsp;(A) The Board shall monitor and report annually to the Congress and the Advisory Council for each Bank the support of low-income housing and community development by the Banks and the utilization of advances for these purposes.
+&emsp;(A) The Director shall monitor and report annually to the Congress and the Advisory Council for each Bank the support of low-income housing and community development by the Banks and the utilization of advances for these purposes.
 
-&emsp;(B) The analyses submitted by the Advisory Councils to the Board under paragraph (11) shall be included as part of the report required by this paragraph.
+&emsp;(B) The analyses submitted by the Advisory Councils to the Director under paragraph (11) shall be included as part of the report required by this paragraph.
 
-&emsp;(C) The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.
+&emsp;(C)
+
+Reports.—The Director shall annually report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the collateral pledged to the Banks, including an analysis of collateral by type and by Bank district.
+
+&emsp;(D)
+
+Submission to congress.—The Director shall submit the reports under subparagraphs (A) and (C) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 180 days after July 30, 2008.
 
 #### (13) Definitions
 
@@ -230,15 +238,75 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (D) Affordable for very-low income households
 
-&emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households”means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
+&emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households” means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
 
-(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455.)
+#### (k) Public use database
+
+#### (1) Data
+
+&emsp;Each Federal Home Loan Bank shall provide to the Director, in a form determined by the Director, census tract level data relating to mortgages purchased, if any, including—
+
+&emsp;&emsp;(A) data consistent with that reported under section 4543 of this title;
+
+&emsp;&emsp;(B) data elements required to be reported under the Home Mortgage Disclosure Act of 1975 \[12 U.S.C. 2801 et seq.\]; and
+
+&emsp;&emsp;(C) any other data elements that the Director considers appropriate.
+
+#### (2) Public use database
+
+#### (A) In general
+
+&emsp;&emsp;The Director shall make available to the public, in a form that is useful to the public (including forms accessible electronically), and to the extent practicable, the data provided to the Director under paragraph (1).
+
+#### (B) Proprietary information
+
+&emsp;&emsp;Not withstanding subparagraph (A), the Director may not provide public access to, or disclose to the public, any information required to be submitted under this subsection that the Director determines is proprietary or that would provide personally identifiable information and that is not otherwise publicly accessible through other forms, unless the Director determines that it is in the public interest to provide such information.
+
+(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
 
 #### References in Text
 
 The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
+The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified generally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+
 #### Amendments
+
+2008—Subsec. (a)(2)(B). Pub. L. 110–289, §1211(b)(1), struck out “and” before “small agri-businesses” and inserted “, and community development activities” before period at end.
+
+Subsec. (a)(3)(E). Pub. L. 110–289, §1211(b)(2), inserted “or community development activities” after “agriculture,”.
+
+Subsec. (a)(5). Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board”.
+
+Subsec. (a)(6). Pub. L. 110–289, §1211(b)(3), struck out “and” before “ ‘small agri-business’ ” and inserted “, and ‘community development activities’ ” before “shall”.
+
+Pub. L. 110–289, §1204(10), substituted “the Director” for “the Finance Board”.
+
+Subsec. (b). Pub. L. 110–289, §1204(5), (8), substituted “approval of Director” for “formal Board resolution” in heading and substituted “the Director” for “the Board” and struck out “by formal resolution” before “such acceptance” in text.
+
+Subsecs. (g)(1), (j)(1). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board”.
+
+Subsec. (j)(2)(C). Pub. L. 110–289, §1218, added subpar. (C).
+
+Subsec. (j)(6)(A), (B). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board”.
+
+Subsec. (j)(6)(C). Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board”.
+
+Subsec. (j)(6)(D). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board”.
+
+Subsec. (j)(6)(E). Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board”.
+
+Subsec. (j)(6)(F). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board”.
+
+Subsec. (j)(7). Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” in two places.
+
+Subsec. (j)(9). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” in introductory provisions.
+
+Subsec. (j)(11) to (12)(B). Pub. L. 110–289, §1204(8), (9), substituted “the Director” for “the Board” and “The Director” for “The Board” wherever appearing.
+
+Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection aftersuch program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.”
+
+Subsec. (k). Pub. L. 110–289, §1212(2), added subsec. (k).
 
 1999—Pub. L. 106–102, §604(b), amended section catchline generally.
 
@@ -280,7 +348,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
-&emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of theunpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
+&emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;“(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations.”
 
@@ -343,4 +411,6 @@ Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
 “(b) Not more than 20 per centum of the sums appropriated pursuant to subsection (a) shall be disbursed in any one Federal home loan bank district.”
 
 <i><sup>1</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “The Director's”.</i>
 

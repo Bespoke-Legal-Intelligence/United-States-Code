@@ -20,7 +20,7 @@ Congress finds the following:
 
 &emsp;(8) Johnny Micheal Spann left behind a wife and children who are very proud of the heroic actions of their patriot father.
 
-&emsp;(9) Surviving dependents of members of the Armed Forces of the United States who lose their lives as a result of terrorist attacks ormilitary operations abroad receive a $6,000 death benefit, plus a small monthly benefit.
+&emsp;(9) Surviving dependents of members of the Armed Forces of the United States who lose their lives as a result of terrorist attacks or military operations abroad receive a $6,000 death benefit, plus a small monthly benefit.
 
 &emsp;(10) The current system of compensating spouses and children of American patriots is inequitable and needs improvement.
 

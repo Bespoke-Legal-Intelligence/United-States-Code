@@ -2,7 +2,7 @@
 
 (a)
 
-Lower Rate.—A tax is imposed at the rate of 2 cents per ton (but not more than a total of 10 cents per ton per year) at each entry in a port of the United States of—
+Lower Rate.—A tax is imposed at the rate of 4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter, at each entry in a port of the United States of—
 
 &emsp;(1) a vessel entering from a foreign port or place in North America, Central America, the West Indies Islands, the Bahama Islands, the Bermuda Islands, or the coast of South America bordering the Caribbean Sea; or
 
@@ -16,23 +16,13 @@ Lower Rate.—A tax is imposed at the rate of 2 cents per ton (but not more than
 
 (b)
 
-Higher Rate.—A tax is imposed at the rate of 6 cents per ton (but not more than a total of 30 cents per ton per year) on a vessel at each entry in a port of the United States from a foreign port or place not named in subsection (a)(1).
+Higher Rate.—A tax is imposed at the rate of 13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter, on a vessel at each entry in a port of the United States from a foreign port or place not named in subsection (a)(1).
 
 (c)
 
 Exception for Vessels Entering Other Than by Sea.—Subsection (a) does not apply to a vessel entering other than by sea from a foreign port or place at which tonnage, lighthouse, or other equivalent taxes are not imposed on vessels of the United States.
 
-(Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1677; Pub. L. 109–171, title IV, §4001, Feb. 8, 2006, 120 Stat. 27.)
-
-#### Amendments Not Shown in Text
-
-<i>This section was derived from sections 121 (2d sentence) and 132 of the former Appendix to this title, which were amended by Pub. L. 109–171, title IV, §4001, Feb. 8, 2006, 120 Stat. 27. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. The second sentence of section 121 of the former Appendix to this title, as amended, read as follows:</i>
-
-<i>“A tonnage duty of 4.5 cents per ton, not to exceed in the aggregate 22.5 cents per ton in any one year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed in the aggregate 10 cents per ton in any one year, for each fiscal year thereafter is imposed at each entry on all vessels which shall be entered in any port of the United States from any foreign port or place in North America, Central America, the West India Islands, the Bahama Islands, the Bermuda Islands, or the coast of South America bordering on the Caribbean Sea, or Newfoundland, and on all vessels (except vessels of the United States, recreational vessels, and barges, as those terms are defined in section 2101 of title 46) that depart a United States port or place and return to the same port or place without being entered in the United States from another port or place; and a duty of 13.5 cents per ton, not to exceed 67.5 cents per ton per annum, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed 30 cents per ton per annum, for each fiscal year thereafter is imposed at each entry on all vessels which shall be entered in any port of the United States from any other foreign port.”</i>
-
-<i>Section 132 of the former Appendix to this title, as amended, read as follows:</i>
-
-<i>“Vessels entering otherwise than by sea from a foreign port at which tonnage or lighthouse dues or other equivalent tax or taxes are not imposed on vessels of the United States shall be exempt from the tonnage duty of 4.5 cents per ton, not to exceed in the aggregate 22.5 cents per ton in any one year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed in the aggregate 10 cents per ton in any one year, for each fiscal year thereafter, prescribed by section 121 of this Appendix.”</i>
+(Pub. L. 109–304, §9(b), Oct. 6, 2006, 120 Stat. 1677; Pub. L. 109–171, title IV, §4001, Feb. 8, 2006, 120 Stat. 27; Pub. L. 110–181, div. C, title XXXV, §3524, Jan. 28, 2008, 122 Stat. 600.)
 
 Historical and Revision Notes
 
@@ -65,4 +55,12 @@ In this section, the tax rates for fiscal years 1991 through 2002 are omitted as
 In subsection (a)(1), the words “West Indies Islands” are substituted for “West India Islands” to conform to current geographic terminology. The word “Newfoundland” is omitted because Newfoundland is now part of Canada.
 
 In subsection (a)(2), the reference to the definitions in section 2101 is confined to “recreational vessel” because the definitions of “vessel of the United States” and “barge” are being moved to chapter 1 of the revised title and being made applicable title-wide.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3524(b), repealed Pub. L. 109–171, §4001. See 2006 Amendment note below.
+
+Subsecs. (a), (b). Pub. L. 110–181, §3524(a)(1), incorporated the substance of the amendment by Pub. L. 109–171, §4001, into this section by substituting “4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter,” for “2 cents per ton (but not more than a total of 10 cents per ton per year)” in subsec. (a) and “13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter,” for “6 cents per ton (but not more than a total of 30 cents per ton per year)” in subsec. (b). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–171, §4001, which directed the amendment of sections 121 and 132 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3524(b). See 2008 Amendment note for subsecs. (a), (b) and Historical and Revision notes above.
 

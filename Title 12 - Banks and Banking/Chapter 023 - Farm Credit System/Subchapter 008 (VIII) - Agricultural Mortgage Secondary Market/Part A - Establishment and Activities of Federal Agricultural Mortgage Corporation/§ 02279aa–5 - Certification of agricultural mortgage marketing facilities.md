@@ -4,7 +4,7 @@
 
 #### (1) Establishment required
 
-&emsp;Within 120 days after the date on which the permanent board first meets with a quorumpresent, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities (other than the Corporation), including eligibility standards in accordance with paragraph (2).
+&emsp;Within 120 days after the date on which the permanent board first meets with a quorum present, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities (other than the Corporation), including eligibility standards in accordance with paragraph (2).
 
 #### (2) Minimum requirements
 

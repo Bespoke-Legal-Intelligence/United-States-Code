@@ -14,7 +14,7 @@ No tax shall be imposed under section 4251 on any payment received for services 
 
 #### (d) Servicemen in combat zone
 
-No tax shall be imposed under section 4251 on any payment received for any toll telephone service which originates within a combat zone, as defined in section 112, from a member of theArmed Forces of the United States performing service in such combat zone, as determined under such section, provided a certificate, setting forth such facts as the Secretary may by regulations prescribe, is furnished to the person receiving such payment.
+No tax shall be imposed under section 4251 on any payment received for any toll telephone service which originates within a combat zone, as defined in section 112, from a member of the Armed Forces of the United States performing service in such combat zone, as determined under such section, provided a certificate, setting forth such facts as the Secretary may by regulations prescribe, is furnished to the person receiving such payment.
 
 #### (e) Items otherwise taxed
 
@@ -60,7 +60,7 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 
 > &emsp;If any information provided in such statement is no longer accurate, the person providing such statement shall inform the provider of communications services within 30 days of any change of information.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115;Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
 
 #### Repeal
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 87–508 applicable with respect to services furnished on o
 
 Section 4(b) of Pub. L. 86–344, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on orafter January 1, 1959, for services rendered on or after such date.
+“(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 
 “(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 

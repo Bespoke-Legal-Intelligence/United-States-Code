@@ -6,7 +6,7 @@
 
 &emsp;Beginning at a point in the Atlantic Ocean one-quarter of a mile due west of the mean low-water line of the Atlantic Ocean on Cape Cod at the westernmost extremity of Race Point, Provincetown, Massachusetts;
 
-&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point andthen southwesterly to a point a quarter of a mile offshore of the mean low-water line on the harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
+&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point and then southwesterly to a point a quarter of a mile offshore of the mean low-water line on the harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
 
 &emsp;thence northerly, along a line a quarter of a mile offshore of and parallel to the low-water line at the dike to a point easterly of the point of intersection of the said dike with the boundary of the Province Lands Reservation as depicted on the said Provincetown quadrangle sheet;
 

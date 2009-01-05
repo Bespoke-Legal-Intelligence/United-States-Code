@@ -32,7 +32,7 @@ A State may use funds received under this part for the privatization of faciliti
 
 For purposes of this part, “part 1 violent crime” means a part 1 violent crime as defined in section 13701(3) <sup>1</sup> of this title, or a crime in a reasonably comparable class of serious violent crimes as approved by the Attorney General.
 
-(Pub. L. 103–322, title II, §20105, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–17; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 105–277, div. E, §3, Oct. 21, 1998, 112 Stat. 2681–760; Pub. L. 107–273, div. A, title III, §307, Nov. 2, 2002, 116 Stat. 1783.)
+(Pub. L. 103–322, title II, §20105, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26,1996, 110 Stat. 1321, 1321–17; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 105–277, div. E, §3, Oct. 21, 1998, 112 Stat. 2681–760; Pub. L. 107–273, div. A, title III, §307, Nov. 2, 2002, 116 Stat. 1783.)
 
 #### Prior Provisions
 

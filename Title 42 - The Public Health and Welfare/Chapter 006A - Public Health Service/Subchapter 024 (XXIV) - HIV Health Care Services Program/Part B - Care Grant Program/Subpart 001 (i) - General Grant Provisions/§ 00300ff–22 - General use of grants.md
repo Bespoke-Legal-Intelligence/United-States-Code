@@ -88,7 +88,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (1) In general
 
-&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV/AIDS, including treatment measures to prevent the perinatal transmission of HIV, a State shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with HIV/AIDS to the general population in such area of individuals with HIV/AIDS.
+&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV/AIDS, including treatment measures to prevent the perinatal transmission of HIV, a State shall for each of such populations in the eligible area use, from the grants made for the area under section300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with HIV/AIDS to the general population in such area of individuals with HIV/AIDS.
 
 #### (2) Waiver
 

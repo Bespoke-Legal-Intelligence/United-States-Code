@@ -52,7 +52,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (A) Time limit; waiver
 
-&emsp;&emsp;An annuity under this section shall not be payable unless appropriate written application is provided to the Director, completewith any supporting documentation which the Director may by regulation require, not later than June 2, 1990. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
+&emsp;&emsp;An annuity under this section shall not be payable unless appropriate written application is provided to the Director, complete with any supporting documentation which the Director may by regulation require, not later than June 2, 1990. The Director may waive the application deadline under the preceding sentence in any case in which the Director determines that the circumstances warrant such a waiver.
 
 #### (B) Retroactive benefits
 
@@ -74,7 +74,7 @@ A prior section 225 of Pub. L. 88–643, as added Pub. L. 100–178, title IV, �
 
 #### Amendments
 
-1993—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted “any survivor annuity” for “any other annuity”.
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted “any survivor annuity” for “any other annuity”.
 
 Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted “June 2, 1990” for “June 2, 1991”.
 

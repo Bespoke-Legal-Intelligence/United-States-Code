@@ -14,7 +14,13 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (d) Civil penalties
 
-(1) In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.
+(1)
+
+In general.—In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation—
+
+&emsp;(A) a civil penalty in the amount of not more than the greater of $100,000 or triple the monetary gain to the person for each violation; or
+
+&emsp;(B) in any case of manipulation or attempted manipulation in violation of section 9, 15, 13b, or 13(a)(2) of this title, a civil penalty in the amount of not more than the greater of $1,000,000 or triple the monetary gain to the person for each violation.
 
 (2) If a person on whom such a penalty is imposed fails to pay the penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover the penalty by action in the appropriate United States district court.
 
@@ -32,11 +38,17 @@ Where the Commission elects to bring the action, it shall inform the Attorney Ge
 
 #### (h) Notice of investigations and enforcement actions
 
-The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2)of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) <sup>1</sup> of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
+The Commission shall provide the Securities and Exchange Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any futures commission merchant or introducing broker registered pursuant to section 6f(a)(2) of this title, any floor broker or floor trader exempt from registration pursuant to section 6f(a)(3) of this title, any associated person exempt from registration pursuant to section 6k(6) of this title, or any board of trade designated as a contract market pursuant to section 7b–1 of this title.
 
-(Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449.)
+(Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11,1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15), title II, §253(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, §13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13103(c), June 18, 2008, 122 Stat. 1664, 2196.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–246, §13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
 
 2000—Subsec. (a). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(15)\], substituted “registered entity” for “contract market”.
 
@@ -48,6 +60,10 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §253(c)\], added subsec. 
 
 1983—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “<i>Provided</i>, That no restraining order”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as a note under section 2 of this title.
@@ -55,6 +71,4 @@ Amendment by Pub. L. 97–444 effective Jan. 11, 1983, see section 239 of Pub. L
 #### Effective Date
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should refer to the second par. (5) of section 6k.</i>
 

@@ -22,7 +22,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (1) In general
 
-&emsp;The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to 80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
+&emsp;The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
 
 #### (2) Allowable reinsurance costs
 
@@ -54,7 +54,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 &emsp;&emsp;&emsp;(i) PDP sponsors to submit data regarding drug claims that can be linked at the individual level to part A and part B data and such other information as the Secretary determines necessary; and
 
-&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individuallevel to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
+&emsp;&emsp;&emsp;(ii) MA organizations that offer MA–PD plans to submit data regarding drug claims that can be linked at the individual level to other data that such organizations are required to submit to the Secretary and such other information as the Secretary determines necessary.
 
 #### (D) Publication
 
@@ -84,7 +84,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (A) Requirement
 
-&emsp;&emsp;Payments under this section to a PDP sponsor or MA organization are conditioned upon the furnishing to the Secretary, in a form and manner specified by the Secretary, of such information as may be required to carry out this section.
+&emsp;&emsp;Payments under this section to a PDP sponsor or MA organization are conditionedupon the furnishing to the Secretary, in a form and manner specified by the Secretary, of such information as may be required to carry out this section.
 
 #### (B) Restriction on use of information
 

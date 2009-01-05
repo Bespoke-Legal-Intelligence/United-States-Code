@@ -44,7 +44,7 @@
 
 Subsec. (c)(2). Pub. L. 106–361, §2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
+1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment byPub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
 
 Pub. L. 106–65, §661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 106–361 effective at the earliest practicable date after 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L.106–65, as amended, set out as an Effective Date note under section 8440e of this title.
+Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under section 8440e of this title.
 
 #### Effective Date of 1996 Amendment
 

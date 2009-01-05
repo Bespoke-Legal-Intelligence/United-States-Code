@@ -18,7 +18,7 @@ In this section, the term “eligible individual” means an individual who is a
 
 &emsp;&emsp;(B) shall have a term not to exceed 20 years; and
 
-&emsp;&emsp;(C) shall not exceed $8,000 for each water well system described in paragraph (1).
+&emsp;&emsp;(C) shall not exceed $11,000 for each water well system described in paragraph (1).
 
 #### (3) Administrative expenses
 
@@ -30,9 +30,23 @@ In awarding grants under this section, the Secretary shall give priority to an a
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2003 through 2007.
+There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2008 through 2012.
 
-(Pub. L. 87–128, title III, §306E, as added Pub. L. 107–171, title VI, §6012(a), May 13, 2002, 116 Stat. 357.)
+(Pub. L. 87–128, title III, §306E, as added Pub. L. 107–171, title VI, §6012(a), May 13, 2002, 116 Stat. 357; amended Pub. L. 110–234, title VI, §6010, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6010, June 18, 2008, 122 Stat. 1664, 1925.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(2)(C). Pub. L. 110–246, §6010(1), substituted “$11,000” for “$8,000”.
+
+Subsec. (d). Pub. L. 110–246, §6010(2), substituted “2008 through 2012” for “2003 through 2007”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

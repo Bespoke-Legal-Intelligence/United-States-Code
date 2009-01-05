@@ -8,23 +8,67 @@ Requirement for Determination and Notification.—A major weapon system of the D
 
 &emsp;&emsp;(A) the major weapon system is a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
 
-&emsp;&emsp;(B) such treatment is necessary to meet national security objectives; and
+&emsp;&emsp;(B) such treatment is necessary to meet national security objectives;
 
-&emsp;(2) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
+&emsp;(2) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such system; and
+
+&emsp;(3) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
 
 (b)
 
-Treatment of Subsystems and Components as Commercial Items.—A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item.
+Treatment of Subsystems as Commercial Items.—A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
+
+&emsp;(1) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
+
+&emsp;(2) the contracting officer determines in writing that—
+
+&emsp;&emsp;(A) the subsystem is a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+
+&emsp;&emsp;(B) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such subsystem.
 
 (c)
 
-Delegation.—The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
+Treatment of Components and Spare Parts as Commercial Items.—(1) A component or spare part for a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))) may be treated as a commercial item for the purposes of section 2306a of this title only if—
+
+&emsp;(A) the component or spare part is intended for—
+
+&emsp;&emsp;(i) a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (a); or
+
+&emsp;&emsp;(ii) a subsystem of a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial items in accordance with the requirements of subsection (b); or
+
+&emsp;(B) the contracting officer determines in writing that—
+
+&emsp;&emsp;(i) the component or spare part is a commercial item, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+
+&emsp;&emsp;(ii) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such component or spare part.
+
+(2) This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
 
 (d)
 
+Information Submitted.—To the extent necessary to make a determination under subsection (a)(2), (b)(2), or (c)(1)(B), the contracting officer may request the offeror to submit—
+
+&emsp;(1) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+
+&emsp;(2) if the contracting officer determines that the information described in paragraph (1) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+
+(e)
+
+Delegation.—The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
+
+(f)
+
 Major Weapon System Defined.—In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 of this title).
 
-(Added Pub. L. 109–163, div. A, title VIII, §803(a)(1), Jan. 6, 2006, 119 Stat. 3370.)
+(Added Pub. L. 109–163, div. A, title VIII, §803(a)(1), Jan. 6, 2006, 119 Stat. 3370; Pub. L. 110–181, div. A, title VIII, §815(a)(1), Jan. 28, 2008, 122 Stat. 222.)
+
+#### Amendments
+
+2008—Subsec. (a)(2), (3). Pub. L. 110–181, §815(a)(1)(A), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (b). Pub. L. 110–181, §815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: “A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item.”
+
+Subsecs. (c) to (f). Pub. L. 110–181, §815(a)(1)(C), (D), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
 #### Effective Date
 

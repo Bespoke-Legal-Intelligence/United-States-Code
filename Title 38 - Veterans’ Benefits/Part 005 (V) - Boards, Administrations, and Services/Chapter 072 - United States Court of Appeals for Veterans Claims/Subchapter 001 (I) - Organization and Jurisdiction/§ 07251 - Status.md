@@ -14,7 +14,7 @@ There is hereby established, under Article I of the Constitution of the United S
 
 Pub. L. 105–368, title V, §511(a), Nov. 11, 1998, 112 Stat. 3341, provided that: “The United States Court of Veterans Appeals is hereby renamed as, and shall hereafter be known and designated as, the United States Court of Appeals for Veterans Claims.”
 
-Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to the United States Court of Veterans Appeals shall be deemed to be a reference to the United States Court of Appeals for Veterans Claims.”
+Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to the United States Court of Veterans Appeals shall bedeemed to be a reference to the United States Court of Appeals for Veterans Claims.”
 
 #### Effective Date of 2001 Amendment; Construction
 

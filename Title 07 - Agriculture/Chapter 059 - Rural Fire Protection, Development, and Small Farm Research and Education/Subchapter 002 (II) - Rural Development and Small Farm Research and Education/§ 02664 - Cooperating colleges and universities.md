@@ -10,7 +10,7 @@ All private and publicly supported colleges and universities in a State shall be
 
 #### (c) Designation of official for program coordination
 
-The institution of each State responsible for administering the programs authorized under this subchapter shall designate an official who shall be responsible for the overall coordination of the programs.
+The institution of each State responsible for administering the programs authorized underthis subchapter shall designate an official who shall be responsible for the overall coordination of the programs.
 
 #### (d) Appointment of advisory council for program administration; eligibility, membership, etc.
 
@@ -20,7 +20,7 @@ The institution in each State responsible for administering the programs authori
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

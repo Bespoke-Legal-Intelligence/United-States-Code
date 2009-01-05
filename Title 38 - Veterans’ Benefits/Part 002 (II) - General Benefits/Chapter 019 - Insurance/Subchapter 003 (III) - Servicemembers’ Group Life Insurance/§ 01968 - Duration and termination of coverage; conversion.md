@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) 120 days after the date of the member's death;
 
-&emsp;&emsp;&emsp;(ii) 120 days after the date of termination of the insurance on the member's life under this subchapter; or
+&emsp;&emsp;&emsp;(ii) the date of termination of the insurance on the member's life under this subchapter; or
 
 &emsp;&emsp;&emsp;(iii) 120 days after the termination of the dependent's status as an insurable dependent of the member.
 
@@ -54,13 +54,15 @@
 
 (B) In the case of a policy purchased under this subchapter for an insurable dependent who is a child, such policy may not be converted under this subsection.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, §403(b), Oct. 10, 2008, 122 Stat. 4174.)
 
 #### References in Text
 
 The date of the enactment of the Veterans’ Housing Opportunity and Benefits Improvement Act of 2006, referred to in subsec. (a)(1)(A)(ii)(I), (4)(B)(i), is the date of enactment of Pub. L. 109–233, which was approved June 15, 2006.
 
 #### Amendments
+
+2008—Subsec. (a)(5)(B)(ii). Pub. L. 110–389 struck out “120 days after” before “the date”.
 
 2006—Subsec. (a)(1). Pub. L. 109–233, §301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
 
@@ -102,7 +104,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of thistitle, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 “(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier.”
 
@@ -162,9 +164,13 @@ Subsec. (c). Pub. L. 93–289, §5(a)(5), repealed subsec. (c) which related to 
 
 Subsecs. (b), (c). Pub. L. 91–291 added subsecs. (b) and (c).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–389, title IV, §403(e)(2), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to Servicemembers’ Group Life Insurance coverage for an insurable dependent of a member, as defined in section 1965(10) of title 38, United States Code (as amended by section 402 of this Act), that begins on or after the date of the enactment of this Act \[Oct. 10, 2008\].”
+
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 daysafter June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
 #### Effective Date of 1999 Amendment
 

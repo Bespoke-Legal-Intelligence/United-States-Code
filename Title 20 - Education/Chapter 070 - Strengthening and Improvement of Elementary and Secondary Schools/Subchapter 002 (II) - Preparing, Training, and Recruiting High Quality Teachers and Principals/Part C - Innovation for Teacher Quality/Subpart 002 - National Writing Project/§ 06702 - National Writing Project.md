@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary is authorized to award a grant to the National Writing Project, a nonprofit educational organization that has as its primary purpose the improvement of the quality of student writing and learning (hereafter in this section referred to as the “grantee”) to improve the teaching of writing and the use of writing as a part of the learning process in our Nation's classrooms.
+The Secretary is authorized to award a grant to the National Writing Project, a nonprofiteducational organization that has as its primary purpose the improvement of the quality of student writing and learning (hereafter in this section referred to as the “grantee”) to improve the teaching of writing and the use of writing as a part of the learning process in our Nation's classrooms.
 
 #### (b) Requirements of grant
 
@@ -102,7 +102,7 @@ There are authorized to be appropriated to carry out this subpart $15,000,000 as
 
 #### Prior Provisions
 
-A prior section 6702, Pub. L. 89–10, title II, §2402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, defined terms used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6702, Pub. L. 89–10, title II, §2402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3635; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(b)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, defined terms used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Termination of Advisory Boards
 

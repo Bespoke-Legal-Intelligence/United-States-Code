@@ -20,7 +20,7 @@ Act of June 18, 1934, referred to in subsec. (b), popularly known as the Indian 
 
 Act of October 8, 1964, referred to in subsec. (c), is act Oct. 8, 1964, Private Law 88–350, 78 Stat. 1196, which conveyed all right, title and interest of the United States in certain lands to the Pascua Yaqui Association, Inc., and was not classified to the Code.
 
-Act of August 15, 1953, as amended by the Act of April 11, 1968, referred to in subsec. (c), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
+Act of August 15, 1953, as amended by the Act of April 11, 1968, referred to in subsec. (c), is act Aug. 15, 1953,ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

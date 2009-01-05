@@ -10,7 +10,7 @@ The arrangements required by subsection (a) of this section shall apply to each 
 
 &emsp;(1) for the preservation of compensation (including subsequent general wage increases, vacation allowances, and monthly compensation guarantees), rights, privileges, and benefits (including fringe benefits such as pensions, hospitalization, and vacations, under the same conditions and so long as such benefits continue to be accorded to other employees of the employing railroad in active service or on furlough, as the case may be) to such employees under existing collective-bargaining agreements or otherwise;
 
-&emsp;(2) to provide for final and binding arbitration of any dispute which cannot be settled by the parties, with respect to the interpretation, application, or enforcement of the provisions of the protective arrangements;
+&emsp;(2) to provide for final and binding arbitration of any dispute which cannot be settled bythe parties, with respect to the interpretation, application, or enforcement of the provisions of the protective arrangements;
 
 &emsp;(3) to provide that an employee who is unable to secure employment by the exercise of his or her seniority rights, as a result of actions taken with financial assistance obtained under this subchapter, shall be offered reassignment and, where necessary, retraining to fill a position comparable to the position held at the time of such adverse effect and for which he is, or by training and retraining can become, physically and mentally qualified, so long as such offer is not in contravention of collective bargaining agreements relating thereto; and
 

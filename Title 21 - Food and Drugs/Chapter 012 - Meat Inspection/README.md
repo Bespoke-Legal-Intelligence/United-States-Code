@@ -6,16 +6,18 @@
 | :--- | ---: |
 | [601\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000601%20-%20Definitions.md) | Definitions. |
 | [602\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000602%20-%20Congressional%20statement%20of%20findings.md) | Congressional statement of findings. |
-| [603\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000603%20-%20Inspection%20of%20meat%20and%20meat%20food%20products.md) | Inspection of meat and meat food products. |
+| [603\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000603%20-%20Examination%20of%20animals%20prior%20to%20slaughter%3B%20use%20of%20humane%20methods.md) | Examination of animals prior to slaughter; use of humane methods. |
 | [604\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000604%20-%20Post%20mortem%20examination%20of%20carcasses%20and%20marking%20or%20labeling%3B%20destruction%20of%20carcasses%20condemned%3B%20reinspection.md) | Post mortem examination of carcasses and marking or labeling; destruction of carcasses condemned; reinspection. |
 | [605\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000605%20-%20Examination%20of%20carcasses%20brought%20into%20slaughtering%20or%20packing%20establishments%2C%20and%20of%20meat%20food%20products%20issued%20from%20and%20returned%20thereto%E2%80%A6.md) | Examination of carcasses brought into slaughtering or packing establishments, and of meat food products issued from and returned thereto; conditions for entry. |
-| [606\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000606%20-%20Inspectors%20of%20meat%20food%20products%3B%20marks%20of%20inspection%3B%20destruction%20of%20condemned%20products%3B%20products%20for%20export.md) | Inspectors of meat food products; marks of inspection; destruction of condemned products; products for export. |
+| [606\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000606%20-%20Inspection%20and%20labeling%20of%20meat%20food%20products.md) | Inspection and labeling of meat food products. |
 | [607\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000607%20-%20Labeling%2C%20marking%2C%20and%20container%20requirements.md) | Labeling, marking, and container requirements. |
 | [608\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000608%20-%20Sanitary%20inspection%20and%20regulation%20of%20slaughtering%20and%20packing%20establishments%3B%20rejection%20of%20adulterated%20meat%20or%20meat%20food%20products.md) | Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products. |
 | [609\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000609%20-%20Examination%20of%20animals%20and%20food%20products%20thereof%2C%20slaughtered%20and%20prepared%20during%20nighttime.md) | Examination of animals and food products thereof, slaughtered and prepared during nighttime. |
 | [610\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000610%20-%20Prohibited%20acts.md) | Prohibited acts. |
 | [611\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000611%20-%20Devices%2C%20marks%2C%20labels%2C%20and%20certificates%3B%20simulations.md) | Devices, marks, labels, and certificates; simulations. |
-| 612 to 614. Repealed. |  |
+| [612\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000612%20-%20Notification.md) | Notification. |
+| [613\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000613%20-%20Plans%20and%20reassessments.md) | Plans and reassessments. |
+| [614\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000614%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%2819%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20508.md) | Repealed. |
 | [615\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000615%20-%20Inspection%20of%20carcasses%2C%20meat%20of%20which%20is%20intended%20for%20export.md) | Inspection of carcasses, meat of which is intended for export. |
 | [616\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000616%20-%20Inspectors%20of%20carcasses%2C%20etc.%2C%20meat%20of%20which%20is%20intended%20for%20export%3B%20certificates%20of%20condition.md) | Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition. |
 | [617\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000617%20-%20Clearance%20prohibited%20to%20vessel%20carrying%20meat%20for%20export%20without%20inspector%27s%20certificate.md) | Clearance prohibited to vessel carrying meat for export without inspector's certificate. |
@@ -26,6 +28,7 @@
 | [622\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000622%20-%20Bribery%20of%20or%20gifts%20to%20inspectors%20or%20other%20officers%20and%20acceptance%20of%20gifts.md) | Bribery of or gifts to inspectors or other officers and acceptance of gifts. |
 | [623\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000623%20-%20Exemptions%20from%20inspection%20requirements.md) | Exemptions from inspection requirements. |
 | [624\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000624%20-%20Storage%20and%20handling%20regulations%3B%20violations%3B%20exemption%20of%20establishments%20subject%20to%20non-Federal%20jurisdiction.md) | Storage and handling regulations; violations; exemption of establishments subject to non-Federal jurisdiction. |
+| [625\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000625%20-%20Inapplicability%20of%20certain%20requirements%20to%20catfish.md) | Inapplicability of certain requirements to catfish. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,6 +72,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV–A—INSPECTIONS BY FEDERAL AND STATE AGENCIES
+
+|  |  |
+| :--- | ---: |
+| [683\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Inspections%20by%20Federal%20and%20State%20Agencies/%C2%A7%2000683%20-%20Interstate%20shipment%20of%20meat%20inspected%20by%20Federal%20and%20State%20agencies%20for%20certain%20small%20establishments.md) | Interstate shipment of meat inspected by Federal and State agencies for certain small establishments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
 |  |  |
@@ -90,4 +101,5 @@
 - [Subchapter 002 (II) - Meat Processors and Related Industries](Subchapter%20002%20%28II%29%20-%20Meat%20Processors%20and%20Related%20Industries/README.md)
 - [Subchapter 003 (III) - Federal and State Cooperation](Subchapter%20003%20%28III%29%20-%20Federal%20and%20State%20Cooperation/README.md)
 - [Subchapter 004 (IV) - Auxiliary Provisions](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/README.md)
+- [Subchapter 004&#8211;A (IV&#8211;A) - Inspections by Federal and State Agencies](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Inspections%20by%20Federal%20and%20State%20Agencies/README.md)
 - [Subchapter 005 (V) - Miscellaneous Provisions](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/README.md)

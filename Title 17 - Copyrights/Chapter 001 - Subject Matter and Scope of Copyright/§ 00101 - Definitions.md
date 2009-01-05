@@ -38,7 +38,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;An “establishment” is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
 
-&emsp;A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any other similar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
+&emsp;A “food service or drinking establishment” is a restaurant, inn, bar, tavern, or any othersimilar place of business in which the public or patrons assemble for the primary purpose of being served food or drink, in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly.
 
 &emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
@@ -92,7 +92,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
 
-&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public,by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
+&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
 &emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
 
@@ -158,7 +158,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture orother audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
 > &emsp;In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
 
@@ -316,7 +316,7 @@ Section 102(g) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, �
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
 
 Section 706 of title VII of Pub. L. 101–650 provided that: “The amendments made by this title \[enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title\], apply to—
 
@@ -335,6 +335,12 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: “This Act \[amending section 114 of this title\] may be cited as the ‘Webcaster Settlement Act of 2008’.”
+
+Pub. L. 110–434, §1(a), Oct. 16, 2008, 122 Stat. 4972, provided that: “This Act \[amending section 1301 of this title\] may be cited as the ‘Vessel Hull Design Protection Amendments of 2008’.”
 
 #### Short Title of 2006 Amendment
 
@@ -374,11 +380,11 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1001\], Nov. 29, 1999, 113 
 
 #### Short Title of 1998 Amendments
 
-Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
+Pub. L. 105–304, §1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act \[enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301of this title\] may be cited as the ‘Digital Millennium Copyright Act’.”
 
 Pub. L. 105–304, title I, §101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title \[enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title\] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
-Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 ofthis title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+Pub. L. 105–304, title II, §201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title \[enacting section 512 of this title and provisions set out as a note under section 512 of this title\] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
 
 Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title \[amending section 117 of this title\] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
 
@@ -440,7 +446,7 @@ Pub. L. 98–450, §1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act \
 
 #### Severability
 
-Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
+Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) \[see Effective Date of 2000 Amendment note above\], or anyapplication of such provisions to any person or circumstance, is held to be invalid, the remainder of this section \[amending this section and enacting provisions set out as a note above\], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
 
 #### Construction of 1998 Amendment
 

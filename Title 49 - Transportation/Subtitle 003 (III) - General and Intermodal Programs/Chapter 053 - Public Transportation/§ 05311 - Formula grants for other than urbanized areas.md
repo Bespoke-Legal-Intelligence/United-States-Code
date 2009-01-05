@@ -160,11 +160,11 @@ Capital projects.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided by subparagraph (B), a grant awarded under this section for any purpose other than operating assistance shall be for 80 percent of the net capital costs of the project, as determined by the Secretary.
+In general.—Except as provided by subparagraph (B), a grant awarded under this section for a capital project or project administrative expenses shall be for 80 percent of the net costs of the project, as determined by the Secretary.
 
 &emsp;&emsp;(B)
 
-Exception.—A State described in section 120(b) of title 23 shall receive a Government share of the net capital costs in accordance with the formula under that section.
+Exception.—A State described in section 120(b) of title 23 shall receive a Government share of the net costs in accordance with the formula under that section.
 
 &emsp;(2)
 
@@ -190,7 +190,7 @@ Remainder.—The remainder of net project costs—
 
 &emsp;(4)
 
-Use of certain funds.—For purposes of paragraph (3)(B), the prohibitions on the use offunds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
+Use of certain funds.—For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
 
 &emsp;(5)
 
@@ -202,11 +202,11 @@ Transfer of Facilities and Equipment.—With the consent of the recipient curren
 
 (i)
 
-Relationship to Other Laws.—(1) Sections 5323(a)(1)(D) <sup>1</sup> and 5333(b) of this title apply to this section if the Secretary of Labor utilizes a special warranty that provides a fair and equitable arrangement to protect the interests of employees.
+Relationship to Other Laws.—(1) Section 5333(b) applies to this section if the Secretary of Labor utilizes a special warranty that provides a fair and equitable arrangement to protect the interests of employees.
 
 (2) This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -304,7 +304,7 @@ In subsection (b)(1), the words “The Secretary of Transportation may make gran
 
 In subsection (b)(2), the words “establish and” are omitted as executed. The word “direct” is omitted as surplus.
 
-In subsection (c), the words “for expenditure in each fiscal year” are omitted as surplus. The words “so that” are substituted for “Such sums shall be made available for expenditure for public transportation projects in areas other than urbanized areas on the basis of a formula under which” to eliminate unnecessary words. The words “will be entitled to” and “as designated by the Bureau of the Census” are omitted as surplus. The words “United States” are substituted for “all the States” for consistency in the revised title and with other titles of the Code. The words “available”, “a period of”, and “the close of” are omitted as surplus.
+In subsection (c), the words “for expenditure in each fiscal year” are omitted as surplus. The words “sothat” are substituted for “Such sums shall be made available for expenditure for public transportation projects in areas other than urbanized areas on the basis of a formula under which” to eliminate unnecessary words. The words “will be entitled to” and “as designated by the Bureau of the Census” are omitted as surplus. The words “United States” are substituted for “all the States” for consistency in the revised title and with other titles of the Code. The words “available”, “a period of”, and “the close of” are omitted as surplus.
 
 In subsection (d), the words “included in a program under subsection (b) of this section” are substituted for 49 App.:1614(b) (1st–17th words) and “which are appropriate for areas other than urbanized areas” to eliminate unnecessary words. The words “for assistance” are added for clarity.
 
@@ -322,11 +322,13 @@ Subsection (h) is substituted for 49 App.:1614(c) (last sentence) for clarity an
 
 In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words “in carrying out projects” are omitted as surplus.
 
-#### References in Text
-
-Paragraph (1) of section 5323(a) of this title, referred to in subsec. (i)(1), was struck out and a new par. (1) enacted by Pub. L. 109–59, title III, §3023(a)(1), Aug. 10, 2005, 119 Stat. 1615, which does not contain a subpar. (D).
-
 #### Amendments
+
+2008—Subsec. (g)(1)(A). Pub. L. 110–244, §201(e)(1), (2), substituted “for a capital project or project administrative expenses” for “for any purpose other than operating assistance” and struck out “capital” after “net”.
+
+Subsec. (g)(1)(B). Pub. L. 110–244, §201(e)(2), struck out “capital” after “net”.
+
+Subsec. (i)(1). Pub. L. 110–244, §201(e)(3), substituted “Section 5333(b) applies” for “Sections 5323(a)(1)(D) and 5333(b) of this title apply”.
 
 2005—Subsec. (a). Pub. L. 109–59, §3013(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this section, ‘recipient’ includes a State authority, a local governmental authority, a nonprofit organization, and an operator of mass transportation service.”
 
@@ -365,6 +367,4 @@ Subsec. (j). Pub. L. 109–59, §3013(g)(2), redesignated subsec. (j) as (i).
 1998—Pub. L. 105–178, §3014(a)(1), substituted “Formula grants” for “Financial assistance” in section catchline.
 
 Subsec. (f)(1). Pub. L. 105–178, §3014(a)(2), struck out “10 percent of the amount made available in the fiscal year ending September 30, 1993, and” before “15 percent of the amount” in introductory provisions.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

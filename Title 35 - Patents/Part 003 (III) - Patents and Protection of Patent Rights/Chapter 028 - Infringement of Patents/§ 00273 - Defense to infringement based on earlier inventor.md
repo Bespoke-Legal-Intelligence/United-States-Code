@@ -62,7 +62,7 @@ Limitation on sites.—A defense under this section, when acquired as part of a 
 
 &emsp;(8)
 
-Unsuccessful assertion of defense.—If the defense under this section is pleaded by a person who is found to infringe the patent and who subsequently fails to demonstrate a reasonable basis for asserting the defense, the court shall find the case exceptional for the purpose of awarding attorney fees under section 285 of this title.
+Unsuccessful assertion of defense.—If the defense under this section is pleaded by a person who is found to infringe the patent and who subsequently fails to demonstrate a reasonable basis for asserting the defense, the court shall find the case exceptional for thepurpose of awarding attorney fees under section 285 of this title.
 
 &emsp;(9)
 

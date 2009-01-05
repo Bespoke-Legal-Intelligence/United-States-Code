@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-Section 554(b) is new and permits a party in interest to request the court to order the trustee to abandonproperty of the estate that is burdensome to the estate or that is of inconsequential value to the estate.
+Section 554(b) is new and permits a party in interest to request the court to order the trustee to abandon property of the estate that is burdensome to the estate or that is of inconsequential value to the estate.
 
 #### senate report no. 95–989
 

@@ -39,7 +39,9 @@
 
 1964—Pub. L. 88–445, §1(c), Aug. 19, 1964, 78 Stat. 464, substituted “Preservation of disability ratings” for “Preservation of total disability ratings” in item 110.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to chapter heading.</i>
 
 
 ---

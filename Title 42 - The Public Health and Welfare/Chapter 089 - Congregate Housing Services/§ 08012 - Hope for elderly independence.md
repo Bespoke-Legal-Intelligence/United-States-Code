@@ -6,7 +6,7 @@ The purpose of this section is to establish a demonstration program to test the 
 
 #### (b) Housing assistance
 
-In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(<i>o</i>) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give each frail elderly person the option to continue to receive assistance under the housing certificate or voucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title.
+In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(<i>o</i>) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give each frail elderly person the option to continue to receive assistance under the housing certificate orvoucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(<i>o</i>) of this title.
 
 #### (c) Supportive services requirements and matching funding
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (3) Section 1437f terms
 
-&emsp;The assistance payment contract under section 1437f of this title shall be attached to the structure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject to the rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
+&emsp;The assistance payment contract under section 1437f of this title shall be attached to the structure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject tothe rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
 
 #### (4) Supportive services
 

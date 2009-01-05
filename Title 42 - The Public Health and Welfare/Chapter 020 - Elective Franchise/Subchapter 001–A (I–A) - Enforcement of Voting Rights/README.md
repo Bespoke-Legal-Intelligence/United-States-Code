@@ -21,3 +21,4 @@
 - [&sect; 01973n - Impairment of voting rights of persons holding current registration](%C2%A7%2001973n%20-%20Impairment%20of%20voting%20rights%20of%20persons%20holding%20current%20registration.md)
 - [&sect; 01973o - Authorization of appropriations](%C2%A7%2001973o%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01973p - Separability](%C2%A7%2001973p%20-%20Separability.md)
+- [&sect; 01973q - Construction](%C2%A7%2001973q%20-%20Construction.md)

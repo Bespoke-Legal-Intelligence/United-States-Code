@@ -20,15 +20,15 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 &emsp;(A) The surviving spouse (including a remarried surviving spouse) of the deceased member.
 
-&emsp;(B) The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.
+&emsp;(B) The child or children of the deceased member (including stepchildren, adopted children, and illegitimate children).
 
 &emsp;(C) The parent or parents of the deceased member (as defined in section 401(b)(2) of this title).
 
-(2) If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
+&emsp;(D) The sibling or siblings of the deceased member.
 
-&emsp;(A) the person who directs the disposition of the remains of the deceased member under section 1482(c) of title 10, or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made; and
+&emsp;(E) The person who directs the disposition of the remains of the deceased member under section 1482(c) of title 10 or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made.
 
-&emsp;(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A).
+(2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
 (d)
 
@@ -62,9 +62,19 @@ Burial Ceremony Defined.—In this section, the term “burial ceremony” inclu
 
 Regulations.—The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154.)
 
 #### Amendments
+
+2008—Subsec. (c)(1)(B). Pub. L. 110–181, §632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.”
+
+Subsec. (c)(1)(D), (E). Pub. L. 110–181, §632(a)(2), added subpars. (D) and (E).
+
+Subsec. (c)(2). Pub. L. 110–181, §632(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
+
+&emsp;“(A) the person who directs the disposition of the remains of the deceased member under section 1482(c) of title 10, or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made; and
+
+&emsp;“(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A).”
 
 2004—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end “at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
 

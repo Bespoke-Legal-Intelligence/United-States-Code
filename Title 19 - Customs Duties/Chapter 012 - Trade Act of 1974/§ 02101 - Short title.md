@@ -6,7 +6,7 @@ This chapter may be cited as the “Trade Act of 1974”.
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–618, which in addition to enacting this chapter enacted section 1863 of this title, amended sections 160, 162, 163, 164, 170a, 1202, 1303, 1315, 1321, 1330, 1332, 1333, 1337, 1352, 1484, 1516, 1806, 1862, 1872, 1885, and 1981 of this title, sections 5312, 5314, 5315, and 5316 of Title 5, Government Organization and Employees, section 301 of Title 13, Census, section 3302 of Title 26, Internal Revenue Code, sections 2631 and 2632 of Title 28, Judiciary and Judicial Procedure, and section 665 of former Title 31, Money and Finance, repealed sections 1802, 1803, 1804, 1805, 1822, 1831, 1832, 1833, 1841, 1842, 1843, 1844, 1845, 1846, 1861, 1871, 1873, 1882, 1883, 1884, 1886, 1901, 1902, 1911, 1912, 1913, 1914, 1915, 1917, 1931, 1941, 1942, 1943, 1944, 1951, 1952, 1961, 1962, 1963, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, and 1991 of this title, and enacted provisions set out as notes under this sectionand sections 160, 162, 1303, 1321, 1337, 1484, 1515, 1516, 1901, and 2271 of this title and section 301 of Title 13, Census.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–618, which in addition to enacting this chapter enacted section 1863 of this title, amended sections 160, 162, 163, 164, 170a, 1202, 1303, 1315, 1321, 1330, 1332, 1333, 1337, 1352, 1484, 1516, 1806, 1862, 1872, 1885, and 1981 of this title, sections 5312, 5314, 5315, and 5316 of Title 5, Government Organization and Employees, section 301 of Title 13, Census, section 3302 of Title 26, Internal Revenue Code, sections 2631 and 2632 of Title 28, Judiciary and Judicial Procedure, and section 665 of former Title 31, Money and Finance, repealed sections 1802, 1803, 1804, 1805, 1822, 1831, 1832, 1833, 1841, 1842, 1843, 1844, 1845, 1846, 1861, 1871, 1873, 1882, 1883, 1884, 1886, 1901, 1902, 1911, 1912, 1913, 1914, 1915, 1917, 1931, 1941, 1942, 1943, 1944, 1951, 1952, 1961, 1962, 1963, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, and 1991 of this title, and enacted provisions set out as notes under this section and sections 160, 162, 1303, 1321, 1337, 1484, 1515, 1516, 1901, and 2271 of this title and section 301 of Title 13, Census.
 
 #### References to Other Laws Deemed References to Trade Act of 1974
 
@@ -34,7 +34,7 @@ Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–272, title XIII, §13001, Apr. 7, 1986, 100 Stat. 300, provided that: “This part \[part 1 (§§13001–13009) of subtitle A, amending sections 2271, 2272, 2291 to 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of this title, enacting provisions set out as a note under section 2291 of this title, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the ‘Trade Adjustment Assistance Reform and Extension Act of 1986’.”
+Pub. L. 99–272, title XIII, §13001, Apr. 7, 1986, 100 Stat. 300, provided that: “This part \[part 1 (§§13001–13009) of subtitle A, amending sections 2271, 2272, 2291 to 2293, 2296, 2297, 2311, 2317, 2319, 2341 to 2344, and 2346 of thistitle, enacting provisions set out as a note under section 2291 of this title, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the ‘Trade Adjustment Assistance Reform and Extension Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

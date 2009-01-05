@@ -20,7 +20,7 @@
 
 #### (4) Carriage of signals of local stations in certain markets
 
-&emsp;A satellite carrier that offers multichannel video programming distribution service in theUnited States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
+&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
 
 #### (b) Good signal required
 
@@ -98,7 +98,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
 
-&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, thesubscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
 
 &emsp;&emsp;(B) if the subscriber—
 
@@ -178,7 +178,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concernedand shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 

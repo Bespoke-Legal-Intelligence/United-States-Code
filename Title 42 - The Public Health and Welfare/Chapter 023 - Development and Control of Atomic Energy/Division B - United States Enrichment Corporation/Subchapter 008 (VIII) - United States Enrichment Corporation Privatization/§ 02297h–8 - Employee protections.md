@@ -14,7 +14,7 @@
 
 (4) If the private corporation replaces its operating contractor at a gaseous diffusion plant, the new employer (including the new contractor or the private corporation if it operates a gaseous diffusion plant without a contractor) shall—
 
-&emsp;(A) offer employment to non-management employees of the predecessor contractor to the extent that their jobs still exist or they are qualified for new jobs, and
+&emsp;(A) offer employment to non-management employees of the predecessor contractor to theextent that their jobs still exist or they are qualified for new jobs, and
 
 &emsp;(B) abide by the terms of the predecessor contractor's collective bargaining agreement until the agreement expires or a new agreement is signed.
 

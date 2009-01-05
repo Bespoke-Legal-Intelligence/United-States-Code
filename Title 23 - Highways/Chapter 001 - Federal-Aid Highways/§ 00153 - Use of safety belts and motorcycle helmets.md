@@ -44,7 +44,7 @@ Federal Share.—A State may not receive a grant under this section in more than
 
 (e)
 
-Maximum Aggregate Amount of Grants.—The aggregate amount of grants made to a State under this section shall not exceed 90 percent ofthe amount apportioned to such State for fiscal year 1990 under section 402.
+Maximum Aggregate Amount of Grants.—The aggregate amount of grants made to a State under this section shall not exceed 90 percent of the amount apportioned to such State for fiscal year 1990 under section 402.
 
 (f)
 
@@ -80,7 +80,7 @@ Penalty.—
 
 &emsp;(1)
 
-Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.
+Fiscal year 1994.—If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 11/2 percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) ofsection 104 of this title to the apportionment of the State under section 402 of this title.
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ Authorization of Appropriations.—There is authorized to be appropriated out of
 
 Applicability of Chapter 1
 
-Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall applyto funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
+Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
 
 (Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577.)
 

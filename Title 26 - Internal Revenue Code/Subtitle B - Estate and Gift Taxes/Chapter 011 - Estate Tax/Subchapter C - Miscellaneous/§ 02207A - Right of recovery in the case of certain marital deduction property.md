@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any part of the gross estate consists of property the value of which is includible inthe gross estate by reason of section 2044 (relating to certain property for which marital deduction was previously allowed), the decedent's estate shall be entitled to recover from the person receiving the property the amount by which—
+&emsp;If any part of the gross estate consists of property the value of which is includible in the gross estate by reason of section 2044 (relating to certain property for which marital deduction was previously allowed), the decedent's estate shall be entitled to recover from the person receiving the property the amount by which—
 
 &emsp;&emsp;(A) the total tax under this chapter which has been paid, exceeds
 

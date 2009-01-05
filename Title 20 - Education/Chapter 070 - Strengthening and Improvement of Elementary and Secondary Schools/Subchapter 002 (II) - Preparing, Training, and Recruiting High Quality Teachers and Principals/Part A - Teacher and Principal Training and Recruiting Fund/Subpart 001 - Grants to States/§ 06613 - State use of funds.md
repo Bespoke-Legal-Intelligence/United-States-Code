@@ -46,7 +46,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(6) Providing professional development for teachers and principals and, in cases in which a State educational agency determines support to be appropriate, supporting the participation of pupil services personnel in the same type of professional development activities as are made available to teachers and principals.
 
-&emsp;(7) Developing systems to measure the effectiveness of specific professional developmentprograms and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
+&emsp;(7) Developing systems to measure the effectiveness of specific professional development programs and strategies to document gains in student academic achievement or increases in teacher mastery of the academic subjects the teachers teach.
 
 &emsp;(8) Fulfilling the State educational agency's responsibilities concerning proper and efficient administration of the programs carried out under this part, including provision of technical assistance to local educational agencies.
 
@@ -58,7 +58,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(12) Developing, or assisting local educational agencies in developing, merit-based performance systems, and strategies that provide differential and bonus pay for teachers in high-need academic subjects such as reading, mathematics, and science and teachers in high-poverty schools and districts.
 
-&emsp;(13) Providing assistance to local educational agencies for the development and implementation of professional development programs for principals that enable the principals to be effective school leaders and prepare all students to meet challenging State academic content and student academic achievement standards, and the development and support of school leadership academies to help exceptionally talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
+&emsp;(13) Providing assistance to local educational agencies for the development and implementation of professional development programs for principals that enable the principalsto be effective school leaders and prepare all students to meet challenging State academic content and student academic achievement standards, and the development and support of school leadership academies to help exceptionally talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
 
 &emsp;(14) Developing, or assisting local educational agencies in developing, teacher advancement initiatives that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 
@@ -80,7 +80,7 @@ A State educational agency or State agency for higher education receiving a gran
 
 #### (e) Coordination
 
-A State that receives a grant to carry out this subpart and a grant under section 202 of the Higher Education Act of 1965 \[20 U.S.C. 1022\] shall coordinate the activities carried out under this subpart and the activities carried out under that section.
+A State that receives a grant to carry out this subpart and a grant under section 202 <sup>1</sup> of the Higher Education Act of 1965 shall coordinate the activities carried out under this subpart and the activities carried out under that section.
 
 #### (f) Supplement, not supplant
 
@@ -93,4 +93,6 @@ Funds received under this subpart shall be used to supplement, and not supplant,
 The Higher Education Act of 1965, referred to in subsec. (c)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The No Child Left Behind Act of 2001, referred to in subsec. (c)(15), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of this title and Tables.
+
+Section 202 of the Higher Education Act of 1965, referred to in subsec. (e), which was classified to section 1022 of this title, was repealed by Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133. Pub. L. 110–315 enacted a new section 202 of the Act, relating to partnership grants, which is classified to section 1022a of this title.
 

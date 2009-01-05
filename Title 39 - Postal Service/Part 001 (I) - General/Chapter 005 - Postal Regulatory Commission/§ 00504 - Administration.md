@@ -6,15 +6,7 @@
 
 (c) The Chairman may obtain such facilities and supplies as may be necessary to permit the Commission to carry out its functions. Any officer or employee appointed under this section shall be paid at rates of compensation and shall be entitled to programs offering employee benefits established under chapter 10 or chapter 12 of this title, as appropriate.
 
-(d)(1) The Commission shall periodically prepare and submit to the Postal Service a budget of the Commission's expenses, including, but not limited to, expenses for facilities, supplies, compensation, and employee benefits. The budget shall be considered approved—
-
-&emsp;(A) as submitted if the Governors fail to act in accordance with subparagraph (B) of this paragraph; or
-
-&emsp;(B) as adjusted if the Governors holding office, by unanimous written decision, adjust the total amount of money requested in the budget.
-
-> Subparagraph (B) shall not be construed to authorize the Governors to adjust any item included within the budget.
-
-(2) Expenses incurred under any budget approved under paragraph (1) of this subsection shall be paid out of the Postal Service fund established under section 2003 of this title.
+(d) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission's expenses, including expenses for facilities, supplies, compensation, and employee benefits.
 
 (e) The provisions of section 410 and chapter 10 of this title shall apply to the Commission, as appropriate.
 
@@ -50,12 +42,6 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, §3604; Pub. L. 94–421, §4, Sept. 24, 1976, 90 Stat. 1305; renumbered §504 and amended Pub. L. 109–435, title VI, §§601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 109–435, title VI, §603(a), (d), Dec. 20, 2006, 120 Stat. 3240, 3241, provided that, applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subsection (d) of this section is amended to read as follows:</i>
-
-<i>“(d) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission's expenses, including expenses for facilities, supplies, compensation, and employee benefits.”</i>
-
 #### References in Text
 
 Rule 26(c) of the Federal Rules of Civil Procedure, referred to subsec. (g)(3)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -67,6 +53,8 @@ The Inspector General Act of 1978, referred to in subsec. (h)(1), is Pub. L. 95�
 2006—Pub. L. 109–435, §601(a)(3), renumbered section 3604 of this title as this section.
 
 Subsec. (a). Pub. L. 109–435, §604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+
+Subsec. (d). Pub. L. 109–435, §603(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to preparation, submission, and approval of Commission's budget and payment of expenses incurred under approved budget.
 
 Subsecs. (f), (g). Pub. L. 109–435, §602, added subsecs. (f) and (g).
 
@@ -102,5 +90,5 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 (c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one having a close family or personal relationship) or organization having, or likely to have, business with the Commission.
 
-Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Officemay from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
+Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Office may from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
 

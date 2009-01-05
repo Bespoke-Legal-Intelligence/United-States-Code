@@ -16,7 +16,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;&emsp;(A) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of fishery agreement resolutions described in paragraph (2), and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedure of that House) at any time, and in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedure of that House) at any time, and in the samemanner and to the same extent as in the case of any other rule of that House.
 
 #### (2) “Fishery agreement resolution” defined
 
@@ -36,7 +36,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the House of Representatives on any fishery agreement resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit any fishery agreement resolution or to move to reconsider the vote by which any fishery agreement resolution is agreed to or disagreed to.
 
-&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration ofother business, shall be decided without debate.
+&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
 
 &emsp;(D) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any fishery agreement resolution shall be decided without debate.
 
@@ -158,7 +158,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 #### Governing International Fishery Agreement With Japan
 
-Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of theUnited States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
+Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
 Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 

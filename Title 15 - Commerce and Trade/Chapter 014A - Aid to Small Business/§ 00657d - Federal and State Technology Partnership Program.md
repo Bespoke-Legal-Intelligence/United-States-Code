@@ -10,7 +10,7 @@ In this section and section 657e of this title, the following definitions apply:
 
 #### (2) Business advice and counseling
 
-&emsp;The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of thistitle to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
+&emsp;The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
 
 #### (3) FAST program
 
@@ -148,7 +148,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (B) Low-income areas
 
-&emsp;&emsp;The non-Federal share of the cost of the activity carried out using an award or under a cooperative agreement under this section shall be 50 cents for each Federal dollar that will be directly allocated by a recipient described in subparagraph (A) to serve small business concerns located in a qualified census tract, as that term is defined in section 42(d)(5)(C)(ii) of title 26. Federal dollars not so allocated by that recipient shall be subject to the matching requirements of subparagraph (A).
+&emsp;&emsp;The non-Federal share of the cost of the activity carried out using an award or under a cooperative agreement under this section shall be 50 cents for each Federal dollar that will be directly allocated by a recipient described in subparagraph (A) to serve small business concerns located in a qualified census tract, as that term is defined in section 42(d)(5)(C)(ii) <sup>1</sup> of title 26. Federal dollars not so allocated by that recipient shall be subject to the matching requirements of subparagraph (A).
 
 #### (C) Types of funding
 
@@ -218,9 +218,13 @@ The authority to carry out the FAST program under this section shall terminate o
 
 (Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265.)
 
+#### References in Text
+
+Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
+
 #### Prior Provisions
 
-A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 
@@ -243,4 +247,6 @@ Pub. L. 106–554, §1(a)(9) \[title I, §111(a)\], Dec. 21, 2000, 114 Stat. 276
 &emsp;“(2) States that do not aggressively support the development of small high-technology firms, including participation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
 
 &emsp;“(3) building stronger national, State, and local support for science and technology research in these disadvantaged States will expand economic opportunities in the United States, create jobs, and increase the competitiveness of the United States in the world market.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

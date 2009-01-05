@@ -68,7 +68,7 @@
 
 (g)(1) When the Archivist considers it to be in the public interest, the Archivist may solicit and accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into an account in the National Archives Trust Fund and shall be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, and for the same purposes and objects, including custodial and administrative services for which appropriations for the maintenance, operation, protection, or improvement of Presidential archival depositories might be expended.
 
-(2) The Archivist shall provide for the establishment in such Trust Fund of separate endowments for the maintenance of the land, facility, and equipment of each Presidential archival depository, to which shall be credited any gifts or bequests received under paragraph (1) that are offered for that purpose. Income to each such endowment shall be available to cover the cost of facility operations, but shall not be availablefor the performance of archival functions under this title.
+(2) The Archivist shall provide for the establishment in such Trust Fund of separate endowments for the maintenance of the land, facility, and equipment of each Presidential archival depository, to which shall be credited any gifts or bequests received under paragraph (1) that are offered for that purpose. Income to each such endowment shall be available to cover the cost of facility operations, but shall not be available for the performance of archival functions under this title.
 
 (3) The Archivist shall not accept or take title to any land, facility, or equipment under subparagraph (A) of subsection (a)(1), or enter into any agreement to use any land, facility, or equipment under subparagraph (B) of such subsection for the purpose of creating a Presidential archival depository, unless the Archivist determines that there is available, by gift or bequest for deposit under paragraph (2) of this subsection in an endowment with respect to such depository, an amount for the purpose of maintaining such land, facility, and equipment equal to—
 
@@ -114,7 +114,7 @@
 
 (5)(A) Notwithstanding paragraphs (3) and (4) (to the extent that such paragraphs are inconsistent with this paragraph), this subsection shall be administered in accordance with this paragraph with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Presidential records pertaining to any President who takes the oath of office as President for the first time on or after July 1, 2002.
 
-(B) For purposes of subparagraphs (A)(ii), (B)(i)(II), and (B)(ii)(II) of paragraph (3) the percentage of 40 percent shall apply instead of 20 percent.
+(B) For purposes of subparagraphs (A)(ii), (B)(i)(II), and (B)(ii)(II) of paragraph (3) the percentage of 60 percent shall apply instead of 20 percent.
 
 (C)(i) In this subparagraph, the term “base endowment amount” means the amount of the endowment required under paragraph (3).
 
@@ -130,7 +130,7 @@
 
 (iii) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462; Pub. L. 108–383, §4(a), Oct. 30, 2004, 118 Stat. 2218.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462; Pub. L. 108–383, §4(a), Oct. 30, 2004, 118 Stat. 2218; Pub. L. 110–404, §6(b), Oct. 13, 2008, 122 Stat. 4285.)
 
 #### Historical and Revision Notes
 
@@ -141,6 +141,8 @@ Based on 44 U.S. Code, 1964 ed., §397(f) (June 30, 1949, ch. 288, title V, §50
 A prior section 2112 was renumbered section 2116 of this title.
 
 #### Amendments
+
+2008—Subsec. (g)(5)(B). Pub. L. 110–404 substituted “60” for “40”.
 
 2004—Subsec. (e). Pub. L. 108–383 substituted “space, or for the occasional, non-official use of rooms and spaces (and services related to such use),” for “space”.
 
@@ -171,6 +173,32 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–591 effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as an Effective Date note under section 2201 of this title.
+
+#### Capital Improvement Plan for Presidential Archival Depositories
+
+Pub. L. 110–404, §6(a), Oct. 13, 2008, 122 Stat. 4284, provided that:
+
+“(1)
+
+Provision of plan.—The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a 10-year capital improvement plan, in accordance with paragraph (2), for all Presidential archival depositories (as defined in section 2101 of title 44, United States Code), which shall include—
+
+&emsp;“(A) a prioritization of all capital projects at Presidential archival depositories that cost more than $1,000,000;
+
+&emsp;“(B) the current estimate of the cost of each capital project; and
+
+&emsp;“(C) the basis upon which each cost estimate was developed.
+
+“(2)
+
+Provided to congress.—The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the date of enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
+
+“(3)
+
+Annual updates and explanation of changes in cost estimates.—The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives—
+
+&emsp;“(A) annual updates to the capital improvement plan described in paragraph (1) at the same time aseach subsequent Budget of the United States Government is submitted to Congress; and
+
+&emsp;“(B) an explanation for any changes in cost estimates.”
 
 #### John Fitzgerald Kennedy Library
 

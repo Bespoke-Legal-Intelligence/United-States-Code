@@ -40,11 +40,11 @@ No Royalty Fee Required.—A satellite carrier whose secondary transmissions are
 
 (d)
 
-Noncompliance With Reporting and Regulatory Requirements.—Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506 and 509, if the satellite carrier has not complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals.
+Noncompliance With Reporting and Regulatory Requirements.—Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506, if the satellite carrier has not complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals.
 
 (e)
 
-Willful Alterations.—Notwithstanding subsection (a), the secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a performance or display of a work embodied in a primary transmission made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and sections 509 and 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
+Willful Alterations.—Notwithstanding subsection (a), the secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a performance or display of a work embodied in a primary transmission made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
 
 (f)
 
@@ -52,7 +52,7 @@ Violation of Territorial Restrictions on Statutory License for Television Broadc
 
 &emsp;(1)
 
-Individual violations.—The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a television broadcast station to a subscriber who does not reside in that station's local market, and is not subject to statutory licensing under section 119 or a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506 and 509, except that—
+Individual violations.—The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a television broadcast station to a subscriber who does not reside in that station's local market, and is not subject to statutory licensing under section 119 or a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that—
 
 &emsp;&emsp;(A) no damages shall be awarded for such act of infringement if the satellite carrier took corrective action by promptly withdrawing service from the ineligible subscriber; and
 
@@ -132,11 +132,17 @@ Television broadcast station.—The term “television broadcast station”—
 
 &emsp;&emsp;(A) means an over-the-air, commercial or noncommercial television broadcast station licensed by the Federal Communications Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station; and
 
-&emsp;&emsp;(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
+&emsp;&emsp;(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the stationbroadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX \[title I, §111(b)\], Dec. 8, 2004, 118 Stat. 3409.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX \[title I, §111(b)\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110–403, title II, §209(a)(5), Oct. 13, 2008, 122 Stat. 4264.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–403, §209(a)(5)(A), struck out “and 509” after “506”.
+
+Subsec. (e). Pub. L. 110–403, §209(a)(5)(B), substituted “section 510” for “sections 509 and 510”.
+
+Subsec. (f)(1). Pub. L. 110–403, §209(a)(5)(C), struck out “and 509” after “506” in introductory provisions.
 
 2004—Subsec. (j)(2)(D). Pub. L. 108–447 added subpar. (D).
 

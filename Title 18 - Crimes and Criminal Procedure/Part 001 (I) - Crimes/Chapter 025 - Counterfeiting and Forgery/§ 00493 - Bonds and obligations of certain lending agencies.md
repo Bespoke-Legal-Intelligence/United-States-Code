@@ -62,5 +62,5 @@ For dissolution and abolition of Home Owners’ Loan Corporation, referred to in
 
 #### Farm Credit Administration
 
-Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
+Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 

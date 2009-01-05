@@ -102,7 +102,7 @@ A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 
 
 #### Amendments
 
-2006—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
+2006—Subsec. (c)(6)(A). Pub. L. 109–280, §803(c), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: “so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
 
 &emsp;“(i) the amount of contributions not in excess of 6 percent of compensation (within the meaning of section 404(a) and as adjusted under section 404(a)(12)) paid or accrued (during the taxable year for which the contributions were made) to beneficiaries under the plans, or
 
@@ -166,6 +166,8 @@ Subsec. (d)(1). Pub. L. 100–647, §1011A(e)(2), amended par. (1) generally. Pr
 
 #### Effective Date of 2006 Amendment
 
+Amendment by section 114(e)(5) of Pub. L. 109–280 applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see section 114(g) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
+
 Amendment by section 803(c) of Pub. L. 109–280 applicable to contributions for taxable years beginning after Dec. 31, 2005, see section 803(d) of Pub. L. 109–280, set out as a note under section 404 of this title.
 
 #### Effective Date of 2004 Amendment
@@ -222,7 +224,7 @@ For special rules on applicability of amendments by subtitles A (§§101–107) 
 
 #### Increase in Amount for Plan Termination Insurance Under Employee Retirement Insurance Security Act of 1974
 
-Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) bywhich, as of the close of the plan year with or within which such taxable year begins—
+Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any taxable year beginning in 1987, the amount under section 4972(c)(1)(A)(ii) of the 1986 Code for a plan to which title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\] applies shall be increased by the amount (if any) by which, as of the close of the plan year with or within which such taxable year begins—
 
 &emsp;“(A) the liabilities of such plan (determined as if the plan had terminated as of such time), exceed
 

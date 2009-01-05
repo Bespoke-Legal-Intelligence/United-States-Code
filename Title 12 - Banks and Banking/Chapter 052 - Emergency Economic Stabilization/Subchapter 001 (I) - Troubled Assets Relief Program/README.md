@@ -1,0 +1,38 @@
+### SUBCHAPTER I—TROUBLED ASSETS RELIEF PROGRAM
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 05211 - Purchases of troubled assets](%C2%A7%2005211%20-%20Purchases%20of%20troubled%20assets.md)
+- [&sect; 05212 - Insurance of troubled assets](%C2%A7%2005212%20-%20Insurance%20of%20troubled%20assets.md)
+- [&sect; 05213 - Considerations](%C2%A7%2005213%20-%20Considerations.md)
+- [&sect; 05214 - Financial Stability Oversight Board](%C2%A7%2005214%20-%20Financial%20Stability%20Oversight%20Board.md)
+- [&sect; 05215 - Reports](%C2%A7%2005215%20-%20Reports.md)
+- [&sect; 05216 - Rights; management; sale of troubled assets; revenues and sale proceeds](%C2%A7%2005216%20-%20Rights%3B%20management%3B%20sale%20of%20troubled%20assets%3B%20revenues%20and%20sale%20proceeds.md)
+- [&sect; 05217 - Contracting procedures](%C2%A7%2005217%20-%20Contracting%20procedures.md)
+- [&sect; 05218 - Conflicts of interest](%C2%A7%2005218%20-%20Conflicts%20of%20interest.md)
+- [&sect; 05219 - Foreclosure mitigation efforts](%C2%A7%2005219%20-%20Foreclosure%20mitigation%20efforts.md)
+- [&sect; 05220 - Assistance to homeowners](%C2%A7%2005220%20-%20Assistance%20to%20homeowners.md)
+- [&sect; 05221 - Executive compensation and corporate governance](%C2%A7%2005221%20-%20Executive%20compensation%20and%20corporate%20governance.md)
+- [&sect; 05222 - Coordination with foreign authorities and central banks](%C2%A7%2005222%20-%20Coordination%20with%20foreign%20authorities%20and%20central%20banks.md)
+- [&sect; 05223 - Minimization of long-term costs and maximization of benefits for taxpayers](%C2%A7%2005223%20-%20Minimization%20of%20long-term%20costs%20and%20maximization%20of%20benefits%20for%20taxpayers.md)
+- [&sect; 05224 - Market transparency](%C2%A7%2005224%20-%20Market%20transparency.md)
+- [&sect; 05225 - Graduated authorization to purchase](%C2%A7%2005225%20-%20Graduated%20authorization%20to%20purchase.md)
+- [&sect; 05226 - Oversight and audits](%C2%A7%2005226%20-%20Oversight%20and%20audits.md)
+- [&sect; 05227 - Study and report on margin authority](%C2%A7%2005227%20-%20Study%20and%20report%20on%20margin%20authority.md)
+- [&sect; 05228 - Funding](%C2%A7%2005228%20-%20Funding.md)
+- [&sect; 05229 - Judicial review and related matters](%C2%A7%2005229%20-%20Judicial%20review%20and%20related%20matters.md)
+- [&sect; 05230 - Termination of authority](%C2%A7%2005230%20-%20Termination%20of%20authority.md)
+- [&sect; 05231 - Special Inspector General for the Troubled Asset Relief Program](%C2%A7%2005231%20-%20Special%20Inspector%20General%20for%20the%20Troubled%20Asset%20Relief%20Program.md)
+- [&sect; 05232 - Credit reform](%C2%A7%2005232%20-%20Credit%20reform.md)
+- [&sect; 05233 - Congressional Oversight Panel](%C2%A7%2005233%20-%20Congressional%20Oversight%20Panel.md)
+- [&sect; 05234 - Cooperation with the FBI](%C2%A7%2005234%20-%20Cooperation%20with%20the%20FBI.md)
+- [&sect; 05235 - Disclosures on exercise of loan authority](%C2%A7%2005235%20-%20Disclosures%20on%20exercise%20of%20loan%20authority.md)
+- [&sect; 05236 - Exchange Stabilization Fund reimbursement](%C2%A7%2005236%20-%20Exchange%20Stabilization%20Fund%20reimbursement.md)
+- [&sect; 05237 - Authority to suspend mark-to-market accounting](%C2%A7%2005237%20-%20Authority%20to%20suspend%20mark-to-market%20accounting.md)
+- [&sect; 05238 - Study on mark-to-market accounting](%C2%A7%2005238%20-%20Study%20on%20mark-to-market%20accounting.md)
+- [&sect; 05239 - Recoupment](%C2%A7%2005239%20-%20Recoupment.md)
+- [&sect; 05240 - Preservation of authority](%C2%A7%2005240%20-%20Preservation%20of%20authority.md)
+- [&sect; 05241 - Temporary increase in deposit and share insurance coverage](%C2%A7%2005241%20-%20Temporary%20increase%20in%20deposit%20and%20share%20insurance%20coverage.md)

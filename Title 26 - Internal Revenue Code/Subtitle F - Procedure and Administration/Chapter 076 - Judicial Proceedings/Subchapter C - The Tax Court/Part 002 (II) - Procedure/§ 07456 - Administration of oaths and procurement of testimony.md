@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the efficient administration of the functions vested in the Tax Court or any divisionthereof, any judge or special trial judge of the Tax Court, the clerk of the court or his deputies, as such, or any other employee of the Tax Court designated in writing for the purpose by the chief judge, may administer oaths, and any judge or special trial judge of the Tax Court may examine witnesses and require, by subpoena ordered by the Tax Court or any division thereof and signed by the judge or special trial judge (or by the clerk of the Tax Court or by any other employee of the Tax Court when acting as deputy clerk)—
+For the efficient administration of the functions vested in the Tax Court or any division thereof, any judge or special trial judge of the Tax Court, the clerk of the court or his deputies, as such, or any other employee of the Tax Court designated in writing for the purpose by the chief judge, may administer oaths, and any judge or special trial judge of the Tax Court may examine witnesses and require, by subpoena ordered by the Tax Court or any division thereof and signed by the judge or special trial judge (or by the clerk of the Tax Court or by any other employee of the Tax Court when acting as deputy clerk)—
 
 &emsp;(1) the attendance and testimony of witnesses, and the production of all necessary returns, books, papers, documents, correspondence, and other evidence, from any place in the United States at any designated place of hearing, or
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 98–369, §464(b), substituted “Special trial judges” 
 
 Subsec. (d). Pub. L. 98–369, §464(c), substituted “Special trial judges” for “Commissioners” in heading, and substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner” in provisions following par. (4).
 
-Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and“$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
+Pub. L. 98–369, §463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
 
 1982—Subsec. (c). Pub. L. 97–362, §106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
 

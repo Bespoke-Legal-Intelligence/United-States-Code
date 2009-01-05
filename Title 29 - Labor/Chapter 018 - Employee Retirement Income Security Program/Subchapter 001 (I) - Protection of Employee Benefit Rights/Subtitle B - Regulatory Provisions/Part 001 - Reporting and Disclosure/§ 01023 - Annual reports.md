@@ -54,7 +54,7 @@ An annual report under this section shall include a financial statement containi
 
 (1) With respect to an employee welfare benefit plan: a statement of assets and liabilities; a statement of changes in fund balance; and a statement of changes in financial position. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of the plan.
 
-(2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of suchchanges on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
+(2) With respect to an employee pension benefit plan: a statement of assets and liabilities, and a statement of changes in net assets available for plan benefits which shall include details of revenues and expenses and other changes aggregated by general source and application. In the notes to financial statements, disclosures concerning the following items shall be considered by the accountant: a description of the plan including any significant changes in the plan made during the period and the impact of such changes on benefits; the funding policy (including policy with respect to prior service cost), and any changes in such policies during the year; a description of any significant changes in plan benefits made during the period; a description of material lease commitments, other commitments, and contingent liabilities; a description of agreements and transactions with persons known to be parties in interest; a general description of priorities upon termination of the plan; information concerning whether or not a tax ruling or determination letter has been obtained; and any other matters necessary to fully and fairly present the financial statements of such pension plan.
 
 (3) With respect to all employee benefit plans, the statement required under paragraph (1) or (2) shall have attached the following information in separate schedules:
 
@@ -66,7 +66,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(D) a schedule of each transaction involving a person known to be party in interest, the identity of such party in interest and his relationship or that of any other party in interest to the plan, a description of each asset to which the transaction relates; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expense incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction;
 
-&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of the close of the plan's fiscal year or were classified during the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interest rate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
+&emsp;(E) a schedule of all loans or fixed income obligations which were in default as of the close of the plan's fiscal year or were classified during the year as uncollectable and the following information with respect to each loan on such schedule (including a notation as to whether parties involved are known to be parties in interest): the original principal amount of the loan, the amount of principal and interest received during the reporting year, the unpaid balance, the identity and address of the obligor, a detailed description of the loan (including date of making and maturity, interestrate, the type and value of collateral, and other material terms), the amount of principal and interest overdue (if any) and an explanation thereof;
 
 &emsp;(F) a list of all leases which were in default or were classified during the year as uncollectable; and the following information with respect to each lease on such schedule (including a notation as to whether parties involved are known to be parties in interest): the type of property leased (and, in the case of fixed assets such as land, buildings, leasehold, and so forth, the location of the property), the identity of the lessor or lessee from or to whom the plan is leasing, the relationship of such lessors and lessees, if any, to the plan, the employer, employee organization, or any other party in interest, the terms of the lease regarding rent, taxes, insurance, repairs, expenses, and renewal options; the date the leased property was purchased and its cost, the date the property was leased and its approximate value at such date, the gross rental receipts during the reporting period, expenses paid for the leased property during the reporting period, the net receipts from the lease, the amounts in arrears, and a statement as to what steps have been taken to collect amounts due or otherwise remedy the default;
 
@@ -106,7 +106,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;(2) The date and amount of the contribution (or contributions) received by the plan for the plan year for which the report is filed and contributions for prior plan years not previously reported.
 
-&emsp;(3) The following information applicable to the plan year for which the report is filed: the normal costs, the accrued liabilities, an identification of benefits not included in the calculation; a statement of the other facts and actuarial assumptions and methods used to determine costs, and a justification for any change in actuarial assumptions or cost methods; and the minimum contribution required under section 1082 of this title.
+&emsp;(3) The following information applicable to the plan year for which the report is filed: the normal costs or target normal costs, the accrued liabilities or funding target, an identification of benefits not included in the calculation; a statement of the other facts and actuarial assumptions and methods used to determine costs, and a justification for any change in actuarial assumptions or cost methods; and the minimum contribution required under section 1082 of this title.
 
 &emsp;(4) The number of participants and beneficiaries, both retired and nonretired, covered by the plan.
 
@@ -124,7 +124,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(E) the actuarial assumptions and techniques used in determining the values described in subparagraphs (A) through (D).
 
-&emsp;(7) A certification of the contribution necessary to reduce the accumulated funding deficiency to zero.
+&emsp;(7) A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of this title, or the accumulated funding deficiency determined under section 1084 of this title, to zero.
 
 &emsp;(8) A statement by the enrolled actuary—
 
@@ -208,9 +208,13 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;(I) In the case of a multiemployer plan that has merged with another plan or to which assets and liabilities have been transferred, the actuarial valuation of the assets and liabilities of each affected plan during the year preceding the effective date of the merger or transfer, based upon the most recent data available as of the day before the first day of the plan year, or other valuation method performed under standards and procedures as the Secretary may prescribe by regulation.
 
-(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943.)
+(Pub. L. 93–406, title I, §103, Sept. 2, 1974, 88 Stat. 841; Pub. L. 96–364, title III, §307, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title XI, §11016(b)(1), Apr. 7, 1986, 100 Stat. 272; Pub. L. 100–203, title IX, §9342(a)(1), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7881(j)(1), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 109–280, title I, §107(a)(2), (3), title V, §503(a)(1), (b), Aug. 17, 2006, 120 Stat. 818, 942, 943; Pub. L. 110–458, title I, §101(d)(1)(A), Dec. 23, 2008, 122 Stat. 5098.)
 
 #### Amendments
+
+2008—Subsec. (d)(3). Pub. L. 110–458, §101(d)(1)(A)(i), substituted “the normal costs or target normal costs, the accrued liabilities or funding target” for “the normal costs, the accrued liabilities”.
+
+Subsec. (d)(7). Pub. L. 110–458, §101(d)(1)(A)(ii), added par. (7) and struck out former par. (7) which read as follows: “A certification of the contribution necessary to reduce the accumulated funding deficiency to zero.”
 
 2006—Subsec. (a)(1)(B). Pub. L. 109–280, §503(a)(1)(A), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)” in introductory provisions.
 
@@ -229,6 +233,10 @@ Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 1986—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) ‘termination priority categories’ and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories.”
 
 1980—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

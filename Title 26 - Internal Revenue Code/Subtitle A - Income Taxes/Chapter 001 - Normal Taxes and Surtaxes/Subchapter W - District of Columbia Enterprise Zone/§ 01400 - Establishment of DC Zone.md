@@ -36,19 +36,21 @@ For purposes of this subchapter and for purposes of applying subchapter U with r
 
 #### (1) In general
 
-&emsp;The designation made by subsection (a) shall apply for the period beginning on January 1, 1998, and ending on December 31, 2007.
+&emsp;The designation made by subsection (a) shall apply for the period beginning on January 1, 1998, and ending on December 31, 2009.
 
 #### (2) Coordination with DC enterprise community designated under subchapter U
 
-&emsp;The designation under subchapter U of the census tracts referred to in subsection (b)(1) as an enterprise community shall terminate on December 31, 2007.
+&emsp;The designation under subchapter U of the census tracts referred to in subsection (b)(1) as an enterprise community shall terminate on December 31, 2009.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(a), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(a)(1), Dec. 20, 2006, 120 Stat. 2939.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(a), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(a)(1), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §322(a)(1), Oct. 3, 2008, 122 Stat. 3873.)
 
 #### References in Text
 
 The date of the enactment of this subchapter, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–343 substituted “2009” for “2007” in pars. (1) and (2).
 
 2006—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2005” in pars. (1) and (2).
 
@@ -61,6 +63,10 @@ Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(5)\], substituted 
 Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title I, §164(a)(1)\], substituted “2003” for “2002” in pars. (1) and (2).
 
 1998—Subsec. (b)(2)(B). Pub. L. 105–206 inserted “as determined on the basis of the 1990 census” after “percent”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title III, §322(a)(2), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendments made by this subsection \[amending this section\] shall apply to periods beginning after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 
@@ -82,7 +88,7 @@ Tax-exempt economic development bonds.—The amendment made by subsection (b) \[
 
 Amendment by section 1(a)(7) \[title I, §113(c)\] of Pub. L. 106–554 applicable to wages paid or incurred after Dec. 31, 2001, see section 1(a)(7) \[title I, §113(d)\] of Pub. L. 106–554, set out as a note under section 1396 of this title.
 
-Amendment by section 1(a)(7) \[title I, §116(b)(5)\] of Pub. L. 106–554 applicable to qualified empowermentzone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(5)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 #### Effective Date of 1998 Amendment
 

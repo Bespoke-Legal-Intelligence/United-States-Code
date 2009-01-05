@@ -6,7 +6,7 @@ The President shall submit an annual report to the Congress on the status of int
 
 #### Prior Provisions
 
-A prior section 2464, Pub. L. 93–618, title V, §504, Jan. 3, 1975, 88 Stat. 2070; Pub. L. 96–39, title XI, §§1106(g)(3), 1111(a)(4), July 26, 1979, 93 Stat. 313, 315; Pub. L. 98–573, title V, §505, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1887(a)(6), Oct. 22, 1986, 100 Stat. 2923, related to limitations on preferential treatment, prior to the general amendment of this subchapter by Pub. L. 104–188.
+A prior section 2464, Pub. L. 93–618, title V, §504, Jan. 3, 1975, 88 Stat. 2070; Pub. L. 96–39, title XI, §§1106(g)(3), 1111(a)(4), July 26, 1979, 93 Stat. 313, 315; Pub. L. 98–573, title V, §505, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47,§8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1887(a)(6), Oct. 22, 1986, 100 Stat. 2923, related to limitations on preferential treatment, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 4117 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this section were contained in section 4117 of this title prior to the repeal ofthat section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
 
@@ -22,5 +22,5 @@ Provisions similar to those in this section were contained in section 4117 of th
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h)of Pub. L. 108–170, set out as a note under section 7316 of this title.
+Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 

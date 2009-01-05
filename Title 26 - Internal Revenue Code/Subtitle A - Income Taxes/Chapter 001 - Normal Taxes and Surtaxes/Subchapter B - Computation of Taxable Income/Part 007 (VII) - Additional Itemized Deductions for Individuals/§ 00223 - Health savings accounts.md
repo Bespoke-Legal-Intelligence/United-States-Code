@@ -106,7 +106,7 @@ $1,000.
 
 &emsp;&emsp;&emsp;(i) as having been an eligible individual during each of the months in such taxable year, and
 
-&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason ofclause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
+&emsp;&emsp;&emsp;(ii) as having been enrolled, during each of the months such individual is treated as an eligible individual solely by reason of clause (i), in the same high deductible health plan in which the individual was enrolled for the last month of such taxable year.
 
 #### (B) Failure to maintain high deductible health plan coverage
 
@@ -362,7 +362,7 @@ For purposes of this section—
 
 #### (A) Treatment if designated beneficiary is spouse
 
-&emsp;&emsp;If the account beneficiary's surviving spouse acquires such beneficiary's interest in a health savings account by reason of being the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
+&emsp;&emsp;If the account beneficiary's surviving spouse acquires such beneficiary's interest in a health savings account by reason ofbeing the designated beneficiary of such account at the death of the account beneficiary, such health savings account shall be treated as if the spouse were the account beneficiary.
 
 #### (B) Other cases
 
@@ -416,6 +416,10 @@ The Secretary may require—
 
 (Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under section 1 of this title.</i>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1871, and 1882 of the Act are classified to sections 1395c, 1395hh, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -452,7 +456,7 @@ Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendmentmade by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
 
 Pub. L. 109–432, div. A, title III, §303(c), Dec. 20, 2006, 120 Stat. 2950, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -467,6 +471,14 @@ Amendment by Pub. L. 109–135 effective as if included in the provisions of the
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 62 of this title.
+
+#### Inflation Adjusted Items for Certain Years
+
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2009—Revenue Procedure 2008–29.
+
+2008—Revenue Procedure 2007–36.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

@@ -170,7 +170,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (B) Renewal grants
 
-&emsp;&emsp;The Administrator may award a renewal grant to an eligible coalition that is a grant recipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
+&emsp;&emsp;The Administrator may award a renewal grant to an eligible coalition that is a grantrecipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
 
 #### (C) Limitations
 

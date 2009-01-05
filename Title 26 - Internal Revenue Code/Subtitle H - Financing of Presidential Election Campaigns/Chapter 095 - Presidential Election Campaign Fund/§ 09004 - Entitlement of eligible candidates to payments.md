@@ -30,13 +30,13 @@ The eligible candidates of a political party shall be entitled to payments under
 
 #### (d) Expenditures from personal funds
 
-In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President inexcess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
+In order to be eligible to receive any payment under section 9006, the candidate of a major, minor, or new party in an election for the office of President shall certify to the Commission, under penalty of perjury, that such candidate will not knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for election to the office of President in excess of, in the aggregate, $50,000. For purposes of this subsection, expenditures from personal funds made by a candidate of a major, minor, or new party for the office of Vice President shall be considered to be expenditures by the candidate of such party for the office of President.
 
 #### (e) Definition of immediate family
 
 For purposes of subsection (d), the term “immediate family” means a candidate's spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 565; amended Pub. L. 93–443, title IV, §404(a), (b), Oct. 15, 1974, 88 Stat. 1291; Pub. L. 94–283, title III, §§301(a), 307(d), May 11, 1976, 90 Stat. 497, 501; Pub. L. 110–172, §11(a)(42)(B), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 565; amended Pub. L. 93–443, title IV, §404(a), (b), Oct. 15, 1974, 88 Stat. 1291; Pub.L. 94–283, title III, §§301(a), 307(d), May 11, 1976, 90 Stat. 497, 501; Pub. L. 110–172, §11(a)(42)(B), Dec. 29, 2007, 121 Stat. 2488.)
 
 #### References in Text
 

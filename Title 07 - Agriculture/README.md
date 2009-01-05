@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 2007 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 2008 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -57,7 +57,7 @@
 | [<b>38.</b>](Chapter%20038%20-%20Distribution%20and%20Marketing%20of%20Agricultural%20Products/README.md) | <b>Distribution and Marketing of Agricultural Products</b> | <b>1621</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Stabilization%20of%20International%20Wheat%20Market/README.md) | <b>Stabilization of International Wheat Market</b> | <b>1641</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md) | <b>Halogeton Glomeratus Control \[Repealed\]</b> | <b>1651</b> |
-| [<b>41.</b>](Chapter%20041%20-%20Agricultural%20Trade%20Development%20and%20Assistance/README.md) | <b>Agricultural Trade Development and Assistance</b> | <b>1691</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Food%20for%20Peace/README.md) | <b>Food for Peace</b> | <b>1691</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Agricultural%20Commodity%20Set-Aside/README.md) | <b>Agricultural Commodity Set-Aside</b> | <b>1741</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Foreign%20Market%20Development/README.md) | <b>Foreign Market Development</b> | <b>1761</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Wool%20Program/README.md) | <b>Wool Program \[Repealed\]</b> | <b>1781</b> |
@@ -67,7 +67,7 @@
 | [<b>48.</b>](Chapter%20048%20-%20Humane%20Methods%20of%20Livestock%20Slaughter/README.md) | <b>Humane Methods of Livestock Slaughter</b> | <b>1901</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Consultation%20on%20Agricultural%20Programs/README.md) | <b>Consultation on Agricultural Programs</b> | <b>1911</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Agricultural%20Credit/README.md) | <b>Agricultural Credit</b> | <b>1921</b> |
-| [<b>51.</b>](Chapter%20051%20-%20Food%20Stamp%20Program/README.md) | <b>Food Stamp Program</b> | <b>2011</b> |
+| [<b>51.</b>](Chapter%20051%20-%20Supplemental%20Nutrition%20Assistance%20Program/README.md) | <b>Supplemental Nutrition Assistance Program</b> | <b>2011</b> |
 | [<b>52.</b>](Chapter%20052%20-%20Farm%20Labor%20Contractor%20Registration/README.md) | <b>Farm Labor Contractor Registration \[Repealed\]</b> | <b>2041</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Cotton%20Research%20and%20Promotion/README.md) | <b>Cotton Research and Promotion</b> | <b>2101</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Transportation%2C%20Sale%2C%20and%20Handling%20of%20Certain%20Animals/README.md) | <b>Transportation, Sale, and Handling of Certain Animals</b> | <b>2131</b> |
@@ -129,7 +129,9 @@
 | [<b>109.</b>](Chapter%20109%20-%20Animal%20Health%20Protection/README.md) | <b>Animal Health Protection</b> | <b>8301</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Enhancing%20Controls%20on%20Dangerous%20Biological%20Agents%20and%20Toxins/README.md) | <b>Enhancing Controls on Dangerous Biological Agents and Toxins</b> | <b>8401</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Brown%20Tree%20Snake%20Control%20and%20Eradication/README.md) | <b>Brown Tree Snake Control and Eradication</b> | <b>8501</b> |
-| [<b>112.</b>](Chapter%20112%20-%20Biomass%20Research%20and%20Development/README.md) | <b>Biomass Research and Development</b> | <b>8601</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Biomass%20Research%20and%20Development/README.md) | <b>Biomass Research and Development \[Repealed\]</b> | <b>8601</b> |
+| [<b>113.</b>](Chapter%20113%20-%20Agricultural%20Commodity%20Support%20Programs/README.md) | <b>Agricultural Commodity Support Programs</b> | <b>8701</b> |
+| [<b>114.</b>](Chapter%20114%20-%20Agricultural%20Security/README.md) | <b>Agricultural Security</b> | <b>8901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -190,7 +192,7 @@
 - [Chapter 038 - Distribution and Marketing of Agricultural Products](Chapter%20038%20-%20Distribution%20and%20Marketing%20of%20Agricultural%20Products/README.md)
 - [Chapter 039 - Stabilization of International Wheat Market](Chapter%20039%20-%20Stabilization%20of%20International%20Wheat%20Market/README.md)
 - [Chapter 040 - Halogeton Glomeratus Control](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md)
-- [Chapter 041 - Agricultural Trade Development and Assistance](Chapter%20041%20-%20Agricultural%20Trade%20Development%20and%20Assistance/README.md)
+- [Chapter 041 - Food for Peace](Chapter%20041%20-%20Food%20for%20Peace/README.md)
 - [Chapter 042 - Agricultural Commodity Set-Aside](Chapter%20042%20-%20Agricultural%20Commodity%20Set-Aside/README.md)
 - [Chapter 043 - Foreign Market Development](Chapter%20043%20-%20Foreign%20Market%20Development/README.md)
 - [Chapter 044 - Wool Program](Chapter%20044%20-%20Wool%20Program/README.md)
@@ -200,7 +202,7 @@
 - [Chapter 048 - Humane Methods of Livestock Slaughter](Chapter%20048%20-%20Humane%20Methods%20of%20Livestock%20Slaughter/README.md)
 - [Chapter 049 - Consultation on Agricultural Programs](Chapter%20049%20-%20Consultation%20on%20Agricultural%20Programs/README.md)
 - [Chapter 050 - Agricultural Credit](Chapter%20050%20-%20Agricultural%20Credit/README.md)
-- [Chapter 051 - Food Stamp Program](Chapter%20051%20-%20Food%20Stamp%20Program/README.md)
+- [Chapter 051 - Supplemental Nutrition Assistance Program](Chapter%20051%20-%20Supplemental%20Nutrition%20Assistance%20Program/README.md)
 - [Chapter 052 - Farm Labor Contractor Registration](Chapter%20052%20-%20Farm%20Labor%20Contractor%20Registration/README.md)
 - [Chapter 053 - Cotton Research and Promotion](Chapter%20053%20-%20Cotton%20Research%20and%20Promotion/README.md)
 - [Chapter 054 - Transportation, Sale, and Handling of Certain Animals](Chapter%20054%20-%20Transportation%2C%20Sale%2C%20and%20Handling%20of%20Certain%20Animals/README.md)
@@ -263,3 +265,5 @@
 - [Chapter 110 - Enhancing Controls on Dangerous Biological Agents and Toxins](Chapter%20110%20-%20Enhancing%20Controls%20on%20Dangerous%20Biological%20Agents%20and%20Toxins/README.md)
 - [Chapter 111 - Brown Tree Snake Control and Eradication](Chapter%20111%20-%20Brown%20Tree%20Snake%20Control%20and%20Eradication/README.md)
 - [Chapter 112 - Biomass Research and Development](Chapter%20112%20-%20Biomass%20Research%20and%20Development/README.md)
+- [Chapter 113 - Agricultural Commodity Support Programs](Chapter%20113%20-%20Agricultural%20Commodity%20Support%20Programs/README.md)
+- [Chapter 114 - Agricultural Security](Chapter%20114%20-%20Agricultural%20Security/README.md)

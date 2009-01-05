@@ -20,7 +20,7 @@ The purpose of the Trust Fund should be to use contributed funds to—
 
 #### (1) In general
 
-&emsp;The Trust Fund should be governed by a Board of Trustees, which should be composed of representatives of the participating donor countries to the Trust Fund. Individuals appointed to the Board should have demonstrated knowledge and experience in the fields of public health, epidemiology, health care (including delivery systems), and development.
+&emsp;The Trust Fund should be governed by a Board of Trustees, which should be composed of representatives of the participating donor countries to the Trust Fund. Individuals appointed to the Board should have demonstrated knowledge and experience in thefields of public health, epidemiology, health care (including delivery systems), and development.
 
 #### (2) United States representation
 

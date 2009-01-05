@@ -10,7 +10,7 @@ The requirements of subparts 1 and 3 shall not apply to any group health plan (a
 
 &emsp;The requirements of subparts 1 through 3 shall apply with respect to group health plans only—
 
-&emsp;&emsp;(A) subject to paragraph (2), in the case of a plan that is a nonfederal <sup>1</sup> governmental plan, and
+&emsp;&emsp;(A) subject to paragraph (2), in the case of a plan that is a nonfederal governmental plan, and
 
 &emsp;&emsp;(B) with respect to health insurance coverage offered in connection with a group health plan (including such a plan that is a church plan or a governmental plan).
 
@@ -18,7 +18,7 @@ The requirements of subparts 1 and 3 shall not apply to any group health plan (a
 
 #### (A) Election to be excluded
 
-&emsp;&emsp;If the plan sponsor of a nonfederal <sup>1</sup> governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly to group health plans (and not merely to group health insurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
+&emsp;&emsp;Except as provided in subparagraph (D), if the plan sponsor of a nonfederal governmental plan which is a group health plan to which the provisions of subparts 1 through 3 otherwise apply makes an election under this subparagraph (in such form and manner as the Secretary may by regulations prescribe), then the requirements of such subparts insofar as they apply directly to group health plans (and not merely to group health insurance coverage) shall not apply to such governmental plans for such period except as provided in this paragraph.
 
 #### (B) Period of election
 
@@ -37,6 +37,10 @@ The requirements of subparts 1 and 3 shall not apply to any group health plan (a
 &emsp;&emsp;&emsp;(i) notice to enrollees (on an annual basis and at the time of enrollment under the plan) of the fact and consequences of such election, and
 
 &emsp;&emsp;&emsp;(ii) certification and disclosure of creditable coverage under the plan with respect to enrollees in accordance with section 300gg(e) of this title.
+
+#### (D) Election not applicable to requirements concerning genetic information
+
+&emsp;&emsp;The election described in subparagraph (A) shall not be available with respect to the provisions of subsections (a)(1)(F), (b)(3), (c), and (d) of section 300gg–1 of this title and the provisions of sections 300gg and 300gg–1(b) of this title to the extent that such provisions apply to genetic information.
 
 #### (c) Exception for certain benefits
 
@@ -64,7 +68,7 @@ The requirements of subparts 1 through 3 shall not apply to any group health pla
 
 #### (3) Supplemental excepted benefits
 
-&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) <sup>2</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) <sup>1</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (e) Treatment of partnerships
 
@@ -88,7 +92,7 @@ For purposes of this part—
 
 > &emsp;if such individual is, or may become, eligible to receive a benefit under the plan or such individual's beneficiaries may be eligible to receive any such benefit.
 
-(July 1, 1944, ch. 373, title XXVII, §2721, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1967; amended Pub. L. 104–204, title VI, §604(b)(1), Sept. 26, 1996, 110 Stat. 2940.)
+(July 1, 1944, ch. 373, title XXVII, §2721, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1967; amended Pub. L. 104–204, title VI, §604(b)(1), Sept. 26, 1996, 110 Stat. 2940; Pub. L. 110–233, title I, §102(c), May 21, 2008, 122 Stat. 895.)
 
 #### References in Text
 
@@ -96,9 +100,17 @@ Section 300gg–91(c)(4) of this title, referred to in subsec. (d)(3), was in th
 
 #### Amendments
 
+2008—Subsec. (b)(2)(A). Pub. L. 110–233, §102(c)(1), substituted “Except as provided in subparagraph (D), if the plan sponsor” for “If the plan sponsor”.
+
+Subsec. (b)(2)(D). Pub. L. 110–233, §102(c)(2), added subpar. (D).
+
 1996—Subsec. (a). Pub. L. 104–204, §604(b)(1)(A), substituted “subparts 1 and 3” for “subparts 1 and 2”.
 
 Subsec. (b) to (d). Pub. L. 104–204, §604(b)(1)(B), substituted “subparts 1 through 3” for “subparts 1 and 2” wherever appearing.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -108,7 +120,5 @@ Amendment by Pub. L. 104–204 applicable with respect to group health plans for
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “non-Federal”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

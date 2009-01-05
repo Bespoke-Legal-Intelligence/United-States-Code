@@ -4,7 +4,7 @@
 
 Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of the standard under section 33102 of this title, the following are high theft lines:
 
-&emsp;(A) a passenger motor vehicle line determined under subsection (b) of this section to have had a new passenger motor vehicle theftrate in the 2-year period covering calendar years 1990 and 1991 greater than the median theft rate for all new passenger motor vehicle thefts in that 2-year period.
+&emsp;(A) a passenger motor vehicle line determined under subsection (b) of this section to have had a new passenger motor vehicle theft rate in the 2-year period covering calendar years 1990 and 1991 greater than the median theft rate for all new passenger motor vehicle thefts in that 2-year period.
 
 &emsp;(B) a passenger motor vehicle line initially introduced into commerce in the United States after December 31, 1989, that is selected under paragraph (3) of this subsection as likely to have a theft rate greater than the median theft rate referred to in clause (A) of this paragraph.
 

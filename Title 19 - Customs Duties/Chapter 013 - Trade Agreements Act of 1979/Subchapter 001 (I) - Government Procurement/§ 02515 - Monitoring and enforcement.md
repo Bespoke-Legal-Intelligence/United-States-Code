@@ -148,7 +148,7 @@ Contents of reports.—The reports required by this subsection shall include, wi
 
 &emsp;&emsp;“(B) an identification of the United States products or services that are affected by the noncompliance or discrimination;
 
-&emsp;&emsp;“(C) an analysis of the impact of the noncompliance or discrimination on the commerce of theUnited States and the ability of United States companies to compete in foreign government procurement markets; and
+&emsp;&emsp;“(C) an analysis of the impact of the noncompliance or discrimination on the commerce of the United States and the ability of United States companies to compete in foreign government procurement markets; and
 
 &emsp;&emsp;“(D) a description of the status, action taken, and disposition of cases of noncompliance or discrimination identified in the preceding annual report with respect to such country.
 

@@ -88,7 +88,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (4) Compliance schedules
 
-&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcementresponsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
+&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
 
 #### (5) Duration of variances
 

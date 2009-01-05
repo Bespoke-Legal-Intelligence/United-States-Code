@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
+The President, acting through the Council of Economic Advisors, the National ResearchCouncil of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
 
 &emsp;(1) The economic causes and consequences of trafficking in persons.
 
@@ -12,13 +12,37 @@ The President, acting through the Council of Economic Advisors, the National Res
 
 &emsp;(4) Subject to subsection (b) of this section, the interrelationship between trafficking in persons and terrorism, including the use of profits from trafficking in persons to finance terrorism.
 
-&emsp;(5) An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.
+&emsp;(5) An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis, which shall include, not later than 2 years after December 23, 2008, the establishment and maintenance of an integrated database within the Human Smuggling and Trafficking Center.
 
 &emsp;(6) The abduction and enslavement of children for use as soldiers, including steps taken to eliminate the abduction and enslavement of children for use as soldiers and recommendations for such further steps as may be necessary to rapidly end the abduction and enslavement of children for use as soldiers.
 
 #### (b) Role of Human Smuggling and Trafficking Center
 
-The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8).
+#### (1) In general
+
+&emsp;The research initiatives described in paragraphs (4) and (5) of subsection (a) shall be carried out by the Human Smuggling and Trafficking Center, established under section 1777 of title 8.
+
+#### (2) Database
+
+&emsp;The database described in subsection (a)(5) shall be established by combining all applicable data collected by each Federal department and agency represented on the Interagency Task Force to Monitor and Combat Trafficking, consistent with the protection of sources and methods, and, to the maximum extent practicable, applicable data from relevant international organizations, to—
+
+&emsp;&emsp;(A) improve the coordination of the collection of data related to trafficking in persons by each agency of the United States Government that collects such data;
+
+&emsp;&emsp;(B) promote uniformity of such data collection and standards and systems related to such collection;
+
+&emsp;&emsp;(C) undertake a meta-analysis of patterns of trafficking in persons, slavery, and slave-like conditions to develop and analyze global trends in human trafficking;
+
+&emsp;&emsp;(D) identify emerging issues in human trafficking and establishing integrated methods to combat them; and
+
+&emsp;&emsp;(E) identify research priorities to respond to global patterns and emerging issues.
+
+#### (3) Consultation
+
+&emsp;The database established in accordance with paragraph (2) shall be maintained in consultation with the Director of the Office to Monitor and Combat Trafficking in Persons of the Department of State.
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated $2,000,000 to the Human Smuggling and Trafficking Center for each of the fiscal years 2008 through 2011 to carry out the activities described in this subsection.
 
 #### (c) Definitions
 
@@ -36,7 +60,7 @@ In this section:
 
 &emsp;The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
-(Pub. L. 106–386, div. A, §112A, as added Pub. L. 108–193, §6(g)(1), Dec. 19, 2003, 117 Stat. 2883; amended Pub. L. 109–164, title I, §104(c)(1), Jan. 10, 2006, 119 Stat. 3564.)
+(Pub. L. 106–386, div. A, §112A, as added Pub. L. 108–193, §6(g)(1), Dec. 19, 2003, 117 Stat. 2883; amended Pub. L. 109–164, title I, §104(c)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, §108(a), Dec. 23, 2008, 122 Stat. 5050.)
 
 #### References in Text
 
@@ -44,9 +68,13 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 #### Amendments
 
+2008—Subsec. (a)(5). Pub. L. 110–457, §108(a)(1), amended par. (5) generally. Prior to amendment, text read as follows: “An effective mechanism for quantifying the number of victims of trafficking on a national, regional, and international basis.”
+
+Subsec. (b). Pub. L. 110–457, §108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8).”
+
 2006—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted “the Director of National Intelligence” for “the Director of Central Intelligence” in introductory provisions, inserted “, particularly HIV/AIDS” before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see section 6 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
+For delegation of functions of President under this section, see section 6 of Ex. Ord. No. 13257, Feb. 13, 2002,67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
 

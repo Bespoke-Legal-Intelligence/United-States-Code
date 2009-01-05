@@ -32,7 +32,7 @@ As used in this chapter—
 
 #### (8) Grower
 
-&emsp;The term “grower” means any person engaged in the production and sale of pecans inthe United States who owns, or who shares the ownership and risk of loss of, such pecans.
+&emsp;The term “grower” means any person engaged in the production and sale of pecans in the United States who owns, or who shares the ownership and risk of loss of, such pecans.
 
 #### (9) Grower-sheller
 

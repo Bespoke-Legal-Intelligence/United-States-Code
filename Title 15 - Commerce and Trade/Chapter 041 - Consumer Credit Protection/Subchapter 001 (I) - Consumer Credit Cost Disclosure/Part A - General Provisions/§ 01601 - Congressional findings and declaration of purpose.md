@@ -6,7 +6,7 @@ The Congress finds that economic stabilization would be enhanced and the competi
 
 #### (b) Terms of personal property leases
 
-The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
+The Congress also finds that there has been a recent trend toward leasing automobiles andother durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
 
 (Pub. L. 90–321, title I, §102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, §302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, §2, Mar. 23, 1976, 90 Stat. 257.)
 
@@ -27,6 +27,14 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 #### Effective Date
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: “This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the ‘Private Student Loan Transparency and Improvement Act of 2008’.”
+
+Pub. L. 110–289, div. B, title V, §2501, July 30, 2008, 122 Stat. 2855, provided that: “This title \[amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title\] may be cited as the ‘Mortgage Disclosure Improvement Act of 2008’.”
+
+Pub. L. 110–241, §1, June 3, 2008, 122 Stat. 1565, provided that: “This Act \[amending section 1681n of this title and enacting provisions set out as notes under section 1681n of this title\] may be cited as the ‘Credit and Debit Card Receipt Clarification Act of 2007’.”
 
 #### Short Title of 2003 Amendment
 
@@ -56,7 +64,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s–1 of thistitle, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: “This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the ‘Ted Weiss Child Support Enforcement Act of 1992’.”
 
 #### Short Title of 1988 Amendments
 
@@ -66,7 +74,7 @@ Pub. L. 100–583, §1, Nov. 3, 1988, 102 Stat. 2960, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of this title, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
+Pub. L. 97–25, §1, July 27, 1981, 95 Stat. 144, provided: “That this Act \[amending sections 1602 and 1666f of thistitle, section 29 of Title 12, Banks and Banking, and sections 205 and 212 of Title 42, The Public Health and Welfare; enacting provisions set out as notes under this section and sections 1602 and 1666f of this title; and amending provisions set out as notes under sections 1602 and 1666f of this title\] may be cited as the ‘Cash Discount Act’.”
 
 #### Short Title of 1980 Amendment
 
@@ -150,7 +158,7 @@ Content of report.—The report described in paragraph (2) shall address the fol
 
 Pub. L. 103–325, title I, §157, Sept. 23, 1994, 108 Stat. 2197, provided that: “During the period beginning 180 days after the date of enactment of this Act \[Sept. 23, 1994\] and ending 2 years after that date of enactment, the Board of Governors of the Federal Reserve System shall conduct a study and submit to the Congress a report, including recommendations for any appropriate legislation, regarding—
 
-&emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of the Truth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
+&emsp;“(1) whether a consumer engaging in an open end credit transaction (as defined in section 103 of theTruth in Lending Act \[15 U.S.C. 1602\]) secured by the consumer's principal dwelling is provided adequate protections under Federal law, including section 127A of the Truth in Lending Act \[15 U.S.C. 1637a\]; and
 
 &emsp;“(2) whether a more appropriate interest rate index exists for purposes of subparagraph (A) of section 103(aa)(1) of the Truth in Lending Act (as added by section 152(a) of this Act \[15 U.S.C. 1602(aa)(1)(A)\]) than the yield on Treasury securities referred to in that subparagraph.”
 

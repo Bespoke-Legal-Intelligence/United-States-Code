@@ -14,7 +14,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (B) Recommendations
 
-&emsp;&emsp;The Governor shall select members of the Council, at the discretion of the Governor,after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the initiative of the Council, or on the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations.
+&emsp;&emsp;The Governor shall select members of the Council, at the discretion of the Governor, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the initiative of the Council, or on the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations.
 
 #### (C) Representation
 
@@ -134,7 +134,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(ii) through education; and
 
-&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals and their families access to and use of services, resources, and opportunities.
+&emsp;&emsp;&emsp;(iii) by enabling neighborhoods and communities to offer such individuals andtheir families access to and use of services, resources, and opportunities.
 
 #### (F) Interagency collaboration and coordination
 

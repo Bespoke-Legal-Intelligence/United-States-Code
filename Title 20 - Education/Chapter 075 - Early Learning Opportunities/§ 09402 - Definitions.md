@@ -36,7 +36,7 @@ In this chapter:
 
 #### (8) Parent
 
-&emsp;The term “parent” means a biological parent, an adoptive parent, a stepparent, a foster parent, or a legal guardian of, or a person standing in loco parentis to, a child.
+&emsp;The term “parent” means a biological parent, an adoptive parent, a stepparent, a fosterparent, or a legal guardian of, or a person standing in loco parentis to, a child.
 
 #### (9) Poverty line
 

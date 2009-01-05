@@ -136,7 +136,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Failure
 
-&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph, any contributions of such operator to the Combined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
+&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph,any contributions of such operator to the Combined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
 
 #### (D) Premium reductions
 
@@ -220,7 +220,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;A payment meets the requirements of this paragraph if—
 
-&emsp;&emsp;(A) the amount of the payment is not less than the present value of the total premium liability under this chapter with respect to the Combined Fund of the assigned operators or related persons described in paragraph (1) or their assignees, as determined by the operator's or related person's enrolled actuary (as defined in section 7701(a)(35)) using actuarial methods and assumptions each of which is reasonable and which are reasonable in the aggregate, as determined by such enrolled actuary;
+&emsp;&emsp;(A) the amount of the payment is not less than the present value of the total premium liability under this chapter with respect to the Combined Fund of the assigned operators or related persons described in paragraph (1) or their assignees, as determined by the operator's or related person's enrolled actuary (as defined in section 7701(a)(35))using actuarial methods and assumptions each of which is reasonable and which are reasonable in the aggregate, as determined by such enrolled actuary;
 
 &emsp;&emsp;(B) such enrolled actuary files with the Secretary of Labor a signed actuarial report containing—
 

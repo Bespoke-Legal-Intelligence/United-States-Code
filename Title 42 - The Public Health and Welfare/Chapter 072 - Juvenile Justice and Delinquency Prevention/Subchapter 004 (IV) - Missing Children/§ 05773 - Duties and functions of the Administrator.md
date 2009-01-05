@@ -44,13 +44,13 @@ The Administrator shall—
 
 &emsp;The Administrator shall annually make a grant to the Center, which shall be used to—
 
-&emsp;&emsp;(A)(i) operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, or other child 13 years of age or younger whose whereabouts are unknown to such child's legal custodian, and request information pertaining to procedures necessary to reunite such child with such child's legal custodian; and
+&emsp;&emsp;(A)(i) operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child's legal custodian; and
 
-&emsp;&emsp;(ii) coordinate the operation of such telephone line with the operation of the national communications system referred to in part C of subchapter III of this chapter;
+&emsp;&emsp;(ii) coordinate the operation of such telephone line with the operation of the national communications system referred to in part C of subchapter III;
 
 &emsp;&emsp;(B) operate the official national resource center and information clearinghouse for missing and exploited children;
 
-&emsp;&emsp;(C) provide to State and local governments, public and private nonprofit agencies, and individuals, information regarding—
+&emsp;&emsp;(C) provide to State and local governments, and public and private nonprofit agencies, and individuals, information regarding—
 
 &emsp;&emsp;&emsp;(i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
 
@@ -60,21 +60,67 @@ The Administrator shall—
 
 &emsp;&emsp;(E) disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
 
-&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+&emsp;&emsp;(F) based solely on reports received by the National Center for Missing and Exploited Children (NCMEC), and not involving any data collection by NCMEC other than the receipt of those reports, annually provide to the Department of Justice's Office of Juvenile Justice and Delinquency Prevention—
 
-&emsp;&emsp;(G) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and internationally; and
+&emsp;&emsp;&emsp;(i) the number of children nationwide who are reported to NCMEC as missing;
 
-&emsp;&emsp;(H) coordinate the operation of a cyber tipline to provide online users an effective means of reporting Internet-related child sexual exploitation in the areas of—
+&emsp;&emsp;&emsp;(ii) the number of children nationwide who are reported to NCMEC as victims of non-family abductions;
 
-&emsp;&emsp;&emsp;(i) distribution of child pornography;
+&emsp;&emsp;&emsp;(iii) the number of children nationwide who are reported to NCMEC as victims of parental kidnappings; and
 
-&emsp;&emsp;&emsp;(ii) online enticement of children for sexual acts; and
+&emsp;&emsp;&emsp;(iv) the number of children recovered nationwide whose recovery was reported to NCMEC;
 
-&emsp;&emsp;&emsp;(iii) child prostitution.
+&emsp;&emsp;(G) provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;
+
+&emsp;&emsp;(H) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+
+&emsp;&emsp;(I) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;
+
+&emsp;&emsp;(J) provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;
+
+&emsp;&emsp;(K) provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;
+
+&emsp;&emsp;(L) provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;
+
+&emsp;&emsp;(M) track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;
+
+&emsp;&emsp;(N) provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;
+
+&emsp;&emsp;(O) facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
+
+&emsp;&emsp;(P) operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of—
+
+&emsp;&emsp;&emsp;(i) possession, manufacture, and distribution of child pornography;
+
+&emsp;&emsp;&emsp;(ii) online enticement of children for sexual acts;
+
+&emsp;&emsp;&emsp;(iii) child prostitution;
+
+&emsp;&emsp;&emsp;(iv) sex tourism involving children;
+
+&emsp;&emsp;&emsp;(v) extrafamilial child sexual molestation;
+
+&emsp;&emsp;&emsp;(vi) unsolicited obscene material sent to a child;
+
+&emsp;&emsp;&emsp;(vii) misleading domain names; and
+
+&emsp;&emsp;&emsp;(viii) misleading words or digital images on the Internet,
+
+> &emsp;and subsequently to transmit such reports, including relevant images and information, to the appropriate international, Federal, State or local law enforcement agency for investigation;
+
+&emsp;&emsp;(Q) work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;
+
+&emsp;&emsp;(R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes; and
+
+&emsp;&emsp;(S) develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with publicagencies and public and private nonprofit organizations, on—
+
+&emsp;&emsp;&emsp;(i) the prevention of child abduction and sexual exploitation; and
+
+&emsp;&emsp;&emsp;(ii) internet safety.
 
 #### (2) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $20,000,000 for each of the fiscal years 2004 through 2008.
+&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.
 
 #### (c) National incidence studies
 
@@ -88,13 +134,17 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L.107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561.)
 
 #### Prior Provisions
 
 A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–240, §3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
+
+Subsec. (b)(2). Pub. L. 110–240, §3(2), substituted “$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013” for “$20,000,000 for each of the fiscal years 2004 through 2008”.
 
 2003—Subsec. (b)(1)(H). Pub. L. 108–21, §323, added subpar. (H).
 
@@ -144,7 +194,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal ofannual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “case.”</i>
 

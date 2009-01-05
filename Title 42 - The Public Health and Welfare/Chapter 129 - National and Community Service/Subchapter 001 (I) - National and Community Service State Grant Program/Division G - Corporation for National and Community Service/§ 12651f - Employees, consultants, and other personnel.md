@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, section 12651e(d) of this 
 
 #### (A) Establishment of system
 
-&emsp;&emsp;The Chief Executive Officer, after obtaining the approval of the Director of the Office of Personnel Management, shall issue regulations establishing a selection and compensation system for employees of the Corporation appointed under paragraph (1). Inissuing such regulations, the Chief Executive Officer shall take into consideration the need for flexibility in such a system.
+&emsp;&emsp;The Chief Executive Officer, after obtaining the approval of the Director of the Office of Personnel Management, shall issue regulations establishing a selection and compensation system for employees of the Corporation appointed under paragraph (1). In issuing such regulations, the Chief Executive Officer shall take into consideration the need for flexibility in such a system.
 
 #### (B) Application
 

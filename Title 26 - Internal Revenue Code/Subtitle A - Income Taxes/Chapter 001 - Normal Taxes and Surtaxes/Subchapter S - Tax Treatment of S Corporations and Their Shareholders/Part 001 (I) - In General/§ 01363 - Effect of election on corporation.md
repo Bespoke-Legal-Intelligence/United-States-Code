@@ -88,7 +88,7 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 #### (D) Not treated as member of affiliated group
 
-&emsp;&emsp;Except as provided in regulations, the corporation referred to in paragraph (1) shall not be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
+&emsp;&emsp;Except as provided in regulations, the corporation referred to in paragraph (1) shallnot be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
 
 #### (5) Special rule
 

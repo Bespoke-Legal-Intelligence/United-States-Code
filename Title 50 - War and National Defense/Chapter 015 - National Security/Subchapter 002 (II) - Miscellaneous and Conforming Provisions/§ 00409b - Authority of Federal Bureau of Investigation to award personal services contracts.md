@@ -10,7 +10,7 @@ Contracts under subsection (a) of this section shall not be subject to the annui
 
 #### (c) Contract to be appropriate means of securing services
 
-The Chief Contracting Officer of the Federal Bureau of Investigation shall ensure that eachpersonal services contract entered into by the Director under this section is the appropriate means of securing the services to be provided under such contract.
+The Chief Contracting Officer of the Federal Bureau of Investigation shall ensure that each personal services contract entered into by the Director under this section is the appropriate means of securing the services to be provided under such contract.
 
 (July 26, 1947, ch. 343, title III, §302, as added Pub. L. 108–177, title III, §311(a)(1), Dec. 13, 2003, 117 Stat. 2605.)
 

@@ -28,7 +28,7 @@ A prior section 291s, act July 1, 1944, ch. 373, title VI, §651, as added July 
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading “fiscal year ending June 30,1974” for “fiscal year ending June 30, 1965, and each of the next eight fiscal years” and in cl. (1) “$20,800,000” for “$85,000,000”.
+1973—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading “fiscal year ending June 30, 1974” for “fiscal year ending June 30, 1965, and each of the next eight fiscal years” and in cl. (1) “$20,800,000” for “$85,000,000”.
 
 Subsec. (b). Pub. L. 93–45, §108(a)(2), authorized appropriations of $41,400,000 for fiscal year ending June 30, 1974.
 

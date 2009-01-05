@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b) of this section).
+(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under thissection with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b) of this section).
 
 (B) The Secretary shall not enter into an agreement with an individual under this section to the extent—
 
@@ -54,7 +54,7 @@ This section shall not preclude the United States from applying other provisions
 
 (3) Such deduction shall not be made until 6 months after the Secretary notifies the provider, organization, or plan of the amount to be deducted and the particular physicians <sup>3</sup> to whom the deductions are attributable.
 
-(4) A deduction made under this subsection shall relieve the individual of the obligation (to the extent of the amount collected) to the United States, but the provider, organization, or plan shall have a right of action to collect from such individual the amount deducted pursuant to this subsection (including accumulated interest).
+(4) A deduction made under this subsection shall relieve the individual of the obligation (to the extent of the amount collected) to theUnited States, but the provider, organization, or plan shall have a right of action to collect from such individual the amount deducted pursuant to this subsection (including accumulated interest).
 
 (5) No deduction shall be made under this subsection if, within the 6-month period after notice is given to the provider, organization, or plan, the individual pays the past-due obligation, or ceases to be employed by the provider, organization, or plan.
 

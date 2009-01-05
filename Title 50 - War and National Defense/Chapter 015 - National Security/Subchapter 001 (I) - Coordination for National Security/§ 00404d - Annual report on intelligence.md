@@ -32,7 +32,7 @@ In this section, the term “appropriate congressional committees” means the f
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(B)(i), added par. (1) and struck out former par. (1), which directed the President to submit to the appropriate congressional committees a report on the requirements of the United States for intelligence and the activities of the intelligence community not later than Jan. 31 each year.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(B)(i), added par. (1) and struck out former par. (1), which directed the President to submit to the appropriate congressional committees a report on the requirements of the United States for intelligence and the activities of the intelligence community not later than Jan. 31 each year.
 
 Subsec. (c). Pub. L. 107–306, §811(b)(1)(B)(iii), struck out the subsec. (c) enacted by Pub. L. 103–178, which provided that the report under this section for any year should be submitted at the same time that the President submits the budget for the next fiscal year pursuant to section 1105 of title 31.
 
@@ -40,9 +40,9 @@ Subsec. (c)(1). Pub. L. 107–306, §811(b)(1)(B)(ii)(I), substituted “The Com
 
 Subsec. (c)(2). Pub. L. 107–306, §811(b)(1)(B)(ii)(II), substituted “The Committee on Appropriations” for “The Permanent Select Committee on Intelligence, the Committee on Appropriations,”.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Pub. L. 104–293, §803(b)(1), substituted “intelligence” for “intelligence community activities” in section catchline.
+<b>1996</b>—Pub. L. 104–293, §803(b)(1), substituted “intelligence” for “intelligence community activities” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 104–293, §803(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which read as follows:
 

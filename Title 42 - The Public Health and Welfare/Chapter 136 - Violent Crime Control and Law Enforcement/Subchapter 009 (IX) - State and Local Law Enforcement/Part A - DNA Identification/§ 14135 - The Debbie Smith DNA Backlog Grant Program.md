@@ -56,15 +56,9 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) of this section in accordance with the following limitations:
 
-&emsp;&emsp;(A) For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+&emsp;&emsp;(A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
-&emsp;&emsp;(B) For fiscal year 2006, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
-
-&emsp;&emsp;(C) For fiscal year 2007, not less than 45 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
-
-&emsp;&emsp;(D) For fiscal year 2008, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
-
-&emsp;&emsp;(E) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+&emsp;&emsp;(B) For each of the fiscal years 2010 through 2014, not less than 40 percent of thegrant amounts shall be awarded for purposes under subsection (a)(2).
 
 #### (d) Analysis of samples
 
@@ -86,7 +80,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (A) In general
 
-&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of thissection may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
+&emsp;&emsp;A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of this section may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
 
 #### (B) Redemption
 
@@ -140,17 +134,7 @@ For purposes of this section, the term “State” means a State of the United S
 
 #### (j) Authorization of appropriations
 
-Amounts are authorized to be appropriated to the Attorney General for grants under subsection (a) of this section as follows:
-
-&emsp;(1) $151,000,000 for fiscal year 2005;
-
-&emsp;(2) $151,000,000 for fiscal year 2006;
-
-&emsp;(3) $151,000,000 for fiscal year 2007;
-
-&emsp;(4) $151,000,000 for fiscal year 2008; and
-
-&emsp;(5) $151,000,000 for fiscal year 2009.
+There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2009 through 2014.
 
 #### (k) Use of funds for accreditation and audits
 
@@ -170,7 +154,7 @@ The Attorney General may distribute not more than 1 percent of the grant amounts
 
 #### (<i>l</i>) Use of funds for other forensic sciences
 
-The Attorney General may award a grant under this section to a State or unit of local government to alleviate a backlog of cases with respect to a forensic science other than DNAanalysis if the State or unit of local government—
+The Attorney General may award a grant under this section to a State or unit of local government to alleviate a backlog of cases with respect to a forensic science other than DNA analysis if the State or unit of local government—
 
 &emsp;(1) certifies to the Attorney General that in such State or unit—
 
@@ -186,7 +170,7 @@ The Attorney General may award a grant under this section to a State or unit of 
 
 In the event that a laboratory operated by a State or unit of local government which has received funds under this Act has undergone an external audit conducted to determine whether the laboratory is in compliance with standards established by the Director of the Federal Bureau of Investigation, and, as a result of such audit, identifies measures to remedy deficiencies with respect to the compliance by the laboratory with such standards, the State or unit of local government shall implement any such remediation as soon as practicable.
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008.)
 
 #### References in Text
 
@@ -197,6 +181,20 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–360, §2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
+
+Subsec. (c)(3)(A). Pub. L. 110–360, §2(1)(A), struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
+
+Subsec. (c)(3)(B) to (D). Pub. L. 110–360, §2(1)(A), (C), added subpar. (B) and struck out former subpars. (B) to (D) which read as follows:
+
+“(B) For fiscal year 2006, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+
+“(C) For fiscal year 2007, not less than 45 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+
+“(D) For fiscal year 2008, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
+
+Subsec. (j). Pub. L. 110–360, §2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
 
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
 

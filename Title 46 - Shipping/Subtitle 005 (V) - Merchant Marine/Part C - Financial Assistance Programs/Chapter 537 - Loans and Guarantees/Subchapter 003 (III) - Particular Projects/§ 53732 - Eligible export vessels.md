@@ -2,11 +2,11 @@
 
 (a)
 
-Applicable Terms.—The Secretary may guarantee an obligation for an eligible export vessel in accordance with—
+Applicable Terms.—The Administrator may guarantee an obligation for an eligible export vessel in accordance with—
 
 &emsp;(1) the terms applicable under this chapter for vessels documented under the laws of the United States; or
 
-&emsp;(2) other terms the Secretary determines are more favorable than those terms and compatible with export credit terms offered by foreign governments for the sale of vessels built in foreign shipyards.
+&emsp;(2) other terms the Administrator determines are more favorable than those terms and compatible with export credit terms offered by foreign governments for the sale of vessels built in foreign shipyards.
 
 (b)
 
@@ -20,7 +20,7 @@ Establishment.—There is an interagency council to carry out this section.
 
 Composition.—The council is composed of the following individuals or their designees:
 
-&emsp;&emsp;(A) The Secretary of Transportation, who is the chairman of the council.
+&emsp;&emsp;(A) The Administrator, who is the chairman of the council.
 
 &emsp;&emsp;(B) The Secretary of the Treasury.
 
@@ -40,15 +40,15 @@ Functions.—The council shall—
 
 &emsp;&emsp;(B) consult regularly with United States shipbuilders to obtain the essential information about international shipbuilding competition on which to set terms for loan guarantees under subsection (a)(2); and
 
-&emsp;&emsp;(C) provide guidance to the Secretary in establishing terms for loan guarantees under subsection (a)(2).
+&emsp;&emsp;(C) provide guidance to the Administrator in establishing terms for loan guarantees under subsection (a)(2).
 
 &emsp;(4)
 
-Annual report.—Not later than January 31 of each year, the Secretary shall submit to Congress a report on activities of the Secretary under this section during the preceding year. The report shall include—
+Annual report.—Not later than January 31 of each year, the Administrator shall submit to Congress a report on activities of the Administrator under this section during the preceding year. The report shall include—
 
 &emsp;&emsp;(A) documentation of sources of information about assistance by governments of other countries to shipyards in those countries; and
 
-&emsp;&emsp;(B) a summary of recommendations made to the Secretary during the preceding year about applications submitted to the Secretary during that year for loan guarantees to construct eligible export vessels.
+&emsp;&emsp;(B) a summary of recommendations made to the Administrator during the preceding year about applications submitted to the Administrator during that year for loan guarantees to construct eligible export vessels.
 
 (c)
 
@@ -56,11 +56,11 @@ Required Findings.—
 
 &emsp;(1)
 
-Benefit to shipbuilding industry.—The Secretary may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the Secretary finds that the construction, reconstruction, or reconditioning of the vessel will aid in the transition of United States shipyards to commercial activities or will preserve shipbuilding assets that would be essential in time of war or national emergency.
+Benefit to shipbuilding industry.—The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the Administrator finds that the construction, reconstruction, or reconditioning of the vessel will aid in the transition of United States shipyards to commercial activities or will preserve shipbuilding assets that would be essential in time of war or national emergency.
 
 &emsp;(2)
 
-Priority of documented vessels.—The Secretary may not make a commitment to guarantee an obligation for an eligible export vessel unless the Secretary determines that making the commitment will not result in denial of an economically sound application for a commitment to guarantee an obligation for a vessel documented under the laws of the United States and operating in the domestic or foreign commerce of the United States. The Secretary has sole discretion in making the determination. In making the determination, the Secretary shall consider—
+Priority of documented vessels.—The Administrator may not make a commitment to guarantee an obligation for an eligible export vessel unless the Administrator determines that making the commitment will not result in denial of an economically sound application for a commitment to guarantee an obligation for a vessel documented under the laws of the United States and operating in the domestic or foreign commerce of the United States. The Administrator has sole discretion in making the determination. In making the determination, the Administrator shall consider—
 
 &emsp;&emsp;(A) the status and economic soundness of pending applications for commitments to guarantee obligations for vessels documented under the laws of the United States that are operating or will be operating in the domestic or foreign commerce of the United States; and
 
@@ -68,7 +68,7 @@ Priority of documented vessels.—The Secretary may not make a commitment to gua
 
 (d)
 
-Restriction on Transfer of Vessel.—The Secretary may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Secretary that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
+Restriction on Transfer of Vessel.—The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
 
 (e)
 
@@ -76,11 +76,11 @@ Review by Secretary of Defense.—
 
 &emsp;(1)
 
-Notification.—The Secretary shall promptly notify the Secretary of Defense of the receipt of an application for a loan guarantee for an eligible export vessel.
+Notification.—The Administrator shall promptly notify the Secretary of Defense of the receipt of an application for a loan guarantee for an eligible export vessel.
 
 &emsp;(2)
 
-Disapproval.—The Secretary of Defense, within 30 days after receiving the notice, may disapprove the guarantee based on an assessment of the potential use of the vessel in a manner that may harm the national security interests of the United States. The Secretary may not disapprove a guarantee solely because of the type of vessel to be constructed.
+Disapproval.—The Secretary of Defense, within 30 days after receiving the notice, may disapprove the guarantee based on an assessment of the potential use of the vessel in a manner that may harm the national security interests of the United States. The Secretary of Defense may not disapprove a guarantee solely because of the type of vessel to be constructed.
 
 &emsp;(3)
 
@@ -88,29 +88,13 @@ Delegation.—The authority of the Secretary of Defense to disapprove a guarante
 
 &emsp;(4)
 
-Prohibition.—The Secretary may not make a loan guarantee disapproved by the Secretary of Defense under this subsection.
+Prohibition.—The Administrator may not make a loan guarantee disapproved by the Secretary of Defense under this subsection.
 
 (f)
 
-Expiration of Authority.—The Secretary may not issue a commitment to guarantee an obligation for an eligible export vessel under this chapter after the last date on which such a commitment may be issued under any treaty or convention entered into after November 30, 1993, that prohibits guarantee of such an obligation.
+Expiration of Authority.—The Administrator may not issue a commitment to guarantee an obligation for an eligible export vessel under this chapter after the last date on which such a commitment may be issued under any treaty or convention entered into after November 30, 1993, that prohibits guarantee of such an obligation.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1621; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), Jan. 6, 2006, 119 Stat. 3555, 3556.)
-
-#### Amendments Not Shown in Text
-
-<i>Subsection (a) of this section was derived from section 1279d(a) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(I), Jan. 6, 2006, 119 Stat. 3555. Section 1279d(a) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Administrator”.</i>
-
-<i>Subsection (b) of this section was derived from section 1279d(b) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(I), (J), (b)(8), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1279d(b) of the former Appendix to this title was amended by striking “Secretary” each place it appears in par. (2) \[now pars. (3)(A) and (C)\] and par. (4) (except the first) and inserting “Administrator” and by striking “Secretary of Transportation” each place it appears and inserting “Administrator”.</i>
-
-<i>Subsection (c)(1) of this section was derived from section 1274(d)(3)(A) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), (2)(E), Jan. 6, 2006, 119 Stat. 3555. Section 1274(d)(3)(A) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator” and by striking “Secretary” each place it appears and inserting “Administrator”.</i>
-
-<i>Subsections (c)(2) and (f) of this section were derived from section 1273(g) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1273(g) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
-
-<i>Subsection (d) of this section was derived from section 1274(d)(3)(B) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(b)(3)(A), Jan. 6, 2006, 119 Stat. 3556. Section 1274(d)(3)(B) of the former Appendix to this title was amended by striking “Secretary of Transportation” and inserting “Administrator”.</i>
-
-<i>Subsection (e) of this section was derived from section 1274(j) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(2)(F), (b)(5), Jan. 6, 2006, 119 Stat. 3555, 3556. Section 1274(j) of the former Appendix to this title was amended by striking “Secretary” in par. (1) \[now pars. (1) to (3)\] the first, fifth, and seventh places it appears and inserting “Administrator” and by striking “The Secretary of Transportation” in par. (2) \[now par. (4)\] and inserting “The Administrator”.</i>
-
-<i>For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1621; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(8), (9)(E), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -157,4 +141,12 @@ June 29, 1936, ch. 858, title XI, §1103(g), as added Pub. L. 103–160, div. A,
 46 App.:1273(g)(2).
 
 In subsection (f), the source provides that the authority to issue commitments to guarantee obligations for eligible export vessels expires after the later of three events. The first event, which is “(A) the 5th anniversary of the date on which the Secretary publishes final regulations setting forth the application procedures for the issuance of commitments to guarantee obligations for eligible export vessels”, is omitted because the final regulations were published on September 16, 1994. See 59 Fed. Reg. 47548. The second event, which is “(B) the last day of any 5-year period in which funding and guarantee authority for obligations for eligible export vessels have been continuously available”, is omitted because that date was November 11, 1998, five years after enactment of the Department of Defense Appropriations Act, 1994 (Pub. L. 103–139, Nov. 11, 1993, 107 Stat. 1418).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8). See 2006 Amendment note below.
+
+Pub. L. 110–181, §3522(a)(8), (9)(E), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), into this section by substituting “Administrator” for “Secretary of Transportation” in subsec. (b)(2)(A) and “Administrator” for “Secretary” wherever else appearing, except where “Secretary” was followed by “of the Treasury”, “of State”, or “of Defense”, and by inserting “of Defense” after “United States. The Secretary” in subsec. (e)(2). See 2006 Amendment note below andsection 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), which directed the amendment of sections 1273(g), 1274(d)(1)(A), (3), (j)(1), (2), and 1279d(a), (b)(1), (2), (4) of the former Appendix to this title from which this section was derived in part, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

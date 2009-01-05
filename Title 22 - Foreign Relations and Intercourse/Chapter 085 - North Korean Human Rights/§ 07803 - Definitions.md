@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;The term “appropriate congressional committees” means—
 
-&emsp;&emsp;(A) the Committee on International Relations of the House of Representatives; and
+&emsp;&emsp;(A) the Committee on Foreign Affairs of the House of Representatives; and
 
 &emsp;&emsp;(B) the Committee on Foreign Relations of the Senate.
 
@@ -30,9 +30,9 @@ In this chapter:
 
 &emsp;The term “South Korea” means the Republic of Korea.
 
-(Pub. L. 108–333, §5, Oct. 18, 2004, 118 Stat. 1290.)
+(Pub. L. 108–333, §5, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §4, Oct. 7, 2008, 122 Stat. 3941.)
 
-#### Change of Name
+#### Amendments
 
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+2008—Par. (1)(A). Pub. L. 110–346 substituted “Foreign Affairs” for “International Relations”.
 

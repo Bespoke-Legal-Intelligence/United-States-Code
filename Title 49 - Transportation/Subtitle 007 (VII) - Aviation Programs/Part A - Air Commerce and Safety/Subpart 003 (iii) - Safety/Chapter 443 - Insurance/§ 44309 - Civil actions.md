@@ -30,13 +30,13 @@ Venue and Joinder.—(1) A civil action under subsection (a) of this section may
 
 (c)
 
-Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
+Time Requirements.—When an insurance claim is made under this chapter, the period during which, under section 2401 of title 28, a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act onthe claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.
 
 (d)
 
 Interpleader.—(1) If the Secretary admits the Government owes money under an insurance claim under this chapter and there is a dispute about the person that is entitled to payment, the Government may bring a civil action of interpleader in a district court of the United States against the persons that may be entitled to payment. The action may be brought in the judicial district for the District of Columbia or in the judicial district in which any party resides.
 
-(2) The district court may order a party not residing or found in the judicial district in which the action is brought to appear in a civil action under this subsection. The order shall beserved in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
+(2) The district court may order a party not residing or found in the judicial district in which the action is brought to appear in a civil action under this subsection. The order shall be served in a reasonable manner decided by the district court. If the court decides an unknown person might assert a claim under the insurance that is the subject of the action, the court may order service on that person by publication in the Federal Register.
 
 (3) Judgment in a civil action under this subsection discharges the Government from further liability to the parties to the action and to all other persons served by publication under paragraph (2) of this subsection.
 

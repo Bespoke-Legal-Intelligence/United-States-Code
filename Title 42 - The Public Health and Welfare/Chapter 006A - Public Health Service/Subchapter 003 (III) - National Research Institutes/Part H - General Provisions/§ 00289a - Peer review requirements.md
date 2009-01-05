@@ -32,7 +32,7 @@ The Director of NIH shall establish procedures for periodic technical and scient
 
 (2) Paragraph (1) shall not apply to any proposal for clinical research that, pursuant to subsection (b) of section 289a–2 of this title, is not subject to the requirement of subsection (a) of such section regarding the inclusion of women and members of minority groups as subjects in clinical research.
 
-(July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amendedPub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
+(July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
 
 #### References in Text
 

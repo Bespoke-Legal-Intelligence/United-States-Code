@@ -272,7 +272,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(B) a plan for appropriate operations, maintenance, and repair of the equipment is in place at acceptance and is followed;
 
-&emsp;&emsp;(C) equipment and system performance is measured during its entire life to ensure proper operations, maintenance, and repair; and
+&emsp;&emsp;(C) equipment and system performance is measured during its entire life to ensureproper operations, maintenance, and repair; and
 
 &emsp;&emsp;(D) energy and water savings are measured and verified.
 
@@ -288,7 +288,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Relationship to funding source
 
-&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with eachtype of funding made available under paragraph (10), but may distinguish between different types of measures <sup>2</sup> project size, and other criteria the Secretary determines are relevant.
+&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>2</sup> project size, and other criteria the Secretary determines are relevant.
 
 #### (7) Web-based certification
 
@@ -390,7 +390,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (C) Implementation
 
-&emsp;&emsp;Each Federal agency may implement the requirements under this subsection itself ormay contract out performance of some or all of the requirements.
+&emsp;&emsp;Each Federal agency may implement the requirements under this subsection itself or may contract out performance of some or all of the requirements.
 
 #### (11) Rule of construction
 
@@ -452,13 +452,13 @@ Subsec. (a). Pub. L. 102–486, §152(b)(2), (3), in heading substituted “requ
 
 Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
-Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
+Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted “The Secretary shall consult with the Secretary of Defense and the Administrator of GeneralServices in developing guidelines for the implementation of this part. To meet the requirements of this section,” for “To achieve the goal established in subsection (a) of this section,”.
 
 Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: “prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;”.
 
 Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end “and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title”.
 
-Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as\(5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
+Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
 
 1988—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 

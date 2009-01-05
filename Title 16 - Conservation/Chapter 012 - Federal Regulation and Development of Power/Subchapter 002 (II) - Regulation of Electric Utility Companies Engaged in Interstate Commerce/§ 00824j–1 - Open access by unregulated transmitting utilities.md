@@ -10,7 +10,7 @@ In this section, the term “unregulated transmitting utility” means an entity
 
 #### (b) Transmission operation services
 
-Subject to section 824k(h) of this title, the Commission may, by rule or order, require anunregulated transmitting utility to provide transmission services—
+Subject to section 824k(h) of this title, the Commission may, by rule or order, require an unregulated transmitting utility to provide transmission services—
 
 &emsp;(1) at rates that are comparable to those that the unregulated transmitting utility charges itself; and
 
@@ -52,7 +52,7 @@ The Commission may not require a State or municipality to take action under this
 
 #### (j) Transfer of control of transmitting facilities
 
-Nothing in this section authorizes the Commission to require an unregulated transmitting utility to transfer control or operational control of its transmitting facilities to a Transmission Organization that is designated to provide nondiscriminatory transmission access.
+Nothing in this section authorizes the Commission to require an unregulated transmitting utility to transfer control or operational controlof its transmitting facilities to a Transmission Organization that is designated to provide nondiscriminatory transmission access.
 
 (June 10, 1920, ch. 285, pt. II, §211A, as added Pub. L. 109–58, title XII, §1231, Aug. 8, 2005, 119 Stat. 955.)
 

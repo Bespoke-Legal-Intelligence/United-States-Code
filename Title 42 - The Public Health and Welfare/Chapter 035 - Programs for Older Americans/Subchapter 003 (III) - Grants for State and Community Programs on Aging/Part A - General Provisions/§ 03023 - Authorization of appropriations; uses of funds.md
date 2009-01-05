@@ -26,7 +26,7 @@
 
 #### Prior Provisions
 
-A prior section 3023, Pub. L. 89–73, title III, §303, as added Pub. L. 93–29, title III, §301 May 3, 1973, 87 Stat.37; Pub. L. 94–135, title I, §§104(a), (c), (d), 112(b), 114(d), Nov. 28, 1975, 89 Stat. 714, 715, 719, 725, related to area planning and social service programs, prior to the general amendment of this subchapter by Pub. L. 95–478.
+A prior section 3023, Pub. L. 89–73, title III, §303, as added Pub. L. 93–29, title III, §301 May 3, 1973, 87 Stat. 37; Pub. L. 94–135, title I, §§104(a), (c), (d), 112(b), 114(d), Nov. 28, 1975, 89 Stat. 714, 715, 719, 725, related to area planning and social service programs, prior to the general amendment of this subchapter by Pub. L. 95–478.
 
 Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79 Stat. 222; Pub. L. 91–69, §§3(b), 4(a), Sept. 17, 1969, 83 Stat. 108, related to state plans, providing in subsec. (a) for approval by Secretary, contents, notice and hearing prior to disapproval; subsec. (b) noncompliance and cancellation of payments; and subsec. (c) appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
@@ -34,7 +34,7 @@ Another prior section 3023, Pub. L. 89–73, title III, §303, July 14, 1965, 79
 
 2006—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, §303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted “$160,000,000 for fiscal year 2007” for “$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000”.
+Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted “$160,000,000 for fiscal year 2007” for “$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter,congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000”.
 
 Subsec. (e)(2). Pub. L. 109–365, §303(2)(B), substituted “$166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011” for “such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 102–375, §303(e), substituted “There are authorized to
 
 Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals).”
 
-Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry outthis subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
+Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 
 1987—Subsec. (a). Pub. L. 100–175, §§129(c)(1), 155(b), designated existing provisions as par. (1), inserted “for purposes other than outreach activities and application assistance under section 3027(a)(31) of this title”, and added pars. (2) and (3).
 
@@ -90,7 +90,7 @@ Pub. L. 100–175, §122(a), amended subsec. (a) generally. Prior to amendment, 
 
 Subsec. (b). Pub. L. 100–175, §122(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) There are authorized to be appropriated $365,300,000 for fiscal year 1984, $360,800,000 for fiscal year 1985, $376,500,000 for fiscal year 1986, and $395,000,000 for fiscal year 1987, for the purpose of making grants under subpart I of part C of this subchapter (relating to congregate nutrition services).
+“(1) There are authorized to be appropriated $365,300,000 for fiscal year 1984, $360,800,000 for fiscal year 1985, $376,500,000 for fiscal year 1986, and $395,000,000for fiscal year 1987, for the purpose of making grants under subpart I of part C of this subchapter (relating to congregate nutrition services).
 
 “(2) There are authorized to be appropriated $68,700,000 for fiscal year 1984, $69,100,000 for fiscal year 1985, $72,000,000 for fiscal year 1986, and $75,600,000 for fiscal year 1987, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).”
 

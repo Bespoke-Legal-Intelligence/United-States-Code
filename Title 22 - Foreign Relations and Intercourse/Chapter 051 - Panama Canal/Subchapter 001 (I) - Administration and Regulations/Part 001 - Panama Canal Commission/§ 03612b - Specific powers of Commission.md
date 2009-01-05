@@ -42,7 +42,7 @@ The Commission may conduct and promote commercial activities related to the mana
 
 (2) The Commission shall establish written guidelines setting forth the criteria to be used in determining whether the acceptance of funds, property, or services authorized by paragraph (1) would reflect unfavorably upon the ability of the Commission (or any employee of the Commission) to carry out its responsibilities or official duties in a fair and objective manner or would compromise the integrity or the appearance of the integrity of its programs or of any official in those programs.
 
-(Pub. L. 96–70, title I, §1102b, as added Pub. L. 104–106, div. C, title XXXV, §3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, titleXXXV, §3547, Nov. 18, 1997, 111 Stat. 2073; Pub. L. 105–261, div. C, title XXXV, §3505, Oct. 17, 1998, 112 Stat. 2268.)
+(Pub. L. 96–70, title I, §1102b, as added Pub. L. 104–106, div. C, title XXXV, §3524(a), Feb. 10, 1996, 110 Stat. 639; amended Pub. L. 105–85, div. C, title XXXV, §3547, Nov. 18, 1997, 111 Stat. 2073; Pub. L. 105–261, div. C, title XXXV, §3505, Oct. 17, 1998, 112 Stat. 2268.)
 
 #### References in Text
 

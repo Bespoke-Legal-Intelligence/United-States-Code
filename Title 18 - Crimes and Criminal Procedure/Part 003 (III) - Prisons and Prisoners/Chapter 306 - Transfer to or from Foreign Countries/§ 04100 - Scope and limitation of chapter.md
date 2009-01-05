@@ -24,7 +24,7 @@ Pub. L. 104–208, div. C, title III, §330, Sept. 30, 1996, 110 Stat. 3009–63
 
 “(a)
 
-Negotiations With Other Countries.—(1) Congress advises the President to begin to negotiate and renegotiate, not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], bilateral prisoner transfer treaties, providing for the incarceration, in the country of the alien's nationality, of any alien who—
+Negotiations With Other Countries.—(1) Congress advises the President to begin to negotiate andrenegotiate, not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], bilateral prisoner transfer treaties, providing for the incarceration, in the country of the alien's nationality, of any alien who—
 
 &emsp;“(A) is a national of a country that is party to such a treaty; and
 

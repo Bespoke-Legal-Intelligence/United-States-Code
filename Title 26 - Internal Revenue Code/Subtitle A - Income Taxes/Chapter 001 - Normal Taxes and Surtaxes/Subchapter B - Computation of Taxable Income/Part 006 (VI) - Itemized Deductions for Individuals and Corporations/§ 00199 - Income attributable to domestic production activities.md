@@ -54,6 +54,10 @@
 
 &emsp;&emsp;Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.
 
+#### (D) Special rule for qualified film
+
+&emsp;&emsp;In the case of a qualified film, such term shall include compensation for services performed in the United States by actors, production personnel, directors, and producers.
+
 #### (3) Acquisitions and dispositions
 
 &emsp;The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
@@ -102,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) electricity, natural gas, or potable water produced by the taxpayer in the United States,
 
-&emsp;&emsp;&emsp;(ii) in the case of a taxpayer engaged in the active conduct of a construction trade or business, construction of real property performed in the United States by the taxpayer in the ordinary course of such trade or business, or
+&emsp;&emsp;&emsp;(ii) in the case of a taxpayer engaged in the active conduct of a construction trade or business, construction of real propertyperformed in the United States by the taxpayer in the ordinary course of such trade or business, or
 
 &emsp;&emsp;&emsp;(iii) in the case of a taxpayer engaged in the active conduct of an engineering or architectural services trade or business, engineering or architectural services performed in the United States by the taxpayer in the ordinary course of such trade or business with respect to the construction of real property in the United States.
 
@@ -140,7 +144,7 @@ For purposes of this section—
 
 #### (6) Qualified film
 
-&emsp;The term “qualified film” means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in theUnited States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
+&emsp;The term “qualified film” means any property described in section 168(f)(3) if not less than 50 percent of the total compensation relating to the production of such property is compensation for services performed in the United States by actors, production personnel, directors, and producers. Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code. A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.
 
 #### (7) Related persons
 
@@ -162,9 +166,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) this section shall be applied at the partner or shareholder level,
 
-&emsp;&emsp;&emsp;(ii) each partner or shareholder shall take into account such person's allocable share of each item described in subparagraph (A) or (B) of subsection (c)(1) (determined without regard to whether the items described in such subparagraph (A) exceed the items described in such subparagraph (B)), and
+&emsp;&emsp;&emsp;(ii) each partner or shareholder shall take into account such person's allocable share of each item described in subparagraph (A) or (B) of subsection (c)(1) (determined without regard to whether the items described in such subparagraph (A) exceed the items described in such subparagraph (B)),
 
-&emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W-2 wages for the taxable year in an amount equal to such person's allocable share of the W-2 wages of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
+&emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W-2 wages for the taxable year in an amount equal to such person's allocable share of the W-2 wages of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary), and
+
+&emsp;&emsp;&emsp;(iv) in the case of each partner of a partnership, or shareholder of an S corporation, who owns (directly or indirectly) at least 20 percent of the capital interests in such partnership or of the stock of such S corporation—
+
+&emsp;&emsp;&emsp;&emsp;(I) such partner or shareholder shall be treated as having engaged directly in any film produced by such partnership or S corporation, and
+
+&emsp;&emsp;&emsp;&emsp;(II) such partnership or S corporation shall be treated as having engaged directly in any film produced by such partner or shareholder.
 
 #### (B) Trusts and estates
 
@@ -172,7 +182,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the items referred to in subparagraph (A)(ii) (as determined therein) and the W–2 wages of the trust or estate for the taxable year, shall be apportioned between the beneficiaries and the fiduciary (and among the beneficiaries) under regulations prescribed by the Secretary, and
 
-&emsp;&emsp;&emsp;(ii) for purposes of paragraph (2), adjusted gross income of the trust or estate shall be determined as provided in section 67(e) with the adjustments described in such paragraph.
+&emsp;&emsp;&emsp;(ii) for purposes of paragraph (2), adjusted gross income of the trust or estateshall be determined as provided in section 67(e) with the adjustments described in such paragraph.
 
 #### (C) Regulations
 
@@ -180,7 +190,7 @@ For purposes of this section—
 
 #### (2) Application to individuals
 
-&emsp;In the case of an individual, subsection (a)(1)(B) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
+&emsp;In the case of an individual, subsections (a)(1)(B) and (d)(9)(A)(iii) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
 
 &emsp;&emsp;(A) after application of sections 86, 135, 137, 219, 221, 222, and 469, and
 
@@ -264,7 +274,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxpayer with gross receipts for any taxable year from sources within the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
+&emsp;&emsp;In the case of any taxpayer with gross receipts for any taxable year from sourceswithin the Commonwealth of Puerto Rico, if all of such receipts are taxable under section 1 or 11 for such taxable year, then for purposes of determining the domestic production gross receipts of such taxpayer for such taxable year under subsection (c)(4), the term “United States” shall include the Commonwealth of Puerto Rico.
 
 #### (B) Special rule for applying wage limitation
 
@@ -272,15 +282,51 @@ For purposes of this section—
 
 #### (C) Termination
 
-&emsp;&emsp;This paragraph shall apply only with respect to the first 2 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2008.
+&emsp;&emsp;This paragraph shall apply only with respect to the first 4 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2010.
 
-#### (9) Regulations
+#### (9) Special rule for taxpayers with oil related qualified production activities income
+
+#### (A) In general
+
+&emsp;&emsp;If a taxpayer has oil related qualified production activities income for any taxable year beginning after 2009, the amount otherwise allowable as a deduction under subsection (a) shall be reduced by 3 percent of the least of—
+
+&emsp;&emsp;&emsp;(i) the oil related qualified production activities income of the taxpayer for the taxable year,
+
+&emsp;&emsp;&emsp;(ii) the qualified production activities income of the taxpayer for the taxable year, or
+
+&emsp;&emsp;&emsp;(iii) taxable income (determined without regard to this section).
+
+#### (B) Oil related qualified production activities income
+
+&emsp;&emsp;For purposes of this paragraph, the term “oil related qualified production activities income” means for any taxable year the qualified production activities income which is attributable to the production, refining, processing, transportation, or distribution of oil, gas, or any primary product thereof during such taxable year.
+
+#### (C) Primary product
+
+&emsp;&emsp;For purposes of this paragraph, the term “primary product” has the same meaning as when used in section 927(a)(2)(C), as in effect before its repeal.
+
+#### (10) Regulations
 
 &emsp;The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953.)
+(Added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876.)
+
+#### References in Text
+
+Section 927(a)(2)(C) of this title, referred to in subsec. (d)(9)(C), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(D). Pub. L. 110–343, §502(c)(1), added subpar. (D).
+
+Subsec. (c)(6). Pub. L. 110–343, §502(c)(2), inserted at end “A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.”
+
+Subsec. (d)(1)(A)(iv). Pub. L. 110–343, §502(c)(3), added cl. (iv).
+
+Subsec. (d)(2). Pub. L. 110–343, §401(b), substituted “subsections (a)(1)(B) and (d)(9)(A)(iii)” for “subsection (a)(1)(B)” in introductory provisions.
+
+Subsec. (d)(8)(C). Pub. L. 110–343, §312(a), substituted “first 4 taxable years” for “first 2 taxable years” and “January 1, 2010” for “January 1, 2008”.
+
+Subsec. (d)(9), (10). Pub. L. 110–343, §401(a), added par. (9) and redesignated former par. (9) as (10).
 
 2006—Subsec. (a)(2). Pub. L. 109–222, §514(b)(2), struck out “and subsection (d)(1)” after “paragraph (1)”.
 
@@ -335,6 +381,14 @@ Subsec. (d)(6). Pub. L. 109–135, §403(a)(11)(A), reenacted heading without ch
 Subsec. (d)(7). Pub. L. 109–135, §403(a)(12), added par. (7). Former par. (7) redesignated (8).
 
 Subsec. (d)(8). Pub. L. 109–135, §403(a)(12), (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title IV, §401(c), Oct. 3, 2008, 122 Stat. 3851, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+
+Pub. L. 110–343, div. C, title III, §312(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+
+Amendment by section 502(c) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, see section 502(e)(2) of Pub. L. 110–343, set out as a note under section 181 of this title.
 
 #### Effective Date of 2006 Amendment
 

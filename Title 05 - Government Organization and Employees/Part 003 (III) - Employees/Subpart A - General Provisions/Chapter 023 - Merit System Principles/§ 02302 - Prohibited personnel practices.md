@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unitthereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the Government Accountability Office.
 
@@ -106,7 +106,7 @@
 
 &emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
 
-&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
+&emsp;(12) take or fail to take any other personnel action if the taking of or failure to take suchaction violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
@@ -144,7 +144,7 @@
 
 (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
 
 #### References in Text
 
@@ -160,9 +160,9 @@ Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated 
 
 #### Amendments
 
-2004—Subsec. (a)(2)(C)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+2008—Subsec. (a)(2)(C)(ii). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-2003—Subsec. (a)(2)(C)(ii). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+2004—Subsec. (a)(2)(C)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1998—Subsec. (a)(1). Pub. L. 105–339, §6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
 

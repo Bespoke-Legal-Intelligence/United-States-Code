@@ -96,7 +96,7 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of theArmy who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Army who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Army, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Army in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
 1980—Pub. L. 96–343, §13(a)(3), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 

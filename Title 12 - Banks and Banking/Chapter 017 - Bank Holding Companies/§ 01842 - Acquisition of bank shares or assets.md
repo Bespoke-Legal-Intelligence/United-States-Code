@@ -10,7 +10,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;(II) the bank is adequately capitalized (as defined in section 1831<i>o</i> of this title);
 
-&emsp;(ii) the holding company does not engage in any activities other than those of managing and controlling banks as a result of the reorganization;
+&emsp;(ii) the holding company does not engage in any activities other than those of managingand controlling banks as a result of the reorganization;
 
 &emsp;(iii) the company provides 30 days prior notice to the Board and the Board does not object to such transaction during such 30-day period; and
 
@@ -36,7 +36,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;(A) any acquisition or merger or consolidation under this section which would result in a monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
 
-&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this section whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
+&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this sectionwhose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
 
 #### (2) Banking and community factors
 
@@ -168,7 +168,7 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 &emsp;A bank holding company organized as a mutual holding company shall be regulated on terms, and shall be subject to limitations, comparable to those applicable to any other bank holding company.
 
-(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373; Pub. L. 107–56, title III, §327(a)(1), Oct. 26, 2001, 115 Stat. 318; Pub. L. 108–386, §8(c)(2), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–173, §9(h)(2), Feb. 15, 2006, 119 Stat. 3618.)
+(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V,§§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339; Pub. L. 106–102, title I, §§105, 118, Nov. 12, 1999, 113 Stat. 1359, 1373; Pub. L. 107–56, title III, §327(a)(1), Oct. 26, 2001, 115 Stat. 318; Pub. L. 108–386, §8(c)(2), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–173, §9(h)(2), Feb. 15, 2006, 119 Stat. 3618.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ Subsec. (e). Pub. L. 91–607, §102(3), added subsec. (e).
 
 Subsec. (c). Pub. L. 89–485, §7(c), inserted provision prohibiting any acquisition, merger, or consolidation that would result in a monopoly or would further any combination or conspiracy to monopolize the banking business in any part of the United States or would substantially lessen competition or in any manner be in restraint of trade unless the public interest clearly outweighed the anticompetitive effects and substituted provisions requiring the Board to take into consideration the financial and managerial resources and future prospects of the company or bank concerned and the convenience and needs of the community to be served for provisions requiring the Board to take into consideration the financial history of the company or bank concerned, its prospects, the character of its management, the needs of the community, and the public interest.
 
-Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state inwhich the holding company maintains its principal office and place of business or in which it conducts its principal operations.
+Subsec. (d). Pub. L. 89–485, §7(d), substituted provisions restricting expansion to state in which the operations of the bank holding company's banking subsidiaries were principally conducted, defined, as that state in which total deposits of all such banking subsidiaries were largest, on July 1, 1966, or the date on which the company became a bank holding company, whichever is later, for provisions restricting expansion to state in which the holding company maintains its principal office and place of business or in which it conducts its principal operations.
 
 #### Effective Date of 2006 Amendment
 

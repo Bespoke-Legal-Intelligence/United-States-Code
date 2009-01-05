@@ -6,7 +6,7 @@ If the Commissioner of Social Security, on the basis of information obtained by 
 
 #### (b) Continued payments during rehabilitation program
 
-Notwithstanding any other provision of this subchapter, payment to an individual of benefitsbased on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
+Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 103–296, §201(a)(3)(A)(iii), added subsec. (c).
 
 Pub. L. 103–296, §107(a)(4), in subsec. (c) as added by Pub. L. 103–296, §201(a)(3)(A)(iii), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “Commissioner's” for “Secretary's” wherever appearing.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, §5113(a)(1), added par. (1) and struck out former par. (1) which read as follows: “such individual is participating in an approved vocational rehabilitation program under a State plan approved under title I of the Rehabilitation Act of 1973, and”.
+1990—Subsec. (b)(1). Pub. L. 101–508, §5113(a)(1), added par. (1) and struck out former par. (1) which read as follows: “such individual is participating in an approvedvocational rehabilitation program under a State plan approved under title I of the Rehabilitation Act of 1973, and”.
 
 Subsec. (b)(2). Pub. L. 101–508, §5113(a)(2), substituted “Secretary” for “Commissioner of Social Security”.
 
@@ -82,7 +82,7 @@ Referral and monitoring agencies.—Section 225(c)(5) of the Social Security Act
 
 &emsp;“(iii)
 
-Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) ofthis section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
+Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1990 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General authorization; uses of funds
 
-From amounts available under section 1069f(a)(2) <sup>1</sup> of this title in any fiscal year the Secretary shall make grants (under section 1063 of this title) to institutions which have applications approved by the Secretary (under section 1063a of this title) for any of the following uses:
+From amounts available under section 1068h(a)(2) of this title in any fiscal year the Secretary shall make grants (under section 1063 of this title) to institutions which have applications approved by the Secretary (under section 1063a of this title) for any of the following uses:
 
 &emsp;(1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes.
 
@@ -22,11 +22,17 @@ From amounts available under section 1069f(a)(2) <sup>1</sup> of this title in 
 
 &emsp;(9) Establishing or improving a development office to strengthen or improve contributions from alumni and the private sector.
 
-&emsp;(10) Establishing or enhancing a program of teacher education designed to qualify studentsto teach in a public elementary or secondary school in the State that shall include, as part of such program, preparation for teacher certification.
+&emsp;(10) Establishing or enhancing a program of teacher education designed to qualify students to teach in a public elementary or secondary school in the State that shall include, as part of such program, preparation for teacher certification.
 
 &emsp;(11) Establishing community outreach programs which will encourage elementary and secondary students to develop the academic skills and the interest to pursue postsecondary education.
 
-&emsp;(12) Other activities proposed in the application submitted pursuant to section 1063a of this title that—
+&emsp;(12) Acquisition of real property in connection with the construction, renovation, or addition to or improvement of campus facilities.
+
+&emsp;(13) Education or financial information designed to improve the financial literacy and economic literacy of students or the students’ families, especially with regard to student indebtedness and student assistance programs under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+
+&emsp;(14) Services necessary for the implementation of projects or activities that are described in the grant application and that are approved, in advance, by the Secretary, except that not more than two percent of the grant amount may be used for this purpose.
+
+&emsp;(15) Other activities proposed in the application submitted pursuant to section 1063a of this title that—
 
 &emsp;&emsp;(A) contribute to carrying out the purposes of this part; and
 
@@ -52,11 +58,9 @@ From amounts available under section 1069f(a)(2) <sup>1</sup> of this title in 
 
 (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
-(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub. L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642.)
+(Pub. L. 89–329, title III, §323, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1295; amended Pub. L. 100–50, §2(a)(7), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(b), July 18, 1988, 102 Stat. 838; Pub. L. 102–325, title III, §303(a), (b), July 23, 1992, 106 Stat. 474, 475; Pub.L. 103–208, §2(a)(8), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §304(a), Oct. 7, 1998, 112 Stat. 1642; Pub. L. 110–315, title III, §309, Aug. 14, 2008, 122 Stat. 3177.)
 
 #### References in Text
-
-Section 1069f(a)(2) of this title, referred to in subsec. (a), was in the original a reference to section 360(a)(2) of Pub. L. 89–329. Section 360 of Pub. L. 89–329 was renumbered section 399 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and was transferred to section 1068h of this title.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -67,6 +71,10 @@ A prior section 1062, Pub. L. 89–329, title III, §323, as added Pub. L. 96–
 Another prior section 1062, Pub. L. 89–329, title IV, §402, Nov. 8, 1965, 79 Stat. 1232; Pub. L. 90–575, title I, §102, Oct. 16, 1968, 82 Stat. 1017, related to determination of amount of grant and establishment of basic criteria or schedules, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §309(1), substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
+
+Subsec. (a)(12) to (15). Pub. L. 110–315, §309(2), (3), added pars. (12) to (14) and redesignated former par. (12) as (15).
 
 1998—Subsecs. (b), (c). Pub. L. 105–244, §304(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -103,6 +111,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

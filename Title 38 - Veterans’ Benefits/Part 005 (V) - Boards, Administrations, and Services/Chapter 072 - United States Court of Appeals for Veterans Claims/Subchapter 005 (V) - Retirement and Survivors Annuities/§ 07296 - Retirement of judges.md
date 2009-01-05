@@ -54,13 +54,19 @@
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
-(c)(1) An individual who retires under subsection (b) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall (except as provided in paragraph (2) of this subsection) receive retired pay as follows:
+(c)(1)(A) A judge who is appointed on or after the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and who retires under subsection (b) and elects under subsection (d) to receive retired pay under this subsection shall (except as provided in paragraph (2)) receive retired pay as follows:
 
-&emsp;(A) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability, the retired pay of the judge shall be the pay of a judge of the court.
+&emsp;(i) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title, the retired pay of the judge shall (subject to section 7257(d)(2) of this title) be the rate of pay applicable to that judge at the time of retirement, as adjusted from time to time under subsection (f)(3).
 
-&emsp;(B) In the case of a judge who at the time of retirement did not provide notice under section 7257 of this title of availability for service in a recalled status, the retired pay of the judge shall be the rate of pay applicable to that judge at the time of retirement.
+&emsp;(ii) In the case of a judge other than a recall-eligible retired judge, the retired pay of the judge shall be the rate of pay applicable to that judge at the time of retirement.
 
-&emsp;(C) In the case of a judge who was a recall-eligible retired judge under section 7257 of this title and was removed from recall status under subsection (b)(3) of that section, the retired pay of the judge shall be the pay of the judge at the time of the removal from recall status.
+(B) A judge who retired before the date of the enactment of the Veterans’ Benefits Improvement Act of 2008 and elected under subsection (d) to receive retired pay under this subsection, or a judge who retires under subsection (b) and elects under subsection (d) to receive retired pay under this subsection, shall (except as provided in paragraph (2)) receive retired pay as follows:
+
+&emsp;(i) In the case of a judge who is a recall-eligible retired judge under section 7257 of this title or who was a recall-eligible retired judge under that section and was removed from recall status under subsection (b)(4) of that section by reason of disability, the retired pay of the judge shall be the pay of a judge of the court.
+
+&emsp;(ii) In the case of a judge who at the time of retirement did not provide notice under section 7257 of this title of availability for service in a recalled status, the retired pay of the judge shall be the rate of pay applicable to that judge at the time of retirement.
+
+&emsp;(iii) In the case of a judge who was a recall-eligible retired judge under section 7257 of this title and was removed from recall status under subsection (b)(3) of that section, the retired pay of the judge shall be the pay of the judge at the time of the removal from recall status.
 
 (2) An individual who serves as a judge for less than 10 years and who retires under subsection (b)(3) of this section and elects under subsection (d) of this section to receive retired pay under this subsection shall receive retired pay at a rate equal to one-half of the rate of pay in effect at the time of retirement.
 
@@ -88,7 +94,7 @@
 
 &emsp;(C) such individual shall be paid the lump-sum credit computed under section 8331(8) or 8401(a) of title 5, whichever applies, upon making application therefor with the Office of Personnel Management.
 
-(3)(A) A cost-of-living adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section only in the case of retired pay computed under paragraph (2) of subsection (c).
+(3)(A) A cost-of-living adjustment provided by law in annuities payable under civil service retirement laws shall apply to retired pay under this section only in the case of retired pay computed under paragraph (1)(A)(i) or (2) of subsection (c).
 
 (B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
@@ -124,15 +130,19 @@
 
 (k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, §603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 
 #### References in Text
 
-The civil service retirement laws, referred to in subsecs. (f) and (h)(3)(C), are classified generally to subchapter III (§8331 et seq.) of chapter 83 of Title 5, Government Organization and Employees.
+The date of the enactment of the Veterans’ Benefits Improvement Act of 2008, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
-The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)(B) and (h)(3)(C), (D), is provided for in section 8348 of Title 5.
+The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)(B) and (h)(3)(C), (D), is provided for in section 8348 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–389, §603(b)(1), added par. (1) and struck out former par. (1), which related to retirement pay structure for retired judges based on recall status.
+
+Subsec. (f)(3)(A). Pub. L. 110–389, §603(b)(2), substituted “paragraph (1)(A)(i) or (2)” for “paragraph (2)”.
 
 2001—Subsec. (b)(2). Pub. L. 107–103 struck out at end: “In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.”
 
@@ -170,7 +180,7 @@ Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590,
 
 “(a)
 
-Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
+Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or2001, and one additional eligible judge may retire in accordance with this section in 2001.
 
 “(b)
 
@@ -244,7 +254,7 @@ Transitional Service of Judge Retired Under This Section.—(1) A judge who reti
 
 &emsp;&emsp;“(ii) pay for purposes of deductions or contributions for or on behalf of the person to retired pay under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable; but
 
-&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or otherannuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
+&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or other annuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
 
 “(5) Amounts paid under paragraph (3) shall be derived from amounts available for payment of salaries and benefits of judges of the Court.
 

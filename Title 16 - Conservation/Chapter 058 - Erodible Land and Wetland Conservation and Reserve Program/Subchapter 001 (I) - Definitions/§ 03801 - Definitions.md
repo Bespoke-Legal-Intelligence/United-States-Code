@@ -10,6 +10,10 @@
 
 &emsp;(2)
 
+Beginning farmer or rancher.—The term “beginning farmer or rancher” has the meaning given the term in section 1991(a)(8) of title 7.
+
+&emsp;(3)
+
 Conservation plan.—The term “conservation plan” means the document that—
 
 &emsp;&emsp;(A) applies to highly erodible cropland;
@@ -18,7 +22,7 @@ Conservation plan.—The term “conservation plan” means the document that—
 
 &emsp;&emsp;(C) is approved by the local soil conservation district, in consultation with the local committees established under section 590h(b)(5) of this title and the Secretary, or by the Secretary.
 
-&emsp;(3)
+&emsp;(4)
 
 Conservation system.—The term “conservation system” means a combination of 1 or more conservation measures or management practices that—
 
@@ -26,11 +30,11 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;&emsp;(B) are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
 
-&emsp;(4) The term “conservation district” means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a “conservation district”, “soil conservation district”, “soil and water conservation district”, “resource conservation district”, “natural resource district”, “land conservation committee”, or a similar name.
+&emsp;(5) The term “conservation district” means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a “conservation district”, “soil conservation district”, “soil and water conservation district”, “resource conservation district”, “natural resource district”, “land conservation committee”, or a similar name.
 
-&emsp;(5) The term “cost sharing payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
+&emsp;(6) The term “cost sharing payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
 
-&emsp;(6)(A) The term “converted wetland” means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if—
+&emsp;(7)(A) The term “converted wetland” means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if—
 
 &emsp;&emsp;(i) such production would not have been possible but for such action; and
 
@@ -46,13 +50,27 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;&emsp;(ii) is not assisted by an action of the producer that destroys natural wetland characteristics.
 
-&emsp;(7)
+&emsp;(8)
+
+Farm.—The term “farm” means a farm that—
+
+&emsp;&emsp;(A) is under the general control of one operator;
+
+&emsp;&emsp;(B) has one or more owners;
+
+&emsp;&emsp;(C) consists of one or more tracts of land, whether or not contiguous;
+
+&emsp;&emsp;(D) is located within a county or region, as determined by the Secretary; and
+
+&emsp;&emsp;(E) may contain lands that are incidental to the production of perennial crops, including conserving uses, forestry, and livestock, as determined by the Secretary.
+
+&emsp;(9)
 
 Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
 
-&emsp;(8) The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
+&emsp;(10) The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
 
-&emsp;(9)(A) The term “highly erodible land” means land—
+&emsp;(11)(A) The term “highly erodible land” means land—
 
 &emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
 
@@ -64,31 +82,67 @@ Field.—The term “field” means a part of a farm that is separated from the 
 
 Equations.—Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with section 553 of title 5.
 
-&emsp;(10) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
+&emsp;(12) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
 
-&emsp;(11) The term “hydrophytic vegetation” means a plant growing in—
+&emsp;(13) The term “hydrophytic vegetation” means a plant growing in—
 
 &emsp;&emsp;(A) water; or
 
 &emsp;&emsp;(B) a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
 
-&emsp;(12) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
+&emsp;(14)
 
-&emsp;(13) The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+Indian tribe.—The term “Indian tribe” has the meaning given the term in section 450b(e) of title 25.
 
-&emsp;(14) The term “Secretary” means the Secretary of Agriculture.
+&emsp;(15) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
 
-&emsp;(15) The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
+&emsp;(16)
 
-&emsp;(16) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+Integrated pest management.—The term “integrated pest management” means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
 
-&emsp;(17) The term “vegetative cover” means—
+&emsp;(17)
+
+Livestock.—The term “livestock” means all animals raised on farms, as determined by the Secretary.
+
+&emsp;(18)
+
+Nonindustrial private forest land.—The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+
+&emsp;&emsp;(A) has existing tree cover or is suitable for growing trees; and
+
+&emsp;&emsp;(B) is owned by any nonindustrial private individual, group, association, corporation, Indian tribe, or other private legal entity that has definitive decisionmaking authority over the land.
+
+&emsp;(19)
+
+Person and legal entity.—For purposes of applying payment limitations under subchapter IV, the terms “person” and “legal entity” have the meanings given those terms in section 1308(a) of title 7.
+
+&emsp;(20) The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+
+&emsp;(21) The term “Secretary” means the Secretary of Agriculture.
+
+&emsp;(22) The term “shelterbelt” means a vegetative barrier with a linear configuration composed of trees, shrubs, and other approved perennial vegetation.
+
+&emsp;(23)
+
+Socially disadvantaged farmer or rancher.—The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e)(2) of title 7.
+
+&emsp;(24) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, or the Trust Territory of the Pacific Islands.
+
+&emsp;(25)
+
+Technical assistance.—The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses. The term includes the following:
+
+&emsp;&emsp;(A) Technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of conservation practices.
+
+&emsp;&emsp;(B) Technical infrastructure, including activities, processes, tools, and agency functions needed to support delivery of technical services, such as technical standards, resource inventories, training, data, technology, monitoring, and effects analyses.
+
+&emsp;(26) The term “vegetative cover” means—
 
 &emsp;&emsp;(A) perennial grasses, legumes, forbs, or shrubs with an expected life span of 5 or more years; or
 
 &emsp;&emsp;(B) trees.
 
-&emsp;(18) The term “wetland”, except when such term is part of the term “converted wetland”, means land that—
+&emsp;(27) The term “wetland”, except when such term is part of the term “converted wetland”, means land that—
 
 &emsp;&emsp;(A) has a predominance of hydric soils;
 
@@ -104,15 +158,23 @@ Equations.—Not later than 60 days after the date of enactment of this subparag
 
 &emsp;(2) lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981.)
+(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsec. (a)(9), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
-The date of enactment of this subparagraph, referred to in subsec. (a)(9)(C), is the date of enactment of Pub. L. 104–127, which was approved Apr. 4, 1996.
+The date of enactment of this subparagraph, referred to in subsec. (a)(11)(C), is the date of enactment of Pub. L. 104–127, which was approved Apr. 4, 1996.
+
+This Act, referred to in subsec. (a)(27), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(2) to (27). Pub. L. 110–246, §2001, added pars. (2), (8), (14), (16) to (19), (23), and (25) and redesignated former pars. (2) to (18) as (3) to (7), (9) to (13), (15), (20) to (22), (24), (26), and (27), respectively.
 
 1996—Subsec. (a)(2) to (6). Pub. L. 104–127, §301(a), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
@@ -131,6 +193,10 @@ Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) 
 1990—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for “The term ‘wetland’, except when such term is part of the term ‘converted wetland’, means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions.”
 
 1986—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Short Title of 2006 Amendment
 
@@ -153,6 +219,34 @@ Section 1401 of title XIV of Pub. L. 101–624 provided that: “This title \[en
 Title XII of Pub. L. 99–198, which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
 
 #### Regulations
+
+Pub. L. 110–234, title II, §2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2904, June 18, 2008, 122 Stat. 1664, 1819, provided that:
+
+“(a)
+
+Issuance.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+
+“(b)
+
+Applicable Authority.—The promulgation of regulations under subsection (a) and administration of this title—
+
+&emsp;“(1) shall be carried out without regard to—
+
+&emsp;&emsp;“(A) chapter 35 of title 44, United States Code (commonly known as the Paperwork Reduction Act); and
+
+&emsp;&emsp;“(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(2) may—
+
+&emsp;&emsp;“(A) be promulgated with an opportunity for notice and comment; or
+
+&emsp;&emsp;“(B) if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
+
+“(c)
+
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 Pub. L. 107–171, title II, §2702, May 13, 2002, 116 Stat. 279, provided that:
 
@@ -183,6 +277,12 @@ Congressional Review of Agency Rulemaking.—In carrying out this section, the S
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Continuation of Programs in Fiscal Year 2008
+
+Pub. L. 110–234, title II, §2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, §4(a), title II, §2903(a), June 18, 2008, 122 Stat. 1664, 1819, provided that: “Except as otherwise provided by an amendment made by this title \[see Tables for classification\], the Secretary of Agriculture shall continue to carry out any program or activity covered by title XII of the Food Security Act (16 U.S.C. 3801 et seq.) until September 30, 2008, using the provisions of law applicable to the program or activity as they existed on the day before the date of the enactment of this Act \[June 18, 2008\] and using funds made available under such title for fiscal year 2008 for the program or activity.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Reform and Assessment of Conservation Programs
 
@@ -294,7 +394,7 @@ Voluntary actions.—Actions taken under the plan—
 
 &emsp;“(2)
 
-Land of high conservation value.—Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the planare of exceptionally high conservation value, as determined by the Secretary.
+Land of high conservation value.—Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the plan are of exceptionally high conservation value, as determined by the Secretary.
 
 &emsp;“(3)
 

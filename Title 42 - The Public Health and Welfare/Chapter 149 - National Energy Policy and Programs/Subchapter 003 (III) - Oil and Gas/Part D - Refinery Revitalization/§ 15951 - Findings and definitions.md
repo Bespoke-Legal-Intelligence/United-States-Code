@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) due to lack of capacity, refined petroleum product imports are expected to grow from 7.9 percent to 10.7 percent of total refined product by 2025;
 
-&emsp;(5) refiners are still subject to significant environmental and other regulations and face several new requirements under the Clean Air Act (42 U.S.C. 7401 et seq.) over the next decade; and
+&emsp;(5) refiners are still subject to significant environmental and other regulations and faceseveral new requirements under the Clean Air Act (42 U.S.C. 7401 et seq.) over the next decade; and
 
 &emsp;(6) better coordination of Federal and State regulatory reviews may help facilitate siting and construction of new refineries to meet the demand in the United States for refined products.
 

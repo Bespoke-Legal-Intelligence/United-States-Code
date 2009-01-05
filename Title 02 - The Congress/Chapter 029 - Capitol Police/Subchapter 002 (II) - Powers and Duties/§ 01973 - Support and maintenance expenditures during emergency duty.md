@@ -6,5 +6,5 @@ At any time on or after November 12, 2001, the Capitol Police Board may incur ob
 
 #### Codification
 
-Section was classified to section 206e of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 206e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

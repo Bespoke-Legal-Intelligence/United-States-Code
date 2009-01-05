@@ -6,13 +6,9 @@ The brewery shall consist of the land and buildings described in the brewer's no
 
 #### (b) Brewer
 
-&emsp;&emsp;<b>For definition of brewer, see section 5092.</b>
+&emsp;&emsp;<b>For definition of brewer, see section 5052(d).</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, §3(b), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–59, title XI, §11125(b)(17), Aug. 10, 2005, 119 Stat. 1956.)
-
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 109–59, title XI, §11125(b)(17), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (b) of this section is amended by substituting “section 5052(d)” for “section 5092”.</i>
 
 #### Prior Provisions
 
@@ -20,9 +16,11 @@ A prior section 5402, act Aug. 16, 1954, ch. 736, 68A Stat. 674, consisted of pr
 
 #### Amendments
 
+2005—Subsec. (b). Pub. L. 109–59 substituted “section 5052(d)” for “section 5092”.
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1971—Subsec. (a). Pub. L. 91–673 inserted proviso to definition of “Brewery” that the continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions, with the exception that the Secretary approve facilities under the control of the brewer for case packing, loading, or storing, which are located within reasonable proximity to the brewery as a part of the brewery if the revenue will not be jeopardized thereby.
+1971—Subsec. (a). Pub. L. 91–673 inserted proviso to definition of “Brewery” that the continuity of the brewery must be unbroken except where separated bypublic passageways, streets, highways, waterways, or carrier rights-of-way, or partitions, with the exception that the Secretary approve facilities under the control of the brewer for case packing, loading, or storing, which are located within reasonable proximity to the brewery as a part of the brewery if the revenue will not be jeopardized thereby.
 
 #### Effective Date of 2005 Amendment
 

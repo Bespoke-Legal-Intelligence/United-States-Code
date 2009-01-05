@@ -4,7 +4,7 @@
 
 The following transactions by the United States Government are prohibited:
 
-&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) of this section under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section). In implementing this paragraph, the United States Government—
+&emsp;(1) Exporting or otherwise providing (by sale, lease or loan, grant, or other means), directly or indirectly, any munitions item to a country described in subsection (d) of this section under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151et seq.\], or any other law (except as provided in subsection (h) of this section). In implementing this paragraph, the United States Government—
 
 &emsp;&emsp;(A) shall suspend delivery to such country of any such item pursuant to any such transaction which has not been completed at the time the Secretary of State makes the determination described in subsection (d) of this section, and
 
@@ -112,7 +112,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 #### (h) Exemption for transactions subject to National Security Act reporting requirements
 
-The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
+The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V ofthe National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
 
 #### (i) Relation to other laws
 
@@ -164,7 +164,7 @@ As used in this section—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961,75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “sabotage”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, and “State” shall have the same meanings as in section 1801 of this title, except as specifically provided by this subchapter.
+&emsp;(1) The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “sabotage”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, “weapon of mass destruction”, and “State” shall have the same meanings as in section 1801 of this title, except as specifically provided by this subchapter.
 
 &emsp;(2) “Aggrieved person” means a person whose premises, property, information, or material is the target of physical search or any other person whose premises, property, information, or material was subject to physical search.
 
@@ -20,15 +20,21 @@ As used in this subchapter:
 
 &emsp;(5) “Physical search” means any physical intrusion within the United States into premises or property (including examination of the interior of property by technical means) that is intended to result in a seizure, reproduction, inspection, or alteration of information, material, or property, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, but does not include (A) “electronic surveillance”, as defined in section 1801(f) of this title, or (B) the acquisition by the United States Government of foreign intelligence information from international or foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means other than electronic surveillance as defined in section 1801(f) of this title.
 
-(Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108Stat. 3443; amended Pub. L. 107–108, title III, §314(a)(3), Dec. 28, 2001, 115 Stat. 1402.)
+(Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3443; amended Pub. L. 107–108, title III, §314(a)(3), Dec. 28, 2001, 115 Stat. 1402 Pub. L. 110–261, title I, §110(c)(2), July 10, 2008, 122 Stat. 2467.)
 
 #### Prior Provisions
 
-A prior section 301 of Pub. L. 95–511 was renumbered section 601 and is set out as a note under section 1801 of this title.
+A prior section 301 of Pub. L. 95–511 was renumbered section 701 and was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
 
 #### Amendments
 
-2001—Par. (4)(D). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
+<b>2008</b>—Par. (1). Pub. L. 110–261 which directed the insertion of “weapon of mass destruction,” after “person,”, was executed by inserting “ ‘weapon of mass destruction’,” after “ ‘person’,” to reflect the probable intent of Congress.
+
+<b>2001</b>—Par. (4)(D). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date
 

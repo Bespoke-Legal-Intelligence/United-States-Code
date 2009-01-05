@@ -78,7 +78,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (2) Intangible
 
-&emsp;For purposes of paragraph (1), the term “intangible” means any patent, copyright, secretprocess or formula, goodwill, trademark, trade brand, franchise, or other like property.
+&emsp;For purposes of paragraph (1), the term “intangible” means any patent, copyright, secret process or formula, goodwill, trademark, trade brand, franchise, or other like property.
 
 #### (3) Special rule in the case of goodwill
 
@@ -100,7 +100,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if a United States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
+&emsp;&emsp;In the case of income not sourced under subsection (b), (c), (d)(1)(B) or (3), or (f), if aUnited States resident maintains an office or other fixed place of business in a foreign country, income from sales of personal property attributable to such office or other fixed place of business shall be sourced outside the United States.
 
 #### (B) Tax must be imposed
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) which is from the sale of stock in a foreign corporation or an intangible (as defined in subsection (d)(2)) and which would otherwise be sourced in the United States under this section,
 
-&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regard to this section), would be sourced outside the United States, and
+&emsp;&emsp;&emsp;(ii) which, under a treaty obligation of the United States (applied without regardto this section), would be sourced outside the United States, and
 
 &emsp;&emsp;&emsp;(iii) with respect to which the taxpayer chooses the benefits of this subsection.
 
@@ -272,7 +272,7 @@ Subsec. (f). Pub. L. 100–647, §1012(d)(4), amended subsec. (f) generally. Pri
 
 &emsp;“(2) such affiliate is engaged in the active conduct of a trade or business, and
 
-&emsp;“(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of itsgross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
+&emsp;“(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of its gross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
 
 > any gain from such sale shall be sourced outside the United States.”
 

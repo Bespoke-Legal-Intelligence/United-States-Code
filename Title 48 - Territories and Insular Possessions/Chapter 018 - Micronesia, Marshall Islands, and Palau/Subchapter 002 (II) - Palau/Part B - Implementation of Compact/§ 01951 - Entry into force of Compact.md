@@ -12,7 +12,7 @@ Notwithstanding the provisions of Section 101(d)(1)(B) of Public Law 99–658 \[
 
 Public Law 99–658, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A of this subchapter. Title II of Pub. L. 99–658 enacted section 1934 of this title and provisions set out as a note under section 1931 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Compact of Free Association between the United States and Palau, referred to in text, is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Compact of Free Association between the United States and Palau, referred to in text, is contained insection 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 This joint resolution, referred to in text, is Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and sections 1846 and 1972 of this title, amended sections 1615 and 1933 of this title and section 3791 of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 1905 of Title 44, Public Printing and Documents. For complete classification of this joint resolution to the Code, see Tables.
 

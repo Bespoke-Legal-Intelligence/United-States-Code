@@ -18,9 +18,17 @@ For purposes of this subchapter—
 
 &emsp;(8) the term “Facility” means the Enterprise for the Americas Facility established in the Department of the Treasury by section 1738 of title 7.
 
-(Pub. L. 87–195, pt. IV, §702, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3664.)
+(Pub. L. 87–195, pt. IV, §702, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3664; amended Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### Prior Provisions
 
 A prior section 702 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 463, amended section 1701 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 702 affected section 1701.
+
+#### Amendments
+
+2008—Par. (7). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738i of title 7.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

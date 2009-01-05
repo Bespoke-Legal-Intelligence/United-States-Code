@@ -68,7 +68,7 @@ No return shall be required under subsection (a) or (b) if a statement with resp
 
 #### (e) Statements to be furnished to persons with respect to whom information is required to be furnished
 
-Every person required to make a return under subsection (a) or (b) shall furnish to each personwhose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) or (b) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 

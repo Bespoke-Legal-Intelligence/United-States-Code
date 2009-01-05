@@ -142,7 +142,7 @@ Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 
 
 1990—Subsec. (d). Pub. L. 101–380 substituted at end “For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting ‘100 percent’ for ‘80 percent’ shall be treated as 1 taxpayer.” for “Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 
-1989—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline LiabilityFund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
+1989—Subsec. (d). Pub. L. 101–239 inserted at end “The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. Amounts may be transferred from the Trans-Alaska Pipeline Liability Fund into the Oil Spill Liability Trust Fund only to the extent the administrators of the Trans-Alaska Pipeline Liability Fund determine that such amounts are not needed to satisfy claims against such Fund.”
 
 1986—Subsec. (c). Pub. L. 99–499 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 512(d) of Pub. L. 99–499, set out as a note under section 4611 of this title.
 

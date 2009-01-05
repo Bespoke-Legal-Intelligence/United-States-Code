@@ -2,7 +2,7 @@
 
 (a)
 
-Ordering Restrictions and Prohibitions.—(1) If, through testing, inspection, investigation, or research carried out under this chapter, the Secretary of Transportation decides that an unsafe condition or practice, or a combination of unsafe conditions and practices, causes an emergency situation involving a hazard of death or personal injury, the Secretary immediately may order restrictions and prohibitions, without regard to section 20103(e) of this title, that may be necessary to abate the situation.
+Ordering Restrictions and Prohibitions.—(1) If, through testing, inspection, investigation, or research carried out under this chapter, the Secretary of Transportation decides that an unsafe condition or practice, or a combination of unsafe conditions and practices, causes an emergency situation involving a hazard of death, personal injury, or significant harm to the environment, the Secretary immediately may order restrictions and prohibitions, without regard to section 20103(e) of this title, that may be necessary to abate the situation.
 
 (2) The order shall describe the condition or practice, or a combination of conditions and practices, that causes the emergency situation and prescribe standards and procedures for obtaining relief from the order. This paragraph does not affect the Secretary's discretion under this section to maintain the order in effect for as long as the emergency situation exists.
 
@@ -12,9 +12,9 @@ Review of Orders.—After issuing an order under this section, the Secretary sha
 
 (c)
 
-Civil Actions To Compel Issuance of Orders.—An employee of a railroad carrier engaged in interstate or foreign commerce who may be exposed to imminent physical injury during that employment because of the Secretary's failure, without any reasonable basis, to issue an order under subsection (a) of this section, or the employee's authorized representative, may bring a civil action against the Secretary in a district court of the United States to compel the Secretary to issue an order. The action must be brought in the judicial district in which the emergency situation is alleged to exist, in which that employing carrier has itsprincipal executive office, or for the District of Columbia. The Secretary's failure to issue an order under subsection (a) of this section may be reviewed only under section 706 of title 5.
+Civil Actions To Compel Issuance of Orders.—An employee of a railroad carrier engaged in interstate or foreign commerce who may be exposed to imminent physical injury during that employment because of the Secretary's failure, without any reasonable basis, to issue an order under subsection (a) of this section, or the employee's authorized representative, may bring a civil action against the Secretary in a district court of the United States to compel the Secretary to issue an order. The action must be brought in the judicial district in which the emergency situation is alleged to exist, in which that employing carrier has its principal executive office, or for the District of Columbia. The Secretary's failure to issue an order under subsection (a) of this section may be reviewed only under section 706 of title 5.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 864.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 864; Pub. L. 110–432, div. A, title III, §304, Oct. 16, 2008, 122 Stat. 4879.)
 
 Historical and Revision Notes
 
@@ -47,4 +47,8 @@ In subsection (a)(2), the words “or a combination of conditions and practices�
 In subsection (b), the words “the Secretary” are added for clarity.
 
 In subsection (c), the words “issue an order” are substituted for “seek relief” for consistency in this section. The words “The action must be brought in the judicial district” are substituted for “for the judicial district” for consistency in the revised title.
+
+#### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–432 substituted “death, personal injury, or significant harm to the environment” for “death or personal injury”.
 

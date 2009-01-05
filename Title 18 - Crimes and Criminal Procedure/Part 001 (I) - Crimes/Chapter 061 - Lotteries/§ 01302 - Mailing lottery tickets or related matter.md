@@ -4,7 +4,7 @@ Whoever knowingly deposits in the mail, or sends or delivers by mail:
 
 Any letter, package, postal card, or circular concerning any lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance;
 
-Any lottery ticket or part thereof, or paper, certificate, or instrument purporting to be or torepresent a ticket, chance, share, or interest in or dependent upon the event of a lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance;
+Any lottery ticket or part thereof, or paper, certificate, or instrument purporting to be or to represent a ticket, chance, share, or interest in or dependent upon the event of a lottery, gift enterprise, or similar scheme offering prizes dependent in whole or in part upon lot or chance;
 
 Any check, draft, bill, money, postal note, or money order, for the purchase of any ticket or part thereof, or of any share or chance in any such lottery, gift enterprise, or scheme;
 

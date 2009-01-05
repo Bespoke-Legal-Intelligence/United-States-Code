@@ -62,7 +62,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §303(2d par. 4th sentence, 3d par. last sen
 
 31:43(2d par. last sentence, 3d par. 3d sentence words after comma).
 
-In subsections (a) and (b), the words “Except as provided in subsection (c) of this section” are added forclarity. The words “is entitled to receive” are substituted for “shall receive” as being more precise and for consistency with title 5.
+In subsections (a) and (b), the words “Except as provided in subsection (c) of this section” are added for clarity. The words “is entitled to receive” are substituted for “shall receive” as being more precise and for consistency with title 5.
 
 In subsection (a), the words “under section 703(e)(1) of this title” are added for clarity. The words “in his office” are omitted as surplus. The words “before becoming 65 years of age” are added for clarity. The words “at such completion” are omitted as surplus.
 

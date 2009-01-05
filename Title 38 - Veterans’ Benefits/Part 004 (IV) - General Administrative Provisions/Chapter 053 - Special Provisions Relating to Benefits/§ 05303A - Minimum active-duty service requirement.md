@@ -64,7 +64,7 @@
 
 &emsp;(B) with respect to a benefit under (i) the Social Security Act other than additional wages deemed to have been paid, under section 229(a) <sup>1</sup> of the Social Security Act (42 U.S.C. 429(a)), for any calendar quarter beginning after October 13, 1982, or (ii) title 5 other than a benefit based on meeting the definition of preference eligible in section 2108(3) of such title.
 
-(e) For the purposes of this section, the term “benefit” includes a right or privilege, but does not include a refund of a participant's contributions to the educational benefits program provided by chapter 32 of this title.
+(e) For the purposes of this section, the term “benefit” includes a right or privilege, but doesnot include a refund of a participant's contributions to the educational benefits program provided by chapter 32 of this title.
 
 (f) Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
 
@@ -146,7 +146,7 @@ Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\]
 
 #### Applicability
 
-Section 604(b) of Pub. L. 97–66 provided that: “Section 5303A \[formerly 3103A\] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment of this Act \[Oct. 17, 1981\]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
+Section 604(b) of Pub. L. 97–66 provided that: “Section 5303A \[formerly 3103A\] of title 38, United States Code, as added by subsection (a), shall not apply with respect to the receipt by any person of any benefit provided by or pursuant to law before the date of the enactment ofthis Act \[Oct. 17, 1981\]. Notwithstanding such section, a person who before such date has received a certificate of eligibility from the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] for benefits under chapter 37 of title 38, United States Code, is eligible for such benefits after such date.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

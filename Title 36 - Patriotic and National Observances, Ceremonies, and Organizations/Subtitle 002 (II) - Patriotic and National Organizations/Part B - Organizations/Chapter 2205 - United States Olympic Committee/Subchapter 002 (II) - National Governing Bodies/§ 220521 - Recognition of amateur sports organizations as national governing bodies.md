@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—For any sport which is included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games, the corporation is authorized to recognize as a national governing body (in the case of a sport on the program of the Olympic Games or Pan-American Games) or as a paralympic sports organization (in the case of a sport on the program of the Paralympic Games for which a national governing body has not been designated under section 220522(b)) an amateur sports organization which files an application and is eligible for such recognition in accordance with the provisions of subsection (a) or (b) of section 220522. The corporation may recognize only one national governing body for each sport for which an application is made and approved, except as provided in section 220522(b) with respect to a paralympic sports organization.
+General Authority.—For any sport which is included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games, the corporation is authorized to recognize as a national governing body (in the case of a sport on the program of the Olympic Games or Pan-American Games) or as a paralympic sports organization (in the case of a sport on the program of the Paralympic Games for which a national governing body has not been designated under section 220522(b)) an amateur sports organization which files an application and is eligible for such recognition in accordance with the provisions of subsection (a) or\(b) of section 220522. The corporation may recognize only one national governing body for each sport for which an application is made and approved, except as provided in section 220522(b) with respect to a paralympic sports organization.
 
 (b)
 

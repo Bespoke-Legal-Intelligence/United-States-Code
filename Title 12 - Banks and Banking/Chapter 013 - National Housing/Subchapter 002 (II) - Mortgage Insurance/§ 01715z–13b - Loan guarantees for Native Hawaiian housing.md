@@ -70,7 +70,7 @@ Under this section, a loan is an eligible loan if that loan meets the following 
 
 #### (A) In general
 
-&emsp;&emsp;The loan will be used to construct, acquire, or rehabilitate not more than 4-family dwellings that are standard housing and are located on Hawaiian Home Lands for which a housing plan described in subparagraph (B) applies.
+&emsp;&emsp;The loan will be used to construct, acquire, or rehabilitate not more than 4-family dwellings that are standard housing and arelocated on Hawaiian Home Lands for which a housing plan described in subparagraph (B) applies.
 
 #### (B) Housing plan
 

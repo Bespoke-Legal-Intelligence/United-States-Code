@@ -42,7 +42,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(2) a project-connected person who is entitled, in accordance with a lease or similar agreement, to residential occupancy of privately owned rental housing in the community.
 
-(<i>l</i>) The term “utility” means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
+(<i>l</i>) The term “utility” means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and anyfixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
 
 (m) The terms “single” and “single family” when used in connection with “house” or “residential property” shall include each separate unit of a residential structure which the Commission has classified as a residential structure containing two or more separate single family units pursuant to section 2331(c) of this title.
 

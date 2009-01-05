@@ -48,7 +48,7 @@ If the Secretary prior to the hearing of a suit brought by a taxpayer in a distr
 
 #### (3) Final determination of issues
 
-&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (orfailure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
+&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
 
 #### (h) Special rule for actions with respect to partnership items
 
@@ -90,7 +90,7 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;<b>(4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A),Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Subsecs. (h), (i). Pub. L. 97–248 added subsec. (h) and redesignated former su
 
 1980—Subsec. (e). Pub. L. 96–223 inserted reference to chapter 45.
 
-Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms “taxable event”, “first tier tax”, and “second tier tax” as having the respective meanings given to such terms by section 4962 ofthis title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
+Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms “taxable event”, “first tier tax”, and “second tier tax” as having the respective meanings given to such terms by section 4962 of this title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
 
 Pub. L. 96–222 substituted in pars. (1) to (3) “4944, 4945, 4951, 4952” for “4944, 4945” and in par. (1) “section 4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)” for “section 4945(a) (relating to initial taxes on taxable expenditures)” and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)” for “section 4945(b) (relating to additional taxes on taxable expenditures)”.
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 714(g)(1) of Pub. L. 98–369 applicable to any claim for refund or credit filed after July 18, 1984, see section 714(g)(4) of Pub. L. 98–369, set out as an Effective Date note under section 1509 of Title 28, Judiciary and Judicial Procedure.
+Amendment by section 714(g)(1) of Pub. L. 98–369 applicable to any claim for refund or credit filed afterJuly 18, 1984, see section 714(g)(4) of Pub. L. 98–369, set out as an Effective Date note under section 1509 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 714(p)(2)(H) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -194,7 +194,7 @@ Amendment by section 1906(a)(44), (b)(13)(A) of Pub. L. 94–455 effective on fi
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L.93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1971 Amendment
 

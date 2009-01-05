@@ -54,9 +54,9 @@ In this section:
 
 &emsp;&emsp;(B) over-the-road bus transportation, as defined in subchapter IV, and school bus transportation;
 
-&emsp;&emsp;(C) intercity passenger rail transportation <sup>1</sup> as defined in section 24102 of title 49;
+&emsp;&emsp;(C) intercity passenger rail <sup>1</sup> transportation <sup>2</sup> as defined in section 24102 of title 49;
 
-&emsp;&emsp;(D) the transportation of passengers onboard a passenger vessel <sup>1</sup> as defined in section 2101 of title 46;
+&emsp;&emsp;(D) the transportation of passengers onboard a passenger vessel <sup>2</sup> as defined in section 2101 of title 46;
 
 &emsp;&emsp;(E) other regularly scheduled waterborne transportation service of passengers by vessel of at least 20 gross tons; and
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (5) Vehicle
 
-&emsp;The term “vehicle” has the meaning given to that term in section 1992(16) <sup>2</sup> of title 18.
+&emsp;The term “vehicle” has the meaning given to that term in section 1992(16) <sup>3</sup> of title 18.
 
 #### (e) Effective date
 

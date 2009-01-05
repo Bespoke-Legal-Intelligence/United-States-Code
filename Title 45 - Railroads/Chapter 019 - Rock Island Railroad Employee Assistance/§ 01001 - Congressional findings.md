@@ -18,5 +18,5 @@ Section 101 of title I of Pub. L. 96–254 provided that: “This title \[enacti
 
 #### Savings Provision
 
-Section 125, formerly §124, of title I of Pub. L. 96–254, renumbered Pub. L. 96–448, title VII, §701(a)(1), Oct. 14, 1980, 94 Stat. 1959, provided that: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstance is held invalid, the remainder of this title and the application of such provision to other persons or circumstances shall not be affected thereby.”
+Section 125, formerly §124, of title I of Pub. L. 96–254, renumbered Pub. L. 96–448, title VII, §701(a)(1), Oct. 14,1980, 94 Stat. 1959, provided that: “If any provision of this title \[see Short Title note above\] or the application thereof to any person or circumstance is held invalid, the remainder of this title and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

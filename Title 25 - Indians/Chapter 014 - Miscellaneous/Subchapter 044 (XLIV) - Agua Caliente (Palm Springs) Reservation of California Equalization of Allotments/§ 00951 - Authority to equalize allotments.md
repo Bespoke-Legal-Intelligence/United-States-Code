@@ -82,5 +82,5 @@ Applicability.—The amendment made by subsection (a) shall apply as if this sec
 
 “(c)
 
-Subsequent Distributions.—Any per capita distribution of tribal revenues of the Band made after the date of enactment of this Act \[Oct. 30, 1998\] shall be made to all members of the Band in equal amounts.”
+Subsequent Distributions.—Any per capita distribution of tribal revenues of the Band made after thedate of enactment of this Act \[Oct. 30, 1998\] shall be made to all members of the Band in equal amounts.”
 

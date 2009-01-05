@@ -10,7 +10,7 @@ Not later than 180 days after December 30, 2005, and annually thereafter, the Ad
 
 #### (c) Compliance report
 
-If, 1 year before the final planned flight of the Space Shuttle orbiter, the United States has not demonstrated a replacement human space flight system, and the United States cannot uphold the policy described in subsection (a), the Administrator shall transmit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing—
+Not later than 90 days after October 15, 2008, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the lack of a United States human space flight system to replace the Space Shuttle upon its planned retirement, currently scheduled for 2010, and the ability of the United States to uphold the policy described in subsection (a), including a description of—
 
 &emsp;(1) strategic risks to the United States associated with the failure to uphold the policy described in subsection (a);
 
@@ -20,7 +20,11 @@ If, 1 year before the final planned flight of the Space Shuttle orbiter, the Uni
 
 &emsp;(4) what other means will be used to allow human access to space during that time.
 
-(Pub. L. 109–155, title V, §501, Dec. 30, 2005, 119 Stat. 2927.)
+(Pub. L. 109–155, title V, §501, Dec. 30, 2005, 119 Stat. 2927; Pub. L. 110–422, title VI, §611(a), Oct. 15, 2008, 122 Stat. 4796.)
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–422, in introductory provisions, substituted “Not later than 90 days after October 15, 2008, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the lack of a United States human space flight system to replace the Space Shuttle upon its planned retirement, currently scheduled for 2010, and the ability of the United States to uphold the policy described in subsection (a), including a description of—” for “If, 1 year before the final planned flight of the Space Shuttle orbiter, the United States has not demonstrated a replacement human space flight system, and the United States cannot uphold the policy described in subsection (a), the Administrator shall transmit a report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing—”.
 
 #### Change of Name
 

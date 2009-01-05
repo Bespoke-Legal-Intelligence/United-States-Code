@@ -14,7 +14,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (A) Experience in financial services
 
-&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall give consideration to individuals who, by virtue of their education, training, or experiencerelating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
+&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall give consideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
 
 #### (B) Limit on appointment of credit union officers
 
@@ -30,7 +30,7 @@ The management of the Administration shall be vested in the Board. The Board sha
 
 #### (e) Functions of Chairman
 
-The Chairman of the Board shall be the spokesman for the Board and shall represent the Board and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
+The Chairman of the Board shall be the spokesman for the Board and shall represent theBoard and the National Credit Union Administration in its official relations with other branches of the Government. The Chairman shall determine each Board member's area of responsibility and shall review such assignments biennially. It shall be the Chairman's responsibility to direct the implementation of the adopted policies and regulations of the Board.
 
 #### (f) Audit by Government Accountability Office
 
@@ -82,7 +82,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, provided that:
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of—
 
-&emsp;“(1) the differences between credit unions and other federally insured financial institutions, including regulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
+&emsp;“(1) the differences between credit unions and other federally insured financial institutions, includingregulatory differences with respect to regulations enforced by the Office of Thrift Supervision, the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Administration; and
 
 &emsp;“(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 

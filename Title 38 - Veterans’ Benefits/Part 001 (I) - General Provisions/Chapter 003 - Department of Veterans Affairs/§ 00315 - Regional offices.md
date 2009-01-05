@@ -1,6 +1,6 @@
 ### §315. Regional offices
 
-(a) The Secretary may establish such regional offices and such other field offices within theUnited States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
+(a) The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
 (b) The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2009.
 

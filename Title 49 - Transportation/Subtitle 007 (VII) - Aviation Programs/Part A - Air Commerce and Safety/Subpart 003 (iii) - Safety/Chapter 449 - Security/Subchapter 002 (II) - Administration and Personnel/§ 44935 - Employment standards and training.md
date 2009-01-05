@@ -88,7 +88,7 @@ Screener requirements.—Notwithstanding any provision of law, an individual may
 
 &emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Under Secretary has determined to be sufficient for the individual to perform the duties of the position.
 
-&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including colorperception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
+&emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including color perception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
 
 &emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Under Secretary.
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition
 

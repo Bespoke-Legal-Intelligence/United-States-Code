@@ -30,7 +30,7 @@ Forms of Air Force Support.—The Secretary of the Air Force may, under subsecti
 
 &emsp;&emsp;(A) funds for the payment of staff compensation and benefits, administrative expenses, travel, per diem and allowances, rent, utilities, other operational expenses of the national headquarters; and
 
-&emsp;&emsp;(B) to the extent considered necessary by the Secretary of the Air Force to fulfill Air Force requirements, funds for the payment of compensation and benefits for key staff at regional, State, or territorial headquarters;
+&emsp;&emsp;(B) to the extent considered necessary by the Secretary of the Air Force to fulfill Air Force requirements, funds for the paymentof compensation and benefits for key staff at regional, State, or territorial headquarters;
 
 &emsp;(9) authorize the payment of expenses of placing into serviceable condition, improving, and maintaining equipment (including aircraft, motor vehicles, computers, and communications equipment) owned or leased by the Civil Air Patrol;
 

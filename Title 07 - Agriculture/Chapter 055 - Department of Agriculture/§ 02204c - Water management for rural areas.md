@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture is authorized, directly or in coordination with any other Federal agency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
+The Secretary of Agriculture is authorized, directly or in coordination with any other Federalagency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
 
 &emsp;(1) conduct research and demonstration projects;
 
@@ -26,7 +26,7 @@ In implementing this section, the Secretary—
 
 &emsp;(3) shall cooperate with—
 
-&emsp;&emsp;(A) cooperatives, public or private organizations, confederations, authorities, or other entities (including such entities that may be organized under multiple State agreements or compacts and entities created underState law) to carry out projects authorized under this section; and
+&emsp;&emsp;(A) cooperatives, public or private organizations, confederations, authorities, or other entities (including such entities that may be organized under multiple State agreements or compacts and entities created under State law) to carry out projects authorized under this section; and
 
 &emsp;&emsp;(B) water, watershed, and sewer authorities, rural electric cooperatives, Federal agencies, and other State or local governments or agencies.
 
@@ -68,7 +68,7 @@ Nothing in this section shall authorize the waiver of a cost-share requirement u
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (e)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (e)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (e)(2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

@@ -10,3 +10,6 @@
 - [&sect; 01803 - Financial assistance to Government of Northern Mariana Islands](%C2%A7%2001803%20-%20Financial%20assistance%20to%20Government%20of%20Northern%20Mariana%20Islands.md)
 - [&sect; 01804 - Direct grant assistance](%C2%A7%2001804%20-%20Direct%20grant%20assistance.md)
 - [&sect; 01805 - Failure to meet performance standards; resolution of issues; withholding of funds](%C2%A7%2001805%20-%20Failure%20to%20meet%20performance%20standards%3B%20resolution%20of%20issues%3B%20withholding%20of%20funds.md)
+- [&sect; 01806 - Immigration and transition](%C2%A7%2001806%20-%20Immigration%20and%20transition.md)
+- [&sect; 01807 - Technical assistance program](%C2%A7%2001807%20-%20Technical%20assistance%20program.md)
+- [&sect; 01808 - Operations](%C2%A7%2001808%20-%20Operations.md)

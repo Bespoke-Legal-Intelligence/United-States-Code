@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In making in-kind payments under subchapter III of this chapter and subtitle <sup>1</sup> B and C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq., 7951 et seq.\], the Commodity Credit Corporation may—
+In making in-kind payments under subchapter III of this chapter, title I of the Farm Securityand Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\], the Commodity Credit Corporation may—
 
 &emsp;(1) acquire and use commodities that have been pledged to the Commodity Credit Corporation as collateral for loans made by the Corporation;
 
@@ -26,19 +26,37 @@ The Commodity Credit Corporation may make in-kind payments—
 
 #### (1) Form
 
-&emsp;At the option of a producer, the Commodity Credit Corporation shall make negotiable certificates authorized under subsection (b)(3) of this section available to the producer, in the form of program payments or by sale, in a manner that the Corporation determines will encourage the orderly marketing of commodities pledged as collateral for loans made to producers under subchapter III of this chapter and subtitle <sup>1</sup> B and C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq., 7951 et seq.\].
+&emsp;At the option of a producer, the Commodity Credit Corporation shall make negotiable certificates authorized under subsection (b)(3) of this section available to the producer, in the form of program payments or by sale, in a manner that the Corporation determines will encourage the orderly marketing of commodities pledged as collateral for loans made to producers under subchapter III of this chapter, title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\], and title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
 
 #### (2) Transfer
 
 &emsp;A negotiable certificate issued in accordance with this subsection may be transferred to another person in accordance with regulations promulgated by the Secretary.
 
-(Pub. L. 104–127, title I, §166, as added Pub. L. 106–78, title VIII, §812, Oct. 22, 1999, 113 Stat. 1181; amended Pub. L. 107–171, title I, §1608, May 13, 2002, 116 Stat. 218.)
+#### (3) Termination of authority
+
+&emsp;The authority to carry out paragraph (1) terminates effective ending with the 2009 crop year.
+
+(Pub. L. 104–127, title I, §166, as added Pub. L. 106–78, title VIII, §812, Oct. 22, 1999, 113 Stat. 1181; amended Pub. L. 107–171, title I, §1608, May 13, 2002, 116 Stat. 218; Pub. L. 110–234, title I, §1607, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, §4(a), title I, §1607, June 18, 2008, 122 Stat. 1664, 1746.)
 
 #### References in Text
 
-The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a) and (c)(1), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Subtitle B of title I of the Act is classified generally to subchapter II (§7931 et seq.) of chapter 106 of this title. Subtitle C of title I ofthe Act is classified principally to subchapter III (§7951 et seq.) of chapter 106 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a) and (c)(1), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Title I of the Act is classified principally to chapter 106 (§7901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+
+The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a) and (c)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsecs. (a), (c)(1). Pub. L. 110–246, §1607(1), substituted “, title I of the Farm Security and Rural Investment Act of 2002, and title I of the Food, Conservation, and Energy Act of 2008” for “and subtitle B and C of title I of the Farm Security and Rural Investment Act of 2002”.
+
+Subsec. (c)(3). Pub. L. 110–246, §1607(2), added par. (3).
+
 2002—Subsecs. (a), (c)(1). Pub. L. 107–171 substituted “subchapter III of this chapter and subtitle B and C of title I of the Farm Security and Rural Investment Act of 2002” for “subchapter III of this chapter”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

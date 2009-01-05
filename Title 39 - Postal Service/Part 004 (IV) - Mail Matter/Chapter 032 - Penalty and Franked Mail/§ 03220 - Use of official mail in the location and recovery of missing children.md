@@ -36,7 +36,7 @@ Guidelines.—The guidelines described in section 3220(a)(1) of title 39, United
 
 “(b)
 
-Rules and Regulations.—The regulations described in subsection (a)(2) of section 3220 of title 39,United States Code, as added by this Act, and the rules and regulations described in subsection (b) of such section, as so added, shall be prescribed not later than one hundred and eighty days after the date of the enactment of this Act (Aug. 9, 1985).”
+Rules and Regulations.—The regulations described in subsection (a)(2) of section 3220 of title 39, United States Code, as added by this Act, and the rules and regulations described in subsection (b) of such section, as so added, shall be prescribed not later than one hundred and eighty days after the date of the enactment of this Act (Aug. 9, 1985).”
 
 #### Reporting Requirements
 

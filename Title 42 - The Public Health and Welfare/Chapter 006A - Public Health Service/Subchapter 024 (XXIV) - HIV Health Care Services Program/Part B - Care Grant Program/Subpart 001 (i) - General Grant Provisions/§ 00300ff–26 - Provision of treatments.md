@@ -16,7 +16,7 @@ To be eligible to receive assistance from a State under this section an individu
 
 In carrying out this section the State shall—
 
-&emsp;(1) ensure that the therapeutics included on the list of classes of core antiretroviral therapeutics established by the Secretary under subsection (e) are, at a minimum, the treatments provided by the State pursuant to this section;
+&emsp;(1) ensure that the therapeutics included on the list of classes of core antiretroviral therapeutics established by the Secretary undersubsection (e) are, at a minimum, the treatments provided by the State pursuant to this section;
 
 &emsp;(2) provide assistance for the purchase of treatments determined to be eligible under paragraph (1), and the provision of such ancillary devices that are essential to administer such treatments;
 
@@ -32,7 +32,7 @@ In carrying out this section the State shall—
 
 #### (d) Duties of Secretary
 
-In carrying out this section, the Secretary shall review the current status of State drug reimbursement programs established under section 300ff–22(2) <sup>1</sup> of this title and assess barriersto the expanded availability of the treatments described in subsection (a) of this section. The Secretary shall also examine the extent to which States coordinate with other grantees under this subchapter to reduce barriers to the expanded availability of the treatments described in subsection (a) of this section.
+In carrying out this section, the Secretary shall review the current status of State drug reimbursement programs established under section 300ff–22(2) <sup>1</sup> of this title and assess barriers to the expanded availability of the treatments described in subsection (a) of this section. The Secretary shall also examine the extent to which States coordinate with other grantees under this subchapter to reduce barriers to the expanded availability of the treatments described in subsection (a) of this section.
 
 #### (e) List of classes of core antiretroviral therapeutics
 

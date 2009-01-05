@@ -10,7 +10,7 @@ Grants made by the Attorney General under this section shall be used—
 
 &emsp;(4) in rural States (as defined in section 3796bb(b) of this title), to fund cooperative efforts between State and local prosecutors, victim advocacy and assistance groups, social and community service providers, and law enforcement agencies to investigate and prosecute child abuse cases, treat youthful victims of child abuse, and work in cooperation with the community to develop education and prevention strategies directed toward the issues with which such entities are concerned; and
 
-&emsp;(5) by a State, unit of local government, or Indian tribe to create and expand witness andvictim protection programs to prevent threats, intimidation, and retaliation against victims of, and witnesses to, violent crimes.
+&emsp;(5) by a State, unit of local government, or Indian tribe to create and expand witness and victim protection programs to prevent threats, intimidation, and retaliation against victims of, and witnesses to, violent crimes.
 
 (Pub. L. 103–322, title III, §31702, Sept. 13, 1994, 108 Stat. 1890; Pub. L. 110–177, title III, §301(a), Jan. 7, 2008, 121 Stat. 2538.)
 

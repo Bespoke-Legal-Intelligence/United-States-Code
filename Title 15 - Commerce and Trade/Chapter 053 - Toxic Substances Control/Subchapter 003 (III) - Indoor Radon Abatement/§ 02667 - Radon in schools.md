@@ -36,7 +36,7 @@
 
 #### (7) Status report
 
-&emsp;On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator's diagnostic and remedial work. On or before October 1, 1989, the Administrator shall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator's diagnostic and remedial work, and the recommendations of the Administrator.
+&emsp;On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator's diagnostic and remedial work. On or before October 1, 1989, the Administratorshall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator's diagnostic and remedial work, and the recommendations of the Administrator.
 
 #### (b) Authorization
 

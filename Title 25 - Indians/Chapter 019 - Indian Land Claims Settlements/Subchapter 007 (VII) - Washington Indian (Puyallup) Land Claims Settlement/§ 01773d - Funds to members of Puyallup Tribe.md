@@ -6,7 +6,7 @@
 
 (2) Upon attaining the age of 21 years, each enrolled member of the Tribe (determined by the Tribe pursuant to its constitution to have been a member as of the date of ratification of the Settlement Agreement by the Tribe) shall receive a one-time payment from the fund. The amount of such payment shall be determined in accordance with section II of the Settlement Agreement and document 2 of the Technical Documents.
 
-(3) A reasonable and customary fee for the administration of the fund may be paid out of theincome earned by the fund to the financial institution with which the fund is established.
+(3) A reasonable and customary fee for the administration of the fund may be paid out of the income earned by the fund to the financial institution with which the fund is established.
 
 (4) Upon payment to all eligible members of the Tribe pursuant to paragraph (2), any amount remaining in the fund shall be utilized in the manner determined by a vote of the members of the Tribe.
 
@@ -44,7 +44,7 @@
 
 #### Use of Funds To Fulfill Board of Trustees’ Fiduciary and Administrative Responsibilities
 
-Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1005, provided: “That income earned on funds appropriated by Public Law 101–121, October 23, 1989, 103 Stat. 701, 715\[,\] for the purposes of section 6(b) of the Puyallup Tribe of Indians Settlement Act of 1989, Public Law 101–41, June 21, 1989, 103 Stat. 83 \[25 U.S.C. 1773d(b)\], may be utilized by the Permanent Trust Fund Board of Trustees to secure necessary and appropriate financial, auditing, accounting, insurance and other administrative services to fulfill the Board of Trustees’ fiduciary and administrative responsibilities: <i>Provided further</i>, That no more than 5 per centum of the income in any year may be utilized for such purposes”.
+Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1005, provided: “That income earned on funds appropriated by Public Law 101–121, October 23, 1989, 103 Stat. 701, 715\[,\] for the purposes of section 6(b) of the PuyallupTribe of Indians Settlement Act of 1989, Public Law 101–41, June 21, 1989, 103 Stat. 83 \[25 U.S.C. 1773d(b)\], may be utilized by the Permanent Trust Fund Board of Trustees to secure necessary and appropriate financial, auditing, accounting, insurance and other administrative services to fulfill the Board of Trustees’ fiduciary and administrative responsibilities: <i>Provided further</i>, That no more than 5 per centum of the income in any year may be utilized for such purposes”.
 
 Similar provisions were contained in the following prior appropriation act:
 

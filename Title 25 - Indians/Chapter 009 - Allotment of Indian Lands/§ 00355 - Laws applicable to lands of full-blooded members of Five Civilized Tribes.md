@@ -34,5 +34,5 @@ Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 11
 
 #### Final Disposition of Affairs of the Five Civilized Tribes
 
-Act Apr. 26, 1906, ch. 1876, 34 Stat. 137, provided in part for membership and enrollment rules; required patents to issue in name of allottee and to be recorded; transferred records of land offices to the clerk of the United States district court; transferred control of tribal schools to Secretary of the Interior; abolished tribal taxes; extended restrictions on alienation of allotted lands; authorized conveyances of inherited lands;authorized disposal of property by will; provided that lands upon dissolution of the tribes be held in trust by the United States; and continued tribal governments.
+Act Apr. 26, 1906, ch. 1876, 34 Stat. 137, provided in part for membership and enrollment rules; required patents to issue in name of allottee and to be recorded; transferred records of land offices to the clerk of the United States district court; transferred control of tribal schools to Secretary of the Interior; abolished tribal taxes; extended restrictions on alienation of allotted lands; authorized conveyances of inherited lands; authorized disposal of property by will; provided that lands upon dissolution of the tribes be held in trust by the United States; and continued tribal governments.
 

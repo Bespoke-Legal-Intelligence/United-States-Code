@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(B) the threat under subsection (a)(6) is directed at the United States.
 
-(d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 oftitle 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
+(d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
 
 (e)(1) The Attorney General may also request assistance from the Secretary of Defense under this subsection in the enforcement of this section. Notwithstanding section 1385 of this title, the Secretary of Defense may, in accordance with other applicable law, provide such assistance to the Attorney General if—
 
@@ -166,7 +166,7 @@ Subsec. (a)(6). Pub. L. 104–132, §502(1)(C), inserted “or to the environmen
 
 Subsec. (c)(2). Pub. L. 104–132, §502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
 
-Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is inuse, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
 
 Subsec. (c)(4). Pub. L. 104–132, §502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
 
@@ -196,7 +196,7 @@ Section 501 of title V of Pub. L. 104–132 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injury as well as substantial damage to property and to the environment;
+&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injuryas well as substantial damage to property and to the environment;
 
 &emsp;“(2) the potential use of nuclear materials, including byproduct materials, enhances the threat posed by terrorist activities and thereby has a greater effect on the security interests of the United States;
 

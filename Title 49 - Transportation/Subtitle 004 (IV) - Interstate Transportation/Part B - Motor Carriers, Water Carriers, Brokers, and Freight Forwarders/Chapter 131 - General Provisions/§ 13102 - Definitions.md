@@ -38,7 +38,7 @@ Foreign motor carrier.—The term “foreign motor carrier” means a person (in
 
 &emsp;&emsp;(ii) that is owned or controlled by persons of a contiguous foreign country; and
 
-&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
+&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
 
 &emsp;(7)
 
@@ -48,7 +48,7 @@ Foreign motor private carrier.—The term “foreign motor private carrier” me
 
 &emsp;&emsp;(ii) that is owned or controlled by persons of a contiguous foreign country; and
 
-&emsp;&emsp;(B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
+&emsp;&emsp;(B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
 
 &emsp;(8)
 
@@ -116,11 +116,11 @@ Individual shipper.—The term “individual shipper” means any person who—
 
 &emsp;(14)
 
-Motor carrier.—The term “motor carrier” means a person providing commercial motor vehicle (as defined in section 31132) transportation for compensation.
+Motor carrier.—The term “motor carrier” means a person providing motor vehicle transportation for compensation.
 
 &emsp;(15)
 
-Motor private carrier.—The term “motor private carrier” means a person, other than a motor carrier, transporting property by commercial motor vehicle (as defined in section 31132) when—
+Motor private carrier.—The term “motor private carrier” means a person, other than a motor carrier, transporting property by motor vehicle when—
 
 &emsp;&emsp;(A) the transportation is as provided in section 13501 of this title;
 
@@ -168,7 +168,7 @@ Taxicab service.—The term “taxicab service” means passenger transportation
 
 Transportation.—The term “transportation” includes—
 
-&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
+&emsp;&emsp;(A) a motor vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kindrelated to the movement of passengers or property, or both, regardless of ownership or an agreement concerning use; and
 
 &emsp;&emsp;(B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 
@@ -184,7 +184,11 @@ Vessel.—The term “vessel” means a watercraft or other artificial contrivan
 
 Water carrier.—The term “water carrier” means a person providing water transportation for compensation.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4142(a), 4202(b), Aug. 10, 2005, 119 Stat. 1747, 1751.)
+&emsp;(27)
+
+Over-the-road bus.—The term “over-the-road bus” means a bus characterized by an elevated passenger deck located over a baggage compartment.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4142(a), 4202(b), Aug. 10, 2005, 119 Stat. 1747, 1751; Pub. L. 110–244, title III, §305(c), June 6, 2008, 122 Stat. 1620; Pub. L. 110–291, §3, July 30, 2008, 122 Stat. 2915.)
 
 #### Historical and Revision Notes
 
@@ -207,6 +211,10 @@ The date of enactment of the Household Goods Mover Oversight Enforcement and Ref
 Provisions similar to those in this section were contained in section 10102 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2008—Pars. (6)(B), (7)(B), (14), (15). Pub. L. 110–244 substituted “motor vehicle” for “commercial motor vehicle (as defined in section 31132)”.
+
+Par. (27). Pub. L. 110–291 added par. (27).
 
 2005—Pars. (6)(B), (7)(B). Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
 
@@ -234,5 +242,5 @@ Pub. L. 109–59, title IV, §4202(c), Aug. 10, 2005, 119 Stat. 1752, provided t
 
 #### Definitions
 
-Pub. L. 109–59, title IV, §4202(a), Aug. 10, 2005, 119 Stat. 1751, provided that: “In this subtitle \[subtitle B\(§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\], the terms ‘carrier’, ‘household goods’, ‘motor carrier’, ‘Secretary’, and ‘transportation’ have the meaning given to such terms in section 13102 of title 49, United States Code.”
+Pub. L. 109–59, title IV, §4202(a), Aug. 10, 2005, 119 Stat. 1751, provided that: “In this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\], the terms ‘carrier’, ‘household goods’, ‘motor carrier’, ‘Secretary’, and ‘transportation’ have the meaning given to such terms in section 13102 of title 49, United States Code.”
 

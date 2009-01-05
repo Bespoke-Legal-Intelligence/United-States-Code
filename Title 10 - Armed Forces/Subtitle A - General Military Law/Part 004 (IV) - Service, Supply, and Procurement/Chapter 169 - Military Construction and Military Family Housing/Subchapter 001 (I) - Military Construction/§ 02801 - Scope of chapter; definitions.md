@@ -1,24 +1,30 @@
 ### §2801. Scope of chapter; definitions
 
-(a) The term “military construction” as used in this chapter or any other provision of law includes any construction, development, conversion, or extension of any kind carried out with respect to a military installation, whether to satisfy temporary or permanent requirements.
+(a) The term “military construction” as used in this chapter or any other provision of law includes any construction, development, conversion, or extension of any kind carried out with respect to a military installation, whether to satisfy temporary or permanent requirements, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23).
 
 (b) A military construction project includes all military construction work, or any contribution authorized by this chapter, necessary to produce a complete and usable facility or a complete and usable improvement to an existing facility (or to produce such portion of a complete and usable facility or improvement as is specifically authorized by law).
 
 (c) In this chapter and chapter 173 of this title:
 
-&emsp;(1) The term “facility” means a building, structure, or other improvement to real property.
+&emsp;(1) The term “appropriate committees of Congress” means the congressional defense committees and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-&emsp;(2) The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
+&emsp;(2) The term “facility” means a building, structure, or other improvement to real property.
 
-&emsp;(3) The term “Secretary concerned” includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
+&emsp;(3) The term “life-cycle cost-effective”, with respect to a project, product, or measure, means that the sum of the present values of investment costs, capital costs, installation costs, energy costs, operating costs, maintenance costs, and replacement costs, as estimated for the lifetime of the project, product, or measure, does not exceed the base case (current or standard) for the practice, product, or measure.
 
-&emsp;(4) The term “appropriate committees of Congress” means the congressional defense committees and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+&emsp;(4) The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
+
+&emsp;(5) The term “Secretary concerned” includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
 
 (d) This chapter (other than sections 2830, 2835, and 2836 of this chapter) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2851(b)(4), Oct. 17, 2006, 120 Stat. 2495.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719; Pub. L. 109–163, div. A, title X, §1056(c)(9), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, §2851(b)(4), Oct. 17, 2006, 120 Stat. 2495; Pub. L. 110–181, div. B, title XXVIII, §2802(b), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(a), Oct. 14, 2008, 122 Stat. 4719.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181 inserted “, or any acquisition of land or construction of a defense access road (as described in section 210 of title 23)” before period at end.
+
+Subsec. (c). Pub. L. 110–417 added par. (3) and redesignated former pars. (4), (1), (2), and (3) as (1), (2), (4), and (5), respectively.
 
 2006—Subsec. (c). Pub. L. 109–364 inserted “and chapter 173 of this title” after “this chapter” in introductory provisions.
 

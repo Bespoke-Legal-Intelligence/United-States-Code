@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the transferor or a person who bears a relationship to the transferor described in section 267(b) or 707(b), and
 
-&emsp;&emsp;&emsp;(ii) which were accumulated during the period or periods such stock was owned by such person while the acquiring corporation was a controlled foreign corporation.
+&emsp;&emsp;&emsp;(ii) which were accumulated during the period or periods such stock was owned bysuch person while the acquiring corporation was a controlled foreign corporation.
 
 #### (B) Regulations
 
@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of all classes of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn ownsat least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
+&emsp;For purposes of this section, control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote, or at least 50 percent of the total value of shares of all classes of stock. If a person (or persons) is in control (within the meaning of the preceding sentence) of a corporation which in turn owns at least 50 percent of the total combined voting power of all stock entitled to vote of another corporation, or owns at least 50 percent of the total value of the shares of all classes of stock of another corporation, then such person (or persons) shall be treated as in control of such other corporation.
 
 #### (2) Stock acquired in the transaction
 

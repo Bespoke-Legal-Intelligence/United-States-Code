@@ -256,7 +256,7 @@
 
 #### (F) Preservation of authority for family trusts
 
-&emsp;&emsp;Subparagraphs (A) and (B) do not apply with respect to any trust that becomes asavings and loan holding company with respect to a savings association, if—
+&emsp;&emsp;Subparagraphs (A) and (B) do not apply with respect to any trust that becomes a savings and loan holding company with respect to a savings association, if—
 
 &emsp;&emsp;&emsp;(i) not less than 85 percent of the beneficial ownership interests in the trust are continuously owned, directly or indirectly, by or for the benefit of members of the same family, or their spouses, who are lineal descendants of common ancestors who controlled, directly or indirectly, such savings association on May 4, 1999, or a subsequent date, pursuant to an application pending before the Office on or before May 4, 1999; and
 
@@ -334,7 +334,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 #### (B) Treatment of certain holding companies
 
-&emsp;&emsp;If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) of this section to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection\(<i>l</i>) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i) of this section.
+&emsp;&emsp;If any individual referred to in subparagraph (A) controls more than 1 savings and loan holding company or more than 1 savings association, any savings and loan holding company controlled by such individual shall be subject to the activities limitations contained in subsection (c) of this section to the same extent such limitations apply to multiple savings and loan holding companies, unless all or all but 1 of the savings associations (including any institution deemed to be a savings association under subsection (<i>l</i>) of this section) controlled directly or indirectly by such individual was acquired pursuant to an acquisition described in subclause (I) or (II) of subsection (c)(3)(B)(i) of this section.
 
 #### (5) Acquisitions pursuant to certain security interests
 
@@ -344,7 +344,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;Shares described in clause (iii)(VII) of paragraph (1)(A) shall not be excluded for purposes of clause (iii) of such paragraph if—
 
-&emsp;&emsp;(A) all shares held under such clause (iii)(VII) by all insurance company affiliates of such savings association or savings and loan holding company in the aggregate exceed 5 percent of all outstanding shares or of the voting power of the savings association or savings and loan holding company; or
+&emsp;&emsp;(A) all shares held under such clause (iii)(VII) by all insurance company affiliatesof such savings association or savings and loan holding company in the aggregate exceed 5 percent of all outstanding shares or of the voting power of the savings association or savings and loan holding company; or
 
 &emsp;&emsp;(B) such shares are acquired or retained with a view to acquiring, exercising, or transferring control of the savings association or savings and loan holding company.
 
@@ -370,11 +370,11 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 #### (4) Injunctions
 
-&emsp;Whenever it appears to the Director that any person is engaged or has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this section or of any regulation or order thereunder, the Director may bring an action in the proper United States district court, or the United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce compliance with this section or any regulation or order, or to requirethe divestiture of any acquisition in violation of this section, or for any combination of the foregoing, and such courts shall have jurisdiction of such actions. Upon a proper showing an injunction, decree, restraining order, order of divestiture, or other appropriate order shall be granted without bond.
+&emsp;Whenever it appears to the Director that any person is engaged or has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this section or of any regulation or order thereunder, the Director may bring an action in the proper United States district court, or the United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, to enforce compliance with this section or any regulation or order, or to require the divestiture of any acquisition in violation of this section, or for any combination of the foregoing, and such courts shall have jurisdiction of such actions. Upon a proper showing an injunction, decree, restraining order, order of divestiture, or other appropriate order shall be granted without bond.
 
 #### (5) Cease and desist orders
 
-&emsp;(A) Notwithstanding any other provision of this section, the Director may, whenever the Director has reasonable cause to believe that the continuation by a savings and loan holding company of any activity or of ownership or control of any of its noninsured subsidiaries constitutes a serious risk to the financial safety, soundness, or stability of a savings and loan holding company's subsidiary savings association and is inconsistent with the sound operation of a savings association or with the purposes of this section or section 1818 of this title, order the savings and loan holding company or any of its subsidiaries, after due notice and opportunity for hearing, to terminate such activities or to terminate (within 120 days or such longer period as the Director directs in unusual circumstances) its ownership or control of any such noninsured subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the savings and loan holding company. Such distribution shall be pro rata with respect to all of the shareholders of the distributing savings and loan holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
+&emsp;(A) Notwithstanding any other provision of this section, the Director may, whenever the Director has reasonable cause to believe that the continuation by a savings and loan holding company of any activity or of ownership or control of any of its noninsured subsidiaries constitutes a serious risk to the financial safety, soundness, or stability of a savings and loan holding company's subsidiary savings association and is inconsistent with the sound operation of a savings association or with the purposes of this section or section 1818 of this title, order the savings and loan holding company or any of its subsidiaries, after due notice and opportunity for hearing, to terminate such activities or to terminate (within 120 days or such longer period as the Director directs in unusual circumstances) its ownership or control of any such noninsured subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the savings and loan holding company. Such distribution shall be pro rata with respect to all of the shareholders of the distributing savingsand loan holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
 &emsp;(B) The Director may in the Director's discretion apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j) of this section, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
@@ -538,7 +538,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (E) Exemption for specialized savings associations serving certain military personnel
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a savings association subsidiary of a savings and loan holding company if at least 90 percentof the customers of the savings and loan holding company and its subsidiaries and affiliates are active or former members in the United States military services or the widows, widowers, divorced spouses, or current or former dependents of such members.
+&emsp;&emsp;Subparagraph (A) shall not apply to a savings association subsidiary of a savings and loan holding company if at least 90 percent of the customers of the savings and loan holding company and its subsidiaries and affiliates are active or former members in the United States military services or the widows, widowers, divorced spouses, or current or former dependents of such members.
 
 #### (F) Exemption for certain Federal savings associations
 
@@ -608,7 +608,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 &emsp;&emsp;&emsp;&emsp;(III) 200 percent of the dollar amount of loans and investments made to acquire, develop, and construct 1- to 4-family residences the purchase price of which is or is guaranteed to be not greater than 60 percent of the median value of comparable newly constructed 1- to 4-family residences within the local community in which such real estate is located, except that not more than 25 percent of the amount included under this subclause may consist of commercial properties related to the development if those properties are directly related to providing services to residents of the development.
 
-&emsp;&emsp;&emsp;&emsp;(IV) 200 percent of the dollar amount of loans for the acquisition or improvement of residential real property, churches, schools, and nursing homes located within, and loans for any other purpose to any small businesses located within anyarea which has been identified by the Director, in connection with any review or examination of community reinvestment practices, as a geographic area or neighborhood in which the credit needs of the low- and moderate-income residents of such area or neighborhood are not being adequately met.
+&emsp;&emsp;&emsp;&emsp;(IV) 200 percent of the dollar amount of loans for the acquisition or improvement of residential real property, churches, schools, and nursing homes located within, and loans for any other purpose to any small businesses located within any area which has been identified by the Director, in connection with any review or examination of community reinvestment practices, as a geographic area or neighborhood in which the credit needs of the low- and moderate-income residents of such area or neighborhood are not being adequately met.
 
 &emsp;&emsp;&emsp;&emsp;(V) Loans for the purchase or construction of churches, schools, nursing homes, and hospitals, other than those qualifying under clause (IV), and loans for the improvement and upkeep of such properties.
 
@@ -806,7 +806,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 &emsp;&emsp;(B) Acquiring a mutual association through the merger of such association into a savings association subsidiary of such holding company or an interim savings association subsidiary of such holding company.
 
-&emsp;&emsp;(C) Subject to paragraph (6), merging with or acquiring another holding company, one of whose subsidiaries is a savings association.
+&emsp;&emsp;(C) Subject to paragraph (6), merging with or acquiring another holding company, oneof whose subsidiaries is a savings association.
 
 &emsp;&emsp;(D) Investing in a corporation the capital stock of which is available for purchase by a savings association under Federal law or under the law of any State where the subsidiary savings association or associations have their home offices.
 
@@ -1242,7 +1242,7 @@ In general.—In the case of a company that—
 
 &emsp;“(B) controlled a subsidiary on May 4, 1999, that had submitted an application to the Director on September 2, 1998;
 
-> the company (including any subsidiary controlled by such company as of such date of enactment \[Nov. 12,1999\]) shall be treated as having filed such conversion application with the Director before May 4, 1999, for purposes of section 10(c)(9)(C) of the Home Owners’ Loan Act \[12 U.S.C. 1467a(c)(9)(C)\] (as added by subsection (a)).
+> the company (including any subsidiary controlled by such company as of such date of enactment \[Nov. 12, 1999\]) shall be treated as having filed such conversion application with the Director before May 4, 1999, for purposes of section 10(c)(9)(C) of the Home Owners’ Loan Act \[12 U.S.C. 1467a(c)(9)(C)\] (as added by subsection (a)).
 
 “(2)
 
@@ -1254,7 +1254,7 @@ Section 303(c) of Pub. L. 101–73 provided that: “If, as of June 30, 1991, an
 
 #### Capital Recovery; Submission of Proposed Regulations to Congress; Effective Date; Study, Report, and Congressional Review
 
-Section 404(c)–(e) of Pub. L. 100–86 required the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to each submit a report to Congress containing the proposed regulations required to be prescribed under 12 U.S.C. 1467a and 1730i of this title not later than the end of the 90-day period beginning on Aug. 10, 1987; required the regulations to be implemented not later than the end of the 150-day period beginning on Aug. 10, 1987; and required, not later than Jan. 31, 1989, a detailed evaluation of, and report the effectiveness of, the regulations in achieving an increased level of capitalization for thrift institutions.
+Section 404(c)–(e) of Pub. L. 100–86 required the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation to each submit a report to Congress containing the proposed regulations required to be prescribed under 12 U.S.C. 1467a and 1730i of this title not later than the end of the 90-day period beginning on Aug. 10, 1987; required the regulations to be implemented not later than the end of the 150-dayperiod beginning on Aug. 10, 1987; and required, not later than Jan. 31, 1989, a detailed evaluation of, and report the effectiveness of, the regulations in achieving an increased level of capitalization for thrift institutions.
 
 #### Sunset and Savings Provision
 

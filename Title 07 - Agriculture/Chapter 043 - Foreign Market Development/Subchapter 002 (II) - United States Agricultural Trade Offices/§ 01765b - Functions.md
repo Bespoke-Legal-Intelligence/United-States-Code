@@ -14,17 +14,25 @@ The functions of each United States Agricultural Trade Office shall be to—
 
 &emsp;(6) originate and provide assistance for exhibits, sales teams, and other functions for the promotion of United States agricultural commodities;
 
-&emsp;(7) provide practical assistance for the use of the programs under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the export credit sales program, the export incentives program, and related programs of the United States Government where use of such programs will serve as a market development tool for United States agriculture;
+&emsp;(7) provide practical assistance for the use of the programs under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the export credit sales program, the export incentives program, and related programs of the United States Government where use of such programs will serve as a market development tool for United States agriculture;
 
 &emsp;(8) supervise project agreements with United States cooperators, coordinate the activities of the United States Agricultural Trade Office with those of the cooperators, and submit annual recommendations to the Secretary of Agriculture on the efficacy of cooperator programs;
 
 &emsp;(9) publicize the services offered by the United States Agricultural Trade Office through advertisements in trade journals or by other appropriate means; and
 
-&emsp;(10) perform such other functions as the Secretary of Agriculture, in consultation with theSecretary of State, determines to be necessary and proper for achieving the purposes of this subchapter.
+&emsp;(10) perform such other functions as the Secretary of Agriculture, in consultation with the Secretary of State, determines to be necessary and proper for achieving the purposes of this subchapter.
 
-(Aug. 28, 1954, ch. 1041, title VI, §605B, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1689.)
+(Aug. 28, 1954, ch. 1041, title VI, §605B, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1689; amended Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(H), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in par. (7), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in par. (7), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+
+#### Amendments
+
+2008—Par. (7). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

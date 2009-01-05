@@ -32,7 +32,7 @@
 
 #### (2) Recruitment and retention grants
 
-&emsp;In addition to any amounts transferred under paragraph (1)(H), the Administrator shall direct at least 10 percent of the total amount of funds appropriated pursuant to this section annually to a competitive grant program for the recruitment and retention of volunteer firefighters who are involved with or trained in the operations of firefighting andemergency response. Eligible entities shall include volunteer or combination fire departments, and organizations on a local or statewide basis that represent the interests of volunteer firefighters.
+&emsp;In addition to any amounts transferred under paragraph (1)(H), the Administrator shall direct at least 10 percent of the total amount of funds appropriated pursuant to this section annually to a competitive grant program for the recruitment and retention of volunteer firefighters who are involved with or trained in the operations of firefighting and emergency response. Eligible entities shall include volunteer or combination fire departments, and organizations on a local or statewide basis that represent the interests of volunteer firefighters.
 
 #### (b) Applications
 
@@ -112,7 +112,7 @@ There are authorized to be appropriated for the purposes of carrying out this se
 
 Section 203(y) of title 29, referred to in subsec. (h)(1), was in the original “section 3(y) of the Fair Labor Standards Act” and has been translated as reading “section 3(y) of the Fair Labor Standards Act of 1938” to reflect the probable intent of Congress.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (h)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally tochapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (h)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

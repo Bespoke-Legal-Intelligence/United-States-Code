@@ -28,7 +28,7 @@
 
 &emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
 
-> The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
+> The failure to perform any acts described in the preceding sentence is evidence of absence ofgood faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
 (4)(A) For purposes of this subsection, a “request for disclosure” means a written request made to a person then engaged in the manufacture of a product to identify all process patents owned by or licensed to that person, as of the time of the request, that the person then reasonably believes could be asserted to be infringed under section 271(g) if that product were imported into, or sold, offered for sale, or used in, the United States by an unauthorized person. A request for disclosure is further limited to a request—
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
-&emsp;(iii) which includes a representation by the person making the request that such personwill promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
@@ -74,7 +74,7 @@
 
 &emsp;(G) the term “State” shall mean any state <sup>1</sup> or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale,importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
+(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
 
 &emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
 

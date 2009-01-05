@@ -108,7 +108,7 @@ Agency Program.—Each agency shall develop, document, and implement an agencywi
 
 &emsp;&emsp;&emsp;(iii) any other agency or office, in accordance with law or as directed by the President; and
 
-&emsp;(8) plans and procedures to ensure continuity of operations for information systems thatsupport the operations and assets of the agency.
+&emsp;(8) plans and procedures to ensure continuity of operations for information systems that support the operations and assets of the agency.
 
 (c)
 

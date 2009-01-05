@@ -36,7 +36,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, the terms “required installment” and “due date” have the same meanings given such terms by section 1083(j) of this title.
+&emsp;For purposes of this subsection, the terms “required installment” and “due date” havethe same meanings given such terms by section 1083(j) of this title.
 
 #### (e) Notice of transfer of excess pension assets to health benefits accounts
 
@@ -84,11 +84,11 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(ii)(I) in the case of a single-employer plan, a statement of—
 
-&emsp;&emsp;&emsp;&emsp;(aa) the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under section 1083 of this title, for the plan year for which the latest annual report filed under section 1024(a) of this title was filed and for the 2 preceding plan years, as reported in the annual report for each such plan year, and
+&emsp;&emsp;&emsp;&emsp;(aa) the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under section 1083 of this title, for the plan year to which the notice relates and for the 2 preceding plan years, as reported in the annual report for each such plan year, and
 
 &emsp;&emsp;&emsp;&emsp;(bb) the value of the plan's assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation under subclause (II) of section 1306(a)(3)(E)(iii) of this title and the interest rate under section 1306(a)(3)(E)(iv) of this title, and
 
-&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement of the value of the plan's assets and liabilities for the plan year to which the notice relates as the last day of such plan year and the preceding 2 plan years,
+&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) of this title shall be used),
 
 &emsp;&emsp;&emsp;(iii) a statement of the number of participants who are—
 
@@ -106,7 +106,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(II) a summary of any funding improvement plan, rehabilitation plan, or modification thereof adopted under section 1085 of this title during the plan year to which the notice relates,
 
-&emsp;&emsp;&emsp;(vi) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for theyear (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+&emsp;&emsp;&emsp;(vi) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
 
 &emsp;&emsp;&emsp;(vii)(I) in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
 
@@ -240,7 +240,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (A) In general
 
-&emsp;&emsp;The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, or restricted, if such suspension, limitation, or restriction is for any period of more than 3 consecutive business days.
+&emsp;&emsp;The term “blackout period” means, in connection with an individual account plan, any period for which any ability of participants or beneficiaries under the plan, which is otherwise available under the terms of such plan, to direct or diversify assets credited to their accounts, to obtain loans from the plan, or to obtain distributions from the plan is temporarily suspended, limited, orrestricted, if such suspension, limitation, or restriction is for any period of more than 3 consecutive business days.
 
 #### (B) Exclusions
 
@@ -260,15 +260,11 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (B) One-participant retirement plan
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “one-participant retirement plan” means a retirement plan that—
+&emsp;&emsp;For purposes of subparagraph (A), the term “one-participant retirement plan” means a retirement plan that on the first day of the plan year—
 
-&emsp;&emsp;&emsp;(i) on the first day of the plan year—
+&emsp;&emsp;&emsp;(i) covered only one individual (or the individual and the individual's spouse) and the individual (or the individual and the individual's spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
 
-&emsp;&emsp;&emsp;&emsp;(I) covered only one individual (or the individual and the individual's spouse) and the individual (or the individual and the individual's spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
-
-&emsp;&emsp;&emsp;&emsp;(II) covered only one or more partners (or partners and their spouses) in the plan sponsor, and
-
-&emsp;&emsp;&emsp;(ii) does not cover a business that leases employees.
+&emsp;&emsp;&emsp;(ii) covered only one or more partners (or partners and their spouses) in the plan sponsor.
 
 #### (j) Notice of funding-based limitation on certain forms of distribution
 
@@ -276,11 +272,11 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title),<sup>2</sup>
 
-&emsp;(2) in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(B) of this title for which the plan's adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title), and
+&emsp;(2) in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(A) of this title for which the plan's adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title), and
 
 &emsp;(3) at such other time as may be determined by the Secretary of the Treasury.
 
-> The notice required to be provided under this subsection shall be in writing, except that such notice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient.
+> The notice required to be provided under this subsection shall be in writing, except that such notice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient. The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection.
 
 #### (k) Multiemployer plan information made available on request
 
@@ -308,9 +304,11 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;&emsp;(ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
 
+> &emsp;Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).
+
 #### (3) Limitations
 
-&emsp;In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1). The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
+&emsp;In no case shall a participant, beneficiary, or employer be entitled under this subsection to receive more than one copy of any report or application described in paragraph (1) during any one 12-month period. The administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to paragraph (1).The Secretary may by regulations prescribe the maximum amount which will constitute a reasonable charge under the preceding sentence.
 
 #### (<i>l</i>) Notice of potential withdrawal liability
 
@@ -354,13 +352,31 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105.)
 
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
 
 #### Amendments
+
+2008—Subsec. (f)(2)(B)(ii)(I)(aa). Pub. L. 110–458, §105(a)(1), substituted “to which the notice relates” for “for which the latest annual report filed under section 1024(a) of this title was filed”.
+
+Subsec. (f)(2)(B)(ii)(II). Pub. L. 110–458, §105(a)(2), added subcl. (II) and struck out former subcl. (II) which read as follows: “in the case of a multiemployer plan, a statement of the value of the plan's assets and liabilities for the plan year to which the notice relates as the last day of such plan year and the preceding 2 plan years,”.
+
+Subsec. (i)(8)(B). Pub. L. 110–458, §105(g), amended subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘one-participant retirement plan’ means a retirement plan that—
+
+&emsp;“(i) on the first day of the plan year—
+
+&emsp;&emsp;“(I) covered only one individual (or the individual and the individual's spouse) and the individual (or the individual and the individual's spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
+
+&emsp;&emsp;“(II) covered only one or more partners (or partners and their spouses) in the plan sponsor, and
+
+&emsp;“(ii) does not cover a business that leases employees.”
+
+Subsec. (j). Pub. L. 110–458, §101(c)(1)(A), substituted “section 1056(g)(4)(A)” for “section 1056(g)(4)(B)” in par. (2) and inserted “The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection.” in concluding provisions.
+
+Subsec. (k)(2). Pub. L. 110–458, §105(b)(1), inserted concluding provisions.
 
 2006—Subsec. (a)(2). Pub. L. 109–280, §503(c)(2), inserted “subsection (f) and” after “described in”.
 
@@ -442,9 +458,13 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer m
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title I, §103(c), Aug. 17, 2006, 120 Stat. 816, provided that:
+Pub. L. 109–280, title I, §103(c), Aug. 17, 2006, 120 Stat. 816, as amended by Pub. L. 110–458, title I, §101(c)(3), Dec. 23, 2008, 122 Stat. 5098, provided that:
 
 “(1)
 
@@ -458,7 +478,7 @@ Collective bargaining exception.—In the case of a plan maintained pursuant to 
 
 &emsp;&emsp;“(i) the date on which the last collective bargaining agreement relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Aug. 17, 2006\]), or
 
-&emsp;&emsp;“(ii) the first day of the first plan year to which the amendments made by this subsection \[probably should be “section”\] would (but for this subparagraph) apply, or
+&emsp;&emsp;“(ii) the first day of the first plan year to which the amendments made by this section would (but for this paragraph) apply, or
 
 &emsp;“(B) January 1, 2010.
 
@@ -470,7 +490,7 @@ Pub. L. 109–280, title V, §501(d), Aug. 17, 2006, 120 Stat. 939, provided tha
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2007, except that the amendment made by subsection (b) \[repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2006.
+In general.—The amendments made by this section \[amending this section and repealing section 1311 of this title\] shall apply to plan years beginning afterDecember 31, 2007, except that the amendment made by subsection (b) \[repealing section 1311 of this title\] shall apply to plan years beginning after December 31, 2006.
 
 “(2)
 
@@ -516,7 +536,7 @@ Pub. L. 105–200, title IV, §401(h)(1)(B), July 16, 1998, 112 Stat. 668, provi
 
 Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
 
-Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
+Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
@@ -556,7 +576,7 @@ Section 9304(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII
 
 Pub. L. 109–280, title V, §502(a)(3), Aug. 17, 2006, 120 Stat. 940, provided that: “The Secretary shall prescribe regulations under section 101(k)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(k)(2)\] (as added by paragraph (1)) not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: “The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments made by this section \[amending this section and section 1132 of this title\].”
+Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: “The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments madeby this section \[amending this section and section 1132 of this title\].”
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
@@ -568,7 +588,7 @@ For special rules on applicability of amendments by subtitles A (§§101–107) 
 
 Pub. L. 109–280, title V, §501(c), Aug. 17, 2006, 120 Stat. 939, provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model version of the notice required by section 101(f) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)\]. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection.”
 
-Pub. L. 109–280, title V, §503(e), Aug. 17, 2006, 120 Stat. 945, provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model form for providing the statements, schedules, and other material required to be provided under section 101(f) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1021(f)\], as amended by this section. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection.”
+Pub. L. 109–280, title V, §503(e), Aug. 17, 2006, 120 Stat. 945, as amended by Pub. L. 110–458, title I, §105(c)(2), Dec. 23, 2008, 122 Stat. 5105, provided that: “Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish a model form for providing the statements, schedules, and other material required to be provided under section 104(d) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1024(d)\], as amended by this section. The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection.”
 
 Pub. L. 109–280, title V, §507(c), Aug. 17, 2006, 120 Stat. 949, provided that: “The Secretary of the Treasury shall, within 180 days after the date of the enactment of this subsection \[Aug. 17, 2006\], prescribe a model notice for purposes of satisfying the requirements of the amendments made by this section \[amending this section and section 1132 of this title\].”
 

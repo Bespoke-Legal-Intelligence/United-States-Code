@@ -34,7 +34,7 @@ The specific choices on the methods of complying with the elements of a State pl
 
 #### (d) Timing for filing of certification
 
-A State may not file a statement of certification under subsection (a) of this section until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date the State plan under this part is published in the Federal Register pursuant to section 15405(b) of this title.
+A State may not file a statement of certification under subsection (a) of this section untilthe expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date the State plan under this part is published in the Federal Register pursuant to section 15405(b) of this title.
 
 #### (e) Chief State election official defined
 

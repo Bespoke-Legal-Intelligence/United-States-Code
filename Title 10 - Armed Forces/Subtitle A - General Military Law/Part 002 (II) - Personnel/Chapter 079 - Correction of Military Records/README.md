@@ -6,6 +6,7 @@
 | [1552\.](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md) | Correction of military records: claims incident thereto. |
 | [1553\.](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md) | Review of discharge or dismissal. |
 | [1554\.](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md) | Review of retirement or separation without pay for physical disability. |
+| [1554a.](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md) | Review of separation with disability rating of 20 percent disabled or less. |
 | [1555\.](%C2%A7%2001555%20-%20Professional%20staff.md) | Professional staff. |
 | [1556\.](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md) | Ex parte communications prohibited. |
 | [1557\.](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md) | Timeliness standards for disposition of applications before Corrections Boards. |
@@ -15,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XVI, §1643(a)(2), Jan. 28, 2008, 122 Stat. 467, added item 1554a.
 
 2002—Pub. L. 107–314, div. A, title V, §552(b), Dec. 2, 2002, 116 Stat. 2552, added item 1559.
 
@@ -35,6 +38,7 @@
 - [&sect; 01552 - Correction of military records claims incident thereto](%C2%A7%2001552%20-%20Correction%20of%20military%20records%20claims%20incident%20thereto.md)
 - [&sect; 01553 - Review of discharge or dismissal](%C2%A7%2001553%20-%20Review%20of%20discharge%20or%20dismissal.md)
 - [&sect; 01554 - Review of retirement or separation without pay for physical disability](%C2%A7%2001554%20-%20Review%20of%20retirement%20or%20separation%20without%20pay%20for%20physical%20disability.md)
+- [&sect; 01554a - Review of separation with disability rating of 20 percent disabled or less](%C2%A7%2001554a%20-%20Review%20of%20separation%20with%20disability%20rating%20of%2020%20percent%20disabled%20or%20less.md)
 - [&sect; 01555 - Professional staff](%C2%A7%2001555%20-%20Professional%20staff.md)
 - [&sect; 01556 - Ex parte communications prohibited](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md)
 - [&sect; 01557 - Timeliness standards for disposition of applications before Corrections Boards](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md)

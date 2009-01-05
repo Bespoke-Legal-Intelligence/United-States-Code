@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—The advertised specifications for every contract in excess of $2,000, towhich the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
+Application.—The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
 
 (b)
 
@@ -12,7 +12,7 @@ Based on Prevailing Wage.—The minimum wages shall be based on the wages the Se
 
 Stipulations Required in Contract.—Every contract based upon the specifications referred to in subsection (a) must contain stipulations that—
 
-&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directly on the site of the work, unconditionally and at least once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
+&emsp;(1) the contractor or subcontractor shall pay all mechanics and laborers employed directlyon the site of the work, unconditionally and at least once a week, and without subsequent deduction or rebate on any account, the full amounts accrued at time of payment, computed at wage rates not less than those stated in the advertised specifications, regardless of any contractual relationship which may be alleged to exist between the contractor or subcontractor and the laborers and mechanics;
 
 &emsp;(2) the contractor will post the scale of wages to be paid in a prominent and easily accessible place at the site of the work; and
 

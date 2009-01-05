@@ -20,7 +20,7 @@ Binding contracts.—
 
 &emsp;“(A)
 
-In general.—The amendments made by this section shall not apply to any sale or exchange pursuant to a written contract which was binding on January 16, 1995, and at all times thereafter before the saleor exchange, if the FCC tax certificate with respect to such sale or exchange was applied for, or issued, on or before such date.
+In general.—The amendments made by this section shall not apply to any sale or exchange pursuant to a written contract which was binding on January 16, 1995, and at all times thereafter before the sale or exchange, if the FCC tax certificate with respect to such sale or exchange was applied for, or issued, on or before such date.
 
 &emsp;“(B)
 

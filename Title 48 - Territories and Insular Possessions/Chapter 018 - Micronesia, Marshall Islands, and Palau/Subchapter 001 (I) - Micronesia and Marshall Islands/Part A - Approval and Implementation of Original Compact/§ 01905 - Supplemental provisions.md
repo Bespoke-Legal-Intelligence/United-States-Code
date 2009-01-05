@@ -96,7 +96,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (2) Palau
 
-&emsp;Upon the effective date of the Compact, the laws of the United States generally applicableto the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
+&emsp;Upon the effective date of the Compact, the laws of the United States generally applicable to the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
 
 #### (3) Section 219 determination
 
@@ -162,7 +162,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (p) Trust funds
 
-The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
+The responsibilities of the United States with regard to implementation of section 235 of theCompact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### (q) Omitted
 
@@ -184,7 +184,7 @@ Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423,
 
 The Foreign Agents Registration Act of 1938, referred to in subsec. (f)(1), (2), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (h)(4)(B), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, wassubstantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (h)(4)(B), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Public Law 95–134, referred to in subsec. (h)(4)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 

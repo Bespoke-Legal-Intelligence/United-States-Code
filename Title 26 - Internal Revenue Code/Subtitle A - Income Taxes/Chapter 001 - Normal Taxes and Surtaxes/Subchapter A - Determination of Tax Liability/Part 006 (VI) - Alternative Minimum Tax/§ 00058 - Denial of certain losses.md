@@ -96,7 +96,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Applicability of 1986 Repeal
 
-Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: “The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 \[Pub. L. 99–514\] shall be effective only with respect to items of tax preference arising in taxable years beginning after December 31, 1986.”
+Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: “The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 \[Pub. L. 99–514\] shall be effectiveonly with respect to items of tax preference arising in taxable years beginning after December 31, 1986.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

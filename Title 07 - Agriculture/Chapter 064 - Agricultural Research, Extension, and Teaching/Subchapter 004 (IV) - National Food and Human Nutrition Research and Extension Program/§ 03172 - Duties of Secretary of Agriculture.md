@@ -4,7 +4,7 @@ In order to carry out the policy of this subchapter, the Secretary shall develop
 
 &emsp;(1) research on human nutritional requirements;
 
-&emsp;(2) research on the nutrient composition of foods and the effects of agricultural practices, handling, food processing, and cooking on the nutrients they contain;
+&emsp;(2) research on the nutrient composition of foods and the effects of agricultural practices,handling, food processing, and cooking on the nutrients they contain;
 
 &emsp;(3) surveillance of the nutritional benefits provided to participants in the food programs administered by the Department of Agriculture;
 

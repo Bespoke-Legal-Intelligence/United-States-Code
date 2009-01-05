@@ -12,7 +12,7 @@
 
 &emsp;(B) the average monthly balance in the prisoner's account for the 6-month period immediately preceding the filing of the complaint or notice of appeal.
 
-(2) After payment of the initial partial filing fee, the prisoner shall be required to makemonthly payments of 20 percent of the preceding month's income credited to the prisoner's account. The agency having custody of the prisoner shall forward payments from the prisoner's account to the clerk of the court each time the amount in the account exceeds $10 until the filing fees are paid.
+(2) After payment of the initial partial filing fee, the prisoner shall be required to make monthly payments of 20 percent of the preceding month's income credited to the prisoner's account. The agency having custody of the prisoner shall forward payments from the prisoner's account to the clerk of the court each time the amount in the account exceeds $10 until the filing fees are paid.
 
 (3) In no event shall the filing fee collected exceed the amount of fees permitted by statute for the commencement of a civil action or an appeal of a civil action or criminal judgment.
 

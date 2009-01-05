@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) the funds that are allotted to the State for adult employment and training activities and statewide workforce investment activities under section 2862(b)(1)(B) of this title and are not reserved under subsection (a)(1) of this section, in accordance with paragraph (2) or (3); and
 
-&emsp;&emsp;(B) the funds that are allotted to the State for dislocated worker employment and training activities under section 2862(b)(2)(B) of this title and are not reserved under paragraph (1) or (2) of subsection (a) of this section, in accordance with paragraph (2).
+&emsp;&emsp;(B) the funds that are allotted to the State for dislocated worker employment and training activities under section 2862(b)(2)(B) ofthis title and are not reserved under paragraph (1) or (2) of subsection (a) of this section, in accordance with paragraph (2).
 
 #### (2) Formula allocations
 
@@ -46,7 +46,7 @@
 
 #### (i) Formula
 
-&emsp;&emsp;&emsp;In allocating the funds described in paragraph (1)(B) to local areas, a State shall allocate the funds based on an allocation formula prescribed by the Governor of theState. Such formula may be amended by the Governor not more than once for each program year. Such formula shall utilize the most appropriate information available to the Governor to distribute amounts to address the State's worker readjustment assistance needs.
+&emsp;&emsp;&emsp;In allocating the funds described in paragraph (1)(B) to local areas, a State shall allocate the funds based on an allocation formula prescribed by the Governor of the State. Such formula may be amended by the Governor not more than once for each program year. Such formula shall utilize the most appropriate information available to the Governor to distribute amounts to address the State's worker readjustment assistance needs.
 
 #### (ii) Information
 
@@ -100,7 +100,7 @@
 
 #### (ii) Dislocated workers
 
-&emsp;&emsp;&emsp;Funds allocated under paragraph (2)(B) shall be used by a local area to contribute proportionately to the costs of the one-stop delivery system described in section 2864(c) of this title in the local area, and to pay for employment and training activities provided to dislocated workers in the local area, consistent with section 2864 of this title.
+&emsp;&emsp;&emsp;Funds allocated under paragraph (2)(B) shall be used by a local area to contributeproportionately to the costs of the one-stop delivery system described in section 2864(c) of this title in the local area, and to pay for employment and training activities provided to dislocated workers in the local area, consistent with section 2864 of this title.
 
 #### (c) Reallocation among local areas
 

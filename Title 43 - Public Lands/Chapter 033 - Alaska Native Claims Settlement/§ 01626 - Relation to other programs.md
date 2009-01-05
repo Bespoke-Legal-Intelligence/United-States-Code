@@ -4,15 +4,15 @@
 
 The payments and grants authorized under this chapter constitute compensation for the extinguishment of claims to land, and shall not be deemed to substitute for any governmental programs otherwise available to the Native people of Alaska as citizens of the United States and the State of Alaska.
 
-#### (b) Food stamp program
+#### (b) Supplemental nutrition assistance program
 
-Notwithstanding section 5(a) and any other provision of the Food Stamp Act of 1964 (78 Stat. 703), as amended \[7 U.S.C. 2011 et seq.\], in determining the eligibility of any household to participate in the food stamp program, any compensation, remuneration, revenue, or other benefit received by any member of such household under this chapter shall be disregarded.
+Notwithstanding section 5(a) and any other provision of the Food and Nutrition Act of 2008 (78 Stat. 703), as amended \[7 U.S.C. 2011 et seq.\], in determining the eligibility of any household to participate in the supplemental nutrition assistance program, any compensation, remuneration, revenue, or other benefit received by any member of such household under this chapter shall be disregarded.
 
 #### (c) Eligibility for need-based Federal programs
 
 In determining the eligibility of a household, an individual Native, or a descendant of a Native (as defined in section 1602(r) of this title) to—
 
-&emsp;(1) participate in the Food Stamp Program,
+&emsp;(1) participate in the supplemental nutrition assistance program,
 
 &emsp;(2) receive aid, assistance, or benefits, based on need, under the Social Security Act \[42 U.S.C. 301 et seq.\], or
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 (4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
 
-(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
+(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
 
 (C) Any entity that satisfies subsection (e)(1) or (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
 
@@ -62,11 +62,11 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L.107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924; Pub. L. 110–234, title IV, §4002(b)(1)(A), (C), (2)(GG), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (C), (2)(GG), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
-The Food Stamp Act of 1964 (78 Stat. 703), as amended, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, known as the Food Stamp Act of 1977, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a) of such Act is classified section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a) of the Act is classified to section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -78,9 +78,17 @@ The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, J
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, and provided for effective date of such amendment.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(C), (2)(GG), which directed substitution of “Food and Nutrition Act of 2008” for “Food Stamp Act”, was executed by making the substitution for “Food Stamp Act of 1964” to reflect the probable intent of Congress.
+
+Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), substituted “supplemental nutrition assistance program” for “food stamp program”.
+
+Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of “supplemental nutrition assistance program” for “food stamp program”, was executed by making the substitution for “Food Stamp Program” to reflect the probable intent of Congress.
 
 2002—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
 
@@ -97,6 +105,12 @@ Subsec. (c)(3)(B). Pub. L. 105–333, §5(2), inserted before semicolon at end �
 Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from the definition of ‘employer’ by” for “defined in” and “section 701(b)(1)” for “section 701(b)”.
 
 1988—Subsecs. (c) to (g). Pub. L. 100–241 added subsecs. (c) to (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (C), (2)(GG) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

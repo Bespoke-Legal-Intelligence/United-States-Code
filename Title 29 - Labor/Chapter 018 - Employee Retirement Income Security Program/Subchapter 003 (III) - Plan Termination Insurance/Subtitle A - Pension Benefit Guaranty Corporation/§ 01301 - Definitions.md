@@ -40,7 +40,7 @@
 
 &emsp;(7) “non-basic benefits” means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
-&emsp;(8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements ofthis chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
+&emsp;(8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
 
 &emsp;(9) “reorganization index” means the amount determined under section 1421(b) of this title;
 
@@ -116,7 +116,7 @@
 
 (2) For purposes of subtitle E of this subchapter—
 
-&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under aplan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
 
@@ -131,8 +131,6 @@ This chapter, referred to in subsec. (a)(8), was in the original “this Act”,
 Section 412, referred to in subsec. (b)(2)(A), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (c)(10).
 
 #### Codification
-
-Subsec. (a)(8) is set out in this supplement to show a translation not made in the main edition.
 
 In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted for “section 101(3) of the Federal Aviation Act of 1958” and “section 41102 of title 49” substituted for “section 401 of such Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
@@ -162,7 +160,7 @@ In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted 
 
 &emsp;&emsp;“(ii) plant closing benefits,
 
-> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the planto establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;”.
+> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the plan to establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;”.
 
 Subsec. (a)(18). Pub. L. 100–203, §9313(a)(2)(F), amended par. (18) generally. Prior to amendment, par. (18) read as follows: “ ‘amount of unfunded benefit commitments’, of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
 
@@ -184,7 +182,7 @@ Subsec. (a)(14). Pub. L. 99–272, §11004(a)(2)–(4), added par. (14).
 
 Subsec. (a)(15) to (21). Pub. L. 99–272, §11004(a)(2)–(4), added pars. (15) to (21).
 
-Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
+Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck outamendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
 
 1980—Subsec. (a)(2). Pub. L. 96–364, §402(a)(1)(A), inserted provision excepting multiemployer plan.
 

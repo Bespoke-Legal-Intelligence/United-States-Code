@@ -18,7 +18,7 @@
 
 #### (3) Immediate reporting
 
-&emsp;All exporters of agricultural commodities produced in the United States shall, upon request of the Secretary, immediately report to the Secretary any information with respect to export sales of agricultural commodities and at such times as the Secretary may request. When the Secretary requires that such information be reported by exporters on a daily basis, the information compiled from individual reports shall be made available to the public daily.
+&emsp;All exporters of agricultural commodities produced in the United States shall, upon request of the Secretary, immediately report to the Secretary any information with respect toexport sales of agricultural commodities and at such times as the Secretary may request. When the Secretary requires that such information be reported by exporters on a daily basis, the information compiled from individual reports shall be made available to the public daily.
 
 #### (4) Monthly reporting permitted
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall charge and collect from the obligor fees the Secretary considers reasonable for—
+In General.—The Secretary or Administrator shall charge and collect from the obligor fees the Secretary or Administrator considers reasonable for—
 
 &emsp;(1) investigating an application for a guarantee;
 
@@ -20,7 +20,7 @@ Total Fee Limitation.—The total fees under subsection (a) may not exceed 0.5 p
 
 (c)
 
-Fees for Independent Analysis.—The Secretary may charge and collect fees to cover the costs of independent analysis under section 53708(d) of this title. Notwithstanding section 3302 of title 31, any fee collected under this subsection shall—
+Fees for Independent Analysis.—The Secretary or Administrator may charge and collect fees to cover the costs of independent analysis under section 53708(d) of this title. Notwithstanding section 3302 of title 31, any fee collected under this subsection shall—
 
 &emsp;(1) be credited as an offsetting collection to the account that finances the administration of the loan guarantee program;
 
@@ -28,11 +28,7 @@ Fees for Independent Analysis.—The Secretary may charge and collect fees to co
 
 &emsp;(3) remain available until expended.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived from pars. (1) and (4) of section 1274(f) of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1274(f) of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1612; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(D), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -57,4 +53,12 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(1), (4) \[§1104A formerly §1104\]
 53713(c)
 
 46 App.:1274(f)(4).
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D). See 2006 Amendment note below.
+
+Subsecs. (a), (c). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section, by inserting “or Administrator” after “Secretary” wherever appearing in introductory provisions. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+2006—Pub. L. 109–163, §3507(a)(1)(D), which directed the amendment of section 1274(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (a), (c) and Historical and Revision notes above.
 

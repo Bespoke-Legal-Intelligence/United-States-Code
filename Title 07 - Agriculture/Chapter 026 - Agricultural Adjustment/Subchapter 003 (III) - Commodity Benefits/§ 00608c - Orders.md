@@ -6,7 +6,7 @@ The Secretary of Agriculture shall, subject to the provisions of this section, i
 
 #### (2) Commodities to which applicable
 
-Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act \[7 U.S.C. 91 et seq.\] and standards established thereunder (including refined or partially refined oleoresin): <i>Provided</i>, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercialeggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing <sup>1</sup> and apples), or any regional or market classification thereof, not subject to orders under (A) of this subdivision, but not the products (including canned or frozen commodities or products) thereof. No order issued pursuant to this section shall be effective as to cherries, apples, or cranberries for canning or freezing unless the Secretary of Agriculture determines, in addition to other required findings and determinations, that the issuance of such order is approved or favored by processors who, during a representative period determined by the Secretary, have engaged in canning or freezing such commodity for market and have frozen or canned more than 50 per centum of the total volume of the commodity to be regulated which was canned or frozen within the production area, or marketed within the marketing area, defined in such order, during such representative period. No order issued pursuant to this section shall be applicable to peanuts produced in more than one of the following production areas: the Virginia-Carolina production area, the Southeast production area, and the Southwest production area. If the Secretary determines that the declared policy of this chapter will be better achieved thereby (i) the commodities of the same general class and used wholly or in part for the same purposes may be combined and treated as a single commodity and (ii) the portion of an agricultural commodity devoted to or marketed for a particular use or combination of uses, may be treated as a separate agricultural commodity. All agricultural commodities and products covered hereby shall be deemed specified herein for the purposes of subsections (6) and (7) of this section.
+Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act \[7 U.S.C. 91 et seq.\] and standards established thereunder (including refined or partially refined oleoresin): <i>Provided</i>, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing <sup>1</sup> and apples), or any regional or market classification thereof, not subject to orders under (A) of this subdivision, but not the products (including canned or frozen commodities or products) thereof. No order issued pursuant to this section shall be effective as to cherries, apples, or cranberries for canning or freezing unless the Secretary of Agriculture determines, in addition to other required findings and determinations, that the issuance of such order is approved or favored by processors who, during a representative period determined by the Secretary, have engaged in canning or freezing such commodity for market and have frozen or canned more than 50 per centum of the total volume of the commodity to be regulated which was canned or frozen within the production area, or marketed within the marketing area, defined in such order, during such representative period. No order issued pursuant to this section shall be applicable to peanuts produced in more than one of the following production areas: the Virginia-Carolina production area, the Southeast production area, and the Southwest production area. If the Secretary determines that the declared policy of this chapter will be better achieved thereby (i) the commodities of the same general classand used wholly or in part for the same purposes may be combined and treated as a single commodity and (ii) the portion of an agricultural commodity devoted to or marketed for a particular use or combination of uses, may be treated as a separate agricultural commodity. All agricultural commodities and products covered hereby shall be deemed specified herein for the purposes of subsections (6) and (7) of this section.
 
 #### (3) Notice and hearing
 
@@ -216,7 +216,7 @@ $3.24&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> Effective at the beginning of such two-year period, the minimum prices for milk of the highestuse classification shall be adjusted for the locations at which delivery of such milk is made to such handlers.
+> Effective at the beginning of such two-year period, the minimum prices for milk of the highest use classification shall be adjusted for the locations at which delivery of such milk is made to such handlers.
 
 (B) Providing:
 
@@ -224,7 +224,7 @@ $3.24&nbsp;&nbsp;
 
 &emsp;(ii) for the payment to all producers and associations of producers delivering milk to all handlers of uniform prices for all milk so delivered, irrespective of the uses made of such milk by the individual handler to whom it is delivered;
 
-> subject, in either case, only to adjustments for (a) volume, market, and production differentials customarily applied by the handlers subject to such order, (b) the grade or quality of the milk delivered, (c) the locations at which delivery of such milk is made, and (d) a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.,<sup>2</sup> \[(e) omitted\] and (f) a further adjustment, equitably to apportion the total value of milk purchased by any handler or by all handlers among producers on the basis of the milk components contained in their marketings of milk <sup>3</sup>
+> subject, in either case, only to adjustments for (a) volume, market, and production differentials customarily applied by the handlers subject tosuch order, (b) the grade or quality of the milk delivered, (c) the locations at which delivery of such milk is made, and (d) a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.,<sup>2</sup> \[(e) omitted\] and (f) a further adjustment, equitably to apportion the total value of milk purchased by any handler or by all handlers among producers on the basis of the milk components contained in their marketings of milk <sup>3</sup>
 
 (C) In order to accomplish the purposes set forth in paragraphs (A) and (B) of this subsection, providing a method for making adjustments in payments, as among handlers (including producers who are also handlers), to the end that the total sums paid by each handler shall equal the value of the milk purchased by him at the prices fixed in accordance with paragraph (A) of this subsection.
 
@@ -238,7 +238,7 @@ $3.24&nbsp;&nbsp;
 
 (H) Omitted
 
-(I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph <sup>4</sup> may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph <sup>4</sup> and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph <sup>4</sup> shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph <sup>4</sup> may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph <sup>4</sup> shallnot become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B) of this section. Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,<sup>4</sup> and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
+(I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph <sup>4</sup> may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph <sup>4</sup> and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph <sup>4</sup> shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph <sup>4</sup> may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph <sup>4</sup> shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B) of this section. Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,<sup>4</sup> and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
 
 (J) Providing for the payment, from the total sums payable by all handlers for milk (irrespective of the use classification of such milk) and before computing uniform prices under paragraph (A) and making adjustments in payments under paragraph (C), to handlers that are cooperative marketing associations described in paragraph (F) and to handlers with respect to which adjustments in payments are made under paragraph (C), for services of marketwide benefit, including but not limited to—
 
@@ -292,7 +292,7 @@ Covered milk handlers.—Except as provided in clause (iv), clause (i) applies t
 
 &emsp;&emsp;&emsp;(aa) less than 25 percent of the total quantity of fluid milk products physically received at the plant of the handler (excluding concentrated milk received from another plant by agreement for other than Class I use) is disposed of as route disposition or is transferred in the form of packaged fluid milk products to other plants; or
 
-&emsp;&emsp;&emsp;(bb) less than 25 percent in aggregate of the route disposition or transfers are in a marketing area or areas located in one ormore States that require handlers to pay minimum prices for raw milk purchases.
+&emsp;&emsp;&emsp;(bb) less than 25 percent in aggregate of the route disposition or transfers are in a marketing area or areas located in one or more States that require handlers to pay minimum prices for raw milk purchases.
 
 (N)
 
@@ -306,7 +306,7 @@ Rule of Construction Regarding Producer-Handlers.—Subparagraphs (M) and (N) sh
 
 In the case of the agricultural commodities and the products thereof, other than milk and its products, specified in subsection (2) of this section orders issued pursuant to this section shall contain one or more of the following terms and conditions, and (except as provided in subsection (7) of this section), no others:
 
-(A) Limiting, or providing methods for the limitation of, the total quantity of any such commodity or product, or of any grade, size, or quality thereof, produced during any specified period or periods, which may be marketed in or transported to any or all markets in the current of interstate or foreign commerce or so as directly to burden, obstruct, or affect interstate or foreign commerce in such commodity or product thereof, during any specified period or periods by all handlers thereof.
+(A) Limiting, or providing methods for the limitation of, the total quantity of any such commodity or product, or of any grade, size, or quality thereof, produced during any specifiedperiod or periods, which may be marketed in or transported to any or all markets in the current of interstate or foreign commerce or so as directly to burden, obstruct, or affect interstate or foreign commerce in such commodity or product thereof, during any specified period or periods by all handlers thereof.
 
 (B) Allotting, or providing methods for allotting, the amount of such commodity or product, or any grade, size, or quality thereof, which each handler may purchase from or handle on behalf of any and all producers thereof, during any specified period or periods, under a uniform rule based upon the amounts sold by such producers in such prior period as the Secretary determines to be representative, or upon the current quantities available for sale by such producers, or both, to the end that the total quantity thereof to be purchased, or handled during any specified period or periods shall be apportioned equitably among producers.
 
@@ -324,7 +324,7 @@ In the case of the agricultural commodities and the products thereof, other than
 
 &emsp;(ii) Apportioning, or providing methods for apportioning, the total quantity of hops of the production of the then current calendar year permitted to be handled equitably among all producers in the production area to which the order applies upon the basis of one or more or a combination of the following: The total quantity of hops available or estimated will become available for market by each producer from his production during such period; the normal production of the acreage of hops operated by each producer during such period upon the basis of the number of acres of hops in production, and the average yield of that acreage during such period as the Secretary determines to be representative, with adjustments determined by the Secretary to be proper for age of plantings or abnormal conditions affecting yield; such normal production or historical record of any acreage for which data as to yield of hops are not available or which had no yield during such period shall be determined by the Secretary on the basis of the yields of other acreage of hops of similar characteristics as to productivity, subject to adjustment as just provided for.
 
-&emsp;(iii) Allotting, or providing methods for allotting, the quantity of hops which any handler may handle so that the allotment fixed for that handler shall be limited to the quantity of hops apportioned under preceding section <sup>5</sup> (ii) to each respective producer of hops; such allotment shall constitute an allotmentfixed for that handler within the meaning of subsection (5) of section 608a of this title.
+&emsp;(iii) Allotting, or providing methods for allotting, the quantity of hops which any handler may handle so that the allotment fixed for that handler shall be limited to the quantity of hops apportioned under preceding section <sup>5</sup> (ii) to each respective producer of hops; such allotment shall constitute an allotment fixed for that handler within the meaning of subsection (5) of section 608a of this title.
 
 (H) providing <sup>6</sup> a method for fixing the size, capacity, weight, dimensions, or pack of the container, or containers, which may be used in the packaging, transportation, sale, shipment, or handling of any fresh or dried fruits, vegetables, or tree nuts: <i>Provided, however</i>, That no action taken hereunder shall conflict with the Standard Containers Act of 1916 (15 U.S.C. 251–256) and the Standard Containers Act of 1928 (15 U.S.C. 257–257i); <sup>7</sup>
 
@@ -364,7 +364,7 @@ Except as provided in subsection (9) of this section, no order issued pursuant t
 
 #### (9) Orders with or without marketing agreement
 
-Any order issued pursuant to this section shall become effective in the event that, notwithstanding the refusal or failure of handlers (excluding cooperative associations of producers who are not engaged in processing, distributing, or shipping the commodity or product thereof covered by such order) of more than 50 per centum of the volume of the commodity or product thereof (except that as to citrus fruits produced in any area producing what is known as California citrus fruits said per centum shall be 80 per centum) covered by such order which is produced or marketed within the production or marketing area defined in such order to sign a marketing agreement relating to such commodity or product thereof, on which a hearing has been held, the Secretary of Agriculture determines:
+Any order issued pursuant to this section shall become effective in the event that, notwithstanding the refusal or failure of handlers (excluding cooperative associations of producers who are not engaged in processing, distributing, or shipping the commodity or product thereof covered by such order) of more than 50 per centum of the volume of the commodity or product thereof (except that as to citrus fruits produced in any area producing what is known as California citrus fruits said per centum shall be 80 per centum) covered by such order which is produced or marketed within the production or marketing area defined in such order to sign amarketing agreement relating to such commodity or product thereof, on which a hearing has been held, the Secretary of Agriculture determines:
 
 (A) That the refusal or failure to sign a marketing agreement (upon which a hearing has been held) by the handlers (excluding cooperative associations of producers who are not engaged in processing, distributing, or shipping the commodity or product thereof covered by such order) of more than 50 per centum of the volume of the commodity or product thereof (except that as to citrus fruits produced in any area producing what is known as California citrus fruits said per centum shall be 80 per centum) specified therein which is produced or marketed within the production or marketing area specified therein tends to prevent the effectuation of the declared policy of this chapter with respect to such commodity or product, and
 
@@ -402,7 +402,7 @@ Whenever, pursuant to the provisions of this section, the Secretary is required 
 
 (A) Any handler subject to an order issued under this section, or any officer, director, agent, or employee of such handler, who violates any provision of such order shall, on conviction, be fined not less than $50 or more than $5,000 for each such violation, and each day during which such violation continues shall be deemed a separate violation. If the court finds that a petition pursuant to subsection (15) of this section was filed and prosecuted by the defendant in good faith and not for delay, no penalty shall be imposed under this subsection for such violations as occurred between the date upon which the defendant's petition was filed with the Secretary, and the date upon which notice of the Secretary's ruling thereon was given to the defendant in accordance with regulations prescribed pursuant to subsection (15) of this section.
 
-(B) Any handler subject to an order issued under this section, or any officer, director, agent, or employee of such handler, who violates any provision of such order may be assessed a civil penalty by the Secretary not exceeding $1,000 for each such violation. Each day during which such violation continues shall be deemed a separate violation, except that if the Secretary finds that a petition pursuant to paragraph (15) was filed and prosecuted by the handler in good faith and not for delay, no civil penalty may be assessed under this paragraph for such violations as occurred between the date on which the handler's petition was filed with the Secretary, and the date on which notice of the Secretary's ruling thereon was given to the handler in accordance with regulations prescribed pursuant to paragraph (15). The Secretary may issue an order assessing a civil penalty under this paragraph only after notice and an opportunity for an agency hearing on the record. Such order shall be treated as a final order reviewable in the district courts of the United States in any district in which the handler subject to the order is an inhabitant, or has the handler's principal place of business. The validity of such order may not be reviewed in an action to collect such civil penalty.
+(B) Any handler subject to an order issued under this section, or any officer, director,agent, or employee of such handler, who violates any provision of such order may be assessed a civil penalty by the Secretary not exceeding $1,000 for each such violation. Each day during which such violation continues shall be deemed a separate violation, except that if the Secretary finds that a petition pursuant to paragraph (15) was filed and prosecuted by the handler in good faith and not for delay, no civil penalty may be assessed under this paragraph for such violations as occurred between the date on which the handler's petition was filed with the Secretary, and the date on which notice of the Secretary's ruling thereon was given to the handler in accordance with regulations prescribed pursuant to paragraph (15). The Secretary may issue an order assessing a civil penalty under this paragraph only after notice and an opportunity for an agency hearing on the record. Such order shall be treated as a final order reviewable in the district courts of the United States in any district in which the handler subject to the order is an inhabitant, or has the handler's principal place of business. The validity of such order may not be reviewed in an action to collect such civil penalty.
 
 #### (15) Petition by handler and review
 
@@ -416,13 +416,91 @@ Whenever, pursuant to the provisions of this section, the Secretary is required 
 
 (ii) The Secretary may not terminate any order issued under this section for a commodity for which there is no Federal program established to support the price of such commodity unless the Secretary gives notice of, and a statement of the reasons relied upon by the Secretary for, the proposed termination of such order to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 60 days before the date such order will be terminated.
 
-(B) The Secretary shall terminate any marketing agreement entered into under section 608b of this title, or order issued under this section, at the end of the then current marketing period for such commodity, specified in such marketing agreement or order, whenever he finds that such termination is favored by a majority of the producers who, during a representative period determined by the Secretary, have been engaged in the production for market of the commodity specified in such marketing agreement or order, within the production area specified in such marketing agreement or order,or who, during such representative period, have been engaged in the production of such commodity for sale within the marketing area specified in such marketing agreement or order: <i>Provided</i>, That such majority have, during such representative period, produced for market more than 50 per centum of the volume of such commodity produced for market within the production area specified in such marketing agreement or order, or have, during such representative period, produced more than 50 per centum of the volume of such commodity sold in the marketing area specified in such marketing agreement or order, but such termination shall be effective only if announced on or before such date (prior to the end of the then current marketing period) as may be specified in such marketing agreement or order.
+(B) The Secretary shall terminate any marketing agreement entered into under section 608b of this title, or order issued under this section, at the end of the then current marketing period for such commodity, specified in such marketing agreement or order, whenever he finds that such termination is favored by a majority of the producers who, during a representative period determined by the Secretary, have been engaged in the production for market of the commodity specified in such marketing agreement or order, within the production area specified in such marketing agreement or order, or who, during such representative period, have been engaged in the production of such commodity for sale within the marketing area specified in such marketing agreement or order: <i>Provided</i>, That such majority have, during such representative period, produced for market more than 50 per centum of the volume of such commodity produced for market within the production area specified in such marketing agreement or order, or have, during such representative period, produced more than 50 per centum of the volume of such commodity sold in the marketing area specified in such marketing agreement or order, but such termination shall be effective only if announced on or before such date (prior to the end of the then current marketing period) as may be specified in such marketing agreement or order.
 
 (C) Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination or suspension of any order or amendment thereto or provision thereof, shall not be considered an order within the meaning of this section.
 
 #### (17) Provisions applicable to amendments
 
-The provisions of this section, section 608d of this title,<sup>9</sup> applicable to orders shall be applicable to amendments to orders: <i>Provided</i>, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.
+#### (A) Applicability to amendments
+
+&emsp;The provisions of this section and section 608d of this title applicable to orders shall be applicable to amendments to orders.
+
+#### (B) Supplemental rules of practice
+
+#### (i) In general
+
+&emsp;&emsp;Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall issue, using informal rulemaking, supplemental rules of practice to define guidelines and timeframes for the rulemaking process relating to amendments to orders.
+
+#### (ii) Issues
+
+&emsp;&emsp;At a minimum, the supplemental rules of practice shall establish—
+
+&emsp;&emsp;&emsp;(I) proposal submission requirements;
+
+&emsp;&emsp;&emsp;(II) pre-hearing information session specifications;
+
+&emsp;&emsp;&emsp;(III) written testimony and data request requirements;
+
+&emsp;&emsp;&emsp;(IV) public participation timeframes; and
+
+&emsp;&emsp;&emsp;(V) electronic document submission standards.
+
+#### (iii) Effective date
+
+&emsp;&emsp;The supplemental rules of practice shall take effect not later than 120 days after the date of enactment of this subparagraph, as determined by the Secretary.
+
+#### (C) Hearing timeframes
+
+#### (i) In general
+
+&emsp;&emsp;Not more than 30 days after the receipt of a proposal for an amendment hearing regarding a milk marketing order, the Secretary shall—
+
+&emsp;&emsp;&emsp;(I) issue a notice providing an action plan and expected timeframes for completion of the hearing not more than 120 days after the date of the issuance of the notice;
+
+&emsp;&emsp;&emsp;(II)(aa) issue a request for additional information to be used by the Secretary in making a determination regarding the proposal; and
+
+&emsp;&emsp;&emsp;(bb) if the additional information is not provided to the Secretary within the timeframe requested by the Secretary, issue a denial of the request; or
+
+&emsp;&emsp;&emsp;(III) issue a denial of the request.
+
+#### (ii) Requirement
+
+&emsp;&emsp;A post-hearing brief may be filed under this paragraph not later than 60 days after the date of an amendment hearing regarding a milk marketing order.
+
+#### (iii) Recommended decisions
+
+&emsp;&emsp;A recommended decision on a proposed amendment to an order shall be issued not later than 90 days after the deadline for the submission of post-hearing briefs.
+
+#### (iv) Final decisions
+
+&emsp;&emsp;A final decision on a proposed amendment to an order shall be issued not later than 60 days after the deadline for submission of comments and exceptions to the recommended decision issued under clause (iii).
+
+#### (D) Industry assessments
+
+&emsp;If the Secretary determines it is necessary to improve or expedite rulemaking under this subsection, the Secretary may impose an assessment on the affected industry to supplement appropriated funds for the procurement of service providers, such as court reporters.
+
+#### (E) Use of informal rulemaking
+
+&emsp;The Secretary may use rulemaking under section 553 of title 5 to amend orders, other than provisions of orders that directly affect milk prices.
+
+#### (F) Avoiding duplication
+
+&emsp;The Secretary shall not be required to hold a hearing on any amendment proposed to be made to a milk marketing order in response to an application for a hearing on the proposed amendment if—
+
+&emsp;&emsp;(i) the application requesting the hearing is received by the Secretary not later than 90 days after the date on which the Secretary has announced the decision on a previously proposed amendment to that order; and
+
+&emsp;&emsp;(ii) the 2 proposed amendments are essentially the same, as determined by the Secretary.
+
+#### (G) Monthly feed and fuel costs for make allowances
+
+&emsp;As part of any hearing to adjust make allowances under marketing orders commencing prior to September 30, 2012, the Secretary shall—
+
+&emsp;&emsp;(i) determine the average monthly prices of feed and fuel incurred by dairy producers in the relevant marketing area;
+
+&emsp;&emsp;(ii) consider the most recent monthly feed and fuel price data available; and
+
+&emsp;&emsp;(iii) consider those prices in determining whether or not to adjust make allowances.
 
 #### (18) Milk prices
 
@@ -432,7 +510,7 @@ The Secretary of Agriculture, prior to prescribing any term in any marketing agr
 
 For the purpose of ascertaining whether the issuance of an order is approved or favored by producers or processors, as required under the applicable provisions of this chapter, the Secretary may conduct a referendum among producers or processors and in the case of an order other than an amendatory order shall do so. The requirements of approval or favor under any such provision shall be held to be complied with if, of the total number of producers or processors, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of the percentage required under such provision. The terms and conditions of the proposed order shall be described by the Secretary in the ballot used in the conduct of the referendum. The nature, content, or extent of such description shall not be a basis for attacking the legality of the order or any action relating thereto. Nothing in this subsection shall be construed as limiting representation by cooperative associations as provided in subsection (12) of this section. For the purpose of ascertaining whether the issuance of an order applicable to pears for canning or freezing is approved or favored by producers as required under the applicable provisions of this chapter, the Secretary shall conduct a referendum among producers in each State in which pears for canning or freezing are proposed to be included within the provisions of such marketing order and the requirements of approval or favor under any such provisions applicable to pears for canning or freezing shall be held to be complied with if, of the total number of producers, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of 662/3 per centum except that in the event that pear producers in any State fail to approve or favor the issuance of any such marketing order, it shall not be made effective in such State.
 
-(May 12, 1933, ch. 25, title I, §8c, as added Aug. 24, 1935, ch. 641, §5, 49 Stat. 753; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 3, 1937, ch. 296, §§1, 2(d)–(f), 50 Stat. 246, 247; June 3, 1937, ch. 296, §2(k), (<i>l</i>), as added Aug. 5, 1937, ch. 567, 50 Stat. 563; Apr. 13, 1938, ch. 143, §§1, 2, 52 Stat. 215; May 31, 1939, ch. 157, 53 Stat. 793; Feb. 10, 1942, ch. 52, §§2, 3, 56 Stat. 85; 1947 Reorg. Plan No. 1, §102, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; Aug. 1, 1947, ch. 425, §§2, 4, 61 Stat. 707, 710; July 3, 1948, ch. 827, title III, §302(b), (c), 62 Stat. 1258; June 29, 1949, ch. 273, 63 Stat. 282; Aug. 28, 1954, ch. 1041, title IV, §401(b)–(d), 68 Stat. 906, 907; Pub. L. 87–128, title I, §141(3), (4), Aug. 8, 1961, 75 Stat. 304, 305; Pub. L. 87–703, title IV, §403, Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–321, title I, §§101, 102, Nov. 3, 1965, 79 Stat. 1187; Pub. L. 89–330, §1(b), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–196, §1, Feb. 20, 1970, 84 Stat. 14; Pub. L. 91–292, §1(2), June 25, 1970, 84 Stat. 333; Pub. L. 91–341, July 18, 1970, 84 Stat. 438; Pub. L. 91–363, July 31, 1970, 84 Stat. 687; Pub. L. 91–384, Aug. 18, 1970, 84 Stat. 827; Pub. L. 91–522, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 91–524, title II, §201(a), Nov. 30, 1970, 84 Stat. 1359; Pub. L. 91–670, title I, §101, title II, §201, Jan. 11, 1971, 84 Stat. 2040, 2041; Pub. L. 92–120, Aug. 13,1971, 85 Stat. 340; Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39; Pub. L. 92–466, Oct. 6, 1972, 86 Stat. 780; Pub. L. 91–524, title II, §201(f), Nov. 30, 1970, as added Pub. L. 93–86, §1(2)(B), Aug. 10, 1973, 87 Stat. 222; Pub. L. 93–230, Dec. 29, 1973, 87 Stat. 945; Pub. L. 95–279, title IV, §401(a), May 15, 1978, 92 Stat. 242; Pub. L. 96–494, title I, §101, Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–98, title I, §101(a), Dec. 22, 1981, 95 Stat. 1218; Pub. L. 98–171, §1, Nov. 29, 1983, 97 Stat. 1117; Pub. L. 98–180, title III, §304, Nov. 29, 1983, 97 Stat. 1151; Pub. L. 99–198, title I, §§131(a), 133, title XVI, §§1661(a), 1662(a), Dec. 23, 1985, 99 Stat. 1372, 1373, 1630, 1631; Pub. L. 100–203, title I, §1501, Dec. 22, 1987, 101 Stat. 1330–27; Pub. L. 100–418, title IV, §§4601, 4602, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title I, §§112, 113, title XIII, §1306, Nov. 28, 1990, 104 Stat. 3380, 3561; Pub. L. 102–237, title I, §115(2), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 102–553, §2, Oct. 28, 1992, 106 Stat. 4141; Pub. L. 106–78, title VII, §§757(a), 760, Oct. 22, 1999, 113 Stat. 1171, 1173; Pub. L. 107–76, title VII, §765, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title X, §10601(a), May 13, 2002, 116 Stat. 511; Pub. L. 108–379, §1, Oct. 30, 2004, 118 Stat. 2209; Pub. L. 109–215, §2(a), (b), Apr. 11, 2006, 120 Stat. 328, 329.)
+(May 12, 1933, ch. 25, title I, §8c, as added Aug. 24, 1935, ch. 641, §5, 49 Stat. 753; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 3, 1937, ch. 296, §§1, 2(d)–(f), 50 Stat. 246, 247; June 3, 1937, ch. 296, §2(k), (<i>l</i>), as added Aug. 5, 1937, ch. 567, 50 Stat. 563; Apr. 13, 1938, ch. 143, §§1, 2, 52 Stat. 215; May 31, 1939, ch. 157, 53 Stat. 793; Feb. 10, 1942, ch. 52, §§2, 3, 56 Stat. 85; 1947 Reorg. Plan No. 1, §102, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; Aug. 1, 1947, ch. 425, §§2, 4, 61 Stat. 707, 710; July 3, 1948, ch. 827, title III, §302(b), (c), 62 Stat. 1258; June 29, 1949, ch. 273, 63 Stat. 282; Aug. 28, 1954, ch. 1041, title IV, §401(b)–(d), 68 Stat. 906, 907; Pub. L. 87–128, title I, §141(3), (4), Aug. 8, 1961, 75 Stat. 304, 305; Pub. L. 87–703, title IV, §403, Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–321, title I, §§101, 102, Nov. 3, 1965, 79 Stat. 1187; Pub. L. 89–330, §1(b), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–196, §1, Feb. 20, 1970, 84 Stat. 14; Pub. L. 91–292, §1(2), June 25, 1970, 84 Stat. 333; Pub. L. 91–341, July 18, 1970, 84 Stat. 438; Pub. L. 91–363, July 31, 1970, 84 Stat. 687; Pub. L. 91–384, Aug. 18, 1970, 84 Stat. 827; Pub. L. 91–522, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 91–524, title II, §201(a), Nov. 30, 1970, 84 Stat. 1359; Pub. L. 91–670, title I, §101, title II, §201, Jan. 11, 1971, 84 Stat. 2040, 2041; Pub. L. 92–120, Aug. 13, 1971, 85 Stat. 340; Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39; Pub. L. 92–466, Oct. 6, 1972, 86 Stat. 780; Pub. L. 91–524, title II, §201(f), Nov. 30, 1970, as added Pub. L. 93–86, §1(2)(B), Aug. 10, 1973, 87 Stat. 222; Pub. L. 93–230, Dec. 29, 1973, 87 Stat. 945; Pub. L. 95–279, title IV, §401(a), May 15, 1978, 92 Stat. 242; Pub. L. 96–494, title I, §101, Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–98, title I, §101(a), Dec. 22, 1981, 95 Stat. 1218; Pub. L. 98–171, §1, Nov. 29, 1983, 97 Stat. 1117; Pub. L. 98–180, title III, §304, Nov. 29, 1983, 97 Stat. 1151; Pub. L. 99–198, title I, §§131(a), 133, title XVI, §§1661(a), 1662(a), Dec. 23, 1985, 99 Stat. 1372, 1373, 1630, 1631; Pub. L. 100–203, title I, §1501, Dec. 22, 1987, 101 Stat. 1330–27; Pub. L. 100–418, title IV, §§4601, 4602, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title I, §§112, 113, title XIII, §1306, Nov. 28, 1990, 104 Stat. 3380, 3561; Pub. L. 102–237, title I, §115(2), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 102–553, §2, Oct. 28, 1992, 106 Stat. 4141; Pub. L. 106–78, title VII, §§757(a), 760, Oct. 22, 1999, 113 Stat. 1171, 1173; Pub. L. 107–76, title VII, §765, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title X, §10601(a), May 13, 2002, 116 Stat. 511; Pub. L. 108–379, §1, Oct. 30, 2004, 118 Stat. 2209; Pub. L. 109–215, §2(a), (b), Apr. 11, 2006, 120 Stat. 328, 329; Pub. L. 110–234, title I, §1504, May 22, 2008, 122 Stat. 993; Pub. L. 110–246, §4(a), title I, §1504, June 18, 2008, 122 Stat. 1664, 1721.)
 
 #### References in Text
 
@@ -441,6 +519,8 @@ The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 21
 For the effective date of this sentence, referred to in subsec. (5)(A), see section 131(b) of Pub. L. 99–198, set out as an Effective Date of 1985 Amendment note below.
 
 The Standard Containers Act of 1916 and the Standard Containers Act of 1928, referred to in subsec. (6)(H), are act Aug. 31, 1916, ch. 426, 39 Stat. 673, as amended, and act May 21, 1928, ch. 664, 45 Stat. 685, as amended, respectively, and were repealed by Pub. L. 90–628, §1(a), (b), Oct. 22, 1968, 82 Stat. 1320.
+
+The date of enactment of this subparagraph, referred to in subsec. (17)(B)(i), (iii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
@@ -452,13 +532,17 @@ Phrase “, with the approval of the President,” following “Secretary of Ag
 
 The words “(including the district court of the United States for the District of Columbia)” in subsec. (15)(B) following “The District Courts of the United States” have been deleted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”, and section 88 of said Title 28 which states in part that “The District of Columbia constitutes one judicial district.”
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (17). Pub. L. 110–246, §1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, section 608d of this title, applicable to orders shall be applicable to amendments to orders: <i>Provided</i>, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
 
 2006—Subsec. (5)(M) to (O). Pub. L. 109–215, §2(a), added pars. (M) to (O).
 
-Par. (11). Pub. L. 109–215, §2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
+Subsec. (11). Pub. L. 109–215, §2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
 
-Par. (11)(D). Pub. L. 109–215, §2(b)(2), added par. (D).
+Subsec. (11)(D). Pub. L. 109–215, §2(b)(2), added par. (D).
 
 2004—Subsec. (7)(C). Pub. L. 108–379, in concluding provisions, struck out “or pears” after “grapefruit” and “: <i>Provided</i>, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal” before period at end.
 
@@ -558,7 +642,7 @@ Pub. L. 91–384 inserted “papayas,” after “applicable to cherries,” in 
 
 Pub. L. 91–363 substituted “avocados, or apples” for “or avocados” in first proviso.
 
-Pub. L. 91–292 which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress,inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: <i>Provided further</i>, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
+Pub. L. 91–292 which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress, inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: <i>Provided further</i>, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
 
 Subsec. (17). Pub. L. 91–524, §201(f)(1), as added by Pub. L. 93–86, temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
 
@@ -618,6 +702,10 @@ Subsecs. (18), (19). Act June 3, 1937, §2(f), added subsecs. (18) and (19).
 
 1935—Section added to the Agricultural Adjustment Act by act Aug. 24, 1935, which also struck out former section 608(3) of this title.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–215, §2(d), Apr. 11, 2006, 120 Stat. 330, provided that: “The amendments made by this section \[amending this section\] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act \[Apr. 11, 2006\]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act (7 U.S.C. 608c(5)), reenacted with amendments by the Agriculture \[Agricultural\] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler's distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act (7 U.S.C. 608c(19)).”
@@ -652,7 +740,7 @@ Pub. L. 91–196, §2, Feb. 20, 1970, 84 Stat. 14, provided that: “The amendme
 
 #### Termination of 1970 Amendment; Savings Provision
 
-Pub. L. 91–524, title II, §201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, §1(2)(A), Aug. 10, 1973, 87 Stat. 222; Pub. L. 95–113, title II, §201, Sept. 29, 1977, 91 Stat. 919, provided that: “The provisions of this section \[amending this section\] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
+Pub. L. 91–524, title II, §201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, §1(2)(A), Aug. 10, 1973,87 Stat. 222; Pub. L. 95–113, title II, §201, Sept. 29, 1977, 91 Stat. 919, provided that: “The provisions of this section \[amending this section\] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
 
 #### Termination of 1965 Amendment; Reversion of Status of Producer Handlers of Milk to Pre-Amendment Status
 
@@ -674,6 +762,32 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 Pub. L. 89–321, §1, Nov. 3, 1965, 79 Stat. 1187, provided: “That this Act \[enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and section 590p of Title 16, Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and section 590p of Title 16, and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title\] may be cited as the ‘Food and Agriculture Act of 1965’.”
 
+#### Expedited Marketing Order for Hass Avocados for Grades and Standards and Other Purposes
+
+Pub. L. 110–234, title X, §10108, May 22, 2008, 122 Stat. 1338, and Pub. L. 110–246, §4(a), title X, §10108, June 18, 2008, 122 Stat. 1664, 2099, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Agriculture\] shall initiate procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to determine whether it would be appropriate to establish a Federal marketing order for Hass avocados relating to grades and standards and for other purposes under that Act.
+
+“(b)
+
+Expedited Procedures.—
+
+&emsp;“(1)
+
+Proposal for an order.—An organization of domestic avocado producers in existence on the date of enactment of this Act \[June 18, 2008\] may request the issuance of, and submit to the Secretary a proposal for, an order described in subsection (a).
+
+&emsp;“(2)
+
+Publication of proposal.—Not later than 60 days after the date on which the Secretary receives a proposed order under paragraph (1), the Secretary shall initiate procedures described in subsection (a) to determine whether the proposed order should proceed.
+
+“(c)
+
+Effective Date.—Any order issued under this section shall become effective not later than 15 months after the date on which the Secretary initiates procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
 #### Records and Facility Requirements
 
 Pub. L. 109–215, §2(c), Apr. 11, 2006, 120 Stat. 330, provided that: “Notwithstanding any other provision of this section \[amending this section and enacting provisions set out as notes under this section and section 601 of this title\], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities.”
@@ -692,7 +806,7 @@ Pub. L. 101–624, title I, §115, Nov. 28, 1990, 104 Stat. 3381, provided that:
 
 #### Multiple Component Pricing Study
 
-Pub. L. 101–624, title I, §116, Nov. 28, 1990, 104 Stat. 3381, required the Secretary of Agriculture to initiate astudy to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
+Pub. L. 101–624, title I, §116, Nov. 28, 1990, 104 Stat. 3381, required the Secretary of Agriculture to initiate a study to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
 
 #### Marketwide Service Payments
 
@@ -700,7 +814,7 @@ Pub. L. 99–260, §9, Mar. 20, 1986, 100 Stat. 51, provided that:
 
 “(a)
 
-Hearing.—Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 608c(5)(J)) (as added by section 133 of the Food Security Act of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
+Hearing.—Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 608c(5)(J)) (as added by section 133 of the Food SecurityAct of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
 
 “(b)
 
@@ -761,6 +875,4 @@ Act June 3, 1937, ch. 296, §1, 50 Stat. 246, affirmed and validated, and reenac
 <i><sup>7</sup></i><i> So in original. Probably should be a period.</i>
 
 <i><sup>8</sup></i><i> So in original. Probably should be “Florida-grown”.</i>
-
-<i><sup>9</sup></i><i> So in original.</i>
 

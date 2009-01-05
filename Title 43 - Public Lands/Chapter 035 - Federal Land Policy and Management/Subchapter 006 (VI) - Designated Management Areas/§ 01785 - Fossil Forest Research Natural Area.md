@@ -44,7 +44,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (C) Oil and gas leases
 
-&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 oftitle 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
+&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 of title 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
 
 #### (3) Grazing
 
@@ -112,5 +112,5 @@ Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Com
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

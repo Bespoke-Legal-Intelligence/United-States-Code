@@ -2,7 +2,7 @@
 
 (a) The Consumer Product Safety Commission shall conduct a continuing study and investigation of the deaths, injuries, and economic losses resulting from accidental burning of products, fabrics, or related materials.
 
-(b) In cooperation with appropriate public and private agencies, the Consumer Product Safety Commission is authorized to—
+(b) In cooperation with appropriate public and private agencies, the Commission is authorized to—
 
 &emsp;(1) conduct research into the flammability of products, fabrics, and materials;
 
@@ -12,13 +12,15 @@
 
 &emsp;(4) offer appropriate training in the use of flammability test methods and testing devices.
 
-(June 30, 1953, ch. 164, §14, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, §114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1211(e), Aug. 13, 1981, 95 Stat. 721.)
+(June 30, 1953, ch. 164, §14, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 573; amended Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 96–470, title I, §114, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1211(e), Aug. 13, 1981, 95 Stat. 721; Pub. L. 110–314, title II, §204(c)(2)(B), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### Codification
 
-In subsec. (a), the words “in cooperation with the Secretary of Commerce” which followed “Consumer Product Safety Commission” have been omitted from the Code in view of the transfer of functions of the Secretary of Commerce under this chapter to the Consumer Product Safety Commission pursuant to section 30(b) of Pub. L. 92–573 which is classified to section 2079(b) of this title. This transfer would result in this phrase being redundant in that it would provide for the Consumer Product Safety Commission to cooperate with itself.
+In subsec. (a), pursuant to Pub. L. 92–573 and as amended by Pub. L. 110–314, the words “in cooperation with the Commission”, meaning the Consumer Product Safety Commission, which followed “Consumer Product Safety Commission”, have been omitted from the Code as redundant in that they would provide for the Consumer Product Safety Commission to cooperate with itself.
 
 #### Amendments
+
+2008—Pub. L. 110–314 substituted “Commission” for “Secretary of Commerce” in subsecs. (a) and (b).
 
 1981—Subsec. (a). Pub. L. 97–35 struck out provisions relating to the submission of an annual report by the Secretary of Health and Human Services to the President and to the Congress containing the results of a study and investigation.
 
@@ -30,7 +32,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 #### Transfer of Functions
 
-“Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) and for “Secretary of Commerce” in subsec. (b) pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
+“Consumer Product Safety Commission” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
 
 #### Toxicologic Risks of Flame-Retardant Chemicals in Residential Upholstered Furniture
 

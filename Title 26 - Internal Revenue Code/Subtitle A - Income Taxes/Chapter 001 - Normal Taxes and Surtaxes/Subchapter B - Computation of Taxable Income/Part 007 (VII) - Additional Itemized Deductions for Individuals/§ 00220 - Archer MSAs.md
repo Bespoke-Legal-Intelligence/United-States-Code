@@ -50,7 +50,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (6) Denial of deduction to dependents
 
-&emsp;No deduction shall be allowed under this section to any individual with respect to whom adeduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+&emsp;No deduction shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
 
 #### (7) Medicare eligible individuals
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (C) Medical expenses of individuals who are not eligible individuals
 
-&emsp;&emsp;Subparagraph (A) shall apply to an amount paid by an account holder for medical care of an individual who is not described in clauses (i) and (ii) of subsection (c)(1)(A) for the month in which the expense for such care is incurred only if no amount is contributed (other than a rollover contribution) to any Archer MSA of such account holder for the taxable year which includes such month. This subparagraph shall not apply to any expense for coverage described in subclause (I) or (III) of subparagraph (B)(ii).
+&emsp;&emsp;Subparagraph (A) shall apply to an amount paid by an account holder for medical care of an individual who is not described in clauses (i) and (ii) of subsection (c)(1)(A) for the month in which the expense for such care is incurred only if no amount is contributed (other than a rollover contribution)to any Archer MSA of such account holder for the taxable year which includes such month. This subparagraph shall not apply to any expense for coverage described in subclause (I) or (III) of subparagraph (B)(ii).
 
 #### (3) Account holder
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
 
 #### (7) Transfer of account incident to divorce
 
@@ -402,7 +402,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (iii) Self-employed individuals
 
-&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii),the cut-off date is November 1 of the cut-off year.
+&emsp;&emsp;&emsp;In the case of an individual described in subclause (II) of subsection (c)(1)(A)(iii), the cut-off date is November 1 of the cut-off year.
 
 #### (iv) Special rules for 1997
 
@@ -510,9 +510,9 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 (Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941.)
 
-#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2008, see section 3.23 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -660,7 +660,7 @@ Pub. L. 106–554, §1(a)(7) \[title II, §201(c)\], Dec. 21, 2000, 114 Stat. 27
 
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
-Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) of Pub. L. 105–33, set out as an Effective Date note under section 138 of this title.
+Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 31, 1998, see section 4006(c) ofPub. L. 105–33, set out as an Effective Date note under section 138 of this title.
 
 #### Effective Date
 
@@ -670,7 +670,7 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 3
 
 Pub. L. 109–432, div. A, title I, §117(c), Dec. 20, 2006, 120 Stat. 2942, provided that:
 
-“(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-dayperiod beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
+“(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
 
 “(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2005 or calendar year 2006, as the case may be, shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2005 or 2006 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period.”
 

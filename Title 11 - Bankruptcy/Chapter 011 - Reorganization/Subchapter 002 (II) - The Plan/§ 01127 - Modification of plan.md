@@ -20,7 +20,7 @@
 
 (2) The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, §321(e), Apr. 20, 2005, 119 Stat. 96.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386;Pub. L. 109–8, title III, §321(e), Apr. 20, 2005, 119 Stat. 96.)
 
 #### Historical and Revision Notes
 

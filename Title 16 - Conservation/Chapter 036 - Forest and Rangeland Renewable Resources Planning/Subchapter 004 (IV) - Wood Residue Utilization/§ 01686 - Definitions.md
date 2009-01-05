@@ -12,7 +12,7 @@ For purposes of this subchapter, the term:
 
 &emsp;(5) “Secretary” means the Secretary of Agriculture.
 
-&emsp;(6) “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
+&emsp;(6) “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in thecase of live trees, are surplus to growing stock needs.
 
 (Pub. L. 96–554, §7, Dec. 19, 1980, 94 Stat. 3258.)
 

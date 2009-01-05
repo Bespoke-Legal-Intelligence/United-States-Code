@@ -6,7 +6,13 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (1) Credit risk
 
-&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+#### (A) In general
+
+&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+
+#### (B) Rural utility loans
+
+&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans\(as applicable), as determined by the Director.
 
 #### (2) Interest rate risk
 
@@ -30,7 +36,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (2) Revising test
 
-&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable periodof time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
 
 #### (c) Risk-based capital level
 
@@ -62,9 +68,15 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
 
-(Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166.)
+(Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, §5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, §4(a), title V, §5406(d), June 18, 2008, 122 Stat. 1664, 1920.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–246, §5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
@@ -79,4 +91,8 @@ Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing 
 Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
 
 Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

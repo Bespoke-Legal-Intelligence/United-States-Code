@@ -38,5 +38,5 @@ Section was formerly set out as a note under section 7274k of Title 42, The Publ
 
 #### Amendments
 
-2003—Subsec. (b)(2). Pub. L. 108–136, §3141(g)(6)(D), inserted “, the predecessor provision to section 2584 of this title” before period at end.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136, §3141(g)(6)(D), inserted “, the predecessor provision to section 2584 of this title” before period at end.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except with the written permission of both the Secretary of Defense and the Director of Central Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
+Prohibition.—Except with the written permission of both the Secretary of Defense and the Director of National Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
 
 &emsp;(1) The words “Defense Intelligence Agency”, the initials “DIA”, or the seal of the Defense Intelligence Agency.
 
@@ -16,9 +16,9 @@ Prohibition.—Except with the written permission of both the Secretary of Defen
 
 (b)
 
-Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constituteconduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569.)
+(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576.)
 
 #### Codification
 
@@ -30,13 +30,13 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417 amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
 2003—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 
 1997—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
 
 #### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 Reference to National Imagery and Mapping Agency considered to be reference to National Geospatial-Intelligence Agency, see section 921(a) of Pub. L. 108–136, set out as a note under section 441 of this title.
 

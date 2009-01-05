@@ -20,7 +20,17 @@
 
 (2) Performance of duty under an agreement under this subsection shall be under such terms and conditions as the Secretary of the Army may prescribe and may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed.
 
-(3) In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.
+(3)(A) Subject to subparagraph (C), in the case of a person described in subparagraph (B), the Secretary may, at any time and with the consent of the person, modify an agreement described in paragraph (1)(F) submitted by the person for the purpose of reducing or eliminating the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation.
+
+(B) Subparagraph (A) applies with respect to the following persons:
+
+&emsp;(i) A cadet under this section at a military junior college.
+
+&emsp;(ii) A cadet or former cadet under this section who is selected under section 2114 of this title to be a medical student at the Uniformed Services University of the Health Sciences.
+
+&emsp;(iii) A cadet or former cadet under this section who signs an agreement under section 2122 of this title for participation in the Armed Forces Health Professions Scholarship and Financial Assistance program.
+
+(C) The modification of an agreement described in paragraph (1)(F) may be made only if the Secretary determines that it is in the best interests of the United States to do so.
 
 (c)(1) The Secretary of the Army shall provide for the payment of all expenses of the Department of the Army in administering the financial assistance program under this section, including the cost of tuition, fees, books, and laboratory expenses which are incurred by members of the program appointed as cadets under this section while such members are students at a military junior college.
 
@@ -34,7 +44,7 @@
 
 (C) The agreement and reimbursement requirements established in section 2005 of this title are applicable to financial assistance under this paragraph.
 
-(D) An officer receiving financial assistance under this paragraph shall be attached to a unit of the Army as determined by the Secretary andshall be considered to be a member of the Senior Reserve Officers’ Training Corps on inactive duty for training, as defined in section 101(23) of title 38.
+(D) An officer receiving financial assistance under this paragraph shall be attached to a unit of the Army as determined by the Secretary and shall be considered to be a member of the Senior Reserve Officers’ Training Corps on inactive duty for training, as defined in section 101(23) of title 38.
 
 (E) A qualified officer who did not previously receive financial assistance under this section is eligible to receive educational assistance under this paragraph.
 
@@ -50,15 +60,19 @@
 
 (g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of the Selected Reserve.
 
-(h) The Secretary of the Army shall appoint not more than 416 cadets each year under this section, to include not less than 17 cadets at each military junior college at which there are not less than 17 members of the program eligible under subsection (b) for such an appointment. At any military junior college at which in any year there are fewer than 17 such members, the Secretary shall appoint each such member as a cadet under this section.
+(h) The Secretary of the Army shall appoint each year under this section not less than 17 cadets at each military junior college at which there are not less than 17 members of the program eligible under subsection (b) for such an appointment. At any military junior college at which in any year there are fewer than 17 such members, the Secretary shall appoint each such member as a cadet under this section.
 
 (i) Cadets appointed under this section are in addition to the number appointed under section 2107 of this title.
 
 (j) Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an “Ike Skelton Early Commissioning Program Scholarship”.
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207.)
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–181, §522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph\(1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
+
+Subsec. (h). Pub. L. 110–181, §523, substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
 
 2006—Subsec. (b)(1)(A). Pub. L. 109–163, §534(b), inserted “or national” after “citizen”.
 

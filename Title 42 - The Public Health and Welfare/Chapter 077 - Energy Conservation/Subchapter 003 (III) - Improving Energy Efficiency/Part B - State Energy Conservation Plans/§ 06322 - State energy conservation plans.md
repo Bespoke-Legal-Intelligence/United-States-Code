@@ -30,7 +30,7 @@ Each proposed State energy conservation plan to be eligible for Federal assistan
 
 &emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
 
-&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
+&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy andthe Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
 
 #### (d) Optional features of plans
 
@@ -96,7 +96,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 &emsp;(C) foster greater assistance to small and start-up businesses in dealing with the Federal Government on energy technology related matters.
 
-(2) The programs to implement the functions of the Energy Technology Commercialization Services Program, as provided for by subsection (d)(12) of this section, shall—
+(2) The programs to implement the functions of the Energy Technology CommercializationServices Program, as provided for by subsection (d)(12) of this section, shall—
 
 &emsp;(A) aid small and start-up businesses in discovering useful and practical information relating to manufacturing and commercial production techniques and costs associated with new energy technologies;
 

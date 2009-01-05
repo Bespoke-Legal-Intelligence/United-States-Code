@@ -128,6 +128,40 @@ Section 47(f) of Pub. L. 86–624 provided that: “The amendments made by subse
 
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–426, §1, Oct. 15, 2008, 122 Stat. 4835, provided that: “This Act \[amending section 274 of this title and enacting provisions set out as a note under section 274 of this title\] may be cited as the ‘Stephanie Tubbs Jones Organ Transplant Authorization Act of 2008’.”
+
+Pub. L. 110–413, §1, Oct. 14, 2008, 122 Stat. 4338, provided that: “This Act \[enacting sections 274i to 274i–4 of this title\] may be cited as the ‘Stephanie Tubbs Jones Gift of Life Medal Act of 2008’.”
+
+Pub. L. 110–392, §1(a), Oct. 13, 2008, 122 Stat. 4195, provided that: “This Act \[enacting section 285b–7c of this title, amending section 247b–6 of this title, and enacting provisions set out as notes under sections 247b–6 and 264 of this title\] may be cited as the ‘Comprehensive Tuberculosis Elimination Act of 2008’.”
+
+Pub. L. 110–381, §1, Oct. 9, 2008, 122 Stat. 4081, provided that: “This Act \[enacting sections 300gg–7 and 300gg–54 of this title, section 9813 of Title 26, Internal Revenue Code, and section 1185c of Title 29, Labor, and enacting provisions set out as a note under section 9813 of Title 26\] may be cited as ‘Michelle's Law’.”
+
+Pub. L. 110–377, §1, Oct. 8, 2008, 122 Stat. 4063, provided that: “This Act \[amending sections 300d–71 to 300d–73 of this title and enacting provisions set out as notes under sections 300d–71 to 300d–73 of this title\] may be cited as the ‘Poison Center Support, Enhancement, and Awareness Act of 2008’.”
+
+Pub. L. 110–374, §1, Oct. 8, 2008, 122 Stat. 4051, provided that: “This Act \[enacting section 280g–8 of this title and provisions set out as a note under section 280g–8 of this title\] may be cited as the ‘Prenatally and Postnatally Diagnosed Conditions Awareness Act’.”
+
+Pub. L. 110–373, §1, Oct. 8, 2008, 122 Stat. 4047, provided that: “This Act \[enacting section 280g–7 of this title\] may be cited as the ‘ALS Registry Act’.”
+
+Pub. L. 110–361, §1, Oct. 8, 2008, 122 Stat. 4010, provided that: “This Act \[amending sections 247b–18, 247b–19, and 283g of this title\] may be cited as the ‘Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2008’.”
+
+Pub. L. 110–355, §1, Oct. 8, 2008, 122 Stat. 3988, provided that: “This Act \[enacting section 300hh–17 of this title, amending sections 254b, 254c, 254e, 254f, 254h–1, 254k, 254q, 254q–1, 256g, and 1395x of this title, and enacting provisions set out as notes under sections 254b and 1395x of this title\] may be cited as the ‘Health Care Safety Net Act of 2008’.”
+
+Pub. L. 110–354, §1, Oct. 8, 2008, 122 Stat. 3984, provided that: “This Act \[enacting section 285a–12 of this title\] may be cited as the ‘Breast Cancer and Environmental Research Act of 2008’.”
+
+Pub. L. 110–343, div. C, title V, §511, Oct. 3, 2008, 122 Stat. 3881, provided that: “This subtitle \[subtitle B (§§511, 512) of title V of div. C of Pub. L. 110–343, amending section 300gg–5 of this title, section 9812 of Title 26, Internal Revenue Code, and section 1185a of Title 29, Labor, and enacting provisions set out as notes under section 300gg–5 of this title\] may be cited as the ‘Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008’.”
+
+Pub. L. 110–339, §1, Oct. 3, 2008, 122 Stat. 3733, provided that: “This Act \[amending section 254c–8 of this title\] may be cited as the ‘Healthy Start Reauthorization Act of 2007’.”
+
+Pub. L. 110–285, §1, July 29, 2008, 122 Stat. 2628, provided that: “This Act \[enacting sections 280e–3a and 285a–11 of this title, amending section 280e–4 of this title, and enacting provisions set out as a note under section 280e–3a of this title\] may be cited as the ‘Caroline Pryce Walker Conquer Childhood Cancer Act of 2008’.”
+
+Pub. L. 110–206, §1, Apr. 28, 2008, 122 Stat. 714, provided that: “This Act \[enacting section 280b–1e of this title and amending sections 280b–1b, 280b–1c, 280b–1d, 300d–52, 300d–53, and 300d–61 of this title\] may be cited as the ‘Traumatic Brain Injury Act of 2008’.”
+
+Pub. L. 110–204, §1, Apr. 24, 2008, 122 Stat. 705, as amended by Pub. L. 110–237, §1(b)(1), May 27, 2008, 122 Stat. 1557, provided that: “This Act \[enacting sections 300b–11 to 300b–15 of this title and amending sections 300b–8 to 300b–10 of this title\] may be cited as the ‘Newborn Screening Saves Lives Act of 2008’.”
+
+Pub. L. 110–202, §1, Apr. 23, 2008, 122 Stat. 697, provided that: “This Act \[enacting section 280b–1f of this title\] may be cited as the ‘Safety of Seniors Act of 2007’.”
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–170, §1, Dec. 26, 2007, 121 Stat. 2465, provided that: “This Act \[amending sections 287a–3a and 287a–4 of this title\] may be cited as the ‘Chimp Haven is Home Act’.”
@@ -160,13 +194,13 @@ Pub. L. 109–307, §1, Oct. 6, 2006, 120 Stat. 1721, provided that: “This Act
 
 Pub. L. 109–242, §1, July 19, 2006, 120 Stat. 570, provided that: “This Act \[amending section 289g–2 of this title\] may be cited as the ‘Fetus Farming Prohibition Act of 2006’.”
 
-Pub. L. 109–172, §1, Feb. 10, 2006, 120 Stat. 185, provided that: “This Act \[amending section 300gg–45 of this title\]may be cited as the ‘State High Risk Pool Funding Extension Act of 2006’.”
+Pub. L. 109–172, §1, Feb. 10, 2006, 120 Stat. 185, provided that: “This Act \[amending section 300gg–45 of this title\] may be cited as the ‘State High Risk Pool Funding Extension Act of 2006’.”
 
 #### Short Title of 2005 Amendments
 
 Pub. L. 109–148, div. C, §1, Dec. 30, 2005, 119 Stat. 2818, provided that: “This division \[enacting sections 247d–6d and 247d–6e of this title\] may be cited as the ‘Public Readiness and Emergency Preparedness Act’.”
 
-Pub. L. 109–129, §1, Dec. 20, 2005, 119 Stat. 2550, provided that: “This Act \[enacting section 274<i>l</i>–1 of this title, amending sections 274k, 274<i>l</i>, and 274m of this title, and enacting provisions set out as a note under section 274k of this title\] may be cited as the ‘Stem Cell Therapeutic and Research Act of 2005’.”
+Pub. L. 109–129, §1, Dec. 20, 2005, 119 Stat. 2550, provided that: “This Act \[enacting section 274<i>l</i>–1 of thistitle, amending sections 274k, 274<i>l</i>, and 274m of this title, and enacting provisions set out as a note under section 274k of this title\] may be cited as the ‘Stem Cell Therapeutic and Research Act of 2005’.”
 
 Pub. L. 109–60, §1, Aug. 11, 2005, 119 Stat. 1979, provided that: “This Act \[enacting section 280g–3 of this title and provisions set out as a note under section 280g–3 of this title\] may be cited as the ‘National All Schedules Prescription Electronic Reporting Act of 2005’.”
 
@@ -270,9 +304,9 @@ Pub. L. 106–129, §1, Dec. 6, 1999, 113 Stat. 1653, provided that: “This Act
 
 Pub. L. 105–392, §1(a), Nov. 13, 1998, 112 Stat. 3524, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Health Professions Education Partnerships Act of 1998’.”
 
-Pub. L. 105–392, title I, §121, Nov. 13, 1998, 112 Stat. 3562, provided that: “This subtitle \[subtitle B (§§121–124) of title I of Pub. L. 105–392, enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring section 298b–2 of this title to section 296g of this title, repealing sections 296k to 296m, 296r,297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title, and enacting provisions set out as notes under section 296 of this title\] may be cited as the ‘Nursing Education and Practice Improvement Act of 1998’.”
+Pub. L. 105–392, title I, §121, Nov. 13, 1998, 112 Stat. 3562, provided that: “This subtitle \[subtitle B (§§121–124) of title I of Pub. L. 105–392, enacting sections 296, 296a to 296f, 296j, 296m, 296p, 297q, and 297t of this title, transferring section 298b–2 of this title to section 296g of this title, repealing sections 296k to 296m, 296r, 297, 297–1, 297c, 298, 298a, 298b, 298b–1, 298b–3 to 298b–5, and 298b–7 of this title, and enacting provisions set out as notes under section 296 of this title\] may be cited as the ‘Nursing Education and Practice Improvement Act of 1998’.”
 
-Pub. L. 105–392, title IV, §419(a), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section \[enacting sections 280f to 280f–3 of this title and provisions set out as a note under section 280f of this title\] may be cited as the ‘Fetal Alcohol Syndrome and Fetal Alcohol Effect Prevention and Services Act’.”
+Pub. L. 105–392, title IV, §419(a), Nov. 13, 1998, 112 Stat. 3591, provided that: “This section \[enacting sections 280f to 280f–3 of this title and provisions set out as a note under section 280f of this title\] may be citedas the ‘Fetal Alcohol Syndrome and Fetal Alcohol Effect Prevention and Services Act’.”
 
 Pub. L. 105–340, §1, Oct. 31, 1998, 112 Stat. 3191, provided that: “This Act \[enacting sections 285b–7a and 300u–9 of this title and amending sections 242k, 280e–4, 283a, 284e, 285a–8, 285e–10, 287d, 300k, 300n–4a, 300n–5, and 300u–5 of this title\] may be cited as the ‘Women's Health Research and Prevention Amendments of 1998’.”
 
@@ -364,7 +398,7 @@ Pub. L. 101–502, §1, Nov. 3, 1990, 104 Stat. 1285, provided that: “This Act
 
 Pub. L. 101–381, §1, Aug. 18, 1990, 104 Stat. 576, provided that: “This Act \[enacting subchapter XXIV of this chapter, transferring section 300ee–6 of this title to section 300ff–48 of this title, amending sections 284a, 286, 287a, 287c–2, 289f, 290aa–3a, 299c–5, 300ff–48, and 300aaa to 300aaa–13 of this title, and enacting provisions set out as notes under sections 300x–4, 300ff–11, 300ff–46, and 300ff–80 of this title\] may be cited as the ‘Ryan White Comprehensive AIDS Resources Emergency Act of 1990’.”
 
-Pub. L. 101–374, §1, Aug. 15, 1990, 104 Stat. 456, provided that: “This Act \[amending sections 290aa–12, 290cc–2, and 300x–4 of this title, enacting provisions set out as notes under sections 289e, 290aa–12, 290cc–2, and 300x–4 of this title, and amending provisions set out asa note under section 289e of this title\] may be cited as the ‘Drug Abuse Treatment Waiting Period Reduction Amendments of 1990’.”
+Pub. L. 101–374, §1, Aug. 15, 1990, 104 Stat. 456, provided that: “This Act \[amending sections 290aa–12, 290cc–2, and 300x–4 of this title, enacting provisions set out as notes under sections 289e, 290aa–12, 290cc–2, and 300x–4 of this title, and amending provisions set out as a note under section 289e of this title\] may be cited as the ‘Drug Abuse Treatment Waiting Period Reduction Amendments of 1990’.”
 
 Pub. L. 101–368, §1, Aug. 15, 1990, 104 Stat. 446, provided that: “This Act \[amending section 247b of this title\] may be cited as the ‘Tuberculosis Prevention Amendments of 1990’.”
 
@@ -420,7 +454,7 @@ Pub. L. 99–660, title V, §501, Nov. 14, 1986, 100 Stat. 3794, provided that: 
 
 Pub. L. 99–660, title VIII, §801, Nov. 14, 1986, 100 Stat. 3799, provided that: “This title \[amending sections 300e–1, 300e–4, 300e–5 to 300e–10, 300e–16, and 300e–17 of this title, repealing sections 300e–2, 300e–3, and 300e–4a of this title, and enacting provisions set out as notes under sections 300e, 300e–1, 300e–4, and 300e–5 of this title\] may be cited as the ‘Health Maintenance Organization Amendments of 1986’.”
 
-Pub. L. 99–649, §1, Nov. 10, 1986, 100 Stat. 3633, provided: “That this Act \[enacting sections 280b to 280b–3of this title and provisions set out as a note under section 280b of this title\] may be cited as the ‘Injury Prevention Act of 1986’.”
+Pub. L. 99–649, §1, Nov. 10, 1986, 100 Stat. 3633, provided: “That this Act \[enacting sections 280b to 280b–3 of this title and provisions set out as a note under section 280b of this title\] may be cited as the ‘Injury Prevention Act of 1986’.”
 
 Pub. L. 99–570, title IV, §4001(a), Oct. 27, 1986, 100 Stat. 3207–103, provided that: “This subtitle \[subtitle A (§§4001–4022) of title IV of Pub. L. 99–570, enacting sections 290aa–3a, 290aa–6 to 290aa–10, and 300y to 300y–2 of this title, amending sections 218, 241, 290aa to 290aa–3, 290aa–4, 290aa–5, 290bb–1, 290bb–2, 290cc, and 290cc–2 of this title and sections 331 and 350a of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 290aa–3, 290aa–3a, and 290bb of this title\] may be cited as the ‘Alcohol and Drug Abuse Amendments of 1986’.”
 
@@ -460,7 +494,7 @@ Section 940(a) of Pub. L. 97–35 provided that: “This subtitle \[subtitle F (
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–538, §1(a), Dec. 17, 1980, 94 Stat. 3183, provided that: “this Act \[enacting sections 289c–3, 289c–4, 289c–7 of this title, amending sections 286e, 287c, 287i,289a, 289c–1, 289c–2, 289c–5, 289c–6, 294a, 294d, 294v, 300k–1, 300<i>l</i>–5, 300m, 300m–3, 300m–6, 300n, and 300n–1 of this title and section 1182 of Title 8, Aliens and Nationality, repealing sections 289c–3a and 289c–8 and former sections 289c–3, 289c–4, and 289c–7 of this title, and enacting provisions set out as notes under sections 289, 300<i>l</i>–5, and 300m–6 of this title\] may be cited as the ‘Health Programs Extension Act of 1980’.”
+Pub. L. 96–538, §1(a), Dec. 17, 1980, 94 Stat. 3183, provided that: “this Act \[enacting sections 289c–3, 289c–4, 289c–7 of this title, amending sections 286e, 287c, 287i, 289a, 289c–1, 289c–2, 289c–5, 289c–6, 294a, 294d, 294v, 300k–1, 300<i>l</i>–5, 300m, 300m–3, 300m–6, 300n, and 300n–1 of this title and section 1182 of Title 8, Aliens and Nationality, repealing sections 289c–3a and 289c–8 and former sections 289c–3, 289c–4, and 289c–7 of this title, and enacting provisions set out as notes under sections 289,300<i>l</i>–5, and 300m–6 of this title\] may be cited as the ‘Health Programs Extension Act of 1980’.”
 
 #### Short Title of 1979 Amendments
 
@@ -498,7 +532,7 @@ Section 101 of title I of Pub. L. 95–83 provided that: “This title \[amendin
 
 Section 201 of title II of Pub. L. 95–83 provided that: “This title \[amending sections 280b, 286b, 286c, 286d, 286f, 286g, 287c, 287d, 287f, 287h, 287i, and 289<i>l–</i>1 of this title\] may be cited as the ‘Biomedical Research Extension Act of 1977’.”
 
-Section 301 of title III of Pub. L. 95–83 provided that: “This title \[enacting section 294y–1 of this title, amending sections 210, 246, 247d, 254c, 292g, 292h, 293a, 294d, 294e, 294h, 294i, 294j, 294n, 294r, 294s, 294w, 294z, 295f–1, 295g–1, 295g–9, 295h–5, 295h–5c, 296e, 296m, 297, 300, 300a–1, 300a–2, 300a–3, 300c–11, 300c–21, 300c–22, 701, 2689a to 2689e, 2689h, 2689p, 2689q, 4572, 4573, and 4577 of this title, sections 1101 and 1182 of Title 8, Aliens and Nationality, sections 1112 and 1176 of Title 21, Food and Drugs, andsection 1614 of Title 25, Indians, enacting provisions set out as notes under sections 242b, 242<i>l</i>, 294d, 294i, 294n, 294r, 294t, 294y–1, 294z, 295f–1, 295g–1, 295h–5, and 296m of this title and sections 1101 and 1182 of Title 8, and amending provisions set out as notes under sections 289k–2, 1395x, and 1396b of this title\] may be cited as the ‘Health Services Extension Act of 1977’.”
+Section 301 of title III of Pub. L. 95–83 provided that: “This title \[enacting section 294y–1 of this title, amending sections 210, 246, 247d, 254c, 292g, 292h, 293a, 294d, 294e, 294h, 294i, 294j, 294n, 294r, 294s, 294w, 294z, 295f–1, 295g–1, 295g–9, 295h–5, 295h–5c, 296e, 296m, 297, 300, 300a–1, 300a–2, 300a–3, 300c–11, 300c–21, 300c–22, 701, 2689a to 2689e, 2689h, 2689p, 2689q, 4572, 4573, and 4577 of this title, sections 1101 and 1182 of Title 8, Aliens and Nationality, sections 1112 and 1176 of Title 21, Food and Drugs, and section 1614 of Title 25, Indians, enacting provisions set out as notes under sections 242b, 242<i>l</i>, 294d, 294i, 294n, 294r, 294t, 294y–1, 294z, 295f–1, 295g–1, 295h–5, and 296m of this title and sections 1101 and 1182 of Title 8, and amending provisions set out as notes under sections 289k–2, 1395x, and 1396b of this title\] may be cited as the ‘Health Services Extension Act of 1977’.”
 
 #### Short Title of 1976 Amendments
 
@@ -652,7 +686,7 @@ Pub. L. 87–395, §1, Oct. 5, 1961, 75 Stat. 824, provided: “That this Act \[
 
 #### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–415, Apr. 8, 1960, 74 Stat. 32, provided: “That this Act \[amending this section andsections 209, 210, 211, 212, 253, and 415 of this title and section 2251 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under sections 209 and 212 of this title and section 2253 of former Title 5\] may be cited as the ‘Public Health Service Commissioned Corps Personnel Act of 1960’.”
+Section 1 of Pub. L. 86–415, Apr. 8, 1960, 74 Stat. 32, provided: “That this Act \[amending this section and sections 209, 210, 211, 212, 253, and 415 of this title and section 2251 of former Title 5, Executive Departmentsand Government Officers and Employees, and enacting provisions set out as notes under sections 209 and 212 of this title and section 2253 of former Title 5\] may be cited as the ‘Public Health Service Commissioned Corps Personnel Act of 1960’.”
 
 #### Short Title of 1956 Amendments
 

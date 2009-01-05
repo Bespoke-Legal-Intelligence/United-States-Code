@@ -12,7 +12,7 @@
 
 #### (b) Development of technical proposals
 
-(1) In connection with responsibilities arising from the implementation of the Convention andunder section 1484(f) of this title regarding United States programs for the development of adequate and comparable statistical information on merchandise trade, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall prepare technical proposals that are appropriate or required to assure that the United States contribution to the development of the Convention recognizes the needs of the United States business community for a Convention which reflects sound principles of commodity identification, modern producing methods, and current trading patterns and practices.
+(1) In connection with responsibilities arising from the implementation of the Convention and under section 1484(f) of this title regarding United States programs for the development of adequate and comparable statistical information on merchandise trade, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall prepare technical proposals that are appropriate or required to assure that the United States contribution to the development of the Convention recognizes the needs of the United States business community for a Convention which reflects sound principles of commodity identification, modern producing methods, and current trading patterns and practices.
 
 (2) In carrying out this subsection, the Secretary of the Treasury, the Secretary of Commerce, and the Commission shall—
 

@@ -112,7 +112,7 @@ An MA regional plan shall include the following:
 
 #### (ii) Costs below 92 percent of target amount
 
-&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 92 percent of the target amount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to the sum of—
+&emsp;&emsp;&emsp;If the allowable costs for the plan for the year are less than 92 percent of the targetamount for the plan and year, the Secretary shall reduce the total of the monthly payments made to the organization offering the plan for the year under section 1395w–23(a) of this title by an amount (or otherwise recover from the plan an amount) equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 2.5 percent of such target amount; and
 
@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -182,7 +182,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during 2013, $1,790,000,000.
+&emsp;&emsp;&emsp;There shall be available to the Fund, for expenditures from the Fund during 2014, $1.
 
 #### (ii) Payment from trust funds
 
@@ -196,7 +196,7 @@ An MA regional plan shall include the following:
 
 #### (ii) Savings
 
-&emsp;&emsp;&emsp;The savings described in this clause are 25 percent of the average per capita savings described in section 1395w–24(b)(4)(C) of this title for which monthly rebates are provided under section 1395w–24(b)(1)(C) of this title in the fiscal year involved that are attributable to MA regional plans.
+&emsp;&emsp;&emsp;The savings described in this clause are 25 percent of the average per capita savings described in section 1395w–24(b)(4)(C) of this title for which monthly rebates areprovided under section 1395w–24(b)(1)(C) of this title in the fiscal year involved that are attributable to MA regional plans.
 
 #### (iii) Availability
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Suchamount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
+&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
 
 #### (ii) Multi-year funding
 
@@ -394,7 +394,7 @@ An MA regional plan shall include the following:
 
 #### (3) Statutory region-specific non-drug amount
 
-&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount”means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
+&emsp;For purposes of paragraph (2)(A)(i), the term “statutory region-specific non-drug amount” means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
 
 &emsp;&emsp;(A) MA area-specific non-drug monthly benchmark amount under section 1395w–23(j)(1)(A) of this title for that area and year; and
 
@@ -428,7 +428,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to the succeeding provisions of this subparagraph, the factor described in this subparagraph for a plan is equal to the number of individuals described in subparagraph (C) for such plan, divided by the total number of such individuals for all MA regional plans described in subparagraph (D) for that region and year.
+&emsp;&emsp;&emsp;Subject to the succeeding provisions of this subparagraph, the factor described in this subparagraph for a plan is equal to the number of individuals described in subparagraph (C) for such plan, divided by thetotal number of such individuals for all MA regional plans described in subparagraph (D) for that region and year.
 
 #### (ii) Single plan rule
 
@@ -466,7 +466,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 #### (2) Payment amounts
 
-&emsp;The payment amount under this subsection for inpatient hospital services provided by asubsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
+&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount of payment that would have been paid for such services under this subchapter if the enrollees were covered under the original medicare fee-for-service program option and the hospital were a critical access hospital; exceeds
 
@@ -486,9 +486,11 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term “essential hospital” means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575.)
 
 #### Amendments
+
+2008—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted “2014” for “2013” and “$1” for “$1,790,000,000”.
 
 2007—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of “the Fund during 2013, $1,790,000,000.” for “the Fund” and all that follows, was executed by making the substitution for “the Fund—
 

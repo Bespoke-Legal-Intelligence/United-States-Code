@@ -46,7 +46,11 @@ The articles of any rural business investment company—
 
 &emsp;The Secretary may, in the discretion of the Secretary and based on a showing of special circumstances and good cause, permit the private capital of a rural business investment company described in paragraph (1)(B) to be less than $10,000,000, but not less than $5,000,000, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
 
-#### (3) Adequacy
+#### (3) Time frame
+
+&emsp;Each rural business investment company shall have a period of 2 years to meet the capital requirements of this subsection.
+
+#### (4) Adequacy
 
 &emsp;In addition to the requirements of paragraph (1), the Secretary shall—
 
@@ -64,5 +68,17 @@ The articles of any rural business investment company—
 
 The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
 
-(Pub. L. 87–128, title III, §384I, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 396.)
+(Pub. L. 87–128, title III, §384I, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 396; amended Pub. L. 110–234, title VI, §6027(c), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, §4(a), title VI, §6027(c), June 18, 2008, 122 Stat. 1664, 1944.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (c)(3), (4). Pub. L. 110–246, §6027(c), added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

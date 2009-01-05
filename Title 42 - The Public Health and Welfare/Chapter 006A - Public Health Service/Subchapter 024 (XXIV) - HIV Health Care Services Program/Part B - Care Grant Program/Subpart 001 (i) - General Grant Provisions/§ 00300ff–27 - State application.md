@@ -64,7 +64,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV/AIDS throughout the State;
 
-&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under section 300ff–21 of this title will be coordinated with other available related services for individuals with HIV/AIDS;
+&emsp;&emsp;(E) provides a description of the manner in which services funded with assistance provided under section 300ff–21 of this title willbe coordinated with other available related services for individuals with HIV/AIDS;
 
 &emsp;&emsp;(F) provides a description of how the allocation and utilization of resources are consistent with the statewide coordinated statement of need (including traditionally underserved populations and subpopulations) developed in partnership with other grantees in the State that receive funding under this subchapter; and
 
@@ -78,7 +78,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) the State will—
 
-&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to aprogram established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, ensure that HIV-related health care and support services delivered pursuant to a program established with assistance provided under section 300ff–21 of this title will be provided without regard to the ability of the individual to pay for such services and without regard to the current or past health condition of the individual with HIV/AIDS;
 
 &emsp;&emsp;&emsp;(ii) ensure that such services will be provided in a setting that is accessible to low-income individuals with HIV/AIDS;
 
@@ -130,7 +130,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules regarding limitation on the maximum amount of charges; and
 
-&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing theamount of the charge, subject to such provisions.
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
 
 #### (3) Applicability of limitation on amount of charge
 

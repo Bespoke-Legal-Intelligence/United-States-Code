@@ -36,7 +36,7 @@ Beginning 30 months after November 8, 1984, any State may,<sup>1</sup> submit an
 
 #### (c) Financial responsibility
 
-(1) Corrective action and compensation programs administered by State or local agenciesor departments may be submitted for approval under subsection (a)(6) of this section as evidence of financial responsibility.
+(1) Corrective action and compensation programs administered by State or local agencies or departments may be submitted for approval under subsection (a)(6) of this section as evidence of financial responsibility.
 
 (2) Financial responsibility required by this subsection may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, qualification as a self-insurer or any other method satisfactory to the Administrator. In promulgating requirements under this subsection, the Administrator is authorized to specify policy or other contractual terms including the amount of coverage required for various classes and categories of underground storage tanks pursuant to section 6991b(d)(5) of this title, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this subchapter.
 

@@ -148,6 +148,7 @@ I74subpart i—general requirements
 | 11403e–3. | Administrative fees. |
 | 11403e–4. | Occupancy. |
 | [11403f.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403f%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
+| 11403f–1. | Term of contract with owner or lessor. |
 | [11403g.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403g%20-%20Definitions.md) | Definitions. |
 | [11403h.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20F%20-%20Shelter%20Plus%20Care%20Program/Subpart%20001%20%28i%29%20-%20General%20Requirements/%C2%A7%2011403h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

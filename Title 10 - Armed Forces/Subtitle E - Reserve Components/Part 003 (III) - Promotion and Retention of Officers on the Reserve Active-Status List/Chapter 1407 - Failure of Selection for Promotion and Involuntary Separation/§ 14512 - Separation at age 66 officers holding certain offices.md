@@ -6,25 +6,29 @@ Army and Air Force.—(1) Unless retired, transferred to the Retired Reserve, or
 
 (2) Paragraph (1) applies to a reserve officer of the Army or Air Force who is any of the following:
 
-&emsp;(A) The Chief of the National Guard Bureau.
+&emsp;(A) The Chief of the Army Reserve, Chief of the Air Force Reserve, Director of the Army National Guard, or Director of the Air National Guard.
 
-&emsp;(B) The Chief of the Army Reserve, Chief of the Air Force Reserve, Director of the Army National Guard, or Director of the Air National Guard.
+&emsp;(B) An adjutant general.
 
-&emsp;(C) An adjutant general.
-
-&emsp;(D) If a reserve officer of the Army, the commanding general of the troops of a State.
+&emsp;(C) If a reserve officer of the Army, the commanding general of the troops of a State.
 
 (b)
 
-Navy and Marine Corps.—The Secretary of the Navy may defer the retirement under section 14510 or 14511 of a reserve officer of the Navy in a grade above captain or a reserve officer of the Marine Corps in a grade above colonel and retain the officer in an active status until the officer becomes 66 years of age. Not more than 10 officers may be so deferred at any one time, distributed between the Navy Reserve and the Marine Corps Reserve as the Secretary determines.
+Navy and Marine Corps.—(1) The Secretary of the Navy may defer the retirement under section 14510 or 14511 of a reserve officer of the Navy in a grade above captain or a reserve officer of the Marine Corps in a grade above colonel and retain the officer in an active status until the officer becomes 66 years of age. Not more than 10 officers may be so deferred at any one time, distributed between the Navy Reserve and the Marine Corps Reserve as the Secretary determines.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–163, div. A, title V, §§511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, §503(d), Oct. 17, 2006, 120 Stat. 2178.)
+(2) The Secretary of Defense may defer the retirement of a reserve officer serving in the position of Chief of the Navy Reserve or Commander of the Marine Forces Reserve, but such deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age. A deferment under this paragraph shall not count toward the limitation on the total number of officers whose retirement may be deferred at any one time under paragraph (1).
+
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–163, div. A, title V, §§511, 515(b)(1)(UU), Jan. 6, 2006, 119 Stat. 3231, 3234; Pub. L. 109–364, div. A, title V, §503(d), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(b), Jan. 28, 2008, 122 Stat. 502.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3845, 6391(b), and 8845 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (b)(3), (c)(3).
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–181, §1825(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “The Chief of the National Guard Bureau.”
+
+Subsec. (b). Pub. L. 110–181, §1825(b)(2), designated existing provisions as par. (1) and added par. (2).
 
 2006—Pub. L. 109–364, §503(d)(2), substituted “66” for “64” in section catchline.
 

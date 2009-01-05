@@ -20,7 +20,7 @@ As used in this chapter:
 
 (6) The term “hazardous waste generation” means the act or process of producing hazardous waste.
 
-(7) The term “hazardous waste management” means the systematic control of the collection, source separation, storage, transportation, processing, treatment, recovery, and disposal of hazardous wastes.
+(7) The term “hazardous waste management” means the systematic control of the collection,source separation, storage, transportation, processing, treatment, recovery, and disposal of hazardous wastes.
 
 (8) For purposes of Federal financial assistance (other than rural communities assistance), the term “implementation” does not include the acquisition, leasing, construction, or modification of facilities or equipment or the acquisition, leasing, or improvement of land.
 
@@ -32,7 +32,7 @@ As used in this chapter:
 
 (12) The term “manifest” means the form used for identifying the quantity, composition, and the origin, routing, and destination of hazardous waste during its transportation from the point of generation to the point of disposal, treatment, or storage.
 
-(13) The term “municipality” (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planningor administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
+(13) The term “municipality” (A) means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law, with responsibility for the planning or administration of solid waste management, or an Indian tribe or authorized tribal organization or Alaska Native village or organization, and (B) includes any rural community or unincorporated town or village or any other public entity for which an application for assistance is made by a State or political subdivision thereof.
 
 (14) The term “open dump” means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 6944 of this title and which is not a facility for disposal of hazardous waste.
 
@@ -84,7 +84,7 @@ As used in this chapter:
 
 (34) The term “treatment”, when used in connection with hazardous waste, means any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous waste so as to neutralize such waste or so as to render such waste nonhazardous, safer for transport, amenable for recovery, amenable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of hazardous waste so as to render it nonhazardous.
 
-(35) The term “virgin material” means a raw material, including previously unused copper,aluminum, lead, zinc, iron, or other metal or metal ore, any undeveloped resource that is, or with new technology will become, a source of raw materials.
+(35) The term “virgin material” means a raw material, including previously unused copper, aluminum, lead, zinc, iron, or other metal or metal ore, any undeveloped resource that is, or with new technology will become, a source of raw materials.
 
 (36) The term “used oil” means any oil which has been—
 
@@ -136,5 +136,5 @@ Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted “the collection, source
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official of Environmental Protection Agency related to compliance with resource conservation and recovery permits used under this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of Environmental Protection Agency related to compliance with resource conservation and recovery permits used under this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspectortransferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

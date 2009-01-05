@@ -110,7 +110,7 @@ In formula No. 3, the computation is based on monthly pay instead of annual pay 
 
 Footnotes 1 and 2 reflect the long-standing construction of those provisions dealing with computation of retired pay which do not specifically provide that the member is entitled to compute his retired pay on the basis of the monthly basic pay to which he would be entitled if he were on active duty in his retired grade. The pertinent basic computation provisions for such retirement either provide for computation of retired pay on the same basis as the provisions dealing with higher retired grade, or the basic retirement provisions were enacted after the provisions authorizing higher retired grade. The words “at rates applicable on date of retirement \* \* \* and adjust to reflect later changes in permanent rates”, in footnote 1; and all of footnote 2; are based on the source statutes incorporated in the formulas to which footnotes 1 and 2 apply, as interpreted in an opinion of the Judge Advocate General of the Army (1953/4120, 14 May 1953).
 
-In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded.It also indicates that other retirement laws that are also silent on this point should be similarly construed.
+In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded. It also indicates that other retirement laws that are also silent on this point should be similarly construed.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Section 35(c) of Pub. L. 98–557 provided that: “The amendments made by this 
 
 Section 922(e) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting section 6333 of this title and amending this section, sections 1401a, 1402, 1402a, 1437, 1451, 3991, 3992, 6151, 6383, 8991, and 8992 of this title, section 423 of Title 14, Coast Guard, section 853<i>o</i> of Title 33, Navigation and Navigable Waters, section 212 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1983.”
 
-Amendment by section 923 of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that payafter Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of this title.
+Amendment by section 923 of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -240,7 +240,7 @@ Cross reference.—For the effective date of October 1, 1983, for provisions mak
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year ofservice only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 

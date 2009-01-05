@@ -76,7 +76,7 @@ In this subchapter:
 
 The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
-This chapter, referred to in par. (5), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in par. (5), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially id
 
 Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2979, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the American Homeownership and Economic Opportunity Act of 2000 \[Pub. L. 106–569, approved Dec. 27, 2000\].”
 
-Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the NativeAmerican Housing Assistance and Self-Determination Amendments of 2000 \[probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000\].”
+Pub. L. 104–330, title VIII, §808, as added by Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title \[enacting this subchapter\], this title shall take effect on the date of the enactment of the Native American Housing Assistance and Self-Determination Amendments of 2000 \[probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000\].”
 
 #### Findings
 
@@ -180,7 +180,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;&emsp;“(i) by ceding to the State of Hawaii title to the public lands formerly held by the United States, and mandating that those lands be held in public trust, for the betterment of the conditions of Native Hawaiians, as that term is defined in section 201 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.); and
 
-&emsp;&emsp;&emsp;“(ii) by transferring the United States responsibility for the administration of Hawaiian Home Lands to the State of Hawaii, but retaining the authority to enforce the trust, including the exclusive right of the United States to consent to any actions affecting the lands which comprise the corpus of the trust and any amendments to the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), enacted by the legislature of the State of Hawaii affecting the rights of beneficiaries under the Act;
+&emsp;&emsp;&emsp;“(ii) by transferring the United States responsibility for the administration of Hawaiian Home Lands to the State of Hawaii, but retaining the authority to enforce the trust, including the exclusive right of the United States to consent toany actions affecting the lands which comprise the corpus of the trust and any amendments to the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), enacted by the legislature of the State of Hawaii affecting the rights of beneficiaries under the Act;
 
 &emsp;&emsp;“(C) the authorization of mortgage loans insured by the Federal Housing Administration for the purchase, construction, or refinancing of homes on Hawaiian Home Lands under the National Housing Act (Public Law 479; 73d Congress; 12 U.S.C. 1701 et seq.);
 

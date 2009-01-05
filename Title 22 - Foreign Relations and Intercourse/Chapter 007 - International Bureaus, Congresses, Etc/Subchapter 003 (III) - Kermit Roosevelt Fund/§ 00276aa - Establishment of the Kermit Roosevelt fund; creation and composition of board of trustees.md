@@ -6,7 +6,7 @@ There is established in the Department of the Army a board to be known as the Tr
 
 #### Codification
 
-Section was formerly classified to section 224 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 224 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Change of Name
 

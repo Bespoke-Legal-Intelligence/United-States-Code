@@ -26,7 +26,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 &emsp;(B) the combined total volume of watermelons handled by the producer from the producer's own production and purchases from other producers’ production is more than 50 percent of the producer's own production.
 
-(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by theSecretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
+(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by the Secretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
 
 (B) Importer representation on the Board shall be proportionate to the percentage of assessments paid by importers to the Board, except that at least 1 representative of importers shall serve on the Board.
 
@@ -44,7 +44,7 @@ The plan shall provide that the Board shall prepare and submit to the Secretary 
 
 #### (f) Assessments; payments; notice
 
-The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e) of this section, and under section 4907(f) of this title, based on the Board's recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board..<sup>1</sup> In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
+The plan shall provide for the fixing by the Secretary of assessments to cover costs incurred under the budgets provided for in subsection (e) of this section, and under section 4907(f) of thistitle, based on the Board's recommendation as to the appropriate rate of assessment, and for the payment of the assessments to the Board..<sup>1</sup> In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.
 
 #### (g) Scope of expenditures; restrictions; assessments on per-unit basis; importers
 
@@ -72,7 +72,7 @@ The plan shall provide the following:
 
 #### (i) Submission of programs or projects; approval by Secretary
 
-The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotionprogram or project, and that a program or project must be approved by the Secretary before becoming effective.
+The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
 
 #### (j) Contract authority
 
@@ -92,7 +92,7 @@ The plan shall provide that the Board shall have the authority to establish rule
 
 1993—Subsec. (c). Pub. L. 103–189, §§4, 8(d), designated existing provisions as par. (1), substituted “other members of the Board” for “producer and handler members of the Board” in second sentence, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 103–189, §§5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the notice and comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
+Subsec. (f). Pub. L. 103–189, §§5(1), 6, substituted “payment of the assessments to the Board.” for “collection of the assessments by the Board” and inserted at end “In fixing or changing the rate of assessment pursuant to the plan, the Secretary shall comply with the noticeand comment procedures established under section 553 of title 5. Sections 556 and 557 of such title shall not apply with respect to fixing or changing the rate of assessment.”
 
 Subsec. (g). Pub. L. 103–189, §8(k)(4)(A), substituted “the following:” for “that—” in introductory provisions.
 

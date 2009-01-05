@@ -104,6 +104,10 @@ Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsectio
 
 Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, provided that: “This title \[amending section 1437c–1 of this title\] may be cited as the ‘Small Public Housing Authorities Paperwork Reduction Act’.”
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: “This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the ‘HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003’.”
@@ -130,7 +134,7 @@ Pub. L. 104–204, title II, §201(d), Sept. 26, 1996, 110 Stat. 2893, provided 
 
 Pub. L. 104–134, title I, §101(e) \[title II, §201(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by this subsection \[amending section 1437<i>l</i> of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
-Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions setout as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subsection \[amending section 1437p of this title and provisions set out as a note under section 1437c of this title\] and by sections 1002(a), (b), and (c) of Public Law 104–19 \[amending sections 1437c, 1437p, and 1437aaa–3 of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 Pub. L. 104–99, title IV, §402(e), Jan. 26, 1996, 110 Stat. 43, which provided that amendments made by section 402(a) to (d) and (f) of Pub. L. 104–99 were also to apply to public housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and an Indian housing authority, was repealed by Pub. L. 105–276, title V, §595(e)(16), Oct. 21, 1998, 112 Stat. 2659.
 
@@ -172,7 +176,7 @@ Pub. L. 108–7, div. K, title II, §217, Feb. 20, 2003, 117 Stat. 504.
 
 #### Funding of Certain Public Housing
 
-Pub. L. 105–276, title II, §226, Oct. 21, 1998, 112 Stat. 2490, which provided that no funds in this Act or any other Act may hereafter be used by the Secretary of Housing and Urban Development to determine allocations or provide assistance for operating subsidies or modernization for certain State and city funded and locally developed public housing units unless such unit was so assisted before Oct. 1, 1998, was repealed by Pub. L. 108–7, div. K, title II, §212(b), Feb. 20, 2003, 117 Stat. 504.
+Pub. L. 105–276, title II, §226, Oct. 21, 1998, 112 Stat. 2490, which provided that no funds in this Act or any other Act may hereafter be used by the Secretary of Housing and Urban Development to determine allocations or provide assistance for operating subsidies or modernization for certain State and city funded and locally developed public housing units unless such unit was so assisted before Oct. 1, 1998, was repealed by Pub.L. 108–7, div. K, title II, §212(b), Feb. 20, 2003, 117 Stat. 504.
 
 \[Pub. L. 108–7, div. K, title II, §212(d), Feb. 20, 2003, 117 Stat. 504, provided that: “The amendment made by subsection (b) \[repealing section 226 of Pub. L. 105–276, set out above\] shall be deemed to have taken effect on October 21, 1998.”\]
 
@@ -276,7 +280,7 @@ Study.—The Comptroller General of the United States shall conduct a study that
 
 Contents.—The study under this section shall—
 
-&emsp;“(1) analyze the full cost to the Federal Government, public housing agencies, State and local governments, and other parties, per assisted household, of the Federal assisted housing programs, in accordance with generally accepted accounting principles, and shall conduct the analysis on a nationwide and regional basis and in a manner such that accurate per unit cost comparisons may be made between Federal assisted housing programs, including grants, direct subsidies, tax concessions, Federal mortgage insurance liability, periodic renovation and rehabilitation, and modernization costs, demolition costs, and other ancillary costs such as security; and
+&emsp;“(1) analyze the full cost to the Federal Government, public housing agencies, State and local governments, and other parties, per assisted household, of the Federal assisted housing programs, in accordance with generally accepted accounting principles,and shall conduct the analysis on a nationwide and regional basis and in a manner such that accurate per unit cost comparisons may be made between Federal assisted housing programs, including grants, direct subsidies, tax concessions, Federal mortgage insurance liability, periodic renovation and rehabilitation, and modernization costs, demolition costs, and other ancillary costs such as security; and
 
 &emsp;“(2) measure and evaluate qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 

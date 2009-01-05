@@ -62,7 +62,7 @@ The responsible party for—
 
 #### (D) Multiple facilities
 
-&emsp;&emsp;In a case in which a person is a responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the amount applicable to the facility having the greatest financial responsibility requirement under this subsection.
+&emsp;&emsp;In a case in which a person is a responsible party for more than one facility subject tothis subsection, evidence of financial responsibility need be established only to meet the amount applicable to the facility having the greatest financial responsibility requirement under this subsection.
 
 #### (E) Definition
 
@@ -120,7 +120,7 @@ The Secretary may issue a single unified certificate of financial responsibility
 
 #### References in Text
 
-This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, asamended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Notice to National Response Center upon release from vessel or offshore or onshore facility by person in charge; conveyance of notice by Center
 
-Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he has knowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
+Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he hasknowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
 
 #### (b) Penalties for failure to notify; use of notice or information pursuant to notice in criminal case
 
@@ -62,7 +62,7 @@ The Clean Water Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, 
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 

@@ -40,7 +40,7 @@ Administration of Programs at State and Local Levels.—An entity of a State or 
 
 &emsp;(1) provide information and priority of service to covered persons regarding benefits and services that may be obtained through other entities or service providers; and
 
-&emsp;(2) ensure that each covered person who applies to or who is assisted by such a program is informed of the employment-related rights and benefits to which the person is entitled under this section.
+&emsp;(2) ensure that each covered person who applies to or who is assisted by such a program is informed of the employment-related rightsand benefits to which the person is entitled under this section.
 
 (d)
 

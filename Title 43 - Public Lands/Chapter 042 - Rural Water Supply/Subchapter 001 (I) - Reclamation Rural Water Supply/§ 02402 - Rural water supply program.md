@@ -4,7 +4,7 @@
 
 The Secretary, in cooperation with non-Federal project entities and consistent with this subchapter, may carry out a rural water supply program in Reclamation States to—
 
-&emsp;(1) investigate and identify opportunities to ensure safe and adequate rural water supply projects for domestic, municipal, and industrial use in small communities and rural areas of the Reclamation States;
+&emsp;(1) investigate and identify opportunities to ensure safe and adequate rural water supplyprojects for domestic, municipal, and industrial use in small communities and rural areas of the Reclamation States;
 
 &emsp;(2) plan the design and construction, through the conduct of appraisal investigations and feasibility studies, of rural water supply projects in Reclamation States; and
 
@@ -54,7 +54,7 @@ The Secretary may include—
 
 &emsp;(1) to the extent that connection provides a reliable water supply, a connection to pre-existing infrastructure (including impoundments and conveyance channels) as part of a rural water supply project; and
 
-&emsp;(2) notwithstanding the limitation on population under section 2401(9)(A) of this title, a town or community with a population in excess of 50,000 inhabitants in an area served by a rural water supply project if, at the discretion of the Secretary, the town or communityis considered to be a critical partner in the rural supply project.
+&emsp;(2) notwithstanding the limitation on population under section 2401(9)(A) of this title, a town or community with a population in excess of 50,000 inhabitants in an area served by a rural water supply project if, at the discretion of the Secretary, the town or community is considered to be a critical partner in the rural supply project.
 
 (Pub. L. 109–451, title I, §103, Dec. 22, 2006, 120 Stat. 3347.)
 

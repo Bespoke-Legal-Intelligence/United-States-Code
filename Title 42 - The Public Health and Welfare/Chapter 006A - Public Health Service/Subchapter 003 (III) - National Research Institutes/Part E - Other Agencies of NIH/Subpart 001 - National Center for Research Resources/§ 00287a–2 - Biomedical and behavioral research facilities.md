@@ -16,7 +16,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;There is established within the Center a Scientific and Technical Review Board on Biomedical and Behavioral Research Facilities (referred to in this section as the “Board”).
+&emsp;&emsp;There is established within the Center a Scientific and Technical Review Board onBiomedical and Behavioral Research Facilities (referred to in this section as the “Board”).
 
 #### (B) Requirement
 
@@ -160,7 +160,7 @@ The Director of the Center or the Director of the National Institute of Allergy 
 
 #### (2) Reservation of amounts
 
-&emsp;On the approval of any application for a grant under subsection (a) of this section, the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may be amended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
+&emsp;On the approval of any application for a grant under subsection (a) of this section, the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may beamended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
 
 #### (3) Exclusion of certain costs
 

@@ -6,13 +6,13 @@ The purpose of this part is to stimulate and promote the part-time employment of
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part, $1,000,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this part, such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (c) “Community services” defined
 
 For purposes of this part, the term “community services” means services which are identified by an institution of higher education, through formal or informal consultation with local nonprofit, governmental, and community-based organizations, as designed to improve the quality of life for community residents, particularly low-income individuals, or to solve particular problems related to their needs, including—
 
-&emsp;(1) such fields as health care, child care (including child care services provided on campus that are open and accessible to the community), literacy training, education (including tutorial services), welfare, social services, transportation, housing and neighborhood improvement, public safety, crime prevention and control, recreation, rural development, and community improvement;
+&emsp;(1) such fields as health care, child care (including child care services provided on campus that are open and accessible to the community), literacy training, education (including tutorial services), welfare, social services, transportation, housing and neighborhood improvement, public safety, emergency preparedness and response, crime prevention and control, recreation, rural development, and community improvement;
 
 &emsp;(2) work in a project, as defined in section 12511(20) of this title;
 
@@ -26,7 +26,7 @@ For purposes of this part, the term “community services” means services whic
 
 &emsp;&emsp;(C) counseling, including career counseling.
 
-(Pub. L. 89–329, title IV, §441, formerly title I, §141, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), 132, 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 91–95, §5, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §§135, 135A(a), June 23, 1972, 86 Stat. 270; Pub. L. 94–482, title I, §128(a), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §431, Oct. 3, 1980, 94 Stat. 1433; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711.)
+(Pub. L. 89–329, title IV, §441, formerly title I, §141, as added, renumbered, and amended Pub. L.90–575, title I, §§131(a), (b)(1), 132, 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 91–95, §5, Oct. 22, 1969, 83 Stat. 143; Pub. L. 92–318, title I, §§135, 135A(a), June 23, 1972, 86 Stat. 270; Pub. L. 94–482, title I, §128(a), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §431, Oct. 3, 1980, 94 Stat. 1433; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 102–325, title IV, §441(b)–(d), July 23, 1992, 106 Stat. 563; Pub. L. 103–82, title I, §111(b)(3), Sept. 21, 1993, 107 Stat. 860; Pub. L. 105–244, title IV, §441, Oct. 7, 1998, 112 Stat. 1711; Pub. L. 110–315, title IV, §441, Aug. 14, 2008, 122 Stat. 3258.)
 
 #### Codification
 
@@ -39,6 +39,10 @@ Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section
 A prior section 441 of Pub. L. 89–329 amended this section and sections 2752 to 2756 and 2761 of this title, prior to repeal by section 131(a) of Pub. L. 90–575.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–315, §441(1), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$1,000,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+
+Subsec. (c)(1). Pub. L. 110–315, §441(2), inserted “emergency preparedness and response,” after “public safety,”.
 
 1998—Subsec. (b). Pub. L. 105–244, §441(a), substituted “$1,000,000,000 for fiscal year 1999” for “$800,000,000 for fiscal year 1993”.
 
@@ -102,5 +106,5 @@ Section 135A(b) of Pub. L. 92–318 provided that: “The amendment made by subs
 
 #### References to Part C of Title I of the Economic Opportunity Act of 1964
 
-Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
+Section 131(c) of Pub. L. 90–575 provided that: “Any reference to any provision of part C of title I of theEconomic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section \[this part\].”
 

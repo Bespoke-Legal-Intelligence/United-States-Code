@@ -16,7 +16,7 @@ The Commission in granting any license for a station intended or used for commer
 
 Each applicant for the renewal of a commercial or noncommercial television license shall attach as an exhibit to the application a summary of written comments and suggestions received from the public and maintained by the licensee (in accordance with Commission regulations) that comment on the applicant's programming, if any, and that are characterized by the commentor as constituting violent programming.
 
-(June 19, 1934, ch. 652, title III, §308, 48 Stat. 1084; July 16, 1952, ch. 879, §6, 66 Stat. 714; Pub. L. 87–444, §3, Apr. 27, 1962, 76 Stat. 63; Pub. L. 102–538, title II, §204(b), Oct. 27, 1992, 106 Stat. 3543; Pub. L. 103–414, title III, §303(a)(15), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 104–104, title II, §204(b), Feb. 8, 1996, 110 Stat. 113.)
+(June 19, 1934, ch. 652, title III, §308, 48 Stat. 1084; July 16, 1952, ch. 879, §6, 66 Stat. 714; Pub. L.87–444, §3, Apr. 27, 1962, 76 Stat. 63; Pub. L. 102–538, title II, §204(b), Oct. 27, 1992, 106 Stat. 3543; Pub. L. 103–414, title III, §303(a)(15), Oct. 25, 1994, 108 Stat. 4295; Pub. L. 104–104, title II, §204(b), Feb. 8, 1996, 110 Stat. 113.)
 
 #### Amendments
 

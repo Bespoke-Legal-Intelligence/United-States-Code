@@ -64,7 +64,7 @@ In this section—
 
 #### (A) Strategy required
 
-&emsp;&emsp;The Administrator shall develop a strategy to educate, encourage, and assist small business concerns in adopting energy efficient building fixtures and equipment.
+&emsp;&emsp;The Administrator shall develop a strategy to educate, encourage, and assist smallbusiness concerns in adopting energy efficient building fixtures and equipment.
 
 #### (B) Report
 

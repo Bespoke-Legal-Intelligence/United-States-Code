@@ -24,7 +24,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\], Sept. 30, 1996,
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–433, §1, Oct. 16, 1990, 104 Stat. 978, provided that: “This Act \[amending sections 623, 626, and 630 of this title and enacting provisions set out as notes under this section and sections 623 and 626 of this title\] may be cited as the ‘Older Workers Benefit Protection Act’.”
+Pub. L. 101–433, §1, Oct. 16, 1990, 104 Stat. 978, provided that: “This Act \[amending sections 623, 626, and 630 ofthis title and enacting provisions set out as notes under this section and sections 623 and 626 of this title\] may be cited as the ‘Older Workers Benefit Protection Act’.”
 
 #### Short Title of 1986 Amendment
 

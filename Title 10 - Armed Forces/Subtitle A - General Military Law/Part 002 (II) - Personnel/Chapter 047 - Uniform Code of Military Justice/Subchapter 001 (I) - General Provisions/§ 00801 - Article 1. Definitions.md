@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;(5) The term “superior commissioned officer” means a commissioned officer superior in rank or command.
 
-&emsp;(6) The term “cadet” means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
+&emsp;(6) The term “cadet” means a cadet of the United States Military Academy, the UnitedStates Air Force Academy, or the United States Coast Guard Academy.
 
 &emsp;(7) The term “midshipman” means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
 
@@ -106,7 +106,7 @@ Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -142,7 +142,7 @@ Section 51 of act Aug. 10, 1956, provided that: “Chapter 47 of title 10, Unite
 
 #### Short Title of 1996 Amendment
 
-Section 1101 of title XI of div. A of Pub. L. 104–106 provided that: “This title \[enacting sections 857a, 858b, and876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the ‘Military Justice Amendments of 1995’.”
+Section 1101 of title XI of div. A of Pub. L. 104–106 provided that: “This title \[enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title\] may be cited as the ‘Military Justice Amendments of 1995’.”
 
 #### Short Title of 1986 Amendment
 
@@ -392,7 +392,7 @@ Transmittal to Congressional Committees.—Not less than 30 days after the date 
 
 Annual Report.—Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
-Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637, provided that:
+Pub. L. 109–148, div. A, title X, §§1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, §1063(d)(2), Jan. 28, 2008, 122 Stat. 323, provided that:
 
 #### “SEC. 1002. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -638,7 +638,7 @@ Detainees.—For purposes of this section, the term ‘detainee’ means a perso
 
 “(a)
 
-Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
+Policies Required.—The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that membersof the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
 “(b)
 
@@ -674,7 +674,7 @@ Section 1. <i>Findings.</i>
 
 (b) In light of grave acts of terrorism and threats of terrorism, including the terrorist attacks on September 11, 2001, on the headquarters of the United States Department of Defense in the national capital region, on the World Trade Center in New York, and on civilian aircraft such as in Pennsylvania, I proclaimed a national emergency on September 14, 2001 (Proc. 7463, Declaration of National Emergency by Reason of Certain Terrorist Attacks \[50 U.S.C. 1621 note\]).
 
-(c) Individuals acting alone and in concert involved in international terrorism possess both the capability and the intention to undertake further terrorist attacks against the United States that, if not detectedand prevented, will cause mass deaths, mass injuries, and massive destruction of property, and may place at risk the continuity of the operations of the United States Government.
+(c) Individuals acting alone and in concert involved in international terrorism possess both the capability and the intention to undertake further terrorist attacks against the United States that, if not detected and prevented, will cause mass deaths, mass injuries, and massive destruction of property, and may place at risk the continuity of the operations of the United States Government.
 
 (d) The ability of the United States to protect the United States and its citizens, and to help its allies and other cooperating nations protect their nations and their citizens, from such further terrorist attacks depends in significant part upon using the United States Armed Forces to identify terrorists and those who support them, to disrupt their activities, and to eliminate their ability to conduct or support such attacks.
 

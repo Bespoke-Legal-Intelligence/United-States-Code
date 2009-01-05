@@ -6,15 +6,17 @@ Exchange Program Authorized.—The Secretary of the Air Force may permit a stude
 
 (b)
 
-Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 24 Air Force cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Air Force Academy.
+Limitations on Number and Duration of Exchanges.—An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 100 Air Force cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Air Force Academy.
 
 (c)
 
 Costs and Expenses.—(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of an Air Force cadet by reason of attendance at the Air Force Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
+(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and otherservices to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
 
-(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.
+(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
+
+(4) Expenditures in support of the exchange program from funds appropriated for the Academy may not exceed $1,000,000 during any fiscal year.
 
 (d)
 
@@ -26,21 +28,17 @@ Regulations.—The Secretary shall prescribe regulations to implement this secti
 
 (Added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, §535(c), Oct. 5, 1999, 113 Stat. 606; Pub. L. 109–364, div. A, title V, §531(c), Oct. 17, 2006, 120 Stat. 2199.)
 
-#### Amendment of Section
-
-<i>Pub. L. 109–364, div. A, title V, §531(c), (d), Oct. 17, 2006, 120 Stat. 2199, provided that, effective Oct. 1, 2008, this section is amended:</i>
-
-<i>(1) in subsection (b), by striking “24” and inserting “100”; and</i>
-
-<i>(2) in subsection (c), by striking “for the Academy” and all that follows in paragraph (3) and inserting “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” and by adding at the end the following new paragraph:</i>
-
-<i>“(4) Expenditures in support of the exchange program from funds appropriated for the Naval Academy may not exceed $1,000,000 during any fiscal year.”</i>
-
 #### Prior Provisions
 
 A prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by Pub. L. 98–94, title X, §1004(c)(2), (d), Sept. 24, 1983, 97 Stat. 660, effective one year after Sept. 24, 1983.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–364, §531(c)(1), substituted “100” for “24”.
+
+Subsec. (c)(3). Pub. L. 109–364, §531(c)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
+
+Subsec. (c)(4). Pub. L. 109–364, §531(c)(2)(B), added par. (4).
 
 1999—Subsec. (b). Pub. L. 106–65, §535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
 

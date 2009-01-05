@@ -140,7 +140,7 @@
 
 #### (5) Independent evaluation
 
-&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report concerning the activities conducted under this subsection and subsection (d).
+&emsp;Not later than 4 years after December 19, 2006, the Government Accountability Office shall conduct an independent evaluation, and submit to the Secretary and the appropriatecommittees of Congress a report concerning the activities conducted under this subsection and subsection (d).
 
 #### (f) Telehealth enhancements for emergency response
 

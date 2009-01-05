@@ -62,7 +62,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 &emsp;&emsp;(F) review the plan and budget not less than annually, and revise the plan and budget as appropriate;
 
-&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agenciesfor the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
+&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
 
 &emsp;&emsp;(H) promote coordination and collaboration among the agencies conducting or supporting minority health or other health disparities research.
 
@@ -86,7 +86,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 #### (g) Participation in clinical research
 
-The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry out the provisions of section 289a–2 of this title that relate to minority groups.
+The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry outthe provisions of section 289a–2 of this title that relate to minority groups.
 
 #### (h) Research endowments
 

@@ -58,7 +58,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in the National Childhood Vaccine Injury Act of 1986 (or in any amendment madeby such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Vaccine Injury Compensation Trust Fund.
+&emsp;Nothing in the National Childhood Vaccine Injury Act of 1986 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Vaccine Injury Compensation Trust Fund.
 
 #### (3) Order in which unpaid claims to be paid
 

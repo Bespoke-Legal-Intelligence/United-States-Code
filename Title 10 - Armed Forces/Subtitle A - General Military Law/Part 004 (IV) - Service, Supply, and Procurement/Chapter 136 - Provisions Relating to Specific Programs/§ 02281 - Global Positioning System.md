@@ -154,7 +154,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(B) to promote broader acceptance and use of the Global Positioning System and the technological standards that facilitate expanded use of the system for civil purposes;
 
-&emsp;&emsp;“(C) to coordinate with other countries to ensure (i) efficient management of the electromagnetic spectrum used by the Global Positioning System, and (ii) protection of that spectrum in order to prevent disruption of signals from the system and interference with that portion of the electromagnetic spectrum used by the system; and
+&emsp;&emsp;“(C) to coordinate with other countries to ensure (i) efficient management of the electromagneticspectrum used by the Global Positioning System, and (ii) protection of that spectrum in order to prevent disruption of signals from the system and interference with that portion of the electromagnetic spectrum used by the system; and
 
 &emsp;&emsp;“(D) to encourage open access in all international markets to the Global Positioning System and supporting equipment, services, and techniques.
 

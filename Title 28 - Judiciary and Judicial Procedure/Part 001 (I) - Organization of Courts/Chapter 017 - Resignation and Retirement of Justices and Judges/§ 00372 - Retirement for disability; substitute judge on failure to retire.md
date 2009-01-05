@@ -60,7 +60,7 @@ Subsec. (c)(7)(B). Pub. L. 101–650, §402(i)(1), substituted “may have engag
 
 Subsec. (c)(8). Pub. L. 101–650, §402(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 101–650, §402(c)(1), inserted at end “Upon receipt of the determination and record of proceedings in the House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
+Pub. L. 101–650, §402(c)(1), inserted at end “Upon receipt of the determination and record of proceedings inthe House of Representatives, the Clerk of the House of Representatives shall make available to the public the determination and any reasons for the determination.”
 
 Subsec. (c)(11). Pub. L. 101–650, §402(e), inserted at end “No rule promulgated under this subsection may limit the period of time within which a person may file a complaint under this subsection.”
 

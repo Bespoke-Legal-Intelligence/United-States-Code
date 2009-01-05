@@ -26,7 +26,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
 
-(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnishany Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
+(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
 
 &emsp;(A) such person is described in section 1004(a)(2) of this title,
 
@@ -50,7 +50,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason ofmisuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
 
 &emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;
 
@@ -150,7 +150,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (i) Restitution
 
-In any case where the negligent failure of the Commissioner of Social Security to investigateor monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—
+In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—
 
 &emsp;(A) is not an individual; or
 

@@ -36,7 +36,7 @@
 
 #### (4) Effect of tolerance or exemption
 
-&emsp;While a tolerance or exemption from the requirement for a tolerance is in effect under this section for a pesticide chemical residue with respect to any food, the food shall not by reason of bearing or containing any amount of such a residue be considered to be adulterated within the meaning of section 342(a)(1) of this title.
+&emsp;While a tolerance or exemption from the requirement for a tolerance is in effect under this section for a pesticide chemical residue with respect to any food, the food shall not by reason of bearing or containing any amount ofsuch a residue be considered to be adulterated within the meaning of section 342(a)(1) of this title.
 
 #### (b) Authority and standard for tolerance
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the Administrator is not able to identify a level of exposure to the residue at which the residue will not cause or contribute to a known or anticipated harm to human health (referred to in this section as a “nonthreshold effect”);
 
-&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriatelyassessed by quantitative risk assessment; and
+&emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriately assessed by quantitative risk assessment; and
 
 &emsp;&emsp;&emsp;&emsp;(III) with regard to any known or anticipated harm to human health for which the Administrator is able to identify a level at which the residue will not cause such harm (referred to in this section as a “threshold effect”), the Administrator determines that the level of aggregate exposure is safe.
 
@@ -132,7 +132,7 @@
 
 #### (D) Factors
 
-&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemptionfor a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
+&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemption for a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
 
 &emsp;&emsp;&emsp;(i) the validity, completeness, and reliability of the available data from studies of the pesticide chemical and pesticide chemical residue;
 
@@ -164,7 +164,7 @@
 
 #### (F) Percent of food actually treated
 
-&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance for a pesticide chemical residue, the Administrator may, when assessing chronic dietary risk, consider available data and information on the percent of food actually treated with the pesticide chemical (including aggregate pesticide use data collected by the Department of Agriculture) only if the Administrator—
+&emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance for a pesticidechemical residue, the Administrator may, when assessing chronic dietary risk, consider available data and information on the percent of food actually treated with the pesticide chemical (including aggregate pesticide use data collected by the Department of Agriculture) only if the Administrator—
 
 &emsp;&emsp;&emsp;(i) finds that the data are reliable and provide a valid basis to show what percentage of the food derived from such crop is likely to contain such pesticide chemical residue;
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(xiii) such other data and information as the Administrator requires by regulation to support the petition.
 
-> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administratormay require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
+> &emsp;&emsp;If information or data required by this subparagraph is available to the Administrator, the person submitting the petition may cite the availability of the information or data in lieu of submitting it. The Administrator may require a petition to be accompanied by samples of the pesticide chemical with respect to which the petition is filed.
 
 #### (B) Modification or revocation
 
@@ -300,7 +300,7 @@
 
 #### (ii) Required determinations
 
-&emsp;&emsp;&emsp;If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determine whether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) of this section continues to exist with respect to a tolerance that has been left in effect or modified under subsection (b)(2)(B) of this section. If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
+&emsp;&emsp;&emsp;If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determine whether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) of this section continues to exist with respect to a tolerance that has been left in effect ormodified under subsection (b)(2)(B) of this section. If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
 
 #### (e) Action on Administrator's own initiative
 
@@ -360,7 +360,7 @@
 
 #### (B) Hearing
 
-&emsp;&emsp;An objection may include a request for a public evidentiary hearing upon the objection. The Administrator shall, upon the initiative of the Administrator or upon the request of an interested person and after due notice, hold a public evidentiary hearing if and to the extent the Administrator determines that such a public hearing is necessary to receive factual evidence relevant to material issues of fact raised by the objections. The presiding officer in such a hearing may authorize a party to obtain discovery from other persons and may upon a showing of good cause made by a party issue a subpoena to compel testimony or production of documents from any person. The presiding officer shall be governed by the Federal Rules of Civil Procedure in making any order for the protection of the witness or the content of documents produced and shall order the payment of reasonable fees and expenses as a condition to requiring testimony of the witness. On contest, such a subpoena may be enforced by a Federal district court.
+&emsp;&emsp;An objection may include a request for a public evidentiary hearing upon the objection. The Administrator shall, upon the initiative of the Administrator or upon the request of an interested person and after duenotice, hold a public evidentiary hearing if and to the extent the Administrator determines that such a public hearing is necessary to receive factual evidence relevant to material issues of fact raised by the objections. The presiding officer in such a hearing may authorize a party to obtain discovery from other persons and may upon a showing of good cause made by a party issue a subpoena to compel testimony or production of documents from any person. The presiding officer shall be governed by the Federal Rules of Civil Procedure in making any order for the protection of the witness or the content of documents produced and shall order the payment of reasonable fees and expenses as a condition to requiring testimony of the witness. On contest, such a subpoena may be enforced by a Federal district court.
 
 #### (C) Final decision
 
@@ -374,7 +374,7 @@
 
 #### (2) Record and jurisdiction
 
-&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
+&emsp;A copy of the petition under paragraph (1) shall be forthwith transmitted by the clerk of the court to the Administrator, or any officer designated by the Administrator for that purpose, and thereupon the Administrator shall file in the court the record of the proceedings on which the Administrator based the order or regulation, as provided in section 2112 of title 28. Upon the filing of such a petition, the court shall have exclusive jurisdiction to affirm or set aside the order or regulation complained of in whole or in part. As to orders issued following a public evidentiary hearing, the findings of the Administrator with respect to questions of fact shall be sustained only if supported by substantial evidence when considered on the record as a whole.
 
 #### (3) Additional evidence
 
@@ -474,7 +474,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (5) Pesticide residues resulting from lawful application of pesticide
 
-&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified underthis section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
+&emsp;Notwithstanding any other provision of this chapter, if a tolerance or exemption for a pesticide chemical residue in or on a food has been revoked, suspended, or modified under this section, an article of that food shall not be deemed unsafe solely because of the presence of such pesticide chemical residue in or on such food if it is shown to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) the residue is present as the result of an application or use of a pesticide at a time and in a manner that was lawful under the Federal Insecticide, Fungicide, and Rodenticide Act; and
 
@@ -500,7 +500,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 &emsp;&emsp;(D) the certification and filing in court of a transcript of the proceedings and the record under subsection (h) of this section;
 
-> &emsp;may be conditioned upon the payment of such fees. The regulations may further provide for waiver or refund of fees in whole or in part when in the judgment of the Administrator such a waiver or refund is equitable and not contrary to the purposes of this subsection.
+> &emsp;may be conditioned upon the payment of such fees. The regulations may further provide forwaiver or refund of fees in whole or in part when in the judgment of the Administrator such a waiver or refund is equitable and not contrary to the purposes of this subsection.
 
 #### (2) Deposit
 
@@ -532,7 +532,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (3) Limitation
 
-&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) onlyby issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
+&emsp;The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
 
 #### (4) State authority
 
@@ -680,7 +680,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (r) Temporary tolerance or exemption
 
-The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or upon the Administrator's own initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) of this section shall apply to actions taken under this subsection.
+The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or upon the Administrator'sown initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) of this section shall apply to actions taken under this subsection.
 
 #### (s) Savings clause
 
@@ -732,7 +732,7 @@ Subsec. (g). Pub. L. 102–571 substituted “379e” for “376”.
 
 1972—Subsecs. (d)(1), (e), (<i>l</i>). Pub. L. 92–516 substituted references to pesticide for references to economic poison wherever appearing therein.
 
-1971—Subsec. (g). Pub. L. 92–157 struck out “, which the Secretary shall by rules and regulations prescribe,” after “as compensation for their services a reasonable per diem” prior to amendment in 1970, by Pub. L. 91–515, which overlooked such language when amending subsec. (g) as provided in 1970 Amendment note.
+1971—Subsec. (g). Pub. L. 92–157 struck out “, which the Secretary shall by rules and regulations prescribe,”after “as compensation for their services a reasonable per diem” prior to amendment in 1970, by Pub. L. 91–515, which overlooked such language when amending subsec. (g) as provided in 1970 Amendment note.
 
 1970—Subsec. (g). Pub. L. 91–515 substituted provisions authorizing members of an advisory committee to receive compensation and travel expenses in accordance with section 376(b)(5)(D) of this title, for provisions authorizing such members to receive as compensation a reasonable per diem for time actually spent on committee work, and necessary traveling and subsistence expenses while serving away from their places of residence.
 

@@ -12,7 +12,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;(A) establish or improve upon a health insurance information, counseling, and assistance program that provides counseling and assistance to eligible individuals in need of health insurance information, including—
 
-&emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
+&emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims underthis subchapter and subchapter XIX of this chapter;
 
 &emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as described in section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
 
@@ -76,7 +76,7 @@ A State that receives a grant under this section shall, not later than 180 days 
 
 #### (f) Report to Congress
 
-Beginning with 1992, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the Special Committee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
+Beginning with 1992, and annually thereafter, the Secretary shall issue a report to the Committee on Finance of the Senate, the SpecialCommittee on Aging of the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives that—
 
 &emsp;(1) summarizes the allocation of funds authorized for grants under this section and the expenditure of such funds;
 
@@ -124,7 +124,7 @@ Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made ident
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 
-Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck outformer par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
+Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
 
 Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
@@ -135,6 +135,30 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(<i>l</i>) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
+
+#### Demonstration To Improve Care to Previously Uninsured
+
+Pub. L. 110–275, title I, §186, July 15, 2008, 122 Stat. 2588, provided that:
+
+“(a)
+
+Establishment.—Within one year after the date of the enactment of this Act \[July 15, 2008\], the Secretary (in this section referred to as the ‘Secretary’) shall establish a demonstration project to determine the greatest needs and most effective methods of outreach to medicare beneficiaries who were previously uninsured.
+
+“(b)
+
+Scope.—The demonstration shall be in no fewer than 10 sites, and shall include state health insurance assistance programs, community health centers, community-based organizations, community health workers, and other service providers under parts A, B, and C of title XVIII of the Social Security Act \[parts A, B, and C of this subchapter\]. Grantees that are plans operating under part C shall document that enrollees who were previously uninsured receive the ‘Welcome to Medicare’ physical exam.
+
+“(c)
+
+Duration.—The Secretary shall conduct the demonstration project for a period of 2 years.
+
+“(d)
+
+Report and Evaluation.—The Secretary shall conduct an evaluation of the demonstration and not later than 1 year after the completion of the project shall submit to Congress a report including the following:
+
+&emsp;“(1) An analysis of the effectiveness of outreach activities targeting beneficiaries who were previously uninsured, such as revising outreach and enrollment materials (including the potential for use of video information), providing one-on-one counseling, working with community health workers, and amending the Medicare and You handbook.
+
+&emsp;“(2) The effect of such outreach on beneficiary access to care, utilization of services, efficiency and cost-effectiveness of health care delivery, patient satisfaction, and select health outcomes.”
 
 #### State Regulatory Programs
 

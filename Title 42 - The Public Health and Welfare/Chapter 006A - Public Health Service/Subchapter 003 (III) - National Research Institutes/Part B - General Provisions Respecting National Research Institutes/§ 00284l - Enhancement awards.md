@@ -48,7 +48,7 @@
 
 #### (4) Definition
 
-&emsp;As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master's or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
+&emsp;As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master'sor Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
 
 &emsp;&emsp;(A) Analytical methods, biostatistics, and study design.
 
@@ -88,7 +88,7 @@
 
 &emsp;Grants under this subsection shall be for terms of up to 5 years and may be renewable.
 
-(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b),Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
+(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
 
 #### Amendments
 

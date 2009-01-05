@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -110,7 +110,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(B) sales, or financing on any terms, under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\];
 
-&emsp;&emsp;(C) the provision of agricultural commodities, other than food, under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\]; and
+&emsp;&emsp;(C) the provision of agricultural commodities, other than food, under the Food for Peace Act \[7 U.S.C. 1691 et seq.\]; and
 
 &emsp;&emsp;(D) financing under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\];
 
@@ -126,11 +126,11 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(8) the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Foodand Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 401 of Title 50, War and National Defense.
 
@@ -138,7 +138,7 @@ This chapter, referred to in subsec. (e)(4)(A), was in the original “this Act�
 
 The Arms Export Control Act, referred to in subsec. (e)(4)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (e)(4)(C), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (e)(4)(C), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
@@ -147,6 +147,8 @@ The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act Jul
 A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I, §109, Feb. 7, 1972, 86 Stat. 24, contained similar subject matter, prior to repeal by section 503 of Pub. L. 92–352.
 
 #### Amendments
+
+2008—Subsec. (e)(4)(C). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 1997—Subsec. (b)(1). Pub. L. 105–20 substituted reference to chapter 1 of the National Narcotics Leadership Act of 1988 for reference to subtitle A of title I of the Anti-Drug Abuse Act of 1988.
 
@@ -264,7 +266,7 @@ Subsec. (h)(2)(B)(v). Pub. L. 101–231, §17(d)(3), substituted “essential pr
 
 Subsec. (h)(3)(D). Pub. L. 101–231, §17(d)(4), substituted “illicit production” for “production”.
 
-Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
+Subsec. (i)(2). Pub. L. 101–231, §17(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major illicit drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producingfive hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year;”.
 
 Subsec. (k)(4). Pub. L. 101–231, §17(f), struck out par. (4) which required that reports under subsec. (e) discuss changes made since notification provided pursuant to subsec. (k)(2) and (3).
 
@@ -312,7 +314,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 1987—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed toin an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -378,9 +380,13 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 
 1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1987 Amendment
 
-Section 101(e) \[title V, §585(b)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (1)\[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
+Section 101(e) \[title V, §585(b)\] of Pub. L. 100–202 provided that: “The amendments made by paragraph (1) \[probably means subsec. (a) which amended this section\] shall apply with respect to any certification of the President under section 481(h)(2)(A) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291(h)(2)(A)\] made on or after March 1, 1989.”
 
 #### Effective Date of 1985 Amendment
 
@@ -486,7 +492,7 @@ Exception.—If the Government of Colombia negotiates or permits the establishme
 
 “(3)
 
-Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizingcommittees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
+Notification.—In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
 
 \[For delegation of functions of President under section 821(b) of Pub. L. 105–277, div. C, title VIII, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
@@ -500,7 +506,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 “(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowinglysupplying chemicals for the illicit manufacture of controlled substances.
 
 “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
@@ -626,7 +632,7 @@ Multilateral development bank.—The term ‘multilateral development bank’ me
 
 &emsp;“(2)
 
-Major illicit drug producing country.—The term ‘major illicit drug producing country’ has themeaning provided in section 481(i)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(2)).
+Major illicit drug producing country.—The term ‘major illicit drug producing country’ has the meaning provided in section 481(i)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(i)(2)).
 
 &emsp;“(3)
 
@@ -644,7 +650,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119,title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 “(a)
 

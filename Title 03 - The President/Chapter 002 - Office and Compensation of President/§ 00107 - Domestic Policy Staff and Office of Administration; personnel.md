@@ -4,7 +4,7 @@
 
 &emsp;(1) without regard to any other provision of law regulating the employment or compensation of persons in the Government service, to appoint and fix the pay of not more than—
 
-&emsp;&emsp;(A) 6 employees at rates not to exceed the rate of basic pay then currently paid forlevel III of the Executive Schedule of section 5314 of title 5; and in addition
+&emsp;&emsp;(A) 6 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of section 5314 of title 5; and in addition
 
 &emsp;&emsp;(B) 18 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
 

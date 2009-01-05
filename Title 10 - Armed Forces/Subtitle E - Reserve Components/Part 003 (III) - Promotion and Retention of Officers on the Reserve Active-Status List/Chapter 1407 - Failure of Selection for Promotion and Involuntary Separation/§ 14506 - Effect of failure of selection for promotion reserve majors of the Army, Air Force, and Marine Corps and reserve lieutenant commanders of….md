@@ -6,7 +6,7 @@ Unless retained as provided in section 12646, 12686, 14701, or 14702 of this tit
 
 #### Amendments
 
-1999—Pub. L. 106–65 inserted “the later of (1)” after “in accordance with section 14513 of this title on” and“, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time” before the period at end.
+1999—Pub. L. 106–65 inserted “the later of (1)” after “in accordance with section 14513 of this title on” and “, or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time” before the period at end.
 
 1996—Pub. L. 104–106 inserted comma after “Force” in section catchline.
 
@@ -16,5 +16,5 @@ Pub. L. 106–65, div. A, title V, §514(b), Oct. 5, 1999, 113 Stat. 593, provid
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 

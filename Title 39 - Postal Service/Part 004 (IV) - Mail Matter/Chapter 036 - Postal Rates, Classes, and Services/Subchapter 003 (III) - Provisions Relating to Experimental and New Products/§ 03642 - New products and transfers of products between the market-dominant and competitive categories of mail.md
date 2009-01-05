@@ -38,7 +38,7 @@ Notification requirement.—The Postal Service shall, whenever it requests to ad
 
 &emsp;(2)
 
-Publication requirement.—The Postal Regulatory Commission shall, whenever it changes the list of products in the market-dominant or competitive category of mail, prescribe new lists of products. The revised lists shall indicate how and when any previous lists (including the lists under sections 3621 and 3631) are superseded, and shall be published in the Federal Register.
+Publication requirement.—The Postal Regulatory Commission shall, whenever it changes the list of products in the market-dominant or competitive category of mail,prescribe new lists of products. The revised lists shall indicate how and when any previous lists (including the lists under sections 3621 and 3631) are superseded, and shall be published in the Federal Register.
 
 (e)
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(B) the employee fails to return to work for a reason other than—
 
-&emsp;&emsp;&emsp;(i) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title; or
+&emsp;&emsp;&emsp;(i) the continuation, recurrence, or onset of a serious health condition that entitles the employee to leave under subparagraph (C) or (D) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title; or
 
 &emsp;&emsp;&emsp;(ii) other circumstances beyond the control of the employee.
 
@@ -70,9 +70,11 @@
 
 &emsp;&emsp;An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
 
-&emsp;&emsp;&emsp;(i) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title; or
+&emsp;&emsp;&emsp;(i) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
 
-&emsp;&emsp;&emsp;(ii) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title.
+&emsp;&emsp;&emsp;(ii) a certification issued by the health care provider of the eligible employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(D) of this title; or
+
+&emsp;&emsp;&emsp;(iii) a certification issued by the health care provider of the servicemember being cared for by the employee, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(3) of this title.
 
 #### (B) Copy
 
@@ -88,5 +90,11 @@
 
 &emsp;&emsp;&emsp;The certification described in subparagraph (A)(i) shall be sufficient if the certification states that the employee is needed to care for the son, daughter, spouse, or parent who has a serious health condition on the date that the leave of the employee expired.
 
-(Pub. L. 103–3, title I, §104, Feb. 5, 1993, 107 Stat. 12.)
+(Pub. L. 103–3, title I, §104, Feb. 5, 1993, 107 Stat. 12; Pub. L. 110–181, div. A, title V, §585(a)(3)(F), Jan. 28, 2008, 122 Stat. 131.)
+
+#### Amendments
+
+2008—Subsec. (c)(2)(B)(i). Pub. L. 110–181, §585(a)(3)(F)(i), inserted “or under section 2612(a)(3) of this title” before semicolon.
+
+Subsec. (c)(3)(A)(iii). Pub. L. 110–181, §585(a)(3)(F)(ii), added cl. (iii).
 

@@ -74,7 +74,7 @@
 
 #### (i) Filing of action for review
 
-&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary.
+&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneouslysending a copy of such notice by registered mail to the Secretary.
 
 #### (ii) Certification of administrative record
 
@@ -102,7 +102,79 @@
 
 &emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
-(July 1, 1944, ch. 373, title XXVII, §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968.)
+#### (3) Enforcement authority relating to genetic discrimination
+
+#### (A) General rule
+
+&emsp;&emsp;In the cases described in paragraph (1), notwithstanding the provisions of paragraph (2)(C), the succeeding subparagraphs of this paragraph shall apply with respect to an action under this subsection by the Secretary with respect to any failure of a health insurance issuer in connection with a group health plan, to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 300gg–1 of this title or section 300gg or 300gg–1(b)(1) of this title with respect to genetic information in connection with the plan.
+
+#### (B) Amount
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The amount of the penalty imposed under this paragraph shall be $100 for each day in the noncompliance period with respect to each participant or beneficiary to whom such failure relates.
+
+#### (ii) Noncompliance period
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “noncompliance period” means, with respect to any failure, the period—
+
+&emsp;&emsp;&emsp;&emsp;(I) beginning on the date such failure first occurs; and
+
+&emsp;&emsp;&emsp;&emsp;(II) ending on the date the failure is corrected.
+
+#### (C) Minimum penalties where failure discovered
+
+&emsp;&emsp;Notwithstanding clauses (i) and (ii) of subparagraph (D):
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of 1 or more failures with respect to an individual—
+
+&emsp;&emsp;&emsp;&emsp;(I) which are not corrected before the date on which the plan receives a notice from the Secretary of such violation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) which occurred or continued during the period involved;
+
+&emsp;&emsp;&nbsp;the amount of penalty imposed by subparagraph (A) by reason of such failures with respect to such individual shall not be less than $2,500.
+
+#### (ii) Higher minimum penalty where violations are more than de minimis
+
+&emsp;&emsp;&emsp;To the extent violations for which any person is liable under this paragraph for any year are more than de minimis, clause (i) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
+
+#### (D) Limitations
+
+#### (i) Penalty not to apply where failure not discovered exercising reasonable diligence
+
+&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
+
+#### (ii) Penalty not to apply to failures corrected within certain periods
+
+&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such failure was due to reasonable cause and not to willful neglect; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such penalty knew, or exercising reasonable diligence would have known, that such failure existed.
+
+#### (iii) Overall limitation for unintentional failures
+
+&emsp;&emsp;&emsp;In the case of failures which are due to reasonable cause and not to willful neglect, the penalty imposed by subparagraph (A) for failures shall not exceed the amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (or predecessor employer) during the preceding taxable year for group health plans; or
+
+&emsp;&emsp;&emsp;&emsp;(II) $500,000.
+
+#### (E) Waiver by Secretary
+
+&emsp;&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
+
+(July 1, 1944, ch. 373, title XXVII, §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat. 891.)
+
+#### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–1 of this title.
 
 #### Effective Date
 

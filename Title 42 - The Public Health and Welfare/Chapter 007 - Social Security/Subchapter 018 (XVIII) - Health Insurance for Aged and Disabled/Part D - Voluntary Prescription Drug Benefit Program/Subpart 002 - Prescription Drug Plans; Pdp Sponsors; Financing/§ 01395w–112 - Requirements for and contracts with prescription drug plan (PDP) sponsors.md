@@ -26,7 +26,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (1) In general
 
-&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in a prescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in aprescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (2) Limitation on entities offering fallback prescription drug plans
 
@@ -62,7 +62,11 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (D) Additional contract terms
 
-&emsp;&emsp;Section 1395w–27(e) of this title; except that section 1395w–27(e)(2) of this title shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D.
+&emsp;&emsp;Section 1395w–27(e) of this title; except that section 1395w–27(e)(2) of this title shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—
+
+&emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
+
+&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup> oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
 
 #### (E) Intermediate sanctions
 
@@ -71,6 +75,102 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 #### (F) Procedures for termination
 
 &emsp;&emsp;Section 1395w–27(h) of this title.
+
+#### (4) Prompt payment of clean claims
+
+#### (A) Prompt payment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to all clean claims submitted by pharmacies (other than pharmacies that dispense drugs by mail order only or are located in, or contract with, a long-term care facility) under this part within the applicable number of calendar days after the date on which the claim is received.
+
+#### (ii) Clean claim defined
+
+&emsp;&emsp;&emsp;In this paragraph, the term “clean claim” means a claim that has no defect or impropriety (including any lack of any required substantiating documentation) or particular circumstance requiring special treatment that prevents timely payment from being made on the claim under this part.
+
+#### (iii) Date of receipt of claim
+
+&emsp;&emsp;&emsp;In this paragraph, a claim is considered to have been received—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to claims submitted electronically, on the date on which the claim is transferred; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to claims submitted otherwise, on the 5th day after the postmark date of the claim or the date specified in the time stamp of the transmission.
+
+#### (B) Applicable number of calendar days defined
+
+&emsp;&emsp;In this paragraph, the term “applicable number of calendar days” means—
+
+&emsp;&emsp;&emsp;(i) with respect to claims submitted electronically, 14 days; and
+
+&emsp;&emsp;&emsp;(ii) with respect to claims submitted otherwise, 30 days.
+
+#### (C) Interest payment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), if payment is not issued, mailed, or otherwise transmitted within the applicable number of calendar days (as defined in subparagraph (B)) after a clean claim is received, the PDP sponsor shall pay interest to the pharmacy that submitted the claim at a rate equal to the weighted average of interest on 3-month marketable Treasury securities determined for such period, increased by 0.1 percentage point for the period beginning on the day after the required payment date and ending on the date on which payment is made (as determined under subparagraph (D)(iv)). Interest amounts paid under this subparagraph shall not be counted against the administrative costs of a prescription drug plan or treated as allowable risk corridor costs under section 1395w–115(e) of this title.
+
+#### (ii) Authority not to charge interest
+
+&emsp;&emsp;&emsp;The Secretary may provide that a PDP sponsor is not charged interest under clause (i) in the case where there are exigent circumstances, including natural disasters and other unique and unexpected events, that prevent the timely processing of claims.
+
+#### (D) Procedures involving claims
+
+#### (i) Claim deemed to be clean
+
+&emsp;&emsp;&emsp;A claim is deemed to be a clean claim if the PDP sponsor involved does not provide notice to the claimant of any deficiency in the claim—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to claims submitted electronically, within 10 days after the date on which the claim is received; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to claims submitted otherwise, within 15 days after the date on which the claim is received.
+
+#### (ii) Claim determined to not be a clean claim
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a PDP sponsor determines that a submitted claim is not a clean claim, the PDP sponsor shall, not later than the end of the period described in clause (i), notify the claimant of such determination. Such notification shall specify all defects or improprieties in the claim and shall list all additional information or documents necessary for the proper processing and payment of the claim.
+
+#### (II) Determination after submission of additional information
+
+&emsp;&emsp;&emsp;&emsp;A claim is deemed to be a clean claim under this paragraph if the PDP sponsor involved does not provide notice to the claimant of any defect or impropriety in the claim within 10 days of the date on which additional information is received under subclause (I).
+
+#### (iii) Obligation to pay
+
+&emsp;&emsp;&emsp;A claim submitted to a PDP sponsor that is not paid or contested by the sponsor within the applicable number of days (as defined in subparagraph (B)) after the date on which the claim is received shall be deemed to be a clean claim and shall be paid by the PDP sponsor in accordance with subparagraph (A).
+
+#### (iv) Date of payment of claim
+
+&emsp;&emsp;&emsp;Payment of a clean claim under such subparagraph is considered to have been made on the date on which—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to claims paid electronically, the payment is transferred; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to claims paid otherwise, the payment is submitted to the United States Postal Service or common carrier for delivery.
+
+#### (E) Electronic transfer of funds
+
+&emsp;&emsp;A PDP sponsor shall pay all clean claims submitted electronically by electronic transfer of funds if the pharmacy so requests or has so requested previously. In the case where such payment is made electronically, remittance may be made by the PDP sponsor electronically as well.
+
+#### (F) Protecting the rights of claimants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to prohibit or limit a claim or action not covered by the subject matter of this section that any individual or organization has against a provider or a PDP sponsor.
+
+#### (ii) Anti-retaliation
+
+&emsp;&emsp;&emsp;Consistent with applicable Federal or State law, a PDP sponsor shall not retaliate against an individual or provider for exercising a right of action under this subparagraph.
+
+#### (G) Rule of construction
+
+&emsp;&emsp;A determination under this paragraph that a claim submitted by a pharmacy is a clean claim shall not be construed as a positive determination regarding eligibility for payment under this subchapter, nor is it an indication of government approval of, or acquiescence regarding, the claim submitted. The determination shall not relieve any party of civil or criminal liability with respect to the claim, nor does it offer a defense to any administrative, civil, or criminal action with respect to the claim.
+
+#### (5) Submission of claims by pharmacies located in or contracting with long-term care facilities
+
+&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that a pharmacy located in, or having a contract with, a long-term care facility shall have not less than 30 days (but not more than 90 days) to submit claims to the sponsor for reimbursement under the plan.
+
+#### (6) Regular update of prescription drug pricing standard
+
+&emsp;If the PDP sponsor of a prescription drug plan uses a standard for reimbursement of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part with respect to the plan shall provide that the sponsor shall update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug.
 
 #### (c) Waiver of certain requirements to expand choice
 
@@ -126,7 +226,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (e) Licensure does not substitute for or constitute certification
 
-The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section orhas a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
+The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of this section or has a waiver application approved under subsection (c) of this section does not deem the sponsor to meet other requirements imposed under this part for a sponsor.
 
 #### (f) Periodic review and revision of standards
 
@@ -142,9 +242,31 @@ The fact that a PDP sponsor is licensed in accordance with subsection (a)(1) of 
 
 The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shall apply with respect to PDP sponsors and prescription drug plans under this part in the same manner as such sections apply to MA organizations and MA plans under part C of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582.)
 
 #### References in Text
 
+Part D, referred to in subsec. (b)(3)(D), is classified to section 1395w–101 et seq. of this title.
+
 Part C of this subchapter, referred to in subsecs. (c)(1)(B) and (g), is classified to section 1395w–21 et seq. of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(3)(D). Pub. L. 110–275, §181, inserted at end “Notwithstanding any other provision of law, information provided to the Secretary under the application of section 1395w–27(e)(1) of this title to contracts under this section under the preceding sentence—” and added cls. (i) and (ii).
+
+Subsec. (b)(4). Pub. L. 110–275, §171(a), added par. (4).
+
+Subsec. (b)(5). Pub. L. 110–275, §172(a)(1), added par. (5).
+
+Subsec. (b)(6). Pub. L. 110–275, §173(a), added par. (6).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 171(a) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2010, see section 171(c) of Pub. L. 110–275, set out as a note under section 1395w–27 of this title.
+
+Amendment by section 172(a)(1) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2010, see section 172(b) of Pub. L. 110–275, set out as a note under section 1395w–27 of this title.
+
+Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 173(c) of Pub. L. 110–275, set out as a note under section 1395w–27 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

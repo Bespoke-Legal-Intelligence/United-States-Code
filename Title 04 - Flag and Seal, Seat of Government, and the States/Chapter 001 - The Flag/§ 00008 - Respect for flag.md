@@ -20,7 +20,7 @@ No disrespect should be shown to the flag of the United States of America; the f
 
 (i) The flag should never be used for advertising purposes in any manner whatsoever. It should not be embroidered on such articles as cushions or handkerchiefs and the like, printed or otherwise impressed on paper napkins or boxes or anything that is designed for temporary use and discard. Advertising signs should not be fastened to a staff or halyard from which the flag is flown.
 
-(j) No part of the flag should ever be used as a costume or athletic uniform. However, a flag patch may be affixed to the uniform of military personnel, firemen, policemen, and members of patriotic organizations. The flag represents aliving country and is itself considered a living thing. Therefore, the lapel flag pin being a replica, should be worn on the left lapel near the heart.
+(j) No part of the flag should ever be used as a costume or athletic uniform. However, a flag patch may be affixed to the uniform of military personnel, firemen, policemen, and members of patriotic organizations. The flag represents a living country and is itself considered a living thing. Therefore, the lapel flag pin being a replica, should be worn on the left lapel near the heart.
 
 (k) The flag, when it is in such condition that it is no longer a fitting emblem for display, should be destroyed in a dignified way, preferably by burning.
 

@@ -28,15 +28,23 @@ Bar From Duplication of Educational Assistance Allowance.—(1) Except as provid
 
 (2) The restriction on duplication of educational assistance under paragraph (1) does not apply to the entitlement of educational assistance under section 16131(i) of this title.
 
-(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 109–163, div. A, title V, §540(a), Jan. 6, 2006, 119 Stat. 3251.)
+(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 109–163, div. A, title V, §540(a), Jan. 6, 2006, 119 Stat. 3251; Pub. L. 110–252, title V, §5003(b)(1)(C), June 30, 2008, 122 Stat. 2375.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 110–252, title V, §5003(b)(1)(C), (d), June 30, 2008, 122 Stat. 2375, 2378, provided that, effective Aug. 1, 2009, subsection (e) of this section is amended by inserting “33,” after “32,”.</i>
 
 #### References in Text
 
-The Hostage Relief Act of 1980, referred to in subsec. (e)(1), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under section 5561 of Title 5, Government Organization and Employees.
+The Hostage Relief Act of 1980, referred to in subsec. (e)(1), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note undersection 5561 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
 2006—Subsec. (e)(1). Pub. L. 109–163 substituted “Secretary of Veterans Affairs” for “Secretary concerned”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–252, title V, §5003(d), June 30, 2008, 122 Stat. 2378, provided that: “This section \[enacting chapter 33 of Title 38, Veterans’ Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under section 3301 of Title 38\] and the amendments made by this section shall take effect on August 1, 2009.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “program”.</i>
 

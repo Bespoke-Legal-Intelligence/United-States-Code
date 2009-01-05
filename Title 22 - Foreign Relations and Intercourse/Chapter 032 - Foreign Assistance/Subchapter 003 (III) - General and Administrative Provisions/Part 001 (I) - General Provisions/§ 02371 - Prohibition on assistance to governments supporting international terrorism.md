@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-The United States shall not provide any assistance under this chapter, the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], the Peace Corps Act \[22 U.S.C. 2501 et seq.\], or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] to any country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism.
+The United States shall not provide any assistance under this chapter, the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the Peace Corps Act \[22 U.S.C. 2501 et seq.\], or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] to any country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism.
 
 #### (b) Publication of determinations
 
@@ -44,19 +44,21 @@ Assistance prohibited by subsection (a) of this section may be provided to a cou
 
 > The waiver authority granted in this subsection may not be used to provide any assistance under this chapter which is also prohibited by section 2780 of this title.
 
-(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753; amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897.)
+(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753; amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d), was in the original “this Act” and “the Foreign Assistance Act of 1961”, respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Export-Import Bank Act of 1945, referred to in subsecs. (a) and (d)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to chapter 6A (§635 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 1989—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grants sanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
 
@@ -67,6 +69,10 @@ Pub. L. 99–83 amended subsec. (a) generally, substituting provisions relating 
 Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting provisions relating to waiver of application of subsec. (a), for provisions relating to reports respecting continuation of assistance to any country falling within provisions of former subsec. (a) of this section.
 
 Subsec. (c). Pub. L. 99–83, in amending section generally, added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1985 Amendment
 

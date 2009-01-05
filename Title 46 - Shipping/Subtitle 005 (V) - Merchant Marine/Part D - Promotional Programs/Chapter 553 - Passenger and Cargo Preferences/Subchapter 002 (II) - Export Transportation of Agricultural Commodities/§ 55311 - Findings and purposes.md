@@ -8,7 +8,7 @@ Findings.—Congress finds that—
 
 &emsp;(2) both industries must compete in international markets increasingly dominated by foreign trade barriers and the subsidization practices of foreign governments; and
 
-&emsp;(3) increased agricultural exports and the use of merchant vessels of the United Statescontribute positively to the United States balance of trade and generate employment opportunities in the United States.
+&emsp;(3) increased agricultural exports and the use of merchant vessels of the United States contribute positively to the United States balance of trade and generate employment opportunities in the United States.
 
 (b)
 

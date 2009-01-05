@@ -24,7 +24,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 #### (2) Conversion
 
-&emsp;For the purposes of paragraph (1), a contribution or donation shall be considered to be converted to personal use if the contribution or amount is used to fulfill any commitment, obligation, or expense of a person that would exist irrespective of the candidate's election campaign or individual's duties as a holder of Federal office, including—
+&emsp;For the purposes of paragraph (1), a contribution or donation shall be considered to be converted to personal use if the contribution or amount is used to fulfill any commitment, obligation, or expense of a person that wouldexist irrespective of the candidate's election campaign or individual's duties as a holder of Federal office, including—
 
 &emsp;&emsp;(A) a home mortgage, rent, or utility payment;
 

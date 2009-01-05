@@ -12,7 +12,7 @@ In this chapter—
 
 &emsp;&emsp;(B) an ocean common carrier (as defined in section 40102 of title 46) providing transportation of property in commerce.
 
-&emsp;(4) “container” has the meaning given the term “freight container” by the International Standards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
+&emsp;(4) “container” has the meaning given the term “freight container” by the InternationalStandards Organization in Series 1, Freight Containers, 3d Edition (reference number ISO668–1979(E)), including successive revisions, and similar containers that are used in providing transportation in interstate commerce.
 
 &emsp;(5) “first carrier” means the first carrier transporting a loaded container or trailer in intermodal transportation.
 

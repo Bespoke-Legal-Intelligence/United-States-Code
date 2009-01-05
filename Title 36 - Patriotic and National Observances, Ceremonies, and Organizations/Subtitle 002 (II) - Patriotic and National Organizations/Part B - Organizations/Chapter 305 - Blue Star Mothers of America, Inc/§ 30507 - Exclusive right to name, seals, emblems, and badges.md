@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 14, 1960, Pub. L. 86–653, §16, 74 Stat. 518.
 
-The word “sole” is omitted as included in “exclusive”. The words “and no other organization shall use the name ‘Blue Star Mothers of America, Inc.’ ” are omitted as unnecessary. The words “and to allow others to use” are substituted for “or to allow or refuse the use of” for consistency in the revised title. The words “the corporation adopts” are substituted for “ashave heretofore been used by the Blue Star Mothers of America” for consistency in the revised title.
+The word “sole” is omitted as included in “exclusive”. The words “and no other organization shall use the name ‘Blue Star Mothers of America, Inc.’ ” are omitted as unnecessary. The words “and to allow others to use” are substituted for “or to allow or refuse the use of” for consistency in the revised title. The words “the corporation adopts” are substituted for “as have heretofore been used by the Blue Star Mothers of America” for consistency in the revised title.
 

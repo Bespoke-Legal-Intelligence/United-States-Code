@@ -30,7 +30,7 @@ Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: “This
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
+Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: “This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out asnotes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the ‘Water Resources Development Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -132,7 +132,7 @@ Purchase of American-Made Equipment and Products.—It is the sense of Congress 
 
 “(b)
 
-Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
+Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Secretary,to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
 #### Budget Act Requirements
 

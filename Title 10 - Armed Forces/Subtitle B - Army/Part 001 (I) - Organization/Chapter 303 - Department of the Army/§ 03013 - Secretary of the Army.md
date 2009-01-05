@@ -36,7 +36,7 @@
 
 &emsp;(2) the formulation of policies and programs by the Department of the Army that are fully consistent with national security objectives and policies established by the President or the Secretary of Defense;
 
-&emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
+&emsp;(3) the effective and timely implementation of policy, program, and budget decisions andinstructions of the President or the Secretary of Defense relating to the functions of the Department of the Army;
 
 &emsp;(4) carrying out the functions of the Department of the Army so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
 
@@ -120,7 +120,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 &emsp;&emsp;“(B) A discussion and description of the training ranges and other essential elements required to support the training strategy.
 
-&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent withthe future-years defense program to accompany the budget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
+&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany the budget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
 
 &emsp;&emsp;“(D) A schedule for the implementation of the training strategy.
 
@@ -138,7 +138,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual reporton the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 

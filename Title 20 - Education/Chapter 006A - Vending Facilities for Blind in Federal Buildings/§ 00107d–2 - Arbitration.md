@@ -24,7 +24,7 @@ Upon receipt of a complaint filed under section 107d–1 of this title, the Secr
 
 &emsp;(C) one individual, not employed by the Federal department, agency, or instrumentality controlling the Federal property over which the dispute arose, who shall serve as chairman, jointly designated by the members appointed under subparagraphs (A) and (B).
 
-> If any party fails to designate a member under subparagraph (2)(A), (B), or (C), the Secretary shall designate such member on behalf of such party. If the panel appointed pursuant to paragraph (2) finds that the acts or practices of any such department, agency, or instrumentality are in violation of this chapter, or any regulation issued thereunder, the head of any such department, agency, or instrumentality shall cause such acts or practices to be terminated promptly and shall take such other action as may be necessary to carry out the decision of the panel.
+> If any party fails to designate a member under subparagraph (2)(A), (B), or (C), the Secretary shall designate such member on behalf of such party. If the panel appointed pursuant to paragraph (2) finds that the acts or practices of anysuch department, agency, or instrumentality are in violation of this chapter, or any regulation issued thereunder, the head of any such department, agency, or instrumentality shall cause such acts or practices to be terminated promptly and shall take such other action as may be necessary to carry out the decision of the panel.
 
 #### (c) Publication of decisions in Federal Register
 

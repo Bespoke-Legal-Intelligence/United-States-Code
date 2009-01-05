@@ -12,7 +12,7 @@ The Secretary may sell products from the Reserve only upon a finding by the Pres
 
 For purposes of this section a “dislocation in the heating oil market” shall be deemed to occur only when—
 
-&emsp;(1) The price differential between crude oil, as reflected in an industry daily publication such as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average), and continues for 7 consecutive days; and
+&emsp;(1) The price differential between crude oil, as reflected in an industry daily publicationsuch as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average), and continues for 7 consecutive days; and
 
 &emsp;(2) The price differential continues to increase during the most recent week for which price information is available.
 
@@ -30,7 +30,7 @@ After consultation with the heating oil industry, the Secretary shall determine 
 
 &emsp;&emsp;(B) enter into exchange agreements for the petroleum distillate that results <sup>1</sup> in the Secretary receiving a greater volume of petroleum distillate as repayment than the volume provided to the acquirer;
 
-&emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalent in petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting ina loss of revenue or value to the United States; and
+&emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalent in petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting in a loss of revenue or value to the United States; and
 
 &emsp;(3) the Secretary shall only sell or dispose of the oil in the Reserve to entities customarily engaged in the sale and distribution of petroleum distillate.
 

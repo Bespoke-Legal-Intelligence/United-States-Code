@@ -4,7 +4,7 @@
 
 #### (1) Allowance of deduction
 
-&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent towhich this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
+&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent to which this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
 
 #### (2) Maximum deduction
 
@@ -172,7 +172,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 &emsp;&emsp;(B) the qualified heir disposes of any portion of a qualified family-owned business interest (other than by a disposition to a member of the qualified heir's family or through a qualified conservation contribution under section 170(h)),
 
-&emsp;&emsp;(C) the qualified heir loses United States citizenship (within the meaning of section 877) or with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) occurs, and such heir does not comply with the requirements of subsection (g), or
+&emsp;&emsp;(C) the qualified heir loses United States citizenship (within the meaning of section 877) or with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) <sup>1</sup> occurs, and such heir does not comply with the requirements of subsection (g), or
 
 &emsp;&emsp;(D) the principal place of business of a trade or business of the qualified family-owned business interest ceases to be located in the United States.
 
@@ -320,6 +320,10 @@ This section shall not apply to the estates of decedents dying after December 31
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+#### References in Text
+
+Section 877(e)(1), referred to in subsec. (f)(1)(C), was amended generally by Pub. L. 110–245, title III, §301(c)(2)(A), June 17, 2008, 122 Stat. 1646, and, as so amended, no longer contains subparagraphs.
+
 #### Prior Provisions
 
 A prior section 2057, added Pub. L. 99–514, title XI, §1172(a), Oct. 22, 1986, 100 Stat. 2513; amended Pub. L. 100–203, title X, §§10411(a), 10412(a), Dec. 22, 1987, 101 Stat. 1330–432, 1330–433; Pub. L. 100–647, title I, §1011B(g)(3), Nov. 10, 1988, 102 Stat. 3490, related to sales of employer securities to employee stock ownership plans or worker-owned cooperatives, prior to repeal by Pub. L. 101–239, title VII, §7304(a)(1), (3), Dec. 19, 1989, 103 Stat. 2352, 2353, applicable to estates of decedents dying after Dec. 19, 1989.
@@ -391,4 +395,6 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section 502(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to estates of decedents dying after December 31, 1997.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

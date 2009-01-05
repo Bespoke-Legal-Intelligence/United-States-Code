@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of theguarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 2008 through 2012 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans underthis section in each of fiscal years 2008 through 2012 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (6) Liabilities
 
@@ -182,7 +182,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (j) Requirements for standard housing
 
-The Secretary shall, by regulation, establish housing safety and quality standards for useunder this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
+The Secretary shall, by regulation, establish housing safety and quality standards for use under this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
 
 &emsp;(1) be decent, safe, sanitary, and modest in size and design;
 
@@ -264,11 +264,11 @@ For purposes of this section:
 
 &emsp;(8)
 
-Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
+Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Nativevillage or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 450 et seq.\].
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat.2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229.)
 
 #### References in Text
 
@@ -320,9 +320,9 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out “in a cour
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted “mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted “restricted Indian land, the mortgagee or” for “tribal allotted or trust land,”, in second sentence substituted“mortgagee or the Secretary” for “Secretary” in two places, and struck out heading and text of former par. (2). Text read as follows: “Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.”
 
-Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscalyear only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
+Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year.”
 
 Subsec. (i)(5)(B). Pub. L. 104–330, §701(j)(2), inserted at end “Any amounts appropriated pursuant to this subparagraph shall remain available until expended.”
 

@@ -166,7 +166,7 @@ The State shall make copies of the reports and audits required by this section a
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
-(3) For other provisions relating to deposit, accounting, reports, and auditing with respect to Federal grants to States, see section 6503(b) <sup>1</sup> of title 31.
+(3) For other provisions relating to deposit, accounting, reports, and auditing with respect toFederal grants to States, see section 6503(b) <sup>1</sup> of title 31.
 
 (Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
@@ -208,7 +208,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(2)\], Nov. 29, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6503(c)(3), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal yearsbeginning with fiscal year 1991, and amendment by section 6504 of Pub. L. 101–239 applicable to annual reports for fiscal years beginning with fiscal year 1991, see section 6510(b) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6503(c)(3), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, and amendment by section 6504 of Pub. L. 101–239 applicable to annual reports for fiscal years beginning with fiscal year 1991, see section 6510(b) of Pub. L. 101–239, set out as a note under section 701 of this title.
 
 #### Reports to Congress; Activities of States Receiving Allotments and Study of Alternative Formulas for Allotment
 

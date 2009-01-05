@@ -98,7 +98,7 @@ In providing assistance under subsection (a) of this section, the State shall, a
 
 #### (f) Allocation of funds; treatment as support services
 
-For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grantsunder section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
+For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
 (July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331; Pub. L. 109–415, title II, §§201(b), 204(a), title VII, §702(3), Dec. 19, 2006, 120 Stat. 2787, 2796, 2820.)
 

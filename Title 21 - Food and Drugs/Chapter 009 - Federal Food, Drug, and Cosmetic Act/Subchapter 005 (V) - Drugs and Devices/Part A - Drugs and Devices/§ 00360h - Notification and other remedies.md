@@ -72,7 +72,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 &emsp;(ii) shall provide for notice to individuals subject to the risks associated with the use of such device.
 
-> In providing the notice required by clause (ii), the Secretary may use the assistance of health professionals who prescribed or used such a device for individuals. If a significant number of such individuals cannot be identified, the Secretary shall notify such individuals pursuant to section 375(b) of this title.
+> In providing the notice required by clause (ii), the Secretary may use the assistance of healthprofessionals who prescribed or used such a device for individuals. If a significant number of such individuals cannot be identified, the Secretary shall notify such individuals pursuant to section 375(b) of this title.
 
 (3) The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c) of this section.
 

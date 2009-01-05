@@ -104,7 +104,7 @@ Exceptions.—(1) The following provisions of or amendments made by this Act sha
 
 &emsp;“(D) Paragraphs (2) through (5) of section 1774(a) \[now 3674(a)\] of such title, as added by section 13(a)(1) of this Act.
 
-“(2) The provisions of and amendments made by sections 4 through 11 \[see Tables for classification\] shalltake effect on the 60th day after the date of the enactment of this Act \[May 20, 1988\].”
+“(2) The provisions of and amendments made by sections 4 through 11 \[see Tables for classification\] shall take effect on the 60th day after the date of the enactment of this Act \[May 20, 1988\].”
 
 #### Effective Date
 

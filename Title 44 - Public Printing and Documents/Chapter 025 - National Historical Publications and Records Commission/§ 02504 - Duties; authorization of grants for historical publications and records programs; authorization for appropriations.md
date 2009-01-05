@@ -1,6 +1,6 @@
 ### §2504. Duties; authorization of grants for historical publications and records programs; authorization for appropriations
 
-(a) The Commission shall make plans, estimates, and recommendations for historical works and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
+(a) The Commission shall make plans, estimates, and recommendations for historicalworks and collections of sources it considers appropriate for preserving, publishing or otherwise recording at the public expense. The Chairman of the Commission shall transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by the Commission.
 
 (b) The Commission shall cooperate with, assist and encourage appropriate Federal, State, and local agencies and nongovernmental institutions, societies, and individuals in collecting and preserving and, when it considers it desirable, in editing and publishing papers of outstanding citizens of the United States, and other documents as may be important for an understanding and appreciation of the history of the United States.
 
@@ -10,7 +10,59 @@
 
 (e) The Archivist of the United States may, within the limits of available appropriated and donated funds, make grants to State and local agencies and to nonprofit organizations, institutions, and individuals, for those activities in subsection (d) after considering the advice and recommendations of the Commission.
 
-(f)(1) For the purposes specified in this section, there is hereby authorized to be appropriated to the National Historical Publications and Records Commission—
+(f)
+
+Grants for Presidential Centers of Historical Excellence.—
+
+&emsp;(1)
+
+In general.—The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the “Presidential Libraries Act of 1955”).
+
+&emsp;(2)
+
+Eligible entity.—For purposes of this subsection, an eligible entity is—
+
+&emsp;&emsp;(A) an organization described under section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code; or
+
+&emsp;&emsp;(B) a State or local government of the United States.
+
+&emsp;(3)
+
+Use of funds.—Amounts received by an eligible entity under paragraph (1) shall be used to promote the historical preservation of, and public access to, historical records or historical documents relating to any former President covered under paragraph (1).
+
+&emsp;(4)
+
+Prohibition on use of funds.—Amounts received by an eligible entity under paragraph (1) may not be used for the maintenance, operating costs, or construction of any facility to house the historical records or historical documents relating to any former President covered under paragraph (1).
+
+&emsp;(5)
+
+Application.—
+
+&emsp;&emsp;(A)
+
+In general.—An eligible entity seeking a grant under this subsection shall submit to the Commission an application at such time, in such manner, and containing or accompanied by such information as the Commission may require, including a description of the activities for which a grant under this subsection is sought.
+
+&emsp;&emsp;(B)
+
+Approval of application.—The Commission shall not consider or recommend a grant application submitted under subparagraph (A) unless an eligible entity establishes that such entity—
+
+&emsp;&emsp;&emsp;(i) possesses, with respect to any former President covered under paragraph (1), historical works and collections of historical sources that the Commission considers appropriate for preserving, publishing, or otherwise recording at the public expense;
+
+&emsp;&emsp;&emsp;(ii) has appropriate facilities and space for preservation of, and public access to, the historical works and collections of historical sources;
+
+&emsp;&emsp;&emsp;(iii) shall ensure preservation of, and public access to, such historical works and collections of historical sources at no charge to the public;
+
+&emsp;&emsp;&emsp;(iv) has educational programs that make the use of such documents part of the mission of such entity;
+
+&emsp;&emsp;&emsp;(v) has raised funds from non-Federal sources in support of the efforts of the entity to promote the historical preservation of, and public access to, such historical works and collections of historical sources in an amount equal to the amount of the grant the entity seeks under this subsection;
+
+&emsp;&emsp;&emsp;(vi) shall coordinate with any relevant Federal program or activity, including programs and activities relating to Presidential archival depositories;
+
+&emsp;&emsp;&emsp;(vii) shall coordinate with any relevant non-Federal program or activity, including programs and activities conducted by State and local governments and private educational historical entities; and
+
+&emsp;&emsp;&emsp;(viii) has a workable plan for preserving and providing public access to such historical works and collections of historical sources.
+
+(g)(1) For the purposes specified in this section, there is hereby authorized to be appropriated to the National Historical Publications and Records Commission—
 
 &emsp;(A) $6,000,000 for fiscal year 1989;
 
@@ -52,13 +104,19 @@
 
 (2) Amounts appropriated under this subsection shall be available until expended when so provided in appropriation Acts.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788; Pub. L. 108–383, §6, Oct. 30, 2004, 118 Stat. 2219.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788; Pub. L. 108–383, §6, Oct. 30, 2004, 118 Stat. 2219; Pub. L. 110–404, §2, Oct. 13, 2008, 122 Stat. 4281.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
+#### References in Text
+
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is classified to section 501 of Title 26, Internal Revenue Code.
+
 #### Amendments
+
+2008—Subsecs. (f), (g). Pub. L. 110–404 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2004—Subsec. (f)(1)(P) to (S). Pub. L. 108–383 added subpars. (P) to (S).
 
@@ -89,4 +147,16 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
+
+#### Grants for Establishment of State and Local Databases for Records of Servitude, Emancipation, and Post–Civil War Reconstruction
+
+Pub. L. 110–404, §8, Oct. 13, 2008, 122 Stat. 4285, provided that:
+
+“(a)
+
+In General.—The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
+
+“(b)
+
+Maintenance.—Any database established using a grant under this section shall be maintained by appropriate agencies or institutions designated by the Executive Director of the National Historical Publications and Records Commission.”
 

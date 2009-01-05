@@ -42,7 +42,7 @@ Upon request of the securities commissioner (or any agency or officer performing
 
 2006—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser—
 
-&emsp;“(1) to file with the Commission any fee, application, report, or notice required by this subchapter orby the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
+&emsp;“(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
 
 &emsp;“(2) to pay the reasonable costs associated with such filing.”
 

@@ -14,7 +14,7 @@ Nothing in this section or in this part shall be construed to preclude any forbe
 
 #### (d) Care and diligence required of holders
 
-Nothing in this section or in this part shall be construed to excuse the holder of a federally insured loan from exercising reasonable care and diligence in the making and collection of loans under the provisions of this part. If the Secretary, after a reasonable notice and opportunity for hearing to an eligible lender, finds that it has substantially failed to exercise such care and diligence or to make the reports and statements required under section 1078(a)(4) of this title and section 1079(a)(3) of this title, or to pay the required Federal loan insurance premiums, the Secretary shall disqualify that lender for further Federal insurance on loans granted pursuant to this part until the Secretary is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence or comply with such requirements, as the case may be.
+Nothing in this section or in this part shall be construed to excuse the holder of a federally insured loan from exercising reasonable care and diligence in the making and collection of loans under the provisions of this part. If the Secretary, after a reasonable notice and opportunity for hearing to an eligible lender, finds that it has substantially failed to exercise such care and diligence or to make the reports and statements required under section 1078(a)(4) of this title and section 1079(a)(3) of this title, or topay the required Federal loan insurance premiums, the Secretary shall disqualify that lender for further Federal insurance on loans granted pursuant to this part until the Secretary is satisfied that its failure has ceased and finds that there is reasonable assurance that the lender will in the future exercise necessary care and diligence or comply with such requirements, as the case may be.
 
 #### (e) Default rate of lenders, holders, and guaranty agencies
 
@@ -34,7 +34,7 @@ Nothing in this section or in this part shall be construed to excuse the holder 
 
 #### Prior Provisions
 
-A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 1244; Pub. L. 90–575, title I, §113(b)(5), Oct. 16, 1968, 82 Stat. 1021; Pub. L. 92–318, title I, §132B(c), June 23, 1972, 86 Stat. 262; Pub. L. 94–482, titleI, §127(a), Oct. 12, 1976, 90 Stat. 2125; Pub. L. 95–43, §1(a)(33), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§416(a)(1), (b), 422, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1420, 1421, 1432, 1503; Pub. L. 99–272, title XVI, §§16014(a)(2), 16022, Apr. 7, 1986, 100 Stat. 341, 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1080, Pub. L. 89–329, title IV, §430, Nov. 8, 1965, 79 Stat. 1244; Pub. L. 90–575, title I, §113(b)(5), Oct. 16, 1968, 82 Stat. 1021; Pub. L. 92–318, title I, §132B(c), June 23, 1972, 86 Stat. 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2125; Pub. L. 95–43, §1(a)(33), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§416(a)(1), (b), 422, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1420, 1421, 1432, 1503; Pub. L. 99–272, title XVI, §§16014(a)(2), 16022, Apr. 7, 1986, 100 Stat. 341, 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

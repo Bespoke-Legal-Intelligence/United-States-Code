@@ -6,7 +6,7 @@ The adjusted basis for determining the gain or loss from the sale or other dispo
 
 #### (b) Bargain sale to a charitable organization
 
-If a deduction is allowable under section 170 (relating to charitable contributions) by reason of a sale, then the adjusted basis for determining the gain from such sale shall be that portionof the adjusted basis which bears the same ratio to the adjusted basis as the amount realized bears to the fair market value of the property.
+If a deduction is allowable under section 170 (relating to charitable contributions) by reason of a sale, then the adjusted basis for determining the gain from such sale shall be that portion of the adjusted basis which bears the same ratio to the adjusted basis as the amount realized bears to the fair market value of the property.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 91–172, title II, §201(f), Dec. 30, 1969, 83 Stat. 564.)
 

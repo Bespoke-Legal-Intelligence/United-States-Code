@@ -4,7 +4,7 @@
 
 (b) Any construction work and labor in each State shall be performed in accordance with its laws and under the direct supervision of the State fish and game department, subject to the inspection and approval of the Secretary of the Interior and in accordance with rules and regulations made pursuant to this chapter. The Secretary of the Interior and the State fish and game department of each State may jointly determine at what times and in what amounts payments shall be made under this chapter. Such payments shall be made by the Secretary of the Treasury, on warrants drawn by the Secretary of the Interior against the said fund to such official or officials, or depository, as may be designated by the State fish and game department and authorized under the laws of the State to receive public funds of the State.
 
-(Sept. 2, 1937, ch. 899, §7, 50 Stat. 919; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100.)
+(Sept. 2, 1937, ch. 899, §7, 50 Stat. 919; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100.)
 
 #### Amendments
 
@@ -12,5 +12,5 @@
 
 #### Transfer of Functions
 
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees,transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 

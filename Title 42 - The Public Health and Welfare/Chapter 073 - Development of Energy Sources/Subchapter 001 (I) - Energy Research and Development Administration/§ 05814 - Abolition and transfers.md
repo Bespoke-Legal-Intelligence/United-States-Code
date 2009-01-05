@@ -42,7 +42,7 @@ There are hereby transferred to and vested in the Administrator such functions o
 
 #### (h) Exercise of authority necessary or appropriate to perform transferred functions and carry out transferred programs
 
-To the extent necessary or appropriate to perform functions and carry out programs transferred by this chapter, the Administrator and Commission may exercise, in relation to the functions so transferred, any authority or partthereof available by law, including appropriation Acts, to the official or agency from which such functions were transferred.
+To the extent necessary or appropriate to perform functions and carry out programs transferred by this chapter, the Administrator and Commission may exercise, in relation to the functions so transferred, any authority or part thereof available by law, including appropriation Acts, to the official or agency from which such functions were transferred.
 
 #### (i) Utilization of technical and management capabilities of other executive agencies; assignment of specific programs or projects in energy research and development
 
@@ -212,7 +212,7 @@ Section 66 \[42 U.S.C. 2096\] (“Acquisition”).
 
 Section 68 \[42 U.S.C. 2098\] (“Public and Acquired Lands”).
 
-Section 81 \[42 U.S.C. 2111\] (“Domestic Distribution”), and Section 82 \[42 U.S.C. 2112\] (“Foreign Distribution of Byproduct Material”); provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
+Section 81 \[42 U.S.C. 2111\] (“Domestic Distribution”), and Section 82 \[42 U.S.C. 2112\] (“Foreign Distribution ofByproduct Material”); provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
 
 Section 92 \[42 U.S.C. 2122\] (“Prohibition”).
 

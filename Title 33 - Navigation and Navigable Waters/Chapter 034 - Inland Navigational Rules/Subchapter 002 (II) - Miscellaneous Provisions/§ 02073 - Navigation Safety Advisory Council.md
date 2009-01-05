@@ -34,7 +34,7 @@ Par. (b). Pub. L. 101–225, §105(a)(1)(B), amended par. (b) generally. Prior t
 
 Par. (d). Pub. L. 101–225, §105(a)(1)(C), substituted “September 30, 1995” for “September 30, 1990”.
 
-1984—Par. (c). Pub. L. 98–557, §16(b)(2)(A), struck out provisions authorizing members who are not officers oremployees of the United States to receive compensation at a rate not exceeding the daily equivalent of the current rate of basic pay for GS–18 of the General Schedule under section 5332 of title 5.
+1984—Par. (c). Pub. L. 98–557, §16(b)(2)(A), struck out provisions authorizing members who are not officers or employees of the United States to receive compensation at a rate not exceeding the daily equivalent of the current rate of basic pay for GS–18 of the General Schedule under section 5332 of title 5.
 
 Par. (d). Pub. L. 98–557, §16(b)(2)(B), substituted “on September 30, 1990” for “5 years from the date of enactment of this Act”.
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 (d) The habitat areas of the coastal zone, and the fish, shellfish, other living marine resources, and wildlife therein, are ecologically fragile and consequently extremely vulnerable to destruction by man's alterations.
 
-(e) Important ecological, cultural, historic, and esthetic values in the coastal zone whichare essential to the well-being of all citizens are being irretrievably damaged or lost.
+(e) Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
 
 (f) New and expanding demands for food, energy, minerals, defense needs, recreation, waste disposal, transportation, and industrial activities in the Great Lakes, territorial sea, exclusive economic zone, and Outer Continental Shelf are placing stress on these areas and are creating the need for resolution of serious conflicts among important and competing uses and values in coastal and ocean waters;
 
@@ -216,7 +216,7 @@ Purpose.—Local and regional assessments shall examine—
 
 “(f)
 
-Scientific Assessment of Freshwater Harmful Algal Blooms.—(1) Not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] the Task Force shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
+Scientific Assessment of Freshwater Harmful Algal Blooms.—(1) Not later than 24 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\] the TaskForce shall complete and submit to Congress a scientific assessment of current knowledge about harmful algal blooms in freshwater, such as the Great Lakes and upper reaches of estuaries, including a research plan for coordinating Federal efforts to better understand freshwater harmful algal blooms.
 
 “(2) The freshwater harmful algal bloom scientific assessment shall—
 
@@ -256,7 +256,7 @@ Scientific Assessments of Harmful Algal Blooms.—(1) Not less than once every 5
 
 “(i)
 
-National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—(1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia AmendmentsAct of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
+National Scientific Research, Development, Demonstration, and Technology Transfer Plan on Reducing Impacts From Harmful Algal Blooms.—(1) Not later than 12 months after the date of enactment of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004 \[Dec. 10, 2004\], the Task Force shall develop and submit to Congress a plan providing for a comprehensive and coordinated national research program to develop and demonstrate prevention, control, and mitigation methods to reduce the impacts of harmful algal blooms on coastal ecosystems (including the Great Lakes), public health, and the economy.
 
 “(2) The plan shall—
 
@@ -282,7 +282,7 @@ Submission of a Plan.—No later than March 30, 2000, the President, in conjunct
 
 “There are authorized to be appropriated to the Secretary of Commerce for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia, $15,000,000 for fiscal year 1999, $18,250,000 for fiscal year 2000, $19,000,000 for fiscal year 2001, $23,500,000 for fiscal year 2005, $24,500,000 for fiscal year 2006, $25,000,000 for fiscal year 2007, and $30,000,000 for each of fiscal years 2008 through 2010, to remain available until expended. The Secretary shall consult with the States on a regular basis regarding the development and implementation of the activities authorized under this section. Of such amounts for each fiscal year—
 
-&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2010 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessment activities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
+&emsp;“(1) $1,500,000 for fiscal year 1999, $1,500,000 for fiscal year 2000, $2,000,000 for fiscal year 2001, and $2,500,000 for each of fiscal years 2005 through 2010 may be used to enable the National Oceanic and Atmospheric Administration to carry out research and assessmentactivities, including procurement of necessary research equipment, at research laboratories of the National Ocean Service and the National Marine Fisheries Service;
 
 &emsp;“(2) $4,000,000 for fiscal year 1999, $5,500,000 for fiscal year 2000, $5,500,000 for fiscal year 2001, and $6,500,000, of which $1,000,000 shall be used for the research program described in section 603(f)(2)(B), for each of fiscal years 2005 through 2010 may be used to carry out the Ecology and Oceanography of Harmful Algal Blooms (ECOHAB) project under the Coastal Ocean Program established under section 201(c) of Public Law 102–567 \[106 Stat. 4280\];
 
@@ -314,7 +314,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;“(3) Marine resources contribute to the Nation's economic stability. Commercial and recreational fishery activities support an industry with an estimated value of $12,000,000,000 a year.
 
-&emsp;“(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated$5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent of the Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
+&emsp;“(4) Wetlands play a vital role in sustaining the coastal economy and environment. Wetlands support and nourish fishery and marine resources. They also protect the Nation's shores from storm and wave damage. Coastal wetlands contribute an estimated $5,000,000,000 to the production of fish and shellfish in the United States coastal waters. Yet, 50 percent of the Nation's coastal wetlands have been destroyed, and more are likely to decline in the near future.
 
 &emsp;“(5) Nonpoint source pollution is increasingly recognized as a significant factor in coastal water degradation. In urban areas, storm water and combined sewer overflow are linked to major coastal problems, and in rural areas, run-off from agricultural activities may add to coastal pollution.
 

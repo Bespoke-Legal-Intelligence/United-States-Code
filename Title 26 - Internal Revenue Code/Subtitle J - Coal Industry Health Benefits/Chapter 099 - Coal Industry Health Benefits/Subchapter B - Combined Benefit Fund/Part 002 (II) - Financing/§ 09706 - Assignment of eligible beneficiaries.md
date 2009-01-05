@@ -56,7 +56,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, including section 6103, the head of any other agency, department, or instrumentality shall, upon receiving a written request from the Commissioner of Social Security in connection with this section, cause a search to be made of the files and records maintained by such agency, department, or instrumentality with a view to determiningwhether the information requested is contained in such files or records. The Commissioner shall be advised whether the search disclosed the information requested, and, if so, such information shall be promptly transmitted to the Commissioner, except that if the disclosure of any requested information would contravene national policy or security interests of the United States, or the confidentiality of census data, the information shall not be transmitted and the Commissioner shall be so advised.
+&emsp;&emsp;Notwithstanding any other provision of law, including section 6103, the head of any other agency, department, or instrumentality shall, upon receiving a written request from the Commissioner of Social Security in connection with this section, cause a search to be made of the files and records maintained by such agency, department, or instrumentality with a view to determining whether the information requested is contained in such files or records. The Commissioner shall be advised whether the search disclosed the information requested, and, if so, such information shall be promptly transmitted to the Commissioner, except that if the disclosure of any requested information would contravene national policy or security interests of the United States, or the confidentiality of census data, the information shall not be transmitted and the Commissioner shall be so advised.
 
 #### (B) Limitation
 
@@ -114,7 +114,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (g) Confidentiality of information
 
-Any person to which information is provided by the Commissioner of Social Security under this section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
+Any person to which information is provided by the Commissioner of Social Security underthis section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
 
 #### (h) Assignments as of October 1, 2007
 
@@ -132,7 +132,7 @@ Any person to which information is provided by the Commissioner of Social Securi
 
 #### (3) Liability of persons during three fiscal years beginning on and after October 1, 2007
 
-&emsp;In the case of each of the fiscal years beginning on October 1, 2007, 2008, and 2009, eachperson other than a 1988 agreement operator shall pay to the Combined Fund the following percentage of the amount of annual premiums that such person would otherwise be required to pay under section 9704(a), determined on the basis of assignments in effect without regard to the revocation of assignments under paragraph (1)(A):
+&emsp;In the case of each of the fiscal years beginning on October 1, 2007, 2008, and 2009, each person other than a 1988 agreement operator shall pay to the Combined Fund the following percentage of the amount of annual premiums that such person would otherwise be required to pay under section 9704(a), determined on the basis of assignments in effect without regard to the revocation of assignments under paragraph (1)(A):
 
 &emsp;&emsp;(A) For the fiscal year beginning on October 1, 2007, 55 percent.
 

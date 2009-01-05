@@ -32,7 +32,7 @@ The term “adulterated” applies to any pesticide if—
 
 #### (d) Animal
 
-The term “animal” means all vertebrate and invertebrate species, including but not limitedto man and other mammals, birds, fish, and shellfish.
+The term “animal” means all vertebrate and invertebrate species, including but not limited to man and other mammals, birds, fish, and shellfish.
 
 #### (e) Certified applicator, etc.
 
@@ -46,7 +46,7 @@ The term “animal” means all vertebrate and invertebrate species, including b
 
 #### (3) Commercial applicator
 
-&emsp;The term “commercial applicator” means an applicator (whether or not the applicator is a private applicator with respect to some uses) who uses or supervises the use of any pesticide which is classified for restricted use for any purpose or on any property other than as provided by paragraph (2).
+&emsp;The term “commercial applicator” means an applicator (whether or not the applicator is a private applicator with respect to some uses)who uses or supervises the use of any pesticide which is classified for restricted use for any purpose or on any property other than as provided by paragraph (2).
 
 #### (4) Under the direct supervision of a certified applicator
 
@@ -122,7 +122,7 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of this title to each establishment in which it was produced;
 
-&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood bythe ordinary individual under customary conditions of purchase and use;
 
 &emsp;&emsp;(F) the labeling accompanying it does not contain directions for use which are necessary for effecting the purpose for which the product is intended and if complied with, together with any requirements imposed under section 136a(d) of this title, are adequate to protect health and the environment;
 
@@ -212,7 +212,7 @@ The term “establishment” means any place where a pesticide or device or acti
 
 #### (ee) To use any registered pesticide in a manner inconsistent with its labeling
 
-The term “to use any registered pesticide in a manner inconsistent with its labeling” means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v ofthis title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
+The term “to use any registered pesticide in a manner inconsistent with its labeling” means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
 
 #### (ff) Outstanding data requirement
 
@@ -226,7 +226,7 @@ The term “to use any registered pesticide in a manner inconsistent with its la
 
 #### (2) Factors
 
-&emsp;In making a determination under paragraph (1)(B) respecting a study, the Administrator shall examine, at a minimum, relevant protocols, documentation of the conduct and analysis of the study, and the results of the study to determine whether the study and the results of the study fulfill the data requirement for which the study was submitted to the Administrator.
+&emsp;In making a determination under paragraph (1)(B) respecting a study, the Administratorshall examine, at a minimum, relevant protocols, documentation of the conduct and analysis of the study, and the results of the study to determine whether the study and the results of the study fulfill the data requirement for which the study was submitted to the Administrator.
 
 #### (gg) To distribute or sell
 
@@ -364,7 +364,7 @@ Subsec. (q)(2)(C)(iii). Pub. L. 100–532, §801(a)(4), substituted “, except
 
 Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted “, except that” for “: <i>Provided</i>, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
 
-Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted “, except that” for “: <i>Provided</i>, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for “: <i>Provided further</i>, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: <i>And provided further</i>, That after”.
+Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted “, except that” for “: <i>Provided</i>, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for“: <i>Provided further</i>, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: <i>And provided further</i>, That after”.
 
 Subsec. (ff). Pub. L. 100–532, §101, added subsec. (ff).
 
@@ -440,7 +440,7 @@ Section 1(a) of Pub. L. 100–532 provided that: “This Act \[enacting section 
 
 #### Short Title of 1978 Amendment
 
-Section 29 of Pub. L. 95–396 provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136<i>l</i>, 136<i>o</i>, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136<i>o</i>, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
+Section 29 of Pub. L. 95–396 provided that: “This Act \[enacting sections 136w–1 to 136w–4 of this title, amending this section and sections 136a to 136f, 136h, 136j, 136<i>l</i>,136<i>o</i>, 136q, 136r, 136u to 136w, 136x, and 136y of this title, enacting provisions set out as notes under sections 136a, 136<i>o</i>, and 136w–4 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Federal Pesticide Act of 1978’.”
 
 #### Short Title
 

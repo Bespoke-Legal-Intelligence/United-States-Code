@@ -6,7 +6,7 @@
 
 &emsp;(A) manufacture a new chemical substance on or after the 30th day after the date on which the Administrator first publishes the list required by section 2607(b) of this title, or
 
-&emsp;(B) manufacture or process any chemical substance for a use which the Administratorhas determined, in accordance with paragraph (2), is a significant new use,
+&emsp;(B) manufacture or process any chemical substance for a use which the Administrator has determined, in accordance with paragraph (2), is a significant new use,
 
 > unless such person submits to the Administrator, at least 90 days before such manufacture or processing, a notice, in accordance with subsection (d) of this section, of such person's intention to manufacture or process such substance and such person complies with any applicable requirement of subsection (b) of this section.
 
@@ -128,7 +128,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 #### (f) Protection against unreasonable risks
 
-(1) If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance with respect to which notice is required by subsection (a) of this section, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or environment before a rule promulgated under section 2605 of this title can protect against such risk, the Administrator shall, before the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance, take the action authorized by paragraph (2) or (3) to the extent necessary to protect against such risk.
+(1) If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use,or disposal of a chemical substance with respect to which notice is required by subsection (a) of this section, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or environment before a rule promulgated under section 2605 of this title can protect against such risk, the Administrator shall, before the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance, take the action authorized by paragraph (2) or (3) to the extent necessary to protect against such risk.
 
 (2) The Administrator may issue a proposed rule under section 2605(a) of this title to apply to a chemical substance with respect to which a finding was made under paragraph (1)—
 

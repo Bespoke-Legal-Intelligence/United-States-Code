@@ -14,7 +14,7 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 &emsp;The information to be reported under paragraph (1) includes:
 
-&emsp;&emsp;(A) The name and TIN (as defined in section 7701(a)(41) of the Internal Revenue Code of 1986) of any health care provider, supplier, or practitioner who is the subject of a final adverse action.
+&emsp;&emsp;(A) The name and TIN (as defined in section 7701(a)(41) of the Internal Revenue Codeof 1986) of any health care provider, supplier, or practitioner who is the subject of a final adverse action.
 
 &emsp;&emsp;(B) The name (if known) of any health care entity with which a health care provider, supplier, or practitioner, who is the subject of a final adverse action, is affiliated or associated.
 
@@ -66,7 +66,7 @@ Not later than January 1, 1997, the Secretary shall establish a national health 
 
 #### (2) Fees for disclosure
 
-&emsp;The Secretary may establish or approve reasonable fees for the disclosure of informationin such database (other than with respect to requests by Federal agencies). The amount of such a fee shall be sufficient to recover the full costs of operating the database. Such fees shall be available to the Secretary or, in the Secretary's discretion to the agency designated under this section to cover such costs.
+&emsp;The Secretary may establish or approve reasonable fees for the disclosure of information in such database (other than with respect to requests by Federal agencies). The amount of such a fee shall be sufficient to recover the full costs of operating the database. Such fees shall be available to the Secretary or, in the Secretary's discretion to the agency designated under this section to cover such costs.
 
 #### (e) Protection from liability for reporting
 
@@ -164,5 +164,5 @@ Federal health program.—The amendments made by subsection (c) \[amending secti
 
 “(3)
 
-Sanction for failure to report.—The amendment made by subsection (d) \[amending this section\]shall apply to failures occurring on or after the date of the enactment of this Act.”
+Sanction for failure to report.—The amendment made by subsection (d) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act.”
 

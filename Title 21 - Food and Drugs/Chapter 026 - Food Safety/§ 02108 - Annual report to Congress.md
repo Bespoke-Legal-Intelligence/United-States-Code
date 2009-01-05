@@ -6,7 +6,7 @@ The Secretary shall, on an annual basis, submit to the Committee on Health, Educ
 
 &emsp;(2) a listing of the number of Food and Drug Administration inspectors of imported food products referenced in paragraph (1) and the number of Food and Drug Administration inspections performed on such products; and
 
-&emsp;(3) aggregated data on the findings of such inspections, including data related to violations of the Federal Food, Drug, and CosmeticAct \[21 U.S.C. 301 et seq.\], and enforcement actions used to follow-up on such findings and violations.
+&emsp;(3) aggregated data on the findings of such inspections, including data related to violations of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and enforcement actions used to follow-up on such findings and violations.
 
 (Pub. L. 110–85, title X, §1009, Sept. 27, 2007, 121 Stat. 970.)
 

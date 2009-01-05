@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(iii) identify, investigate, and resolve complaints made by or on behalf of residents that relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents;
 
-&emsp;&emsp;&emsp;(iv) represent the interests of residents before government agencies and seek administrative, legal, and other remedies to protect the health, safety, welfare, and rights of the residents;
+&emsp;&emsp;&emsp;(iv) represent the interests of residents before government agencies and seek administrative, legal, and other remedies toprotect the health, safety, welfare, and rights of the residents;
 
 &emsp;&emsp;&emsp;(v)(I) review, and if necessary, comment on any existing and proposed laws, regulations, and other government policies and actions, that pertain to the rights and well-being of residents; and
 

@@ -202,7 +202,7 @@ $110.00&nbsp;
 
 &emsp;&emsp;41,000
 
-49\.00&nbsp;
+49\.00 
 
 &emsp;&emsp;42,000
 
@@ -306,7 +306,7 @@ In subsection (c)(2), the words “computed under the . . . table” are omitt
 
 Act of June 20, 1910 (ch. 310, 36 Stat. 557), referred to in subsec. (a)(1)(A), is not classified to the Code.
 
-The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 500 of Title 16, Conservation, and Tables.
+The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (a)(1)(C), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to chapter 90 (§7101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 16 and Tables.
 
 The date of enactment of the Payment in Lieu of Taxes Act, referred to in subsec. (d), probably means the date of enactment of the Payments In Lieu of Taxes Act, Pub. L. 103–397, which was approved Oct. 22, 1994.
 

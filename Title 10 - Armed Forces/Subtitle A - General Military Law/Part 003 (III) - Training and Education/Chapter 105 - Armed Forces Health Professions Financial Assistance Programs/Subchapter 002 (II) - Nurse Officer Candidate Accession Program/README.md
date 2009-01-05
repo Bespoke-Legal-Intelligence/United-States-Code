@@ -16,8 +16,6 @@ A prior subchapter II heading and analysis consisting of items 2128 to 2130 was 
 
 1991—Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474, added subchapter heading and item 2130a.
 
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
-
 
 ---
 

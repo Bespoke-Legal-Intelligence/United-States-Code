@@ -48,7 +48,7 @@
 
 &emsp;&emsp;<i>(A) a judge of the court established by section 1803(a) of this title; or</i>
 
-&emsp;&emsp;<i>(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of theUnited States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and</i>
+&emsp;&emsp;<i>(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and</i>
 
 &emsp;<i>(2) shall specify that—</i>
 
@@ -66,7 +66,7 @@
 
 <i>(1) Any common carrier, public accommodation facility, physical storage facility, or vehicle rental facility shall comply with an order under subsection (c).</i>
 
-<i>(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall</i><i>disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.</i>
+<i>(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.</i>
 
 #### Prior Provisions
 
@@ -74,7 +74,7 @@ A prior section 1862, Pub. L. 95–511, title V, §502, as added Pub. L. 105–2
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
 
 Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted “In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year” for “On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period”.
 
@@ -82,7 +82,7 @@ Subsec. (b)(3). Pub. L. 109–177, §106(h)(2)(B)–(D), added par. (3).
 
 Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
 
-2001—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted “section 1861 of this title” for “section 1842 of this title”.
+<b>2001</b>—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted “section 1861 of this title” for “section 1842 of this title”.
 
 #### Effective Date of 2006 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall work with the States in undertaking activities and programs that assist in improving the safety of food, including fresh and processed produce, so that State food safety programs and activities conducted by the Secretary function in a coordinated and cost-effective manner. With the assistance provided undersubsection (b), the Secretary shall encourage States to—
+The Secretary shall work with the States in undertaking activities and programs that assist in improving the safety of food, including fresh and processed produce, so that State food safety programs and activities conducted by the Secretary function in a coordinated and cost-effective manner. With the assistance provided under subsection (b), the Secretary shall encourage States to—
 
 &emsp;(1) establish, continue, or strengthen State food safety programs, especially with respect to the regulation of retail commercial food establishments; and
 

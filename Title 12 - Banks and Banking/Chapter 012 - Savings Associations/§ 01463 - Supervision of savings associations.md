@@ -40,7 +40,7 @@ All regulations and policies of the Director governing the safe and sound operat
 
 #### (d) Investment of certain funds in accounts of savings associations
 
-The savings accounts and share accounts of savings associations insured by the Corporation shall be lawful investments and may be accepted as security for all public funds of the United States, fiduciary and trust funds under the authority or control of the United States or any officer thereof, and for the funds of all corporations organized under the laws of the United States (subject to any regulatory authority otherwise applicable), regardless of any limitation of law upon the investment of any such funds or upon the acceptance of security for the investment or deposit of any of such funds.
+The savings accounts and share accounts of savings associations insured by the Corporation shall be lawful investments and may be acceptedas security for all public funds of the United States, fiduciary and trust funds under the authority or control of the United States or any officer thereof, and for the funds of all corporations organized under the laws of the United States (subject to any regulatory authority otherwise applicable), regardless of any limitation of law upon the investment of any such funds or upon the acceptance of security for the investment or deposit of any of such funds.
 
 #### (e) Participation by savings associations in lotteries and related activities
 
@@ -120,7 +120,7 @@ No savings association shall—
 
 #### Prior Provisions
 
-A prior section 1463, acts June 13, 1933, ch. 64, §4, 48 Stat. 129; Apr. 27, 1934, ch. 168, §§1(a), 2–4, 13, 48 Stat. 643–645, 647; June 27, 1934, ch. 847, title V, §§506, 508(b), 48 Stat. 1263, 1264; May 28, 1935, ch. 150, §§10–17(a), 49 Stat. 296, 297; Aug. 11, 1939, ch. 684, 53 Stat. 1403; Oct. 24, 1942, ch. 621, 56 Stat. 986; June 30, 1947, ch. 166, title II, §206(f), 61 Stat. 206, related to creation of Home Owners’ Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
+A prior section 1463, acts June 13, 1933, ch. 64, §4, 48 Stat. 129; Apr. 27, 1934, ch. 168, §§1(a), 2–4, 13, 48 Stat. 643–645, 647; June 27, 1934, ch. 847, title V, §§506, 508(b), 48 Stat. 1263, 1264; May 28, 1935, ch. 150, §§10–17(a), 49 Stat. 296, 297; Aug. 11, 1939, ch. 684, 53 Stat. 1403; Oct. 24, 1942, ch. 621, 56 Stat. 986; June 30, 1947, ch. 166, title II,§206(f), 61 Stat. 206, related to creation of Home Owners’ Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
 
 A prior section 1463a, act Apr. 27, 1934, ch. 168, §1(b), 48 Stat. 644, provided that amendments made to subsec. (c) of former section 1463 of this title, except with respect to refunding, by act Apr. 27, 1934, should not apply to any bonds prior to Apr. 27, 1934, issued under subsec. (c), or to any bonds thereafter issued in compliance with commitments of the Corporation outstanding on Apr. 27, 1934.
 

@@ -14,7 +14,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (2) In carrying out this subsection, there may be established a Buying Power Maintenance account.
 
-(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading “Administration of Foreign Affairs” as the Secretary determines are excessive to the needs of the approved level of operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
+(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading “Administration of Foreign Affairs” as the Secretary determines are excessive to the needs of the approved levelof operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
 
 (4) In order to offset adverse fluctuations in foreign currency exchange rates or overseas wage and price changes, the Secretary of State may transfer from the Buying Power Maintenance account to any appropriation account under the heading “Administration of Foreign Affairs” such amounts as the Secretary determines are necessary to maintain the approved level of operations under that appropriation account.
 
@@ -28,7 +28,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (C) Any transfer pursuant to this paragraph shall be treated as a reprogramming of funds under section 2706 of this title and shall be available for obligation or expenditure only in accordance with the procedures under such section.
 
-(D) The authorities contained in this section may only be exercised to such an extent and in such amounts as specifically provided for in advance in appropriations Acts.
+(D) The authorities contained in this paragraph may be exercised only with respect to funds appropriated or otherwise made available after fiscal year 2008.
 
 #### (c) Availability of appropriations until expended
 
@@ -46,9 +46,11 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 
 Amounts authorized to be appropriated for a fiscal year for the Department of State or to the Secretary of State are authorized to be obligated for twelve-month contracts which are to be performed in two fiscal years, if the total amount for such contracts is obligated in the earlier fiscal year.
 
-(Aug. 1, 1956, ch. 841, title I, §24, as added Pub. L. 96–60, title I, §105(a), Aug. 15, 1979, 93 Stat. 396; renumbered title I and amended Pub. L. 97–241, title I, §112(a), title II, §202(a), Aug. 24, 1982, 96 Stat. 277, 282; Pub. L. 101–246, title I, §107, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–138, title I, §117(a), (c), Oct. 28, 1991, 105 Stat. 656, 657; Pub. L. 103–236, title I, §122(a), Apr. 30, 1994, 108 Stat. 392.)
+(Aug. 1, 1956, ch. 841, title I, §24, as added Pub. L. 96–60, title I, §105(a), Aug. 15, 1979, 93 Stat. 396; renumbered title I and amended Pub. L. 97–241, title I, §112(a), title II, §202(a), Aug. 24, 1982, 96 Stat. 277, 282; Pub. L. 101–246, title I, §107, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–138, title I, §117(a), (c), Oct. 28, 1991, 105 Stat. 656, 657; Pub. L. 103–236, title I, §122(a), Apr. 30, 1994, 108 Stat. 392; Pub. L. 110–252, title I, §1408(b), June 30, 2008, 122 Stat. 2342.)
 
 #### Amendments
+
+2008—Subsec. (b)(7)(D). Pub. L. 110–252 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The authorities contained in this section may only be exercised to such an extent and in such amounts as specifically provided for in advance in appropriations Acts.”
 
 1994—Subsec. (b)(7)(E). Pub. L. 103–236, §122(a)(1), struck out subpar. (E) which read as follows: “This paragraph shall cease to have effect after September 30, 1993.”
 

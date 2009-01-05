@@ -19,4 +19,5 @@ Part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938, 
 - [&sect; 01359hh - Regulations; violations; publication of Secretary's determinations; jurisdiction of the courts; United States attorneys](%C2%A7%2001359hh%20-%20Regulations%3B%20violations%3B%20publication%20of%20Secretary%27s%20determinations%3B%20jurisdiction%20of%20the%20courts%3B%20United%20States%20attorneys.md)
 - [&sect; 01359ii - Appeals](%C2%A7%2001359ii%20-%20Appeals.md)
 - [&sect; 01359jj - Administration](%C2%A7%2001359jj%20-%20Administration.md)
-- [&sect; 01359kk - Reallocating sugar quota import shortfalls](%C2%A7%2001359kk%20-%20Reallocating%20sugar%20quota%20import%20shortfalls.md)
+- [&sect; 01359kk - Administration of tariff rate quotas](%C2%A7%2001359kk%20-%20Administration%20of%20tariff%20rate%20quotas.md)
+- [&sect; 01359ll - Period of effectiveness](%C2%A7%2001359ll%20-%20Period%20of%20effectiveness.md)

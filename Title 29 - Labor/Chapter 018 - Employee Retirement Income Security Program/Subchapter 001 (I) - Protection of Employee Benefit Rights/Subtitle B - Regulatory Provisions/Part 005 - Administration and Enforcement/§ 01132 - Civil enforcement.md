@@ -18,7 +18,7 @@ A civil action may be brought—
 
 &emsp;(5) except as otherwise provided in subsection (b) of this section, by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
-&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), or (8) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section;
+&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), (7), (8), or (9) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section;
 
 &emsp;(7) by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title);
 
@@ -32,7 +32,7 @@ A civil action may be brought—
 
 &emsp;&emsp;(B) fails to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section,
 
-> &emsp;by an employer that has an obligation to contribute with respect to the multiemployer plan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan.
+> &emsp;by an employer that has an obligation to contribute with respect to the multiemployerplan or an employee organization that represents active participants in the multiemployer plan, for an order compelling the plan sponsor to adopt a funding improvement or rehabilitation plan or to update or comply with the terms of the funding improvement or rehabilitation plan in accordance with the requirements of such section and the funding improvement or rehabilitation plan.
 
 #### (b) Plans qualified under Internal Revenue Code; maintenance of actions involving delinquent contributions
 
@@ -44,17 +44,17 @@ A civil action may be brought—
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
-(3) The Secretary is not authorized to enforce under this part any requirement of part 7 against a health insurance issuer offering health insurance coverage in connection with a group health plan (as defined in section 1191b(a)(1) of this title). Nothing in this paragraph shall affect the authority of the Secretary to issue regulations to carry out such part.
+(3) Except as provided in subsections (c)(9) and (a)(6) (with respect to collecting civil penalties under subsection (c)(9)), the Secretary is not authorized to enforce under this part any requirement of part 7 against a health insurance issuer offering health insurance coverage in connection with a group health plan (as defined in section 1191b(a)(1) of this title). Nothing in this paragraph shall affect the authority of the Secretary to issue regulations to carry out such part.
 
 #### (c) Administrator's refusal to supply requested information; penalty for failure to provide annual report in complete form
 
 (1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title, section 1021(e)(1) of this title, section 1021(f) of this title, or section 1025(a) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
 
-(2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(4) <sup>2</sup> of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
+(2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
 
 (3) Any employer maintaining a plan who fails to meet the notice requirement of section 1021(d) of this title with respect to any participant or beneficiary or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person or who fails to meet the requirements of section 1082(d)(12)(E) <sup>2</sup> of this title with respect to any person may in the court's discretion be liable to such participant or beneficiary or to such person in the amount of up to $100 a day from the date of such failure, and the court may in its discretion order such other relief as it deems proper.
 
-(4) The Secretary may assess a civil penalty of not more than $1,000 a day for each violation by any person of subsection (j), (k), or (<i>l</i>) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title.
+(4) The Secretary may assess a civil penalty of not more than $1,000 a day for each violation by any person of subsection (j), (k), or (<i>l</i>) of section 1021 of this title or section 1144(e)(3) of this title.
 
 (5) The Secretary may assess a civil penalty against any person of up to $1,000 a day from the date of the person's failure or refusal to file the information required to be filed by such person with the Secretary under regulations prescribed pursuant to section 1021(g) of this title.
 
@@ -64,11 +64,85 @@ A civil action may be brought—
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
-&emsp;(A) for each violation by such sponsor of the requirement under section 1085 of this title to adopt by the deadline established in that section a funding improvement plan or rehabilitation plan with respect to a multiemployer which is in endangered or critical status, or
+&emsp;(A) for each violation by such sponsor of the requirement under section 1085 of this title to adopt by the deadline established in that section a funding improvement plan or rehabilitation plan with respect to a multiemployer plan which is in endangered or critical status, or
 
 &emsp;(B) in the case of a plan in endangered status which is not in seriously endangered status, for failure by the plan to meet the applicable benchmarks under section 1085 of this title by the end of the funding improvement period with respect to the plan.
 
-(9) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
+(9)
+
+Secretarial enforcement authority relating to use of genetic information.—
+
+&emsp;(A)
+
+General rule.—The Secretary may impose a penalty against any plan sponsor of a group health plan, or any health insurance issuer offering health insurance coverage in connection with the plan, for any failure by such sponsor or issuer to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 1182 of this title or section 1181 or 1182(b)(1) of this title with respect to genetic information, in connection with the plan.
+
+&emsp;(B)
+
+Amount.—
+
+&emsp;&emsp;(i)
+
+In general.—The amount of the penalty imposed by subparagraph (A) shall be $100 for each day in the noncompliance period with respect to each participant or beneficiary to whom such failure relates.
+
+&emsp;&emsp;(ii)
+
+Noncompliance period.—For purposes of this paragraph, the term “noncompliance period” means, with respect to any failure, the period—
+
+&emsp;&emsp;&emsp;(I) beginning on the date such failure first occurs; and
+
+&emsp;&emsp;&emsp;(II) ending on the date the failure is corrected.
+
+&emsp;(C)
+
+Minimum penalties where failure discovered.—Notwithstanding clauses (i) and (ii) of subparagraph (D):
+
+&emsp;&emsp;(i)
+
+In general.—In the case of 1 or more failures with respect to a participant or beneficiary—
+
+&emsp;&emsp;&emsp;(I) which are not corrected before the date on which the plan receives a notice from the Secretary of such violation; and
+
+&emsp;&emsp;&emsp;(II) which occurred or continued during the period involved;
+
+> &emsp;&emsp;the amount of penalty imposed by subparagraph (A) by reason of such failures with respect to such participant or beneficiary shall not be less than $2,500.
+
+&emsp;&emsp;(ii)
+
+Higher minimum penalty where violations are more than de minimis.—To the extent violations for which any person is liable under this paragraph for any year are more than de minimis, clause (i) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
+
+&emsp;(D)
+
+Limitations.—
+
+&emsp;&emsp;(i)
+
+Penalty not to apply where failure not discovered exercising reasonable diligence.—No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
+
+&emsp;&emsp;(ii)
+
+Penalty not to apply to failures corrected within certain periods.—No penalty shall be imposed by subparagraph (A) on any failure if—
+
+&emsp;&emsp;&emsp;(I) such failure was due to reasonable cause and not to willful neglect; and
+
+&emsp;&emsp;&emsp;(II) such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such penalty knew, or exercising reasonable diligence would have known, that such failure existed.
+
+&emsp;&emsp;(iii)
+
+Overall limitation for unintentional failures.—In the case of failures which are due to reasonable cause and not to willful neglect, the penalty imposed by subparagraph (A) for failures shall not exceed the amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the plan sponsor (or predecessor plan sponsor) during the preceding taxable year for group health plans; or
+
+&emsp;&emsp;&emsp;(II) $500,000.
+
+&emsp;(E)
+
+Waiver by secretary.—In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
+
+&emsp;(F)
+
+Definitions.—Terms used in this paragraph which are defined in section 1191b of this title shall have the meanings provided such terms in such section.
+
+(10) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -78,7 +152,7 @@ A civil action may be brought—
 
 #### (e) Jurisdiction
 
-(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
+(1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts ofcompetent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
 (2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
@@ -152,7 +226,7 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII,§12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039.)
+(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101.)
 
 #### Amendment of Section
 
@@ -164,11 +238,9 @@ Section 405(a) of title 26, referred to in subsec. (b)(1), was repealed by Pub. 
 
 Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)(1), were redesignated as pars. (1) and (4) of section 1166(a) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
-Section 1021(b)(4) of this title, referred to in subsec. (c)(2), was redesignated section 1021(b)(1) of this title by Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061.
-
 Section 1082 of this title, referred to in subsec. (c)(3), was repealed and a new section 1082 was enacted by Pub. L. 109–280, title I, §101(a), (b), Aug. 17, 2006, 120 Stat. 784, and, as so enacted, section 1082 of this title no longer contains a subsec. (d)(12)(E).
 
-Section 1320b–14 of title 42, referred to in subsec. (c)(9), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033, and a new section 1320b–14 of title 42, which does not contain a subsec. (c)(8), was enacted by Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.
+Section 1320b–14 of title 42, referred to in subsec. (c)(10), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033, and a new section 1320b–14 of title 42, which does not contain a subsec. (c)(8), was enacted by Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.
 
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -177,6 +249,18 @@ This chapter, referred to in subsec. (k), was in the original “this Act”, me
 Another section 306(b)(3) of Pub. L. 107–204 is classified to section 7244(b)(3) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2008—Subsec. (a)(6). Pub. L. 110–233, §101(e)(1), substituted “(7), (8), or (9)” for “(7), or (8)”.
+
+Subsec. (b)(3). Pub. L. 110–233, §101(e)(2), substituted “Except as provided in subsections (c)(9) and (a)(6) (with respect to collecting civil penalties under subsection (c)(9)), the Secretary” for “The Secretary”.
+
+Subsec. (c)(2). Pub. L. 110–458, §102(b)(1)(H), substituted “1021(b)(1)” for “1021(b)(4)”.
+
+Subsec. (c)(4). Pub. L. 110–458, §101(c)(1)(H), substituted “by any person of subsection (j), (k), or (<i>l</i>) of section 1021 of this title or section 1144(e)(3) of this title.” for “by any person of subsection (j), (k), or (<i>l</i>) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title.”
+
+Subsec. (c)(8)(A). Pub. L. 110–458, §102(b)(1)(I), inserted “plan” after “multiemployer”.
+
+Subsec. (c)(9), (10). Pub. L. 110–233, §101(e)(3), added par. (9) and redesignated former par. (9) as (10).
 
 2006—Subsec. (a)(6). Pub. L. 109–280, §§202(b)(1), 221(c), temporarily substituted “(6), (7), or (8)” for “(6), or (7)”. See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -262,6 +346,12 @@ Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
+Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: “The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\].”
+
 #### Effective and Termination Dates of 2006 Amendment
 
 Amendment by section 103(b)(2) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see section 103(c) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1021 of this title.
@@ -308,7 +398,7 @@ Section 2101(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(f)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -334,6 +424,8 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
+Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: “The Secretary of Labor shall issue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\].”
+
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
@@ -354,7 +446,7 @@ For provisions directing that if any amendment made by section 306(b) of Pub. L.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subtitle”.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall be imposed on the last day of the taxable year, but
 
-&emsp;&emsp;(B) with respect to the private foundation's holdings in any business enterprise, shall be determined as of that day during the taxable year when the foundation's excess holdings in such enterprise were the greatest.
+&emsp;&emsp;(B) with respect to the private foundation's holdings in any business enterprise, shall be determined as of that day during the taxable year when the foundation's excessholdings in such enterprise were the greatest.
 
 #### (b) Additional tax
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(i) during the 20-year period beginning on such date, if the private foundation and all disqualified persons have more than a 95 percent voting stock interest on such date,
 
-&emsp;&emsp;(ii) except as provided in clause (i), during the 15-year period beginning on such date, if the foundation and all disqualified persons have more than a 75 percent voting stock interest (or more than a 75 percent profits or beneficial interest in the case of any unincorporated enterprise) on such date or more than a 75 percent interest in the value of all outstanding shares of all classes of stock (or more than a 75 percent capital interest in the case of a partnership or joint venture) on such date, or
+&emsp;&emsp;(ii) except as provided in clause (i), during the 15-year period beginning on such date, ifthe foundation and all disqualified persons have more than a 75 percent voting stock interest (or more than a 75 percent profits or beneficial interest in the case of any unincorporated enterprise) on such date or more than a 75 percent interest in the value of all outstanding shares of all classes of stock (or more than a 75 percent capital interest in the case of a partnership or joint venture) on such date, or
 
 &emsp;&emsp;(iii) during the 10–year period beginning on such date, in any other case.
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (7) 5-year extension of period to dispose of certain large gifts and bequests
 
-&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6)for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
+&emsp;The Secretary may extend for an additional 5-year period the period under paragraph (6) for disposing of excess business holdings in the case of an unusually large gift or bequest of diverse business holdings or holdings with complex corporate structures if—
 
 &emsp;&emsp;(A) the foundation establishes that—
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the private foundation submits to the Secretary a plan for disposing of all of the excess business holdings involved in the extension, and
 
-&emsp;&emsp;&emsp;(ii) the private foundation submits the plan described in clause (i) to the Attorney General (or other appropriate State official) having administrative or supervisory authority or responsibility with respect to the foundation's disposition of the excess business holdings involved and submits to the Secretary any response received by the private foundation from the Attorney General (or other appropriate State official) to such plan during such 5-year period, and
+&emsp;&emsp;&emsp;(ii) the private foundation submits the plan described in clause (i) to the Attorney General (or other appropriate State official) having administrative or supervisory authority or responsibility with respect to the foundation's disposition of the excess business holdings involved and submits tothe Secretary any response received by the private foundation from the Attorney General (or other appropriate State official) to such plan during such 5-year period, and
 
 &emsp;&emsp;(C) the Secretary determines that such plan can reasonably be expected to be carried out before the close of the extension period.
 

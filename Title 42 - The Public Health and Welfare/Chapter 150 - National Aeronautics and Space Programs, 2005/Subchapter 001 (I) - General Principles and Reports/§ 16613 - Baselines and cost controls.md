@@ -64,7 +64,7 @@
 
 #### (d) Fifteen percent threshold
 
-Not later than 30 days after receiving a written notification under subsection (c)(2), the Administrator shall determine whether the development cost of the program is likely to exceed the estimate provided in the Baseline Report of the program by 15 percent or more, or whether a milestone is likely to be delayed by 6 months or more. If the determination is affirmative, the Administrator shall—
+Not later than 30 days after receiving a written notification under subsection (c)(2), the Administrator shall determine whether the development cost of the program is likely to exceed the estimate provided in the Baseline Report of the program by 15 percent or more, or whethera milestone is likely to be delayed by 6 months or more. If the determination is affirmative, the Administrator shall—
 
 &emsp;(1) transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, not later than 15 days after making the determination, a report that includes—
 

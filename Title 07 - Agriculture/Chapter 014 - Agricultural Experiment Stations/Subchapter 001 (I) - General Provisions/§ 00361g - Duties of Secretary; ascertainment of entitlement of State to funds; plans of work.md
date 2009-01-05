@@ -34,7 +34,7 @@ Each plan of work for a State required under subsection (d) of this section shal
 
 &emsp;(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
 
-&emsp;(2) The process established to consult with users of agricultural research regarding theidentification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+&emsp;(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
 
 &emsp;(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
 

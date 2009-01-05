@@ -34,7 +34,7 @@ Annuitant.—The term “annuitant” means—
 
 &emsp;(3)
 
-Member of the uniformed services.—The term “member of the uniformed services” means a member of the uniformed services, other than a retired member of the uniformed services, who is—
+Member of the uniformed services.—The term “member of the uniformed services” means a member of the uniformed services,other than a retired member of the uniformed services, who is—
 
 &emsp;&emsp;(A) on active duty or full-time National Guard duty for a period of more than 30 days; or
 
@@ -52,7 +52,7 @@ Qualified relative.—The term “qualified relative” means each of the follow
 
 &emsp;&emsp;(B) A parent, stepparent, or parent-in-law of an individual described in paragraph (1) or (3).
 
-&emsp;&emsp;(C) A child (including an adopted child, a stepchild, or, to the extent the Office of Personnel Management by regulation provides,a foster child) of an individual described in paragraph (1), (2), (3), or (4), if such child is at least 18 years of age.
+&emsp;&emsp;(C) A child (including an adopted child, a stepchild, or, to the extent the Office of Personnel Management by regulation provides, a foster child) of an individual described in paragraph (1), (2), (3), or (4), if such child is at least 18 years of age.
 
 &emsp;&emsp;(D) An individual having such other relationship to an individual described in paragraph (1), (2), (3), or (4) as the Office may by regulation prescribe.
 
@@ -126,5 +126,5 @@ Pub. L. 106–265, title I, §1001, Sept. 19, 2000, 114 Stat. 762, provided that
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

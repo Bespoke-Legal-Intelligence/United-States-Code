@@ -22,13 +22,15 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;&emsp;(iii) the land on which the owner or operator was unable to plant the cover is planted to the cover after the wet conditions that prevented the planting subsides;
 
-&emsp;(5) on a violation of a term or condition of the contract at any time the owner or operator has control of the land—
+&emsp;(5) to undertake management on the land as needed throughout the term of the contract to implement the conservation plan;
+
+&emsp;(6) on a violation of a term or condition of the contract at any time the owner or operator has control of the land—
 
 &emsp;&emsp;(A) to forfeit all rights to receive rental payments and cost sharing payments under the contract and to refund to the Secretary any rental payments and cost sharing payments received by the owner or operator under the contract, together with interest on the payments as determined by the Secretary, if the Secretary, after considering the recommendations of the soil conservation district and the Natural Resources Conservation Service, determines that the violation is of such nature as to warrant termination of the contract; or
 
-&emsp;&emsp;(B) to refund to the Secretary, or accept adjustments to, the rental payments andcost sharing payments provided to the owner or operator, as the Secretary considers appropriate, if the Secretary determines that the violation does not warrant termination of the contract;
+&emsp;&emsp;(B) to refund to the Secretary, or accept adjustments to, the rental payments and cost sharing payments provided to the owner or operator, as the Secretary considers appropriate, if the Secretary determines that the violation does not warrant termination of the contract;
 
-&emsp;(6) on the transfer of the right and interest of the owner or operator in land subject to the contract—
+&emsp;(7) on the transfer of the right and interest of the owner or operator in land subject to the contract—
 
 &emsp;&emsp;(A) to forfeit all rights to rental payments and cost sharing payments under the contract; and
 
@@ -36,21 +38,29 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 > &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
 
-&emsp;(7) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
+&emsp;(8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
 
-&emsp;&emsp;(A) managed harvesting and grazing (including the managed harvesting of biomass), except that in permitting managed harvesting and grazing, the Secretary—
+&emsp;&emsp;(A) managed harvesting (including the managed harvesting of biomass), except that in permitting managed harvesting, the Secretary, in coordination with the State technical committee—
 
-&emsp;&emsp;&emsp;(i) shall, in coordination with the State technical committee—
+&emsp;&emsp;&emsp;(i) shall develop appropriate vegetation management requirements; and
 
-&emsp;&emsp;&emsp;&emsp;(I) develop appropriate vegetation management requirements; and
+&emsp;&emsp;&emsp;(ii) shall identify periods during which managed harvesting may be conducted;
 
-&emsp;&emsp;&emsp;&emsp;(II) identify periods during which harvesting and grazing under this paragraph may be conducted;
+&emsp;&emsp;(B) harvesting and grazing or other commercial use of the forage on the land that is subject to the contract in response to a drought or other emergency;
 
-&emsp;&emsp;&emsp;(ii) may permit harvesting and grazing or other commercial use of the forage on the land that is subject to the contract in response to a drought or other emergency; and
+&emsp;&emsp;(C) routine grazing or prescribed grazing for the control of invasive species, except that in permitting such routine grazing or prescribed grazing, the Secretary, in coordination with the State technical committee—
 
-&emsp;&emsp;&emsp;(iii) shall, in the case of routine managed harvesting or grazing or harvesting or grazing conducted in response to a drought or other emergency, reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the activity, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year; and
+&emsp;&emsp;&emsp;(i) shall develop appropriate vegetation management requirements and stocking rates for the land that are suitable for continued routine grazing; and
 
-&emsp;&emsp;(B) the installation of wind turbines, except that in permitting the installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
+&emsp;&emsp;&emsp;(ii) shall establish the frequency during which routine grazing may be conducted, taking into consideration regional differences such as—
+
+&emsp;&emsp;&emsp;&emsp;(I) climate, soil type, and natural resources;
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of years that should be required between routine grazing activities; and
+
+&emsp;&emsp;&emsp;&emsp;(III) how often during a year in which routine grazing is permitted that routine grazing should be allowed to occur; and
+
+&emsp;&emsp;(D) the installation of wind turbines, except that in permitting the installation of wind turbines, the Secretary shall determine the number and location of wind turbines that may be installed, taking into account—
 
 &emsp;&emsp;&emsp;(i) the location, size, and other physical characteristics of the land;
 
@@ -58,11 +68,11 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;&emsp;(iii) the purposes of the conservation reserve program under this subpart;
 
-&emsp;(8) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
+&emsp;(9) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
 
-&emsp;(9) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
+&emsp;(10) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
 
-&emsp;(10) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
+&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
 
 #### (b) Conservation plans
 
@@ -92,7 +102,15 @@ The plan referred to in subsection (a)(1) of this section—
 
 &emsp;&emsp;On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-(Pub. L. 99–198, title XII, §1232, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, §212, Feb. 20, 2003, 117 Stat. 545.)
+#### (d) Rental payment reduction for certain authorized uses of enrolled land
+
+In the case of an authorized activity under subsection (a)(8) on land that is subject to a contract under this subpart, the Secretary shall reduce the rental payment otherwise payable under the contract by an amount commensurate with the economic value of the authorized activity.
+
+(Pub. L. 99–198, title XII, §1232, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, §212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, §4(a), title II, §§2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -100,5 +118,19 @@ A prior section 3832, Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
+2008—Subsec. (a)(5) to (7). Pub. L. 110–246, §2107, added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (a)(8). Pub. L. 110–246, §2108(a), added par. (8) and struck out former par. (8) which related to prohibition against harvesting, grazing, or other commercial use of the forage, with exception authorizing Secretary to permit managed harvesting and grazing if appropriate requirements were developed and timeframes identified or in a drought or other emergency, and exception for the installation of wind turbines.
+
+Pub. L. 110–246, §2107(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (a)(9) to (11). Pub. L. 110–246, §2107(1), redesignated pars. (8) to (10) as (9) to (11), respectively.
+
+Subsec. (d). Pub. L. 110–246, §2108(b), added subsec. (d).
+
 2003—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

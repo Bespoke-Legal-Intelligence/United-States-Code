@@ -80,9 +80,9 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;(21) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter;
 
-&emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointmentsand classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38; and
+&emsp;(22) may appoint physicians, dentists, and other health care professionals, subject to the provisions of title 5 relating to appointments and classifications in the competitive service, and may compensate such professionals subject to the provisions of chapter 74 of title 38; and
 
-&emsp;(23) shall designate a contact point or office to help innovators and physicians identify sources of funding available for pediatric medical device development.
+&emsp;(23) shall designate a contact point or office to help innovators and physicians identifysources of funding available for pediatric medical device development.
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (16). The members of such a group shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of such group. Not more than one-fourth of the members of any such group shall be officers or employees of the United States.
 
@@ -294,7 +294,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the responsible party, by official title; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including the city, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the facility name and facility contact information (including thecity, State, and zip code for each clinical trial location, or a toll-free number through which such location information may be accessed); and
 
 &emsp;&emsp;&emsp;&emsp;(IV) administrative data (which the Secretary may make publicly available as necessary), including—
 
@@ -420,7 +420,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (C) Basic results
 
-&emsp;&emsp;Not later than 1 year after September 27, 2007, the Secretary shall include in the registry and results data bank the following elements for drugs that are approved under section 355 of title 21 or licensed under section 262 of this title and devices that are cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21:
+&emsp;&emsp;Not later than 1 year after September 27, 2007, the Secretary shall include in the registry and results data bank for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:
 
 #### (i) Demographic and baseline characteristics of patient sample
 
@@ -510,7 +510,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (vii) Public meeting
 
-&emsp;&emsp;&emsp;The Secretary shall hold a public meeting no later than 18 months after September 27, 2007, to provide an opportunity forinput from interested parties with regard to the regulations to be issued under this subparagraph.
+&emsp;&emsp;&emsp;The Secretary shall hold a public meeting no later than 18 months after September 27, 2007, to provide an opportunity for input from interested parties with regard to the regulations to be issued under this subparagraph.
 
 #### (E) Submission of results information
 
@@ -566,7 +566,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (F) Notice to Director of NIH
 
-&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is an action described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
+&emsp;&emsp;The Commissioner of Food and Drugs shall notify the Director of NIH when there is anaction described in subparagraph (E)(iv) or item (aa), (bb), or (cc) of subparagraph (E)(v)(I) with respect to an application or a report that includes a certification required under paragraph (5)(B) of such action not later than 30 days after such action.
 
 #### (G) Posting of data
 
@@ -580,7 +580,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Regulations
 
-&emsp;&emsp;&emsp;Not later than 18 months after September 27, 2007, the Secretary shall by regulation determine the best method for including in the registry and results data bank appropriate results information on serious adverse and frequent adverse events for drugs described in subparagraph (C) in a manner and form that is useful and not misleading to patients, physicians, and scientists.
+&emsp;&emsp;&emsp;Not later than 18 months after September 27, 2007, the Secretary shall by regulation determine the best method for including in the registry and results data bank appropriate results information on serious adverse and frequent adverse events for applicable clinical trials described in subparagraph (C) in a manner and form that is useful and not misleading to patients, physicians, and scientists.
 
 #### (ii) Default
 
@@ -588,7 +588,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (iii) Additional elements
 
-&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry and results data bank for drugs described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
+&emsp;&emsp;&emsp;Upon the application of clause (ii), the Secretary shall include in the registry and results data bank for applicable clinical trials described in subparagraph (C), in addition to the clinical trial information described in subparagraph (C), the following elements:
 
 #### (I) Serious adverse events
 
@@ -628,7 +628,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;&emsp;A clinical trial described in this clause is—
 
-&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355of title 21 or licensed under section 262 of this title or for a device that is cleared under section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
+&emsp;&emsp;&emsp;&emsp;(I) an applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this title or for a device that is clearedunder section 360(k) of title 21 or approved under section 360e or section 360j(m) of title 21, whose completion date is on or after the date 10 years before September 27, 2007; or
 
 &emsp;&emsp;&emsp;&emsp;(II) an applicable clinical trial that is described by both by <sup>3</sup> paragraph (2)(C) and paragraph (3)(D)(ii)(II)).<sup>4</sup>
 
@@ -682,7 +682,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Pilot quality control project
 
-&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is notfalse or misleading in any particular under subparagraph (D). The Secretary shall use the publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
+&emsp;&emsp;&emsp;Until the effective date of the regulations issued under paragraph (3)(D), the Secretary, acting through the Director of NIH and the Commissioner of Food and Drugs, shall conduct a pilot project to determine the optimal method of verification to help to ensure that the clinical trial information submitted under paragraph (3)(C) is non-promotional and is not false or misleading in any particular under subparagraph (D). The Secretary shall usethe publicly available information described in paragraph (3)(A) and any other information available to the Secretary about applicable clinical trials to verify the accuracy of the clinical trial information submitted under paragraph (3)(C).
 
 #### (ii) Notice of compliance
 
@@ -758,7 +758,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (k) Day care for children of employees
 
-(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Health similar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
+(1) The Director of NIH may establish a program to provide day care services for the employees of the National Institutes of Healthsimilar to those services provided by other Federal agencies (including the availability of day care service on a 24-hour-a-day basis).
 
 (2) Any day care provider at the National Institutes of Health shall establish a sliding scale of fees that takes into consideration the income and needs of the employee.
 
@@ -818,7 +818,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 &emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420; Pub. L. 109–482, title I, §§102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, 120 Stat. 3681, 3683, 3684, 3687; Pub. L. 110–85, title III, §304(a), title VIII, §801(a), title XI, §1104(2), Sept. 27, 2007, 121 Stat. 863, 904, 975; Pub. L. 110–316, title III, §302, Aug. 14, 2008, 122 Stat. 3524.)
 
 #### References in Text
 
@@ -839,6 +839,10 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 In subsec. (b)(14)(B), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2008—Subsec. (j)(3)(C). Pub. L. 110–316, §302(1), in introductory provisions, substituted “for each applicable clinical trial for a drug that is approved under section 355 of title 21 or licensed under section 262 of this titleor a device that is cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21, the following elements:” for “the following elements for drugs that are approved under section 355 of title 21 or licensed under section 262 of this title and devices that are cleared under section 360(k) of title 21 or approved under section 360e or 360j(m) of title 21:”.
+
+Subsec. (j)(3)(I)(i), (iii). Pub. L. 110–316, §302(2), substituted “applicable clinical trials described in subparagraph (C)” for “drugs described in subparagraph (C)”.
 
 2007—Subsec. (a). Pub. L. 109–482, §102(f)(1)(A), substituted “Director of NIH who shall” for “Director of the National Institutes of Health (hereafter in this subchapter referred to as the ‘Director of NIH’) who shall”.
 
@@ -926,7 +930,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Rule of Construction Regarding Continuation of Programs
 
-Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284<i>l</i>, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285<i>o</i>, 285<i>o</i>–2, 285<i>o</i>–4, 285p, 285r, 286a–1, 287a–2, 287a–3, 287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
+Pub. L. 109–482, title I, §103(c), Jan. 15, 2007, 120 Stat. 3689, provided that: “The amendment of a program by a provision of subsection (b) \[amending this section and sections 283a, 283d, 283g to 283i, 284e to 284j, 284<i>l</i>, 284m, 285a–9, 285a–10, 285b–7a, 285b–7b, 285c–9, 285d–6a, 285d–8, 285e–10, 285e–10a, 285f–2, 285f–3, 285g–5, 285g–9, 285g–10, 285n, 285<i>o</i>, 285<i>o</i>–2, 285<i>o</i>–4, 285p, 285r, 286a–1, 287a–2, 287a–3,287a–4, 287c–11, 287c–31 to 287c–33, 288, 288–1, and 288–5a of this title and repealing sections 285a–8, 285b–8, 285e–11, and 286a–2 of this title\] may not be construed as terminating the authority of the Federal agency involved to carry out the program.”
 
 #### Demonstration Grants for Improving Pediatric Device Availability
 
@@ -1012,7 +1016,7 @@ Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and
 
 #### Third-Party Payments Regarding Certain Clinical Trials and Certain Life-Threatening Illnesses
 
-Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
+Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, actingthrough the Director of the National Institutes of Health, shall conduct a study for the purpose of—
 
 &emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriate health services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
 
@@ -1020,7 +1024,7 @@ Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health an
 
 #### Personnel Study of Recruitment, Retention and Turnover
 
-Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director ofNational Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
+Section 1905 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of National Institutes of Health, to conduct a study to review the retention, recruitment, vacancy and turnover rates of support staff, including firefighters, law enforcement, procurement officers, technicians, nurses and clerical employees, to ensure that National Institutes of Health is adequately supporting conduct of efficient, effective and high quality research for the American public, and to submit a report to Congress on results of such study not later than 1 year after June 10, 1993.
 
 #### Chronic Pain Conditions
 

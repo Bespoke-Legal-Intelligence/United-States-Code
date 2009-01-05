@@ -4,9 +4,27 @@ For purposes of this chapter:
 
 #### (1) Affiliate
 
-&emsp;Except as provided by the Director, the term “affiliate” means any entity that controls, is controlled by, or is under common control with, an enterprise.
+&emsp;Except as provided by the Director, the term “affiliate” means any entity that controls, iscontrolled by, or is under common control with, an enterprise.
 
-#### (2) Capital distribution
+#### (2) Agency
+
+&emsp;The term “Agency” means the Federal Housing Finance Agency established under section 4511 of this title.
+
+#### (3) Authorizing statutes
+
+&emsp;The term “authorizing statutes” means—
+
+&emsp;&emsp;(A) the Federal National Mortgage Association Charter Act;
+
+&emsp;&emsp;(B) the Federal Home Loan Mortgage Corporation Act; and
+
+&emsp;&emsp;(C) the Federal Home Loan Bank Act.
+
+#### (4) Board
+
+&emsp;The term “Board” means the Federal Housing Finance Oversight Board established under section 4513a of this title.
+
+#### (5) Capital distribution
 
 #### (A) In general
 
@@ -22,11 +40,11 @@ For purposes of this chapter:
 
 &emsp;&emsp;Any payment made by an enterprise to repurchase its shares for the purpose of fulfilling an obligation of the enterprise under an employee stock ownership plan that is qualified under section 401 of title 26 or any substantially equivalent plan, as determined by the Director, shall not be considered a capital distribution.
 
-#### (3) Compensation
+#### (6) Compensation
 
 &emsp;The term “compensation” means any payment of money or the provision of any other thing of current or potential value in connection with employment.
 
-#### (4) Core capital
+#### (7) Core capital
 
 &emsp;The term “core capital” means, with respect to an enterprise, the sum of the following (as determined in accordance with generally accepted accounting principles):
 
@@ -40,11 +58,29 @@ For purposes of this chapter:
 
 > &emsp;The core capital of an enterprise shall not include any amounts that the enterprise could be required to pay, at the option of investors, to retire capital instruments.
 
-#### (5) Director
+#### (8) Default; in danger of default
 
-&emsp;The term “Director” means the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development.
+#### (A) Default
 
-#### (6) Enterprise
+&emsp;&emsp;The term “default” means, with respect to a regulated entity, any adjudication or other official determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
+
+#### (B) In danger of default
+
+&emsp;&emsp;The term “in danger of default” means a regulated entity with respect to which, in the opinion of the Agency—
+
+&emsp;&emsp;&emsp;(i) the regulated entity is not likely to be able to pay the obligations of the regulated entity in the normal course of business; or
+
+&emsp;&emsp;&emsp;(ii) the regulated entity—
+
+&emsp;&emsp;&emsp;&emsp;(I) has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+
+&emsp;&emsp;&emsp;&emsp;(II) there is no reasonable prospect that the capital of the regulated entity will be replenished.
+
+#### (9) Director
+
+&emsp;The term “Director” means the Director of the Federal Housing Finance Agency.
+
+#### (10) Enterprise
 
 &emsp;The term “enterprise” means—
 
@@ -52,63 +88,89 @@ For purposes of this chapter:
 
 &emsp;&emsp;(B) the Federal Home Loan Mortgage Corporation and any affiliate thereof.
 
-#### (7) Executive officer
+#### (11) Entity-affiliated party
 
-&emsp;The term “executive officer” means, with respect to an enterprise, the chairman of the board of directors, chief executive officer, chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
+&emsp;The term “entity-affiliated party” means—
 
-#### (8) Low-income
+&emsp;&emsp;(A) any director, officer, employee, or controlling stockholder of, or agent for, a regulated entity;
+
+&emsp;&emsp;(B) any shareholder, affiliate, consultant, or joint venture partner of a regulated entity, and any other person, as determined by the Director (by regulation or on a case-by-case basis) that participates in the conduct of the affairs of a regulated entity, provided that a member of a Federal Home Loan Bank shall not be deemed to have participated in the affairs of that Bank solely by virtue of being a shareholder of, and obtaining advances from, that Bank;
+
+&emsp;&emsp;(C) any independent contractor for a regulated entity (including any attorney, appraiser, or accountant), if—
+
+&emsp;&emsp;&emsp;(i) the independent contractor knowingly or recklessly participates in—
+
+&emsp;&emsp;&emsp;&emsp;(I) any violation of any law or regulation;
+
+&emsp;&emsp;&emsp;&emsp;(II) any breach of fiduciary duty; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any unsafe or unsound practice; and
+
+&emsp;&emsp;&emsp;(ii) such violation, breach, or practice caused, or is likely to cause, more than a minimal financial loss to, or a significant adverse effect on, the regulated entity;
+
+&emsp;&emsp;(D) any not-for-profit corporation that receives its principal funding, on an ongoing basis, from any regulated entity; and
+
+&emsp;&emsp;(E) the Office of Finance.
+
+#### (12) Executive officer
+
+&emsp;The term “executive officer” means, with respect to an enterprise, the chairman of the board of directors, chief executive officer,chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
+
+#### (13) Limited-life regulated entity
+
+&emsp;The term “limited-life regulated entity” means an entity established by the Agency under section 4617(i) of this title with respect to a Federal Home Loan Bank in default or in danger of default or with respect to an enterprise in default or in danger of default.
+
+#### (14) Low-income
 
 &emsp;The term “low-income” means—
 
 &emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of 80 percent of area median income; and
 
-&emsp;&emsp;(B) in the case of rental units, income not in excess of 80 percent of area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+&emsp;&emsp;(B) in the case of rental units, income not in excess of 80 percent of area median income, with adjustments for smaller and larger families, as determined by the Director.
 
-#### (9) Median income
+#### (15) Median income
 
-&emsp;The term “median income” means, with respect to an area, the unadjusted median family income for the area, as determined and published annually by the Secretary.
+&emsp;The term “median income” means, with respect to an area, the unadjusted median family income for the area, as determined and published annually by the Director.
 
-#### (10) Moderate-income
+#### (16) Moderate-income
 
 &emsp;The term “moderate-income” means—
 
 &emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of area median income; and
 
-&emsp;&emsp;(B) in the case of rental units, income not in excess of area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+&emsp;&emsp;(B) in the case of rental units, income not in excess of area median income, with adjustments for smaller and larger families, as determined by the Director.
 
-#### (11) Mortgage purchases
+#### (17) Mortgage purchases
 
 &emsp;The term “mortgage purchases” includes mortgages purchased for portfolio or securitization.
 
-#### (12) Multifamily housing
+#### (18) Multifamily housing
 
 &emsp;The term “multifamily housing” means a residence consisting of more than 4 dwelling units.
 
-#### (13) New program
+#### (19) Office of Finance
 
-&emsp;The term “new program” means any program for the purchasing, servicing, selling, lending on the security of, or otherwise dealing in, conventional mortgages that—
+&emsp;The term “Office of Finance” means the Office of Finance of the Federal Home Loan Bank System (or any successor thereto).
 
-&emsp;&emsp;(A) is significantly different from programs that have been approved under this Act or that were approved or engaged in by an enterprise before October 28, 1992; or
+#### (20) Regulated entity
 
-&emsp;&emsp;(B) represents an expansion, in terms of the dollar volume or number of mortgages or securities involved, of programs above limits expressly contained in any prior approval.
+&emsp;The term “regulated entity” means—
 
-#### (14) Office
+&emsp;&emsp;(A) the Federal National Mortgage Association and any affiliate thereof;
 
-&emsp;The term “Office” means the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development.
+&emsp;&emsp;(B) the Federal Home Loan Mortgage Corporation and any affiliate thereof; and
 
-#### (15) Secretary
+&emsp;&emsp;(C) any Federal Home Loan Bank.
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
-
-#### (16) Single family housing
+#### (21) Single family housing
 
 &emsp;The term “single family housing” means a residence consisting of 1 to 4 dwelling units.
 
-#### (17) State
+#### (22) State
 
 &emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-#### (18) Total capital
+#### (23) Total capital
 
 &emsp;The term “total capital” means, with respect to an enterprise, the sum of the following:
 
@@ -122,25 +184,107 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) Any other amounts from sources of funds available to absorb losses incurred by the enterprise, that the Director by regulation determines are appropriate to include in determining total capital.
 
-#### (19) Very low-income
+#### (24) Very low-income
 
-&emsp;The term “very low-income” means—
+#### (A) In general
 
-&emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of 60 percent of area median income; and
+&emsp;&emsp;The term “very low-income” means—
 
-&emsp;&emsp;(B) in the case of rental units, income not in excess of 60 percent of area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+&emsp;&emsp;&emsp;(i) in the case of owner-occupied units, families having incomes not greater than 50 percent of the area median income; and
 
-(Pub. L. 102–550, title XIII, §1303, Oct. 28, 1992, 106 Stat. 3942.)
+&emsp;&emsp;&emsp;(ii) in the case of rental units, families having incomes not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by the Director.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;For purposes of section <sup>2</sup> 4568 and 4569 of this title, the term “very low-income” means—
+
+&emsp;&emsp;&emsp;(i) in the case of owner-occupied units, income in excess of 30 percent but not greater than 50 percent of the area median income; and
+
+&emsp;&emsp;&emsp;(ii) in the case of rental units, income in excess of 30 percent but not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by the Director.
+
+#### (25) Violation
+
+&emsp;The term “violation” includes any action (alone or in combination with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+
+#### (26) Conforming mortgage
+
+&emsp;The term “conforming mortgage” means, with respect to an enterprise, a conventional mortgage having an original principal obligation that does not exceed the dollar amount limitation in effect at the time of such origination and applicable to such mortgage, under, as applicable—
+
+&emsp;&emsp;(A) section 302(b)(2) of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1717(b)(2)\]; or
+
+&emsp;&emsp;(B) section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1454(a)(2)\].
+
+#### (27) Extremely low-income
+
+&emsp;The term “extremely low-income” means—
+
+&emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of 30 percent of the area median income; and
+
+&emsp;&emsp;(B) in the case of rental units, income not in excess of 30 percent of the area median income, with adjustments for smaller and larger families, as determined by the Director.
+
+#### (28) Low-income area
+
+&emsp;The term “low-income area” means a census tract or block numbering area in which the median income does not exceed 80 percent of the median income for the area in which such census tract or block numbering area is located, and, for the purposes of section 4562(a)(1)(B) of this title, shall include families having incomes not greater than 100 percent of the area median income who reside in minority census tracts and shall include families having incomes not greater than 100 percent of the area median income who reside in designated disaster areas.
+
+#### (29) Minority census tract
+
+&emsp;The term “minority census tract” means a census tract that has a minority population of at least 30 percent and a median family income of less than 100 percent of the area family median income.
+
+#### (30) Shortage of standard rental units both affordable and available to extremely low-income renter households
+
+#### (A) In general
+
+&emsp;&emsp;The term “shortage of standard rental units both affordable and available to extremely low-income renter households” means the gap between—
+
+&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Director that are occupied by extremely low-income renter households or are vacant for rent; and
+
+&emsp;&emsp;&emsp;(ii) the number of extremely low-income renter households.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;If the number of units described in subparagraph (A)(i) exceeds the number of extremely low-income households as described in subparagraph (A)(ii), there is no shortage.
+
+#### (31) Shortage of standard rental units both affordable and available to very low-income renter households
+
+#### (A) In general
+
+&emsp;&emsp;The term “shortage of standard rental units both affordable and available to very low-income renter households” means the gap between—
+
+&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percent of the adjusted area median income as determined by the Director that are occupied by either extremely low- or very low-income renter households or are vacant for rent; and
+
+&emsp;&emsp;&emsp;(ii) the number of extremely low- and very low-income renter households.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;If the number of units described in subparagraph (A)(i) exceeds the number of extremely low- and very low-income households as described in subparagraph (A)(ii), there is no shortage.
+
+(Pub. L. 102–550, title XIII, §1303, Oct. 28, 1992, 106 Stat. 3942; Pub. L. 110–289, div. A, §1002(a), title I, §1128(d), July 30, 2008, 122 Stat. 2659, 2702.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-This Act, referred to in par. (13)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Federal National Mortgage Association Charter Act, referred to in par. (3)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+
+The Federal Home Loan Mortgage Corporation Act, referred to in par. (3)(B), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+
+The Federal Home Loan Bank Act, referred to in par. (3)(C), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
+
+#### Amendments
+
+2008—Pub. L. 110–289, §1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
+
+Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, §1002(a)(1), substituted “Director” for “Secretary”.
+
+Par. (24). Pub. L. 110–289, §1128(d)(1), added par. (24) and struck out former par. (24) which defined the term “very low-income”.
+
+Pars. (26) to (31). Pub. L. 110–289, §1128(d)(2), added pars. (26) to (31).
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
 

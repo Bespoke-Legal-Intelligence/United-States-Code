@@ -6,7 +6,7 @@
 
 &emsp;(2) knowingly transfers an identification document, authentication feature, or a false identification document knowing that such document or feature was stolen or produced without lawful authority;
 
-&emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or moreidentification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
+&emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
 
 &emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, with the intent such document or feature be used to defraud the United States;
 
@@ -250,7 +250,7 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealingsection 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
 
 #### Effective Date of 1996 Amendment
 

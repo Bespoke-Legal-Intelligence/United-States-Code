@@ -72,7 +72,7 @@ Exception.—The amendments made by sections 3(a), 5, 6, and 7 of this Act to se
 
 #### Studies by Institute of Medicine
 
-Pub. L. 106–345, title V, §501, Oct. 20, 2000, 114 Stat. 1352, required the Secretary of Health and Human Services to request the Institute of Medicine or another appropriate entity to conduct a study of State surveillance systems on the prevalence of HIV and a study concerning the relationship between epidemiological measures and health care for certain individuals withHIV and to ensure that the former study be completed and a report submitted to congressional committees not later than 3 years after Oct. 20, 2000, and that the latter study be completed and a report submitted to congressional committees not later than 2 years after Oct. 20, 2000.
+Pub. L. 106–345, title V, §501, Oct. 20, 2000, 114 Stat. 1352, required the Secretary of Health and Human Services to request the Institute of Medicine or another appropriate entity to conduct a study of State surveillance systems on the prevalence of HIV and a study concerning the relationship between epidemiological measures and health care for certain individuals with HIV and to ensure that the former study be completed and a report submitted to congressional committees not later than 3 years after Oct. 20, 2000, and that the latter study be completed and a report submitted to congressional committees not later than 2 years after Oct. 20, 2000.
 
 #### Study Regarding HIV Disease in Rural Areas
 

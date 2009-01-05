@@ -6,7 +6,7 @@ A public housing agency may carry out a homeownership program in accordance with
 
 #### (b) Participating units
 
-A program under this section may cover any existing public housing dwelling units orprojects, and may include other dwelling units and housing owned, assisted, or operated, or otherwise acquired for use under such program, by the public housing agency.
+A program under this section may cover any existing public housing dwelling units or projects, and may include other dwelling units and housing owned, assisted, or operated, or otherwise acquired for use under such program, by the public housing agency.
 
 #### (c) Eligible purchasers
 

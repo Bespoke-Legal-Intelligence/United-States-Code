@@ -68,7 +68,7 @@ Subsec. (b)(5). Pub. L. 106–569, §102(b)(5), struck out “State” before �
 
 Subsec. (c). Pub. L. 106–569, §102(c), struck out heading and text of subsec. (c) which related to local grants.
 
-Subsec. (e). Pub. L. 106–569, §102(d), substituted “and such criteria shall require that grant amounts be usedin a manner consistent with the strategy contained in the comprehensive housing affordability strategy for the jurisdiction pursuant to section 12705(b)(4) of this title” for “and for the selection of units of general local government to receive grants under subsection (f)(2) of this section” before period at end.
+Subsec. (e). Pub. L. 106–569, §102(d), substituted “and such criteria shall require that grant amounts be used in a manner consistent with the strategy contained in the comprehensive housing affordability strategy for the jurisdiction pursuant to section 12705(b)(4) of this title” for “and for the selection of units of general local government to receive grants under subsection (f)(2) of this section” before period at end.
 
 Subsec. (f). Pub. L. 106–569, §102(e), amended heading and text of subsec. (f) generally, substituting provisions relating to selection of grantees for provisions relating to allocation of amounts.
 

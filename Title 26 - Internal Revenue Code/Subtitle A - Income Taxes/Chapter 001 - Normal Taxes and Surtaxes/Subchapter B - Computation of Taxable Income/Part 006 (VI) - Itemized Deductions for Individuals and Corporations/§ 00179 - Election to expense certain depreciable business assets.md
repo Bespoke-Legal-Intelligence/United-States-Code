@@ -2,7 +2,7 @@
 
 #### (a) Treatment as expenses
 
-A taxpayer may elect to treat the cost of any section 179 property as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
+A taxpayer may elect to treat the cost of any section 179 property as an expense which is notchargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which the section 179 property is placed in service.
 
 #### (b) Limitations
 
@@ -90,9 +90,19 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(I) is designed to have a seating capacity of more than 9 persons behind the driver's seat,
 
-&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and isnot readily accessible directly from the passenger compartment, or
+&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
+
+#### (7) Increase in limitations for 2008
+
+&emsp;In the case of any taxable year beginning in 2008—
+
+&emsp;&emsp;(A) the dollar limitation under paragraph (1) shall be $250,000,
+
+&emsp;&emsp;(B) the dollar limitation under paragraph (2) shall be $800,000, and
+
+&emsp;&emsp;(C) the amounts described in subparagraphs (A) and (B) shall not be adjusted under paragraph (5).
 
 #### (c) Election
 
@@ -182,13 +192,47 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192.)
+#### (e) Special rules for qualified disaster assistance property
 
-#### Adjustment of Limitation on Election To Expense Certain Depreciable Assets for Taxable Years Beginning in 2008
+#### (1) In general
 
-<i>For adjustment of limitation on aggregate cost under subsection (b)(1) of this section and the reduction of the limitation under subsection (b)(2) of this section for taxable years beginning in 2008, see section 3.20 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+&emsp;For purposes of this section—
+
+&emsp;&emsp;(A) the dollar amount in effect under subsection (b)(1) for the taxable year shall be increased by the lesser of—
+
+&emsp;&emsp;&emsp;(i) $100,000, or
+
+&emsp;&emsp;&emsp;(ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year, and
+
+&emsp;&emsp;(B) the dollar amount in effect under subsection (b)(2) for the taxable year shall be increased by the lesser of—
+
+&emsp;&emsp;&emsp;(i) $600,000, or
+
+&emsp;&emsp;&emsp;(ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year.
+
+#### (2) Qualified section 179 disaster assistance property
+
+&emsp;For purposes of this subsection, the term “qualified section 179 disaster assistance property” means section 179 property (as defined in subsection (d)) which is qualified disaster assistance property (as defined in section 168(n)(2)).
+
+#### (3) Coordination with empowerment zones and renewal communities
+
+&emsp;For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
+
+#### (4) Recapture
+
+&emsp;For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
+
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+2008—Subsec. (b)(7). Pub. L. 110–185 added par. (7).
+
+Subsec. (e). Pub. L. 110–343 added subsec. (e).
 
 2007—Subsec. (b)(1). Pub. L. 110–28, §8212(a), (b)(1), substituted “$125,000 in the case of taxable years beginning after 2006” for “$100,000 in the case of taxable years beginning after 2002” and “2011” for “2010”.
 
@@ -246,7 +290,7 @@ Computation of taxable income.—For purposes of this paragraph, taxable income 
 
 Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted “tangible property (to which section 168 applies)” for “recovery property”.
 
-1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), andstruck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returns for a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
+1986—Subsec. (b). Pub. L. 99–514, §202(a), in amending subsec. (b) generally, substituted “Limitations” for “Dollar limitation” in heading, in par. (1) substituted as heading “Dollar limitation” for “In general” and in text “shall not exceed $10,000” for “shall not exceed the following applicable amount:” and a table specifying amounts for specific years, added pars. (2) to (4), and struck out former par. (2) which read as follows: “In the case of a husband and wife filing separate returns for a taxable year, the applicable amount under paragraph (1) shall be equal to 50 percent of the amount otherwise determined under paragraph (1).”
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted “in the active conduct of”.
 
@@ -274,6 +318,12 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted “section 167(g)” for “section 167(f)”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title VII, §711(b), Oct. 3, 2008, 122 Stat. 3929, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2007, with respect \[to\] disasters declared after such date.”
+
+Pub. L. 110–185, title I, §102(b), Feb. 13, 2008, 122 Stat. 618, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–28, title VIII, §8212(d), May 25, 2007, 121 Stat. 193, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
@@ -298,7 +348,7 @@ Section 13116(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -328,7 +378,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginningafter Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
+Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginning after Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
 
 #### Effective Date of 1969 Amendment
 

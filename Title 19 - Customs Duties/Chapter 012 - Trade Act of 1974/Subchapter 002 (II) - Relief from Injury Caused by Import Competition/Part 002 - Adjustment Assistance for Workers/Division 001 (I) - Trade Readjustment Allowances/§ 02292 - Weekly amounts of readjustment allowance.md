@@ -40,7 +40,7 @@ Subsec. (f). Pub. L. 97–35, §2504(a)(2), struck out subsec. (f) which authori
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by section 1423(b)(2) of Pub. L. 100–418 effective on the date that is 90 days after Aug.23, 1988, see section 1430(a), (f) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by section 1423(b)(2) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

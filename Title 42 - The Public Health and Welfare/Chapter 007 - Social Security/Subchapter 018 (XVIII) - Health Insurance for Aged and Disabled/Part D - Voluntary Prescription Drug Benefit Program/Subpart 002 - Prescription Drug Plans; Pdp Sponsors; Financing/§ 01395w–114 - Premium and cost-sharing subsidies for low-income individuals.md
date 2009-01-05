@@ -8,11 +8,7 @@
 
 #### (A) Full premium subsidy
 
-&emsp;&emsp;An income-related premium subsidy equal to—
-
-&emsp;&emsp;&emsp;(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
-
-&emsp;&emsp;&emsp;(ii) 80 percent of any late enrollment penalties imposed under section 1395w–113(b) of this title for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.
+&emsp;&emsp;An income-related premium subsidy equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).
 
 #### (B) Elimination of deductible
 
@@ -94,9 +90,11 @@
 
 &emsp;&emsp;&emsp;With respect to eligibility determinations under clause (i) made by the Commissioner of Social Security—
 
-&emsp;&emsp;&emsp;&emsp;(I) redeterminations shall be made at such time or times as may be provided by the Commissioner; and
+&emsp;&emsp;&emsp;&emsp;(I) redeterminations shall be made at such time or times as may be provided by the Commissioner;
 
-&emsp;&emsp;&emsp;&emsp;(II) the Commissioner shall establish procedures for appeals of such determinations that are similar to the procedures described in the third sentence of section 1383(c)(1)(A) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the Commissioner shall establish procedures for appeals of such determinations that are similar to the procedures described in the third sentence of section 1383(c)(1)(A) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(III) judicial review of the final decision of the Commissioner made after a hearing shall be available to the same extent, and with the same limitations, as provided in subsections (g) and (h) of section 405 of this title.
 
 #### (v) Treatment of medicaid beneficiaries
 
@@ -106,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX of this chapter to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
 
-&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referredto in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
 #### (C) Income determinations
 
@@ -164,7 +162,7 @@
 
 #### (F) Treatment of territorial residents
 
-&emsp;&emsp;In the case of a part D eligible individual who is not a resident of the 50 States or the District of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under section 1396u–5(e) of this title.
+&emsp;&emsp;In the case of a part D eligible individual who is not a resident of the 50 States or theDistrict of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under section 1396u–5(e) of this title.
 
 #### (4) Indexing dollar amounts
 
@@ -176,7 +174,7 @@
 
 &emsp;&emsp;&emsp;(ii) for a subsequent year shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
 
-> &emsp;&emsp;Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3,that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
+> &emsp;&emsp;Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3, that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
 
 #### (B) Reduced deductible
 
@@ -244,7 +242,41 @@
 
 For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 110–275, title I, §116, July 15, 2008, 122 Stat. 2507, provided that, effective with respect to applications filed on or after Jan. 1, 2010, subsection (a)(3) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (C)(i), by inserting “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1396a(r)(2) of this title”;</i>
+
+<i>(2) in subparagraph (D), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in the introductory provisions;</i>
+
+<i>(3) in subparagraph (E)(i), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in the introductory provisions; and</i>
+
+<i>(4) by adding subparagraph (G) at the end to read as follows:</i>
+
+#### <i>(G) Life insurance policy exclusion</i>
+
+&emsp;&emsp;<i>In determining the resources of an individual (and the eligible spouse of the individual, if any) under section 1382b of this title for purposes of subparagraphs (D) and (E) no part of the value of any life insurance policy shall be taken into account.</i>
+
+#### Amendments
+
+2008—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
+
+&emsp;“(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
+
+&emsp;“(ii) 80 percent of any late enrollment penalties imposed under section 1395w–113(b) of this title for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.”
+
+Subsec. (a)(3)(B)(iv)(III). Pub. L. 110–275, §117(a), added subcl. (III).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 114(a)(2) of Pub. L. 110–275 applicable to subsidies for months beginning with Jan. 2009, see section 114(b) of Pub. L. 110–275, set out as a note under section 1395w–113 of this title.
+
+Pub. L. 110–275, title I, §116(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to applications filed on or after January 1, 2010.”
+
+Pub. L. 110–275, title I, §117(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\].”
 
 #### GAO Study Regarding Impact of Assets Test for Subsidy Eligible Individuals
 

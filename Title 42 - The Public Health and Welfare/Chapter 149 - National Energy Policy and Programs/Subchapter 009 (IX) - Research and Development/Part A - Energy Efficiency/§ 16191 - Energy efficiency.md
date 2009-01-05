@@ -72,7 +72,7 @@ From amounts authorized under subsection (b), the following sums are authorized:
 
 #### (d) Extended authorization
 
-There are authorized to be appropriated to the Secretary to carry out section 16192 of this title $50,000,000 for each of fiscal years 2010 through 2013.
+There are authorized to be appropriated to the Secretary to carry out section 16192 of this title$50,000,000 for each of fiscal years 2010 through 2013.
 
 #### (e) Limitations
 
@@ -92,7 +92,7 @@ None of the funds authorized to be appropriated under this section may be used f
 
 The Energy Conservation and Production Act, referred to in subsec. (e)(2), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (e)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat.871, as amended. Part D of title III of the Act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (e)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part D of title III of the Act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The National Energy Conservation Policy Act, referred to in subsec. (e)(4), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 3 of title V of the Act is classified generally to part B (§8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 

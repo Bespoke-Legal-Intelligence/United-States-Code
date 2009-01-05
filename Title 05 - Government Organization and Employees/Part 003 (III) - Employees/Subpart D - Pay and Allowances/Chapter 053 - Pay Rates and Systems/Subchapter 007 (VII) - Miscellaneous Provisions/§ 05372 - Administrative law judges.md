@@ -81,11 +81,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub.L. 95–454, set out as a note under section 1101 of this title.
+Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 #### Conversion Rule for Administrative Law Judges
 
-Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts\] take effect \[see Effective Date of 1990 Amendment note set out under section 5301 of this title\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
+Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In making initial pay adjustments for administrative law judges after this section and the amendments made by this section \[enacting section 5372a of this title, amending this section, sections 5102, 5311, and 5335 of this title, section 938 of Title 30, Mineral Lands and Mining, and section 607 of Title 41, Public Contracts\] take effect \[see Effective Date of 1990Amendment note set out under section 5301 of this title\], the rate of basic pay for any such judge shall, upon conversion to the new pay system, be at least equal to the rate which was payable to that individual immediately before such conversion.”
 
 #### Pay Increases
 

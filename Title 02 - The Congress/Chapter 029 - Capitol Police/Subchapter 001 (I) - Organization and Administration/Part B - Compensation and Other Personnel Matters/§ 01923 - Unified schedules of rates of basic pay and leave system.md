@@ -44,7 +44,7 @@
 
 #### (c) Lump sum payments
 
-(1) Upon the approval of the Capitol Police Board, a member or civilian employee of the Capitol Police who is separated from service may be paid a lump sum payment for the accrued annual leave of the member or civilian employee.
+(1) Upon the approval of the Capitol Police Board, a member or civilian employee of the Capitol Police who is separated from servicemay be paid a lump sum payment for the accrued annual leave of the member or civilian employee.
 
 (2) The lump sum payment under paragraph (1)—
 
@@ -76,7 +76,7 @@ Nothing in this section shall be construed to affect the appointing authority of
 
 #### References in Text
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 #### Codification
 

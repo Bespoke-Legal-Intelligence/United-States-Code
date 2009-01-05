@@ -48,7 +48,7 @@ The Task Force is composed of 14 members as follows:
 
 &emsp;(11) A representative of the Karuk Tribe, who shall be appointed by the governing body of the Tribe,<sup>1</sup>
 
-&emsp;(12) A representative of the Yurok Tribe, who shall be appointed by the Secretary until such time as the Yurok Tribe is organized upon which time the Yurok Tribe shall appoint such representative beginning with the first appointment ordinarily occurring after the Yurok Tribe is organized <sup>2</sup>
+&emsp;(12) A representative of the Yurok Tribe, who shall be appointed by the Secretary until such time as the Yurok Tribe is organizedupon which time the Yurok Tribe shall appoint such representative beginning with the first appointment ordinarily occurring after the Yurok Tribe is organized <sup>2</sup>
 
 #### (d) Council membership not a bar to Task Force appointment
 

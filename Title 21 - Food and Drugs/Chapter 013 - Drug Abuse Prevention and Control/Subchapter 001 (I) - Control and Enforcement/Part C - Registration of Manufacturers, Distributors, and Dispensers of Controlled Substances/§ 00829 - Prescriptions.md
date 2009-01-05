@@ -16,13 +16,49 @@ No controlled substance in schedule V which is a drug may be distributed or disp
 
 Whenever it appears to the Attorney General that a drug not considered to be a prescription drug under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] should be so considered because of its abuse potential, he shall so advise the Secretary and furnish to him all available data relevant thereto.
 
-(Pub. L. 91–513, title II, §309, Oct. 27, 1970, 84 Stat. 1260.)
+#### (e) Controlled substances dispensed by means of the Internet
+
+(1) No controlled substance that is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] may be delivered, distributed, or dispensed by means of the Internet without a valid prescription.
+
+(2) As used in this subsection:
+
+&emsp;(A) The term “valid prescription” means a prescription that is issued for a legitimatemedical purpose in the usual course of professional practice by—
+
+&emsp;&emsp;(i) a practitioner who has conducted at least 1 in-person medical evaluation of the patient; or
+
+&emsp;&emsp;(ii) a covering practitioner.
+
+&emsp;(B)(i) The term “in-person medical evaluation” means a medical evaluation that is conducted with the patient in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other health professionals.
+
+&emsp;(ii) Nothing in clause (i) shall be construed to imply that 1 in-person medical evaluation demonstrates that a prescription has been issued for a legitimate medical purpose within the usual course of professional practice.
+
+&emsp;(C) The term “covering practitioner” means, with respect to a patient, a practitioner who conducts a medical evaluation (other than an in-person medical evaluation) at the request of a practitioner who—
+
+&emsp;&emsp;(i) has conducted at least 1 in-person medical evaluation of the patient or an evaluation of the patient through the practice of telemedicine, within the previous 24 months; and
+
+&emsp;&emsp;(ii) is temporarily unavailable to conduct the evaluation of the patient.
+
+(3) Nothing in this subsection shall apply to—
+
+&emsp;(A) the delivery, distribution, or dispensing of a controlled substance by a practitioner engaged in the practice of telemedicine; or
+
+&emsp;(B) the dispensing or selling of a controlled substance pursuant to practices as determined by the Attorney General by regulation, which shall be consistent with effective controls against diversion.
+
+(Pub. L. 91–513, title II, §309, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 110–425, §2, Oct. 15, 2008, 122 Stat. 4820.)
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (b), and (d), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (b), (d), and (e)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in section 812(c) of this title.
+
+#### Amendments
+
+2008—Subsec. (e). Pub. L. 110–425 added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 #### Effect of Scheduling on Prescriptions
 

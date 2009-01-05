@@ -2,33 +2,67 @@
 
 #### (a) Enrollment
 
-Effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including preparatory, undergraduate, and graduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), effective with new admissions for academic year 1993–1994 and each succeeding academic year, the University (including undergraduate and graduate students) and NTID shall limit the enrollment of international students to approximately 15 percent of the total postsecondary student population enrolled respectively at the University or NTID, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student.
+
+#### (2) Distance learning
+
+&emsp;International students who participate in distance learning courses that are at the University or the NTID, who are residing outside of the United States, and are not enrolled in a degree program at the University or the NTID shall—
+
+&emsp;&emsp;(A) not be counted as international students for purposes of the cap on international students under paragraph (1), except that in any school year no United States citizen who applies to participate in distance learning courses that are at the University or NTID shall be denied participation in such courses because of the participation of an international student in such courses; and
+
+&emsp;&emsp;(B) not be charged a tuition surcharge, as described in subsection (b).
 
 #### (b) Tuition surcharge
 
-Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year.
+Except as provided in subsections (a)(2)(B) and (c), the tuition for postsecondary international students enrolled in the University (including undergraduate and graduate students) or NTID shall include, for academic year 2009–2010 and any succeeding academic year, a surcharge of—
+
+&emsp;(1) 100 percent for a postsecondary international student from a non-developing country; and
+
+&emsp;(2) 50 percent for a postsecondary international student from a developing country, or a country that was a developing country for any academic year during the student's period of uninterrupted enrollment in a degree program at the University or NTID, except that such a surcharge shall not be adjusted retroactively.
 
 #### (c) Reduction of surcharge
 
-Beginning with the academic year 1993–1994, the University or NTID may reduce the surcharge under subsection (b) of this section to 50 percent if—
+#### (1) In general
 
-&emsp;(1) a student described under subsection (b) of this section is from a developing country;
+&emsp;Beginning with the academic year 2009–2010, the University or NTID may reduce the surcharge—
 
-&emsp;(2) such student is unable to pay the tuition surcharge under subsection (b) of this section; and
+&emsp;&emsp;(A) under subsection (b)(1) from 100 percent to not less than 50 percent if—
 
-&emsp;(3) such student has made a good faith effort to secure aid through such student's government or other sources.
+&emsp;&emsp;&emsp;(i) a student described under subsection (b)(1) demonstrates need; and
 
-#### (d) “Developing country” defined
+&emsp;&emsp;&emsp;(ii) such student has made a good-faith effort to secure aid through such student's government or other sources; and
 
-For purposes of subsection (c) of this section, the term “developing country” means a country that has a 1990 per capita income not in excess of $4,000 in 1990 United States dollars.
+&emsp;&emsp;(B) under subsection (b)(2) from 50 percent to not less than 25 percent if—
 
-(Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, §204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832.)
+&emsp;&emsp;&emsp;(i) a student described under subsection (b)(2) demonstrates need; and
+
+&emsp;&emsp;&emsp;(ii) such student has made a good faith effort to secure aid through such student's government or other sources.
+
+#### (2) Development of sliding scale
+
+&emsp;The University and NTID shall develop a sliding scale model that—
+
+&emsp;&emsp;(A) will be used to determine the amount of a tuition surcharge reduction pursuant to paragraph (1); and
+
+&emsp;&emsp;(B) shall be approved by the Secretary.
+
+#### (d) Definition
+
+In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United Statesdollars, as adjusted by the Secretary to reflect inflation since 2005.
+
+(Pub. L. 99–371, title II, §209, formerly §210, as added Pub. L. 102–421, title I, §139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, §204(h), Aug. 11, 1993, 107 Stat. 735; renumbered §209 and amended Pub. L. 105–244, title IX, §922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, §911, Aug. 14, 2008, 122 Stat. 3454.)
 
 #### Prior Provisions
 
 A prior section 209 of Pub. L. 99–371 was renumbered section 208 and is classified to section 4359 of this title.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §911(1), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), effective with” for “Effective with” and “undergraduate” for “preparatory, undergraduate,”, and added par. (2).
+
+Subsecs. (b) to (d). Pub. L. 110–315, §911(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d), which related to tuition surcharge, reduction of surcharge, and definition of “developing country”, respectively.
 
 1998—Subsec. (a). Pub. L. 105–244, §922(a)(1), substituted “15 percent” for “10 percent” and inserted before period “, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student”.
 

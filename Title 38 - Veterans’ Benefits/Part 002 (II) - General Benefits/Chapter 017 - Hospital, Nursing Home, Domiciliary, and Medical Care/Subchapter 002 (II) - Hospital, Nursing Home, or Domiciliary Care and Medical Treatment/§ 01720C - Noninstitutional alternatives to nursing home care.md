@@ -6,7 +6,7 @@
 
 &emsp;(2) have a service-connected disability rated at 50 percent or more.
 
-(b)(1) Under the program conducted pursuant to subsection (a), the Secretary shall (A) furnish appropriate health-related services solely through contracts with appropriate public andprivate agencies that provide such services, and (B) designate Department health-care employees to furnish case management services to veteran furnished services under the program.
+(b)(1) Under the program conducted pursuant to subsection (a), the Secretary shall (A) furnish appropriate health-related services solely through contracts with appropriate public and private agencies that provide such services, and (B) designate Department health-care employees to furnish case management services to veteran furnished services under the program.
 
 (2) For the purposes of paragraph (1), the term “case management services” includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
 

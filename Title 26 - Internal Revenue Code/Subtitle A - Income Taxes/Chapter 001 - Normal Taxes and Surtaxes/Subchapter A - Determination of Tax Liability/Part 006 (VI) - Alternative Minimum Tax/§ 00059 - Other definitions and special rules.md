@@ -76,7 +76,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (1) In general
 
-&emsp;For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section 173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-month period beginning with the month in which such expenditure was paid or incurred).
+&emsp;For purposes of this title, any qualified expenditure to which an election under this paragraph applies shall be allowed as a deduction ratably over the 10-year period (3-year period in the case of circulation expenditures described in section 173) beginning with the taxable year in which such expenditure was made (or, in the case of a qualified expenditure described in paragraph (2)(C), over the 60-monthperiod beginning with the month in which such expenditure was paid or incurred).
 
 #### (2) Qualified expenditure
 
@@ -160,11 +160,11 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D),1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
 
-#### Adjustment of Alternative Minimum Tax Exemption Amount for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of alternative minimum tax exemption amount under subsection (j) of this section in the case of a child to whom the “kiddie tax” applies for taxable years beginning in 2008, see section 3.09 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11101(d)(3) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31,1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
+Amendment by section 11101(d)(3) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
 
 Amendment by section 11531(b)(2) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11531(c) of Pub. L. 101–508, set out as a note under section 56 of this title.
 

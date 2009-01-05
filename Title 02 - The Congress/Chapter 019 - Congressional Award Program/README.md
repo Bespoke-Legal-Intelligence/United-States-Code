@@ -17,18 +17,9 @@
 
 #### SUBCHAPTER II—CONGRESSIONAL RECOGNITION FOR EXCELLENCE IN ARTS EDUCATION
 
-|  |  |
-| :--- | ---: |
-| [811\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000811%20-%20Findings.md) | Findings. |
-| [812\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000812%20-%20Definitions.md) | Definitions. |
-| [813\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000813%20-%20Establishment%20of%20Board.md) | Establishment of Board. |
-| [814\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000814%20-%20Board%20duties.md) | Board duties. |
-| [815\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000815%20-%20Composition%20of%20Board%3B%20Advisory%20Board.md) | Composition of Board; Advisory Board. |
-| [816\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000816%20-%20Administration.md) | Administration. |
-| [817\.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000817%20-%20Limitations.md) | Limitations. |
-| [817a.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000817a%20-%20Audits.md) | Audits. |
-| [817b.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000817b%20-%20Termination.md) | Termination. |
-| [817c.](Subchapter%20002%20%28II%29%20-%20Congressional%20Recognition%20for%20Excellence%20in%20Arts%20Education/%C2%A7%2000817c%20-%20Trust%20fund.md) | Trust fund. |
+|  |
+| :--- |
+| 811 to 817c. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

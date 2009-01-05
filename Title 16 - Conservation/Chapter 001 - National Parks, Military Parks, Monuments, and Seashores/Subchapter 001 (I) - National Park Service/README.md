@@ -30,6 +30,7 @@
 - [&sect; 00001g - Cooperative agreements](%C2%A7%2000001g%20-%20Cooperative%20agreements.md)
 - [&sect; 00001h - Sums provided by private entities for utility services](%C2%A7%2000001h%20-%20Sums%20provided%20by%20private%20entities%20for%20utility%20services.md)
 - [&sect; 00001i - Reimbursable agreements](%C2%A7%2000001i%20-%20Reimbursable%20agreements.md)
+- [&sect; 00001j - Cooperative agreements for national park natural resource protection](%C2%A7%2000001j%20-%20Cooperative%20agreements%20for%20national%20park%20natural%20resource%20protection.md)
 - [&sect; 00002 - National parks, reservations, and monuments; supervision](%C2%A7%2000002%20-%20National%20parks%2C%20reservations%2C%20and%20monuments%3B%20supervision.md)
 - [&sect; 00003 - Rules and regulations of national parks, reservations, and monuments; timber; leases](%C2%A7%2000003%20-%20Rules%20and%20regulations%20of%20national%20parks%2C%20reservations%2C%20and%20monuments%3B%20timber%3B%20leases.md)
 - [&sect; 00003a - Recovery of costs associated with special use permits](%C2%A7%2000003a%20-%20Recovery%20of%20costs%20associated%20with%20special%20use%20permits.md)

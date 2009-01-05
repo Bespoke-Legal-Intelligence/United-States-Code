@@ -48,7 +48,7 @@
 
 (B) There are authorized to be appropriated for each fiscal year ending before October 1, 1993, to the National Endowment for the Humanities an amount equal to the sum of—
 
-&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section956(h)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
+&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section 956(h)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
 
 &emsp;(ii) the total amounts received by the grantees of such Endowment from non-Federal sources, including the value of property donated, bequeathed, or devised to such grantees, for use in carrying out activities under subparagraph (A) through subparagraph (F) of section 956(h)(1) of this title;
 
@@ -104,7 +104,7 @@ No grant shall be made to a workshop (other than a workshop conducted by a schoo
 
 #### References in Text
 
-Section 954(<i>l</i>)(2) of this title, referred to in subsec. (a)(4), was redesignated section 954(p)(3) by Pub. L.101–512, title III, §318 \[title I, §§103(g)(1), (h)(1), 104(2)\], Nov. 5, 1990, 104 Stat. 1960, 1964, 1965, 1966.
+Section 954(<i>l</i>)(2) of this title, referred to in subsec. (a)(4), was redesignated section 954(p)(3) by Pub. L. 101–512, title III, §318 \[title I, §§103(g)(1), (h)(1), 104(2)\], Nov. 5, 1990, 104 Stat. 1960, 1964, 1965, 1966.
 
 #### Prior Provisions
 
@@ -158,7 +158,7 @@ Subsec. (a)(2)(B). Pub. L. 99–194, §111(b)(1)(B), substituted “October 1, 1
 
 Subsec. (a)(3)(A). Pub. L. 99–194, §111(b)(2)(A), substituted “October 1, 1990” for “October 1, 1985” and “$20,580,000 for fiscal year 1986, $21,403,200 for fiscal year 1987, $22,259,328 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$27,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, $32,500,000 for fiscal year 1983, $28,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
 
-Subsec. (a)(3)(B). Pub. L. 99–194, §111(b)(2)(B), substituted “October 1, 1990” for “October 1, 1985” and “$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$30,000,000 for fiscal year 1981, $33,000,000 for fiscal year 1982, $36,000,000 for fiscal year 1983, $20,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
+Subsec. (a)(3)(B). Pub. L. 99–194, §111(b)(2)(B), substituted “October 1, 1990” for “October 1, 1985” and “$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year 1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$30,000,000 for fiscal year 1981, $33,000,000 for fiscal year 1982, $36,000,000 for fiscal year 1983, $20,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
 
 Subsec. (a)(3)(C). Pub. L. 99–194, §111(b)(2)(C), substituted “either Chairperson” for “either Chairman” and “the Chairperson” for “he”.
 
@@ -210,7 +210,7 @@ Subsec. (a)(3), (4). Pub. L. 94–462, §§302, 401(b), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 94–462, §106(a)(3), inserted reference to any program for which the Chairman of the National Endowment for the Arts or the Chairman of the National Endowment for the Humanities is responsible.
 
-1973—Subsec. (a)(1). Pub. L. 93–133 incorporated into subpar. (A) provisions relating to the authorization of appropriation for carrying out section 954(c) of this title, substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, 1976 for such authorization for fiscal years 1969 through 1973, and inserted provisions for authorization of appropriation for carrying out section 954(g) of this title, and, in subpar. (B), incorporated provisions of former subsec. (a) relating to authorization of appropriation for carrying outsection 956(c) of this title, and substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, and 1976, for such authorization for 1969 through 1973.
+1973—Subsec. (a)(1). Pub. L. 93–133 incorporated into subpar. (A) provisions relating to the authorization of appropriation for carrying out section 954(c) of this title, substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, 1976 for such authorization for fiscal years 1969 through 1973, and inserted provisions for authorization of appropriation for carrying out section 954(g) of this title, and, in subpar. (B), incorporated provisions of former subsec. (a) relating to authorization of appropriation for carrying out section 956(c) of this title, and substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, and 1976, for such authorization for 1969 through 1973.
 
 Subsec. (a)(2). Pub. L. 93–133 incorporated provisions of former subsec. (b) relating to matching grants and substituted new limitations for fiscal years ending June 30, 1974, 1975, and 1976 for such limitations for 1969 through 1973.
 

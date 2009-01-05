@@ -12,7 +12,7 @@ Except as provided in regulations, for purposes of this subpart, the term “app
 
 &emsp;(2) in the case of an actual or deemed sale or exchange of stock in a foreign corporation treated as a dividend under section 1248, the spot rate on the date the deemed dividend is included in income,
 
-&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), the average exchange rate for the taxable year of the foreign corporation, or
+&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), theaverage exchange rate for the taxable year of the foreign corporation, or
 
 &emsp;(4) in the case of any other qualified business unit of a taxpayer, the average exchange rate for the taxable year of such qualified business unit.
 

@@ -24,6 +24,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—NORTHERN MARIANA ISLANDS DELEGATE
+
+|  |  |
+| :--- | ---: |
+| [1751\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001751%20-%20Delegate%20to%20House%20of%20Representatives%20from%20Commonwealth%20of%20the%20Northern%20Mariana%20Islands.md) | Delegate to House of Representatives from Commonwealth of the Northern Mariana Islands. |
+| [1752\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001752%20-%20Election%20of%20Delegate.md) | Election of Delegate. |
+| [1753\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001753%20-%20Qualifications%20for%20office%20of%20Delegate.md) | Qualifications for office of Delegate. |
+| [1754\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001754%20-%20Determination%20of%20election%20procedure.md) | Determination of election procedure. |
+| [1755\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001755%20-%20Compensation%2C%20privileges%2C%20and%20immunities.md) | Compensation, privileges, and immunities. |
+| [1756\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001756%20-%20Lack%20of%20effect%20on%20covenant.md) | Lack of effect on covenant. |
+| [1757\.](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/%C2%A7%2001757%20-%20Definition.md) | Definition. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -31,3 +45,4 @@
 
 - [Subchapter 001 (I) - Guam and Virgin Islands](Subchapter%20001%20%28I%29%20-%20Guam%20and%20Virgin%20Islands/README.md)
 - [Subchapter 002 (II) - American Samoa](Subchapter%20002%20%28II%29%20-%20American%20Samoa/README.md)
+- [Subchapter 003 (III) - Northern Mariana Islands Delegate](Subchapter%20003%20%28III%29%20-%20Northern%20Mariana%20Islands%20Delegate/README.md)

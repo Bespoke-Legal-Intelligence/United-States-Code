@@ -24,7 +24,7 @@ If necessary to avoid collision or allow more time to assess the situation, a ve
 
 (i) A vessel which, by any of these Rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.
 
-(ii) A vessel required not to impede the passage or safe passage of another vessel is not relieved of this obligation if approaching the other vessel so as to involve risk of collision and shall, when taking action, have full regard to the action which may be required by the Rules of this part.
+(ii) A vessel required not to impede the passage or safe passage of another vessel is not relieved of this obligation if approaching the othervessel so as to involve risk of collision and shall, when taking action, have full regard to the action which may be required by the Rules of this part.
 
 (iii) A vessel the passage of which is not to be impeded remains fully obliged to comply with the Rules of this part when the two vessels are approaching one another so as to involve risk of collision.
 

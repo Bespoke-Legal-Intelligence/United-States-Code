@@ -8,9 +8,69 @@ The district courts of the United States and all courts exercising general juris
 
 In case of an alleged violation of an injunction or restraining order issued under this section, trial shall, upon demand of the accused, be by a jury in accordance with the Federal Rules of Civil Procedure.
 
-(Pub. L. 91–513, title II, §512, Oct. 27, 1970, 84 Stat. 1278.)
+#### (c) State cause of action pertaining to online pharmacies
+
+#### (1) In general
+
+&emsp;In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+
+&emsp;&emsp;(A) to enjoin the conduct which violates this section;
+
+&emsp;&emsp;(B) to enforce compliance with this section;
+
+&emsp;&emsp;(C) to obtain damages, restitution, or other compensation, including civil penalties under section 842(b) of this title; and
+
+&emsp;&emsp;(D) to obtain such other legal or equitable relief as the court may find appropriate.
+
+#### (2) Service; intervention
+
+&emsp;(A) Prior to filing a complaint under paragraph (1), the State shall serve a copy of the complaint upon the Attorney General and upon the United States Attorney for the judicial district in which the complaint is to be filed. In any case where such prior service is not feasible, the State shall serve the complaint on the Attorney General and the appropriate United States Attorney on the same day that the State's complaint is filed in Federal district court of the United States. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or any other proceedings under this subchapter or any other laws of the United States.
+
+&emsp;(B) Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
+
+&emsp;(C) Service of a State's complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule <sup>1</sup> of Civil Procedure.
+
+#### (3) Powers conferred by State law
+
+&emsp;For purposes of bringing any civil action under paragraph (1), nothing in this chapter shall prevent an attorney general of a State from exercising the powers conferred on the attorney general of a State by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses of or the production of documentary or other evidence.
+
+#### (4) Venue
+
+&emsp;Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+
+#### (5) No private right of action
+
+&emsp;No private right of action is created under this subsection.
+
+#### (6) Limitation
+
+&emsp;No civil action may be brought under paragraph (1) against—
+
+&emsp;&emsp;(A) the United States;
+
+&emsp;&emsp;(B) an Indian Tribe or tribal organization, to the extent such tribe or tribal organization is lawfully carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; or
+
+&emsp;&emsp;(C) any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
+
+(Pub. L. 91–513, title II, §512, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 110–425, §3(h), Oct. 15, 2008, 122 Stat. 4830.)
 
 #### References in Text
 
-The Federal Rules of Civil Procedure, referred to in subsecs. (a) and (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subsecs. (a), (b), and (c)(2)(C), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+This subchapter, referred to in subsecs. (a) and (c)(2)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+
+This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–425 added subsec. (c).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Rules”.</i>
 

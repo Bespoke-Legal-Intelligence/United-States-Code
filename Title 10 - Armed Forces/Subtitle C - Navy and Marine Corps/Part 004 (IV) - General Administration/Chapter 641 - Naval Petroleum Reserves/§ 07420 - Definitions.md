@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “national defense” includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
-&emsp;(2) The term “naval petroleum reserves” means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President,dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
+&emsp;(2) The term “naval petroleum reserves” means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located inKern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
 &emsp;(3) The term “petroleum” includes crude oil, gases (including natural gas), natural gasoline, and other related hydrocarbons, oil shale, and the products of any of such resources.
 
@@ -134,7 +134,7 @@ Instrument of Conveyance.—Not later than 1 year after the date of the enactmen
 
 #### Disposal of Naval Petroleum Reserves
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, §3402, Jan. 28, 2008, 122 Stat. 590, provided that:
 
 #### “SEC. 3401. DEFINITIONS.
 
@@ -176,7 +176,7 @@ Period of Availability.—Funds appropriated pursuant to the authorization of ap
 
 “(a)
 
-Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secretary of Energy may dispose of the portion of Naval Petroleum ReserveNumbered 2 that is located within the town lots in Ford City, California, which are identified as ‘Drill Sites Numbered 3A, 4, 6, 9A, 20, 22, 24, and 26’ and described in the document entitled ‘Ford City Drill Site Locations—NPR–2,’ and accompanying maps on file in the office of the Deputy Assistant Secretary for Naval Petroleum and Oil Shale Reserves of the Department of Energy.
+Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secretary of Energy may dispose of the portion of Naval Petroleum Reserve Numbered 2 that is located within the town lots in FordCity, California, which are identified as ‘Drill Sites Numbered 3A, 4, 6, 9A, 20, 22, 24, and 26’ and described in the document entitled ‘Ford City Drill Site Locations—NPR–2,’ and accompanying maps on file in the office of the Deputy Assistant Secretary for Naval Petroleum and Oil Shale Reserves of the Department of Energy.
 
 “(2) The Secretary of Energy shall carry out the disposal authorized by paragraph (1) by competitive sale or lease consistent with commercial practices, by transfer to another Federal agency or a public or private entity, or by such other means as the Secretary considers appropriate. Any competitive sale or lease under this subsection shall provide for the disposal of all right, title, and interest of the United States in the property to be conveyed. The Secretary of Energy may use the authority provided by the Act of June 14, 1926 (43 U.S.C. 869 et seq.; commonly known as the Recreation and Public Purposes Act), in the same manner and to the same extent as the Secretary of the Interior, to dispose of the portion of Naval Petroleum Reserve Numbered 2 described in paragraph (1).
 
@@ -344,6 +344,10 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 &emsp;“(B) the fair market value of the Moab site, as appraised on completion of the remedial action.
 
+“(6)(A) Not later than October 1, 2019, the Secretary of Energy shall complete remediation at the Moab site and removal of the tailings to the Crescent Junction site in Utah.
+
+“(B) In the event the Secretary of Energy is unable to complete remediation at the Moab Site by October 1, 2019, the Secretary shall submit to Congress a plan setting forth the projected completion date and the estimated funding to meet the revised date. The Secretary shall submit the plan, if required, to Congress not later than October 2, 2019.
+
 #### “SEC. 3406. ADMINISTRATION.
 
 “(a)
@@ -416,7 +420,7 @@ Establishment of Minimum Sale Price.—(1) Not later than seven months after the
 
 &emsp;“(C) the net present value of the anticipated revenue stream that the Secretary and the Director of the Office of Management and Budget jointly determine the Treasury would receive from the reserve if the reserve were not sold, adjusted for any anticipated increases in tax revenues that would result if the reserve were sold.
 
-“(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of any environmental restoration and remediation necessary at the reserve. The Secretary shall report the estimate to the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
+“(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of any environmental restoration and remediation necessary at the reserve. The Secretary shall report the estimateto the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
 
 “(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set the minimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
 
@@ -492,7 +496,7 @@ Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to th
 
 “(a)
 
-Notice Regarding Sale Conditions.—The Secretary may not enter into any contract for the sale of Naval Petroleum Reserve Numbered 1 under section 3412 until the end of the 31-day period beginning on the date on which the Secretary submits to the appropriate congressional committees a written notification—
+Notice Regarding Sale Conditions.—The Secretary may not enter into any contract for the sale ofNaval Petroleum Reserve Numbered 1 under section 3412 until the end of the 31-day period beginning on the date on which the Secretary submits to the appropriate congressional committees a written notification—
 
 &emsp;“(1) describing the conditions of the proposed sale; and
 

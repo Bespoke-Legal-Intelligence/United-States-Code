@@ -9,8 +9,8 @@
 | [2664\.](%C2%A7%2002664%20-%20Limitations%20on%20real%20property%20acquisition.md) | Limitations on real property acquisition. |
 | [2665\.](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md) | Sale of certain interests in land; logs. |
 | \[2666. | Repealed.\] |
-| [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md) | Leases: non-excess property of military departments. |
-| [2667a.](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md) | Leases: non-excess property of Defense agencies. |
+| [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments%20and%20Defense%20Agencies.md) | Leases: non-excess property of military departments and Defense Agencies. |
+| \[2667a. | Repealed.\] |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 | [2668a.](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md) | Easements: granting restrictive easements in connection with land conveyances. |
 | \[2669. | Repealed.\] |
@@ -19,8 +19,7 @@
 | \[2672 to 2673. Repealed.\] |  |
 | [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
 | [2675\.](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md) | Leases: foreign countries. |
-| \[2676. | Renumbered.\] |
-| [2677\.](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md) | Options: property required for military construction projects. |
+| \[2676, 2677. Renumbered or Repealed.\] |  |
 | [2678\.](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md) | Feral horses and burros: removal from military installations. |
 | \[2679. | Repealed.\] |
 | [2680\.](%C2%A7%2002680%20-%20Leases%20land%20for%20special%20operations%20activities.md) | Leases: land for special operations activities. |
@@ -40,6 +39,7 @@
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
 | [2694a.](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md) | Conveyance of surplus real property for natural resource conservation. |
 | [2694b.](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md) | Participation in wetland mitigation banks. |
+| [2694c.](%C2%A7%2002694c%20-%20Participation%20in%20conservation%20banking%20programs.md) | Participation in conservation banking programs. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
 | [2696\.](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md) | Real property: transfer between armed forces and screening requirements for other Federal use. |
 
@@ -52,6 +52,10 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title III, §311(b), div. B, title XXVIII, §2812(f)(2), Oct. 14, 2008, 122 Stat. 4409, 4728, added items 2667 and 2694c and struck out former items 2667 “Leases: non-excess property of military departments” and 2667a “Leases: non-excess property of Defense agencies”.
+
+Pub. L. 110–181, div. B, title XXVIII, §2822(b)(2), Jan. 28, 2008, 122 Stat. 544, struck out item 2677 “Options: property required for military construction projects”.
 
 2006—Pub. L. 109–364, div. B, title XXVIII, §§2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in item 2696, and struck out items 2669 “Easements for rights-of-way: gas, water, sewer pipe lines”, 2689 “Development of geothermal energy on military lands”, 2690 “Fuel sources for heating systems; prohibition on converting certain heating facilities”, and 2693 “Conveyance of certain property: Department of Justice correctional options program”.
 
@@ -105,7 +109,7 @@ Pub. L. 97–295, §1(31)(B), Oct. 12, 1982, 96 Stat. 1296, struck out item 2661
 
 Pub. L. 97–258, §2(b)(6)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2661a.
 
-Pub. L. 97–214, §§6(c)(2), 10(a)(4), (5)(C), July 12, 1982, 96 Stat. 173, 175, struck out items 2661 “Planning and construction of public works projects by military departments”, 2673 “Restoration or replacement of facilities damaged or destroyed”, 2674 “Minor constructionprojects”, 2678 “Acquisition of mortgaged housing units”, 2681 “Construction or acquisition of family housing and community facilities in foreign countries”, 2684 “Construction of family quarters; limitations on space”, 2686 “Leases: military family housing”, and 2688 “Use of solar energy systems in new facilities”, substituted “Options: property required for military construction projects” for “Options: property required for public works projects of military departments” in item 2677, and added items 2689 and 2690.
+Pub. L. 97–214, §§6(c)(2), 10(a)(4), (5)(C), July 12, 1982, 96 Stat. 173, 175, struck out items 2661 “Planning and construction of public works projects by military departments”, 2673 “Restoration or replacement of facilities damaged or destroyed”, 2674 “Minor construction projects”, 2678 “Acquisition of mortgaged housing units”, 2681 “Construction or acquisition of family housing and community facilities in foreign countries”, 2684 “Construction of family quarters; limitations on space”, 2686 “Leases: military family housing”, and 2688 “Use of solar energy systems in new facilities”, substituted “Options: property required for military construction projects” for “Options: property required for public works projects of military departments” in item 2677, and added items 2689 and 2690.
 
 1980—Pub. L. 96–513, title V, §511(89), Dec. 12, 1980, 94 Stat. 2928, struck out item 2680 “Reimbursement of owners of property acquired for public works projects for moving expenses”.
 
@@ -147,8 +151,8 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02664 - Limitations on real property acquisition](%C2%A7%2002664%20-%20Limitations%20on%20real%20property%20acquisition.md)
 - [&sect; 02665 - Sale of certain interests in land; logs](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md)
 - [&sect; 02666 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(a)(2), Oct. 28, 2004, 118 Stat. 2129](%C2%A7%2002666%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28a%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202129.md)
-- [&sect; 02667 - Leases non-excess property of military departments](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md)
-- [&sect; 02667a - Leases non-excess property of Defense agencies](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md)
+- [&sect; 02667 - Leases non-excess property of military departments and Defense Agencies](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments%20and%20Defense%20Agencies.md)
+- [&sect; 02667a - Repealed. Pub. L. 110&#8211;417, div. B, title XXVIII, &sect;2812(e)(1), Oct. 14, 2008, 122 Stat. 4727](%C2%A7%2002667a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93417%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72812%28e%29%281%29%2C%20Oct.%2014%2C%202008%2C%20122%20Stat.%204727.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 02668a - Easements granting restrictive easements in connection with land conveyances](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md)
 - [&sect; 02669 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2822(c), Oct. 17, 2006, 120 Stat. 2475](%C2%A7%2002669%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28c%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202475.md)
@@ -159,7 +163,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
 - [&sect; 02675 - Leases foreign countries](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md)
 - [&sect; 02676 - Renumbered &sect;2664](%C2%A7%2002676%20-%20Renumbered%20%C2%A72664.md)
-- [&sect; 02677 - Options property required for military construction projects](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md)
+- [&sect; 02677 - Repealed. Pub. L. 110&#8211;181, div. B, title XXVIII, &sect;2822(b)(1), Jan. 28, 2008, 122 Stat. 544](%C2%A7%2002677%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20544.md)
 - [&sect; 02678 - Feral horses and burros removal from military installations](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md)
 - [&sect; 02679 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(c)(2), Oct. 28, 2004, 118 Stat. 2129](%C2%A7%2002679%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28c%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202129.md)
 - [&sect; 02680 - Leases land for special operations activities](%C2%A7%2002680%20-%20Leases%20land%20for%20special%20operations%20activities.md)
@@ -180,5 +184,6 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
 - [&sect; 02694a - Conveyance of surplus real property for natural resource conservation](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md)
 - [&sect; 02694b - Participation in wetland mitigation banks](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md)
+- [&sect; 02694c - Participation in conservation banking programs](%C2%A7%2002694c%20-%20Participation%20in%20conservation%20banking%20programs.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
 - [&sect; 02696 - Real property transfer between armed forces and screening requirements for other Federal use](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md)

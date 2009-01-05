@@ -1,8 +1,8 @@
 ### §3161. Time limits and exclusions
 
-(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
+(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant andthe attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
-(b) Any information or indictment charging an individual with the commission of an offenseshall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
+(b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
 (c)(1) In any case in which a plea of not guilty is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall commence within seventy days from the filing date (and making public) of the information or indictment, or from the date the defendant has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs. If a defendant consents in writing to be tried before a magistrate judge on a complaint, the trial shall commence within seventy days from the date of such consent.
 
@@ -24,23 +24,19 @@
 
 &emsp;&emsp;(A) delay resulting from any proceeding, including any examinations, to determine the mental competency or physical capacity of the defendant;
 
-&emsp;&emsp;(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 <sup>1</sup> of title 28, United States Code;
+&emsp;&emsp;(B) delay resulting from trial with respect to other charges against the defendant;
 
-&emsp;&emsp;(C) delay resulting from deferral of prosecution pursuant to section 2902 <sup>1</sup> of title 28, United States Code;
+&emsp;&emsp;(C) delay resulting from any interlocutory appeal;
 
-&emsp;&emsp;(D) delay resulting from trial with respect to other charges against the defendant;
+&emsp;&emsp;(D) delay resulting from any pretrial motion, from the filing of the motion through the conclusion of the hearing on, or other prompt disposition of, such motion;
 
-&emsp;&emsp;(E) delay resulting from any interlocutory appeal;
+&emsp;&emsp;(E) delay resulting from any proceeding relating to the transfer of a case or the removal of any defendant from another district under the Federal Rules of Criminal Procedure;
 
-&emsp;&emsp;(F) delay resulting from any pretrial motion, from the filing of the motion through the conclusion of the hearing on, or other prompt disposition of, such motion;
+&emsp;&emsp;(F) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an order of removal or an order directing such transportation, and the defendant's arrival at thedestination shall be presumed to be unreasonable;
 
-&emsp;&emsp;(G) delay resulting from any proceeding relating to the transfer of a case or the removal of any defendant from another district under the Federal Rules of Criminal Procedure;
+&emsp;&emsp;(G) delay resulting from consideration by the court of a proposed plea agreement to be entered into by the defendant and the attorney for the Government; and
 
-&emsp;&emsp;(H) delay resulting from transportation of any defendant from another district, or to and from places of examination or hospitalization, except that any time consumed in excess of ten days from the date an orderof removal or an order directing such transportation, and the defendant's arrival at the destination shall be presumed to be unreasonable;
-
-&emsp;&emsp;(I) delay resulting from consideration by the court of a proposed plea agreement to be entered into by the defendant and the attorney for the Government; and
-
-&emsp;&emsp;(J) delay reasonably attributable to any period, not to exceed thirty days, during which any proceeding concerning the defendant is actually under advisement by the court.
+&emsp;&emsp;(H) delay reasonably attributable to any period, not to exceed thirty days, during which any proceeding concerning the defendant is actually under advisement by the court.
 
 &emsp;(2) Any period of delay during which prosecution is deferred by the attorney for the Government pursuant to written agreement with the defendant, with the approval of the court, for the purpose of allowing the defendant to demonstrate his good conduct.
 
@@ -50,13 +46,11 @@
 
 &emsp;(4) Any period of delay resulting from the fact that the defendant is mentally incompetent or physically unable to stand trial.
 
-&emsp;(5) Any period of delay resulting from the treatment of the defendant pursuant to section 2902 <sup>1</sup> of title 28, United States Code.
+&emsp;(5) If the information or indictment is dismissed upon motion of the attorney for the Government and thereafter a charge is filed against the defendant for the same offense, or any offense required to be joined with that offense, any period of delay from the date the charge was dismissed to the date the time limitation would commence to run as to the subsequent charge had there been no previous charge.
 
-&emsp;(6) If the information or indictment is dismissed upon motion of the attorney for the Government and thereafter a charge is filed against the defendant for the same offense, or any offense required to be joined with that offense, any period of delay from the date the charge was dismissed to the date the time limitation would commence to run as to the subsequent charge had there been no previous charge.
+&emsp;(6) A reasonable period of delay when the defendant is joined for trial with a codefendant as to whom the time for trial has not run and no motion for severance has been granted.
 
-&emsp;(7) A reasonable period of delay when the defendant is joined for trial with a codefendant as to whom the time for trial has not run and no motion for severance has been granted.
-
-&emsp;(8)(A) Any period of delay resulting from a continuance granted by any judge on his own motion or at the request of the defendant or his counsel or at the request of the attorney for the Government, if the judge granted such continuance on the basis of his findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial. No such period of delay resulting from a continuance granted by the court in accordance with this paragraph shall be excludable under this subsection unless the court sets forth, in the record of the case, either orally or in writing, its reasons for finding that the ends of justice served by the granting of such continuance outweigh the best interests of the public and the defendant in a speedy trial.
+&emsp;(7)(A) Any period of delay resulting from a continuance granted by any judge on his own motion or at the request of the defendant or his counsel or at the request of the attorney for the Government, if the judge granted such continuance on the basis of his findings that the ends of justice served by taking such action outweigh the best interest of the public and the defendant in a speedy trial. No such period of delay resulting from a continuance granted by the court in accordance with this paragraph shall be excludable under this subsection unless the court sets forth, in the record of the case, either orally or in writing, its reasons for finding that the ends of justice served by the granting of such continuance outweigh the best interests of the public and the defendant in a speedy trial.
 
 &emsp;(B) The factors, among others, which a judge shall consider in determining whether to grant a continuance under subparagraph (A) of this paragraph in any case are as follows:
 
@@ -70,7 +64,7 @@
 
 &emsp;(C) No continuance under subparagraph (A) of this paragraph shall be granted because of general congestion of the court's calendar, or lack of diligent preparation or failure to obtain available witnesses on the part of the attorney for the Government.
 
-&emsp;(9) Any period of delay, not to exceed one year, ordered by a district court upon an application of a party and a finding by a preponderance of the evidence that an official request, as defined in section 3292 of this title, has been made for evidence of any such offense and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
+&emsp;(8) Any period of delay, not to exceed one year, ordered by a district court upon an application of a party and a finding by a preponderance of the evidence that an official request, as defined in section 3292 of this title, has been made for evidence of any such offense and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
 
 (i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within the meaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
 
@@ -90,13 +84,17 @@
 
 (2) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
-(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, §1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, §6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
-
-#### References in Text
-
-Section 2902 of title 28, referred to in subsec. (h)(1)(B), (C), (5), was repealed by Pub. L. 106–310, div. B, title XXXIV, §3405(c)(1), Oct. 17, 2000, 114 Stat. 1221.
+(Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, §1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, §6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–406, §13, Oct. 13, 2008, 122 Stat. 4294.)
 
 #### Amendments
+
+2008—Subsec. (h)(1)(B) to (J). Pub. L. 110–406, §13(1), redesignated subpars. (D) to (J) as (B) to (H), respectively, and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) delay resulting from any proceeding, including any examination of the defendant, pursuant to section 2902 of title 28, United States Code;
+
+“(C) delay resulting from deferral of prosecution pursuant to section 2902 of title 28, United States Code;”.
+
+Subsec. (h)(5) to (9). Pub. L. 110–406, §13(2), (3), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out former par. (5) which read as follows: “Any period of delay resulting from the treatment of the defendant pursuant to section 2902 of title 28, United States Code.”
 
 1988—Subsec. (k). Pub. L. 100–690 added subsec. (k).
 
@@ -135,6 +133,4 @@ Section 1 of Pub. L. 96–43 provided: “That this Act \[amending this section 
 #### Short Title
 
 Section 1 of Pub. L. 93–619 provided: “That this Act \[enacting this chapter and sections 3153 to 3156 of this title, and amending section 3152 of this title, and section 604 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Speedy Trial Act of 1974’.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

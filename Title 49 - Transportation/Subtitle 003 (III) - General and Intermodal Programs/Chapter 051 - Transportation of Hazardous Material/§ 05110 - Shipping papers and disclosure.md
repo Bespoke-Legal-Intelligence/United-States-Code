@@ -24,7 +24,7 @@ Retention of Papers.—
 
 &emsp;(1)
 
-Shippers.—The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the shipper's principal place of business.
+Offerors.—The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror's principal place of business.
 
 &emsp;(2)
 
@@ -34,7 +34,7 @@ Carriers.—The carrier required to keep the shipping paper under this section,<
 
 Availability to government agencies.—Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 768; Pub. L. 103–311, title I, §115, Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §§7110, 7126, Aug. 10, 2005, 119 Stat. 1898, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 768; Pub. L. 103–311, title I, §115, Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §§7110, 7126, Aug. 10, 2005, 119 Stat. 1898, 1909; Pub. L. 110–244, title III, §302(i), June 6, 2008, 122 Stat. 1618.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,10 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §105(g); added Nov. 16, 1990, Pu
 In subsection (c)(1), the words “A motor carrier” are substituted for “the carrier” for clarity.
 
 #### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–244, §302(i)(2), substituted “offeror's” for “shipper's”.
+
+Pub. L. 110–244, §302(i)(1), which directed substitution of “Offerors” for “Shippers” “in the subsection heading”, was executed by making the substitution in par. (1) heading to reflect the probable intent of Congress.
 
 2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary apply” for “Secretary of Transportation apply”.
 
@@ -176,7 +180,7 @@ Weight to be given to recommendations of nas.—In conducting the review and pre
 
 &emsp;“(3)
 
-Inclusion of reasons for not following recommendations.—If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
+Inclusion of reasons for not following recommendations.—If the Secretary does not include inthe report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
 
 #### Continually Monitored Telephone Systems
 

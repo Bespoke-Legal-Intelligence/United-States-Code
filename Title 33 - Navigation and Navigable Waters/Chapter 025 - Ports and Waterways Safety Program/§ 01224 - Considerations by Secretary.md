@@ -6,7 +6,7 @@ In carrying out his duties and responsibilities under section 1223 of this title
 
 &emsp;&emsp;(1) the scope and degree of the risk or hazard involved;
 
-&emsp;&emsp;(2) vessel traffic characteristics and trends, including traffic volume, the sizesand types of vessels involved, potential interference with the flow of commercial traffic, the presence of any unusual cargoes, and other similar factors;
+&emsp;&emsp;(2) vessel traffic characteristics and trends, including traffic volume, the sizes and types of vessels involved, potential interference with the flow of commercial traffic, the presence of any unusual cargoes, and other similar factors;
 
 &emsp;&emsp;(3) port and waterway configurations and variations in local conditions of geography, climate, and other similar factors;
 

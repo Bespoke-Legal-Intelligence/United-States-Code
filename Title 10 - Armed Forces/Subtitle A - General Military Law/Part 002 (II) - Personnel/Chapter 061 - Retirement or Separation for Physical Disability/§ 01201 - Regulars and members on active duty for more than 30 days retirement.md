@@ -18,7 +18,7 @@ Required Determinations of Disability.—Determinations referred to in subsectio
 
 &emsp;&emsp;(B) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination; and either—
 
-&emsp;&emsp;&emsp;(i) the member has at least eight years of service computed under section 1208 of this title;
+&emsp;&emsp;&emsp;(i) the disability was not noted at the time of the member's entrance on active duty (unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service);
 
 &emsp;&emsp;&emsp;(ii) the disability is the proximate result of performing active duty;
 
@@ -36,7 +36,7 @@ Eligible Members.—This section and sections 1202 and 1203 of this title apply 
 
 &emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, §1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, \[div. A\], title VII, §727(a), Oct. 14, 2008, 122 Stat. 4510.)
 
 Historical and Revision Notes<br>1956
 
@@ -91,6 +91,10 @@ The amendment reflects the Act of April 23, 1956, ch. 209 (70 Stat 115). (See op
 The changes correct typographical errors.
 
 #### Amendments
+
+2008—Subsec. (b)(3)(B)(i). Pub. L. 110–417 struck out “the member has six months or more of active military service and” before “the disability was not noted” and substituted “(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)” for “(unless compelling evidence or medical judgment is such to warrant a finding that the disability existed before the member's entrance on active duty)”.
+
+Pub. L. 110–181 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the member has at least eight years of service computed under section 1208 of this title;”.
 
 1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
 

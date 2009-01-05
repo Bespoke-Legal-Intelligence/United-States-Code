@@ -10,29 +10,37 @@
 
 &emsp;&emsp;(C) the Pan American Union;
 
-&emsp;&emsp;(D) the Pan American Sanitary Bureau;
+&emsp;&emsp;(D) the Pan American Sanitary Bureau; and
 
-&emsp;&emsp;(E) the United States Employment Service and the system of employment offices operated by it in conformity with the provisions of sections 49–49c, 49d, 49e–49k of title 29, and all State employment systems which receive funds appropriated under authority of those sections; and
+&emsp;&emsp;(E) the United States Employment Service and the system of employment offices operated by it in conformity with the provisions of sections 49–49c, 49d, 49e–49k of title 29, and all State employment systems which receive funds appropriated under authority of those sections.
 
-&emsp;&emsp;(F) any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;
+&emsp;(2) mail relating to naturalization to be sent to the Immigration and Naturalization Service by clerks of courts addressed to the Department of Justice or the Immigration and Naturalization Service, or any official thereof; and
 
-&emsp;(2) mail relating to naturalization to be sent to the Immigration and Naturalization Service by clerks of courts addressed to the Department of Justice or the Immigration and Naturalization Service, or any official thereof;
-
-&emsp;(3) mail relating to a collection of statistics, survey, or census authorized by title 13 and addressed to the Department of Commerce or a bureau or agency thereof; and
-
-&emsp;(4) mail of State agriculture experiment stations pursuant to sections 325 and 361f of title 7.
+&emsp;(3) mail relating to a collection of statistics, survey, or census authorized by title 13 and addressed to the Department of Commerce or a bureau or agency thereof.
 
 (b) A department or officer authorized to use penalty covers may enclose them with return address to any person from or through whom official information is desired. The penalty cover may be used only to transmit the official information and endorsements relating thereto.
 
 (c) This section does not apply to officers who receive a fixed allowance as compensation for their services including expenses of postage.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 110–234, title VII, §7404(b)(2)(B), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7404(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2008.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a)(1)(D) to (F). Pub. L. 110–246, §7404(b)(2)(B)(i), in subpar. (D) inserted “and” at end, in subpar. (E) substituted period for “; and” at end, and struck out subpar. (F) which read as follows: “any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;”.
+
+Subsec. (a)(2) to (4). Pub. L. 110–246, §7404(b)(2)(B)(ii)–(iv), in par. (2) inserted “and” at end, in par. (3) substituted period for “; and” at end, and struck out par. (4) which read as follows: “mail of State agriculture experiment stations pursuant to sections 325 and 361f of title 7.”
 
 1993—Subsec. (a)(3), (4). Pub. L. 103–123 inserted “and” at end of par. (3) and substituted period for “; and” at end of par. (4).
 
 1976—Subsec. (a)(5). Pub. L. 94–553 struck out par. (5) which related to articles for copyright deposited with postmasters and addressed to the Register of Copyrights pursuant to section 15 of title 17.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1976 Amendment
 

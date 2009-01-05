@@ -1,6 +1,6 @@
 ### §7502. Audit requirements; exemptions
 
-(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
+(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or inexcess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) monitor the subrecipient's use of Federal awards through site visits, limited scope audits, or other means;
 
-&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
+&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined bythe Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
 
 &emsp;(D) require each of its subrecipients of Federal awards to permit, as a condition of receiving Federal awards, the independent auditor of the pass-through entity to have such access to the subrecipient's records and financial statements as may be necessary for the pass-through entity to comply with this chapter.
 
@@ -86,7 +86,7 @@ The effective date of the Single Audit Act Amendments of 1996, referred to in su
 
 #### Amendments
 
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plansto be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
 1994—Subsec. (b)(2). Pub. L. 103–272, §4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
 

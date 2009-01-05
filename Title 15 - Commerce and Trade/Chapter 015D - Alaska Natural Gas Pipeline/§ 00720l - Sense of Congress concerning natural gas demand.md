@@ -4,7 +4,7 @@ It is the sense of Congress that—
 
 &emsp;(1) North American demand for natural gas will increase dramatically over the course of the next several decades;
 
-&emsp;(2) both the Alaska Natural Gas Pipeline and the Mackenzie Delta Natural Gas project inCanada will be necessary to help meet the increased demand for natural gas in North America;
+&emsp;(2) both the Alaska Natural Gas Pipeline and the Mackenzie Delta Natural Gas project in Canada will be necessary to help meet the increased demand for natural gas in North America;
 
 &emsp;(3) Federal and State officials should work together with officials in Canada to ensure both projects can move forward in a mutually beneficial fashion;
 

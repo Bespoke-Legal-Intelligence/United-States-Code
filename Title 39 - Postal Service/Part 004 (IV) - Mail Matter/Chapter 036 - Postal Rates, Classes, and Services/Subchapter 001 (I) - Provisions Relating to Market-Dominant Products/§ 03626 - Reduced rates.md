@@ -32,7 +32,7 @@
 
 (d)(1) For purposes of this title, the term “agricultural”, as used in former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, includes the art or science of cultivating land, harvesting crops or marine resources, or raising of livestock.
 
-(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
+(2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d),and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
 
 (e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the rates currently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
 
@@ -50,7 +50,7 @@
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributedoutside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -94,7 +94,7 @@
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
-(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement orotherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
+(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement or otherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
 
 (2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
 
@@ -122,7 +122,7 @@ Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(3), 
 
 Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)(D)(I) and (m)(1)(B), is classified to section 513 of Title 26, Internal Revenue Code.
 
-The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
+The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shalltake effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
 
@@ -148,7 +148,7 @@ Subsec. (a)(7). Pub. L. 106–384, §1(e), added par. (7).
 
 1998—Subsec. (b)(3). Pub. L. 105–244 substituted “section 101” for “section 1201(a)” and struck out “(20 U.S.C. 1141(a))” after “Act of 1965”.
 
-1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that issponsored primarily by nonprofit educational institutions for an older adult constituency”.
+1996—Subsec. (b)(3). Pub. L. 104–255 inserted before period “, and includes a nonprofit organization that coordinates a network of college-level courses that is sponsored primarily by nonprofit educational institutions for an older adult constituency”.
 
 1994—Subsec. (j)(1)(D)(III). Pub. L. 103–329 added cl. (III).
 

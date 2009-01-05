@@ -2,9 +2,15 @@
 
 (a)
 
-Action for Relief.—(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of this title of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for relief under this chapter for such person. In the case of such an action against a State (as an employer), the action shall be brought in the name of the United States as the plaintiff in the action.
+Action for Relief.—(1) A person who receives from the Secretary a notification pursuant to section 4322(e) of this title of an unsuccessful effort to resolve a complaint relating to a State (as an employer) or a private employer may request that the Secretary refer the complaint to the Attorney General. Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General. If the Attorney General is reasonably satisfied that the person on whose behalf the complaint is referred is entitled to the rights or benefits sought, the Attorney General may appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted and commence an action for relief under this chapter for such person. In the case of such an action against a State (as an employer), the action shall be brought in the name of the United States as the plaintiff in the action.
 
-(2) A person may commence an action for relief with respect to a complaint against a State (as an employer) or a private employer if the person—
+(2) Not later than 60 days after the date the Attorney General receives a referral under paragraph (1), the Attorney General shall—
+
+&emsp;(A) make a decision whether to appear on behalf of, and act as attorney for, the person on whose behalf the complaint is submitted; and
+
+&emsp;(B) notify such person in writing of such decision.
+
+(3) A person may commence an action for relief with respect to a complaint against a State (as an employer) or a private employer if the person—
 
 &emsp;(A) has chosen not to apply to the Secretary for assistance under section 4322(a) of this title;
 
@@ -44,7 +50,7 @@ Remedies.—(1) In any action under this section, the court may award relief as 
 
 (e)
 
-Equity Powers.—The court may use its full equity powers, including temporary or permanent injunctions, temporary restraining orders, and contempt orders, to vindicate fully the rights or benefits of persons under this chapter.
+Equity Powers.—The court shall use, in any case in which the court determines it is appropriate, its full equity powers, including temporary or permanent injunctions, temporary restraining orders, and contempt orders, to vindicate fully the rights or benefits of persons under this chapter.
 
 (f)
 
@@ -62,19 +68,25 @@ Fees, Court Costs.—(1) No fees or court costs may be charged or taxed against 
 
 (i)
 
-Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.
-
-(j)
-
 Definition.—In this section, the term “private employer” includes a political subdivision of a State.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, §311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, §211(a), Nov. 11, 1998, 112 Stat. 3329.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, §311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, §211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167.)
 
 #### Prior Provisions
 
 A prior section 4323 was renumbered section 7623 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–389, §311(d)(1), inserted “Not later than 60 days after the Secretary receives such a request with respect to a complaint, the Secretary shall refer the complaint to the Attorney General.” after “to the Attorney General.”
+
+Subsec. (a)(2), (3). Pub. L. 110–389, §311(e)(1), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e). Pub. L. 110–389, §315, substituted “shall use, in any case in which the court determines it is appropriate,” for “may use”.
+
+Subsecs. (i), (j). Pub. L. 110–389, §311(f)(3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “
+
+Inapplicability of State Statute of Limitations.—No State statute of limitations shall apply to any proceeding under this chapter.”
 
 1998—Pub. L. 105–368 amended section generally, substituting present provisions for provisions which had: in subsec. (a), authorized reference of complaint to Attorney General and commencement of action for relief on behalf of person whose complaint was referred; in subsec. (b), described appropriate venues in cases where defendant is State or private employer; and in subsec. (c), set forth provisions relating to jurisdiction, abridgement of rights, court and attorney fees, equity power of court, standing, respondents, statute of limitations, and remedies.
 

@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 &emsp;(1) other owners of interests in trust or restricted lands within the same reservation;
 
-&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or any person who is eligible for membership in that tribe; and
+&emsp;(2) the tribe that exercises jurisdiction over the land where the parcel is located or anyperson who is eligible for membership in that tribe; and
 
 &emsp;(3) any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate, such trust or restricted land or the interest in trust or restricted lands.
 

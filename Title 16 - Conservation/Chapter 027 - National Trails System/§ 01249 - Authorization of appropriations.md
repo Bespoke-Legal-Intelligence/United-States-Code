@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probablymeans the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 Public Law 95–42 (91 Stat. 211), referred to in subsec. (b), is Pub. L. 95–42, June 10, 1977, 91 Stat. 210, which, to the extent classified to the Code, amended sections 460<i>l</i>–5, 460<i>l</i>–7, and 460<i>l</i>–9 of this title. Section 1, clause 2 of said Act amended section 460<i>l</i>–7 of this title. For complete classification of this Act to the Code, see Tables.
 

@@ -16,7 +16,7 @@
 
 &emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
 
-(2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) ofparagraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
+(2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 
 #### (b) Indicia of ownership of assets outside jurisdiction of district courts
 
@@ -60,7 +60,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(i) the account of the participant or beneficiary is reallocated among one or more remaining or new investment options which are offered in lieu of one or more investment options offered immediately prior to the effective date of the change, and
 
-&emsp;(ii) the stated characteristics of the remaining or new investment options provided under clause (i), including characteristics relating to risk and rate of return, are, as of immediately after the change, reasonably similar to those of the existing investment options as of immediately before the change.
+&emsp;(ii) the stated characteristics of the remaining or new investment options provided under clause (i), including characteristics relating torisk and rate of return, are, as of immediately after the change, reasonably similar to those of the existing investment options as of immediately before the change.
 
 (C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—
 
@@ -76,7 +76,7 @@ Default investment arrangements.—
 
 &emsp;(A)
 
-In general.—For purposes of paragraph (1), a participant in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.
+In general.—For purposes of paragraph (1), a participant or beneficiary in an individual account plan meeting the notice requirements of subparagraph (B) shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which, in the absence of an investment election by the participant or beneficiary, are invested by the plan in accordance with regulations prescribed by the Secretary. The regulations under this subparagraph shall provide guidance on the appropriateness of designating default investments that include a mix of asset classes consistent with capital preservation or long-term capital appreciation, or a blend of both.
 
 &emsp;(B)
 
@@ -84,9 +84,9 @@ Notice requirements.—
 
 &emsp;&emsp;(i)
 
-In general.—The requirements of this subparagraph are met if each participant—
+In general.—The requirements of this subparagraph are met if each participant or beneficiary—
 
-&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant, such contributions and earnings will be invested, and
+&emsp;&emsp;&emsp;(I) receives, within a reasonable period of time before each plan year, a notice explaining the employee's right under the plan to designate how contributions and earnings will be invested and explaining how, in the absence of any investment election by the participant or beneficiary, such contributions and earnings will be invested, and
 
 &emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the beginning of the plan year to make such designation.
 
@@ -118,13 +118,15 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 &emsp;(B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980; Pub. L. 110–458, title I, §106(d), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2008—Subsec. (c)(5). Pub. L. 110–458 substituted “participant or beneficiary” for “participant” wherever appearing.
 
 2006—Subsec. (c)(1). Pub. L. 109–280, §621(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii), inserted “, except that this clause shall not apply in connection with such participant or beneficiary for any blackout period during which the ability of such participant or beneficiary to direct the investment of the assets in his or her account is suspended by a plan sponsor or fiduciary” before period at end, and added subpars. (B) and (C).
 
@@ -145,6 +147,10 @@ Subsec. (c)(3)(B). Pub. L. 107–147, §411(t)(2), substituted “a transfer tha
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

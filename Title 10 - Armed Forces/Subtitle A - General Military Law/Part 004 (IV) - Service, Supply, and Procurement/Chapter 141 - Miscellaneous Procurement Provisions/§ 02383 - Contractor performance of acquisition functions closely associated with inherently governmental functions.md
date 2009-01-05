@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “head of an agency” has the meaning given such term in section 2302(1) of this title, except that such term does not include the Secretary of Homeland Security or the Administrator of the National Oceanic and Atmospheric Administration.
 
-&emsp;(2) The term “inherently governmental functions” has the meaning given such term insubpart 7.5 of part 7 of the Federal Acquisition Regulation.
+&emsp;(2) The term “inherently governmental functions” has the meaning given such term in subpart 7.5 of part 7 of the Federal Acquisition Regulation.
 
 &emsp;(3) The term “functions closely associated with inherently governmental functions” means the functions described in section 7.503(d) of the Federal Acquisition Regulation.
 

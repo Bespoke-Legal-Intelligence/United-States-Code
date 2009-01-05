@@ -14,7 +14,7 @@ References to sections 2151a through 2151d of this title are deemed to include a
 
 1978—Subsec. (a). Pub. L. 94–424 struck out provision, following “on an ‘in-kind’ basis”, relating to waiver by the President of cost-sharing requirement in case of a project or activity in a country determined to be relatively least developed by the agency primarily responsible for administering subchapter I of this chapter.
 
-Subsec. (b). Pub. L. 95–424 substituted “No” for “Except for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of ‘relatively least developed countries’, no”.
+Subsec. (b). Pub. L. 95–424 substituted “No” for “Except for grants to countries determined to be relativelyleast developed based on the United Nations Conference on Trade and Development list of ‘relatively least developed countries’, no”.
 
 1977—Subsec. (a). Pub. L. 95–88, §106(1), substituted “sections 2151a through 2151d” for “sections 2151a through 2151e”.
 

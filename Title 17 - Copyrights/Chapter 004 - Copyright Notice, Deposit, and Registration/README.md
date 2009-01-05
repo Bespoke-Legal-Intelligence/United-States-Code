@@ -12,12 +12,14 @@
 | [408\.](%C2%A7%2000408%20-%20Copyright%20registration%20in%20general.md) | Copyright registration in general. |
 | [409\.](%C2%A7%2000409%20-%20Application%20for%20copyright%20registration.md) | Application for copyright registration. |
 | [410\.](%C2%A7%2000410%20-%20Registration%20of%20claim%20and%20issuance%20of%20certificate.md) | Registration of claim and issuance of certificate. |
-| [411\.](%C2%A7%2000411%20-%20Registration%20and%20infringement%20actions.md) | Registration and infringement actions. |
+| [411\.](%C2%A7%2000411%20-%20Registration%20and%20civil%20infringement%20actions.md) | Registration and civil infringement actions. |
 | [412\.](%C2%A7%2000412%20-%20Registration%20as%20prerequisite%20to%20certain%20remedies%20for%20infringement.md) | Registration as prerequisite to certain remedies for infringement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–403, title I, §101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted “civil” before “infringement” in item 411.
 
 1988—Pub. L. 100–568, §§7(g), 9(b)(2), Oct. 31, 1988, 102 Stat. 2859, inserted in items 405 and 406 “on certain copies and phonorecords” and substituted in item 411 “Registration and infringement actions” for “Registration as prerequisite to infringement suit”.
 
@@ -36,5 +38,5 @@
 - [&sect; 00408 - Copyright registration in general](%C2%A7%2000408%20-%20Copyright%20registration%20in%20general.md)
 - [&sect; 00409 - Application for copyright registration](%C2%A7%2000409%20-%20Application%20for%20copyright%20registration.md)
 - [&sect; 00410 - Registration of claim and issuance of certificate](%C2%A7%2000410%20-%20Registration%20of%20claim%20and%20issuance%20of%20certificate.md)
-- [&sect; 00411 - Registration and infringement actions](%C2%A7%2000411%20-%20Registration%20and%20infringement%20actions.md)
+- [&sect; 00411 - Registration and civil infringement actions](%C2%A7%2000411%20-%20Registration%20and%20civil%20infringement%20actions.md)
 - [&sect; 00412 - Registration as prerequisite to certain remedies for infringement](%C2%A7%2000412%20-%20Registration%20as%20prerequisite%20to%20certain%20remedies%20for%20infringement.md)

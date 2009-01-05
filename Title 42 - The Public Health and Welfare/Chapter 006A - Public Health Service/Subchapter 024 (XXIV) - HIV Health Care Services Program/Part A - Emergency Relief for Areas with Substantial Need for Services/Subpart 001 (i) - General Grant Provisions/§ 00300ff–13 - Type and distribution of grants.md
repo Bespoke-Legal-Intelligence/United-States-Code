@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;For fiscal year 2007, an exemption under clause (ii) for an eligible area applies only if, by October 1, 2006—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) the State in which the area is located had submitted to the Secretary a plan for making the transition to sufficiently accurate and reliable names-based reporting of living non-AIDS cases of HIV; or
+&emsp;&emsp;&emsp;&emsp;(I)(aa) the State in which the area is located had submitted to the Secretary aplan for making the transition to sufficiently accurate and reliable names-based reporting of living non-AIDS cases of HIV; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) all statutory changes necessary to provide for sufficiently accurate and reliable reporting of such cases had been made; and
 
@@ -104,7 +104,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any otherprovision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”; and
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;For each eligible area that received a grant pursuant to this subsection for fiscal year 2006, the Secretary shall, for each of the fiscal years 2007 through 2009, increase the amount of the grant made pursuant to paragraph (3) for the area to ensure that the amount of the grant for the fiscal year involved is not less than the following amount, as applicable to such fiscal year:
 
-&emsp;&emsp;&emsp;(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grantthat would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”.
+&emsp;&emsp;&emsp;(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”.
 
 &emsp;&emsp;&emsp;(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007.
 
@@ -168,7 +168,7 @@
 
 #### (B) Demonstrated need
 
-&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph (1)(B) may include any or all of the following:
+&emsp;&emsp;The factors considered by the Secretary in determining whether an eligible area has a demonstrated need for purposes of paragraph\(1)(B) may include any or all of the following:
 
 &emsp;&emsp;&emsp;(i) The unmet need for such services, as determined under section 300ff–12(b)(4) of this title or other community input process as defined under section 300ff–19(d)(1)(A) of this title.
 
@@ -192,7 +192,7 @@
 
 #### (C) Priority in making grants
 
-&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in theamounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
+&emsp;&emsp;The Secretary shall provide funds under this subsection to an eligible area to address the decline or disruption of all EMA-provided services related to the decline in the amounts received pursuant to subsection (a) consistent with the grant award for the eligible area for fiscal year 2006, to the extent that the factor under subparagraph (B)(x) (relating to a decline in funding) applies to the eligible area.
 
 #### (3) Remainder of amounts
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;In the case of an eligible area for which a balance from a grant award under subsection (a) is unobligated as of the end of the grant year for the award—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance, the amount of the grant undersuch subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary shall reduce, by the same amount as such unobligated balance, the amount of the grant under such subsection for the first fiscal year beginning after the fiscal year in which the Secretary obtains the information necessary for determining that such balance was unobligated as of the end of the grant year (which requirement for a reduction applies without regard to whether a waiver under subparagraph (A) has been approved with respect to such balance); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the grant funds involved in such reduction shall be made available by the Secretary as additional funds for grants pursuant to subsection (b) for such first fiscal year, subject to subsection (a)(4) and section 300ff–20(d)(2) of this title;
 
@@ -300,7 +300,7 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 2006—Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
 
-Pub. L. 109–415, §102(a), substituted “662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart” for “50 percent of the amount appropriated under section 300ff–77 of this title” and “paragraphs (3) and (4)” for “paragraph (3)” in first sentence and struck out last sentence which read as follows: “The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).”
+Pub. L. 109–415, §102(a), substituted “662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart” for “50 percent of the amount appropriated under section 300ff–77 of this title” and “paragraphs (3) and (4)” for “paragraph (3)” in first sentence and struck out last sentence which read as follows: “The Secretary shall reserve an additional percentage of the amount appropriatedunder section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).”
 
 Subsec. (a)(3)(A). Pub. L. 109–415, §102(d)(1), inserted concluding provisions.
 
@@ -316,7 +316,7 @@ Subsec. (b)(1)(B). Pub. L. 109–415, §103(1)(B), substituted “demonstrates t
 
 Subsec. (b)(1)(E). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
 
-Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “demonstrates the inclusiveness of theplanning council membership, with particular emphasis on affected communities and individuals with HIV disease; and”.
+Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and”.
 
 Subsec. (b)(1)(H). Pub. L. 109–415, §103(1)(D), (E), added subpar. (H).
 

@@ -26,5 +26,5 @@ Limitations.—(1) The birth defects identified under subsection (a) may not inc
 
 A prior section 1812 was renumbered section 3712 of this title.
 
-Another prior section 1812, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1210, automatically guaranteed loans made to a veteran if made for the purpose of purchasing farms and farm equipment, prior to repeal by Pub. L. 93–569, §7(a), Dec. 31, 1974, 88 Stat. 1866.
+Another prior section 1812, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1210, automatically guaranteed loansmade to a veteran if made for the purpose of purchasing farms and farm equipment, prior to repeal by Pub. L. 93–569, §7(a), Dec. 31, 1974, 88 Stat. 1866.
 

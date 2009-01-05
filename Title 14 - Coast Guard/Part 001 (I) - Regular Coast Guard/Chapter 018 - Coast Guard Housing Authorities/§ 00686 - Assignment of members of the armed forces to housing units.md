@@ -20,5 +20,5 @@ Lease Payments Through Pay Allotments.—The Secretary may require members of th
 
 2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(3)(A)\], substituted “section 403(e)” for “section 403(b)”.
 
-Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(3)(B)\], substituted “a basic allowance for housing under section 403 of title 37” for “a basic allowancefor quarters under section 403 of title 37, and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
+Subsec. (b)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(3)(B)\], substituted “a basic allowance for housing under section 403 of title 37” for “a basic allowance for quarters under section 403 of title 37, and, if in a high housing cost area, a variable housing allowance under section 403a of that title”.
 

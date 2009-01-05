@@ -32,7 +32,7 @@
 
 #### (2) Content
 
-&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+&emsp;Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted undersubsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
 #### (c) Report to Congress by Secretary of Defense
 

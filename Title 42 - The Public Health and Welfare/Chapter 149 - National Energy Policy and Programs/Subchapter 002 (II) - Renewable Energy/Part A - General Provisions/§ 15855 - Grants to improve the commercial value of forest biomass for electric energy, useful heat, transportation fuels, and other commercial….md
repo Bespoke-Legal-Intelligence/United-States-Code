@@ -70,7 +70,7 @@ In this section:
 
 #### (3) Monitoring of grant recipient activities
 
-&emsp;As a condition of a grant under this subsection, the grant recipient shall keep such records as the Secretary concerned may require to fully and correctly disclose the use of the grant funds and all transactions involved in the purchase of biomass. Upon notice by a representative of the Secretary concerned, the grant recipient shall afford the representative reasonable access to the facility that purchases or uses biomass and an opportunity to examine the inventory and records of the facility.
+&emsp;As a condition of a grant under this subsection, the grant recipient shall keep such records as the Secretary concerned may require to fully and correctly disclose the use of the grant funds and all transactions involved in the purchase of biomass. Upon notice by a representative of the Secretary concerned, thegrant recipient shall afford the representative reasonable access to the facility that purchases or uses biomass and an opportunity to examine the inventory and records of the facility.
 
 #### (c) Improved biomass use grant program
 

@@ -24,9 +24,9 @@ Minnesota constitutes one judicial district comprising six divisions.
 
 &emsp;&emsp;(6) The Sixth Division comprises the counties of Becker, Beltrami, Big Stone, Clay, Clearwater, Douglas, Grant, Hubbard, Kittson, Lake of the Woods, Mahnomen, Marshall, Norman, Otter Tail, Pennington, Polk, Pope, Red Lake, Roseau, Stearns, Stevens, Todd, Traverse, Wadena, and Wilkin.
 
-&emsp;&emsp;Court for the Sixth Division shall be held at Fergus Falls.
+&emsp;&emsp;Court for the Sixth Division shall be held at Fergus Falls and Bemidji.
 
-(June 25, 1948, ch. 646, 62 Stat. 882.)
+(June 25, 1948, ch. 646, 62 Stat. 882; Pub. L. 110–406, §18, Oct. 13, 2008, 122 Stat. 4295.)
 
 #### Historical and Revision Notes
 
@@ -37,4 +37,8 @@ Provisions relating to the appointment and residence of deputy clerks and the ma
 The counties of Pennington and Lake of the Woods, in the Sixth Division, were created since the enactment of the Judicial Code.
 
 Changes in arrangement and phraseology were made.
+
+#### Amendments
+
+2008—Par. (6). Pub. L. 110–406 inserted “and Bemidji” after “Fergus Falls”.
 

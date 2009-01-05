@@ -48,7 +48,7 @@ With respect to the activities of the Administrator under subsection (a) of this
 
 #### (d) Development of uniform criteria for data collection
 
-After consultation with the States and with appropriate national organizations, the Administrator shall develop uniform criteria for thecollection of data, using the best available technology, pursuant to this section.
+After consultation with the States and with appropriate national organizations, the Administrator shall develop uniform criteria for the collection of data, using the best available technology, pursuant to this section.
 
 (July 1, 1944, ch. 373, title V, §505, formerly §509D, as added Pub. L. 100–690, title II, §2052(a), Nov. 18, 1988, 102 Stat. 4207; amended Pub. L. 101–93, §3(b), Aug. 16, 1989, 103 Stat. 609; renumbered §505, Pub. L. 102–321, title I, §105, July 10, 1992, 106 Stat. 334; Pub. L. 103–43, title XX, §2010(b)(7), June 10, 1993, 107 Stat. 214.)
 
@@ -86,7 +86,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Reports on Consumption of Methamphetamine and Other Illicit Drugs
 
-Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: “The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas.”
+Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: “The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption ofmethamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas.”
 
 #### Public Health Monitoring of Methamphetamine Abuse
 

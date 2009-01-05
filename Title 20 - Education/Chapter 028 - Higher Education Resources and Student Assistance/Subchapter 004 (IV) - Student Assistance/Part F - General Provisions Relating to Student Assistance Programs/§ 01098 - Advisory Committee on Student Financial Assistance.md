@@ -2,31 +2,43 @@
 
 #### (a) Establishment and purpose
 
-(1) There is established in the Department an independent Advisory Committee on Student Financial Assistance (hereafter in this section referred to as the “Advisory Committee”) which shall provide advice and counsel to the Congress and to the Secretary on student financial aid matters.
+(1) There is established in the Department an independent Advisory Committee on Student Financial Assistance (hereafter in this section referred to as the “Advisory Committee”) which shall provide advice and counsel to the authorizing committees and to the Secretary on student financial aid matters.
 
 (2) The purpose of the Advisory Committee is—
 
 &emsp;(A) to provide extensive knowledge and understanding of the Federal, State, and institutional programs of postsecondary student assistance;
 
-&emsp;(B) to provide technical expertise with regard to systems of needs analysis and application forms; and
+&emsp;(B) to provide technical expertise with regard to systems of needs analysis and application forms;
 
-&emsp;(C) to make recommendations that will result in the maintenance of access to postsecondary education for low- and middle-income students.
+&emsp;(C) to make recommendations that will result in the maintenance of access to postsecondary education for low- and middle-income students;
+
+&emsp;(D) to provide knowledge and understanding of early intervention programs, and to make recommendations that will result in early awareness by low- and moderate-income students and families—
+
+&emsp;&emsp;(i) of their eligibility for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42; and
+
+&emsp;&emsp;(ii) to the extent practicable, of their eligibility for other forms of State and institutional need-based student assistance;
+
+&emsp;(E) to make recommendations that will expand and improve partnerships among the Federal Government, States, institutions of higher education, and private entities to increase the awareness and the total amount of need-based student assistance available to low- and moderate-income students; and
+
+&emsp;(F) to collect information on Federal regulations, and on the impact of Federal regulations on student financial assistance and on the cost of receiving a postsecondary education, and to make recommendations to help streamline the regulations for institutions of higher education from all sectors.
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
-(1) The Advisory Committee shall have 11 members of which—
+(1) The Advisory Committee shall consist of 11 members appointed as follows:
 
-&emsp;(A) 3 members shall be appointed by the President pro tempore of the Senate upon the recommendation of the Majority Leader and the Minority Leader,
+&emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
 
-&emsp;(B) 3 members shall be appointed by the Speaker of the House of Representatives upon the recommendation of the Majority Leader and the Minority Leader, and
+&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
 
-&emsp;(C) 5 members shall be appointed by the Secretary including, but not limited to representatives of States, institutions of higher education, secondary schools, credit institutions, students, and parents.
+&emsp;(C) Three members shall be appointed by the Secretary, of whom at least one member shall be a student.
 
-(2) Not less than 7 members of the Advisory Committee shall be individuals who have been appointed on the basis of technical qualifications, professional standing and demonstrated knowledge in the fields of higher education and student aid administration, need analysis, financing postsecondary education, student aid delivery, and the operations and financing of student loan guarantee agencies.
+(2) Each member of the Advisory Committee, with the exception of a student member, shall be appointed on the basis of technical qualifications, professional experience, and demonstrated knowledge in the fields of higher education, student financial aid, financing post-secondary education, and the operations and financing of student loan guarantee agencies.
+
+(3) The appointment of a member under subparagraph (A) or (B) of paragraph (1) shall be effective upon publication of such appointment in the Congressional Record.
 
 #### (d) Functions of the Committee
 
@@ -42,17 +54,25 @@ The Advisory Committee shall—
 
 &emsp;(5) review and comment upon, prior to promulgation, all regulations affecting programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including proposed regulations;
 
-&emsp;(6) recommend to the Congress and to the Secretary such studies, surveys, and analyses of student financial assistance programs, policies, and practices, including the special needs of low-income, disadvantaged, and nontraditional students, and the means by which the needs may be met, but nothing in this section shall authorize the committee to perform such studies, surveys, or analyses;
+&emsp;(6) recommend to the authorizing committees and to the Secretary such studies, surveys, and analyses of student financial assistance programs, policies, and practices, including the special needs of low-income, disadvantaged, and nontraditional students, and the means by which the needs may be met;
 
 &emsp;(7) review and comment upon standards by which financial need is measured in determining eligibility for Federal student assistance programs;
 
-&emsp;(8) appraise the adequacies and deficiencies of current student financial aid information resources and services and evaluate the effectiveness of current student aid information programs; and
+&emsp;(8) appraise the adequacies and deficiencies of current student financial aid information resources and services and evaluate the effectiveness of current student aid information programs;
 
-&emsp;(9) make special efforts to advise Members of Congress and such Members’ staff of the findings and recommendations made pursuant to this paragraph.
+&emsp;(9) provide an annual report to the authorizing committees that provides analyses and policy recommendations regarding—
+
+&emsp;&emsp;(A) the adequacy of need-based grant aid for low- and moderate-income students; and
+
+&emsp;&emsp;(B) the postsecondary enrollment and graduation rates of low- and moderate-income students;
+
+&emsp;(10) develop and maintain an information clearinghouse to help institutions of higher education understand the regulatory impact of the Federal Government on institutions of higher education from all sectors, in order to raise awareness of institutional legal obligations and provide information to improve compliance with, and to reduce the duplication and inefficiency of, Federal regulations; and
+
+&emsp;(11) make special efforts to advise Members of Congress and such Members’ staff of the findings and recommendations made pursuant to this paragraph.
 
 #### (e) Operations of the Committee
 
-(1) Each member of the Advisory Committee shall be appointed for a term of 3 years, except that, of the members first appointed—
+(1) Each member of the Advisory Committee shall be appointed for a term of 4 years, except that, of the members first appointed—
 
 &emsp;(A) 4 shall be appointed for a term of 1 year;
 
@@ -62,7 +82,7 @@ The Advisory Committee shall—
 
 > as designated at the time of appointment by the Secretary.
 
-(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee shall, upon request, continue to serve after the expiration of a term until a successor has been appointed. A member of the Advisory Committee may be reappointed to successive terms on the Advisory Committee.
+(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee serving on August 14, 2008, shall be permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.
 
 (3) No officers or full-time employees of the Federal Government shall serve as members of the Advisory Committee.
 
@@ -104,21 +124,121 @@ In each fiscal year not less than $800,000, shall be available from the amount a
 
 The Advisory Committee shall—
 
-&emsp;(1) monitor and evaluate the modernization of student financial aid systems and delivery processes, including the implementation of a performance-based organization within the Department, and report to Congress regarding such modernization on not less than an annual basis, including recommendations for improvement;
+&emsp;(1) monitor and evaluate the modernization of student financial aid systems and delivery processes and simplifications, including recommendations for improvement;
 
 &emsp;(2) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year secondary school students;
 
 &emsp;(3) assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, as well as policies that promote use of such technology to reduce cost and enhance service and program integrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
 
-&emsp;(4) assess the implications of distance education on student eligibility and other requirements for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, and make recommendations that will enhance access to postsecondary education through distance education while maintaining access, through on-campus instruction at eligible institutions, and program integrity; and
+&emsp;(4) conduct a review and analysis of regulations in accordance with subsection (<i>l</i>); and
 
-&emsp;(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulations under this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title.
+&emsp;(5) conduct a study in accordance with subsection (m).
 
 #### (k) Term of Committee
 
-Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2004.
+Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2014.
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754.)
+#### (<i>l</i>) Review and analysis of regulations
+
+#### (1) Recommendations
+
+&emsp;The Advisory Committee shall make recommendations to the Secretary and the authorizing committees for consideration of future legislative action regarding redundant or outdated regulations consistent with the Secretary's requirements under section 1099c–2 of this title.
+
+#### (2) Review and analysis of regulations
+
+#### (A) Review of current regulations
+
+&emsp;&emsp;To meet the requirements of subsection (d)(10), the Advisory Committee shall conduct a review and analysis of the regulations issued by Federal agencies that are in effect at the time of the review and that apply to the operations or activities of institutions of higher education from all sectors. The review and analysis may include a determination of whether the regulation is duplicative, is no longer necessary, is inconsistent with other Federal requirements, or is overly burdensome. In conducting the review, the Advisory Committee shall pay specific attention to evaluating ways in which regulations under this subchapter and part C of subchapter I of chapter 34 of title 42 affecting institutions of higher education (other than institutions described in section 1002(a)(1)(C) of this title), that have received in each of the two most recent award years prior to August 14, 2008, less than $200,000 in funds through this subchapter and part C of subchapter I of chapter 34 of title 42, may be improved, streamlined, or eliminated.
+
+#### (B) Review and collection of future regulations
+
+&emsp;&emsp;The Advisory Committee shall—
+
+&emsp;&emsp;&emsp;(i) monitor all Federal regulations, including notices of proposed rulemaking, for their impact or potential impact on higher education; and
+
+&emsp;&emsp;&emsp;(ii) provide a succinct description of each regulation or proposed regulation that is generally relevant to institutions of higher education from all sectors.
+
+#### (C) Maintenance of public website
+
+&emsp;&emsp;The Advisory Committee shall develop and maintain an easy to use, searchable, and regularly updated website that—
+
+&emsp;&emsp;&emsp;(i) provides information collected in subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) provides an area for the experts and members of the public to provide recommendations for ways in which the regulations may be streamlined; and
+
+&emsp;&emsp;&emsp;(iii) publishes the study conducted by the National Research Council of the National Academy of Sciences under section 1106 of the Higher Education Opportunity Act.
+
+#### (3) Consultation
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out the review, analysis, and development of the website required under paragraph (2), the Advisory Committee shall consult with the Secretary, other Federal agencies, relevant representatives of institutions of higher education, individuals who have expertise and experience with Federal regulations, and the review panels described in subparagraph (B).
+
+#### (B) Review panels
+
+&emsp;&emsp;The Advisory Committee shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals involved in student financial assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42, who have experience and expertise in the regulations issued by the Federal Government that affect all sectors of higher education, in order to review the regulations and to provide recommendations to the Advisory Committee with respect to the review and analysis under paragraph (2). The panels shall be made up of experts in areas such as the operations of the financial assistance programs, the institutional eligibility requirements for the financial assistance programs, regulations not directly related to the operations or the institutional eligibility requirements of the financial assistance programs, and regulations for dissemination of information to students about the financial assistance programs.
+
+#### (4) Periodic updates to the authorizing committees
+
+&emsp;The Advisory Committee shall—
+
+&emsp;&emsp;(A) submit, not later than two years after the completion of the negotiated rulemaking process required under section 1098a of this title resulting from the amendments to this chapter made by the Higher Education Opportunity Act, a report to the authorizing committees and the Secretary detailing the review panels’ findings and recommendations with respect to the review of regulations; and
+
+&emsp;&emsp;(B) provide periodic updates to the authorizing committees regarding—
+
+&emsp;&emsp;&emsp;(i) the impact of all Federal regulations on all sectors of higher education; and
+
+&emsp;&emsp;&emsp;(ii) suggestions provided through the website for streamlining or eliminating duplicative regulations.
+
+#### (5) Additional support
+
+&emsp;The Secretary and the Inspector General of the Department shall provide such assistance and resources to the Advisory Committee as the Secretary and Inspector General determine are necessary to conduct the review and analysis required by this subsection.
+
+#### (m) Study of innovative pathways to baccalaureate degree attainment
+
+#### (1) Study required
+
+&emsp;The Advisory Committee shall conduct a study of the feasibility of increasing baccalaureate degree attainment rates by reducing the costs and financial barriers to attaining a baccalaureate degree through innovative programs.
+
+#### (2) Scope of study
+
+&emsp;The Advisory Committee shall examine new and existing programs that promote baccalaureate degree attainment through innovative ways, such as dual or concurrent enrollment programs, changes made to the Federal Pell Grant program, simplification of the needs analysis process, compressed or modular scheduling, articulation agreements, and programs that allow two-year institutions of higher education to offer baccalaureate degrees.
+
+#### (3) Required aspects of the study
+
+&emsp;In performing the study described in this subsection, the Advisory Committee shall examine the following aspects of such innovative programs:
+
+&emsp;&emsp;(A) The impact of such programs on baccalaureate attainment rates.
+
+&emsp;&emsp;(B) The degree to which a student's total cost of attaining a baccalaureate degree can be reduced by such programs.
+
+&emsp;&emsp;(C) The ways in which low- and moderate-income students can be specifically targeted by such programs.
+
+&emsp;&emsp;(D) The ways in which nontraditional students can be specifically targeted by such programs.
+
+&emsp;&emsp;(E) The cost-effectiveness for the Federal Government, States, and institutions of higher education to implement such programs.
+
+#### (4) Consultation
+
+#### (A) In general
+
+&emsp;&emsp;In performing the study described in this subsection, the Advisory Committee shall consult with a broad range of interested parties in higher education, including parents, students, appropriate representatives of secondary schools and institutions of higher education, appropriate State administrators, administrators of dual or concurrent enrollment programs, and appropriate Department officials.
+
+#### (B) Consultation with the authorizing committees
+
+&emsp;&emsp;The Advisory Committee shall consult on a regular basis with the authorizing committees in carrying out the study required by this subsection.
+
+#### (5) Reports to authorizing committees
+
+#### (A) Interim report
+
+&emsp;&emsp;The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008, describing the progress made in conducting the study required by this subsection and any preliminary findings on the topics identified under paragraph (2).
+
+#### (B) Final report
+
+&emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
+
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319.)
 
 #### References in Text
 
@@ -126,15 +246,45 @@ Section 1233g of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h)(1), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-This chapter, referred to in subsecs. (h)(2) and (j)(5), was in the original “the Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (h)(2) and (<i>l</i>)(4)(A), was in the original “the Act” and “this Act”, respectively, meaning Pub. L. 89–329, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+The Higher Education Opportunity Act, referred to in subsec. (<i>l</i>)(4)(A), is Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Section 1106 of the Act is not classified to the Code. For complete classification of such Act to the Code, see Short Title of 2008 Amendment note set out under section 1001 of this title and Tables.
+
 #### Prior Provisions
 
-A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315, §494C(b), substituted “authorizing committees” for “Congress”.
+
+Subsec. (a)(2)(D) to (F). Pub. L. 110–315, §494C(a)(1), added subpars. (D) to (F).
+
+Subsec. (b). Pub. L. 110–315, §494C(b), substituted “authorizing committees” for “Congress”.
+
+Subsec. (c). Pub. L. 110–315, §494C(a)(2), added subsec. (c) and struck out former subsec. (c) relating to appointment and qualifications of Advisory Committee members.
+
+Subsec. (d)(6). Pub. L. 110–315, §494C(a)(3)(A), (b), substituted “authorizing committees” for “Congress” and struck out “, but nothing in this section shall authorize the committee to perform such studies, surveys, or analyses” before semicolon.
+
+Subsec. (d)(9) to (11). Pub. L. 110–315, §494C(a)(3)(B)–(D), added pars. (9) and (10) and redesignated former par. (9) as (11).
+
+Subsec. (e)(1). Pub. L. 110–315, §494C(a)(4)(A), substituted “4 years” for “3 years” in introductory provision.
+
+Subsec. (e)(2). Pub. L. 110–315, §494C(a)(4)(B), substituted “A member of the Advisory Committee serving on August 14, 2008, shall be permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.” for “A member of the Advisory Committee shall, upon request, continue to serve after the expiration of a term until a successor has been appointed. A member of the Advisory Committee may be reappointed to successive terms on the Advisory Committee.”
+
+Subsec. (j)(1). Pub. L. 110–315, §494C(a)(5)(A), inserted “and simplifications” after “delivery processes” and struck out “including the implementation of a performance-based organization within the Department, and report to Congress regarding such modernization on not less than an annual basis,” before “including recommendations for improvement”.
+
+Subsec. (j)(4), (5). Pub. L. 110–315, §494C(a)(5)(B), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
+
+“(4) assess the implications of distance education on student eligibility and other requirements for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, and make recommendations that will enhance access to postsecondary education through distance education while maintaining access, through on-campus instruction at eligible institutions, and program integrity; and
+
+“(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulations under this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title.”
+
+Subsec. (k). Pub. L. 110–315, §494C(a)(6), substituted “2014” for “2004”.
+
+Subsecs. (<i>l</i>), (m). Pub. L. 110–315, §494C(a)(7), added subsecs. (<i>l</i>) and (m).
 
 1998—Subsec. (b). Pub. L. 105–244, §490C(1), substituted “, expenditures and staffing levels” for “and expenditures” in second sentence and inserted “Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary.” after third sentence.
 

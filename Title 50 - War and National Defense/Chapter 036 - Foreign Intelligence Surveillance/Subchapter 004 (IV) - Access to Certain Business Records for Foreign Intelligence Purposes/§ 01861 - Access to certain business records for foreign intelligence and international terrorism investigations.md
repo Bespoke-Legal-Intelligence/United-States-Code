@@ -2,7 +2,7 @@
 
 #### (a) Application for order; conduct of investigation generally
 
-(1) Subject to paragraph (3), the Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order requiring the production of any tangible things (including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
+(1) Subject to paragraph (3), the Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge)may make an application for an order requiring the production of any tangible things (including books, records, papers, documents, and other items) for an investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution.
 
 (2) An investigation conducted under this section shall—
 
@@ -64,7 +64,7 @@ Each application under this section—
 
 (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section shall notify such person of the nondisclosure requirements of this subsection.
 
-(C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+(C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C)of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
 
 #### (e) Liability for good faith disclosure; waiver
 
@@ -98,7 +98,7 @@ A person who, in good faith, produces tangible things under an order pursuant to
 
 (4) Judicial proceedings under this subsection shall be concluded as expeditiously as possible. The record of proceedings, including petitions filed, orders granted, and statements of reasons for decision, shall be maintained under security measures established by the Chief Justice of the United States, in consultation with the Attorney General and the Director of National Intelligence.
 
-(5) All petitions under this subsection shall be filed under seal. In any proceedings under thissubsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
+(5) All petitions under this subsection shall be filed under seal. In any proceedings under this subsection, the court shall, upon request of the Government, review ex parte and in camera any Government submission, or portions thereof, which may include classified information.
 
 #### (g) Minimization procedures
 
@@ -150,7 +150,7 @@ A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–2
 
 #### Amendments
 
-2006—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §106(a)(1), substituted “Subject to paragraph (3), the Director” for “The Director”.
 
 Subsec. (a)(3). Pub. L. 109–177, §106(a)(2), added par. (3).
 
@@ -164,7 +164,7 @@ Subsec. (c). Pub. L. 109–177, §106(c), (d), amended subsec. (c) generally. Pr
 
 Subsec. (d). Pub. L. 109–177, §106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: “No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section.”
 
-Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (d)(2)(C). Pub. L. 109–178, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
 Subsec. (f). Pub. L. 109–178, §3, amended subsec. (f) generally. Prior to amendment, subsec. (f) provided for judicial proceedings relating to challenging an order to produce tangible things.
 
@@ -172,7 +172,7 @@ Pub. L. 109–177, §106(f)(2), added subsec. (f).
 
 Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
-2001—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
 
 #### Effective Date of 2006 Amendment
 

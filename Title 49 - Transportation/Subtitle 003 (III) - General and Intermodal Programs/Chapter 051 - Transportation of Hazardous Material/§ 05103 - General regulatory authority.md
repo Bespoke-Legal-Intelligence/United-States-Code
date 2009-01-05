@@ -34,7 +34,7 @@ Consultation.—When prescribing a security regulation or issuing a security ord
 
 (d)
 
-Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the Houseof Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909; Pub. L. 109–177, title VII, §741, Mar. 9, 2006, 120 Stat. 272.)
 
@@ -107,6 +107,32 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Railroad Carrier Employee Exposure to Radiation Study
+
+Pub. L. 110–432, div. A, title IV, §411, Oct. 16, 2008, 122 Stat. 4888, provided that:
+
+“(a)
+
+Study.—The Secretary of Transportation shall, in consultation with the Secretary of Energy, the Secretary of Labor, the Administrator of the Environmental Protection Agency, and the Chairman of the Nuclear Regulatory Commission, as appropriate, conduct a study of the potential hazards to which employees of railroad carriers and railroad contractors or subcontractors are exposed during the transportation of high-level radioactive waste and spent nuclear fuel (as defined in section 5101(a) \[probably means section 5105(a)\] of title 49, United States Code), supplementing the report submitted under section 5101(b) \[probably means section 5105(b)\] of that title, which may include—
+
+&emsp;“(1) an analysis of the potential application of ‘as low as reasonably achievable’ principles for exposure to radiation to such employees with an emphasis on the need for special protection from radiation exposure for such employees during the first trimester of pregnancy or who are undergoing or have recently undergone radiation therapy;
+
+&emsp;“(2) the feasibility of requiring real-time dosimetry monitoring for such employees;
+
+&emsp;“(3) the feasibility of requiring routine radiation exposure monitoring in fixed railroad locations, such as yards and repair facilities; and
+
+&emsp;“(4) a review of the effectiveness of the Department's packaging requirements for radioactive materials.
+
+“(b)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
+
+“(c)
+
+Regulatory Authority.—The Secretary of Transportation may issue regulations that the Secretary determines appropriate, pursuant to the report required by subsection (b), to protect railroad employees from unsafe exposure to radiation during the transportation of radioactive materials.”
+
+\[For definitions of “railroad carrier”, “Department”, “railroad”, and “Secretary”, as used in section 411 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 #### Safe Placement of Train Cars
 

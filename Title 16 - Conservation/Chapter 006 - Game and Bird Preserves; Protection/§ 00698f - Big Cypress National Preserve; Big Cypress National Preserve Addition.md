@@ -52,7 +52,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) the planned construction of Interstate 75 is presently being designed in such a way as to improve the natural water flow to the Everglades National Park, which has been disrupted by State Road 84 (commonly known as ‘Alligator Alley’);
 
-&emsp;“(2) the planned construction of Interstate 75 provides an opportunity to enhance protection of the Everglades National Park, to promote protection of theendangered Florida panther, and to provide for public recreational use and enjoyment of public lands by expanding the Big Cypress National Preserve to include those lands adjacent to Interstate 75 in Collier County north and east of the Big Cypress National Preserve, west of the Broward County line, and south of the Hendry County line;
+&emsp;“(2) the planned construction of Interstate 75 provides an opportunity to enhance protection of the Everglades National Park, to promote protection of the endangered Florida panther, and to provide for public recreational use and enjoyment of public lands by expanding the Big Cypress National Preserve to include those lands adjacent to Interstate 75 in Collier County north and east of the Big Cypress National Preserve, west of the Broward County line, and south of the Hendry County line;
 
 &emsp;“(3) the Federal acquisition of lands bordering the Big Cypress National Preserve in conjunction with the construction of Interstate 75 would provide significant public benefits by limiting development pressure on lands which are important both in terms of fish and wildlife habitat supporting endangered species and of wetlands which are the headwaters of the Big Cypress National Preserve; and
 

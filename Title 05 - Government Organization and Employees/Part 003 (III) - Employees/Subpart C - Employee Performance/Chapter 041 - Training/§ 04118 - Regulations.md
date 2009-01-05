@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1994—Subsec. (a)(7). Pub. L. 103–226, §2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
 
-Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
+Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerningtraining of employees by, in, or through non-Government facilities, shall—
 
 &emsp;“(1) prescribe general policies governing the selection of a non-Government facility to provide training;
 

@@ -12,27 +12,21 @@
 
 #### (2) Requirements
 
-&emsp;The outreach and technical assistance program under paragraph (1) shall—
+&emsp;The outreach and technical assistance program under paragraph (1) shall be used exclusively—
 
-&emsp;&emsp;(A) enhance coordination of the outreach, technical assistance, and education efforts authorized under various agriculture programs; and
+&emsp;&emsp;(A) to enhance coordination of the outreach, technical assistance, and education efforts authorized under agriculture programs; and
 
-&emsp;&emsp;(B) include information on, and assistance with—
+&emsp;&emsp;(B) to assist the Secretary in—
 
-&emsp;&emsp;&emsp;(i) commodity, conservation, credit, rural, and business development programs;
+&emsp;&emsp;&emsp;(i) reaching current and prospective socially disadvantaged farmers or ranchers in a linguistically appropriate manner; and
 
-&emsp;&emsp;&emsp;(ii) application and bidding procedures;
-
-&emsp;&emsp;&emsp;(iii) farm and risk management;
-
-&emsp;&emsp;&emsp;(iv) marketing; and
-
-&emsp;&emsp;&emsp;(v) other activities essential to participation in agricultural and other programs of the Department.
+&emsp;&emsp;&emsp;(ii) improving the participation of those farmers and ranchers in Department programs, as reported under section 2279–1 of this title.
 
 #### (3) Grants and contracts
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity to provide information and technical assistance under this subsection.
+&emsp;&emsp;The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach and technical assistance under this subsection.
 
 #### (B) Relationship to other law
 
@@ -42,15 +36,35 @@
 
 &emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
 
+#### (D) Report
+
+&emsp;&emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and make publicly available, an annual report that includes a list of the following:
+
+&emsp;&emsp;&emsp;(i) The recipients of funds made available under the program.
+
+&emsp;&emsp;&emsp;(ii) The activities undertaken and services provided.
+
+&emsp;&emsp;&emsp;(iii) The number of current and prospective socially disadvantaged farmers or ranchers served and outcomes of such service.
+
+&emsp;&emsp;&emsp;(iv) The problems and barriers identified by entities in trying to increase participation by current and prospective socially disadvantaged farmers or ranchers.
+
 #### (4) Funding
 
-#### (A) Authorization of appropriations
+#### (A) In general
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.
+&emsp;&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+
+&emsp;&emsp;&emsp;(i) $15,000,000 for fiscal year 2009; and
+
+&emsp;&emsp;&emsp;(ii) $20,000,000 for each of fiscal years 2010 through 2012.
 
 #### (B) Interagency funding
 
-&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributingfunds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
+
+#### (C) Limitation on use of funds for administrative expenses
+
+&emsp;&emsp;Not more than 5 percent of the amounts made available under subparagraph (A) for a fiscal year may be used for expenses related to administering the program under this section.
 
 #### (b) Designation of Federal personnel
 
@@ -164,7 +178,7 @@
 
 &emsp;&emsp;&emsp;(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
 
-&emsp;&emsp;&emsp;(ii) has provided to the Secretary documentary evidence of work with socially disadvantaged farmers and ranchers during the 2-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) has provided to the Secretary documentary evidence of work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period preceding the submission of an application for assistance under subsection (a) of this section; and
 
 &emsp;&emsp;&emsp;(iii) does not engage in activities prohibited under section 501(c)(3) of title 26.
 
@@ -190,19 +204,23 @@
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
+&emsp;The Secretary shall require the Farm Service Agency and Natural Resources Conservation Service, and such other offices and functions the Secretary may choose to include where there has been a need demonstrated, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices.
 
 #### (2) Cooperative agreements
 
 &emsp;For those reservations that are located in more than one county, the Secretary, the relevant county offices and the tribe shall enter into a cooperative agreement to provide the services required by paragraph (1) that avoids duplication of effort.
 
-(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520.)
+#### (h) Accurate documentation
+
+The Secretary shall ensure, to the maximum extent practicable, that the Census of Agriculture and studies carried out by the Economic Research Service accurately document the number, location, and economic contributions of socially disadvantaged farmers or ranchers in agricultural production.
+
+(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207.)
 
 #### References in Text
 
 The Agricultural Act of 1949, referred to in subsec. (e)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (e)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1921 of this title and Tables.
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (e)(3)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
@@ -212,9 +230,27 @@ The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99�
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of section 2501 of Pub. L. 101–624 amended section 2003 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(2). Pub. L. 110–246, §14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
+
+Subsec. (a)(3)(A). Pub. L. 110–246, §14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
+
+Subsec. (a)(3)(D). Pub. L. 110–246, §14004(a)(2)(B), added subpar. (D).
+
+Subsec. (a)(4)(A). Pub. L. 110–246, §14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
+
+Subsec. (a)(4)(C). Pub. L. 110–246, §14004(a)(3)(B), added subpar. (C).
+
+Subsec. (e)(5)(A)(ii). Pub. L. 110–246, §14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
+
+Subsec. (g)(1). Pub. L. 110–246, §14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
+
+Subsec. (h). Pub. L. 110–246, §14005, added subsec. (h).
 
 2002—Subsec. (a). Pub. L. 107–171, §10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
@@ -252,6 +288,52 @@ Subsec. (c)(1)(C). Pub. L. 102–237, §1003(2), inserted “program” after �
 
 Subsec. (d)(3). Pub. L. 102–237, §1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+#### Minority Farmer Advisory Committee
+
+Pub. L. 110–234, title XIV, §14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, §4(a), title XIV, §14008, June 18, 2008, 122 Stat. 1664, 2208, provided that:
+
+“(a)
+
+Establishment.—Not later than 18 months after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’).
+
+“(b)
+
+Duties.—The Committee shall provide advice to the Secretary on—
+
+&emsp;“(1) the implementation of section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279);
+
+&emsp;“(2) methods of maximizing the participation of minority farmers and ranchers in Department of Agriculture programs; and
+
+&emsp;“(3) civil rights activities within the Department as such activities relate to participants in such programs.
+
+“(c)
+
+Membership.—
+
+&emsp;“(1)
+
+In general.—The Committee shall be composed of not more than 15 members, who shall be appointed by the Secretary, and shall include—
+
+&emsp;&emsp;“(A) not less than four socially disadvantaged farmers or ranchers (as defined in section 2501(e)(2) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(e)(2)));
+
+&emsp;&emsp;“(B) not less than two representatives of nonprofit organizations with a history of working with minority farmers and ranchers;
+
+&emsp;&emsp;“(C) not less than two civil rights professionals;
+
+&emsp;&emsp;“(D) not less than two representatives of institutions of higher education with demonstrated experience working with minority farmers and ranchers; and
+
+&emsp;&emsp;“(E) such other persons as the Secretary considers appropriate.
+
+&emsp;“(2)
+
+Ex-officio members.—The Secretary may appoint such employees of the Department of Agriculture as the Secretary considers appropriate to serve as ex-officio members of the Committee.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
 #### Waiver of Statute of Limitations
 
 Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
@@ -264,7 +346,7 @@ Pub. L. 105–277, div. A, §101(a) \[title VII, §741\], Oct. 21, 1998, 112 Sta
 
 &emsp;“(2) award the complainant such relief as would be afforded under the applicable statute from which the eligible complaint arose notwithstanding any statute of limitations; and
 
-&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligiblecomplaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
+&emsp;“(3) to the maximum extent practicable within 180 days after the date a determination of an eligible complaint is sought under this subsection conduct an investigation, issue a written determination and propose a resolution in accordance with this subsection.
 
 “(c) Notwithstanding subsections (a) and (b), if an eligible claim is denied administratively, the claimant shall have at least 180 days to commence a cause of action in a Federal court of competent jurisdiction seeking a review of such denial.
 

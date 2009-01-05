@@ -12,11 +12,11 @@ To carry out the programs described in subsection (a) of this section, the Secre
 
 &emsp;(2) the Secretary shall provide, on a cost-sharing basis, consultative and technical assistance, including design support and generic licensing documentation, to assist such utility in obtaining the construction authorization and appropriate license from the Commission; and
 
-&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhance utility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
+&emsp;(3) the Secretary shall provide generic research and development of alternative spent nuclear fuel storage techniques to enhanceutility-provided, at-reactor storage capabilities, if authorized in any other provision of this chapter or in any other provision of law.
 
 #### (c) Dry storage research and development
 
-(1) The consultative and technical assistance referred to in subsection (b)(2) of this section may include, but shall not be limited to, the establishment of a research and development program for the dry storage of not more than 300metric tons of spent nuclear fuel at facilities owned by the Federal Government on January 7, 1983. The purpose of such program shall be to collect necessary data to assist the utilities involved in the licensing process.
+(1) The consultative and technical assistance referred to in subsection (b)(2) of this section may include, but shall not be limited to, the establishment of a research and development program for the dry storage of not more than 300 metric tons of spent nuclear fuel at facilities owned by the Federal Government on January 7, 1983. The purpose of such program shall be to collect necessary data to assist the utilities involved in the licensing process.
 
 (2) To the extent available, and consistent with the provisions of section 10155 of this title, the Secretary shall provide spent nuclear fuel for the research and development program authorized in this subsection from spent nuclear fuel received by the Secretary for storage under section 10155 of this title. Such spent nuclear fuel shall not be subject to the provisions of section 10155(e) of this title.
 

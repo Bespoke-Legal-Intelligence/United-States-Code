@@ -12,7 +12,7 @@ Funds made available under this subchapter to States or units of local governmen
 
 #### (2) Indian tribal governments
 
-&emsp;Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter.
+&emsp;Funds appropriated by the Congress for the activities of any agency of an Indian tribalgovernment or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter.
 
 #### (c) Hiring costs
 

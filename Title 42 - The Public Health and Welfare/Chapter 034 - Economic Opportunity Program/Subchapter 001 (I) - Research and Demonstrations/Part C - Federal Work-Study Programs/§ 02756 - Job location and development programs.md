@@ -2,7 +2,7 @@
 
 #### (a) Agreements required
 
-(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $50,000 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
+(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $75,00 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
 
 (2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
 
@@ -22,7 +22,7 @@ Agreements under subsection (a) of this section shall—
 
 &emsp;(6) provide that the institution will submit to the Secretary an annual report on the uses made of funds provided under this section and an evaluation of the effectiveness of such program in benefiting the students of such institution.
 
-(Pub. L. 89–329, title IV, §446, formerly title I, §126, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(2), 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 94–43, §2, June 28, 1975, 89 Stat. 233; Pub. L. 96–374, title IV, §435, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1435, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 100–50, §11(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §445, July 23, 1992, 106 Stat. 566.)
+(Pub. L. 89–329, title IV, §446, formerly title I, §126, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(2), 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 94–43, §2, June 28, 1975, 89 Stat. 233; Pub. L. 96–374, title IV, §435, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1435, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 100–50, §11(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §445, July 23, 1992, 106 Stat. 566; Pub. L. 110–315, title IV, §445, Aug. 14, 2008, 122 Stat. 3260.)
 
 #### Codification
 
@@ -36,9 +36,11 @@ Provisions similar to this section were contained in section 2756a of this title
 
 #### Amendments
 
+2008—Subsec. (a)(1). Pub. L. 110–315 substituted “$75,000” for “$50,000”.
+
 1992—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
 
-1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
+1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures peryear made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
 
 1986—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
 

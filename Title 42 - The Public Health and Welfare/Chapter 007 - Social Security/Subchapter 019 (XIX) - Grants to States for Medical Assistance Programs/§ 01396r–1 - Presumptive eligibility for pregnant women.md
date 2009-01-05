@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) ends with (and includes) the earlier of—
 
-&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of thewoman for medical assistance under the State plan, or
+&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of the woman for medical assistance under the State plan, or
 
 &emsp;&emsp;&emsp;(ii) in the case of a woman who does not file an application by the last day of the month following the month during which the provider makes the determination referred to in subparagraph (A), such last day; and
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) is eligible for payments under a State plan approved under this subchapter,
 
-&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section 1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
+&emsp;&emsp;(B) provides services of the type described in subparagraph (A) or (B) of section1396d(a)(2) of this title or in section 1396d(a)(9) of this title,
 
 &emsp;&emsp;(C) is determined by the State agency to be capable of making determinations of the type described in paragraph (1)(A), and
 
@@ -108,7 +108,7 @@ Pub. L. 101–508, §4605(a)(2), substituted “by not later than the last day o
 
 Subsec. (b)(2)(D)(ii)(II). Pub. L. 100–360, §411(k)(16)(B)(ii), as amended by Pub. L. 100–485, §608(d)(26)(L)(i), struck out “or” after “1973;”.
 
-Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485, §608(d)(26)(L)(iii), substituted “program; or” for “program.”
+Subsec. (b)(2)(D)(iii). Pub. L. 100–360, §411(k)(16)(B)(iii), as added by Pub. L. 100–485,§608(d)(26)(L)(iii), substituted “program; or” for “program.”
 
 Subsec. (b)(2)(D)(iv). Pub. L. 100–360, §411(k)(16)(B)(iv), formerly §411(k)(16)(B)(iii), as redesignated by Pub. L. 100–485, §608(d)(26)(L)(ii), added cl. (iv).
 

@@ -24,7 +24,7 @@ The Director for Emergency Communications shall—
 
 &emsp;(6) provide technical assistance to State, regional, local, and tribal government officials with respect to use of interoperable emergency communications capabilities;
 
-&emsp;(7) coordinate with the Regional Administrators regarding the activities of Regional Emergency Communications Coordination Working Groups under section 575 of this title;
+&emsp;(7) coordinate with the Regional Administrators regarding the activities of RegionalEmergency Communications Coordination Working Groups under section 575 of this title;
 
 &emsp;(8) promote the development of standard operating procedures and best practices with respect to use of interoperable emergency communications capabilities for incident response, and facilitate the sharing of information on such best practices for achieving, maintaining, and enhancing interoperable emergency communications capabilities for such response;
 

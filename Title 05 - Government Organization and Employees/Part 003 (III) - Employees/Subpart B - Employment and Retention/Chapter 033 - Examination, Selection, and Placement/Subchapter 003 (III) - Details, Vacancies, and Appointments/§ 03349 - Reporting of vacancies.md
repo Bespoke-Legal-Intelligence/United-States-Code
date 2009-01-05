@@ -2,7 +2,7 @@
 
 (a) The head of each Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) shall submit to the Comptroller General of the United States and to each House of Congress—
 
-&emsp;(1) notification of a vacancy in an office to which this section and sections 3345, 3346, 3347, 3348, 3349a, 3349b, 3349c, and 3349d apply and the date such vacancy occurred immediately upon the occurrence of the vacancy;
+&emsp;(1) notification of a vacancy in an office to which this section and sections 3345, 3346, 3347,3348, 3349a, 3349b, 3349c, and 3349d apply and the date such vacancy occurred immediately upon the occurrence of the vacancy;
 
 &emsp;(2) the name of any person serving in an acting capacity and the date such service began immediately upon the designation;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) the date of a rejection, withdrawal, or return of any nomination immediately upon such rejection, withdrawal, or return.
 
-(b) If the Comptroller General of the United States makes a determination that an officer isserving longer than the 210-day period including the applicable exceptions to such period under section 3346 or section 3349a, the Comptroller General shall report such determination immediately to—
+(b) If the Comptroller General of the United States makes a determination that an officer is serving longer than the 210-day period including the applicable exceptions to such period under section 3346 or section 3349a, the Comptroller General shall report such determination immediately to—
 
 &emsp;(1) the Committee on Governmental Affairs of the Senate;
 

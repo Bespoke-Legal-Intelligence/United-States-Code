@@ -76,6 +76,10 @@ Pub. L. 98–369, div. B, title VII, §2751, July 18, 1984, 98 Stat. 1203, provi
 
 Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title VIII, §861, Oct. 14, 2008, 122 Stat. 4546, provided that: “This subtitle \[subtitle G (§§861–874) of title VIII of Pub. L. 110–417, enacting sections 417b and 440 of this title, amending sections 253, 254d, and 417 of this title and sections 2304 and 2313 of Title 10, Armed Forces, enacting provisions set out as notes under this section, sections 253h, 254, 254b, 405, and 433a of this title, and sections 1535 and 6101 of Title 31, Money and Finance, and repealing provisions set out as a note under section 2304 of Title 10\] may be cited as the ‘Clean Contracting Act of 2008’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
@@ -174,6 +178,72 @@ Savings Provisions.—(1) Nothing in this Act shall be construed to affect the v
 
 Section 604, formerly §504, of act June 30, 1949, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
+#### Linking of Award and Incentive Fees to Acquisition Outcomes
+
+Pub. L. 110–417, \[div. A\], title VIII, §867, Oct. 14, 2008, 122 Stat. 4551, provided that:
+
+“(a)
+
+Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquisition Outcomes.—Not later than 1 year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be amended to provide executive agencies other than the Department of Defense with instructions, including definitions, on the appropriate use of award and incentive fees in Federal acquisition programs.
+
+“(b)
+
+Elements.—The regulations under subsection (a) shall—
+
+&emsp;“(1) ensure that all new contracts using award fees link such fees to acquisition outcomes (which shall be defined in terms of program cost, schedule, and performance);
+
+&emsp;“(2) establish standards for identifying the appropriate level of officials authorized to approve the use of award and incentive fees in new contracts;
+
+&emsp;“(3) provide guidance on the circumstances in which contractor performance may be judged to be ‘excellent’ or ‘superior’ and the percentage of the available award fee which contractors should be paid for such performance;
+
+&emsp;“(4) establish standards for determining the percentage of the available award fee, if any, which contractors should be paid for performance that is judged to be ‘acceptable’, ‘average’, ‘expected’, ‘good’, or ‘satisfactory’;
+
+&emsp;“(5) ensure that no award fee may be paid for contractor performance that is judged to be below satisfactory performance or performance that does not meet the basic requirements of the contract;
+
+&emsp;“(6) provide specific direction on the circumstances, if any, in which it may be appropriate to roll over award fees that are not earned in one award fee period to a subsequent award fee period or periods;
+
+&emsp;“(7) ensure consistent use of guidelines and definitions relating to award and incentive fees across the Federal Government;
+
+&emsp;“(8) ensure that each executive agency—
+
+&emsp;&emsp;“(A) collects relevant data on award and incentive fees paid to contractors; and
+
+&emsp;&emsp;“(B) has mechanisms in place to evaluate such data on a regular basis;
+
+&emsp;“(9) include performance measures to evaluate the effectiveness of award and incentive fees as a tool for improving contractor performance and achieving desired program outcomes; and
+
+&emsp;“(10) provide mechanisms for sharing proven incentive strategies for the acquisition of different types of products and services among contracting and program management officials.
+
+“(c)
+
+Guidance for Department of Defense.—The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2321 \[10 U.S.C. 2302 note\]).
+
+“(d)
+
+Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
+#### Close the Contractor Fraud Loophole
+
+Pub. L. 110–252, title VI, ch. 1, June 30, 2008, 122 Stat. 2386, provided that:
+
+#### “short title
+
+“
+
+Sec. 6101. This chapter may be cited as the ‘Close the Contractor Fraud Loophole Act’.
+
+#### “revision of the federal acquisition regulation
+
+“
+
+Sec. 6102. The Federal Acquisition Regulation shall be amended within 180 days after the date of the enactment of this Act \[June 30, 2008\] pursuant to FAR Case 2007–006 (as published at 72 Fed Reg. 64019, November 14, 2007) or any follow-on FAR case to include provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
+
+#### “definition
+
+“
+
+Sec. 6103. In this chapter, the term ‘covered contract’ means any contract in an amount greater than $5,000,000 and more than 120 days in duration.”
+
 #### Evaluation by Comptroller General
 
 Pub. L. 103–355, title X, §10003, Oct. 13, 1994, 108 Stat. 3405, provided that not later than 180 days after the issuance in final form of revisions to the Federal Acquisition Regulation pursuant to section 10002 of Pub. L. 103–355, set out as a note above, the Comptroller General was to submit to Congress a report evaluating compliance with such section.
@@ -190,7 +260,7 @@ Pub. L. 98–577, title I, §101, Oct. 30, 1984, 98 Stat. 3066, provided that: �
 
 #### Commission on Government Procurement
 
-Pub. L. 91–129, Nov. 26, 1969, 83 Stat. 269, as amended by Pub. L. 92–47, July 9, 1971, 85 Stat. 102, established the Commission on Government Procurement, which was to study and investigate statutes, rules, regulations, procedures, and practices affecting Government procurement and to submit a final report to Congress on or before Dec. 31, 1972, on the results of this study, including recommendations for changes designed to promote economy, efficiency, and effectiveness in the procurement of goods, services, and facilities by and for the executive branch of the Government. The Commission terminated 120 days after submission of the final report.
+Pub. L. 91–129, Nov. 26, 1969, 83 Stat. 269, as amended by Pub. L. 92–47, July 9, 1971, 85 Stat. 102, established the Commission on Government Procurement, which was to study and investigate statutes, rules, regulations, procedures, and practices affecting Government procurement and to submit a final report to Congress on or before Dec. 31, 1972, on the results of this study, including recommendations for changes designed to promote economy, efficiency, and effectiveness in the procurement of goods, services, and facilities by and forthe executive branch of the Government. The Commission terminated 120 days after submission of the final report.
 
 #### Ex. Ord. No. 13005. Empowerment Contracting
 
@@ -240,7 +310,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 (c) “Qualified large business” means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs asignificant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
+(d) “Qualified small business” means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
 
 (e) “Secretary” means the Secretary of Commerce.
 
@@ -256,7 +326,7 @@ Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and in order to (1) promote and ensure open competition on Federal and federally funded or assisted construction projects; (2) maintain Government neutrality towards Government contractors’ labor relations on Federal and federally funded or assisted construction projects; (3) reduce construction costs to the Federal Government and to the taxpayers; (4) expand job opportunities, especially for small and disadvantaged businesses; and (5) prevent discrimination against Government contractors or their employees based upon labor affiliation or lack thereof; thereby promoting the economical, nondiscriminatory, and efficient administration and completion of Federal and federally funded or assisted construction projects, it is hereby ordered that:
 
-Section 1. To the extent permitted by law, any executive agency awarding any construction contract after the date of this order, or obligating funds pursuant to such a contract, shall ensure that neither the awarding Government authority nor any construction manager acting on behalf of the Government shall, in its bid specifications, project agreements, or other controlling documents:
+Section 1. To the extent permitted by law, any executive agency awarding any construction contract afterthe date of this order, or obligating funds pursuant to such a contract, shall ensure that neither the awarding Government authority nor any construction manager acting on behalf of the Government shall, in its bid specifications, project agreements, or other controlling documents:
 
 (a) Require or prohibit bidders, offerors, contractors, or subcontractors to enter into or adhere to agreements with one or more labor organizations, on the same or other related construction project(s); or
 
@@ -290,7 +360,7 @@ Sec. 9. The Presidential Memorandum of June 5, 1997, entitled “Use of Project 
 
 Sec. 10. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing the Memorandum or Executive Order 12836 of February 1, 1993, as it relates to project agreements, to the extent consistent with law.
 
-Sec. 11. This order is intended only to improve the internal management of the executive branch and is notintended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

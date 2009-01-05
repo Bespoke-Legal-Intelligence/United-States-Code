@@ -6,7 +6,7 @@ The Commission shall determine that a State is not in compliance with the provis
 
 #### (b) Notification
 
-Upon making any determination under subsection (a) of this section, the Commission shall within 10 working days notify the Secretaries ofsuch determination. Such notification shall include the reasons for making the determination and an explicit list of actions that the affected State must take to comply with the coastal fishery management plan. The Commission shall provide a copy of the notification to the affected State.
+Upon making any determination under subsection (a) of this section, the Commission shall within 10 working days notify the Secretaries of such determination. Such notification shall include the reasons for making the determination and an explicit list of actions that the affected State must take to comply with the coastal fishery management plan. The Commission shall provide a copy of the notification to the affected State.
 
 #### (c) Withdrawal of noncompliance determination
 

@@ -4,7 +4,7 @@
 
 (b)(1) Transportation provided under this section may not be to a place further from the place of death than the decedent's last place of permanent residence, and any amount paid under this section may not exceed the cost of transportation from the place of death to the decedent's last place of permanent residence.
 
-(2) Transportation of the remains of a decedent may not be provided under this section ifsuch transportation is authorized by sections 1481 and 1482 of this title or by chapter 23 of title 38.
+(2) Transportation of the remains of a decedent may not be provided under this section if such transportation is authorized by sections 1481 and 1482 of this title or by chapter 23 of title 38.
 
 (c)
 

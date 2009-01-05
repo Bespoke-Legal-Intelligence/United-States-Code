@@ -66,7 +66,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §405(b)(1), (c), 80 Stat. 297.
 
-In subsection (a), the words “An employee who performs work . . . is entitled to pay . . . at the rate of his basic pay” are coextensive with and substituted for “Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work.” The words “section 5542(a) of this title” are substituted for “section 201 of this Act” to reflect the codification of that section in title 5, United States Code. The words “between midnight Saturday and midnight Sunday” are coextensive with and substituted for “within the periodcommencing at midnight Saturday and ending at midnight Sunday”.
+In subsection (a), the words “An employee who performs work . . . is entitled to pay . . . at the rate of his basic pay” are coextensive with and substituted for “Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work.” The words “section 5542(a) of this title” are substituted for “section 201 of this Act” to reflect the codification of that section in title 5, United States Code. The words “between midnight Saturday and midnight Sunday” are coextensive with and substituted for “within the period commencing at midnight Saturday and ending at midnight Sunday”.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted “5542(a)” for “5442
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, but amendment of subsec. (d) of this section by section 1(13)(B) of Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, but amendment of subsec. (d) of this section by section 1(13)(B) of Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
 #### Transfer of Functions
 

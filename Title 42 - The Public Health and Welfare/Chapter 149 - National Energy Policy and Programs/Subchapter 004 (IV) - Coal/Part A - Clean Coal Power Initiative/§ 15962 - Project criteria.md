@@ -140,7 +140,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (c) Financial criteria
 
-The Secretary shall not provide financial assistance under this part for a project unless the recipient documents to the satisfaction of the Secretary that—
+The Secretary shall not provide financial assistance under this part for a project unless therecipient documents to the satisfaction of the Secretary that—
 
 &emsp;(1) the recipient is financially responsible;
 
@@ -200,7 +200,7 @@ For a period not exceeding 5 years after completion of the operations phase of a
 
 #### (i) Applicability
 
-No technology, or level of emission reduction, solely by reason of the use of the technology, orthe achievement of the emission reduction, by 1 or more facilities receiving assistance under this Act, shall be considered to be—
+No technology, or level of emission reduction, solely by reason of the use of the technology, or the achievement of the emission reduction, by 1 or more facilities receiving assistance under this Act, shall be considered to be—
 
 &emsp;(1) adequately demonstrated for purposes of section 7411 of this title;
 

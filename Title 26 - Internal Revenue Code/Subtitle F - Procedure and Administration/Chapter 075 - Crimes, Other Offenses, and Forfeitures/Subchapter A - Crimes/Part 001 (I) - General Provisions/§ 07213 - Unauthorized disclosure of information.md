@@ -48,7 +48,7 @@ Any person who willfully divulges or makes known software (as defined in section
 
 #### Amendments
 
-2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion insubsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or under section 6104(c)” after “6103” in subsec. (a)(2) of section 7213, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7213 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2003—Subsec. (a)(2). Pub. L. 108–173, §811(c)(2)(C), substituted “(19), or (20)” for “or (19)”.
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) disseminate to prescription drug plans and MA–PD plans under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], other health plans, and the public the findings made under clauses (i) and (ii); and
 
-&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities tofacilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
+&emsp;&emsp;&emsp;(iv) work in voluntary collaboration with public and private sector entities to facilitate the development of new scientific knowledge regarding health care items and services (including prescription drugs).
 
 #### (B) Initial research
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(A) not mandate national standards of clinical practice or quality health care standards; and
 
-&emsp;&emsp;(B) include in any recommendations resulting from projects funded and published by the Director, a corresponding reference to the prohibition described in subparagraph (A).
+&emsp;&emsp;(B) include in any recommendations resulting from projects funded and publishedby the Director, a corresponding reference to the prohibition described in subparagraph (A).
 
 #### (2) Requirement for implementation
 

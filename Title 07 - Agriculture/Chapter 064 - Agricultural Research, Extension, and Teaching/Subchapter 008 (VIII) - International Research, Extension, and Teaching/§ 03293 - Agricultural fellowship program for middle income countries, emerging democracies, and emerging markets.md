@@ -58,7 +58,7 @@ There are authorized to be appropriated without fiscal year limitation such sums
 
 If the Secretary of Agriculture determines that it is advisable in furtherance of the purposes of the program established under this section, the Secretary may accept money, funds, property, and services of every kind by gift, devise, bequest, grant, or otherwise, and may, in any manner, dispose of all such holdings and use the receipts generated from such disposition as general program funds under this section. All funds so designated for the program established under this section shall remain available until expended.
 
-(Pub. L. 101–624, title XV, §1543, Nov. 28, 1990, 104 Stat. 3694; Pub. L. 102–237, title X, §1002, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 102–511, title VII, §705, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §277(b), Apr. 4, 1996, 110 Stat. 978.)
+(Pub. L. 101–624, title XV, §1543, Nov. 28, 1990, 104 Stat. 3694; Pub. L. 102–237, title X, §1002, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 102–511, title VII,§705, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §277(b), Apr. 4, 1996, 110 Stat. 978.)
 
 #### References in Text
 

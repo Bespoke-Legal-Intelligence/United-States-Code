@@ -16,7 +16,7 @@
 
 #### (3) Nonadoption of standard
 
-&emsp;Nothing in this part prohibits any State regulatory authority or nonregulated electricutility from making any determination that it is not appropriate to adopt any standard described in paragraph (1), pursuant to authority under otherwise applicable State law.
+&emsp;Nothing in this part prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any standard described in paragraph (1), pursuant to authority under otherwise applicable State law.
 
 #### (b) Standard for sales of excess power
 
@@ -182,7 +182,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electric utility shall state in writing the reasons for declining to implement the standard.
+&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which theauthority has ratemaking authority) or nonregulated electric utility declines to implement any standard established by this section, the authority or nonregulated electric utility shall state in writing the reasons for declining to implement the standard.
 
 #### (B) Availability to public
 
@@ -194,7 +194,7 @@ The options referred to in subsection (b) are as follows:
 
 #### (D) New petition
 
-&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
+&emsp;&emsp;If a State regulatory authority (with respect to each electric utility for which the authority has ratemaking authority) or nonregulated electric utility declines to implement the standard established by this section, the project sponsor may submit a new petition under this section with respect to the project at any time after the date that is 2 years after the date on which the State regulatory authority or nonregulated utility declined to implement the standard.
 
 (Pub. L. 94–163, title III, §374, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1628.)
 

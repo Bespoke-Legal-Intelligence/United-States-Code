@@ -18,6 +18,18 @@
 
 &emsp;(F) The structures containing the Jade Pagoda and Solomon's Yard Goods, 210 and 200 Merrimack Street.
 
+&emsp;(G) The properties shown on the map identified in section 410cc–11(a)(3) <sup>1</sup> of this title as follows:
+
+&emsp;&emsp;(i) 91 Pevey Street.
+
+&emsp;&emsp;(ii) The portion of 607 Middlesex Place.
+
+&emsp;&emsp;(iii) Eagle Court.
+
+&emsp;&emsp;(iv) The portion of 50 Payne Street.
+
+&emsp;&emsp;(v) 726 Broadway.
+
 #### (b) Other property; criteria for acquisition; manner of acquisition
 
 Until the date on which the Commission conducts its first meeting, the Secretary may acquire any property within the park or preservation district not designated in subsection (a)(2) of this section, or any interest therein, if such property—
@@ -32,7 +44,17 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 #### (c) Easements; manner of acquisition
 
-The Secretary may acquire easements within the park for the purpose of carrying out this subchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
+The Secretary may acquire easements within the park for the purpose of carrying out thissubchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
 
-(Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293.)
+(Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293; Pub. L. 110–229, title III, §312(2), May 8, 2008, 122 Stat. 769.)
+
+#### References in Text
+
+Section 410cc–11(a)(3) of this title, referred to in subsec. (a)(2)(G), was in the original “subsection (101)(a)(3)” and was translated as meaning section 101(a)(3) of Pub. L. 95–290, which is classified to section 410cc–11(a)(3) of this title, to reflect the probable intent of Congress.
+
+#### Amendments
+
+2008—Subsec. (a)(2)(G). Pub. L. 110–229 added subpar. (G).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

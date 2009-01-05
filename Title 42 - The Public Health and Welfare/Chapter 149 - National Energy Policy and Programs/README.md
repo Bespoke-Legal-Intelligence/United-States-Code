@@ -306,6 +306,8 @@ I74subpart 1—hybrid vehicles
 | [16135\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016135%20-%20Outreach%20and%20incentives.md) | Outreach and incentives. |
 | [16136\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016136%20-%20Effect%20of%20part.md) | Effect of part. |
 | [16137\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016137%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [16138\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016138%20-%20EPA%20authority%20to%20accept%20diesel%20emissions%20reduction%20Supplemental%20Environmental%20Projects.md) | EPA authority to accept diesel emissions reduction Supplemental Environmental Projects. |
+| [16139\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20F%20-%20Diesel%20Emissions%20Reduction/%C2%A7%2016139%20-%20Settlement%20agreement%20provisions.md) | Settlement agreement provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -350,7 +352,7 @@ I74subpart 1—hybrid vehicles
 | [16194\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016194%20-%20Building%20standards.md) | Building standards. |
 | [16195\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016195%20-%20Secondary%20electric%20vehicle%20battery%20use%20program.md) | Secondary electric vehicle battery use program. |
 | [16196\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016196%20-%20Energy%20Efficiency%20Science%20Initiative.md) | Energy Efficiency Science Initiative. |
-| [16197\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016197%20-%20Advanced%20Energy%20Efficiency%20Technology%20Transfer%20Centers.md) | Advanced Energy Efficiency Technology Transfer Centers. |
+| [16197\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016197%20-%20Advanced%20Energy%20Technology%20Transfer%20Centers.md) | Advanced Energy Technology Transfer Centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -598,11 +600,11 @@ I74subpart 1—hybrid vehicles
 
 |  |  |
 | :--- | ---: |
-| 16511\. | Definitions. |
-| 16512\. | Terms and conditions. |
-| 16513\. | Eligible projects. |
-| 16514\. | Authorization of appropriations. |
-| 16515\. | Limitation on commitments to guarantee loans. |
+| [16511\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016511%20-%20Definitions.md) | Definitions. |
+| [16512\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016512%20-%20Terms%20and%20conditions.md) | Terms and conditions. |
+| [16513\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016513%20-%20Eligible%20projects.md) | Eligible projects. |
+| [16514\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016514%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [16515\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016515%20-%20Limitation%20on%20commitments%20to%20guarantee%20loans.md) | Limitation on commitments to guarantee loans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -610,10 +612,10 @@ I74subpart 1—hybrid vehicles
 
 |  |  |
 | :--- | ---: |
-| 16521\. | Report on energy integration with Latin America. |
-| 16522\. | Low-volume gas reservoir study. |
-| 16523\. | Alaska natural gas pipeline. |
-| 16524\. | Study on the benefits of economic dispatch. |
+| [16521\.](Subchapter%20016%20%28XVI%29%20-%20Studies/%C2%A7%2016521%20-%20Report%20on%20energy%20integration%20with%20Latin%20America.md) | Report on energy integration with Latin America. |
+| [16522\.](Subchapter%20016%20%28XVI%29%20-%20Studies/%C2%A7%2016522%20-%20Low-volume%20gas%20reservoir%20study.md) | Low-volume gas reservoir study. |
+| [16523\.](Subchapter%20016%20%28XVI%29%20-%20Studies/%C2%A7%2016523%20-%20Alaska%20natural%20gas%20pipeline.md) | Alaska natural gas pipeline. |
+| [16524\.](Subchapter%20016%20%28XVI%29%20-%20Studies/%C2%A7%2016524%20-%20Study%20on%20the%20benefits%20of%20economic%20dispatch.md) | Study on the benefits of economic dispatch. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -621,14 +623,14 @@ I74subpart 1—hybrid vehicles
 
 |  |  |
 | :--- | ---: |
-| 16531\. | Definitions. |
-| 16532\. | Nuclear science talent expansion program for institutions of higher education. |
-| 16533\. | Hydrocarbon systems science talent expansion program for institutions of higher education. |
-| 16534\. | Department of Energy early career awards for science, engineering, and mathematics researchers. |
-| 16535\. | Discovery science and engineering innovation institutes. |
-| 16536\. | Protecting America's Competitive Edge (PACE) graduate fellowship program. |
-| 16537\. | Distinguished scientist program. |
-| 16538\. | Advanced Research Projects Agency—Energy. |
+| [16531\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016531%20-%20Definitions.md) | Definitions. |
+| [16532\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016532%20-%20Nuclear%20science%20talent%20expansion%20program%20for%20institutions%20of%20higher%20education.md) | Nuclear science talent expansion program for institutions of higher education. |
+| [16533\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016533%20-%20Hydrocarbon%20systems%20science%20talent%20expansion%20program%20for%20institutions%20of%20higher%20education.md) | Hydrocarbon systems science talent expansion program for institutions of higher education. |
+| [16534\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016534%20-%20Department%20of%20Energy%20early%20career%20awards%20for%20science%2C%20engineering%2C%20and%20mathematics%20researchers.md) | Department of Energy early career awards for science, engineering, and mathematics researchers. |
+| [16535\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016535%20-%20Discovery%20science%20and%20engineering%20innovation%20institutes.md) | Discovery science and engineering innovation institutes. |
+| [16536\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016536%20-%20Protecting%20America%27s%20Competitive%20Edge%20%28PACE%29%20graduate%20fellowship%20program.md) | Protecting America's Competitive Edge (PACE) graduate fellowship program. |
+| [16537\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016537%20-%20Distinguished%20scientist%20program.md) | Distinguished scientist program. |
+| [16538\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016538%20-%20Advanced%20Research%20Projects%20Agency%E2%80%94Energy.md) | Advanced Research Projects Agency—Energy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -652,3 +654,6 @@ I74subpart 1—hybrid vehicles
 - [Subchapter 012 (XII) - Electricity](Subchapter%20012%20%28XII%29%20-%20Electricity/README.md)
 - [Subchapter 013 (XIII) - Miscellaneous](Subchapter%20013%20%28XIII%29%20-%20Miscellaneous/README.md)
 - [Subchapter 014 (XIV) - Ethanol and Motor Fuels](Subchapter%20014%20%28XIV%29%20-%20Ethanol%20and%20Motor%20Fuels/README.md)
+- [Subchapter 015 (XV) - Incentives for Innovative Technologies](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/README.md)
+- [Subchapter 016 (XVI) - Studies](Subchapter%20016%20%28XVI%29%20-%20Studies/README.md)
+- [Subchapter 017 (XVII) - Protecting America's Competitive Edge Through Energy](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/README.md)

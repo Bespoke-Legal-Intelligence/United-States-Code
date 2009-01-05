@@ -16,7 +16,7 @@
 
 &emsp;(2) prescribe regulations on collecting by administrative offset consistent with the regulations referred to in paragraph (1).
 
-(c)(1)(A) Except as otherwise provided in this subsection, a disbursing official of the Department of the Treasury, the Department of Defense, the United States Postal Service, or any other government corporation, or any disbursing official of the United States designated by the Secretary of the Treasury, shall offset at least annually the amount of a payment which a payment certifying agency has certified to the disbursing official for disbursement, by an amount equal to the amount of a claim which a creditor agency has certified to the Secretary of the Treasury pursuant to this subsection.
+(c)(1)(A) Except as otherwise provided in this subsection, a disbursing official of the Department of the Treasury, the Department of Defense, the United States Postal Service, the Department of Health and Human Services, or any other government corporation, or any disbursing official of the United States designated by the Secretary of the Treasury, shall offset at least annually the amount of a payment which a payment certifying agency has certified to the disbursing official for disbursement, by an amount equal to the amount of a claim which a creditor agency has certified to the Secretary of the Treasury pursuant to this subsection.
 
 (B) An agency that designates disbursing officials pursuant to section 3321(c) of this title is not required to certify claims arising out of its operations to the Secretary of the Treasury before such agency's disbursing officials offset such claims.
 
@@ -50,9 +50,11 @@
 
 (C) The provisions of sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Social Security Act shall not apply to any administrative offset executed pursuant to this section against benefits authorized by title II, VIII, or title XVI of the Social Security Act, respectively.
 
+(D) This section shall apply to payments made after the date which is 90 days after the enactment of this subparagraph (or such earlier date as designated by the Secretary of Health and Human Services) with respect to claims or debts, and to amounts payable, under title XVIII of the Social Security Act.
+
 (4) The Secretary of the Treasury may charge a fee sufficient to cover the full cost of implementing this subsection. The fee may be collected either by the retention of a portion of amounts collected pursuant to this subsection, or by billing the agency referring or transferring a claim for those amounts. Fees charged to the agencies shall be based on actual administrative offsets completed. Amounts received by the United States as fees under this subsection shall be deposited into the account of the Department of the Treasury under section 3711(g)(7) of this title, and shall be collected and accounted for in accordance with the provisions of that section.
 
-(5) The Secretary of the Treasury in consultation with the Commissioner of Social Securityand the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
+(5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
 (6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
@@ -70,11 +72,9 @@
 
 (d) Nothing in this section is intended to prohibit the use of any other administrative offset authority existing under statute or common law.
 
-(e) This section does not apply—
+(e)(1) Notwithstanding any other provision of law, regulation, or administrative limitation, no limitation on the period within which an offset may be initiated or taken pursuant to this section shall be effective.
 
-&emsp;(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
-
-&emsp;(2) when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.
+(2) This section does not apply when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.
 
 (f) The Secretary may waive the requirements of sections 552a(<i>o</i>) and (p) of title 5 for administrative offset or claims collection upon written certification by the head of a State or an executive, judicial, or legislative agency seeking to collect the claim that the requirements of subsection (a) of this section have been met.
 
@@ -100,7 +100,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590.)
 
 Historical and Revision Notes
 
@@ -142,13 +142,29 @@ In subsection (c)(2), the word “either” is omitted as surplus.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, and XVI of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§401 et seq.), VIII (§1001 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
+The enactment of this subparagraph, referred to in subsec. (c)(3)(D), refers to the date of enactment of Pub. L. 110–275, which was approved July 15, 2008.
+
 The Internal Revenue Code of 1986, referred to in subsec. (c)(8), is classified to Title 26, Internal Revenue Code.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(1)(A). Pub. L. 110–275, §189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
+
+Subsec. (c)(3)(D). Pub. L. 110–275, §189(b)(2), added subpar. (D).
+
+Subsec. (e). Pub. L. 110–246, §14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
+
+&emsp;“(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
+
+&emsp;“(2) when a statute explicitly prohibits using administrative offset or setoff to collect the claim or type of claim involved.”
 
 2004—Subsec. (b)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -176,6 +192,16 @@ Subsec. (e). Pub. L. 104–134, §31001(d)(2)(C), redesignated subsec. (c) as (e
 
 Subsecs. (f) to (h). Pub. L. 104–134, §31001(e), (f), added subsecs. (f) to (h).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §189(c), July 15, 2008, 122 Stat. 2591, provided that: “The amendments made by this section \[amending this section and section 1395kk of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[July 15, 2008\].”
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, §4(a), title XIV, §14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any debt outstanding on or after the date of the enactment of this Act \[June 18, 2008\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
 #### Offsets From Social Security Payments
 
 Section 31001(a)(2)(B) of Pub. L. 104–134 provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\].”
@@ -186,7 +212,7 @@ Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
 The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
-The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcingchild support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -202,7 +228,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (e) The head of each executive department and agency that is authorized by law to disburse payments shall promptly implement any rule, regulation, or procedure issued by the Secretary pursuant to this section and shall:
 
-(1) match, consistent with computer privacy matching laws, the payment certification records of such department or agency with records of persons delinquentin child support payments as directed by the Secretary; and
+(1) match, consistent with computer privacy matching laws, the payment certification records of such department or agency with records of persons delinquent in child support payments as directed by the Secretary; and
 
 (2) conduct administrative offsets to collect delinquent child support payments.
 

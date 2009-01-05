@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a Federal or State branch, the branch receives only such deposits as would be permitted for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; or
 
-&emsp;&emsp;(B) with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or abranch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—
+&emsp;&emsp;(B) with the approval of the Board and the relevant licensing authority (the Comptroller in the case of a Federal branch or the appropriate State supervisor in the case of a State branch), upgrade an agency, or a branch of the type referred to in subparagraph (A)(ii), located in a State outside the foreign bank's home State, into a Federal or State branch if—
 
 &emsp;&emsp;&emsp;(i) the establishment and operation of such branch is permitted by such State; and
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) was in operation in such State on the day before September 29, 1994; or
 
-&emsp;&emsp;&emsp;&emsp;(II) has been in operation in such State for a period of time that meets the State's minimum age requirement permitted under section 1831u(a)(5) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) has been in operation in such State for a period of time that meets theState's minimum age requirement permitted under section 1831u(a)(5) of this title.
 
 #### (8) Continuing requirement for meeting community credit needs after initial interstate entry by acquisition
 

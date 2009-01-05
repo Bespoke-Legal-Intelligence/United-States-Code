@@ -32,7 +32,7 @@ Authorized Commissary Merchandise Categories.—Merchandise sold in, at, or by c
 
 Inclusion of Other Merchandise Items.—(1) The Secretary of Defense may authorize the sale in, at, or by commissary stores of merchandise not covered by a category specified in subsection (b). The Secretary shall notify Congress of all merchandise authorized for sale pursuant to this paragraph, as well as the removal of any such authorization.
 
-(2) Notwithstanding paragraph (1), the Department of Defense military resale system shall continue to maintain the exclusive right to operate convenience stores, shopettes, and troop stores, including such stores established to support contingency operations.
+(2) Notwithstanding paragraph (1), the Department of Defense military resale system shallcontinue to maintain the exclusive right to operate convenience stores, shopettes, and troop stores, including such stores established to support contingency operations.
 
 (3)(A) A military exchange shall be the vendor for the sale of tobacco products in commissary stores and may be the vendor for such merchandise as may be authorized for sale in commissary stores under paragraph (1). Except as provided in subparagraph (B), subsections (d) and (e) shall not apply to the pricing of such an item when a military exchange serves as the vendor of the item. Commissary store and exchange prices shall be comparable for such an item.
 
@@ -78,9 +78,13 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (B) In subparagraph (A), the term “construction”, with respect to a facility, includes acquisition, conversion, expansion, installation, or other improvement of the facility.
 
-(3) The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the surcharges under subsection (d) for any use specified in paragraph (1) or (2), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in such paragraph.
+(3)(A) The Secretary of Defense may use the proceeds derived from surcharges imposed under subsection (d) in connection with sales of commissary merchandise through initiatives described in subparagraph (B) to offset the cost of such initiatives.
 
-(4) Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in paragraphs (1), (2), and (3):
+(B) Subparagraph (A) applies with respect to initiatives, utilizing temporary and mobile equipment, intended to provide members of reserve components, retired members, and other persons eligible for commissary benefits, but without reasonable access to commissary stores, improved access to commissary merchandise.
+
+(4) The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the surcharges under subsection (d)for any use specified in paragraph (1), (2), or (3), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in such paragraph.
+
+(5) Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in paragraphs (1), (2), and (3):
 
 &emsp;(A) Sale of recyclable materials.
 
@@ -92,7 +96,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 &emsp;(E) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, \[div. A\], title VI, §641, Oct. 14, 2008, 122 Stat. 4493.)
 
 #### Prior Provisions
 
@@ -100,7 +104,9 @@ A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
 
-2006—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375,§651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
+2008—Subsec. (h)(3) to (5). Pub. L. 110–417 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” in par. (4).
+
+2006—Pub. L. 109–364, §1071(g)(6), made technical correction to directory language of Pub. L. 108–375, §651(a)(5)(C). See 2004 Amendment notes for subsecs. (a) to (d) below.
 
 Subsec. (c)(3). Pub. L. 109–364, §661(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), subsections” for “Subsections”, and added subpar. (B).
 

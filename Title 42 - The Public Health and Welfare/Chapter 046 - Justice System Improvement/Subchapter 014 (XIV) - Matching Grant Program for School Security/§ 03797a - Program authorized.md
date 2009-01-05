@@ -6,7 +6,7 @@ The Director of the Office of Community Oriented Policing Services (in this sect
 
 #### (b) Uses of funds
 
-Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used toimprove security at schools and on school grounds in the jurisdiction of the grantee through one or more of the following:
+Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used to improve security at schools and on school grounds in the jurisdiction of the grantee through one or more of the following:
 
 &emsp;(1) Placement and use of metal detectors, locks, lighting, and other deterrent measures.
 

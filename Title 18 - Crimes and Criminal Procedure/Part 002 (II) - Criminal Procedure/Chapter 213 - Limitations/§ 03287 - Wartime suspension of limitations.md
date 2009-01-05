@@ -1,10 +1,10 @@
 ### §3287. Wartime suspension of limitations
 
-When the United States is at war the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until three years after the termination of hostilities as proclaimed by the President or by a concurrent resolution of Congress.
+When the United States is at war or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)), the running of any statute of limitations applicable to any offense (1) involving fraud or attempted fraud against the United States or any agency thereof in any manner, whether by conspiracy or not, or (2) committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States, or (3) committed in connection with the negotiation, procurement, award, performance, payment for, interim financing, cancelation, or other termination or settlement, of any contract, subcontract, or purchase order which is connected with or related to the prosecution of the war or directly connected with or related to the authorized use of the Armed Forces, or with any disposition of termination inventory by any war contractor or Government agency, shall be suspended until 5 years after the termination of hostilities as proclaimed by a Presidential proclamation, with notice to Congress, or by a concurrent resolution of Congress.
 
-Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section.
+Definitions of terms in section 103 of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term “war” includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
 
-(June 25, 1948, ch. 645, 62 Stat. 828.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545.)
 
 #### Historical and Revision Notes
 
@@ -21,4 +21,8 @@ The revised section is written in general terms as permanent legislation applica
 The last paragraph was added to obviate any possibility of doubt as to meaning of terms defined in section 103 of title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
+
+#### Amendments
+
+2008—Pub. L. 110–329 and Pub. L. 110–417 amended section identically, in first par., inserting “or Congress has enacted a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)),” after “is at war” and “or directly connected with or related to the authorized use of the Armed Forces” after “prosecution of the war” and substituting “5 years” for “three years” and “proclaimed by a Presidential proclamation, with notice to Congress,” for “proclaimed by the President”, and, in second par., inserting last sentence.
 

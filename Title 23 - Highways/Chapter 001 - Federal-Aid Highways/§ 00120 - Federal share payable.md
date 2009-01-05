@@ -280,7 +280,7 @@ Section 1044 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Eligibility.—A State may use as a credit toward the non-Federal matching share requirement for all programs under this Act \[see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation\] and title 23, United States Code, toll revenues that are generated and used by public, quasi-public and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce. Such public, quasi-public or private agencies shall have built, improved, or maintained such facilities without Federal funds.
+Eligibility.—A State may use as a credit toward the non-Federal matching share requirement for all programs under this Act \[see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation\] and title 23, United States Code, toll revenues that are generated and used by public, quasi-public and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the publicpurpose of interstate commerce. Such public, quasi-public or private agencies shall have built, improved, or maintained such facilities without Federal funds.
 
 “(b)
 
@@ -312,7 +312,7 @@ Qualifying Project Defined.—For purposes of this section, the term ‘qualifyi
 
 #### Incentive Program for Use of Coal Ash
 
-Section 117(f) of Pub. L. 100–17 provided that: “Notwithstanding sections 119, 120, and 144 of title 23, UnitedStates Code, in each of fiscal years 1987, 1988, 1989, 1990, and 1991, the percentage specified in such sections as the Federal share of the cost payable on account of any highway or bridge construction project in which materials produced from coal ash are used in significant amounts shall be increased by adding 5 percent to such percentage; except that in no case shall the Federal share payable on account of any project exceed 95 percent of the cost of such project as a result of increasing such Federal share under this subsection.”
+Section 117(f) of Pub. L. 100–17 provided that: “Notwithstanding sections 119, 120, and 144 of title 23, United States Code, in each of fiscal years 1987, 1988, 1989, 1990, and 1991, the percentage specified in such sections as the Federal share of the cost payable on account of any highway or bridge construction project in which materials produced from coal ash are used in significant amounts shall be increased by adding 5 percent to such percentage; except that in no case shall the Federal share payable on account of any project exceed 95 percent of the cost of such project as a result of increasing such Federal share under this subsection.”
 
 #### Obligations for Projects Resulting From Natural Disasters or Catastrophic Failures; Emergency Relief; Federal Share
 
@@ -346,7 +346,7 @@ Interim Reports.—The Secretary of the Treasury, in consultation with the Secre
 
 #### Highway Trust Fund
 
-Section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
+Section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, as amended by Pub. L. 86–342, title II, §202, Sept. 21, 1959, 73 Stat. 615; Pub. L. 86–346, title I, §104(5), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–440, §1(c), Apr. 22, 1960, 74 Stat. 81; Pub. L. 87–61, title II, §207, June 29, 1961, 75 Stat. 128; Pub. L. 88–578, title II, §202, Sept. 3, 1964, 78 Stat. 904; Pub. L. 89–44, title II, §210, title VIII, §809(e), June 21, 1965, 79 Stat. 144, 168; Pub. L. 91–258, title II, §§207(e), 208(g), May 21, 1970, 84 Stat. 249, 252; Pub. L. 91–605, title III, §301, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §18, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–280, title III, §301, May 5, 1976, 90 Stat. 456; Pub. L.95–599, title V, §§503(a), 504(a), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 95–618, title II, §233(b)(2)(E), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 96–451, title II, §203(a), Oct. 14, 1980, 94 Stat. 1988; Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, provided that:
 
 “(a) \[Repealed. Pub. L. 97–424, title V, §531(b), Jan. 6, 1983, 96 Stat. 2191. Subsec. (a) provided for the creation of a Highway Trust Fund.\]
 

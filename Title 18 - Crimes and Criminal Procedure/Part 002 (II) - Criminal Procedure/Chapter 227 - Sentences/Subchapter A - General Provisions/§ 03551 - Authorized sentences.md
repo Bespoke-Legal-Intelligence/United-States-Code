@@ -94,6 +94,8 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 \[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201 of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed.”\]
 
+\[Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘21 years’ or ‘21-year period’ shall be deemed a reference to ‘24 years’ or ‘24-year period’, respectively.”\]
+
 \[Pub. L. 109–76, §2, Sept. 29, 2005, 119 Stat. 2035, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘eighteen years’ or ‘eighteen-year period’ shall be deemed a reference to ‘21 years’ or ‘21-year period’, respectively.”\]
 
 \[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “fifteen years” or “fifteen-year period” are deemed to be references to “eighteen years” or “eighteen-year period”, respectively, see section 11017(a) of Pub. L. 107–273, set out as a note under section 4202 of this title.\]
@@ -101,6 +103,10 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 \[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “ten years” or “ten-year period” are deemed to be references to “fifteen years” or “fifteen-year period”, respectively, see section 2(a) of Pub. L. 104–232, set out as a note under section 4201 of this title.\]
 
 \[Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”\]
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–312, §1, Aug. 12, 2008, 122 Stat. 3013, provided that: “This Act \[enacting provisions set out as a note under this section\] may be cited as the ‘United States Parole Commission Extension Act of 2008’.”
 
 #### Short Title of 2005 Amendment
 

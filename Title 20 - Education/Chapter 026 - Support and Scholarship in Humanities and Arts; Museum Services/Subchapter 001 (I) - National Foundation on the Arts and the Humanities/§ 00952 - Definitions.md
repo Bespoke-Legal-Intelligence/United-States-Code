@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(a) The term “humanities” includes, but is not limited to, the study and interpretation of the following: language, both modern and classical; linguistics; literature; history; jurisprudence; philosophy; archeology; comparative religion; ethics; the history, criticism, and theory of the arts; those aspects of the social sciences which have humanistic content and employ humanistic methods; and the study and application of the humanities to the human environment with particular attention to reflecting our diverse heritage, traditions, and history and to the relevance of the humanities to the current conditions of national life.
+(a) The term “humanities” includes, but is not limited to, the study and interpretation of the following: language, both modern and classical;linguistics; literature; history; jurisprudence; philosophy; archeology; comparative religion; ethics; the history, criticism, and theory of the arts; those aspects of the social sciences which have humanistic content and employ humanistic methods; and the study and application of the humanities to the human environment with particular attention to reflecting our diverse heritage, traditions, and history and to the relevance of the humanities to the current conditions of national life.
 
 (b) The term “the arts” includes, but is not limited to, music (instrumental and vocal), dance, drama, folk art, creative writing, architecture and allied fields, painting, sculpture, photography, graphic and craft arts, industrial design, costume and fashion design, motion pictures, television, radio, film, video, tape and sound recording, the arts related to the presentation, performance, execution, and exhibition of such major art forms, all those traditional arts practiced by the diverse peoples of this country.<sup>1</sup> and the study and application of the arts to the human environment.
 
@@ -28,7 +28,7 @@ As used in this subchapter—
 
 &emsp;(2) has the potential to develop artistically and institutionally to broaden public access to the arts in rural and innercity areas and other areas that are underserved artistically.
 
-(j) The term “determined to be obscene” means determined, in a final judgment of acourt of record and of competent jurisdiction in the United States, to be obscene.
+(j) The term “determined to be obscene” means determined, in a final judgment of a court of record and of competent jurisdiction in the United States, to be obscene.
 
 (k) The term “final judgment” means a judgment that is either—
 

@@ -36,9 +36,9 @@ Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.
 
 &emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway revenue vehicle- or route-miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not bereduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary of Transportation that energy or operating efficiencies would be achieved, reduces revenue vehicle-miles but provides the same frequency of revenue service to the same number of riders.
 
-(c) <sup>1</sup>
+(c)
 
 Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
 
@@ -70,7 +70,7 @@ Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportio
 
 Date of Apportionment.—The Secretary of Transportation shall—
 
-&emsp;(1) apportion amounts appropriated under subsections (a) and (h)(2) of section 5338 <sup>2</sup> of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
+&emsp;(1) apportion amounts appropriated under subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338 of this title to carry out section 5307 ofthis title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
 
 &emsp;(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
 
@@ -150,7 +150,7 @@ Apportionment formula.—The amount to be apportioned under subsection (i)(1) sh
 
 Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
-(c) <sup>3</sup>
+(k)
 
 Study on Incentives in Formula Programs.—
 
@@ -180,7 +180,7 @@ Contents.—The report submitted under subparagraph (A) shall include—
 
 &emsp;&emsp;&emsp;(v) the likely effects of the incentive funding system.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(<i>l</i>), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -334,17 +334,25 @@ This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by sect
 
 #### References in Text
 
-Section 5338 of this title, referred to in subsec. (d)(1), was amended generally by Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629, and, as so amended, no longer contains a subsec. (h).
-
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (c)(2)(A), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (k)(2)(A), isthe date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–59, §3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, was executed to reflect the probable intent of Congress by inserting “to carry out section 5307” after “Of the amount apportioned under subsection (i)(2)” which appears in text pursuant to amendment by Pub. L. 109–59, §3034(a)(4). See below.
+2008—Subsec. (a). Pub. L. 110–244, §201(<i>l</i>)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
+
+Subsec. (a)(2). Pub. L. 110–244, §201(<i>l</i>)(2), amended Pub. L. 109–59, §3034(d)(2). See 2005 Amendment note below.
+
+Subsec. (c). Pub. L. 110–244, §201(<i>l</i>)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+
+Subsec. (d)(1). Pub. L. 110–244, §201(<i>l</i>)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
+
+Subsec. (k). Pub. L. 110–244, §201(<i>l</i>)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+
+2005—Subsec. (a). Pub. L. 109–59, §3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by Pub. L. 109–59, §3034(a)(4). See below.
 
 Pub. L. 109–59, §3034(a)(4), substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under section 5338(a) of this title” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–59, §3034(d)(2), which directed amendment of “paragraph (2)” of this section by inserting before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”, was executed by making the insertion in par. (2) of subsec. (a), to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 109–59, §3034(d)(2), as amended by Pub. L. 110–244, §201(<i>l</i>)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
 
 Subsec. (b)(1). Pub. L. 109–59, §3034(d)(3), inserted “and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations” before period at end.
 
@@ -382,6 +390,10 @@ Subsec. (e)(1). Pub. L. 105–178, §3029(b)(11), substituted “subsections (a)
 
 Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
 
+#### Effective Date of 2008 Amendment
+
+Amendment by section 201(<i>l</i>)(2) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
@@ -397,10 +409,4 @@ Study.—The Secretary \[of Transportation\] shall conduct a study to determine 
 “(b)
 
 Report.—Not later than December 31, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the results of the study conducted under this section, together with any proposed changes to the method for apportioning funds to urbanized areas with a population over 50,000.”
-
-<i><sup>1</sup></i><i> Another subsec. (c) appears at end of section.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(k)”.</i>
 

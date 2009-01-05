@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a foreign corporation engaged in a trade or business in the United States (or having gross income treated as effectively connected with the conduct of a trade or business in the United States), for purposes of this subtitle—
+&emsp;In the case of a foreign corporation engaged in a trade or business in the United States (or having gross income treated as effectivelyconnected with the conduct of a trade or business in the United States), for purposes of this subtitle—
 
 &emsp;&emsp;(A) any interest paid by such trade or business in the United States shall be treated as if it were paid by a domestic corporation, and
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
+(Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ In general.—If a foreign corporation is not exempt for any taxable year from t
 
 Limitation on certain treaty benefits.—No foreign corporation which is not a qualified resident of a foreign country shall be entitled to claim benefits under any income tax treaty between the United States and such foreign country with respect to dividends—
 
-&emsp;“(i) which are paid by such foreign corporation and with respect to which such foreign corporation is otherwise required to deduct and withhold tax under section 1441 or 1442, or
+&emsp;“(i) which are paid by such foreign corporation and with respect to which such foreign corporation isotherwise required to deduct and withhold tax under section 1441 or 1442, or
 
 &emsp;“(ii) which are received by such foreign corporation and are described in section 861(a)(2)(B).”
 
@@ -286,5 +286,5 @@ Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, tit
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

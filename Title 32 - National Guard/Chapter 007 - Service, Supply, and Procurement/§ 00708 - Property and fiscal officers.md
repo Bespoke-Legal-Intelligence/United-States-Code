@@ -78,7 +78,7 @@ In subsection (e), the words “The Secretaries shall prescribe” are substitut
 
 In subsection (f), the words “rules and” and “the provisions of” are omitted as surplusage.
 
-In subsection (g), the words “Under such regulations as may be prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “an officer” are substituted for the words “other officers”, since, under revised subsection (a), the property and fiscal officer is not required to be an officer of the National Guard. The words “accountable for public moneys” and “as agent” are omitted as surplusage.
+In subsection (g), the words “Under such regulations as may be prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authorityto issue regulations appropriate to exercising his statutory functions. The words “an officer” are substituted for the words “other officers”, since, under revised subsection (a), the property and fiscal officer is not required to be an officer of the National Guard. The words “accountable for public moneys” and “as agent” are omitted as surplusage.
 
 #### Amendments
 

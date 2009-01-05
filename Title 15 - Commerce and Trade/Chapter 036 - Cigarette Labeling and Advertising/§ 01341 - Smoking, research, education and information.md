@@ -18,7 +18,7 @@ The Secretary of Health and Human Services (hereinafter in this section referred
 
 #### (b) Interagency Committee on Smoking and Health; composition; chairman; compensation; staffing and other assistance
 
-(1) To carry out the activities described in paragraphs (2) and (3) of subsection (a) of thissection there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
+(1) To carry out the activities described in paragraphs (2) and (3) of subsection (a) of this section there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
 
 &emsp;(A) members appointed by the Secretary from appropriate institutes and agencies of the Department, which may include the National Cancer Institute, the National Heart, Lung, and Blood Institute, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Institute on Drug Abuse, the Health Resources and Services Administration, and the Centers for Disease Control and Prevention;
 

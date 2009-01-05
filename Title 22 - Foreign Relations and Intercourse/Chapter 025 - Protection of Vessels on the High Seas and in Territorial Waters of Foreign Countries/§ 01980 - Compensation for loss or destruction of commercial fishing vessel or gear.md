@@ -54,7 +54,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 &emsp;(B) 25 percent of any resulting economic loss.
 
-> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vesselowner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
+> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
 
 (3) The initial determination made by the Secretary under paragraph (1) with respect to any application shall—
 
@@ -88,7 +88,7 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 > Sums may be expended from the fund only to such extent and in such amounts as are provided in advance in appropriation Acts. Sums in the fund which are not currently needed for the purpose of paying such awards shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(3) Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices <sup>2</sup> or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices <sup>2</sup> or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices <sup>2</sup> or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sell any such notices <sup>2</sup> or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+(3) Whenever the amount in the fund is not sufficient to pay compensation under this section, the Secretary may issue, in an amount not to exceed $5,000,000, notes or other obligations to the Secretary of the Treasury, in such forms and denominations, bearing such maturities, and subject to such terms and conditions as the Secretary of the Treasury may prescribe. Such notices <sup>2</sup> or other obligations shall bear interest at a rate to be determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notices <sup>2</sup> or other obligations. Moneys obtained by the Secretary under this paragraph shall be deposited in the fund and redemptions of any such notices <sup>2</sup> or other obligations shall be made from the fund. The Secretary of the Treasury shall purchase any such notes or other obligations, and for such purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31. The Secretary of the Treasury may sellany such notices <sup>2</sup> or other obligations at such times and prices and upon such terms and conditions as he shall determine. All purchases, redemptions, and sales of such notes or other obligations by the Secretary of the Treasury shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (g) Penalty for false or misleading statements
 
@@ -98,7 +98,7 @@ Any person who willfully makes any false or misleading statement or representati
 
 #### References in Text
 
-Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to insubsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
@@ -160,7 +160,7 @@ Section 240(a), (b)(1) of Pub. L. 96–561 provided that:
 
 In General.—If—
 
-&emsp;“(1) any owner or operator of a fishing vessel who suffered, after September 17, 1978, and before the date of the enactment of this title \[Dec. 22, 1980\], damage to, or loss or destruction of, such vessel or fishing gear used with such vessel, but did not apply for compensation therefor under section 10 of the Fishermen's Protective Act of 1967 (22 U.S.C. 1980) within the 60-day period prescribed in subsection (c)(1) of such section; or
+&emsp;“(1) any owner or operator of a fishing vessel who suffered, after September 17, 1978, and before the dateof the enactment of this title \[Dec. 22, 1980\], damage to, or loss or destruction of, such vessel or fishing gear used with such vessel, but did not apply for compensation therefor under section 10 of the Fishermen's Protective Act of 1967 (22 U.S.C. 1980) within the 60-day period prescribed in subsection (c)(1) of such section; or
 
 &emsp;“(2) any commercial fisherman who suffered, after September 17, 1978, and before the date of the enactment of this title, damages compensable under title IV of the Outer Continental Shelf Lands Act of 1978 (43 U.S.C. 1841 et seq.), but who did not timely file a claim therefor within the 60-day period prescribed in section 405(a) of such Act \[43 U.S.C. 1845(a)\];
 
@@ -172,7 +172,7 @@ Special Provisions.—(1) Notwithstanding any other provision of law—
 
 &emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43 U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
 
-&emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union ofSoviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
+&emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union of Soviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
 
 #### Timely Applications for Compensation
 

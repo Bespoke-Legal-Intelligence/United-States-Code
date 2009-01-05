@@ -42,7 +42,7 @@ For purposes of this section—
 
 Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
-&emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in a licensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
+&emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in alicensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
 
 &emsp;&emsp;(B) there is no significant element of personal pleasure, recreation, or vacation in the travel away from home.
 
@@ -158,9 +158,9 @@ Any expense allowed as a credit under section 21 shall not be treated as an expe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177.)
 
-#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2008, see section 3.21 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References In Text
 
@@ -332,7 +332,7 @@ Amendment by section 504(c)(1) of Pub. L. 94–455 applicable to taxable years b
 
 #### Effective Date of 1965 Amendment
 
-Section 106(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shall apply to taxable years beginning after December 31, 1966.”
+Section 106(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 72, 79, 401, and 405 of this title\] shallapply to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1964 Amendment
 

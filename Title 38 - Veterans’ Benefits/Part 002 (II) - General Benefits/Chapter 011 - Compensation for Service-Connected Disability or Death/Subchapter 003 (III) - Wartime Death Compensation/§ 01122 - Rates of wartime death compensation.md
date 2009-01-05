@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2006—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled as to” for “helpless or blind, or so nearly helpless or blind as to”.
+2006—Subsec. (b)(2). Pub. L. 109–233 substituted “blind, or so nearly blind or significantly disabled asto” for “helpless or blind, or so nearly helpless or blind as to”.
 
 1991—Pub. L. 102–83 renumbered section 322 of this title as this section.
 

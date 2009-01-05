@@ -1,6 +1,6 @@
 ### §55303. Motor vehicles owned by United States Government personnel
 
-Notwithstanding any other law, privately-owned American shipping services may be usedto transport motor vehicles owned by personnel of the United States Government whenever transportation of those vehicles at Government expense is otherwise authorized by law.
+Notwithstanding any other law, privately-owned American shipping services may be used to transport motor vehicles owned by personnel of the United States Government whenever transportation of those vehicles at Government expense is otherwise authorized by law.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642.)
 

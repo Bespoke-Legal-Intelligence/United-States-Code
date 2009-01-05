@@ -18,7 +18,8 @@
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
-| [2567\.](%C2%A7%2002567%20-%20Supplies%2C%20services%2C%20and%20equipment%20provision%20in%20major%20public%20emergencies.md) | Supplies, services, and equipment: provision in major public emergencies <sup>1</sup> |
+| \[2567. | Repealed.\] |
+| [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +29,8 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
+2008—Pub. L. 110–181, div. A, title III, §376(b), title X, §§1063(a)(12), 1068(b)(2), Jan. 28, 2008, 122 Stat. 84, 322, 326, inserted period at end of item 2567 and then struck out item 2567 “Supplies, services, and equipment: provision in major public emergencies” and added item 2568.
+
 2006—Pub. L. 109–364, div. A, title X, §1076(b)(2), Oct. 17, 2006, 120 Stat. 2406, added item 2567.
 
 2002—Pub. L. 107–314, div. A, title X, §1066(b), Dec. 2, 2002, 116 Stat. 2656, added item 2566.
@@ -36,7 +39,7 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
 
-1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
+1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory languageof Pub. L. 104–201, §367(b). See 1996 Amendment note below.
 
 1996—Pub. L. 104–201, div. A, title III, §367(b), Sept. 23, 1996, 110 Stat. 2497, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, added item 2554.
 
@@ -44,7 +47,7 @@ Pub. L. 104–201, div. A, title III, §366(b), Sept. 23, 1996, 110 Stat. 2496, 
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I “Issue to the Armed Forces” and II “Issue of Serviceable Material Other Than to the Armed Forces” and struck out headings for subchapters I “ISSUE TO THE ARMED FORCES” and II “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES”.
 
-1994—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struckout item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
+1994—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 “Reserve components: supplies, services, and facilities” and added item 2553.
 
 1992—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
@@ -63,8 +66,6 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 1972—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 1958—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -87,4 +88,5 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
-- [&sect; 02567 - Supplies, services, and equipment provision in major public emergencies](%C2%A7%2002567%20-%20Supplies%2C%20services%2C%20and%20equipment%20provision%20in%20major%20public%20emergencies.md)
+- [&sect; 02567 - Repealed. Pub. L. 110&#8211;181, div. A, title X, &sect;1068(b)(1), Jan. 28, 2008, 122 Stat. 326](%C2%A7%2002567%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71068%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20326.md)
+- [&sect; 02568 - Retention of combat uniforms by members deployed in support of contingency operations](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md)

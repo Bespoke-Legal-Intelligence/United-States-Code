@@ -1,6 +1,6 @@
 ### §30918. Reports
 
-The Secretary of each department of the United States Government, and the board of trustees of each federally-owned corporation, shall report to Congress at each session thereof all arbitration awards and settlements agreed to under this chapter since the previous session, for which the time to appeal has expired or been waived.
+The Secretary of each department of the United States Government, and the board of trustees of each federally-owned corporation, shall report to Congress at each session thereofall arbitration awards and settlements agreed to under this chapter since the previous session, for which the time to appeal has expired or been waived.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1521.)
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(bb) is qualified as an institution of higher education pursuant to section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\], including—
 
-&emsp;&emsp;&emsp;&emsp;(AA) an institution receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.); and
+&emsp;&emsp;&emsp;&emsp;(AA) an institution receiving assistance under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.); and
 
 &emsp;&emsp;&emsp;&emsp;(BB) a tribally controlled postsecondary career and technical institution; or
 
@@ -162,13 +162,13 @@ Each tech prep program may—
 
 &emsp;For purposes of subparagraphs (B) and (C) of paragraph (1), the numbers and percentages shall be determined separately with respect to each clause of each such subparagraph.
 
-(Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738.)
+(Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (a)(1)(B)(i)(I)(bb)(AA), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (a)(1)(B)(i)(I)(bb)(AA), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat.1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -179,4 +179,8 @@ Another prior section 2373, Pub. L. 88–210, title III, §323, as added Pub. L.
 A prior section 203 of Pub. L. 88–210 was classified to section 2372 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of this title, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+
+#### Amendments
+
+2008—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

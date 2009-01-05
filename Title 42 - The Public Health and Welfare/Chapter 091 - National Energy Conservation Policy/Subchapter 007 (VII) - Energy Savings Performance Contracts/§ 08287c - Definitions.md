@@ -20,13 +20,13 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(D) the increased efficient use of existing water sources in interior or exterior applications.
 
-&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
+&emsp;(3) The terms “energy savings contract” and “energy savings performance contract” meana contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
 &emsp;(4) The term “energy or water conservation measure” means—
 
 &emsp;&emsp;(A) an energy conservation measure, as defined in section 8259 of this title; or
 
-&emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, orother related activities, not at a Federal hydroelectric facility.
+&emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, or other related activities, not at a Federal hydroelectric facility.
 
 (Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 110–140, title V, §515, Dec. 19, 2007, 121 Stat. 1659.)
 

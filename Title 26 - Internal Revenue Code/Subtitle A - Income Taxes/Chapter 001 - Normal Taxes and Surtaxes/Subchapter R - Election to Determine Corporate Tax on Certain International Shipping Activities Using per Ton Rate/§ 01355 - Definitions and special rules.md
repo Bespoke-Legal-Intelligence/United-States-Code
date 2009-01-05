@@ -150,7 +150,7 @@ In applying this subchapter to a partner in a partnership—
 
 #### (1) In general
 
-&emsp;If the electing corporation elects (at such time and in such manner as the Secretary may require) to apply this subsection for any taxable year to any qualifying vessel which is used in qualified zone domestic trade during the taxable year—
+&emsp;If the electing corporation elects (at such time and in such manner as the Secretary mayrequire) to apply this subsection for any taxable year to any qualifying vessel which is used in qualified zone domestic trade during the taxable year—
 
 &emsp;&emsp;(A) solely for purposes of subsection (a)(4), such use shall be treated as use in United States foreign trade (and not as use in United States domestic trade), and
 
@@ -240,7 +240,7 @@ Pub. L. 109–222, title II, §205(b), May 17, 2006, 120 Stat. 350, provided tha
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs CreationAct of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

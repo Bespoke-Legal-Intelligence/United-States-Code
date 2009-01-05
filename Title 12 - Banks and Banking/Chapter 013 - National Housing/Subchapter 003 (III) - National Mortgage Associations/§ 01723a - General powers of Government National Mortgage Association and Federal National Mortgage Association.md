@@ -18,13 +18,15 @@ Except as may be otherwise provided in this subchapter, in chapter 91 of title 3
 
 (1) Subject to the provisions of section 1723(a) of this title, the Secretary of Housing and Urban Development shall have power to select and appoint or employ such officers, attorneys, employees, and agents of the Association, to vest them with such powers and duties, and to fix and to cause the Association to pay such compensation to them for their services, as he may determine, subject to the civil service and classification laws. With the consent of any Government corporation or Federal Reserve bank, or of any board, commission, independent establishment, or executive department of the Government, the Association may avail itself on a reimbursable basis of the use of information, services, facilities, officers, and employees thereof, including any field service thereof, in carrying out the provisions of the subchapter.
 
-(2) The board of directors of the corporation shall have the power to select and appoint or employ such officers, attorneys, employees, and agents, to vest them with such powers and duties, and to fix and to cause the corporation to pay such compensation to them for their services, as the board of directors determines reasonable and comparable with compensation for employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in paragraph (3)(C)) of the corporation shall be based on the performance of the corporation; and any such action shall be without regard to the Federal civil service and classification laws. Appointments, promotions, and separations so made shall be based on merit and efficiency, and no political tests or qualifications shall be permitted or given consideration. Each officer and employee of the corporation who is employed by the corporation prior to January 31, 1972, and who on the day previous to the beginning of such employment will have been subject to the civil service retirement law (subch. III of ch. 83 of title 5) shall, so long as the employment of such officer or employee by the corporation continues without a break in continuity of service, continue to be subject to such law; and for the purpose of such law the employment of such officer or employee by the corporation without abreak in continuity of service shall be deemed to be employment by the Government of the United States. The corporation shall contribute to the Civil Service Retirement and Disability Fund a sum as provided by section 8334(a) of title 5, except that such sum shall be determined by applying to the total basic pay (as defined in section 8331(3) of title 5 and except as hereinafter provided) paid to the employees of the corporation who are covered by the civil service retirement law, the per centum rate determined annually by the Director of the Office of Personnel Management to be the excess of the total normal cost per centum rate of the civil service retirement system over the employee deduction rate specified in section 8334(a) of title 5. The corporation shall also pay into the Civil Service Retirement and Disability Fund such portion of the cost of administration of the fund as is determined by the Director of the Office of Personnel Management to be attributable to its employees. Notwithstanding the foregoing provisions, there shall not be considered for the purposes of the civil service retirement law that portion of the basic pay in any one year of any officer or employee of the corporation which exceeds the basic pay provided for positions listed in section 5312 of title 5 on the last day of such year: <i>Provided</i>, That with respect to any person whose employment is made subject to the civil service retirement law by section 806 of the Housing and Community Development Act of 1974, there shall not be considered for the purposes of such law that portion of the basic pay of such person in any one year which exceeds the basic pay provided for positions listed in section 5316 of such title 5 on the last day of such year. Except as provided in this subsection, the corporation shall not be subject to the provisions of title 5.
+(2) The board of directors of the corporation shall have the power to select and appoint or employ such officers, attorneys, employees, and agents, to vest them with such powers and duties, and to fix and to cause the corporation to pay such compensation to them for their services, as the board of directors determines reasonable and comparable with compensation for employment in other similar businesses (including other publicly held financial institutions or major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in paragraph (3)(C)) of the corporation shall be based on the performance of the corporation; and any such action shall be without regard to the Federal civil service and classification laws. Appointments, promotions, and separations so made shall be based on merit and efficiency, and no political tests or qualifications shall be permitted or given consideration. Each officer and employee of the corporation who is employed by the corporation prior to January 31, 1972, and who on the day previous to the beginning of such employment will have been subject to the civil service retirement law (subch. III of ch. 83 of title 5) shall, so long as the employment of such officer or employee by the corporation continues without a break in continuity of service, continue to be subject to such law; and for the purpose of such law the employment of such officer or employee by the corporation without a break in continuity of service shall be deemed to be employment by the Government of the United States. The corporation shall contribute to the Civil Service Retirement and Disability Fund a sum as provided by section 8334(a) of title 5, except that such sum shall be determined by applying to the total basic pay (as defined in section 8331(3) of title 5 and except as hereinafter provided) paid to the employees of the corporation who are covered by the civil service retirement law, the per centum rate determined annually by the Director of the Office of Personnel Management to be the excess of the total normal cost per centum rate of the civil service retirement system over the employee deduction rate specified in section 8334(a) of title 5. The corporation shall also pay into the Civil Service Retirement and Disability Fund such portion of the cost of administration of the fund as is determined by the Director of the Office of Personnel Management to be attributable to its employees. Notwithstanding the foregoing provisions, there shall not be considered for the purposes of the civil service retirement law that portion of the basic pay in any one year of any officer or employee of the corporation which exceeds the basic pay provided for positions listed in section 5312 of title 5 on the last day of such year: <i>Provided</i>, That with respect to any person whose employment is made subject to the civil service retirement law by section 806 of the Housing and Community Development Act of 1974, there shall not be considered for the purposes of such law that portion of the basic pay of such person in any one year which exceeds the basic pay provided for positions listed in section 5316 of such title 5 on the last day of such year. Except as provided in this subsection, the corporation shall not be subject to the provisions of title 5.
 
 (3)(A) Not later than June 30, 1993, and annually thereafter, the corporation shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on (i) the comparability of the compensation policies of the corporation with the compensation policies of other similar businesses, (ii) in the aggregate, the percentage of total cash compensation and payments under employee benefit plans (which shall be defined in a manner consistent with the corporation's proxy statement for the annual meeting of shareholders for the preceding year) earned by executive officers of the corporation during the preceding year that was based on the corporation's performance, and (iii) the comparability of the corporation's financial performance with the performance of other similar businesses. The report shall include a copy of the corporation's proxy statement for the annual meeting of shareholders for the preceding year.
 
-(B) Notwithstanding the first sentence of paragraph (2), after October 28, 1992, the corporation may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of any executive officer of the corporation, unless such agreement or contract is approved in advance by the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development. The Director may not approve any such agreement or contract unless the Director determines that the benefits provided under the agreement or contract are comparable to benefits under such agreements for officers of other public and private entities involved in financial services and housing interests who have comparable duties and responsibilities. For purposes of this subparagraph, any renegotiation, amendment, or change after October 28, 1992, to any such agreement or contract entered into on or before October 28, 1992, shall be considered entering into an agreement or contract.
+(B) Notwithstanding the first sentence of paragraph (2), after October 28, 1992, the corporation may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of any executive officer of the corporation, unless such agreement or contract is approved in advance by the Director of the Federal Housing Finance Agency. The Director may not approve any such agreement or contract unless the Director determines that the benefits provided under the agreement or contract are comparable to benefits under such agreements for officers of other public and private entities involved in financial services and housing interests who have comparable duties and responsibilities. For purposes of this subparagraph, any renegotiation, amendment, or change after October 28, 1992, to any such agreement or contract entered into on or before October 28, 1992, shall be considered entering into an agreement or contract.
 
 (C) For purposes of this paragraph, the term “executive officer” has the meaning given the term in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4502\].
+
+(4) Notwithstanding any other provision of this section, the corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 1318 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4518).
 
 #### (e) Prohibition against use of names; injunction; damages
 
@@ -48,7 +50,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 #### (k) Financial reports; submission to Director; contents
 
-(1) The corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
+(1) The corporation shall submit to the Director of the Federal Housing Finance Agency annual and quarterly reports of the financial condition and operations of the corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
 
 (2) Each such annual report shall include—
 
@@ -70,11 +72,11 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 (1) The corporation shall have an annual independent audit made of its financial statements by an independent public accountant in accordance with generally accepted auditing standards.
 
-(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (k)(2)(B) of this section.
+(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the corporation (A) are presentedfairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (k)(2)(B) of this section.
 
 #### (m) Mortgage data collection and reporting requirements
 
-(1) The corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
+(1) The corporation shall collect, maintain, and provide to the Director of the Federal Housing Finance Agency, in a form determined by the Director, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
 
 &emsp;(A) the income, census tract location, race, and gender of mortgagors under such mortgages;
 
@@ -86,7 +88,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 &emsp;(E) any other characteristics that the Secretary considers appropriate, to the extent practicable.
 
-(2) The corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
+(2) The corporation shall collect, maintain, and provide to the Director of the Federal Housing Finance Agency, in a form determined by the Director, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
 
 &emsp;(A) census tract location of the housing;
 
@@ -110,7 +112,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 #### (n) Report on housing activities; contents; public disclosure
 
-(1) The corporation shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Secretary a report on its activities under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4561 et seq.\].
+(1) The corporation shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Director of the Federal Housing Finance Agency a report on its activities under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4561 et seq.\].
 
 (2) The report under this subsection shall—
 
@@ -122,7 +124,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 &emsp;(D) include statements of the proportion of mortgages on housing consisting of 1 to 4 dwelling units purchased by the corporation that have been made to first-time homebuyers, as soon as providing such data is practicable, and identifying any special programs (or revisions to conventional practices) facilitating homeownership opportunities for first-time homebuyers;
 
-&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Secretary under subsection (m)(1)(B) of this section;
+&emsp;(E) include, in aggregate form and by appropriate category, the data provided to the Director of the Federal Housing Finance Agency under subsection (m)(1)(B) of this section;
 
 &emsp;(F) compare the level of securitization versus portfolio activity;
 
@@ -134,13 +136,13 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 &emsp;(J) describe in the aggregate the seller and servicer network of the corporation, including the volume of mortgages purchased from minority-owned, women-owned, and community-oriented lenders, and any efforts to facilitate relationships with such lenders;
 
-&emsp;(K) describe the activities undertaken by the corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, including how the corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
+&emsp;(K) describe the activities undertaken by the corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, includinghow the corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
 
-&emsp;(L) include any other information that the Secretary considers appropriate.
+&emsp;(L) include any other information that the Director of the Federal Housing Finance Agency considers appropriate.
 
 (3)(A) The corporation shall make each report under this subsection available to the public at the principal and regional offices of the corporation.
 
-(B) Before making a report under this subsection available to the public, the corporation may exclude from the report information that the Secretary has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
+(B) Before making a report under this subsection available to the public, the corporation may exclude from the report information that the Director of the Federal Housing Finance Agency has determined is proprietary information under section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4546\].
 
 #### (<i>o</i>) Affordable Housing Advisory Council
 
@@ -148,7 +150,7 @@ The Federal Reserve banks are authorized and directed to act as depositaries, cu
 
 (2) The Affordable Housing Advisory Council shall consist of 15 individuals, who shall include representatives of community-based and other nonprofit and for-profit organizations and State and local government agencies actively engaged in the promotion, development, or financing of housing for low- and moderate-income families.
 
-(June 27, 1934, ch. 847, title III, §309, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 620; amended Pub. L. 87–70, title VI, §603(e), June 30, 1961, 75 Stat. 177; Pub. L. 90–448, title VIII, §802(z)–(ee), Aug. 1, 1968, 82 Stat. 540, 541; Pub. L. 92–310, title II, §223(c), June 6, 1972, 86 Stat. 206; Pub. L. 93–383, title VIII, §806(k), Aug. 22, 1974, 88 Stat. 728; Pub. L. 94–375, §17(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title IV, §408(c), Oct. 12, 1977, 91 Stat. 1138; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–440, title II, §§208, 209, 213(a), Oct. 3, 1984, 98 Stat. 1696, 1698; Pub. L. 98–479, title II, §203(a)(3), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 100–242, title IV, §444, Feb. 5, 1988, 101 Stat. 1922; Pub. L. 101–73, title VII, §731(m)(3), Aug. 9, 1989, 103 Stat. 436; Pub. L. 102–550, title XIII, §1381(j)–(q), (s)(3), Oct. 28, 1992, 106 Stat. 3996–4001; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(June 27, 1934, ch. 847, title III, §309, as added Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 620; amended Pub. L. 87–70, title VI, §603(e), June 30, 1961, 75 Stat. 177; Pub. L. 90–448, title VIII, §802(z)–(ee), Aug. 1, 1968, 82 Stat. 540, 541; Pub. L. 92–310, title II, §223(c), June 6, 1972, 86 Stat. 206; Pub. L. 93–383, title VIII, §806(k), Aug. 22, 1974, 88 Stat. 728; Pub. L. 94–375, §17(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title IV, §408(c), Oct. 12, 1977, 91 Stat. 1138; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–440, title II, §§208, 209, 213(a), Oct. 3, 1984, 98 Stat. 1696, 1698; Pub. L. 98–479, title II, §203(a)(3), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 100–242, title IV, §444, Feb. 5, 1988, 101 Stat. 1922; Pub. L. 101–73, title VII, §731(m)(3), Aug. 9, 1989, 103 Stat. 436; Pub. L. 102–550, title XIII, §1381(j)–(q), (s)(3), Oct. 28, 1992, 106 Stat. 3996–4001; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §§1113(b)(1), 1161(b), July 30, 2008, 122 Stat. 2678, 2779.)
 
 #### References in Text
 
@@ -162,11 +164,29 @@ Section 806 of the Housing and Community Development Act of 1974, referred to in
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (n)(1), (2)(A), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–289, §1161(b)(2)(C), which directed amendment of par. (3)(B) of this section, was executed to par. (3)(B) of subsec. (n) of this section, to reflect the probable intent of Congress. See 2008 Amendment note below.
+
 #### Prior Provisions
 
 Prior provisions on the subject of subsecs. (a) and (c) to (e) of this section were contained in sections 1716, 1719, and 1721 of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(3)(B). Pub. L. 110–289, §1161(b)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+
+Subsec. (d)(4). Pub. L. 110–289, §1113(b)(1), added par. (4).
+
+Subsec. (k)(1). Pub. L. 110–289, §1161(b)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+
+Subsec. (m)(1), (2). Pub. L. 110–289, §1161(b)(2)(A), substituted “to the Director of the Federal Housing Finance Agency, in a form determined by the Director” for “to the Secretary, in a form determined by the Secretary” in introductory provisions.
+
+Subsec. (n)(1). Pub. L. 110–289, §1161(b)(2)(B)(i), substituted “and the Director of the Federal Housing Finance Agency” for “and the Secretary”.
+
+Subsec. (n)(2)(E), (L). Pub. L. 110–289, §1161(b)(2)(B)(ii), substituted “Director of the Federal Housing Finance Agency” for “Secretary”.
+
+Subsec. (n)(3)(B). Pub. L. 110–289, §1161(b)(2)(C), substituted “Director of the Federal Housing Finance Agency” for “Secretary”. See Codification note above.
 
 2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 

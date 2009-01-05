@@ -4,16 +4,18 @@
 | :--- | ---: |
 | [10501\.](%C2%A7%2010501%20-%20National%20Guard%20Bureau.md) | National Guard Bureau. |
 | [10502\.](%C2%A7%2010502%20-%20Chief%20of%20the%20National%20Guard%20Bureau%20appointment%3B%20adviser%20on%20National%20Guard%20matters%3B%20grade%3B%20succession.md) | Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession. |
-| [10503\.](%C2%A7%2010503%20-%20Functions%20of%20National%20Guard%20Bureau%20charter%20from%20Secretaries%20of%20the%20Army%20and%20Air%20Force.md) | Functions of National Guard Bureau: charter from Secretaries of the Army and Air Force. |
+| [10503\.](%C2%A7%2010503%20-%20Functions%20of%20National%20Guard%20Bureau%20charter.md) | Functions of National Guard Bureau: charter. |
 | [10504\.](%C2%A7%2010504%20-%20Chief%20of%20National%20Guard%20Bureau%20annual%20report.md) | Chief of National Guard Bureau: annual report. |
 | [10505\.](%C2%A7%2010505%20-%20Director%20of%20the%20Joint%20Staff%20of%20the%20National%20Guard%20Bureau.md) | Director of the Joint Staff of the National Guard Bureau. |
 | [10506\.](%C2%A7%2010506%20-%20Other%20senior%20National%20Guard%20Bureau%20officers.md) | Other senior National Guard Bureau officers. |
 | [10507\.](%C2%A7%2010507%20-%20National%20Guard%20Bureau%20assignment%20of%20officers%20of%20regular%20or%20reserve%20components.md) | National Guard Bureau: assignment of officers of regular or reserve components. |
-| \[10508. | Repealed.\] |
+| [10508\.](%C2%A7%2010508%20-%20National%20Guard%20Bureau%20general%20provisions.md) | National Guard Bureau: general provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title XVIII, §§1812(b)(2), 1813(c)(2), Jan. 28, 2008, 122 Stat. 497, 498, substituted “Functions of National Guard Bureau: charter” for “Functions of National Guard Bureau: charter from Secretaries of the Army and Air Force” in item 10503 and added item 10508.
 
 2004—Pub. L. 108–375, div. A, title V, §§507(b)(2), 508(c)(2), Oct. 28, 2004, 118 Stat. 1876, 1877, inserted “; succession” after “grade” in item 10502 and substituted “Director of the Joint Staff” for “Vice Chief” in item 10505.
 
@@ -28,9 +30,9 @@
 
 - [&sect; 10501 - National Guard Bureau](%C2%A7%2010501%20-%20National%20Guard%20Bureau.md)
 - [&sect; 10502 - Chief of the National Guard Bureau appointment; adviser on National Guard matters; grade; succession](%C2%A7%2010502%20-%20Chief%20of%20the%20National%20Guard%20Bureau%20appointment%3B%20adviser%20on%20National%20Guard%20matters%3B%20grade%3B%20succession.md)
-- [&sect; 10503 - Functions of National Guard Bureau charter from Secretaries of the Army and Air Force](%C2%A7%2010503%20-%20Functions%20of%20National%20Guard%20Bureau%20charter%20from%20Secretaries%20of%20the%20Army%20and%20Air%20Force.md)
+- [&sect; 10503 - Functions of National Guard Bureau charter](%C2%A7%2010503%20-%20Functions%20of%20National%20Guard%20Bureau%20charter.md)
 - [&sect; 10504 - Chief of National Guard Bureau annual report](%C2%A7%2010504%20-%20Chief%20of%20National%20Guard%20Bureau%20annual%20report.md)
 - [&sect; 10505 - Director of the Joint Staff of the National Guard Bureau](%C2%A7%2010505%20-%20Director%20of%20the%20Joint%20Staff%20of%20the%20National%20Guard%20Bureau.md)
 - [&sect; 10506 - Other senior National Guard Bureau officers](%C2%A7%2010506%20-%20Other%20senior%20National%20Guard%20Bureau%20officers.md)
 - [&sect; 10507 - National Guard Bureau assignment of officers of regular or reserve components](%C2%A7%2010507%20-%20National%20Guard%20Bureau%20assignment%20of%20officers%20of%20regular%20or%20reserve%20components.md)
-- [&sect; 10508 - Repealed. Pub. L. 104&#8211;106, div. A, title XV, &sect;1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496](%C2%A7%2010508%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XV%2C%20%C2%A71501%28b%29%287%29%28A%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20496.md)
+- [&sect; 10508 - National Guard Bureau general provisions](%C2%A7%2010508%20-%20National%20Guard%20Bureau%20general%20provisions.md)

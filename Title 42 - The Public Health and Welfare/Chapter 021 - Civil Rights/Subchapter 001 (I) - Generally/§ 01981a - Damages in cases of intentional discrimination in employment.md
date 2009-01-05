@@ -26,7 +26,7 @@
 
 #### (3) Limitations
 
-&emsp;The sum of the amount of compensatory damages awarded under this section for futurepecuniary losses, emotional pain, suffering, inconvenience, mental anguish, loss of enjoyment of life, and other nonpecuniary losses, and the amount of punitive damages awarded under this section, shall not exceed, for each complaining party—
+&emsp;The sum of the amount of compensatory damages awarded under this section for future pecuniary losses, emotional pain, suffering, inconvenience, mental anguish, loss of enjoyment of life, and other nonpecuniary losses, and the amount of punitive damages awarded under this section, shall not exceed, for each complaining party—
 
 &emsp;&emsp;(A) in the case of a respondent who has more than 14 and fewer than 101 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $50,000;
 

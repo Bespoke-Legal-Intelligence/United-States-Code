@@ -22,7 +22,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(H) health care providers;
 
-&emsp;(2) to establish and expand nonprofit, nongovernmental, State, tribal, territorial, and local government victim services in rural communities to child, youth, and adult victims; and
+&emsp;(2) to establish and expand nonprofit, nongovernmental, State, tribal, territorial, andlocal government victim services in rural communities to child, youth, and adult victims; and
 
 &emsp;(3) to increase the safety and well-being of women and children in rural communities, by—
 

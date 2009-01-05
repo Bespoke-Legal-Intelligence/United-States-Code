@@ -34,7 +34,7 @@
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–311, §8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
+1998—Subsec. (b). Pub. L. 105–311, §8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) readas follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
 
 Subsec. (c)(2). Pub. L. 105–311, §8(b)(1), substituted “section 8714b(c)(2) through (4)” for “section 8714b(c)(2) of this title”.
 

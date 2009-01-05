@@ -6,7 +6,7 @@ The Secretary shall carry out a program to evaluate the commercial and technical
 
 #### (b) Facilities
 
-For the purpose of evaluating the commercial and technical viability of different processes forproducing Fischer-Tropsch transportation fuels, and other transportation fuels, from Illinois basin coal, the Secretary shall support the use and capital modification of existing facilities and the construction of new facilities at—
+For the purpose of evaluating the commercial and technical viability of different processes for producing Fischer-Tropsch transportation fuels, and other transportation fuels, from Illinois basin coal, the Secretary shall support the use and capital modification of existing facilities and the construction of new facilities at—
 
 &emsp;(1) Southern Illinois University Coal Research Center;
 

@@ -20,7 +20,7 @@
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-&emsp;(i) in the case of a single-employer plan, for plan years beginning after December 31, 1990, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year; <sup>1</sup>
+&emsp;(i) in the case of a single-employer plan, for plan years beginning after December 31, 2005, an amount equal to the sum of $30 plus the additional premium (if any) determined under subparagraph (E) for each individual who is a participant in such plan during the plan year; <sup>1</sup>
 
 &emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
@@ -62,7 +62,7 @@
 
 (E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year.
 
-(ii) The amount determined under this clause for any plan year shall be an amount equal to $9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
+(ii) The amount determined under this clause for any plan year shall be an amount equal to$9.00 for each $1,000 (or fraction thereof) of unfunded vested benefits under the plan as of the close of the preceding plan year.
 
 (iii) For purposes of clause (ii), the term “unfunded vested benefits” means, for a plan year, the excess (if any) of—
 
@@ -120,7 +120,7 @@
 
 &emsp;(ii) an additional charge based on a rate applicable to the present value of the basic benefits of the plan which are guaranteed.
 
-> The rate for the additional charge referred to in clause (ii) shall be set by the corporation for every year at a level which the corporation estimates will yield total revenue approximately equal to the total revenue to be derived by the corporation from the charges referred to in clause (i) of this subparagraph.
+> The rate for the additional charge referred to in clause (ii) shall be set by the corporation for every year at a level which the corporation estimates will yield total revenue approximately equal to the total revenue to be derived by thecorporation from the charges referred to in clause (i) of this subparagraph.
 
 (C) The corporation may establish annual premiums for single-employer plans based on—
 
@@ -216,13 +216,15 @@ Coordination with section 1307.—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26,1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+2008—Subsec. (a)(3)(A)(i). Pub. L. 110–458 substituted “2005” for “1990”.
 
 2006—Subsec. (a)(3)(A)(i). Pub. L. 109–171, §8101(a)(1)(A), substituted “$30” for “$19”.
 
@@ -234,7 +236,7 @@ Subsec. (a)(3)(B). Pub. L. 109–171, §8101(c), substituted “clause (iii) or 
 
 Subsec. (a)(3)(E)(i). Pub. L. 109–280, §405(a)(1), substituted “Except as provided in subparagraph (H), the additional” for “The additional”.
 
-Subsec. (a)(3)(E)(iii). Pub. L. 109–280, §401(a)(1), added cl. (iii) and struck out former cl. (iii), which defined “unfunded vested benefits” for purposes of clause (ii) and set forth provisions relating to the interest rate used in valuing vested benefits, the value of the plan's assets in the case of any plan year for which the applicable percentage is 100 percent, the applicable percentage in the case of plan years beginning after Dec. 31, 2001, and before Jan. 1, 2004, and the annual yield taken into account in the case of plan years beginning after Dec. 31, 2003, and before Jan. 1, 2008.
+Subsec. (a)(3)(E)(iii). Pub. L. 109–280, §401(a)(1), added cl. (iii) and struck out former cl. (iii), which defined“unfunded vested benefits” for purposes of clause (ii) and set forth provisions relating to the interest rate used in valuing vested benefits, the value of the plan's assets in the case of any plan year for which the applicable percentage is 100 percent, the applicable percentage in the case of plan years beginning after Dec. 31, 2001, and before Jan. 1, 2004, and the annual yield taken into account in the case of plan years beginning after Dec. 31, 2003, and before Jan. 1, 2008.
 
 Subsec. (a)(3)(E)(iii)(V). Pub. L. 109–280, §301(a)(3), substituted “2008” for “2006”.
 
@@ -307,6 +309,10 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 
@@ -402,7 +408,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Modification of Transition Rule to Pension Funding Requirements
 
-For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsoredby a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
+For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Applicability of This Section to Certain Plans Maintained by Commercial Airlines
 
@@ -420,7 +426,7 @@ Section 11005(e) of Pub. L. 99–272 provided that:
 
 “(1)
 
-Notice of premium increase.—Not later than 30 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Pension Benefit Guaranty Corporation shall send a notice to the plan administrator of each single-employer plan affected by the premium increase established by the amendment made by subsection (a)(1) \[amending this section\]. Such notice shall describe such increase and the requirements of this subsection.
+Notice of premium increase.—Not later than 30 days after the date of the enactment of this Act \[Apr.7, 1986\], the Pension Benefit Guaranty Corporation shall send a notice to the plan administrator of each single-employer plan affected by the premium increase established by the amendment made by subsection (a)(1) \[amending this section\]. Such notice shall describe such increase and the requirements of this subsection.
 
 “(2)
 

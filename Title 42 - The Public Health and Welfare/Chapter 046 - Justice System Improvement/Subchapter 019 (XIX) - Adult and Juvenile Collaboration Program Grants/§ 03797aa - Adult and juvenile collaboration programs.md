@@ -28,7 +28,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term “appropriate use” includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term “appropriate use” includes the discretion of the judge orsupervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
@@ -100,7 +100,7 @@ In this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in such manner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
+&emsp;&emsp;To receive a planning grant or an implementation grant, the joint applicants shall prepare and submit a single application to the Attorney General at such time, in suchmanner, and containing such information as the Attorney General and the Secretary shall reasonably require. An application under subchapter XII–J of this chapter may be made in conjunction with an application under this section.
 
 #### (B) Combined planning and implementation grant application
 
@@ -176,7 +176,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(IV) determine eligibility for Federal benefits;
 
-&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individuals with co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
+&emsp;&emsp;&emsp;&emsp;(V) ensure that preliminarily qualified offenders served by the collaboration program will have adequate supervision and access to effective and appropriate community-based mental health services, including, in the case of individualswith co-occurring mental health and substance abuse disorders, coordinated services, which may range from consultation or collaboration to integration in a single setting treatment model;
 
 &emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
@@ -208,7 +208,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) ensure mechanisms are in place to capture data, consistent with the methodology and outcome measures under clause (i); and
 
-&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data neededby the Attorney General and the Secretary to accomplish the evaluation under clause (i).
+&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data needed by the Attorney General and the Secretary to accomplish the evaluation under clause (i).
 
 #### (H) State plans
 
@@ -246,13 +246,19 @@ In this section, the following definitions shall apply:
 
 The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
-&emsp;(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
+&emsp;(1) promote effective strategies by law enforcement to identify and to reduce risk of harm to mentally ill offenders and public safety;
 
-&emsp;(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program;
+&emsp;(2) promote effective strategies for identification and treatment of female mentally ill offenders;
 
-&emsp;(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and
+&emsp;(3) promote effective strategies to expand the use of mental health courts, including the use of pretrial services and related treatment programs for offenders; or
 
-&emsp;(4) have the support of both the Attorney General and the Secretary.
+&emsp;(4)(A) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
+
+&emsp;(B) demonstrate the active participation of each co-applicant in the administration of the collaboration program;
+
+&emsp;(C) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and reentry services for such individuals; and
+
+&emsp;(D) have the support of both the Attorney General and the Secretary.
 
 #### (d) Matching requirements
 
@@ -304,21 +310,95 @@ The Attorney General, in consultation with the Secretary, in administering grant
 
 Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.
 
-#### (h) Authorization of appropriations
+#### (h) Law enforcement response to mentally ill offenders improvement grants
 
-There are authorized to be appropriated to the Department of Justice to carry out this section—
+#### (1) Authorization
 
-&emsp;(1) $50,000,000 for fiscal year 2005; and
+&emsp;The Attorney General is authorized to make grants under this section to States, units of local government, Indian tribes, and tribal organizations for the following purposes:
 
-&emsp;(2) such sums as may be necessary for fiscal years 2006 through 2009.
+#### (A) Training programs
 
-(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328.)
+&emsp;&emsp;To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+
+#### (B) Receiving centers
+
+&emsp;&emsp;To provide for the development of specialized receiving centers to assess individuals in the custody of law enforcement personnel for suicide risk and mental health and substance abuse treatment needs.
+
+#### (C) Improved technology
+
+&emsp;&emsp;To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
+
+#### (D) Cooperative programs
+
+&emsp;&emsp;To provide for the establishment and expansion of cooperative efforts by criminal and juvenile justice agencies and mental health agencies to promote public safety through the use of effective intervention with respect to mentally ill offenders.
+
+#### (E) Campus security personnel training
+
+&emsp;&emsp;To provide for programs that offer campus security personnel training in procedures toidentify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+
+#### (2) BJA training models
+
+&emsp;For purposes of paragraph (1)(A), the Director of the Bureau of Justice Assistance shall develop training models for training law enforcement personnel in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including suicide prevention.
+
+#### (3) Matching funds
+
+&emsp;The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
+
+#### (i) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There are authorized to be appropriated to the Department of Justice to carry out this section—
+
+&emsp;&emsp;(A) $50,000,000 for fiscal year 2005;
+
+&emsp;&emsp;(B) such sums as may be necessary for each of the fiscal years 2006 and 2007; and
+
+&emsp;&emsp;(C) $50,000,000 for each of the fiscal years 2009 through 2014.
+
+#### (2) Allocation of funding for administrative purposes
+
+&emsp;For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
+
+(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353.)
 
 #### References in Text
 
 The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(E), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 3711 of this title and Tables.
 
+#### Amendments
+
+2008—Subsec. (c). Pub. L. 110–416, §3(c), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+“The Attorney General, in awarding funds under this section, shall give priority to applications that—
+
+&emsp;“(1) demonstrate the strongest commitment to ensuring that such funds are used to promote both public health and public safety;
+
+&emsp;“(2) demonstrate the active participation of each co-applicant in the administration of the collaboration program;
+
+&emsp;“(3) document, in the case of an application for a grant to be used in whole or in part to fund treatment services for adults or juveniles during periods of incarceration or detention, that treatment programs will be available to provide transition and re-entry services for such individuals; and
+
+&emsp;“(4) have the support of both the Attorney General and the Secretary.”
+
+Subsec. (h). Pub. L. 110–416, §4(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Pub. L. 110–416, §3(b), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, and added par. (2).
+
+Pub. L. 110–416, §3(a), substituted “for each of the fiscal years 2006 and 2007; and” for “for fiscal years 2006 through 2009.” in par. (2) and added par. (3).
+
+Subsec. (i). Pub. L. 110–416, §4(1), redesignated subsec. (h) as (i).
+
 #### Findings
+
+Pub. L. 110–416, §2, Oct. 14, 2008, 122 Stat. 4352, provided that: “Congress finds the following:
+
+&emsp;“(1) Communities nationwide are struggling to respond to the high numbers of people with mental illnesses involved at all points in the criminal justice system.
+
+&emsp;“(2) A 1999 study by the Department of Justice estimated that 16 percent of people incarcerated in prisons and jails in the United States, which is more than 300,000 people, suffer from mental illnesses.
+
+&emsp;“(3) Los Angeles County Jail and New York's Rikers Island jail complex hold more people with mental illnesses than the largest psychiatric inpatient facilities in the United States.
+
+&emsp;“(4) State prisoners with a mental health problem are twice as likely as those without a mental health problem to have been homeless in the year before their arrest.”
 
 Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: “Congress finds the following:
 

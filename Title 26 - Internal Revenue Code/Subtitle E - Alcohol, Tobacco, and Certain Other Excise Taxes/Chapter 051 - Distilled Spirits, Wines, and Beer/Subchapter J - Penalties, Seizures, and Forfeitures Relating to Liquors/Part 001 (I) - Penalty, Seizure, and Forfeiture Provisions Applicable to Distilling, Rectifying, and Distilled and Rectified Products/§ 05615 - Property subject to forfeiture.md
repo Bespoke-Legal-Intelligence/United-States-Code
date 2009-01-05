@@ -26,7 +26,7 @@ The following property shall be forfeited to the United States:
 
 &emsp;&emsp;(D) all the right, title, and interest in the lot or tract of land on which the distillery is located of every person who knowingly has suffered or permitted the business of a distiller to be there carried on, or has connived at the same; and
 
-&emsp;&emsp;(E) all personal property owned by or in possession of any person who has permitted or suffered any building, yard, or inclosure, or any part thereof, to be used for purposes of ingress or egress to or from the distillery,which shall be found in any such building, yard, or inclosure; and
+&emsp;&emsp;(E) all personal property owned by or in possession of any person who has permitted or suffered any building, yard, or inclosure, or any part thereof, to be used for purposes of ingress or egress to or from the distillery, which shall be found in any such building, yard, or inclosure; and
 
 &emsp;&emsp;(F) all the right, title, and interest of every person in any premises used for ingress or egress to or from the distillery who knowingly has suffered or permitted such premises to be used for such ingress or egress; and
 
@@ -92,7 +92,7 @@ A prior section 5618, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to pena
 
 A prior section 5619, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for refusal or neglect to draw off water and clean condensers or worm tanks, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
-A prior section 5620, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty and forfeiture for false or omitted entries in distiller's books and records, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5603 and 5615(5) of this title.
+A prior section 5620, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty and forfeiture for false oromitted entries in distiller's books and records, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5603 and 5615(5) of this title.
 
 A prior section 5621, act Aug. 16, 1954, ch. 736, 68A Stat. 687, related to penalty concerning records and returns of distiller as wholesale dealers, rectifiers, prior to the general revision of this chapter by Pub. L. 85–859. See section 5603 of this title.
 
@@ -110,7 +110,7 @@ A prior section 5627, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to pena
 
 A prior section 5628, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to penalty for rectification without payment of tax, increasing volume, etc., prior to the general revision of this chapter by Pub. L. 85–859. See section 5601(a)(10) and 5687 of this title.
 
-A prior section 5629, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to penalty for unlawful rectifying,prior to the general revision of this chapter by Pub. L. 85–859. See section 5601(a)(10), (11) of this title.
+A prior section 5629, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to penalty for unlawful rectifying, prior to the general revision of this chapter by Pub. L. 85–859. See section 5601(a)(10), (11) of this title.
 
 A prior section 5630, act Aug. 16, 1954, ch. 736, 68A Stat. 689, related to penalty for noncompliance by rectifiers with provisions relating to rectifying, gauging, branding, and stamping, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 

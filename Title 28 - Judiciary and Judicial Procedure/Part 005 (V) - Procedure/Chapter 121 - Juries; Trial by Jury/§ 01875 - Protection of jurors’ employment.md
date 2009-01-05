@@ -8,7 +8,7 @@
 
 &emsp;(2) may be enjoined from further violations of this section and ordered to provide other appropriate relief, including but not limited to the reinstatement of any employee discharged by reason of his jury service; and
 
-&emsp;(3) shall be subject to a civil penalty of not more than $1,000 for each violation as to each employee.
+&emsp;(3) shall be subject to a civil penalty of not more than $5,000 for each violation as to each employee, and may be ordered to perform community service.
 
 (c) Any individual who is reinstated to a position of employment in accordance with the provisions of this section shall be considered as having been on furlough or leave of absence during his period of jury service, shall be reinstated to his position of employment without loss of seniority, and shall be entitled to participate in insurance or other benefits offered by the employer pursuant to established rules and practices relating to employees on furlough or leave of absence in effect with the employer at the time such individual entered upon jury service.
 
@@ -16,9 +16,11 @@
 
 (2) In any action or proceeding under this section, the court may award a prevailing employee who brings such action by retained counsel a reasonable attorney's fee as part of the costs. The court may tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to paragraph (1) of this subsection. The court may award a prevailing employer a reasonable attorney's fee as part of the costs only if the court finds that the action is frivolous, vexatious, or brought in bad faith.
 
-(Added Pub. L. 95–572, §6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, §1, Jan. 12, 1983, 96 Stat. 2531.)
+(Added Pub. L. 95–572, §6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, §1, Jan. 12,1983, 96 Stat. 2531; Pub. L. 110–406, §19, Oct. 13, 2008, 122 Stat. 4295.)
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–406 substituted “$5,000 for each violation as to each employee, and may be ordered to perform community service.” for “$1,000 for each violation as to each employee.”
 
 1983—Subsec. (d)(1). Pub. L. 97–463, §1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
 

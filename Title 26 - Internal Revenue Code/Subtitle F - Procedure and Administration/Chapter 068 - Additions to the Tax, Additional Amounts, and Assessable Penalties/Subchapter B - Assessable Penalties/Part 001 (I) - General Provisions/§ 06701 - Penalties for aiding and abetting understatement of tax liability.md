@@ -24,7 +24,7 @@ Any person—
 
 #### (3) Only 1 penalty per person per period
 
-&emsp;If any person is subject to a penalty under subsection (a) with respect to any documentrelating to any taxpayer for any taxable period (or where there is no taxable period, any taxable event), such person shall not be subject to a penalty under subsection (a) with respect to any other document relating to such taxpayer for such taxable period (or event).
+&emsp;If any person is subject to a penalty under subsection (a) with respect to any document relating to any taxpayer for any taxable period (or where there is no taxable period, any taxable event), such person shall not be subject to a penalty under subsection (a) with respect to any other document relating to such taxpayer for such taxable period (or event).
 
 #### (c) Activities of subordinates
 

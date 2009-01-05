@@ -2,111 +2,279 @@
 
 #### (a) Definitions
 
-In this section:
+In this section through section 1308–5 of this title:
 
 #### (1) Covered commodity
 
-&emsp;The term “covered commodity” has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901\].
+&emsp;The term “covered commodity” has the meaning given that term in section 1001 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8702\].
 
-#### (2) Loan commodity
+#### (2) Family member
 
-&emsp;The term “loan commodity” has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901\], except that the term does not include wool, mohair, or honey.
+&emsp;The term “family member” means a person to whom a member in the farming operation is related as lineal ancestor, lineal descendant, sibling, spouse, or otherwise by marriage.
 
-#### (3) Secretary
+#### (3) Legal entity
+
+&emsp;The term “legal entity” means an entity that is created under Federal or State law and that—
+
+&emsp;&emsp;(A) owns land or an agricultural commodity; or
+
+&emsp;&emsp;(B) produces an agricultural commodity.
+
+#### (4) Person
+
+&emsp;The term “person” means a natural person, and does not include a legal entity.
+
+#### (5) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Agriculture.
 
-#### (b) Limitation on direct payments
+#### (b) Limitation on direct payments, counter-cyclical payments, and ACRE payments for covered commodities (other than peanuts)
 
-#### (1) Covered commodities
+#### (1) Direct payments
 
-&emsp;The total amount of direct payments made to a person during any crop year under subtitle A of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7911 et seq.\] for 1 or more covered commodities may not exceed $40,000.
+&emsp;The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle A of title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8711 et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed—
 
-#### (2) Peanuts
+&emsp;&emsp;(A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[7 U.S.C. 8715\], $40,000; or
 
-&emsp;The total amount of direct payments made to a person during any crop year under subtitle C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7951 et seq.\] may not exceed $40,000.
+&emsp;&emsp;(B) in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
 
-#### (c) Limitation on counter-cyclical payments
+&emsp;&emsp;&emsp;(i) the payment limit specified in subparagraph (A); less
 
-#### (1) Covered commodities
+&emsp;&emsp;&emsp;(ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
 
-&emsp;The total amount of counter-cyclical payments made to a person during any crop year under subtitle A of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7911 et seq.\] for 1 or more covered commodities may not exceed $65,000.
+#### (2) Counter-cyclical payments
 
-#### (2) Peanuts
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle A of title I of that Act \[7 U.S.C. 8711 et seq.\] for 1 or more covered commodities (except for peanuts) may not exceed $65,000.
 
-&emsp;The total amount of counter-cyclical payments made to a person during any crop year under subtitle C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7951 et seq.\] may not exceed $65,000.
+#### (3) ACRE and counter-cyclical payments
 
-#### (d) Limitation on marketing loan gains and loan deficiency payments
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments and counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year for 1 or more covered commodities (except for peanuts) may not exceed the sum of—
 
-#### (1) Loan commodities
+&emsp;&emsp;(A) $65,000; and
 
-&emsp;The total amount of the following gains and payments that a person may receive during any crop year may not exceed $75,000:
+&emsp;&emsp;(B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
 
-&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for 1 or more loan commodities under subtitle B of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq.\] at a lower level than the original loan rate established for the loan commodity under that subtitle.
+#### (c) Limitation on direct payments, counter-cyclical payments, and ACRE payments for peanuts
 
-&emsp;&emsp;(B) Any loan deficiency payments received for 1 or more loan commodities under that subtitle.
+#### (1) Direct payments
 
-#### (2) Other commodities
+&emsp;The total amount of direct payments received, directly or indirectly, by a person or legal entity (except a joint venture or a general partnership) for any crop year under subtitle C of title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8751 et seq.\] for peanuts may not exceed—
 
-&emsp;The total amount of the following gains and payments that a person may receive during any crop year may not exceed $75,000:
+&emsp;&emsp;(A) in the case of a person or legal entity that does not participate in the average crop revenue election program under section 1105 of that Act \[7 U.S.C. 8715\], $40,000; or
 
-&emsp;&emsp;(A) Any gain realized by a producer from repaying a marketing assistance loan for peanuts, wool, mohair, or honey under subtitle B or C of title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7931 et seq., 7951 et seq.\] at a lower level than the original loan rate established for the commodity under those subtitles.
+&emsp;&emsp;(B) in the case of a person or legal entity that participates in the average crop revenue election program under section 1105 of that Act, an amount equal to—
 
-&emsp;&emsp;(B) Any loan deficiency payments received for peanuts, wool, mohair, and honey under those subtitles.
+&emsp;&emsp;&emsp;(i) the payment limit specified in subparagraph (A); less
 
-#### (e) Definition of person
+&emsp;&emsp;&emsp;(ii) the amount of the reduction in direct payments under section 1105(a)(1) of that Act.
 
-(1) The Secretary shall issue regulations—
+#### (2) Counter-cyclical payments
 
-&emsp;(A) defining the term “person”; and
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that does not participate in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of counter-cyclical payments received, directly or indirectly, by the person or legal entity for any crop year under subtitle C of title I of that Act \[7 U.S.C. 8751 et seq.\] for peanuts may not exceed $65,000.
 
-&emsp;(B) prescribing such rules as the Secretary determines necessary to assure a fair and reasonable application of the limitation established under this section.
+#### (3) ACRE and counter-cyclical payments
 
-(2)(A) For the purposes of the regulations issued under paragraph (1), subject to subparagraph (B), the term “person” means—
+&emsp;In the case of a person or legal entity (except a joint venture or a general partnership) that participates in the average crop revenue election program under section 1105 of the Food, Conservation, and Energy Act of 2008, the total amount of average crop revenue election payments received, directly or indirectly, by the person or legal entity for any crop year for peanuts may not exceed the sum of—
 
-&emsp;(i) an individual, including any individual participating in a farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or a participant in a similar entity (as determined by the Secretary);
+&emsp;&emsp;(A) $65,000; and
 
-&emsp;(ii) a corporation, joint stock company, association, limited partnership, charitable organization, or other similar entity (as determined by the Secretary), including any such entity or organization participating in the farming operation as a partner in a general partnership, a participant in a joint venture, a grantor of a revocable trust, or as a participant in a similar entity (as determined by the Secretary); and
+&emsp;&emsp;(B) the amount by which the direct payment limitation is reduced under paragraph (1)(B).
 
-&emsp;(iii) a State, political subdivision, or agency thereof.
+#### (d) Limitation on applicability
 
-(B)(i) Such regulations shall provide that the term “person” does not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers.
+Nothing in this section authorizes any limitation on any benefit associated with the marketing assistance loan program or the loan deficiency payment program under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\].
 
-(ii) In defining the term “person” as it will apply to irrevocable trusts and estates, the Secretary shall ensure that fair and equitable treatment is given to trusts and estates and the beneficiaries thereof.
+#### (e) Attribution of payments
 
-(iii) Notwithstanding any other provision of law, to be considered a separate person under this section, an irrevocable trust (other than a trust established prior to January 1, 1987) must not allow for modification or termination of the trust by the grantor, allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust, or provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years from the date the trust is established except in cases where the transfer is contingent on the remainder beneficiary achieving at least the age of majority or is contingent on the death of the grantor or income beneficiary.
+#### (1) In general
 
-(C) The regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that, for the purpose of the application of the limitations established under this section—
+&emsp;In implementing subsections (b) and (c) and a program described in paragraphs (1)(C) and (2)(B) of section 1308–3a(b) of this title, the Secretary shall issue such regulations as are necessary to ensure that the total amount of payments are attributed to a person by taking into account the direct and indirect ownership interests of the person in a legal entity that is eligible to receive the payments.
 
-&emsp;(i) in the case of any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by the spouse so long as the operation remains as a separate farming operation; and
+#### (2) Payments to a person
 
-&emsp;(ii) at the option of the Secretary, in the case of any married couple consisting of spouses who do not hold, directly or indirectly, a substantial beneficial interest in more than one entity (including the spouses themselves) engaged in farm operations that also receives farm program payments (as described in subsections (b), (c), and (d) of this section) as separate persons, the spouses may be considered as separate persons if each spouse meets the other requirements established under this section and section 1308–1 ofthis title to be considered to be a separate person.
+&emsp;Each payment made directly to a person shall be combined with the pro rata interest of the person in payments received by a legal entity in which the person has a direct or indirect ownership interest unless the payments of the legal entity have been reduced by the pro rata share of the person.
 
-(3) The regulations issued by the Secretary on December 18, 1970, under section 1307 of this title shall be used to establish the percentage ownership of a corporation by the stockholders of such corporation for the purpose of determining whether such corporation and stockholders are separate persons under this section.
+#### (3) Payments to a legal entity
 
-(4) Any person that conducts a farming operation to produce a crop subject to limitations under this section as a tenant that rents the land for cash (or a crop share guaranteed as to the amount of the commodity to be paid in rent) and that makes a significant contribution of active personal management but not of personal labor shall be ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII \[16 U.S.C. 3830 et seq.\] with respect to such land unless the tenant makes a significant contribution of equipment used in the farming operation.
+#### (A) In general
 
-(5) The Secretary may not approve (for purposes of the application of the limitations under this section) any change in a farming operation that otherwise will increase the number of persons to which the limitations under this section are applied unless the Secretary determines that the change is bona fide and substantive. In the implementation of the preceding sentence, the addition of a family member to a farming operation under the criteria set out in section 1308–1(b)(1)(B) <sup>1</sup> of this title shall be considered a bona fide and substantive change in the farming operation.
+&emsp;&emsp;Each payment made to a legal entity shall be attributed to those persons who have a direct or indirect ownership interest in the legal entity unless the payment to the legal entity has been reduced by the pro rata share of the person.
 
-#### (f) Public schools
+#### (B) Attribution of payments
 
-The provisions of this section that limit payments to any person shall not be applicable to land owned by a public school district or land owned by a State that is used to maintain a public school.
+#### (i) Payment limits
 
-#### (g) Time limits; reliance
+&emsp;&emsp;&emsp;Except as provided in clause (ii), payments made to a legal entity shall not exceed the amounts specified in subsections (b) and (c).
+
+#### (ii) Exception for joint ventures and general partnerships
+
+&emsp;&emsp;&emsp;Payments made to a joint venture or a general partnership shall not exceed, for each payment specified in subsections (b) and (c), the amount determined by multiplying the maximum payment amount specified in subsections (b) and (c) by the number of persons and legal entities (other than joint ventures and general partnerships) that comprise the ownership of the joint venture or general partnership.
+
+#### (iii) Reduction
+
+&emsp;&emsp;&emsp;Payments made to a legal entity shall be reduced proportionately by an amount that represents the direct or indirect ownership in the legal entity by any person or legal entity that has otherwise exceeded the applicable maximum payment limitation.
+
+#### (4) 4 levels of attribution for embedded legal entities
+
+#### (A) In general
+
+&emsp;&emsp;Attribution of payments made to legal entities shall be traced through 4 levels of ownership in legal entities.
+
+#### (B) First level
+
+&emsp;&emsp;Any payments made to a legal entity (a first-tier legal entity) that is owned in whole or in part by a person shall be attributed to the person in an amount that represents the direct ownership in the first-tier legal entity by the person.
+
+#### (C) Second level
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+
+#### (ii) Ownership by a person
+
+&emsp;&emsp;&emsp;If the second-tier legal entity is owned (in whole or in part) by a person, theamount of the payment made to the first-tier legal entity shall be attributed to the person in the amount that represents the indirect ownership in the first-tier legal entity by the person.
+
+#### (D) Third and fourth levels
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall attribute payments at the third and fourth tiers of ownership in the same manner as specified in subparagraph (C).
+
+#### (ii) Fourth-tier ownership
+
+&emsp;&emsp;&emsp;If the fourth-tier of ownership is that of a fourth-tier legal entity and not that of a person, the Secretary shall reduce the amount of the payment to be made to the first-tier legal entity in the amount that represents the indirect ownership in the first-tier legal entity by the fourth-tier legal entity.
+
+#### (f) Special rules
+
+#### (1) Minor children
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the age of 18 shall be attributed to the parents of the child.
+
+#### (B) Regulations
+
+&emsp;&emsp;The Secretary shall issue regulations specifying the conditions under which payments received by a child under the age of 18 will not be attributed to the parents of the child.
+
+#### (2) Marketing cooperatives
+
+&emsp;Subsections (b) and (c) shall not apply to a cooperative association of producers with respect to commodities produced by the members of the association that are marketed by the association on behalf of the members of the association but shall apply to the producers as persons.
+
+#### (3) Trusts and estates
+
+#### (A) In general
+
+&emsp;&emsp;With respect to irrevocable trusts and estates, the Secretary shall administer this section through section 1308–5 of this title in such manner as the Secretary determines will ensure the fair and equitable treatment of the beneficiaries of the trusts and estates.
+
+#### (B) Irrevocable trust
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In order for a trust to be considered an irrevocable trust, the terms of the trust agreement shall not—
+
+&emsp;&emsp;&emsp;&emsp;(I) allow for modification or termination of the trust by the grantor;
+
+&emsp;&emsp;&emsp;&emsp;(II) allow for the grantor to have any future, contingent, or remainder interest in the corpus of the trust; or
+
+&emsp;&emsp;&emsp;&emsp;(III) except as provided in clause (ii), provide for the transfer of the corpus of the trust to the remainder beneficiary in less than 20 years beginning on the date the trust is established.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Clause (i)(III) shall not apply in a case in which the transfer is—
+
+&emsp;&emsp;&emsp;&emsp;(I) contingent on the remainder beneficiary achieving at least the age of majority; or
+
+&emsp;&emsp;&emsp;&emsp;(II) contingent on the death of the grantor or income beneficiary.
+
+#### (C) Revocable trust
+
+&emsp;&emsp;For the purposes of this section through section 1308–5 of this title, a revocable trust shall be considered to be the same person as the grantor of the trust.
+
+#### (4) Cash rent tenants
+
+#### (A) Definition
+
+&emsp;&emsp;In this paragraph, the term “cash rent tenant” means a person or legal entity that rents land—
+
+&emsp;&emsp;&emsp;(i) for cash; or
+
+&emsp;&emsp;&emsp;(ii) for a crop share guaranteed as to the amount of the commodity to be paid in rent.
+
+#### (B) Restriction
+
+&emsp;&emsp;A cash rent tenant who makes a significant contribution of active personal management, but not of personal labor, with respect to a farming operation shall be eligible to receive a payment described in subsection (b) or (c) only if the tenant makes a significant contribution of equipment to the farming operation.
+
+#### (5) Federal agencies
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding subsection (d), a Federal agency shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or title XII of this Act \[16 U.S.C. 3801 et seq.\].
+
+#### (B) Land rental
+
+&emsp;&emsp;A lessee of land owned by a Federal agency may receive a payment described in subsection (b), (c), or (d) if the lessee otherwise meets all applicable criteria.
+
+#### (6) State and local governments
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding subsection (d), except as provided in subsection (g), a State or local government, or political subdivision or agency of the government, shall not be eligible to receive any payment, benefit, or loan under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or title XII of this Act \[16 U.S.C. 3801 et seq.\].
+
+#### (B) Tenants
+
+&emsp;&emsp;A lessee of land owned by a State or local government, or political subdivision or agency of the government, may receive payments described in subsections (b), (c), and (d) if the lessee otherwise meets all applicable criteria.
+
+#### (7) Changes in farming operations
+
+#### (A) In general
+
+&emsp;&emsp;In the administration of this section through section 1308–5 of this title, the Secretary may not approve any change in a farming operation that otherwise will increase the number of persons to which the limitations under this section are applied unless the Secretary determines that the change is bona fide and substantive.
+
+#### (B) Family members
+
+&emsp;&emsp;The addition of a family member to a farming operation under the criteria set out in section 1308–1 of this title shall be considered a bona fide and substantive change in the farming operation.
+
+#### (8) Death of owner
+
+#### (A) In general
+
+&emsp;&emsp;If any ownership interest in land or a commodity is transferred as the result of the death of a program participant, the new owner of the land or commodity may, if the person is otherwise eligible to participate in the applicable program, succeed to the contract of the prior owner and receive payments subject to this section without regard to the amount of payments received by the new owner.
+
+#### (B) Limitations on prior owner
+
+&emsp;&emsp;Payments made under this paragraph shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
+
+#### (g) Public schools
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (f)(6)(A), a State or local government, or political subdivision or agency of the government, shall be eligible, subject to the limitation in paragraph (2), to receive a payment described in subsection (b) or (c) for land owned by the State or local government, or political subdivision or agency of the government, that is used to maintain a public school.
+
+#### (2) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;For each State, the total amount of payments described in subsections (b) and (c) that are received collectively by the State and local government and all political subdivisions or agencies of those governments shall not exceed $500,000.
+
+#### (B) Exception
+
+&emsp;&emsp;The limitation in subparagraph (A) shall not apply to States with a population of less than 1,500,000.
+
+#### (h) Time limits; reliance
 
 Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730.)
 
 #### References in Text
 
-The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (b) to (d), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Subtitles A, B, and C of title I of the Act are classified generally to subchapters I (§7911 et seq.), II (§7931 et seq.), and III (§7951 et seq.), respectively, of chapter 106 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(1), (2), (c)(1), (2), (d), and (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. Subtitles A and C of title I of the Act are classified generally to subchapters I (§8711 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-Subtitle D of title XII, referred to in subsec. (e)(4), means subtitle D of title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended, which is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16, Conservation.
-
-Section 1308–1(b)(1) of this title, referred to in subsec. (e)(5), does not contain a subpar. (B).
+Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -119,6 +287,18 @@ A prior section 1308, Pub. L. 97–98, title XI, §1101, Dec. 22, 1981, 95 Stat.
 Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §1603(b)(1)(A), inserted “through section 1308–5 of this title” after “this section” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–246, §1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+
+Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘loan commodity’ has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey.”
+
+Subsec. (a)(3) to (5). Pub. L. 110–246, §1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
+
+Subsecs. (b) to (d). Pub. L. 110–246, §1603(b)(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to limitation on direct payments, limitation on counter-cyclical payments, and limitation on marketing loan gains and loan deficiency payments, respectively.
+
+Subsecs. (e) to (h). Pub. L. 110–246, §1603(b)(3), added subsecs. (e) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (e) and (f) which related to issuance of regulations defining “person” and prescribing rules determined necessary to assure a fair and reasonable application of section limitation, and inapplicability to public schools of provisions limiting payments to any person.
 
 2002—Pub. L. 107–171, §1603(a), substituted section catchline for former section catchline.
 
@@ -138,7 +318,7 @@ Subsec. (g). Pub. L. 107–171, §1603(b)(3), redesignated par. (7) as subsec. (
 
 1990—Par. (1). Pub. L. 101–624, §1111(a)(1), designated existing provisions as subpar. (A), substituted “1995” for “1990”, and added subpar. (B).
 
-Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops”and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
+Par. (2)(A). Pub. L. 101–624, §1111(a)(2), substituted “1991 through 1995 crops” for “1987 through 1990 crops” and substituted “and” for “honey, and (with respect to clause (iii)(II) of subparagraph (B))” after “rice,”.
 
 Par. (2)(B)(iii). Pub. L. 101–624, §1111(a)(3)(A), added cl. (iii) and struck out former cl. (iii) which read as follows: “(iii)(I) any gain realized by a producer from repaying a loan for a crop of wheat, feed grains, upland cotton, rice, or honey at the rate permitted under section 107D(a)(5), 105C(a)(4), 103A(a)(5), 101A(a)(5), or 201(b)(2), respectively, of the Agricultural Act of 1949 or (II) any gain realized by a producer from repaying a loan for a crop of any other commodity at a lower level than the original loan level established under the Agricultural Act of 1949;”
 
@@ -190,7 +370,11 @@ Par. (3). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(1), temporarily substi
 
 Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily inserted provision that the term “person” not include any cooperative association of producers that markets commodities for producers with respect to the commodities so marketed for producers. See Effective and Termination Dates of 1986 Amendment note below.
 
-Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for“lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted “lands or animals owned” for “lands owned” and inserted “or animals are husbanded”. See Effective and Termination Dates of 1986 Amendment note below.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -213,6 +397,12 @@ Section 108(a) of Pub. L. 99–500 and Pub. L. 99–591 provided that the amendm
 Section 108(b) of Pub. L. 99–500 and Pub. L. 99–591 provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\].”
 
 #### Transition Provisions
+
+Pub. L. 110–234, title I, §1603(h), May 22, 2008, 122 Stat. 1012, and Pub. L. 110–246, §4(a), title I, §1603(h), June 18, 2008, 122 Stat. 1664, 1740, provided that: “Section 1001, 1001A, and 1001B of the Food Security Act of 1985 (7 U.S.C. 1308, 1308–1, 1308–2), as in effect on September 30, 2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts.”
+
+\[For definition of “covered commodity” as used in section 1603(h) of Pub. L. 110–246, set out above, see section 8702 of this title.\]
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Pub. L. 107–171, title I, §1603(d), May 13, 2002, 116 Stat. 215, provided that: “Section 1001 of the Food Security Act of 1985 (7 U.S.C. 1308), as in effect on the day before the date of the enactment of this Act \[May 13, 2002\], shall continue to apply with respect to the 2001 crop of any covered commodity.”
 
@@ -262,11 +452,11 @@ Field instructions.—Any field instructions relating to, or other supplemental 
 
 “(b)
 
-Allowance for Equitable Reorganizations.—To allow for the equitable reorganization of farming operations to conform to the limitations and restrictions contained in the amendments made to the Food Security Act of 1985 by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and section 1308–1 of this title\] in cases in which the application of such limitations and restrictions will reduce payments to the farming operation (as determined by the Secretary), the Secretary may waive the application of the substantive change rule under section 1001(5)(E) \[section 1308(5)(E) \[now 1308(e)(5)\] of this title\], as added by section 1303 of this Act, or any regulation of the Secretary containing a comparable rule, to any reorganization applied for prior to the final date when producers are eligible to enter into contracts to participate in the commodity programs established for the 1989 crop year, to the extent the Secretary determines appropriate to facilitate any such equitable reorganizations that does not increase such payments.”
+Allowance for Equitable Reorganizations.—To allow for the equitable reorganization of farming operations to conform to the limitations and restrictions contained in the amendments made to the Food Security Act of 1985 by this subtitle \[enacting sections 1308–1 to 1308–3 of this title and amending this section and section 1308–1 of this title\] in cases in which the application of such limitations and restrictions will reduce payments to the farming operation (as determined by the Secretary), the Secretary may waive the application of the substantive change rule under section 1001(5)(E) \[section 1308(5)(E) of this title\], as added by section 1303 of this Act, or any regulation of the Secretary containing a comparable rule, to any reorganization applied for prior to the final date when producers are eligible to enter into contracts to participate in the commodity programs established for the 1989 crop year, to the extent the Secretary determines appropriate to facilitate any such equitable reorganizations that does not increase such payments.”
 
 #### Conservation Reserve Application
 
-Section 1305(d) of Pub. L. 100–203 provided that: “Notwithstanding section 1234(f)(2) of the Food Security Act of 1985 (16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) \[now 1308(e)–(g)\] of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
+Section 1305(d) of Pub. L. 100–203 provided that: “Notwithstanding section 1234(f)(2) of the Food Security Act of 1985 (16 U.S.C. 3834(f)), paragraphs (5) through (7) of section 1001 \[section 1308(5)–(7) of this title\], as amended by this subtitle, and sections 1001A through 1001C, of the Food Security Act of 1985 \[sections 1308–1 to 1308–3 of this title\] shall apply to the conservation reserve program under subtitle D of title XII of such Act (16 U.S.C. 3830 et seq.) with respect to rental payments to persons under contracts entered into after the date of the enactment of this Act \[Dec. 22, 1987\], except with respect to landlords that receive cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.”
 
 #### Revision of Regulations
 
@@ -285,6 +475,4 @@ Section 108(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that:
 #### Separate Person Status Among Family Members
 
 Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title VI, §636\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §636\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

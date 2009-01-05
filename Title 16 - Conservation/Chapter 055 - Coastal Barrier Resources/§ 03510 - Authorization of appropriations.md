@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated to the Secretary to carry out this chapter $2,000,000 for each of fiscal years 2006 through 2010.
 
-(Pub. L. 97–348, §10, formerly §12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, §13(a), Nov. 16, 1990, 104 Stat. 2941; Pub. L. 103–461, §1(c), Nov. 2, 1994, 108 Stat. 4804; renumbered §10 and amended Pub. L. 106–514, §5, Nov. 13, 2000, 114 Stat. 2396; Pub. L. 109–226, §5, May 25, 2006, 120 Stat. 384.)
+(Pub. L. 97–348, §10, formerly §12, Oct. 18, 1982, 96 Stat. 1659; Pub. L. 101–591, §13(a), Nov. 16, 1990,104 Stat. 2941; Pub. L. 103–461, §1(c), Nov. 2, 1994, 108 Stat. 4804; renumbered §10 and amended Pub. L. 106–514, §5, Nov. 13, 2000, 114 Stat. 2396; Pub. L. 109–226, §5, May 25, 2006, 120 Stat. 384.)
 
 #### Prior Provisions
 

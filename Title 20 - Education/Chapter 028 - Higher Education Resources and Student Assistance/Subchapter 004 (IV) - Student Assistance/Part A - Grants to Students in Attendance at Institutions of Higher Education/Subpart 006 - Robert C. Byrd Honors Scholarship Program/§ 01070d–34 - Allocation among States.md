@@ -6,7 +6,7 @@ From the sums appropriated pursuant to the authority of section 1070d–41 of th
 
 #### (b) Number of scholarships available
 
-The number of scholarships to be made available in a State for any fiscal year shall bear thesame ratio to the number of scholarships made available to all States as the State's population ages 5 through 17 bears to the population ages 5 through 17 in all the States, except that not less than 10 scholarships shall be made available to any State.
+The number of scholarships to be made available in a State for any fiscal year shall bear the same ratio to the number of scholarships made available to all States as the State's population ages 5 through 17 bears to the population ages 5 through 17 in all the States, except that not less than 10 scholarships shall be made available to any State.
 
 #### (c) Use of census data
 
@@ -30,7 +30,7 @@ Notwithstanding section 1469a of title 48,<sup>1</sup> funds allocated under thi
 
 &emsp;A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
 
-(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668.)
+(Pub. L. 89–329, title IV, §419D, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(c), July 23, 1992, 106 Stat. 509; Pub. L. 103–208, §2(b)(29), Dec. 20, 1993, 107 Stat. 2460; Pub. L.105–244, title IV, §409(a), Oct. 7, 1998, 112 Stat. 1668.)
 
 #### References in Text
 

@@ -36,7 +36,7 @@ Expenses.—(1) Expenses incurred as a direct result of providing humanitarian d
 
 (d)
 
-Annual Report.—The Secretary of Defense shall include in the annual report under section 401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
+Annual Report.—The Secretary of Defense shall include in the annual report under section401 of this title a separate discussion of activities carried out under this section during the preceding fiscal year, including—
 
 &emsp;(1) a list of the countries in which humanitarian demining assistance was carried out during the preceding fiscal year;
 

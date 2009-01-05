@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chaptershall be authorized to operate vending facilities on any Federal property.
+For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
 
 #### (b) Preferences regulations; justification for limitation on operation
 
@@ -36,7 +36,7 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 #### Short Title of 1974 Amendment
 
-Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
+Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
 An identical provision is in section 200 of Pub. L. 93–651. See Codification note above.
 

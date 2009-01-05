@@ -36,9 +36,9 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 (b)
 
-Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on December 31, 2008, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
+Air Carrier Liability for Third Party Claims Arising Out of Acts of Terrorism.—For acts of terrorism committed on or to an air carrier during the period beginning on September 22, 2001, and ending on May 31, 2009, the Secretary may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this subsection) under a cause of action arising out of such act. The Secretary may extend the provisions of this subsection to an aircraft manufacturer (as defined in section 44301) of the aircraft of the air carrier involved.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 108–447, div. H, title I, §106(b), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(b), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(b), Dec. 26, 2007, 121 Stat. 2381.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–296, title XII, §1201, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(b), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(3), (b), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 108–447, div. H, title I, §106(b), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(b), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(b), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(7), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(d), Sept. 30, 2008, 122 Stat. 3718.)
 
 Historical and Revision Notes
 
@@ -64,6 +64,10 @@ The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and red
 
 #### Amendments
 
+2008—Subsec. (b). Pub. L. 110–330 substituted “May 31, 2009,” for “March 31, 2009,”.
+
+Pub. L. 110–253 substituted “March 31, 2009” for “December 31, 2008”.
+
 2007—Subsec. (b). Pub. L. 110–161 substituted “2008,” for “2006,”.
 
 2005—Subsec. (b). Pub. L. 109–115 substituted “2006” for “2005”.
@@ -87,6 +91,12 @@ Pub. L. 108–11 substituted “2004” for “2003”.
 2001—Pub. L. 107–42, §201(b)(1)(A), inserted “, or reimburse insurance costs, as” after “insurance and reinsurance” in introductory provisions.
 
 Par. (1). Pub. L. 107–42, §201(b)(1)(B), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–330 effective Oct. 1, 2008, see section 5(<i>l</i>) of Pub. L. 110–330, set out as a note under section 40117 of this title.
+
+Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. L. 110–253, set out as a note under section 9502 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2003 Amendment
 

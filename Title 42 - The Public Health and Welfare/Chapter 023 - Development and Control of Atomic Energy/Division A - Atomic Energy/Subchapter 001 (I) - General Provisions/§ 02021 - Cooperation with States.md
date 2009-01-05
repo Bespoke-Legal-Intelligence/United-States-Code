@@ -10,7 +10,7 @@ It is the purpose of this section—
 
 &emsp;(3) to promote an orderly regulatory pattern between the Commission and State governments with respect to nuclear development and use and regulation of byproduct, source, and special nuclear materials;
 
-&emsp;(4) to establish procedures and criteria for discontinuance of certain of the Commission'sregulatory responsibilities with respect to byproduct, source, and special nuclear materials, and the assumption thereof by the States;
+&emsp;(4) to establish procedures and criteria for discontinuance of certain of the Commission's regulatory responsibilities with respect to byproduct, source, and special nuclear materials, and the assumption thereof by the States;
 
 &emsp;(5) to provide for coordination of the development of radiation standards for the guidance of Federal agencies and cooperation with the States; and
 
@@ -58,7 +58,7 @@ The Commission shall enter into an agreement under subsection (b) of this sectio
 
 #### (f) Exemptions
 
-The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
+The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriateto carry out any agreement entered into pursuant to subsection (b) of this section.
 
 #### (g) Compatible radiation standards
 
@@ -98,7 +98,7 @@ No agreement entered into under subsection (b) of this section, and no exemption
 
 #### (n) “State” and “agreement” defined
 
-As used in this section, the term “State” means any State, Territory, or possession of the United States, the Canal Zone, Puerto Rico, and the District of Columbia. As used in this section, the term “agreement” includes any amendment to any agreement.
+As used in this section, the term “State” means any State, Territory, or possession of theUnited States, the Canal Zone, Puerto Rico, and the District of Columbia. As used in this section, the term “agreement” includes any amendment to any agreement.
 
 #### (<i>o</i>) State compliance requirements: compliance with section 2113(b) of this title and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements
 

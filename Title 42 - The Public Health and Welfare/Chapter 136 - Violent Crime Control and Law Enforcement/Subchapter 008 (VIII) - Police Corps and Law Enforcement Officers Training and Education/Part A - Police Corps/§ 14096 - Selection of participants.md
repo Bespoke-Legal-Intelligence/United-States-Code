@@ -38,7 +38,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 #### (c) Recruitment of minorities
 
-Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsection does not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b) of this section.
+Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsectiondoes not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b) of this section.
 
 #### (d) Enrollment of applicant
 
@@ -56,7 +56,7 @@ Each State participating in the Police Corps program shall make special efforts 
 
 (2) A participant who requests a leave of absence from educational study, training or service for a period not to exceed 1 year (or 18 months in the aggregate in the event of multiple requests) for any reason other than those listed in paragraph (1) may be granted such leave of absence by the State.
 
-(3) A participant who requests a leave of absence from educational study or training for aperiod not to exceed 30 months to serve on an official church mission may be granted such leave of absence.
+(3) A participant who requests a leave of absence from educational study or training for a period not to exceed 30 months to serve on an official church mission may be granted such leave of absence.
 
 #### (f) Admission of applicants
 

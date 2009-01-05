@@ -34,7 +34,7 @@ Notwithstanding any other provision of this subpart, the following rules shall a
 
 #### (2) Identification required
 
-&emsp;A security shall not be treated as described in subparagraph (A), (B), or (C) of paragraph\(1), as the case may be, unless such security is clearly identified in the dealer's records as being described in such subparagraph before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
+&emsp;A security shall not be treated as described in subparagraph (A), (B), or (C) of paragraph (1), as the case may be, unless such security is clearly identified in the dealer's records as being described in such subparagraph before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
 
 #### (3) Securities subsequently not exempt
 

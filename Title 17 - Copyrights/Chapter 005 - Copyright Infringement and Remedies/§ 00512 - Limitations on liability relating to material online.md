@@ -38,7 +38,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;(B) the service provider described in paragraph (1) complies with rules concerning the refreshing, reloading, or other updating of the material when specified by the person making the material available online in accordance with a generally accepted industry standard data communications protocol for the system or network through which that person makes the material available, except that this subparagraph applies only if those rules are not used by the person described in paragraph (1)(A) to prevent or unreasonably impair the intermediate storage to which this subsection applies;
 
-&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associated with the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
+&emsp;&emsp;(C) the service provider does not interfere with the ability of technology associatedwith the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology—
 
 &emsp;&emsp;&emsp;(i) does not significantly interfere with the performance of the provider's system or network or with the intermediate storage of the material;
 
@@ -96,7 +96,7 @@ Elements of notification.—
 
 &emsp;&emsp;&emsp;(iv) Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
 
-&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+&emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use ofthe material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
 &emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
@@ -236,7 +236,7 @@ Injunctions.—The following rules shall apply in the case of any application fo
 
 &emsp;(1)
 
-Scope of relief.—(A) With respect to conduct other than that which qualifies forthe limitation on remedies set forth in subsection (a), the court may grant injunctive relief with respect to a service provider only in one or more of the following forms:
+Scope of relief.—(A) With respect to conduct other than that which qualifies for the limitation on remedies set forth in subsection (a), the court may grant injunctive relief with respect to a service provider only in one or more of the following forms:
 
 &emsp;&emsp;(i) An order restraining the service provider from providing access to infringing material or activity residing at a particular online site on the provider's system or network.
 

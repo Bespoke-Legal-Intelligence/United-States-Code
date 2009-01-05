@@ -32,7 +32,7 @@ For the purpose of section 4371(3), the term “policy of reinsurance” means a
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–455 substituted “section 4371” for “this subchapter”, and inserted provision thatterm does not include a foreign government, or municipal or other corporation exercising the taxing power.
+1976—Subsec. (a). Pub. L. 94–455 substituted “section 4371” for “this subchapter”, and inserted provision that term does not include a foreign government, or municipal or other corporation exercising the taxing power.
 
 Subsec. (c). Pub. L. 94–455 substituted “this chapter” for “this subchapter”.
 

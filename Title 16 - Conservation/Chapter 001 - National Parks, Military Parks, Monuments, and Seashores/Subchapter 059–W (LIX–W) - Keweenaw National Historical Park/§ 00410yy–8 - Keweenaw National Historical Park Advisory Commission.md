@@ -62,7 +62,7 @@ There is established the Keweenaw National Historical Park Advisory Commission. 
 
 #### (B) Initial members
 
-&emsp;&emsp;Of the members first appointed under subsection (b)(1) of this section, the Secretary shall appoint—
+&emsp;&emsp;Of the members first appointed under subsection (b)(1),<sup>2</sup> the Secretary shall appoint—
 
 &emsp;&emsp;&emsp;(i) two members for a term of 1 year;
 
@@ -88,7 +88,7 @@ Members shall serve without pay. Members who are full-time officers or employees
 
 #### (e) Travel expenses
 
-While away from their homes or regular places of business in the performance of services for the Commission, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+While away from their homes or regular places of business in the performance of services forthe Commission, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (f) Mails
 
@@ -113,4 +113,6 @@ The Commission may, for the purpose of carrying out this subchapter, hold such h
 Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1),”.</i>
 

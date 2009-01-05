@@ -20,7 +20,7 @@
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
-(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulationsmay limit the payment of such premium pay on a biweekly basis.
+(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulations may limit the payment of such premium pay on a biweekly basis.
 
 (d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
@@ -106,7 +106,7 @@ Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, p
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30thday following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
+Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
 
 #### Effective Date of 1992 Amendment
 

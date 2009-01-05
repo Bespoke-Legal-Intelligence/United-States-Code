@@ -4,7 +4,7 @@
 
 #### (1) Tampering
 
-&emsp;If any person tampers with a mechanical dye injection system used to indelibly dye fuel for purposes of section 4082, such person shall pay a penalty in addition to the tax (if any).
+&emsp;If any person tampers with a mechanical dye injection system used to indelibly dye fuel forpurposes of section 4082, such person shall pay a penalty in addition to the tax (if any).
 
 #### (2) Failure to maintain security requirements
 

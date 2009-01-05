@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsection (h) of this section, the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C of this subchapter.
 
-(2) Each advisory council for a national research institute may recommend to the Secretary acceptance, in accordance with section 238 of this title, of conditional gifts for study,investigation, or research respecting the diseases, disorders, or other aspect of human health with respect to which the institute was established, for the acquisition of grounds, or for the construction, equipping, or maintenance of facilities for the institute.
+(2) Each advisory council for a national research institute may recommend to the Secretary acceptance, in accordance with section 238 of this title, of conditional gifts for study, investigation, or research respecting the diseases, disorders, or other aspect of human health with respect to which the institute was established, for the acquisition of grounds, or for the construction, equipping, or maintenance of facilities for the institute.
 
 (3) Each advisory council for a national research institute—
 
@@ -38,7 +38,7 @@
 
 #### (c) Term of office; reappointment; vacancy
 
-The term of office of an appointed member of an advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term for 180 days after the date of such expiration. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of an advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of themembers do not all expire in the same year. A member may serve after the expiration of the member's term for 180 days after the date of such expiration. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; term of office
 
@@ -114,7 +114,7 @@ Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted “shall be nonvotin
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

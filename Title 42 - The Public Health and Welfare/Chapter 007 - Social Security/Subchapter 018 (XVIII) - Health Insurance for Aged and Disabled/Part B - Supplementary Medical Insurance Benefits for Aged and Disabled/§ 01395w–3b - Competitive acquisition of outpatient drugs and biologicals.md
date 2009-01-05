@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to competitively biddable drugs and biologicals which are supplied under the program in an area and which are prescribed by a physician who has elected this section to apply—
+&emsp;&emsp;With respect to competitively biddable drugs and biologicals which are suppliedunder the program in an area and which are prescribed by a physician who has elected this section to apply—
 
 &emsp;&emsp;&emsp;(i) the claim for such drugs and biologicals shall be submitted by the contractor that supplied the drugs and biologicals;
 
@@ -124,7 +124,7 @@
 
 #### (II) Shipment methodology
 
-&emsp;&emsp;&emsp;&emsp;The entity has arrangements in effect for the shipment at least 5 days each week of competitively biddable drugs and biologicals under the contract and for the timely delivery (including for emergency situations) of such drugs and biologicals in the area under the contract.
+&emsp;&emsp;&emsp;&emsp;The entity has arrangements in effect for the shipment at least 5 days each week of competitively biddable drugs and biologicals under the contract andfor the timely delivery (including for emergency situations) of such drugs and biologicals in the area under the contract.
 
 #### (ii) Quality, service, financial performance and solvency standards
 
@@ -280,7 +280,7 @@
 
 #### (1) Application of coinsurance
 
-&emsp;Payment under this section for competitively biddable drugs and biologicals shall bein an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
+&emsp;Payment under this section for competitively biddable drugs and biologicals shall be in an amount equal to 80 percent of the payment basis described in subsection (d)(1) of this section.
 
 #### (2) Deductible
 
@@ -364,7 +364,7 @@ Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provide
 
 Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnishedby physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

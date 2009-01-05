@@ -44,11 +44,7 @@ Investment.—Amounts in the Fund that are not currently needed for the purpose 
 
 Regulations.—The Secretary shall prescribe regulations the Secretary considers necessary to carry out this section.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1625; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (d), Jan. 6, 2006, 119 Stat. 3555, 3557.)
-
-#### Amendment Not Shown in Text
-
-<i>This section was derived from section 1279f of the former Appendix to this title, which was amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), Jan. 6, 2006, 119 Stat. 3555. For applicability of that amendment to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Section 1279f of the former Appendix to this title was amended by striking “Secretary” each place it appears and inserting “Secretary or Administrator”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1625; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(H), (d), Jan. 6, 2006, 119 Stat. 3555, 3557; Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -84,5 +80,11 @@ June 29, 1936, ch. 858, title XI, §1111, as added Pub. L. 104–297, title III,
 
 #### Codification
 
-This section was derived from section 1111 of act June 29, 1936, ch. 858, as added by Pub. L. 104–297, §303, which was classified to section 1279f of the former Appendix to this title. Section 1111 was renumbered section 1113 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+This section was derived from section 1111 of act June 29, 1936, as added by Pub. L. 104–297, §303, which was classified to section 1279f of the former Appendix to this title. Section 1111 was renumbered section 1113 of the Act by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, §3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+#### Amendments
+
+2008—Pub. L. 110–181 repealed Pub. L. 109–163, §3507(a)(1)(H), (d). See 2006 Amendment note below and Codification note above.
+
+2006—Pub. L. 109–163, §3507(a)(1)(H), which directed the amendment of section 1279f of the former Appendix to this title from which this section was derived by substituting “Secretary or Administrator” for “Secretary” wherever appearing, was repealed by Pub. L. 110–181, §3522(b). See Historical and Revision notes above.
 

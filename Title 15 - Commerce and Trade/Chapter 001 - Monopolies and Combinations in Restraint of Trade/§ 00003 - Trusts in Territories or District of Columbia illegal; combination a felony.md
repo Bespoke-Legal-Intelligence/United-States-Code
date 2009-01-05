@@ -28,7 +28,7 @@ Effective Date.—Except as provided in subsection (b), this subtitle \[probably
 
 “(b)
 
-Application to Cases.—(1) Section 14102(f) \[repealing section 30 of this title\] shall apply to cases pending on or after the date of the enactment of this Act.
+Application to Cases.—(1) Section 14102(f) \[repealing section 30 of this title\] shall apply to casespending on or after the date of the enactment of this Act.
 
-“(2) The amendments made by subsections (a), (b), and (c) of section 14102 \[amending this section and sections 12 and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing section 31 of this title, amendingprovisions set out as a note under section 8 of this title, and repealing provisions set out as a note under section 15 of this title\] shall apply only with respect to cases commenced on or after the date of enactment of this Act.”
+“(2) The amendments made by subsections (a), (b), and (c) of section 14102 \[amending this section and sections 12 and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing section 31 of this title, amending provisions set out as a note under section 8 of this title, and repealing provisions set out as a note under section 15 of this title\] shall apply only with respect to cases commenced on or after the date of enactment of this Act.”
 

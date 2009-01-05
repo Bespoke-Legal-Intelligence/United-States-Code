@@ -98,7 +98,7 @@ Availability of Amounts.—Amounts appropriated under subsection (a)(1) and (2)(
 
 (g)
 
-Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for anyprior fiscal year is less than the amount authorized for that year.
+Authorizations Increased by Prior Year Deficiencies.—An amount greater than that authorized for a fiscal year may be appropriated to the extent that the amount appropriated for any prior fiscal year is less than the amount authorized for that year.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 937.)
 
@@ -194,7 +194,7 @@ Feb. 5, 1976, Pub. L. 94–210, 90 Stat. 31, §704(a) (4th–last sentences); ad
 
 In subsections (a) and (f), the text of 45:854(a) (2d sentence cl. (3)(A)) is omitted as executed.
 
-In subsection (a)(1), before clause (A), the text of 45:854(a) (1st sentence) is omitted as surplus because of section 24902(a) of the revised title. In clause (B)(i), the words “if the National Railroad Passenger Corporation receives notification on or before June 1, 1983, from . . . that such State has approved” and “and if such Corporation determines that such plan is feasible” are omitted as executed. The words “rehabilitation and other . . . (including upgrading track and the signal system, ensuring safety at public and private highway and pedestrian crossings by improving signals or eliminating such crossings, and the improvement of operational portions of stations related to intercity rail passenger service)” are omitted as surplus. In clause (C), before subclause (i), the words “with respect to the main line of the Northeast Corridor” are omitted as surplus. In subclauses (i), (ii), (iv)–(viii), (xv), and (xvii), the word “Washington” is omitted as surplus. In subclause (xx), the words “at locations” are omitted as surplus.
+In subsection (a)(1), before clause (A), the text of 45:854(a) (1st sentence) is omitted as surplus because of section 24902(a) of the revised title. In clause (B)(i), the words “if the National Railroad Passenger Corporation receives notification on or before June 1, 1983, from . . . that such State has approved” and “and if such Corporation determines that such plan is feasible” are omitted as executed. The words “rehabilitation and other . . . (including upgrading track and the signal system, ensuring safety at public and private highway and pedestrian crossings by improving signals or eliminating such crossings, and the improvement of operational portions of stations related to intercity rail passenger service)” are omitted as surplus. In clause (C), before subclause (i), the words “with respect to the main line of the Northeast Corridor” are omitted as surplus. In subclauses (i), (ii), (iv)–(viii), (xv), and (xvii),the word “Washington” is omitted as surplus. In subclause (xx), the words “at locations” are omitted as surplus.
 
 In subsection (a)(2)(C), the words “passenger radio mobile telephone service on high-speed rail passenger transportation” are substituted for “high-speed rail passenger rail telephone service” for consistency in this chapter.
 
@@ -215,4 +215,6 @@ Section 24902 of this title, referred to in subsecs. (a)(1), (2)(A), (E), was am
 Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 
 Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to section 602 of Title 45, Railroads, prior to repeal by Pub. L. 102–533, §7(c), Oct. 27, 1992, 106 Stat. 3519.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

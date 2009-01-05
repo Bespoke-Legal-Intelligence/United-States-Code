@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdictionof that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 

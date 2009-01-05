@@ -6,7 +6,7 @@ For purposes of this section, the term “energy action” means any matter requ
 
 #### (b) Transmittal of energy action to Congress
 
-The President shall transmit any energy action (bearing an identification number) to bothHouses of Congress on the same day. If both Houses are not in session on the day any energy action is received by the appropriate officers of each House, for purposes of this section such energy action shall be deemed to have been transmitted on the first succeeding day on which both Houses are in session.
+The President shall transmit any energy action (bearing an identification number) to both Houses of Congress on the same day. If both Houses are not in session on the day any energy action is received by the appropriate officers of each House, for purposes of this section such energy action shall be deemed to have been transmitted on the first succeeding day on which both Houses are in session.
 
 #### (c) Effective date of energy action
 

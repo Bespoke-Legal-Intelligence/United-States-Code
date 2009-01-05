@@ -10,13 +10,13 @@ The requirements of this section shall apply to—
 
 &emsp;(3) each joint committee of the Congress;
 
-&emsp;(4) the Capitol Guide Service;
+&emsp;(4) the Office of Congressional Accessibility Services;
 
 &emsp;(5) the Capitol Police;
 
 &emsp;(6) the Congressional Budget Office;
 
-&emsp;(7) the Office of the Architect of the Capitol (including the Senate Restaurants and the Botanic Garden);
+&emsp;(7) the Office of the Architect of the Capitol (including the Botanic Garden);
 
 &emsp;(8) the Office of the Attending Physician;
 
@@ -108,7 +108,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 &emsp;Subsection (g) of this section shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §210, Jan. 23, 1995, 109 Stat. 13; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–1, title II, §210, Jan. 23, 1995, 109 Stat. 13; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–279, §1(g)(2), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(3), Oct. 20, 2008, 122 Stat. 4996.)
 
 #### References in Text
 
@@ -122,5 +122,15 @@ Section is comprised of section 210 of Pub. L. 104–1. Subsec. (g) of section 2
 
 #### Amendments
 
+2008—Subsec. (a)(4). Pub. L. 110–437 substituted “the Office of Congressional Accessibility Services;” for “the Capitol Guide Service;”.
+
+Subsec. (a)(7). Pub. L. 110–279 substituted “the Botanic Garden” for “the Senate Restaurants and the Botanic Garden”.
+
 2004—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
+
+Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
 

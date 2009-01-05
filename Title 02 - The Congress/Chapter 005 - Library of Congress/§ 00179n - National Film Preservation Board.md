@@ -4,7 +4,7 @@
 
 #### (1) Members
 
-&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarianshall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
+&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarian shall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
 
 &emsp;&emsp;(A) The Academy of Motion Picture Arts and Sciences.
 
@@ -14,13 +14,13 @@
 
 &emsp;&emsp;(D) The National Society of Film Critics.
 
-&emsp;&emsp;(E) The Society for Cinema Studies.
+&emsp;&emsp;(E) The Society for Cinema and Media Studies.
 
 &emsp;&emsp;(F) The American Film Institute.
 
-&emsp;&emsp;(G) The Department of Film and Television of the School of Theater, Film and Television at the University of California, Los Angeles.
+&emsp;&emsp;(G) The Department of Film, Television, and Digital Media of the School of Theater, Film and Television at the University of California, Los Angeles.
 
-&emsp;&emsp;(H) The Department of Film and Television of the Tisch School of the Arts at New York University.
+&emsp;&emsp;(H) The Department of Cinema Studies of the Tisch School of the Arts at New York University.
 
 &emsp;&emsp;(I) The University Film and Video Association.
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(K) The Alliance of Motion Picture and Television Producers.
 
-&emsp;&emsp;(L) The Screen Actors Guild of America.
+&emsp;&emsp;(L) Screen Actors Guild.
 
 &emsp;&emsp;(M) The National Association of Theater Owners.
 
@@ -78,13 +78,17 @@ The Board shall meet at least once each fiscal year. Meetings shall be at the ca
 
 The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 
-(Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, §302(b), Apr. 27, 2005, 119 Stat. 225.)
-
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
+(Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, §302(b), Apr. 27, 2005, 119 Stat. 225; Pub. L. 110–336, §3(a)(3), Oct. 2, 2008, 122 Stat. 3727.)
 
 #### Amendments
+
+2008—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
+
+Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
+
+Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
+
+Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
 
 2005—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
 

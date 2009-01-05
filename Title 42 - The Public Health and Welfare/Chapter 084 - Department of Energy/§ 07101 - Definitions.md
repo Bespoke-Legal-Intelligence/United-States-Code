@@ -14,7 +14,7 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–28, §1, July 18, 1997, 111 Stat. 245, provided that: “This Act \[amending sections 7191 and 7234 of this title and repealing section 776 of Title 15, Commerceand Trade\] may be cited as the ‘Department of Energy Standardization Act of 1997’.”
+Pub. L. 105–28, §1, July 18, 1997, 111 Stat. 245, provided that: “This Act \[amending sections 7191 and 7234 of this title and repealing section 776 of Title 15, Commerce and Trade\] may be cited as the ‘Department of Energy Standardization Act of 1997’.”
 
 #### Short Title of 1990 Amendment
 

@@ -10,13 +10,13 @@ With respect to projects for which awards of grants, cooperative agreements, or 
 
 #### (b) Requirement of application
 
-The Director may not, with respect to any program under this subchapter authorizing the provision of grants, cooperative agreements, or contracts, provide any such financial assistance unless an application for the assistance is submitted to the Secretary and the application is in such form, is made in such manner, and containssuch agreements, assurances, and information as the Director determines to be necessary to carry out the program involved.
+The Director may not, with respect to any program under this subchapter authorizing the provision of grants, cooperative agreements, or contracts, provide any such financial assistance unless an application for the assistance is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out the program involved.
 
 #### (c) Provision of supplies and services in lieu of funds
 
 #### (1) In general
 
-&emsp;Upon the request of an entity receiving a grant, cooperative agreement, or contract under this subchapter, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the entity in carrying out the project involved and, for such purpose, may detail to the entity any officer or employee of the Department of Health and Human Services.
+&emsp;Upon the request of an entity receiving a grant, cooperative agreement, or contract under this subchapter, the Secretary may,subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the entity in carrying out the project involved and, for such purpose, may detail to the entity any officer or employee of the Department of Health and Human Services.
 
 #### (2) Corresponding reduction in funds
 

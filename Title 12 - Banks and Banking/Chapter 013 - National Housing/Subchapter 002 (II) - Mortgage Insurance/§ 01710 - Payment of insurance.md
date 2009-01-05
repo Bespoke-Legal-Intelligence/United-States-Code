@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) the sale of the mortgaged property has been approved by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) the mortgagee receives an amount at least equal to the fair market value of the property (with appropriate adjustments), as determined by the Secretary; and
+&emsp;&emsp;&emsp;(ii) the mortgagee receives an amount at least equal to the fair market value of theproperty (with appropriate adjustments), as determined by the Secretary; and
 
 &emsp;&emsp;&emsp;(iii) the mortgagor has received an appropriate disclosure, as determined by the Secretary.
 
@@ -126,7 +126,7 @@ The debentures issued under this section to any mortagee <sup>1</sup> with resp
 
 #### (g) Handling and disposal of property; settlement of claims
 
-Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, the Secretary shall have power to deal with, complete, rent, renovate, modernize, insure, or sell for cash or credit, in his discretion, any properties conveyed to him in exchange for debentures and certificates of claim as provided in this section;and notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection, by way of compromise or otherwise, all claims against mortgagors assigned by mortgagees to the Secretary as provided in this section: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $1,000. The Secretary shall, by regulation, carry out a program of sales of such properties and shall develop and implement appropriate credit terms and standards to be used in carrying out the program. The power to convey and to execute in the name of the Secretary deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest therein heretofore or hereafter acquired by the Secretary pursuant to the provisions of this chapter, may be exercised by an officer appointed by him, without the execution of any express delegation of power or power of attorney: <i>Provided</i>, That nothing in this subsection shall be construed to prevent the Secretary from delegating such power by order or by power of attorney, in his discretion, to any officer, agent, or employee he may appoint: <i>And provided further</i>, That a conveyance or transfer of title to real or personal property or an interest therein to the Secretary of Housing and Urban Development, his successors and assigns, without identifying the Secretary therein, shall be deemed a proper conveyance or transfer to the same extent and of like effect as if the Secretary were personally named in such conveyance or transfer. The Secretary may sell real and personal property acquired by the Secretary pursuant to the provisions of this chapter on such terms and conditions as the Secretary may prescribe.
+Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, the Secretary shall have power to deal with, complete, rent, renovate, modernize, insure, or sell for cash or credit, in his discretion, any properties conveyed to him in exchange for debentures and certificates of claim as provided in this section; and notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection, by way of compromise or otherwise, all claims against mortgagors assigned by mortgagees to the Secretary as provided in this section: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $1,000. The Secretary shall, by regulation, carry out a program of sales of such properties and shall develop and implement appropriate credit terms and standards to be used in carrying out the program. The power to convey and to execute in the name of the Secretary deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest therein heretofore or hereafter acquired by the Secretary pursuant to the provisions of this chapter, may be exercised by an officer appointed by him, without the execution of any express delegation of power or power of attorney: <i>Provided</i>, That nothing in this subsection shall be construed to prevent the Secretary from delegating such power by order or by power of attorney, in his discretion, to any officer, agent, or employee he may appoint: <i>And provided further</i>, That a conveyance or transfer of title to real or personal property or an interest therein to the Secretary of Housing and Urban Development, his successors and assigns, without identifying the Secretary therein, shall be deemed a proper conveyance or transfer to the same extent and of like effect as if the Secretary were personally named in such conveyance or transfer. The Secretary may sell real and personal property acquired by the Secretary pursuant to the provisions of this chapter on such terms and conditions as the Secretary may prescribe.
 
 #### (h) Disposition of assets in revitalization areas
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 &emsp;&emsp;&emsp;(iii) is held by the Secretary pursuant to the payment of insurance benefits under this chapter.
 
-> &emsp;&emsp;For purposes of this subsection, an asset under this subparagraph shall be considered to be located in a revitalization area, or in the asset control area of a preferred purchaser, if the property described in clause (i) is located in such area.
+> &emsp;&emsp;For purposes of this subsection, an asset under this subparagraph shall be consideredto be located in a revitalization area, or in the asset control area of a preferred purchaser, if the property described in clause (i) is located in such area.
 
 #### (3) Revitalization areas
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of providing a public purpose discount for the bulk sales of eligible assets made under the program under this subsection by preferred purchasers, each eligible asset sold through the program under this subsection to a preferred purchaser shall be sold at a price that is discounted from the value of the asset, as based on the appraised value of the asset property (as such term is defined in paragraph (8)).
+&emsp;&emsp;For the purpose of providing a public purpose discount for the bulk sales of eligibleassets made under the program under this subsection by preferred purchasers, each eligible asset sold through the program under this subsection to a preferred purchaser shall be sold at a price that is discounted from the value of the asset, as based on the appraised value of the asset property (as such term is defined in paragraph (8)).
 
 #### (B) Appraisals
 
@@ -252,7 +252,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 #### (A) Assets
 
-&emsp;&emsp;The sale agreement shall identify the category or categories of eligible assets to bepurchased and, based on the purchaser's capacity to manage and dispose of assets, the maximum number of assets owned by the Secretary at the time the sale agreement is executed that shall be sold to the purchaser.
+&emsp;&emsp;The sale agreement shall identify the category or categories of eligible assets to be purchased and, based on the purchaser's capacity to manage and dispose of assets, the maximum number of assets owned by the Secretary at the time the sale agreement is executed that shall be sold to the purchaser.
 
 #### (B) Revitalization area and asset control area
 
@@ -436,7 +436,7 @@ Subsec. (g). Pub. L. 105–276, §601(d), inserted at end “The Secretary may s
 
 Subsecs. (h), (i). Pub. L. 105–276, §602, added subsec. (h) and redesignated former subsec. (h) as (i).
 
-Subsec. (k). Pub. L. 105–276, §601(c), struck out subsec. (k) which read as follows: “Notwithstanding any other provision of this section or of section 1739 or 1750c of this title and with respect to any debentures issued in exchange for properties conveyed to and accepted by the Secretary after September 23, 1959 in accordance with such sections, the Secretary may (1) include in debentures reasonable payments made by the mortgagee with the approval of the Secretary for the purpose of protecting, operating, or preserving the property, and taxes imposed upon any deed or any other instrument by which the property was acquired by the mortgagee and transferred or conveyed to the Secretary; (2) include in debentures as a portion of foreclosure costs (to the extent that foreclosure costs may be included in such debentures by any other provision of this chapter) payments made by the mortgagee for the cost of acquiring the property and conveying and evidencing title to the property to the Secretary; and (3) terminate the mortgagee's obligation to pay mortgage insurance premiums upon receipt of an application for debentures filed by the mortgagee, or in the event thecontract of insurance is terminated pursuant to section 1715t of this title.”
+Subsec. (k). Pub. L. 105–276, §601(c), struck out subsec. (k) which read as follows: “Notwithstanding any other provision of this section or of section 1739 or 1750c of this title and with respect to any debentures issued in exchange for properties conveyed to and accepted by the Secretary after September 23, 1959 in accordance with such sections, the Secretary may (1) include in debentures reasonable payments made by the mortgagee with the approval of the Secretary for the purpose of protecting, operating, or preserving the property, and taxes imposed upon any deed or any other instrument by which the property was acquired by the mortgagee and transferred or conveyed to the Secretary; (2) include in debentures as a portion of foreclosure costs (to the extent that foreclosure costs may be included in such debentures by any other provision of this chapter) payments made by the mortgagee for the cost of acquiring the property and conveying and evidencing title to the property to the Secretary; and (3) terminate the mortgagee's obligation to pay mortgage insurance premiums upon receipt of an application for debentures filed by the mortgagee, or in the event the contract of insurance is terminated pursuant to section 1715t of this title.”
 
 1996—Subsec. (a). Pub. L. 104–134, in penultimate proviso of last sentence, substituted “special forebearance” for “special foreclosure”.
 
@@ -498,7 +498,7 @@ Subsec. (g). Pub. L. 87–70, §612(c), included instruments relating to persona
 
 1959—Subsec. (a). Pub. L. 86–372, §114(b), authorized the Commissioner, with respect to any mortgage covering a one-, two-, three-, or four-family residence insured under this chapter, if he finds after notice of default, that the default was due to circumstances beyond the control of the mortgagor and it is probable that the mortgage will be restored to good standing within a reasonable period of time, to extend the time for curing default and to enter into an agreement with the mortgagee providing that if the mortgage is subsequently foreclosed, any interest accruing after the date of the agreement which is not paid by the mortgagor may be included in the debentures.
 
-Subsec. (k). Pub. L. 86–372, §117, substituted “and with respect to any debentures issued in exchange for properties conveyed to and accepted by the Commissioner after September 23, 1959 in accordance with such section” for “with respect to any debentures issued pursuant to this section or section 1739 or 1750c of this title”, and inserted provisions authorizing inclusion as a portion of the foreclosure costs payments made by the mortgagee for the cost of acquiring the property and conveying the evidencing title to the property to the Commissioner, and permitting the termination of the mortgagee's obligation to pay mortgage insurance premiums in the event the contract of insurance is terminated pursuant to section 1715t of this title.
+Subsec. (k). Pub. L. 86–372, §117, substituted “and with respect to any debentures issued in exchange for properties conveyed to and accepted by the Commissioner after September 23, 1959 in accordance with such section” for “with respect to any debentures issued pursuant to this section or section 1739 or 1750c of this title”, and inserted provisions authorizing inclusion asa portion of the foreclosure costs payments made by the mortgagee for the cost of acquiring the property and conveying the evidencing title to the property to the Commissioner, and permitting the termination of the mortgagee's obligation to pay mortgage insurance premiums in the event the contract of insurance is terminated pursuant to section 1715t of this title.
 
 1957—Subsec. (d). Pub. L. 85–104, §108(a), substituted “established by the Commissioner pursuant to section 1715<i>o</i> of this title” for “determined by the Commissioner, with the approval of the Secretary of the Treasury, at the time the mortgage was offered for insurance, but not to exceed 3 per centum per annum” in second sentence.
 
@@ -520,7 +520,7 @@ Subsec. (a). Act Apr. 20, 1950, §105, inserted “or under section 1715e of thi
 
 1948—Subsec. (a). Act Aug. 10, 1948, §101(<i>l</i>)(1), (2), struck out “prior to July 1, 1944” in first proviso and inserted second proviso.
 
-Subsec. (f). Act Aug. 10, 1948, §101(q), inserted “if the mortgage was insured under section 1709 of this title and shall be retained by the Administrator and creditedto the Housing Insurance Fund if the mortgage was insured under section 1713 of this title” before the colon in par. (1).
+Subsec. (f). Act Aug. 10, 1948, §101(q), inserted “if the mortgage was insured under section 1709 of this title and shall be retained by the Administrator and credited to the Housing Insurance Fund if the mortgage was insured under section 1713 of this title” before the colon in par. (1).
 
 1943—Subsec. (a). Act Oct. 14, 1943, inserted proviso.
 
@@ -557,6 +557,14 @@ Section 101(e) \[title II, §221(c)(1)\] of Pub. L. 104–134 provided that: “
 Section 407(d) of Pub. L. 104–99, which directed the Secretary of Housing and Urban Development to issue interim regulations to implement section 407 of Pub. L. 104–99 and amendments made by that section (amending this section and section 1715u of this title and enacting provisions set out as a note above) not later than 60 days after Jan. 26, 1996, was repealed by Pub. L. 104–134, title I, §101(e) \[title II, §221(c)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Section 1064(c) of Pub. L. 100–628 provided that: “In developing regulations to carry out the amendments made by this section \[amending this section\], the Secretary of Housing and Urban Development may delegate to mortgagees the authority to make determinations on behalf of the Secretary, and the Secretary shall rely on certifications and post audit reviews to the greatest extent possible.”
+
+#### Homeownership Preservation
+
+Pub. L. 110–289, div. B, title I, §2125, July 30, 2008, 122 Stat. 2840, provided that: “The Secretary of Housing and Urban Development and the Commissioner of the Federal Housing Administration, in consultation with industry, the Neighborhood Reinvestment Corporation, and other entities involved in foreclosure prevention activities, shall—
+
+&emsp;“(1) develop and implement a plan to improve the Federal Housing Administration's loss mitigation process; and
+
+&emsp;“(2) report such plan to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
 
 #### Asset Control Area Demonstration Program Agreements, Contracts, and Regulations
 

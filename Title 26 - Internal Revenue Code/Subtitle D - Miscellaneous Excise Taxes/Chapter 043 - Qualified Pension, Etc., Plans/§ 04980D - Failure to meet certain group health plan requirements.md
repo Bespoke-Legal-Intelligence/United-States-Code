@@ -8,7 +8,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (1) In general
 
-&emsp;The amount of the tax imposed by subsection (a) on any failure shall be $100 for each day in the noncompliance period with respect to each individual to whom such failure relates.
+&emsp;The amount of the tax imposed by subsection (a) on any failure shall be $100 for eachday in the noncompliance period with respect to each individual to whom such failure relates.
 
 #### (2) Noncompliance period
 

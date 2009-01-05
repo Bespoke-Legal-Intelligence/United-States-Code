@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], and title III of the United States-Bahrain Free Trade Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, and title III of the United States-Peru Trade Promotion Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -98,7 +98,7 @@
 
 (6) For purposes of this section:
 
-&emsp;(A)(i) The term “domestic industry” means, with respect to an article, the producers as awhole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
+&emsp;(A)(i) The term “domestic industry” means, with respect to an article, the producers as a whole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
 
 &emsp;(ii) The term “domestic industry” includes producers located in the United States insular possessions.
 
@@ -148,7 +148,7 @@
 
 (C) The Commission shall immediately report to the President its determinations under subparagraph (A)(i) and (ii) and, if the determinations are affirmative, the finding under subparagraph (B).
 
-(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if heconsiders provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if he considers provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (3) If provisional relief is proclaimed under paragraph (1)(G) or (2)(D) in the form of an increase, or the imposition of, a duty, the President shall order the suspension of liquidation of all imported articles subject to the affirmative determination under paragraph (1)(C) or paragraph (2)(A), as the case may be, that are entered, or withdrawn from warehouse for consumption, on or after the date of the determination.
 
@@ -292,12 +292,6 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 (Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967; Pub. L. 108–286, title III, §316, Aug. 3, 2004, 118 Stat. 945; Pub. L. 108–302, title III, §316, Aug. 17, 2004, 118 Stat. 1120; Pub. L. 109–53, title III, §316, Aug. 2, 2005, 119 Stat. 492; Pub. L. 109–169, title III, §316, Jan. 11, 2006, 119 Stat. 3597; Pub. L. 109–283, title III, §316, Sept. 26, 2006, 120 Stat. 1207; Pub. L. 110–138, title III, §316, Dec. 14, 2007, 121 Stat. 1483.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 110–138, title I, §107(a), title III, §316, Dec. 14, 2007, 121 Stat. 1459, 1483, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States-Peru Trade Promotion Agreement Implementation Act”.</i>
-
-<i>Pub. L. 109–283, title I, §107(a), title III, §316, Sept. 26, 2006, 120 Stat. 1195, 1207, provided that, effective on the date on which the United States-Oman Free Trade Agreement enters into force, subsection (a)(8) of this section is amended in the first sentence by striking “and” and by inserting before the period at the end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”.</i>
-
 #### Amendment of Section
 
 <i>For termination of amendment by section 107(c) of Pub. L. 110–138, see Effective and Termination Dates of 2007 Amendment note below.</i>
@@ -328,7 +322,7 @@ Title III of the United States-Chile Free Trade Agreement Implementation Act, re
 
 Title III of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–78, Sept. 3, 2003, 117 Stat. 948, which is set out in a note under section 3805 of this title.
 
-Title III of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–286, Aug. 3, 2004, 118 Stat. 941, which is set out in a note under section 3805 of this title.
+Title III of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec.\(a)(8), is title III of Pub. L. 108–286, Aug. 3, 2004, 118 Stat. 941, which is set out in a note under section 3805 of this title.
 
 Title III of the United States-Morocco Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–302, Aug. 17, 2004, 118 Stat. 1116, which is set out in a note under section 3805 of this title.
 
@@ -336,17 +330,25 @@ The Dominican Republic-Central America-United States Free Trade Agreement Implem
 
 Title III of the United States-Bahrain Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 109–169, Jan. 11, 2006, 119 Stat. 3593, which is set out in a note under section 3805 of this title.
 
+Title III of the United States-Oman Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 109–283, Sept. 26, 2006, 120 Stat. 1203, which is set out in a note under section 3805 of this title.
+
+Title III of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 110–138, Dec. 14, 2007, 121 Stat. 1455, which is set out in a note under section 3805 of this title.
+
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
 
-2006—Subsec. (a)(8). Pub. L. 109–169, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Bahrain Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
+2007—Subsec. (a)(8). Pub. L. 110–138, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Oman Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Peru Trade Promotion Agreement Implementation Act”. See Effective and Termination Dates of 2007 Amendment note below.
+
+2006—Subsec. (a)(8). Pub. L. 109–283, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Bahrain Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Oman Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
+
+Pub. L. 109–169, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the United States-Bahrain Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2006 Amendment note below.
 
 2005—Subsec. (a)(8). Pub. L. 109–53, §§107(d), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Morocco Free Trade Agreement Implementation Act” and inserted before period at end “, and title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Subsec. (a)(8). Pub. L. 108–302, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Australia” and inserted before period at end “, and title III of the United States-Morocco Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
 
-Subsec.(a)(8). Pub. L. 108–286, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Singapore” and inserted before period at end “, and title III of the United States-Australia Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
+Pub. L. 108–286, §§106(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Singapore” and inserted before period at end “, and title III of the United States-Australia Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2004 Amendments note below.
 
 2003—Subsec. (a)(8). Pub. L. 108–78, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Chile” and inserted before period at end “, and title III of the United States-Singapore Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -412,11 +414,11 @@ Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesign
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force (Feb. 1, 2009) and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2006 Amendment
 
-Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force (Jan. 1, 2009) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
 
@@ -458,7 +460,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiatedunder this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Uruguay Round Agreements: Entry Into Force
 

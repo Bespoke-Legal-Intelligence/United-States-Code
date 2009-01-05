@@ -18,5 +18,7 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1),
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
+#### Change of Name
+
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

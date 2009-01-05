@@ -8,6 +8,7 @@
 - [&sect; 00411 - Establishment of the Armed Forces Retirement Home](%C2%A7%2000411%20-%20Establishment%20of%20the%20Armed%20Forces%20Retirement%20Home.md)
 - [&sect; 00412 - Residents of Retirement Home](%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md)
 - [&sect; 00413 - Services provided residents](%C2%A7%2000413%20-%20Services%20provided%20residents.md)
+- [&sect; 00413a - Improved health care oversight of Retirement Home](%C2%A7%2000413a%20-%20Improved%20health%20care%20oversight%20of%20Retirement%20Home.md)
 - [&sect; 00414 - Fees paid by residents](%C2%A7%2000414%20-%20Fees%20paid%20by%20residents.md)
 - [&sect; 00415 - Chief Operating Officer](%C2%A7%2000415%20-%20Chief%20Operating%20Officer.md)
 - [&sect; 00416 - Local Boards of Trustees](%C2%A7%2000416%20-%20Local%20Boards%20of%20Trustees.md)

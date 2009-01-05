@@ -2,7 +2,7 @@
 
 (a)
 
-Grants and Agreements.—Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations,and local governmental authorities to develop alternatives analyses as defined by section 5309(a)(1).
+Grants and Agreements.—Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities to develop alternatives analyses as defined by section 5309(a)(1).
 
 (b)
 

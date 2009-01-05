@@ -40,7 +40,7 @@
 
 Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14 of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
-Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which were repealed and the provisions thereof reenacted as sections722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 The date of the enactment of the Veterans Benefits Act of 2003, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
 
@@ -72,7 +72,7 @@ Subsec. (a)(3). Pub. L. 106–419, §331(b), amended par. (3) generally. Prior t
 
 Subsec. (c). Pub. L. 106–419, §332(a)(2), added subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to an individual described in paragraph (2).
 
-Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(B)\], added subsec. (c) relating to the inapplicability of the secondsentence of subsec. (a) to cases of benefits under subchapters II and IV of chapter 11 of this title paid to United States citizens or to permanent resident aliens.
+Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(B)\], added subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to cases of benefits under subchapters II and IV of chapter 11 of this title paid to United States citizens or to permanent resident aliens.
 
 1994—Subsecs. (a), (b). Pub. L. 103–446 substituted “rate of” for “rate in pesos as is equivalent to” and for “rate in Philippine pesos as is equivalent to” in second sentence.
 

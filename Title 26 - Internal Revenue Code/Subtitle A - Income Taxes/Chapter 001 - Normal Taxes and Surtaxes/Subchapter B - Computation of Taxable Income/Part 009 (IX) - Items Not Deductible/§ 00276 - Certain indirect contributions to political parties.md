@@ -54,7 +54,7 @@ Section 108(b) of Pub. L. 90–364 provided that: “The amendments made by subs
 
 #### Effective Date
 
-Section 301(c) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply to taxable years beginningafter December 31, 1965, but only with respect to amounts paid or incurred after the date of the enactment of this Act \[Mar. 15, 1966\].”
+Section 301(c) of Pub. L. 89–368 provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to amounts paid or incurred after the date of the enactment of this Act \[Mar. 15, 1966\].”
 
 #### Program Advertising for Presidential and Vice-Presidential Nominating Conventions
 

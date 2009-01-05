@@ -98,7 +98,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
+&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by theamount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
 
 #### (ii) Qualified chain member
 
@@ -156,7 +156,7 @@ Subsec. (a)(1). Pub. L. 99–514, §1221(b)(3)(A), amended par. (1) generally. P
 
 Subsec. (b). Pub. L. 99–514, §1876(c)(1), inserted last sentence.
 
-Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows: “For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
+Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out former subsec. (c) which read as follows:“For purposes of subsection (a), the subpart F income of any controlled foreign corporation for any taxable year shall not exceed the earnings and profits of such corporation for such year reduced by the amount (if any) by which—
 
 &emsp;“(1) an amount equal to—
 

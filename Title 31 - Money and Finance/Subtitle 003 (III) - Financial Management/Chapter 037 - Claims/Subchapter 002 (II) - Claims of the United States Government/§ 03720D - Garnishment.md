@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any provision of State law, the head of an executive, judicial, or legislative agency that administers a program that gives rise to a delinquent nontax debt owed to the United States by an individual may in accordance with this section garnish the disposable pay of the individual to collect the amount owed, if the individual is not currently making required repayment in accordance with any agreement between the agency head and the individual.
 
-(b) In carrying out any garnishment of disposable pay of an individual under subsection (a),the head of an executive, judicial, or legislative agency shall comply with the following requirements:
+(b) In carrying out any garnishment of disposable pay of an individual under subsection (a), the head of an executive, judicial, or legislative agency shall comply with the following requirements:
 
 &emsp;(1) The amount deducted under this section for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual.
 

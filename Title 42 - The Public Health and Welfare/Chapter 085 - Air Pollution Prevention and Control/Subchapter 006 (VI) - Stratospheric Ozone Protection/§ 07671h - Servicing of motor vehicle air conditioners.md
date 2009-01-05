@@ -26,7 +26,7 @@ Effective January 1, 1992, no person repairing or servicing motor vehicles for c
 
 (1) Effective 2 years after November 15, 1990, each person performing service on motor vehicle air conditioners for consideration shall certify to the Administrator either—
 
-&emsp;(A) that such person has acquired, and is properly using, approved refrigerant recycling equipment in service on motor vehicle air conditioners involving refrigerant and that each individual authorized by such person to perform such service is properly trained and certified; or
+&emsp;(A) that such person has acquired, and is properly using, approved refrigerant recyclingequipment in service on motor vehicle air conditioners involving refrigerant and that each individual authorized by such person to perform such service is properly trained and certified; or
 
 &emsp;(B) that such person is performing such service at an entity which serviced fewer than 100 motor vehicle air conditioners in 1991.
 

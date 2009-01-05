@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) that states that divestiture of specific property is reasonably necessary to comply with any Federal conflict of interest statute, regulation, rule, judicial canon, or executive order (including section 208 of title 18, United States Code), or requested by a congressional committee as a condition of confirmation,
 
-&emsp;&emsp;(B) that has been issued by the President or the Director of the Office of GovernmentEthics, in the case of executive branch officers or employees, or by the Judicial Conference of the United States (or its designee), in the case of judicial officers, and
+&emsp;&emsp;(B) that has been issued by the President or the Director of the Office of Government Ethics, in the case of executive branch officers or employees, or by the Judicial Conference of the United States (or its designee), in the case of judicial officers, and
 
 &emsp;&emsp;(C) that identifies the specific property to be divested.
 

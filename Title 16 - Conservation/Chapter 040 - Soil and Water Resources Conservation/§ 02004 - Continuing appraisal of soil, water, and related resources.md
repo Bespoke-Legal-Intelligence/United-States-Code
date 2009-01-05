@@ -12,9 +12,11 @@ In recognition of the importance of and need for obtaining and maintaining infor
 
 &emsp;(4) data on current Federal and State laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
 
-&emsp;(5) data on the costs and benefits of alternative soil and water conservation practices; and
+&emsp;(5) data on the costs and benefits of alternative soil and water conservation practices;
 
-&emsp;(6) data on alternative irrigation techniques regarding their costs, benefits, and impact on soil and water conservation, crop production, and environmental factors.
+&emsp;(6) data on alternative irrigation techniques regarding their costs, benefits, and impact on soil and water conservation, crop production, and environmental factors; and
+
+&emsp;(7) data on conservation plans, conservation practices planned or implemented, environmental outcomes, economic costs, and related matters under conservation programs administered by the Secretary.
 
 #### (b) Collection of data
 
@@ -24,15 +26,31 @@ The appraisal shall utilize data collected under this chapter and pertinent data
 
 The appraisal shall be made in cooperation with conservation districts, State soil and water conservation agencies, and other appropriate citizen groups, and local and State agencies under such procedures as the Secretary may prescribe to insure public participation.
 
-#### (d) Completion dates
+#### (d) Evaluation of appraisal
 
-The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
 
-(Pub. L. 95–192, §5, Nov. 18, 1977, 91 Stat. 1408; Pub. L. 99–198, title XII, §1252(a), Dec. 23, 1985, 99 Stat. 1516.)
+#### (e) Completion dates
+
+The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+
+(Pub. L. 95–192, §5, Nov. 18, 1977, 91 Stat. 1408; Pub. L. 99–198, title XII, §1252(a), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, §2804(b), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2804(b), June 18, 2008, 122 Stat. 1664, 1814.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
+2008—Subsec. (a)(7). Pub. L. 110–246, §2804(b)(1), added par. (7).
+
+Subsecs. (d), (e). Pub. L. 110–246, §2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
+
 1985—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Transfer of Functions
 

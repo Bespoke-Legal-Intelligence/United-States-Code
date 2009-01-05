@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(v) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
-&emsp;(C) All royalties or other payments retained by the agency or laboratory after payments have been made pursuant to subparagraphs (A) and (B) that is unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties andother payments were received shall be paid into the Treasury.
+&emsp;(C) All royalties or other payments retained by the agency or laboratory after payments have been made pursuant to subparagraphs (A) and (B) that is unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury.
 
 (2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5 percent of the budget of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
 
@@ -72,7 +72,7 @@ Subsec. (a)(4). Pub. L. 104–113, §5(4), in first sentence, substituted “oth
 
 Subsec. (b)(1). Pub. L. 104–113, §5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
 
-1989—Subsec. (a)(1). Pub. L. 101–189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” andmade technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
+1989—Subsec. (a)(1). Pub. L. 101–189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
 

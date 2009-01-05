@@ -2,7 +2,7 @@
 
 (a)
 
-Availability.—An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
+Availability.—An amount of the funds appropriated to the Department of Defense for afiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
 
 (b)
 

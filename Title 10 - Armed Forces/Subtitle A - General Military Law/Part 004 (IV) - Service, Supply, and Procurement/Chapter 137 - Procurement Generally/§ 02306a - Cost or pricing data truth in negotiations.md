@@ -28,7 +28,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
 
-&emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $500,000; and
+&emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph\(C)(i) or (C)(ii), the price adjustment is expected to exceed $500,000; and
 
 &emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $100,000.
 
@@ -76,7 +76,7 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 &emsp;(3)
 
-Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than $500,000 or 5 percent of the total price of the contract, whichever is greater.
+Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
 &emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
 
@@ -92,7 +92,7 @@ Cost or Pricing Data on Below-Threshold Contracts.—
 
 &emsp;(1)
 
-Authority to require submission.—Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract,such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
+Authority to require submission.—Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
 
 &emsp;(2)
 
@@ -188,7 +188,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222.)
 
 #### References in Text
 
@@ -201,6 +201,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+2008—Subsec. (b)(3)(A). Pub. L. 110–181 substituted “the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7),” for “$500,000” and inserted “(at the time of contract award)” after “total price of the contract”.
 
 2004—Subsec. (b)(3). Pub. L. 108–375 added par. (3).
 

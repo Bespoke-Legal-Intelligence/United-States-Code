@@ -6,7 +6,7 @@ The purpose of this section is to provide assistance to public housing agencies 
 
 &emsp;(1) improving the living environment for public housing residents of severely distressed public housing projects through the demolition, rehabilitation, reconfiguration, or replacement of obsolete public housing projects (or portions thereof);
 
-&emsp;(2) revitalizing sites (including remaining public housing dwelling units) on which such public housing projects are located and contributing to the improvement of the surrounding neighborhood;
+&emsp;(2) revitalizing sites (including remaining public housing dwelling units) on which suchpublic housing projects are located and contributing to the improvement of the surrounding neighborhood;
 
 &emsp;(3) providing housing that will avoid or decrease the concentration of very low-income families; and
 
@@ -74,7 +74,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) Application
 
-&emsp;An application for a grant under this section shall demonstrate the appropriateness of the proposal in the context of the local housing market relative to other alternatives, and shall include such other information and be submitted at such time and in accordance with such procedures, as the Secretary shall prescribe.
+&emsp;An application for a grant under this section shall demonstrate the appropriateness of the proposal in the context of the local housing market relative to other alternatives, and shall include such other information and besubmitted at such time and in accordance with such procedures, as the Secretary shall prescribe.
 
 #### (2) Selection criteria
 
@@ -106,7 +106,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (3) Applicability of selection criteria
 
-&emsp;The Secretary may determine not to apply certain of the selection criteria establishedpursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
+&emsp;The Secretary may determine not to apply certain of the selection criteria established pursuant to paragraph (2) when awarding grants for demolition only, tenant-based assistance only, or other specific categories of revitalization activities. This section may not be construed to require any application for a grant under this section to include demolition of public housing or to preclude use of grant amounts for rehabilitation or rebuilding of any housing on an existing site.
 
 #### (f) Cost limits
 
@@ -172,7 +172,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Supportive services
 
-&emsp;The term “supportive services” includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing projectinvolved, including literacy training, job training, day care, transportation, and economic development activities.
+&emsp;The term “supportive services” includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
 
 #### (k) Grantee reporting
 
@@ -210,7 +210,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (1) Authority and use of grant amounts
 
-&emsp;The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities under paragraph (4) in connection with an eligible project under paragraph (2).
+&emsp;The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities underparagraph (4) in connection with an eligible project under paragraph (2).
 
 #### (2) Eligible project
 
@@ -256,7 +256,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Application
 
-&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary mayestablish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
 
 #### (B) Selection criteria
 
@@ -300,7 +300,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 No assistance may be provided under this section after September 30, 2008.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437.)
 
 #### References in Text
 

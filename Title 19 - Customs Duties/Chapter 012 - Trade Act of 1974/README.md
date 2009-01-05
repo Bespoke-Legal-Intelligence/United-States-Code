@@ -328,6 +328,16 @@ I74subpart a—petitions and determinations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VIII—SUPPLEMENTAL AGRICULTURAL DISASTER ASSISTANCE
+
+|  |  |
+| :--- | ---: |
+| [2497\.](Subchapter%20008%20%28VIII%29%20-%20Supplemental%20Agricultural%20Disaster%20Assistance/%C2%A7%2002497%20-%20Supplemental%20agricultural%20disaster%20assistance.md) | Supplemental agricultural disaster assistance. |
+| [2497a.](Subchapter%20008%20%28VIII%29%20-%20Supplemental%20Agricultural%20Disaster%20Assistance/%C2%A7%2002497a%20-%20Agricultural%20Disaster%20Relief%20Trust%20Fund.md) | Agricultural Disaster Relief Trust Fund. |
+| [2497b.](Subchapter%20008%20%28VIII%29%20-%20Supplemental%20Agricultural%20Disaster%20Assistance/%C2%A7%2002497b%20-%20Jurisdiction.md) | Jurisdiction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -342,3 +352,4 @@ I74subpart a—petitions and determinations
 - [Subchapter 005 (V) - Generalized System of Preferences](Subchapter%20005%20%28V%29%20-%20Generalized%20System%20of%20Preferences/README.md)
 - [Subchapter 006 (VI) - General Provisions](Subchapter%20006%20%28VI%29%20-%20General%20Provisions/README.md)
 - [Subchapter 007 (VII) - Tariff Treatment of Products of, and Other Sanctions Against, Uncooperative Major Drug Producing or Drug-Transit Countries](Subchapter%20007%20%28VII%29%20-%20Tariff%20Treatment%20of%20Products%20of%2C%20and%20Other%20Sanctions%20Against%2C%20Uncooperative%20Major%20Drug%20Producing%20or%20Drug-Transit%20Countries/README.md)
+- [Subchapter 008 (VIII) - Supplemental Agricultural Disaster Assistance](Subchapter%20008%20%28VIII%29%20-%20Supplemental%20Agricultural%20Disaster%20Assistance/README.md)

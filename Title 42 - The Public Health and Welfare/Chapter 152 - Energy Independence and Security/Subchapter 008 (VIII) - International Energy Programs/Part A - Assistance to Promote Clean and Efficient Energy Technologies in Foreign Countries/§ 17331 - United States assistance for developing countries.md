@@ -2,7 +2,7 @@
 
 #### (a) Assistance authorized
 
-The Administrator of the United States Agency for International Development shall support policies and programs in developing countries that promote clean and efficient energy technologies—
+The Administrator of the United States Agency for International Development shall support policies and programs in developing countriesthat promote clean and efficient energy technologies—
 
 &emsp;(1) to produce the necessary market conditions for the private sector delivery of energy and environmental management services;
 

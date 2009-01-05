@@ -1,10 +1,10 @@
 ### §3595. Reduction in force in the Senior Executive Service
 
-(a) An agency shall establish competitive procedures for determining who shall be removed from the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations are primarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
+(a) An agency shall establish competitive procedures for determining who shall be removedfrom the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations are primarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
-(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed fromthe Senior Executive Service due to a reduction in force within an agency.
+(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed from the Senior Executive Service due to a reduction in force within an agency.
 
 (3) A career appointee who, but for this subsection, would be removed from the Senior Executive Service due to a reduction in force within an agency—
 

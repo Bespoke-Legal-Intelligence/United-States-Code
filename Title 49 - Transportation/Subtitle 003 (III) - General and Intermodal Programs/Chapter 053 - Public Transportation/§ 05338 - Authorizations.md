@@ -82,7 +82,7 @@ Planning.—
 
 &emsp;&emsp;(A)
 
-Trust fund.—For fiscal year 2005, $63,364,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before thedate of enactment of the Federal Public Transportation Act of 2005.
+Trust fund.—For fiscal year 2005, $63,364,000 shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b), as in effect on the day before the date of enactment of the Federal Public Transportation Act of 2005.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +192,7 @@ Allocation of funds.—Of the amounts made available under paragraph (1)—
 
 &emsp;&emsp;(E) $822,250,000 for fiscal year 2006, $855,500,000 for fiscal year 2007, $927,750,000 for fiscal year 2008, and $984,000,000 for fiscal year 2009 shall be available to carry out section 5309(m)(2)(C);
 
-&emsp;&emsp;(F) $112,000,000 for fiscal year 2006, $117,000,000 for fiscal year 2007, $127,000,000 forfiscal year 2008, and $133,500,000 for fiscal year 2009 shall be available to provide financial assistance for services for elderly persons and persons with disabilities under section 5310;
+&emsp;&emsp;(F) $112,000,000 for fiscal year 2006, $117,000,000 for fiscal year 2007, $127,000,000 for fiscal year 2008, and $133,500,000 for fiscal year 2009 shall be available to provide financial assistance for services for elderly persons and persons with disabilities under section 5310;
 
 &emsp;&emsp;(G) $388,000,000 for fiscal year 2006, $404,000,000 for fiscal year 2007, $438,000,000 for fiscal year 2008, and $465,000,000 for fiscal year 2009 shall be available to provide financial assistance for other than urbanized areas under section 5311;
 
@@ -232,7 +232,7 @@ In general.—There is authorized to be appropriated to carry out transit cooper
 
 &emsp;&emsp;(A) $9,000,000 for fiscal year 2006, $9,300,000 for fiscal year 2007, $9,600,000 for fiscal year 2008, and $10,000,000 for fiscal year 2009 shall be allocated to carry out transit cooperative research programs under section 5313;
 
-&emsp;&emsp;(B) $4,300,000 shall be allocated for each fiscal year to carry out programs under the National Transit Institute under section 5315, of which not more than $1,000,000 for each fiscal year shall be used to carry out section 5315(a)(16);
+&emsp;&emsp;(B) $4,300,000 shall be allocated for each fiscal year to carry out programs under the National Transit Institute under section 5315, of which not more than $1,000,000 for each fiscal year shall be used to carry out section 5315(b)(2)(P);
 
 &emsp;&emsp;(C) $7,000,000 shall be allocated for each fiscal year to carry out the university centers program under section 5506;
 
@@ -298,7 +298,7 @@ Grants financed from general fund.—A grant or contract that is approved by the
 
 Availability of Amounts.—Amounts made available by or appropriated under subsections (b), (c), and (d) shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -449,6 +449,8 @@ The date of enactment of the Federal Public Transportation Act of 2005, referred
 Section 3038 of the Federal Transit Act of 1998, referred to in subsec. (b)(1), is section 3038 of title III of Pub. L. 105–178, which is set out as a note under section 5310 of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(1)(B). Pub. L. 110–244 substituted “section 5315(b)(2)(P)” for “section 5315(a)(16)”.
 
 2005—Pub. L. 109–59 amended section generally. Prior to amendment, section authorized appropriations and availability of funds to carry out sections 5303 to 5305, 5307 to 5315, 5322, and 5334 of this title for periods ranging from fiscal year 1998 to August 14, 2004.
 
@@ -1250,7 +1252,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Allocations for National Research and Technology Programs
 
-Pub. L. 109–59, title III, §3046, Aug. 10, 2005, 119 Stat. 1706, provided that:
+Pub. L. 109–59, title III, §3046, Aug. 10, 2005, 119 Stat. 1706, as amended by Pub. L. 110–244, title II, §201(<i>o</i>)(6), June 6, 2008, 122 Stat. 1615, provided that:
 
 “(a)
 
@@ -1334,7 +1336,7 @@ Contents.—The report—
 
 &emsp;“(7)
 
-Hydrogen fuel cell shuttle deployment demonstration project.—To demonstrate the utility of hydrogen fuel cell vehicles in daily shuttle service, $800,000 in each of fiscal years 2006 and 2007 shall be provided for hydrogen fuel cell employee shuttle vans, related equipment, operations, public education and outreach in Allentown, Pennsylvania.
+Hydrogen fuel cell shuttle deployment demonstration project.—To demonstrate the utility of hydrogen fueled vehicles in daily shuttle service, $800,000 in each of fiscal years 2006 and 2007 shall be provided for hydrogen fueled employee shuttle vans, related equipment, operations, public education and outreach to the DaVinci \[probably should be “Da Vinci”\] Center in Allentown, Pennsylvania.
 
 &emsp;“(8)
 
@@ -1434,7 +1436,7 @@ Intelligent transportation system pilot project.—$465,000 in each of fiscal ye
 
 &emsp;“(18)
 
-Regional public safety training center.—$500,000 in each of fiscal years 2006 through 2009 for aregional public safety training center at the Lehigh-Carbon Community College.
+Regional public safety training center.—$500,000 in each of fiscal years 2006 through 2009 for a regional public safety training center at the Lehigh-Carbon Community College.
 
 &emsp;“(19)
 
@@ -1474,7 +1476,7 @@ Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that
 
 #### Training and Curriculum Development
 
-Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, §7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(j)(3), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(i)(2), May 31, 2005, 119 Stat. 332; Pub. L. 109–20, §7(i)(2), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(i)(2), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(i)(2), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(i)(2), July 28, 2005, 119 Stat. 419, provided that:
+Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, §9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, §7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, §8(j)(3), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, §7(i)(2), May 31, 2005, 119 Stat. 332; Pub. L. 109–20,§7(i)(2), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(i)(2), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, §7(i)(2), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, §7(i)(2), July 28, 2005, 119 Stat. 419, provided that:
 
 “(1)
 
@@ -1486,7 +1488,7 @@ Special rule.—If the institutions identified in paragraph (1) are selected pur
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 109–115, div. A, title I, §140, Nov. 30, 2005, 119 Stat. 2420, which provided that the limitations on obligations for the programs of the Federal Transit Administration were not to apply to any authority under this section previously made available for obligation, or to any other authority previously made available for obligation, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 109–115, div. A, title I, §140, Nov. 30, 2005, 119 Stat. 2420, which provided that the limitations on obligations for the programs of the Federal Transit Administration were not to apply to any authority under this section previously made available for obligation, or to any other authority previously made available for obligation, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code.
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -14,7 +14,7 @@ Director.—(1) The Director of the National Geospatial-Intelligence Agency is t
 
 (c)
 
-Director of Central Intelligence Collection Tasking Authority.—Unless otherwise directed by the President, the Director of Central Intelligence shall have authority (except as otherwise agreed by the Director and the Secretary of Defense) to—
+Director of National Intelligence Collection Tasking Authority.—Unless otherwise directed by the President, the Director of National Intelligence shall have authority (except as otherwise agreed by the Director and the Secretary of Defense) to—
 
 &emsp;(1) approve collection requirements levied on national imagery collection assets;
 
@@ -24,17 +24,19 @@ Director of Central Intelligence Collection Tasking Authority.—Unless otherwis
 
 (d)
 
-Availability and Continued Improvement of Imagery Intelligence Support to All-Source Analysis and Production Function.—The Secretary of Defense, in consultation with the Director of Central Intelligence, shall take all necessary steps to ensure the full availability and continued improvement of imagery intelligence support for all-source analysis and production.
+Availability and Continued Improvement of Imagery Intelligence Support to All-Source Analysis and Production Function.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall take all necessary steps to ensure the full availability and continued improvement of imagery intelligence support for all-source analysis and production.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(a)(9), (10), (c)(1)(A), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(8), (9), (b)(1), Oct. 14, 2008, 122 Stat. 4576.)
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–181, §931(c)(1)(A), and Pub. L. 110–417, §932(b)(1), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in heading.
+
+Pub. L. 110–181, §931(a)(9), and Pub. L. 110–417, §932(a)(8), amended subsec. (c) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+
+Subsec. (d). Pub. L. 110–181, §931(a)(10), and Pub. L. 110–417, §932(a)(9), amended subsec. (d) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date
 

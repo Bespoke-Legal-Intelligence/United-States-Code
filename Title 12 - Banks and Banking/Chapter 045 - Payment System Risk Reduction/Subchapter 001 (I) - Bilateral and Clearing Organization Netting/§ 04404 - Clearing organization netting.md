@@ -36,7 +36,7 @@ The provisions of any security agreement or arrangement or other credit enhancem
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated,liquidated, accelerated, and” after “organization shall be”.
+2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “organization shall be”.
 
 Subsec. (h). Pub. L. 109–390, §4(b)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 

@@ -46,7 +46,7 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 #### (2) Treatment
 
-&emsp;A written notice of disapproval of a completed application under paragraph (1) for registration shall be treated as a disciplinarysanction for purposes of sections 7215(d) and 7217(c) of this title.
+&emsp;A written notice of disapproval of a completed application under paragraph (1) for registration shall be treated as a disciplinary sanction for purposes of sections 7215(d) and 7217(c) of this title.
 
 #### (d) Periodic reports
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;<b>(4) For collection of taxes in connection with plans for individuals with regular income in cases under title 11 of the United States Code, see section 1328 of such title 11.</b>
 
-&emsp;&emsp;<b>(5) For provisions permitting the United States to be made party defendant in a proceeding in a State court for the foreclosure of a lien upon real estate where the United States may have a claim upon the premises involved, see section 2410 of Title 28 of the United States Code.</b>
+&emsp;&emsp;<b>(5) For provisions permitting the United States to be made party defendant in a proceeding in a State</b><b>court for the foreclosure of a lien upon real estate where the United States may have a claim upon the premises involved, see section 2410 of Title 28 of the United States Code.</b>
 
 &emsp;&emsp;<b>(6) For priority of lien of the United States in case of insolvency, see section 3713(a) of title 31, United States Code.</b>
 

@@ -4,7 +4,7 @@
 
 The Congress makes the following findings:
 
-(1) The banking system is dependent upon fair and accurate credit reporting. Inaccurate creditreports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence which is essential to the continued functioning of the banking system.
+(1) The banking system is dependent upon fair and accurate credit reporting. Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods undermine the public confidence which is essential to the continued functioning of the banking system.
 
 (2) An elaborate mechanism has been developed for investigating and evaluating the credit worthiness,<sup>1</sup> credit standing, credit capacity, character, and general reputation of consumers.
 
@@ -102,7 +102,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;“(ii) the potential impact of such notification on the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;“(C) the effects of requiring that a consumer who has experienced an adverse action based on a credit report receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
+&emsp;&emsp;“(C) the effects of requiring that a consumer who has experienced an adverse action based on a creditreport receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
 
 &emsp;&emsp;&emsp;“(i) the extent to which providing such reports to consumers would increase the ability of consumers to identify errors in their credit reports; and
 

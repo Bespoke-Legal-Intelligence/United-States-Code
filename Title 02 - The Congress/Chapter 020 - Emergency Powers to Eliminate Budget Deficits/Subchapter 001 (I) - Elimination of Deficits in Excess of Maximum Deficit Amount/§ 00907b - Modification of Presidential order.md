@@ -16,7 +16,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (3) Debate in Senate
 
-&emsp;(A) In the Senate, debate on a joint resolution introduced under subsection (a) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
+&emsp;(A) In the Senate, debate on a joint resolution introduced under subsection (a) of thissection, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
 &emsp;(B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 

@@ -38,7 +38,7 @@ Pub. L. 95–600, title V, §521(d)(2), Nov. 6, 1978, 92 Stat. 2885, provided th
 
 #### Effective Date of 1976 Amendment
 
-Section 1208(c)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amendingthis section)\] shall apply with respect to wagers placed after March 10, 1964”.
+Section 1208(c)(1) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section)\] shall apply with respect to wagers placed after March 10, 1964”.
 
 #### Effective Date of 1965 Amendment
 

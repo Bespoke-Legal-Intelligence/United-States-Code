@@ -4,7 +4,7 @@
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States, any alien who the Secretary of State determines is a person who, after March 12, 1996—
 
-&emsp;(1) has confiscated, or has directed or overseen the confiscation of, property a claim to which is owned by a United States national, or converts or has converted for personal gain confiscated property, a claim to which is owned by a United States national;
+&emsp;(1) has confiscated, or has directed or overseen the confiscation of, property a claim to which is owned by a United States national, orconverts or has converted for personal gain confiscated property, a claim to which is owned by a United States national;
 
 &emsp;(2) traffics in confiscated property, a claim to which is owned by a United States national;
 

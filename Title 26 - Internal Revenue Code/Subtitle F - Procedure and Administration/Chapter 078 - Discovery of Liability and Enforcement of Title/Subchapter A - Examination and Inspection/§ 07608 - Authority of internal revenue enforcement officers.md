@@ -106,29 +106,25 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;The term “undercover investigative operation” means any undercover investigative operation of the Service; except that, for purposes of subparagraphs (A) and (C) of paragraph (4), such term only includes an operation which is exempt from section 3302 or 9102 of title 31, United States Code.
 
-#### (6) Application of section
-
-&emsp;The provisions of this subsection—
-
-&emsp;&emsp;(A) shall apply after November 17, 1988, and before January 1, 1990, and
-
-&emsp;&emsp;(B) shall apply after the date of the enactment of this paragraph and before January 1, 2008.
-
-> &emsp;All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2008.
-
-(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944.)
+(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609; Pub. L. 109–432, div. A, title I, §121, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–343, div. C, title IV, §401(a), Oct. 3, 2008, 122 Stat. 3875.)
 
 #### References in Text
 
 Section 254(c) of title 41, referred to in subsec. (c)(1)(A)(i)(V), was repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320. See section 254d of Title 41, Public Contracts.
-
-The date of the enactment of this paragraph, referred to in subsec. (c)(6)(B), is the date of enactment of Pub. L. 104–168, which was approved July 30, 1996.
 
 #### Prior Provisions
 
 A prior section 7608 was renumbered section 7613 of this title.
 
 #### Amendments
+
+2008—Subsec. (c)(6). Pub. L. 110–343 struck out par. (6). Text read as follows: “The provisions of this subsection—
+
+&emsp;“(A) shall apply after November 17, 1988, and before January 1, 1990, and
+
+&emsp;“(B) shall apply after the date of the enactment of this paragraph and before January 1, 2008.
+
+> All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2008.”
 
 2006—Subsec. (c)(6). Pub. L. 109–432 substituted “2008” for “2007” in subpar. (B) and concluding provisions.
 
@@ -173,6 +169,10 @@ Subsec. (c). Pub. L. 100–690, §7601(c)(2), added subsec. (c).
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 1962—Pub. L. 87–863 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title IV, §401(b), Oct. 3, 2008, 122 Stat. 3875, provided that: “The amendment made by this section \[amending this section\] shall apply to operations conducted after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date of 2003 Amendment
 

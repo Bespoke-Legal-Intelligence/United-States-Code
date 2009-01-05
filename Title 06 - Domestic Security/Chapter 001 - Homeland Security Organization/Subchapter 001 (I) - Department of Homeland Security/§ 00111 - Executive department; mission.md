@@ -56,7 +56,7 @@ Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
 
 Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10619, as amended by Ex. Ord. No. 13442, §1, Aug. 13, 2007, 72 F.R. 45877, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and other responsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Homeland Security Act of 2002 (Public Law 107–296) \[see Tables for classification\] and section 301 of title 3, United States Code, and in order to reflect the transfer of certain functions to, and otherresponsibilities vested in, the Secretary of Homeland Security, the transfer of certain agencies and agency components to the Department of Homeland Security, and the delegation of appropriate responsibilities to the Secretary of Homeland Security, it is hereby ordered as follows:
 
 Section 1. \[Amended Ex. Ord. No. 13276, set out as a note under section 1182 of Title 8, Aliens and Nationality.\]
 
@@ -172,7 +172,7 @@ Sec. 55. \[Amended Ex. Ord. No. 11965, set out as a note preceding section 1121 
 
 Sec. 56. \[Amended Ex. Ord. No. 11926, set out as a note preceding section 1121 of Title 10, Armed Forces.\]
 
-Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under section 78b of Title 15, Commerce and Trade.\]
+Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under section 2170 of Title 50, Appendix, War and National Defense.\]
 
 Sec. 58. \[Amended Ex. Ord. No. 11800, formerly set out as a note under section 301a of Title 37, Pay and Allowances of the Uniformed Services.\]
 

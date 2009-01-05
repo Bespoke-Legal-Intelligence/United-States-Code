@@ -10,7 +10,7 @@ Section 324, act Sept. 16, 1942, ch. 561, title II, §204, as added Apr. 1, 1944
 
 Section 325, act Sept. 16, 1942, ch. 561, title II, §205, as added Apr. 1, 1944, ch. 150, 58 Stat. 138; amended Apr. 19, 1946, ch. 142, 60 Stat. 97, related to signature and oath of voter.
 
-Section 326, act Sept. 16, 1942, ch. 561, title II, §206, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19, 1946, ch. 142, 60 Stat. 98, related to instructions for marking ballots.
+Section 326, act Sept. 16, 1942, ch. 561, title II, §206, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19,1946, ch. 142, 60 Stat. 98, related to instructions for marking ballots.
 
 Section 327, act Sept. 16, 1942, ch. 561, title II, §207, as added Apr. 1, 1944, ch. 150, 58 Stat. 139; amended Apr. 19, 1946, ch. 142, 60 Stat. 99, related to extension of State's time limits.
 

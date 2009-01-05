@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;The term “community wildfire protection plan” means a plan for an at-risk community that—
 
-&emsp;&emsp;(A) is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable local government, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
+&emsp;&emsp;(A) is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable localgovernment, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
 
 &emsp;&emsp;(B) identifies and prioritizes areas for hazardous fuel reduction treatments and recommends the types and methods of treatment on Federal and non-Federal land that will protect 1 or more at-risk communities and essential infrastructure; and
 
@@ -48,7 +48,7 @@ In this subchapter:
 
 #### (5) Condition class 3
 
-&emsp;The term “condition class 3”, with respect to an area of Federal land, means the condition class description developed by the Rocky Mountain Research Station in the generaltechnical report referred to in paragraph (4) (including any subsequent revision to the report), under which—
+&emsp;The term “condition class 3”, with respect to an area of Federal land, means the condition class description developed by the Rocky Mountain Research Station in the general technical report referred to in paragraph (4) (including any subsequent revision to the report), under which—
 
 &emsp;&emsp;(A) fire regimes on land have been significantly altered from historical ranges;
 
@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;The term “Secretary” means—
 
-&emsp;&emsp;(A) the Secretary of Agriculture, with respect to land of the National Forest System described in section 6502(1)(A) of this title; and
+&emsp;&emsp;(A) the Secretary of Agriculture, with respect to land of the National Forest Systemdescribed in section 6502(1)(A) of this title; and
 
 &emsp;&emsp;(B) the Secretary of the Interior, with respect to public lands described in section 6502(1)(B) of this title.
 
@@ -156,7 +156,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) is in condition class 3, as documented by the Secretary in the project-specific environmental analysis; and
 
-&emsp;&emsp;&emsp;(iii) an area that is adjacent to an evacuation route for an at-risk community thatthe Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
+&emsp;&emsp;&emsp;(iii) an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
 
 (Pub. L. 108–148, title I, §101, Dec. 3, 2003, 117 Stat. 1889.)
 

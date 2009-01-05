@@ -38,7 +38,7 @@
 
 #### (C) Consultation
 
-&emsp;&emsp;In developing outreach initiatives for groups that are subject to the requirements of this title and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, shall consult with—
+&emsp;&emsp;In developing outreach initiatives for groups that are subject to the requirementsof this title and the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Secretary of the department in which the Coast Guard is operating, in consultation with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, shall consult with—
 
 &emsp;&emsp;&emsp;(i) the heads of State agencies responsible for implementing State boating laws; and
 

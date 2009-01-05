@@ -30,11 +30,11 @@ For provisions directing that authorities established under this subchapter shal
 
 Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act \[Aug. 2, 2002\], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) \[set out below\].”
 
-Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, provided that:
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, as amended by Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), as soon as practicable after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall transfer $200,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
+Transfer.—Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008 \[June 18, 2008\], the Secretary of Agriculture shall transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
 
 &emsp;“(1) be used by the Secretary of the Interior, acting through the Commissioner of Reclamation, to provide water to at-risk natural desert terminal lakes; and
 
@@ -42,5 +42,9 @@ In General.—Subject to subsection (b), as soon as practicable after the date o
 
 “(b)
 
-Limitation.—The funds described in subsection (a) shall not be used to purchase or lease water rights.”
+Permitted Uses.—In any case in which there are willing sellers, the funds described in subsection (a) may be used—
+
+&emsp;“(1) to lease water; or
+
+&emsp;“(2) to purchase land, water appurtenant to the land, and related interests in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268).”
 

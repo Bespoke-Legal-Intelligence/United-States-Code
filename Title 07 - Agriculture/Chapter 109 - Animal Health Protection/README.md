@@ -23,6 +23,7 @@
 | 8319\. | Surveillance of zoonotic diseases. |
 | [8320\.](%C2%A7%2008320%20-%20Expansion%20of%20Animal%20and%20Plant%20Health%20Inspection%20Service%20activities.md) | Expansion of Animal and Plant Health Inspection Service activities. |
 | [8321\.](%C2%A7%2008321%20-%20Pest%20and%20Disease%20Response%20Fund.md) | Pest and Disease Response Fund. |
+| [8322\.](%C2%A7%2008322%20-%20National%20aquatic%20animal%20health%20plan.md) | National aquatic animal health plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,3 +53,4 @@
 - [&sect; 08319 - Surveillance of zoonotic diseases](%C2%A7%2008319%20-%20Surveillance%20of%20zoonotic%20diseases.md)
 - [&sect; 08320 - Expansion of Animal and Plant Health Inspection Service activities](%C2%A7%2008320%20-%20Expansion%20of%20Animal%20and%20Plant%20Health%20Inspection%20Service%20activities.md)
 - [&sect; 08321 - Pest and Disease Response Fund](%C2%A7%2008321%20-%20Pest%20and%20Disease%20Response%20Fund.md)
+- [&sect; 08322 - National aquatic animal health plan](%C2%A7%2008322%20-%20National%20aquatic%20animal%20health%20plan.md)

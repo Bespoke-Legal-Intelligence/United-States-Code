@@ -52,7 +52,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
 
-&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy,insurance office, professional office of a health care provider, hospital, or other service establishment;
+&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
 
 &emsp;&emsp;(G) a terminal, depot, or other station used for specified public transportation;
 
@@ -68,7 +68,7 @@ As used in this subchapter:
 
 #### (8) Rail and railroad
 
-&emsp;The terms “rail” and “railroad” have the meaning given the term “railroad” in section 20102(1) of title 49.
+&emsp;The terms “rail” and “railroad” have the meaning given the term “railroad” in section 20102(1) <sup>1</sup> of title 49.
 
 #### (9) Readily achievable
 
@@ -88,13 +88,15 @@ As used in this subchapter:
 
 #### (11) Vehicle
 
-&emsp;The term “vehicle” does not include a rail passenger car, railroad locomotive, railroad freight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.
+&emsp;The term “vehicle” does not include a rail passenger car, railroad locomotive, railroadfreight car, railroad caboose, or a railroad car described in section 12162 of this title or covered under this subchapter.
 
 (Pub. L. 101–336, title III, §301, July 26, 1990, 104 Stat. 353.)
 
 #### References in Text
 
 The Fair Housing Act of 1968, referred to in par. (2), probably means the Fair Housing Act, title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+
+Section 20102(1) of title 49, referred to in par. (8), was redesignated section 20102(2) and a new section 20102(1) was added by Pub. L. 110–432, div. A, §2(b)(1), (2), Oct. 16, 2008, 122 Stat. 4850.
 
 This chapter, referred to in par. (9)(A), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 

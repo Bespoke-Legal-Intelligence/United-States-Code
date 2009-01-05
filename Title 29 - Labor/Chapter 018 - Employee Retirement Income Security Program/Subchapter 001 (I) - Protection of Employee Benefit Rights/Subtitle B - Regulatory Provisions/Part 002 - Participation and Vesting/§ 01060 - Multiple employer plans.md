@@ -14,7 +14,7 @@ Notwithstanding any other provision of this part or part 3, the following provis
 
 For purposes of this part and part 3—
 
-&emsp;(1) in any case in which the employer maintains a plan of a predecessor employer, service for such predecessor shall be treated as service for the employer, and
+&emsp;(1) in any case in which the employer maintains a plan of a predecessor employer, servicefor such predecessor shall be treated as service for the employer, and
 
 &emsp;(2) in any case in which the employer maintains a plan which is not the plan maintained by a predecessor employer, service for such predecessor shall, to the extent provided in regulations prescribed by the Secretary of the Treasury, be treated as service for the employer.
 
@@ -26,9 +26,15 @@ For purposes of sections 1052, 1053, and 1054 of this title, all employees of al
 
 For purposes of sections 1052, 1053, and 1054 of this title, under regulations prescribed by the Secretary of the Treasury, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (c) of this section.
 
-(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048.)
+(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111.)
 
 #### Amendment of Section
+
+<i>Pub. L. 110–458, title I, §§109(c)(2), 112, Dec. 23, 2008, 122 Stat. 5111, 5113, provided that, effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, subsection (e) of this section is amended as follows:</i>
+
+<i>(1) by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.”; and</i>
+
+<i>(2) by striking paragraph (3) and by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively.</i>
 
 <i>Pub. L. 109–280, title IX, §903(b)(1), (2)(A), (c), Aug. 17, 2006, 120 Stat. 1044, 1048, provided that, applicable to plan years beginning after Dec. 31, 2009, this section is amended as follows:</i>
 
@@ -76,7 +82,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### <i>(iii) Special rule for applicable defined benefit plans</i>
 
-&emsp;&emsp;&emsp;<i>If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:</i>
+&emsp;&emsp;&emsp;<i>If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the</i><i>plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:</i>
 
 <b><i> If the participant's age as of the</i></b>
 
@@ -140,7 +146,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### <i>(E) Uniform provision of contributions and benefits</i>
 
-&emsp;&emsp;<i>In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions</i><i>and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.</i>
+&emsp;&emsp;<i>In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.</i>
 
 #### <i>(F) Requirements must be met without taking into account social security and similar contributions and benefits or other plans</i>
 
@@ -229,6 +235,10 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 1989—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted “and (e)(3)(C) of such Code” for “and (e)(3)(C) of such code”, which for purposes of codification was translated as “and (e)(3)(C) of title 26” thus requiring no change in text.
 
 Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

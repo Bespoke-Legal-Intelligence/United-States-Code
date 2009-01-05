@@ -2,7 +2,7 @@
 
 Congress hereby finds and declares that—
 
-&emsp;(1) the United States, as a member of the Economic Commission for Europe of the United Nations, participated in development by that Commission of the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage;
+&emsp;(1) the United States, as a member of the Economic Commission for Europe of the United Nations, participated in development by that Commission of the Agreement on theInternational Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage;
 
 &emsp;(2) the agreement requires that equipment involved in the international carriage of perishable foodstuffs be inspected, tested, and certified to specified standards;
 

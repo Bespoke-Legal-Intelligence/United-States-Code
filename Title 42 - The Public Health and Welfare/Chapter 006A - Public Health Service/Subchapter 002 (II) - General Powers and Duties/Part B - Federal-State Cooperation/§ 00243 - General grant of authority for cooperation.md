@@ -6,7 +6,7 @@ The Secretary is authorized to accept from State and local authorities any assis
 
 #### (b) Comprehensive and continuing planning; training of personnel for State and local health work; fees
 
-The Secretary shall encourage cooperative activities between the States with respect to comprehensive and continuing planning as to their current and future health needs, the establishment and maintenance of adequate public healthservices, and otherwise carrying out public health activities. The Secretary is also authorized to train personnel for State and local health work. The Secretary may charge only private entities reasonable fees for the training of their personnel under the preceding sentence.
+The Secretary shall encourage cooperative activities between the States with respect to comprehensive and continuing planning as to their current and future health needs, the establishment and maintenance of adequate public health services, and otherwise carrying out public health activities. The Secretary is also authorized to train personnel for State and local health work. The Secretary may charge only private entities reasonable fees for the training of their personnel under the preceding sentence.
 
 #### (c) Development of plan to control epidemics and meet emergencies or problems resulting from disasters; cooperative planning; temporary assistance; reimbursement of United States
 

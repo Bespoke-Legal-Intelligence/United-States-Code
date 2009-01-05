@@ -36,5 +36,5 @@ Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day per
 
 #### Prior Appointments of Certain Personnel
 
-Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) ofthis subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
 

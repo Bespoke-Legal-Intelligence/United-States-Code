@@ -52,7 +52,7 @@
 - [&sect; 00485 - Payment to assignment holders of moneys collected for use of subsurface rights](%C2%A7%2000485%20-%20Payment%20to%20assignment%20holders%20of%20moneys%20collected%20for%20use%20of%20subsurface%20rights.md)
 - [&sect; 00486 - Regulations](%C2%A7%2000486%20-%20Regulations.md)
 - [&sect; 00487 - Spokane Indian Reservation; consolidations of land](%C2%A7%2000487%20-%20Spokane%20Indian%20Reservation%3B%20consolidations%20of%20land.md)
-- [&sect; 00488 - Agricultural loans to acquire land within reservations](%C2%A7%2000488%20-%20Agricultural%20loans%20to%20acquire%20land%20within%20reservations.md)
+- [&sect; 00488 - Loans to purchasers of highly fractioned land](%C2%A7%2000488%20-%20Loans%20to%20purchasers%20of%20highly%20fractioned%20land.md)
 - [&sect; 00489 - Title in trust to United States](%C2%A7%2000489%20-%20Title%20in%20trust%20to%20United%20States.md)
 - [&sect; 00490 - Tribal rights and privileges in connection with loans](%C2%A7%2000490%20-%20Tribal%20rights%20and%20privileges%20in%20connection%20with%20loans.md)
 - [&sect; 00491 - Mortgaged property governed by State law](%C2%A7%2000491%20-%20Mortgaged%20property%20governed%20by%20State%20law.md)

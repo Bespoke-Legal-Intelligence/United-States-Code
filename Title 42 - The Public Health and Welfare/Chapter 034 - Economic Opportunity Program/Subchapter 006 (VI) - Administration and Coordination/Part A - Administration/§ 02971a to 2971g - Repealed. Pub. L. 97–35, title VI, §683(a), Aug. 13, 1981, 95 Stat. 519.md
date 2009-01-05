@@ -8,7 +8,7 @@ Section 2971c, Pub. L. 88–452, title VI, §623, formerly §624, as added Pub. 
 
 Section 2971d, Pub. L. 88–452, title VI, §624, formerly §625, as added Pub. L. 92–424, §24, Sept. 19, 1972, 86 Stat. 697; amended Pub. L. 93–644, §9(d), Jan. 4, 1975, 88 Stat. 2314; renumbered §624, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to applicability, etc., of the poverty line.
 
-Section 2971e, Pub. L. 88–452, title VI, §625, formerly §626, as added Pub. L. 93–355, §3(f), July 25, 1974, 88 Stat.390; renumbered §625, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to independence of the Legal Services Corporation.
+Section 2971e, Pub. L. 88–452, title VI, §625, formerly §626, as added Pub. L. 93–355, §3(f), July 25, 1974, 88 Stat. 390; renumbered §625, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to independence of the Legal Services Corporation.
 
 Section 2971f, Pub. L. 88–452, title VI, §626, as added Pub. L. 93–644, §9(e), Jan. 4, 1975, 88 Stat. 2314; renumbered §627, Pub. L. 94–341, §2(c), July 6, 1976, 90 Stat. 806; renumbered §626, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, set forth provisions relating to criminal activity and penalties.
 

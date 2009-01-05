@@ -88,6 +88,30 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the population of such possession for such calendar year.
 
+#### (5) Increase and set aside for housing bonds for 2008
+
+#### (A) Increase for 2008
+
+&emsp;&emsp;In the case of calendar year 2008, the State ceiling for each State shall be increased by an amount equal to $11,000,000,000 multiplied by a fraction—
+
+&emsp;&emsp;&emsp;(i) the numerator of which is the State ceiling applicable to the State for calendar year 2008, determined without regard to this paragraph, and
+
+&emsp;&emsp;&emsp;(ii) the denominator of which is the sum of the State ceilings determined under clause (i) for all States.
+
+#### (B) Set aside
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any amount of the State ceiling for any State which is attributable to an increase under this paragraph shall be allocated solely for one or more qualified housing issues.
+
+#### (ii) Qualified housing issue
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified housing issue” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) an issue described in section 142(a)(7) (relating to qualified residential rental projects), or
+
+&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage issue (determined by substituting “12-month period” for “42-month period” each place it appears in section 143(a)(2)(D)(i)).
+
 #### (e) State may provide for different allocation
 
 For purposes of this section—
@@ -160,6 +184,14 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the purpose of issuing qualified redevelopment bonds.
 
+#### (6) Special rules for increased volume cap under subsection (d)(5)
+
+&emsp;No amount which is attributable to the increase under subsection (d)(5) may be used—
+
+&emsp;&emsp;(A) for any issue other than a qualified housing issue (as defined in subsection (d)(5)), or
+
+&emsp;&emsp;(B) to issue any bond after calendar year 2010.
+
 #### (g) Exception for certain bonds
 
 Only for purposes of this section, the term “private activity bond” shall not include—
@@ -198,7 +230,7 @@ For purposes of the volume cap imposed by this section—
 
 &emsp;&emsp;(A) the average maturity date of the qualified student loan bonds to be refunded by the issue of which the refunding bond is a part, or
 
-&emsp;&emsp;(B) the date 17 years after the date on which the refunded bond was issued (or in the case of a series of refundings, the date on which the original bond was issued).
+&emsp;&emsp;(B) the date 17 years after the date on which the refunded bond was issued (or inthe case of a series of refundings, the date on which the original bond was issued).
 
 #### (3) Special rules for qualified mortgage bonds
 
@@ -215,6 +247,22 @@ For purposes of the volume cap imposed by this section—
 #### (5) Exception for advance refunding
 
 &emsp;This subsection shall not apply to any bond issued to advance refund another bond.
+
+#### (6) Treatment of certain residential rental project bonds as refunding bonds irrespective of obligor
+
+#### (A) In general
+
+&emsp;&emsp;If, during the 6-month period beginning on the date of a repayment of a loan financed by an issue 95 percent or more of the net proceeds of which are used to provide projects described in section 142(d), such repayment is used to provide a new loan for any project so described, any bond which is issued to refinance such issue shall be treated as a refunding issue to the extent the principal amount of such refunding issue does not exceed the principal amount of the bonds refunded.
+
+#### (B) Limitations
+
+&emsp;&emsp;Subparagraph (A) shall apply to only one refunding of the original issue and only if—
+
+&emsp;&emsp;&emsp;(i) the refunding issue is issued not later than 4 years after the date on which the original issue was issued,
+
+&emsp;&emsp;&emsp;(ii) the latest maturity date of any bond of the refunding issue is not later than 34 years after the date on which the refunded bond was issued, and
+
+&emsp;&emsp;&emsp;(iii) the refunding issue is approved in accordance with section 147(f) before the issuance of the refunding issue.
 
 #### (j) Population
 
@@ -262,11 +310,11 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat.2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892.)
 
-#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate the State ceiling for volume cap for private activity bonds for calendar year 2008, see section 3.16 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -274,7 +322,13 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 #### Amendments
 
-2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
+2008—Subsec. (d)(5). Pub. L. 110–289, §3021(a)(1), added par. (5).
+
+Subsec. (f)(6). Pub. L. 110–289, §3021(a)(2), added par. (6).
+
+Subsec. (i)(6). Pub. L. 110–289, §3007(a), added par. (6).
+
+2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
 
 2004—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
 
@@ -319,6 +373,12 @@ Subsec. (k)(1). Pub. L. 100–647, §1013(a)(10)(A), substituted “paragraphs (
 Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
 1987—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by section 3007(a) of Pub. L. 110–289 applicable to repayments of loans received after July 30, 2008, see section 3007(c) of Pub. L. 110–289, set out as a note under section 42 of this title.
+
+Amendment by section 3021(a) of Pub. L. 110–289 applicable to bonds issued after July 30, 2008, see section 3021(c) of Pub. L. 110–289, set out as a note under section 143 of this title.
 
 #### Effective Date of 2005 Amendment
 

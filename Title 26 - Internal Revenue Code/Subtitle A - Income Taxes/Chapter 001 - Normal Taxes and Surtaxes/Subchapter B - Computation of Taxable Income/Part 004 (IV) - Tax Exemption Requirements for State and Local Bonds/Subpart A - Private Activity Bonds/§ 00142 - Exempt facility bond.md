@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this part, the term “exempt facility bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
+For purposes of this part, the term “exempt facility bond” means any bond issued as part ofan issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;(1) airports,
 
@@ -52,7 +52,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;(ii) the lease term (as defined in section 168(i)(3)) is not more than 80 percent of the reasonably expected economic life of the property (as determined under section 147(b)), and
 
-&emsp;&emsp;&emsp;(iii) the lessee has no option to purchase the property other than at fair marketvalue (as of the time such option is exercised).
+&emsp;&emsp;&emsp;(iii) the lessee has no option to purchase the property other than at fair market value (as of the time such option is exercised).
 
 > &emsp;&emsp;Rules similar to the rules of the preceding sentence shall apply to management contracts and similar types of operating agreements.
 
@@ -120,7 +120,55 @@ For purposes of this section—
 
 #### (B) Income of individuals; area median gross income
 
-&emsp;&emsp;The income of individuals and area median gross income shall be determined by the Secretary in a manner consistent with determinations of lower income families and area median gross income under section 8 of the United States Housing Act of 1937 (or, if such program is terminated, under such program as in effect immediately before such termination). Determinations under the preceding sentence shall include adjustments for family size. Subsections (g) and (h) of section 7872 shall not apply in determining the income of individuals under this subparagraph.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The income of individuals and area median gross income shall be determined by the Secretary in a manner consistent with determinations of lower income families and area median gross income under section 8 of the United States Housing Act of 1937 (or, if such program is terminated, under such program as in effect immediately before such termination). Determinations under the preceding sentence shall include adjustments for family size. Subsections (g) and (h) of section 7872 shall not apply in determining the income of individuals under this subparagraph.
+
+#### (ii) Special rule relating to basic housing allowances
+
+&emsp;&emsp;&emsp;For purposes of determining income under this subparagraph, payments under section 403 of title 37, United States Code, as a basic pay allowance for housing shall be disregarded with respect to any qualified building.
+
+#### (iii) Qualified building
+
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term “qualified building” means any building located—
+
+&emsp;&emsp;&emsp;&emsp;(I) in any county in which is located a qualified military installation to which the number of members of the Armed Forces of the United States assigned to units based out of such qualified military installation, as of June 1, 2008, has increased by not less than 20 percent, as compared to such number on December 31, 2005, or
+
+&emsp;&emsp;&emsp;&emsp;(II) in any county adjacent to a county described in subclause (I).
+
+#### (iv) Qualified military installation
+
+&emsp;&emsp;&emsp;For purposes of clause (iii), the term “qualified military installation” means any military installation or facility the number of members of the Armed Forces of the United States assigned to which, as of June 1, 2008, is not less than 1,000.
+
+#### (C) Students
+
+&emsp;&emsp;Rules similar to the rules of 42(i)(3)(D) <sup>1</sup> shall apply for purposes of this subsection.
+
+#### (D) Single-room occupancy units
+
+&emsp;&emsp;A unit shall not fail to be treated as a residential unit merely because such unit is a single-room occupancy unit (within the meaning of section 42).
+
+#### (E) Hold harmless for reductions in area median gross income
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Any determination of area median gross income under subparagraph (B) with respect to any project for any calendar year after 2008 shall not be less than the area median gross income determined under such subparagraph with respect to such project for the calendar year preceding the calendar year for which such determination is made.
+
+#### (ii) Special rule for certain census changes
+
+&emsp;&emsp;&emsp;In the case of a HUD hold harmless impacted project, the area median gross income with respect to such project for any calendar year after 2008 (hereafter in this clause referred to as the current calendar year) shall be the greater of the amount determined without regard to this clause or the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the area median gross income determined under the HUD hold harmless policy with respect to such project for calendar year 2008, plus
+
+&emsp;&emsp;&emsp;&emsp;(II) any increase in the area median gross income determined under subparagraph (B) (determined without regard to the HUD hold harmless policy and this subparagraph) with respect to such project for the current calendar year over the area median gross income (as so determined) with respect to such project for calendar year 2008.
+
+#### (iii) HUD hold harmless policy
+
+&emsp;&emsp;&emsp;The term “HUD hold harmless policy” means the regulations under which a policy similar to the rules of clause (i) applied to prevent a change in the method of determining area median gross income from resulting in a reduction in the area median gross income determined with respect to certain projects in calendar years 2007 and 2008.
+
+#### (iv) HUD hold harmless impacted project
+
+&emsp;&emsp;&emsp;The term “HUD hold harmless impacted project” means any project with respect to which area median gross income was determined under subparagraph (B) for calendar year 2007 or 2008 if such determination would have been less but for the HUD hold harmless policy.
 
 #### (3) Current income determinations
 
@@ -128,11 +176,15 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident.
+&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
-&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupiedby a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable incomelimit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
+
+#### (C) Exception for projects with respect to which affordable housing credit is allowed
+
+&emsp;&emsp;In the case of a project with respect to which credit is allowed under section 42, the second sentence of subparagraph (B) shall be applied by substituting “building (within the meaning of section 42)” for “project”.
 
 #### (4) Special rule in case of deep rent skewing
 
@@ -210,11 +262,11 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement of subsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost of the facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
+&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement ofsubsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost of the facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
 
 #### (B) Special rule for existing facilities
 
-&emsp;&emsp;In the case of a facility financed with bonds issued before the date of an order referred to in subparagraph (A) which would (but for this subparagraph) cease to be tax-exempt by reason of subparagraph (A), suchbonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if, to the extent necessary to comply with subparagraph (A)—
+&emsp;&emsp;In the case of a facility financed with bonds issued before the date of an order referred to in subparagraph (A) which would (but for this subparagraph) cease to be tax-exempt by reason of subparagraph (A), such bonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if, to the extent necessary to comply with subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) an escrow to pay principal of, premium (if any), and interest on the bonds is established within a reasonable period after the date such order becomes final, and
 
@@ -386,13 +438,13 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (ii) Rules for carryforward of unused limitation
 
-&emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation arose under rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
+&emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation aroseunder rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
 
 #### (<i>l</i>) Qualified green building and sustainable design projects
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(14), the term “qualified green building and sustainable design project” means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and whichmeets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
+&emsp;For purposes of subsection (a)(14), the term “qualified green building and sustainable design project” means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and which meets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
 
 #### (2) Designations
 
@@ -522,11 +574,11 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (8) Termination
 
-&emsp;Subsection (a)(14) shall not apply with respect to any bond issued after September 30, 2009.
+&emsp;Subsection (a)(14) shall not apply with respect to any bond issued after September 30, 2012.
 
 #### (9) Treatment of current refunding bonds
 
-&emsp;Paragraphs (7)(B) and (8) shall not apply to any bond (or series of bonds) issued to refund a bond issued under subsection (a)(14) before October 1, 2009, if—
+&emsp;Paragraphs (7)(B) and (8) shall not apply to any bond (or series of bonds) issued to refund a bond issued under subsection (a)(14) before October 1, 2012, if—
 
 &emsp;&emsp;(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
 
@@ -578,7 +630,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849.)
 
 #### Amendment of Section
 
@@ -586,7 +638,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### References in Text
 
-Section 8 of the United States Housing Act of 1937, referred to in subsec. (d)(2)(A)(iii), (B), (4)(C)(ii), is classified to section 1437f of Title 42, The Public Health and Welfare.
+Section 8 of the United States Housing Act of 1937, referred to in subsec. (d)(2)(A)(iii), (B)(i), (4)(C)(ii), is classified to section 1437f of Title 42, The Public Health and Welfare.
 
 Sections 211 and 213 of the Federal Power Act, referred to in subsec. (f)(2)(A), are classified to sections 824j and 824<i>l</i>, respectively, of Title 16, Conservation.
 
@@ -611,6 +663,22 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2008—Subsec. (d)(2)(B). Pub. L. 110–289, §3005(a), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) to (iv).
+
+Subsec. (d)(2)(C). Pub. L. 110–289, §3008(b), added subpar. (C).
+
+Subsec. (d)(2)(D). Pub. L. 110–289, §3008(c), added subpar. (D).
+
+Subsec. (d)(2)(E). Pub. L. 110–289, §3009(a), added subpar. (E).
+
+Subsec. (d)(3)(A). Pub. L. 110–289, §3010(a), inserted at end “The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.”
+
+Subsec. (d)(3)(C). Pub. L. 110–289, §3008(a), added subpar. (C).
+
+Subsec. (<i>l</i>)(8). Pub. L. 110–343, §307(a), substituted “September 30, 2012” for “September 30, 2009”.
+
+Subsec. (<i>l</i>)(9). Pub. L. 110–343, §307(b), substituted “October 1, 2012” for “October 1, 2009”.
 
 2006—Subsec. (d)(2)(B). Pub. L. 109–222 substituted “Subsections (g) and (h) of section 7872” for “Section 7872(g)”.
 
@@ -660,6 +728,28 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted “average 
 
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, provided that: “The amendments made by this section \[amending this section\] shall apply to—
+
+&emsp;“(1) determinations made after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2012, in the case of any qualified building (as defined in section 142(d)(2)(B)(iii) of the Internal Revenue Code of 1986)—
+
+&emsp;&emsp;“(A) with respect to which housing credit dollar amounts have been allocated on or before the date of the enactment of this Act \[July 30, 2008\], or
+
+&emsp;&emsp;“(B) with respect to buildings placed in service before such date of enactment, to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued before such date of enactment, and
+
+&emsp;“(2) determinations made after the date of enactment of this Act \[July 30, 2008\], in the case of qualified buildings (as so defined)—
+
+&emsp;&emsp;“(A) with respect to which housing credit dollar amounts are allocated after the date of the enactment of this Act \[July 30, 2008\] and before January 1, 2012, or
+
+&emsp;&emsp;“(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\] and before January 1, 2012, to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment and before January 1, 2012.”
+
+Pub. L. 110–289, div. C, title I, §3008(d), July 30, 2008, 122 Stat. 2887, provided that: “The amendments made by this section \[amending this section\] shall apply to determinations of the status of qualified residential rental projects for periods beginning after the date of the enactment of this Act \[July 30, 2008\], with respect to bonds issued before, on, or after such date.”
+
+Pub. L. 110–289, div. C, title I, §3009(b), July 30, 2008, 122 Stat. 2888, provided that: “The amendment made by this section \[amending this section\] shall apply to determinations of area median gross income for calendar years after 2008.”
+
+Pub. L. 110–289, div. C, title I, §3010(b), July 30, 2008, 122 Stat. 2888, provided that: “The amendment made by this section \[amending this section\] shall apply to years ending after the date of the enactment of this Act \[July 30, 2008\].”
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–222, title II, §209(c), May 17, 2006, 120 Stat. 352, provided that: “The amendment made by this section \[amending this section and section 7872 of this title\] shall apply to calendar years beginning after December 31, 2005, with respect to loans made before, on, or after such date.”
@@ -698,7 +788,7 @@ Section 6180(c) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Accountability
 
-Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, provided that: “Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(<i>l</i>)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(<i>l</i>)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury.”
+Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: “Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(<i>l</i>)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(<i>l</i>)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury.”
 
 #### No Inference With Respect to Outstanding Bonds From Use of Term “Person”
 
@@ -707,4 +797,6 @@ Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘pe
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
 Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section 42(i)(3)(D)”.</i>
 

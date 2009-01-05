@@ -62,7 +62,7 @@ In general.—The Secretary shall conduct research, monitoring, evaluation, and 
 
 Promotion and Coordination of Sanctuary Use.—The Secretary shall take such action as is necessary and reasonable to promote and coordinate the use of national marine sanctuaries for research, monitoring, and education purposes. Such action may include consulting with Federal agencies, States, local governments, regional agencies, interstate agencies, or other persons to promote use of one or more sanctuaries for research, monitoring, and education, including coordination with the National Estuarine Research Reserve System.”
 
-1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretary shall take such action as is necessary to promote and coordinate the use of national marine sanctuaries for research purposes, including—
+1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretary shall take such action as is necessary to promote andcoordinate the use of national marine sanctuaries for research purposes, including—
 
 &emsp;“(1) requiring that the National Oceanic and Atmospheric Administration, in conducting or supporting marine research, give priority to research involving national marine sanctuaries; and
 

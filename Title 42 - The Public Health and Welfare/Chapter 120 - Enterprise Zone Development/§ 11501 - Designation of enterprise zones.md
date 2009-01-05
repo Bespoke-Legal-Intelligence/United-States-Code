@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3) of this section, and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominatedareas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3) of this section, and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
 
 #### (B) Exception where inadequate course of action, etc.
 
@@ -86,7 +86,7 @@
 
 #### (1) In general
 
-&emsp;Any designation of an area as an enterprise zone shall remain in effect during the period beginning on the date of the designation and ending on the earliest of—
+&emsp;Any designation of an area as an enterprise zone shall remain in effect during the periodbeginning on the date of the designation and ending on the earliest of—
 
 &emsp;&emsp;(A) December 31 of the 24th calendar year following the calendar year in which such date occurs;
 
@@ -124,7 +124,7 @@
 
 #### (3) Eligibility requirements
 
-&emsp;For purposes of paragraph (1), a nominated area meets the requirements of this paragraphif the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that—
+&emsp;For purposes of paragraph (1), a nominated area meets the requirements of this paragraph if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that—
 
 &emsp;&emsp;(A) the area is one of pervasive poverty, unemployment, and general distress;
 

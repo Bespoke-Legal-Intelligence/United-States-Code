@@ -24,29 +24,15 @@
 
 (c) There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
-&emsp;(1) Amounts paid into the Fund by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating under subsection (g).
+&emsp;(1) Amounts paid into the Fund by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating under subsection (f).
 
 &emsp;(2) Any amount appropriated to the Fund.
 
 &emsp;(3) Any return on investment of the assets of the Fund.
 
-(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when, and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not beused for any purpose other than transfers as described in this subsection.
+(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when, and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not be used for any purpose other than transfers as described in this subsection.
 
-(e)(1)(A) There is established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries (hereinafter in this section referred to as the “Board”). The Board shall consist of three members, who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
-
-(B)(i) Except as provided in clause (ii), the members of the Board shall serve for a term of fifteen years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
-
-(ii) Of the members of the Board who are first appointed under this paragraph, one each shall be appointed for terms ending five, ten, and fifteen years, respectively, after the date of appointment, as designated by the Secretary of Defense at the time of appointment.
-
-(C) A member of the Board who is not otherwise an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5, for each day the member is engaged in the performance of duties vested in the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of title 5.
-
-(2) The Board shall report to the Secretary of Defense annually on the actuarial status of the Fund and shall furnish its advice and opinion on matters referred to it by the Secretary.
-
-(3) The Board shall review valuations of the Fund under subsection (f) and shall recommend to the President and Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
-
-(4) The Secretary shall keep, or cause to be kept, such records as necessary for determining the actuarial status of the Fund.
-
-(f)(1) The Secretary of Defense shall carry out periodic actuarial valuations of the educational programs described in subsection (b)(1).
+(e)(1) The Secretary of Defense shall carry out periodic actuarial valuations of the educational programs described in subsection (b)(1).
 
 (2) Based on the most recent such valuation, the Secretary of Defense shall estimate the normal cost for the next fiscal year.
 
@@ -54,25 +40,39 @@
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the liquidation of such gain or loss through an increase or decrease in the payments that would otherwise be made to the Fund.
 
-(5) Based on the determinations under paragraphs (2), (3), and (4) the Secretary of Defense shall determine the amount needed to be appropriated to the Department of Defense and the Department in which the Coast Guard is operating for the next fiscal year for payments to be made to the Fund under subsection (g). The President shall include not less than the full amount so determined in the budget transmitted to Congress for the next fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
+(5) Based on the determinations under paragraphs (2), (3), and (4) the Secretary of Defense shall determine the amount needed to be appropriated to the Department of Defense and the Department in which the Coast Guard is operating for the next fiscal year for payments to be made to the Fund under subsection (f). The President shall include not less than the full amount so determined in the budget transmitted to Congress for the next fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 
 (6) All determinations under this subsection shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
-(g)(1) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall pay into the Fund each month the amount that, based upon the most recent actuarial valuation of the education programs described in subsection (b)(1), is equal to the actual total normal cost for the preceding month.
+(f)(1) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall pay into the Fund each month the amount that, based upon the most recent actuarial valuation of the education programs described in subsection (b)(1), is equal to the actual total normal cost for the preceding month.
 
 (2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall pay into the Fund at the beginning of each fiscal year (or as soon thereafter as appropriations are available for such purpose) the sum of the following:
 
-&emsp;(A) The amount of the payment for that year, if any, for the amortization of any liability to the Fund resulting from a change in benefits, as determined by the Secretary of Defense under subsection (f)(3).
+&emsp;(A) The amount of the payment for that year, if any, for the amortization of any liability to the Fund resulting from a change in benefits, as determined by the Secretary of Defense under subsection (e)(3).
 
-&emsp;(B) The amount of the payment for that year, if any, for the amortization of any actuarial gain or loss to the Fund, as determined by the Secretary of Defense under subsection (f)(4).
+&emsp;(B) The amount of the payment for that year, if any, for the amortization of any actuarial gain or loss to the Fund, as determined by the Secretary of Defense under subsection (e)(4).
 
 (3) Amounts paid into the Fund under this subsection shall be paid from appropriations available for the pay of members of the armed forces under the jurisdiction of the Secretary concerned.
 
-(h) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
+(g) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26,§7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894; Pub. L. 109–364, div. A, title X, §1071(a)(9), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §906(b)(2), Jan. 28, 2008, 122 Stat. 277.)
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–181, §906(b)(2)(A), substituted “subsection (f)” for “subsection (g)”.
+
+Subsec. (e). Pub. L. 110–181, §906(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e) which established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries.
+
+Subsec. (e)(5). Pub. L. 110–181, §906(b)(2)(D), substituted “subsection (f)” for “subsection (g)”.
+
+Subsec. (f). Pub. L. 110–181, §906(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2)(A). Pub. L. 110–181, §906(b)(2)(E)(i), substituted “subsection (e)(3)” for “subsection (f)(3)”.
+
+Subsec. (f)(2)(B). Pub. L. 110–181, §906(b)(2)(E)(ii), substituted “subsection (e)(4)” for “subsection (f)(4)”.
+
+Subsecs. (g), (h). Pub. L. 110–181, §906(b)(2)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 2006—Subsec. (b)(1). Pub. L. 109–364 inserted “of this title” after “1607” and struck out “of this title” before period at end.
 

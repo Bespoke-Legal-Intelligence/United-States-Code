@@ -34,7 +34,7 @@
 
 &emsp;(A) ensure that personnel and resources of each regional research center shall have substantial participation in the stock assessments and monitoring of highly migratory species that occur in the region;
 
-&emsp;(B) provide for comparable monitoring of all United States fishermen to which the Atlantic Tunas Convention Act of 1975 applies with respect to effort and species composition of catch and discards;
+&emsp;(B) provide for comparable monitoring of all United States fishermen to which the AtlanticTunas Convention Act of 1975 applies with respect to effort and species composition of catch and discards;
 
 &emsp;(C) consult with relevant Federal and State agencies, scientific and technical experts, commercial and recreational fishermen, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan; and
 

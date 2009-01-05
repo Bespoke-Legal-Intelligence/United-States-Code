@@ -54,7 +54,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 
-&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files forthe requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
+&emsp;(6) if the court finds under this subsection that the Central Intelligence Agency has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Central Intelligence Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section; and
 
 &emsp;(7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
@@ -82,19 +82,19 @@ The text of section 432 of this title, which was transferred to this section and
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(6)(A), substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(6)(A), substituted “The Director of the Central Intelligence Agency, with the coordination of the Director of National Intelligence, may exempt operational files of the Central Intelligence Agency” for “Operational files of the Central Intelligence Agency may be exempted by the Director of Central Intelligence”.
 
 Subsec. (c)(3). Pub. L. 108–458, §1072(a)(7), substituted “Office of the Director of National Intelligence” for “Office of the Director of Central Intelligence”.
 
 Subsec. (g)(1). Pub. L. 108–458, §1071(a)(6)(B), substituted “Director of the Central Intelligence Agency and the Director of National Intelligence” for “Director of Central Intelligence”.
 
-2003—Pub. L. 108–136, §922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
+<b>2003</b>—Pub. L. 108–136, §922(d)(1)(B), substituted “Operational files of the Central Intelligence Agency” for “Exemption of certain operational files from search, review, publication, or disclosure” in section catchline.
 
 Subsec. (b). Pub. L. 108–136, §922(b)(1), which directed the substitution of “In this section,” for “For purposes of this title”, was executed by making the substitution for “For the purposes of this title”, to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 108–136, §922(b)(2)(C), inserted heading.
 
-Pub. L. 108–136, §922(b)(2)(B), transferred text of section 432 of this title to this section, redesignated it as subsec. (g), and redesignated subsecs. (a) to (c) of that text as pars. (1) to (3), respectively, of subsec. (g).
+Pub. L. 108–136, §922(b)(2)(B), transferred text of section 432 of this title to this section, redesignated it assubsec. (g), and redesignated subsecs. (a) to (c) of that text as pars. (1) to (3), respectively, of subsec. (g).
 
 Subsec. (g)(1). Pub. L. 108–136, §922(b)(2)(D), substituted “of this section” for “of section 431 of this title”.
 
@@ -104,9 +104,9 @@ Subsec. (g)(3). Pub. L. 108–136, §922(b)(2)(F)(ii), substituted “to determi
 
 Pub. L. 108–136, §922(b)(2)(F)(i), substituted “with this subsection” for “with this section” in first sentence.
 
-2002—Subsec. (c)(3). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
 
-1996—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
 
 #### Effective Date of 2004 Amendment
 

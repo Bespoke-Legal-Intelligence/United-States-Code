@@ -10,7 +10,7 @@ Ex. Ord. No. 11330, Mar. 5, 1967, 32 F.R. 3871, as amended by Ex. Ord. No. 11547
 
 #### Authorization of Appropriations for President's Council on Youth Opportunity
 
-Pub. L. 91–176, Dec. 30, 1969, 83 Stat. 826, provided: “That there is hereby authorized to be appropriated such sums as may be necessary for the expenses of the President's Council on Youth Opportunity, established by Executive Order Numbered 11330 of March 5, 1967.”
+Pub. L. 91–176, Dec. 30, 1969, 83 Stat. 826, provided: “That there is hereby authorized to be appropriatedsuch sums as may be necessary for the expenses of the President's Council on Youth Opportunity, established by Executive Order Numbered 11330 of March 5, 1967.”
 
 
 ---

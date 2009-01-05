@@ -8,7 +8,7 @@
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–454, §501(c), substituted “fiduciary (as defined in section 5506 of this title) for the benefit of a minor, incompetent, or other beneficiary under laws administered by the Secretary,” for “guardian, curator, conservator, committee, or person legally vested with the responsibility or care of a claimant or a claimant's estate, or any other person having charge and custody in a fiduciary capacity of money heretofore or hereafter paid under any of the laws administered by the Secretary for the benefit of any minor, incompetent, or other beneficiary,”.
+2004—Subsec. (a). Pub. L. 108–454, §501(c), substituted “fiduciary (as defined in section 5506 of this title) forthe benefit of a minor, incompetent, or other beneficiary under laws administered by the Secretary,” for “guardian, curator, conservator, committee, or person legally vested with the responsibility or care of a claimant or a claimant's estate, or any other person having charge and custody in a fiduciary capacity of money heretofore or hereafter paid under any of the laws administered by the Secretary for the benefit of any minor, incompetent, or other beneficiary,”.
 
 1994—Subsec. (a). Pub. L. 103–446 inserted a comma after “title 18”.
 

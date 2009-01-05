@@ -34,7 +34,7 @@ Exclusions.—Except as provided in paragraph (3), the term “consumer report�
 
 &emsp;&emsp;(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
 
-&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
+&emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom therequest was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
 &emsp;&emsp;(D) a communication described in subsection (<i>o</i>) or (x) of this section.
 
@@ -108,7 +108,7 @@ Actions included.—The term “adverse action”—
 
 &emsp;(2)
 
-Applicable findings, decisions, commentary, and orders.—For purposes of anydetermination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Board of Governors of the Federal Reserve System or any court shall apply.
+Applicable findings, decisions, commentary, and orders.—For purposes of any determination of whether an action is an adverse action under paragraph (1)(A), all appropriate final findings, decisions, commentary, and orders issued under section 1691(d)(6) of this title by the Board of Governors of the Federal Reserve System or any court shall apply.
 
 (<i>l</i>)
 
@@ -180,7 +180,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 (p)
 
-Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness,<sup>4</sup> credit standing, orcredit capacity, each of the following regarding consumers residing nationwide:
+Consumer Reporting Agency That Compiles and Maintains Files on Consumers on a Nationwide Basis.—The term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” means a consumer reporting agency that regularly engages in the practice of assembling or evaluating, and maintaining, for the purpose of furnishing consumer reports to third parties bearing on a consumer's credit worthiness,<sup>4</sup> credit standing, or credit capacity, each of the following regarding consumers residing nationwide:
 
 &emsp;(1) Public record information.
 
@@ -194,7 +194,7 @@ Definitions Relating to Fraud Alerts.—
 
 Active duty military consumer.—The term “active duty military consumer” means a consumer in military service who—
 
-&emsp;&emsp;(A) is on active duty (as defined in section 101(d)(1) of title 10) or is a reservist performing duty under a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10; and
+&emsp;&emsp;(A) is on active duty (as defined in section 101(d)(1) of title 10) or is a reservist performing duty under a call or order to active dutyunder a provision of law referred to in section 101(a)(13) of title 10; and
 
 &emsp;&emsp;(B) is assigned to service away from the usual duty station of the consumer.
 
@@ -302,7 +302,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;&emsp;&emsp;(ii) compliance with Federal, State, or local laws and regulations, the rules of a self-regulatory organization, or any preexisting written policies of the employer;
 
-&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's creditworthiness,<sup>5</sup> credit standing, or credit capacity; and
+&emsp;&emsp;(C) the communication is not made for the purpose of investigating a consumer's credit worthiness,<sup>5</sup> credit standing, or credit capacity; and
 
 &emsp;&emsp;(D) the communication is not provided to any person except—
 
@@ -388,7 +388,7 @@ Section 2420 of div. A of Pub. L. 104–208 provided that:
 
 “(a)
 
-In General.—Except as otherwise specifically provided in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see ShortTitle of 1996 Amendment note set out under section 1601 of this title\], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act \[Sept. 30, 1996\].
+In General.—Except as otherwise specifically provided in this chapter \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under section 1601 of this title\], the amendments made by this chapter shall become effective 365 days after the date of enactment of this Act \[Sept. 30, 1996\].
 
 “(b)
 

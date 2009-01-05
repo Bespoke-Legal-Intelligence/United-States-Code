@@ -18,7 +18,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in cooperation with the Task Force and the Technical Advisory Committee, shall pay the cost to Federalagencies (or share the cost under interagency agreements) of leasing or purchasing stationary, portable, and micro fuel cells under paragraph (1).
+&emsp;&emsp;The Secretary, in cooperation with the Task Force and the Technical Advisory Committee, shall pay the cost to Federal agencies (or share the cost under interagency agreements) of leasing or purchasing stationary, portable, and micro fuel cells under paragraph (1).
 
 #### (B) Competitive costs and management structures
 

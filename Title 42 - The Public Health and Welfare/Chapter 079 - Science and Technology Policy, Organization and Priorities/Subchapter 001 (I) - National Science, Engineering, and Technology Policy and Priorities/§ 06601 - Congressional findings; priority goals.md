@@ -16,7 +16,7 @@
 
 (b) As a consequence, the Congress finds and declares that science and technology should contribute to the following priority goals without being limited thereto:
 
-&emsp;(1) fostering leadership in the quest for international peace and progress toward human freedom, dignity, and well-being by enlarging the contributions of American scientists and engineers to the knowledge of man and his universe, by making discoveries of basic science widely available at home and abroad, and by utilizing technology in support of United States national and foreign policy goals;
+&emsp;(1) fostering leadership in the quest for international peace and progress toward human freedom, dignity, and well-being by enlarging the contributions of American scientists and engineers to the knowledge of man and his universe, by making discoveries of basic science widely available at home and abroad, and by utilizing technology in supportof United States national and foreign policy goals;
 
 &emsp;(2) increasing the efficient use of essential materials and products, and generally contributing to economic opportunity, stability, and appropriate growth;
 
@@ -74,7 +74,7 @@ Sec. 4. The science, engineering, and technology and related activities function
 
 Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
-Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
+Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to bemade available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
 Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
@@ -164,7 +164,7 @@ Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of not more than 45 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 44 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
+Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of notmore than 45 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 44 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
 
 Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the Official, on matters involving science and technology policy.
 
@@ -258,7 +258,7 @@ Sec. 5. <i>General Provisions.</i>
 
 (b) The Council shall terminate 2 years from the date of this order unless extended by the President prior to that date.
 
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at lawor equity by a party against the United States, its agencies, its officers, or any person.
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -296,7 +296,7 @@ This memorandum implements these recommendations with some modifications. For cl
 
 The memorandum also responds to the Advisory Committee's call for a special review process for classified human subjects research. It requires that institutional review boards for secret projects include a nongovernmental member, and establishes an appeals process so that any member of a review board who believes a project should not go forward can appeal the boards’ decision to approve it.
 
-Finally, this memorandum sets forth additional steps to ensure that classified human research is rare. It requires the heads of Federal agencies to disclose annually the number of secret human research projects undertaken by their agency. It also prohibits any agency from conducting secret human research without first promulgating a final rule applying the Federal Policy for the Protection of Human Subjects, as modified in this memorandum, to the agency.
+Finally, this memorandum sets forth additional steps to ensure that classified human research is rare. It requires the heads of Federal agencies to disclose annually the number of secret human research projectsundertaken by their agency. It also prohibits any agency from conducting secret human research without first promulgating a final rule applying the Federal Policy for the Protection of Human Subjects, as modified in this memorandum, to the agency.
 
 These steps, set forth in detail below, will preserve the government's ability to conduct any necessary classified research involving human subjects while ensuring adequate protection of research participants.
 

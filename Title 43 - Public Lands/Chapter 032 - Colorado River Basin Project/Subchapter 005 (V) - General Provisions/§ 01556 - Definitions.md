@@ -4,7 +4,7 @@ As used in this chapter, (a) all terms which are defined in the Colorado River C
 
 (b) “Main stream” means the main stream of the Colorado River downstream from Lee Ferry within the United States, including the reservoirs thereon;
 
-(c) “User” or “water user” in relation to main stream water in the lower basin means the United States or any person or legal entity entitled under the decree of the Supreme Court of the United States in Arizona against California, and others (376 U.S. 340), to use main stream water when available thereunder;
+(c) “User” or “water user” in relation to main stream water in the lower basin means the United States or any person or legal entity entitled under the decree of the Supreme Court of the United States in Arizona against California,and others (376 U.S. 340), to use main stream water when available thereunder;
 
 (d) “Active storage” means that amount of water in reservoir storage, exclusive of bank storage, which can be released through the existing reservoir outlet works;
 

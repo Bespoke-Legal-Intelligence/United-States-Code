@@ -198,7 +198,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;(C) to the extent—
 
-&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred to in subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
+&emsp;&emsp;&emsp;(i) that such excess distribution taxes are allocated to a taxable year referred toin subsection (a)(1)(B), such taxes shall be taken into account under section 901 for the current year, and
 
 &emsp;&emsp;&emsp;(ii) that such excess distribution taxes are allocated to any other taxable year, such taxes shall reduce (subject to the principles of section 904(d) and not below zero) the increase in tax determined under subsection (c)(2) for such taxable year by reason of such distribution (but such taxes shall not be taken into account under section 901).
 
@@ -218,7 +218,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 #### (B) Excess distribution taxes
 
-&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, theportion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
+&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
 
 #### (C) Section 1248 gain
 

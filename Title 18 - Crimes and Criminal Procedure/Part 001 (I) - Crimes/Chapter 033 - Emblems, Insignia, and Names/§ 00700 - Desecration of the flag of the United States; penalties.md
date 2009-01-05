@@ -6,7 +6,7 @@
 
 (b) As used in this section, the term “flag of the United States” means any flag of the United States, or any part thereof, made of any substance, of any size, in a form that is commonly displayed.
 
-(c) Nothing in this section shall be construed as indicating an intent on the part of Congressto deprive any State, territory, possession, or the Commonwealth of Puerto Rico of jurisdiction over any offense over which it would have jurisdiction in the absence of this section.
+(c) Nothing in this section shall be construed as indicating an intent on the part of Congress to deprive any State, territory, possession, or the Commonwealth of Puerto Rico of jurisdiction over any offense over which it would have jurisdiction in the absence of this section.
 
 (d)(1) An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order issued by a United States district court ruling upon the constitutionality of subsection (a).
 

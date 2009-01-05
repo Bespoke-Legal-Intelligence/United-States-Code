@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (B) Carryover
 
-&emsp;&emsp;If, for any taxable year, the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
+&emsp;&emsp;If, for any taxable year, the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) ofsubparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988.
 
 #### (3) Recognized built-in gain
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section including regulations providing for the appropriate treatment of successor corporations.
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091.)
 
@@ -164,7 +164,7 @@ A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 1997—Subsec. (d)(7). Pub. L. 105–34 inserted at end “For purposes of applying this section to any amount includible in income by reason of section 593(e), the preceding sentence shall be applied without regard to the phrase ‘10-year’.”
 
-1989—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case ofthe minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
+1989—Subsec. (b)(3)(B). Pub. L. 101–239, §7811(c)(8), inserted at end “A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.”
 
 Subsec. (d)(2)(A)(i). Pub. L. 101–239, §7811(c)(4), struck out “(except as provided in subsection (b)(2))” after “taxable year if”.
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369 set out as a note under section 1256 of this title.
 
-Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 

@@ -6,7 +6,7 @@ Reuse Studies.—Whenever the Secretary of Defense or the Secretary of the milit
 
 (b)
 
-Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract orthe failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
+Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
 
 (2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
@@ -46,7 +46,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (8)(A) In attempting to complete consideration of applications within the time period specified in paragraph (7), the Secretary of Defense shall give priority to those applications requesting assistance for a community described in subsection (f)(1).
 
-(B) If an application under paragraph (7) is rejected by the Secretary, the Secretary shallpromptly inform the State or local government of the reasons for the rejection of the application.
+(B) If an application under paragraph (7) is rejected by the Secretary, the Secretary shall promptly inform the State or local government of the reasons for the rejection of the application.
 
 (c)
 
@@ -56,7 +56,7 @@ Research and Technical Assistance.—The Secretary of Defense may make grants to
 
 Definitions.—In this section:
 
-&emsp;(1) The terms “military installation” and “realignment” have the meanings given those terms in section 2687(e) of this title. For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
+&emsp;(1) The terms “military installation” and “realignment” have the meanings given those terms in section 2687(e) of this title. For purposes of subsection (b)(1)(D), the term “military installation” includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
 
 &emsp;(2) The term “defense facility” means any private facility producing goods or services pursuant to a defense contract.
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730.)
 
 #### References in Text
 
@@ -75,6 +75,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 Executive Order 12788, referred to in subsec. (c), is set out below.
 
 #### Amendments
+
+2008—Subsec. (d)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
 
 2006—Subsec. (b)(3). Pub. L. 109–163, §2832(a), substituted “realignment of a military installation” for “significantly reduced operations of a defense facility”, “closure or realignment, cancellation or” for “cancellation,”, and “community or its residents.” for “community and will result in the loss of—
 
@@ -86,7 +88,7 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 
 Subsec. (c). Pub. L. 109–364, §2861, added subsec. (c).
 
-Subsec. (d)(1). Pub. L. 109–364, §2862, inserted at end “For purposes of subsection (b)(1)(D), the term ‘military installation’ includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.”
+Subsec. (d)(1). Pub. L. 109–364, §2862, inserted at end “For purposes of subsection (b)(1)(D), the term ‘military installation’ includes a military facility owned and operated by any of the several States, the Districtof Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.”
 
 Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
 
@@ -180,7 +182,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, titleXLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581, provided that:
 
 #### “SEC. 4001. SHORT TITLE
 
@@ -282,7 +284,7 @@ Duties of Committee.—The Economic Adjustment Committee shall—
 
 &emsp;&emsp;“(B) describes the implementation of defense economic adjustment assistance during the preceding fiscal year; and
 
-&emsp;&emsp;“(C) specifies the number of communities, businesses, and workers affected by defense budget reductions during the preceding fiscal year and suchnumber assisted by Federal economic adjustment programs during that fiscal year.
+&emsp;&emsp;“(C) specifies the number of communities, businesses, and workers affected by defense budget reductions during the preceding fiscal year and such number assisted by Federal economic adjustment programs during that fiscal year.
 
 #### “TITLE XLI—ECONOMIC ADJUSTMENT PLANNING
 
@@ -374,7 +376,7 @@ SBA Use of Authority for Export Financing Assistance.—In determining whether t
 
 Coordination and Integration of Activities and Assistance with Other Agencies.—In providing additional financial assistance pursuant to any increase in loan authority under this division—
 
-&emsp;“(1) Federal agencies concerned with international trade shall participate in the process of coordinationconducted by the Committee pursuant to section 4004(c)(1); and
+&emsp;“(1) Federal agencies concerned with international trade shall participate in the process of coordination conducted by the Committee pursuant to section 4004(c)(1); and
 
 &emsp;“(2) such Federal agencies shall attempt, to the maximum extent practicable, to coordinate and integrate the activities and assistance of the agencies in support of exports, including financial assistance in the form of direct loans, loan guarantees, and insurance, general trade promotion, marketing assistance, and marketing and commercial information, in a manner consistent with the purposes of this division (and the amendments made by this division to other provisions of law).
 

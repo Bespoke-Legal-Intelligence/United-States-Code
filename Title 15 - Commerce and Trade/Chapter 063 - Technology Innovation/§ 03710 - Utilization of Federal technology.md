@@ -74,7 +74,7 @@ The National Technical Information Service shall—
 
 &emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
 
-(2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
+(2) The membership of the Consortium shall consist of the Federal laboratories described inclause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
 (3) The representatives to the Consortium shall elect a Chairman of the Consortium.
 
@@ -152,7 +152,7 @@ Content.—The report shall—
 
 &emsp;&emsp;(ii) discuss technology transfer best practices and effective approaches in the licensing and transfer of technology in the context of the agencies’ missions; and
 
-&emsp;&emsp;(iii) discuss the progress made toward development of additional useful measures ofthe outcomes of technology transfer programs of Federal agencies.
+&emsp;&emsp;(iii) discuss the progress made toward development of additional useful measures of the outcomes of technology transfer programs of Federal agencies.
 
 &emsp;(C)
 
@@ -220,7 +220,7 @@ Subsec. (e)(7)(B)(ii). Pub. L. 102–245, §301(c), substituted “1991, 1992, 1
 
 Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which read as follows:
 
-“(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative researchbetween the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
+“(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
 
 “(B) The demonstration projects established under subparagraph (A) shall serve as model programs. Such projects shall be designed to develop programs and mechanisms for technology transfer from the Federal laboratories which may be utilized by the States and which will enhance Federal, State, and local programs for the transfer of technology.
 
@@ -328,7 +328,7 @@ Sec. 4. <i>International Science and Technology</i>. In order to ensure that the
 
 Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially useful to United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
 
-Sec. 6. <i>Basic Science and Technology Centers</i>. The head of each Executive department and agency shall examine the potential for including the establishment of university research centers in engineering, science, or technology in the strategy and planning for any future research and development programs. Such university centers shall be jointly funded by the Federal Government, the private sector, and, where appropriate, the States and shall focus on areas of fundamental researchand technology that are both scientifically promising and have the potential to contribute to the Nation's long-term economic competitiveness.
+Sec. 6. <i>Basic Science and Technology Centers</i>. The head of each Executive department and agency shall examine the potential for including the establishment of university research centers in engineering, science, or technology in the strategy and planning for any future research and development programs. Such university centers shall be jointly funded by the Federal Government, the private sector, and, where appropriate, the States and shall focus on areas of fundamental research and technology that are both scientifically promising and have the potential to contribute to the Nation's long-term economic competitiveness.
 
 Sec. 7. <i>Reporting Requirements</i>. (a) Within 1 year from the date of this Order \[Apr. 10, 1987\], the Director of the Office of Science and Technology Policy shall convene an interagency task force comprised of the heads of representative agencies and the directors of representative Federal laboratories, or their designees, in order to identify and disseminate creative approaches to technology transfer from Federal laboratories. The task force will report to the President on the progress of and problems with technology transfer from Federal laboratories.
 

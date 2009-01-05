@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 93–259, §28(a)(4), excepted from the term “employee”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–433 applicable only to any employee benefit established or modified on or after Oct. 16, 1990, and other conduct occurring more than 180days after Oct. 16, 1990, except as otherwise provided, see section 105 of Pub. L. 101–433, set out as a note under section 623 of this title.
+Amendment by Pub. L. 101–433 applicable only to any employee benefit established or modified on or after Oct. 16, 1990, and other conduct occurring more than 180 days after Oct. 16, 1990, except as otherwise provided, see section 105 of Pub. L. 101–433, set out as a note under section 623 of this title.
 
 #### Effective Date of 1986 Amendment
 

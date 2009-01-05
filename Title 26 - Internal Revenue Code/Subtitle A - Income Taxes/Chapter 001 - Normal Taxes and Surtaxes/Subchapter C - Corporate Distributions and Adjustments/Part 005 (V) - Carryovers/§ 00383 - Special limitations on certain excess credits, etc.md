@@ -28,7 +28,7 @@ For purposes of this section, rules similar to the rules of subsections (b)(3) a
 
 #### (e) Definitions
 
-Terms used in this section shall have the same respective meanings as when used in section 382, except that appropriate adjustments shall be made to take into account that the limitations of this section apply to credits and net capital losses.
+Terms used in this section shall have the same respective meanings as when used in section 382,except that appropriate adjustments shall be made to take into account that the limitations of this section apply to credits and net capital losses.
 
 (Added Pub. L. 92–178, title III, §302(a), Dec. 10, 1971, 85 Stat. 521; amended Pub. L. 94–455, title VIII, §806(f)(2), title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1605, 1623, 1834; Pub. L. 95–30, title II, §202(d)(3)(B), (C), May 23, 1977, 91 Stat. 148; Pub. L. 96–222, title I, §103(a)(6)(G)(xiii), Apr. 1, 1980, 94 Stat. 211; Pub. L. 96–223, title II, §232(b)(2)(C), (D), Apr. 2, 1980, 94 Stat. 276; Pub. L. 97–34, title II, §221(b)(1)(C), (D), title III, §331(d)(1)(C), (D), Aug. 13, 1981, 95 Stat. 246, 294; Pub. L. 98–369, div. A, title IV, §474(r)(12)(A), (B), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title VI, §621(b), (e)(1), Oct. 22, 1986, 100 Stat. 2265, 2266.)
 
@@ -100,7 +100,7 @@ Amendment by section 331(d)(1)(C), (D) of Pub. L. 97–34 applicable to taxable 
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending aftersuch date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
+Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after such date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, Nov. 6, 1978, 92 Stat. 2763, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 

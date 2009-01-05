@@ -8,13 +8,13 @@ There is established within the Foundation a National Endowment for the Arts.
 
 (1) The Endowment shall be headed by a chairperson, to be known as the Chairperson of the National Endowment for the Arts, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The term of office of the Chairperson shall be four years and the Chairperson shall be eligible for reappointment. The provisions of this subsection shall apply to any person appointed to fill a vacancy in the office of Chairperson. Upon expiration of the chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
+(2) The term of office of the Chairperson shall be four years and the Chairperson shall be eligible for reappointment. The provisions of this subsection shall apply to any person appointed to fill a vacancy in the office of Chairperson. Upon expiration of the Chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
 
 #### (c) Program of contracts, grants-in-aid, or loans to groups and individuals for projects and productions; traditionally underrepresented recipients of financial assistance
 
 The Chairperson, with the advice of the National Council on the Arts, is authorized to establish and carry out a program of contracts with, or grants-in-aid or loans to, groups or, in appropriate cases, individuals of exceptional talent engaged in or concerned with the arts, for the purpose of enabling them to provide or support—
 
-&emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversity and to the maintenance and encouragement of professional excellence;
+&emsp;(1) projects and productions which have substantial national or international artistic and cultural significance, giving emphasis to American creativity and cultural diversityand to the maintenance and encouragement of professional excellence;
 
 &emsp;(2) projects and productions, meeting professional standards or standards of authenticity or tradition, irrespective of origin, which are of significant merit and which, without such assistance, would otherwise be unavailable to our citizens for geographic or economic reasons;
 
@@ -52,7 +52,7 @@ The total amount of any grant to any group pursuant to subsection (c) of this se
 
 #### (f) Eligibility for financial assistance
 
-Any group shall be eligible for financial assistance pursuant to this section only if (1) no partof its net earnings inures to the benefit of any private stockholder or stockholders, or individual or individuals, and (2) donations to such group are allowable as a charitable contribution under the standards of subsection (c) of section 170 of title 26.
+Any group shall be eligible for financial assistance pursuant to this section only if (1) no part of its net earnings inures to the benefit of any private stockholder or stockholders, or individual or individuals, and (2) donations to such group are allowable as a charitable contribution under the standards of subsection (c) of section 170 of title 26.
 
 #### (g) Grants to States for projects and productions; applications; terms and conditions of State plans; minimum allotments; excess appropriations; cost limitations; grants to regional groups; non-Federal funding; definitions
 
@@ -64,7 +64,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 &emsp;(B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c) of this section;
 
-&emsp;(C) provides that the State agency will make such reports, in such form and containing such information, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
+&emsp;(C) provides that the State agency will make such reports, in such form and containing suchinformation, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
 
 &emsp;(D) provides—
 
@@ -98,7 +98,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (D) For the purpose of paragraph (3) and paragraph (4) of this section the term “regional group” means any multistate group, whether or not representative of contiguous States.
 
-(E) For purposes of paragraph (3)(B), the term “State” includes, in addition to the severalStates of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
+(E) For purposes of paragraph (3)(B), the term “State” includes, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
 (5) All amounts allotted or made available under paragraph (3) for a fiscal year which are not granted to a State during such year shall be available at the end of such year to the National Endowment for the Arts for the purpose of carrying out subsection (c) of this section.
 
@@ -116,7 +116,7 @@ Whenever the Chairperson, after reasonable notice and opportunity for hearing, f
 
 #### (i) Application for financial assistance; requirements
 
-It shall be a condition of the receipt of financial assistance provided under this section by the Chairperson or the State agency that the applicant for such assistance include in its application—
+It shall be a condition of the receipt of financial assistance provided under this section bythe Chairperson or the State agency that the applicant for such assistance include in its application—
 
 &emsp;(1) a detailed description of the proposed project, production, workshop, or program for which the applicant requests such assistance;
 
@@ -214,7 +214,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;&emsp;(I) artistic and programmatic development to enhance artistic capabilities, including staff development; and
 
-&emsp;&emsp;(II) technical assistance to improve managerial and organizational skills, financialsystems management, and long-range fiscal planning; and
+&emsp;&emsp;(II) technical assistance to improve managerial and organizational skills, financial systems management, and long-range fiscal planning; and
 
 &emsp;(ii) stimulating artistic activity and awareness and broadening public access to the arts in rural and innercity areas and other areas that are underserved artistically.
 
@@ -228,7 +228,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 #### (q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports
 
-The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shallalso include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment's programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966.)
 
@@ -276,7 +276,7 @@ Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsec. (<i>l</i
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and\(<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
+Subsecs. (n), (<i>o</i>). Pub. L. 101–512, §318 \[title I, §103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (<i>o</i>), respectively. Former subsecs. (n) and (<i>o</i>) redesignated (<i>o</i>) and (p), respectively.
 
 Pub. L. 101–512, §318 \[title I, §103(g)(1)\], redesignated subsecs. (k) and (<i>l</i>) as (n) and (<i>o</i>), respectively.
 
@@ -348,7 +348,7 @@ Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
 
-Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows:“The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
+Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
 
 Subsec. (g)(5). Pub. L. 93–133, §2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 

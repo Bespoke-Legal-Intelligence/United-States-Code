@@ -2,7 +2,7 @@
 
 The Secretary of State shall dispose of any United States property held by the International Pacific Salmon Fisheries Commission on the date of its termination in a manner which would further the purposes of this chapter.
 
-(Pub. L. 99–5, §13 \[part\], Mar. 15, 1985, 99 Stat. 15.)
+(Pub. L. 99–5, §13 (part), Mar. 15, 1985, 99 Stat. 15.)
 
 #### Codification
 

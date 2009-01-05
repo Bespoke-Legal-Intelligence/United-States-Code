@@ -28,7 +28,7 @@ The legislature shall keep a journal of its proceedings and publish the same. Ev
 
 A listing of all laws enacted by the legislature each year shall be transmitted with the annual report to Congress required pursuant to section 1591 of this title.
 
-(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L. 95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
+(July 22, 1954, ch. 558, §9, 68 Stat. 501; Pub. L. 90–496, §§2, 3, Aug. 23, 1968, 82 Stat. 837; Pub. L.95–134, title III, §301(b), Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–348, §4(c)(1), Aug. 18, 1978, 92 Stat. 490; Pub. L. 96–470, title II, §206(d), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 106–364, §2, Oct. 27, 2000, 114 Stat. 1408.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make achange of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
+Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make a change of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
 
 (2) Paragraph (1) applies to the following:
 
@@ -26,7 +26,7 @@ Maximum Payment Period.—(1) In the case of a change of permanent station descr
 
 &emsp;(B) such payment or reimbursement may be provided only for expenses incurred before leaving the United States (other than Hawaii or Alaska).
 
-(3) Whenever the conditions described in clause (i) or (ii) of subparagraph (A) of section 403(b)(7) of this title exist for a military housing area or portion thereof, the Secretary concerned may increase the period for which subsistence expenses are to be paid or reimbursed under this section in the case of a change of permanent station described in subparagraph (A) or (C) of subsection (a)(2) in the same military housing area or portion thereof to a maximum of 20 days.
+(3) Whenever the conditions described in clause (i) or (ii) of subparagraph (A) of section 403(b)(7) of this title exist for a military housing area or portion thereof, the Secretary concerned may increase the period for which subsistence expenses are to be paid or reimbursed under this section in the case of a change of permanent station described in subparagraph (A) or (C) of subsection (a)(2) in the same military housing area or portion thereof to a maximum of 60 days.
 
 (d)
 
@@ -34,11 +34,15 @@ Daily Subsistence Rates.—Regulations prescribed under subsection (a) shall pre
 
 (e)
 
-Maximum Daily Payment.—A member may not be paid or reimbursed more than $180 a day under this section.
+Maximum Daily Payment.—A member may not be paid or reimbursed more than $290 a day under this section.
 
-(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 109–163, div. A, title VI, §609(b), Jan. 6, 2006, 119 Stat. 3290.)
+(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, titleVI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 109–163, div. A, title VI, §609(b), Jan. 6, 2006, 119 Stat. 3290; Pub. L. 110–181, div. A, title VI, §603(a), Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, \[div. A\], title VI, §603, Oct. 14, 2008, 122 Stat. 4483.)
 
 #### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–181 substituted “60 days” for “20 days”.
+
+Subsec. (e). Pub. L. 110–417 substituted “$290 a day” for “$180 a day”.
 
 2006—Subsec. (c)(3). Pub. L. 109–163 added par. (3).
 
@@ -72,7 +76,7 @@ Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” aft
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–163 applicable with respect to months beginning on or after Sept. 1, 2005, seesection 609(c) of Pub. L. 109–163, set out as a note under section 403 of this title.
+Amendment by Pub. L. 109–163 applicable with respect to months beginning on or after Sept. 1, 2005, see section 609(c) of Pub. L. 109–163, set out as a note under section 403 of this title.
 
 #### Effective Date of 2001 Amendment
 

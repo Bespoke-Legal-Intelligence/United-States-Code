@@ -14,10 +14,13 @@
 | [2249a.](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md) | Prohibition on providing financial assistance to terrorist countries. |
 | [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md) | Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display. |
 | [2249c.](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md) | Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials. |
+| [2249d.](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title XII, §1205(a)(2), Oct. 14, 2008, 122 Stat. 4624, added item 2249d.
 
 2006—Pub. L. 109–364, div. A, title XII, §1204(d)(3), Oct. 17, 2006, 120 Stat. 2416, substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in item 2249c.
 
@@ -64,3 +67,4 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02249a - Prohibition on providing financial assistance to terrorist countries](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md)
 - [&sect; 02249b - Display of State flags prohibition on use of funds to arbitrarily exclude flag; position and manner of display](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md)
 - [&sect; 02249c - Regional Defense Combating Terrorism Fellowship Program authority to use appropriated funds for costs associated with education and&#8230;](%C2%A7%2002249c%20-%20Regional%20Defense%20Combating%20Terrorism%20Fellowship%20Program%20authority%20to%20use%20appropriated%20funds%20for%20costs%20associated%20with%20education%20and%E2%80%A6.md)
+- [&sect; 02249d - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2002249d%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)

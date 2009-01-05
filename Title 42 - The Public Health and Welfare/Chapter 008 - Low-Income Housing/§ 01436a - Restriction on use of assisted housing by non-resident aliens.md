@@ -70,7 +70,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(B) protects the individual's privacy to the maximum degree possible.
 
-&emsp;(4) In the case of such an individual who is not a citizen or national of the United States, is not 62 years of age or older, and is receiving financial assistance on September 30, 1996, or applying for financial assistance on or after September 30, 1996, if, at the time of application or recertification for financial assistance, the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
+&emsp;(4) In the case of such an individual who is not a citizen or national of the United States,is not 62 years of age or older, and is receiving financial assistance on September 30, 1996, or applying for financial assistance on or after September 30, 1996, if, at the time of application or recertification for financial assistance, the statement described in paragraph (1) is submitted but the documentation required under paragraph (2) is not presented or if the documentation required under paragraph (2)(A) is presented but such documentation is not verified under paragraph (3)—
 
 &emsp;&emsp;(A) the applicable Secretary—
 
@@ -182,7 +182,7 @@ Section was enacted as part of the Housing and Community Development Act of 1980
 
 Subsec. (c)(1)(B). Pub. L. 105–276, §592(a)(2), aligned cls. (ii) and (iii) with cl. (i).
 
-Subsec. (d)(1)(A). Pub. L. 105–276, §592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and “applicable Secretary considers” for “Secretary considers”.
+Subsec. (d)(1)(A). Pub. L. 105–276, §592(a)(3)(A), in last sentence, substituted “applicable Secretary, or” for “Secretary of Housing and Urban Development, or” and“applicable Secretary considers” for “Secretary considers”.
 
 Subsec. (d)(2). Pub. L. 105–276, §592(a)(3)(B), aligned concluding provisions with par. (2) and inserted “applicable” before “Secretary” in concluding provisions.
 

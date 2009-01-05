@@ -16,7 +16,7 @@ Orders of the Commission under this subchapter shall be issued only after approp
 
 No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
-(Aug. 22, 1940, ch. 686, title II, §211, 54 Stat. 855; Pub. L. 86–507, §1(16), June 11, 1960, 74 Stat. 201;Pub. L. 86–750, §14, Sept. 13, 1960, 74 Stat. 888; Pub. L. 100–181, title VII, §705, Dec. 4, 1987, 101 Stat. 1264.)
+(Aug. 22, 1940, ch. 686, title II, §211, 54 Stat. 855; Pub. L. 86–507, §1(16), June 11, 1960, 74 Stat. 201; Pub. L. 86–750, §14, Sept. 13, 1960, 74 Stat. 888; Pub. L. 100–181, title VII, §705, Dec. 4, 1987, 101 Stat. 1264.)
 
 #### Amendments
 

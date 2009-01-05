@@ -6,9 +6,11 @@
 
 (2) Nothing in subsection (a) may be construed as authorizing or requiring that a veteran who is receiving nursing home care in a Department nursing home on the date of the enactment of this section be displaced, transferred, or discharged from the facility.
 
-(c) The provisions of subsection (a) shall terminate on December 31, 2008.
+(c) The Secretary shall ensure that nursing home care provided under subsection (a) is provided in an age-appropriate manner.
 
-(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, §224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, §106(b), Dec. 6, 2003, 117 Stat. 2046.)
+(d) The provisions of subsection (a) shall terminate on December 31, 2013.
+
+(Added Pub. L. 106–117, title I, §101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, §224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, §106(b), Dec. 6, 2003, 117 Stat. 2046; Pub. L. 110–181, div. A, title XVII, §1706(b), Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–387, title VIII, §805, Oct. 10, 2008, 122 Stat. 4141.)
 
 #### References in Text
 
@@ -16,21 +18,21 @@ The date of the enactment of this section, referred to in subsec. (b)(2), is the
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–181 added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 110–387 substituted “December 31, 2013” for “December 31, 2008”.
+
+Pub. L. 110–181 redesignated former subsec. (c) as (d).
+
 2003—Subsec. (c). Pub. L. 108–170 substituted “December 31, 2008” for “December 31, 2003”.
 
 2000—Subsec. (a). Pub. L. 106–419 inserted “(subject to section 1710(a)(4) of this title)” after “The Secretary”.
 
+#### Finding Related to Age-Appropriate Nursing Home Care
+
+Pub. L. 110–181, div. A, title XVII, §1706(a), Jan. 28, 2008, 122 Stat. 493, provided that: “Congress finds that young veterans who are injured or disabled through military service and require long-term care should have access to age-appropriate nursing home care.”
+
 #### Report to Congressional Committees
 
-Pub. L. 106–117, title I, §101(i), Nov. 30, 1999, 113 Stat. 1550, provided that: “Not later than January 1, 2003, the Secretary \[of Veterans Affairs\] shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of this section \[enacting this section and section 1710B of this title, amending sections 1701, 1710, 1720, 1720B and 1741 of this title, and enacting provisions set out as a note under section 1710B of this title\] (including the amendments made by this section). The Secretary shall include in the report—
-
-&emsp;“(1) the Secretary's assessment of the experience of the Department \[of Veterans Affairs\] under the provisions of this section;
-
-&emsp;“(2) the costs incurred by the Department under the provisions of this section and a comparison of those costs with the Secretary's estimate of the costs that would have been incurred by the Secretary for extended care services if this section had not been enacted; and
-
-&emsp;“(3) the Secretary's recommendations, with respect to the provisions of section 1710A(a) of title 38, United States Code, as added by subsection (a), and with respect to the provisions of section 1701(10) of such title, as added by subsection (b), as to—
-
-&emsp;&emsp;“(A) whether those provisions should be extended or made permanent; and
-
-&emsp;&emsp;“(B) what modifications, if any, should be made to those provisions.”
+Pub. L. 106–117, title I, §101(i), Nov. 30, 1999, 113 Stat. 1550, required the Secretary of Veterans Affairs to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of section 101 of Pub. L. 106–117 not later than January 1, 2003.
 

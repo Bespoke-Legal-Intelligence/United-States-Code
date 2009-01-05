@@ -2,7 +2,7 @@
 
 (a)
 
-Physically Separate Housing.—(1) The Secretary of the Army shall provide for housing male recruits and female recruits separately and securely from each other during basic training.
+Physically Separate Housing.—(1) The Secretary of the Army shall provide for housingmale recruits and female recruits separately and securely from each other during basic training.
 
 (2) To meet the requirements of paragraph (1), the sleeping areas and latrine areas provided for male recruits shall be physically separated from the sleeping areas and latrine areas provided for female recruits by permanent walls, and the areas for male recruits and the areas for female recruits shall have separate entrances.
 
@@ -10,7 +10,7 @@ Physically Separate Housing.—(1) The Secretary of the Army shall provide for h
 
 (b)
 
-Alternative Separate Housing.—If male recruits and female recruits cannot be housed as provided under subsection (a) by October 1, 2001, at a particular installation, the Secretary of the Army shall require (on and after that date) thatmale recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
+Alternative Separate Housing.—If male recruits and female recruits cannot be housed as provided under subsection (a) by October 1, 2001, at a particular installation, the Secretary of the Army shall require (on and after that date) that male recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
 
 (c)
 

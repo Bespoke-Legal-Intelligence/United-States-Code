@@ -18,9 +18,15 @@ Responses To Be Voluntary.—Responses to surveys conducted under this section s
 
 Federal Recordkeeping Requirements.—With respect to a survey authorized under subsection (a) that includes a person referred to in that subsection who is not an employee of the United States or is not otherwise considered an employee of the United States for the purposes of section 3502(3)(A)(i) of title 44, the person shall be considered as being an employee of the United States for the purposes of that section.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L.107–107, div. A, title V, §572, Dec. 28, 2001, 115 Stat. 1122.)
+(d)
+
+Survey Required for Fiscal Year 2010.—Notwithstanding subsection (a), during fiscal year 2010, the Secretary of Defense shall conduct a survey otherwise authorized under such subsection. Thereafter, additional surveys may be conducted not less often than once every three fiscal years.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, §572, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 110–181, div. A, title V, §581(c), Jan. 28, 2008, 122 Stat. 122.)
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
 2001—Subsec. (a). Pub. L. 107–107, §572(a), reenacted heading without change and amended text generally. Text read as follows: “The Secretary of Defense may conduct surveys of members of the armed forces on active duty or in an active status, members of the families of such members, and retired members of the armed forces to determine the effectiveness of Federal programs relating to military families and the need for new programs.”
 

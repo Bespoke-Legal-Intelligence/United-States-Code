@@ -34,7 +34,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (2) Scope of services and activities under plan of care
 
-&emsp;A nursing facility must provide services and activities to attain or maintain the highestpracticable physical, mental, and psychosocial well-being of each resident in accordance with a written plan of care which—
+&emsp;A nursing facility must provide services and activities to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident in accordance with a written plan of care which—
 
 &emsp;&emsp;(A) describes the medical, nursing, and psychosocial needs of the resident and how such needs will be met;
 
@@ -46,7 +46,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (A) Requirement
 
-&emsp;&emsp;A nursing facility must conduct a comprehensive, accurate, standardized, reproducible assessment of each resident's functional capacity, which assessment—
+&emsp;&emsp;A nursing facility must conduct a comprehensive, accurate, standardized, reproducibleassessment of each resident's functional capacity, which assessment—
 
 &emsp;&emsp;&emsp;(i) describes the resident's capability to perform daily life functions and significant impairments in functional capacity;
 
@@ -168,7 +168,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (A) In general
 
-&emsp;&emsp;(i) Except as provided in clause (ii), a nursing facility must not use on a full-time basis any individual as a nurse aide in the facilityon or after October 1, 1990, for more than 4 months unless the individual—
+&emsp;&emsp;(i) Except as provided in clause (ii), a nursing facility must not use on a full-time basis any individual as a nurse aide in the facility on or after October 1, 1990, for more than 4 months unless the individual—
 
 &emsp;&emsp;&emsp;(I) has completed a training and competency evaluation program, or a competency evaluation program, approved by the State under subsection (e)(1)(A) of this section, and
 
@@ -178,7 +178,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (B) Offering competency evaluation programs for current employees
 
-&emsp;&emsp;A nursing facility must provide, for individuals used as a nurse aide by the facility as of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) of this section and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
+&emsp;&emsp;A nursing facility must provide, for individuals used as a nurse aide by the facilityas of January 1, 1990, for a competency evaluation program approved by the State under subsection (e)(1) of this section and such preparation as may be necessary for the individual to complete such a program by October 1, 1990.
 
 #### (C) Competency
 
@@ -304,7 +304,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 &emsp;&emsp;&emsp;&emsp;(II) of changes in the items and services described in subclause (I) and of changes in the charges imposed for items and services described in that subclause; and
 
-&emsp;&emsp;&emsp;(iv) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, ofservices available in the facility and of related charges for such services, including any charges for services not covered under subchapter XVIII of this chapter or by the facility's basic per diem charge.
+&emsp;&emsp;&emsp;(iv) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under subchapter XVIII of this chapter or by the facility's basic per diem charge.
 
 > &emsp;&emsp;The written description of legal rights under this subparagraph shall include a description of the protection of personal funds under paragraph (6) and a statement that a resident may file a complaint with a State survey and certification agency respecting resident abuse and neglect and misappropriation of resident property in the facility.
 
@@ -372,7 +372,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of residents with developmental disabilities, the mailing address and telephone number of the agency responsible for the protection and advocacy system for developmentally disabled individuals established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\]; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) in the case of mentally ill residents (as defined in subsection (e)(7)(G)(i) of this section), the mailing address and telephone number of the agency responsible for the protectionand advocacy system for mentally ill individuals established under the Protection and Advocacy for Mentally Ill Individuals Act <sup>2</sup> \[42 U.S.C. 10801 et seq.\].
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of mentally ill residents (as defined in subsection (e)(7)(G)(i) of this section), the mailing address and telephone number of the agency responsible for the protection and advocacy system for mentally ill individuals established under the Protection and Advocacy for Mentally Ill Individuals Act <sup>2</sup> \[42 U.S.C. 10801 et seq.\].
 
 #### (C) Orientation
 
@@ -452,7 +452,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 &emsp;&emsp;(B) permit immediate access to a resident, subject to the resident's right to deny or withdraw consent at any time, by immediate family or other relatives of the resident;
 
-&emsp;&emsp;(C) permit immediate access to a resident, subject to reasonable restrictions and the resident's right to deny or withdraw consent at any time, by others who are visiting with the consent of the resident;
+&emsp;&emsp;(C) permit immediate access to a resident, subject to reasonable restrictions and theresident's right to deny or withdraw consent at any time, by others who are visiting with the consent of the resident;
 
 &emsp;&emsp;(D) permit reasonable access to a resident by any entity or individual that provides health, social, legal, or other services to the resident, subject to the resident's right to deny or withdraw consent at any time; and
 
@@ -506,7 +506,7 @@ In this subchapter, the term “nursing facility” means an institution (or a d
 
 #### (v) Treatment of continuing care retirement communities admission contracts
 
-&emsp;&emsp;&emsp;Notwithstanding subclause (II) of subparagraph (A)(i), subject to subsections (c)and (d) of section 1396r–5 of this title, contracts for admission to a State licensed, registered, certified, or equivalent continuing care retirement community or life care community, including services in a nursing facility that is part of such community, may require residents to spend on their care resources declared for the purposes of admission before applying for medical assistance.
+&emsp;&emsp;&emsp;Notwithstanding subclause (II) of subparagraph (A)(i), subject to subsections (c) and (d) of section 1396r–5 of this title, contracts for admission to a State licensed, registered, certified, or equivalent continuing care retirement community or life care community, including services in a nursing facility that is part of such community, may require residents to spend on their care resources declared for the purposes of admission before applying for medical assistance.
 
 #### (6) Protection of resident funds
 
@@ -648,7 +648,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (3) State appeals process for transfers and discharges
 
-&emsp;The State, for transfers and discharges from nursing facilities effected on or after October1, 1989, must provide for a fair mechanism, meeting the guidelines established under subsection (f)(3) of this section, for hearing appeals on transfers and discharges of residents of such facilities; but the failure of the Secretary to establish such guidelines under such subsection shall not relieve any State of its responsibility under this paragraph.
+&emsp;The State, for transfers and discharges from nursing facilities effected on or after October 1, 1989, must provide for a fair mechanism, meeting the guidelines established under subsection (f)(3) of this section, for hearing appeals on transfers and discharges of residents of such facilities; but the failure of the Secretary to establish such guidelines under such subsection shall not relieve any State of its responsibility under this paragraph.
 
 #### (4) Nursing facility administrator standards
 
@@ -656,7 +656,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (5) Specification of resident assessment instrument
 
-&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilities in the State in complying with the requirement of subsection (b)(3)(A)(iii) of this section. Such instrument shall be—
+&emsp;Effective July 1, 1990, the State shall specify the instrument to be used by nursing facilitiesin the State in complying with the requirement of subsection (b)(3)(A)(iii) of this section. Such instrument shall be—
 
 &emsp;&emsp;(A) one of the instruments designated under subsection (f)(6)(B) of this section, or
 
@@ -766,7 +766,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (E) Permitting alternative disposition plans
 
-&emsp;&emsp;With respect to residents of a nursing facility who are mentally retarded or mentally ill and who are determined under subparagraph (B) not to require the level of services of such a facility, but who require specialized services for mental illness or mental retardation, a State and the nursing facility shall be considered to be in compliance with the requirements of subparagraphs (A) through (C) of this paragraph if, before April 1, 1989, the State and the Secretary have entered into an agreement relating to the disposition of such residents of the facility and the State is in compliance with such agreement. Such an agreement may provide for the disposition of the residents after the date specified in subparagraph (C). The State may revise such an agreement, subject to the approval of the Secretary, before October 1, 1991, but only if, under the revisedagreement, all residents subject to the agreement who do not require the level of services of such a facility are discharged from the facility by not later than April 1, 1994.
+&emsp;&emsp;With respect to residents of a nursing facility who are mentally retarded or mentally ill and who are determined under subparagraph (B) not to require the level of services of such a facility, but who require specialized services for mental illness or mental retardation, a State and the nursing facility shall be considered to be in compliance with the requirements of subparagraphs (A) through (C) of this paragraph if, before April 1, 1989, the State and the Secretary have entered into an agreement relating to the disposition of such residents of the facility and the State is in compliance with such agreement. Such an agreement may provide for the disposition of the residents after the date specified in subparagraph (C). The State may revise such an agreement, subject to the approval of the Secretary, before October 1, 1991, but only if, under the revised agreement, all residents subject to the agreement who do not require the level of services of such a facility are discharged from the facility by not later than April 1, 1994.
 
 #### (F) Appeals procedures
 
@@ -776,7 +776,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 &emsp;&emsp;In this paragraph and in subsection (b)(3)(F) of this section:
 
-&emsp;&emsp;&emsp;(i) An individual is considered to be “mentally ill” if the individual has a serious mental illness (as defined by the Secretary in consultation with the National Institute of Mental Health) and does not have a primary diagnosis of dementia (including Alzheimer's disease or a related disorder) or a diagnosis (other than a primary diagnosis) of dementia and a primary diagnosis that is not a serious mental illness.
+&emsp;&emsp;&emsp;(i) An individual is considered to be “mentally ill” if the individual has a serious mental illness (as defined by the Secretary in consultation with the National Institute of Mental Health) and does nothave a primary diagnosis of dementia (including Alzheimer's disease or a related disorder) or a diagnosis (other than a primary diagnosis) of dementia and a primary diagnosis that is not a serious mental illness.
 
 &emsp;&emsp;&emsp;(ii) An individual is considered to be “mentally retarded” if the individual is mentally retarded or a person with a related condition (as described in section 1396d(d) of this title).
 
@@ -814,7 +814,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 &emsp;&emsp;&emsp;(i) may permit approval of programs offered by or in facilities, as well as outside facilities (including employee organizations), and of programs in effect on December 22, 1987;
 
-&emsp;&emsp;&emsp;(ii) shall permit a State to find that an individual who has completed (before July 1, 1989) a nurse aide training and competency evaluation program shall be deemed to have completed such a program approved under subsection (b)(5) of this section if the State determines that, at the time the program was offered, the programmet the requirements for approval under such paragraph; and
+&emsp;&emsp;&emsp;(ii) shall permit a State to find that an individual who has completed (before July 1, 1989) a nurse aide training and competency evaluation program shall be deemed to have completed such a program approved under subsection (b)(5) of this section if the State determines that, at the time the program was offered, the program met the requirements for approval under such paragraph; and
 
 &emsp;&emsp;&emsp;(iii) subject to subparagraphs (C) and (D), shall prohibit approval of such a program—
 
@@ -824,7 +824,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(b) has been subject to an extended (or partial extended) survey under section 1395i–3(g)(2)(B)(i) of this title or subsection (g)(2)(B)(i) of this section; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in section 1395i–3(h)(2)(B)(ii) of this title or subsection (h)(2)(A)(ii) of this section of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i) of this section, clauses <sup>3</sup> (i), (iii), or (iv) of subsection (h)(2)(A) of this section, clauses <sup>3</sup> (i) or (iii) of section 1395i–3(h)(2)(B) of this title, or section 1395i–3(h)(4) of this title, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(c) has been assessed a civil money penalty described in section1395i–3(h)(2)(B)(ii) of this title or subsection (h)(2)(A)(ii) of this section of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i) of this section, clauses <sup>3</sup> (i), (iii), or (iv) of subsection (h)(2)(A) of this section, clauses <sup>3</sup> (i) or (iii) of section 1395i–3(h)(2)(B) of this title, or section 1395i–3(h)(4) of this title, or
 
 &emsp;&emsp;&emsp;&emsp;(II) offered by or in a nursing facility unless the State makes the determination, upon an individual's completion of the program, that the individual is competent to provide nursing and nursing-related services in nursing facilities.
 
@@ -942,13 +942,13 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previoussentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
 &emsp;&emsp;&emsp;Each standard survey shall include, for a case-mix stratified sample of residents—
 
-&emsp;&emsp;&emsp;&emsp;(I) a survey of the quality of care furnished, as measured by indicators of medical, nursing, and rehabilitative care, dietary and nutrition services, activities and social participation, and sanitation, infection control, and the physical environment,
+&emsp;&emsp;&emsp;&emsp;(I) a survey of the quality of care furnished, as measured by indicators ofmedical, nursing, and rehabilitative care, dietary and nutrition services, activities and social participation, and sanitation, infection control, and the physical environment,
 
 &emsp;&emsp;&emsp;&emsp;(II) written plans of care provided under subsection (b)(2) of this section and an audit of the residents’ assessments under subsection (b)(3) of this section to determine the accuracy of such assessments and the adequacy of such plans of care, and
 
@@ -1014,7 +1014,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
+&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determinedthat an individual nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
 
 #### (B) Scope
 
@@ -1126,7 +1126,7 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (D) Repeated noncompliance
 
-&emsp;&emsp;In the case of a nursing facility which, on 3 consecutive standard surveys conducted under subsection (g)(2) of this section, has been found to have provided substandard quality of care, the State shall (regardless of what other remedies are provided)—
+&emsp;&emsp;In the case of a nursing facility which, on 3 consecutive standard surveys conductedunder subsection (g)(2) of this section, has been found to have provided substandard quality of care, the State shall (regardless of what other remedies are provided)—
 
 &emsp;&emsp;&emsp;(i) impose the remedy described in subparagraph (A)(i), and
 
@@ -1180,11 +1180,11 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 &emsp;&emsp;&nbsp;The temporary management under this clause shall not be terminated under subclause (II) until the Secretary has determined that the facility has the management capability to ensure continued compliance with all the requirements of subsections (b), (c), and (d) of this section.
 
-> &emsp;&emsp;The Secretary shall specify criteria, as to when and how each of such remedies is to beapplied, the amounts of any fines, and the severity of each of these remedies, to be used in the imposition of such remedies. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the remedies and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies. In addition, the Secretary may provide for other specified remedies, such as directed plans of correction.
+> &emsp;&emsp;The Secretary shall specify criteria, as to when and how each of such remedies is to be applied, the amounts of any fines, and the severity of each of these remedies, to be used in the imposition of such remedies. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the remedies and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies. In addition, the Secretary may provide for other specified remedies, such as directed plans of correction.
 
 #### (D) Continuation of payments pending remediation
 
-&emsp;&emsp;The Secretary may continue payments, over a period of not longer than 6 months after the effective date of the findings, under this subchapter with respect to a nursing facility not in compliance with a requirement of subsection (b), (c), or (d) of this section, if—
+&emsp;&emsp;The Secretary may continue payments, over a period of not longer than 6 monthsafter the effective date of the findings, under this subchapter with respect to a nursing facility not in compliance with a requirement of subsection (b), (c), or (d) of this section, if—
 
 &emsp;&emsp;&emsp;(i) the State survey agency finds that it is more appropriate to take alternative action to assure compliance of the facility with the requirements than to terminate the certification of the facility, and
 
@@ -1230,11 +1230,11 @@ As a condition of approval of its plan under this subchapter, a State must provi
 
 #### (8) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described inclauses (i), (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII of this chapter.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII of this chapter.
 
 #### (9) Sharing of information
 
-&emsp;Notwithstanding any other provision of law, all information concerning nursing facilities required by this section to be filed with the Secretary or a State agency shall be made available by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XVIII of this chapter, including investigations by State medicaid fraud control units.
+&emsp;Notwithstanding any other provision of law, all information concerning nursing facilities required by this section to be filed with the Secretary or a State agency shall be madeavailable by such facilities to Federal or State employees for purposes consistent with the effective administration of programs established under this subchapter and subchapter XVIII of this chapter, including investigations by State medicaid fraud control units.
 
 #### (i) Construction
 
@@ -1366,7 +1366,7 @@ Subsec. (e)(7)(G)(i). Pub. L. 101–508, §4801(b)(7), substituted “serious me
 
 Subsec. (e)(7)(G)(iii). Pub. L. 101–508, §4801(b)(8), substituted “specialized services” for “active treatment”.
 
-Subsec. (f)(2)(A)(iv)(II). Pub. L. 101–508, §4801(a)(5)(B), inserted “who is employed by (or who has received anoffer of employment from) a facility on the date on which the aide begins either such program” after “nurse aide”.
+Subsec. (f)(2)(A)(iv)(II). Pub. L. 101–508, §4801(a)(5)(B), inserted “who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program” after “nurse aide”.
 
 Subsec. (f)(2)(A)(iv)(III). Pub. L. 101–508, §4801(a)(5)(A), (C), (D), added subcl. (III).
 
@@ -1454,7 +1454,7 @@ Subsec. (f)(7)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(K), substituted “resi
 
 Subsec. (f)(7)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(L)(ii), substituted “include” for “do not include”.
 
-Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding”.
+Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations,that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding”.
 
 Subsec. (g)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
@@ -1594,7 +1594,7 @@ Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, sha
 
 #### Retroactive Review
 
-For requirement that procedures developed by a State permit individual to petition for review of any finding made by a State under subsec. (g)(1)(C) of this section or section 1395i–3(g)(1)(C) of this title after Jan.1, 1995, see section 4755(c) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
+For requirement that procedures developed by a State permit individual to petition for review of any finding made by a State under subsec. (g)(1)(C) of this section or section 1395i–3(g)(1)(C) of this title after Jan. 1, 1995, see section 4755(c) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
 #### Nurse Aide Training and Competency Evaluation; Compliance Actions
 

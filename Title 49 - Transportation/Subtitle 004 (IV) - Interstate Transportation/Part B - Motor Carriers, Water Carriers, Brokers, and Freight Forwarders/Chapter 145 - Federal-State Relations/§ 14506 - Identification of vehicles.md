@@ -10,7 +10,7 @@ Exception.—Notwithstanding subsection (a), a State may continue to require dis
 
 &emsp;(1) under the International Registration Plan under section 31704;
 
-&emsp;(2) under the International Fuel Tax Agreement under section 31705;
+&emsp;(2) under the International Fuel Tax Agreement under section 31705 or under an applicable State law if, on October 1, 2006, the State has a form of highway use taxation not subject to collection through the International Fuel Tax Agreement;
 
 &emsp;(3) under a State law regarding motor vehicle license plates or other displays that the Secretary determines are appropriate;
 
@@ -18,5 +18,9 @@ Exception.—Notwithstanding subsection (a), a State may continue to require dis
 
 &emsp;(5) in connection with the Federal vehicle inspection standards under section 31136.
 
-(Added Pub. L. 109–59, title IV, §4306(a), Aug. 10, 2005, 119 Stat. 1773.)
+(Added Pub. L. 109–59, title IV, §4306(a), Aug. 10, 2005, 119 Stat. 1773; amended Pub. L. 110–244, title III, §301(q), June 6, 2008, 122 Stat. 1617.)
+
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–244 inserted “or under an applicable State law if, on October 1, 2006, the State has a form of highway use taxation not subject to collection through the International Fuel Tax Agreement” before semicolon at end.
 

@@ -24,7 +24,7 @@ Gross income of a corporation (other than an electing corporation) which is a me
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the straight-line method of depreciation shall apply to qualifying vessels the income from operation of which is excluded from gross income under this section.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the straight-line method of depreciation shallapply to qualifying vessels the income from operation of which is excluded from gross income under this section.
 
 #### (ii) Exception
 

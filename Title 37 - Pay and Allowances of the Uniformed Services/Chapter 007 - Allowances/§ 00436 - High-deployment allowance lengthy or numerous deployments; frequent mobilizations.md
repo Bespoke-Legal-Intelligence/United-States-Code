@@ -46,7 +46,7 @@ Authority to Exclude Certain Duty Assignments.—The Secretary concerned may exc
 
 Payment From Operation and Maintenance Funds.—The monthly allowance payable to a member under this section shall be paid from appropriations available for operation and maintenance for the armed force in which the member serves.
 
-(Added Pub. L. 106–65, div. A, title V, §586(b), Oct. 5, 1999, 113 Stat. 638, §435; renumbered §436 and amended, Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c), title X, §1087(b)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292; Pub. L. 107–107, div. A, title V, §592(a), Dec. 28, 2001, 115 Stat. 1125; Pub. L. 108–136, div. A, title V, §541(b)(1)–(5)(A), Nov. 24, 2003, 117 Stat. 1476, 1477.)
+(Added Pub. L. 106–65, div. A, title V, §586(b), Oct. 5, 1999, 113 Stat. 638, §435; renumbered §436 and amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c), title X, §1087(b)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292; Pub. L. 107–107, div. A, title V, §592(a), Dec. 28, 2001, 115 Stat. 1125; Pub. L. 108–136, div. A, title V, §541(b)(1)–(5)(A), Nov. 24, 2003, 117 Stat. 1476, 1477.)
 
 #### Amendments
 

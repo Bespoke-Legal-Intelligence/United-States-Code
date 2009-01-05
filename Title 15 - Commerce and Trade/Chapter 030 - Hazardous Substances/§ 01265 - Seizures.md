@@ -10,7 +10,7 @@ Such hazardous substance shall be liable to seizure by process pursuant to the l
 
 #### (c) Disposition of goods after decree of condemnation
 
-Any hazardous substance condemned under this section shall, after entry of the decree, be disposed of by destruction or sale as the court may, in accordance with the provisions of this section, direct and the proceeds thereof, if sold, less the legal costs and charges, shall be paid into the Treasury of the United States; but such hazardous substance shall not be sold under such decree contrary to the provisions of this chapter or the laws of the jurisdiction in which sold: <i>Provided</i>, That, after entry of the decree and upon the payment of the costs of such proceedings and the execution of a good and sufficient bond conditioned that such hazardous substance shall not be sold or disposed of contrary to the provisions of this chapter or the laws of any State or territory in which sold, the court may by order direct that such hazardous substance be delivered to the owner thereof to be destroyed or brought into compliance with the provisions of this chapter under the supervision of an officer or employee duly designated by the Commission, and the expense of such supervision shall be paid by the person obtaining release of the hazardous substance under bond.
+Any hazardous substance condemned under this section shall, after entry of the decree, bedisposed of by destruction or sale as the court may, in accordance with the provisions of this section, direct and the proceeds thereof, if sold, less the legal costs and charges, shall be paid into the Treasury of the United States; but such hazardous substance shall not be sold under such decree contrary to the provisions of this chapter or the laws of the jurisdiction in which sold: <i>Provided</i>, That, after entry of the decree and upon the payment of the costs of such proceedings and the execution of a good and sufficient bond conditioned that such hazardous substance shall not be sold or disposed of contrary to the provisions of this chapter or the laws of any State or territory in which sold, the court may by order direct that such hazardous substance be delivered to the owner thereof to be destroyed or brought into compliance with the provisions of this chapter under the supervision of an officer or employee duly designated by the Commission, and the expense of such supervision shall be paid by the person obtaining release of the hazardous substance under bond.
 
 #### (d) Costs and fees
 
@@ -24,13 +24,11 @@ In the case of removal for trial of any case as provided by subsection (b) of th
 
 &emsp;(2) the court to which such case is removed shall have the powers and be subject to the duties, for purposes of such case, which the court from which removal was made would have had, or to which such court would have been subject, if such case had not been removed.
 
-(Pub. L. 86–613, §6, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(h), 3(d), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 86–613, §6, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(h), 3(d), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–314 substituted “Commission” for “Secretary”.
+
 1966—Subsec. (a). Pub. L. 89–756 substituted “Any misbranded hazardous substance or banned hazardous substance” for “Any hazardous substance that is in a misbranded package”.
-
-#### Transfer of Functions
-
-“Commission” substituted for “Secretary” in subsec. (c) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 

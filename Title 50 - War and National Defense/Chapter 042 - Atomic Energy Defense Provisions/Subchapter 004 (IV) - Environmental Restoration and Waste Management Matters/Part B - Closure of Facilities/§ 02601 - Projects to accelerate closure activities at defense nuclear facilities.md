@@ -94,7 +94,7 @@ Section was formerly classified to section 7274n of Title 42, The Public Health 
 
 #### Amendments
 
-2003—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
+<b>2003</b>—Subsec. (i). Pub. L. 108–136, §3141(g)(11)(D), substituted “September 23, 2011” for “the expiration of the 15-year period beginning on September 23, 1996”.
 
 #### Defense Site Acceleration Completion
 
@@ -132,7 +132,7 @@ Monitoring by Nuclear Regulatory Commission.—(1) The Commission shall, in coor
 
 &emsp;“(B) The Committee on Armed Services, the Committee on Energy and Natural Resources, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate.
 
-“(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and the Commission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
+“(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and theCommission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
 
 “(4) For fiscal years after 2005, the Commission shall include in the budget justification materials submitted to Congress in support of the Commission budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) the amounts required, not offset by revenues, for performance under subsection (a) and this subsection.
 

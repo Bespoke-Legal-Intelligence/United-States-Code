@@ -16,7 +16,7 @@ Section 397 of title 18, U.S.C., 1940 ed., containing a definition of the terms 
 
 Section 401 of title 18, U.S.C., 1940 ed., prescribing venue was omitted as unnecessary in view of section 3237 of this title.
 
-Section 403 of title 18, U.S.C., 1940 ed., was omitted. No definition of “Territory” is necessary to the revisedsection as it is phrased. Construction therein of “person” is covered by section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended. Last paragraph of said section relating to construction of this chapter was omitted as surplusage.
+Section 403 of title 18, U.S.C., 1940 ed., was omitted. No definition of “Territory” is necessary to the revised section as it is phrased. Construction therein of “person” is covered by section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended. Last paragraph of said section relating to construction of this chapter was omitted as surplusage.
 
 Words “Possession of the United States” were inserted in three places in view of mission of said section 403 of title 18, U.S.C., 1940 ed., and, reference in that section to the Canal Zone is covered by those words. This chapter applies to the Territory of Hawaii. (See <i>Sun Chong Lee v. United States</i>, C.C.A. Hawaii, 1942, 125 F. 2d 95.)
 

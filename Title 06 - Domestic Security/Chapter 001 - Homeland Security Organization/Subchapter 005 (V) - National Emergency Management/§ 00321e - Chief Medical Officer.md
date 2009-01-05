@@ -10,7 +10,7 @@ The individual appointed as Chief Medical Officer shall possess a demonstrated a
 
 #### (c) Responsibilities
 
-The Chief Medical Officer shall have the primary responsibility within the Department for medical issues related to natural disasters, acts of terrorism, and other man-made disasters, including—
+The Chief Medical Officer shall have the primary responsibility within the Department formedical issues related to natural disasters, acts of terrorism, and other man-made disasters, including—
 
 &emsp;(1) serving as the principal advisor to the Secretary and the Administrator on medical and public health issues;
 

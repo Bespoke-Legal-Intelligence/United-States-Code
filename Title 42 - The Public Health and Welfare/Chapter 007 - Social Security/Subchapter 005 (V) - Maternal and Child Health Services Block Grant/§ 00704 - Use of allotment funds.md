@@ -28,7 +28,7 @@ Amounts described in subsection (a) of this section may not be used for—
 
 #### (c) Use of portion of funds
 
-A State may use a portion of the amounts described in subsection (a) of this section for thepurpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, and administering programs funded under this subchapter.
+A State may use a portion of the amounts described in subsection (a) of this section for the purpose of purchasing technical assistance from public or private entities if the State determines that such assistance is required in developing, implementing, and administering programs funded under this subchapter.
 
 #### (d) Limitation on use of funds for administrative costs
 

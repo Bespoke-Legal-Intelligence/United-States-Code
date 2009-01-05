@@ -58,7 +58,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (d) Right of contribution where more than 1 person liable for penalty
 
-If more than 1 person is liable for the penalty under subsection (a) with respect to any tax,each person who paid such penalty shall be entitled to recover from other persons who are liable for such penalty an amount equal to the excess of the amount paid by such person over such person's proportionate share of the penalty. Any claim for such a recovery may be made only in a proceeding which is separate from, and is not joined or consolidated with—
+If more than 1 person is liable for the penalty under subsection (a) with respect to any tax, each person who paid such penalty shall be entitled to recover from other persons who are liable for such penalty an amount equal to the excess of the amount paid by such person over such person's proportionate share of the penalty. Any claim for such a recovery may be made only in a proceeding which is separate from, and is not joined or consolidated with—
 
 &emsp;(1) an action for collection of such penalty brought by the United States, or
 

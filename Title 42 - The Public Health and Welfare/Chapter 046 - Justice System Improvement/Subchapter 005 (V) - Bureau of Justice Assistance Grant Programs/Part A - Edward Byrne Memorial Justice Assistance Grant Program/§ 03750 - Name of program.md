@@ -8,7 +8,7 @@ The grant program established under this part shall be known as the “Edward By
 
 (1) Any reference in a law, regulation, document, paper, or other record of the United States to the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, or to the Local Government Law Enforcement Block Grants program, shall be deemed to be a reference to the grant program referred to in subsection (a) of this section.
 
-(2) Any reference in a law, regulation, document, paper, or other record of the United States to section 3756 of this title as such section was in effect on the date of the enactment of the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009,<sup>1</sup> shall be deemed to be a reference to section 3755(a) of this title as amended by the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009.<sup>1</sup>
+(2) Any reference in a law, regulation, document, paper, or other record of the United States to section 3756 of this title as such section was in effect on the date of the enactment of the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009,<sup>1</sup>shall be deemed to be a reference to section 3755(a) of this title as amended by the Department of Justice Appropriations Authorization Act, Fiscal Years 2006 through 2009.<sup>1</sup>
 
 (Pub. L. 90–351, title I, §500, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4329; amended Pub. L. 109–162, title XI, §1111(a)(2)(B), Jan. 5, 2006, 119 Stat. 3094.)
 
@@ -20,7 +20,7 @@ The Department of Justice Appropriations Authorization Act, Fiscal Years 2006 th
 
 Prior sections 3750a to 3750d were repealed by Pub. L. 109–162, title XI, §1111(b)(2), (d), Jan. 5, 2006, 119 Stat. 3101, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
 
-Section 3750a, Pub. L. 102–519, title I, §130, Oct. 25, 1992, 106 Stat. 3386, related to the purpose of former sections 3750a to 3750d, to supplement the provisions of the Edward Byrne Memorial State and Local Law Enforcement Assistance Program to help States to curb motorvehicle thefts and related violence, and authorization of grants to Anti Car Theft Committees.
+Section 3750a, Pub. L. 102–519, title I, §130, Oct. 25, 1992, 106 Stat. 3386, related to the purpose of former sections 3750a to 3750d, to supplement the provisions of the Edward Byrne Memorial State and Local Law Enforcement Assistance Program to help States to curb motor vehicle thefts and related violence, and authorization of grants to Anti Car Theft Committees.
 
 Section 3750b, Pub. L. 102–519, title I, §131, Oct. 25, 1992, 106 Stat. 3386, related to application for grants.
 

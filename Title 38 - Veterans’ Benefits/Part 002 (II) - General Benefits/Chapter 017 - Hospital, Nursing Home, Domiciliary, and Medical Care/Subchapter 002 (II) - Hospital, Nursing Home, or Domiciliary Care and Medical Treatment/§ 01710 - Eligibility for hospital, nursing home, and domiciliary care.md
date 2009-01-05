@@ -36,7 +36,7 @@
 
 &emsp;(B) Any veteran who the Secretary determines has no adequate means of support.
 
-(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connected disability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
+(c) While any veteran is receiving hospital care or nursing home care in any Department facility, the Secretary may, within the limits of Department facilities, furnish medical services to correct or treat any non-service-connecteddisability of such veteran, in addition to treatment incident to the disability for which such veteran is hospitalized, if the veteran is willing, and the Secretary finds such services to be reasonably necessary to protect the health of such veteran. The Secretary may furnish dental services and treatment, and related dental appliances, under this subsection for a non-service-connected dental condition or disability of a veteran only (1) to the extent that the Secretary determines that the dental facilities of the Department to be used to furnish such services, treatment, or appliances are not needed to furnish services, treatment, or appliances for dental conditions or disabilities described in section 1712(a) of this title, or (2) if (A) such non-service-connected dental condition or disability is associated with or aggravating a disability for which such veteran is receiving hospital care, or (B) a compelling medical reason or a dental emergency requires furnishing dental services, treatment, or appliances (excluding the furnishing of such services, treatment, or appliances of a routine nature) to such veteran during the period of hospitalization under this section.
 
 (d) In no case may nursing home care be furnished in a hospital not under the direct jurisdiction of the Secretary except as provided in section 1720 of this title.
 
@@ -48,11 +48,11 @@
 
 &emsp;(ii) any other disease for which the Secretary, based on the advice of the Advisory Committee on Environmental Hazards, determines that there is credible evidence of a positive association between occurrence of the disease in humans and exposure to ionizing radiation.
 
-(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active dutyin the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
+(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
 
 (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities (as defined in section 1712A(a)(2)(B) of this title) after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
-(E) Subject to paragraphs (2) and (3), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
+(E) Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
 
 (2)(A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
 
@@ -66,21 +66,23 @@
 
 &emsp;(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002;
 
-&emsp;(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2002;
+&emsp;(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2002; and
 
-&emsp;(C) in the case of care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran's discharge or release from active military, naval, or air service; and
+&emsp;(C) in the case of care for a veteran described in paragraph (1)(D) who—
 
-&emsp;(D) in the case of care for a veteran described in paragraph (1)(E), after December 31, 2007.
+&emsp;&emsp;(i) is discharged or released from the active military, naval, or air service after the date that is five years before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, after a period of five years beginning on the date of such discharge or release; or
+
+&emsp;&emsp;(ii) is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under section 1705 of this title before such date, after a period of three years beginning on the date of the enactment of that Act.
 
 (4) For purposes of this subsection—
 
-&emsp;(A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
+&emsp;(A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed duringsuch service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
 
 &emsp;(B) The term “radiation-exposed veteran” has the meaning given that term in section 1112(c)(3) of this title.
 
 (5) When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
 
-(f)(1) The Secretary may not furnish hospital care or nursing home care under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) or (4) of this subsection.
+(f)(1) The Secretary may not furnish hospital care or nursing home care (except if such care constitutes hospice care) under this section to a veteran who is eligible for such care under subsection (a)(3) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) or (4) of this subsection.
 
 (2) A veteran who is furnished hospital care or nursing home care under this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such care shall be liable to the United States for an amount equal to—
 
@@ -90,7 +92,7 @@
 
 &emsp;&emsp;(ii) the amount determined under paragraph (3) of this subsection; and
 
-&emsp;(B) before September 30, 2008, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+&emsp;(B) before September 30, 2010, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
 
@@ -128,11 +130,11 @@
 
 (F) A veteran may not be required to make a payment under this subsection or subsection (g) for any days of care in excess of 360 days of care during any 365-calendar-day period.
 
-(4) In the case of a veteran covered by this subsection who is also described by section 1705(a)(7) of this title, the amount for which the veteran shall be liable to the United States for hospital care under this subsection shall be an amount equal to 20 percent of the total amount for which the veteran would otherwise be liable for such care under subparagraphs (2)(B) and (3)(A) but for this paragraph.
+(4) In the case of a veteran covered by this subsection who is also described by section1705(a)(7) of this title, the amount for which the veteran shall be liable to the United States for hospital care under this subsection shall be an amount equal to 20 percent of the total amount for which the veteran would otherwise be liable for such care under subparagraphs (2)(B) and (3)(A) but for this paragraph.
 
 (5) For the purposes of this subsection, the term “inpatient Medicare deductible” means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)) on the first day of the 365-day period applicable under paragraph (3) of this subsection.
 
-(g)(1) The Secretary may not furnish medical services under subsection (a) of this section (including home health services under section 1717 of this title) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation.
+(g)(1) The Secretary may not furnish medical services (except if such care constitutes hospice care) under subsection (a) of this section (including home health services under section 1717 of this title) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation.
 
 (2) A veteran who is furnished medical services under subsection (a) of this section and who is required under paragraph (1) of this subsection to agree to pay an amount to the United States in order to be furnished such services shall be liable to the United States, in the case of each visit in which such services are furnished to the veteran, for an amount which the Secretary shall establish by regulation.
 
@@ -140,11 +142,13 @@
 
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov.18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, §102(a), title X, §1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§101(f), 112(1), title II, §201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, §224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, §308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, §102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, §2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, §211(a)(3)(B), title X, §§1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, §231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, §1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, §224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, §409, title VIII, §§803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141.)
 
 #### References in Text
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(3)(C), is the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 #### Codification
 
@@ -155,6 +159,24 @@ The text of subsec. (f) of section 1712 of this title, which was transferred to 
 A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
+
+2008—Subsec. (e)(1)(E). Pub. L. 110–387, §803(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+
+Subsec. (e)(3)(B). Pub. L. 110–387, §803(a)(1), inserted “and” after the semicolon at end.
+
+Subsec. (e)(3)(C). Pub. L. 110–387, §803(a)(2), substituted a period at end for “; and”.
+
+Pub. L. 110–181 amended subpar. (C) generally. Prior to amendment subpar. (C) read as follows: “in the case of care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran's discharge or release from active military, naval, or air service; and”.
+
+Subsec. (e)(3)(D). Pub. L. 110–387, §803(a)(3), struck out subpar. (D) which read as follows: “in the case of care for a veteran described in paragraph (1)(E), after December 31, 2007”.
+
+Subsec. (f)(1). Pub. L. 110–387, §409(1), inserted “(except if such care constitutes hospice care)” after “nursing home care”.
+
+Subsec. (f)(2)(B). Pub. L. 110–387, §804(a), which directed substitution of “September 30, 2010” for “September 30, 2008”, was executed by making the substitution for “September 30, 2009” to reflect the probable intent of Congress and the amendment by Pub. L. 110–329. See below.
+
+Pub. L. 110–329 substituted “September 30, 2009,” for “September 30, 2008,”.
+
+Subsec. (g)(1). Pub. L. 110–387, §409(2), inserted “(except if such care constitutes hospice care)” after “medical services”.
 
 2007—Subsec. (f)(2)(B). Pub. L. 110–161 substituted “September 30, 2008,” for “September 30, 2007,”.
 
@@ -240,7 +262,7 @@ Subsec. (e)(1)(A), (B). Pub. L. 104–262, §102(a)(1), added subpars. (A) and (
 
 > is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
 
-“(B) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds was exposed while serving on active duty to ionizing radiation from the detonation of a nuclear device in connection with such veteran's participation in the test of such a device or with the American occupation of Hiroshima and Nagasaki, Japan, during the period beginning on September 11, 1945, and ending on July 1, 1946, is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.”
+“(B) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds was exposedwhile serving on active duty to ionizing radiation from the detonation of a nuclear device in connection with such veteran's participation in the test of such a device or with the American occupation of Hiroshima and Nagasaki, Japan, during the period beginning on September 11, 1945, and ending on July 1, 1946, is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.”
 
 Subsec. (e)(1)(C). Pub. L. 104–262, §101(d)(3), substituted “hospital care, medical services, and nursing home care under subsection (a)(2)(F)” for “hospital care and nursing home care under subsection (a)(1)(G) of this section”.
 
@@ -688,7 +710,7 @@ Program Models.—For purposes of subsection (b)(1), the Secretary shall evaluat
 
 “(d)
 
-Report.—Not later than April 1, 1998, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the research study. The report shall set forththe Secretary's findings and recommendations. The Secretary shall include in the report information on the extent to which the Secretary advises veterans concerning their eligibility for hospice care and information on the number of veterans (as of the time of the report) who are in each model of hospice care described in subsection (c) and the average cost per patient of hospice care for each such model.”
+Report.—Not later than April 1, 1998, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the research study. The report shall set forth the Secretary's findings and recommendations. The Secretary shall include in the report information on the extent to which the Secretary advises veterans concerning their eligibility for hospice care and information on the number of veterans (as of the time of the report) who are in each model of hospice care described in subsection (c) and the average cost per patient of hospice care for each such model.”
 
 #### Ratification of Actions During Period of Expired Authority
 
@@ -700,7 +722,7 @@ Section 105 of Pub. L. 103–452 provided that: “Any action of the Secretary o
 
 #### Reimbursement for Hospital, Nursing Home or Outpatient Services Expenses
 
-Section 1(c)(2) of Pub. L. 103–210 directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a finding that the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
+Section 1(c)(2) of Pub. L. 103–210 directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a findingthat the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
 
 #### Health Care Services for Women
 
@@ -758,7 +780,7 @@ Pub. L. 102–585, title I, §108, Nov. 4, 1992, 106 Stat. 4948, provided that: 
 
 #### Population Study of Women Veterans
 
-Pub. L. 102–585, title I, §110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, §102(c), Nov. 2, 1994, 108 Stat. 4786, directed Secretary of Veterans Affairs, in consultation with Advisory Committee on Women Veterans, to conduct a study to determine needs of veterans who are women for health-care services, based on an appropriate sample of veterans who are women, and to submit to Congress, not later than 9 months after Nov. 4, 1992, an interim report describing information and advice obtained from Advisory Committee and status of study, and to submit, notlater than Dec. 31, 1995, a final report describing results of study.
+Pub. L. 102–585, title I, §110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, §102(c), Nov. 2, 1994, 108 Stat. 4786, directed Secretary of Veterans Affairs, in consultation with Advisory Committee on Women Veterans, to conduct a study to determine needs of veterans who are women for health-care services, based on an appropriate sample of veterans who are women, and to submit to Congress, not later than 9 months after Nov. 4, 1992, an interim report describing information and advice obtained from Advisory Committee and status of study, and to submit, not later than Dec. 31, 1995, a final report describing results of study.
 
 #### Demonstration Project To Evaluate Installation of Telephones for Patient Use at Department of Veterans Affairs Health-Care Facilities
 

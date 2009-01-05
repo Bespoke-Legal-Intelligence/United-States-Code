@@ -4,9 +4,9 @@
 
 The Secretary may make grants to States, localities, and private entities (and combinations of such entities) to carry out research, evaluation, demonstration, and service projects regarding activities under this subchapter designed to increase knowledge concerning, and to improve services for, runaway youth and homeless youth.
 
-#### (b) Selection factors; special consideration
+#### (b) Selection factors; priority
 
-In selecting among applications for grants under subsection (a) of this section, the Secretary shall give special consideration to proposed projects relating to—
+In selecting among applications for grants under subsection (a) of this section, the Secretary shall give priority to proposed projects relating to—
 
 &emsp;(1) youth who repeatedly leave and remain away from their homes;
 
@@ -28,17 +28,37 @@ In selecting among applications for grants under subsection (a) of this section,
 
 &emsp;(7) training for runaway youth and homeless youth, and staff training, related to preventing and obtaining treatment for infection by the human immunodeficiency virus (HIV);
 
-&emsp;(8) increasing access to health care (including mental health care) for runaway youth and homeless youth; and
+&emsp;(8) increasing access to quality health care (including behavioral health care) for runaway youth and homeless youth;
 
-&emsp;(9) increasing access to education for runaway youth and homeless youth.
+&emsp;(9) increasing access to education for runaway youth and homeless youth, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and
 
-#### (c) Priority
+&emsp;(10) providing programs, including innovative programs, that assist youth in obtaining and maintaining safe and stable housing, and which may include programs with supportive services that continue after the youth complete the remainder of the programs.
 
-In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.
+#### (c) Applicant experience and diversity
 
-(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170.)
+In selecting among applicants for grants under subsection (a), the Secretary shall—
+
+&emsp;(1) give priority to applicants who have experience working with runaway or homeless youth; and
+
+&emsp;(2) ensure that the applicants selected—
+
+&emsp;&emsp;(A) represent diverse geographic regions of the United States; and
+
+&emsp;&emsp;(B) carry out projects that serve diverse populations of runaway or homeless youth.
+
+(Pub. L. 93–415, title III, §343, as added Pub. L. 102–586, §3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, §3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §5, Oct. 8, 2008, 122 Stat. 4069.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–378, §5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
+
+Subsec. (b)(8). Pub. L. 110–378, §5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
+
+Subsec. (b)(9). Pub. L. 110–378, §5(1)(C), substituted “, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and” for period at end.
+
+Subsec. (b)(10). Pub. L. 110–378, §5(1)(D), added par. (10).
+
+Subsec. (c). Pub. L. 110–378, §5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.”
 
 2003—Subsec. (a). Pub. L. 108–96 inserted “regarding activities under this subchapter” after “service projects”.
 

@@ -58,7 +58,7 @@ The Secretary shall, by regulation, require each approved applicant receiving as
 
 #### (i) Termination of assistance
 
-If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts madeavailable under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law.
+If an individual or family who receives assistance under this section violates program requirements, the recipient of amounts made available under this section may terminate assistance in accordance with a formal process established by the recipient that recognizes the rights of individuals receiving such assistance to due process of law.
 
 #### (j) Definitions
 

@@ -10,7 +10,7 @@
 
 (c) The Secretary shall reduce the State's apportionment of Federal-aid highway funds under section 104(b)(4) in an amount up to 25 per centum of the amount to be apportioned in any fiscal year beginning after September 30, 1984, during which heavy vehicles, subject to the use tax imposed by section 4481 of the Internal Revenue Code of 1986, may be lawfully registered in the State without having presented proof of payment, in such form as may be prescribed by the Secretary of the Treasury, of the use tax imposed by section 4481 of such Code. Amounts withheld from apportionment to a State under this subsection shall be apportioned to the other States pursuant to the formulas of section 104(b)(4) and shall be available in the same manner and to the same extent as other Interstate funds apportioned at the same time to other States.
 
-(Added Pub. L. 93–643, §107(a), Jan. 4, 1975, 88 Stat. 2284; amended Pub. L. 95–599, title I, §123(d), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 97–424, title I, §143, Jan. 6, 1983, 96 Stat. 2129; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–240, title I, §1023(c), Dec. 18, 1991, 105 Stat. 1954; Pub. L. 103–429, §3(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(d)(1)(A), Nov. 28, 1995, 109 Stat. 577; Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(C), June 9, 1998, 112 Stat. 126.)
+(Added Pub. L. 93–643, §107(a), Jan. 4, 1975, 88 Stat. 2284; amended Pub. L. 95–599, title I, §123(d), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 97–424, title I, §143, Jan. 6, 1983, 96 Stat. 2129; Pub. L.99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–240, title I, §1023(c), Dec. 18, 1991, 105 Stat. 1954; Pub. L. 103–429, §3(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, §205(d)(1)(A), Nov. 28, 1995, 109 Stat. 577; Pub. L. 105–178, title I, §1103(<i>l</i>)(3)(C), June 9, 1998, 112 Stat. 126.)
 
 #### References in Text
 
@@ -24,7 +24,7 @@ A prior section 141, Pub. L. 90–495, §35(a), Aug. 23, 1968, 82 Stat. 836, rel
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “section 104(b)(4)” for “section 104(b)(5) of this title” in two places.
 
-1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec.\(a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
+1995—Pub. L. 104–59 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Each State shall certify to the Secretary before January 1 of each year that it is enforcing all speed limits on public highways in accordance with section 154 of this title. The Secretary shall not approve any project under section 106 of this title in any State which has failed to certify in accordance with this subsection.”
 
 1994—Subsec. (b). Pub. L. 103–429 substituted “section 31112 of title 49” for “section 411(j) of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311(j))”.
 

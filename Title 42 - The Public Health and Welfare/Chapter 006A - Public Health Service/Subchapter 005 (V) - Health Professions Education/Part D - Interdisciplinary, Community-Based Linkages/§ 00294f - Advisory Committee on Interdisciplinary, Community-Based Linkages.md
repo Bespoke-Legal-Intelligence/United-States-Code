@@ -34,7 +34,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (A) In general
 
-&emsp;&emsp;A vacancy on the Advisory Committee shall be filled in the manner in which the original appointment was made and shall be subject to any conditions which applied with respect to the original appointment.
+&emsp;&emsp;A vacancy on the Advisory Committee shall be filled in the manner in which theoriginal appointment was made and shall be subject to any conditions which applied with respect to the original appointment.
 
 #### (B) Filling unexpired term
 
@@ -80,7 +80,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Codification
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

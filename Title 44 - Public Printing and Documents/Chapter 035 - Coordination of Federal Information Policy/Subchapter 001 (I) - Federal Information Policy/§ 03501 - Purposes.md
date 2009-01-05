@@ -34,11 +34,11 @@ The purposes of this subchapter are to—
 
 #### References in Text
 
-Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
+Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25,2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
 #### Prior Provisions
 
-A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\],Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, related to information for Federal agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -692,7 +692,7 @@ In general.—An agency shall take actions described under subparagraph (B) befo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) will be collected, maintained, or disseminated using information technology; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identicalquestions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes any information in an identifiable form permitting the physical or online contacting of a specific individual, if identical questions have been posed to, or identical reporting requirements imposed on, 10 or more persons, other than agencies, instrumentalities, or employees of the Federal Government.
 
 &emsp;&emsp;“(B)
 
@@ -824,7 +824,7 @@ Information technology training programs.—The head of each Executive agency, a
 
 &emsp;“(3)
 
-Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
+Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards fortraining and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
 
 &emsp;“(4)
 
@@ -1092,7 +1092,7 @@ Contents.—The report under this section shall—
 
 &emsp;&emsp;“(C) address the feasibility of developing a distributed information system involving, on a voluntary basis, at least 2 agencies, that—
 
-&emsp;&emsp;&emsp;“(i) provides consistent, dependable, and timely public access to the information holdings of 1 ormore agencies, or some portion of such holdings, without requiring public users to know which agency holds the information; and
+&emsp;&emsp;&emsp;“(i) provides consistent, dependable, and timely public access to the information holdings of 1 or more agencies, or some portion of such holdings, without requiring public users to know which agency holds the information; and
 
 &emsp;&emsp;&emsp;“(ii) allows the integration of public information held by the participating agencies;
 
@@ -1240,7 +1240,7 @@ Distribution.—The Administrator, with assistance from the Secretary of Educati
 
 “(g)
 
-Promotion of Community Technology Centers.—The Administrator, with assistance from theDepartment of Education and in consultation with other agencies and organizations, shall promote the availability of community technology centers to raise awareness within each community where such a center is located.
+Promotion of Community Technology Centers.—The Administrator, with assistance from the Department of Education and in consultation with other agencies and organizations, shall promote the availability of community technology centers to raise awareness within each community where such a center is located.
 
 “(h)
 
@@ -1456,7 +1456,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 “(a)
 
-In General.—The Director of the Office of Management and Budget shall coordinate and oversee the confidentiality and disclosure policies established bythis title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
+In General.—The Director of the Office of Management and Budget shall coordinate and oversee theconfidentiality and disclosure policies established by this title. The Director may promulgate rules or provide other guidance to ensure consistent interpretation of this title by the affected agencies.
 
 “(b)
 
@@ -1562,7 +1562,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 “(a)
 
-Use of Statistical Data or Information.—Data or information acquired by an agency under a pledge ofconfidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
+Use of Statistical Data or Information.—Data or information acquired by an agency under a pledge of confidentiality and for exclusively statistical purposes shall be used by officers, employees, or agents of the agency exclusively for statistical purposes.
 
 “(b)
 
@@ -1640,7 +1640,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;&emsp;“(A) emphasizing to their officers, employees, and agents the importance of protecting the confidentiality of information in cases where the identity of individual respondents can reasonably be inferred by either direct or indirect means;
 
-&emsp;&emsp;“(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable information and in the procedures that must be followed to provide access to such information;
+&emsp;&emsp;“(B) training their officers, employees, and agents in their legal obligations to protect the confidentiality of individually identifiable informationand in the procedures that must be followed to provide access to such information;
 
 &emsp;&emsp;“(C) implementing appropriate measures to assure the physical and electronic security of confidential data;
 

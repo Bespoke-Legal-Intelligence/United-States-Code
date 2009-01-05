@@ -8,3 +8,7 @@ The President shall include in each budget transmitted to Congress under section
 
 Customs Service, referred to in text, changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
+#### Land Border Projects
+
+Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3658, provided in part: “That for fiscal year 2010 and thereafter, the annual budget submission of U.S. Customs and Border Protection for ‘Construction’ shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs.”
+

@@ -30,7 +30,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 > &emsp;This determination is subject to administrative appeal and judicial review under section 203(2) <sup>1</sup> of title 35.
 
-(2) Under agreements entered into pursuant to subsection (a)(1) of this section, the laboratory shall ensure that a collaborating party may retain title to any invention made solely by itsemployee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
+(2) Under agreements entered into pursuant to subsection (a)(1) of this section, the laboratory shall ensure that a collaborating party may retain title to any invention made solely by its employee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
 
 (3) Under an agreement entered into pursuant to subsection (a)(1) of this section, a laboratory may—
 
@@ -66,7 +66,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (3)(A) Any agency using the authority given it under subsection (a) of this section shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments of titles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
 
-(B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts of interest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
+(B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts ofinterest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
 
 (4) The laboratory director in deciding what cooperative research and development agreements to enter into shall—
 
@@ -106,7 +106,7 @@ As used in this section—
 
 &emsp;&emsp;(B) a group of Government-owned, contractor-operated facilities (including a weapon production facility of the Department of Energy) under a common contract, when a substantial purpose of the contract is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government; and
 
-&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
+&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon productionfacility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
@@ -166,7 +166,7 @@ Subsec. (d)(1). Pub. L. 102–245 inserted “intellectual property,” after �
 
 1989—Subsec. (a). Pub. L. 101–189, §3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
+Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) ofthis section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
 
 Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
 
@@ -254,7 +254,7 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 &emsp;“(F) provides for an accounting of all royalty or other income received under cooperative research and development agreements.
 
-“(2) The requirements described in paragraph (1)(C) and (D) shall not apply in a case where the negotiating or approving employee advises the agency that reviewed the applicable joint work statement under section 12(c)(5)(C)(i) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3710a(c)(5)(C)(i)\] in advance of the matter in which he is to participate and the nature of any financial interest described in paragraph (1)(C), and where the agency employee determines that such financial interest is not so substantialas to be considered likely to affect the integrity of the laboratory employee's service in that matter.
+“(2) The requirements described in paragraph (1)(C) and (D) shall not apply in a case where the negotiating or approving employee advises the agency that reviewed the applicable joint work statement under section 12(c)(5)(C)(i) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3710a(c)(5)(C)(i)\] in advance of the matter in which he is to participate and the nature of any financial interest described in paragraph (1)(C), and where the agency employee determines that such financial interest is not so substantial as to be considered likely to affect the integrity of the laboratory employee's service in that matter.
 
 “(3) Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1989\], each agency which has contracted with a non-Federal entity to operate a Government-owned laboratory shall submit a report to the Congress which includes a copy of each contract provision amended pursuant to this subsection.
 

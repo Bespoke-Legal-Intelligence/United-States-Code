@@ -8,7 +8,11 @@ It may be a defense to a charge of discrimination under this chapter that an all
 
 The term “qualification standards” may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.
 
-#### (c) Religious entities
+#### (c) Qualification standards and tests related to uncorrected vision
+
+Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall not use qualification standards, employment tests, or other selection criteria based on an individual's uncorrected vision unless the standard, test, or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and consistent with business necessity.
+
+#### (d) Religious entities
 
 #### (1) In general
 
@@ -18,7 +22,7 @@ The term “qualification standards” may include a requirement that an individ
 
 &emsp;Under this subchapter, a religious organization may require that all applicants and employees conform to the religious tenets of such organization.
 
-#### (d) List of infectious and communicable diseases
+#### (e) List of infectious and communicable diseases
 
 #### (1) In general
 
@@ -40,9 +44,21 @@ The term “qualification standards” may include a requirement that an individ
 
 #### (3) Construction
 
-&emsp;Nothing in this chapter shall be construed to preempt, modify, or amend any State, county,or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability <sup>1</sup> published by the Secretary of Health and Human Services.
+&emsp;Nothing in this chapter shall be construed to preempt, modify, or amend any State, county, or local law, ordinance, or regulation applicable to food handling which is designed to protect the public health from individuals who pose a significant risk to the health or safety of others, which cannot be eliminated by reasonable accommodation, pursuant to the list of infectious or communicable diseases and the modes of transmissability <sup>1</sup> published by the Secretary of Health and Human Services.
 
-(Pub. L. 101–336, title I, §103, July 26, 1990, 104 Stat. 333.)
+(Pub. L. 101–336, title I, §103, July 26, 1990, 104 Stat. 333; Pub. L. 110–325, §5(b), Sept. 25, 2008, 122 Stat. 3557.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (e)(3), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### Amendments
+
+2008—Subsecs. (c) to (e). Pub. L. 110–325 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “transmissibility”.</i>
 

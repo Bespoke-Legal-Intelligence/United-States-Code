@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents inthe manner required under subsection (c)(2) of this section, to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the payments to the surviving spouse under such annuity are not less than the amounts which would be payable as a survivor annuity under the qualified joint and survivor annuity under the plan (or the actuarial equivalent thereof) if—
 
-&emsp;&emsp;&emsp;(i) in the case of a participant who dies after the date on which the participant attained the earliest retirement age, suchparticipant had retired with an immediate qualified joint and survivor annuity on the day before the participant's date of death, or
+&emsp;&emsp;&emsp;(i) in the case of a participant who dies after the date on which the participant attained the earliest retirement age, such participant had retired with an immediate qualified joint and survivor annuity on the day before the participant's date of death, or
 
 &emsp;&emsp;&emsp;(ii) in the case of a participant who dies on or before the date on which the participant would have attained the earliest retirement age, such participant had—
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 &emsp;&emsp;(I) section 1083(h)(2)(D) of this title were applied by substituting the average yields for the month described in clause (ii) for the average yields for the 24-month period described in such section,
 
-&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section 1055(g)(3)(B)(iii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
+&emsp;&emsp;(II) section 1083(h)(2)(G)(i)(II) of this title were applied by substituting “section 1055(g)(3)(A)(ii)(II) of this title” for “section 1082(b)(5)(B)(ii)(II) of this title”, and
 
 &emsp;&emsp;(III) the applicable percentage under section 1083(h)(2)(G) of this title were determined in accordance with the following table:
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 For purposes of this section—
 
-&emsp;(1) The term “vested participant” means any participant who has a nonforfeitable right\(within the meaning of section 1002(19) of this title) to any portion of such participant's accrued benefit.
+&emsp;(1) The term “vested participant” means any participant who has a nonforfeitable right (within the meaning of section 1002(19) of this title) to any portion of such participant's accrued benefit.
 
 &emsp;(2)(A) The term “annuity starting date” means—
 
@@ -260,9 +260,11 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103.)
 
 #### Amendments
+
+2008—Subsec. (g)(3)(B)(iii)(II). Pub. L. 110–458 substituted “section 1055(g)(3)(A)(ii)(II)” for “section 1055(g)(3)(B)(iii)(II)”.
 
 2006—Subsec. (c)(1)(A). Pub. L. 109–280, §1004(b)(1), substituted comma for “, and” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
@@ -388,11 +390,15 @@ Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
-Amendment by section 302(a) of Pub. L. 109–280 applicable with respect to plan years beginning after Dec. 31, 2007, see section 302(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
+Amendment by section 302(a) of Pub. L. 109–280 applicable with respect to plan years beginning after Dec. 31,2007, see section 302(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 
-Amendment by section 1004(b) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, withspecial rule for collectively bargained plans, see section 1004(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
+Amendment by section 1004(b) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with special rule for collectively bargained plans, see section 1004(c) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 
 Amendments and modifications made or required by section 1102(a)(2)(A) of Pub. L. 109–280 applicable to years beginning after Dec. 31, 2006, see section 1102(a)(3) of Pub. L. 109–280, set out as a note under section 417 of Title 26, Internal Revenue Code.
 

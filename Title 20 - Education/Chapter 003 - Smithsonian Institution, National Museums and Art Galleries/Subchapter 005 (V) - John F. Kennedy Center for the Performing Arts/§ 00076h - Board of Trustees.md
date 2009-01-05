@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(J)(i) the Speaker and the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives; and
+&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Transportation and Infrastructure of the House of Representatives; and
 
 &emsp;&emsp;(iii) three additional Members of the House of Representatives appointed by the Speaker of the House of Representatives;
 
@@ -56,9 +56,11 @@ The general trustees shall be appointed by the President of the United States. E
 
 There shall be an Advisory Committee on the Arts composed of such members as the President of the United States may designate, to serve at the pleasure of the President. Persons appointed to the Advisory Committee on the Arts, including officers or employees of the United States, shall be persons who are recognized for their knowledge of, or experience or interest in, one or more of the arts in the fields covered by the John F. Kennedy Center for the Performing Arts. The President shall designate the Chairman of the Advisory Committee on the Arts. In making such appointments the President shall give consideration to such recommendations as may from time to time be submitted to him by leading national organizations in the appropriate art fields. The Advisory Committee on the Arts shall advise and consult with the Board and make recommendations to the Board regarding existing and prospective cultural activities to be carried out by the John F. Kennedy Center for the Performing Arts. The Advisory Committee on the Arts shall assist the Board in carrying out section 76k(a) of this title. Members of the Advisory Committee on the Arts shall serve without compensation.
 
-(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, §201(a), Jan. 10, 2002, 115 Stat. 2353.)
+(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, §201(a), Jan. 10, 2002, 115 Stat. 2353; Pub. L. 110–338, §2, Oct. 3, 2008, 122 Stat. 3731.)
 
 #### Amendments
+
+2008—Subsec. (a)(2)(J)(ii). Pub. L. 110–338 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 
 2002—Subsec. (a). Pub. L. 107–117 designated existing provisions as par. (1), inserted par. heading, struck out “hereby” before “established”, struck out second sentence, and added par. (2). Prior to amendment, second sentence read as follows: “The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.”
 
@@ -76,10 +78,6 @@ Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted “of the Uni
 
 Subsec. (b). Pub. L. 88–100, §2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
 
-#### Change of Name
-
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
 Section 2(b)(2) of Pub. L. 103–279 provided that:
@@ -91,6 +89,10 @@ Superintendent of schools of the district of columbia.—The amendment made by p
 “(B)
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–338, §1, Oct. 3, 2008, 122 Stat. 3731, provided that: “This Act \[enacting section 76m of this title, amending this section and section 76r of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Reauthorization Act of 2008’.”
 
 #### Short Title of 2004 Amendment
 
@@ -110,7 +112,7 @@ Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
+Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title,and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
 
 #### Short Title of 1984 Amendment
 
@@ -123,6 +125,10 @@ Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section
 #### Short Title
 
 Section 1(a), formerly §1, of Pub. L. 85–874, as amended by Pub. L. 88–260, §1(1), Jan. 23, 1964, 78 Stat. 4; redesignated §1(a), Pub. L. 103–279, §2(a)(1), July 21, 1994, 108 Stat. 1409, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘John F. Kennedy Center Act’.”
+
+#### Existing Authorities
+
+Pub. L. 110–338, §5, Oct. 3, 2008, 122 Stat. 3732, provided that: “Nothing in this Act \[see Short Title of 2008 Amendment note above\] limits or otherwise affects the authority or responsibility of the National Capital Planning Commission or the Commission of Fine Arts.”
 
 #### Terms of Office for New General Trustees
 

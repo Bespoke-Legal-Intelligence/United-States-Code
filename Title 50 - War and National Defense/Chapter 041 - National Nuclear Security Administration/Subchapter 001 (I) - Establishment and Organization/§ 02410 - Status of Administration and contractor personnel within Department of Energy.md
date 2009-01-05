@@ -36,9 +36,9 @@ Except in accordance with sections 2402(a)(2) and 2406(a)(1) of this title:
 
 #### (e) Status of intelligence and counterintelligence personnel
 
-Notwithstanding the restrictions of subsections (a) and (b), each officer or employee ofthe Administration, or of a contractor of the Administration, who is carrying out activities related to intelligence or counterintelligence shall, in carrying out those activities, be subject to the authority, direction, and control of the Secretary of Energy or the Secretary's delegate.
+Notwithstanding the restrictions of subsections (a) and (b), each officer or employee of the Administration, or of a contractor of the Administration, who is carrying out activities related to intelligence or counterintelligence shall, in carrying out those activities, be subject to the authority, direction, and control of the Secretary of Energy or the Secretary's delegate.
 
-(Pub. L. 106–65, div. C, title XXXII, §3220, formerly §3213, Oct. 5, 1999, 113 Stat. 958; Pub. L. 106–398, §1 \[div. C, title XXXI, §3157\], Oct. 30, 2000, 114 Stat. 1654, 1654A–468; renumbered §3220, Pub. L. 107–107, div. C, title XXXI, §3141(a)(1), Dec. 28, 2001, 115 Stat. 1370; Pub. L. 109–364, div. C, title XXXI, §3117(a)(2)(B), (d), Oct. 17, 2006, 120 Stat. 2507, 2508.)
+(Pub. L. 106–65, div. C, title XXXII, §3220, formerly §3213, Oct. 5, 1999, 113 Stat. 958; Pub. L.106–398, §1 \[div. C, title XXXI, §3157\], Oct. 30, 2000, 114 Stat. 1654, 1654A–468; renumbered §3220, Pub. L. 107–107, div. C, title XXXI, §3141(a)(1), Dec. 28, 2001, 115 Stat. 1370; Pub. L. 109–364, div. C, title XXXI, §3117(a)(2)(B), (d), Oct. 17, 2006, 120 Stat. 2507, 2508.)
 
 #### Repeal of Subsection (e)
 
@@ -50,9 +50,9 @@ Section was formerly classified to section 2403 of this title.
 
 #### Amendments
 
-2006—Subsec. (e). Pub. L. 109–364, §3117(d), added subsec. (e).
+<b>2006</b>—Subsec. (e). Pub. L. 109–364, §3117(d), added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(1)\], struck out “Administration, in carrying out any function of the” after “employee of the” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(1)\], struck out “Administration, in carrying out any function of the” after “employee of the” in introductory provisions.
 
 Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(2)\], struck out “, in carrying out any function of the Administration,” after “contractor of the Administration”.
 

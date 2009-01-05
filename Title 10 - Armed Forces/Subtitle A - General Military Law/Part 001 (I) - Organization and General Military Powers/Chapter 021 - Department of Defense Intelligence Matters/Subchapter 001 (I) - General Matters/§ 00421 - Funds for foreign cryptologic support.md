@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may use appropriated funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.
 
-(b) The Secretary of Defense may use funds other than appropriated funds to pay for the expenses of arrangements with foreign countries for cryptologic support without regard for the provisions of law relating to the expenditure of United States Government funds, except that—
+(b) The Secretary of Defense may use funds other than appropriated funds to pay for the expenses of arrangements with foreign countriesfor cryptologic support without regard for the provisions of law relating to the expenditure of United States Government funds, except that—
 
 &emsp;(1) no such funds may be expended, in whole or in part, by or for the benefit of the Department of Defense for a purpose for which Congress had previously denied funds; and
 

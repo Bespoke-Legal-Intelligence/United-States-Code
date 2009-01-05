@@ -18,7 +18,7 @@
 
 #### (2) Authority regarding certain entities
 
-&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant undersuch paragraph to any grantee under section 254b, 254b, or 256a of this title <sup>1</sup> for carrying out such activities in the area.
+&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254b, or 256a of this title <sup>1</sup> for carrying out such activities in the area.
 
 #### (3) Provision of all services and activities through each grantee
 
@@ -56,7 +56,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
-&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
+&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and childrenscreened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
 &emsp;(4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
 
@@ -140,7 +140,7 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 #### (2) Allocation for other programs
 
-&emsp;Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activitiesdescribed in subsection (a) of this section in addition to the program of grants established in such subsection.
+&emsp;Of the amounts appropriated under paragraph (1) for any fiscal year, the Secretary may reserve not more than 20 percent for carrying out programs regarding the activities described in subsection (a) of this section in addition to the program of grants established in such subsection.
 
 #### (m) Guidelines for standardized reporting
 

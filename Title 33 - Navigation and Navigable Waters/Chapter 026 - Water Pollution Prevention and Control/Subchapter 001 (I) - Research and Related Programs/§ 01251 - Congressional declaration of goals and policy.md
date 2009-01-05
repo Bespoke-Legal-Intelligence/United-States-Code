@@ -20,7 +20,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 #### (b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States
 
-It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State andinterstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
+It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, andto consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
@@ -52,6 +52,12 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–365, §1, Oct. 8, 2008, 122 Stat. 4021, provided that: “This Act \[amending sections 1268 and 1271a of this title\] may be cited as the ‘Great Lakes Legacy Reauthorization Act of 2008’.”
+
+Pub. L. 110–288, §1, July 29, 2008, 122 Stat. 2650, provided that: “This Act \[amending sections 1322, 1342, and 1362 of this title\] may be cited as the ‘Clean Boating Act of 2008’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–303, §1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: “This Act \[enacting section 1271a of this title, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education\] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
@@ -78,7 +84,7 @@ Pub. L. 103–431, §1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Ac
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–596, §1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Act \[enacting sections 1269 and 1270 of this title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and section 1270 of this title\] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
+Pub. L. 101–596, §1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Act \[enacting sections 1269 and 1270 ofthis title, amending sections 1268, 1324, and 1416 of this title, and enacting provisions set out as notes under this section and section 1270 of this title\] may be cited as the ‘Great Lakes Critical Programs Act of 1990’.”
 
 Pub. L. 101–596, title II, §201, Nov. 16, 1990, 104 Stat. 3004, provided that: “This part \[probably means title, enacting section 1269 of this title and amending section 1416 of this title\] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
 
@@ -86,7 +92,7 @@ Pub. L. 101–596, title III, §301, Nov. 16, 1990, 104 Stat. 3006, provided tha
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–653, title X, §1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title \[amending section 1330 of this title and enacting provisions set out as notesunder section 1330 of this title\] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
+Pub. L. 100–653, title X, §1001, Nov. 14, 1988, 102 Stat. 3835, provided that: “This title \[amending section 1330 of this title and enacting provisions set out as notes under section 1330 of this title\] may be cited as the ‘Massachusetts Bay Protection Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
@@ -280,5 +286,5 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definition of “Administrator”
 
-Section 1(d) of Pub. L. 100–4 provided that: “For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
+Section 1(d) of Pub. L. 100–4 provided that: “For purposes of this Act \[see Short Title of 1987 Amendmentnote above\], the term ‘Administrator’ means the Administrator of the Environmental Protection Agency.”
 

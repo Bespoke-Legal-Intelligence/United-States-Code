@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “advance incremental funding”, with respect to a sale of articles or services, means a series of partial payments for the articles or services that includes—
 
-&emsp;&emsp;(A) one or more partial payments before the commencement of work or the incurring of costs in connection with the manufacture of the articles or the performance of the services, as the case may be; and
+&emsp;&emsp;(A) one or more partial payments before the commencement of work or the incurring of costs in connection with the manufactureof the articles or the performance of the services, as the case may be; and
 
 &emsp;&emsp;(B) subsequent progress payments that result in full payment being completed as the required work is being completed.
 

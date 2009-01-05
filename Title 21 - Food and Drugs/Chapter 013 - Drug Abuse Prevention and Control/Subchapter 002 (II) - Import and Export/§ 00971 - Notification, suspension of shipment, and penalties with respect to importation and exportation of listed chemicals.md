@@ -86,7 +86,7 @@ Subsec. (h). Pub. L. 109–177, §721, added subsec. (h).
 
 Subsec. (e). Pub. L. 103–322, §330024(c)(1), made technical amendment to directory language of Pub. L. 103–200, §5(a). See 1993 Amendment note below.
 
-1993—Subsec. (b)(1). Pub. L. 103–200, §9(b)(1)(A), as amended by Pub. L. 103–322, §330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
+1993—Subsec. (b)(1). Pub. L. 103–200, §9(b)(1)(A), as amended by Pub. L. 103–322, §330024(c)(2), substituted“to an importation by a regular importer” for “regular supplier of the regulated person”.
 
 Subsec. (b)(2). Pub. L. 103–200, §9(b)(1)(B), as amended by Pub. L. 103–322, §330024(c)(2), substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
 

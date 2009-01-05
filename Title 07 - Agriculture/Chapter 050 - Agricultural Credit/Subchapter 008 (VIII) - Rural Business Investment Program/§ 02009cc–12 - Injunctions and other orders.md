@@ -8,7 +8,7 @@
 
 #### (2) Jurisdiction; relief
 
-&emsp;The court shall have jurisdiction over the action and, on a showing by the Secretary that the rural business investment companyor other person has engaged or is about to engage in an act or practice described in paragraph (1), a permanent or temporary injunction, restraining order, or other order, shall be granted without bond.
+&emsp;The court shall have jurisdiction over the action and, on a showing by the Secretary that the rural business investment company or other person has engaged or is about to engage in an act or practice described in paragraph (1), a permanent or temporary injunction, restraining order, or other order, shall be granted without bond.
 
 #### (b) Jurisdiction
 

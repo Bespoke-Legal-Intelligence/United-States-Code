@@ -2,9 +2,9 @@
 
 #### (a) Establishment of applicable definitions, payment of interest, obligations as deposits, and regulations
 
-The Board is authorized for the purposes of this section to define the terms used in this section, to determine what shall be deemed a payment of interest, to determine what types of obligations, whether issued directly by a member bank or indirectly by an affiliate of a member bank or by other means, and, regardless of the use of the proceeds, shall be deemed a deposit, and to prescribe such regulations as it may deem necessary to effectuate the purposes of this section and to prevent evasions thereof.
+The Board is authorized for the purposes of this section <sup>1</sup> to define the terms used in this section,<sup>1</sup> to determine what shall be deemed a payment of interest, to determine what types of obligations, whether issued directly by a member bank or indirectly by an affiliate of a member bank or by other means, and, regardless of the use of the proceeds, shall be deemed a deposit, and to prescribe such regulations as it may deem necessary to effectuate the purposes of this section <sup>1</sup> and to prevent evasions thereof.
 
-#### (b) Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers
+#### (b) Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers; earnings on balances
 
 (1) The following definitions and rules apply to this subsection, subsection (c) of this section, and sections 248–1, 248a, 342, 360, and 412 of this title:
 
@@ -36,13 +36,13 @@ The Board is authorized for the purposes of this section to define the terms use
 
 (2)(A) Each depository institution shall maintain reserves against its transaction accounts as the Board may prescribe by regulation solely for the purpose of implementing monetary policy—
 
-&emsp;(i) in the ratio of 3 per centum for that portion of its total transaction accounts of $25,000,000 or less, subject to subparagraph (C); and
+&emsp;(i) in a ratio of not greater than 3 percent (and which may be zero) for that portion of its total transaction accounts of $25,000,000 or less, subject to subparagraph (C); and
 
-&emsp;(ii) in the ratio of 12 per centum, or in such other ratio as the Board may prescribe not greater than 14 per centum and not less than 8 per centum, for that portion of its total transaction accounts in excess of $25,000,000, subject to subparagraph (C).
+&emsp;(ii) in the ratio of 12 per centum, or in such other ratio as the Board may prescribe not greater than 14 per centum (and which may bezero), for that portion of its total transaction accounts in excess of $25,000,000, subject to subparagraph (C).
 
 (B) Each depository institution shall maintain reserves against its nonpersonal time deposits in the ratio of 3 per centum, or in such other ratio not greater than 9 per centum and not less than zero per centum as the Board may prescribe by regulation solely for the purpose of implementing monetary policy.
 
-(C) Beginning in 1981, not later than December 31 of each year the Board shall issue a regulation increasing for the next succeeding calendaryear the dollar amount which is contained in subparagraph (A) or which was last determined pursuant to this subparagraph for the purpose of such subparagraph, by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage increase in the total transaction accounts of all depository institutions. The increase in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the preceding calendar year from the amount of such accounts on June 30 of the calendar year involved. In the case of any such 12-month period in which there has been a decrease in the total transaction accounts of all depository institutions, the Board shall issue such a regulation decreasing for the next succeeding calendar year such dollar amount by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage decrease in the total transaction accounts of all depository institutions. The decrease in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the calendar year involved from the amount of such accounts on June 30 of the previous calendar year.
+(C) Beginning in 1981, not later than December 31 of each year the Board shall issue a regulation increasing for the next succeeding calendar year the dollar amount which is contained in subparagraph (A) or which was last determined pursuant to this subparagraph for the purpose of such subparagraph, by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage increase in the total transaction accounts of all depository institutions. The increase in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the preceding calendar year from the amount of such accounts on June 30 of the calendar year involved. In the case of any such 12-month period in which there has been a decrease in the total transaction accounts of all depository institutions, the Board shall issue such a regulation decreasing for the next succeeding calendar year such dollar amount by an amount obtained by multiplying such dollar amount by 80 per centum of the percentage decrease in the total transaction accounts of all depository institutions. The decrease in such transaction accounts shall be determined by subtracting the amount of such accounts on June 30 of the calendar year involved from the amount of such accounts on June 30 of the previous calendar year.
 
 (D) Any reserve requirement imposed under this subsection shall be uniformly applied to all transaction accounts at all depository institutions. Reserve requirements imposed under this subsection shall be uniformly applied to nonpersonal time deposits at all depository institutions, except that such requirements may vary by the maturity of such deposits.
 
@@ -60,11 +60,9 @@ The Board is authorized for the purposes of this section to define the terms use
 
 (B) The Board may require the supplemental reserve authorized under subparagraph (A) only after consultation with the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board. The Board shall promptly transmit to the Congress a report with respect to any exercise of its authority to require supplemental reserves under subparagraph (A) and such report shall state the basis for the determination to exercise such authority.
 
-(C) The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph.
+(C) If a supplemental reserve under subparagraph (A) has been required of depository institutions for a period of one year or more, the Board shall review and determine the need for continued maintenance of supplemental reserves and shall transmit annual reports to the Congress regarding the need, if any, for continuing the supplemental reserve.
 
-(D) If a supplemental reserve under subparagraph (A) has been required of depository institutions for a period of one year or more, the Board shall review and determine the need for continued maintenance of supplemental reserves and shall transmit annual reports to the Congress regarding the need, if any, for continuing the supplemental reserve.
-
-(E) Any supplemental reserve imposed under subparagraph (A) shall terminate at the close of the first 90-day period after such requirement is imposed during which the average amount of reserves required under paragraph (2) are less than the amount of reserves which would be required during such period if the initial ratios specified in paragraph (2) were in effect.
+(D) Any supplemental reserve imposed under subparagraph (A) shall terminate at the close of the first 90-day period after such requirement is imposed during which the average amount of reserves required under paragraph (2) are less than the amount of reserves which would be required during such period if the initial ratios specified in paragraph (2) were in effect.
 
 (5) Foreign branches, subsidiaries, and international banking facilities of nonmember depository institutions shall maintain reserves to the same extent required by the Board of foreign branches, subsidiaries, and international banking facilities of member banks. In addition to any reserves otherwise required to be maintained pursuant to this subsection, any depository institution shall maintain reserves in such ratios as the Board may prescribe against—
 
@@ -90,7 +88,7 @@ The Board is authorized for the purposes of this section to define the terms use
 
 (ii) Any bank which withdraws from membership in the Federal Reserve System after March 31, 1980, shall maintain reserves in the same amount as member banks are required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
 
-(E) This subparagraph applies to any depository institution that, on August 1, 1978, (i) was engaged in business as a depository institution in a State outside the continental limits of the United States, and (ii) was not a member of the Federal Reserve System at any time on or after such date. Such a depository institution shall not be required to maintain reserves against its deposits held or maintained at its offices located in a State outside the continental limits of the United States until the first day of the sixth calendar year which begins after the effective date of the Monetary Control Act of 1980. Such a depository institution shall maintain reserves against such deposits during the sixth calendar year which begins after such effective date in an amount equal to one-eighth of that otherwise required by paragraph (2), during the seventh such year in an amount equal to one-fourth of that otherwise required, during the eighth such year in an amount equal to three-eighths of that otherwise required, during the ninth such year in an amount equal to one-half of that otherwiserequired, during the tenth such year in an amount equal to five-eighths of that otherwise required, during the eleventh such year in an amount equal to three-fourths of that otherwise required, and during the twelfth such year in an amount equal to seven-eighths of that otherwise required.
+(E) This subparagraph applies to any depository institution that, on August 1, 1978, (i) was engaged in business as a depository institution in a State outside the continental limits of the United States, and (ii) was not a member of the Federal Reserve System at any time on or after such date. Such a depository institution shall not be required to maintain reserves against its deposits held or maintained at its offices located in a State outside the continental limits of the United States until the first day of the sixth calendar year which begins after the effective date of the Monetary Control Act of 1980. Such a depository institution shall maintain reserves against such deposits during the sixth calendar year which begins after such effective date in an amount equal to one-eighth of that otherwise required by paragraph (2), during the seventh such year in an amount equal to one-fourth of that otherwise required, during the eighth such year in an amount equal to three-eighths of that otherwise required, during the ninth such year in an amount equal to one-half of that otherwise required, during the tenth such year in anamount equal to five-eighths of that otherwise required, during the eleventh such year in an amount equal to three-fourths of that otherwise required, and during the twelfth such year in an amount equal to seven-eighths of that otherwise required.
 
 (9) This subsection shall not apply with respect to any financial institution which—
 
@@ -112,43 +110,39 @@ The Board is authorized for the purposes of this section to define the terms use
 
 (ii) The increase in total reservable liabilities shall be determined by subtracting the amount of total reservable liabilities on June 30 of the preceding calendar year from the amount of total reservable liabilities on June 30 of the calendar year involved. In the case of any such twelve-month period in which there has been a decrease in the total reservable liabilities of all depository institutions, no adjustment shall be made. A decrease in total reservable liabilities shall be determined by subtracting the amount of total reservable liabilities on June 30 of the calendar year involved from the amount of total reservable liabilities on June 30 of the previous calendar year.
 
+(12)
+
+Earnings on balances.—
+
+&emsp;(A)
+
+In general.—Balances maintained at a Federal Reserve bank by or on behalf of a depository institution may receive earnings to be paid by the Federal Reserve bank at least once each calendar quarter, at a rate or rates not to exceed the general level of short-term interest rates.
+
+&emsp;(B)
+
+Regulations relating to payments and distributions.—The Board may prescribe regulations concerning—
+
+&emsp;&emsp;(i) the payment of earnings in accordance with this paragraph;
+
+&emsp;&emsp;(ii) the distribution of such earnings to the depository institutions which maintain balances at such banks, or on whose behalf such balances are maintained; and
+
+&emsp;&emsp;(iii) the responsibilities of depository institutions, Federal Home Loan Banks, and the National Credit Union Administration Central Liquidity Facility with respect to the crediting and distribution of earnings attributable to balances maintained, in accordance with subsection (c)(1)(A), in a Federal Reserve bank by any such entity on behalf of depository institutions.
+
+&emsp;(C)
+
+Depository institutions defined.—For purposes of this paragraph, the term “depository institution”, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A \[12 U.S.C. 611 et seq.\] or having an agreement with the Board under section 25 \[12 U.S.C. 601 et seq.\], or any branch or agency of a foreign bank (as defined in section 3101 of this title).
+
 #### (c) Promulgation of rules and regulations respecting maintenance of balances
 
 (1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) of this section shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
 
-&emsp;(A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4) of this section, except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b)(4)(C) of this section; and
+&emsp;(A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4) of this section, except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b) of this section; and
 
-&emsp;(B) balances maintained by a depository institution in a depository institution which maintains required reserve balances at a Federal Reserve bank, in a Federal Home Loan Bank, or in the National Credit Union Administration Central Liquidity Facility, if such depository institution, Federal Home Loan Bank, or National Credit Union Administration Central Liquidity Facility maintains such funds in the form of balances in a Federal Reserve bank of which it is a member or at which it maintains an account. Balances received by a depository institution from a second depository institution and used to satisfy the reserve requirement imposed on such second depository institution by this section shall not be subject to the reserve requirements of this section imposed on such first depository institution, and shall not be subject to assessments or reserves imposed on such first depository institution pursuant to section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817), section 404 of the National Housing Act (12 U.S.C. 1727),<sup>1</sup> or section 202 of the Federal Credit Union Act (12 U.S.C. 1782).
+&emsp;(B) balances maintained by a depository institution in a depository institution which maintains required reserve balances at a Federal Reserve bank, in a Federal Home Loan Bank, or in the National Credit Union Administration Central Liquidity Facility, if suchdepository institution, Federal Home Loan Bank, or National Credit Union Administration Central Liquidity Facility maintains such funds in the form of balances in a Federal Reserve bank of which it is a member or at which it maintains an account. Balances received by a depository institution from a second depository institution and used to satisfy the reserve requirement imposed on such second depository institution by this section shall not be subject to the reserve requirements of this section imposed on such first depository institution, and shall not be subject to assessments or reserves imposed on such first depository institution pursuant to section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817), section 404 of the National Housing Act (12 U.S.C. 1727),<sup>1</sup> or section 202 of the Federal Credit Union Act (12 U.S.C. 1782).
 
 (2) The balances maintained to meet the reserve requirements of subsection (b) of this section by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
 
-(Dec. 23, 1913, ch. 6, §19(a)–(c), formerly §19 (pars.), 38 Stat. 270; June 21, 1917, ch. 32, §10, 40Stat. 239; Aug. 23, 1935, ch. 614, title III, §324(a), 49 Stat. 714; renumbered §19(a)–(c) and amended Pub. L. 89–597, §2(a), Sept. 21, 1966, 80 Stat. 823; Pub. L. 91–151, title I, §§4(a), 5, Dec. 23, 1969, 83 Stat. 374, 375; Pub. L. 93–501, title I, §101(a), Oct. 29, 1974, 88 Stat. 1557; Pub. L. 96–221, title I, §§103, 104(a), Mar. 31, 1980, 94 Stat. 133, 138; Pub. L. 97–35, title III, §385, Aug. 13, 1981, 95 Stat. 433; Pub. L. 97–320, title IV, §411, title VII, §708, Oct. 15, 1982, 96 Stat. 1520, 1540; Pub. L. 101–73, title VII, §744(i)(2), (3), Aug. 9, 1989, 103 Stat. 439; Pub. L. 109–351, title II, §§201, 202, title VI, §603, Oct. 13, 2006, 120 Stat. 1968, 1969, 1980.)
-
-#### Amendment of Subsections (b) and (c)
-
-<i>Pub. L. 109–351, title II, §§201–203, Oct. 13, 2006, 120 Stat. 1968, provided that, effective Oct. 1, 2011, this section is amended—</i>
-
-<i>(1) in subsection (b)(2)(A), by striking “the ratio of 3 per centum” and inserting “a ratio of not greater than 3 percent (and which may be zero)” in clause (i) and by striking “and not less than 8 per centum,” and inserting “(and which may be zero),” in clause (ii);</i>
-
-<i>(2) in subsection (b)(4), by striking subparagraph (C) and redesignating subparagraphs (D) and (E) as subparagraphs (C) and (D), respectively;</i>
-
-<i>(3) in subsection (b), by adding at the end the following:</i>
-
-<i>“(12) EARNINGS ON BALANCES.—</i>
-
-&emsp;<i>“(A) IN GENERAL.—Balances maintained at a Federal Reserve bank by or on behalf of a depository institution may receive earnings to be paid by the Federal Reserve bank at least once each calendar quarter, at a rate or rates not to exceed the general level of short-term interest rates.</i>
-
-&emsp;<i>“(B) REGULATIONS RELATING TO PAYMENTS AND DISTRIBUTIONS.—The Board may prescribe regulations concerning—</i>
-
-&emsp;&emsp;<i>“(i) the payment of earnings in accordance with this paragraph;</i>
-
-&emsp;&emsp;<i>“(ii) the distribution of such earnings to the depository institutions which maintain balances at such banks, or on whose behalf such balances are maintained; and</i>
-
-&emsp;&emsp;<i>“(iii) the responsibilities of depository institutions, Federal Home Loan Banks, and the National Credit Union Administration Central Liquidity Facility with respect to the crediting and distribution of earnings attributable to balances maintained, in accordance with subsection (c)(1)(A), in a Federal Reserve bank by any such entity on behalf of depository institutions.</i>
-
-&emsp;<i>“(C) DEPOSITORY INSTITUTIONS DEFINED.—For purposes of this paragraph, the term ‘depository institution’, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A \[12 U.S.C. 611 et seq.\] or having an agreement with the Board under section 25 \[12 U.S.C. 601 et seq.\], or any branch or agency of a foreign bank (as defined in section 3101 of this title).”;</i>
-
-<i>(4) in subsection (c)(1)(A), by striking “subsection (b)(4)(C)” and inserting “subsection (b)”.</i>
+(Dec. 23, 1913, ch. 6, §19(a)–(c), formerly §19 (pars.), 38 Stat. 270; June 21, 1917, ch. 32, §10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title III, §324(a), 49 Stat. 714; renumbered §19(a)–(c) and amended Pub. L. 89–597, §2(a), Sept. 21, 1966, 80 Stat. 823; Pub. L. 91–151, title I, §§4(a), 5, Dec. 23, 1969, 83 Stat. 374, 375; Pub. L. 93–501, title I, §101(a), Oct. 29, 1974, 88 Stat. 1557; Pub. L. 96–221, title I, §§103, 104(a), Mar. 31, 1980, 94 Stat. 133, 138; Pub. L. 97–35, title III, §385, Aug. 13, 1981, 95 Stat. 433; Pub. L. 97–320, title IV, §411, title VII, §708, Oct. 15, 1982, 96 Stat. 1520, 1540; Pub. L. 101–73, title VII, §744(i)(2), (3), Aug. 9, 1989, 103 Stat. 439; Pub. L. 109–351, title II, §§201, 202, title VI, §603, Oct. 13, 2006, 120 Stat. 1968, 1969, 1980.)
 
 #### References in Text
 
@@ -156,9 +150,11 @@ This section, referred to in subsec. (a), means section 19 of act Dec. 23, 1913,
 
 The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-Section 25 of this Act, referred to in subsec. (b)(6), means section 25 of act Dec. 23, 1913, ch. 6, 38 Stat. 273, as amended, popularly known as the Federal Reserve Act. Section 25 is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
+Section 25 of this Act and section 25, referred to in subsec. (b)(6), (12)(C), mean section 25 of act Dec. 23, 1913, ch. 6, which is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 
 For the effective date of the Monetary Control Act of 1980, referred to in subsec. (b)(8), see section 108 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 248 of this title.
+
+Section 25A, referred to in subsec. (b)(12)(C), means section 25A of act Dec. 23, 1913, ch. 6, known as the Edge Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title.
 
 Section 404 of the National Housing Act (12 U.S.C. 1727), referred to in subsec. (c)(1)(B), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
@@ -168,7 +164,15 @@ Section is comprised of subsecs. (a) to (c), formerly first six pars., of sectio
 
 #### Amendments
 
-2006—Subsec. (c)(1)(B). Pub. L. 109–351, §603, struck out “which is not a member bank” after “balances maintained by a depository institution”.
+2006—Subsec. (b)(2)(A). Pub. L. 109–351, §202, substituted “a ratio of not greater than 3 percent (and which may be zero)” for “the ratio of 3 per centum” in cl. (i) and “(and which may be zero),” for “and not less than 8 per centum,” in cl. (ii).
+
+Subsec. (b)(4)(C) to (E). Pub. L. 109–351, §201(b)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph.”
+
+Subsec. (b)(12). Pub. L. 109–351, §201(a), added par. (12).
+
+Subsec. (c)(1)(A). Pub. L. 109–351, §201(b)(2), substituted “subsection (b)” for “subsection (b)(4)(C)”.
+
+Subsec. (c)(1)(B). Pub. L. 109–351, §603, struck out “which is not a member bank” after “balances maintained by a depository institution”.
 
 1989—Subsec. (b)(1)(A)(vi). Pub. L. 101–73, §744(i)(2), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “any insured institution as defined in section 1724 of this title or any institution which is eligible to make application to become an insured institution under section 1726 of this title; and”.
 
@@ -186,7 +190,7 @@ Subsec. (b)(11). Pub. L. 97–320, §411(a), added par. (11).
 
 1981—Subsec. (b)(8)(E). Pub. L. 97–35 substituted provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business in a State outside the continental limits and was not a member of the Federal Reserve System at any time on or after such date, for provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business under the laws of a State, was not a member of the Federal Reserve System on that date, and the principal office of which was outside the continental limits on that date and has remained outside ever since.
 
-1980—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicable to reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
+1980—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicableto reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
 
 Subsec. (c). Pub. L. 96–221, §104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
 
@@ -202,7 +206,7 @@ Subsec. (b). Pub. L. 91–151, §5, authorized Board to prescribe ratio of indeb
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–351, title II, §203, Oct. 13, 2006, 120 Stat. 1969, provided that: “The amendments made by this title \[amending this section\] shall take effect October 1, 2011.”
+Pub. L. 109–351, title II, §203, Oct. 13, 2006, 120 Stat. 1969, as amended by Pub. L. 110–343, div. A, title I, §128, Oct. 3, 2008, 122 Stat. 3796, provided that: “The amendments made by this title \[amending this section\] shall take effect October 1, 2008.”
 
 #### Effective Date of 1980 Amendment
 

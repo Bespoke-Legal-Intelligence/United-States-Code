@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Secretary may pay a retention bonus to any physician or nurse employed by, or assignedto, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps of the Public Health Service who—
+The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps of the Public Health Service who—
 
 &emsp;(1) is assigned to, and serving in, a position included in the list established under section 1616i(b)(1) of this title for which recruitment or retention of personnel is difficult,
 

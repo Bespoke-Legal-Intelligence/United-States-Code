@@ -138,7 +138,7 @@ In subsection (a)(2), the words “Secretary of the Treasury” are substituted 
 
 In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
-In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devicesof such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
 
 In subsection (b), the first sentence is added for clarity and because of the restatement. The words “amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal” are substituted for “gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals” to eliminate unnecessary words. The words “The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund” are substituted for “such sums as shall from time to time be transferred therefrom to the general fund of the Treasury” for clarity and for consistency in the revised title.
 
@@ -152,7 +152,7 @@ In subsection (d)(3), the words “and his delegates” are omitted as unnecessa
 
 #### References in Text
 
-The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Codeof 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -168,6 +168,14 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 110–420, Oct. 15, 2008, 122 Stat. 4774, recognizing Native American code talkers.
+
+Pub. L. 110–260, July 1, 2008, 122 Stat. 2433, recognizing Senator Edward William Brooke III.
+
+Pub. L. 110–259, July 1, 2008, 122 Stat. 2430, recognizing Constantino Brumidi.
+
+Pub. L. 110–209, May 6, 2008, 122 Stat. 721, recognizing Aung San Suu Kyi.
+
 Pub. L. 110–95, Oct. 16, 2007, 121 Stat. 1008, recognizing Michael Ellis DeBakey, M.D.
 
 Pub. L. 109–395, Dec. 14, 2006, 120 Stat. 2708, recognizing Dr. Norman E. Borlaug.
@@ -180,7 +188,7 @@ Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen
 
 Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871, as amended by Pub. L. 109–13, div. A, title VI, §6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
-Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr. and his widow Coretta Scott King.
+Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
 Pub. L. 108–180, Dec. 15, 2003, 117 Stat. 2645, recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 

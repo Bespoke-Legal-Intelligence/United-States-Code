@@ -24,7 +24,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits, and subpart H thereof).
+&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits, and subparts H and I thereof).
 
 #### (d) Qualified zone academy bond
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified zone academy” means any public school (or academic programwithin a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
+&emsp;&emsp;The term “qualified zone academy” means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
 
 &emsp;&emsp;&emsp;(i) such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;An issue shall be treated as meeting the requirements of this subsection if, as of the date of issuance, the issuer reasonably expects—
 
-&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 or more qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
+&emsp;&emsp;(A) at least 95 percent of the proceeds from the sale of the issue are to be spent for 1 ormore qualified purposes with respect to qualified zone academies within the 5-year period beginning on the date of issuance of the qualified zone academy bond,
 
 &emsp;&emsp;(B) a binding commitment with a third party to spend at least 10 percent of the proceeds from the sale of the issue will be incurred within the 6-month period beginning on the date of issuance of the qualified zone academy bond, and
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (3) Failure to spend required amount of bond proceeds within 5 years
 
-&emsp;To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or if an extension has beenobtained under paragraph (2), by the close of the extended period), the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
+&emsp;To the extent that less than 95 percent of the proceeds of such issue are expended by the close of the 5-year period beginning on the date of issuance (or if an extension has been obtained under paragraph (2), by the close of the extended period), the issuer shall redeem all of the nonqualified bonds within 90 days after the end of such period. For purposes of this paragraph, the amount of the nonqualified bonds required to be redeemed shall be determined in the same manner as under section 142.
 
 #### (g) Special rules relating to arbitrage
 
@@ -200,7 +200,11 @@ In the case of a qualified zone academy bond held by an S corporation which is a
 
 &emsp;(2) no basis adjustments to the stock of the corporation shall be made under section 1367 on account of this section.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938.)
+#### (m) Termination
+
+This section shall not apply to any obligation issued after the date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008.
+
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872.)
 
 #### References in Text
 
@@ -210,7 +214,17 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(4)(
 
 Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to section 7801 of Title 20, Education.
 
+The date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008, referred to in subsec. (m), is the date of enactment of div. C of Pub. L. 110–343, which was approved Oct. 3, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(2), substituted “subparts H and I” for “subpart H”.
+
+Subsec. (m). Pub. L. 110–343 added subsec. (m).
 
 2006—Subsec. (d)(1)(E). Pub. L. 109–432, §107(b)(1)(A), added subpar. (E).
 
@@ -241,6 +255,14 @@ Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward
 Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
 
 Subsec. (h). Pub. L. 105–206, §6004(g)(3), added subsec. (h).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 applicable to obligations issued after Oct. 3, 2008, see section 313(c) of Pub. L. 110–343, set out as a note under section 54A of this title.
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15316(c)(2) of Pub. L. 110–246 applicable to obligations issued after June 18, 2008, see section 15316(d) of Pub. L. 110–246, set out as a note under section 54 of this title.
 
 #### Effective Date of 2006 Amendment
 

@@ -30,7 +30,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) the settlement brought people from throughout the Atlantic Basin together to form a multicultural society, including English, other Europeans, Native Americans, and Africans;
 
-&emsp;“(3) the economic, political, religious, and social institutions that developed during the first 9 decades of the existence of Jamestown continue to have profound effects on the United States, particularly in English common law and language, cross cultural relationships, and economic structure and status;
+&emsp;“(3) the economic, political, religious, and social institutions that developed during the first 9 decades ofthe existence of Jamestown continue to have profound effects on the United States, particularly in English common law and language, cross cultural relationships, and economic structure and status;
 
 &emsp;“(4) the National Park Service, the Association for the Preservation of Virginia Antiquities, and the Jamestown-Yorktown Foundation of the Commonwealth of Virginia collectively own and operate significant resources related to the early history of Jamestown; and
 

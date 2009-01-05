@@ -58,7 +58,7 @@ Delivery to seizing agency.—If the agency that seized the property files a req
 
 &emsp;&emsp;(C)
 
-Delivery to other requesting agency.—If the agency that seized the property does not file a request for the property under paragraph (1) but another agency requests the property, the Administrator shall apply to the court to order delivery of the property to the requesting agency if the Administrator believes that the requesting agency should be given the property.
+Delivery to other requesting agency.—If the agency that seized the property does not file a request for the property under paragraph (1) but another agency requests the property, the Administrator shall apply to the court to order delivery of the propertyto the requesting agency if the Administrator believes that the requesting agency should be given the property.
 
 &emsp;&emsp;(D)
 
@@ -194,5 +194,5 @@ In subsection (h)(3), the text of 40:304m(1) is omitted because section 4 of the
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (h)(3)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (h)(3)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 

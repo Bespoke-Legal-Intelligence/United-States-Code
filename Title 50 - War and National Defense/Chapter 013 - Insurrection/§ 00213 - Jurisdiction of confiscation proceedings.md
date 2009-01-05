@@ -6,11 +6,11 @@ Such prizes and capture shall be condemned in the district court of the United S
 
 #### Codification
 
-R.S. §5309 derived derived from act Aug. 6, 1861, ch. 60, §2, 12 Stat. 319.
+R.S. §5309 derived from act Aug. 6, 1861, ch. 60, §2, 12 Stat. 319.
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
 #### Amendments
 
-1877—Act Feb. 27, 1877, inserted “may” after “any district in which the same”.
+<b>1877</b>—Act Feb. 27, 1877, inserted “may” after “any district in which the same”.
 

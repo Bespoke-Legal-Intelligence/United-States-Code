@@ -24,9 +24,9 @@ Provisions similar to those in this section were contained in former section 98a
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” and struck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” and struck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
 
-1992—Subsec. (c)(2) to (5). Pub. L. 102–484 added par. (2) and struck out former pars. (2) to (5) which read as follows:
+<b>1992</b>—Subsec. (c)(2) to (5). Pub. L. 102–484 added par. (2) and struck out former pars. (2) to (5) which read as follows:
 
 “(2) If the President proposes to change the quantity of any material to be stockpiled under this subchapter, the President shall include a full explanation and justification for the change in the next annual material plan submitted to Congress under section 98h–2(b) of this title.
 
@@ -36,9 +36,9 @@ Provisions similar to those in this section were contained in former section 98a
 
 “(5) If in any year the reports required by sections 98h–2(b) and 98h–5 of this title are not submitted to Congress as required by law (including the time for such submission), then during the next fiscal year no change under paragraph (3) may be made in the quantity of any material to be stockpiled under this subchapter.”
 
-1988—Subsec. (c)(1). Pub. L. 100–456 substituted “December 4, 1987” for “the date of the enactment of the National Defense Stockpile Amendments of 1987”, which for purposes of codification had been translated as “December 4, 1987”, thus requiring no change in text.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–456 substituted “December 4, 1987” for “the date of the enactment of the National Defense Stockpile Amendments of 1987”, which for purposes of codification had been translated as “December 4, 1987”, thus requiring no change in text.
 
-1987—Subsec. (a). Pub. L. 100–180, §3202(a)(1), substituted “Subject to subsection (c) of this section, the” for “The”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–180, §3202(a)(1), substituted “Subject to subsection (c) of this section, the” for “The”.
 
 Subsec. (b). Pub. L. 100–180, §3202(a)(2), substituted “the principles stated in section 98a(c) of this title.” for “the following principles:” and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 

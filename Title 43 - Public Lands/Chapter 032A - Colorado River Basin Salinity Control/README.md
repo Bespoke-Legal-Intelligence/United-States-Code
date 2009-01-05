@@ -23,7 +23,7 @@
 |  |  |
 | :--- | ---: |
 | [1591\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001591%20-%20Salinity%20control%20policy.md) | Salinity control policy. |
-| [1592\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001592%20-%20Authorization%20to%20construct%2C%20operate%2C%20and%20maintain%20salinity%20control%20units%20and%20salinity%20control%20program.md) | Authorization to construct, operate, and maintain salinity control units and salinity control program. |
+| [1592\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001592%20-%20Authorization%20to%20construct%2C%20operate%2C%20and%20maintain%20salinity%20control%20units%20and%20salinity%20control%20programs.md) | Authorization to construct, operate, and maintain salinity control units and salinity control programs. |
 | [1593\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001593%20-%20Planning%20reports%3B%20research%20and%20demonstration%20projects.md) | Planning reports; research and demonstration projects. |
 | [1594\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001594%20-%20Colorado%20River%20Basin%20Salinity%20Control%20Advisory%20Council.md) | Colorado River Basin Salinity Control Advisory Council. |
 | [1595\.](Subchapter%20002%20%28II%29%20-%20Measures%20Upstream%20from%20Imperial%20Dam/%C2%A7%2001595%20-%20Salinity%20control%20units%3B%20authority%20and%20functions%20of%20Secretary%20of%20the%20Interior.md) | Salinity control units; authority and functions of Secretary of the Interior. |

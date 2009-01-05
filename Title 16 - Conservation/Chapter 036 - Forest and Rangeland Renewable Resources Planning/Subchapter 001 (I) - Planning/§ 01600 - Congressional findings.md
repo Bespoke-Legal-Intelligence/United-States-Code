@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) inasmuch as the majority of the Nation's forests and rangeland is under private, State, and local governmental management and the Nation's major capacity to produce goods and services is based on these nonfederally managed renewable resources, the Federal Government should be a catalyst to encourage and assist these owners in the efficient long-term use and improvement of these lands and their renewable resources consistent with the principles of sustained yield and multiple use;
 
-&emsp;(6) the Forest Service, by virtue of its statutory authority for management of the National Forest System, research and cooperative programs, and its role as an agency in the Department of Agriculture, has both a responsibility and an opportunity to be a leader inassuring that the Nation maintains a natural resource conservation posture that will meet the requirements of our people in perpetuity; and
+&emsp;(6) the Forest Service, by virtue of its statutory authority for management of the National Forest System, research and cooperative programs, and its role as an agency in the Department of Agriculture, has both a responsibility and an opportunity to be a leader in assuring that the Nation maintains a natural resource conservation posture that will meet the requirements of our people in perpetuity; and
 
 &emsp;(7) recycled timber product materials are as much a part of our renewable forest resources as are the trees from which they originally came, and in order to extend our timber and timber fiber resources and reduce pressures for timber production from Federal lands, the Forest Service should expand its research in the use of recycled and waste timber product materials, develop techniques for the substitution of these secondary materials for primary materials, and promote and encourage the use of recycled timber product materials.
 
@@ -40,7 +40,7 @@ Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–588 provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
+Section 1 of Pub. L. 94–588 provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
 
 #### Short Title
 

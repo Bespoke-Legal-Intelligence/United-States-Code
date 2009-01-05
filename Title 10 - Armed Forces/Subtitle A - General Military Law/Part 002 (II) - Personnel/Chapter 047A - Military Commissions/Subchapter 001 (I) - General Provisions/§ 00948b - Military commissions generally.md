@@ -14,7 +14,7 @@ Construction of Provisions.—The procedures for military commissions set forth 
 
 (d)
 
-Inapplicability of Certain Provisions.—(1) The following provisions of this title shall not apply to trial by military commission under this chapter:
+Inapplicability of Certain Provisions.—(1) The following provisions of this title shallnot apply to trial by military commission under this chapter:
 
 &emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
 

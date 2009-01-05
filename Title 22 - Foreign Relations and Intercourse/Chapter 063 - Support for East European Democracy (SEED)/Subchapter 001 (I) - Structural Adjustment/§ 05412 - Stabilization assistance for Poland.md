@@ -2,7 +2,7 @@
 
 #### (a) Immediate emergency assistance
 
-To the extent that the ongoing International Monetary Fund review of the Polish economy projects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
+To the extent that the ongoing International Monetary Fund review of the Polish economyprojects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
 
 &emsp;(1) should work closely with the European Community and international financial institutions to determine the extent of emergency assistance required by Poland for the fourth quarter of 1989, and
 

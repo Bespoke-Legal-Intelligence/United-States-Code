@@ -16,7 +16,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (3) Payments
 
-&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall beavailable for use by such committee in accordance with the provisions of subsection (c).
+&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall be available for use by such committee in accordance with the provisions of subsection (c).
 
 #### (4) Limitation
 
@@ -24,7 +24,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (5) Adjustment of entitlements
 
-&emsp;The entitlements established by this subsection shall be adjusted in the same manner as expenditure limitations established by section 315(b) and section 315(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 315(c) of such Act.
+&emsp;The entitlements established by this subsection shall be adjusted in the same manner as expenditure limitations established by section 315(b) and section 315(d) of the FederalElection Campaign Act of 1971 are adjusted pursuant to the provisions of section 315(c) of such Act.
 
 #### (c) Use of funds
 
@@ -86,7 +86,7 @@ Subsec. (b)(5). Pub. L. 98–355, §1(b), substituted “section 315(b) and sect
 
 Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
-1974—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see section 434 of Title 2, The Congress.
+1974—Pub. L. 93–443 substituted provisions respecting payments for presidential nominating conventions forprior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries, see section 434 of Title 2, The Congress.
 
 #### Effective Date of 1984 Amendment
 

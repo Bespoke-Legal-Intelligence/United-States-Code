@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “Administration” means the United States Fire Administration established pursuant to section 2204 of this title;
 
-&emsp;(3) “Administrator” means the Administrator of the United States Fire Administration;
+&emsp;(3) “Administrator” means the Administrator of the United States Fire Administration, within the Federal Emergency Management Agency;
 
 &emsp;(4) “Director” means the Administrator of the Federal Emergency Management Agency;
 
@@ -14,17 +14,23 @@ As used in this chapter, the term—
 
 &emsp;(6) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
 
-&emsp;(7) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local law or regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment; and
+&emsp;(7) “place of public accommodation affecting commerce” means any inn, hotel, or other establishment not owned by the Federal Government that provides lodging to transient guests, except that such term does not include an establishment treated as an apartment building for purposes of any State or local law or regulation or an establishment located within a building that contains not more than 5 rooms for rent or hire and that is actually occupied as a residence by the proprietor of such establishment;
 
-&emsp;(8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Canal Zone, Guam, American Samoa, the Trust Territory of the Pacific Islands and any other territory or possession of the United States.
+&emsp;(8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Canal Zone, Guam, American Samoa, the Trust Territory of the Pacific Islands and any other territory or possession of the United States; and
 
-(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+&emsp;(9) “wildland-urban interface” has the meaning given such term in section 6511 of title 16.
+
+(Pub. L. 93–498, §4, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 101–391, §3(b), Sept. 25, 1990, 104 Stat. 749; Pub. L. 106–503, title I, §110(a)(2)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–376, §10, Oct. 8, 2008, 122 Stat. 4061.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (8), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2008—Par. (3). Pub. L. 110–376, §10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
+
+Par. (9). Pub. L. 110–376, §10(2)–(4), added par. (9).
 
 2000—Pars. (7) to (9). Pub. L. 106–503 inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
 

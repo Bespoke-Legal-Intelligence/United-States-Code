@@ -8,9 +8,11 @@ The Secretary may establish, and award grants for projects for, a multi-year res
 
 In administering human nutrition research projects under this section, the Secretary shall give specific emphasis to—
 
-&emsp;(1) coordinated longitudinal research assessments of nutritional status; and
+&emsp;(1) coordinated longitudinal research assessments of nutritional status;
 
-&emsp;(2) the implementation of unified, innovative intervention strategies,
+&emsp;(2) the implementation of unified, innovative intervention strategies; and
+
+&emsp;(3) proposals that examine the efficacy of current agriculture policies in promoting the health and welfare of economically disadvantaged populations;
 
 > to identify and solve problems of nutritional inadequacy and contribute to the maintenance of health, well-being, performance, and productivity of individuals, thereby reducing the need of the individuals to use the health care system and social programs of the United States.
 
@@ -20,9 +22,13 @@ The Administrator of the Agricultural Research Service shall administer funds ma
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2007.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2012.
 
-(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, §301(a)(4), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7104, May 13, 2002, 116 Stat. 432.)
+(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, §301(a)(4), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7104, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7113, 7114, May 22, 2008, 122 Stat. 1219; Pub. L. 110–246, §4(a), title VII, §§7113, 7114, June 18, 2008, 122 Stat. 1664, 1980, 1981.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -32,7 +38,19 @@ Another prior section 3174, Pub. L. 95–113, title XIV, §1424, Sept. 29, 1977,
 
 #### Amendments
 
+2008—Subsec. (b)(1). Pub. L. 110–246, §7113(1), which directed amendment of par. (1) by striking out “and,” at end, was executed by striking out “and” at end to reflect the probable intent of Congress.
+
+Subsec. (b)(2). Pub. L. 110–246, §7113(2), substituted “; and” for comma at end.
+
+Subsec. (b)(3). Pub. L. 110–246, §7113(3), added par. (3).
+
+Subsec. (d). Pub. L. 110–246, §7114, substituted “2012” for “2007”.
+
 2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

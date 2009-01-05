@@ -40,7 +40,7 @@ A storage or related facility of the Strategic Petroleum Reserve owned by or lea
 
 During a drawdown and sale of Strategic Petroleum Reserve petroleum products, the Secretary may issue implementing rules, regulations, or orders in accordance with section 553 of title 5, without regard to rulemaking requirements in section 6393 of this title, and section 7191 of this title.
 
-(Pub. L. 94–163, title I, §159, Dec. 22, 1975, 89 Stat. 886; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–229, §4(b)(1), (2)(B), Aug. 3, 1982, 96 Stat. 251, 252; Pub. L. 99–58, title I, §102(a), July 2, 1985, 99 Stat. 102; Pub. L. 101–383, §§4(a), 9, 11, Sept. 15, 1990, 104 Stat. 728, 735; Pub. L. 106–469, title I, §103(12), (13), Nov. 9, 2000, 114 Stat. 2030.)
+(Pub. L. 94–163, title I, §159, Dec. 22, 1975, 89 Stat. 886; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 97–229, §4(b)(1), (2)(B), Aug. 3, 1982, 96 Stat. 251, 252; Pub. L. 99–58, titleI, §102(a), July 2, 1985, 99 Stat. 102; Pub. L. 101–383, §§4(a), 9, 11, Sept. 15, 1990, 104 Stat. 728, 735; Pub. L. 106–469, title I, §103(12), (13), Nov. 9, 2000, 114 Stat. 2030.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 106–469, §103(13)(B), amended subsec. (f) generally. Pri
 
 Subsec. (g). Pub. L. 106–469, §103(13)(C), substituted “development” for “implementation” and struck out “Plan” after “Strategic Petroleum Reserve”.
 
-Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interimstorage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
+Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interim storage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
 
 Subsec. (j). Pub. L. 106–469, §103(13)(E), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “No later than 24 months after September 15, 1990, the Secretary shall amend the Strategic Petroleum Reserve Plan to prescribe plans for completion of storage of one billion barrels of petroleum product in the Reserve. Such amendment shall comply with the provisions of this section and shall detail the Secretary's plans for the design, construction, leasing or other acquisition, and fill of storage and related facilities of the Reserve to achieve such one billion barrels of storage. Such amendment shall not be subject to the congressional review procedures contained in section 6421 of this title. In assessing alternatives in the development of such plans, the Secretary shall consider leasing privately owned storage facilities.”
 

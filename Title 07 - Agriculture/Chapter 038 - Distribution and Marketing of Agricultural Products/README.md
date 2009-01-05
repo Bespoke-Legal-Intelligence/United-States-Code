@@ -7,6 +7,8 @@
 | [1621\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001621%20-%20Congressional%20declaration%20of%20purpose%3B%20use%20of%20existing%20facilities%3B%20cooperation%20with%20States.md) | Congressional declaration of purpose; use of existing facilities; cooperation with States. |
 | [1622\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622%20-%20Duties%20of%20Secretary%20relating%20to%20agricultural%20products.md) | Duties of Secretary relating to agricultural products. |
 | [1622a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622a%20-%20Authority%20to%20assist%20farmers%20and%20elevator%20operators.md) | Authority to assist farmers and elevator operators. |
+| [1622b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622b%20-%20Specialty%20crops%20market%20news%20allocation.md) | Specialty crops market news allocation. |
+| [1622c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622c%20-%20Grant%20program%20to%20improve%20movement%20of%20specialty%20crops.md) | Grant program to improve movement of specialty crops. |
 | [1623\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001623%20-%20Authorization%20of%20appropriations%3B%20allotments%20to%20States.md) | Authorization of appropriations; allotments to States. |
 | [1623a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001623a%20-%20Omitted.md) | Omitted. |
 | [1624\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001624%20-%20Cooperation%20with%20Government%20and%20State%20agencies%2C%20private%20research%20organizations%2C%20etc.%3B%20rules%20and%20regulations.md) | Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations. |
@@ -18,6 +20,8 @@
 | [1630\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001630%20-%20Omitted.md) | Omitted. |
 | [1631\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001631%20-%20Protection%20for%20purchasers%20of%20farm%20products.md) | Protection for purchasers of farm products. |
 | [1632\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77303%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
+| [1632a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632a%20-%20Value-added%20agricultural%20product%20market%20development%20grants.md) | Value-added agricultural product market development grants. |
+| [1632b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632b%20-%20Agriculture%20Innovation%20Center%20Demonstration%20Program.md) | Agriculture Innovation Center Demonstration Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

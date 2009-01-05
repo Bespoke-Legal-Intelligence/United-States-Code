@@ -50,7 +50,7 @@ In this section, the term “entry and exit data system” means the entry and e
 
 &emsp;&emsp;&emsp;(i) the earliest date on which the Secretary estimates that full implementation of the biometric entry and exit data system can be completed;
 
-&emsp;&emsp;&emsp;(ii) the actions the Secretary will take to accelerate the full implementation of the biometric entry and exit data system at all ports of entry through which all aliens must pass that are legally required to do so; and
+&emsp;&emsp;&emsp;(ii) the actions the Secretary will take to accelerate the full implementation of the biometric entry and exit data system at all ports of entry through which allaliens must pass that are legally required to do so; and
 
 &emsp;&emsp;&emsp;(iii) the resources and authorities required to enable the Secretary to meet the implementation date described in clause (i);
 
@@ -266,7 +266,7 @@ There are authorized to be appropriated to the Secretary, for each of the fiscal
 
 The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (b)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
 
-The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to insubsec. (b)(2), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
+The Immigration and Naturalization Service Data Management Improvement Act of 2000, referred to in subsec. (b)(2), is Pub. L. 106–215, June 15, 2000, 114 Stat. 337, which amended section 1365a of this title and enacted provisions set out as notes under sections 1101 and 1365a of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 
 The Visa Waiver Permanent Program Act, referred to in subsec. (b)(3), is Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1637. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1101 of this title and Tables.
 

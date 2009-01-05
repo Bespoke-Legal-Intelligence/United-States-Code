@@ -42,7 +42,7 @@ The Administrator, in consultation with the Secretary of the Interior, shall con
 
 &emsp;(6) potential for use of discarded material as a secondary source of the mine product.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations forFederal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (g) Sludge
 
@@ -82,7 +82,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(E) the need for further research, development, and demonstration in the area of resource conservation.
 
-(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall consider and evaluate alternative strategies with respect to—
+(2) The study required in paragraph (1)(D) may include pilot scale projects, and shall considerand evaluate alternative strategies with respect to—
 
 &emsp;(A) the product categories on which such charges would be imposed;
 
@@ -106,7 +106,7 @@ The Administrator shall undertake a comprehensive study and analysis of and publ
 
 #### (<i>l</i>) Completion of research and studies
 
-The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development,and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) of this section not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) of this section not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
@@ -174,7 +174,7 @@ The Administrator shall conduct a detailed and comprehensive study of the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six monthsafter October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (p) Materials generated from extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining
 

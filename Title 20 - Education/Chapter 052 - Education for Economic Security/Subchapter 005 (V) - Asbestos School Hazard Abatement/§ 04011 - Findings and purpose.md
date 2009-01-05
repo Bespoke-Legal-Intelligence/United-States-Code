@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) the presence in school buildings of friable or easily damaged asbestos creates an unwarranted hazard to the health of the school children and school employees who are exposed to such materials;
 
-&emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for remedying hazardous conditions in schools;
+&emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards toschool children and employees from exposure to asbestos fibers, but there is no systematic program for remedying hazardous conditions in schools;
 
 &emsp;(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees and students may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
 

@@ -8,17 +8,35 @@
 
 &emsp;&emsp;(A) the graduate or professional student or the parents do not have an adverse credit history as determined pursuant to regulations promulgated by the Secretary;
 
-&emsp;&emsp;(B) in the case of a graduate or professional student or parent who has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter and part C of subchapter I of chapter 34 of title 42, such graduate or professional student or parent has completed the repayment of such fundsto the Secretary, or to the holder in the case of a loan under this subchapter and part C of subchapter I of chapter 34 of title 42 obtained by fraud; and
+&emsp;&emsp;(B) in the case of a graduate or professional student or parent who has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining funds under this subchapter and part C of subchapter I of chapter 34 of title 42, such graduate or professional student or parent has completed the repayment of such funds to the Secretary, or to the holder in the case of a loan under this subchapter and part C of subchapter I of chapter 34 of title 42 obtained by fraud; and
 
 &emsp;&emsp;(C) the graduate or professional student or the parents meet such other eligibility criteria as the Secretary may establish by regulation, after consultation with guaranty agencies, eligible lenders, and other organizations involved in student financial assistance.
 
 #### (2) Terms, conditions, and benefits
 
-&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under this section shall have the same terms, conditions, and benefits as all other loans made under this part.
+&emsp;Except as provided in subsections (c), (d), and (e) of this section, loans made under thissection shall have the same terms, conditions, and benefits as all other loans made under this part.
 
-#### (3) Special rule
+#### (3) Special rules
 
-&emsp;Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
+#### (A) Parent borrowers
+
+&emsp;&emsp;Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
+
+#### (B)(i) Extenuating circumstances
+
+&emsp;&emsp;An eligible lender may determine that extenuating circumstances exist under the regulations promulgated pursuant to paragraph (1)(A) if, during the period beginning January 1, 2007, and ending December 31, 2009, an applicant for a loan under this section—
+
+&emsp;&emsp;&emsp;(I) is or has been delinquent for 180 days or fewer on mortgage loan payments or on medical bill payments during such period; and
+
+&emsp;&emsp;&emsp;(II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
+
+#### (ii) Definition of mortgage loan
+
+&emsp;&emsp;In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+
+#### (iii) Rule of construction
+
+&emsp;&emsp;Nothing in this subparagraph shall be construed to limit an eligible lender's authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
 
 #### (b) Limitation based on need
 
@@ -36,11 +54,33 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Commencement of repayment
 
-&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral during any period during which the graduate or professional student or the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
+&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral—
+
+&emsp;&emsp;(A)(i) during any period during which the parent borrower or the graduate or professional student borrower meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title; and
+
+&emsp;&emsp;(ii) upon the request of the parent borrower, during any period during which the student on whose behalf the loan was borrowed by the parent borrower meets the conditions required for a deferral under section 1077(a)(2)(C)(i)(I) or 1078(b)(1)(M)(i)(I) of this title; and
+
+&emsp;&emsp;(B)(i) in the case of a parent borrower, upon the request of the parent borrower, during the 6-month period beginning on the later of—
+
+&emsp;&emsp;&emsp;(I) the day after the date the student on whose behalf the loan was borrowed ceases to carry at least one-half the normal full-time academic workload (as determined by the institution); or
+
+&emsp;&emsp;&emsp;(II) if the parent borrower is also a student, the day after the date such parent borrower ceases to carry at least one-half such a workload; and
+
+&emsp;&emsp;(ii) in the case of a graduate or professional student borrower, during the 6-month period beginning on the day after the date such student ceases to carry at least one-half the normal full-time academic workload (as determined by the institution).
 
 #### (2) Capitalization of interest
 
-&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the borrower.
+#### (A) In general
+
+&emsp;&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) shall, if agreed upon by the borrower and the lender—
+
+&emsp;&emsp;&emsp;(i) be paid monthly or quarterly; or
+
+&emsp;&emsp;&emsp;(ii) be added to the principal amount of the loan not more frequently than quarterly by the lender.
+
+#### (B) Insurable limits
+
+&emsp;&emsp;Capitalization of interest under this paragraph shall not be deemed to exceed the annual insurable limit on account of the borrower.
 
 #### (3) Subsidies prohibited
 
@@ -68,7 +108,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Refinancing to secure variable interest rate
 
-&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not toexceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
+&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
 
 #### (3) Refinancing by discharge of previous loan
 
@@ -104,7 +144,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(<i>o</i>), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232.)
 
 #### Codification
 
@@ -112,9 +152,17 @@ October 17, 1986, referred to in subsec. (e)(5), was in the original “the date
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–227, §4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+
+Subsec. (a)(3)(B)(i)(II). Pub. L. 110–315, §424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: “is not and has not been more than 89 days delinquent on the repayment of any other debt during such period.”
+
+Subsec. (d)(1), (2). Pub. L. 110–315, §424(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to commencement of repayment and capitalization of interest.
+
+Pub. L. 110–227, §3(a), amended pars. (1) and (2) generally. Prior to amendment, text related to commencement of repayment and capitalization of interest.
 
 2006—Subsec. (a)(1). Pub. L. 109–171, §8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
 
@@ -177,6 +225,12 @@ Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” afte
 Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–315 effective for loans for which the first disbursement is made on or after July 1, 2008, see section 424(c) of Pub. L. 110–315, set out as a note under section 1078 of this title.
+
+Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, see section 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
 
 #### Effective Date of 2006 Amendment
 

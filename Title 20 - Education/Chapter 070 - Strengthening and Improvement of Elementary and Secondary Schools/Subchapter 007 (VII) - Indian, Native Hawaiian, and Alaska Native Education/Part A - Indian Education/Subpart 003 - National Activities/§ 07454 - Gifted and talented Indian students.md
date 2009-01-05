@@ -14,7 +14,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 &emsp;(1) two tribally controlled community colleges that—
 
-&emsp;&emsp;(A) are eligible for funding under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]; and
+&emsp;&emsp;(A) are eligible for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\]; and
 
 &emsp;&emsp;(B) are fully accredited; or
 
@@ -72,7 +72,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants toschools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
+&emsp;The Secretary, in consultation with the Secretary of the Interior, shall award 5 grants to schools funded by the Bureau of Indian Affairs (hereafter referred to individually in this section as a “Bureau school”) for program research and development and the development and dissemination of curriculum and teacher training material, regarding—
 
 &emsp;&emsp;(A) gifted and talented students;
 
@@ -130,13 +130,17 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 The Secretary shall encourage each recipient of a grant or contract under this section to work cooperatively as part of a national network to ensure that the information developed by the grant or contract recipient is readily available to the entire educational community.
 
-(Pub. L. 89–10, title VII, §7134, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1925.)
+(Pub. L. 89–10, title VII, §7134, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1925; amended Pub. L. 110–315, title IX, §941(k)(2)(F)(ii), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(1)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 
 A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730, related to State grant program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6934 of this title.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(A). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 

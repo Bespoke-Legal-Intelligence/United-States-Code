@@ -8,7 +8,7 @@ In this section:
 
 &emsp;The term “eligible partner” means—
 
-&emsp;&emsp;(A) the science, engineering, or mathematics department at an institution of higher education, acting in coordination with a school, department, or program of education at an institution of higher education thatprovides training for teachers and principals; or
+&emsp;&emsp;(A) the science, engineering, or mathematics department at an institution of higher education, acting in coordination with a school, department, or program of education at an institution of higher education that provides training for teachers and principals; or
 
 &emsp;&emsp;(B) a nonprofit entity with expertise in providing professional development for science, technology, engineering, or mathematics teachers.
 
@@ -100,7 +100,7 @@ The Director shall consult and coordinate with the Secretary of Education and th
 
 #### (1) In general
 
-&emsp;The Director shall develop an evaluation and accountability plan for the activities fundedunder this section that measures the impact of the activities.
+&emsp;The Director shall develop an evaluation and accountability plan for the activities funded under this section that measures the impact of the activities.
 
 #### (2) Contents
 

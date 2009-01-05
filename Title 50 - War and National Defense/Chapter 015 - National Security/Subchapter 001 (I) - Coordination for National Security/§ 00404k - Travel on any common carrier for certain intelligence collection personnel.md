@@ -16,7 +16,7 @@ The Director of National Intelligence may only delegate the authority granted by
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(S), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(S), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (b). Pub. L. 108–458, §1072(a)(5), which directed amendment of subsec. (b) by substituting “to the Principal Deputy Director of National Intelligence, or with respect to employees of the Central Intelligence Agency, to the Director of the Central Intelligence Agency” for “to the Deputy Director of Central Intelligence, or with respect to employees of the Central Intelligence Agency, the Director may delegate such authority to the Deputy Director for Operations”, was executed by making the substitution for “to the Deputy Director of Central Intelligence, or with respect to employees of the Central Intelligence Agency the Director may delegate such authority to the Deputy Director for Operations”, to reflect the probable intent of Congress.
 

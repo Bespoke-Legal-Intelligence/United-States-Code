@@ -78,7 +78,7 @@
 
 #### (4) Certain hand-knotted or hand-woven carpets
 
-&emsp;Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) of this section carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20,5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
+&emsp;Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) of this section carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
 
 #### (c) Withdrawal, suspension, or limitation of duty-free treatment; competitive need limitation
 
@@ -154,7 +154,7 @@
 
 &emsp;In making any determination under paragraph (1), the President shall give great weight to—
 
-&emsp;&emsp;(A) the extent to which the beneficiary developing country has assured the UnitedStates that such country will provide equitable and reasonable access to the markets and basic commodity resources of such country, and
+&emsp;&emsp;(A) the extent to which the beneficiary developing country has assured the United States that such country will provide equitable and reasonable access to the markets and basic commodity resources of such country, and
 
 &emsp;&emsp;(B) the extent to which such country provides adequate and effective protection of intellectual property rights.
 
@@ -218,7 +218,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 #### Prior Provisions
 
-A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligiblearticles, prior to the general amendment of this subchapter by Pub. L. 104–188.
+A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
 

@@ -88,9 +88,21 @@
 
 (j) Regulations under this section shall be prescribed in consultation with the Secretary of Defense.
 
-(Added Pub. L. 109–13, div. A, title I, §1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, §501(a), June 15, 2006, 120 Stat. 411.)
+(k)
+
+Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
+
+(2) The process under paragraph (1) may require each member of the uniformed services who is insured under this section to—
+
+&emsp;(A) designate an individual as the member's fiduciary or trustee for purposes of subsection (a); or
+
+&emsp;(B) elect that a court of proper jurisdiction designate an individual as the member's fiduciary or trustee for purposes of subsection (a) in the event that the member becomes medically incapacitated or experiences an extended loss of consciousness.
+
+(Added Pub. L. 109–13, div. A, title I, §1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, §501(a), June 15, 2006, 120 Stat. 411; Pub. L. 110–181, div. A, title XVII, §1711, Jan. 28, 2008, 122 Stat. 495.)
 
 #### Amendments
+
+2008—Subsec. (k). Pub. L. 110–181 added subsec. (k).
 
 2006—Subsec. (a). Pub. L. 109–233, §501(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member who is insured under subparagraph (A)(i), (B), or (C)(i) of section 1967(a)(1) shall automatically be issued a traumatic injury protection rider that will provide for a payment not to exceed $100,000 if the member, while so insured, sustains a traumatic injury that results in a loss described in subsection (b)(1). The maximum amount payable for all injuries resulting from the same traumatic event shall be limited to $100,000. If a member suffers more than 1 such loss as a result of traumatic injury, payment will be made in accordance with the schedule in subsection (d) for the single loss providing the highest payment.”
 

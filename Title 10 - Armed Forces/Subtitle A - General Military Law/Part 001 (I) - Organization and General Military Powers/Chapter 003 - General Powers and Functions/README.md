@@ -5,7 +5,7 @@
 | [121\.](%C2%A7%2000121%20-%20Regulations.md) | Regulations. |
 | [122\.](%C2%A7%2000122%20-%20Official%20registers.md) | Official registers. |
 | [123\.](%C2%A7%2000123%20-%20Authority%20to%20suspend%20officer%20personnel%20laws%20during%20war%20or%20national%20emergency.md) | Authority to suspend officer personnel laws during war or national emergency. |
-| [123a.](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md) | Suspension of end-strength limitations in time of war or national emergency. |
+| [123a.](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20and%20other%20strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md) | Suspension of end-strength and other strength limitations in time of war or national emergency. |
 | [123b.](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md) | Forces stationed abroad: limitation on number. |
 | [124\.](%C2%A7%2000124%20-%20Detection%20and%20monitoring%20of%20aerial%20and%20maritime%20transit%20of%20illegal%20drugs%20Department%20of%20Defense%20to%20be%20lead%20agency.md) | Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency. |
 | [125\.](%C2%A7%2000125%20-%20Functions%2C%20powers%2C%20and%20duties%20transfer%2C%20reassignment%2C%20consolidation%2C%20or%20abolition.md) | Functions, powers, and duties: transfer, reassignment, consolidation, or abolition. |
@@ -13,20 +13,15 @@
 | [127\.](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md) | Emergency and extraordinary expenses. |
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
 | [127b.](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md) | Assistance in combating terrorism: rewards. |
-| 127c.<sup>1</sup> | Allied forces participating in combined operations: authority to provide logistic support, supplies, and services. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 127c.<sup>1</sup> | Purchase of weapons overseas: force protection. |
+| [127c.](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md) | Purchase of weapons overseas: force protection. |
+| [127d.](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md) | Allied forces participating in combined operations: authority to provide logistic support, supplies, and services. |
 | [128\.](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md) | Prohibition of certain civilian personnel management constraints. |
 | [129a.](%C2%A7%2000129a%20-%20General%20personnel%20policy.md) | General personnel policy. |
 | [129b.](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md) | Authority to procure personal services. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
-| [130a.](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md) | Major Department of Defense headquarters activities personnel: limitation. |
+| \[130a. | Repealed.\] |
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
@@ -34,6 +29,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title IV, §416(c)(2), Oct. 14, 2008, 122 Stat. 4430, substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency” in item 123a.
+
+Pub. L. 110–181, div. A, title X, §1063(a)(1)(B), Jan. 28, 2008, 122 Stat. 321, which directed amendment of chapter 3 of title 10 “by revising the table of sections at the beginning of such chapter to reflect the redesignation and transfer made by paragraph (1)”, was executed to reflect the probable intent of Congress by amending the analysis to this chapter to reflect the redesignation and transfer made by section 1063(a)(1)(A) of Pub. L. 110–181, which redesignated the section 127c relating to allied forces participating in combined operations as 127d, and transferred it so as to appear immediately after section 127c relating to purchase of weapons overseas.
+
+Pub. L. 110–181, div. A, title IX, §901(a)(2), Jan. 28, 2008, 122 Stat. 272, struck out item 130a “Major Department of Defense headquarters activities personnel: limitation”.
 
 2006—Pub. L. 109–364, div. A, title XII, §1201(b), title XIV, §1405(b), Oct. 17, 2006, 120 Stat. 2412, 2436, added items 127c, relating to allied forces participating in combined operations, and 130d.
 
@@ -73,8 +74,6 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 
 1958—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
-<i><sup>1</sup></i><i> So in original. Two sections 127c have been enacted.</i>
-
 
 ---
 
@@ -83,7 +82,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00121 - Regulations](%C2%A7%2000121%20-%20Regulations.md)
 - [&sect; 00122 - Official registers](%C2%A7%2000122%20-%20Official%20registers.md)
 - [&sect; 00123 - Authority to suspend officer personnel laws during war or national emergency](%C2%A7%2000123%20-%20Authority%20to%20suspend%20officer%20personnel%20laws%20during%20war%20or%20national%20emergency.md)
-- [&sect; 00123a - Suspension of end-strength limitations in time of war or national emergency](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md)
+- [&sect; 00123a - Suspension of end-strength and other strength limitations in time of war or national emergency](%C2%A7%2000123a%20-%20Suspension%20of%20end-strength%20and%20other%20strength%20limitations%20in%20time%20of%20war%20or%20national%20emergency.md)
 - [&sect; 00123b - Forces stationed abroad limitation on number](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md)
 - [&sect; 00124 - Detection and monitoring of aerial and maritime transit of illegal drugs Department of Defense to be lead agency](%C2%A7%2000124%20-%20Detection%20and%20monitoring%20of%20aerial%20and%20maritime%20transit%20of%20illegal%20drugs%20Department%20of%20Defense%20to%20be%20lead%20agency.md)
 - [&sect; 00125 - Functions, powers, and duties transfer, reassignment, consolidation, or abolition](%C2%A7%2000125%20-%20Functions%2C%20powers%2C%20and%20duties%20transfer%2C%20reassignment%2C%20consolidation%2C%20or%20abolition.md)
@@ -91,15 +90,15 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00127 - Emergency and extraordinary expenses](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md)
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
 - [&sect; 00127b - Assistance in combating terrorism rewards](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md)
-- [&sect; 00127c - 1 Allied forces participating in combined operations authority to provide logistic support, supplies, and services](%C2%A7%2000127c%20-%201%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md)
-- [&sect; 00127c - 1 Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%201%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
+- [&sect; 00127c - Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
+- [&sect; 00127d - Allied forces participating in combined operations authority to provide logistic support, supplies, and services](%C2%A7%2000127d%20-%20Allied%20forces%20participating%20in%20combined%20operations%20authority%20to%20provide%20logistic%20support%2C%20supplies%2C%20and%20services.md)
 - [&sect; 00128 - Physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Prohibition of certain civilian personnel management constraints](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md)
 - [&sect; 00129a - General personnel policy](%C2%A7%2000129a%20-%20General%20personnel%20policy.md)
 - [&sect; 00129b - Authority to procure personal services](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
-- [&sect; 00130a - Major Department of Defense headquarters activities personnel limitation](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md)
+- [&sect; 00130a - Repealed. Pub. L. 110&#8211;181, div. A, title IX, &sect;901(a)(1), Jan. 28, 2008, 122 Stat. 272](%C2%A7%2000130a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20272.md)
 - [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)
 - [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)

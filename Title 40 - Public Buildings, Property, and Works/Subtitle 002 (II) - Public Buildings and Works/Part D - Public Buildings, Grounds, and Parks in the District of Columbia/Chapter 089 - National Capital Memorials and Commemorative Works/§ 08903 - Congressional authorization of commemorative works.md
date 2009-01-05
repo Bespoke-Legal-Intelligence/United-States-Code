@@ -106,9 +106,11 @@ Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 1
 
 Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926.
 
+Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, §331, May 8, 2008, 122 Stat. 781.
+
 Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, §201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, §1, Oct. 25, 2007, 121 Stat. 1022.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335.
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, §332, May 8, 2008, 122 Stat. 782.
 
 Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
 
@@ -124,7 +126,7 @@ Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 10
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 
-Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527.
+Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, §301, Dec. 2, 2008, 122 Stat. 5034.
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 

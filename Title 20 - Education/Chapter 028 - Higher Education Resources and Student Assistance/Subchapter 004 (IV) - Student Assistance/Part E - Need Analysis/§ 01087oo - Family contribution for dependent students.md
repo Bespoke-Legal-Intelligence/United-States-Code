@@ -258,7 +258,15 @@ Parents’ Assessment From Adjusted Available Income (AAI)
 
 &emsp;&emsp;(C) an allowance for social security taxes determined in accordance with paragraph (4);
 
-&emsp;&emsp;(D) an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);
+&emsp;&emsp;(D) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
+
+&emsp;&emsp;&emsp;(i) for academic year 2009–2010, $3,750;
+
+&emsp;&emsp;&emsp;(ii) for academic year 2010–2011, $4,500;
+
+&emsp;&emsp;&emsp;(iii) for academic year 2011–2012, $5,250; and
+
+&emsp;&emsp;&emsp;(iv) for academic year 2012–2013, $6,000;
 
 &emsp;&emsp;(E) the amount of any tax credit taken by the student under section 25A of title 26; and
 
@@ -321,21 +329,9 @@ For periods of enrollment of less than 9 months, the student's contribution from
 
 (Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801.)
 
-#### Amendment of Subsection (g)(2)(D)
-
-<i>Pub. L. 110–84, title VI, §601(a), (e), Sept. 27, 2007, 121 Stat. 801, 804, provided that, effective July 1, 2009, subsection (g)(2)(D) of this section is amended to read as follows:</i>
-
-&emsp;&emsp;<i>“(D) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) for academic year 2009–2010, $3,750;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) for academic year 2010–2011, $4,500;</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) for academic year 2011–2012, $5,250; and</i>
-
-&emsp;&emsp;&emsp;<i>“(iv) for academic year 2012–2013, $6,000;”.</i>
-
 #### Amendments
+
+2007—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);”.
 
 2006—Subsec. (g)(2)(D). Pub. L. 109–171, §8017(a)(1)(A), substituted “$3,000” for “$2,200”.
 

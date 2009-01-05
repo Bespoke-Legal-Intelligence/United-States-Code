@@ -36,7 +36,7 @@ For purposes of this section, the term “Federal financial assistance” means�
 
 For purposes of this section, the term “domestic building and loan association” has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.
 
-(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, titleXIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518.)
 
 #### References in Text
 
@@ -120,7 +120,7 @@ Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by sectio
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 #### Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions
 

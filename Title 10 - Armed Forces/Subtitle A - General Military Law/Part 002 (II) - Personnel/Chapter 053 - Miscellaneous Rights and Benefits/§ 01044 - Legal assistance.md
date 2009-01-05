@@ -12,7 +12,11 @@
 
 &emsp;(5) Dependents of members and former members described in paragraphs (1), (2), (3), and (4).
 
-(b) Under such regulations as may be prescribed by the Secretary concerned, the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary is responsible for the establishment and supervision of legal assistance programs under this section.
+&emsp;(6) Survivors of a deceased member or former member described in paragraphs (1), (2), (3), and (4) who were dependents of the member or former member at the time of the death of the member or former member, except that the eligibility of such survivors shall be determined pursuant to regulations prescribed by the Secretary concerned.
+
+&emsp;(7) Civilian employees of the Federal Government serving in locations where legal assistance from non-military legal assistance providers is not reasonably available, except that the eligibility of civilian employees shall be determined pursuant to regulations prescribed by the Secretary concerned.
+
+(b) Under such regulations as may be prescribed by the Secretary concerned, the JudgeAdvocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary is responsible for the establishment and supervision of legal assistance programs under this section.
 
 (c) This section does not authorize legal counsel to be provided to represent a member or former member of the uniformed services described in subsection (a), or the dependent of such a member or former member, in a legal proceeding if the member or former member can afford legal fees for such representation without undue hardship.
 
@@ -28,9 +32,11 @@
 
 (e) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, §555, Jan. 6, 2006, 119 Stat. 3265.)
+(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, §555, Jan. 6, 2006, 119 Stat. 3265; Pub. L. 110–181, div. A, title V, §541, Jan. 28, 2008, 122 Stat. 114.)
 
 #### Amendments
+
+2008—Subsec. (a)(6), (7). Pub. L. 110–181 added pars. (6) and (7).
 
 2006—Subsecs. (d), (e). Pub. L. 109–163 added subsec. (d) and redesignated former subsec. (d) as (e).
 

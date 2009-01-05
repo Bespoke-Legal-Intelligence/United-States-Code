@@ -1,0 +1,60 @@
+### §229. Annual report
+
+#### (a) In general
+
+Not later than March 1 of each year, the Secretary shall submit to Congress and make publicly available a report that—
+
+&emsp;(1) states, for the preceding year, separately for livestock and poultry and separately by enforcement area category (financial, trade practice, or competitive acts and practices), with respect to investigations into possible violations of this chapter—
+
+&emsp;&emsp;(A) the number of investigations opened;
+
+&emsp;&emsp;(B) the number of investigations that were closed or settled without a referral to the General Counsel of the Department of Agriculture;
+
+&emsp;&emsp;(C) for investigations described in subparagraph (B), the length of time from initiation of the investigation to when the investigation was closed or settled without the filing of an enforcement complaint;
+
+&emsp;&emsp;(D) the number of investigations that resulted in referral to the General Counsel of the Department of Agriculture for further action, the number of such referrals resolved without administrative enforcement action, and the number of enforcement actions filed by the General Counsel;
+
+&emsp;&emsp;(E) for referrals to the General Counsel that resulted in an administrative enforcement action being filed, the length of time from the referral to the filing of the administrative action;
+
+&emsp;&emsp;(F) for referrals to the General Counsel that resulted in an administrative enforcement action being filed, the length of time from filing to resolution of the administrative enforcement action;
+
+&emsp;&emsp;(G) the number of investigations that resulted in referral to the Department of Justice for further action, and the number of civil enforcement actions filed by the Department of Justice on behalf of the Secretary pursuant to such a referral;
+
+&emsp;&emsp;(H) for referrals that resulted in a civil enforcement action being filed by the Department of Justice, the length of time from the referral to the filing of the enforcement action;
+
+&emsp;&emsp;(I) for referrals that resulted in a civil enforcement action being filed by the Department of Justice, the length of time from the filing of the enforcement action to resolution; and
+
+&emsp;&emsp;(J) the average civil penalty imposed in administrative or civil enforcement actions for violations of this chapter, and the total amount of civil penalties imposed in all such enforcement actions; and
+
+&emsp;(2) includes any other additional information the Secretary considers important to include in the annual report.
+
+#### (b) Format of information provided
+
+For subparagraphs (C), (E), (F), and (H) of subsection (a)(1), the Secretary may, if appropriate due to the number of complaints for a given category, provide summary statistics (including range, maximum, minimum, mean, and average times) and graphical representations.
+
+(Aug. 15, 1921, ch. 64, title IV, §416, as added Pub. L. 110–234, title XI, §11004(a)(2), May 22, 2008, 122 Stat. 1355, and Pub. L. 110–246, §4(a), title XI, §11004(a)(2), June 18, 2008, 122 Stat. 1664, 2117.)
+
+#### Repeal of Section
+
+<i>Pub. L. 110–246, title XI, §11004(b), June 18, 2008, 122 Stat. 2118, provided that, effective Sept. 30, 2012, this section is repealed.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections and contained identical future repeals of this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+
+A prior section 416 of act Aug. 15, 1921, was renumbered section 417 and is classified to section 229c of this title.
+
+Another prior section 416 of act Aug. 15, 1921, was classified to section 229a of this title, prior to repeal by Pub. L. 106–78.
+
+#### Effective Date of Repeal
+
+Pub. L. 110–234, title XI, 11004(b), May 22, 2008, 122 Stat. 1356, and Pub. L. 110–246, §4(a), title XI, §11004(b), June 18, 2008, 122 Stat. 1664, 2118, provided that the repeal of this section is effective Sept. 30, 2012.
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+
+#### Effective Date
+
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+

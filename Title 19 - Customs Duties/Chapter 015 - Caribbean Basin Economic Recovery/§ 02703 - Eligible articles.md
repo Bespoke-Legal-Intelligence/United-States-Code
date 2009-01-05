@@ -38,7 +38,7 @@
 
 &emsp;(A) such rum is the growth, product, or manufacture of a beneficiary country or of the Virgin Islands of the United States;
 
-&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands of the United States into the territory of Canada, and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
+&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands of the United States into the territory of Canada,and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
 
 &emsp;(C) when imported into the customs territory of the United States, such liqueurs and spirituous beverages are classified in subheading 2208.90 or 2208.40 of the HTS; and
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) textile and apparel articles which were not eligible articles for purposes of this chapter on January 1, 1994, as this chapter was in effect on that date;
 
-&emsp;&emsp;(B) footwear provided for in any of subheadings 6401.10.00, 6401.91.00, 6401.92.90, 6401.99.30, 6401.99.60, 6401.99.90, 6402.30.50, 6402.30.70, 6402.30.80, 6402.91.50, 6402.91.80,6402.91.90, 6402.99.20, 6402.99.80, 6402.99.90, 6403.59.60, 6403.91.30, 6403.99.60, 6403.99.90, 6404.11.90, and 6404.19.20 of the HTS that was not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
+&emsp;&emsp;(B) footwear provided for in any of subheadings 6401.10.00, 6401.91.00, 6401.92.90, 6401.99.30, 6401.99.60, 6401.99.90, 6402.30.50, 6402.30.70, 6402.30.80, 6402.91.50, 6402.91.80, 6402.91.90, 6402.99.20, 6402.99.80, 6402.99.90, 6403.59.60, 6403.91.30, 6403.99.60, 6403.99.90, 6404.11.90, and 6404.19.20 of the HTS that was not designated at the time of the effective date of this chapter \[Aug. 5, 1983\] as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\];
 
 &emsp;&emsp;(C) tuna, prepared or preserved in any manner, in airtight containers;
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) 850,000,000 square meter equivalents during the 1-year period beginning on October 1, 2003.
 
-&emsp;&emsp;&emsp;&emsp;(cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2008.
+&emsp;&emsp;&emsp;&emsp;(cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2010.
 
 &emsp;&emsp;&emsp;(III) T-shirts, other than underwear, classifiable under subheadings 6109.10.00 and 6109.90.10 of the HTS, made in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, in an amount not exceeding the amount set forth in subclause (IV).
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(cc) 10,000,000 dozen during the 1-year period beginning on October 1, 2003.
 
-&emsp;&emsp;&emsp;&emsp;(dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2008.
+&emsp;&emsp;&emsp;&emsp;(dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2010.
 
 &emsp;&emsp;&emsp;(V) It is the sense of the Congress that the Congress should determine, based on the record of expansion of exports from the United States as a result of the preferential treatment of articles under this clause, the percentage by which the amount provided in subclauses (II) and (IV) should be compounded for the 1-year periods occurring after the 1-year period ending on September 30, 2004.
 
@@ -116,7 +116,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2001, and during each of the 6 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2001, and during each of the 8 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (III) Development of procedure to ensure compliance
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(dd) a period of 60 calendar days, beginning with the first day on which the President has met the requirements of division (cc), has expired; and
 
-&emsp;&emsp;&emsp;&emsp;(ee) the President has consulted with such committees regarding the proposed action during the period referred to in division (cc).
+&emsp;&emsp;&emsp;&emsp;(ee) the President has consulted with such committees regarding the proposedaction during the period referred to in division (cc).
 
 &emsp;&emsp;&emsp;(III) If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under subclause (I) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
 
@@ -148,7 +148,7 @@
 
 #### (I) Exception for findings and trimmings
 
-&emsp;&emsp;&emsp;&emsp;(aa) An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for suchtreatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, “bow buds”, decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products. Elastic strips are considered findings or trimmings only if they are each less than 1 inch in width and are used in the production of brassieres.
+&emsp;&emsp;&emsp;&emsp;(aa) An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, “bow buds”, decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products. Elastic strips are considered findings or trimmings only if they are each less than 1 inch in width and are used in the production of brassieres.
 
 &emsp;&emsp;&emsp;&emsp;(bb) In the case of an article described in clause (ii) of this subparagraph, sewing thread shall not be treated as findings or trimmings under this subclause.
 
@@ -330,7 +330,7 @@
 
 &emsp;&emsp;&emsp;(vii) The extent to which the country—
 
-&emsp;&emsp;&emsp;&emsp;(I) applies transparent, nondiscriminatory, and competitive procedures ingovernment procurement equivalent to those contained in the Agreement on Government Procurement described in section 3511(d)(17) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) applies transparent, nondiscriminatory, and competitive procedures in government procurement equivalent to those contained in the Agreement on Government Procurement described in section 3511(d)(17) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) contributes to efforts in international fora to develop and implement international rules in transparency in government procurement.
 
@@ -356,9 +356,9 @@
 
 &emsp;&emsp;The term “transition period” means, with respect to a CBTPA beneficiary country, the period that begins on October 1, 2000, and ends on the earlier of—
 
-&emsp;&emsp;&emsp;(i) September 30, 2008; or
+&emsp;&emsp;&emsp;(i) September 30, 2010; or
 
-&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in 3317(b)(5) <sup>1</sup> of this title enters into force with respect to the United States and the CBTPA beneficiary country.
+&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 3317(b)(5) of this title enters into force with respect to the United States and the CBTPA beneficiary country.
 
 #### (E) CBTPA
 
@@ -440,13 +440,13 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (2) In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 \[19 U.S.C. 2252(f)\] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of subsections <sup>2</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
+(3) For purposes of subsections <sup>1</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
-(5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>3</sup> of this title is proclaimed shall remain in effect until modified or terminated.
+(5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>2</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
-(B) If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\].
+(B) If any article is subject to any such action at the time duty-free treatment is proclaimedpursuant to section 2701 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\].
 
 #### (f) Petitions to International Trade Commission
 
@@ -454,7 +454,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (2) Within fourteen days after the filing of a petition under paragraph (1) of this subsection—
 
-&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product froma beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
+&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product from a beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
 
 &emsp;(B) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 
@@ -464,7 +464,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 &emsp;(A) upon the taking of action under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\],
 
-&emsp;(B) on the day a determination by the President not to take action <sup>3</sup> under section 203 of such Act \[19 U.S.C. 2253\] not to take action <sup>3</sup> becomes final,
+&emsp;(B) on the day a determination by the President not to take action <sup>1</sup> under section 203 of such Act \[19 U.S.C. 2253\] not to take action <sup>1</sup> becomes final,
 
 &emsp;(C) in the event of a report of the United States International Trade Commission containing a negative finding, on the day the Commission's report is submitted to the President, or
 
@@ -504,7 +504,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
 
-(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, §402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, §5005(a), Dec. 20, 2006, 120 Stat. 3189.)
+(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, titleIII, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, §402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, §5005(a), Dec. 20, 2006, 120 Stat. 3189; Pub. L. 110–234, title XV, §15408, May 22, 2008, 122 Stat. 1546; Pub. L. 110–246, §4(a), title XV, §15408, June 18, 2008, 122 Stat. 1664, 2308.)
 
 #### Amendment of Section
 
@@ -514,7 +514,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 ofthis title, and enacted provisions set out as a note below.
+Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
 
 The Trade Act of 1974, referred to in subsecs. (b)(1)(B), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
@@ -526,11 +526,21 @@ Section 2701 of this title, referred to in subsec. (e)(5)(A), was in the origina
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Amendment of subsec. (b)(2)(A)(i) of this section by Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2), was executed after amendment by Pub. L. 107–206, §3001\[(a)\](1), as if the amendment by Pub. L. 108–429, §2004(b)(2), was included in the enactment of Pub. L. 107–210, §3107(a)(1)(B), and notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
 Amendment of subsec. (b)(2)(A)(ii) of this section by Pub. L. 107–210, §3107(a)(2), was executed after amendment by Pub. L. 107–206, §3001\[(a)\](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (b)(2)(A)(iii). Pub. L. 110–246, §15408(1)(A), substituted “2010” for “2008” in subcls. (II)(cc) and (IV)(dd).
+
+Subsec. (b)(2)(A)(iv)(II). Pub. L. 110–246, §15408(1)(B), substituted “8” for “6”.
+
+Subsec. (b)(5)(D)(i). Pub. L. 110–246, §15408(2)(A), substituted “2010” for “2008”.
+
+Subsec. (b)(5)(D)(ii). Pub. L. 110–246, §15408(2)(B), substituted “set forth in section 3317(b)(5)” for “set forth in 3317(b)(5)”.
 
 2006—Subsec. (b)(2)(A)(v)(III). Pub. L. 109–432 added subcl. (III).
 
@@ -556,7 +566,7 @@ Subsec. (b)(3)(A)(iii). Pub. L. 108–429, §1558(2)(B), added cl. (iii).
 
 Pub. L. 107–210, §3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: “Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—”.
 
-Pub. L. 107–206, §3001\[(a)\](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+Pub. L. 107–206, §3001\[(a)\](1), inserted at end “Apparel articles shall qualify under the preceding sentence onlyif all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
@@ -622,7 +632,7 @@ Subsec. (b)(5). Pub. L. 100–418, §1214(q)(2)(A)(ii), substituted “HTS” fo
 
 Subsec. (c)(1)(A)(i). Pub. L. 100–418, §1214(q)(2)(B)(i), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 100–418, §1214(q)(2)(B)(ii), substituted “chapters 2 and 16 of the Harmonized Tariff Schedule of the United States” for “subpart B of part 2 of schedule 1 of the TSUS”.
+Subsec. (c)(1)(A)(ii). Pub. L. 100–418, §1214(q)(2)(B)(ii), substituted “chapters 2 and 16 of the Harmonized TariffSchedule of the United States” for “subpart B of part 2 of schedule 1 of the TSUS”.
 
 Subsec. (d). Pub. L. 100–418, §1214(q)(2)(C), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
 
@@ -646,7 +656,7 @@ Subsec. (f)(5)(A). Pub. L. 100–418, §1214(q)(2)(D)(i), amended subpar. (A) ge
 
 Subsec. (f)(5)(B). Pub. L. 100–418, §1214(q)(2)(D)(ii), substituted “headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS” for “items 135.10 through 138.46 of the TSUS”.
 
-Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00,tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
+Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
 
 Pub. L. 100–418, §1214(q)(2)(D)(iii), struck out subpar. (C) “fresh mushrooms provided for in item 144.10 of the TSUS;”.
 
@@ -663,6 +673,12 @@ Subsec. (a)(3), (4). Pub. L. 99–514, §1890(1), redesignated par. (3) relating
 Subsec. (f)(5)(B). Pub. L. 99–514, §1890(2), substituted “138.46” for “138.42”.
 
 1984—Subsec. (a)(3). Pub. L. 98–573 added par. (3) relating to products of a beneficiary country imported directly from such country into Puerto Rico.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 15408 of Pub. L. 110–246 effective June 18, 2008, see section 15412(a) of Pub. L. 110–246, set out as a note under section 2703a of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -736,7 +752,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Entries of Certain Apparel Articles Pursuant to the Caribbean Basin Economic Recovery Act
 
@@ -886,7 +902,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Duty-Free Treatment of Imported Rum; Compensation Measures; Presidential Authority; Report to Congress
 
-Section 214(c) of Pub. L. 98–67, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes.”
+Section 214(c) of Pub. L. 98–67, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 7652(c)\] is reduced below theamount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title \[this chapter\]. The President shall submit a report to the Congress on the measures he takes.”
 
 #### Proc. No. 7351. To Implement the United States-Caribbean Basin Trade Partnership Act
 
@@ -914,21 +930,19 @@ Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1)
 
 Sec. 6. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(aa) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(aa)), as added by section 211(a) of the CBTPA, to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the USTR are jointly authorized to exercise the authority vested in the President under sections 213(b)(2)(A)(v)(II)(bb), (cc), and (ee) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(bb), (cc), and (ee)), as added by section 211(a) of the CBTPA, to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(bb) of the CBERA to obtain advice from the USITC.
 
-Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 8. <i>Handloomed, Handmade, and Folklore Articles</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(C) of the CBERA (19 U.S.C. 2703(b)(2)(C)), as added by section 211(a) of the CBTPA, to consult with representatives of CBTPA beneficiary countries for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, hand made, or folklore goods within the meaning of that section. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 9. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(D) of the CBERA (19 U.S.C. 2703(b)(2)(D)), as added by section 211(a) of the CBTPA, to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and, if transshipment has occurred, to deny all benefits under the CBTPA to any such exporter, and any successor of such exporter, for a period of 2 years; to request that any CBTPA beneficiary country through whose territory transshipment has occurred take all necessary and appropriate actions to prevent such transshipment; and to impose the penalty provided in section 213(b)(2)(D)(ii) of the CBERA on a CBTPA beneficiary country if the Committee determines that such country is not taking such actions. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 10. <i>Bilateral Emergency Tariff Actions</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(E) of the CBERA (19 U.S.C. 2703(b)(2)(E)), as added by section 211(a) of the CBTPA, to take bilateral emergency tariff actions, if the Committee determines that the conditions provided in section 213(b)(2)(E) of the CBERA are satisfied. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committeeunder this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such bilateral emergency tariff action as directed by the Committee.
+Sec. 10. <i>Bilateral Emergency Tariff Actions</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(E) of the CBERA (19 U.S.C. 2703(b)(2)(E)), as added by section 211(a) of the CBTPA, to take bilateral emergency tariff actions, if the Committee determines that the conditions provided in section 213(b)(2)(E) of the CBERA are satisfied. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such bilateral emergency tariff action as directed by the Committee.
 
 #### Part III—General Provisions
 
 Sec. 11. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

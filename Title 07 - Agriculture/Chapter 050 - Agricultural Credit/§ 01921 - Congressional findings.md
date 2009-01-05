@@ -18,7 +18,7 @@ Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare\] may be cited as the ‘Delta Regional Authority Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title V, §501\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title \[enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title42, The Public Health and Welfare\] may be cited as the ‘Delta Regional Authority Act of 2000’.”
 
 #### Short Title of 1994 Amendment
 
@@ -80,5 +80,5 @@ Section 341 of Pub. L. 87–128 provided that:
 
 &emsp;“(2) prejudice the application of any person with respect to receiving assistance under the provisions of this title \[this chapter\], solely because such person is obligated to the Secretary under authorization contained in any such repealed provision.
 
-“(c) If any provision of this title \[this chapter\] or the application thereof to any person or circumstances is held invalid, the remainder of the title \[this chapter\] and the application of such provision to other persons or circumstances shall not be affected thereby.”
+“(c) If any provision of this title \[this chapter\] or the application thereof to any person or circumstances isheld invalid, the remainder of the title \[this chapter\] and the application of such provision to other persons or circumstances shall not be affected thereby.”
 

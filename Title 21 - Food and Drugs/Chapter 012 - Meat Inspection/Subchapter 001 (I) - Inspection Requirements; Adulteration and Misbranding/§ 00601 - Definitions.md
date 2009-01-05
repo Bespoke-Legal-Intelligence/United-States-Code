@@ -32,7 +32,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live animal or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
 
-&emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafewithin the meaning of section 346a of this title,
+&emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title,
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title,
 
@@ -76,7 +76,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(11) if it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact: <i>Provided</i>, That, to the extent that compliance with the requirements of this subparagraph (11) is impracticable, exemptions shall be established by regulations promulgated by the Secretary; or
 
-&emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require insuch regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
+&emsp;(12) if it fails to bear, directly thereon or on its container, as the Secretary may by regulations prescribe, the inspection legend and, unrestricted by any of the foregoing, such other information as the Secretary may require in such regulations to assure that it will not have false or misleading labeling and that the public will be informed of the manner of handling required to maintain the article in a wholesome condition.
 
 (<i>o</i>) The term “label” means a display of written, printed, or graphic matter upon the immediate container (not including package liners) of any article.
 
@@ -96,17 +96,25 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (w) The term “amenable species” means—
 
-&emsp;(1) those species subject to the provisions of this chapter on the day before November 10, 2005; and
+&emsp;(1) those species subject to the provisions of this chapter on the day before November 10, 2005;
 
-&emsp;(2) any additional species of livestock that the Secretary considers appropriate.
+&emsp;(2) catfish, as defined by the Secretary; and
 
-(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166.)
+&emsp;(3) any additional species of livestock that the Secretary considers appropriate.
+
+(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, §11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, §4(a), title XI, §11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130.)
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (w)(2), (3). Pub. L. 110–246, §11016(b)(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 2005—Par. (w). Pub. L. 109–97 added par. (w).
 
@@ -115,6 +123,14 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is a
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (n)(10) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XI, §11016(b)(2)(A), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, §4(a), title XI, §11016(b)(2)(A), June 18, 2008, 122 Stat. 1664, 2131, provided that: “The amendments made by paragraph (1) \[enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title\] shall not apply until the date on which the Secretary of Agriculture issues final regulations (after providing a period of public comment, including through the conduct of public meetings or hearings, in accordance with chapter 5 of title 5, United States Code) to carry out such amendments.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2005 Amendment
 
@@ -144,9 +160,15 @@ Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act 
 
 Section 1 of Pub. L. 90–201 provided in part: “That this Act \[enacting this section and sections 602, 624, 641 to 645, 661, 671 to 680, and 691 of this title, amending sections 603 to 623 of this title, repealing section 96 of this title and section 1306(b) of Title 19, Customs Duties, and enacting provisions set out as notes under this section\] may be cited as the ‘Wholesome Meat Act’.”
 
-Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV of this chapter, are designated as the “Federal Meat Inspection Act”.
+Section 1 of Pub. L. 90–201 provided in part that the provisions of act Mar. 4, 1907, as amended, classified to subchapters I to IV–A of this chapter, are designated as the “Federal Meat Inspection Act”.
+
+#### Regulations
+
+Pub. L. 110–234, title XI, §11016(b)(2)(B), May 22, 2008, 122 Stat. 1370, and Pub. L. 110–246, §4(a), title XI, §11016(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2131, provided that: “Not later than 18 months after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture, in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) \[enacting sections 606 and 625 of this title, amending this section, and repealing former section 606 of this title\].”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Separability
 
-Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereofto any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Section 19 of Pub. L. 90–201 provided that: “If any provision of this Act or of the amendments made hereby \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments \[see Short Title note above\] and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 

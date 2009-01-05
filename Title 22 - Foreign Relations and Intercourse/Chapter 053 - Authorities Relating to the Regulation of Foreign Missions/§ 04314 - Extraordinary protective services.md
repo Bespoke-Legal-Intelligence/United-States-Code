@@ -32,7 +32,7 @@ Contracts may be entered into in carrying out this section only to such extent o
 
 Amounts used to carry out this section shall not be subject to section 4308(h) of this title.
 
-(Aug. 1, 1956, ch. 841, title II, §214, as added Pub. L. 99–93, title I, §126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397; Pub. L. 109–177, title VI, §605(d)(3), (e)(2)(C), Mar. 9, 2006, 120 Stat. 255.)
+(Aug. 1, 1956, ch. 841, title II, §214, as added Pub. L. 99–93, title I, §126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, §139(2), Apr. 30,1994, 108 Stat. 397; Pub. L. 109–177, title VI, §605(d)(3), (e)(2)(C), Mar. 9, 2006, 120 Stat. 255.)
 
 #### Amendments
 

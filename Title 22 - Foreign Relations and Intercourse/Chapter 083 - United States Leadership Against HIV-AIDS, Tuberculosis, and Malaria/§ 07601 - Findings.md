@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3)(A) At the end of 2002, an estimated 42,000,000 individuals were infected with HIV or living with AIDS, of which more than 75 percent live in Africa or the Caribbean. Of these individuals, more than 3,200,000 were children under the age of 15 and more than 19,200,000 were women.
 
-&emsp;(B) Women are four times more vulnerable to infection than are men and are becoming infected at increasingly high rates, in part because many societies do not provide poor women and young girls with the social, legal, and cultural protections against high risk activities that expose them to HIV/AIDS.
+&emsp;(B) Women are four times more vulnerable to infection than are men and are becoming infected at increasingly high rates, in part because many societies do not provide poorwomen and young girls with the social, legal, and cultural protections against high risk activities that expose them to HIV/AIDS.
 
 &emsp;(C) Women and children who are refugees or are internally displaced persons are especially vulnerable to sexual exploitation and violence, thereby increasing the possibility of HIV infection.
 
@@ -38,11 +38,11 @@ Congress makes the following findings:
 
 &emsp;(13) Tuberculosis is the cause of death for one out of every three people with AIDS worldwide and is a highly communicable disease. HIV infection is the leading threat to tuberculosis control. Because HIV infection so severely weakens the immune system, individuals with HIV and latent tuberculosis infection have a 100 times greater risk of developing active tuberculosis diseases thereby increasing the risk of spreading tuberculosis to others. Tuberculosis, in turn, accelerates the onset of AIDS in individuals infected with HIV.
 
-&emsp;(14) Malaria, the most deadly of all tropical parasitic diseases, has been undergoing a dramatic resurgence in recent years due to increasing resistance of the malaria parasite to inexpensive and effective drugs. At the same time, increasing resistance of mosquitoes to standard insecticides makes control of transmission difficult to achieve. The World Health Organization estimates that between 300,000,000 and 500,000,000 new cases of malariaoccur each year, and annual deaths from the disease number between 2,000,000 and 3,000,000. Persons infected with HIV are particularly vulnerable to the malaria parasite. The spread of HIV infection contributes to the difficulties of controlling resurgence of the drug resistant malaria parasite.
+&emsp;(14) Malaria, the most deadly of all tropical parasitic diseases, has been undergoing a dramatic resurgence in recent years due to increasing resistance of the malaria parasite to inexpensive and effective drugs. At the same time, increasing resistance of mosquitoes to standard insecticides makes control of transmission difficult to achieve. The World Health Organization estimates that between 300,000,000 and 500,000,000 new cases of malaria occur each year, and annual deaths from the disease number between 2,000,000 and 3,000,000. Persons infected with HIV are particularly vulnerable to the malaria parasite. The spread of HIV infection contributes to the difficulties of controlling resurgence of the drug resistant malaria parasite.
 
 &emsp;(15) HIV/AIDS is first and foremost a health problem. Successful strategies to stem the spread of the HIV/AIDS pandemic will require clinical medical interventions, the strengthening of health care delivery systems and infrastructure, and determined national leadership and increased budgetary allocations for the health sector in countries affected by the epidemic as well as measures to address the social and behavioral causes of the problem and its impact on families, communities, and societal sectors.
 
-&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
+&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from apilot program basis to a national basis in a coherent and sustainable manner.
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
@@ -94,7 +94,91 @@ Congress makes the following findings:
 
 &emsp;(28) Finally, the President stated that “\[w\]e have confronted, and will continue to confront, HIV/AIDS in our own country”, proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress “to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean”.
 
-(Pub. L. 108–25, §2, May 27, 2003, 117 Stat. 712.)
+&emsp;(29) On May 27, 2003, the President signed this chapter into law, launching the largest international public health program of its kind ever created.
+
+&emsp;(30) Between 2003 and 2008, the United States, through the President's Emergency Plan for AIDS Relief (PEPFAR) and in conjunction with other bilateral programs and the multilateral Global Fund has helped to—
+
+&emsp;&emsp;(A) provide antiretroviral therapy for over 1,900,000 people;
+
+&emsp;&emsp;(B) ensure that over 150,000 infants, most of whom would have likely been infected with HIV during pregnancy or childbirth, were not infected; and
+
+&emsp;&emsp;(C) provide palliative care and HIV prevention assistance to millions of other people.
+
+&emsp;(31) While United States leadership in the battles against HIV/AIDS, tuberculosis, and malaria has had an enormous impact, these diseases continue to take a terrible toll on the human race.
+
+&emsp;(32) According to the 2007 AIDS Epidemic Update of the Joint United Nations Programme on HIV/AIDS (UNAIDS)—
+
+&emsp;&emsp;(A) an estimated 2,100,000 people died of AIDS-related causes in 2007; and
+
+&emsp;&emsp;(B) an estimated 2,500,000 people were newly infected with HIV during that year.
+
+&emsp;(33) According to the World Health Organization, malaria kills more than 1,000,000 people per year, 70 percent of whom are children under 5 years of age.
+
+&emsp;(34) According to the World Health Organization, 1/3 of the world's population is infected with the tuberculosis bacterium, and tuberculosis is 1 of the greatest infectious causes of death of adults worldwide, killing 1,600,000 people per year.
+
+&emsp;(35) Efforts to promote abstinence, fidelity, the correct and consistent use of condoms, the delay of sexual debut, and the reduction of concurrent sexual partners represent important elements of strategies to prevent the transmission of HIV/AIDS.
+
+&emsp;(36) According to UNAIDS—
+
+&emsp;&emsp;(A) women and girls make up nearly 60 percent of persons in sub-Saharan Africa who are HIV positive;
+
+&emsp;&emsp;(B) women and girls are more biologically, economically, and socially vulnerable to HIV infection; and
+
+&emsp;&emsp;(C) gender issues are critical components in the effort to prevent HIV/AIDS and to care for those affected by the disease.
+
+&emsp;(37) Children who have lost a parent to HIV/AIDS, who are otherwise directly affected by the disease, or who live in areas of high HIV prevalence may be vulnerable to the disease or its socioeconomic effects.
+
+&emsp;(38) Lack of health capacity, including insufficient personnel and inadequate infrastructure, in sub-Saharan Africa and other regions of the world is a critical barrier that limits the effectiveness of efforts to combat HIV/AIDS, tuberculosis, and malaria, and to achieve other global health goals.
+
+&emsp;(39) On March 30, 2007, the Institute of Medicine of the National Academies released a report entitled “PEPFAR Implementation: Progress and Promise”, which found that budget allocations setting percentage levelsfor spending on prevention, care, and treatment and for certain subsets of activities within the prevention category—
+
+&emsp;&emsp;(A) have “adversely affected implementation of the U.S. Global AIDS Initiative”;
+
+&emsp;&emsp;(B) have inhibited comprehensive, integrated, evidence based approaches;
+
+&emsp;&emsp;(C) “have been counterproductive”;
+
+&emsp;&emsp;(D) “may have been helpful initially in ensuring a balance of attention to activities within the 4 categories of prevention, treatment, care, and orphans and vulnerable children”;
+
+&emsp;&emsp;(E) “have also limited PEPFAR's ability to tailor its activities in each country to the local epidemic and to coordinate with the level of activities in the countries’ national plans”; and
+
+&emsp;&emsp;(F) should be removed by Congress and replaced with more appropriate mechanisms that—
+
+&emsp;&emsp;&emsp;(i) “ensure accountability for results from Country Teams to the U.S. Global AIDS Coordinator and to Congress”; and
+
+&emsp;&emsp;&emsp;(ii) “ensure that spending is directly linked to and commensurate with necessary efforts to achieve both country and overall performance targets for prevention, treatment, care, and orphans and vulnerable children”.
+
+&emsp;(40) The United States Government has endorsed the principles of harmonization in coordinating efforts to combat HIV/AIDS commonly referred to as the “Three Ones”, which includes—
+
+&emsp;&emsp;(A) 1 agreed HIV/AIDS action framework that provides the basis for coordination of the work of all partners;
+
+&emsp;&emsp;(B) 1 national HIV/AIDS coordinating authority, with a broadbased multisectoral mandate; and
+
+&emsp;&emsp;(C) 1 agreed HIV/AIDS country-level monitoring and evaluating system.
+
+&emsp;(41) In the Abuja Declaration on HIV/AIDS, Tuberculosis and Other Related Infectious Diseases, of April 26–27, 2001 (referred to in this chapter as the “Abuja Declaration”), the Heads of State and Government of the Organization of African Unity (OAU)—
+
+&emsp;&emsp;(A) declared that they would “place the fight against HIV/AIDS at the forefront and as the highest priority issue in our respective national development plans”;
+
+&emsp;&emsp;(B) committed “TO TAKE PERSONAL RESPONSIBILITY AND PROVIDE LEADERSHIP for the activities of the National AIDS Commissions/Councils”;
+
+&emsp;&emsp;(C) resolved “to lead from the front the battle against HIV/AIDS, Tuberculosis and Other Related Infectious Diseases by personally ensuring that such bodies were properly convened in mobilizing our societies as a whole and providing focus for unified national policymaking and programme implementation, ensuring coordination of all sectors at all levels with a gender perspective and respect for human rights, particularly to ensure equal rights for people living with HIV/AIDS”; and
+
+&emsp;&emsp;(D) pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
+
+(Pub. L. 108–25, §2, May 27, 2003, 117 Stat. 712; Pub. L. 110–293, §2, July 30, 2008, 122 Stat. 2919.)
+
+#### References in Text
+
+This chapter, referred to in pars. (29) and (41), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+2008—Pars. (29) to (41). Pub. L. 110–293 added pars. (29) to (41).
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–293, §1(a), July 30, 2008, 122 Stat. 2918, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008’.”
 
 #### Short Title
 

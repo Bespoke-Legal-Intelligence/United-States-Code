@@ -16,7 +16,7 @@ The Congress makes the following findings:
 
 &emsp;(7) However, Castro's intransigence increases the likelihood that there could be a collapse of the Cuban economy, social upheaval, or widespread suffering. The recently concluded Cuban Communist Party Congress has underscored Castro's unwillingness to respond positively to increasing pressures for reform either from within the party or without.
 
-&emsp;(8) The United States cooperated with its European and other allies to assist the difficult transitions from Communist regimes in Eastern Europe. Therefore, it is appropriate for those allies to cooperate with United States policy to promote a peaceful transition in Cuba.
+&emsp;(8) The United States cooperated with its European and other allies to assist the difficult transitions from Communist regimes inEastern Europe. Therefore, it is appropriate for those allies to cooperate with United States policy to promote a peaceful transition in Cuba.
 
 (Pub. L. 102–484, div. A, title XVII, §1702, Oct. 23, 1992, 106 Stat. 2575.)
 

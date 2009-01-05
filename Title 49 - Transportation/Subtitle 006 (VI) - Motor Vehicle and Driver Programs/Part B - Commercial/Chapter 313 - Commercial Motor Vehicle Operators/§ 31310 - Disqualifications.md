@@ -18,7 +18,7 @@ First Violation or Committing Felony.—(1) Except as provided in paragraph (2) 
 
 &emsp;(E) convicted of causing a fatality through negligent or criminal operation of a commercial motor vehicle.
 
-(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to beplacarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
+(2) If the vehicle involved in a violation referred to in paragraph (1) of this subsection is transporting hazardous material required to be placarded under section 5103 of this title, the Secretary shall disqualify the individual for at least 3 years.
 
 (c)
 
@@ -58,7 +58,7 @@ Limited duration.—The Secretary shall disqualify an individual from operating 
 
 &emsp;(2)
 
-After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, afternotice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
 
 (g)
 
@@ -88,7 +88,7 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (2) The Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
-&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violationof an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
+&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
 
 &emsp;(B) an operator of a commercial motor vehicle found to have committed a 2d violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 2 years and not more than 5 years and liable for a civil penalty of at least $5,000;
 

@@ -8,7 +8,7 @@ The Secretary may make grants under this section to an institute established by 
 
 &emsp;(2) develop data processing and retrieval methods for electric and gas utility ratemaking, and
 
-&emsp;(3) perform other functions directly related to assisting State regulatory authorities incarrying out their functions under State law and this Act.
+&emsp;(3) perform other functions directly related to assisting State regulatory authorities in carrying out their functions under State law and this Act.
 
 #### (b) Federal share
 

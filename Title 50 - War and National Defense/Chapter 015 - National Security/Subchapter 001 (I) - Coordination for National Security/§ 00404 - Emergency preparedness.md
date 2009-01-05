@@ -36,9 +36,9 @@ In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” sub
 
 #### Amendments
 
-1954—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board, and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
+<b>1954</b>—Act Sept. 3, 1954, struck out subsec. (a) relating to establishment of National Security Resources Board, and redesignated subsecs. (b) to (d) as subsecs. (a) to (c), respectively.
 
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Repeals
 
@@ -82,7 +82,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### NATIONAL SECURITY RESOURCES BOARD
 
-I74Section 1. Functions of Chairman and of Board
+#### Section 1. Functions of Chairman and of Board
 
 The functions of the National Security Resources Board are hereby transferred to the Chairman of the National Security Resources Board, and the Board shall hereafter advise and consult with the Chairman with respect to such matters within his jurisdiction as he may request.
 
@@ -136,7 +136,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### OFFICE OF DEFENSE MOBILIZATION
 
-I74Section 1. Establishment of Office
+#### Section 1. Establishment of Office
 
 (a) There is hereby established in the Executive Office of the President a new agency which shall be known as the Office of Defense Mobilization, hereinafter referred to as the “Office.”
 

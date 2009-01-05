@@ -2,7 +2,7 @@
 
 #### (a) Projects
 
-The Secretary shall address priority substance abuse treatment needs of regional and nationalsignificance (as determined under subsection (b) of this section) through the provision of or through assistance for—
+The Secretary shall address priority substance abuse treatment needs of regional and national significance (as determined under subsection (b) of this section) through the provision of or through assistance for—
 
 &emsp;(1) knowledge development and application projects for treatment and rehabilitation and the conduct or support of evaluations of such projects;
 
@@ -38,7 +38,7 @@ The Secretary shall address priority substance abuse treatment needs of regional
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract, or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by theentity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 

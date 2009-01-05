@@ -14,7 +14,7 @@ The Congress finds that—
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–160, §1, Dec. 6, 2003, 117 Stat. 2013, provided that: “This Act \[amending section 5609 of this title\]may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
+Pub. L. 108–160, §1, Dec. 6, 2003, 117 Stat. 2013, provided that: “This Act \[amending section 5609 of this title\] may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
 
 #### Short Title of 1998 Amendment
 

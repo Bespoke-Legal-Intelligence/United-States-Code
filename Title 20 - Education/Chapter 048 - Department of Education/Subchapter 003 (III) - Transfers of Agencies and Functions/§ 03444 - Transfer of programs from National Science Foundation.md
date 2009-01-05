@@ -28,7 +28,7 @@ The annual report to be transmitted by the Secretary pursuant to section 3486 of
 
 Nothing in this section is intended to repeal or limit the authority of the National Science Foundation or the Director of the National Science Foundation to initiate and conduct programs under the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\].
 
-(Pub. L. 96–88, title III, §303, formerly §304, Oct. 17, 1979, 93 Stat. 680; renumbered §303, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title III, §303, formerly §304, Oct. 17, 1979, 93 Stat. 680; renumbered §303, Pub. L.103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
 #### References in Text
 

@@ -78,7 +78,7 @@ Savings Provisions for Required Separation Age.—A reserve officer of the Navy 
 
 “(b)
 
-Savings Provisions for Mandatory Separation for Age.—An officer who was initially appointed in the Naval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
+Savings Provisions for Mandatory Separation for Age.—An officer who was initially appointed in theNaval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
 
 “(c) An officer who was initially appointed in the Naval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before the effective date of this title, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 60 years of age, but can complete this service by the time he becomes 62 years of age, may be retained in an active status not later than the date he becomes 62 years of age.”
 

@@ -10,7 +10,7 @@ Second tract: Beginning at a sweet gum on the eastern edge of Moores Creek, runn
 
 Third tract: Beginning at a cypress on the edge of the run of Moores Creek about twenty feet from the west end of the old entrenchments and running thence in a line parallel to and ten feet distance from the outside or east edge of the old line of entrenchments in all the various courses of the same to a stake ten feet distant on the east side of the north end of said entrenchments; thence a direct line to the run of said Moores Creek; thence down said creek to the beginning, containing two acres, be the same more or less (the intention is to include all lands now known and designated as Moores Creek battlefield and now so recognized as such and owned by the State of North Carolina), together with all the privileges and appurtenances thereunto belonging.
 
-The aforesaid tracts of land containing in the aggregate thirty acres, more or less, and being the property of the State of North Carolina, and the area thus inclosed shall be known as the Moores Creek National Battlefield.
+The aforesaid tracts of land containing in the aggregate thirty acres, more or less, and beingthe property of the State of North Carolina, and the area thus inclosed shall be known as the Moores Creek National Battlefield.
 
 (June 2, 1926, ch. 448, §1, 44 Stat. 684; Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136.)
 

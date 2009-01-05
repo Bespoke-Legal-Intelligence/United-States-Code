@@ -1,0 +1,20 @@
+### §3315. Licensure and certification tests
+
+(a)
+
+In General.—An individual entitled to educational assistance under this chapter shall also be entitled to payment for one licensing or certification test described in section 3452(b).
+
+(b)
+
+Limitation on Amount.—The amount payable under subsection (a) for a licensing or certification test may not exceed the lesser of—
+
+&emsp;(1) $2,000; or
+
+&emsp;(2) the fee charged for the test.
+
+(c)
+
+No Charge Against Entitlement.—Any amount paid an individual under subsection (a) is in addition to any other educational assistance benefits provided the individual under this chapter.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367.)
+

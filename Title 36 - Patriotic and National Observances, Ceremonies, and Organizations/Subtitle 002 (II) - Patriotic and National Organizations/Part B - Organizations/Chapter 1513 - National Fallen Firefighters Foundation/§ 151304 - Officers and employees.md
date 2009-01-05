@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—The board of directors may appoint officers or employees, but only after thecorporation has sufficient funds to pay for their services.
+Appointment.—The board of directors may appoint officers or employees, but only after the corporation has sufficient funds to pay for their services.
 
 (b)
 

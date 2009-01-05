@@ -58,11 +58,17 @@ Nothing in this chapter (except sections 3415 and 3420 of this title) shall appl
 
 This chapter shall not apply when financial records are sought by the Government Accountability Office pursuant to an authorized proceeding, investigation, examination or audit directed at a government authority.
 
-#### (k) Disclosure necessary for proper administration of programs of withholding taxes on nonresident aliens, Federal Old-Age, Survivors, and Disability Insurance Benefits, and Railroad Retirement Act Benefits
+#### (k) Disclosure necessary for proper administration of programs of certain Government authorities
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board, where the disclosure of such information is necessary to, and such information is used solely for the purpose of, the proper administration of section 1441 of title 26, title II of the Social Security Act \[42 U.S.C. 401 et seq.\], or the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\].
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.
+(2) Nothing in this chapter shall apply to the disclosure by the financial institution of information contained in the financial records of any customer to any Government authority that certifies, disburses, or collects payments, where the disclosure of such information is necessary to, and such information is used solely for the purpose of—
+
+&emsp;(A) verification of the identity of any person or proper routing and delivery of funds in connection with the issuance of a Federal payment or collection of funds by a Government authority; or
+
+&emsp;(B) the investigation or recovery of an improper Federal payment or collection of funds or an improperly negotiated Treasury check.
+
+(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing information contained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
 
 #### (<i>l</i>) Crimes against financial institutions by insiders
 
@@ -84,7 +90,7 @@ This chapter shall not apply to the examination by or disclosure to the Resoluti
 
 #### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks
 
-This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Board or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Board's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
+This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
 
 #### (p) Access to information necessary for administration of certain veteran benefits laws
 
@@ -96,7 +102,7 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792.)
 
 #### References in Text
 
@@ -112,7 +118,15 @@ The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch
 
 The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (k). Pub. L. 110–246, §14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
+
+Subsec. (<i>o</i>). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency's” for “Federal Housing Finance Board's”.
 
 2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -139,6 +153,10 @@ Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have auth
 Subsec. (k)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1983—Subsec. (k). Pub. L. 98–21 added subsec. (k).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1998 Amendment
 

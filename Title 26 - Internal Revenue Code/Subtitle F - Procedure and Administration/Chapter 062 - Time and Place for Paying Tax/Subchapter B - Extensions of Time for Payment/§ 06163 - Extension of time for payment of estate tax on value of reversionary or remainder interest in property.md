@@ -2,7 +2,7 @@
 
 #### (a) Extension permitted
 
-If the value of a reversionary or remainder interest in property is included under chapter 11 inthe value of the gross estate, the payment of the part of the tax under chapter 11 attributable to such interest may, at the election of the executor, be postponed until 6 months after the termination of the precedent interest or interests in the property, under such regulations as the Secretary may prescribe.
+If the value of a reversionary or remainder interest in property is included under chapter 11 in the value of the gross estate, the payment of the part of the tax under chapter 11 attributable to such interest may, at the election of the executor, be postponed until 6 months after the termination of the precedent interest or interests in the property, under such regulations as the Secretary may prescribe.
 
 #### (b) Extension for reasonable cause
 

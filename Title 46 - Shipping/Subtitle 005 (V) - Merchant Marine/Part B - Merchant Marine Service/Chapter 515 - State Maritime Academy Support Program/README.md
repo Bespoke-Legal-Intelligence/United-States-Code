@@ -12,9 +12,13 @@
 | [51508\.](%C2%A7%2051508%20-%20Allowances%20for%20students.md) | Allowances for students. |
 | [51509\.](%C2%A7%2051509%20-%20Student%20incentive%20payment%20agreements.md) | Student incentive payment agreements. |
 | [51510\.](%C2%A7%2051510%20-%20Deferment%20of%20service%20obligation%20under%20student%20incentive%20payment%20agreements.md) | Deferment of service obligation under student incentive payment agreements. |
-| [51511\.](%C2%A7%2051511%20-%20Midshipman%20status%20in%20the%20Naval%20Reserve.md) | Midshipman status in the Naval Reserve. |
+| [51511\.](%C2%A7%2051511%20-%20Midshipman%20status%20in%20the%20Navy%20Reserve.md) | Midshipman status in the Navy Reserve. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2008—Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 598, substituted “Navy Reserve” for “Naval Reserve” in item 51511.
 
 
 ---
@@ -31,4 +35,4 @@
 - [&sect; 51508 - Allowances for students](%C2%A7%2051508%20-%20Allowances%20for%20students.md)
 - [&sect; 51509 - Student incentive payment agreements](%C2%A7%2051509%20-%20Student%20incentive%20payment%20agreements.md)
 - [&sect; 51510 - Deferment of service obligation under student incentive payment agreements](%C2%A7%2051510%20-%20Deferment%20of%20service%20obligation%20under%20student%20incentive%20payment%20agreements.md)
-- [&sect; 51511 - Midshipman status in the Naval Reserve](%C2%A7%2051511%20-%20Midshipman%20status%20in%20the%20Naval%20Reserve.md)
+- [&sect; 51511 - Midshipman status in the Navy Reserve](%C2%A7%2051511%20-%20Midshipman%20status%20in%20the%20Navy%20Reserve.md)

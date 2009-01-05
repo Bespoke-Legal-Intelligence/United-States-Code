@@ -19,9 +19,7 @@
 
 1964—Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 63, substituted “CERTAIN STOCK OPTIONS” for “MISCELLANEOUS PROVISIONS” in part II heading, and “General rules” for “Employee stock options” in item 421, and added items 422–425.
 
-<i><sup>1</sup></i><i> So in original. The word “such” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “416(i)(1))”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “416(i)(1))”.</i>
 
 
 ---

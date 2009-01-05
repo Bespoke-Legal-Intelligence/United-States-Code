@@ -118,7 +118,7 @@ Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as an Effective and Termination Dates of 2001 Amendment note under section 26 of this title.
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) ofPub. L. 107–16, set out as a note under section 72 of this title.
 
 #### Effective Date of 1997 Amendment
 

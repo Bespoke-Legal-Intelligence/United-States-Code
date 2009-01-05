@@ -72,7 +72,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(C) develop environmentally sustainable renewable energy and energy efficiency projects in foreign countries;
 
-&emsp;&emsp;(D) provide technical assistance and training materials to loan officers of the World Bank, international lending institutions, commercial and energy attaches at embassies of the United States and other appropriate personnel in order to provide information about renewable energy and energy efficiency products and services to foreign governments or other potential project sponsors;
+&emsp;&emsp;(D) provide technical assistance and training materials to loan officers of the WorldBank, international lending institutions, commercial and energy attaches at embassies of the United States and other appropriate personnel in order to provide information about renewable energy and energy efficiency products and services to foreign governments or other potential project sponsors;
 
 &emsp;&emsp;(E) support, through financial incentives, private sector efforts to commercialize and export renewable energy and energy efficiency products and services; and
 
@@ -124,7 +124,7 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 “(1) There shall be established an interagency working group which, in consultation with the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting commerce in renewable energy products and related services. The Secretary of Energy shall be the chairman of such group. The heads of appropriate agencies may detail such personnel and may furnish such services to such working group, with or without reimbursement, as may be necessary to carry out its functions.
 
-“(2) The interagency group shall establish a program to inform other countries of the benefits of policies that would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
+“(2) The interagency group shall establish a program to inform other countries of the benefits of policiesthat would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
 
 Subsec. (d)(4). Pub. L. 102–486, §1208, added par. (4).
 
@@ -150,5 +150,5 @@ Subsecs. (e) to (h). Pub. L. 101–218, §7(c), added subsecs. (e) to (h).
 
 #### Effective Date
 
-Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this sectionand a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Section 3 of Pub. L. 98–370 provided that: “The amendments made by this Act \[enacting this section and a provision set out as a note under section 6201 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 

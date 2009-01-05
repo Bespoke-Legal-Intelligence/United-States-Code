@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Subject to paragraph (2),<sup>1</sup> the Secretary may enter into a voluntary, flexible agreement with a guaranty agency under this section, in lieu of agreements with a guaranty agency under subsections (b) and (c) of section 1078 of this title. The Secretary may waive or modifyany requirement under such subsections, except that the Secretary may not waive—
+&emsp;Subject to paragraph (2),<sup>1</sup> the Secretary may enter into a voluntary, flexible agreement with a guaranty agency under this section, in lieu of agreements with a guaranty agency under subsections (b) and (c) of section 1078 of this title. The Secretary may waive or modify any requirement under such subsections, except that the Secretary may not waive—
 
 &emsp;&emsp;(A) any statutory requirement pertaining to the terms and conditions attached to student loans or default claim payments made to lenders;
 
@@ -15,6 +15,38 @@
 #### (2) Eligibility
 
 &emsp;During fiscal years 1999, 2000, and 2001, the Secretary may enter into a voluntary, flexible agreement with not more than 6 guaranty agencies that had 1 or more agreements with the Secretary under subsections (b) and (c) of section 1078 of this title as of the day before October 7, 1998. Beginning in fiscal year 2002, any guaranty agency or consortium thereof may enter into a voluntary flexible agreement with the Secretary.
+
+#### (3) Report required
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary, in consultation with the guaranty agencies operating under voluntary flexible agreements, shall report on an annual basis to the authorizing committees regarding the program outcomes that the voluntary flexible agreements have had with respect to—
+
+&emsp;&emsp;&emsp;(i) program integrity and program and cost efficiencies, delinquency prevention, and default aversion, including a comparison of such outcomes to such outcomes for each guaranty agency operating under an agreement under subsection (b) or (c) of section 1078 of this title;
+
+&emsp;&emsp;&emsp;(ii) consumer education programs described in section 1083a of this title; and
+
+&emsp;&emsp;&emsp;(iii) the availability and delivery of student financial aid.
+
+#### (B) Contents
+
+&emsp;&emsp;Each report described in subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
+
+&emsp;&emsp;&emsp;(ii) a list of—
+
+&emsp;&emsp;&emsp;&emsp;(I) guaranty agencies operating under voluntary flexible agreements;
+
+&emsp;&emsp;&emsp;&emsp;(II) the specific statutory or regulatory waivers provided to each such guaranty agency; and
+
+&emsp;&emsp;&emsp;&emsp;(III) any other waivers provided to other guaranty agencies under paragraph (1);
+
+&emsp;&emsp;&emsp;(iii) a description of the standards by which each guaranty agency's performance under the guaranty agency's voluntary flexible agreement was assessed and the degree to which each guaranty agency achieved the performance standards;
+
+&emsp;&emsp;&emsp;(iv) an analysis of the fees paid by the Secretary, and the costs and efficiencies achieved under each voluntary flexible agreement; and
+
+&emsp;&emsp;&emsp;(v) an identification of promising practices for program improvement that could be replicated by other guaranty agencies.
 
 #### (b) Terms of agreement
 
@@ -74,7 +106,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (2) Agreement notice
 
-&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 30 days prior to concluding an agreement under this section. The notice shall contain—
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to concluding an agreement under this section. The notice shall contain—
 
 &emsp;&emsp;(A) a description of the voluntary flexible agreement and the performance goals established by the Secretary for the agreement;
 
@@ -86,21 +118,21 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (3) Waiver notice
 
-&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> of this section to a guaranty agency that is not a party to a voluntary flexible agreement.
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> of this section to a guaranty agency that is not a party to a voluntary flexible agreement.
 
 #### (4) Public availability
 
-&emsp;The text of any voluntary flexible agreement, and any subsequent revisions, and any waivers related to section 1078(b)(3) of this title that are not part of such an agreement, shall be readily available to the public.
+&emsp;The text of any voluntary flexible agreement, and any subsequent revisions, and anywaivers related to section 1078(b)(3) of this title that are not part of such an agreement, shall be readily available to the public.
 
 #### (5) Modification notice
 
-&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives 30 days prior to any modifications to an agreement under this section.
+&emsp;The Secretary shall notify the members of the authorizing committees 30 days prior to any modifications to an agreement under this section.
 
 #### (d) Termination
 
 At the expiration or early termination of an agreement under this section, the Secretary shall reinstate the guaranty agency's prior agreements under subsections (b) and (c) of section 1078 of this title, subject only to such additional requirements as the Secretary determines to be necessary in order to ensure the efficient transfer of responsibilities between the agreement under this section and the agreements under subsections (b) and (c) of section 1078 of this title, and including the guaranty agency's compliance with reserve requirements under sections 1072 and 1078 of this title.
 
-(Pub. L. 89–329, title IV, §428A, as added Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691; amended Pub. L. 109–171, title VIII, §8014(b)(3), (f), Feb. 8, 2006, 120 Stat. 169, 170.)
+(Pub. L. 89–329, title IV, §428A, as added Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691; amended Pub. L. 109–171, title VIII, §8014(b)(3), (f), Feb. 8, 2006, 120 Stat. 169, 170; Pub. L. 110–315, title I, §103(b)(5), title IV, §423, Aug. 14, 2008, 122 Stat. 3089, 3231.)
 
 #### References in Text
 
@@ -116,6 +148,12 @@ Another prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub
 
 #### Amendments
 
+2008—Subsec. (a)(3). Pub. L. 110–315, §423, added par. (3).
+
+Subsec. (c)(2), (3). Pub. L. 110–315, §103(b)(5)(A), (B), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
+Subsec. (c)(5). Pub. L. 110–315, §103(b)(5)(C), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
 2006—Subsec. (a)(1)(B). Pub. L. 109–171, §8014(f)(1), struck out “unless the Secretary determines that such a waiver is consistent with the purposes of this section and is limited to activities of the guaranty agency within the State or States for which the guaranty agency serves as the designated guarantor” before “; or”.
 
 Subsec. (a)(1)(C). Pub. L. 109–171, §8014(b)(3), added subpar. (C).
@@ -123,12 +161,6 @@ Subsec. (a)(1)(C). Pub. L. 109–171, §8014(b)(3), added subpar. (C).
 Subsec. (a)(2), (3). Pub. L. 109–171, §8014(f)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.”
 
 Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which required the Secretary to report to congressional committees regarding the impact that the voluntary flexible agreements had on program integrity, program and cost efficiencies, and the availability and delivery of student financial aid.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2006 Amendment
 

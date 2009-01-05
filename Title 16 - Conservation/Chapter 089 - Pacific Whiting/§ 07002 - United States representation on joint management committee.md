@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of State, shall appoint 4 individuals torepresent the United States as the United States Section on the joint management committee. In making the appointments, the Secretary shall select representatives from among individuals who are knowledgeable or experienced concerning the offshore whiting resource. Of these—
+&emsp;The Secretary, in consultation with the Secretary of State, shall appoint 4 individuals to represent the United States as the United States Section on the joint management committee. In making the appointments, the Secretary shall select representatives from among individuals who are knowledgeable or experienced concerning the offshore whiting resource. Of these—
 
 &emsp;&emsp;(A) 1 shall be an official of the National Oceanic and Atmospheric Administration;
 

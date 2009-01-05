@@ -62,7 +62,7 @@ There shall be established in each local area of a State, and certified by the G
 
 &emsp;&emsp;&emsp;In a case in which a local area includes more than 1 unit of general local government, the chief elected officials of such units may execute an agreement that specifies the respective roles of the individual chief elected officials—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the appointment of the members of the local board from the individuals nominated or recommended to be such members in accordance with the criteria established under subsection (b) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) in the appointment of the members of the local board from the individualsnominated or recommended to be such members in accordance with the criteria established under subsection (b) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in carrying out any other responsibilities assigned to such officials under this subchapter.
 
@@ -144,7 +144,7 @@ The functions of the local board shall include the following:
 
 #### (A) Budget
 
-&emsp;&emsp;The local board shall develop a budget for the purpose of carrying out the duties of the local board under this section, subject to the approval of the chief elected official.
+&emsp;&emsp;The local board shall develop a budget for the purpose of carrying out the duties of thelocal board under this section, subject to the approval of the chief elected official.
 
 #### (B) Administration
 
@@ -156,7 +156,7 @@ The functions of the local board shall include the following:
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor ofthe liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in the administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -318,7 +318,7 @@ A member of a local board may not—
 
 &emsp;References in this Act to a local board or a youth council shall be considered to include such an entity or a subgroup of such an entity, respectively.
 
-(Pub. L. 105–220, title I, §117, Aug. 7, 1998, 112 Stat. 954; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §117, Aug. 7, 1998, 112 Stat. 954; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
 #### References in Text
 
@@ -330,5 +330,5 @@ Section 1512 of this title, referred to in subsec. (i)(1)(C)(i), was repealed by
 
 1998—Subsec. (f)(1)(D). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(A)\], substituted “if the Governor” for “if the State”.
 
-Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area inwhich no employees are represented by such organizations), other representatives of employees in the local area.”
+Subsec. (i)(1)(D)(ii)(II). Pub. L. 105–277, §101(f) \[title VIII, §401(4)(B)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “(for a local area in which no employees are represented by such organizations), other representatives of employees in the local area.”
 

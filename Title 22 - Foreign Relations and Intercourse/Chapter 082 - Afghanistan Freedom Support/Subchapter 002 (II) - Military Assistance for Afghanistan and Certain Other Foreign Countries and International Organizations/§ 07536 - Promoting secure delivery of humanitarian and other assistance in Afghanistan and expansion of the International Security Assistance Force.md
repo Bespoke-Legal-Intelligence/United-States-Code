@@ -38,7 +38,7 @@ It should be the policy of the United States to support measures to help meet th
 
 &emsp;Not later than 60 days after December 4, 2002, the President shall provide the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate with—
 
-&emsp;&emsp;(A) a strategy for meeting the immediate and long-term security needs of Afghanistanin order to promote safe and effective delivery of humanitarian and other assistance throughout Afghanistan, further the rule of law and civil order, and support the formation of a functioning, representative Afghan national government, including an update to the strategies submitted pursuant to Public Law 107–206; and
+&emsp;&emsp;(A) a strategy for meeting the immediate and long-term security needs of Afghanistan in order to promote safe and effective delivery of humanitarian and other assistance throughout Afghanistan, further the rule of law and civil order, and support the formation of a functioning, representative Afghan national government, including an update to the strategies submitted pursuant to Public Law 107–206; and
 
 &emsp;&emsp;(B) a description of the progress of the Government of Afghanistan toward the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan in accordance with the provisions of this chapter.
 

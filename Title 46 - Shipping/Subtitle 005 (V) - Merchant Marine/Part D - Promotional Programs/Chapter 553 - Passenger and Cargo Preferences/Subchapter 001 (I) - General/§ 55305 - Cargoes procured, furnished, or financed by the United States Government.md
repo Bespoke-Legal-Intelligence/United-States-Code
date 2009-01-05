@@ -6,7 +6,7 @@ Definition.—In this section, the term “privately-owned commercial vessel of 
 
 (b)
 
-Minimum Tonnage.—When the United States Government procures, contracts for, or otherwise obtains for its own account, or furnishes to or for the account of a foreign country without provision for reimbursement, any equipment, materials, or commodities, within or without the United States, or advances funds or credits, or guarantees the convertibility of foreign currencies in connection with the furnishing of the equipment, materials, or commodities, the appropriate agencies shall take steps necessary and practicable to ensure that at least 50 percent of the gross tonnage of the equipment, materials, or commodities (computed separately for dry bulk carriers, dry cargo liners, and tankers) which may be transported on ocean vessels is transported on privately-owned commercial vessels of the United States, to the extent those vessels are available at fair and reasonable rates for commercial vessels of the United States, in a manner that will ensure a fair and reasonable participation of commercial vessels of the United States in those cargoes by geographic areas.
+Minimum Tonnage.—When the United States Government procures, contracts for, or otherwise obtains for its own account, or furnishes to or for the account of a foreign country, organization, or persons without provision for reimbursement, any equipment, materials, or commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within or without the United States, or advances funds or credits, or guarantees the convertibility of foreign currencies in connection with the furnishing or obtaining of the equipment, materials, or commodities, the appropriate agencies shall take steps necessary and practicable to ensure that at least 50 percent of the gross tonnage of the equipment, materials, or commodities (computed separately for dry bulk carriers, dry cargo liners, and tankers) which may be transported on ocean vessels is transported on privately-owned commercial vessels of the United States, to the extent those vessels are available at fair and reasonable rates for commercial vessels of the United States, in a manner that will ensure a fair and reasonable participation of commercial vessels of the United States in those cargoes by geographic areas.
 
 (c)
 
@@ -18,9 +18,21 @@ Waivers.—The President, the Secretary of Defense, or Congress (by concurrent r
 
 (d)
 
-Programs of Other Agencies.—An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.
+Programs of Other Agencies.—
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642.)
+&emsp;(1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
+
+&emsp;(2) The Secretary—
+
+&emsp;&emsp;(A) shall conduct an annual review of the administration of programs determined pursuant to paragraph (1) as subject to the requirements of this section;
+
+&emsp;&emsp;(B) may direct agencies to require the transportation on United States-flagged vessels of cargo shipments not otherwise subject to this section in equivalent amounts to cargo determined to have been shipped on foreign carriers in violation of this section;
+
+&emsp;&emsp;(C) may impose on any person that violates this section, or a regulation prescribed under this section, a civil penalty of not more than $25,000 for each violation willfully and knowingly committed, with each day of a continuing violation following the date of shipment to be a separate violation; and
+
+&emsp;&emsp;(D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1) <sup>1</sup> or contract with respect to each violation.
+
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769.)
 
 Historical and Revision Notes
 
@@ -53,4 +65,14 @@ June 29, 1936, ch. 858, title IX, §901(b), as added Aug. 26, 1954, ch. 936, 68 
 In this section, the words “commercial vessels of the United States” are substituted for “United States-flag commercial vessels” for consistency in the revised title.
 
 In subsection (a), the words “the provisions of this subsection shall not apply to cargoes carried in the vessels of the Panama Canal Company” are omitted as obsolete. The words “Nothing herein shall repeal or otherwise modify the provisions of section 1241–1 of this Appendix” are omitted as unnecessary. The last proviso in 46 App. U.S.C. 1241(b)(1) is omitted as obsolete.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–417, §3511(a), substituted “foreign country, organization, or persons” for “foreign country”, “commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within” for “commodities, within”, and “furnishing or obtaining” for “furnishing”.
+
+Subsec. (d). Pub. L. 110–417, §3511(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An agency having responsibility under this section shall administer its programs with respect to this section under regulations prescribed by the Secretary of Transportation. The Secretary shall review the administration of those programs and report annually to Congress on their administration.”
+
+#### Regulations
+
+Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: “The Secretary of Transportation shall prescribe such rules as are necessary to carry out section 55305(d) of title 46, United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule.”
 

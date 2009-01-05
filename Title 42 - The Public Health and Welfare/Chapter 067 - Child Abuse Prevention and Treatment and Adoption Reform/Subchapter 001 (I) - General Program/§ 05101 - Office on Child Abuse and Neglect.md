@@ -36,7 +36,7 @@ Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to
 
 Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
 
-Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of this section may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
+Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of thissection may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
 
 Subsec. (e). Pub. L. 98–457, §101(d), added subsec. (e).
 
@@ -47,6 +47,10 @@ Subsec. (c). Pub. L. 95–266, §101(2), inserted provisions relating to duratio
 Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 1975—Subsec. (c). Pub. L. 93–644 added subsec. (c).
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, provided that: “This Act \[amending provisions set out as a note under section 5119a of this title\] may be cited as the ‘Criminal History Background Checks Pilot Extension Act of 2008’.”
 
 #### Short Title of 2003 Amendment
 

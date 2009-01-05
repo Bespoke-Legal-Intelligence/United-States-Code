@@ -2,7 +2,7 @@
 
 The Commission, the national committee of any political party, or any individual eligible to vote in any election for the office of President may institute such actions in the appropriate district court of the United States, including actions for declaratory judgment, as may be appropriate to construe the constitutionality of any provision of this Act. The district court immediately shall certify all questions of constitutionality of this Act to the United States court of appeals for the circuit involved, which shall hear the matter sitting en banc.
 
-(Pub. L. 92–225, title III, §310, formerly §315, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1285; renumbered §314 and amendedPub. L. 94–283, title I, §§105, 115(e), May 11, 1976, 90 Stat. 481, 496; renumbered §310 and amended Pub. L. 96–187, title I, §§105(4), 112(c), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 98–620, title IV, §402(1)(B), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–352, §6(a), June 27, 1988, 102 Stat. 663.)
+(Pub. L. 92–225, title III, §310, formerly §315, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1285; renumbered §314 and amended Pub. L. 94–283, title I, §§105, 115(e), May 11, 1976, 90 Stat. 481, 496; renumbered §310 and amended Pub. L. 96–187, title I, §§105(4), 112(c), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 98–620, title IV, §402(1)(B), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–352, §6(a), June 27, 1988, 102 Stat. 663.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Special Rules for Actions Brought on Constitutional Grounds.—If any action is 
 
 &emsp;“(3) A final decision in the action shall be reviewable only by appeal directly to the Supreme Court of the United States. Such appeal shall be taken by the filing of a notice of appeal within 10 days, and the filing of a jurisdictional statement within 30 days, of the entry of the final decision.
 
-&emsp;“(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
+&emsp;“(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on thedocket and to expedite to the greatest possible extent the disposition of the action and appeal.
 
 “(b)
 

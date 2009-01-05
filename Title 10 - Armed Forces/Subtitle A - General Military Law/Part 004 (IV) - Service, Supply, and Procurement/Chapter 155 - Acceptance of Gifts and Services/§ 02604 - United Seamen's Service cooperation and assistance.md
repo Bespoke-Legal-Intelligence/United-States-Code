@@ -14,7 +14,7 @@
 
 (d) Supplies of the United Seamen's Service, including gifts for the use of merchant seamen, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance provided under this section.
 
-(e) Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen'sService, in connection with its activities under subsection (a).
+(e) Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen's Service, in connection with its activities under subsection (a).
 
 (f) For the purposes of this section, employees of the United Seamen's Service may not be considered as employees of the United States.
 

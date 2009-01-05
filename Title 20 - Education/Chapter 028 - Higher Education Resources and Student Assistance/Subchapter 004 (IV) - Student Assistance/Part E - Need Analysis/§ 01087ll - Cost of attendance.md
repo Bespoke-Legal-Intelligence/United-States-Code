@@ -44,7 +44,19 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;(13) at the option of the institution, for a student in a program requiring professional licensure or certification, the one-time cost of obtaining the first professional credentials (as determined by the institution).
 
-(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172.)
+(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269.)
+
+#### Amendment of Paragraph (3)
+
+<i>Pub. L. 110–315, title IV, §471, Aug. 14, 2008, 122 Stat. 3269, provided that, effective July 1, 2010, paragraph (3) of this section is amended—</i>
+
+<i>(1) in subparagraph (B), by striking “and” after the semicolon;</i>
+
+<i>(2) by redesignating subparagraph (C) as subparagraph (D); and</i>
+
+<i>(3) by inserting after subparagraph (B), as amended by paragraph (1), the following:</i>
+
+<i>“(C) for students who live in housing located on a military base or for which a basic allowance is provided under section 403(b) of title 37, shall be an allowance based on the expenses reasonably incurred by such students for board but not for room; and”.</i>
 
 #### Amendments
 
@@ -66,6 +78,10 @@ Par. (11). Pub. L. 105–244, §471(4), substituted “engaged” for “placed�
 
 1992—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §471(b), Aug. 14, 2008, 122 Stat. 3269, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 2010.”
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
@@ -80,5 +96,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 

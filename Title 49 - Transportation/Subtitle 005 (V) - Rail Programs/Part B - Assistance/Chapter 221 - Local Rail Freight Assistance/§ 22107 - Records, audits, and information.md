@@ -14,7 +14,7 @@ Records.—Each recipient of financial assistance through an arrangement under t
 
 (b)
 
-Audits.—The Secretary shall make regular financial and performance audits, as providedunder chapter 75 of title 31, of activities and transactions assisted under this chapter.
+Audits.—The Secretary shall make regular financial and performance audits, as provided under chapter 75 of title 31, of activities and transactions assisted under this chapter.
 
 (c)
 

@@ -262,7 +262,7 @@ Information From Federal Agencies.—
 
 &emsp;“(1)
 
-In general.—The Commission may secure directly from a Federal agency such information as theCommission considers necessary to carry out this Act.
+In general.—The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
 
 &emsp;“(2)
 
@@ -330,7 +330,7 @@ In general.—The Commission—
 
 &emsp;&emsp;&emsp;“(i) shall have the sole and exclusive right to use the name ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark that the Commission lawfully adopts; and
 
-&emsp;&emsp;&emsp;“(ii) shall have the sole and exclusive right to allow or refuse the use by any other entity of the name ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark.
+&emsp;&emsp;&emsp;“(ii) shall have the sole and exclusive right to allow or refuse the use by any other entity of thename ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark.
 
 &emsp;&emsp;“(B)
 
@@ -416,7 +416,7 @@ Civil service status.—The detail of any officer or employee under this subsect
 
 “(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission mayprocure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
 “(f)
 

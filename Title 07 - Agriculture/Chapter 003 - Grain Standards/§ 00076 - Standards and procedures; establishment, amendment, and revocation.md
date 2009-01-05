@@ -38,7 +38,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 (1) In establishing standards under subsection (a) of this section for each grain for which official grades are established, the Secretary shall establish for each such grain official grade-determining factors and factor limits that reflect the levels of soundness and purity that are consistent with end-use performance goals of the major foreign and domestic users of each such grain. Such factors and factor limits for grades number 3 and better shall provide users of such standards the best possible information from which to determine end-use product quality. The Secretary shall establish factors and factor limits that will provide that grain meeting the requirements for grades number 3 and better will perform in accordance with general trade expectations for the predominant uses of such grain.
 
-(2) In establishing factors and factor limits under paragraph (1), the Secretary shall provide for notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
+(2) In establishing factors and factor limits under paragraph (1), the Secretary shall providefor notice and an opportunity for public comment prior to making changes in the grade-determining factors and factor limits that shall be applicable under this section to grain that is officially graded.
 
 #### (d) Moisture content criterion
 
@@ -102,7 +102,7 @@ Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection 
 
 &emsp;&emsp;“(C) the protein, oil, and free-fatty-acid content of soybeans.
 
-&emsp;“(2) A review of the development and availability of tests for the characteristics identified in the surveyconducted under paragraph (1), including an evaluation of the costs of providing such tests.
+&emsp;“(2) A review of the development and availability of tests for the characteristics identified in the survey conducted under paragraph (1), including an evaluation of the costs of providing such tests.
 
 “(b)
 

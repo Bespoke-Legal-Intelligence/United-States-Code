@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 109–8, §1233(a)(2), designated existing provisions as pa
 
 1994—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 103–394, §104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
+Subsec. (b)(1). Pub. L. 103–394, §104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judgesfrom districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
 
 Subsec. (b)(2). Pub. L. 103–394, §104(c)(3), added par. (2). Former par. (2) redesignated (4).
 

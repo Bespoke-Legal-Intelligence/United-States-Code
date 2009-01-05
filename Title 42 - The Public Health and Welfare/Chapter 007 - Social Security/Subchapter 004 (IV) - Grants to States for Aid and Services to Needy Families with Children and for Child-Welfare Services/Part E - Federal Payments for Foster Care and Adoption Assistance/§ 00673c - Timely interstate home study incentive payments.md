@@ -72,7 +72,7 @@ In this section:
 
 #### (1) Home study
 
-&emsp;The term “home study” means an evaluation of a home environment conducted in accordance with applicable requirements of the State in which the home is located, to determine whether a proposed placement of a childwould meet the individual needs of the child, including the child's safety, permanency, health, well-being, and mental, emotional, and physical development.
+&emsp;The term “home study” means an evaluation of a home environment conducted in accordance with applicable requirements of the State in which the home is located, to determine whether a proposed placement of a child would meet the individual needs of the child, including the child's safety, permanency, health, well-being, and mental, emotional, and physical development.
 
 #### (2) Interstate home study
 
@@ -80,7 +80,7 @@ In this section:
 
 #### (3) Timely interstate home study
 
-&emsp;The term “timely interstate home study” means an interstate home study completed by a State if the State provides to the State that requested the study, within 30 days after receipt of the request, a report on the results of the study. The preceding sentence shall not be construed to require the State to have completed, within the 30-day period, the parts of the home study involving the education and training of the prospective foster or adoptive parents.
+&emsp;The term “timely interstate home study” means an interstate home study completed by a State if the State provides to the State that requested the study, within 30 days after receipt of the request, a report on the results ofthe study. The preceding sentence shall not be construed to require the State to have completed, within the 30-day period, the parts of the home study involving the education and training of the prospective foster or adoptive parents.
 
 #### (h) Limitations on authorization of appropriations
 

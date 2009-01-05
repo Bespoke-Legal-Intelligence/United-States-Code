@@ -14,7 +14,7 @@ As used in this section:
 
 &emsp;(3) The term “farm program loan” means any loan made by the Administrator under the Small Business Act (15 U.S.C. 631 et seq.) for any of the purposes authorized for loans under subchapters <sup>1</sup> I or II of this chapter.
 
-&emsp;(4) The term “homestead property” means the principal residence and adjoining property possessed and occupied by a borrower-owner specified in paragraph (2) of this subsection, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual.
+&emsp;(4) The term “homestead property” means the principal residence and adjoining property possessed and occupied by a borrower-owner specified in paragraph (2) of this subsection, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead,and no more than 10 acres of adjoining land that is used to maintain the family of the individual.
 
 &emsp;(5) The term “Secretary” means the Secretary of Agriculture.
 
@@ -60,9 +60,9 @@ As used in this section:
 
 (4)(A) The period of occupancy allowed the prior owner of homestead property under this section shall be the period requested in writing by the prior owner, except that such period shall not exceed 5 years.
 
-(B) At any time during the period of occupancy, the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner from a list of three appraisers approved by the county supervisor.
+(B) At any time during the period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner shall have a right of first refusal to reacquire the homestead property on such terms and conditions as the Secretary shall determine, except that the Secretary may not demand a payment for the homestead property that is in excess of the current market value of the homestead property as established by an independent appraisal. The independent appraisal shall be conducted by an appraiser selected by the borrower-owner or immediate family member, as the case may be, from a list of three appraisers approved by the county supervisor.
 
-(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner or by operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
+(5) No rights of a borrower-owner under this section, and no agreement entered into between the borrower-owner and the Secretary for occupancy of the homestead property, shall be transferable or assignable by the borrower-owner orby operation of any law, except that in the case of death or incompetency of such borrower-owner, such rights and agreements shall be transferable to the spouse of the borrower-owner if the spouse agrees to comply with the terms and conditions thereof.
 
 (6) Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996), the Secretary shall notify the borrower-owner from whom the property was acquired of the availability of homestead protection rights under this section.
 
@@ -82,7 +82,7 @@ The Secretary may enter into contracts authorized by this section before the Sec
 
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat.1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103.)
+(Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, §5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, §4(a), title V, §5305, June 18, 2008, 122 Stat. 1664, 1915.)
 
 #### References in Text
 
@@ -92,7 +92,13 @@ For definition of “this chapter”, referred to in subsecs. (b)(1)(A) and (c)(
 
 Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(4)(B). Pub. L. 110–246, §5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
@@ -119,6 +125,10 @@ Subsec. (c). Pub. L. 100–233, §614(3), completely revised and restated subsec
 Subsec. (d). Pub. L. 100–233, §614(3), inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
 
 Subsecs. (f), (g). Pub. L. 100–233, §614(4), added subsecs. (f) and (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1996 Amendment
 

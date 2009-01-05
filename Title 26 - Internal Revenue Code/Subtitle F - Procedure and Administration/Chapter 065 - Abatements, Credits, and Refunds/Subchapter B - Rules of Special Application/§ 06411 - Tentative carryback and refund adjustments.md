@@ -12,7 +12,7 @@ A taxpayer may file an application for a tentative carryback adjustment of the t
 
 &emsp;(4) The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
 
-&emsp;(5) The amount, with respect to the tax for the taxable year immediately preceding the taxable year from which the carryback is made, as to which an extension of time for payment under section 6164 is in effect; and
+&emsp;(5) The amount, with respect to the tax for the taxable year immediately preceding the taxable year from which the carryback ismade, as to which an extension of time for payment under section 6164 is in effect; and
 
 &emsp;(6) Such other information for purposes of carrying out the provisions of this section as may be required by such regulations.
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 99–514, §231(d)(3)(H)(iv), struck out “unused research
 
 1984—Subsec. (a). Pub. L. 98–369, §474(r)(37)(A), amended provisions preceding par. (1) generally. Prior to amendment, such provisions read as follows: “A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by an investment credit carryback provided in section 46(b), by a work incentive program carryback provided in section 50A(b), by a new employee credit carryback provided in section 53(b), by a research credit carryback provided in section 44F(g)(2) by an employee stock ownership credit carryback provided by section 44G(b)(2), or by a capital loss carryback provided in section 1212(a)(1), from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer, and shall be filed, on or after the date of filing of the return for the taxable year of the net operating loss, net capital loss, unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit, from which the carryback results and within a period of 12 months from the end of such taxable year (or, with respect to any portion of an investment credit carryback, a work incentive program carryback, a new employee credit carryback, a research credit carryback, or employee stock ownership credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback (or, in the case of a work incentive program carryback, to an investment credit carryback, or, in the case of a new employee credit carryback, to an investment credit carryback or a work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or a new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback) from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year), in the manner and form required by regulations prescribed by the Secretary. The application shall set forth in such detail and with such supporting data and explanation as such regulations shall require—”.
 
-Pub. L. 98–369, §714(n)(2)(B), in provisions following par. (6), substituted “Except for purposes of applyingsection 6611(f)(3)(B), an application” for “An application”.
+Pub. L. 98–369, §714(n)(2)(B), in provisions following par. (6), substituted “Except for purposes of applying section 6611(f)(3)(B), an application” for “An application”.
 
 Subsec. (a)(1). Pub. L. 98–369, §474(r)(37)(A), substituted “unused research credit, or unused business credit” for “unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit”.
 
@@ -120,7 +120,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in first sentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
 
-1969—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
+1969—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available incase of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
 
 Subsec. (b). Pub. L. 91–172, §512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” wherever such term appears.
 
@@ -196,5 +196,5 @@ Section 2(g) of Pub. L. 89–721, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

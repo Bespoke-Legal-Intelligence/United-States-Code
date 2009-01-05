@@ -192,7 +192,7 @@ Section 901(d) of Pub. L. 94–455 provided that: “The amendment made by subse
 
 #### Effective and Termination Dates of 1975 Amendments
 
-Section 4(e) of Pub. L. 94–164 provided that: “The amendments made by subsections (b), (c), and (d)\[amending this section and sections 21, 962, and 1561 of this title\] apply to taxable years beginning after December 31, 1975. The amendment made by subsection (c) \[amending this section\] ceases to apply for taxable years beginning after December 31, 1976.”
+Section 4(e) of Pub. L. 94–164 provided that: “The amendments made by subsections (b), (c), and (d) \[amending this section and sections 21, 962, and 1561 of this title\] apply to taxable years beginning after December 31, 1975. The amendment made by subsection (c) \[amending this section\] ceases to apply for taxable years beginning after December 31, 1976.”
 
 Section 305(b)(1) of Pub. L. 94–12 provided that: “The amendments made by section 303 \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsections (b) and (c) of such section \[amending this section and sections 12, 962, and 1561 of this title and enacting provisions set out as a note under this section\] shall cease to apply for taxable years ending after December 31, 1975.”
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) advise the Under Secretary for Health on all matters pertaining to geriatrics and gerontology;
 
-&emsp;(2) assess, through an evaluation process (including a site visit conducted not later than three years after the date of the establishment of each new center and not later than two years after the date of the last evaluation of those centers in operation on August 26, 1980), the ability of each center established under section 7314 of this title to achieve its established purposes and the purposes of title III of the Veterans’ Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048);
+&emsp;(2) assess, through an evaluation process (including a site visit conducted not later than three years after the date of the establishment of each new center and not later than two years after the date of the last evaluation of those centers in operation on August 26, 1980), the ability of each center established under section 7314 of this title to achieve its established purposes and the purposes of title III of the Veterans’ Administration Health-CareAmendments of 1980 (Public Law 96–330; 94 Stat. 1048);
 
 &emsp;(3) assess the capability of the Department to provide high quality geriatric services, extended services, and other health-care services to eligible older veterans, taking into consideration the likely demand for such services from such veterans;
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) Assessments of the quality of the operations of such centers.
 
-&emsp;(C) An assessment of the extent to which the Department, through the operation of such centers and other health-care facilities andprograms, is meeting the needs of eligible older veterans for geriatric services, extended-care services, and other health-care services.
+&emsp;(C) An assessment of the extent to which the Department, through the operation of such centers and other health-care facilities and programs, is meeting the needs of eligible older veterans for geriatric services, extended-care services, and other health-care services.
 
 &emsp;(D) Assessments of and recommendations for correcting any deficiencies in the operations of such centers.
 

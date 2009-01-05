@@ -22,9 +22,9 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 &emsp;&emsp;(D) Activities authorized under title II \[20 U.S.C. 9201 et seq.\].
 
-&emsp;&emsp;(E) Programs authorized under section 6(d) of the Food Stamp Act of 1977 (7 U.S.C. 2015(d)).
+&emsp;&emsp;(E) Programs authorized under section 6(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)).
 
-&emsp;&emsp;(F) Work programs authorized under section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>)).
+&emsp;&emsp;(F) Work programs authorized under section 6(<i>o</i>) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(<i>o</i>)).
 
 &emsp;&emsp;(G) Activities authorized under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.).
 
@@ -78,7 +78,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 &emsp;&emsp;In subparagraph (A), the term “criteria for approval of a State plan”, relating to activities carried out under title I \[29 U.S.C. 2801 et seq.\] or II \[20 U.S.C. 9201 et seq.\] or under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), includes a requirement for agreement between the State and the appropriate Secretary regarding State performance measures, including levels of performance.
 
-(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748.)
+(Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 109–270, §2(h)(7)–(9), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
@@ -100,7 +100,13 @@ The Older Americans Act of 1965, referred to in subsec. (b)(2)(M), is Pub. L. 89
 
 The Community Services Block Grant Act, referred to in subsec. (b)(2)(O), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in subpars. (E) and (F).
 
 2006—Subsec. (b)(2)(A). Pub. L. 109–270, §2(h)(7)(B), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
@@ -113,6 +119,12 @@ Pub. L. 109–270, §2(h)(8)(A), which directed the substitution of “career an
 Subsec. (d)(2)(B). Pub. L. 109–270, §2(h)(9), substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
 
 1998—Subsec. (b)(1). Pub. L. 105–277 inserted at end “For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

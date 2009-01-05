@@ -20,7 +20,7 @@ The Secretary may make grants to—
 
 #### (c) Aquaculture development plans
 
-The Secretary may assist States to formulate aquaculture development plans for the enhancement of the production and marketing of aquacultural species and products from such States and may make grants to States on a matching basis, as determined by the Secretary. The aggregate amount of the grants made to any one State under this subsection may not exceed $50,000. The plans shall be consistent with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+The Secretary may assist States to formulate aquaculture development plans for the enhancement of the production and marketing of aquacultural species and products from such States and may make grants to States on a matchingbasis, as determined by the Secretary. The aggregate amount of the grants made to any one State under this subsection may not exceed $50,000. The plans shall be consistent with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
 
 #### (d) Aquacultural centers
 
@@ -42,7 +42,7 @@ The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c),
 
 #### Amendments
 
-1996—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Textread as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
+1996—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
 1995—Subsec. (e). Pub. L. 104–66 struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 

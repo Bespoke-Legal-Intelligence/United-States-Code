@@ -6,7 +6,7 @@ To the extent that amounts are made available for providing service coordinators
 
 #### (b) Responsibilities
 
-Each service coordinator of a covered federally assisted housing project provided pursuant tothis subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
+Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
 
 &emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 106–569, §851(c)(2)(B), added subsec. (f).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability uponanother date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under section 1701q of Title 12, Banks and Banking.
+Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability upon another date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under section 1701q of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@
 
 &emsp;(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual's account together with a description of the benefits payable under the medicare program of subchapter XVIII of this chapter; and
 
-&emsp;(E) in the case of an eligible individual described in paragraph (3)(C)(ii), an explanation,in language calculated to be understood by the average eligible individual, of the operation of the provisions under sections 402(k)(5) and 415(a)(7) of this title and an explanation of the maximum potential effects of such provisions on the eligible individual's monthly retirement, survivor, and auxiliary benefits.
+&emsp;(E) in the case of an eligible individual described in paragraph (3)(C)(ii), an explanation, in language calculated to be understood by the average eligible individual, of the operation of the provisions under sections 402(k)(5) and 415(a)(7) of this title and an explanation of the maximum potential effects of such provisions on the eligible individual's monthly retirement, survivor, and auxiliary benefits.
 
 (3) For purposes of this section, the term “eligible individual” means an individual—
 

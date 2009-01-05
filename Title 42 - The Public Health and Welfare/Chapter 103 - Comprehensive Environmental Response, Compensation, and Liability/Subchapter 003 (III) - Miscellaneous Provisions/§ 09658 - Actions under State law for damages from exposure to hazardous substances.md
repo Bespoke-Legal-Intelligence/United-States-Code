@@ -42,7 +42,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) In the case of a minor, the date on which the minor reaches the age of majority, as determined by State law, or has a legal representative appointed.
 
-&emsp;&emsp;&emsp;(ii) In the case of an incompetent individual, the date on which such individual becomes competent or has had a legal representative appointed.
+&emsp;&emsp;&emsp;(ii) In the case of an incompetent individual, the date on which such individualbecomes competent or has had a legal representative appointed.
 
 (Pub. L. 96–510, title III, §309, as added Pub. L. 99–499, title II, §203(a), Oct. 17, 1986, 100 Stat. 1695.)
 

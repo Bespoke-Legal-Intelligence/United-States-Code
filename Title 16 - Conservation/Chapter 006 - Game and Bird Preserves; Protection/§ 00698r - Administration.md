@@ -12,7 +12,7 @@ The Preserve shall be administered by the Secretary in accordance with sections 
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary shall permit hunting, trapping, andfishing on lands and waters under the jurisdiction of the Secretary within the Preserve in accordance with applicable Federal and State laws.
+&emsp;Subject to paragraphs (2) and (3), the Secretary shall permit hunting, trapping, and fishing on lands and waters under the jurisdiction of the Secretary within the Preserve in accordance with applicable Federal and State laws.
 
 #### (2) Time and place restrictions
 
@@ -60,7 +60,7 @@ If lands within DeSoto State Park are acquired by the Secretary, at the request 
 
 #### (g) Green Pitcher Plant
 
-Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
+Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), allrights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
 
 (Pub. L. 102–427, §3, Oct. 21, 1992, 106 Stat. 2179.)
 

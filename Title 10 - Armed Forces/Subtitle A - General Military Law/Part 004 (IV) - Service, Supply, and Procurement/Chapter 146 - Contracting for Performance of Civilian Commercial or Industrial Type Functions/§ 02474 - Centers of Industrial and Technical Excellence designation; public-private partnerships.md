@@ -2,7 +2,7 @@
 
 (a)
 
-Designation.—(1) The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity of the military departments and the Defense Agencies (other than facilities approvedfor closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
+Designation.—(1) The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity of the military departments and the Defense Agencies (other than facilities approved for closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
 
 (2) The Secretary of Defense shall establish a policy to encourage the Secretary of each military department and the head of each Defense Agency to reengineer industrial processes and adopt best-business practices at their Centers of Industrial and Technical Excellence in connection with their core competency requirements, so as to serve as recognized leaders in their core competencies throughout the Department of Defense and in the national technology and industrial base (as defined in section 2500(1) of this title).
 
@@ -56,7 +56,7 @@ Availability of Excess Equipment to Private-Sector Partners.—Equipment or faci
 
 &emsp;&emsp;&emsp;(i) any claim for damages or injury to any person or property arising out of the use of the equipment or facilities, except under the circumstances described in section 2563(c)(3) of this title; and
 
-&emsp;&emsp;&emsp;(ii) any liability or claim for damages or injury to any person or property arisingout of a decision by the Secretary concerned or the Secretary of Defense to suspend or terminate that use of equipment or facilities during a war or national emergency.
+&emsp;&emsp;&emsp;(ii) any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary concerned or the Secretary of Defense to suspend or terminate that use of equipment or facilities during a war or national emergency.
 
 (f)
 

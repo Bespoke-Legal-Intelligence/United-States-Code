@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(ii) the principal user of which is or will be the same person or 2 or more related persons.
 
-> &emsp;&emsp;For purposes of clause (i), the determination of whether or not facilities are located in the same governmental unit shall be made as of the date of issue of the issue in question.
+> &emsp;&emsp;For purposes of clause (i), the determination of whether or not facilities are located inthe same governmental unit shall be made as of the date of issue of the issue in question.
 
 #### (C) Certain capital expenditures not taken into account
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) more than 25 percent of the net proceeds of the issue are to be used to provide a facility the primary purpose of which is one of the following: retail food and beverage services, automobile sales or service, or the provision of recreation or entertainment; or
 
-&emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard, and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
+&emsp;&emsp;(B) any portion of the proceeds of the issue is to be used to provide the following: any private or commercial golf course, country club, massage parlor, tennis club, skating facility (including roller skating, skateboard,and ice skating), racquet sports facility (including any handball or racquetball court), hot tub facility, suntan facility, or racetrack.
 
 #### (9) Aggregation of issues with respect to single project
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the net proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after the date of the issuance of the refunding bond.
+&emsp;&emsp;&emsp;&emsp;(III) the net proceeds of the refunding bond are used to redeem the refunded bond not later than 90 days after thedate of the issuance of the refunding bond.
 
 > &emsp;&emsp;For purposes of clause (ii)(I), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -336,7 +336,7 @@ For purposes of this part—
 
 #### (ii) Designation percentage
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means,with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
 
 #### (iii) Exception where bonds not outstanding
 
@@ -358,7 +358,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
-&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
+&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differfrom the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
 > &emsp;For purposes of the preceding sentence, the term “comparable property” means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
@@ -392,7 +392,7 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23,1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 
@@ -426,7 +426,7 @@ Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesigna
 
 Subsec. (a)(12)(C). Pub. L. 100–647, §6176(a), inserted sentence at end defining “manufacturing facility”.
 
-Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
+Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treatedas a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
 
 #### Effective Date of 1993 Amendment
 

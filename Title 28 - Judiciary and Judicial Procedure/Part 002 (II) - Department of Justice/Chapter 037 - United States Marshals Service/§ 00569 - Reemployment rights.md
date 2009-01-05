@@ -18,7 +18,7 @@ The effective date of this section, referred to in subsec. (b), is Oct. 1, 1984.
 
 #### Prior Provisions
 
-A prior section 569, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 95–598, title II,§221, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 96–417, title V, §501(12), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 99–466, §3(a), Oct. 14, 1986, 100 Stat. 1191, related to powers and duties generally and supervision by the Attorney General, prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 566 of this title.
+A prior section 569, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 95–598, title II, §221, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 96–417, title V, §501(12), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 99–466, §3(a), Oct. 14, 1986, 100 Stat. 1191, related to powers and dutiesgenerally and supervision by the Attorney General, prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 566 of this title.
 
 #### Amendments
 

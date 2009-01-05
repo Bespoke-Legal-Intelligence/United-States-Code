@@ -88,7 +88,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;&emsp;(I) any sale or exchange, or leasing of any property between the organization and a party in interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) any furnishing for consideration of goods, services (including management services), or facilities between the organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medicalgroup (or groups), individual practice association (or associations), or any combination thereof; and
+&emsp;&emsp;&emsp;&emsp;(II) any furnishing for consideration of goods, services (including management services), or facilities between the organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
 
 &emsp;&emsp;&emsp;&emsp;(III) any lending of money or other extension of credit between an organization and a party in interest.
 
@@ -122,6 +122,10 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;The contract shall require the organization to notify the Secretary of loans and other special financial arrangements which are made between the organization and subcontractors, affiliates, and related parties.
 
+#### (6) Review to ensure compliance with care management requirements for specialized medicare advantage plans for special needs individuals
+
+&emsp;In conjunction with the periodic audit of a specialized Medicare Advantage plan for special needs individuals under paragraph (1), the Secretary shall conduct a review to ensure that such organization offering the plan meets the requirements described in section 1395w–28(f)(5) of this title.
+
 #### (e) Additional contract terms
 
 #### (1) In general
@@ -146,7 +150,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;In any fiscal year the fees collected by the Secretary under subparagraph (B) shall not exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section 1395w–101(c) of this title and section 1395b–4 of this title; or
+&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section1395w–101(c) of this title and section 1395b–4 of this title; or
 
 &emsp;&emsp;&emsp;(ii)(I) $200,000,000 in fiscal year 1998;
 
@@ -194,6 +198,22 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amounts owed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary's payments (and the Secretary's costs in making the payments).
 
+#### (3) Incorporation of certain prescription drug plan contract requirements
+
+&emsp;The following provisions shall apply to contracts with a Medicare Advantage organization offering an MA–PD plan in the same manner as they apply to contracts with a PDP sponsor offering a prescription drug plan under part D:
+
+#### (A) Prompt payment
+
+&emsp;&emsp;Section 1395w–112(b)(4) of this title.
+
+#### (B) Submission of claims by pharmacies located in or contracting with long-term care facilities
+
+&emsp;&emsp;Section 1395w–112(b)(5) of this title.
+
+#### (C) Regular update of prescription drug pricing standard
+
+&emsp;&emsp;Section 1395w–112(b)(6) of this title.
+
 #### (g) Intermediate sanctions
 
 #### (1) In general
@@ -224,7 +244,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;The remedies described in this paragraph are—
 
-&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, plus, with respect to adetermination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
+&emsp;&emsp;(A) civil money penalties of not more than $25,000 for each determination under paragraph (1) or, with respect to a determination under subparagraph (D) or (E)(i) of such paragraph, of not more than $100,000 for each such determination, plus, with respect to a determination under paragraph (1)(B), double the excess amount charged in violation of such paragraph (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned), and plus, with respect to a determination under paragraph (1)(D), $15,000 for each individual not enrolled as a result of the practice involved,
 
 &emsp;&emsp;(B) suspension of enrollment of individuals under this part after the date the Secretary notifies the organization of a determination under paragraph (1) and until the Secretary is satisfied that the basis for such determination has been corrected and is not likely to recur, or
 
@@ -258,7 +278,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (2) Exception for imminent and serious risk to health
 
-&emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
+&emsp;Paragraph (1) shall not apply if the Secretary determines that a delay in termination,resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
@@ -270,15 +290,23 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c),title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581.)
 
 #### References in Text
 
-Part D of this subchapter, referred to in subsec. (e)(2)(A), (B), (F), is classified to section 1395w–101 et seq. of this title.
+Part D of this subchapter, referred to in subsecs. (e)(2)(A), (B), (F) and (f)(3), is classified to section 1395w–101 et seq. of this title.
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(6). Pub. L. 110–275, §164(d)(2), added par. (6).
+
+Subsec. (f)(3). Pub. L. 110–275, §171(b), added par. (3).
+
+Subsec. (f)(3)(B). Pub. L. 110–275, §172(a)(2), added subpar. (B).
+
+Subsec. (f)(3)(C). Pub. L. 110–275, §173(b), added subpar. (C).
 
 2003—Subsec. (d)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(C), substituted “and costs, including allowable costs under section 1395w–27a(c) of this title” for “, costs, and computation of the adjusted community rate”.
 
@@ -327,6 +355,16 @@ Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], add
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §164(g), July 15, 2008, 122 Stat. 2575, provided that: “The amendments made by subsections (c)(1), (d), and (e)(1) \[amending this section and section 1395w–28 of this title\] shall apply to plan years beginning on or after January 1, 2010, and shall apply to all specialized Medicare Advantage plans for special needs individuals regardless of when the plan first entered the Medicare Advantage program under part C of title XVIII of the Social Security Act \[this part\].”
+
+Pub. L. 110–275, title I, §171(c), July 15, 2008, 122 Stat. 2580, provided that: “The amendments made by this section \[amending this section and section 1395w–112 of this title\] shall apply to plan years beginning on or after January 1, 2010.”
+
+Pub. L. 110–275, title I, §172(b), July 15, 2008, 122 Stat. 2581, provided that: “The amendments made by this section \[amending this section and section 1395w–112 of this title\] shall apply to plan years beginning on or after January 1, 2010.”
+
+Pub. L. 110–275, title I, §173(c), July 15, 2008, 122 Stat. 2581, provided that: “The amendments made by this section \[amending this section and section 1395w–112 of this title\] shall apply to plan years beginning on or after January 1, 2009.”
 
 #### Effective Date of 2003 Amendment
 

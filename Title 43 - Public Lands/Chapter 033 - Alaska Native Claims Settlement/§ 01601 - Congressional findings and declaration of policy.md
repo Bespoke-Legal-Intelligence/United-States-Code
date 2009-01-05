@@ -50,13 +50,13 @@ Section 1 of Pub. L. 92–203 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision
 
-Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as modifying, etc., any provision of this chapter, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743,not to be construed as modifying, etc., any provision of this chapter, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
 Section 26 of Pub. L. 92–203 provided that: “To the extent that there is a conflict between any provision of this Act \[enacting this chapter\] and any other Federal laws applicable to Alaska, the provisions of this Act shall govern.”
 
 #### Severability
 
-Section 27 of Pub. L. 92–203, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that:“The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
+Section 27 of Pub. L. 92–203, as amended by Pub. L. 100–241, §13, Feb. 3, 1988, 101 Stat. 1810, provided that: “The provisions of this Act, as amended \[enacting this chapter\], and the Alaska Native Claims Settlement Act Amendments of 1987 \[Pub. L. 100–241, see Short Title of 1988 Amendment note above\] are severable. If any provision of either Act is determined by a court of competent jurisdiction to be invalid, such invalidity shall not affect the validity of any other provision of either Act.”
 
 #### Congressional Findings and Declaration of Policy
 
@@ -130,7 +130,7 @@ Pub. L. 100–241, §17, Feb. 3, 1988, 101 Stat. 1814, provided that:
 
 “(a) No provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\], exercise of authority pursuant to this Act, or change made by, or pursuant to, this Act in the status of land shall be construed to validate or invalidate or in any way affect—
 
-&emsp;“(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
+&emsp;“(1) any assertion that a Native organization (including a federally recognized tribe, traditional Native council, or Native council organized pursuant tothe Act of June 18, 1934 (48 Stat. 987), as amended \[25 U.S.C. 461 et seq.\]) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska, or
 
 &emsp;“(2) any assertion that Indian country (as defined by 18 U.S.C. 1151 or any other authority) exists or does not exist within the boundaries of the State of Alaska.
 

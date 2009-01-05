@@ -18,7 +18,7 @@ It shall be unlawful for—
 
 As used in this section, the term “foreign national” means—
 
-&emsp;(1) a foreign principal, as such term is defined by section 611(b) of title 22, except thatthe term “foreign national” shall not include any individual who is a citizen of the United States; or
+&emsp;(1) a foreign principal, as such term is defined by section 611(b) of title 22, except that the term “foreign national” shall not include any individual who is a citizen of the United States; or
 
 &emsp;(2) an individual who is not a citizen of the United States or a national of the United States (as defined in section 1101(a)(22) of title 8) and who is not lawfully admitted for permanent residence, as defined by section 1101(a)(20) of title 8.
 

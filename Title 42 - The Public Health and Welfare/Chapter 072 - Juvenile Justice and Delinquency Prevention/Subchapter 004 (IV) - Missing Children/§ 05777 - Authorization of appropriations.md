@@ -2,19 +2,21 @@
 
 #### (a) In general
 
-To carry out the provisions of this subchapter, there are authorized to be appropriated such sums as may be necessary for fiscal years 2004 through 2008.
+To carry out the provisions of this subchapter, there are authorized to be appropriated such sums as may be necessary for fiscal years 2008 through 2013.
 
 #### (b) Evaluation
 
 The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) of this section to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
-(Pub. L. 93–415, title IV, §408, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2129; renumbered §407 and amended Pub. L. 100–690, title VII, §§7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, §1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, §4, Nov. 4, 1992, 106 Stat. 5027; renumbered §408, Pub. L. 103–322, title XVII, §170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, §231(a), Oct. 3, 1996, 110 Stat. 3092; Pub. L. 106–71, §2(e), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–21, title III, §321(a), Apr. 30, 2003, 117 Stat. 664; Pub. L. 108–96, title II, §202(b), Oct. 10, 2003, 117 Stat. 1172.)
+(Pub. L. 93–415, title IV, §407, formerly §408, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2129; renumbered §407 and amended Pub. L. 100–690, title VII, §§7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, §1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, §4, Nov. 4, 1992, 106 Stat. 5027; renumbered §408, Pub. L. 103–322, title XVII, §170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, §231(a), Oct. 3, 1996, 110 Stat. 3092; Pub. L. 106–71, §2(e), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–21, title III, §321(a), Apr. 30, 2003, 117 Stat. 664; Pub. L. 108–96, title II, §202(b), Oct. 10, 2003, 117 Stat. 1172; renumbered §407 and amended Pub. L. 110–240, §§4, 5(2), June 3, 2008, 122 Stat. 1563, 1564.)
 
 #### Prior Provisions
 
 A prior section 408 of Pub. L. 93–415 was renumbered section 409 and was classified to section 5778 of this title prior to repeal by Pub. L. 104–235.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–240, §4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
 
 2003—Subsec. (a). Pub. L. 108–96 substituted “2008” for “2005.”
 
@@ -33,8 +35,4 @@ Pub. L. 108–21 substituted “fiscal years 2004 through 2005.” for “fiscal
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 5601 of this title.
-
-#### Repeals
-
-Pub. L. 103–322, title XVII, §170303(1), Sept. 13, 1994, 108 Stat. 2043, cited as a credit to this section, which renumbered this section as section 408 of Pub. L. 93–415, was repealed by Pub. L. 105–314, title VII, §703(g), Oct. 30, 1998, 112 Stat. 2989.
 

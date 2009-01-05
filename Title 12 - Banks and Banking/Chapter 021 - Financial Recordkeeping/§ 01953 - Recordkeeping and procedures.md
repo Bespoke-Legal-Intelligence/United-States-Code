@@ -26,7 +26,7 @@ Section 1724 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 2004—Subsec. (a). Pub. L. 108–458 made technical correction to Pub. L. 107–56. See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–56, as amended by Pub. L. 108–458, amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such bank, institution, or person—”.
+2001—Subsec. (a). Pub. L. 107–56, as amended by Pub. L. 108–458, amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations orproceedings, he may by regulation require such bank, institution, or person—”.
 
 1994—Subsec. (c). Pub. L. 103–325 added subsec. (c).
 

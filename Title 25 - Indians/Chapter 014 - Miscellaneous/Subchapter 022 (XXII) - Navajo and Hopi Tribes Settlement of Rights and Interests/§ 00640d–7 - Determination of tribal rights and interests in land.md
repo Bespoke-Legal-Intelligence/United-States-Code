@@ -6,7 +6,7 @@ Either tribe, acting through the chairman of its tribal council for and on behal
 
 #### (b) Allocation of land to respective reservations upon determination of interests
 
-Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by the District Court to have the exclusive interest shall continue to be a part of the Navajo Reservation. Lands, if any, in which the Hopi Tribe, including any Hopi village or clan thereof, or Hopi individuals are determined by the District Court to have the exclusive interest shall thereafter be a reservation for the Hopi Tribe. Any lands in which the Navajo and Hopi Tribes or Navajo or Hopi individuals are determined to have a jointor undivided interest shall be partitioned by the District Court on the basis of fairness and equity and the area so partitioned shall be retained in the Navajo Reservation or added to the Hopi Reservation, respectively.
+Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by the District Court to have the exclusive interest shall continue to be a part of the Navajo Reservation. Lands, if any, in which the Hopi Tribe, including any Hopi village or clan thereof, or Hopi individuals are determined by the District Court to have the exclusive interest shall thereafter be a reservation for the Hopi Tribe. Any lands in which the Navajo and Hopi Tribes or Navajo or Hopi individuals are determined to have a joint or undivided interest shall be partitioned by the District Court on the basis of fairness and equity and the area so partitioned shall be retained in the Navajo Reservation or added to the Hopi Reservation, respectively.
 
 #### (c) Actions for accounting, fair value of grazing, and claims for damages to land; determination of recovery; defenses
 

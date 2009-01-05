@@ -6,7 +6,7 @@ Contractual Provisions.—The Secretary of the Navy shall ensure that each contr
 
 &emsp;(1)
 
-Identification of hazardous wastes.—A provision in which the Navy identifies the types and amounts of hazardous wastes that are required to be removed by the contractor from the vessel, or that are expected to begenerated, during the performance of work under the contract, with such identification by the Navy to be in a form sufficient to enable the contractor to comply with Federal and State laws and regulations on the removal, handling, storage, transportation, or disposal of hazardous waste.
+Identification of hazardous wastes.—A provision in which the Navy identifies the types and amounts of hazardous wastes that are required to be removed by the contractor from the vessel, or that are expected to be generated, during the performance of work under the contract, with such identification by the Navy to be in a form sufficient to enable the contractor to comply with Federal and State laws and regulations on the removal, handling, storage, transportation, or disposal of hazardous waste.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ Accountability for hazardous wastes.—(A) A provision specifying the following:
 
 &emsp;&emsp;(i) In any case in which the Navy is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the Navy pursuant to applicable law.
 
-&emsp;&emsp;(ii) In any case in which the contractor is the sole generator of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the contractor pursuant to applicable law.
+&emsp;&emsp;(ii) In any case in which the contractor is the sole generator of hazardous waste that isremoved, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear a generator identification number issued to the contractor pursuant to applicable law.
 
 &emsp;&emsp;(iii) In any case in which both the Navy and the contractor are generators of hazardous waste that is removed, handled, stored, transported, or disposed of by the contractor in the performance of the contract, all contracts, manifests, invoices, and other documents related to the removal, handling, storage, transportation, or disposal of such hazardous waste shall bear both a generator identification number issued to the Navy and a generator identification number issued to the contractor pursuant to applicable law.
 

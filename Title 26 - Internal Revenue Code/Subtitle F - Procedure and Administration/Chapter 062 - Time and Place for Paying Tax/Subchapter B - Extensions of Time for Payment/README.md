@@ -15,7 +15,7 @@
 
 #### Amendments
 
-1981—Pub. L. 97–34, title IV, §422(e)(5)(C), Aug. 13, 1981, 95 Stat. 316, substituted in item 6166 “Extension oftime” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
+1981—Pub. L. 97–34, title IV, §422(e)(5)(C), Aug. 13, 1981, 95 Stat. 316, substituted in item 6166 “Extension of time” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
 
 1976—Pub. L. 94–455, title XIX, §1906(b)(4), title XX, §2004(f)(5), Oct. 4, 1976, 90 Stat. 1833, 1872, struck out item 6162 “Extension of time for payment of tax on gain attributable to liquidation of personal holding companies”, added item 6166, and renumbered former item 6166 as 6166A.
 

@@ -26,7 +26,7 @@
 
 (b) Section 5941 of title 5 shall apply to the Postal Service. For purposes of such section, the pay of officers and employees of the Postal Service shall be considered to be fixed by statute, and the basic pay of an employee shall be the pay (but not any allowance or benefit) of that officer or employee established in accordance with the provisions of this title.
 
-(c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
+(c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81of title 5, relating to compensation for work injuries.
 
 (d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
@@ -74,7 +74,7 @@ Section 3 of Pub. L. 93–349 provided that: “The effective date of this Act \
 
 #### Effective Date
 
-Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Transfer of Functions
 

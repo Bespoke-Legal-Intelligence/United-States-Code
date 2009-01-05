@@ -12,7 +12,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (A) In general
 
-&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy,devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
+&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
 
 &emsp;&emsp;&emsp;(i) to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
@@ -146,5 +146,5 @@ Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by sub
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec.19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 

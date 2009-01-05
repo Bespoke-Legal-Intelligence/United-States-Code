@@ -42,7 +42,7 @@ Official certificates setting out the results of official inspection issued and 
 
 &emsp;&emsp;(v) will not charge official inspection fees that are discriminatory or unreasonable;
 
-&emsp;&emsp;(vi) if a State or local governmental agency, will not use any moneys collected pursuant to the charging of fees for any purpose other than the maintenance of the official inspection operation of the State or local governmental agency;
+&emsp;&emsp;(vi) if a State or local governmental agency, will not use any moneys collected pursuant to the charging of fees for any purpose other than the maintenance of the officialinspection operation of the State or local governmental agency;
 
 &emsp;&emsp;(vii) and any related entities do not have a conflict of interest prohibited by section 87 of this title;
 
@@ -88,7 +88,7 @@ If the Secretary determines that official inspection by an official agency desig
 
 #### (i) Official inspections in Canadian ports
 
-The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
+The Secretary is authorized to cause official inspection under this chapter to be made, asprovided in subsection (a) of section 77 of this title, in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 
 #### (j) Fees; establishment, amount, payment, etc.
 
@@ -104,7 +104,7 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Exceptfor title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 
@@ -116,7 +116,7 @@ Section as originally enacted was composed of part of section 7 of part B of act
 
 2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency tocarry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
 
 Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted “2005” for “2000” in first sentence.
 
@@ -170,7 +170,7 @@ Subsec. (c). Pub. L. 94–582, §8(1), (3), formerly §8(a)(1), (3), as renumber
 
 Subsec. (d). Pub. L. 94–582, §8(4), formerly §8(a)(4), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
 
-Subsec. (e). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrativecosts, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
+Subsec. (e). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
 
 Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
 
@@ -180,7 +180,7 @@ Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The amendments made by subsection (a) \[amending this section and sections 79a, 79d, 87h, and 87j of this title\] take effect on September 30, 2005.”
+Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The amendments made by subsection (a)\[amending this section and sections 79a, 79d, 87h, and 87j of this title\] take effect on September 30, 2005.”
 
 #### Effective Date of 2000 Amendment
 

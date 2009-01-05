@@ -24,7 +24,7 @@ The Import Milk Act of February 15, 1927, referred to in subsec. (b), is act Feb
 
 #### Codification
 
-Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 902 of act June 25, 1938. Subsecs. (a) and (d) of section 902 of act June 25, 1938, which prescribed the effective date of this chapter and made appropriations available, are set out as notes under section 301 of this title and this section, respectively.
+Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 902 of act June 25, 1938. Subsecs. (a) and (d) of section 902 of act June 25, 1938, which prescribed the effective date of this chapterand made appropriations available, are set out as notes under section 301 of this title and this section, respectively.
 
 #### Amendments
 

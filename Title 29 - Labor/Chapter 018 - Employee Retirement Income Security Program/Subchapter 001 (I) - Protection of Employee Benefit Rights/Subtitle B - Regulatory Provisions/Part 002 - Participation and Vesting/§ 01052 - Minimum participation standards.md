@@ -6,7 +6,7 @@
 
 &emsp;(ii) the date on which he completes 1 year of service.
 
-(B)(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (ii)of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
+(B)(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
 (ii) In the case of any plan maintained exclusively for employees of an educational organization (as defined in section 170(b)(1)(A)(ii) of title 26) by an employer which is exempt from tax under section 501(a) of title 26, which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
@@ -14,7 +14,7 @@
 
 (3)(A) For purposes of this section, the term “year of service” means a 12-month period during which the employee has not less than 1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, in accordance with regulations prescribed by the Secretary, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
 
-(B) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
+(B) In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary.
 
 (C) For purposes of this section, the term “hour of service” means a time of service determined under regulations prescribed by the Secretary.
 
@@ -66,7 +66,7 @@
 
 (C) The hours described in subparagraph (B) shall be treated as hours of service as provided in this paragraph—
 
-&emsp;(i) only in the year in which the absence from work begins, if a participant would beprevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in subparagraph (A); or
+&emsp;(i) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in subparagraph (A); or
 
 &emsp;(ii) in any other case, in the immediately following year.
 

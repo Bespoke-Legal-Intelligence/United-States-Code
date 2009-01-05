@@ -132,7 +132,7 @@ Production of materials.—Any person upon whom any civil investigative demand f
 
 (g)
 
-Interrogatories.—Each interrogatory in a civil investigative demand served under this section shall be answered separately and fully in writing under oath and shall be submitted undera sworn certificate, in such form as the demand designates, by—
+Interrogatories.—Each interrogatory in a civil investigative demand served under this section shall be answered separately and fully in writing under oath and shall be submitted under a sworn certificate, in such form as the demand designates, by—
 
 &emsp;(1) in the case of a natural person, the person to whom the demand is directed, or
 
@@ -202,7 +202,7 @@ Responsibility for materials; disclosure.—(A) A false claims law investigator 
 
 &emsp;(3)
 
-Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
+Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice hasbeen designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
 
 &emsp;(4)
 
@@ -222,7 +222,7 @@ Appointment of successor custodians.—In the event of the death, disability, or
 
 &emsp;&emsp;(B) transmit in writing to the person who produced such material, answers, or testimony notice of the identity and address of the successor so designated.
 
-> &emsp;Any person who is designated to be a successor under this paragraph shall have, with regardto such material, answers, or transcripts, the same duties and responsibilities as were imposed by this section upon that person's predecessor in office, except that the successor shall not be held responsible for any default or dereliction which occurred before that designation.
+> &emsp;Any person who is designated to be a successor under this paragraph shall have, with regard to such material, answers, or transcripts, the same duties and responsibilities as were imposed by this section upon that person's predecessor in office, except that the successor shall not be held responsible for any default or dereliction which occurred before that designation.
 
 (j)
 
@@ -276,7 +276,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(A) this section and sections 3729 through 3732; and
 
-&emsp;&emsp;(B) any Act of Congress enacted after the date of the enactment of this section whichprohibits, or makes available to the United States in any court of the United States any civil remedy with respect to, any false claim against, bribery of, or corruption of any officer or employee of the United States;
+&emsp;&emsp;(B) any Act of Congress enacted after the date of the enactment of this section which prohibits, or makes available to the United States in any court of the United States any civil remedy with respect to, any false claim against, bribery of, or corruption of any officer or employee of the United States;
 
 &emsp;(2) the term “false claims law investigation” means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
 

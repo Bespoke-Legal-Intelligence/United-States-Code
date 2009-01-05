@@ -60,7 +60,7 @@
 
 (2) A release of information under paragraph (1) of this subsection may be made for the purpose of—
 
-&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submitted an offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
+&emsp;(A) determining the creditworthiness, credit capacity, income, or financial resources of a person who has (i) applied for any benefit under chapter 37 of this title, or (ii) submittedan offer to the Secretary for the purchase of property acquired by the Secretary under section 3720(a)(5) of this title;
 
 &emsp;(B) verifying, either before or after the Secretary has approved a person's application for assistance in the form of a loan guaranty or loan insurance under chapter 37 of this title, information submitted by a lender to the Secretary regarding the creditworthiness, credit capacity, income, or financial resources of such person;
 
@@ -108,7 +108,7 @@
 
 (2) In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act (42 U.S.C. 273(b)).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered§5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, §204(a), Dec. 22, 2006, 120 Stat. 3411.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, §204(a), Dec. 22, 2006, 120 Stat. 3411.)
 
 #### References in Text
 

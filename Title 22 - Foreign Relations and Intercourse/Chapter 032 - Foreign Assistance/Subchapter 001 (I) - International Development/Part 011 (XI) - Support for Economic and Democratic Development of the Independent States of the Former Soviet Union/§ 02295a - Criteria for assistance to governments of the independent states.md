@@ -10,7 +10,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
-&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of the Conference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
+&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of theConference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
 
 &emsp;(5) cooperate in seeking peaceful resolution of ethnic and regional conflicts;
 

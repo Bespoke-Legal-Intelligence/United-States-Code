@@ -2,7 +2,7 @@
 
 (a) Compensation under this chapter and dependency and indemnity compensation under chapter 13 of this title shall be awarded for a qualifying additional disability or a qualifying death of a veteran in the same manner as if such additional disability or death were service-connected. For purposes of this section, a disability or death is a qualifying additional disability or qualifying death if the disability or death was not the result of the veteran's willful misconduct and—
 
-&emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by aDepartment employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
+&emsp;(1) the disability or death was caused by hospital care, medical or surgical treatment, or examination furnished the veteran under any law administered by the Secretary, either by a Department employee or in a Department facility as defined in section 1701(3)(A) of this title, and the proximate cause of the disability or death was—
 
 &emsp;&emsp;(A) carelessness, negligence, lack of proper skill, error in judgment, or similar instance of fault on the part of the Department in furnishing the hospital care, medical or surgical treatment, or examination; or
 

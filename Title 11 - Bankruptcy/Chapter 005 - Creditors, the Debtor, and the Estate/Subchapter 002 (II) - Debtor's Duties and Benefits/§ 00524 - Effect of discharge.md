@@ -76,7 +76,7 @@
 
 &emsp;(i) the injunction is to be implemented in connection with a trust that, pursuant to the plan of reorganization—
 
-&emsp;&emsp;(I) is to assume the liabilities of a debtor which at the time of entry of the order for relief has been named as a defendant in personal injury, wrongful death, or property-damage actions seeking recovery for damages allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products;
+&emsp;&emsp;(I) is to assume the liabilities of a debtor which at the time of entry of the order forrelief has been named as a defendant in personal injury, wrongful death, or property-damage actions seeking recovery for damages allegedly caused by the presence of, or exposure to, asbestos or asbestos-containing products;
 
 &emsp;&emsp;(II) is to be funded in whole or in part by the securities of 1 or more debtors involved in such plan and by the obligation of such debtor or debtors to make future payments, including dividends;
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(cc) a predecessor in interest of the debtor.
 
-(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after suchplan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
+(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
 &emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
@@ -246,7 +246,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(i) by making the statement: “Your first payment in the amount of $\_\_\_\_\_\_ is due on \_\_\_\_\_\_ but the future payment amount may be different. Consult your reaffirmation agreement or credit agreement, as applicable.”, and stating the amount of the first payment and the due date of that payment in the places provided;
 
-&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed to the extent then known by the disclosing party; or
+&emsp;&emsp;(ii) by making the statement: “Your payment schedule will be:”, and describing the repayment schedule with the number, amount, and due dates or period of payments scheduled to repay the debts reaffirmed tothe extent then known by the disclosing party; or
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 

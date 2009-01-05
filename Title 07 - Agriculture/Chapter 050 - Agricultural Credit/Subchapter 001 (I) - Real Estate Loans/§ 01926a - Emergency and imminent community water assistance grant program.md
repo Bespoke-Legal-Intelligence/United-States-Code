@@ -76,7 +76,7 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (1) Nationally competitive application process
 
-&emsp;The Secretary shall develop a nationally competitive application process to awardgrants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
+&emsp;The Secretary shall develop a nationally competitive application process to award grants under this section. The process shall include criteria for evaluating applications, including population, median household income, and the severity of the decline, or imminent decline, in quantity or quality of water.
 
 #### (2) Timing of review of applications
 
@@ -106,19 +106,25 @@ Subject to subsection (e) of this section, grants under this section shall be ma
 
 #### (2) Authorization of appropriations
 
-&emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2003 through 2007.
+&emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2008 through 2012.
 
-(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356.)
+(Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924.)
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to theCode, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 For definition of “this chapter”, referred to in subsec. (h)(2)(B), see note set out under section 1921 of this title.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (i)(2). Pub. L. 110–246, §6008, substituted “2008 through 2012” for “2003 through 2007”.
 
 2002—Pub. L. 107–171, §6009(1), inserted “and imminent” before “community water assistance” in section catchline.
 
@@ -145,6 +151,10 @@ Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out head
 Subsec. (e)(2). Pub. L. 104–127, §742(1)(B), substituted “3,000” for “5,000”.
 
 Subsec. (i). Pub. L. 104–127, §742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Implementation
 

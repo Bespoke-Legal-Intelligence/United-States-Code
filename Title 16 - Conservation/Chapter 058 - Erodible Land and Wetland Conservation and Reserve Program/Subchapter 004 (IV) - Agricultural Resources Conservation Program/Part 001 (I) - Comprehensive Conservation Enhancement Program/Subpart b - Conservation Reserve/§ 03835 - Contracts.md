@@ -48,9 +48,11 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 &emsp;&emsp;&emsp;(i) to carry out this subpart;
 
-&emsp;&emsp;&emsp;(ii) to facilitate the practical administration of this subpart; or
+&emsp;&emsp;&emsp;(ii) to facilitate the practical administration of this subpart;
 
-&emsp;&emsp;&emsp;(iii) to achieve such other goals as the Secretary determines are appropriate, consistent with this subpart.
+&emsp;&emsp;&emsp;(iii) to facilitate a transition of land subject to the contract from a retired or retiring owner or operator to a beginning farmer or rancher or socially disadvantaged farmer or rancher for the purpose of returning some or all of the land into production using sustainable grazing or crop production methods; or
+
+&emsp;&emsp;&emsp;(iv) to achieve such other goals as the Secretary determines are appropriate, consistent with this subpart.
 
 #### (2) Production of agricultural commodities
 
@@ -112,13 +114,65 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 &emsp;If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
 
-(Pub. L. 99–198, title XII, §1235, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 249.)
+#### (f) Transition option for certain farmers or ranchers
+
+#### (1) Duties of the Secretary
+
+&emsp;In the case of a contract modification approved in order to facilitate the transfer, as described in subsection (c)(1)(B)(iii), of land to a beginning farmer or rancher or socially disadvantaged farmer or rancher (in this subsection referred to as a “covered farmer or rancher”), the Secretary shall—
+
+&emsp;&emsp;(A) beginning on the date that is 1 year before the date of termination of the contract—
+
+&emsp;&emsp;&emsp;(i) allow the covered farmer or rancher, in conjunction with the retired or retiring owner or operator, to make conservation and land improvements; and
+
+&emsp;&emsp;&emsp;(ii) allow the covered farmer or rancher to begin the certification process under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.);
+
+&emsp;&emsp;(B) beginning on the date of termination of the contract, require the retired or retiring owner or operator to sell or lease (under a long-term lease or a lease with an option to purchase) to the covered farmer or rancher the land subject to the contract for production purposes;
+
+&emsp;&emsp;(C) require the covered farmer or rancher to develop and implement a conservation plan;
+
+&emsp;&emsp;(D) provide to the covered farmer or rancher an opportunity to enroll in the conservation stewardship program or the environmental quality incentives program by not later than the date on which the farmer or rancher takes possession of the land through ownership or lease; and
+
+&emsp;&emsp;(E) continue to make annual payments to the retired or retiring owner or operator for not more than an additional 2 years after the date of termination of the contract, if the retired or retiring owner or operator is not a family member (as defined in section 1308–1(b)(3)(B) <sup>1</sup> of title 7) of the covered farmer or rancher.
+
+#### (2) Reenrollment
+
+&emsp;The Secretary shall provide a covered farmer or rancher with the option to reenroll any applicable partial field conservation practice that—
+
+&emsp;&emsp;(A) is eligible for enrollment under the continuous signup requirement of section 3831(h)(4)(B) <sup>1</sup> of this title; and
+
+&emsp;&emsp;(B) is part of an approved conservation plan.
+
+(Pub. L. 99–198, title XII, §1235, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 249; amended Pub. L. 110–234, title II, §2111, May 22, 2008, 122 Stat. 1035; Pub. L. 110–246, §4(a), title II, §2111, June 18, 2008, 122 Stat. 1664, 1763.)
+
+#### References in Text
+
+The Organic Foods Production Act of 1990, referred to in subsec. (f)(1)(A)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+
+Section 1308–1 of title 7, referred to in subsec. (f)(1)(E), was amended by Pub. L. 110–246, title I, §1603(d), June 18, 2008, 122 Stat. 1736, and, as so amended, no longer contains a subsec. (b)(3)(B) or provisions defining “family member”.
+
+Section 3831 of this title, referred to in subsec. (f)(2)(A), was amended by Pub. L. 110–246, title II, §2106(a)(2), June 18, 2008, 122 Stat. 1759, and, as so amended, no longer contains a subsec. (h)(4)(B) or provisions relating to a continuous signup requirement.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 3835, Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994, related to contracts, prior to the general amendment of this subpart by Pub. L. 107–171.
 
+#### Amendments
+
+2008—Subsec. (c)(1)(B)(iii), (iv). Pub. L. 110–246, §2111(a), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (f). Pub. L. 110–246, §2111(b), added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Conservation Reserve
 
 Pub. L. 100–45, §10, May 27, 1987, 101 Stat. 323, provided that: “Section 1235(a) of the Food Security Act of 1985 \[16 U.S.C. 3835(a)\] should be reviewed by the Secretary of Agriculture to ensure that the provisions thereof relating to exceptions to the three-year ownership requirement with respect to eligibility for the conservation reserve are being implemented in a manner to encourage inclusion of producer-owned land in the conservation reserve. However, any such exception to the three-year requirement should be made only if the Secretary determines that the land involved (1) was not acquired for the purpose of placing the land in the conservation reserve or (2) otherwise meets the criteria for exceptions made under section 1235(a).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

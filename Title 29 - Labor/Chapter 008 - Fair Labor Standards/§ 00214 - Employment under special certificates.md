@@ -2,7 +2,7 @@
 
 #### (a) Learners, apprentices, messengers
 
-The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by regulations or by orders provide for the employment of learners, of apprentices, and of messengers employed primarily in delivering letters and messages, under special certificates issued pursuant to regulations of the Secretary, at such wages lower thanthe minimum wage applicable under section 206 of this title and subject to such limitations as to time, number, proportion, and length of service as the Secretary shall prescribe.
+The Secretary, to the extent necessary in order to prevent curtailment of opportunities for employment, shall by regulations or by orders provide for the employment of learners, of apprentices, and of messengers employed primarily in delivering letters and messages, under special certificates issued pursuant to regulations of the Secretary, at such wages lower than the minimum wage applicable under section 206 of this title and subject to such limitations as to time, number, proportion, and length of service as the Secretary shall prescribe.
 
 #### (b) Students
 
@@ -30,7 +30,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 > &emsp;whichever is greater; or
 
-&emsp;(iii) in the case of a retail or service establishment for which records of student hours worked are not available, the proportion of student hours of employment to the total hours of employment of all employees based on the practice during the immediately preceding twelve-month period in (I) similar establishments of the same employer in the same general metropolitan area in which such establishment is located, (II) similar establishments of the same or nearby communities if such establishment is not in a metropolitan area, or (III) other establishments of the same general character operating in the community or the nearest comparable community.
+&emsp;(iii) in the case of a retail or service establishment for which records of student hours worked are not available, the proportion ofstudent hours of employment to the total hours of employment of all employees based on the practice during the immediately preceding twelve-month period in (I) similar establishments of the same employer in the same general metropolitan area in which such establishment is located, (II) similar establishments of the same or nearby communities if such establishment is not in a metropolitan area, or (III) other establishments of the same general character operating in the community or the nearest comparable community.
 
 > For purpose of clauses (i), (ii), and (iii) of this subparagraph, the term “student hours of employment” means hours during which students are employed in a retail or service establishment under certificates issued under this subsection.
 
@@ -88,7 +88,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(i) the productivity of the employee or employees identified in the petition and the conditions under which such productivity was measured; and
 
-&emsp;(ii) the productivity of other employees performing work of essentially the same type andquality for other employers in the same vicinity.
+&emsp;(ii) the productivity of other employees performing work of essentially the same type and quality for other employers in the same vicinity.
 
 (E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants a request to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
 

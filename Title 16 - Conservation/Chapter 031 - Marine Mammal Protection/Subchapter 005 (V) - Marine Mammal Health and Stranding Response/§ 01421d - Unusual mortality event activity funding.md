@@ -22,7 +22,7 @@ There is established in the Treasury an interest bearing fund to be known as the
 
 #### (2) Pending claims
 
-&emsp;If sufficient amounts are not available in the Fund to satisfy any authorized pending claim, such claim shall remain pending until such time as sufficient amounts are available. All authorized pending claims shall be satisfied in the order received.
+&emsp;If sufficient amounts are not available in the Fund to satisfy any authorized pending claim, such claim shall remain pending until such time as sufficient amounts are available. Allauthorized pending claims shall be satisfied in the order received.
 
 #### (c) Deposits into Fund
 

@@ -56,7 +56,7 @@ Section 494 of title IV of Pub. L. 101–382 provided that: “Except as otherwi
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–83, title VI, §601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title \[amending sections 620b to 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
+Pub. L. 105–83, title VI, §601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title \[amending sections 620bto 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
 
 #### Short Title of 1993 Amendment
 

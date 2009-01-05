@@ -26,7 +26,7 @@ The Commissioner of Customs shall consult with appropriate officials of the Stat
 
 The Center shall conduct the following activities:
 
-&emsp;(1) Provide forums for international discussion and debate for representatives from countries in the Western Hemisphere regarding issues which affect trade and other economic relations within the hemisphere, including the impact of the NAFTA on individual economies and the desirability and feasibility of possible accessions to the NAFTA by such countries.
+&emsp;(1) Provide forums for international discussion and debate for representatives from countries in the Western Hemisphere regarding issues which affect trade and other economic relations within the hemisphere, including theimpact of the NAFTA on individual economies and the desirability and feasibility of possible accessions to the NAFTA by such countries.
 
 &emsp;(2) Conduct studies and research projects on subjects which affect Western Hemisphere trade, including tariffs, customs, regional and national economics, business development and finance, production and personnel management, manufacturing, agriculture, engineering, transportation, immigration, telecommunications, medicine, science, urban studies, border demographics, social anthropology, and population.
 

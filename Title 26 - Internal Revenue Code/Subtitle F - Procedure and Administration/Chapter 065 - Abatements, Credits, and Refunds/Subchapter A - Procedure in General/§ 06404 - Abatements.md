@@ -28,7 +28,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;In the case of any assessment of interest on—
 
-&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the InternalRevenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
+&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
 
 &emsp;&emsp;(B) any payment of any tax described in section 6212(a) to the extent that any unreasonable error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial or managerial act,
 
@@ -78,7 +78,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;This paragraph shall be applied separately with respect to each item or adjustment.
 
-> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
+> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of taxfor the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
 
 #### (2) Exceptions
 
@@ -224,7 +224,7 @@ Participants in settlement initiatives.—Clause (i) shall not apply to any tran
 
 &emsp;&emsp;&emsp;“(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
 
-&nbsp;&nbsp;Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiativeor the Secretary of the Treasury or the Secretary's delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
+&nbsp;&nbsp;Subclause (I) shall not apply to any taxpayer if, after January 23, 2006, the taxpayer withdraws from, or terminates, participation in the initiative or the Secretary of the Treasury or the Secretary's delegate determines that a settlement agreement will not be reached pursuant to the initiative within a reasonable period of time.
 
 &emsp;&emsp;“(iii)
 

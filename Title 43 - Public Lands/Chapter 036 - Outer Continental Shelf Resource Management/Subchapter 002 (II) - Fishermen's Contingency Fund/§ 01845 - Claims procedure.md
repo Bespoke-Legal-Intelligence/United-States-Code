@@ -66,7 +66,7 @@ Section 1847 of this title, referred to in subsec. (f)(2), was repealed by Pub. 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
+1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that nosuch claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
 
 Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
 
@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 97–212, §5(4), substituted provisions that if the decisi
 
 Subsec. (f). Pub. L. 97–212, §5(5), substituted “the Secretary” for “hearing examiner” and “proceeding” for “hearing” wherever appearing. The amendment which directed the substitution of “the Secretary” for “hearing examiner” was executed by substituting “the Secretary” for “the hearing examiner”, as the probable intent of Congress, to avoid repeating the article “the” before “Secretary” in two places.
 
-Subsec. (g). Pub. L. 97–212, §5(6), substituted “Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located” for “A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, inany of the affected districts, or, if such matter occurred outside of any district, in the nearest district”.
+Subsec. (g). Pub. L. 97–212, §5(6), substituted “Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located” for “A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district”.
 
 Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amount awarded in an initial determination by the Secretary under subsec. (d) be immediately disbursed by the Secretary if the claimant states in writing that he will not petition for review of the initial determination and he enters into an agreement with the Secretary to repay to the Secretary all or any part of the award that is not sustained upon later judicial review for provisions that upon a decision of the hearing examiner and in absence of judicial review, any amount to be paid would be certified to the Secretary who would promptly disburse the award and that such decision of the hearing examiner was not reviewable by the Secretary.
 

@@ -9,6 +9,9 @@
 | [1803\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001803%20-%20Financial%20assistance%20to%20Government%20of%20Northern%20Mariana%20Islands.md) | Financial assistance to Government of Northern Mariana Islands. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001804%20-%20Direct%20grant%20assistance.md) | Direct grant assistance. |
 | [1805\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001805%20-%20Failure%20to%20meet%20performance%20standards%3B%20resolution%20of%20issues%3B%20withholding%20of%20funds.md) | Failure to meet performance standards; resolution of issues; withholding of funds. |
+| [1806\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001806%20-%20Immigration%20and%20transition.md) | Immigration and transition. |
+| [1807\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001807%20-%20Technical%20assistance%20program.md) | Technical assistance program. |
+| [1808\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%20Covenant%20and%20Supplemental%20Provisions/%C2%A7%2001808%20-%20Operations.md) | Operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

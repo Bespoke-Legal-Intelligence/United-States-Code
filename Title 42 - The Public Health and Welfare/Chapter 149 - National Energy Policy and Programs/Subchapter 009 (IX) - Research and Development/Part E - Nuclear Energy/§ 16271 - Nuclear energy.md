@@ -12,7 +12,7 @@ The Secretary shall conduct programs of civilian nuclear energy research, develo
 
 &emsp;(4) Maintaining National Laboratory and university nuclear programs, including their infrastructure.
 
-&emsp;(5) Supporting both individual researchers and multidisciplinary teams of researchers topioneer new approaches in nuclear energy, science, and technology.
+&emsp;(5) Supporting both individual researchers and multidisciplinary teams of researchers to pioneer new approaches in nuclear energy, science, and technology.
 
 &emsp;(6) Developing, planning, constructing, acquiring, and operating special equipment and facilities for the use of researchers.
 

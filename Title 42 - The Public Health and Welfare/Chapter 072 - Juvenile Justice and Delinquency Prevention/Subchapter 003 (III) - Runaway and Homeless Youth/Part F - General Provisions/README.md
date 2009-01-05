@@ -24,6 +24,7 @@ Pub. L. 100–690, title VII, §§7272(2), 7273(e)(1), Nov. 18, 1988, 102 Stat. 
 - [&sect; 05731 - Restrictions on disclosure and transfer](%C2%A7%2005731%20-%20Restrictions%20on%20disclosure%20and%20transfer.md)
 - [&sect; 05731a - Consolidated review of applications](%C2%A7%2005731a%20-%20Consolidated%20review%20of%20applications.md)
 - [&sect; 05732 - Evaluation and information](%C2%A7%2005732%20-%20Evaluation%20and%20information.md)
+- [&sect; 05732&#8211;1 - Performance standards](%C2%A7%2005732%E2%80%931%20-%20Performance%20standards.md)
 - [&sect; 05732a - Definitions](%C2%A7%2005732a%20-%20Definitions.md)
 - [&sect; 05733 - Repealed. Pub. L. 102&#8211;586, &sect;3(g)(2)(E), Nov. 4, 1992, 106 Stat. 5025](%C2%A7%2005733%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93586%2C%20%C2%A73%28g%29%282%29%28E%29%2C%20Nov.%204%2C%201992%2C%20106%20Stat.%205025.md)
 - [&sect; 05741 - Repealed. Pub. L. 98&#8211;473, title II, &sect;656, Oct. 12, 1984, 98 Stat. 2124](%C2%A7%2005741%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7656%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202124.md)

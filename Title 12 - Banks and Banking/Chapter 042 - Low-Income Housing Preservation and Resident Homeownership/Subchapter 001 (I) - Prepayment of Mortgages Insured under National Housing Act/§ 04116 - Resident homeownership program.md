@@ -24,7 +24,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (2) Approval of method of conversion and limitation on conditions of approval
 
-&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
+&emsp;The Secretary shall approve the method for converting the housing to homeownership,which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
 
 #### (3) Required conditions
 
@@ -88,7 +88,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (B) Rental assistance
 
-&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use byeach otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A) of title 42 shall not apply to the provision of assistance to such families.
+&emsp;&emsp;If a tenant decides not to purchase a unit, or is not qualified to do so, the Secretary shall ensure that rental assistance under section 1437f of title 42 is available for use by each otherwise qualified tenant (that meets the eligibility requirements under such section) in that or another property. Any system for preferences established under section 1437f(d)(1)(A) or 1437f(<i>o</i>)(6)(A) of title 42 shall not apply to the provision of assistance to such families.
 
 #### (C) Relocation assistance
 

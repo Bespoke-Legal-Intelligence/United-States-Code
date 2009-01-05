@@ -18,9 +18,9 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(A) The total amount of the resources (as determined under section 1382b of this title) of such sponsor and such sponsor's spouse (if such spouse is living with the sponsor) shall be determined.
 
-&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
+&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equalto (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
-&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs\(A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
+&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs (A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
 
 #### (c) Support and maintenance
 

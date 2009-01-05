@@ -48,5 +48,5 @@ Subsec. (b)(2). Pub. L. 106–513, §19(b)(5), made technical amendment to refer
 
 1996—Pub. L. 104–283, §9(f), made technical amendment to directory language of Pub. L. 102–587, §2112, which added this section.
 
-Subsec. (e)(3). Pub. L. 104–283, §5, inserted before period at end “, except that in the case of a meeting ofan Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
+Subsec. (e)(3). Pub. L. 104–283, §5, inserted before period at end “, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register”.
 

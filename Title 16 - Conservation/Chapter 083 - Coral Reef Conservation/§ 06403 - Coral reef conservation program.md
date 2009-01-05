@@ -8,7 +8,7 @@ The Secretary, through the Administrator and subject to the availability of fund
 
 #### (1) Fifty percent
 
-&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project underthis section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
+&emsp;Except as provided in paragraph (2), Federal funds for any coral conservation project under this section may not exceed 50 percent of the total cost of such project. For purposes of this paragraph, the non-Federal share of project costs may be provided by in-kind contributions and other noncash support.
 
 #### (2) Waiver
 
@@ -58,7 +58,7 @@ Each proposal for a grant under this section shall include the following:
 
 &emsp;Not later than 6 months after receiving a project proposal under this section, the Administrator shall—
 
-&emsp;&emsp;(A) request and consider written comments on the proposal from each Federal agency, State government, or other government jurisdiction, including the relevant regional fishery management councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or any National Marine Sanctuary, with jurisdiction or management authority over coral reef ecosystems in the area where the project is to be conducted, including the extent to which the project is consistent with locally-established priorities;
+&emsp;&emsp;(A) request and consider written comments on the proposal from each Federal agency, State government, or other government jurisdiction, including the relevant regional fishery management councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), or any National MarineSanctuary, with jurisdiction or management authority over coral reef ecosystems in the area where the project is to be conducted, including the extent to which the project is consistent with locally-established priorities;
 
 &emsp;&emsp;(B) provide for the merit-based peer review of the proposal and require standardized documentation of that peer review;
 

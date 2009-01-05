@@ -146,7 +146,7 @@ Section 1. <i>Assignment of Functions</i>. (a) The functions of the President un
 
 (c) Procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act shall apply to all agencies of the Federal Government. Such procedures shall specify that the President may make, or may authorize another officer of the United States to make, exceptions to the procedures.
 
-(d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of National Intelligence, to be exercised jointly.
+(d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney Generaland the Director of National Intelligence, to be exercised jointly.
 
 (e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
 

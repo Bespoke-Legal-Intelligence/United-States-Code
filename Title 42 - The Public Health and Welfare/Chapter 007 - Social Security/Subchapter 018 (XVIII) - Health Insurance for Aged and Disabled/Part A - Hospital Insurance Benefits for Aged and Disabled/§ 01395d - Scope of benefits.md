@@ -10,7 +10,7 @@ The benefits provided to an individual by the insurance program under this part 
 
 &emsp;(3) in the case of individuals not enrolled in part B of this subchapter, home health services, and in the case of individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness;
 
-&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during upto two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section; and
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section; and
 
 &emsp;(5) for individuals who are terminally ill, have not made an election under subsection (d)(1) of this section, and have not previously received services under this paragraph, services that are furnished by a physician (as defined in section 1395x(r)(1) of this title) who is either the medical director or an employee of a hospice program and that—
 
@@ -66,7 +66,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 #### (e) Services taken into account
 
-For purposes of subsections (b) and (c) of this section, inpatient hospital services, inpatientpsychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
+For purposes of subsections (b) and (c) of this section, inpatient hospital services, inpatient psychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
@@ -186,7 +186,7 @@ Pub. L. 108–173, title V, §512(d), Dec. 8, 2003, 117 Stat. 2300, provided tha
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that:“Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
 
 #### Effective Date of 1997 Amendment
 

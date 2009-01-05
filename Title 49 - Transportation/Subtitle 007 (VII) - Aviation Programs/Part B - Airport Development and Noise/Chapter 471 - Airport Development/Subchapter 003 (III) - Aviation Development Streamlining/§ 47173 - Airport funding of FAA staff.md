@@ -26,5 +26,5 @@ Maintenance of Effort.—No funds may be accepted pursuant to subsection (a), or
 
 #### References in Text
 
-Section 337 of the Department of Transportation and Related Agencies Appropriations Act, 2002, referred toin subsec. (d), is section 337 of Pub. L. 107–87, Dec. 18, 2001, 115 Stat. 862, which is not classified to the Code.
+Section 337 of the Department of Transportation and Related Agencies Appropriations Act, 2002, referred to in subsec. (d), is section 337 of Pub. L. 107–87, Dec. 18, 2001, 115 Stat. 862, which is not classified to the Code.
 

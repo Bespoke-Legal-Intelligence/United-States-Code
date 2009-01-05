@@ -4,7 +4,7 @@
 
 &emsp;(1) while the employee is on duty;
 
-&emsp;(2) in any room or building occupied in the discharge of official duties by an individual employed or holding office in the Government of the United States or any agency or instrumentality thereof;
+&emsp;(2) in any room or building occupied in the discharge of official duties by an individual employed or holding office in the Governmentof the United States or any agency or instrumentality thereof;
 
 &emsp;(3) while wearing a uniform or official insignia identifying the office or position of the employee; or
 

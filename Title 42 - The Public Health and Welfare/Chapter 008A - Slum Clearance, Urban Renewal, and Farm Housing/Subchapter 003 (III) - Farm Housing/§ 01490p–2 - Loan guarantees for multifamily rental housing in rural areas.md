@@ -10,7 +10,7 @@ A guarantee made under this section shall guarantee repayment of an amount not e
 
 #### (c) Eligible borrowers
 
-A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
+A loan guaranteed under this section may be made to a nonprofit organization, an agency orbody of any State government or political subdivision thereof, an Indian tribe, or a private entity.
 
 #### (d) Eligible housing
 
@@ -64,7 +64,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
 
-&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall provide the borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) of title 26.
+&emsp;(5) for at least 20 percent of the loans made under this section, the Secretary shall provide the borrower with assistance in the form of credits pursuant to section 1490a(a)(1)(B) of this title to the extent necessary to reduce the rate of interest under paragraph (2) to the applicable Federal rate, as such term is used in section 42(i)(2)(D) <sup>2</sup> of title 26.
 
 #### (g) Guarantee fee
 
@@ -78,7 +78,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Notice of default
 
-&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
+&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holderof the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
 
 #### (2) Foreclosure
 
@@ -126,7 +126,7 @@ Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed
 
 #### (n) Tenant protections
 
-The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
+The Secretary shall establish standards for the treatment of tenants of housing developedusing amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
 #### (<i>o</i>) Housing standards
 
@@ -184,11 +184,11 @@ There are authorized to be appropriated for each fiscal year for costs (as such 
 
 #### (t) Tax-exempt financing
 
-The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I <sup>2</sup> of title 26.
+The Secretary may not deny a guarantee under this section on the basis that the interest on the loan or on an obligation supporting the loan for which a guarantee is sought is exempt from inclusion in gross income for purposes of chapter I <sup>3</sup> of title 26.
 
 #### (u) Fee authority
 
-Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a oftitle 2) of loan guarantees made under this section.
+Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by section 661a of title 2) of loan guarantees made under this section.
 
 #### (v) Defaults of loans secured by reservation lands
 
@@ -199,6 +199,8 @@ In the event of a default involving a loan to an Indian tribe or tribal corporat
 #### References in Text
 
 The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+
+Subpar. (D) of section 42(i)(2) of title 26, referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. C, title I, §3002(b)(2)(C), July 30, 2008, 122 Stat. 2880.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -252,5 +254,7 @@ Section to be construed to have become effective Oct. 1, 1995, see section 13(a)
 
 <i><sup>1</sup></i><i> So in original. Probably should be “low- or moderate-income”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be chapter “1”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be chapter “1”.</i>
 

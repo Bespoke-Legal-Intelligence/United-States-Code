@@ -40,7 +40,7 @@ Nothing contained in this section shall limit the authority of the Commodity Cre
 
 #### (f) Prohibited activities
 
-The Secretary or the Commodity Credit Corporation shall take reasonable precautions to prevent the misuse of eligible commodities in a barter or exchange program, including activities that—
+The Secretary or the Commodity Credit Corporation shall take reasonable precautions toprevent the misuse of eligible commodities in a barter or exchange program, including activities that—
 
 &emsp;(1) displace or interfere with commercial sales of United States agricultural commodities that otherwise might be made;
 

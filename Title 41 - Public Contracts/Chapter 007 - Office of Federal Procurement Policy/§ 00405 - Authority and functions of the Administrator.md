@@ -242,6 +242,14 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of this title.
 
+#### Enhanced Transparency on Interagency Contracting and Other Transactions
+
+Pub. L. 110–417, \[div. A\], title VIII, §874(a), Oct. 14, 2008, 122 Stat. 4558, provided that: “Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 2371 of title 10, United States Code, or similar authorities. The Director shall ensure that data, consistent with what is collected for contract actions, is obtained on—
+
+&emsp;“(1) interagency contracting actions, including data at the task or delivery-order level; and
+
+&emsp;“(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).”
+
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 
 Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: “No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
@@ -310,7 +318,7 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 
 “(b)
 
-Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
+Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given thatterm in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
 
 #### Congressional Findings Regarding Consideration of Past Contract Performance
 
@@ -356,7 +364,7 @@ Data Collection Required.—The Federal Procurement Data System described in sec
 
 “(b)
 
-Definition.—In this section, the term ‘simplified acquisition threshold’ has the meaning given such termin section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).”
+Definition.—In this section, the term ‘simplified acquisition threshold’ has the meaning given such term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).”
 
 #### Profit Methodology Study
 

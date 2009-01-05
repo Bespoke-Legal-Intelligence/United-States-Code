@@ -23,6 +23,7 @@
 | [8116\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008116%20-%20Nursing%20home%20revolving%20fund.md) | Nursing home revolving fund. |
 | [8117\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008117%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | [8118\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008118%20-%20Authority%20for%20transfer%20of%20real%20property%3B%20Department%20of%20Veterans%20Affairs%20Capital%20Asset%20Fund.md) | Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund. |
+| [8119\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008119%20-%20Annual%20report%20on%20outpatient%20clinics.md) | Annual report on outpatient clinics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,6 +93,8 @@
 <i>Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.</i>
 
 #### Amendments
+
+2008—Pub. L. 110–387, title VII, §708(c), Oct. 10, 2008, 122 Stat. 4140, added item 8119.
 
 2006—Pub. L. 109–461, title II, §211(c)(2), title V, §§502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
 

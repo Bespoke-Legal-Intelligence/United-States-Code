@@ -38,6 +38,16 @@
 
 &emsp;&emsp;&emsp;(ii) as a liaison between the governments of Indian tribes in the region and the Authority.
 
+#### (4) Failure to confirm
+
+#### (A) Federal member
+
+&emsp;&emsp;Notwithstanding any other provision of this section, if a Federal member described in paragraph (2)(A) has not been confirmed by the Senate by not later than 180 days after the date of enactment of this paragraph, the Authority may organize and operate without the Federal member.
+
+#### (B) Indian chairperson
+
+&emsp;&emsp;In the case of the Indian Chairperson, if no Indian Chairperson is confirmed by the Senate, the regional authority shall consult and coordinate with the leaders of Indian tribes in the region concerning the activities of the Authority, as appropriate.
+
 #### (b) Alternate members
 
 #### (1) Alternate Federal cochairperson
@@ -102,21 +112,31 @@
 
 The Authority shall—
 
-&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs to establish priorities and approve grants for the economic development of the region, giving due consideration to other Federal, State, tribal, and local planning and development activities in the region;
+&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs for multistate cooperation to advance the economic and social well-being of the region and to approve grants for the economic development of the region, giving due consideration to other Federal, State, tribal, and local planning and development activities in the region;
 
 &emsp;(2) not later than 220 days after May 13, 2002, establish priorities in a development plan for the region (including 5-year regional outcome targets);
 
-&emsp;(3) assess the needs and assets of the region based on available research, demonstrations, investigations, assessments, and evaluations of the region prepared by Federal, State, tribal, and local agencies, universities, local development districts, and other nonprofit groups;
+&emsp;(3) assess the needs and assets of the region based on available research, demonstrations, investigations, assessments, and evaluations of the region prepared by Federal, State, tribal, and local agencies, universities, regional and local development districts or organizations, regional boards established under subchapter IX, and other nonprofit groups;
 
-&emsp;(4) formulate and recommend to the Governors and legislatures of States that participate in the Authority forms of interstate cooperation;
+&emsp;(4) formulate and recommend to the Governors and legislatures of States that participate in the Authority forms of interstate cooperation for—
+
+&emsp;&emsp;(i) renewable energy development and transmission;
+
+&emsp;&emsp;(ii) transportation planning and economic development;
+
+&emsp;&emsp;(iii) information technology;
+
+&emsp;&emsp;(iv) movement of freight and individuals within the region;
+
+&emsp;&emsp;(v) federally-funded research at institutions of higher education; and
+
+&emsp;&emsp;(vi) conservation land management;
 
 &emsp;(5) work with State, tribal, and local agencies in developing appropriate model legislation;
 
-&emsp;(6)(A) enhance the capacity of, and provide support for, local development districts in the region; or
+&emsp;(6) enhance the capacity of, and provide support for, multistate development and research organizations, local development organizations and districts, and resource conservation districts in the region;
 
-&emsp;(B) if no local development district exists in an area in a participating State in the region, foster the creation of a local development district;
-
-&emsp;(7) encourage private investment in industrial, commercial, and other economic development projects in the region; and
+&emsp;(7) encourage private investment in industrial, commercial, renewable energy, and other economic development projects in the region; and
 
 &emsp;(8) cooperate with and assist State governments with economic development programs of participating States.
 
@@ -162,7 +182,7 @@ A Federal agency shall—
 
 &emsp;(1) cooperate with the Authority; and
 
-&emsp;(2) provide, on request of the Federal cochairperson, appropriate assistance in carrying out this subchapter, in accordance with applicable Federal laws (including regulations).
+&emsp;(2) provide, on request of a cochairperson, appropriate assistance in carrying out this subchapter, in accordance with applicable Federal laws (including regulations).
 
 #### (g) Administrative expenses
 
@@ -170,11 +190,11 @@ A Federal agency shall—
 
 &emsp;The Federal share of the administrative expenses of the Authority shall be—
 
-&emsp;&emsp;(A) for fiscal year 2002, 100 percent;
+&emsp;&emsp;(A) for each of fiscal years 2008 and 2009, 100 percent;
 
-&emsp;&emsp;(B) for fiscal year 2003, 75 percent; and
+&emsp;&emsp;(B) for fiscal year 2010, 75 percent; and
 
-&emsp;&emsp;(C) for fiscal year 2004 and each fiscal year thereafter, 50 percent.
+&emsp;&emsp;(C) for fiscal year 2011 and each fiscal year thereafter, 50 percent.
 
 #### (2) Non-Federal share
 
@@ -238,7 +258,7 @@ A Federal agency shall—
 
 #### (C) Applicable law
 
-&emsp;&emsp;The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) of this section shall not be subject to subparagraph\(A), but shall remain subject to sections 202 through 209 of title 18.
+&emsp;&emsp;The Federal cochairperson, the alternate Federal cochairperson, and any Federal officer or employee detailed to duty on the Authority under subsection (e)(5) of this section shall not be subject to subparagraph (A), but shall remain subject to sections 202 through 209 of title 18.
 
 #### (5) Additional personnel
 
@@ -288,7 +308,7 @@ A Federal agency shall—
 
 &emsp;&emsp;(B) makes full disclosure of the financial interest; and
 
-&emsp;&emsp;(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the Authority that the interest is not so substantial as to be likely to affect the integrity of the services that the Authority may expect from the State member, Indian tribe member, alternate, officer, or employee.
+&emsp;&emsp;(C) before the proceeding concerning the matter presenting the conflict of interest, receives a written determination by the Authority that the interest is not so substantial as to be likely to affect the integrity of the services that the Authority may expectfrom the State member, Indian tribe member, alternate, officer, or employee.
 
 #### (3) Violation
 
@@ -298,7 +318,49 @@ A Federal agency shall—
 
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) or subsection (i) of this subtitle <sup>1</sup>, or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, §383B, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 375.)
+(Pub. L. 87–128, title III, §383B, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, §6026(b), (c)(2)(A), May 22, 2008, 122 Stat. 1177, 1179; Pub. L. 110–246, §4(a), title VI, §6026(b), (c)(2)(A), June 18, 2008, 122 Stat. 1664, 1939, 1940.)
+
+#### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–246, §6026(b)(1), added par. (4).
+
+Subsec. (c)(3)(B). Pub. L. 110–246, §6026(c)(2)(A), made technical amendment to reference in original act which appears in text as reference to section 2009bb–8 of this title.
+
+Subsec. (d)(1). Pub. L. 110–246, §6026(b)(2)(A), substituted “programs for multistate cooperation to advance the economic and social well-being of the region and to” for “programs to establish priorities and”.
+
+Subsec. (d)(3). Pub. L. 110–246, §6026(b)(2)(B), substituted “regional and local development districts or organizations, regional boards established under subchapter IX,” for “local development districts,”.
+
+Subsec. (d)(4). Pub. L. 110–246, §6026(b)(2)(C), substituted “cooperation for—” for “cooperation;” in introductory provisions and added cls. (i) to (vi).
+
+Subsec. (d)(6). Pub. L. 110–246, §6026(b)(2)(D), added par. (6) and struck out former par. (6) which read as follows:
+
+“(A) enhance the capacity of, and provide support for, local development districts in the region; or
+
+“(B) if no local development district exists in an area in a participating State in the region, foster the creation of a local development district;”.
+
+Subsec. (d)(7). Pub. L. 110–246, §6026(b)(2)(E), inserted “renewable energy,” after “commercial,”.
+
+Subsec. (f)(2). Pub. L. 110–246, §6026(b)(3), substituted “a cochairperson” for “the Federal cochairperson”.
+
+Subsec. (g)(1). Pub. L. 110–246, §6026(b)(4), added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) for fiscal year 2002, 100 percent;
+
+“(B) for fiscal year 2003, 75 percent; and
+
+“(C) for fiscal year 2004 and each fiscal year thereafter, 50 percent.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

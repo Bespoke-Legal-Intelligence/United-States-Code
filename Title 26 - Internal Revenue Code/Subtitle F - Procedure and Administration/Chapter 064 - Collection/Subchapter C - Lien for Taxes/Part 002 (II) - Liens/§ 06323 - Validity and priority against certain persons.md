@@ -94,7 +94,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;&emsp;(i) to make loans to the taxpayer to be secured by commercial financing security acquired by the taxpayer in the ordinary course of his trade or business, or
 
-&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired by the taxpayer in the ordinary course of his trade or business;
+&emsp;&emsp;&emsp;(ii) to purchase commercial financing security (other than inventory) acquired bythe taxpayer in the ordinary course of his trade or business;
 
 > &emsp;&emsp;but such an agreement shall be treated as coming within the term only to the extent that such loan or purchase is made before the 46th day after the date of tax lien filing or (if earlier) before the lender or purchaser had actual notice or knowledge of such tax lien filing.
 
@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -172,7 +172,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 &emsp;(2) the reasonable charges and expenses of an indenture trustee or agent holding the security interest for the benefit of the holder of the security interest,
 
-&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actually incurred in collecting or enforcing the obligation secured,
+&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actuallyincurred in collecting or enforcing the obligation secured,
 
 &emsp;(4) the reasonable costs of insuring, preserving, or repairing the property to which the lien or security interest relates,
 
@@ -354,9 +354,9 @@ For purposes of this section and section 6324—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
-#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2008, see section 3.36 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
 
@@ -404,7 +404,7 @@ Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the Distri
 
 Subsec. (b)(1). Pub. L. 89–719 redesignated provisions of subsec. (c)(1) as subsec. (b)(1) and substituted “holder of a security interest” for “mortgagee and pledgee” and purchaser of such security interest for purchaser of such security for any adequate and full consideration in money or money's worth.
 
-Subsec. (b)(2). Pub. L. 89–719 redesignated provisions of subsec. (d)(1) as subsec. (b)(2) and substituted purchaser of such motor vehicle for purchaser of such motor vehicle for an adequate and full consideration in money or money's worth and substituted actual notice or knowledge for notice or knowledge.
+Subsec. (b)(2). Pub. L. 89–719 redesignated provisions of subsec. (d)(1) as subsec. (b)(2) and substituted purchaser of such motor vehicle for purchaser of suchmotor vehicle for an adequate and full consideration in money or money's worth and substituted actual notice or knowledge for notice or knowledge.
 
 Subsec. (b)(3) to (10). Pub. L. 89–719 added pars. (3) to (10).
 

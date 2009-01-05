@@ -36,7 +36,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(i) owns the entire interest in an unincorporated trade or business,
 
-&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, 50 percent ormore of either the capital interest or the profits interest in such partnership, or
+&emsp;(ii) in the case of a partnership, is a partner who owns, directly or indirectly, 50 percent or more of either the capital interest or the profits interest in such partnership, or
 
 &emsp;(iii) in the case of a corporation, owns, directly or indirectly, 50 percent or more in value of either the voting stock of that corporation or all the stock of that corporation.
 
@@ -100,7 +100,7 @@ The corporation is authorized to guarantee the payment of such other classes of 
 
 #### (e) Nonforfeitability of preretirement survivor annuity
 
-For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (as defined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
+For purposes of subsection (a) of this section, a qualified preretirement survivor annuity (asdefined in section 1055(e)(1) of this title) with respect to a participant under a terminated single-employer plan shall not be treated as forfeitable solely because the participant has not died as of the termination date.
 
 #### (f) Effective date of plan amendments
 

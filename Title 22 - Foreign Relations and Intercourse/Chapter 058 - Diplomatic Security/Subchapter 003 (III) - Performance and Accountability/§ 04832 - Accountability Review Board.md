@@ -8,7 +8,7 @@ A Board shall consist of five members, 4 appointed by the Secretary of State, an
 
 #### (1) Supplied by Department of State
 
-&emsp;A Board shall obtain facilities, services, and supplies through the Department of State. Allexpenses of the Board, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
+&emsp;A Board shall obtain facilities, services, and supplies through the Department of State. All expenses of the Board, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
 
 #### (2) Detail
 

@@ -2,11 +2,37 @@
 
 (a)
 
-General.—Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
+In General.—Except as provided in subsection (d) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to—
 
-&emsp;(1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
+&emsp;(1) remain on duty, go on duty, wait for deadhead transportation, be in deadhead transportation from a duty assignment to the place of final release, or be in any other mandatory service for the carrier in any calendar month where the employee has spent a total of 276 hours—
 
-&emsp;(2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty.
+&emsp;&emsp;(A) on duty;
+
+&emsp;&emsp;(B) waiting for deadhead transportation, or in deadhead transportation from a duty assignment to the place of final release; or
+
+&emsp;&emsp;(C) in any other mandatory service for the carrier;
+
+&emsp;(2) remain or go on duty for a period in excess of 12 consecutive hours;
+
+&emsp;(3) remain or go on duty unless that employee has had at least 10 consecutive hours off duty during the prior 24 hours; or
+
+&emsp;(4) remain or go on duty after that employee has initiated an on-duty period each day for—
+
+&emsp;&emsp;(A) 6 consecutive days, unless that employee has had at least 48 consecutive hours off duty at the employee's home terminal during which time the employee is unavailable for any service for any railroad carrier except that—
+
+&emsp;&emsp;&emsp;(i) an employee may work a seventh consecutive day if that employee completed his or her final period of on-duty time on his or her sixth consecutive day at a terminal other than his or her home terminal; and
+
+&emsp;&emsp;&emsp;(ii) any employee who works a seventh consecutive day pursuant to subparagraph (i) shall have at least 72 consecutive hours off duty at the employee's home terminal during which time the employee is unavailable for any service for any railroad carrier; or
+
+&emsp;&emsp;(B) except as provided in subparagraph (A), 7 consecutive days, unless that employee has had at least 72 consecutive hours off duty at the employee's home terminal during which time the employee is unavailable for any service for any railroad carrier, if—
+
+&emsp;&emsp;&emsp;(i) for a period of 18 months following the date of enactment of the Rail Safety Improvement Act of 2008, an existing collective bargaining agreement expressly provides for such a schedule or, following the expiration of 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, collective bargaining agreements entered into during such period expressly provide for such a schedule;
+
+&emsp;&emsp;&emsp;(ii) such a schedule is provided for by a pilot program authorized by a collective bargaining agreement; or
+
+&emsp;&emsp;&emsp;(iii) such a schedule is provided for by a pilot program under section 21108 of this chapter related to employees’ work and rest cycles.
+
+> The Secretary may waive paragraph (4), consistent with the procedural requirements of section 20103, if a collective bargaining agreement provides a different arrangement and such an arrangement is in the public interest and consistent with railroad safety.
 
 (b)
 
@@ -36,9 +62,59 @@ Determining Time on Duty.—In determining under subsection (a) of this section 
 
 (c)
 
+Limbo Time Limitation and Additional Rest Requirement.—
+
+&emsp;(1) A railroad carrier may not require or allow an employee—
+
+&emsp;&emsp;(A) to exceed a total of 40 hours per calendar month spent—
+
+&emsp;&emsp;&emsp;(i) waiting for deadhead transportation; or
+
+&emsp;&emsp;&emsp;(ii) in deadhead transportation from a duty assignment to the place of final release,
+
+> &emsp;&emsp;following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period from the date of enactment of the Rail Safety Improvement Act of 2008 to one year after such date of enactment; and
+
+&emsp;&emsp;(B) to exceed a total of 30 hours per calendar month spent—
+
+&emsp;&emsp;&emsp;(i) waiting for deadhead transportation; or
+
+&emsp;&emsp;&emsp;(ii) in deadhead transportation from a duty assignment to the place of final release,
+
+> &emsp;&emsp;following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period beginning one year after the date of enactment of the Rail Safety Improvement Act of 2008 except that the Secretary may further limit the monthly limitation pursuant to regulations prescribed under section 21109.
+
+&emsp;(2) The limitations in paragraph (1) shall apply unless the train carrying the employee is directly delayed by—
+
+&emsp;&emsp;(A) a casualty;
+
+&emsp;&emsp;(B) an accident;
+
+&emsp;&emsp;(C) an act of God;
+
+&emsp;&emsp;(D) a derailment;
+
+&emsp;&emsp;(E) a major equipment failure that prevents the train from advancing; or
+
+&emsp;&emsp;(F) a delay resulting from a cause unknown and unforeseeable to a railroad carrier or its officer or agent in charge of the employee when the employee left a terminal.
+
+&emsp;(3) Each railroad carrier shall report to the Secretary, in accordance with procedures established by the Secretary, each instance where an employee subject to this section spends time waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release in excess of the requirements of paragraph (1).
+
+&emsp;(4) If—
+
+&emsp;&emsp;(A) the time spent waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release that is not time on duty, plus
+
+&emsp;&emsp;(B) the time on duty,
+
+> &emsp;exceeds 12 consecutive hours, the railroad carrier and its officers and agents shall provide the employee with additional time off duty equal to the number of hours by which such sum exceeds 12 hours.
+
+(d)
+
 Emergencies.—A train employee on the crew of a wreck or relief train may be allowed to remain or go on duty for not more than 4 additional hours in any period of 24 consecutive hours when an emergency exists and the work of the crew is related to the emergency. In this subsection, an emergency ends when the track is cleared and the railroad line is open for traffic.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888.)
+(e)
+
+Communication During Time Off Duty.—During a train employee's minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee's rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads’ efficient operations and on-time performance of its trains.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888; Pub. L. 110–432, div. A, title I, §108(b), Oct. 16, 2008, 122 Stat. 4860.)
 
 Historical and Revision Notes
 
@@ -83,4 +159,24 @@ In subsection (a), before clause (1), the words “Except as provided in subsect
 In subsection (b), the words before paragraph (1) are added as related to 45:61(b)(3) and (4) (last sentence) and substituted for “In determining, for the purposes of subsection (a), the number of hours an employee is on duty” in 45:62(b) for clarity. In paragraphs (2) and (3), the word “actually” is omitted as surplus. In paragraph (4), the words “neither time on duty nor time off duty” are substituted for “time off duty” for clarity and consistency with the source provisions restated in 21104(b)(3) and (4) of the revised title. In paragraph (7), before clause (A), the words “between designated terminals” are omitted as surplus. The text of 45:61(b)(3)(E) is omitted as surplus because of the restatement.
 
 In subsection (c), the words “A train employee on” are added for consistency in this section. The word “actual” is omitted as surplus.
+
+#### References in Text
+
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a)(4)(B)(i) and (c)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–432, §108(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
+
+&emsp;“(1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
+
+&emsp;“(2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty.”
+
+Subsecs. (c), (d). Pub. L. 110–432, §108(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 110–432, §108(b)(3), added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–432 effective 9 months after Oct. 16, 2008, see section 108(g) of Pub. L. 110–432, set out as a note under section 21101 of this title.
 

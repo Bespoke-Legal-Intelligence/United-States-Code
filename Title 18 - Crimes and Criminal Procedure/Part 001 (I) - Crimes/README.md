@@ -57,7 +57,12 @@
 | [<b>57.</b>](Chapter%20057%20-%20Labor/README.md) | <b>Labor</b> | <b>1231</b> |
 | [<b>59.</b>](Chapter%20059%20-%20Liquor%20Traffic/README.md) | <b>Liquor traffic</b> | <b>1261</b> |
 | [<b>61.</b>](Chapter%20061%20-%20Lotteries/README.md) | <b>Lotteries</b> | <b>1301</b> |
-| [<b>63.</b>](Chapter%20063%20-%20Mail%20Fraud/README.md) | <b>Mail fraud</b> | <b>1341</b> |
+| [<b>63.</b>](Chapter%20063%20-%20Mail%20Fraud%20and%20Other%20Fraud%20Offenses/README.md) | <b>Mail fraud </b><b><sup>3</sup></b> | <b>1341</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>65.</b>](Chapter%20065%20-%20Malicious%20Mischief/README.md) | <b>Malicious mischief</b> | <b>1361</b> |
 | [<b>67.</b>](Chapter%20067%20-%20Military%20and%20Navy/README.md) | <b>Military and Navy</b> | <b>1381</b> |
 | <b>\[68.</b> | <b>Repealed.\]</b> |  |
@@ -103,7 +108,7 @@
 | [<b>115.</b>](Chapter%20115%20-%20Treason%2C%20Sedition%2C%20and%20Subversive%20Activities/README.md) | <b>Treason, sedition, and subversive activities</b> | <b>2381</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Transportation%20for%20Illegal%20Sexual%20Activity%20and%20Related%20Crimes/README.md) | <b>Transportation for illegal sexual activity and related crimes</b> | <b>2421</b> |
 | [<b>118.</b>](Chapter%20118%20-%20War%20Crimes/README.md) | <b>War crimes</b> | <b>2441</b> |
-| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>3</sup></b> | <b>2510</b> |
+| [<b>119.</b>](Chapter%20119%20-%20Wire%20and%20Electronic%20Communications%20Interception%20and%20Interception%20of%20Oral%20Communications/README.md) | <b>Wire and electronic communications interception and interception of oral communications </b><b><sup>4</sup></b> | <b>2510</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -250,7 +255,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 057 - Labor](Chapter%20057%20-%20Labor/README.md)
 - [Chapter 059 - Liquor Traffic](Chapter%20059%20-%20Liquor%20Traffic/README.md)
 - [Chapter 061 - Lotteries](Chapter%20061%20-%20Lotteries/README.md)
-- [Chapter 063 - Mail Fraud](Chapter%20063%20-%20Mail%20Fraud/README.md)
+- [Chapter 063 - Mail Fraud and Other Fraud Offenses](Chapter%20063%20-%20Mail%20Fraud%20and%20Other%20Fraud%20Offenses/README.md)
 - [Chapter 065 - Malicious Mischief](Chapter%20065%20-%20Malicious%20Mischief/README.md)
 - [Chapter 067 - Military and Navy](Chapter%20067%20-%20Military%20and%20Navy/README.md)
 - [Chapter 068 - Repealed](Chapter%20068%20-%20Repealed/README.md)

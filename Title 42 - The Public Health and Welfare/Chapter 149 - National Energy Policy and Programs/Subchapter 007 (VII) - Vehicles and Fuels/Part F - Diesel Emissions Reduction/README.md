@@ -12,3 +12,5 @@ Part F—Diesel Emissions Reduction
 - [&sect; 16135 - Outreach and incentives](%C2%A7%2016135%20-%20Outreach%20and%20incentives.md)
 - [&sect; 16136 - Effect of part](%C2%A7%2016136%20-%20Effect%20of%20part.md)
 - [&sect; 16137 - Authorization of appropriations](%C2%A7%2016137%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 16138 - EPA authority to accept diesel emissions reduction Supplemental Environmental Projects](%C2%A7%2016138%20-%20EPA%20authority%20to%20accept%20diesel%20emissions%20reduction%20Supplemental%20Environmental%20Projects.md)
+- [&sect; 16139 - Settlement agreement provisions](%C2%A7%2016139%20-%20Settlement%20agreement%20provisions.md)

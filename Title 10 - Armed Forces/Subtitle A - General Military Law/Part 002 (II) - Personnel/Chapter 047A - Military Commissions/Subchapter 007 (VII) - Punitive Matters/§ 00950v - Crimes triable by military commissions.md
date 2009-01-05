@@ -48,7 +48,7 @@ Murder of protected persons.—Any person subject to this chapter who intentiona
 
 &emsp;(2)
 
-Attacking civilians.—Any person subject to this chapter who intentionally engages in an attack upon a civilian population as such, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Attacking civilians.—Any person subject to this chapter who intentionally engagesin an attack upon a civilian population as such, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(3)
 
@@ -80,7 +80,7 @@ Using protected persons as a shield.—Any person subject to this chapter who po
 
 &emsp;(10)
 
-Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede militaryoperations, shall be punished as a military commission under this chapter may direct.
+Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(11)
 
@@ -166,7 +166,7 @@ Improperly using a flag of truce.—Any person subject to this chapter who uses 
 
 &emsp;(19)
 
-Improperly using a distinctive emblem.—Any person subject to this chapter whointentionally uses a distinctive emblem recognized by the law of war for combatant purposes in a manner prohibited by the law of war shall be punished as a military commission under this chapter may direct.
+Improperly using a distinctive emblem.—Any person subject to this chapter who intentionally uses a distinctive emblem recognized by the law of war for combatant purposes in a manner prohibited by the law of war shall be punished as a military commission under this chapter may direct.
 
 &emsp;(20)
 
@@ -186,7 +186,7 @@ Hijacking or hazarding a vessel or aircraft.—Any person subject to this chapte
 
 &emsp;(24)
 
-Terrorism.—Any person subject to this chapter who intentionally kills or inflicts great bodily harm on one or more protected persons, or intentionally engages in an act that evinces a wanton disregard for human life, in a manner calculated to influence or affect the conduct of government or civilian population by intimidation or coercion, or to retaliate against government conduct, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Terrorism.—Any person subject to this chapter who intentionally kills or inflicts great bodily harm on one or more protected persons, or intentionally engages in an act that evinces a wanton disregard for human life, in a manner calculated to influence or affect the conduct of government or civilian population by intimidation or coercion, or to retaliate against government conduct, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other thandeath, as a military commission under this chapter may direct.
 
 &emsp;(25)
 

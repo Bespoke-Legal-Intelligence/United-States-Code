@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(i) take into account any plans for the use of funds by adjacent eligible units of local governments that receive grants under the program; and
 
-&emsp;&emsp;&emsp;(ii) coordinate and share information with the State in which the eligible unit of local government is located regarding activities carried out using the grant to maximize the energy efficiency and conservation benefits under this part.
+&emsp;&emsp;&emsp;(ii) coordinate and share information with the State in which the eligible unit of local government is located regarding activities carried out using the grant tomaximize the energy efficiency and conservation benefits under this part.
 
 #### (2) Approval by Secretary
 

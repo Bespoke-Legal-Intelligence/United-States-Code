@@ -72,7 +72,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (1) Minister-Counselor
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
 
 #### (2) Consul General
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a corporation, partnership, or other association created under the laws of the United States or of any State; or
 
-&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B),
+&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent ofwhich is owned by persons described in subparagraphs (A) and (B),
 
 > &emsp;that exports, or seeks to export, goods or services produced in the United States;
 

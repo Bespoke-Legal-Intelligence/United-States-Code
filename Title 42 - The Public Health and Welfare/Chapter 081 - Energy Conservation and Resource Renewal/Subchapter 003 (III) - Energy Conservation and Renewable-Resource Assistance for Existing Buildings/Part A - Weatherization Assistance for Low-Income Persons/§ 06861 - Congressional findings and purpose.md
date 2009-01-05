@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) a fast, cost-effective, and environmentally sound way to prevent future energy shortages in the United States while reducingthe Nation's dependence on imported energy supplies, is to encourage and facilitate, through major programs, the implementation of energy conservation and renewable-resource energy measures with respect to dwelling units;
+&emsp;(1) a fast, cost-effective, and environmentally sound way to prevent future energy shortages in the United States while reducing the Nation's dependence on imported energy supplies, is to encourage and facilitate, through major programs, the implementation of energy conservation and renewable-resource energy measures with respect to dwelling units;
 
 &emsp;(2) existing efforts to encourage and facilitate such measures are inadequate because—
 

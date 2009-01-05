@@ -25,18 +25,32 @@
 
 #### SUBCHAPTER II—AFFORDABLE HOUSING ACTIVITIES
 
+#### Part A—General Block Grant Program
+
 |  |  |
 | :--- | ---: |
-| [4131\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004131%20-%20National%20objectives%20and%20eligible%20families.md) | National objectives and eligible families. |
-| [4132\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004132%20-%20Eligible%20affordable%20housing%20activities.md) | Eligible affordable housing activities. |
-| [4133\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004133%20-%20Program%20requirements.md) | Program requirements. |
-| [4134\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004134%20-%20Types%20of%20investments.md) | Types of investments. |
-| [4135\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004135%20-%20Low-income%20requirement%20and%20income%20targeting.md) | Low-income requirement and income targeting. |
-| [4136\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004136%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93568%2C%20title%20X%2C%20%C2%A71003%28k%29%282%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%202930%3B%20Pub.%20L.%20106%E2%80%93569%2C%20title%20V%2C%20%C2%A7503%28j%29%282%29%2C%20Dec.%2027%2C%202000%E2%80%A6.md) | Repealed. |
-| [4137\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004137%20-%20Lease%20requirements%20and%20tenant%20selection.md) | Lease requirements and tenant selection. |
-| [4138\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004138%20-%20Availability%20of%20records.md) | Availability of records. |
-| [4139\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004139%20-%20Noncompliance%20with%20affordable%20housing%20requirement.md) | Noncompliance with affordable housing requirement. |
-| [4140\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/%C2%A7%2004140%20-%20Continued%20use%20of%20amounts%20for%20affordable%20housing.md) | Continued use of amounts for affordable housing. |
+| [4131\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004131%20-%20National%20objectives%20and%20eligible%20families.md) | National objectives and eligible families. |
+| [4132\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004132%20-%20Eligible%20affordable%20housing%20activities.md) | Eligible affordable housing activities. |
+| [4133\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004133%20-%20Program%20requirements.md) | Program requirements. |
+| [4134\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004134%20-%20Types%20of%20investments.md) | Types of investments. |
+| [4135\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004135%20-%20Low-income%20requirement%20and%20income%20targeting.md) | Low-income requirement and income targeting. |
+| [4136\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004136%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93568%2C%20title%20X%2C%20%C2%A71003%28k%29%282%29%2C%20Dec.%2027%2C%202000%2C%20114%20Stat.%202930%3B%20Pub.%20L.%20106%E2%80%93569%2C%20title%20V%2C%20%C2%A7503%28j%29%282%29%2C%20Dec.%2027%2C%202000%E2%80%A6.md) | Repealed. |
+| [4137\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004137%20-%20Lease%20requirements%20and%20tenant%20selection.md) | Lease requirements and tenant selection. |
+| [4138\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004138%20-%20Availability%20of%20records.md) | Availability of records. |
+| [4139\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004139%20-%20Noncompliance%20with%20affordable%20housing%20requirement.md) | Noncompliance with affordable housing requirement. |
+| [4140\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20A%20-%20General%20Block%20Grant%20Program/%C2%A7%2004140%20-%20Continued%20use%20of%20amounts%20for%20affordable%20housing.md) | Continued use of amounts for affordable housing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Self-Determined Housing Activities for Tribal Communities
+
+|  |  |
+| :--- | ---: |
+| [4145\.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20B%20-%20Self-Determined%20Housing%20Activities%20for%20Tribal%20Communities/%C2%A7%2004145%20-%20Purpose.md) | Purpose. |
+| [4145a.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20B%20-%20Self-Determined%20Housing%20Activities%20for%20Tribal%20Communities/%C2%A7%2004145a%20-%20Program%20authority.md) | Program authority. |
+| [4145b.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20B%20-%20Self-Determined%20Housing%20Activities%20for%20Tribal%20Communities/%C2%A7%2004145b%20-%20Use%20of%20amounts%20for%20housing%20activities.md) | Use of amounts for housing activities. |
+| [4145c.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20B%20-%20Self-Determined%20Housing%20Activities%20for%20Tribal%20Communities/%C2%A7%2004145c%20-%20Inapplicability%20of%20other%20provisions.md) | Inapplicability of other provisions. |
+| [4145d.](Subchapter%20002%20%28II%29%20-%20Affordable%20Housing%20Activities/Part%20B%20-%20Self-Determined%20Housing%20Activities%20for%20Tribal%20Communities/%C2%A7%2004145d%20-%20Review%20and%20report.md) | Review and report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -71,6 +85,7 @@
 | [4181\.](Subchapter%20005%20%28V%29%20-%20Termination%20of%20Assistance%20for%20Indian%20Tribes%20under%20Incorporated%20Programs/%C2%A7%2004181%20-%20Termination%20of%20Indian%20housing%20assistance%20under%20United%20States%20Housing%20Act%20of%201937.md) | Termination of Indian housing assistance under United States Housing Act of 1937. |
 | [4182\.](Subchapter%20005%20%28V%29%20-%20Termination%20of%20Assistance%20for%20Indian%20Tribes%20under%20Incorporated%20Programs/%C2%A7%2004182%20-%20Termination%20of%20new%20commitments%20for%20rental%20assistance.md) | Termination of new commitments for rental assistance. |
 | [4183\.](Subchapter%20005%20%28V%29%20-%20Termination%20of%20Assistance%20for%20Indian%20Tribes%20under%20Incorporated%20Programs/%C2%A7%2004183%20-%20Savings%20provision.md) | Savings provision. |
+| [4184\.](Subchapter%20005%20%28V%29%20-%20Termination%20of%20Assistance%20for%20Indian%20Tribes%20under%20Incorporated%20Programs/%C2%A7%2004184%20-%20Effect%20on%20HOME%20Investment%20Partnerships%20Act.md) | Effect on HOME Investment Partnerships Act. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +98,7 @@
 | [4193\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004193%20-%20Payment%20of%20interest.md) | Payment of interest. |
 | [4194\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004194%20-%20Training%20and%20information.md) | Training and information. |
 | [4195\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004195%20-%20Limitations%20on%20amount%20of%20guarantees.md) | Limitations on amount of guarantees. |
+| [4196\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004196%20-%20Demonstration%20program%20for%20guaranteed%20loans%20to%20finance%20tribal%20community%20and%20economic%20development%20activities.md) | Demonstration program for guaranteed loans to finance tribal community and economic development activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

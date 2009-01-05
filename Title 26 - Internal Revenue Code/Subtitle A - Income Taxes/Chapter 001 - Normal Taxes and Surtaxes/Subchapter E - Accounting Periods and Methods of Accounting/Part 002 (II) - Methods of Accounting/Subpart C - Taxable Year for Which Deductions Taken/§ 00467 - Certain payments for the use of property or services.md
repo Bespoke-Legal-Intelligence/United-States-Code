@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (4) Discount and interest rate
 
-&emsp;For purposes of computing present value and interest under subsection (a)(2), the rate used shall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
+&emsp;For purposes of computing present value and interest under subsection (a)(2), the rate usedshall be equal to 110 percent of the applicable Federal rate determined under section 1274(d) (compounded semiannually) which is in effect at the time the agreement is entered into with respect to debt instruments having a maturity equal to the term of the agreement.
 
 #### (5) Related person
 
@@ -196,7 +196,7 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
 
-(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub.L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
+(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
 
 #### Amendment of Section
 

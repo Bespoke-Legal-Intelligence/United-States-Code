@@ -114,5 +114,5 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirements of a relocation program for families displaced by a project, consideration of economic, social, and environmental interests, and prohibition against regulating the operation of a mass transportation system for which a grant is made under section 5309 and regulating any charge for the system after a grant is made.
+2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c)relating to requirements of a relocation program for families displaced by a project, consideration of economic, social, and environmental interests, and prohibition against regulating the operation of a mass transportation system for which a grant is made under section 5309 and regulating any charge for the system after a grant is made.
 

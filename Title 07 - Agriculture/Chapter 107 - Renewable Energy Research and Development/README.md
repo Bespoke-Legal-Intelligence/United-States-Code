@@ -3,16 +3,25 @@
 | Sec. |  |
 | :--- | ---: |
 | [8101\.](%C2%A7%2008101%20-%20Definitions.md) | Definitions. |
-| [8102\.](%C2%A7%2008102%20-%20Federal%20procurement%20of%20biobased%20products.md) | Federal procurement of biobased products. |
-| [8103\.](%C2%A7%2008103%20-%20Biorefinery%20development%20grants.md) | Biorefinery development grants. |
-| [8104\.](%C2%A7%2008104%20-%20Biodiesel%20fuel%20education%20program.md) | Biodiesel fuel education program. |
-| [8105\.](%C2%A7%2008105%20-%20Energy%20audit%20and%20renewable%20energy%20development%20program.md) | Energy audit and renewable energy development program. |
-| [8106\.](%C2%A7%2008106%20-%20Renewable%20energy%20systems%20and%20energy%20efficiency%20improvements.md) | Renewable energy systems and energy efficiency improvements. |
-| [8107\.](%C2%A7%2008107%20-%20Hydrogen%20and%20fuel%20cell%20technologies.md) | Hydrogen and fuel cell technologies. |
-| [8108\.](%C2%A7%2008108%20-%20Continuation%20of%20bioenergy%20program.md) | Continuation of bioenergy program. |
-| [8109\.](%C2%A7%2008109%20-%20Research%2C%20extension%2C%20and%20educational%20programs%20on%20biobased%20energy%20technologies%20and%20products.md) | Research, extension, and educational programs on biobased energy technologies and products. |
+| [8102\.](%C2%A7%2008102%20-%20Biobased%20markets%20program.md) | Biobased markets program. |
+| [8103\.](%C2%A7%2008103%20-%20Biorefinery%20assistance.md) | Biorefinery assistance. |
+| [8104\.](%C2%A7%2008104%20-%20Repowering%20assistance.md) | Repowering assistance. |
+| [8105\.](%C2%A7%2008105%20-%20Bioenergy%20program%20for%20advanced%20biofuels.md) | Bioenergy program for advanced biofuels. |
+| [8106\.](%C2%A7%2008106%20-%20Biodiesel%20fuel%20education%20program.md) | Biodiesel fuel education program. |
+| [8107\.](%C2%A7%2008107%20-%20Rural%20Energy%20for%20America%20Program.md) | Rural Energy for America Program. |
+| [8108\.](%C2%A7%2008108%20-%20Biomass%20research%20and%20development.md) | Biomass research and development. |
+| [8109\.](%C2%A7%2008109%20-%20Rural%20Energy%20Self-Sufficiency%20Initiative.md) | Rural Energy Self-Sufficiency Initiative. |
+| [8110\.](%C2%A7%2008110%20-%20Feedstock%20flexibility%20program%20for%20bioenergy%20producers.md) | Feedstock flexibility program for bioenergy producers. |
+| [8111\.](%C2%A7%2008111%20-%20Biomass%20Crop%20Assistance%20Program.md) | Biomass Crop Assistance Program. |
+| [8112\.](%C2%A7%2008112%20-%20Forest%20biomass%20for%20energy.md) | Forest biomass for energy. |
+| [8113\.](%C2%A7%2008113%20-%20Community%20wood%20energy%20program.md) | Community wood energy program. |
+| [8114\.](%C2%A7%2008114%20-%20Sun%20grant%20program.md) | Sun grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Codification
+
+Title IX of the Farm Security and Rural Investment Act of 2002, which comprises this chapter, was originally enacted by Pub. L. 107–171, title IX, May 13, 2002, 116 Stat. 475, and amended by Pub. L. 108–199, div. A, title VII, §778(b), Jan. 23, 2004, 118 Stat. 41; Pub. L. 109–58, title II, §205, title IX, §943(a), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881; Pub. L. 109–171, title I, §1301, Feb. 8, 2006, 120 Stat. 6. Such title is shown herein, however, as having been added by Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 110–234 and Pub. L. 110–246, which amended the title identically. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 
 ---
@@ -20,11 +29,16 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 08101 - Definitions](%C2%A7%2008101%20-%20Definitions.md)
-- [&sect; 08102 - Federal procurement of biobased products](%C2%A7%2008102%20-%20Federal%20procurement%20of%20biobased%20products.md)
-- [&sect; 08103 - Biorefinery development grants](%C2%A7%2008103%20-%20Biorefinery%20development%20grants.md)
-- [&sect; 08104 - Biodiesel fuel education program](%C2%A7%2008104%20-%20Biodiesel%20fuel%20education%20program.md)
-- [&sect; 08105 - Energy audit and renewable energy development program](%C2%A7%2008105%20-%20Energy%20audit%20and%20renewable%20energy%20development%20program.md)
-- [&sect; 08106 - Renewable energy systems and energy efficiency improvements](%C2%A7%2008106%20-%20Renewable%20energy%20systems%20and%20energy%20efficiency%20improvements.md)
-- [&sect; 08107 - Hydrogen and fuel cell technologies](%C2%A7%2008107%20-%20Hydrogen%20and%20fuel%20cell%20technologies.md)
-- [&sect; 08108 - Continuation of bioenergy program](%C2%A7%2008108%20-%20Continuation%20of%20bioenergy%20program.md)
-- [&sect; 08109 - Research, extension, and educational programs on biobased energy technologies and products](%C2%A7%2008109%20-%20Research%2C%20extension%2C%20and%20educational%20programs%20on%20biobased%20energy%20technologies%20and%20products.md)
+- [&sect; 08102 - Biobased markets program](%C2%A7%2008102%20-%20Biobased%20markets%20program.md)
+- [&sect; 08103 - Biorefinery assistance](%C2%A7%2008103%20-%20Biorefinery%20assistance.md)
+- [&sect; 08104 - Repowering assistance](%C2%A7%2008104%20-%20Repowering%20assistance.md)
+- [&sect; 08105 - Bioenergy program for advanced biofuels](%C2%A7%2008105%20-%20Bioenergy%20program%20for%20advanced%20biofuels.md)
+- [&sect; 08106 - Biodiesel fuel education program](%C2%A7%2008106%20-%20Biodiesel%20fuel%20education%20program.md)
+- [&sect; 08107 - Rural Energy for America Program](%C2%A7%2008107%20-%20Rural%20Energy%20for%20America%20Program.md)
+- [&sect; 08108 - Biomass research and development](%C2%A7%2008108%20-%20Biomass%20research%20and%20development.md)
+- [&sect; 08109 - Rural Energy Self-Sufficiency Initiative](%C2%A7%2008109%20-%20Rural%20Energy%20Self-Sufficiency%20Initiative.md)
+- [&sect; 08110 - Feedstock flexibility program for bioenergy producers](%C2%A7%2008110%20-%20Feedstock%20flexibility%20program%20for%20bioenergy%20producers.md)
+- [&sect; 08111 - Biomass Crop Assistance Program](%C2%A7%2008111%20-%20Biomass%20Crop%20Assistance%20Program.md)
+- [&sect; 08112 - Forest biomass for energy](%C2%A7%2008112%20-%20Forest%20biomass%20for%20energy.md)
+- [&sect; 08113 - Community wood energy program](%C2%A7%2008113%20-%20Community%20wood%20energy%20program.md)
+- [&sect; 08114 - Sun grant program](%C2%A7%2008114%20-%20Sun%20grant%20program.md)

@@ -14,7 +14,7 @@
 
 &emsp;(iii) not inconsistent with this subchapter.
 
-(B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in anattachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
+(B) A list of the Federal requirements that meet the requirements of clauses (i) through (iii) of subparagraph (A) shall be included in an attachment to the contract pursuant to negotiations between the Secretary and the tribal organization.
 
 (C)(i) Except as provided in subparagraph (B), no Federal law listed in clause (ii) or any other provision of Federal law (including an Executive order) relating to acquisition by the Federal Government shall apply to a construction contract that a tribe or tribal organization enters into under this subchapter, unless expressly provided in such law.
 
@@ -86,7 +86,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 &emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the contract or purchased with funds under any self-determination contract or grant agreement shall, unless otherwise requested by the tribe or tribal organization, vest in the appropriate tribe or tribal organization;
 
-&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the timeof the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
+&emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of the retrocession, rescission, or termination of the self-determination contract or grant agreement, at the option of the Secretary, upon the retrocession, rescission, or termination, title to such property and equipment shall revert to the Department of the Interior or the Department of Health and Human Services, as appropriate; and
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement on the same basis as if title to such property were vested in the United States; and
 
@@ -112,7 +112,7 @@ Upon providing notice to the Secretary, a tribal organization that carries out a
 
 #### (k) Access to Federal sources of supply
 
-For purposes of section 501 of title 40 (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency and part of the Indian Health Service when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access. For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.
+For purposes of section 501 of title 40 (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency and part of the Indian Health Service when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to suchsources of supply on the same basis as employees of an executive agency have such access. For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.
 
 #### (<i>l</i>) Lease of facility used for administration and delivery of services
 
@@ -162,7 +162,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 &emsp;(iv) In the case of a fixed-price contract, a fair profit determined by taking into consideration the relevant risks and local market conditions.
 
-&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receiving such final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity for an appeal pursuant to section 450f(b) of this title).
+&emsp;(v) If the Secretary and the tribe or tribal organization are unable to develop a mutually agreeable construction contract proposal pursuant to the procedures set forth in this subsection, the tribe or tribal organization may submit a final contract proposal to the Secretary. Not later than 30 days after receivingsuch final contract proposal, the Secretary shall approve the contract proposal and award the contract, unless, during such period the Secretary declines the proposal pursuant to subsections (a)(2) and (b) <sup>2</sup> of section 450f of this title (including providing opportunity for an appeal pursuant to section 450f(b) of this title).
 
 #### (n) Rental rates for housing for Government employees in Alaska
 
@@ -178,7 +178,7 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 #### (1) In general
 
-&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions oftitle 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
+&emsp;At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
 
 #### (2) Treatment of records
 
@@ -224,7 +224,7 @@ Subsec. (<i>o</i>). Pub. L. 106–260, §8, added subsec. (<i>o</i>).
 
 1996—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C.401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
+1994—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
 
 Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
 

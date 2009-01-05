@@ -58,7 +58,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (B)(i) The board of directors of a Native Corporation electing application of this subsection shall, at least once prior to January 1, 1991, approve, and submit to a vote of the shareholders, an amendment to the articles of incorporation of the corporation to extend alienability restrictions. If the amendment is not approved by the shareholders, the board of directors may submit another such amendment to the shareholders once or more a year until December 18, 1991.
 
-(ii) In lieu of approving the amendment to the articles of incorporation described in clause (i) and submitting such amendment to a vote of the shareholders, at any time prior to January 1, 1991, the board of directors of a Native Corporation that has approved a resolution described in paragraph (1)(A) may approve a new resolution rescinding that prior resolution. Upon approval of the new resolution rescinding a resolution described in paragraph (1)(A), the latter resolution shall be void and alienability restrictions on the Settlement Common Stock of such corporationshall continue subsequent to December 18, 1991, until such time as the alienability restrictions are terminated pursuant to the procedure described in subsection (b) of this section.
+(ii) In lieu of approving the amendment to the articles of incorporation described in clause (i) and submitting such amendment to a vote of the shareholders, at any time prior to January 1, 1991, the board of directors of a Native Corporation that has approved a resolution described in paragraph (1)(A) may approve a new resolution rescinding that prior resolution. Upon approval of the new resolution rescinding a resolution described in paragraph (1)(A), the latter resolution shall be void and alienability restrictions on the Settlement Common Stock of such corporation shall continue subsequent to December 18, 1991, until such time as the alienability restrictions are terminated pursuant to the procedure described in subsection (b) of this section.
 
 (iii) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of any provision in clause (ii) shall be barred unless it is filed within one year after the date of the vote of the board of directors approving a resolution to rescind a prior opt-in election under paragraph (1)(A). Any such civil action shall be filed in accordance with section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987 (101 Stat. 1813–1814).
 
@@ -86,7 +86,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 > shall notify the Corporation within ninety days of the date of the vote of the shareholders on the amendment of his or her desire.
 
-(B) Within one hundred and twenty days after the date of the vote described in subparagraph (A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
+(B) Within one hundred and twenty days after the date of the vote described in subparagraph\(A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
 
 &emsp;(i) alienable common stock in exchange for his or her Settlement Common Stock pursuant to paragraph (6), or
 
@@ -100,7 +100,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Alienable common stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
-(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made toshareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
+(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
 
 &emsp;(I) a share of alienable common stock carrying such right, or
 

@@ -14,7 +14,7 @@
 
 #### (1) Programs authorized
 
-&emsp;The Director shall award grants to 4-year institutions of higher education to facilitate theinstitutions’ creation or improvement of professional science master's degree programs that may include linkages between institutions of higher education and industries that employ science-trained personnel, with an emphasis on practical training and preparation for the workforce in high-need fields.
+&emsp;The Director shall award grants to 4-year institutions of higher education to facilitate the institutions’ creation or improvement of professional science master's degree programs that may include linkages between institutions of higher education and industries that employ science-trained personnel, with an emphasis on practical training and preparation for the workforce in high-need fields.
 
 #### (2) Application
 

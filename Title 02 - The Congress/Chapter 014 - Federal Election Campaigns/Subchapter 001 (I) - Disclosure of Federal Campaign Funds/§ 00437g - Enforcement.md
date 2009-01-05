@@ -6,7 +6,7 @@
 
 (2) If the Commission, upon receiving a complaint under paragraph (1) or on the basis of information ascertained in the normal course of carrying out its supervisory responsibilities, determines, by an affirmative vote of 4 of its members, that it has reason to believe that a person has committed, or is about to commit, a violation of this Act or chapter 95 or chapter 96 of title 26, the Commission shall, through its chairman or vice chairman, notify the person of the alleged violation. Such notification shall set forth the factual basis for such alleged violation. The Commission shall make an investigation of such alleged violation, which may include a field investigation or audit, in accordance with the provisions of this section.
 
-(3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit a brief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
+(3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit abrief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
 
 (4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is a complete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
 
@@ -26,6 +26,8 @@
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
+(iv) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2013.
+
 (5)(A) If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
 
 (B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
@@ -44,7 +46,7 @@
 
 (8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint during the 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
 
-(B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaintby the Commission, within 60 days after the date of the dismissal.
+(B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
 
 (C) In any proceeding under this paragraph the court may declare that the dismissal of the complaint or the failure to act is contrary to law, and may direct the Commission to conform with such declaration within 30 days, failing which the complainant may bring, in the name of such complainant, a civil action to remedy the violation involved in the original complaint.
 
@@ -76,7 +78,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 (B) In the case of a knowing and willful violation of section 441b(b)(3) of this title, the penalties set forth in this subsection shall apply to a violation involving an amount aggregating $250 or more during a calendar year. Such violation of section 441b(b)(3) of this title may incorporate a violation of section 441c(b), 441f, or 441g of this title.
 
-(C) In the case of a knowing and willful violation of section 441h of this title, the penalties set forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
+(C) In the case of a knowing and willful violation of section 441h of this title, the penaltiesset forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
 
 (D) Any person who knowingly and willfully commits a violation of section 441f of this title involving an amount aggregating more than $10,000 during a calendar year shall be—
 
@@ -100,7 +102,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 &emsp;(C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108.)
+(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108; Pub. L. 110–433, §1(a), Oct. 16, 2008, 122 Stat. 4971.)
 
 #### References in Text
 
@@ -117,6 +119,8 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 308, and wa
 Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is classified to section 439 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(4)(C)(iv). Pub. L. 110–433 added cl. (iv).
 
 2002—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
@@ -142,15 +146,19 @@ Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted “paragraph (4)” f
 
 Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change and added subsec. (c).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–433, §1(c), Oct. 16, 2008, 122 Stat. 4971, provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall take effect as if included in the enactment of the Treasury and General Government Appropriations Act, 2000 \[Pub. L. 106–58\].”
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
+Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by thissection \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 
 Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–58, title VI, §640(c), Sept. 29, 1999, 113 Stat. 477, as amended by Pub. L. 107–67, title VI, §642, Nov. 12, 2001, 115 Stat. 555; Pub. L. 108–199, div. F, title VI, §639, Jan. 23, 2004, 118 Stat. 359; Pub. L. 109–115, div. A, title VII, §721. Nov. 30, 2005, 119 Stat. 2493, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2008.”
+Pub. L. 106–58, title VI, §640(c), Sept. 29, 1999, 113 Stat. 477, as amended by Pub. L. 107–67, title VI, §642, Nov. 12, 2001, 115 Stat. 555; Pub. L. 108–199, div. F, title VI, §639, Jan. 23, 2004, 118 Stat. 359; Pub. L. 109–115, div. A, title VII, §721, Nov. 30, 2005, 119 Stat. 2493, which provided that the amendments made by section 640 of Pub. L. 106–58, amending this section, were applicable to violations relating to reporting periods beginning on or after Jan. 1, 2000, and ending on or before Dec. 31, 2008, was repealed by Pub. L. 110–433, §1(b), Oct. 16, 2008, 122 Stat. 4971.
 
 #### Effective Date of 1984 Amendment
 

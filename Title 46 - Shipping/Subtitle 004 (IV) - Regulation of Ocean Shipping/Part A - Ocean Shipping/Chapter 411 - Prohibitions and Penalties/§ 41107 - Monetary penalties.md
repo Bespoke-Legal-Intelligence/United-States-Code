@@ -6,7 +6,7 @@ In General.—A person that violates this part or a regulation or order of the F
 
 (b)
 
-Lien on Carrier's Vessels.—The amount of a civil penalty imposed on a common carrierunder this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.
+Lien on Carrier's Vessels.—The amount of a civil penalty imposed on a common carrier under this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1543.)
 

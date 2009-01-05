@@ -10,7 +10,7 @@ Act of March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 555, 26 Stat
 
 #### Codification
 
-Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
 Section was formerly classified to sections 94a and 132 of this title.
 

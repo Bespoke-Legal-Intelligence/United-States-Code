@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) describe continuing progress each year toward achieving the goals described in subparagraphs (A) and (B); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) annually submit to the Secretary a report indicating the number and percentage of classroom personnel described in subparagraphs (A) and (B)in center-based programs with child development associate credentials or associate, baccalaureate, or advanced degrees;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) annually submit to the Secretary a report indicating the number and percentage of classroom personnel described in subparagraphs (A) and (B) in center-based programs with child development associate credentials or associate, baccalaureate, or advanced degrees;
 
 &emsp;&emsp;&emsp;&emsp;(II) compile and submit a summary of all program reports described in subclause (I)(bb) to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate; and
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(A) provide technical assistance and training to enable Head Start agencies to establish such positions;
 
-&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or that are experiencing difficulty in meeting applicable education standards;
+&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff or thatare experiencing difficulty in meeting applicable education standards;
 
 &emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions to Head Start teachers at the appropriate level of career advancement in such programs; and
 
@@ -214,7 +214,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 #### (e) Model staffing plans
 
-Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the field of children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
+Not later than 1 year after May 18, 1994, the Secretary, in consultation with appropriate public agencies, private agencies, and organizations and with individuals with expertise in the fieldof children and family services, shall develop model staffing plans to provide guidance to local Head Start agencies and programs on the numbers, types, responsibilities, and qualifications of staff required to operate a Head Start program.
 
 #### (f) Professional development plans
 

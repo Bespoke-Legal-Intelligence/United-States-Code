@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 2007 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 2008 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -1469,13 +1469,13 @@ Pub. L. 98–89, §2(j), Aug. 26, 1983, 97 Stat. 599, provided that: “Within 2
 
 #### Repeals and Savings Provisions
 
-Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, repealed specified laws relating to shipping, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Oct. 6, 2006.
+Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, as amended by Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(C), Jan. 28, 2008, 122 Stat. 603, repealed specified laws relating to shipping, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Oct. 6, 2006.
 
 Pub. L. 100–710, title I, §106(a), Nov. 23, 1988, 102 Stat. 4752, provided that: “The repeal of a law by this title may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
 Pub. L. 100–710, title I, §106(b), Nov. 23, 1988, 102 Stat. 4752, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this title, which is Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 31301 of this title.
 
-Pub. L. 99–509, title V, subtitle B, §5104(a), Oct. 21, 1986, 100 Stat. 1928, provided that: “The repeal of a lawby this subtitle may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Pub. L. 99–509, title V, subtitle B, §5104(a), Oct. 21, 1986, 100 Stat. 1928, provided that: “The repeal of a law by this subtitle may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
 
 Pub. L. 99–509, title V, subtitle B, §5104(b), Oct. 21, 1986, 100 Stat. 1928, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 21, 1986.
 

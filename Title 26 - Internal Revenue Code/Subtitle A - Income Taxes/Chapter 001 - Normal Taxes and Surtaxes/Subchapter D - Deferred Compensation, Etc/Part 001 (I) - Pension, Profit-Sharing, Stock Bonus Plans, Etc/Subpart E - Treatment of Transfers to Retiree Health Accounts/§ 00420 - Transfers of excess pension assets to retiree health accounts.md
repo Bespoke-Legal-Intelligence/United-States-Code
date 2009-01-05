@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement).
+&emsp;&emsp;Any assets transferred to a health benefits account in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree health liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
 
 #### (B) Amounts not used to pay for health benefits
 
@@ -136,13 +136,13 @@ For purposes of this section—
 
 #### (D) Cost maintenance period
 
-&emsp;&emsp;For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer costrequired to be provided under subparagraph (A) for such taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
 
 #### (E) Regulations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent anemployer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
 
 #### (ii) Insignificant cost reductions permitted
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the lesser of—
 
-&emsp;&emsp;&emsp;(i) the fair market value of the plan's assets (reduced by the prefunding balanceand funding standard carryover balance determined under section 430(f)), or
+&emsp;&emsp;&emsp;(i) the fair market value of the plan's assets (reduced by the prefunding balance and funding standard carryover balance determined under section 430(f)), or
 
 &emsp;&emsp;&emsp;(ii) the value of plan assets as determined under section 430(g)(3) after reduction under section 430(f), over
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The requirements of subsection (c)(3) shall be treated as met if—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of such <sup>1</sup> the applicable employercost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided provides applicable health benefits during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a collectively bargained transfer, each collectively bargained group health plan under which collectively bargained health benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
 
@@ -372,7 +372,7 @@ For purposes of this section—
 
 #### (iii) Key employees excluded
 
-&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(I)(1)) <sup>2</sup> with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(I)(1)) <sup>1</sup> with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree health liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
 
 #### (C) Collectively bargained health benefits
 
@@ -386,7 +386,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “collectively bargained health plan” means a group health plan or arrangement for retired employees and their spouses and dependents that is maintained pursuant to 1 or more collective bargaining agreements.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110.)
 
 #### References in Text
 
@@ -397,6 +397,10 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+
+2008—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
+
+Subsec. (f)(2)(D)(i)(I). Pub. L. 110–458, §108(i)(2), struck out “such” after “average amount of”.
 
 2007—Subsec. (c)(3)(A). Pub. L. 110–28, §6613(a), substituted “transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).” for “transfer.”
 
@@ -420,7 +424,7 @@ Subsec. (e)(2). Pub. L. 109–280, §114(d)(1), reenacted heading without change
 
 Subsec. (e)(4). Pub. L. 109–280, §114(d)(2), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a qualified transfer to a health benefits account—
 
-&emsp;“(A) any assets transferred in a plan year on or before the valuation date for such year (and any incomeallocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
+&emsp;“(A) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
 
 &emsp;“(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting ‘10 plan years’ for ‘5 plan years’.”
 
@@ -454,6 +458,10 @@ Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–28, title VI, §6612(c), May 25, 2007, 121 Stat. 181, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the provisions of the Pension Protection Act of 2006 \[Pub. L. 109–280\] to which they relate.”
@@ -461,6 +469,8 @@ Pub. L. 110–28, title VI, §6612(c), May 25, 2007, 121 Stat. 181, provided tha
 Pub. L. 110–28, title VI, §6613(b), May 25, 2007, 121 Stat. 181, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[May 25, 2007\].”
 
 #### Effective Date of 2006 Amendment
+
+Amendment by section 114(d) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 114(g)(1) of Pub. L. 109–280, as added by Pub. L. 110–458, set out as a note under section 401 of this title.
 
 Pub. L. 109–280, title VIII, §841(b), Aug. 17, 2006, 120 Stat. 1009, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[Aug. 17, 2006\].”
 

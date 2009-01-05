@@ -2,7 +2,7 @@
 
 The purpose of this subtitle is to provide the Federal Government with an economical and efficient system for the following activities:
 
-&emsp;(1) Procuring and supplying property and nonpersonal services, and performing related functions including contracting, inspection, storage, issue, setting specifications, identification and classification, transportation and traffic management, establishment of pools or systems for transportation of Government personnel and property by motor vehicle within specific areas, management of public utility services, repairing and converting, establishment of inventory levels, establishment offorms and procedures, and representation before federal and state regulatory bodies.
+&emsp;(1) Procuring and supplying property and nonpersonal services, and performing related functions including contracting, inspection, storage, issue, setting specifications, identification and classification, transportation and traffic management, establishment of pools or systems for transportation of Government personnel and property by motor vehicle within specific areas, management of public utility services, repairing and converting, establishment of inventory levels, establishment of forms and procedures, and representation before federal and state regulatory bodies.
 
 &emsp;(2) Using available property.
 
@@ -27,6 +27,12 @@ Historical and Revision Notes
 40:471.
 
 June 30, 1949, ch. 288, §2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, §1, 68 Stat. 1126.
+
+#### Short Title of 2008 Amendment
+
+Pub. L. 110–371, §1, Oct. 8, 2008, 122 Stat. 4037, provided that: “This Act \[enacting section 14508 of this title and amending sections 14102, 14321, 14502 to 14507, 14526, 14703, and 14704 of this title\] may be cited as the ‘Appalachian Regional Development Act Amendments of 2008’.”
+
+Pub. L. 110–248, §1, June 26, 2008, 122 Stat. 2316, provided that: “This Act \[amending section 502 of this title\] may be cited as the ‘Local Preparedness Acquisition Act’.”
 
 #### Short Title of 2006 Amendment
 

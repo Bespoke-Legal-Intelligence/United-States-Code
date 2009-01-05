@@ -2,14 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[8631 to 8633. Repealed.\] |  |
-| [8634\.](%C2%A7%2008634%20-%20Air%20Force%20band%20may%20not%20be%20paid%20for%20performance%20outside%20air%20base.md) | Air Force band: may not be paid for performance outside air base. |
-| \[8635 to 8638. Repealed.\] |  |
+| \[8631 to 8638. Repealed.\] |  |
 | [8639\.](%C2%A7%2008639%20-%20Enlisted%20members%20officers%20not%20to%20use%20as%20servants.md) | Enlisted members: officers not to use as servants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–181, div. A, title V, §590(b)(2)(C), Jan. 28, 2008, 122 Stat. 138, struck out item 8634 “Air Force band: may not be paid for performance outside air base”.
 
 1980—Pub. L. 96–513, title V, §514(4), Dec. 12, 1980, 94 Stat. 2935, struck out items 8632 “Members of Air Force: forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs”, 8633 “Commissioned officers: forfeiture of pay when dropped from rolls”, and 8636 “Enlisted members: pay and allowances not to accrue during suspended sentence of dishonorable discharge”.
 
@@ -24,7 +24,7 @@
 
 - [&sect; 08631 - Repealed. Pub. L. 90&#8211;235, &sect;7(b)(1), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2008631%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)
 - [&sect; 08632, 8633 - Repealed. Pub. L. 87&#8211;649, &sect;14c(54), (55), Sept. 7, 1962, 76 Stat. 501, 502](%C2%A7%2008632%2C%208633%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714c%2854%29%2C%20%2855%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20501%2C%20502.md)
-- [&sect; 08634 - Air Force band may not be paid for performance outside air base](%C2%A7%2008634%20-%20Air%20Force%20band%20may%20not%20be%20paid%20for%20performance%20outside%20air%20base.md)
+- [&sect; 08634 - Repealed. Pub. L. 110&#8211;181, div. A, title V, &sect;590(b)(1), Jan. 28, 2008, 122 Stat. 138](%C2%A7%2008634%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7590%28b%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20138.md)
 - [&sect; 08635 - Repealed. Pub. L. 90&#8211;235, &sect;6(a)(7), Jan. 2, 1968, 81 Stat. 762](%C2%A7%2008635%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A76%28a%29%287%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20762.md)
 - [&sect; 08636 - Repealed. Pub. L. 87&#8211;649, &sect;14c(56), Sept. 7, 1962, 76 Stat. 502](%C2%A7%2008636%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714c%2856%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20502.md)
 - [&sect; 08637 - Repealed. Pub. L. 90&#8211;235, &sect;7(b)(1), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2008637%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)

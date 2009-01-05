@@ -42,7 +42,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(8) “law enforcement inquiry” means a lawful investigation or official proceeding inquiring into a violation of, or failure to comply with, any criminal or civil statute or any regulation, rule, or order issued pursuant thereto.
 
-(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), title IX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, §727(b)(1), Nov. 12, 1999, 113 Stat. 1475; Pub. L. 108–177, title III, §374(b), Dec. 13, 2003, 117 Stat. 2628.)
+(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), title IX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L.101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, §727(b)(1), Nov. 12, 1999, 113 Stat. 1475; Pub. L. 108–177, title III, §374(b), Dec. 13, 2003, 117 Stat. 2628.)
 
 #### References in Text
 

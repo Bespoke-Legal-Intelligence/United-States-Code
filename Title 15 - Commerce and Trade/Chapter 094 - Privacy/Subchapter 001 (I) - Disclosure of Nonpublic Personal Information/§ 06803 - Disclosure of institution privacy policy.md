@@ -54,7 +54,7 @@ The disclosure required by subsection (a) of this section shall include—
 
 #### (1) In general
 
-&emsp;The agencies referred to in section 6804(a)(1) of this title shall jointly develop a model form which may be used, at the option of the financial institution, for the provision of disclosures under this section.
+&emsp;The agencies referred to in section 6804(a)(1) of this title shall jointly develop a model formwhich may be used, at the option of the financial institution, for the provision of disclosures under this section.
 
 #### (2) Format
 

@@ -2,7 +2,7 @@
 
 #### (a) Transfer of real property to Secretary; existing rights applicable and status of property subsequent to transfer; taxation
 
-The Secretary, within one year following April 3, 1980, shall accept the real property of members of the tribe or bands if conveyed or otherwise transferred to him, and real property held for the benefit of members of the tribe or bands if conveyed or otherwise transferred to him by the owner or owners of such land held for the benefit of the bands. Such property shall be subject to all valid existing rights including, but not limited to, liens, outstanding taxes (local and State), and mortgages. The land transferredto the Secretary pursuant to this subsection shall be subject to foreclosure or sale pursuant to the terms of any valid existing obligation in accordance with the laws of the State of Utah. Subject to the conditions imposed by this subsection, the land transferred shall be taken in the name of the United States in trust for the tribe or bands to be held as Indian lands are held, and shall be part of their reservation. The transfer of real property authorized by this section shall be exempt from all local, State, and Federal taxation. All real property transferred under this section shall, as of the date of transfer, be exempt from all local, State, and Federal taxation.
+The Secretary, within one year following April 3, 1980, shall accept the real property of members of the tribe or bands if conveyed or otherwise transferred to him, and real property held for the benefit of members of the tribe or bands if conveyed or otherwise transferred to him by the owner or owners of such land held for the benefit of the bands. Such property shall be subject to all valid existing rights including, but not limited to, liens, outstanding taxes (local and State), and mortgages. The land transferred to the Secretary pursuant to this subsection shall be subject to foreclosure or sale pursuant to the terms of any valid existing obligation in accordance with the laws of the State of Utah. Subject to the conditions imposed by this subsection, the land transferred shall be taken in the name of the United States in trust for the tribe or bands to be held as Indian lands are held, and shall be part of their reservation. The transfer of real property authorized by this section shall be exempt from all local, State, and Federal taxation. All real property transferred under this section shall, as of the date of transfer, be exempt from all local, State, and Federal taxation.
 
 #### (b) Exercise of civil and criminal jurisdiction by Utah
 
@@ -38,7 +38,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 &emsp;(3) the transfer of any real property to the Secretary in trust for the benefit of the tribe or bands as an addition to the reservation shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
-&emsp;(4) the State of Utah shall exercise civil and criminal jurisdiction with respect to the addition to the reservation and persons on such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
+&emsp;(4) the State of Utah shall exercise civil and criminal jurisdiction with respect to the addition to the reservation and persons on such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82Stat. 79), and pursuant to sections 63–36–9 through 63–36–21 of the Utah State Code.
 
 #### (f) Statement appended to enlargement plan respecting implementation of notification and consultative requirements
 
@@ -134,7 +134,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 &emsp;“(3) To be held in trust for the Cedar Band of the Paiute Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately two thousand forty-four acres.
 
-&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
+&emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion ofparcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
 
 “(c) Nothing in this section shall deprive any person of any existing legal right-of-way, mining claim, grazing permit, water right, or other right or interest which such person may have in the lands described in subsection (b).
 

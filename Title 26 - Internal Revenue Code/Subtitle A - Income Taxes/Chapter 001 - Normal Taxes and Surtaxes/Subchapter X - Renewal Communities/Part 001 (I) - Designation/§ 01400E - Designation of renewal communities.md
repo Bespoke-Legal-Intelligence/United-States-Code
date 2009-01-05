@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this section, the nominated areas designated as renewal communities under this subsection shall be those nominated areas with thehighest average ranking with respect to the criteria described in subparagraphs (B), (C), and (D) of subsection (c)(3). For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area which exceeds such criterion by the greatest amount given the highest ranking.
+&emsp;&emsp;Except as otherwise provided in this section, the nominated areas designated as renewal communities under this subsection shall be those nominated areas with the highest average ranking with respect to the criteria described in subparagraphs (B), (C), and (D) of subsection (c)(3). For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area which exceeds such criterion by the greatest amount given the highest ranking.
 
 #### (B) Exception where inadequate course of action, etc.
 
@@ -48,7 +48,7 @@
 
 #### (A) Publication of regulations
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall prescribe by regulation no later than 4 months after the date of the enactment of this section, after consultation with the officials described in paragraph (1)(B)—
+&emsp;&emsp;The Secretary of Housing and Urban Development shall prescribe by regulation nolater than 4 months after the date of the enactment of this section, after consultation with the officials described in paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) the procedures for nominating an area under paragraph (1)(A),
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(i) has a population of not more than 200,000 and at least—
 
-&emsp;&emsp;&emsp;&emsp;(I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i)) is located within ametropolitan statistical area (within the meaning of section 143(k)(2)(B)) which has a population of 50,000 or greater, or
+&emsp;&emsp;&emsp;&emsp;(I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i)) is located within a metropolitan statistical area (within the meaning of section 143(k)(2)(B)) which has a population of 50,000 or greater, or
 
 &emsp;&emsp;&emsp;&emsp;(II) 1,000 in any other case, or
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) the poverty rate for each population census tract within the nominated area is at least 20 percent, and
 
-&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the area have incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) of the Housing and Community Development Act of 1974).
+&emsp;&emsp;(D) in the case of an urban area, at least 70 percent of the households living in the area have incomes below 80 percent of the median income of households within the jurisdiction of the local government (determined in the same manner as under section 119(b)(2) ofthe Housing and Community Development Act of 1974).
 
 #### (4) Consideration of other factors
 
@@ -288,7 +288,7 @@ Pub. L. 108–357, title II, §222(b), Oct. 22, 2004, 118 Stat. 1432, provided t
 
 #### Audit and Report
 
-Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, andeconomic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
+Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
 
 #### Advisory Council on Community Renewal
 
@@ -314,7 +314,7 @@ Number and Appointment.—The Advisory Council shall be composed of 7 members ap
 
 “(b)
 
-Chairperson.—The Chairperson of the Advisory Council (in this part referred to as the ‘Chairperson’) shall be designated by the Secretary at the time of the appointment.
+Chairperson.—The Chairperson of the Advisory Council (in this part referred to as the ‘Chairperson’)shall be designated by the Secretary at the time of the appointment.
 
 “(c)
 

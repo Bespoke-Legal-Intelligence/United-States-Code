@@ -16,7 +16,7 @@
 
 (f) No pension shall be paid under this section to a surviving spouse of a veteran unless the spouse was married to the veteran—
 
-&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of a World War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or\(E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
+&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of a World War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or (E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
 
 &emsp;(2) for one year or more; or
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 88–664, §3(d), increased monthly pension rate in column 
 
 1959—Pub. L. 86–211 included widows of World War II and Korean conflict veterans in section catchline.
 
-Subsec. (a). Pub. L. 86–211 included widows of World War II and Korean conflict veterans, and struck out provisions which authorized payment of a monthly pension of $50.40 to a widow with no child and $63 to a widow with one child, with $7.56 for each additional child. See subsecs. (b) to (d) of this section.
+Subsec. (a). Pub. L. 86–211 included widows of World War II and Korean conflict veterans, and struck out provisions which authorized payment of a monthly pension of $50.40 to a widow with no child and $63 to awidow with one child, with $7.56 for each additional child. See subsecs. (b) to (d) of this section.
 
 Subsecs. (b) to (e). Pub. L. 86–211 added subsecs. (b) to (d), redesignated former subsec. (b) as (e), and inserted provisions relating to the date by which a widow was required to be married to a veteran of World War II or the Korean conflict.
 

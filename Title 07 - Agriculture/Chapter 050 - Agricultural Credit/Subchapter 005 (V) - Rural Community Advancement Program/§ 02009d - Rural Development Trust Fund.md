@@ -56,7 +56,7 @@ The function categories described in this subsection are the following:
 
 &emsp;&emsp;(A) rural business opportunity grants under section 1926(a)(11)(A) of this title;
 
-&emsp;&emsp;(B) business and industry direct and guaranteed loans under section 1932(a)(1) of this title; or
+&emsp;&emsp;(B) business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title; or
 
 &emsp;&emsp;(C) rural business enterprise grants or rural educational network grants under section 1932(c) of this title.
 
@@ -68,7 +68,7 @@ The function categories described in this subsection are the following:
 
 #### (2) Use of funds
 
-&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
+&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts inthe federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
 
 #### (f) Allocation among States
 
@@ -78,9 +78,15 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (d)(3)(B). Pub. L. 110–246, §6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
 
 2002—Subsec. (b)(4), (5). Pub. L. 107–171, §6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
 
@@ -95,4 +101,8 @@ Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h
 Pub. L. 106–472, §304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
 1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

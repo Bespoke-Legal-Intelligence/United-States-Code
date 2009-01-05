@@ -22,7 +22,7 @@
 
 &emsp;(C) No company formed for the sole purpose of participating in a proxy solicitation is a bank holding company by virtue of its control of voting rights of shares acquired in the course of such solicitation.
 
-&emsp;(D) No company is a bank holding company by virtue of its ownership or control of shares acquired in securing or collecting a debt previously contracted in good faith, until two years after the date of acquisition. The Board is authorized upon application by a company to extend, from time to time for not more than one year at a time, the two-year period referred to herein for disposing of any shares acquired by a company in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years.
+&emsp;(D) No company is a bank holding company by virtue of its ownership or control of sharesacquired in securing or collecting a debt previously contracted in good faith, until two years after the date of acquisition. The Board is authorized upon application by a company to extend, from time to time for not more than one year at a time, the two-year period referred to herein for disposing of any shares acquired by a company in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years.
 
 &emsp;(E) No company is a bank holding company by virtue of its ownership or control of any State-chartered bank or trust company which—
 
@@ -258,7 +258,7 @@ Well managed.—The term “well managed” means—
 
 &emsp;&emsp;(A) in the case of any company or depository institution which receives examinations, the achievement of—
 
-&emsp;&emsp;&emsp;(i) a CAMEL composite rating of 1 or 2 (or an equivalent rating under an equivalent rating system) in connection with the most recent examination or subsequent review of such company or institution; and
+&emsp;&emsp;&emsp;(i) a CAMEL composite rating of 1 or 2 (or an equivalent rating under an equivalent rating system) in connection with themost recent examination or subsequent review of such company or institution; and
 
 &emsp;&emsp;&emsp;(ii) at least a satisfactory rating for management, if such rating is given; or
 
@@ -352,7 +352,7 @@ Subsecs. (p), (q). Pub. L. 106–102, §103(c)(1)(B), added subsecs. (p) and (q)
 
 Subsec. (c)(2)(F). Pub. L. 104–208, §2304(b), inserted “, including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means” after “An institution” in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bankholding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
+Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as follows: “shares transferred after January 1, 1966, by any bank holding company (or by any company which, but for such transfer, would be a bank holding company) directly or indirectly to any transferee that is indebted to the transferor, or has one or more officers, directors, trustees, or beneficiaries in common with or subject to control by the transferor, shall be deemed to be indirectly owned or controlled by the transferor unless the Board, after opportunity for hearing, determines that the transferor is not in fact capable of controlling the transferee.”
 
 Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -388,7 +388,7 @@ Subsec. (i)(4). Pub. L. 97–320, §118(b), added cl. (4).
 
 1977—Subsec. (a)(5)(D). Pub. L. 95–188 authorized the Board to extend the time for disposition of acquired shares for not more than one year at a time and three years in the aggregate.
 
-1970—Subsec. (a). Pub. L. 91–607, §101(a), in revising the provisions, added par. (1) definition of bank holding company; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
+1970—Subsec. (a). Pub. L. 91–607, §101(a), in revising the provisions, added par. (1) definition of bank holdingcompany; incorporated provisions of former cl. (1) in provisions designated as par. (2)(A), inserting text respecting company acting through one or more other persons, substituting “power to vote” for “holds with power to vote” and provision for voting of any class of voting securities of the bank or company for prior provision for voting of voting shares of each of two or more banks; incorporated former provisions of former cl. (2) in provisions designated as par. (2)(B), providing for election of trustees and substituting bank or company for directors of each of two or more banks designated cl. (A) as par. (5)(A), inserting provision that acquisition of shares shall not be deemed acquisition of shares in a fiduciary capacity if the banks or company has sole discretionary authority to exercise voting rights with respect thereto, and making such limitation applicable to bank or company acquiring the shares prior to Dec. 31, 1970, where there is right of divestiture of voting rights and there is a failure to exercise that right within reasonable time not exceeding one year after Dec. 31, 1970; incorporated former cls. (B) and (C) in provisions designated as pars. (5)(B) and (C); added par. (5)(D) to (F); and designated concluding part of first sentence as par. (6), substituting “from the date on which” for “from the date as of which”.
 
 Subsec. (b). Pub. L. 91–607, §101(b), redefined term “company” to include “partnership”, which has been expressly excluded, and inserted definition of “company covered in 1970”.
 
@@ -442,7 +442,7 @@ Pub. L. 97–290, title II, §201, Oct. 8, 1982, 96 Stat. 1235, provided that: �
 
 #### Short Title of 1970 Amendment
 
-Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31, Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
+Section 1 of Pub. L. 91–607 provided: “That this Act \[enacting chapter 22 (§1971 et seq.) and section 1850 of this title and sections 324b and 324c of former Title 31,Money and Finance, amending sections 1841 to 1843 and 1849 of this title and sections 324, 391 of former Title 31, repealing sections 316 and 458 of former Title 31, enacting provisions set out as notes under sections 317e and 391 of former Title 31, and amending provisions set out as a note under section 405a–1 of former Title 31\] may be cited as the ‘Bank Holding Company Act Amendments of 1970’.”
 
 #### Short Title
 
@@ -450,7 +450,7 @@ Section 1 of act May 9, 1956, provided: “That this Act \[enacting this chapter
 
 #### Separability
 
-Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons orcircumstances other than those to which it is held invalid, shall not be affected thereby.”
+Section 12 of act May 9, 1956, provided that: “If any provision of this Act \[enacting this chapter and sections 1101 to 1103 of Title 26, Internal Revenue Code\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the Act, and the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 #### Transfer of Functions
 

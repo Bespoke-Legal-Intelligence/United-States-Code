@@ -6,19 +6,37 @@ In General.—In any case in which a covered beneficiary is referred by a primar
 
 (b)
 
+Outreach Program and Travel Reimbursement for Follow-on Specialty Care and Related Services.—The Secretary concerned shall ensure that an outreach program is implemented for each member of the uniformed services who incurred a combat-related disability and is entitled to retired or retainer pay, or equivalent pay, so that—
+
+&emsp;(1) the progress of the member is closely monitored; and
+
+&emsp;(2) the member receives the travel reimbursement authorized by subsection (a) whenever the member requires follow-on specialty care, services, or supplies.
+
+(c)
+
 Definitions.—In this section:
 
 &emsp;(1) The term “specialty care provider” includes a dental specialist.
 
 &emsp;(2) The term “dental specialist” means an oral surgeon, orthodontist, prosthodontist, periodontist, endodontist, or pediatric dentist, and includes such other providers of dental care and services as determined appropriate by the Secretary of Defense.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, §712, Nov. 24, 2003, 117 Stat. 1530.)
+&emsp;(3) The term “combat-related disability” has the meaning given that term in section 1413a of this title.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, §712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, §1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459.)
 
 #### Amendments
+
+2008—Subsecs. (b), (c). Pub. L. 110–181, §1632(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Subsec. (c)(3). Pub. L. 110–181, §1632(b), added par. (3).
 
 2003—Pub. L. 108–136 inserted “(a)
 
 In General.—” before “In any case” and added subsec. (b).
 
 2001—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title XVI, §1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: “Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies.”
 

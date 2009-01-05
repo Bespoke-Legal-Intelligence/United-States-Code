@@ -72,7 +72,7 @@
 
 &emsp;&emsp;Any bank which files an application for an interstate merger transaction shall—
 
-&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
+&emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which willresult from such transaction to the extent that the requirement—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 

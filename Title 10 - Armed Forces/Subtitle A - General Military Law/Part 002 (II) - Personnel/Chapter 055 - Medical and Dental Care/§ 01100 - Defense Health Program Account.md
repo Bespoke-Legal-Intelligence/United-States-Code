@@ -52,5 +52,5 @@ Section 701(d)(3) of Pub. L. 99–661 provided that: “Section 1100 of such tit
 
 #### Reports to Congress
 
-Section 701(c)(2) of Pub. L. 99–661 required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a)of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
+Section 701(c)(2) of Pub. L. 99–661 required Secretary to submit to Congress not later than May 1, 1987, a report on plans of Secretary for establishing diagnosis-related groups for inpatient services under section 1100(a) of this title, and not later than May 1, 1988, a report on plans of Secretary for establishing diagnosis-related groups for outpatient services under such section.
 

@@ -46,7 +46,7 @@ Factors.—In establishing or revising such system, the Postal Regulatory Commis
 
 &emsp;(8) the relative value to the people of the kinds of mail matter entered into the postal system and the desirability and justification for special classifications and services of mail;
 
-&emsp;(9) the importance of providing classifications with extremely high degrees of reliability and speed of delivery and of providingthose that do not require high degrees of reliability and speed of delivery;
+&emsp;(9) the importance of providing classifications with extremely high degrees of reliability and speed of delivery and of providing those that do not require high degrees of reliability and speed of delivery;
 
 &emsp;(10) the desirability of special classifications for both postal users and the Postal Service in accordance with the policies of this title, including agreements between the Postal Service and postal users, when available on public and reasonable terms to similarly situated mailers, that—
 
@@ -184,7 +184,7 @@ Report.—Whenever the Postal Service establishes a workshare discount rate, the
 
 (f)
 
-Transition Rule.—For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
+Transition Rule.—For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the PostalService during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 
 (Added Pub. L. 109–435, title II, §201(a), Dec. 20, 2006, 120 Stat. 3201.)
 

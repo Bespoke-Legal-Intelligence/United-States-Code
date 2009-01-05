@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent of the qualified investment for such taxable year.
+For purposes of section 46, the qualifying gasification project credit for any taxable year is an amount equal to 20 percent (30 percent in the case of credits allocated under subsection (d)(1)(B)) of the qualified investment for such taxable year.
 
 #### (b) Qualified investment
 
@@ -84,9 +84,11 @@ For purposes of this section—
 
 &emsp;&emsp;(E) petroleum residues,
 
-&emsp;&emsp;(F) forest products, and
+&emsp;&emsp;(F) forest products,
 
-&emsp;&emsp;(G) agriculture, including feedlots and dairy operations.
+&emsp;&emsp;(G) agriculture, including feedlots and dairy operations, and
+
+&emsp;&emsp;(H) transportation grade liquid fuels.
 
 #### (8) Petroleum residue
 
@@ -96,7 +98,11 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the date of the enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying gasification project program to consider and award certifications for qualified investment eligible for credits under this section to qualifying gasification project sponsors under this section. The total amounts of credit that may be allocated under the program shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).
+&emsp;Not later than 180 days after the date of the enactment of this section, the Secretary, in consultation with the Secretary of Energy, shall establish a qualifying gasification project program to consider and award certifications for qualified investment eligible for credits under this section to qualifying gasification project sponsors under this section. The total amounts of credit that may be allocated under the program shall not exceed—
+
+&emsp;&emsp;(A) $350,000,000, plus
+
+&emsp;&emsp;(B) $250,000,000 for qualifying gasification projects that include equipment which separates and sequesters at least 75 percent of such project's total carbon dioxide emissions.
 
 #### (2) Period of issuance
 
@@ -118,17 +124,45 @@ For purposes of this section—
 
 &emsp;&emsp;(F) the award recipient has met other criteria established and published by the Secretary.
 
+#### (4) Selection priorities
+
+&emsp;In determining which qualifying gasification projects to certify under this section, the Secretary shall—
+
+&emsp;&emsp;(A) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions, and
+
+&emsp;&emsp;(B) give high priority to applicant participants who have a research partnership withan eligible educational institution (as defined in section 529(e)(5)).
+
 #### (e) Denial of double benefit
 
 A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48A.
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004.)
+#### (f) Recapture of credit for failure to sequester
+
+The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).
+
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div. B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824.)
 
 #### References in Text
 
 The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 The date of the enactment of this section, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–343, §112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
+
+Subsec. (c)(7)(H). Pub. L. 110–343, §112(e), added subpar. (H).
+
+Subsec. (d)(1). Pub. L. 110–343, §112(b), substituted “shall not exceed—” for “shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).” and added subpars. (A) and (B).
+
+Subsec. (d)(4). Pub. L. 110–343, §112(d), added par. (4).
+
+Subsec. (f). Pub. L. 110–343, §112(c), added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title I, §112(f), Oct. 3, 2008, 122 Stat. 3824, provided that: “The amendments made by this section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
 #### Effective Date
 

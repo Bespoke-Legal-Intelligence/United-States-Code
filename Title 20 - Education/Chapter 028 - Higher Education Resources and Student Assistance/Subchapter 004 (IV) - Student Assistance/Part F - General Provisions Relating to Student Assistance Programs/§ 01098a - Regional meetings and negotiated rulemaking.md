@@ -4,21 +4,21 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall obtain public involvement in the development of proposed regulations for this subchapter and part C of subchapter I of chapter 34 of title 42; <sup>1</sup> The Secretary shall obtain the advice of and recommendations from individuals and representatives of the groups involved in student financial assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42, such as students, legal assistance organizations that represent students, institutions of higher education, guaranty agencies, lenders, secondary markets, loan servicers, guaranty agency servicers, and collection agencies.
+&emsp;The Secretary shall obtain public involvement in the development of proposed regulations for this subchapter and part C of subchapter I of chapter 34 of title 42; <sup>1</sup> The Secretary shall obtain the advice of and recommendations from individuals and representatives of the groups involved in student financial assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42, such as students, legal assistance organizations that represent students, institutions of higher education, State student grant agencies, guaranty agencies, lenders, secondary markets, loan servicers, guaranty agency servicers, and collection agencies.
 
 #### (2) Issues
 
-&emsp;The Secretary shall provide for a comprehensive discussion and exchange of information concerning the implementation of this subchapter and part C of subchapter I of chapter 34 of title 42, as amended by the Higher Education Amendments of 1998 through such mechanisms as regional meetings and electronic exchanges of information. The Secretary shall take into account the information received through such mechanisms in the development of proposed regulations and shall publish a summary of such information in the Federal Register together with such proposed regulations.
+&emsp;The Secretary shall provide for a comprehensive discussion and exchange of information concerning the implementation of this subchapter and part C of subchapter I of chapter 34 of title 42 through such mechanisms as regional meetings and electronic exchanges of information. The Secretary shall take into account the information received through such mechanisms in the development of proposed regulations and shall publish a summary of such information in the Federal Register together with such proposed regulations.
 
 #### (b) Draft regulations
 
 #### (1) In general
 
-&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 as amended by the Higher Education Amendments of 1998 and shall submit such regulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. To the extent possible, the Secretary shall select individuals reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
+&emsp;After obtaining the advice and recommendations described in subsection (a)(1) of this section and before publishing proposed regulations in the Federal Register, the Secretary shall prepare draft regulations implementing this subchapter and part C of subchapter I of chapter 34 of title 42 and shall submit such regulations to a negotiated rulemaking process. Participants in the negotiations process shall be chosen by the Secretary from individuals nominated by groups described in subsection (a)(1) of this section, and shall include both representatives of such groups from Washington, D.C., and industry participants. The Secretary shall select individuals with demonstrated expertise or experience in the relevant subjects under negotiation, reflecting the diversity in the industry, representing both large and small participants, as well as individuals serving local areas and national markets. The negotiation process shall be conducted in a timely manner in order that the final regulations may be issued by the Secretary within the 360-day period described in section 1232(e) of this title.
 
 #### (2) Expansion of negotiated rulemaking
 
-&emsp;All regulations pertaining to this subchapter and part C of subchapter I of chapter 34 of title 42 that are promulgated after October 7, 1998, shall be subject to a negotiated rulemaking (including the selection of the issues to be negotiated), unless the Secretary determines that applying such a requirement with respect to given regulations is impracticable, unnecessary, or contrary to the public interest (within the meaning of section 553(b)(3)(B) of title 5), and publishes the basis for such determinationin the Federal Register at the same time as the proposed regulations in question are first published. All published proposed regulations shall conform to agreements resulting from such negotiated rulemaking unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants in that process why the Secretary has decided to depart from such agreements. Such negotiated rulemaking shall be conducted in accordance with the provisions of paragraph (1), and the Secretary shall ensure that a clear and reliable record of agreements reached during the negotiations process is maintained.
+&emsp;All regulations pertaining to this subchapter and part C of subchapter I of chapter 34 of title 42 that are promulgated after October 7, 1998, shall be subject to a negotiated rulemaking (including the selection of the issues to be negotiated), unless the Secretary determines that applying such a requirement with respect to given regulations is impracticable, unnecessary, or contrary to the public interest (within the meaning of section 553(b)(3)(B) of title 5), and publishes the basis for such determination in the Federal Register at the same time as the proposed regulations in question are first published. All published proposed regulations shall conform to agreements resulting from such negotiated rulemaking unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants in that process why the Secretary has decided to depart from such agreements. Such negotiated rulemaking shall be conducted in accordance with the provisions of paragraph (1), and the Secretary shall ensure that a clear and reliable record of agreements reached during the negotiations process is maintained.
 
 #### (c) Applicability of Federal Advisory Committee Act
 
@@ -28,15 +28,19 @@ The Federal Advisory Committee Act shall not apply to activities carried out und
 
 There are authorized to be appropriated in any fiscal year or made available from funds appropriated to carry out this part in any fiscal year such sums as may be necessary to carry out the provisions of this section, except that if no funds are appropriated pursuant to this subsection, the Secretary shall make funds available to carry out this section from amounts appropriated for the operations and expenses of the Department of Education.
 
-(Pub. L. 89–329, title IV, §492, as added Pub. L. 102–325, title IV, §497, July 23, 1992, 106 Stat. 633; amended Pub. L. 105–244, title IV, §490D, Oct. 7, 1998, 112 Stat. 1755.)
+(Pub. L. 89–329, title IV, §492, as added Pub. L. 102–325, title IV, §497, July 23, 1992, 106 Stat. 633; amended Pub. L. 105–244, title IV, §490D, Oct. 7,1998, 112 Stat. 1755; Pub. L. 110–315, title IV, §494D, Aug. 14, 2008, 122 Stat. 3324.)
 
 #### References in Text
-
-The Higher Education Amendments of 1998, referred to in subsecs. (a)(2) and (b), is Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1001 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–315, §494D(a)(1), inserted “State student grant agencies,” after “institutions of higher education,”.
+
+Subsec. (a)(2). Pub. L. 110–315, §494D(a)(2), struck out “, as amended by the Higher Education Amendments of 1998” before “through such mechanisms”.
+
+Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out “as amended by the Higher Education Amendments of 1998” before “and shall submit”, substituted “The Secretary” for “To the extent possible, the Secretary”, and inserted “with demonstrated expertise or experience in the relevant subjects under negotiation,” after “select individuals”.
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
 
@@ -53,6 +57,12 @@ Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+#### Inapplicability of Master Calendar and Negotiated Rulemaking Requirements
+
+This section inapplicable to amendments made by section 402(a) of Pub. L. 110–315 or to any regulations promulgated under such amendments, see section 402(b) of Pub. L. 110–315, set out as a note under section 1089 of this title.
+
+This section inapplicable to amendments made by Pub. L. 110–227 or to any regulations promulgated under such amendments, see section 11 of Pub. L. 110–227, set out as a note under section 1089 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

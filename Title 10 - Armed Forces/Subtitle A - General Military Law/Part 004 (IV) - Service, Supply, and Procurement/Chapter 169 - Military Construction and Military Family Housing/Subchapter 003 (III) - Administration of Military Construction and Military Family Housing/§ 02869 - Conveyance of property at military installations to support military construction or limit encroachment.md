@@ -50,7 +50,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 &emsp;&emsp;(ii) a description of the military construction project, land acquisition, military family housing, or military unaccompanied housing to be carried out under the agreement in exchange for the conveyance of the property; and
 
-&emsp;&emsp;(iii) the amount of any payment to be made under subsection (b) or under section 2684a(d) of this title to equalize the fair market values of the property to be conveyed and the military construction project, land acquisition, military family housing, or military unaccompanied housing to be carried out under the agreement in exchange for the conveyance of the property; and
+&emsp;&emsp;(iii) the amount of any payment to be made under subsection (b) or under section 2684a(d) of this title to equalize the fair market values of the property to be conveyed and the military construction project, land acquisition, military family housing, ormilitary unaccompanied housing to be carried out under the agreement in exchange for the conveyance of the property; and
 
 &emsp;(B) the waiting period applicable to that notice under paragraph (3) expires.
 
@@ -106,5 +106,5 @@ Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) an
 
 Subsec. (e). Pub. L. 109–364, §2811(d), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may deposit funds received under subsection (b) in the Department of Defense housing funds established under section 2883(a) of this title.”
 
-Subsec. (f). Pub. L. 109–364, §2811(e), in heading substituted “Annual Reports; Effect of Failure to Submit” for “Annual Report”, designated existing provisions as par. (1), in introductory provisions substituted “Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a report detailing the following:” for “In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in subpar. (C) inserted “and of excess real property at military installations” before period at end, and added par. (2).
+Subsec. (f). Pub. L. 109–364, §2811(e), in heading substituted “Annual Reports; Effect of Failure to Submit” for “Annual Report”, designated existing provisions as par. (1), in introductory provisions substituted “Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a report detailing thefollowing:” for “In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in subpar. (C) inserted “and of excess real property at military installations” before period at end, and added par. (2).
 

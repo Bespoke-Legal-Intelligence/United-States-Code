@@ -14,7 +14,7 @@ International organizations shall enjoy the status, immunities, exemptions, and 
 
 (c) Property and assets of international organizations, wherever located and by whomsoever held, shall be immune from search, unless such immunity be expressly waived, and from confiscation. The archives of international organizations shall be inviolable.
 
-(d) Insofar as concerns customs duties and internal-revenue taxes imposed upon or by reason of importation, and the procedures in connection therewith; the registration of foreign agents; and the treatment of official communications, the privileges, exemptions, and immunities to which international organizations shall be entitled shall be those accorded under similar circumstances to foreign governments.
+(d) Insofar as concerns customs duties and internal-revenue taxes imposed upon or by reason of importation, and the procedures in connection therewith; the registration of foreignagents; and the treatment of official communications, the privileges, exemptions, and immunities to which international organizations shall be entitled shall be those accorded under similar circumstances to foreign governments.
 
 (Dec. 29, 1945, ch. 652, title I, §2, 59 Stat. 669.)
 

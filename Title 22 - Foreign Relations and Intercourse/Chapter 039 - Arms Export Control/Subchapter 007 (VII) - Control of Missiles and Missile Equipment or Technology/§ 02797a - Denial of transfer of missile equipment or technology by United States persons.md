@@ -32,7 +32,7 @@ In the case of any determination made pursuant to subsection (a) of this section
 
 #### (c) Presumption
 
-In determining whether to apply sanctions under subsection (a) of this section to a UnitedStates person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>1</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+In determining whether to apply sanctions under subsection (a) of this section to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>1</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
 
 #### (d) Waiver
 

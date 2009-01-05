@@ -10,7 +10,11 @@
 
 (4) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Army, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Army and shall advise the Secretary of the Army on financial management.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1038; amended Pub. L. 100–456, div. A, title VII, §702(a)(1), Sept. 29, 1988, 102 Stat. 1992.)
+(5)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
+
+(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title.
+
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1038; amended Pub. L. 100–456, div. A, title VII, §702(a)(1), Sept. 29, 1988, 102 Stat. 1992; Pub. L. 110–181, div. A, title IX, §908(a), Jan. 28, 2008, 122 Stat. 278.)
 
 #### Prior Provisions
 
@@ -19,6 +23,8 @@ Provisions similar to those in this section were contained in section 3013 of th
 A prior section 3016 was renumbered section 3018 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
 
 1988—Subsec. (b)(4). Pub. L. 100–456 added par. (4).
 

@@ -16,11 +16,11 @@
 
 #### (3) Critical circumstances determinations
 
-&emsp;If the final determination of the administering authority is affirmative, then that determination, in any investigation in which the presence of critical circumstances has been alleged under section 1673b(e) of this title, shall also contain a finding of whether—
+&emsp;If the final determination of the administering authority is affirmative, then that determination, in any investigation in which thepresence of critical circumstances has been alleged under section 1673b(e) of this title, shall also contain a finding of whether—
 
 &emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped imports in the United States or elsewhere of the subject merchandise, or
 
-&emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knewor should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
+&emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
 
 &emsp;&emsp;(B) there have been massive imports of the subject merchandise over a relatively short period.
 
@@ -96,7 +96,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) the administering authority shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated weighted average dumping margin or the estimated all-others rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall orderthe suspension of liquidation under section 1673b(d)(2) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 
@@ -142,7 +142,7 @@ Whenever the administering authority or the Commission makes a determination und
 
 The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
-(June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c), 605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c),605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### Amendments
 

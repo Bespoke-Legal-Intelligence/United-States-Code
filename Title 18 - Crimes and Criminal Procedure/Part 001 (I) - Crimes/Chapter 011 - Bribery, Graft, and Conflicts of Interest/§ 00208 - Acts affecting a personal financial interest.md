@@ -20,7 +20,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 &emsp;&emsp;(C) in an Indian claims fund held in trust or administered by the United States,
 
-> &emsp;if the particular matter does not involve the Indian allotment or claims fund or the Indiantribe, band, nation, organized group or community, or Alaska Native village corporation as a specific party or parties.
+> &emsp;if the particular matter does not involve the Indian allotment or claims fund or the Indian tribe, band, nation, organized group or community, or Alaska Native village corporation as a specific party or parties.
 
 (c)(1) For the purpose of paragraph (1) of subsection (b), in the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be deemed to be the Government official responsible for appointment.
 

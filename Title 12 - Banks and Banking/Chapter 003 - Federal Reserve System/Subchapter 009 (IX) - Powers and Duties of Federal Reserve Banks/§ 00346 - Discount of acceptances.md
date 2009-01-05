@@ -1,6 +1,6 @@
 ### §346. Discount of acceptances
 
-Any Federal reserve bank may discount acceptances of the kinds hereinafter described, which have a maturity at the time of discount of not more than ninety days’ sight, exclusive of days of grace, and which are indorsed by at least one member bank: <i>Provided</i>, That such acceptances if drawn for an agricultural purpose and secured at the time of acceptance by warehouse receipts or other such documents conveying or securing title covering readily marketable staples may be discounted with a maturity at the time of discount of not more than six months’ sight exclusive of days of grace.
+Any Federal reserve bank may discount acceptances of the kinds hereinafter described, which have a maturity at the time of discount of not more than ninety days’ sight, exclusive of days of grace, and which are indorsed by at least one member bank: <i>Provided</i>, That such acceptances if drawn for an agricultural purpose andsecured at the time of acceptance by warehouse receipts or other such documents conveying or securing title covering readily marketable staples may be discounted with a maturity at the time of discount of not more than six months’ sight exclusive of days of grace.
 
 (Dec. 23, 1913, ch. 6, §13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, §403, 42 Stat. 1479.)
 

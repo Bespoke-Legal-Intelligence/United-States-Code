@@ -32,7 +32,7 @@
 
 (f) For the purpose of computing the additional pay provided by subsection (b), (c), (d), or (e), a nurse's hourly rate of basic pay shall be derived by dividing such nurse's annual rate of basic pay by 2,080.
 
-(g) When a nurse is entitled to two or more forms of additional pay under subsection (b), (c), (d), or (e) for the same period of service, the amounts of such additional pay shall be computed separately on the basis of such nurse's hourly rate of basic pay, except that no overtime pay as provided in subsection (e) shall be payable for overtime service performed on a holiday designated by Federal statute or Executive order in addition to pay received under subsection (d) for such service.
+(g) When a nurse is entitled to two or more forms of additional pay under subsection (b), (c), (d), or (e) for the same period of service, the amounts of such additional pay shall be computed separately on the basis of such nurse'shourly rate of basic pay, except that no overtime pay as provided in subsection (e) shall be payable for overtime service performed on a holiday designated by Federal statute or Executive order in addition to pay received under subsection (d) for such service.
 
 (h) A nurse who is officially scheduled to be on call outside such nurse's regular hours or on a holiday designated by Federal statute or Executive order shall be paid for each hour of such on-call duty, except for such time as such nurse may be called back to work, at a rate equal to 10 percent of the hourly rate for excess service as provided in subsection (e).
 

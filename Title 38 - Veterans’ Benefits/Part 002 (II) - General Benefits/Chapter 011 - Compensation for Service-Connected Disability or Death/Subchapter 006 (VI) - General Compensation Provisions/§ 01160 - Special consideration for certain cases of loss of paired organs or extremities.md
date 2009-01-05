@@ -12,7 +12,7 @@
 
 &emsp;(3) deafness compensable to a degree of 10 percent or more in one ear as a result of service-connected disability and deafness in the other ear as the result of non-service-connected disability not the result of the veteran's own willful misconduct;
 
-&emsp;(4) the loss or loss of use of one hand or one foot as a result of service-connected disability and the loss or loss of use of the other hand orfoot as a result of non-service-connected disability not the result of the veteran's own willful misconduct; or
+&emsp;(4) the loss or loss of use of one hand or one foot as a result of service-connected disability and the loss or loss of use of the other hand or foot as a result of non-service-connected disability not the result of the veteran's own willful misconduct; or
 
 &emsp;(5) permanent service-connected disability of one lung, rated 50 percent or more disabling, in combination with a non-service-connected disability of the other lung that is not the result of the veteran's own willful misconduct,
 
@@ -38,7 +38,7 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 1976—Pub. L. 94–433 substituted “such veteran's” for “his” wherever appearing.
 
-1965—Pub. L. 89–311 added cl. (3) referring to total deafness in one ear as a result of service-connected disability and total deafness in the other ear as the result of non-service-connected disability not the result of his own willful misconduct, inserted reference to total deafness in both ears and, in section catchline, inserted reference to bilateral deafness.
+1965—Pub. L. 89–311 added cl. (3) referring to total deafness in one ear as a result of service-connected disability and total deafness in the other ear as the result of non-service-connected disability not the result of his own willful misconduct, inserted reference to totaldeafness in both ears and, in section catchline, inserted reference to bilateral deafness.
 
 #### Effective Date of 1986 Amendment
 

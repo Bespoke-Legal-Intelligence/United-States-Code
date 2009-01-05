@@ -14,7 +14,7 @@ Any person required under this title to pay any estimated tax or tax, or require
 
 1982—Pub. L. 97–248, §329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
 
-Pub. L. 97–248, §327, inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
+Pub. L. 97–248, §327, inserted last sentence providing that, in the case of any person with respect to whomthere is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
 
 1968—Pub. L. 90–364 struck out reference to section 6016.
 

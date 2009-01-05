@@ -10,7 +10,7 @@
 
 &emsp;(4) The chairman of the Committee on Armed Services of the Senate, or his designee.
 
-&emsp;(5) Three other members of the Senate designated by the Vice President or the Presidentpro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
+&emsp;(5) Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
 
 (b)(1) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
 

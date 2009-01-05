@@ -50,7 +50,7 @@ Action required.—Not later than 60 days after January 6, 2006, the Administrat
 
 &emsp;&emsp;(i) initiate an adjustment to the size standards, as described in subparagraph (A), if the Administrator determines that such an adjustment would be fair and appropriate; or
 
-&emsp;&emsp;(ii) provide a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives explaining in detail the basis for the determination by the Administrator that such an adjustment would not be fair and appropriate.
+&emsp;&emsp;(ii) provide a report to the Committee on Small Business and Entrepreneurship of theSenate and the Committee on Small Business of the House of Representatives explaining in detail the basis for the determination by the Administrator that such an adjustment would not be fair and appropriate.
 
 &emsp;(C)
 
@@ -164,9 +164,11 @@ For the purposes of this chapter, the term “small agricultural cooperative” 
 
 (2) For purposes of section 636(b)(2) of this title, the term “disaster” includes—
 
-&emsp;(A) drought; and
+&emsp;(A) drought;
 
-&emsp;(B) below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns.
+&emsp;(B) below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns; and
+
+&emsp;(C) ice storms and blizzards.
 
 #### (<i>l</i>) “Computer crime” defined
 
@@ -272,13 +274,13 @@ In this chapter:
 
 #### (A) Qualified census tract
 
-&emsp;&emsp;The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) of title 26.
+&emsp;&emsp;The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii) <sup>2</sup> of title 26.
 
 #### (B) Qualified nonmetropolitan county
 
 &emsp;&emsp;The term “qualified nonmetropolitan county” means any county—
 
-&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) of title 26; and
+&emsp;&emsp;&emsp;(i) that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) <sup>2</sup> of title 26; and
 
 &emsp;&emsp;&emsp;(ii) in which—
 
@@ -286,7 +288,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
 
-&emsp;&emsp;&emsp;&emsp;(III) there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
+&emsp;&emsp;&emsp;&emsp;(III) there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) <sup>2</sup> of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
 
 #### (C) Redesignated area
 
@@ -348,7 +350,7 @@ In this chapter:
 
 #### (D) List of qualified small business concerns
 
-&emsp;&emsp;The Administrator shall establish and maintain a list of qualified HUBZone smallbusiness concerns, which list shall, to the extent practicable—
+&emsp;&emsp;The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
 
 &emsp;&emsp;&emsp;(i) once the Administrator has made the certification required by subparagraph (A)(i) regarding a qualified HUBZone small business concern and has determined that subparagraph (A)(ii) does not apply to that concern, include the name, address, and type of business with respect to each such small business concern;
 
@@ -414,13 +416,35 @@ In this chapter, the following definitions apply:
 
 &emsp;The term “veteran” has the meaning given the term in section 101(2) of title 38.
 
+#### (5) Relief from time limitations
+
+#### (A) In general
+
+&emsp;&emsp;Any time limitation on any qualification, certification, or period of participation imposed under this chapter on any program that is available to small business concerns shall be extended for a small business concern that—
+
+&emsp;&emsp;&emsp;(i) is owned and controlled by—
+
+&emsp;&emsp;&emsp;&emsp;(I) a veteran who was called or ordered to active duty under a provision of law specified in section 101(a)(13)(B) of title 10 on or after September 11, 2001; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a service-disabled veteran who became such a veteran due to an injury or illness incurred or aggravated in the active military, naval, or air service during a period of active duty pursuant to a call or order to active duty under a provision of law referred to in subclause (I) on or after September 11, 2001; and
+
+&emsp;&emsp;&emsp;(ii) was subject to the time limitation during such period of active duty.
+
+#### (B) Duration
+
+&emsp;&emsp;Upon submission of proper documentation to the Administrator, the extension of a time limitation under subparagraph (A) shall be equal to the period of time that such veteran who owned or controlled such a concern was on active duty as described in that subparagraph.
+
+#### (C) Exception for programs subject to Federal Credit Reform Act of 1990
+
+&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+
 #### (r) Definitions relating to small business lending companies
 
 As used in section 650 of this title:
 
 #### (1) Small business lending company
 
-&emsp;The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
+&emsp;The term “small business lending company” means a business concern that is authorizedby the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
 
 #### (2) Non-Federally regulated SBA lender
 
@@ -432,17 +456,27 @@ As used in section 650 of this title:
 
 &emsp;&emsp;(C) the lending activities of such concern are not regulated by any Federal banking authority.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149,and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390.)
+#### (s) Major disaster
+
+In this chapter, the term “major disaster” has the meaning given that term in section 5122 of title 42.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173.)
 
 #### References in Text
 
-The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, as amended, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(f) of Title 12 and Tables.
+The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(e) of Title 12 and Tables.
 
 The Community Economic Development Act of 1981, referred to in subsec. (p)(3)(D)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489, as amended. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (p)(4)(A), (B)(i), (ii)(III), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
+
+The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Codification
 
 “Section 450b(e) of title 25”, referred to in subsec. (d), was in the original “section 4(a) of the Indian Self-Determination and Education Assistance Act” which is classified to section 450b(a) of Title 25, Indians, but has been editorially translated as section 450b(e) of Title 25 as the probable intent of Congress, in that the definition of “Indian Tribes” is set out in subsec. (e) of section 450b of Title 25.
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -451,6 +485,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2008—Subsec. (k)(2)(C). Pub. L. 110–246, §12071, added subpar. (C).
+
+Subsec. (q)(5). Pub. L. 110–186 added par. (5).
+
+Subsec. (s). Pub. L. 110–246, §12063(c)(1), added subsec. (s).
 
 2006—Subsec. (a)(4). Pub. L. 109–163, §844, added par. (4).
 
@@ -468,7 +508,7 @@ Subsec. (p)(3)(A). Pub. L. 108–447, §151(a)(1)(A), amended subpar. (A) genera
 
 Subsec. (p)(3)(E). Pub. L. 108–447, §151(a)(1)(B)–(D), added subpar. (E).
 
-Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.”
+Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the unemployment rate isnot less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.”
 
 Subsec. (p)(4)(C). Pub. L. 108–447, §152(c)(1), substituted “only until the later of—
 
@@ -510,7 +550,7 @@ Subsec. (p)(5)(A)(i)(I). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], ad
 
 Subsec. (p)(5)(A)(i)(I)(aa). Pub. L. 106–554, §1(a)(9) \[title VI, §614(2)\], substituted “subparagraph (A), (B), or (D)” for “subparagraph (A) or (B)”.
 
-Subsec. (p)(5)(A)(i)(II). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern willattempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and”.
+Subsec. (p)(5)(A)(i)(II). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (II) and struck out former subcl. (II) which read as follows: “not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and”.
 
 Subsec. (p)(5)(A)(i)(III)(cc). Pub. L. 106–554, §1(a)(9) \[title VI, §612(b)(1)\], added item (cc).
 
@@ -586,6 +626,10 @@ Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 1976—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
@@ -622,7 +666,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
 
-Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
+Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out asnotes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
 
 Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effective and Termination Dates of 1984 Amendments note under section 633 of this title.
 
@@ -664,11 +708,13 @@ Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, p
 
 #### Continued Effectiveness of Numerical Size Standards in Effect on September 30, 1988
 
-The last sentence of section 732 of Pub. L. 100–656 which provided that any numerical size standard thatpertained to any of the designated industry groups, and that was in effect on Sept. 30, 1988, was to remain in effect for the duration of the Program, was repealed by Pub. L. 103–160, div. A, title VIII, §850(1), Nov. 30, 1993, 107 Stat. 1726. See section 717(f) of Pub. L. 100–656, set out as a note under section 644 of this title.
+The last sentence of section 732 of Pub. L. 100–656 which provided that any numerical size standard that pertained to any of the designated industry groups, and that was in effect on Sept. 30, 1988, was to remain in effect for the duration of the Program, was repealed by Pub. L. 103–160, div. A, title VIII, §850(1), Nov. 30, 1993, 107 Stat. 1726. See section 717(f) of Pub. L. 100–656, set out as a note under section 644 of this title.
 
 #### Report on Effect of 1986 Amendments
 
 Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(i) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Administrator of the Small Business Administration, not later than July 15, 1987, to submit to Congress a report on the amendments to sections 632, 637, and 644 of this title made by this section which was to include Administrator's views on the advisability and feasibility of implementing such amendments, Administrator's findings and determinations under the review of size standards for businesses that qualify as small businesses carried out pursuant to 15 U.S.C. 632(a)(2)(B), a determination of whether or not the amendments to section 632 of this title would further the interests of the set-aside program, and recommendations for furthering certain interests in a more efficient or effective manner than provided in such amendments.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

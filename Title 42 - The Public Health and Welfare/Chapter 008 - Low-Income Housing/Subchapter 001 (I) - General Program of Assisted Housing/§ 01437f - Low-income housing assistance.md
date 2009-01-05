@@ -16,11 +16,11 @@ In general.—The Secretary is authorized to enter into annual contributions con
 
 (1) An assistance contract entered into pursuant to this section shall establish the maximum monthly rent (including utilities and all maintenance and management charges) which the owner is entitled to receive for each dwelling unit with respect to which such assistance payments are to be made. The maximum monthly rent shall not exceed by more than 10 per centum the fair market rental established by the Secretary periodically but not less than annually for existing or newly constructed rental dwelling units of various sizes and types in the market area suitable for occupancy by persons assisted under this section, except that the maximum monthly rent may exceed the fair market rental (A) by more than 10 but not more than 20 per centum where the Secretary determines that special circumstances warrant such higher maximum rent or that such higher rent is necessary to the implementation of a housing strategy as defined in section 12705 of this title, or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B). In the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after October 1, 1980. Proposed fair market rentals for an area shall be published in the Federal Register with reasonable time for public comment, and shall become effective upon the date of publication in final form in the Federal Register. Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section. Notwithstanding any other provision of this section, after October 12, 1977, the Secretary shall prohibit high-rise elevator projects for families with children unless there is no practical alternative. The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York. The Secretary shall also establish separate fair market rentals under this paragraph for Monroe County in the Commonwealth of Pennsylvania. In establishing fair market rentals for the remaining portion of the market area in which Monroe County is located, the Secretary shall establish the fair market rentals as if such portion included Monroe County. If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.
 
-(2)(A) The assistance contract shall provide for adjustment annually or more frequently in the maximum monthly rents for units covered by the contract to reflect changes in the fair market rentals established in the housing area for similar types and sizes of dwelling units or, if the Secretary determines, on the basis of a reasonable formula. However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. Except for assistance under the certificate program, for any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than1.0. In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area. The immediately foregoing two sentences shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.
+(2)(A) The assistance contract shall provide for adjustment annually or more frequently in the maximum monthly rents for units covered by the contract to reflect changes in the fair market rentals established in the housing area for similar types and sizes of dwelling units or, if the Secretary determines, on the basis of a reasonable formula. However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only tothe extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. Except for assistance under the certificate program, for any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area. The immediately foregoing two sentences shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.
 
 (B) The contract shall further provide for the Secretary to make additional adjustments in the maximum monthly rent for units under contract to the extent he determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units which have resulted from substantial general increases in real property taxes, utility rates, or similar costs which are not adequately compensated for by the adjustment in the maximum monthly rent authorized by subparagraph (A). The Secretary shall make additional adjustments in the maximum monthly rent for units under contract (subject to the availability of appropriations for contract amendments) to the extent the Secretary determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units that have resulted from the expiration of a real property tax exemption. Where the Secretary determines that a project assisted under this section is located in a community where drug-related criminal activity is generally prevalent and the project's operating, maintenance, and capital repair expenses have been substantially increased primarily as a result of the prevalence of such drug-related activity, the Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments for this purpose), on a project by project basis, provide adjustments to the maximum monthly rents, to a level no greater than 120 percent of the project rents, to cover the costs of maintenance, security, capital repairs, and reserves required for the owner to carry out a strategy acceptable to the Secretary for addressing the problem of drug-related criminal activity. Any rent comparability standard required under this paragraph may be waived by the Secretary to so implement the preceding sentence. The Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments), on a project by project basis for projects receiving project-based assistance, provide adjustments to the maximum monthly rents to cover the costs of evaluating and reducing lead-based paint hazards, as defined in section 4851b of this title.
 
-(C) Adjustments in the maximum rents under subparagraphs (A) and (B) shall not result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, as determined by the Secretary. In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units. If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied. The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic payments of the owner. Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.
+(C) Adjustments in the maximum rents under subparagraphs (A) and (B) shall not result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, as determined by the Secretary. In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units. If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied. The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic payments of the owner. Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effecton April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.
 
 (3) The amount of the monthly assistance payment with respect to any dwelling unit shall be the difference between the maximum monthly rent which the contract provides that the owner is to receive for the unit and the rent the family is required to pay under section 1437a(a) of this title. Reviews of family income shall be made no less frequently than annually.
 
@@ -46,11 +46,11 @@ In general.—The Secretary is authorized to enter into annual contributions con
 
 (C)(i) Criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control shall not be cause for termination of assistance, tenancy, or occupancy rights if the tenant or an immediate member of the tenant's family is the victim or threatened victim of that domestic violence, dating violence, or stalking.
 
-(ii) Notwithstanding clause (i) or any Federal, State, or local law to the contrary, an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing.
+(ii) Notwithstanding clause (i) or any Federal, State, or local law to the contrary, an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law forthe termination of leases or assistance under the relevant program of HUD-assisted housing.
 
 (iii) Nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up.
 
-(iv) Nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner or manager does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demandingstandard than other tenants in determining whether to evict or terminate.
+(iv) Nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner or manager does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate.
 
 (v) Nothing in clause (i) may be construed to limit the authority of an owner, manager, or public housing agency to evict or terminate from assistance any tenant or lawful occupant if the owner, manager or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance.
 
@@ -66,7 +66,7 @@ In general.—The Secretary is authorized to enter into annual contributions con
 
 &emsp;(ii) during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence;
 
-&emsp;(iii) during the term of the lease, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises, or any drug-related criminal activity on or near such premises, engaged in by a tenant of any unit, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (II) Notwithstanding <sup>1</sup> subclause (I) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing.<sup>2</sup> (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance,<sup>3</sup> to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.; <sup>4</sup>
+&emsp;(iii) during the term of the lease, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises, or any drug-related criminal activity on or near such premises, engaged in by a tenant of any unit, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (II) Notwithstanding <sup>1</sup> subclause (I) or any Federal, State, or local law to the contrary, a public housing agency may terminate assistance to, or an owner or manager may bifurcate a lease under this section, or remove a household member from a lease under this section, without regard to whether a household member is a signatory to a lease, in order to evict, remove, terminate occupancy rights, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant. Such eviction, removal, termination of occupancy rights, or termination of assistance shall be effected in accordance with the procedures prescribed by Federal, State, and local law for the termination of leases or assistance under the relevant program of HUD-assisted housing.<sup>2</sup> (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or actsof violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance,<sup>3</sup> to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.; <sup>4</sup>
 
 &emsp;(iv) any termination of tenancy shall be preceded by the owner's provision of written notice to the tenant specifying the grounds for such action; and
 
@@ -88,7 +88,7 @@ In general.—The Secretary is authorized to enter into annual contributions con
 
 (C) An assistance contract for project-based assistance under this paragraph shall provide that the owner shall ensure and maintain compliance with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle.
 
-(D) An owner of a covered section 8 housing project (as such term is defined in section 659 of the Housing and Community Development Act of 1992 \[42 U.S.C. 13619\]) may give preference for occupancy of dwelling units in the project, and reserve units for occupancy, in accordance with subtitle D of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13611 et seq.\].
+(D) An owner of a covered section 8 \[42 U.S.C. 1437f\] housing project (as such term is defined in section 659 of the Housing and Community Development Act of 1992 \[42 U.S.C. 13619\]) may give preference for occupancy of dwelling units in the project, and reserve units for occupancy, in accordance with subtitle D of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13611 et seq.\].
 
 (3) Notwithstanding any other provision of law, with the approval of the Secretary the public housing agency administering a contract under this section with respect to existing housing units may exercise all management and maintenance responsibilities with respect to those units pursuant to a contract between such agency and the owner of such units.
 
@@ -166,7 +166,7 @@ The Secretary may not consider the receipt by a public housing agency of assista
 
 #### (k) Verification of income
 
-The Secretary shall establish procedures which are appropriate and necessary to assure that income data provided to public housing agencies and owners by families applying for or receiving assistance under this section is complete and accurate. In establishing such procedures, the Secretary shall randomly, regularly, and periodically select a sample of families to authorize the Secretary to obtain information on these families for the purpose of income verification, or to allow those families to provide such information themselves. Such information may include, but is not limited to, data concerning unemployment compensation and Federal income taxation and data relating to benefits made available under the Social Security Act \[42 U.S.C. 301 et seq.\], the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], or title 38. Any such information received pursuant to this subsection shall remain confidential and shall be used only for the purpose of verifying incomes in order to determine eligibility of families for benefits (and the amount of such benefits, if any) under this section.
+The Secretary shall establish procedures which are appropriate and necessary to assure that income data provided to public housing agencies and owners by families applying for or receiving assistance under this section is complete and accurate. In establishing such procedures, the Secretary shall randomly, regularly, and periodically select a sample of families to authorize the Secretary to obtain information on these families for the purpose of income verification, or to allow those families to provide such information themselves. Such information may include, but is not limited to, data concerning unemployment compensation and Federal income taxation and data relating to benefits made available under the Social Security Act \[42 U.S.C. 301 et seq.\], the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], or title 38. Any such information received pursuant to this subsection shall remain confidential and shall beused only for the purpose of verifying incomes in order to determine eligibility of families for benefits (and the amount of such benefits, if any) under this section.
 
 #### (<i>l</i>), (m) Repealed. Pub. L. 98–181, title II, §209(a)(5), Nov. 30, 1983, 97 Stat. 1183
 
@@ -182,7 +182,7 @@ The Secretary shall establish procedures which are appropriate and necessary to 
 
 #### (B) Establishment of payment standard
 
-&emsp;&emsp;Except as provided under subparagraph (D), the payment standard for each size ofdwelling unit in a market area shall not exceed 110 percent of the fair market rental established under subsection (c) of this section for the same size of dwelling unit in the same market area and shall be not less than 90 percent of that fair market rental.
+&emsp;&emsp;Except as provided under subparagraph (D), the payment standard for each size of dwelling unit in a market area shall not exceed 110 percent of the fair market rental established under subsection (c) of this section for the same size of dwelling unit in the same market area and shall be not less than 90 percent of that fair market rental.
 
 #### (C) Set-aside
 
@@ -292,7 +292,7 @@ The Secretary shall establish procedures which are appropriate and necessary to 
 
 &emsp;&emsp;&emsp;&emsp;(II) apply generally to tenants in the property who are not assisted under this section;
 
-&emsp;&emsp;(C) shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence;
+&emsp;&emsp;(C) shall provide that during the term of the lease, the owner shall not terminate the tenancy except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violenceand shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence;
 
 &emsp;&emsp;(D) shall provide that during the term of the lease, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises, or any violent or drug-related criminal activity on or near such premises, engaged in by a tenant of any unit, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (ii)
 
@@ -322,7 +322,7 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 
 #### (C) Inspection
 
-&emsp;&emsp;The determination required under subparagraph (A) shall be made by the public housing agency (or other entity, as provided in paragraph (11)) pursuant to an inspection of the dwelling unit conducted before any assistance payment is made for the unit. Inspections of dwelling units under this subparagraph shall be made before the expiration of the 15-day period beginning upon a request by the resident or landlord to the public housing agency or, in the case of any public housing agency that provides assistance under this subsection on behalf of more than 1250 families, before the expiration of a reasonable period beginning upon such request. The performance of the agency in meeting the 15-day inspection deadline shall be taken into consideration in assessing the performance of the agency.
+&emsp;&emsp;The determination required under subparagraph (A) shall be made by the public housing agency (or other entity, as provided in paragraph (11)) pursuant to an inspectionof the dwelling unit conducted before any assistance payment is made for the unit. Inspections of dwelling units under this subparagraph shall be made before the expiration of the 15-day period beginning upon a request by the resident or landlord to the public housing agency or, in the case of any public housing agency that provides assistance under this subsection on behalf of more than 1250 families, before the expiration of a reasonable period beginning upon such request. The performance of the agency in meeting the 15-day inspection deadline shall be taken into consideration in assessing the performance of the agency.
 
 #### (D) Annual inspections
 
@@ -357,6 +357,18 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 #### (E) Penalties
 
 &emsp;&emsp;Unless otherwise authorized by the Secretary, each public housing agency shall pay any penalties from administrative fees collected by the public housing agency, except that no penalty shall be imposed if the late payment is due to factors that the Secretary determines are beyond the control of the public housing agency.
+
+#### (F) Tax credit projects
+
+&emsp;&emsp;In the case of a dwelling unit receiving tax credits pursuant to section 42 of title 26 or for which assistance is provided under subtitle A of title II of the Cranston Gonzalez <sup>12</sup> National Affordable Housing Act of 1990 \[12 U.S.C. 12741 et seq.\], for which a housing assistance contract not subject to paragraph (13) of this subsection is established, rent reasonableness shall be determined as otherwise provided by this paragraph, except that—
+
+&emsp;&emsp;&emsp;(i) comparison with rent for units in the private, unassisted local market shall not be required if the rent is equal to or less than the rent for other comparable units receiving such tax credits or assistance in the project that are not occupied by families assisted with tenant-based assistance under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) the rent shall not be considered reasonable for purposes of this paragraph if it exceeds the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the rents charged for other comparable units receiving such tax credits or assistance in the project that are not occupied by families assisted with tenant-based assistance under this subsection; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the payment standard established by the public housing agency for a unit of the size involved.
 
 #### (11) Leasing of units owned by PHA
 
@@ -404,7 +416,7 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not more than 25 percent of the dwelling units in any building may be assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph.
+&emsp;&emsp;&emsp;Not more than 25 percent of the dwelling units in any project may be assisted under a housing assistance payment contract for project-based assistance pursuant to this paragraph. For purposes of this subparagraph, the term “project” means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.
 
 #### (ii) Exceptions
 
@@ -424,21 +436,21 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 
 #### (F) Contract term
 
-&emsp;&emsp;A housing assistance payment contract pursuant to this paragraph between a public housing agency and the owner of a structure may have a term of up to 10 years, subject to the availability of sufficient appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriations Acts and in the agency's annual contributions contract with the Secretary, and to annual compliance with the inspection requirements under paragraph (8), except that the agency shall not be required to make annual inspections of each assisted unit in the development. The contract may specify additional conditions for its continuation. If the units covered by the contract are owned by the agency, the term of the contract shall be agreed upon by the agency and the unit of general local government or other entity approved by the Secretary in the manner provided under paragraph (11).
+&emsp;&emsp;A housing assistance payment contract pursuant to this paragraph between a publichousing agency and the owner of a structure may have a term of up to 15 years, subject to the availability of sufficient appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriations Acts and in the agency's annual contributions contract with the Secretary, and to annual compliance with the inspection requirements under paragraph (8), except that the agency shall not be required to make annual inspections of each assisted unit in the development. The contract may specify additional conditions for its continuation. If the units covered by the contract are owned by the agency, the term of the contract shall be agreed upon by the agency and the unit of general local government or other entity approved by the Secretary in the manner provided under paragraph (11).
 
 #### (G) Extension of contract term
 
-&emsp;&emsp;A public housing agency may enter into a contract with the owner of a structure assisted under a housing assistance payment contract pursuant to this paragraph to extend the term of the underlying housing assistance payment contract for such period as the agency determines to be appropriate to achieve long-term affordability of the housing or to expand housing opportunities. Such a contract shall provide that the extension of such term shall be contingent upon the future availability of appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriations Acts, and may obligate the owner to have such extensions of the underlying housing assistance payment contract accepted by the owner and the successors in interest of the owner.
+&emsp;&emsp;A public housing agency may enter into a contract with the owner of a structure assisted under a housing assistance payment contract pursuant to this paragraph to extend the term of the underlying housing assistance payment contract for such period as the agency determines to be appropriate to achieve long-term affordability of the housing or to expand housing opportunities. Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms of up to 15 years each, if the agency makes the determination required by this subparagraph and the owner is in compliance with the terms of the contract. Such a contract shall provide that the extension of such term shall be contingent upon the future availability of appropriated funds for the purpose of renewing expiring contracts for assistance payments, as provided in appropriations Acts, and may obligate the owner to have such extensions of the underlying housing assistance payment contract accepted by the owner and the successors in interest of the owner. A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the expiration of the housing assistance payment contract.
 
 #### (H) Rent calculation
 
-&emsp;&emsp;A housing assistance payment contract pursuant to this paragraph shall establish rents for each unit assisted in an amount that does not exceed 110 percent of the applicable fair market rental (or any exception payment standard approved by the Secretary pursuant to paragraph (1)(D)), except that if a contract covers a dwelling unit that has been allocated low-income housing tax credits pursuant to section 42 of title 26 and is not located in a qualified census tract (as such term is defined in subsection (d) of such section 42), the rent for such unit may be established at any level that does not exceed the rent charged for comparable units in the building that also receive the low-income housing tax credit but do not have additional rental assistance. The rents established by housing assistance payment contracts pursuant to this paragraph may vary from the payment standards established by the public housing agency pursuant to paragraph (1)(B), but shall be subject to paragraph (10)(A).
+&emsp;&emsp;A housing assistance payment contract pursuant to this paragraph shall establish rents for each unit assisted in an amount that does not exceed 110 percent of the applicable fair market rental (or any exception payment standard approved by the Secretary pursuant to paragraph (1)(D)), except that if a contract covers a dwelling unit that has been allocated low-income housing tax credits pursuant to section 42 of title 26 and is not located in a qualified census tract (as such term is defined in subsection (d) of such section 42), the rent for such unit may be established at any level that does not exceed the rent charged for comparable units in the building that also receive the low-income housing tax credit but do not have additional rental assistance, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pursuant to such section 42 is less than the amount that would otherwise be permitted under this subparagraph, the rent for such unit may, in the sole discretion of a public housing agency, be established at the higher section 8 \[42 U.S.C. 1437f\] rent, subject only to paragraph (10)(A). The rents established by housing assistance payment contracts pursuant to this paragraph may vary from the payment standards established by the public housing agency pursuant to paragraph (1)(B), but shall be subject to paragraph (10)(A).
 
 #### (I) Rent adjustments
 
 &emsp;&emsp;A housing assistance payments contract pursuant to this paragraph shall provide for rent adjustments, except that—
 
-&emsp;&emsp;&emsp;(i) the adjusted rent for any unit assisted shall be reasonable in comparison with rents charged for comparable dwelling units in the private, unassisted, local market and may not exceed the maximum rent permitted under subparagraph (H); and
+&emsp;&emsp;&emsp;(i) the adjusted rent for any unit assisted shall be reasonable in comparison with rents charged for comparable dwelling units in the private, unassisted, local market and may not exceed the maximum rent permitted under subparagraph (H), except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit; and
 
 &emsp;&emsp;&emsp;(ii) the provisions of subsection (c)(2)(C) of this section shall not apply.
 
@@ -459,6 +471,24 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 &emsp;&emsp;&emsp;That, if despite reasonable efforts of the agency and the owner to fill a vacant unit, no eligible family has agreed to rent the unit within 120 days after the owner has notified the agency of the vacancy, the agency may reduce its housing assistance payments contract with the owner by the amount equivalent to the remaining months of subsidy attributable to the vacant unit. Amounts deobligated pursuant to such a contract provision shall be available to the agency to provide assistance under this subsection.
 
 > &emsp;&emsp;Eligible applicants for assistance under this subsection may enforce provisions authorized by this subparagraph.
+
+#### (L) Use in cooperative housing and elevator buildings
+
+&emsp;&emsp;A public housing agency may enter into a housing assistance payments contract under this paragraph with respect to—
+
+&emsp;&emsp;&emsp;(i) dwelling units in cooperative housing; and
+
+&emsp;&emsp;&emsp;(ii) notwithstanding subsection (c), dwelling units in a high-rise elevator project, including such a project that is occupied by families with children, without review and approval of the contract by the Secretary.
+
+#### (M) Reviews
+
+#### (i) Subsidy layering
+
+&emsp;&emsp;&emsp;A subsidy layering review in accordance with section 3545(d) of this title shall not be required for assistance under this paragraph in the case of a housing assistance payments contract for an existing structure, or if a subsidy layering review has been conducted by the applicable State or local agency.
+
+#### (ii) Environmental review
+
+&emsp;&emsp;&emsp;A public housing agency shall not be required to undertake any environmental review before entering into a housing assistance payments contract under this paragraph for an existing structure, except to the extent such a review is otherwise required by law or regulation.
 
 #### (14) Inapplicability to tenant-based assistance
 
@@ -498,7 +528,7 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 
 #### (A) In general
 
-&emsp;&emsp;A public housing agency may make assistance payments on behalf of a family that uses an assisted living facility as a principal place of residence and that uses such supportive services made available in the facility as the agency may require. Such payments may be made only for covering costs of rental of the dwelling unit in the assisted living facility and not for covering any portion of the cost of residing in such facility that is attributable to service relating to assisted living.
+&emsp;&emsp;A public housing agency may make assistance payments on behalf of a family that uses an assisted living facility as a principal place of residence and that uses such supportive services made available in the facility as the agency may require. Such payments may be made only for covering costs of rental of the dwelling unit in the assistedliving facility and not for covering any portion of the cost of residing in such facility that is attributable to service relating to assisted living.
 
 #### (B) Rent calculation
 
@@ -560,15 +590,15 @@ Limitation.—Notwithstanding <sup>7</sup> clause (i) or any Federal, State, or
 
 #### (i) Public housing authority right to terminate for criminal acts
 
-&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) may be construed to limit the authority ofthe public housing agency to terminate voucher assistance to individuals who engage in criminal acts of physical violence against family members or others.
+&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) may be construed to limit the authority of the public housing agency to terminate voucher assistance to individuals who engage in criminal acts of physical violence against family members or others.
 
 #### (ii) Compliance with court orders
 
-&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up.
+&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) may be construed to limit the authority of a public housing agency, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address thedistribution or possession of property among the household members in cases where a family breaks up.
 
 #### (iii) Public housing authority right to terminate voucher assistance for lease violations
 
-&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) limit <sup>12</sup> any otherwise available authority of the public housing agency to terminate voucher assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to terminate.
+&emsp;&emsp;&emsp;Nothing in subparagraph (A), (B), or (C) limit <sup>13</sup> any otherwise available authority of the public housing agency to terminate voucher assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to terminate.
 
 #### (iv) Public housing authority right to terminate voucher assistance for imminent threat
 
@@ -626,7 +656,7 @@ In order to assist elderly families (as defined in section 1437a(b)(3) of this t
 
 &emsp;The Secretary shall also establish reasonable fees (as determined by the Secretary) for—
 
-&emsp;&emsp;(A) the costs of preliminary expenses, in the amount of $500, for a public housing agency, except that such fee shall apply to an agency only in the first year that the agency administers a tenant-based assistance program under this section, and only if, immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, the agency was not administering a tenant-based assistance program under this chapter (as in effect immediately before such effective date), in connection with its initial increment of assistance received;
+&emsp;&emsp;(A) the costs of preliminary expenses, in the amount of $500, for a public housing agency, except that such fee shall apply to an agency only in the first year that theagency administers a tenant-based assistance program under this section, and only if, immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, the agency was not administering a tenant-based assistance program under this chapter (as in effect immediately before such effective date), in connection with its initial increment of assistance received;
 
 &emsp;&emsp;(B) the costs incurred in assisting families who experience difficulty (as determined by the Secretary) in obtaining appropriate housing under the programs; and
 
@@ -706,7 +736,7 @@ In selecting families for the provision of assistance under this section (includ
 
 #### (u) Assistance for residents of rental rehabilitation projects
 
-In the case of low-income families living in rental projects rehabilitated under section 1437<i>o</i> <sup>13</sup> of this title or section 1490m of this title before rehabilitation—
+In the case of low-income families living in rental projects rehabilitated under section 1437<i>o</i> <sup>14</sup> of this title or section 1490m of this title before rehabilitation—
 
 &emsp;(1) vouchers under this section shall be made for families who are required to move out of their units because of the physical rehabilitation activities or because of overcrowding;
 
@@ -724,11 +754,11 @@ The Secretary may extend expiring contracts entered into under this section for 
 
 #### (1) Increase in budget authority
 
-&emsp;The budget authority available under section 1437c(c) of this title for assistance undersubsection (b) of this section is authorized to be increased by $100,000,000 on or after October 1, 1992, and by $104,200,000 on or after October 1, 1993.
+&emsp;The budget authority available under section 1437c(c) of this title for assistance under subsection (b) of this section is authorized to be increased by $100,000,000 on or after October 1, 1992, and by $104,200,000 on or after October 1, 1993.
 
 #### (2) Use of funds
 
-&emsp;The amounts made available under this subsection shall be used only in connection with tenant-based assistance under this section on behalf of (A) any family (i) who is otherwise eligible for such assistance, and (ii) who the public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family's child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care and (B) for a period not to exceed 18 months, otherwise eligible youths who have attained at least 18 years of age and not more than 21 years of age and who have left foster care at age 16 or older.
+&emsp;The amounts made available under this subsection shall be used only in connection withtenant-based assistance under this section on behalf of (A) any family (i) who is otherwise eligible for such assistance, and (ii) who the public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family's child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care and (B) for a period not to exceed 18 months, otherwise eligible youths who have attained at least 18 years of age and not more than 21 years of age and who have left foster care at age 16 or older.
 
 #### (3) Allocation
 
@@ -790,7 +820,7 @@ The Secretary may extend expiring contracts entered into under this section for 
 
 #### (B) Annual inspections not required
 
-&emsp;&emsp;The requirement under subsection (<i>o</i>)(8)(A)(ii) <sup>14</sup> of this section for annual inspections shall not apply to units assisted under this section.
+&emsp;&emsp;The requirement under subsection (<i>o</i>)(8)(A)(ii) <sup>15</sup> of this section for annual inspections shall not apply to units assisted under this section.
 
 #### (4) Other authority of the Secretary
 
@@ -804,7 +834,7 @@ The Secretary may extend expiring contracts entered into under this section for 
 
 &emsp;Assistance under this subsection shall not be subject to the requirements of the following provisions:
 
-&emsp;&emsp;(A) Subsection (c)(3)(B) <sup>14</sup> of this section.
+&emsp;&emsp;(A) Subsection (c)(3)(B) <sup>15</sup> of this section.
 
 &emsp;&emsp;(B) Subsection (d)(1)(B)(i) of this section.
 
@@ -818,7 +848,7 @@ The Secretary may extend expiring contracts entered into under this section for 
 
 #### (A) FHA-insured mortgages
 
-&emsp;&emsp;If a family receiving assistance under this subsection for occupancy of a dwelling defaults under a mortgage for the dwelling insured by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\], the family may not continue to receive rental assistance under this section unless the family (i) transfers to the Secretary marketable title to the dwelling, (ii) moves from the dwelling within the period established or approved by the Secretary, and (iii) agrees that any amounts the family is required to pay to reimburse the escrow account under section 1437u(d)(3) <sup>14</sup> of this title may be deducted by the public housing agency from the assistance payment otherwise payable on behalf of the family.
+&emsp;&emsp;If a family receiving assistance under this subsection for occupancy of a dwelling defaults under a mortgage for the dwelling insured by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\], the family may not continue to receive rental assistance under this section unless the family (i) transfers to the Secretary marketable title to the dwelling, (ii) moves from the dwelling within the period established or approved by the Secretary, and (iii) agrees that any amounts the family is required to pay to reimburse the escrow account under section 1437u(d)(3) <sup>15</sup> of this title may be deducted by the public housing agency from the assistance payment otherwise payable on behalf of the family.
 
 #### (B) Other mortgages
 
@@ -870,7 +900,7 @@ The Secretary may extend expiring contracts entered into under this section for 
 
 #### (1) Transfer of budget authority
 
-&emsp;If an assistance contract under this section, other than a contract for tenant-based assistance, is terminated or is not renewed, or if the contract expires, the Secretary shall, in orderto provide continued assistance to eligible families, including eligible families receiving the benefit of the project-based assistance at the time of the termination, transfer any budget authority remaining in the contract to another contract. The transfer shall be under such terms as the Secretary may prescribe.
+&emsp;If an assistance contract under this section, other than a contract for tenant-based assistance, is terminated or is not renewed, or if the contract expires, the Secretary shall, in order to provide continued assistance to eligible families, including eligible families receiving the benefit of the project-based assistance at the time of the termination, transfer any budget authority remaining in the contract toanother contract. The transfer shall be under such terms as the Secretary may prescribe.
 
 #### (2) Reuse and rescission of certain recaptured budget authority
 
@@ -920,7 +950,7 @@ Subject to amounts provided in appropriation Acts, starting in fiscal year 1999,
 
 #### (D) Limitation
 
-&emsp;&emsp;Nothing in this subsection shall be construed to require an owner, manager, or public housing agency to demand that an individual produce official documentation or physical proof of the individual's status as a victim of domestic violence, dating violence, or stalking in order to receive any of the benefits provided in this section. At theirdiscretion, the owner, manager, or public housing agency may provide benefits to an individual based solely on the individual's statement or other corroborating evidence.
+&emsp;&emsp;Nothing in this subsection shall be construed to require an owner, manager, or public housing agency to demand that an individual produce official documentation or physical proof of the individual's status as a victim of domestic violence, dating violence, or stalking in order to receive any of the benefits provided in this section. At their discretion, the owner, manager, or public housing agency may provide benefits to an individual based solely on the individual's statement or other corroborating evidence.
 
 #### (E) Compliance not sufficient to constitute evidence of unreasonable act
 
@@ -938,27 +968,27 @@ Subject to amounts provided in appropriation Acts, starting in fiscal year 1999,
 
 &emsp;&emsp;&emsp;(i) requested or consented to by the individual in writing;
 
-&emsp;&emsp;&emsp;(ii) required for use in an eviction proceeding under subsection (c)(9), (d)(1)(B(ii),<sup>15</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), or (<i>o</i>)(20) of this section,; <sup>16</sup> or
+&emsp;&emsp;&emsp;(ii) required for use in an eviction proceeding under subsection (c)(9), (d)(1)(B(ii),<sup>16</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), or (<i>o</i>)(20) of this section,; <sup>17</sup> or
 
 &emsp;&emsp;&emsp;(iii) otherwise required by applicable law.
 
 #### (B) Notification
 
-&emsp;&emsp;Public housing agencies must provide notice to tenants assisted under this section of their rights under this subsection and subsections (c)(9), (d)(1)(B(ii),<sup>15</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), (<i>o</i>)(20), and (r)(5) of this section, including their right to confidentiality and the limits thereof, and to owners and managers of their rights and obligations under this subsection and subsections (c)(9), (d)(1)(B(ii),<sup>15</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), (<i>o</i>)(20), and (r)(5) of this section.
+&emsp;&emsp;Public housing agencies must provide notice to tenants assisted under this section of their rights under this subsection and subsections (c)(9), (d)(1)(B(ii),<sup>16</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), (<i>o</i>)(20), and (r)(5) of this section, including their right to confidentiality and the limits thereof, and to owners and managers of their rights and obligations under this subsection and subsections (c)(9), (d)(1)(B(ii),<sup>16</sup> (d)(1)(B)(iii), (<i>o</i>)(7)(C), (<i>o</i>)(7)(D), (<i>o</i>)(20), and (r)(5) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §8, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 94–375, §2(d), (e), (g), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(c), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(c)–(e), Oct. 12, 1977, 91 Stat. 1128; Pub. L. 95–557, title II, §206(d)(1), (e), (f), Oct. 31, 1978, 92 Stat. 2091, 2092; Pub. L. 96–153, title II, §§202(b), 206(b), 210, 211(b), Dec. 21, 1979, 93 Stat. 1106, 1108–1110; Pub. L. 96–399, title II, §203, title III, §308(c)(3), Oct. 8, 1980, 94 Stat. 1629, 1641; Pub. L. 97–35, title III, §§322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, 95 Stat. 402, 405–407, 410; Pub. L. 98–181, title II, §§203(b)(1), (2), 207–209(a), 210, 211, Nov. 30, 1983, 97 Stat. 1178, 1181–1183; Pub. L. 98–479, title I, §102(b)(6)–(10), Oct. 17, 1984, 98 Stat. 2221, 2222; Pub. L. 100–242, title I, §§141–149, title II, §262, Feb. 5, 1988, 101 Stat. 1849–1853, 1890; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, 102 Stat. 3264, 3265, 3269, 3272; Pub. L. 101–235, title I, §127, title VIII, §801(c), (g), Dec. 15, 1989, 103 Stat. 2025, 2058, 2059; Pub. L. 101–625, title II, §289(b), title IV, §413, title V, §§541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§603, 613(a), Nov. 28, 1990, 104 Stat. 4128, 4160, 4216–4224, 4236, 4277, 4280; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–550, title I, §§141–148, 185(a), title VI, §§623(b), 660, 674, 675, 682(b), title X, §1012(g), Oct. 28, 1992, 106 Stat. 3713–3715, 3745, 3819, 3825, 3827, 3828, 3830, 3905; Pub. L. 103–233, title I, §101(c)(2), (3), (d), Apr. 11, 1994, 108 Stat. 357; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–19, title I, §1003, July 27, 1995, 109 Stat. 236; Pub. L. 104–99, title IV, §§402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, 110 Stat. 41, 42, 44; Pub. L. 104–134, title I, §101(e) \[title II, §§203(a)–(c), 208\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–281, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title IX, §903(a)(2), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–204, title II, §201(g), Sept. 26, 1996, 110 Stat. 2893; Pub. L. 105–18, title II, §10002, June 12, 1997, 111 Stat. 201; Pub. L. 105–33, title II, §§2003, 2004, Aug. 5, 1997, 111 Stat. 257; Pub. L. 105–65, title II, §§201(c), 205, title V, §523(a), (c), Oct. 27, 1997, 111 Stat. 1364, 1365, 1406, 1407; Pub. L. 105–276, title II, §209(a), title V, §§514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, 112 Stat. 2485, 2547, 2596–2607, 2609–2611, 2613, 2631; Pub. L. 106–74, title II, §223, title V, §§523(a), 531(d), 535, 538(a), Oct. 20, 1999, 113 Stat. 1076, 1104, 1116, 1121, 1122; Pub. L. 106–246, div. B, title II, §2801, July 13, 2000, 114 Stat. 569; Pub. L. 106–377, §1(a)(1) \[title II, §§205, 228, 232(a), 234\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24, 1441A–30, 1441A–31, 1441A–35; Pub. L. 106–569, title III, §301(a), title IX, §§902(a), 903(a), Dec. 27, 2000, 114 Stat. 2952, 3026; Pub. L. 107–95, §12, Dec. 21, 2001, 115 Stat. 921; Pub. L. 107–116, title VI, §632, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 109–162, title VI, §606, Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(d), (e), Aug. 12, 2006, 120 Stat. 759; Pub. L. 109–461, title VII, §710, Dec. 22, 2006, 120 Stat. 3441.)
+(Sept. 1, 1937, ch. 896, title I, §8, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 94–375, §2(d), (e), (g), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(c), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(c)–(e), Oct. 12, 1977, 91 Stat. 1128; Pub. L. 95–557, title II, §206(d)(1), (e), (f), Oct. 31, 1978, 92 Stat. 2091, 2092; Pub. L. 96–153, title II, §§202(b), 206(b), 210, 211(b), Dec. 21, 1979, 93 Stat. 1106, 1108–1110; Pub. L. 96–399, title II, §203, title III, §308(c)(3), Oct. 8, 1980, 94 Stat. 1629, 1641; Pub. L. 97–35, title III, §§322(e), 324–326(a), (e)(1), 329H(a), Aug. 13, 1981, 95 Stat. 402, 405–407, 410; Pub. L. 98–181, title II, §§203(b)(1), (2), 207–209(a), 210, 211, Nov. 30, 1983, 97 Stat. 1178, 1181–1183; Pub. L. 98–479, title I, §102(b)(6)–(10), Oct. 17, 1984, 98 Stat. 2221, 2222; Pub. L. 100–242, title I, §§141–149, title II, §262, Feb. 5, 1988, 101 Stat. 1849–1853, 1890; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, Nov. 7, 1988, 102 Stat. 3264, 3265, 3269, 3272; Pub. L. 101–235, title I, §127, title VIII, §801(c), (g), Dec. 15, 1989, 103 Stat. 2025, 2058, 2059; Pub. L. 101–625, title II, §289(b), title IV, §413, title V, §§541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§603, 613(a), Nov. 28, 1990, 104 Stat. 4128, 4160, 4216–4224, 4236, 4277, 4280; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–550, title I, §§141–148, 185(a), title VI, §§623(b), 660, 674, 675, 682(b), title X, §1012(g), Oct. 28, 1992, 106 Stat. 3713–3715, 3745, 3819, 3825, 3827, 3828, 3830, 3905; Pub. L. 103–233, title I, §101(c)(2), (3), (d), Apr. 11, 1994, 108 Stat. 357; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–19, title I, §1003, July 27, 1995, 109 Stat. 236; Pub. L. 104–99, title IV, §§402(d)(2), (3), (6)(A)(iii), (iv), 405(c), Jan. 26, 1996, 110 Stat. 41, 42, 44; Pub. L. 104–134, title I, §101(e) \[title II, §§203(a)–(c), 208\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–281, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title IX, §903(a)(2), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–204, title II, §201(g), Sept. 26, 1996, 110 Stat. 2893; Pub. L. 105–18, title II, §10002, June 12, 1997, 111 Stat. 201; Pub. L. 105–33, title II, §§2003, 2004, Aug. 5, 1997, 111 Stat. 257; Pub. L. 105–65, title II, §§201(c), 205, title V, §523(a), (c), Oct. 27, 1997, 111 Stat. 1364, 1365, 1406, 1407; Pub. L. 105–276, title II, §209(a), title V, §§514(b)(1), 545(a), (b), 547–549(a)(2), (b), 550(a), 552–555(a), 556(a), 565(c), Oct. 21, 1998, 112 Stat. 2485, 2547, 2596–2607, 2609–2611, 2613, 2631; Pub. L. 106–74, title II, §223, title V, §§523(a), 531(d), 535, 538(a), Oct. 20, 1999, 113 Stat. 1076, 1104, 1116, 1121, 1122; Pub. L. 106–246, div. B, title II, §2801, July 13, 2000, 114 Stat. 569; Pub. L. 106–377, §1(a)(1) \[title II, §§205, 228, 232(a), 234\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24, 1441A–30, 1441A–31, 1441A–35; Pub. L. 106–569, title III, §301(a), title IX, §§902(a), 903(a), Dec. 27, 2000, 114 Stat. 2952, 3026; Pub. L. 107–95, §12, Dec. 21, 2001, 115 Stat. 921; Pub. L. 107–116, title VI, §632, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 109–162, title VI, §606, Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(d), (e), Aug. 12, 2006, 120 Stat. 759; Pub. L. 109–461, title VII, §710, Dec. 22, 2006, 120 Stat. 3441; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(Y), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(Y), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 110–289, div. B, title VIII, §2835(a), July 30, 2008, 122 Stat. 2871.)
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (f)(4) and (<i>o</i>)(4)(D), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§1437aaaet seq.) of this chapter and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
-
-The Housing and Community Development Act of 1992, referred to in subsec. (d)(2)(C), (D), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of this title. Subtitle D of title VI of the Act is classified principally to subchapter II (§13611 et seq.) of chapter 135 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1992, referred to in subsec. (d)(2)(C), (D), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of this title. Subtitle D of title VI of the Act is classified principally to subchapter II (§13611 et seq.) of chapter 135 of this title. For completeclassification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
 
 Sections 514 and 517 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsecs. (d)(5) and (bb)(2), are sections 514 and 517 of Pub. L. 105–65, and are set out as a note under this section.
 
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (f)(4) and (<i>o</i>)(4)(D), (10)(F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of this title. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§1437aaa et seq.) of this chapter and subchapter IV (§12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+
 The Social Security Act, referred to in subsec. (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (k), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (k), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under 2011 of Title 7 and Tables.
 
 The Fair Housing Act, referred to in subsec. (<i>o</i>)(17), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -978,6 +1008,8 @@ Section 1437u(d)(3) of this title, relating to reimbursement of escrow accounts,
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 October 20, 1999, referred to in subsec. (t)(3)(B)(ii), was in the original “the enactment of this Act”, which was translated as meaning the enactment of Pub. L. 106–74, which enacted subsec. (t) of this section, to reflect the probable intent of Congress.
 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 262 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
@@ -987,6 +1019,22 @@ Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a
 A prior section 8 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized promulgation of rules and regulations by the Authority and was classified to section 1408 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+2008—Subsec. (k). Pub. L. 110–246, §4002(b)(1)(B), (2)(Y), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+Subsec. (<i>o</i>)(10)(F). Pub. L. 110–289, §2835(a)(2), added subpar. (F).
+
+Subsec. (<i>o</i>)(13)(D)(i). Pub. L. 110–289, §2835(a)(1)(A), substituted “any project” for “any building” and inserted at end “For purposes of this subparagraph, the term ‘project’ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.”
+
+Subsec. (<i>o</i>)(13)(F). Pub. L. 110–289, §2835(a)(1)(B), substituted “15 years” for “10 years”.
+
+Subsec. (<i>o</i>)(13)(G). Pub. L. 110–289, §2835(a)(1)(C), inserted after first sentence “Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms of up to 15 years each, if the agency makes the determination required by this subparagraph and the owner is in compliance with the terms of the contract.” and inserted at end “A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the expiration of the housing assistance payment contract.”
+
+Subsec. (<i>o</i>)(13)(H). Pub. L. 110–289, §2835(a)(1)(D), inserted before period at end of first sentence “, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pursuant to such section 42 is less than the amount that would otherwise be permitted under this subparagraph, the rent for such unit may, in the sole discretion of a public housing agency, be established at the higher section 8 rent, subject only to paragraph (10)(A)”.
+
+Subsec. (<i>o</i>)(13)(I)(i). Pub. L. 110–289, §2835(a)(1)(E), inserted before semicolon “, except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit”.
+
+Subsec. (<i>o</i>)(13)(L), (M). Pub. L. 110–289, §2835(a)(1)(F), added subpars. (L) and (M).
 
 2006—Subsec. (c)(9). Pub. L. 109–162, §606(1), added par. (9).
 
@@ -998,7 +1046,7 @@ Pub. L. 109–162, §606(2)(A), which directed insertion of “and that an appli
 
 Subsec. (d)(1)(B)(ii). Pub. L. 109–162, §606(2)(B), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking will not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and will not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-Subsec. (d)(1)(B)(iii). Pub. L. 109–162, §606(2)(C), inserted before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (II) notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing,terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+Subsec. (d)(1)(B)(iii). Pub. L. 109–162, §606(2)(C), inserted before semicolon at end “, except that: (I) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control, shall not be cause for termination of the tenancy or occupancy rights or program assistance, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (II) notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (III) nothing in subclause (I) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to or control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (IV) nothing in subclause (I) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (V) nothing in subclause (I) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate assistance, to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (VI) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
 Subsec. (d)(1)(B)(iii)(II). Pub. L. 109–271, §5(e)(2), added subcl. (II) and struck out former subcl. (II) which read as follows: “notwithstanding subclause (I), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager under this section may bifurcate a lease, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
@@ -1026,7 +1074,7 @@ Pub. L. 109–162, §606(4)(A), inserted “That an applicant or participant is 
 
 Subsec. (<i>o</i>)(7)(C). Pub. L. 109–162, §606(4)(B), inserted “, and that an incident or incidents of actual or threatened domestic violence, dating violence, or stalking shall not be construed as a serious or repeated violation of the lease by the victim or threatened victim of that violence and shall not be good cause for terminating the tenancy or occupancy rights of the victim of such violence” before semicolon at end.
 
-Subsec. (<i>o</i>)(7)(D). Pub. L. 109–162, §606(4)(C), inserted at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (ii) notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate, assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
+Subsec. (<i>o</i>)(7)(D). Pub. L. 109–162, §606(4)(C), inserted at end “; except that (i) criminal activity directly relating to domestic violence, dating violence, or stalking, engaged in by a member of a tenant's household or any guest or other person under the tenant's control shall not be cause for termination of the tenancy or occupancy rights, if the tenant or immediate member of the tenant's family is a victim of that domestic violence, dating violence, or stalking; (ii) notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and whoengages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant; (iii) nothing in clause (i) may be construed to limit the authority of a public housing agency, owner, or manager, when notified, to honor court orders addressing rights of access to control of the property, including civil protection orders issued to protect the victim and issued to address the distribution or possession of property among the household members in cases where a family breaks up; (iv) nothing in clause (i) limits any otherwise available authority of an owner or manager to evict or the public housing agency to terminate assistance to a tenant for any violation of a lease not premised on the act or acts of violence in question against the tenant or a member of the tenant's household, provided that the owner, manager, or public housing agency does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate; (v) nothing in clause (i) may be construed to limit the authority of an owner or manager to evict, or the public housing agency to terminate, assistance to any tenant if the owner, manager, or public housing agency can demonstrate an actual and imminent threat to other tenants or those employed at or providing service to the property if that tenant is not evicted or terminated from assistance; and (vi) nothing in this section shall be construed to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, or stalking.”
 
 Subsec. (<i>o</i>)(7)(D)(ii). Pub. L. 109–271, §5(e)(4)(B)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “notwithstanding clause (i), a public housing agency may terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, or an owner or manager may bifurcate a lease under this section, in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant and who engages in criminal acts of physical violence against family members or others, without evicting, removing, terminating assistance to, or otherwise penalizing the victim of such violence who is also a tenant or lawful occupant;”.
 
@@ -1120,7 +1168,7 @@ Subsec. (c)(4). Pub. L. 105–276, §550(a)(3)(B), struck out “or by a family 
 
 Subsec. (c)(5), (6). Pub. L. 105–276, §550(a)(3)(C), (D), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Assistance payments may be made with respect to up to 100 per centum of the dwelling units in any structure upon the application of the owner or prospective owner. Within the category of projects containing more than fifty units and designed for use primarily by nonelderly and nonhandicapped persons which are not subject to mortgages purchased under section 305 of the National Housing Act, the Secretary may give preference to applications for assistance involving not more than 20 per centum of the dwelling units in a project. In according any such preference, the Secretary shall compare applications received during distinct time periods not exceeding sixty days in duration.”
 
-Subsec. (c)(7). Pub. L. 105–276, §550(a)(3)(C), struck out par. (7) which read as follows: “To the extent authorized in contracts entered into by the Secretary with a public housing agency, such agency may purchase any structure containing one or more dwelling units assisted under this section for the purpose of reselling the structure to the tenant or tenants occupying units aggregating in value at least 80 per centum of the structure's total value. Any such resale may be made on the terms and conditions prescribed under section 1437c(h) of this title and subject to the limitation contained in such section.”
+Subsec. (c)(7). Pub. L. 105–276, §550(a)(3)(C), struck out par. (7) which read as follows: “To the extent authorized in contracts entered into by the Secretary with apublic housing agency, such agency may purchase any structure containing one or more dwelling units assisted under this section for the purpose of reselling the structure to the tenant or tenants occupying units aggregating in value at least 80 per centum of the structure's total value. Any such resale may be made on the terms and conditions prescribed under section 1437c(h) of this title and subject to the limitation contained in such section.”
 
 Subsec. (c)(8). Pub. L. 105–276, §549(b), redesignated par. (9) as (8)(A) and substituted subpars. (B) to (E) for “The Secretary shall review the owner's notice, shall consider whether there are additional actions that can be taken by the Secretary to avoid the termination, and shall ensure a proper adjustment of the contract rents for the project in conformity with the requirements of paragraph (2). The Secretary shall issue a written finding of the legality of the termination and the reasons for the termination, including the actions considered or taken to avoid the termination. Within 30 days of the Secretary's finding, the owner shall provide written notice to each tenant of the Secretary's decision. For purposes of this paragraph, the term ‘termination’ means the expiration of the assistance contract or an owner's refusal to renew the assistance contract, and such term shall include termination of the contract for business reasons.”
 
@@ -1128,7 +1176,7 @@ Pub. L. 105–276, §549(a)(1)(A), struck out par. (8) which read as follows: �
 
 Subsec. (c)(9). Pub. L. 105–276, §549(b)(1), redesignated par. (9) as (8)(A).
 
-Pub. L. 105–276, §549(a)(1)(B), substituted “Not less than one year before terminating any contract under which assistance payments are received under this section, other than a contract for tenant-based assistance under this section, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.” for “Not less than 180 days prior to terminating any contract under which assistance payments are received under this section (but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (<i>o</i>) of this section), an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for thetermination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.”
+Pub. L. 105–276, §549(a)(1)(B), substituted “Not less than one year before terminating any contract under which assistance payments are received under this section, other than a contract for tenant-based assistance under this section, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.” for “Not less than 180 days prior to terminating any contract under which assistance payments are received under this section (but not less than 90 days in the case of housing certificates or vouchers under subsection (b) or (<i>o</i>) of this section), an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination.”
 
 Subsec. (c)(10). Pub. L. 105–276, §549(a)(1)(A), struck out par. (10) which read as follows: “If an owner provides notice of proposed termination under paragraph (9) and the contract rent is lower than the maximum monthly rent for units assisted under subsection (b)(1) of this section, the Secretary shall adjust the contract rent based on the maximum monthly rent for units assisted under subsection (b)(1) of this section and the value of the low-income housing after rehabilitation.”
 
@@ -1154,7 +1202,7 @@ Subsec. (f)(7). Pub. L. 105–276, §550(a)(5), struck out “(b) or” after �
 
 Subsec. (h). Pub. L. 105–276, §565(c), which directed insertion of “(except as provided in section 1437d(j)(3) of this title)” after “section 1437d of this title”, was executed by making the insertion after “Sections 1437c(e) and 1437d of this title”, to reflect the probable intent of Congress.
 
-Subsec. (j). Pub. L. 105–276, §550(a)(6), struck out subsec. (j), which authorized contracts for making rental assistance payments on behalf of low-income families utilizing manufactured homes as principal places of residence, directed that contract establish maximum monthly rent permitted with respect to home and real property on which it was located and provided formula for calculating amount of monthly assistance, provided for adjustments, set forth minimum and maximum terms, in the case of substantially rehabilitated or newly constructed park, provided limit on principal amount of mortgage attributable to rental spaces within park, and authorized Secretary to prescribe other terms and conditions necessary for purpose of carrying out subsection.
+Subsec. (j). Pub. L. 105–276, §550(a)(6), struck out subsec. (j), which authorized contracts for making rental assistance payments on behalf of low-income families utilizing manufactured homes as principal places of residence, directed that contract establish maximum monthly rent permitted with respect to home and real property on which it was located and provided formula for calculating amount of monthly assistance, provided for adjustments, set forth minimum and maximum terms, in the case of substantially rehabilitated ornewly constructed park, provided limit on principal amount of mortgage attributable to rental spaces within park, and authorized Secretary to prescribe other terms and conditions necessary for purpose of carrying out subsection.
 
 Subsec. (n). Pub. L. 105–276, §550(a)(7), struck out subsec. (n) which read as follows: “In making assistance available under subsections (b)(1) and (e)(2) of this section, the Secretary may provide assistance with respect to residential properties in which some or all of the dwelling units do not contain bathroom or kitchen facilities, if—
 
@@ -1168,7 +1216,7 @@ Subsec. (n). Pub. L. 105–276, §550(a)(7), struck out subsec. (n) which read a
 
 Subsec. (<i>o</i>). Pub. L. 105–276, §545(a), amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) contained provisions relating to assistance using a payment standard based upon fair market rental, categories of families eligible for assistance and preferences, contracts with public housing agencies for annual contributions, annual adjustments of assistance payment amounts, assistance with respect to certain cooperative and mutual housing, contracts to provide rental vouchers, set asides of budget authority for an adjustment pool, reasonable rent requirements and disapproval of leases with unreasonable rents, and assistance on behalf of families utilizing manufactured homes as principal places of residence.
 
-Subsec. (<i>o</i>)(2). Pub. L. 105–276, §209(a), inserted at end “Notwithstanding the preceding sentence, for families being admitted to the voucher program who remain in the same unit or complex, where the rent (including the amount allowed for utilities) does not exceed the payment standard, the monthly assistance payment for any family shall be the amount by which such rent exceeds the greater of 30 percent of the family's monthly adjusted income or 10 percent of the family's monthlyincome.” Notwithstanding sections 209(b) and 503 of Pub. L. 105–276, set out as Effective Date of 1998 Amendment notes below and under section 1437 of this title, this amendment was executed before the amendment by section 545(a) of Pub. L. 105–276 to reflect the probable intent of Congress and the provisions of section 545(c) of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note below, and section 559 of Pub. L. 105–276, set out as a Regulations note below.
+Subsec. (<i>o</i>)(2). Pub. L. 105–276, §209(a), inserted at end “Notwithstanding the preceding sentence, for families being admitted to the voucher program who remain in the same unit or complex, where the rent (including the amount allowed for utilities) does not exceed the payment standard, the monthly assistance payment for any family shall be the amount by which such rent exceeds the greater of 30 percent of the family's monthly adjusted income or 10 percent of the family's monthly income.” Notwithstanding sections 209(b) and 503 of Pub. L. 105–276, set out as Effective Date of 1998 Amendment notes below and under section 1437 of this title, this amendment was executed before the amendment by section 545(a) of Pub. L. 105–276 to reflect the probable intent of Congress and the provisions of section 545(c) of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note below, and section 559 of Pub. L. 105–276, set out as a Regulations note below.
 
 Subsec. (q). Pub. L. 105–276, §547, amended subsec. (q) generally, substituting present provisions for provisions which authorized establishment of fee for costs incurred in administering certificate and housing voucher programs under subsecs. (b) and (<i>o</i>) of this section, costs of preliminary expenses in connection with new allocations of assistance, costs incurred in assisting families who experienced difficulty in obtaining appropriate housing under the programs, and extraordinary costs; provisions which set forth use of fees for employing one or more service coordinators to coordinate provision of supportive services for elderly or disabled families on whose behalf assistance was provided; and provision which limited establishment or increase of fees to amounts provided in appropriation Acts.
 
@@ -1200,7 +1248,7 @@ In general.—Notwithstanding any other provisions of this section governing det
 
 “(B)
 
-Exclusion of equity from income.—For purposes of determining the monthly assistance payment for a family, the Secretary shall not include in family income an amount imputed from the equity of the family in a dwelling occupied by the family with assistance under this subsection.”
+Exclusion of equity from income.—For purposes of determining the monthly assistance paymentfor a family, the Secretary shall not include in family income an amount imputed from the equity of the family in a dwelling occupied by the family with assistance under this subsection.”
 
 Subsec. (y)(3), (4). Pub. L. 105–276, §555(a)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
@@ -1222,7 +1270,7 @@ Subsec. (cc). Pub. L. 105–276, §548(2), added subsec. (cc).
 
 Subsec. (dd). Pub. L. 105–276, §556(a), added subsec. (dd).
 
-1997—Subsec. (c)(2)(A). Pub. L. 105–65, §§201(c), 205, substituted “fiscal years 1997 and 1998” for “fiscal year 1997” in third and sixth sentences and inserted at end “In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediatelyforegoing sentence shall be effective only during fiscal year 1998.”
+1997—Subsec. (c)(2)(A). Pub. L. 105–65, §§201(c), 205, substituted “fiscal years 1997 and 1998” for “fiscal year 1997” in third and sixth sentences and inserted at end “In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.”
 
 Pub. L. 105–33, §§2003, 2004, inserted “, and during fiscal year 1999 and thereafter” before period at end of third and sixth sentences.
 
@@ -1256,7 +1304,7 @@ Subsec. (d)(2)(A). Pub. L. 104–99, §402(d)(6)(A)(iii), (f), temporarily struc
 
 Subsec. (d)(2)(H). Pub. L. 104–99, §402(d)(6)(A)(iv), (f), temporarily substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”. See Effective and Termination Dates of 1996 Amendments note below.
 
-Subsec. (<i>o</i>)(3)(B). Pub. L. 104–99, §402(d)(3), (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for suchpreference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (<i>o</i>)(3)(B). Pub. L. 104–99, §402(d)(3), (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (t). Pub. L. 104–134, §101(e) \[title II, §203(a), (d)\], temporarily repealed subsec. (t) which read as follows:
 
@@ -1280,7 +1328,7 @@ Subsec. (bb). Pub. L. 104–134, §101\[(e)\] \[title II, §208\], added subsec.
 
 1995—Subsec. (z). Pub. L. 104–19 added subsec. (z).
 
-1994—Subsec. (c)(2)(A). Pub. L. 103–327 inserted at end: “However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995. For any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. The immediately foregoing sentence shall be effective only during fiscal year 1995.”
+1994—Subsec. (c)(2)(A). Pub. L. 103–327 inserted at end: “However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair marketrental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995. For any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. The immediately foregoing sentence shall be effective only during fiscal year 1995.”
 
 Subsec. (d)(1)(A)(i). Pub. L. 103–233, §101(c)(2), inserted “(including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12)” after “displaced”.
 
@@ -1380,7 +1428,7 @@ Pub. L. 101–625, §547(c), amended subpar. (C) generally. Prior to amendment, 
 
 Subsec. (d)(2)(D), (E). Pub. L. 101–625, §547(a), (b), added subpars. (D) and (E).
 
-Subsec. (e)(2). Pub. L. 101–625, §289(b), struck out par. (2) which read as follows: “For the purpose of upgrading and thereby preserving the Nation's housing stock, the Secretary is authorized to make assistance payments under this section directly or through public housing agencies pursuant to contracts with owners or prospective owners who agree to upgrade housing so as to make and keep such housing decent, safe, and sanitary through upgrading which involves less than substantial rehabilitation, as such upgrading and rehabilitation are defined by the Secretary, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems. The Secretary is authorized to prescribe such terms and conditions for contracts entered into under this section pursuant to this paragraph as the Secretary determines to be necessary and appropriate, except that such terms and conditions, to the maximum extent feasible, shall be consistent with terms and conditions otherwise applicable with respect to other dwelling units assisted under this section. Notwithstanding subsection (c)(1) of this section, the Secretary may, in carrying out the preceding sentence, establish a maximum monthly rent (for units upgraded pursuant to this paragraph) which exceeds the fair market rental by not more than 20 per centum if such units are located in an area where the Secretary finds cost levels so require, except that the Secretary may approve maximum monthly rents which exceed the fair market rentals by more than 20 but not more than 30 per centum where the Secretary determines that special circumstances warrant such higher rent or where necessary to the implementation of a local housing assistance plan. The Secretary is also authorized to make assistance available under this section pursuant to this paragraph to any unit in a housing project which, on an overall basis, reflects the need for such upgrading. The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development. In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under section 42 of title 26 (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to section 1439(d) of this title, and awarded pursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
+Subsec. (e)(2). Pub. L. 101–625, §289(b), struck out par. (2) which read as follows: “For the purpose of upgrading and thereby preserving the Nation's housing stock, the Secretary is authorized to make assistance payments under this section directly or through public housing agencies pursuant to contracts with owners or prospective owners who agree to upgrade housing so as to make and keep such housing decent, safe, and sanitary through upgrading which involves less than substantial rehabilitation, as such upgrading and rehabilitation are defined by the Secretary, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems. The Secretary is authorized to prescribe such terms and conditions for contracts entered into under this section pursuant to this paragraph as the Secretary determines to be necessary and appropriate, except that such terms and conditions, to the maximum extent feasible, shall be consistent with terms and conditions otherwise applicable with respect to other dwelling units assisted under this section. Notwithstanding subsection (c)(1) of this section, the Secretary may, in carrying out the preceding sentence, establish a maximum monthly rent (for units upgraded pursuant to this paragraph) which exceeds the fair market rental by not more than 20 per centum if such units are located in an area where the Secretary finds cost levels so require, except that the Secretary may approve maximum monthly rents which exceed the fair market rentals by more than 20 but not more than 30 per centum where the Secretary determines that special circumstances warrant such higher rent or where necessary to the implementation of a local housing assistance plan. The Secretary is also authorized to make assistance available under this section pursuant to this paragraph to any unit in a housing project which, on an overall basis, reflects the need for such upgrading. The Secretary shall increase the amount of assistance provided under this paragraph above the amount of assistance otherwise permitted by this paragraph and subsection (c)(1) of this section, if the Secretary determines such increase necessary to assist in the sale of multifamily housing projects owned by the Department of Housing and Urban Development. In order to maximize the availability of low-income housing, in providing assistance under this paragraph, the Secretary shall include in any calculation or determination regarding the amount of the assistance to be made available the extent to which any proceeds are available from any tax credits provided under section 42 of title 26 (or from any syndication of such credits) with respect to the housing. For each fiscal year, the Secretary may not provide assistance pursuant to this paragraph to any project for rehabilitation of more than 100 units. Assistance pursuant to this paragraph shall be allocated according to the formula established pursuant to section 1439(d) of this title, and awardedpursuant to a competition under such section. The Secretary shall maintain a single listing of any assistance provided pursuant to this paragraph, which shall include a statement identifying the owner and location of the project to which assistance was made, the amount of the assistance, and the number of units assisted.”
 
 Subsec. (f)(1). Pub. L. 101–625, §548(a), substituted “dwelling units” for “newly constructed or substantially rehabilitated dwelling units as described in this section”.
 
@@ -1424,7 +1472,7 @@ Subsec. (c)(1). Pub. L. 100–242, §142(a), inserted before last sentence “Ea
 
 Pub. L. 100–242, §142(b), inserted at end “The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York.”
 
-Pub. L. 100–242, §142(c)(1), inserted at end “If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.”
+Pub. L. 100–242, §142(c)(1), inserted at end “If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, themaximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.”
 
 Subsec. (c)(2)(C). Pub. L. 100–628, §1004(a)(1), substituted “under subparagraphs (A) and (B)” for “as hereinbefore provided”.
 
@@ -1514,7 +1562,7 @@ Subsec. (p). Pub. L. 98–181, §211, added subsec. (p).
 
 Subsec. (c)(2)(D). Pub. L. 97–35, §324(2), added par. (D).
 
-Subsec. (c)(3). Pub. L. 97–35, §322(e)(1), revised formula for computation of amount of monthly assistanceand struck out authority to make reviews at least every two years in cases of elderly families.
+Subsec. (c)(3). Pub. L. 97–35, §322(e)(1), revised formula for computation of amount of monthly assistance and struck out authority to make reviews at least every two years in cases of elderly families.
 
 Subsec. (c)(5). Pub. L. 97–35, §325(2), inserted reference to mortgages under section 1720 of title 12.
 
@@ -1564,11 +1612,17 @@ Subsec. (e)(1). Pub. L. 95–24 substituted “three hundred and sixty months, e
 
 Subsec. (e)(2). Pub. L. 95–128, §201(e)(2), inserted provision respecting the Secretary's approval of any public housing agency for assumption of management and maintenance responsibilities of dwelling units under the preceding sentence.
 
-1976—Subsec. (c)(4). Pub. L. 94–375, §2(d), inserted provision extending payments to newly constructed or substantially rehabilitated unoccupied units in an amount equal to the debt service of such unit for a period not to exceed one year, provided that a good faith effort is being made to fill the unit, the unit provides decent and safe housing, the unit is not insured under the National Housing Act, except pursuant to section 1715z–9 of title 12, and the revenues from the project do not exceed the cost.
+1976—Subsec. (c)(4). Pub. L. 94–375, §2(d), inserted provision extending payments to newly constructed or substantially rehabilitated unoccupied units in anamount equal to the debt service of such unit for a period not to exceed one year, provided that a good faith effort is being made to fill the unit, the unit provides decent and safe housing, the unit is not insured under the National Housing Act, except pursuant to section 1715z–9 of title 12, and the revenues from the project do not exceed the cost.
 
 Subsec. (e)(1). Pub. L. 94–375, §2(g), inserted “or the Farmers’ Home Administration” after “State or local agency”.
 
 Subsec. (f)(6). Pub. L. 94–375, §2(e), added par. (6).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (2)(Y) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2002 Amendment
 
@@ -1656,7 +1710,7 @@ Section effective not later than Jan. 1, 1975, see section 201(b) of Pub. L. 93�
 
 #### Applicability of 1994 Amendments
 
-Title II of Pub. L. 103–327, 108 Stat. 2315, third par., provided that: “The immediately foregoing amendment \[amending subsec. (c)(2)(A) of this section by authorizing modification of rent adjustment where adjusted rent exceeds fair market rental\] shall apply to all contracts for new construction, substantial rehabilitation,and moderate rehabilitation projects under which rents are adjusted under section 8(c)(2)(A) of such Act \[subsec. (c)(2)(A) of this section\] by applying an annual adjustment factor.”
+Title II of Pub. L. 103–327, 108 Stat. 2315, third par., provided that: “The immediately foregoing amendment \[amending subsec. (c)(2)(A) of this section by authorizing modification of rent adjustment where adjusted rent exceeds fair market rental\] shall apply to all contracts for new construction, substantial rehabilitation, and moderate rehabilitation projects under which rents are adjusted under section 8(c)(2)(A) of such Act \[subsec. (c)(2)(A) of this section\] by applying an annual adjustment factor.”
 
 Title II of Pub. L. 103–327, 108 Stat. 2315, fifth par., provided that: “The immediately foregoing \[amending subsec. (c)(2)(A) of this section by inserting two sentences at end authorizing reduction of annual adjustment factor in certain circumstances\] shall hereafter apply to all contracts that are subject to section 8(c)(2)(A) of such Act \[subsec. (c)(2)(A) of this section\] and that provide for rent adjustments using an annual adjustment factor.”
 
@@ -1720,6 +1774,58 @@ Section 151 of Pub. L. 102–550 provided that: “The Secretary of Housing and 
 
 Pub. L. 106–377, §1(a)(1) \[title II, §232(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–34, as amended by Pub. L. 110–28, title VI, §6904, May 25, 2007, 121 Stat. 185, provided that: “In the case of any dwelling unit that, upon the date of the enactment of this Act \[Oct. 27, 2000\], is assisted under a housing assistance payment contract under section 8(<i>o</i>)(13) \[of the United States Housing Act of 1937 (42 U.S.C. 1437f(<i>o</i>)(13))\] as in effect before such enactment, or under section 8(d)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437f(d)(2)) as in effect before the enactment of the Quality Housing and Work Responsibility Act of 1998 (title V of Public Law 105–276) \[approved Oct. 21, 1998\], assistance may be renewed or extended under such section 8(<i>o</i>)(13), as amended by subsection (a), provided that the initial contract term and rent of such renewed or extended assistance shall be determined pursuant to subparagraphs (F) and (H), and subparagraphs (C) and (D) of such section shall not apply to such extensions or renewals.”
 
+#### Conversion of HUD Contracts
+
+Pub. L. 110–289, div. A, title VI, §1603, July 30, 2008, 122 Stat. 2825, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, the Secretary may, at the request of an owner of a multifamily housing project that exceeds 5,000 units to which a contract for project-based rental assistance under section 8 of the United States Housing Act of 1937 (‘Act’) (42 U.S.C. 1437f) and a Rental Assistance Payment contract is subject, convert such contracts to a contract for project-based rental assistance under section 8 of the Act.
+
+“(b)
+
+Initial Renewal.—
+
+&emsp;“(1) At the request of an owner under subsection (a) made no later than 90 days prior to a conversion, the Secretary may, to the extent sufficient amounts are made available in appropriation Acts and notwithstanding any other law, treat the contemplated resulting contract as if such contract were eligible for initial renewal under section 524(a) of the MultiFamily Assisted Housing Reform and Affordability Act of 1997 \[Pub. L. 105–65\] (42 U.S.C. 1437f note) (‘MAHRA’) (42 U.S.C. 1437f note).
+
+&emsp;“(2) A request by an owner pursuant to paragraph (1) shall be upon such terms and conditions as the Secretary may require.
+
+“(c)
+
+Resulting Contract.—The resulting contract shall—
+
+&emsp;“(1) be subject to section 524(a) of MAHRA \[Pub. L. 105–65\] (42 U.S.C. 1437f note);
+
+&emsp;“(2) be considered for all purposes a contract that has been renewed under section 524(a) of MAHRA (42 U.S.C. 1437f note) for a term not to exceed 20 years;
+
+&emsp;“(3) be subsequently renewable at the request of an owner, under any renewal option for which the project is eligible under MAHRA (42 U.S.C. 1437f note);
+
+&emsp;“(4) contain provisions limiting distributions, as the Secretary determines appropriate, not to exceed 10 percent of the initial investment of the owner;
+
+&emsp;“(5) be subject to the availability of sufficient amounts in appropriation Acts; and
+
+&emsp;“(6) be subject to such other terms and conditions as the Secretary considers appropriate.
+
+“(d)
+
+Income Targeting.—To the extent that assisted dwelling units, subject to the resulting contract under subsection (a), serve low-income families, as defined in section 3(b)(2) of the Act (42 U.S.C. 1437a(b)(2)) the units shall be considered to be in compliance with all income targeting requirements under the Act (42 U.S.C. 1437 et seq\[.\]).
+
+“(e)
+
+Tenant Eligibility.—Notwithstanding any other provision of law, each family residing in an assisted dwelling unit on the date of conversion of a contract under this section, subject to the resulting contract under subsection (a), shall be considered to meet the applicable requirements for income eligibility and occupancy.
+
+“(f)
+
+Definitions.—As used in this section—
+
+&emsp;“(1) the term ‘Secretary’ means the Secretary of Housing and Urban Development;
+
+&emsp;“(2) the term ‘conversion’ means the action under which a contract for project-based rental assistance under section 8 of the Act \[42 U.S.C. 1437f\] and a Rental Assistance Payment contract become a contract for project-based rental assistance under section 8 of the Act (42 U.S.C. 1437f) pursuant to subsection (a);
+
+&emsp;“(3) the term ‘resulting contract’ means the new contract after a conversion pursuant to subsection (a); and
+
+&emsp;“(4) the term ‘assisted dwelling unit’ means a dwelling unit in a multifamily housing project that exceeds 5,000 units that, on the date of conversion of a contract under this section, is subject to a contract for project-based rental assistance under section 8 of the Act (42 U.S.C. 1437f) or a Rental Assistance Payment contract.”
+
 #### Purposes of Mark-to-Market Extension Act of 2001
 
 Pub. L. 107–116, title VI, §602, Jan. 10, 2002, 115 Stat. 2221, provided that: “The purposes of this title \[see Short Title of 2002 Amendment note set out under section 1437 of this title\] are—
@@ -1744,131 +1850,7 @@ Pub. L. 107–116, title VI, §602, Jan. 10, 2002, 115 Stat. 2221, provided that
 
 #### Pilot Program for Homeownership Assistance for Disabled Families
 
-Pub. L. 106–569, title III, §302, Dec. 27, 2000, 114 Stat. 2953, provided that:
-
-“(a)
-
-In General.—A public housing agency providing tenant-based assistance on behalf of an eligible family under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may provide assistance for a disabled family that purchases a dwelling unit (including a dwelling unit under a lease-purchase agreement) that will be owned by one or more members of the disabled family and will be occupied by the disabled family, if the disabled family—
-
-&emsp;“(1) purchases the dwelling unit before the expiration of the 3-year period beginning on the date that the Secretary first implements the pilot program under this section;
-
-&emsp;“(2) demonstrates that the disabled family has income from employment or other sources (including public assistance), as determined in accordance with requirements of the Secretary, that is not less than twice the payment standard established by the public housing agency (or such other amount as may be established by the Secretary);
-
-&emsp;“(3) except as provided by the Secretary, demonstrates at the time the disabled family initially receives tenant-based assistance under this section that one or more adult members of the disabled family have achieved employment for the period as the Secretary shall require;
-
-&emsp;“(4) participates in a homeownership and housing counseling program provided by the agency; and
-
-&emsp;“(5) meets any other initial or continuing requirements established by the public housing agency in accordance with requirements established by the Secretary.
-
-“(b)
-
-Determination of Amount of Assistance.—
-
-&emsp;“(1)
-
-In general.—
-
-&emsp;&emsp;“(A)
-
-Monthly expenses not exceeding payment standard.—If the monthly homeownership expenses, as determined in accordance with requirements established by the Secretary, do not exceed the payment standard, the monthly assistance payment shall be the amount by which the homeownership expenses exceed the highest of the following amounts, rounded to the nearest dollar:
-
-&emsp;&emsp;&emsp;“(i) Thirty percent of the monthly adjusted income of the disabled family.
-
-&emsp;&emsp;&emsp;“(ii) Ten percent of the monthly income of the disabled family.
-
-&emsp;&emsp;&emsp;“(iii) If the disabled family is receiving payments for welfare assistance from a public agency, and a portion of those payments, adjusted in accordance with the actual housing costs of the disabled family, is specifically designated by that agency to meet the housing costs of the disabled family, the portion of those payments that is so designated.
-
-&emsp;&emsp;“(B)
-
-Monthly expenses exceed payment standard.—If the monthly homeownership expenses, as determined in accordance with requirements established by the Secretary, exceed the payment standard, the monthly assistance payment shall be the amount by which the applicable payment standard exceeds the highest of the amounts under clauses (i), (ii), and (iii) of subparagraph (A).
-
-&emsp;“(2)
-
-Calculation of amount.—
-
-&emsp;&emsp;“(A)
-
-Low-income families.—A disabled family that is a low-income family shall be eligible to receive 100 percent of the amount calculated under paragraph (1).
-
-&emsp;&emsp;“(B)
-
-Income between 81 and 89 percent of median.—A disabled family whose income is between 81 and 89 percent of the median for the area shall be eligible to receive 66 percent of the amount calculated under paragraph (1).
-
-&emsp;&emsp;“(C)
-
-Income between 90 and 99 percent of median.—A disabled family whose income is between 90 and 99 percent of the median for the area shall be eligible to receive 33 percent of the amount calculated under paragraph (1).
-
-&emsp;&emsp;“(D)
-
-Income more than 99 percent of median.—A disabled family whose income is more than 99 percent of the median for the area shall not be eligible to receive assistance under this section.
-
-“(c)
-
-Inspections and Contract Conditions.—
-
-&emsp;“(1)
-
-In general.—Each contract for the purchase of a dwelling unit to be assisted under this section shall—
-
-&emsp;&emsp;“(A) provide for pre-purchase inspection of the dwelling unit by an independent professional; and
-
-&emsp;&emsp;“(B) require that any cost of necessary repairs be paid by the seller.
-
-&emsp;“(2)
-
-Annual inspections not required.—The requirement under subsection (<i>o</i>)(8)(A)(ii) of section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f(<i>o</i>)(8)(A)(ii)\] for annual inspections shall not apply to dwelling units assisted under this section.
-
-“(d)
-
-Other Authority of the Secretary.—The Secretary may—
-
-&emsp;“(1) limit the term of assistance for a disabled family assisted under this section;
-
-&emsp;“(2) provide assistance for a disabled family for the entire term of a mortgage for a dwelling unit if the disabled family remains eligible for such assistance for such term; and
-
-&emsp;“(3) modify the requirements of this section as the Secretary determines to be necessary to make appropriate adaptations for lease-purchase agreements.
-
-“(e)
-
-Assistance Payments Sent to Lender.—The Secretary shall remit assistance payments under thissection directly to the mortgagee of the dwelling unit purchased by the disabled family receiving such assistance payments.
-
-“(f)
-
-Inapplicability of Certain Provisions.—Assistance under this section shall not be subject to the requirements of the following provisions:
-
-&emsp;“(1) Subsection (c)(3)(B) of section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f(c)(3)(B)\].
-
-&emsp;“(2) Subsection (d)(1)(B)(i) of section 8 of the United States Housing Act of 1937.
-
-&emsp;“(3) Any other provisions of section 8 of the United States Housing Act of 1937 governing maximum amounts payable to owners and amounts payable by assisted families.
-
-&emsp;“(4) Any other provisions of section 8 of the United States Housing Act of 1937 concerning contracts between public housing agencies and owners.
-
-&emsp;“(5) Any other provisions of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] that are inconsistent with the provisions of this section.
-
-“(g)
-
-Reversion to Rental Status.—
-
-&emsp;“(1)
-
-Non-fha mortgages.—If a disabled family receiving assistance under this section defaults under a mortgage not insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], the disabled family may not continue to receive rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] unless it complies with requirements established by the Secretary.
-
-&emsp;“(2)
-
-All mortgages.—A disabled family receiving assistance under this section that defaults under a mortgage may not receive assistance under this section for occupancy of another dwelling unit owned by one or more members of the disabled family.
-
-&emsp;“(3)
-
-Exception.—This subsection shall not apply if the Secretary determines that the disabled family receiving assistance under this section defaulted under a mortgage due to catastrophic medical reasons or due to the impact of a federally declared major disaster or emergency.
-
-“(h)
-
-Regulations.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], the Secretary shall issue regulations to implement this section. Such regulations may not prohibit any public housing agency providing tenant-based assistance on behalf of an eligible family under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] from participating in the pilot program under this section.
-
-“(i)
-
-Definition of Disabled Family.—For the purposes of this section, the term ‘disabled family’ has the meaning given the term ‘person with disabilities’ in section 811(k)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013(k)(2)).”
+Pub. L. 106–569, title III, §302, Dec. 27, 2000, 114 Stat. 2953, authorized a public housing agency providing tenant-based assistance to provide homeownership assistance to a disabled family that purchases a dwelling unit (including a dwelling unit under a lease-purchase agreement) that will be owned by one or more members of the disabled family and will be occupied by the disabled family and required the Secretary of Housing and Urban Development to issue implementing regulations not later than 90 days after Dec. 27, 2000.
 
 #### Determination of Administrative Fees
 
@@ -1894,7 +1876,7 @@ Report.—The Secretary shall report annually to Congress on activities conducte
 
 #### Multifamily Housing Assistance
 
-Subtitles A (§§511–524) and D (§§571–579) of title V of Pub. L. 105–65, as amended by Pub. L. 105–276, title V, §§549(c), 597(b), Oct. 21, 1998, 112 Stat. 2608, 2659; Pub. L. 106–74, title II, §§213(b), 219, title V, §§531(a)–(c), 534, 538(b), Oct. 20, 1999, 113 Stat. 1074, 1075, 1109–1116, 1120, 1123; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–116, title VI, §§611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, 115 Stat. 2222–2227; Pub. L. 109–289, div. B, title II, §21043(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53, provided that:
+Subtitles A (§§511–524) and D (§§571–579) of title V of Pub. L. 105–65, as amended by Pub. L. 105–276, title V, §§549(c), 597(b), Oct. 21, 1998, 112 Stat. 2608, 2659; Pub. L. 106–74, title II, §§213(b), 219, title V, §§531(a)–(c), 534, 538(b), Oct. 20, 1999, 113 Stat. 1074, 1075, 1109–1116, 1120, 1123; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–116, title VI, §§611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, 115 Stat. 2222–2227; Pub. L. 109–289, div. B, title II, §21043(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 53; Pub. L. 110–289, div. A, title II, §1216(d), July 30, 2008, 122 Stat. 2792, provided that:
 
 #### “subtitle a—fha-insured multifamily housing mortgage and housing assistance restructuring
 
@@ -1932,7 +1914,7 @@ Findings.—Congress finds that—
 
 &emsp;“(9) more than 15 percent of federally assisted multifamily housing projects are physically or financially distressed, including a number which suffer from mismanagement;
 
-&emsp;“(10) due to Federal budget constraints, the downsizing of the Department of Housing and Urban Development, and diminished administrative capacity, the Department lacks the ability to ensure the continued economic and physical well-being of the stock of federally insured and assisted multifamily housing projects;
+&emsp;“(10) due to Federal budget constraints, the downsizing of the Department of Housing and Urban Development, and diminished administrative capacity,the Department lacks the ability to ensure the continued economic and physical well-being of the stock of federally insured and assisted multifamily housing projects;
 
 &emsp;“(11) the economic, physical, and management problems facing the stock of federally insured and assisted multifamily housing projects will be best served by reforms that—
 
@@ -2144,7 +2126,7 @@ Selection criteria.—The Secretary shall select a participating administrative 
 
 &emsp;“(2)
 
-Selection.—If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretarymay select the entity that demonstrates, as determined by the Secretary, that it will—
+Selection.—If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretary may select the entity that demonstrates, as determined by the Secretary, that it will—
 
 &emsp;&emsp;“(A) provide the most timely, efficient, and cost-effective—
 
@@ -2334,7 +2316,7 @@ Exception rents.—In any fiscal year, a participating administrative entity may
 
 &emsp;“(3)
 
-Rent levels for exception projects.—For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, ata level that provides income sufficient to support a budget-based rent that consists of—
+Rent levels for exception projects.—For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, at a level that provides income sufficient to support a budget-based rent that consists of—
 
 &emsp;&emsp;“(A) the debt service of the project;
 
@@ -2522,7 +2504,7 @@ Assistance and moving expenses.—Subject to the availability of amounts provide
 
 “(e)
 
-Transfer of Property.—For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit andpublic agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
+Transfer of Property.—For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
 
 #### “SEC. 517. RESTRUCTURING TOOLS.
 
@@ -2574,7 +2556,7 @@ Mortgage insurance.—Providing FHA multifamily mortgage insurance, reinsurance 
 
 &emsp;“(4)
 
-Credit enhancement.—Providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage.
+Credit enhancement.—Providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Agency, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage.
 
 &emsp;“(5)
 
@@ -2594,7 +2576,7 @@ Rehabilitation needs.—
 
 &emsp;&emsp;“(A)
 
-In general.—Rehabilitation may be paid from the residual receipts, replacement reserves, or any other project accounts not required for project operations, or, as provided in appropriations Acts and subject to the control of the Secretary of applicable accounts in the Treasury of the United States, from budget authority provided for increases in the budget authority for assistance contracts under section 8 of the United States Housing Act of 1937, the rehabilitation grant program established under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\], as amended by section 531 of subtitle B of this Act, or through the debt restructuring transaction. Rehabilitation under this paragraph shall only be for the purpose of restoring the project to a non-luxury standard adequate for the rental market intended at the original approval of the project-based assistance.
+In general.—Rehabilitation may be paid from the residual receipts, replacement reserves, or any other project accounts not required for projectoperations, or, as provided in appropriations Acts and subject to the control of the Secretary of applicable accounts in the Treasury of the United States, from budget authority provided for increases in the budget authority for assistance contracts under section 8 of the United States Housing Act of 1937, the rehabilitation grant program established under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\], as amended by section 531 of subtitle B of this Act, or through the debt restructuring transaction. Rehabilitation under this paragraph shall only be for the purpose of restoring the project to a non-luxury standard adequate for the rental market intended at the original approval of the project-based assistance.
 
 &emsp;&emsp;“(B)
 
@@ -2804,7 +2786,7 @@ Market rents.—At the request of the owner of the project, at rent levels equal
 
 &emsp;&emsp;&emsp;“(v) has units assisted under the contract for which the comparable market rent exceeds 110 percent of the fair market rent.
 
-&nbsp;&nbsp;The Secretary may adjust the percentages of fair market rent (as specified in the matter precedingclause (i) and in clause (v)), but only upon a determination and written notification to the Congress within 10 days of making such determination, that such adjustment is necessary to ensure that this subparagraph covers projects with a high risk of nonrenewal of expiring contracts for project-based assistance.
+&nbsp;&nbsp;The Secretary may adjust the percentages of fair market rent (as specified in the matter preceding clause (i) and in clause (v)), but only upon a determination and written notification to the Congress within 10 days of making such determination, that such adjustment is necessary to ensure that this subparagraph covers projects with a high risk ofnonrenewal of expiring contracts for project-based assistance.
 
 &emsp;&emsp;“(B)
 
@@ -2894,7 +2876,7 @@ Enhanced Vouchers Upon Contract Expiration.—
 
 &emsp;“(1)
 
-In general.—In the case of a contract for project-based assistance under section 8 for a covered project that is not renewed under subsection (a) or (b) of this section (or any other authority), to the extent that amounts for assistance under this subsection are provided in advance in appropriation Acts, upon the date of the expiration of such contract the Secretary shall make enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)) available on behalf of each low-income family who, upon the date of such expiration, is residing in an assisted dwelling unit in the covered project.
+In general.—In the case of a contract for project-based assistance under section 8 for a covered project that is not renewed under subsection (a) or (b) of this section (or any other authority), to the extent that amounts for assistance under this subsection areprovided in advance in appropriation Acts, upon the date of the expiration of such contract the Secretary shall make enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)) available on behalf of each low-income family who, upon the date of such expiration, is residing in an assisted dwelling unit in the covered project.
 
 &emsp;“(2)
 
@@ -2986,7 +2968,7 @@ Exception and waiver.—Paragraph (1) shall not apply to any law or regulation t
 
 &emsp;“(3)
 
-Treatment of low-income use restrictions.—This subsection may not be construed to provide for,allow, or result in the release or termination, for any project, of any low- or moderate-income use restrictions that can not be eliminated by unilateral action of the owner of the project.
+Treatment of low-income use restrictions.—This subsection may not be construed to provide for, allow, or result in the release or termination, for any project, of any low- or moderate-income use restrictions that can not be eliminated by unilateral action of the owner of the project.
 
 “(g)
 
@@ -3054,13 +3036,7 @@ Transfer of Authority.—Effective upon the repeal of subtitle D under subsectio
 
 #### GAO Report on Section 8 Rental Assistance for Multifamily Housing Projects
 
-Section 532 of Pub. L. 105–65 provided that: “Not later than the expiration of the 18-month period beginning on the date of the enactment of this Act \[Oct. 27, 1997\], the Comptroller General of the United States shall submit a report to the Congress analyzing—
-
-&emsp;“(1) the housing projects for which project-based assistance is provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], but which are not subject to a mortgage insured or held by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\];
-
-&emsp;“(2) how State and local housing finance agencies have benefited financially from the rental assistance program under section 8 of the United States Housing Act of 1937, including any benefits from fees, bond financings, and mortgage refinancings; and
-
-&emsp;“(3) the extent and effectiveness of State and local housing finance agencies oversight of the physical and financial management and condition of multifamily housing projects for which project-based assistance is provided under section 8 of the United States Housing Act of 1937.”
+Pub. L. 105–65, title V, §532, Oct. 27, 1997, 111 Stat. 1411, directed the Comptroller General of the United States to report to the Congress on section 8 (42 U.S.C. 1437f) rental assistance for multifamily housing projects, including an analysis of how State and local housing finance agencies had benefited from rental assistance and the effectiveness of project oversight, not later than the expiration of the 18-month period beginning on Oct. 27, 1997.
 
 #### Administrative Fees for Certificate and Housing Voucher Programs
 
@@ -3166,7 +3142,7 @@ Transfer of property.—For properties disqualified from the demonstration progr
 
 &emsp;“(5)
 
-Tenant protections.—Any family residing in an assisted unit in a multifamily housing project that is covered by an expiring contract that is not renewed, shall be offered tenant-based assistance before the date on which the contract expires or is not renewed.”
+Tenant protections.—Any family residing in an assisted unit in a multifamily housing project that is covered by an expiring contract that is not renewed, shall be offered tenant-based assistance beforethe date on which the contract expires or is not renewed.”
 
 Pub. L. 104–120, §2(a), Mar. 28, 1996, 110 Stat. 834, provided that: “Notwithstanding section 405(b) of the Balanced Budget Downpayment Act, I (Public Law 104–99; 110 Stat. 44) \[set out below\], at the request of the owner of any project assisted under section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\] (as such section existed immediately before October 1, 1991), the Secretary of Housing and Urban Development may renew, for a period of 1 year, the contract for assistance under such section for such project that expires or terminates during fiscal year 1996 at current rent levels.”
 
@@ -3360,7 +3336,7 @@ Reinsurance.—With respect to not more than 5,000 units within the demonstratio
 
 &emsp;&emsp;“(C)
 
-Participation by third parties.—The Secretary or designee may enter into such agreements, provide such concessions, incur such costs, make such grants (including grants to cover all or a portion of the rehabilitation costs for a project) and other payments, and provide other valuable consideration as may reasonably be necessary for owners, lenders, servicers, third parties, and other entities to participate in the demonstration program. The Secretary may establish performance incentives for designees.
+Participation by third parties.—The Secretary or designee may enter into such agreements, provide such concessions, incur such costs, make such grants (including grants to cover all or a portion of the rehabilitation costs for a project) andother payments, and provide other valuable consideration as may reasonably be necessary for owners, lenders, servicers, third parties, and other entities to participate in the demonstration program. The Secretary may establish performance incentives for designees.
 
 &emsp;&emsp;“(D)
 
@@ -3546,7 +3522,7 @@ Reports.—Each agency shall submit to the Secretary a report, or series of repo
 
 &emsp;“(3)
 
-Access to documents by the secretary.—The Secretary shall have access for the purpose of audit and examination to any books, documents, papers,and records that are pertinent to assistance in connection with, and the requirements of, this section.
+Access to documents by the secretary.—The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records that are pertinent to assistance in connection with, and the requirements of, this section.
 
 &emsp;“(4)
 
@@ -3928,7 +3904,7 @@ Recovery.—Amounts may be recovered under this paragraph—
 
 #### Study by Secretary Concerning Feasibility of Minimum Rent Payment Requirements
 
-Section 212 of Pub. L. 96–153 directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant tosection 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
+Section 212 of Pub. L. 96–153 directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
 
 #### Study of Alternative Means of Encouraging the Development of Housing
 
@@ -3964,13 +3940,15 @@ Section 203 of Pub. L. 93–383 provided that: “The rental or income contribut
 
 <i><sup>11</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>12</sup></i><i> So in original. Probably should be “limits”.</i>
+<i><sup>12</sup></i><i> So in original. Probably should be “Cranston-Gonzales.</i>
 
-<i><sup>13</sup></i><i> See References in Text note below.</i>
+<i><sup>13</sup></i><i> So in original. Probably should be “limits”.</i>
 
 <i><sup>14</sup></i><i> See References in Text note below.</i>
 
-<i><sup>15</sup></i><i> So in original. Probably should be “(d)(1)(B)(ii),”.</i>
+<i><sup>15</sup></i><i> See References in Text note below.</i>
 
-<i><sup>16</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>16</sup></i><i> So in original. Probably should be “(d)(1)(B)(ii),”.</i>
+
+<i><sup>17</sup></i><i> So in original. The comma probably should not appear.</i>
 

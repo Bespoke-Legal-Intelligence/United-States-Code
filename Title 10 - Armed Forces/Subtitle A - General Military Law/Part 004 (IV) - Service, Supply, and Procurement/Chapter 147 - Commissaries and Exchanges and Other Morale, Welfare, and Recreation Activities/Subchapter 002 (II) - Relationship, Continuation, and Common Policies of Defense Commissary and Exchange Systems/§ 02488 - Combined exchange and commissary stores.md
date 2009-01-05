@@ -48,7 +48,7 @@ A prior section 2488 was renumbered section 2495 of this title.
 
 2003—Subsec. (f). Pub. L. 108–136, §1043(c)(2), substituted “
 
-Nonappropriated Fund InstrumentalityDefined.—In this section, the term” for “
+Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “
 
 Definitions.—In this section:
 

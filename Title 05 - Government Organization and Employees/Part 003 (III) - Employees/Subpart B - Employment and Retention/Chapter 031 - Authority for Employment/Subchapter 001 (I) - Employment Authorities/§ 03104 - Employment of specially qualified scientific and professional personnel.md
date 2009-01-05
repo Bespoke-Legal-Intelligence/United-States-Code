@@ -1,12 +1,12 @@
 ### §3104. Employment of specially qualified scientific and professional personnel
 
-(a) The Director of the Office of Personnel Management may establish, and from time to time revise, the maximum number of scientific or professional positions for carrying out research and development functions which require the services of specially qualified personnel which may be established outside of the General Schedule. Any such position may be established by action of the Director or, under such standards and procedures as the Office prescribes (including procedures under which the prior approval of the Director may be required), by agency action.
+(a) The Director of the Office of Personnel Management may establish, and from time to time revise, the maximum number of scientific or professional positions for carrying out research and development functions which require the services of specially qualified personnel which may be established outside of the General Schedule. Any such position may be established by action of the Director or, under such standards and procedures as the Office prescribes and publishes in such form as the Director may determine (including procedures under which the prior approval of the Director may be required), by agency action.
 
 (b) The provisions of subsection (a) of this section shall not apply to any Senior ExecutiveService position (as defined in section 3132(a) of this title).
 
 (c) In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, §2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes<br>1966
 
@@ -82,6 +82,8 @@ The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of Jul
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–372 substituted “prescribes and publishes in such form as the Director may determine” for “prescribes”.
+
 1992—Subsec. (a). Pub. L. 102–378 struck out “(not to exceed 517)” after “positions” in first sentence and amended second sentence generally, substituting provisions authorizing establishment of positions by Director and by agency action for provisions specifying that only Director may establish positions.
 
 1986—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
@@ -96,6 +98,10 @@ Subsec. (c). Pub. L. 95–454, §414(a)(2)(C)(i), redesignated subsec. (c) as (b
 
 1970—Subsec. (a)(5). Pub. L. 91–375 repealed provision for employment in Post Office Department in scientific or professional positions of not more than 6 qualified individuals.
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–372 effective on the first day of the first pay period beginning on or after the 180th day following Oct. 8, 2008, see section 2(d) of Pub. L. 110–372, set out as a note under section 5376 of this title.
+
 #### Effective Date of 1978 Amendment
 
 Amendment by section 801(a)(3)(C) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
@@ -108,7 +114,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358, provided that:
 
 “(a)
 
@@ -118,13 +124,15 @@ Program Authorized.—During the program period specified in subsection (e)(1), 
 
 Special Personnel Management Authority.—Under the program, the Secretary may—
 
-&emsp;“(1) without regard to any provision of title 5, United States Code, governing the appointment ofemployees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
+&emsp;“(1) without regard to any provision of title 5, United States Code, governing the appointment of employees in the civil service, appoint scientists and engineers from outside the civil service and uniformed services (as such terms are defined in section 2101 of such title) to—
 
 &emsp;&emsp;“(A) not more than 40 scientific and engineering positions in the Defense Advanced Research Projects Agency;
 
-&emsp;&emsp;“(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services; and
+&emsp;&emsp;“(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services;
 
-&emsp;&emsp;“(C) not more than a total of 10 scientific and engineering positions in the National Geospatial-Intelligence Agency and the National Security Agency;
+&emsp;&emsp;“(C) not more than a total of 10 scientific and engineering positions in the National Geospatial-Intelligence Agency and the National Security Agency; and
+
+&emsp;&emsp;“(D) not more than a total of 10 scientific and engineering positions in the Office of the Director of Defense Research and Engineering;
 
 &emsp;“(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5, United States Code, as increased by locality-based comparability payments under section 5304 of such title, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -186,6 +194,8 @@ Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 a
 
 &emsp;“(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section.”
 
+\[Except as otherwise provided, reference to maximum rate under section 5376 of this title before first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level IV of Executive Schedule (5 U.S.C. 5315) and reference to maximum rate on or after first day of first pay period beginning on or after 180th day after Oct. 8, 2008, considered reference to basic pay rate for level III of Executive Schedule (5 U.S.C. 5314), or for level II of the Executive Schedule (5 U.S.C. 5313) for certain employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.\]
+
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
 Pub. L. 110–161, div. B, title II, §206, Dec. 26, 2007, 121 Stat. 1913, provided that: “The Attorney General is authorized to extend through September 30, 2009, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (6 U.S.C. 533) without limitation on the number of employees or the positions covered.”
@@ -202,7 +212,7 @@ Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by 
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 
-Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
+Section 414(a)(2)(A) of Pub. L. 95–454 provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
 
 Section 415(a)(3) of Pub. L. 95–454 provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
 

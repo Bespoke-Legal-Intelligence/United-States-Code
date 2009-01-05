@@ -20,13 +20,17 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing onthe record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
+&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
 &emsp;&emsp;(A)(i) $50,000 in the case of any individual, except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain;
 
 &emsp;&emsp;(ii) $250,000 in the case of any other person for each violation; and
 
-&emsp;&emsp;(iii) $500,000 for all violations adjudicated in a single proceeding; or
+&emsp;&emsp;(iii) for all violations adjudicated in a single proceeding—
+
+&emsp;&emsp;&emsp;(I) $500,000 if the violations do not include a willful violation; or
+
+&emsp;&emsp;&emsp;(II) $1,000,000 if the violations include 1 or more willful violations.
 
 &emsp;&emsp;(B) twice the gross gain or gross loss for any violation or forgery, counterfeiting, or unauthorized use, alteration, defacing or destruction of a certificate, permit, or other document provided under this chapter that results in the person's deriving pecuniary gain or causing pecuniary loss to another person.
 
@@ -70,7 +74,19 @@ In the construction and enforcement of this chapter, the act, omission, or failu
 
 Subject to the approval of the Attorney General, the Secretary shall establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-(Pub. L. 107–171, title X, §10414, May 13, 2002, 116 Stat. 504.)
+(Pub. L. 107–171, title X, §10414, May 13, 2002, 116 Stat. 504; Pub. L. 110–234, title XI, §11012(a), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(a), June 18, 2008, 122 Stat. 1664, 2122.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, §11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

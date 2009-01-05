@@ -10,9 +10,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of ninth par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of the eighth par. (formerly the ninth par.) of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+
+On authority of act May 29, 1920, which abolished offices of Assistant Treasurers and distributed their functions, “designated depositary” substituted for “subtreasury” in 1926 ed. of the Code.
 
 #### Amendments
 
-1994—Pub. L. 103–325 amended section generally. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
+1994—Pub. L. 103–325, which directed general amendment of “\[t\]he 9th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 419)”, was executed to this section to reflect the probable intent of Congress. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
 

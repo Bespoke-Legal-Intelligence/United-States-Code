@@ -12,7 +12,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(4)(A) to furnish false or fraudulent material information in, or omit any material information from, any application, report, record, or other document required to be made, kept, or filed under this subchapter or subchapter II of this chapter, or (B) to present false or fraudulent identification where the person is receiving or purchasing a listed chemical and the person is required to present identification under section 830(a) of this title;
 
-&emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drugor container or labeling thereof so as to render such drug a counterfeit substance;
+&emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or container or labeling thereof so as to render such drug a counterfeit substance;
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
@@ -28,7 +28,17 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 #### (c) Advertisement
 
-It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule <sup>1</sup> I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule <sup>1</sup> I controlled substance.
+(1) It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule <sup>1</sup> I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule <sup>1</sup> I controlled substance.
+
+(2)(A) It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this subchapter or by the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
+
+(B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 823(f) of this title.
+
+(C) Subparagraph (A) does not apply to material that either—
+
+&emsp;(i) merely advertises the distribution of controlled substances by nonpractitioners to the extent authorized by their registration under this subchapter; or
+
+&emsp;(ii) merely advocates the use of a controlled substance or includes pricing information without attempting to facilitate an actual transaction involving a controlled substance.
 
 #### (d) Penalties
 
@@ -52,23 +62,29 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>2</sup> of this title.
 
-(2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
+(2) Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business.
 
 (3) Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title.
 
 (4) The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691.)
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830.)
 
 #### References in Text
 
-Schedules I and II, referred to in subsecs. (a)(1) and (c), are set out in section 812(c) of this title.
+Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in section 812(c) of this title.
+
+This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+
+The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
 2003—Subsec. (f)(1). Pub. L. 108–21 substituted “this section, section 842 of this title, or 856 of this title” for “this section or section 842 of this title”.
 
@@ -101,6 +117,10 @@ Subsec. (d). Pub. L. 100–690, §6057(b), added subsec. (d).
 1984—Subsec. (a)(2). Pub. L. 98–473 added applicability to dispensing, acquiring, or obtaining a controlled substance, and applicability to an expired number.
 
 1978—Subsec. (a)(4). Pub. L. 95–633, §202(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 #### Effective Date of 1993 Amendment
 

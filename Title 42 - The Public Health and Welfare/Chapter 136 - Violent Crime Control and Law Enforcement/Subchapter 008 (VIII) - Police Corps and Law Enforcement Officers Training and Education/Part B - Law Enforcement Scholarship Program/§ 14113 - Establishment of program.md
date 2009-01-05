@@ -18,7 +18,7 @@
 
 &emsp;The employment described in paragraph (1)(B)—
 
-&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or are enrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
+&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or areenrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
 
 &emsp;&emsp;(B) shall not be in a law enforcement position; and
 
@@ -44,7 +44,7 @@ The Director shall be responsible for the administration of the programs conduct
 
 #### (d) Administrative expenses
 
-A State that receives an allotment under section 14112 of this title may reserve not morethan 8 percent of the allotment for administrative expenses.
+A State that receives an allotment under section 14112 of this title may reserve not more than 8 percent of the allotment for administrative expenses.
 
 #### (e) Special rule
 

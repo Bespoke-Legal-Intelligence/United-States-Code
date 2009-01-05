@@ -24,7 +24,7 @@ A prior section 430 of act Aug. 14, 1935, was classified to section 630 of this 
 
 2006—Pub. L. 109–288 substituted “Purpose” for “Findings and purpose” in section catchline, struck out subsec. (a) relating to findings, and struck out subsec. (b) designation and heading before “The purpose”.
 
-2002—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings and purpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
+2002—Pub. L. 107–133 amended section generally, substituting subsecs. (a) and (b) relating to findings andpurpose for former subsecs. (a) to (d) relating to purposes, limitations on authorizations of appropriations, description of amounts, inflation percentage, and reservation of certain amounts.
 
 1997—Subsec. (a). Pub. L. 105–89, §305(b)(3)(A), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”.
 

@@ -44,7 +44,7 @@
 
 &emsp;The guidelines developed under paragraph (1) shall provide for, among other things—
 
-&emsp;&emsp;(A) regular, detailed briefings of the Congressional Oversight Group regarding negotiating objectives, including the promotion of certain priorities referred to in section3802(c) of this title, and positions and the status of the applicable negotiations, beginning as soon as practicable after the Congressional Oversight Group is convened, with more frequent briefings as trade negotiations enter the final stage;
+&emsp;&emsp;(A) regular, detailed briefings of the Congressional Oversight Group regarding negotiating objectives, including the promotion of certain priorities referred to in section 3802(c) of this title, and positions and the status of the applicable negotiations, beginning as soon as practicable after the Congressional Oversight Group is convened, with more frequent briefings as trade negotiations enter the final stage;
 
 &emsp;&emsp;(B) access by members of the Congressional Oversight Group, and staff with proper security clearances, to pertinent documents relating to the negotiations, including classified materials;
 

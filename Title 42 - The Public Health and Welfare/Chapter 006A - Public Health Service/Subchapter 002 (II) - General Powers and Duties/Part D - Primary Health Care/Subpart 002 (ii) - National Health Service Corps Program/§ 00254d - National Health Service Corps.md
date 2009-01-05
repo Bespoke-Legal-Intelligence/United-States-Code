@@ -44,7 +44,7 @@
 
 (1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
-&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery ofhealth services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
 &emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;(B) the Secretary has determined that assignment of a health professional who would serve less than full time would be appropriate for the area where the entity is located;
 
-&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing to be assigned for less than full-time service to an entity described in subparagraph (A);
+&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing tobe assigned for less than full-time service to an entity described in subparagraph (A);
 
 &emsp;(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
 
@@ -148,7 +148,7 @@ Subsecs. (d)(2), (e). Pub. L. 101–597, §401(b)\[(a)\], substituted reference 
 
 Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
 
-&emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs or facilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
+&emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs orfacilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
 
 &emsp;“(2) provide special consideration to the homeless populations who do not have access to primary health care services.”
 

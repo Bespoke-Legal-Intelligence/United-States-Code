@@ -40,7 +40,7 @@
 
 #### (ii) Indexing
 
-&emsp;&emsp;&emsp;The cost threshold and cost limit amounts specified in subclauses (I) and (II) of clause (i) for a plan year that ends after 2006 shall be adjusted in the same manner as the annual deductible and the annual out-of-pocket threshold, respectively, are annually adjusted under paragraphs (1) and (4)(B) of section 1395w–102(b) of this title.
+&emsp;&emsp;&emsp;The cost threshold and cost limit amounts specified in subclauses (I) and (II) of clause (i) for a plan year that ends after 2006 shall be adjusted in the same manner as the annual deductible and the annual out-of-pocket threshold, respectively, areannually adjusted under paragraphs (1) and (4)(B) of section 1395w–102(b) of this title.
 
 #### (C) Definitions
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) that is supplemental to the benefits provided under a prescription drug plan or an MA–PD plan, including benefits to retirees who are not covered under a qualified retiree prescription drug plan but who are enrolled in such a prescription drug plan or MA–PD plan; or
 
-&emsp;&emsp;(D) preventing employers to provide for flexibility in benefit design and pharmacyaccess provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
+&emsp;&emsp;(D) preventing employers to provide for flexibility in benefit design and pharmacy access provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
 
 #### (b) Application of MA waiver authority
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (C) Church plans
 
-&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
+&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) bya church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125.)
 
@@ -156,7 +156,7 @@ Contents of Final Study.—The final study under this section shall consider the
 
 &emsp;“(5) Other coverage options, including tax-preferred retirement or health savings accounts, consumer-directed health plans, or other vehicles that sponsors of employment-based retiree health coverage believe would assist retirees with their future health care needs and their willingness to sponsor such alternative plan designs.
 
-&emsp;“(6) The extent to which employers or other entities that did not provide employment-based retiree health coverage prior to the date of the enactment ofthis Act \[Dec. 8, 2003\] provided some form of coverage or financial assistance for retiree health care needs after the date of the enactment of this Act.
+&emsp;“(6) The extent to which employers or other entities that did not provide employment-based retiree health coverage prior to the date of the enactment of this Act \[Dec. 8, 2003\] provided some form of coverage or financial assistance for retiree health care needs after the date of the enactment of this Act.
 
 &emsp;“(7) Recommendations by employers, benefits experts, academics, and others on ways that the voluntary provision of employment-based retiree health coverage may be improved and expanded.
 

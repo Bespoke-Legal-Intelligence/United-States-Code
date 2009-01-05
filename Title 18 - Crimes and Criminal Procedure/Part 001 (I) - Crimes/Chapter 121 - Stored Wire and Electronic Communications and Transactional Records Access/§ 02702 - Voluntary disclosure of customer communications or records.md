@@ -8,7 +8,7 @@ Prohibitions.—Except as provided in subsection (b) or (c)—
 
 &emsp;(2) a person or entity providing remote computing service to the public shall not knowingly divulge to any person or entity the contents of any communication which is carried or maintained on that service—
 
-&emsp;&emsp;(A) on behalf of, and received by means of electronic transmission from (or created bymeans of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service;
+&emsp;&emsp;(A) on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service;
 
 &emsp;&emsp;(B) solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing; and
 
@@ -28,7 +28,7 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 &emsp;(5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
 
-&emsp;(6) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032);
+&emsp;(6) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A;
 
 &emsp;(7) to a law enforcement agency—
 
@@ -54,7 +54,7 @@ Exceptions for Disclosure of Customer Records.—A provider described in subsect
 
 &emsp;(4) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of information relating to the emergency;
 
-&emsp;(5) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032); or
+&emsp;(5) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A; or
 
 &emsp;(6) to any person other than a governmental entity.
 
@@ -70,9 +70,11 @@ Reporting of Emergency Disclosures.—On an annual basis, the Attorney General s
 
 &emsp;&emsp;(B) the investigation pertaining to those disclosures was closed without the filing of criminal charges.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, §107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, §107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203; Pub. L. 110–401, title V, §501(b)(2), Oct. 13, 2008, 122 Stat. 4251.)
 
 #### Amendments
+
+2008—Subsecs. (b)(6), (c)(5). Pub. L. 110–401 substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)”.
 
 2006—Subsec. (a). Pub. L. 109–177, §107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
 

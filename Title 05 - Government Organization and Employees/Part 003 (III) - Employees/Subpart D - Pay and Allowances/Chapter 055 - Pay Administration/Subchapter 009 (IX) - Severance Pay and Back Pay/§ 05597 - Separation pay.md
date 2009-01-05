@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
-(b) In order to avoid or minimize the need for involuntary separations due to a reduction in force, base closure, reorganization, transfer of function, workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions), or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
+(b) In order to avoid or minimize the need for involuntary separations due to a reduction inforce, base closure, reorganization, transfer of function, workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions), or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
 
 (c) Under the program, separation pay may be offered by a defense agency only—
 
@@ -70,7 +70,7 @@
 
 (3) Separation pay may not be offered as a result of workforce restructuring under the program carried out under this section after fiscal year 2003.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777; Pub. L. 106–398, §1 \[\[div. A\], title XI, §§1151, 1153(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319, 1654A–323.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18,1997, 111 Stat. 1923, 1924; Pub. L. 106–65, div. A, title XI, §1104(b), Oct. 5, 1999, 113 Stat. 777; Pub. L. 106–398, §1 \[\[div. A\], title XI, §§1151, 1153(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319, 1654A–323.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 Additional Contribution to Retirement Fund.—
 
-&emsp;“(1) Determination of amount required.—The amount required under this paragraph shall be the amount determined under subparagraph (A) or (B), whichever is greater, for the fiscal year involved.
+&emsp;“(1) Determination of amount required.—The amount required under this paragraph shall be theamount determined under subparagraph (A) or (B), whichever is greater, for the fiscal year involved.
 
 &emsp;&emsp;“(A)
 
@@ -168,7 +168,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &emsp;&emsp;&emsp;“(i) First, determine the sum of the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) The amount equal to 19 percent of the final basic pay of each employee described inparagraph (2) who takes early retirement under section 8336(d) of title 5, United States Code.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) The amount equal to 19 percent of the final basic pay of each employee described in paragraph (2) who takes early retirement under section 8336(d) of title 5, United States Code.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) The amount equal to 58 percent of the final basic pay of each employee described in paragraph (2) who retires on an immediate annuity under section 8336 of such title 5 (not including any employee covered by subclause (I)).
 
@@ -244,7 +244,7 @@ Pub. L. 106–58, title I, §116, Sept. 29, 1999, 113 Stat. 439, authorized the 
 
 Pub. L. 106–58, title I, §119, Sept. 29, 1999, 113 Stat. 441, authorized the Commissioner of the Financial Management Services of the Department of the Treasury, during the period from Oct. 1, 1999 through Jan. 31, 2000, to offer voluntary separation incentives in order to provide the necessary flexibility to carry out the closure of the Chicago Financial Center (CFC) in a manner which the Commissioner deemed most efficient, equitable to employees, and cost effective to the Government, defined “employee” for separation incentive purposes, and provided for an agency plan, authority to provide separation incentive payments, eligibility requirements, effect on subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
-Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorizedthe Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
+Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by Pub. L. 106–554, §1(a)(3) \[title IV, §408\], Dec. 21, 2000, 114 Stat. 2763, 2763A–146, authorized the Administrator of General Services, during the period Oct. 1, 1999 through Apr. 30, 2002, to offer a voluntary separation incentive in order to provide the necessary flexibility to carry out the closing of the Federal Supply Service distribution centers, forward supply points, and associated programs in a manner which the Administrator deemed most efficient, equitable to all employees, and cost effective for the Government, defined “employee” for separation incentive purposes, and provided for agency strategic plan, authority to provide incentive payments, eligibility requirements, effect of subsequent employment with the Federal Government, contributions to the Retirement Fund, and reduction of agency employment levels.
 
 Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, authorized Commissioner of Internal Revenue to pay voluntary separation incentive payments to any qualifying employee of the Internal Revenue Service who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2003, provided for pertinent definitions, additional Internal Revenue Service contributions to the Retirement Fund, effect of subsequent employment with the Government, and effect on Internal Revenue Service employment levels.
 

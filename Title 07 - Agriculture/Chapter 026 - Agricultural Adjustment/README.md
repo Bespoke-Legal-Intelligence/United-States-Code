@@ -45,6 +45,8 @@
 | 612c–2. | Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of Agriculture. |
 | 612c–3. | Repealed. |
 | 612c–4. | Purchase of specialty crops. |
+| 612c–5. | Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs. |
+| 612c–6. | Domestic food assistance programs. |
 | [613\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000613%20-%20Termination%20date%3B%20investigations%20and%20reports.md) | Termination date; investigations and reports. |
 | [613a.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000613a%20-%20Repealed.%20Sept.%201%2C%201937%2C%20ch.%20898%2C%20title%20V%2C%20%C2%A7510%2C%2050%20Stat.%20916.md) | Repealed. |
 | [614\.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000614%20-%20Separability.md) | Separability. |

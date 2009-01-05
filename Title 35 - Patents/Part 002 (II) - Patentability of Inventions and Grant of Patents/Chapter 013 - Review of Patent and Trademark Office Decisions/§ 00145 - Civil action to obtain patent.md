@@ -1,12 +1,12 @@
 ### §145. Civil action to obtain patent
 
-An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134(a) of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Director in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Director appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Director to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
+An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferencesin an appeal under section 134(a) of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Director in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Director appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Director to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
 
 (July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(e), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2)Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939, ch. 451, §4, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., §63 (R.S. 4915, amended (1) Mar. 2, 1927, ch. 273, §11, 44 Stat. 1336, (2) Mar. 2, 1929, ch. 488, §2(b), 45 Stat. 1476, (3) Aug. 5, 1939, ch. 451, §4, 53 Stat. 1212).
 
 Bill in equity is changed to civil action and the section is restricted to exclude interferences which are covered by the next section. The time for filing the action is changed to the same as the time for appeal. The requirement for the applicant to file a copy of the decision in the Patent Office is omitted.
 

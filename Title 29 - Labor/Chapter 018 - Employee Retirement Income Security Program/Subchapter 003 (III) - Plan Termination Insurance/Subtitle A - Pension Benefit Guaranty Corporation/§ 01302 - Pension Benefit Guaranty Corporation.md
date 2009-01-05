@@ -62,7 +62,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
-(5) An individual appointed to fill a vacancy occurring other than by the expiration of a term of office shall be appointed only for the unexpired term of the member he succeeds. Any vacancy occurring in the office of a member of the advisory committee shall be filled in the manner in which that office was originally filled.
+(5) An individual appointed to fill a vacancy occurring other than by the expiration of a termof office shall be appointed only for the unexpired term of the member he succeeds. Any vacancy occurring in the office of a member of the advisory committee shall be filled in the manner in which that office was originally filled.
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
@@ -94,7 +94,7 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 #### Amendments
 
-2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administeredby a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
+2006—Subsec. (a). Pub. L. 109–280 in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 

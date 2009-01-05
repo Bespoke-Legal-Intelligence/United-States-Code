@@ -8,7 +8,7 @@
 
 &emsp;(3) to steps 8, 9, and 10, respectively—at the beginning of the first pay period following the completion, without break in service of more than thirty months, of three years of satisfactory service in the next lower step; and
 
-&emsp;(4) to steps 11 and 12, respectively—at the beginning of the first pay period following thecompletion, without break in service of more than thirty months, of five years of satisfactory service in the next lower step.
+&emsp;(4) to steps 11 and 12, respectively—at the beginning of the first pay period following the completion, without break in service of more than thirty months, of five years of satisfactory service in the next lower step.
 
 (b) The receipt of an increase in compensation during any of the waiting periods of service specified in subsection (a) of this section shall cause a new full waiting period of service to commence for further step increases under such subsection.
 

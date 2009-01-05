@@ -32,7 +32,7 @@ Congressional Notice-and-Wait Period.—(1) A transfer under this section may no
 
 &emsp;(B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L.106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297.)
 
 #### Prior Provisions
 

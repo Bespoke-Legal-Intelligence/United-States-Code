@@ -58,7 +58,7 @@ Pub. L. 109–162, title IX, §§901, 902, Jan. 5, 2006, 119 Stat. 3077, 3078, p
 
 #### “SEC. 902. PURPOSES.
 
-“The purposes of this title \[enacting this section, sections 3796gg–11 and 14045d of this title, and section 117of Title 18, Crimes and Criminal Procedure, amending sections 3796gg–1, 3796gg–6, 3796hh, 13971, 13975, and 10420 of this title, section 921 of Title 18, section 2803 of Title 25, Indians, and section 534 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 534 of Title 28\] are—
+“The purposes of this title \[enacting this section, sections 3796gg–11 and 14045d of this title, and section 117 of Title 18, Crimes and Criminal Procedure, amending sections 3796gg–1, 3796gg–6, 3796hh, 13971, 13975, and 10420 of this title, section 921 of Title 18, section 2803 of Title 25, Indians, and section 534 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 534 of Title 28\] are—
 
 &emsp;“(1) to decrease the incidence of violent crimes against Indian women;
 

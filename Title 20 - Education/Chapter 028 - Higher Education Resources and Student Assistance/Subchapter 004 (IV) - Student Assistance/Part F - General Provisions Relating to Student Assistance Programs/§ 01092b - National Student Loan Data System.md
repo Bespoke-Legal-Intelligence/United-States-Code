@@ -12,25 +12,25 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 &emsp;(4) the institution of higher education or organization responsible for loans made under parts C and D of this subchapter;
 
-&emsp;(5) <sup>1</sup> the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act (22 U.S.C. 2501 et seq.)),<sup>2</sup> for service under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness.<sup>3</sup>
+&emsp;(5) the exact amount of loans partially or totally canceled or in deferment for service under the Peace Corps Act (22 U.S.C. 2501 et seq.)),<sup>1</sup> for service under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], and for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness;
 
-&emsp;(5) <sup>1</sup> the eligible institution in which the student was enrolled or accepted for enrollment at the time the loan was made, and any additional institutions attended by the borrower;
+&emsp;(6) the eligible institution in which the student was enrolled or accepted for enrollment at the time the loan was made, and any additional institutions attended by the borrower;
 
-&emsp;(6) the total amount of loans made to any borrower and the remaining balance of the loans;
+&emsp;(7) the total amount of loans made to any borrower and the remaining balance of the loans;
 
-&emsp;(7) the lender, holder, and servicer of such loans;
+&emsp;(8) the lender, holder, and servicer of such loans;
 
-&emsp;(8) information concerning the date of any default on the loan and the collection of the loan, including any information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan;
+&emsp;(9) information concerning the date of any default on the loan and the collection of the loan, including any information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan;
 
-&emsp;(9) information regarding any deferments or forbearance granted on such loans; and
+&emsp;(10) information regarding any deferments or forbearance granted on such loans; and
 
-&emsp;(10) the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title.
+&emsp;(11) the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title.
 
 #### (b) Additional information
 
 For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
 
-&emsp;(1) information concerning the income level of the borrower and his family and the extent of the borrower's need for student financial assistance, including loans;
+&emsp;(1) information concerning the income level of the borrower and his family and the extentof the borrower's need for student financial assistance, including loans;
 
 &emsp;(2) information concerning the type of institution attended by the borrower and the year of the program of education for which the loan was obtained;
 
@@ -42,9 +42,79 @@ For the purposes of research and policy analysis, the proposal shall also contai
 
 The Secretary may require lenders, guaranty agencies, or institutions of higher education to verify information or obtain eligibility or other information through the National Student Loan Data System prior to making, guaranteeing, or certifying a loan made under part B, C, or D of this subchapter.
 
-#### (d) Omitted
+#### (d) Principles for administering the data system
 
-#### (e) Standardization of data reporting
+In managing the National Student Loan Data System, the Secretary shall take actions necessary to maintain confidence in the data system, including, at a minimum—
+
+&emsp;(1) ensuring that the primary purpose of access to the data system by guaranty agencies, eligible lenders, and eligible institutions of higher education is for legitimate program operations, such as the need to verify the eligibility of a student, potential student, or parent for loans under part B, C, or D;
+
+&emsp;(2) prohibiting nongovernmental researchers and policy analysts from accessing personally identifiable information;
+
+&emsp;(3) creating a disclosure form for students and potential students that is distributed when such students complete the common financial reporting form under section 1090 of this title, and as a part of the exit counseling process under section 1092(b) of this title, that—
+
+&emsp;&emsp;(A) informs the students that any title IV grant or loan the students receive will be included in the National Student Loan Data System, and instructs the students on how to access that information;
+
+&emsp;&emsp;(B) describes the categories of individuals or entities that may access the data relating to such grant or loan through the data system, and for what purposes access is allowed;
+
+&emsp;&emsp;(C) defines and explains the categories of information included in the data system;
+
+&emsp;&emsp;(D) provides a summary of the provisions of section 1232g of this title (the Family Educational Rights and Privacy Act of 1974) and other applicable Federal privacy statutes, and a statement of the students’ rights and responsibilities with respect to such statutes;
+
+&emsp;&emsp;(E) explains the measures taken by the Department to safeguard the students’ data; and
+
+&emsp;&emsp;(F) includes other information as determined appropriate by the Secretary;
+
+&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, C, or D, to inform the student or parent that such loan shall be—
+
+&emsp;&emsp;(A) submitted to the data system; and
+
+&emsp;&emsp;(B) accessible to guaranty agencies, eligible lenders, and eligible institutions of higher education determined by the Secretary to be authorized users of the data system;
+
+&emsp;(5) regularly reviewing the data system to—
+
+&emsp;&emsp;(A) delete inactive users from the data system;
+
+&emsp;&emsp;(B) ensure that the data in the data system are not being used for marketing purposes; and
+
+&emsp;&emsp;(C) monitor the use of the data system by guaranty agencies and eligible lenders to determine whether an agency or lender is accessing the records of students in which the agency or lender has no existing financial interest; and
+
+&emsp;(6) developing standardized protocols for limiting access to the data system that include—
+
+&emsp;&emsp;(A) collecting data on the usage of the data system to monitor whether access has been or is being used contrary to the purposes of the data system;
+
+&emsp;&emsp;(B) defining the steps necessary for determining whether, and how, to deny or restrict access to the data system; and
+
+&emsp;&emsp;(C) determining the steps necessary to reopen access to the data system following a denial or restriction of access.
+
+#### (e) Reports to Congress
+
+#### (1) Annual report
+
+&emsp;Not later than September 30 of each fiscal year, the Secretary shall prepare and submit to the authorizing committees a report describing—
+
+&emsp;&emsp;(A) the effectiveness of existing privacy safeguards in protecting student and parent information in the data system;
+
+&emsp;&emsp;(B) the success of any new authorization protocols in more effectively preventing abuse of the data system;
+
+&emsp;&emsp;(C) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
+
+&emsp;&emsp;(D) any protocols developed under subsection (d)(6) during the preceding fiscal year.
+
+#### (2) Study
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall conduct a study regarding—
+
+&emsp;&emsp;&emsp;(i) available mechanisms for providing students and parents with the ability to opt in or opt out of allowing eligible lenders to access their records in the National Student Loan Data System; and
+
+&emsp;&emsp;&emsp;(ii) appropriate protocols for limiting access to the data system, based on the risk assessment required under subchapter III of chapter 35 of title 44.
+
+#### (B) Submission of study
+
+&emsp;&emsp;Not later than three years after August 14, 2008, the Secretary shall prepare and submita report on the findings of the study under subparagraph (A) to the authorizing committees.
+
+#### (f) Standardization of data reporting
 
 #### (1) In general
 
@@ -60,7 +130,7 @@ The Secretary may require lenders, guaranty agencies, or institutions of higher 
 
 &emsp;&emsp;(C) publish the specifications selected to be used to encourage the automation of exchanges of information between all parties involved in loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-#### (f) Common identifiers
+#### (g) Common identifiers
 
 The Secretary shall, not later than July 1, 1993—
 
@@ -68,11 +138,11 @@ The Secretary shall, not later than July 1, 1993—
 
 &emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
-#### (g) Integration of databases
+#### (h) Integration of databases
 
 The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746.)
+(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title IV, §489, Aug. 14, 2008, 122 Stat. 3303.)
 
 #### References in Text
 
@@ -80,11 +150,25 @@ The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 2
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-#### Codification
-
-Subsec. (d) of this section, which required the Secretary to prepare and submit to appropriate committees of Congress, in each fiscal year, a report describing the results obtained by the establishment and operation of the student loan data system authorized by this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 80 of House Document No. 103–7.
+Title IV, referred to in subsec. (d)(3)(A), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(5). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6) to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
+
+Pub. L. 110–315, §489(1)(B), substituted “effectiveness;” for “effectiveness.” in par. (5) relating to loan cancellations and deferments.
+
+Subsec. (a)(6). Pub. L. 110–315, §489(1)(C), which directed redesignation of par. (5) “as added by Pub. L. 101–234” as (6), was executed by redesignating par. (5) relating to eligible institutions as (6), to reflect the probable intent of Congress. Par. (5) relating to eligible institutions was added by Pub. L. 101–239.
+
+Subsec. (a)(7) to (11). Pub. L. 110–315, §489(1)(A), redesignated pars. (6) to (10) as (7) to (11), respectively.
+
+Subsec. (d). Pub. L. 110–315, §489(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 110–315, §489(4), added subsec. (e) and struck out former subsec. (e) which required the Secretary to prepare and submit to appropriate committees of Congress, in each fiscal year, a report describing the results obtained by the establishment and operation of the student loan data system authorized by this section.
+
+Pub. L. 110–315, §489(2), redesignated subsec. (d) as (e). Former subsec. (e) designated (f).
+
+Subsecs. (f) to (h). Pub. L. 110–315, §489(2), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
 1998—Subsec. (a). Pub. L. 105–244 inserted “not later than one year after October 7, 1998” before period at end of third sentence.
 
@@ -96,7 +180,7 @@ Subsec. (c). Pub. L. 103–208, §2(h)(40), substituted “part B, C, or D of th
 
 Subsec. (e)(1), (2)(C). Pub. L. 103–208, §2(h)(41), substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42” for “under this part”.
 
-1992—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan.” after “part D of this subchapter”.
+1992—Subsec. (a). Pub. L. 102–325, §487(a), inserted “, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders andservicers of such borrower's loan.” after “part D of this subchapter”.
 
 Subsecs. (e) to (g). Pub. L. 102–325, §487(b), added subsecs. (e) to (g).
 
@@ -122,9 +206,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Two pars. (5) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. There probably should be only one closing parenthesis.</i>
 

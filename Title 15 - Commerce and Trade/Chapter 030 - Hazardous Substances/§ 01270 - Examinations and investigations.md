@@ -12,9 +12,11 @@ For purposes of enforcement of this chapter, officers or employees duly designat
 
 If the officer or employee obtains any sample, prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained. If an analysis is made of such sample, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
-(Pub. L. 86–613, §11, July 12, 1960, 74 Stat. 378; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231.)
+(Pub. L. 86–613, §11, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, §204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
-#### Transfer of Functions
+#### Amendments
 
-“Commission” substituted for “Secretary” and “Department” in subsec. (a) and for “Secretary” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+2008—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
+
+Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
 

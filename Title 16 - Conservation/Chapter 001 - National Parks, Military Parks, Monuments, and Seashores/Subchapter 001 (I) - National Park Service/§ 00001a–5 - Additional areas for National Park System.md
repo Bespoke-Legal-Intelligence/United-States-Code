@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted “The Secretary shall su
 
 1980—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
 
-Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
+Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of theCommittee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
 Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
@@ -194,7 +194,7 @@ Pub. L. 102–50, §8, May 24, 1991, 105 Stat. 257, directed Secretary of the In
 
 #### Underground Railroad Study
 
-Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in larger context of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committeeto meet and consult with Secretary on matters relating to the study.
+Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary of the Interior to conduct a study of alternatives for commemorating the Underground Railroad in order to preserve and protect this aspect of American history, directed preparation of an interpretive handbook on the Underground Railroad in larger context of American antebellum society, including history of slavery and abolitionism, and authorized establishment of Underground Railroad Advisory Committee to meet and consult with Secretary on matters relating to the study.
 
 #### Civil War and Other Studies
 

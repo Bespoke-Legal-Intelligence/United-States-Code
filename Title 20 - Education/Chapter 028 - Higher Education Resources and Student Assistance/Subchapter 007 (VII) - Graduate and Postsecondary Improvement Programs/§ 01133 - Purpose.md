@@ -8,13 +8,13 @@ It is the purpose of this subchapter—
 
 &emsp;&emsp;(B) that are designed to—
 
-&emsp;&emsp;&emsp;(i) sustain and enhance the capacity for graduate education in areas of national need; and
+&emsp;&emsp;&emsp;(i) sustain and enhance the capacity for graduate education in areas of national need, including those areas critical to United States national and homeland security needs, such as science, technology, engineering, and mathematics; and
 
 &emsp;&emsp;&emsp;(ii) encourage talented students to pursue scholarly careers in the humanities, social sciences, and the arts; and
 
 &emsp;(2) to promote postsecondary programs.
 
-(Pub. L. 89–329, title VII, §700, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786.)
+(Pub. L. 89–329, title VII, §700, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786; amended Pub. L. 110–315, title VII, §701, Aug. 14, 2008, 122 Stat. 3345.)
 
 #### Prior Provisions
 
@@ -34,11 +34,15 @@ Another prior section 1133a, Pub. L. 89–329, title VIII, §802, as added Pub. 
 
 Section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 99–498, title VIII, §801, Oct. 17, 1986, 100 Stat. 1548; amended Pub. L. 102–325, title VIII, §801, July 23, 1992, 106 Stat. 756; Pub. L. 103–208, §2(j)(25), (26), Dec. 20, 1993, 107 Stat. 2482, authorized grants for cooperative education.
 
-Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 94–482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grants and contracts for training and research related to cooperative education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 99–498.
+Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 94–482, title I, §129(b), Oct. 12, 1976, 90 Stat. 2146; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized grantsand contracts for training and research related to cooperative education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 99–498.
 
 Another prior section 1133b, Pub. L. 89–329, title VIII, §803, as added Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1043, authorized free or reduced rates for sharing educational or related resources by institutions of higher education, prior to the general amendment of subchapter VIII of this chapter by Pub. L. 94–482.
 
 Section 1133c, Pub. L. 89–329, title VIII, §804, as added Pub. L. 102–325, title VIII, §801, July 23, 1992, 106 Stat. 759, authorized grants and contracts for demonstration and innovation projects, training and resource centers, and research.
+
+#### Amendments
+
+2008—Par. (1)(B)(i). Pub. L. 110–315 inserted “, including those areas critical to United States national and homeland security needs, such as science, technology, engineering, and mathematics” before semicolon.
 
 #### Continuation of Chapter 21 Programs
 

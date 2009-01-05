@@ -336,7 +336,7 @@ In general.—Subject to subparagraphs (B) and (C), effective for fiscal year 20
 
 &emsp;&emsp;&emsp;“(i) the amount made available under subsection (a)(2)(A) from any lease entered into within the 181 Area or the 181 South Area shall be allocated to each Gulf producing State in amounts (based on a formula established by the Secretary by regulation) that are inversely proportional to the respective distances between the point on the coastline of each Gulf producing State that is closest to the geographic center of the applicable leased tract and the geographic center of the leased tract; and
 
-&emsp;&emsp;&emsp;“(ii) the amount made available under subsection (a)(2)(A) from any lease entered into within the 2002–2007 planning area shall be allocated to each Gulf producing State in amounts that are inversely proportional to the respective distances between the point on the coastline of each Gulfproducing State that is closest to the geographic center of each historical lease site and the geographic center of the historical lease site, as determined by the Secretary.
+&emsp;&emsp;&emsp;“(ii) the amount made available under subsection (a)(2)(A) from any lease entered into within the 2002–2007 planning area shall be allocated to each Gulf producing State in amounts that are inversely proportional to the respective distances between the point on the coastline of each Gulf producing State that is closest to the geographic center of each historical lease site and the geographic center of the historical lease site, as determined by the Secretary.
 
 &emsp;&emsp;“(B)
 

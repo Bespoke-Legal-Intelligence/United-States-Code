@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
+&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year undersection 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
 
 #### (2) Redistribution of amounts returned late in an academic year
 

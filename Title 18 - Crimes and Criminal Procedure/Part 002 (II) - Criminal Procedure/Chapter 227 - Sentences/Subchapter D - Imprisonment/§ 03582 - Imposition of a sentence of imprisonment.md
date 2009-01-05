@@ -22,7 +22,7 @@ Modification of an Imposed Term of Imprisonment.—The court may not modify a te
 
 &emsp;(1) in any case—
 
-&emsp;&emsp;(A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term ofimprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
+&emsp;&emsp;(A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
 
 &emsp;&emsp;&emsp;(i) extraordinary and compelling reasons warrant such a reduction; or
 
@@ -44,7 +44,7 @@ Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug 
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (d), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (d), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§801 et seq.) of Title21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 

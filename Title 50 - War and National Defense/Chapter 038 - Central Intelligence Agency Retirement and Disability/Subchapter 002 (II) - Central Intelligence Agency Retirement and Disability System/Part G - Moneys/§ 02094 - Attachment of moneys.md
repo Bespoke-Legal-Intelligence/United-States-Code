@@ -14,7 +14,7 @@ In the case of any participant, former participant, or retired participant who h
 
 &emsp;(3) any right of the former spouse of a former participant to any payment of a lump-sum credit under section 2071(b) of this title, and the amount of any such payment;
 
-> shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this subchapter.
+> shall be determined in accordance with that spousal agreement or court order, if and to theextent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this subchapter.
 
 #### (c) Other payments under court orders
 
@@ -38,7 +38,7 @@ A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §
 
 #### Amendments
 
-1993—Subsec. (b)(2). Pub. L. 103–178, §202(a)(12)(A), inserted “and” at end.
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–178, §202(a)(12)(A), inserted “and” at end.
 
 Subsec. (b)(3). Pub. L. 103–178, §202(a)(12)(B), substituted “, and the amount of any such payment;” for “and to any payment of a return of contributions under section 2054(a) of this title; and”.
 

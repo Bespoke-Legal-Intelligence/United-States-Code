@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat.735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525.)
 
 Historical and Revision Notes
 
@@ -136,7 +136,7 @@ In subsection (g), the word “resident” is substituted for the word “member
 
 In subsection (h), the words “authorized and” and “for wear during such course of instruction” are omitted as surplusage. The word “naval” is omitted as covered by the word “military”. The words “Army, Navy, Air Force, or Marine Corps” are substituted for the words “military or naval authorities”. The words “that armed force” are substituted for the words “such military or naval authorities”.
 
-In subsection (i), the words “Air Force school” are substituted for the words “Air Force advanced flying schools or Air Force service schools”. The words “in such manner” are omitted as surplusage.
+In subsection (i), the words “Air Force school” are substituted for the words “Air Force advanced flyingschools or Air Force service schools”. The words “in such manner” are omitted as surplusage.
 
 #### Amendments
 

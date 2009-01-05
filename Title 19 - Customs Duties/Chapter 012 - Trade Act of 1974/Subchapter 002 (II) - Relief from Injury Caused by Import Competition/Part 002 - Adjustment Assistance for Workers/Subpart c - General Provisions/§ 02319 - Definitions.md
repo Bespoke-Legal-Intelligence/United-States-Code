@@ -56,7 +56,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Unemployment Insurance Act, referred to in par. (12), is act June 25, 1938, ch. 680, 52 Stat. 1094,as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -16,7 +16,7 @@
 
 &emsp;expenses authorized in writing by the Joint Committee on Printing for inspection of Government printing activities.
 
-> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by himand the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
+> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
 
 (b) The fund shall be—
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 100–458, §310(c), amended subsec. (d) generally. Prior t
 
 #### Effective Date of 1993 Amendment
 
-Section 207(c) of Pub. L. 103–69 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1708 of this title\] shall take effect on October 1, 1993.”
+Section 207(c) of Pub. L. 103–69 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 1708 of this title\] shall take effect on October 1, 1993.”
 
 #### Termination of Reporting Requirements
 

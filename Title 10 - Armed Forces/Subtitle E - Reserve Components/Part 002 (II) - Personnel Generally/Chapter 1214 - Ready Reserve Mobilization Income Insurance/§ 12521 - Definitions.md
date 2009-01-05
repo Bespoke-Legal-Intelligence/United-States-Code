@@ -16,11 +16,15 @@ In this chapter:
 
 &emsp;(5) The term “Department” means the Department of Defense.
 
-&emsp;(6) The term “Board of Actuaries” means the Department of Defense Education Benefits Board of Actuaries referred to in section 2006(e)(1) of this title.
+&emsp;(6) The term “Board of Actuaries” means the Department of Defense Board of Actuaries under section 183 of this title.
 
 &emsp;(7) The term “Fund” means the Reserve Mobilization Income Insurance Fund established by section 12528(a) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299.)
+(Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; Pub. L. 110–181, div. A, title IX, §906(c)(4), Jan. 28, 2008, 122 Stat. 277.)
+
+#### Amendments
+
+2008—Par. (6). Pub. L. 110–181 substituted “Department of Defense Board of Actuaries under section 183 of this title” for “Department of Defense Education Benefits Board of Actuaries referred to in section 2006(e)(1) of this title”.
 
 #### Effective Date
 

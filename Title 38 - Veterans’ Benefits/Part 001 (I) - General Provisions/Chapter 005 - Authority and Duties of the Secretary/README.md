@@ -22,6 +22,7 @@
 |  |  |
 | :--- | ---: |
 | [521\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000521%20-%20Assistance%20to%20certain%20rehabilitation%20activities.md) | Assistance to certain rehabilitation activities. |
+| [521A.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000521A%20-%20Assistance%20for%20United%20States%20Paralympics%2C%20Inc.md) | Assistance for United States Paralympics, Inc. |
 | [522\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000522%20-%20Studies%20of%20rehabilitation%20of%20disabled%20persons.md) | Studies of rehabilitation of disabled persons. |
 | [523\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000523%20-%20Coordination%20and%20promotion%20of%20other%20programs%20affecting%20veterans%20and%20their%20dependents.md) | Coordination and promotion of other programs affecting veterans and their dependents. |
 | [525\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000525%20-%20Publication%20of%20laws%20relating%20to%20veterans.md) | Publication of laws relating to veterans. |
@@ -29,6 +30,7 @@
 | [529\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000529%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
 | [530\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000530%20-%20Annual%20report%20on%20program%20and%20expenditures%20for%20domestic%20response%20to%20weapons%20of%20mass%20destruction.md) | Annual report on program and expenditures for domestic response to weapons of mass destruction. |
 | [531\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000531%20-%20Requirement%20relating%20to%20naming%20of%20Department%20property.md) | Requirement relating to naming of Department property. |
+| [532\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media.md) | Authority to advertise in national media. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,10 +43,13 @@
 | [543\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000543%20-%20Advisory%20Committee%20on%20Prosthetics%20and%20Special-Disabilities%20Programs.md) | Advisory Committee on Prosthetics and Special-Disabilities Programs. |
 | [544\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000544%20-%20Advisory%20Committee%20on%20Minority%20Veterans.md) | Advisory Committee on Minority Veterans. |
 | [545\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000545%20-%20Advisory%20Committee%20on%20the%20Readjustment%20of%20Veterans.md) | Advisory Committee on the Readjustment of Veterans. |
+| [546\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000546%20-%20Advisory%20Committee%20on%20Disability%20Compensation.md) | Advisory Committee on Disability Compensation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title II, §214(b), title VII, §702(b), title VIII, §809(b), Oct. 10, 2008, 122 Stat. 4154, 4183, 4190, added items 521A, 532, and 546.
 
 1998—Pub. L. 105–368, title IX, §906(b), title X, §1001(a)(2), Nov. 11, 1998, 112 Stat. 3362, 3363, added items 530 and 531.
 

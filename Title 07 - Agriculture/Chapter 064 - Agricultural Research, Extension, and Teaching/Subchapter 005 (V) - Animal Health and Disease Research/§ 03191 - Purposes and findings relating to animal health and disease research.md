@@ -64,7 +64,7 @@ In general.—The Secretary of Agriculture may conduct scientific studies on—
 
 &emsp;“(2)
 
-Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition,and Forestry of the Senate a report on the results of any scientific studies conducted under paragraph (1).
+Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of any scientific studies conducted under paragraph (1).
 
 “(b)
 

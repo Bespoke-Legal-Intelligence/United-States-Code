@@ -14,7 +14,7 @@ Except as provided in subsection (c) of this section, the Federal share of the c
 
 #### (b) Non-Federal share
 
-In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share forall contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
+In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share for all contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
 
 #### (c) Increase in Federal share
 

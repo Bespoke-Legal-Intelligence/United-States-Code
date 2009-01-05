@@ -22,7 +22,7 @@ Section 5667a–1, Pub. L. 93–415, title II, §282A, as added Pub. L. 102–58
 
 Section 5667b, Pub. L. 93–415, title II, §283, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5006, defined “juvenile”.
 
-Section 5667c, Pub. L. 93–415, title II, §285, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5006,related to establishment of program of State challenge activities.
+Section 5667c, Pub. L. 93–415, title II, §285, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5006, related to establishment of program of State challenge activities.
 
 Section 5667d, Pub. L. 93–415, title II, §287, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5008, defined “juvenile”.
 

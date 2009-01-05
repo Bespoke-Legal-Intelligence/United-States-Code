@@ -10,7 +10,7 @@
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis underparagraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) of this section to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
@@ -300,7 +300,7 @@ Second determination.—
 
 &emsp;&emsp;“(A)
 
-Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alien in a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
+Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alienin a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -328,7 +328,7 @@ In general.—In the case of an alien with permanent resident status on a condit
 
 &emsp;&emsp;&emsp;“(ii)
 
-Hearing in removal proceeding.—In any removal proceeding with respect to an alien whose permanent resident status is terminatedunder clause (i), the burden of proof shall be on the alien to establish compliance with subparagraph (B).
+Hearing in removal proceeding.—In any removal proceeding with respect to an alien whose permanent resident status is terminated under clause (i), the burden of proof shall be on the alien to establish compliance with subparagraph (B).
 
 &emsp;&emsp;“(E)
 
@@ -400,7 +400,7 @@ Treatment of Certain Applications.—
 
 &emsp;“(1)
 
-Revocation of approval of petitions.—If the Attorney General revoked the approval of a petition described in subsection (b)(1), such revocation shall be disregarded for purposes of this section if it wasbased on a determination that the alien failed to satisfy section 203(b)(5)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(A)(ii)).
+Revocation of approval of petitions.—If the Attorney General revoked the approval of a petition described in subsection (b)(1), such revocation shall be disregarded for purposes of this section if it was based on a determination that the alien failed to satisfy section 203(b)(5)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)(A)(ii)).
 
 &emsp;“(2)
 
@@ -454,7 +454,7 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov.2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) lands described in subsection (c) of this section (with respect to trust lands west of New Mexico Highway 117); or
 
-&emsp;(B) public lands of approximately equal value located outside the monument and outside the conservation area but within the boundaries of the State of New Mexico which are selected by the Pueblo of Acoma, so long as such exchange is consistent with applicable law and Bureau of Land Management resource management plans developed pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
+&emsp;(B) public lands of approximately equal value located outside the monument and outside the conservation area but within the boundaries of the State of New Mexico whichare selected by the Pueblo of Acoma, so long as such exchange is consistent with applicable law and Bureau of Land Management resource management plans developed pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
 (2) All lands selected by and transferred to the Pueblo of Acoma at its request pursuant to this section shall thereafter be held in trust by the Secretary for the Pueblo of Acoma in the same manner as the lands for which they were exchanged.
 

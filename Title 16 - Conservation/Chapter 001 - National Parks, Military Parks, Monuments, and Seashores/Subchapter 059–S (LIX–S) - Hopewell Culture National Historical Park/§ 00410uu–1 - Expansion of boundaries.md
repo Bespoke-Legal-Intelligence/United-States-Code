@@ -18,7 +18,7 @@ Each map described in subsection (a) of this section shall be on file and availa
 
 #### (c) Adjustment of boundaries
 
-The Secretary of the Interior (referred to as the “Secretary”) may, by notice in the FederalRegister after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) of this section and other areas of the park: <i>Provided</i>, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a) of this section.
+The Secretary of the Interior (referred to as the “Secretary”) may, by notice in the Federal Register after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) of this section and other areas of the park: <i>Provided</i>, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a) of this section.
 
 #### (d) Acquisition of lands
 

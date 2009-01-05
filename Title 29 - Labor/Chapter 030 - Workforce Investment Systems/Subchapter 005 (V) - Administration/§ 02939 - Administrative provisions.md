@@ -6,7 +6,7 @@ The Secretary may, in accordance with chapter 5 of title 5, prescribe rules and 
 
 #### (b) Acquisition of certain property and services
 
-The Secretary is authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, receivedby gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
+The Secretary is authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise, and to accept voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
 
 #### (c) Authority to enter into certain agreements and to make certain expenditures
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall have no
 
 #### (2) Availability
 
-&emsp;Funds obligated for any program year for a program or activity carried out under this chapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV of this chapter, as appropriate.
+&emsp;Funds obligated for any program year for a program or activity carried out under thischapter may be expended by each State receiving such funds during that program year and the 2 succeeding program years. Funds obligated for any program year for a program or activity carried out under section 2916 or 2917 of this title shall remain available until expended. Funds received by local areas from States under this chapter during a program year may be expended during that program year and the succeeding program year. No amount of the funds described in this paragraph shall be deobligated on account of a rate of expenditure that is consistent with a State plan, an operating plan described in section 2891 of this title, or a plan, grant agreement, contract, application, or other agreement described in subchapter IV of this chapter, as appropriate.
 
 #### (h) Enforcement of Military Selective Service Act
 
@@ -64,7 +64,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (3) Special rule regarding sanctions
 
-&emsp;A State that enacts, not later than December 31, 1997, a State law providing for the sanctioning of such service delivery areas for failure to meet performance measures for workforce investment activities, may use the Statelaw to sanction local areas for failure to meet State performance measures under this chapter.
+&emsp;A State that enacts, not later than December 31, 1997, a State law providing for the sanctioning of such service delivery areas for failure to meet performance measures for workforce investment activities, may use the State law to sanction local areas for failure to meet State performance measures under this chapter.
 
 #### (4) General waivers of statutory or regulatory requirements
 
@@ -98,7 +98,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 &emsp;&emsp;&emsp;(ii) the State has executed a memorandum of understanding with the Secretary requiring such State to meet, or ensure that the local area meets, agreed-upon outcomes and to implement other appropriate measures to ensure accountability.
 
-(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181.)
+(Pub. L. 105–220, title I, §189, Aug. 7, 1998, 112 Stat. 1051; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–281, §2(c), Sept. 22, 2006, 120 Stat. 1181.)
 
 #### References in Text
 

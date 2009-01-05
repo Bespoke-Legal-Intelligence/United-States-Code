@@ -2,7 +2,7 @@
 
 #### (a) Payment; rate
 
-All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
+All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 31.5 cents per ton of coal produced by surface coal mining and 13.5 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 9 cents per ton, whichever is less.
 
 #### (b) Due date
 
@@ -46,7 +46,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(D) To the extent not expended within 3 years after the date of any grant award under this paragraph (except for grants awarded during fiscal years 2008, 2009, and 2010 to the extent not expended within 5 years), such grant shall be available for expenditure by the Secretary under paragraph (5).
 
-(2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with thepriorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
+(2) In making the grants referred to in paragraph (1)(C) and the grants referred to in paragraph (5), the Secretary shall ensure strict compliance by the States and Indian tribes with the priorities described in section 1233(a) of this title until a certification is made under section 1240a(a) of this title.
 
 (3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraph (5) are authorized to be expended by the Secretary for any of the following:
 
@@ -64,7 +64,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (B) Funds made available under this paragraph may be used for reclamation or drainage abatement at a site referred to in subparagraph (A) if the Secretary makes either of the following findings:
 
-&emsp;(i) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before the date on which the Secretary approved a State program pursuant to section 1253 of this title for a State in which the site is located, and that any funds for reclamation or abatement which are available pursuant to a bond or other form of financial guarantee or from any other source are not sufficient to provide for adequate reclamation or abatement at the site.
+&emsp;(i) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before the date on which the Secretary approved a State program pursuant to section 1253 of this title for a State in which the site is located, and that any funds for reclamation or abatement which are available pursuant to a bond or other form of financial guarantee or from anyother source are not sufficient to provide for adequate reclamation or abatement at the site.
 
 &emsp;(ii) A finding that the surface coal mining operation occurred during the period beginning on August 4, 1977, and ending on or before November 5, 1990, and that the surety of such mining operator became insolvent during such period, and as of November 5, 1990, funds immediately available from proceedings relating to such insolvency, or from any financial guarantee or other source are not sufficient to provide for adequate reclamation or abatement at the site.
 
@@ -84,7 +84,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (B) In this paragraph, the term “qualified hydrologic unit” means a hydrologic unit—
 
-&emsp;(i) in which the water quality has been significantly affected by acid mine drainage fromcoal mining practices in a manner that adversely impacts biological resources; and
+&emsp;(i) in which the water quality has been significantly affected by acid mine drainage from coal mining practices in a manner that adversely impacts biological resources; and
 
 &emsp;(ii) that contains land and water that are—
 
@@ -164,7 +164,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;&emsp;(i) shall be held in reserve by the Secretary until such time as necessary to make the payments under subparagraphs (A) and (B) of subsection (i)(1), as described in clause (ii); and
 
-&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection (i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
+&emsp;&emsp;&emsp;(ii) in the event that the amounts described in subsection (i)(1) are insufficient to make the maximum payments described in subparagraphs (A) and (B) of subsection\(i)(1), shall be used by the Secretary to supplement the payments so that the maximum amount permitted under those paragraphs is paid.
 
 #### (B) Previously allocated amounts
 
@@ -220,7 +220,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 #### (IV) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The contributions required under this clause for calendar year 2006 shall notexceed the amount necessary for solvency of the plan described in paragraph (2)(C), measured as of December 31, 2006, and taking into account all assets held by the plan as of that date.
+&emsp;&emsp;&emsp;&emsp;The contributions required under this clause for calendar year 2006 shall not exceed the amount necessary for solvency of the plan described in paragraph (2)(C), measured as of December 31, 2006, and taking into account all assets held by the plan as of that date.
 
 #### (iii) Division
 
@@ -242,7 +242,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Subject to paragraph (3), out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the plans described in subsection (h)(2) such sums as are necessary to pay the following amounts:
 
-&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the “Combined Fund”), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to provide benefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
+&emsp;&emsp;(A) To the Combined Fund (as defined in section 9701(a)(5) of title 26 and referred to in this paragraph as the “Combined Fund”), the amount that the trustees of the Combined Fund estimate will be expended from premium accounts maintained by the Combined Fund for the fiscal year to providebenefits for beneficiaries who are unassigned beneficiaries solely as a result of the application of section 9706(h)(1) of title 26, subject to the following limitations:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2008, the amount paid under this subparagraph shall equal—
 
@@ -264,7 +264,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(B) On certification by the trustees of any plan described in subsection (h)(2) that the amount available for transfer by the Secretary pursuant to this section (determined after application of any limitation under subsection (h)(5)) is less than the amount required to be transferred, to the plan the amount necessary to meet the requirement of subsection (h)(2).
 
-&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, and $9,000,000 on October 1, 2009 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
+&emsp;&emsp;(C) To the Combined Fund, $9,000,000 on October 1, 2007, $9,000,000 on October 1, 2008, $9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010 (which amounts shall not be exceeded) to provide a refund of any premium (as described in section 9704(a) of title 26) paid on or before September 7, 2000, to the Combined Fund, plus interest on the premium calculated at the rate of 7.5 percent per year, on a proportional basis and to be paid not later than 60 days after the date on which each payment is received by the Combined Fund, to those signatory operators (to the extent that the Combined Fund has not previously returned the premium amounts to the operators), or any related persons to the operators (as defined in section 9701(c) of title 26), or their heirs, successors, or assigns who have been denied the refunds as the result of final judgments or settlements if—
 
 &emsp;&emsp;&emsp;(i) prior to December 20, 2006, the signatory operator (or any related person to the operator)—
 
@@ -298,7 +298,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525; Pub. L. 109–234, title VII, §7007, June 15, 2006, 120 Stat. 483; Pub. L. 109–432, div. C, title II, §202, Dec. 20, 2006, 120 Stat. 3008; Pub. L. 110–343, div. C, title VI, §602, Oct. 3, 2008, 122 Stat. 3911.)
 
 #### Amendment of Subsection (a)
 
@@ -309,6 +309,8 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
 2006—Subsec. (a). Pub. L. 109–432, §202(a)(1), substituted “31.5” for “35”, “13.5” for “15”, and “9 cents” for “10 cents”.
 

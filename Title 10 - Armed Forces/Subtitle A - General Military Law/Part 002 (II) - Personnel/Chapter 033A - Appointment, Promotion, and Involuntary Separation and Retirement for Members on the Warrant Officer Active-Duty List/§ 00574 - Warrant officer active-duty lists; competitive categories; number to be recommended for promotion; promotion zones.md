@@ -4,7 +4,7 @@
 
 (b) The Secretary concerned may establish competitive categories for promotion. Warrant officers in the same competitive category shall compete among themselves for promotion.
 
-(c) Before convening a selection board under section 573 of this title, the Secretary concerned shall determine for each grade (or grade and competitive category) to be considered by the board the following:
+(c) Before convening a selection board under section 573 of this title, the Secretary concerned shall determine for each grade (or grade andcompetitive category) to be considered by the board the following:
 
 &emsp;(1) The maximum number of warrant officers to be recommended for promotion.
 

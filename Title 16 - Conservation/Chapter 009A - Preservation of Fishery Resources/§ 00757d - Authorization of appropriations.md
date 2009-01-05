@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out the purposes of sections 75
 
 2007—Pub. L. 109–479 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757f of this title for fiscal years 2003 to 2006 and limited the obligation of funds in any one State to not more than $625,000.
 
-2002—Pub. L. 107–372 amended section generally. Prior to amendment, section authorized appropriations tocarry out sections 757a to 757f of this title of not to exceed $4,000,000 for fiscal year 1997 and $4,250,000 for each of fiscal years 1998, 1999, and 2000, and limited the obligation of funds in any one State to not more than $625,000.
+2002—Pub. L. 107–372 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757f of this title of not to exceed $4,000,000 for fiscal year 1997 and $4,250,000 for each of fiscal years 1998, 1999, and 2000, and limited the obligation of funds in any one State to not more than $625,000.
 
 1996—Pub. L. 104–297 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757g of this title of not to exceed $8,152,500 for fiscal year 1989 and $8,000,000 for each of fiscal years 1990 to 1995, and limited the obligation of funds in any one State to not more than $1,250,000.
 

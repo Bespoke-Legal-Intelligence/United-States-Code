@@ -12,7 +12,7 @@
 
 #### (b) Confidentiality of information
 
-(1) Any information submitted to the Secretary, a State fishery management agency, or amarine fisheries commission by any person in compliance with the requirements of this chapter shall be confidential and shall not be disclosed except—
+(1) Any information submitted to the Secretary, a State fishery management agency, or a marine fisheries commission by any person in compliance with the requirements of this chapter shall be confidential and shall not be disclosed except—
 
 &emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development, monitoring, or enforcement;
 
@@ -66,7 +66,7 @@ Notwithstanding any other provision of law, the Secretary may provide a grant, c
 
 &emsp;(A) may structure competitive solicitations under paragraph (1) so as to compensate a contractor for a fishery resources survey by allowing the contractor to retain for sale fish harvested during the survey voyage;
 
-&emsp;(B) in the case of a survey during which the quantity or quality of fish harvested is not expected to be adequately compensatory, may structure those solicitations so as to providethat compensation by permitting the contractor to harvest on a subsequent voyage and retain for sale a portion of the allowable catch of the surveyed fishery; and
+&emsp;(B) in the case of a survey during which the quantity or quality of fish harvested is not expected to be adequately compensatory, may structure those solicitations so as to provide that compensation by permitting the contractor to harvest on a subsequent voyage and retain for sale a portion of the allowable catch of the surveyed fishery; and
 
 &emsp;(C) may permit fish harvested during such survey to count toward a vessel's catch history under a fishery management plan if such survey was conducted in a manner that precluded a vessel's participation in a fishery that counted under the plan for purposes of determining catch history.
 

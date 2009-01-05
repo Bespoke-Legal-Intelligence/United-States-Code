@@ -24,7 +24,7 @@ Each eligible recipient desiring a grant under this section shall submit an appl
 
 &emsp;(6) describe the ongoing activities and services that will be provided to graduates of the program;
 
-&emsp;(7) describe how the activities of the partnership will be coordinated with any activitiesfunded through other Federal grants, and how the partnership will continue the activities assisted under the program when the grant period ends;
+&emsp;(7) describe how the activities of the partnership will be coordinated with any activities funded through other Federal grants, and how the partnership will continue the activities assisted under the program when the grant period ends;
 
 &emsp;(8) describe how the partnership will assess the content knowledge and teaching skills of the program participants; and
 
@@ -116,7 +116,7 @@ Any activity under this section shall be carried out in compliance with section 
 
 #### (h) Induction program defined
 
-In this section, the term “induction program” means a formalized program for new teachersduring not less than the teachers’ first 2 years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
+In this section, the term “induction program” means a formalized program for new teachers during not less than the teachers’ first 2 years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
 
 &emsp;(1) High-quality teacher mentoring.
 
@@ -124,7 +124,7 @@ In this section, the term “induction program” means a formalized program for
 
 &emsp;(3) The application of empirically based practice and scientifically valid research on instructional practices.
 
-&emsp;(4) Opportunities for new teachers to draw directly upon the expertise of teacher mentors, faculty, and researchers to support the integration of empirically based practice and scientifically valid research with practice.
+&emsp;(4) Opportunities for new teachers to draw directly upon the expertise of teacher mentors, faculty, and researchers to support theintegration of empirically based practice and scientifically valid research with practice.
 
 &emsp;(5) The development of skills in instructional and behavioral interventions derived from empirically based practice and, where applicable, scientifically valid research.
 

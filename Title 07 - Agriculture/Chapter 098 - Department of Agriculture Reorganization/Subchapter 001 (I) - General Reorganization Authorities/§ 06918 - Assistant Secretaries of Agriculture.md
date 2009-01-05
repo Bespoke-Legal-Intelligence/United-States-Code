@@ -24,7 +24,7 @@ The Secretary may delegate to the Assistant Secretary for Civil Rights responsib
 
 &emsp;(1) ensuring compliance with all civil rights and related laws by all agencies and under all programs of the Department;
 
-&emsp;(2) coordinating administration of civil rights laws (including regulations) within the Department for employees of, and participants in, programs of the Department; and
+&emsp;(2) coordinating administration of civil rights laws (including regulations) within theDepartment for employees of, and participants in, programs of the Department; and
 
 &emsp;(3) ensuring that necessary and appropriate civil rights components are properly incorporated into all strategic planning initiatives of the Department and agencies of the Department.
 

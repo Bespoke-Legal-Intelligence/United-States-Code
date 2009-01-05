@@ -8,7 +8,7 @@
 
 #### (b) Mission
 
-The mission of the National Counterintelligence Executive shall be to serve as thehead of national counterintelligence for the United States Government.
+The mission of the National Counterintelligence Executive shall be to serve as the head of national counterintelligence for the United States Government.
 
 #### (c) Duties
 
@@ -30,7 +30,7 @@ Section was enacted as part of the Counterintelligence Enhancement Act of 2002, 
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
 
 Subsec. (a)(2). Pub. L. 108–458, §1072(d)(1)(B), substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 

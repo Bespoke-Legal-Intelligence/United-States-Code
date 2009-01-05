@@ -2,7 +2,7 @@
 
 #### (a) Short- and intermediate-term loans
 
-Each production credit association, under standards prescribed by the board of directors ofthe Farm Credit Bank of the district, may make, guarantee, or participate with other lenders in short- and intermediate-term loans and other similar financial assistance to—
+Each production credit association, under standards prescribed by the board of directors of the Farm Credit Bank of the district, may make, guarantee, or participate with other lenders in short- and intermediate-term loans and other similar financial assistance to—
 
 &emsp;(1) bona fide farmers and ranchers and the producers or harvesters of aquatic products, for agricultural or aquatic purposes and other requirements of such borrowers, including financing for basic processing and marketing directly related to the operations of the borrower and those of other eligible farmers, ranchers, and producers or harvesters of aquatic products, except that the operations of the borrower shall supply some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year;
 
@@ -50,7 +50,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (1) Provision of credit and technical assistance outside service territory
 
-&emsp;Notwithstanding any territorial limitation in the charter of a production credit association located in a district in which there are only two such associations, the Farm Credit Administration Board, on request of such association, may permit such association to provide credit and technical assistance to any borrower who is denied credit by the other production credit association in the district if the Board determines that such other production credit association in the district is unduly restrictive in the application of credit standards.
+&emsp;Notwithstanding any territorial limitation in the charter of a production credit association located in a district in which there are only two such associations, the Farm Credit Administration Board, on request of such association, may permit such association to provide credit and technical assistance to any borrower who is denied credit by the other production credit association in the district ifthe Board determines that such other production credit association in the district is unduly restrictive in the application of credit standards.
 
 #### (2) Timing of determination
 
@@ -64,7 +64,7 @@ A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–624 substituted “some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations offarmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year” for “at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended”.
+1990—Subsec. (a)(1). Pub. L. 101–624 substituted “some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year” for “at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended”.
 
 1988—Subsec. (b)(1). Pub. L. 100–399, §401(p), substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
 

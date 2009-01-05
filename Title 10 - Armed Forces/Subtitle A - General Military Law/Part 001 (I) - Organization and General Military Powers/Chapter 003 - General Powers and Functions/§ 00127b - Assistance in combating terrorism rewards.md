@@ -2,15 +2,15 @@
 
 (a)
 
-Authority.—The Secretary of Defense may pay a monetary amount, or provide a payment-in-kind, to a person as a reward for providing United States Government personnel with information or nonlethal assistance that is beneficial to—
+Authority.—The Secretary of Defense may pay a monetary amount, or provide a payment-in-kind, to a person as a reward for providing United States Government personnel, or government personnel of allied forces participating in a combined operation with the armed forces, with information or nonlethal assistance that is beneficial to—
 
-&emsp;(1) an operation or activity of the armed forces conducted outside the United States against international terrorism; or
+&emsp;(1) an operation or activity of the armed forces, or of allied forces participating in a combined operation with the armed forces, conducted outside the United States against international terrorism; or
 
-&emsp;(2) force protection of the armed forces.
+&emsp;(2) force protection of the armed forces, or of allied forces participating in a combined operation with the armed forces.
 
 (b)
 
-Limitation.—The amount or value of a reward provided under this section may not exceed $200,000.
+Limitation.—The amount or value of a reward provided under this section may not exceed $5,000,000.
 
 (c)
 
@@ -18,15 +18,29 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 &emsp;(A) to the Deputy Secretary of Defense and an Under Secretary of Defense, without further redelegation; and
 
-&emsp;(B) to the commander of a combatant command, but only for a reward in an amount or with a value not in excess of $50,000.
+&emsp;(B) to the commander of a combatant command, but only for a reward in an amount or with a value not in excess of $1,000,000.
 
-(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $10,000, except that such a delegation may be made to the commander's deputy commander, or to the commander of a command directly subordinate to that commander, without regard to such limitation. Such a delegation may be made to the commander of a commanddirectly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).
+(2) A commander of a combatant command to whom authority to provide rewards under this section is delegated under paragraph (1) may further delegate that authority, but only for a reward in an amount or with a value not in excess of $10,000, except that such a delegation may be made to the commander's deputy commander, or to the commander of a command directly subordinate to that commander, without regard to such limitation. Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).
+
+(3)(A) Subject to subparagraphs (B) and (C), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
+
+(B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
+
+(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2009.
+
+(D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
+
+&emsp;(i) identify the type, amount, and recipient of the reward;
+
+&emsp;(ii) explain the reason for making the reward; and
+
+&emsp;(iii) assess the success of the reward in advancing the effort to combat terrorism.
 
 (d)
 
 Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
 
-(2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $100,000.
+(2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $2,000,000.
 
 (e)
 
@@ -56,15 +70,33 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 &emsp;&emsp;(iii) a description of the information or assistance for which the reward was paid, together with an assessment of the significance and benefit of the information or assistance.
 
+&emsp;(D) Information on the implementation of paragraph (3) of subsection (c).
+
 (3) The Secretary may submit the report in classified form if the Secretary determines that it is necessary to do so.
 
 (g)
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–181, §1033(b)(1)(A), in introductory provisions, inserted “, or government personnel of allied forces participating in a combined operation with the armed forces,” after “United States Government personnel”.
+
+Subsec. (a)(1). Pub. L. 110–181, §1033(b)(1)(B), inserted “, or of allied forces participating in a combined operation with the armed forces,” after “armed forces”.
+
+Subsec. (a)(2). Pub. L. 110–181, §1033(b)(1)(C), inserted “, or of allied forces participating in a combined operation with the armed forces” after “armed forces”.
+
+Subsec. (b). Pub. L. 110–181, §1033(a)(1), substituted “$5,000,000” for “$200,000”.
+
+Subsec. (c)(1)(B). Pub. L. 110–181, §1033(a)(2), substituted “$1,000,000” for “$50,000”.
+
+Subsec. (c)(3). Pub. L. 110–181, §1033(b)(2), added par. (3).
+
+Subsec. (d)(2). Pub. L. 110–181, §1033(a)(3), substituted “$2,000,000” for “$100,000”.
+
+Subsec. (f)(2)(D). Pub. L. 110–181, §1033(c), added subpar. (D).
 
 2006—Subsec. (c)(2). Pub. L. 109–364 substituted “$10,000” for “$2,500”, inserted “, or to the commander of a command directly subordinate to that commander,” after “deputy commander”, and inserted at end “Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A).”
 

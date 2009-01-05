@@ -16,7 +16,7 @@ The Congress finds that:
 
 &emsp;(5) A unified monarchical government of the Hawaiian Islands was established in 1810 under Kamehameha I, the first King of Hawaii.
 
-&emsp;(6) Throughout the 19th century and until 1893, the United States: (A) recognized the independence of the Hawaiian Nation; (B) extended full and complete diplomatic recognition to the Hawaiian Government; and (C) entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875 and 1887.
+&emsp;(6) Throughout the 19th century and until 1893, the United States: (A) recognized theindependence of the Hawaiian Nation; (B) extended full and complete diplomatic recognition to the Hawaiian Government; and (C) entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875 and 1887.
 
 &emsp;(7) In the year 1893, the United States Minister assigned to the sovereign and independent Kingdom of Hawaii, John L. Stevens, conspired with a small group of non-Hawaiian residents of the Kingdom, including citizens of the United States, to overthrow the indigenous and lawful Government of Hawaii.
 
@@ -42,7 +42,7 @@ The Congress finds that:
 
 &emsp;(18) In furtherance of the trust responsibility for the betterment of the conditions of Native Hawaiians, the United States has established a program for the provision of comprehensive health promotion and disease prevention services to maintain and improve the health status of the Hawaiian people.
 
-&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; the National Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
+&emsp;(19) This historical and unique legal relationship has been consistently recognized and affirmed by the Congress through the enactment of Federal laws which extend to the Hawaiian people the same rights and privileges accorded to American Indian, Alaska Native, Eskimo, and Aleut communities, including the Native American Programs Act of 1974 \[42 U.S.C. 2991 et seq.\]; the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\]; theNational Museum of the American Indian Act \[20 U.S.C. 80q et seq.\]; and the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
 &emsp;(20) The United States has also recognized and reaffirmed the trust relationship to the Hawaiian people through legislation which authorizes the provision of services to Native Hawaiians, specifically, the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], the Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, the Veterans’ Benefits and Services Act of 1988, the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the Native Hawaiian Health Care Act of 1988, the Health Professions Reauthorization Act of 1988, the Nursing Shortage Reduction and Education Extension Act of 1988, the Handicapped Programs Technical Amendments Act of 1988, the Indian Health Care Amendments of 1988, and the Disadvantaged Minority Health Improvement Act of 1990.
 
@@ -92,7 +92,7 @@ The Indian Health Care Amendments of 1988, referred to in par. (20), is Pub. L. 
 
 The Disadvantaged Minority Health Improvement Act of 1990, referred to in par. (20), is Pub. L. 101–527, Nov. 6, 1990, 104 Stat. 2311. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
-The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
+The Anti-Drug Abuse Act of 1986, referred to in par. (21), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, asamended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
 #### Codification
 

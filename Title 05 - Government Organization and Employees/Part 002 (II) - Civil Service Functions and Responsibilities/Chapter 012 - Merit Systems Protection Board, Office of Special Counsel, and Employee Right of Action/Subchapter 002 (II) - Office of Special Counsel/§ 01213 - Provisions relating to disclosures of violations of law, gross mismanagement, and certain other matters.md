@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) referral to the Attorney General of any evidence of a criminal violation.
 
-(e)(1) Any such report shall be submitted to the Special Counsel, and the Special Counselshall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
+(e)(1) Any such report shall be submitted to the Special Counsel, and the Special Counsel shall transmit a copy to the complainant, except as provided under subsection (f) of this section. The complainant may submit comments to the Special Counsel on the agency report within 15 days of having received a copy of the report.
 
 (2) Upon receipt of any report of the head of an agency required under subsection (c) of this section, the Special Counsel shall review the report and determine whether—
 
@@ -60,7 +60,7 @@
 
 (3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
-(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
+(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of theinformation which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
 
 (f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
 

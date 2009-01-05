@@ -74,7 +74,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;(III) the owners (including parents of minor owners and legal guardians of incompetent owners) of at least 50 percent of the undivided interests in the parcel, but only in cases where the Secretary determines that, based on the final appraisal prepared pursuant to subparagraph (F), any 1 owner's total undivided interest in the parcel (not including the interest of an Indian tribe or that of the owner requesting the partition) has a value in excess of $1,500.
 
-&emsp;&emsp;&nbsp;Any consent required by this clause must be in writing and acknowledged before a notary public (or other official authorized to make acknowledgments), and shall be approved by Secretary unless the Secretary has reason to believe that the consent was obtained as a result of fraud or undue influence.
+&emsp;&emsp;&nbsp;Any consent required by this clause must be in writing and acknowledged before a notary public (or other official authorized to make acknowledgments), and shall be approved by the Secretary unless the Secretary has reason to believe that the consent was obtained as a result of fraud or undue influence.
 
 #### (ii) Consent by the Secretary on behalf of certain individuals
 
@@ -130,7 +130,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) publishing the notice described in clause (i) at least 2 times in a newspaper of general circulation in the county or counties where the subject parcel of land is located or, if there is an Indian tribe with jurisdiction over the parcel of land and that tribe publishes a tribal newspaper or newsletter at least once every month, 1 time in such newspaper of general circulation and 1 time in such tribal newspaper or newsletter;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (or such other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) posting such notice in a conspicuous place in the tribal headquarters or administration building (orsuch other tribal building determined by the Secretary to be most appropriate for giving public notice) of the Indian tribe with jurisdiction over the parcel of land, if any; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) in addition to the foregoing, in the Secretary's discretion, publishing notice in any other place or means that the Secretary determines to be appropriate.
 
@@ -194,7 +194,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (ii) Right to match highest bid
 
-&emsp;&emsp;&emsp;If the highest bidder is a person who is only eligible to bid under clause (i)(III),the Indian tribe that has jurisdiction over the parcel, if any, shall have the right to match the highest bid and acquire the parcel, but only if—
+&emsp;&emsp;&emsp;If the highest bidder is a person who is only eligible to bid under clause (i)(III), the Indian tribe that has jurisdiction over the parcel, if any, shall have the right to match the highest bid and acquire the parcel, but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) prior to the date of the sale, the governing body of such tribe has adopted a tribal law or resolution reserving its right to match the bids of such nonmember bidders in partition sales under this subsection and delivered a copy of such law or resolution to the Secretary; and
 
@@ -280,7 +280,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 
@@ -289,6 +289,8 @@ Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to i
 This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted “by the Secretary” for “by Secretary” in concluding provisions.
 
 2005—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
 

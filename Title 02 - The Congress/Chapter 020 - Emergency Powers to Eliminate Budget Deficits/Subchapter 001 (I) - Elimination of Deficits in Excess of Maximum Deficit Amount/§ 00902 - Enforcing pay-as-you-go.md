@@ -48,7 +48,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (2) OMB estimates
 
-&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
+&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) afterthe date of enactment of any direct spending or receipts legislation, OMB shall transmit a report to the House of Representatives and to the Senate containing—
 
 &emsp;&emsp;(A) the CBO estimate of that legislation;
 

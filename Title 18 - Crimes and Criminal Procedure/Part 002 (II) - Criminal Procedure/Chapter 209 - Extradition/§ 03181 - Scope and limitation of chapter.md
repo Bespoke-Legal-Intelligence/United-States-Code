@@ -96,11 +96,11 @@ International tribunal for yugoslavia.—The term ‘International Tribunal for 
 
 &emsp;“(2)
 
-International tribunal for rwanda.—The term ‘International Tribunal for Rwanda’ means the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
+International tribunal for rwanda.—The term ‘International Tribunal for Rwanda’ means theInternational Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
 
 &emsp;“(3)
 
-Agreement between the united states and the international tribunal for yugoslavia.—Theterm ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
+Agreement between the united states and the international tribunal for yugoslavia.—The term ‘Agreement Between the United States and the International Tribunal for Yugoslavia’ means the Agreement on Surrender of Persons Between the Government of the United States and the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law in the Territory of the Former Yugoslavia, signed at The Hague, October 5, 1994.
 
 &emsp;“(4)
 

@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212;amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398.)
 
 #### Amendments
 
@@ -78,7 +78,47 @@ Definitions.—In this section:
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
+
+#### Clearinghouse for Rapid Identification and Dissemination of Commercial Information Technologies
+
+Pub. L. 110–181, div. A, title VIII, §881, Jan. 28, 2008, 122 Stat. 262, provided that:
+
+“(a)
+
+Requirement to Establish Clearinghouse.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall establish a clearinghouse for identifying, assessing, and disseminating knowledge about readily available information technologies (with an emphasis on commercial off-the-shelf information technologies) that could support the warfighting mission of the Department of Defense.
+
+“(b)
+
+Responsibilities.—The clearinghouse established pursuant to subsection (a) shall be responsible for the following:
+
+&emsp;“(1) Developing a process to rapidly assess and set priorities and needs for significant information technology needs of the Department of Defense that could be met by commercial technologies, including a process for—
+
+&emsp;&emsp;“(A) aligning priorities and needs with the requirements of the commanders of the combatant command; and
+
+&emsp;&emsp;“(B) proposing recommendations to the commanders of the combatant command of feasible technical solutions for further evaluation.
+
+&emsp;“(2) Identifying and assessing emerging commercial technologies (including commercial off-the-shelf technologies) that could support the warfighting mission of the Department of Defense, including the priorities and needs identified pursuant to paragraph (1).
+
+&emsp;“(3) Disseminating information about commercial technologies identified pursuant to paragraph (2) to commanders of combatant commands and other potential users of such technologies.
+
+&emsp;“(4) Identifying gaps in commercial technologies and working to stimulate investment in research and development in the public and private sectors to address those gaps.
+
+&emsp;“(5) Enhancing internal data and communications systems of the Department of Defense for sharing and retaining information regarding commercial technology priorities and needs, technologies available to meet such priorities and needs, and ongoing research and development directed toward gaps in such technologies.
+
+&emsp;“(6) Developing mechanisms, including web-based mechanisms, to facilitate communications with industry regarding the priorities and needs of the Department of Defense identified pursuant to paragraph (1) and commercial technologies available to address such priorities and needs.
+
+&emsp;“(7) Assisting in the development of guides to help small information technology companies with promising technologies to understand and navigate the funding and acquisition processes of the Department of Defense.
+
+&emsp;“(8) Developing methods to measure how well processes developed by the clearinghouse are being utilized and to collect data on an ongoing basis to assess the benefits of commercial technologies that are procured on the recommendation of the clearinghouse.
+
+“(c)
+
+Personnel.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall provide for the hiring and support of employees (including detailees from other components of the Department of Defense and from other Federal departments or agencies) to assist in identifying, assessing, and disseminating information regarding commercial technologies under this section.
+
+“(d)
+
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation of this section.”
 
 #### Time for Implementation; Applicability
 

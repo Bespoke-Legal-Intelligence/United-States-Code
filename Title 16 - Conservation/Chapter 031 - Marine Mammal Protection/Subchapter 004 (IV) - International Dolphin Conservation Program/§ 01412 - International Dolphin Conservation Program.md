@@ -12,7 +12,7 @@ The Secretary of State, in consultation with the Secretary, shall seek to secure
 
 &emsp;&emsp;(A) paragraph (1), all sets on dolphins shall cease for the applicable fishing year; and
 
-&emsp;&emsp;(B) paragraph (2) or (3), all sets on the stocks covered under paragraph (2) or (3) andany mixed schools that contain any of those stocks shall cease for the applicable fishing year;
+&emsp;&emsp;(B) paragraph (2) or (3), all sets on the stocks covered under paragraph (2) or (3) and any mixed schools that contain any of those stocks shall cease for the applicable fishing year;
 
 &emsp;(5) a scientific review and assessment to be conducted in calendar year 1998 to—
 

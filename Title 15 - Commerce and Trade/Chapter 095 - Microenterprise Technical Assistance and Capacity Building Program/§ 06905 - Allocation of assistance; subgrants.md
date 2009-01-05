@@ -22,7 +22,7 @@ The Administrator shall ensure that not less than 50 percent of the grants made 
 
 #### (1) In general
 
-&emsp;A qualified organization receiving assistance under this chapter may provide grants using that assistance to qualified small and emerging microenterprise organizations and programs, subject to such rules and regulations as the Administrator determines to be appropriate.
+&emsp;A qualified organization receiving assistance under this chapter may provide grants usingthat assistance to qualified small and emerging microenterprise organizations and programs, subject to such rules and regulations as the Administrator determines to be appropriate.
 
 #### (2) Limit on administrative expenses
 

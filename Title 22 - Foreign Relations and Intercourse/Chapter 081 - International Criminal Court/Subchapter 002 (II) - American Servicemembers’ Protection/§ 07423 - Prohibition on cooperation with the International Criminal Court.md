@@ -38,7 +38,7 @@ The United States shall exercise its rights to limit the use of assistance provi
 
 #### (h) Prohibition on investigative activities of agents
 
-No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
+No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the UnitedStates, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
 
 (Pub. L. 107–206, title II, §2004, Aug. 2, 2002, 116 Stat. 902.)
 

@@ -6,7 +6,7 @@ Motor Carrier Requirements.—
 
 &emsp;(1)
 
-Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
+Liability insurance requirement.—The Secretary may register a motor carrier undersection 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
 &emsp;(2)
 
@@ -14,7 +14,7 @@ Security requirement.—Not later than 120 days after the date of enactment of t
 
 &emsp;(3)
 
-Agency requirement.—A motor carrier shall comply with the requirements of sections 13303 and 13304. To protect the public, the Secretary may require any such motor carrier to file the type of security that a motor carrier is required to file under paragraph (1) ofthis subsection. This paragraph only applies to a foreign motor private carrier and foreign motor carrier operating in the United States to the extent that such carrier is providing transportation between places in a foreign country or between a place in one foreign country and a place in another foreign country.
+Agency requirement.—A motor carrier shall comply with the requirements of sections 13303 and 13304. To protect the public, the Secretary may require any such motor carrier to file the type of security that a motor carrier is required to file under paragraph (1) of this subsection. This paragraph only applies to a foreign motor private carrier and foreign motor carrier operating in the United States to the extent that such carrier is providing transportation between places in a foreign country or between a place in one foreign country and a place in another foreign country.
 
 &emsp;(4)
 
@@ -58,7 +58,7 @@ Form of Endorsement.—The Secretary shall also prescribe the appropriate form o
 
 Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
 
-The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a)(2), is thedate of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ Section 104(h) of Pub. L. 104–88 provided that: “The Secretary of Transporta
 
 &emsp;“(1) continued ability of motor carriers to qualify as self-insurers; and
 
-&emsp;“(2) the continued qualification of all carriers then so qualified under the terms and conditions set by theInterstate Commerce Commission or Secretary at the time of qualification.”
+&emsp;“(2) the continued qualification of all carriers then so qualified under the terms and conditions set by the Interstate Commerce Commission or Secretary at the time of qualification.”
 
 \[Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
 

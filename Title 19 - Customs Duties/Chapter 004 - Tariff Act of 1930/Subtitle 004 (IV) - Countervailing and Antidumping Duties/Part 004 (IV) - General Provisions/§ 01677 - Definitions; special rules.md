@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(III) a third party directly or indirectly controls the producer and the exporter or importer, or
 
-&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control athird party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
+&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control a third party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
 
 > &emsp;&emsp;For purposes of this subparagraph, a party shall be considered to directly or indirectly control another party if the party is legally or operationally in a position to exercise restraint or direction over the other party.
 

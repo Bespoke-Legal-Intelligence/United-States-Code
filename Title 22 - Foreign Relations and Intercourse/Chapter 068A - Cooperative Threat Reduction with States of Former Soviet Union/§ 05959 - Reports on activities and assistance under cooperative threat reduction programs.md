@@ -24,7 +24,7 @@ The report under subsection (a) of this section in a year shall set forth the fo
 
 &emsp;&emsp;(C) a description of such activities, including the forms of assistance provided;
 
-&emsp;&emsp;(D) a description of the United States private sector participation in the portion of such activities that were supported by the obligation and expenditure of funds for Cooperative Threat Reduction programs; and
+&emsp;&emsp;(D) a description of the United States private sector participation in the portion ofsuch activities that were supported by the obligation and expenditure of funds for Cooperative Threat Reduction programs; and
 
 &emsp;&emsp;(E) such other information as the Secretary of Defense considers appropriate to inform Congress fully of the operation of Cooperative Threat Reduction programs and activities, including with respect to proposed demilitarization or conversion projects, information on the progress toward demilitarization of facilities and the conversion of the demilitarized facilities to civilian activities.
 
@@ -80,7 +80,7 @@ The first report submitted under subsection (a) of this section shall be submitt
 
 #### (h) Limitation on use of funds until submission of multiyear plan
 
-Not more than 10 percent of fiscal year 2001 Cooperative Threat Reduction funds may be obligated or expended until the Secretary of Defense submits to Congress an updated version ofthe multiyear plan for fiscal year 2001 required to be submitted under section 1205 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 22 U.S.C. 5952 note).
+Not more than 10 percent of fiscal year 2001 Cooperative Threat Reduction funds may be obligated or expended until the Secretary of Defense submits to Congress an updated version of the multiyear plan for fiscal year 2001 required to be submitted under section 1205 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 22 U.S.C. 5952 note).
 
 #### (i) Report on Russian nonstrategic nuclear arms
 

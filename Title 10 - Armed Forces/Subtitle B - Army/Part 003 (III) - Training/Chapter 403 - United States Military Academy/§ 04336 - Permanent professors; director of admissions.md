@@ -22,7 +22,7 @@ Act
 
 Aug. 7, 1947, ch. 512, §520(a), 61 Stat. 912.
 
-The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, sincethey are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
+The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, since they are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
 
 #### 1958 Act
 

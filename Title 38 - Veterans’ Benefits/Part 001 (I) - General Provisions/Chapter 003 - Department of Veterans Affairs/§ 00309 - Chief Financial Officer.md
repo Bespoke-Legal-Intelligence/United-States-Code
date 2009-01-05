@@ -1,6 +1,6 @@
 ### §309. Chief Financial Officer
 
-The Secretary shall designate the Assistant Secretary whose functions include budgetary and financial functions as the Chief Financial Officer of the Department. The Chief Financial Officer shall advise the Secretary on financial management of the Department and shall exercise the authority and carry out the functions specified in section 902 of title 31.
+The Secretary shall designate the Assistant Secretary whose functions include budgetaryand financial functions as the Chief Financial Officer of the Department. The Chief Financial Officer shall advise the Secretary on financial management of the Department and shall exercise the authority and carry out the functions specified in section 902 of title 31.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382.)
 

@@ -66,7 +66,7 @@ Subsec. (a)(3). Pub. L. 107–155, §311(1)(B), inserted “and permanent street
 
 Subsecs. (c), (d). Pub. L. 107–155, §311(2), added subsecs. (c) and (d).
 
-1980—Subsec. (a). Pub. L. 96–187, §111, designated existing provisions as subsec. (a), and in revising text, provided for solicitation of contributions; prescribed three categories of communications: (1) paid for and authorized by the candidate, (2) paid for by others but authorized by the candidate, and (3) not authorized by the candidate for prior two categories where (1) authorized and (2) not authorized by the candidate; struck out requirement for statement in accordance with regulations of Commission and in a conspicuous manner; and struck out from the communication not authorized by the candidate statement of name of affiliated or connected organization required to be disclosed under section 433 (b)(2) of this title.
+1980—Subsec. (a). Pub. L. 96–187, §111, designated existing provisions as subsec. (a), and in revising text, provided for solicitation of contributions; prescribed three categories of communications: (1) paid for andauthorized by the candidate, (2) paid for by others but authorized by the candidate, and (3) not authorized by the candidate for prior two categories where (1) authorized and (2) not authorized by the candidate; struck out requirement for statement in accordance with regulations of Commission and in a conspicuous manner; and struck out from the communication not authorized by the candidate statement of name of affiliated or connected organization required to be disclosed under section 433 (b)(2) of this title.
 
 Subsec. (b). Pub. L. 96–187, §111, added subsec. (b).
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator and the Director of the National Institutes of Health shall jointly establish a working group to coordinate biomedicalresearch activities in areas where a microgravity environment may contribute to significant progress in the understanding and treatment of diseases and other medical conditions. The joint working group shall formulate joint and complementary programs in such areas of research.
+The Administrator and the Director of the National Institutes of Health shall jointly establish a working group to coordinate biomedical research activities in areas where a microgravity environment may contribute to significant progress in the understanding and treatment of diseases and other medical conditions. The joint working group shall formulate joint and complementary programs in such areas of research.
 
 #### (b) Membership
 

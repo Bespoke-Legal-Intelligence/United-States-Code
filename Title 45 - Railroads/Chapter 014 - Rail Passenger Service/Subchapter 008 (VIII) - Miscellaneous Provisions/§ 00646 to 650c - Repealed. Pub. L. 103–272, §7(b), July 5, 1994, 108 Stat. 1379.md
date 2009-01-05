@@ -14,9 +14,9 @@ Section 650, Pub. L. 91–518, title VIII, §811, as added Pub. L. 102–533, §
 
 A prior section 650, Pub. L. 91–518, title VIII, §811, as added Pub. L. 96–73, title I, §126, Sept. 29, 1979, 93 Stat. 552, provided for a report to Congress on the ratio of revenue to expenses, prior to repeal by Pub. L. 99–272, title IV, §4007(b), Apr. 7, 1986, 100 Stat. 108.
 
-Section 650a, Pub. L. 100–342, §18(g), June 22, 1988, 102 Stat. 637, related to petitions by National Railroad Passenger Corporation seeking relocation or other remedial assistance for dangerous conditions, and recommendations by Secretary to Congress to fund such measures. See section 24310 of Title 49, Transportation.
+Section 650a, Pub. L. 100–342, §18(g), June 22, 1988, 102 Stat. 637, related to petitions by National Railroad Passenger Corporation seeking relocation or other remedial assistance for dangerous conditions, and recommendations by Secretary to Congress to fund such measures.
 
-Section 650b, Pub. L. 91–518, title VIII, §812, as added Pub. L. 102–533, §3, Oct. 27, 1992, 106 Stat. 3515, directed National Railroad Passenger Corporation to develop and report to Congress its plans for experimentation with new technologies. See section 24314 of Title 49.
+Section 650b, Pub. L. 91–518, title VIII, §812, as added Pub. L. 102–533, §3, Oct. 27, 1992, 106 Stat. 3515, directed National Railroad Passenger Corporation to develop and report to Congress its plans for experimentation with new technologies. See section 24314 of Title 49, Transportation.
 
-Section 650c, Pub. L. 91–518, title VIII, §813, as added Pub. L. 102–533, §9, Oct. 27, 1992, 106 Stat. 3520, directed National Railroad Passenger Corporation to assist in and report to Congress on high-speed rail corridor development outside the Northeast Corridor. See section 24702 of Title 49.
+Section 650c, Pub. L. 91–518, title VIII, §813, as added Pub. L. 102–533, §9, Oct. 27, 1992, 106 Stat. 3520, directed National Railroad Passenger Corporation to assist in and report to Congress on high-speed rail corridor development outside the Northeast Corridor.
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-Subject to regulations of the President, retired ships’ officers and retired members of the crews of vessels of the National Oceanic and Atmospheric Administration shall be entitled to medical, surgical, and dental treatment and hospitalization by the Public Health Service if the ships’ officer or crew member, (1) was on active duty as a vessel employee of the National Oceanic and Atmospheric Administration on July 1, 1963, or on July 19, 1963, whichever is later, and his employment as a vessel employee was continuous from that date until retirement, or (2) was retired as a vessel employee of the National Oceanic and Atmospheric Administration on or before July 1, 1963, or on July 19, 1963, whichever is later.
+Subject to regulations of the President, retired ships’ officers and retired members of the crews of vessels of the National Oceanic and Atmospheric Administration shall be entitled to medical, surgical, and dental treatment and hospitalization by the Public Health Service if the ships’ officer or crew member, (1) was on active duty as a vessel employee of the National Oceanic and Atmospheric Administration on July 1, 1963, or on July 19, 1963, whichever is later, and his employment as a vessel employee was continuous from that date until retirement, or (2)was retired as a vessel employee of the National Oceanic and Atmospheric Administration on or before July 1, 1963, or on July 19, 1963, whichever is later.
 
 #### (b) Treatment of dependents of personnel
 
@@ -40,7 +40,7 @@ By virtue of the authority vested in me by the first section of the Act of July 
 
 Section 1. <i>Definitions</i>. As used in these regulations, the term:
 
-(1) “Retired ships’ officer and retired crew member” means a noncommissioned ships’ officer or crew member of a vessel of the Coast and Geodetic Survey \[nowNational Oceanic and Atmospheric Administration\] who either was on active duty as a vessel employee on July 19, 1963, and whose employment as such vessel employee was continuous from that date until the date of his retirement, or who had retired as a vessel employee on or before July 19, 1963.
+(1) “Retired ships’ officer and retired crew member” means a noncommissioned ships’ officer or crew member of a vessel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] who either was on active duty as a vessel employee on July 19, 1963, and whose employment as such vessel employee was continuous from that date until the date of his retirement, or who had retired as a vessel employee on or before July 19, 1963.
 
 (2) “Active duty ships’ officer and active duty crew member” means a noncommissioned ships’ officer or crew member on active duty as a vessel employee of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] on July 19, 1963, and whose employment as such vessel employee has been continuous from that time.
 

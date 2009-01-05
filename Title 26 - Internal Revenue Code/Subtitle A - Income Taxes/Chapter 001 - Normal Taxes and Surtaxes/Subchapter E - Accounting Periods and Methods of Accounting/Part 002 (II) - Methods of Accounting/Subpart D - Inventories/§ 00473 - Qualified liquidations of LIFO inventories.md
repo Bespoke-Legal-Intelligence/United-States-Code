@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (B) Irrevocable election
 
-&emsp;&emsp;An election under this section shall be irrevocable and shall be binding for the liquidation year and for all determinations for prior and subsequent taxable years insofaras such determinations are affected by the adjustments under this section.
+&emsp;&emsp;An election under this section shall be irrevocable and shall be binding for the liquidation year and for all determinations for prior and subsequent taxable years insofar as such determinations are affected by the adjustments under this section.
 
 #### (e) Replacement; inventory basis
 

@@ -28,7 +28,7 @@ Ex. Ord. No. 11359, eff. June 20, 1967, 32 F.R. 8851, as amended by Ex. Ord. No.
 
 #### Executive Order No. 11371
 
-Ex. Ord. No. 11371, Sept. 6, 1967, 32 F.R. 12903, as amended by Ex. Ord. No. 11528, Apr. 24, 1970, 35 F.R.6695; Ex. Ord. No. 11613, Aug. 2, 1971, 36 F.R. 14299; Ex. Ord. No. 11707, Mar. 12, 1973, 38 F.R. 6877; Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the New England River Basins Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(3) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
+Ex. Ord. No. 11371, Sept. 6, 1967, 32 F.R. 12903, as amended by Ex. Ord. No. 11528, Apr. 24, 1970, 35 F.R. 6695; Ex. Ord. No. 11613, Aug. 2, 1971, 36 F.R. 14299; Ex. Ord. No. 11707, Mar. 12, 1973, 38 F.R. 6877; Ex. Ord. No. 11882, Oct. 6, 1975, 40 F.R. 46293; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the New England River Basins Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(3) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45592, set out below.
 
 #### Executive Order No. 11578
 

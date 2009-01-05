@@ -38,7 +38,7 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;(10) shall submit a budget estimate with respect to the plan submitted by such center under this subsection;
 
-&emsp;(11) shall supply such other information as the Secretary reasonably deems necessary; and
+&emsp;(11) shall supply such other information as the Secretary reasonably deems necessary;
 
 &emsp;(12) shall submit to the Secretary an annual report that includes, with respect to the year for which the report is submitted—
 
@@ -50,7 +50,9 @@ In order to qualify for assistance under section 5711(a) of this title, an appli
 
 &emsp;&emsp;&emsp;(i) the number and the characteristics of the runaway and homeless youth, and youth at risk of family separation, who participate in the project; and
 
-&emsp;&emsp;&emsp;(ii) the services provided to such youth by the project.
+&emsp;&emsp;&emsp;(ii) the services provided to such youth by the project; and
+
+&emsp;(13) shall develop an adequate emergency preparedness and management plan.
 
 #### (c) Applicants providing street-based services
 
@@ -96,7 +98,7 @@ To be eligible to use assistance under section 5711(a)(2)(C)(iii) of this title 
 
 &emsp;(2) an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
 
-(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019;Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169.)
+(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §3(b), Oct. 8, 2008, 122 Stat. 4069.)
 
 #### References in Text
 
@@ -104,11 +106,13 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is
 
 #### Amendments
 
+2008—Subsec. (b)(13). Pub. L. 110–378 added par. (13).
+
 2003—Subsec. (a). Pub. L. 108–96, §105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
 
 Subsec. (b)(2)(A). Pub. L. 108–96, §106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+Subsec. (b)(4)(B). Pub. L. 108–96, §109, substituted “McKinney-Vento school district liaisons, designatedunder section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
 1999—Subsec. (b)(8). Pub. L. 106–71, §3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 

@@ -24,7 +24,7 @@ Such purposes shall be carried out through research, professional training, tech
 
 #### (d) Executive Director
 
-The Center shall be headed by an Executive Director with demonstrated expertise in historicpreservation appointed by the Secretary with advice of the Board.
+The Center shall be headed by an Executive Director with demonstrated expertise in historic preservation appointed by the Secretary with advice of the Board.
 
 #### (e) Assistance from Secretary
 

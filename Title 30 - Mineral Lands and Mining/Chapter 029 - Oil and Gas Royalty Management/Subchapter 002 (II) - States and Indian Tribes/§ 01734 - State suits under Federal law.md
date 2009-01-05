@@ -4,7 +4,7 @@
 
 (1) A State may commence a civil action under this section against any person to recover any royalty, interest, or civil penalty which the State believes is due, based upon credible evidence, with respect to any oil and gas lease on Federal lands located within the State.
 
-(2)(A) No action may be commenced under paragraph (1) prior to 90 days after the State has given notice in writing to the Secretary of the payment required. Such 90-day limitation may be waived by the Secretary on a case-by-case basis.
+(2)(A) No action may be commenced under paragraph (1) prior to 90 days after the State hasgiven notice in writing to the Secretary of the payment required. Such 90-day limitation may be waived by the Secretary on a case-by-case basis.
 
 (B) If, within the 90-day period specified in subparagraph (A), the Secretary issues a demand for the payment concerned, no action may be commenced under paragraph (1) with respect to such payment during a 45-day period after issuance of such demand. If, during such 45-day period, the Secretary receives payment in full, no action may be commenced under paragraph (1).
 

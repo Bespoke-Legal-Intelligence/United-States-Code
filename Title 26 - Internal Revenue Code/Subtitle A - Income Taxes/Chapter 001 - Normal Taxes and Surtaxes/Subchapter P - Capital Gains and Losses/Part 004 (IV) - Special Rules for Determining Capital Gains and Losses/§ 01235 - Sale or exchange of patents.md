@@ -62,7 +62,7 @@ Amendment by section 6000(d)(4) of Pub. L. 105–206 effective, except as otherw
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 174(b)(5)(C) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxableyears ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
+Amendment by section 174(b)(5)(C) of Pub. L. 98–369 applicable to transactions after Dec. 31, 1983, in taxable years ending after that date, see section 174(c)(2)(A) of Pub. L. 98–369, set out as a note under section 267 of this title.
 
 Amendment by section 1001(b)(19) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 

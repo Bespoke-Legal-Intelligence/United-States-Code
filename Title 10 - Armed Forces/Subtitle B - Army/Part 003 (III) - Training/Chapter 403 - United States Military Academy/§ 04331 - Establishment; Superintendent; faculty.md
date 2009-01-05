@@ -10,13 +10,13 @@
 
 &emsp;(3) A Commandant of Cadets.
 
-&emsp;(4) Twenty-two permanent professors.
+&emsp;(4) Twenty-eight permanent professors.
 
 &emsp;(5) A chaplain.
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238; Pub. L. 85–600, §1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, §1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, §523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, §533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, §507, Jan. 28, 2008, 122 Stat. 96.)
 
 Historical and Revision Notes
 
@@ -109,6 +109,8 @@ Subsection (a)(8) is inserted to complete the listing of the appointed officials
 In subsection (a)(9), the word “director” is substituted for the word “teacher” to conform to section 4338 of this title.
 
 #### Amendments
+
+2008—Subsec. (b)(4). Pub. L. 110–181 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Twenty-two permanent professors.”
 
 1993—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
@@ -250,7 +252,7 @@ Recommendations.—Not later than 12 months after the date on which all members 
 
 &emsp;“(7) Data collection and case management and tracking.
 
-&emsp;“(8) Curricula and training, including standard training programs for cadets at the United States Military Academy and midshipmen at the United States Naval Academy and for permanent personnel assigned to those academies.
+&emsp;“(8) Curricula and training, including standard training programs for cadets at the United StatesMilitary Academy and midshipmen at the United States Naval Academy and for permanent personnel assigned to those academies.
 
 &emsp;“(9) Responses to sexual harassment and violence at those academies, including standard guidelines.
 
@@ -316,7 +318,7 @@ Co-Chairs of the Task Force.—There shall be two co-chairs of the task force. O
 
 Administrative Support.—(1) Each member of the task force who is a member of the Armed Forces or a civilian officer or employee of the United States shall serve without compensation (other than compensation to which entitled as a member of the Armed Forces or an officer or employee of the United States, as the case may be). Other members of the task force shall be appointed in accordance with, and subject to, section 3161 of title 5, United States Code.
 
-“(2) The Deputy Under Secretary of Defense for Personnel and Readiness, under the direction of the Under Secretary of Defense for Personnel and Readiness, shallprovide oversight of the task force. The Washington Headquarters Services of the Department of Defense shall provide the task force with personnel, facilities, and other administrative support as necessary for the performance of the task force's duties.
+“(2) The Deputy Under Secretary of Defense for Personnel and Readiness, under the direction of the Under Secretary of Defense for Personnel and Readiness, shall provide oversight of the task force. The Washington Headquarters Services of the Department of Defense shall provide the task force with personnel, facilities, and other administrative support as necessary for the performance of the task force's duties.
 
 “(3) The Deputy Under Secretary shall coordinate with the Secretary of the Army to provide visits of the task force to the United States Military Academy and with the Secretary of the Navy to provide visits of the task force to the United States Naval Academy.
 

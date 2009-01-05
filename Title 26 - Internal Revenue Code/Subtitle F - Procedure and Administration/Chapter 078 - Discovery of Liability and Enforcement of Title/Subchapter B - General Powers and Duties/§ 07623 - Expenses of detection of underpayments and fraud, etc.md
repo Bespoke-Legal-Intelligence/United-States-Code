@@ -20,7 +20,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (A) In general
 
-&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individualdescribed in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action, taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
+&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action, taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
@@ -56,7 +56,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 &emsp;&emsp;No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958.)
 
 #### Amendments
 

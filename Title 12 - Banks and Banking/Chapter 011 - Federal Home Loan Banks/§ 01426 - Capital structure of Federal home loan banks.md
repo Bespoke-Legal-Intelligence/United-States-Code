@@ -4,7 +4,7 @@
 
 #### (1) Capital standards
 
-&emsp;Not later than 18 months after November 12, 1999, the Finance Board shall issue regulations prescribing uniform capital standards applicable to each Federal home loan bank, which shall require each such bank to meet—
+&emsp;Not later than 18 months after November 12, 1999, the Director shall issue regulations prescribing uniform capital standards applicable to each Federal home loan bank, which shall require each such bank to meet—
 
 &emsp;&emsp;(A) the leverage requirement specified in paragraph (2); and
 
@@ -18,25 +18,21 @@
 
 #### (B) Treatment of stock and retained earnings
 
-&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5,and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that a Federal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
+&emsp;&emsp;In determining compliance with the minimum leverage ratio established under subparagraph (A), the paid-in value of the outstanding Class B stock and the amount of retained earnings shall be multiplied by 1.5, and such higher amounts shall be deemed to be capital for purposes of meeting the 5 percent minimum leverage ratio, except that aFederal home loan bank's total capital (determined without taking into account any such multiplier) shall not be less than 4 percent of the total assets of the bank.
 
 #### (3) Risk-based capital standards
 
-#### (A) In general
+#### (A) Risk-based capital standards
 
-&emsp;&emsp;Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
-
-&emsp;&emsp;&emsp;(i) the credit risk to which the Federal home loan bank is subject; and
-
-&emsp;&emsp;&emsp;(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve.
+&emsp;&emsp;The Director shall, by regulation, establish risk-based capital standards for the Federal Home Loan Banks to ensure that the Federal Home Loan Banks operate in a safe and sound manner, with sufficient permanent capital and reserves to support the risks that arise in the operations and management of the Federal Home Loans Banks.
 
 #### (B) Consideration of other risk-based standards
 
-&emsp;&emsp;In establishing the risk-based standard under subparagraph (A)(ii), the Finance Board shall take due consideration of any risk-based capital test established pursuant to section 1361 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4611) for the enterprises (as defined in that Act \[12 U.S.C. 4501 et seq.\]), with such modifications as the Finance Board determines to be appropriate to reflect differences in operations between the Federal home loan banks and those enterprises.
+&emsp;&emsp;In establishing the risk-based standard under subparagraph (A), the Director shall take due consideration of any risk-based capital test established pursuant to section 1361 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4611) for the enterprises (as defined in that Act \[12 U.S.C. 4501 et seq.\]), with such modifications as the Director determines to be appropriate to reflect differences in operations between the Federal home loan banks and those enterprises.
 
 #### (4) Other regulatory requirements
 
-&emsp;The regulations issued by the Finance Board under paragraph (1) shall—
+&emsp;The regulations issued by the Director under paragraph (1) shall—
 
 &emsp;&emsp;(A) permit each Federal home loan bank to issue, with such rights, terms, and preferences, not inconsistent with this chapter and the regulations issued hereunder, as the board of directors of that bank may approve, any 1 or more of—
 
@@ -66,29 +62,29 @@
 
 &emsp;&emsp;&emsp;(ii) the amounts paid for the Class A stock;
 
-&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
+&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
 
-&emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Finance Board determines by regulation to be appropriate to include in determining total capital.
+&emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Director determines by regulation to be appropriate to include in determining total capital.
 
 #### (6) Transition period
 
-&emsp;Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999, shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) of this section has been approved by the Finance Board and implemented by such bank.
+&emsp;Notwithstanding any other provision of this chapter, the requirements relating to purchase and retention of capital stock of a Federal home loan bank by any member thereof in effect on the day before November 12, 1999, shall continue in effect with respect to each Federal home loan bank until the regulations required by this subsection have taken effect and the capital structure plan required by subsection (b) of this section has been approved by the Director and implemented by such bank.
 
 #### (b) Capital structure plan
 
 #### (1) Approval of plans
 
-&emsp;Not later than 270 days after the date of publication by the Finance Board of final regulations in accordance with subsection (a) of this section, the board of directors of each Federal home loan bank shall submit for Finance Board approval a plan establishing and implementing a capital structure for such bank that—
+&emsp;Not later than 270 days after the date of publication by the Director of final regulations in accordance with subsection (a) of this section, the board of directors of each Federal home loan bank shall submit for approval by the Director a plan establishing and implementing a capital structure for such bank that—
 
 &emsp;&emsp;(A) the board of directors determines is best suited for the condition and operation of the bank and the interests of the members of the bank;
 
 &emsp;&emsp;(B) meets the requirements of subsection (c) of this section; and
 
-&emsp;&emsp;(C) meets the minimum capital standards and requirements established under subsection (a) of this section and other regulations prescribed by the Finance Board.
+&emsp;&emsp;(C) meets the minimum capital standards and requirements established under subsection (a) of this section and other regulations prescribed by the Director.
 
 #### (2) Approval of modifications
 
-&emsp;The board of directors of a Federal home loan bank shall submit to the Finance Board for approval any modifications that the bankproposes to make to an approved capital structure plan.
+&emsp;The board of directors of a Federal home loan bank shall submit to the Director for approval any modifications that the bank proposes to make to an approved capital structure plan.
 
 #### (c) Contents of plan
 
@@ -104,7 +100,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In establishing the minimum investment required for each member under subparagraph (A), a Federal home loan bank may, in its discretion, include any 1 or more of the requirements referred to in clause (ii), or any other provisions approved by the Finance Board.
+&emsp;&emsp;&emsp;In establishing the minimum investment required for each member under subparagraph (A), a Federal home loan bank may, in its discretion, include any 1 or more of the requirements referred to in clause (ii), or any other provisions approved by the Director.
 
 #### (ii) Authorized requirements
 
@@ -116,11 +112,11 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (C) Minimum amount
 
-&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Finance Board under subsection (a) of this section.
+&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require that the minimum stock investment established for members shall be set at a level that is sufficient for the bank to meet the minimum capital requirements established by the Director under subsection (a) of this section.
 
 #### (D) Adjustments to minimum required investment
 
-&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Finance Board, and shall require each member to comply promptly with any adjustments to the required minimum investment.
+&emsp;&emsp;The capital structure plan of each Federal home loan bank shall impose a continuing obligation on the board of directors of the bank to review and adjust the minimum investment required of each member of that bank, as necessary to ensure that the bank remains in compliance with applicable minimum capital levels established by the Director, and shall require each member to comply promptly with any adjustments to the required minimum investment.
 
 #### (2) Transition rule
 
@@ -140,15 +136,15 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors of the bank and approved by the Finance Board in accordance with its regulations.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors of the bank and approved by the Director in accordance with its regulations.
 
 #### (B) Rights requirement
 
-&emsp;&emsp;A Federal home loan bank shall include in its capital structure plan provisions establishing terms, rights, and preferences, including minimum investment, dividends, voting, and liquidation preferences of each class of stock issued by the bank, consistent with Finance Board regulations and market requirements.
+&emsp;&emsp;A Federal home loan bank shall include in its capital structure plan provisions establishing terms, rights, and preferences, including minimum investment, dividends, voting, and liquidation preferences of each class of stock issued by the bank, consistent with regulations of the Director and market requirements.
 
 #### (C) Reduced minimum investment
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B <sup>1</sup> in a manner that is consistent with meeting the minimum capital requirements of the bank, as established by the Finance Board.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B <sup>1</sup> in a manner that is consistent with meeting the minimum capital requirements of the bank, as established by the Director.
 
 #### (D) Liquidation of claims
 
@@ -164,7 +160,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (6) Bank review of plan
 
-&emsp;Before filing a capital structure plan with the Finance Board, each Federal home loan bank shall conduct a review of the plan by—
+&emsp;Before filing a capital structure plan with the Director, each Federal home loan bank shall conduct a review of the plan by—
 
 &emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible, that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
 
@@ -174,13 +170,13 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (1) Voluntary withdrawal
 
-&emsp;Any member may withdraw from a Federal home loan bank if the member provides written notice to the bank of its intent to do so and if, on the date of withdrawal, there is in effect a certification by the Finance Board that the withdrawal will not cause the Federal Home Loan Bank System to fail to meet its obligation under section 1441b(f)(2)(C) of this title to contribute to the debt service for the obligations issued by the Resolution Funding Corporation. The applicable stock redemption notice periods shall commence upon receipt of the notice by the bank. Upon the expiration of the applicable notice period for each class of redeemable stock, the member may surrender such stock to the bank, and shall be entitled to receive in cash the par value of the stock. During the applicable notice periods, the member shall be entitled to dividends and other membership rights commensurate with continuing stock ownership.
+&emsp;Any member may withdraw from a Federal home loan bank if the member provides written notice to the bank of its intent to do so and if, on the date of withdrawal, there is in effect a certification by the Director that the withdrawal will not cause the Federal Home Loan Bank System to fail to meet its obligation under section 1441b(f)(2)(C) of this title to contribute to the debt service for the obligations issued by the Resolution Funding Corporation. The applicable stock redemption notice periods shall commence upon receipt of the notice by the bank. Upon the expiration of the applicable notice period for each class of redeemable stock, the member may surrender such stock to the bank, and shall be entitled to receive in cash the par value of the stock. During the applicable notice periods, the member shall be entitled to dividends and other membership rights commensurate with continuing stock ownership.
 
 #### (2) Involuntary withdrawal
 
 #### (A) In general
 
-&emsp;&emsp;The board of directors of a Federal home loan bank may terminate the membership of any institution if, subject to Finance Board regulations, it determines that—
+&emsp;&emsp;The board of directors of a Federal home loan bank may terminate the membership of any institution if, subject to regulations of the Director, it determines that—
 
 &emsp;&emsp;&emsp;(i) the member has failed to comply with a provision of this chapter or any regulation prescribed under this chapter; or
 
@@ -224,17 +220,17 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (f) Impairment of capital
 
-If the Finance Board or the board of directors of a Federal home loan bank determines that the bank has incurred or is likely to incur losses that result in or are expected to result in charges against the capital of the bank, the bank shall not redeem or repurchase any stock of the bank without the prior approval of the Finance Board while such charges are continuing or are expected to continue. In no case may a bank redeem or repurchase any applicable capital stock if, following the redemption, the bank would fail to satisfy any minimum capital requirement.
+If the Director or the board of directors of a Federal home loan bank determines that the bank has incurred or is likely to incur losses that result in or are expected to result in charges against the capital of the bank, the bank shall not redeem or repurchase any stock of the bank without the prior approval of the Director while such charges are continuing or are expected to continue. In no case may a bank redeem or repurchase any applicable capital stock if, following the redemption, the bank would fail to satisfy any minimum capital requirement.
 
 #### (g) Rejoining after divestiture of all shares
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of any Federal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer ofmembership on an uninterrupted basis between banks.
+&emsp;Except as provided in paragraph (2), and notwithstanding any other provision of this chapter, an institution that divests all shares of stock in a Federal home loan bank may not, after such divestiture, acquire shares of any Federal home loan bank before the end of the 5-year period beginning on the date of the completion of such divestiture, unless the divestiture is a consequence of a transfer of membership on an uninterrupted basis between banks.
 
 #### (2) Exception for withdrawals from membership before 1998
 
-&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after that date, subject to the approval of the Finance Board and the requirements of this chapter.
+&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after that date, subject to the approval of the Director and the requirements of this chapter.
 
 #### (h) Treatment of retained earnings
 
@@ -250,13 +246,27 @@ If the Finance Board or the board of directors of a Federal home loan bank deter
 
 &emsp;A Federal home loan bank may not make any distribution of its retained earnings unless, following such distribution, the bank would continue to meet all applicable capital requirements.
 
-(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, §608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, §1224, Dec. 27, 2000, 114 Stat. 3036.)
+(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, §608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, §1224, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 110–289, div. A, title I, §1110(b), title II, §1204(4), (10), July 30, 2008, 122 Stat. 2676, 2786.)
 
 #### References in Text
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
+
+2008—Pub. L. 110–289, §1204(10), substituted “the Director” for “the Finance Board” wherever appearing in subsecs. (a)(1), (3)(B), (4) to (6), (b)(1)(C), (2), (c)(1), (4)(A), (C), (6), (d)(1), (f), and (g).
+
+Subsec. (a)(3)(A). Pub. L. 110–289, §1110(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
+
+&emsp;“(i) the credit risk to which the Federal home loan bank is subject; and
+
+&emsp;“(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve.”
+
+Subsec. (a)(3)(B). Pub. L. 110–289, §1110(b)(2), substituted “(A)” for “(A)(ii)”.
+
+Subsec. (b)(1). Pub. L. 110–289, §1204(4)(A), (10), substituted “the Director” for “the Finance Board” and “approval by the Director” for “Finance Board approval” in introductory provisions.
+
+Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, §1204(4)(B), substituted “regulations of the Director” for “Finance Board regulations”.
 
 2000—Subsec. (a)(1). Pub. L. 106–569 substituted “18 months” for “1 year” in introductory provisions.
 

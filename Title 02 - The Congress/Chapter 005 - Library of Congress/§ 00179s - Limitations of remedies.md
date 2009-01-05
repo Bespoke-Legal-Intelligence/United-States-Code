@@ -4,7 +4,3 @@ The remedies provided in section 179r of this title shall be the exclusive remed
 
 (Pub. L. 104–285, title I, §109, Oct. 11, 1996, 110 Stat. 3381.)
 
-#### Termination of Section
-
-<i>For termination of section, see section 179w of this title.</i>
-

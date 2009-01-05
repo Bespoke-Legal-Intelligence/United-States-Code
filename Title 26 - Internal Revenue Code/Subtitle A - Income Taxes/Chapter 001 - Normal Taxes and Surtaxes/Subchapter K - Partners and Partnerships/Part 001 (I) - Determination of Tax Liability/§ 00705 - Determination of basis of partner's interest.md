@@ -24,7 +24,7 @@ The adjusted basis of a partner's interest in a partnership shall, except as pro
 
 The Secretary shall prescribe by regulations the circumstances under which the adjusted basis of a partner's interest in a partnership may be determined by reference to his proportionate share of the adjusted basis of partnership property upon a termination of the partnership.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2115(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1909; Pub. L. 98–369, div. A, title VII, §722(e)(1), July 18, 1984, 98 Stat. 974.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI,§2115(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1909; Pub. L. 98–369, div. A, title VII, §722(e)(1), July 18, 1984, 98 Stat. 974.)
 
 #### Amendments
 

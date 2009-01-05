@@ -29,3 +29,4 @@
 - [&sect; 06939c - Mixed waste inventory reports and plan](%C2%A7%2006939c%20-%20Mixed%20waste%20inventory%20reports%20and%20plan.md)
 - [&sect; 06939d - Public vessels](%C2%A7%2006939d%20-%20Public%20vessels.md)
 - [&sect; 06939e - Federally owned treatment works](%C2%A7%2006939e%20-%20Federally%20owned%20treatment%20works.md)
+- [&sect; 06939f - Long-term storage](%C2%A7%2006939f%20-%20Long-term%20storage.md)

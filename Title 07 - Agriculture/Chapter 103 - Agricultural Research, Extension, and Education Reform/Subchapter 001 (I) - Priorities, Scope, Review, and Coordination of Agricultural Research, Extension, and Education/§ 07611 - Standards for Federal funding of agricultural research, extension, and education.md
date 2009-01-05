@@ -16,5 +16,19 @@ Subsection (a) of this section applies to—
 
 &emsp;(2) research, extension, or education activities administered, on a competitive basis, by the Cooperative State Research, Education, and Extension Service.
 
-(Pub. L. 105–185, title I, §101, June 23, 1998, 112 Stat. 526.)
+(Pub. L. 105–185, title I, §101, June 23, 1998, 112 Stat. 526; Pub. L. 110–234, title VII, §7511(c)(29), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(29), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (b)(2) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service”.</i>
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(29) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

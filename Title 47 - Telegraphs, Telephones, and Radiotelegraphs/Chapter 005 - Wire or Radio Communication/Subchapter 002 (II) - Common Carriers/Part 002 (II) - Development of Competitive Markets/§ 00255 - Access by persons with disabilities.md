@@ -6,7 +6,7 @@ As used in this section—
 
 #### (1) Disability
 
-&emsp;The term “disability” has the meaning given to it by section 12102(2)(A) of title 42.
+&emsp;The term “disability” has the meaning given to it by section 12102(2)(A) <sup>1</sup> of title 42.
 
 #### (2) Readily achievable
 
@@ -26,11 +26,17 @@ Whenever the requirements of subsections (b) and (c) of this section are not rea
 
 #### (e) Guidelines
 
-Within 18 months after February 8, 1996, the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment andcustomer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
+Within 18 months after February 8, 1996, the Architectural and Transportation Barriers Compliance Board shall develop guidelines for accessibility of telecommunications equipment and customer premises equipment in conjunction with the Commission. The Board shall review and update the guidelines periodically.
 
 #### (f) No additional private rights authorized
 
 Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
 (June 19, 1934, ch. 652, title II, §255, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 75.)
+
+#### References in Text
+
+Section 12102 of title 42, referred to in subsec. (a)(1), was amended generally by Pub. L. 110–325, §4(a), Sept.25, 2008, 122 Stat. 3555, and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

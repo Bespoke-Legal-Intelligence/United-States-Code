@@ -6,17 +6,17 @@
 
 (2)(A) Except as provided in paragraph (4), the total of loans made to a student in any academic year or its equivalent by an institution of higher education from a loan fund established pursuant to an agreement under this part shall not exceed—
 
-&emsp;(i) $4,000, in the case of a student who has not successfully completed a program of undergraduate education; or
+&emsp;(i) $5,500, in the case of a student who has not successfully completed a program of undergraduate education; or
 
-&emsp;(ii) $6,000, in the case of a graduate or professional student (as defined in regulations issued by the Secretary).
+&emsp;(ii) $8,000, in the case of a graduate or professional student (as defined in regulations issued by the Secretary).
 
 (B) Except as provided in paragraph (4), the aggregate unpaid principal amount for all loans made to a student by institutions of higher education from loan funds established pursuant to agreements under this part may not exceed—
 
-&emsp;(i) $40,000, in the case of any graduate or professional student (as defined by regulations issued by the Secretary, and including any loans from such funds made to such person before such person became a graduate or professional student);
+&emsp;(i) $60,000, in the case of any graduate or professional student (as defined by regulations issued by the Secretary, and including any loans from such funds made to such person before such person became a graduate or professional student);
 
-&emsp;(ii) $20,000, in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
+&emsp;(ii) $27,500, in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
 
-&emsp;(iii) $8,000, in the case of any other student.
+&emsp;(iii) $11,000, in the case of any other student.
 
 (3) Regulations of the Secretary under paragraph (1) shall be designed to prevent the impairment of the capital student loan funds to the maximum extent practicable and with a view toward the objective of enabling the student to complete his course of study.
 
@@ -44,13 +44,21 @@
 
 &emsp;(E) shall provide that the loan shall be made without security and without endorsement;
 
-&emsp;(F) shall provide that the liability to repay the loan shall be canceled upon the death of the borrower, or if he becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;
+&emsp;(F) shall provide that the liability to repay the loan shall be cancelled—
+
+&emsp;&emsp;(i) upon the death of the borrower;
+
+&emsp;&emsp;(ii) if the borrower becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;
+
+&emsp;&emsp;(iii) if the borrower is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months; or
+
+&emsp;&emsp;(iv) if the borrower is determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected disability;
 
 &emsp;(G) shall provide that no note or evidence of obligation may be assigned by the lender, except upon the transfer of the borrower to another institution participating under this part (or, if not so participating, is eligible to do so and is approved by the Secretary for such purpose), to such institution, and except as necessary to carry out section 1087cc(a)(6) <sup>1</sup> of this title;
 
 &emsp;(H) pursuant to regulations of the Secretary, shall provide for an assessment of a charge with respect to the loan for failure of the borrower to pay all or part of an installment when due, which shall include the expenses reasonably incurred in attempting collection of the loan, to the extent permitted by the Secretary, except that no charge imposed under this subparagraph shall exceed 20 percent of the amount of the monthly payment of the borrower; and
 
-&emsp;(I) shall contain a notice of the system of disclosure of information concerning default on such loan to credit bureau organizations under section 1087cc(c) of this title.
+&emsp;(I) shall contain a notice of the system of disclosure of information concerning default on such loan to consumer reporting agencies under section 1087cc(c) of this title.
 
 (2)(A) No repayment of principal of, or interest on, any loan from a student loan fund assisted under this part shall be required during any period—
 
@@ -100,17 +108,23 @@
 
 #### (d) Availability of loan fund to all eligible students
 
-An agreement under this part for payment of Federal capital contributions shall include provisions designed to make loans from the student loan fund established pursuant to such agreement reasonably available (to the extent of the available funds in such fund) to all eligible students in such institutions in need thereof.
+An agreement under this part for payment of Federal capital contributions shall include provisions designed to make loans from the studentloan fund established pursuant to such agreement reasonably available (to the extent of the available funds in such fund) to all eligible students in such institutions in need thereof.
 
 #### (e) Forbearance
 
-The Secretary shall ensure that, upon written request, an institution of higher education shall grant a borrower forbearance of principal and interest or principal only, renewable at 12-month intervals for a period not to exceed 3 years, on such terms as are otherwise consistent with the regulations issued by the Secretary and agreed upon in writing by the parties to the loan, if—
+(1) The Secretary shall ensure that, as documented in accordance with paragraph (2), an institution of higher education shall grant a borrower forbearance of principal and interest or principal only, renewable at 12-month intervals for a period not to exceed 3 years, on such terms as are otherwise consistent with the regulations issued by the Secretary and agreed upon in writing by the parties to the loan, if—
 
-&emsp;(1) the borrower's debt burden equals or exceeds 20 percent of such borrower's gross income;
+&emsp;(A) the borrower's debt burden equals or exceeds 20 percent of such borrower's gross income;
 
-&emsp;(2) the institution determines that the borrower should qualify for forbearance for other reasons; or
+&emsp;(B) the institution determines that the borrower should qualify for forbearance for other reasons; or
 
-&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
+&emsp;(C) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
+
+(2) For the purpose of paragraph (1), the terms of forbearance agreed to by the parties shall be documented by—
+
+&emsp;(A) confirming the agreement of the borrower by notice to the borrower from the institution of higher education; and
+
+&emsp;(B) recording the terms in the borrower's file.
 
 #### (f) Special repayment rule authority
 
@@ -154,7 +168,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (A) In general
 
-&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 12 ontime, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any credit bureau organization or credit reporting agency to which the default was reported remove the default from the borrower's credit history.
+&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 9 on-time, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any consumer reporting agency to which the default was reported remove the default from the borrower's credit history.
 
 #### (B) Comparable conditions
 
@@ -162,7 +176,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (C) Additional assistance
 
-&emsp;&emsp;The borrower of a rehabilitated loan shall not be precluded by section 1091 of this titlefrom receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
+&emsp;&emsp;The borrower of a rehabilitated loan shall not be precluded by section 1091 of this title from receiving additional grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (for which the borrower is otherwise eligible) on the basis of defaulting on the loan prior to such rehabilitation.
 
 #### (D) Limitations
 
@@ -196,9 +210,21 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(1)(C).
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792.)
+#### (k) Additional safeguards
+
+The Secretary may develop such additional safeguards as the Secretary determines necessary to prevent fraud and abuse in the cancellation of liability under subsection (c)(1)(F). Notwithstanding subsection (c)(1)(F), the Secretary may promulgate regulations to resume collection on loans cancelled under subsection (c)(1)(F) in any case in which—
+
+&emsp;(1) a borrower received a cancellation of liability under subsection (c)(1)(F) and after the cancellation the borrower—
+
+&emsp;&emsp;(A) receives a loan made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42; or
+
+&emsp;&emsp;(B) has earned income in excess of the poverty line; or
+
+&emsp;(2) the Secretary determines necessary.
+
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267.)
 
 #### References in Text
 
@@ -209,6 +235,22 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2008—Subsec. (a)(2)(A). Pub. L. 110–315, §464(a)(1), substituted “$5,500” for “$4,000” in cl. (i) and “$8,000” for “$6,000” in cl. (ii).
+
+Subsec. (a)(2)(B). Pub. L. 110–315, §464(a)(2), substituted “$60,000” for “$40,000” in cl. (i), “$27,500” for “$20,000” in cl. (ii), and “$11,000” for “$8,000” in cl. (iii).
+
+Subsec. (c)(1)(F). Pub. L. 110–315, §464(b)(1)(A), substituted “cancelled—” and cls. (i) to (iv) for “canceledupon the death of the borrower, or if he becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;”.
+
+Subsec. (c)(1)(I). Pub. L. 110–315, §432(b)(7)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
+
+Subsec. (e). Pub. L. 110–315, §464(c)(1), substituted “, as documented in accordance with paragraph (2),” for “, upon written request,” in introductory provisions, designated existing text as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+
+Subsec. (h)(1)(A). Pub. L. 110–315, §§432(b)(7)(B), 464(c)(2), substituted “9 on-time” for “12 ontime” and “consumer” for “credit bureau organization or credit”.
+
+Subsec. (j)(2). Pub. L. 110–315, §464(c)(3), substituted “subsection (e)(1)(C)” for “subsection (e)(3)”.
+
+Subsec. (k). Pub. L. 110–315, §464(b)(1)(B), added subsec. (k).
 
 2007—Subsec. (c)(2)(A)(iii). Pub. L. 110–84 struck out “not in excess of 3 years” before “during” in introductory provisions, substituted comma for semicolon at end of subcl. (II), and inserted concluding provisions.
 
@@ -224,7 +266,7 @@ Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end “A student who
 
 Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
 
-Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)”after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
+Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)” after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §464(c)(2), substituted “subparagraph (A) of paragraph (1)” for “subparagraph (B)” in concluding provisions.
 
@@ -276,6 +318,10 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–315, title IV, §464(b)(2), Aug. 14, 2008, 122 Stat. 3267, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on July 1, 2008.”
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
@@ -304,7 +350,7 @@ Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §
 
 &emsp;“(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 
-&emsp;“(2) the changes made in section 464(c)(1)(C) \[20 U.S.C. 1087dd(c)(1)(C)\], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1,1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
+&emsp;“(2) the changes made in section 464(c)(1)(C) \[20 U.S.C. 1087dd(c)(1)(C)\], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1, 1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
 
 &emsp;“(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
 

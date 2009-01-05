@@ -33,7 +33,7 @@ Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), 
 
 The subject matter of the prior sections was as follows:
 
-A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, §1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
+A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, §1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
 
 A prior section 4302, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1293, made provision for a determination of tax in the case of recapitalization.
 
@@ -67,7 +67,7 @@ A prior section 4332, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Jan. 28, 1956,
 
 A prior section 4333, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
 
-A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
+A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
 
 A prior section 4342, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, granted exemptions in the case of delivery or transfer of instruments by a fiduciary to his nominee or between nominees or by a custodian.
 

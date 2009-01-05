@@ -24,11 +24,11 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (2) Certain storage use
 
-&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to spacewithin the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
 
 #### (3) Rental use
 
-&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of thedwelling unit or portion thereof (determined after the application of subsection (e)).
+&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of the dwelling unit or portion thereof (determined after the application of subsection (e)).
 
 #### (4) Use in providing day care services
 
@@ -92,13 +92,13 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;(C) by any individual (other than an employee with respect to whose use section 119 applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
 
-> &emsp;The Secretary shall prescribe regulations with respect to the circumstances under which use of the unit for repairs and annual maintenance will not constitute personal use under this paragraph, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged.
+> &emsp;The Secretary shall prescribe regulations with respect to the circumstances under which use of the unit for repairs and annual maintenance will not constitute personal use under this paragraph, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use bythe taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged.
 
 #### (3) Rental to family member, etc., for use as principal residence
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period iffor such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
+&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period if for such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
 
 #### (B) Special rules for rental to person having interest in unit
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Section 113(e) of Pub. L. 97–119 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable yearsbeginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law.”
+Section 113(e) of Pub. L. 97–119 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law.”
 
 #### Effective Date of 1978 Amendment
 

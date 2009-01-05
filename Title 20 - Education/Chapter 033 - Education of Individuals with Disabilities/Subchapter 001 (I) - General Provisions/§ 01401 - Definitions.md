@@ -42,7 +42,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term “child with a disability” for a child aged 3 through 9 (or any subset of that age range, including ages 3 through 5), may, at the discretion of the State and the local educational agency, include a child—
 
-&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured byappropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
+&emsp;&emsp;&emsp;(i) experiencing developmental delays, as defined by the State and as measured by appropriate diagnostic instruments and procedures, in 1 or more of the following areas: physical development; cognitive development; communication development; social or emotional development; or adaptive development; and
 
 &emsp;&emsp;&emsp;(ii) who, by reason thereof, needs special education and related services.
 
@@ -124,7 +124,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;When used with respect to a special education teacher who teaches core academic subjects exclusively to children who are assessed against alternate achievement standards established under the regulations promulgated under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\], such term means the teacher, whether new or not new to the profession, may either—
 
-&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] forany elementary, middle, or secondary school teacher who is new or not new to the profession; or
+&emsp;&emsp;&emsp;(i) meet the applicable requirements of section 9101 of such Act \[20 U.S.C. 7801\] for any elementary, middle, or secondary school teacher who is new or not new to the profession; or
 
 &emsp;&emsp;&emsp;(ii) meet the requirements of subparagraph (B) or (C) of section 9101(23) of such Act as applied to an elementary school teacher, or, in the case of instruction above the elementary level, has subject matter knowledge appropriate to the level of instruction being provided, as determined by the State, needed to effectively teach to those standards.
 
@@ -176,7 +176,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) has the meaning given the term in section 1001 of this title; and
 
-&emsp;&emsp;(B) also includes any community college receiving funding from the Secretary of the Interior under the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;&emsp;(B) also includes any college or university receiving funding from the Secretary of the Interior under the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (18) Limited English proficient
 
@@ -308,21 +308,25 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term does not include a foster child who has a foster parent who meets the definition of a parent in paragraph (23).
 
-(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652.)
+(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, §941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I ofchapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§6811 et seq.) and B (§6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (17)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 #### Prior Provisions
 
 A prior section 1401, Pub. L. 91–230, title VI, §602, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 42; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1401, Pub. L. 91–230, title VI, §602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, §4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, §402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, §101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, §101, title IX, §901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, §802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, §391(f)(1), Oct. 20, 1994, 108 Stat. 4023, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+2008—Par. (17)(B). Pub. L. 110–315 substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 #### Effective Date
 

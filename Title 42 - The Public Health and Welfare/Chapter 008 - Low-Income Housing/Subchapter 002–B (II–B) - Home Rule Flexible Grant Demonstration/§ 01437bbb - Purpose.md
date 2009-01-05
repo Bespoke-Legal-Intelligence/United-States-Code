@@ -20,7 +20,7 @@ The purpose of this subchapter is to demonstrate the effectiveness of authorizin
 
 &emsp;&emsp;(G) improve program management; and
 
-&emsp;&emsp;(H) achieve such other purposes with respect to low-income families, as determined by the participating local governments andmunicipalities in coordination with the public housing agencies; <sup>1</sup>
+&emsp;&emsp;(H) achieve such other purposes with respect to low-income families, as determined by the participating local governments and municipalities in coordination with the public housing agencies; <sup>1</sup>
 
 (Sept. 1, 1937, ch. 896, title IV, §401, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2616.)
 

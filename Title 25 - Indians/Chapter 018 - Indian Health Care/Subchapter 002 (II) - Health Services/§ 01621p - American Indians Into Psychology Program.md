@@ -6,7 +6,7 @@ The Secretary may provide grants to at least 3 colleges and universities for the
 
 #### (b) Quentin N. Burdick American Indians Into Psychology Program
 
-The Secretary shall provide one of the grants authorized under subsection (a) of this section to develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs authorized under section 1616g(b) of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section1616e(e) of this title, and existing university research and communications networks.
+The Secretary shall provide one of the grants authorized under subsection (a) of this section to develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs authorized under section 1616g(b) of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616e(e) of this title, and existing university research and communications networks.
 
 #### (c) Issuance of regulations
 

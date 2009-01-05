@@ -80,7 +80,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 &emsp;(A) The Secretary may use a production allocation methodology for each participating area within a unit that includes solely Federal land in the Reserve.
 
-&emsp;(B) The Secretary shall use a production allocation methodology for each participating area within a unit that includes Federal land in the Reserve and non-Federal land based on the characteristics of each specific oil or gas pool, field, reservoir, or like area to take into account reservoir heterogeneity and area variation in reservoir producibility across diverse leasehold interests. The implementation of the foregoing production allocation methodology shall be controlled by agreement among the affected lessors and lessees.
+&emsp;(B) The Secretary shall use a production allocation methodology for each participatingarea within a unit that includes Federal land in the Reserve and non-Federal land based on the characteristics of each specific oil or gas pool, field, reservoir, or like area to take into account reservoir heterogeneity and area variation in reservoir producibility across diverse leasehold interests. The implementation of the foregoing production allocation methodology shall be controlled by agreement among the affected lessors and lessees.
 
 #### (4) Benefit of operations
 
@@ -150,7 +150,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 &emsp;&emsp;(iii) the segregation of the lease described in clause (ii)(I) has no effect on the obligations of the lessee under either of the resulting leases, including obligations relating to operations, production, or other circumstances (other than payment of rentals or royalties); and
 
-&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior tomanage the federally-owned surface estate within the Reserve.
+&emsp;&emsp;(C) nothing in this subsection limits the authority of the Secretary of the Interior to manage the federally-owned surface estate within the Reserve.
 
 (Pub. L. 94–258, title I, §107, formerly Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2964; Pub. L. 98–620, title IV, §402(41), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 105–83, title I, §128, Nov. 14, 1997, 111 Stat. 1568; renumbered Pub. L. 94–258, title I, §107, and amended Pub. L. 109–58, title III, §347(a)(2), (b), Aug. 8, 2005, 119 Stat. 704.)
 

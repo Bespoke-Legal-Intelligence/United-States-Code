@@ -16,6 +16,10 @@
 
 &emsp;&emsp;The Secretary shall consult with the Advisory Board in establishing the merit review procedures.
 
+#### (3) Consideration
+
+&emsp;Peer and merit review procedures established under paragraphs (1) and (2) shall not take the offer or availability of matching funds into consideration.
+
 #### (b) Advisory Board review
 
 On an annual basis, the Advisory Board shall review—
@@ -84,9 +88,35 @@ On an annual basis, the Advisory Board shall review—
 
 &emsp;&emsp;(B) review the activity in accordance with the process.
 
-(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527.)
+#### (3) Hispanic-serving agricultural colleges and universities
+
+&emsp;To be eligible to obtain agricultural extension funds from the Secretary for an activity,each Hispanic-serving agricultural college and university shall—
+
+&emsp;&emsp;(A) establish a process for merit review of the activity; and
+
+&emsp;&emsp;(B) review the activity in accordance with such process.
+
+(Pub. L. 105–185, title I, §103, June 23, 1998, 112 Stat. 527; Pub. L. 110–234, title VII, §§7129(c)(3), 7301, 7511(c)(30), May 22, 2008, 122 Stat. 1227, 1242, 1270; Pub. L. 110–246, §4(a), title VII, §§7129(c)(3), 7301, 7511(c)(30), June 18, 2008, 122 Stat. 1664, 1988, 2003, 2031.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–246, title VII, §7511(c), June 18, 2008, 122 Stat. 2028, 2031, provided that, effective Oct. 1, 2009, subsection (a) of this section is amended by substituting “National Institute of Food and Agriculture” for “Cooperative State Research, Education, and Extension Service” in heading and “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service” in paragraphs (1) and (2)(A).</i>
 
 #### Codification
 
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 Section is comprised of section 103 of Pub. L. 105–185. Subsec. (f) of section 103 of Pub. L. 105–185 amended sections 361g, 3221, and 3222 of this title and repealed sections 346 and 3314 of this title.
+
+#### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–246, §7301, added par. (3).
+
+Subsec. (e)(3). Pub. L. 110–246, §7129(c)(3), added par. (3).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Amendment by section 7511(c)(30) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

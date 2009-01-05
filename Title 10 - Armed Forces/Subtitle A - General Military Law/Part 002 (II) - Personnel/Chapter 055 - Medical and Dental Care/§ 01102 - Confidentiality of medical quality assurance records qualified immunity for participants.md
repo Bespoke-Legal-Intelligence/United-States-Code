@@ -20,7 +20,7 @@ Authorized Disclosure and Testimony.—(1) Subject to paragraph (2), a medical q
 
 &emsp;(C) To a governmental board or agency or to a professional health care society or organization, if such medical quality assurance record or testimony is needed by such board, agency, society, or organization to perform licensing, credentialing, or the monitoring of professional standards with respect to any health care provider who is or was a member or an employee of the Department of Defense.
 
-&emsp;(D) To a hospital, medical center, or other institution that provides health care services, if such medical quality assurance record ortestimony is needed by such institution to assess the professional qualifications of any health care provider who is or was a member or employee of the Department of Defense and who has applied for or been granted authority or employment to provide health care services in or on behalf of such institution.
+&emsp;(D) To a hospital, medical center, or other institution that provides health care services, if such medical quality assurance record or testimony is needed by such institution to assess the professional qualifications of any health care provider who is or was a member or employee of the Department of Defense and who has applied for or been granted authority or employment to provide health care services in or on behalf of such institution.
 
 &emsp;(E) To an officer, employee, or contractor of the Department of Defense who has a need for such record or testimony to perform official duties.
 
@@ -82,5 +82,5 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 #### Effective Date
 
-Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added bysubsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
+Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
 

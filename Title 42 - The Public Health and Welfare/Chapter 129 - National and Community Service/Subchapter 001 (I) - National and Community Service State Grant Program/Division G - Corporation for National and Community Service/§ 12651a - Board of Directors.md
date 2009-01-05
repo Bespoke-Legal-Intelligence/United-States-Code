@@ -38,7 +38,7 @@
 
 #### (1) Chairperson
 
-&emsp;The President shall appoint a member of the Board to serve as the initial Chairperson ofthe Board. Each subsequent Chairperson shall be elected by the Board from among its members.
+&emsp;The President shall appoint a member of the Board to serve as the initial Chairperson of the Board. Each subsequent Chairperson shall be elected by the Board from among its members.
 
 #### (2) Vice Chairperson
 

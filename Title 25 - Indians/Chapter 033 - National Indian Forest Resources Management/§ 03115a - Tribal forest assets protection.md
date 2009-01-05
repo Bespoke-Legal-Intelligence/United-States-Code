@@ -40,7 +40,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including aproject to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c) of this section, the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275)), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
+&emsp;Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c) of this section, the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 (16 U.S.C. 2104 note; Public Law 105–277) (as amended by section 323 of the Department of the Interiorand Related Agencies Appropriations Act, 2003 (117 Stat. 275)), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
 
 #### (2) Environmental analysis
 
@@ -124,7 +124,7 @@ Not later than 4 years after July 22, 2004, the Secretary shall submit to Congre
 
 #### References in Text
 
-Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to insubsecs. (b)(1) and (f)(1), is section §101(e) \[title III, §347\] of Pub. L. 105–277, div. A, as amended, which is set out as a note under section 2104 of Title 16, Conservation.
+Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), is section §101(e) \[title III, §347\] of Pub. L. 105–277, div. A, as amended, which is set out as a note under section 2104 of Title 16, Conservation.
 
 This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under section 3101 of this title.
 

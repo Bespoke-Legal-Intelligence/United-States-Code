@@ -62,7 +62,7 @@
 
 #### (C) Duration
 
-&emsp;&emsp;An approval by the Secretary of a qualified application under subparagraph (A), or a deemed approval of a demonstration program under subparagraph (B), shall continue in effect as long as the approved applicant or the deemed approved demonstration program meets the requirements of this section.
+&emsp;&emsp;An approval by the Secretary of a qualified application under subparagraph (A), or adeemed approval of a demonstration program under subparagraph (B), shall continue in effect as long as the approved applicant or the deemed approved demonstration program meets the requirements of this section.
 
 #### (d) Examination and implementation of changes
 
@@ -76,7 +76,7 @@
 
 #### (2) Accounting information
 
-&emsp;The accounting information that a participant in the program established under thissection shall be required to report shall be the same as the information required to be reported by participants in the demonstration program authorized under this section as in effect on the day before November 1, 2000. The Secretary may from time to time, after consultation with the program participants, change the accounting information submission requirements.
+&emsp;The accounting information that a participant in the program established under this section shall be required to report shall be the same as the information required to be reported by participants in the demonstration program authorized under this section as in effect on the day before November 1, 2000. The Secretary may from time to time, after consultation with the program participants, change the accounting information submission requirements.
 
 #### (e) Withdrawal from program
 
@@ -182,7 +182,7 @@ Pub. L. 106–417, §2, Nov. 1, 2000, 114 Stat. 1812, provided that: “Congress
 
 &emsp;“(3) The success of the demonstration program confirms that the direct involvement of tribes and tribal organizations in the direct billing of, and collection of payments from, the medicare and medicaid programs, and other third party payor reimbursements, is more beneficial to Indian tribes than the current system of Indian Health Service-managed collections.
 
-&emsp;“(4) Allowing tribes and tribal organizations to directly manage their medicare and medicaid billings and collections, rather than channeling all activities through the Indian Health Service, will enable the Indian Health Service to reduce its administrative costs, is consistent with the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], and furthers the commitment of the Secretary to enable tribes and tribal organizations to manage and operate their health care programs.
+&emsp;“(4) Allowing tribes and tribal organizations to directly manage their medicare and medicaid billingsand collections, rather than channeling all activities through the Indian Health Service, will enable the Indian Health Service to reduce its administrative costs, is consistent with the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], and furthers the commitment of the Secretary to enable tribes and tribal organizations to manage and operate their health care programs.
 
 &emsp;“(5) The demonstration program was originally to expire on September 30, 1996, but was extended by Congress, so that the current participants would not experience an interruption in the program while Congress awaited a recommendation from the Secretary of Health and Human Services on whether to make the program permanent.
 

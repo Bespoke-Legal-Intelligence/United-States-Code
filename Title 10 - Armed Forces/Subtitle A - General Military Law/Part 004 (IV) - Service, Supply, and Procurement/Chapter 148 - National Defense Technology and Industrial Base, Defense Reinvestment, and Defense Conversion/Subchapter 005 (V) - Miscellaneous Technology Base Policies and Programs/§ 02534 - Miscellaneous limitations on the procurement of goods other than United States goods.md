@@ -98,7 +98,7 @@ Waiver Authority.—The Secretary of Defense may waive the limitation in subsect
 
 &emsp;(1) Application of the limitation would cause unreasonable costs or delays to be incurred.
 
-&emsp;(2) United States producers of the item would not be jeopardized by competition from a foreign country, and that country does notdiscriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
+&emsp;(2) United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
 
 &emsp;(3) Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 2531 of this title, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
 
@@ -176,7 +176,7 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 &emsp;(D) no bearing to be procured under the contract or subcontract has a basic outside diameter (exclusive of flange diameters) in excess of 30 millimeters.
 
-(2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and rollerbearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
+(2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
 
 (Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548.)
 
@@ -266,7 +266,7 @@ Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), red
 
 Subsec. (e)(1). Pub. L. 102–190, §835(1), substituted “Until January 1, 1993, the Secretary” for “The Secretary”.
 
-Subsec. (e)(3). Pub. L. 102–190, §835(2), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “After September 30, 1994, the Secretary may terminate the restriction required underparagraph (1) if the Secretary determines that continuing the restriction is not in the national interest.”
+Subsec. (e)(3). Pub. L. 102–190, §835(2), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “After September 30, 1994, the Secretary may terminate the restriction required under paragraph (1) if the Secretary determines that continuing the restriction is not in the national interest.”
 
 Subsec. (e)(3)(A). Pub. L. 102–190, §835(3), struck out before period “by an entity more than 50 percent of which is owned or controlled by citizens of the United States or Canada”.
 

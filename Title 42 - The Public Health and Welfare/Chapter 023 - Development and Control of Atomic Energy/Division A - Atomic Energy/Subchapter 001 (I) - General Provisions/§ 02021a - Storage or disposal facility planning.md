@@ -62,7 +62,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 &emsp;&emsp;“(D) prepare required environmental impact analyses of the project.
 
-&emsp;“(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977\[see section 6301 et seq. of Title 31, Money and Finance\] under which the State will carry out the following:
+&emsp;“(4) The Secretary shall enter into a cooperative agreement with the State in accordance with the Federal Grant and Cooperative Agreement Act of 1977 \[see section 6301 et seq. of Title 31, Money and Finance\] under which the State will carry out the following:
 
 &emsp;&emsp;“(A) The State will make available to the Secretary the facilities of the Center and the high level radioactive waste at the Center which are necessary for the completion of the project. The facilities and the waste shall be made available without the transfer of title and for such period as may be required for completion of the project.
 

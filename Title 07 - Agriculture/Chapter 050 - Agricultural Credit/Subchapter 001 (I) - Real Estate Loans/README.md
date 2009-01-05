@@ -5,9 +5,9 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01922 - Persons eligible for loans](%C2%A7%2001922%20-%20Persons%20eligible%20for%20loans.md)
+- [&sect; 01922 - Persons eligible for real estate loans](%C2%A7%2001922%20-%20Persons%20eligible%20for%20real%20estate%20loans.md)
 - [&sect; 01923 - Purposes of loans](%C2%A7%2001923%20-%20Purposes%20of%20loans.md)
-- [&sect; 01924 - Soil and water conservation and protection](%C2%A7%2001924%20-%20Soil%20and%20water%20conservation%20and%20protection.md)
+- [&sect; 01924 - Conservation loan and loan guarantee program](%C2%A7%2001924%20-%20Conservation%20loan%20and%20loan%20guarantee%20program.md)
 - [&sect; 01925 - Limitations on amount of farm ownership loans](%C2%A7%2001925%20-%20Limitations%20on%20amount%20of%20farm%20ownership%20loans.md)
 - [&sect; 01926 - Water and waste facility loans and grants](%C2%A7%2001926%20-%20Water%20and%20waste%20facility%20loans%20and%20grants.md)
 - [&sect; 01926&#8211;1 - Repealed. Pub. L. 104&#8211;127, title VII, &sect;702, Apr. 4, 1996, 110 Stat. 1108](%C2%A7%2001926%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7702%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201108.md)
@@ -26,9 +26,9 @@
 - [&sect; 01929b - Purchase of guaranteed portions of loans; terms and conditions; exercise of authorities](%C2%A7%2001929b%20-%20Purchase%20of%20guaranteed%20portions%20of%20loans%3B%20terms%20and%20conditions%3B%20exercise%20of%20authorities.md)
 - [&sect; 01930 - Continued availability of appropriated funds for direct real estate loans to farmers and ranchers](%C2%A7%2001930%20-%20Continued%20availability%20of%20appropriated%20funds%20for%20direct%20real%20estate%20loans%20to%20farmers%20and%20ranchers.md)
 - [&sect; 01931 - Repealed. Pub. L. 104&#8211;127, title VII, &sect;746, Apr. 4, 1996, 110 Stat. 1125](%C2%A7%2001931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7746%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201125.md)
-- [&sect; 01932 - Rural industrialization assistance](%C2%A7%2001932%20-%20Rural%20industrialization%20assistance.md)
+- [&sect; 01932 - Assistance for rural entities](%C2%A7%2001932%20-%20Assistance%20for%20rural%20entities.md)
 - [&sect; 01933 - Guaranteed rural housing loans; Hawaiian home lands](%C2%A7%2001933%20-%20Guaranteed%20rural%20housing%20loans%3B%20Hawaiian%20home%20lands.md)
 - [&sect; 01934 - Low-income farm ownership loan program; eligibility; repayment requirements](%C2%A7%2001934%20-%20Low-income%20farm%20ownership%20loan%20program%3B%20eligibility%3B%20repayment%20requirements.md)
 - [&sect; 01935 - Down payment loan program](%C2%A7%2001935%20-%20Down%20payment%20loan%20program.md)
-- [&sect; 01936 - Beginning farmer and rancher contract land sales program](%C2%A7%2001936%20-%20Beginning%20farmer%20and%20rancher%20contract%20land%20sales%20program.md)
+- [&sect; 01936 - Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program](%C2%A7%2001936%20-%20Beginning%20farmer%20or%20rancher%20and%20socially%20disadvantaged%20farmer%20or%20rancher%20contract%20land%20sales%20program.md)
 - [&sect; 01936a - Use of rural development loans and grants for other purposes](%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md)

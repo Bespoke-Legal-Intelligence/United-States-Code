@@ -2,7 +2,13 @@
 
 #### (a) Census of agriculture required
 
-In 1998 and every fifth year thereafter, the Secretary of Agriculture shall take a census of agriculture.
+#### (1) In general
+
+&emsp;In 1998 and every fifth year thereafter, the Secretary of Agriculture shall take a census of agriculture.
+
+#### (2) Inclusion of specialty crops
+
+&emsp;Effective beginning with the census of agriculture required to be conducted in 2008, the Secretary shall conduct as part of each census of agriculture a census of specialty crops (as that term is defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465)).
 
 #### (b) Methods
 
@@ -48,7 +54,7 @@ A census under this section shall include—
 
 #### (2) Information provided to Secretary of Commerce
 
-&emsp;On a written request by the Secretary of Commerce, the Secretary of Agriculture mayprovide to the Secretary of Commerce any information collected in a census taken under this section that the Secretary of Commerce considers necessary for the taking of a census or survey under title 13.
+&emsp;On a written request by the Secretary of Commerce, the Secretary of Agriculture may provide to the Secretary of Commerce any information collected in a census taken under this section that the Secretary of Commerce considers necessary for the taking of a census or survey under title 13.
 
 #### (3) Confidentiality
 
@@ -62,5 +68,17 @@ A regulation necessary to carry out this section may be promulgated by—
 
 &emsp;(2) the Secretary of Commerce, to the extent that a matter under the jurisdiction of the Secretary of Commerce is involved.
 
-(Pub. L. 105–113, §2, Nov. 21, 1997, 111 Stat. 2274.)
+(Pub. L. 105–113, §2, Nov. 21, 1997, 111 Stat. 2274; Pub. L. 110–234, title X, §10103, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10103, June 18, 2008, 122 Stat. 1664, 2097.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

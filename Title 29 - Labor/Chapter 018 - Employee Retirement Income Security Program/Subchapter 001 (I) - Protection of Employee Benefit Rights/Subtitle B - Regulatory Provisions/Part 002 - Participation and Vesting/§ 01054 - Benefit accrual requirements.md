@@ -12,13 +12,13 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (1)(A) A defined benefit plan satisfies the requirements of this paragraph if the accrued benefit to which each participant is entitled upon his separation from the service is not less than—
 
-&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled at the normal retirement age if he commenced participation at the earliest possible entry age underthe plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
+&emsp;(i) 3 percent of the normal retirement benefit to which he would be entitled at the normal retirement age if he commenced participation at the earliest possible entry age under the plan and served continuously until the earlier of age 65 or the normal retirement age specified under the plan, multiplied by
 
 &emsp;(ii) the number of years (not in excess of 331/3) of his participation in the plan.
 
 > In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
-(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
+(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could bea participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
 &emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
@@ -54,7 +54,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (H)(i) Notwithstanding the preceding subparagraphs, a defined benefit plan shall be treated as not satisfying the requirements of this paragraph if, under the plan, an employee's benefit accrual is ceased, or the rate of an employee's benefit accrual is reduced, because of the attainment of any age.
 
-(ii) A plan shall not be treated as failing to meet the requirements of this subparagraph solely because the plan imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on thenumber of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
+(ii) A plan shall not be treated as failing to meet the requirements of this subparagraph solely because the plan imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on the number of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
 
 (iii) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
@@ -110,7 +110,7 @@ Similarly situated.—For purposes of this subparagraph, a participant is simila
 
 &emsp;&emsp;(iii)
 
-Disregard of subsidized early retirement benefits.—In determining the accrued benefit as of any date for purposes of this clause, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
+Disregard of subsidized early retirement benefits.—In determining the accrued benefit as of any date for purposes of this subparagraph, the subsidized portion of any early retirement benefit or retirement-type subsidy shall be disregarded.
 
 &emsp;&emsp;(iv)
 
@@ -130,7 +130,7 @@ In general.—An applicable defined benefit plan shall be treated as failing to 
 
 &emsp;&emsp;&emsp;(II)
 
-Preservation of capital.—An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
+Preservation of capital.—An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1)(H) unless the plan provides that an interest credit (or equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -182,7 +182,7 @@ Termination requirements.—An applicable defined benefit plan shall not be trea
 
 &emsp;(C)
 
-Certain offsets permitted.—A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are allowable in applying the requirements of section 401(a) of title 26.
+Certain offsets permitted.—A plan shall not be treated as failing to meet the requirements of paragraph (1)(H)(i) solely because the plan provides offsets against benefits under the plan to the extent such offsets are otherwise allowable in applying the requirements of section 401(a) of title 26.
 
 &emsp;(D)
 
@@ -244,7 +244,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 (3) For purposes of this section, in the case of any defined benefit plan, if an employee's accrued benefit is to be determined as an amount other than an annual benefit commencing at normal retirement age, or if the accrued benefit derived from contributions made by an employee is to be determined with respect to a benefit other than an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the employee's accrued benefit, or the accrued benefits derived from contributions made by an employee, as the case may be, shall be the actuarial equivalent of such benefit or amount determined under paragraph (1) or (2).
 
-(4) In the case of a defined benefit plan which permits voluntary employee contributions, theportion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
+(4) In the case of a defined benefit plan which permits voluntary employee contributions, the portion of an employee's accrued benefit derived from such contributions shall be treated as an accrued benefit derived from employee contributions under a plan other than a defined benefit plan.
 
 #### (d) Employee service which may be disregarded in determining employee's accrued benefits under plan
 
@@ -448,7 +448,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities ifany employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
+&emsp;&emsp;&emsp;Except as provided in regulations or in clause (ii), a plan holding employer securities which are not publicly traded employer securities shall be treated as holding publicly traded employer securities if any employer corporation, or any member of a controlled group of corporations which includes such employer corporation, has issued a class of stock which is a publicly traded employer security.
 
 #### (ii) Exception for certain controlled groups with publicly traded securities
 
@@ -542,13 +542,19 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(5)(A)(iii). Pub. L. 110–458, §107(a)(2)(A), substituted “subparagraph” for “clause”.
+
+Subsec. (b)(5)(B)(i)(II). Pub. L. 110–458, §107(a)(3), amended subcl. (II) generally. Prior to amendment, text read as follows: “An interest credit (or an equivalent amount) of less than zero shall in no event result in the account balance or similar amount being less than the aggregate amount of contributions credited to the account.”
+
+Subsec. (b)(5)(C). Pub. L. 110–458, §107(a)(2)(B), inserted “otherwise” before “allowable”.
 
 2006—Subsec. (b)(5). Pub. L. 109–280, §701(a)(1), added par. (5).
 
@@ -658,6 +664,10 @@ Subsec. (e). Pub. L. 98–397, §102(f), substituted “5 consecutive 1-year bre
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 107(a)(5) to (8) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 107(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
@@ -714,7 +724,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 &emsp;“(B) such plan amendment applies retroactively to the period after such amendments take effect and such first plan year.
 
-> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan,merely because it operates in accordance with this subsection.”
+> A plan shall not be treated as failing to provide definitely determinable benefits or contributions, or to be operated in accordance with the provisions of the plan, merely because it operates in accordance with this subsection.”
 
 #### Effective Date of 1986 Amendments
 

@@ -26,7 +26,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(5) he has received the opinion of the Attorney General, pursuant to section 9114 of this title, stating that issuance of the license would create a situation in violation of the antitrust laws, or the 90-day period provided in section 9114 of this title has not expired;
 
-&emsp;(6) he has consulted with the Secretary of Energy, the Secretary of Transportation, the Secretary of State, the Secretary of the Interior, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within theirrespective jurisdictions and determines on the basis thereof, that the application for a license is inadequate;
+&emsp;(6) he has consulted with the Secretary of Energy, the Secretary of Transportation, the Secretary of State, the Secretary of the Interior, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions and determines on the basis thereof, that the application for a license is inadequate;
 
 &emsp;(7) the proposed ocean thermal energy conversion facility or plantship will be documented under the laws of a foreign nation;
 
@@ -40,7 +40,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(12) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation, unless the Secretary of State approves such impingement after consultation with such nation;
 
-&emsp;(13) when the license is for an ocean thermal energy conversion plantship, he determines that the applicant has not provided adequate assurance that the plantship will be operated in such a way as to prevent its thermal plume from impinging on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility or plantship without the consent of its owner, and from impinging on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State approves such impingement after consultation with such nation; or
+&emsp;(13) when the license is for an ocean thermal energy conversion plantship, he determines that the applicant has not provided adequateassurance that the plantship will be operated in such a way as to prevent its thermal plume from impinging on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility or plantship without the consent of its owner, and from impinging on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State approves such impingement after consultation with such nation; or
 
 &emsp;(14) if a regulation has been adopted which places an upper limit on the number or total capacity of ocean thermal energy conversion facilities or plantships to be licensed under this chapter for simultaneous operation, either overall or within specific geographic areas, pursuant to a determination under the provisions of section 9117(b)(4) of this title, issuance of the license will cause such upper limit to be exceeded.
 
@@ -68,7 +68,7 @@ Licenses issued under this chapter shall be for a term of not to exceed 25 years
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as addedby Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, and amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(10), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, and amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Amendments
 

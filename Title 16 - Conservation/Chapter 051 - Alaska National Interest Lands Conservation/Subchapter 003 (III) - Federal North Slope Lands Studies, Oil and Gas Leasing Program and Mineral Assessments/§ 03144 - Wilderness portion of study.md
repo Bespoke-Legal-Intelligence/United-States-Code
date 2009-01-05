@@ -6,7 +6,7 @@ As part of the study, the Secretary shall review the suitability of nonsuitabili
 
 #### (b) Presidential recommendations to Congress
 
-The President shall advise the Senate and the House of Representatives of his recommendations with respect to the designation of the area or any part thereof as wilderness together with a map thereof and a definition of its boundaries.
+The President shall advise the Senate and the House of Representatives of his recommendations with respect to the designation of the areaor any part thereof as wilderness together with a map thereof and a definition of its boundaries.
 
 #### (c) Preservation of wilderness character and potential
 

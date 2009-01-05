@@ -68,7 +68,7 @@ In providing employment to individuals pursuant to contracts under subsection (a
 
 #### (5) Contract regarding direct payments to institution
 
-&emsp;In the case of an institution of higher education with respect to which a scholarship under subsection (a) of this section is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
+&emsp;In the case of an institution of higher education with respect to which a scholarshipunder subsection (a) of this section is provided, the Director of NIH may enter into a contract with the institution under which the amounts provided in the scholarship for tuition and other educational expenses are paid directly to the institution.
 
 #### (e) Penalties for breach of scholarship contract
 

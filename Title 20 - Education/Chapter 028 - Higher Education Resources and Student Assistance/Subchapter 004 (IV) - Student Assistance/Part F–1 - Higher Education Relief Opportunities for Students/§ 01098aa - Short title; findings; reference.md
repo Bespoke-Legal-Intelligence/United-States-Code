@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(3) The United States military is the finest in the world and its personnel are determined to lead the world in pursuit of peace.
 
-&emsp;(4) Hundreds of thousands of Army, Air Force, Marine Corps, Navy, and Coast Guard reservists and members of the National Guard have been called to active duty or active service.
+&emsp;(4) Hundreds of thousands of Army, Air Force, Marine Corps, Navy, and Coast Guard reservists and members of the National Guardhave been called to active duty or active service.
 
 &emsp;(5) The men and women of the United States military put their lives on hold, leave their families, jobs, and postsecondary education in order to serve their country and do so with distinction.
 

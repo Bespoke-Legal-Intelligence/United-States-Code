@@ -76,11 +76,11 @@ Before the sale to any eligible purchaser, or any reduction or cancellation purs
 
 For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.
 
-(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; Pub. L. 107–189, §24(b)(5), June 14, 2002, 116 Stat. 709.)
+(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; amended Pub. L. 107–189, §24(b)(5), June 14, 2002, 116 Stat. 709; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(L), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74,as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
 
@@ -90,5 +90,13 @@ A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i
 
 #### Amendments
 
+2008—Subsec. (a)(2). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738 of title 7.
+
+Subsec. (c)(1)(B). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to sections 1738f through 1738k of title 7.
+
 2002—Subsec. (a)(1). Pub. L. 107–189 substituted “subsection (b) of this section” for “section (b) of this section”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

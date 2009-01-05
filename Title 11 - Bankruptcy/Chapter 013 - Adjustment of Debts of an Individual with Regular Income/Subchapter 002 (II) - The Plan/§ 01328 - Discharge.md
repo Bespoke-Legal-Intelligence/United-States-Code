@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–647 effective Nov. 29, 1990, but not applicable with 
 
 Amendment by Pub. L. 101–581 effective Nov. 15, 1990, but not applicable with respect to cases commenced under this title before Nov. 15, 1990, see section 4 of Pub. L. 101–581, set out as a note under section 523 of this title.
 
-Section 3007(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 3007(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall not apply to any case under the provisions of title 11, United States Code, commenced before the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1984 Amendment
 

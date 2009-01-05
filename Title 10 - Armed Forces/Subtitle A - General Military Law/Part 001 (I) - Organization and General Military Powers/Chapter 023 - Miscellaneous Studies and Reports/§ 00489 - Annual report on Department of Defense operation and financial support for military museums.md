@@ -28,7 +28,7 @@ Information on Individual Museums.—For each museum identified in a report unde
 
 (c)
 
-Information on Support Priorities.—Each report under this section shall also includea separate description of the procedures used by the Secretary of Defense, in the case of museums identified in the report that are operated or supported by the Secretary of Defense, and the Secretary of a military department, in the case of museums identified in the report that are operated or supported by that Secretary, to prioritize funding and personnel support to the museums. The Secretary of Defense shall include a description of any such procedures applicable to the entire Department of Defense.
+Information on Support Priorities.—Each report under this section shall also include a separate description of the procedures used by the Secretary of Defense, in the case of museums identified in the report that are operated or supported by the Secretary of Defense, and the Secretary of a military department, in the case of museums identified in the report that are operated or supported by that Secretary, to prioritize funding and personnel support to the museums. The Secretary of Defense shall include a description of any such procedures applicable to the entire Department of Defense.
 
 (Added Pub. L. 108–375, div. A, title X, §1033(a), Oct. 28, 2004, 118 Stat. 2047.)
 

@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a substantial portion of the use of the tangible property of such entity (whether owned or leased) is within any low-income community,
 
-&emsp;&emsp;&emsp;(iii) a substantial portion of the services performed for such entity by its employeesare performed in any low-income community,
+&emsp;&emsp;&emsp;(iii) a substantial portion of the services performed for such entity by its employees are performed in any low-income community,
 
 &emsp;&emsp;&emsp;(iv) less than 5 percent of the average of the aggregate unadjusted bases of the property of such entity is attributable to collectibles (as defined in section 408(m)(2)) other than collectibles that are held primarily for sale to customers in the ordinary course of such business, and
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) $2,000,000,000 for 2004 and 2005, and
 
-&emsp;&emsp;(D) $3,500,000,000 for 2006, 2007, and 2008.
+&emsp;&emsp;(D) $3,500,000,000 for 2006, 2007, 2008, and 2009.
 
 #### (2) Allocation of limitation
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 #### (3) Carryover of unused limitation
 
-&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregateamount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2014.
+&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2014.
 
 #### (g) Recapture of credit in certain cases
 
@@ -256,9 +256,11 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866.)
 
 #### Amendments
+
+2008—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”.
 
 2006—Subsec. (f)(1)(D). Pub. L. 109–432, §102(a), substituted “, 2007, and 2008” for “and 2007”.
 
@@ -294,7 +296,7 @@ Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[titl
 
 #### Guidance on Allocation of National Limitation
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
+Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than 120 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
 
 &emsp;“(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
 

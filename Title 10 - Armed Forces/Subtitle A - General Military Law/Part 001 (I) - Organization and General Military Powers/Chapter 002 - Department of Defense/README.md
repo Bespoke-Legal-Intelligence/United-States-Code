@@ -15,11 +15,14 @@
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md) | Readiness reporting system: establishment; reporting to congressional committees. |
 | [118\.](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md) | Quadrennial defense review. |
 | [118a.](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md) | Quadrennial quality of life review. |
+| [118b.](%C2%A7%2000118b%20-%20Quadrennial%20roles%20and%20missions%20review.md) | Quadrennial roles and missions review. |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title X, §1061(a)(1), Oct. 14, 2008, 122 Stat. 4612, added item 118b.
 
 2002—Pub. L. 107–314, div. A, title V, §581(a)(2), title X, §1061(b), Dec. 2, 2002, 116 Stat. 2561, 2649, added items 113a and 118a.
 
@@ -59,4 +62,5 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 - [&sect; 00117 - Readiness reporting system establishment; reporting to congressional committees](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md)
 - [&sect; 00118 - Quadrennial defense review](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md)
 - [&sect; 00118a - Quadrennial quality of life review](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md)
+- [&sect; 00118b - Quadrennial roles and missions review](%C2%A7%2000118b%20-%20Quadrennial%20roles%20and%20missions%20review.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)

@@ -32,7 +32,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has failed to comply with section 607(a) of this title for the fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to the applicable percentage of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State to which a grant is made under section 603 of this title for a fiscal year has failed to comply with section 607(a) of this title for thefiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to the applicable percentage of the State family assistance grant.
 
 #### (B) “Applicable percentage” defined
 
@@ -84,7 +84,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described initems (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) Any other use of funds allowable under section 604(a)(1) of this title.
 
@@ -150,7 +150,7 @@ Subject to this section:
 
 &emsp;&emsp;If the Secretary finds, with respect to a State's program under part D of this subchapter, in a fiscal year beginning on or after October 1, 1997—
 
-&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
+&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) ofthis title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
@@ -268,7 +268,7 @@ Subject to this section:
 
 #### (3) Effect of failing to correct or discontinue violation
 
-&emsp;The Secretary shall assess some or all of a penalty imposed on a State under subsection (a) of this section with respect to a violation if the State does not, in a timely manner, correct or discontinue, as appropriate, the violation pursuant to a State corrective compliance plan accepted by the Secretary.
+&emsp;The Secretary shall assess some or all of a penalty imposed on a State under subsection\(a) of this section with respect to a violation if the State does not, in a timely manner, correct or discontinue, as appropriate, the violation pursuant to a State corrective compliance plan accepted by the Secretary.
 
 #### (4) Inapplicability to certain penalties
 
@@ -400,7 +400,7 @@ Pub. L. 105–33, §5001(g)(1)(C), substituted “(12), or (13)” for “or (12
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
+Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 
 #### Effective Date of 2003 Amendment
 

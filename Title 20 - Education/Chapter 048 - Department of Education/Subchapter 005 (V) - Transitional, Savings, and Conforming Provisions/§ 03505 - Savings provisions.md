@@ -8,7 +8,7 @@ All orders, determinations, rules, regulations, permits, grants, contracts, cert
 
 &emsp;(2) which are in effect on May 4, 1980,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, setaside, or revoked in accordance with the law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with the law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law.
 
 #### (b) Proceedings and applications; transfer
 

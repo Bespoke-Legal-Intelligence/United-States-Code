@@ -24,7 +24,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 #### (b) Administration of oath; taking of evidence
 
-Any officer or employee of the Service designated by the Attorney General, whether individually or as one of a class, shall have power and authority to administer oaths and to take and consider evidence concerning the privilege of any person to enter, reenter, pass through, or reside in the United States, or concerning any matter which is material or relevant to the enforcement of this chapter and the administration of the Service; and any person to whom such oath has been administered, (or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28) under the provisions of this chapter, who shall knowingly or willfully give false evidence or swear (or subscribe under penalty of perjury as permitted under section 1746 of title 28) to any false statement concerning any matter referred to in this subsection shall be guilty of perjury and shall be punished as provided by section 1621 of title 18.
+Any officer or employee of the Service designated by the Attorney General, whether individually or as one of a class, shall have power and authority to administer oaths and to take and consider evidence concerning the privilegeof any person to enter, reenter, pass through, or reside in the United States, or concerning any matter which is material or relevant to the enforcement of this chapter and the administration of the Service; and any person to whom such oath has been administered, (or who has executed an unsworn declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28) under the provisions of this chapter, who shall knowingly or willfully give false evidence or swear (or subscribe under penalty of perjury as permitted under section 1746 of title 28) to any false statement concerning any matter referred to in this subsection shall be guilty of perjury and shall be punished as provided by section 1621 of title 18.
 
 #### (c) Search without warrant
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 (7) Except as provided in paragraph (8), an officer or employee of a State or political subdivision of a State performing functions under this subsection shall not be treated as a Federal employee for any purpose other than for purposes of chapter 81 of title 5 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 
-(8) An officer or employee of a State or political subdivision of a State acting under color of authority under this subsection, or any agreement entered into under this subsection, shall be considered to be acting under color of Federal authority for purposes of determining the liability, and immunity from suit, of the officer or employee in a civil action brought under Federal or State law.
+(8) An officer or employee of a State or political subdivision of a State acting under color of authority under this subsection, or any agreement entered into under this subsection, shall be considered to be acting under color of Federalauthority for purposes of determining the liability, and immunity from suit, of the officer or employee in a civil action brought under Federal or State law.
 
 (9) Nothing in this subsection shall be construed to require any State or political subdivision of a State to enter into an agreement with the Attorney General under this subsection.
 
@@ -102,7 +102,7 @@ Pub. L. 104–208, §133, added subsec. (g).
 
 1991—Subsec. (a)(4). Pub. L. 102–232 substituted a semicolon for comma at end.
 
-1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other processissued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
+1990—Subsec. (a). Pub. L. 101–649, §503(a), struck out “and” at end of par. (3), substituted “United States, and” for “United States. Any such employee shall also have the power to execute any warrant or other process issued by any officer under any law regulating the admission, exclusion, or expulsion of aliens.” at end of par. (4), and added par. (5) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–649, §503(b)(1), added subsec. (f).
 

@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) the spouse of any person who died of a service-connected disability,
 
-&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, atthe time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
+&emsp;&emsp;(B) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for assistance under this chapter, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
 
 &emsp;&emsp;(C) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability or the spouse of a veteran who died while a disability so evaluated was in existence.
 
@@ -36,7 +36,7 @@ Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (
 
 #### Prior Provisions
 
-Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
+Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, titleXV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Section 601(b) of Pub. L. 92–540 provided that: “The provisions of title V o
 
 #### Savings Provision
 
-Section 1(e) of Pub. L. 87–675 provided that: “Claims for benefits under \[former\] sections 2001 through 2009 ofchapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
+Section 1(e) of Pub. L. 87–675 provided that: “Claims for benefits under \[former\] sections 2001 through 2009 of chapter 41 of title 38, United States Code, for any benefit week beginning before January 31, 1960, which claims are pending on the date these sections are repealed \[Sept. 19, 1962\], shall be adjudicated in the same manner and with the same effect as if the sections had not been repealed. For the purpose of administering the program with respect to such claims, all functions, powers, and duties conferred upon the Secretary of Labor by sections 2001 through 2009 are continued in effect, and all rules and regulations established by the Secretary of Labor pursuant to these sections, and in effect when the sections are repealed, shall remain in full force and effect until modified or suspended.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

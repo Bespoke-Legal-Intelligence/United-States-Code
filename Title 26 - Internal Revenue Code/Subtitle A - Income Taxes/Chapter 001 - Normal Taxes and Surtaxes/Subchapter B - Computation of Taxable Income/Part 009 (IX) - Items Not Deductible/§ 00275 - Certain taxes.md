@@ -78,7 +78,7 @@ Subsec. (a)(6). Pub. L. 94–455, §§1307(d)(2)(A), 1605(b)(1), inserted refere
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 101(b)(5) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by section 101(b)(5) of Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 Amendment by section 802(b)(1) of Pub. L. 108–357 effective Mar. 4, 2003, see section 802(d) of Pub. L. 108–357, set out as an Effective Date note under section 4985 of this title.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to consideration received after Dec. 22, 1987, in taxable years ending after such date, except not applicable in the case ofany acquisition pursuant to a written binding contract in effect on Dec. 15, 1987, and at all times thereafter before the acquisition, see section 10228(d) of Pub. L. 100–203, set out as an Effective Date note under section 5881 of this title.
+Amendment by Pub. L. 100–203 applicable to consideration received after Dec. 22, 1987, in taxable years ending after such date, except not applicable in the case of any acquisition pursuant to a written binding contract in effect on Dec. 15, 1987, and at all times thereafter before the acquisition, see section 10228(d) of Pub. L. 100–203, set out as an Effective Date note under section 5881 of this title.
 
 #### Effective Date of 1986 Amendment
 

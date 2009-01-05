@@ -121,10 +121,13 @@
 | [413\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413%20-%20General%20Congressional%20oversight%20provisions.md) | General Congressional oversight provisions. |
 | [413a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413a%20-%20Reporting%20of%20intelligence%20activities%20other%20than%20covert%20actions.md) | Reporting of intelligence activities other than covert actions. |
 | [413b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md) | Presidential approval and reporting of covert actions. |
+| [413c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413c%20-%20Communications%20with%20the%20Committees%20on%20Armed%20Services%20of%20the%20Senate%20and%20the%20House%20of%20Representatives.md) | Communications with the Committees on Armed Services of the Senate and the House of Representatives. |
 | [414\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000414%20-%20Funding%20of%20intelligence%20activities.md) | Funding of intelligence activities. |
 | [415\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415%20-%20Notice%20to%20Congress%20of%20certain%20transfers%20of%20defense%20articles%20and%20defense%20services.md) | Notice to Congress of certain transfers of defense articles and defense services. |
 | [415a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415a%20-%20Specificity%20of%20National%20Intelligence%20Program%20budget%20amounts%20for%20counterterrorism%2C%20counterproliferation%2C%20counternarcotics%2C%20and%E2%80%A6.md) | Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence. |
 | 415a–1. | Budget treatment of costs of acquisition of major systems by the intelligence community. |
+| 415a–2. | Exhibits for inclusion with budget justification books. |
+| 415a–3. | Future-years intelligence program: submission to Congress. |
 | [415b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
 | [415c.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415c%20-%20Availability%20to%20public%20of%20certain%20intelligence%20funding%20information.md) | Availability to public of certain intelligence funding information. |
 
@@ -162,6 +165,7 @@
 | [435\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435%20-%20Procedures.md) | Procedures. |
 | [435a.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435a%20-%20Limitation%20on%20handling%2C%20retention%2C%20and%20storage%20of%20certain%20classified%20materials%20by%20the%20Department%20of%20State.md) | Limitation on handling, retention, and storage of certain classified materials by the Department of State. |
 | [435b.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435b%20-%20Security%20clearances.md) | Security clearances. |
+| [435c.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000435c%20-%20Security%20clearances%3B%20limitations.md) | Security clearances; limitations. |
 | [436\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000436%20-%20Requests%20by%20authorized%20investigative%20agencies.md) | Requests by authorized investigative agencies. |
 | [437\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000437%20-%20Exceptions.md) | Exceptions. |
 | [438\.](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/%C2%A7%2000438%20-%20Definitions.md) | Definitions. |

@@ -10,13 +10,9 @@ Architectural, Engineering, and Design Contracts.—
 
 &emsp;(1)
 
-Procedures for awarding contract.—A contract or requirement for program management, architectural engineering, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which Federal assistance is provided under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement of a State.
+Procedures for awarding contract.—A contract or requirement for program management, architectural engineering, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which Federal assistance is provided under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement of a State adopted before August 10, 2005.
 
 &emsp;(2)
-
-Effect of state laws.—Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.
-
-&emsp;(3)
 
 Additional requirements.—When awarding a contract described in paragraph (1), recipients of assistance under this chapter shall comply with the following requirements:
 
@@ -34,7 +30,7 @@ Application of rates.—After a firm's indirect cost rates are accepted under su
 
 &emsp;&emsp;(D)
 
-Prenotification; confidentiality of data.—A recipient requesting or using thecost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient requesting or using the cost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
 (c)
 
@@ -98,7 +94,7 @@ Awards to Responsible Contractors.—
 
 &emsp;(1)
 
-In general.—Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under the terms and conditions of a proposed procurement.
+In general.—Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under theterms and conditions of a proposed procurement.
 
 &emsp;(2)
 
@@ -112,7 +108,7 @@ Criteria.—Before making an award to a contractor under paragraph (1), a recipi
 
 &emsp;&emsp;(D) the contractor's financial and technical resources.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 
@@ -160,11 +156,13 @@ This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2005, referred to in subsec. (b)(2), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
 The Federal Public Transportation Act of 2005, referred to in subsec. (h), is title III of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1544. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–244, §201(k)(1), inserted “adopted before August 10, 2005” before period at end.
+
+Subsec. (b)(2), (3). Pub. L. 110–244, §201(k)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Text read as follows: “Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.”
 
 2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to noncompetitive bidding in subsec. (a), procedures for award of architectural, engineering, and design contracts in subsec. (b), and efficient procurement in subsec. (c).
 

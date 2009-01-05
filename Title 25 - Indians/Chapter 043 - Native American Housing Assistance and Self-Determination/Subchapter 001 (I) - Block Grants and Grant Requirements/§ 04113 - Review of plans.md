@@ -24,19 +24,41 @@ After submission of the Indian housing plan or any amendment or modification to 
 
 &emsp;(3) are not prohibited by or inconsistent with any provision of this chapter or other applicable law.
 
-> If the Secretary determines that any of the appropriate certifications required under section 4112(c)(5) of this title are not included in the plan, the plan shall be deemed to be incomplete.
+> If the Secretary determines that any of the appropriate certifications required under section 4112(c)(5) <sup>1</sup> of this title are not included in the plan, the plan shall be deemed to be incomplete.
 
 #### (d) Updates to plan
 
-After a plan under section 4112 of this title has been submitted for an Indian tribe for any fiscal year, the tribe may comply with the provisions of such section for any succeeding fiscal year (with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title) by submitting only such information regarding such changes as may be necessary to update the plan previously submitted. Not less than once every 5 years, the tribe shall submit a complete plan.
+After a plan under section 4112 of this title has been submitted for an Indian tribe for any tribal program year, the tribe may comply with the provisions of such section for any succeeding tribal program year by submitting only such information regarding such changes as may be necessary to update the plan previously submitted.
 
-#### (e) Effective date
+#### (e) Self-determined activities program
 
-This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.
+Notwithstanding any other provision of this section, the Secretary—
 
-(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct. 21, 1998, 112 Stat. 2657.)
+&emsp;(1) shall review the information included in an Indian housing plan pursuant to subsections (b)(4) <sup>2</sup> and (c)(7) <sup>3</sup> only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) <sup>4</sup> of this title; and
+
+&emsp;(2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) <sup>2</sup> and (c)(7).<sup>3</sup>
+
+(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, §103, Oct. 14, 2008, 122 Stat. 4323.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2) and (c)(3), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+Section 4112(c)(5) of this title, referred to in subsec. (c), was repealed by Pub. L. 110–411, title I, §102(2), Oct. 14, 2008, 122 Stat. 4321.
 
 #### Amendments
 
+2008—Subsec. (d). Pub. L. 110–411, §103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title)” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
+
+Subsec. (e). Pub. L. 110–411, §103(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
+
 1998—Subsec. (c)(3). Pub. L. 105–276 inserted “not” before “prohibited”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Subsec. (b) of this section does not contain a par. (4).</i>
+
+<i><sup>3</sup></i><i> So in original. Subsec. (c) of this section does not contain a par. (7).</i>
+
+<i><sup>4</sup></i><i> So in original. Section 4145a(b) of this title does not contain a par. (2).</i>
 

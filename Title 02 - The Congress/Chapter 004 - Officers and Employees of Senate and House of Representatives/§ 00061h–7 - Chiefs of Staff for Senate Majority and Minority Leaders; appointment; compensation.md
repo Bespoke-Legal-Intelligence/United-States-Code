@@ -12,5 +12,5 @@ Section is based on Senate Resolution No. 89, One Hundredth Congress, Jan. 28, 1
 
 #### Effective Date
 
-Section 9 of Pub. L. 101–163 provided that this section is effective on Jan. 28, 1987, the date on which SenateResolution No. 89, One Hundredth Congress, was agreed to.
+Section 9 of Pub. L. 101–163 provided that this section is effective on Jan. 28, 1987, the date on which Senate Resolution No. 89, One Hundredth Congress, was agreed to.
 

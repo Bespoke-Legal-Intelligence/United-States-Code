@@ -6,7 +6,7 @@ Among the types of activities that the Foundation shall consider as appropriate 
 
 #### (b) Report on broader impacts criterion
 
-Not later than 1 year after August 9, 2007, the Director shall transmit to Congress a report on the impact of the broader impacts grant criterion used by the Foundation. The report shall—
+Not later than 1 year after August 9, 2007, the Director shall transmit to Congress a report onthe impact of the broader impacts grant criterion used by the Foundation. The report shall—
 
 &emsp;(1) identify the criteria that each division and directorate of the Foundation uses to evaluate the broader impacts aspects of research proposals;
 

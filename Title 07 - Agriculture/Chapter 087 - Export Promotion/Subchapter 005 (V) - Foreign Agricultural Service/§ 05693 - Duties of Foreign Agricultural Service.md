@@ -8,17 +8,23 @@ The Service shall assist the Secretary in carrying out the agricultural trade po
 
 &emsp;(3) providing agricultural technical assistance and training; and
 
-&emsp;(4) carrying out the programs authorized under this chapter, the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.), and other Acts.
+&emsp;(4) carrying out the programs authorized under this chapter, the Food for Peace Act (7 U.S.C. 1691 et seq.), and other Acts.
 
-(Pub. L. 95–501, title V, §503, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3686; amended Pub. L. 104–127, title II, §250, Apr. 4, 1996, 110 Stat. 971.)
+(Pub. L. 95–501, title V, §503, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3686; amended Pub. L. 104–127, title II, §250, Apr. 4, 1996, 110 Stat. 971; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Amendments
 
+2008—Par. (4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
 1996—Pub. L. 104–127 substituted “Duties” for “Establishment” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Service shall assist the Secretary in carrying out the agricultural trade policy of the United States by acquiring information pertaining to agricultural trade, carrying out market promotion and development activities, and implementing the programs authorized in this chapter, the Agricultural Trade Development and Assistance Act of 1954, and other Acts.”
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Study on Fee for Services
 

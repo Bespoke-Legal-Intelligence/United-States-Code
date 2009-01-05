@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) using information to make a solicitation for marketing purposes to a consumer with whom the person has a pre-existing business relationship;
 
-&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
+&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract withan employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
 
 &emsp;&emsp;(C) using information to perform services on behalf of another person related by common ownership or affiliated by corporate control, except that this subparagraph shall not be construed as permitting a person to send solicitations on behalf of another person, if such other person would not be permitted to send the solicitation on its own behalf as a result of the election of the consumer to prohibit solicitations under paragraph (1)(B);
 
@@ -56,7 +56,7 @@ A notice or other disclosure under this section may be coordinated and consolida
 
 #### (c) User requirements
 
-Requirements with respect to the use by a person of information received from another personrelated to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 1681t(b)(2) of this title.
+Requirements with respect to the use by a person of information received from another person related to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of section 1681t(b)(2) of this title.
 
 #### (d) Definitions
 
@@ -156,7 +156,7 @@ Reports.—
 
 &emsp;“(A)
 
-Initial report.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], theFederal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
+Initial report.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], the Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
 
 &emsp;“(B)
 

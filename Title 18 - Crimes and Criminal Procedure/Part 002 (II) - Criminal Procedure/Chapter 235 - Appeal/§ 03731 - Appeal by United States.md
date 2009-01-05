@@ -16,7 +16,7 @@ The provisions of this section shall be liberally construed to effectuate its pu
 
 #### 1948 Act
 
-Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat.1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
+Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
 
 The word “dismissing” was substituted for “sustaining a motion to dismiss” in two places for conciseness and clarity, there being no difference in effect of a decision of dismissal whether made on motion or by the court sua sponte.
 
@@ -38,7 +38,7 @@ This section \[section 58\] corrects a typographical error in the second paragra
 
 Third par. Pub. L. 98–473, §205, inserted third par. relating to appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
 
-1971—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
+1971—First par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision,judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
 
 Second par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 

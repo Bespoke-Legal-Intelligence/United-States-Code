@@ -30,11 +30,11 @@ Based on the study required by subsection (a) of this section and data collected
 
 &emsp;&emsp;(F) measures that are taken to ensure that victims are free of unwanted contact with alleged assailants, and disciplinary sanctions that are imposed when a sexual assault is determined to have occurred; and
 
-&emsp;&emsp;(G) the grounds on which educational institutions are subject to lawsuits based on campus sexual assaults, the resolution of these cases, and measures that can be takento avoid the likelihood of lawsuits and civil liability;
+&emsp;&emsp;(G) the grounds on which educational institutions are subject to lawsuits based on campus sexual assaults, the resolution of these cases, and measures that can be taken to avoid the likelihood of lawsuits and civil liability;
 
 &emsp;(6) in conjunction with the report produced by the Department of Education in coordination with institutions of education under the Student Right-To-Know and Campus Security Act (20 U.S.C. 1001 note; Public Law 101–542) and amendments made by that Act, an assessment of the policies and practices of educational institutions that are of greatest effectiveness in addressing campus sexual assaults and protecting victims, including policies and practices relating to the particular issues described in paragraph (5); and
 
-&emsp;(7) any recommendations the Attorney General may have for reforms to address campus sexual assaults and protect victims more effectively, and any other matters that the Attorney General deems relevant to the subject of the study and report required by this section.
+&emsp;(7) any recommendations the Attorney General may have for reforms to address campus sexual assaults and protect victims more effectively, and any other matters that the Attorney General deems relevant to the subjectof the study and report required by this section.
 
 #### (c) Submission of report
 

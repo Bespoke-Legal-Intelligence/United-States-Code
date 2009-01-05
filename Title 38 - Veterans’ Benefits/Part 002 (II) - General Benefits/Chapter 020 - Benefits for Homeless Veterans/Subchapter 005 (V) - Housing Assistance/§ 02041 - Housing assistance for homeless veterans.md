@@ -6,7 +6,7 @@
 
 &emsp;(B) any State or any political subdivision thereof.
 
-(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, leasewith an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
+(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, lease with an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
 
 (3) The Secretary may enter into an agreement under paragraph (1) of this subsection only if—
 
@@ -46,7 +46,7 @@
 
 (c) The Secretary may not enter into agreements under subsection (a) after December 31, 2011.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II,§203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468.)
 
 #### Amendments
 

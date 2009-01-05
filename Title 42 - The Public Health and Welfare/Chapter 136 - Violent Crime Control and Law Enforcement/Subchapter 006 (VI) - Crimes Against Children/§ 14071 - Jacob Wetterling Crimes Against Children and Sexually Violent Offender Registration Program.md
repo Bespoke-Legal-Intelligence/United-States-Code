@@ -54,7 +54,7 @@
 
 > &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminal offense if the perpetrator is 18 years of age or younger.
 
-&emsp;&emsp;(B) The term “sexually violent offense” means any criminal offense in a range of offenses specified by State law which is comparable to or which exceeds the range of offenses encompassed by aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242 of title 18 or as described in the State criminal code) or an offense that has as its elements engaging in physical contact with another person with intent to commit aggravated sexual abuse or sexual abuse (as described in such sections of title 18 or as described in the State criminal code).
+&emsp;&emsp;(B) The term “sexually violent offense” means any criminal offense in a range of offenses specified by State law which is comparable to or which exceeds the range of offenses encompassed by aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242 of title 18 or as described in the State criminal code) or an offense that has as its elements engaging in physical contact with another person with intent to commit aggravated sexual abuse or sexual abuse (as described in such sections of title18 or as described in the State criminal code).
 
 &emsp;&emsp;(C) The term “sexually violent predator” means a person who has been convicted of a sexually violent offense and who suffers from a mental abnormality or personality disorder that makes the person likely to engage in predatory sexually violent offenses.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(F) The term “employed, carries on a vocation” includes employment that is full-time or part-time for a period of time exceeding 14 days or for an aggregate period of time exceeding 30 days during any calendar year, whether financially compensated, volunteered, or for the purpose of government or educational benefit.
 
-&emsp;&emsp;(G) The term “student” means a person who is enrolled on a full-time or part-time basis, in any public or private educationalinstitution, including any secondary school, trade, or professional institution, or institution of higher education.
+&emsp;&emsp;(G) The term “student” means a person who is enrolled on a full-time or part-time basis, in any public or private educational institution, including any secondary school, trade, or professional institution, or institution of higher education.
 
 #### (b) Registration requirement upon release, parole, supervised release, or probation
 
@@ -108,7 +108,7 @@ An approved State registration program established under this section shall cont
 
 #### (5) Registration for change of address to another State
 
-&emsp;A person who has been convicted of an offense which requires registration under this section and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration.
+&emsp;A person who has been convicted of an offense which requires registration under this section and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to anagency responsible for registration in the new State, if that State requires registration.
 
 #### (6) Length of registration
 
@@ -202,7 +202,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (ii) Certain training programs
 
-&emsp;&emsp;&emsp;Prior to implementing this subsection, the Director shall study the feasibility of incorporating into the SOMA program the activities of any technical assistance or training program established as a result of section 13941 of this title. In a case in which incorporating such activities intothe SOMA program will eliminate duplication of efforts or administrative costs, the Director shall take administrative actions, as allowable, and make recommendations to Congress to incorporate such activities into the SOMA program prior to implementing the SOMA program.
+&emsp;&emsp;&emsp;Prior to implementing this subsection, the Director shall study the feasibility of incorporating into the SOMA program the activities of any technical assistance or training program established as a result of section 13941 of this title. In a case in which incorporating such activities into the SOMA program will eliminate duplication of efforts or administrative costs, the Director shall take administrative actions, as allowable, and make recommendations to Congress to incorporate such activities into the SOMA program prior to implementing the SOMA program.
 
 #### (3) Authorization of appropriations
 
@@ -382,13 +382,17 @@ Ineligibility for Funds.—
 
 Effective Date.—States shall be allowed the time specified in subsection (b) to establish minimally sufficient sexual offender registration programs for purposes of the amendments made by section 2 \[enacting section 14072 of this title\]. Subsections (c) and (k) of section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 14072(c), (k)\], and any requirement to issue related regulations, shall take effect at the conclusion of the time provided under this subsection for the establishment of minimally sufficient sexual offender registration programs.”
 
+#### Short Title
+
+Subtitle A of title XVII of Pub. L. 103–322, which is classified generally to this subchapter, is popularly known as the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act.
+
 #### Regulations
 
 Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
 
 #### Severability
 
-Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \[see Effective Date of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \[see Effective Date of 1996 Amendment note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of suchto any person or circumstance shall not be affected thereby.”
 
 #### Transfer of Functions
 
@@ -404,7 +408,7 @@ Pub. L. 108–21, title VI, §604(c), Apr. 30, 2003, 117 Stat. 688, provided tha
 
 #### Study of Sex Offender Management Assistance Program
 
-Pub. L. 105–314, title VI, §607(b), Oct. 30, 1998, 112 Stat. 2986, provided that: “Not later than March 1, 2000, the Director shall conduct a study to assess the efficacy ofthe Sex Offender Management Assistance Program under section 170101(i) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(i)), as added by this section, and submit recommendations to Congress.”
+Pub. L. 105–314, title VI, §607(b), Oct. 30, 1998, 112 Stat. 2986, provided that: “Not later than March 1, 2000, the Director shall conduct a study to assess the efficacy of the Sex Offender Management Assistance Program under section 170101(i) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(i)), as added by this section, and submit recommendations to Congress.”
 
 #### Study of Hotlines
 

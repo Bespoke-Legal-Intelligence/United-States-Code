@@ -14,7 +14,7 @@
 
 &emsp;An insured depository institution may apply for for <sup>1</sup> any community enterprise assessment credit for any semiannual period for—
 
-&emsp;&emsp;(A) the amount, during such period, of new originations of qualified loans and other assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determinesare qualified to be taken into account for purposes of this subsection;
+&emsp;&emsp;(A) the amount, during such period, of new originations of qualified loans and other assistance provided for low- and moderate-income persons in distressed communities, or enterprises integrally involved with such neighborhoods, which the Board determines are qualified to be taken into account for purposes of this subsection;
 
 &emsp;&emsp;(B) the amount, during such period, of deposits accepted from persons domiciled in the distressed community, at any office of the institution (including any branch) located in any qualified distressed community, and new originations of any loans and other financial assistance made within that community, except that in no case shall the credit for deposits at any institution or branch exceed the credit for loans and other financial assistance by the bank or branch in the distressed community; and
 
@@ -262,7 +262,7 @@ No community development financial institution may receive a community enterpris
 
 #### (iv) Leverage
 
-&emsp;&emsp;&emsp;The leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
+&emsp;&emsp;&emsp;The leverage ratio between the dollar amount of the activities that form thebasis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
 
 #### (v) Size
 

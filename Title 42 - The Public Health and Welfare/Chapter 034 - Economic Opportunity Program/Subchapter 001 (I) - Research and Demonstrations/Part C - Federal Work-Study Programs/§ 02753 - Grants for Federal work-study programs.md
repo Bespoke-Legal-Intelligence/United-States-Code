@@ -20,11 +20,9 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
 
-&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
+&emsp;&emsp;(A) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
 
-&emsp;&emsp;(B) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
-
-&emsp;&emsp;(C) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of title 20, may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 2756 of this title, and may transfer funds in accordance with the provisions of section 1095 of title 20;
+&emsp;&emsp;(B) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of title 20, may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 2756 of this title, and may transfer funds in accordance with the provisions of section 1095 of title 20;
 
 &emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
@@ -62,7 +60,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(9) provide assurances that employment made available from funds under this part may be used to support programs for supportive services to students with disabilities;
 
-&emsp;(10) provide assurances that the institution will inform all eligible students of the opportunity to perform community service, and will consult with local nonprofit, governmental,and community-based organizations to identify such opportunities; and
+&emsp;(10) provide assurances that the institution will inform all eligible students of the opportunity to perform community service, and will consult with local nonprofit, governmental, and community-based organizations to identify such opportunities; and
 
 &emsp;(11) include such other reasonable provisions as the Secretary shall deem necessary or appropriate to carry out the purpose of this part.
 
@@ -106,7 +104,31 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 &emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712.)
+#### (e) Civic education and participation activities
+
+#### (1) Use of funds
+
+&emsp;Funds granted to an institution under this section may be used in accordance with such subsection <sup>2</sup> to compensate (including compensation for time spent in training and travel directly related to civic education and participation activities) students employed in projects that—
+
+&emsp;&emsp;(A) teach civics in schools;
+
+&emsp;&emsp;(B) raise awareness of government functions or resources; or
+
+&emsp;&emsp;(C) increase civic participation.
+
+#### (2) Priority for schools
+
+&emsp;To the extent practicable, an institution shall—
+
+&emsp;&emsp;(A) give priority to the employment of students participating in projects that educate or train the public about evacuation, emergency response, and injury prevention strategies relating to natural disasters, acts of terrorism, and other emergency situations; and
+
+&emsp;&emsp;(B) ensure that any student compensated with the funds described in paragraph (1) receives appropriate training to carry out the educational services required.
+
+#### (3) Federal share
+
+&emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
+
+(Pub. L. 89–329, title IV, §443, as added Pub. L. 96–374, title IV, §434, Oct. 3, 1980, 94 Stat. 1434; amended Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258.)
 
 #### References in Text
 
@@ -120,6 +142,10 @@ A prior section 2753, Pub. L. 89–329, title IV, §443, formerly title I, §143
 
 #### Amendments
 
+2008—Subsec. (b)(2)(A) to (C). Pub. L. 110–315, §443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
+
+Subsec. (e). Pub. L. 110–315, §443(2), added subsec. (e).
+
 1998—Subsec. (b)(1). Pub. L. 105–244, §443(a), inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
 
 Pub. L. 105–244, §443(b), (c)(1)(A), substituted “for fiscal year 1999,” for “in fiscal year 1994 and succeeding fiscal years,”, inserted “(including a reasonable amount of time spent in travel or training directly related to such community service)” after “community service”, and struck out “and” at end.
@@ -128,7 +154,7 @@ Subsec. (b)(2)(B), (C). Pub. L. 105–244, §443(c)(1)(B), (C), added subpar. (B
 
 Subsec. (b)(3). Pub. L. 105–244, §443(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “provide that in the selection of students for employment under such work-study program, only students, who demonstrate financial need in accordance with part F of this title, and who meet the requirements of section 1091 of title 20 will be assisted, except that—
 
-&emsp;“(A) if the institution's grant under this part is directly or indirectly based in part on the financialneed demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
+&emsp;“(A) if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
 
 &emsp;“(B) if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution,
 

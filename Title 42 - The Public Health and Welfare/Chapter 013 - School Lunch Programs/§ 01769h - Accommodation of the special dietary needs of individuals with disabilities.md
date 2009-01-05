@@ -12,7 +12,7 @@ In this section:
 
 &emsp;&emsp;(B) the school breakfast program authorized under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
 
-&emsp;&emsp;(C) any other program authorized under this chapter or the Child Nutrition Act of1966 \[42 U.S.C. 1771 et seq.\] (except for section 17 \[42 U.S.C. 1786\]) that the Secretary determines is appropriate.
+&emsp;&emsp;(C) any other program authorized under this chapter or the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] (except for section 17 \[42 U.S.C. 1786\]) that the Secretary determines is appropriate.
 
 #### (2) Eligible entity
 
@@ -36,7 +36,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (a)(1)(C), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a)(1)(C), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 #### Amendments
 

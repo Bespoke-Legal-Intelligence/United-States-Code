@@ -106,7 +106,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (A) By Corporation
 
-&emsp;&emsp;In order to concentrate national efforts on meeting certain unmet human, educational, environmental, or public safety needs and to achieve the other purposes of this chapter, the Corporation shall establish, and after reviewing the strategic plan approved under section 12651b(g)(1) of this title, periodically alter priorities as appropriate regarding the types of national service programs to be assisted under subsection (b) or (d) of section 12581 of this title and the purposes for which such assistance may be used.
+&emsp;&emsp;In order to concentrate national efforts on meeting certain unmet human, educational, environmental, or public safety needs and toachieve the other purposes of this chapter, the Corporation shall establish, and after reviewing the strategic plan approved under section 12651b(g)(1) of this title, periodically alter priorities as appropriate regarding the types of national service programs to be assisted under subsection (b) or (d) of section 12581 of this title and the purposes for which such assistance may be used.
 
 #### (B) By States
 

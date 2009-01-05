@@ -14,7 +14,7 @@
 
 (b) The Congress further directs that the execution of the comprehensive research, development, and demonstration program shall conform to the following principles:
 
-&emsp;(1) Research and development of nonnuclear energy sources shall be pursued in such a wayas to facilitate the commercial availability of adequate supplies of energy to all regions of the United States.
+&emsp;(1) Research and development of nonnuclear energy sources shall be pursued in such a way as to facilitate the commercial availability of adequate supplies of energy to all regions of the United States.
 
 &emsp;(2) In determining the appropriateness of Federal involvement in any particular research and development undertaking, the Secretary shall give consideration to the extent to which the proposed undertaking satisfies criteria including, but not limited to, the following:
 

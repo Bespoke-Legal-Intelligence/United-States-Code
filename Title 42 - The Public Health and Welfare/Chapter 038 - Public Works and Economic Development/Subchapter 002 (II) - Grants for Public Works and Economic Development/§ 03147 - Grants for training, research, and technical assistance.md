@@ -42,7 +42,7 @@ In providing research and technical assistance under this section, the Secretary
 
 &emsp;(3) employ private individuals, partnerships, businesses, corporations, or appropriate institutions under contracts entered into for that purpose.
 
-(Pub. L. 89–136, title II, §207, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat.3604; amended Pub. L. 108–373, title II, §205, Oct. 27, 2004, 118 Stat. 1761.)
+(Pub. L. 89–136, title II, §207, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, §205, Oct. 27, 2004, 118 Stat. 1761.)
 
 #### Amendments
 

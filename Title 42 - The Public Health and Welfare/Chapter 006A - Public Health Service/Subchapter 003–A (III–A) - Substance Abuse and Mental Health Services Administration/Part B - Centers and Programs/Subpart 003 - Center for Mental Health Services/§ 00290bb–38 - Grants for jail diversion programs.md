@@ -18,7 +18,7 @@ The Secretary shall make up to 125 grants to States, political subdivisions of S
 
 #### (1) In general
 
-&emsp;To receive a grant under subsection (a) of this section, the chief executive of a State,chief executive of a subdivision of a State, Indian tribe or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall reasonably require.
+&emsp;To receive a grant under subsection (a) of this section, the chief executive of a State, chief executive of a subdivision of a State, Indian tribe or tribal organization shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary shall reasonably require.
 
 #### (2) Content
 
@@ -56,7 +56,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (1) In general
 
-&emsp;The Secretary shall pay to a State, political subdivision of a State, Indian tribe, or tribal organization receiving a grant under subsection (a) of this section the Federal share of the cost of activities described in the application.
+&emsp;The Secretary shall pay to a State, political subdivision of a State, Indian tribe, or tribal organization receiving a grant under subsection (a) of this section the Federal share ofthe cost of activities described in the application.
 
 #### (2) Federal share
 

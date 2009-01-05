@@ -44,7 +44,7 @@ Pub. L. 110–140, title IV, §411(b), Dec. 19, 2007, 121 Stat. 1600, provided t
 
 “(1)
 
-In general.—The Secretary \[of Energy\] may make funding available to local weatherization agencies from amounts authorized under the amendment made by subsection (a) \[amending this section\] to expand the weatherization assistance program for residential buildings to include materials, benefits, and renewable and domestic energy technologies not covered by the program (as of the date of enactment of this Act\[Dec. 19, 2007\]), if the State weatherization grantee certifies that the applicant has the capacity to carry out the proposed activities and that the grantee will include the project in the financial oversight of the grantee of the weatherization assistance program.
+In general.—The Secretary \[of Energy\] may make funding available to local weatherization agencies from amounts authorized under the amendment made by subsection (a) \[amending this section\] to expand the weatherization assistance program for residential buildings to include materials, benefits, and renewable and domestic energy technologies not covered by the program (as of the date of enactment of this Act \[Dec. 19, 2007\]), if the State weatherization grantee certifies that the applicant has the capacity to carry out the proposed activities and that the grantee will include the project in the financial oversight of the grantee of the weatherization assistance program.
 
 “(2)
 

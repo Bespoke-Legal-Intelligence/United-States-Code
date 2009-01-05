@@ -14,7 +14,7 @@ Words “upon any waters or vessel within the special maritime and territorial j
 
 Words “whatsoever with intent to defraud” were omitted as being included in the preceding term “false pretenses”.
 
-The punishment provision was revised to include a misdemeanor punishment (not more than $1,000 or one year, or both) where the offense involves $100 or less. (See reviser's notes under sections 641 and 645 of this title.)
+The punishment provision was revised to include a misdemeanor punishment (not more than $1,000 or one year, or both) where the offense involves $100 or less.\(See reviser's notes under sections 641 and 645 of this title.)
 
 #### 1949 Act
 

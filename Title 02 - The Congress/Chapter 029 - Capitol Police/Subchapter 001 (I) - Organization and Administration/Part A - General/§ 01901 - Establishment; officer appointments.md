@@ -44,7 +44,7 @@ Capitol Police Board; Composition; Redefining Mission.—
 
 &emsp;“(1)
 
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
+Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the Houseof Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
 
 &emsp;“(2)
 
@@ -82,7 +82,7 @@ Documentation.—
 
 &emsp;“(1)
 
-Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of theSenate, the Chief of the Capitol Police, and the Comptroller General.
+Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
 
 &emsp;“(2)
 
@@ -156,7 +156,7 @@ Exemption from mandatory separation.—Section 8335(c) or 8425(c) of title 5, Un
 
 &emsp;&emsp;&emsp;“(i) is 57 years of age or older; and
 
-&emsp;&emsp;&emsp;“(ii) is entitled to an annuity for immediate retirement under section 8336(m) or 8412(d) of title 5, United States Code, (as determined by taking into account paragraph (3)(A)).
+&emsp;&emsp;&emsp;“(ii) is entitled to an annuity for immediate retirement under section 8336(m) or 8412(d) of title5, United States Code, (as determined by taking into account paragraph (3)(A)).
 
 &emsp;“(3)
 
@@ -480,7 +480,7 @@ Plan.—Not later than 180 days after the date of enactment of this section \[Fe
 
 &emsp;“(2)
 
-Implementation report.—Not later than 1 year after the date of enactment of this section \[Feb. 20, 2003\], and annually thereafter until the transfer is fully implemented, the Chief of the Capitol Police shall prepare and submit a report to the appropriate committees of Congress, the Capitol Police Board, and the Librarian of Congress, on the Chief of the Capitol Police's progress in implementing the plan required in paragraph (1)(A) of this subsection, including any adjustments to cost estimates or legislative changes needed to implement the provisions of this section.
+Implementation report.—Not later than 1 year after the date of enactment of this section \[Feb.20, 2003\], and annually thereafter until the transfer is fully implemented, the Chief of the Capitol Police shall prepare and submit a report to the appropriate committees of Congress, the Capitol Police Board, and the Librarian of Congress, on the Chief of the Capitol Police's progress in implementing the plan required in paragraph (1)(A) of this subsection, including any adjustments to cost estimates or legislative changes needed to implement the provisions of this section.
 
 “(c)
 
@@ -598,5 +598,5 @@ House Resolution No. 420, One Hundred First Congress, June 26, 1990, made perman
 
 #### General Counsel to Chief of Capitol Police
 
-House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749, established the position of General Counsel to the Chief of the Capitol Police, for duty under the House of Representatives, at a per annum gross rate of compensation which is equal to the rate in effect from time to time for HS level 10, step 1, of the House Employees Schedule, such appointment to be made by the Capitol Police Board, subject to the prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
+House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Pub. L. 95–391, title I,§111, Sept. 30, 1978, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749, established the position of General Counsel to the Chief of the Capitol Police, for duty under the House of Representatives, at a per annum gross rate of compensation which is equal to the rate in effect from time to time for HS level 10, step 1, of the House Employees Schedule, such appointment to be made by the Capitol Police Board, subject to the prior approval of the Committee on House Oversight \[now Committee on House Administration\], without regard to political affiliation and solely on the basis of fitness to perform the duties of the position.
 

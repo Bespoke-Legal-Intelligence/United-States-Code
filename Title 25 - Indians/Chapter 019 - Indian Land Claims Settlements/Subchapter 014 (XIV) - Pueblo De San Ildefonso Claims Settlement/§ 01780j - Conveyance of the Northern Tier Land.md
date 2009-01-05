@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to valid existing rights, including reservations in the United States and anyright under this section, the Secretary of Agriculture shall sell the Northern Tier Land on such terms and conditions as the Secretary may prescribe as being in the public interest and in accordance with this section.
+&emsp;Subject to valid existing rights, including reservations in the United States and any right under this section, the Secretary of Agriculture shall sell the Northern Tier Land on such terms and conditions as the Secretary may prescribe as being in the public interest and in accordance with this section.
 
 #### (2) Effect of paragraph
 
@@ -34,7 +34,7 @@
 
 #### (B) Failure of Pueblo to act
 
-&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of the date on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
+&emsp;&emsp;If the Pueblo fails to exercise its option to purchase the Northern Tier Land within 90 days after receiving an offer from the Secretary of Agriculture, or fails to close on the purchase of such land within 1 year of thedate on which the option to purchase was exercised under subparagraph (A), the Secretary of Agriculture may sell or exchange the land to any third party in such manner and on such terms and conditions as the Secretary determines to be in the public interest, including by a competitive process.
 
 #### (3) Extension of time period
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Pueblo of Santa Clara does not exercise its option to acquire the Northern TierLand, the Secretary of Agriculture or the Secretary of the Interior, as appropriate, shall by deed reservations or grants on land under their respective jurisdiction provide for inholder and public access across the Northern Tier Land in order to provide reasonable ingress and egress to private and Federal land as shown in Appendix B of the Settlement Agreement.
+&emsp;&emsp;If the Pueblo of Santa Clara does not exercise its option to acquire the Northern Tier Land, the Secretary of Agriculture or the Secretary of the Interior, as appropriate, shall by deed reservations or grants on land under their respective jurisdiction provide for inholder and public access across the Northern Tier Land in order to provide reasonable ingress and egress to private and Federal land as shown in Appendix B of the Settlement Agreement.
 
 #### (B) Administration of reservations
 

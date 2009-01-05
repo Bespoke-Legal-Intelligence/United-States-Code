@@ -22,7 +22,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (A) Lobbying
 
-&emsp;&emsp;No individual who engages in, or is otherwise employed in, lobbying of the Congress and who is required under the Federal Regulation of Lobbying Act <sup>1</sup> to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
+&emsp;&emsp;No individual who engages in, or is otherwise employed in, lobbying of the Congressand who is required under the Federal Regulation of Lobbying Act <sup>1</sup> to register with the Clerk of the House of Representatives or the Secretary of the Senate shall be eligible for appointment to, or service on, the Board.
 
 #### (B) Incompatible office
 
@@ -102,7 +102,7 @@ The Office shall—
 
 #### (i) Congressional oversight
 
-The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
+The Board and the Office shall be subject to oversight (except with respect to the dispositionof individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs <sup>2</sup> of the Senate and the Committee on House Oversight <sup>2</sup> of the House of Representatives.
 
 #### (j) Opening of Office
 

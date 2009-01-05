@@ -4,7 +4,7 @@
 
 (1) Notwithstanding any provision of title 5 governing appointments in the competitive service and General Schedule classification and pay rates, the Secretary of Energy may—
 
-&emsp;(A) establish and set the rates of pay for not more than 200 positions in the Department of Energy for scientific, engineering, and technical personnel whose duties will relate to safety at defense nuclear facilities of the Department; and
+&emsp;(A) establish and set the rates of pay for not more than 200 positions in the Department ofEnergy for scientific, engineering, and technical personnel whose duties will relate to safety at defense nuclear facilities of the Department; and
 
 &emsp;(B) appoint persons to such positions.
 
@@ -46,19 +46,19 @@ Section was formerly set out as a note under section 7231 of Title 42, The Publi
 
 #### Amendments
 
-2006—Subsec. (c)(1). Pub. L. 109–364 substituted “September 30, 2008” for “September 30, 2006”.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted “September 30, 2008” for “September 30, 2006”.
 
-2004—Subsec. (c)(1). Pub. L. 108–375 substituted “September 30, 2006” for “September 30, 2004”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 substituted “September 30, 2006” for “September 30, 2004”.
 
-2002—Subsec. (c)(1). Pub. L. 107–314, §3174, substituted “September 30, 2004” for “September 30, 2002”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–314, §3174, substituted “September 30, 2004” for “September 30, 2002”.
 
-2000—Subsec. (c)(1). Pub. L. 106–398 substituted “September 30, 2002” for “September 30, 2000”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–398 substituted “September 30, 2002” for “September 30, 2000”.
 
-1998—Subsec. (a)(2). Pub. L. 105–261, §3155, substituted “level III of the Executive Schedule under section 5314” for “level IV of the Executive Schedule under section 5315”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–261, §3155, substituted “level III of the Executive Schedule under section 5314” for “level IV of the Executive Schedule under section 5315”.
 
 Subsec. (c)(1). Pub. L. 105–261, §3152, substituted “September 30, 2000” for “September 30, 1999”.
 
-1997—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to a study to be conducted by the Environmental Protection Agency.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to a study to be conducted by the Environmental Protection Agency.
 
 Subsec. (c)(1). Pub. L. 105–85, §3139(b), substituted “September 30, 1999” for “September 30, 1997”.
 

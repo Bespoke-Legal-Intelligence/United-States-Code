@@ -42,7 +42,7 @@ Elderly Individuals and Individuals With Disabilities.—It is the policy of the
 
 (e)
 
-Preserving the Environment.—It is the policy of the Government that special effort shall be made to preserve the natural beauty of the countryside, public park and recreation lands, wildlife and waterfowl refuges, and important historical and cultural assets when planning, designing, and carrying out a public transportation capital project with assistance from the Government.
+Preserving the Environment.—It is the policy of the Government that special effort shall be made to preserve the natural beauty ofthe countryside, public park and recreation lands, wildlife and waterfowl refuges, and important historical and cultural assets when planning, designing, and carrying out a public transportation capital project with assistance from the Government.
 
 (f)
 

@@ -26,7 +26,7 @@ The Corporation may undertake activities, including activities carried out throu
 
 #### (2) Selection criteria
 
-&emsp;The Corporation shall develop criteria for the selection of recipients of challenge grantsunder this subsection, so as to make the grants widely available to a variety of programs that—
+&emsp;The Corporation shall develop criteria for the selection of recipients of challenge grants under this subsection, so as to make the grants widely available to a variety of programs that—
 
 &emsp;&emsp;(A) are high-quality national service programs; and
 

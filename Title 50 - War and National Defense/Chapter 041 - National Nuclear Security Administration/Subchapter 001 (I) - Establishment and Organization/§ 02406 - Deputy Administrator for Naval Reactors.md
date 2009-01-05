@@ -12,11 +12,11 @@ The Deputy Administrator shall be assigned the responsibilities, authorities, an
 
 #### (c) Effect on Executive Order
 
-Except as otherwise specified in this section and notwithstanding any other provision of thischapter, the provisions of the Naval Nuclear Propulsion Executive Order remain in full force and effect until changed by law.
+Except as otherwise specified in this section and notwithstanding any other provision of this chapter, the provisions of the Naval Nuclear Propulsion Executive Order remain in full force and effect until changed by law.
 
 #### (d) Naval Nuclear Propulsion Executive Order
 
-As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note) <sup>1</sup> (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 42 U.S.C. 7158 note)).<sup>1</sup>
+As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No.12344, dated February 1, 1982 (42 U.S.C. 7158 note) <sup>1</sup> (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 42 U.S.C. 7158 note)).<sup>1</sup>
 
 (Pub. L. 106–65, div. C, title XXXII, §3216, Oct. 5, 1999, 113 Stat. 959.)
 

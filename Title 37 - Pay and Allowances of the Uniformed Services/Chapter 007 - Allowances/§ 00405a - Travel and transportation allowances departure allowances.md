@@ -8,7 +8,7 @@
 
 &emsp;(3) a dependent who established a household at or in the vicinity of the member's duty station but who is temporarily absent therefrom for any reason when departure of dependents is authorized or ordered by competent authority; and
 
-&emsp;(4) a dependent who was authorized to join the member and who departed from his former place of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was authorized or ordered.
+&emsp;(4) a dependent who was authorized to join the member and who departed from his formerplace of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was authorized or ordered.
 
 (b)(1) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled to have one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
 

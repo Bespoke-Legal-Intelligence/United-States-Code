@@ -30,7 +30,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (2) In the establishment and review of requirements for an advanced manufacturing technology or process, the Secretary shall ensure the participation of those prospective technology users that are expected to be the users of that technology or process.
 
-(3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for the transition of that technology or process to the prospective technology users that will be the users of that technology or process.
+(3) The Secretary shall ensure that each project under the program for the development of an advanced manufacturing technology or process includes an implementation plan for thetransition of that technology or process to the prospective technology users that will be the users of that technology or process.
 
 (4) In the periodic review of a project under the program, the Secretary shall ensure participation by those prospective technology users that are the expected users for the technology or process being developed under the project.
 
@@ -50,11 +50,25 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (d)
 
-Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
+Competition and Cost Sharing.—(1) In accordance with the policy stated in section 2374 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598.)
+(e)
+
+Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the program that includes the following:
+
+&emsp;(A) The overall manufacturing technology goals, milestones, priorities, and investment strategy for the program.
+
+&emsp;(B) The objectives of, and funding for, the program for each military department and each Defense Agency that shall participate in the program during the period of the plan.
+
+(2) The Secretary shall include in the plan mechanisms for assessing the effectiveness of the program under the plan.
+
+(3) The Secretary shall update the plan on a biennial basis.
+
+(4) Each plan, and each update to the plan, shall cover a period of five fiscal years.
+
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48.)
 
 #### Prior Provisions
 
@@ -65,6 +79,8 @@ Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, §821(a
 Another prior section 2521 was renumbered section 2540 of this title and subsequently repealed.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
 2003—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
 
@@ -116,7 +132,7 @@ Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as s
 
 Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
 
-Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less thantwo to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
+Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
 
 Subsec. (e)(2). Pub. L. 105–261, §213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The plan shall include an assessment of the effectiveness of the program.”
 
@@ -142,6 +158,36 @@ Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
+#### Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program
+
+Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, provided that: “No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Director, Defense Research and Engineering, ensures each of the following:
+
+&emsp;“(1) A component of the Department of Defense has requested and evaluated—
+
+&emsp;&emsp;“(A) competitive proposals, for each project under the program that is not a project covered by subparagraph (B); and
+
+&emsp;&emsp;“(B) proposals from as many sources as is practicable under the circumstances, for a project under the program if the disclosure of the needs of the Department of Defense with respect to that project would compromise the national security.
+
+&emsp;“(2) Each project under the program is carried out—
+
+&emsp;&emsp;“(A) in accordance with the statutory requirements of the Manufacturing Technology Program established by section 2521 of title 10, United States Code; and
+
+&emsp;&emsp;“(B) in compliance with all requirements of any directive that applies to manufacturing technology.
+
+&emsp;“(3) An implementation plan has been developed.”
+
+#### Initial Development and Submission of Plan
+
+Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, provided that:
+
+“(1)
+
+Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) of section 2521 of title 10, United States Code (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
+
+“(2)
+
+Submission.—Not later than the date on which the budget of the President for fiscal year 2010 is submitted to Congress under section 1105 of title 31, United States Code, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the plan specified in paragraph (1).”
+
 #### High-Performance Defense Manufacturing Technology Research and Development
 
 Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, provided that:
@@ -150,7 +196,7 @@ Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, p
 
 “(a)
 
-Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code, to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
+Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code, to identify and transition advanced manufacturing processes andtechnologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
 
 “(b)
 

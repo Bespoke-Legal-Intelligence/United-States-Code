@@ -34,7 +34,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (ii) Core indicators for eligible youth
 
-&emsp;&emsp;&emsp;The core indicators of performance (for participants who are eligible youth age 14through 18) for youth activities authorized under section 2854 of this title, shall include—
+&emsp;&emsp;&emsp;The core indicators of performance (for participants who are eligible youth age 14 through 18) for youth activities authorized under section 2854 of this title, shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) attainment of basic skills and, as appropriate, work readiness or occupational skills;
 
@@ -76,7 +76,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;&emsp;&emsp;&emsp;(I) the extent to which the levels involved will assist the State in attaining a high level of customer satisfaction;
 
-&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, the characteristics of participants when the participants entered the program, and the services to be provided; and
+&emsp;&emsp;&emsp;&emsp;(II) how the levels involved compare with the State adjusted levels of performance established for other States, taking into account factors including differences in economic conditions, thecharacteristics of participants when the participants entered the program, and the services to be provided; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the extent to which such levels involved promote continuous improvement in performance on the performance measures by such State and ensure optimal return on the investment of Federal funds.
 
@@ -162,7 +162,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the Governor, in coordination withlocal boards and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
+&emsp;Using funds made available under this subchapter, the Governor, in coordination with local boards and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
 
 #### (2) Wage records
 

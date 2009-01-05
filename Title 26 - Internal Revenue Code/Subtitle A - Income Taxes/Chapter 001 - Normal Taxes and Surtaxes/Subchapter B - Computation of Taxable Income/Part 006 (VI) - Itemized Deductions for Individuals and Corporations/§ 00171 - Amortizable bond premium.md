@@ -160,13 +160,13 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 “(2)
 
-Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after thedate of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
+Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 
 Section 1803(a)(11)(C) of Pub. L. 99–514 provided that:
 
 “(i) The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after September 27, 1985.
 
-“(ii) In the case of a taxpayer with respect to whom an election is in effect on the date of the enactment of this Act \[Oct. 22, 1986\] under section 171(c) of the Internal Revenue Code of 1954 \[now 1986\], such election shall apply to obligations issued after September 27, 1985, only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
+“(ii) In the case of a taxpayer with respect to whom an election is in effect on the date of the enactment of this Act \[Oct. 22, 1986\] under section 171(c) of the Internal Revenue Code of 1954 \[now 1986\], such election shall apply to obligations issued after September 27, 1985, only if the taxpayer chooses (at such time and in suchmanner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations.”
 
 Section 1803(a)(12)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges after May 6, 1986.”
 

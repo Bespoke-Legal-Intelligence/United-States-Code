@@ -136,7 +136,7 @@ The Administrator shall provide technical assistance to States and local governm
 
 &emsp;&emsp;(A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a) of this section; and
 
-&emsp;&emsp;(B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent with the performance criteria established under subsection (a) of this section).
+&emsp;&emsp;(B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent withthe performance criteria established under subsection (a) of this section).
 
 #### (2) Availability
 

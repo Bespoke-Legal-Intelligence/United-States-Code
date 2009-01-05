@@ -12,7 +12,7 @@
 
 &emsp;(A) contract with the American Registry of Pathology (established under section 177 of this title) for cooperative enterprises in medical research, consultation, and education between the Institute and the civilian medical profession under such conditions as may be agreed upon between the Board of Governors and the American Registry of Pathology;
 
-&emsp;(B) make available at no cost to the American Registry of Pathology such space, facilities, equipment, and support services within the Institute as the Board of Governors deemsnecessary for the accomplishment of their mutual cooperative enterprises; and
+&emsp;(B) make available at no cost to the American Registry of Pathology such space, facilities, equipment, and support services within the Institute as the Board of Governors deems necessary for the accomplishment of their mutual cooperative enterprises; and
 
 &emsp;(C) contract with the American Registry of Pathology for the services of such professional, technical, or clerical personnel as are necessary to fulfill their cooperative enterprises.
 
@@ -41,6 +41,52 @@ Subsec. (b)(1)(A). Pub. L. 96–513, §511(6)(B), inserted “of this title” a
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Establishment of Joint Pathology Center
+
+Pub. L. 110–181, div. A, title VII, §722, Jan. 28, 2008, 122 Stat. 199, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The Secretary of Defense proposed to disestablish all elements of the Armed Forces Institute of Pathology, except the National Medical Museum and the Tissue Repository, as part of the recommendations of the Secretary for the closure of Walter Reed Army Medical Center in the 2005 round of defense base closure and realignment.
+
+&emsp;“(2) The Defense Base Closure and Realignment Commission altered, but did not reject, the proposal of the Secretary of Defense to disestablish the Armed Forces Institute of Pathology.
+
+&emsp;“(3) The Commission's recommendation that the Armed Forces Institute of Pathology's ‘capabilities not specified in this recommendation will be absorbed into other DOD, Federal, or civilian facilities’ provides the flexibility to retain a Joint Pathology Center as a Department of Defense or Federal entity.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that the Armed Forces Institute of Pathology has provided important medical benefits to the Armed Forces and to the United States and that the Federal Government should retain a Joint Pathology Center.
+
+“(c)
+
+Establishment.—
+
+&emsp;“(1)
+
+Establishment required.—The President shall establish and maintain a Joint Pathology Center thatshall function as the reference center in pathology for the Federal Government.
+
+&emsp;“(2)
+
+Establishment within dod.—Except as provided in paragraph (3), the Joint Pathology Center shall be established in the Department of Defense, consistent with the final recommendations of the 2005 Defense Base Closure and Realignment Commission, as approved by the President.
+
+&emsp;“(3)
+
+Establishment in another department.—If the President makes a determination, within 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], that the Joint Pathology Center cannot be established in the Department of Defense, the Joint Pathology Center shall be established as an element of a Federal agency other than the Department of Defense. The President shall incorporate the selection of such agency into the determination made under this paragraph.
+
+“(d)
+
+Services.—The Joint Pathology Center shall provide, at a minimum, the following:
+
+&emsp;“(1) Diagnostic pathology consultation services in medicine, dentistry, and veterinary sciences.
+
+&emsp;“(2) Pathology education, to include graduate medical education, including residency and fellowship programs, and continuing medical education.
+
+&emsp;“(3) Diagnostic pathology research.
+
+&emsp;“(4) Maintenance and continued modernization of the Tissue Repository and, as appropriate, utilization of the Repository in conducting the activities described in paragraphs (1) through (3).”
 
 #### National Museum of Health and Medicine
 

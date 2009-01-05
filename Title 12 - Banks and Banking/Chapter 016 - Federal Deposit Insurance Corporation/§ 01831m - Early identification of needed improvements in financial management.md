@@ -90,7 +90,7 @@ Each insured depository institution shall prepare—
 
 #### (A) Establishment
 
-&emsp;&emsp;Each insured depository institution (to which this section applies) shall have anindependent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
+&emsp;&emsp;Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
 #### (B) Duties
 
@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recentreport of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 
@@ -246,7 +246,7 @@ In general—An independent public accountant shall apply procedures agreed upon
 
 “(2)
 
-Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordancewith generally accepted standards for attestation engagements.”
+Attestation requirements—Any attestation pursuant to paragraph (1) shall be made in accordance with generally accepted standards for attestation engagements.”
 
 Subsec. (g)(1)(A). Pub. L. 104–208, §2301(b)(1), inserted “, except as provided in subparagraph (D)” after “management of the institution”.
 

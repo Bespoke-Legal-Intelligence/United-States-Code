@@ -4,7 +4,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;(1) to preserve, protect, develop, and where possible, to restore or enhance, the resources of the Nation's coastal zone for this and succeeding generations;
 
-&emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs to achieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
+&emsp;(2) to encourage and assist the states to exercise effectively their responsibilities in the coastal zone through the development and implementation of management programs toachieve wise use of the land and water resources of the coastal zone, giving full consideration to ecological, cultural, historic, and esthetic values as well as the needs for compatible economic development, which programs should at least provide for—
 
 &emsp;&emsp;(A) the protection of natural resources, including wetlands, flood plains, estuaries, beaches, dunes, barrier islands, coral reefs, and fish and wildlife and their habitat, within the coastal zone,
 
@@ -28,7 +28,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(K) the study and development, in any case in which the Secretary considers it to be appropriate, of plans for addressing the adverse effects upon the coastal zone of land subsidence and of sea level rise; and
 
-&emsp;(3) to encourage the preparation of special area management plans which provide for increased specificity in protecting significant natural resources, reasonable coastal-dependent economic growth, improved protection oflife and property in hazardous areas, including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes, and improved predictability in governmental decisionmaking;
+&emsp;(3) to encourage the preparation of special area management plans which provide for increased specificity in protecting significant natural resources, reasonable coastal-dependent economic growth, improved protection of life and property in hazardous areas, including those areas likely to be affected by land subsidence, sea level rise, or fluctuating water levels of the Great Lakes, and improved predictability in governmental decisionmaking;
 
 &emsp;(4) to encourage the participation and cooperation of the public, state and local governments, and interstate and other regional agencies, as well as of the Federal agencies having programs affecting the coastal zone, in carrying out the purposes of this chapter;
 

@@ -32,7 +32,7 @@ As used in this subchapter:
 
 &emsp;(C) lysergic acid diethylamide; or
 
-&emsp;(D) any drug which contains any quantity of a substance which the Attorney General, afterinvestigation, has found to have, and by regulation designated as having, a potential for abuse because of its depressant or stimulant effect on the central nervous system or its hallucinogenic effect.
+&emsp;(D) any drug which contains any quantity of a substance which the Attorney General, after investigation, has found to have, and by regulation designated as having, a potential for abuse because of its depressant or stimulant effect on the central nervous system or its hallucinogenic effect.
 
 (10) The term “dispense” means to deliver a controlled substance to an ultimate user or research subject by, or pursuant to the lawful order of, a practitioner, including the prescribing and administering of a controlled substance and the packaging, labeling or compounding necessary to prepare the substance for such delivery. The term “dispenser” means a practitioner who so delivers a controlled substance to an ultimate user or research subject.
 
@@ -90,7 +90,7 @@ As used in this subchapter:
 
 &emsp;(C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-(26) The term “State” means a State of the United States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
+(26) The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (27) The term “ultimate user” means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
 
@@ -198,7 +198,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term “regular customer” means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term “regular customer” means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term “regular importer” means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -386,7 +386,7 @@ As used in this subchapter:
 
 > Each reference in clause (i) to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
 
-(B) Such term does not include a product described in subparagraph (A) if the product contains a chemical specified in such subparagraphthat the Attorney General has under section 811(a) of this title added to any of the schedules under section 812(c) of this title. In the absence of such scheduling by the Attorney General, a chemical specified in such subparagraph may not be considered to be a controlled substance.
+(B) Such term does not include a product described in subparagraph (A) if the product contains a chemical specified in such subparagraph that the Attorney General has under section 811(a) of this title added to any of the schedules under section 812(c) of this title. In the absence of such scheduling by the Attorney General, a chemical specified in such subparagraph may not be considered to be a controlled substance.
 
 (46) The term “regulated seller” means a retail distributor (including a pharmacy or a mobile retail vendor), except that such term does not include an employee or agent of such distributor.
 
@@ -404,19 +404,145 @@ As used in this subchapter:
 
 &emsp;(iii) A drug store is an entity within SIC code 5912.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263.)
+(50) The term “Internet” means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected worldwide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocol to such protocol, to communicate information of all kinds by wire or radio.
+
+(51) The term “deliver, distribute, or dispense by means of the Internet” refers, respectively, to any delivery, distribution, or dispensing of a controlled substance that is caused or facilitated by means of the Internet.
+
+(52) The term “online pharmacy”—
+
+&emsp;(A) means a person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses, or offers or attempts to deliver, distribute, or dispense, a controlled substance by means of the Internet; and
+
+&emsp;(B) does not include—
+
+&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+
+&emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
+
+&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the UnitedStates (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
+
+&emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
+
+&emsp;&emsp;(v) any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
+
+&emsp;&emsp;(vi) mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
+
+&emsp;&emsp;(vii) a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
+
+&emsp;&emsp;(viii) a pharmacy registered under section 823(f) of this title whose dispensing of controlled substances via the Internet consists solely of—
+
+&emsp;&emsp;&emsp;(I) refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
+
+&emsp;&emsp;&emsp;(II) filling new prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (56); or
+
+&emsp;&emsp;(ix) any other persons for whom the Attorney General and the Secretary have jointly, by regulation, found it to be consistent with effective controls against diversion and otherwise consistent with the public health and safety to exempt from the definition of an “online pharmacy”.
+
+(53) The term “homepage” means the opening or main page or screen of the website of an online pharmacy that is viewable on the Internet.
+
+(54) The term “practice of telemedicine” means, for purposes of this subchapter, the practice of medicine in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1395m(m) of title 42, which practice—
+
+&emsp;(A) is being conducted—
+
+&emsp;&emsp;(i) while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(f) of this title; and
+
+&emsp;&emsp;(ii) by a practitioner—
+
+&emsp;&emsp;&emsp;(I) acting in the usual course of professional practice;
+
+&emsp;&emsp;&emsp;(II) acting in accordance with applicable State law; and
+
+&emsp;&emsp;&emsp;(III) registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
+
+&emsp;&emsp;&emsp;&emsp;(aa) is exempted from such registration in all States under section 822(d) of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) is—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+
+&emsp;(B) is being conducted while the patient is being treated by, and in the physical presence of, a practitioner—
+
+&emsp;&emsp;(i) acting in the usual course of professional practice;
+
+&emsp;&emsp;(ii) acting in accordance with applicable State law; and
+
+&emsp;&emsp;(iii) registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
+
+&emsp;&emsp;&emsp;(I) is exempted from such registration in all States under section 822(d) of this title; or
+
+&emsp;&emsp;&emsp;(II) is—
+
+&emsp;&emsp;&emsp;&emsp;(aa) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) registered under section 823(f) of this title in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+
+&emsp;(C) is being conducted by a practitioner—
+
+&emsp;&emsp;(i) who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\];
+
+&emsp;&emsp;(ii) acting within the scope of the employment, contract, or compact described in clause (i); and
+
+&emsp;&emsp;(iii) who is designated as an Internet Eligible Controlled Substances Provider by the Secretary under section 831(g)(2) of this title;
+
+&emsp;(D)(i) is being conducted during a public health emergency declared by the Secretary under section 247d of title 42; and
+
+&emsp;(ii) involves patients located in such areas, and such controlled substances, as the Secretary, with the concurrence of the Attorney General, designates, provided that such designation shall not be subject to the procedures prescribed by subchapter II of chapter 5 of title 5;
+
+&emsp;(E) is being conducted by a practitioner who has obtained from the Attorney General a special registration under section 831(h) of this title;
+
+&emsp;(F) is being conducted—
+
+&emsp;&emsp;(i) in a medical emergency situation—
+
+&emsp;&emsp;&emsp;(I) that prevents the patient from being in the physical presence of a practitioner registered under section 823(f) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
+
+&emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+
+&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
+
+&emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
+
+&emsp;&emsp;(ii) by a practitioner that—
+
+&emsp;&emsp;&emsp;(I) is an employee or contractor of the Veterans Health Administration acting within the scope of that employment or contract;
+
+&emsp;&emsp;&emsp;(II) is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title; and
+
+&emsp;&emsp;&emsp;(III) issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
+
+&emsp;(G) is being conducted under any other circumstances that the Attorney General and the Secretary have jointly, by regulation, determined to be consistent with effective controls against diversion and otherwise consistent with the public health and safety.
+
+(55) The term “refilling prescriptions for controlled substances in schedule III, IV, or V”—
+
+&emsp;(A) means the dispensing of a controlled substance in schedule III, IV, or V in accordance with refill instructions issued by a practitioner as part of a valid prescription that meets the requirements of subsections (b) and (c) of section 829 of this title, as appropriate; and
+
+&emsp;(B) does not include the issuance of a new prescription to an individual for a controlled substance that individual was previously prescribed.
+
+(56) The term “filling new prescriptions for controlled substances in schedule III, IV, or V” means filling a prescription for an individual for a controlled substance in schedule III, IV, or V, if—
+
+&emsp;(A) the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 829 of this title (in this paragraph referred to as the “original prescription”);
+
+&emsp;(B) the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
+
+&emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
+
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821.)
 
 #### References in Text
 
-Schedules I, II, III, IV, and V, referred to in pars. (6), (14), and (32)(A), are set out in section 812(c) of this title.
+Schedules I, II, III, IV, and V, referred to in pars. (6), (14), (32)(A), (52)(B)(viii), (55), and (56), are set out in section 812(c) of this title.
 
-This subchapter, referred to in introductory provisions and in par. (39)(A)(iii), (vi), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv) and (45)(A)(ii), is act June 25, 1938,ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
+
+2008—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
 
 2006—Par. (39)(A)(iv). Pub. L. 109–177, §712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
 
@@ -446,7 +572,7 @@ Par. (34)(X), (Y). Pub. L. 106–172, §3(c), added subpar. (X) and redesignated
 
 Par. (39)(A)(iv)(II). Pub. L. 106–310 substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
 
-1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows:“any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
+1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
 1996—Par. (26). Pub. L. 104–294, §607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
@@ -562,6 +688,34 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–425, §3(j), Oct. 15, 2008, 122 Stat. 4832, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this Act \[enacting section 831 of this title and amending this section and sections 823, 827, 829, 841, 843, 882 and 960 of this title\] shall take effect 180 days after the date of enactment of this Act \[Oct. 15, 2008\].
+
+“(2)
+
+Definition of practice of telemedicine.—
+
+&emsp;“(A)
+
+In general.—Until the earlier of 3 months after the date on which regulations are promulgated to carry out section 311(h) of the Controlled Substances Act \[21 U.S.C. 831(h)\], as amended by this Act, or 15 months after the date of enactment of this Act—
+
+&emsp;&emsp;“(i) the definition of the term ‘practice of telemedicine’ in subparagraph (B) of this paragraph shall apply for purposes of the Controlled Substances Act \[21 U.S.C. 801 et seq.\]; and
+
+&emsp;&emsp;“(ii) the definition of the term ‘practice of telemedicine’ in section 102(54) of the Controlled Substances Act \[21 U.S.C. 802(54)\], as amended by this Act, shall not apply.
+
+&emsp;“(B)
+
+Temporary phase-in of telemedicine regulation.—During the period specified in subparagraph (A), the term ‘practice of telemedicine’ means the practice of medicine in accordance with applicable Federal and State laws by a practitioner (as that term is defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)), if the practitioner is using an interactive telecommunications system that satisfies the requirements of section 410.78(a)(3) of title 42, Code of Federal Regulations.
+
+&emsp;“(C)
+
+Rule of construction.—Nothing in this subsection may be construed to create a precedent that any specific course of conduct constitutes the ‘practice of telemedicine’ (as that term is defined in section 102(54) of the Controlled Substances Act, as amended by this Act) after the end of the period specified in subparagraph (A).”
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–358, §2(d), Oct. 22, 2004, 118 Stat. 1664, provided that: “The amendments made by this section \[amending this section, section 811 of this title, and provisions set out as a note under this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 22, 2004\].”
@@ -572,7 +726,7 @@ Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808,
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendmentsmade by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -606,7 +760,13 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
+Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\].”
+
 Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+
+#### Construction of 2008 Amendment
+
+Pub. L. 110–425, §4, Oct. 15, 2008, 122 Stat. 4834, provided that: “Nothing in this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act shall be construed as authorizing, prohibiting, or limiting the use of electronic prescriptions for controlled substances.”
 
 #### Preservation of State Authority To Regulate Scheduled Listed Chemicals
 

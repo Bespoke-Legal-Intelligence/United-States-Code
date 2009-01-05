@@ -28,11 +28,11 @@ Modal Security Plan for Aviation.—In addition to the requirements set forth in
 
 (d)
 
-Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),<sup>1</sup> the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in the plans prepared under section 114(t)(1) <sup>1</sup> and shall approve best practices guidelines for airport assets.
+Operational Criteria.—Not later than 90 days after the date of the submission of the National Strategy for Transportation Security under section 114(t)(4)(A),<sup>1</sup> the Assistant Secretary of Homeland Security (Transportation Security Administration) shall issue operational criteria to protect airport infrastructure and operations against the threats identified in theplans prepared under section 114(t)(1) <sup>1</sup> and shall approve best practices guidelines for airport assets.
 
 (e)
 
-Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in theassessments, analyses, and monitoring carried out under this section.
+Improving Security.—The Under Secretary shall take necessary actions to improve domestic air transportation security by correcting any deficiencies in that security discovered in the assessments, analyses, and monitoring carried out under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, §101(f)(1), (7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 108–458, title IV, §4001(b), Dec. 17, 2004, 118 Stat. 3712.)
 

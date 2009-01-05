@@ -22,13 +22,15 @@ As used in this chapter—
 
 (j) The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914, as amended \[15 U.S.C. 41 et seq.\].
 
-(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 92–573, §30(b), Oct. 27, 1972, 86 Stat. 1231.)
+(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 110–314, title II, §204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
+
+2008—Par. (i). Pub. L. 110–314 added par. (i) and struck out former par. (i) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
 
 1967—Par. (b). Pub. L. 90–189, §1(1), reduced from capital to lower-case the first letter of “territory” wherever appearing and redefined “commerce” to include commerce between the Commonwealth of Puerto Rico and any State or territory or foreign nation or the District of Columbia.
 
@@ -53,10 +55,6 @@ Section 1 of act June 30, 1953, provided: “This Act \[enacting this chapter\] 
 #### Savings Provision
 
 Section 11 of Pub. L. 90–189 provided that: “Notwithstanding the provisions of this Act \[amending this section and sections 1192 to 1195, 1197, 1198, and 1200 of this title and enacting sections 1201 to 1204 of this title\], the standards of flammability in effect under the provisions of the Flammable Fabrics Act, as amended \[this chapter\], on the day preceding the date of enactment of this Act \[Dec. 14, 1967\], shall continue in effect for the fabrics and articles of wearing apparel to which they are applicable until superseded or modified by the Secretary of Commerce pursuant to the authority conferred by the amendments made by this Act.”
-
-#### Transfer of Functions
-
-“Consumer Product Safety Commission” substituted for “Federal Trade Commission” in par. (i) pursuant to section 30(b) of Pub. L. 92–573, which is classified to section 2079(b) of this title and which transferred functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter to Consumer Product Safety Commission.
 
 #### Appropriations
 

@@ -102,7 +102,7 @@ The Smith-Lever Act, referred to in subsec. (c)(2)(A), is act May 8, 1914, ch. 7
 
 The Hatch Act of 1887, referred to in subsec. (c)(2)(B), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 361a of Title 7 and Tables.
 
-Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (c)(2)(C), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, popularly known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962 (16 U.S.C. 582a et seq.), referred to in subsec. (c)(2)(C), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

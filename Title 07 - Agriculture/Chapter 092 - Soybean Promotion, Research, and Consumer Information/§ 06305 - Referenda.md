@@ -52,7 +52,7 @@
 
 #### (ii) Mail-in requests
 
-&emsp;&emsp;&emsp;In lieu of making such requests in person, producers may make requests by mail. Mail-in requests shall be postmarked no later than the end of the period established under clause (i) for in-person requests. To facilitate such submission of requests by mail, the Secretary may make mail-in request forms available to producers.
+&emsp;&emsp;&emsp;In lieu of making such requests in person, producers may make requests by mail.Mail-in requests shall be postmarked no later than the end of the period established under clause (i) for in-person requests. To facilitate such submission of requests by mail, the Secretary may make mail-in request forms available to producers.
 
 #### (C) Notifications
 
@@ -78,7 +78,7 @@
 
 #### (3) Place
 
-&emsp;Referenda shall be conducted at county extension offices and provision shall be made forabsentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
+&emsp;Referenda shall be conducted at county extension offices and provision shall be made for absentee mail ballots to be provided on request. Absentee mail ballots shall be furnished by the Secretary on request made in person, by mail, or by telephone.
 
 (Pub. L. 101–624, title XIX, §1970, Nov. 28, 1990, 104 Stat. 3898; Pub. L. 102–237, title VIII, §806(2), Dec. 13, 1991, 105 Stat. 1883.)
 

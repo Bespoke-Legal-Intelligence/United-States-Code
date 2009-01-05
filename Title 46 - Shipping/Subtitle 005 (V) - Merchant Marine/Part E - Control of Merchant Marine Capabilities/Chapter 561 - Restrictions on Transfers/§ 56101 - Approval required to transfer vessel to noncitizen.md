@@ -8,7 +8,7 @@ Restrictions.—
 
 In General.—Except as otherwise provided in this section, section 12119 of this title, or section 611 of the Merchant Marine Act, 1936, a person may not, without the approval of the Secretary of Transportation—
 
-&emsp;&emsp;(A) sell, lease, charter, deliver, or in any other manner transfer, or agree to sell, lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States, an interest in or control of—
+&emsp;&emsp;(A) sell, lease, charter, deliver, or in any other manner transfer, or agree to sell,lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States, an interest in or control of—
 
 &emsp;&emsp;&emsp;(i) a documented vessel owned by a citizen of the United States; or
 

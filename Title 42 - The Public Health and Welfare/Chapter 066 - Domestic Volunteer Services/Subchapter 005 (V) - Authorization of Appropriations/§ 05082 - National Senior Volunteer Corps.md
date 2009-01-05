@@ -20,7 +20,7 @@ There are authorized to be appropriated to carry out part E of subchapter II of 
 
 #### Amendments
 
-1993—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) authorizing appropriations for parts A, B, C, and E of subchapter II of this chapter for fiscal years 1994 through 1996 for former subsecs. (a) to (c) authorizing appropriations for parts A, B, and C of such subchapter for fiscal years 1989 through 1993.
+1993—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) authorizing appropriationsfor parts A, B, C, and E of subchapter II of this chapter for fiscal years 1994 through 1996 for former subsecs. (a) to (c) authorizing appropriations for parts A, B, and C of such subchapter for fiscal years 1989 through 1993.
 
 1989—Pub. L. 101–204, §902(7), struck out “National” before “Older Americans” in section catchline.
 

@@ -6,23 +6,21 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;(1) the identity of the Federal officer making the application;
 
-&emsp;(2) the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;
+&emsp;(2) the identity, if known, or a description of the target of the search, and a description of the premises or property to be searched and of the information, material, or property to be seized, reproduced, or altered;
 
-&emsp;(3) the identity, if known, or a description of the target of the search, and a detailed description of the premises or property to be searched and of the information, material, or property to be seized, reproduced, or altered;
-
-&emsp;(4) a statement of the facts and circumstances relied upon by the applicant to justify the applicant's belief that—
+&emsp;(3) a statement of the facts and circumstances relied upon by the applicant to justify the applicant's belief that—
 
 &emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power;
 
 &emsp;&emsp;(B) the premises or property to be searched contains foreign intelligence information; and
 
-&emsp;&emsp;(C) the premises or property to be searched is owned, used, possessed by, or is in transit to or from a foreign power or an agent of a foreign power;
+&emsp;&emsp;(C) the premises or property to be searched is or is about to be owned, used, possessed by, or is in transit to or from a foreign power or an agent of a foreign power;
 
-&emsp;(5) a statement of the proposed minimization procedures;
+&emsp;(4) a statement of the proposed minimization procedures;
 
-&emsp;(6) a statement of the nature of the foreign intelligence sought and the manner in which the physical search is to be conducted;
+&emsp;(5) a statement of the nature of the foreign intelligence sought and the manner in which the physical search is to be conducted;
 
-&emsp;(7) a certification or certifications by the Assistant to the President for National Security Affairs or an executive branch official or officials designated by the President from among those executive branch officers employed in the area of national security or defense and appointed by the President, by and with the advice and consent of the Senate—
+&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive branch officers employed in the area of national security or defense and appointed by the President, by and with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
@@ -34,9 +32,9 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(E) includes a statement explaining the basis for the certifications required by subparagraphs (C) and (D);
 
-&emsp;(8) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
+&emsp;(7) where the physical search involves a search of the residence of a United States person, the Attorney General shall state what investigative techniques have previously been utilized to obtain the foreign intelligence information concerned and the degree to which these techniques resulted in acquiring such information; and
 
-&emsp;(9) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
+&emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, premises, or property specified in the application, and the action taken on each previous application.
 
 #### (b) Additional affidavits or certifications
 
@@ -48,7 +46,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 #### (d) Personal review by Attorney General
 
-(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, or the Director of National Intelligence, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
+(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
 
 (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
@@ -60,15 +58,31 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
+(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462.)
 
 #### Amendments
 
-2004—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out “detailed” before “description of the premises”, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;”.
 
-2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+Subsec. (a)(3). Pub. L. 110–261, §107(a)(1)(B), (D), redesignated par. (4) as (3) and inserted “or is about to be” before “owned” in subpar. (C). Former par. (3) redesignated (2).
 
-2000—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+Subsec. (a)(4), (5). Pub. L. 110–261, §107(a)(1)(B), redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4) redesignated (3).
+
+Subsec. (a)(6). Pub. L. 110–261, §107(a)(1)(B), (E), redesignated par. (7) as (6) and substituted “Affairs,” for “Affairs or” and “Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—” for “Senate—” in introductory provisions. Former par. (6) redesignated (5).
+
+Subsec. (a)(7) to (9). Pub. L. 110–261, §107(a)(1)(B), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+
+Subsec. (d)(1)(A). Pub. L. 110–261, §107(a)(2), substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”.
+
+<b>2004</b>—Subsec. (d)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+
+<b>2000</b>—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2004 Amendment
 

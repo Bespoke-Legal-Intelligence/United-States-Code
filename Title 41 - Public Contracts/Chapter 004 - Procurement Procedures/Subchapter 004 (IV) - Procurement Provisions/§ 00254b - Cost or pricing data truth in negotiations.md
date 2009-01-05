@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $500,000;
 
-&emsp;&emsp;(ii) in the case of a change or modification made to a prime contract that was entered into on or before October 13, 1994, and thathas been modified pursuant to paragraph (6), the price adjustment is expected to exceed $500,000; and
+&emsp;&emsp;(ii) in the case of a change or modification made to a prime contract that was entered into on or before October 13, 1994, and that has been modified pursuant to paragraph (6), the price adjustment is expected to exceed $500,000; and
 
 &emsp;&emsp;(iii) in the case of a change or modification not covered by clause (i) or (ii), the price adjustment is expected to exceed $100,000.
 
@@ -196,11 +196,59 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 
 Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(3), Feb. 10, 1996, 110 Stat. 671, provided that: “Subsection (a) of section 304A of the Federal Property and Administrative Services Act of 1949 \[subsec. (a) of this section\], as added by subsection (a), shall apply according to the provisions thereof on and after the date of the enactment of this Act \[Oct. 13, 1994\], notwithstanding section 10001(b) \[see Effective Date of 1994 Amendment note set out under section 251 of this title\].”
 
 \[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) of Pub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
+
+#### Limitations on Tiering of Subcontractors
+
+Pub. L. 110–417, \[div. A\], title VIII, §866, Oct. 14, 2008, 122 Stat. 4551, provided that:
+
+“(a)
+
+Regulations.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be amended, for executive agencies other than the Department of Defense, to minimize the excessive use by contractors of subcontractors, or of tiers of subcontractors, that add no or negligible value, and to ensure that neither a contractor nor a subcontractor receives indirect costs or profit on work performed by a lower-tier subcontractor to which the higher-tier contractor or subcontractor adds no, or negligible, value (but not to limit charges for indirect costs and profit based on the direct costs of managing lower-tier subcontracts).
+
+“(b)
+
+Covered Contracts.—This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)).
+
+“(c)
+
+Rule of Construction.—Nothing in this section shall be construed as limiting the ability of the Department of Defense to implement more restrictive limitations on the tiering of subcontractors.
+
+“(d)
+
+Applicability.—The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2340 \[10 U.S.C. 2324 note\]).
+
+“(e)
+
+Executive Agency Defined.—In this section, the term ‘executive agency’ has the meaning given such term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
+#### Minimizing Abuse of Commercial Services Item Authority
+
+Pub. L. 110–417, \[div. A\], title VIII, §868, Oct. 14, 2008, 122 Stat. 4552, provided that:
+
+“(a)
+
+Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be amended with respect to the procurement of commercial services.
+
+“(b)
+
+Applicability of Commercial Procedures.—
+
+&emsp;“(1)
+
+Services of a type sold in marketplace.—The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of section 254b of title 41, United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
+
+&emsp;“(2)
+
+Information submitted.—To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
+
+&emsp;&emsp;“(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
+
+&emsp;&emsp;“(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.”
 
 #### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 

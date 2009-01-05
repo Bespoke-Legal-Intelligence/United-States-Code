@@ -26,7 +26,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(3) a summary of repayments, by country, to the United States from previous foreign assistance loans;
 
-&emsp;(4) the status of each sale of agricultural commodities on credit terms theretofore made under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] with respect to which there remains outstanding any unpaid obligation; and the status of each transaction with respect to which a loan, contract or guarantee of insurance, or extension of credit (or participation therein) was theretofore made under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] with respect to which there remains outstanding any unpaid obligation or potential liability; except that such report shall include individually only any loan, contract, sale, extension of credit, or other transactions listed in this paragraph which is in excess of $1,000,000;
+&emsp;(4) the status of each sale of agricultural commodities on credit terms theretofore made under the Food for Peace Act \[7 U.S.C. 1691 et seq.\] with respect to which there remains outstanding any unpaid obligation; and the status of each transaction with respect to which a loan, contract or guarantee of insurance, or extension of credit (or participation therein) was theretofore made under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\] with respect to which there remains outstanding any unpaid obligation or potential liability; except that such report shall include individually only any loan, contract, sale, extension of credit, or other transactions listed in this paragraph which is in excess of $1,000,000;
 
 &emsp;(5)(A) the status of the debt servicing capacity of each country receiving assistance under this chapter;
 
@@ -56,11 +56,11 @@ For purposes of this section—
 
 &emsp;(2) “provided by the United States Government” includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
-(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1, 1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17,1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216.)
+(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1, 1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (a)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (a)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Export-Import Bank Act of 1945, referred to in subsec. (a)(4), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
@@ -75,6 +75,8 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 Prior to the complete revision of this section by section 502(a)(2) of Pub. L. 95–424, section 501(a)(1) of Pub. L. 95–424 redesignated former subsec. (c), relating to requests by the General Accounting Office and Congressional committees for documents and other material, as section 2393a of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(4). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–83 inserted provisions relating to evaluation of whether programs are benefiting the poor majority.
 
@@ -116,7 +118,7 @@ Subsec. (g). Pub. L. 93–189 added subsec. (g).
 
 Subsec. (d). Pub. L. 92–226, §304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 
-1969—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to section 2200a of thistitle from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
+1969—Subsec. (a). Pub. L. 91–175 excluded operations reported to Congress pursuant to section 2200a of this title from report required by this section, and struck out of last sentence reference to the operation of the investment guaranty program.
 
 1968—Subsec. (d). Pub. L. 90–629, §45(b)(4), required the presentation material to include in the chart foreign assistance data under any other Act.
 
@@ -131,6 +133,10 @@ Subsecs. (g), (h). Pub. L. 90–137, §302(h)(2), added subsecs. (g) and (h).
 1962—Subsec. (a). Pub. L. 87–565, §302(e), required reports to include information on progress under the freedom of navigation and nondiscriminatory declaration contained in section 2151 of this title.
 
 Subsec. (d). Pub. L. 87–565, §302(f), substituted “At the end of each fiscal year” and “fiscal year” for “In January of each year” and “preceding twelve months”, respectively, and provided that the presentation material submitted to Congress during its consideration of amendments to this chapter, or of any Act appropriating funds pursuant to authorizations contained in this chapter, should include a comparison of the current fiscal year programs and activities with those presented to Congress in the previous year and an explanation of any substantial changes.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1985 Amendment
 

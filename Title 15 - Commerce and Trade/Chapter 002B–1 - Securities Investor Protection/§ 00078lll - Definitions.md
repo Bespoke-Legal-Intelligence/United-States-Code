@@ -8,7 +8,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (2) Customer
 
-&emsp;The term “customer” of a debtor means any person (including any person with whom thedebtor deals as principal or agent) who has a claim on account of securities received, acquired, or held by the debtor in the ordinary course of its business as a broker or dealer from or for the securities accounts of such person for safekeeping, with a view to sale, to cover consummated sales, pursuant to purchases, as collateral security, or for purposes of effecting transfer. The term “customer” includes any person who has a claim against the debtor arising out of sales or conversions of such securities, and any person who has deposited cash with the debtor for the purpose of purchasing securities, but does not include—
+&emsp;The term “customer” of a debtor means any person (including any person with whom the debtor deals as principal or agent) who has a claim on account of securities received, acquired, or held by the debtor in the ordinary course of its business as a broker or dealer from or for the securities accounts of such person for safekeeping, with a view to sale, to cover consummated sales, pursuant to purchases, as collateral security, or for purposes of effecting transfer. The term “customer” includes any person who has a claim against the debtor arising out of sales or conversions of such securities, and any person who has deposited cash with the debtor for the purpose of purchasing securities, but does not include—
 
 &emsp;&emsp;(A) any person to the extent that the claim of such person arises out of transactions with a foreign subsidiary of a member of SIPC; or
 
@@ -28,7 +28,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(C) any cash or securities apportioned to customer property pursuant to section 78fff(d) of this title; and
 
-&emsp;&emsp;(D) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines that including such property within the meaning of such term would not significantly increase customer property.
+&emsp;&emsp;(D) any other property of the debtor which, upon compliance with applicable laws, rules, and regulations, would have been set aside or held for the benefit of customers, unless the trustee determines thatincluding such property within the meaning of such term would not significantly increase customer property.
 
 #### (5) Debtor
 
@@ -116,7 +116,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to formerTitle 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
-&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costsfor the year after the year in which such estimate is submitted.
+&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
 
 #### (c) State preparedness report
 
@@ -84,7 +84,7 @@
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XX of the Act is classified generally to subchapter XV (§601 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XX of the Act is classified generally to subchapter XV (§601 et seq.) of chapter 1 of this title.For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Amendments
 

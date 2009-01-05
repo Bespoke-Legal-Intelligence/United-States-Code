@@ -6,7 +6,7 @@ The Secretary, together with relevant manufacturers, wholesalers, and distributo
 
 #### (b) Distribution
 
-The Secretary shall promote communication between State, local, and tribal public health officials and such manufacturers, wholesalers, and distributors as agree to participate, regarding the effective distribution of seasonal influenza vaccine. Such communication shall include estimates of high priority populations, as determined by the Secretary, in State, local, and tribal jurisdictions in order to inform Federal, State, local, and tribal decision makers during vaccine shortages and supply disruptions.
+The Secretary shall promote communication between State, local, and tribal public health officials and such manufacturers, wholesalers, and distributors as agree to participate, regardingthe effective distribution of seasonal influenza vaccine. Such communication shall include estimates of high priority populations, as determined by the Secretary, in State, local, and tribal jurisdictions in order to inform Federal, State, local, and tribal decision makers during vaccine shortages and supply disruptions.
 
 #### (c) Confidentiality
 
@@ -28,7 +28,7 @@ As part of the National Health Security Strategy described in section 300hh–1 
 
 #### References in Text
 
-Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Amendments
 

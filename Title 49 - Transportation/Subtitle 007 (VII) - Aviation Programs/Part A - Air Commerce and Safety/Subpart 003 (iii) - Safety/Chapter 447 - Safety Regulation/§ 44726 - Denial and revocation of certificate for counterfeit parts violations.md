@@ -80,7 +80,7 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 &emsp;(2) the holder satisfies the requirements for the certificate without regard to that individual,
 
-> then the Administrator may amend the certificate to impose a limitation that the certificate will not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
+> then the Administrator may amend the certificate to impose a limitation that the certificatewill not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
 
 (Added Pub. L. 106–181, title V, §505(a)(1), Apr. 5, 2000, 114 Stat. 134; amended Pub. L. 108–176, title V, §501, Dec. 12, 2003, 117 Stat. 2556.)
 

@@ -12,7 +12,7 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 &emsp;&emsp;(C) any other use in the arts and industries (except for uses prohibited by section 5273(b) or (d)) and for fuel, light, and power; or
 
-&emsp;(2) free of tax by, and for the use of, the United States or any governmental agencythereof, any State, any political subdivision of a State, or the District of Columbia, for nonbeverage purposes; or
+&emsp;(2) free of tax by, and for the use of, the United States or any governmental agency thereof, any State, any political subdivision of a State, or the District of Columbia, for nonbeverage purposes; or
 
 &emsp;(3) free of tax for nonbeverage purposes and not for resale or use in the manufacture of any product for sale—
 

@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both, 
 
 (b) For the purposes of this section, the term “military or naval forces of the United States” includes the Army of the United States, the Navy, Air Force, Marine Corps, Coast Guard, Navy Reserve, Marine Corps Reserve, and Coast Guard Reserve of the United States; and, when any merchant vessel is commissioned in the Navy or is in the service of the Army or the Navy, includes the master, officers, and crew of such vessel.
 
-(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
+(June 25, 1948, ch. 645, 62 Stat. 811; May 24, 1949, ch. 139, §46, 63 Stat. 96; Pub. L. 103–322, titleXXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–163, div. A, title V, §515(f)(2), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Historical and Revision Notes
 

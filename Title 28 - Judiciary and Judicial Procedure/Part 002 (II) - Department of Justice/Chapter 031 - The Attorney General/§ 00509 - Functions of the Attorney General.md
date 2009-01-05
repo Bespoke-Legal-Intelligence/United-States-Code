@@ -52,6 +52,132 @@ For transfer of functions, personnel, assets, and liabilities of the Domestic Em
 
 For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
+#### Unsolved Civil Rights Crimes
+
+Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Emmett Till Unsolved Civil Rights Crime Act of 2007’.
+
+#### “SEC. 2. SENSE OF CONGRESS.
+
+“It is the sense of Congress that all authorities with jurisdiction, including the Federal Bureau of Investigation and other entities within the Department of Justice, should—
+
+&emsp;“(1) expeditiously investigate unsolved civil rights murders, due to the amount of time that has passed since the murders and the age of potential witnesses; and
+
+&emsp;“(2) provide all the resources necessary to ensure timely and thorough investigations in the cases involved.
+
+#### “SEC. 3. DEPUTY CHIEF OF THE CRIMINAL SECTION OF THE CIVIL RIGHTS DIVISION.
+
+“(a)
+
+In General.—The Attorney General shall designate a Deputy Chief in the Criminal Section of the Civil Rights Division of the Department of Justice.
+
+“(b)
+
+Responsibility.—
+
+&emsp;“(1)
+
+In general.—The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+
+&emsp;“(2)
+
+Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials.
+
+“(c)
+
+Study and Report.—
+
+&emsp;“(1)
+
+Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
+
+&emsp;&emsp;“(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1969;
+
+&emsp;&emsp;“(B) the number of new cases opened pursuant to this Act since the previous year's study;
+
+&emsp;&emsp;“(C) the number of unsealed Federal cases charged within the study period, including the casenames, the jurisdiction in which the charges were brought, and the date the charges were filed;
+
+&emsp;&emsp;“(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
+
+&emsp;&emsp;“(E) the number of cases within the study period that were closed without Federal prosecution, the case names of unsealed Federal cases, the dates the cases were closed, and the relevant federal statutes;
+
+&emsp;&emsp;“(F) the number of attorneys who worked, in whole or in part, on any case described in subsection (b)(1); and
+
+&emsp;&emsp;“(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended.
+
+&emsp;“(2)
+
+Report.—Not later than 6 months after the date of enactment of this Act \[Oct. 7, 2008\], and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1).
+
+#### “SEC. 4. SUPERVISORY SPECIAL AGENT IN THE CIVIL RIGHTS UNIT OF THE FEDERAL BUREAU OF INVESTIGATION.
+
+“(a)
+
+In General.—The Attorney General shall designate a Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice.
+
+“(b)
+
+Responsibility.—
+
+&emsp;“(1)
+
+In general.—The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+
+&emsp;“(2)
+
+Coordination.—In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials.
+
+#### “SEC. 5. GRANTS TO STATE AND LOCAL LAW ENFORCEMENT.
+
+“(a)
+
+In General.—The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1969, and resulted in a death.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated $2,000,000 for each of the fiscal years 2008 through 2017 to carry out this section.
+
+#### “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
+
+“(b)
+
+Community Relations Service of the Department of Justice.—In addition to any amounts authorized to be appropriated under title XI of the Civil Rights Act of 1964 (42 U.S.C. 2000h et seq.), there are authorized to be appropriated to the Community Relations Service of the Department of Justice $1,500,000 for fiscal year 2008 and each subsequent fiscal year, to enable the Service (in carrying out the functions described in title X of such Act (42 U.S.C. 2000g et seq.)) to provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations of criminal civil rights statutes, in cases described in section 4(b).
+
+#### “SEC. 7. DEFINITION OF ‘CRIMINAL CIVIL RIGHTS STATUTES’.
+
+“In this Act, the term ‘criminal civil rights statutes’ means—
+
+&emsp;“(1) section 241 of title 18, United States Code (relating to conspiracy against rights);
+
+&emsp;“(2) section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
+
+&emsp;“(3) section 245 of title 18, United States Code (relating to federally protected activities);
+
+&emsp;“(4) sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage);
+
+&emsp;“(5) section 901 of the Fair Housing Act (42 U.S.C. 3631); and
+
+&emsp;“(6) any other Federal law that—
+
+&emsp;&emsp;“(A) was in effect on or before December 31, 1969; and
+
+&emsp;&emsp;“(B) the Criminal Section of the Civil Rights Division of the Department of Justice enforced, before the date of enactment of this Act \[Oct. 7, 2008\].
+
+#### “SEC. 8. SUNSET.
+
+“Sections 2 through 6 of this Act shall cease to have effect at the end of fiscal year 2017.
+
+#### “SEC. 9. AUTHORITY OF INSPECTORS GENERAL.
+
+“\[Enacted section 5780a of Title 42, The Public Health and Welfare.\]”
+
 #### Organized Retail Theft
 
 Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, §8(a), Aug. 12, 2006, 120 Stat. 766, provided that:
@@ -138,7 +264,7 @@ Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that
 
 #### Federal Bureau of Investigation Use of Translators
 
-Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after thedate of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
+Pub. L. 108–458, title II, §2006, Dec. 17, 2004, 118 Stat. 3704, provided that: “Not later than 30 days after the date of the enactment of this Act \[Dec. 17, 2004\], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
 
 &emsp;“(1) the number of translators employed, or contracted for, by the Federal Bureau of Investigation or other components of the Department of Justice;
 
@@ -174,7 +300,7 @@ Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that
 
 “(a)
 
-In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
+In General.—The Attorney General shall establish such regional computer forensic laboratories as theAttorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
 &emsp;“(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
 
@@ -244,7 +370,7 @@ Terrorism Prevention Grants.—Terrorism prevention grants under this subsection
 
 &emsp;“(4) purchase equipment for managing a critical incident, such as communications equipment for improved interoperability among surrounding jurisdictions and mobile command posts for overall scene management; and
 
-&emsp;“(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resourcescoordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
+&emsp;“(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resources coordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
 
 “(c)
 
@@ -288,7 +414,7 @@ Authorization of Appropriations.—There are authorized to be appropriated $25,0
 
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate\(including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
 
 #### Overseas Law Enforcement Training Activities
 
@@ -538,7 +664,7 @@ Report to Congress.—The Comptroller General shall report the results and recom
 
 #### Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.
 
-Pub. L. 96–132, §12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of an environmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
+Pub. L. 96–132, §12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of anenvironmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
 
 #### Positions in Drug Enforcement Administration; Grades Excepted From Competitive Service; Vacancies; Removal, Suspension, or Reduction in Rank or Pay; Rate of Pay
 
@@ -734,7 +860,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 #### Sec. 7. Coordination
 
-The Attorney General, acting through the Administrator and such other officials of the Department ofJustice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
+The Attorney General, acting through the Administrator and such other officials of the Department of Justice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
 
 #### Sec. 8. Incidental Transfers
 
@@ -1142,7 +1268,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is intended only to improve the internal management of the Federal Government and is notintended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 Sec. 6. <i>Termination</i>. Unless the Task Force is sooner terminated by the President, the Attorney General may terminate the Task Force by a written notice of its termination published in the Federal Register.
 

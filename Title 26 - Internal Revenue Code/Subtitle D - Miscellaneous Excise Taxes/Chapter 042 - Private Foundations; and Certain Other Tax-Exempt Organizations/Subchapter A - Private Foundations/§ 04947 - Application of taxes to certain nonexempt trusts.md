@@ -34,7 +34,7 @@
 
 &emsp;Sections 4943 and 4944 shall not apply to a trust which is described in subsection (a)(2) if—
 
-&emsp;&emsp;(A) all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in section 170(c)(2)(B), and all amounts in such trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have an aggregate value not more than 60 percent of the aggregate fair market value of all amounts in such trusts, or
+&emsp;&emsp;(A) all the income interest (and none of the remainder interest) of such trust is devoted solely to one or more of the purposes described in section 170(c)(2)(B), and allamounts in such trust for which a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 have an aggregate value not more than 60 percent of the aggregate fair market value of all amounts in such trusts, or
 
 &emsp;&emsp;(B) a deduction was allowed under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522 for amounts payable under the terms of such trust to every remainder beneficiary but not to any income beneficiary.
 

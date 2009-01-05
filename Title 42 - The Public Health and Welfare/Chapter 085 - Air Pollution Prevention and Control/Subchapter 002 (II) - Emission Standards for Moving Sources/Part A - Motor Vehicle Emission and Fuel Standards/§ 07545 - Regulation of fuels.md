@@ -88,7 +88,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;(I) extreme and unusual fuel or fuel additive supply circumstances exist in a State or region of the Nation which prevent the distribution of an adequate supply of the fuel or fuel additive to consumers;
 
-&emsp;(II) such extreme and unusual fuel and fuel additive supply circumstances are the result of a natural disaster, an Act of God, a pipeline or refinery equipment failure, or another event that could not reasonably have been foreseen or prevented and not the lack of prudent planning on the part of the suppliers of the fuel or fuel additive to such State or region; and
+&emsp;(II) such extreme and unusual fuel and fuel additive supply circumstances are the result of a natural disaster, an Act of God, a pipelineor refinery equipment failure, or another event that could not reasonably have been foreseen or prevented and not the lack of prudent planning on the part of the suppliers of the fuel or fuel additive to such State or region; and
 
 &emsp;(III) it is in the public interest to grant the waiver (for example, when a waiver is necessary to meet projected temporary shortfalls in the supply of the fuel or fuel additive in a State or region of the Nation which cannot otherwise be compensated for).
 
@@ -156,7 +156,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;(A) exempt any small business (as defined in such regulations) from or defer or modify the requirements of, such regulations with respect to any such small business;
 
-&emsp;(B) provide for cost-sharing with respect to the testing of any fuel or fuel additive whichis manufactured or processed by two or more persons or otherwise provide for shared responsibility to meet the requirements of this section without duplication; or
+&emsp;(B) provide for cost-sharing with respect to the testing of any fuel or fuel additive which is manufactured or processed by two or more persons or otherwise provide for shared responsibility to meet the requirements of this section without duplication; or
 
 &emsp;(C) exempt any person from such regulations with respect to a particular fuel or fuel additive upon a finding that any additional testing of such fuel or fuel additive would be duplicative of adequate existing testing.
 
@@ -170,7 +170,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 (3) Any manufacturer of any fuel or fuel additive which prior to March 31, 1977, and after January 1, 1974, first introduced into commerce or increased the concentration in use of a fuel or fuel additive that would otherwise have been prohibited under paragraph (1)(A) if introduced on or after March 31, 1977 shall, not later than September 15, 1978, cease to distribute such fuel or fuel additive in commerce. During the period beginning 180 days after August 7, 1977, and before September 15, 1978, the Administrator shall prohibit, or restrict the concentration of any fuel additive which he determines will cause or contribute to the failure of an emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified under section 7525 of this title.
 
-(4) The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or fuel additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of the motor vehicle, motor vehicle engine, nonroad engine or nonroad vehicle in which such device or system is used) to achieve compliance by the vehicle or engine with the emission standards with respect to which it has been certified pursuant to sections 7525 and 7547(a) of this title. The Administrator shall take final action to grant or deny an application submitted under this paragraph, after public notice and comment, within 270 days of the receipt of such an application.
+(4) The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or fuel additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of the motor vehicle,motor vehicle engine, nonroad engine or nonroad vehicle in which such device or system is used) to achieve compliance by the vehicle or engine with the emission standards with respect to which it has been certified pursuant to sections 7525 and 7547(a) of this title. The Administrator shall take final action to grant or deny an application submitted under this paragraph, after public notice and comment, within 270 days of the receipt of such an application.
 
 (5) No action of the Administrator under this section may be stayed by any court pending judicial review of such action.
 
@@ -290,7 +290,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (II) Applicability of other standards
 
-&emsp;&emsp;&emsp;&emsp;For any calendar year, the quantity of gasoline produced or distributed by a refiner or importer that is in excess of the quantity subject to subclause (I) shall be subject to standards for emissions oftoxic air pollutants promulgated under subparagraph (A) and paragraph (3)(B).
+&emsp;&emsp;&emsp;&emsp;For any calendar year, the quantity of gasoline produced or distributed by a refiner or importer that is in excess of the quantity subject to subclause (I) shall be subject to standards for emissions of toxic air pollutants promulgated under subparagraph (A) and paragraph (3)(B).
 
 #### (iv) Credit program
 
@@ -314,7 +314,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) promulgate revisions to the regulations promulgated under clause (ii), to take effect not earlier than 180 days but not later than 270 days after the date of promulgation, to provide that, notwithstanding clause (iii)(II), all reformulated gasoline produced or distributed at each refiner or importer shall meet the standards applicable under clause (iii)(I) beginning not later than April 1 of the calendar year following publication of the report under subclause (I) and in each calendar year thereafter.
 
-&emsp;&emsp;&emsp;(vi) Not later than July 1, 2007, the Administrator shall promulgate final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels, as provided for in section 80.1045 of title 40, Code of Federal Regulations (as in effect on August 8, 2005), and as authorized under section 7521(<i>l</i>) <sup>5</sup> of this title. If the Administrator promulgates by such date, final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels that achieve and maintain greater overall reductions in emissions of air toxics from reformulated gasoline than the reductions that would be achieved under subsection (k)(1)(B) of this section as amended by this clause, then subsections (k)(1)(B)(i) through (k)(1)(B)(v) of this section shall be null and void and regulations promulgated thereunder shall be rescinded and have no further effect.
+&emsp;&emsp;&emsp;(vi) Not later than July 1, 2007, the Administrator shall promulgate final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels, as provided for in section 80.1045 of title 40, Code of Federal Regulations (as in effect on August 8, 2005), and as authorized under section 7521(<i>l</i>) <sup>5</sup> of this title. If theAdministrator promulgates by such date, final regulations to control hazardous air pollutants from motor vehicles and motor vehicle fuels that achieve and maintain greater overall reductions in emissions of air toxics from reformulated gasoline than the reductions that would be achieved under subsection (k)(1)(B) of this section as amended by this clause, then subsections (k)(1)(B)(i) through (k)(1)(B)(v) of this section shall be null and void and regulations promulgated thereunder shall be rescinded and have no further effect.
 
 #### (2) General requirements
 
@@ -370,7 +370,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (A) Regulations
 
-&emsp;&emsp;The regulations under this subsection shall include procedures under which the Administrator shall certify reformulated gasoline as complying with the requirements established pursuant to this subsection. Under such regulations, the Administrator shall establish procedures for any person to petition the Administrator to certify a fuel formulation, or slate of fuel formulations. Such procedures shall further require that the Administrator shall approve or deny such petition within 180 days of receipt. If the Administrator fails to act within such 180-day period, the fuel shall be deemed certified until the Administrator completes action on the petition.
+&emsp;&emsp;The regulations under this subsection shall include procedures under which the Administrator shall certify reformulated gasoline as complying with the requirements established pursuant to this subsection. Under such regulations, the Administrator shall establish procedures for any person to petitionthe Administrator to certify a fuel formulation, or slate of fuel formulations. Such procedures shall further require that the Administrator shall approve or deny such petition within 180 days of receipt. If the Administrator fails to act within such 180-day period, the fuel shall be deemed certified until the Administrator completes action on the petition.
 
 #### (B) Certification; equivalency
 
@@ -400,7 +400,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon the application of the Governor of a State, the Administrator shall apply theprohibition set forth in paragraph (5) in any area in the State classified under subpart 2 of part D of subchapter I of this chapter as a Marginal, Moderate, Serious, or Severe Area (without regard to whether or not the 1980 population of the area exceeds 250,000). In any such case, the Administrator shall establish an effective date for such prohibition as he deems appropriate, not later than January 1, 1995, or 1 year after such application is received, whichever is later. The Administrator shall publish such application in the Federal Register upon receipt.
+&emsp;&emsp;&emsp;Upon the application of the Governor of a State, the Administrator shall apply the prohibition set forth in paragraph (5) in any area in the State classified under subpart 2 of part D of subchapter I of this chapter as a Marginal, Moderate, Serious, or Severe Area (without regard to whether or not the 1980 population of the area exceeds 250,000). In any such case, the Administrator shall establish an effective date for such prohibition as he deems appropriate, not later than January 1, 1995, or 1 year after such application is received, whichever is later. The Administrator shall publish such application in the Federal Register upon receipt.
 
 #### (ii) Effect of insufficient domestic capacity to produce reformulated gasoline
 
@@ -586,7 +586,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (<i>l</i>) Detergents
 
-Effective beginning January 1, 1995, no person may sell or dispense to an ultimate consumer inthe United States, and no refiner or marketer may directly or indirectly sell or dispense to persons who sell or dispense to ultimate consumers in the United States any gasoline which does not contain additives to prevent the accumulation of deposits in engines or fuel supply systems. Not later than 2 years after November 15, 1990, the Administrator shall promulgate a rule establishing specifications for such additives.
+Effective beginning January 1, 1995, no person may sell or dispense to an ultimate consumer in the United States, and no refiner or marketer may directly or indirectly sell or dispense to persons who sell or dispense to ultimate consumers in the United States any gasoline which does not contain additives to prevent the accumulation of deposits in engines or fuel supply systems. Not later than 2 years after November 15, 1990, the Administrator shall promulgate a rule establishing specifications for such additives.
 
 #### (m) Oxygenated fuels
 
@@ -604,7 +604,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;&emsp;(B) if the area is not located in a CMSA, the Metropolitan Statistical Area in which the area is located,
 
-> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. For areas with a carbon monoxide design value of 9.5 ppm or more of <sup>7</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the preceding provisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
+> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. Forareas with a carbon monoxide design value of 9.5 ppm or more of <sup>7</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the preceding provisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
 
 #### (3) Waivers
 
@@ -646,59 +646,87 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;In this section:
 
-#### (A) Cellulosic biomass ethanol
+#### (A) Additional renewable fuel
 
-&emsp;&emsp;The term “cellulosic biomass ethanol” means ethanol derived from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, including—
+&emsp;&emsp;The term “additional renewable fuel” means fuel that is produced from renewable biomass and that is used to replace or reduce the quantity of fossil fuel present in home heating oil or jet fuel.
 
-&emsp;&emsp;&emsp;(i) dedicated energy crops and trees;
-
-&emsp;&emsp;&emsp;(ii) wood and wood residues;
-
-&emsp;&emsp;&emsp;(iii) plants;
-
-&emsp;&emsp;&emsp;(iv) grasses;
-
-&emsp;&emsp;&emsp;(v) agricultural residues;
-
-&emsp;&emsp;&emsp;(vi) fibers;
-
-&emsp;&emsp;&emsp;(vii) animal wastes and other waste materials; and
-
-&emsp;&emsp;&emsp;(viii) municipal solid waste.
-
-> &emsp;&emsp;The term also includes any ethanol produced in facilities where animal wastes or other waste materials are digested or otherwise used to displace 90 percent or more of the fossil fuel normally used in the production of ethanol.
-
-#### (B) Waste derived ethanol
-
-&emsp;&emsp;The term “waste derived ethanol” means ethanol derived from—
-
-&emsp;&emsp;&emsp;(i) animal wastes, including poultry fats and poultry wastes, and other waste materials; or
-
-&emsp;&emsp;&emsp;(ii) municipal solid waste.
-
-#### (C) Renewable fuel
+#### (B) Advanced biofuel
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “renewable fuel” means motor vehicle fuel that—
+&emsp;&emsp;&emsp;The term “advanced biofuel” means renewable fuel, other than ethanol derivedfrom corn starch, that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than baseline lifecycle greenhouse gas emissions.
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) is produced from grain, starch, oilseeds, vegetable, animal, or fish materials including fats, greases, and oils, sugarcane, sugar beets, sugar components, tobacco, potatoes, or other biomass; or
+#### (ii) Inclusions
 
-&emsp;&emsp;&emsp;&emsp;(bb) is natural gas produced from a biogas source, including a landfill, sewage waste treatment plant, feedlot, or other place where decaying organic material is found; and
+&emsp;&emsp;&emsp;The types of fuels eligible for consideration as “advanced biofuel” may include any of the following:
 
-&emsp;&emsp;&emsp;&emsp;(II) is used to replace or reduce the quantity of fossil fuel present in a fuel mixture used to operate a motor vehicle.
+&emsp;&emsp;&emsp;&emsp;(I) Ethanol derived from cellulose, hemicellulose, or lignin.
 
-#### (ii) Inclusion
+&emsp;&emsp;&emsp;&emsp;(II) Ethanol derived from sugar or starch (other than corn starch).
 
-&emsp;&emsp;&emsp;The term “renewable fuel” includes—
+&emsp;&emsp;&emsp;&emsp;(III) Ethanol derived from waste material, including crop residue, other vegetative waste material, animal waste, and food waste and yard waste.
 
-&emsp;&emsp;&emsp;&emsp;(I) cellulosic biomass ethanol and “waste derived ethanol”; and
+&emsp;&emsp;&emsp;&emsp;(IV) Biomass-based diesel.
 
-&emsp;&emsp;&emsp;&emsp;(II) biodiesel (as defined in section 13220(f) of this title) and any blending components derived from renewable fuel (provided that only the renewable fuel portion of any such blending component shall be considered part of the applicable volume under the renewable fuel program established by this subsection).
+&emsp;&emsp;&emsp;&emsp;(V) Biogas (including landfill gas and sewage waste treatment gas) produced through the conversion of organic matter from renewable biomass.
 
-#### (D) Small refinery
+&emsp;&emsp;&emsp;&emsp;(VI) Butanol or other alcohols produced through the conversion of organic matter from renewable biomass.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Other fuel derived from cellulosic biomass.
+
+#### (C) Baseline lifecycle greenhouse gas emissions
+
+&emsp;&emsp;The term “baseline lifecycle greenhouse gas emissions” means the average lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, for gasoline or diesel (whichever is being replaced by the renewable fuel) sold or distributed as transportation fuel in 2005.
+
+#### (D) Biomass-based diesel
+
+&emsp;&emsp;The term “biomass-based diesel” means renewable fuel that is biodiesel as defined in section 13220(f) of this title and that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than the baseline lifecycle greenhouse gas emissions. Notwithstanding the preceding sentence, renewable fuel derived from co-processing biomass with a petroleum feedstock shall be advanced biofuel if it meets the requirements of subparagraph (B), but is not biomass-based diesel.
+
+#### (E) Cellulosic biofuel
+
+&emsp;&emsp;The term “cellulosic biofuel” means renewable fuel derived from any cellulose, hemicellulose, or lignin that is derived from renewable biomass and that has lifecycle greenhouse gas emissions, as determined by the Administrator, that are at least 60 percent less than the baseline lifecycle greenhouse gas emissions.
+
+#### (F) Conventional biofuel
+
+&emsp;&emsp;The term “conventional biofuel” means renewable fuel that is ethanol derived from corn starch.
+
+#### (G) Greenhouse gas
+
+&emsp;&emsp;The term “greenhouse gas” means carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons,<sup>9</sup> sulfur hexafluoride. The Administrator may include any other anthropogenically-emitted gas that is determined by the Administrator, after notice and comment, to contribute to global warming.
+
+#### (H) Lifecycle greenhouse gas emissions
+
+&emsp;&emsp;The term “lifecycle greenhouse gas emissions” means the aggregate quantity of greenhouse gas emissions (including direct emissions and significant indirect emissions such as significant emissions from land use changes), as determined by the Administrator, related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery and use of the finished fuel to the ultimate consumer, where the mass values for all greenhouse gases are adjusted to account for their relative global warming potential.
+
+#### (I) Renewable biomass
+
+&emsp;&emsp;The term “renewable biomass” means each of the following:
+
+&emsp;&emsp;&emsp;(i) Planted crops and crop residue harvested from agricultural land cleared or cultivated at any time prior to December 19, 2007, that is either actively managed or fallow, and nonforested.
+
+&emsp;&emsp;&emsp;(ii) Planted trees and tree residue from actively managed tree plantations on non-federal <sup>10</sup> land cleared at any time prior to December 19, 2007, including land belonging to an Indian tribe or an Indian individual, that is held in trust by the United States or subject to a restriction against alienation imposed by the United States.
+
+&emsp;&emsp;&emsp;(iii) Animal waste material and animal byproducts.
+
+&emsp;&emsp;&emsp;(iv) Slash and pre-commercial thinnings that are from non-federal <sup>10</sup> forestlands, including forestlands belonging to an Indian tribe or an Indian individual, that are held in trust by the United States or subject to a restriction against alienation imposed by the United States, but not forests or forestlands that are ecological communities with a global or State ranking of critically imperiled, imperiled, or rare pursuant to a State Natural Heritage Program, old growth forest, or late successional forest.
+
+&emsp;&emsp;&emsp;(v) Biomass obtained from the immediate vicinity of buildings and other areas regularly occupied by people, or of public infrastructure, at risk from wildfire.
+
+&emsp;&emsp;&emsp;(vi) Algae.
+
+&emsp;&emsp;&emsp;(vii) Separated yard waste or food waste, including recycled cooking and trap grease.
+
+#### (J) Renewable fuel
+
+&emsp;&emsp;The term “renewable fuel” means fuel that is produced from renewable biomass and that is used to replace or reduce the quantity of fossil fuel present in a transportation fuel.
+
+#### (K) Small refinery
 
 &emsp;&emsp;The term “small refinery” means a refinery for which the average aggregate daily crude oil throughput for a calendar year (as determined by dividing the aggregate throughput for the calendar year by the number of days in the calendar year) does not exceed 75,000 barrels.
+
+#### (L) Transportation fuel
+
+&emsp;&emsp;The term “transportation fuel” means fuel for use in motor vehicles, motor vehicle engines, nonroad vehicles, or nonroad engines (except for ocean-going vessels).
 
 #### (2) Renewable fuel program
 
@@ -706,7 +734,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 1 year after August 8, 2005, the Administrator shall promulgate regulations to ensure that gasoline sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains the applicable volume of renewable fuel determined in accordance with subparagraph (B).
+&emsp;&emsp;&emsp;Not later than 1 year after August 8, 2005, the Administrator shall promulgate regulations to ensure that gasoline sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains the applicable volume of renewable fuel determined in accordance with subparagraph (B). Not later than 1 year after December 19, 2007, the Administrator shall revise the regulations under this paragraph to ensure that transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains at least the applicable volume of renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based diesel, determined in accordance with subparagraph (B) and, in the case of any such renewable fuel produced from new facilities that commence construction after December 19, 2007, achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions.
 
 #### (ii) Noncontiguous State opt-in
 
@@ -742,63 +770,363 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;&emsp;&emsp;If the Administrator does not promulgate regulations under clause (i), the percentage of renewable fuel in gasoline sold or dispensed to consumers in the United States, on a volume basis, shall be 2.78 percent for calendar year 2006.
 
-#### (B) Applicable volume
+#### (B) Applicable volumes
 
-#### (i) Calendar years 2006 through 2012
+#### (i) Calendar years after 2005
 
-&emsp;&emsp;&emsp;For the purpose of subparagraph (A), the applicable volume for any of calendar years 2006 through 2012 shall be determined in accordance with the following table:
+#### (I) Renewable fuel
+
+&emsp;&emsp;&emsp;&emsp;For the purpose of subparagraph (A), the applicable volume of renewable fuel for the calendar years 2006 through 2022 shall be determined in accordance with the following table:
 
 &nbsp;
 
-| &nbsp;Calendar year: | Applicablevolume ofrenewablefuel(in billions ofgallons): |
-| :--- | ---: |
-| &nbsp;&nbsp;&nbsp;2006 | 4\.0&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2007 | 4\.7&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2008 | 5\.4&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2009 | 6\.1&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2010 | 6\.8&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2011 | 7\.4&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;2012 | 7\.5. |
+<b>Applicable</b>
 
-#### (ii) Calendar year 2013 and thereafter
+&nbsp;
 
-&emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), for the purposes of subparagraph (A), the applicable volume for calendar year 2013 and each calendar year thereafter shall be determined by the Administrator, in coordination with the Secretary of Agriculture and the Secretary of Energy, based on a review of the implementation of the program during calendar years 2006 through 2012, including a review of—
+<b>volume of</b>
 
-&emsp;&emsp;&emsp;&emsp;(I) the impact of the use of renewable fuels on the environment, air quality, energy security, job creation, and rural economic development; and
+&nbsp;
 
-&emsp;&emsp;&emsp;&emsp;(II) the expected annual rate of future production of renewable fuels, including cellulosic ethanol.
+<b>renewable</b>
 
-#### (iii) Minimum quantity derived from cellulosic biomass
+&nbsp;
 
-&emsp;&emsp;&emsp;For calendar year 2013 and each calendar year thereafter—
+<b>fuel</b>
 
-&emsp;&emsp;&emsp;&emsp;(I) the applicable volume referred to in clause (ii) shall contain a minimum of 250,000,000 gallons that are derived from cellulosic biomass; and
+<b>Calendar year:</b>
 
-&emsp;&emsp;&emsp;&emsp;(II) the 2.5-to-1 ratio referred to in paragraph (4) shall not apply.
+<b>(in billions of</b>
 
-#### (iv) Minimum applicable volume
+&nbsp;
 
-&emsp;&emsp;&emsp;For the purpose of subparagraph (A), the applicable volume for calendar year 2013 and each calendar year thereafter shall be equal to the product obtained by multiplying—
+<b>gallons):</b>
 
-&emsp;&emsp;&emsp;&emsp;(I) the number of gallons of gasoline that the Administrator estimates will be sold or introduced into commerce in the calendar year; and
+&nbsp;2006
 
-&emsp;&emsp;&emsp;&emsp;(II) the ratio that—
+4\.0
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 7,500,000,000 gallons of renewable fuel; bears to
+&nbsp;2007
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of gallons of gasoline sold or introduced into commerce in calendar year 2012.
+4\.7
+
+&nbsp;2008
+
+9\.0
+
+&nbsp;2009
+
+11\.1
+
+&nbsp;2010
+
+12\.95
+
+&nbsp;2011
+
+13\.95
+
+&nbsp;2012
+
+15\.2
+
+&nbsp;2013
+
+16\.55
+
+&nbsp;2014
+
+18\.15
+
+&nbsp;2015
+
+20\.5
+
+&nbsp;2016
+
+22\.25
+
+&nbsp;2017
+
+24\.0
+
+&nbsp;2018
+
+26\.0
+
+&nbsp;2019
+
+28\.0
+
+&nbsp;2020
+
+30\.0
+
+&nbsp;2021
+
+33\.0
+
+&nbsp;2022
+
+36\.0
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (II) Advanced biofuel
+
+&emsp;&emsp;&emsp;&emsp;For the purpose of subparagraph (A), of the volume of renewable fuel required under subclause (I), the applicable volume of advanced biofuel for the calendar years 2009 through 2022 shall be determined in accordance with the following table:
+
+&nbsp;
+
+<b>Applicable</b>
+
+&nbsp;
+
+<b>volume of</b>
+
+&nbsp;
+
+<b>advanced</b>
+
+&nbsp;
+
+<b>biofuel</b>
+
+<b>Calendar year:</b>
+
+<b>(in billions of</b>
+
+&nbsp;
+
+<b>gallons):</b>
+
+&nbsp;2009
+
+0\.6
+
+&nbsp;2010
+
+0\.95
+
+&nbsp;2011
+
+1\.35
+
+&nbsp;2012
+
+2\.0
+
+&nbsp;2013
+
+2\.75
+
+&nbsp;2014
+
+3\.75
+
+&nbsp;2015
+
+5\.5
+
+&nbsp;2016
+
+7\.25
+
+&nbsp;2017
+
+9\.0
+
+&nbsp;2018
+
+11\.0
+
+&nbsp;2019
+
+13\.0
+
+&nbsp;2020
+
+15\.0
+
+&nbsp;2021
+
+18\.0
+
+&nbsp;2022
+
+21\.0
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (III) Cellulosic biofuel
+
+&emsp;&emsp;&emsp;&emsp;For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of cellulosic biofuel for the calendar years 2010 through 2022 shall be determined in accordance with the following table:
+
+&nbsp;
+
+<b>Applicable</b>
+
+&nbsp;
+
+<b>volume of</b>
+
+&nbsp;
+
+<b>cellulosic</b>
+
+&nbsp;
+
+<b>biofuel</b>
+
+<b>Calendar year:</b>
+
+<b>(in billions of</b>
+
+&nbsp;
+
+<b>gallons):</b>
+
+&nbsp;2010
+
+0\.1
+
+&nbsp;2011
+
+0\.25
+
+&nbsp;2012
+
+0\.5
+
+&nbsp;2013
+
+1\.0
+
+&nbsp;2014
+
+1\.75
+
+&nbsp;2015
+
+3\.0
+
+&nbsp;2016
+
+4\.25
+
+&nbsp;2017
+
+5\.5
+
+&nbsp;2018
+
+7\.0
+
+&nbsp;2019
+
+8\.5
+
+&nbsp;2020
+
+10\.5
+
+&nbsp;2021
+
+13\.5
+
+&nbsp;2022
+
+16\.0
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (IV) Biomass-based diesel
+
+&emsp;&emsp;&emsp;&emsp;For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of biomass-based diesel for the calendar years 2009 through 2012 shall be determined in accordance with the following table:
+
+&nbsp;
+
+<b>Applicable</b>
+
+&nbsp;
+
+<b>volume of</b>
+
+&nbsp;
+
+<b>biomass-</b>
+
+&nbsp;
+
+<b>based diesel</b>
+
+<b>Calendar year:</b>
+
+<b>(in billions of</b>
+
+&nbsp;
+
+<b>gallons):</b>
+
+&nbsp;2009
+
+0\.5
+
+&nbsp;2010
+
+0\.65
+
+&nbsp;2011
+
+0\.80
+
+&nbsp;2012
+
+1\.0
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (ii) Other calendar years
+
+&emsp;&emsp;&emsp;For the purposes of subparagraph (A), the applicable volumes of each fuel specified in the tables in clause (i) for calendar years after the calendar years specified in the tables shall be determined by the Administrator, in coordination with the Secretary of Energy and the Secretary of Agriculture, based on a review of the implementation of the program during calendar years specified in the tables, and an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the impact of the production and use of renewable fuels on the environment, including on air quality, climate change, conversion of wetlands, ecosystems, wildlife habitat, water quality, and water supply;
+
+&emsp;&emsp;&emsp;&emsp;(II) the impact of renewable fuels on the energy security of the United States;
+
+&emsp;&emsp;&emsp;&emsp;(III) the expected annual rate of future commercial production of renewable fuels, including advanced biofuels in each category (cellulosic biofuel and biomass-based diesel);
+
+&emsp;&emsp;&emsp;&emsp;(IV) the impact of renewable fuels on the infrastructure of the United States, including deliverability of materials, goods, and products other than renewable fuel, and the sufficiency of infrastructure to deliver and use renewable fuel;
+
+&emsp;&emsp;&emsp;&emsp;(V) the impact of the use of renewable fuels on the cost to consumers of transportation fuel and on the cost to transport goods; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) the impact of the use of renewable fuels on other factors, including job creation, the price and supply of agricultural commodities, rural economic development, and food prices.
+
+&emsp;&emsp;&nbsp;The Administrator shall promulgate rules establishing the applicable volumes under this clause no later than 14 months before the first year for which such applicable volume will apply.
+
+#### (iii) Applicable volume of advanced biofuel
+
+&emsp;&emsp;&emsp;For the purpose of making the determinations in clause (ii), for each calendar year, the applicable volume of advanced biofuel shall be at least the same percentage of the applicable volume of renewable fuel as in calendar year 2022.
+
+#### (iv) Applicable volume of cellulosic biofuel
+
+&emsp;&emsp;&emsp;For the purpose of making the determinations in clause (ii), for each calendar year, the applicable volume of cellulosic biofuel established by the Administrator shall be based on the assumption that the Administrator will not need to issue a waiver for such years under paragraph (7)(D).
+
+#### (v) Minimum applicable volume of biomass-based diesel
+
+&emsp;&emsp;&emsp;For the purpose of making the determinations in clause (ii), the applicable volume of biomass-based diesel shall not be less than the applicable volume listed in clause (i)(IV) for calendar year 2012.
 
 #### (3) Applicable percentages
 
 #### (A) Provision of estimate of volumes of gasoline sales
 
-&emsp;&emsp;Not later than October 31 of each of calendar years 2005 through 2011, the Administrator of the Energy Information Administration shall provide to the Administrator of the Environmental Protection Agency an estimate, with respect to the following calendar year, of the volumes of gasoline projected to be sold or introduced into commerce in the United States.
+&emsp;&emsp;Not later than October 31 of each of calendar years 2005 through 2021, the Administrator of the Energy Information Administration shall provide to the Administrator of the Environmental Protection Agency an estimate, with respect to the following calendar year, of the volumes of transportation fuel, biomass-based diesel, and cellulosic biofuel projected to be sold or introduced into commerce in the United States.
 
 #### (B) Determination of applicable percentages
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than November 30 of each of calendar years 2005 through 2012, based on the estimate provided under subparagraph (A), the Administrator of the Environmental Protection Agency shall determine and publish in the Federal Register, with respect to the following calendar year, the renewable fuel obligation that ensures that the requirements of paragraph (2) are met.
+&emsp;&emsp;&emsp;Not later than November 30 of each of calendar years 2005 through 2021, based on the estimate provided under subparagraph (A), the Administrator of the Environmental Protection Agency shall determine and publish in the Federal Register, with respect to the following calendar year, the renewable fuel obligation that ensures that the requirements of paragraph (2) are met.
 
 #### (ii) Required elements
 
@@ -806,7 +1134,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;&emsp;&emsp;&emsp;(I) be applicable to refineries, blenders, and importers, as appropriate;
 
-&emsp;&emsp;&emsp;&emsp;(II) be expressed in terms of a volume percentage of gasoline sold or introduced into commerce in the United States; and
+&emsp;&emsp;&emsp;&emsp;(II) be expressed in terms of a volume percentage of transportation fuel sold or introduced into commerce in the United States; and
 
 &emsp;&emsp;&emsp;&emsp;(III) subject to subparagraph (C)(i), consist of a single applicable percentage that applies to all categories of persons specified in subclause (I).
 
@@ -818,9 +1146,35 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;&emsp;&emsp;(ii) to account for the use of renewable fuel during the previous calendar year by small refineries that are exempt under paragraph (9).
 
-#### (4) Cellulosic biomass ethanol or waste derived ethanol
+#### (4) Modification of greenhouse gas reduction percentages
 
-&emsp;For the purpose of paragraph (2), 1 gallon of cellulosic biomass ethanol or waste derived ethanol shall be considered to be the equivalent of 2.5 gallons of renewable fuel.
+#### (A) In general
+
+&emsp;&emsp;The Administrator may, in the regulations under the last sentence of paragraph (2)(A)(i), adjust the 20 percent, 50 percent, and 60 percent reductions in lifecycle greenhouse gas emissions specified in paragraphs (2)(A)(i) (relating to renewable fuel), (1)(D) (relating to biomass-based diesel), (1)(B)(i) (relating to advanced biofuel), and (1)(E) (relating to cellulosic biofuel) to a lower percentage. For the 50 and 60 percent reductions, the Administrator may make such an adjustment only if he determines that generally such reduction is not commercially feasible for fuels made using a variety of feedstocks, technologies, and processes to meet the applicable reduction.
+
+#### (B) Amount of adjustment
+
+&emsp;&emsp;In promulgating regulations under this paragraph, the specified 50 percent reduction in greenhouse gas emissions from advanced biofuel and in biomass-based diesel may not be reduced below 40 percent. The specified 20 percent reduction in greenhouse gas emissions from renewable fuel may not be reduced below 10 percent, and the specified 60 percent reduction in greenhouse gas emissions from cellulosic biofuel may not be reduced below 50 percent.
+
+#### (C) Adjusted reduction levels
+
+&emsp;&emsp;An adjustment under this paragraph to a percent less than the specified 20 percent greenhouse gas reduction for renewable fuel shall be the minimum possible adjustment, and the adjusted greenhouse gas reduction shall be established by the Administrator at the maximum achievable level, taking cost in consideration, for natural gas fired corn-based ethanol plants, allowing for the use of a variety of technologies and processes. An adjustment in the 50 or 60 percent greenhouse gas levels shall be the minimum possible adjustment for the fuel or fuels concerned, and the adjusted greenhouse gas reduction shall be established at the maximum achievable level, taking cost in consideration, allowing for the use of a variety of feedstocks, technologies, and processes.
+
+#### (D) 5-year review
+
+&emsp;&emsp;Whenever the Administrator makes any adjustment under this paragraph, not later than 5 years thereafter he shall review and revise (based upon the same criteria and standards as required for the initial adjustment) the regulations establishing the adjusted level.
+
+#### (E) Subsequent adjustments
+
+&emsp;&emsp;After the Administrator has promulgated a final rule under the last sentence of paragraph (2)(A)(i) with respect to the method of determining lifecycle greenhouse gas emissions, except as provided in subparagraph (D), the Administrator may not adjust the percent greenhouse gas reduction levels unless he determines that there has been a significant change in the analytical methodology used for determining the lifecycle greenhouse gas emissions. If he makes such determination, he may adjust the 20, 50, or 60 percent reduction levels through rulemaking using the criteria and standards set forth in this paragraph.
+
+#### (F) Limit on upward adjustments
+
+&emsp;&emsp;If, under subparagraph (D) or (E), the Administrator revises a percent level adjusted as provided in subparagraphs (A), (B), and (C) to a higher percent, such higher percent may not exceed the applicable percent specified in paragraph (2)(A)(i), (1)(D), (1)(B)(i), or (1)(E).
+
+#### (G) Applicability of adjustments
+
+&emsp;&emsp;If the Administrator adjusts, or revises, a percent level referred to in this paragraph or makes a change in the analytical methodology used for determining the lifecycle greenhouse gas emissions, such adjustment, revision, or change (or any combination thereof) shall only apply to renewable fuel from new facilities that commence construction after the effective date of such adjustment, revision, or change.
 
 #### (5) Credit program
 
@@ -849,6 +1203,10 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 &emsp;&emsp;&emsp;(i) achieves compliance with the renewable fuel requirement under paragraph (2); and
 
 &emsp;&emsp;&emsp;(ii) generates or purchases additional renewable fuel credits to offset the renewable fuel deficit of the previous year.
+
+#### (E) Credits for additional renewable fuel
+
+&emsp;&emsp;The Administrator may issue regulations providing: (i) for the generation of an appropriate amount of credits by any person that refines, blends, or imports additional renewable fuels specified by the Administrator; and (ii) for the use of such credits by the generator, or the transfer of all or a portion of the credits to another person, for the purpose of complying with paragraph (2).
 
 #### (6) Seasonal variations in renewable fuel use
 
@@ -890,7 +1248,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator, in consultation with the Secretary of Agriculture and the Secretary of Energy, may waive the requirements of paragraph (2) in whole or in part on petition by one or more States by reducing the national quantity of renewable fuel required under paragraph (2)—
+&emsp;&emsp;The Administrator, in consultation with the Secretary of Agriculture and the Secretary of Energy, may waive the requirements of paragraph (2) in whole or in part on petition by one or more States, by any person subject to the requirements of this subsection, or by the Administrator on his own motion by reducing the national quantity of renewable fuel required under paragraph (2)—
 
 &emsp;&emsp;&emsp;(i) based on a determination by the Administrator, after public notice and opportunity for comment, that implementation of the requirement would severely harm the economy or environment of a State, a region, or the United States; or
 
@@ -898,17 +1256,49 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (B) Petitions for waivers
 
-&emsp;&emsp;The Administrator, in consultation with the Secretary of Agriculture and the Secretary of Energy, shall approve or disapprove a State petition for a waiver of the requirements of paragraph (2) within 90 days after the date on which the petition is received by the Administrator.
+&emsp;&emsp;The Administrator, in consultation with the Secretary of Agriculture and the Secretary of Energy, shall approve or disapprove a petition for a waiver of the requirements of paragraph (2) within 90 days after the date on which the petition is received by the Administrator.
 
 #### (C) Termination of waivers
 
 &emsp;&emsp;A waiver granted under subparagraph (A) shall terminate after 1 year, but may be renewed by the Administrator after consultation with the Secretary of Agriculture and the Secretary of Energy.
 
+#### (D) Cellulosic biofuel
+
+&emsp;&emsp;(i) For any calendar year for which the projected volume of cellulosic biofuel production is less than the minimum applicable volume established under paragraph (2)(B), as determined by the Administrator based on the estimate provided under paragraph (3)(A), not later than November 30 of the preceding calendar year, the Administrator shall reduce the applicable volume of cellulosic biofuel required under paragraph (2)(B) to the projected volume available during that calendar year. For any calendar year in which the Administrator makes such a reduction, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.
+
+&emsp;&emsp;(ii) Whenever the Administrator reduces the minimum cellulosic biofuel volume under this subparagraph, the Administrator shall make available for sale cellulosic biofuel credits at the higher of $0.25 per gallon or the amount by which $3.00 per gallon exceeds the average wholesale price of a gallon of gasoline in the United States. Such amounts shall be adjusted for inflation by the Administrator for years after 2008.
+
+&emsp;&emsp;(iii) Eighteen months after December 19, 2007, the Administrator shall promulgate regulations to govern the issuance of credits under this subparagraph. The regulations shall set forth the method for determining the exact price of credits in the event of a waiver. The price of such credits shall not be changed more frequently than once each quarter. These regulations shall include such provisions, including limiting the credits’ uses and useful life, as the Administrator deems appropriate to assist market liquidity and transparency, to provide appropriate certainty for regulated entities and renewable fuel producers, and to limit any potential misuse of cellulosic biofuel credits to reduce the use of other renewable fuels, and for such other purposes as the Administrator determines will help achieve the goals of this subsection. The regulations shall limit the number of cellulosic biofuel credits for any calendar year to the minimum applicable volume (as reduced under this subparagraph) of cellulosic biofuel for that year.
+
+#### (E) Biomass-based diesel
+
+#### (i) Market evaluation
+
+&emsp;&emsp;&emsp;The Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, shall periodically evaluate the impact of the biomass-based diesel requirements established under this paragraph on the price of diesel fuel.
+
+#### (ii) Waiver
+
+&emsp;&emsp;&emsp;If the Administrator determines that there is a significant renewable feedstock disruption or other market circumstances that would make the price of biomass-based diesel fuel increase significantly, the Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, shall issue an order to reduce, for up to a 60-day period, the quantity of biomass-based diesel required under subparagraph (A) by an appropriate quantity that does not exceed 15 percent of the applicable annual requirement for biomass-based diesel. For any calendar year in which the Administrator makes a reduction under this subparagraph, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.
+
+#### (iii) Extensions
+
+&emsp;&emsp;&emsp;If the Administrator determines that the feedstock disruption or circumstances described in clause (ii) is continuing beyond the 60-day period described in clause (ii) or this clause, the Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, may issue an order to reduce, for up to an additional 60-day period, the quantity of biomass-based diesel required under subparagraph (A) by an appropriate quantity that does not exceed an additional 15 percent of the applicable annual requirement for biomass-based diesel.
+
+#### (F) Modification of applicable volumes
+
+&emsp;&emsp;For any of the tables in paragraph (2)(B), if the Administrator waives—
+
+&emsp;&emsp;&emsp;(i) at least 20 percent of the applicable volume requirement set forth in any such table for 2 consecutive years; or
+
+&emsp;&emsp;&emsp;(ii) at least 50 percent of such volume requirement for a single year,
+
+> &emsp;&emsp;the Administrator shall promulgate a rule (within 1 year after issuing such waiver) that modifies the applicable volumes set forth in the table concerned for all years following the final year to which the waiver applies, except that no such modification in applicable volumes shall be made for any year before 2016. In promulgating such a rule, the Administrator shall comply with the processes, criteria, and standards set forth in paragraph (2)(B)(ii).
+
 #### (8) Study and waiver for initial year of program
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after August 8, 2005, the Secretary of Energy shall conduct for the Administrator a study assessing whether the renewable fuel requirement under paragraph (2) will likely result in significant adverse impacts on consumers in 2006, on a national, regional, or State basis.
+&emsp;&emsp;Not later than 180 days after August 8, 2005, the Secretary of Energy shall conductfor the Administrator a study assessing whether the renewable fuel requirement under paragraph (2) will likely result in significant adverse impacts on consumers in 2006, on a national, regional, or State basis.
 
 #### (B) Required evaluations
 
@@ -980,7 +1370,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 180 days after August 8, 2005, and annually thereafter, the FederalTrade Commission shall perform a market concentration analysis of the ethanol production industry using the Herfindahl-Hirschman Index to determine whether there is sufficient competition among industry participants to avoid price-setting and other anticompetitive behavior.
+&emsp;&emsp;&emsp;Not later than 180 days after August 8, 2005, and annually thereafter, the Federal Trade Commission shall perform a market concentration analysis of the ethanol production industry using the Herfindahl-Hirschman Index to determine whether there is sufficient competition among industry participants to avoid price-setting and other anticompetitive behavior.
 
 #### (ii) Scoring
 
@@ -990,7 +1380,21 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;&emsp;Not later than December 1, 2005, and annually thereafter, the Federal Trade Commission shall submit to Congress and the Administrator a report on the results of the market concentration analysis performed under subparagraph (A)(i).
 
-#### (q) <sup>9</sup> Analyses of motor vehicle fuel changes and emissions model
+#### (11) Periodic reviews
+
+&emsp;To allow for the appropriate adjustment of the requirements described in subparagraph (B) of paragraph (2), the Administrator shall conduct periodic reviews of—
+
+&emsp;&emsp;(A) existing technologies;
+
+&emsp;&emsp;(B) the feasibility of achieving compliance with the requirements; and
+
+&emsp;&emsp;(C) the impacts of the requirements described in subsection (a)(2) <sup>11</sup> on each individual and entity described in paragraph (2).
+
+#### (12) Effect on other provisions
+
+&emsp;Nothing in this subsection, or regulations issued pursuant to this subsection, shall affect or be construed to affect the regulatory status of carbon dioxide or any other greenhouse gas, or to expand or limit regulatory authority regarding carbon dioxide or any other greenhouse gas, for purposes of other provisions (including section 7475) of this chapter. The previous sentence shall not affect implementation and enforcement of this subsection.
+
+#### (q) <sup>12</sup> Analyses of motor vehicle fuel changes and emissions model
 
 #### (1) Anti-backsliding analysis
 
@@ -1056,7 +1460,7 @@ For the purposes of this section, the term “manufacturer” includes an import
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (h) and (k) of this section and subject to the limitations in paragraph (2) of this subsection, it shall not be a violation of this part <sup>10</sup> for a gasoline retailer, during any month of the year, to blend at a retail location batches of ethanol-blended and non-ethanol-blended reformulated gasoline, provided that—
+&emsp;Notwithstanding subsections (h) and (k) of this section and subject to the limitations in paragraph (2) of this subsection, it shall not be a violation of this part <sup>13</sup> for a gasoline retailer, during any month of the year, to blend at a retail location batches of ethanol-blended and non-ethanol-blended reformulated gasoline, provided that—
 
 &emsp;&emsp;(A) each batch of gasoline to be blended has been individually certified as in compliance with subsections (h) and (k) of this section prior to being blended;
 
@@ -1146,542 +1550,6 @@ For the purposes of this section, the term “manufacturer” includes an import
 
 (July 14, 1955, ch. 360, title II, §211, formerly §210, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 502; renumbered and amended Pub. L. 91–604, §§8(a), 9(a), Dec. 31, 1970, 84 Stat. 1694, 1698; Pub. L. 92–157, title III, §302(d), (e), Nov. 18, 1971, 85 Stat. 464; Pub. L. 95–95, title II, §§222, 223, title IV, §401(e), Aug. 7, 1977, 91 Stat. 762, 764, 791; Pub. L. 95–190, §14(a)(73), (74), Nov. 16, 1977, 91 Stat. 1403, 1404; Pub. L. 101–549, title II, §§212–221, 228(d), Nov. 15, 1990, 104 Stat. 2488–2500, 2510; Pub. L. 109–58, title XV, §§1501(a)–(c), 1504(a)(1), (b), 1505–1507, 1512, 1513, 1541(a), (b), Aug. 8, 2005, 119 Stat. 1067–1074, 1076, 1077, 1080, 1081, 1088, 1089, 1106, 1107; Pub. L. 110–140, title II, §§201, 202, 203(f), 208, 209, 210(b), 247, 251, Dec. 19, 2007, 121 Stat. 1519, 1521, 1529, 1531, 1532, 1547, 1548.)
 
-#### Amendment of Subsection (<i>o</i>)
-
-<i>Pub. L. 110–140, title II, §§201, 202, 203(f), 210, Dec. 19, 2007, 121 Stat. 1519, 1521, 1529, 1532, provided that, effective Jan. 1, 2009, subsection (o) of this section is amended as follows:</i>
-
-<i>(1) by amending paragraph (1) to read as follows:</i>
-
-#### <i>“(1) Definitions</i>
-
-&emsp;<i>“In this section:</i>
-
-#### <i>“(A) Additional renewable fuel</i>
-
-&emsp;&emsp;<i>“The term ‘additional renewable fuel’ means fuel that is produced from renewable biomass and that is used to replace or reduce the quantity of fossil fuel present in home heating oil or jet fuel.</i>
-
-#### <i>“(B) Advanced biofuel</i>
-
-#### <i>“(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>“The term ‘advanced biofuel’ means renewable fuel, other than ethanol derived from corn starch, that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than baseline lifecycle greenhouse gas emissions.</i>
-
-#### <i>“(ii) Inclusions</i>
-
-&emsp;&emsp;&emsp;<i>“The types of fuels eligible for consideration as ‘advanced biofuel’ may include any of the following:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) Ethanol derived from cellulose, hemicellulose, or lignin.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) Ethanol derived from sugar or starch (other than corn starch).</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(III) Ethanol derived from waste material, including crop residue, other vegetative waste material, animal waste, and food waste and yard waste.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(IV) Biomass-based diesel.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(V) Biogas (including landfill gas and sewage waste treatment gas) produced through the conversion of organic matter from renewable biomass.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(VI) Butanol or other alcohols produced through the conversion of organic matter from renewable biomass.</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(VII) Other fuel derived from cellulosic biomass.</i>
-
-#### <i>“(C) Baseline lifecycle greenhouse gas emissions</i>
-
-&emsp;&emsp;<i>“The term ‘baseline lifecycle greenhouse gas emissions’ means the average lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, for gasoline or diesel (whichever is being replaced by the renewable fuel) sold or distributed as transportation fuel in 2005.</i>
-
-#### <i>“(D) Biomass-based diesel</i>
-
-&emsp;&emsp;<i>“The term ‘biomass-based diesel’ means renewable fuel that is biodiesel as defined in section 13220(f) of this title and that has lifecycle greenhouse gas emissions, as determined by the Administrator, after notice and opportunity for comment, that are at least 50 percent less than the baseline lifecycle greenhouse gas emissions. Notwithstanding the preceding sentence, renewable fuel derived from co-processing biomass with a petroleum feedstock shall be advanced biofuel if it meets the requirements of subparagraph (B), but is not biomass-based diesel.</i>
-
-#### <i>“(E) Cellulosic biofuel</i>
-
-&emsp;&emsp;<i>“The term ‘cellulosic biofuel’ means renewable fuel derived from any cellulose, hemicellulose, or lignin that is derived from renewable biomass and that has lifecycle greenhouse gas emissions, as determined by the Administrator, that are at least 60 percent less than the baseline lifecycle greenhouse gas emissions.</i>
-
-#### <i>“(F) Conventional biofuel</i>
-
-&emsp;&emsp;<i>“The term ‘conventional biofuel’ means renewable fuel that is ethanol derived from corn starch.</i>
-
-#### <i>“(G) Greenhouse gas</i>
-
-&emsp;&emsp;<i>“The term ‘greenhouse gas’ means carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons,\[sic\] sulfur hexafluoride. The Administrator may include any other anthropogenically-emitted gas that is determined by the Administrator, after notice and comment, to contribute to global warming.</i>
-
-#### <i>“(H) Lifecycle greenhouse gas emissions</i>
-
-&emsp;&emsp;<i>“The term ‘lifecycle greenhouse gas emissions’ means the aggregate quantity of greenhouse gas emissions (including direct emissions and significant indirect emissions such as significant emissions from land use changes), as determined by the Administrator, related to the full fuel lifecycle, including all stages of fuel and feedstock production and distribution, from feedstock generation or extraction through the distribution and delivery and use of the finished fuel to the ultimate consumer, where the mass values for all greenhouse gases are adjusted to account for their relative global warming potential.</i>
-
-#### <i>“(I) Renewable biomass</i>
-
-&emsp;&emsp;<i>“The term ‘renewable biomass’ means each of the following:</i>
-
-&emsp;&emsp;&emsp;<i>“(i) Planted crops and crop residue harvested from agricultural land cleared or cultivated at any time prior to December 19, 2007, that is either actively managed or fallow, and nonforested.</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) Planted trees and tree residue from actively managed tree plantations on non-federal land cleared at any time prior to December 19, 2007, including land belonging to an Indian tribe or an Indian individual, that is held in trust by the United States or subject to a restriction against alienation imposed by the United States.</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) Animal waste material and animal byproducts.</i>
-
-&emsp;&emsp;&emsp;<i>“(iv) Slash and pre-commercial thinnings that are from non-federal forestlands, including forestlands belonging to an Indian tribe or an Indian individual, that are held in trust by the United States or subject to a restriction against alienation imposed by the United States, but not forests or forestlands that are ecological communities with a global or State ranking of critically imperiled, imperiled, or rare pursuant to a State Natural Heritage Program, old growth forest, or late successional forest.</i>
-
-&emsp;&emsp;&emsp;<i>“(v) Biomass obtained from the immediate vicinity of buildings and other areas regularly occupied by people, or of public infrastructure, at risk from wildfire.</i>
-
-&emsp;&emsp;&emsp;<i>“(vi) Algae.</i>
-
-&emsp;&emsp;&emsp;<i>“(vii) Separated yard waste or food waste, including recycled cooking and trap grease.</i>
-
-#### <i>“(J) Renewable fuel</i>
-
-&emsp;&emsp;<i>“The term ‘renewable fuel’ means fuel that is produced from renewable biomass and that is used to replace or reduce the quantity of fossil fuel present in a transportation fuel.</i>
-
-#### <i>“(K) Small refinery</i>
-
-&emsp;&emsp;<i>“The term ‘small refinery’ means a refinery for which the average aggregate daily crude oil throughput for a calendar year (as determined by dividing the aggregate throughput for the calendar year by the number of days in the calendar year) does not exceed 75,000 barrels.</i>
-
-#### <i>“(L) Transportation fuel</i>
-
-&emsp;&emsp;<i>“The term ‘transportation fuel’ means fuel for use in motor vehicles, motor vehicle engines, nonroad vehicles, or nonroad engines (except for ocean-going vessels).”;</i>
-
-<i>(2) in paragraph (2)(A)(i), by inserting at end: “Not later than 1 year after December 19, 2007, the Administrator shall revise the regulations under this paragraph to ensure that transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains at least the applicable volume of renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based diesel, determined in accordance with subparagraph (B) and, in the case of any such renewable fuel produced from new facilities that commence construction after December 19, 2007, achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions.”;</i>
-
-<i>(3) in paragraph (2), by amending subparagraph (B) to read as follows:</i>
-
-#### <i>“(B) Applicable volumes</i>
-
-#### <i>“(i) Calendar years after 2005</i>
-
-#### <i>“(I) Renewable fuel</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“For the purpose of subparagraph (A), the applicable volume of renewable fuel for the calendar years 2006 through 2022 shall be determined in accordance with the following table:</i>
-
-&nbsp;
-
-<b><i>Applicable</i></b>
-
-&nbsp;
-
-<b><i>volume of</i></b>
-
-&nbsp;
-
-<b><i>renewable</i></b>
-
-&nbsp;
-
-<b><i>fuel</i></b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>“Calendar year:</i></b>
-
-<b><i>(in billions of</i></b>
-
-&nbsp;
-
-<b><i>gallons):</i></b>
-
-<i>       2006</i>
-
-<i>4.0</i>
-
-<i>       2007</i>
-
-<i>4.7</i>
-
-<i>       2008</i>
-
-<i>9.0</i>
-
-<i>       2009</i>
-
-<i>11.1</i>
-
-<i>       2010</i>
-
-<i>12.95</i>
-
-<i>       2011</i>
-
-<i>13.95</i>
-
-<i>       2012</i>
-
-<i>15.2</i>
-
-<i>       2013</i>
-
-<i>16.55</i>
-
-<i>       2014</i>
-
-<i>18.15</i>
-
-<i>       2015</i>
-
-<i>20.5</i>
-
-<i>       2016</i>
-
-<i>22.25</i>
-
-<i>       2017</i>
-
-<i>24.0</i>
-
-<i>       2018</i>
-
-<i>26.0</i>
-
-<i>       2019</i>
-
-<i>28.0</i>
-
-<i>       2020</i>
-
-<i>30.0</i>
-
-<i>       2021</i>
-
-<i>33.0</i>
-
-<i>       2022</i>
-
-<i>36.0</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### <i>“(II) Advanced biofuel</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“For the purpose of subparagraph (A), of the volume of renewable fuel required under subclause (I), the applicable volume of advanced biofuel for the calendar years 2009 through 2022 shall be determined in accordance with the following table:</i>
-
-&nbsp;
-
-<b><i>Applicable</i></b>
-
-&nbsp;
-
-<b><i>volume of</i></b>
-
-&nbsp;
-
-<b><i>advanced</i></b>
-
-&nbsp;
-
-<b><i>biofuel</i></b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>“Calendar year:</i></b>
-
-<b><i>(in billions of</i></b>
-
-&nbsp;
-
-<b><i>gallons):</i></b>
-
-<i>       2009</i>
-
-<i>0.6</i>
-
-<i>       2010</i>
-
-<i>0.95</i>
-
-<i>       2011</i>
-
-<i>1.35</i>
-
-<i>       2012</i>
-
-<i>2.0</i>
-
-<i>       2013</i>
-
-<i>2.75</i>
-
-<i>       2014</i>
-
-<i>3.75</i>
-
-<i>       2015</i>
-
-<i>5.5</i>
-
-<i>       2016</i>
-
-<i>7.25</i>
-
-<i>       2017</i>
-
-<i>9.0</i>
-
-<i>       2018</i>
-
-<i>11.0</i>
-
-<i>       2019</i>
-
-<i>13.0</i>
-
-<i>       2020</i>
-
-<i>15.0</i>
-
-<i>       2021</i>
-
-<i>18.0</i>
-
-<i>       2022</i>
-
-<i>21.0</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### <i>“(III) Cellulosic biofuel</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of cellulosic biofuel for the calendar years 2010 through 2022 shall be determined in accordance with the following table:</i>
-
-&nbsp;
-
-<b><i>Applicable</i></b>
-
-&nbsp;
-
-<b><i>volume of</i></b>
-
-&nbsp;
-
-<b><i>cellulosic</i></b>
-
-&nbsp;
-
-<b><i>biofuel</i></b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>“Calendar year:</i></b>
-
-<b><i>(in billions of</i></b>
-
-&nbsp;
-
-<b><i>gallons):</i></b>
-
-<i>       2010</i>
-
-<i>0.1</i>
-
-<i>       2011</i>
-
-<i>0.25</i>
-
-<i>       2012</i>
-
-<i>0.5</i>
-
-<i>       2013</i>
-
-<i>1.0</i>
-
-<i>       2014</i>
-
-<i>1.75</i>
-
-<i>       2015</i>
-
-<i>3.0</i>
-
-<i>       2016</i>
-
-<i>4.25</i>
-
-<i>       2017</i>
-
-<i>5.5</i>
-
-<i>       2018</i>
-
-<i>7.0</i>
-
-<i>       2019</i>
-
-<i>8.5</i>
-
-<i>       2020</i>
-
-<i>10.5</i>
-
-<i>       2021</i>
-
-<i>13.5</i>
-
-<i>       2022</i>
-
-<i>16.0</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### <i>“(IV) Biomass-based diesel</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“For the purpose of subparagraph (A), of the volume of advanced biofuel required under subclause (II), the applicable volume of biomass-based diesel for the calendar years 2009 through 2012 shall be determined in accordance with the following table:</i>
-
-&nbsp;
-
-<b><i>Applicable</i></b>
-
-&nbsp;
-
-<b><i>volume of</i></b>
-
-&nbsp;
-
-<b><i>biomass-</i></b>
-
-&nbsp;
-
-<b><i>based diesel</i></b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>“Calendar year:</i></b>
-
-<b><i>(in billions of</i></b>
-
-&nbsp;
-
-<b><i>gallons):</i></b>
-
-<i>       2009</i>
-
-<i>0.5</i>
-
-<i>       2010</i>
-
-<i>0.65</i>
-
-<i>       2011</i>
-
-<i>0.80</i>
-
-<i>       2012</i>
-
-<i>1.0</i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### <i>“(ii) Other calendar years</i>
-
-&emsp;&emsp;&emsp;<i>“For the purposes of subparagraph (A), the applicable volumes of each fuel specified in the tables in clause (i) for calendar years after the calendar years specified in the tables shall be determined by the Administrator, in coordination with the Secretary of Energy and the Secretary of Agriculture, based on a review of the implementation of the program during calendar years specified in the tables, and an analysis of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) the impact of the production and use of renewable fuels on the environment, including on air quality, climate change, conversion of wetlands, ecosystems, wildlife habitat, water quality, and water supply;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) the impact of renewable fuels on the energy security of the United States;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(III) the expected annual rate of future commercial production of renewable fuels, including advanced biofuels in each category (cellulosic biofuel and biomass-based diesel);</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(IV) the impact of renewable fuels on the infrastructure of the United States, including deliverability of materials, goods, and products other than renewable fuel, and the sufficiency of infrastructure to deliver and use renewable fuel;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(V) the impact of the use of renewable fuels on the cost to consumers of transportation fuel and on the cost to transport goods; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(VI) the impact of the use of renewable fuels on other factors, including job creation, the price and supply of agricultural commodities, rural economic development, and food prices.</i>
-
-&emsp;&emsp;<i> The Administrator shall promulgate rules establishing the applicable volumes under this clause no later than 14 months before the first year for which such applicable volume will apply.</i>
-
-#### <i>“(iii) Applicable volume of advanced biofuel</i>
-
-&emsp;&emsp;&emsp;<i>“For the purpose of making the determinations in clause (ii), for each calendar year, the applicable volume of advanced biofuel shall be at least the same percentage of the applicable volume of renewable fuel as in calendar year 2022.</i>
-
-#### <i>“(iv) Applicable volume of cellulosic biofuel</i>
-
-&emsp;&emsp;&emsp;<i>“For the purpose of making the determinations in clause (ii), for each calendar year, the applicable volume of cellulosic biofuel established by the Administrator shall be based on the assumption that the Administrator will not need to issue a waiver for such years under paragraph (7)(D).</i>
-
-#### <i>“(v) Minimum applicable volume of biomass-based diesel</i>
-
-&emsp;&emsp;&emsp;<i>“For the purpose of making the determinations in clause (ii), the applicable volume of biomass-based diesel shall not be less than the applicable volume listed in clause (i)(IV) for calendar year 2012.”;</i>
-
-<i>(4) in paragraph (3)(A), by substituting “2021” for “2011” and “transportation fuel, biomass-based diesel, and cellulosic biofuel” for “gasoline”;</i>
-
-<i>(5) in paragraph (3)(B), by substituting “2021” for “2012” in clause (i) and “transportation fuel” for “gasoline” in clause (ii)(II);</i>
-
-<i>(6) by amending paragraph (4) to read as follows:</i>
-
-#### <i>“(4) Modification of greenhouse gas reduction percentages</i>
-
-#### <i>“(A) In general</i>
-
-&emsp;&emsp;<i>“The Administrator may, in the regulations under the last sentence of paragraph (2)(A)(i), adjust the 20 percent, 50 percent, and 60 percent reductions in lifecycle greenhouse gas emissions specified in paragraphs (2)(A)(i) (relating to renewable fuel), (1)(D) (relating to biomass-based diesel), (1)(B)(i) (relating to advanced biofuel), and (1)(E) (relating to cellulosic biofuel) to a lower percentage. For the 50 and 60 percent reductions, the Administrator may make such an adjustment only if he determines that generally such reduction is not commercially feasible for fuels made using a variety of feedstocks, technologies, and processes to meet the applicable reduction.</i>
-
-#### <i>“(B) Amount of adjustment</i>
-
-&emsp;&emsp;<i>“In promulgating regulations under this paragraph, the specified 50 percent reduction in greenhouse gas emissions from advanced biofuel and in biomass-based diesel may not be reduced below 40 percent. The specified 20 percent reduction in greenhouse gas emissions from renewable fuel may not be reduced below 10 percent, and the specified 60 percent reduction in greenhouse gas emissions from cellulosic biofuel may not be reduced below 50 percent.</i>
-
-#### <i>“(C) Adjusted reduction levels</i>
-
-&emsp;&emsp;<i>“An adjustment under this paragraph to a percent less than the specified 20 percent greenhouse gas reduction for renewable fuel shall be the minimum possible adjustment, and the adjusted greenhouse gas reduction shall be established by the Administrator at the maximum achievable level, taking cost in consideration, for natural gas fired corn-based ethanol plants, allowing for the use of a variety of technologies and processes. An adjustment in the 50 or 60 percent greenhouse gas levels shall be the minimum possible adjustment for the fuel or fuels concerned, and the adjusted greenhouse gas reduction shall be established at the maximum achievable level, taking cost in consideration, allowing for the use of a variety of feedstocks, technologies, and processes.</i>
-
-#### <i>“(D) 5-year review</i>
-
-&emsp;&emsp;<i>“Whenever the Administrator makes any adjustment under this paragraph, not later than 5 years thereafter he shall review and revise (based upon the same criteria and standards as required for the initial adjustment) the regulations establishing the adjusted level.</i>
-
-#### <i>“(E) Subsequent adjustments</i>
-
-&emsp;&emsp;<i>“After the Administrator has promulgated a final rule under the last sentence of paragraph (2)(A)(i) with respect to the method of determining lifecycle greenhouse gas emissions, except as provided in subparagraph (D), the Administrator may not adjust the percent greenhouse gas reduction levels unless he determines that there has been a significant change in the analytical methodology used for determining the lifecycle greenhouse gas emissions. If he makes such determination, he may adjust the 20, 50, or 60 percent reduction levels through rulemaking using the criteria and standards set forth in this paragraph.</i>
-
-#### <i>“(F) Limit on upward adjustments</i>
-
-&emsp;&emsp;<i>“If, under subparagraph (D) or (E), the Administrator revises a percent level adjusted as provided in subparagraphs (A), (B), and (C) to a higher percent, such higher percent may not exceed the applicable percent specified in paragraph (2)(A)(i), (1)(D), (1)(B)(i), or (1)(E).</i>
-
-#### <i>“(G) Applicability of adjustments</i>
-
-&emsp;&emsp;<i>“If the Administrator adjusts, or revises, a percent level referred to in this paragraph or makes a change in the analytical methodology used for determining the lifecycle greenhouse gas emissions, such adjustment, revision, or change (or any combination thereof) shall only apply to renewable fuel from new facilities that commence construction after the effective date of such adjustment, revision, or change.”;</i>
-
-<i>(7) in paragraph (5), by adding subparagraph (E) at end to read as follows:</i>
-
-#### <i>“(E) Credits for additional renewable fuel</i>
-
-&emsp;&emsp;<i>“The Administrator may issue regulations providing: (i) for the generation of an appropriate amount of credits by any person that refines, blends, or imports additional renewable fuels specified by the Administrator; and (ii) for the use of such credits by the generator, or the transfer of all or a portion of the credits to another person, for the purpose of complying with paragraph (2).”;</i>
-
-<i>(8) in paragraph (7), in subparagraph (A), by inserting “, by any person subject to the requirements of this subsection, or by the Administrator on his own motion” after “one or more States”, and in subparagraph (B), by striking out “State”;</i>
-
-<i>(9) in paragraph (7), by adding subparagraphs (D) to (F) at end to read as follows:</i>
-
-#### <i>“(D) Cellulosic biofuel</i>
-
-&emsp;&emsp;<i>“(i) For any calendar year for which the projected volume of cellulosic biofuel production is less than the minimum applicable volume established under paragraph (2)(B), as determined by the Administrator based on the estimate provided under paragraph (3)(A), not later than November 30 of the preceding calendar year, the Administrator shall reduce the applicable volume of cellulosic biofuel required under paragraph (2)(B) to the projected volume available during that calendar year. For any calendar year in which the Administrator makes such a reduction, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.</i>
-
-&emsp;&emsp;<i>“(ii) Whenever the Administrator reduces the minimum cellulosic biofuel volume under this subparagraph, the Administrator shall make available for sale cellulosic biofuel credits at the higher of $0.25 per gallon or the amount by which $3.00 per gallon exceeds the average wholesale price of a gallon of gasoline in the United States. Such amounts shall be adjusted for inflation by the Administrator for years after 2008.</i>
-
-&emsp;&emsp;<i>“(iii) Eighteen months after December 19, 2007, the Administrator shall promulgate regulations to govern the issuance of credits under this subparagraph. The regulations shall set forth the method for determining the exact price of credits in the event of a waiver. The price of such credits shall not be changed more frequently than once each quarter. These regulations shall include such provisions, including limiting the credits’ uses and useful life, as the Administrator deems appropriate to assist market liquidity and transparency, to provide appropriate certainty for regulated entities and renewable fuel producers, and to limit any potential misuse of cellulosic biofuel credits to reduce the use of other renewable fuels, and for such other purposes as the Administrator determines will help achieve the goals of this subsection. The regulations shall limit the number of cellulosic biofuel credits for any calendar year to the minimum applicable volume (as reduced under this subparagraph) of cellulosic biofuel for that year.</i>
-
-#### <i>“(E) Biomass-based diesel</i>
-
-#### <i>“(i) Market evaluation</i>
-
-&emsp;&emsp;&emsp;<i>“The Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, shall periodically evaluate the impact of the biomass-based diesel requirements established under this paragraph on the price of diesel fuel.</i>
-
-#### <i>“(ii) Waiver</i>
-
-&emsp;&emsp;&emsp;<i>“If the Administrator determines that there is a significant renewable feedstock disruption or other market circumstances that would make the price of biomass-based diesel fuel increase significantly, the Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, shall issue an order to reduce, for up to a 60-day period, the quantity of biomass-based diesel required under subparagraph (A) by an appropriate quantity that does not exceed 15 percent of the applicable annual requirement for biomass-based diesel. For any calendar year in which the Administrator makes a reduction under this subparagraph, the Administrator may also reduce the applicable volume of renewable fuel and advanced biofuels requirement established under paragraph (2)(B) by the same or a lesser volume.</i>
-
-#### <i>“(iii) Extensions</i>
-
-&emsp;&emsp;&emsp;<i>“If the Administrator determines that the feedstock disruption or circumstances described in clause (ii) is continuing beyond the 60-day period described in clause (ii) or this clause, the Administrator, in consultation with the Secretary of Energy and the Secretary of Agriculture, may issue an order to reduce, for up to an additional 60-day period, the quantity of biomass-based diesel required under subparagraph (A) by an appropriate quantity that does not exceed an additional 15 percent of the applicable annual requirement for biomass-based diesel.</i>
-
-#### <i>“(F) Modification of applicable volumes</i>
-
-&emsp;&emsp;<i>“For any of the tables in paragraph (2)(B), if the Administrator waives—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) at least 20 percent of the applicable volume requirement set forth in any such table for 2 consecutive years; or</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) at least 50 percent of such volume requirement for a single year,</i>
-
-> &emsp;&emsp;<i>the Administrator shall promulgate a rule (within 1 year after issuing such waiver) that modifies the applicable volumes set forth in the table concerned for all years following the final year to which the waiver applies, except that no such modification in applicable volumes shall be made for any year before 2016. In promulgating such a rule, the Administrator shall comply with the processes, criteria, and standards set forth in paragraph (2)(B)(ii).”;</i>
-
-<i>(10) by adding paragraphs (11) and (12) at end to read as follows:</i>
-
-#### <i>“(11) Periodic reviews</i>
-
-&emsp;<i>“To allow for the appropriate adjustment of the requirements described in subparagraph (B) of paragraph (2), the Administrator shall conduct periodic reviews of—</i>
-
-&emsp;&emsp;<i>“(A) existing technologies;</i>
-
-&emsp;&emsp;<i>“(B) the feasibility of achieving compliance with the requirements; and</i>
-
-&emsp;&emsp;<i>“(C) the impacts of the requirements described in subsection (a)(2) on each individual and entity described in paragraph (2).</i>
-
-#### <i>“(12) Effect on other provisions</i>
-
-&emsp;<i>“Nothing in this subsection, or regulations issued pursuant to this subsection, shall affect or be construed to affect the regulatory status of carbon dioxide or any other greenhouse gas, or to expand or limit regulatory authority regarding carbon dioxide or any other greenhouse gas, for purposes of other provisions (including section 7475) of this chapter. The previous sentence shall not affect implementation and enforcement of this subsection.”</i>
-
 #### References in Text
 
 August 8, 2005, referred to in subsec. (c)(4)(C)(v)(II), was in the original “enactment”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsec. (c)(4)(C)(v), to reflect the probable intent of Congress.
@@ -1707,6 +1575,32 @@ A prior section 211 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–1
 2007—Subsec. (c)(1). Pub. L. 110–140, §208, substituted “nonroad vehicle if, in the judgment of the Administrator, any fuel or fuel additive or” for “nonroad vehicle (A) if in the judgment of the Administrator” and “air pollution or water pollution (including any degradation in the quality of groundwater) that” for “air pollution which”.
 
 Subsec. (f)(4). Pub. L. 110–140, §251, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Administrator, upon application of any manufacturer of any fuel or fuel additive, may waive the prohibitions established under paragraph (1) or (3) of this subsection or the limitation specified in paragraph (2) of this subsection, if he determines that the applicant has established that such fuel or fuel additive or a specified concentration thereof, and the emission products of such fuel or additive or specified concentration thereof, will not cause or contribute to a failure of any emission control device or system (over the useful life of any vehicle in which such device or system is used) to achieve compliance by the vehicle with the emission standards with respect to which it has been certified pursuant to section 7525 of this title. If the Administrator has not acted to grant or deny an application under this paragraph within one hundred and eighty days of receipt of such application, the waiver authorized by this paragraph shall be treated as granted.”
+
+Subsec. (<i>o</i>)(1). Pub. L. 110–140, §201, amended par. (1) generally. Prior to amendment, par. (1) defined “cellulosic biomass ethanol”, “waste derived ethanol”, “renewable fuel”, and “small refinery”.
+
+Subsec. (<i>o</i>)(2)(A)(i). Pub. L. 110–140, §202(a)(1), inserted at end “Not later than 1 year after December 19, 2007, the Administrator shall revise the regulations under this paragraph to ensure that transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), on an annual average basis, contains at least the applicable volume of renewable fuel, advanced biofuel, cellulosic biofuel, and biomass-based diesel, determined in accordance with subparagraph (B) and, in the case of any such renewable fuel produced from new facilities that commence construction after December 19, 2007, achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions.”
+
+Subsec. (<i>o</i>)(2)(B). Pub. L. 110–140, §202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set forth table of applicable volumes for renewable fuel and related to determination of applicable volumes after the years addressed by the table, including the minimum quantity of renewable fuel to be derived from cellulosic biomass and the method of calculating the minimum applicable volume.
+
+Subsec. (<i>o</i>)(3)(A). Pub. L. 110–140, §202(b)(1), (2), substituted “2021” for “2011” and “transportation fuel, biomass-based diesel, and cellulosic biofuel” for “gasoline”.
+
+Subsec. (<i>o</i>)(3)(B)(i). Pub. L. 110–140, §202(b)(3), substituted “2021” for “2012”.
+
+Subsec. (<i>o</i>)(3)(B)(ii)(II). Pub. L. 110–140, §202(b)(4), substituted “transportation fuel” for “gasoline”.
+
+Subsec. (<i>o</i>)(4). Pub. L. 110–140, §202(c), amended par. (4) generally. Prior to amendment, text read as follows: “For the purpose of paragraph (2), 1 gallon of cellulosic biomass ethanol or waste derived ethanol shall be considered to be the equivalent of 2.5 gallons of renewable fuel.”
+
+Subsec. (<i>o</i>)(5)(E). Pub. L. 110–140, §202(d), added subpar. (E).
+
+Subsec. (<i>o</i>)(7)(A). Pub. L. 110–140, §202(e)(1), inserted “, by any person subject to the requirements of this subsection, or by the Administrator on his own motion” after “one or more States” in introductory provisions.
+
+Subsec. (<i>o</i>)(7)(B). Pub. L. 110–140, §202(e)(1), struck out “State” before “petition for a waiver”.
+
+Subsec. (<i>o</i>)(7)(D) to (F). Pub. L. 110–140, §202(e)(2), (3), added subpars. (D) to (F).
+
+Subsec. (<i>o</i>)(11). Pub. L. 110–140, §203(f), added par. (11).
+
+Subsec. (<i>o</i>)(12). Pub. L. 110–140, §210(b), added par. (12).
 
 Subsecs. (r), (s). Pub. L. 110–140, §247, redesignated subsecs. (r), relating to conversion assistance for cellulosic biomass, waste-derived ethanol, approved renewable fuels, and (s) as (s) and (t), respectively.
 
@@ -1880,7 +1774,7 @@ Effect on Air Quality and Other Environmental Requirements.—Except as provided
 
 Pub. L. 110–140, title II, §210(a), Dec. 19, 2007, 121 Stat. 1532, provided that:
 
-“(1) For calendar year 2008, transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), that is produced from facilities that commence construction after the date of enactment of this Act \[Dec. 19, 2007\] shall be treated as renewable fuel within the meaning of section 211(<i>o</i>) of the Clean Air Act \[42 U.S.C. 7545(<i>o</i>)\] only if it achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions. For calendar years 2008 and 2009, any ethanol plant that is fired with natural gas, biomass, or any combination thereof is deemed to be in compliance with such 20 percent reduction requirement and with the 20 percent reduction requirement of section 211(<i>o</i>)(1) of the Clean Air Act. The terms used in this subsection shall have the same meaning as provided in the amendment made by this Act to section 211(<i>o</i>) of the Clean Air Act.
+“(1) For calendar year 2008, transportation fuel sold or introduced into commerce in the United States (except in noncontiguous States or territories), that is produced from facilities that commence construction after the date of enactment of this Act \[Dec. 19, 2007\] shall be treated as renewable fuel within the meaning of section 211(<i>o</i>) of the Clean Air Act \[42 U.S.C. 7545(<i>o</i>)\] only if it achieves at least a 20 percent reduction in lifecycle greenhouse gas emissions compared to baseline lifecycle greenhouse gas emissions. For calendar years 2008 and 2009, any ethanol plant that is fired with natural gas, biomass, or any combination thereof is deemed to be in compliance with such 20 percent reduction requirement and with the 20 percent reduction requirement of section 211(<i>o</i>)(1) of the Clean Air Act. The terms used in this subsection shall have the samemeaning as provided in the amendment made by this Act to section 211(<i>o</i>) of the Clean Air Act.
 
 “(2) Until January 1, 2009, the Administrator of the Environmental Protection Agency shall implement section 211(<i>o</i>) of the Clean Air Act and the rules promulgated under that section in accordance with the provisions of that section as in effect before the enactment of this Act and in accordance with the rules promulgated before the enactment of this Act, except that for calendar year 2008, the number ‘9.0’ shall be substituted for the number ‘5.4’ in the table in section 211(<i>o</i>)(2)(B) and in the corresponding rules promulgated to carry out those provisions. The Administrator is authorized to take such other actions as may be necessary to carry out this paragraph notwithstanding any other provision of law.”
 
@@ -1956,11 +1850,11 @@ Sense of Congress.—It is the sense of Congress that the Administrator of the E
 
 #### Agricultural Machinery: Study of Unleaded Fuel
 
-Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Administrator of EPA and Secretary of Agriculture jointly to conduct a study of use of fuel containing lead additives, and alternative lubricating additives, in gasoline engines that are used in agricultural machinery, and designed to combust fuel containing such additives, study to analyze potential for mechanical problems (including but not limited to valve recession) that may be associated with use of other fuels in such engines, and not later than Jan. 1, 1987, Administrator and Secretary to publish results of the study, with Administrator to publish in Federal Register notice of publication of such study and a summary thereof; directed Administrator, after notice and opportunity for hearing, but not later than 6 months after publication of the study, to make findings and recommendations on need for lead additives in gasoline to be used on a farm for farming purposes, including a determination of whether a modification of regulations limiting lead content of gasoline would be appropriate in the case of gasoline used on a farm for farming purposes, and submit to President and Congress a report containing the study, a summary of comments received during public hearing (including comments of Secretary), and findings and recommendations of Administrator made in accordance with clause (1), such report to be transmitted named congressional committees; directed Administrator between Jan. 1, 1986, and Dec. 31, 1987, to monitor actual lead content of leaded gasoline sold in the United States, with Administrator to determine average lead content of such gasoline for each 3-month period between Jan. 1, 1986, and Dec. 31, 1987, andif actual lead content falls below an average of 0.2 of a gram of lead per gallon in any such 3-month period, to report to Congress, and publish a notice thereof in Federal Register; provided that until Jan. 1, 1988, no regulation of Administrator issued under this section 211 could require an average lead content per gallon that is less than 0.1 of a gram per gallon; and authorized an appropriation.
+Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Administrator of EPA and Secretary of Agriculture jointly to conduct a study of use of fuel containing lead additives, and alternative lubricating additives, in gasoline engines that are used in agricultural machinery, and designed to combust fuel containing such additives, study to analyze potential for mechanical problems (including but not limited to valve recession) that may be associated with use of other fuels in such engines, and not later than Jan. 1, 1987, Administrator and Secretary to publish results of the study, with Administrator to publish in Federal Register notice of publication of such study and a summary thereof; directed Administrator, after notice and opportunity for hearing, but not later than 6 months after publication of the study, to make findings and recommendations on need for lead additives in gasoline to be used on a farm for farming purposes, including a determination of whether a modification of regulations limiting lead content of gasoline would be appropriate in the case of gasoline used on a farm for farming purposes, and submit to President and Congress a report containing the study, a summary of comments received during public hearing (including comments of Secretary), and findings and recommendations of Administrator made in accordance with clause (1), such report to be transmitted named congressional committees; directed Administrator between Jan. 1, 1986, and Dec. 31, 1987, to monitor actual lead content of leaded gasoline sold in the United States, with Administrator to determine average lead content of such gasoline for each 3-month period between Jan. 1, 1986, and Dec. 31, 1987, and if actual lead content falls below an average of 0.2 of a gram of lead per gallon in any such 3-month period, to report to Congress, and publish a notice thereof in Federal Register; provided that until Jan. 1, 1988, no regulation of Administrator issued under this section 211 could require an average lead content per gallon that is less than 0.1 of a gram per gallon; and authorized an appropriation.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 
@@ -1978,7 +1872,13 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 <i><sup>8</sup></i><i> So in original. Probably should be section “7550(2)”.</i>
 
-<i><sup>9</sup></i><i> So in original. No subsec. (p) has been enacted.</i>
+<i><sup>9</sup></i><i> So in original. The word “and” probably should appear.</i>
 
-<i><sup>10</sup></i><i> See References in Text note below.</i>
+<i><sup>10</sup></i><i> So in original. Probably should be “non-Federal”.</i>
+
+<i><sup>11</sup></i><i> So in original. Subsection (a) does not contain a par. (2).</i>
+
+<i><sup>12</sup></i><i> So in original. No subsec. (p) has been enacted.</i>
+
+<i><sup>13</sup></i><i> See References in Text note below.</i>
 

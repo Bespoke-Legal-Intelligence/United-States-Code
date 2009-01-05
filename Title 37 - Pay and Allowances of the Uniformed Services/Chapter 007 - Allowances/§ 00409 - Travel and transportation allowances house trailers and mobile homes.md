@@ -4,7 +4,7 @@
 
 (2) Except as provided in subsection (c), transportation of a house trailer or mobile home dwelling under paragraph (1) is in place of the transportation of baggage and household effects the member or member's dependent would otherwise be entitled to have provided.
 
-(3) The cost of transportation of a house trailer or mobile home dwelling under paragraph (1) may not be more than the total cost of transportation (including packing, pick-up, line-haul or drayage, delivery, and unpacking) of baggage and household effects of the member or dependent having the maximum weight authorized for the member or dependent under regulations prescribed by the Secretary concerned.
+(3) The cost of transportation of a house trailer or mobile home dwelling under paragraph (1) may not be more than the total cost of transportation (including packing, pick-up, line-haul or drayage, delivery, and unpacking) of baggage and household effects of the member or dependent having the maximum weight authorized forthe member or dependent under regulations prescribed by the Secretary concerned.
 
 (4) A house trailer or mobile home dwelling in transit under this section may be stored up to 180 days in accordance with regulations prescribed by the Secretary concerned.
 
@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(c) (12th sentence); added Mar. 31, 1955, ch. 20, §2(13), 69 Stat. 22; Mar. 17, 1958, Pub. L. 85–347, 72 Stat. 37; restated Oct. 4, 1961, Pub. L. 87–374, 75 Stat. 804.
 
-The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of UnitedStates in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
+The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
 
 #### Amendments
 

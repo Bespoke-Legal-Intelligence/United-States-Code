@@ -92,7 +92,7 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 &emsp;&emsp;(A) farmer program loans the principal amount of which is $125,000 or less; and
 
-&emsp;&emsp;(B) business and industry guaranteed loans under section 1932(a)(1) of this title the principal amount of which is—
+&emsp;&emsp;(B) business and industry guaranteed loans under section 1932(a)(2)(A) of this title the principal amount of which is—
 
 &emsp;&emsp;&emsp;(i) in the case of a loan guarantee made during fiscal year 2002 or 2003, $400,000 or less; and
 
@@ -122,7 +122,7 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 &emsp;&emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927.)
 
 #### References in Text
 
@@ -130,7 +130,13 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(1), (c), 
 
 Section 1989 of this title, referred to in subsec. (f)(1)(A), was in the original “section 114”, and was translated as meaning section 339 of Pub. L. 87–128, which is classified to section 1989 of this title, to reflect the probable intent of Congress, because Pub. L. 87–128 does not contain a section 114 and section 1989 provides for a lender certification program.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (g)(1)(B). Pub. L. 110–246, §6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
 
 2002—Subsec. (g). Pub. L. 107–171, §6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
 
@@ -167,6 +173,10 @@ Subsec. (g). Pub. L. 102–554, §15, added subsec. (g).
 1990—Subsec. (a)(4). Pub. L. 101–624, §1811, added par. (4).
 
 Subsec. (c). Pub. L. 101–624, §2388(f), substituted “If” for “In”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 

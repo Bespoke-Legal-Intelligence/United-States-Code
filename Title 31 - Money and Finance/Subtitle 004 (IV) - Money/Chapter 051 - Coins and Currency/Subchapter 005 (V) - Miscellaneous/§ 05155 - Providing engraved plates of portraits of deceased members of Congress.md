@@ -1,6 +1,6 @@
 ### §5155. Providing engraved plates of portraits of deceased members of Congress
 
-On conditions the Secretary of the Treasury decides, the Secretary may send an engravedplate of a portrait of a deceased Senator or Representative to an heir or legal representative of such a Senator or Representative.
+On conditions the Secretary of the Treasury decides, the Secretary may send an engraved plate of a portrait of a deceased Senator or Representative to an heir or legal representative of such a Senator or Representative.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 993.)
 

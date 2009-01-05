@@ -26,7 +26,7 @@ The amount of a scholarship awarded under this section shall be determined by th
 
 #### (4) Funding
 
-The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds forthese other programs may be used for purposes other than scholarships.
+The Director shall carry out this section only with funds made available under section 1356(s)(3) of title 8. The Director may use no more than 50 percent of such funds for undergraduate programs for curriculum development, professional and workforce development, and to advance technological education. Funds for these other programs may be used for purposes other than scholarships.
 
 #### (5) Federal Register
 
@@ -40,7 +40,7 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original “s
 
 #### Codification
 
-Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998,and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

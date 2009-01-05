@@ -2,25 +2,25 @@
 
 #### (a) Criminal penalties; payment for information leading to conviction
 
-A person who knowingly violates the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder commits a class D felony. In the discretion of the Court, an amount equal to not more than 1/2 of such fine may be paid to the person giving information leading to conviction.
+A person who knowingly violates the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder commits a class D felony. In the discretion of the Court, an amount equal to not more than 1/2 of such fine may be paid to the person giving information leading to conviction.
 
 #### (b) Civil penalties; separate violations; assessment notice; considerations affecting amount; payment for information leading to assessment of penalty
 
-A person who is found by the Secretary, after notice and an opportunity for a hearing, to have—
+A person who is found by the Secretary, or the Administrator as provided for in this chapter, after notice and an opportunity for a hearing, to have—
 
-&emsp;(1) violated the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
+&emsp;(1) violated the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations issued thereunder shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation; or
 
-&emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary under the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
+&emsp;(2) made a false, fictitious, or fraudulent statement or representation in any matter in which a statement or representation is required to be made to the Secretary, or the Administrator as provided for in this chapter, under the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder, shall be liable to the United States for a civil penalty, not to exceed $5,000 for each statement or representation.
 
-> Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of the penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than 1/2 of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.
+> Each day of a continuing violation shall constitute a separate violation. The amount of the civil penalty shall be assessed by the Secretary, or the Administrator as provided for in this chapter or his designee, by written notice. In determining the amount of the penalty, the Secretary, or the Administrator as provided for in this chapter, shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters as justice may require. An amount equal to not more than 1/2 of such penalties may be paid by the Secretary, or the Administrator as provided for in this chapter, to the person giving information leading to the assessment of such penalties.
 
 #### (c) Abatement of civil penalties; collection by Attorney General
 
-The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
+The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
 
 #### (d) Liability in rem; district court jurisdiction
 
-A ship operated in violation of the MARPOL Protocol,,<sup>1</sup> Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder is liable in rem for any fine imposed under subsection (a) of this section or civil penalty assessed pursuant to subsection (b) of this section, and may be proceeded against in the United States district court of any district in which the ship may be found.
+A ship operated in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder is liable in rem for any fine imposed under subsection (a) of this section or civil penalty assessed pursuant to subsection (b) of this section, and may be proceeded against in the United States district court of any district in which the ship may be found.
 
 #### (e) Ship clearance or permits; refusal or revocation; bond or other surety
 
@@ -28,15 +28,27 @@ If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, 
 
 #### (f) Referrals for appropriate action by foreign country
 
-Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
+Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
-(Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043.)
+(Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, §10, July 21, 2008, 122 Stat. 2615.)
 
 #### Codification
 
 In subsec. (e), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
+
+2008—Pub. L. 110–280, §10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
+
+Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+
+Pub. L. 110–280, §10(2)(A), in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
+
+Subsec. (b)(2). Pub. L. 110–280, §10(2)(B), inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
+
+Subsec. (c). Pub. L. 110–280, §10(3), inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+
+Subsec. (f). Pub. L. 110–280, §10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
 
 1996—Subsec. (a). Pub. L. 104–227, §201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
@@ -71,6 +83,4 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -42,6 +42,52 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
+#### Limitation on Source of Funds for Certain Joint Cargo Aircraft Expenditures
+
+Pub. L. 110–417, \[div. A\], title II, §216, Oct. 14, 2008, 122 Stat. 4387, provided that:
+
+“(a)
+
+Limitation.—Of the amounts appropriated pursuant to an authorization of appropriations in this Act \[see Tables for classification\] or otherwise made available for fiscal year 2009 or any fiscal year thereafter for the Army or the Air Force, the Secretary of the Army and the Secretary of the Air Force may fund relevant expenditures for the Joint Cargo Aircraft only through amounts made available for procurement or for research, development, test, and evaluation.
+
+“(b)
+
+Relevant Expenditures for the Joint Cargo Aircraft Defined.—In this section, the term ‘relevant expenditures for the Joint Cargo Aircraft’ means expenditures relating to—
+
+&emsp;“(1) support equipment;
+
+&emsp;“(2) initial spares;
+
+&emsp;“(3) training simulators;
+
+&emsp;“(4) systems engineering and management; and
+
+&emsp;“(5) post-production modifications.”
+
+#### Prohibitions Relating to Propaganda
+
+Pub. L. 110–417, \[div. A\], title X, §1056, Oct. 14, 2008, 122 Stat. 4610, provided that:
+
+“(a)
+
+Prohibition.—No part of any funds authorized to be appropriated in this or any other Act shall be used by the Department of Defense for publicity or propaganda purposes within the United States not otherwise specifically authorized by law.
+
+“(b)
+
+Report.—Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Inspector General of the Department of Defense shall submit to Congress a report on the findings of their project number D2008–DIPOEF–0209.000, entitled ‘Examination of Allegations Involving DoD Office of Public Affairs Outreach Program’.
+
+“(c)
+
+Legal Opinion.—Not later than 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall issue a legal opinion to Congress on whether the Department of Defense violated appropriations prohibitions on publicity or propaganda activities established in Public Laws 107–117, 107–248, 108–87, 108–287, 109–148, 109–289, and 110–116, the Department of Defense Appropriations Acts for fiscal years 2002 through 2008, respectively, by offering special access to prominent persons in the private sector who serve as media analysts, including briefings and information on war efforts, meetings with high level government officials, and trips to Iraq and Guantanamo Bay, Cuba.
+
+“(d)
+
+Rule of Construction Related to Intelligence Activities.—Nothing in this section shall be construed to apply to any lawful and authorized intelligence activity of the United States Government.”
+
+#### Funds Made Available for Transportation of Medical Supplies to American Samoa and Indian Health Service
+
+Pub. L. 110–329, div. C, title VIII, §8058, Sept. 30, 2008, 122 Stat. 3634, provided that: “Notwithstanding any other provision of law, funds available to the Department of Defense in this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to American Samoa, and funds available to the Department of Defense shall be made available to provide transportation of medical supplies and equipment, on a nonreimbursable basis, to the Indian Health Service when it is in conjunction with a civil-military project.”
+
 #### Obligation of Funds for Installation Support Functions
 
 Pub. L. 108–287, title VIII, §8070, Aug. 5, 2004, 118 Stat. 987, provided that: “Hereafter, funds appropriated for Operation and maintenance and for the Defense Health Program in this Act \[see Tables for classification\], and in future appropriations acts for the Department of Defense, for supervision and administration costs for facilities maintenance and repair, minor construction, or design projects, or any planning studies, environmental assessments, or similar activities related to installation support functions, may be obligated at the time the reimbursable order is accepted by the performing activity: <i>Provided</i>, That for the purpose of this section, supervision and administration costs includes all in-house Government cost.”
@@ -214,13 +260,13 @@ Pub. L. 101–511, title VIII, §8080, Nov. 5, 1990, 104 Stat. 1893, provided th
 
 “(b) During the current fiscal year and thereafter—
 
-&emsp;“(1) on the 3rd September 30th after enactment of this section \[Nov. 5, 1990\], all obligated balancestransferred under section 1552(a)(1) of title 31, United States Code;
+&emsp;“(1) on the 3rd September 30th after enactment of this section \[Nov. 5, 1990\], all obligated balances transferred under section 1552(a)(1) of title 31, United States Code;
 
 &emsp;“(2) on September 30th of the 5th fiscal year after the period of availability of an appropriation account of the Department of Defense available for obligation for a definite period ends or has ended, with respect to those accounts which, upon the date of enactment of this section have expired for obligation but whose obligated balances have not been transferred pursuant to the provisions of section 1552(a)(1) of title 31, United States Code; and
 
 &emsp;“(3) with respect to any appropriation account made available to the Department of Defense for an indefinite period against which no obligations have been made for two consecutive years and upon a determination by the Secretary of Defense or the President that the purposes of such indefinite appropriation have been carried out,
 
-> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currently applicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity, the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
+> any remaining obligated or unobligated balance of such accounts are closed and thereafter shall not be available for obligation or expenditure for any purpose: <i>Provided</i>, That collections authorized to be credited to an account which were not credited to the account before it was closed shall be deposited in the Treasury as miscellaneous receipts: <i>Provided further</i>, That, without prior action by the Comptroller General but without relieving the Comptroller General of the duty to make decisions under any law or to settle claims and accounts, when an account is closed (including accounts covered by subsection (a) of this section) and currentlyapplicable appropriations of the Department of Defense are not chargeable, obligations and adjustments to obligations that would have been chargeable to an account prior to closing, may be chargeable to currently applicable appropriations of the Department of Defense available for the same purpose in amounts equal to one percent of the total appropriation for the current account or the amount of the original appropriation, whichever is less: <i>Provided further</i>, That after the end of the period of availability of an appropriation account available for a definite period and before closing of that account under this section such account shall be available for recording, adjusting, and liquidating obligations properly chargeable to such account in amounts not to exceed the unobligated expired balances of such appropriation: <i>Provided further</i>, That with respect to a change to a contract under which the contractor is required to perform additional work, other than adjustments to pay claims or increases under an escalation clause (hereinafter referred to as a contract change), if such a charge for such a contract change with respect to a program, project or activity would cause the total amount of such obligations to exceed $4,000,000 in any single fiscal year for a program, project, or activity, the obligation may only be made if the obligation is approved by the Secretary of Defense or, if such a change would cause the total amount of such obligations to exceed $25,000,000 in any single fiscal year for a program, project or activity, the obligation may be made only after 30 days have elapsed after the Secretary of Defense submits to the Committees on Appropriations and Armed Services of the Senate and the House of Representatives a notice of the intention to obligate such funds, together with the legal basis and the policy reasons for making such an obligation.
 
 “(c) The provisions of this section shall apply to any appropriation account now or hereafter made unless the appropriation Act for that account specifically provides for an extension of the availability of such account and provides an exception to the five year period of availability for recording, adjusting and liquidating obligations properly chargeable to that account.”
 

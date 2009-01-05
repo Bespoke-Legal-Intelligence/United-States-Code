@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 212(a) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(a)), the President shall terminate the designation of each CAFTA–DR country as a beneficiary country for purposes of that Act \[19 U.S.C. 2701 et seq.\] on the date the Agreement enters into force with respect to that country.
+&emsp;&emsp;Notwithstanding section 212(a) of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702(a)), the President shall terminate the designation of each CAFTA–DR country as a beneficiary country for purposes of thatAct \[19 U.S.C. 2701 et seq.\] on the date the Agreement enters into force with respect to that country.
 
 #### (B) Exception
 

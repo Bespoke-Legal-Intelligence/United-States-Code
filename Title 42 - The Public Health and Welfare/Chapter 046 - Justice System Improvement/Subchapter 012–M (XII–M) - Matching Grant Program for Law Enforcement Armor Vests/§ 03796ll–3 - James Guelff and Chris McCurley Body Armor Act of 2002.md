@@ -34,7 +34,7 @@ In this section:
 
 #### (2) Law enforcement agency
 
-&emsp;The term “law enforcement agency” means an agency of the United States, a State, or apolitical subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+&emsp;The term “law enforcement agency” means an agency of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
 #### (3) Law enforcement officer
 

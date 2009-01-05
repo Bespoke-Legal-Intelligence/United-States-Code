@@ -18,7 +18,7 @@ The taxes on wine provided for in this subpart shall be paid—
 
 #### (3) Other wines
 
-&emsp;Immediately, in the case of any wine produced, imported, received, removed, or possessed otherwise than as authorized by law, byany person producing, importing, receiving, removing, or possessing such wine; and all such persons shall be jointly and severally liable for such tax with each other as well as with any proprietor, transferee, or importer who may be liable for the tax under this subsection.
+&emsp;Immediately, in the case of any wine produced, imported, received, removed, or possessed otherwise than as authorized by law, by any person producing, importing, receiving, removing, or possessing such wine; and all such persons shall be jointly and severally liable for such tax with each other as well as with any proprietor, transferee, or importer who may be liable for the tax under this subsection.
 
 #### (b) Payment of tax
 

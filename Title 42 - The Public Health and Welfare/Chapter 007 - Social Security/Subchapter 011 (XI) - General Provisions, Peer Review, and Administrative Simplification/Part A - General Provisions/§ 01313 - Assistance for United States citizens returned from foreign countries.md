@@ -36,7 +36,7 @@ The total amount of temporary assistance provided under this section shall not e
 
 1990—Subsec. (d). Pub. L. 101–508, §5056(a)(1), substituted “after September 30, 1991” for “on or after October 1, 1989”.
 
-Pub. L. 101–382 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The total amount of temporary assistance provided under this section shall not exceed—
+Pub. L. 101–382 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The totalamount of temporary assistance provided under this section shall not exceed—
 
 &emsp;“(1) $8,000,000 during the fiscal years ending June 30, 1975, and June 30, 1976, and the succeeding calendar quarter, or
 

@@ -12,23 +12,35 @@ In this subchapter:
 
 #### (3) Hydrographic data
 
-&emsp;The term “hydrographic data” means information acquired through hydrographic or bathymetric surveying, photogrammetry, geodetic, geospatial, or geomagnetic measurements, tide and current observations, or other methods, that is used in providing hydrographic services.
+&emsp;The term “hydrographic data” means information that—
+
+&emsp;&emsp;(A) is acquired through—
+
+&emsp;&emsp;&emsp;(i) hydrographic, bathymetric, photogrammetric, lidar, radar, remote sensing, or shoreline and other ocean- and coastal-related surveying;
+
+&emsp;&emsp;&emsp;(ii) geodetic, geospatial, or geomagnetic measurements;
+
+&emsp;&emsp;&emsp;(iii) tide, water level, and current observations; or
+
+&emsp;&emsp;&emsp;(iv) other methods; and
+
+&emsp;&emsp;(B) is used in providing hydrographic services.
 
 #### (4) Hydrographic services
 
 &emsp;The term “hydrographic services” means—
 
-&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, geodetic, geospatial, geomagnetic, and tide and current information, including the production of nautical charts, nautical information databases, and other products derived from hydrographic data;
+&emsp;&emsp;(A) the management, maintenance, interpretation, certification, and dissemination of bathymetric, hydrographic, shoreline, geodetic, geospatial, geomagnetic, and tide, water level, and current information, including the production of nautical charts, nautical information databases, and other products derived from hydrographic data;
 
 &emsp;&emsp;(B) the development of nautical information systems; and
 
 &emsp;&emsp;(C) related activities.
 
-#### (5) Act of 1947
+#### (5) Coast and Geodetic Survey Act
 
-&emsp;The term “Act of 1947” means the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 (33 U.S.C. 883a et seq.).
+&emsp;The term “Coast and Geodetic Survey Act” means the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 (33 U.S.C. 883a et seq.).
 
-(Pub. L. 105–384, title III, §302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §102, Dec. 19, 2002, 116 Stat. 3079.)
+(Pub. L. 105–384, title III, §302, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §102, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §2, Oct. 10, 2008, 122 Stat. 4106.)
 
 #### References in Text
 
@@ -37,6 +49,8 @@ This subchapter, referred to in text, was in the original “this title”, mean
 Act of August 6, 1947, referred to in par. (5), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, as amended, which is classified generally to subchapter II of this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2008—Pars. (3) to (5). Pub. L. 110–386, which directed the amendment of section “303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)” by adding pars. (3) to (5) and striking out former pars. (3) to (5), was executed to this section, which is section 302 of the Hydrographic Services Improvement Act of 1998, to reflect the probable intent of Congress. Prior to amendment, pars. (3) to (5) defined the terms “hydrographic data”, “hydrographic services”, and “Act of 1947”, respectively.
 
 2002—Par. (3). Pub. L. 107–372, §102(1), inserted “, geospatial, or geomagnetic” after “geodetic”.
 

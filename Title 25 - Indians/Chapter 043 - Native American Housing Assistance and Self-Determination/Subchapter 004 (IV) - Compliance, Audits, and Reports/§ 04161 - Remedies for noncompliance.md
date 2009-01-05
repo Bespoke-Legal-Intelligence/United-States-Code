@@ -14,11 +14,15 @@
 
 &emsp;&emsp;(D) in the case of noncompliance described in section 4162(b) of this title, provide a replacement tribally designated housing entity for the recipient, under section 4162 of this title.
 
-#### (2) Continuance of actions
+#### (2) Substantial noncompliance
+
+&emsp;The failure of a recipient to comply with the requirements of section 4152(b)(1) of this title regarding the reporting of low-income dwelling units shall not, in itself, be considered to be substantial noncompliance for purposes of this subchapter.
+
+#### (3) Continuance of actions
 
 &emsp;If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue such action until the Secretary determines that the failure to comply has ceased.
 
-#### (3) Exception for certain actions
+#### (4) Exception for certain actions
 
 #### (A) In general
 
@@ -72,7 +76,7 @@
 
 #### (2) Civil action
 
-&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
+&emsp;Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistancefurnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 
 #### (d) Review
 
@@ -110,13 +114,15 @@
 
 &emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965.)
+(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965; Pub. L. 110–411, title IV, §401, Oct. 14, 2008, 122 Stat. 4330.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110Stat. 4016, as amended, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
+
+2008—Subsec. (a)(2) to (4). Pub. L. 110–411 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 2000—Subsec. (a). Pub. L. 106–568, §1003(h), and Pub. L. 106–569, §503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
 

@@ -6,7 +6,7 @@
 
 \[(c) Repealed. Pub. L. 103–355, title I, §1021, Oct. 13, 1994, 108 Stat. 3257.\]
 
-(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractormay not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+(d) The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, notincluding the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
 
 (e)(1) Except as provided in paragraph (2), each cost contract and each cost-plus-a-fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
 
@@ -94,7 +94,7 @@ Subsec. (h). Pub. L. 103–355, §1022(b), amended subsec. (h) generally. Prior 
 
 1990—Subsec. (h)(1). Pub. L. 101–510, §808(a), struck out “(other than contracts described in paragraph (6))” after “multiyear contracts” in introductory provisions and substituted “substantial savings of the total anticipated costs of carrying out the program through annual contracts” for “reduced total costs under the contract” in subpar. (A).
 
-Subsec. (h)(6). Pub. L. 101–510, §808(b), struck out “contracts for the construction, alteration, or majorrepair of improvements to real property or” after “not apply to”.
+Subsec. (h)(6). Pub. L. 101–510, §808(b), struck out “contracts for the construction, alteration, or major repair of improvements to real property or” after “not apply to”.
 
 Subsec. (h)(9). Pub. L. 101–510, §808(c)(1), inserted “for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority” after “under this subsection” in introductory provisions.
 
@@ -190,7 +190,7 @@ Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 
 
 “(b)
 
-Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
+Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regardingthe determination of contract type for development programs.
 
 “(c)
 

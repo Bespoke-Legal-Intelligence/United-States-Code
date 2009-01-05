@@ -1,6 +1,6 @@
 ### §3681. Limitations on educational assistance
 
-(a) No educational assistance allowance granted under chapter 30, 34, 35, or 36 of this title or106 or 107 of title 10, or subsistence allowance granted under chapter 31 of this title shall be paid to any eligible person (1) who is on active duty and is pursuing a course of education which is being paid for by the Armed Forces (or by the Department of Health and Human Services in the case of the Public Health Service; or (2) who is attending a course of education or training paid for under chapter 41 of title 5.
+(a) No educational assistance allowance granted under chapter 30, 34, 35, or 36 of this title or 106 or 107 of title 10, or subsistence allowance granted under chapter 31 of this title shall be paid to any eligible person (1) who is on active duty and is pursuing a course of education which is being paid for by the Armed Forces (or by the Department of Health and Human Services in the case of the Public Health Service; or (2) who is attending a course of education or training paid for under chapter 41 of title 5.
 
 (b) No person may receive benefits concurrently under two or more of the provisions of law listed below:
 

@@ -46,19 +46,21 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 &emsp;&emsp;(A) whose child has been battered or subjected to extreme cruelty in the United States by a spouse or a parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, and the alien did not actively participate in such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
-&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1); or
+&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1);
 
 &emsp;(3) an alien child who—
 
 &emsp;&emsp;(A) resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent's spouse or by a member of the spouse's family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
-&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1).
+&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1); or
+
+&emsp;(4) an alien who has been granted nonimmigrant status under section 101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)) or who has a pending application that sets forth a prima facie case for eligibility for such nonimmigrant status.
 
 > This subsection shall not apply to an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual subjected to such battery or cruelty.
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, §211(a), Dec. 23, 2008, 122 Stat. 5063.)
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in s
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
 
 #### Amendments
+
+2008—Subsec. (c)(4). Pub. L. 110–457 added par. (4).
 
 2000—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
 
@@ -100,11 +104,15 @@ Subsec. (c)(3). Pub. L. 105–33, §5571(c), added par. (3).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–457, title II, §211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act \[Dec. 23, 2008\] without regard to whether regulations have been implemented to carry out such amendments.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 5302(c)(3) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
 
-Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L.104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
+Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -26,7 +26,7 @@ The words “As used . . . the term” are omitted as surplus. The words “me
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–289, §1, Nov. 7, 2002, 116 Stat. 2049, provided that: “This Act \[amending section 3515 of thistitle and enacting provisions set out as a note under section 3515 of this title\] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
+Pub. L. 107–289, §1, Nov. 7, 2002, 116 Stat. 2049, provided that: “This Act \[amending section 3515 of this title and enacting provisions set out as a note under section 3515 of this title\] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
 
 #### Short Title of 2000 Amendment
 

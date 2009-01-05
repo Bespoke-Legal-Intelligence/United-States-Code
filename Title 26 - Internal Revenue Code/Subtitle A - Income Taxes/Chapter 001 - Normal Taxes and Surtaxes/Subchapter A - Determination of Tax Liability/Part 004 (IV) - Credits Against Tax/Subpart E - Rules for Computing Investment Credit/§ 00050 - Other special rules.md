@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary—
 
 #### (D) Coordination with paragraph (1)
 
-&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowableby reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
+&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
 
 #### (E) Special rules
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or i
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

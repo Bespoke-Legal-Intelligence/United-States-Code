@@ -12,7 +12,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the information required to be shown on such return with respect to such customer.
 
-> The written statement required under the preceding sentence shall be furnished to the customer on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
+> The written statement required under the preceding sentence shall be furnished to the customer on or before February 15 of the year following the calendar year for which the return under subsection (a) was required to be made. In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.
 
 #### (c) Definitions
 
@@ -56,7 +56,7 @@ If any broker—
 
 &emsp;&emsp;(C) such other items as the Secretary may prescribe by regulations,
 
-> during the period such short sale or similar transaction is open, the broker shall furnish such customer a written statement (at such time and in the manner as the Secretary shall prescribe by regulations) identifying such payment as being in lieu of the dividend, tax-exempt interest, or such other item. The Secretary may prescribe regulations which require the broker to make a return which includes the information contained in such written statement.
+> during the period such short sale or similar transaction is open, the broker shall furnish such customer a written statement (in the manner as the Secretary shall prescribe by regulations) identifying such payment as being in lieu of the dividend, tax-exempt interest, or such other item. The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made. The Secretary may prescribe regulations which require the broker to make a return which includes the information contained in such written statement.
 
 #### (e) Return required in the case of real estate transactions
 
@@ -126,9 +126,103 @@ If any broker—
 
 &emsp;&emsp;This subsection shall not apply to the portion of any payment which is required to be reported under section 6041(a) (or would be so required but for the dollar limitation contained therein) or section 6051.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640.)
+#### (g) Additional information required in the case of securities transactions, etc.
+
+#### (1) In general
+
+&emsp;If a broker is otherwise required to make a return under subsection (a) with respect to the gross proceeds of the sale of a covered security, the broker shall include in such return the information described in paragraph (2).
+
+#### (2) Additional information required
+
+#### (A) In general
+
+&emsp;&emsp;The information required under paragraph (1) to be shown on a return with respect to a covered security of a customer shall include the customer's adjusted basis in such security and whether any gain or loss with respect to such security is long-term or short-term (within the meaning of section 1222).
+
+#### (B) Determination of adjusted basis
+
+&emsp;&emsp;For purposes of subparagraph (A)—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The customer's adjusted basis shall be determined—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any security (other than any stock for which an average basis method is permissible under section 1012), in accordance with the first-in first-out method unless the customer notifies the broker by means of making an adequate identification of the stock sold or transferred, and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any stock for which an average basis method is permissible under section 1012, in accordance with the broker's default method unless the customer notifies the broker that he elects another acceptable method under section 1012 with respect to the account in which such stock is held.
+
+#### (ii) Exception for wash sales
+
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
+
+#### (3) Covered security
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “covered security” means any specified security acquired on or after the applicable date if such security—
+
+&emsp;&emsp;&emsp;(i) was acquired through a transaction in the account in which such security is held, or
+
+&emsp;&emsp;&emsp;(ii) was transferred to such account from an account in which such security was a covered security, but only if the broker received a statement under section 6045A with respect to the transfer.
+
+#### (B) Specified security
+
+&emsp;&emsp;The term “specified security” means—
+
+&emsp;&emsp;&emsp;(i) any share of stock in a corporation,
+
+&emsp;&emsp;&emsp;(ii) any note, bond, debenture, or other evidence of indebtedness,
+
+&emsp;&emsp;&emsp;(iii) any commodity, or contract or derivative with respect to such commodity, if the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection, and
+
+&emsp;&emsp;&emsp;(iv) any other financial instrument with respect to which the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection.
+
+#### (C) Applicable date
+
+&emsp;&emsp;The term “applicable date” means—
+
+&emsp;&emsp;&emsp;(i) January 1, 2011, in the case of any specified security which is stock in a corporation (other than any stock described in clause (ii)),
+
+&emsp;&emsp;&emsp;(ii) January 1, 2012, in the case of any stock for which an average basis method is permissible under section 1012, and
+
+&emsp;&emsp;&emsp;(iii) January 1, 2013, or such later date determined by the Secretary in the case of any other specified security.
+
+#### (4) Treatment of S corporations
+
+&emsp;In the case of the sale of a covered security acquired by an S corporation (other than a financial institution) after December 31, 2011, such S corporation shall be treated in the same manner as a partnership for purposes of this section.
+
+#### (5) Special rules for short sales
+
+&emsp;In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
+
+#### (h) Application to options on securities
+
+#### (1) Exercise of option
+
+&emsp;For purposes of this section, if a covered security is acquired or disposed of pursuant to the exercise of an option that was granted or acquired in the same account as the covered security, the amount received with respect to the grant or paid with respect to the acquisition of such option shall be treated as an adjustment to gross proceeds or as an adjustment to basis, as the case may be.
+
+#### (2) Lapse or closing transaction
+
+&emsp;In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
+
+#### (3) Prospective application
+
+&emsp;Paragraphs (1) and (2) shall not apply to any option which is granted or acquired before January 1, 2013.
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. B, title IV, §403(a), Oct. 3, 2008, 122 Stat. 3854.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–343, §403(a)(3)(A), (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
+
+Subsec. (d). Pub. L. 110–343, §403(a)(3)(B), in concluding provisions, struck out “at such time and” before “in the manner” and inserted “The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made.” before “The Secretary may prescribe”.
+
+Subsecs. (g), (h). Pub. L. 110–343, §403(a)(1), (2), added subsecs. (g) and (h).
 
 2005—Subsec. (e)(5)(A). Pub. L. 109–135 adjusted the margin of the third sentence to include it in concluding provisions with the second sentence.
 
@@ -167,6 +261,10 @@ Subsec. (d). Pub. L. 98–369, §150(a), added subsec. (d).
 1982—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–343 effective Jan. 1, 2011, except that amendment by section 403(a)(3) of Pub. L. 110–343 applies to statements required to be furnished after Dec. 31, 2008, see section 403(e) of Pub. L. 110–343, set out as a note under section 1012 of this title.
 
 #### Effective Date of 1997 Amendment
 

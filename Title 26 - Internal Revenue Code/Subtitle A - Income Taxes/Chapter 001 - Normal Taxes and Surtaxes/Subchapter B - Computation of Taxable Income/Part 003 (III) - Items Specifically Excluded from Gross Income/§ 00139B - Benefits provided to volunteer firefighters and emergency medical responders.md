@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Qualified State and local tax benefit
 
-&emsp;The term “qualified state and local tax benefit” means any reduction or rebate of a taxdescribed in paragraph (1), (2), or (3) of section 164(a) provided by a State or political division thereof on account of services performed as a member of a qualified volunteer emergency response organization.
+&emsp;The term “qualified state and local tax benefit” means any reduction or rebate of a tax described in paragraph (1), (2), or (3) of section 164(a) provided by a State or political division thereof on account of services performed as a member of a qualified volunteer emergency response organization.
 
 #### (2) Qualified payment
 

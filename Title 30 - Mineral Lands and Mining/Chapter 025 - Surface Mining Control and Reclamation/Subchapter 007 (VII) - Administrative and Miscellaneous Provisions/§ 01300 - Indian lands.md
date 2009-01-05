@@ -66,7 +66,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (3) Sovereign immunity
 
-&emsp;To receive primary regulatory authority under section 1254(e) of this title, an Indiantribe shall waive sovereign immunity for purposes of section 1270 of this title and paragraph (4).
+&emsp;To receive primary regulatory authority under section 1254(e) of this title, an Indian tribe shall waive sovereign immunity for purposes of section 1270 of this title and paragraph (4).
 
 #### (4) Judicial review
 

@@ -178,7 +178,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to articles removed, as defined in subsec. (k) of this section, after Dec. 31, 1999, with transition rule, see section 9302(i) ofPub. L. 105–33, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 105–33 applicable to articles removed, as defined in subsec. (k) of this section, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1990 Amendment
 

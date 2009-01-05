@@ -18,7 +18,7 @@ The Commercial Director shall, with respect to development of high-performance g
 
 &emsp;(1) coordinate the activities of the Office of Commercial High-Performance Green Buildings with the activities of the Office of Federal High-Performance Green Buildings;
 
-&emsp;(2) develop the legal predicates and agreements for, negotiate, and establish one or more public-private partnerships with the Consortium, members of the Consortium, and other capable parties meeting the qualifications of the Consortium, to further such development;
+&emsp;(2) develop the legal predicates and agreements for, negotiate, and establish one ormore public-private partnerships with the Consortium, members of the Consortium, and other capable parties meeting the qualifications of the Consortium, to further such development;
 
 &emsp;(3) represent the public and the Department in negotiating and performing in accord with such public-private partnerships;
 

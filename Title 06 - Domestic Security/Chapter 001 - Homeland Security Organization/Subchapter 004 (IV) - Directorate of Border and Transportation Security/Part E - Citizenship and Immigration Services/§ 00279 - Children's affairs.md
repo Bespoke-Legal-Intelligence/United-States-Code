@@ -42,7 +42,7 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 &emsp;&emsp;(K) collecting and compiling statistical information from the Department of Justice, the Department of Homeland Security, and the Department of State on each department's actions relating to unaccompanied alien children; and
 
-&emsp;&emsp;(L) conducting investigations and inspections of facilities and other entities in which unaccompanied alien children reside.
+&emsp;&emsp;(L) conducting investigations and inspections of facilities and other entities in which unaccompanied alien children reside, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.
 
 #### (2) Coordination with other entities; no release on own recognizance
 
@@ -60,7 +60,11 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 #### (3) Duties with respect to foster care
 
-&emsp;In carrying out the duties described in paragraph (1)(G), the Director of the Office of Refugee Resettlement is encouraged to use the refugee children foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
+&emsp;In carrying out the duties described in paragraph (1), the Director of the Office of Refugee Resettlement is encouraged to use the refugee children foster care system established pursuant to section 412(d) of the Immigration and Nationality Act (8 U.S.C. 1522(d)) for the placement of unaccompanied alien children.
+
+#### (4) Rule of construction
+
+&emsp;Nothing in paragraph (2)(B) may be construed to require that a bond be posted for an unaccompanied alien child who is released to a qualified sponsor.
 
 #### (c) Rule of construction
 
@@ -68,7 +72,7 @@ Nothing in this section may be construed to transfer the responsibility for adju
 
 #### (d) Effective date
 
-Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer offunctions specified under section 251 of this title takes effect.
+Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer of functions specified under section 251 of this title takes effect.
 
 #### (e) References
 
@@ -110,7 +114,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) no parent or legal guardian in the United States is available to provide care and physical custody.
 
-(Pub. L. 107–296, title IV, §462, Nov. 25, 2002, 116 Stat. 2202.)
+(Pub. L. 107–296, title IV, §462, Nov. 25, 2002, 116 Stat. 2202; Pub. L. 110–457, title II, §235(f), Dec. 23, 2008, 122 Stat. 5081.)
 
 #### References in Text
 
@@ -121,6 +125,14 @@ Section 4, referred to in subsec. (d), is section 4 of Pub. L. 107–296, which 
 #### Codification
 
 In subsec. (f)(3), “section 1531 of title 31” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(L). Pub. L. 110–457, §235(f)(1), substituted “, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.” for period at end.
+
+Subsec. (b)(3). Pub. L. 110–457, §235(f)(2)(A), substituted “paragraph (1),” for “paragraph (1)(G),”.
+
+Subsec. (b)(4). Pub. L. 110–457, §235(f)(2)(B), added par. (4).
 
 #### Change of Name
 

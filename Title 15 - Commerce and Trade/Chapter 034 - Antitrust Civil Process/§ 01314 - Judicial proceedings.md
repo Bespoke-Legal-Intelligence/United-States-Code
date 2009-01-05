@@ -20,7 +20,7 @@ Whenever any such demand is an express demand for any product of discovery, the 
 
 #### (d) Petition for order requiring performance by custodian of duties; venue
 
-At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories delivered, or transcripts of oral testimony given by any person in compliance with any such demand, such person, and, in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this chapter.
+At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories delivered, or transcripts of oral testimony given by any person in compliance with any such demand, such person, and, in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in thedistrict court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this chapter.
 
 #### (e) Jurisdiction; appeal; contempts
 
@@ -38,7 +38,7 @@ Any documentary material, answers to written interrogatories, or transcripts of 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classificationof this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

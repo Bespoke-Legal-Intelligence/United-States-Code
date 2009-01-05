@@ -54,7 +54,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (e) Cease and desist order
 
-(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of this chapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
+(1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of this chapter, the Administrator may order, after theopportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
 
 (2) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a cease and desist order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a cease and desist order under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
@@ -64,7 +64,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (f) Procedure for revocation or suspension of loan authority and for cease and desist order
 
-(1) Before revoking or suspending authority under subsection (d) of this section or issuing a cease and desist order under subsection (e) of this section, the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in theorder. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
+(1) Before revoking or suspending authority under subsection (d) of this section or issuing a cease and desist order under subsection (e) of this section, the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in the order. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
 
 (2) Witnesses summoned before the Administrator shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States.
 
@@ -116,7 +116,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the grounds specified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
+&emsp;&emsp;&emsp;In the event of consent under subparagraph (C)(ii), or if upon the record made at a hearing under this subsection, the Administrator finds that any of the groundsspecified in the notice of removal has been established, the Administrator may issue such orders of removal from office as the Administrator deems appropriate.
 
 #### (ii) Effectiveness
 
@@ -178,7 +178,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (B) Judicial review
 
-&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the order to seek judicial review in an appropriate district court.
+&emsp;&emsp;An adversely aggrieved party shall have 20 days from the date of issuance of the orderto seek judicial review in an appropriate district court.
 
 #### (h) Appointment of receiver
 

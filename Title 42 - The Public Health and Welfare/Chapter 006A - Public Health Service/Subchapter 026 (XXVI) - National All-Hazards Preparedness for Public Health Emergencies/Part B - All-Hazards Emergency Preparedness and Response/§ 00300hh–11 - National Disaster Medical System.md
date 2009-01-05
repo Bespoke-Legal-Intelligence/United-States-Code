@@ -42,7 +42,7 @@
 
 #### (2) Joint review and medical surge capacity strategic plan
 
-&emsp;Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary.
+&emsp;Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary.
 
 #### (3) Participation agreements for non-Federal entities
 

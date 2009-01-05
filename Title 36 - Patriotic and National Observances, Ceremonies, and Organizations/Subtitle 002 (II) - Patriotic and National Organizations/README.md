@@ -55,7 +55,7 @@
 | [<b>1001.</b>](Part%20B%20-%20Organizations/Chapter%201001%20-%20Italian%20American%20War%20Veterans%20of%20the%20United%20States/README.md) | <b>Italian American War Veterans of the United States</b> | <b>100101</b> |
 | [<b>1101.</b>](Part%20B%20-%20Organizations/Chapter%201101%20-%20Jewish%20War%20Veterans%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md) | <b>Jewish War Veterans of the United States of America, Incorporated</b> | <b>110101</b> |
 | [<b>1103.</b>](Part%20B%20-%20Organizations/Chapter%201103%20-%20Jewish%20War%20Veterans%2C%20U.S.a.%2C%20National%20Memorial%2C%20Incorporated/README.md) | <b>Jewish War Veterans, U.S.A., National Memorial, Incorporated</b> | <b>110301</b> |
-| [<b>1201.</b>](Part%20B%20-%20Organizations/Chapter%201201%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>120101</b> |
+| [<b>1201.</b>](Part%20B%20-%20Organizations/Chapter%201201%20-%20Korean%20War%20Veterans%20Association%2C%20Incorporated/README.md) | <b>Korean War Veterans Association, Incorporated</b> | <b>120101</b> |
 | [<b>1301.</b>](Part%20B%20-%20Organizations/Chapter%201301%20-%20Ladies%20of%20the%20Grand%20Army%20of%20the%20Republic/README.md) | <b>Ladies of the Grand Army of the Republic</b> | <b>130101</b> |
 | [<b>1303.</b>](Part%20B%20-%20Organizations/Chapter%201303%20-%20Legion%20of%20Valor%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md) | <b>Legion of Valor of the United States of America, Incorporated</b> | <b>130301</b> |
 | [<b>1305.</b>](Part%20B%20-%20Organizations/Chapter%201305%20-%20Little%20League%20Baseball%2C%20Incorporated/README.md) | <b>Little League Baseball, Incorporated</b> | <b>130501</b> |
@@ -115,6 +115,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–254, §1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting “Korean War Veterans Association, Incorporated” for “\[Reserved\]”.
 
 2002—Pub. L. 107–252, title VI, §601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
 

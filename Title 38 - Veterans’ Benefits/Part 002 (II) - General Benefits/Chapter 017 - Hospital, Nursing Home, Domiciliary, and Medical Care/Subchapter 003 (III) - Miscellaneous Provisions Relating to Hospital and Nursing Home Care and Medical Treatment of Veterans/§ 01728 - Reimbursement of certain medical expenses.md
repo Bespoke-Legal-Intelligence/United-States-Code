@@ -1,22 +1,36 @@
 ### §1728. Reimbursement of certain medical expenses
 
-(a) The Secretary may, under such regulations as the Secretary shall prescribe, reimburse veterans entitled to hospital care or medical services under this chapter for the reasonable value of such care or services (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title), for which such veterans have made payment, from sources other than the Department, where—
+(a) The Secretary shall, under such regulations as the Secretary prescribes, reimburse veterans eligible for hospital care or medical services under this chapter for the customary and usual charges of emergency treatment (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title) for which such veterans have made payment, from sources other than the Department, where such emergency treatment was rendered to such veterans in need thereof for any of the following:
 
-&emsp;(1) such care or services were rendered in a medical emergency of such nature that delay would have been hazardous to life or health;
+&emsp;(1) An adjudicated service-connected disability.
 
-&emsp;(2) such care or services were rendered to a veteran in need thereof (A) for an adjudicated service-connected disability, (B) for a non-service-connected disability associated with and held to be aggravating a service-connected disability, (C) for any disability of a veteran who has a total disability permanent in nature from a service-connected disability, or (D) forany illness, injury, or dental condition in the case of a veteran who (i) is a participant in a vocational rehabilitation program (as defined in section 3101(9) of this title), and (ii) is medically determined to have been in need of care or treatment to make possible such veteran's entrance into a course of training, or prevent interruption of a course of training, or hasten the return to a course of training which was interrupted because of such illness, injury, or dental condition; and
+&emsp;(2) A non-service-connected disability associated with and held to be aggravating a service-connected disability.
 
-&emsp;(3) Department or other Federal facilities were not feasibly available, and an attempt to use them beforehand would not have been reasonable, sound, wise, or practical.
+&emsp;(3) Any disability of a veteran if the veteran has a total disability permanent in nature from a service-connected disability.
 
-(b) In any case where reimbursement would be in order under subsection (a) of this section, the Secretary may, in lieu of reimbursing such veteran, make payment of the reasonable value of care or services directly—
+&emsp;(4) Any illness, injury, or dental condition of a veteran who—
 
-&emsp;(1) to the hospital or other health facility furnishing the care or services; or
+&emsp;&emsp;(A) is a participant in a vocational rehabilitation program (as defined in section 3101(9) of this title); and
+
+&emsp;&emsp;(B) is medically determined to have been in need of care or treatment to make possible the veteran's entrance into a course of training, or prevent interruption of a course of training, or hasten the return to a course of training which was interrupted because of such illness, injury, or dental condition.
+
+(b) In any case where reimbursement would be in order under subsection (a) of this section, the Secretary may, in lieu of reimbursing such veteran, make payment of the reasonable value of emergency treatment directly—
+
+&emsp;(1) to the hospital or other health facility furnishing the emergency treatment; or
 
 &emsp;(2) to the person or organization making such expenditure on behalf of such veteran.
 
-(Added Pub. L. 93–82, title I, §106(a), Aug. 2, 1973, 87 Stat. 183, §628; amended Pub. L. 94–581, title II, §§202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, §201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, §202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, §14(b)(14), June 13, 1991, 105 Stat. 284; renumbered §1728 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(c) In this section, the term “emergency treatment” has the meaning given such term in section 1725(f)(1) of this title.
+
+(Added Pub. L. 93–82, title I, §106(a), Aug. 2, 1973, 87 Stat. 183, §628; amended Pub. L. 94–581, title II, §§202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, §201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, §202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, §14(b)(14), June 13, 1991, 105 Stat. 284; renumbered §1728 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–387, title IV, §402(b), Oct. 10, 2008, 122 Stat. 4123.)
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–387, §402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
+
+Subsec. (b). Pub. L. 110–387, §402(b)(2), substituted “emergency treatment” for “care or services” in introductory provisions and in par. (1).
+
+Subsec. (c). Pub. L. 110–387, §402(b)(3), added subsec. (c).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 628 of this title as this section.
 

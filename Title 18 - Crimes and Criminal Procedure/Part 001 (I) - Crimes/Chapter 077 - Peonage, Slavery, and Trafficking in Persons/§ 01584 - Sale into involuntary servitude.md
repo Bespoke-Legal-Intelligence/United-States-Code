@@ -1,8 +1,10 @@
 ### §1584. Sale into involuntary servitude
 
-Whoever knowingly and willfully holds to involuntary servitude or sells into any condition of involuntary servitude, any other person for any term, or brings within the United States any person so held, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
+(a) Whoever knowingly and willfully holds to involuntary servitude or sells into any condition of involuntary servitude, any other person for any term, or brings within the United States any person so held, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486.)
+(b) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
+
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, §222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +27,8 @@ Mandatory-punishment provisions were rephrased in the alternative.
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2008—Pub. L. 110–457 designated existing provisions as subsec. (a) and added subsec. (b).
 
 2000—Pub. L. 106–386 substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.”
 

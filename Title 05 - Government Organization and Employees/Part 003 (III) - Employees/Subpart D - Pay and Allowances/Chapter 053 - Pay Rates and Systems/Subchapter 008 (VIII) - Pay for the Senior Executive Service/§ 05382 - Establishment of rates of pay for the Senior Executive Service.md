@@ -28,7 +28,7 @@ Level II of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 1990—Subsec. (b). Pub. L. 101–509, §529 \[title I, §101(b)(6)(A), (9)(I)\], substituted “under section 5376” for “for GS–16 of the General Schedule” and “5306(e)” for “5308”.
 
-Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end“The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
+Subsec. (c). Pub. L. 101–509, §529 \[title I, §101(b)(4)(B)\], substituted “5303” for “5305” and struck out at end “The adjusted rates of basic pay for the Senior Executive Service shall be included in the report transmitted to the Congress by the President under section 5305(a)(3) or (c)(1) of this title.”
 
 #### Effective Date of 2003 Amendment
 

@@ -22,7 +22,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 2000—Subsec. (d). Pub. L. 106–429 struck out subsec. (d) which read as follows: “In furtherance of the provisions of subsection (a) of this section, any funds appropriated under subchapter I of this chapter may be transferred by the President to the International Development Association, the International Bank for Reconstruction and Development, the International Finance Corporation, the Asian Development Bank or other multilateral lending institutions and multilateral organizations in which the United States participates for the purpose of providing funds to enable any such institution or organization to make loans to foreign countries.”
 
-1975—Subsec. (c). Pub. L. 94–161 substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs to attain a total amount not to exceed $100,000,000 not later than June 30, 1975.
+1975—Subsec. (c). Pub. L. 94–161 substituted provision for increase of Federal funds to multilateral lending institutions and multilateral organizations for making loans to foreign countries for prior provision for reduction of loans under the bilateral lending programs toattain a total amount not to exceed $100,000,000 not later than June 30, 1975.
 
 1972—Subsec. (a). Pub. L. 92–226, §101(c)(1), in amending subsec. (a) generally, provided for United Nations sponsorship of development assistance and substituted “may contribute” for “may, in some instances, contribute”.
 

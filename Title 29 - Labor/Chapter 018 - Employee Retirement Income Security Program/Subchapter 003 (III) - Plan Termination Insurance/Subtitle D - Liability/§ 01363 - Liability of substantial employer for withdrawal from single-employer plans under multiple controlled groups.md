@@ -8,7 +8,7 @@ Except as provided in subsection (d) of this section, the plan administrator of 
 
 &emsp;(2) request that the corporation determine the liability of all persons with respect to the withdrawal of the substantial employer.
 
-> The corporation shall, as soon as practicable thereafter, determine whether there is liability resulting from the withdrawal of the substantialemployer and notify the liable persons of such liability.
+> The corporation shall, as soon as practicable thereafter, determine whether there is liability resulting from the withdrawal of the substantial employer and notify the liable persons of such liability.
 
 #### (b) Computation of liability
 
@@ -46,7 +46,7 @@ The provisions of this subsection apply in the case of a withdrawal described in
 
 #### (e) Indemnity agreement
 
-The corporation is authorized to waive the application of the provisions of subsections (b), (c), and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of section 1364 of this title.
+The corporation is authorized to waive the application of the provisions of subsections (b), (c),and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of section 1364 of this title.
 
 (Pub. L. 93–406, title IV, §4063, Sept. 2, 1974, 88 Stat. 1030; Pub. L. 96–364, title IV, §403(h), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(A), Apr. 7, 1986, 100 Stat. 268.)
 

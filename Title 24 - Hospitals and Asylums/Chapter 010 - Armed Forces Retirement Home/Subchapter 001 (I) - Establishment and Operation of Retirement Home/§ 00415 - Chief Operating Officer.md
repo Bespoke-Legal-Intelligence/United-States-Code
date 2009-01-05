@@ -80,5 +80,5 @@ Section effective one year after Nov. 5, 1990, except that provisions of this se
 
 #### Savings Provision
 
-Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as suchsection is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
+Section 1051(b)(2) of Pub. L. 104–201 provided that: “The amendment made by this subsection \[amending this section\] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act \[subsec. (f) of this section\], as such section is in effect before the date of the enactment of this Act \[Sept. 23, 1996\].”
 

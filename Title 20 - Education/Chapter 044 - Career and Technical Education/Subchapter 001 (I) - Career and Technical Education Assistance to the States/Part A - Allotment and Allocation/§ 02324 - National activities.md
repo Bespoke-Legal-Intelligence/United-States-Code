@@ -122,7 +122,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall gather any information collected pursuant to subparagraph (A) and submit a report to the relevant committees in Congress.
+&emsp;&emsp;The Secretary shall gather any information collected pursuant to subparagraph (A)and submit a report to the relevant committees in Congress.
 
 #### (4) Research
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 

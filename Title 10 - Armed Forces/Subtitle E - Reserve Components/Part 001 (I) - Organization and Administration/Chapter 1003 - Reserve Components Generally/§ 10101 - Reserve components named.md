@@ -42,6 +42,156 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Yellow Ribbon Reintegration Program
+
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, provided that:
+
+“(a)
+
+Establishment of Program.—The Secretary of Defense shall establish a national combat veteran reintegration program to provide National Guard and Reserve members and their families with sufficient information, services, referral, and proactive outreach opportunities throughout the entire deployment cycle. This program shall be known as the Yellow Ribbon Reintegration Program.
+
+“(b)
+
+Purpose of Program; Deployment Cycle.—The Yellow Ribbon Reintegration Program shall consist of informational events and activities for members of the reserve components of the Armed Forces, their families, and community members to facilitate access to services supporting their health and well-being through the 4 phases of the deployment cycle:
+
+&emsp;“(1) Pre-Deployment.
+
+&emsp;“(2) Deployment.
+
+&emsp;“(3) Demobilization.
+
+&emsp;“(4) Post-Deployment-Reconstitution.
+
+“(c)
+
+Executive Agent.—The Secretary shall designate the Under Secretary of Defense for Personnel and Readiness as the Department of Defense executive agent for the Yellow Ribbon Reintegration Program.
+
+“(d)
+
+Office for Reintegration Programs.—
+
+&emsp;“(1)
+
+Establishment.—The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shall administer all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff. The office may also enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and the Mental Health Services Administration, for access to necessary substance abuse and mental health treatment services from local State-licensed service providers.
+
+&emsp;“(2)
+
+Center for excellence in reintegration.—The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall collect and analyze ‘lessons learned’ and suggestions from State National Guard and Reserve organizations with existing or developing reintegration programs. The Center shall also assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
+
+“(e)
+
+Advisory Board.—
+
+&emsp;“(1)
+
+Appointment.—The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
+
+&emsp;“(2)
+
+Schedule.—The advisory board shall meet on a schedule determined by the Secretary of Defense.
+
+&emsp;“(3)
+
+Initial reporting requirement.—The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end of the 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
+
+&emsp;&emsp;“(A) an evaluation of the implementation of the Yellow Ribbon Reintegration Program by State National Guard and Reserve organizations;
+
+&emsp;&emsp;“(B) an assessment of any unmet resource requirements; and
+
+&emsp;&emsp;“(C) recommendations regarding closer coordination between the Office of Reintegration Programs and State National Guard and Reserve organizations.
+
+&emsp;“(4)
+
+Annual reports.—The advisory board shall submit annual reports to the Committees on Armed Services of the Senate and the House of Representatives following the initial report by the first week in March of subsequent years following the initial report.
+
+“(f)
+
+State Deployment Cycle Support Teams.—The Office for Reintegration Programs may employ personnel to administer the Yellow Ribbon Reintegration Program at the State level. The primary function of team members shall be—
+
+&emsp;“(1) to implement the reintegration curriculum through the deployment cycle described in subsection (g);
+
+&emsp;“(2) to obtain necessary service providers; and
+
+&emsp;“(3) to educate service providers regarding the unique military nature of the reintegration program.
+
+“(g)
+
+Operation of Program Through Deployment Cycle.—
+
+&emsp;“(1)
+
+In general.—The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Office of Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
+
+&emsp;“(2)
+
+Pre-deployment phase.—The Pre-Deployment Phase shall constitute the time from first notification of mobilization until deployment of the mobilized National Guard or Reserve unit. Events and activities shall focus on providing education and ensuring the readiness of members of the unit, their families, and affected communities for the rigors of a combat deployment.
+
+&emsp;“(3)
+
+Deployment phase.—The Deployment Phase shall constitute the period from deployment of the mobilized National Guard or Reserve unit until the unit arrives at a demobilization station inside the continental United States. Events and services provided shall focus on the challenges and stress associated with separation and having a member in a combat zone. Information sessions shall utilize State National Guard and Reserve resources in coordination with the Employer Support of Guard and Reserve Office, Transition Assistance Advisors, and the State Family Programs Director.
+
+&emsp;“(4)
+
+Demobilization phase.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Demobilization Phase shall constitute the period from arrival of the National Guard or Reserve unit at the demobilization station until its departure for home station.
+
+&emsp;&emsp;“(B)
+
+Initial reintegration activity.—The purpose of this reintegration program is to educate members about the resources that are available to them and to connect members to service providers who can assist them in overcoming the challenges of reintegration.
+
+&emsp;“(5)
+
+Post-deployment-reconstitution phase.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Post-Deployment-Reconstitution Phase shall constitute the period from arrival at home station until 180 days following demobilization. Activities and services provided shall focus on reconnecting members with their families and communities and providing resources and information necessary for successful reintegration. Reintegration events shall begin with elements of the Initial Reintegration Activity program that were not completed during the Demobilization Phase.
+
+&emsp;&emsp;“(B)
+
+30-day, 60-day, and 90-day reintegration activities.—The State National Guard and Reserve organizations shall hold reintegration activities at the 30-day, 60-day, and 90-day interval following demobilization. These activities shall focus on reconnecting members and their families with the service providers from the Initial Reintegration Activity to ensure that members and their families understand what benefits they are entitled to and what resources are available to help them overcome the challenges of reintegration. The Reintegration Activities shall also provide a forum for members and their families to address negative behaviors related to combat stress and transition.
+
+&emsp;&emsp;“(C)
+
+Member pay.—Members shall receive appropriate pay for days spent attending the Reintegration Activities at the 30-day, 60-day, and 90-day intervals.
+
+“(h)
+
+Outreach Services.—As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs may develop programs of outreach to members of the Armed Forces and their family members to educate such members and their family members about the assistance and services available to them under the Yellow Ribbon Reintegration Program. Such assistance and services may include the following:
+
+&emsp;“(1) Marriage counseling.
+
+&emsp;“(2) Services for children.
+
+&emsp;“(3) Suicide prevention.
+
+&emsp;“(4) Substance abuse awareness and treatment.
+
+&emsp;“(5) Mental health awareness and treatment.
+
+&emsp;“(6) Financial counseling.
+
+&emsp;“(7) Anger management counseling.
+
+&emsp;“(8) Domestic violence awareness and prevention.
+
+&emsp;“(9) Employment assistance.
+
+&emsp;“(10) Preparing and updating family care plans.
+
+&emsp;“(11) Development of strategies for living with a member of the Armed Forces with post-traumatic stress disorder or traumatic brain injury.
+
+&emsp;“(12) Other services that may be appropriate to address the unique needs of members of the Armed Forces and their families who live in rural or remote areas with respect to family readiness and servicemember reintegration.
+
+&emsp;“(13) Assisting members of the Armed Forces and their families find and receive assistance with military family readiness and servicemember reintegration, including referral services.
+
+&emsp;“(14) Development of strategies and programs that recognize the need for long-term follow-up services for reintegrating members of the Armed Forces and their families for extended periods following deployments, including between deployments.
+
+&emsp;“(15) Assisting members of the Armed Forces and their families in receiving services and assistance from the Department of Veterans Affairs, including referral services.”
+
 #### Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families
 
 Pub. L. 109–163, div. A, title V, §520, Jan. 6, 2006, 119 Stat. 3238, provided that:

@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) The term “appropriate tribal coordinating body” means the Columbia River tribal coordinating body or the Washington tribal coordinating body, as the context requires.
+&emsp;(1) The term “appropriate tribal coordinating body” means the Columbia River tribalcoordinating body or the Washington tribal coordinating body, as the context requires.
 
 &emsp;(2) The term “charter vessel” means any vessel licensed by the State to carry passengers for hire for the purpose of recreational salmon fishing.
 

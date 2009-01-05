@@ -2,15 +2,21 @@
 
 #### (a) Loans
 
-The Secretary of Agriculture (referred to in this chapter as the “Secretary”) is authorized and empowered to make loans in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems.
+The Secretary of Agriculture (referred to in this chapter as the “Secretary”) is authorized and empowered to make loans in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems.
 
 #### (b) Investigations and reports
 
 The Secretary may make, or cause to be made, studies, investigations, and reports regarding matters, including financial, technological, and regulatory matters, affecting the condition and progress of electric, telecommunications, and economic development in rural areas, and publish and disseminate information with respect to the matters.
 
-(May 20, 1936, ch. 432, title I, §2, 49 Stat. 1363; Oct. 28, 1949, ch. 776, §§2, 3, 63 Stat. 948; Pub. L. 103–129, §2(c)(1), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(2), (13), Oct. 13, 1994, 108 Stat. 3220, 3221; Pub. L. 104–127, title VII, §771, Apr. 4, 1996, 110 Stat. 1149.)
+(May 20, 1936, ch. 432, title I, §2, 49 Stat. 1363; Oct. 28, 1949, ch. 776, §§2, 3, 63 Stat. 948; Pub. L. 103–129, §2(c)(1), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(2), (13), Oct. 13, 1994, 108 Stat. 3220, 3221; Pub. L. 104–127, title VII, §771, Apr. 4, 1996, 110 Stat. 1149; Pub. L. 110–234, title VI, §6101, May 22, 2008, 122 Stat. 1195; Pub. L. 110–246, §4(a), title VI, §6101, June 18, 2008, 122 Stat. 1664, 1956.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §6101, inserted “efficiency and” before “conservation”.
 
 1996—Pub. L. 104–127, §771(1), inserted section catchline.
 
@@ -23,4 +29,8 @@ Subsec. (b). Pub. L. 104–127, §771(3), added subsec. (b) and struck out forme
 1993—Pub. L. 103–129 designated existing provisions as subsec. (a), substituted “electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems;” for “telephone service in rural areas, as hereinafter provided;”, and added subsec. (b).
 
 1949—Act Oct. 28, 1949, authorized loans to furnish and improve rural telephone service; and inserted “title I,” in credit of act May 20, 1936.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

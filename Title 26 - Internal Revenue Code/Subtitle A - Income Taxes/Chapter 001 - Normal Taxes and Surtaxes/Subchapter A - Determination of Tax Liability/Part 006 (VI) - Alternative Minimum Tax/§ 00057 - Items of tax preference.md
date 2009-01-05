@@ -74,11 +74,23 @@ For purposes of this part, the items of tax preference determined under this sec
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any qualified 501(c)(3) bond (as defined in section 145).
 
-#### (iii) Exception for refundings
+#### (iii) Exception for certain housing bonds
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any bond issued after the date of the enactment of this clause if such bond is—
+
+&emsp;&emsp;&emsp;&emsp;(I) an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section 142(d)),
+
+&emsp;&emsp;&emsp;&emsp;(II) a qualified mortgage bond (as defined in section 143(a)), or
+
+&emsp;&emsp;&emsp;&emsp;(III) a qualified veterans’ mortgage bond (as defined in section 143(b)).
+
+&emsp;&emsp;&nbsp;The preceding sentence shall not apply to any refunding bond unless such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond).
+
+#### (iv) Exception for refundings
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the term “private activity bond” shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
-#### (iv) Certain bonds issued before September 1, 1986
+#### (v) Certain bonds issued before September 1, 1986
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
 
@@ -108,13 +120,15 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I,§112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
+
+The date of the enactment of this clause, referred to in subsec. (a)(5)(C)(iii), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(6), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -123,6 +137,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L. 92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92 Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+2008—Subsec. (a)(5)(C)(iii) to (v). Pub. L. 110–289 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
 2003—Subsec. (a)(7). Pub. L. 108–27, §§301(b)(3), 303, temporarily substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.” See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -152,7 +168,7 @@ Pub. L. 103–66, §13113(b)(1), added par. (8).
 
 Subsec. (a)(2)(E). Pub. L. 102–486, §1915(b)(1), added subpar. (E).
 
-1991—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+1991—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992,in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
 
 1990—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
 
@@ -167,6 +183,10 @@ Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally
 Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted “(whether a current or advance refunding)” after “any refunding bond”.
 
 Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted “or 642(c)” after “section 170”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–289 applicable to bonds issued after July 30, 2008, see section 3022(d)(1) of Pub. L. 110–289, set out as a note under section 56 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 

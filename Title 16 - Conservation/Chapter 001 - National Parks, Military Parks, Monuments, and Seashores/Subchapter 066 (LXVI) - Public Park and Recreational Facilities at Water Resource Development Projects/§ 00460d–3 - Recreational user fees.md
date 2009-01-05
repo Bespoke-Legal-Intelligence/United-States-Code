@@ -2,13 +2,13 @@
 
 #### (a) Prohibition on admissions fees
 
-No entrance or admission fees shall be collected after March 31, 1970, by any officer or employee of the United States at public recreation areas located at lakes and reservoirs under the jurisdiction of the Corps of Engineers, United States Army.
+No entrance or admission fees shall be collected after March 31, 1970, by any officer or employee of the United States at public recreation areas located at lakes and reservoirs under thejurisdiction of the Corps of Engineers, United States Army.
 
 #### (b) Fees for use of developed recreation sites and facilities
 
 #### (1) Establishment and collection
 
-&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establishand collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+&emsp;Notwithstanding section 460<i>l</i>–6a(b) <sup>1</sup> of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
 
 #### (2) Exemption of certain facilities
 

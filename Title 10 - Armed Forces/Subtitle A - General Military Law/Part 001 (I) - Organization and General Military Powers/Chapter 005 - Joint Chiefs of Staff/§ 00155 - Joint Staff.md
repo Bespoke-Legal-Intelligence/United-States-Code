@@ -42,7 +42,7 @@ Tour of Duty of Joint Staff Officers.—(1) An officer who is assigned or detail
 
 (2) In accordance with procedures established by the Secretary of Defense, the Chairman of the Joint Chiefs of Staff may suspend from duty and recommend the reassignment of any officer assigned to the Joint Staff. Upon receipt of such a recommendation, the Secretary concerned shall promptly reassign the officer.
 
-(3) An officer completing a tour of duty with the Joint Staff may not be assigned or detailed to permanent duty on the Joint Staff within two years after relief from that duty except with the approval of the Secretary.
+(3) An officer completing a tour of duty with the Joint Staff may not be assigned or detailedto permanent duty on the Joint Staff within two years after relief from that duty except with the approval of the Secretary.
 
 (4) Paragraphs (1) and (3) do not apply—
 

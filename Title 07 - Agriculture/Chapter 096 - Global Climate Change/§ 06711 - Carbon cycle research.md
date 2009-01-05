@@ -120,15 +120,19 @@ Not more than 3 percent of the funds made available for this section may be used
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.
+There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2007 through 2012.
 
-(Pub. L. 106–224, title II, §221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, §7223, title IX, §9009, May 13, 2002, 116 Stat. 454, 483.)
+(Pub. L. 106–224, title II, §221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, §7223, title IX, §9009, May 13, 2002, 116 Stat. 454, 483; Pub. L. 110–234, title VII, §7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7407, June 18, 2008, 122 Stat. 1664, 2013.)
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Agricultural Risk Protection Act of 2000, and not as part of the Global Climate Change Prevention Act of 1990 which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (g). Pub. L. 110–246, §7407, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “There are authorized to be appropriated for fiscal years 2002 through 2007 such sums as may be necessary to carry out this section.”
 
 2002—Subsec. (a). Pub. L. 107–171, §7223(1), substituted “To the extent funds are made available for this purpose, the Secretary shall provide” for “Of the amount made available under section 261(a)(2), the Secretary shall use $15,000,000 to provide”.
 
@@ -139,4 +143,8 @@ Subsec. (f). Pub. L. 107–171, §9009(1), redesignated subsec. (d) as (f).
 Pub. L. 107–171, §7223(2), substituted “for this section” for “under subsection (a) of this section”.
 
 Subsec. (g). Pub. L. 107–171, §7223(3), added subsec. (g).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

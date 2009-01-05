@@ -42,7 +42,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (c)(2)(D). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(A)\], struck out “section 5(d)(2) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) or” after “otherwise permitted under”.
+Subsec. (c)(2)(D). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(A)\], struck out “section 5(d)(2) of theAct of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) or” after “otherwise permitted under”.
 
 Subsec. (c)(2)(E). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(B)\], substituted “1999” for “1994”, struck out “(or such section's predecessor authority)” after “section 7703(b) of this title”, and substituted “paragraph (1)” for “paragraph (2)”.
 

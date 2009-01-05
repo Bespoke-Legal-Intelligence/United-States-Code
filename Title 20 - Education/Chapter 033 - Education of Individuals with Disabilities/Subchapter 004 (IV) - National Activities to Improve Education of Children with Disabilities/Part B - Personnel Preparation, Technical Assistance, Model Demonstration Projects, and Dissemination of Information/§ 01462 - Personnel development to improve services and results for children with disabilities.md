@@ -100,7 +100,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;&emsp;(II) 1 or more local educational agencies that serve high numbers or percentages of low-income students; or
 
-&emsp;&emsp;&emsp;&emsp;(III) 1 or more elementary schools or secondary schools, particularly schools that have failed to make adequate yearly progress on the basis, in whole and in part, of the assessment results of the disaggregated subgroup of students with disabilities;
+&emsp;&emsp;&emsp;&emsp;(III) 1 or more elementary schools or secondary schools, particularly schools that have failed to make adequate yearly progress on the basis, in whole and inpart, of the assessment results of the disaggregated subgroup of students with disabilities;
 
 &emsp;&emsp;&emsp;(ii) may include other entities eligible for assistance under this subchapter; and
 
@@ -176,7 +176,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) Preparing personnel at the graduate, doctoral, and postdoctoral levels of training to administer, enhance, or provide services to improve results for children with disabilities.
 
-&emsp;&emsp;(B) Providing interdisciplinary training for various types of leadership personnel, including teacher preparation faculty, related services faculty, administrators, researchers, supervisors, principals, and other persons whose work affects early intervention, educational, and transitional services for children with disabilities, including children with disabilities who are limited English proficient children.
+&emsp;&emsp;(B) Providing interdisciplinary training for various types of leadership personnel, including teacher preparation faculty, related services faculty, administrators, researchers, supervisors, principals, and other persons whose work affects early intervention, educational, and transitional services for children with disabilities, including childrenwith disabilities who are limited English proficient children.
 
 #### (e) Applications
 

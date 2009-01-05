@@ -12,7 +12,7 @@ Upon the filing of an application for registration on the supplemental register 
 
 For the purposes of registration on the supplemental register, a mark may consist of any trademark, symbol, label, package, configuration of goods, name, word, slogan, phrase, surname, geographical name, numeral, device, any matter that as a whole is not functional, or any combination of any of the foregoing, but such mark must be capable of distinguishing the applicant's goods or services.
 
-(July 5, 1946, ch. 540, title II, §23, 60 Stat. 435; Pub. L. 87–772, §13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, §333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, §201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title II, §23, 60 Stat. 435; Pub. L. 87–772, §13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, §333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, §201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@ For purposes of this part—
 
 #### (iii) Bonds acquired in certain reorganizations
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any bond issued pursuant to a plan of reorganization (within the meaning of section 368(a)(1)) in exchange for another bond having market discount. Solely for purposes of section 1276, the preceding sentence shall not apply if such other bond was issued on or before July 18, 1984 (the date of the enactment of section 1276) and if the bond issued pursuant to such plan of reorganization has the same term and the same interest rate as such other bond had.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any bond issued pursuant to a plan of reorganization (within the meaning of section 368(a)(1)) in exchange for another bond having market discount. Solely for purposes of section 1276, the preceding sentence shall not apply if such other bond was issued on orbefore July 18, 1984 (the date of the enactment of section 1276) and if the bond issued pursuant to such plan of reorganization has the same term and the same interest rate as such other bond had.
 
 #### (iv) Treatment of certain transferred basis property
 
@@ -146,7 +146,7 @@ Amendments by Pub. L. 103–66 applicable to obligations purchased (within the m
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

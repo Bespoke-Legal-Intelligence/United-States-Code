@@ -20,7 +20,7 @@ No zoning bylaw or amendment of a zoning bylaw shall be approved by the Secretar
 
 If any improved property with respect to which the Secretary's authority to acquire by condemnation has been suspended by reason of the adoption and approval, in accordance with the foregoing provisions of this section, of a zoning bylaw applicable to such property (hereinafter referred to as “such bylaw”)—
 
-&emsp;(1) is made the subject of a variance under or an exception to such bylaw, which variance or exception fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in the regulations issued pursuant to this section and in effect at the time of the passage of such bylaw, or
+&emsp;(1) is made the subject of a variance under or an exception to such bylaw, which variance or exception fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in the regulations issuedpursuant to this section and in effect at the time of the passage of such bylaw, or
 
 &emsp;(2) is property upon or with respect to which there occurs any use, commencing after the date of the publication by the Secretary of such regulations, which fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in such regulations (but no use which is in conformity with the provisions of such bylaw shall be held to fail to conform or be opposed to or inconsistent with any such standard),
 

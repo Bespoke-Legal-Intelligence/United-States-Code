@@ -80,7 +80,7 @@ Authority for Court To Treat Retired Pay as Property of the Member and Spouse.�
 
 (d)
 
-Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, oras otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act (42 U.S.C. 608(a)(4)), assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
 (2) If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member's eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
 
@@ -214,7 +214,7 @@ Relationship to Other Laws.—In any case involving an order providing for payme
 
 The Social Security Act, referred to in subsecs. (a)(1)(D) and (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Section 454B of the Act is classified to section 654b of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat.1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix and Tables.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 104–193, §362(c)(2)(A), inserted “or a support orde
 
 Subsec. (a)(2)(B)(i). Pub. L. 104–193, §362(c)(2)(B), substituted “(as defined in section 459(i)(2) of the Social Security Act (42 U.S.C. 659(i)(2)))” for “(as defined in section 462(b) of the Social Security Act (42 U.S.C. 662(b)))”.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 104–193, §362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the SocialSecurity Act (42 U.S.C. 659(i)(3)))” for “(as defined in section 462(c) of the Social Security Act (42 U.S.C. 662(c)))”.
+Subsec. (a)(2)(B)(ii). Pub. L. 104–193, §362(c)(2)(C), substituted “(as defined in section 459(i)(3) of the Social Security Act (42 U.S.C. 659(i)(3)))” for “(as defined in section 462(c) of the Social Security Act (42 U.S.C. 662(c)))”.
 
 Subsec. (a)(5). Pub. L. 104–106 substituted “section 12731” for “section 1331”.
 
@@ -416,7 +416,7 @@ Amendment by section 3(3) of Pub. L. 100–26 applicable as if included in Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Section 644(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to court orders issued after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -460,7 +460,7 @@ Section 653(c) of Pub. L. 102–484 provided that: “No payments under subsecti
 
 #### Study Concerning Benefits for Dependents Who Are Victims of Abuse
 
-Pub L. 102–484, div. A, title VI, §653(e), Oct. 23, 1992, 106 Stat. 2429, directed the Secretary of Defense to conduct a study in order to estimate the number of persons who would become eligible to receive payments under subsec. (h) of this section during each of fiscal years 1993 through 2000 and the number of members of the Armed Forces who would be approved in each of fiscal years 1993 through 2000 for separation from the Armed Forces as a result of having abused a spouse or dependent child, and to submit to Congress a report on the results of such study not later than one year after Oct. 23, 1992.
+Pub L. 102–484, div. A, title VI, §653(e), Oct. 23, 1992, 106 Stat. 2429, directed the Secretary of Defense to conduct a study in order to estimate the number of personswho would become eligible to receive payments under subsec. (h) of this section during each of fiscal years 1993 through 2000 and the number of members of the Armed Forces who would be approved in each of fiscal years 1993 through 2000 for separation from the Armed Forces as a result of having abused a spouse or dependent child, and to submit to Congress a report on the results of such study not later than one year after Oct. 23, 1992.
 
 #### Commissary and Exchange Privileges
 

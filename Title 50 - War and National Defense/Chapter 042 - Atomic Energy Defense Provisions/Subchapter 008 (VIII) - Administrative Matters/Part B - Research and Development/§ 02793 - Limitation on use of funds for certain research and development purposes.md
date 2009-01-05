@@ -16,7 +16,7 @@ No funds authorized to be appropriated or otherwise made available to the Depart
 
 #### References in Text
 
-Section 3101 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (a), issection 3101 of Pub. L. 104–201, div. C, title XXXI, Sept. 23, 1996, 110 Stat. 2820, which is not classified to the Code.
+Section 3101 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (a), is section 3101 of Pub. L. 104–201, div. C, title XXXI, Sept. 23, 1996, 110 Stat. 2820, which is not classified to the Code.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Subsec. (b) of this section was formerly classified to section 7257b of Title 42
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(k)(7)(B)(iv), inserted “of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201)” after “section 3101”.
 
-1997—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 107–314, §4812(c), formerly Pub. L. 105–85, §3137(c), substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
 

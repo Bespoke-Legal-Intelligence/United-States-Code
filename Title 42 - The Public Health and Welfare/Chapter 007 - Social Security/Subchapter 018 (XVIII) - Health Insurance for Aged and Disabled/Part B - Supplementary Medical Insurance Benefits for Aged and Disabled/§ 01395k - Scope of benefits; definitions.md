@@ -24,7 +24,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;(iv) services of a nurse practitioner or clinical nurse specialist but only if no facility or other provider charges or is paid any amounts with respect to the furnishing of such services; and <sup>2</sup>
 
-&emsp;&emsp;(C) outpatient physical therapy services (other than services to which the second sentence of section 1395x(p) of this title applies) and outpatient occupational therapy services (other than services to which such sentence applies through the operation of section 1395x(g) of this title);
+&emsp;&emsp;(C) outpatient physical therapy services (other than services to which the second sentence of section 1395x(p) of this title applies), outpatient occupational therapy services (other than services to which such sentence applies through the operation of section 1395x(g) of this title), and outpatient speech-language pathology services (other than services to which the second sentence of section 1395x(p) of this title applies through the application of section 1395x(<i>ll</i>)(2) of this title);
 
 &emsp;&emsp;(D)(i) rural health clinic services and (ii) Federally qualified health center services;
 
@@ -56,7 +56,7 @@ The benefits provided to an individual by the insurance program established by t
 
 For definitions of “spell of illness”, “medical and other health services”, and other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100 Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1832, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 302; amended Pub. L. 90–248, title I, §§129(c)(6)(B), 133(d), Jan. 2, 1968, 81 Stat. 848, 851; Pub. L. 92–603, title II, §§227(e)(1), 251(a)(4), Oct. 30, 1972, 86 Stat. 1406, 1445; Pub. L. 95–210, §1(a), Dec. 13, 1977, 91 Stat. 1485; Pub. L. 96–499, title IX, §§930(g), 933(a), 934(a), 948(a)(2), Dec. 5, 1980, 94 Stat. 2631, 2635, 2637, 2643; Pub. L. 97–248, title I, §148(c), Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §§2341(b), 2354(b)(6), July 18, 1984, 98 Stat. 1094, 1100; Pub. L. 99–509, title IX, §§9320(d), 9337(a), 9343(e)(1), Oct. 21, 1986, 100 Stat. 2013, 2033, 2041; Pub. L. 100–203, title IV, §§4062(d)(2), 4063(e)(2), 4073(b)(1), 4077(b)(2), 4085(i)(22)(A), Dec. 22, 1987, 101 Stat. 1330–108, 1330–118, 1330–120, as amended Pub. L. 100–360, title IV, §411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi), July 1, 1988, 102 Stat. 783, 786, 787, 789; Pub. L. 100–360, title I, §104(d)(3), title II, §§203(a), 205(a), July 1, 1988, 102 Stat. 689, 721, 729, 783; Pub. L. 101–234, title I, §101(a), title II, §201(a), Dec. 13, 1989, 103 Stat. 1979, 1981; Pub. L. 101–239, title VI, §6116(a)(2), Dec. 19, 1989, 103 Stat. 2219; Pub. L. 101–508, title IV, §§4153(a)(2)(A), 4155(b)(1), 4157(b), 4161(a)(3)(A), 4162(b)(1), Nov. 5, 1990, 104 Stat. 1388–83, 1388–86, 1388–89, 1388–93, 1388–96; Pub. L. 105–33, title IV, §§4201(c)(1), 4432(b)(5)(B), 4511(c), 4603(c)(2)(B)(ii), Aug. 5, 1997, 111 Stat. 373, 421, 443, 471; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–354; Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473; Pub. L. 110–275, title I, §143(b)(1), July 15, 2008, 122 Stat. 2542.)
 
 #### References in Text
 
@@ -64,7 +64,9 @@ Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I)
 
 #### Amendments
 
-2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in ayear during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
+2008—Subsec. (a)(2)(C). Pub. L. 110–275 substituted “, outpatient” for “and outpatient” and inserted “, and outpatient speech-language pathology services (other than services to which the second sentence of section 1395x(p) of this title applies through the application of section 1395x(<i>ll</i>)(2) of this title)” before semicolon at end.
+
+2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
 
 1999—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -156,6 +158,10 @@ Subsec. (a)(2)(C). Pub. L. 92–603, §251(a)(4), inserted “, other than serv
 
 Subsec. (a)(2)(C). Pub. L. 90–248, §133(d), added subpar. (C).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §143(c), July 15, 2008, 122 Stat. 2543, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, 1395y, 1395cc, and 1395nn of this title\] shall apply to services furnished on or after July 1, 2009.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
@@ -164,7 +170,7 @@ Amendment by section 4432(b)(5)(B) of Pub. L. 105–33 applicable to items and s
 
 Section 4511(e) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395x, 1395y, 1395cc, and 1395yy of this title\] shall apply with respect to services furnished and supplies provided on and after January 1, 1998.”
 
-Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, seesection 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
+Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -248,13 +254,17 @@ Amendment by section 129(c)(6)(B) of Pub. L. 90–248 applicable with respect to
 
 Section 133(g) of Pub. L. 90–248 provided that: “The amendments made by the preceding subsections of this section \[amending this section and sections 1395n, 1395x, 1395aa, and 1395cc of this title\] shall apply to services furnished after June 30, 1968.”
 
+#### Construction of 2008 Amendment
+
+Pub. L. 110–275, title I, §143(d), July 15, 2008, 122 Stat. 2543, provided that: “Nothing in this section \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, 1395y, 1395cc, and 1395nn of this title\] shall be construed to affect existing regulations and policies of the Centers for Medicare \& Medicaid Services that require physician oversight of care as a condition of payment for speech-language pathology services under part B of the Medicare program \[42 U.S.C. 1395j et seq.\].”
+
+#### Construction of 1986 Amendment
+
+Section 9320(j) of Pub. L. 99–509 provided that: “Nothing in this section or the amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision.”
+
 #### Report on Immunosuppressive Drug Benefit
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–356, which required the Secretary of Health and Human Services to submit to Congress not later than Mar. 1, 2003, a report on the operation of section 1000(a)(6) \[title II, §227\] of Pub. L. 106–113, amending this section and section 1395x of this title, including an analysis of impact and recommendations regarding an appropriate cost-effective method for providing coverage of immunosuppressive drugs under the medicare program on a permanent basis, was repealed by Pub. L. 106–554, §1(a)(6) \[title I, §113(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–473.
-
-#### Construction of Section 9320 of Pub. L. 99–509
-
-Section 9320(j) of Pub. L. 99–509 provided that: “Nothing in this section or the amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 1395ww of this title\] shall contravene provisions of State law relating to the practice of medicine or nursing or State law requirements or institutional requirements regarding the administration of anesthesia and its medical direction or supervision.”
 
 #### Quality and Utilization of In-Home Care for Chronically Dependent Individuals
 

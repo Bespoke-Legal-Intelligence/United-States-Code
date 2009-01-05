@@ -12,7 +12,7 @@ Section 443 related to transfer of bonds purchased, payment, and cancellation of
 
 Section 444 related to issuance of circulating notes to reserve banks purchasing bonds.
 
-Section 445 provided for issuance of circulating notes to Federal Reserve banks. Act June 12, 1945, ch. 186, §3, 59 Stat. 238, provided that all power and authority with respect to the issuance of circulating notes, known asFederal Reserve bank notes, pursuant to this section would cease and terminate on June 12, 1945.
+Section 445 provided for issuance of circulating notes to Federal Reserve banks. Act June 12, 1945, ch. 186, §3, 59 Stat. 238, provided that all power and authority with respect to the issuance of circulating notes, known as Federal Reserve bank notes, pursuant to this section would cease and terminate on June 12, 1945.
 
 Section 446 related to exchange by reserve banks of bonds bearing circulating privilege for those without such privilege.
 

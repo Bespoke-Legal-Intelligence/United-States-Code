@@ -32,23 +32,7 @@ Deduction for Administrative Expenses.—On October 1 of each fiscal year or as 
 
 (f)
 
-Allocation Criteria and Eligibility.—
-
-&emsp;(1)
-
-In general.—On October 1 of each fiscal year or as soon after that date as practicable and after making the deduction under subsection (e), the Secretary shall allocate amounts made available to carry out section 31102 for such fiscal year among the States with plans approved under section 31102. Such allocation shall be made under such criteria as the Secretary prescribes by regulation.
-
-&emsp;(2)
-
-High-priority and border activities.—
-
-&emsp;&emsp;(A)
-
-High-priority activities and projects.—The Secretary may designate up to 5 percent of amounts available for allocation under paragraph (1) for States, local governments, and other persons for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations, including activities and projects that are national in scope, increase public awareness and education, or demonstrate new technologies. The amounts designated under this subparagraph shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
-
-&emsp;&emsp;(B)
-
-Border commercial motor vehicle safety and enforcement programs.—The Secretary may designate up to 5 percent of amounts available for allocation under paragraph (1) for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects. The amounts designated under this subparagraph shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
+Allocation Criteria and Eligibility.—On October 1 of each fiscal year or as soon after that date as practicable and after making the deduction under subsection (e), the Secretary shall allocate amounts made available to carry out section 31102 for such fiscal year among the States with plans approved under section 31102. Such allocation shall be made under such criteria as the Secretary prescribes by regulation.
 
 (g)
 
@@ -110,13 +94,13 @@ Set aside.—The Secretary may set aside from amounts made available by subsecti
 
 &emsp;(3)
 
-Description of recipients.—Amounts set aside under this subsection shall be allocated by the Secretary only to State agencies, localgovernments, and organizations representing government agencies or officials that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
+Description of recipients.—Amounts set aside under this subsection shall be allocated by the Secretary only to State agencies, local governments, and organizations representing government agencies or officials that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
 
 &emsp;(4)
 
 Limitation.—At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616.)
 
 Historical and Revision Notes
 
@@ -210,6 +194,8 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 #### Amendments
 
+2008—Subsec. (f). Pub. L. 110–244 struck out par. (1) designation and heading before “On October” and struck out par. (2) which permitted the Secretary to designate certain allocated amounts for high-priority and border activities.
+
 2005—Subsec. (a). Pub. L. 109–59, §4101(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text contained pars. (1) to (8) making amounts available from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 for fiscal years 1998 to 2004 and part of 2005.
 
 Subsec. (a)(8). Pub. L. 109–40 amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Not more than $138,904,110 for the period of October 1, 2004, through July 27, 2005.”
@@ -238,7 +224,7 @@ Subsec. (a)(8). Pub. L. 108–310 added par. (8).
 
 2003—Subsec. (a)(7). Pub. L. 108–88 added par. (7).
 
-1998—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
+1998—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
 
 Subsec. (b). Pub. L. 105–178, §4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 

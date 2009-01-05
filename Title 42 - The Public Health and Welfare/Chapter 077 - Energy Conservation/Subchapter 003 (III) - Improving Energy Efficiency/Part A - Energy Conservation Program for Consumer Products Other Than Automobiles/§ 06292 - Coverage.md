@@ -126,7 +126,7 @@ Section 121 of Pub. L. 102–486 provided that:
 
 “(a)
 
-In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council, industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
+In General.—(1) The Secretary shall, after consulting with the National Fenestration Rating Council,industry representatives, and other appropriate organizations, provide financial assistance to support a voluntary national window rating program that will develop energy ratings and labels for windows and window systems.
 
 “(2) Such rating program shall include—
 
@@ -202,7 +202,7 @@ In General.—(1) The Secretary shall, after consulting with the National Electr
 
 “(b)
 
-Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
+Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program describedin subsection (a) and, not later than three years after the date of the enactment of this Act \[Oct. 24, 1992\], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a).
 
 “(c)
 
@@ -210,7 +210,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for whichthe Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+“(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 

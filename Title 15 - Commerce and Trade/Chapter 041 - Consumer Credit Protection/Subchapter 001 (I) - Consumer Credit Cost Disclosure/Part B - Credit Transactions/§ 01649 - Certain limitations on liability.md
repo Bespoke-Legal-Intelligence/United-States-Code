@@ -40,7 +40,7 @@ Subsection (a) of this section shall not apply to—
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this subchapter, and” for “For any consumer credit transaction subject to this subchapter”.
+1996—Subsec. (a). Pub. L. 104–208 substituted “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to thissubchapter, and” for “For any consumer credit transaction subject to this subchapter”.
 
 #### Effective Date of 1996 Amendment
 

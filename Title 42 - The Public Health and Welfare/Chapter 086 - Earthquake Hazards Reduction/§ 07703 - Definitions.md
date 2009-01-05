@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires:
 
 &emsp;(5) The term “United States” means, when used in a geographical sense, all of the States as defined in paragraph (4) of this section.
 
-&emsp;(6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
+&emsp;(6) The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilitiesand infrastructure, and water supply and sewage treatment facilities.
 
 &emsp;(7) The term “Program agencies” means the Federal Emergency Management Agency, the United States Geological Survey, the National Science Foundation, and the National Institute of Standards and Technology.
 

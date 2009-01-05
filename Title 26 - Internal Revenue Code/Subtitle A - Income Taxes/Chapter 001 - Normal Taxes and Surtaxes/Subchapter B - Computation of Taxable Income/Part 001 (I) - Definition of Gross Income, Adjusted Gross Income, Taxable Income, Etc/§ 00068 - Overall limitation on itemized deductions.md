@@ -63,9 +63,9 @@ This section shall not apply to any taxable year beginning after December 31, 20
 
 (Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44.)
 
-#### Adjustment of Applicable Amount Under This Section for Taxable Years Beginning in 2008
+#### Inflation Adjusted Items for Certain Years
 
-<i>For adjustment of “applicable amount” for determining limitation on itemized deductions</i><i>under this section for taxable years beginning in 2008, see section 3.12 of Revenue Procedure 2007–66, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendment of Section
 

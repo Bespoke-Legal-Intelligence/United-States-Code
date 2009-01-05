@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) take any other action authorized under section 1703 of this title to provide increased Federal assistance to those areas; and
 
-&emsp;&emsp;(D) coordinate activities under this section (specifically administrative, recordkeeping, and funds management activities) with State, local, and tribal officials.
+&emsp;&emsp;(D) coordinate activities under this section (specifically administrative, recordkeeping,and funds management activities) with State, local, and tribal officials.
 
 #### (c) Petitions for designation
 
@@ -92,7 +92,7 @@ The Director shall ensure that no Federal funds appropriated for the Program are
 
 &emsp;The Director shall ensure—
 
-&emsp;&emsp;(A) that assistance provided under paragraph (1) remains incidental to the purpose of the Program to reduce drug availabilityand carry out drug-related law enforcement activities; and
+&emsp;&emsp;(A) that assistance provided under paragraph (1) remains incidental to the purpose of the Program to reduce drug availability and carry out drug-related law enforcement activities; and
 
 &emsp;&emsp;(B) that significant resources of the Program are not redirected to activities exclusively related to terrorism, except on a temporary basis under extraordinary circumstances, as determined by the Director.
 
@@ -174,7 +174,7 @@ Not later than 1 year after December 29, 2006, and as part of each subsequent an
 
 &emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information is shared among law enforcement agencies and with the high intensity drug trafficking area;
 
-&emsp;&emsp;(F) the nature and extent to which information sharing and enforcement activitiesare coordinated with joint terrorism task forces in the high intensity drug trafficking area; and
+&emsp;&emsp;(F) the nature and extent to which information sharing and enforcement activities are coordinated with joint terrorism task forces in the high intensity drug trafficking area; and
 
 &emsp;&emsp;(G) any recommendations for measures needed to ensure that task force resources are utilized efficiently and effectively to reduce the availability of illegal drugs in the high intensity drug trafficking areas.
 
@@ -184,7 +184,7 @@ Not later than 180 days after December 29, 2006, and as part of each subsequent 
 
 &emsp;(1) evaluating existing and planned law enforcement intelligence systems supported by each high intensity drug trafficking area, or utilized by task forces receiving any funding under the Program, including the extent to which such systems ensure access and availability of law enforcement intelligence to Federal, State, local, and tribal law enforcement agencies within the high intensity drug trafficking area and outside of it;
 
-&emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligence information to assess current drug trafficking threats and design appropriate enforcement strategies; and
+&emsp;(2) the extent to which Federal, State, local, and tribal law enforcement agencies participating in each high intensity drug trafficking area are sharing law enforcement intelligenceinformation to assess current drug trafficking threats and design appropriate enforcement strategies; and
 
 &emsp;(3) the measures needed to improve effective sharing of information and law enforcement intelligence regarding drug trafficking and drug production among Federal, State, local, and tribal law enforcement participating in a high intensity drug trafficking area, and between such agencies and similar agencies outside the high intensity drug trafficking area.
 

@@ -18,7 +18,11 @@ In this section:
 
 #### (3) Tribal College or University
 
-&emsp;The term “Tribal College or University” has the meaning give the term “tribally controlled college or university” in section 1801 of title 25, and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
+&emsp;The term “Tribal College or University” means an institution that—
+
+&emsp;&emsp;(A) qualifies for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Assistance Act of 1978 (25 U.S.C. 640a note); or
+
+&emsp;&emsp;(B) is cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note).
 
 #### (4) Institution of higher education
 
@@ -36,29 +40,33 @@ In this section:
 
 &emsp;&emsp;(A) purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
 
-&emsp;&emsp;(B) construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;
+&emsp;&emsp;(B) construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services, and the acquisition of real property adjacent to the campus of the institution on which to construct such facilities;
 
-&emsp;&emsp;(C) support of faculty exchanges, faculty development, and faculty fellowships to assist in attaining advanced degrees in the faculty's field of instruction;
+&emsp;&emsp;(C) support of faculty exchanges, faculty development, and faculty fellowships to assist in attaining advanced degrees in the faculty's field of instruction or in tribal governance or tribal public policy;
 
-&emsp;&emsp;(D) academic instruction in disciplines in which Indians are underrepresented;
+&emsp;&emsp;(D) academic instruction in disciplines in which Indians are underrepresented and instruction in tribal governance or tribal public policy;
 
 &emsp;&emsp;(E) purchase of library books, periodicals, and other educational materials, including telecommunications program material;
 
 &emsp;&emsp;(F) tutoring, counseling, and student service programs designed to improve academic success;
 
-&emsp;&emsp;(G) funds management, administrative management, and acquisition of equipment for use in strengthening funds management;
+&emsp;&emsp;(G) education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ families;
 
-&emsp;&emsp;(H) joint use of facilities, such as laboratories and libraries;
+&emsp;&emsp;(H) funds management, administrative management, and acquisition of equipment for use in strengthening funds management;
 
-&emsp;&emsp;(I) establishing or improving a development office to strengthen or improve contributions from alumni and the private sector;
+&emsp;&emsp;(I) joint use of facilities, such as laboratories and libraries;
 
-&emsp;&emsp;(J) establishing or enhancing a program of teacher education designed to qualify students to teach in elementary schools or secondary schools, with a particular emphasis on teaching Indian children and youth, that shall include, as part of such program, preparation for teacher certification;
+&emsp;&emsp;(J) establishing or improving a development office to strengthen or improve contributions from alumni and the private sector;
 
-&emsp;&emsp;(K) establishing community outreach programs that encourage Indian elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education; and
+&emsp;&emsp;(K) establishing or enhancing a program of teacher education designed to qualify students to teach in elementary schools or secondary schools, with a particular emphasis on teaching Indian children and youth, that shall include, as part of such program, preparation for teacher certification;
 
-&emsp;&emsp;(L) other activities proposed in the application submitted pursuant to subsection (d) of this section that—
+&emsp;&emsp;(L) establishing community outreach programs that encourage Indian elementary school and secondary school students to develop the academic skills and the interest to pursue postsecondary education;
 
-&emsp;&emsp;&emsp;(i) contribute to carrying out the activities described in subparagraphs (A) through (K); and
+&emsp;&emsp;(M) developing or improving facilities for Internet use or other distance education technologies; and
+
+&emsp;&emsp;(N) other activities proposed in the application submitted pursuant to subsection (d) of this section that—
+
+&emsp;&emsp;&emsp;(i) contribute to carrying out the activities described in subparagraphs (A) through (M); and
 
 &emsp;&emsp;&emsp;(ii) are approved by the Secretary as part of the review and acceptance of such application.
 
@@ -76,7 +84,7 @@ In this section:
 
 &emsp;&emsp;The provisions of part C of this subchapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
-#### (d) Application process
+#### (d) Application, plan, and allocation
 
 #### (1) Institutional eligibility
 
@@ -84,33 +92,73 @@ In this section:
 
 #### (2) Application
 
-&emsp;Any Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, and in such manner, as the Secretary may by regulation reasonably require. The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section. Each such application shall include—
+#### (A) In general
 
-&emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Tribal College or University to Indian students, increasing the rates at which Indian secondary school students enroll in higher education, and increasing overall postsecondary retention rates for Indian students; and
+&emsp;&emsp;A Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
-&emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary may require to demonstrate compliance with paragraph (1).
+#### (B) Streamlined process
 
-#### (3) Special rules
+&emsp;&emsp;The Secretary shall establish application requirements in such a manner as to simplify and streamline the process for applying for grants under this section.
 
-#### (A) Eligibility
+#### (3) Awards and allocations to institutions
 
-&emsp;&emsp;No Tribal College or University that receives funds under this section shall concurrently receive funds under other provisions of this part or part B of this subchapter.
+#### (A) Construction grants
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Of the amount appropriated to carry out this section for any fiscal year, the Secretary may reserve 30 percent for the purpose of awarding one-year grants of not less than $1,000,000 to address construction, maintenance, and renovation needs at eligible institutions.
+
+#### (ii) Preference
+
+&emsp;&emsp;&emsp;In providing grants under clause (i) for any fiscal year, the Secretary shall give preference to eligible institutions that have not received an award under this section for a previous fiscal year.
+
+#### (B) Allotment of remaining funds
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>1</sup> of the Tribal Colleges and Universities.
+
+&emsp;&emsp;&emsp;&emsp;(II) The remaining 40 percent shall be distributed in equal shares to the eligible Tribal Colleges and Universities.
+
+#### (ii) Minimum grant
+
+&emsp;&emsp;&emsp;The amount distributed to a Tribal College or University under clause (i) shall not be less than $500,000.
+
+#### (4) Special rules
+
+#### (A) Concurrent funding
+
+&emsp;&emsp;No Tribal College or University that receives funds under this section shall concurrently receive funds under any other provision of this part, part B, or part A of subchapter V.
 
 #### (B) Exemption
 
 &emsp;&emsp;Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
 
-#### (C) Distribution
-
-&emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
-
-(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330.)
+(Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330; Pub. L. 110–315, title III, §303, Aug. 14, 2008, 122 Stat. 3167.)
 
 #### References in Text
 
-The Equity in Educational Land Grant Status Act of 1994, referred to in subsec. (b)(3), means the Equity in Educational Land-Grant Status Act of 1994, Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7, Agriculture.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+
+The Navajo Community College Act, referred to in subsec. (b)(3)(A), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+
+Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3)(B), is section 532 of Pub. L. 103–382, which is set out in a note under section 301 of Title 7, Agriculture.
 
 #### Amendments
+
+2008—Subsec. (b)(3). Pub. L. 110–315, §303(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in section 1801 of title 25, and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
+
+Subsec. (c)(2)(B). Pub. L. 110–315, §303(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;”.
+
+Subsec. (c)(2)(C). Pub. L. 110–315, §303(2)(B), inserted “or in tribal governance or tribal public policy” before semicolon at end.
+
+Subsec. (c)(2)(D). Pub. L. 110–315, §303(2)(C), inserted “and instruction in tribal governance or tribal public policy” before semicolon at end.
+
+Subsec. (c)(2)(G) to (N). Pub. L. 110–315, §303(2)(D)–(H), added subpars. (G) and (M), redesignated former subpars. (G), (H), (I), (J), (K), and (L) as subpars. (H), (I), (J), (K), (L), and (N), respectively, and in subpar. (N)(i) substituted “subparagraphs (A) through (M)” for “subparagraphs (A) through (K)”.
+
+Subsec. (d). Pub. L. 110–315, §303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
 2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
@@ -137,4 +185,6 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
 

@@ -50,7 +50,7 @@ Activities for which assistance may be provided under this section are activitie
 
 &emsp;(A) the amounts spent for such activities and the purposes for which they were spent;
 
-&emsp;(B) a description of the participation of the Department of Defense and the Department of Energy and the participation of other Government agencies in those activities; and
+&emsp;(B) a description of the participation of the Department of Defense and the Department ofEnergy and the participation of other Government agencies in those activities; and
 
 &emsp;(C) a description of the activities for which the funds were spent.
 
@@ -122,7 +122,7 @@ Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted “international or
 
 Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
 
-Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
+Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” andsubstituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
 
 Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
 

@@ -44,7 +44,7 @@ In any case in which there is a reasonable likelihood that compensation or payme
 
 #### (2) Judicial and administrative review
 
-&emsp;No court of the United States, or of any State, District, territory or possession thereof, shall have subject matter jurisdiction to review, whether by mandamus or otherwise, any action by the Secretary under this section. No officer or employee of the United States shallreview any action by the Secretary under this section (unless the President specifically directs otherwise).
+&emsp;No court of the United States, or of any State, District, territory or possession thereof, shall have subject matter jurisdiction to review, whether by mandamus or otherwise, any action by the Secretary under this section. No officer or employee of the United States shall review any action by the Secretary under this section (unless the President specifically directs otherwise).
 
 (July 1, 1944, ch. 373, title II, §262, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 640.)
 

@@ -24,7 +24,7 @@ Each Humphrey Fellow shall—
 
 (2) The Secretary of the Treasury shall invest amounts in the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at prevailing market rates; and the interest on such investments shall be credited to and form a part of the fund.
 
-(3) Notwithstanding section 80g(a)(2) of this title any gift, bequest, or devise of money, securities or other property for the benefit of the Hubert H. Humphrey Fellowship in Social andPolitical Thought received by the Board shall, upon receipt, be deposited into the fund as provided by paragraph (1).
+(3) Notwithstanding section 80g(a)(2) of this title any gift, bequest, or devise of money, securities or other property for the benefit of the Hubert H. Humphrey Fellowship in Social and Political Thought received by the Board shall, upon receipt, be deposited into the fund as provided by paragraph (1).
 
 #### (e) Payments to Board from investments for implementation of Fellowship purposes
 

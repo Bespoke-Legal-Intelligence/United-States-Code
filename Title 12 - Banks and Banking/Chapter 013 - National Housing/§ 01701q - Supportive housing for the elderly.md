@@ -34,7 +34,7 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (2) Contract terms
 
-&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
 
 #### (e) Applications
 
@@ -54,23 +54,43 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 > The Secretary shall not reject an application on technical grounds without giving notice of that rejection and the basis therefor to the applicant and affording the applicant an opportunity to respond.
 
-#### (f) Selection criteria
+#### (f) Initial selection criteria and processing
 
-The Secretary shall establish selection criteria for assistance under this section, which shall include—
+#### (1) Selection criteria
 
-&emsp;(1) the ability of the applicant to develop and operate the proposed housing;
+&emsp;The Secretary shall establish selection criteria for assistance under this section, which shall include—
 
-&emsp;(2) the need for supportive housing for the elderly in the area to be served, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities;
+&emsp;&emsp;(A) the ability of the applicant to develop and operate the proposed housing;
 
-&emsp;(3) the extent to which the proposed size and unit mix of the housing will enable the applicant to manage and operate the housing efficiently and ensure that the provision of supportive services will be accomplished in an economical fashion;
+&emsp;&emsp;(B) the need for supportive housing for the elderly in the area to be served, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities;
 
-&emsp;(4) the extent to which the proposed design of the housing will meet the special physical needs of elderly persons;
+&emsp;&emsp;(C) the extent to which the proposed size and unit mix of the housing will enable the applicant to manage and operate the housing efficiently and ensure that the provision of supportive services will be accomplished in an economical fashion;
 
-&emsp;(5) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) of this section will be provided on a consistent, long-term basis;
+&emsp;&emsp;(D) the extent to which the proposed design of the housing will meet the special physical needs of elderly persons;
 
-&emsp;(6) the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
+&emsp;&emsp;(E) the extent to which the applicant has demonstrated that the supportive services identified in subsection (e)(4) of this section will be provided on a consistent, long-term basis;
 
-&emsp;(7) such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
+&emsp;&emsp;(F) the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the category or categories of elderly persons the housing is intended to serve; and
+
+&emsp;&emsp;(G) such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively.
+
+#### (2) Delegated processing
+
+&emsp;(A) In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
+
+&emsp;&emsp;(i) is in geographic proximity to the property;
+
+&emsp;&emsp;(ii) has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
+
+&emsp;&emsp;(iii) may or may not be providing low-income housing tax credits in combination with the capital advance under this section,<sup>1</sup> and
+
+&emsp;&emsp;(iv) agrees to issue a firm commitment within 12 months of delegation.
+
+&emsp;(B) The Secretary shall retain the authority to process capital advances in cases in which no State or local housing agency has applied to provide delegated processing pursuant to this paragraph or no such agency has entered into an agreement with the Secretary to serve as a delegated processing agency.
+
+&emsp;(C) An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary. The Secretary shall develop a schedule for reasonable fees under this subparagraph to be paid to delegated processing agencies, which shall take into consideration any other fees to be paid to the agency for other funding provided to the project by the agency, including bonds, tax credits, and other gap funding.
+
+&emsp;(D) Under such delegated system, the Secretary shall retain the authority to approve rents and development costs and to execute a capital advance within 60 days of receipt of the commitment from the State or local agency. The Secretary shall provide to such agency and the project sponsor, in writing, the reasons for any reduction in capital advanceamounts or project rental assistance and such reductions shall be subject to appeal.
 
 #### (g) Provisions of services
 
@@ -114,7 +134,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;&emsp;(G) the cost of land, including necessary site improvement.
 
-> &emsp;In establishing development cost limitations for a given market area under this subsection,the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or rehabilitation, and land acquisition in the area. For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
+> &emsp;In establishing development cost limitations for a given market area under this subsection, the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or rehabilitation, and land acquisition in the area. For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
 
 #### (2) Acquisition
 
@@ -264,11 +284,11 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 There is authorized to be appropriated for providing assistance under this section $710,000,000 for fiscal year 2000.
 
-#### (m) <sup>1</sup> Authorization of appropriations
+#### (m) <sup>2</sup> Authorization of appropriations
 
-There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
+There are authorized to be appropriated for providing assistance under this section suchsums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873.)
 
 #### References in Text
 
@@ -287,6 +307,8 @@ The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–289 substituted “Initial selection criteria and processing” for “Selection criteria” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, of par. (1), and added par. (2).
 
 2000—Subsec. (b). Pub. L. 106–569, §833(1), struck out “from the Resolution Trust Corporation” after “or the acquisition of a structure”.
 
@@ -318,7 +340,7 @@ Subsec. (g)(3). Pub. L. 102–550, §677(a)(B), added par. (3).
 
 Subsec. (h)(2). Pub. L. 102–550, §1604(c)(3), made technical amendment to reference to section 1831q of this title to correct reference to corresponding provision of original act.
 
-Subsec. (i)(1). Pub. L. 102–550, §682(c)(1), inserted after first sentence “Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 and any regulations issued under such subtitle.”
+Subsec. (i)(1). Pub. L. 102–550, §682(c)(1), inserted after first sentence “Such tenant selection procedures shallcomply with subtitle C of title VI of the Housing and Community Development Act of 1992 and any regulations issued under such subtitle.”
 
 Subsec. (i)(1)(A). Pub. L. 102–550, §602(a)(2), substituted “elderly persons” for “persons with disabilities”.
 
@@ -554,7 +576,7 @@ Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in
 
 #### Effective Date of 1990 Amendments
 
-Section 801(c) of Pub. L. 101–625 provided that: “The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\].”
+Section 801(c) of Pub. L. 101–625 provided that: “The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than180 days after the date of enactment of this Act \[Nov. 28, 1990\].”
 
 Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
@@ -860,7 +882,7 @@ Section 806(b) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VI, 
 
 “(1)
 
-In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
+In general.—The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], the cost of purchasing and installingelder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
 
 “(2)
 
@@ -934,7 +956,7 @@ Pub. L. 98–45, title I, as added Pub. L. 98–181, title I, Nov. 30, 1983, 97 
 
 #### Reports Respecting Elderly and Handicapped Housing Programs in Rural Areas, Etc.
 
-Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than six months after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
+Section 306(e), (f) of Pub. L. 96–153 required Secretary of Housing and Urban Development, not later than sixmonths after Dec. 21, 1979, to report to Congress on housing needs of elderly and handicapped in rural areas and recommend to Congress on means to reduce costs of program carried out under this section.
 
 #### Feasibility and Marketability of Projects; Assistance for Projects Servicing Low- and Moderate-Income Families
 
@@ -944,5 +966,7 @@ Section 210(g) of Pub. L. 93–383 provided that:
 
 “(2) The Secretary shall insure that with the original approval of a project authorized pursuant to section 202 of the Housing Act of 1959, and thereafter at each annual revision of the assistance contract under section 8 of the United States Housing Act of 1937 with respect to units in such project, the project will serve both low- and moderate-income families in a mix which he determines to be appropriate for the area and for viable operation of the project; except that the Secretary shall not permit maintenance of vacancies to await tenants of one income level where tenants of another income level are available.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(n)”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(n)”.</i>
 

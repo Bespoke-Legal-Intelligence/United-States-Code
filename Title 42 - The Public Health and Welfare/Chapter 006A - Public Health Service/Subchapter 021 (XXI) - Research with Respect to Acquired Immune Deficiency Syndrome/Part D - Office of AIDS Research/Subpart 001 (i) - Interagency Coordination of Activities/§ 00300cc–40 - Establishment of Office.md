@@ -12,7 +12,7 @@ There is established within the National Institutes of Health an office to be kn
 
 #### (2) Consultations
 
-&emsp;The Director of the Office shall carry out this subpart (including developing and revising the plan required in section 300cc–40b of this title) in consultation with the heads of the agencies of the National Institutes of Health, with the advisory councils of the agencies, and with the advisory council established under section 300cc–40a of this title.
+&emsp;The Director of the Office shall carry out this subpart (including developing and revising the plan required in section 300cc–40c of this title) in consultation with the heads of the agencies of the National Institutes of Health, with the advisory councils of the agencies, and with the advisory council established under section 300cc–40b of this title.
 
 #### (3) Coordination
 

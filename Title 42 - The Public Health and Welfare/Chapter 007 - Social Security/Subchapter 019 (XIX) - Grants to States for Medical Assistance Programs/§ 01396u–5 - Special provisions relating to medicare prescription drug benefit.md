@@ -2,7 +2,7 @@
 
 #### (a) Requirements relating to medicare prescription drug low-income subsidies and medicare transitional prescription drug assistance
 
-As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
+As a condition of its State plan under this subchapter under section 1396a(a)(66) of this titleand receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
 
 #### (1) Information for transitional prescription drug assistance verification
 
@@ -164,7 +164,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title forprescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -216,9 +216,17 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (4) Report
 
-&emsp;The Secretary shall submit to Congress a report on the application of this subsection andmay include in the report such recommendations as the Secretary deems appropriate.
+&emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093.)
+(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 110–275, title I, §113(b), (c), July 15, 2008, 122 Stat. 2506, provided that, effective Jan. 1, 2010, subsection (a) of this section is amended by striking “and” and by inserting “, and medicare cost-sharing” after “assistance” in the subsection heading and by adding at the end the following new paragraph:</i>
+
+#### <i>(4) Consideration of data transmitted by the Social Security Administration for purposes of Medicare Savings Program</i>
+
+&emsp;<i>The State shall accept data transmitted under section 1320b–14(c)(3) of this title and act on such data in the same manner and in accordance with the same deadlines as if the data constituted an initiation of an application for benefits under the Medicare Savings Program (as defined for purposes of such section) that had been submitted directly by the applicant. The date of the individual's application for the low income subsidy program from which the data have been derived shall constitute the date of filing of such application for benefits under the Medicare Savings Program.</i>
 
 #### References in Text
 
@@ -247,6 +255,10 @@ Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendme
 Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–173, §103(d)(1)(C), added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–275 effective Jan. 1, 2010, see section 113(c) of Pub. L. 110–275, set out as a note under section 1320b–14 of this title.
 
 #### Effective Date of 2005 Amendment
 

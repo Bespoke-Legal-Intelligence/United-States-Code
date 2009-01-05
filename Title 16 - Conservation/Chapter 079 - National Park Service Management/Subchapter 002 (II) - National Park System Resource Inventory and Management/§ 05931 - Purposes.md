@@ -8,7 +8,7 @@ The purposes of this subchapter are—
 
 &emsp;(3) to ensure appropriate documentation of resource conditions in the National Park System;
 
-&emsp;(4) to encourage others to use the National Park System for study to the benefit of park management as well as broader scientific value, where such study is consistent with sections 1, 2, 3, and 4 of this title; and
+&emsp;(4) to encourage others to use the National Park System for study to the benefit of parkmanagement as well as broader scientific value, where such study is consistent with sections 1, 2, 3, and 4 of this title; and
 
 &emsp;(5) to encourage the publication and dissemination of information derived from studies in the National Park System.
 

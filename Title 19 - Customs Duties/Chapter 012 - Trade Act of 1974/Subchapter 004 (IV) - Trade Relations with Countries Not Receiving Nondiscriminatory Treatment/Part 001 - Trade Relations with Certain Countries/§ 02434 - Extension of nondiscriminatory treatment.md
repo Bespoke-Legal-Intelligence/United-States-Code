@@ -16,7 +16,7 @@ The President may at any time suspend or withdraw any extension of nondiscrimina
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (c), is not set out in the Code. SeePublication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Pub. L. 106–476, title III, Nov. 9, 2000, 114 Stat. 2175, provided that:
 
 &emsp;“(7) endeavored to address issues related to its national and religious minorities and, as a member state of the Organization for Security and Cooperation in Europe (OSCE), committed to adopting special measures for ensuring that persons belonging to national minorities have full equality individually as well as in community with other members of their group;
 
-&emsp;“(8) also committed to enacting legislation to provide protection against incitement to violenceagainst persons or groups based on national, racial, ethnic, or religious discrimination, hostility, or hatred, including anti-Semitism;
+&emsp;“(8) also committed to enacting legislation to provide protection against incitement to violence against persons or groups based on national, racial, ethnic, or religious discrimination, hostility, or hatred, including anti-Semitism;
 
 &emsp;“(9) continued to return communal properties confiscated from national and religious minorities during the Soviet period, facilitating the reemergence of these communities in the national life of Georgia and establishing the legal framework for completion of this process in the future;
 
@@ -194,7 +194,7 @@ Pub. L. 106–286, div. A, title I, §§101, 102, Oct. 10, 2000, 114 Stat. 881, 
 
 “(a)
 
-Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) \[this part\], as designated by section 3(a)(2) \[103(a)(2)\] of this Act, the President may—
+Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding anyprovision of chapter 1 of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.) \[this part\], as designated by section 3(a)(2) \[103(a)(2)\] of this Act, the President may—
 
 &emsp;“(1) determine that such chapter should no longer apply to the People's Republic of China; and
 
@@ -368,7 +368,7 @@ Pub. L. 102–420, Oct. 16, 1992, 106 Stat. 2149, provided that:
 
 “(a)
 
-Findings.—The Congress finds that Serbia or Montenegro are not complying with the provisions ofthe Final Act of the Conference on Security and Cooperation in Europe (also known as the ‘Helsinki Final Act’), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
+Findings.—The Congress finds that Serbia or Montenegro are not complying with the provisions of the Final Act of the Conference on Security and Cooperation in Europe (also known as the ‘Helsinki Final Act’), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
 
 “(b)
 
@@ -462,7 +462,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;“(8) Immediate action should be taken to remove the impediments, imposed in response to the circumstances referred to in paragraph (5), in United States trade laws to the extension of nondiscriminatory treatment (most-favored-nation treatment) to the products of those countries.
 
-&emsp;“(9) As a consequence of establishment of United States diplomatic relations with Estonia, Latvia, andLithuania, these independent countries are eligible to receive the benefits of the Generalized System of Preferences provided for in title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
+&emsp;“(9) As a consequence of establishment of United States diplomatic relations with Estonia, Latvia, and Lithuania, these independent countries are eligible to receive the benefits of the Generalized System of Preferences provided for in title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\].
 
 #### “SEC. 102. EXTENSION OF NONDISCRIMINATORY TREATMENT TO THE PRODUCTS OF ESTONIA, LATVIA, AND LITHUANIA.
 

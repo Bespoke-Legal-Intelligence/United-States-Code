@@ -48,7 +48,7 @@ Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, 
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
+2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugeesand migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
 1994—Subsec. (a). Pub. L. 103–236, §430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
@@ -88,7 +88,7 @@ Migration and Refugee Assistance.—None of the funds made available by this Act
 
 “(c)
 
-Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardlessof whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
+Involuntary Return Defined.—As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
 
 Similar provisions were contained in the following prior act:
 

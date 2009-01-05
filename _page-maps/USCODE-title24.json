@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-2007-title24",
+ "package": "USCODE-2008-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1739,10 +1739,10 @@
    "marks": [
     [
      "I",
-     43,
+     36,
      [
       [
-       19,
+       63,
        "[Page 30]"
       ]
      ]
@@ -1780,7 +1780,7 @@
      8,
      [
       [
-       169,
+       85,
        "[Page 31]"
       ]
      ]
@@ -1797,7 +1797,7 @@
    "marks": [
     [
      "L",
-     26,
+     10,
      "[Page 32]",
      true
     ]
@@ -1813,10 +1813,10 @@
    "marks": [
     [
      "I",
-     42,
+     24,
      [
       [
-       160,
+       322,
        "[Page 33]"
       ]
      ]
@@ -1829,13 +1829,26 @@
    ]
   },
   {
+   "id": "24_413a",
+   "marks": [],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413a - Improved health care oversight of Retirement Home.md",
+   "printed_pages": [
+    33,
+    33
+   ]
+  },
+  {
    "id": "24_414",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 34]",
-     true
+     "I",
+     14,
+     [
+      [
+       138,
+       "[Page 34]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00414 - Fees paid by residents.md",
@@ -1848,14 +1861,10 @@
    "id": "24_415",
    "marks": [
     [
-     "I",
-     82,
-     [
-      [
-       322,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 35]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Chief Operating Officer.md",
@@ -1869,7 +1878,7 @@
    "marks": [
     [
      "L",
-     86,
+     22,
      "[Page 36]",
      true
     ]
@@ -1884,49 +1893,51 @@
    "id": "24_417",
    "marks": [
     [
-     "I",
-     88,
-     [
-      [
-       110,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 37]",
+     true
+    ],
+    [
+     "L",
+     90,
+     "[Page 38]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00417 - Directors, deputy directors, associate directors, and staff of facilities.md",
    "printed_pages": [
     36,
-    37
+    38
    ]
   },
   {
    "id": "24_418",
-   "marks": [],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Inspection of Retirement Home.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "24_419",
    "marks": [
     [
      "I",
-     44,
+     60,
      [
       [
-       157,
-       "[Page 38]"
+       161,
+       "[Page 39]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00418 - Inspection of Retirement Home.md",
+   "printed_pages": [
+    38,
+    39
+   ]
+  },
+  {
+   "id": "24_419",
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00419 - Armed Forces Retirement Home Trust Fund.md",
    "printed_pages": [
-    37,
-    38
+    39,
+    39
    ]
   },
   {
@@ -1934,69 +1945,83 @@
    "marks": [
     [
      "I",
-     52,
+     26,
      [
       [
-       185,
-       "[Page 39]"
+       137,
+       "[Page 40]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       107,
+       "[Page 41]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
    "printed_pages": [
-    38,
-    39
+    39,
+    41
    ]
   },
   {
    "id": "24_421",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 40]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
    "printed_pages": [
-    39,
-    40
+    41,
+    41
    ]
   },
   {
    "id": "24_422",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 42]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
    "printed_pages": [
-    40,
-    40
+    41,
+    42
    ]
   },
   {
    "id": "24_423",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 41]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00423 - Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington.md",
    "printed_pages": [
-    40,
-    41
+    42,
+    42
    ]
   },
   {
    "id": "24_424",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       116,
+       "[Page 43]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00424 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(a)(5), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    41,
-    41
+    42,
+    43
    ]
   },
   {
@@ -2004,8 +2029,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/README.md",
    "printed_pages": [
-    41,
-    41
+    43,
+    43
    ]
   },
   {
@@ -2013,8 +2038,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00431 - Temporary continuation of Armed Forces Retirement Home Board.md",
    "printed_pages": [
-    41,
-    41
+    43,
+    43
    ]
   },
   {
@@ -2022,24 +2047,17 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00432 - Directors of facilities.md",
    "printed_pages": [
-    41,
-    41
+    43,
+    43
    ]
   },
   {
    "id": "24_433",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 42]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00433 - Temporary continuation of incumbent deputy directors.md",
    "printed_pages": [
-    41,
-    42
+    43,
+    43
    ]
   },
   {
@@ -2047,8 +2065,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    42,
-    42
+    43,
+    43
    ]
   },
   {
@@ -2056,11 +2074,11 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Repealed. Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.md",
    "printed_pages": [
-    42,
-    42
+    43,
+    43
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2007-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2008-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

@@ -34,7 +34,7 @@ For the purposes of this part—
 
 (1) The “allotment percentage” for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that (A) the allotment percentage shall in no case be more than 75 per centum or less than 331/3 per centum, and (B) the allotment percentage for the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands shall be 75 per centum.
 
-(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutiveyears for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
+(2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
 
 (3) The population of the several States shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
@@ -134,7 +134,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Availability of Funds for Obligation From Allotment for Administration of Plan
 
-Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year endingJune 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
+Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year ending June 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
 
 #### Allotment Study; Report to Congress
 

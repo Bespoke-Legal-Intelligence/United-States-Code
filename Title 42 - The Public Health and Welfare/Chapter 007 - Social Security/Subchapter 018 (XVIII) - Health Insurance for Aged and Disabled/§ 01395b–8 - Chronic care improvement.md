@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) providing an entitlement to participate in a chronic care improvement program under this section;
 
-&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395<i>oo</i> of this title, or otherwise, with respect to a chronic care improvement program under this section; or
+&emsp;&emsp;(C) providing for any hearing or appeal rights under section 1395ff, 1395<i>oo</i> of thistitle, or otherwise, with respect to a chronic care improvement program under this section; or
 
 &emsp;&emsp;(D) providing benefits under a chronic care improvement program for which a claim may be submitted to the Secretary by any provider of services or supplier (as defined in section 1395x(d) of this title).
 
@@ -288,7 +288,7 @@ Evaluations.—The Secretary shall conduct evaluations of the clinical and cost 
 
 Reports.—Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
-&emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
+&emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects ascompared to such outcomes and costs to other individuals for the same health conditions.
 
 &emsp;&emsp;“(B) Evaluation of patient satisfaction under the demonstration projects.
 

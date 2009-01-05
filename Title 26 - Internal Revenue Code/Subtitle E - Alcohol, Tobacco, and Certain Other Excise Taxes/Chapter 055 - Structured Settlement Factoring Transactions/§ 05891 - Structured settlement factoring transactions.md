@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;Such term shall not include—
 
-&emsp;&emsp;&emsp;(i) the creation or perfection of a security interest in structured settlement payment rights under a blanket securityagreement entered into with an insured depository institution in the absence of any action to redirect the structured settlement payments to such institution (or agent or successor thereof) or otherwise to enforce such blanket security interest as against the structured settlement payment rights, or
+&emsp;&emsp;&emsp;(i) the creation or perfection of a security interest in structured settlement payment rights under a blanket security agreement entered into with an insured depository institution in the absence of any action to redirect the structured settlement payments to such institution (or agent or successor thereof) or otherwise to enforce such blanket security interest as against the structured settlement payment rights, or
 
 &emsp;&emsp;&emsp;(ii) a subsequent transfer of structured settlement payment rights acquired in a structured settlement factoring transaction.
 

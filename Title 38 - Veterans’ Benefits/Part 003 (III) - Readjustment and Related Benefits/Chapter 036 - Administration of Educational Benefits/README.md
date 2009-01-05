@@ -7,7 +7,7 @@
 | [3670\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003670%20-%20Scope%20of%20approval.md) | Scope of approval. |
 | [3671\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003671%20-%20Designation.md) | Designation. |
 | [3672\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003672%20-%20Approval%20of%20courses.md) | Approval of courses. |
-| [3673\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673%20-%20Cooperation.md) | Cooperation. |
+| [3673\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673%20-%20Approval%20activities%20cooperation%20and%20coordination%20of%20activities.md) | Approval activities: cooperation and coordination of activities. |
 | [3674\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674%20-%20Reimbursement%20of%20expenses.md) | Reimbursement of expenses. |
 | [3674A.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674A%20-%20Evaluations%20of%20agency%20performance%3B%20qualifications%20and%20performance%20of%20agency%20personnel.md) | Evaluations of agency performance; qualifications and performance of agency personnel. |
 | [3675\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003675%20-%20Approval%20of%20accredited%20courses.md) | Approval of accredited courses. |
@@ -28,12 +28,7 @@
 | [3682\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003682%20-%20Control%20by%20agencies%20of%20the%20United%20States.md) | Control by agencies of the United States. |
 | [3683\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003683%20-%20Conflicting%20interests.md) | Conflicting interests. |
 | [3684\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003684%20-%20Reports%20by%20veterans%2C%20eligible%20persons%2C%20and%20institutions%3B%20reporting%20fee.md) | Reports by veterans, eligible persons, and institutions; reporting fee. |
-| [3684A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003684A%20-%20Procedures%20relating%20to%20computer%20matching%20program.md) | Procedures relating to computer matching programs.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [3684A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003684A%20-%20Procedures%20relating%20to%20computer%20matching%20program.md) | Procedures relating to computer matching program. |
 | [3685\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003685%20-%20Overpayments%20to%20eligible%20persons%20or%20veterans.md) | Overpayments to eligible persons or veterans. |
 | [3686\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003686%20-%20Correspondence%20courses.md) | Correspondence courses. |
 | [3687\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003687%20-%20Apprenticeship%20or%20other%20on-job%20training.md) | Apprenticeship or other on-job training. |
@@ -60,6 +55,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–389, title III, §326(a)(2)(B), Oct. 10, 2008, 122 Stat. 4169, substituted “Approval activities: cooperation and coordination of activities” for “Cooperation” in item 3673.
+
+Pub. L. 110–387, title IX, §901(a)(3), Oct. 10, 2008, 122 Stat. 4142, substituted “Procedures relating to computer matching program” for “Procedures relating to computer matching programs” in item 3684A.
 
 2003—Pub. L. 108–183, title III, §306(g), Dec. 16, 2003, 117 Stat. 2661, struck out subchapter III heading “EDUCATION LOANS” and items 3698 “Eligibility for loans; amount and conditions of loans; interest rate on loans” and 3699 “Revolving fund; insurance”.
 

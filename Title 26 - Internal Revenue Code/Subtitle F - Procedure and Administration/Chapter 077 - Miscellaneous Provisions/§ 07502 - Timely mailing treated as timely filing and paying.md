@@ -20,7 +20,7 @@
 
 #### (b) Postmarks
 
-This section shall apply in the case of postmarks not made by the United States PostalService only if and to the extent provided by regulations prescribed by the Secretary.
+This section shall apply in the case of postmarks not made by the United States Postal Service only if and to the extent provided by regulations prescribed by the Secretary.
 
 #### (c) Registered and certified mailing; electronic filing
 
@@ -80,7 +80,7 @@ This section shall not apply with respect to—
 
 &emsp;&emsp;(B) is at least as timely and reliable on a regular basis as the United States mail,
 
-&emsp;&emsp;(C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
+&emsp;&emsp;(C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered,the date on which such item was given to such trade or business for delivery, and
 
 &emsp;&emsp;(D) meets such other criteria as the Secretary may prescribe.
 

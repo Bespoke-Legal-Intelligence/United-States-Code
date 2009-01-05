@@ -112,7 +112,7 @@ micrograms per cubic meter)
 
 #### (c) Orders or rules for determining compliance with maximum allowable increases in ambient concentrations of air pollutants
 
-(1) In the case of any State which has a plan approved by the Administrator for purposes of carrying out this part, the Governor of such State may, after notice and opportunity for public hearing, issue orders or promulgate rules providing that for purposes of determining compliance with the maximum allowable increases in ambient concentrations of an air pollutant, the following concentrations of such pollutant shall not be taken into account:
+(1) In the case of any State which has a plan approved by the Administrator for purposes of carrying out this part, the Governor of such State may, after notice and opportunity for public hearing, issue orders or promulgate rules providing that for purposes of determining compliance with the maximum allowable increasesin ambient concentrations of an air pollutant, the following concentrations of such pollutant shall not be taken into account:
 
 &emsp;(A) concentrations of such pollutant attributable to the increase in emissions from stationary sources which have converted from the use of petroleum products, or natural gas, or both, by reason of an order which is in effect under the provisions of sections 792(a) and (b) of title 15 (or any subsequent legislation which supersedes such provisions) over the emissions from such sources before the effective date of such order.<sup>1</sup>
 

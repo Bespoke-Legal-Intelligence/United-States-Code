@@ -32,9 +32,9 @@ Pub. L. 104–201, div. C, title XXXI, §3138, Sept. 23, 1996, 110 Stat. 2830.
 
 #### Amendments
 
-2003—Subsec. (b)(3). Pub. L. 108–136, §3141(f)(2)(D), substituted “the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this Act”.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–136, §3141(f)(2)(D), substituted “the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this Act”.
 
-1998—Subsec. (a). Pub. L. 105–261, §3131, substituted “for any fiscal year” for “for fiscal year 1998”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §3131, substituted “for any fiscal year” for “for fiscal year 1998”.
 
 Subsec. (b)(3). Pub. L. 105–261, §1069(b)(3), substituted “XIV” for “III”.
 

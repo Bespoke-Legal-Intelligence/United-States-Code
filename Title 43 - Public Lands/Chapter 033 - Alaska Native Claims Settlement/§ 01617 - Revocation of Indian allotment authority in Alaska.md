@@ -76,7 +76,7 @@ Any allotments approved pursuant to this section during the four years following
 
 #### (f) Reinstatements and reconstructions
 
-(1) If an applicant for a Native allotment filed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) petitions the Secretary to reinstate a previously closed Native allotment application or to accept a reconstructed copy of an application claimed to have been timely filed with an agency of the Department of the Interior, the United States—
+(1) If an applicant for a Native allotment filed under the Act of May 17, 1906 (34 Stat. 197, chapter 2469) petitions the Secretary to reinstate a previously closed Native allotment application or to accept a reconstructed copy of an application claimed to have been timely filed with anagency of the Department of the Interior, the United States—
 
 &emsp;(A) may seek voluntary reconveyance of any land described in the application that is reinstated or reconstructed after December 10, 2004; but
 

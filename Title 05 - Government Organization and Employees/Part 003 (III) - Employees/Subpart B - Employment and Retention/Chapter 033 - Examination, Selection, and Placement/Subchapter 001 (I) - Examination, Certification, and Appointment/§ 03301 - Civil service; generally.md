@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enacting sections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
+Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–611, provided that: “This section \[enactingsections 3345 to 3349d of this title, repealing former sections 3345 to 3349 of this title, and enacting provisions set out as a note under section 3345 of this title\] may be cited as the ‘Federal Vacancies Reform Act of 1998’.”
 
 #### Short Title of 1991 Amendment
 
@@ -144,7 +144,7 @@ Vacancies.—A vacancy in the Council shall be filled in the manner in which the
 
 “(e)
 
-Compensation.—(1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for service in such office or position) by virtue of membership on the Council.
+Compensation.—(1) Members of the Council shall not be entitled to pay (or, in the case of members holding any Government office or position, pay in addition to any to which they are otherwise entitled for servicein such office or position) by virtue of membership on the Council.
 
 “(2) While serving away from their homes or regular places of business in the performance of duties for the Council, members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of title 5, United States Code, for persons employed intermittently in Government service.
 
@@ -198,7 +198,7 @@ Gifts.—The Council—
 
 &emsp;“(1) may accept money and other property donated, bequeathed, or devised to the Council without condition or restriction (other than that it be used to carry out the work of the Council); and
 
-&emsp;“(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, anysuch property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
+&emsp;“(2) may use, sell, or otherwise dispose of any such property to carry out its functions under this Act, except that, upon the termination of the Council, any such property shall be disposed of in accordance with applicable provisions of law governing the disposal of Federal property.
 
 #### “SEC. 8. REPORTS.
 
@@ -236,7 +236,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
-(c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
+(c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance withthe general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
 (d) The Board, in consultation with the Office, shall determine the regulations and procedures under this section governing the recruitment and examination of applicants for attorney positions, and the selection, appointment, promotion and transfer of attorneys, in the classified service.
 
@@ -386,7 +386,7 @@ Ex. Ord. No. 11219, May 6, 1965, 30 F.R. 6381, as amended by Ex. Ord. No. 12107,
 
 By virtue of the authority vested in me by section 1753 of the Revised Statutes \[sections 3301 and 7301 of this title\] and the Civil Service Act (22 Stat. 403), and as President of the United States, it is hereby ordered as follows:
 
-Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, apresent or former member of the Foreign Service may be appointed in the competitive service if he:
+Section 1. Under regulations and conditions prescribed by the Office of Personnel Management, a present or former member of the Foreign Service may be appointed in the competitive service if he:
 
 (a) Is qualified for the position in the competitive service;
 
@@ -454,7 +454,7 @@ Ex. Ord. No. 12008, Aug. 25, 1977, 42 F.R. 43373, as amended by Ex. Ord. No. 121
 
 Ex. Ord. No. 12015, Oct. 26, 1977, 42 F.R. 56947, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13024, Nov. 7, 1996, 61 F.R. 58125, provided:
 
-By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, andas President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. As used in this order “career-related work-study programs” are those programs established by the Office of Personnel Management which provide for a formally-arranged schedule of periods of attendance at an accredited school combined with periods of career-related work in a Federal agency under a Schedule B appointment.
 
@@ -534,7 +534,7 @@ Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initialappointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
+Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
 Sec. 2. <i>Functions</i>. (a) The Commission shall meet from time to time at the request of the Chairperson and shall consider ways to enhance the public service in American life, including:
 
@@ -606,7 +606,7 @@ Ex. Ord. No. 13162, July 6, 2000, 65 F.R. 43211, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of exceptional employees for careers in the public sector, it is hereby ordered as follows:
 
-Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of theProgram is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
+Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of the Program is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
 
 Sec. 2. The Program is another step in the Administration's effort to recruit the highest caliber people to the Federal Government, develop their professional abilities, and retain them in Federal departments and agencies. Cabinet secretaries and agency administrators should view the Program as complementary to existing programs that provide career enhancement opportunities for Federal employees, and departments and agencies are encouraged to identify and make use of those programs, as well as the new Program, to meet department and agency needs.
 
@@ -687,6 +687,52 @@ Sec. 6. The Director of OPM shall prescribe such regulations as may be necessary
 Sec. 7. Executive Order 12364 \[formerly set out above\] is superseded, except as provided in section 5 of this order.
 
 Sec. 8. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13473. To Authorize Certain Noncompetitive Appointments in the Civil Service for Spouses of Certain Members of the Armed Forces
+
+Ex. Ord. No. 13473, Sept. 25, 2008, 73 F.R. 56703, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the United States to provide for the appropriately expedited recruitment and selection of spouses of members of the Armed Forces for appointment to positions in the competitive service of the Federal civil service as part of the effort of the United States to recruit and retain in military service, skilled and experienced members of the Armed Forces and to recognize and honor the service of such members injured, disabled, or killed in connection with their service.
+
+Sec. 2. <i>Definitions</i>. As used in this order:
+
+(a) the term “agency” has the meaning specified for the term “executive agency” in section 105 of title 5, United States Code, but does not include the Government Accountability Office;
+
+(b) the term “Armed Forces” has the meaning specified for that term in section 101 of title 10, United States Code;
+
+(c) the term “active duty” means full-time duty in an armed force and includes full-time National Guard duty, except that, for Reserve Component members, the term “active duty” does not include training duties or attendance at service schools.
+
+(d) the term “permanent change of station” means the assignment, detail, or transfer of a member of the Armed Forces serving at a present permanent duty station to a different permanent duty station under a competent authorization or order that does not:
+
+&emsp;(i) specify the duty as temporary;
+
+&emsp;(ii) provide for assignment, detail, or transfer, after that different permanent duty station, to a further different permanent duty station; or (iii) \[sic\] direct return to the present permanent duty station; and
+
+(e) the term “totally disabled retired or separated member” means a member of the Armed Forces who:
+
+&emsp;(i) retired under chapter 61 of title 10, United States Code, with a disability rating at the time of retirement of 100 per cent; or (ii) \[sic\] retired or separated from the Armed Forces and has a disability rating of 100 percent from the Department of Veterans Affairs.
+
+Sec. 3. <i>Noncompetitive Appointment Authority</i>. Consistent with the policy set forth in section 1 of this order and such regulations as the Director of the Office of Personnel Management may prescribe, the head of an agency may make a noncompetitive appointment toany position in the competitive service, for which the individual is qualified, of an individual who is:
+
+(a) the spouse of a member of the Armed Forces who, as determined by the Secretary of Defense, is performing active duty pursuant to orders that authorize a permanent change of station move, if such spouse relocates to the member's new permanent duty station;
+
+(b) the spouse of a totally disabled retired or separated member of the Armed Forces; or
+
+(c) the unremarried widow or widower of a member of the Armed Forces killed while performing active duty.
+
+Sec. 4. <i>Administrative Provisions</i>. The heads of agencies shall employ, as appropriate, appointment authority available to them, in addition to the authority granted by section 3 of this order, to carry out the policy set forth in section 1.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) authority granted by law to a department or agency or the head thereof; and
+
+&emsp;(ii) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative functions.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

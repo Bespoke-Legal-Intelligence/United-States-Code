@@ -4,12 +4,12 @@
 | :--- | ---: |
 | [1421\.](%C2%A7%2001421%20-%20Short%20title.md) | Short title. |
 | [1422\.](%C2%A7%2001422%20-%20Definitions.md) | Definitions. |
-| [1422a.](%C2%A7%2001422a%20-%20Federal%20Housing%20Finance%20Board.md) | Federal Housing Finance Board. |
-| [1422b.](%C2%A7%2001422b%20-%20Powers%20and%20duties.md) | Powers and duties. |
+| 1422a, 1422b. Repealed. |  |
 | [1423\.](%C2%A7%2001423%20-%20Federal%20Home%20Loan%20Bank%20districts%3B%20number%20and%20boundaries%3B%20establishment%20of%20Federal%20Home%20Loan%20Banks%3B%20names.md) | Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names. |
 | [1424\.](%C2%A7%2001424%20-%20Eligibility%20for%20membership.md) | Eligibility for membership. |
 | 1425 to 1425b. Repealed. |  |
 | [1426\.](%C2%A7%2001426%20-%20Capital%20structure%20of%20Federal%20home%20loan%20banks.md) | Capital structure of Federal home loan banks. |
+| [1426a.](%C2%A7%2001426a%20-%20Exclusion%20from%20certain%20requirements.md) | Exclusion from certain requirements. |
 | [1427\.](%C2%A7%2001427%20-%20Directors.md) | Directors. |
 | [1428\.](%C2%A7%2001428%20-%20Examination%20of%20State%20laws%2C%20regulations%2C%20and%20procedures%3B%20studies%20of%20values%2C%20etc.md) | Examination of State laws, regulations, and procedures; studies of values, etc. |
 | [1428a.](%C2%A7%2001428a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7718%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20422.md) | Repealed. |
@@ -17,6 +17,7 @@
 | [1430\.](%C2%A7%2001430%20-%20Advances%20to%20members.md) | Advances to members. |
 | [1430a.](%C2%A7%2001430a%20-%20Omitted.md) | Omitted. |
 | [1430b.](%C2%A7%2001430b%20-%20Advances%20to%20nonmember%20mortgagee%3B%20terms%20and%20conditions.md) | Advances to nonmember mortgagee; terms and conditions. |
+| [1430c.](%C2%A7%2001430c%20-%20Housing%20goals.md) | Housing goals. |
 | [1431\.](%C2%A7%2001431%20-%20Powers%20and%20duties%20of%20banks.md) | Powers and duties of banks. |
 | [1432\.](%C2%A7%2001432%20-%20Incorporation%20of%20banks%3B%20corporate%20powers%3B%20housing%20project%20loans.md) | Incorporation of banks; corporate powers; housing project loans. |
 | [1433\.](%C2%A7%2001433%20-%20Exemption%20from%20taxation%3B%20obligations%20acceptable%20as%20credit%20on%20debt%20of%20home%20owner.md) | Exemption from taxation; obligations acceptable as credit on debt of home owner. |
@@ -29,6 +30,7 @@
 | 1439, 1439–1. Repealed. |  |
 | [1439a.](%C2%A7%2001439a%20-%20Deposits%20in%20special%20fund%3B%20availability%20for%20all%20purposes%20of%20Federal%20Home%20Loan%20Bank%20Board%20and%20Federal%20Home%20Loan%20Bank%20Administration.md) | Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration. |
 | [1440\.](%C2%A7%2001440%20-%20Examinations%20and%20audits.md) | Examinations and audits. |
+| [1440a.](%C2%A7%2001440a%20-%20Sharing%20of%20information%20among%20Federal%20Home%20Loan%20Banks.md) | Sharing of information among Federal Home Loan Banks. |
 | [1441\.](%C2%A7%2001441%20-%20Financing%20Corporation.md) | Financing Corporation. |
 | [1441a.](%C2%A7%2001441a%20-%20Thrift%20Depositor%20Protection%20Oversight%20Board%20and%20Resolution%20Trust%20Corporation.md) | Thrift Depositor Protection Oversight Board and Resolution Trust Corporation. |
 | 1441a–1. | Definitions. |
@@ -54,12 +56,12 @@
 
 - [&sect; 01421 - Short title](%C2%A7%2001421%20-%20Short%20title.md)
 - [&sect; 01422 - Definitions](%C2%A7%2001422%20-%20Definitions.md)
-- [&sect; 01422a - Federal Housing Finance Board](%C2%A7%2001422a%20-%20Federal%20Housing%20Finance%20Board.md)
-- [&sect; 01422b - Powers and duties](%C2%A7%2001422b%20-%20Powers%20and%20duties.md)
+- [&sect; 01422a, 1422b - Repealed. Pub. L. 110&#8211;289, div. A, title II, &sect;1204(1), July 30, 2008, 122 Stat. 2785](%C2%A7%2001422a%2C%201422b%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93289%2C%20div.%20A%2C%20title%20II%2C%20%C2%A71204%281%29%2C%20July%2030%2C%202008%2C%20122%20Stat.%202785.md)
 - [&sect; 01423 - Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names](%C2%A7%2001423%20-%20Federal%20Home%20Loan%20Bank%20districts%3B%20number%20and%20boundaries%3B%20establishment%20of%20Federal%20Home%20Loan%20Banks%3B%20names.md)
 - [&sect; 01424 - Eligibility for membership](%C2%A7%2001424%20-%20Eligibility%20for%20membership.md)
 - [&sect; 01425 to 1425b - Repealed. Pub. L. 101&#8211;73, title VII, &sect;&sect;705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423](%C2%A7%2001425%20to%201425b%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7%C2%A7705%2C%20716%2C%20720%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20416%2C%20421%2C%20423.md)
 - [&sect; 01426 - Capital structure of Federal home loan banks](%C2%A7%2001426%20-%20Capital%20structure%20of%20Federal%20home%20loan%20banks.md)
+- [&sect; 01426a - Exclusion from certain requirements](%C2%A7%2001426a%20-%20Exclusion%20from%20certain%20requirements.md)
 - [&sect; 01427 - Directors](%C2%A7%2001427%20-%20Directors.md)
 - [&sect; 01428 - Examination of State laws, regulations, and procedures; studies of values, etc](%C2%A7%2001428%20-%20Examination%20of%20State%20laws%2C%20regulations%2C%20and%20procedures%3B%20studies%20of%20values%2C%20etc.md)
 - [&sect; 01428a - Repealed. Pub. L. 101&#8211;73, title VII, &sect;718, Aug. 9, 1989, 103 Stat. 422](%C2%A7%2001428a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7718%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20422.md)
@@ -67,6 +69,7 @@
 - [&sect; 01430 - Advances to members](%C2%A7%2001430%20-%20Advances%20to%20members.md)
 - [&sect; 01430a - Omitted](%C2%A7%2001430a%20-%20Omitted.md)
 - [&sect; 01430b - Advances to nonmember mortgagee; terms and conditions](%C2%A7%2001430b%20-%20Advances%20to%20nonmember%20mortgagee%3B%20terms%20and%20conditions.md)
+- [&sect; 01430c - Housing goals](%C2%A7%2001430c%20-%20Housing%20goals.md)
 - [&sect; 01431 - Powers and duties of banks](%C2%A7%2001431%20-%20Powers%20and%20duties%20of%20banks.md)
 - [&sect; 01432 - Incorporation of banks; corporate powers; housing project loans](%C2%A7%2001432%20-%20Incorporation%20of%20banks%3B%20corporate%20powers%3B%20housing%20project%20loans.md)
 - [&sect; 01433 - Exemption from taxation; obligations acceptable as credit on debt of home owner](%C2%A7%2001433%20-%20Exemption%20from%20taxation%3B%20obligations%20acceptable%20as%20credit%20on%20debt%20of%20home%20owner.md)
@@ -79,6 +82,7 @@
 - [&sect; 01439, 1439&#8211;1 - Repealed. Pub. L. 101&#8211;73, title VII, &sect;&sect;708, 712, Aug. 9, 1989, 103 Stat. 418, 419](%C2%A7%2001439%2C%201439%E2%80%931%20-%20Repealed.%20Pub.%20L.%20101%E2%80%9373%2C%20title%20VII%2C%20%C2%A7%C2%A7708%2C%20712%2C%20Aug.%209%2C%201989%2C%20103%20Stat.%20418%2C%20419.md)
 - [&sect; 01439a - Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration](%C2%A7%2001439a%20-%20Deposits%20in%20special%20fund%3B%20availability%20for%20all%20purposes%20of%20Federal%20Home%20Loan%20Bank%20Board%20and%20Federal%20Home%20Loan%20Bank%20Administration.md)
 - [&sect; 01440 - Examinations and audits](%C2%A7%2001440%20-%20Examinations%20and%20audits.md)
+- [&sect; 01440a - Sharing of information among Federal Home Loan Banks](%C2%A7%2001440a%20-%20Sharing%20of%20information%20among%20Federal%20Home%20Loan%20Banks.md)
 - [&sect; 01441 - Financing Corporation](%C2%A7%2001441%20-%20Financing%20Corporation.md)
 - [&sect; 01441a - Thrift Depositor Protection Oversight Board and Resolution Trust Corporation](%C2%A7%2001441a%20-%20Thrift%20Depositor%20Protection%20Oversight%20Board%20and%20Resolution%20Trust%20Corporation.md)
 - [&sect; 01441a&#8211;1 - Definitions](%C2%A7%2001441a%E2%80%931%20-%20Definitions.md)

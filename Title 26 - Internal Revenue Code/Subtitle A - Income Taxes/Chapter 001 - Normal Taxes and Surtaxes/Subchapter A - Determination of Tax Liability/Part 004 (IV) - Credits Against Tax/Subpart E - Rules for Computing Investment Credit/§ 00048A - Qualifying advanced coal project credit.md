@@ -4,9 +4,11 @@
 
 For purposes of section 46, the qualifying advanced coal project credit for any taxable year is an amount equal to—
 
-&emsp;(1) 20 percent of the qualified investment for such taxable year in the case of projects described in subsection (d)(3)(B)(i), and
+&emsp;(1) 20 percent of the qualified investment for such taxable year in the case of projects described in subsection (d)(3)(B)(i),
 
-&emsp;(2) 15 percent of the qualified investment for such taxable year in the case of projects described in subsection (d)(3)(B)(ii).
+&emsp;(2) 15 percent of the qualified investment for such taxable year in the case of projects described in subsection (d)(3)(B)(ii), and
+
+&emsp;(3) 30 percent of the qualified investment for such taxable year in the case of projects described in clause (iii) of subsection (d)(3)(B).
 
 #### (b) Qualified investment
 
@@ -74,7 +76,11 @@ For purposes of this section—
 
 #### (A) Application period
 
-&emsp;&emsp;Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).
+&emsp;&emsp;Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application—
+
+&emsp;&emsp;&emsp;(i) for an allocation from the dollar amount specified in clause (i) or (ii) of paragraph (3)(B) during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1), and
+
+&emsp;&emsp;&emsp;(ii) for an allocation from the dollar amount specified in paragraph (3)(B)(iii) during the 3-year period beginning at the earlier of the termination of the period described in clause (i) or the date prescribed by the Secretary.
 
 #### (B) Requirements for applications for certification
 
@@ -96,15 +102,17 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The aggregate credits allowed under subsection (a) for projects certified by the Secretary under paragraph (2) may not exceed $1,300,000,000.
+&emsp;&emsp;The aggregate credits allowed under subsection (a) for projects certified by the Secretary under paragraph (2) may not exceed $2,550,000,000.
 
 #### (B) Particular projects
 
 &emsp;&emsp;Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
 
-&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects, and
+&emsp;&emsp;&emsp;(i) $800,000,000 for integrated gasification combined cycle projects the application for which is submitted during the period described in paragraph (2)(A)(i),
 
-&emsp;&emsp;&emsp;(ii) $500,000,000 for projects which use other advanced coal-based generation technologies.
+&emsp;&emsp;&emsp;(ii) $500,000,000 for projects which use other advanced coal-based generation technologies the application for which is submitted during the period described in paragraph (2)(A)(i), and
+
+&emsp;&emsp;&emsp;(iii) $1,250,000,000 for advanced coal-based generation technology projects the application for which is submitted during the period described in paragraph (2)(A)(ii).
 
 #### (4) Review and redistribution
 
@@ -124,6 +132,10 @@ For purposes of this section—
 
 &emsp;&emsp;If the Secretary determines that credits under clause (i) or (ii) of paragraph (3)(B) are available for reallocation pursuant to the requirements set forth in paragraph (2), the Secretary is authorized to conduct an additional program for applications for certification.
 
+#### (5) Disclosure of allocations
+
+&emsp;The Secretary shall, upon making a certification under this subsection or section 48B(d), publicly disclose the identity of the applicant and the amount of the credit certified with respect to such applicant.
+
 #### (e) Qualifying advanced coal projects
 
 #### (1) Requirements
@@ -142,9 +154,11 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the applicant provides evidence that a majority of the output of the project is reasonably expected to be acquired or utilized;
 
-&emsp;&emsp;(E) the applicant provides evidence of ownership or control of a site of sufficient size to allow the proposed project to be constructed and to operate on a long-term basis; and
+&emsp;&emsp;(E) the applicant provides evidence of ownership or control of a site of sufficient size to allow the proposed project to be constructed and to operate on a long-term basis;
 
-&emsp;&emsp;(F) the project will be located in the United States.
+&emsp;&emsp;(F) the project will be located in the United States; and
+
+&emsp;&emsp;(G) in the case of any project the application for which is submitted during the period described in subsection (d)(2)(A)(ii), the project includes equipment which separates and sequesters at least 65 percent (70 percent in the case of an application for reallocated credits under subsection (d)(4)) of such project's total carbon dioxide emissions.
 
 #### (2) Requirements for certification
 
@@ -154,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the applicant for certification, except in the case of a retrofit or repower of an existing electric generation unit, has purchased or entered into a binding contract for the purchase of the main steam turbine or turbines for the project, except that such contract may be contingent upon receipt of a certification under subsection (d)(2).
 
-#### (3) Priority for integrated gasification combined cycle projects
+#### (3) Priority for certain projects
 
 &emsp;In determining which qualifying advanced coal projects to certify under subsection (d)(2), the Secretary shall—
 
@@ -164,15 +178,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) projects using subbituminous coal as a primary feedstock, and
 
-&emsp;&emsp;&emsp;(iii) projects using lignite as a primary feedstock, and
+&emsp;&emsp;&emsp;(iii) projects using lignite as a primary feedstock,
 
 &emsp;&emsp;(B) give high priority to projects which include, as determined by the Secretary—
 
 &emsp;&emsp;&emsp;(i) greenhouse gas capture capability,
 
-&emsp;&emsp;&emsp;(ii) increased by-product utilization, and
+&emsp;&emsp;&emsp;(ii) increased by-product utilization,
 
-&emsp;&emsp;&emsp;(iii) other benefits.
+&emsp;&emsp;&emsp;(iii) applicant participants who have a research partnership with an eligible educational institution (as defined in section 529(e)(5)), and
+
+&emsp;&emsp;&emsp;(iv) other benefits, and
+
+&emsp;&emsp;(C) give highest priority to projects with the greatest separation and sequestration percentage of total carbon dioxide emissions.
 
 #### (f) Advanced coal-based generation technology
 
@@ -245,7 +263,23 @@ No use of technology (or level of emission reduction solely by reason of the use
 
 &emsp;(3) achievable in practice for purposes of section 171 of such Act (42 U.S.C. 7501).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485.)
+#### (h) Competitive certification awards modification authority
+
+In implementing this section or section 48B, the Secretary is directed to modify the terms of any competitive certification award and any associated closing agreement where such modification—
+
+&emsp;(1) is consistent with the objectives of such section,
+
+&emsp;(2) is requested by the recipient of the competitive certification award, and
+
+&emsp;(3) involves moving the project site to improve the potential to capture and sequester carbon dioxide emissions, reduce costs of transporting feedstock, and serve a broader customer base,
+
+> unless the Secretary determines that the dollar amount of tax credits available to the taxpayer under such section would increase as a result of the modification or such modification would result in such project not being originally certified. In considering any such modification, the Secretary shall consult with other relevant Federal agencies, including the Department of Energy.
+
+#### (i) Recapture of credit for failure to sequester
+
+The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
+
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823.)
 
 #### References in Text
 
@@ -253,11 +287,63 @@ The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. 
 
 The date of enactment of this section, referred to in subsecs. (d)(1), (4)(A) and (f)(3), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–343, §111(a), added par. (3).
+
+Subsec. (d)(2)(A). Pub. L. 110–343, §111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).”
+
+Subsec. (d)(3)(A). Pub. L. 110–343, §111(b), substituted “$2,550,000,000” for “$1,300,000,000”.
+
+Subsec. (d)(3)(B). Pub. L. 110–343, §111(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
+
+&emsp;“(i) $800,000,000 for integrated gasification combined cycle projects, and
+
+&emsp;“(ii) $500,000,000 for projects which use other advanced coal-based generation technologies.”
+
+Subsec. (d)(5). Pub. L. 110–343, §111(d), added par. (5).
+
+Subsec. (e)(1)(G). Pub. L. 110–343, §111(c)(3)(A), added subpar. (G).
+
+Subsec. (e)(3). Pub. L. 110–343, §111(c)(5), substituted “certain” for “integrated gasification combined cycle” in heading.
+
+Subsec. (e)(3)(B)(iii), (iv). Pub. L. 110–343, §111(c)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (e)(3)(C). Pub. L. 110–343, §111(c)(3)(B), added subpar. (C).
+
+Subsec. (h). Pub. L. 110–246, §15346(a), added subsec. (h).
+
+Subsec. (i). Pub. L. 110–343, §111(c)(3)(C), added subsec. (i).
 
 2007—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
 
 2006—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. B, title I, §111(e), Oct. 3, 2008, 122 Stat. 3823, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to credits the application for which is submitted during the period described in section 48A(d)(2)(A)(ii) of the Internal Revenue Code of 1986 and which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].
+
+“(2)
+
+Disclosure of allocations.—The amendment made by subsection (d) \[amending this section\] shall apply to certifications made after the date of the enactment of this Act.
+
+“(3)
+
+Clerical amendment.—The amendment made by subsection (c)(5) \[amending this section\] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58\].”
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 18, 2008\] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment.”
+
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2006 Amendment
 

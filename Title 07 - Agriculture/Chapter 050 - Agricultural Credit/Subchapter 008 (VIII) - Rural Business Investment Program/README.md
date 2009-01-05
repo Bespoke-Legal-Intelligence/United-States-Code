@@ -21,6 +21,6 @@
 - [&sect; 02009cc&#8211;13 - Additional penalties for noncompliance](%C2%A7%2002009cc%E2%80%9313%20-%20Additional%20penalties%20for%20noncompliance.md)
 - [&sect; 02009cc&#8211;14 - Unlawful acts and omissions; breach of fiduciary duty](%C2%A7%2002009cc%E2%80%9314%20-%20Unlawful%20acts%20and%20omissions%3B%20breach%20of%20fiduciary%20duty.md)
 - [&sect; 02009cc&#8211;15 - Removal or suspension of directors or officers](%C2%A7%2002009cc%E2%80%9315%20-%20Removal%20or%20suspension%20of%20directors%20or%20officers.md)
-- [&sect; 02009cc&#8211;16 - Contracting of functions](%C2%A7%2002009cc%E2%80%9316%20-%20Contracting%20of%20functions.md)
+- [&sect; 02009cc&#8211;16 - Repealed. Pub. L. 110&#8211;234, title VI, &sect;6027(e), May 22, 2008, 122 Stat. 1183, and Pub. L. 110&#8211;246, &sect;4(a), title VI, &sect;6027(e)&#8230;](%C2%A7%2002009cc%E2%80%9316%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20VI%2C%20%C2%A76027%28e%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201183%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20VI%2C%20%C2%A76027%28e%29%E2%80%A6.md)
 - [&sect; 02009cc&#8211;17 - Regulations](%C2%A7%2002009cc%E2%80%9317%20-%20Regulations.md)
-- [&sect; 02009cc&#8211;18 - Funding](%C2%A7%2002009cc%E2%80%9318%20-%20Funding.md)
+- [&sect; 02009cc&#8211;18 - Authorization of appropriations](%C2%A7%2002009cc%E2%80%9318%20-%20Authorization%20of%20appropriations.md)

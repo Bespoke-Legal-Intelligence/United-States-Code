@@ -16,5 +16,5 @@ As used in this subchapter:
 
 #### Prior Provisions
 
-A prior section 401 of Pub. L. 95–511 was renumbered section 601 and is set out as a note under section 1801 of this title.
+A prior section 401 of Pub. L. 95–511 was renumbered section 701 and was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
 

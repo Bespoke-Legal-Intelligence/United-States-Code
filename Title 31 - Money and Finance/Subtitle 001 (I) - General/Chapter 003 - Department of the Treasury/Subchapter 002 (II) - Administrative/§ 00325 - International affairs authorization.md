@@ -4,7 +4,7 @@
 
 (b) The following amounts may be appropriated to the Secretary for the fiscal year ending September 30, 1982:
 
-&emsp;(1) not more than $22,896,000 to carry out the international affairs duties and powers of the Department (including amounts for officialfunctions and reception and representation expenses).
+&emsp;(1) not more than $22,896,000 to carry out the international affairs duties and powers of the Department (including amounts for official functions and reception and representation expenses).
 
 &emsp;(2) not more than $1,000,000 for increases in—
 

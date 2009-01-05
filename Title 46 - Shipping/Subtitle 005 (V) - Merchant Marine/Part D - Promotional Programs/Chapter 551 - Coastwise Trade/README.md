@@ -11,7 +11,7 @@
 | [55107\.](%C2%A7%2055107%20-%20Empty%20cargo%20containers%20and%20barges.md) | Empty cargo containers and barges. |
 | [55108\.](%C2%A7%2055108%20-%20Platform%20jackets.md) | Platform jackets. |
 | [55109\.](%C2%A7%2055109%20-%20Dredging.md) | Dredging. |
-| [55110\.](%C2%A7%2055110%20-%20Transportation%20of%20dredged%20material.md) | Transportation of dredged material. |
+| [55110\.](%C2%A7%2055110%20-%20Transportation%20of%20valueless%20material%20or%20dredged%20material.md) | Transportation of valueless material or dredged material. |
 | [55111\.](%C2%A7%2055111%20-%20Towing.md) | Towing. |
 | [55112\.](%C2%A7%2055112%20-%20Vessel%20escort%20operations%20and%20towing%20assistance.md) | Vessel escort operations and towing assistance. |
 | [55113\.](%C2%A7%2055113%20-%20Use%20of%20foreign%20documented%20oil%20spill%20response%20vessels.md) | Use of foreign documented oil spill response vessels. |
@@ -25,6 +25,14 @@
 | [55121\.](%C2%A7%2055121%20-%20Transportation%20of%20merchandise%20and%20passengers%20on%20Canadian%20vessels.md) | Transportation of merchandise and passengers on Canadian vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2008—Pub. L. 110–181, div. C, title XXXV, §3527(b)(2), Jan. 28, 2008, 122 Stat. 602, inserted “valueless material or” before “dredged material” in item 55110.
+
+<i><sup>1</sup></i><i> Another section 54101 is set out in the chapter 541 preceding this chapter.</i>
+
+<i><sup>2</sup></i><i> So in original. There is no subpar. (B).</i>
 
 
 ---
@@ -40,7 +48,7 @@
 - [&sect; 55107 - Empty cargo containers and barges](%C2%A7%2055107%20-%20Empty%20cargo%20containers%20and%20barges.md)
 - [&sect; 55108 - Platform jackets](%C2%A7%2055108%20-%20Platform%20jackets.md)
 - [&sect; 55109 - Dredging](%C2%A7%2055109%20-%20Dredging.md)
-- [&sect; 55110 - Transportation of dredged material](%C2%A7%2055110%20-%20Transportation%20of%20dredged%20material.md)
+- [&sect; 55110 - Transportation of valueless material or dredged material](%C2%A7%2055110%20-%20Transportation%20of%20valueless%20material%20or%20dredged%20material.md)
 - [&sect; 55111 - Towing](%C2%A7%2055111%20-%20Towing.md)
 - [&sect; 55112 - Vessel escort operations and towing assistance](%C2%A7%2055112%20-%20Vessel%20escort%20operations%20and%20towing%20assistance.md)
 - [&sect; 55113 - Use of foreign documented oil spill response vessels](%C2%A7%2055113%20-%20Use%20of%20foreign%20documented%20oil%20spill%20response%20vessels.md)

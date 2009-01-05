@@ -16,7 +16,7 @@ General.—Except as provided in this section and section 32502 of this title, a
 
 Nonapplication.—Subsection (a)(1) of this section does not apply to—
 
-&emsp;(1) the sale, offer for sale, or introduction or delivery for introduction in interstate commerce of a passenger motor vehicle or passenger motor vehicle equipment after the first purchase of the vehicle or equipment in good faith other than for resale (but this clause does not prohibit a standard from requiring that a vehicle or equipment be manufactured to comply with the standard over a specified period of operation or use); or
+&emsp;(1) the sale, offer for sale, or introduction or delivery for introduction in interstate commerce of a passenger motor vehicle or passenger motor vehicle equipment after the firstpurchase of the vehicle or equipment in good faith other than for resale (but this clause does not prohibit a standard from requiring that a vehicle or equipment be manufactured to comply with the standard over a specified period of operation or use); or
 
 &emsp;(2) a person—
 

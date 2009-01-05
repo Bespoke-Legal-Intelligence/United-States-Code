@@ -48,7 +48,7 @@ Termination of NAFTA Status.—During any period in which a country ceases to be
 
 #### North American Free Trade Agreement: Entry Into Force
 
-A Presidential Memorandum on the Implementation of the North American Free Trade Agreement, dated Dec. 27, 1993, directing the Secretary of State to exchange notes with the Government of Canada and the Government of Mexico to provide for the entry into force of the Agreement on Jan. 1, 1994, is set out in 29 Weekly Compilation of Presidential Documents 2641, Jan. 3, 1994.
+A Presidential Memorandum on the Implementation of the North American Free Trade Agreement, datedDec. 27, 1993, directing the Secretary of State to exchange notes with the Government of Canada and the Government of Mexico to provide for the entry into force of the Agreement on Jan. 1, 1994, is set out in 29 Weekly Compilation of Presidential Documents 2641, Jan. 3, 1994.
 
 #### Ex. Ord. No. 12889. Implementation of North American Free Trade Agreement
 
@@ -106,7 +106,7 @@ Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, wit
 
 (c) In addition to the general provisions of section 7 of this order regarding enforceable rights, nothing in this order is intended to suggest that the giving of notice to a patent owner under Article 1709(10) of the NAFTA constitutes an admission that the Federal Government has infringed a valid privately-owned patent.
 
-Sec. 7. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 7. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 8. <i>Effective Date</i>. This order shall take effect upon the date of entry into force of the NAFTA for the United States.
 

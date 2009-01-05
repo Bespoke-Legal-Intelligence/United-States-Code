@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, a person violating this ch
 
 #### (b) Operating without a permit
 
-A person violating section 2602 of this title is liable to the United States Government for acivil penalty of not more than $10,000. Each day of a continuing violation is a separate violation. A vessel involved in the violation also is liable in rem for the penalty.
+A person violating section 2602 of this title is liable to the United States Government for a civil penalty of not more than $10,000. Each day of a continuing violation is a separate violation. A vessel involved in the violation also is liable in rem for the penalty.
 
 #### (c) Criminal penalty
 

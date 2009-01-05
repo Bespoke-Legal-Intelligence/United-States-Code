@@ -14,7 +14,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 (b)
 
-Eliminating and Amending Existing Regulations.—The Secretary may not eliminate oramend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
 
 (c)
 
@@ -118,13 +118,17 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under section 31149 of this title.
+
 #### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
 
 Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: “Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003.”
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply toall interstate operations of such carriers regardless of the distance traveled.”
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -132,7 +136,7 @@ Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided tha
 
 #### Certain Exemptions
 
-Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749, provided that:
+Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616, provided that:
 
 “(a)
 
@@ -140,7 +144,7 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
 
 &emsp;“(2)
 
@@ -208,7 +212,7 @@ Utility service vehicle.—The term ‘utility service vehicle’ means any comm
 
 &emsp;&emsp;“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service;
 
-&emsp;&emsp;“(B) while engaged in any activity necessarily related to the ultimate delivery of such public utilityservices to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
+&emsp;&emsp;“(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
 
 &emsp;&emsp;“(C) except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 

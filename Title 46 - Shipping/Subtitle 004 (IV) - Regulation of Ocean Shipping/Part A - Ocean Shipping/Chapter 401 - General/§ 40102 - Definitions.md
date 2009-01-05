@@ -94,7 +94,7 @@ Deferred rebate.—The term “deferred rebate” means a return by a common car
 
 &emsp;(10)
 
-Forest products.—The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
+Forest products.—The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper andpaper board in rolls or in pallet or skid-sized sheets.
 
 &emsp;(11)
 

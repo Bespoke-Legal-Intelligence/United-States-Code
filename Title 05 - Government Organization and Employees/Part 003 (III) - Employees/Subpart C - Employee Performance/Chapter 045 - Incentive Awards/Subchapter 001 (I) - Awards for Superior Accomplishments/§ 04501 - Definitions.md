@@ -112,7 +112,7 @@ Sec. 3. <i>Information Reporting Requirements</i>. (a) Government corporations s
 
 &emsp;(3) information supporting the senior executive compensation plan and levels.
 
-(c) The Director of OMB shall issue instructions to the corporations subject to this section specifyingwhen information is to be submitted, and the content and form of such information.
+(c) The Director of OMB shall issue instructions to the corporations subject to this section specifying when information is to be submitted, and the content and form of such information.
 
 Sec. 4. <i>Review</i>. (a) OMB, in consultation with the Department of Labor, will review the information submitted pursuant to section 3, taking into consideration:
 

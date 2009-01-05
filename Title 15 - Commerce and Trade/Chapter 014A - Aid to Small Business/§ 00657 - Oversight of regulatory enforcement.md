@@ -62,11 +62,11 @@ Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B)
 
 #### Prior Provisions
 
-A prior section 2\[30\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
+A prior section 2\[30\] of Pub. L. 85–536 was renumbered section 2\[44\] and is set out as a note under section 631 of this title.
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ The Congress hereby declares that—
 
 &emsp;(3) the Federal Government should help welfare recipients as well as individuals at risk of welfare receipt to improve their education and job skills, to obtain child care and other necessary support services, and to take such other steps as may be necessary to assist them to become financially independent; and
 
-&emsp;(4) it is the purpose of this section to provide the public with generally accepted measures of welfare receipt so that it can track such receipt over time and determine whether progress is being made in reducing the rate at which and, to the extent feasible, the degreeto which, families depend on income from welfare programs and the duration of welfare receipt.
+&emsp;(4) it is the purpose of this section to provide the public with generally accepted measures of welfare receipt so that it can track such receipt over time and determine whether progress is being made in reducing the rate at which and, to the extent feasible, the degree to which, families depend on income from welfare programs and the duration of welfare receipt.
 
 #### (b) Development of welfare indicators and predictors
 
@@ -18,7 +18,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;(1) develop—
 
-&emsp;&emsp;(A) indicators of the rate at which and, to the extent feasible, the degree to which, families depend on income from welfare programs and the duration of welfare receipt; and
+&emsp;&emsp;(A) indicators of the rate at which and, to the extent feasible, the degree to which,families depend on income from welfare programs and the duration of welfare receipt; and
 
 &emsp;&emsp;(B) predictors of welfare receipt;
 
@@ -86,7 +86,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (2) Coverage
 
-&emsp;The report shall include analysis of families and individuals receiving assistance under means-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
+&emsp;The report shall include analysis of families and individuals receiving assistance under means-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
 
 #### (3) Contents
 
@@ -108,7 +108,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(F) such other information as the Secretary deems relevant; and
 
-&emsp;&emsp;(G) such recommendations for legislation, which shall not include proposals to reduceeligibility levels or impose barriers to program access, as the Secretary may determine to be necessary or desirable to reduce—
+&emsp;&emsp;(G) such recommendations for legislation, which shall not include proposals to reduce eligibility levels or impose barriers to program access, as the Secretary may determine to be necessary or desirable to reduce—
 
 &emsp;&emsp;&emsp;(i) the rate at which and the degree to which families depend on income from welfare programs, and
 
@@ -116,25 +116,29 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 #### (4) Submission
 
-&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, and annually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
+&emsp;The Secretary shall submit such a report not later than 3 years after October 31, 1994, andannually thereafter, to the committees specified in subsection (b)(3) of this section. Each such report shall be transmitted during the first 60 days of each regular session of Congress.
 
 #### (e) Short title
 
 This section may be cited as the “Welfare Indicators Act of 1994”.
 
-(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674.)
+(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
 Part A of subchapter IV of this chapter and subchapter XVI of this chapter, referred to in subsec. (d)(2), are classified to section 601 et seq. and section 1381 et seq., respectively, of this title.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Social Security Act Amendments of 1994, and not as part of the Social Security Act which comprises this chapter.
 
 #### Amendments
+
+2008—Subsec. (d)(2). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(X), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 1998—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out “Energy and” before “Commerce”.
 
@@ -145,4 +149,10 @@ Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted “subsection (b)(3)
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (B), (2)(X) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

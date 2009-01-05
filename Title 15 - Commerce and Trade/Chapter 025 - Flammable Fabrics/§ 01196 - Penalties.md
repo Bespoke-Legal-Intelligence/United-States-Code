@@ -1,14 +1,18 @@
 ### §1196. Penalties
 
-Any person who willfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guiltyof a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: <i>Provided</i>, That nothing herein shall limit other provisions of this chapter.
+Violation of section 1192 or 1197(b) of this title, or failure to comply with section 1202(c) of this title, is punishable by—
 
-(June 30, 1953, ch. 164, §7, 67 Stat. 114; Pub. L. 95–631, §8(b), Nov. 10, 1978, 92 Stat. 3747.)
+&emsp;(1) imprisonment for not more than 5 years for a knowing and willful violation of that section;
+
+&emsp;(2) a fine determined under section 3571 of title 18; or
+
+&emsp;(3) both.
+
+(June 30, 1953, ch. 164, §7, 67 Stat. 114; Pub. L. 95–631, §8(b), Nov. 10, 1978, 92 Stat. 3747; Pub. L. 110–314, title II, §217(c)(4), Aug. 14, 2008, 122 Stat. 3060.)
 
 #### Amendments
 
+2008—Pub. L. 110–314 amended section generally. Prior to amendment, text read as follows: “Any person who willfully violates section 1192 or 1197(b) of this title, or who fails to comply with section 1202(c) of this title, shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $5,000 or be imprisoned not more than one year or both in the discretion of the court: <i>Provided</i>, That nothing herein shall limit other provisions of this chapter.”
+
 1978—Pub. L. 95–631 authorized penalties for noncompliance with section 1202(c) of this title.
-
-#### Transfer of Functions
-
-Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 

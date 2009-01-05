@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress on support and promotion of innovation in the United States
 
-It is the sense of Congress that each Federal research agency should strive to support andpromote innovation in the United States through high-risk, high-reward basic research projects that—
+It is the sense of Congress that each Federal research agency should strive to support and promote innovation in the United States through high-risk, high-reward basic research projects that—
 
 &emsp;(1) meet fundamental technological or scientific challenges;
 

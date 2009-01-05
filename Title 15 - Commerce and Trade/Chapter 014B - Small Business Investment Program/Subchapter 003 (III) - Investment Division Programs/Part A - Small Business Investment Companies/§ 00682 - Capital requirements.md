@@ -38,7 +38,7 @@
 
 #### (2) Certain savings associations
 
-&emsp;Notwithstanding any other provision of law, any Federal savings association may invest in any one or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event may the totalamount of such investments by any such Federal savings association exceed 5 percent of the capital and surplus of the Federal savings association.
+&emsp;Notwithstanding any other provision of law, any Federal savings association may invest in any one or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event may the total amount of such investments by any such Federal savings association exceed 5 percent of the capital and surplus of the Federal savings association.
 
 #### (c) Diversification of ownership
 
@@ -56,7 +56,7 @@ Section 1845(a)(1) of title 12, referred to in subsec. (b)(1), was repealed by P
 
 #### Codification
 
-September 30, 1996, referred to in subsecs. (a)(4) and (c), was in the original “the date of enactment of the Small Business Program Improvement Act of 1996”, which was translated as meaning the date of enactment of the Small Business Programs Improvement Act of 1996, to reflect the probable intent of Congress.
+September 30, 1996, referred to in subsecs. (a)(4) and (c), was in the original “the date of enactment of theSmall Business Program Improvement Act of 1996”, which was translated as meaning the date of enactment of the Small Business Programs Improvement Act of 1996, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 94–305, §107, struck out provisions prohibiting the bank
 
 1967—Subsec. (a). Pub. L. 90–104, §203(a), substituted small business investment company minimum capital requirement, a combined private paid-in capital and paid-in surplus, of $150,000 and adequate to assure reasonable prospect of sound and profitable company operations and active and prudent management in accordance with the articles of incorporation for former requirement of a paid-in capital and surplus equal to at least $300,000, and eliminated provisions for purchase of debentures of such companies in an amount not to exceed the lesser of $700,000 or the amount of paid-in capital and surplus of the company from other sources and for subordination of debentures (both incorporated in section 686(b) of this title), for such purchases by the Administration only during certain prescribed period, and deeming the debentures part of the capital and surplus for certain purposes.
 
-Subsec. (b). Pub. L. 90–104, §204, substituted prohibition against bank acquisition of small business investment company stock if, upon such acquisition, the aggregate amount of shares in such companies then held by the bank would exceed 5 percent of the capital and surplus, or the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights for former prohibition against holding of shares in anamount aggregating more than 2 percent of its capital and surplus.
+Subsec. (b). Pub. L. 90–104, §204, substituted prohibition against bank acquisition of small business investment company stock if, upon such acquisition, the aggregate amount of shares in such companies then held by the bank would exceed 5 percent of the capital and surplus, or the bank would hold 50 percent or more of any class of equity securities issued by that investment company and having actual or potential voting rights for former prohibition against holding of shares in an amount aggregating more than 2 percent of its capital and surplus.
 
 1964—Subsec. (a). Pub. L. 88–273 increased the limitation on Administration purchase of debentures from $400,000 to $700,000 and extended the period for such purchase from three years after date of issuance of license or date of enactment of Pub. L. 87–341, the Small Business Investment Act Amendments of 1961 (Oct. 3, 1961), whichever is later, to five years after date of issuance of license or date of enactment of Pub. L. 88–273, the Small Business Investment Act Amendments of 1963 (Feb. 28, 1964), whichever is later.
 

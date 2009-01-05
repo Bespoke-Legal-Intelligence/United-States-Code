@@ -26,11 +26,11 @@
 
 &emsp;&emsp;(A) the issuance of any grant, contract, loan, professional license, or commercial license provided by any agency of the United States or by appropriated funds of the United States; and
 
-&emsp;&emsp;(B) any retirement, welfare, Social Security, health (including treatment of an emergency medical condition in accordance with section 1903(v) of the Social Security Act (19 <sup>1</sup> U.S.C. 1396b(v))), disability, veterans, public housing, education, food stamps, or unemployment benefit, or any similar benefit for which payments or assistance are provided by an agency of the United States or by appropriated funds of the United States; and
+&emsp;&emsp;(B) any retirement, welfare, Social Security, health (including treatment of an emergency medical condition in accordance with section 1903(v) of the Social Security Act (19 <sup>1</sup> U.S.C. 1396b(v))), disability, veterans, public housing, education, supplemental nutrition assistance program benefits,<sup>2</sup> or unemployment benefit, or any similar benefit for which payments or assistance are provided by an agency of the United States or by appropriated funds of the United States; and
 
 &emsp;(2) each instance of forgery, counterfeiting, mutilation, or alteration shall constitute a separate offense under this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title V, §561, Sept. 30, 1996, 110 Stat. 3009–681.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, §561, Sept. 30, 1996, 110 Stat. 3009–681; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(M), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(M), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Historical and revision Notes
 
@@ -44,7 +44,13 @@ Provision for 10 years’ imprisonment was reduced to 5 years to conform to puni
 
 Minor changes in phraseology were also made.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(1)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -58,5 +64,13 @@ Minor changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(E), (2)(M) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “42”.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “benefits” probably should not appear.</i>
 

@@ -1188,15 +1188,31 @@ Amendment by Pub. L. 95–510 effective Oct. 1, 1979, see section 105 of Pub. L.
 
 For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Transfer of Functions
-
-Transfer to Director of ACTION \[now Corporation for National and Community Service\] of functions of Small Business Administration under subsec. (b) of this section insofar as they relate to individuals or groups of persons cooperating with it in the furtherance of purposes of this section, such individuals or groups of persons, in providing technical and managerial aids to small concerns, remaining subject to direction of Small Business Administration, see section 601 of Pub. L. 93–113, set out as a note under section 5041 of Title 42, The Public Health and Welfare, which superseded section 2(a)(3) of Reorg. Plan No. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Regulations
 
 Pub. L. 108–447, div. K, title I, §141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: “The Administration shall, not later than 180 days after the date of enactment of this Act \[Dec. 8, 2004\], promulgate regulations to carry out the amendments made by subsection (a) \[amending this section\].”
 
-Pub. L. 106–50, §303(c), Aug. 17, 1999, 113 Stat. 243, provided that: “Not later than 30 days after the date of the enactment of this section \[Aug. 17, 1999\], the Administrator of the Small Business Administration shall issue such guidelines as the Administrator determines to be necessary to carry out this section \[amending this section and enacting provisions set out as a note underthis section\] and the amendment made by this section.”
+Pub. L. 106–50, §303(c), Aug. 17, 1999, 113 Stat. 243, provided that: “Not later than 30 days after the date of the enactment of this section \[Aug. 17, 1999\], the Administrator of the Small Business Administration shall issue such guidelines as the Administrator determines to be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendment made by this section.”
+
+#### Transfer of Functions
+
+Transfer to Director of ACTION \[now Corporation for National and Community Service\] of functions of Small Business Administration under subsec. (b) of this section insofar as they relate to individuals or groups of persons cooperating with it in the furtherance of purposes of this section, except that such individuals or groups of persons, in providing technical and managerial aids to small concerns, remain subject to direction of Small Business Administration. See section 601 of Pub. L. 93–113, 87 Stat. 416, formerly set out as a note under section 5041 of Title 42, The Public Health and Welfare, which superseded section 2(a)(3) of Reorg. PlanNo. 1 of 1971, eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Increasing Number of Outreach Centers
+
+Pub. L. 110–186, title I, §105, Feb. 14, 2008, 122 Stat. 626, provided that:
+
+“(a)
+
+In General.—The Administrator \[of the Small Business Administration\] shall use the authority in section 8(b)(17) of the Small Business Act (15 U.S.C. 637(b)(17)) to ensure that the number of Veterans Business Outreach Centers throughout the United States increases—
+
+&emsp;“(1) subject to subsection (b), by at least 2, for each of fiscal years 2008 and 2009; and
+
+&emsp;“(2) by the number that the Administrator considers appropriate, based on need, for each fiscal year thereafter.
+
+“(b)
+
+Limitation.—Subsection (a)(1) shall apply in a fiscal year if, for that fiscal year, the amount made available for the Office of Veterans Business Development is more than the amount made available for the Office of Veterans Business Development for fiscal year 2007.”
 
 #### Enhanced Publicity During Operation Allied Force
 
@@ -1278,7 +1294,7 @@ Pub. L. 101–189, div. A, title VIII, §834, Nov. 29, 1989, 103 Stat. 1509, as 
 
 “(a)
 
-Test Program.—(1) The Secretary of Defense shall establish a test program under which contractingactivities in the military departments and the Defense Agencies are authorized to undertake one or more demonstration projects to determine whether the negotiation and administration of comprehensive subcontracting plans will reduce administrative burdens on contractors while enhancing opportunities provided under Department of Defense contracts for small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals. In selecting the contracting activities to undertake demonstration projects, the Secretary shall take such action as is necessary to ensure that a broad range of the supplies and services acquired by the Department of Defense are included in the test program.
+Test Program.—(1) The Secretary of Defense shall establish a test program under which contracting activities in the military departments and the Defense Agencies are authorized to undertake one or more demonstration projects to determine whether the negotiation and administration of comprehensive subcontracting plans will reduce administrative burdens on contractors while enhancing opportunities provided under Department of Defense contracts for small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals. In selecting the contracting activities to undertake demonstration projects, the Secretary shall take such action as is necessary to ensure that a broad range of the supplies and services acquired by the Department of Defense are included in the test program.
 
 “(2) In developing the test program, the Secretary of Defense shall—
 
@@ -1418,7 +1434,7 @@ Section 132 of Pub. L. 100–590 provided that: “The Small Business Administra
 
 #### Time for Designation of Agency
 
-Section 1(b) of Pub. L. 99–567 provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall be made not later than sixty days after the date of enactment of this Act \[Oct. 27, 1986\].”
+Section 1(b) of Pub. L. 99–567 provided that: “The designation of an agency pursuant to the amendment made by subsection (a) \[amending this section\] shall bemade not later than sixty days after the date of enactment of this Act \[Oct. 27, 1986\].”
 
 #### Report to Congress Respecting Assistance Furnished by Profitmaking Concerns to Small Business Concerns; Contents
 
@@ -1426,7 +1442,7 @@ Section 5(b) of Pub. L. 98–362 directed Small Business Administration, not lat
 
 #### Tennessee Valley Authority; Procurement Procedures Under 1983 and 1984 Amendments Applicable Only to Procurements Paid From Appropriated Funds
 
-Section 404(c) of Pub. L. 98–577 provided that: “The provisions of the amendment made by subsection (a) ofthis section \[enacting subsecs. (e) to (j) of this section and striking out former subsec. (e) of this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
+Section 404(c) of Pub. L. 98–577 provided that: “The provisions of the amendment made by subsection (a) of this section \[enacting subsecs. (e) to (j) of this section and striking out former subsec. (e) of this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
 Section 1(b)(3) of Pub. L. 98–72 provided that: “The provisions of this Act \[amending this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 

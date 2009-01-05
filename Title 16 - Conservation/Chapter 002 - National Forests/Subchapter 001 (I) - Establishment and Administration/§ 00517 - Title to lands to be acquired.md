@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture may do all things necessary to secure the safe title in the United States to the lands to be acquired under this Act, but no payment shall be made for any such lands until the title shall be satisfactory to the Attorney General or his designee and shall be vested in the United States.
 
-(Mar. 1, 1911, ch. 186, §8\[part\], 36 Stat. 962; Pub. L. 91–393, §3, Sept. 1, 1970, 84 Stat. 835.)
+(Mar. 1, 1911, ch. 186, §8 (part), 36 Stat. 962; Pub. L. 91–393, §3, Sept. 1, 1970, 84 Stat. 835.)
 
 #### References in Text
 

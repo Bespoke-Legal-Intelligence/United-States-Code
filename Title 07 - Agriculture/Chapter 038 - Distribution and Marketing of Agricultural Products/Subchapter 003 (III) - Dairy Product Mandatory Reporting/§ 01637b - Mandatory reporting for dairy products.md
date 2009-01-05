@@ -20,7 +20,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(ii) modify the format used to provide the information on the day before November 22, 2000, to ensure that the information can be readily understood by market participants; and
 
-&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report to the Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
+&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report tothe Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
 
 #### (2) Conditions
 
@@ -52,7 +52,13 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (3) Verification
 
-&emsp;The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.
+
+#### (B) Quarterly audits
+
+&emsp;&emsp;The Secretary shall quarterly conduct an audit of information submitted or reported under this subchapter and compare such information with other related dairy market statistics.
 
 #### (4) Enforcement
 
@@ -102,9 +108,37 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;Each person required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary, on request, original contracts, agreements, receipts, and other records associated with the sale or storage of any dairy products during the 2-year period beginning on the date of the creation of the records.
 
-#### (d) Authorization of appropriations
+#### (d) Electronic reporting
+
+#### (1) In general
+
+&emsp;Subject to the availability of funds under paragraph (3), the Secretary shall establish an electronic reporting system to carry out this section.
+
+#### (2) Frequency of reports
+
+&emsp;After the establishment of the electronic reporting system in accordance with paragraph (1), the Secretary shall increase the frequency of the reports required under this section.
+
+#### (3) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
+
+#### (e) Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Aug. 14, 1946, ch. 966, title II, §273, as added Pub. L. 106–532, §2, Nov. 22, 2000, 114 Stat. 2542.)
+(Aug. 14, 1946, ch. 966, title II, §273, as added Pub. L. 106–532, §2, Nov. 22, 2000, 114 Stat. 2542; amended Pub. L. 110–234, title I, §1510, May 22, 2008, 122 Stat. 999; Pub. L. 110–246, §4(a), title I, §1510, June 18, 2008, 122 Stat. 1664, 1728.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
+
+Subsecs. (d), (e). Pub. L. 110–246, §1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

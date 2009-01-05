@@ -112,7 +112,7 @@ Persons Serving Under Contract. Any other provision of this Part notwithstanding
 
 Sec. 108.
 
-Periodic Review. The Secretary of State shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to section 102 hereof, with a view to making such changes therein as will insure that the payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified.
+Periodic Review. The Secretary of State shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to section 102 hereof, with a viewto making such changes therein as will insure that the payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified.
 
 Sec. 109.
 
@@ -182,7 +182,7 @@ Periodic Review. The Office of Personnel Management shall periodically review th
 
 Sec. 301.
 
-Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
+Temporary Regulations. During the period commencing with the date of this order or the effectivedate of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
 
 #### Part IV—Foreign Service Salary Differentials
 

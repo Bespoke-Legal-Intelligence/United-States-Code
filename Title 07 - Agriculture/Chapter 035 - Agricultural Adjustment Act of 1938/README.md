@@ -35,8 +35,8 @@
 | [1306\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001306%20-%20Projected%20yields%3B%20determination%3B%20base%20period.md) | Projected yields; determination; base period. |
 | [1307\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001307%20-%20Limitation%20on%20payments%20under%20wheat%2C%20feed%20grains%2C%20and%20cotton%20programs%20for%201974%20through%201977%20crops.md) | Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops. |
 | [1308\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001308%20-%20Payment%20limitations.md) | Payment limitations. |
-| 1308–1. | Prevention of creation of entities to qualify as separate persons; payments limited to active farmers. |
-| 1308–2. | Schemes or devices. |
+| 1308–1. | Notification of interests; payments limited to active farmers. |
+| 1308–2. | Denial of program benefits. |
 | 1308–3. | Foreign persons made ineligible for program benefits. |
 | 1308–3a. | Adjusted gross income limitation. |
 | 1308–4. | Education program. |
@@ -146,7 +146,8 @@ I74subpart i—marketing quotas—tobacco
 | [1359hh.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359hh%20-%20Regulations%3B%20violations%3B%20publication%20of%20Secretary%27s%20determinations%3B%20jurisdiction%20of%20the%20courts%3B%20United%20States%20attorneys.md) | Regulations; violations; publication of Secretary's determinations; jurisdiction of the courts; United States attorneys. |
 | [1359ii.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359ii%20-%20Appeals.md) | Appeals. |
 | [1359jj.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359jj%20-%20Administration.md) | Administration. |
-| [1359kk.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359kk%20-%20Reallocating%20sugar%20quota%20import%20shortfalls.md) | Reallocating sugar quota import shortfalls. |
+| [1359kk.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359kk%20-%20Administration%20of%20tariff%20rate%20quotas.md) | Administration of tariff rate quotas. |
+| 1359<i>ll.</i> | Period of effectiveness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -37,6 +37,7 @@
 | [4324\.](Subchapter%20003%20%28III%29%20-%20Procedures%20for%20Assistance%2C%20Enforcement%2C%20and%20Investigation/%C2%A7%2004324%20-%20Enforcement%20of%20rights%20with%20respect%20to%20Federal%20executive%20agencies.md) | Enforcement of rights with respect to Federal executive agencies. |
 | [4325\.](Subchapter%20003%20%28III%29%20-%20Procedures%20for%20Assistance%2C%20Enforcement%2C%20and%20Investigation/%C2%A7%2004325%20-%20Enforcement%20of%20rights%20with%20respect%20to%20certain%20Federal%20agencies.md) | Enforcement of rights with respect to certain Federal agencies. |
 | [4326\.](Subchapter%20003%20%28III%29%20-%20Procedures%20for%20Assistance%2C%20Enforcement%2C%20and%20Investigation/%C2%A7%2004326%20-%20Conduct%20of%20investigation%3B%20subpoenas.md) | Conduct of investigation; subpoenas. |
+| [4327\.](Subchapter%20003%20%28III%29%20-%20Procedures%20for%20Assistance%2C%20Enforcement%2C%20and%20Investigation/%C2%A7%2004327%20-%20Noncompliance%20of%20Federal%20officials%20with%20deadlines%3B%20inapplicability%20of%20statutes%20of%20limitations.md) | Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +49,7 @@
 | [4332\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004332%20-%20Reports.md) | Reports. |
 | [4333\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004333%20-%20Outreach.md) | Outreach. |
 | [4334\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004334%20-%20Notice%20of%20rights%20and%20duties.md) | Notice of rights and duties. |
+| [4335\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004335%20-%20Training%20for%20Federal%20executive%20agency%20human%20resources%20personnel%20on%20employment%20and%20reemployment%20rights%20and%20limitations.md) | Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +60,8 @@ This chapter was originally added by Pub. L. 93–508, title IV, §404(a), Dec. 
 A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, 1223, consisted of sections 2101 to 2105, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173.
 
 #### Amendments
+
+2008—Pub. L. 110–389, title III, §§311(f)(2), 313(b), Oct. 10, 2008, 122 Stat. 4164, 4167, added items 4327 and 4335.
 
 2004—Pub. L. 108–454, title II, §203(b), Dec. 10, 2004, 118 Stat. 3606, added item 4334.
 

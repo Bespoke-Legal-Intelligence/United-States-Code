@@ -88,7 +88,7 @@ No cause of action shall lie in any court against any provider of a wire or elec
 
 #### (g) Furnishing of results
 
-Unless otherwise ordered by the judge, the results of a pen register or trap and trace deviceshall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
+Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
 (Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228.)
 
@@ -100,15 +100,15 @@ Section 1805(b)(2)(C) of this title, referred to in subsec. (d)(2)(B)(ii)(II), w
 
 #### Amendments
 
-2006—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
+<b>2006</b>—Subsec. (d)(2)(A). Pub. L. 109–177, §128(a)(1), inserted “and” at end of cl. (ii) and substituted semicolon for period at end of cl. (iii).
 
 Subsec. (d)(2)(C). Pub. L. 109–177, §128(a)(2), (3), added subpar. (C).
 
 Subsec. (e). Pub. L. 109–177, §105(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order issued” for “An order issued”, and added par. (2).
 
-2004—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (d)(2)(B)(ii)(II). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2001—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56, §214(a)(1), substituted “for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “for any investigation to gather foreign intelligence information or information concerning international terrorism”.
 
 Subsec. (c)(1). Pub. L. 107–108, §314(a)(5)(A), inserted “and” after semicolon at end.
 

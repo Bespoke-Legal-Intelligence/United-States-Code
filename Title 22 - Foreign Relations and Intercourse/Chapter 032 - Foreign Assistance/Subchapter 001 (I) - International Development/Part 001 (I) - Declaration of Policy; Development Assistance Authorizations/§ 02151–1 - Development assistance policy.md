@@ -2,7 +2,7 @@
 
 #### (a) Principal purpose of bilateral development assistance
 
-The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources. The Congress recognizes that the magnitude of these efforts exceeds the resources of developing countries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
+The Congress finds that the efforts of developing countries to build and maintain the social and economic institutions necessary to achieve self-sustaining growth and to provide opportunities to improve the quality of life for their people depend primarily upon successfully marshalling their own economic and human resources. The Congress recognizes that the magnitude of these efforts exceeds the resources of developingcountries and therefore accepts that there will be a long-term need for wealthy countries to contribute additional resources for development purposes. The United States should take the lead in concert with other nations to mobilize such resources from public and private sources.
 
 Provision of development resources must be adapted to the needs and capabilities of specific developing countries. United States assistance to countries with low per capita incomes which have limited access to private external resources should primarily be provided on concessional terms. Assistance to other developing countries should generally consist of programs which facilitate their access to private capital markets, investment, and technical skills, whether directly through guarantee or reimbursable programs by the United States Government or indirectly through callable capital provided to the international financial institutions.
 
@@ -38,11 +38,11 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(5) United States development assistance should focus on critical problems in those functional sectors which affect the lives of the majority of the people in the developing countries; food production and nutrition; rural development and generation of gainful employment; population planning and health; environment and natural resources; education, development administration, and human resource development; and energy development and production.
 
-&emsp;(6) United States assistance shall encourage and promote the participation of women in the national economies of developing countries and the improvement of women's status as an important means of promoting the total development effort.
+&emsp;(6) United States assistance shall encourage and promote the participation of women in thenational economies of developing countries and the improvement of women's status as an important means of promoting the total development effort.
 
 &emsp;(7) United States bilateral assistance shall recognize that the prosperity of developing countries and effective development efforts require the adoption of an overall strategy that promotes the development, production, and efficient utilization of energy and, therefore, consideration shall be given to the full implications of such assistance on the price, availability, and consumption of energy in recipient countries.
 
-&emsp;(8) United States cooperation in development should be carried out to the maximum extent possible through the private sector, including those institutions which already have ties in the developing areas, such as educational institutions, cooperatives, creditunions, free labor unions, and private and voluntary agencies.
+&emsp;(8) United States cooperation in development should be carried out to the maximum extent possible through the private sector, including those institutions which already have ties in the developing areas, such as educational institutions, cooperatives, credit unions, free labor unions, and private and voluntary agencies.
 
 &emsp;(9) To the maximum extent practicable, United States private investment should be encouraged in economic and social development programs to which the United States lends support.
 

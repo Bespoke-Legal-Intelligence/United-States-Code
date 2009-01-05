@@ -10,7 +10,7 @@ Allowance Authorized.—(1) The Secretary of Defense may pay an allowance to eac
 
 (b)
 
-Amount of Allowance.—Notwithstanding section 5901(a) of title 5, the amount of an allowance paid, and the cost of uniforms provided, under subsection (a) to a civilian employee may not exceed $400 per year.
+Amount of Allowance.—Notwithstanding section 5901(a) of title 5, the amount of an allowance paid, and the cost of uniforms provided, under subsection (a) to a civilian employee may not exceed $400 per year (or such higher maximum amount as the Secretary of Defense may by regulation prescribe).
 
 (c)
 
@@ -18,15 +18,17 @@ Treatment of Allowance.—An allowance paid, or uniform provided, under subsecti
 
 (d)
 
-Use of Appropriated Funds for Allowance.—Amounts appropriated annually to theDepartment of Defense for the pay of civilian employees may be used for uniforms, or for allowance for uniforms, as authorized by this section and section 5901 of title 5.
+Use of Appropriated Funds for Allowance.—Amounts appropriated annually to the Department of Defense for the pay of civilian employees may be used for uniforms, or for allowance for uniforms, as authorized by this section and section 5901 of title 5.
 
-(Added Pub. L. 101–189, div. A, title III, §336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, §1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, §1633(e)(1), Sept. 23, 1996, 110 Stat. 2752.)
+(Added Pub. L. 101–189, div. A, title III, §336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, §1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, §1633(e)(1), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 110–181, div. A, title XI, §1113, Jan. 28, 2008, 122 Stat. 360.)
 
 #### Prior Provisions
 
 Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, §1481(d)(4)(B).
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–181 substituted “$400 per year (or such higher maximum amount as the Secretary of Defense may by regulation prescribe).” for “$400 per year.”
 
 1996—Subsec. (a)(3). Pub. L. 104–201 substituted “section 1622” for “section 1606”.
 

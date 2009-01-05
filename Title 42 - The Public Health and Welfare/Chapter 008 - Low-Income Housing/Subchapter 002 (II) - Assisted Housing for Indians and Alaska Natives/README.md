@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

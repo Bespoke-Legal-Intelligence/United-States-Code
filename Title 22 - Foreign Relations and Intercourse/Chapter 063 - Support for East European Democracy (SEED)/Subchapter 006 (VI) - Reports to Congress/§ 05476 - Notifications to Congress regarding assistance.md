@@ -1,6 +1,6 @@
 ### §5476. Notifications to Congress regarding assistance
 
-Section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1; relating to reprogrammingnotifications) applies with respect to obligations of funds made available under that Act \[22 U.S.C. 2151 et seq.\] to carry out this chapter, notwithstanding any other provision of this chapter.
+Section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1; relating to reprogramming notifications) applies with respect to obligations of funds made available under that Act \[22 U.S.C. 2151 et seq.\] to carry out this chapter, notwithstanding any other provision of this chapter.
 
 (Pub. L. 101–179, title VII, §706, Nov. 28, 1989, 103 Stat. 1322.)
 

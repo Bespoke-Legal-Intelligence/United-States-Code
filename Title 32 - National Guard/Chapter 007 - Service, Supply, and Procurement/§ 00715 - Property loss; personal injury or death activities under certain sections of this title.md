@@ -24,7 +24,7 @@
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States or of any State or the District of Columbia or Puerto Rico.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, andthe claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 

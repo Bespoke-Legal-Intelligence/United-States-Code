@@ -58,7 +58,7 @@ The members of the Telephone Bank Board shall elect one of such members to be th
 
 #### (g) Bylaws
 
-The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regulating themanner in which the telephone bank's business shall be conducted, its directors and officers elected, its stock issued, held, and disposed of, its property transferred, its bylaws amended, and the powers and privileges granted to it by law exercised and enjoyed.
+The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regulating the manner in which the telephone bank's business shall be conducted, its directors and officers elected, its stock issued, held, and disposed of, its property transferred, its bylaws amended, and the powers and privileges granted to it by law exercised and enjoyed.
 
 #### (h) Meetings
 

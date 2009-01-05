@@ -23,6 +23,9 @@
 | [195\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000195%20-%20Punishment%20for%20violation%20of%20order.md) | Punishment for violation of order. |
 | [196\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000196%20-%20Statutory%20trust%20established%3B%20livestock.md) | Statutory trust established; livestock. |
 | [197\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197%20-%20Statutory%20trust%20established%3B%20poultry.md) | Statutory trust established; poultry. |
+| [197a.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197a%20-%20Production%20contracts.md) | Production contracts. |
+| [197b.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197b%20-%20Choice%20of%20law%20and%20venue.md) | Choice of law and venue. |
+| [197c.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000197c%20-%20Arbitration.md) | Arbitration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -89,9 +92,10 @@
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
 | [228d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228d%20-%20Annual%20assessment%20of%20cattle%20and%20hog%20industries.md) | Annual assessment of cattle and hog industries. |
-| [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Separability.md) | Separability. |
+| [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Annual%20report.md) | Annual report. |
 | [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
 | [229b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229b%20-%20Right%20to%20discuss%20terms%20of%20contract.md) | Right to discuss terms of contract. |
+| [229c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229c%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

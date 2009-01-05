@@ -2,17 +2,17 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
+There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 2012, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
 
 #### (b) Duration of grants
 
-Notwithstanding the provisions of section 3197 of this title, funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals.
+Notwithstanding the provisions of section 3197 of this title, funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to State agricultural experiment stations, colleges and universities (including 1890 Institutions (as defined in section 7601 of this title)), other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals.
 
 #### (c) Establishment of annual priority lists for allocation of funds
 
 In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared after consultation with the Advisory Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary and the Advisory Board shall consider the following factors:
 
-&emsp;(1) any health or disease problem which causes or may cause significant economic losses to any part of the livestock production industry;
+&emsp;(1) any health or disease problem which causes or may cause significant economiclosses to any part of the livestock production industry;
 
 &emsp;(2) any food safety problem that has a significant pre-harvest (on-farm) component and is recognized as posing a significant health hazard to the consuming public;
 
@@ -34,7 +34,7 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432.)
+(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7119, 7120, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §§7119, 7120, June 18, 2008, 122 Stat. 1664, 1983.)
 
 #### References in Text
 
@@ -42,7 +42,15 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §7119, substituted “2012” for “2007”.
+
+Subsec. (b). Pub. L. 110–246, §7120, inserted “(including 1890 Institutions (as defined in section 7601 of this title))” after “universities”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -68,11 +76,15 @@ Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98, §1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health ordisease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
+1981—Subsec. (a). Pub. L. 97–98, §1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
 
 Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 
 Subsecs. (c) to (e). Pub. L. 97–98, §1430(c), added subsecs. (c) to (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1981 Amendment
 

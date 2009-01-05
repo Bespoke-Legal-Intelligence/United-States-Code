@@ -1,0 +1,150 @@
+### §7102. Definitions
+
+In this chapter:
+
+#### (1) Adjusted share
+
+&emsp;The term “adjusted share” means the number equal to the quotient obtained by dividing—
+
+&emsp;&emsp;(A) the number equal to the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the base share for the eligible county; by
+
+&emsp;&emsp;&emsp;(ii) the income adjustment for the eligible county; by
+
+&emsp;&emsp;(B) the number equal to the sum of the quotients obtained under subparagraph (A) and paragraph (8)(A) for all eligible counties.
+
+#### (2) Base share
+
+&emsp;The term “base share” means the number equal to the average of—
+
+&emsp;&emsp;(A) the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the number of acres of Federal land described in paragraph (7)(A) in each eligible county; by
+
+&emsp;&emsp;&emsp;(ii) the total number acres <sup>1</sup> of Federal land in all eligible counties in all eligible States; and
+
+&emsp;&emsp;(B) the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the amount equal to the average of the 3 highest 25-percent payments and safety net payments made to each eligible State for each eligible county during the eligibility period; by
+
+&emsp;&emsp;&emsp;(ii) the amount equal to the sum of the amounts calculated under clause (i) and paragraph (9)(B)(i) for all eligible counties in all eligible States during the eligibility period.
+
+#### (3) County payment
+
+&emsp;The term “county payment” means the payment for an eligible county calculated under section 7111(b) of this title.
+
+#### (4) Eligible county
+
+&emsp;The term “eligible county” means any county that—
+
+&emsp;&emsp;(A) contains Federal land (as defined in paragraph (7)); and
+
+&emsp;&emsp;(B) elects to receive a share of the State payment or the county payment under section 7112(b) of this title.
+
+#### (5) Eligibility period
+
+&emsp;The term “eligibility period” means fiscal year 1986 through fiscal year 1999.
+
+#### (6) Eligible State
+
+&emsp;The term “eligible State” means a State or territory of the United States that received a 25-percent payment for 1 or more fiscal years of the eligibility period.
+
+#### (7) Federal land
+
+&emsp;The term “Federal land” means—
+
+&emsp;&emsp;(A) land within the National Forest System, as defined in section 1609(a) of this title exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012); and
+
+&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
+
+#### (8) 50-percent adjusted share
+
+&emsp;The term “50-percent adjusted share” means the number equal to the quotient obtained by dividing—
+
+&emsp;&emsp;(A) the number equal to the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the 50-percent base share for the eligible county; by
+
+&emsp;&emsp;&emsp;(ii) the income adjustment for the eligible county; by
+
+&emsp;&emsp;(B) the number equal to the sum of the quotients obtained under subparagraph (A) and paragraph (1)(A) for all eligible counties.
+
+#### (9) 50-percent base share
+
+&emsp;The term “50-percent base share” means the number equal to the average of—
+
+&emsp;&emsp;(A) the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the number of acres of Federal land described in paragraph (7)(B) in each eligible county; by
+
+&emsp;&emsp;&emsp;(ii) the total number acres <sup>1</sup> of Federal land in all eligible counties in all eligible States; and
+
+&emsp;&emsp;(B) the quotient obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the amount equal to the average of the 3 highest 50-percent payments made to each eligible county during the eligibility period; by
+
+&emsp;&emsp;&emsp;(ii) the amount equal to the sum of the amounts calculated under clause (i) and paragraph (2)(B)(i) for all eligible counties in all eligible States during the eligibility period.
+
+#### (10) 50-percent payment
+
+&emsp;The term “50-percent payment” means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f), and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.).
+
+#### (11) Full funding amount
+
+&emsp;The term “full funding amount” means—
+
+&emsp;&emsp;(A) $500,000,000 for fiscal year 2008; and
+
+&emsp;&emsp;(B) for fiscal year 2009 and each fiscal year thereafter, the amount that is equal to 90 percent of the full funding amount for the preceding fiscal year.
+
+#### (12) Income adjustment
+
+&emsp;The term “income adjustment” means the square of the quotient obtained by dividing—
+
+&emsp;&emsp;(A) the per capita personal income for each eligible county; by
+
+&emsp;&emsp;(B) the median per capita personal income of all eligible counties.
+
+#### (13) Per capita personal income
+
+&emsp;The term “per capita personal income” means the most recent per capita personal income data, as determined by the Bureau of Economic Analysis.
+
+#### (14) Safety net payments
+
+&emsp;The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 <sup>2</sup> of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
+
+#### (15) Secretary concerned
+
+&emsp;The term “Secretary concerned” means—
+
+&emsp;&emsp;(A) the Secretary of Agriculture or the designee of the Secretary of Agriculture with respect to the Federal land described in paragraph (7)(A); and
+
+&emsp;&emsp;(B) the Secretary of the Interior or the designee of the Secretary of the Interior with respect to the Federal land described in paragraph (7)(B).
+
+#### (16) State payment
+
+&emsp;The term “State payment” means the payment for an eligible State calculated under section 7111(a) of this title.
+
+#### (17) 25-percent payment
+
+&emsp;The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
+
+(Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+The Act of July 22, 1937, referred to in par. (7)(A), is act July 22, 1937, ch. 517, 50 Stat. 522, known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+
+Act of August 28, 1937, referred to in par. (10), is act Aug. 28, 1937, ch. 876, 50 Stat. 874. Section 3 of the Act was classified to section 1181c of Title 43, Public Lands, prior to repeal by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. Title II of the Act enacted section 1181f of Title 43 and repealed section 1174 of Title 43. For complete classification of this Act to the Code, see Tables.
+
+The Act of May 24, 1939, referred to in par. (10), is act May 24, 1939, ch. 144, 53 Stat. 753, which enacted sections 1181f–1 to 1181f–4 of Title 43, Public Lands, and provisions set out as a note under section 1181f–1 of Title 43. For complete classification of this Act to the Code, see Tables.
+
+Sections 13982 and 13983 of the Omnibus Budget Reconciliation Act of 1993, referred to in par. (14), are sections 13982 and 13983 of Pub. L. 103–66, which were set out as notes under section 500 of this title and section 1181f of Title 43, Public Lands, respectively, prior to repeal by Pub. L. 106–393, title IV, §404, Oct. 30, 2000, 114 Stat. 1623.
+
+#### Prior Provisions
+
+A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+

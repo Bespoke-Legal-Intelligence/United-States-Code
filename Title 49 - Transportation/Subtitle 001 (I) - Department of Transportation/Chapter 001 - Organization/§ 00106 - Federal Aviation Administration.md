@@ -56,7 +56,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulationsshall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no later than 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
+In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no laterthan 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
 
 &emsp;&emsp;(B)
 
@@ -96,7 +96,7 @@ Definition of political appointee.—For purposes of this subsection, the term �
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -120,9 +120,11 @@ Salaries, operations, and maintenance.—There is authorized to be appropriated 
 
 &emsp;&emsp;(B) $7,732,000,000 for fiscal year 2005;
 
-&emsp;&emsp;(C) $7,889,000,000 for fiscal year 2006; and
+&emsp;&emsp;(C) $7,889,000,000 for fiscal year 2006;
 
-&emsp;&emsp;(D) $8,064,000,000 for fiscal year 2007.
+&emsp;&emsp;(D) $8,064,000,000 for fiscal year 2007; and
+
+&emsp;&emsp;(E) $4,516,364,500 for the 6-month period beginning on October 1, 2008.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -174,7 +176,7 @@ General rule.—In exercising the authority to accept gifts and voluntary servic
 
 &emsp;&emsp;(B)
 
-Incidental expenses.—The Administrator is authorized to provide for incidentalexpenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
+Incidental expenses.—The Administrator is authorized to provide for incidental expenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
 
 &emsp;&emsp;(C)
 
@@ -628,7 +630,7 @@ Budget.—To—
 
 &emsp;&emsp;&emsp;(iii) ensure that the budget request supports the agency's annual and long-range strategic plans for air traffic control services.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719.)
 
 Historical and Revision Notes
 
@@ -768,6 +770,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pu
 
 #### Amendments
 
+2008—Subsec. (k)(1)(E). Pub. L. 110–330 added subpar. (E).
+
 2003—Subsec. (d)(2) to (4). Pub. L. 108–176, §204, added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (f)(2)(A)(ii). Pub. L. 108–176, §224(c), inserted “, services,” after “property”.
@@ -788,7 +792,7 @@ In general.—There is authorized to be appropriated to the Secretary of Transpo
 
 > Such sums shall remain available until expended.”
 
-Subsec. (k)(2). Pub. L. 108–176, §103(b), redesignated subpars. (C) to (E) as subpars. (A) to (C), respectively, in subpars. (A) to (C), substituted “fiscal years 2004 through 2007” for “fiscal years 2000 through 2003”, added subpars. (D) to (G), struck out former subpars. (A) and (B), which related to expenditures for wildlife measures and a university consortium for an air safety and security management certificate program, and struck out former subpars. (F) to (I), which related to expenditures for the 1998 airport surface operationssafety action plan, United States membership obligations in the International Civil Aviation Organization, additional inspectors to enhance air cargo security programs, and improved training programs for airport security screening personnel.
+Subsec. (k)(2). Pub. L. 108–176, §103(b), redesignated subpars. (C) to (E) as subpars. (A) to (C), respectively, in subpars. (A) to (C), substituted “fiscal years 2004 through 2007” for “fiscal years 2000 through 2003”, added subpars. (D) to (G), struck out former subpars. (A) and (B), which related to expenditures for wildlife measures and a university consortium for an air safety and security management certificate program, andstruck out former subpars. (F) to (I), which related to expenditures for the 1998 airport surface operations safety action plan, United States membership obligations in the International Civil Aviation Organization, additional inspectors to enhance air cargo security programs, and improved training programs for airport security screening personnel.
 
 Subsec. (p). Pub. L. 108–176, §201(1), inserted “and Air Traffic Services Board” after “Council” in heading.
 
@@ -892,7 +896,7 @@ Subsec. (p)(7)(H). Pub. L. 108–176, §202(14)(C), redesignated subpar. (F) as 
 
 Subsec. (p)(7)(H)(i). Pub. L. 108–176, §202(14)(L)(i), (ii), substituted “Committee shall” for “Subcommittee shall” and “Secretary” for “Administrator, the Council”.
 
-Subsec. (p)(7)(H)(ii). Pub. L. 108–176, §202(14)(L), substituted “Committee under” for “Subcommittee under”, “subparagraph (D)(i)” for “subparagraph\(B)(i)”, “Committee shall” for “Subcommittee shall”, and “Secretary” for “Administrator, the Council”.
+Subsec. (p)(7)(H)(ii). Pub. L. 108–176, §202(14)(L), substituted “Committee under” for “Subcommitteeunder”, “subparagraph (D)(i)” for “subparagraph (B)(i)”, “Committee shall” for “Subcommittee shall”, and “Secretary” for “Administrator, the Council”.
 
 Subsec. (p)(7)(H)(iii), (iv). Pub. L. 108–176, §202(14)(L)(i), in cl. (iii) substituted “Committee under” for “Subcommittee under” and “Committee, the” for “Subcommittee, the” and in cl. (iv) substituted “Committee in” for “Subcommittee in”.
 
@@ -1320,7 +1324,7 @@ Section 1. <i>Establishment of the Air Traffic Organization</i>. (a) The Secreta
 
 (b) The ATO shall be composed of those elements of the FAA's Air Traffic Services and Research and Acquisition organizations that have direct connection and give support to the provision of day-to-day operational air traffic services, as determined by the Administrator of the Federal Aviation Administration (Administrator). The Administrator may delegate responsibility for any operational activity of the air traffic control system to the head of the ATO. The Administrator's responsibility for general safety, security, and policymaking functions for the National Airspace System is unaffected by this order.
 
-(c) The Chief Operating Officer (COO) of the Air Traffic Control System, established by the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (Air-21) (Public Law 106–181) \[see Short Title of 2000 Amendments note set out under section 40101 of this title\], shall head the ATO and shall report directlyto the Administrator and be subject to the authority of the Administrator. The COO, in consultation with the Air Traffic Control Subcommittee of the Aviation Management Advisory Committee, shall enter into an annual performance agreement with the Administrator that sets forth measurable organization and individual goals in key operational areas and describes specific targets and how such goals will be achieved. The COO may receive an annual bonus not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the COO's performance in relation to the targets and goals described above.
+(c) The Chief Operating Officer (COO) of the Air Traffic Control System, established by the Wendell H. FordAviation Investment and Reform Act for the 21st Century (Air-21) (Public Law 106–181) \[see Short Title of 2000 Amendments note set out under section 40101 of this title\], shall head the ATO and shall report directly to the Administrator and be subject to the authority of the Administrator. The COO, in consultation with the Air Traffic Control Subcommittee of the Aviation Management Advisory Committee, shall enter into an annual performance agreement with the Administrator that sets forth measurable organization and individual goals in key operational areas and describes specific targets and how such goals will be achieved. The COO may receive an annual bonus not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the COO's performance in relation to the targets and goals described above.
 
 (d) The COO shall develop a 5-year strategic plan for the air traffic control system, including a clear statement of the mission and objectives for the system's safety, efficiency, and productivity. This strategic plan must ensure that ATO actions are consistent with long-term FAA strategies for the aviation system as a whole.
 

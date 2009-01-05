@@ -82,7 +82,7 @@
 
 (2) Not more than 10 active demonstration projects may be in effect at any time.
 
-(e) Subject to the terms of any written agreement or contract between the Office and an agency, a demonstration project involving the agency may be terminated by the Office, or the agency, if either determines that the project creates a substantial hardship on, or is not in the best interests of, the public, the Federal Government, employees, or eligibles.
+(e) Subject to the terms of any written agreement or contract between the Office and anagency, a demonstration project involving the agency may be terminated by the Office, or the agency, if either determines that the project creates a substantial hardship on, or is not in the best interests of, the public, the Federal Government, employees, or eligibles.
 
 (f) Employees within a unit with respect to which a labor organization is accorded exclusive recognition under chapter 71 of this title shall not be included within any project under subsection (a) of this section—
 

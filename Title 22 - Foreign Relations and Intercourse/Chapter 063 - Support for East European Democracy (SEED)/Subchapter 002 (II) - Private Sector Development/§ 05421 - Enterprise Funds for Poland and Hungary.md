@@ -38,7 +38,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 &emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
 
-&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
+&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: <sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the“Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
 &emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
@@ -82,7 +82,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (g) Matters to be considered by Enterprise Funds
 
-In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, andthe likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
+In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
 
 #### (h) Retention of interest
 

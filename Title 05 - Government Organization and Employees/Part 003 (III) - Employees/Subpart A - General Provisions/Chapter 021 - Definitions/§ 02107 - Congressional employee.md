@@ -18,9 +18,9 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(8) an employee of the Botanic Garden; and
 
-&emsp;(9) an employee of the Capitol Guide Service.
+&emsp;(9) an employee of the Office of Congressional Accessibility Services.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, §422(c), Oct. 20, 2008, 122 Stat. 4997.)
 
 #### Historical and Revision Notes
 
@@ -56,9 +56,15 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Amendments
 
+2008—Par. (9). Pub. L. 110–437 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “an employee of the Capitol Guide Service.”
+
 1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1970—Par. (9). Pub. L. 91—510 added par. (9).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under section 2241 of Title 2, The Congress) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of Title 2.
 
 #### Effective Date of 1970 Amendment
 

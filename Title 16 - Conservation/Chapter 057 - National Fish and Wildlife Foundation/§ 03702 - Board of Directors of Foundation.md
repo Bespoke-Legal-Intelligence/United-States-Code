@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapteras the “Board”), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.
+&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapter as the “Board”), which shall consist of 30 Directors appointed in accordance with subsection (b), each of whom shall be a United States citizen.
 
 #### (2) Representation of diverse points of view
 
@@ -68,7 +68,7 @@
 
 #### (B) Term of appointments to fill unexpired terms
 
-&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the termof a Director shall be appointed for the remainder of the term.
 
 #### (5) Reappointment
 
@@ -110,17 +110,19 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficientfunds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 &emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
 
-(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778.)
+(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, §2, July 21, 2008, 122 Stat. 2617.)
 
 #### References in Text
 
 Provisions of title 5 governing appointments in competitive service, referred to in subsec. (g)(2)(A), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Foundation shall have a governing Board of Directors (referred to in this chapter as the ‘Board’), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.”
 
 2000—Subsec. (a). Pub. L. 106–408, §203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
 
@@ -140,7 +142,7 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and WildlifeFoundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 

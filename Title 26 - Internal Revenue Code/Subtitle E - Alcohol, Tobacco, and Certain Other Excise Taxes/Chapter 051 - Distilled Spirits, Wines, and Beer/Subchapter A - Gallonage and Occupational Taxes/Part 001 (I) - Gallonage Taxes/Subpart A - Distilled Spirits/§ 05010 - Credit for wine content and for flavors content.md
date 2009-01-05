@@ -12,7 +12,7 @@
 
 #### (2) Flavors content
 
-&emsp;On each proof gallon of the flavors content of distilled spirits, there shall be allowed acredit against the tax imposed by section 5001 (or 7652) equal to $13.50.
+&emsp;On each proof gallon of the flavors content of distilled spirits, there shall be allowed a credit against the tax imposed by section 5001 (or 7652) equal to $13.50.
 
 #### (3) Fractional part of proof gallon
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “flavors content” means alcohol derived from flavors of a type for which drawback is allowable under section 5134.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “flavors content” means alcohol derived from flavors of a type for which drawback is allowable under section 5114.
 
 #### (B) Exceptions
 
@@ -68,15 +68,13 @@ For purposes of this section—
 
 (Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
 
-#### Amendment of Subsection (c)(2)(A)
-
-<i>Pub. L. 109–59, title XI, §11125(b)(14), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (c)(2)(A) of this section is amended by substituting “section 5114” for “section 5134”.</i>
-
 #### Prior Provisions
 
 A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+2005—Subsec. (c)(2)(A). Pub. L. 109–59 substituted “section 5114” for “section 5134”.
 
 1990—Subsec. (a)(1), (2). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
 

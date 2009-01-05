@@ -19,7 +19,7 @@
 | [2145\.](%C2%A7%2002145%20-%20Consultation%20and%20cooperation%20with%20Federal%2C%20State%2C%20and%20local%20governmental%20bodies%20by%20Secretary%20of%20Agriculture.md) | Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture. |
 | [2146\.](%C2%A7%2002146%20-%20Administration%20and%20enforcement%20by%20Secretary.md) | Administration and enforcement by Secretary. |
 | [2147\.](%C2%A7%2002147%20-%20Inspection%20by%20legally%20constituted%20law%20enforcement%20agencies.md) | Inspection by legally constituted law enforcement agencies. |
-| [2148\.](%C2%A7%2002148%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93579%2C%20%C2%A719%2C%20Dec.%2024%2C%201970%2C%2084%20Stat.%201564.md) | Repealed. |
+| [2148\.](%C2%A7%2002148%20-%20Importation%20of%20live%20dogs.md) | Importation of live dogs. |
 | [2149\.](%C2%A7%2002149%20-%20Violations%20by%20licensees.md) | Violations by licensees. |
 | [2150\.](%C2%A7%2002150%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93279%2C%20%C2%A714%2C%20Apr.%2022%2C%201976%2C%2090%20Stat.%20421.md) | Repealed. |
 | [2151\.](%C2%A7%2002151%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
@@ -56,7 +56,7 @@
 - [&sect; 02145 - Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture](%C2%A7%2002145%20-%20Consultation%20and%20cooperation%20with%20Federal%2C%20State%2C%20and%20local%20governmental%20bodies%20by%20Secretary%20of%20Agriculture.md)
 - [&sect; 02146 - Administration and enforcement by Secretary](%C2%A7%2002146%20-%20Administration%20and%20enforcement%20by%20Secretary.md)
 - [&sect; 02147 - Inspection by legally constituted law enforcement agencies](%C2%A7%2002147%20-%20Inspection%20by%20legally%20constituted%20law%20enforcement%20agencies.md)
-- [&sect; 02148 - Repealed. Pub. L. 91&#8211;579, &sect;19, Dec. 24, 1970, 84 Stat. 1564](%C2%A7%2002148%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93579%2C%20%C2%A719%2C%20Dec.%2024%2C%201970%2C%2084%20Stat.%201564.md)
+- [&sect; 02148 - Importation of live dogs](%C2%A7%2002148%20-%20Importation%20of%20live%20dogs.md)
 - [&sect; 02149 - Violations by licensees](%C2%A7%2002149%20-%20Violations%20by%20licensees.md)
 - [&sect; 02150 - Repealed. Pub. L. 94&#8211;279, &sect;14, Apr. 22, 1976, 90 Stat. 421](%C2%A7%2002150%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93279%2C%20%C2%A714%2C%20Apr.%2022%2C%201976%2C%2090%20Stat.%20421.md)
 - [&sect; 02151 - Rules and regulations](%C2%A7%2002151%20-%20Rules%20and%20regulations.md)

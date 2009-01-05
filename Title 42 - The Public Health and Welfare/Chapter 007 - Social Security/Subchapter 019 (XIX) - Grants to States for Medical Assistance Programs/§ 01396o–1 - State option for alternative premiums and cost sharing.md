@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) with respect to cost sharing—
 
-&emsp;&emsp;&emsp;(i) the cost sharing imposed under subsection (a) with respect to any item orservice may not exceed 10 percent of the cost of such item or service; and
+&emsp;&emsp;&emsp;(i) the cost sharing imposed under subsection (a) with respect to any item or service may not exceed 10 percent of the cost of such item or service; and
 
 &emsp;&emsp;&emsp;(ii) the total aggregate amount of cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percent of the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State).
 
@@ -100,7 +100,7 @@
 
 #### (5) Poverty line defined
 
-&emsp;For purposes of this section, the term “poverty line” has the meaning given such term insection 9902(2) of this title, including any revision required by such section.
+&emsp;For purposes of this section, the term “poverty line” has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 #### (6) Construction
 
@@ -162,7 +162,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1396<i>o</i> of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose costsharing for non-emergency services furnished to an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
+&emsp;Notwithstanding section 1396<i>o</i> of this title and section 1396a(a)(1) of this title or the previous provisions of this section, but subject to the limitations of paragraph (2), a State may, by amendment to its State plan under this subchapter, permit a hospital to impose cost sharing for non-emergency services furnished to an individual (within one or more groups of individuals specified by the State) in the hospital emergency department under this subsection if the following conditions are met:
 
 #### (A) Access to non-emergency room provider
 
@@ -186,7 +186,7 @@
 
 #### (A) Individuals with family income between 100 and 150 percent of the poverty line
 
-&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposed under this subsection may not exceed twice the amount determined to be nominal under section 1396<i>o</i> of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
+&emsp;&emsp;In the case of an individual described in subsection (b)(1) who is not described in subparagraph (B), the cost sharing imposedunder this subsection may not exceed twice the amount determined to be nominal under section 1396<i>o</i> of this title, subject to the percent of income limitation otherwise applicable under subsection (b)(1)(B)(ii).
 
 #### (B) Application to exempt populations
 

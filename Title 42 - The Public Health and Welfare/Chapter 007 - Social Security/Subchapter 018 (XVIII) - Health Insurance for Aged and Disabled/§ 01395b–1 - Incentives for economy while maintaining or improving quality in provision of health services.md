@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) covering the services of homemakers for a maximum of 21 days, if institutional services are not medically appropriate,
 
-&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducing the lengths of stay in hospitals and skilled nursing facilities, and
+&emsp;&emsp;(iii) determining whether such coverage would reduce long-range costs by reducingthe lengths of stay in hospitals and skilled nursing facilities, and
 
 &emsp;&emsp;(iv) establishing alternative eligibility requirements and determining the probable cost of applying each alternative, if the project suggests that such extension of coverage would be desirable;
 
@@ -108,7 +108,7 @@ For effective date, savings, and transitional provisions relating to amendment b
 
 #### Medicare Medical Home Demonstration Project
 
-Pub. L. 109–432, div. B, title II, §204, Dec. 20, 2006, 120 Stat. 2987, provided that:
+Pub. L. 109–432, div. B, title II, §204, Dec. 20, 2006, 120 Stat. 2987, as amended by Pub. L. 110–275, title I, §133(a), July 15, 2008, 122 Stat. 2531, provided that:
 
 “(a)
 
@@ -126,11 +126,19 @@ Details.—
 
 &emsp;“(1)
 
-Duration; scope.—The project shall operate during a period of three years and shall include urban, rural, and underserved areas in a total of no more than 8 States.
+Duration; scope.—Subject to paragraph (3), the project shall operate during a period of three years and shall include urban, rural, and underserved areas in a total of no more than 8 States.
 
 &emsp;“(2)
 
 Encouraging participation of small physician practices.—The project shall be designed to include the participation of physicians in practices with fewer than three full-time equivalent physicians, as well as physicians in larger practices particularly in rural and underserved areas.
+
+&emsp;“(3)
+
+Expansion.—The Secretary may expand the duration and the scope of the project under paragraph (1), to an extent determined appropriate by the Secretary, if the Secretary determines that such expansion will result in any of the following conditions being met:
+
+&emsp;&emsp;“(A) The expansion of the project is expected to improve the quality of patient care without increasing spending under the Medicare program (not taking into account amounts available under subsection (g)).
+
+&emsp;&emsp;“(B) The expansion of the project is expected to reduce spending under the Medicare program (not taking into account amounts available under subsection (g)) without reducing the quality of patient care.
 
 “(c)
 
@@ -206,7 +214,15 @@ Annual interim evaluations and reports.—For each year of the project, the Secr
 
 &emsp;“(2)
 
-Final evaluation and report.—The Secretary shall provide for an evaluation of the project and shall submit to Congress, not later than one year after completion of the project, a report on the project and on the evaluation of the project.”
+Final evaluation and report.—The Secretary shall provide for an evaluation of the project and shall submit to Congress, not later than one year after completion of the project, a report on the project and on the evaluation of the project.
+
+“(g)
+
+Funding From SMI Trust Fund.—There shall be available, from the Federal Supplementary Medical Insurance Trust Fund (under section 1841 of the Social Security Act (42 U.S.C. 1395t)), the amount of $100,000,000 to carry out the project.
+
+“(h)
+
+Application.—Chapter 35 of title 44, United States Code, shall not apply to the conduct of the project.”
 
 #### Post-Acute Care Payment Reform Demonstration Program
 
@@ -276,7 +292,7 @@ Duration.—The Secretary shall conduct the demonstration program under this sec
 
 &emsp;“(4)
 
-Consultation.—In carrying out the demonstration program under this section, the Secretary shall consult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
+Consultation.—In carrying out the demonstration program under this section, the Secretary shallconsult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
 
 “(b)
 
@@ -760,7 +776,7 @@ Pub. L. 101–239, title X, §10404, Dec. 19, 1989, 103 Stat. 2488, provided tha
 
 “(a)
 
-Number of Projects.—In order to determine whether, and if so, the extent to which, the use of volunteer senior aides to provide basic medical assistance and support to families with moderately or severely disabled or chronically ill children contributes to reducing the costs of care for such children, not more than 10 communities may conduct demonstration projects under this section.
+Number of Projects.—In order to determine whether, and if so, the extent to which, the use of volunteer senior aides to provide basic medical assistance and support to families with moderately or severely disabled or chronically ill children contributes to reducing the costs of care for such children, not morethan 10 communities may conduct demonstration projects under this section.
 
 “(b)
 
@@ -850,7 +866,7 @@ Project descriptions.—The demonstration projects referred to in paragraph (1) 
 
 “(3)
 
-Terms and conditions.—Except as provided in paragraph (4), the demonstration projects resumed pursuant to paragraph (1) shall be subject to the same terms and conditions established under section 425 of MCCA. In determining the 2-year duration period of a project resumed pursuant to paragraph (1), the Secretary may not take into account any period of time for which the project was in effect under section 425 of MCCA.
+Terms and conditions.—Except as provided in paragraph (4), the demonstration projects resumed pursuant to paragraph (1) shall be subject to the same terms and conditions established under section 425 of MCCA. In determining the 2-year duration period of a project resumed pursuant to paragraph (1), the Secretary may not take into account any period of timefor which the project was in effect under section 425 of MCCA.
 
 “(4)
 
@@ -898,7 +914,7 @@ Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by P
 
 #### Demonstration Program for Reduction of Disability and Dependency Through Provision of Preventive Health Services Under Medicare
 
-Pub. L. 99–272, title IX, §9314, Apr. 7, 1986, 100 Stat. 194, as amended by Pub. L. 99–509, title IX, §9344(d), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 101–508, title IV, §4164(a)(1), Nov. 5, 1990, 104 Stat. 1388–100, required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
+Pub. L. 99–272, title IX, §9314, Apr. 7, 1986, 100 Stat. 194, as amended by Pub. L. 99–509, title IX, §9344(d), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 101–508, title IV,§4164(a)(1), Nov. 5, 1990, 104 Stat. 1388–100, required Secretary of Health and Human Services to establish a 5-year demonstration program designed to reduce disability and dependency through the provision of preventive health services to individuals entitled to benefits under this subchapter and to submit reports to Congress including a final report on the project not later than April 1, 1995.
 
 #### Payment for Costs of Hospital-Based Mobile Intensive Care Units
 
@@ -918,7 +934,7 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x,1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
+“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
 “(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
@@ -972,7 +988,7 @@ Section 222(a) of Pub. L. 92–603, as amended by Pub. L. 97–35, title XXI, §
 
 “(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
 
-“(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[section 1395i of this title\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+“(4) Grants, payments under contracts, and other expenditures made for experiments and demonstrationprojects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[section 1395i of this title\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[section 1395t of this title\]) and from funds appropriated under title XIX of such Act \[subchapter XIX of this chapter\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 “(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved.”
 

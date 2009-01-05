@@ -4,7 +4,7 @@
 
 In the case of a domestic corporation subject to the tax imposed by section 11 or 801, if the value of any security (as defined in section 165(g)(2))—
 
-&emsp;(1) which became worthless by reason of the expropriation, intervention, seizure, or similar taking by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing ofproperty to which such security was related, and
+&emsp;(1) which became worthless by reason of the expropriation, intervention, seizure, or similar taking by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing of property to which such security was related, and
 
 &emsp;(2) which was taken into account as a loss from the sale or exchange of a capital asset or with respect to which a deduction for a loss was allowed under section 165,
 

@@ -18,7 +18,7 @@ Payments into such fund shall be made as follows:
 
 &emsp;&emsp;(A) computing the ratio (expressed as a percent) of (i) the carrier's or self-insured's workers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year;
 
-&emsp;&emsp;(B) computing the ratio (expressed as a percent) of (i) the payments under section908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds;
+&emsp;&emsp;(B) computing the ratio (expressed as a percent) of (i) the payments under section 908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds;
 
 &emsp;&emsp;(C) dividing the sum of the percentages computed under subparagraphs (A) and (B) for the carrier or self-insured by two; and
 

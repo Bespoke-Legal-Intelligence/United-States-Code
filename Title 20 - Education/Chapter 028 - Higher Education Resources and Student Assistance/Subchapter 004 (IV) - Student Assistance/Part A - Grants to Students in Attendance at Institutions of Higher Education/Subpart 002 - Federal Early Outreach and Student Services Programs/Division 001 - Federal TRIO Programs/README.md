@@ -12,4 +12,4 @@
 - [&sect; 01070a&#8211;15 - Postbaccalaureate achievement program authority](%C2%A7%2001070a%E2%80%9315%20-%20Postbaccalaureate%20achievement%20program%20authority.md)
 - [&sect; 01070a&#8211;16 - Educational opportunity centers](%C2%A7%2001070a%E2%80%9316%20-%20Educational%20opportunity%20centers.md)
 - [&sect; 01070a&#8211;17 - Staff development activities](%C2%A7%2001070a%E2%80%9317%20-%20Staff%20development%20activities.md)
-- [&sect; 01070a&#8211;18 - Evaluations and grants for project improvement and dissemination partnership projects](%C2%A7%2001070a%E2%80%9318%20-%20Evaluations%20and%20grants%20for%20project%20improvement%20and%20dissemination%20partnership%20projects.md)
+- [&sect; 01070a&#8211;18 - Reports, evaluations, and grants for project improvement and dissemination](%C2%A7%2001070a%E2%80%9318%20-%20Reports%2C%20evaluations%2C%20and%20grants%20for%20project%20improvement%20and%20dissemination.md)

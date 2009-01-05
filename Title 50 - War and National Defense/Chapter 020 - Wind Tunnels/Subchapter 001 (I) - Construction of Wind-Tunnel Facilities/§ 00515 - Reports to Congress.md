@@ -6,7 +6,7 @@ The Administrator shall submit semi-annual written reports to the Congress cover
 
 #### Amendments
 
-1958—Pub. L. 85–568 substituted “Administrator” for “Committee” and “Administrator's” for “Committee's”.
+<b>1958</b>—Pub. L. 85–568 substituted “Administrator” for “Committee” and “Administrator's” for “Committee's”.
 
 #### Effective Date of 1958 Amendment
 

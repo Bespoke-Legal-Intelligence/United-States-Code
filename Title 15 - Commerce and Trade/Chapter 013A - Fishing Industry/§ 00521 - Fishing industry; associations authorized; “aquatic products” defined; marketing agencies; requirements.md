@@ -12,7 +12,7 @@ Second. That the association does not pay dividends on stock or membership capit
 
 > and in any case to the following:
 
-Third. That the association shall not deal in the products of nonmembers to an amountgreater in value than such as are handled by it for members.
+Third. That the association shall not deal in the products of nonmembers to an amount greater in value than such as are handled by it for members.
 
 (June 25, 1934, ch. 742, §1, 48 Stat. 1213.)
 

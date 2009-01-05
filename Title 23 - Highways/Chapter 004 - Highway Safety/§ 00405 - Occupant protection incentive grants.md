@@ -234,7 +234,7 @@ Federal share.—The Federal share of the cost of a program carried out using fu
 
 “(5)
 
-Report.—Each State that receives a grant under this subsection shall transmit to the Secretary a report for the period covered by the grant that, at a minimum, describes the program activities carried out with the funds made available under the grant.
+Report.—Each State that receives a grant under this subsection shall transmit to the Secretary a reportfor the period covered by the grant that, at a minimum, describes the program activities carried out with the funds made available under the grant.
 
 “(6)
 

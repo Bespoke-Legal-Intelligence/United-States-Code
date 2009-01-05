@@ -8,7 +8,7 @@ The Administrator for Nuclear Security shall carry out with the Russian Federati
 
 In carrying out the program required by subsection (a) of this section, the Administrator shall—
 
-&emsp;(1) conduct research and development of technology for protection from nuclear or radiological terrorism, including technology forthe detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
+&emsp;(1) conduct research and development of technology for protection from nuclear or radiological terrorism, including technology for the detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
 
 &emsp;(2) provide, where feasible, for the demonstration to other countries of technologies or methodologies on matters relating to nuclear or radiological terrorism, including—
 

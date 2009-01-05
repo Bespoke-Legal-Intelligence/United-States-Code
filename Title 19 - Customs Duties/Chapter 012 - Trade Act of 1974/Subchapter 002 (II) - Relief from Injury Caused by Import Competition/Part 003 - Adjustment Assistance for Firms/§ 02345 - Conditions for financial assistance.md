@@ -48,7 +48,7 @@ The following conditions apply with respect to any loan guaranteed under this pa
 
 #### (f) Operating reserves
 
-The Secretary shall maintain operating reserves with respect to anticipated claims under guarantees made under this part. Such reserves shall be considered to constitute obligations for purposes of sections 1108(c) and (d), 1501, and 1502(a) of title 31.
+The Secretary shall maintain operating reserves with respect to anticipated claims underguarantees made under this part. Such reserves shall be considered to constitute obligations for purposes of sections 1108(c) and (d), 1501, and 1502(a) of title 31.
 
 #### (g) Fees to lenders which make loan guarantees
 
@@ -100,7 +100,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(C) “qualified employer securities” means common stock issued by the recipient corporation or by a parent or subsidiary of such corporation with voting power and dividend rights no less favorable than the voting power and dividend rights on other common stock issued by the issuing corporation and with voting power being exercised by the participants in the employee stock ownership plan after it is allocated to their plan accounts, and
 
-&emsp;(D) “equity capital” means, with respect to the recipient corporation, the sum of its money and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during the period described in paragraph (3)(D)), less the amount of its indebtedness.
+&emsp;(D) “equity capital” means, with respect to the recipient corporation, the sum of its money and other property (in an amount equal to the adjusted basis of such property but disregarding adjustments made on account of depreciation or amortization made during theperiod described in paragraph (3)(D)), less the amount of its indebtedness.
 
 (Pub. L. 93–618, title II, §255, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, §2523, Aug. 13, 1981, 95 Stat. 891; Pub. L. 98–120, §4(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

@@ -36,9 +36,227 @@ Pub. L. 102–40, §402(d)(1), substituted “5105” for “3005”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
+#### Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims
+
+Pub. L. 110–389, title II, §221, Oct. 10, 2008, 122 Stat. 4154, provided that:
+
+“(a)
+
+Pilot Program on Expedited Treatment of Fully Developed Claims.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing expeditious treatment of fully developed compensation or pension claims to ensure that such claims are adjudicated not later than 90 days after the date on which such claim is submitted as fully developed.
+
+&emsp;“(2)
+
+Duration of pilot program.—The pilot program under this subsection shall be carried out during the one-year period beginning on the date that is 60 days after the date of the enactment of this Act \[Oct. 10, 2008\].
+
+&emsp;“(3)
+
+Program locations.—The pilot program under this subsection shall be carried out at 10 regional offices of the Department of Veterans Affairs selected by the Secretary for purposes of such pilot program.
+
+&emsp;“(4)
+
+Fully developed claim defined.—For purposes of this subsection, the term ‘fully developed claim’ means a claim for a benefit under a law administered by the Secretary—
+
+&emsp;&emsp;“(A) for which the claimant—
+
+&emsp;&emsp;&emsp;“(i) received assistance from a veterans service officer, a State or country \[probably should be “county”\] veterans service officer, an agent, or an attorney; or
+
+&emsp;&emsp;&emsp;“(ii) submits along with the claim an appropriate indication that the claimant does not intend to submit any additional information or evidence in support of the claim and does not require additional assistance with respect to the claim; and
+
+&emsp;&emsp;“(B) for which the claimant—
+
+&emsp;&emsp;&emsp;“(i) submits a certification in writing that is signed and dated by the claimant stating that, as of such date, no additional information or evidence is available or needs to be submitted in order for the claim to be adjudicated; and
+
+&emsp;&emsp;&emsp;“(ii) for which the claimant's representative, if any, submits a certification in writing that is signed and dated by the representative stating that, as of such date, no additional information or evidence is available or needs to be submitted in order for the claim to be adjudicated.
+
+“(b)
+
+Pilot Program on Provision of Checklists to Individuals Submitting Claims.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall carry out a pilot program to assess the feasibility and advisability of providing to a claimant for whom the Secretary is required under section 5103(a) of title 38, United States Code, to provide notice of required information and evidence to such claimant and such claimant's representative, if any, a checklist that includes information or evidence required to be submitted by the claimant to substantiate the claim.
+
+&emsp;“(2)
+
+Duration of pilot program.—The pilot program under this subsection shall be carried out—
+
+&emsp;&emsp;“(A) for original claims filed after the date of the enactment of this Act \[Oct. 10, 2008\], during the one-year period beginning on the date that is 60 days after the date of the enactment of this Act; and
+
+&emsp;&emsp;“(B) for claims to reopen and for claims for increased ratings that were filed after the date of the enactment of this Act, during the three-year period beginning on the date that is 60 days after the date of the enactment of this Act.
+
+&emsp;“(3)
+
+Program locations.—The pilot program under this subsection shall be carried out at four regional offices of the Department selected by the Secretary for purposes of such pilot program.
+
+&emsp;“(4)
+
+Construction.—A checklist provided under the pilot program under this subsection—
+
+&emsp;&emsp;“(A) shall be construed to be an addendum to a notice provided under section 5103(a) of title 38, United Sates Code; and
+
+&emsp;&emsp;“(B) shall not be considered as part of such notice for purposes of reversal or remand of a decision of the Secretary.
+
+“(c)
+
+Reports.—
+
+&emsp;“(1)
+
+First initial report.—Not later than 335 days after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary shall submit to Congress a report on the pilot program under subsection (a) and the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(A).
+
+&emsp;“(2)
+
+Second interim report.—Not later than 1,065 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the pilot program under subsection (b) with respect to claims described in subsection (b)(2)(B).
+
+&emsp;“(3)
+
+Elements of interim reports.—The reports required by paragraphs (1) and (2) shall include the following:
+
+&emsp;&emsp;“(A) Data concerning the number and type of claims covered by the respective pilot program.
+
+&emsp;&emsp;“(B) The findings of the Secretary with respect to the respective pilot program.
+
+&emsp;&emsp;“(C) The recommendations of the Secretary on the feasibility and advisability of continuing or expanding the respective pilot program and any necessary modifications to such pilot program for continuation or expansion.
+
+&emsp;&emsp;“(D) Such other information as the Secretary considers appropriate.
+
+&emsp;“(4)
+
+Final report.—Not later than 180 days after the completion of each pilot program carried out under this section, the Secretary shall submit to Congress a final report on the feasibility and advisability of continuing or expanding the respective pilot program.”
+
+#### Study of Performance Measures for Claims Adjudications of the Veterans Benefits Administration
+
+Pub. L. 110–389, title II, §226, Oct. 10, 2008, 122 Stat. 4159, provided that:
+
+“(a)
+
+Study of Work Credit System and Work Management System Required.—The Secretary of Veterans Affairs shall conduct a study on the effectiveness of the current employee work credit system and work management system of the Veterans Benefits Administration of the Department of Veterans Affairs, which is used—
+
+&emsp;“(1) to measure and manage the work production of employees of the Veterans Benefits Administration who handle claims for compensation and pension benefits; and
+
+&emsp;“(2) to evaluate more effective means of improving performance.
+
+“(b)
+
+Contents of Study.—In carrying out the study under subsection (a), the Secretary shall consider—
+
+&emsp;“(1) measures to improve the accountability, quality, and accuracy for processing claims for compensation and pension benefits under laws administered by the Secretary that are adjudicated by the Veterans Benefits Administration;
+
+&emsp;“(2) accountability for claims adjudication outcomes;
+
+&emsp;“(3) the quality of claims adjudicated;
+
+&emsp;“(4) a simplified process to adjudicate claims;
+
+&emsp;“(5) the maximum use of information technology applications;
+
+&emsp;“(6) rules-based applications and tools for processing and adjudicating claims efficiently and effectively;
+
+&emsp;“(7) methods of reducing the time required to obtain information from outside sources; and
+
+&emsp;“(8) the elements needed to implement—
+
+&emsp;&emsp;“(A) performance standards and accountability measures, intended to ensure that—
+
+&emsp;&emsp;&emsp;“(i) claims for benefits under the laws administered by the Secretary are processed in an objective, accurate, consistent, and efficient manner; and
+
+&emsp;&emsp;&emsp;“(ii) final decisions with respect to such claims are consistent and issued within the target identified in the most recent annual Performance and Accountability report submitted by the Secretary to Congress for the most recent fiscal year;
+
+&emsp;&emsp;“(B) guidelines and procedures for the identification and prompt processing of such claims that are ready to rate upon submittal;
+
+&emsp;&emsp;“(C) guidelines and procedures for the identification and prompt processing of such claims submitted by severely injured and very severely injured veterans, as determined by the Secretary; and
+
+&emsp;&emsp;“(D) requirements for assessments of claims processing at each regional office for the purpose of producing lessons learned and best practices.
+
+“(c)
+
+Report to Congress.—Not later than October 31, 2009, the Secretary shall submit to Congress a report on—
+
+&emsp;“(1) the study conducted under subsection (a); and
+
+&emsp;“(2) the components required to implement the updated system for evaluating employees of the Veterans Benefits Administration required under subsection (d).
+
+“(d)
+
+Evaluation of Certain Veterans Benefits Administration Employees Responsible for Processing Claims for Compensation and Pension Benefits.—Not later than 210 days after the date on which the Secretary submits to Congress the report required under subsection (c), the Secretary shall establish an updated system for evaluating the performance and accountability of employees of the Veterans Benefits Administration who are responsible for processing claims for compensation or pension benefits. Such system shall be based on the findings of the study conducted by the Secretary under subsection (a).”
+
+#### Review and Enhancement of Use of Information Technology in Veterans Benefits Administration
+
+Pub. L. 110–389, title II, §227, Oct. 10, 2008, 122 Stat. 4160, provided that:
+
+“(a)
+
+Review and Comprehensive Plan.—Not later than one year after the date of the enactment of this Act \[Oct. 10, 2008\], the Secretary of Veterans Affairs shall—
+
+&emsp;“(1) conduct a review of the use of information technology in the Veterans Benefits Administration with respect to the processing of claims for compensation and pension benefits; and
+
+&emsp;“(2) develop a comprehensive plan for the use of such technology in processing such claims so as to reduce subjectivity, avoidable remands, and regional office variances in disability ratings for specific disabilities.
+
+“(b)
+
+Information Technology.—The plan developed under subsection (a)(2) shall include the following:
+
+&emsp;“(1) The use of rules-based processing or information technology systems utilizing automated decision support software at all levels of processing such claims.
+
+&emsp;“(2) The enhancement of the use of information technology for all aspects of the claims process.
+
+&emsp;“(3) Development of a technological platform that—
+
+&emsp;&emsp;“(A) allows for the use of information that members of the Armed Forces, veterans, and dependents have submitted electronically, including uploaded military records, medical evidence, and other appropriate documentation; and
+
+&emsp;&emsp;“(B) to the extent practicable—
+
+&emsp;&emsp;&emsp;“(i) provides the capability to such members, veterans, and dependents to view applications for benefits submitted online; and
+
+&emsp;&emsp;&emsp;“(ii) complies with the provisions of subchapter III of chapter 35 of title 44, United States Code, section 552a of title 5, United States Code, and other relevant security policies and guidelines.
+
+&emsp;“(4) The use of electronic examination templates in conjunction with the schedule for rating disabilities under section 1155 of title 38, United States Code.
+
+&emsp;“(5) Such changes as may be required to the electronic health record system of the Department of Veterans Affairs and the Department of Defense to ensure that Veterans Benefits Administration claims examiners can access the available electronic medical information of the Department of Veterans Affairs and the Department of Defense.
+
+&emsp;“(6) The provision of bi-directional access to medical records and service records between the Department of Veterans Affairs and the Department of Defense.
+
+&emsp;“(7) The availability, on a secure Internet website of the Department of Veterans Affairs, of a portal that can be used by a claimant to check on the status of any claim submitted by that claimant and that provides information, if applicable, on—
+
+&emsp;&emsp;“(A) whether a decision has been reached with respect to such a claim and notice of the decision; or
+
+&emsp;&emsp;“(B) if no such decision has been reached, notice of—
+
+&emsp;&emsp;&emsp;“(i) whether the application submitted by the claimant is complete;
+
+&emsp;&emsp;&emsp;“(ii) whether the Secretary requires additional information or evidence to substantiate the claim;
+
+&emsp;&emsp;&emsp;“(iii) the estimated date on which a decision with respect to the claim is expected to be made; and
+
+&emsp;&emsp;&emsp;“(iv) the stage at which the claim is being processed as of the date on which such status is checked.
+
+“(c)
+
+Review of Best Practices and Lessons Learned.—In carrying out this section, the Secretary shall review—
+
+&emsp;“(1) best practices and lessons learned within the Department of Veterans Affairs; and
+
+&emsp;“(2) the use of the technology known as ‘VistA’ by other Government entities and private sector organizations who employ information technology and automated decision support software.
+
+“(d)
+
+Reduction of Claims Processing Time.—In carrying out this section, the Secretary shall ensure that a plan is developed that, not later than three years after implementation, includes information technology to the extent possible to reduce the processing time for each compensation and pension claim processed by the Veterans Benefits Administration. The performance for claims processing under this plan shall be adjusted for changes to the numbers of claims filed in a given period, the complexity of those claims, and any changes to the basic claims processing rules which occur during the assessment period.
+
+“(e)
+
+Consultation.—In carrying out this section, the Secretary of Veterans Affairs shall consult with information technology designers at the Veterans Benefits Administration, the Veterans Health Administration, VistA managers, the Secretary of Defense, appropriate officials of other Government agencies, appropriate individuals in the private and public sectors, veterans service organizations, and other relevant service organizations.
+
+“(f)
+
+Report to Congress.—Not later than April 1, 2010, the Secretary shall submit to Congress a report on the review and comprehensive plan required under this section.”
+
 #### Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians
 
-Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, provided that:
+Pub. L. 108–183, title VII, §704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, §105, Oct. 10, 2008, 122 Stat. 4149, provided that:
 
 “(a)
 
@@ -46,11 +264,11 @@ Authority.—Using appropriated funds, other than funds available for compensati
 
 “(b)
 
-Performance by Contract.—Examinations under the authority provided in subsection (a) shall beconducted pursuant to contracts entered into and administered by the Under Secretary for Benefits.
+Performance by Contract.—Examinations under the authority provided in subsection (a) shall be conducted pursuant to contracts entered into and administered by the Under Secretary for Benefits.
 
 “(c)
 
-Expiration.—The authority in subsection (a) shall expire on December 31, 2009. No examination may be carried out under the authority provided in that subsection after that date.
+Expiration.—The authority in subsection (a) shall expire on December 31, 2010. No examination may be carried out under the authority provided in that subsection after that date.
 
 “(d)
 

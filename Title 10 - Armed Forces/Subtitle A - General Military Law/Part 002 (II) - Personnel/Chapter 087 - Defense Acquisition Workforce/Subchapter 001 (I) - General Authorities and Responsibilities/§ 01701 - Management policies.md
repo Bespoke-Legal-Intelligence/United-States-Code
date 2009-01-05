@@ -22,6 +22,94 @@ Section 1201 of title XII of Pub. L. 101–510 provided that: “This title \[en
 
 Section 1210(a) of title XII of Pub. L. 101–510 provided that: “Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
+#### Coordination of Human Systems Integration Activities Related to Acquisition Programs
+
+Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense.
+
+“(b)
+
+Administration.—In carrying out subsection (a), the Secretary shall designate a senior official to be responsible for the effort.
+
+“(c)
+
+Responsibilities.—In carrying out this section, the senior official designated in subsection (b) shall—
+
+&emsp;“(1) coordinate the planning, management, and execution of such activities; and
+
+&emsp;“(2) identify and recommend, as appropriate, resource requirements for human systems integration activities.
+
+“(d)
+
+Designation.—The designation required by subsection (b) shall be made not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
+
+#### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
+
+Pub. L. 110–181, div. A, title VIII, §847, Jan. 28, 2008, 122 Stat. 243, provided that:
+
+“(a)
+
+Requirement to Seek and Obtain Written Opinion.—
+
+&emsp;“(1)
+
+Request.—An official or former official of the Department of Defense described in subsection (c) who, within two years after leaving service in the Department of Defense, expects to receive compensation from a Department of Defense contractor, shall, prior to accepting such compensation, request a written opinion regarding the applicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
+
+&emsp;“(2)
+
+Submission of request.—A request for a written opinion under paragraph (1) shall be submitted in writing to an ethics official of the Department of Defense having responsibility for the organization in which the official or former official serves or served and shall set forth all information relevant to the request, including information relating to government positions held and major duties in those positions, actions taken concerning future employment, positions sought, and future job descriptions, if applicable.
+
+&emsp;“(3)
+
+Written opinion.—Not later than 30 days after receiving a request by an official or former official of the Department of Defense described in subsection (c), the appropriate ethics counselor shall provide such official or former official a written opinion regarding the applicability or inapplicability of post-employment restrictions to activities that the official or former official may undertake on behalf of a contractor.
+
+&emsp;“(4)
+
+Contractor requirement.—A Department of Defense contractor may not knowingly provide compensation to a former Department of Defense official described in subsection (c) within two years after such former official leaves service in the Department of Defense, without first determining that the former official has sought and received (or has not received after 30 days of seeking) a written opinion from the appropriate ethics counselor regarding the applicability of post-employment restrictions to the activities that the former official is expected to undertake on behalf of the contractor.
+
+&emsp;“(5)
+
+Administrative actions.—In the event that an official or former official of the Department of Defense described in subsection (c), or a Department of Defense contractor, knowingly fails to comply with the requirements of this subsection, the Secretary of Defense may take any of the administrative actions set forth in section 27(e) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(e)) that the Secretary of Defense determines to be appropriate.
+
+“(b)
+
+Recordkeeping Requirement.—
+
+&emsp;“(1)
+
+Database.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository for not less than five years beginning on the date on which the written opinion was provided.
+
+&emsp;“(2)
+
+Inspector general review.—The Inspector General of the Department of Defense shall conduct periodic reviews to ensure that written opinions are being provided and retained in accordance with the requirements of this section. The first such review shall be conducted no later than two years after the date of the enactment of this Act \[Jan. 28, 2008\].
+
+“(c)
+
+Covered Department of Defense Officials.—An official or former official of the Department of Defense is covered by the requirements of this section if such official or former official—
+
+&emsp;“(1) participated personally and substantially in an acquisition as defined in section 4(16) of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(16)\] with a value in excess of $10,000,000 and serves or served—
+
+&emsp;&emsp;“(A) in an Executive Schedule position under subchapter II of chapter 53 of title 5, United States Code;
+
+&emsp;&emsp;“(B) in a position in the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code; or
+
+&emsp;&emsp;“(C) in a general or flag officer position compensated at a rate of pay for grade O–7 or above under section 201 of title 37, United States Code; or
+
+&emsp;“(2) serves or served as a program manager, deputy program manager, procuring contracting officer, administrative contracting officer, source selection authority, member of the source selection evaluation board, or chief of a financial or technical evaluation team for a contract in an amount in excess of $10,000,000.
+
+“(d)
+
+Definition.—In this section, the term ‘post-employment restrictions’ includes—
+
+&emsp;“(1) section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423);
+
+&emsp;“(2) section 207 of title 18, United States Code; and
+
+&emsp;“(3) any other statute or regulation restricting the employment or activities of individuals who leave government service in the Department of Defense.”
+
 #### Government Performance of Critical Acquisition Functions
 
 Pub. L. 109–364, div. A, title VIII, §820, Oct. 17, 2006, 120 Stat. 2330, provided that:

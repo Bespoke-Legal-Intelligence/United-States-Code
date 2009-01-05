@@ -2,13 +2,13 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $66,000,000 for each of the fiscal years 2008 and 2009. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
 #### (1) Grants authorized
 
-&emsp;From amounts appropriated under subsection (a), the Secretary shall award grants, from allotments under subsection (c), to States (and to philanthropic organization,<sup>1</sup> as appropriate under paragraph (3)) having applications approved under subsection (d), to enable the State (or philanthropic organization) to pay the Federal share of the costs of carrying out the activities and services described in subsection (f).
+&emsp;From amounts appropriated under subsection (a), the Secretary shall, subject to the availability of appropriations, award grants, from allotments under subsection (c), to States (and to philanthropic organization,<sup>1</sup> as appropriate under paragraph (3)) having applications approved under subsection (d), to enable the State (or philanthropic organization) to pay the Federal share of the costs of carrying out the activities and services described in subsection (f).
 
 #### (2) Federal share; non-Federal share
 
@@ -22,7 +22,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (3) Reduction for failure to pay non-Federal share
 
-&emsp;If a State fails to provide the full non-Federal share required under this subsection, theSecretary shall reduce the amount of the grant payment under this section proportionately, and may award the proportionate reduction amount of the grant directly to a philanthropic organization, as defined in subsection (i), to carry out this section.
+&emsp;If a State fails to provide the full non-Federal share required under this subsection, the Secretary shall reduce the amount of the grant payment under this section proportionately, and may award the proportionate reduction amount of the grant directly to a philanthropic organization, as defined in subsection (i), to carry out this section.
 
 #### (4) Temporary ineligibility for subsequent payments
 
@@ -80,7 +80,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (e) Subgrants to nonprofit organizations
 
-A State receiving a payment under this section may elect to make a subgrant to one or more nonprofit organizations in the State, including an eligible not-for-profit holder (as defined in section 1085(p) of this title), or a partnership of such organizations, to carry out activities or services described in subsection (f), if the nonprofit organization or partnership—
+A State receiving a payment under this section may elect to make a subgrant to one or more nonprofit organizations in the State, including an eligible not-for-profit holder (as defined in section 1085(p) of this title, as amended by section 303 <sup>2</sup> of this Act), or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title, or a partnership of such organizations, to carry out activities or services described in subsection (f), if the nonprofit organization or partnership—
 
 &emsp;(1) was in existence on the day before the date of the enactment of this Act; and
 
@@ -106,7 +106,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;(C) Outreach activities for students who may be at risk of not enrolling in or completing postsecondary education.
 
-&emsp;&emsp;(D) Assistance in completion of the Free Application for Federal Student Aid or other common financial reporting form under section 1090(a) of this title.
+&emsp;&emsp;(D) Assistance in completion of the Free Application for Federal Student Aid or othercommon financial reporting form under section 1090(a) of this title.
 
 &emsp;&emsp;(E) Need-based grant aid for students.
 
@@ -174,7 +174,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 &emsp;&emsp;&emsp;(i) include information to students and the students’ parents of the availability of Federal, State, local, institutional, and other grants and loans for postsecondary education; and
 
-&emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under such title.
+&emsp;&emsp;&emsp;(ii) present information on financial assistance for postsecondary education that is not provided under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in a manner that is clearly distinct from information on student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (4) Coordination
 
@@ -182,7 +182,7 @@ A State receiving a payment under this section may elect to make a subgrant to o
 
 #### (h) Report
 
-A grantee receiving a payment under this section shall prepare and submit an annual reportto the Secretary on the activities and services carried out under this section, and on the implementation of such activities and services. The report shall include—
+A grantee receiving a payment under this section shall prepare and submit an annual report to the Secretary on the activities and services carried out under this section, and on the implementation of such activities and services. The report shall include—
 
 &emsp;(1) each activity or service that was provided to students and families over the course of the year;
 
@@ -244,9 +244,11 @@ In this section:
 
 &emsp;&emsp;(B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
 
-(Pub. L. 89–329, title VII, §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812.)
+(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377.)
 
 #### References in Text
+
+Section 303 of this Act, referred to in subsec. (e), probably should be a reference to section 304 of Pub. L. 110–84, which added subsec. (p) of section 1085 of this title.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), probably means the date of enactment of Pub. L. 110–84, which enacted this section and was approved Sept. 27, 2007.
 
@@ -254,15 +256,11 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (i)(1
 
 #### Prior Provisions
 
-A prior section 771 of Pub. L. 89–329 was classified to section 1132h of this title, prior to repeal by Pub. L. 102–325.
+A prior section 1141, Pub. L. 89–329, title XII, §1201, formerly title VIII, §801, Nov. 8, 1965, 79 Stat. 1269; renumbered title XII, §1201, and amended Pub. L. 90–575, title II, §§251, 293, 294, Oct. 16, 1968, 82 Stat. 1042, 1050, 1051; Pub. L. 91–230, title VIII, §806(b), Apr. 13, 1970, 84 Stat. 192; Pub. L. 92–318, title I, §131(d)(1), June 23, 1972, 86 Stat. 260; Pub. L. 94–482, title I, §181(a), formerly §181, Oct. 12, 1976, 90 Stat. 2167, renumbered Pub. L. 95–43, §1(b)(7), June 15, 1977, 91 Stat. 218; Pub. L. 95–180, §1(a), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 96–374, title XIII, §1391(a)(1), (b), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 100–50, §21(a), June 3, 1987, 101 Stat. 360; Pub. L. 102–26, §2(a)(4), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title XII, §1201, July 23, 1992, 106 Stat. 792; Pub. L. 102–394, title III, §308(a), Oct. 6, 1992, 106 Stat. 1820; Pub. L. 103–82, title I, §111(b)(5), Sept. 21, 1993, 107 Stat. 861; Pub. L. 103–208, §2(j)(48), Dec. 20, 1993, 107 Stat. 2485, defined terms for purposes of this chapter, prior to repeal by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
-Another prior section 771 of Pub. L. 89–329 was classified to section 1132d–11 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 781 of Pub. L. 89–329 was classified to section 1132i of this title, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Prior sections 1141 and 1142 were repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
-
-Section 1141, Pub. L. 89–329, title XII, §1201, formerly title VIII, §801, Nov. 8, 1965, 79 Stat. 1269; renumbered title XII, §1201, and amended Pub. L. 90–575, title II, §§251, 293, 294, Oct. 16, 1968, 82 Stat. 1042, 1050, 1051; Pub. L. 91–230, title VIII, §806(b), Apr. 13, 1970, 84 Stat. 192; Pub. L. 92–318, title I, §131(d)(1), June 23, 1972, 86 Stat. 260; Pub. L. 94–482, title I, §181(a), formerly §181, Oct. 12, 1976, 90 Stat. 2167, renumbered Pub. L. 95–43, §1(b)(7), June 15, 1977, 91 Stat. 218; Pub. L. 95–180, §1(a), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 96–374, title XIII, §1391(a)(1), (b), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 100–50, §21(a), June 3, 1987, 101 Stat. 360; Pub. L. 102–26, §2(a)(4), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title XII, §1201, July 23, 1992, 106 Stat. 792; Pub. L. 102–394, title III, §308(a), Oct. 6, 1992, 106 Stat. 1820; Pub. L. 103–82, title I, §111(b)(5), Sept. 21, 1993, 107 Stat. 861; Pub. L. 103–208, §2(j)(48), Dec. 20, 1993, 107 Stat. 2485, defined terms for purposes of this chapter. See sections 1001 and 1003 of this title.
-
-Section 1142, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered §1202, Pub. L. 96–374, title XII,§1201, Oct. 3, 1980, 94 Stat. 1493; amended Pub. L. 102–325, title XII, §1202, July 23, 1992, 106 Stat. 793, related to antidiscrimination requirements for institutions of higher education receiving Federal assistance. See section 1011 of this title.
+Section 1142, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493; amended Pub. L. 102–325, title XII, §1202, July 23, 1992, 106 Stat. 793, related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, prior to repeal by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
 Another prior section 1142, Pub. L. 89–329, title XII, §1202, formerly title VIII, §802, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1202, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042, related to method of payment pursuant to grants, loans, or contracts under this chapter, prior to repeal by section 1201 of Pub. L. 96–374.
 
@@ -280,11 +278,11 @@ Another prior section 1143, Pub. L. 89–329, title XII, §1203, formerly title 
 
 Section 1144, Pub. L. 89–329, title XII, §1204, formerly title VIII, §804, Nov. 8, 1965, 79 Stat. 1270; renumbered title XII, §1204, Pub. L. 90–575, title II, §251, Oct. 16, 1968, 82 Stat. 1042; amended Pub. L. 91–230, title IV, §401(f)(6), Apr. 13, 1970, 84 Stat. 173, prohibited Federal control over education.
 
-Section 1144a, Pub. L. 89–329, title XII, §1204, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1201, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–73, title VIII, §801(c), July 25, 1991, 105 Stat. 360; Pub. L. 103–208, §2(j)(49), Dec. 20, 1993, 107 Stat. 2485, related to treatment of territories and territorial student assistance. See section 1011b of this title.
+Section 1144a, Pub. L. 89–329, title XII, §1204, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1201, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–73, title VIII, §801(c), July 25, 1991, 105 Stat. 360; Pub. L. 103–208, §2(j)(49), Dec. 20, 1993, 107 Stat. 2485, related to treatment of territories and territorial student assistance.
 
 Another prior section 1144a, Pub. L. 92–318, title V, §510, June 23, 1972, 86 Stat. 353, set forth sense of Congress that governing boards of institutions of higher education give consideration to student participation on such boards, prior to being omitted from the Code.
 
-Section 1145, Pub. L. 89–329, title XII, §1205, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1202, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–325, title XII, §1203, July 23, 1992, 106 Stat. 793; Pub. L. 103–208, §2(j)(50)–(53), Dec. 20, 1993, 107 Stat. 2485, related to National Advisory Committee on Institutional Quality and Integrity. See section 1011c of this title.
+Section 1145, Pub. L. 89–329, title XII, §1205, as added Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1495; amended Pub. L. 99–498, title XII, §1202, Oct. 17, 1986, 100 Stat. 1573; Pub. L. 102–325, title XII, §1203, July 23, 1992, 106 Stat. 793; Pub. L. 103–208, §2(j)(50)–(53), Dec. 20, 1993, 107 Stat. 2485, related to National Advisory Committee on Institutional Quality and Integrity.
 
 Another prior section 1145, Pub. L. 89–329, title XII, §1205, as added Pub. L. 90–575, title II, §291(a), Oct. 16, 1968, 82 Stat. 1049; amended Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, established an Advisory Council on Graduate Education in the Office of Education, prior to repeal by section 1201 of Pub. L. 96–374.
 
@@ -292,25 +290,25 @@ Section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 99–498, t
 
 Another prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. L. 92–318, title I, §197, June 23, 1972, 86 Stat. 325, related to supplying cost-of-education data by institutions of higher education, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
 
-Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter. See section 1011d of this title.
+Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter.
 
 Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
 
-Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students. See section 1011e of this title.
+Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 
 Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976, 90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
 
-Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts. See section 1011f of this title.
+Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 
 Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
 
-Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process. See section 1011g of this title.
+Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process.
 
 Section 1145e, Pub. L. 89–329, title XII, §1211, formerly §1210, as added Pub. L. 99–498, title XII, §1207, Oct. 17, 1986, 100 Stat. 1579; renumbered §1211, Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to aggregate limit of authorization of appropriations.
 
 Section 1145f, Pub. L. 89–329, title XII, §1212, formerly §1211, as added Pub. L. 100–418, title VI, §6231, Aug. 23, 1988, 102 Stat. 1518; renumbered §1212 and amended Pub. L. 103–208, §2(j)(55), (56), Dec. 20, 1993, 107 Stat. 2485, related to technology transfer centers.
 
-Section 1145g, Pub. L. 89–329, title XII, §1213, as added Pub. L. 101–226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938, related to drug and alcohol abuse prevention. See section 1011i of this title.
+Section 1145g, Pub. L. 89–329, title XII, §1213, as added Pub. L. 101–226, §22(a)(1), Dec. 12, 1989, 103 Stat. 1938, related to drug and alcohol abuse prevention.
 
 A prior section 1145h, Pub. L. 102–325, title XV, §1541, July 23, 1992, 106 Stat. 834; Pub. L. 103–208, §2(k)(13), Dec. 20, 1993, 107 Stat. 2486, authorized grants for campus sexual offense education, prior to repeal by Pub. L. 105–332, §6(b)(3), Oct. 31, 1998, 112 Stat. 3128.
 
@@ -321,6 +319,14 @@ Another prior section 1146, Pub. L. 89–329, title XII, §1206, as added Pub. L
 A prior section 1146a, Pub. L. 99–498, §3, Oct. 17, 1986, 100 Stat. 1278, which provided that contracting authority be subject to appropriations, was transferred, and is set out as a Contracting Authority Subject to Appropriations note under section 1154 of this title.
 
 Prior sections 1147 to 1150, Pub. L. 89–329, title XII, §§1207–1210, as added Pub. L. 90–575, title II, §295, Oct. 16, 1968, 82 Stat. 1051, 1052, provided for program planning and evaluation for higher education programs; advance funding; evaluation reports and Congressional review; and availability of appropriations on academic or school year basis, prior to repeal by Pub. L. 91–230, title IV, §401(b), Apr. 13, 1970, 84 Stat. 172.
+
+#### Amendments
+
+2008—Subsec. (a). Pub. L. 110–315, §710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+
+Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
+
+Subsec. (e). Pub. L. 110–315, §710(3), inserted “, or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title” before “, or a partnership”.
 
 #### Effective Date
 

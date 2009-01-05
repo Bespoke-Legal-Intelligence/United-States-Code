@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-Upon the establishment of the Program, there shall also be established a Civilian CommunityCorps Advisory Board to advise the Director concerning the administration of this division and to assist in the development and administration of the Corps.
+Upon the establishment of the Program, there shall also be established a Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist in the development and administration of the Corps.
 
 #### (b) Membership
 

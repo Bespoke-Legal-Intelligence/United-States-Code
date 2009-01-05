@@ -29,6 +29,7 @@
 | [469\.](%C2%A7%2000469%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [470\.](%C2%A7%2000470%20-%20Omitted.md) | Omitted. |
 | [471\.](%C2%A7%2000471%20-%20Safe%20Meat%20and%20Poultry%20Inspection%20Panel.md) | Safe Meat and Poultry Inspection Panel. |
+| [472\.](%C2%A7%2000472%20-%20Interstate%20shipment%20of%20poultry%20inspected%20by%20Federal%20and%20State%20agencies%20for%20certain%20small%20establishments.md) | Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,3 +65,4 @@
 - [&sect; 00469 - Authorization of appropriations](%C2%A7%2000469%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00470 - Omitted](%C2%A7%2000470%20-%20Omitted.md)
 - [&sect; 00471 - Safe Meat and Poultry Inspection Panel](%C2%A7%2000471%20-%20Safe%20Meat%20and%20Poultry%20Inspection%20Panel.md)
+- [&sect; 00472 - Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments](%C2%A7%2000472%20-%20Interstate%20shipment%20of%20poultry%20inspected%20by%20Federal%20and%20State%20agencies%20for%20certain%20small%20establishments.md)

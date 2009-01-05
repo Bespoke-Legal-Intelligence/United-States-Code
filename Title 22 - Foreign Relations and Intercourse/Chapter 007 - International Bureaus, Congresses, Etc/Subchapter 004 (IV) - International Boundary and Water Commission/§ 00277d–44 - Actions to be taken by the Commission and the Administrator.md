@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Coloradoand Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
+&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
 
 &emsp;&emsp;(A) of effluent from the IWTP if such treatment is not provided for at a facility in the United States; and
 
@@ -94,7 +94,7 @@ Subparagraph (N) of subsec. (c)(2) of this section, referred to in subsec. (c)(2
 
 2004—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted “Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944,” for “Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,”.
 
-Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
+Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract.”
 
 Subsec. (c)(2)(I). Pub. L. 108–425, §1(b)(2), substituted “, including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.” for “, with such annual payment to maintain the owner's 20 percent equity position throughout the term of the contract.”
 

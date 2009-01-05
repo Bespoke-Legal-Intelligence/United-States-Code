@@ -10,7 +10,7 @@
 
 (e) For the purposes of this section “lottery” means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers. “Lottery” does not include the placing or accepting of bets or wagers on sporting events or contests.
 
-(Added Pub. L. 87–218, §1, Sept. 13, 1961, 75 Stat. 492; amended Pub. L. 93–583, §3, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 96–90, §2, Oct. 23, 1979, 93 Stat. 698; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–218, §1, Sept. 13, 1961, 75 Stat. 492; amended Pub. L. 93–583, §3, Jan. 2, 1975, 88Stat. 1916; Pub. L. 96–90, §2, Oct. 23, 1979, 93 Stat. 698; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provides for child support with respect to a child of a participant under a group health plan or provides for health benefit coverage to such a child, is made pursuant to a State domestic relations law (including a community property law), and relates to benefits under such plan, or
 
-&emsp;&emsp;&emsp;(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
+&emsp;&emsp;&emsp;(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of theOmnibus Budget Reconciliation Act of 1993) with respect to a group health plan,
 
 > &emsp;&emsp;if such judgment, decree, or order (I) is issued by a court of competent jurisdiction or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;In the case of any medical child support order received by a group health plan—
 
-&emsp;&emsp;&emsp;(i) the plan administrator shall promptly notify the participant and each alternaterecipient of the receipt of such order and the plan's procedures for determining whether medical child support orders are qualified medical child support orders, and
+&emsp;&emsp;&emsp;(i) the plan administrator shall promptly notify the participant and each alternate recipient of the receipt of such order and the plan's procedures for determining whether medical child support orders are qualified medical child support orders, and
 
 &emsp;&emsp;&emsp;(ii) within a reasonable period after receipt of such order, the plan administrator shall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
 
@@ -114,7 +114,7 @@
 
 #### (1) Compliance by plans with assignment of rights
 
-&emsp;A group health plan shall provide that payment for benefits with respect to a participantunder the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
+&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
 
 #### (2) Enrollment and provision of benefits without regard to medicaid eligibility
 
@@ -174,7 +174,7 @@ Subsec. (a)(5)(C). Pub. L. 105–200, §401(d), added subpar. (C).
 
 Subsec. (a)(9). Pub. L. 105–200, §401(h)(3)(A), substituted “the address of an alternate recipient” for “the name and address of an alternate recipient”.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, §5613(b), inserted at end “A qualified medical child support order with respect to any participant or beneficiary shall be deemedto apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.”
+1997—Subsec. (a)(1). Pub. L. 105–33, §5613(b), inserted at end “A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.”
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5612(a), inserted at end of concluding provisions “For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.”
 
@@ -372,7 +372,7 @@ In general.—If the plan administrator of any church group health plan which is
 
 &emsp;&emsp;&emsp;“(ii)
 
-Enrollment of child in plan.—In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a parent of the child, and the Notice is deemed under clause (i) to be aqualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
+Enrollment of child in plan.—In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 

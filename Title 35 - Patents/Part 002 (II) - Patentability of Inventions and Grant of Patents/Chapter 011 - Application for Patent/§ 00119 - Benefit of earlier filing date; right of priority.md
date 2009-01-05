@@ -1,6 +1,6 @@
 ### §119. Benefit of earlier filing date; right of priority
 
-(a) An application for patent for an invention filed in this country by any person who has, or whose legal representatives or assigns have, previously regularly filed an application for a patent for the same invention in a foreign country which affords similar privileges in the case of applications filed in the United States or to citizens of the United States, or in a WTO member country, shall have the same effect as the same application would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country, if the application in this country is filed within twelve months from the earliest date on which such foreign application was filed; but no patent shall be granted on any application for patent for an invention which had been patented or described in a printed publication in any country more than one year before the date of the actual filing of the application in this country, or which had been in public use or on sale in this country more than one year prior to such filing.
+(a) An application for patent for an invention filed in this country by any person who has, orwhose legal representatives or assigns have, previously regularly filed an application for a patent for the same invention in a foreign country which affords similar privileges in the case of applications filed in the United States or to citizens of the United States, or in a WTO member country, shall have the same effect as the same application would have if filed in this country on the date on which the application for patent for the same invention was first filed in such foreign country, if the application in this country is filed within twelve months from the earliest date on which such foreign application was filed; but no patent shall be granted on any application for patent for an invention which had been patented or described in a printed publication in any country more than one year before the date of the actual filing of the application in this country, or which had been in public use or on sale in this country more than one year prior to such filing.
 
 (b)(1) No application for patent shall be entitled to this right of priority unless a claim is filed in the Patent and Trademark Office, identifying the foreign application by specifying the application number on that foreign application, the intellectual property authority or country in or for which the application was filed, and the date of filing the application, at such time during the pendency of the application as required by the Director.
 
@@ -30,7 +30,7 @@
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §32, second paragraph (R.S. 4887, second paragraph, amended (1) Mar. 3, 1903, ch. 1019, §1, 32 Stat. 1225, 1226, (2) June 19, 1936, ch. 594, 49 Stat. 1529, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., §32, second paragraph (R.S. 4887, second paragraph, amended (1) Mar. 3,1903, ch. 1019, §1, 32 Stat. 1225, 1226, (2) June 19, 1936, ch. 594, 49 Stat. 1529, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
 
 The first paragraph is the same as the present law with changes in language. The references to designs have been removed for inclusion in another section and the opening clause has been modified to accord with actual practice and the requirements of the International Convention for the Protection of Industrial Property.
 
@@ -88,5 +88,5 @@ Amendment by Pub. L. 87–333 effective on the date when the Convention of Paris
 
 #### Japanese and Certain German Nationals; Temporary Extension of Priority Rights
 
-Act Aug. 23, 1954, ch. 823, 68 Stat. 764, provided that the priority rights specified in section 101 of former Title 35, Patents, which arose before Apr. 1, 1950, were extended, with respect to inventions made subsequent to Jan. 1, 1946, in favor of certain Japanese and German nationals, to a date nine months after Aug. 23, 1954, subject to conditions and limitations specified in sections 104, 110, 112, and 114 of former title 35.
+Act Aug. 23, 1954, ch. 823, 68 Stat. 764, provided that the priority rights specified in section 101 of former Title 35, Patents, which arose before Apr. 1, 1950, wereextended, with respect to inventions made subsequent to Jan. 1, 1946, in favor of certain Japanese and German nationals, to a date nine months after Aug. 23, 1954, subject to conditions and limitations specified in sections 104, 110, 112, and 114 of former title 35.
 

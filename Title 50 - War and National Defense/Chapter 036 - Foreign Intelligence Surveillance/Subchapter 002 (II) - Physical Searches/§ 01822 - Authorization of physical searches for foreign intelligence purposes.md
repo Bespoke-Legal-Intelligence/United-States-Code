@@ -36,7 +36,7 @@ Applications for a court order under this subchapter are authorized if the Presi
 
 #### (c) Jurisdiction of Foreign Intelligence Surveillance Court
 
-The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge shall hear the same application which has been denied previously by another judge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
+The Foreign Intelligence Surveillance Court shall have jurisdiction to hear applications for and grant orders approving a physical search for the purpose of obtaining foreign intelligence information anywhere within the United States under the procedures set forth in this subchapter, except that no judge (except when sitting en banc) shall hear the same application which has been denied previously by anotherjudge designated under section 1803(a) of this title. If any judge so designated denies an application for an order authorizing a physical search under this subchapter, such judge shall provide immediately for the record a written statement of each reason for such decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established under section 1803(b) of this title.
 
 #### (d) Court of review; record; transmittal to Supreme Court
 
@@ -46,11 +46,17 @@ The court of review established under section 1803(b) of this title shall have j
 
 Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
-(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691.)
+(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465.)
 
 #### Amendments
 
-2004—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
+
+<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -60,7 +66,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 
-Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933, provided:
+Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, §2, Oct. 7, 2008, 73 F.R. 60095, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 (“Act”) (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
 
@@ -68,7 +74,7 @@ Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is aut
 
 Sec. 2. Pursuant to section 302(b) of the Act, the Attorney General is authorized to approve applications to the Foreign Intelligence Surveillance Court under section 303 of the Act to obtain orders for physical searches for the purpose of collecting foreign intelligence information.
 
-Sec. 3. Pursuant to section 303(a)(7) of the Act, the following officials, each of whom is employed in the area of national security or defense, is designated to make the certifications required by section 303(a)(7) of the Act in support of applications to conduct physical searches:
+Sec. 3. Pursuant to section 303(a)(6) of the Act, the following officials, each of whom is employed in the area of national security or defense, is designated to make the certifications required by section 303(a)(6) of the Act in support of applications to conduct physical searches:
 
 &emsp;(a) Secretary of State;
 
@@ -82,11 +88,13 @@ Sec. 3. Pursuant to section 303(a)(7) of the Act, the following officials, each 
 
 &emsp;(f) Deputy Secretary of Defense;
 
-&emsp;(g) Director of the Central Intelligence Agency; and
+&emsp;(g) Director of the Central Intelligence Agency;
 
-&emsp;(h) Principal Deputy Director of National Intelligence.
+&emsp;(h) Principal Deputy Director of National Intelligence; and
 
-> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate.
+&emsp;(i) Deputy Director of the Federal Bureau of Investigation.
+
+> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs (A) through (D)”.</i>
 

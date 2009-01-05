@@ -14,9 +14,9 @@ STARBASE Academies.—(1) The Secretary shall provide for the establishment of a
 
 (2) The Secretary of Defense shall establish guidelines, criteria, and a process for the establishment of STARBASE programs in addition to those in operation on October 5, 1999.
 
-(3)(A) Except as otherwise provided under subparagraph (B), the Secretary may not support the establishment in any State of more than two academies under the program.
+(3)(A) Except as otherwise provided under subparagraph (B), the Secretary may not support the establishment in any State of more than four academies under the program.
 
-(B) The Secretary may support the establishment and operation of an academy in a State in excess of two academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of two in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
+(B) The Secretary may support the establishment and operation of an academy in a State in excess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
 
 (d)
 
@@ -40,9 +40,13 @@ Annual Report.—Not later than 90 days after the end of each fiscal year, the S
 
 State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
 
-(Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, §596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, §519, title X, §1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062.)
+(Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, §596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, §519, title X, §1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062; Pub. L. 110–181, div. A, title V, §592, Jan. 28, 2008, 122 Stat. 138.)
 
 #### Amendments
+
+2008—Subsec. (c)(3)(A). Pub. L. 110–181, §592(1), substituted “more than four academies” for “more than two academies”.
+
+Subsec. (c)(3)(B). Pub. L. 110–181, §592(2), substituted “in excess of four” for “in excess of two” in two places.
 
 2004—Subsec. (c)(2). Pub. L. 108–375, §1084(d)(16), substituted “October 5, 1999” for “the date of the enactment of this section”.
 

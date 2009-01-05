@@ -4,7 +4,7 @@
 
 #### (1) General
 
-&emsp;There is hereby imposed on all distilled spirits produced in or imported into the United States a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
+&emsp;There is hereby imposed on all distilled spirits produced in or imported into the UnitedStates a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
 #### (2) Products containing distilled spirits
 
@@ -232,7 +232,7 @@ Corporations.—In the case of a controlled group—
 
 &emsp;&emsp;“(ii) the $240, $270, and $87 amounts specified in paragraph (4),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as theSecretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
 
 &emsp;“(B)
 
@@ -290,7 +290,7 @@ Section 27(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XV
 
 “(1)
 
-Imposition of tax.—On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
+Imposition of tax.—On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionatetax at the like rate on all fractional parts of a proof gallon.
 
 “(2)
 
@@ -362,7 +362,7 @@ Nonincorporated dealers under common control.—Under regulations prescribed by 
 
 “(6)
 
-Other laws applicable.—All provisions of law, including penalties, applicable with respect to thetaxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
+Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
 
 “(7)
 

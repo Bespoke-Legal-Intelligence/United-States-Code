@@ -58,7 +58,7 @@ The Domestic Council staff is hereby designated the Domestic Policy Staff and sh
 
 #### Sec. 2. Establishment of an Office of Administration
 
-There is hereby established in the Executive Office of the President the Office of Administration which shall be headed by the President. There shall be a Director of the Office of Administration. The Director shall be appointed by the President and shall serve as chief administrative officer of the Office of Administration. The President is authorized to fix the compensation and duties of the Director.
+There is hereby established in the Executive Office of the President the Office of Administration which shall be headed by the President. There shall be a Director of the Office of Administration. The Director shall beappointed by the President and shall serve as chief administrative officer of the Office of Administration. The President is authorized to fix the compensation and duties of the Director.
 
 The Office of Administration shall provide components of the Executive Office of the President with such administrative services as the President shall from time to time direct.
 
@@ -130,7 +130,7 @@ These recommendations arise from a careful, systematic study of the EOP. They ar
 
 The EOP now consists of the immediate White House Office, the Vice President's Office, the Office of Management and Budget, and fourteen other agencies. The EOP has a budget authority of about $80,000,000 and 1,712 full time employees.
 
-The White House Office concentrates on close personal support including policy and political advice and administrative and operational services. The Office of the Vice President provides similar support to him. OMB's primary mission is to develop and implement the budget; it also carries out a number of management and reorganization activities.
+The White House Office concentrates on close personal support including policy and political advice and administrative and operational services. The Office of the Vice President provides similar support to him. OMB's primary mission is to develop and implementthe budget; it also carries out a number of management and reorganization activities.
 
 Three EOP units have responsibility for policy development:
 
@@ -332,7 +332,7 @@ In summary this plan would:
 
 &emsp;Make other incidental transfers attendant to those mentioned above.
 
-Each of the changes set forth in the plan accompanying this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the plan are done so only under statutory authority provided by Section 903(b) of Title 5 of the United States Code. The provisions in the plan for the appointment and pay of any head or officer of any agency have been found by me to be necessary.
+Each of the changes set forth in the plan accompanying this message is necessary to accomplish one ormore of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the plan are done so only under statutory authority provided by Section 903(b) of Title 5 of the United States Code. The provisions in the plan for the appointment and pay of any head or officer of any agency have been found by me to be necessary.
 
 As we continue our studies of other parts of the Executive Branch, we will find more ways to improve services in the EOP and elsewhere. This plan is only a beginning, but I am confident that it represents a major step toward a more efficient government that will serve the needs of the people and the President well.
 
@@ -398,7 +398,7 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 Section 1. (a) The transfer of all functions of the Domestic Council, as provided by Section 5D of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), is hereby effective.
 
-(b) The redesignation of the Domestic Council Staff as the Domestic Policy Staff and the other provisionsof Section 1 of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), are hereby effective.
+(b) The redesignation of the Domestic Council Staff as the Domestic Policy Staff and the other provisions of Section 1 of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), are hereby effective.
 
 (c) The abolition of the Domestic Council, as provided by Section 3A of Reorganization Plan No. 1 of 1977 (42 F.R. 56101), is hereby effective.
 

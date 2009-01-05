@@ -63,6 +63,7 @@
 | [6939c.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939c%20-%20Mixed%20waste%20inventory%20reports%20and%20plan.md) | Mixed waste inventory reports and plan. |
 | [6939d.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939d%20-%20Public%20vessels.md) | Public vessels. |
 | [6939e.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939e%20-%20Federally%20owned%20treatment%20works.md) | Federally owned treatment works. |
+| [6939f.](Subchapter%20003%20%28III%29%20-%20Hazardous%20Waste%20Management/%C2%A7%2006939f%20-%20Long-term%20storage.md) | Long-term storage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

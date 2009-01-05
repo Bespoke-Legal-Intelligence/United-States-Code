@@ -96,7 +96,7 @@ A prior section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 101–
 
 Another prior section 2331 and prior sections 2332 to 2334 were omitted in the general amendment of this subchapter by Pub. L. 101–392.
 
-Section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, §2401(a), Apr. 28, 1988, 102 Stat.324, related to use of a portion of a State's allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
+Section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, §2401(a), Apr. 28, 1988, 102 Stat. 324, related to use of a portion of a State's allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
 
 Section 2332, Pub. L. 88–210, title II, §202, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, §101(h) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, §2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution of assistance from State allotment to provide vocational education opportunities.
 
@@ -110,7 +110,7 @@ Section 2335, Pub. L. 88–210, title II, §221, as added Pub. L. 101–392, tit
 
 Section 2335a, Pub. L. 88–210, title II, §222, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to sex equity programs.
 
-Section 2335b, Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to competitive award of amounts and evaluation of programs.
+Section 2335b, Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778,related to competitive award of amounts and evaluation of programs.
 
 Section 2336, Pub. L. 88–210, title II, §225, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 

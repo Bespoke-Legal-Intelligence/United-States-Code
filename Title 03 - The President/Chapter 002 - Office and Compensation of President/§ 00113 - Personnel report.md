@@ -12,7 +12,7 @@
 
 &emsp;(4) the number of individuals detailed under section 112 of this title for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of section 112 of this title; and
 
-&emsp;(5) the number of individuals whose services as experts or consultants are procured under this chapter for service in any such office, the total number of days employed, and the aggregate amount paid to procure such services.
+&emsp;(5) the number of individuals whose services as experts or consultants are procured under this chapter for service in any such office, thetotal number of days employed, and the aggregate amount paid to procure such services.
 
 > The information required under this subsection to be in any report shall be shown both in the aggregate and by office involved.
 
@@ -20,7 +20,7 @@
 
 #### References in Text
 
-For the effective date of this section, referred to in subsec. (a), see section 6(a) of Pub. L. 95–570, set out asan Effective Date of 1978 Amendment note under section 102 of this title.
+For the effective date of this section, referred to in subsec. (a), see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under section 102 of this title.
 
 #### Effective Date
 

@@ -61,7 +61,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
+2008—Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
 
 2000—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out “and aeronautical” after “nautical” in item 1307.
 

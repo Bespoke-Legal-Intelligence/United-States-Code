@@ -6,7 +6,7 @@
 
 &emsp;(A) such individual continues to have the disabling physical or mental impairment on the basis of which such individual was found to be under a disability; and
 
-&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
+&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of theamount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
 
 (2) The Commissioner of Social Security shall make a determination under paragraph (1)(A) with respect to an individual not later than 12 months after the first month for which the individual qualifies for a benefit under this subsection.
 

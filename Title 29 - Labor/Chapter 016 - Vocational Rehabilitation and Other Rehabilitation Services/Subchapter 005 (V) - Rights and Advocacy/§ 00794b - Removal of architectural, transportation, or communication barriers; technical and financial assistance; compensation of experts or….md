@@ -14,7 +14,7 @@
 
 (d) In order to carry out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(Pub. L. 93–112, title V, §506, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, §206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §507,Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, §408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, §203(b), Nov. 13, 1998, 112 Stat. 3653.)
+(Pub. L. 93–112, title V, §506, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, §206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, §408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, §203(b), Nov. 13, 1998, 112 Stat. 3653.)
 
 #### Amendments
 

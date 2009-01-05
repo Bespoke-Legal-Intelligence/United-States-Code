@@ -26,7 +26,7 @@ In general.—On request, the Administrator may provide, to the extent practicab
 
 &emsp;(2)
 
-Use of services.—A nonprofit agency receiving services under this subsection shall use the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47) to be suitable for procurement by the Government.
+Use of services.—A nonprofit agency receiving services under this subsection shalluse the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under section 2 of the Javits-Wagner-O'Day Act (41 U.S.C. 47) to be suitable for procurement by the Government.
 
 (c)
 
@@ -34,7 +34,11 @@ Use of Certain Supply Schedules.—
 
 &emsp;(1)
 
-In general.—The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for automated data processing equipment (including firmware), software, supplies, support equipment, and services (as contained in Federal supply classification code group 70).
+In general.—The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for the following:
+
+&emsp;&emsp;(A) Automated data processing equipment (including firmware), software, supplies, support equipment, and services (as contained in Federal supply classification code group 70).
+
+&emsp;&emsp;(B) Alarm and signal systems, facility management systems, firefighting and rescue equipment, law enforcement and security equipment, marine craft and related equipment, special purpose clothing, and related services (as contained in Federal supply classification code group 84 or any amended or subsequent version of that Federal supply classification group).
 
 &emsp;(2)
 
@@ -54,7 +58,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(C) The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713).
 
-&emsp;&emsp;(D) The term “institution of higher education” has the meaning given that term insection 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+&emsp;&emsp;(D) The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
 (d)
 
@@ -76,7 +80,7 @@ Voluntary use.—In the case of the use by a State or local government of a Fede
 
 Definitions.—The definitions in subsection (c)(3) shall apply for purposes of this subsection.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316.)
 
 Historical and Revision Notes
 
@@ -109,6 +113,8 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), i
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–248 substituted “Administration for the following:” for “Administration for automated”, inserted “(A) Automated” before “data processing”, and added subpar. (B).
 
 2006—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 

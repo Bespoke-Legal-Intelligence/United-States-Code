@@ -24,7 +24,7 @@ No State may receive a grant under this section unless the State educational age
 
 #### (2) Reservations
 
-&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
+&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth ofthe Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
 
 &emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), that are consistent with the purposes of the programs described in this part.
 
@@ -76,7 +76,7 @@ Grants under this section shall be used for the following:
 
 #### (C) School requirements
 
-&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part,the school described in such subparagraph shall—
+&emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part, the school described in such subparagraph shall—
 
 &emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of the child or youth (or, in the case of an unaccompanied youth, the youth) that—
 
@@ -144,7 +144,7 @@ Grants under this section shall be used for the following:
 
 #### (i) Preparation
 
-&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The reportshall contain, at a minimum, information on—
+&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The report shall contain, at a minimum, information on—
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance with all requirements of this paragraph;
 
@@ -286,7 +286,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(ii) provide a written explanation, including a statement regarding the right to appeal under subparagraph (E), to the homeless child's or youth's parent or guardian, if the local educational agency sends such child or youth to a school other than the school of origin or a school requested by the parent or guardian; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisionsunder this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
+&emsp;&emsp;&emsp;(iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
 #### (C) Enrollment
 
@@ -406,7 +406,45 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;Special attention shall be given to ensuring the enrollment and attendance of homeless children and youths who are not currently attending school.
 
-(Pub. L. 100–77, title VII, §722, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 1990.)
+#### (h) Special rule for emergency assistance
+
+#### (1) Emergency assistance
+
+#### (A) Reservation of amounts
+
+&emsp;&emsp;Subject to paragraph (4) and notwithstanding any other provision of this subchapter, the Secretary shall use funds appropriated under section 11435 of this title for fiscal year 2009, but not to exceed $30,000,000, for the purposes of providing emergency assistance through grants.
+
+#### (B) General authority
+
+&emsp;&emsp;The Secretary shall use the funds to make grants to State educational agencies under paragraph (2), to enable the agencies to make subgrants to local educational agencies under paragraph (3), to provide activities described in section 11433(d) of this title for individuals referred to in subparagraph (C).
+
+#### (C) Eligible individuals
+
+&emsp;&emsp;Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due to home foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
+
+#### (2) Grants to State educational agencies
+
+#### (A) Disbursement
+
+&emsp;&emsp;The Secretary shall make grants with funds provided under paragraph (1)(A) to State educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the States involved, as determined by the Secretary.
+
+#### (B) Assurance
+
+&emsp;&emsp;To be eligible to receive a grant under this paragraph, a State educational agency shall provide an assurance to the Secretary that the State educational agency, and each local educational agency receiving a subgrant from the State educational agency under this subsection shall ensure that the activities carried out under this subsection are consistent with the activities described in section 11433(d) of this title.
+
+#### (3) Subgrants to local educational agencies
+
+&emsp;A State educational agency that receives a grant under paragraph (2) shall use the funds made available through the grant to make subgrants to local educational agencies. The State educational agency shall make the subgrants to local educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the areas served by the local educational agencies, as determined by the State educational agency.
+
+#### (4) Restriction
+
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) shall determine the amount (if any) by which the funds appropriated under section 11435 of this title for fiscal year 2009 exceed $70,000,000; and
+
+&emsp;&emsp;(B) may only use funds from that amount to carry out this subsection.
+
+(Pub. L. 100–77, title VII, §722, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 1990; amended Pub. L. 110–289, div. B, title IX, §2901(b), July 30, 2008, 122 Stat. 2875.)
 
 #### References in Text
 
@@ -423,6 +461,10 @@ This chapter, referred to in subsec. (g)(6)(A)(v), was in the original “this A
 A prior section 11432, Pub. L. 100–77, title VII, §722, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+
+#### Amendments
+
+2008—Subsec. (h). Pub. L. 110–289 added subsec. (h).
 
 #### Change of Name
 

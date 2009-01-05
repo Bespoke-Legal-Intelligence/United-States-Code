@@ -66,7 +66,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (4) Permissive lease
 
-&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate that is less than the appraised rental value of the property may accept such offer and lease the property to the previous owner.
+&emsp;An institution of the System receiving an offer from the previous owner to lease theproperty at a rate that is less than the appraised rental value of the property may accept such offer and lease the property to the previous owner.
 
 #### (5) Notice to previous owner
 

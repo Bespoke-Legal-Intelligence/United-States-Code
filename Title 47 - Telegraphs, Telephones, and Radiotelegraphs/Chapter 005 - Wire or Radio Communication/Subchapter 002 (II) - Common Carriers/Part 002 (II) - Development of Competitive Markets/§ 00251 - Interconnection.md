@@ -26,7 +26,7 @@ Each local exchange carrier has the following duties:
 
 #### (4) Access to rights-of-way
 
-&emsp;The duty to afford access to the poles, ducts, conduits, and rights-of-way of such carrier to competing providers of telecommunications services on rates, terms, and conditions that are consistent with section 224 of this title.
+&emsp;The duty to afford access to the poles, ducts, conduits, and rights-of-way of such carrier tocompeting providers of telecommunications services on rates, terms, and conditions that are consistent with section 224 of this title.
 
 #### (5) Reciprocal compensation
 
@@ -84,7 +84,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 &emsp;&emsp;(A) access to such network elements as are proprietary in nature is necessary; and
 
-&emsp;&emsp;(B) the failure to provide access to such network elements would impair the ability of the telecommunications carrier seekingaccess to provide the services that it seeks to offer.
+&emsp;&emsp;(B) the failure to provide access to such network elements would impair the ability of the telecommunications carrier seeking access to provide the services that it seeks to offer.
 
 #### (3) Preservation of State access regulations
 
@@ -100,7 +100,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (1) Commission authority and jurisdiction
 
-&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis. The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
+&emsp;The Commission shall create or designate one or more impartial entities to administer telecommunications numbering and to make such numbers available on an equitable basis.The Commission shall have exclusive jurisdiction over those portions of the North American Numbering Plan that pertain to the United States. Nothing in this paragraph shall preclude the Commission from delegating to State commissions or other entities all or any portion of such jurisdiction.
 
 #### (2) Costs
 

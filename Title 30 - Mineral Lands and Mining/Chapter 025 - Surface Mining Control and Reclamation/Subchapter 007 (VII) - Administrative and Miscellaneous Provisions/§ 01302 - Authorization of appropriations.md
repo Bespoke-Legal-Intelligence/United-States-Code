@@ -10,7 +10,7 @@ There is authorized to be appropriated to the Secretary for the purposes of this
 
 (d) In order that the implementation of the requirements of this chapter may be initiated in a timely and orderly manner, the Secretary is authorized, subject to the approval of the appropriation Committees of the House and of the Senate, to utilize not to exceed $2,000,000 of the appropriations otherwise available to him for the fiscal year ending September 30, 1977, for the administration and other purposes of this chapter.
 
-(Pub. L. 95–87, title VII, §712, Aug. 3, 1977, 91 Stat. 524; Pub. L. 95–343, §1, Aug. 11, 1978, 92Stat. 473; Pub. L. 101–508, title VI, §6012(b), Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 109–432, div. C, title II, §201(b), Dec. 20, 2006, 120 Stat. 3008.)
+(Pub. L. 95–87, title VII, §712, Aug. 3, 1977, 91 Stat. 524; Pub. L. 95–343, §1, Aug. 11, 1978, 92 Stat. 473; Pub. L. 101–508, title VI, §6012(b), Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 109–432, div. C, title II, §201(b), Dec. 20, 2006, 120 Stat. 3008.)
 
 #### Amendments
 

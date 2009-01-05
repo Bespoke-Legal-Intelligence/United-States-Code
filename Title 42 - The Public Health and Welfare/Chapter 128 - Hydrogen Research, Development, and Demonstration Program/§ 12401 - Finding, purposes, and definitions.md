@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that it is in the national interest to accelerate efforts to develop a domesticcapability to economically produce hydrogen in quantities that will make a significant contribution toward reducing the Nation's dependence on conventional fuels.
+Congress finds that it is in the national interest to accelerate efforts to develop a domestic capability to economically produce hydrogen in quantities that will make a significant contribution toward reducing the Nation's dependence on conventional fuels.
 
 #### (b) Purposes
 

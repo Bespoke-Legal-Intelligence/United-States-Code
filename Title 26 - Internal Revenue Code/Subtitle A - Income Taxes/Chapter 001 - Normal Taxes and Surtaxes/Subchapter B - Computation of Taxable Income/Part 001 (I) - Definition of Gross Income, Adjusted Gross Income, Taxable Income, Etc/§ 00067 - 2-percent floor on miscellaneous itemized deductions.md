@@ -126,7 +126,7 @@ Subsec. (f). Pub. L. 100–647, §1001(f)(1), added subsec. (f).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendmentmade by subsection (b)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1993 Amendment
 

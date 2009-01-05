@@ -84,7 +84,7 @@ In reviewing and processing any application under this section, the Secretary—
 
 #### (B) Leverage
 
-&emsp;&emsp;An applicant approved under subparagraph (A) shall not be eligible to receive leverage under this subchapter until the applicantsatisfies the requirements of section 2009cc–8(c) of this title.
+&emsp;&emsp;An applicant approved under subparagraph (A) shall not be eligible to receive leverage under this subchapter until the applicant satisfies the requirements of section 2009cc–8(c) of this title.
 
 #### (C) Grants
 

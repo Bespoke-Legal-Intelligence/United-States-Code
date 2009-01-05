@@ -22,7 +22,7 @@ With respect to any affirmative determination of the Commission under subsection
 
 &emsp;(A) the President may take action under such sections 2252 and 2253 of this title only with respect to imports from the country or countries involved of the article with respect to which the affirmative determination was made; and
 
-&emsp;(B) if such action consists of, or includes, an orderly marketing agreement, such agreementshall be entered into within 60 days after the import relief determination date.
+&emsp;(B) if such action consists of, or includes, an orderly marketing agreement, such agreement shall be entered into within 60 days after the import relief determination date.
 
 #### (c) Products of Communist countries
 
@@ -32,7 +32,7 @@ If, at any time, the President finds that there are reasonable grounds to believ
 
 (1) A petition may be filed with the President by an entity described in section 2251(a)(1) of this title requesting the President to initiate consultations provided for by the safeguard arrangements of any agreement entered into under section 2435 of this title with respect to imports of an article which is the product of the country which is the other party to such agreement.
 
-(2) If the President determines that there are reasonable grounds to believe, with respect to imports of such article, that market disruption exists with respect to an article produced by a domestic industry, he shall initiate consultations with such country with respect to such imports.
+(2) If the President determines that there are reasonable grounds to believe, with respect to imports of such article, that market disruptionexists with respect to an article produced by a domestic industry, he shall initiate consultations with such country with respect to such imports.
 
 #### (e) Definitions; factors determining existence of market disruption
 
@@ -88,7 +88,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1411(a)(3), designated existing provisions 
 
 #### Change of Name
 
-“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” insubsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+“United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (a)(1), pursuant to Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
 #### Effective Date of 1988 Amendment
 

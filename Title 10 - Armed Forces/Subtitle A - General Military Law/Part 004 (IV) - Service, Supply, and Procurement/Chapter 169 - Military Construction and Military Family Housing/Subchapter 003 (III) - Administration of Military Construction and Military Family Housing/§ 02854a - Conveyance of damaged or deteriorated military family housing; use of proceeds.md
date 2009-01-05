@@ -28,7 +28,7 @@ Notice and Wait Requirements.—The Secretary concerned may not enter into an ag
 
 &emsp;&emsp;(C) an estimate of the cost of replacing the family housing facility to be conveyed; and
 
-&emsp;(2) a period of 21 days has elapsed after the date on which the justification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title.
+&emsp;(2) a period of 21 days has elapsed after the date on which the justification is received bythe committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 

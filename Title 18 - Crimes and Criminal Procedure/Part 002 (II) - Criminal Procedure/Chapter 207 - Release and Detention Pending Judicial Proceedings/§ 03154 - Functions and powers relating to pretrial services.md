@@ -8,7 +8,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(3) Supervise persons released into its custody under this chapter.
 
-&emsp;(4) Operate or contract for the operation of appropriate facilities for the custody or care of persons released under this chapter including residential halfway houses, addict and alcoholic treatment centers, and counseling services.
+&emsp;(4) Operate or contract for the operation of appropriate facilities for the custody or care of persons released under this chapter including residential halfway houses, addict and alcoholic treatment centers, and counseling services, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required.
 
 &emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
 
@@ -32,9 +32,11 @@ Pretrial services functions shall include the following:
 
 &emsp;(14) Perform such other functions as specified under this chapter.
 
-(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept.27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, §101(b), Oct. 19, 1996, 110 Stat. 3848.)
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat.4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, §101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, §15(a), Oct. 13, 2008, 122 Stat. 4294.)
 
 #### Amendments
+
+2008—Par. (4). Pub. L. 110–406 inserted “, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required” before period at end.
 
 1996—Pars. (13), (14). Pub. L. 104–317 added par. (13) and redesignated former par. (13) as (14).
 

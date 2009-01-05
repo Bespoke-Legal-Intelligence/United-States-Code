@@ -54,7 +54,7 @@
 
 &emsp;(2) he or she shall be relieved of performing such duties during any period in which illness or disability precludes the performance of such duties.
 
-> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a Court of Federal Claims judge in regular active service. Any individual performing judicial duties pursuant to this subsection shall receive the allowances for official travel and other expenses of a judge in regular active service.
+> Any act, or failure to act, by an individual performing judicial duties pursuant to this subsection shall have the same force and effect as if it were the act (or failure to act) of a Court of Federal Claims judge in regular active service.Any individual performing judicial duties pursuant to this subsection shall receive the allowances for official travel and other expenses of a judge in regular active service.
 
 (e)(1) Any judge who retires under the provisions of subsection (a) or (b) of this section shall be designated “senior judge”.
 
@@ -68,7 +68,7 @@
 
 (2) A judge who elects to receive an annuity under this section shall not be entitled to receive—
 
-&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (exceptfor subchapters III and VII), of title 5, for service performed as a judge or otherwise;
+&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as a judge or otherwise;
 
 &emsp;(B) an annuity or salary in senior status or retirement under section 371 or 372 of this title;
 
@@ -110,7 +110,7 @@
 
 (C) Any election under this paragraph shall take effect on the first day of the first month following the month in which the election is made.
 
-(k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day on which such annuity would (but for such revocation) begin to accrue with respect to such individual.
+(k)(1) Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day onwhich such annuity would (but for such revocation) begin to accrue with respect to such individual.
 
 (2) Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of <sup>1</sup> Administrative Office of the United States Courts.
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;(ii) section 376(g) shall not apply, and the amount credited to such individual's account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as thecase may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as the case may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
 &emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
 

@@ -1,0 +1,138 @@
+### §353. Skill incentive pay or proficiency bonus
+
+(a)
+
+Skill Incentive Pay.—The Secretary concerned may pay a monthly skill incentive pay to a member of a regular or reserve component of the uniformed services who—
+
+&emsp;(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title; and
+
+&emsp;(2) serves in a career field or skill designated as critical by the Secretary concerned.
+
+(b)
+
+Skill Proficiency Bonus.—
+
+&emsp;(1)
+
+Availability; eligible persons.—The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+
+&emsp;&emsp;(A) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title or is enrolled in an officer training program; and
+
+&emsp;&emsp;(B) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned or is in training to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
+
+&emsp;(2)
+
+Inclusion of certain senior rotc members.—A proficiency bonus may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. During the period covered by the proficiency bonus, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives incentive pay under subsection (g)(2) for the same period, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+
+(c)
+
+Maximum Amounts and Methods of Payment.—
+
+&emsp;(1)
+
+Skill incentive pay.—Skill incentive pay under subsection (a) shall be paid monthly in an amount not to exceed $1,000 per month.
+
+&emsp;(2)
+
+Proficiency bonus.—A proficiency bonus under subsection (b) may be paid in a lump sum at the beginning of the proficiency certification period or in periodic installments during the proficiency certification period. The amount of the bonus may not exceed $12,000 for each 12-month period of certification. The Secretary concerned may not vary the criteria or rates for the proficiency bonus paid for officers and enlisted members.
+
+(d)
+
+Certified Proficiency for Proficiency Bonus.—
+
+&emsp;(1)
+
+Certification required.—Proficiency in a designated critical skill for purposes of subsection (b) shall be subject to annual certification by the Secretary concerned.
+
+&emsp;(2)
+
+Duration of certification.—A certification period for purposes of subsection (c)(2) shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
+
+&emsp;(3)
+
+Waiver.—Notwithstanding paragraphs (1) and (2), the regulations prescribed to administer this section shall address the circumstances under which the Secretary concerned may waive the certification requirement under paragraph (1) or extend a certification period under paragraph (2).
+
+(e)
+
+Written Agreement.—
+
+&emsp;(1)
+
+Discretionary for skill incentive pay.—The Secretary concerned may require a member to enter into a written agreement with the Secretary in order to qualify for the payment of skill incentive pay under subsection (a). The written agreement shall specify the period for which the skill incentive pay will be paid to the member and the monthly rate of the pay.
+
+&emsp;(2)
+
+Required for proficiency bonus.—The Secretary concerned shall require a member to enter into a written agreement with the Secretary in order to qualify for payment of a proficiency bonus under subsection (b). The written agreement shall specify the amount of the proficiency bonus, the period for which the bonus will be paid, and the initial certification or recertification necessary for payment of the proficiency bonus.
+
+(f)
+
+Reserve Component Members Performing Inactive Duty Training.—
+
+&emsp;(1)
+
+Proration.—A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) or a skill proficiency bonus under subsection (b) may be paid an amount of the pay or bonus, as the case may be, that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
+
+&emsp;(2)
+
+Exception for foreign language proficiency.—No reduction in the amount of a skill proficiency bonus may be made under paragraph (1) in the case of a member of a reserve component who is authorized the bonus because of the member's proficiency in a foreign language.
+
+(g)
+
+Foreign Language Studies in Officer Training Programs.—
+
+&emsp;(1)
+
+Availability of incentive pay.—The Secretary concerned may pay incentive pay to a person enrolled in an officer training program to also participate in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
+
+&emsp;(2)
+
+Inclusion of certain senior rotc members.—Incentive pay may be paid under this subsection to a student who is enrolled in the Senior Reserve Officers’ Training Corps program even though the student is in the first year of the four-year course under the program. While the student receives the incentivepay, the student shall also be entitled to a monthly subsistence allowance under section 209(c) of this title even though the student has not entered into an agreement under section 2103a of title 10. However, if the student receives a proficiency bonus under subsection (b)(2) covering the same month, the student may receive only a single monthly subsistence allowance under section 209(c) of this title.
+
+&emsp;(3)
+
+Critical foreign language defined.—In this section, the term “critical foreign language” includes Arabic, Korean, Japanese, Chinese, Pashto, Persian-Farsi, Serbian-Croatian, Russian, Portuguese, or other language designated as critical by the Secretary concerned.
+
+(h)
+
+Repayment.—A member who receives skill incentive pay or a proficiency bonus under this section and who fails to fulfill the eligibility requirement for receipt of the pay or bonus shall be subject to the repayment provisions of section 373 of this title.
+
+(i)
+
+Relationship to Other Pays and Allowances.—A member may not be paid more than one pay under this section in any month for the same period of service and skill. A member may be paid skill incentive pay or the proficiency bonus under this section in addition to any other pay and allowances to which the member is entitled, except that a member may not be paid skill incentive pay or a proficiency bonus under this section and hazardous duty pay under section 351 of this title for the same period of service in the same career field or skill.
+
+(j)
+
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2009.
+
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487.)
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–417, §619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+
+&emsp;“(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title; and
+
+&emsp;“(2) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned.”
+
+Subsecs. (g) to (j). Pub. L. 110–417, §619(a)(2), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
+
+#### Pilot Program for Foreign Language Proficiency Training for Reserve Members
+
+Pub. L. 110–417, \[div. A\], title VI, §619(c), Oct. 14, 2008, 122 Stat. 4489, provided that:
+
+“(1)
+
+Pilot program required.—The Secretary of Defense shall conduct a pilot program to provide a skill proficiency bonus under section 353(b) of title 37, United States Code, to a member of a reserve component of the uniformed services who is entitled to compensation under section 206 of such title while the member participates in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical under such section 353.
+
+“(2)
+
+Duration of pilot program.—The Secretary shall conduct the pilot program during the period beginning on October 1, 2008, and ending on December 31, 2013. Incentive pay may not be provided under the pilot program after December 31, 2013.
+
+“(3)
+
+Reporting requirement.—Not later than March 31, 2012, the Secretary shall submit to Congress a report containing the results of the pilot program and the recommendations of the Secretary regarding whether to continue or expand the pilot program.”
+
+#### Expedited Implementation
+
+Pub. L. 110–417, \[div. A\], title VI, §619(d), Oct. 14, 2008, 122 Stat. 4489, provided that: “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 180; 37 U.S.C. 301 note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under section 353 of title 37, United States Code, as amended by such subsections \[sic\], for persons enrolled in officer training programs.”
+

@@ -74,11 +74,11 @@ For the purpose of this subchapter:
 
 For the purpose of this subchapter, the term “enrollment of needy students” means an enrollment at an institution with respect to which—
 
-&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
+&emsp;(1) at least 50 percent of the degree students so enrolled are receiving need-based assistanceunder subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title); or
 
-&emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which determination is made, compared to the percentage of students receivingFederal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
+&emsp;(2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1103a(a) of this title.
 
-(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066; Pub. L. 109–292, §4(a), Sept. 30, 2006, 120 Stat. 1341.)
+(Pub. L. 89–329, title V, §502, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1766; amended Pub. L. 108–375, div. A, title X, §1087, Oct. 28, 2004, 118 Stat. 2066; Pub. L. 109–292, §4(a), Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–315, title V, §502(b)(1), Aug. 14, 2008, 122 Stat. 3333.)
 
 #### Prior Provisions
 
@@ -89,6 +89,8 @@ A prior section 502 of Pub. L. 89–329 was classified to section 1102a of this 
 Another prior section 502 of Pub. L. 89–329 was classified to section 1091a of this title, prior to repeal by Pub. L. 94–482.
 
 #### Amendments
+
+2008—Subsecs. (a)(2)(A)(ii), (b)(2). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1103a of this title.
 
 2006—Subsec. (a)(5). Pub. L. 109–292, §4(a)(1), inserted “and” at end of subpar. (A), in subpar. (B), struck out “at the time of application,” before “has an enrollment”, substituted “at the end of the award year immediately preceding the date of application.” for “; and”, and struck out subpar. (C) which read as follows: “provides assurances that not less than 50 percent of the institution's Hispanic students are low-income individuals, which assurances—
 

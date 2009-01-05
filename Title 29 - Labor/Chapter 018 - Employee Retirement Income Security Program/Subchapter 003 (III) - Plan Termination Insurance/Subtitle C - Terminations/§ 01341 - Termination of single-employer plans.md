@@ -12,7 +12,7 @@
 
 #### (3) Adherence to collective bargaining agreements
 
-&emsp;The corporation shall not proceed with a termination of a plan under this section if thetermination would violate the terms and conditions of an existing collective bargaining agreement. Nothing in the preceding sentence shall be construed as limiting the authority of the corporation to institute proceedings to involuntarily terminate a plan under section 1342 of this title.
+&emsp;The corporation shall not proceed with a termination of a plan under this section if the termination would violate the terms and conditions of an existing collective bargaining agreement. Nothing in the preceding sentence shall be construed as limiting the authority of the corporation to institute proceedings to involuntarily terminate a plan under section 1342 of this title.
 
 #### (b) Standard termination of single-employer plans
 
@@ -90,7 +90,7 @@
 
 #### (D) Final distribution of assets in absence of notice of noncompliance
 
-&emsp;&emsp;The plan administrator shall commence the final distribution of assets pursuant tothe standard termination of the plan as soon as practicable after the expiration of the 60-day (or extended) period referred to in subparagraph (C), but such final distribution may occur only if—
+&emsp;&emsp;The plan administrator shall commence the final distribution of assets pursuant to the standard termination of the plan as soon as practicable after the expiration of the 60-day (or extended) period referred to in subparagraph (C), but such final distribution may occur only if—
 
 &emsp;&emsp;&emsp;(i) the plan administrator has not received during such period a notice of noncompliance from the corporation under subparagraph (C), and
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if—
+&emsp;&emsp;Except as provided in subparagraphs (B) and (D), if—
 
 &emsp;&emsp;&emsp;(i) there is <sup>3</sup> transaction or series of transactions which result in a person ceasing to be a member of a controlled group, and
 
@@ -156,7 +156,7 @@
 
 &emsp;A single-employer plan may terminate under a distress termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate toaffected parties required under subsection (a)(2) of this section,
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2) of this section,
 
 &emsp;&emsp;(B) the requirements of subparagraph (A) of paragraph (2) are met, and
 
@@ -236,7 +236,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan administrator that has filed a notice of intent to terminate under subsection (a)(2) shall provide to an affected party any information provided to the corporation under subsection (a)(2) not later than 15 days after—
+&emsp;&emsp;&emsp;A plan administrator that has filed a notice of intent to terminate under subsection (a)(2) shall provide to an affected party any information provided to the corporation under subparagraph (A) or the regulations under subsection (a)(2) not later than 15 days after—
 
 &emsp;&emsp;&emsp;&emsp;(I) receipt of a request from the affected party for the information; or
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
 
 #### References in Text
 
@@ -353,6 +353,10 @@ Section 412, referred to in subsecs. (b)(2)(A) and (c)(2)(A), was amended genera
 Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 of Title 11, Bankruptcy.
 
 #### Amendments
+
+2008—Subsec. (b)(5)(A). Pub. L. 110–458, §104(d), substituted “subparagraphs (B) and (D)” for “subparagraph (B)” in introductory provisions.
+
+Subsec. (c)(2)(D)(i). Pub. L. 110–458, §105(e)(1), substituted “subparagraph (A) or the regulations under subsection (a)(2)” for “subsection (a)(2)”.
 
 2006—Subsec. (b)(5). Pub. L. 109–280, §409(a), added par. (5).
 
@@ -374,7 +378,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last senten
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §7881(g)(4), inserted period at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted “unless the corporation determines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title,” before “certification”, in subcl. (I), inserted “and, if applicable, the proposed distribution date” after “termination date”, and in subcls. (II) to (V), substituted “dates” for “date”.
+Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted “unless the corporationdetermines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title,” before “certification”, in subcl. (I), inserted “and, if applicable, the proposed distribution date” after “termination date”, and in subcls. (II) to (V), substituted “dates” for “date”.
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out “(or its designee under section 1349(b) of this title)” before “to be able” and substituted “section 1322(c) of this title” for “section 1349 of this title”.
 
@@ -448,7 +452,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before “the plan administrator”, substituted period for “, and” after “termination of the plan”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title.”
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
 
@@ -473,6 +477,10 @@ Pub. L. 99–272, §11008(b), amended subsec. (f) generally, substituting provis
 1980—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted “single-employer” after “termination of a”.
 
 Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related to petition to the appropriate court for appointment of a trustee.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

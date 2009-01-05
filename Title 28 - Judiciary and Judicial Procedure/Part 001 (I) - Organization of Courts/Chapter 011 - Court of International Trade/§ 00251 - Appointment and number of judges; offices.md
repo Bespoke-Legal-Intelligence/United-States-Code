@@ -24,7 +24,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1996—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
+1996—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve aschief judge, the former chief judge may continue to serve as a judge of the court.”
 
 1980—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
 

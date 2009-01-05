@@ -14,7 +14,7 @@ The United States is committed to continued strong support for the principles of
 
 &emsp;&emsp;(3) the timely implementation of internationally agreed procedures in the event of such diversion;
 
-&emsp;(d) ensure that the IAEA receives on a timely basis the data needed for it to administer an effective and comprehensive international safeguards program and that the IAEA provides timely notice to the world community of any evidence of a violation of any safeguards agreement to which it is a party; and
+&emsp;(d) ensure that the IAEA receives on a timely basis the data needed for it to administeran effective and comprehensive international safeguards program and that the IAEA provides timely notice to the world community of any evidence of a violation of any safeguards agreement to which it is a party; and
 
 &emsp;(e) encourage the IAEA, to the maximum degree consistent with the Statute, to provide nations which supply nuclear materials and equipment with the data needed to assure such nations of adherence to bilateral commitments applicable to such supply.
 

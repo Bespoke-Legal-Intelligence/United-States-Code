@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;The term “agricultural program” means—
 
-&emsp;&emsp;(A) any program administered under the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.);
+&emsp;&emsp;(A) any program administered under the Food for Peace Act (7 U.S.C. 1691 et seq.);
 
 &emsp;&emsp;(B) any program administered under section 1431 of title 7;
 
@@ -54,17 +54,25 @@ In this chapter:
 
 &emsp;&emsp;(B) a mandatory decision of the United Nations Security Council.
 
-(Pub. L. 106–387, §1(a) \[title IX, §902\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67.)
+(Pub. L. 106–387, §1(a) \[title IX, §902\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in par. (2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in par. (2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
 
 Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) \[title IX, §903(a)(1)\] of Pub. L. 106–387, which is classified to section 7202(a)(1) of this title.
 
 Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) \[title IX, §906\] of Pub. L. 106–387, which is classified to section 7205 of this title. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to section 7204 of this title.
+
+#### Amendments
+
+2008—Par. (2)(A). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date
 

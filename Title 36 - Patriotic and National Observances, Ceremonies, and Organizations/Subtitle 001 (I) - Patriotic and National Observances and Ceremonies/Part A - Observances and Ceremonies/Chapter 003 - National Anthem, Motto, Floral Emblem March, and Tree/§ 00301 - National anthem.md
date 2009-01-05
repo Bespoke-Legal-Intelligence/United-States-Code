@@ -10,15 +10,15 @@ Conduct During Playing.—During a rendition of the national anthem—
 
 &emsp;(1) when the flag is displayed—
 
-&emsp;&emsp;(A) all present except those in uniform should stand at attention facing the flag with the right hand over the heart;
+&emsp;&emsp;(A) individuals in uniform should give the military salute at the first note of the anthem and maintain that position until the last note;
 
-&emsp;&emsp;(B) men not in uniform should remove their headdress with their right hand and hold the headdress at the left shoulder, the hand being over the heart; and
+&emsp;&emsp;(B) members of the Armed Forces and veterans who are present but not in uniform may render the military salute in the manner provided for individuals in uniform; and
 
-&emsp;&emsp;(C) individuals in uniform should give the military salute at the first note of the anthem and maintain that position until the last note; and
+&emsp;&emsp;(C) all other persons present should face the flag and stand at attention with their right hand over the heart, and men not in uniform, if applicable, should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart; and
 
 &emsp;(2) when the flag is not displayed, all present should face toward the music and act in the same manner they would if the flag were displayed.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1263; Pub. L. 110–417, \[div. A\], title V, §595, Oct. 14, 2008, 122 Stat. 4475.)
 
 Historical and Revision Notes
 
@@ -41,4 +41,14 @@ Mar. 3, 1931, ch. 436, 46 Stat. 1508.
 36:171.
 
 June 22, 1942, ch. 435, §6, 56 Stat. 380; Dec. 22, 1942, ch. 806, §6, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, §1(18), 90 Stat. 812.
+
+#### Amendments
+
+2008—Subsec. (b)(1)(A) to (C). Pub. L. 110–417 added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) all present except those in uniform should stand at attention facing the flag with the right hand over the heart;
+
+“(B) men not in uniform should remove their headdress with their right hand and hold the headdress at the left shoulder, the hand being over the heart; and
+
+“(C) individuals in uniform should give the military salute at the first note of the anthem and maintain that position until the last note; and”.
 

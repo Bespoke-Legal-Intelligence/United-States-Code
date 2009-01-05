@@ -6,7 +6,7 @@ It shall be lawful for the Secretary to receive for internal revenue taxes (or i
 
 #### (b) Ultimate liability
 
-If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not dulypaid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
+If a check, money order, or other method of payment, including payment by credit card, debit card, or charge card so received is not duly paid, or is paid and subsequently charged back to the Secretary, the person by whom such check, or money order, or other method of payment has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check, money order, or other method of payment had not been tendered.
 
 #### (c) Liability of banks and others
 
@@ -62,7 +62,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 &emsp;(A) Debit or credit card issuers or others acting on behalf of such issuers may also use and disclose such information for purposes directly related to servicing an issuer's accounts.
 
-&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited theretomay also use and disclose such information for purposes directly related to—
+&emsp;(B) Debit or credit card issuers or others directly involved in the processing of credit or debit card transactions or the billing or collection of amounts charged or debited thereto may also use and disclose such information for purposes directly related to—
 
 &emsp;&emsp;(i) statistical risk and profitability assessment;
 
@@ -82,7 +82,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 &emsp;&emsp;<b>For provision providing for civil damages for violation of paragraph (1), see section 7431.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 777; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §448(a), July 18, 1984, 98 Stat. 817; Pub. L. 105–34, title XII, §1205(a), Aug. 5, 1997, 111 Stat. 995; Pub. L. 105–206, title VI, §6012(b)(1), July 22, 1998, 112 Stat. 819; Pub. L. 105–277, div. J, title IV, §4003(k), Oct. 21, 1998, 112 Stat. 2681–910.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 777; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 98–369, div. A, title IV, §448(a), July 18, 1984, 98 Stat. 817; Pub. L. 105–34, title XII, §1205(a), Aug. 5, 1997, 111 Stat. 995; Pub. L. 105–206, title VI, §6012(b)(1), July 22, 1998, 112 Stat. 819; Pub. L. 105–277, div. J, title IV, §4003(k), Oct. 21, 1998, 112 Stat. 2681–910.)
 
 #### Amendments
 

@@ -1,8 +1,8 @@
 ### §460<i>l</i>–10c. Repeal of provisions prohibiting collection of recreation fees or user charges
 
-All provisions of law that prohibit the collection of entrance, admission, or other recreation user fees or charges authorized by this part or that restrict the expenditure of funds if such fees or charges are collected are hereby repealed: <i>Provided</i>, That no provision of any law or treaty which extends to any person or class of persons a right of free access to the shoreline of any reservoir or other body of water, or to hunting and fishing along or on such shoreline, shall be affected by this repealer.
+All other provisions of law that prohibit the collection of entrance, admission, or other recreation user fees or charges authorized by this part or that restrict the expenditure of funds if such fees or charges are collected are hereby also repealed: <i>Provided</i>, That no provision of any law or treaty which extends to any person or class of persons a right of free access to the shoreline of any reservoir or other body of water, or to hunting and fishing along or on such shoreline, shall be affected by this repealer.
 
-(Pub. L. 88–578, title I, §11, formerly §10, as added Pub. L. 90–401, §1(a), July 15, 1968, 82 Stat. 354; renumbered §11, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459.)
+(Pub. L. 88–578, title I, §11, formerly §2(a) (in part), Sept. 3, 1964, 78 Stat. 899; renumbered §10, Pub. L. 90–401, §1(a), July 15, 1968, 82 Stat. 354; renumbered §11, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459.)
 
 #### References in Text
 

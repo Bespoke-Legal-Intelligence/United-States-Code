@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Area vocational education school
 
-&emsp;The term “area vocational education school” has the meaning given the term “areacareer and technical education school” in section 2302 of title 20.
+&emsp;The term “area vocational education school” has the meaning given the term “area career and technical education school” in section 2302 of title 20.
 
 #### (4) Basic skills deficient
 
@@ -184,7 +184,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) 70 percent of the lower living standard income level, for an equivalent period;
 
-&emsp;&emsp;(C) is a member of a household that receives (or has been determined within the 6-month period prior to application for the program involved to be eligible to receive) food stamps pursuant to the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.);
+&emsp;&emsp;(C) is a member of a household that receives (or has been determined within the 6-month period prior to application for the program involved to be eligible to receive) supplemental nutrition assistance program benefits pursuant to the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
 
 &emsp;&emsp;(D) qualifies as a homeless individual, as defined in subsections (a) and (c) of section 11302 of title 42;
 
@@ -342,21 +342,27 @@ In this chapter:
 
 &emsp;The term “youth council” means a council established under section 2832(h) of this title.
 
-(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–270, §2(h)(1), (2), Aug. 12, 2006, 120 Stat. 747.)
+(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–270, §2(h)(1), (2), Aug. 12, 2006, 120 Stat. 747; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
-The Food Stamp Act of 1977, referred to in par. (25)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in par. (25)(C), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This Act, referred to in par. (27)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1503 of this title prior to repeal by Pub. L. 105–220.
 
 #### Amendments
+
+2008—Par. (25)(C). Pub. L. 110–246, §4002(b)(1)(B), (E), (2)(R), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 2006—Par. (3). Pub. L. 109–270, §2(h)(1), substituted “given the term ‘area career and technical education school’ ” for “given the term” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
@@ -370,6 +376,12 @@ Par. (50). Pub. L. 109–270, §2(h)(2), substituted “given the term ‘career
 
 Par. (35). Pub. L. 105–244 substituted “section 1002 of title 20” for “section 1088 of title 20”.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(B), (E), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
@@ -380,7 +392,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–140, title X, §1001, Dec. 19, 2007, 121 Stat. 1748, provided that: “This title \[amending section 2916of this title\] may be cited as the ‘Green Jobs Act of 2007’.”
+Pub. L. 110–140, title X, §1001, Dec. 19, 2007, 121 Stat. 1748, provided that: “This title \[amending section 2916 of this title\] may be cited as the ‘Green Jobs Act of 2007’.”
 
 #### Short Title of 2006 Amendment
 
@@ -444,7 +456,7 @@ Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
 &emsp;(iii) Each member of the Council who is not an officer or employee of the Federal Government shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
 
-&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions under this section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C.App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
+&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions underthis section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 &emsp;(v) The heads of executive agencies shall, to the extent permitted by law, provide the Council with such information as it may require for purposes of carrying out the functions described in this section.
 

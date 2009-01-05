@@ -8,7 +8,7 @@ If any person willfully files a fraudulent information return with respect to pa
 
 In any action brought under subsection (a), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the greater of $5,000 or the sum of—
 
-&emsp;(1) any actual damages sustained by the plaintiff as a proximate result of the filing of the fraudulent information return (including any costs attributable to resolving deficiencies asserted as a result of such filing),
+&emsp;(1) any actual damages sustained by the plaintiff as a proximate result of the filing ofthe fraudulent information return (including any costs attributable to resolving deficiencies asserted as a result of such filing),
 
 &emsp;(2) the costs of the action, and
 

@@ -12,7 +12,7 @@ No other provision of law, enacted before, on, or after April 20, 1983, may be c
 
 Nothing in this section shall be construed to prohibit withholding taxes from any benefit under this subchapter, if such withholding is done pursuant to a request made in accordance with section 3402(p)(1) of the Internal Revenue Code of 1986 by the person entitled to such benefit or such person's representative payee.
 
-(Aug. 14, 1935, ch. 531, title II, §207, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Pub. L. 98–21, title III, §335(a), Apr. 20, 1983, 97 Stat. 130; Pub. L. 105–277, div. J, title IV, §4005(a), Oct. 21, 1998, 112 Stat. 2681–911.)
+(Aug. 14, 1935, ch. 531, title II, §207, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362,1372; Pub. L. 98–21, title III, §335(a), Apr. 20, 1983, 97 Stat. 130; Pub. L. 105–277, div. J, title IV, §4005(a), Oct. 21, 1998, 112 Stat. 2681–911.)
 
 #### References in Text
 

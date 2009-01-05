@@ -2,7 +2,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period for which he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges after March 1, 1954, the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
+&emsp;(1) In determining the period for which the taxpayer has held property received in an exchange, there shall be included the period forwhich he held the property exchanged if, under this chapter, the property has, for the purpose of determining gain or loss from a sale or exchange, the same basis in whole or in part in his hands as the property exchanged, and, in the case of such exchanges after March 1, 1954, the property exchanged at the time of such exchange was a capital asset as defined in section 1221 or property described in section 1231. For purposes of this paragraph—
 
 &emsp;&emsp;(A) an involuntary conversion described in section 1033 shall be considered an exchange of the property converted for the property acquired, and
 
@@ -42,7 +42,7 @@ For purposes of this subtitle—
 
 &emsp;(11) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
 
-&emsp;(12) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized onthe sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
+&emsp;(12) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
 
 &emsp;(13) Except for purposes of sections 1202(a)(2), 1202(c)(2)(A), 1400B(b), and 1400F(b), in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
 

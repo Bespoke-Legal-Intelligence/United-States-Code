@@ -6,37 +6,33 @@ Definition.—In this section, the term “FCRA” means the Federal Credit Refo
 
 (b)
 
-Loan Guarantees by Secretary of Transportation.—
+Loan Guarantees by Administrator.—
 
 &emsp;(1)
 
-When not subject to fcra.—The Secretary of Transportation shall account for payments and disbursements involving obligations guaranteed under this chapter and not subject to FCRA in an account in the Treasury entitled the Federal Ship Financing Fund Liquidating Account (a liquidating account as defined in FCRA).
+When not subject to fcra.—The Administrator shall account for payments and disbursements involving obligations guaranteed under this chapter and not subject to FCRA in an account in the Treasury entitled the Federal Ship Financing Fund Liquidating Account (a liquidating account as defined in FCRA).
 
 &emsp;(2)
 
-When subject to fcra.—The Secretary of Transportation shall account for payments and disbursements involving obligations guaranteed under this chapter and subject to FCRA in a separate account in the Treasury entitled the Federal Ship Financing Guaranteed Loan Financing Account (a financing account as defined in FCRA).
+When subject to fcra.—The Administrator shall account for payments and disbursements involving obligations guaranteed under this chapter and subject to FCRA in a separate account in the Treasury entitled the Federal Ship Financing Guaranteed Loan Financing Account (a financing account as defined in FCRA).
 
 (c)
 
-Loan Guarantees by Secretary of Commerce.—
+Loan Guarantees by Secretary.—
 
 &emsp;(1)
 
-When not subject to fcra.—The Secretary of Commerce shall account for payments and disbursements involving obligations guaranteed under this chapter and not subject to FCRA in a separate account in the Treasury established for this purpose.
+When not subject to fcra.—The Secretary shall account for payments and disbursements involving obligations guaranteed under this chapter and not subject to FCRA in a separate account in the Treasury established for this purpose.
 
 &emsp;(2)
 
-When subject to fcra.—The Secretary of Commerce shall account for payments and disbursements involving obligations guaranteed under this chapter and subject to FCRA in a separate account in the Treasury established for this purpose.
+When subject to fcra.—The Secretary shall account for payments and disbursements involving obligations guaranteed under this chapter and subject to FCRA in a separate account in the Treasury established for this purpose.
 
 (d)
 
-Direct Loans by Secretary of Commerce.—The Secretary of Commerce shall account for payments and disbursements involving direct loans made under this chapter in a separate account in the Treasury established for this purpose.
+Direct Loans by Secretary.—The Secretary shall account for payments and disbursements involving direct loans made under this chapter in a separate account in the Treasury established for this purpose.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, 119 Stat. 3555, 3556.)
-
-#### Amendments Not Shown in Text
-
-<i>This section was derived from sections 1272, 1274(g), and 1280 of the former Appendix to this title, which were amended by Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, 119 Stat. 3555, 3556. For applicability of those amendments to this section, see section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. Sections 1272 and 1274(g) of the former Appendix to this title were amended by striking “Secretary”</i><i>each place it appears and inserting “Secretary or Administrator”, and section 1280 of the former Appendix to this title was amended by inserting “or the Administrator of the Maritime Administration” after “Secretary”.</i>
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1616; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(B), (D), (c)(2), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(7), (9)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 
 Historical and Revision Notes
 
@@ -71,4 +67,14 @@ The Federal Ship Financing Fund which had been created by 46 App. U.S.C. 1272 is
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+
+#### Amendments
+
+2008—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
+
+Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section bysubstituting “Administrator” for “Secretary of Transportation” wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+
+Subsecs. (c), (d). Pub. L. 110–181, §3522(a)(7), struck out “of Commerce” after “Secretary” wherever appearing in headings and text.
+
+2006—Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), which directed the amendment of sections 1272, 1274(g), and 1280 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (b) and Historical and Revision notes above.
 

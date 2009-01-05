@@ -1,24 +1,48 @@
 ### §4110A. Special unemployment study
 
-(a)(1) The Secretary, through the Bureau of Labor Statistics, shall conduct a study every two years of unemployment among each of the following categories of veterans:
+(a)(1) The Secretary, through the Bureau of Labor Statistics, shall conduct an annual study of unemployment among each of the following categories of veterans:
 
-&emsp;(A) Special disabled veterans.
+&emsp;(A) Veterans who were called to active duty while members of the National Guard or a Reserve Component.
 
-&emsp;(B) Veterans of the Vietnam era who served in the Vietnam theater of operations during the Vietnam era.
+&emsp;(B) Veterans who served in combat or in a war zone in the Post 9/11 Global Operations theaters.
 
-&emsp;(C) Veterans who served on active duty during the Vietnam era who did not serve in the Vietnam theater of operations.
+&emsp;(C) Veterans who served on active duty during the Post 9/11 Global Operations period who did not serve in the Post 9/11 Global Operations theaters.
 
-&emsp;(D) Veterans who served on active duty after the Vietnam era.
+&emsp;(D) Veterans of the Vietnam era who served in the Vietnam theater of operations during the Vietnam era.
 
-&emsp;(E) Veterans discharged or released from active duty within four years of the applicable study.
+&emsp;(E) Veterans who served on active duty during the Vietnam era who did not serve in the Vietnam theater of operations.
 
-(2) Within each of the categories of veterans specified in paragraph (1), the Secretary shallinclude a separate category for women who are veterans.
+&emsp;(F) Veterans discharged or released from active duty within four years of the applicable study.
+
+&emsp;(G) Special disabled veterans.
+
+(2) Within each of the categories of veterans specified in paragraph (1), the Secretary shall include a separate category for women who are veterans.
 
 (b) The Secretary shall promptly submit to Congress a report on the results of each study under subsection (a).
 
-(Added Pub. L. 100–323, §9(a), May 20, 1988, 102 Stat. 566, §2010A; renumbered §4110A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 103–446, title VII, §701(c), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–368, title X, §1005(b)(14), Nov. 11, 1998, 112 Stat. 3365.)
+(c) In this section:
+
+&emsp;(1) The term “Post 9/11 Global Operations period” means the period of the Persian Gulf War beginning on September 11, 2001, and ending on the date thereafter prescribed by Presidential proclamation or law.
+
+&emsp;(2) The term “Post 9/11 Global Operations theaters” means Afghanistan, Iraq, or any other theater in which the Global War on Terrorism Expeditionary Medal is awarded for service.
+
+(Added Pub. L. 100–323, §9(a), May 20, 1988, 102 Stat. 566, §2010A; renumbered §4110A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 103–446, title VII, §701(c), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–368, title X, §1005(b)(14), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 110–389, title III, §317, Oct. 10, 2008, 122 Stat. 4167.)
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–389, §317(a), substituted “an annual study” for “a study every two years” in introductory provisions, added subpars. (A) to (G), and struck out former subpars. (A) to (E) which read as follows:
+
+“(A) Special disabled veterans.
+
+“(B) Veterans of the Vietnam era who served in the Vietnam theater of operations during the Vietnam era.
+
+“(C) Veterans who served on active duty during the Vietnam era who did not serve in the Vietnam theater of operations.
+
+“(D) Veterans who served on active duty after the Vietnam era.
+
+“(E) Veterans discharged or released from active duty within four years of the applicable study.”
+
+Subsec. (c). Pub. L. 110–389, §317(b), added subsec. (c).
 
 1998—Subsec. (a)(3). Pub. L. 105–368, §1005(b)(14)(B), redesignated par. (3) as subsec. (b).
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition
 
-In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
+In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of allagencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
 
 #### (b) Duties and functions; reports by Council
 
@@ -20,7 +20,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 &emsp;(A) to minimize projected adverse impacts; and
 
-&emsp;(B) to avoid, wherever possible, government subsidization of production and exports ofinternational commodities without regard to economic conditions in the markets for such commodities.
+&emsp;(B) to avoid, wherever possible, government subsidization of production and exports of international commodities without regard to economic conditions in the markets for such commodities.
 
 #### (c) Reports to Council
 

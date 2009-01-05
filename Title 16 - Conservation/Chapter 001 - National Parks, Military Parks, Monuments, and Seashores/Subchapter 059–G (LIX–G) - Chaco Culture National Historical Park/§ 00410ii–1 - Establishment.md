@@ -82,7 +82,7 @@ Acres
 
 &emsp;&emsp;Indian Creek
 
-100&nbsp;&nbsp;
+100  
 
 &emsp;&emsp;Jaquez
 

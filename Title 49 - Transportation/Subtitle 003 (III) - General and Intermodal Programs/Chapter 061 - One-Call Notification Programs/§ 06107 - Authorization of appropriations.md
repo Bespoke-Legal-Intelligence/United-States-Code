@@ -6,7 +6,7 @@ For Grants to States.—There are authorized to be appropriated to the Secretary
 
 (b)
 
-For Administration.—There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2007 through 2010.
+For Administration.—There are authorized to be appropriated to the Secretary suchsums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2007 through 2010.
 
 (c)
 

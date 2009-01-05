@@ -26,7 +26,7 @@ A grant awarded under subsection (a) may be made only if the applicant provides 
 
 &emsp;(1) The applicant will coordinate activities under the grant with other providers of health care services under this chapter, and under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], including programs promoting the reduction and elimination of risk of HIV/AIDS for youth.
 
-&emsp;(2) The applicant will participate in the statewide coordinated statement of need underpart B (where it has been initiated by the public health agency responsible for administering grants under part B) and in revisions of such statement.
+&emsp;(2) The applicant will participate in the statewide coordinated statement of need under part B (where it has been initiated by the public health agency responsible for administering grants under part B) and in revisions of such statement.
 
 &emsp;(3) The applicant will every 2 years submit to the lead State agency under section 300ff–27(b)(4) of this title audits regarding funds expended in accordance with this subchapter and shall include necessary client-level data to complete unmet need calculations and Statewide coordinated statements of need process.
 
@@ -104,7 +104,7 @@ The Social Security Act, referred to in subsec. (c)(1), is act Aug. 14, 1935, ch
 
 Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by Pub. L. 109–415.
 
-Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18,1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
+Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
 
 Section 300ff–72, act July 1, 1944, ch. 373, title XXVI, §2672, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 618, contained provisions relating to blood banks.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) increasing communities’ capacity to provide culturally and linguistically specific resources and support for victims of domestic violence, dating violence, sexual assault, and stalking crimes and their families;
 
-&emsp;&emsp;(C) strengthening criminal justice interventions, by providing training for law enforcement, prosecution, courts, probation,and correctional facilities on culturally and linguistically specific responses to domestic violence, dating violence, sexual assault, and stalking;
+&emsp;&emsp;(C) strengthening criminal justice interventions, by providing training for law enforcement, prosecution, courts, probation, and correctional facilities on culturally and linguistically specific responses to domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;&emsp;(D) enhancing traditional services to victims of domestic violence, dating violence, sexual assault, and stalking through the leadership of culturally and linguistically specific programs offering services to victims of domestic violence, dating violence, sexual assault, and stalking;
 

@@ -60,7 +60,7 @@ Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that:
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1976’.”
+Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the‘Public Works and Economic Development Act Amendments of 1976’.”
 
 #### Short Title of 1975 Amendments
 
@@ -74,7 +74,7 @@ Pub. L. 93–567, §1, Dec. 31, 1974, 88 Stat. 1845, provided: “That this Act 
 
 #### Short Title of 1971 Amendment
 
-Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: “This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\]may be cited as the ‘Public Works and Economic Development Act Amendments of 1971’.”
+Pub. L. 92–65, title I, §101, Aug. 5, 1971, 85 Stat. 166, provided that: “This title \[enacting section 3123 of this title and amending this section, sections 3135, 3141, 3152, 3161, 3162, 3171, 3188a, and 3191 of this title, and provisions set out as a note under section 3162 of this title\] may be cited as the ‘Public Works and Economic Development Act Amendments of 1971’.”
 
 #### Short Title of 1969 Amendment
 
@@ -276,7 +276,7 @@ Gifts.—The Commission may accept, use, and dispose of gifts or donations of se
 
 “(a)
 
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall be compensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during the time such member is engaged in the performance of the duties of the Commission. The Federal Cochairperson shall becompensated at the annual rate prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code. All members of the Commission who are officers or employees of the United States shall serve without compensation that is in addition to that received for their services as officers or employees of the United States.
 
 “(b)
 
@@ -492,7 +492,7 @@ Sec. 310 \[311\]. (a) The Federal Co-chairman of the Denali Commission shall app
 
 #### Lower Mississippi Delta Development Commission
 
-Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, §6025(c), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, §4(a), title VI, §6025(c), June 18, 2008, 122 Stat. 1664, 1939, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
 
 Prior to amendment by Pub. L. 106–554, Pub. L. 100–460 also incorporated by reference and made a part of that public law the provisions of H.R. 5378, as introduced in the House of Representatives on Sept. 26, 1988, and known as the “Lower Mississippi Delta Development Act”, which contained provisions similar to those in S. 2836.
 

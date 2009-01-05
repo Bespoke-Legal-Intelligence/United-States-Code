@@ -8,7 +8,7 @@ The total amount of benefits that a person shall be entitled to receive annually
 
 The Secretary shall issue regulations—
 
-&emsp;(1) defining the term “person”, which shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of this title, or successor statute;
+&emsp;(1) defining the term “person”, which shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of this title (before the amendment made by section 1703(a) <sup>1</sup> of the Food, Conservation, and Energy Act of 2008), or successor statute;
 
 &emsp;(2) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section; and
 
@@ -22,11 +22,25 @@ No person may receive benefits under this subchapter attributable to lost produc
 
 Each person otherwise eligible for a livestock emergency benefit under this subchapter in 1988 shall be subject to the combined payment and benefits limitation established under section 211(c) of the Disaster Assistance Act of 1988.
 
-(Oct. 31, 1949, ch. 792, title VI, §609, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 930.)
+(Oct. 31, 1949, ch. 792, title VI, §609, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 110–234, title I, §1603(g)(2), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(2), June 18, 2008, 122 Stat. 1664, 1739.)
 
 #### References in Text
 
+Section 1703(a) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1), probably meanssection 1603 of Pub. L. 110–246, because Pub. L. 110–246 does not contain a section 1703 and subsec. (b)(3) of section 1603 of Pub. L. 110–246 amended section 1308 of this title by striking out provisions relating to issuance of regulations defining “person”.
+
 The Disaster Assistance Act of 1988, referred to in subsecs. (c) and (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Section 211(c) of that act is set out as a note under section 1421 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 1421 of this title and Tables.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(1). Pub. L. 110–246, §1603(g)(2), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date
 
@@ -37,4 +51,6 @@ Section effective 15 days after Aug. 11, 1988, with subsecs. (c) and (d) of this
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

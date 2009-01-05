@@ -18,7 +18,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (3) Indian tribes or tribal consortia
 
-&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1) of this section.
+&emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia inaccordance with subsection (c)(1) of this section.
 
 #### (c) Allotments
 
@@ -32,7 +32,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (3) Other States
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subsection (b) of this section and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the food stamp percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subsection (b) of this section and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
 
 #### (d) Grants
 
@@ -94,13 +94,13 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
 
-&emsp;&emsp;&emsp;&emsp;(I) may (but is not required to) include such State child welfare agency as a partner in the collaborative agreement; and
+&emsp;&emsp;&emsp;&emsp;(I) may (but is not required to) include such State child welfare agency as apartner in the collaborative agreement; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of such agencies).
 
 #### (iii) No State agency only partnerships
 
-&emsp;&emsp;&emsp;If a State agency described in clause (i) or (ii) of subparagraph (A) enters into a regional partnership for purposes of this subsection, the State agency may not enter into a collaborative agreement only withthe other State agency described in such clause (i) or (ii).
+&emsp;&emsp;&emsp;If a State agency described in clause (i) or (ii) of subparagraph (A) enters into a regional partnership for purposes of this subsection, the State agency may not enter into a collaborative agreement only with the other State agency described in such clause (i) or (ii).
 
 #### (3) Authority to award grants
 
@@ -190,7 +190,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(iv) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period; and
 
-&emsp;&emsp;(B) after taking such factors into consideration, give greater weight to awardinggrants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.
+&emsp;&emsp;(B) after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.
 
 #### (8) Performance indicators
 
@@ -232,7 +232,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(iii) the progress that has been made in addressing the needs of families with methamphetamine or other substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247.)
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
@@ -240,11 +240,17 @@ Part E, referred to in subsec. (f)(2)(A)(i), (B)(i), is classified to section 67
 
 The Public Health Service Act, referred to in subsec. (f)(2)(A)(ii), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Prior Provisions
 
 A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+2008—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
 
 2006—Pub. L. 109–288, §4(b)(2)(B)(i), inserted “and targeted” after “Discretionary” in section catchline.
 
@@ -261,6 +267,12 @@ Subsec. (c)(2). Pub. L. 109–288, §6(f)(5), substituted “section 623” for 
 Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted “subsection (a)” for “this section”.
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2006 Amendment
 

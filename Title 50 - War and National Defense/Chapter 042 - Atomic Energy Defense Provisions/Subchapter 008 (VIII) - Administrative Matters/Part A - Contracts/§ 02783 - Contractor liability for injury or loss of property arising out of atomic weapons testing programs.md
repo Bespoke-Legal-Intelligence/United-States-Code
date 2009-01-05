@@ -20,7 +20,7 @@ A contractor against whom a civil action or proceeding described in subsection (
 
 #### (d) Actions covered
 
-The provisions of this section shall apply to any action, within the provisions of subsection (b), which is pending on November 5, 1990, or commenced on or after such date. Notwithstanding section 2401(b) of title 28, if a civil action or proceeding to which this section applies is pending on November 5, 1990, and is dismissed because the plaintiff in such action or proceeding did not file an administrative claim as required by section 2672 of that title, the plaintiff in that action or proceeding shall have 30 days from the date of the dismissal or two years from the date upon which the claim accrued, whichever is later, to file an administrative claim, and any claim or subsequent civil action or proceeding shall thereafter be subject to the provisions of section 2401(b) of title 28.
+The provisions of this section shall apply to any action, within the provisions of subsection\(b), which is pending on November 5, 1990, or commenced on or after such date. Notwithstanding section 2401(b) of title 28, if a civil action or proceeding to which this section applies is pending on November 5, 1990, and is dismissed because the plaintiff in such action or proceeding did not file an administrative claim as required by section 2672 of that title, the plaintiff in that action or proceeding shall have 30 days from the date of the dismissal or two years from the date upon which the claim accrued, whichever is later, to file an administrative claim, and any claim or subsequent civil action or proceeding shall thereafter be subject to the provisions of section 2401(b) of title 28.
 
 #### (e) “Contractor” defined
 
@@ -40,9 +40,9 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
+<b>2003</b>—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 
-Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, whichfor purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
+Subsec. (d). Pub. L. 108–136, §3141(k)(4)(D)(ii), substituted “November 5, 1990,” for “the date of the enactment of this Act” in two places in the original, which for purposes of codification had been changed to “November 5, 1990,” thus requiring no change in text.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,16 +1,16 @@
 ### <b>CHAPTER 55—EDUCATION OF THE DEAF</b>
 
-#### SUBCHAPTER I—GALLAUDET UNIVERSITY; NATIONAL TECHNICAL INSTITUTE FOR THE DEAF
+#### SUBCHAPTER I—GALLAUDET UNIVERSITY; NATIONAL TECHNICAL INSTITUTE FOR THE DEAF; OTHER PROGRAMS
 
 #### Part A—Gallaudet University
 
 | Sec. |  |
 | :--- | ---: |
-| [4301\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004301%20-%20Continuation%20of%20Gallaudet%20College%20as%20Gallaudet%20University.md) | Continuation of Gallaudet College as Gallaudet University. |
-| [4302\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004302%20-%20Property%20rights.md) | Property rights. |
-| [4303\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004303%20-%20Board%20of%20Trustees.md) | Board of Trustees. |
-| [4304\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004304%20-%20Elementary%20and%20secondary%20education%20programs.md) | Elementary and secondary education programs. |
-| [4305\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004305%20-%20Agreement%20with%20Gallaudet%20University.md) | Agreement with Gallaudet University. |
+| [4301\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004301%20-%20Continuation%20of%20Gallaudet%20College%20as%20Gallaudet%20University.md) | Continuation of Gallaudet College as Gallaudet University. |
+| [4302\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004302%20-%20Property%20rights.md) | Property rights. |
+| [4303\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004303%20-%20Board%20of%20Trustees.md) | Board of Trustees. |
+| [4304\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004304%20-%20Laurent%20Clerc%20National%20Deaf%20Education%20Center.md) | Laurent Clerc National Deaf Education Center. |
+| [4305\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004305%20-%20Agreement%20with%20Gallaudet%20University.md) | Agreement with Gallaudet University. |
 | 4311, 4321, 4322. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,9 +19,16 @@
 
 |  |  |
 | :--- | ---: |
-| [4331\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20B%20-%20National%20Technical%20Institute%20for%20the%20Deaf/%C2%A7%2004331%20-%20Authority.md) | Authority. |
-| [4332\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20B%20-%20National%20Technical%20Institute%20for%20the%20Deaf/%C2%A7%2004332%20-%20Agreement%20for%20National%20Technical%20Institute%20for%20the%20Deaf.md) | Agreement for National Technical Institute for the Deaf. |
-| 4341 to 4344. Repealed. |  |
+| [4331\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20B%20-%20National%20Technical%20Institute%20for%20the%20Deaf/%C2%A7%2004331%20-%20Authority.md) | Authority. |
+| [4332\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20B%20-%20National%20Technical%20Institute%20for%20the%20Deaf/%C2%A7%2004332%20-%20Agreement%20for%20National%20Technical%20Institute%20for%20the%20Deaf.md) | Agreement for National Technical Institute for the Deaf. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Other Programs
+
+|  |  |
+| :--- | ---: |
+| [4341\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/Part%20C%20-%20Other%20Programs/%C2%A7%2004341%20-%20Cultural%20experiences%20grants.md) | Cultural experiences grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,5 +60,5 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - Gallaudet University; National Technical Institute for the Deaf](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/README.md)
+- [Subchapter 001 (I) - Gallaudet University; National Technical Institute for the Deaf; Other Programs](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf%3B%20Other%20Programs/README.md)
 - [Subchapter 002 (II) - General Provisions](Subchapter%20002%20%28II%29%20-%20General%20Provisions/README.md)

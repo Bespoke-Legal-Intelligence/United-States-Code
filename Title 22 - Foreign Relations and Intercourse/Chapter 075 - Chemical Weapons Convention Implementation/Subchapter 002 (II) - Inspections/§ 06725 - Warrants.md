@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
+The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall beconducted ex parte, unless otherwise requested by the United States Government.
 
 #### (b) Routine inspections
 
@@ -50,7 +50,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 #### (A) Criminal search warrant
 
-&emsp;&emsp;For any challenge inspection conducted on the territory of the United States pursuant to Article IX of the Chemical Weapons Convention, where consent has been withheld, the United States Government shall first obtain from a judge of the United States a criminal search warrant based upon probable cause, supported by oath or affirmation, and describing with particularity the place to be searched and the person or things to be seized.
+&emsp;&emsp;For any challenge inspection conducted on the territory of the United States pursuantto Article IX of the Chemical Weapons Convention, where consent has been withheld, the United States Government shall first obtain from a judge of the United States a criminal search warrant based upon probable cause, supported by oath or affirmation, and describing with particularity the place to be searched and the person or things to be seized.
 
 #### (B) Information provided
 

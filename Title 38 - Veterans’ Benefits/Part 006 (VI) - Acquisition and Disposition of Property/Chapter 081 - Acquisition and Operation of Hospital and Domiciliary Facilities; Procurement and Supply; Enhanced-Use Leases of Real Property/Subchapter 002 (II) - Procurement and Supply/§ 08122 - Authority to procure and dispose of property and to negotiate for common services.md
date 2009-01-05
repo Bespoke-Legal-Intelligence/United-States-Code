@@ -10,7 +10,7 @@
 
 &emsp;(i) the Secretary has determined that the State has provided sufficient assurance that it has the resources (including any resources which are reasonably likely to be available to the State under subchapter III of chapter 81 of this title and section 1741 of this title) necessary to construct and operate a State home nursing or domiciliary care facility; and
 
-&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapter III of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
+&emsp;(ii) the transfer is made subject to the conditions (I) that the property be used by the State for a nursing-home or domiciliary care facility in accordance with the conditions and limitations applicable to State home facilities constructed with assistance under subchapterIII of chapter 81 of this title, and (II) that, if the property is used at any time for any other purpose, all right, title, and interest in and to the property shall revert to the United States.
 
 (C) A transfer of real property may not be made under this paragraph until—
 

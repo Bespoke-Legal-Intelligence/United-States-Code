@@ -12,7 +12,7 @@
 
 #### (3) Waiver
 
-&emsp;The Secretary is authorized to waive for any institution participating in the Quality Assurance Program any regulations dealing with reporting or verification requirements in this subchapter and part C of subchapter I of chapter 34 of title 42 that are addressed by the institution's alternative management system, and may substitute such quality assurance reporting as the Secretary determines necessary to ensure accountability and compliance withthe purposes of the programs under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall not modify or waive any statutory requirements pursuant to this paragraph.
+&emsp;The Secretary is authorized to waive for any institution participating in the Quality Assurance Program any regulations dealing with reporting or verification requirements in this subchapter and part C of subchapter I of chapter 34 of title 42 that are addressed by the institution's alternative management system, and may substitute such quality assurance reporting as the Secretary determines necessary to ensure accountability and compliance with the purposes of the programs under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall not modify or waive any statutory requirements pursuant to this paragraph.
 
 #### (4) Determination
 
@@ -24,17 +24,17 @@
 
 #### (5) Review and evaluation
 
-&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter that will streamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter that will streamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the authorizing committees.
 
 #### (b) Regulatory improvement and streamlining experiments
 
 #### (1) In general
 
-&emsp;The Secretary may continue any experimental sites in existence on October 7, 1998. Any activities approved by the Secretary prior to October 7, 1998, that are inconsistent with this section shall be discontinued not later than June 30, 1999.
+&emsp;The Secretary shall continue the voluntary participation of any experimental sites in existence as of July 1, 2007, unless the Secretary determines that such site's participation has not been successful in carrying out the purposes of this section. Any activities approved by the Secretary prior to such date that have not been successful in carrying out the purposes of this section shall be discontinued not later than June 30, 2009.
 
 #### (2) Report
 
-&emsp;The Secretary shall review and evaluate the experience of institutions participating as experimental sites during the period of 1993 through 1998 under this section (as such section was in effect on the day before October 7, 1998), and shall submit a report based on this review and evaluation to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 6 months after October 7, 1998. Such report shall include—
+&emsp;The Secretary shall review and evaluate the experience of institutions participating as experimental sites and shall, on a biennial basis, submit a report based on the review and evaluation to the authorizing committees. Such report shall include—
 
 &emsp;&emsp;(A) a list of participating institutions and the specific statutory or regulatory waivers granted to each institution;
 
@@ -46,27 +46,17 @@
 
 #### (A) In general
 
-&emsp;&emsp;Upon the submission of the report required by paragraph (2), the Secretary is authorized to select a limited number of additional institutions for voluntary participation as experimental sites to provide recommendations to the Secretary on the impact and effectiveness of proposed regulations or new management initiatives.
+&emsp;&emsp;The Secretary is authorized to periodically select a limited number of additional institutions for voluntary participation as experimental sites to provide recommendations to the Secretary on the impact and effectiveness of proposed regulations or new management initiatives.
 
-#### (B) Consultation
+#### (B) Waivers
 
-&emsp;&emsp;Prior to approving any additional experimental sites, the Secretary shall consult with the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives and shall provide to such Committees—
-
-&emsp;&emsp;&emsp;(i) a list of institutions proposed for participation in the experiment and the specific statutory or regulatory waivers proposed to be granted to each institution;
-
-&emsp;&emsp;&emsp;(ii) a statement of the objectives to be achieved through the experiment; and
-
-&emsp;&emsp;&emsp;(iii) an identification of the period of time over which the experiment is to be conducted.
-
-#### (C) Waivers
-
-&emsp;&emsp;The Secretary is authorized to waive, for any institution participating as an experimental site under subparagraph (A), any requirements in this subchapter and part C of subchapter I of chapter 34 of title 42, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will bias the results of the experiment, except that the Secretary shall not waive any provisions with respect to award rules, grant and loan maximum award amounts, and need analysis requirements.
+&emsp;&emsp;The Secretary is authorized to waive, for any institution participating as an experimental site under subparagraph (A), any requirements in this subchapter and part C of subchapter I of chapter 34 of title 42, including requirements related to the award process and disbursement of student financial aid (such as innovative delivery systems for modular or compressed courses, or other innovative systems), verification of student financial aid application data, entrance and exit interviews, or other management procedures or processes as determined in the negotiated rulemaking process under section 1098a of this title, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will bias the results of the experiment, except that the Secretary shall not waive any provisions with respect to award rules (other than an award rule related to an experiment in modular or compressed schedules), grant and loan maximum award amounts, and need analysis requirements unless the waiver of such provisions is authorized by another provision under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (c) “Current award year” defined
 
 For purposes of this section, the term “current award year” means the award year during which the participating institution indicates the institution's intention to cease participation.
 
-(Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751.)
+(Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751; Pub. L. 110–315, title I, §103(b)(13), title IV, §494, Aug. 14, 2008, 122 Stat. 3090, 3318.)
 
 #### References in Text
 
@@ -74,13 +64,27 @@ This chapter, referred to in subsecs. (a)(5) and (b)(2)(C), was in the original 
 
 #### Amendments
 
+2008—Subsec. (a)(5). Pub. L. 110–315, §103(b)(13), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+
+Subsec. (b)(1). Pub. L. 110–315, §494(1), amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary may continue any experimental sites in existence on October 7, 1998. Any activities approved by the Secretary prior to October 7, 1998, that are inconsistent with this section shall be discontinued not later than June 30, 1999.”
+
+Subsec. (b)(2). Pub. L. 110–315, §494(2), added introductory provisions and struck out former introductory provisions which read as follows: “The Secretary shall review and evaluate the experience of institutions participating as experimental sites during the period of 1993 through 1998 under this section (as such section was in effect on the day before October 7, 1998), and shall submit a report based on this review and evaluation to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 6 months after October 7, 1998. Such report shall include—”.
+
+Subsec. (b)(3)(A). Pub. L. 110–315, §494(3)(A), substituted “The” for “Upon the submission of the report required by paragraph (2), the” and inserted “periodically” after “authorized to”.
+
+Subsec. (b)(3)(B). Pub. L. 110–315, §494(3)(D), inserted “, including requirements related to the award process and disbursement of student financial aid (such as innovative delivery systems for modular or compressed courses, or other innovative systems), verification of student financial aid application data, entrance and exit interviews, or other management procedures or processes as determined in the negotiated rulemaking process under section 1098a of this title” before “, or regulations prescribed”, “(other than an award rule related to an experiment in modular or compressed schedules)” after “award rules”, and “unless the waiver of such provisions is authorized by another provision under this subchapter and part C of subchapter I of chapter 34 of title 42” before period at end.
+
+Pub. L. 110–315, §494(3)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: “Prior to approving any additional experimental sites, the Secretary shall consult with the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives and shall provide to such Committees—
+
+&emsp;“(i) a list of institutions proposed for participation in the experiment and the specific statutory or regulatory waivers proposed to be granted to each institution;
+
+&emsp;“(ii) a statement of the objectives to be achieved through the experiment; and
+
+&emsp;“(iii) an identification of the period of time over which the experiment is to be conducted.”
+
+Subsec. (b)(3)(C). Pub. L. 110–315, §494(3)(C), redesignated subpar. (C) as (B).
+
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
-
-#### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1998 Amendment
 

@@ -1,7 +1,5 @@
 Part D—Offenses and Penalties
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 
@@ -36,4 +34,5 @@ Part D—Offenses and Penalties
 - [&sect; 00862b - Sanctioning for testing positive for controlled substances](%C2%A7%2000862b%20-%20Sanctioning%20for%20testing%20positive%20for%20controlled%20substances.md)
 - [&sect; 00863 - Drug paraphernalia](%C2%A7%2000863%20-%20Drug%20paraphernalia.md)
 - [&sect; 00864 - Anhydrous ammonia](%C2%A7%2000864%20-%20Anhydrous%20ammonia.md)
+- [&sect; 00864a - Grants to reduce production of methamphetamines from anhydrous ammonia](%C2%A7%2000864a%20-%20Grants%20to%20reduce%20production%20of%20methamphetamines%20from%20anhydrous%20ammonia.md)
 - [&sect; 00865 - Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs](%C2%A7%2000865%20-%20Smuggling%20methamphetamine%20or%20methamphetamine%20precursor%20chemicals%20into%20the%20United%20States%20while%20using%20facilitated%20entry%20programs.md)

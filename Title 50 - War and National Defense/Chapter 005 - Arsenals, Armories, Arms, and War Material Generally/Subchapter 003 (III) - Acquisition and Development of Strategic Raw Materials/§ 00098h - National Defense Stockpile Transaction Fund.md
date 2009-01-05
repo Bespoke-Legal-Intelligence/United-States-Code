@@ -54,7 +54,7 @@ If, during a fiscal year, the National Defense Stockpile Manager barters materia
 
 &emsp;(3) not increase or decrease the balance in the fund.
 
-(June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30,1993, 107 Stat. 1962; Pub. L. 105–261, div. C, title XXXIII, §3304, Oct. 17, 1998, 112 Stat. 2264.)
+(June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 105–261, div. C, title XXXIII, §3304, Oct. 17, 1998, 112 Stat. 2264.)
 
 #### Prior Provisions
 
@@ -62,13 +62,13 @@ A prior section 98h, act June 7, 1939, ch. 190, §9, as added July 23, 1946, ch.
 
 #### Amendments
 
-1998—Subsec. (b)(2)(J) to (L). Pub. L. 105–261 added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
+<b>1998</b>—Subsec. (b)(2)(J) to (L). Pub. L. 105–261 added subpar. (J) and redesignated former subpars. (J) and (K) as (K) and (L), respectively.
 
-1993—Subsec. (b)(2)(J), (K). Pub. L. 103–160, §3313(a), added subpars. (J) and (K).
+<b>1993</b>—Subsec. (b)(2)(J), (K). Pub. L. 103–160, §3313(a), added subpars. (J) and (K).
 
 Subsec. (b)(4). Pub. L. 103–160, §3313(b), struck out par. (4) which read as follows: “Notwithstanding paragraph (2), moneys in the fund may not be used to pay salaries and expenses of stockpile employees.”
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–484, §3313(a)(1), inserted “, maintenance, and disposal” after “acquisition” and substituted “section 98e(a)” for “section 98e(a)(1)”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–484, §3313(a)(1), inserted “, maintenance, and disposal” after “acquisition” and substituted “section 98e(a)” for “section 98e(a)(1)”.
 
 Subsec. (b)(2)(B). Pub. L. 102–484, §3313(a)(2), substituted “such acquisition, maintenance, and disposal” for “such acquisition”.
 
@@ -76,15 +76,15 @@ Subsec. (b)(2)(H), (I). Pub. L. 102–484, §3313(b), added subpars. (H) and (I)
 
 Subsec. (b)(4). Pub. L. 102–484, §3313(c), added par. (4).
 
-1991—Subsec. (b)(2)(G). Pub. L. 102–190 added subpar. (G).
+<b>1991</b>—Subsec. (b)(2)(G). Pub. L. 102–190 added subpar. (G).
 
-1990—Subsec. (d). Pub. L. 101–510 added subsec. (d).
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
-1989—Subsec. (b)(2)(F). Pub. L. 101–189 added subpar. (F).
+<b>1989</b>—Subsec. (b)(2)(F). Pub. L. 101–189 added subpar. (F).
 
-1987—Subsec. (b)(2)(F). Pub. L. 100–180 struck out subpar. (F) which related to other reasonable requirements for management of stockpile.
+<b>1987</b>—Subsec. (b)(2)(F). Pub. L. 100–180 struck out subpar. (F) which related to other reasonable requirements for management of stockpile.
 
-1986—Subsec. (b)(1). Pub. L. 99–661, §3203(a)(1), struck out “Such moneys shall remain in the fund until appropriated.” after “covered into the fund.”
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–661, §3203(a)(1), struck out “Such moneys shall remain in the fund until appropriated.” after “covered into the fund.”
 
 Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
@@ -92,7 +92,7 @@ Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and
 
 “(3) Moneys in the fund, when appropriated, shall remain available until expended, unless otherwise provided in appropriation Acts.”
 
-1981—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended, for provisions relating to funds remaining available for a period of five fiscal years.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended, for provisions relating to funds remaining available for a period of five fiscal years.
 
 #### Use of Funds From National Defense Stockpile Transaction Fund To Meet National Defense Stockpile Goals and Specifications in Effect on October 1, 1984
 

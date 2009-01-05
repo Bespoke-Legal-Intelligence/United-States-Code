@@ -22,7 +22,7 @@ Emotional Distress, Mental Suffering, and Psychological Injury.—
 
 &emsp;(1)
 
-In general.—Subsection (a) does not prohibit a provision in a contract or in ticket conditions of carriage with a passenger thatrelieves an owner, master, manager, agent, operator, or crewmember of a vessel from liability for infliction of emotional distress, mental suffering, or psychological injury so long as the provision does not limit such liability when the emotional distress, mental suffering, or psychological injury is—
+In general.—Subsection (a) does not prohibit a provision in a contract or in ticket conditions of carriage with a passenger that relieves an owner, master, manager, agent, operator, or crewmember of a vessel from liability for infliction of emotional distress, mental suffering, or psychological injury so long as the provision does not limit such liability when the emotional distress, mental suffering, or psychological injury is—
 
 &emsp;&emsp;(A) the result of physical injury to the claimant caused by the negligence or fault of a crewmember or the owner, master, manager, agent, or operator;
 

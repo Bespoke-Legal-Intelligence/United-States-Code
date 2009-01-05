@@ -118,7 +118,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (B) Additional funding
 
-&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection\(a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (C) Funding for education, training, or applied research or studies
 
@@ -170,7 +170,7 @@ Subsec. (e)(1). Pub. L. 108–265, §125(c)(1), substituted “2009” for “20
 
 Subsec. (e)(2)(A). Pub. L. 108–447 inserted “and” after “2005”.
 
-Pub. L. 108–265, §125(c)(2), substituted “provide to the Secretary” for “provide to the Secretary $147,000 forfiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
+Pub. L. 108–265, §125(c)(2), substituted “provide to the Secretary” for “provide to the Secretary $147,000 for fiscal year 1995, $2,000,000 for each of fiscal years 1996 through 1998, and” and “2004 and $4,000,000 for fiscal year 2005” for “1999 and”.
 
 Subsecs. (f), (g). Pub. L. 108–265, §126(a), added subsecs. (f) and (g).
 
@@ -196,7 +196,7 @@ Subsec. (e). Pub. L. 103–448, §120(c)(2), added subsec. (e) and struck out fo
 
 &emsp;“(2) $1,000,000 for the fiscal year 1990 and $4,000,000 for each of the fiscal years 1991, 1992, 1993, and 1994 for purposes of carrying out subsection (a)(2) of this section.”
 
-1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University of Mississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
+1992—Subsec. (a)(2). Pub. L. 102–337 inserted “to provide financial and other assistance to the University ofMississippi, in cooperation with the University of Southern Mississippi,” after “is authorized”.
 
 #### Effective Date of 1998 Amendment
 

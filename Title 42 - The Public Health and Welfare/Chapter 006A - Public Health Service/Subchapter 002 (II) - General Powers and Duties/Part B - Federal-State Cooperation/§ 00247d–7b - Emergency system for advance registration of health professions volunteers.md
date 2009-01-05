@@ -50,7 +50,7 @@ This section may not be construed as authorizing the Secretary to issue requirem
 
 #### (k) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $2,000,000for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011.
+For the purpose of carrying out this section, there are authorized to be appropriated $2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011.
 
 (July 1, 1944, ch. 373, title III, §319I, as added Pub. L. 107–188, title I, §107, June 12, 2002, 116 Stat. 608; amended Pub. L. 109–417, title III, §303(b), Dec. 19, 2006, 120 Stat. 2857.)
 

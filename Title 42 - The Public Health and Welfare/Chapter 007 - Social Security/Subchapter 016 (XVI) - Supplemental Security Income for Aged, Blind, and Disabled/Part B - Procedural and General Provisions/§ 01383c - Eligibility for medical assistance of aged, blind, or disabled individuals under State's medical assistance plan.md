@@ -46,7 +46,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 &emsp;(A) shall be deemed to be a recipient of supplemental security income benefits under this subchapter if such person received such a benefit for the month before the month in which such person began to receive a benefit described in paragraph (1)(A), and
 
-&emsp;(B) shall be deemed to be a recipient of State supplementary payments of the type referredto in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) if such person received such a payment for the month before the month in which such person began to receive a benefit described in paragraph (1)(A),
+&emsp;(B) shall be deemed to be a recipient of State supplementary payments of the type referred to in section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66) if such person received such a payment for the month before the month in which such person began to receive a benefit described in paragraph (1)(A),
 
 > for so long as such person (i) would be eligible for such supplemental security income benefits, or such State supplementary payments (or payments of the type described in section 212(a) of Public Law 93–66), in the absence of benefits described in paragraph (1)(A), and (ii) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 104–121 applicable to any individual who applies for, or 
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) of Pub. L. 103–296, set out as a note under section 1382 of this title.
+Amendment by section 201(b)(3)(D) of Pub. L. 103–296 applicable with respect to supplemental security income benefits under this subchapter by reason of disability which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary ofHealth and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(b)(3)(E)(i) of Pub. L. 103–296, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -106,7 +106,7 @@ Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by su
 
 Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
-Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month whichbegins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 12202(c) of Pub. L. 99–272 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not have the effect of deeming an individual eligible for medical assistance for any month which begins less than two months after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 #### Effective Date
 

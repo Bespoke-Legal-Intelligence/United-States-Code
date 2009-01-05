@@ -2,7 +2,7 @@
 
 (a)
 
-Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject to subsection (f), the Secretary of a military department may have proceedings brought in the name of the United States, in a court of properjurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
+Acquisition of Land by Condemnation for Certain Military Purposes.—(1) Subject to subsection (f), the Secretary of a military department may have proceedings brought in the name of the United States, in a court of proper jurisdiction, to acquire by condemnation any interest in land, including temporary use, needed for—
 
 &emsp;(A) the site, construction, or operation of fortifications, coast defenses, or military training camps;
 
@@ -76,7 +76,13 @@ Advance Notice of Use of Condemnation.—(1) Before commencing any legal proceed
 
 Exception to Advance Notice Requirement.—If the Secretary of a military department determines that the use of condemnation, eminent domain, or seizure to acquire an interest in land is required under subsection (a) to satisfy a requirement vital to national security, and that any delay would be detrimental to national security or the protection of health, safety, or the environment, the Secretary may have proceedings brought in the name of the United States to acquire the land in advance of submitting the report required by subsection (f)(1)(B). However, the Secretary shall submit the report not later than seven days after commencement of the legal proceedings with respect to the land.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474.)
+(h)
+
+Land Acquisition Options in Advance of Military Construction Projects.—(1) The Secretary of a military department may acquire an option on a parcel of real property before or after its acquisition is authorized by law, if the Secretary considers it suitable and likely to be needed for a military project of the military department under the jurisdiction of the Secretary.
+
+(2) As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, §33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, §2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, §2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, §2822(a), Jan. 28, 2008, 122 Stat. 544.)
 
 Historical and Revision Notes<br>1956
 
@@ -133,6 +139,8 @@ The text of section 2672a of this title, which was transferred to this section, 
 The text of section 2676(b) of this title, which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, §2821(a)(10), (11), was based on Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170.
 
 #### Amendments
+
+2008—Subsec. (h). Pub. L. 110–181 added subsec. (h).
 
 2006—Pub. L. 109–163, §2821(a)(1)(A), substituted “Land acquisition authorities” for “Acquisition” in section catchline.
 

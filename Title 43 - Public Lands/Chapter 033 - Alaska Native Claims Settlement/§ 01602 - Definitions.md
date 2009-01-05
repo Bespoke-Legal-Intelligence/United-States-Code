@@ -54,7 +54,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) operated for the benefit of shareholders, Natives, and descendants of Natives, in accordance with section 1629e of this title and the laws of the State of Alaska.
 
-(Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789; Pub. L. 106–194, §3, May 2, 2000, 114 Stat. 243.)
+(Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat.2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789; Pub. L. 106–194, §3, May 2, 2000, 114 Stat. 243.)
 
 #### References in Text
 

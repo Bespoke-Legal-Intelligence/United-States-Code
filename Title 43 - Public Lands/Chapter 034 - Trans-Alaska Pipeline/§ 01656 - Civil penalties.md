@@ -20,7 +20,7 @@ In addition to the person causing or permitting the discharge, the owner or owne
 
 (3) The Secretary may reduce or waive the penalty imposed under this section if the discharge was solely caused by an act of war, act of God, or third party action beyond the control of the persons liable under this section.
 
-(4) No civil penalty assessed by the Secretary pursuant to this section shall be in addition to a penalty assessed pursuant to section 1321(b) of title 33.
+(4) No civil penalty assessed by the Secretary pursuant to this section shall be in addition toa penalty assessed pursuant to section 1321(b) of title 33.
 
 #### (d) Procedures
 

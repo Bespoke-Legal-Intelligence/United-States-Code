@@ -269,7 +269,7 @@ nc
 
 #### (2) Multiple procedures
 
-&emsp;A good that is produced in the territory of one or more of the CAFTA–DR countries by 1or more producers is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
+&emsp;A good that is produced in the territory of one or more of the CAFTA–DR countries by 1 or more producers is an originating good if the good satisfies the requirements of subsection (b) and all other applicable requirements of this section.
 
 #### (f) De minimis amounts of nonoriginating materials
 
@@ -519,7 +519,7 @@ In this section:
 
 &emsp;&emsp;(G) catalysts and solvents; and
 
-&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which in the production of the good can reasonably be demonstrated to be a part of that production.
+&emsp;&emsp;(H) any other goods that are not incorporated into the good but the use of which inthe production of the good can reasonably be demonstrated to be a part of that production.
 
 #### (9) Material
 
@@ -617,13 +617,13 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
+&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex3.25 of the Agreement may be modified as provided for in this paragraph.
 
 #### (B) Definitions
 
 &emsp;&emsp;In this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “interested entity” means the government of a CAFTA–DR country other than the United States, a potentialor actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
+&emsp;&emsp;&emsp;(i) The term “interested entity” means the government of a CAFTA–DR country other than the United States, a potential or actual purchaser of a textile or apparel good, or a potential or actual supplier of a textile or apparel good.
 
 &emsp;&emsp;&emsp;(ii) All references to “day” and “days” exclude Saturdays, Sundays, and legal holidays.
 
@@ -691,9 +691,9 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–53, Aug. 2,2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted thissubchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (<i>o</i>)(1)(B), was in the original “this title” meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 

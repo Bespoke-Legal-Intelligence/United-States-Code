@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Of the amount appropriated under subparagraph (A) for a fiscal year—
 
-&emsp;&emsp;&emsp;(i) not more than 63.75 percent shall be available to provide financial assistance under subpart A of part I of division B of subchapter I of this chapter;
+&emsp;&emsp;&emsp;(i) not more than 63.75 percent shall be available to provide financial assistanceunder subpart A of part I of division B of subchapter I of this chapter;
 
 &emsp;&emsp;&emsp;(ii) not more than 11.25 percent shall be available to provide financial assistance under subpart B of part I of such division; and
 

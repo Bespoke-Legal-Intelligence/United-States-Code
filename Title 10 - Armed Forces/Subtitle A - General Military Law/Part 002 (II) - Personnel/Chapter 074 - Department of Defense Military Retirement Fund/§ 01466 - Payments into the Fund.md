@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) the level percentage of basic pay determined using all the methods and assumptions approved for the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c)(1)(A) of this title (except that any statutory change in the military retirement and survivor benefit systems that is effective after the date of that valuation and on or before the first day of the current fiscal year shall be used in such determination); and
 
-&emsp;&emsp;(B) the total amount of basic pay accrued for that month for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title <sup>1</sup>
+&emsp;&emsp;(B) the total amount of basic pay accrued for that month for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.
 
 &emsp;(2) The product of—
 
@@ -30,13 +30,13 @@
 
 (3) The Secretary of Defense shall promptly certify the amount determined under paragraph (2) each year to the Secretary of the Treasury.
 
-(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by thepayments made to the Fund for that fiscal year under subsections (a) and (b).
+(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by the payments made to the Fund for that fiscal year under subsections (a) and (b).
 
 (2) Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.
 
-(3) The Department of Defense Retirement Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
+(3) The Department of Defense Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, titleVI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, §906(c)(3), title X, §1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322.)
 
 #### References in Text
 
@@ -50,7 +50,11 @@ Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is
 
 #### Amendments
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–364, §591(b)(1), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
+2008—Subsec. (a)(1)(B). Pub. L. 110–181, §1063(c)(4), amended Pub. L. 109–364, §591(b)(1). See 2006 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 110–181, §906(c)(3), struck out “Retirement” before “Board of Actuaries”.
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–364, §591(b)(1), as amended by Pub. L. 110–181, §1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
 
 Subsec. (a)(2)(B). Pub. L. 109–364, §591(b)(2), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
@@ -77,6 +81,10 @@ Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[§9131\], amended sub
 > Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
 Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[title IX, §9103(3)\], as amended by Pub. L. 100–26, §4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 #### Effective Date of 2006 Amendment
 
@@ -105,6 +113,4 @@ Amendment by section 101(c) \[title IX, §9103(3)\] of Pub. L. 99–500 and Pub.
 #### Effective Date
 
 Section effective Oct. 1, 1984, see section 925(b)(2) of Pub. L. 98–94, set out as a note under section 1463 of this title.
-
-<i><sup>1</sup></i><i> So in original. There probably should be a period.</i>
 

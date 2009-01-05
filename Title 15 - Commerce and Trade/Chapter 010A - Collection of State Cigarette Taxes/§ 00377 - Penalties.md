@@ -1,6 +1,6 @@
 ### §377. Penalties
 
-Whoever violates any provision of this chapter shall be guilty of a misdemeanor and shall befined not more than $1,000, or imprisoned not more than 6 months, or both.
+Whoever violates any provision of this chapter shall be guilty of a misdemeanor and shall be fined not more than $1,000, or imprisoned not more than 6 months, or both.
 
 (Oct. 19, 1949, ch. 699, §3, 63 Stat. 885; Aug. 9, 1955, ch. 695, §1, 69 Stat. 628.)
 

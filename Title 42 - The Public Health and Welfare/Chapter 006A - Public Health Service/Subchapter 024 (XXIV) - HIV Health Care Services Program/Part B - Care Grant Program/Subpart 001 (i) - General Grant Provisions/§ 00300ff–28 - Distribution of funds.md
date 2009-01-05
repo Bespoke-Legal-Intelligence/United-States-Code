@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) a number equal to the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total number of living cases of HIV/AIDS that are within areas in such State that are eligible areas under subpart I of part A for the fiscal year involved, which individual number for an area is the number that applies under section 300ff–11 of this title for the area for such fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(I) the total number of living cases of HIV/AIDS that are within areas in such State that are eligible areas under subpart I of part A for the fiscal year involved, which individual number for an area is the number that applies undersection 300ff–11 of this title for the area for such fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total number of such cases that are within areas in such State that are transitional areas under section 300ff–19 of this title for such fiscal year, which individual number for an area is the number that applies under such section for the fiscal year.
 
@@ -108,7 +108,7 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2010 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2009.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having anylegal effect for fiscal year 2010 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2009.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in agrant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2009, if code-based reporting (within the meaning of subparagraph (D)(vi)) applies in a State as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to paragraph (1) for the State may not for the fiscal year involved exceed by more than 5 percent the amount of the grant pursuant to this paragraph for the State for the preceding fiscal year, except that the limitation under this clause may not result in a grant pursuant to paragraph (1) for a fiscal year that is less than the minimum amount that applies to the State under such paragraph for such fiscal year.
 
 #### (ii) Use of amounts involved
 
@@ -178,7 +178,7 @@
 
 #### (ii) Fiscal year 2007
 
-&emsp;&emsp;&emsp;For purposes of clause (i) as applied for fiscal year 2007, the references in suchclause to subparagraph (G) <sup>3</sup> are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.
+&emsp;&emsp;&emsp;For purposes of clause (i) as applied for fiscal year 2007, the references in such clause to subparagraph (G) <sup>3</sup> are deemed to be references to subparagraph (I) as such subparagraph was in effect for fiscal year 2006.
 
 #### (iii) Fiscal years 2008 and 2009
 
@@ -254,7 +254,7 @@
 
 #### (4) Limitation on use of funds
 
-&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded undersection 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
+&emsp;Except as provided in paragraph (5), a State may not use more than a total of 15 percent of amounts received under a grant awarded under section 300ff–21 of this title for the purposes described in paragraphs (2) and (3).
 
 #### (5) Exception
 
@@ -332,7 +332,7 @@ Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (E). Text
 
 Subsec. (a)(2)(F). Pub. L. 109–415, §203(b)(4), redesignated subpar. (I) as (F).
 
-Pub. L. 109–415, §203(b)(2), struck out heading and text of supar. (F). Text read as follows: “For purposes ofsubparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
+Pub. L. 109–415, §203(b)(2), struck out heading and text of supar. (F). Text read as follows: “For purposes of subparagraph (D), the cost index for Puerto Rico, the Virgin Islands, and Guam shall be 1.0.”
 
 Subsec. (a)(2)(F)(i). Pub. L. 109–415, §203(c)(1), which directed amendment of subsec. (a)(2)(G)(i) by substituting “section 300ff–31b of this title” for “section 300ff–77 of this title” in introductory provisions, substituting a semicolon for a period at end of subcl. (II), and adding concluding provisions, was executed by making the amendment to subsec. (a)(2)(F)(i), to reflect the probable intent of Congress.
 
@@ -394,7 +394,7 @@ Subsec. (a)(1)(B). Pub. L. 106–345, §206(d), inserted “the greater of $50,0
 
 Subsec. (a)(2)(A)(i). Pub. L. 106–345, §206(c)(2)(A), substituted “subparagraphs (H) and (I)” for “subparagraph (H)”.
 
-Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
+Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon “, except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 andsubsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
 
 Subsec. (a)(2)(E) to (G). Pub. L. 106–345, §206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
 

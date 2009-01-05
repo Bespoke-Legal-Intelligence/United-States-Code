@@ -56,7 +56,7 @@ In carrying out an Even Start program under this subpart, a recipient of funds u
 
 #### (4) Technical assistance and training
 
-&emsp;Assistance under paragraph (1) shall be in the form of technical assistance and training, provided by a State educational agency through a grant, contract, or cooperative agreement with an entity that has experience in offering high-quality training and technical assistance to family literacy providers.
+&emsp;Assistance under paragraph (1) shall be in the form of technical assistance and training, provided by a State educational agencythrough a grant, contract, or cooperative agreement with an entity that has experience in offering high-quality training and technical assistance to family literacy providers.
 
 (Pub. L. 89–10, title I, §1234, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1559.)
 

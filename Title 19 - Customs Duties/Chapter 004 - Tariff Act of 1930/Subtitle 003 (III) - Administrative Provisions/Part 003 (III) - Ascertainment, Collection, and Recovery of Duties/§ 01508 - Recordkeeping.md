@@ -166,53 +166,43 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DR certification of origin for at least 5 years after the date on which the certification was issued.
 
-#### (h) Penalties
+#### (h) Certifications of origin for goods exported under the United States-Peru Trade Promotion Agreement
 
-Any person who fails to retain records and supporting documents required by subsection (f) or (g) of this section or the regulations issued to implement either such subsection shall be liable for the greater of—
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exportedgood under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good in the form in which it was exported.
+
+#### (B) PTPA certification of origin
+
+&emsp;&emsp;The term “PTPA certification of origin” means the certification established under article 4.15 of the United States-Peru Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to Peru
+
+&emsp;Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+
+#### (3) Retention period
+
+&emsp;The person who issues a PTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+
+#### (i) Penalties
+
+Any person who fails to retain records and supporting documents required by subsection (f), (g), or (h) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
 
 &emsp;(1) a civil penalty not to exceed $10,000; or
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
 (June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476.)
-
-#### Amendment of Subsections (h) and (i)
-
-<i>Pub. L. 110–138, title I, §107(a), title II, §207, Dec. 14, 2007, 121 Stat. 1459, 1476, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force, this section is amended as follows:</i>
-
-<i>(1) by redesignating subsection (h) as subsection (i);</i>
-
-<i>(2) by inserting after subsection (g) the following new subsection:</i>
-
-#### <i>“(h) Certifications of origin for goods exported under the United States-Peru Trade Promotion Agreement</i>
-
-#### <i>“(1) Definitions</i>
-
-&emsp;<i>“In this subsection:</i>
-
-#### <i>“(A) Records and supporting documents</i>
-
-&emsp;&emsp;<i>“The term ‘records and supporting documents’ means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) the purchase, cost, and value of, and payment for, the good;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) the production of the good in the form in which it was exported.</i>
-
-#### <i>“(B) PTPA certification of origin</i>
-
-&emsp;&emsp;<i>“The term ‘PTPA certification of origin’ means the certification established under article 4.15 of the United States-Peru Trade Promotion Agreement that a good qualifies as an originating good under such Agreement.</i>
-
-#### <i>“(2) Exports to Peru</i>
-
-&emsp;<i>“Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).</i>
-
-#### <i>“(3) Retention period</i>
-
-&emsp;<i>“The person who issues a PTPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.”; and</i>
-
-<i>(3) in subsection (i), as so redesignated, by substituting “(f), (g), or (h)” for “(f) or (g)” and “any such subsection” for “either such subsection”.</i>
 
 #### Amendment of Section
 
@@ -222,15 +212,15 @@ Any person who fails to retain records and supporting documents required by subs
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
-#### References in Text
-
-The customs laws, referred to in subsecs. (e)(1)(B) and (h)(2), are classified generally to this title.
-
 #### Prior Provisions
 
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+2007—Subsec. (h). Pub. L. 110–138, §§107(c), 207(2), temporarily added subsec. (h). Former subsec. (h) redesignated (i). See Effective and Termination Dates of 2007 Amendment note below.
+
+Subsec. (i). Pub. L. 110–138, §§107(c), 207(1), (3), temporarily redesignated subsec. (h) as (i) and, in introductory provisions, substituted “(f), (g), or (h)” for “(f) or (g)” and “any such subsection” for “either such subsection”. See Effective and Termination Dates of 2007 Amendment note below.
 
 2005—Subsec. (g). Pub. L. 109–53, §§107(d), 208(2), temporarily added subsec. (g). Former subsec. (g) redesignated (h). See Effective and Termination Dates of 2005 Amendment note below.
 
@@ -262,7 +252,7 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 #### Effective and Termination Dates of 2007 Amendment
 
-Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 110–138 effective on the date the United States-Peru Trade Promotion Agreement enters into force (Feb. 1, 2009) and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 

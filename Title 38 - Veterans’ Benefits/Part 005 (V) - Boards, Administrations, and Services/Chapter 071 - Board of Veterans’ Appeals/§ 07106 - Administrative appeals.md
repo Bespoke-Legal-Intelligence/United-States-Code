@@ -6,7 +6,7 @@ Application for review on appeal may be made within the one-year period prescrib
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in subsec. (c)(2) of former section 4005 ofthis title, prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
+Provisions similar to those comprising this section were contained in subsec. (c)(2) of former section 4005 of this title, prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
 #### Amendments
 

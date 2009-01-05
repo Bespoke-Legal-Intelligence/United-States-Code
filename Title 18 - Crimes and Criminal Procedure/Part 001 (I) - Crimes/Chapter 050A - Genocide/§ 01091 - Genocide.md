@@ -46,7 +46,7 @@ Required Circumstance for Offenses.—The circumstance referred to in subsection
 
 (e)
 
-Nonapplicability of Certain Limitations.—Notwithstanding section 3282 of this title, in the case of an offense under subsection (a)(1), an indictment may be found, or information instituted, at any time without limitation.
+Nonapplicability of Certain Limitations.—Notwithstanding section 3282 of thistitle, in the case of an offense under subsection (a)(1), an indictment may be found, or information instituted, at any time without limitation.
 
 (Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, §2, Dec. 21, 2007, 121 Stat. 1821.)
 

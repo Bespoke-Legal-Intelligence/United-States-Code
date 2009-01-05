@@ -30,7 +30,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (1) Applicability of duties of Inspector General of executive branch establishment
 
-&emsp;The Inspector General shall carry out the same duties and responsibilities with respect to the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4), under the same terms and conditions which apply under such section.
+&emsp;The Inspector General shall carry out the same duties and responsibilities with respectto the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4), under the same terms and conditions which apply under such section.
 
 #### (2) Semiannual reports
 
@@ -48,7 +48,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (C) Prohibiting retaliation
 
-&emsp;&emsp;An employee or member of the Capitol Police who has authority to take, direct othersto take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee or member as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;&emsp;An employee or member of the Capitol Police who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee or member as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
 #### (4) Independence in carrying out duties
 
@@ -80,7 +80,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (3) Equipment and supplies
 
-&emsp;The Chief of the Capitol Police shall provide the Office with appropriate and adequate office space, together with such equipment, supplies, and communications facilities and services as determined by the Inspector General to be necessary for the operation of the Office, and shall provide necessary maintenance services for such office space and the equipment and facilities located therein.
+&emsp;The Chief of the Capitol Police shall provide the Office with appropriate and adequate office space, together with such equipment, supplies, and communications facilities and services as determined by the Inspector General tobe necessary for the operation of the Office, and shall provide necessary maintenance services for such office space and the equipment and facilities located therein.
 
 #### (e) Transfer of functions
 

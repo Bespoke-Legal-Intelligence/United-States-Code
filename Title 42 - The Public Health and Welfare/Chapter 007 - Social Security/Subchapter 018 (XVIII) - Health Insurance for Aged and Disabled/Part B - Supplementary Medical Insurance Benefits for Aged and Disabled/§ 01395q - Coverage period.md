@@ -14,7 +14,7 @@ The period during which an individual is entitled to benefits under the insuranc
 
 &emsp;(D) in the case of an individual who enrolls pursuant to such subsection (d) more than one month following the month in which he satisfies such paragraph, the first day of the third month following the month in which he so enrolls, or
 
-&emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p of this title, the July 1 following the month in which he so enrolls; or
+&emsp;(E) in the case of an individual who enrolls pursuant to subsection (e) of section 1395p ofthis title, the July 1 following the month in which he so enrolls; or
 
 &emsp;(3)(A) in the case of an individual who is deemed to have enrolled on or before the last day of the third month of his initial enrollment period, the first day of the month in which he first meets the applicable requirements of section 1395<i>o</i> of this title or July 1, 1973, whichever is later, or
 
@@ -70,7 +70,7 @@ Part A of this subchapter, referred to in subsec. (c), is classified to section 
 
 “(1) in the first month of the special enrollment period, the coverage period shall begin on the first day of that month, or
 
-“(2) in a month after the first month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.”
+“(2) in a month after the first month of the special enrollment period, the coverage period shall begin onthe first day of the month following the month in which the individual so enrolls.”
 
 1986—Subsec. (b). Pub. L. 99–509 substituted “month following the month” for “calendar quarter following the calendar quarter” in second and sixth sentences.
 
@@ -160,7 +160,7 @@ Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: “In the 
 
 &emsp;“(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
-> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
+> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967,may, notwithstanding section 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[subsec. (a)(2)(E) of this section\] and 1837(b)(2) of such Act \[section 1395p(b)(2) of this title\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[section 1395p(e) of this title\] and a second enrollment under such part.”
 
 #### Extension of 1967 General Enrollment Period Through March 31, 1968
 

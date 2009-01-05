@@ -96,7 +96,7 @@ Subsecs. (e) to (g). Pub. L. 100–198, §12(a)(2), redesignated subsecs. (f) an
 
 &emsp;“(2) The total amount of the loans for which commitments were made during the fiscal year through the end of such preceding month.
 
-&emsp;“(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments or guarantees, be made during (A) the month in whichthe report is required to be submitted, and (B) the succeeding months of the fiscal year.”
+&emsp;“(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments or guarantees, be made during (A) the month in which the report is required to be submitted, and (B) the succeeding months of the fiscal year.”
 
 #### Effective Date of 1987 Amendment
 

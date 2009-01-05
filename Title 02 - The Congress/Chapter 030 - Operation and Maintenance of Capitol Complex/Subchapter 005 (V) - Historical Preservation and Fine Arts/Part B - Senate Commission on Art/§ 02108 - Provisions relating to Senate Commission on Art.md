@@ -70,7 +70,7 @@
 
 #### (5) Terms for additional advisory board members
 
-&emsp;Members appointed to the other advisory boards created under paragraph (2) shall servefor terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
+&emsp;Members appointed to the other advisory boards created under paragraph (2) shall serve for terms as stated in their appointment, but no longer than a term of 4 years, except that any member may be reappointed upon the expiration of their term.
 
 #### (6) Regulations
 

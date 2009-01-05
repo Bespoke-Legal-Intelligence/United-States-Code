@@ -84,15 +84,31 @@ Dual Status Requirement.—(1) Funds appropriated for the Department of Defense 
 
 (f)
 
-Deferral of Mandatory Separation.—The Secretary of the Army shall implement personnel policies so as to allow a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date for officers, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in section 10218(c) of this title).
+Deferral of Mandatory Separation.—The Secretary of the Army and the Secretary of the Air Force shall implement personnel policies so as to allow a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date for officers, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in section 10218(c) of this title).
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194.)
+(g)
+
+Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability.—(1) Notwithstanding subsection (d) of this section or subsections (a)(3) and (b) of section 10218 of this title, if a military technician (dual status) loses such dual status as the result of a combat-related disability (as defined in section 1413a of this title), the person may be retained as a non-dual status technician so long as—
+
+&emsp;(A) the combat-related disability does not prevent the person from performing the non-dual status functions or position; and
+
+&emsp;(B) the person, while a non-dual status technician, is not disqualified from performing the non-dual status functions or position because of performance, medical, or other reasons.
+
+(2) A person so retained shall be removed not later than 30 days after becoming eligible for an unreduced annuity and becoming 60 years of age.
+
+(3) Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
+
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439.)
 
 #### References in Text
 
 Section 115(c) of this title, referred to in subsecs. (b)(1) and (c)(1), (2)(A), was redesignated section 115(d) of this title by Pub. L. 108–375, div. A, title IV, §416(a)(3), Oct. 28, 2004, 118 Stat. 1866.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–417 inserted “and the Secretary of the Air Force” after “Secretary of the Army”.
+
+Subsec. (g). Pub. L. 110–181 added subsec. (g).
 
 2006—Subsec. (a)(1)(C). Pub. L. 109–364, §525(b)(1), substituted “organizing, administering, instructing, or” for “administration and”.
 

@@ -56,7 +56,7 @@ Notwithstanding subsections (a)(4) and (c)(3) of this section, the Attorney Gene
 
 &emsp;(1) Both the country to which the controlled substance is exported from the United States (referred to in this subsection as the “first country”) and the country to which the controlled substance is exported from the first country (referred to in this subsection as the “second country”) are parties to the Single Convention on Narcotic Drugs, 1961, and the Convention on Psychotropic Substances, 1971.
 
-&emsp;(2) The first country and the second country have each instituted and maintain, in conformity with such Conventions, a system of controls of imports of controlled substances which the Attorney General deems adequate.
+&emsp;(2) The first country and the second country have each instituted and maintain, in conformity with such Conventions, a system ofcontrols of imports of controlled substances which the Attorney General deems adequate.
 
 &emsp;(3) With respect to the first country, the controlled substance is consigned to a holder of such permits or licenses as may be required under the laws of such country, and a permit or license to import the controlled substance has been issued by the country.
 

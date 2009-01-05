@@ -8,7 +8,7 @@
 
 (d) Each marshal shall be appointed for a term of four years. A marshal shall, unless that marshal has resigned or been removed by the President, continue to perform the duties of that office after the end of that 4-year term until a successor is appointed and qualifies.
 
-(e) The Director shall designate places within a judicial district for the official station and offices of each marshal. Each marshal shall residewithin the district for which such marshal is appointed, except that—
+(e) The Director shall designate places within a judicial district for the official station and offices of each marshal. Each marshal shall reside within the district for which such marshal is appointed, except that—
 
 &emsp;(1) the marshal for the District of Columbia, for the Superior Court of the District of Columbia, and for the Southern District of New York may reside within 20 miles of the district for which the marshal is appointed; and
 

@@ -24,7 +24,7 @@
 
 #### (3) Refund of tax
 
-&emsp;In any case where the tax would not be collectible by virtue of paragraph (1), but suchtax has been paid, the Secretary shall refund such tax.
+&emsp;In any case where the tax would not be collectible by virtue of paragraph (1), but such tax has been paid, the Secretary shall refund such tax.
 
 #### (4) Limitations
 

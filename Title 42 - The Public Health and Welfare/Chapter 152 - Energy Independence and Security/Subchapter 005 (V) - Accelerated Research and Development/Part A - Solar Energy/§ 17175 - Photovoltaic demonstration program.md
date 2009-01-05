@@ -60,7 +60,7 @@ A program operated by a State with funding under this section shall provide comp
 
 #### (g) Unexpended funds
 
-If a State fails to expend any funds received under this section within 3 years of receipt, such remaining funds shall be returned to the Treasury.
+If a State fails to expend any funds received under this section within 3 years of receipt, suchremaining funds shall be returned to the Treasury.
 
 #### (h) Reports
 

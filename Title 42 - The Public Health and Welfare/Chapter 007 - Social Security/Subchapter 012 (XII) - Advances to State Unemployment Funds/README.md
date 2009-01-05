@@ -1,5 +1,7 @@
 ### SUBCHAPTER XII—ADVANCES TO STATE UNEMPLOYMENT FUNDS
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

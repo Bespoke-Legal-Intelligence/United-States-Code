@@ -2,7 +2,7 @@
 
 #### (a) General appropriations
 
-There are authorized to be appropriated to the Secretary of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2012.
+There are authorized to be appropriated to the Secretary of Commerce for apportionment tocarry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2012.
 
 #### (b) Additional appropriations
 
@@ -64,7 +64,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II,§211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624.)
 
 #### References in Text
 

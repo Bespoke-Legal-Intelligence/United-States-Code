@@ -52,7 +52,7 @@
 
 > The amount to be deposited under clause (i) shall include interest, computed at the rate of 6 percent a year.
 
-(3) An annuity which is reduced pursuant to an election by a former employee or Member under this subsection shall be reduced by the same percentage as was in effect under section 8419 as of the date of the employee's or Member's retirement.
+(3) An annuity which is reduced pursuant to an election by a former employee or Member underthis subsection shall be reduced by the same percentage as was in effect under section 8419 as of the date of the employee's or Member's retirement.
 
 (4) Rights and obligations under this chapter resulting from an election under this subsection shall be the same as the rights and obligations which would have resulted had the election been made at the time of retirement.
 

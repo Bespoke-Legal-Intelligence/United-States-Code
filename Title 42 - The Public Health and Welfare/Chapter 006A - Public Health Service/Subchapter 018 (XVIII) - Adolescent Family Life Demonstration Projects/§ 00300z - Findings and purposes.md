@@ -22,7 +22,7 @@
 
 &emsp;(B) such problems are best approached through a variety of integrated and essential services provided to adolescents and their families by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector as well as services provided by publicly sponsored initiatives;
 
-&emsp;(9) a wide array of educational, health, and supportive services are not available to adolescents with such problems or to their families, or when available frequently are fragmented and thus are of limited effectiveness in discouraging adolescent premarital sexual relations and the consequences of such relations;
+&emsp;(9) a wide array of educational, health, and supportive services are not available to adolescents with such problems or to their families,or when available frequently are fragmented and thus are of limited effectiveness in discouraging adolescent premarital sexual relations and the consequences of such relations;
 
 &emsp;(10)(A) prevention of adolescent sexual activity and adolescent pregnancy depends primarily upon developing strong family values and close family ties, and since the family is the basic social unit in which the values and attitudes of adolescents concerning sexuality and pregnancy are formed, programs designed to deal with issues of sexuality and pregnancy will be successful to the extent that such programs encourage and sustain the role of the family in dealing with adolescent sexual activity and adolescent pregnancy;
 

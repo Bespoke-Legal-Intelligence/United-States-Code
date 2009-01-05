@@ -44,7 +44,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (3) Licensing of payments to Cuba
 
-&emsp;(A) The President may provide for the issuance of licenses for the full or partial paymentto Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act \[12 U.S.C. 95a, 50 U.S.C. App. 5(b)\].
+&emsp;(A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner thatis consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act \[12 U.S.C. 95a, 50 U.S.C. App. 5(b)\].
 
 &emsp;(B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
 

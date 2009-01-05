@@ -64,7 +64,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) Paul D. Coverdell was elected to the George \[sic\] State Senate in 1970 and later became Minority Leader of the Georgia State Senate, a post he held for 15 years.
 
-&emsp;“(2) Paul D. Coverdell served with distinction as the 11th Director of the Peace Corps from 1989 to 1991, where he promoted a fellowship program that was composed of returning Peace Corps volunteers who agreed to work in underserved American communities while they pursued educational degrees.
+&emsp;“(2) Paul D. Coverdell served with distinction as the 11th Director of the Peace Corps from 1989 to 1991,where he promoted a fellowship program that was composed of returning Peace Corps volunteers who agreed to work in underserved American communities while they pursued educational degrees.
 
 &emsp;“(3) Paul D. Coverdell served in the United States Senate from the State of Georgia from 1993 until his sudden death on July 18, 2000.
 

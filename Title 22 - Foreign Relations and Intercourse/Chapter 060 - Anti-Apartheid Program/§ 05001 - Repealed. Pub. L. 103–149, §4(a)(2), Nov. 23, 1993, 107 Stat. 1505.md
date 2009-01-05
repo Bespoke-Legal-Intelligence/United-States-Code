@@ -82,7 +82,7 @@ In general.—All provisions of the Comprehensive Anti-Apartheid Act of 1986 (22
 
 &emsp;“(2)
 
-Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207, 208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
+Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a), 203(b), 205, 207,208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001 note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
 
 &emsp;“(3)
 
@@ -234,7 +234,7 @@ United states government procurement.—To the extent not inconsistent with the 
 
 “(a)
 
-In General.—The President should encourage other donors, particularly Japan and the EuropeanCommunity countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
+In General.—The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
 “(b)
 

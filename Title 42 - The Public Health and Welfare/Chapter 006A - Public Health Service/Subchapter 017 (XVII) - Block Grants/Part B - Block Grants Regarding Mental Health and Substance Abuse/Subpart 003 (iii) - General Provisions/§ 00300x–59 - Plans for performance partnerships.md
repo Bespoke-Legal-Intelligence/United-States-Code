@@ -6,7 +6,7 @@ The Secretary in conjunction with States and other interested groups shall devel
 
 &emsp;(1) a description of the flexibility that would be given to the States under the plan;
 
-&emsp;(2) the common set of performance measures that would be used for accountability, including measures that would be used for the program under subpart II for pregnant addicts, HIV transmission, tuberculosis, and those with a co-occurring substance abuse and mental disorders, and for programs under subpart I for children with serious emotional disturbance and adults with serious mental illness and for individuals with co-occurring mental health and substance abuse disorders;
+&emsp;(2) the common set of performance measures that would be used for accountability, including measures that would be used for the program under subpart II for pregnant addicts,HIV transmission, tuberculosis, and those with a co-occurring substance abuse and mental disorders, and for programs under subpart I for children with serious emotional disturbance and adults with serious mental illness and for individuals with co-occurring mental health and substance abuse disorders;
 
 &emsp;(3) the definitions for the data elements to be used under the plan;
 

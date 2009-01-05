@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-1979—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
+1979—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibiteddistilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
 
 1976—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
 

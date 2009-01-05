@@ -44,7 +44,7 @@ The Secretary shall promulgate final regulations to establish the process descri
 
 #### (A) In general
 
-&emsp;&emsp;An exception to the requirement of exhausting the administrative review process before seeking judicial review shall be available if a Federal court finds that the futility or inadequacy exception applies to a specific plaintiff or claim.
+&emsp;&emsp;An exception to the requirement of exhausting the administrative review processbefore seeking judicial review shall be available if a Federal court finds that the futility or inadequacy exception applies to a specific plaintiff or claim.
 
 #### (B) Information
 

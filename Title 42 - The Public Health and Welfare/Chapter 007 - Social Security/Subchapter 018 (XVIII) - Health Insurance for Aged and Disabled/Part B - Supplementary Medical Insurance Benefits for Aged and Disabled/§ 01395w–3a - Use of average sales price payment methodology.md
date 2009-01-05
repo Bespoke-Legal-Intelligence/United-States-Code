@@ -134,7 +134,7 @@
 
 #### (A) In general on a quarterly basis
 
-&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as thereis a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
+&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
 
 #### (B) Updates in payment amounts
 
@@ -142,7 +142,7 @@
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by programinstruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -294,7 +294,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e) of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8,2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500.)
 
 #### Amendments
 

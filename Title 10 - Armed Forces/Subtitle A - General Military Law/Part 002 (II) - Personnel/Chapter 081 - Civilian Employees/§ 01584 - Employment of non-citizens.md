@@ -2,7 +2,7 @@
 
 Laws prohibiting the employment of, or payment of pay or expenses to, a person who is not a citizen of the United States do not apply to personnel of the Department of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 97–295, §1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub.L. 101–510, div. A, title XIV, §§1481(d)(1), (2), 1482(b), Nov. 5, 1990, 104 Stat. 1706, 1709; Pub. L. 104–106, div. A, title X, §1062(b), Feb. 10, 1996, 110 Stat. 444.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 118; Pub. L. 97–295, §1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 101–510, div. A, title XIV, §§1481(d)(1), (2), 1482(b), Nov. 5, 1990, 104 Stat. 1706, 1709; Pub. L. 104–106, div. A, title X, §1062(b), Feb. 10, 1996, 110 Stat. 444.)
 
 Historical and Revision Notes
 
@@ -46,9 +46,11 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Pub. L. 110–116, div. A, title VIII, §8002, Nov. 13, 2007, 121 Stat. 1313, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. A of Pub. L. 110–116, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 110–329, div. C, title VIII, §8002, Sept. 30, 2008, 122 Stat. 3619, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of Pub. L. 110–329, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 110–116, div. A, title VIII, §8002, Nov. 13, 2007, 121 Stat. 1313.
 
 Pub. L. 109–289, div. A, title VIII, §8002, Sept. 29, 2006, 120 Stat. 1271.
 

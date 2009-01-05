@@ -80,7 +80,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (A) Tax on distributions
 
-&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
+&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day ofthe 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
 
 #### (B) Tax at death of spouse
 
@@ -110,7 +110,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (B) Section 303
 
-&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federalestate tax payable with respect to the estate of the surviving spouse.
+&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federal estate tax payable with respect to the estate of the surviving spouse.
 
 #### (C) Section 6161(a)(2)
 
@@ -150,7 +150,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (15) No tax on certain distributions
 
-&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust to which such surviving spouse is not entitled under the terms of the trust.
+&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust towhich such surviving spouse is not entitled under the terms of the trust.
 
 #### (c) Definitions
 
@@ -190,7 +190,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 Subsec. (c)(3). Pub. L. 105–34, §1312(a), added par. (3).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation may prescribe regulations to carry out the duties and powers of the Secretary. An officer of the Department of Transportation may prescribe regulations to carry out the duties and powers of the officer.
 
-(b) The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1), 104(c)(1), and 106(g)(1) of this title may not be delegated to an officer or employee outside the Administration concerned.
+(b) The Secretary may delegate, and authorize successive delegations of, duties and powers of the Secretary to an officer or employee of the Department. An officer of the Department may delegate, and authorize successive delegations of, duties and powers of the officer to another officer or employee of the Department. However, the duties and powers specified in sections 103(c)(1),<sup>1</sup> 104(c)(1), and 106(g)(1) of this title may not be delegated to an officer or employee outside the Administration concerned.
 
 (c) On a reimbursable basis when appropriate, the Secretary may, in carrying out aviation duties and powers—
 
@@ -96,6 +96,10 @@ In subsection (d), before clause (1), the words “aviation duties and powers”
 
 In subsection (e), before clause (1), the words “or in support of” are omitted as surplus. In clause (1), the words “making the property” are substituted for “for manufacture” for clarity. In clause (2), the word “formal” is omitted as unnecessary. The word “unreasonably” is substituted for “unduly” for consistency.
 
+#### References in Text
+
+Section 103(c)(1) of this title, referred to in subsec. (b), was struck out by Pub. L. 110–432, div. A, title I, §101, Oct. 16, 2008, 122 Stat. 4851. Provisions similar to those contained in former subsec. (c)(1) of section 103 are now contained in subsec. (g)(1) of section 103.
+
 #### Availability of Receipts From Fitness Centers For Operation and Maintenance of Facilities
 
 Pub. L. 106–69, title III, §329, Oct. 9, 1999, 113 Stat. 1021, provided that: “Hereafter, notwithstanding any other provision of law, receipts, in amounts determined by the Secretary, collected from users of fitness centers operated by or for the Department of Transportation shall be available to support the operation and maintenance of those facilities.”
@@ -110,5 +114,7 @@ Pub. L. 104–205, title III, §344, Sept. 30, 1996, 110 Stat. 2976.
 
 #### Executive Order No. 11382
 
-Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, as amended by Ex. Ord. No. 11428, Sept. 5, 1968, 32 F.R. 12719, upon establishment of Department of Transportation amended and revoked certain executive orders relating to transportation, and, in addition to any other authority, authorized Secretary of Transportation and Federal Aviation Administrator to redelegate and authorize successive redelegations of any authority conferred in the order or the orders amended by it.
+Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, as amended by Ex. Ord. No. 11428, Sept. 5, 1968, 32 F.R.12719, upon establishment of Department of Transportation amended and revoked certain executive orders relating to transportation, and, in addition to any other authority, authorized Secretary of Transportation and Federal Aviation Administrator to redelegate and authorize successive redelegations of any authority conferred in the order or the orders amended by it.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

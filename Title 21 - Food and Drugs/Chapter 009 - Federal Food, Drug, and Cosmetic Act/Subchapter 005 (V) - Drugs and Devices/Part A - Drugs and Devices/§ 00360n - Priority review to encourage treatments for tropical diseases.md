@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(P) Yaws.
 
-&emsp;&emsp;(Q) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
+&emsp;&emsp;(Q) Any other infectious disease for which there is no significant market in developednations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
 
 #### (4) Tropical disease product application
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Transferability
 
-&emsp;The sponsor of a tropical disease product that receives a priority review voucher underthis section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application.
+&emsp;The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application.
 
 #### (3) Limitation
 

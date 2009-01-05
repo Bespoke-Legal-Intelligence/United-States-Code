@@ -76,7 +76,7 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;The amount of the nonrecourse liability treated as described in paragraph (1)(B) shall be reduced by the lesser of—
 
-&emsp;&emsp;(A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liabilityhas agreed with the transferee to, and is expected to, satisfy; or
+&emsp;&emsp;(A) the amount of such liability which an owner of other assets not transferred to the transferee and also subject to such liability has agreed with the transferee to, and is expected to, satisfy; or
 
 &emsp;&emsp;(B) the fair market value of such other assets (determined without regard to section 7701(g)).
 

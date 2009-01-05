@@ -28,19 +28,19 @@ A prior section 502 of act July 26, 1947, ch. 343, was renumbered section 504 an
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(W), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(W), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2002—Subsecs. (a), (b). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
-2001—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+<b>2001</b>—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment;Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Furnishing of Intelligence Information to Senate and House Select Committees on Intelligence
 

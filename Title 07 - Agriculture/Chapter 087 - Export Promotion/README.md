@@ -37,13 +37,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—EXPORT ENHANCEMENT PROGRAM
+#### SUBCHAPTER III—BARRIERS TO EXPORTS
 
 |  |  |
 | :--- | ---: |
-| [5651\.](Subchapter%20003%20%28III%29%20-%20Export%20Enhancement%20Program/%C2%A7%2005651%20-%20Export%20enhancement%20program.md) | Export enhancement program. |
-| [5652\.](Subchapter%20003%20%28III%29%20-%20Export%20Enhancement%20Program/%C2%A7%2005652%20-%20Relief%20from%20unfair%20trade%20practices.md) | Relief from unfair trade practices. |
-| [5653\.](Subchapter%20003%20%28III%29%20-%20Export%20Enhancement%20Program/%C2%A7%2005653%20-%20Equitable%20treatment%20of%20high-value%20and%20value-added%20United%20States%20agricultural%20commodities.md) | Equitable treatment of high-value and value-added United States agricultural commodities. |
+| [5651\.](Subchapter%20003%20%28III%29%20-%20Barriers%20to%20Exports/%C2%A7%2005651%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93246%2C%20title%20III%2C%20%C2%A73103%28a%29%2C%20June%2018%2C%202008%2C%20122%20Stat.%201832.md) | Repealed. |
+| [5652\.](Subchapter%20003%20%28III%29%20-%20Barriers%20to%20Exports/%C2%A7%2005652%20-%20Relief%20from%20unfair%20trade%20practices.md) | Relief from unfair trade practices. |
+| [5653\.](Subchapter%20003%20%28III%29%20-%20Barriers%20to%20Exports/%C2%A7%2005653%20-%20Equitable%20treatment%20of%20high-value%20and%20value-added%20United%20States%20agricultural%20commodities.md) | Equitable treatment of high-value and value-added United States agricultural commodities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -120,7 +120,7 @@ The Agricultural Trade Act of 1978, comprising this chapter, was originally enac
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Agricultural Export Programs](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/README.md)
-- [Subchapter 003 (III) - Export Enhancement Program](Subchapter%20003%20%28III%29%20-%20Export%20Enhancement%20Program/README.md)
+- [Subchapter 003 (III) - Barriers to Exports](Subchapter%20003%20%28III%29%20-%20Barriers%20to%20Exports/README.md)
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)
 - [Subchapter 005 (V) - Foreign Agricultural Service](Subchapter%20005%20%28V%29%20-%20Foreign%20Agricultural%20Service/README.md)
 - [Subchapter 006 (VI) - Reports](Subchapter%20006%20%28VI%29%20-%20Reports/README.md)

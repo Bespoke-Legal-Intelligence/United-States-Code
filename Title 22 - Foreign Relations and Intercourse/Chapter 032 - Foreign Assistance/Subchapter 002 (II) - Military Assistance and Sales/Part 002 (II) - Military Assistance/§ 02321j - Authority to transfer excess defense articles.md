@@ -58,7 +58,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (1) In general
 
-&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms oforiginal acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
+&emsp;The President may not transfer excess defense articles that are significant military equipment (as defined in section 47(9) of the Arms Export Control Act \[22 U.S.C. 2794(9)\]) or excess defense articles valued (in terms of original acquisition cost) at $7,000,000 or more, under this section or under the Arms Export Control Act (22 U.S.C. 2751 et seq.) until 30 days after the date on which the President has provided notice of the proposed transfer to the congressional committees specified in section 2394–1(a) of this title in accordance with procedures applicable to reprogramming notifications under that section.
 
 #### (2) Contents
 
@@ -212,7 +212,7 @@ Limitations on Transfers.—The President may transfer excess defense articles u
 
 &emsp;“(2) funds available to the Department of Defense for the procurement of defense equipment are not expended in connection with the transfer; and
 
-&emsp;“(3) the President determines that the transfer of the excess defense articles will not have an adverseimpact on the military readiness of the United States.
+&emsp;“(3) the President determines that the transfer of the excess defense articles will not have an adverse impact on the military readiness of the United States.
 
 “(c)
 

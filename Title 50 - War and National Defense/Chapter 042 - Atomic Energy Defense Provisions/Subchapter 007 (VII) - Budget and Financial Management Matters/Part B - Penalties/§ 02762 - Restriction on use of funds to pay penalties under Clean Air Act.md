@@ -22,5 +22,5 @@ Pub. L. 96–164, title II, §211, Dec. 29, 1979, 93 Stat. 1264.
 
 #### Amendments
 
-2003—Pub. L. 108–136, §3141(j)(5)(C), made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act” for “this or any other Act” in text.
+<b>2003</b>—Pub. L. 108–136, §3141(j)(5)(C), made technical amendment to section catchline and substituted “the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540) or any other Act” for “this or any other Act” in text.
 

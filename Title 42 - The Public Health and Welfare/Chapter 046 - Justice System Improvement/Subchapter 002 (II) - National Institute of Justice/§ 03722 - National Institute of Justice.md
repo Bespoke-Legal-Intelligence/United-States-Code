@@ -86,7 +86,7 @@ Subsec. (c)(3). Pub. L. 98–473, §604(b)(2)(B), substituted “chapter” for 
 
 Subsec. (c)(4) to (7). Pub. L. 98–473, §604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
-Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for“subchapter VI of this chapter”. Former par. (8) redesignated (7).
+Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
 
 Subsec. (c)(9). Pub. L. 98–473, §604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 

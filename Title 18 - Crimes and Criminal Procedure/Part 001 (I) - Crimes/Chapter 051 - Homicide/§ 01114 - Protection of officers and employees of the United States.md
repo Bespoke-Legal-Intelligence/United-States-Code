@@ -18,7 +18,7 @@ Based on title 18, U.S.C., 1940 ed., §253 (May 18, 1934, ch. 299, §1, 48 Stat.
 
 The section was extended to include United States judges, attorneys and their assistants, and officers of Federal, penal and correctional institutions in view of the obvious desirability of such protective legislation.
 
-Employees of the Bureau of Animal Industry have been included in this section to complete the revision of section 118 of title 18, U.S.C., 1940 ed., which was consolidated with the assault provisions of section 254 of said title 18 and is now section 111 of this title. Thereseemed no sound reason for including such officers in the protection against assaults but excluding them from the homicide sections.
+Employees of the Bureau of Animal Industry have been included in this section to complete the revision of section 118 of title 18, U.S.C., 1940 ed., which was consolidated with the assault provisions of section 254 of said title 18 and is now section 111 of this title. There seemed no sound reason for including such officers in the protection against assaults but excluding them from the homicide sections.
 
 For like reasons the section was broadened to include officers or employees of the Secret Service or of the Bureau of Narcotics.
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 104–294, which directed substitution in text of “1112,�
 
 Pub. L. 103–322, §330009(c), substituted “or any other officer or employee of the United States or any agency thereof” for “or any other officer, agency, or employee of the United States”.
 
-Pub. L. 103–322, §60007, substituted “punished, in the case of murder, as provided under section 1111, or, in the case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
+Pub. L. 103–322, §60007, substituted “punished, in the case of murder, as provided under section 1111, or, inthe case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
 
 1992—Pub. L. 102–365 inserted “any officer or employee of the Federal Railroad Administration assigned to perform investigative, inspection, or law enforcement functions,” after “any employee of the Coast Guard assigned to perform investigative, inspection or law enforcement functions,”.
 

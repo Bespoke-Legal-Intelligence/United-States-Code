@@ -22,9 +22,9 @@
 
 No funds made available under this chapter shall be used for the purchase in bulk of any commodities at prices higher than the market price prevailing in the United States at the time of purchase, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.
 
-#### (c) Agricultural commodities or products thereof available for disposition under Agricultural Trade Development and Assistance Act of 1954
+#### (c) Agricultural commodities or products thereof available for disposition under Food for Peace Act
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grantunder this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -48,13 +48,13 @@ No funds authorized to be made available to carry out subchapter I of this chapt
 
 &emsp;(B) if the country has its own foreign assistance programs which finance the procurement of construction or engineering services, permits United States firms to compete for those services.
 
-(Pub. L. 87–195, pt. III, §604, Sept. 4, 1961, 75 Stat. 439; Pub. L. 89–583, pt. III, §301(b), Sept. 19, 1966, 80 Stat. 804; Pub. L. 90–554, pt. III, §301(a), Oct. 8, 1968, 82 Stat. 963; Pub. L. 96–533, title VII, §705, Dec. 16, 1980, 94 Stat. 3157; Pub. L. 99–83, title XII, §1207, Aug. 8, 1985, 99 Stat. 278; Pub. L. 102–391, title V, §597, Oct. 6, 1992, 106 Stat. 1694.)
+(Pub. L. 87–195, pt. III, §604, Sept. 4, 1961, 75 Stat. 439; Pub. L. 89–583, pt. III, §301(b), Sept. 19, 1966, 80 Stat. 804; Pub. L. 90–554, pt. III, §301(a), Oct. 8, 1968, 82 Stat. 963; Pub. L. 96–533, title VII, §705, Dec. 16, 1980, 94 Stat. 3157; Pub. L. 99–83, title XII, §1207, Aug. 8, 1985, 99 Stat. 278; Pub. L. 102–391, title V, §597, Oct. 6, 1992, 106 Stat. 1694; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (e) to (g)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Agricultural Trade Development and Assistance Act of 1954, as amended, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454,which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -66,6 +66,8 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Amendments
 
+2008—Subsec. (c). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
 1992—Subsec. (a). Pub. L. 102–391 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States, and only if the price of any commodity procured in bulk is lower than the market price prevailing in the United States at the time of procurement, adjusted for differences in the cost of transportation to destination, quality, and terms of payment.”
 
 1985—Subsec. (g). Pub. L. 99–83 designated existing provisions as par. (1) and added par. (2).
@@ -76,9 +78,13 @@ Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
 1968—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Developmentand Assistance Act of 1954, as amended,” after “commodity” where first appearing.
+1966—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out “surplus” before “agricultural commodity” in three places and inserted “or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended,” after “commodity” where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1985 Amendment
 

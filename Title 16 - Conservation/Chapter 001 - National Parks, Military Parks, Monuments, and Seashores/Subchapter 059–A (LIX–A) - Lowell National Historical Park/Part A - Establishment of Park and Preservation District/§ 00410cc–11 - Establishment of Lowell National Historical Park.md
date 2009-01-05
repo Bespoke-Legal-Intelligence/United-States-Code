@@ -6,9 +6,15 @@
 
 (2) The Secretary shall publish in the Federal Register, as soon as practicable after June 5, 1978, a detailed description and map of the boundaries established under paragraph (1) of this subsection.
 
+(3) The boundaries of the park are modified to include five parcels of land identified on the map entitled “Boundary Adjustment, Lowell National Historical Park,” numbered 475/81,424B and dated September 2004, and as delineated in section 410cc–22(a)(2)(G) of this title.
+
 #### (b) Boundary revisions; publication
 
 The Secretary may make minor revisions of the park and preservation district boundaries established under subsection (a)(1) of this section, after consulting with the Commission and the city manager of Lowell, by publication of a revised drawing or other boundary description in the Federal Register; but no waters, lands, or other property outside of the park or preservation district boundaries established under such subsection may be added to the park or preservation district without the consent of the city manager of Lowell and the city council of Lowell. A boundary revision made under this subsection shall be effective only after timely notice in writing is given to the Congress.
 
-(Pub. L. 95–290, title I, §101, June 5, 1978, 92 Stat. 291.)
+(Pub. L. 95–290, title I, §101, June 5, 1978, 92 Stat. 291; Pub. L. 110–229, title III, §312(1), May 8, 2008, 122 Stat. 769.)
+
+#### Amendments
+
+2008—Subsec. (a)(3). Pub. L. 110–229 added par. (3).
 

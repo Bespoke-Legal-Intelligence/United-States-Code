@@ -40,7 +40,7 @@ The purposes of this chapter are as follows:
 
 #### Amendments
 
-1998—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
+<b>1998</b>—Subsecs. (b)(7), (c)(2). Pub. L. 105–272 inserted “counterproliferation studies,” after “area studies,”.
 
-1992—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–496 amended subsec. (a) generally, inserting “David L. Boren”.
 

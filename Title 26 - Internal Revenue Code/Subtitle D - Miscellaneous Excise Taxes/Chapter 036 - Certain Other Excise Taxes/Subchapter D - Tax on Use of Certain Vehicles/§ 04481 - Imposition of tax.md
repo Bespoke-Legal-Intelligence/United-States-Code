@@ -134,7 +134,7 @@ Section 507(d) of Pub. L. 100–17 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in theprovisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 Section 901(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
 
@@ -168,7 +168,7 @@ Special rule in the case of certain owner-operators.—
 
 &emsp;&emsp;“(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
-“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ has the meaning given to such term by section 4482(a) of such Code.”
+“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ hasthe meaning given to such term by section 4482(a) of such Code.”
 
 #### Effective Date of 1961 Amendment
 

@@ -22,7 +22,7 @@ If the parties are unable to reach agreement within the time period specified in
 
 #### (c) Limitations on funds
 
-Any agreement entered into under subsection (a) of this section, and any benefit schedule prescribed under subsection (b) of this section, shall not require the expenditure of funds in excess of amounts authorized to be appropriated under section 727(f)(1)(C) of this title, nor shall any individual employee receive benefits in excess of $20,000 under such agreement or benefit schedule. No benefits or assistance may be provided under any agreement entered into or benefit schedule prescribed under this section after April 1, 1984.
+Any agreement entered into under subsection (a) of this section, and any benefit schedule prescribed under subsection (b) of this section, shall not require the expenditure of funds in excess of amounts authorized to be appropriated under section 727(f)(1)(C) of this title, nor shall any individual employee receive benefits in excess of$20,000 under such agreement or benefit schedule. No benefits or assistance may be provided under any agreement entered into or benefit schedule prescribed under this section after April 1, 1984.
 
 #### (d) Administration of funds; promulgation of regulations
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 96–448 substituted “5 days after October 14, 1980” fo
 
 Subsec. (c). Pub. L. 96–448 reenacted subsec. (c) without change.
 
-Subsec. (d). Pub. L. 96–448 substituted provision that any order of the Commission or bankruptcy court beappealed only to the United States Court of Appeals for the Seventh Circuit for provision that an order of the Commission not be stayed by the Commission or any other court, an order by the bankruptcy court not be stayed by any other court, appeals of Commission or bankruptcy court orders only be made to the court of appeals of the United States having jurisdiction to review decisions and orders of the bankruptcy court, and no determinations of the court of appeals be review in any other court.
+Subsec. (d). Pub. L. 96–448 substituted provision that any order of the Commission or bankruptcy court be appealed only to the United States Court of Appeals for the Seventh Circuit for provision that an order of the Commission not be stayed by the Commission or any other court, an order by the bankruptcy court not be stayed by any other court, appeals of Commission or bankruptcy court orders only be made to the court of appeals of the United States having jurisdiction to review decisions and orders of the bankruptcy court, and no determinations of the court of appeals be review in any other court.
 
 Subsec. (e). Pub. L. 96–448 reenacted subsec. (e) without change.
 

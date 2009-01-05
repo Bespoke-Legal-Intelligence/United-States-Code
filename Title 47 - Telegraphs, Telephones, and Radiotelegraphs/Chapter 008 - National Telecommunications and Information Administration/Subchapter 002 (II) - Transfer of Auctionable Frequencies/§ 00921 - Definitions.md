@@ -68,5 +68,5 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 #### Assessment of Electromagnetic Spectrum Reallocation
 
-Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
+Pub. L. 102–538, title I, §156, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767,required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
 

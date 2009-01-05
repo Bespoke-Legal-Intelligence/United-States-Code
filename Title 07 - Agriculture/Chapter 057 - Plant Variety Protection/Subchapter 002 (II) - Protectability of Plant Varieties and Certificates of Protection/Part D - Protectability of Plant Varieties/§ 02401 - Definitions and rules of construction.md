@@ -50,7 +50,7 @@ As used in this chapter:
 
 #### (9) Variety
 
-&emsp;The term “variety” means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
+&emsp;The term “variety” means a plant grouping within a single botanical taxon of the lowestknown rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
 
 #### (b) Rules of construction
 
@@ -62,7 +62,7 @@ For the purposes of this chapter:
 
 #### (2) Sale or disposition for reproductive purposes
 
-&emsp;The sale or disposition of a variety for reproductive purposes shall not be considered to be a sale or disposition for the purposes of exploitation of the variety if the sale or disposition is done as an integral part of a program of experimentation or testing to ascertain thecharacteristics of the variety, or to increase the variety on behalf of the breeder or the successor in interest of the breeder.
+&emsp;The sale or disposition of a variety for reproductive purposes shall not be considered to be a sale or disposition for the purposes of exploitation of the variety if the sale or disposition is done as an integral part of a program of experimentation or testing to ascertain the characteristics of the variety, or to increase the variety on behalf of the breeder or the successor in interest of the breeder.
 
 #### (3) Sale or disposition of hybrid seed
 

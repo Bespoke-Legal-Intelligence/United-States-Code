@@ -170,7 +170,7 @@
 
 &emsp;(ii) to provide training in English where necessary (regardless of whether the refugees are employed or receiving cash or other assistance); and
 
-&emsp;(iii) to provide where specific needs have been shown and recognized by the Director,health (including mental health) services, social services, educational and other services.
+&emsp;(iii) to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
 
 (B) The funds available for a fiscal year for grants and contracts under subparagraph (A) shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
 
@@ -190,7 +190,7 @@
 
 (2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished to any refugee child (except as provided in subparagraph (B)) during the thirty-six month period beginning with the first month in which such refugee child is in the United States.
 
-(B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] prescribes for the availability of such services to any other child in that State).
+(B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C.620 et seq.\] prescribes for the availability of such services to any other child in that State).
 
 (ii) The Director shall attempt to arrange for the placement under the laws of the States of such unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
 
@@ -234,7 +234,7 @@
 
 (6) As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of this section of the fact that the refugee has so applied.
 
-(7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determines that refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
+(7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determinesthat refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
 
 (B) Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraph of this subsection or under title XIX or part A of title IV of the Social Security Act \[42 U.S.C. 1396 et seq., 601 et seq.\].
 
@@ -266,7 +266,7 @@
 
 &emsp;(B) such other information as the Attorney General may require.
 
-(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each ofsuch payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
+(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
 
 (4) The authority of the Attorney General to pay compensation under this subsection shall be effective for any fiscal year only to the extent and in such amounts as may be provided in advance in appropriation Acts.
 
@@ -334,7 +334,7 @@ Subsec. (e)(2)(A)(ii). Pub. L. 99–605, §8(b), inserted “or targeted assista
 
 Subsec. (e)(2)(C). Pub. L. 99–605, §9(a)(2), added subpar. (C).
 
-Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months orlonger if determined to be disproportionately dependent on welfare.
+Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months or longer if determined to be disproportionately dependent on welfare.
 
 Subsec. (e)(8). Pub. L. 99–605, §9(b), added par. (8).
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set outas a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1988 Amendment
 
@@ -416,7 +416,7 @@ Section 313 of part B of title III of Pub. L. 96–212 provided that:
 
 “(b) Subject to subsection (c), the limitations contained in sections 412(d)(2)(A) and 412(e)(1) of the Immigration and Nationality Act \[subsecs. (d)(2)(A) and (e)(1) of this section\] on the duration of the period for which child welfare services and cash and medical assistance may be provided to particular refugees shall not apply to such services and assistance provided before April 1, 1981.
 
-“(c) Notwithstanding section 412(e)(1) of the Immigration and Nationality Act \[subsec. (e)(1) of this section\] and in lieu of any assistance which may otherwise be provided under such section with respect to Cuban refugees who entered the United States and were receiving assistance under section 2(b) of the Migrationand Refugee Assistance Act of 1962 \[22 U.S.C. 2601(b)\] before October 1, 1978, the Director of the Office of Refugee Resettlement is authorized—
+“(c) Notwithstanding section 412(e)(1) of the Immigration and Nationality Act \[subsec. (e)(1) of this section\] and in lieu of any assistance which may otherwise be provided under such section with respect to Cuban refugees who entered the United States and were receiving assistance under section 2(b) of the Migration and Refugee Assistance Act of 1962 \[22 U.S.C. 2601(b)\] before October 1, 1978, the Director of the Office of Refugee Resettlement is authorized—
 
 &emsp;“(1) to provide reimbursement—
 
@@ -540,7 +540,7 @@ I74“state entitlements
 
 “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
+“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
 “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
@@ -630,7 +630,7 @@ I74“state entitlements
 
 &emsp;“(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
-&emsp;“(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
+&emsp;“(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educationalagencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
 
 &emsp;“(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
 
@@ -678,7 +678,7 @@ I74“state entitlements
 
 “Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
 
-&emsp;“(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
+&emsp;“(1) programs of instruction of such adult refugees in basic reading and mathematics, in developmentand enhancement of necessary skills, and for the promotion of literacy among such refugees;
 
 &emsp;“(2) administrative costs of planning and operating such programs of instruction;
 

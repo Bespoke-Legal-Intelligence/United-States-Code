@@ -18,7 +18,7 @@ Response costs and damages recovered by the Secretary under the provisions of th
 
 #### Codification
 
-Subsection (d), which required the Secretary to report annually to the Committee on Appropriations andthe Committee on Energy and Natural Resources of the United States Senate and the Committee on Appropriations and the Committee on Natural Resources of the United States House of Representatives on funds expended pursuant to this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 111 of House Document No. 103–7.
+Subsection (d), which required the Secretary to report annually to the Committee on Appropriations and the Committee on Energy and Natural Resources of the United States Senate and the Committee on Appropriations and the Committee on Natural Resources of the United States House of Representatives on funds expended pursuant to this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 111 of House Document No. 103–7.
 
 #### Amendments
 

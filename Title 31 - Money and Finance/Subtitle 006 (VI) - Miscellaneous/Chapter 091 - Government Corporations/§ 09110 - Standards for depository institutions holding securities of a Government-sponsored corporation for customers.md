@@ -2,7 +2,7 @@
 
 (a) The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations that are government securities described in subparagraph (B) or (C) of section 3(a)(42) of the Securities Exchange Act of 1934. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-(b) Violation of a regulation prescribed under subsection (a) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of theHome Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration.
+(b) Violation of a regulation prescribed under subsection (a) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) <sup>1</sup> of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) <sup>1</sup> of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration.
 
 (c) Nothing in this section shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -34,7 +34,7 @@ Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec.
 
 Clauses (i) through (vi) of subparagraph \[section\] 19(b)(1)(A) of the Federal Reserve Act, referred to in subsec. (e)(1), are classified to section 461(b)(1)(A)(i) to (vi) of Title 12.
 
-The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of Title 12, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
+The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted sections 347d, 611a, and 3101 to 3111 of Title 12, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b,1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
 #### Amendments
 

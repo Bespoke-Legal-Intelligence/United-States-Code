@@ -26,6 +26,22 @@ A prior section 3721, Pub. L. 90–351, title I, §201, June 19, 1968, 82 Stat. 
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
+#### National Training Program for State and Local Prosecutors
+
+Pub. L. 110–424, Oct. 15, 2008, 122 Stat. 4819, provided that:
+
+#### “SECTION 1. TRAINING FOR STATE AND LOCAL PROSECUTORS.
+
+“The Attorney General is authorized to award a grant to a national nonprofit organization (such as the National District Attorneys Association) to conduct a national training program for State and local prosecutors for the purpose of improving the professional skills of State and local prosecutors and enhancing the ability of Federal, State, and local prosecutors to work together.
+
+#### “SEC. 2. COMPREHENSIVE CONTINUING LEGAL EDUCATION.
+
+“The Attorney General may provide assistance to the grantee under section 1 to carry out the training program described in such section, including comprehensive continuing legal education in the areas of trial practice, substantive legal updates, support staff training, and any other assistance the Attorney General determines to be appropriate.
+
+#### “SEC. 3. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to the Attorney General to carry out this Act $4,750,000 for each of the fiscal years 2009 through 2012, to remain available until expended.”
+
 #### Assessing and Reducing Threat to Law Enforcement Officers From Criminal Use of Firearms and Ammunition
 
 Pub. L. 104–132, title VIII, §809, Apr. 24, 1996, 110 Stat. 1311, provided that:

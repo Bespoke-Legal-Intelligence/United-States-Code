@@ -24,7 +24,7 @@ In General.—The Secretary of Transportation may convey the right, title, and i
 
 &emsp;&emsp;&emsp;(i) the recipient shall distribute the vessel, as an asset of the recipient, to a person that has been determined exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)), or to the Federal Government or a State or local government for a public purpose; and
 
-&emsp;&emsp;&emsp;(ii) the vessel shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the recipient is located, for such purposes as the court shall determine, or to such organizations as the court shall determine are organized exclusively for public purposes.
+&emsp;&emsp;&emsp;(ii) the vessel shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the recipient is located, for such purposes asthe court shall determine, or to such organizations as the court shall determine are organized exclusively for public purposes.
 
 (b)
 

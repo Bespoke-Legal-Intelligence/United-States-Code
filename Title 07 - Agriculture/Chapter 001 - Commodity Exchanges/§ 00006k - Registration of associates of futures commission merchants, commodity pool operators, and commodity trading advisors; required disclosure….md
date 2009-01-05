@@ -8,9 +8,9 @@
 
 (4) Any person desiring to be registered as an associated person of a futures commission merchant, of an introducing broker, of a commodity pool operator, or of a commodity trading advisor shall make application to the Commission in the form and manner prescribed by the Commission, giving such information and facts as the Commission may deem necessary concerning the applicant. Such person, when registered hereunder, shall likewise continue to report and furnish to the Commission such information as the Commission may require. Such registration shall expire at such time as the Commission may by rule, regulation, or order prescribe.
 
-(5) <sup>1</sup> It shall be unlawful for any registrant to permit a person to become or remain an associated person of such registrant, if the registrant knew or should have known of facts regarding such associated person that are set forth as statutory disqualifications in section 12a(2) of this title, unless such registrant has notified the Commission of such facts and the Commission has determined that such person should be registered or temporarily licensed.
+(5) It shall be unlawful for any registrant to permit a person to become or remain an associated person of such registrant, if the registrant knew or should have known of facts regarding such associated person that are set forth as statutory disqualifications in section 12a(2) of this title, unless such registrant has notified the Commission of such facts and the Commission has determined that such person should be registered or temporarily licensed.
 
-(5) <sup>1</sup> Any associated person of a broker or dealer that is registered with the Securities and Exchange Commission, and who limits its solicitation of orders, acceptance of orders, or execution of orders, or placing of orders on behalf of others involving any contracts of sale of any commodity for future delivery or any option on such a contract, on or subject to the rules of any contract market or registered derivatives transaction execution facility to security futures products, shall be exempt from the following provisions of this chapter and the rules thereunder:
+(6) Any associated person of a broker or dealer that is registered with the Securities and Exchange Commission, and who limits its solicitation of orders, acceptance of orders, or execution of orders, or placing of orders on behalf of others involving any contracts of sale of any commodity for future delivery or any option on such a contract, on or subject to the rules of any contract market or registered derivatives transaction execution facility to security futures products, shall be exempt from the following provisions of this chapter and the rules thereunder:
 
 &emsp;(A) Subsections (b), (d), (e), and (g) of section 6c of this title.
 
@@ -22,7 +22,7 @@
 
 &emsp;(E) Paragraph (1) of this section.
 
-&emsp;(F) Section 6p <sup>2</sup> of this title.
+&emsp;(F) Section 6p of this title.
 
 &emsp;(G) Section 13a–2 of this title.
 
@@ -30,13 +30,15 @@
 
 &emsp;(I) Section 20 of this title.
 
-(Sept. 21, 1922, ch. 369, §4k, as added Pub. L. 93–463, title II, §204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, §7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–448.)
+(Sept. 21, 1922, ch. 369, §4k, as added Pub. L. 93–463, title II, §204(a), Oct. 23, 1974, 88 Stat. 1396;amended Pub. L. 95–405, §7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–448; Pub. L. 110–234, title XIII, §13105(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(c), June 18, 2008, 122 Stat. 1664, 2196.)
 
-#### References in Text
+#### Codification
 
-Section 6p of this title, referred to in par. (5)(F), was in the original “Section 4p” which was translated as meaning the section 4p of the Commodity Exchange Act which is classified to section 6p of this title, rather than to the section 4p of that Act which is classified to section 6<i>o</i>–1 of this title, to reflect the probable intent of Congress.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Pars. (5), (6). Pub. L. 110–246, §13105(c), redesignated par. (5) relating to exempting associated persons or dealers from provisions of this chapter as (6).
 
 2000—Par. (5). Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], which directed amendment of this section by “inserting after paragraph (4), as added by subsection (c) of this section” a new par. (5) relating to exempting associated persons or dealers from provisions of this chapter, was executed by adding that par. (5) at the end. Section 1(a)(5)\[title II, §252(c)\] did not add a par. (4) to this section.
 
@@ -54,6 +56,10 @@ Par. (5). Pub. L. 97–444 added par. (5).
 
 Par. (3). Pub. L. 95–405, §7(2), added par. (3).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–444 effective 120 days after Jan. 11, 1983, or such earlier date as the Commission shall prescribe by regulation, see section 239 of Pub. L. 97–444, set out as a note under section 2 of this title.
@@ -65,8 +71,4 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 #### Effective Date
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two pars.(5) have been enacted.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

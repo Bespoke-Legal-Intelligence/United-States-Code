@@ -4,3 +4,7 @@ The Speaker is authorized to designate from time to time some one from among tho
 
 (Nov. 12, 1903, P. Res. No. 1, 33 Stat. 1.)
 
+#### References in Text
+
+Section 48 of this title, referred to in text, was in the original “section forty-seven of the Revised Statutes”, which enacted part of section 48 of this title. See Codification note under section 48 of this title.
+

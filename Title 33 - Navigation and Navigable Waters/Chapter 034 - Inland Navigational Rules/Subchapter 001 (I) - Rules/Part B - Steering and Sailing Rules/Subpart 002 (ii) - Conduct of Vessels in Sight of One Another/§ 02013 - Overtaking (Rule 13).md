@@ -2,7 +2,7 @@
 
 #### (a) Overtaking vessel to keep out of the overtaken vessel's way
 
-Notwithstanding anything contained in Rules 4 through 18, any vessel overtaking any othershall keep out of the way of the vessel being overtaken.
+Notwithstanding anything contained in Rules 4 through 18, any vessel overtaking any other shall keep out of the way of the vessel being overtaken.
 
 #### (b) Overtaking vessel defined
 

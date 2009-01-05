@@ -8,7 +8,7 @@
 
 &emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1) (except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title), 507(a)(2), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
-&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed taxclaim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
+&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
 &emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 
@@ -44,7 +44,7 @@ Treatment of certain liens: The House amendment modifies present law by requirin
 
 #### senate report no. 95–989
 
-Subsection (a) of section 724 permits the trustee to avoid a lien that secures a fine, penalty, forfeiture, or multiple, punitive, or exemplary damages claim to the extent that the claim is not compensation for actual pecuniary loss. The subsection follows the policy found in section 57j of the Bankruptcy Act \[section 93(j) of former title 11\] of protecting unsecured creditors from the debtor's wrongdoing, but expands the protection afforded. The lien is made voidable rather than void in chapter 7, in order to permit the lien to be revived if the case is converted to chapter 11 under which penalty liens are not voidable. To make the lien void would be to permit the filing of a chapter 7, the voiding of the lien, and the conversion to a chapter 11, simply to avoid a penalty lien, which should be valid in a reorganization case.
+Subsection (a) of section 724 permits the trustee to avoid a lien that secures a fine, penalty, forfeiture, ormultiple, punitive, or exemplary damages claim to the extent that the claim is not compensation for actual pecuniary loss. The subsection follows the policy found in section 57j of the Bankruptcy Act \[section 93(j) of former title 11\] of protecting unsecured creditors from the debtor's wrongdoing, but expands the protection afforded. The lien is made voidable rather than void in chapter 7, in order to permit the lien to be revived if the case is converted to chapter 11 under which penalty liens are not voidable. To make the lien void would be to permit the filing of a chapter 7, the voiding of the lien, and the conversion to a chapter 11, simply to avoid a penalty lien, which should be valid in a reorganization case.
 
 Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§67(C)(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
 
@@ -62,7 +62,7 @@ Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 2005—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages,salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
+Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
 
 Subsecs. (e), (f). Pub. L. 109–8, §701(a)(3), added subsecs. (e) and (f).
 

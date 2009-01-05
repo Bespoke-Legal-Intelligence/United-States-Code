@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) the ability of the applicant (and the participating institutions of higher education of the consortium, if applicable) to effectively carry out the program;
 
-&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogyrequired to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
+&emsp;&emsp;(B) the extent to which the applicant's science, technology, engineering, and mathematics faculty and its education faculty (and such faculty of participating institutions of higher education of the consortium, if applicable) have worked or will work collaboratively to design new or revised curricula that recognize the specialized pedagogy required to teach science, technology, engineering, and mathematics effectively in elementary schools and secondary schools;
 
 &emsp;&emsp;(C) the extent to which the applicant (and the participating institutions of higher education of the consortium, if applicable) is committed to making the program a central organizational focus;
 
@@ -196,7 +196,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (A) Less than one year of service
 
-&emsp;&emsp;If a circumstance described in paragraph (1) occurs before the completion of 1 year of a service obligation under this section, the total amount of awards received by the individual under this section shall be repaid or such amount shall be treated as a loan to be repaid in accordance with subparagraph (C).
+&emsp;&emsp;If a circumstance described in paragraph (1) occurs before the completion of 1 year of a service obligation under this section, thetotal amount of awards received by the individual under this section shall be repaid or such amount shall be treated as a loan to be repaid in accordance with subparagraph (C).
 
 #### (B) More than one year of service
 
@@ -248,7 +248,7 @@ In accordance with section 1870(f) of this title, the Director is authorized to 
 
 #### (k) Assessment of teacher service and retention
 
-Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee onHealth, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
+Not later than 4 years after August 9, 2007, the Director shall transmit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Science and Technology of the House of Representatives a report on the effectiveness of the programs carried out under this section and section 1862n–1a of this title. The report shall include the proportion of individuals receiving scholarships, stipends, or fellowships under the program who—
 
 &emsp;(1) fulfill the individuals’ service obligation required under this section or section 1862n–1a of this title;
 

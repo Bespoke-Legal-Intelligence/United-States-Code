@@ -44,7 +44,7 @@ For the purposes of the park established under this section, effective October 1
 
 #### (<i>l</i>) Monument
 
-Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of thepeople of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
+Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
 
 #### (m) Interpretive programs
 

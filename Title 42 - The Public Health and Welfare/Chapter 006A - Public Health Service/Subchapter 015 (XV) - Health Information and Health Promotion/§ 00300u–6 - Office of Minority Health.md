@@ -48,7 +48,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (3) Chair
 
-&emsp;The chairperson of the Committee shall be selected by the Secretary from among themembers of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
+&emsp;The chairperson of the Committee shall be selected by the Secretary from among the members of the voting members of the Committee. The term of office of the chairperson shall be 2 years.
 
 #### (4) Composition
 
@@ -64,7 +64,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (6) Vacancies
 
-&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretarywithin 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
 
 #### (7) Compensation
 
@@ -112,7 +112,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (2) Agency reports
 
-&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the DeputyAssistant Secretary a report summarizing the minority health activities of each of the respective agencies.
+&emsp;Not later than February 1, 1999, and biennially thereafter, the heads of the Public Health Service agencies shall submit to the Deputy Assistant Secretary a report summarizing the minority health activities of each of the respective agencies.
 
 #### (g) Definitions
 
@@ -188,7 +188,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(4) the incidence of infant mortality among minorities is almost double that for the general population;
 
-&emsp;“(5) Blacks, Hispanics, and Native Americans constitute approximately 12 percent, 7.9 percent, and 0.01percent, respectively, of the population of the United States;
+&emsp;“(5) Blacks, Hispanics, and Native Americans constitute approximately 12 percent, 7.9 percent, and 0.01 percent, respectively, of the population of the United States;
 
 &emsp;“(6) Blacks, Hispanics, and Native Americans in the United States constitute approximately 3 percent, 4 percent, and less than 0.01 percent, respectively, of physicians, 2.7 percent, 1.7 percent, and less than 0.01 percent, respectively, of dentists, and 4.5 percent, 1.6 percent, and less than 0.01 percent, respectively, of nurses;
 
@@ -204,7 +204,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(12) diversity in the faculty and student body of health professions schools enhances the quality of education for all students attending the schools;
 
-&emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
+&emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretarywith respect to improving the health status of minorities through programs for providing health information and education; and
 
 &emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
 

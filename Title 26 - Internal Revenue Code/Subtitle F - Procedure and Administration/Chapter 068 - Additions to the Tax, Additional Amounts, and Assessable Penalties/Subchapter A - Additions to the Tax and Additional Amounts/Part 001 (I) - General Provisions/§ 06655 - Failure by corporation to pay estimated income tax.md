@@ -171,7 +171,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) subclause (IV) of subparagraph (A)(i) shall be applied by substituting “11 months” for “9 months”.
 
-&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for whichmade and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
+&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for which made and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
 
 #### (3) Determination of adjusted seasonal installment
 
@@ -253,7 +253,7 @@ For purposes of this section—
 
 #### (f) Exception where tax is small amount
 
-No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shownon the return for such taxable year (or, if no return is filed, the tax) is less than $500.
+No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax) is less than $500.
 
 #### (g) Definitions and special rules
 
@@ -583,13 +583,13 @@ Amendment by Pub. L. 88–272 effective, except for purposes of section 21 of th
 
 #### Time for Payment of Corporate Estimated Taxes
 
-Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
+Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by Pub. L. 110–28, title VIII, §8248, May 25, 2007, 121 Stat. 204; Pub. L. 110–42, §4, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §3, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(a), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title VI, §602, Dec. 14, 2007, 121 Stat. 1490; Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
 
 &emsp;“(1) in the case of a corporation with assets of not less than $1,000,000,000 (determined as of the end of the preceding taxable year)—
 
 &emsp;&emsp;“(A) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2006 shall be 105 percent of such amount,
 
-&emsp;&emsp;“(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 115 percent percent of such amount,
+&emsp;&emsp;“(B) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2012 shall be 100 percent of such amount,
 
 &emsp;&emsp;“(C) the amount of any required installment of corporate estimated tax which is otherwise due in July, August, or September of 2013 shall be 100.75 percent of such amount, and
 
@@ -599,9 +599,21 @@ Pub. L. 109–222, title IV, §401, May 17, 2006, 120 Stat. 353, as amended by P
 
 &emsp;“(3) 27.5 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2011 shall not be due until October 1, 2011.”
 
+\[Pub. L. 110–436, §6, Oct. 16, 2008, 122 Stat. 4981, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Oct. 16, 2008\] is increased by 2 percentage points.”\]
+
+\[Pub. L. 110–289, div. C, title III, §3094(a), July 30, 2008, 122 Stat. 2912, provided that: “Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 110–222, set out above\] is amended by striking the percentage contained therein and inserting ‘100 percent’. No other provision of law which would change such percentage shall have any force and effect.”\]
+
+\[Pub. L. 110–289, div. C, title III, §3094(b), July 30, 2008, 122 Stat. 2913, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 30, 2008\] is increased by 16.75 percentage points.”\]
+
+\[Pub. L. 110–287, §3, July 29, 2008, 122 Stat. 2649, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[July 29, 2008\] is increased by 0.25 percentage points.”\]
+
+\[Pub. L. 110–234, title XV, §15202, May 22, 2008, 122 Stat. 1500, and Pub. L. 110–246, §4(a), title XV, §15202, June 18, 2008, 122 Stat. 1664, 2262, provided that: “The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[June 18, 2008\] is increased by 7.75 percentage points.” Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
+\[Pub. L. 110–191, §4, Feb. 29, 2008, 122 Stat. 647, provided that: “The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Feb. 29, 2008\] is increased by 0.25 percentage points.”\]
+
 \[Pub. L. 110–142, §10, Dec. 20, 2007, 121 Stat. 1808, provided that: “The percentage under subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, set out above\] in effect on the date of the enactment of this Act \[Dec. 20, 2007\] is increased by 1.50 percentage points.”\]
 
-\[Pub. L. 110–138, title I, §107(a), (c), title VI, §602, Dec. 14, 2007, 121 Stat. 1459, 1490, provided that, effective on the date on which the United States-Peru Trade Promotion Agreement enters into force and ceasing to have effect on the date on which the Agreement terminates, section 401(1)(B) of Pub. L. 109–222, set out above, is amended by striking “115 percent” and inserting “115.75 percent”. See section 107(a), (c) of Pub. L. 110–138, set out in a note under section 3805 of Title 19, Customs Duties.\]
+\[Pub. L. 110–138, title I, §107(a), (c), title VI, §602, Dec. 14, 2007, 121 Stat. 1459, 1490, which directed amendment of section 401(1)(B) of Pub. L. 109–222, set out above, by striking “115 percent” and inserting “115.75 percent” effective on the date on which the United States-Peru Trade Promotion Agreement entered into force (Feb. 1, 2009) and ceasing to have effect on the date on which the Agreement terminates, could not be executed in view of the subsequent amendment by Pub. L. 110–289, §3094(a), which was effective July 30, 2008.\]
 
 #### Time for Payment of September 2001 and September 2004 Corporate Estimated Taxes
 
@@ -663,7 +675,7 @@ No addition to tax to be made under this section for any period before Mar. 16, 
 
 #### Waiver of Estimated Tax Penalties
 
-Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), withrespect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
+Section 1879(a) of Pub. L. 99–514 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1954 \[now 1986\] (relating to failure to pay estimated income tax) for any period before April 16, 1985 (March 16, 1985 in the case of a taxpayer subject to section 6655 of such Code), with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1984 \[Pub. L. 98–369, div. A\].”
 
 #### Underpayments of Estimated Tax for 1984
 

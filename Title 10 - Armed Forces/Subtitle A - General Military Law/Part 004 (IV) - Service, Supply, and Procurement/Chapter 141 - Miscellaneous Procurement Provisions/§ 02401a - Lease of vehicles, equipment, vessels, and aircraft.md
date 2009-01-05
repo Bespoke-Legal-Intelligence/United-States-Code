@@ -38,41 +38,7 @@ Pub. L. 107–314, div. A, title I, §133, Dec. 2, 2002, 116 Stat. 2477, provide
 
 #### Multi-Year Aircraft Lease Pilot Program
 
-Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, as amended by Pub. L. 108–375, div. A, title I, §133, Oct. 28, 2004, 118 Stat. 1829, provided that:
-
-“(a)
-
-Leased Aircraft.—The Secretary of the Air Force shall lease no tanker aircraft under the multiyear aircraft lease pilot program referred to in subsection (d).
-
-“(b)
-
-Multiyear Procurement Authority.—(1) The Secretary of the Air Force may, in accordance with section 2306b of title 10, United States Code, enter into a multiyear contract for the purchase of tanker aircraft.
-
-“(2) The total number of tanker aircraft purchased through a multiyear contract under this subsection may not exceed 100.
-
-“(3) Notwithstanding subsection (k) of section 2306b of title 10, United States Code, a contract under this subsection may be for any period not in excess of 10 program years.
-
-“(c)
-
-Study of Long-Term Tanker Aircraft Maintenance and Training Requirements.—(1) The Secretary of Defense shall carry out a study to identify alternative means for meeting the long-term requirements of the Air Force for—
-
-&emsp;“(A) the maintenance of tanker aircraft purchased under subsection (b); and
-
-&emsp;“(B) training in the operation of tanker aircraft purchased under subsection (b).
-
-“(2) Not later than April 1, 2004, the Secretary of Defense shall submit a report on the results of the study to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\].
-
-“(d)
-
-Multiyear Aircraft Lease Pilot Program Defined.—In this section, the term ‘multiyear aircraft lease pilot program’ means the aerial refueling aircraft program authorized under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284 \[set out below\]).
-
-“(e)
-
-Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to the Department of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.
-
-“(f)
-
-Relationship to Previous Law.—The multiyear procurement authority in subsection (b) may not be executed under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117) \[set out below\].”
+Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, as amended by Pub. L. 108–375, div. A, title I, §133, Oct. 28, 2004, 118 Stat. 1829, which prohibited the leasing of tanker aircraft pursuant to the multiyear aircraft lease pilot program under Pub. L. 107–117, §8159, set out below, and authorized the Secretary of the Air Force to enter into a multiyear contract for the purchase of such aircraft, was repealed by Pub. L. 110–417, \[div. A\], title I, §132, Oct. 14, 2008, 122 Stat. 4377.
 
 Pub. L. 107–206, title I, §308, Aug. 2, 2002, 116 Stat. 841, provided that: “During the current fiscal year and hereafter, section 2533a of title 10, United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) \[set out below\].”
 
@@ -118,7 +84,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as
 
 “(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein.
 
-“(g) Notwithstanding any other provision of law, any payments required for a lease entered into under thisSection, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
+“(g) Notwithstanding any other provision of law, any payments required for a lease entered into under this Section, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
 
 Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided that:
 

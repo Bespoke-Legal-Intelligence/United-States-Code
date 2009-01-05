@@ -2,39 +2,107 @@
 
 In this chapter:
 
-#### (1) Combination of institutions of higher education
+#### (1) Authorizing committees
+
+&emsp;The term “authorizing committees” means the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives.
+
+#### (2) Combination of institutions of higher education
 
 &emsp;The term “combination of institutions of higher education” means a group of institutions of higher education that have entered into a cooperative arrangement for the purpose of carrying out a common objective, or a public or private nonprofit agency, organization, or institution designated or created by a group of institutions of higher education for the purpose of carrying out a common objective on the group's behalf.
 
-#### (2) Department
+#### (3) Critical foreign language
+
+&emsp;Except as otherwise provided, the term “critical foreign language” means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
+
+#### (4) Department
 
 &emsp;The term “Department” means the Department of Education.
 
-#### (3) Disability
+#### (5) Diploma mill
+
+&emsp;The term “diploma mill” means an entity that—
+
+&emsp;&emsp;(A)(i) offers, for a fee, degrees, diplomas, or certificates, that may be used to represent to the general public that the individual possessing such a degree, diploma, or certificate has completed a program of postsecondary education or training; and
+
+&emsp;&emsp;(ii) requires such individual to complete little or no education or coursework to obtain such degree, diploma, or certificate; and
+
+&emsp;&emsp;(B) lacks accreditation by an accrediting agency or association that is recognized as an accrediting agency or association of institutions of higher education (as such term is defined in section 1002 of this title) by—
+
+&emsp;&emsp;&emsp;(i) the Secretary pursuant to subpart 2 of part G of subchapter IV of this chapter; or
+
+&emsp;&emsp;&emsp;(ii) a Federal agency, State government, or other organization or association that recognizes accrediting agencies or associations.
+
+#### (6) Disability
 
 &emsp;The term “disability” has the same meaning given that term under section 12102(2) of title 42.
 
-#### (4) Elementary school
+#### (7) Distance education
+
+#### (A) In general
+
+&emsp;&emsp;Except as otherwise provided, the term “distance education” means education that uses one or more of the technologies described in subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) to deliver instruction to students who are separated from the instructor; and
+
+&emsp;&emsp;&emsp;(ii) to support regular and substantive interaction between the students and the instructor, synchronously or asynchronously.
+
+#### (B) Inclusions
+
+&emsp;&emsp;For the purposes of subparagraph (A), the technologies used may include—
+
+&emsp;&emsp;&emsp;(i) the Internet;
+
+&emsp;&emsp;&emsp;(ii) one-way and two-way transmissions through open broadcast, closed circuit,cable, microwave, broadband lines, fiber optics, satellite, or wireless communications devices;
+
+&emsp;&emsp;&emsp;(iii) audio conferencing; or
+
+&emsp;&emsp;&emsp;(iv) video cassettes, DVDs, and CD–ROMs, if the cassettes, DVDs, or CD–ROMs are used in a course in conjunction with any of the technologies listed in clauses (i) through (iii).
+
+#### (8) Early childhood education program
+
+&emsp;The term “early childhood education program” means—
+
+&emsp;&emsp;(A) a Head Start program or an Early Head Start program carried out under the Head Start Act (42 U.S.C. 9831 et seq.), including a migrant or seasonal Head Start program, an Indian Head Start program, or a Head Start program or an Early Head Start program that also receives State funding;
+
+&emsp;&emsp;(B) a State licensed or regulated child care program; or
+
+&emsp;&emsp;(C) a program that—
+
+&emsp;&emsp;&emsp;(i) serves children from birth through age six that addresses the children's cognitive (including language, early literacy, and early mathematics), social, emotional, and physical development; and
+
+&emsp;&emsp;&emsp;(ii) is—
+
+&emsp;&emsp;&emsp;&emsp;(I) a State prekindergarten program;
+
+&emsp;&emsp;&emsp;&emsp;(II) a program authorized under section 619 \[20 U.S.C. 1419\] or part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a program operated by a local educational agency.
+
+#### (9) Elementary school
 
 &emsp;The term “elementary school” has the same meaning given that term under section 7801 of this title.
 
-#### (5) Gifted and talented
+#### (10) Gifted and talented
 
 &emsp;The term “gifted and talented” has the same meaning given that term under section 7801 of this title.
 
-#### (6) Local educational agency
+#### (11) Local educational agency
 
 &emsp;The term “local educational agency” has the same meaning given that term under section 7801 of this title.
 
-#### (7) New borrower
+#### (12) New borrower
 
 &emsp;The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
-#### (8) Nonprofit
+#### (13) Nonprofit
 
 &emsp;The term “nonprofit” as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
-#### (9) School or department of divinity
+#### (14) Poverty line
+
+&emsp;The term “poverty line” means the poverty line (as defined in section 9902(2) of title 42) applicable to a family of the size involved.
+
+#### (15) School or department of divinity
 
 &emsp;The term “school or department of divinity” means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—
 
@@ -42,45 +110,63 @@ In this chapter:
 
 &emsp;&emsp;(B) to prepare the students to teach theological subjects.
 
-#### (10) Secondary school
+#### (16) Secondary school
 
 &emsp;The term “secondary school” has the same meaning given that term under section 7801 of this title.
 
-#### (11) Secretary
+#### (17) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Education.
 
-#### (12) Service-learning
+#### (18) Service-learning
 
 &emsp;The term “service-learning” has the same meaning given that term under section 12511(23) of title 42.
 
-#### (13) Special education teacher
+#### (19) Special education teacher
 
-&emsp;The term “special education teacher” means teachers who teach children with disabilities as defined in section 1401 of this title.
+&emsp;The term “special education teacher” means teachers who teach children with disabilities as defined in section 602 of the Individuals with Disabilities Education Act.
 
-#### (14) State educational agency
+#### (20) State educational agency
 
 &emsp;The term “State educational agency” has the same meaning given that term under section 7801 of this title.
 
-#### (15) State higher education agency
-
-&emsp;The term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
-
-#### (16) State; Freely Associated States
+#### (21) State; Freely Associated States
 
 #### (A) State
 
-&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, theCommonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
+&emsp;&emsp;The term “State” includes, in addition to the several States of the United States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
 #### (B) Freely Associated States
 
 &emsp;&emsp;The term “Freely Associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091.)
+#### (22) State higher education agency
+
+&emsp;The term “State higher education agency” means the officer or agency primarily responsible for the State supervision of higher education.
+
+#### (23) Universal design
+
+&emsp;The term “universal design” has the meaning given the term in section 3002 of title 29.
+
+#### (24) Universal design for learning
+
+&emsp;The term “universal design for learning” means a scientifically valid framework for guiding educational practice that—
+
+&emsp;&emsp;(A) provides flexibility in the ways information is presented, in the ways students respond or demonstrate knowledge and skills, and in the ways students are engaged; and
+
+&emsp;&emsp;(B) reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient.
+
+(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+Section 212(d) of the Education for Economic Security Act, referred to in par. (3), is section 212(d) of title II of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1282, which was classified to section 3972(d) of this title, prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+
+The Head Start Act, referred to in par. (8)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Individuals with Disabilities Education Act, referred to in par. (8)(C)(ii)(II), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 
@@ -127,6 +213,10 @@ Section 1009, Pub. L. 89–329, title I, §112, formerly §109, Nov. 8, 1965, 79
 Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79 Stat. 1224, renumbered §111, Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, renumbered §112, Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, renumbered §113 and amended Pub. L. 94–482, title I, §101(e), (f)(2), Oct. 12, 1976, 90 Stat. 2085, 2086, directed that nothing in the section be held to modify any authority under the Smith-Lever Act, section 341 et seq. of Title 7, Agriculture.
 
 #### Amendments
+
+2008—Pub. L. 110–315, §103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
+
+Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 
 2002—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
 

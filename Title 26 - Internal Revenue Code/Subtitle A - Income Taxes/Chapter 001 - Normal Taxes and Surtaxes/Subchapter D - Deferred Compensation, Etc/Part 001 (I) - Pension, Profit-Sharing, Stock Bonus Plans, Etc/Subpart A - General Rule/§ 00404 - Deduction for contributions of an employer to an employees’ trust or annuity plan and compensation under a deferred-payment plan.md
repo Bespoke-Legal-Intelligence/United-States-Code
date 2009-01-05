@@ -22,7 +22,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;In the case of a multiemployer plan which the Secretary of Labor finds to be collectively bargained which makes an election under this subparagraph (in such manner and at such time as may be provided under regulations prescribed by the Secretary), if the full funding limitation determined under section 431(c)(6) for such year is zero, if as a result of any plan amendment applying to such plan year, the amount determined under section 431(c)(6)(A)(ii) exceeds the amount determined under section 431(c)(6)(A)(i), and if the funding method and the actuarial assumptions used are those used for such year under section 431, the maximum amount deductible in such year under the limitations of this paragraph shall be an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;(i) the full funding limitation for such year determined by applying section431(c)(6) but increasing the amount referred to in subparagraph (A) thereof by the decrease in the present value of all unamortized liabilities resulting from such amendment, or
+&emsp;&emsp;&emsp;(i) the full funding limitation for such year determined by applying section 431(c)(6) but increasing the amount referred to in subparagraph (A) thereof by the decrease in the present value of all unamortized liabilities resulting from such amendment, or
 
 &emsp;&emsp;&emsp;(ii) the normal cost under the plan reduced by the amount necessary to amortize in equal annual installments over 10 years (until fully amortized) the decrease described in clause (i).
 
@@ -36,7 +36,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;In the case of a defined benefit plan which is a multiemployer plan, except as provided in regulations, the maximum amount deductible under the limitations of this paragraph shall not be less than the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) 140 percent of the current liability of the plan determined under section 431(c)(6)(C), over
+&emsp;&emsp;&emsp;(i) 140 percent of the current liability of the plan determined under section 431(c)(6)(D), over
 
 &emsp;&emsp;&emsp;(ii) the value of the plan's assets determined under section 431(c)(2).
 
@@ -46,7 +46,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (2) Employees’ annuities
 
-&emsp;In the taxable year when paid, in an amount determined in accordance with paragraph (1), if the contributions are paid toward the purchase of retirement annuities, or retirement annuities and medical benefits as described in section 401(h), and such purchase is part of a plan which meets the requirements of section 401(a)(3), (4), (5), (6), (7), (8), (9), (11), (12), (13), (14), (15), (16), (17),<sup>1</sup> (19), (20), (22), (26), (27), and (31) and, if applicable, the requirements of section 401(a)(10) and of section 401(d), and if refunds of premiums, if any, are applied within the current taxable year or next succeeding taxable year toward the purchase of such retirement annuities, or such retirement annuities and medical benefits.
+&emsp;In the taxable year when paid, in an amount determined in accordance with paragraph (1),if the contributions are paid toward the purchase of retirement annuities, or retirement annuities and medical benefits as described in section 401(h), and such purchase is part of a plan which meets the requirements of section 401(a)(3), (4), (5), (6), (7), (8), (9), (11), (12), (13), (14), (15), (16), (17),<sup>1</sup> (19), (20), (22), (26), (27), (31), and (37) and, if applicable, the requirements of section 401(a)(10) and of section 401(d), and if refunds of premiums, if any, are applied within the current taxable year or next succeeding taxable year toward the purchase of such retirement annuities, or such retirement annuities and medical benefits.
 
 #### (3) Stock bonus and profit-sharing trusts
 
@@ -74,7 +74,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (v) Defined contribution plans subject to the funding standards
 
-&emsp;&emsp;&emsp;Except as provided by the Secretary, a defined contribution plan which is subject to the funding standards of section 412 shall be treated in the same manner as astock bonus or profit-sharing plan for purposes of this subparagraph.
+&emsp;&emsp;&emsp;Except as provided by the Secretary, a defined contribution plan which is subject to the funding standards of section 412 shall be treated in the same manner as a stock bonus or profit-sharing plan for purposes of this subparagraph.
 
 #### (B) Profit-sharing plan of affiliated group
 
@@ -102,7 +102,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;&emsp;(ii) the amount of contributions made to or under the defined benefit plans to the extent such contributions do not exceed the amount of employer contributions necessary to satisfy the minimum funding standard provided by section 412 with respect to any such defined benefit plans for the plan year which ends with or within such taxable year (or for any prior plan year).
 
-> &emsp;&emsp;A defined contribution plan which is a pension plan shall not be treated as failing to provide definitely determinable benefits merely by limiting employer contributions to amounts deductible under this section. For purposes of clause (ii), if paragraph (1)(D) applies to a defined benefit plan for any plan year, the amount necessary to satisfy the minimum funding standard provided by section 412 with respect to such plan for such plan year shall not be less than the unfunded current liability of such plan under section 412(<i>l</i>).<sup>1</sup> In the case of a defined benefit plan which is a single employer plan, the amount necessary to satisfy the minimum funding standard provided by section 412 shall not be less than the plan's funding shortfall determined under section 430.
+> &emsp;&emsp;A defined contribution plan which is a pension plan shall not be treated as failing to provide definitely determinable benefits merely by limiting employer contributions to amounts deductible under this section. In the case of a defined benefit plan which is a single employer plan, the amount necessary to satisfy the minimum funding standard provided by section 412 shall not be less than the excess (if any) of the plan's funding target (as defined in section 430(d)(1)) over the value of the plan's assets (as determined under section 430(g)(3)).
 
 #### (B) Carryover of contributions in excess of the deductible limit
 
@@ -120,7 +120,13 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;In the case of employer contributions to 1 or more defined contribution plans, this paragraph shall only apply to the extent that such contributions exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans. For purposes of this clause, amounts carried over from preceding taxable years under subparagraph (B) shall be treated as employer contributions to 1 or more defined contributions to the extent attributable to employer contributions to such plans in such preceding taxable years.
+&emsp;&emsp;&emsp;In the case of employer contributions to 1 or more defined contribution plans—
+
+&emsp;&emsp;&emsp;&emsp;(I) if such contributions do not exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans, this paragraph shall not apply to such contributions or to employer contributions to the defined benefit plans to which this paragraph would otherwise apply by reason of contributions to the defined contribution plans, and
+
+&emsp;&emsp;&emsp;&emsp;(II) if such contributions exceed 6 percent of such compensation, this paragraph shall be applied by only taking into account such contributions to the extent of such excess.
+
+&emsp;&emsp;&nbsp;For purposes of this clause, amounts carried over from preceding taxable years under subparagraph (B) shall be treated as employer contributions to 1 or more defined contributions plans to the extent attributable to employer contributions to such plans in such preceding taxable years.
 
 #### (iv) Guaranteed plans
 
@@ -142,7 +148,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;(B) the term “earned income” has the meaning assigned to it by section 401(c)(2);
 
-&emsp;&emsp;(C) the contributions to such plan on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall be considered to satisfy the conditions of section 162 or 212 to the extent that such contributions do not exceed the earned income of such individual (determined without regard to the deductions allowed by this section) derived from the trade or business with respect to which such plan is established, and to the extent that such contributions are not allocable (determined in accordance with regulations prescribed by the Secretary) to the purchase of life, accident, health, or other insurance; and
+&emsp;&emsp;(C) the contributions to such plan on behalf of an individual who is an employee within the meaning of section 401(c)(1) shall be considered to satisfy the conditions ofsection 162 or 212 to the extent that such contributions do not exceed the earned income of such individual (determined without regard to the deductions allowed by this section) derived from the trade or business with respect to which such plan is established, and to the extent that such contributions are not allocable (determined in accordance with regulations prescribed by the Secretary) to the purchase of life, accident, health, or other insurance; and
 
 &emsp;&emsp;(D) any reference to compensation shall, in the case of an individual who is an employee within the meaning of section 401(c)(1), be considered to be a reference to the earned income of such individual derived from the trade or business with respect to which the plan is established.
 
@@ -238,7 +244,7 @@ If a plan would be described in so much of subsection (a) as precedes paragraph 
 
 #### (e) Contributions allocable to life insurance protection for self-employed individuals
 
-In the case of a self-employed individual described in section 401(c)(1), contributions whichare allocable (determined under regulations prescribed by the Secretary) to the purchase of life, accident, health, or other insurance shall not be taken into account under paragraph (1), (2), or (3) of subsection (a).
+In the case of a self-employed individual described in section 401(c)(1), contributions which are allocable (determined under regulations prescribed by the Secretary) to the purchase of life, accident, health, or other insurance shall not be taken into account under paragraph (1), (2), or (3) of subsection (a).
 
 #### \[(f) Repealed. Pub. L. 98–369, div. A, title VII, §713(b)(3), July 18, 1984, 98 Stat. 957\]
 
@@ -440,7 +446,7 @@ For purposes of subsection (a)(1)(A)—
 
 &emsp;&emsp;&emsp;&emsp;(III) the cushion amount for the plan year, over
 
-&emsp;&emsp;&emsp;(ii) the value (determined under section 430(g)(2)) of the assets of the plan which are held by the plan as of the valuation date for the plan year.
+&emsp;&emsp;&emsp;(ii) the value (determined under section 430(g)(3)) of the assets of the plan which are held by the plan as of the valuation date for the plan year.
 
 #### (B) Special rule for certain employers
 
@@ -484,7 +490,7 @@ For purposes of subsection (a)(1)(A)—
 
 #### (B) Rule for determining number of participants
 
-&emsp;&emsp;For purposes of determining the number of plan participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(f)(4))) <sup>1</sup> shall be treated as one plan, but only participants of such member or employer shall be taken into account.
+&emsp;&emsp;For purposes of determining the number of plan participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(d)(3)) shall be treated as one plan, but only participants of such member or employer shall be taken into account.
 
 #### (5) Special rule for terminating plans
 
@@ -498,7 +504,11 @@ For purposes of subsection (a)(1)(A)—
 
 &emsp;Any term used in this subsection which is also used in section 430 shall have the same meaning given such term by section 430.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 138; Pub. L. 85–866, title I, §24, Sept. 2, 1958, 72 Stat. 1623; Pub. L. 87–792, §3, Oct. 10, 1962, 76 Stat. 819; Pub. L. 87–863, §2(b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 89–809, title II, §204(a), (b)(2), (3), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 91–172, title III, §321(b)(3), Dec. 30, 1969, 83 Stat. 591; Pub. L. 93–406, title II, §§1013(c), 1016(a)(3), 2001(a), (g)(2)(E), (F), 2004(b), (c)(1), 2007(a), (b), title IV, §4401(a), formerly §4081(a), Sept. 2, 1974, 88 Stat. 921, 929, 952, 957, 986, 993, 994, 1033, renumbered §4401(a), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–267, §1(c)(3), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XV, §1502(a)(2), title XIX, §§1901(a)(59), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1774, 1834; Pub. L. 95–600, title I, §§133(a), (b), 141(f)(9), 152(f), Nov. 6, 1978, 92 Stat. 2783, 2795, 2799; Pub. L. 96–222, title I, §101(a)(10)(E), (J)(ii), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 96–364, title II, §205, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 97–34, title III, §§312(a), 331(b), 333(a), Aug. 13, 1981, 95 Stat. 283, 293, 296; Pub. L. 97–248, title II, §§235(f), 237(e)(2), 238(a), 253(b), Sept. 3, 1982, 96 Stat. 507, 512, 533; Pub. L. 98–369, div. A, title IV, §474(r)(14), title V, §§512(a), 542(a), title VII, §713(b)(3), (d)(4)(A), (5), (6), (9), July 18, 1984, 98 Stat. 842, 862, 890, 957, 958; Pub. L. 99–272, title XI, §11011(c)(1), (2), Apr. 7, 1986, 100 Stat. 257, 258; Pub. L. 99–514, title XI, §§1106(d)(2), 1108(c), 1112(d)(2), 1131(a), (b), 1136(b), 1171(b)(6), 1173(a), title XVIII, §§1848(c), 1851(b)(2)(A)–(C)(ii), 1854(b)(2)–(5), 1875(c)(7), Oct. 22, 1986, 100 Stat. 2424, 2433, 2445, 2476, 2477, 2486, 2513, 2515, 2857, 2863, 2878, 2895; Pub. L. 100–203, title IX, §9307(c), (d), title X, §10201(b)(2), (3), Dec. 22, 1987, 101 Stat. 1330–357, 1330–387; Pub. L. 100–647, title I, §§1011(d)(1), (4), (f)(6), 1011A(e)(4), 1011B(h)(3), (6), 1018(t)(4)(A), (5), title II, §2005(b), Nov. 10, 1988, 102 Stat. 3459, 3463, 3478, 3491, 3492, 3588, 3589, 3610; Pub. L. 101–239, title VII, §§7302(a), 7841(b)(1), Dec. 19, 1989, 103 Stat. 2351, 2428; Pub. L. 101–508, title XI, §11812(b)(7), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 102–318, title V, §522(a)(2), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13212(c)(1), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §751(a)(11), Dec. 8, 1994, 108 Stat. 5022; Pub. L. 104–188, title I, §§1316(d)(1), (2), 1421(b)(2), 1431(b)(3), 1461(b), 1704(q)(1), (t)(76), Aug. 20, 1996, 110 Stat. 1786, 1795, 1803, 1823, 1887, 1891; Pub. L. 105–34, title XV, §1530(c)(2), title XVI, §1601(d)(2)(C), Aug. 5, 1997, 111 Stat. 1078, 1088; Pub. L. 105–206, title VI, §6015(d), title VII, §7001(a), July 22, 1998, 112 Stat. 821, 827; Pub. L. 107–16, title VI, §§611(c)(1), 614(a), 616(a)–(b)(2)(A), 632(a)(3)(B), 652(a), 662(a), (b), June 7, 2001, 115 Stat. 97, 102, 103, 114, 129, 142; Pub. L. 107–147, title IV, §411(<i>l</i>)(1), (2), (4), (s), (w), Mar. 9, 2002, 116 Stat. 47, 51, 52; Pub. L. 108–218, title I, §101(b)(5), Apr. 10, 2004, 118 Stat. 598; Pub. L. 109–280, title VIII, §§801(a)–(c)(3), (d), 802(a), 803(a), (b), Aug. 17, 2006, 120 Stat. 992–996.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 138; Pub. L. 85–866, title I, §24, Sept. 2, 1958, 72 Stat. 1623; Pub. L. 87–792, §3, Oct. 10, 1962, 76 Stat. 819; Pub. L. 87–863, §2(b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 89–809, title II, §204(a), (b)(2), (3), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 91–172, title III, §321(b)(3), Dec. 30, 1969, 83 Stat. 591; Pub. L. 93–406, title II, §§1013(c), 1016(a)(3), 2001(a), (g)(2)(E), (F), 2004(b), (c)(1), 2007(a), (b), title IV, §4401(a), formerly §4081(a), Sept. 2, 1974, 88 Stat. 921, 929, 952, 957, 986, 993, 994, 1033, renumbered §4401(a), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–267, §1(c)(3), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XV, §1502(a)(2), title XIX, §§1901(a)(59), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1774, 1834; Pub. L. 95–600, title I, §§133(a), (b), 141(f)(9), 152(f), Nov. 6, 1978, 92 Stat. 2783, 2795, 2799; Pub. L. 96–222, title I, §101(a)(10)(E), (J)(ii), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 96–364, title II, §205, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 97–34, title III, §§312(a), 331(b), 333(a), Aug. 13, 1981, 95 Stat. 283, 293, 296; Pub. L. 97–248, title II, §§235(f), 237(e)(2), 238(a), 253(b), Sept. 3, 1982, 96 Stat. 507, 512, 533; Pub. L. 98–369, div. A, title IV, §474(r)(14), title V, §§512(a), 542(a), title VII, §713(b)(3), (d)(4)(A), (5), (6), (9), July 18, 1984, 98 Stat. 842, 862, 890, 957, 958; Pub. L. 99–272, title XI, §11011(c)(1), (2), Apr. 7, 1986, 100 Stat. 257, 258; Pub. L. 99–514, title XI, §§1106(d)(2), 1108(c), 1112(d)(2), 1131(a), (b), 1136(b), 1171(b)(6), 1173(a), title XVIII, §§1848(c), 1851(b)(2)(A)–(C)(ii), 1854(b)(2)–(5), 1875(c)(7), Oct. 22, 1986, 100 Stat. 2424, 2433, 2445, 2476, 2477, 2486, 2513, 2515, 2857, 2863, 2878, 2895; Pub. L. 100–203, title IX, §9307(c), (d), title X, §10201(b)(2), (3), Dec. 22, 1987, 101 Stat. 1330–357, 1330–387; Pub. L. 100–647, title I, §§1011(d)(1), (4), (f)(6), 1011A(e)(4), 1011B(h)(3), (6), 1018(t)(4)(A), (5), title II, §2005(b), Nov. 10, 1988, 102 Stat. 3459, 3463, 3478, 3491, 3492, 3588, 3589, 3610; Pub. L. 101–239, title VII, §§7302(a), 7841(b)(1),Dec. 19, 1989, 103 Stat. 2351, 2428; Pub. L. 101–508, title XI, §11812(b)(7), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 102–318, title V, §522(a)(2), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13212(c)(1), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §751(a)(11), Dec. 8, 1994, 108 Stat. 5022; Pub. L. 104–188, title I, §§1316(d)(1), (2), 1421(b)(2), 1431(b)(3), 1461(b), 1704(q)(1), (t)(76), Aug. 20, 1996, 110 Stat. 1786, 1795, 1803, 1823, 1887, 1891; Pub. L. 105–34, title XV, §1530(c)(2), title XVI, §1601(d)(2)(C), Aug. 5, 1997, 111 Stat. 1078, 1088; Pub. L. 105–206, title VI, §6015(d), title VII, §7001(a), July 22, 1998, 112 Stat. 821, 827; Pub. L. 107–16, title VI, §§611(c)(1), 614(a), 616(a)–(b)(2)(A), 632(a)(3)(B), 652(a), 662(a), (b), June 7, 2001, 115 Stat. 97, 102, 103, 114, 129, 142; Pub. L. 107–147, title IV, §411(<i>l</i>)(1), (2), (4), (s), (w), Mar. 9, 2002, 116 Stat. 47, 51, 52; Pub. L. 108–218, title I, §101(b)(5), Apr. 10, 2004, 118 Stat. 598; Pub. L. 109–280, title VIII, §§801(a)–(c)(3), (d), 802(a), 803(a), (b), Aug. 17, 2006, 120 Stat. 992–996; Pub. L. 110–245, title I, §104(c)(1), June 17, 2008, 122 Stat. 1627; Pub. L. 110–458, title I, §108(a)–(c), Dec. 23, 2008, 122 Stat. 5108.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -510,15 +520,25 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(1)(D)(iv), (7)(C)(iv), (g)(1), (3)(B), (C), (4), and (<i>o</i>)(3)(B)(ii), (5), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4021, 4022, 4041, 4062, 4063, and 4064 of the Employee Retirement Income Security Act of 1974 are classified to sections 1321, 1322, 1341, 1362, 1363, and 1364, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 412, referred to in subsecs. (a)(7)(A) and (<i>o</i>)(4)(B), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (f) or (<i>l</i>). However, the term “controlled group” is defined elsewhere in that section.
-
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(4), is the date of enactment of subtitle F (§§750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
 
+2008—Subsec. (a)(1)(D)(i). Pub. L. 110–458, §108(b), substituted “431(c)(6)(D)” for “431(c)(6)(C)”.
+
+Subsec. (a)(2). Pub. L. 110–245 substituted “(31), and (37)” for “and (31)”.
+
+Subsec. (a)(7)(A). Pub. L. 110–458, §108(a)(2), in concluding provisions, substituted “the excess (if any) of the plan's funding target (as defined in section 430(d)(1)) over the value of the plan's assets (as determined under section 430(g)(3))” for “the plan's funding shortfall determined under section 430” in last sentence and struck out second sentence which read as follows: “For purposes of clause (ii), if paragraph (1)(D) applies to a defined benefit plan for any plan year, the amount necessary to satisfy the minimum funding standard provided by section 412 with respect to such plan for such plan year shall not be less than the unfunded current liability of such plan under section 412(<i>l</i>).”
+
+Subsec. (a)(7)(C)(iii). Pub. L. 110–458, §108(c), amended cl. (iii) generally. Prior to amendment, text read as follows: “In the case of employer contributions to 1 or more defined contribution plans, this paragraph shall only apply to the extent that such contributions exceed 6 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under such plans. For purposes of this clause, amounts carried over from preceding taxable years under subparagraph (B) shall be treated as employer contributions to 1 or more defined contributions to the extent attributable to employer contributions to such plans in such preceding taxable years.”
+
+Subsec. (<i>o</i>)(2)(A)(ii). Pub. L. 110–458, §108(a)(1)(A), substituted “430(g)(3)” for “430(g)(2)”.
+
+Subsec. (<i>o</i>)(4)(B). Pub. L. 110–458, §108(a)(1)(B), substituted “412(d)(3)” for “412(f)(4)”.
+
 2006—Subsec. (a)(1)(A). Pub. L. 109–280, §801(a)(1), (c)(1), inserted “in the case of a defined benefit plan other than a multiemployer plan, in an amount determined under subsection (<i>o</i>), and in the case of any other plan” after “section 501(a),” in introductory provisions and substituted “431” for “412” in two places in concluding provisions.
 
-Subsec. (a)(1)(B). Pub. L. 109–280, §801(c)(2), in introductory provisions, substituted “In the case of a multiemployer plan” for “In the case of a plan”, “431(c)(6)” for “412(c)(7)”, “431(c)(6)(A)(ii)” for “412(c)(7)(B)”,“431(c)(6)(A)(i)” for “412(c)(7)(A)”, and “431” for “412”, and, in cl. (i), substituted “431(c)(6)” for “412(c)(7)”.
+Subsec. (a)(1)(B). Pub. L. 109–280, §801(c)(2), in introductory provisions, substituted “In the case of a multiemployer plan” for “In the case of a plan”, “431(c)(6)” for “412(c)(7)”, “431(c)(6)(A)(ii)” for “412(c)(7)(B)”, “431(c)(6)(A)(i)” for “412(c)(7)(A)”, and “431” for “412”, and, in cl. (i), substituted “431(c)(6)” for “412(c)(7)”.
 
 Subsec. (a)(1)(D). Pub. L. 109–280, §802(a), amended heading and text of subpar. (D) generally, substituting provisions relating to maximum amount deductible in the case of a defined benefit plan which is a multiemployer plan for provisions relating to maximum amount deductible in the case of any defined benefit plan and stating rule for plans with 100 or less participants, rule for determining number of participants, and rule for terminating plans.
 
@@ -624,7 +644,7 @@ Pub. L. 100–647, §2005(b)(1), substituted “For purposes of determining whet
 
 Subsec. (a)(7)(A). Pub. L. 100–647, §2005(b)(2), inserted at end “For purposes of clause (ii), if paragraph (1)(D) applies to a defined benefit plan for any plan year, the amount necessary to satisfy the minimum funding standard provided by section 412 with respect to such plan for such plan year shall not be less than the unfunded current liability of such plan under section 412(<i>l</i>).”
 
-Pub. L. 100–647, §1011A(e)(4)(A), in introductory provisions, substituted “foregoing paragraphs” for “foregoing provisions” and inserted “or in connection with trusts or plans described in 2 or more of such paragraphs” after “defined benefit plans”.
+Pub. L. 100–647, §1011A(e)(4)(A), in introductory provisions, substituted “foregoing paragraphs” for “foregoing provisions” and inserted “or in connection withtrusts or plans described in 2 or more of such paragraphs” after “defined benefit plans”.
 
 Subsec. (a)(8)(D). Pub. L. 100–647, §1018(t)(5), made technical correction to Pub. L. 99–514, §1875(c)(7)(B), see 1986 Amendment note below.
 
@@ -796,6 +816,12 @@ Subsecs. (e), (f). Pub. L. 87–792, §3(b), added subsecs. (e) and (f).
 
 1958—Subsec. (a). Pub. L. 85–866 substituted “income); but, if” for “income) but if” preceding par. (1).
 
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
+
+Amendment by Pub. L. 110–245 applicable with respect to deaths and disabilities occurring on or after Jan. 1, 2007, see section 104(d)(1) of Pub. L. 110–245, set out as a note under section 401 of this title.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title VIII, §801(e), Aug. 17, 2006, 120 Stat. 995, provided that:
@@ -842,7 +868,7 @@ Pub. L. 107–16, title VI, §616(c), June 7, 2001, 115 Stat. 103, provided that
 
 Amendment by section 632(a)(3)(B) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 632(a)(4) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
-Pub. L. 107–16, title VI, §652(c), June 7, 2001, 115 Stat. 130, provided that: “The amendments made by this section \[amending this section and section 4972 of thistitle\] shall apply to plan years beginning after December 31, 2001.”
+Pub. L. 107–16, title VI, §652(c), June 7, 2001, 115 Stat. 130, provided that: “The amendments made by this section \[amending this section and section 4972 of this title\] shall apply to plan years beginning after December 31, 2001.”
 
 Pub. L. 107–16, title VI, §662(c), June 7, 2001, 115 Stat. 142, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
 
@@ -946,7 +972,7 @@ Section 1131(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 4972 of this title and amending this section\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section4972 of this title and amending this section\] shall apply to taxable years beginning after December 31, 1986.
 
 “(2)
 
@@ -1014,7 +1040,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 133(c) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(5), Apr. 1, 1980, 94 Stat. 196;Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 133(c) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(5), Apr. 1, 1980, 94 Stat. 196; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 
@@ -1106,7 +1132,7 @@ Not Considered Method of Accounting.—For purposes of section 446 of the Intern
 
 “(b)
 
-Regulations.—The Secretary of the Treasury shall promulgate such regulations as necessary to clarify that a taxpayer shall not be allowed an aggregate amount of deductions for contributions to a multiemployer pension plan which exceeds the amount of such contributions made or deemed made under section404(a)(6) of the Internal Revenue Code of 1986 to such plan.
+Regulations.—The Secretary of the Treasury shall promulgate such regulations as necessary to clarify that a taxpayer shall not be allowed an aggregate amount of deductions for contributions to a multiemployer pension plan which exceeds the amount of such contributions made or deemed made under section 404(a)(6) of the Internal Revenue Code of 1986 to such plan.
 
 “(c)
 

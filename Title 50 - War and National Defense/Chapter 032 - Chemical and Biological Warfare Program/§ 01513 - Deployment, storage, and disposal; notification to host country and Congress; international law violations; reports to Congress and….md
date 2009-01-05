@@ -8,17 +8,17 @@
 
 > unless prior notice of such deployment, storage, or disposal has been given to the country exercising jurisdiction over such place. In the case of any place outside the United States which is under the jurisdiction or control of the United States Government, no such action may be taken unless the Secretary gives prior notice of such action to the President of the Senate and the Speaker of the House of Representatives. As used in this paragraph, the term “United States” means the several States and the District of Columbia.
 
-(2) None of the funds authorized by this Act or any other Act shall be used for the future testing, development, transportation, storage, or disposal of any lethal chemical or any biologicalwarfare agent outside the United States, or for the disposal of any munitions in international waters, if the Secretary of State, after appropriate notice by the Secretary whenever any such action is contemplated, determines that such testing, development, transportation, storage, or disposal will violate international law. The Secretary of State shall report all determinations made by him under this paragraph to the President of the Senate and the Speaker of the House of Representatives, and to all appropriate international organizations, or organs thereof, in the event such report is required by treaty or other international agreement.
+(2) None of the funds authorized by this Act or any other Act shall be used for the future testing, development, transportation, storage, or disposal of any lethal chemical or any biological warfare agent outside the United States, or for the disposal of any munitions in international waters, if the Secretary of State, after appropriate notice by the Secretary whenever any such action is contemplated, determines that such testing, development, transportation, storage, or disposal will violate international law. The Secretary of State shall report all determinations made by him under this paragraph to the President of the Senate and the Speaker of the House of Representatives, and to all appropriate international organizations, or organs thereof, in the event such report is required by treaty or other international agreement.
 
 (Pub. L. 91–121, title IV, §409(c), Nov. 19, 1969, 83 Stat. 210; Pub. L. 91–441, title V, §506(b)(2), (3), Oct. 7, 1970, 84 Stat. 912.)
 
 #### References in Text
 
-This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are notclassified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1970—Par. (1). Pub. L. 91–441, §506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
+<b>1970</b>—Par. (1). Pub. L. 91–441, §506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
 
 Par. (2). Pub. L. 91–441, §506(b)(3), inserted reference to disposal of munitions in international waters.
 

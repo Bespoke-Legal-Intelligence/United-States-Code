@@ -2,7 +2,7 @@
 
 #### (a) Programs
 
-The Director may, by contract or grant, provide for any public or private organization to perform any program function under this division.
+The Director may, by contract or grant, provide for any public or private organization toperform any program function under this division.
 
 #### (b) Equipment and facilities
 

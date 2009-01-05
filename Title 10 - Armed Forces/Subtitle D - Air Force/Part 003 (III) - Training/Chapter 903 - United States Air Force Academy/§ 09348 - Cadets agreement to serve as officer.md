@@ -114,7 +114,7 @@ Secretary of the Air Force to prescribe regulations required by subsec. (c) of t
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) ofPub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
 #### Department of Defense Policy on Service Academy and ROTC Graduates Seeking To Participate in Professional Sports Before Completion of Their Active-Duty Service Obligations
 

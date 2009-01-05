@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall include in each contract with a contractor of the Department who has entered into an agreement of indemnification under section 2210(d) of this title provisions that provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any regulation promulgated under subsection (a) of this section.
+&emsp;The Secretary shall include in each contract with a contractor of the Department who has entered into an agreement of indemnification under section 2210(d) of this title provisionsthat provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any regulation promulgated under subsection (a) of this section.
 
 #### (2) Contents
 

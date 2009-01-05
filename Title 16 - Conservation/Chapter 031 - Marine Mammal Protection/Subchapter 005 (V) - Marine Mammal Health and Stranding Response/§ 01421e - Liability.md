@@ -22,5 +22,5 @@ Subsection (a) of this section does not apply to actions of a person described i
 
 #### Amendments
 
-1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, §24(c)(3), (4), made technical amendment to references to section1421c of this title to reflect renumbering of corresponding section of original act.
+1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, §24(c)(3), (4), made technical amendment to references to section 1421c of this title to reflect renumbering of corresponding section of original act.
 

@@ -22,7 +22,7 @@ As used in this chapter—
 
 (j) The term “security” has the meaning ascribed to it by section 77b of title 15.
 
-(k) The term “State”, whether used as a noun or otherwise, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+(k) The term “State”, whether used as a noun or otherwise, includes the several States, theDistrict of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
 (<i>l</i>) The term “mortgage insurance program” includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
 
@@ -84,15 +84,7 @@ Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, ti
 
 #### Regulations
 
-Section 1383 of Pub. L. 102–550 provided that:
-
-“(a)
-
-In General.—The Secretary of Housing and Urban Development and the Director, as appropriate, shall issue any final regulations necessary to implement the amendments made by this subtitle \[subtitle D (§§1381–1383) of title XIII of Pub. L. 102–550, amendingthis section and sections 1452 to 1456, 1716, 1717 to 1719, 1723, 1723a, and 1723c of this title and provisions set out as a note above\] not later than the expiration of the 18-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].
-
-“(b)
-
-Notice and Comment.—The regulations under this section shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code.”
+Pub. L. 102–550, title XIII, §1383, Oct. 28, 1992, 106 Stat. 4008, directed the Secretary of Housing and Urban Development and the Director to issue final regulationsto implement amendments by subtitle D (§§1381–1383) of title XIII of Pub. L. 102–550 not later than the expiration of the 18-month period beginning on Oct. 28, 1992, prior to repeal by Pub. L. 110–289, div. A, title I, §1161(a)(4), July 30, 2008, 122 Stat. 2779.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

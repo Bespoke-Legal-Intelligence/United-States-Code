@@ -22,7 +22,7 @@ Participation in Gas or Electric Utility Programs.—The Secretary of Defense sh
 
 (c)
 
-Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
+Acceptance of Financial Incentive, Goods, or Services.—The Secretary of Defensemay authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
 
 (d)
 
@@ -34,9 +34,11 @@ Agreements With Gas or Electric Utilities.—(1) The Secretary of Defense may au
 
 (4) An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, §511(c), Dec. 19, 2007, 121 Stat. 1658.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, §511(c), Dec. 19, 2007, 121 Stat. 1658; Pub. L. 110–181, div. B, title XXVIII, §2861, Jan. 28, 2008, 122 Stat. 559.)
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, §511(c). See 2007 Amendment note below.
 
 2007—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
 

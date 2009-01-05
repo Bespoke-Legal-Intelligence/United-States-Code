@@ -26,7 +26,7 @@ A member bank may make extensions of credit to any executive officer of the bank
 
 #### (4) General limitation on amount of credit
 
-A member bank may make extensions of credit not otherwise specifically authorized under this section to any executive officer of the bank, in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency.
+A member bank may make extensions of credit not otherwise specifically authorized under this section to any executive officer of the bank, in an amount prescribed in a regulation of themember bank's appropriate Federal banking agency.
 
 #### (5) Partnership loans
 
@@ -60,7 +60,7 @@ Proviso which permitted renewal or extension of loans made to executive officers
 
 Par. (3). Pub. L. 97–320, §421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
 
-Par. (4). Pub. L. 97–320, §421(b), substituted “in an amount prescribed in a regulation of the memberbank's appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
+Par. (4). Pub. L. 97–320, §421(b), substituted “in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
 
 1978—Par. (2). Pub. L. 95–630 substituted “$60,000” for “$30,000”.
 

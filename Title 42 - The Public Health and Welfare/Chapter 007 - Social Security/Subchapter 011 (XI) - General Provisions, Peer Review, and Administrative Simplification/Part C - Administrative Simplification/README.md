@@ -14,3 +14,4 @@ Part C—Administrative Simplification
 - [&sect; 01320d&#8211;6 - Wrongful disclosure of individually identifiable health information](%C2%A7%2001320d%E2%80%936%20-%20Wrongful%20disclosure%20of%20individually%20identifiable%20health%20information.md)
 - [&sect; 01320d&#8211;7 - Effect on State law](%C2%A7%2001320d%E2%80%937%20-%20Effect%20on%20State%20law.md)
 - [&sect; 01320d&#8211;8 - Processing payment transactions by financial institutions](%C2%A7%2001320d%E2%80%938%20-%20Processing%20payment%20transactions%20by%20financial%20institutions.md)
+- [&sect; 01320d&#8211;9 - Application of HIPAA regulations to genetic information](%C2%A7%2001320d%E2%80%939%20-%20Application%20of%20HIPAA%20regulations%20to%20genetic%20information.md)

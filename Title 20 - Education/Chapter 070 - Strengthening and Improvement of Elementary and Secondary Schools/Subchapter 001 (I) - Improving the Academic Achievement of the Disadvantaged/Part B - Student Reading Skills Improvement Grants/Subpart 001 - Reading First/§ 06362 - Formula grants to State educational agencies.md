@@ -32,7 +32,7 @@
 
 #### (2) State allotments
 
-&emsp;In accordance with paragraph (3), the Secretary shall allot among each of the Statesthe total amount made available to carry out this subpart for any fiscal year and not reserved under paragraph (1).
+&emsp;In accordance with paragraph (3), the Secretary shall allot among each of the States the total amount made available to carry out this subpart for any fiscal year and not reserved under paragraph (1).
 
 #### (3) Determination of State allotment amounts
 
@@ -52,7 +52,7 @@
 
 #### (4) Distribution of subgrants
 
-&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80 percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
+&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
 
 #### (5) Reallotment
 
@@ -112,7 +112,7 @@
 
 #### (A) Required uses
 
-&emsp;&emsp;Subject to paragraph (8), an eligible local educational agency that receives a subgrantunder this subsection shall use the funds provided under the subgrant to carry out the following activities:
+&emsp;&emsp;Subject to paragraph (8), an eligible local educational agency that receives a subgrant under this subsection shall use the funds provided under the subgrant to carry out the following activities:
 
 &emsp;&emsp;&emsp;(i) Selecting and administering screening, diagnostic, and classroom-based instructional reading assessments.
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Specific identification of those schools and local educational agencies that report the largest gains in reading achievement.
 
-&emsp;&emsp;&emsp;&emsp;(III) The progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level, asdemonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction.
+&emsp;&emsp;&emsp;&emsp;(III) The progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level, as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Evidence on whether the State educational agency and local educational agencies within the State have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
 
@@ -278,7 +278,7 @@
 
 #### (B) Information included
 
-&emsp;&emsp;The progress report shall include information on the progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
+&emsp;&emsp;The progress report shall include information on the progress the State educationalagency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
 
 #### (2) Peer review
 

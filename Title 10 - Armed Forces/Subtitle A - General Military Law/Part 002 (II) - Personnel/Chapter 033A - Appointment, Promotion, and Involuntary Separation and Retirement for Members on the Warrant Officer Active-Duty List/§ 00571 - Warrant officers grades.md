@@ -154,7 +154,7 @@ Savings Provision.—Subject to subsection (b), a regular warrant officer of the
 
 &emsp;“(2) is on a list of officers recommended for promotion to a regular chief warrant officer grade,
 
-> may be retained on active duty until he completes 30 years of active service or 24 years of active warrant officer service, whichever is later, that could be credited to him under section 511 of the Career Compensation Act of 1949 (70 Stat. 114) \[set out as a note under section 580 of this title\] (as in effect on the day before the effective date of this part \[Feb. 1, 1992\]), and then be retired under the appropriate provision of title 10, United States Code, on the first day of the month after the month in which he completes that service.
+> may be retained on active duty until he completes 30 years of active service or 24 years of active warrant officer service, whichever is later, that could be credited to him under section 511 of the Career Compensation Act of 1949 (70 Stat. 114) \[act Oct. 12, 1949, formerly set out as a note under section 580 of this title\] (as in effect on the day before the effective date of this part \[Feb. 1, 1992\]), and then be retired under the appropriate provision of title 10, United States Code, on the first day of the month after the month in which he completes that service.
 
 “(b)
 
@@ -168,7 +168,7 @@ Exceptions.—Subsection (a) does not apply to a regular warrant officer who—
 
 #### Delegation of Functions
 
-Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
+Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005,70 F.R. 43739, set out as a note under section 531 of this title.
 
 #### Establishment of Permanent Grade of Chief Warrant Officer, W–5
 

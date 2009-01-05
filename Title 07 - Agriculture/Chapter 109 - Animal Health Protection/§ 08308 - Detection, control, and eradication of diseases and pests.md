@@ -10,11 +10,27 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 &emsp;The Secretary may pay a claim arising out of the destruction of any animal, article, or means of conveyance consistent with the purposes of this chapter.
 
-#### (2) Reviewability
+#### (2) Specific cooperative programs
 
-&emsp;The action of the Secretary in carrying out paragraph (1) shall not be subject to review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+&emsp;The Secretary shall compensate industry participants and State agencies that cooperate with the Secretary in carrying out operations and measures under subsection (a) for 100 percent of eligible costs relating to cooperative programs involving Federal, State, and industry participants to control diseases of low pathogenicity in accordance with regulations issued by the Secretary.
 
-(Pub. L. 107–171, title X, §10409, May 13, 2002, 116 Stat. 501.)
+#### (3) Reviewability
+
+&emsp;The action of the Secretary in carrying out paragraph (1) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+
+(Pub. L. 107–171, title X, §10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, §11011(2), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Subsec. (b)(2), (3). Pub. L. 110–246, §11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out “of longer than 60 days” after “review”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Transfer of Functions
 

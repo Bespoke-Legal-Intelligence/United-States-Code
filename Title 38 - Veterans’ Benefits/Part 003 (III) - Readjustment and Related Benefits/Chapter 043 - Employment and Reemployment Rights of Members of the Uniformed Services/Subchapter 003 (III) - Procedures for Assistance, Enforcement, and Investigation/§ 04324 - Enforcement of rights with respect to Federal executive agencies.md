@@ -1,10 +1,14 @@
 ### §4324. Enforcement of rights with respect to Federal executive agencies
 
-(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e)may request that the Secretary refer the complaint for litigation before the Merit Systems Protection Board. The Secretary shall refer the complaint to the Office of Special Counsel established by section 1211 of title 5.
+(a)(1) A person who receives from the Secretary a notification pursuant to section 4322(e) may request that the Secretary refer the complaint for litigation before the Merit Systems Protection Board. Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer the complaint to the Office of Special Counsel established by section 1211 of title 5.
 
 (2)(A) If the Special Counsel is reasonably satisfied that the person on whose behalf a complaint is referred under paragraph (1) is entitled to the rights or benefits sought, the Special Counsel (upon the request of the person submitting the complaint) may appear on behalf of, and act as attorney for, the person and initiate an action regarding such complaint before the Merit Systems Protection Board.
 
-(B) If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.
+(B) Not later than 60 days after the date the Special Counsel receives a referral under paragraph (1), the Special Counsel shall—
+
+&emsp;(i) make a decision whether to represent a person before the Merit Systems Protection Board under subparagraph (A); and
+
+&emsp;(ii) notify such person in writing of such decision.
 
 (b) A person may submit a complaint against a Federal executive agency or the Office of Personnel Management under this subchapter directly to the Merit Systems Protection Board if that person—
 
@@ -28,13 +32,17 @@
 
 (2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, §213(a), Nov. 11, 1998, 112 Stat. 3331.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336; Pub. L. 105–368, title II, §213(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 110–389, title III, §311(d)(2), (e)(2), Oct. 10, 2008, 122 Stat. 4163.)
 
 #### Prior Provisions
 
 A prior section 4324 was renumbered section 7624 of this title.
 
 #### Amendments
+
+2008—Subsec. (a)(1). Pub. L. 110–389, §311(d)(2), substituted “Not later than 60 days after the date the Secretary receives such a request, the Secretary shall refer” for “The Secretary shall refer”.
+
+Subsec. (a)(2)(B). Pub. L. 110–389, §311(e)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “If the Special Counsel declines to initiate an action and represent a person before the Merit Systems Protection Board under subparagraph (A), the Special Counsel shall notify such person of that decision.”
 
 1998—Subsec. (c)(1). Pub. L. 105–368 inserted “, without regard as to whether the complaint accrued before, on, or after October 13, 1994” before period at end of first sentence.
 

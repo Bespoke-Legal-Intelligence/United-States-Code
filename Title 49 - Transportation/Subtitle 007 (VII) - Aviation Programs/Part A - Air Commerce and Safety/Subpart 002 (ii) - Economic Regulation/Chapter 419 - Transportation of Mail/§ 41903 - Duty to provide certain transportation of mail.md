@@ -2,7 +2,7 @@
 
 (a)
 
-Air Carriers.—Subject to subsection (b) of this section, an air carrier authorized by its certificate to transport mail by aircraft in foreign air transportation or between places in Alaska shall—
+Air Carriers.—Subject to subsection (b) of this section, an air carrier authorized by its certificate to transport mail by aircraft between places in Alaska shall—
 
 &emsp;(1) provide facilities and services necessary and adequate to provide that transportation; and
 
@@ -10,13 +10,13 @@ Air Carriers.—Subject to subsection (b) of this section, an air carrier author
 
 (b)
 
-Maximum Mail Load.—The Secretary of Transportation may prescribe the maximum mail load for a schedule or for an aircraft or type of aircraft for the transportation of mail by aircraft in foreign air transportation or between places in Alaska. If the Postal Service tenders to an air carrier mail exceeding the maximum load for transportation by the carrier under a schedule designated or required to be established for the transportation of mail under section 41902(c) of this title, the carrier, as nearly in accordance with the schedule as the Secretary decides is possible, shall—
+Maximum Mail Load.—The Secretary of Transportation may prescribe the maximum mail load for a schedule or for an aircraft or type of aircraft for the transportation of mail by aircraft between places in Alaska. If the Postal Service tenders to an air carrier mail exceeding the maximum load for transportation by the carrier under a schedule designated or required to be established for the transportation of mail under section 41902(c) of this title, the carrier, as nearly in accordance with the schedule as the Secretary decides is possible, shall—
 
 &emsp;(1) provide facilities sufficient to transport the mail to the extent the Secretary decides the carrier reasonably is able to do so; and
 
 &emsp;(2) transport that mail.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), July 5, 1994, 108 Stat. 1154, 1370; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), July 5, 1994, 108 Stat. 1154, 1370; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(4), Oct. 13, 2008, 122 Stat. 4289.)
 
 Historical and Revision Notes
 
@@ -90,9 +90,15 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
 #### Amendments
 
+2008—Subsecs. (a), (b). Pub. L. 110–405 struck out “in foreign air transportation or” before “between places in Alaska” in introductory provisions.
+
 1999—Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment note below.
 
 1994—Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska” in introductory provisions of subsecs. (a) and (b), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1999 Amendment
 

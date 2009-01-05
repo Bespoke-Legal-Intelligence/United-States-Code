@@ -42,7 +42,7 @@ July 25, 1956, ch. 727, §3(a), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff. Ju
 
 31:703(a)(3d sentence, last sentence less proviso).
 
-In subsection (a), the words “head of the agency” are substituted for “agency concerned” for consistency. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (a), the words “head of the agency” are substituted for “agency concerned” for consistency. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau ofthe Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 In subsection (b), the words “withdrawal or restoration” are substituted for “transactions” the first time it appears.
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 101–510 applicable to any appropriation account the oblig
 
 #### Reporting Requirement Regarding Effect of Certain Payments and Adjustments on Federal Deficit
 
-Section 1004(a) of Pub. L. 102–190 provided that: “At the same time that the President submits to Congressthe budget for each of fiscal years 1993, 1994, 1995, and 1996 under section 1105 of title 31, United States Code, the Director of the Office of Management and Budget shall submit to Congress a report regarding the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of such title for the fiscal year in which such budget is submitted, the fiscal year preceding that fiscal year, and the fiscal year covered by that budget. The report shall include separate estimates for the accounts of each agency.”
+Section 1004(a) of Pub. L. 102–190 provided that: “At the same time that the President submits to Congress the budget for each of fiscal years 1993, 1994, 1995, and 1996 under section 1105 of title 31, United States Code, the Director of the Office of Management and Budget shall submit to Congress a report regarding the effect on the Federal deficit of payments and adjustments made with respect to sections 1552 and 1553 of such title for the fiscal year in which such budget is submitted, the fiscal year preceding that fiscal year, and the fiscal year covered by that budget. The report shall include separate estimates for the accounts of each agency.”
 

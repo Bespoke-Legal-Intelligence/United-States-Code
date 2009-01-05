@@ -76,11 +76,11 @@ In general.—The Secretary of the Treasury may impose a civil money penalty of 
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter orany regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7)
 
-Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of thetransaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
+Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 
 (b)
 
@@ -184,7 +184,7 @@ Section 123 of Public Law 91–508, referred to in subsec. (a)(1), is classified
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisionschanging the penalties for violating section 5314 of this title and providing a reasonable cause exception.
+2004—Subsec. (a)(5). Pub. L. 108–357 amended heading and text of par. (5) generally, inserting provisions changing the penalties for violating section 5314 of this title and providing a reasonable cause exception.
 
 2001—Subsec. (a)(1). Pub. L. 107–56, §§353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
 

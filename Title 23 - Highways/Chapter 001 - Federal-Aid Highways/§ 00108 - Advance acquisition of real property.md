@@ -98,7 +98,7 @@ Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -126,7 +126,7 @@ Section 1017(c) of Pub. L. 102–240 provided that: “The Secretary, in consult
 
 #### Authorization of Appropriations to Right-of-Way Revolving Fund; Apportionment; Reversion of Amounts Not Advanced or Obligated
 
-Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and $100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
+Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal year ending June 30, 1970, $100,000,000 for the fiscal year ending June 30, 1971, and$100,000,000 for the fiscal year ending June 30, 1972, be transferred from the highway trust fund to the right-of-way revolving fund established by subsec. (c) of this section, authorized the Secretary to apportion these funds and required that funds apportioned to a State remain available for obligation for advances until Oct. 1 of the fiscal year in which the apportionment was made and any funds not advanced or obligated by such date revert to the right-of-way revolving fund for distribution to other States.
 
 #### Study of Advance Acquisition of Rights-of-Way
 

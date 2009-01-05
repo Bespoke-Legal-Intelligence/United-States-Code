@@ -44,7 +44,7 @@ The import relief that the President is authorized to provide under this section
 
 &emsp;(2) the President determines that the affected industry has undertaken adjustment and requires an extension of the period of the import relief;
 
-> the President, after obtaining the advice of the International Trade Commission, may extendthe period of the import relief for not more than 1 year, if the duty applied during the initial period of the relief is substantially reduced at the beginning of the extension period.
+> the President, after obtaining the advice of the International Trade Commission, may extend the period of the import relief for not more than 1 year, if the duty applied during the initial period of the relief is substantially reduced at the beginning of the extension period.
 
 #### (e) Rate on Mexican articles after termination of import relief
 
@@ -52,7 +52,7 @@ When import relief under this subpart is terminated with respect to a Mexican ar
 
 &emsp;(1) the rate of duty on that article after such termination and on or before December 31 of the year in which termination occurs shall be the rate that, according to the United States Schedule to Annex 302.2 of the Agreement for the staged elimination of the tariff, would have been in effect 1 year after the initiation of the import relief action under section 3352 of this title; and
 
-&emsp;(2) the tariff treatment for that article after December 31 of the year in which termination occurs shall be, at the discretion of the President, either—
+&emsp;(2) the tariff treatment for that article after December 31 of the year in which terminationoccurs shall be, at the discretion of the President, either—
 
 &emsp;&emsp;(A) the rate of duty conforming to the applicable rate set out in the United States Schedule to Annex 302.2; or
 

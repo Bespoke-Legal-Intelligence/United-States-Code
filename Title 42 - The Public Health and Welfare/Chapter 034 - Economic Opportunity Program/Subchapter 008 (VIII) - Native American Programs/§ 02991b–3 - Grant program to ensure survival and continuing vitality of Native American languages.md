@@ -68,7 +68,7 @@ The purposes for which each grant awarded under subsection (a) of this section m
 
 &emsp;&emsp;&emsp;(II) Native American language teacher training programs, such as training programs in Native American language translation for fluent speakers, training programs for Native American language teachers, training programs for teachers in schools to utilize Native American language materials, tools, and interactive media to teach Native American language; and
 
-&emsp;&emsp;&emsp;(III) the development of Native American language materials, such as books,audio and visual tools, and interactive media programs.
+&emsp;&emsp;&emsp;(III) the development of Native American language materials, such as books, audio and visual tools, and interactive media programs.
 
 #### (c) Applications
 

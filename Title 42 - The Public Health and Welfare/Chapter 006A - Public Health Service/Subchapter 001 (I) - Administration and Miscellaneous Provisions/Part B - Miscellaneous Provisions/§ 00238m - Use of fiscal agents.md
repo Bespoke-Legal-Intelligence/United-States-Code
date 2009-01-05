@@ -26,7 +26,7 @@ A contract under subsection (a) of this section may provide for advances of fund
 
 #### (d) Applicable statutory provisions
 
-Subsections (d) and (e) <sup>1</sup> of section 1395u of this title shall apply to contracts with entities undersubsection (a) of this section in the same manner as they apply to contracts with carriers under that section.
+Subsections (d) and (e) <sup>1</sup> of section 1395u of this title shall apply to contracts with entities under subsection (a) of this section in the same manner as they apply to contracts with carriers under that section.
 
 #### (e) “Fiscal agent” defined
 

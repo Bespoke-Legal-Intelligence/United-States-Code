@@ -2,15 +2,27 @@
 
 (a) In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Director shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
-(b) The Trademark Trial and Appeal Board shall include the Director, the Commissioner for Patents, the Commissioner for Trademarks, and administrative trademark judges who are appointed by the Director.
+(b) The Trademark Trial and Appeal Board shall include the Director, Deputy <sup>1</sup> Director of the United States Patent and Trademark Office <sup>2</sup> the Commissioner for Patents, the Commissioner for Trademarks, and administrative trademark judges who are appointed by the Secretary of Commerce, in consultation with the Director.
 
-(July 5, 1946, ch. 540, title I, §17, 60 Stat. 434; Pub. L. 85–609, §1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, §1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4716\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, §13203(a)(1), Nov. 2, 2002, 116 Stat. 1902.)
+(c)
+
+Authority of the Secretary.—The Secretary of Commerce may, in his or her discretion, deem the appointment of an administrative trademark judge who, before August 12, 2008, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative trademark judge.
+
+(d)
+
+Defense to challenge of appointment.—It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge's having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
+
+(July 5, 1946, ch. 540, title I, §17, 60 Stat. 434; Pub. L. 85–609, §1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, §1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4716\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, §13203(a)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, §1(b), Aug. 12, 2008, 122 Stat. 3014.)
 
 #### Prior Provisions
 
 Act Feb. 20, 1905, ch. 592, §7, 33 Stat. 726.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–313, §1(b)(1), inserted “Deputy Director of the United States Patent and Trademark Office” after “Director,” and substituted “appointed by the Secretary of Commerce, in consultation with the Director” for “appointed by the Director”.
+
+Subsecs. (c), (d). Pub. L. 110–313, §1(b)(2), added subsecs. (c) and (d).
 
 2002—Subsec. (b). Pub. L. 107–273, which directed amendment of subsec. (b) by inserting “the Deputy Commissioner,” after “Commissioner,”, could not be executed because “Commissioner,” does not appear in text.
 
@@ -40,7 +52,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–609 provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
+Section 3 of Pub. L. 85–609 provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decidedby an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
 
 #### Repeal and Effect on Existing Rights
 
@@ -53,4 +65,8 @@ For transfer of functions of other officers, employees, and agencies of Departme
 #### Reorganization Plan No. 5 of 1950
 
 Section 2 of Pub. L. 85–609 provided that: “The provisions of this Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

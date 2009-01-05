@@ -8,7 +8,7 @@
 
 (d) If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligible for a refund of such participant's contributions as provided in section 3223 of this title.
 
-(e) A participant who has disenrolled may be permitted to reenroll in the program under suchconditions as shall be prescribed jointly by the Secretary and the Secretary of Defense.
+(e) A participant who has disenrolled may be permitted to reenroll in the program under such conditions as shall be prescribed jointly by the Secretary and the Secretary of Defense.
 
 (f) An individual who serves in the Selected Reserve may not receive credit for such service under both the program established by this chapter and the program established by chapter 106 of title 10 but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited.
 
@@ -54,5 +54,5 @@ Section 408 of Pub. L. 94–502 provided that:
 
 > The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
 
-“(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1, 1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out ‘Veterans’ Administration’ and inserting in lieu thereof ‘Department of Defense’.”
+“(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1,1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out ‘Veterans’ Administration’ and inserting in lieu thereof ‘Department of Defense’.”
 

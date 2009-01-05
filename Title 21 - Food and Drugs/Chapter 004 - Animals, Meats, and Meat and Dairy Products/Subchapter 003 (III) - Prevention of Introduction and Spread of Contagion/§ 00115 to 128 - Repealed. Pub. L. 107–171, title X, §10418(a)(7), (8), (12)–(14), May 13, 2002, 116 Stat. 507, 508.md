@@ -1,6 +1,6 @@
 ### §§115 to 128. Repealed. Pub. L. 107–171, title X, §10418(a)(7), (8), (12)–(14), May 13, 2002, 116 Stat. 507, 508
 
-Section 115, act May 29, 1884, ch. 60, §6, 23 Stat. 32; June 28, 1926, ch. 700, §1, 44 Stat. 774; Feb. 7, 1928, ch. 30,45 Stat. 59; Pub. L. 87–763, Oct. 9, 1962, 76 Stat. 762, prohibited transportation of diseased livestock and live poultry.
+Section 115, act May 29, 1884, ch. 60, §6, 23 Stat. 32; June 28, 1926, ch. 700, §1, 44 Stat. 774; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–763, Oct. 9, 1962, 76 Stat. 762, prohibited transportation of diseased livestock and live poultry.
 
 Section 116, act May 29, 1884, ch. 60, 23 Stat. 31; May 31, 1920, ch. 217, 41 Stat. 699, related to excepted shipment of certain cattle.
 

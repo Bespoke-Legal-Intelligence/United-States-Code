@@ -24,7 +24,7 @@
 
 &emsp;the term “relative” shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
-(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec.28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
+(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
 
 #### Historical and Revision Notes
 

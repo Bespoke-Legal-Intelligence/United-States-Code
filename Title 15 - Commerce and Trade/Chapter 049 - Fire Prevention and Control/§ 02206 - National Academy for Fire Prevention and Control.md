@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish, at the earliest practicable date, a National Academy for FirePrevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
+The Director shall establish, at the earliest practicable date, a National Academy for Fire Prevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
 
 #### (b) Superintendent
 
@@ -22,7 +22,7 @@ The Superintendent is authorized to—
 
 &emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
-&emsp;(6) conduct short courses, seminars, workshops, conferences, and similar education and training activities in all parts and localities of the United States;
+&emsp;(6) conduct short courses, seminars, workshops, conferences, and similar education and training activities in all parts and localities of the United States, including on-site training;
 
 &emsp;(7) enter into such contracts and take such other actions as may be necessary in carrying out the purposes of the Academy; and
 
@@ -48,19 +48,27 @@ The Superintendent is authorized to—
 
 &emsp;&emsp;(G) the use of technology in response to fires, including terrorist incidents and other national emergencies;
 
-&emsp;&emsp;(H) response, tactics, and strategies for dealing with terrorist-caused national catastrophes;
+&emsp;&emsp;(H) tactics and strategies for dealing with natural disasters, acts of terrorism, and other man-made disasters;
 
-&emsp;&emsp;(I) use of and familiarity with the Federal Response Plan;
+&emsp;&emsp;(I) tactics and strategies for fighting large-scale fires or multiple fires in a general area that cross jurisdictional boundaries;
 
-&emsp;&emsp;(J) leadership and strategic skills, including integrated management systems operations and integrated response;
+&emsp;&emsp;(J) tactics and strategies for fighting fires occurring at the wildland-urban interface;
 
-&emsp;&emsp;(K) applying new technology and developing strategies and tactics for fighting forest fires;
+&emsp;&emsp;(K) tactics and strategies for fighting fires involving hazardous materials;
 
-&emsp;&emsp;(L) integrating the activities of terrorism response agencies into national terrorism incident response systems;
+&emsp;&emsp;(L) advanced emergency medical services training;
 
-&emsp;&emsp;(M) response tactics and strategies for fighting fires at United States ports, including fires on the water and aboard vessels; and
+&emsp;&emsp;(M) use of and familiarity with the Federal Response Plan;
 
-&emsp;&emsp;(N) the training of present and future instructors in the aforementioned subjects;
+&emsp;&emsp;(N) leadership and strategic skills, including integrated management systems operations and integrated response;
+
+&emsp;&emsp;(O) applying new technology and developing strategies and tactics for fighting wildland fires;
+
+&emsp;&emsp;(P) integrating the activities of terrorism response agencies into national terrorism incident response systems;
+
+&emsp;&emsp;(Q) tactics and strategies for fighting fires at United States ports, including fires on the water and aboard vessels; and
+
+&emsp;&emsp;(R) the training of present and future instructors in the aforementioned subjects;
 
 &emsp;(2) develop model curricula, training programs and other educational materials suitable for use at other educational institutions, and to make such materials available without charge;
 
@@ -82,7 +90,7 @@ The Administrator is authorized, to the extent that he determines it necessary t
 
 #### (f) Assistance to State and local fire service training programs
 
-The Administrator is authorized to provide assistance to State and local fire service training programs through grants, contracts, or otherwise. Such assistance shall not exceed 4 per centum of the amount authorized to be appropriated in each fiscal year pursuant to section 2216 of this title.
+The Administrator is authorized to provide assistance to State and local fire service training programs through grants, contracts, or otherwise. Such assistance shall not exceed 7.5 percent of the amount authorized to be appropriated in each fiscal year pursuant to section 2216 of this title.
 
 #### (g) Site selection
 
@@ -110,7 +118,7 @@ The Administrator is authorized to—
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eightsuch persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -120,13 +128,67 @@ The Superintendent is authorized to establish a Committee on Fire Training and E
 
 The Superintendent is authorized to admit to the courses and programs of the Academy individuals who are members of the firefighting, rescue, and civil defense forces of the Nation and such other individuals, including candidates for membership in these forces, as he determines can benefit from attendance. Students shall be admitted from any State, with due regard to adequate representation in the student body of all geographic regions of the Nation. In selecting students, the Superintendent may seek nominations and advice from the fire services and other organizations which wish to send students to the Academy. The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.
 
-(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §204(a), (d), Dec. 6, 2003, 117 Stat. 2039.)
+#### (m) On-site training
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the Administrator may enter into a contract with nationally recognized organizations that have established on-site training programs that comply with national voluntary consensus standards for fire service personnel to facilitate the delivery of the education and training programs outlined in subsection (d)(1) directly to fire service personnel.
+
+#### (2) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator may not enter into a contract with an organization described in paragraph (1) unless such organization provides training that—
+
+&emsp;&emsp;&emsp;(i) leads to certification by a program that is accredited by a nationally recognized accreditation organization; or
+
+&emsp;&emsp;&emsp;(ii) the Administrator determines is of equivalent quality to a fire service training program described by clause (i).
+
+#### (B) Approval of unaccredited fire service training programs
+
+&emsp;&emsp;The Administrator may consider the fact that an organization has provided a satisfactory fire service training program pursuant to a cooperative agreement with a Federal agency as evidence that such program is of equivalent quality to a fire service training program described by subparagraph (A)(i).
+
+#### (3) Restriction on use of funds
+
+&emsp;The amounts expended by the Administrator to carry out this subsection in any fiscal year shall not exceed 7.5 per centum of the amount authorized to be appropriated in such fiscal year pursuant to section 2216 of this title.
+
+#### (n) Triennial report
+
+In the first annual report filed pursuant to section 2215 of this title for which the deadline for filing is after the expiration of the 18-month period that begins on October 8, 2008, and in every third annual report thereafter, the Administrator shall include information about changes made to the National Fire Academy curriculum, including—
+
+&emsp;(1) the basis for such changes, including a review of the incorporation of lessons learned by emergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
+
+&emsp;(2) the desired training outcome of all such changes.
+
+(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §204(a), (d), Dec. 6, 2003, 117 Stat. 2039; Pub. L. 110–376, §4(a)–(c), Oct. 8, 2008, 122 Stat. 4057, 4058.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (c)(6). Pub. L. 110–376, §4(b)(1), inserted “, including on-site training” after “United States”.
+
+Subsec. (d)(1)(H). Pub. L. 110–376, §4(a)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
+
+Subsec. (d)(1)(I), (J). Pub. L. 110–376, §4(a)(5), added subpars. (I) and (J). Former subpars. (I) and (J) redesignated (M) and (N), respectively.
+
+Subsec. (d)(1)(K). Pub. L. 110–376, §4(a)(5), added subpar. (K). Former subpar. (K) redesignated (O).
+
+Pub. L. 110–376, §4(a)(2), substituted “wildland” for “forest”.
+
+Subsec. (d)(1)(L). Pub. L. 110–376, §4(a)(5), added subpar. (L). Former subpar. (L) redesignated (P).
+
+Subsec. (d)(1)(M). Pub. L. 110–376, §4(a)(4), redesignated subpar. (I) as (M). Former subpar. (M) redesignated (Q).
+
+Pub. L. 110–376, §4(a)(3), struck out “response” before “tactics”.
+
+Subsec. (d)(1)(N) to (R). Pub. L. 110–376, §4(a)(4), redesignated subpars. (J) to (N) as (N) to (R), respectively.
+
+Subsec. (f). Pub. L. 110–376, §4(b)(2), which directed substitution of “7.5 percent” for “4 percent”, was executed by making the substitution for “4 per centum” to reflect the probable intent of Congress.
+
+Subsecs. (m), (n). Pub. L. 110–376, §4(b)(3), (c), added subsecs. (m) and (n).
 
 2003—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
@@ -136,7 +198,7 @@ Subsec. (<i>l</i>). Pub. L. 108–169, §204(d), inserted at end “The Superint
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

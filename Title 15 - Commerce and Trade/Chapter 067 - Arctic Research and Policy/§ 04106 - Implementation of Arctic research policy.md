@@ -6,7 +6,7 @@ The National Science Foundation is designated as the lead agency responsible for
 
 #### (b) Interagency Arctic Research Policy Committee; establishment; represented agencies; Chairperson
 
-(1) The President shall establish an Interagency Arctic Research Policy Committee (hereinafter referred to as the “Interagency Committee”).
+(1) The President shall establish an Interagency Arctic Research Policy Committee\(hereinafter referred to as the “Interagency Committee”).
 
 (2) The Interagency Committee shall be composed of representatives of the following Federal agencies or offices:
 

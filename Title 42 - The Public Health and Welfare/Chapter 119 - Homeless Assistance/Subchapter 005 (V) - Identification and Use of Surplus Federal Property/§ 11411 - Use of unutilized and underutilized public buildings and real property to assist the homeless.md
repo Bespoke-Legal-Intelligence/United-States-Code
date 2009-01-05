@@ -44,7 +44,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (B) Each publication of properties shall include a description and the location of each property (including the address and zip code) and the current classification of each property as unutilized, underutilized, excess property, or surplus property.
 
-(C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all properties reviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
+(C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all propertiesreviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
 
 (D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
@@ -84,7 +84,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (e) Application for property
 
-(1) A representative of the homeless may submit an application to the Secretary of Healthand Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
 
 (2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
 
@@ -92,7 +92,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (f) Making property available to representatives of homeless
 
-(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
+(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this sectionshall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
 
 (2) Unutilized or underutilized property that is the subject of an agency's statement of intention under subsection (b)(1)(A)(ii) of this section shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
 

@@ -34,3 +34,5 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 (July 1, 1944, ch. 373, title III, §399Q, as added Pub. L. 109–450, §4(2), Dec. 22, 2006, 120 Stat. 3342.)
 
+<i><sup>1</sup></i><i> So in original. Probably should be “(C)”.</i>
+

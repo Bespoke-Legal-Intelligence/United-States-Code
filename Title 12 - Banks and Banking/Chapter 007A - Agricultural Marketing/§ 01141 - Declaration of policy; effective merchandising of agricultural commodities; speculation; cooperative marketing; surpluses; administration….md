@@ -26,7 +26,7 @@ Section was formerly classified to section 521 of Title 7, Agriculture.
 
 #### Short Title
 
-For short title of this chapter as the Agricultural Marketing Act, see section 1141j(f) of this title.
+For short title of this chapter as the Agricultural Marketing Act, see section 1141j(e) of this title.
 
 #### Transfer of Functions
 

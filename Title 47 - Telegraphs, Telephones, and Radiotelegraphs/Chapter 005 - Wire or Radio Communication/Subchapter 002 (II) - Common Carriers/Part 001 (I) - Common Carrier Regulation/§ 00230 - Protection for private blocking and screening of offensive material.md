@@ -98,7 +98,7 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4)
 
 #### Codification
 
-Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§201 to 229 as part I and adding parts II (§251 et seq.) and III (§271 et seq.) to title II of the Act.
+Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congressand amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§201 to 229 as part I and adding parts II (§251 et seq.) and III (§271 et seq.) to title II of the Act.
 
 #### Amendments
 

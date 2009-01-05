@@ -15,8 +15,10 @@
 | [1591\.](%C2%A7%2001591%20-%20Sex%20trafficking%20of%20children%20or%20by%20force%2C%20fraud%2C%20or%20coercion.md) | Sex trafficking of children or by force, fraud, or coercion. |
 | [1592\.](%C2%A7%2001592%20-%20Unlawful%20conduct%20with%20respect%20to%20documents%20in%20furtherance%20of%20trafficking%2C%20peonage%2C%20slavery%2C%20involuntary%20servitude%2C%20or%20forced%20labor.md) | Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor. |
 | [1593\.](%C2%A7%2001593%20-%20Mandatory%20restitution.md) | Mandatory restitution. |
+| [1593A.](%C2%A7%2001593A%20-%20Benefitting%20financially%20from%20peonage%2C%20slavery%2C%20and%20trafficking%20in%20persons.md) | Benefitting financially from peonage, slavery, and trafficking in persons. |
 | [1594\.](%C2%A7%2001594%20-%20General%20provisions.md) | General provisions. |
 | [1595\.](%C2%A7%2001595%20-%20Civil%20remedy.md) | Civil remedy. |
+| [1596\.](%C2%A7%2001596%20-%20Additional%20jurisdiction%20in%20certain%20trafficking%20offenses.md) | Additional jurisdiction in certain trafficking offenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,6 +27,8 @@
 It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, “Piracy and Privateering”.
 
 #### Amendments
+
+2008—Pub. L. 110–457, title II, §§222(d)(2), 223(b), Dec. 23, 2008, 122 Stat. 5070, 5072, added items 1593A and 1596.
 
 2003—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
 
@@ -50,5 +54,7 @@ It was felt that further revision of this chapter should be considered at an opp
 - [&sect; 01591 - Sex trafficking of children or by force, fraud, or coercion](%C2%A7%2001591%20-%20Sex%20trafficking%20of%20children%20or%20by%20force%2C%20fraud%2C%20or%20coercion.md)
 - [&sect; 01592 - Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor](%C2%A7%2001592%20-%20Unlawful%20conduct%20with%20respect%20to%20documents%20in%20furtherance%20of%20trafficking%2C%20peonage%2C%20slavery%2C%20involuntary%20servitude%2C%20or%20forced%20labor.md)
 - [&sect; 01593 - Mandatory restitution](%C2%A7%2001593%20-%20Mandatory%20restitution.md)
+- [&sect; 01593A - Benefitting financially from peonage, slavery, and trafficking in persons](%C2%A7%2001593A%20-%20Benefitting%20financially%20from%20peonage%2C%20slavery%2C%20and%20trafficking%20in%20persons.md)
 - [&sect; 01594 - General provisions](%C2%A7%2001594%20-%20General%20provisions.md)
 - [&sect; 01595 - Civil remedy](%C2%A7%2001595%20-%20Civil%20remedy.md)
+- [&sect; 01596 - Additional jurisdiction in certain trafficking offenses](%C2%A7%2001596%20-%20Additional%20jurisdiction%20in%20certain%20trafficking%20offenses.md)

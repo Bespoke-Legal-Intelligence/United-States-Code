@@ -6,7 +6,7 @@
 
 &emsp;From the amount made available under section 7103(1) of this title to carry out this subpart for each fiscal year, the Secretary—
 
-&emsp;&emsp;(A) shall reserve 1 percent or $4,750,000 (whichever is greater) of such amount for grants to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with the Secretary's determination of their respective needs and to carry out programs described in this subpart;
+&emsp;&emsp;(A) shall reserve 1 percent or $4,750,000 (whichever is greater) of such amount for grants to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands,to be allotted in accordance with the Secretary's determination of their respective needs and to carry out programs described in this subpart;
 
 &emsp;&emsp;(B) shall reserve 1 percent or $4,750,000 (whichever is greater) of such amount for the Secretary of the Interior to carry out programs described in this subpart for Indian youth; and
 

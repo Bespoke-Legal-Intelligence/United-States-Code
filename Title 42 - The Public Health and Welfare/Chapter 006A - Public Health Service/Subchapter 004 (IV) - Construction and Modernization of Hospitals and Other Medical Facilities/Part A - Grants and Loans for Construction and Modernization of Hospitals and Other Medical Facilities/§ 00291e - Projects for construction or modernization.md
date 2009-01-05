@@ -12,7 +12,7 @@ For each project pursuant to a State plan approved under this part, there shall 
 
 &emsp;(4) reasonable assurance that adequate financial support will be available for the completion of the project and for its maintenance and operation when completed;
 
-&emsp;(5) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of construction or modernization on the project will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 oftitle 40; and the Secretary of Labor shall have with respect to the labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 3145 of title 40; and
+&emsp;(5) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of construction or modernization on the project will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and the Secretary of Labor shall have with respect to the labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 3145 of title 40; and
 
 &emsp;(6) a certification by the State agency of the Federal share for the project.
 

@@ -42,19 +42,19 @@ Tennessee is divided into three judicial districts to be known as the Eastern, M
 
 (c) The Western District comprises two divisions.
 
-&emsp;&emsp;(1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
+&emsp;&emsp;(1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
 
 The Eastern Division also includes the waters of Tennessee River to low-water mark on the eastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
 
-&emsp;&emsp;Court for the Eastern Division shall be held at Jackson.
+&emsp;&emsp;Court for the Eastern Division shall be held at Jackson and Dyersburg.
 
-&emsp;&emsp;(2) The Western Division comprises the counties of Dyer, Fayette, Lauderdale, Shelby, and Tipton.
+&emsp;&emsp;(2) The Western Division comprises the counties of Fayette, Lauderdale, Shelby, and Tipton.
 
-&emsp;&emsp;Court for the Western Division shall be held at Memphis and Dyersburg.
+&emsp;&emsp;Court for the Western Division shall be held at Memphis.
 
 The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
 
-(June 25, 1948, ch. 646, 62 Stat. 890; Pub. L. 87–36, §3(e), May 19, 1961, 75 Stat. 83; Pub. L. 87–86, July 11, 1961, 75 Stat. 203; Pub. L. 91–272, §12, June 2, 1970, 84 Stat. 298.)
+(June 25, 1948, ch. 646, 62 Stat. 890; Pub. L. 87–36, §3(e), May 19, 1961, 75 Stat. 83; Pub. L. 87–86, July 11, 1961, 75 Stat. 203; Pub. L. 91–272, §12, June 2, 1970, 84 Stat. 298; Pub. L. 110–406, §2(a), Oct. 13, 2008, 122 Stat. 4291.)
 
 #### Historical and Revision Notes
 
@@ -80,9 +80,29 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
+2008—Subsec. (c)(1). Pub. L. 110–406, §2(a)(1), inserted “Dyer,” after “Decatur,” and “and Dyersburg” after “Jackson”.
+
+Subsec. (c)(2). Pub. L. 110–406, §2(a)(2), struck out “Dyer,” after “counties of” and “and Dyersburg” after “Memphis”.
+
 1970—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
 
 Subsec. (c)(2). Pub. L. 91–272, §12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
 1961—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–406, §2(b), Oct. 13, 2008, 122 Stat. 4291, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 13, 2008\].
+
+“(2)
+
+Pending cases not affected.—The amendments made by this section shall not affect any action commenced before the effective date of this section and pending in the United States District Court for the Western District of Tennessee on such date.
+
+“(3)
+
+Juries not affected.—The amendments made by this section shall not affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving in the United States District Court for the Western District of Tennessee on the effective date of this section.”
 

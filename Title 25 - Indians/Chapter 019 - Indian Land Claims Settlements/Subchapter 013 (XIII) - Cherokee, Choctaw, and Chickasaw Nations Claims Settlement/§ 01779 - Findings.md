@@ -16,7 +16,7 @@ The Congress finds the following:
 
 &emsp;(7) Pursuant to the Act of April 30, 1906 (34 Stat. 137),<sup>2</sup> tribal property not allotted to individuals or otherwise disposed of, including the bed and banks of the Arkansas River, passed to the United States in trust for the use and benefit of the respective Indian Nations in accordance with their respective interests therein.
 
-&emsp;(8) For more than 60 years after Oklahoma statehood, the Bureau of Indian Affairs believed that Oklahoma owned the Riverbedfrom the Arkansas State line to Three Forks, and therefore took no action to protect the Indian Nations’ Riverbed resources such as oil, gas, and Drybed Lands suitable for grazing and agriculture.
+&emsp;(8) For more than 60 years after Oklahoma statehood, the Bureau of Indian Affairs believed that Oklahoma owned the Riverbed from the Arkansas State line to Three Forks, and therefore took no action to protect the Indian Nations’ Riverbed resources such as oil, gas, and Drybed Lands suitable for grazing and agriculture.
 
 &emsp;(9) Third parties with property near the Arkansas River began to occupy the Indian Nations’ Drybed Lands—lands that were under water at the time of statehood but that are now dry due to changes in the course of the river.
 

@@ -6,7 +6,7 @@ Not later than January 31 of every other year, the Secretary, acting through the
 
 #### (b) Consultation
 
-In preparing the plan required under subsection (a), the Commissioner shall consult withother appropriate Federal agencies, State and local law enforcement agencies, and private entities that are involved in international trade across the northern or southern border.
+In preparing the plan required under subsection (a), the Commissioner shall consult with other appropriate Federal agencies, State and local law enforcement agencies, and private entities that are involved in international trade across the northern or southern border.
 
 #### (c) Vulnerability assessment
 

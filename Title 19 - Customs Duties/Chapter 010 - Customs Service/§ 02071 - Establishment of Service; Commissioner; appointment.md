@@ -14,7 +14,7 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
-Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No.8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
 Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
@@ -36,7 +36,7 @@ Section 7 of act Mar. 3, 1927, provided that: “This Act shall take effect Apri
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons,and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -94,7 +94,7 @@ Parameters.—In developing regulations pursuant to paragraph (1), the Secretary
 
 &emsp;&emsp;&emsp;“(iv) an explanation of how the proposed regulations address particular comments received from interested parties; and
 
-&emsp;&emsp;&emsp;“(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no laterthan 5 days prior to the publication of the final rule.
+&emsp;&emsp;&emsp;“(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
 
 &emsp;“(4)
 
@@ -106,7 +106,7 @@ Secretary.—For purposes of this section \[enacting section 1431a of this title
 
 \[Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendment made by this section \[amending section 343(a) of Pub. L. 107–210, set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\].”\]
 
-\[Pub. L. 107–295, title I, §108(b)(3)(D)(i)(II), Nov. 25, 2002, 116 Stat. 2090, which directed the amendment of section 343(a)(3)(L) of Pub. L 107–210, set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
+\[Pub. L. 107–295, title I, §108(b)(3)(D)(i)(II), Nov. 25, 2002, 116 Stat. 2090, which directed the amendment of section 343(a)(3)(L) of Pub. L. 107–210, set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
 
 #### Secure Systems of Transportation
 

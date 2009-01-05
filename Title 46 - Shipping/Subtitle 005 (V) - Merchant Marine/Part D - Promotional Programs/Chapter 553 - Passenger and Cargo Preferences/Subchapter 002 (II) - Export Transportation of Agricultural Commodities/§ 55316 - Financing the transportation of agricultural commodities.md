@@ -18,7 +18,7 @@ In general.—The Secretary of Transportation shall reimburse the Secretary of A
 
 &emsp;(2)
 
-Commodities shipped from inventory.—For purposes of this subsection, commodities shipped from the inventory of the Corporation shall be valued as provided in section 412(d) of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1736f(d)).
+Commodities shipped from inventory.—For purposes of this subsection, commodities shipped from the inventory of the Corporation shall be valued as provided in section 412(d) of the Food for Peace Act (7 U.S.C. 1736f(d)).
 
 (c)
 
@@ -52,7 +52,7 @@ Appropriation for administrative expenses.—Each fiscal year, such amounts as m
 
 Notification to Congress of Insufficiency.—If the Secretary of Transportation is unable to obtain the funds necessary to finance the increased ocean freight charges resulting from the requirements of subsections (a) and (b) and section 55314(a) of this title, the Secretary shall notify Congress within 10 working days of the discovery of the insufficiency.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1647.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1647; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Y), June 18, 2008, 122 Stat. 1820, 1821.)
 
 Historical and Revision Notes
 
@@ -105,4 +105,12 @@ In subsection (c)(2), the words “after December 23, 1985” are omitted as obs
 In subsection (e)(1), the words “commencing with the fiscal year beginning October 1, 1986” are omitted as obsolete.
 
 In subsection (f), the words “Notwithstanding the provisions of this section” are omitted as unnecessary.
+
+#### Amendments
+
+2008—Subsec. (b)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

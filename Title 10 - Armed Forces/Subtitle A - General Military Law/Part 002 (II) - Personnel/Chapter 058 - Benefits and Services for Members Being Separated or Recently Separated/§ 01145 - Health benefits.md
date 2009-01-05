@@ -18,11 +18,15 @@ Transitional Health Care.—(1) For the time period described in paragraph (3), 
 
 &emsp;(D) A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active duty for a period of less than one year in support of a contingency operation.
 
-(3) Transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
+&emsp;(E) A member who receives a sole survivorship discharge (as defined in section 1174(i) of this title).
+
+&emsp;(F) A member who is separated from active duty who agrees to become a member of the Selected Reserve of the Ready Reserve of a reserve component.
+
+(3) Except as provided in paragraph (6), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
 
 (4)(A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
-(B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member's unit commander.
+(B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of themember and with the concurrence of the member's unit commander.
 
 (5)(A) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (4), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
 
@@ -37,6 +41,10 @@ Transitional Health Care.—(1) For the time period described in paragraph (3), 
 &emsp;(ii) Information on the private sector sources of treatment that are available to the member in the member's community.
 
 &emsp;(iii) Assistance to enroll in the health care system of the Department of Veterans Affairs for health care benefits for which the member is eligible under laws administered by the Secretary of Veterans Affairs.
+
+(6)(A) A member who has a medical condition relating to service on active duty that warrants further medical care that has been identified during the member's 180-day transition period, which condition can be resolved within 180 days as determined by a Department of Defense physician, shall be entitled to receive medical and dental care for that medical condition, and that medical condition only, as if the member were a member of the armed forces on active duty for 180 days following the diagnosis of the condition.
+
+(B) The Secretary concerned shall ensure that the Defense Enrollment and Eligibility Reporting System (DEERS) is continually updated in order to reflect the continuing entitlement of members covered by subparagraph (A) to the medical and dental care referred to in that subparagraph.
 
 (b)
 
@@ -72,11 +80,19 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for themembers of the Coast Guard and their dependents.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513.)
 
 #### Amendments
+
+2008—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
+
+Subsec. (a)(2)(F). Pub. L. 110–417 added subpar. (F).
+
+Subsec. (a)(3). Pub. L. 110–181, §1637(1), substituted “Except as provided in paragraph (6), transitional health care” for “Transitional health care”.
+
+Subsec. (a)(6). Pub. L. 110–181, §1637(2), added par. (6).
 
 2006—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
 
@@ -122,6 +138,12 @@ Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted “18-month peri
 
 Subsec. (b)(4) to (6). Pub. L. 102–484, §4407(a)(3), added pars. (4) to (6).
 
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\].”
+
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
@@ -134,7 +156,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Application of Amendments by Pub. L. 102–484 to Existing Contracts
 
-For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) ofthis section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 
 #### Transitional Provision
 

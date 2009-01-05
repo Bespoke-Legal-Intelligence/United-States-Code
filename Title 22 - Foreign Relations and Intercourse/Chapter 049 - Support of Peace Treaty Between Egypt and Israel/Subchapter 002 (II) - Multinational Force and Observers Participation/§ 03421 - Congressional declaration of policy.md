@@ -6,5 +6,5 @@ The Congress considers the establishment of the Multinational Force and Observer
 
 #### Short Title
 
-For short title of Pub. L. 97–132, which enacted this subchapter, as the Multinational Force and Observers Participation Resolution, see section 1 of Pub. L. 97–132, set out as a note under section 3401 of this title.
+For short title of Pub. L. 97–132, which enacted this subchapter, as the Multinational Force and ObserversParticipation Resolution, see section 1 of Pub. L. 97–132, set out as a note under section 3401 of this title.
 

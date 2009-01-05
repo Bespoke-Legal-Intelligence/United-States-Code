@@ -72,7 +72,7 @@ Corporation.—The term ‘Corporation’ means the Federal Deposit Insurance Co
 
 &emsp;“(5)
 
-Council.—The term ‘Council’ means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
+Council.—The term ‘Council’ means the Financial Institutions Examination Council establishedunder section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
 
 &emsp;“(6)
 

@@ -30,7 +30,7 @@ The Chief Justice of the Supreme Court of Guam—
 
 #### (c) Orders of Chief Justice with respect to appeals
 
-The Chief Justice of the Supreme Court of Guam, or a justice sitting in place of such Chief Justice, may make any appropriate order with respect to—
+The Chief Justice of the Supreme Court of Guam, or a justice sitting in place of such ChiefJustice, may make any appropriate order with respect to—
 
 &emsp;(1) an appeal prior to the hearing and determination of that appeal on the merits; or
 

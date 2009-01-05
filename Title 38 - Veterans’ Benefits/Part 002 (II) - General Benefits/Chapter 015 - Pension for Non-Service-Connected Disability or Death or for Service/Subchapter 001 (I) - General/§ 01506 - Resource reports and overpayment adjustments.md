@@ -22,7 +22,7 @@ As a condition of granting or continuing pension under section 1521, 1541, or 15
 
 Prior section 1506 was renumbered section 3106 of this title.
 
-Another prior section 1506, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173, authorized Administrator to furnish veterans receiving vocational rehabilitation such medical care, treatment, hospitalization, and prosthesis as were necessary to accomplish the purposes of chapter 31 of this title, prior to the general revision of chapter31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1506 continue in effect until Mar. 31, 1981. See section 3104 of this title.
+Another prior section 1506, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1173, authorized Administrator to furnish veterans receiving vocational rehabilitation such medical care, treatment, hospitalization, and prosthesis as were necessary to accomplish the purposes of chapter 31 of this title, prior to the general revision of chapter 31 of this title by Pub. L. 96–466. Section 802(a)(3) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title, provided that this prior section 1506 continue in effect until Mar. 31, 1981. See section 3104 of this title.
 
 #### Amendments
 

@@ -108,5 +108,5 @@ Section 615(b) of Pub. L. 100–180 provided that: “The authority to provide t
 
 #### Report on Travel in Excess of Certain Limit
 
-Pub. L. 109–13, div. A, title I, §1026(d), May 11, 2005, 119 Stat. 255, which provided that if in any fiscal year the amount of travel provided in such fiscal year under this section by reason of the amendments made by section 1026 of Pub. L. 109–13 exceeded $20,000,000, the Secretary of Defense was to submit to the congressional defensecommittees a report on that fact, was repealed by Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314.
+Pub. L. 109–13, div. A, title I, §1026(d), May 11, 2005, 119 Stat. 255, which provided that if in any fiscal year the amount of travel provided in such fiscal year under this section by reason of the amendments made by section 1026 of Pub. L. 109–13 exceeded $20,000,000, the Secretary of Defense was to submit to the congressional defense committees a report on that fact, was repealed by Pub. L. 109–163, div. A, title VI, §655(a), Jan. 6, 2006, 119 Stat. 3314.
 

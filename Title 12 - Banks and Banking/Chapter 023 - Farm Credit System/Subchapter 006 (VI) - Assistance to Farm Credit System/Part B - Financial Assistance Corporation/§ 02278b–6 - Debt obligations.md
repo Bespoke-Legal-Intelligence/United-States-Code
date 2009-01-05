@@ -36,7 +36,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (C) Allocation
 
-&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial AssistanceCorporation, of the interest due from System banks under this paragraph equal to—
+&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the interest due from System banks under this paragraph equal to—
 
 &emsp;&emsp;&emsp;(i) the amount of the average accruing retail loan volume of the bank and its affiliated associations for the preceding year; divided by
 
@@ -84,11 +84,11 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Refund of recoveries
 
-&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to theother banks in proportion to the other banks’ payments.
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this titleshall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
@@ -140,7 +140,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iv) Use
 
-&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailable to pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The accountshall be senior to all other unallocated surplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
+&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailableto pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The account shall be senior to all other unallocated surplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
 
 #### (v) Preferred stock
 
@@ -186,7 +186,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Payment by Corporation
 
-&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amountdue from the defaulting System bank, and such amount shall be paid to the Trust Fund.
+&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
 
 #### (ii) Payment by Insurance Fund
 
@@ -218,7 +218,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) Inability to pay
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or section 2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due whichshall be used by the Financial Assistance Corporation to pay the obligation.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or section2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
 
 #### (B) Recovery
 
@@ -282,9 +282,9 @@ Subsec. (d)(1)(C). Pub. L. 102–552, §303, amended subpar. (C) generally. Prio
 
 Subsec. (d)(1)(D), (E). Pub. L. 102–552, §305(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “(D)
 
-Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations.”
+Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans madeby such banks with the exception of loans made to associations.”
 
-Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading “Interest”, incl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading “Interest”, in cl. (i), inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”, struck out “of the interest” after “the amount” in two places, and substituted “bank” for “institution” wherever appearing, in cl. (ii), struck out “of interest” after “the full amount”, and substituted “defaulting bank” for “defaulting institution” and “any uncollected amount” for “such uncollected interest”, and in cl. (iii), substituted “allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation.” for “added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
 &emsp;“(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 

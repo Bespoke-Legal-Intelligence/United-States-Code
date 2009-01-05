@@ -10,4 +10,5 @@ Title V of the Higher Education Act of 1965, comprising this subchapter, was ori
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Part A - Hispanic-Serving Institutions](Part%20A%20-%20Hispanic-Serving%20Institutions/README.md)
-- [Part B - General Provisions](Part%20B%20-%20General%20Provisions/README.md)
+- [Part B - Promoting Postbaccalaureate Opportunities for Hispanic Americans](Part%20B%20-%20Promoting%20Postbaccalaureate%20Opportunities%20for%20Hispanic%20Americans/README.md)
+- [Part C - General Provisions](Part%20C%20-%20General%20Provisions/README.md)

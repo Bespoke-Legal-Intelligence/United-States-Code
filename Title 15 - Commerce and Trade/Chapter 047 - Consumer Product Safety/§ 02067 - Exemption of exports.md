@@ -6,17 +6,27 @@ This chapter shall not apply to any consumer product if (1) it can be shown that
 
 #### (b) Statement of exportation: filing period, information; notification of foreign country; petition for minimum filing period: good cause
 
-Not less than thirty days before any person exports to a foreign country any product—
+Not less than thirty days before any person exports to a foreign country any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis for such safety standard or rule. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such product, the country and port of destination of such product, and the quantity of such product that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
 
-&emsp;(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
+#### (c) Authority to prohibit exports
 
-&emsp;(2) which is declared to be a banned hazardous substance by a rule promulgated under section 2058 of this title,
+The Commission may prohibit a person from exporting from the United States for purpose of sale any consumer product that is not in conformity with an applicable consumer product safety rule under this chapter, unless the importing country has notified the Commission that such country accepts the importation of such consumer product, provided that if the importing country has not so notified the Commission within 30 days after the Commission has provided notice to the importing country of the impending shipment, the Commission may take such action as appropriate within its authority with respect to the disposition of the product under the circumstances.
 
-> such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis for such safety standard or rule. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such product, the country and port of destination of such product, and the quantity of such product that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
+#### (d) Export pursuant to section 2066(e)
 
-(Pub. L. 92–573, §18, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 95–631, §6(a), Nov. 10, 1978, 92 Stat. 3745.)
+Nothing in this section shall apply to any consumer product, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title.
+
+(Pub. L. 92–573, §18, Oct. 27, 1972, 86 Stat. 1224; Pub. L. 95–631, §6(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 110–314, title II, §221(a), Aug. 14, 2008, 122 Stat. 3065.)
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–314, §221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
+
+&emsp;“(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
+
+&emsp;“(2) which is declared to be a banned hazardous substance by a rule promulgated under section 2058 of this title,”.
+
+Subsecs. (c), (d). Pub. L. 110–314, §221(a)(2), added subsecs. (c) and (d).
 
 1978—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 

@@ -4,6 +4,12 @@ This chapter may be cited as the “Tariff Act of 1930.”
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### Short Title of 2008 Amendment
+
+Act June 17, 1930, ch. 497, title VIII, §801(a), as added Pub. L. 110–246, title III, §3301(a), June 18, 2008, 122 Stat. 1844, provided that: “This title \[enacting subtitle VI of this chapter\] may be cited as the ‘Softwood Lumber Act of 2008’.”
+
+\[Another section 801 of act June 17, 1930, is classified to section 1681 of this title.\]
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–280, title XIV, §1401(a), Aug. 17, 2006, 120 Stat. 1110, provided that: “This title \[amending sections 58c, 1466, 1484, 1514, 1520, 1557, 1559, 1562, 1629, 2155, 2317, 2401, 3807, and 4034 of this title, enacting provisions set out as notes under sections 1466 and 1675 of this title, and amending provisions set out as a note under section 7101 of Title 7, Agriculture\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 2006’.”
@@ -34,7 +40,7 @@ Pub. L. 105–258, §1, Oct. 14, 1998, 112 Stat. 1902, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: “This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592, 1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414, 2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1996’.”
+Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: “This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592,1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414, 2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the ‘Miscellaneous Trade and Technical Corrections Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -90,7 +96,7 @@ Section 1 of act Aug. 7, 1953, ch. 348, 67 Stat. 472, provided: “That this Act
 
 #### Short Title of 1951 Amendment
 
-Section 1 of act June 16, 1951, ch. 141, 65 Stat. 72, provided: “That this Act \[enacting sections 1360 to 1367 of this title, amending sections 1352 and 1354 of this title, provisions set out as a note under section 1516 of this title, and section 624 of Title 7, Agriculture\] may be cited as the ‘Trade Agreements Extension Act of 1951’.”
+Section 1 of act June 16, 1951, ch. 141, 65 Stat. 72, provided: “That this Act \[enacting sections 1360 to 1367 ofthis title, amending sections 1352 and 1354 of this title, provisions set out as a note under section 1516 of this title, and section 624 of Title 7, Agriculture\] may be cited as the ‘Trade Agreements Extension Act of 1951’.”
 
 #### Short Title of 1949 Amendment
 

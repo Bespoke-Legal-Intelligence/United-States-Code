@@ -28,7 +28,7 @@
 
 (j)(1) For purposes of any State or local law imposing a tax on or measured by income, income is not realized by the estate, the debtor, or a successor to the debtor by reason of discharge of indebtedness in a case under this title, except to the extent, if any, that such income is subject to tax under the Internal Revenue Code of 1986.
 
-(2) Whenever the Internal Revenue Code of 1986 provides that the amount excluded from gross income in respect of the discharge of indebtedness in a case under this title shall be applied to reduce the tax attributes of the debtor or the estate, a similar reduction shall be made under any State or local law imposing a tax on or measured by income to the extent such State or local law recognizes such attributes. Such State or local law may also provide for the reduction of other attributes to the extent that the full amount of income from the discharge of indebtedness has not been applied.
+(2) Whenever the Internal Revenue Code of 1986 provides that the amount excluded from gross income in respect of the discharge of indebtedness in a case under this title shall be applied to reduce the tax attributes of the debtor or the estate, a similar reduction shall be made under any State or local law imposing a tax on or measured by income to the extent such State or local law recognizes such attributes. Such Stateor local law may also provide for the reduction of other attributes to the extent that the full amount of income from the discharge of indebtedness has not been applied.
 
 (k)(1) Except as provided in this section and section 505, the time and manner of filing tax returns and the items of income, gain, loss, deduction, and credit of any taxpayer shall be determined under applicable nonbankruptcy law.
 
@@ -124,7 +124,7 @@ Subsec. (j)(7). Pub. L. 99–554, §283(c), substituted “owed” for “owned�
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

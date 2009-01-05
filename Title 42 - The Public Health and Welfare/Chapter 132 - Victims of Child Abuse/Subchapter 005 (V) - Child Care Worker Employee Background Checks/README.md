@@ -1,7 +1,5 @@
 ### SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “CyberTipline”.</i>
-
 
 ---
 

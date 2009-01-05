@@ -30,11 +30,17 @@ The Government Accountability Office, the Government Printing Office, and the Li
 
 &emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
-(Pub. L. 101–336, title V, §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–336, title V, §510, formerly §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; renumbered §510, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
 
 #### References in Text
 
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
 The General Accounting Office Personnel Act of 1980, referred to in par. (7), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
+
+#### Prior Provisions
+
+A prior section 510 of Pub. L. 101–336 was renumbered section 511 and is classified to section 12210 of this title.
 
 #### Amendments
 
@@ -60,7 +66,7 @@ Par. (7). Pub. L. 104–1, §201(c)(3)(E), redesignated par. (5) as (7).
 
 1991—Subsec. (a)(2). Pub. L. 102–166, §315(1), redesignated par. (6) as (2) and struck out former par. (2) which read as follows: “
 
-Application to Senate employment.—The rights and protections provided pursuant to this chapter, the Civil Rights Act of 1990 (S. 2104, 101st Congress), the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] shall apply with respect to employment by the United States Senate.”
+Application to Senate employment.—The rights and protections provided pursuant to this chapter, the Civil Rights Act of 1990 (S. 2104, 101st Congress), the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], the Age Discrimination in Employment Act of1967 \[29 U.S.C. 621 et seq.\], and the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] shall apply with respect to employment by the United States Senate.”
 
 Subsec. (a)(3). Pub. L. 102–166, §315(1), redesignated par. (7) as (3), substituted “(2)(A)” for “(2) and (6)(A)” and “(2)” for “(3), (4), (5), (6)(B), and (6)(C)”, and struck out former par. (3) which read as follows: “
 

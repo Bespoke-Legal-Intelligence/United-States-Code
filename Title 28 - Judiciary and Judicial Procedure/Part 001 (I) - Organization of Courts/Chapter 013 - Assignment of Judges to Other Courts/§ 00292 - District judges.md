@@ -42,7 +42,7 @@ Many changes were made in phraseology.
 
 1980—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, asamended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1970—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

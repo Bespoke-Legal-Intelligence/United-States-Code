@@ -26,7 +26,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 (2) If on August 22, 1996, a Federal means-tested public benefits program does not attribute a sponsor's income and resources to an alien in determining the alien's eligibility and the amount of benefits for an alien, this section shall apply to any such determination beginning 180 days after August 22, 1996.
 
-(3) This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) to the extent that a qualified alien is eligible under section 1612(a)(2)(J) of this title.
+(3) This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2011 et seq.) to the extent that a qualified alien is eligible under section 1612(a)(2)(J) of this title.
 
 #### (e) Indigence exception
 
@@ -62,7 +62,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
 
@@ -89,4 +89,6 @@ Amendment by section 551(b)(1) of Pub. L. 104–208 applicable to affidavits of 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

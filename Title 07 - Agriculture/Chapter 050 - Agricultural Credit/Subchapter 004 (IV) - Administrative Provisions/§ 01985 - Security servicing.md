@@ -18,27 +18,27 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 &emsp;&emsp;Not later than 15 days after acquiring real property, the Secretary shall publicly advertise the property for sale.
 
-#### (B) Beginning farmer or rancher
+#### (B) Beginning farmer or rancher; socially disadvantaged farmer or rancher
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 135 days after acquiring real property, the Secretary shall offer to sell the property to a qualified beginning farmer or rancher at current market value based on a current appraisal.
+&emsp;&emsp;&emsp;Not later than 135 days after acquiring real property, the Secretary shall offer to sell the property to a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher at current market value based on a current appraisal.
 
 #### (ii) Random selection
 
-&emsp;&emsp;&emsp;If more than 1 qualified beginning farmer or rancher offers to purchase the property, the Secretary shall select between the qualified applicants on a random basis.
+&emsp;&emsp;&emsp;If more than 1 qualified beginning farmer or rancher or socially disadvantaged farmer or rancher offers to purchase the property, the Secretary shall select between the qualified applicants on a random basis.
 
 #### (iii) Appeal of random selection
 
-&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher for farm inventory property under this subparagraph shall be final and not administratively appealable.
+&emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher or a socially disadvantaged farmer or rancher for farm inventory property under this subparagraph shall be final and not administratively appealable.
 
 #### (iv) Combining and dividing of property
 
-&emsp;&emsp;&emsp;To the maximum extent practicable, the Secretary shall maximize the opportunity for beginning farmers and ranchers to purchase real property acquired by the Secretary under this chapter by combining or dividing inventory parcels of the property in such manner as the Secretary determines to be appropriate.
+&emsp;&emsp;&emsp;To the maximum extent practicable, the Secretary shall maximize the opportunity for beginning farmers or ranchers and socially disadvantaged farmers or ranchers to purchase real property acquired by the Secretary under this chapter by combining or dividing inventory parcels of the property in such manner as the Secretary determines to be appropriate.
 
 #### (C) Public sale
 
-&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
+&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
 
 #### (2) Previous lease
 
@@ -66,17 +66,17 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (B) Exception
 
-#### (i) Beginning farmer or rancher
+#### (i) Beginning farmer or rancher; socially disadvantaged farmer or rancher
 
-&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I of this chapter but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
+&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I of this chapter but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
 
 #### (ii) Term
 
-&emsp;&emsp;&emsp;The term of a lease or contract to sell to a beginning farmer or rancher under clause (i) shall be until the earlier of—
+&emsp;&emsp;&emsp;The term of a lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher under clause (i) shall be until the earlier of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the date that is 18 months after the date of the lease or sale; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the date that direct farm ownership loan funds or credit sale authority for loans becomes available to the beginning farmer or rancher.
+&emsp;&emsp;&emsp;&emsp;(II) the date that direct farm ownership loan funds or credit sale authority for loans becomes available to the beginning farmer or rancher or the socially disadvantaged farmer or rancher.
 
 #### (iii) Income-producing capability
 
@@ -86,7 +86,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (A) In general
 
-&emsp;&emsp;On the request of an applicant, not later than 30 days after denial of the applicant's application, the appropriate State director shall provide an expedited review and determination of whether the applicant is a beginning farmer or rancher for the purpose of acquiring farm inventory property.
+&emsp;&emsp;On the request of an applicant, not later than 30 days after denial of the applicant's application, the appropriate State director shall provide an expedited review and determination of whether the applicant is a beginning farmer or rancher or a socially disadvantaged farmer or rancher for the purpose of acquiring farm inventory property.
 
 #### (B) Appeal
 
@@ -98,13 +98,13 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 &emsp;&emsp;&emsp;The Secretary shall maintain statistical data on the number and results of determinations made under subparagraph (A) and the effect of the determinations on—
 
-&emsp;&emsp;&emsp;&emsp;(I) selling farm inventory property to beginning farmers and ranchers; and
+&emsp;&emsp;&emsp;&emsp;(I) selling farm inventory property to beginning farmers or ranchers and socially disadvantaged farmers or ranchers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) disposing of real property in inventory.
 
 #### (ii) Notification
 
-&emsp;&emsp;&emsp;The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate if the Secretary determines that the review process under subparagraph (A) is adversely affecting the selling of farm inventory property to beginning farmers or ranchers or the disposing of real property in inventory.
+&emsp;&emsp;&emsp;The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate if the Secretary determines that the review process under subparagraph (A) is adversely affecting the selling of farm inventory property to beginning farmers or ranchers or socially disadvantaged farmers or ranchers or the disposing of real property in inventory.
 
 #### (d) Easements; condemnations
 
@@ -144,7 +144,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) such time as the lands are transferred into trust pursuant to clause (viii).
 
-(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
+(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretaryof Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
@@ -200,7 +200,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;&emsp;(dd) the property may be purchased by another party; and
 
-&emsp;&emsp;(ee) if the property is purchased by another party, the property will not be placed in the inventory of the Secretary and the borrower-owner will forfeit the rights and protections provided under this chapter; and
+&emsp;&emsp;(ee) if the property is purchased by another party, the property will not be placed in the inventory of the Secretary and theborrower-owner will forfeit the rights and protections provided under this chapter; and
 
 &emsp;(III) the opportunity of the borrower-owner to consult with the Indian tribe that has jurisdiction over the reservation in which the real property is located or counsel to determine if State or tribal law provides rights and protections that are more beneficial than those provided the borrower-owner under this chapter.
 
@@ -266,7 +266,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (2) The Secretary shall release from the normal income security provided for such loan an amount sufficient to pay for the essential household and farm operating expenses of the borrower, until such time as the Secretary accelerates such loan.
 
-(3) A borrower whose account was accelerated on or after November 1, 1985, and on or before May 7, 1987, but not thereafter foreclosed on or liquidated, shall be entitled to the release of security income for a period of 12 months, to pay the essential household and farm operating expenses of such borrower in an amount not to exceed $18,000 over 12 months, if such borrower—
+(3) A borrower whose account was accelerated on or after November 1, 1985, and on or before May 7, 1987, but not thereafter foreclosed on orliquidated, shall be entitled to the release of security income for a period of 12 months, to pay the essential household and farm operating expenses of such borrower in an amount not to exceed $18,000 over 12 months, if such borrower—
 
 &emsp;(A) as of October 30, 1987, continued to be actively engaged in the farming operations for which the Secretary had made the farmer program loan; and
 
@@ -314,7 +314,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 &emsp;The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345.)
+(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
 #### References in Text
 
@@ -326,7 +326,23 @@ This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act o
 
 Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (c)(1)(B). Pub. L. 110–246, §5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmeror rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
+
+Subsec. (c)(1)(C). Pub. L. 110–246, §5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+
+Subsec. (c)(5)(B)(i). Pub. L. 110–246, §5302(a)(2)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end and, in text, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+
+Subsec. (c)(5)(B)(ii). Pub. L. 110–246, §5302(a)(2)(B), in introductory provisions, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and, in subcl. (II), inserted “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+
+Subsec. (c)(6)(A). Pub. L. 110–246, §5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+
+Subsec. (c)(6)(C). Pub. L. 110–246, §5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
 
 2002—Subsec. (c)(1)(B)(i). Pub. L. 107–171, §5308(1)(A)(i), substituted “135 days” for “75 days”.
 
@@ -372,7 +388,7 @@ Subsec. (e)(4). Pub. L. 104–127, §638(3)(E), redesignated par. (7) as (4). Fo
 
 Subsec. (e)(5). Pub. L. 104–127, §638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
-“(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable forsale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
+“(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 “(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection.”
 
@@ -434,11 +450,11 @@ Subsec. (e)(1)(F). Pub. L. 102–237, §501(f)(2), added subpar. (F).
 
 Subsec. (c)(1). Pub. L. 101–624, §2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
-Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) ascls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
+Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committeedetermines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
 Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §2388(g), substituted “cause” for “caused”.
 
@@ -496,17 +512,21 @@ Subsec. (f). Pub. L. 99–198, §1315, added subsec. (f).
 
 1972—Subsec. (c). Pub. L. 92–419 substituted “the provisions of any law administered by the Farmers Home Administration” for “subchapter I of this chapter” in first sentence and “such provisions” for “the provisions of subchapter I of this chapter” in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
+Section 516(h)(2) of Pub. L. 102–552 provided that: “The amendments made by paragraph (1) of this subsection \[amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above\] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 \[Pub. L. 102–237\]\] took effect.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1816 of Pub. L. 101–624 applicable to new applications submitted under section 2001 of this title on or after Nov. 28, 1990, see section 1861 of Pub. L. 101–624, set out as a note under section 2001 of this title.
+Amendment by section 1816 of Pub. L. 101–624 applicable to new applications submitted under section 2001 of this title on or after Nov. 28, 1990, see section 1861 ofPub. L. 101–624, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1985 Amendment
 

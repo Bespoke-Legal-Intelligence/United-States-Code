@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(ii) has been effective in assisting under-represented minority students of the school to complete the program of education and receive the degree involved;
 
-&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals toenroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
+&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals to enroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
 
 &emsp;&emsp;&emsp;(iv) has made significant recruitment efforts to increase the number of under-represented minority individuals serving in faculty or administrative positions at the school.
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Native Americans, the purpose of which arrangement will be to carry out a program—
 
-&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), whoare interested in health professions careers; and
+&emsp;&emsp;&emsp;&emsp;(I) to identify Native American students, from the institutions of higher education referred to in clause (i), who are interested in health professions careers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to facilitate the educational preparation of such students to enter the designated health professions school; and
 
@@ -140,7 +140,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (3) Native American centers of excellence
 
-&emsp;Any designated health professions school receiving a grant under subsection (a) of this section and meeting the conditions described in subsection (c)(4) of this section shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) of this section shall, for purposes of this section, be so designated.
+&emsp;Any designated health professions school receiving a grant under subsection (a) of thissection and meeting the conditions described in subsection (c)(4) of this section shall, for purposes of this section, be designated by the Secretary as a Native American Center of Excellence in Health Professions Education. Any consortium receiving such a grant pursuant to subsection (e) of this section shall, for purposes of this section, be so designated.
 
 #### (e) Authority regarding Native American centers of excellence
 

@@ -46,7 +46,7 @@ Agreement.—The Secretary may enter into an agreement with an organization that
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all Statesare participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (thesystem used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 

@@ -46,7 +46,7 @@ Regulations prescribed under subsection (a) of this section shall require that a
 
 &emsp;(5) to the maximum practicable extent, identifying, in advance of delivery, technical data which is to be delivered with restrictions on the right of the United States to use such data;
 
-&emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the itemsspecified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
+&emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
 
 &emsp;(7) requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;
 

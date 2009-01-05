@@ -6,21 +6,19 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;(1) the identity of the Federal officer making the application;
 
-&emsp;(2) the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;
+&emsp;(2) the identity, if known, or a description of the specific target of the electronic surveillance;
 
-&emsp;(3) the identity, if known, or a description of the specific target of the electronic surveillance;
-
-&emsp;(4) a statement of the facts and circumstances relied upon by the applicant to justify his belief that—
+&emsp;(3) a statement of the facts and circumstances relied upon by the applicant to justify his belief that—
 
 &emsp;&emsp;(A) the target of the electronic surveillance is a foreign power or an agent of a foreign power; and
 
 &emsp;&emsp;(B) each of the facilities or places at which the electronic surveillance is directed is being used, or is about to be used, by a foreign power or an agent of a foreign power;
 
-&emsp;(5) a statement of the proposed minimization procedures;
+&emsp;(4) a statement of the proposed minimization procedures;
 
-&emsp;(6) a detailed description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
+&emsp;(5) a description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
 
-&emsp;(7) a certification or certifications by the Assistant to the President for National Security Affairs or an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate—
+&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
@@ -36,29 +34,23 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;&emsp;&emsp;(ii) such information cannot reasonably be obtained by normal investigative techniques;
 
-&emsp;(8) a statement of the means by which the surveillance will be effected and a statement whether physical entry is required to effect the surveillance;
+&emsp;(7) a summary statement of the means by which the surveillance will be effected and a statement whether physical entry is required to effect the surveillance;
 
-&emsp;(9) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, facilities, or places specified in the application, and the action taken on each previous application;
+&emsp;(8) a statement of the facts concerning all previous applications that have been made to any judge under this subchapter involving any of the persons, facilities, or places specified in the application, and the action taken on each previous application; and
 
-&emsp;(10) a statement of the period of time for which the electronic surveillance is required to be maintained, and if the nature of the intelligence gathering is such that the approval of the use of electronic surveillance under this subchapter should not automatically terminate when the described type of information has first been obtained, a description of facts supporting the belief that additional information of the same type will be obtained thereafter; and
+&emsp;(9) a statement of the period of time for which the electronic surveillance is required to be maintained, and if the nature of the intelligence gathering is such that the approval of the use of electronic surveillance under this subchapter should not automatically terminate when the described type of information has first been obtained, a description of facts supporting the belief that additional information of the same type will be obtained thereafter.
 
-&emsp;(11) whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.
-
-#### (b) Exclusion of certain information respecting foreign power targets
-
-Whenever the target of the electronic surveillance is a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, and each of the facilities or places at which the surveillance is directed is owned, leased, or exclusively used by that foreign power, the application need not contain the information required by paragraphs (6), (7)(E), (8), and (11) of subsection (a) of this section, but shall state whether physical entry is required to effect the surveillance and shall contain such information about the surveillance techniques and communications or other information concerning United States persons likely to be obtained as may be necessary to assess the proposed minimization procedures.
-
-#### (c) Additional affidavits or certifications
+#### (b) Additional affidavits or certifications
 
 The Attorney General may require any other affidavit or certification from any other officer in connection with the application.
 
-#### (d) Additional information
+#### (c) Additional information
 
 The judge may require the applicant to furnish such other information as may be necessary to make the determinations required by section 1805 of this title.
 
-#### (e) Personal review by Attorney General
+#### (d) Personal review by Attorney General
 
-(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, or the Director of National Intelligence, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
+(1)(A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in section 1801(b)(2) of this title.
 
 (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
@@ -68,19 +60,35 @@ The judge may require the applicant to furnish such other information as may be 
 
 (B) Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) of this section for purposes of making the application under this section.
 
-(C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if suchofficial determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
+(C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §108(a)(1), Mar. 9, 2006, 120 Stat. 203.)
+(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §108(a)(1), Mar. 9, 2006, 120 Stat. 203; Pub. L. 110–261, title I, §104, July 10, 2008, 122 Stat. 2460.)
 
 #### Amendments
 
-2006—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
+<b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
 
-2004—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsec. (a)(5). Pub. L. 110–261, §104(1)(B), (C), redesignated par. (6) as (5) and struck out “detailed” before “description”. Former par. (5) redesignated (4).
 
-2001—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+Subsec. (a)(6). Pub. L. 110–261, §104(1)(B), (D), redesignated par. (7) as (6) and substituted “Affairs,” for “Affairs or” and “Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—” for “Senate—” in introductory provisions. Former par. (6) redesignated (5).
 
-2000—Subsec. (e). Pub. L. 106–567 added subsec. (e).
+Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7) and substituted “summary statement of” for “statement of”. Former par. (7) redesignated (6).
+
+Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
+
+Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
+
+<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458 substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
+<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+
+<b>2000</b>—Subsec. (e). Pub. L. 106–567 added subsec. (e).
+
+#### Effective Date of 2008 Amendment
+
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2004 Amendment
 

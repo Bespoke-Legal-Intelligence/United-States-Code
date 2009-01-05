@@ -40,7 +40,7 @@ In the administration of voter registration for elections for Federal office, ea
 
 #### (b) Confirmation of voter registration
 
-Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office—
+Any State program or activity to protect the integrity of the electoral process by ensuringthe maintenance of an accurate and current voter registration roll for elections for Federal office—
 
 &emsp;(1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.); and
 
@@ -100,7 +100,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law.
 
-(B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph\(A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
+(B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph (A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
 
 (3) If the registration records indicate that a registrant has moved from an address in the area covered by a polling place, the registrant shall, upon oral or written affirmation by the registrant before an election official at that polling place that the registrant continues to reside at the address previously made known to the registrar, be permitted to vote at that polling place.
 

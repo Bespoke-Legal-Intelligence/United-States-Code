@@ -2,41 +2,41 @@
 
 #### (a) Borrowing money; issuing bonds and debentures; general powers
 
-Each Federal Home Loan Bank shall have power, subject to rules and regulations prescribed by the Board, to borrow and give security therefor and to pay interest thereon, to issue debentures, bonds, or other obligations upon such terms and conditions as the Board may approve, and to do all things necessary for carrying out the provisions of this chapter and all things incident thereto.
+Each Federal Home Loan Bank shall have power, subject to rules and regulations prescribed by the Director, to borrow and give security therefor and to pay interest thereon, to issue debentures, bonds, or other obligations upon such terms and conditions as the Director may approve, and to do all things necessary for carrying out the provisions of this chapter and all things incident thereto.
 
 #### (b) Issuance of consolidated Federal Home Loan Bank debentures; restrictions
 
-The Board may issue consolidated Federal Home Loan Bank debentures which shall be the joint and several obligations of all Federal Home Loan Banks organized and existing under this chapter, in order to provide funds for any such bank or banks, and such debentures shall be issued upon such terms and conditions as the Board may prescribe. No such debentures shall be issued at any time if any of the assets of any Federal Home Loan Bank are pledged to secure any debts or subject to any lien, and neither the Board nor any Federal Home Loan Bank shall have power to pledge any of the assets of any Federal Home Loan Bank, or voluntarily to permit any lien to attach to the same while any of such debentures so issued are outstanding. The debentures issued under this section and outstanding shall at no time exceed five times the total paid-in capital of all the Federal Home Loan Banks as of the time of the issue of such debentures. It shall be the duty of the Board not to issue debentures under this section in excess of the notes or obligations of member institutions held and secured under section 1430(a) of this title by all the Federal Home Loan Banks.
+The Office of Finance, as agent for the Banks, may issue consolidated Federal Home Loan Bank debentures which shall be the joint and several obligations of all Federal Home Loan Banks organized and existing under this chapter, in order to provide funds for any such bank or banks, and such debentures shall be issued upon such terms and conditions as such Office may prescribe. No such debentures shall be issued at any time if any of the assets of any Federal Home Loan Bank are pledged to secure any debts or subject to any lien, and neither the Office of Finance nor any Federal Home Loan Bank shall have power to pledge any of the assets of any Federal Home Loan Bank, or voluntarily to permit any lien to attach to the same while any of such debentures so issued are outstanding. The debentures issued under this section and outstanding shall at no time exceed five times the total paid-in capital of all the Federal Home Loan Banks as of the time of the issue of such debentures. It shall be the duty of the Office of Finance not to issue debentures under this section in excess of the notes or obligations of member institutions held and secured under section 1430(a) of this title by all the Federal Home Loan Banks.
 
 #### (c) Issuance of Federal Home Loan Bank bonds
 
-At any time that no debentures are outstanding under this chapter, or in order to refund all outstanding consolidated debentures issued under this section, the Board may issue consolidated Federal Home Loan Bank bonds which shall be the joint and several obligations of all the Federal Home Loan Banks, and shall be secured and be issued upon such terms and conditions as the Board may prescribe.
+At any time that no debentures are outstanding under this chapter, or in order to refund all outstanding consolidated debentures issued under this section, the Office of Finance, as agent for the Banks, may issue consolidated Federal Home Loan Bank bonds which shall be the joint and several obligations of all the Federal Home Loan Banks, and shall be secured and be issued upon such terms and conditions as such Office may prescribe.
 
 #### (d) Additional or substituted collateral on adjustment of equities
 
-The Board shall have full power to require any Federal Home Loan Bank to deposit additional collateral or to make substitutions of collateral or to adjust equities between the Federal Home Loan Banks.
+The Director shall have full power to require any Federal Home Loan Bank to deposit additional collateral or to make substitutions of collateral or to adjust equities between the Federal Home Loan Banks.
 
 #### (e) Acceptance of deposits; restrictions on transaction of banking business; collection and settlement of checks, drafts, etc.; charges; rules and regulations
 
-(1) Each Federal Home Loan Bank shall have power to accept deposits made by members of such bank or by any other Federal Home Loan Bank or other instrumentality of the United States, upon such terms and conditions as the Board may prescribe, but no Federal Home Loan Bank shall transact any banking or other business not incidental to activities authorized by this chapter.
+(1) Each Federal Home Loan Bank shall have power to accept deposits made by members of such bank or by any other Federal Home Loan Bank or other instrumentality of the United States, upon such terms and conditions as the Director may prescribe, but no Federal Home Loan Bank shall transact any banking or other business not incidental to activities authorized by this chapter.
 
-(2)(A) The Board may, subject to such rules and regulations, including definitions of terms used in this paragraph, as the Board shall from time to time prescribe, authorize Federal Home Loan Banks to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of any Federal Home Loan Bank or by institutions which are eligible to make application to become members pursuant to section 1424 of this title, and to have such incidental powers as the Board shall find necessary for the exercise of any such authorization.
+(2)(A) The Director may, subject to such rules and regulations, including definitions of terms used in this paragraph, as the Director shall from time to time prescribe, authorize Federal Home Loan Banks to be drawees of, and to engage in, or be agents or intermediaries for, or otherwise participate or assist in, the collection and settlement of (including presentment, clearing, and payment of, and remitting for), checks, drafts, or any other negotiable or nonnegotiable items or instruments of payment drawn on or issued by members of any Federal Home Loan Bank or by institutions which are eligible tomake application to become members pursuant to section 1424 of this title, and to have such incidental powers as the Director shall find necessary for the exercise of any such authorization.
 
-(B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Board consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of,a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
+(B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Director consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
 
-(C) The Board is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+(C) The Director is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Director may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
-The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home Loan Banks, or to purchase any bonds or debentures issued under this section.
+The Director is authorized and empowered to permit or to require Federal Home Loan Banks, upon such terms and conditions as the Director may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home Loan Banks, or to purchase any bonds or debentures issued under this section.
 
 #### (g) Reserves
 
-Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Board may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, and which may be made without the security of home mortgages or other security, upon such terms and conditions as the Board may prescribe.
+Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Director may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, and which may be made without the security of home mortgages or other security, upon such terms and conditions as the Director may prescribe.
 
 #### (h) Investment of surplus funds
 
-Such part of the assets of each Federal Home Loan Bank (except reserves and amounts provided for in subsection (g) of this section) as are not required for advances to members, may be invested, to such extent as the bank may deem desirable and subject to such regulations, restrictions, and limitations as may be prescribed by the Board, in obligations of the United States, in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association or the Government National Mortgage Association, in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or section 1455 of this title, in the stock of the Federal National Mortgage Association, in stock, obligations, or other securities of any small business investment company formed pursuant to section 681 of title 15, for the purpose of aiding members of the Federal Home Loan Bank System, and in such securities as fiduciary and trust funds may be invested in under the laws of the State in which the Federal Home Loan Bank is located.
+Such part of the assets of each Federal Home Loan Bank (except reserves and amounts provided for in subsection (g) of this section) as are not required for advances to members, may be invested, to such extent as the bank may deem desirable and subject to such regulations, restrictions, and limitations as may be prescribed by the Director, in obligations of the United States, in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association or the Government National Mortgage Association, in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or section 1455 of this title, in the stock of the Federal National Mortgage Association, in stock, obligations, or other securities of any small business investment company formed pursuant to section 681 of title 15, for the purpose of aiding members of the Federal Home Loan Bank System, and in such securities as fiduciary and trust funds may be invested in under the laws of the State in which the Federal Home Loan Bank is located.
 
 #### (i) Treasury purchase of banks’ obligations; exercise of authority
 
@@ -44,7 +44,7 @@ The Secretary of the Treasury is authorized in his discretion to purchase any ob
 
 In addition to obligations authorized to be purchased by the preceding paragraph, the Secretary of the Treasury is authorized to purchase any obligations issued pursuant to this section in amounts not to exceed $2,000,000,000. The authority provided in this paragraph shall expire August 10, 1975.
 
-Notwithstanding the foregoing, the authority provided in this subsection may be exercised during any calendar quarter beginning after October 28, 1974, only if the Secretary of the Treasury and the Chairperson of the Board certify to the Congress that (1) alternative means cannot be effectively employed to permit members of the Federal Home Loan Bank System to continue to supply reasonable amounts of funds to the mortgage market, and (2) the ability to supply such funds is substantially impaired because of monetary stringency and a high level of interest rates. Any funds borrowed under this subsection shall be repaid by the Home Loan Banks at the earliest practicable date.
+Notwithstanding the foregoing, the authority provided in this subsection may be exercised during any calendar quarter beginning after October 28, 1974, only if the Secretary of the Treasury and the Chairperson of the Director <sup>1</sup> certifyto the Congress that (1) alternative means cannot be effectively employed to permit members of the Federal Home Loan Bank System to continue to supply reasonable amounts of funds to the mortgage market, and (2) the ability to supply such funds is substantially impaired because of monetary stringency and a high level of interest rates. Any funds borrowed under this subsection shall be repaid by the Home Loan Banks at the earliest practicable date.
 
 #### (j) Audits
 
@@ -68,7 +68,71 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616.)
+#### (<i>l</i>) Temporary authority of Treasury to purchase obligations; conditions
+
+#### (1) Authority to purchase
+
+#### (A) General authority
+
+&emsp;&emsp;In addition to the authority under subsection (i) of this section, the Secretary of the Treasury is authorized to purchase any obligations issued by any Federal Home Loan Bank under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires a Federal Home Loan Bank to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Federal Home Loan Bank. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the Federal Home Loan Bank, to engage in open market purchases of the common securities of any Federal Home Loan Bank.
+
+#### (B) Emergency determination required
+
+&emsp;&emsp;In connection with any use of this authority, the Secretary must determine that such actions are necessary to—
+
+&emsp;&emsp;&emsp;(i) provide stability to the financial markets;
+
+&emsp;&emsp;&emsp;(ii) prevent disruptions in the availability of mortgage finance; and
+
+&emsp;&emsp;&emsp;(iii) protect the taxpayer.
+
+#### (C) Considerations
+
+&emsp;&emsp;To protect the taxpayers, the Secretary of the Treasury shall take into consideration the following in connection with exercising the authority contained in this paragraph:
+
+&emsp;&emsp;&emsp;(i) The need for preferences or priorities regarding payments to the Government.
+
+&emsp;&emsp;&emsp;(ii) Limits on maturity or disposition of obligations or securities to be purchased.
+
+&emsp;&emsp;&emsp;(iii) The Federal Home Loan Bank's plan for the orderly resumption of private market funding or capital market access.
+
+&emsp;&emsp;&emsp;(iv) The probability of the Federal Home Loan Bank fulfilling the terms of any such obligation or other security, including repayment.
+
+&emsp;&emsp;&emsp;(v) The need to maintain the Federal Home Loan Bank's status as a private shareholder-owned company.
+
+&emsp;&emsp;&emsp;(vi) Restrictions on the use of Federal Home Loan Bank resources, including limitations on the payment of dividends and executive compensation and any such other terms and conditions as appropriate for those purposes.
+
+#### (D) Reports to Congress
+
+&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
+
+#### (2) Rights; sale of obligations and securities
+
+#### (A) Exercise of rights
+
+&emsp;&emsp;The Secretary of the Treasury may, at any time, exercise any rights received in connection with such purchases.
+
+#### (B) Sale of obligations
+
+&emsp;&emsp;The Secretary of the Treasury may, at any time, subject to the terms of the security or otherwise upon terms and conditions and at prices determined by the Secretary, sell any obligation acquired by the Secretary under this subsection.
+
+#### (C) Application of sunset to purchased obligations
+
+&emsp;&emsp;The authority of the Secretary of the Treasury to hold, exercise any rights received in connection with, or sell, any obligations purchased is not subject to the provisions of paragraph (4).
+
+#### (3) Funding
+
+&emsp;For the purpose of the authorities granted in this subsection, the Secretary of the Treasury may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such purchases and the exercise of any rights in connection with such purchases. Any funds expended for the purchase of, or modifications to, obligations and securities, or the exercise of any rights received in connection with such purchases under this subsection shall be deemed appropriated at the time of such purchase, modification, or exercise.
+
+#### (4) Termination of authority
+
+&emsp;The authority under this subsection (<i>l</i>), with the exception of paragraphs (2) and (3) of this subsection, shall expire December 31, 2009.
+
+#### (5) Authority of the Director with respect to executive compensation
+
+&emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
+
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786.)
 
 #### References in Text
 
@@ -79,6 +143,18 @@ Section 9105 of title 31, referred to in subsec. (j), was amended generally by P
 In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act”, and “section 9105(a)(1)(B) of title 31” and “sections 9107(c)(2) and 9108(d)(1) of title 31” substituted for “the first sentence of section 202 of the Government Corporation Control Act \[31 U.S.C. 857\]” and “the first sentence of subsection (d) of section 303 of the Government Corporation Control Act \[31 U.S.C. 868(d)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2008—Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
+
+Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” wherever appearing in subsecs. (a) and (e) to (i).
+
+Subsec. (b). Pub. L. 110–289, §1204(3)(A), substituted “The Office of Finance, as agent for the Banks,” for “The Board” and “such Office” for “the Board” in first sentence and “the Office of Finance” for “the Board” in second and fourth sentences.
+
+Subsec. (c). Pub. L. 110–289, §1204(3)(B), substituted “the Office of Finance, as agent for the Banks,” for “the Board” before “may issue” and “such Office” for “the Board” before “may prescribe”.
+
+Subsec. (f). Pub. L. 110–289, §1204(3)(C), struck out the two commas after “permit” and inserted “or” and struck out the comma after “require”.
+
+Subsec. (<i>l</i>). Pub. L. 110–289, §1117(c), added subsec. (<i>l</i>).
 
 2006—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
 
@@ -154,7 +230,7 @@ Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999,
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
 
-<i><sup>1</sup></i><i> So in original. See 1989 Amendment note below.</i>
+<i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

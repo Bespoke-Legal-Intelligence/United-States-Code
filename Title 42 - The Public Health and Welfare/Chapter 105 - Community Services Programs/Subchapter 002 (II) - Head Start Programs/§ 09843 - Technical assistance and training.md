@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) assisting Head Start agencies providing family literacy services, in order to improve the quality of such family literacy services; and
 
-&emsp;&emsp;&emsp;&emsp;(II) enabling those Head Start agencies that demonstrate effective provision of family literacy services, based on improved outcomes for children and their parents, to provide technical assistance and training to other Head Start agencies and to service providers that workin collaboration with such agencies to provide family literacy services;
+&emsp;&emsp;&emsp;&emsp;(II) enabling those Head Start agencies that demonstrate effective provision of family literacy services, based on improved outcomes for children and their parents, to provide technical assistance and training to other Head Start agencies and to service providers that work in collaboration with such agencies to provide family literacy services;
 
 &emsp;&emsp;&emsp;(iii) assist Head Start agencies and programs in conducting and participating in communitywide strategic planning and needs assessments, including the needs of homeless children and their families, and in conducting self-assessments;
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(viii) assist Head Start agencies in developing innovative program models, including mobile and home-based programs;
 
-&emsp;&emsp;&emsp;(ix) provide support for Head Start agencies (including policy councils and policy committees) that meet the standards described in section 9836a(a) of this title but that have, as documented by the Secretary through reviews conducted pursuant to section 9836a(c) of this title, programmatic, quality, and fiscal issues to address;
+&emsp;&emsp;&emsp;(ix) provide support for Head Start agencies (including policy councils and policycommittees) that meet the standards described in section 9836a(a) of this title but that have, as documented by the Secretary through reviews conducted pursuant to section 9836a(c) of this title, programmatic, quality, and fiscal issues to address;
 
 &emsp;&emsp;&emsp;(x) assist Head Start agencies and programs in improving outreach to, increasing program participation of, and improving the quality of services available to meet the unique needs of—
 
@@ -118,7 +118,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(B) Activities that ensure that Head Start programs have adequate numbers of trained, qualified staff who have skills in working with children and families, including children and families who are limited English proficient and children with disabilities and their families.
 
-&emsp;&emsp;(C) Activities to improve the management and implementation of Head Start services and systems, including direct training for expert consultants working with staff.
+&emsp;&emsp;(C) Activities to improve the management and implementation of Head Start servicesand systems, including direct training for expert consultants working with staff.
 
 &emsp;&emsp;(D) Activities that help ensure that Head Start programs have qualified staff who can promote language skills and literacy growth of children and who can provide children with a variety of skills that have been identified as predictive of later reading achievement, school success, and the skills, knowledge, abilities, development, and progress described in section 9836a(a)(1)(B)(ii) of this title.
 
@@ -150,7 +150,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 #### (e) State-based training and technical assistance system
 
-For the purposes of delivering a State-based training and technical assistance system (which may include a consortium of 2 or more States within a region) or a national system in the caseof migrant or seasonal Head Start and Indian Head Start programs, as described in section 9835(a)(2)(C)(i)(II)(bb) of this title, that will meet the needs of local grantees, as determined by such grantees, and provide high-quality, sustained, and intensive training and technical assistance to Head Start agencies and programs in order to improve their capacity to deliver services that meet or exceed the standards described in section 9836a(a)(1) of this title, the Secretary shall—
+For the purposes of delivering a State-based training and technical assistance system (which may include a consortium of 2 or more States within a region) or a national system in the case of migrant or seasonal Head Start and Indian Head Start programs, as described in section 9835(a)(2)(C)(i)(II)(bb) of this title, that will meet the needs of local grantees, as determined by such grantees, and provide high-quality, sustained, and intensive training and technical assistance to Head Start agencies and programs in order to improve their capacity to deliver services that meet or exceed the standards described in section 9836a(a)(1) of this title, the Secretary shall—
 
 &emsp;(1) enter into contracts in each State with 1 or more entities that have a demonstrated expertise in supporting the delivery of high-quality early childhood education and development programs, except that contracts for a consortium of 2 or more States within a geographic region may be entered into if such a system is more appropriate to better meet the needs of local grantees within a region, as determined by such grantees;
 
@@ -162,7 +162,7 @@ For the purposes of delivering a State-based training and technical assistance s
 
 &emsp;&emsp;(C) the State Head Start Association;
 
-&emsp;(3) encourage States to supplement the funds authorized in section 9835(a)(2)(C)(i)(II)(bb) of this title with Federal, State, or local funds other than funds made available under this subchapter, to expand training and technical assistance activities beyond Head Start agencies to include other providers of other early childhood education and development programs within a State;
+&emsp;(3) encourage States to supplement the funds authorized in section 9835(a)(2)(C)(i)(II)(bb) of this title with Federal, State, or local funds other than funds made available under this subchapter, to expand training and technical assistance activities beyond Head Start agencies to include other providers of other earlychildhood education and development programs within a State;
 
 &emsp;(4) provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 90 days after the end of the fiscal year, summarizing the funding for such contracts and the activities carried out thereunder;
 

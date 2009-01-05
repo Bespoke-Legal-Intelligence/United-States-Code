@@ -26,7 +26,7 @@ Damage Prevention Program Elements.—An effective damage prevention program inc
 
 &emsp;(6) A process for resolving disputes that defines the State authority's role as a partner and facilitator to resolve issues.
 
-&emsp;(7) Enforcement of State damage prevention laws and regulations for all aspects of the damage prevention process, including publiceducation, and the use of civil penalties for violations assessable by the appropriate State authority.
+&emsp;(7) Enforcement of State damage prevention laws and regulations for all aspects of the damage prevention process, including public education, and the use of civil penalties for violations assessable by the appropriate State authority.
 
 &emsp;(8) A process for fostering and promoting the use, by all appropriate stakeholders, of improving technologies that may enhance communications, underground pipeline locating capability, and gathering and analyzing information about the accuracy and effectiveness of locating programs.
 

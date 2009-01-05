@@ -30,7 +30,7 @@ The Secretary shall certify a third party entity to conduct validations under su
 
 &emsp;&emsp;(B) to maintain liability insurance coverage at policy limits and in accordance with conditions to be established by the Secretary; and
 
-&emsp;(3) signs an agreement to protect all proprietary information of C–TPAT participantswith respect to which the entity will conduct validations.
+&emsp;(3) signs an agreement to protect all proprietary information of C–TPAT participants with respect to which the entity will conduct validations.
 
 #### (e) Information for establishing limits of liability insurance
 

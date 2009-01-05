@@ -60,7 +60,7 @@ Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see sectio
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel andtransportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under section 5584 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel and transportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under section 5584 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

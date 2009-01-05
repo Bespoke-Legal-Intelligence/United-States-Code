@@ -18,7 +18,7 @@ The Secretary of Labor may not issue a certification under subsection (a) of thi
 
 &emsp;(2)(A) The employer during the previous two-year period employed H–2A workers and the Secretary of Labor has determined, after notice and opportunity for a hearing, that the employer at any time during that period substantially violated a material term or condition of the labor certification with respect to the employment of domestic or nonimmigrant workers.
 
-&emsp;(B) No employer may be denied certification under subparagraph (A) for more than threeyears for any violation described in such subparagraph.
+&emsp;(B) No employer may be denied certification under subparagraph (A) for more than three years for any violation described in such subparagraph.
 
 &emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers’ compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers’ compensation law for comparable employment.
 
@@ -100,7 +100,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 (1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) of this section or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
-(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the timea new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
+(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
 #### (f) Violators disqualified for 5 years
 

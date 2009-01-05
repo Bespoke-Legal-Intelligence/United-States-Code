@@ -14,7 +14,7 @@
 
 &emsp;(4) for the acquisition of dairy products (as defined in section 111(e) of the Dairy Production Stabilization Act of 1983 (7 U.S.C. 4502(e)), the acquisition of edible fats or oils, and the acquisition of food products prepared from edible fats or oils, provide a required payment date of not later than 10 days after the date on which a proper invoice for the amount due has been received by the agency acquiring such dairy products, fats, oils, or food products;
 
-&emsp;(5) require periodic payments, in the case of a property or service contract which does notprohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
+&emsp;(5) require periodic payments, in the case of a property or service contract which does not prohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
 
 &emsp;&emsp;(A) submission of an invoice for property delivered or services performed during the contract period, if an invoice is required by the contract; and
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a proper invoice within the meaning of section 3901(a)(3) of this title;
 
-&emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shall be returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
+&emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shallbe returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
 
 &emsp;&emsp;(C) the number of days available to an agency to make a timely payment of an invoice without incurring an interest penalty shall be reduced by the number of days by which an agency exceeds the requirements of subparagraph (B) of this paragraph;
 

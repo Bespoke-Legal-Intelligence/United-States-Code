@@ -36,7 +36,7 @@
 
 #### (E) Special rule for regulated investment companies
 
-&emsp;&emsp;In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxes paid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues.
+&emsp;&emsp;In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxespaid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues.
 
 #### (F) Cross reference
 
@@ -74,7 +74,7 @@ For purposes of determining the tax under this subtitle—
 
 #### (1) In general
 
-&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c))attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
+&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
 
 #### (2) Distributions through tiers
 

@@ -12,7 +12,7 @@ The Secretary shall allocate the total costs (excluding costs borne by non-Feder
 
 &emsp;(ii) causes of salinity; and
 
-&emsp;(iii) availability of revenues in the Lower Colorado River Basin Development Fund and increased revenues to the Upper Colorado River Basin Fund made available under section 620d(d)(5) of this title: <i>Provided</i>, That costs allocated to the Upper Colorado River Basin Fund under this paragraph (2) shall not exceed 15 per centum of the costs allocated to the Upper Colorado River Basin Fund and the Lower Colorado River Basin Development Fund.
+&emsp;(iii) availability of revenues in the Lower Colorado River Basin Development Fund andincreased revenues to the Upper Colorado River Basin Fund made available under section 620d(d)(5) of this title: <i>Provided</i>, That costs allocated to the Upper Colorado River Basin Fund under this paragraph (2) shall not exceed 15 per centum of the costs allocated to the Upper Colorado River Basin Fund and the Lower Colorado River Basin Development Fund.
 
 (3) Costs of construction and replacement of each unit or separable feature thereof authorized by sections <sup>3</sup> 1592(a)(1), (2), and (3) of this title and costs of construction of measures to replace incidental fish and wildlife values foregone, when such measures are a part of the units authorized by sections <sup>3</sup> 1592(a)(1), (2), and (3) of this title, allocated to the upper basin and to the lower basin under subsection (a)(2) of this section shall be repaid within a fifty-year period or within a period equal to the estimated life of the unit, separable feature thereof, or replacement, whichever is less, without interest from the date such unit, separable feature, or replacement is determined by the Secretary to be in operation.
 
@@ -42,11 +42,21 @@ Costs of construction, operation, maintenance, and replacement of each unit or s
 
 The Secretary is authorized to make upward adjustments in rates charged for electrical energy under all contracts administered by the Secretary under the Colorado River Storage Project Act (70 Stat. 105; 43 U.S.C. 620) as soon as practicable and to the extent necessary to cover the costs allocated to the Upper Colorado River Basin Fund under subsection (a)(2) of this section and in conformity with subsection (a)(3), subsection (a)(4) and subsection (a)(5) of this section: <i>Provided</i>, That revenues derived from said rate adjustments shall be available solely for the construction, operation, maintenance, and replacement of salinity control units, for the construction, operation, and maintenance of measures to replace incidental fish and wildlife values foregone, and for the implementation of on-farm measures in the Colorado River Basin herein authorized.
 
-#### (f) Funds
+#### (f) Up-front cost share
 
-The Secretary may expend funds available in the Basin Funds referred to in this section to carry out cost-share salinity measures in a manner that is consistent with the cost allocations required under this section.
+#### (1) In general
 
-(Pub. L. 93–320, title II, §205, June 24, 1974, 88 Stat. 272; Pub. L. 98–569, §4(a)–(f)(1), (g), (i), Oct. 30, 1984, 98 Stat. 2937–2939; Pub. L. 104–20, §1(2), July 28, 1995, 109 Stat. 255; Pub. L. 104–127, title III, §336(c)(2), Apr. 4, 1996, 110 Stat. 1006.)
+&emsp;Effective beginning on the date of enactment of this paragraph, subject to paragraph (3), the cost share obligations required by this section shall be met through an up-front cost share from the Basin Funds, in the same proportions as the cost allocations required under subsection (a), as provided in paragraph (2).
+
+#### (2) Basin States Program
+
+&emsp;The Secretary shall expend the required cost share funds described in paragraph (1) through the Basin States Program for salinity control activities established under section 1592(a)(7) of this title.
+
+#### (3) Existing salinity control activities
+
+&emsp;The cost share contribution required by this section shall continue to be met through repayment in a manner consistent with this section for all salinity control activities for which repayment was commenced prior to the date of enactment of this paragraph.
+
+(Pub. L. 93–320, title II, §205, June 24, 1974, 88 Stat. 272; Pub. L. 98–569, §4(a)–(f)(1), (g), (i), Oct. 30, 1984, 98 Stat. 2937–2939; Pub. L. 104–20, §1(2), July 28, 1995, 109 Stat. 255; Pub. L. 104–127, title III, §336(c)(2), Apr. 4, 1996, 110 Stat. 1006; Pub. L. 110–234, title II, §2806(b)(2), May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2806(b)(2), June 18, 2008, 122 Stat. 1664, 1818.)
 
 #### References in Text
 
@@ -56,11 +66,17 @@ Section 620d(d)(5) of this title, referred to in subsec. (c), was in the origina
 
 The Colorado River Storage Project Act, referred to in subsec. (d), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 
+The date of enactment of this paragraph, referred to in subsec. (f)(1), (3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 205 of Pub. L. 93–320. Subsecs. (b)(2) and (d) of section 205 of Pub. L. 93–320 amended sections 620d and 1543 of this title.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–246, §2806(b)(2), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “The Secretary may expend funds available in the Basin Funds referred to in this section to carry out cost-share salinity measures in a manner that is consistent with the cost allocations required under this section.”
 
 1996—Subsec. (a). Pub. L. 104–127, §336(c)(2)(A), struck out “pursuant to section 1592(c)(2)(C) of this title” after “non-Federal participants” in introductory provisions.
 
@@ -83,6 +99,10 @@ Subsec. (b). Pub. L. 98–569, §4(f)(1), inserted “authorized by section 1592
 Subsec. (c). Pub. L. 98–569, §4(g), inserted “authorized by section 1592(a) of this title, costs of construction,operation, and maintenance of measures to replace incidental fish and wildlife values foregone, and costs of implementation of the on-farm measures authorized by section 1592(c) of this title” before “allocated for”.
 
 Subsec. (e). Pub. L. 98–569, §4(i), struck out “of construction, operation, maintenance, and replacement of units” before “allocated under”, inserted “to the Upper Colorado River Basin Fund” after “allocated”, inserted “, subsection (a)(4) and subsection (a)(5) of this section” after “subsection (a)(3)”, and inserted “, for the construction, operation and maintenance of measures to replace incidental fish and wildlife values foregone, and for the implementation of on-farm measures” after “salinity control units”.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1984 Amendment
 

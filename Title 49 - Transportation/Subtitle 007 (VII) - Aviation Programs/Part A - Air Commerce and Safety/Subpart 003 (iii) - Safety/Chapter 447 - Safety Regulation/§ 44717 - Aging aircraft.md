@@ -26,7 +26,7 @@ Aircraft Maintenance Safety Programs.—The Administrator shall establish—
 
 &emsp;(2) a program—
 
-&emsp;&emsp;(A) to provide inspectors and engineers of the Administration with training necessary to conduct auditing inspections of aircraft operated by air carriers for corrosion and metal fatigue; and
+&emsp;&emsp;(A) to provide inspectors and engineers of the Administration with training necessaryto conduct auditing inspections of aircraft operated by air carriers for corrosion and metal fatigue; and
 
 &emsp;&emsp;(B) to enhance participation of those inspectors and engineers in those inspections; and
 

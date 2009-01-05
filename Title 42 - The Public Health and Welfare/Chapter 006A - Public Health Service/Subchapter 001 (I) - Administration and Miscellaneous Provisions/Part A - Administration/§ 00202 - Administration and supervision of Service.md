@@ -10,7 +10,7 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 ofReorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretaryand Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### International Health Administration
 
@@ -98,7 +98,7 @@ As presently constituted, the Public Health Service is composed of four major co
 
 This structure was designed to provide separate administrative arrangements for health research, programs of State and local aid, health services, and executive staff resources. At a time when these functions could be neatly compartmentalized, the structure was adequate. But today the situation is different.
 
-Under recent legislation many new programs provide for an integrated attack on specific disease problems or health hazards in the environment by combining health services, State and local aid, and research. Each new program of this type necessarily is assigned to one of the three operating components of the Public HealthService. Yet none of these components is intended to administer programs involving such a variety of approaches.
+Under recent legislation many new programs provide for an integrated attack on specific disease problems or health hazards in the environment by combining health services, State and local aid, and research. Each new program of this type necessarily is assigned to one of the three operating components of the Public Health Service. Yet none of these components is intended to administer programs involving such a variety of approaches.
 
 Our health problems are difficult enough without having them complicated by outmoded organizational arrangements.
 
@@ -186,7 +186,7 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
 
-Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vestedin the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
+Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
 
 Sec. 3. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise the authority vested in the President by Section 704 of Title 37 of the United States Code to prescribe regulations.
 

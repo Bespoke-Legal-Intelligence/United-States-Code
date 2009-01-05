@@ -1,6 +1,6 @@
 ### §403g. Protection of nature of Agency's functions
 
-In the interests of the security of the foreign intelligence activities of the United States and in order further to implement section 403–1(i) of this title that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, the Agency shall be exempted from the provisions of sections 1 and 2 of the Act of August 28, 1935 (49 Stat. 956, 957; 5 U.S.C. 654), and the provisions of any other law which require the publication or disclosure of the organization, functions, names, official titles, salaries, or numbers of personnel employed by the Agency: <i>Provided</i>, That in furtherance of this section,the Director of the Office of Management and Budget shall make no reports to the Congress in connection with the Agency under section 607 of the Act of June 30, 1945, as amended (5 U.S.C. 947(b)).
+In the interests of the security of the foreign intelligence activities of the United States and in order further to implement section 403–1(i) of this title that the Director of National Intelligence shall be responsible for protecting intelligence sources and methods from unauthorized disclosure, the Agency shall be exempted from the provisions of sections 1 and 2 of the Act of August 28, 1935 (49 Stat. 956, 957; 5 U.S.C. 654), and the provisions of any other law which require the publication or disclosure of the organization, functions, names, official titles, salaries, or numbers of personnel employed by the Agency: <i>Provided</i>, That in furtherance of this section, the Director of the Office of Management and Budget shall make no reports to the Congress in connection with the Agency under section 607 of the Act of June 30, 1945, as amended (5 U.S.C. 947(b)).
 
 (June 20, 1949, ch. 227, §6, formerly §7, 63 Stat. 211; renumbered §6, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 103–178, title V, §501(2), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–272, title IV, §403(a)(2), Oct. 20, 1998, 112 Stat. 2404; Pub. L. 108–177, title III, §377(b)(2), Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title I, §§1071(b)(1)(A), 1072(b), Dec. 17, 2004, 118 Stat. 3690, 3692.)
 
@@ -16,15 +16,15 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-2004—Pub. L. 108–458, §1072(b), substituted “section 403–1(i)” for “section 403–3(c)(7)”.
+<b>2004</b>—Pub. L. 108–458, §1072(b), substituted “section 403–1(i)” for “section 403–3(c)(7)”.
 
 Pub. L. 108–458, §1071(b)(1)(A), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-2003—Pub. L. 108–177 substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
+<b>2003</b>—Pub. L. 108–177 substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
 
-1998—Pub. L. 105–272 substituted “403–3(c)(6)” for “403–3(c)(5)”.
+<b>1998</b>—Pub. L. 105–272 substituted “403–3(c)(6)” for “403–3(c)(5)”.
 
-1993—Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title” and “Office of Management and Budget” for “Bureau of the Budget”.
+<b>1993</b>—Pub. L. 103–178 substituted “section 403–3(c)(5) of this title” for “the proviso of section 403(d)(3) of this title” and “Office of Management and Budget” for “Bureau of the Budget”.
 
 #### Effective Date of 2004 Amendment
 

@@ -20,7 +20,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 &emsp;&emsp;(C) monitoring the implementation and effectiveness of management plans;
 
-&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research,monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
+&emsp;(2) develop and implement a strategy for the National Oceanic and Atmospheric Administration that integrates the science, research, monitoring, data collection, regulatory, and management responsibilities of the Secretary of Commerce in such a manner as to assist the cooperative, intergovernmental Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement;
 
 &emsp;(3) coordinate the programs and activities of the various organizations within the National Oceanic and Atmospheric Administration, the Chesapeake Bay Regional Sea Grant Programs, and the Chesapeake Bay units of the National Estuarine Research Reserve System, including—
 
@@ -118,7 +118,7 @@ For purposes of this section, “Chesapeake Executive Council” means the repre
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to the Department of Commerce for the ChesapeakeBay Office $6,000,000 for each of fiscal years 2002 through 2006.
+There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
 
 (Pub. L. 102–567, title III, §307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, §401(a), Dec. 19, 2002, 116 Stat. 3096.)
 

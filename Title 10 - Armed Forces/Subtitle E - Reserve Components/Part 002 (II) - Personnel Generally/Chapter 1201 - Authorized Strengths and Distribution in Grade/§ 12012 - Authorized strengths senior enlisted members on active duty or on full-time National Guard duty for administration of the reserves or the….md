@@ -26,16 +26,16 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | Army National Guard: |  |  |
 | 20,000 | 1,650 | 550&nbsp;&nbsp; |
 | 22,000 | 1,775 | 615&nbsp;&nbsp; |
-| 24,000 | 1,900 | 645&nbsp;&nbsp; |
-| 26,000 | 1,945 | 675&nbsp;&nbsp; |
-| 28,000 | 1,945 | 705&nbsp;&nbsp; |
-| 30,000 | 1,945 | 725&nbsp;&nbsp; |
-| 32,000 | 1,945 | 730&nbsp;&nbsp; |
-| 34,000 | 1,945 | 735&nbsp;&nbsp; |
-| 36,000 | 1,945 | 738&nbsp;&nbsp; |
-| 38,000 | 1,945 | 741&nbsp;&nbsp; |
-| 40,000 | 1,945 | 743&nbsp;&nbsp; |
-| 42,000 | 1,945 | 743&nbsp;&nbsp; |
+| 24,000 | 1,950 | 645&nbsp;&nbsp; |
+| 26,000 | 2,100 | 675&nbsp;&nbsp; |
+| 28,000 | 2,250 | 715&nbsp;&nbsp; |
+| 30,000 | 2,400 | 735&nbsp;&nbsp; |
+| 32,000 | 2,500 | 760&nbsp;&nbsp; |
+| 34,000 | 2,600 | 780&nbsp;&nbsp; |
+| 36,000 | 2,700 | 800&nbsp;&nbsp; |
+| 38,000 | 2,800 | 820&nbsp;&nbsp; |
+| 40,000 | 2,900 | 830&nbsp;&nbsp; |
+| 42,000 | 3,000 | 840&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Navy Reserve: |  |  |
 | 10,000 | 340 | 143&nbsp;&nbsp; |
@@ -90,7 +90,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 10,000 | 800 | 400&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Air National Guard: |  |  |
-| 5,000 | 1,020 | 405   |
+| 5,000 | 1,020 | 405&nbsp;&nbsp; |
 | 6,000 | 1,070 | 435&nbsp;&nbsp; |
 | 7,000 | 1,120 | 465&nbsp;&nbsp; |
 | 8,000 | 1,170 | 490&nbsp;&nbsp; |
@@ -125,13 +125,15 @@ Secretarial Waiver.—(1) Upon determining that it is in the national interest t
 
 Full-Time Reserve Component Duty Defined.—In this section, the term “full-time reserve component duty” has the meaning given the term in section 12011(e) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by Pub. L. 103–337, §1662(a)(4).
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–417 inserted section of table relating to the Army National Guard and struck out corresponding former section.
 
 2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in table.
 
@@ -153,7 +155,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added su
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(b)\], added subsec. (d).
 
-1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number ofenlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
+1999—Subsec. (a). Pub. L. 106–65 amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 623 to 645 and in grade of E–8 from 2,585 to 2,593, and in the Air Force in grade of E–9 from 395 to 405 and in grade of E–8 from 997 to 1,041.
 
 1998—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 

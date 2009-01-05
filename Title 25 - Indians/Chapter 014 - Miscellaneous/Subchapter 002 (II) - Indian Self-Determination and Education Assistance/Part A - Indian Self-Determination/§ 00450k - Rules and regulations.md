@@ -72,7 +72,7 @@ Pub. L. 103–413, §105(1), added subsec. (b) and struck out former subsec. (b)
 
 “(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act.”
 
-Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of theHouse of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
+Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
 
 Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 

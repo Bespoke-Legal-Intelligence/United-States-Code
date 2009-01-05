@@ -14,7 +14,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(ii) who are beyond the age of compulsory school attendance in the State in which such persons reside and are not enrolled in school;
 
-&emsp;&emsp;(B)(i) who themselves, or whose parents, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
+&emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
 &emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29; and
 
@@ -26,29 +26,31 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(A) personal, vocational, and academic counseling;
 
-&emsp;&emsp;(B) placement services designed to place students in a university, college, or junior college program, or in military service or career positions; and
+&emsp;&emsp;(B) placement services designed to place students in a university, college, or junior college program (including preparation for college entrance examinations), or in military service or career positions; and
 
 &emsp;&emsp;(C) health services;
 
 &emsp;(4) information concerning, and assistance in obtaining, available student financial aid;
 
-&emsp;(5) weekly stipends for high school equivalency program participants;
+&emsp;(5) stipends for high school equivalency program participants;
 
 &emsp;(6) housing for those enrolled in residential programs;
 
-&emsp;(7) exposure to cultural events, academic programs, and other educational and cultural activities usually not available to migrant youth; and
+&emsp;(7) exposure to cultural events, academic programs, and other educational and cultural activities usually not available to migrant youth;
 
-&emsp;(8) other essential supportive services, as needed to ensure the success of eligible students.
+&emsp;(8) other essential supportive services (such as transportation and child care), as needed to ensure the success of eligible students; and
+
+&emsp;(9) other activities to improve persistence and retention in postsecondary education.
 
 #### (c) Services provided by college assistance migrant program
 
 (1) Services authorized by this subpart for the college assistance migrant program include—
 
-&emsp;(A) outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] (or such part's predecessor authority) or section 2912 of title 29, and who meet the minimum qualifications for attendance at a college or university;
+&emsp;(A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29, and who meet the minimum qualifications for attendance at a college or university;
 
-&emsp;(B) supportive and instructional services which include:
+&emsp;(B) supportive and instructional services to improve placement, persistence, and retention in postsecondary education, which include:
 
-&emsp;&emsp;(i) personal, academic, and career counseling as an ongoing part of the program;
+&emsp;&emsp;(i) personal, academic, career, and economic education or personal finance counseling as an ongoing part of the program;
 
 &emsp;&emsp;(ii) tutoring and academic skill building instruction and assistance;
 
@@ -78,15 +80,19 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;(D) housing support for students living in institutional facilities and commuting students;
 
-&emsp;(E) exposure to cultural events, academic programs, and other activities not usually available to migrant youth; and
+&emsp;(E) exposure to cultural events, academic programs, and other activities not usually available to migrant youth;
 
-&emsp;(F) other support services as necessary to ensure the success of eligible students.
+&emsp;(F) internships; and
+
+&emsp;(G) other essential supportive services (such as transportation and child care) as necessary to ensure the success of eligible students.
 
 (2) A recipient of a grant to operate a college assistance migrant program under this subpart shall provide followup services for migrant students after such students have completed their first year of college, and shall not use more than 10 percent of such grant for such followup services. Such followup services may include—
 
-&emsp;(A) monitoring and reporting the academic progress of students who participated in the project during such student's first year of college and during such student's subsequent years in college; and
+&emsp;(A) monitoring and reporting the academic progress of students who participated in the project during such student's first year of college and during such student's subsequent years in college;
 
-&emsp;(B) referring such students to on- or off-campus providers of counseling services, academic assistance, or financial aid.
+&emsp;(B) referring such students to on- or off-campus providers of counseling services, academic assistance, or financial aid, and coordinating such services, assistance, and aid with other non-program services, assistance, and aid, including services, assistance, and aid provided by community-based organizations, which may include mentoring and guidance; and
+
+&emsp;(C) for students attending two-year institutions of higher education, encouraging the students to transfer to four-year institutions of higher education, where appropriate, and monitoring the rate of transfer of such students.
 
 #### (d) Management plan required
 
@@ -106,27 +112,47 @@ Each project application shall include a management plan which contains assuranc
 
 #### (e) Five-year grant period; consideration of prior experience
 
-Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants under this subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(1) of this title.
+Except under extraordinary circumstances, the Secretary shall award grants for a 5-year period. For the purpose of making grants under this subpart, the Secretary shall consider the prior experience of service delivery under the particular project for which funds are sought by each applicant. Such prior experience shall be awarded the same level of consideration given this factor for applicants for programs in accordance with section 1070a–11(c)(2) of this title.
 
 #### (f) Minimum allocations
 
 The Secretary shall not allocate an amount less than—
 
-&emsp;(1) $150,000 for each project under the high school equivalency program, and
+&emsp;(1) $180,000 for each project under the high school equivalency program, and
 
-&emsp;(2) $150,000 for each project under the college assistance migrant program.
+&emsp;(2) $180,000 for each project under the college assistance migrant program.
 
-#### (g) Data collection
+#### (g) Reservation and allocation of funds
 
-The National Center for Education Statistics shall collect postsecondary education data on migrant students.
+From the amounts made available under subsection (i), the Secretary—
 
-#### (h) Authorization of appropriations
+&emsp;(1) may reserve not more than a total of 1/2 of one percent for outreach activities, technical assistance, and professional development programs relating to the programs under subsection (a);
 
-(1) There are authorized to be appropriated for the high school equivalency program $15,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+&emsp;(2) for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $40,000,000, shall, in awarding grants from the remainder of such amounts—
 
-(2) There are authorized to be appropriated for the college assistance migrant program $5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+&emsp;&emsp;(A) make available not less than 45 percent of such remainder for the high school equivalency programs and not less than 45 percent of such remainder for the college assistance migrant programs;
 
-(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+&emsp;&emsp;(B) award the rest of such remainder for high school equivalency programs or college assistance migrant programs based on the number, quality, and promise of the applications; and
+
+&emsp;&emsp;(C) consider the need to provide an equitable geographic distribution of such grants; and
+
+&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the college assistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
+
+#### (h) Data collection
+
+The Secretary shall—
+
+&emsp;(1) annually collect data on persons receiving services authorized under this subpart regarding such persons’ rates of secondary school graduation, entrance into postsecondary education, and completion of postsecondary education, as applicable;
+
+&emsp;(2) not less often than once every two years, prepare and submit to the authorizing committees a report based on the most recently available data under paragraph (1); and
+
+&emsp;(3) make such report available to the public.
+
+#### (i) Authorization of appropriations
+
+For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
+
+(Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223.)
 
 #### References in Text
 
@@ -141,6 +167,40 @@ Another prior section 1070d–2, Pub. L. 89–329, title IV, §418A, as added Pu
 A prior section 1070d–3, Pub. L. 89–329, title IV, §418B, as added Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2097, related to administration by States of Educational Information Centers program, prior to repeal by Pub. L. 96–374, title I, §101(b), Oct. 3, 1980, 94 Stat. 1383, eff. Oct. 1, 1980.
 
 #### Amendments
+
+2008—Subsec. (b)(1)(B)(i). Pub. L. 110–315, §408(1)(A), substituted “immediate family” for “parents”.
+
+Subsec. (b)(3)(B). Pub. L. 110–315, §408(1)(B), inserted “(including preparation for college entrance examinations)” after “junior college program”.
+
+Subsec. (b)(5). Pub. L. 110–315, §408(1)(C), struck out “weekly” before “stipends”.
+
+Subsec. (b)(7). Pub. L. 110–315, §408(1)(D), struck out “and” after semicolon.
+
+Subsec. (b)(8). Pub. L. 110–315, §408(1)(E), inserted “(such as transportation and child care)” after “services” and substituted “; and” for period at end.
+
+Subsec. (b)(9). Pub. L. 110–315, §408(1)(F), added par. (9).
+
+Subsec. (c)(1)(A). Pub. L. 110–315, §408(2)(A)(i), substituted “immediate family” for “parents” and struck out “(or such part's predecessor authority)” before “or section 2912”.
+
+Subsec. (c)(1)(B). Pub. L. 110–315, §408(2)(A)(ii)(I), inserted “to improve placement, persistence, and retention in postsecondary education,” after “services” in introductory provisions.
+
+Subsec. (c)(1)(B)(i). Pub. L. 110–315, §408(2)(A)(ii)(II), substituted “career, and economic education or personal finance” for “and career”.
+
+Subsec. (c)(1)(E) to (G). Pub. L. 110–315, §408(2)(A)(iii)–(vi), struck out “and” at end of subpar. (E), added subpar. (F), redesignated former subpar. (F) as (G) and, in par. (G), substituted “essential supportive services (such as transportation and child care)” for “support services”.
+
+Subsec. (c)(2)(A). Pub. L. 110–315, §408(2)(B)(i), struck out “and” after semicolon.
+
+Subsec. (c)(2)(B). Pub. L. 110–315, §408(2)(B)(ii), substituted “, and coordinating such services, assistance, and aid with other non-program services, assistance, and aid, including services, assistance, and aid provided by community-based organizations, which may include mentoring and guidance; and” for period at end.
+
+Subsec. (c)(2)(C). Pub. L. 110–315, §408(2)(B)(iii), added subpar. (C).
+
+Subsec. (e). Pub. L. 110–315, §408(3), substituted “section 1070a–11(c)(2)” for “section 1070a–11(c)(1)”.
+
+Subsec. (f)(1), (2). Pub. L. 110–315, §408(4), substituted “$180,000” for “$150,000”.
+
+Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i) and struck out former subsecs. (h) and (i), which related to data collection and to authorization of appropriations.
+
+Pub. L. 110–315, §408(5), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
 1998—Subsecs. (b)(1)(B)(ii), (c)(1)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(A)\], struck out “section 1672 of title 29 or” before “section 2912 of title 29”.
 
@@ -174,7 +234,7 @@ Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substit
 
 #### Effective Date of 1998 Amendments
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L.105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

@@ -46,7 +46,7 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 
 2006—Subsec. (a). Pub. L. 109–177 inserted at end “Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.”
 
-1994—Subsec. (a). Pub. L. 103–322 struck out “and assistant United States attorney” after “Each United States attorney” and inserted after first sentence“Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof.”
+1994—Subsec. (a). Pub. L. 103–322 struck out “and assistant United States attorney” after “Each United States attorney” and inserted after first sentence “Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof.”
 
 1979—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistant United States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
 

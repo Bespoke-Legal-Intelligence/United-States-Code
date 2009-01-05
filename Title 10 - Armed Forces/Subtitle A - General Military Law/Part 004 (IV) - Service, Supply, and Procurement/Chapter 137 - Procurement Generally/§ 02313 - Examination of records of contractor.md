@@ -28,7 +28,7 @@ DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency
 
 (c)
 
-Comptroller General Authority.—(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
+Comptroller General Authority.—(1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding such transactions.
 
 (2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the head of the agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
 
@@ -40,7 +40,7 @@ Comptroller General Authority.—(1) Except as provided in paragraph (2), each c
 
 (d)
 
-Limitation on Audits Relating to Indirect Costs.—The head of an agency may notperform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
+Limitation on Audits Relating to Indirect Costs.—The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer's determination.
 
 (e)
 
@@ -72,7 +72,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
 
 Historical and Revision Notes
 
@@ -99,6 +99,8 @@ In subsection (a), the words “An agency named in section 2303 of this title”
 In subsection (b), the word “under” is substituted for the words “pursuant to authority contained in”. The word “provide” is substituted for the words “include a clause to the effect”. The words “are entitled” are substituted for the words “shall \* \* \* have \* \* \* the right”. The words “of the United States”, “duly authorized”, “have access to and”, and “engaged in the performance of” are omitted as surplusage.
 
 #### Amendments
+
+2008—Subsec. (c)(1). Pub. L. 110–417 inserted “and to interview any current employee regarding such transactions” before period at end.
 
 1999—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: “The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.”
 

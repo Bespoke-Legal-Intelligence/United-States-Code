@@ -70,7 +70,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (A) Organizations
 
-&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) ofthis section with respect to which the vacancy exists.
 
 #### (B) Nominations
 
@@ -82,7 +82,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (2) Additional nominations
 
-&emsp;The Secretary may request that each organization described in paragraph (1)(A) submitadditional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
+&emsp;The Secretary may request that each organization described in paragraph (1)(A) submit additional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
 
 #### (e) Duties
 
@@ -164,7 +164,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B),are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

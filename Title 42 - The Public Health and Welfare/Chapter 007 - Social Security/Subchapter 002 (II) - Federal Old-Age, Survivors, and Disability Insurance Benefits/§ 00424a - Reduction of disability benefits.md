@@ -56,7 +56,7 @@ If it appears to the Commissioner of Social Security that an individual may be e
 
 &emsp;(A) his average current earnings as initially determined under subsection (a) of this section; and
 
-&emsp;(B) the ratio of (i) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii) the national average wage index (as so defined) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability).
+&emsp;(B) the ratio of (i) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii) the national average wage index (as so defined) for the calendar year before the year in which thereduction was first computed (but not counting any reduction made in benefits for a previous period of disability).
 
 > Any amount determined under this paragraph which is not a multiple of $1 shall be reduced to the next lower multiple of $1.
 

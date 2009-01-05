@@ -12,9 +12,9 @@ Authority.—The Secretary concerned may, solely for the purpose of restructurin
 
 Covered Officers.—(1) The authority under this section may be exercised in the case of an officer who—
 
-&emsp;(A) has completed not more than 5 years of service as a commissioned officer in the armed forces; or
+&emsp;(A) has completed not more than six years of service as a commissioned officer in the armed forces; or
 
-&emsp;(B) has completed more than 5 years of service as a commissioned officer in the armed forces, but has not completed a minimum service obligation applicable to that member.
+&emsp;(B) has completed more than six years of service as a commissioned officer in the armed forces, but has not completed a minimum service obligation applicable to that member.
 
 (2) In this subsection, the term “minimum service obligation” means the initial period of required active duty service together with any additional period of required active duty service incurred during the initial period of required active duty service.
 
@@ -26,7 +26,11 @@ Appointment of Transferred Officers.—An officer of the Regular Army, Regular A
 
 Regulations.—The Secretary concerned shall prescribe regulations for the exercise of the Secretary's authority under this section.
 
-(Added Pub. L. 108–375, div. A, title V, §501(c)(1)(A), Oct. 28, 2004, 118 Stat. 1873.)
+(Added Pub. L. 108–375, div. A, title V, §501(c)(1)(A), Oct. 28, 2004, 118 Stat. 1873; amended Pub. L. 110–181, div. A, title V, §503(b), Jan. 28, 2008, 122 Stat. 95.)
+
+#### Amendments
+
+2008—Subsec. (b)(1)(A), (B). Pub. L. 110–181 substituted “six years” for “5 years”.
 
 #### Effective Date
 

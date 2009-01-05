@@ -20,7 +20,7 @@
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Air Force without component; and
 
-&emsp;(3) all Air Force units and other Air Force organizations, with their installations andsupporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
+&emsp;(3) all Air Force units and other Air Force organizations, with their installations and supporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
 (e) Subject to subsection (f) of this section, chapter 831 of this title, and the strength authorized by law pursuant to section 115 of this title, the authorized strength of the Air Force is 70 Regular Air Force groups and such separate Regular Air Force squadrons, reserve groups, and supporting and auxiliary regular and reserve units as required.
 
@@ -119,4 +119,32 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g).
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Consolidation of Air Force and Air National Guard Aircraft Maintenance
+
+Pub. L. 110–417, \[div. A\], title III, §324, Oct. 14, 2008, 122 Stat. 4416, provided that:
+
+“(a)
+
+Restriction on Implementation of Consolidation.—The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e).
+
+“(b)
+
+Report on Criteria.—Not later than 30 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for their \[its\] study of the feasibility of the consolidation proposal.
+
+“(c)
+
+Report on Feasibility Study.—At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation's recommendations, the Air Force's assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
+
+“(d)
+
+Assessment by Chief of the National Guard Bureau.—Not later than 30 days after the date on which the report required by subsection (c) is submitted, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and House of Representatives a written assessment of—
+
+&emsp;“(1) the proposed actions to consolidate aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the AirNational Guard by the Secretary of the Air Force; and
+
+&emsp;“(2) the information included in the report required by subsection (c).
+
+“(e)
+
+Certification by the Secretary of Defense.—After the Secretary of the Air Force submits the reports required by subsections (b) and (c), and before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force, the Secretary of Defense shall certify that such consolidation is in the national interest and will not adversely affect recruitment, retention, or execution of the Air National Guard mission in the individual States.”
 

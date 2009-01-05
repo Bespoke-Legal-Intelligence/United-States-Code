@@ -6,9 +6,9 @@ For the purposes of this subchapter—
 
 The term “net earnings from self-employment” means the gross income, as computed under subtitle A of the Internal Revenue Code of 1986, derived by an individual from any trade or business carried on by such individual, less the deductions allowed under such subtitle which are attributable to such trade or business, plus his distributive share (whether or not distributed) of the ordinary net income or loss, as computed under section 702(a)(8) of such Code, from any trade or business carried on by a partnership of which he is a member; except that in computing such gross income and deductions and such distributive share of partnership ordinary net income or loss—
 
-&emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
+&emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares, and including payments under section 3833(2) of title 16 to individuals receiving benefits under section 402 or 423 of this title), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
 
-&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest coupons or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
+&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest benefits <sup>1</sup> or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
 
 &emsp;(3) There shall be excluded any gain or loss (A) which is considered under subtitle A of the Internal Revenue Code of 1986 as gain or loss from the sale or exchange of a capital asset, (B) from the cutting of timber, or the disposal of timber, coal, or iron ore, if section 631 of the Internal Revenue Code of 1986 applies to such gain or loss, or (C) from the sale, exchange, involuntary conversion, or other disposition of property if such property is neither (i) stock in trade or other property of a kind which would properly be includible in inventory if on hand at the close of the taxable year, nor (ii) property held primarily for sale to customers in the ordinary course of the trade or business;
 
@@ -52,13 +52,13 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 > If the taxable year of a partner is different from that of the partnership, the distributive share which he is required to include in computing his net earnings from self-employment shall be based upon the ordinary net income or loss of the partnership for any taxable year of the partnership (even though beginning prior to 1951) ending within or with his taxable year. In the case of any trade or business which is carried on by an individual or by a partnership and in which, if such trade or business were carried on exclusively by employees, the major portion of the services would constitute agricultural labor as defined in section 410(f) of this title—
 
-&emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than $2,400, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
+&emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than the upper limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
 
-&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
+&emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than the upper limit and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than the lower limit, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be the lower limit; and
 
-&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than $2,400, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
+&emsp;(iii) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is not more than the upper limit, his distributive share of income described in section 702(a)(8) of such Code derived from such trade or business may, at his option, be deemed to be an amount equal to 662/3 percent of his distributive share of such gross income (after such gross income has been so reduced); or
 
-&emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is more than $2,400 and his distributive share (whether or not distributed) of income described in section 702(a)(8) of such Code derived from such trade or business (computed under this subsection without regard to this sentence) is less than $1,600, his distributive share of income described in such section 702(a)(8) derived from such trade or business may, at his option, be deemed to be $1,600.
+&emsp;(iv) in the case of a member of a partnership, if his distributive share of the gross income of the partnership derived from such trade or business (after such gross income has been reduced by the sum of all payments to which section 707(c) of the Internal Revenue Code of 1986 applies) is more than the upper limit and his distributive share (whether or not distributed) of income described in section 702(a)(8) of such Code derived from such trade or business (computed under this subsection without regard to this sentence) is less than the lower limit, his distributive share of income described in such section 702(a)(8) derived from such trade or business may, at his option, be deemed to be the lower limit.
 
 > For purposes of the preceding sentence, gross income means—
 
@@ -66,9 +66,9 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(vi) in the case of any such trade or business in which the income is computed under an accrual method, the gross income from such trade or business, adjusted in accordance with the provisions of paragraphs (1) through (6) and paragraph (8) of this subsection;
 
-> and, for purposes of such sentence, if an individual (including a member of a partnership) derives gross income from more than one such trade or business, such gross income (including his distributive share of the gross income of anypartnership derived from any such trade or business) shall be deemed to have been derived from one trade or business.
+> and, for purposes of such sentence, if an individual (including a member of a partnership) derives gross income from more than one such trade or business, such gross income (including his distributive share of the gross income of any partnership derived from any such trade or business) shall be deemed to have been derived from one trade or business.
 
-The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than $1,600 and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by all the partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed $1,600.
+The preceding sentence and clauses (i) through (iv) of the second preceding sentence shall also apply in the case of any trade or business (other than a trade or business specified in such second preceding sentence) which is carried on by an individual who is self-employed on a regular basis as defined in subsection (g) of this section, or by a partnership of which an individual is a member on a regular basis as defined in subsection (g) of this section, but only if such individual's net earnings from self-employment in the taxable year as determined without regard to this sentence are less than the lower limit and less than 662/3 percent of the sum (in such taxable year) of such individual's gross income derived from all trades or businesses carried on by him and his distributive share of the income or loss from all trades or businesses carried on by allthe partnerships of which he is a member; except that this sentence shall not apply to more than 5 taxable years in the case of any individual, and in no case in which an individual elects to determine the amount of his net earnings from self-employment for a taxable year under the provisions of the two preceding sentences with respect to a trade or business to which the second preceding sentence applies and with respect to a trade or business to which this sentence applies shall such net earnings for such year exceed the lower limit.
 
 #### (b) Self-employment income
 
@@ -120,7 +120,7 @@ The term “trade or business”, when used with reference to self-employment in
 
 &emsp;&emsp;(G) service described in section 410(a)(8)(B) of this title;
 
-&emsp;(3) The performance of service by an individual as an employee or employee representativeas defined in section 3231 of the Internal Revenue Code of 1986;
+&emsp;(3) The performance of service by an individual as an employee or employee representative as defined in section 3231 of the Internal Revenue Code of 1986;
 
 &emsp;(4) The performance of service by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order;
 
@@ -202,13 +202,33 @@ Nothing in subsection (a) of this section shall be construed as including in the
 
 &emsp;&emsp;(B) does not depend to any extent on length of service or overall earnings from services performed for such company (without regard to whether eligibility for payment depends on length of service).
 
-(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Pub. L. 85–239, §5(a), Aug. 30, 1957, 71 Stat. 523; Pub. L. 85–840, title I, §102(b), title III, §313(a), Aug. 28, 1958, 72 Stat. 1019, 1036; Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), Sept. 13, 1960, 74 Stat. 937, 938, 945; Pub. L. 88–272, title II, §227(b)(7), Feb. 26, 1964, 78 Stat. 98; Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), July 30, 1965, 79 Stat. 380, 381, 391, 393; Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), Jan. 2, 1968, 81 Stat. 834, 839, 841, 843; Pub. L. 92–5, title II, §203(a)(2), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(2), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(a)(2), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(2), Dec. 31, 1973, 87 Stat. 953; Pub. L. 93–368, §10(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–455, title XII, §1207(e)(2)(B), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 95–216, title III, §313(a), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 95–600, title VII, §703(j)(14)(D), (E), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), Apr. 20, 1983, 97 Stat. 90, 121; Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), July 18, 1984, 98 Stat. 622, 1129, 1163; Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), Oct. 22, 1986, 100 Stat. 2915, 2916; Pub. L. 100–203, title IX, §§9022(a), 9023(b), Dec. 22, 1987, 101 Stat. 1330–295, 1330–296; Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), Nov. 10, 1988, 102 Stat. 3488, 3642, 3792; Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), Aug. 15, 1994, 108 Stat. 1478, 1535, 1536, 1538; Pub. L. 105–34, title IX, §922(b), Aug. 5, 1997, 111 Stat. 880; Pub. L. 108–203, title IV, §§422(a), 424(a), 425(a), Mar. 2, 2004, 118 Stat. 536; Pub. L. 110–28, title VIII, §8215(b)(2), May 25, 2007, 121 Stat. 194.)
+#### (k) Upper and lower limits
+
+For purposes of subsection (a)—
+
+&emsp;(1) The lower limit for any taxable year is the sum of the amounts required under section 413(d) of this title for a quarter of coverage in effect with respect to each calendar quarter ending with or within such taxable year.
+
+&emsp;(2) The upper limit for any taxable year is the amount equal to 150 percent of the lower limit for such taxable year.
+
+(Aug. 14, 1935, ch. 531, title II, §211, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 502; amended Sept. 23, 1950, ch. 994, title II, §221(j)(2), 64 Stat. 947; Sept. 1, 1954, ch. 1206, title I, §§101(d), (g), 104(b), 68 Stat. 1054, 1078; Aug. 1, 1956, ch. 836, title I, §§104(c)(2), (3), (d), (h), 106(a), 70 Stat. 824–826, 828; Pub. L. 85–239, §5(a), Aug. 30, 1957, 71 Stat. 523; Pub. L. 85–840, title I, §102(b), title III, §313(a), Aug. 28, 1958, 72 Stat. 1019, 1036; Pub. L. 86–778, title I, §§103(g), (h), (j)(3), 106(a), Sept. 13, 1960, 74 Stat. 937, 938, 945; Pub. L. 88–272, title II, §227(b)(7), Feb. 26, 1964, 78 Stat. 98; Pub. L. 89–97, title III, §§311(a)(1), (2), 312(a), 319(b), 320(a)(2), July 30, 1965, 79 Stat. 380, 381, 391, 393; Pub. L. 90–248, title I, §§108(a)(2), 115(a), 118(b), 122(a), Jan. 2, 1968, 81 Stat. 834, 839, 841, 843; Pub. L. 92–5, title II, §203(a)(2), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(2), July 1, 1972, 86 Stat. 418; Pub. L. 92–603, title I, §§121(a), 124(a), 140(a), Oct. 30, 1972, 86 Stat. 1353, 1357, 1366; Pub. L. 93–66, title II, §203(a)(2), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(2), Dec. 31, 1973, 87 Stat. 953; Pub. L. 93–368, §10(a), Aug. 7, 1974, 88 Stat. 422; Pub. L. 94–455, title XII, §1207(e)(2)(B), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 95–216, title III, §313(a), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 95–600, title VII, §703(j)(14)(D), (E), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 98–21, title I, §124(c)(3), title III, §§322(b)(1), 323(b)(2), Apr. 20, 1983, 97 Stat. 90, 121; Pub. L. 98–369, div. A, title I, §102(c)(2), div. B, title VI, §§2603(c)(1), (d)(1), 2663(a)(8), July 18, 1984, 98 Stat. 622, 1129, 1163; Pub. L. 99–514, title XVIII, §§1882(b)(2), 1883(a)(6), Oct. 22, 1986, 100 Stat. 2915, 2916; Pub. L. 100–203, title IX, §§9022(a), 9023(b), Dec. 22, 1987, 101 Stat. 1330–295, 1330–296; Pub. L. 100–647, title I, §1011B(b)(4), title III, §3043(b), title VIII, §8016(a)(2), Nov. 10, 1988, 102 Stat. 3488, 3642, 3792; Pub. L. 101–508, title V, §§5123(a)(1), 5130(a)(2), (3), Nov. 5, 1990, 104 Stat. 1388–284, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §§319(b)(2), 321(a)(14), (c)(5), (6)(E)–(G), Aug. 15, 1994, 108 Stat. 1478, 1535, 1536, 1538; Pub. L. 105–34, title IX, §922(b), Aug. 5, 1997, 111 Stat. 880; Pub. L. 108–203, title IV, §§422(a), 424(a), 425(a), Mar. 2, 2004, 118 Stat. 536; Pub. L. 110–28, title VIII, §8215(b)(2), May 25, 2007, 121 Stat. 194; Pub. L. 110–234, title IV, §4115(c)(1)(A)(i), (B)(iii), title XV, §§15301(b), 15352(b)(1), (2), May 22, 2008, 122 Stat. 1109, 1501, 1526; Pub. L. 110–246, §4(a), title IV, §4115(c)(1)(A)(i), (B)(iii), title XV, §§15301(b), 15352(b)(1), (2), June 18, 2008, 122 Stat. 1664, 1870, 2263, 2288.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §15352(b)(1), in concluding provisions, substituted “the upper limit” for “$2,400” wherever appearing and “the lower limit” for “$1,600” wherever appearing.
+
+Subsec. (a)(1). Pub. L. 110–246, §15301(b), inserted “, and including payments under section 3833(2) of title 16 to individuals receiving benefits under section 402 or 423 of this title” after “crop shares”.
+
+Subsec. (a)(2). Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(iii), substituted “benefits” for “coupons”.
+
+Subsec. (k). Pub. L. 110–246, §15352(b)(2), added subsec. (k).
 
 2007—Subsec. (a)(16). Pub. L. 110–28 added par. (16).
 
@@ -236,7 +256,7 @@ Subsec. (c)(3), (6). Pub. L. 103–296, §321(c)(6)(F), substituted “1986” f
 
 Subsecs. (d), (e), (h)(1)(B). Pub. L. 103–296, §321(c)(6)(G), substituted “1986” for “1954” after “Code of”.
 
-1990—Subsec. (a). Pub. L. 101–508, §5123(a)(1), redesignated last undesignated paragraph, relating to income of an individual which results from or is attributable to performance of services by such individual as a director of a corporation, as subsec. (f)(5) of section 403 of this title.
+1990—Subsec. (a). Pub. L. 101–508, §5123(a)(1), redesignated last undesignated paragraph, relating to incomeof an individual which results from or is attributable to performance of services by such individual as a director of a corporation, as subsec. (f)(5) of section 403 of this title.
 
 Subsec. (a)(14), (15). Pub. L. 101–508, §5130(a)(3), redesignated par. (14), relating to nonallowability of deduction under section 162(m) (health insurance costs of self-employed individuals), as (15).
 
@@ -394,6 +414,16 @@ Subsec. (c)(5). Act Sept. 1, 1954, §101(g)(4), struck out exclusion from covera
 
 1950—Subsec. (a)(7). Act Sept. 23, 1950, made provisions applicable to Puerto Rico and provided the basis for computation of net earnings.
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4115(c)(1)(A)(i), (B)(iii) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+Amendment by section 15301(b) of Pub. L. 110–246 applicable to payments made after Dec. 31, 2007, see section 15301(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+
+Amendment by section 15352(b)(1), (2) of Pub. L. 110–246 applicable to taxable years beginning after Dec. 31, 2007, see section 15352(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–28 applicable to taxable years beginning after Dec. 31, 2006, see section 8215(c) of Pub. L. 110–28, set out as a note under section 761 of Title 26, Internal Revenue Code.
@@ -488,7 +518,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to taxable years beginn
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 108(a)(2) of Pub. L. 90–248 applicable only with respect to taxable years ending after1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of this title.
+Amendment by section 108(a)(2) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of this title.
 
 Amendment by section 115(a) of Pub. L. 90–248 applicable only with respect to taxable years ending after 1967, see section 115(c) of Pub. L. 90–248, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
@@ -557,4 +587,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Treaty Obligations
 
 Section 214 of act Sept. 23, 1950, provided that: “No amendment made by this Act \[see Tables for classification\] shall apply in any case where its application would be contrary to any treaty obligation of the United States.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “coupons”. See 2008 Amendment note below.</i>
 

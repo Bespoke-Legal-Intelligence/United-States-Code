@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(D) the first $100 deposited by check or checks on any one business day;
 
-&emsp;&emsp;(E) a check deposited in a branch of a depository institution and drawn on the same or another branch of the same depository institution if both such branches are located in the same State or the same check processing region;
+&emsp;&emsp;(E) a check deposited in a branch of a depository institution and drawn on the sameor another branch of the same depository institution if both such branches are located in the same State or the same check processing region;
 
 &emsp;&emsp;(F) a cashier's check, certified check, teller's check, or depository check which—
 
@@ -110,7 +110,7 @@
 
 #### (3) Applicability
 
-&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
+&emsp;This subsection shall apply with respect to funds deposited by check in an account at adepository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
 
 #### (d) Time period adjustments
 
@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on whichfunds from such deposit are available for withdrawal.
+&emsp;&emsp;Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
 
 #### (B) Deposits described in this paragraph <sup>1</sup>
 

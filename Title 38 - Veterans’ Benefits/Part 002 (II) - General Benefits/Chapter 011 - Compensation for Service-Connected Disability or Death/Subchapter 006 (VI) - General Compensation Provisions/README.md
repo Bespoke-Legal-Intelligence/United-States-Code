@@ -10,7 +10,7 @@
 - [&sect; 01153 - Aggravation](%C2%A7%2001153%20-%20Aggravation.md)
 - [&sect; 01154 - Consideration to be accorded time, place, and circumstances of service](%C2%A7%2001154%20-%20Consideration%20to%20be%20accorded%20time%2C%20place%2C%20and%20circumstances%20of%20service.md)
 - [&sect; 01155 - Authority for schedule for rating disabilities](%C2%A7%2001155%20-%20Authority%20for%20schedule%20for%20rating%20disabilities.md)
-- [&sect; 01156 - Vacant](%C2%A7%2001156%20-%20Vacant.md)
+- [&sect; 01156 - Temporary disability ratings](%C2%A7%2001156%20-%20Temporary%20disability%20ratings.md)
 - [&sect; 01157 - Combination of certain ratings](%C2%A7%2001157%20-%20Combination%20of%20certain%20ratings.md)
 - [&sect; 01158 - Disappearance](%C2%A7%2001158%20-%20Disappearance.md)
 - [&sect; 01159 - Protection of service connection](%C2%A7%2001159%20-%20Protection%20of%20service%20connection.md)

@@ -110,8 +110,6 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;(G) Amounts credited to the fund shall remain available to be expended only in the fiscal year for which credited and the two succeeding fiscal years.
 
-&emsp;(H) This paragraph shall cease to be effective five years after November 24, 2003.
-
 #### (i) Provisions relating to reemployment
 
 #### (1) Policies and procedures
@@ -142,13 +140,15 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;The authority under this subsection shall expire on December 31, 2011.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737.)
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 109–313, §4, Oct. 6, 2006, 120 Stat. 1737; Pub. L. 110–181, div. A, title VIII, §854, Jan. 28, 2008, 122 Stat. 251.)
 
 #### References in Text
 
 Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section 5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
 
 #### Amendments
+
+2008—Subsec. (h)(3)(H). Pub. L. 110–181 struck out subpar. (H) which read as follows: “This paragraph shall cease to be effective five years after November 24, 2003.”
 
 2006—Subsec. (a). Pub. L. 109–163, §821(b)(1), substituted “Except as provided in subsection (h)(3) of this section, this section” for “This section”.
 
@@ -184,19 +184,19 @@ Pub. L. 108–136, div. A, title XIV, §1412(a), Nov. 24, 2003, 117 Stat. 1664, 
 
 #### Inapplicability of Subsection (h)(3) to Department of Defense Acquisition Workforce
 
-Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, which provided that section 1412 of Pub. L. 108–136 was inapplicable to the acquisition workforce of the Department of Defense and that fees covered by subsec. (h)(3) of this section were to be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund, was repealed by Pub. L. 109–163, div. A, title VIII, §821(b)(2), Jan. 6, 2006, 119 Stat. 3386.
+Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, which provided that section 1412 of Pub. L. 108–136 was inapplicable to the acquisition workforce of the Department of Defense and that fees covered by subsec. (h)(3) of this section were to be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund,was repealed by Pub. L. 109–163, div. A, title VIII, §821(b)(2), Jan. 6, 2006, 119 Stat. 3386.
 
 #### Acquisition Workforce Recruitment Program
 
-Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, provided that:
+Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, as amended by Pub. L. 110–181, div. A, title VIII, §853, title X, §1063(g)(2), Jan. 28, 2008, 122 Stat. 250, 323, provided that:
 
 “(a)
 
-Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
+Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))) are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
 
 “(b)
 
-Termination of Authority.—The head of a department or agency may not appoint a person to a position of employment under this section after September 30, 2007.
+Termination of Authority.—The head of a department or agency may not appoint a person to a position of employment under this section after September 30, 2012.
 
 “(c)
 

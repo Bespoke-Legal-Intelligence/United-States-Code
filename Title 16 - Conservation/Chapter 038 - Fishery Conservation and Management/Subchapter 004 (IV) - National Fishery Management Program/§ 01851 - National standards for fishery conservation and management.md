@@ -52,7 +52,7 @@ Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Ac
 
 #### Gulf of Alaska Rockfish Demonstration Program
 
-Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, §218, Jan. 12, 2007, 120 Stat. 3621, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization plan is authorized by the Council and implemented by the Secretary, or 5 years from date of implementation, whichever is earlier.”
+Pub. L. 108–199, div. B, title VIII, §802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, §218, Jan. 12, 2007, 120 Stat. 3621, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization planis authorized by the Council and implemented by the Secretary, or 5 years from date of implementation, whichever is earlier.”
 
 #### Implementation of Steller Sea Lion Protective Measures
 
@@ -212,7 +212,7 @@ Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of 
 
 “(b)
 
-Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area, after the subtraction of the allocation under subsection (a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
+Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock total allowable catch in the Bering Sea and Aleutian Islands Management Area, after the subtraction of the allocation under subsection\(a) and the subtraction of allowances for the incidental catch of pollock by vessels harvesting other groundfish species (including under the western Alaska community development quota program) shall be allocated as directed fishing allowances as follows—
 
 &emsp;“(1) 50 percent to catcher vessels harvesting pollock for processing by the inshore component;
 
@@ -448,7 +448,7 @@ Replacement Vessels.—In the event of the actual total loss or constructive tot
 
 “(h)
 
-Eligibility During Implementation.—In the event the Secretary is unable to make a final determination about the eligibility of a vessel under subsection (b)(8) or subsection (e)(21) before January 1,1999, or a vessel or shoreside processor under subsection (a), subsection (c)(21), or subsection (f) before January 1, 2000, such vessel or shoreside processor, upon the filing of an application for eligibility, shall be eligible to participate in the directed pollock fishery pending final determination by the Secretary with respect to such vessel or shoreside processor.
+Eligibility During Implementation.—In the event the Secretary is unable to make a final determination about the eligibility of a vessel under subsection (b)(8) or subsection (e)(21) before January 1, 1999, or a vessel or shoreside processor under subsection (a), subsection (c)(21), or subsection (f) before January 1, 2000, such vessel or shoreside processor, upon the filing of an application for eligibility, shall be eligible to participate in the directed pollock fishery pending final determination by the Secretary with respect to such vessel or shoreside processor.
 
 “(i)
 
@@ -524,7 +524,7 @@ Open access.—A catcher vessel eligible under section 208(a) the catch history 
 
 &emsp;“(6)
 
-Transfer of cooperative harvest.—A contract implementing a fishery cooperative under paragraph (1) may, notwithstanding the other provisions of this subsection, provide for up to 10 percent of the pollock harvested under such cooperative to be processed by a shoreside processor eligible under section208(f) other than the shoreside processor to which pollock will be delivered under paragraph (1).
+Transfer of cooperative harvest.—A contract implementing a fishery cooperative under paragraph (1) may, notwithstanding the other provisions of this subsection, provide for up to 10 percent of the pollock harvested under such cooperative to be processed by a shoreside processor eligible under section 208(f) other than the shoreside processor to which pollock will be delivered under paragraph (1).
 
 “(c)
 
@@ -564,7 +564,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308,309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -656,7 +656,7 @@ Fisheries other than north pacific.—
 
 &emsp;&emsp;“(A) By not later than July 1, 2000, the Pacific Fishery Management Council established under section 302(a)(1)(F) of the Magnuson-Stevens Act (16 U.S.C. 1852(a)(1)(F)) shall recommend for approval by the Secretary conservation and management measures to protect fisheries under its jurisdiction and the participants in those fisheries from adverse impacts caused by this Act \[probably should be “this title”, see Tables for classification\] or by any fishery cooperatives in the directed pollock fishery.
 
-&emsp;&emsp;“(B) If the Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation implement adequatemeasures including, but not limited to, restrictions on vessels which harvest pollock under a fishery cooperative which will prevent such vessels from harvesting Pacific groundfish, and restrictions on the number of processors eligible to process Pacific groundfish.
+&emsp;&emsp;“(B) If the Pacific Council does not recommend such conservation and management measures by such date, or if the Secretary determines that such conservation and management measures recommended by the Pacific Council are not adequate to fulfill the purposes of this paragraph, the Secretary may by regulation implement adequate measures including, but not limited to, restrictions on vessels which harvest pollock under a fishery cooperative which will prevent such vessels from harvesting Pacific groundfish, and restrictions on the number of processors eligible to process Pacific groundfish.
 
 “(d)
 

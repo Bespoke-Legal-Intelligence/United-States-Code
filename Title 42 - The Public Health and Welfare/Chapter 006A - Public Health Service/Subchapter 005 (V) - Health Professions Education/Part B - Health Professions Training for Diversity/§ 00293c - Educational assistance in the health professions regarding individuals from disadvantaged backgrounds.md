@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) providing counseling, mentoring, or other services designed to assist such individuals to complete successfully their education at such a school;
 
-&emsp;&emsp;(D) providing, for a period prior to the entry of such individuals into the regular course of education of such a school, preliminary education and health research training designed to assist them to complete successfully such regular course of education at such a school, or referring such individuals to institutions providing such preliminary education;
+&emsp;&emsp;(D) providing, for a period prior to the entry of such individuals into the regular course of education of such a school, preliminary education and health researchtraining designed to assist them to complete successfully such regular course of education at such a school, or referring such individuals to institutions providing such preliminary education;
 
 &emsp;&emsp;(E) publicizing existing sources of financial aid available to students in the education program of such a school or who are undertaking training necessary to qualify them to enroll in such a program;
 

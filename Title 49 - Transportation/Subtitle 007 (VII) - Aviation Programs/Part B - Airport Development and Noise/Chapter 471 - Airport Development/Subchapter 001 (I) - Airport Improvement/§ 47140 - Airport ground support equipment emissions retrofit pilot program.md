@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation shall carry out a pilot program at
 
 (b)
 
-Location in Air Quality Nonattainment or Maintenance Areas.—A commercial service airport shall be eligible for participation in the pilot program only if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act (42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a).
+Location in Air Quality Nonattainment or Maintenance Areas.—A commercial serviceairport shall be eligible for participation in the pilot program only if the airport is located in an air quality nonattainment area (as defined in section 171(2) of the Clean Air Act (42 U.S.C. 7501(2))) or a maintenance area referred to in section 175A of such Act (42 U.S.C. 7505a).
 
 (c)
 

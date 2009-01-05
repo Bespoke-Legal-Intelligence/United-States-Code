@@ -14,7 +14,7 @@ It shall be the primary responsibility of the Council—
 
 &emsp;(5) to advise the President of mineral and material <sup>1</sup> trends, both domestic and foreign, the implications thereof for the United States and world economies and the national security, and the probable effects of such trends on domestic industries;
 
-&emsp;(6) to assess through consultation with the materials academic community the adequacyand quality of materials-related educational institutions and the supply of materials scientists and engineers;
+&emsp;(6) to assess through consultation with the materials academic community the adequacy and quality of materials-related educational institutions and the supply of materials scientists and engineers;
 
 &emsp;(7) to make or furnish such studies, analyses, reports, and recommendations with respect to matters of materials-related policy and legislation as the President may request;
 

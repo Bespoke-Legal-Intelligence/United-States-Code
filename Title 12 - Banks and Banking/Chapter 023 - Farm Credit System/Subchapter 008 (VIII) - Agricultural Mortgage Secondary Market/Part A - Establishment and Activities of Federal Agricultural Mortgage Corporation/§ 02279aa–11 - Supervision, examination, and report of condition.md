@@ -40,7 +40,7 @@
 
 #### (2) Frequency
 
-&emsp;The examinations shall occur at such times as the Farm Credit Administration Board maydetermine, but in no event less than once each year.
+&emsp;The examinations shall occur at such times as the Farm Credit Administration Board may determine, but in no event less than once each year.
 
 #### (3) Access
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 102–237, §503(a)(3), added subsec. (f).
 
 &emsp;“(A) providing for the examination of the condition of the Corporation; and
 
-&emsp;“(B) providing for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
+&emsp;“(B) providing for the general supervision of the safe and sound performance of the powers, functions,and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.”
 
 Subsec. (e). Pub. L. 101–624, §1840(2), added subsec. (e).
 

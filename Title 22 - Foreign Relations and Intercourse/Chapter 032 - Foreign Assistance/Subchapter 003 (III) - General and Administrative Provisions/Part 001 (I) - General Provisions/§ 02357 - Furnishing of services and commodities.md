@@ -4,7 +4,7 @@
 
 Whenever the President determines it to be consistent with and in furtherance of the purposes of subchapter I of this chapter and within the limitations of this chapter, any agency of the United States Government is authorized to furnish services and commodities on an advance-of-funds or reimbursement basis to friendly countries, international organizations, the American Red Cross, and voluntary nonprofit relief agencies registered with and approved by the Agency for International Development (including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available). Such advances or reimbursements may be credited to the currently applicable appropriation, account, or fund of the agency concerned and shall be available for the purposes for which such appropriation, account, or fund is authorized to be used, under the following circumstances:
 
-&emsp;(1) Advances or reimbursements which are received under this section within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered.
+&emsp;(1) Advances or reimbursements which are received under this section within one hundredand eighty days after the close of the fiscal year in which such services and commodities are delivered.
 
 &emsp;(2) Advances or reimbursements received pursuant to agreements executed under this section in which reimbursement will not be completed within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered: <i>Provided</i>, That such agreements require the payment of interest at the current rate established pursuant to section 635(b)(1)(B) of title 12, and repayment of such principal and interest does not exceed a period of three years from the date of signing of the agreement to provide the service: <i>Provided further</i>, That funds available for this paragraph in any fiscal year shall not exceed $1,000,000 of the total funds authorized for use in such fiscal year by part I of subchapter I of this chapter, and shall be available only to the extent provided in appropriation Acts. Interest shall accrue as of the date of disbursement to the agency or organization providing such services.
 
@@ -88,7 +88,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Authority
 

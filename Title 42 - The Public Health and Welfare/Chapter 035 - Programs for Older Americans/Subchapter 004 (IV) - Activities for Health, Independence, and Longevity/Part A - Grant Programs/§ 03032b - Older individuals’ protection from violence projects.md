@@ -18,7 +18,7 @@ A State, an area agency on aging, a nonprofit organization, or a tribal organiza
 
 #### (c) Preference
 
-In awarding grants under subsection (a) of this section, the Assistant Secretary shall give preference to a State, an area agency on aging, a nonprofit organization, or a tribal organization that has the ability to carry out the activities described in this section and subchapter XI of this chapter.
+In awarding grants under subsection (a) of this section, the Assistant Secretary shall give preference to a State, an area agency on aging, a nonprofit organization, or a tribal organizationthat has the ability to carry out the activities described in this section and subchapter XI of this chapter.
 
 #### (d) Coordination
 

@@ -2,45 +2,49 @@
 
 #### (a) In general
 
-For each of fiscal years 2002 through 2007, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
+For each of fiscal years 2002 through 2012, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
 
-&emsp;(1) The conservation reserve program under subpart B of part I.
+&emsp;(1) The conservation reserve program under subpart B of part I, including to the maximum extent practicable—
+
+&emsp;&emsp;(A) $100,000,000 for the period of fiscal years 2009 through 2012 to provide cost share payments under paragraph (3) of section 3834(b) of this title in connection with thinning activities conducted on land described in subparagraph (A)(iii) of such paragraph; and
+
+&emsp;&emsp;(B) $25,000,000 for the period of fiscal years 2009 through 2012 to carry out section 3835(f) of this title to facilitate the transfer of land subject to contracts from retired or retiring owners and operators to beginning farmers or ranchers and socially disadvantaged farmers or ranchers.
 
 &emsp;(2) The wetlands reserve program under subpart C of part I.
 
-&emsp;(3) The conservation security program under subpart A of part II, using not more than—
+&emsp;(3)(A)
 
-&emsp;&emsp;(A) $1,954,000,000 for the period of fiscal years 2006 through 2010; and
+Conservation security program.—The conservation security program under subpart A of part II, using such sums as are necessary to administer contracts entered into before September 30, 2008.
 
-&emsp;&emsp;(B) $5,650,000,000 for the period of fiscal years 2006 through 2015.
+&emsp;(B)
 
-&emsp;(4) The farmland protection program under subpart B of part II, using, to the maximum extent practicable—
+Conservation stewardship program.—The conservation stewardship program under subpart B of part II.
 
-&emsp;&emsp;(A) $50,000,000 in fiscal year 2002;
+&emsp;(4) The farmland protection program under subpart C of part II, using, to the maximum extent practicable—
 
-&emsp;&emsp;(B) $100,000,000 in fiscal year 2003;
+&emsp;&emsp;(A) $97,000,000 in fiscal year 2008;
 
-&emsp;&emsp;(C) $125,000,000 in each of fiscal years 2004 and 2005;
+&emsp;&emsp;(B) $121,000,000 in fiscal year 2009;
 
-&emsp;&emsp;(D) $100,000,000 in fiscal year 2006; and
+&emsp;&emsp;(C) $150,000,000 in fiscal year 2010;
 
-&emsp;&emsp;(E) $97,000,000 in fiscal year 2007.
+&emsp;&emsp;(D) $175,000,000 in fiscal year 2011; and
 
-&emsp;(5) The grassland reserve program under subpart C of part II, using, to the maximum extent practicable $254,000,000 for the period of fiscal years 2003 through 2007.
+&emsp;&emsp;(E) $200,000,000 in fiscal year 2012.
+
+&emsp;(5) The grassland reserve program under subpart D of part II.
 
 &emsp;(6) The environmental quality incentives program under part IV, using, to the maximum extent practicable—
 
-&emsp;&emsp;(A) $400,000,000 in fiscal year 2002;
+&emsp;&emsp;(A) $1,200,000,000 in fiscal year 2008;
 
-&emsp;&emsp;(B) $700,000,000 in fiscal year 2003;
+&emsp;&emsp;(B) $1,337,000,000 in fiscal year 2009;
 
-&emsp;&emsp;(C) $1,000,000,000 in fiscal year 2004;
+&emsp;&emsp;(C) $1,450,000,000 in fiscal year 2010;
 
-&emsp;&emsp;(D) $1,200,000,000 in each of fiscal years 2005 and 2006;
+&emsp;&emsp;(D) $1,588,000,000 in fiscal year 2011; and
 
-&emsp;&emsp;(E) $1,270,000,000 in each of fiscal years 2007 through 2009; and
-
-&emsp;&emsp;(F) $1,300,000,000 in fiscal year 2010.
+&emsp;&emsp;(E) $1,750,000,000 in fiscal year 2012.
 
 &emsp;(7) The wildlife habitat incentives program under section 3839bb–1 of this title, using, to the maximum extent practicable—
 
@@ -50,7 +54,7 @@ For each of fiscal years 2002 through 2007, the Secretary shall use the funds, f
 
 &emsp;&emsp;(C) $60,000,000 in fiscal year 2004; and
 
-&emsp;&emsp;(D) $85,000,000 in each of fiscal years 2005 through 2007.
+&emsp;&emsp;(D) $85,000,000 in each of fiscal years 2005 through 2012.
 
 #### (b) Technical assistance
 
@@ -66,11 +70,77 @@ The use of Commodity Credit Corporation funds under subsection (b) of this secti
 
 #### (d) Regional equity
 
-Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $12,000,000 for those conservation programs.
+#### (1) Priority funding to promote equity
 
-(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6.)
+&emsp;Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
+
+#### (2) Specific funding allocations
+
+&emsp;In determining the specific funding allocations for States under paragraph (1), the Secretary shall consider the respective demand in each State for each program covered by such paragraph.
+
+#### (e) Acceptance and use of contributions
+
+#### (1) Authority to establish contribution accounts
+
+&emsp;Subject to paragraph (2), the Secretary may establish a sub-account for each conservation program administered by the Secretary under subchapter IV to accept contributions of non-Federal funds to support the purposes of the program.
+
+#### (2) Deposit and use of contributions
+
+&emsp;Contributions of non-Federal funds received for a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
+
+#### (f) Allocations review and update
+
+#### (1) Review
+
+&emsp;Not later than January 1, 2012, the Secretary shall conduct a review of conservation programs and authorities under this chapter that utilize allocation formulas to determine the sufficiency of the formulas in accounting for State-level economic factors, level of agricultural infrastructure, or related factors that affect conservation program costs.
+
+#### (2) Update
+
+&emsp;The Secretary shall improve conservation program allocation formulas as necessary to ensure that the formulas adequately reflect the costs of carrying out the conservation programs.
+
+#### (g) Assistance to certain farmers or ranchers for conservation access
+
+#### (1) Assistance
+
+&emsp;Of the funds made available for each of fiscal years 2009 through 2012 to carry out the environmental quality incentives program and the acres made available for each of such fiscal years to carry out the conservation stewardship program, the Secretary shall use, to the maximum extent practicable—
+
+&emsp;&emsp;(A) 5 percent to assist beginning farmers or ranchers; and
+
+&emsp;&emsp;(B) 5 percent to assist socially disadvantaged farmers or ranchers.
+
+#### (2) Repooling of funds
+
+&emsp;In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program.
+
+#### (3) Repooling of acres
+
+&emsp;In any fiscal year, acres not obligated under paragraph (1) by a date determined by the Secretary shall be available for use in that fiscal year under the conservation stewardship program.
+
+#### (h) Report on program enrollments and assistance
+
+Beginning in calendar year 2009, and each year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a semiannual report containing statistics by State related to enrollments in conservation programs under this subchapter, as follows:
+
+&emsp;(1) Payments made under the wetlands reserve program for easements valued at $250,000 or greater.
+
+&emsp;(2) Payments made under the farmland protection program for easements in which the Federal share is $250,000 or greater.
+
+&emsp;(3) Payments made under the grassland reserve program valued at $250,000 or greater.
+
+&emsp;(4) Payments made under the environmental quality incentives program for land determined to have special environmental significance pursuant to section 3839aa–7(b) of this title.
+
+&emsp;(5) Payments made under the agricultural water enhancement program subject to the waiver of adjusted gross income limitations pursuant to section 3839aa–9(g) of this title.
+
+&emsp;(6) Waivers granted by the Secretary under section 1308–3a(b)(2) of title 7 in order to protect environmentally sensitive land of special significance.
+
+(Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (f)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 #### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section 2701 of Pub. L. 107–171, which directed that subtitle E of the Food Security Act of 1985 be amended by striking section 1241 and adding a new section 1241 (this section), was executed by striking section 1241 of subtitle E of title XII of the Food Security Act of 1985 and adding the new section 1241 in lieu thereof, to reflect the probable intent of Congress.
 
@@ -81,6 +151,56 @@ A prior section 3841, Pub. L. 99–198, title XII, §1241, as added Pub. L. 104�
 Another prior section 3841, Pub. L. 99–198, title XII, §1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–246, §2701(a), substituted “2012” for “2007” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–246, §2701(b), inserted “, including to the maximum extent practicable—” after “part I” and added subpars. (A) and (B).
+
+Subsec. (a)(3). Pub. L. 110–246, §2701(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The conservation security program under subpart A of part II, using not more than—
+
+&emsp;“(A) $1,954,000,000 for the period of fiscal years 2006 through 2010; and
+
+&emsp;“(B) $5,650,000,000 for the period of fiscal years 2006 through 2015.”
+
+Subsec. (a)(4). Pub. L. 110–246, §2701(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The farmland protection program under subpart B of part II, using, to the maximum extent practicable—
+
+&emsp;“(A) $50,000,000 in fiscal year 2002;
+
+&emsp;“(B) $100,000,000 in fiscal year 2003;
+
+&emsp;“(C) $125,000,000 in each of fiscal years 2004 and 2005;
+
+&emsp;“(D) $100,000,000 in fiscal year 2006; and
+
+&emsp;“(E) $97,000,000 in fiscal year 2007.”
+
+Subsec. (a)(5). Pub. L. 110–246, §2701(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The grassland reserve program under subpart C of part II, using, to the maximum extent practicable $254,000,000 for the period of fiscal years 2003 through 2007.”
+
+Subsec. (a)(6). Pub. L. 110–246, §2701(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The environmental quality incentives program under part IV, using, to the maximum extent practicable—
+
+&emsp;“(A) $400,000,000 in fiscal year 2002;
+
+&emsp;“(B) $700,000,000 in fiscal year 2003;
+
+&emsp;“(C) $1,000,000,000 in fiscal year 2004;
+
+&emsp;“(D) $1,200,000,000 in each of fiscal years 2005 and 2006;
+
+&emsp;“(E) $1,270,000,000 in each of fiscal years 2007 through 2009; and
+
+&emsp;“(F) $1,300,000,000 in fiscal year 2010.”
+
+Subsec. (a)(7)(D). Pub. L. 110–246, §2701(g), substituted “2012” for “2007”.
+
+Subsec. (d). Pub. L. 110–246, §2703(a), designated existing provisions as par. (1), inserted heading, substituted “$15,000,000” for “$12,000,000”, and added par. (2).
+
+Subsec. (e). Pub. L. 110–246, §2702, added subsec. (e).
+
+Subsec. (f). Pub. L. 110–246, §2703(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 110–246, §2704, added subsec. (g).
+
+Subsec. (h). Pub. L. 110–246, §2705, added subsec. (h).
 
 2006—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for “$6,037,000,000 for the period of fiscal years 2005 through 2014.” and added subpars. (A) and (B).
 
@@ -107,6 +227,10 @@ Subsequent fiscal years.—Effective beginning on October 1, 2003, Commodity Cre
 Pub. L. 108–7, §213(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Nothing in this section affects the limit on expenditures for technical assistance imposed by section 714i of title 15.”
 
 Subsecs. (c), (d). Pub. L. 108–7, §213(2), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 2004 Amendment
 

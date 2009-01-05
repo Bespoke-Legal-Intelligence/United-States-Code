@@ -14,7 +14,7 @@
 
 #### (A) Implementation deadline
 
-&emsp;&emsp;The Secretary shall implement the program under this section so that discountcards and transitional assistance are first available by not later than 6 months after December 8, 2003.
+&emsp;&emsp;The Secretary shall implement the program under this section so that discount cards and transitional assistance are first available by not later than 6 months after December 8, 2003.
 
 #### (B) Expediting implementation
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or theDistrict of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
+&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
 
 #### (B) Exclusion of individuals with certain prescription drug coverage
 
@@ -136,7 +136,7 @@ For purposes of this section:
 
 #### (A) Continuous open enrollment
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph and subsection (h)(9) of this section, a discount card eligible individual who is not enrolled in an endorsed discount card program and is residing in a State may enroll in any such endorsed program—
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph and subsection (h)(9) of thissection, a discount card eligible individual who is not enrolled in an endorsed discount card program and is residing in a State may enroll in any such endorsed program—
 
 &emsp;&emsp;&emsp;(i) that serves residents of the State; and
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 #### (E) Application to certain enrollees
 
-&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described insection 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
+&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described in section 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
 
 #### (2) Enrollment fees
 
@@ -266,7 +266,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A prescription drug card sponsor offering an endorsed discount card program shall provide that each pharmacy that dispenses a covered discount card drug shall inform a discount card eligible individual enrolled in the program of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covered discount card drug under the program that is therapeutically equivalent and bioequivalent and available at such pharmacy.
+&emsp;&emsp;A prescription drug card sponsor offering an endorsed discount card program shall provide that each pharmacy that dispenses a covered discount card drug shall inform a discount card eligible individual enrolled in the program of any differential between the price of the drug to the enrollee and the price of the lowest priced generic covereddiscount card drug under the program that is therapeutically equivalent and bioequivalent and available at such pharmacy.
 
 #### (B) Timing of notice
 
@@ -370,7 +370,7 @@ For purposes of this section:
 
 #### (ii) Availability of information for verification purposes
 
-&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is oneof the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
+&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is one of the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
 
 #### (4) Reconsideration
 
@@ -476,7 +476,7 @@ For purposes of this section:
 
 #### (6) No impact on benefits under other programs
 
-&emsp;The availability of negotiated prices or transitional assistance under this section shall not be treated as benefits or otherwise taken into account in determining an individual's eligibility for, or the amount of benefits under, any other Federal program.
+&emsp;The availability of negotiated prices or transitional assistance under this section shall not be treated as benefits or otherwise taken intoaccount in determining an individual's eligibility for, or the amount of benefits under, any other Federal program.
 
 #### (7) Disregard for purposes of part C
 
@@ -552,7 +552,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of the program under this section, the operations of an endorsed program are covered functions and a prescription drug card sponsor is a covered entity for purposes of applying part C of subchapter XI of this chapter and all regulatory provisions promulgated thereunder, including regulations (relating to privacy) adopted pursuant to the authority of the Secretary under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).<sup>1</sup>
+&emsp;&emsp;For purposes of the program under this section, the operations of an endorsed program are covered functions and a prescription drug card sponsor is a covered entity forpurposes of applying part C of subchapter XI of this chapter and all regulatory provisions promulgated thereunder, including regulations (relating to privacy) adopted pursuant to the authority of the Secretary under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).<sup>1</sup>
 
 #### (B) Waiver authority
 
@@ -612,7 +612,7 @@ For purposes of this section:
 
 #### (3) Sanctions for abusive practices
 
-&emsp;The Secretary may implement intermediate sanctions or may revoke the endorsement of a program offered by a sponsor under this section if the Secretary determines that the sponsor or the program no longer meets the applicable requirements of this section or that the sponsor has engaged in false or misleading marketing practices. The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for conduct that a party knows or should know is a violation of this section. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;The Secretary may implement intermediate sanctions or may revoke the endorsement of a program offered by a sponsor under this section if the Secretary determines that the sponsor or the program no longer meets the applicable requirements of this section or that the sponsor has engaged in false or misleadingmarketing practices. The Secretary may impose a civil money penalty in an amount not to exceed $10,000 for conduct that a party knows or should know is a violation of this section. The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (j) Treatment of territories
 
@@ -652,7 +652,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “TransitionalAssistance Account” (in this subsection referred to as the “Account”).
+&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Transitional Assistance Account” (in this subsection referred to as the “Account”).
 
 #### (B) Funds
 

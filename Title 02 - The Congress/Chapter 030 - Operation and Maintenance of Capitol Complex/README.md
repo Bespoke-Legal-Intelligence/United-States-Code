@@ -42,9 +42,10 @@
 | [2045\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002045%20-%20Deposits%20and%20disbursements%20under%20special%20deposit%20account.md) | Deposits and disbursements under special deposit account. |
 | [2046\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002046%20-%20Bond%20of%20Architect%2C%20Assistant%20Architect%2C%20and%20other%20employees.md) | Bond of Architect, Assistant Architect, and other employees. |
 | [2047\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002047%20-%20Supersedure%20of%20prior%20provisions%20for%20maintenance%20and%20operation%20of%20Senate%20Restaurants.md) | Supersedure of prior provisions for maintenance and operation of Senate Restaurants. |
-| [2048\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002048%20-%20Management%20personnel%20and%20miscellaneous%20expenses%3B%20availability%20of%20appropriations%3B%20annual%20and%20sick%20leave.md) | Management personnel and miscellaneous expenses; availability of appropriations; annual and sick leave. |
+| [2048\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002048%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93279%2C%20%C2%A71%28c%29%284%29%28C%29%2C%20July%2017%2C%202008%2C%20122%20Stat.%202606.md) | Repealed. |
 | [2049\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002049%20-%20Loans%20for%20Senate%20Restaurants.md) | Loans for Senate Restaurants. |
 | [2050\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002050%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md) | Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account. |
+| [2051\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002051%20-%20Continued%20benefits%20for%20certain%20Senate%20Restaurants%20employees.md) | Continued benefits for certain Senate Restaurants employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -135,8 +136,7 @@
 | [2162a.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162a%20-%20Promoting%20maximum%20efficiency%20in%20operation%20of%20Capitol%20Power%20Plant.md) | Promoting maximum efficiency in operation of Capitol Power Plant. |
 | [2163\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002163%20-%20Capitol%20Grounds%20shuttle%20service.md) | Capitol Grounds shuttle service. |
 | [2164\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002164%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md) | Transportation of House Pages by Capitol Grounds shuttle service. |
-| [2165\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002165%20-%20Capitol%20educational%20and%20informational%20center%20and%20information%20and%20distribution%20stations%3B%20operation%20agreements.md) | Capitol educational and informational center and information and distribution stations; operation agreements. |
-| [2166\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002166%20-%20Capitol%20Guide%20Service.md) | Capitol Guide Service. |
+| 2165, 2166. Repealed. |  |
 | [2167\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002167%20-%20Congressional%20Award%20Youth%20Park.md) | Congressional Award Youth Park. |
 | [2168\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002168%20-%20Memorandum%20of%20understanding%20for%20provision%20of%20services%20of%20the%20United%20States%20Capitol%20telephone%20exchange%20for%20the%20House.md) | Memorandum of understanding for provision of services of the United States Capitol telephone exchange for the House. |
 | [2169\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002169%20-%20Capitol%20complex%20E%E2%80%9385%20refueling%20station.md) | Capitol complex E–85 refueling station. |

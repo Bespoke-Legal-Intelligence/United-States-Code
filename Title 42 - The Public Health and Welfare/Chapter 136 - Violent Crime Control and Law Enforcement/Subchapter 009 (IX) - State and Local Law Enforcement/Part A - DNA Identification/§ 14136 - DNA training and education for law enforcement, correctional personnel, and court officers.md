@@ -14,13 +14,17 @@ The Attorney General shall make grants to provide training, technical assistance
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated $12,500,000 for each of fiscal years 2005 through 2009 to carry out this section.
+There are authorized to be appropriated $12,500,000 for each of fiscal years 2009 through 2014 to carry out this section.
 
-(Pub. L. 108–405, title III, §303, Oct. 30, 2004, 118 Stat. 2273.)
+(Pub. L. 108–405, title III, §303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, §3, Oct. 8, 2008, 122 Stat. 4008.)
 
 #### Codification
 
 Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2008—Subsec. (b). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
 
 #### Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence
 

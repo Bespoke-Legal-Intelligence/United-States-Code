@@ -44,11 +44,11 @@
 
 #### (6) Preliminary committee report
 
-&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+&emsp;The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus islikely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 #### (7) Final committee report
 
-&emsp;If the committee is not terminated under paragraph (6), the rulemaking committee shallsubmit a report containing a proposed rule by not later than 1 month before the target date of publication.
+&emsp;If the committee is not terminated under paragraph (6), the rulemaking committee shall submit a report containing a proposed rule by not later than 1 month before the target date of publication.
 
 #### (8) Interim, final effect
 

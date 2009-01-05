@@ -1,12 +1,12 @@
 ### §517. Authorized daily average: members in pay grades E–8 and E–9
 
-(a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
+(a) The authorized daily average number of enlisted members on active duty (other than for training) in an armed force in pay grades E–8 and E–9 in a fiscal year may not be more than 2.5 percent and 1.25 percent, respectively, of the number of enlisted members of that armed force who are on active duty (other than for training) on the first day of that fiscal year. In computing the limitations prescribed in the preceding sentence, there shall be excluded enlisted members of an armed force on active duty as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.
 
 (b) Whenever the number of members serving in pay grade E–9 is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
 
 (c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
 
-(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, §403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, §416(f), Oct. 28, 2004, 118 Stat. 1868.)
+(Added Pub. L. 87–649, §2(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 96–584, §4, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–86, title V, §503(1), (2), Dec. 1, 1981, 95 Stat. 1107, 1108; Pub. L. 97–252, title V, §503(a), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(a), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(a), 414(a)(2), Oct. 19, 1984, 98 Stat. 2517, 2518; Pub. L. 99–145, title IV, §413(a), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(a), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(a), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(a), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(a), Nov. 30, 1993, 107 Stat. 1642; Pub. L. 103–337, div. A, title V, §552(a), title XVI, §1662(a)(4), Oct. 5, 1994, 108 Stat. 2772, 2988; Pub. L. 105–261, div. A, title IV, §407(a), title X, §1069(a)(2), Oct. 17, 1998, 112 Stat. 1996, 2135; Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–95; Pub. L. 107–107, div. A, title IV, §403, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 108–375, div. A, title IV, §416(f), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title IV, §406, Jan. 28, 2008, 122 Stat. 89.)
 
 Historical and Revision Notes
 
@@ -24,6 +24,8 @@ Oct. 12, 1949, ch. 681, §201(c) (last sentence); added May 20, 1958, Pub. L. 85
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–181 substituted “1.25 percent” for “1 percent”.
+
 2004—Subsec. (a). Pub. L. 108–375 substituted “as authorized under section 115(a)(1)(B) or 115(b) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title.” for “(other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve component of an armed force.”
 
 2001—Subsec. (a). Pub. L. 107–107 substituted “2.5 percent” for “2 percent (or, in the case of the Army, 2.5 percent)”.
@@ -36,7 +38,7 @@ Pub. L. 105–261, §407(a), substituted “a fiscal year” for “a calendar y
 
 1994—Subsec. (a). Pub. L. 103–337, §552(a), inserted “(or, in the case of the Army, 2.5 percent)” after “may not be more than 2 percent”.
 
-Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever thenumber of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
+Subsec. (b). Pub. L. 103–337, §1661(a)(4)(B), redesignated subsec. (c) as (b) and struck out “or whenever the number of members serving in pay grade E–9 for duty described in subsection (b) is less than the number authorized for that grade under subsection (b),” after “under subsection (a),”.
 
 Pub. L. 103–337, §1662(a)(4)(A), struck out subsec. (b) which limited the number of enlisted members in pay grades E–8 and E–9 who could be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
@@ -52,7 +54,7 @@ Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on nu
 
 1987—Subsec. (b). Pub. L. 100–180, §413(a)(2), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Army, to 529 and 2,350 from 517 and 2,295, respectively; Navy, to 180 and 400 from 175 and 390, respectively; Air Force, to 150 and 425 from 125 and 425, respectively. Marine Corps figures remained unchanged.
 
-Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
+Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in paygrades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
 
 1985—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
 
@@ -106,7 +108,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Authorized Active Duty Strengths for Army Enlisted Members in Pay Grade E–8; Special Rule for 1995
 
-Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable toenlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
+Pub. L. 103–337, div. A, title V, §552(b), Oct. 5, 1994, 108 Stat. 2772, provided that the percentage applicable to enlisted members of the Army in pay grade E–8 under subsec. (a) of this section during 1995 would be 2.3 percent, rather than the percentage provided by the amendment made by Pub. L. 103–337, §552(a).
 
 #### Authority To Waive Grade Strength Laws for Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 

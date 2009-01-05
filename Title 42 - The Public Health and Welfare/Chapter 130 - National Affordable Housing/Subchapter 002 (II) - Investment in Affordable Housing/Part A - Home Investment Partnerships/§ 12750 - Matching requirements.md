@@ -68,7 +68,7 @@ Such contributions may be in the form of—
 
 #### (A) Poverty rate
 
-&emsp;&emsp;The average poverty rate in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was equal to or greater than 125 percent of the average national poverty rate during such calendar year (as determined according to information of the Bureau of the Census).
+&emsp;&emsp;The average poverty rate in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was equal to or greater than 125 percent of the average national poverty rate duringsuch calendar year (as determined according to information of the Bureau of the Census).
 
 #### (B) Per capita income
 

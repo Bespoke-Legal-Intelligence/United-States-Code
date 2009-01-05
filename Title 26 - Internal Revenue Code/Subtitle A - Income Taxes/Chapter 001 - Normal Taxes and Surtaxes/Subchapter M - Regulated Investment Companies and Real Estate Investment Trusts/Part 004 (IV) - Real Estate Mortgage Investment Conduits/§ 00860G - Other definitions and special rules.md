@@ -16,7 +16,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) consist of a specified portion of the interest payments on qualified mortgages and such portion does not vary during the period such interest is outstanding.
 
-> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
+> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solelybecause the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
 
 #### (2) Residual interest
 
@@ -168,7 +168,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-2005—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+2005—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or anyState (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
 
 Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted “a reverse mortgage loan or other obligation” for “the obligation”.
 
@@ -208,7 +208,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 100–647, §1006(t)(5)(C)(i), substituted “on t
 
 Subsec. (a)(3)(A)(ii). Pub. L. 100–647, §1006(t)(5)(C)(ii), inserted before comma at end “if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day”.
 
-Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regularor residual interests in the REMIC” for “on or before the startup day”.
+Subsec. (a)(3)(C). Pub. L. 100–647, §1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
 
 Subsec. (a)(4)(A). Pub. L. 100–647, §1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and”.
 

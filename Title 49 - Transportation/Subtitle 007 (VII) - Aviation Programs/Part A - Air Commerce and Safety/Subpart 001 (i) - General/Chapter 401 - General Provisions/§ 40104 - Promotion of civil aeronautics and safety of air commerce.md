@@ -2,7 +2,7 @@
 
 (a)
 
-Developing Civil Aeronautics and Safety of Air Commerce.—The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside theUnited States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
+Developing Civil Aeronautics and Safety of Air Commerce.—The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
 
 (b)
 
@@ -48,7 +48,7 @@ The words “and foster” in 49 App.:1346 are omitted as surplus. The words “
 
 #### Pub. L. 103–429, §6(47)(A), (B)
 
-This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1102), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
+This makes conforming amendments to 49:40104, as enacted by section 1 of the Act of July 5, 1994 (PublicLaw 103–272, 108 Stat. 1102), because of the restatement of 49 App.:1655(c)(1) (words after last comma) as 49:40104(b) by section 6(47)(C) of the bill.
 
 Pub. L. 103–429, §6(47)(C)
 

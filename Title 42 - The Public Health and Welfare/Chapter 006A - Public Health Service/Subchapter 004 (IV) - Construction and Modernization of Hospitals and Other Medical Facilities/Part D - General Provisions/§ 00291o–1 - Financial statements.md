@@ -4,7 +4,7 @@ In the case of any facility for which a grant, loan, or loan guarantee has been 
 
 &emsp;(1) the financial operations of the facility, and
 
-&emsp;(2) the costs to the facility of providing health services in the facility and the charges made by the facility for providing such services,
+&emsp;(2) the costs to the facility of providing health services in the facility and the chargesmade by the facility for providing such services,
 
 > during the period with respect to which the statement is filed.
 

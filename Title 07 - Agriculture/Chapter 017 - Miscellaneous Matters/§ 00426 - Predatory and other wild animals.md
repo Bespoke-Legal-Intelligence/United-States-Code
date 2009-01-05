@@ -16,21 +16,3 @@ Functions of Secretary of Agriculture administered through Bureau of Biological 
 
 Pub. L. 99–190, §101(a) \[H.R. 3037, title I, §101\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: “That effective upon the date of enactment of this Act \[Dec. 19, 1985\] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b), (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
 
-#### Prevention of Introduction of Brown Tree Snakes to Hawaii From Guam
-
-Section 1013(a)–(c) of Pub. L. 102–237, as amended by Pub. L. 105–277, div. A, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
-
-“(a)
-
-In General.—The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
-
-“(b)
-
-Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
-
-“(c)
-
-Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
-
-Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
-

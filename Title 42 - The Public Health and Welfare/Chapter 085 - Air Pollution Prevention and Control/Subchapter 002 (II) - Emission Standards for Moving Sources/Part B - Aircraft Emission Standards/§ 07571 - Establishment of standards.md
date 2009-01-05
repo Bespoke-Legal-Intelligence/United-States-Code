@@ -68,7 +68,7 @@ Study.—The Administrator of the Environmental Protection Agency and the Secret
 
 &emsp;“(5) whether such technologies impair the effectiveness and accuracy of aircraft engine safety design, and performance tests conducted in test cells; and
 
-&emsp;“(6) the impact of not controlling such oxides of nitrogen in the applicable nonattainment areas and onother sources, stationary and mobile, on oxides of nitrogen in such areas.
+&emsp;“(6) the impact of not controlling such oxides of nitrogen in the applicable nonattainment areas and on other sources, stationary and mobile, on oxides of nitrogen in such areas.
 
 “(b)
 

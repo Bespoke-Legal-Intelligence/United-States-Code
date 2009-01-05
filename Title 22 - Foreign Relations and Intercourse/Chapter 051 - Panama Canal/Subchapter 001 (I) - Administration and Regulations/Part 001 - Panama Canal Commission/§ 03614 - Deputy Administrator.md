@@ -6,7 +6,7 @@ There shall be a Deputy Administrator of the Commission who shall be appointed b
 
 #### (b) Compensation
 
-The Deputy Administrator shall be paid compensation at a rate of pay, established by theBoard, which does not exceed the rate of basic pay in effect for level IV of the Executive Schedule, and, if eligible, shall be paid the overseas recruitment and retention differential provided for in section 3657 of this title.
+The Deputy Administrator shall be paid compensation at a rate of pay, established by the Board, which does not exceed the rate of basic pay in effect for level IV of the Executive Schedule, and, if eligible, shall be paid the overseas recruitment and retention differential provided for in section 3657 of this title.
 
 (Pub. L. 96–70, title I, §1104, Sept. 27, 1979, 93 Stat. 457; Pub. L. 101–510, div. C, title XXXV, §3505, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–201, div. C, title XXXV, §3524(a), Sept. 23, 1996, 110 Stat. 2860.)
 
@@ -16,7 +16,7 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 #### Amendments
 
-1996—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline and amended text generally. Prior to amendment, text read as follows:
+1996—Pub. L. 104–201 struck out “and Chief Engineer” after “Deputy Administrator” in section catchline andamended text generally. Prior to amendment, text read as follows:
 
 “(a) There shall be a Deputy Administrator and a Chief Engineer of the Commission, both of whom shall be appointed by the President. The Deputy Administrator and the Chief Engineer shall perform such duties as may be prescribed by the President.
 

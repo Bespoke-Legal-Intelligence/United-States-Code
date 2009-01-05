@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period thatan individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (3) Method of crediting coverage
 
@@ -132,7 +132,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage, shall provide the certification described in subparagraph (B)—
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurancecoverage, shall provide the certification described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) at the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision,
 
@@ -148,7 +148,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) the period of creditable coverage of the individual under such plan and the coverage (if any) under such COBRA continuation provision, and
 
-&emsp;&emsp;&emsp;(ii) the waiting period (if any) (and affiliation period, if applicable) imposed withrespect to the individual for any coverage under such plan.
+&emsp;&emsp;&emsp;(ii) the waiting period (if any) (and affiliation period, if applicable) imposed with respect to the individual for any coverage under such plan.
 
 #### (C) Issuer compliance
 
@@ -220,7 +220,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;A health maintenance organization which offers health insurance coverage in connectionwith a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 &emsp;&emsp;(A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -314,7 +314,7 @@ Special rule for collective bargaining agreements.—Except as provided in parag
 
 “(4)
 
-Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23,300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
+Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
 
 “(5)
 

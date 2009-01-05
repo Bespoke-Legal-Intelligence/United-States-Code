@@ -4,13 +4,17 @@
 
 (b) Subsection (a) does not preclude one payment in midmonth for any element of compensation and does not affect any authority to make advance payments of pay and allowances.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9103(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9103(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, §1013; renumbered §1014, Pub. L. 100–26, §8(b)(2), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 105–85, div. A, title VI, §603(d)(1)(E), Nov. 18, 1997, 111 Stat. 1782.)
+(c) With respect to a member of the uniformed services who has elected to participate in the Thrift Savings Plan under section 211 of this title, subsection (a) does not preclude the payment of an amount equal to one-half of the monthly deposit to the Thrift Savings Fund otherwise to be made by the member in participating in the Plan, which amount may be deposited in the Thrift Savings Fund at midmonth.
+
+(Added Pub. L. 99–500, §101(c) \[title IX, §9103(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9103(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, §1013; renumbered §1014, Pub. L. 100–26, §8(b)(2), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 105–85, div. A, title VI, §603(d)(1)(E), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 110–181, div. A, title VI, §605(a), Jan. 28, 2008, 122 Stat. 146.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2008—Subsec. (c). Pub. L. 110–181 added subsec. (c).
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “housing” for “quarters”.
 

@@ -6,5 +6,5 @@ Under regulations to be prescribed by the Administrator and approved by the Atto
 
 #### Codification
 
-Section is comprised of subsec. (f) of section 304 of Pub. L. 85–568. Subsecs. (a) and (b) of section 304 are classified to section 2455 of this title. Subsecs. (c) and\(d) of section 304 are classified to sections 799 and 1114, respectively, of Title 18, Crimes and Criminal Procedure. Subsec. (e) of section 304 is classified to section 2456 of this title.
+Section is comprised of subsec. (f) of section 304 of Pub. L. 85–568. Subsecs. (a) and (b) of section 304 are classified to section 2455 of this title. Subsecs. (c) and (d) of section 304 are classified to sections 799 and 1114, respectively, of Title 18, Crimes and Criminal Procedure. Subsec. (e) of section 304 is classified to section 2456 of this title.
 

@@ -42,7 +42,7 @@ Congressional Findings.—Congress finds that:
 
 Statement of Policy.—It is the policy of the United States—
 
-&emsp;“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as well as other problematic issues such as the lack of political freedoms;
+&emsp;“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as wellas other problematic issues such as the lack of political freedoms;
 
 &emsp;“(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and
 
@@ -426,7 +426,7 @@ Monitoring of Developments.—The Commission should monitor developments in coun
 
 “(c)
 
-Policy Review and Recommendations.—In carrying out this section, the Commission should evaluateUnited States Government policies toward countries of the Asia-Pacific region and recommend options for policies of the United States Government with respect to such countries, with a particular emphasis on countries that are of importance to the foreign policy, economic, and military interests of the United States.
+Policy Review and Recommendations.—In carrying out this section, the Commission should evaluate United States Government policies toward countries of the Asia-Pacific region and recommend options for policies of the United States Government with respect to such countries, with a particular emphasis on countries that are of importance to the foreign policy, economic, and military interests of the United States.
 
 “(d)
 
@@ -708,7 +708,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 “(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge fortheir crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 “(b)
 
@@ -794,7 +794,7 @@ Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic orconsular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
 
 #### Closure of Mission in Antigua and Barbuda Not in United States Interests
 

@@ -5,6 +5,12 @@
 | [<b>30.</b>](Chapter%20030%20-%20All-Volunteer%20Force%20Educational%20Assistance%20Program/README.md) | <b>All-Volunteer Force Educational Assistance Program</b> | <b>3001</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Training%20and%20Rehabilitation%20for%20Veterans%20with%20Service-Connected%20Disabilities/README.md) | <b>Training and Rehabilitation for Veterans with Service-Connected Disabilities</b> | <b>3100</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Post-Vietnam%20Era%20Veterans%E2%80%99%20Educational%20Assistance/README.md) | <b>Post-Vietnam Era Veterans’ Educational Assistance</b> | <b>3201</b> |
+| [<b>33.</b>](Chapter%20033%20-%20Post%E2%80%939-11%20Educational%20Assistance/README.md) | <b>Post-9/11 Educational Assistance</b> | <b>3301.</b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>34.</b>](Chapter%20034%20-%20Veterans%E2%80%99%20Educational%20Assistance/README.md) | <b>Veterans’ Educational Assistance</b> | <b>3451</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Survivors%E2%80%99%20and%20Dependents%E2%80%99%20Educational%20Assistance/README.md) | <b>Survivors’ and Dependents’ Educational Assistance</b> | <b>3500</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Administration%20of%20Educational%20Benefits/README.md) | <b>Administration of Educational Benefits</b> | <b>3670</b> |
@@ -17,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–252, title V, §5003(a)(2), June 30, 2008, 122 Stat. 2375, added item for chapter 33.
 
 1994—Pub. L. 103–446, title XII, §1201(h)(1), Nov. 2, 1994, 108 Stat. 4688, struck out item for chapter 42 and added identical new item for chapter 42.
 
@@ -62,6 +70,7 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 - [Chapter 030 - All-Volunteer Force Educational Assistance Program](Chapter%20030%20-%20All-Volunteer%20Force%20Educational%20Assistance%20Program/README.md)
 - [Chapter 031 - Training and Rehabilitation for Veterans with Service-Connected Disabilities](Chapter%20031%20-%20Training%20and%20Rehabilitation%20for%20Veterans%20with%20Service-Connected%20Disabilities/README.md)
 - [Chapter 032 - Post-Vietnam Era Veterans&#8217; Educational Assistance](Chapter%20032%20-%20Post-Vietnam%20Era%20Veterans%E2%80%99%20Educational%20Assistance/README.md)
+- [Chapter 033 - Post&#8211;9-11 Educational Assistance](Chapter%20033%20-%20Post%E2%80%939-11%20Educational%20Assistance/README.md)
 - [Chapter 034 - Veterans&#8217; Educational Assistance](Chapter%20034%20-%20Veterans%E2%80%99%20Educational%20Assistance/README.md)
 - [Chapter 035 - Survivors&#8217; and Dependents&#8217; Educational Assistance](Chapter%20035%20-%20Survivors%E2%80%99%20and%20Dependents%E2%80%99%20Educational%20Assistance/README.md)
 - [Chapter 036 - Administration of Educational Benefits](Chapter%20036%20-%20Administration%20of%20Educational%20Benefits/README.md)

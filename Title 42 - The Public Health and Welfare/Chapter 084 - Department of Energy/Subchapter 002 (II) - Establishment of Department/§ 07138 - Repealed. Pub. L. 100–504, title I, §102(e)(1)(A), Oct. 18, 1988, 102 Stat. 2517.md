@@ -4,5 +4,5 @@ Section, Pub. L. 95–91, title II, §208, Aug. 4, 1977, 91 Stat. 575; Pub. L. 9
 
 #### Effective Date of Repeal
 
-Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 \[Inspector General Act of 1978\] in the Appendix to Title 5, Government Organization and Employees.
+Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Dateof 1988 Amendment note under section 5 of Pub. L. 95–452 \[Inspector General Act of 1978\] in the Appendix to Title 5, Government Organization and Employees.
 

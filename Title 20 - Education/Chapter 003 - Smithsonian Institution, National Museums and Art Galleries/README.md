@@ -89,7 +89,8 @@
 | [76j.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076j%20-%20Duties%20of%20Board.md) | Duties of Board. |
 | [76k.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076k%20-%20Powers%20of%20Board.md) | Powers of Board. |
 | 76<i>l.</i> | Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit. |
-| 76m, 76n. | Repealed. |
+| [76m.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076m%20-%20Photovoltaic%20system.md) | Photovoltaic system. |
+| [76n.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076n%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93449%2C%20%C2%A73%2C%20Oct.%2022%2C%201990%2C%20104%20Stat.%201050.md) | Repealed. |
 | 76<i>o.</i> | Borrowing authority to finance parking facilities. |
 | [76p.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076p%20-%20Acceptance%20and%20disposition%20of%20gifts%20to%20the%20United%20States%20contributed%20in%20honor%20or%20memory%20of%20the%20late%20President%20John%20F.%20Kennedy.md) | Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy. |
 | [76q.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076q%20-%20Sole%20national%20memorial%20to%20the%20late%20John%20F.%20Kennedy%20within%20the%20city%20of%20Washington%20and%20environs.md) | Sole national memorial to the late John F. Kennedy within the city of Washington and environs. |

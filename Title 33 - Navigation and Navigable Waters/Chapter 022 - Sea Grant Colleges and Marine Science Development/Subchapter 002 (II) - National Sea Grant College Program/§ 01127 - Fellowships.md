@@ -2,19 +2,27 @@
 
 #### (a) In general
 
-To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.
+To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Every 2 years, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.
 
 #### (b) Dean John A. Knauss Marine Policy Fellowship
 
 The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
-(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346.)
+#### (c) Restriction on use of funds
+
+Amounts available for fellowships under this section, including amounts accepted under section 1123(c)(4)(F) of this title or appropriated under section 1131 of this title to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
+
+(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §8, Oct. 13, 2008, 122 Stat. 4207.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2008—Subsec. (a). Pub. L. 110–394, §8(1), substituted “Every 2 years,” for “Not later than 1 year after November 26, 2002, and every 2 years thereafter,”.
+
+Subsec. (c). Pub. L. 110–394, §8(2), added subsec. (c).
 
 2002—Subsec. (a). Pub. L. 107–299, §5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
 
@@ -34,7 +42,7 @@ Subsec. (c). Pub. L. 107–299, §5(b), struck out heading and text of subsec. (
 
 1998—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
 
-1991—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignated par. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and”.
+1991—Subsec. (c)(5) to (7). Pub. L. 102–186 inserted “and” after semicolon at end of par. (5), redesignatedpar. (7) as (6), and struck out former par. (6) which read as follows: “may be made for any of the priority areas of research identified in the sea grant strategic research plan in effect under section 1125 of this title; and”.
 
 1987—Subsec. (a). Pub. L. 100–220 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall support a sea grant fellowship program to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. Such fellowships shall be awarded pursuant to guidelines established by the Secretary. Except as provided in subsection (b) of this section, sea grant fellowships may only be awarded by sea grant colleges, sea grant regional consortia, institutions of higher education, and professional associations and institutes.”
 

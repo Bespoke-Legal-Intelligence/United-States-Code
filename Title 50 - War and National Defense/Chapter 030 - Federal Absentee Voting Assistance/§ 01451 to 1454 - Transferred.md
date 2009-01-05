@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1451, acts Aug. 9, 1955, ch. 656, title I, §101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, §1, 82 Stat. 180,which related to State enactment of absentee voting legislation, was transferred to section 1973cc of Title 42, The Public Health and Welfare.
+Section 1451, acts Aug. 9, 1955, ch. 656, title I, §101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, §1, 82 Stat. 180, which related to State enactment of absentee voting legislation, was transferred to section 1973cc of Title 42, The Public Health and Welfare.
 
 Section 1452, acts Aug. 9, 1955, ch. 656, title I, §102, 69 Stat. 584; June 18, 1968, Pub. L. 90–344, §1(1), 82 Stat. 181, which related to balloting procedures, was transferred to section 1973cc–1 of Title 42.
 

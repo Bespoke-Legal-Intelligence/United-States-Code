@@ -22,7 +22,7 @@ Health care may be provided under this section to a member of the Service or oth
 
 #### (f) Review; medical care contracts
 
-The Secretary of State shall review on a continuing basis the health care program provided for in this section. Whenever the Secretary of State determines that all or any part of suchprogram can be provided for as well and as cheaply in other ways, the Secretary may, for such individuals, locations, and conditions as the Secretary of State deems appropriate, contract for health care pursuant to such arrangements as the Secretary deems appropriate.
+The Secretary of State shall review on a continuing basis the health care program provided for in this section. Whenever the Secretary of State determines that all or any part of such program can be provided for as well and as cheaply in other ways, the Secretary may, for such individuals, locations, and conditions as the Secretary of State deems appropriate, contract for health care pursuant to such arrangements as the Secretary deems appropriate.
 
 #### (g) Retention of medical reimbursements
 

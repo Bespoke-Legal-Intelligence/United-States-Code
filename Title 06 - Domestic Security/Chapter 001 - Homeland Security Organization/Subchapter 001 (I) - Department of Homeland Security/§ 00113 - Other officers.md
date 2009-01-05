@@ -40,11 +40,9 @@ To assist the Secretary in the performance of the Secretary's functions, there a
 
 &emsp;(2) A Chief Information Officer.
 
-&emsp;(3) A Chief Human Capital Officer.
+&emsp;(3) An Officer for Civil Rights and Civil Liberties.
 
-&emsp;(4) An Officer for Civil Rights and Civil Liberties.
-
-&emsp;(5) A Director for Domestic Nuclear Detection.
+&emsp;(4) A Director for Domestic Nuclear Detection.
 
 #### (e) Chief Financial Officer
 
@@ -54,13 +52,15 @@ There shall be in the Department a Chief Financial Officer, as provided in chapt
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20,2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144.)
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2008—Subsec. (d)(3) to (5). Pub. L. 110–388 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “A Chief Human Capital Officer.”
 
 2007—Subsec. (a)(8) to (10). Pub. L. 110–53 added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 

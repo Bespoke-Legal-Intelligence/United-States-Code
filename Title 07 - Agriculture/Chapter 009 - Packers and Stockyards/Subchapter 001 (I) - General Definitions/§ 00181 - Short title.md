@@ -22,7 +22,7 @@ Consultation.—During the implementation period referred to in subsection (a), 
 
 &emsp;“(1) implement the recommendations in the report regarding investigation management, operations, and case methods development processes; and
 
-&emsp;“(2) effectively identify and investigate complaints of unfair and anti-competitive practices in violationof the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.), and enforce the Act.
+&emsp;“(2) effectively identify and investigate complaints of unfair and anti-competitive practices in violation of the Packers and Stockyards Act, 1921 (7 U.S.C. 181 et seq.), and enforce the Act.
 
 “(c)
 

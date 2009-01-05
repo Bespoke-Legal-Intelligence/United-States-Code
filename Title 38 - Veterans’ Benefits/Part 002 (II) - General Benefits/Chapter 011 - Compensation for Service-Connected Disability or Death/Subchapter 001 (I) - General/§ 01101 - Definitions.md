@@ -316,7 +316,7 @@ Availability.—Any sums made available to the commission under subsection (a) s
 
 #### Treatment of Certain Income of Alaska Natives for Purposes of Need-Based Benefits
 
-Pub. L. 103–446, title V, §506, Nov. 2, 1994, 108 Stat. 4664, provided that: “Any receipt by an individual from a Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act (43 U.S.C. 1626(c)) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
+Pub. L. 103–446, title V, §506, Nov. 2, 1994, 108 Stat. 4664, provided that: “Any receipt by an individual froma Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act (43 U.S.C. 1626(c)) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
 
 #### Cost-of-Living Increases in Compensation Rates
 

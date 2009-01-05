@@ -12,7 +12,7 @@
 
 #### (b) Present funding; shortfalls
 
-In such budget request, the President shall identify the level of need presently funded and any shortfall in funding (including direct program and contract support costs) for each Indian tribe, either directly by the Secretary of Health and Human Services, under self-determination contracts, or under compacts and funding agreements authorized under this part.
+In such budget request, the President shall identify the level of need presently funded and any shortfall in funding (including direct program and contract support costs) for each Indiantribe, either directly by the Secretary of Health and Human Services, under self-determination contracts, or under compacts and funding agreements authorized under this part.
 
 (Pub. L. 93–638, title V, §513, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 727.)
 

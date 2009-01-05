@@ -16,13 +16,25 @@
 
 (2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents of such members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
 
+(3) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to provide awards and incentives to members of the armed forces and covered beneficiaries who obtain health promotion and disease prevention health care services under the TRICARE program in accordance with terms and schedules prescribed by the Secretary. Such awards and incentives may include cash awards and, in the case of members of the armed forces, personnel incentives.
+
+(4)(A) The Secretary of Defense may, in consultation with the other administering Secretaries, include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to provide awards or incentives to individual health care professionals under the authority of such Secretaries, including members of the uniformed services, Federal civilian employees, and contractor personnel, to encourage and reward effective implementation of innovative health care programs designed to improve quality, cost-effectiveness, health promotion, medical readiness, and other priority objectives. Such awards and incentives may include cash awards and, in the case of members of the armed forces and Federal civilian employees, personnel incentives.
+
+(B) Amounts available for the pay of members of the uniformed services shall be available for awards and incentives under this paragraph with respect to members of the uniformed services.
+
+(5) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the medical and dental readiness of members of reserve components of the armed forces, including the provision of health care services to such members for which they are not otherwise entitled or eligible under this chapter.
+
+(6) The Secretary of Defense may include in the studies and demonstration projects conducted under paragraph (1) studies and demonstration projects to improve the continuity of health care services for family members of mobilized members of the reserve components of the armed forces who are eligible for such services under this chapter, including payment of a stipend for continuation of employer-provided health coverage during extended periods of active duty.
+
 (b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
+(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123; Pub. L. 110–417, \[div. A\], title VII, §715, Oct. 14, 2008, 122 Stat. 4505.)
 
 #### Amendments
+
+2008—Subsec. (a)(3) to (6). Pub. L. 110–417 added pars. (3) to (6).
 
 1998—Subsec. (a)(3). Pub. L. 105–261 struck out par. (3) which read as follows: “The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.”
 
@@ -31,6 +43,96 @@
 #### Effective Date
 
 Section 933(b) of Pub. L. 98–94 provided that: “Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+
+#### Military Health Risk Management Demonstration Project
+
+Pub. L. 110–417, \[div. A\], title VII, §712, Oct. 14, 2008, 122 Stat. 4501, provided that:
+
+“(a)
+
+Demonstration Project Required.—The Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing incentives to encourage healthy behaviors on the part of eligible military health system beneficiaries.
+
+“(b)
+
+Elements of Demonstration Project.—
+
+&emsp;“(1)
+
+Wellness assessment.—The Secretary shall develop a wellness assessment to be offered to beneficiaries enrolled in the demonstration project. The wellness assessment shall incorporate nationally recognized standards for health and healthy behaviors and shall be offered to determine a baseline and at appropriate intervals determined by the Secretary. The wellness assessment shall include the following:
+
+&emsp;&emsp;“(A) A self-reported health risk assessment.
+
+&emsp;&emsp;“(B) Physiological and biometric measures, including at least—
+
+&emsp;&emsp;&emsp;“(i) blood pressure;
+
+&emsp;&emsp;&emsp;“(ii) glucose level;
+
+&emsp;&emsp;&emsp;“(iii) lipids;
+
+&emsp;&emsp;&emsp;“(iv) nicotine use; and
+
+&emsp;&emsp;&emsp;“(v) weight.
+
+&emsp;“(2)
+
+Population enrolled.—Non-medicare eligible retired beneficiaries of the military health system and their dependents who are enrolled in TRICARE Prime and who reside in the demonstration project service area shall be offered the opportunity to enroll in the demonstration project.
+
+&emsp;“(3)
+
+Geographic coverage of demonstration project.—The demonstration project shall be conducted in at least three geographic areas within the United States where TRICARE Prime is offered, as determined by the Secretary. The area covered by the project shall be referred to as the demonstration project service area.
+
+&emsp;“(4)
+
+Programs.—The Secretary shall develop programs to assist enrollees to improve healthy behaviors, as identified by the wellness assessment.
+
+&emsp;“(5)
+
+Inclusion of incentives required.—For the purpose of conducting the demonstration project, the Secretary may offer monetary and non-monetary incentives to enrollees to encourage participation in the demonstration project.
+
+“(c)
+
+Evaluation of Demonstration Project.—The Secretary shall annually evaluate the demonstration project for the following:
+
+&emsp;“(1) The extent to which the health risk assessment and the physiological and biometric measures of beneficiaries are improved from the baseline (as determined in the wellness assessment).
+
+&emsp;“(2) In the case of baseline health risk assessments and physiological and biometric measures that reflect healthy behaviors, the extent to which the measures are maintained.
+
+“(d)
+
+Implementation Plan.—The Secretary of Defense shall submit a plan to implement the health risk management demonstration project required by this section not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\].
+
+“(e)
+
+Duration of Project.—The health risk management demonstration project shall be implemented for a period of three years, beginning not later than March 1, 2009, and ending three years after that date.
+
+“(f)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an annual report on the effectiveness of the health risk management demonstration project in improving the health risk measures of military health system beneficiaries enrolled in the demonstration project. The first report shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and subsequent reports shall be submitted for each year of the demonstration project with the final report being submitted not later than 90 days after the termination of the demonstration project.
+
+&emsp;“(2)
+
+Matters covered.—Each report shall address, at a minimum, the following:
+
+&emsp;&emsp;“(A) The number of beneficiaries who were enrolled in the project.
+
+&emsp;&emsp;“(B) The number of enrolled beneficiaries who participate in the project.
+
+&emsp;&emsp;“(C) The incentives to encourage healthy behaviors that were provided to the beneficiaries in each beneficiary category, and the extent to which the incentives encouraged healthy behaviors.
+
+&emsp;&emsp;“(D) An assessment of the effectiveness of the demonstration project.
+
+&emsp;&emsp;“(E) Recommendations for adjustments to the demonstration project.
+
+&emsp;&emsp;“(F) The estimated costs avoided as a result of decreased health risk conditions on the part of each of the beneficiary categories.
+
+&emsp;&emsp;“(G) Recommendations for extending the demonstration project or implementing a permanent wellness assessment program.
+
+&emsp;&emsp;“(H) Identification of legislative authorities required to implement a permanent program.”
 
 #### Availability of Chiropractic Health Care Services
 
@@ -50,7 +152,7 @@ Implementation and Report.—Not later than September 30, 2006, the Secretary of
 
 #### Pilot Program for Health Care Delivery
 
-Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, provided that:
+Pub. L. 108–375, div. A, title VII, §721, Oct. 28, 2004, 118 Stat. 1988, as amended by Pub. L. 110–181, div. A, title VII, §707, Jan. 28, 2008, 122 Stat. 189; Pub. L. 110–417, \[div. A\], title X, §1061(e), Oct. 14, 2008, 122 Stat. 4613, provided that:
 
 “(a)
 
@@ -64,9 +166,11 @@ Requirements of Pilot Program.—In conducting the pilot program, the Secretary 
 
 &emsp;“(2) determine the cost avoidance or savings resulting from innovative partnerships between the Department of Defense and the private sector;
 
-&emsp;“(3) study the potential, viability, cost efficiency, and health care effectiveness of Department of Defense health care providers delivering health care in civilian community hospitals; and
+&emsp;“(3) study the potential, viability, cost efficiency, and health care effectiveness of Department of Defense health care providers delivering health care in civilian community hospitals;
 
-&emsp;“(4) determine the opportunities for and barriers to coordinating and leveraging the use of existing health care resources, including Federal, State, local, and contractor assets.
+&emsp;“(4) determine the opportunities for and barriers to coordinating and leveraging the use of existing health care resources, including Federal, State, local, and contractor assets; and
+
+&emsp;“(5) collaborate with State and local authorities to create an arrangement to share and exchange, between the Department of Defense and non-military health care systems, personal health information and data of military personnel and their families.
 
 “(c)
 
@@ -78,7 +182,7 @@ Selection of Military Installation.—The pilot program may be implemented at tw
 
 &emsp;“(1) The military installation has members of the Armed Forces on active duty and members of reserve components of the Armed Forces that use the installation as a training and operational base, with members routinely deploying in support of the global war on terrorism.
 
-&emsp;“(2) The number of members of the Armed Forces on active duty permanently assigned to the military installation is expected to increase over the next five years.
+&emsp;“(2) The number of members of the Armed Forces on active duty permanently assigned to the military installation is \[sic\] has increased over the five years preceding 2008.
 
 &emsp;“(3) One or more cooperative arrangements exist at the military installation with civilian health care entities in the form of specialty care services in the military medical treatment facility on the installation.
 
@@ -92,7 +196,7 @@ Selection of Military Installation.—The pilot program may be implemented at tw
 
 “(e)
 
-Duration of Pilot Program.—Implementation of the pilot program developed under this section shall begin not later than May 1, 2005, and shall be conducted during fiscal years 2005, 2006, and 2007.
+Duration of Pilot Program.—Implementation of the pilot program developed under this section shall begin not later than May 1, 2005, and shall be conducted during fiscal years 2005 through 2010.
 
 “(f)
 
@@ -100,7 +204,7 @@ Reports.—With respect to any pilot program conducted under this section, the S
 
 &emsp;“(1) an interim report on the program, not later than 60 days after commencement of the program; and
 
-&emsp;“(2) a final report describing the results of the program with recommendations for a model health care delivery system for other military installations, not later than July 1, 2007.”
+&emsp;“(2) a final report describing the results of the program with recommendations for a model health care delivery system for other military installations, not later than July 1, 2010.”
 
 #### Demonstration Project for Expanded Access to Mental Health Counselors
 
@@ -182,7 +286,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §702\], Oct. 30, 2000, 114 Stat
 
 “(a)
 
-Plan Required.—(1) Not later than March 31, 2001, the Secretary of Defense shall complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the DefenseHealth Program (including the TRICARE program), for all members of the uniformed services who are entitled to care under section 1074(a) of title 10, United States Code.
+Plan Required.—(1) Not later than March 31, 2001, the Secretary of Defense shall complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the Defense Health Program (including the TRICARE program), for all members of the uniformed services who are entitled to care under section 1074(a) of title 10, United States Code.
 
 “(2) The plan shall provide for the following:
 
@@ -222,5 +326,5 @@ GAO Reports.—The Comptroller General shall monitor the development and impleme
 
 Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
-Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
+Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health andHuman Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
 

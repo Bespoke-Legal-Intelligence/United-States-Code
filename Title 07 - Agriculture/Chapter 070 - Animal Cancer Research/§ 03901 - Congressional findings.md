@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(d) significant theories of a common factor in malignant tumors, such as chorionic gonadotropin, have not been pursued in depth;
 
-&emsp;(e) research on diagnosis, prevention, and control of cancer in animals and birds will be beneficial in identifying any common factors in human and animal malignant tumors, if such exist; and
+&emsp;(e) research on diagnosis, prevention, and control of cancer in animals and birds will bebeneficial in identifying any common factors in human and animal malignant tumors, if such exist; and
 
 &emsp;(f) it is imperative for the Department of Agriculture and the National Institutes of Health to coordinate and consult with regard to the research authorized under this chapter to achieve the maximum benefits from such research.
 

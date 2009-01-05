@@ -22,7 +22,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users; and
 
-&emsp;(E) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
+&emsp;(E) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska,scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
 
 (2) Under guidelines prescribed under section 41737(a) of this title, the Secretary shall pay the rate of compensation for providing basic essential air service under this section and section 41734 of this title.
 

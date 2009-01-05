@@ -22,21 +22,37 @@ In this Act:
 
 &emsp;The term “Department” means the Department of Agriculture.
 
-#### (6) Secretary
+#### (6) Hispanic-serving agricultural colleges and universities
+
+&emsp;The term “Hispanic-serving agricultural colleges and universities” has the meaning given the term in section 3103 of this title.
+
+#### (7) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 105–185, §2, June 23, 1998, 112 Stat. 525.)
+(Pub. L. 105–185, §2, June 23, 1998, 112 Stat. 525; Pub. L. 110–234, title VII, §7129(c)(1), May 22, 2008, 122 Stat. 1226; Pub. L. 110–246, §4(a), title VII, §7129(c)(1), June 18, 2008, 122 Stat. 1664, 1988.)
 
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 105–185, June 23, 1998, 112 Stat. 523, as amended, known as the Agricultural Research, Extension, and Education Reform Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-Act of July 2, 1862, referred to in par. (1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the First Morrill Act, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in par. (1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in par. (2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Section 251(a), referred to in par. (3), is section 251(a) of Pub. L. 105–185.
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Pars. (6), (7). Pub. L. 110–246, §7129(c)(1), added par. (6) and redesignated former par. (6) as (7).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Short Title
 

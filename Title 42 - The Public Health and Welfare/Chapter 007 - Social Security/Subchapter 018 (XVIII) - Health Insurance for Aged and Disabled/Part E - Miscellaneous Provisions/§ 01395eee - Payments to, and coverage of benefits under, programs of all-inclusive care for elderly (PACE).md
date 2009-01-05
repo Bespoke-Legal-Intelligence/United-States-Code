@@ -132,7 +132,7 @@
 
 #### (4) Reference to related provision for services covered under subchapter XIX but not under this subchapter
 
-&emsp;For provisions relating to limitations on payments to providers participating under the State plan under subchapter XIX of this chapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under this subchapter) when such services are furnished to enrollees of thatPACE provider, see section 1396a(a)(66) of this title.
+&emsp;For provisions relating to limitations on payments to providers participating under the State plan under subchapter XIX of this chapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under this subchapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(66) of this title.
 
 #### (c) Eligibility determinations
 
@@ -180,7 +180,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), aPACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -194,7 +194,11 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contractsunder section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+
+#### (3) Capitation rates determined without regard to the phase-out of the indirect costs of medical education from the annual Medicare Advantage capitation rate
+
+&emsp;Capitation amounts under this subsection shall be determined without regard to the application of section 1395w–23(k)(4) of this title.
 
 #### (e) PACE program agreement
 
@@ -320,7 +324,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, if the Secretary determines (after consultation with the State administering agency) that a PACE provider is failing substantially to comply with the requirements of this section and regulations, the Secretary (and the State administering agency) may take any or all of the following actions:
+&emsp;&emsp;Under regulations, if the Secretary determines (after consultation with the State administering agency) that a PACE provider is failing substantially to comply with the requirements of this section and regulations, the Secretary (and the State administeringagency) may take any or all of the following actions:
 
 &emsp;&emsp;&emsp;(i) Condition the continuation of the PACE program agreement upon timely execution of a corrective action plan.
 
@@ -424,7 +428,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 Nothing in this section or section 1396u–4 of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A of this subchapter, or enrolled under part B of this subchapter, or eligible for medical assistance under subchapter XIX of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569.)
 
 #### References in Text
 
@@ -444,6 +448,8 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 #### Amendments
 
+2008—Subsec. (d)(3). Pub. L. 110–275 added par. (3).
+
 2003—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
 
 2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
@@ -458,7 +464,7 @@ Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effective as \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
+Pub. L. 106–554, §1(a)(6) \[title IX, §902(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section \[amending this section and section 1396u–4 of this title\] shall be effectiveas \[if\] included in the enactment of BBA \[Pub. L. 105–33\].”
 
 #### Rural PACE Provider Grant Program
 
@@ -528,7 +534,7 @@ Use of funds.—Funds made available under a site development grant awarded unde
 
 &emsp;&emsp;&emsp;“(vii) Development of any special quality of care or patient satisfaction data collection efforts.
 
-&emsp;&emsp;&emsp;“(viii) Establishment of a working capital fund to sustain fixed administrative, facility, or otherfixed costs until the provider reaches sufficient enrollment size.
+&emsp;&emsp;&emsp;“(viii) Establishment of a working capital fund to sustain fixed administrative, facility, or other fixed costs until the provider reaches sufficient enrollment size.
 
 &emsp;&emsp;&emsp;“(ix) Startup and development costs incurred prior to the approval of the rural PACE pilot site's PACE provider application by CMS.
 
@@ -610,7 +616,7 @@ Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall
 
 &emsp;“(5)
 
-Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
+Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and anyworking capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
 
 &emsp;“(6)
 
@@ -656,7 +662,7 @@ Section 4803 of title IV of Pub. L. 105–33, as amended by Pub. L. 106–554, �
 
 “(a)
 
-Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs undersections 1894 and 1934 of the Social Security Act \[this section and section 1396u–4 of this title\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
+Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act \[this section and section 1396u–4 of this title\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(b)
 

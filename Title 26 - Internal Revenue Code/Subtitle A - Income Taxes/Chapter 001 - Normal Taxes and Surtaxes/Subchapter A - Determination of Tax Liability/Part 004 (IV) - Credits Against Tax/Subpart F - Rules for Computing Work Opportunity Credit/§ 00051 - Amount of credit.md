@@ -18,7 +18,7 @@ For purposes of this subpart—
 
 #### (3) Limitation on wages per year taken into account
 
-&emsp;The amount of the qualified first-year wages which may be taken into account with respectto any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)).
+&emsp;The amount of the qualified first-year wages which may be taken into account with respect to any individual shall not exceed $6,000 per year ($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii)).
 
 #### (c) Wages defined
 
@@ -76,7 +76,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;(F) a qualified summer youth employee,
 
-&emsp;&emsp;(G) a qualified food stamp recipient,
+&emsp;&emsp;(G) a qualified supplemental nutrition assistance program benefits recipient,
 
 &emsp;&emsp;(H) a qualified SSI recipient, or
 
@@ -98,7 +98,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;The term “qualified veteran” means any veteran who is certified by the designated local agency as—
 
-&emsp;&emsp;&emsp;(i) being a member of a family receiving assistance under a food stamp program under the Food Stamp Act of 1977 for at least a 3-month period ending during the 12-month period ending on the hiring date, or
+&emsp;&emsp;&emsp;(i) being a member of a family receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for at least a 3-month period ending during the 12-month period ending on the hiring date, or
 
 &emsp;&emsp;&emsp;(ii) entitled to compensation for a service-connected disability, and—
 
@@ -194,23 +194,23 @@ For purposes of this subpart—
 
 &emsp;&emsp;Paragraph (5)(B) shall apply for purposes of subparagraph (A)(iv).
 
-#### (8) Qualified food stamp recipient
+#### (8) Qualified food stamp recipient <sup>2</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified food stamp recipient” means any individual who is certified by the designated local agency—
+&emsp;&emsp;The term “qualified supplemental nutrition assistance program benefits recipient” means any individual who is certified by the designated local agency—
 
 &emsp;&emsp;&emsp;(i) as having attained age 18 but not age 40 on the hiring date, and
 
 &emsp;&emsp;&emsp;(ii) as being a member of a family—
 
-&emsp;&emsp;&emsp;&emsp;(I) receiving assistance under a food stamp program under the Food Stamp Act of 1977 for the 6-month period ending on the hiring date, or
+&emsp;&emsp;&emsp;&emsp;(I) receiving assistance under a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 for the 6-month period ending on the hiring date, or
 
-&emsp;&emsp;&emsp;&emsp;(II) receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(<i>o</i>) of the Food Stamp Act of 1977.
+&emsp;&emsp;&emsp;&emsp;(II) receiving such assistance for at least 3 months of the 5-month period ending on the hiring date, in the case of a member of a family who ceases to be eligible for such assistance under section 6(<i>o</i>) of the Food and Nutrition Act of 2008.
 
 #### (B) Participation information
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury and the Secretary of Agriculture shall enter into an agreement to provide information to designated local agencies with respect to participation in the food stamp program.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury and the Secretary of Agriculture shall enter into an agreement to provide information to designated local agencies with respect to participation in the supplemental nutrition assistance program.
 
 #### (9) Qualified SSI recipient
 
@@ -300,7 +300,7 @@ For purposes of this subpart—
 
 #### (2) Special rule for certain determination
 
-&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection\(h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
+&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection (h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
 
 #### (g) United States Employment Service to notify employers of availability of credit
 
@@ -330,7 +330,7 @@ For purposes of this subpart—
 
 &emsp;No wages shall be taken into account under subsection (a) with respect to an individual who—
 
-&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>2</sup> (determined with the application of section 267(c)),
+&emsp;&emsp;(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup>3</sup> (determined with the application of section 267(c)),
 
 &emsp;&emsp;(B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
 
@@ -368,19 +368,19 @@ For purposes of this subpart—
 
 #### (1) Treatment of successor employers
 
-&emsp;Under regulations prescribed by the Secretary, in the case of a successor employer referred to in section 3306(b)(1), the determination of the amount of the credit under this section with respect to wages paid by such successor employer shall be made in the samemanner as if such wages were paid by the predecessor employer referred to in such section.
+&emsp;Under regulations prescribed by the Secretary, in the case of a successor employer referred to in section 3306(b)(1), the determination of the amount of the credit under this section with respect to wages paid by such successor employer shall be made in the same manner as if such wages were paid by the predecessor employer referred to in such section.
 
 #### (2) Treatment of employees performing services for other persons
 
 &emsp;No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(<i>l</i>)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, titleVII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(<i>l</i>)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) \[title I, §102(a)–(c), title III, §316(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(<i>o</i>) of the Act is classified to section 2015(<i>o</i>) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(<i>o</i>) of the Act is classified to section 2015(<i>o</i>) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -388,11 +388,27 @@ Section 212 of Public Law 93–66, referred to in subsec. (d)(9), is set out as 
 
 Act of June 6, 1933, referred to in subsec. (d)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, popularly known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
 #### Prior Provisions
 
 A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments
+
+2008—Subsec. (d)(1)(G). Pub. L. 110–246, §4002(b)(1)(D), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+
+Subsec. (d)(3)(A)(i). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
+
+Subsec. (d)(8)(A). Pub. L. 110–246, §4002(b)(1)(D), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamp” in introductory provisions.
+
+Subsec. (d)(8)(A)(ii)(I). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
+
+Subsec. (d)(8)(A)(ii)(II). Pub. L. 110–246, §4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+
+Subsec. (d)(8)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(O), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 2007—Subsec. (b)(3). Pub. L. 110–28, §8211(d)(2), substituted “Limitation on” for “Only first $6,000 of” in heading and inserted “($12,000 per year in the case of any individual who is a qualified veteran by reason of subsection (d)(3)(A)(ii))” before period at end.
 
@@ -534,7 +550,7 @@ Subsec. (c)(4). Pub. L. 100–647, §4010(a), substituted “1989” for “1988
 
 Subsec. (d)(3)(B). Pub. L. 100–647, §4010(c)(1), substituted “age 23” for “age 25”.
 
-Subsec. (d)(12)(B). Pub. L. 100–647, §4010(d)(1), redesignated former cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which provided that subsection (a) shall be applied by substituting “85 percent” for “40 percent”.
+Subsec. (d)(12)(B). Pub. L. 100–647, §4010(d)(1), redesignated former cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which provided thatsubsection (a) shall be applied by substituting “85 percent” for “40 percent”.
 
 Pub. L. 100–647, §1017(a), substituted “subsection (a)” for “subsection (a)(1)” in cl. (i).
 
@@ -626,7 +642,7 @@ Subsec. (d)(15). Pub. L. 97–34, §261(c)(1), added par. (15).
 
 Subsec. (e). Pub. L. 97–34, §261(e)(1), struck out subsec. (e) which set forth limitation that qualified first-year wages could not exceed 30 percent of FUTA wages for all employees.
 
-Subsec. (f). Pub. L. 97–34, §261(e)(2), substituted “any taxable year” for “any year” in pars. (1) and (2) and struck out par. (3), defining “year” which is covered in pars. (1) and (2).
+Subsec. (f). Pub. L. 97–34, §261(e)(2), substituted “any taxable year” for “any year” in pars. (1) and (2) andstruck out par. (3), defining “year” which is covered in pars. (1) and (2).
 
 Subsec. (g). Pub. L. 97–34, §261(f)(1)(B), substituted “United States Employment Service” for “Secretary of Labor” in heading and text.
 
@@ -655,6 +671,12 @@ Subsec. (d)(12). Pub. L. 96–222, §103(a)(6)(G)(viii), substituted “employer
 Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provided in subsection (h)(1)” after “the preceding sentence,”.
 
 1978—Pub. L. 95–600 amended section generally and limited allowance of credit to the hiring of seven target groups with high unemployment rates.
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Amendment by section 4002(b)(1)(A), (B), (D), (2)(O) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 2007 Amendment
 
@@ -814,7 +836,7 @@ Cooperative education program participants.—The amendments made by subsection 
 
 &emsp;“(D)
 
-Designated local agency.—The amendments made by subsection (f)(1) \[amending this section\]shall take effect on the date 60 days after the date of the enactment of this act \[Aug. 13, 1981\].
+Designated local agency.—The amendments made by subsection (f)(1) \[amending this section\] shall take effect on the date 60 days after the date of the enactment of this act \[Aug. 13, 1981\].
 
 “(2)
 
@@ -888,11 +910,11 @@ Individual must be hired after september 26, 1978.—In the case of a member of 
 
 &emsp;“(i) such individual meets the requirements of paragraph (1) of section 51(d) of such Code, and
 
-&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1), a credit was not claimed for such individual by the taxpayer for a taxable year beginning before January 1, 1979.”
+&emsp;“(ii) in the case of an individual meeting the requirements of subparagraph (A) of such paragraph (1),a credit was not claimed for such individual by the taxpayer for a taxable year beginning before January 1, 1979.”
 
 #### Credit Allowable by Section 44B in Case of Taxable Year Beginning in 1978 and Ending After December 31, 1978
 
-Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(6)(D), Apr. 1, 1980, 94 Stat. 209;Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a taxable year which begins in 1978 and ends after December 31, 1978, the amount of the credit determined under section 51 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be the sum of—
+Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(6)(D), Apr. 1, 1980, 94 Stat. 209; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a taxable year which begins in 1978 and ends after December 31, 1978, the amount of the credit determined under section 51 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be the sum of—
 
 &emsp;“(A) the amount of the credit which would be so determined without regard to the amendments made by this section, plus
 
@@ -900,5 +922,7 @@ Section 321(d)(3) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Qualified supplemental nutrition assistance program benefits recipient”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

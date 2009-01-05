@@ -16,7 +16,7 @@ Any person who shall—
 
 &emsp;(6) with intent to defraud the United States, purchase, sell, receive with intent to transport, or transport any empty cask or package having thereon any mark or brand required by law to be affixed to any cask or package containing distilled spirits, or
 
-&emsp;(7) change or alter any mark or brand on any cask or package containing distilled spirits, orput into any cask or package spirits of greater strength than is indicated by the inspection mark thereon, or fraudulently use any cask or package having any inspection mark thereon, for the purpose of selling other spirits, or spirits of quantity or quality different from the spirits previously inspected,
+&emsp;(7) change or alter any mark or brand on any cask or package containing distilled spirits, or put into any cask or package spirits of greater strength than is indicated by the inspection mark thereon, or fraudulently use any cask or package having any inspection mark thereon, for the purpose of selling other spirits, or spirits of quantity or quality different from the spirits previously inspected,
 
 > shall be fined not more than $10,000 or imprisoned not more than 5 years, or both, for each such offense.
 

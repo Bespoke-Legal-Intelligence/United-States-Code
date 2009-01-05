@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 90 days after December 21, 2004, the executive committee of the Advisory Board shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
+Not later than 90 days after December 21, 2004, the executive committee of the Advisory Boardshall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
 
 #### (b) Members
 
@@ -34,6 +34,10 @@ Not later than 180 days after the establishment of the specialty crops committee
 
 &emsp;&emsp;(H) enhance irrigation techniques used in specialty crop production.
 
+&emsp;(4) Analyses of changes in macroeconomic conditions, technologies, and policies on specialty crop production and consumption, with particular focus on the effect of those changes on the financial stability of producers.
+
+&emsp;(5) Development of data that provide applied information useful to specialty crop growers, their associations, and other interested beneficiaries in evaluating that industry from a regional and national perspective.
+
 #### (d) Consideration by Secretary
 
 In preparing the annual budget recommendations for the Department of Agriculture, the Secretary shall take into consideration those findings and recommendations contained in the most-recent report of the specialty crops committee that are adopted by the Advisory Board.
@@ -42,9 +46,21 @@ In preparing the annual budget recommendations for the Department of Agriculture
 
 In the budget material submitted to Congress by the Secretary in connection with the budget submitted pursuant to section 1105 of title 31 for a fiscal year, the Secretary shall include a report describing how the Secretary addressed each recommendation of the specialty crops committee described in subsection (d) of this section.
 
-(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885.)
+(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, §7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, §4(a), title VII, §7103, June 18, 2008, 122 Stat. 1664, 1976.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
 A prior section 3123a, Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 101–624, title XVI, §1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, §402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, §853(a), Apr. 4, 1996, 110 Stat. 1172.
+
+#### Amendments
+
+2008—Subsec. (c)(4), (5). Pub. L. 110–246, §7103, added pars. (4) and (5).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

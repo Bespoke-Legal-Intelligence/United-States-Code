@@ -122,7 +122,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (E) Repatriation of aliens
 
-&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien with respect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
+&emsp;&emsp;The government of the country accepts for repatriation any citizen, former citizen, or national of the country against whom a final executable order of removal is issued not later than three weeks after the issuance of the final order of removal. Nothing in this subparagraph creates any duty for the United States or any right for any alien withrespect to removal or release. Nothing in this subparagraph gives rise to any cause of action or claim under this paragraph or any other law against any official of the United States or of any State to compel the release, removal, or consideration for release or removal of any alien.
 
 #### (F) Passenger information exchange
 
@@ -152,7 +152,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Low nonimmigrant visa refusal rate in each of the 2 previous years
 
-&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals ofthat country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
+&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
 
 #### (4) Initial period
 
@@ -252,7 +252,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(iv) the total number of such nationals who were refused United States visas during the previous calendar year under each provision of this chapter under which the visas were refused; and
 
-&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of this title as a percentage of the visas that were issued to such nationals.
+&emsp;&emsp;&emsp;(v) the number of such nationals that were refused under section 1184(b) of thistitle as a percentage of the visas that were issued to such nationals.
 
 #### (C) Certification
 
@@ -280,7 +280,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iii) Temporary suspension of waiver authority
 
-&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1,2009, until such time as the Secretary makes such notification.
+&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
 
 #### (iv) Rule of construction
 
@@ -380,7 +380,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -402,7 +402,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (B) Probationary status
 
-&emsp;&emsp;If the program country's disqualification rate is greater than 2 percent but less than3.5 percent, the Attorney General shall place the program country in probationary status for a period not to exceed 2 full fiscal years following the year in which the determination under subparagraph (A) is made.
+&emsp;&emsp;If the program country's disqualification rate is greater than 2 percent but less than 3.5 percent, the Attorney General shall place the program country in probationary status for a period not to exceed 2 full fiscal years following the year in which the determination under subparagraph (A) is made.
 
 #### (C) Termination of designation
 
@@ -592,7 +592,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3),Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341.)
 
 #### Amendments
 
@@ -770,7 +770,7 @@ Subsec. (d). Pub. L. 101–649, §201(a)(7), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 101–649, §201(a)(7), (8), redesignated subsec. (d) as (e) and added subpar. (C) at end of par. (1). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–649, §201(a)(7), (9), redesignated subsec. (e) as (f) and substituted “on October 1, 1988, and ending on September 30, 1994” for “at the end of the 30-day period referred to in subsection (b)(1) of this section and ending on the last day of the third fiscal year which begins after such 30-day period”.
+Subsec. (f). Pub. L. 101–649, §201(a)(7), (9), redesignated subsec. (e) as (f) and substituted “on October 1,1988, and ending on September 30, 1994” for “at the end of the 30-day period referred to in subsection (b)(1) of this section and ending on the last day of the third fiscal year which begins after such 30-day period”.
 
 1988—Pub. L. 100–525, §2(p)(1), made technical amendment to directory language of Pub. L. 99–603, §313(a), which enacted this section.
 
@@ -782,7 +782,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: “Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], as added by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph.”
+Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: “Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], as added by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph. \[Notice published in Federal Register, Nov. 13, 2008, 73 F.R. 67354.\]”
 
 #### Effective Date of 1996 Amendment
 
@@ -864,7 +864,7 @@ Section 405 of Pub. L. 99–603 provided that:
 
 “(a)
 
-Monitoring and Report on the Pilot Program.—The Attorney General and the Secretary of State shall jointly monitor the pilot program established under section 217 of the Immigration and Nationality Act \[8 U.S.C. 1187\] and shall report to the Congress not later than two years after the beginning of the program.
+Monitoring and Report on the Pilot Program.—The Attorney General and the Secretary ofState shall jointly monitor the pilot program established under section 217 of the Immigration and Nationality Act \[8 U.S.C. 1187\] and shall report to the Congress not later than two years after the beginning of the program.
 
 “(b)
 

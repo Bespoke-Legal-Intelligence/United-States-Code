@@ -6,7 +6,7 @@ The judges of the United States district courts and United States magistrate jud
 
 #### (b) Federal law enforcement agents
 
-Enforcement of the provisions of this chapter and the regulations issued pursuant thereto shall be the joint responsibility of the United States Coast Guard, the United States Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities hereunder. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes.
+Enforcement of the provisions of this chapter and the regulations issued pursuant thereto shall be the joint responsibility of the United States Coast Guard, the United States Department of Commerce, and the United States Customs Service. In addition, the Secretary of Commerce may designate officers and employees of the States of the United States, of the Commonwealth of Puerto Rico, and of American Samoa to carry out enforcement activities hereunder.When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes.
 
 #### (c) Execution of process
 
@@ -28,7 +28,7 @@ Such person so authorized may seize, whenever and wherever lawfully found, all f
 
 Notwithstanding the provisions of section 2464 of title 28, when a warrant of arrest or other process in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any fish seized if the process has been levied, on receiving from the claimant of the fish a bond or stipulation for the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction of the offense, conditioned to deliver the fish seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court. In the discretion of the accused, and subject to the direction of the court, the fish may be sold for not less than its reasonable market value and the proceeds of such sale placed in the registry of the court pending judgment in the case.
 
-(Sept. 7, 1950, ch. 907, §10, 64 Stat. 779; Pub. L. 87–814, §5, Oct. 15, 1962, 76 Stat. 925; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Sept. 7, 1950, ch. 907, §10, 64 Stat. 779; Pub. L. 87–814, §5, Oct. 15, 1962, 76 Stat. 925; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Amendments
 

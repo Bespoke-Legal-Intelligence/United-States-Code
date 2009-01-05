@@ -66,7 +66,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Agreement
 
-&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association coveringsuch secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this titleshall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 

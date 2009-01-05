@@ -34,11 +34,17 @@ The Secretary shall prescribe adequate consumer protections and disclosure requi
 
 #### (g) Number of mortgages and loans
 
-The aggregate number of mortgages and loans insured under this section and section 1715z–10(c) of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
+The aggregate number of mortgages and loans insured under this section and section 1715z–10(c) <sup>1</sup> of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
 (June 27, 1934, ch. 847, title II, §252, as added Pub. L. 98–181, title IV, §444, Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(b)(2), Feb. 5, 1988, 101 Stat. 1907.)
+
+#### References in Text
+
+Section 1715z–10(c) of this title, referred to in subsec. (g), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(7), July 30, 2008, 122 Stat. 2835.
 
 #### Amendments
 
 1988—Subsec. (g). Pub. L. 100–242 struck out reference to section 1715z–16 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

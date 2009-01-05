@@ -64,19 +64,19 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
-Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the ‘Nonproliferation Assistance Coordination Act of 2002’.”
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited asthe ‘Nonproliferation Assistance Coordination Act of 2002’.”
 
-#### Utilization of Contributions to Second Line of Defense Program
+#### Utilization of Contributions to International Nuclear Materials Protection and Cooperation Program and Russian Plutonium Disposition Program
 
-Pub. L. 109–364, div. C, title XXXI, §3114, Oct. 17, 2006, 120 Stat. 2505, provided that:
+Pub. L. 109–364, div. C, title XXXI, §3114, Oct. 17, 2006, 120 Stat. 2505, as amended by Pub. L. 110–417, div. C, title XXXI, §3115, Oct. 14, 2008, 122 Stat. 4757, provided that:
 
 “(a)
 
-In General.—The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the Second Line of Defense program of the National Nuclear Security Administration.
+In General.—The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program of the National Nuclear Security Administration.
 
 “(b)
 
-Retention and Use of Amounts.—Notwithstanding section 3302 of title 31, United States Code, the Secretary of Energy may retain and use amounts contributed under an agreement under subsection (a) for purposes of the Second Line of Defense program. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
+Retention and Use of Amounts.—Notwithstanding section 3302 of title 31, United States Code, the Secretary of Energy may retain and use amounts contributed under an agreement under subsection (a) for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation.
 
 “(c)
 
@@ -100,13 +100,15 @@ Annual Report.—Not later than October 31 of each year, the Secretary of Energy
 
 “(f)
 
-Expiration.—The authority to accept, retain, and use contributions under this section expires on December 31, 2013.”
+Expiration.—The authority to accept, retain, and use contributions under this section expires on December 31, 2015.”
 
 #### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
 
 Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission's report was submitted, provided that Commissioners could elect to terminate service, and defined “Commission charter”.
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack and to submit to Congress, not later than Sept. 30, 2007, a final report on the assessment, and provided that the Commmission terminate 30 days after submission of the report.
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack, to coordinate such work with the Department of Homeland Security, and to submit to Congress, not later than Nov. 30, 2008, a final report on the assessment, and provided that the Commission terminate 30 days after submission of the report.
+
+\[Pub. L. 110–181, div. A, title X, §1075(a), Jan. 28, 2008, 122 Stat. 333, which directed amendment of section 1403(a) of Pub. L. 106–398, paraphrased above, by striking “June 30, 2007” and inserting “November 30, 2008”, was treated as substituting “November 30, 2008” for “September 30, 2007” to reflect the probable intent of Congress and the amendment by Pub.L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403.\]
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
@@ -138,7 +140,7 @@ Threat and Risk Assessments.—Assistance to Federal, State, and local agencies 
 
 “(b)
 
-Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisismanagement in response to terrorism involving weapons of mass destruction, shall—
+Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—
 
 &emsp;“(1) conduct any threat and risk assessment performed under subsection (a) in coordination with appropriate Federal, State, and local agencies; and
 

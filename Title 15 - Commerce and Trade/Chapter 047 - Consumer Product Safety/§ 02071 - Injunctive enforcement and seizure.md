@@ -10,7 +10,7 @@ The United States district courts shall have jurisdiction to take the following 
 
 &emsp;(3) Restrain any person from distributing in commerce a product which does not comply with a consumer product safety rule.
 
-> Such actions may be brought by the Commission (without regard to section 2076(b)(7)(A) of this title) or by the Attorney General in any United States district court for a district wherein any act, omission, or transaction constituting the violation occurred, or in such court for the district wherein the defendant is found or transacts business. In any action under this sectionprocess may be served on a defendant in any other district in which the defendant resides or may be found.
+> Such actions may be brought by the Commission (without regard to section 2076(b)(7)(A) of this title) or by the Attorney General in any United States district court for a district wherein any act, omission, or transaction constituting the violation occurred, or in such court for the district wherein the defendant is found or transacts business. In any action under this section process may be served on a defendant in any other district in which the defendant resides or may be found.
 
 #### (b) Products liable to proceeding
 

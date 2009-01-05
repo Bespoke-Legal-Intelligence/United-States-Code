@@ -28,7 +28,7 @@ The Secretary shall provide, by regulation, for the registration of all persons 
 
 &emsp;(F) such other information as the Secretary deems necessary to carry out the purposes of this chapter.
 
-> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to suchbusiness, the person otherwise required to register under this section is in a control relationship.
+> Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
 (2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
 

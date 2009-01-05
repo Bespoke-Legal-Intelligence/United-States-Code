@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(i) is licensed or otherwise authorized by the State where such smokeless tobacco is found to engage in the business of selling or distributing tobacco products; and
 
-&emsp;&emsp;&emsp;(ii) has complied with the accounting, tax, and payment requirements relating tosuch license or authorization with respect to such smokeless tobacco; or
+&emsp;&emsp;&emsp;(ii) has complied with the accounting, tax, and payment requirements relating to such license or authorization with respect to such smokeless tobacco; or
 
 &emsp;&emsp;(D) an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; <sup>2</sup>
 

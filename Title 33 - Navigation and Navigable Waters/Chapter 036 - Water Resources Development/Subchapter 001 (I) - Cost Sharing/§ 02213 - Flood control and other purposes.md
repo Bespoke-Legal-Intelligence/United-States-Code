@@ -148,7 +148,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a projectfor navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
@@ -226,7 +226,7 @@ Subsec. (c)(7). Pub. L. 104–303, §210(a), added par. (7).
 
 Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end “For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract.”
 
-Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
+Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary.”
 
 1992—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted “Except as provided under section 2283(c) of this title, the non-Federal” for “The non-Federal”.
 
@@ -266,7 +266,7 @@ Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[
 
 “(B)
 
-Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendmentmade by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
+Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
 “(C)
 

@@ -14,7 +14,7 @@
 
 (e) Each participating qualified company shall maintain accounting records that contain such information and reports as the Office may require.
 
-(f)(1) The Employee Health Benefits Fund is available, without fiscal year limitation, forreasonable expenses incurred by the Office in administering this chapter before the first day of the first contract period, including reasonable implementation costs.
+(f)(1) The Employee Health Benefits Fund is available, without fiscal year limitation, for reasonable expenses incurred by the Office in administering this chapter before the first day of the first contract period, including reasonable implementation costs.
 
 (2)(A) There is established in the Employees Health Benefits Fund a Dental Benefits Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start of the first contract year.
 

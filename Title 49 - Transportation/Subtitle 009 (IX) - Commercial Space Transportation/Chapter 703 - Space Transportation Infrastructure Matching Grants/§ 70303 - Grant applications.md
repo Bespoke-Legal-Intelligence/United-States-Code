@@ -20,7 +20,7 @@ Considerations and Consultation.—(1) In selecting proposed projects for grants
 
 &emsp;(F) the impact of the project on launch operations and other activities at Government launch ranges.
 
-(2) The Secretary of Transportation shall consult with the Secretary of Defense, the Administrator of the National Space and AeronauticsAdministration, and the heads of other appropriate agencies of the Government about paragraph (1)(A) and (F) of this subsection.
+(2) The Secretary of Transportation shall consult with the Secretary of Defense, the Administrator of the National Space and Aeronautics Administration, and the heads of other appropriate agencies of the Government about paragraph (1)(A) and (F) of this subsection.
 
 (c)
 
@@ -80,7 +80,7 @@ Nov. 4, 1992, Pub. L. 102–588, §505(c), (d), 106 Stat. 5125.
 
 15:5804(c)(3).
 
-In subsection (a), the words “for one or more projects” are omitted as unnecessary because of the definition of “project” in section 70301 of the revised title.
+In subsection (a), the words “for one or more projects” are omitted as unnecessary because of thedefinition of “project” in section 70301 of the revised title.
 
 In subsection (c)(5), the words “as proposed” are omitted as surplus.
 

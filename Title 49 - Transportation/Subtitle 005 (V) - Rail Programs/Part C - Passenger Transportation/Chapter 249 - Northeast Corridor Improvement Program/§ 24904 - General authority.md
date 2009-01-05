@@ -26,11 +26,11 @@ Compensatory Agreements.—Rail freight and commuter rail passenger transportati
 
 Compensation for Transportation Over Certain Rights of Way and Facilities.—(1) An agreement under subsection (a)(6) of this section shall provide for reasonable reimbursement of costs but may not cross-subsidize intercity rail passenger, commuter rail passenger, and rail freight transportation.
 
-(2) If the parties do not agree, the Interstate Commerce Commission shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Commission shall assign to a rail freight carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
+(2) If the parties do not agree, the Interstate Commerce Commission shall order that the transportation continue over facilities acquired under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) and the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) and shall determine compensation (without allowing cross-subsidization between commuter rail passenger and intercity rail passenger and rail freight transportation) for the transportation not later than 120 days after the dispute is submitted. The Commission shall assign to a rail carrier obtaining transportation under this subsection the costs Amtrak incurs only for the benefit of the carrier, plus a proportionate share of all other costs of providing transportation under this paragraph incurred for the common benefit of Amtrak and the carrier. The proportionate share shall be based on relative measures of volume of car operations, tonnage, or other factors that reasonably reflect the relative use of rail property covered by this subsection.
 
 (3) This subsection does not prevent the parties from making an agreement under subsection (a)(6) of this section after the Commission makes a decision under this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 934; Pub. L. 103–429, §6(22), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–134, title IV, §405(b)(2), Dec. 2, 1997, 111 Stat. 2586.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 934; Pub. L. 103–429, §6(22), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–134, title IV, §405(b)(2), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §212(b)(2), Oct. 16, 2008, 122 Stat. 4924.)
 
 Historical and Revision Notes
 
@@ -135,6 +135,8 @@ The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 #### Amendments
+
+2008—Subsec. (c)(2). Pub. L. 110–432 inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
 
 1997—Subsec. (a)(6) to (8). Pub. L. 105–134 inserted “and” at end of par. (6), substituted a period for “; and” at end of par. (7), and struck out par. (8) which read as follows: “make agreements with telecommunications common carriers, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.), to continue existing, and establish new and improved, passenger radio mobile telephone service in the high-speed rail passenger transportation area specified in section 24902(a)(1) and (2).”
 

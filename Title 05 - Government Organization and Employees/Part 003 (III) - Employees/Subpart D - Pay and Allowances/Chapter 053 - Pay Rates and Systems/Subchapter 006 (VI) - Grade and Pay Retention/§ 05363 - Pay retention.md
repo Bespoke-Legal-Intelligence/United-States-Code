@@ -12,7 +12,7 @@
 
 > is entitled to a rate of basic pay in accordance with regulations prescribed by the Office of Personnel Management in conformity with the provisions of this section.
 
-(b)(1)(A) If, as a result of any event described in subsection (a), the employee's former rate of basic pay is less than or equal to the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at the lowest rate of basic pay payable for such grade that equals or exceeds such former rate of basic pay.
+(b)(1)(A) If, as a result of any event described in subsection (a), the employee's former rate ofbasic pay is less than or equal to the maximum rate of basic pay payable for the grade of the employee's position immediately after the occurrence of the event involved, the employee is entitled to basic pay at the lowest rate of basic pay payable for such grade that equals or exceeds such former rate of basic pay.
 
 (B) This section shall cease to apply to an employee to whom subparagraph (A) applies once the appropriate rate of basic pay has been determined for such employee under this paragraph.
 
@@ -76,13 +76,13 @@ Subsecs. (b) to (e). Pub. L. 108–411, §301(a)(5)(B), added subsecs. (b) to (e
 
 &emsp;“(1) has a break in service of one workday or more;
 
-&emsp;“(2) is entitled by operation of this subchapter or chapter 51 or 53 of this title to a rate of basic paywhich is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the rate to which the employee is entitled under this section; or
+&emsp;“(2) is entitled by operation of this subchapter or chapter 51 or 53 of this title to a rate of basic pay which is equal to or higher than, or declines a reasonable offer of a position the rate of basic pay for which is equal to or higher than, the rate to which the employee is entitled under this section; or
 
 &emsp;“(3) is demoted for personal cause or at the employee's request.”
 
 1993—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
 
-1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
+1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision ofthis title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
 
 #### Effective Date of 2004 Amendment
 

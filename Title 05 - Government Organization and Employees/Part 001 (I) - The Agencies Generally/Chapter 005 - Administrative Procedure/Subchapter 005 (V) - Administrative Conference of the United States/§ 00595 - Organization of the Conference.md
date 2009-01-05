@@ -2,7 +2,7 @@
 
 (a) The membership of the Administrative Conference of the United States meeting in plenary session constitutes the Assembly of the Conference. The Assembly has ultimate authority over all activities of the Conference. Specifically, it has the power to—
 
-&emsp;(1) adopt such recommendations as it considers appropriate for improving administrative procedure. A member who disagrees with a recommendation adopted by the Assembly isentitled to enter a dissenting opinion and an alternate proposal in the record of the Conference proceedings, and the opinion and proposal so entered shall accompany the Conference recommendation in a publication or distribution thereof; and
+&emsp;(1) adopt such recommendations as it considers appropriate for improving administrative procedure. A member who disagrees with a recommendation adopted by the Assembly is entitled to enter a dissenting opinion and an alternate proposal in the record of the Conference proceedings, and the opinion and proposal so entered shall accompany the Conference recommendation in a publication or distribution thereof; and
 
 &emsp;(2) adopt bylaws and regulations not inconsistent with this subchapter for carrying out the functions of the Conference, including the creation of such committees as it considers necessary for the conduct of studies and the development of recommendations for consideration by the Assembly.
 
@@ -58,7 +58,7 @@
 
 &emsp;(16) request any administrative agency to notify the Chairman of its intent to enter into any contract with any person outside the agency to study the efficiency, adequacy, or fairness of an agency proceeding (as defined in section 551(12) of this title).
 
-> The Chairman shall preside at meetings of the Council and at each plenary session of the Conference, to which he shall make a full report concerning the affairs of the Conference sincethe last preceding plenary session. The Chairman, on behalf of the Conference, shall transmit to the President and Congress an annual report and such interim reports as he considers desirable.
+> The Chairman shall preside at meetings of the Council and at each plenary session of the Conference, to which he shall make a full report concerning the affairs of the Conference since the last preceding plenary session. The Chairman, on behalf of the Conference, shall transmit to the President and Congress an annual report and such interim reports as he considers desirable.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, §575; Pub. L. 92–526, §1, Oct. 21, 1972, 86 Stat. 1048; Pub. L. 97–258, §3(a)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 101–422, §3, Oct. 12, 1990, 104 Stat. 910; renumbered §595, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944.)
 

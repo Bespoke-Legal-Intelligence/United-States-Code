@@ -64,7 +64,7 @@ An institution of higher education desiring a grant under this section shall pre
 
 #### (f) Reports
 
-For each fiscal year that grants are awarded under this section, the Secretary shall conduct astudy on the results of the grants and submit to the Congress a report on such results that includes the following:
+For each fiscal year that grants are awarded under this section, the Secretary shall conduct a study on the results of the grants and submit to the Congress a report on such results that includes the following:
 
 &emsp;(1) An evaluation of the grant program outcomes, including a summary of activities carried out with the grant and the results achieved through those activities.
 

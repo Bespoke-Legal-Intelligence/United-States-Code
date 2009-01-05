@@ -94,7 +94,7 @@ Use of apportioned funds.—Except as provided in paragraph (3)—
 
 Exceptions.—A State may use funds apportioned under paragraphs (1)(B) and (1)(C)—
 
-&emsp;&emsp;(A) for projects serving areas other than the area specified in paragraph (2)(B) or (2)(C), as the case may be, if the Governor of the State certifies that all of the objectivesof this section are being met in the specified area; or
+&emsp;&emsp;(A) for projects serving areas other than the area specified in paragraph (2)(B) or (2)(C), as the case may be, if the Governor of the State certifies that all of the objectives of this section are being met in the specified area; or
 
 &emsp;&emsp;(B) for projects anywhere in the State if the State has established a statewide program for meeting the objectives of this section.
 

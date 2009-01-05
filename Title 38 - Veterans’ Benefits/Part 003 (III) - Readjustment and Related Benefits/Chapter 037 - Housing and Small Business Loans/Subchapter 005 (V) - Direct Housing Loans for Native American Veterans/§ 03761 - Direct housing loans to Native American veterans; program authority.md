@@ -28,7 +28,7 @@ Pub. L. 102–547, §8(b), Oct. 28, 1992, 106 Stat. 3640, which required the Sec
 
 #### Annual Reports on Pilot Program
 
-Pub. L. 102–547, §8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repealby Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Pub. L. 102–547, §8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of Veterans Affairs to transmit report relating to implementation of Native American veterans direct housing loan pilot program established under this subchapter to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Feb. 1 of each of years 1994 through 1998, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 

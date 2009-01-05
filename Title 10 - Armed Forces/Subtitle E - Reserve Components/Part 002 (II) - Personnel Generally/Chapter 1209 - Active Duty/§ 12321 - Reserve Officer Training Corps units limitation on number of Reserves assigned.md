@@ -10,7 +10,7 @@ The number of members of the reserve components serving on active duty or full-t
 
 1993—Pub. L. 103–160 substituted “may not exceed 275” for “may not exceed 200”.
 
-1992—Pub. L. 102–484 substituted “The number of members of the reserve components” for “A member of a reserve component”, “who are assigned” for “may not be assigned”, and “may not exceed 200.” for period at end.
+1992—Pub. L. 102–484 substituted “The number of members of the reserve components” for “A member ofa reserve component”, “who are assigned” for “may not be assigned”, and “may not exceed 200.” for period at end.
 
 1991—Pub. L. 102–190 substituted “Corps” for “Corp” in section catchline.
 

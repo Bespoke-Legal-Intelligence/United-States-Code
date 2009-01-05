@@ -22,7 +22,7 @@
 
 #### (C) Net capital gain not taken into account in determining small life insurance company deduction
 
-&emsp;&emsp;For purposes of subparagraph (B)(i), the amount allowable as a deduction under paragraph (2) of section 804 shall be determined by reducing the tentative LICTI by the amount of the net capital gain (determined without regard to items attributable to noninsurance businesses).
+&emsp;&emsp;For purposes of subparagraph (B)(i), the amount allowable as a deduction under paragraph (2) of section 804 shall be determinedby reducing the tentative LICTI by the amount of the net capital gain (determined without regard to items attributable to noninsurance businesses).
 
 #### (b) Life insurance company taxable income
 
@@ -40,7 +40,7 @@ For purposes of this part, the term “life insurance company taxable income” 
 
 #### Prior Provisions
 
-A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, §3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, §121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, §2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, §1505(a), title XIX, §§1901(c)(6), 1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, §703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 816 of this title.
+A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, §3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, §121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, §2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, §1505(a), title XIX, §§1901(c)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, §703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 816 of this title.
 
 Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 36, contained provisions similar to this section, prior to the the general revision of this part by Pub. L. 86–69, §2(a).
 
@@ -92,7 +92,7 @@ Section 1011(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 “(1)
 
-In general.—Notwithstanding the amendments made by subtitle B of title III \[amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the Internal Revenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
+In general.—Notwithstanding the amendments made by subtitle B of title III \[amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the InternalRevenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
 
 “(2)
 
@@ -104,7 +104,7 @@ Section 1829 of Pub. L. 99–514 provided that: “No interest shall be payable 
 
 #### Scope of Section 255 of the Tax Equity and Fiscal Responsibility Act of 1982
 
-Section 1830 of Pub. L. 99–514 provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerlyset out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
+Section 1830 of Pub. L. 99–514 provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
 
 #### Treatment of Certain Self-Insured Workers’ Compensation Funds
 
@@ -280,7 +280,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;“(i) if the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, that the reinsurer would have taken into account under section 810(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) exceeds the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, taken into account by the reinsurer under section 807(c) of the Internal Revenue Code of 1986 (as amended by this subtitle), such excess (but not greater than the amount of such excess if computed on January 1, 1984) shall be taken into account by the reinsurer under the method described in section 807(f)(1)(B)(ii) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture, and
 
-&emsp;&emsp;“(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
+&emsp;&emsp;“(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part Iof subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
 > &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term ‘reinsurer’ refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term ‘reinsured’ refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 

@@ -1,6 +1,6 @@
 ### §162. Offenses and penalties
 
-Any person who shall willfully resist, prevent, impede, or interfere with any member of the Board or any of its agents or agencies in the performance of duties pursuant to this subchapter shall be punished by a fine of not more than$5,000 or by imprisonment for not more than one year, or both.
+Any person who shall willfully resist, prevent, impede, or interfere with any member of the Board or any of its agents or agencies in the performance of duties pursuant to this subchapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
 (July 5, 1935, ch. 372, §12, 49 Stat. 456; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151.)
 

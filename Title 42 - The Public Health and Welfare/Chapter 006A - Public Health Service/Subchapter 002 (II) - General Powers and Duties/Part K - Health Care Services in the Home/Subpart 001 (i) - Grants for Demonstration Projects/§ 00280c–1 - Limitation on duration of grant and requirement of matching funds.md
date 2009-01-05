@@ -6,7 +6,7 @@ The period during which payments are made to a State from a grant under section 
 
 #### (b) Requirement of matching funds
 
-(1)(A) For the first year of payments to a State from a grant under section 280c(a) of this title, the Secretary may not make such payments in an amount exceeding 75 percent of the costs of services to be provided by the State pursuant to such section.
+(1)(A) For the first year of payments to a State from a grant under section 280c(a) of thistitle, the Secretary may not make such payments in an amount exceeding 75 percent of the costs of services to be provided by the State pursuant to such section.
 
 (B) For the second year of such payments to a State, the Secretary may not make such payments in an amount exceeding 65 percent of the costs of such services.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish, within the Division of Student Assistance of the Bureau of Health Professions, an office to be known as theOffice for Health Education Assistance Loan Default Reduction (in this section referred to as the “Office”).
+The Secretary shall establish, within the Division of Student Assistance of the Bureau of Health Professions, an office to be known as the Office for Health Education Assistance Loan Default Reduction (in this section referred to as the “Office”).
 
 #### (b) Purpose and functions
 
@@ -32,7 +32,7 @@ In conjunction with the report submitted under subsection (b) of this section, t
 
 #### (d) Allocation of funds for Office
 
-In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
+In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect tosuch purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
 
 (July 1, 1944, ch. 373, title VII, §709, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2006; amended Pub. L. 105–392, title I, §141(b), Nov. 13, 1998, 112 Stat. 3579.)
 

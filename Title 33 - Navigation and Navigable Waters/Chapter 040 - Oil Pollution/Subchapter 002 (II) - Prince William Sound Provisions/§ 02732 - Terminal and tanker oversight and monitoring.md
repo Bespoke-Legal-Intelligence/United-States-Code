@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(A) provide advice and recommendations to the Association on policies, permits, and site-specific regulations relating to the operation and maintenance of terminal facilities and crude oil tankers which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operationof the terminal facilities and crude oil tankers;
+&emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operation of the terminal facilities and crude oil tankers;
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities’ and crude oil tankers’ operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 

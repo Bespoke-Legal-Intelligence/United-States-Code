@@ -80,7 +80,7 @@ Purpose of Study.—The purpose of the study is—
 
 Report.—The National Space Council shall, within one year after the date of the enactment of this Act \[Nov. 16, 1990\], prepare and submit to Congress a report—
 
-&emsp;“(1) outlining a preliminary strategy for cooperation among the United States, the Soviet Union, European countries, Canada, Japan, and other interested countries, based on their respective national strengths, with respect to unmanned projects beyond Earth orbit, in anticipation of later international manned missions to the Moon and to other bodies, including the possible goal of an international manned mission to Mars;
+&emsp;“(1) outlining a preliminary strategy for cooperation among the United States, the Soviet Union, European countries, Canada, Japan, and other interested countries, based on their respective national strengths, with respect to unmanned projects beyondEarth orbit, in anticipation of later international manned missions to the Moon and to other bodies, including the possible goal of an international manned mission to Mars;
 
 &emsp;“(2) including a conceptual design of a possible international manned mission, in coordination with the preliminary strategy referred to in paragraph (1), with target dates and a breakdown of responsibilities by nation;
 

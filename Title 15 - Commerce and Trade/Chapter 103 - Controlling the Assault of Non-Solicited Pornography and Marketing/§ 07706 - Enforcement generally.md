@@ -42,7 +42,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 #### (d) Actions by the Commission
 
-The Commission shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter.Any entity that violates any provision of that subtitle <sup>1</sup> is subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of that subtitle.<sup>1</sup>
+The Commission shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates any provision of that subtitle <sup>1</sup> is subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of that subtitle.<sup>1</sup>
 
 #### (e) Availability of cease-and-desist orders and injunctive relief without showing of knowledge
 
@@ -70,7 +70,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying thenumber of violations (with each separately addressed unlawful message received by or addressed to such residents treated as a separate violation) by up to $250.
 
 #### (B) Limitation
 

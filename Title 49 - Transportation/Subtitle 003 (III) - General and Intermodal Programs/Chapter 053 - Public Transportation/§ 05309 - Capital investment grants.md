@@ -28,7 +28,7 @@ New fixed guideway capital project.—The term “new fixed guideway capital pro
 
 General Authority.—The Secretary may make grants under this section to assist State and local governmental authorities in financing—
 
-&emsp;(1) new fixed guideway capital projects under subsections (d) and (e), including the acquisition of real property, the initial acquisition of rolling stock for the systems, the acquisition of rights-of-way, and relocation, for fixed guideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
+&emsp;(1) new fixed guideway capital projects under subsections (d) and (e), including the acquisition of real property, the initial acquisition of rolling stock for the systems, the acquisition of rights-of-way, and relocation, for fixedguideway corridor development for projects in the advanced stages of alternatives analysis or preliminary engineering;
 
 &emsp;(2) capital projects to modernize existing fixed guideway systems;
 
@@ -174,7 +174,7 @@ Project advancement.—A proposed project under this subsection shall not advanc
 
 &emsp;&emsp;(B)
 
-Ratings.—In making a determination under subparagraph (A), the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on the results of the alternatives analysis, the project justification criteria, and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by regulation.
+Ratings.—In making a determination under subparagraph (A), the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on the results of the alternatives analysis, the project justification criteria, and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria <sup>1</sup> in calculating the overall project rating.
 
 &emsp;(6)
 
@@ -262,7 +262,7 @@ General rule.—A proposed project under this subsection may advance from planni
 
 &emsp;&emsp;(B)
 
-Evaluation.—In making the findings under subparagraph (A), the Secretary shall evaluate and rate the project as high, medium-high, medium, medium-low, or low based on the results of the analysis of the project justification criteria and the degree of local financial commitment, as required by this subsection.
+Evaluation.—In making the findings under subparagraph (A), the Secretary shall evaluate and rate the project as high, medium-high, medium, medium-low, or low based on the results of the analysis of the project justification criteria and the degree of local financial commitment, as required by this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria <sup>1</sup> in calculating the overall project rating.
 
 &emsp;(7)
 
@@ -408,7 +408,7 @@ Contents.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
+In general.—A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for whichspecifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -436,7 +436,7 @@ Other contingent commitment authority.—The total estimated amount of future ob
 
 &emsp;&emsp;(C)
 
-Inclusion of certain commitments.—Future obligations of the Government and contingent commitments made against the contingent commitment authority under section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991 (106 Stat. 2125) <sup>1</sup> for the San Francisco BART to the Airport project for fiscal years 2002, 2003, 2004, 2005, and 2006 shall be charged against section 3032(g)(2) of that Act.
+Inclusion of certain commitments.—Future obligations of the Government and contingent commitments made against the contingent commitment authority under section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991 (106 Stat. 2125) <sup>2</sup> for the San Francisco BART to the Airport project for fiscal years 2002, 2003, 2004, 2005, and 2006 shall be charged against section 3032(g)(2) of that Act.
 
 &emsp;&emsp;(D)
 
@@ -582,7 +582,7 @@ Considerations.—In making comparisons under subparagraph (B), the Secretary sh
 
 &emsp;(3)
 
-Contractor performance incentive report.—Not later than 180 days after the enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit to the committees referred to in subsection (k)(1) a report on the suitability of allowing contractors to public transportation agencies that undertake new fixed guideway capital projectsunder this section to receive performance incentive awards if a project is completed for less than the original estimated cost.
+Contractor performance incentive report.—Not later than 180 days after the enactment of the Federal Public Transportation Act of 2005, the Secretary shall submit to the committees referred to in subsection (k)(1) a report on the suitability of allowing contractors to public transportation agencies that undertake new fixed guideway capital projects under this section to receive performance incentive awards if a project is completed for less than the original estimated cost.
 
 (m)
 
@@ -604,7 +604,7 @@ Fiscal years 2006 through 2009.—The amounts made available or appropriated for
 
 &emsp;&emsp;(A)
 
-Major capital investment grants.—Of the amounts appropriated under section 5338(c)—
+Capital investment grants.—Of the amounts appropriated under section 5338(c)—
 
 &emsp;&emsp;&emsp;(i) $200,000,000 for each of fiscal years 2007 through 2009 shall be allocated for projects for new fixed guideway capital projects of less than $75,000,000 in accordance with subsection (e); and
 
@@ -654,7 +654,7 @@ Ferry boat systems.—$10,000,000 shall be available in each of fiscal years 200
 
 &emsp;&emsp;&emsp;(iii) $1,000,000 for the Camden, New Jersey Ferry System.
 
-&emsp;&emsp;&emsp;(iv) $1,000,000 for the Governor's Island, New York Ferry System <sup>2</sup>
+&emsp;&emsp;&emsp;(iv) $1,000,000 for the Governor's Island, New York Ferry System <sup>3</sup>
 
 &emsp;&emsp;&emsp;(v) $1,000,000 for the Philadelphia Penn's Landing Ferry Terminal.
 
@@ -666,7 +666,7 @@ Ferry boat systems.—$10,000,000 shall be available in each of fiscal years 200
 
 &emsp;&emsp;(B)
 
-Fuel cell bus program.—The following amounts shall be set aside for the national fuel cell bus technology development program under section 3039 of the Federal Public Transportation Act of 2005: <sup>1</sup>
+Fuel cell bus program.—The following amounts shall be set aside for the national fuel cell bus technology development program under section 3045 of the Federal Public Transportation Act of 2005:
 
 &emsp;&emsp;&emsp;(i) $11,250,000 for fiscal year 2006.
 
@@ -682,7 +682,7 @@ Projects not in urbanized areas.—Not less than 5.5 percent shall be available 
 
 &emsp;&emsp;(D)
 
-Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscal year for intermodal terminal projects, including the intercity bus portion of such projects.
+Intermodal terminals.—Not less than $35,000,000 shall be available in each fiscalyear for intermodal terminal projects, including the intercity bus portion of such projects.
 
 &emsp;&emsp;(E)
 
@@ -692,7 +692,7 @@ Bus testing.—$3,000,000 shall be available in each fiscal year for bus testing
 
 Bus and bus facility grant considerations.—In making grants under paragraphs (1)(C) and (2)(C), the Secretary shall consider the age and condition of buses, bus fleets, related equipment, and bus-related facilities.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356,1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610.)
 
 Historical and Revision Notes
 
@@ -924,9 +924,17 @@ The Federal Public Transportation Act of 2005, referred to in subsec. (k)(1)(B),
 
 Section 307(e) of the Denali Commission Act of 1998, referred to in subsec. (m)(6)(C), is section 307(e) of title III of div. C of Pub. L. 105–277, which is set out as a note under section 3121 of Title 42, The Public Health and Welfare.
 
-Section 3039 of the Federal Public Transportation Act of 2005, referred to in subsec. (m)(7)(B), probably means section 3045 of Pub. L. 109–59, which relates to a national fuel cell bus technology development program and is set out as a note under section 5308 of this title.
+Section 3045 of the Federal Public Transportation Act of 2005, referred to in subsec. (m)(7)(B), is section 3045 of Pub. L. 109–59, which is set out as a note under section 5308 of this title.
 
 #### Amendments
+
+2008—Subsec. (d)(5)(B). Pub. L. 110–244, §201(d)(1), substituted “this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “regulation.”
+
+Subsec. (e)(6)(B). Pub. L. 110–244, §201(d)(2), substituted “subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “subsection.”
+
+Subsec. (m)(2)(A). Pub. L. 110–244, §201(d)(3), substituted “Capital” for “Major capital” in heading.
+
+Subsec. (m)(7)(B). Pub. L. 110–244, §201(d)(4), substituted “section 3045” for “section 3039” in introductory provisions.
 
 2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
 
@@ -1022,7 +1030,7 @@ Pub. L. 108–263, §7(a)(1)(A), (D), substituted “July 31, 2004” for “Jun
 
 Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting “2003, and ending on June 30, 2004, during which $452,713,140 will be available” for “2003 and ending on April 30, 2004, during which $352,110,220 will be available”, to reflect the probable intent of Congress.
 
-Pub. L. 108–202, §9(a)(1)(D), inserted “, except for the period beginning on October 1, 2003 and ending on April30, 2004, during which $352,110,220 will be available” after “facilities”.
+Pub. L. 108–202, §9(a)(1)(D), inserted “, except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available” after “facilities”.
 
 Subsec. (m)(2)(B)(i). Pub. L. 108–280, §7(a)(2)(A), substituted “2004” for “2003”.
 
@@ -1146,6 +1154,14 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
+#### Transit Tunnels
+
+Pub. L. 110–244, title II, §201(p), June 6, 2008, 122 Stat. 1615, provided that: “In carrying out section 5309(d)(3)(D) of title 49, United States Code, the Secretary of Transportation shall specifically analyze, evaluate, and consider—
+
+&emsp;“(1) the congestion relief, improved mobility, and other benefits of transit tunnels in those projects which include a transit tunnel; and
+
+&emsp;“(2) the associated ancillary and mitigation costs necessary to relieve congestion, improve mobility, and decrease air and noise pollution in those projects which do not include a transit tunnel, but where a transit tunnel was one of the alternatives analyzed.”
+
 #### Public-Private Partnership Pilot Program
 
 Pub. L. 109–59, title III, §3011(c), Aug. 10, 2005, 119 Stat. 1588, provided that:
@@ -1224,7 +1240,9 @@ Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by
 
 Pub. L. 91–453, §10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, provided that: “The Secretary of Transportation shall in all ways (including the provision of technical assistance) encourage industries adversely affected by reductions in Federal Government spending on space, military, and other Federal projects to compete for the contracts provided for under sections 3 and 6 of the Federal Transit Act (49 U.S.C. 1602 and 1605) \[now 49 U.S.C. 5309 and 5312\], as amended by this Act.”
 
-<i><sup>1</sup></i><i> See References in text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “criterion”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>2</sup></i><i> See References in text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

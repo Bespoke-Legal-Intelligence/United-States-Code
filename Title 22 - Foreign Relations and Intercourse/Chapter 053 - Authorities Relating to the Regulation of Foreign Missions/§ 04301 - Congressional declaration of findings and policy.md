@@ -36,7 +36,7 @@ Pub. L. 100–204, title I, §133, Dec. 22, 1987, 101 Stat. 1344, provided that:
 
 “(a)
 
-Finding.—Congress finds that the United States Department of State, on September 15, 1987, declared itself to be a temporary foreign diplomatic mission for the purpose of denying free speech to American citizens who planned to protest the tyranny of the Soviet regime.
+Finding.—Congress finds that the United States Department of State, on September 15, 1987, declared itself to be a temporary foreign diplomatic mission forthe purpose of denying free speech to American citizens who planned to protest the tyranny of the Soviet regime.
 
 “(b)
 

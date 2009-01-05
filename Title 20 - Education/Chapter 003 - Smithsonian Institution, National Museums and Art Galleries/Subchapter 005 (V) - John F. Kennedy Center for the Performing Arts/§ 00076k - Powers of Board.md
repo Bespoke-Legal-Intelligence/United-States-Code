@@ -2,13 +2,13 @@
 
 #### (a) Solicitation and acceptance of gifts
 
-The Board is authorized to solicit and accept for the John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution, and to hold and administer gifts, bequests, or devises of money, securities, or other property of whatsoever character for the benefit of the John F. Kennedy Center for the Performing Arts. Unless otherwise restricted by the terms of the gift, bequest, or devise, the Board is authorized to sell or exchange and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property composing trust funds given, bequeathed, or devised to or for the benefit of the John F. Kennedy Center for the Performing Arts. The income as and when collected shall be placed in such depositaries as the Board shall determine and shall be subject to expenditure by the Board.
+The Board is authorized to solicit and accept for the John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution, and to hold and administer gifts, bequests, or devises of money, securities, or other property of whatsoever character for the benefit of the John F. Kennedy Center for the Performing Arts. Unless otherwise restricted by the terms of the gift, bequest, or devise, the Board is authorized to sell or exchange and to invest or reinvest in such investments as it may determine from time to time the moneys, securities, or other property composing trust funds given, bequeathed, or devised to or for the benefit of the John F. Kennedy Center for the Performing Arts. The income as and when collected shall beplaced in such depositaries as the Board shall determine and shall be subject to expenditure by the Board.
 
 #### (b) Appointment of officers and employees
 
 #### (1) Chairperson and Secretary
 
-&emsp;The Board shall appoint and fix the compensation and duties of a Chairperson of theJohn F. Kennedy Center for the Performing Arts, who shall serve as the chief executive officer of the Center, and a Secretary of the John F. Kennedy Center for the Performing Arts. The Chairperson and Secretary shall be well qualified by experience and training to perform the duties of their respective offices.
+&emsp;The Board shall appoint and fix the compensation and duties of a Chairperson of the John F. Kennedy Center for the Performing Arts, who shall serve as the chief executive officer of the Center, and a Secretary of the John F. Kennedy Center for the Performing Arts. The Chairperson and Secretary shall be well qualified by experience and training to perform the duties of their respective offices.
 
 #### (2) Senior level executive and other employees
 
@@ -72,11 +72,11 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) of this title, the Board shall develop plans and carry out projects to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
-(Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
+(Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub.L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
 
 #### References in Text
 
-The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and76s of this title, amended this section, sections 76h, 76j, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.
+The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.
 
 The provisions relating to the Federal competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 

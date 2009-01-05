@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) a written plan of quality assurance and improvement, and procedures implementing such plan, in accordance with regulations, and
 
-&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this subchapter and Federal and State law designed for the protection of patients.
+&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations andwith other requirements of this subchapter and Federal and State law designed for the protection of patients.
 
 #### (3) Treatment of medicare services furnished by noncontract physicians and other entities
 
@@ -154,7 +154,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The requirement of annual reevaluation under subparagraph (A) may be waived during a period in accordance with regulations in those cases in which the State administering agency determines that there is noreasonable expectation of improvement or significant change in an individual's condition during the period because of the severity of chronic condition, or degree of impairment of functional capacity of the individual involved.
+&emsp;&emsp;The requirement of annual reevaluation under subparagraph (A) may be waived during a period in accordance with regulations in those cases in which the State administering agency determines that there is no reasonable expectation of improvement or significant change in an individual's condition during the period because of the severity of chronic condition, or degree of impairment of functional capacity of the individual involved.
 
 #### (4) Continuation of eligibility
 
@@ -308,7 +308,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the provider has failed to comply substantially with conditions for a program or provider under this section or section 1395eee of this title; and
 
-&emsp;&emsp;&emsp;(ii) the entity has failed to develop and successfully initiate, within 30 days of the date of the receipt of written notice ofsuch a determination, a plan to correct the deficiencies, or has failed to continue implementation of such a plan.
+&emsp;&emsp;&emsp;(ii) the entity has failed to develop and successfully initiate, within 30 days of the date of the receipt of written notice of such a determination, a plan to correct the deficiencies, or has failed to continue implementation of such a plan.
 
 #### (C) Termination and transition procedures
 
@@ -390,7 +390,7 @@
 
 #### (g) Waivers of requirements
 
-With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
+With respect to carrying out a PACE program under this section, the following requirementsof this subchapter (and regulations relating to such requirements) shall not apply:
 
 &emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
 
@@ -438,7 +438,7 @@ The Balanced Budget Act of 1997, referred to in subsecs. (a)(3)(B)(ii) and (g)(5
 
 Section 603(c) of the Social Security Amendments of 1983, referred to in subsec. (a)(7)(A), is section 603(c) of Pub. L. 98–21, title VI, Apr. 20, 1983, 97 Stat. 168, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
-Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec.\(a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
+Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
 Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 

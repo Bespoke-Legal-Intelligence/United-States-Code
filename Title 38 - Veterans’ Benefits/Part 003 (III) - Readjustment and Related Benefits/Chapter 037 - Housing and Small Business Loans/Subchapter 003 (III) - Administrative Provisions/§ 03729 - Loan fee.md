@@ -22,7 +22,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2011) | 2\.15 | 2\.40 | NA |
 |  |  |  |  |
-| (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.40 | 1\.65 | NA |
+| \(A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.40 | 1\.65 | NA |
 |  |  |  |  |
 | (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before January 1, 2004) | 3\.00 | 3\.00 | NA |
 |  |  |  |  |
@@ -30,7 +30,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011 and before October 1, 2013) | 2\.15 | 2\.15 | NA |
 |  |  |  |  |
-| \(B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2013 ) | 1\.25 | 1\.25 | NA |
+| (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2013 ) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
 | (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) | 1\.50 | 1\.75 | NA |
 |  |  |  |  |
@@ -46,7 +46,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1\.00 | 1\.00 | NA |
 |  |  |  |  |
-| (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
+| \(H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
 | (I) Loan assumption under section 3714 | 0\.50 | 0\.50 | 0\.50 |
 |  |  |  |  |
@@ -240,7 +240,7 @@ Section 15(b) of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Au
 
 For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out this section during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of this title.
 
-For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out this section during the period beginning Oct. 1, 1989, and ending Oct. 6,1989, see section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of this title.
+For provisions ratifying any actions of the Secretary of Veterans Affairs in carrying out this section during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989, see section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of this title.
 
 #### Rule for Construction of Duplicate Provisions
 

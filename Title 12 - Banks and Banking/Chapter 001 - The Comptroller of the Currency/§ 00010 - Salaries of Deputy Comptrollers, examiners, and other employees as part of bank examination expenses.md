@@ -1,6 +1,6 @@
 ### §10. Salaries of Deputy Comptrollers, examiners, and other employees as part of bank examination expenses
 
-The salaries of the Deputy Comptrollers and of all national bank examiners and assistant examiners assigned to duty in the office of the bureau in Washington in connection with the supervision of national banks shall be considered part of the expenses of the examinations provided for by subchapter XV of chapter 3 of this title.
+The salaries of the Deputy Comptrollers and of all national bank examiners and assistant examiners assigned to duty in the office of the bureau in Washington in connection with the supervision of national banks shall be considered partof the expenses of the examinations provided for by subchapter XV of chapter 3 of this title.
 
 (Mar. 4, 1923, ch. 252, title II, §209(b), 42 Stat. 1467; Pub. L. 86–251, §1(c)(2), Sept. 9, 1959, 73 Stat. 488.)
 

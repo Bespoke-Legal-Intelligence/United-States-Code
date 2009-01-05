@@ -4,9 +4,9 @@
 
 &nbsp;
 
-| Column 1Take | Column 2Multiply by | Column 3Subtract |
-| --- | --- | --- |
-| Monthly basic pay <sup>1</sup> of the grade in which he would be eligible—  (1) to retire if he were retiring upon that release from active duty; or  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty. | 21/2 percent of the sum of—  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and  (2) his years of active service after becoming entitled to retired pay or retainer pay.<sup>2</sup> | Excess over 75 percent of pay upon which computation is based. |
+| Column 1Take | Column 2Multiply by |
+| --- | --- |
+| Monthly basic pay <sup>1</sup> of the grade in which he would be eligible—  (1) to retire if he were retiring upon that release from active duty; or  (2) to transfer to the Fleet Reserve or Fleet Marine Corps Reserve if he were transferring to either upon that release from active duty. | 21/2 percent of the sum of—  (1) the years of service that may be credited to him in computing retired pay or retainer pay; and  (2) his years of active service after becoming entitled to retired pay or retainer pay.<sup>2</sup> |
 
 &nbsp;<sup>1</sup> For a member who has been entitled, for continuous period of at least two years, to basic pay under the rates of basic pay in effect upon that release from active duty, compute under those rates. For a member who has been entitled to basic pay for a continuous period of at least two years upon that release from active duty, but who is not covered by the preceding sentence, compute under the rates of basic pay replaced by those in effect upon that release from active duty. For any other member, compute under the rates of basic pay under which the member's retired pay or retainer pay was computed when he entered on that active duty.
 
@@ -50,7 +50,7 @@
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 107; Pub. L. 86–559, §1(5), June 30, 1960, 74 Stat. 265; Pub. L. 88–132, §5(<i>l</i>)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 90–207, §2(a)(2), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(b)(2), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title V, §511(50), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(3), (4), 923(a)(1), (2)(B), (C), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(3), title III, §304(a)(3), (b)(3), July 1, 1986, 100 Stat. 694, 703; Pub. L. 102–484, div. A, title VI, §642(a), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 110–181, div. A, title VI, §646(b), Jan. 28, 2008, 122 Stat. 160.)
 
 Historical and Revision Notes
 
@@ -90,6 +90,8 @@ Another section 304(b)(3) of Pub. L. 99–348 amended the table of sections at t
 
 #### Amendments
 
+2008—Subsec. (a). Pub. L. 110–181 struck out column 3 of the table, which related to subtraction of excess over 75 percent of pay upon which computation is based.
+
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 
 1986—Pub. L. 99–348, §304(b)(3), inserted “of members who first became members before September 8, 1980” in section catchline.
@@ -112,13 +114,17 @@ Pub. L. 98–94, §923(a)(1), (2)(C), in footnote 1 of table, substituted “Bef
 
 Pub. L. 96–342 inserted “who first became a member of the armed forces before the date of the enactment of the Department of Defense Authorization Act, 1981, and” after “of an armed force” wherever appearing.
 
-1967—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that payunder section 1401a of this title after he initially became entitled to that pay” after “retired,”.
+1967—Subsec. (d). Pub. L. 90–207, §2(a)(2)(A), inserted “increased by any applicable adjustments in that pay under section 1401a of this title after he initially became entitled to that pay” after “retired,”.
 
 Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 
 1963—Subsec. (a). Pub. L. 88–132 substituted in introductory clause “who has become entitled to retired pay or retainer pay” for “who has been retired or has become entitled to retainer pay” and “to recompute his retired pay or retainer pay upon his release from that duty” for “, upon release from that duty, to recompute his retired or retainer pay” and inserted in such clause “(other than for training)” after “active duty”; substituted in column 1 of table “Monthly basic pay” for “Monthly basic pay or base and longevity pay, as the case may be,”, designated existing provisions as (1) and added (2); substituted in (1) of column 2 of the table “retired pay or retainer pay” for “retired or retainer pay” and in (2) of such column 2 “after becoming entitled to retired pay or retainer pay” for “after retirement or becoming entitled to retainer pay”, struck out column 3 relating to addition and redesignated column 4 as 3; added footnote 1 to the table and redesignated former footnote 1 as 2; and inserted provisions for recomputation of retired pay upon release from active duty of officers ordered to active duty in a higher grade based upon special commendation for performance of duty in actual combat.
 
 1960—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months’ duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under section 232 of title 14.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–181, div. A, title VI, §646(c), Jan. 28, 2008, 122 Stat. 160, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6333 of this title\] shall take effect as of January 1, 2007, and shall apply with respect to retired pay and retainer pay payable on or after that date.”
 
 #### Effective Date of 1983 Amendment
 
@@ -160,7 +166,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 “(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
 
-“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act \[Oct. 19, 1984\], whichever is later.”
+“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date ofthe enactment of this Act \[Oct. 19, 1984\], whichever is later.”
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 
@@ -174,7 +180,7 @@ Section 5(a)–(f) of Pub. L. 88–132 provided that:
 
 > whichever pay is the greater. For the purposes of the preceding sentence, a member or former member who became entitled to retired pay on April 1, 1963, by virtue of section 1 of the Act of April 23, 1930, ch. 209, as amended (5 U.S.C. 47a) \[section 8301 of Title 5\], shall be considered as having become entitled to that pay before April 1, 1963.
 
-“(b) A member or former member of a uniformed service who was retired other than for physical disability and who, in accordance with section 511 of the Career Compensation Act of 1949 (63 Stat. 829) \[10 U.S.C. 580 note\], is entitled to retired pay or retainer pay computed by ‘method’ (a) of that section using rates of basic pay that were in effect before October 1, 1949, is entitled—
+“(b) A member or former member of a uniformed service who was retired other than for physical disability and who, in accordance with section 511 of the Career Compensation Act of 1949 (63 Stat. 829) \[act Oct. 12, 1949, former 10 U.S.C. 580 note\], is entitled to retired pay or retainer pay computed by ‘method’ (a) of that section using rates of basic pay that were in effect before October 1, 1949, is entitled—
 
 &emsp;“(1) to have pay recomputed by ‘method’ (b) of that section using the rates of basic pay that were in effect under that Act on the day before the effective date of this Act \[Oct. 1, 1963\]; or
 

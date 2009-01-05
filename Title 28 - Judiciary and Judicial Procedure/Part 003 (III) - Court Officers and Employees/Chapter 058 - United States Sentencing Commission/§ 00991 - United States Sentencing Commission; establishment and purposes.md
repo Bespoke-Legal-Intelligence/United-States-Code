@@ -1,6 +1,6 @@
 ### §991. United States Sentencing Commission; establishment and purposes
 
-(a) There is established as an independent commission in the judicial branch of the United States a United States Sentencing Commission which shall consist of seven voting members and one nonvoting member. The President, after consultation with representatives of judges, prosecuting attorneys, defense attorneys, law enforcement officials, senior citizens, victims of crime, and others interested in the criminal justice process, shall appoint the voting members of the Commission, by and with the advice and consent of the Senate, one of whom shall be appointed, by and with the advice and consent of the Senate, as the Chair and three of whom shall be designated by the President as Vice Chairs. Not more than 3 of the members shall be Federal judges selected after considering a list of six judges recommended to the President by the Judicial Conference of the United States. Not more than four of the members of the Commission shall be members of the same political party, and of the three Vice Chairs, no more than two shall be members of the same political party. The Attorney General, or the Attorney General's designee, shall be an ex officio, nonvoting member of the Commission. The Chair, Vice Chairs, and members of the Commission shall be subject to removal from the Commission by the President only for neglect of duty or malfeasance in office or for other good cause shown.
+(a) There is established as an independent commission in the judicial branch of the United States a United States Sentencing Commission which shall consist of seven voting members and one nonvoting member. The President, after consultation with representatives of judges, prosecuting attorneys, defense attorneys, law enforcement officials, senior citizens, victims of crime, and others interested in the criminal justice process, shall appoint the voting members of the Commission, by and with the advice and consent of the Senate, one of whom shall be appointed, by and with the advice and consent of the Senate, as the Chair and three of whom shall be designated by the President as Vice Chairs. At least 3 of the members shall be Federal judges selected after considering a list of six judges recommended to the President by the Judicial Conference of the United States. Not more than four of the members of the Commission shall be members of the same political party, and of the three Vice Chairs, no more than two shall be members of the same political party. The Attorney General, or the Attorney General's designee, shall be an ex officio, nonvoting member of the Commission. The Chair, Vice Chairs, and members of the Commission shall be subject to removal from the Commission by the President only for neglect of duty or malfeasance in office or for other good cause shown.
 
 (b) The purposes of the United States Sentencing Commission are to—
 
@@ -14,11 +14,13 @@
 
 &emsp;(2) develop means of measuring the degree to which the sentencing, penal, and correctional practices are effective in meeting the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2017; amended Pub. L. 99–22, §1(1), Apr. 15, 1985, 99 Stat. 46; Pub. L. 103–322, title XXVIII, §280005(a), (c)(1), (2), Sept. 13, 1994, 108 Stat. 2096, 2097; Pub. L. 104–294, title VI, §604(b)(11), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 108–21, title IV, §401(n)(1), Apr. 30, 2003, 117 Stat. 675.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2017; amended Pub. L. 99–22, §1(1), Apr. 15, 1985, 99 Stat. 46; Pub. L. 103–322, title XXVIII, §280005(a), (c)(1), (2), Sept. 13, 1994, 108 Stat. 2096, 2097; Pub. L. 104–294, title VI, §604(b)(11), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 108–21, title IV, §401(n)(1), Apr. 30, 2003, 117 Stat. 675; Pub. L. 110–406, §16, Oct. 13, 2008, 122 Stat. 4295.)
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–21 substituted “Not more than 3” for “At least three”.
+2008—Subsec. (a). Pub. L. 110–406 substituted “At least” for “Not more than” in third sentence.
+
+2003—Subsec. (a). Pub. L. 108–21 substituted “Not more than 3” for “At least three” in third sentence.
 
 1996—Subsec. (a). Pub. L. 104–294 made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 

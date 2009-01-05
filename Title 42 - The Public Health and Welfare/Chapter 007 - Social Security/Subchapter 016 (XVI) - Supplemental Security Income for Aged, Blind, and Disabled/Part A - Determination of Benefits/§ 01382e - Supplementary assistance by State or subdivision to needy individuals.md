@@ -16,7 +16,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (c) Residence requirement by State or subdivision for supplementary payments; disregarding amounts of certain income by State or subdivision in determining eligibility for supplementary payments
 
-(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
+(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in theState (or political subdivision) for less than a minimum period prior to application for such payments.
 
 (2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
 
@@ -78,7 +78,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (ii) The Commissioner may charge States a penalty in an amount equal to 5 percent of the payment and the fees due if the remittance is received after the date required by clause (i).
 
-(B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid bya State before the date required by subparagraph (A)(i).
+(B) The Cash Management Improvement Act of 1990 shall not apply to any payments or fees required under this subsection that are paid by a State before the date required by subparagraph (A)(i).
 
 (C) Notwithstanding subparagraph (A)(i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of benefits under this subchapter, and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by subparagraph (A)(i) are determined by the Commissioner to exist.
 
@@ -172,13 +172,13 @@ Pub. L. 95–458, §5(b), Oct. 14, 1978, 92 Stat. 1261, provided that: “No add
 
 #### Eligibility of Supplemental Security Income Recipients for Food Stamps
 
-Section 8(c) of Pub. L. 93–233, as amended by Pub. L. 95–113, title XIII, §1302(a)(3), Sept. 29, 1977, 91 Stat. 979, provided that: “For purposes of section 6(g) of the Food Stamp Act of 1977 \[section 2015(g) of Title 7, Agriculture\] and subsections (b)(3) \[set out as a note under section 612c of Title 7\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[subsec. (a) of this section\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[subsec. (a) of this section\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
+Section 8(c) of Pub. L. 93–233, as amended by Pub. L. 95–113, title XIII, §1302(a)(3), Sept. 29, 1977, 91 Stat. 979, provided that: “For purposes of section 6(g) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] \[section 2015(g) of Title 7, Agriculture\] and subsections (b)(3) \[set out as a note under section 612c of Title 7\] and (f) \[set out below\] of this section, the level of State supplementary payment under section 1616(a) \[subsec. (a) of this section\] shall be found by the Secretary to have been specifically increased so as to include the bonus value of food stamps (1) only if, prior to October 1, 1973, the State has entered into an agreement with the Secretary or taken other positive steps which demonstrate its intention to provide supplementary payments under section 1616(a) \[subsec. (a) of this section\] at a level which is at least equal to the maximum level which can be determined under section 401(b)(1) of the Social Security Amendments of 1972 \[set out as a note under this section\] and which is such that the limitation on State fiscal liability under section 401 \[set out as a note under this section\] does result in a reduction in the amount which would otherwise be payable to the Secretary by the State, and (2) only with respect to such months as the State may, at its option, elect.”
 
 \[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(c) of Pub. L. 93–233 by section 1302(a)(3) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
 Section 8(d) of Pub. L. 93–233, as added by Pub. L. 94–379, §1(a), Aug. 10, 1976, 90 Stat. 1111, and amended by Pub. L. 95–458, §5(a), Oct. 14, 1978, 92 Stat. 1260; Pub. L. 97–18, §2, June 30, 1981, 95 Stat. 102; Pub. L. 97–35, title XXIII, §2342(a), Aug. 13, 1981, 95 Stat. 866, provided that: “Upon the request of a State, the Secretary shall find, for purposes of the provisions specified in subsection (c) \[set out above\], that the level of such State's supplementary payments of the type described in section 1616(a) of the Social Security Act \[subsec. (a) of this section\] has been specifically increased for any month so as to include the bonus value of food stamps (and that such State meets the applicable requirements of subsection (c)(1)) if—
 
-&emsp;“(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) that such State's supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
+&emsp;“(1) the Secretary has found (under this subsection or subsection (c), as in effect in December 1980) thatsuch State's supplementary payments in December 1980 were increased to include the bonus value of food stamps; and
 
 &emsp;“(2) such State continues without interruption to meet the requirements of section 1618 of such Act \[section 1382g of this title\] for each month after the month referred to in paragraph (1) and up to and including the month for which the Secretary is making the determination.”
 
@@ -214,7 +214,7 @@ Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable t
 
 #### Limitation on Fiscal Liability of States for Payment to Secretary of Supplementary Payments Made by Secretary Pursuant to Agreement
 
-Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 31, 1973, 87 Stat. 969; Pub. L. 94–566, title V, §504(a), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 94–585 §2(b), Oct. 21, 1976, 90 Stat. 2902; Pub. L. 97–248, title I, §184(a), Sept. 3, 1982, 96 Stat. 406, provided that:
+Pub. L. 92–603, title IV, §401, Oct. 30, 1972, 86 Stat. 1485, as amended by Pub. L. 93–233, §18(h), Dec. 31, 1973, 87 Stat. 969; Pub. L. 94–566, title V, §504(a), Oct. 20, 1976, 90 Stat. 2686; Pub. L. 94–585 §2(b), Oct. 21, 1976, 90 Stat. 2902; Pub. L. 97–248, title I, §184(a), Sept. 3, 1982, 96 Stat. 406; Pub. L. 110–234, title IV, §4115(c)(1)(A)(ii), (vi), (B)(iv), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(1)(A)(ii), (vi), (B)(iv), June 18, 2008, 122 Stat. 1664, 1870, 1871, provided that:
 
 “(a)(1) The amount payable to the Secretary by a State for any fiscal year, other than fiscal year 1974, pursuant to its agreement or agreements under section 1616 of the Social Security Act \[this section\] shall not exceed the non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of the State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\] (as defined in subsection (c) of this section), and the amount payable for fiscal year 1974 pursuant to such agreement or agreements shall not exceed one-half of the non-Federal share of such expenditures.
 
@@ -230,17 +230,17 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 &emsp;“(A) a payment level modification (as defined in paragraph (2) of this subsection) with respect to such plan, and
 
-&emsp;“(B) the bonus value of food stamps in such State for January 1972 (as defined in paragraph (3) of this subsection).
+&emsp;“(B) the bonus value of food stamps \[probably should be “benefits”\] in such State for January 1972 (as defined in paragraph (3) of this subsection).
 
 “(2) For purposes of paragraph (1), the term ‘payment level modification’ with respect to any State plan means that amount by which a State which for January 1972 made money payments under such plan to individuals with no other income which were less than 100 per centum of its standard of need could have increased such money payments without increasing (if it reduced its standard of need under such plan so that such increased money payments equaled 100 per centum of such standard of need) the non-Federal share of expenditures as aid or assistance for quarters in calendar year 1972 under the plans of such State approved under titles I, X, XIV, and XVI of the Social Security Act \[subchapters I, X, XIV, and XVI of this chapter\].
 
-“(3) For purposes of paragraph (1), the term ‘bonus value of food stamps in a State for January 1972’ (with respect to an individual) means—
+“(3) For purposes of paragraph (1), the term ‘bonus value of benefits in a State for January 1972’ (with respect to an individual) means—
 
-&emsp;“(A) the face value of the coupon allotment which would have been provided to such an individual under the Food Stamp Act of 1964 \[section 2011 et seq. of Title 7, Agriculture\] for January 1972, reduced by
+&emsp;“(A) the face value of the benefit allotment which would have been provided to such an individual under the Food Stamp Act of 1964 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\] for January 1972, reduced by
 
-&emsp;“(B) the charge which such an individual would have paid for such coupon allotment,
+&emsp;“(B) the charge which such an individual would have paid for such benefit allotment,
 
-> if the income of such individual, for purposes of determining the charge it would have paid for its coupon allotment, had been equal to the adjusted payment level under the State plan (including any payment level modification with respect to the plan adopted pursuant to paragraph (2) (but not including any amount under this paragraph)). The total face value of food stamps and the cost thereof in January 1972 shall be determined in accordance with rules prescribed by the Secretary of Agriculture in effect in such month.
+> if the income of such individual, for purposes of determining the charge it would have paid for its benefit allotment, had been equal to the adjusted payment level under the State plan (including any payment level modification with respect to the plan adopted pursuant to paragraph (2) (but not including any amount under this paragraph)). The total face value of benefits and the cost thereof in January 1972 shall be determined in accordance with rules prescribed by the Secretary of Agriculture in effect in such month.
 
 “(c) For purposes of this section, the term ‘non-Federal share of expenditures as aid or assistance for quarters in the calendar year 1972 under the plans of a State approved under titles I, X, XIV, and XVI of the Social Security Act’ \[subchapters I, X, XIV, and XVI of this chapter\] means the difference between—
 

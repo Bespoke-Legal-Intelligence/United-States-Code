@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Policy Requirement.—The Secretary of Defense, in consultation with theChairman of the Joint Chiefs of Staff, shall develop joint policies for requirements definition, contingency program management, and contingency contracting during combat operations and post-conflict operations.
+Joint Policy Requirement.—The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop joint policies for requirements definition, contingency program management, and contingency contracting during combat operations and post-conflict operations.
 
 (b)
 
@@ -64,6 +64,14 @@ Contingency Contracting Matters Covered.—(1) The joint policy for contingency 
 
 (e)
 
+Training for Personnel Outside Acquisition Workforce.—(1) The joint policy for requirements definition, contingency program management, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
+
+(2) Training under paragraph (1) shall be sufficient to ensure that the military personnel referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.
+
+(3) The joint policy shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
+
+(f)
+
 Definitions.—In this section:
 
 &emsp;(1)
@@ -90,11 +98,15 @@ Contingency program management.—The term “contingency program management” 
 
 Requirements definition.—The term “requirements definition” means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 
-(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343.)
+(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245.)
 
 #### References in Text
 
 Section 1035 of this Act, referred to in subsec. (d)(2), probably means section 1035 of Pub. L. 109–364, div. A, title X, Oct. 17, 2006, 120 Stat. 2388, which was not classified to the Code. Section 851(a)(1) of Pub. L. 109–364 enacted this section.
+
+#### Amendments
+
+2008—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Deadline for Development of Joint Policies
 

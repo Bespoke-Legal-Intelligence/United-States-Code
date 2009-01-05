@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) “person” includes any entity organized or existing under the laws of the United States, a State, territory, or possession of the United States, or a foreign country.
 
-&emsp;(3) “public transportation” means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
+&emsp;(3) “public transportation” means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
 
 (b)
 

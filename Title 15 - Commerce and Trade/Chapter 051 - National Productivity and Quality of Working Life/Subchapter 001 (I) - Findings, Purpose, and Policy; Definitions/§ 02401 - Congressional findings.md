@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(11) there is a national need to identify and encourage appropriate application of technology in all sectors of American economic activity in order to improve productivity;
 
-&emsp;(12) there is a national need to identify and encourage the development of social, economic, scientific, business, labor, and governmental contributions to improve productivity growth, and increased economic effectiveness in the public and private sectors of the United States; which objectives can best be accomplished through maximizing private sector and State and local development of such contributions;
+&emsp;(12) there is a national need to identify and encourage the development of social, economic, scientific, business, labor, and governmental contributions to improve productivitygrowth, and increased economic effectiveness in the public and private sectors of the United States; which objectives can best be accomplished through maximizing private sector and State and local development of such contributions;
 
 &emsp;(13) there is a national need to identify, study, and revise or eliminate the laws, regulations, policies, and procedures which adversely affect productivity growth and the efficient functioning of the economy;
 
@@ -46,7 +46,7 @@ Section 1 of Pub. L. 94–136 provided: “That this Act \[enacting this chapter
 
 #### White House Conference on Productivity
 
-Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduct a White House Conference on Productivity not later than Oct. 25, 1983, prescribed the duties of the Conference, required the Conference to submit to the President a final report not later than 120days after the date the Conference is called, and required the President (within 120 days after submission of the final report) to transmit to Congress his recommendations for the administrative action and legislation necessary to implement recommendations contained in the final report with which he concurs.
+Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduct a White House Conference on Productivity not later than Oct. 25, 1983, prescribed the duties of the Conference, required the Conference to submit to the President a final report not later than 120 days after the date the Conference is called, and required the President (within 120 days after submission of the final report) to transmit to Congress his recommendations for the administrative action and legislation necessary to implement recommendations contained in the final report with which he concurs.
 
 #### Executive Order No. 12089
 

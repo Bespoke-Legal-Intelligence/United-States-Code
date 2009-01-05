@@ -16,7 +16,7 @@
 
 #### (3) Special rule for mutual insurance companies
 
-&emsp;For purposes of applying paragraph (1) in the case of a foreign mutual insurance company,the term “stock” shall include any certificate entitling the holder to voting power in the corporation.
+&emsp;For purposes of applying paragraph (1) in the case of a foreign mutual insurance company, the term “stock” shall include any certificate entitling the holder to voting power in the corporation.
 
 #### (b) Constructive ownership
 

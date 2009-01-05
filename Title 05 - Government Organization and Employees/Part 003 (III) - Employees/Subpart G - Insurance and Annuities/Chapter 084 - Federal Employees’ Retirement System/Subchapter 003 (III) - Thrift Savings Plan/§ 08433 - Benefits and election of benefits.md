@@ -120,7 +120,7 @@ Subsec. (c)(1). Pub. L. 103–226, §9(b)(3), substituted “directly to an elig
 
 Subsec. (d). Pub. L. 103–353, §4(b)(1), inserted before period at end “, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred”.
 
-Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection\(e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
+Pub. L. 103–226, §9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
 
 Subsec. (d)(1). Pub. L. 103–226, §9(i)(4), substituted “(c) of section 8435” for “(d) of section 8435”.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L.103–353, set out as an Effective Date note under section 8432b of this title.
 
 Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 

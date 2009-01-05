@@ -6,7 +6,7 @@ The Secretary is authorized to make loans or advancements (a) to local organizat
 
 #### References in Text
 
-Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in text,is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
+Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, referred to in text, is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 887, which was not classified to the Code.
 
 #### Amendments
 

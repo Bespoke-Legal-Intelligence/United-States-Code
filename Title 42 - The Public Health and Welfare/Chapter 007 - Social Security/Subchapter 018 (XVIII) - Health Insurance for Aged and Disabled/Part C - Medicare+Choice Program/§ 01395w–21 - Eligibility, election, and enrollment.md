@@ -20,7 +20,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and regional or local preferred provider organization plans (including MA regional plans).
+&emsp;&emsp;&emsp;Coordinated care plans which provide health care services, including but notlimited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and regional or local preferred provider organization plans (including MA regional plans).
 
 #### (ii) Specialized MA plans for special needs individuals
 
@@ -86,7 +86,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under rules established by the Secretary, an individual is not eligible to enroll (or continue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
+&emsp;&emsp;Under rules established by the Secretary, an individual is not eligible to enroll (orcontinue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
 
 #### (B) Evaluation
 
@@ -164,7 +164,7 @@
 
 #### (C) Form
 
-&emsp;&emsp;The information disseminated under this paragraph shall be written and formatted using language that is easily understandable by medicare beneficiaries.
+&emsp;&emsp;The information disseminated under this paragraph shall be written and formattedusing language that is easily understandable by medicare beneficiaries.
 
 #### (D) Periodic updating
 
@@ -260,7 +260,7 @@
 
 #### (5) Maintaining a toll-free number and Internet site
 
-&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
+&emsp;The Secretary shall maintain a toll-free number for inquiries regardingMedicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
 
 #### (6) Use of non-Federal entities
 
@@ -406,7 +406,7 @@
 
 &emsp;&emsp;(B) subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
 
-&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and whonever previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
+&emsp;&emsp;(C) who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
 
 #### (6) Open enrollment periods
 
@@ -502,13 +502,37 @@
 
 &emsp;Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered under this part, included in the standards established under section 1395w–26 of this title. Such standards—
 
-&emsp;&emsp;(A) shall not permit a Medicare+Choice organization to provide for cash or other monetary rebates as an inducement for enrollment or otherwise, and
+&emsp;&emsp;(A) shall not permit a Medicare+Choice organization to provide for, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates as an inducement for enrollment or otherwise;
 
-&emsp;&emsp;(B) may include a prohibition against a Medicare+Choice organization (or agent of such an organization) completing any portion of any election form used to carry out elections under this section on behalf of any individual.
+&emsp;&emsp;(B) may include a prohibition against a Medicare+Choice organization (or agent of such an organization) completing any portion of any election form used to carry out elections under this section on behalf of any individual;
+
+&emsp;&emsp;(C) shall not permit a Medicare Advantage organization (or the agents, brokers, and other third parties representing such organization) to conduct the prohibited activities described in subsection (j)(1); and
+
+&emsp;&emsp;(D) shall only permit a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization) to conduct the activities described in subsection (j)(2) in accordance with the limitations established under such subsection.
 
 #### (5) Special treatment of marketing material following model marketing language
 
 &emsp;In the case of marketing material of an organization that uses, without modification, proposed model language specified by the Secretary, the period specified in paragraph (1)(A) shall be reduced from 45 days to 10 days.
+
+#### (6) Required inclusion of plan type in plan name
+
+&emsp;For plan years beginning on or after January 1, 2010, a Medicare Advantage organization must ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
+
+#### (7) Strengthening the ability of States to act in collaboration with the Secretary to address fraudulent or inappropriate marketing practices
+
+#### (A) Appointment of agents and brokers
+
+&emsp;&emsp;Each Medicare Advantage organization shall—
+
+&emsp;&emsp;&emsp;(i) only use agents and brokers who have been licensed under State law to sell Medicare Advantage plans offered by the Medicare Advantage organization;
+
+&emsp;&emsp;&emsp;(ii) in the case where a State has a State appointment law, abide by such law; and
+
+&emsp;&emsp;&emsp;(iii) report to the applicable State the termination of any such agent or broker, including the reasons for such termination (as required under applicable State law).
+
+#### (B) Compliance with State information requests
+
+&emsp;&emsp;Each Medicare Advantage organization shall comply in a timely manner with any request by a State for information regarding the performance of a licensed agent, broker, or other third party representing the Medicare Advantage organization as part of an investigation by the State into the conduct of the agent, broker, or other third party.
 
 #### (i) Effect of election of Medicare+Choice plan option
 
@@ -520,7 +544,57 @@
 
 &emsp;Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244.)
+#### (j) Prohibited activities described and limitations on the conduct of certain other activities
+
+#### (1) Prohibited activities described
+
+&emsp;The following prohibited activities are described in this paragraph:
+
+#### (A) Unsolicited means of direct contact
+
+&emsp;&emsp;Any unsolicited means of direct contact of prospective enrollees, including soliciting door-to-door or any outbound telemarketing without the prospective enrollee initiating contact.
+
+#### (B) Cross-selling
+
+&emsp;&emsp;The sale of other non-health related products (such as annuities and life insurance) during any sales or marketing activity or presentation conducted with respect to a Medicare Advantage plan.
+
+#### (C) Meals
+
+&emsp;&emsp;The provision of meals of any sort, regardless of value, to prospective enrollees at promotional and sales activities.
+
+#### (D) Sales and marketing in health care settings and at educational events
+
+&emsp;&emsp;Sales and marketing activities for the enrollment of individuals in Medicare Advantage plans that are conducted—
+
+&emsp;&emsp;&emsp;(i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies), except in the case where such activities are conducted in common areas in health care settings; and
+
+&emsp;&emsp;&emsp;(ii) at educational events.
+
+#### (2) Limitations
+
+&emsp;The Secretary shall establish limitations with respect to at least the following:
+
+#### (A) Scope of marketing appointments
+
+&emsp;&emsp;The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advance agreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
+
+#### (B) Co-branding
+
+&emsp;&emsp;The use of the name or logo of a co-branded network provider on Medicare Advantage plan membership and marketing materials.
+
+#### (C) Limitation of gifts to nominal dollar value
+
+&emsp;&emsp;The offering of gifts and other promotional items other than those that are of nominal value (as determined by the Secretary) to prospective enrollees at promotional activities.
+
+#### (D) Compensation
+
+&emsp;&emsp;The use of compensation other than as provided under guidelines established by the Secretary. Such guidelines shall ensure that the use of compensation creates incentives for agents and brokers to enroll individuals in the Medicare Advantage plan that is intended to best meet their health care needs.
+
+#### (E) Required training, annual retraining, and testing of agents, brokers, and other third parties
+
+&emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501.)
 
 #### References in Text
 
@@ -529,6 +603,20 @@ Parts A and B of this subchapter, referred to in text, are classified to section
 Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), (E)(iv)(I), is classified to section 1395w–101 et seq. of this title.
 
 #### Amendments
+
+2008—Subsec. (h)(4)(A). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(aa), substituted “, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates” for “cash or other monetary rebates”.
+
+Subsec. (h)(4)(C). Pub. L. 110–275, §103(a)(1)(A)(i)(I)(bb)–(III), added subpar. (C).
+
+Subsec. (h)(4)(D). Pub. L. 110–275, §103(b)(1)(A), added subpar. (D).
+
+Subsec. (h)(6). Pub. L. 110–275, §103(c)(1), added par. (6).
+
+Subsec. (h)(7). Pub. L. 110–275, §103(d)(1), added par. (7).
+
+Subsec. (j). Pub. L. 110–275, §103(a)(1)(A)(ii), added subsec. (j).
+
+Subsec. (j)(2). Pub. L. 110–275, §103(b)(1)(B), added par. (2).
 
 2007—Subsec. (e)(2)(E)(i). Pub. L. 110–48, §2(1), substituted “the period beginning on January 1, 2007, and ending on July 31, 2007,” for “2007 or 2008”.
 
@@ -602,7 +690,7 @@ Subsec. (i)(2). Pub. L. 108–173, §237(b)(2)(A)(ii), inserted “1395w–23(a)
 
 Pub. L. 108–173, §221(d)(5), inserted “1395w–27a(h),” after “1395w–27(f)(2),”.
 
-2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
+2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in headingand “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
 
 Subsec. (e)(2)(B). Pub. L. 107–188, §532(a)(2), substituted “during 2005” for “during 2002” in heading.
 
@@ -643,6 +731,14 @@ Subsec. (e)(4)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §501(a)(1)\], add
 Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title V, §502(a)\], inserted “or change” before “is made” and “, except that if such election or change is made after the 10th day of any calendar month, then the election or change shall not take effect until the first day of the second calendar month following the date on which the election or change is made” before the period at end.
 
 Subsec. (i)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(A)\], struck out “and” after “1395w–27(f)(2),”.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–275, title I, §103(a)(3), July 15, 2008, 122 Stat. 2499, provided that: “The amendments made by this subsection \[amending this section and section 1395w–104 of this title\] shall apply to plan years beginning on or after January 1, 2009.”
+
+Pub. L. 110–275, title I, §103(b)(3), July 15, 2008, 122 Stat. 2500, provided that: “The amendments made by this subsection \[amending this section and section 1395w–104 of this title\] shall take effect on a date specified by the Secretary (but in no case later than November 15, 2008).”
+
+Pub. L. 110–275, title I, §103(d)(3), July 15, 2008, 122 Stat. 2501, provided that: “The amendments made by this subsection \[amending this section and section 1395w–104 of this title\] shall apply to plan years beginning on or after January 1, 2009.”
 
 #### Effective Date of 2003 Amendment
 
@@ -728,6 +824,8 @@ Pub. L. 108–173, title II, §221(a)(2), Dec. 8, 2003, 117 Stat. 2180, directed
 
 #### Specialized MA Plans
 
+Pub. L. 110–275, title I, §164(b), July 15, 2008, 122 Stat. 2571, provided that: “During the period beginning on January 1, 2010, and ending on December 31, 2010, the Secretary of Health and Human Services may not exercise the authority provided under section 231(d) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\] (42 U.S.C. 1395w–21 note) to designate other plans as specialized MA plans for special needs individuals.”
+
 Pub. L. 110–173, title I, §108(b), Dec. 29, 2007, 121 Stat. 2496, provided that:
 
 “(1)
@@ -740,7 +838,7 @@ Enrollment in new plans.—During the period beginning on January 1, 2008, and e
 
 Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided that: “In promulgating regulations to carry out section 1851(a)(2)(A)(ii) of the Social Security Act \[subsec. (a)(2)(A)(ii) of this section\] (as added by subsection (a)) and section 1859(b)(6) of such Act \[section 1395w–28(b)(6) of this title\] (as added by subsection (b)), the Secretary \[of Health and Human Services\] may provide (notwithstanding section 1859(b)(6)(A) of such Act) for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals.”
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007,the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
 
 #### MedPAC Study on Consumer Coalitions
 

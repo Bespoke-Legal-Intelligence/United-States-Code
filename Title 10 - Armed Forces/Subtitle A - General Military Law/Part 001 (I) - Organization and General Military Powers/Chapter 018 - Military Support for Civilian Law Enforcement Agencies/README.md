@@ -12,12 +12,14 @@
 | [378\.](%C2%A7%2000378%20-%20Nonpreemption%20of%20other%20law.md) | Nonpreemption of other law. |
 | [379\.](%C2%A7%2000379%20-%20Assignment%20of%20Coast%20Guard%20personnel%20to%20naval%20vessels%20for%20law%20enforcement%20purposes.md) | Assignment of Coast Guard personnel to naval vessels for law enforcement purposes. |
 | [380\.](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md) | Enhancement of cooperation with civilian law enforcement officials. |
-| [381\.](%C2%A7%2000381%20-%20Procurement%20by%20State%20and%20local%20governments%20of%20law%20enforcement%20equipment%20suitable%20for%20counter-drug%20activities%20through%20the%20Department%20of%E2%80%A6.md) | Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense. |
+| [381\.](%C2%A7%2000381%20-%20Procurement%20of%20equipment%20by%20State%20and%20local%20governments%20through%20the%20Department%20of%20Defense%20equipment%20for%20counter-drug%2C%20homeland%20security%E2%80%A6.md) | Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities. |
 | [382\.](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20chemical%20or%20biological%20weapons%20of%20mass%20destruction.md) | Emergency situations involving chemical or biological weapons of mass destruction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2008—Pub. L. 110–417, \[div. A\], title VIII, §885(b)(2), Oct. 14, 2008, 122 Stat. 4561, added item 381 and struck out former item 381 “Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of Defense”.
 
 1996—Pub. L. 104–201, div. A, title XIV, §1416(a)(2), Sept. 23, 1996, 110 Stat. 2723, added item 382.
 
@@ -46,5 +48,5 @@
 - [&sect; 00378 - Nonpreemption of other law](%C2%A7%2000378%20-%20Nonpreemption%20of%20other%20law.md)
 - [&sect; 00379 - Assignment of Coast Guard personnel to naval vessels for law enforcement purposes](%C2%A7%2000379%20-%20Assignment%20of%20Coast%20Guard%20personnel%20to%20naval%20vessels%20for%20law%20enforcement%20purposes.md)
 - [&sect; 00380 - Enhancement of cooperation with civilian law enforcement officials](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md)
-- [&sect; 00381 - Procurement by State and local governments of law enforcement equipment suitable for counter-drug activities through the Department of&#8230;](%C2%A7%2000381%20-%20Procurement%20by%20State%20and%20local%20governments%20of%20law%20enforcement%20equipment%20suitable%20for%20counter-drug%20activities%20through%20the%20Department%20of%E2%80%A6.md)
+- [&sect; 00381 - Procurement of equipment by State and local governments through the Department of Defense equipment for counter-drug, homeland security&#8230;](%C2%A7%2000381%20-%20Procurement%20of%20equipment%20by%20State%20and%20local%20governments%20through%20the%20Department%20of%20Defense%20equipment%20for%20counter-drug%2C%20homeland%20security%E2%80%A6.md)
 - [&sect; 00382 - Emergency situations involving chemical or biological weapons of mass destruction](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20chemical%20or%20biological%20weapons%20of%20mass%20destruction.md)

@@ -60,7 +60,7 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 (4) The Commission shall remand to the Electric Reliability Organization for further consideration a proposed reliability standard or a modification to a reliability standard that the Commission disapproves in whole or in part.
 
-(5) The Commission, upon its own motion or upon complaint, may order the Electric Reliability Organization to submit to the Commission a proposed reliability standard or a modification to a reliability standard that addresses a specific matter if the Commission considers such a new or modified reliability standard appropriate to carry out this section.
+(5) The Commission, upon its own motion or upon complaint, may order the Electric Reliability Organization to submit to the Commission a proposed reliability standard or a modification to a reliability standard that addressesa specific matter if the Commission considers such a new or modified reliability standard appropriate to carry out this section.
 
 (6) The final rule adopted under subsection (b)(2) of this section shall include fair processes for the identification and timely resolution of any conflict between a reliability standard and any function, rule, order, tariff, rate schedule, or agreement accepted, approved, or ordered by the Commission applicable to a transmission organization. Such transmission organization shall continue to comply with such function, rule, order, tariff, rate schedule or agreement accepted, approved, or ordered by the Commission until—
 
@@ -114,7 +114,7 @@ The ERO shall conduct periodic assessments of the reliability and adequacy of th
 
 #### (h) Coordination with Canada and Mexico
 
-The President is urged to negotiate international agreements with the governments of Canada and Mexico to provide for effective compliance with reliability standards and the effectiveness of the ERO in the United States and Canada or Mexico.
+The President is urged to negotiate international agreements with the governments ofCanada and Mexico to provide for effective compliance with reliability standards and the effectiveness of the ERO in the United States and Canada or Mexico.
 
 #### (i) Savings provisions
 

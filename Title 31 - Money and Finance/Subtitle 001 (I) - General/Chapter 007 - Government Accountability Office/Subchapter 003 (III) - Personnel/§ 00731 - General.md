@@ -6,13 +6,9 @@
 
 (c) The annual rate of basic pay of the General Counsel of the Government Accountability Office is equal to the rate for level IV of the Executive Schedule.
 
-(d) When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.
+\[(d) Repealed. Pub. L. 110–323, §9(a)(1), Sept. 22, 2008, 122 Stat. 3548.\]
 
-(e) The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title, except that the services of not more than—
-
-&emsp;(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
-
-&emsp;(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.
+(e) The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 
 (f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses under subchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
 
@@ -56,7 +52,9 @@
 
 &emsp;(7) section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814.)
+(j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548.)
 
 Historical and Revision Notes
 
@@ -134,7 +132,7 @@ In subsection (e), before clause (1), the words “procure the services of” ar
 
 Section 5401 of title 5, referred to in subsec. (b), was repealed by Pub. L. 103–89, §3(a)(1), Sept. 30, 1993, 107 Stat. 981.
 
-Level IV of the Executive Schedule, referred to in subsecs. (c), (d), and (e)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
+Level IV of the Executive Schedule, referred to in subsecs. (c) and (e), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 The date of the enactment of this subsection, referred to in subsec. (h)(5), is the date of enactment of Pub. L. 108–271, which was approved July 7, 2004.
 
@@ -143,6 +141,16 @@ The Ethics in Government Act of 1978, referred to in subsec. (i)(5), is Pub. L. 
 Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6), is classified to section 1043 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2008—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
+
+Subsec. (e). Pub. L. 110–323, §9(a)(2), substituted “daily rate for level IV of the Executive Schedule” for “maximum daily rate for GS–18 under section 5332 of such title” and “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.” for “more than—
+
+&emsp;“(1) 15 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable; and
+
+&emsp;“(2) 10 experts and consultants may be procured permanently, temporarily, or intermittently to carry out sections 717(b)–(d) and 719(b)(1)(A) of this title at rates that are not more than the rate for level IV of the Executive Schedule.”
+
+Subsec. (j). Pub. L. 110–323, §9(a)(3), added subsec. (j).
 
 2004—Subsecs. (a), (c). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -211,8 +219,4 @@ Section 2 of Pub. L. 98–326 provided that: “The amendments made by this Act 
 #### Consultation
 
 Pub. L. 108–271, §10, July 7, 2004, 118 Stat. 815, provided that: “Before the implementation of any changes authorized under this Act \[see Tables for classification\], the Comptroller General shall consult with any interested groups or associations representing officers and employees of the General Accounting Office \[now Government Accountability Office\].”
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -14,7 +14,7 @@ The Commission has the power—
 
 &emsp;(5) to pay witnesses the same fees and mileage as are paid in like circumstances in the courts of the United States;
 
-&emsp;(6) to initiate (through civil actions for injunctive, declaratory, or other appropriate relief), defend (in the case of any civil action brought under section 437g(a)(8) of this title) or appeal any civil action in the name of theCommission to enforce the provisions of this Act and chapter 95 and chapter 96 of title 26, through its general counsel;
+&emsp;(6) to initiate (through civil actions for injunctive, declaratory, or other appropriate relief), defend (in the case of any civil action brought under section 437g(a)(8) of this title) or appeal any civil action in the name of the Commission to enforce the provisions of this Act and chapter 95 and chapter 96 of title 26, through its general counsel;
 
 &emsp;(7) to render advisory opinions under section 437f of this title;
 

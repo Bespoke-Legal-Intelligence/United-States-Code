@@ -14,7 +14,7 @@ Notwithstanding any other provision of this chapter, with respect to mortgages c
 
 &emsp;(3)(A) the Secretary may require an Indian tribe, only as a condition of insurance made under this subchapter pursuant to this section, to pledge income from tribal resources or income from tribal assets not subject to a restriction by the Secretary of the Interior or pledge grants under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] or any other Federal grant program administered by the Secretary of Housing and Urban Development to be used to reimburse the Secretary for any mortgage insurance claims paid in connection with residences insured pursuant to this section; or
 
-&emsp;(B) in the case of an individual Indian mortgagor, the Secretary may require a pledge of his or her share of distributed income from tribal resources or income from tribal assets, excluding any Federal grants received by the tribe.
+&emsp;(B) in the case of an individual Indian mortgagor, the Secretary may require a pledge of his or her share of distributed income fromtribal resources or income from tribal assets, excluding any Federal grants received by the tribe.
 
 #### (c) Lack of tribal or trust fund income
 
@@ -30,7 +30,7 @@ A mortgage insured under this section may be assumed, subject to credit approval
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the General Insurance Fund established in section 1735c of this title. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that (1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2) all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the Mutual Mortgage Insurance Fund. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
@@ -54,19 +54,21 @@ For purposes of this section:
 
 &emsp;(1) The term “Indian tribe” means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaska natives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
 
-&emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
+&emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
-(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title IV, §422, Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, title XIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919.)
+(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title IV, §422, Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, title XIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327. A new chapter 67 of Title 31, Money and Finance, was added by Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
 
 1988—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted “land” for “lands”.
 

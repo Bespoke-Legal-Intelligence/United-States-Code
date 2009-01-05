@@ -52,7 +52,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xiv) satisfy any other condition that is reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community.
 
-> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at aminimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
+> &emsp;In any case that involves a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title, or a failure to register offense under section 2250 of this title, any release order shall contain, at a minimum, a condition of electronic monitoring and each of the conditions specified at subparagraphs (iv), (v), (vi), (vii), and (viii).
 
 (2) The judicial officer may not impose a financial condition that results in the pretrial detention of the person.
 
@@ -80,15 +80,27 @@ Temporary Detention To Permit Revocation of Conditional Release, Deportation, or
 
 (e)
 
-Detention.—If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial. In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
+Detention.—(1) If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial.
 
-&emsp;(1) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
+(2) In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
 
-&emsp;(2) the offense described in paragraph (1) of this subsection was committed while the person was on release pending trial for a Federal, State, or local offense; and
+&emsp;(A) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
 
-&emsp;(3) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in paragraph (1) of this subsection, whichever is later.
+&emsp;(B) the offense described in subparagraph (A) was committed while the person was on release pending trial for a Federal, State, or local offense; and
 
-> Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46, an offense under section 924(c), 956(a), or 2332b of this title, or an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title.
+&emsp;(C) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in subparagraph (A), whichever is later.
+
+(3) Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed—
+
+&emsp;(A) an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46;
+
+&emsp;(B) an offense under section 924(c), 956(a), or 2332b of this title;
+
+&emsp;(C) an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed;
+
+&emsp;(D) an offense under chapter 77 of this title for which a maximum term of imprisonment of 20 years or more is prescribed; or
+
+&emsp;(E) an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title.
 
 (f)
 
@@ -96,7 +108,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;(1) upon motion of the attorney for the Government, in a case that involves—
 
-&emsp;&emsp;(A) a crime of violence, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed;
+&emsp;&emsp;(A) a crime of violence, a violation of section 1591, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed;
 
 &emsp;&emsp;(B) an offense for which the maximum sentence is life imprisonment or death;
 
@@ -112,13 +124,13 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(B) a serious risk that such person will obstruct or attempt to obstruct justice, or threaten, injure, or intimidate, or attempt to threaten, injure, or intimidate, a prospective witness or juror.
 
-> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney for the Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
+> The hearing shall be held immediately upon the person's first appearance before the judicial officer unless that person, or the attorney for the Government, seeks a continuance. Except for good cause, a continuance on motion of such person may not exceed five days (not including any intermediate Saturday, Sunday, or legal holiday), and a continuance on motion of the attorney for the Government may not exceed three days (not including any intermediate Saturday, Sunday, or legal holiday). During a continuance, such person shall be detained, and the judicial officer, on motion of the attorney forthe Government or sua sponte, may order that, while in custody, a person who appears to be a narcotics addict receive a medical examination to determine whether such person is an addict. At the hearing, such person has the right to be represented by counsel, and, if financially unable to obtain adequate representation, to have counsel appointed. The person shall be afforded an opportunity to testify, to present witnesses, to cross-examine witnesses who appear at the hearing, and to present information by proffer or otherwise. The rules concerning admissibility of evidence in criminal trials do not apply to the presentation and consideration of information at the hearing. The facts the judicial officer uses to support a finding pursuant to subsection (e) that no condition or combination of conditions will reasonably assure the safety of any other person and the community shall be supported by clear and convincing evidence. The person may be detained pending completion of the hearing. The hearing may be reopened, before or after a determination by the judicial officer, at any time before trial if the judicial officer finds that information exists that was not known to the movant at the time of the hearing and that has a material bearing on the issue whether there are conditions of release that will reasonably assure the appearance of such person as required and the safety of any other person and the community.
 
 (g)
 
 Factors To Be Considered.—The judicial officer shall, in determining whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community, take into account the available information concerning—
 
-&emsp;(1) the nature and circumstances of the offense charged, including whether the offense is a crime of violence, a Federal crime of terrorism, or involves a minor victim or a controlled substance, firearm, explosive, or destructive device;
+&emsp;(1) the nature and circumstances of the offense charged, including whether the offense is a crime of violence, a violation of section 1591, a Federal crime of terrorism, or involves a minor victim or a controlled substance, firearm, explosive, or destructive device;
 
 &emsp;(2) the weight of the evidence against the person;
 
@@ -154,7 +166,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 &emsp;(3) direct that the person be afforded reasonable opportunity for private consultation with counsel; and
 
-&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United Statesmarshal for the purpose of an appearance in connection with a court proceeding.
+&emsp;(4) direct that, on order of a court of the United States or on request of an attorney for the Government, the person in charge of the corrections facility in which the person is confined deliver the person to a United States marshal for the purpose of an appearance in connection with a court proceeding.
 
 > The judicial officer may, by subsequent order, permit the temporary release of the person, in the custody of a United States marshal or another appropriate person, to the extent that the judicial officer determines such release to be necessary for preparation of the person's defense or for another compelling reason.
 
@@ -162,7 +174,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 Presumption of Innocence.—Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
-(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, §203, Apr. 30, 2003, 117 Stat. 660; Pub. L. 108–458, title VI, §6952, Dec. 17, 2004, 118 Stat. 3775; Pub. L. 109–162, title X, §1004(b), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title II, §216, July 27, 2006, 120 Stat. 617; Pub. L. 109–304, §17(d)(7), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, §203, Apr. 30, 2003, 117 Stat. 660; Pub. L. 108–458, title VI, §6952, Dec. 17, 2004, 118 Stat.3775; Pub. L. 109–162, title X, §1004(b), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title II, §216, July 27, 2006, 120 Stat. 617; Pub. L. 109–304, §17(d)(7), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–457, title II, §§222(a), 224(a), Dec. 23, 2008, 122 Stat. 5067, 5072.)
 
 #### References in Text
 
@@ -175,6 +187,14 @@ The Controlled Substances Import and Export Act, referred to in subsecs. (e) and
 A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(c), 80 Stat. 217, set forth provisions relating to surrender by bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–457, §222(a)(1)–(4), designated first through third sentences as pars. (1) to (3), respectively, and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2).
+
+Subsec. (e)(2)(B), (C). Pub. L. 110–457, §222(a)(5), substituted “subparagraph (A)” for “paragraph (1) of this subsection”.
+
+Subsec. (e)(3). Pub. L. 110–457, §222(a)(6), substituted “committed—” for “committed”, “46;” for “46,”, “title;” for “title, or”, and “10 years or more is prescribed;” for “10 years or more is prescribed or”, inserted subpar. (A), (B), (C), and (E) designations, and added subpar. (D).
+
+Subsecs. (f)(1)(A), (g)(1). Pub. L. 110–457, §224(a), substituted “violence, a violation of section 1591,” for “violence,”.
 
 2006—Subsecs. (b), (c)(1)(A). Pub. L. 109–162 inserted “and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a)” after “period of release”.
 
@@ -212,9 +232,9 @@ Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out “his” after “person 
 
 Subsec. (c). Pub. L. 99–646, §55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N) as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
 
-Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person's United States citizenship orlawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
+Subsec. (d). Pub. L. 99–646, §55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person's United States citizenship or lawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
 
-Subsec. (e). Pub. L. 99–646, §55(c)(5), in introductory provisions inserted “of this section” after “subsection (f)” and substituted “such judicial officer” for “he”, “before” for “prior to”, “described in subsection (f)(1) of this section” for “described in (f)(1)”, and “if such judicial officer” for “if the judge”, in par. (1) inserted “of this section” after “subsection (f)(1)” in two places, and in pars. (2) and (3) inserted “of this section” after “paragraph (1)”.
+Subsec. (e). Pub. L. 99–646, §55(c)(5), in introductory provisions inserted “of this section” after “subsection (f)” and substituted “such judicial officer” for “he”, “before” for “prior to”, “described in subsection (f)(1) of this section” for “described in (f)(1)”, and “if such judicial officer” for “if the judge”, in par. (1) inserted“of this section” after “subsection (f)(1)” in two places, and in pars. (2) and (3) inserted “of this section” after “paragraph (1)”.
 
 Subsec. (f). Pub. L. 99–646, §72, in par. (1)(D) substituted “any felony if the person has been convicted of two or more offenses” for “any felony committed after the person had been convicted of two or more prior offenses” and inserted “, or a combination of such offenses”, in par. (2)(A) inserted “or” after “flee;”, and in concluding provisions, inserted provision permitting the hearing to be reopened at any time before trial if the judicial officer finds that information exists that was unknown to the movant at the time of the hearing and that has a material bearing on whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community.
 

@@ -60,7 +60,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+&emsp;&emsp;Except as provided in subparagraph (B), a person may not procure a consumer report, or cause a consumer report to be procured,for employment purposes with respect to any consumer, unless—
 
 &emsp;&emsp;&emsp;(i) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
 
@@ -118,7 +118,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an agency or department of the United States Government which seeks to obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
+&emsp;&emsp;In the case of an agency or department of the United States Government which seeksto obtain and use a consumer report for employment purposes, paragraph (3) shall not apply to any adverse action by such agency or department which is based in part on such consumer report, if the head of such agency or department makes a written finding that—
 
 &emsp;&emsp;&emsp;(i) the consumer report is relevant to a national security investigation of such agency or department;
 
@@ -198,7 +198,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (1) In general
 
-&emsp;A consumer may elect to have the consumer's name and address excluded from any listprovided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+&emsp;A consumer may elect to have the consumer's name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
 
 #### (2) Manner of notification
 
@@ -274,7 +274,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;&emsp;&emsp;(i) the information to be furnished is relevant to process or effect the employment or credit transaction; and
 
-&emsp;&emsp;&emsp;(ii) the consumer provides specific written consent for the furnishing of the report that describes in clear and conspicuous language the use for which the information will be furnished; or
+&emsp;&emsp;&emsp;(ii) the consumer provides specific written consent for the furnishing of the report that describes in clear and conspicuouslanguage the use for which the information will be furnished; or
 
 &emsp;&emsp;(C) the information to be furnished pertains solely to transactions, accounts, or balances relating to debts arising from the receipt of medical services, products, or devises, where such information, other than account status or amounts, is restricted or reported using codes that do not identify, or do not provide information sufficient to infer, the specific provider or the nature of such services, products, or devices, as provided in section 1681c(a)(6) of this title.
 
@@ -314,7 +314,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### References in Text
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, §2, 64 Stat.873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
 The Federal Credit Union Act, referred to in subsec. (a)(6), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified principally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
@@ -408,7 +408,7 @@ Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

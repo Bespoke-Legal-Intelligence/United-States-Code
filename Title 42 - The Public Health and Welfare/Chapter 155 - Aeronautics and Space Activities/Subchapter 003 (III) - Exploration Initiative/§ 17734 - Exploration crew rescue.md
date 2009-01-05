@@ -1,0 +1,6 @@
+### §17734. Exploration crew rescue
+
+In order to maximize the ability to rescue astronauts whose space vehicles have become disabled, the Administrator shall enter into discussions with the appropriate representatives of spacefaring nations who have or plan to have crew transportation systems capable of orbital flight or flight beyond low Earth orbit for the purpose of agreeing on a common docking system standard.
+
+(Pub. L. 110–422, title IV, §407, Oct. 15, 2008, 122 Stat. 4790.)
+

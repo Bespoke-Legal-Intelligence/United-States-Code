@@ -12,9 +12,9 @@ Retention.—Notwithstanding any provision of chapter 1407 of this title and exc
 
 (b)
 
-Separation at Specified Age.—An officer may not be retained in active status under this section later than the date on which the officer becomes 67 years of age.
+Separation at Specified Age.—An officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, §516, Oct. 5, 1999, 113 Stat. 594; Pub. L. 106–398, §1 \[\[div. A\], title V, §523\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, §516, Oct. 5, 1999, 113 Stat. 594; Pub. L. 106–398, §1 \[\[div. A\], title V, §523\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 110–417, \[div. A\], title V, §516(a), Oct. 14, 2008, 122 Stat. 4442.)
 
 #### Prior Provisions
 
@@ -22,7 +22,9 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–398 substituted “Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.” for “veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist.”
+2008—Subsec. (b). Pub. L. 110–417 substituted “68 years” for “67 years”.
+
+2000—Subsec. (a)(3). Pub. L. 106–398 substituted “Air Force nurse, Medical Service Corps officer, biomedicalsciences officer, or chaplain.” for “veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist.”
 
 1999—Subsec. (b). Pub. L. 106–65 struck out “(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)” after “67 years of age”.
 

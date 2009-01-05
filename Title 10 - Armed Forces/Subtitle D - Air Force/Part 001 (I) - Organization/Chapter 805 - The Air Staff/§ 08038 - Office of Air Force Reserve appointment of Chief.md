@@ -58,7 +58,7 @@ Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretar
 
 &emsp;“(3) have been recommended by the Secretary of the Air Force.”
 
-Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:“The Chief of Air Force Reserve holds office for four years, but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Air Force Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chief of Air Force Reserve holds office for four years, but may be removed for cause at any time. He is eligible to succeed himself. If he holds a lower reserve grade, he shall be appointed in the grade of major general for service in the Air Force Reserve. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 1999—Subsec. (c). Pub. L. 106–65 inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who isa covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
 
 #### Effective Date of 1994 Amendment
 

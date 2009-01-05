@@ -26,7 +26,7 @@ Apportionments between urbanized areas and other than urbanized areas in each st
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in that State divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
+In general.—The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in thatState divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
 
 &emsp;&emsp;(B)
 

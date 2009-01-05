@@ -34,7 +34,7 @@ Except as otherwise provided in this section, title 5 shall not apply to the Ins
 
 #### (c) Appeal to Board
 
-Any officer or employee of the Institute may appeal to the Board any determination by thePresident of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
+Any officer or employee of the Institute may appeal to the Board any determination by the President of the Institute to not re-employ or to discharge such officer or employee. Upon appeal, the Board may, in writing, overturn the determination of the President of the Institute with respect to the employment of such officer or employee.
 
 #### (d) No reduction in classification or compensation
 
@@ -50,7 +50,7 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 > shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b) of this section, with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
 
-(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
+(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, exceptthat leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
 
 (3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) of this section shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
 

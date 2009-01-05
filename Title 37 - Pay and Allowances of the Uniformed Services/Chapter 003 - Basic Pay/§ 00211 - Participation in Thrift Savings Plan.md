@@ -40,9 +40,15 @@ Agency Contributions for Retention in Critical Specialties and First-Time Enlist
 
 (4) Paragraph (2) of section 8432(c) of title 5 applies to the Secretary's obligation to make contributions under this subsection, except that the reference in such paragraph (2) to contributions under paragraph (1) of such section 8432(c) does not apply.
 
-(Added and amended Pub. L. 106–65, div. A, title VI, §§661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, §605, Jan. 6, 2006, 119 Stat. 3287.)
+(e)
+
+Repayment of Amounts Borrowed From Member Account.—If a loan is issued to a member under section 8433(g) of title 5 from funds in the member's account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under section 1014(c) of this title.
+
+(Added and amended Pub. L. 106–65, div. A, title VI, §§661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, §605, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 110–181, div. A, title VI, §605(b), Jan. 28, 2008, 122 Stat. 146.)
 
 #### Amendments
+
+2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
 2006—Subsec. (d). Pub. L. 109–163, §605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
 

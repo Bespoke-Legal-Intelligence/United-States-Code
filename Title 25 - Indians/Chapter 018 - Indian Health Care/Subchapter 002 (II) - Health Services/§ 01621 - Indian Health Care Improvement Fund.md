@@ -36,7 +36,7 @@ The Secretary is authorized to expend funds which are appropriated under the aut
 
 (1) Any funds appropriated under the authority of this section shall not be used to offset or limit any appropriations made to the Service under section 13 of this title, or any other provision of law.
 
-(2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each service unit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
+(2)(A) Funds appropriated under the authority of this section may be allocated on a service unit basis. The funds allocated to each serviceunit under this subparagraph shall be used by the service unit to reduce the health status and resource deficiency of each tribe served by such service unit.
 
 (B) The apportionment of funds allocated to a service unit under subparagraph (A) among the health service responsibilities described in subsection (a)(4) of this section shall be determined by the Service in consultation with, and with the active participation of, the affected Indian tribes.
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;(2) The health resources available to an Indian tribe include health resources provided by the Service as well as health resources used by the Indian tribe, including services and financing systems provided by any Federal programs, private insurance, and programs of State or local governments.
 
-&emsp;(3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination ofthe extent of the health status and resource deficiency of such tribe.
+&emsp;(3) The Secretary shall establish procedures which allow any Indian tribe to petition the Secretary for a review of any determination of the extent of the health status and resource deficiency of such tribe.
 
 #### (d) Programs administered by Indian tribe
 

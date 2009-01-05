@@ -62,7 +62,7 @@ A prior section 10 of Pub. L. 100–579 repealed section 1621d of Title 25, Indi
 
 Subsec. (b)(1)(C). Pub. L. 107–116, §514(a)(2), which directed the substitution of “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
-1998—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) ofsection 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
+1998—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(A). Pub. L. 105–256, §12(b)(1), inserted “identified in the Native Hawaiian comprehensive health care master plan implemented under section 11703 of this title” after “health care professional”.
 

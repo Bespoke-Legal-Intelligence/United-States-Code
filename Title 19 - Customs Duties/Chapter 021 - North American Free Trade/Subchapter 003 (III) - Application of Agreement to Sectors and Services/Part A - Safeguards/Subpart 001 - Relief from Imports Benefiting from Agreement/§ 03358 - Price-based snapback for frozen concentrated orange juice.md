@@ -16,7 +16,7 @@
 
 #### (b) Imports of Mexican articles
 
-Whenever after any determination date for a determination under subsection (a)(1)(A) of thissection, the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds—
+Whenever after any determination date for a determination under subsection (a)(1)(A) of this section, the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds—
 
 &emsp;(1) 264,978,000 liters (single strength equivalent) in any of calendar years 1994 through 2002; or
 

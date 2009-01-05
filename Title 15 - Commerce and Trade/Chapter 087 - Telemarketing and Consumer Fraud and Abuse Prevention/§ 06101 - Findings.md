@@ -26,50 +26,6 @@ Pub. L. 106–534, §1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Ac
 
 Section 1 of Pub. L. 103–297 provided that: “This Act \[enacting this chapter and section 9b of Title 7, Agriculture, and amending section 52 of this title\] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
 
-#### Do-Not-Call Implementation
-
-Pub. L. 108–10, Mar. 11, 2003, 117 Stat. 557, provided that:
-
-#### “SECTION 1. SHORT TITLE.
-
-“This Act may be cited as the ‘Do-Not-Call Implementation Act’.
-
-#### “SEC. 2. TELEMARKETING SALES RULE; DO-NOT-CALL REGISTRY FEES.
-
-“The Federal Trade Commission may promulgate regulations establishing fees sufficient to implement and enforce the provisions relating to the ‘do-not-call’ registry of the Telemarketing Sales Rule (16 CFR 310.4(b)(1)(iii)), promulgated under the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6101 et seq.). Such regulations shall be promulgated in accordance with section 553 of title 5, United States Code. Fees may be collected pursuant to this section for fiscal years 2003 through 2007, and shall be deposited and credited as offsetting collections to the account, Federal Trade Commission—Salaries and Expenses, and shall remain available until expended. No amounts shall be collected as fees pursuant to this section for such fiscal years except to the extent provided in advance in appropriations Acts. Such amounts shall be available for expenditure only to offset the costs of activities and services related to the implementation and enforcement of the Telemarketing Sales Rule, and other activities resulting from such implementation and enforcement.
-
-#### “SEC. 3. FEDERAL COMMUNICATIONS COMMISSION DO-NOT-CALL REGULATIONS.
-
-“Not later than 180 days after the date of enactment of this Act \[Mar. 11, 2003\], the Federal Communications Commission shall issue a final rule pursuant to the rulemaking proceeding that it began on September 18, 2002, under the Telephone Consumer Protection Act \[of 1991\] (47 U.S.C. 227 et seq.) \[see Short Title of 1991 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. In issuing such rule, the Federal Communications Commission shall consult and coordinate with the Federal Trade Commission to maximize consistency with the rule promulgated by the Federal Trade Commission (16 CFR 310.4(b)).
-
-#### “SEC. 4. REPORTING REQUIREMENTS.
-
-“(a)
-
-Report on Regulatory Coordination.—Within 45 days after the promulgation of a final rule by the Federal Communications Commission as required by section 3, the Federal Trade Commission and the Federal Communications Commission shall each transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report which shall include—
-
-&emsp;“(1) an analysis of the telemarketing rules promulgated by both the Federal Trade Commission and the Federal Communications Commission;
-
-&emsp;“(2) any inconsistencies between the rules promulgated by each such Commission and the effect of any such inconsistencies on consumers, and persons paying for access to the registry; and
-
-&emsp;“(3) proposals to remedy any such inconsistencies.
-
-“(b)
-
-Annual Report.—For each of fiscal years 2003 through 2007, the Federal Trade Commission and the Federal Communications Commission shall each transmit an annual report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report which shall include—
-
-&emsp;“(1) an analysis of the effectiveness of the ‘do-not-call’ registry as a national registry;
-
-&emsp;“(2) the number of consumers who have placed their telephone numbers on the registry;
-
-&emsp;“(3) the number of persons paying fees for access to the registry and the amount of such fees;
-
-&emsp;“(4) an analysis of the progress of coordinating the operation and enforcement of the ‘do-not-call’ registry with similar registries established and maintained by the various States;
-
-&emsp;“(5) an analysis of the progress of coordinating the operation and enforcement of the ‘do-not-call’ registry with the enforcement activities of the Federal Communications Commission pursuant to the Telephone Consumer Protection Act \[of 1991\] (47 U.S.C. 227 et seq.); and
-
-&emsp;“(6) a review of the enforcement proceedings under the Telemarketing Sales Rule (16 CFR 310), in the case of the Federal Trade Commission, and under the Telephone Consumer Protection Act \[of 1991\] (47 U.S.C. 227 et seq.), in the case of the Federal Communications Commission.”
-
 #### Congressional Findings
 
 Pub. L. 106–534, §2, Nov. 22, 2000, 114 Stat. 2555, provided that: “Congress makes the following findings:
@@ -112,7 +68,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 “(b)
 
-Comptroller General.—The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180 days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
+Comptroller General.—The Comptroller General of the United States shall submit to Congress a report on the effectiveness of the TRIAD program 180days prior to the expiration of the authorization under this Act \[see Short Title of 2000 Amendment note above\], including an analysis of TRIAD programs and activities; identification of impediments to the establishment of TRIADs across the Nation; and recommendations to improve the effectiveness of the TRIAD program.”
 
 #### Dissemination of Information
 

@@ -6,7 +6,7 @@ A firearm may be exported without payment of the transfer tax imposed under sect
 
 #### Prior Provisions
 
-A prior section 5854, Pub. L. 85–859, title II, §203(i)(1), Sept. 2, 1958, 72 Stat. 1428, related to failure to register and pay special tax, prior to the general revision of thischapter by Pub. L. 90–618. See section 5861(a), (d) of this title and section 923 of Title 18, Crimes and Criminal Procedure.
+A prior section 5854, Pub. L. 85–859, title II, §203(i)(1), Sept. 2, 1958, 72 Stat. 1428, related to failure to register and pay special tax, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(a), (d) of this title and section 923 of Title 18, Crimes and Criminal Procedure.
 
 Provisions similar to those comprising this section were contained in prior section 5844, act Aug. 16, 1954, ch. 736, 68A Stat. 725, prior to the general revision of this chapter by Pub. L. 90–618.
 

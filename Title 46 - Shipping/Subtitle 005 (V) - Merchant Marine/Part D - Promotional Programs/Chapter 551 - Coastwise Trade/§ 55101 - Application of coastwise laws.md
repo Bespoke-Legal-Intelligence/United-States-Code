@@ -10,13 +10,11 @@ Exceptions.—The coastwise laws do not apply to—
 
 &emsp;(1) American Samoa;
 
-&emsp;(2) the Northern Mariana Islands, except as provided in section 502(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48 U.S.C. 1801 note);
+&emsp;(2) the Northern Mariana Islands, except as provided in section 502(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48 U.S.C. 1801 note); or
 
-&emsp;(3) Canton Island until the President declares by proclamation that the coastwise laws apply to Canton Island; or
+&emsp;(3) the Virgin Islands until the President declares by proclamation that the coastwise laws apply to the Virgin Islands.
 
-&emsp;(4) the Virgin Islands until the President declares by proclamation that the coastwise laws apply to the Virgin Islands.
-
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632; Pub. L. 110–181, div. C, title XXXV, §3527(a), Jan. 28, 2008, 122 Stat. 602.)
 
 Historical and Revision Notes
 
@@ -70,7 +68,7 @@ The provisos of 46 App. U.S.C. 877 relating to the Philippine Islands are omitte
 
 Section 502(b) of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsec. (b)(2), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 
-#### Canton Island; Sovereignty of Kiribati
+#### Amendments
 
-By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognized the sovereignty of Kiribati over Canton Island.
+2008—Subsec. (b). Pub. L. 110–181 inserted “or” after semicolon at end of par. (2), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “Canton Island until the President declares by proclamation that the coastwise laws apply to Canton Island; or”.
 

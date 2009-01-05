@@ -14,7 +14,7 @@ Civilian Agency Systems.—For purposes of section 2302(5) of this title, a syst
 
 &emsp;(1) $750,000 (based on fiscal year 1980 constant dollars); or
 
-&emsp;(2) the dollar threshold for a “major system” established by the agency pursuant to Officeof Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
+&emsp;(2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
 
 (c)
 

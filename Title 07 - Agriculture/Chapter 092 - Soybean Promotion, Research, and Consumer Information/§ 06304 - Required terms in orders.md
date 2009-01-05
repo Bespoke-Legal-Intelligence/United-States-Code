@@ -58,7 +58,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (I) State units
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially-established Board to which a State unit is entitled from the State soybean board in the State that submits satisfactory evidence to the Secretary that such board meets the criteria of subparagraph (A) or (B) of section 6302(14) of this title. If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially-established Board to which a State unit is entitled from the State soybean board in the State that submits satisfactory evidence to the Secretary that such board meets the criteria of subparagraph (A) or\(B) of section 6302(14) of this title. If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
 
 #### (II) Combined units
 
@@ -90,7 +90,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (A) Appointment
 
-&emsp;&emsp;Notwithstanding paragraphs (1) through (5), the Secretary, under procedures established by the Secretary, shall appoint to the initially-established Board up to three temporary members to serve in addition to themembers appointed as otherwise provided in this subsection, as the Secretary determines appropriate for transition purposes under the criteria set out in subparagraph (B). Each such temporary member shall be appointed for a single term not to exceed 3 years.
+&emsp;&emsp;Notwithstanding paragraphs (1) through (5), the Secretary, under procedures established by the Secretary, shall appoint to the initially-established Board up to three temporary members to serve in addition to the members appointed as otherwise provided in this subsection, as the Secretary determines appropriate for transition purposes under the criteria set out in subparagraph (B). Each such temporary member shall be appointed for a single term not to exceed 3 years.
 
 #### (B) Representation of certain States
 
@@ -132,7 +132,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided in this subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
+&emsp;The order shall establish procedures for the conduct of voting by the Board, as provided inthis subsection. On or after the end of the 3-year period beginning on the effective date of the order, the Board may recommend to the Secretary changes in the voting procedures of the Board and the Secretary may amend the order to make such changes. Such changes shall not be subject to a referendum of producers.
 
 #### (2) Number of votes per member
 
@@ -214,7 +214,7 @@ The order shall provide that the Board shall review or, on its own initiative, d
 
 &emsp;&emsp;&emsp;&emsp;(II) additional members of the Board elected by the Board; and
 
-&emsp;&emsp;&emsp;(ii) not more than one-third of the Committee shall be producers elected by the national, nonprofit soybean producer-governed organization that conducts activities on behalf of State soybean boards and that, on November 28, 1990, conducts activities to promote soybeans and soybean products as a cooperator with the Foreign Agricultural Service of the Department.
+&emsp;&emsp;&emsp;(ii) not more than one-third of the Committee shall be producers elected by the national, nonprofit soybean producer-governed organization that conducts activities on behalf of State soybean boards and that, on November 28, 1990, conducts activities to promote soybeans and soybeanproducts as a cooperator with the Foreign Agricultural Service of the Department.
 
 #### (B) Certification
 
@@ -366,7 +366,7 @@ The order shall require the Board to—
 
 #### (ii) By Board
 
-&emsp;&emsp;&emsp;During the period referred to in clause (i), refunds shall be provided equally from the Board and, where applicable, the qualified State soybean board, as determined by the Secretary.
+&emsp;&emsp;&emsp;During the period referred to in clause (i), refunds shall be provided equally fromthe Board and, where applicable, the qualified State soybean board, as determined by the Secretary.
 
 #### (B) Administration
 
@@ -398,7 +398,7 @@ The order shall require the Board to—
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;Effective for the period beginning on the date the Secretary determines the result of the initial referendum under section 6305(a) of this title and ending on a date (not later than 18 months thereafter) established by the Secretary, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall make refunds available to soybeanproducers at the end of the fiscal year from escrowed funds, as provided for in clause (vii). Such refunds shall be made available, under the procedures specified in subparagraphs (A) through (D) to the extent not inconsistent with this subparagraph, to producers who have requested refunds during such period.
+&emsp;&emsp;&emsp;Effective for the period beginning on the date the Secretary determines the result of the initial referendum under section 6305(a) of this title and ending on a date (not later than 18 months thereafter) established by the Secretary, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall make refunds available to soybean producers at the end of the fiscal year from escrowed funds, as provided for in clause (vii). Such refunds shall be made available, under the procedures specified in subparagraphs (A) through (D) to the extent not inconsistent with this subparagraph, to producers who have requested refunds during such period.
 
 #### (iii) Poll
 
@@ -476,7 +476,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (2) Post-referendum period
 
-&emsp;The order shall provide, effective after the conduct of the referendum provided for in section 6305(a) of this title, subject to paragraph (3), that the Board annually shall provide a credit to each qualified State soybean board of an amount by which—
+&emsp;The order shall provide, effective after the conduct of the referendum provided for in section 6305(a) of this title, subject to paragraph (3), that the Board annually shall provide acredit to each qualified State soybean board of an amount by which—
 
 &emsp;&emsp;(A) the amount equal to 1 cent times the average number of bushels of soybeans produced in the State during each of the preceding 5 years (excluding the year in which the production is the highest and the year in which the production is the lowest); exceeds
 

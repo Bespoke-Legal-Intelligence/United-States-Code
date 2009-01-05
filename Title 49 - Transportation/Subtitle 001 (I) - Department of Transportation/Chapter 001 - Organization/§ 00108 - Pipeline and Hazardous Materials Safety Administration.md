@@ -6,7 +6,7 @@ In General.—The Pipeline and Hazardous Materials Safety Administration shall b
 
 (b)
 
-Safety as Highest Priority.—In carrying out its duties, the Administration shall considerthe assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in pipeline transportation and hazardous materials transportation.
+Safety as Highest Priority.—In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in pipeline transportation and hazardous materials transportation.
 
 (c)
 
@@ -72,7 +72,7 @@ Section 4(j)(4) amends 49:108(a) to reflect the intent of 49 App.:1655(b)(2), on
 
 #### Savings Provisions
 
-Pub. L. 108–426, §5, Nov. 30, 2004, 118 Stat. 2426, provided that:
+Pub. L. 108–426, §5, Nov. 30, 2004, 118 Stat. 2426, as amended by Pub. L. 110–244, title III, §302(h), June 6, 2008, 122 Stat. 1618, provided that:
 
 “(a)
 
@@ -80,7 +80,7 @@ Transfer of Assets and Personnel.—Personnel, property, and records employed, u
 
 “(b)
 
-Legal Documents.—All orders, determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
+Legal Documents.—All orders (including delegations by the Secretary of Transportation), determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
 
 &emsp;“(1) that have been issued, made, granted, or allowed to become effective by any officer or employee, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
@@ -98,7 +98,7 @@ Suits.—
 
 &emsp;“(1)
 
-In general.—This Act shall not affect suits commenced before the date of enactment of this Act \[Nov. 30, 2004\], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+In general.—This Act shall not affect suits commenced before the date of enactment of this Act \[Nov. 30, 2004\], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the samemanner and with the same effect as if this Act had not been enacted.
 
 &emsp;“(2)
 

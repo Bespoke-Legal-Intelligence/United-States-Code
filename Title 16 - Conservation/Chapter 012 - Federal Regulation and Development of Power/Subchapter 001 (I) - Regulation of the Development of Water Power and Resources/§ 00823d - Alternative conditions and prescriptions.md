@@ -4,7 +4,7 @@
 
 (1) Whenever any person applies for a license for any project works within any reservation of the United States, and the Secretary of the department under whose supervision such reservation falls (referred to in this subsection as the “Secretary”) deems a condition to such license to be necessary under the first proviso of section 797(e) of this title, the license applicant or any other party to the license proceeding may propose an alternative condition.
 
-(2) Notwithstanding the first proviso of section 797(e) of this title, the Secretary shall accept the proposed alternative condition referred to in paragraph (1), and the Commission shall include in the license such alternative condition, if the Secretary determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative condition—
+(2) Notwithstanding the first proviso of section 797(e) of this title, the Secretary shall acceptthe proposed alternative condition referred to in paragraph (1), and the Commission shall include in the license such alternative condition, if the Secretary determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative condition—
 
 &emsp;(A) provides for the adequate protection and utilization of the reservation; and
 
@@ -24,7 +24,7 @@
 
 (1) Whenever the Secretary of the Interior or the Secretary of Commerce prescribes a fishway under section 811 of this title, the license applicant or any other party to the license proceeding may propose an alternative to such prescription to construct, maintain, or operate a fishway.
 
-(2) Notwithstanding section 811 of this title, the Secretary of the Interior or the Secretary ofCommerce, as appropriate, shall accept and prescribe, and the Commission shall require, the proposed alternative referred to in paragraph (1), if the Secretary of the appropriate department determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative—
+(2) Notwithstanding section 811 of this title, the Secretary of the Interior or the Secretary of Commerce, as appropriate, shall accept and prescribe, and the Commission shall require, the proposed alternative referred to in paragraph (1), if the Secretary of the appropriate department determines, based on substantial evidence provided by the license applicant, any other party to the proceeding, or otherwise available to the Secretary, that such alternative—
 
 &emsp;(A) will be no less protective than the fishway initially prescribed by the Secretary; and
 

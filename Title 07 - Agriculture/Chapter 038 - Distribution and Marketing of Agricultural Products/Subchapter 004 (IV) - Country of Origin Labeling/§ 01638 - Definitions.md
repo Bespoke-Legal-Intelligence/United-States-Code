@@ -20,9 +20,19 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iv) wild fish;
 
-&emsp;&emsp;&emsp;(v) a perishable agricultural commodity; and
+&emsp;&emsp;&emsp;(v) a perishable agricultural commodity;
 
-&emsp;&emsp;&emsp;(vi) peanuts.
+&emsp;&emsp;&emsp;(vi) peanuts; and <sup>1</sup>
+
+&emsp;&emsp;&emsp;(vii) meat produced from goats;
+
+&emsp;&emsp;&emsp;(viii) chicken, in whole and in part;
+
+&emsp;&emsp;&emsp;(ix) ginseng;
+
+&emsp;&emsp;&emsp;(x) pecans; and
+
+&emsp;&emsp;&emsp;(xi) macadamia nuts.
 
 #### (B) Exclusions
 
@@ -70,5 +80,19 @@ In this subchapter:
 
 &emsp;&emsp;The term “wild fish” excludes net-pen aquacultural or other farm-raised fish.
 
-(Aug. 14, 1946, ch. 966, title II, §281, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533.)
+(Aug. 14, 1946, ch. 966, title II, §281, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 110–234, title XI, §11002(1), May 22, 2008, 112 Stat. 1351; Pub. L. 110–246, §4(a), title XI, §11002(1), June 18, 2008, 122 Stat. 1664, 2113.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+2008—Par. (2)(A)(vii) to (xi). Pub. L. 110–246, §11002(1), added cls. (vii) to (xi).
+
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -24,7 +24,7 @@ As used in this chapter—
 
 &emsp;(7) the term “Armed Services Board” means the Armed Services Board of Contract Appeals established under section 607(a)(1) of this title;
 
-&emsp;(8) the term “Civilian Board” means the Civilian Board of Contract Appeals establishedunder section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\]; and
+&emsp;(8) the term “Civilian Board” means the Civilian Board of Contract Appeals established under section 42 of the Office of Federal Procurement Policy Act \[41 U.S.C. 438\]; and
 
 &emsp;(9) the term “misrepresentation of fact” means a false statement of substantive fact, or any conduct which leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 
@@ -44,7 +44,7 @@ In par. (2), “section 9101(3) of title 31” substituted for “section 846 of
 
 2006—Par. (2). Pub. L. 109–163, §847(d)(1)(A), struck out “, the United States Postal Service, and the Postal Rate Commission” before semicolon at end.
 
-Par. (6). Pub. L. 109–163, §847(d)(1)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the term ‘agency board’ means an agency board of contract appeals established under section 607 of this title; and”.
+Par. (6). Pub. L. 109–163, §847(d)(1)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows:“the term ‘agency board’ means an agency board of contract appeals established under section 607 of this title; and”.
 
 Pars. (7) to (9). Pub. L. 109–163, §847(d)(1)(B), (D), added pars. (7) and (8) and redesignated former par. (7) as (9).
 

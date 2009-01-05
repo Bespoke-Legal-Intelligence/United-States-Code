@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initial installment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
+Subject to subsection (b) of this section, Federal credit union membership shall consist of the incorporators and such other persons and incorporated and unincorporated organizations, to the extent permitted by rules and regulations prescribed by the Board, as may be elected to membership and as such shall each, subscribe to at least one share of its stock and pay the initialinstallment thereon and a uniform entrance fee if required by the board of directors. Shares may be issued in joint tenancy with right of survivorship with any persons designated by the credit union member, but no joint tenant shall be permitted to vote, obtain loans, or hold office, unless he is within the field of membership and is a qualified member.
 
 #### (b) Membership field
 
@@ -138,7 +138,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
 
-Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groupshaving a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
 Subsecs. (b) to (e). Pub. L. 105–219, §101(2), added subsecs. (b) to (e).
 

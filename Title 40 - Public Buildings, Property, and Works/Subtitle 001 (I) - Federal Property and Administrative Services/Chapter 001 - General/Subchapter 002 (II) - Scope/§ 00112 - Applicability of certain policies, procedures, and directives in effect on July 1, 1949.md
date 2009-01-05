@@ -14,7 +14,7 @@ Description.—A policy, procedure, or directive referred to in subsection (a) i
 
 &emsp;(3) the Federal Works Administrator or the head of a constituent agency of the Federal Works Agency; or
 
-&emsp;(4) the Archivist of the United States or another officer or body whose functions weretransferred on June 30, 1949, by title I of the Federal Property and Administrative Services Act of 1949.
+&emsp;(4) the Archivist of the United States or another officer or body whose functions were transferred on June 30, 1949, by title I of the Federal Property and Administrative Services Act of 1949.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1065.)
 
@@ -36,7 +36,7 @@ June 30, 1949, ch. 288, title VI, §601, formerly title V, §501, 63 Stat. 399; 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), (4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of this title. Provisions of former title I of the Act now appear in chapter 3 of this title.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), (4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of this title. Provisions of former title I of the Act now appear in chapter 3 of this title relating to organization of General Services Administration.
 
 The Surplus Property Act of 1944, referred to in subsec. (b)(2), is act Oct. 3, 1944, ch. 479, 58 Stat. 765, as amended, which was classified principally to sections 1611 to 1646 of Title 50, Appendix, War and National Defense, and was repealed effective July 1, 1949, with the exception of sections 1622, 1631, 1637, and 1641 of Title 50, Appendix, by act June 30, 1949, ch. 288, title VI, §602(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583. Sections 1622 and 1641 were partially repealed by the 1949 act, and section 1622 is set out in part in Title 50, Appendix. Section 1622(g) was repealed and reenacted as sections 47151 to 47153 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1278–1280, 1379. Section 1631 was repealed by act June 7, 1939, ch. 190, §6(e), as added by act July 23, 1946, ch. 590, 60 Stat. 599, and is covered by sections 98 et seq. of Title 50. Section 1637 was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948, and is covered by section 3287 of Title 18, Crimes and Criminal Procedure. Provisions of section 1641 not repealed by the 1949 act were repealed by Pub. L. 87–256, §111(a)(1), Sept. 21, 1961, 75 Stat. 538, and are covered by chapter 33 (§2451 et seq.) of Title 22, Foreign Relations and Intercourse. The provisions of the Surplus Property Act of 1944 originally repealed by the 1949 act are covered by provisions of the 1949 act which were classified to chapter 10 (§471 et seq.) of former Title 40, Public Buildings, Property, and Works, and which were repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of this title.
 

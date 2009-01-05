@@ -20,7 +20,7 @@ For the purpose of carrying out his authority under section 6381 of this titleâ€
 
 #### (b) Information in possession of Federal agencies
 
-The Comptroller General shall have access to any energy information within the possession ofany Federal agency (other than the Internal Revenue Service) as is necessary to carry out his authority under this section.
+The Comptroller General shall have access to any energy information within the possession of any Federal agency (other than the Internal Revenue Service) as is necessary to carry out his authority under this section.
 
 #### (c) Transmission of examination results to Federal agencies
 

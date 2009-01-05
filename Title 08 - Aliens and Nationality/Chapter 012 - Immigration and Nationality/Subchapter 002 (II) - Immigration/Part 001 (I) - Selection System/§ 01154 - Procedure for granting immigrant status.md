@@ -140,7 +140,7 @@
 
 (ii) Aliens claiming status as a special immigrant under section 1101(a)(27)(D) of this title may file a petition only with the Secretary of State and only after notification by the Secretary that such status has been recommended and approved pursuant to such section.
 
-(H) Any alien desiring to be classified under section 1153(b)(5) of this title may file a petition with the Attorney General for such classification.
+(H) Any alien desiring to be classified under section 1153(b)(5) of this title may file a petitionwith the Attorney General for such classification.
 
 (I)(i) Any alien desiring to be provided an immigrant visa under section 1153(c) of this title may file a petition at the place and time determined by the Secretary of State by regulation. Only one such petition may be filed by an alien with respect to any petitioning period established. If more than one petition is submitted all such petitions submitted for such period by the alien shall be voided.
 
@@ -160,7 +160,7 @@
 
 &emsp;(ii) may be provided an “employment authorized” endorsement or appropriate work permit incidental to such approval.
 
-(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty ortrafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
+(L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of section 1101(a)(15) of this title may not file a petition for classification under this section or section 1184 of this title to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual's child) which established the individual's (or individual's child <sup>2</sup>) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
 (2)(A) The Attorney General may not approve a spousal second preference petition for the classification of the spouse of an alien if the alien, by virtue of a prior marriage, has been accorded the status of an alien lawfully admitted for permanent residence as the spouse of a citizen of the United States or as the spouse of an alien lawfully admitted for permanent residence, unless—
 
@@ -182,7 +182,9 @@ Notwithstanding the provisions of subsection (b) of this section no petition sha
 
 #### (d) Recommendation of valid home-study
 
-Notwithstanding the provisions of subsections (a) and (b) of this section no petition may be approved on behalf of a child defined in section 1101(b)(1)(F) of this title unless a valid home-study has been favorably recommended by an agency of the State of the child's proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
+(1) Notwithstanding the provisions of subsections (a) and (b) of this section no petition may be approved on behalf of a child defined in subparagraph (F) or (G) of section 1101(b)(1) of this title unless a valid home-study has been favorably recommended by an agency of the State of the child's proposed residence, or by an agency authorized by that State to conduct such a study, or, in the case of a child adopted abroad, by an appropriate public or private adoption agency which is licensed in the United States.
+
+(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined insection 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].
 
 #### (e) Subsequent finding of non-entitlement to preference classification
 
@@ -220,7 +222,7 @@ Notwithstanding subsection (a) of this section, except as provided in section 12
 
 #### (h) Survival of rights to petition
 
-The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this section pursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
+The legal termination of a marriage may not be the sole basis for revocation under section 1155 of this title of a petition filed under subsection (a)(1)(A)(iii) of this section or a petition filed under subsection (a)(1)(B)(ii) of this sectionpursuant to conditions described in subsection (a)(1)(A)(iii)(I) of this section. Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.
 
 #### (i) Professional athletes
 
@@ -260,15 +262,11 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 (June 27, 1952, ch. 477, title II, ch. 1, §204, 66 Stat. 179; Pub. L. 87–885, §3, Oct. 24, 1962, 76 Stat. 1247; Pub. L. 89–236, §4, Oct. 3, 1965, 79 Stat. 915; Pub. L. 94–571, §7(b), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–417, §§2, 3, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–470, title II, §207, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–116, §§3, 18(d), Dec. 29, 1981, 95 Stat. 1611, 1620; Pub. L. 97–359, Oct. 22, 1982, 96 Stat. 1716; Pub. L. 99–639, §§2(c), 4(a), 5(b), Nov. 10, 1986, 100 Stat. 3541, 3543; Pub. L. 100–525, §9(g), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §162(b), title VII, §702(b), Nov. 29, 1990, 104 Stat. 5010, 5086; Pub. L. 102–232, title III, §§302(e)(4), (5), 308(b), 309(b)(5), Dec. 12, 1991, 105 Stat. 1745, 1746, 1757, 1758; Pub. L. 103–322, title IV, §40701(a), (b)(1), (c), Sept. 13, 1994, 108 Stat. 1953, 1954; Pub. L. 103–416, title II, §219(b)(2), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(1)(A), (f)(2)(A), title VI, §624(b), Sept. 30, 1996, 110 Stat. 3009–619, 3009–621, 3009–699; Pub. L. 106–279, title III, §302(b), Oct. 6, 2000, 114 Stat. 839; Pub. L. 106–313, title I, §106(c)(1), Oct. 17, 2000, 114 Stat. 1254; Pub. L. 106–386, div. B, title V, §§1503(b)–(d), 1507(a)(1), (2), (b), Oct. 28, 2000, 114 Stat. 1518–1521, 1529, 1530; Pub. L. 107–208, §§6, 7, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–162, title VIII, §§805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059, 3060; Pub. L. 109–248, title IV, §402(a), July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(a), Aug. 12, 2006, 120 Stat. 762.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 106–279, title III, §§302(b), 505(a)(2), (b), Oct. 6, 2000, 114 Stat. 839, 844, provided that, effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, subsection (d) of this section is amended by striking “(d)” and inserting “(d)(1)”, by striking “section 1101(b)(1)(F)” and inserting “subparagraph (F) or (G) of section 1101(b)(1)”, and by adding at the end the following new paragraph:</i>
-
-<i>(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].</i>
-
 #### References in Text
 
 The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is Pub. L. 107–208, Aug. 6, 2002, 116 Stat. 927, which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 1101 of this title and Tables.
+
+The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to chapter 143 (§14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of Title 42 and Tables.
 
 #### Amendments
 
@@ -304,7 +302,7 @@ Subsec. (k). Pub. L. 107–208, §6, added subsec. (k).
 
 &emsp;“(II) the alien is a person whose removal, in the opinion of the Attorney General, would result in extreme hardship to the alien or a child of the alien.”
 
-Subsec. (a)(1)(A)(iv). Pub. L. 106–386, §1503(b)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv)read as follows: “An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
+Subsec. (a)(1)(A)(iv). Pub. L. 106–386, §1503(b)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “An alien who is the child of a citizen of the United States, who is a person of good moral character, who is eligible to be classified as an immediate relative under section 1151(b)(2)(A)(i) of this title, and who has resided in the United States with the citizen parent may file a petition with the Attorney General under this subparagraph for classification of the alien under such section if the alien demonstrates to the Attorney General that—
 
 &emsp;“(I) the alien is residing in the United States and during the period of residence with the citizen parent the alien has been battered by or has been the subject of extreme cruelty perpetrated by the alien's citizen parent; and
 
@@ -329,6 +327,8 @@ Subsec. (a)(1)(B)(v). Pub. L. 106–386, §1507(a)(2), added cl. (v).
 Subsec. (a)(1)(C) to (I). Pub. L. 106–386, §1503(d)(1), (2), added subpars. (C) and (D) and redesignated former subpars. (C) to (G) as (E) to (I), respectively. Former subpar. (H) redesignated (J).
 
 Subsec. (a)(1)(J). Pub. L. 106–386, §1503(d)(1), (3), redesignated subpar. (H) as (J) and inserted “or in making determinations under subparagraphs (C) and (D),” after “subparagraph (B),”.
+
+Subsec. (d). Pub. L. 106–279 designated existing provisions as par. (1), substituted “subparagraph (F) or (G) of section 1101(b)(1)” for “section 1101(b)(1)(F)”, and added par. (2).
 
 Subsec. (h). Pub. L. 106–386, §1507(b), inserted at end “Remarriage of an alien whose petition was approved under subsection (a)(1)(B)(ii) or (a)(1)(A)(iii) of this section or marriage of an alien described in clause (iv) or (vi) of subsection (a)(1)(A) of this section or in subsection (a)(1)(B)(iii) of this section shall not be the basis for revocation of a petition approval under section 1155 of this title.”
 
@@ -370,7 +370,7 @@ Subsec. (f). Pub. L. 101–649, §162(b)(5), (6), redesignated subsec. (g) as (f
 
 Subsec. (f)(1). Pub. L. 101–649, §162(b)(4), substituted reference to section 1153(a)(3) of this title for reference to section 1153(a)(4) of this title.
 
-Subsec. (g). Pub. L. 101–649, §702(b), as amended by Pub. L. 102–232, §308(b), inserted “except as provided insection 1255(e)(3) of this title,” after “Notwithstanding subsection (a) of this section,”.
+Subsec. (g). Pub. L. 101–649, §702(b), as amended by Pub. L. 102–232, §308(b), inserted “except as provided in section 1255(e)(3) of this title,” after “Notwithstanding subsection (a) of this section,”.
 
 Pub. L. 101–649, §162(b)(6), redesignated subsec. (h) as (g). Former subsec. (g) redesignated as (f).
 
@@ -420,7 +420,7 @@ Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–279 effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 106–279 effective Apr. 1, 2008, see section 505(a)(2), (b) of Pub. L. 106–279, set out as anEffective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 

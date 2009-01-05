@@ -52,9 +52,9 @@ As used in this section—
 
 &emsp;(2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, driving while intoxicated, and domestic violence; and
+&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible forcompensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, driving while intoxicated, and domestic violence; and
 
-&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,the United States Virgin Islands, and any other possession or territory of the United States.
+&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States.
 
 #### (e) Relationship to certain Federal programs
 
@@ -134,7 +134,7 @@ Section 233(d) of Pub. L. 104–132, as amended by Pub. L. 105–119, title I, �
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program onNov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
 
 #### Application of Amendment by Section 234(a)(1) of Pub. L. 104–132
 

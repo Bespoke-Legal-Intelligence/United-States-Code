@@ -38,7 +38,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) with respect to any building or structure if the organization or agency that received the grant under which the building was assisted demonstrates, to the satisfaction of the Secretary, that—
+&emsp;&emsp;The Secretary may waive the requirement under subparagraph (A) with respect to anybuilding or structure if the organization or agency that received the grant under which the building was assisted demonstrates, to the satisfaction of the Secretary, that—
 
 &emsp;&emsp;&emsp;(i) the structure is no longer needed to provide short-term supported housing or assistance or the continued operation of the structure for such purposes is no longer feasible; and
 

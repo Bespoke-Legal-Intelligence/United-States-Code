@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (B) Coordination with work opportunity credit
 
-&emsp;&emsp;The term “qualified wages” shall not include wages attributable to service renderedduring the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
+&emsp;&emsp;The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
 
 #### (2) Qualified employee health insurance costs
 
@@ -154,9 +154,13 @@ For purposes of this section—
 
 #### (f) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2007.
+This section shall not apply to taxable years beginning after December 31, 2009.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -165,6 +169,8 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
 #### Amendments
+
+2008—Subsec. (f). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
 
 2006—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2005”.
 
@@ -177,6 +183,10 @@ Subsec. (f). Pub. L. 108–311, §315, substituted “December 31, 2005” for �
 1998—Subsec. (b)(1)(B). Pub. L. 105–206 substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+
+#### Effective Date of 2008 Amendment
+
+Pub. L. 110–343, div. C, title III, §314(b), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
 #### Effective Date of 2006 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
+(1) The head of a Federal agency may enter into contracts under this subchapter solely forthe purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
 (2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
@@ -68,7 +68,7 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 &emsp;&emsp;(ii) select from such firms the most qualified firm to provide energy savings services based on technical and price proposals and any other relevant information;
 
-&emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and inviteother similarly qualified firms to submit competing proposals; and
+&emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
 &emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 

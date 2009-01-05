@@ -2,7 +2,7 @@
 
 #### (a) Purchase by Government agencies
 
-The Department of Defense, the Atomic Energy Commission, and other agencies of the Federal Government, to the extent that supplies arereadily available, shall purchase all major requirements of helium from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary.
+The Department of Defense, the Atomic Energy Commission, and other agencies of the Federal Government, to the extent that supplies are readily available, shall purchase all major requirements of helium from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary.
 
 #### (b) Sales by Secretary
 
@@ -32,7 +32,7 @@ All moneys received by the Secretary from the sale or disposition of helium on F
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–273, §4(a), substituted “from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary” for “from the Secretary”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–273, §4(a), substituted “from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary” for “from the Secretary”.
 
 Subsec. (b). Pub. L. 104–273, §4(b), inserted “crude” before “helium” and inserted at end “Except as may be required by reason of subsection (a) of this section, sales of crude helium under this section shall be in amounts as the Secretary determines, in consultation with the helium industry, necessary to carry out this subsection with minimum market disruption.”
 
@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 104–273, §4(c)(2), which directed the amendment of subse
 
 Pub. L. 104–273, §4(c)(1), inserted “crude” after “Sales of”.
 
-Subsec. (d). Pub. L. 104–273, §4(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “Compound interest on the amounts specified in clauses (1), (2), and (3) of subsection (c) of this section which have not been paid to the Treasury shall be calculated annually at rates determined by the Secretary of the Treasury taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the investments authorized by this chapter, except that the interest rate on the amounts specified in clause (1) of subsection (c) of this section shall be determined as of Sept. 13, 1960, and the interest rate on the obligations specified in clauses (2) and (3) of subsection (c) of this section as of the time of each borrowing.”
+Subsec. (d). Pub. L. 104–273, §4(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “Compound interest on the amounts specified in clauses (1), (2), and (3) of subsection (c) of this section which have not been paid to the Treasury shall be calculated annually at rates determined by the Secretary of the Treasury taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the investments authorized by thischapter, except that the interest rate on the amounts specified in clause (1) of subsection (c) of this section shall be determined as of Sept. 13, 1960, and the interest rate on the obligations specified in clauses (2) and (3) of subsection (c) of this section as of the time of each borrowing.”
 
 Subsecs. (e), (f). Pub. L. 104–273, §4(e), (f), redesignated subsec. (f) as (e)(1), added par. (2), and struck out former subsec. (e) which read as follows: “Helium shall be sold for medical purposes at prices which will permit its general use therefor; and all sales of helium to non-Federal purchasers shall be upon condition that the Federal Government shall have a right to repurchase helium so sold that has not been lost or dissipated, when needed for Government use, under terms and at prices established by regulations.”
 

@@ -14,7 +14,7 @@ Tobacco products and cigarette papers and tubes, imported or brought into the Un
 
 #### (d) Tobacco products and cigarette papers and tubes exported and returned
 
-Tobacco products and cigarette papers and tubes classifiable under item 804.00 of title I ofthe Tariff Act of 1930 (relating to duty on certain articles previously exported and returned) may be released from customs custody, without payment of that part of the duty attributable to the internal revenue tax for delivery to the original manufacturer of such tobacco products or cigarette papers and tubes or to the proprietor of an export warehouse authorized by such manufacturer to receive such articles, in accordance with such regulations and under such bond as the Secretary shall prescribe. Upon such release such products, papers, and tubes shall be subject to this chapter as if they had not been exported or otherwise removed from internal-revenue bond.
+Tobacco products and cigarette papers and tubes classifiable under item 804.00 of title I of the Tariff Act of 1930 (relating to duty on certain articles previously exported and returned) may be released from customs custody, without payment of that part of the duty attributable to the internal revenue tax for delivery to the original manufacturer of such tobacco products or cigarette papers and tubes or to the proprietor of an export warehouse authorized by such manufacturer to receive such articles, in accordance with such regulations and under such bond as the Secretary shall prescribe. Upon such release such products, papers, and tubes shall be subject to this chapter as if they had not been exported or otherwise removed from internal-revenue bond.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 708; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1418; Pub. L. 88–342, §1(b), June 30, 1964, 78 Stat. 234; Pub. L. 89–44, title V, §502(b)(4), June 21, 1965, 79 Stat. 151; Pub. L. 94–455, title XIX, §§1905(a)(26), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 99–509, title VIII, §8011(a)(2), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 101–239, title VII, §7508(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 105–33, title IX, §9302(h)(1)(A), Aug. 5, 1997, 111 Stat. 673; Pub. L. 106–476, title IV, §4002(b), Nov. 9, 2000, 114 Stat. 2177.)
 
@@ -24,7 +24,7 @@ Item 804.00 of title I of the Tariff Act of 1930, referred to in subsec. (d), wa
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–476 substituted “the original manufacturer of such” for “a manufacturer of” and inserted “authorized by such manufacturer to receive such articles” after “proprietor of an export warehouse”.
+2000—Subsec. (d). Pub. L. 106–476 substituted “the original manufacturer of such” for “a manufacturer of”and inserted “authorized by such manufacturer to receive such articles” after “proprietor of an export warehouse”.
 
 1997—Subsec. (b). Pub. L. 105–33 inserted at end “Tobacco products and cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe.”
 

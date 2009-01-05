@@ -8,13 +8,15 @@ A prior part C of this subchapter, consisting of section 1395x et seq., was rede
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subpar. (F) has been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “elapsed”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “elapsed”.</i>
+<i><sup>2</sup></i><i> So in original. No subpar. (F) has been enacted.</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 
 ---

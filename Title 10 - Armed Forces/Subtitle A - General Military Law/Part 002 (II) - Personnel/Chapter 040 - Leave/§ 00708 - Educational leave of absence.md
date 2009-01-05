@@ -1,6 +1,6 @@
 ### §708. Educational leave of absence
 
-(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Homeland Security and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for the purpose of permitting the member to pursue a program of education. The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.
+(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Homeland Security and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for the purpose of permitting the member to pursue a program of education. The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the caseof an eligible member pursuing a program of education in a health care profession.
 
 (b)(1) A member may not be granted a leave of absence under this section unless—
 

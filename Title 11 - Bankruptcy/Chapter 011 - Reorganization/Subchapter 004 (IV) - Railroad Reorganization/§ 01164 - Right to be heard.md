@@ -1,6 +1,6 @@
 ### §1164. Right to be heard
 
-The Board, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and may appear and be heard on any issue in a case under this chapter, but may not appeal from any judgment, order, or decree entered in the case.
+The Board, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and may appear and be heard on any issue in acase under this chapter, but may not appeal from any judgment, order, or decree entered in the case.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
 

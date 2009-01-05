@@ -10,7 +10,7 @@ The capital stock of each bank shall be divided into shares of par value of $100
 
 #### (c) Eligible holders of voting stock
 
-Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks and (ii) other banks for cooperatives, and shall not be otherwise transferred, pledged, or hypothecated except as consented to by the issuing bank under regulations of the Farm Credit Administration.
+Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks <sup>1</sup> (ii) other categories of persons and entities described in sections 2128 and 2129 of this title eligible to borrow from the bank, as determined by the bank's board of directors; and (iii) other banks for cooperatives, and shall not be otherwise transferred, pledged, or hypothecated except as consented to by the issuing bank under regulations of the Farm Credit Administration.
 
 #### (d) Entitlement to vote
 
@@ -24,9 +24,17 @@ Nonvoting investment stock may be issued in such series and in such amounts as m
 
 Participation certificates may be issued to parties to whom voting stock may not be issued.
 
-(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(<i>o</i>), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715.)
+(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(<i>o</i>), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715; Pub. L. 110–234, title V, §§5402, 5403(a), May 22, 2008, 122 Stat. 1154; Pub. L. 110–246, §4(a), title V, §§5402, 5403(a), June 18, 2008, 122 Stat. 1664, 1915.)
+
+#### Codification
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+2008—Subsec. (b). Pub. L. 110–246, §5402, which directed substitution of “par” for “per”, could not be executed because “per” did not appear.
+
+Subsec. (c)(ii), (iii). Pub. L. 110–246, §5403(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 1988—Subsec. (a). Pub. L. 100–233, §802(<i>o</i>)(1), struck out “, with the approval of Farm Credit Administration,” after “board determines”.
 
@@ -42,7 +50,13 @@ Subsec. (e). Pub. L. 99–205, §205(e)(4), struck out “, except for stock he
 
 1980—Subsec. (f). Pub. L. 96–592 added subsec. (f).
 
+#### Effective Date of 2008 Amendment
+
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
+
+<i><sup>1</sup></i><i> So in original. There probably should be a semicolon after “banks”.</i>
 

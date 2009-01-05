@@ -1,6 +1,6 @@
 ### §3663. Order of restitution
 
-(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
+(a)(1)(A) The court, when sentencing a defendant convicted of an offense under this title, section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863) (but in no case shall a participant in an offense under such sections be considered a victim of such offense under this section), or section 5124, 46312, 46502, or 46504 of title 49, other than an offense described in section 3663A(c), may order, in addition to or, in the case of a misdemeanor, in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of such offense, or if the victim is deceased, to the victim's estate. The court may also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
 (B)(i) The court, in determining whether to order restitution under this section, shall consider—
 
@@ -36,11 +36,13 @@
 
 &emsp;&emsp;(C) reimburse the victim for income lost by such victim as a result of such offense;
 
-&emsp;(3) in the case of an offense resulting in bodily injury also results in the death of a victim, pay an amount equal to the cost of necessary funeral and related services;
+&emsp;(3) in the case of an offense resulting in bodily injury also results in the death of a victim,pay an amount equal to the cost of necessary funeral and related services;
 
-&emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense; and
+&emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
 
-&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate.
+&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate; and
+
+&emsp;(6) in the case of an offense under sections 1028(a)(7) or 1028A(a) of this title, pay an amount equal to the value of the time reasonably spent by the victim in an attempt to remediate the intended or actual harm incurred by the victim from the offense.
 
 (c)(1) Notwithstanding any other provision of law (but subject to the provisions of subsections (a)(1)(B)(i)(II) and (ii),<sup>1</sup> when sentencing a defendant convicted of an offense described in section 401, 408(a), 409, 416, 420, or 422(a) of the Controlled Substances Act (21 U.S.C. 841, 848(a), 849, 856, 861, 863), in which there is no identifiable victim, the court may order that the defendant make restitution in accordance with this subsection.
 
@@ -60,19 +62,21 @@
 
 (6) Requests for community restitution under this subsection may be considered in all plea agreements negotiated by the United States.
 
-(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courtsin determining the amount of restitution that may be ordered under this subsection.
+(7)(A) The United States Sentencing Commission shall promulgate guidelines to assist courts in determining the amount of restitution that may be ordered under this subsection.
 
 (B) No restitution shall be ordered under this subsection until such time as the Sentencing Commission promulgates guidelines pursuant to this paragraph.
 
 (d) An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(<i>l</i>), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, §3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, §7128(b), Aug. 10, 2005, 119 Stat. 1910.)
+(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(<i>l</i>), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, §3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, §7128(b), Aug. 10, 2005, 119 Stat. 1910; Pub. L. 110–326, title II, §202, Sept. 26, 2008, 122 Stat. 3561.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+2008—Subsec. (b)(6). Pub. L. 110–326 added par. (6).
 
 2005—Subsec. (a)(1)(A). Pub. L. 109–59 inserted “5124,” before “46312,”.
 
@@ -88,7 +92,7 @@ Subsec. (c). Pub. L. 104–132, §205(a)(2), (3), added subsec. (c) and struck o
 
 Subsec. (c)(4). Pub. L. 104–294, §601(r)(2), inserted “or chapter 96” after “under chapter 46”.
 
-Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read as follows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
+Subsec. (d). Pub. L. 104–132, §205(a)(2), (3), added subsec. (d) and struck out former subsec. (d) which read asfollows: “To the extent that the court determines that the complication and prolongation of the sentencing process resulting from the fashioning of an order of restitution under this section outweighs the need to provide restitution to any victims, the court may decline to make such an order.”
 
 Subsecs. (e) to (i). Pub. L. 104–132, §205(a)(2), struck out subsecs. (e) to (i), relating to provisions for restitution to persons who had compensated victims for their loss as well as offsets for restitution received by victims against amounts later recovered as compensatory damages, court orders that defendant make restitution in specified time period or in specified installments, payment of restitution as condition of probation or of supervised release, enforcement of restitution orders by United States or by victim, and supervision, termination, or restoration of eligibility for Federal benefits of persons delinquent in making restitution, respectively.
 
@@ -126,7 +130,7 @@ Subsec. (c). Pub. L. 98–596, §9(1), substituted “court” for “Court” a
 
 Subsec. (f)(4). Pub. L. 98–596, §9(2), added par. (4).
 
-Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) readas follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.”
+Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “If such defendant is placed on probation or paroled under this title, any restitution ordered under this section shall be a condition of such probation or parole. The court may revoke probation and the Parole Commission may revoke parole if the defendant fails to comply with such order. In determining whether to revoke probation or parole, the court or Parole Commission shall consider the defendant's employment status, earning ability, financial resources, the willfulness of the defendant's failure to pay, and any other special circumstances that may have a bearing on the defendant's ability to pay.”
 
 Subsec. (h). Pub. L. 98–473, §212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 

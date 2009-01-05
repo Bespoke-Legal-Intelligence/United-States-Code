@@ -48,7 +48,7 @@ Implementation.—(1) Except as provided in section 105 of this Act \[set out be
 
 Early Implementation District Courts.—
 
-&emsp;“(1) Any United States district court that, no earlier than June 30, 1991, and no later than December 31, 1991, develops and implements a civil justice expense and delay reduction plan under chapter 23 of title 28, United States Code, as added by subsection (a), shall be designated by the Judicial Conference of the United States as an Early Implementation District Court.
+&emsp;“(1) Any United States district court that, no earlier than June 30, 1991, and no later than December 31, 1991, develops and implements a civil justice expenseand delay reduction plan under chapter 23 of title 28, United States Code, as added by subsection (a), shall be designated by the Judicial Conference of the United States as an Early Implementation District Court.
 
 &emsp;“(2) The chief judge of a district so designated may apply to the Judicial Conference for additional resources, including technological and personnel support and information systems, necessary to implement its civil justice expense and delay reduction plan. The Judicial Conference may provide such resources out of funds appropriated pursuant to section 106(a) \[Pub. L. 101–650, title I, Dec. 1, 1990, 104 Stat. 5098\].
 
@@ -106,7 +106,7 @@ Program Requirements.—(1) Ten district courts (in this section referred to as 
 
 “(c)
 
-Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independentorganization with expertise in the area of Federal court management.
+Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independent organization with expertise in the area of Federal court management.
 
 “(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
 

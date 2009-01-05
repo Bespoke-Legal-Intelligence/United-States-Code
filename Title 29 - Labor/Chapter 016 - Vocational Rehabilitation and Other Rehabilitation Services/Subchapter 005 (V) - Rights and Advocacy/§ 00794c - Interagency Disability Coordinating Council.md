@@ -26,7 +26,7 @@ On or before July 1 of each year, the Interagency Disability Coordinating Counci
 
 1986—Pub. L. 99–506, §602, inserted reference to Assistant Secretary of the Interior for Indian Affairs.
 
-Pub. L. 99–506, §1001(f)(4), which directed the substitution of “Chairperson” for “Chairman” was executed by substituting “Chairperson of the Architectural and Transportation Barriers Compliance Board” for “Chairman of the Architectural and Transportation Barriers Compliance Board” to reflect the probable intent of Congress.
+Pub. L. 99–506, §1001(f)(4), which directed the substitution of “Chairperson” for “Chairman” was executedby substituting “Chairperson of the Architectural and Transportation Barriers Compliance Board” for “Chairman of the Architectural and Transportation Barriers Compliance Board” to reflect the probable intent of Congress.
 
 1984—Pub. L. 98–221 substituted “Chairman of the Office of Personnel Management” for “Chairman of the United States Civil Service Commission” and purported to substitute “Secretary of Education, the Secretary of Health and Human Services,” for “Secretary of Health, Education, and Welfare” which amendment could not be executed in view of the previous amendment by Pub. L. 96–88. See 1979 Amendment note below.
 
